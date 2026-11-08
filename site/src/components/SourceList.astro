@@ -8,6 +8,9 @@ import type { Lang } from '../lib/record';
 interface Props { lang: Lang; sources: CitedSource[] }
 const { lang, sources } = Astro.props;
 const t = strings(lang).cite;
+/** Sources shown before the reader asks for the rest. */
+const SHOWN = 5;
+const folds = sources.length > SHOWN + 1;
 const title = (c: CitedSource) => {
   // Titles often mix scripts (“Golsa: سایه”), so their direction comes from their first letter.
   const language = c.source.language ?? lang;
@@ -26,9 +29,9 @@ const details = (c: CitedSource) => {
 };
 ---
 
-<ol class="source-list">
-  {sources.map((c) => (
-    <li id={`source-${c.n}`}>
+<ol class="source-list" id="source-list" data-folds={folds ? '' : undefined}>
+  {sources.map((c, i) => (
+    <li id={`source-${c.n}`} class={folds && i >= SHOWN ? 'source-extra' : undefined}>
       <span class="source-num">{num(lang, c.n)}</span>
       <div>
         <Fragment set:html={title(c) + details(c)} />
@@ -42,6 +45,9 @@ const details = (c: CitedSource) => {
     </li>
   ))}
 </ol>
+{folds && (
+  <button class="pill needs-js source-more" id="source-more" aria-expanded="false" aria-controls="source-list" data-more={fill(t.more, { count: num(lang, sources.length) })} data-less={t.less}>{fill(t.more, { count: num(lang, sources.length) })}</button>
+)}
 
 <div class="cite-pop" id="cite-pop" popover role="dialog" aria-label={fill(t.source, { n: '' }).trim()} data-open={t.open} data-in-sources={t.inSources}></div>
 

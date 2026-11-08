@@ -117,6 +117,24 @@ test('search loading and retry survive interrupted requests', async ({ page }) =
   await expect(page.locator('#results-list > li').first()).toContainText('Sanam');
 });
 
+for (const lang of ['en', 'fa']) test(`${lang}: the Sources list shows a few until the reader asks for the rest`, async ({ page }) => {
+  await page.goto(`/${lang}/sanam-maroufkhani-a84/`);
+  const all = page.locator('#source-list > li');
+  const more = page.locator('#source-more');
+  expect(await all.count()).toBeGreaterThan(6);
+  await expect(page.locator('#source-list > li:visible')).toHaveCount(5);
+  await expect(more).toHaveAttribute('aria-expanded', 'false');
+  await more.focus(); await page.keyboard.press('Enter');
+  await expect(more).toHaveAttribute('aria-expanded', 'true');
+  await expect(page.locator('#source-list > li:visible')).toHaveCount(await all.count());
+  await more.click();
+  await expect(page.locator('#source-list > li:visible')).toHaveCount(5);
+  const hidden = page.locator('#source-list > li.source-extra').last();
+  const id = await hidden.getAttribute('id');
+  await page.goto(`/${lang}/sanam-maroufkhani-a84/#${id}`);
+  await expect(page.locator(`#${id}`)).toBeInViewport();
+});
+
 test('listening citations remain independent from platform links and preserve source navigation', async ({ page }) => {
   await page.setViewportSize({ width: 320, height: 844 });
   await page.goto('/en/sanam-maroufkhani-a84/');

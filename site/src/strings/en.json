@@ -121,7 +121,7 @@
     "quotes": { "one": "One quote", "other": "{count} quotes" },
     "open": "Open the source",
     "inSources": "In Sources",
-    "archived": "Archived copy"
+    "more": "Show all {count} sources", "less": "Show fewer sources", "archived": "Archived copy"
   },
   "timelinePage": {
     "title": "Timeline",
