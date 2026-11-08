@@ -7,6 +7,10 @@
   When in doubt, leave it out.
 - Cite only sources actually opened and read, never a URL or quote from
   memory.
+- A quote from audio or video is a transcription checked against the
+  recording, with its timestamp.
+- Quote briefly. A source is never reproduced whole, and transcripts are not
+  published.
 - Keep the source's precision: a year stays a year, circa stays circa, and
   a date keeps its source's calendar.
 
