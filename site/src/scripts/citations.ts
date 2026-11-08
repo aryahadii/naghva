@@ -4,6 +4,30 @@
  */
 
 const pop = document.getElementById('cite-pop') as HTMLElement | null;
+
+// A long Sources list shows its first few until the reader asks for the rest.
+const list = document.getElementById('source-list');
+const more = document.getElementById('source-more') as HTMLButtonElement | null;
+const fold = (folded: boolean) => {
+  if (!list || !more) return;
+  list.classList.toggle('folded', folded);
+  more.setAttribute('aria-expanded', String(!folded));
+  more.textContent = folded ? more.dataset.more! : more.dataset.less!;
+};
+if (list && more && list.hasAttribute('data-folds')) {
+  fold(true);
+  more.addEventListener('click', () => {
+    const folded = !list.classList.contains('folded');
+    fold(folded);
+    if (folded) list.scrollIntoView({ block: 'nearest' });
+  });
+  // A link into a folded source unfolds the list before the browser scrolls to it.
+  document.addEventListener('click', (event) => {
+    const link = (event.target as Element).closest<HTMLAnchorElement>('a[href^="#"]');
+    const to = link && link.hash ? document.getElementById(decodeURIComponent(link.hash.slice(1))) : null;
+    if (to?.closest('.source-extra')) fold(false);
+  }, true);
+}
 let from: HTMLAnchorElement | null = null;
 let dismissing: HTMLAnchorElement | null = null;
 
@@ -73,6 +97,10 @@ if (pop) {
   // Following a quote's address opens the source it sits in.
   const reveal = () => {
     const el = location.hash ? document.getElementById(decodeURIComponent(location.hash.slice(1))) : null;
+    if (el?.closest('.source-extra') && list?.classList.contains('folded')) {
+      fold(false);
+      el.scrollIntoView({ block: 'center' });
+    }
     const details = el?.closest('details');
     if (el && details && !details.open) {
       details.open = true;

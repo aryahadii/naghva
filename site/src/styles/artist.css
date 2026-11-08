@@ -88,6 +88,8 @@ html[lang=fa] .release-facts dt { letter-spacing: 0; font-size: 13px }
 /* Sources: a plain numbered list; each source keeps the quotes the page rests on. */
 .source-list { margin: 0; padding: 0; list-style: none }
 .source-list > li { display: grid; grid-template-columns: 34px minmax(0, 1fr); padding: 6px 8px; margin-inline: -8px; border-radius: 8px; font-size: 15px; color: var(--ivory-3); scroll-margin-top: 90px }
+.source-list.folded > .source-extra { display: none }
+.source-more { margin-top: 12px }
 .source-list > li:target { animation: cited 2.6s ease-out }
 @keyframes cited { from { background: rgb(238 130 112 / .2) } to { background: rgb(238 130 112 / 0) } }
 .source-num { color: var(--coral); font-size: 14px; font-variant-numeric: tabular-nums }
