@@ -1,0 +1,53 @@
+id: Q5fd2cn
+type: person
+statements:
+  name:
+    - value:
+        text: نیما راد
+        language: fa
+      rank: preferred
+      references:
+        - source: t.me-badnama_example-42
+          quote: |-
+            نیما راد: گیتار
+          accessed: 2026-10-11
+    - value:
+        text: Nima Rad
+        language: en
+      references:
+        - source: badnama-example.bandcamp.com-album-nameless-street
+          quote: |-
+            Nima Rad - guitars
+          accessed: 2026-10-12
+  legal name:
+    - value:
+        text: نیما رادمنش
+        language: fa
+      references:
+        - source: example.com-magazine-badnama-interview
+          quote: |-
+            نیما رادمنش، که همه او را نیما راد می‌شناسند
+          accessed: 2026-10-12
+  birthplace:
+    - value: Q3nv8ks
+      references:
+        - source: example.com-magazine-badnama-interview
+          quote: |-
+            من در تهران به دنیا آمدم
+          accessed: 2026-10-12
+  member of:
+    - value: Q7k3m9x
+      qualifiers:
+        role: guitar
+        start time:
+          date: "1383"
+          calendar: jalali
+      references:
+        - source: t.me-badnama_example-42
+          quote: |-
+            نیما راد: گیتار
+          accessed: 2026-10-11
+        - source: example.com-magazine-badnama-interview
+          quote: |-
+            از همان سال ۱۳۸۳ گیتار گروه با نیما بوده است.
+          accessed: 2026-10-12

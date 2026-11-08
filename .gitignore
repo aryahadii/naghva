@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.derive.lock
+
+# Site build output and dependencies
+site/node_modules/
+site/dist/
+site/dist-examples/
+site/generated/
+site/.astro/
+
+# Licensed fonts are fetched at build time (site/scripts/fetch-fonts.mjs)
+site/src/assets/fonts/

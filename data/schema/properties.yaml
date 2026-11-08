@@ -1,0 +1,210 @@
+# Property registry: the property and qualifier tables of
+# specs/data-framework.md in machine-readable form. The spec is the authority;
+# tools/validate.py fails when the names here and in the spec's tables differ.
+#
+# `type` is not listed: it is structural (see data/README.md, Items).
+#
+# used on:    item types the property is used on; `any` for all
+# value:      item | text | date | url | term
+# item type:  for item values, the types the referenced item may have
+# qualifiers: qualifiers allowed on statements of this property
+# requires:   qualifiers every statement of this property must carry
+# excerpt:    true when a text value must sit, word for word, in a blockquote
+#             of each source its references cite
+# hosts:      for url values, allowed host names (a subdomain matches)
+
+types: [person, act, release, organization, event, place]
+
+properties:
+  name:
+    used on: any
+    value: text
+  legal name:
+    used on: [person]
+    value: text
+  birth date:
+    used on: [person]
+    value: date
+  birthplace:
+    used on: [person]
+    value: item
+    item type: [place]
+  member of:
+    used on: [person]
+    value: item
+    item type: [act]
+    qualifiers: [role, start time, end time, credited as]
+  formation date:
+    used on: [act]
+    value: date
+  based in:
+    used on: [act]
+    value: item
+    item type: [place]
+  life event:
+    used on: [person, act]
+    value: text
+    excerpt: true
+    qualifiers: [point in time, place, with, about]
+  release date:
+    used on: [release]
+    value: date
+  performer:
+    used on: [release, event]
+    value: item
+    item type: [act, person]
+    qualifiers: [role, credited as]
+  contributor:
+    used on: [release]
+    value: item
+    item type: [act, person]
+    qualifiers: [role, credited as]
+    requires: [role]
+  published by:
+    used on: [release]
+    value: item
+    item type: [organization]
+  listen link:
+    used on: [release]
+    value: url
+    hosts:
+      - youtube.com
+      - youtu.be
+      - open.spotify.com
+      - soundcloud.com
+      - bandcamp.com
+      - music.apple.com
+      - t.me
+  profile link:
+    used on: [person, act]
+    value: url
+    hosts:
+      - youtube.com
+      - youtu.be
+      - open.spotify.com
+      - soundcloud.com
+      - bandcamp.com
+      - music.apple.com
+      - t.me
+  event date:
+    used on: [event]
+    value: date
+  image:
+    used on: [person, act, event, place]
+    value: url
+    qualifiers: [credit, license]
+    hosts: &image-hosts
+      # Image files on the pages images may come from. Telegram's and
+      # Instagram's file addresses expire, so they are not here.
+      - mzstatic.com
+      - i.scdn.co
+      - sndcdn.com
+      - bcbits.com
+      - ytimg.com
+      - upload.wikimedia.org
+      - static.wixstatic.com
+      - www.farhadmehrad.org
+      - images.zoogletools.com
+      - images.ctfassets.net
+      - images.squarespace-cdn.com
+      - www.radialsystem.de
+      - www.womex.com
+      - actmusic.com
+      - cdn.shopify.com
+      - arashsobhani.com
+      - cdn.sanity.io
+      - www.sixdegreesrecords.com
+      - sussandeyhim.com
+      - riansounds.com
+      - hamidsaeidi.com
+      - korsi.online
+      - salam-music.at
+      - www.ohum.online
+      - bahramnouraei.com
+  cover art:
+    used on: [release]
+    value: url
+    qualifiers: [credit, license]
+    hosts: *image-hosts
+  poster:
+    used on: [event]
+    value: url
+    qualifiers: [credit, license]
+    hosts: *image-hosts
+  logo:
+    used on: [act, organization]
+    value: url
+    qualifiers: [credit, license]
+    hosts: *image-hosts
+
+qualifiers:
+  role:
+    value: term
+  start time:
+    value: date
+  end time:
+    value: date
+  point in time:
+    value: date
+  place:
+    value: item
+    item type: [place]
+  with:
+    value: item
+    item type: [act, person, organization]
+  about:
+    value: item
+    item type: [release]
+  credited as:
+    value: text
+  credit:
+    value: text
+  license:
+    value: url
+
+# Term lists for `term` values. Reuse an existing term before adding one.
+terms:
+  role:
+    - vocals
+    - backing vocals
+    - guitar
+    - fretless guitar
+    - bass
+    - drums
+    - percussion
+    - keyboards
+    - piano
+    - oud
+    - double bass
+    - synthesizer
+    - violin
+    - viola
+    - cello
+    - strings
+    - flute
+    - clarinet
+    - bass clarinet
+    - harmonica
+    - trumpet
+    - trombone
+    - santur
+    - setar
+    - tar
+    - daf
+    - tombak
+    - ney
+    - kamancheh
+    - producer
+    - composer
+    - lyricist
+    - songwriter
+    - original composer
+    - original lyricist
+    - arranger
+    - accordion
+    - soprano trombone
+    - tuba
+    - choir
+    - oboe
+    - saxophone
+    - tambura

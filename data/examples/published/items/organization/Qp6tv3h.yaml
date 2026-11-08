@@ -1,0 +1,22 @@
+id: Qp6tv3h
+type: organization
+statements:
+  name:
+    - value:
+        text: مه رکوردز
+        language: fa
+      rank: preferred
+      references:
+        - source: example.com-magazine-badnama-interview
+          quote: |-
+            آلبوم را با مه رکوردز منتشر کردیم
+          accessed: 2026-10-12
+    - value:
+        text: Meh Records
+        language: en
+      rank: preferred
+      references:
+        - source: badnama-example.bandcamp.com-album-nameless-street
+          quote: |-
+            released November 2012 via Meh Records
+          accessed: 2026-10-12
