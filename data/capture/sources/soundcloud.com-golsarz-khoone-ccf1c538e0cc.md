@@ -10,3 +10,5 @@ about:
 ---
 
 > Khoone
+
+Public catalogue text or credit field, read 2026-10-21.

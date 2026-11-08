@@ -7,3 +7,8 @@ publisher: Sanam Maroufkhani
 ---
 
 > Noghte ha
+
+Note: Reopened the cited page; exact excerpt and field semantics support this
+claim.
+
+---

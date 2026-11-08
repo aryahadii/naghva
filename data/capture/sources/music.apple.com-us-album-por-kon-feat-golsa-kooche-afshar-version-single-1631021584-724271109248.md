@@ -16,3 +16,5 @@ about:
 > "datePublished":"2022-06-21"
 
 > https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/18/f3/a9/18f3a9aa-fcaa-e916-98ea-1a13e54a9031/artwork.jpg/600x600bf-60.jpg
+
+Public catalogue metadata, read 2026-10-21.

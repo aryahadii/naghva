@@ -11,6 +11,12 @@ about:
 
 > زیبای من
 
+Public catalogue text or credit field, read 2026-10-21.
+
 > {"isoString":"2023-11-30T00:00:00Z"}
 
+Public catalogue metadata, read 2026-10-21.
+
 > Golsa
+
+Public catalogue text or credit field, read 2026-10-21.

@@ -11,3 +11,5 @@ about:
 ---
 
 > Listen to Makan Ashgvari Songs | Spotify
+
+Page title checked 2026-11-06. Embedded initialState read for the artist identity and album programme.

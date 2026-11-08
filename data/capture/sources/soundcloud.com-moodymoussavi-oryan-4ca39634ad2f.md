@@ -10,4 +10,8 @@ about: ["Moody Moussavi", "Aida Shahghasemi", "Oryan"]
 
 > Borna Shafizadeh : Drummer
 
+Read 2026-11-06; Full relevant description and embedded hydration metadata inspected; timestamps are source fields, not inferred first publication.
+
 > Maziyar Khavajiyan: Bassist (Oryan)
+
+Read 2026-11-06; Full relevant description and embedded hydration metadata inspected; timestamps are source fields, not inferred first publication.

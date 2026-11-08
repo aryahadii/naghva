@@ -14,4 +14,8 @@ about:
 
 > "datePublished":"2021-03-23"
 
+Public page text and embedded catalogue metadata, read 2026-10-21.
+
 > https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/bd/98/0b/bd980ba0-fa98-2b5e-873a-a2904f6ff28a/689690229252_cover.jpg/600x600bf-60.jpg
+
+Public catalogue metadata, read 2026-10-21.

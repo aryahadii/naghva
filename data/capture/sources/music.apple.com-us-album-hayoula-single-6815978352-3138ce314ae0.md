@@ -9,6 +9,8 @@ tier: own
 
 > Hayoula - Single - Album by Shaayn, Golsa & Taha Mazaheri - Apple Music
 
+Page text and public embedded metadata, read 2026-10-20.
+
 > September 27, 2026
 
 > https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a2/ba/50/a2ba50a4-a6c5-e8ba-9e83-daa5dbc9e92d/885975781556_cover.jpg/1200x630wp-60.jpg

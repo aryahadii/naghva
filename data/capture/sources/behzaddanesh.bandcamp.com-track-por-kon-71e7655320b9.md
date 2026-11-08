@@ -8,6 +8,8 @@ language: mul
 
 > Eric Vanier (Drums)
 
+Public page text and embedded metadata read 2026-11-03. Behzad Danesh’s linked Bandcamp catalogue gives a 293.143-second version matching the original 4:53 release. Its March 20, 2021 date differs from Apple/Spotify March 23. Retain both dated platform statements. The paragraph credits Hamed Abdi’s translation and TEDxTehran talk as inspiration; it does not establish Golsa’s own motive. Makan Taghavi and Eric Vanier are represented by minimal credited-person items; no broader biography or namesake equivalence is inferred. Lyrics are not transcribed here.
+
 > Makan Taghavi (Keyboards)
 
 > released March 20, 2021

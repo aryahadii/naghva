@@ -8,3 +8,5 @@ tier: own
 ---
 
 > https://riansounds.com/
+
+Page text and public embedded metadata, read 2026-10-20.

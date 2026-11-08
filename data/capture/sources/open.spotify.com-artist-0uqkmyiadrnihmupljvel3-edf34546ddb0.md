@@ -12,4 +12,8 @@ about:
 
 > Listen to Jetpack Songs | Spotify
 
+Source page or its embedded metadata, read 2026-10-19.
+
 > https://i.scdn.co/image/ab6761610000e5eb526d865cafdf4be4a5d2444b
+
+Source page or its embedded metadata, read 2026-10-19.

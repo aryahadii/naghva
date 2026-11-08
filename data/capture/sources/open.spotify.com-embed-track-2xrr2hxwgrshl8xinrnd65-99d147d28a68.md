@@ -11,4 +11,8 @@ about:
 
 > {"isoString":"2020-03-23T00:00:00Z"}
 
+Public catalogue metadata, read 2026-10-21.
+
 > The Poet
+
+Public catalogue text or credit field, read 2026-10-21.

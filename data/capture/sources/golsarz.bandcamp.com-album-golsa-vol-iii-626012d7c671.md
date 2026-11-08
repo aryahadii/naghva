@@ -13,5 +13,7 @@ about:
 
 > Golsa - Vol. III
 
+Public catalogue text or credit field, read 2026-10-21.
+
 > a four-track EP including the tunes that Golsa has recorded with her friends
 > throughout the past two years.

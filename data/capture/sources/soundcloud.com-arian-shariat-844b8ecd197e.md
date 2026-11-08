@@ -8,3 +8,5 @@ tier: own
 ---
 
 > Rian / آرین
+
+Page text and public embedded metadata, read 2026-10-20.

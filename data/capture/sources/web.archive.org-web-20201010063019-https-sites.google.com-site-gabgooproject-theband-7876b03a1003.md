@@ -9,3 +9,5 @@ publisher: Gabgoo (official site, archived)
 
 > Gabgoo started its work in 2006 when Reza Abaee , Hamid Saeedi , Henrik Nagi
 > , and Habib Meftah Bushehri joined one another to form a musical band.
+
+Page text, read 2026-10-19.

@@ -12,3 +12,5 @@ publisher: Gürzenich-Orchester Köln
 > Indigo Valley
 > Arrangement Justus Berger
 > Sanam Maroufkhani
+
+Date and programme sequence, read from the official HTML by ordinary HTTP on2026-10-21. The first artist line is the composer slot, the last the performer slot. The current cast includes Anousha Nazari replacing Hani Mojtahedy. Outcome is separately supported by post-event journalism.

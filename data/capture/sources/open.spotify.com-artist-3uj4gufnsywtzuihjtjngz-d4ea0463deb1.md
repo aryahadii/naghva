@@ -11,3 +11,5 @@ tier: own
 > producer known within the Iranian music scene. Since beginning his career as
 > a session musician at the age of 18, he has collaborated with both
 > mainstream and independent artists across a wide range of musical styles.
+
+Page text and public embedded metadata, read 2026-10-20.

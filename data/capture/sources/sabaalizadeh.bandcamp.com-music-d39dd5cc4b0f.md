@@ -7,3 +7,5 @@ publisher: Saba Alizadeh
 ---
 
 > https://f4.bcbits.com/img/0034764765_10.jpg
+
+Artist photograph URL in profile HTML, inspected whole, read 2026-11-06.

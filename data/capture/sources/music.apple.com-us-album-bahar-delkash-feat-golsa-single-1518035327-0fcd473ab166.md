@@ -15,3 +15,5 @@ about:
 > "datePublished":"2020-06-08"
 
 > https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/15/a0/e2/15a0e2db-9c1a-1b1e-995b-a0a87203956b/artwork.jpg/600x600bf-60.jpg
+
+Public catalogue metadata, read 2026-10-21.

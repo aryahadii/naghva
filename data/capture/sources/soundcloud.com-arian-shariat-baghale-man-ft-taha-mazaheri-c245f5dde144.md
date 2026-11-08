@@ -13,6 +13,8 @@ tier: own
 
 > Rian / آرین
 
+Page text and public embedded metadata, read 2026-10-20.
+
 > Vocals : Arian Shariat
 
 > Producer and Songwriter  : Taha Mazaheri

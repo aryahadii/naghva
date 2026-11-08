@@ -7,3 +7,5 @@ publisher: Apple Music
 ---
 
 > Sanam Maroufkhani
+
+Canonical artist page apple:title and description metadata, reopened directly 2026-10-21. The static HTML does not expose a plain h1; the catalogue metadata supplies the exact artist name.

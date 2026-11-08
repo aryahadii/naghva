@@ -8,3 +8,5 @@ publisher: makanashgvari.bandcamp.com
 ---
 
 > In Rage We Dance by Makan Ashgvari
+
+Page text, read 2026-10-19.

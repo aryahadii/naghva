@@ -15,3 +15,5 @@ about:
 
 > Behzad Danesh (Music and Producing)https://linktr.ee/Behzaddanesh
 > Golsa  (Vocals)
+
+Official artist upload title, factual description and credits, read 2026-10-21. Upload timestamp is not used as the release date.

@@ -10,3 +10,7 @@ about:
 ---
 
 > Alternative & Synthpop band from Tehran
+
+Profile biography; full public page read via Jina. Read 2026-10-15.
+
+

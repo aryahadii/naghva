@@ -12,3 +12,5 @@ language: mul
 > Hafez
 > 2023
 > 5:06
+
+Public page text and embedded metadata read 2026-11-03. The opened page was checked against the exact artist, title, duration, collaborators and existing artist catalogue. Artist-name coincidence alone was not used for matching.

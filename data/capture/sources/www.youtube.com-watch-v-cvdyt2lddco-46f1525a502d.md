@@ -11,3 +11,5 @@ about:
 ---
 
 > @tahamazaheri8857  #guitarist
+
+Full videoDetails.shortDescription, read 2026-10-22.

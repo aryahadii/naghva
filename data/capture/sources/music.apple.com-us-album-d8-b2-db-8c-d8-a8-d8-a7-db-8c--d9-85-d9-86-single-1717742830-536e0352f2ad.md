@@ -13,3 +13,5 @@ about:
 > Duration: 5 minutes.
 
 > https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/84/ea/42/84ea4262-5a15-9aaa-beea-3538574074b6/artwork.jpg/600x600bf-60.jpg
+
+Public catalogue metadata, read 2026-10-21. Golsa's performance is independently identified by the artist's own SoundCloud upload and Spotify credit. Square artwork visually inspected; Persian cover credit reads «میدنایت دریپس و گلسا».

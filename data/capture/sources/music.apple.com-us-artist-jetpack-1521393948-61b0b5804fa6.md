@@ -11,3 +11,7 @@ about:
 ---
 
 > Joone Jaddet - Single
+
+Artist release list, direct HTTP HTML; web extract also opened. Read 2026-10-15.
+
+

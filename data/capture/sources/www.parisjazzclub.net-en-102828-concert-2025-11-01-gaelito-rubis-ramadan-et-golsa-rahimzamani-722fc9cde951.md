@@ -15,3 +15,5 @@ about: [Golsa]
 > Saturday November, 1st 2025
 
 > Golsa Rahimzamani / vocals
+
+Event title, date, venue and lineup credit, read 2026-10-21. The event page also names Rubis Ramadan on vocals/FX, Sim Tranber on modular, and Gaël Petrina on bass. Its address is 141 Rue de Tolbiac, Paris. This is an advertised booking, not evidence of a permanent base in France.
