@@ -1,0 +1,64 @@
+id: Q7k3m9x
+type: act
+statements:
+  name:
+    - value:
+        text: بادنما
+        language: fa
+      rank: preferred
+      references:
+        - source: t.me-badnama_example
+          quote: |-
+            کانال رسمی گروه بادنما
+          accessed: 2026-10-11
+    - value:
+        text: Badnama
+        language: en
+      rank: preferred
+      references:
+        - source: badnama-example.bandcamp.com-album-nameless-street
+          quote: |-
+            Nameless Street, by Badnama
+          accessed: 2026-10-12
+  formation date:
+    - value:
+        date: "1383"
+        calendar: jalali
+      references:
+        - source: example.com-magazine-badnama-interview
+          quote: |-
+            گروه بادنما سال ۱۳۸۳ در تهران شکل گرفت.
+          accessed: 2026-10-12
+    - value:
+        date: "2005"
+      rank: deprecated
+      references:
+        - source: example.org-music-tehran-rock-roundup
+          quote: |-
+            Badnama formed in 2005 and has been playing Tehran's small venues
+            since.
+          accessed: 2026-10-12
+  based in:
+    - value: Q3nv8ks
+      references:
+        - source: example.com-magazine-badnama-interview
+          quote: |-
+            گروه بادنما سال ۱۳۸۳ در تهران شکل گرفت.
+          accessed: 2026-10-12
+  life event:
+    - value:
+        text: |-
+          اولین اجرای ما سال ۱۳۸۴ در زیرزمین خانهٔ یکی از دوستان در تهران بود،
+          چون جای دیگری به ما اجازه نمی‌دادند.
+        language: fa
+      qualifiers:
+        point in time:
+          date: "1384"
+          calendar: jalali
+        place: Q3nv8ks
+      references:
+        - source: example.com-magazine-badnama-interview
+          quote: |-
+            اولین اجرای ما سال ۱۳۸۴ در زیرزمین خانهٔ یکی از دوستان در تهران بود،
+            چون جای دیگری به ما اجازه نمی‌دادند.
+          accessed: 2026-10-12

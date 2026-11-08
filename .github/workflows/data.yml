@@ -1,0 +1,22 @@
+name: data
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pyyaml jsonschema
+      - name: Test capture tooling
+        run: python3 -m unittest discover -s tools -p 'test_*.py'
+      - name: Validate data
+        run: python3 tools/validate.py
+      - name: Validate examples
+        run: python3 tools/validate.py --root data/examples

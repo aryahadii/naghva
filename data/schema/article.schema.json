@@ -1,0 +1,21 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "article.schema.json",
+  "title": "Article front matter",
+  "description": "The YAML front matter of a file under data/published/articles/<id>.<lang>.md. tools/validate.py checks the cross-file rules described in data/README.md.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["references"],
+  "properties": {
+    "references": {
+      "type": "object",
+      "minProperties": 1,
+      "propertyNames": {
+        "description": "a citation key: lowercase letters and digits, joined by single hyphens",
+        "type": "string",
+        "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+      },
+      "additionalProperties": { "$ref": "item.schema.json#/$defs/reference" }
+    }
+  }
+}

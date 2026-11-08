@@ -1,0 +1,22 @@
+id: Q3nv8ks
+type: place
+statements:
+  name:
+    - value:
+        text: تهران
+        language: fa
+      rank: preferred
+      references:
+        - source: example.com-magazine-badnama-interview
+          quote: |-
+            گروه بادنما سال ۱۳۸۳ در تهران شکل گرفت.
+          accessed: 2026-10-12
+    - value:
+        text: Tehran
+        language: en
+      rank: preferred
+      references:
+        - source: example.org-music-tehran-rock-roundup
+          quote: |-
+            Tehran's rock scene, a roundup
+          accessed: 2026-10-12

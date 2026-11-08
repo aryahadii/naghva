@@ -1,0 +1,60 @@
+id: Qd8mk4r
+type: release
+statements:
+  name:
+    - value:
+        text: خیابان بی‌نام
+        language: fa
+      rank: preferred
+      references:
+        - source: t.me-badnama_example-42
+          quote: |-
+            آلبوم «خیابان بی‌نام»
+          accessed: 2026-10-11
+    - value:
+        text: Nameless Street
+        language: en
+      rank: preferred
+      references:
+        - source: badnama-example.bandcamp.com-album-nameless-street
+          quote: |-
+            Nameless Street, by Badnama
+          accessed: 2026-10-12
+  release date:
+    - value:
+        date: "2012-11"
+      references:
+        - source: badnama-example.bandcamp.com-album-nameless-street
+          quote: |-
+            released November 2012
+          accessed: 2026-10-12
+  performer:
+    - value: Q7k3m9x
+      references:
+        - source: badnama-example.bandcamp.com-album-nameless-street
+          quote: |-
+            Nameless Street, by Badnama
+          accessed: 2026-10-12
+  contributor:
+    - value: Q5fd2cn
+      qualifiers:
+        role: [composer, lyricist]
+      references:
+        - source: badnama-example.bandcamp.com-album-nameless-street
+          quote: |-
+            Words and music by Nima Rad
+          accessed: 2026-10-12
+  published by:
+    - value: Qp6tv3h
+      references:
+        - source: badnama-example.bandcamp.com-album-nameless-street
+          quote: |-
+            released November 2012 via Meh Records
+          accessed: 2026-10-12
+  listen link:
+    - value: https://badnama-example.bandcamp.com/album/nameless-street
+      references:
+        - source: badnama-example.bandcamp.com-album-nameless-street
+          quote: |-
+            Nameless Street, by Badnama
+          accessed: 2026-10-12
