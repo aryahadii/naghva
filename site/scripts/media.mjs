@@ -220,7 +220,9 @@ export const copyName = (entry, width) => `${entry.sha256.slice(0, 16)}-${width}
 
 async function build() {
   const manifest = readManifest();
-  const unlisted = [...recordImages().keys()].filter((url) => !manifest[url]);
+  // Without a derived record (npm run derive), there is nothing to check against.
+  const record = existsSync('generated/record.json') || required ? recordImages() : new Map();
+  const unlisted = [...record.keys()].filter((url) => !manifest[url]);
   if (unlisted.length) {
     const message = `media: not in media.json yet, so shown from the publisher; run npm run media:add and media:upload:\n${unlisted.join('\n')}`;
     if (required) throw new Error(message);
