@@ -18,6 +18,14 @@ Before an entry is published, check:
   what is already captured. A partial catalogue says where it stops and why.
 - **Life.** Interviews, programmes and reporting, read for the artist's story,
   with its moments kept as [life events](data-framework.md#life-events).
+- **Interviews.** A long interview with the artist is heard in full, not read
+  from its description or automatic captions. It is transcribed by two
+  independent speech-to-text models, and only passages they agree on are
+  captured.
+- **Dates.** When sources date an event differently, look for the earliest
+  report before choosing.
+- **Provenance.** Every captured passage says where in the source it is and
+  when it was read, and every web source gets an archive link.
 
 A search that finds nothing is recorded as a search, not as proof that nothing
 exists.
