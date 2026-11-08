@@ -18,8 +18,9 @@ jobs:
     env:
       SITE_URL: https://naghva.com
       NAGHVA_BUILD_SHA: ${{ github.sha }}
-      # The licensed Persian fonts, from the owner's private copy; without them
-      # the build uses the free Vazirmatn (site/scripts/fetch-fonts.mjs).
+      # The licensed Persian fonts: on main from the private R2 bucket (fonts/,
+      # with the R2 key below), or from NAGHVA_FONTS_URL; without either the
+      # build uses the free Vazirmatn (site/scripts/fetch-fonts.mjs).
       NAGHVA_FONTS_URL: ${{ vars.NAGHVA_FONTS_URL }}
       NAGHVA_FONTS_TOKEN: ${{ secrets.NAGHVA_FONTS_TOKEN }}
       # Naghva's own image copies (site/scripts/media.mjs). Only builds of main
