@@ -1,0 +1,125 @@
+id: Q92eazx
+type: release
+statements:
+  name:
+  - value:
+      text: Rameshgar (feat. Hamed Hamidzadeh, Mehrdad Mcy & Farid Farzianpour)
+      language: en
+    references:
+    - source: music.apple.com-us-album-ey-la-morovvat-feat-mehrdad-mcy-hamed-hamidzadeh-farid-6814708860-c21c557d2d59
+      quote: 'Listen to Rameshgar (feat. Hamed Hamidzadeh, Mehrdad Mcy & Farid Farzianpour) by Golsa & Taha Mazaheri on Apple Music. 2026. 7 Songs. Duration: 32 minutes.'
+      accessed: '2026-10-19'
+  # Editorial Persian display spelling; source uses the original name.
+  - value:
+      text: رامشگر
+      language: fa
+    references:
+    - source: music.apple.com-us-album-ey-la-morovvat-feat-mehrdad-mcy-hamed-hamidzadeh-farid-6814708860-c21c557d2d59
+      quote: 'Listen to Rameshgar (feat. Hamed Hamidzadeh, Mehrdad Mcy & Farid Farzianpour) by Golsa & Taha Mazaheri on Apple Music. 2026. 7 Songs. Duration: 32 minutes.'
+      accessed: '2026-10-19'
+  release date:
+  - value:
+      date: '2026-09-22'
+    references:
+    - source: music.apple.com-us-album-ey-la-morovvat-feat-mehrdad-mcy-hamed-hamidzadeh-farid-6814708860-c21c557d2d59
+      quote: '"datePublished":"2026-09-22"'
+      accessed: '2026-10-19'
+  performer:
+  - value: Qh745pn
+    references: &id001
+    - source: music.apple.com-us-album-ey-la-morovvat-feat-mehrdad-mcy-hamed-hamidzadeh-farid-6814708860-c21c557d2d59
+      quote: 'Listen to Rameshgar (feat. Hamed Hamidzadeh, Mehrdad Mcy & Farid Farzianpour) by Golsa & Taha Mazaheri on Apple Music. 2026. 7 Songs. Duration: 32 minutes.'
+      accessed: '2026-10-19'
+    - source: soundcloud.com-golsarz-ey-la-morovvat-3-3fdc2f842aab
+      quote: 'Songwriting & Vocal: Golsa'
+      accessed: '2026-10-21'
+      locator: Ey La Morovvat (album track)
+    qualifiers:
+      role:
+      - vocals
+  - value: Q66ky5f
+    references: &id002
+    - source: music.apple.com-us-album-ey-la-morovvat-feat-mehrdad-mcy-hamed-hamidzadeh-farid-6814708860-c21c557d2d59
+      quote: 'Listen to Rameshgar (feat. Hamed Hamidzadeh, Mehrdad Mcy & Farid Farzianpour) by Golsa & Taha Mazaheri on Apple Music. 2026. 7 Songs. Duration: 32 minutes.'
+      accessed: '2026-10-19'
+    - source: soundcloud.com-golsarz-ey-la-morovvat-3-3fdc2f842aab
+      quote: 'Guitar & Arrangement: Taha Mazaheri'
+      accessed: '2026-10-21'
+      locator: Ey La Morovvat (album track)
+    qualifiers:
+      role:
+      - guitar
+  - value: Qebxqy3
+    references:
+    - source: music.apple.com-us-album-ey-la-morovvat-feat-mehrdad-mcy-hamed-hamidzadeh-farid-6814708860-c21c557d2d59
+      quote: 'Listen to Rameshgar (feat. Hamed Hamidzadeh, Mehrdad Mcy & Farid Farzianpour) by Golsa & Taha Mazaheri on Apple Music. 2026. 7 Songs. Duration: 32 minutes.'
+      accessed: '2026-10-19'
+    - source: soundcloud.com-golsarz-ey-la-morovvat-3-3fdc2f842aab
+      quote: 'Bass: Hamed Hamidzadeh'
+      accessed: '2026-10-21'
+      locator: Ey La Morovvat (album track)
+    qualifiers:
+      role:
+      - bass
+  - value: Q6mm7b5
+    references:
+    - source: music.apple.com-us-album-ey-la-morovvat-feat-mehrdad-mcy-hamed-hamidzadeh-farid-6814708860-c21c557d2d59
+      quote: 'Listen to Rameshgar (feat. Hamed Hamidzadeh, Mehrdad Mcy & Farid Farzianpour) by Golsa & Taha Mazaheri on Apple Music. 2026. 7 Songs. Duration: 32 minutes.'
+      accessed: '2026-10-19'
+    - source: soundcloud.com-golsarz-ey-la-morovvat-3-3fdc2f842aab
+      quote: 'Keys: Mehrdad Mcy'
+      accessed: '2026-10-21'
+      locator: Ey La Morovvat (album track)
+    qualifiers:
+      role:
+      - keyboards
+  - value: Qzgpg9f
+    references:
+    - source: music.apple.com-us-album-ey-la-morovvat-feat-mehrdad-mcy-hamed-hamidzadeh-farid-6814708860-c21c557d2d59
+      quote: 'Listen to Rameshgar (feat. Hamed Hamidzadeh, Mehrdad Mcy & Farid Farzianpour) by Golsa & Taha Mazaheri on Apple Music. 2026. 7 Songs. Duration: 32 minutes.'
+      accessed: '2026-10-19'
+    - source: soundcloud.com-golsarz-ey-la-morovvat-3-3fdc2f842aab
+      quote: 'Drums: Farid Farzianpour'
+      accessed: '2026-10-21'
+      locator: Ey La Morovvat (album track)
+    qualifiers:
+      role:
+      - drums
+  contributor:
+  - value: Qh745pn
+    references: *id001
+    qualifiers:
+      role:
+      - composer
+  - value: Q66ky5f
+    references: *id002
+    qualifiers:
+      role:
+      - arranger
+  listen link:
+  - value: https://music.apple.com/us/album/ey-la-morovvat-feat-mehrdad-mcy-hamed-hamidzadeh-farid/6814708860
+    references:
+    - source: music.apple.com-us-album-ey-la-morovvat-feat-mehrdad-mcy-hamed-hamidzadeh-farid-6814708860-c21c557d2d59
+      quote: 'Listen to Rameshgar (feat. Hamed Hamidzadeh, Mehrdad Mcy & Farid Farzianpour) by Golsa & Taha Mazaheri on Apple Music. 2026. 7 Songs. Duration: 32 minutes.'
+      accessed: '2026-10-19'
+  - value: https://open.spotify.com/album/4TxpWAz2MoajG3gpSK9Mmy
+    references:
+    - source: open.spotify.com-album-4txpwaz2moajg3gpsk9mmy-3fb70f2a624e
+      quote: Rameshgar
+      accessed: '2026-10-22'
+  - value: https://www.youtube.com/playlist?list=OLAK5uy_m5Biw-TEU_el3EAqo93qdjimgl63rlMtI
+    references:
+    - source: www.youtube.com-playlist-list-olak5uy_m5biw-teu_el3eaqo93qdjimgl63rlmti-e021f790b514
+      quote: Rameshgar
+      accessed: '2026-10-22'
+  - value: https://soundcloud.com/golsarz/sets/rameshgar
+    references:
+    - source: soundcloud.com-golsarz-sets-rameshgar-12327ba33424
+      quote: Rameshgar
+      accessed: '2026-10-22'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ae/18/a6/ae18a6eb-1faf-9aea-5de0-2b3c4299faad/885975498065_cover.jpg/296x296bb.webp
+    references:
+    - source: music.apple.com-us-album-ey-la-morovvat-feat-mehrdad-mcy-hamed-hamidzadeh-farid-6814708860-c21c557d2d59
+      quote: 'Listen to Rameshgar (feat. Hamed Hamidzadeh, Mehrdad Mcy & Farid Farzianpour) by Golsa & Taha Mazaheri on Apple Music. 2026. 7 Songs. Duration: 32 minutes.'
+      accessed: '2026-10-19'

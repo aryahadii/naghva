@@ -1,0 +1,103 @@
+id: Qmjpb6b
+type: release
+statements:
+  name:
+  - value:
+      text: My Comrade Sings
+      language: en
+    references:
+    - source: soundcloud.com-sanam-maroufkhani-my-comrade-sings-2ff2c4685e35
+      quote: My Comrade Sings
+      accessed: '2026-10-21'
+  # Editorial Persian display spelling; source uses the original name.
+  - value:
+      text: هم‌رزمم می‌خواند
+      language: fa
+    references:
+    - source: soundcloud.com-sanam-maroufkhani-my-comrade-sings-2ff2c4685e35
+      quote: My Comrade Sings
+      accessed: '2026-10-21'
+  listen link:
+  - value: https://soundcloud.com/sanam-maroufkhani/my-comrade-sings
+    references:
+    - source: soundcloud.com-sanam-maroufkhani-my-comrade-sings-2ff2c4685e35
+      quote: My Comrade Sings
+      accessed: '2026-10-21'
+  - value: https://music.apple.com/us/album/my-comrade-sings-single/1844173800
+    references:
+    - source: music.apple.com-us-album-my-comrade-sings-single-1844173800-8627eaeff36a
+      quote: 'Listen to My Comrade Sings - Single by Sanam Maroufkhani & Marc Sarrià on Apple Music. 2025. 1 Song. Duration: 3 minutes.'
+      accessed: '2026-10-21'
+  - value: https://open.spotify.com/track/6SMDeBUgBW4ijM7qaTaCVd
+    references:
+    - source: open.spotify.com-embed-track-6smdebugbw4ijm7qatacvd-6c238d0a51bd
+      quote: My Comrade Sings
+      accessed: '2026-10-21'
+  performer:
+  - value: Qa84h2k
+    references:
+    - source: music.apple.com-us-album-my-comrade-sings-single-1844173800-8627eaeff36a
+      quote: 'Listen to My Comrade Sings - Single by Sanam Maroufkhani & Marc Sarrià on Apple Music. 2025. 1 Song. Duration: 3 minutes.'
+      accessed: '2026-10-21'
+  - value: Qsq7k2b
+    references:
+    - source: music.apple.com-us-album-my-comrade-sings-single-1844173800-8627eaeff36a
+      quote: 'Listen to My Comrade Sings - Single by Sanam Maroufkhani & Marc Sarrià on Apple Music. 2025. 1 Song. Duration: 3 minutes.'
+      accessed: '2026-10-21'
+  contributor:
+  - value: Qa84h2k
+    references:
+    - source: soundcloud.com-sanam-maroufkhani-my-comrade-sings-2ff2c4685e35
+      quote: |-
+        Music : Sanam Maroufkhani . Marc Sarrià
+        Composition . Lyrics: Sanam Maroufkhani
+        Production . Arrangement: Marc Sarrià
+        Mix & Master: Marc Sarrià
+        Art Work . Painting by Fatma Abolifard
+        Cover Design: Sarah Savalanpor
+      accessed: '2026-10-21'
+    qualifiers:
+      role:
+      - composer
+      - lyricist
+  - value: Qsq7k2b
+    references:
+    - source: soundcloud.com-sanam-maroufkhani-my-comrade-sings-2ff2c4685e35
+      quote: |-
+        Music : Sanam Maroufkhani . Marc Sarrià
+        Composition . Lyrics: Sanam Maroufkhani
+        Production . Arrangement: Marc Sarrià
+        Mix & Master: Marc Sarrià
+        Art Work . Painting by Fatma Abolifard
+        Cover Design: Sarah Savalanpor
+      accessed: '2026-10-21'
+    qualifiers:
+      role:
+      - composer
+      - producer
+      - arranger
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-PAmSzvQiHoTPNyjH-dlAzHg-t500x500.png
+    references:
+    - source: soundcloud.com-sanam-maroufkhani-my-comrade-sings-2ff2c4685e35
+      quote: https://i1.sndcdn.com/artworks-PAmSzvQiHoTPNyjH-dlAzHg-t500x500.png
+      accessed: '2026-10-21'
+    - source: soundcloud.com-sanam-maroufkhani-my-comrade-sings-2ff2c4685e35
+      quote: "Music : Sanam Maroufkhani . Marc Sarrià\nComposition . Lyrics: Sanam Maroufkhani \nProduction . Arrangement: Marc Sarrià\nMix & Master: Marc Sarrià\nArt Work . Painting by Fatma Abolifard\nCover Design: Sarah Savalanpor"
+      accessed: '2026-10-21'
+    qualifiers:
+      credit:
+        text: Fatma Abolifard (painting); Sarah Savalanpor (cover design)
+        language: en
+  release date:
+  - value:
+      date: '2025-10-24'
+    references:
+    - source: music.apple.com-us-album-my-comrade-sings-single-1844173800-8627eaeff36a
+      quote: '"datePublished":"2025-10-24"'
+      accessed: '2026-10-21'
+      locator: Catalogue release date
+    - source: open.spotify.com-embed-track-6smdebugbw4ijm7qatacvd-6c238d0a51bd
+      quote: '2025-10-24T00:00:00Z'
+      accessed: '2026-10-21'
+      locator: Catalogue release date

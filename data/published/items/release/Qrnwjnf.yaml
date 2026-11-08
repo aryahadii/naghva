@@ -1,0 +1,115 @@
+id: Qrnwjnf
+type: release
+statements:
+  name:
+  - value:
+      text: Sargashteh - Single
+      language: en
+    references:
+    - source: music.apple.com-us-album-sargashteh-single-1614382054-58b10d56a5e3
+      quote: 'Listen to Sargashteh - Single by Golsa on Apple Music. 2022. 1 Song. Duration: 4 minutes.'
+      accessed: '2026-10-19'
+  - value:
+      text: سرگشته
+      language: fa
+    references:
+    - source: aasoo.org-fa-podcast-4783-2af79eea546e
+      quote: 'سرگشته/ آهنگساز و خواننده: گلسا'
+      accessed: '2026-10-21'
+  release date:
+  - value:
+      date: '2022-03-14'
+    references:
+    - source: music.apple.com-us-album-sargashteh-single-1614382054-58b10d56a5e3
+      quote: '"datePublished":"2022-03-14"'
+      accessed: '2026-10-19'
+  performer:
+  - value: Q66ky5f
+    references: &id001
+    - source: golsarz.bandcamp.com-track-03-golsa-sargashteh-085cf2c0e2ba
+      quote: Produce by Taha Mazaheri
+      accessed: '2026-10-20'
+    - source: soundcloud.com-golsarz-sargashteh-c3c639b5f034
+      quote: 'Produce & guitar: taha mazaheri'
+      accessed: '2026-10-21'
+    qualifiers:
+      role:
+      - guitar
+  - value: Qebxqy3
+    references:
+    - source: soundcloud.com-golsarz-sargashteh-c3c639b5f034
+      quote: 'Bass: hamed hamidzadeh'
+      accessed: '2026-10-21'
+    qualifiers:
+      role:
+      - bass
+  - value: Qc2e74h
+    references:
+    - source: soundcloud.com-golsarz-sargashteh-c3c639b5f034
+      quote: 'Keys: aria mousavi'
+      accessed: '2026-10-21'
+    qualifiers:
+      role:
+      - keyboards
+  - value: Qr7dqzn
+    references:
+    - source: soundcloud.com-golsarz-sargashteh-c3c639b5f034
+      quote: 'Drums: sina partovi'
+      accessed: '2026-10-21'
+    qualifiers:
+      role:
+      - drums
+  - value: Qh745pn
+    references:
+    - source: music.apple.com-us-album-sargashteh-single-1614382054-58b10d56a5e3
+      quote: 'Listen to Sargashteh - Single by Golsa on Apple Music. 2022. 1 Song. Duration: 4 minutes.'
+      accessed: '2026-10-21'
+  contributor:
+  - value: Qh745pn
+    references:
+    - source: music.apple.com-us-album-sargashteh-single-1614382054-58b10d56a5e3
+      quote: 'Listen to Sargashteh - Single by Golsa on Apple Music. 2022. 1 Song. Duration: 4 minutes.'
+      accessed: '2026-10-19'
+    - source: soundcloud.com-golsarz-sargashteh-c3c639b5f034
+      quote: 'Songwriter: golsa'
+      accessed: '2026-10-21'
+    qualifiers:
+      role:
+      - composer
+  - value: Q66ky5f
+    references: *id001
+    qualifiers:
+      role:
+      - producer
+  listen link:
+  - value: https://music.apple.com/us/album/sargashteh-single/1614382054
+    references:
+    - source: music.apple.com-us-album-sargashteh-single-1614382054-58b10d56a5e3
+      quote: 'Listen to Sargashteh - Single by Golsa on Apple Music. 2022. 1 Song. Duration: 4 minutes.'
+      accessed: '2026-10-19'
+  - value: https://golsarz.bandcamp.com/track/03-golsa-sargashteh
+    references:
+    - source: golsarz.bandcamp.com-track-03-golsa-sargashteh-085cf2c0e2ba
+      quote: Produce by Taha Mazaheri
+      accessed: '2026-10-20'
+  - value: https://soundcloud.com/golsarz/sargashteh
+    references:
+    - source: soundcloud.com-golsarz-sargashteh-c3c639b5f034
+      quote: Sargashteh
+      accessed: '2026-10-21'
+  - value: https://open.spotify.com/track/1i6I8YmCrZpbgjZC4z9kvb
+    references:
+    - source: open.spotify.com-embed-track-1i6i8ymcrzpbgjzc4z9kvb-a02dd0ef9d22
+      quote: Sargashteh
+      accessed: '2026-10-21'
+  - value: https://www.youtube.com/watch?v=AmQM7-r_YVo
+    references:
+    - source: www.youtube.com-watch-v-amqm7-r_yvo-b5b39d2fb09b
+      quote: Sargashteh
+      accessed: '2026-10-22'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ef/a4/fa/efa4fa53-7736-781d-724f-8ae307cdf680/752470763601_cover.jpg/296x296bb.webp
+    references:
+    - source: music.apple.com-us-album-sargashteh-single-1614382054-58b10d56a5e3
+      quote: 'Listen to Sargashteh - Single by Golsa on Apple Music. 2022. 1 Song. Duration: 4 minutes.'
+      accessed: '2026-10-19'

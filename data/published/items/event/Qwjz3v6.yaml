@@ -1,0 +1,56 @@
+id: Qwjz3v6
+type: event
+statements:
+  name:
+  - value:
+      text: Gaëlito + Rubis Ramadan & Golsa Rahimzamani
+      language: en
+    references:
+    - source: www.parisjazzclub.net-en-102828-concert-2025-11-01-gaelito-rubis-ramadan-et-golsa-rahimzamani-722fc9cde951
+      quote: |-
+        Gaëlito + Rubis Ramadan & Golsa Rahimzamani
+      accessed: '2026-10-21'
+  # Editorial Persian display spelling; the cited source uses the Latin name.
+  - value:
+      text: اجرای اعلام‌شدهٔ گلسا در جس کلاب، پاریس
+      language: fa
+    references:
+    - source: www.parisjazzclub.net-en-102828-concert-2025-11-01-gaelito-rubis-ramadan-et-golsa-rahimzamani-722fc9cde951
+      quote: |-
+        Gaëlito + Rubis Ramadan & Golsa Rahimzamani
+      accessed: '2026-10-21'
+    - source: www.parisjazzclub.net-en-102828-concert-2025-11-01-gaelito-rubis-ramadan-et-golsa-rahimzamani-722fc9cde951
+      quote: |-
+        JASS CLUB
+      accessed: '2026-10-21'
+  - value:
+      text: Gaëlito + Rubis Ramadan & Golsa Rahimzamani — JASS CLUB, Paris
+      language: en
+    references:
+    - source: www.parisjazzclub.net-en-102828-concert-2025-11-01-gaelito-rubis-ramadan-et-golsa-rahimzamani-722fc9cde951
+      quote: |-
+        Gaëlito + Rubis Ramadan & Golsa Rahimzamani
+      accessed: '2026-10-21'
+    - source: www.parisjazzclub.net-en-102828-concert-2025-11-01-gaelito-rubis-ramadan-et-golsa-rahimzamani-722fc9cde951
+      quote: |-
+        JASS CLUB
+      accessed: '2026-10-21'
+    rank: preferred
+  event date:
+  - value:
+      date: '2025-11-01'
+    references:
+    - source: www.parisjazzclub.net-en-102828-concert-2025-11-01-gaelito-rubis-ramadan-et-golsa-rahimzamani-722fc9cde951
+      quote: |-
+        Saturday November, 1st 2025
+      accessed: '2026-10-21'
+  performer:
+  - value: Qh745pn
+    references:
+    - source: www.parisjazzclub.net-en-102828-concert-2025-11-01-gaelito-rubis-ramadan-et-golsa-rahimzamani-722fc9cde951
+      quote: |-
+        Golsa Rahimzamani / vocals
+      accessed: '2026-10-21'
+    qualifiers:
+      role:
+      - vocals

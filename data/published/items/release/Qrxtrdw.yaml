@@ -1,0 +1,91 @@
+id: Qrxtrdw
+type: release
+statements:
+  name:
+  - value:
+      text: Ayandeh (feat. Taha Mazaheri) - Single
+      language: en
+    references:
+    - source: music.apple.com-us-album-ayandeh-feat-taha-mazaheri-single-1697906184-704ec74a4ac4
+      quote: 'Listen to Ayandeh (feat. Taha Mazaheri) - Single by Golsa on Apple Music. 2023. 1 Song. Duration: 3 minutes.'
+      accessed: '2026-10-19'
+  # Editorial Persian display spelling; source uses the original name.
+  - value:
+      text: آینده
+      language: fa
+    references:
+    - source: music.apple.com-us-album-ayandeh-feat-taha-mazaheri-single-1697906184-704ec74a4ac4
+      quote: 'Listen to Ayandeh (feat. Taha Mazaheri) - Single by Golsa on Apple Music. 2023. 1 Song. Duration: 3 minutes.'
+      accessed: '2026-10-19'
+  release date:
+  - value:
+      date: '2023-07-16'
+    references:
+    - source: music.apple.com-us-album-ayandeh-feat-taha-mazaheri-single-1697906184-704ec74a4ac4
+      quote: '"datePublished":"2023-07-16"'
+      accessed: '2026-10-19'
+  performer:
+  - value: Qh745pn
+    references: &id001
+    - source: music.apple.com-us-album-ayandeh-feat-taha-mazaheri-single-1697906184-704ec74a4ac4
+      quote: 'Listen to Ayandeh (feat. Taha Mazaheri) - Single by Golsa on Apple Music. 2023. 1 Song. Duration: 3 minutes.'
+      accessed: '2026-10-19'
+    - source: soundcloud.com-golsarz-ayandeh-golsa-feat-taha-231c9a71579a
+      quote: 'Vocals , Words : Golsa'
+      accessed: '2026-10-21'
+    qualifiers:
+      role:
+      - vocals
+  - value: Q66ky5f
+    references: &id002
+    - source: music.apple.com-us-album-ayandeh-feat-taha-mazaheri-single-1697906184-704ec74a4ac4
+      quote: 'Listen to Ayandeh (feat. Taha Mazaheri) - Single by Golsa on Apple Music. 2023. 1 Song. Duration: 3 minutes.'
+      accessed: '2026-10-19'
+    - source: soundcloud.com-golsarz-ayandeh-golsa-feat-taha-231c9a71579a
+      quote: 'Guitar , Songwriting , Production : Taha Mazaheri'
+      accessed: '2026-10-20'
+    - source: soundcloud.com-golsarz-ayandeh-golsa-feat-taha-231c9a71579a
+      quote: 'Guitar , Songwriting , Production : Taha Mazaheri'
+      accessed: '2026-10-21'
+    qualifiers:
+      role:
+      - guitar
+  contributor:
+  - value: Qh745pn
+    references: *id001
+    qualifiers:
+      role:
+      - lyricist
+  - value: Q66ky5f
+    references: *id002
+    qualifiers:
+      role:
+      - composer
+      - producer
+  listen link:
+  - value: https://music.apple.com/us/album/ayandeh-feat-taha-mazaheri-single/1697906184
+    references:
+    - source: music.apple.com-us-album-ayandeh-feat-taha-mazaheri-single-1697906184-704ec74a4ac4
+      quote: 'Listen to Ayandeh (feat. Taha Mazaheri) - Single by Golsa on Apple Music. 2023. 1 Song. Duration: 3 minutes.'
+      accessed: '2026-10-19'
+  - value: https://soundcloud.com/golsarz/ayandeh-golsa-feat-taha
+    references:
+    - source: soundcloud.com-golsarz-ayandeh-golsa-feat-taha-231c9a71579a
+      quote: 'Guitar , Songwriting , Production : Taha Mazaheri'
+      accessed: '2026-10-20'
+  - value: https://open.spotify.com/track/0J2c5zUIQctexqZFgof3tQ
+    references:
+    - source: open.spotify.com-playlist-0yo9ozlv3xpcbwdseipde7-25b14e85aee7
+      quote: spotify:track:0J2c5zUIQctexqZFgof3tQ
+      accessed: '2026-10-22'
+  - value: https://www.youtube.com/watch?v=Wfgx3tkYHKk
+    references:
+    - source: www.youtube.com-watch-v-wfgx3tkyhkk-f135157de583
+      quote: Ayandeh
+      accessed: '2026-10-22'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/78/fe/c4/78fec4fc-b230-1231-147a-0cf5739d872d/725336239985_cover.jpg/296x296bb.webp
+    references:
+    - source: music.apple.com-us-album-ayandeh-feat-taha-mazaheri-single-1697906184-704ec74a4ac4
+      quote: 'Listen to Ayandeh (feat. Taha Mazaheri) - Single by Golsa on Apple Music. 2023. 1 Song. Duration: 3 minutes.'
+      accessed: '2026-10-19'

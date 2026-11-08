@@ -1,0 +1,129 @@
+id: Qv9jc2v
+type: release
+statements:
+  name:
+  - value:
+      text: Hasele Jamemoon
+      language: en
+    references:
+    - source: soundcloud.com-peymansalimi-hasele-jamemoon-e92495a10b8f
+      quote: Hasele Jamemoon
+      accessed: '2026-10-21'
+  - value:
+      text: حاصل جمعمون
+      language: fa
+    references:
+    - source: soundcloud.com-peymansalimi-hasele-jamemoon-e92495a10b8f
+      quote: Hasele Jamemoon
+      accessed: '2026-10-21'
+  listen link:
+  - value: https://soundcloud.com/peymansalimi/hasele-jamemoon
+    references:
+    - source: soundcloud.com-peymansalimi-hasele-jamemoon-e92495a10b8f
+      quote: Hasele Jamemoon
+      accessed: '2026-10-21'
+  - value: https://open.spotify.com/track/6r6kIvZrLIXsbxDRyvaQt5
+    references:
+    - source: open.spotify.com-embed-track-6r6kivzrlixsbxdryvaqt5-70a2239eb35b
+      quote: Hasele Jamemoon
+      accessed: '2026-10-21'
+  - value: https://music.apple.com/us/album/hasele-jamemoon-single/1562186328
+    references:
+    - source: music.apple.com-us-album-hasele-jamemoon-single-1562186328-1d16096f3b0c
+      quote: 'Listen to Hasele Jamemoon - Single by Peyman Salimi on Apple Music. 2021. 1 Song. Duration: 4 minutes.'
+      accessed: '2026-10-21'
+  - value: https://www.youtube.com/watch?v=GHt0W2-6igQ
+    references:
+    - source: www.youtube.com-watch-v-ght0w2-6igq-0c447eafea39
+      quote: Peyman Salimi - Hasele Jamemoon (Official Video)
+      accessed: '2026-11-06'
+  release date:
+  - value:
+      date: '2021-04-15'
+    references:
+    - source: soundcloud.com-peymansalimi-hasele-jamemoon-e92495a10b8f
+      quote: '2021-04-15T00:00:00Z'
+      accessed: '2026-10-21'
+      locator: Explicit catalogue release_date field
+    - source: open.spotify.com-embed-track-6r6kivzrlixsbxdryvaqt5-70a2239eb35b
+      quote: '2021-04-15T00:00:00Z'
+      accessed: '2026-10-21'
+      locator: Catalogue release date
+    - source: music.apple.com-us-album-hasele-jamemoon-single-1562186328-1d16096f3b0c
+      quote: '"datePublished":"2021-04-15"'
+      accessed: '2026-10-21'
+      locator: Catalogue release date
+  performer:
+  - value: Qdp6w3z
+    references: &id001
+    - source: soundcloud.com-peymansalimi-hasele-jamemoon-e92495a10b8f
+      quote: |-
+        Credits:
+
+        Composition, lyrics, arrangement, vocals, electric guitar and synth: Peyman Salimi
+        Drums: Federico Franchi
+        Bass: Bernardo Cicchi
+        Acoustic guitar: Andrea Deidda
+        Female backing vocals: Sanam Maroufkhani
+        Artwork: Dana Nehdaran
+
+        All Rights Reserved to Justaudio Productions
+      accessed: '2026-10-21'
+    qualifiers:
+      role:
+      - vocals
+      - guitar
+      - synthesizer
+  - value: Qa84h2k
+    references:
+    - source: soundcloud.com-peymansalimi-hasele-jamemoon-e92495a10b8f
+      quote: "Credits: \n\nComposition, lyrics, arrangement, vocals, electric guitar and synth: Peyman Salimi\nDrums: Federico Franchi\nBass: Bernardo Cicchi\nAcoustic guitar: Andrea Deidda\nFemale backing vocals: Sanam Maroufkhani \nArtwork: Dana Nehdaran\n\nAll Rights Reserved to Justaudio Productions"
+      accessed: '2026-10-21'
+    qualifiers:
+      role:
+      - backing vocals
+  - value: Qsd9383
+    references:
+    - source: soundcloud.com-peymansalimi-hasele-jamemoon-e92495a10b8f
+      quote: "Credits: \n\nComposition, lyrics, arrangement, vocals, electric guitar and synth: Peyman Salimi\nDrums: Federico Franchi\nBass: Bernardo Cicchi\nAcoustic guitar: Andrea Deidda\nFemale backing vocals: Sanam Maroufkhani \nArtwork: Dana Nehdaran\n\nAll Rights Reserved to Justaudio Productions"
+      accessed: '2026-10-21'
+    qualifiers:
+      role:
+      - drums
+  - value: Qxqp7zq
+    references:
+    - source: soundcloud.com-peymansalimi-hasele-jamemoon-e92495a10b8f
+      quote: "Credits: \n\nComposition, lyrics, arrangement, vocals, electric guitar and synth: Peyman Salimi\nDrums: Federico Franchi\nBass: Bernardo Cicchi\nAcoustic guitar: Andrea Deidda\nFemale backing vocals: Sanam Maroufkhani \nArtwork: Dana Nehdaran\n\nAll Rights Reserved to Justaudio Productions"
+      accessed: '2026-10-21'
+    qualifiers:
+      role:
+      - bass
+  - value: Q4cb5qm
+    references:
+    - source: soundcloud.com-peymansalimi-hasele-jamemoon-e92495a10b8f
+      quote: "Credits: \n\nComposition, lyrics, arrangement, vocals, electric guitar and synth: Peyman Salimi\nDrums: Federico Franchi\nBass: Bernardo Cicchi\nAcoustic guitar: Andrea Deidda\nFemale backing vocals: Sanam Maroufkhani \nArtwork: Dana Nehdaran\n\nAll Rights Reserved to Justaudio Productions"
+      accessed: '2026-10-21'
+    qualifiers:
+      role:
+      - guitar
+  contributor:
+  - value: Qdp6w3z
+    references: *id001
+    qualifiers:
+      role:
+      - composer
+      - lyricist
+      - arranger
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-IDnEsU5SViES2ptz-lQqzHA-t500x500.jpg
+    references:
+    - source: soundcloud.com-peymansalimi-hasele-jamemoon-e92495a10b8f
+      quote: https://i1.sndcdn.com/artworks-IDnEsU5SViES2ptz-lQqzHA-t500x500.jpg
+      accessed: '2026-10-21'
+    - source: soundcloud.com-peymansalimi-hasele-jamemoon-e92495a10b8f
+      quote: "Credits: \n\nComposition, lyrics, arrangement, vocals, electric guitar and synth: Peyman Salimi\nDrums: Federico Franchi\nBass: Bernardo Cicchi\nAcoustic guitar: Andrea Deidda\nFemale backing vocals: Sanam Maroufkhani \nArtwork: Dana Nehdaran\n\nAll Rights Reserved to Justaudio Productions"
+      accessed: '2026-10-21'
+    qualifiers:
+      credit:
+        text: Dana Nehdaran
+        language: en

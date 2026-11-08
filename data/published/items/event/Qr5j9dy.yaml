@@ -1,0 +1,32 @@
+# Persian event labels are editorial renderings of the sourced event and venue names.
+id: Qr5j9dy
+type: event
+statements:
+  name:
+  - value:
+      text: Printemps du Jazz Persan, La Seine Musicale
+      language: en
+    references: &id001
+    - source: cult.news-musique-le-printemps-du-jazz-persan-a-la-seine-musicale-le-1er-avril-43ad5e727a9a
+      quote: Printemps du Jazz Persan
+      accessed: '2026-10-21'
+    - source: cult.news-musique-le-printemps-du-jazz-persan-a-la-seine-musicale-le-1er-avril-43ad5e727a9a
+      quote: Ce 1er avril 2026, à La Seine Musicale
+      accessed: '2026-10-21'
+  - value:
+      text: بهار جَز ایرانی، لا سن موزیکال
+      language: fa
+    references: *id001
+  event date:
+  - value:
+      date: '2026-04-01'
+    references:
+    - source: cult.news-musique-le-printemps-du-jazz-persan-a-la-seine-musicale-le-1er-avril-43ad5e727a9a
+      quote: Ce 1er avril 2026, à La Seine Musicale
+      accessed: '2026-10-21'
+  performer:
+  - value: Qa84h2k
+    references:
+    - source: cult.news-musique-le-printemps-du-jazz-persan-a-la-seine-musicale-le-1er-avril-43ad5e727a9a
+      quote: Début du concert avec Sanam Maroufkhani
+      accessed: '2026-10-21'

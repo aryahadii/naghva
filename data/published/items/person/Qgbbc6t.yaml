@@ -1,0 +1,80 @@
+id: Qgbbc6t
+type: person
+statements:
+  name:
+  - value:
+      text: Saba Alizadeh
+      language: en
+    references:
+    - source: 30m-records.com-saba-alizadeh-nafir-clamour-b540eb43fddb
+      quote: 'With “Nafir (Clamour)”, Tehran-based kamancheh virtuoso and electronic musician Saba Alizadeh releases
+        a strong artistic statement: a heavy emotional new piece and touching video which depict metaphorically
+        life in Iran after 5 months of uprising.'
+      accessed: '2026-10-19'
+  - value:
+      text: صبا علیزاده
+      language: fa
+    references:
+    - source: www.tasnimnews.ir-fa-news-1397-08-26-1877779-5a84b52a15ee
+      quote: صبا علیزاده
+      accessed: '2026-11-06'
+  image:
+  - value: https://f4.bcbits.com/img/0034764765_10.jpg
+    references:
+    - source: sabaalizadeh.bandcamp.com-music-d39dd5cc4b0f
+      quote: https://f4.bcbits.com/img/0034764765_10.jpg
+      accessed: '2026-11-06'
+    qualifiers:
+      credit:
+        text: sabaalizadeh.bandcamp.com
+        language: en
+  profile link:
+  - value: https://sabaalizadeh.bandcamp.com
+    references:
+    - source: sabaalizadeh.bandcamp.com
+      quote: Temple Of Hope | Saba Alizadeh
+      accessed: '2026-10-19'
+    - source: sabaalizadeh.bandcamp.com
+      quote: https://sabaalizadeh.bandcamp.com/
+      accessed: '2026-10-19'
+  - value: https://music.apple.com/us/artist/saba-alizadeh/1441063159
+    references:
+    - source: music.apple.com-us-artist-saba-alizadeh-1441063159-70d620c8f554
+      quote: ‎Saba Alizadeh - Apple Music
+      accessed: '2026-11-06'
+  - value: https://soundcloud.com/user-448905275
+    references:
+    - source: www.saba-alizadeh.com-ee1c8ef0ed7a
+      quote: https://soundcloud.com/user-448905275
+      accessed: '2026-11-06'
+  - value: https://www.youtube.com/channel/UCWw1TXziAT3hhj7jWwpipEg
+    references:
+    - source: www.saba-alizadeh.com-ee1c8ef0ed7a
+      quote: https://www.youtube.com/channel/UCWw1TXziAT3hhj7jWwpipEg
+      accessed: '2026-11-06'
+  - value: https://open.spotify.com/artist/5BPiJFY7v92eJ34VFOSjSS
+    references:
+    - source: open.spotify.com-embed-artist-5bpijfy7v92ej34vfosjss-dc9e6e0c01cf
+      quote: Saba Alizadeh
+      accessed: '2026-11-06'
+  birth date:
+  - value:
+      date: '1983'
+    references:
+    - &id001
+      source: 30m-records.com-saba-alizadeh-i-may-never-see-you-again-b23454bd87fe
+      quote: Born in Tehran in 1983 to world-renowned tar and setar virtuoso and composer Hossein Alizadeh,
+      accessed: '2026-11-06'
+  birthplace:
+  - value: Qhm6fzw
+    references:
+    - *id001
+  member of:
+  - value: Qrw6bk5
+    references:
+    - source: www.toneglow.net-features-saba-alizadeh-interview-a0cc0460e0f4
+      quote: As a member of Hamavayan since 2007
+      accessed: '2026-11-06'
+    qualifiers:
+      start time:
+        date: '2007'

@@ -1,0 +1,21 @@
+id: Qzpzkyt
+type: person
+statements:
+  name:
+  - value:
+      text: Sam Eyvaz
+      language: en
+    references:
+    - source: music.apple.com-us-album-beraghs-feat-sam-eyvaz-single-1819203672-6829233c3083
+      quote: |-
+        Listen to Beraghs (feat. Sam Eyvaz) - Single by Golsa on Apple Music. 2025. 1 Song. Duration: 4 minutes.
+      accessed: '2026-10-21'
+  # Editorial Persian display spelling; the cited source uses the Latin name.
+  - value:
+      text: سام ایواز
+      language: fa
+    references:
+    - source: music.apple.com-us-album-beraghs-feat-sam-eyvaz-single-1819203672-6829233c3083
+      quote: |-
+        Listen to Beraghs (feat. Sam Eyvaz) - Single by Golsa on Apple Music. 2025. 1 Song. Duration: 4 minutes.
+      accessed: '2026-10-21'
