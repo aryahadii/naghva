@@ -1,0 +1,31 @@
+id: Qrnx9v2
+type: event
+statements:
+  name:
+  - value:
+      text: Paradisodebat 2025
+      language: nl
+    references: &name
+    - source: www.kunsten92.nl-terugblik-paradisodebat-2025
+      quote: Paradisodebat 2025
+      accessed: '2026-11-06'
+  # Persian display spelling of the organizer's Dutch event title.
+  - value:
+      text: نشست پارادیزو ۲۰۲۵
+      language: fa
+    references: *name
+  event date:
+  - value:
+      date: '2025-09-01'
+    references:
+    - source: www.kunsten92.nl-terugblik-paradisodebat-2025
+      quote: 1 september 2025
+      accessed: '2026-11-06'
+  performer:
+  - value: Qa84h2k
+    references:
+    - source: www.kunsten92.nl-terugblik-paradisodebat-2025
+      quote: Sanam Maroufkhani voor een contemplatief moment met haar nummer Indigo Valley, zichzelf begeleidend op de elektrische piano.
+      accessed: '2026-11-06'
+    qualifiers:
+      role: [piano]

@@ -1,0 +1,111 @@
+id: Qvhgfe7
+type: person
+statements:
+  name:
+  - value:
+      text: Rian
+      language: en
+    references:
+    - source: madeiniranrecords.bandcamp.com-album-pakkon-0bb68bf481b9
+      quote: Rian is the solo project of Arian Shariat, an indie singer, songwriter and producer from Tehran, Iran.
+      accessed: '2026-10-19'
+    - source: open.spotify.com-artist-2awzduujwqz9tbadjdgfuc-cceefdd7e5da
+      quote: Rian
+      accessed: '2026-10-20'
+    rank: preferred
+  - value:
+      text: Arian Shariat
+      language: en
+    references:
+    - source: riansounds.com-65fe56a4189a
+      quote: Arian Shariat is an Iranian musician, singer-songwriter, and producer with a background in Computer Engineering.
+      accessed: '2026-10-19'
+  - value:
+      text: آرین
+      language: fa
+    rank: preferred
+    references:
+    - source: soundcloud.com-arian-shariat-844b8ecd197e
+      quote: Rian / آرین
+      accessed: '2026-10-20'
+  - value:
+      text: آرین شریعت
+      language: fa
+    references:
+    - source: soundcloud.com-arian-shariat-nemidoonan-engar-to-rafti-for-6a5c7e060cc6
+      quote: 'شعر و آواز: آرین شریعت'
+      accessed: '2026-10-20'
+  birth date:
+  - value:
+      date: '1998'
+    references:
+    - source: riansounds.com-65fe56a4189a
+      quote: Born in Tehran in 1998, Arian Shariat is a musician, singer-songwriter, and producer.
+      accessed: '2026-10-19'
+  - value:
+      date: '1377'
+      calendar: jalali
+    references:
+    - source: www.jillizwilliz.com-arian
+      quote: آرین شریعت، متولد ۱۳۷۷ در تهران، خواننده، ترانه‌سرا، تنظیم‌کننده و تهیه‌کننده موسیقی است. او فارغ‌التحصیل رشته مهندسی کامپیوتر از دانشگاه علم و صنعت ایران است و فعالیت حرفه‌ای خود را در موسیقی از سال ۱۳۹۶ با گروه «جتپک» آغاز کرد.
+      accessed: '2026-10-22'
+  member of:
+  - value: Qpy9984
+    references:
+    - source: madeiniranrecords.bandcamp.com-album-pakkon-0bb68bf481b9
+      quote: He also is the singer and songwriter of the electronic band JETPACK.
+      accessed: '2026-10-19'
+    qualifiers:
+      role:
+      - vocals
+  - value: Q6andbw
+    references:
+    - source: riansounds.com-65fe56a4189a
+      quote: His professional music journey began with Jetpack in 2017, and has since expanded into the solo project Rian, the Persian alternative/fusion band Jilliz Williz, and different collaborations as a songwriter and producer.
+      accessed: '2026-10-19'
+    - source: beehy.pe-rian-pakkon-iran-e0f9dd0e6a63
+      quote: Rian is also the singer and guitar player of another band called Jillizwiliiz.
+      accessed: '2026-10-20'
+    - source: www.jillizwilliz.com-arian
+      quote: جیلیز ویلیز / گیتار / وکال
+      accessed: '2026-10-22'
+    qualifiers:
+      role:
+      - vocals
+      - guitar
+  profile link:
+  - value: https://open.spotify.com/artist/2aWzduuJwqz9TbADjDgfuC
+    references:
+    - source: open.spotify.com-artist-2awzduujwqz9tbadjdgfuc-cceefdd7e5da
+      quote: Rian
+      accessed: '2026-10-20'
+  - value: https://music.apple.com/us/artist/rian/1545514987
+    references:
+    - source: music.apple.com-us-artist-rian-1545514987-61eee5d587fc
+      quote: Rian
+      accessed: '2026-10-20'
+  - value: https://soundcloud.com/arian-shariat
+    references:
+    - source: soundcloud.com-arian-shariat-844b8ecd197e
+      quote: Rian / آرین
+      accessed: '2026-10-20'
+  - value: https://t.me/RianSounds
+    references:
+    - source: t.me-s-riansounds-187fe3b0aa31
+      quote: https://riansounds.com/
+      accessed: '2026-10-20'
+  image:
+  - value: https://riansounds.com/assets/arian-portrait.jpg
+    references:
+    - source: riansounds.com-65fe56a4189a
+      quote: Portrait of Arian Shariat
+      accessed: '2026-10-19'
+    - source: riansounds.com-65fe56a4189a
+      quote: ./assets/arian-portrait.jpg
+      accessed: '2026-10-19'
+  birthplace:
+  - value: Qhm6fzw
+    references:
+    - source: riansounds.com-65fe56a4189a
+      quote: Born in Tehran in 1998, Arian Shariat is a musician, singer-songwriter, and producer.
+      accessed: '2026-10-22'

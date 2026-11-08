@@ -1,0 +1,41 @@
+# Persian event labels are editorial renderings of the sourced event and venue names.
+id: Q73zhnh
+type: event
+statements:
+  name:
+  - value:
+      text: Female Voices of Resilience, Kölner Philharmonie
+      language: en
+    references: &id001
+    - source: www.guerzenich-orchester.de-de-event-detail-female-voices-of-resilience-3c3e7e131580
+      quote: Indigo Valley
+      accessed: '2026-10-21'
+    - source: iranjournal.org-kultur-iranische-frauen-in-koelner-philharmonie-bda7dfcc9517
+      quote: 26. September in der Kölner Philharmonie.
+      accessed: '2026-10-21'
+  - value:
+      text: آواهای زنانهٔ ایستادگی، فیلارمونی کلن
+      language: fa
+    references: *id001
+  event date:
+  - value:
+      date: '2026-09-26'
+    references:
+    - source: www.guerzenich-orchester.de-de-event-detail-female-voices-of-resilience-3c3e7e131580
+      quote: 26. Sept. 2026
+      accessed: '2026-10-21'
+  performer:
+  - value: Qa84h2k
+    references:
+    - source: www.guerzenich-orchester.de-de-event-detail-female-voices-of-resilience-3c3e7e131580
+      quote: 'Sanam Maroufkhani
+
+        Indigo Valley
+
+        Arrangement Justus Berger
+
+        Sanam Maroufkhani'
+      accessed: '2026-10-21'
+    - source: iranjournal.org-kultur-iranische-frauen-in-koelner-philharmonie-bda7dfcc9517
+      quote: Ihr „Indigo Valley“ wirkte stiller, fast nach innen gekehrt.
+      accessed: '2026-10-21'

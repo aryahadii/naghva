@@ -1,0 +1,105 @@
+id: Qhqxsyd
+type: release
+statements:
+  name:
+  - value:
+      text: Nahan
+      language: en
+    references:
+    - source: soundcloud.com-peymansalimi-nahan-ft-sanam-maroufkhani-398d4bf4d960
+      quote: Peyman Salimi ft. Sanam Maroufkhani - Nahan
+      accessed: '2026-10-21'
+  - value:
+      text: نهان
+      language: fa
+    references:
+    - source: soundcloud.com-peymansalimi-nahan-ft-sanam-maroufkhani-398d4bf4d960
+      quote: Peyman Salimi ft. Sanam Maroufkhani - Nahan
+      accessed: '2026-10-21'
+  listen link:
+  - value: https://soundcloud.com/peymansalimi/nahan-ft-sanam-maroufkhani
+    references:
+    - source: soundcloud.com-peymansalimi-nahan-ft-sanam-maroufkhani-398d4bf4d960
+      quote: Peyman Salimi ft. Sanam Maroufkhani - Nahan
+      accessed: '2026-10-21'
+  - value: https://music.apple.com/us/album/nahan-feat-sanam-maroufkhani-single/1541746479
+    references:
+    - source: music.apple.com-us-album-nahan-feat-sanam-maroufkhani-single-1541746479-c6e91238632d
+      quote: 'Listen to Nahan (feat. Sanam Maroufkhani) - Single by Peyman Salimi on Apple Music. 2020. 1 Song. Duration: 3 minutes.'
+      accessed: '2026-10-21'
+  - value: https://open.spotify.com/track/0eoyTv03aqKEB3nvAUIlHj
+    references:
+    - source: open.spotify.com-embed-track-0eoytv03aqkeb3nvauilhj-59af777ad394
+      quote: Nahan
+      accessed: '2026-10-21'
+  - value: https://www.youtube.com/watch?v=pgDjjUbADyc
+    references:
+    - source: www.youtube.com-watch-v-pgdjjubadyc
+      quote: Nahan (feat. Sanam Maroufkhani) · Peyman Salimi · Sanam Maroufkhani · Peyman Salimi
+      accessed: '2026-11-03'
+  release date:
+  - value:
+      date: '2020-11-28'
+    references:
+    - source: soundcloud.com-peymansalimi-nahan-ft-sanam-maroufkhani-398d4bf4d960
+      quote: '2020-11-28T00:00:00Z'
+      accessed: '2026-10-21'
+      locator: Explicit catalogue release_date field
+    - source: music.apple.com-us-album-nahan-feat-sanam-maroufkhani-single-1541746479-c6e91238632d
+      quote: '"datePublished":"2020-11-28"'
+      accessed: '2026-10-21'
+      locator: Catalogue release date
+    - source: open.spotify.com-embed-track-0eoytv03aqkeb3nvauilhj-59af777ad394
+      quote: '2020-11-28T00:00:00Z'
+      accessed: '2026-10-21'
+      locator: Catalogue release date
+  performer:
+  - value: Qdp6w3z
+    references: &id001
+    - source: soundcloud.com-peymansalimi-nahan-ft-sanam-maroufkhani-398d4bf4d960
+      quote: 'Music and lyrics: Ahmad Wali • Rearrangement, male vocals, guitar, bass & synths: Peyman Salimi • Female vocals and piano: Sanam Maroufkhani • Artwork: Dana Nehdaran • Produced by Peyman Salimi • Recorded & mixed at Justaudio Productions'
+      accessed: '2026-10-21'
+    qualifiers:
+      role:
+      - vocals
+      - guitar
+      - bass
+      - synthesizer
+  - value: Qa84h2k
+    references:
+    - source: soundcloud.com-peymansalimi-nahan-ft-sanam-maroufkhani-398d4bf4d960
+      quote: 'Music and lyrics: Ahmad Wali • Rearrangement, male vocals, guitar, bass & synths: Peyman Salimi • Female vocals and piano: Sanam Maroufkhani • Artwork: Dana Nehdaran • Produced by Peyman Salimi • Recorded & mixed at Justaudio Productions'
+      accessed: '2026-10-21'
+    qualifiers:
+      role:
+      - vocals
+      - piano
+  contributor:
+  - value: Qdp6w3z
+    references: *id001
+    qualifiers:
+      role:
+      - arranger
+      - producer
+  - value: Qvrrw8c
+    references:
+    - source: soundcloud.com-peymansalimi-nahan-ft-sanam-maroufkhani-398d4bf4d960
+      quote: 'Music and lyrics: Ahmad Wali • Rearrangement, male vocals, guitar, bass & synths: Peyman Salimi • Female vocals and piano: Sanam Maroufkhani • Artwork: Dana Nehdaran • Produced by Peyman Salimi • Recorded & mixed at Justaudio Productions'
+      accessed: '2026-10-21'
+    qualifiers:
+      role:
+      - original composer
+      - original lyricist
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-87w2nYQTmFiDWJzU-AhLldg-t500x500.jpg
+    references:
+    - source: soundcloud.com-peymansalimi-nahan-ft-sanam-maroufkhani-398d4bf4d960
+      quote: https://i1.sndcdn.com/artworks-87w2nYQTmFiDWJzU-AhLldg-t500x500.jpg
+      accessed: '2026-10-21'
+    - source: soundcloud.com-peymansalimi-nahan-ft-sanam-maroufkhani-398d4bf4d960
+      quote: 'Music and lyrics: Ahmad Wali • Rearrangement, male vocals, guitar, bass & synths: Peyman Salimi • Female vocals and piano: Sanam Maroufkhani • Artwork: Dana Nehdaran • Produced by Peyman Salimi • Recorded & mixed at Justaudio Productions'
+      accessed: '2026-10-21'
+    qualifiers:
+      credit:
+        text: Dana Nehdaran
+        language: en

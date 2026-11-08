@@ -1,0 +1,148 @@
+id: Qx3yc3t
+type: release
+statements:
+  name:
+  - value:
+      text: Sammamish (سام و میش)
+      language: en
+    references:
+    - source: soundcloud.com-peymansalimi-sammamish-8d0346856ae5
+      quote: Sammamish (سام و میش)
+      accessed: '2026-10-21'
+  - value:
+      text: سام و میش
+      language: fa
+    references:
+    - source: soundcloud.com-peymansalimi-sammamish-8d0346856ae5
+      quote: Sammamish (سام و میش)
+      accessed: '2026-10-21'
+  listen link:
+  - value: https://soundcloud.com/peymansalimi/sammamish
+    references:
+    - source: soundcloud.com-peymansalimi-sammamish-8d0346856ae5
+      quote: Sammamish (سام و میش)
+      accessed: '2026-10-21'
+  - value: https://music.apple.com/us/album/sammamish-%D8%B3%D8%A7%D9%85-%D9%88-%D9%85%DB%8C%D8%B4-single/1743619780
+    references:
+    - source: music.apple.com-us-album-sammamish--d8-b3-d8-a7-d9-85--d9-88--d9-85-db-8c-d8-b4-single-1743619780-98046a99ecf2
+      quote: 'Listen to Sammamish (سام و میش) - Single by Peyman Salimi on Apple Music. 2024. 1 Song. Duration: 4 minutes.'
+      accessed: '2026-10-21'
+  - value: https://open.spotify.com/album/2xxMOPFbHjlU7YWYOc0FH4
+    references:
+    - source: www.peymansalimi.com-music-c176191f1cf3
+      quote: https://open.spotify.com/album/2xxMOPFbHjlU7YWYOc0FH4
+      accessed: '2026-10-22'
+  - value: https://www.youtube.com/watch?v=Jdt2FNNX1_4
+    references:
+    - source: www.youtube.com-watch-v-jdt2fnnx1_4
+      quote: Peyman Salimi - Sammamish (سام و میش) | Official Music Video
+      accessed: '2026-11-06'
+  release date:
+  - value:
+      date: '2024-04-28'
+    references:
+    - source: soundcloud.com-peymansalimi-sammamish-8d0346856ae5
+      quote: '2024-04-28T00:00:00Z'
+      accessed: '2026-10-21'
+      locator: Explicit catalogue release_date field
+  - value:
+      date: '2024-04-29'
+    references:
+    - source: music.apple.com-us-album-sammamish--d8-b3-d8-a7-d9-85--d9-88--d9-85-db-8c-d8-b4-single-1743619780-98046a99ecf2
+      quote: '"datePublished":"2024-04-29"'
+      accessed: '2026-10-21'
+      locator: Catalogue release date
+  performer:
+  - value: Qdp6w3z
+    references: &id001
+    - source: soundcloud.com-peymansalimi-sammamish-8d0346856ae5
+      quote: |-
+        Written & performed by Peyman Salimi
+        Guitar, keys, vocals, lyrics and composition: Peyman Salimi
+        Backing vocals: Sanam Maroufkhani
+        Drums: Federico Franchi
+        Cello: Kaveh Faraji
+
+        Produced by Peyman Salimi at @justaudioproductions
+      accessed: '2026-10-21'
+    - source: www.youtube.com-watch-v-jdt2fnnx1_4
+      quote: 'Vocals, guitars, synths and bass: Peyman Salimi'
+      accessed: '2026-11-06'
+    qualifiers:
+      role:
+      - vocals
+      - guitar
+      - keyboards
+      - bass
+      - synthesizer
+  - value: Qa84h2k
+    references:
+    - source: soundcloud.com-peymansalimi-sammamish-8d0346856ae5
+      quote: 'Written & performed by Peyman Salimi
+
+        Guitar, keys, vocals, lyrics and composition: Peyman Salimi
+
+        Backing vocals: Sanam Maroufkhani
+
+        Drums: Federico Franchi
+
+        Cello: Kaveh Faraji
+
+
+        Produced by Peyman Salimi at @justaudioproductions'
+      accessed: '2026-10-21'
+    qualifiers:
+      role:
+      - backing vocals
+  - value: Qsd9383
+    references:
+    - source: soundcloud.com-peymansalimi-sammamish-8d0346856ae5
+      quote: 'Written & performed by Peyman Salimi
+
+        Guitar, keys, vocals, lyrics and composition: Peyman Salimi
+
+        Backing vocals: Sanam Maroufkhani
+
+        Drums: Federico Franchi
+
+        Cello: Kaveh Faraji
+
+
+        Produced by Peyman Salimi at @justaudioproductions'
+      accessed: '2026-10-21'
+    qualifiers:
+      role:
+      - drums
+  - value: Qhjpyv5
+    references:
+    - source: soundcloud.com-peymansalimi-sammamish-8d0346856ae5
+      quote: 'Written & performed by Peyman Salimi
+
+        Guitar, keys, vocals, lyrics and composition: Peyman Salimi
+
+        Backing vocals: Sanam Maroufkhani
+
+        Drums: Federico Franchi
+
+        Cello: Kaveh Faraji
+
+
+        Produced by Peyman Salimi at @justaudioproductions'
+      accessed: '2026-10-21'
+    qualifiers:
+      role:
+      - cello
+  contributor:
+  - value: Qdp6w3z
+    references: *id001
+    qualifiers:
+      role:
+      - composer
+      - lyricist
+      - producer
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-97xog0P6m67ZxFrQ-SZUzmA-t500x500.jpg
+    references:
+    - source: soundcloud.com-peymansalimi-sammamish-8d0346856ae5
+      quote: https://i1.sndcdn.com/artworks-97xog0P6m67ZxFrQ-SZUzmA-t500x500.jpg
+      accessed: '2026-10-21'

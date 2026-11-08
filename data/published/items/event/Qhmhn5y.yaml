@@ -1,0 +1,33 @@
+# Persian event labels are editorial renderings of the sourced event and venue names.
+id: Qhmhn5y
+type: event
+statements:
+  name:
+  - value:
+      text: Sanam Maroufkhani with Avin Ahmadi, Salam Music, Vienna
+      language: en
+    references: &id001
+    - source: www.salam-music.at-en-sanam-maroufkhani-b3c1d30f8bb6
+      quote: Tuesday, April 21, 2026 – 7:30 pm
+      accessed: '2026-10-21'
+    - source: sanammaroufkhani.bandcamp.com-track-beneath-the-wooden-roof-live-recorded-at-sargfabrik-vienna
+      quote: Beneath the Wooden Roof (Live recorded at Sargfabrik, Vienna) | Sanam Maroufkhani, Avin Ahmadi,
+        Reza Tavakoli | Sanam Maroufkhani
+      accessed: '2026-10-21'
+  - value:
+      text: صنم معروف‌خانی و آوین احمدی، جشنوارهٔ سلام، وین
+      language: fa
+    references: *id001
+  event date:
+  - value:
+      date: '2026-04-21'
+    references:
+    - source: www.salam-music.at-en-sanam-maroufkhani-b3c1d30f8bb6
+      quote: Tuesday, April 21, 2026 – 7:30 pm
+      accessed: '2026-10-21'
+  performer:
+  - value: Qa84h2k
+    references:
+    - source: sanammaroufkhani.bandcamp.com-track-beneath-the-wooden-roof-live-recorded-at-sargfabrik-vienna
+      quote: 'Sanam Maroufkhani : Lyrics, composition, vocal'
+      accessed: '2026-10-21'

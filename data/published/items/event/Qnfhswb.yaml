@@ -1,0 +1,35 @@
+# Persian event labels are editorial renderings of the sourced event and venue names.
+id: Qnfhswb
+type: event
+statements:
+  name:
+  - value:
+      text: Sanam Maroufkhani Quartet, Nachtzon graduation programme
+      language: en
+    references: &id001
+    - source: www.conservatoriumvanamsterdam.nl-en-study-pop-music-maydays-836a768f358a
+      quote: 11 May 2026 | Nachtzon
+      accessed: '2026-10-21'
+    - source: www.conservatoriumvanamsterdam.nl-en-study-pop-music-maydays-836a768f358a
+      quote: Sanam Maroufkhani Quartet
+      accessed: '2026-10-21'
+  - value:
+      text: کوارتت صنم معروف‌خانی، برنامهٔ پایان تحصیل «آفتاب شبانه»
+      language: fa
+    references: *id001
+  event date:
+  - value:
+      date: '2026-05-11'
+    references:
+    - source: www.conservatoriumvanamsterdam.nl-en-study-pop-music-maydays-836a768f358a
+      quote: 11 May 2026 | Nachtzon
+      accessed: '2026-10-21'
+  performer:
+  - value: Qa84h2k
+    references:
+    - source: www.conservatoriumvanamsterdam.nl-en-study-pop-music-maydays-836a768f358a
+      quote: Sanam Maroufkhani Quartet
+      accessed: '2026-10-21'
+    - source: writteninmusic.com-concertverslag-even-zweven-rond-esther-koolstras-muzikale-stralende-nachtzon-65882b6fbbbe
+      quote: Sanam Maroufkhani, die met haar kwartet (Quartet) het podium betrad.
+      accessed: '2026-10-25'
