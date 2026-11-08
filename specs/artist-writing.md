@@ -160,7 +160,7 @@ The two pages tell the same story with the same facts, order and uncertainty,
 each written the way a good writer of that language would write it. Draft each
 from the evidence and compare them afterwards; translating sentence by sentence
 carries one draft's awkwardness into the other. Follow the [name
-policy](data-policies.md#names-and-language) in both.
+policy](data-policies.md#names) in both.
 
 **Persian.** Write plain written Persian, the Persian of a good book or
 newspaper, not of an official letter or a translation.
