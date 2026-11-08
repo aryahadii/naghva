@@ -363,7 +363,7 @@ In March 2020 she released [“The Poet”](#the-poet-feat-golsa-single-xf7) wit
 
 She also sang in the Bah Bah quartet, whose first line-up was Golsa, Behzad, Sardar and Salar.[^projects][^bahbah] She learned old jazz standards largely from Sardar, playing with him.[^sardar-jazz]
 
-## *Vol. III*
+## Vol. III
 
 Golsa wrote [“Sargashteh”](#sargashteh-single-rnw) in a single night, adapting a poem she had found online. The song waited about two years until Taha Mazaheri gathered musicians to arrange and produce it. It is her own favourite among her songs.[^sargashteh-night][^sargashteh-production] It became one of four songs, each arranged by a different musician, that she gathered on *Vol. III* in the spring of 2022. She dedicated another of them, “Sepideh Dam”, to the singer Javad Yassari.[^ep-nowruz][^vol-iii][^vol-date][^sepideh]
 
