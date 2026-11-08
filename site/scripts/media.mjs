@@ -136,7 +136,7 @@ async function add() {
   console.log(`media: ${added} added, ${dropped} dropped, ${Object.keys(manifest).length} listed. Run npm run media:upload next.`);
 }
 
-async function bucket() {
+export async function bucket() {
   const { R2_ACCOUNT_ID: account, R2_ACCESS_KEY_ID: id, R2_SECRET_ACCESS_KEY: secret } = process.env;
   if (!account || !id || !secret) return null;
   const { AwsClient } = await import('aws4fetch');

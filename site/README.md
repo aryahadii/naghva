@@ -29,8 +29,11 @@ mobile and desktop.
 - **Styles are plain CSS**, with the design tokens as custom properties.
   Fonts are served from the site itself. The Persian fonts on naghva.com,
   Farhang2 and IRANSansX, are licensed to the owner and are not in this
-  repository: `scripts/fetch-fonts.mjs` downloads them before a build when
-  `NAGHVA_FONTS_URL` is set, and otherwise puts the free
+  repository. The files live in the private R2 bucket under `fonts/`, and
+  `scripts/fetch-fonts.mjs` downloads them before a build when an R2 key is
+  set (or from `NAGHVA_FONTS_URL`). To put them there, run
+  `npm run fonts:upload <folder with the three .woff2 files>` with the write
+  key. Builds without a key use the free
   [Vazirmatn](https://github.com/rastikerdar/vazirmatn) in their place, so
   anyone can build the site.
 - **GitHub Actions** validates and builds pull requests. On `main`, in a
