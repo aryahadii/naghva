@@ -11,3 +11,11 @@ language: mul
 > SWANA (South West Asia North African) and Balkan music
 
 > Western fusion pop
+
+Band-authored project story, read through direct public HTTP on 2026-10-25.
+The first phrase describes the members meeting at the conservatory; the
+others describe the group's musical influences. This is the band's own
+account, not independent critical classification. Its campaign proposes an
+EP; successful funding and projected rewards do not establish a release.
+The inspected text does not individually name Sanam or date her membership.
+The linked Atash video is a recording lead, not an inspected performance.

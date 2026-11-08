@@ -6,3 +6,9 @@ language: fa
 ---
 
 > آرین کشیشی، امیر دارابی، مهیار علیزاده، سردار سرمست
+
+Note: Amir Darabi appears only in a list of collaborators; this is sideman work,
+not membership.
+
+Note: Sardar Sarmast appears only in a list of collaborators; this is sideman
+work, not membership.

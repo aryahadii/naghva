@@ -8,3 +8,5 @@ tier: journalism
 ---
 
 > As a member of Hamavayan since 2007
+
+Hamavayan answer, read2026-11-06.

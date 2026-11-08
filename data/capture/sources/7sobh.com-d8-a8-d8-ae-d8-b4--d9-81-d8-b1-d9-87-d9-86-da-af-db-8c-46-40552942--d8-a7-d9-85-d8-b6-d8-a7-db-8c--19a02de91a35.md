@@ -9,3 +9,5 @@ tier: journalism
 
 > مودی اول ووکالیست و لیدگیتاریست (تک نوازی گیتار) گروه ماخولا بود اما از این
 > گروه رشتی مدتی بعد جدا شد.
+
+Read 2026-11-06; Full article opened. By نگین باقری. Displayed date ۱۸ دی ۱۴۰۴; the body’s relative date for Oof is stale compared with 2022 catalogue. Announced concert only. 1373 is attributed to Spotify by this author and conflicts with artist self-report; do not silently reconcile.

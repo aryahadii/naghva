@@ -9,4 +9,8 @@ tier: own
 
 > Composer, Lyricist: Taha Mazaheri
 
+Relevant description before or around omitted song lyrics; read 2026-10-22.
+
 > Baghale Man
+
+Player title; read 2026-10-22.

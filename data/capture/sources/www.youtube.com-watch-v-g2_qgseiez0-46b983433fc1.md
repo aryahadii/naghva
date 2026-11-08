@@ -12,6 +12,12 @@ about:
 
 > Studio Producer: PERFECTLYFINE
 
+Full distributor description, read 2026-10-22.
+
 > Guitar ( Electric): Taha Mazaheri
 
+Full distributor description, read 2026-10-22.
+
 > Tak o Tanha (feat. Golsa & Taha Mazaheri) (Remix)
+
+Video title, read 2026-10-22.

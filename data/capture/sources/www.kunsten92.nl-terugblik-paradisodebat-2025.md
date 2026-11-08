@@ -16,3 +16,5 @@ about: [Sanam Maroufkhani]
 
 > Sanam Maroufkhani voor een contemplatief moment met haar nummer Indigo
 > Valley, zichzelf begeleidend op de elektrische piano.
+
+Event date in the opening paragraph and performance at the close of the first debate round, read 2026-11-06. The organizer's account distinguishes the “Under Pressure” opening from Sanam's performance of her own “Indigo Valley” later that morning.

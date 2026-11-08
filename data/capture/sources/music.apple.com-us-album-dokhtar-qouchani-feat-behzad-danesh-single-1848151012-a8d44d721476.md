@@ -9,3 +9,5 @@ tier: own
 
 > Dokhtar Qouchani (feat. Behzad Danesh) - Single - Album by Rian & Bahar
 > Ferdowsi - Apple Music
+
+Page text and public embedded metadata, read 2026-10-20.

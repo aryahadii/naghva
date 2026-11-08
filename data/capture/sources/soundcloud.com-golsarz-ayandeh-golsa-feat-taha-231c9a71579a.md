@@ -9,4 +9,8 @@ tier: own
 
 > Vocals , Words : Golsa
 
+Full artist upload credit list, read 2026-10-21.
+
 > Guitar , Songwriting , Production : Taha Mazaheri
+
+Page text and public embedded metadata, read 2026-10-20.

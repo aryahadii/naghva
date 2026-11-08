@@ -11,3 +11,5 @@ about:
 ---
 
 > I share my works (Production , Songwriting and Guitar stuff)
+
+Public account description, read 2026-10-22.

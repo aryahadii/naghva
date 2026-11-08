@@ -10,4 +10,8 @@ language: mul
 
 > https://i1.sndcdn.com/artworks-gC8j3oGgRd1p4Qu9-UYaUkA-large.jpg
 
+Uploader’s title, description, full-name field and artwork URL from saved public HTML hydration. Recording not played; upload timestamp is not an original-release claim. Read 2026-10-25.
+
 > Karim Shæri | کریم شعری
+
+Uploader username in the same saved public track object, read 2026-10-25.

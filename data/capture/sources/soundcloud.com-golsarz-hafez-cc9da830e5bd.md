@@ -10,3 +10,5 @@ about:
 ---
 
 > Hafez
+
+Official artist upload title, description and public catalogue fields, read 2026-10-21. SoundCloud upload timestamps are not treated as original release dates.

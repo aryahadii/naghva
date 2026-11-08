@@ -18,3 +18,5 @@ tier: own
 > Recorded at "Studio 54" by Pouya Payvar
 > Mix and Mastering : Reza Farhadi
 > Thanks to : Andisheh Music Studio, Mohammadali Nasri
+
+Artist’s written recording credits in saved public HTML hydration. The 3 September 2024 upload is distinct from its 4 September release_date field; no master identity inference. Read 2026-10-25.

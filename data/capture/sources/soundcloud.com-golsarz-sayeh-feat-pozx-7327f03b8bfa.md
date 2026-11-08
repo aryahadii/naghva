@@ -12,3 +12,5 @@ about:
 > Produced by: Pozx
 
 > Sayeh (feat. Pozx)
+
+Public catalogue text or credit field, read 2026-10-21.

@@ -8,6 +8,8 @@ publisher: Stadtgarten Köln
 
 > With Houbara - Resonances Iran, Sanam expands her trio into a quartet:
 
+---
+
 > Tue, 03.06.2025
 
 > Esther Koolstra (viola, backing vocals)
@@ -16,4 +18,11 @@ publisher: Stadtgarten Köln
 
 > Lotte van de Merwe (drums, backing vocals)
 
+---
+
 > Sanam Maroufkhani (piano, vocals)
+
+Note: Stadtgarten programme for Tue 03.06.2025 lists 'Sanam Maroufkhani Quartet:
+Sanam Maroufkhani (piano, vocals)'.
+
+---

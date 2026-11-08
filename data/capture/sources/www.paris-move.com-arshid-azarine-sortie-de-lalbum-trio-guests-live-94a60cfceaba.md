@@ -13,4 +13,6 @@ language: fr
 > des couleurs aériennes et mouvantes, où les rythmes s’ancrent autant qu’ils
 > s’échappent dans des contrées orientales.
 
+Full relevant French article text in saved public HTML. Album-level recording venues/year do not establish this track’s concert venue/date. Read 2026-10-25.
+
 > le pianiste franco-iranien Arshid Azarine

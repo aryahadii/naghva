@@ -9,4 +9,8 @@ tier: own
 
 > Taha Mazaheri
 
+Artist biography, read 2026-10-22.
+
 > https://images.ctfassets.net/taoiy3h84mql/21XZzvL3kyppA9T8oMRfRq/5f23024975ba4e5f6b72458654aad179/photo_2024-11-06_21.01.05.jpeg
+
+Page text and public embedded metadata, read 2026-10-20.

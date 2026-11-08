@@ -15,3 +15,8 @@ about:
 
 > Rian is also the singer and guitar player of another band called
 > Jillizwiliiz.
+
+Note: Exact quote names Jillizwiliiz as a band and identifies Rian as its singer
+and guitarist; Iran connection is not established.
+
+Note: Need independent Iran-connection and band-scope support.

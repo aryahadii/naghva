@@ -12,3 +12,5 @@ publisher: Gürzenich-Orchester Köln
 > Inspiriert von
 > der japanischen Kunst des Kintsugi, bei der zer­
 > brochene Keramik mit Gold repariert wird
+
+PDF p.17, work note (not lyrics), directly reopened and read 2026-11-03. Line breaks and the soft hyphen follow the PDF text.
