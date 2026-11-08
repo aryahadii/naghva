@@ -1,0 +1,34 @@
+---
+import Page from '../../../layouts/Page.astro';
+import ArtistCard from '../../../components/ArtistCard.astro';
+import { artistPages, LANGS, loadRecord, nameOf, type Lang } from '../../../lib/record';
+import { fold } from '../../../lib/search';
+import { fill, num, strings } from '../../../lib/i18n';
+import '../../../styles/discovery.css';
+export function getStaticPaths() { return LANGS.map((lang) => ({ params: { lang } })); }
+const lang = Astro.params.lang as Lang;
+const t = strings(lang);
+const artists = artistPages(loadRecord()).sort((a, b) => fold(nameOf(a, lang).text).localeCompare(fold(nameOf(b, lang).text)) || a.id.localeCompare(b.id));
+---
+<Page lang={lang} title={`${t.browse.artists} — ${t.siteName}`} description={t.browse.directoryDescription} path="artists/" section="directory">
+  <main class="wrap discovery artist-directory" id="content">
+    <h1>{t.browse.artists}</h1>
+    <div class="directory-tools">
+      <div class="directory-filter-heading">
+        <label class="needs-js" for="directory-query">{t.browse.filterArtists}</label>
+        <p id="directory-count" aria-live="polite" data-template={t.browse.count}>{fill(t.browse.count, { shown: num(lang, artists.length), total: num(lang, artists.length) })}</p>
+      </div>
+      <div class="directory-field needs-js">
+        <input type="search" id="directory-query" placeholder={t.browse.artistPlaceholder} autocomplete="off" spellcheck="false" />
+        <button id="directory-clear" type="button" aria-label={t.browse.clearArtists} hidden><svg viewBox="0 0 16 16" aria-hidden="true"><path d="m4 4 8 8m0-8-8 8" /></svg></button>
+      </div>
+    </div>
+    <p id="directory-empty" hidden>{t.browse.empty} <button class="pill" id="directory-reset">{t.browse.reset}</button></p>
+    <ul class="directory-grid" id="directory-list">
+      {artists.map((artist) => <li data-names={fold((artist.statements.name ?? []).filter((s) => s.rank !== 'deprecated').map((s) => typeof s.value === 'object' && 'text' in s.value ? s.value.text : '').join(' '))}><ArtistCard artist={artist} lang={lang} /></li>)}
+    </ul>
+  </main>
+  <script>
+    import '../../../scripts/directory';
+  </script>
+</Page>

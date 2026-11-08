@@ -1,0 +1,163 @@
+---
+import { Image } from 'astro:assets';
+import Page from '../../layouts/Page.astro';
+import Contents from '../../components/Contents.astro';
+import Infobox from '../../components/Infobox.astro';
+import ReleaseCard from '../../components/ReleaseCard.astro';
+import ReleasePanel from '../../components/ReleasePanel.astro';
+import ShelfControls from '../../components/ShelfControls.astro';
+import SourceList from '../../components/SourceList.astro';
+import gardenRail from '../../assets/art/garden-rail.png';
+import { artistView } from '../../lib/artist';
+import { nameHtml, textAttrs } from '../../lib/html';
+import { addressOf, imageOf, PHOTO_WIDTHS, sizeOf } from '../../lib/images';
+import { other, plural, strings } from '../../lib/i18n';
+import { artistJsonLd } from '../../lib/jsonld';
+import { artistPages, LANGS, loadRecord, nameOf, releaseDate, url, type Lang } from '../../lib/record';
+import '../../styles/shelf.css';
+import { fold } from '../../lib/search';
+import '../../styles/artist.css';
+
+/** An Artist page: one per artist with a curated article, in each language. */
+export function getStaticPaths() {
+  const record = loadRecord();
+  return LANGS.flatMap((lang) => artistPages(record).map((a) => ({ params: { lang, artist: a.page }, props: { id: a.id } })));
+}
+
+const lang = Astro.params.lang as Lang;
+const record = loadRecord();
+const artist = record.items[Astro.props.id];
+const photo = imageOf(artist, 'image', PHOTO_WIDTHS);
+const view = artistView(record, artist, lang, photo && await sizeOf(photo.url));
+const t = strings(lang);
+const name = nameOf(artist, lang).text;
+
+const contents = [
+  { anchor: 'overview', label: t.artist.overview },
+  ...(view.releasePanels.length ? [{ anchor: 'recordings', label: t.artist.recordings, count: view.releases.length }] : []),
+  ...(view.sections.length || view.articleElsewhere
+    ? [{ anchor: 'life', label: t.artist.life, children: view.sections.map((s) => ({ anchor: s.anchor, label: s.heading })) }]
+    : []),
+  ...(view.events.length ? [{ anchor: 'events', label: t.artist.events, count: view.events.length }] : []),
+  ...(view.sources.length ? [{ anchor: 'sources', label: t.artist.sources, count: view.sources.length }] : []),
+];
+---
+
+<Page
+  lang={lang}
+  title={`${name} — ${t.siteName}`}
+  description={view.description}
+  path={`${artist.page}/`}
+  section="artist"
+  artistId={artist.id}
+  type="profile"
+  jsonld={artistJsonLd(record, artist, lang, Astro.site!, view.photo?.image ?? null)}
+  twins={view.twins}
+  image={view.photo ? { src: addressOf(view.photo.image, Astro.site!), alt: name } : undefined}
+>
+  <div class="layout wrap">
+    <div class="rail">
+      <Contents lang={lang} entries={contents} />
+      <Image class="rail-garden" src={gardenRail} width={188} densities={[1, 2]} alt="" aria-hidden="true" loading="lazy" />
+    </div>
+
+    <main class="article" id="content">
+      <header class="article-head" id="overview">
+        <div class="article-title">
+          <p class="kicker" set:html={view.kicker} />
+          <h1 class="artist-name" {...textAttrs(view.name, lang)}>{view.name.text}</h1>
+          {view.other && <p class="artist-name-alt" {...textAttrs(view.other, lang)}>{view.other.text}</p>}
+          <a class="text-link timeline-link" href={`${url(lang, 'timeline')}?artist=${encodeURIComponent(artist.page!)}`}>{t.artist.onTimeline}</a>
+        </div>
+        <Infobox lang={lang} facts={view.facts} photo={view.photo && { ...view.photo, alt: name }} />
+        {view.lead && <div class="lead prose" set:html={view.lead} />}
+      </header>
+
+      {view.releasePanels.length > 0 && (
+        <section class="section" id="recordings" aria-labelledby="recordings-title">
+          <header class="section-head">
+            <h2 id="recordings-title" tabindex="-1">{t.artist.recordings}</h2>
+            <ShelfControls shelf="catalog" lang={lang} />
+          </header>
+          <p class="section-note">{plural(lang, t.artist.recordingsNote, view.releases.length)}</p>
+          <button class="pill needs-js" id="catalog-expand" aria-expanded="false" aria-controls="catalog catalog-tools" data-expand={t.browse.expand} data-collapse={t.browse.collapse}>{t.browse.expand}</button>
+          <div id="catalog-tools" class="catalog-tools" hidden>
+            <label>{t.browse.filter}<input type="search" id="catalog-query" /></label>
+            <label>{t.browse.sort}<select id="catalog-sort"><option value="oldest">{t.browse.oldest}</option><option value="newest">{t.browse.newest}</option></select></label>
+            <p id="catalog-count" aria-live="polite" data-template={t.browse.count}></p>
+            <button class="pill" id="catalog-reset">{t.browse.reset}</button>
+          </div>
+          <p id="catalog-empty" hidden>{t.browse.empty}</p>
+          <ol class="shelf" id="catalog">
+            {view.releases.map((r) => (
+              <li data-id={r.item.id} data-date={releaseDate(r.item)?.range[0]} data-names={fold([r.title.text, r.other?.text ?? ''].join(' '))}><ReleaseCard href={`#${r.anchor}`} lang={lang} title={r.title} date={r.date} sub={r.with} art={r.cover?.image} panel /></li>
+            ))}
+          </ol>
+        </section>
+      )}
+      {view.releasePanels.map((r) => <ReleasePanel release={r} lang={lang} historical={!view.releases.some((shown) => shown.item.id === r.item.id)} />)}
+
+      {(view.sections.length > 0 || view.articleElsewhere) && (
+        <section class="section" id="life" aria-labelledby="life-title">
+          <header class="section-head">
+            <h2 id="life-title">{t.artist.life}</h2>
+          </header>
+          <div class="life">
+            <div class="prose">
+              {view.articleElsewhere ? (
+                <p class="elsewhere">
+                  {t.artist.otherArticle} <a href={url(other(lang), artist.page) + '#life'} hreflang={other(lang)}>{t.artist.readOther}</a>
+                </p>
+              ) : (
+                view.sections.map((s) => (
+                  <>
+                    <h3 id={s.anchor}>{s.heading}</h3>
+                    <Fragment set:html={s.html} />
+                  </>
+                ))
+              )}
+            </div>
+          </div>
+        </section>
+      )}
+
+      {view.events.length > 0 && (
+        <section class="section" id="events" aria-labelledby="events-title">
+          <header class="section-head">
+            <h2 id="events-title">{t.artist.events}</h2>
+            <ShelfControls shelf="event-list" lang={lang} />
+          </header>
+          <p class="section-note">{t.artist.eventsNote}</p>
+          <ol class="shelf" id="event-list">
+            {view.events.map((e) => (
+              <li>{e.date && <span class="shelf-meta" set:html={e.date} />}<span class="shelf-title" set:html={nameHtml(nameOf(e.item, lang), lang)} /><span set:html={e.evidence} /></li>
+            ))}
+          </ol>
+        </section>
+      )}
+
+      {view.sources.length > 0 && (
+        <section class="section" id="sources" aria-labelledby="sources-title">
+          <header class="section-head">
+            <h2 id="sources-title">{t.artist.sources}</h2>
+          </header>
+          <SourceList lang={lang} sources={view.sources} />
+        </section>
+      )}
+    </main>
+  </div>
+
+  <dialog id="release-dialog" class="release-dialog"></dialog>
+  {view.photo && (
+    <dialog id="photo-dialog" class="photo-dialog" aria-label={name}>
+      <form method="dialog"><button class="pill photo-close">{t.release.close}</button></form>
+      <img alt={name} width={view.photo.width} height={view.photo.height} decoding="async" />
+    </dialog>
+  )}
+  <script>
+    import '../../scripts/shelf';
+    import '../../scripts/catalogue';
+    import '../../scripts/panel';
+    import '../../scripts/photo';
+  </script>
+</Page>
