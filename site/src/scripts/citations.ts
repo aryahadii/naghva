@@ -58,9 +58,11 @@ function place(cite: HTMLElement) {
   const w = pop.offsetWidth;
   const h = pop.offsetHeight;
   const left = Math.min(Math.max(12, r.left + r.width / 2 - w / 2), innerWidth - w - 12);
-  const below = r.bottom + 10 + h < innerHeight || r.top - 10 - h < 0;
+  // Open on the side with room; when neither side has enough, keep it inside the window.
+  const below = r.bottom + 10 + h <= innerHeight || innerHeight - r.bottom >= r.top;
+  const top = below ? r.bottom + 10 : r.top - 10 - h;
   pop.style.left = `${left}px`;
-  pop.style.top = `${below ? r.bottom + 10 : r.top - 10 - h}px`;
+  pop.style.top = `${Math.max(12, Math.min(top, innerHeight - h - 12))}px`;
 }
 
 if (pop) {
