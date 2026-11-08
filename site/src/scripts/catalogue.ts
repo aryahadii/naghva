@@ -22,7 +22,7 @@ if (shelf && expand && tools && query && sort && count && empty) {
     count.textContent = count.dataset.template!.replace('{shown}', n(shown)).replace('{total}', n(cards.length));
     empty.hidden = shown > 0;
   };
-  const reset = () => { query.value = ''; sort.value = 'oldest'; update(); };
+  const reset = () => { query.value = ''; sort.value = 'newest'; update(); };
   expand.addEventListener('click', () => {
     const open = expand.getAttribute('aria-expanded') !== 'true';
     expand.setAttribute('aria-expanded', String(open));
