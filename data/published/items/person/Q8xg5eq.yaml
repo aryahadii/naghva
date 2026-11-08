@@ -9,10 +9,10 @@ statements:
     - source: soundcloud.com-sanam-maroufkhani-nobody-knows-about-the-longest-roads-61e46bf5e75b
       quote: 'Sound design . Arrangement : Keyvan Kamali'
       accessed: '2026-10-21'
-  # Editorial Persian display spelling; the cited source uses the Latin name.
   - value:
       text: کیوان کمالی
       language: fa
+    editorial: true
     references:
     - source: soundcloud.com-sanam-maroufkhani-nobody-knows-about-the-longest-roads-61e46bf5e75b
       quote: 'Sound design . Arrangement : Keyvan Kamali'

@@ -16,10 +16,10 @@ statements:
         1 song, 3 minutes
         ℗ 2022 Made in Iran
       accessed: '2026-10-19'
-  # Editorial Persian display spelling; source uses the original name.
   - value:
       text: خاکستر شد
       language: fa
+    editorial: true
     references:
     - source: music.apple.com-us-album-khakestar-shod-feat-golsa-single-1835001351-2dde686795f3
       quote: |-

@@ -9,10 +9,10 @@ statements:
     - source: music.apple.com-us-album-hayoula-single-6815978352-3138ce314ae0
       quote: Hayoula - Single - Album by Shaayn, Golsa & Taha Mazaheri - Apple Music
       accessed: '2026-10-20'
-  # Editorial Persian display spelling; source uses the original name.
   - value:
       text: هیولا
       language: fa
+    editorial: true
     references:
     - source: music.apple.com-us-album-hayoula-single-6815978352-3138ce314ae0
       quote: Hayoula - Single - Album by Shaayn, Golsa & Taha Mazaheri - Apple Music

@@ -10,10 +10,10 @@ statements:
       quote: |-
         Bass : Amid Bonakdar
       accessed: '2026-10-21'
-  # Editorial Persian display spelling; the cited source uses the Latin name.
   - value:
       text: عمید بنکدار
       language: fa
+    editorial: true
     references:
     - source: soundcloud.com-golsarz-refigh-b4ba23c624a3
       quote: |-

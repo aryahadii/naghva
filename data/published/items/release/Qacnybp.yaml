@@ -9,10 +9,10 @@ statements:
     - source: music.apple.com-us-album-tak-o-tanha-feat-golsa-taha-mazaheri-remix-single-6812138527-751211aa20fe
       quote: Tak o Tanha (feat. Golsa & Taha Mazaheri) [Remix] - Single - Album by PERFECTLYFINE - Apple Music
       accessed: '2026-10-20'
-  # Editorial Persian display spelling; source uses the original name.
   - value:
       text: تک و تنها (ریمیکس)
       language: fa
+    editorial: true
     references:
     - source: music.apple.com-us-album-tak-o-tanha-feat-golsa-taha-mazaheri-remix-single-6812138527-751211aa20fe
       quote: Tak o Tanha (feat. Golsa & Taha Mazaheri) [Remix] - Single - Album by PERFECTLYFINE - Apple Music

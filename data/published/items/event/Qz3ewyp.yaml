@@ -10,10 +10,10 @@ statements:
       quote: |-
         Golsa Rahimzamani Live
       accessed: '2026-10-21'
-  # Editorial Persian display spelling; the cited source uses the Latin name.
   - value:
       text: اجرای اعلام‌شدهٔ گلسا در کانتینهٔ برگهاین، برلین
       language: fa
+    editorial: true
     references:
     - source: www.berghain.berlin-de-events-81005-9b648b325eba
       quote: |-

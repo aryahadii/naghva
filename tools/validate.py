@@ -167,6 +167,8 @@ def _check_merge(where, data, store, report):
 
 def _check_statement(where, st, spec, prop, store, registry, report):
     _check_value(where, st["value"], spec, prop, store, registry, report)
+    if st.get("editorial") and prop != "name":
+        report.error(where, "only a `name` can be an editorial display spelling")
 
     allowed = spec.get("qualifiers") or []
     present = st.get("qualifiers") or {}

@@ -19,10 +19,10 @@ statements:
         Cover Art : Sarah Savalanpour
         Produced by : Salam Festival, Sanam Maroufkhani, Avin Ahmadi, Reza Tavakoli
       accessed: '2026-10-19'
-  # Editorial Persian display spelling; the cited source uses the Latin name.
   - value:
       text: آندراش دِش
       language: fa
+    editorial: true
     references:
     - source: sanammaroufkhani.bandcamp.com-track-beneath-the-wooden-roof-live-recorded-at-sargfabrik-vienna
       quote: "Sanam Maroufkhani : Lyrics, composition, vocal\nAvin Ahmadi : composition, oud, vocal\nReza Tavakoli\

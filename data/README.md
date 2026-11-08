@@ -263,7 +263,11 @@ Two special values exist for any kind, spelled exactly like this:
 Text values carry the language of the spelling: `fa` for Persian script, `en`
 for a Latin spelling as it appears in English-language sources, otherwise the
 source's language. Attested names and explicitly marked editorial display
-spellings follow the [name policy](../specs/data-policies.md#names-and-language).
+spellings follow the [name policy](../specs/data-policies.md#names).
+A `name` statement that is an editorial display spelling carries
+`editorial: true` beside its value; its references support the original name,
+not the spelling. Only names can be editorial, and a translated title is never
+one: a work whose title is English has no Persian name until a source gives one.
 
 ### Dates
 

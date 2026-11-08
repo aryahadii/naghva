@@ -9,10 +9,10 @@ statements:
     - source: soundcloud.com-peymansalimi-hasele-jamemoon-e92495a10b8f
       quote: 'Bass: Bernardo Cicchi'
       accessed: '2026-10-21'
-  # Editorial Persian display spelling; the cited source uses the Latin name.
   - value:
       text: برناردو چیکی
       language: fa
+    editorial: true
     references:
     - source: soundcloud.com-peymansalimi-hasele-jamemoon-e92495a10b8f
       quote: 'Bass: Bernardo Cicchi'

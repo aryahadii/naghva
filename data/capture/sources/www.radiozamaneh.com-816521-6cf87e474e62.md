@@ -5,6 +5,8 @@ status: processed
 kind: web page
 language: fa
 tier: journalism
+author: کاوه روشنگر
+issued: {date: '1403-02-20', calendar: jalali}
 about:
 - Sanam Maroufkhani
 - Peyman Salimi
@@ -55,3 +57,18 @@ enrolment.
 reviewer says the piano opens the song, then describes two rises with drums,
 strings and brass. This is the journalist's account of the arrangement, not
 artist testimony.
+
+> «کویر دل» از مرجان
+
+Catalogue paragraph, read 2026-10-25: Kavire Del is a reinterpretation of a
+song by Marjan. Kaveh Roshangar's article is dated 20 Ordibehesht 1403
+(9 May 2024).
+
+> مارک ساریا تهیه کننده بوده و تصویرسازی آن با ترمه ضیایی بوده است.
+
+Section «شعری از این بندر», read 2026-10-21. Persian spellings of the
+producer and illustrator as the article prints them.
+
+> شعری از این بندر
+
+Section heading of the article, read 2026-10-21: the song's Persian title.

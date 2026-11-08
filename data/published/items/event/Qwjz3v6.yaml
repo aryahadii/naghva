@@ -10,10 +10,10 @@ statements:
       quote: |-
         Gaëlito + Rubis Ramadan & Golsa Rahimzamani
       accessed: '2026-10-21'
-  # Editorial Persian display spelling; the cited source uses the Latin name.
   - value:
       text: اجرای اعلام‌شدهٔ گلسا در جس کلاب، پاریس
       language: fa
+    editorial: true
     references:
     - source: www.parisjazzclub.net-en-102828-concert-2025-11-01-gaelito-rubis-ramadan-et-golsa-rahimzamani-722fc9cde951
       quote: |-

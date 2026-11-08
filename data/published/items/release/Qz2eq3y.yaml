@@ -16,10 +16,10 @@ statements:
         1 song, 3 minutes
         ℗ 2020 Zang Records
       accessed: '2026-10-19'
-  # Editorial Persian display spelling; source uses the original name.
   - value:
       text: نقطه‌ها
       language: fa
+    editorial: true
     references:
     - source: soundcloud.com-sanam-maroufkhani-noghte-ha-0f56a99e5227
       quote: Noghte ha

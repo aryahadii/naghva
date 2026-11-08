@@ -9,10 +9,10 @@ statements:
     - source: music.apple.com-us-album-sayeh-feat-pozx-single-1589662871-f3d84669d7b6
       quote: 'Listen to Sayeh (feat. Pozx) - Single by Golsa on Apple Music. 2020. 1 Song. Duration: 3 minutes.'
       accessed: '2026-10-19'
-  # Editorial Persian display spelling; source uses the original name.
   - value:
       text: سایه
       language: fa
+    editorial: true
     references:
     - source: music.apple.com-us-album-sayeh-feat-pozx-single-1589662871-f3d84669d7b6
       quote: 'Listen to Sayeh (feat. Pozx) - Single by Golsa on Apple Music. 2020. 1 Song. Duration: 3 minutes.'
