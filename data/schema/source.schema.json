@@ -1,0 +1,29 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "source.schema.json",
+  "title": "Captured source front matter",
+  "description": "The YAML front matter of a file under data/capture/sources/<name>.md. Loose on purpose: only the keys listed are checked, any other key is allowed. tools/validate.py checks the cross-file rules described in data/README.md.",
+  "type": "object",
+  "required": ["title", "status"],
+  "properties": {
+    "title": { "type": "string", "minLength": 1 },
+    "status": { "enum": ["found", "processed", "excluded"] },
+    "url": { "$ref": "item.schema.json#/$defs/url" },
+    "kind": { "type": "string", "minLength": 1 },
+    "language": { "$ref": "item.schema.json#/$defs/language" },
+    "tier": { "type": "string", "minLength": 1 },
+    "author": { "type": "string", "minLength": 1 },
+    "publisher": { "type": "string", "minLength": 1 },
+    "issued": { "$ref": "item.schema.json#/$defs/date" },
+    "part of": { "$ref": "item.schema.json#/$defs/source-name" },
+    "about": {
+      "type": "array",
+      "minItems": 1,
+      "items": { "type": "string", "minLength": 1 }
+    },
+    "archive": { "$ref": "item.schema.json#/$defs/url" },
+    "reason": { "type": "string", "minLength": 1 }
+  },
+  "if": { "properties": { "status": { "const": "excluded" } } },
+  "then": { "required": ["reason"] }
+}
