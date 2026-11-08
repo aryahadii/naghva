@@ -75,6 +75,14 @@ class DeriveTests(unittest.TestCase):
         self.assertEqual(names["en"], {"text": "Badnama", "language": "en"})
         self.assertEqual(names["fa"], {"text": "بادنما", "language": "fa"})
 
+    def test_english_reads_a_latin_name_before_persian(self):
+        data = {"statements": {"name": [
+            {"value": {"text": "Paradisodebat 2025", "language": "nl"}},
+            {"value": {"text": "نشست پارادیزو ۲۰۲۵", "language": "fa"}},
+        ]}}
+        self.assertEqual(derive.display_name(data, "en"), {"text": "Paradisodebat 2025", "language": "nl"})
+        self.assertEqual(derive.display_name(data, "fa"), {"text": "نشست پارادیزو ۲۰۲۵", "language": "fa"})
+
     def test_relations_are_seen_from_both_ends(self):
         incoming = self.record["items"][BAND]["incoming"]
         member = next(i for i in incoming if i["property"] == "member of")

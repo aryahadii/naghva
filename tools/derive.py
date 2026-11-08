@@ -58,8 +58,16 @@ def name_values(data):
 
 
 def display_name(data, language):
-    """The preferred name in `language`, else its first; else the same in the other language."""
+    """The preferred name in `language`, else its first; else the same in the other language.
+
+    English without its own name reads a Latin-script one (a Dutch title, say) before Persian.
+    """
     names = [n for n in name_values(data) if n["rank"] != "deprecated"]
+    if language == "en" and not any(n["language"] == "en" for n in names):
+        latin = [n for n in names if is_latin(n["text"])]
+        if latin:
+            chosen = next((n for n in latin if n["rank"] == "preferred"), latin[0])
+            return {"text": chosen["text"], "language": chosen["language"]}
     for lang in (language,) + tuple(l for l in LANGUAGES if l != language):
         here = [n for n in names if n["language"] == lang]
         if here:
