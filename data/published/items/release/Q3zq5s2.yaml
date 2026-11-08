@@ -1,0 +1,58 @@
+id: Q3zq5s2
+type: release
+statements:
+  name:
+  - value:
+      text: Nobody Knows About The Longest Roads
+      language: en
+    references:
+    - source: soundcloud.com-sanam-maroufkhani-nobody-knows-about-the-longest-roads-61e46bf5e75b
+      quote: Nobody Knows About The Longest Roads
+      accessed: '2026-10-21'
+  # Editorial Persian display spelling; the cited source uses the Latin name.
+  - value:
+      text: هیچ‌کس از طولانی‌ترین راه‌ها خبر ندارد
+      language: fa
+    references:
+    - source: soundcloud.com-sanam-maroufkhani-nobody-knows-about-the-longest-roads-61e46bf5e75b
+      quote: Nobody Knows About The Longest Roads
+      accessed: '2026-10-21'
+  listen link:
+  - value: https://soundcloud.com/sanam-maroufkhani/nobody-knows-about-the-longest-roads
+    references:
+    - source: soundcloud.com-sanam-maroufkhani-nobody-knows-about-the-longest-roads-61e46bf5e75b
+      quote: Nobody Knows About The Longest Roads
+      accessed: '2026-10-21'
+  performer:
+  - value: Qa84h2k
+    references: &id001
+    - source: soundcloud.com-sanam-maroufkhani-nobody-knows-about-the-longest-roads-61e46bf5e75b
+      quote: |-
+        Music . Voice : Sanam Maroufkhani
+        Sound design . Arrangement : Keyvan Kamali
+      accessed: '2026-10-21'
+    qualifiers:
+      role:
+      - vocals
+  contributor:
+  - value: Qa84h2k
+    references: *id001
+    qualifiers:
+      role:
+      - composer
+  - value: Q8xg5eq
+    references:
+    - source: soundcloud.com-sanam-maroufkhani-nobody-knows-about-the-longest-roads-61e46bf5e75b
+      quote: |-
+        Music . Voice : Sanam Maroufkhani
+        Sound design . Arrangement : Keyvan Kamali
+      accessed: '2026-10-21'
+    qualifiers:
+      role:
+      - arranger
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-y0LyNfwnbRDCGWL4-heTjQA-t500x500.jpg
+    references:
+    - source: soundcloud.com-sanam-maroufkhani-nobody-knows-about-the-longest-roads-61e46bf5e75b
+      quote: https://i1.sndcdn.com/artworks-y0LyNfwnbRDCGWL4-heTjQA-t500x500.jpg
+      accessed: '2026-10-21'

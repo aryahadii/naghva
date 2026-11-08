@@ -1,0 +1,76 @@
+id: Qdt3ngy
+type: release
+statements:
+  name:
+  - value:
+      text: Hafez
+      language: en
+    references:
+    - source: music.apple.com-us-album-hafez-single-1693091869-8e7bafc4ef3a
+      quote: |-
+        Listen to Hafez - Single by Golsa on Apple Music. 2023. 1 Song. Duration: 5 minutes.
+      accessed: '2026-10-21'
+  # Editorial Persian display spelling; the cited source uses the Latin name.
+  - value:
+      text: حافظ
+      language: fa
+    references:
+    - source: music.apple.com-us-album-hafez-single-1693091869-8e7bafc4ef3a
+      quote: |-
+        Listen to Hafez - Single by Golsa on Apple Music. 2023. 1 Song. Duration: 5 minutes.
+      accessed: '2026-10-21'
+  release date:
+  - value:
+      date: '2023-06-15'
+    references:
+    - source: music.apple.com-us-album-hafez-single-1693091869-8e7bafc4ef3a
+      quote: |-
+        "datePublished":"2023-06-15"
+      accessed: '2026-10-21'
+  performer:
+  - value: Qh745pn
+    references:
+    - source: music.apple.com-us-album-hafez-single-1693091869-8e7bafc4ef3a
+      quote: |-
+        Listen to Hafez - Single by Golsa on Apple Music. 2023. 1 Song. Duration: 5 minutes.
+      accessed: '2026-10-21'
+  listen link:
+  - value: https://music.apple.com/us/album/hafez-single/1693091869
+    references:
+    - source: music.apple.com-us-album-hafez-single-1693091869-8e7bafc4ef3a
+      quote: |-
+        Listen to Hafez - Single by Golsa on Apple Music. 2023. 1 Song. Duration: 5 minutes.
+      accessed: '2026-10-21'
+  - value: https://soundcloud.com/golsarz/hafez
+    references:
+    - source: soundcloud.com-golsarz-hafez-cc9da830e5bd
+      quote: |-
+        Hafez
+      accessed: '2026-10-21'
+  - value: https://open.spotify.com/track/7ag2urzQzo5m97l9ELA0Mg
+    references:
+    - source: open.spotify.com-track-7ag2urzqzo5m97l9ela0mg-3c427fa909e8
+      quote: 'Hafez - song and lyrics by Golsa | Spotify
+
+        Hafez
+
+        Golsa
+
+        Hafez
+
+        2023
+
+        5:06'
+      accessed: '2026-11-03'
+  - value: https://www.youtube.com/watch?v=eZ78mc4p4JU
+    references:
+    - source: www.youtube.com-watch-v-ez78mc4p4ju
+      quote: Hafez
+      accessed: '2026-11-03'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c2/52/5a/c2525a6d-efa5-e608-cdbf-2c1ce260d51c/725336368425_cover.jpg/600x600bf-60.jpg
+    references:
+    - source: music.apple.com-us-album-hafez-single-1693091869-8e7bafc4ef3a
+      quote: |-
+        https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c2/52/5a/c2525a6d-efa5-e608-cdbf-2c1ce260d51c/725336368425_cover.jpg/600x600bf-60.jpg
+      accessed: '2026-10-21'

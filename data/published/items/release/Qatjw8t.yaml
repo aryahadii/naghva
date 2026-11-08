@@ -1,0 +1,129 @@
+id: Qatjw8t
+type: release
+statements:
+  name:
+  - value:
+      text: Mirror for the Sun
+      language: en
+    references:
+    - source: sanammaroufkhani.bandcamp.com-track-mirror-for-the-sun-b67da72a4bdc
+      quote: Mirror for the Sun by Sanam Maroufkhani
+      accessed: '2026-10-19'
+  # Editorial Persian display spelling; the cited source uses the Latin name.
+  - value:
+      text: آینه‌ای برای خورشید
+      language: fa
+    references:
+    - source: soundcloud.com-sanam-maroufkhani-mirror-for-the-sun-6a548492e0fc
+      quote: Mirror for the Sun
+      accessed: '2026-10-21'
+  release date:
+  - value:
+      date: '2025-12-04'
+    references:
+    - source: sanammaroufkhani.bandcamp.com-track-mirror-for-the-sun-b67da72a4bdc
+      quote: released December 4, 2025
+      accessed: '2026-10-19'
+    - source: music.apple.com-us-album-mirror-for-the-sun-single-1870084962-e63623399a9d
+      quote: '"datePublished":"2025-12-04"'
+      accessed: '2026-10-21'
+      locator: Catalogue release date
+    - source: music.apple.com-us-album-mirror-for-the-sun-single-1857398682-cd4238cf85a9
+      quote: '"datePublished":"2025-12-04"'
+      accessed: '2026-10-21'
+      locator: Catalogue release date
+    - source: open.spotify.com-embed-track-1ll1osyjze5tt5tj1x6air-5e70588fc4b4
+      quote: '2025-12-04T00:00:00Z'
+      accessed: '2026-10-21'
+      locator: Catalogue release date
+  performer:
+  - value: Qa84h2k
+    references: &id001
+    - source: sanammaroufkhani.bandcamp.com-track-mirror-for-the-sun-b67da72a4bdc
+      quote: Mirror for the Sun by Sanam Maroufkhani
+      accessed: '2026-10-19'
+    - source: soundcloud.com-sanam-maroufkhani-mirror-for-the-sun-6a548492e0fc
+      quote: |+
+        Composition and Lyrics: Sanam Maroufkhani
+        Production . Mix & Master: Marc sarria
+        Piano: Sanam Maroufkhani. Marc Sarria
+        Guitar: Sanam Maroufkhani
+        Painting . Art work: Ofogh Hosseini
+
+
+      accessed: '2026-10-21'
+    - source: sanammaroufkhani.bandcamp.com-track-mirror-for-the-sun-b67da72a4bdc
+      quote: 'Singer-songwriter: sanam Maroufkhani Lyrics: sanam Maroufkhani'
+      accessed: '2026-10-21'
+    qualifiers:
+      role:
+      - vocals
+      - piano
+      - guitar
+  - value: Qsq7k2b
+    references: &id002
+    - source: soundcloud.com-sanam-maroufkhani-mirror-for-the-sun-6a548492e0fc
+      quote: 'Production . Mix & Master: Marc sarria'
+      accessed: '2026-10-21'
+    - source: soundcloud.com-sanam-maroufkhani-mirror-for-the-sun-6a548492e0fc
+      quote: 'Piano: Sanam Maroufkhani. Marc Sarria'
+      accessed: '2026-10-21'
+    qualifiers:
+      role:
+      - piano
+  contributor:
+  - value: Qa84h2k
+    references: *id001
+    qualifiers:
+      role:
+      - composer
+      - lyricist
+  - value: Qsq7k2b
+    references: *id002
+    qualifiers:
+      role:
+      - producer
+  listen link:
+  - value: https://sanammaroufkhani.bandcamp.com/track/mirror-for-the-sun
+    references:
+    - source: sanammaroufkhani.bandcamp.com-track-mirror-for-the-sun-b67da72a4bdc
+      quote: Mirror for the Sun by Sanam Maroufkhani
+      accessed: '2026-10-19'
+  - value: https://soundcloud.com/sanam-maroufkhani/mirror-for-the-sun
+    references:
+    - source: soundcloud.com-sanam-maroufkhani-mirror-for-the-sun-6a548492e0fc
+      quote: Mirror for the Sun
+      accessed: '2026-10-21'
+  - value: https://music.apple.com/us/album/mirror-for-the-sun-single/1870084962
+    references:
+    - source: music.apple.com-us-album-mirror-for-the-sun-single-1870084962-e63623399a9d
+      quote: 'Listen to Mirror for the Sun - Single by Sanam Maroufkhani on Apple Music. 2025. 1 Song. Duration: 2 minutes.'
+      accessed: '2026-10-21'
+  - value: https://music.apple.com/us/album/mirror-for-the-sun-single/1857398682
+    references:
+    - source: music.apple.com-us-album-mirror-for-the-sun-single-1857398682-cd4238cf85a9
+      quote: 'Listen to Mirror for the Sun - Single by Sanam Maroufkhani on Apple Music. 2025. 1 Song. Duration: 2 minutes.'
+      accessed: '2026-10-21'
+  - value: https://open.spotify.com/track/1ll1oSYjZe5tT5TJ1x6aiR
+    references:
+    - source: open.spotify.com-embed-track-1ll1osyjze5tt5tj1x6air-5e70588fc4b4
+      quote: Mirror for the Sun
+      accessed: '2026-10-21'
+  - value: https://www.youtube.com/watch?v=vLeyouVNPJ4
+    references:
+    - source: www.youtube.com-watch-v-vleyouvnpj4
+      quote: Mirror for the Sun · Sanam Maroufkhani · Sanam Maroufkhani · Marc Sarrià
+      accessed: '2026-11-03'
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-XgKPgR0lXfB0Rx35-bU6jaw-t500x500.jpg
+    references:
+    - source: soundcloud.com-sanam-maroufkhani-mirror-for-the-sun-6a548492e0fc
+      quote: https://i1.sndcdn.com/artworks-XgKPgR0lXfB0Rx35-bU6jaw-t500x500.jpg
+      accessed: '2026-10-21'
+    - source: soundcloud.com-sanam-maroufkhani-mirror-for-the-sun-6a548492e0fc
+      quote: 'Painting . Art work: Ofogh Hosseini'
+      accessed: '2026-10-21'
+    qualifiers:
+      credit:
+        text: Ofogh Hosseini
+        language: en

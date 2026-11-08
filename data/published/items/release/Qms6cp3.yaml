@@ -1,0 +1,36 @@
+# Editorial Persian display spelling; original title retained in the source.
+id: Qms6cp3
+type: release
+statements:
+  name:
+  - value:
+      text: Vaghty Rafty az khooneh (Let Her Sing 2023 live)
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-fpucwvnekgq-65edecf40859
+      quote: Sanam - Vaghty Rafty az khooneh (Let Her Sing® 2023)
+      accessed: '2026-11-03'
+  - value:
+      text: وقتی تو رفتی از خونه (اجرای زندهٔ سان‌فرانسیسکو)
+      language: fa
+    references:
+    - *id001
+  performer:
+  - value: Qa84h2k
+    references:
+    - *id001
+  listen link:
+  - value: https://www.youtube.com/watch?v=FPUcWvNEkGQ
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/FPUcWvNEkGQ/maxresdefault.jpg
+    qualifiers:
+      credit:
+        text: Diaspora Arts Connection
+        language: en
+    references:
+    - source: www.youtube.com-watch-v-fpucwvnekgq-65edecf40859
+      quote: https://i.ytimg.com/vi/FPUcWvNEkGQ/maxresdefault.jpg
+      accessed: '2026-11-03'

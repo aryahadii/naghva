@@ -1,0 +1,53 @@
+id: Qa47avc
+type: release
+statements:
+  name:
+  - value:
+      text: زیبای من
+      language: fa
+    references:
+    - source: open.spotify.com-embed-track-7oc7glxxq99ihjjorajzsn-1b341f5de1be
+      quote: |-
+        زیبای من
+      accessed: '2026-10-21'
+  release date:
+  - value:
+      date: '2023-11-30'
+    references:
+    - source: open.spotify.com-embed-track-7oc7glxxq99ihjjorajzsn-1b341f5de1be
+      quote: |-
+        {"isoString":"2023-11-30T00:00:00Z"}
+      accessed: '2026-10-21'
+  performer:
+  - value: Qh745pn
+    references:
+    - source: open.spotify.com-embed-track-7oc7glxxq99ihjjorajzsn-1b341f5de1be
+      quote: |-
+        Golsa
+      accessed: '2026-10-21'
+  listen link:
+  - value: https://open.spotify.com/track/7oc7GlXxQ99ihjJorAJzsN
+    references:
+    - source: open.spotify.com-embed-track-7oc7glxxq99ihjjorajzsn-1b341f5de1be
+      quote: |-
+        زیبای من
+      accessed: '2026-10-21'
+  - value: https://soundcloud.com/golsarz/feat-midnight-drips
+    references:
+    - source: soundcloud.com-golsarz-feat-midnight-drips-a9bff0b88094
+      quote: |-
+        زیبای من (feat. Midnight drips)⁩
+      accessed: '2026-10-21'
+  - value: https://music.apple.com/us/album/%D8%B2%DB%8C%D8%A8%D8%A7%DB%8C-%D9%85%D9%86-single/1717742830
+    references:
+    - source: music.apple.com-us-album-d8-b2-db-8c-d8-a8-d8-a7-db-8c--d9-85-d9-86-single-1717742830-536e0352f2ad
+      quote: |-
+        Listen to زیبای من - Single by Midnight Drips on Apple Music. 2023. 1 Song. Duration: 5 minutes.
+      accessed: '2026-10-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/84/ea/42/84ea4262-5a15-9aaa-beea-3538574074b6/artwork.jpg/600x600bf-60.jpg
+    references:
+    - source: music.apple.com-us-album-d8-b2-db-8c-d8-a8-d8-a7-db-8c--d9-85-d9-86-single-1717742830-536e0352f2ad
+      quote: |-
+        https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/84/ea/42/84ea4262-5a15-9aaa-beea-3538574074b6/artwork.jpg/600x600bf-60.jpg
+      accessed: '2026-10-21'

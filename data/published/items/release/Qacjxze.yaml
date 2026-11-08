@@ -1,0 +1,82 @@
+id: Qacjxze
+type: release
+statements:
+  name:
+  - value:
+      text: Man Ya Un - Single
+      language: en
+    references:
+    - source: music.apple.com-us-album-man-ya-un-single-1734619588-8a5dd991b4ed
+      quote: 'Listen to Man Ya Un - Single by Golsa on Apple Music. 2024. 1 Song. Duration: 6 minutes.'
+      accessed: '2026-10-19'
+  # Editorial Persian display spelling; source uses the original name.
+  - value:
+      text: من یا اون
+      language: fa
+    references:
+    - source: music.apple.com-us-album-man-ya-un-single-1734619588-8a5dd991b4ed
+      quote: 'Listen to Man Ya Un - Single by Golsa on Apple Music. 2024. 1 Song. Duration: 6 minutes.'
+      accessed: '2026-10-19'
+  release date:
+  - value:
+      date: '2024-03-05'
+    references:
+    - source: music.apple.com-us-album-man-ya-un-single-1734619588-8a5dd991b4ed
+      quote: '"datePublished":"2024-03-05"'
+      accessed: '2026-10-19'
+  performer:
+  - value: Q66ky5f
+    references:
+    - source: soundcloud.com-golsarz-man-ya-un-58f4ac347131
+      quote: 'Electric Guitar: Taha Mazaheri'
+      accessed: '2026-10-20'
+    qualifiers:
+      role:
+      - guitar
+  - value: Qh745pn
+    references:
+    - source: music.apple.com-us-album-man-ya-un-single-1734619588-8a5dd991b4ed
+      quote: 'Listen to Man Ya Un - Single by Golsa on Apple Music. 2024. 1 Song. Duration: 6 minutes.'
+      accessed: '2026-10-21'
+  contributor:
+  - value: Qh745pn
+    references:
+    - source: music.apple.com-us-album-man-ya-un-single-1734619588-8a5dd991b4ed
+      quote: 'Listen to Man Ya Un - Single by Golsa on Apple Music. 2024. 1 Song. Duration: 6 minutes.'
+      accessed: '2026-10-19'
+    - source: soundcloud.com-golsarz-man-ya-un-58f4ac347131
+      quote: Written by Golsa
+      accessed: '2026-10-21'
+    qualifiers:
+      role:
+      - composer
+  - value: Q6mm7b5
+    references:
+    - source: soundcloud.com-golsarz-man-ya-un-58f4ac347131
+      quote: 'Production, Mix and Master: Mehrdad mcy'
+      accessed: '2026-10-21'
+    qualifiers:
+      role:
+      - producer
+  listen link:
+  - value: https://music.apple.com/us/album/man-ya-un-single/1734619588
+    references:
+    - source: music.apple.com-us-album-man-ya-un-single-1734619588-8a5dd991b4ed
+      quote: 'Listen to Man Ya Un - Single by Golsa on Apple Music. 2024. 1 Song. Duration: 6 minutes.'
+      accessed: '2026-10-19'
+  - value: https://soundcloud.com/golsarz/man-ya-un
+    references:
+    - source: soundcloud.com-golsarz-man-ya-un-58f4ac347131
+      quote: 'Electric Guitar: Taha Mazaheri'
+      accessed: '2026-10-20'
+  - value: https://open.spotify.com/track/47clIyQ7q4WH0DHUF9p7SO
+    references:
+    - source: open.spotify.com-playlist-0yo9ozlv3xpcbwdseipde7-25b14e85aee7
+      quote: spotify:track:47clIyQ7q4WH0DHUF9p7SO
+      accessed: '2026-10-22'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/99/16/bd/9916bdba-8e2a-7752-dba7-50fc42289300/732138260482_cover.jpg/296x296bb.webp
+    references:
+    - source: music.apple.com-us-album-man-ya-un-single-1734619588-8a5dd991b4ed
+      quote: 'Listen to Man Ya Un - Single by Golsa on Apple Music. 2024. 1 Song. Duration: 6 minutes.'
+      accessed: '2026-10-19'

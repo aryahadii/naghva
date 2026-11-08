@@ -1,0 +1,140 @@
+id: Q47yhxx
+type: release
+statements:
+  name:
+  - value:
+      text: Refigh (feat. Taha Mazaheri)
+      language: en
+    references:
+    - source: music.apple.com-us-album-refigh-feat-taha-mazaheri-single-1766459185-4ee6a9d6e3cb
+      quote: Refigh (feat. Taha Mazaheri) - Single - Album by Golsa - Apple Music
+      accessed: '2026-10-20'
+  # Editorial Persian display spelling; source uses the original name.
+  - value:
+      text: رفیق
+      language: fa
+    references:
+    - source: music.apple.com-us-album-refigh-feat-taha-mazaheri-single-1766459185-4ee6a9d6e3cb
+      quote: Refigh (feat. Taha Mazaheri) - Single - Album by Golsa - Apple Music
+      accessed: '2026-10-20'
+  release date:
+  - value:
+      date: '2024-09-04'
+    references:
+    - source: music.apple.com-us-album-refigh-feat-taha-mazaheri-single-1766459185-4ee6a9d6e3cb
+      quote: September 4, 2024
+      accessed: '2026-10-20'
+  performer:
+  - value: Qh745pn
+    references: &id001
+    - source: music.apple.com-us-album-refigh-feat-taha-mazaheri-single-1766459185-4ee6a9d6e3cb
+      quote: Refigh (feat. Taha Mazaheri) - Single - Album by Golsa - Apple Music
+      accessed: '2026-10-20'
+    - source: soundcloud.com-golsarz-refigh-b4ba23c624a3
+      quote: 'Vocals : Golsa'
+      accessed: '2026-10-21'
+    - source: soundcloud.com-golsarz-refigh-b4ba23c624a3
+      quote: 'Words : Golsa , Mehrdad Mcy , Taha Mazaheri'
+      accessed: '2026-10-21'
+    qualifiers:
+      role:
+      - vocals
+  - value: Q66ky5f
+    references: &id002
+    - source: music.apple.com-us-album-refigh-feat-taha-mazaheri-single-1766459185-4ee6a9d6e3cb
+      quote: Refigh (feat. Taha Mazaheri) - Single - Album by Golsa - Apple Music
+      accessed: '2026-10-20'
+    - source: soundcloud.com-golsarz-refigh-b4ba23c624a3
+      quote: 'Guitars and Production : Taha Mazaheri'
+      accessed: '2026-10-20'
+    - source: soundcloud.com-golsarz-refigh-b4ba23c624a3
+      quote: 'Guitars and Production : Taha Mazaheri'
+      accessed: '2026-10-21'
+    - source: soundcloud.com-golsarz-refigh-b4ba23c624a3
+      quote: 'Words : Golsa , Mehrdad Mcy , Taha Mazaheri'
+      accessed: '2026-10-21'
+    qualifiers:
+      role:
+      - guitar
+  - value: Qgjgnqb
+    references:
+    - source: soundcloud.com-golsarz-refigh-b4ba23c624a3
+      quote: 'Piano : Sardar Sarmast'
+      accessed: '2026-10-21'
+    qualifiers:
+      role:
+      - piano
+  - value: Q5dnwj7
+    references:
+    - source: soundcloud.com-golsarz-refigh-b4ba23c624a3
+      quote: 'Bass : Amid Bonakdar'
+      accessed: '2026-10-21'
+    qualifiers:
+      role:
+      - bass
+  - value: Qr7dqzn
+    references:
+    - source: soundcloud.com-golsarz-refigh-b4ba23c624a3
+      quote: 'Drums : Sina Partovi'
+      accessed: '2026-10-21'
+    qualifiers:
+      role:
+      - drums
+  contributor:
+  - value: Qh745pn
+    references: *id001
+    qualifiers:
+      role:
+      - lyricist
+  - value: Q66ky5f
+    references: *id002
+    qualifiers:
+      role:
+      - producer
+      - lyricist
+  - value: Q6mm7b5
+    references:
+    - source: soundcloud.com-golsarz-refigh-b4ba23c624a3
+      quote: 'Words : Golsa , Mehrdad Mcy , Taha Mazaheri'
+      accessed: '2026-10-21'
+    qualifiers:
+      role:
+      - lyricist
+  listen link:
+  - value: https://music.apple.com/us/album/refigh-feat-taha-mazaheri-single/1766459185
+    references:
+    - source: music.apple.com-us-album-refigh-feat-taha-mazaheri-single-1766459185-4ee6a9d6e3cb
+      quote: Refigh (feat. Taha Mazaheri) - Single - Album by Golsa - Apple Music
+      accessed: '2026-10-20'
+  - value: https://soundcloud.com/golsarz/refigh
+    references:
+    - source: soundcloud.com-golsarz-refigh-b4ba23c624a3
+      quote: 'Guitars and Production : Taha Mazaheri'
+      accessed: '2026-10-20'
+  - value: https://open.spotify.com/album/6jUQ91kxLoQvJBEM0yWRpc
+    references:
+    - source: open.spotify.com-album-6juq91kxloqvjbem0ywrpc-58e8ca1360c7
+      quote: |
+        Listen to Refigh - Single by Golsa | Spotify
+        Refigh
+        Golsa
+        2024
+        1 song
+        ,
+        2 min 39 sec
+        Refigh
+        Golsa
+        ,
+        Taha Mazaheri
+      accessed: '2026-10-20'
+  - value: https://www.youtube.com/watch?v=FaOd4DeZaUM
+    references:
+    - source: www.youtube.com-watch-v-faod4dezaum-ce3c986f3c4d
+      quote: Refigh
+      accessed: '2026-10-22'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/83/a8/6e/83a86ecb-1f2c-cb69-666e-2a377ca91dae/734167073309_cover.jpg/1200x630wp-60.jpg
+    references:
+    - source: music.apple.com-us-album-refigh-feat-taha-mazaheri-single-1766459185-4ee6a9d6e3cb
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/83/a8/6e/83a86ecb-1f2c-cb69-666e-2a377ca91dae/734167073309_cover.jpg/1200x630wp-60.jpg
+      accessed: '2026-10-20'

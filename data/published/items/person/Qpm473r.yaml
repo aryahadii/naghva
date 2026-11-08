@@ -1,0 +1,45 @@
+id: Qpm473r
+type: person
+statements:
+  name:
+  - value:
+      text: Mohammad Shariat
+      language: en
+    references:
+    - source: jetpackband.bandcamp.com-album-joystick-ep-37e6de0bb080
+      quote: |-
+        Jetpack are a synthwave band from Tehran, Iran consisting of vocalist Arian Shariat, keyboardist and producer Mohammad Shariat, guitarist Majid Heidari and drummer Erfan Aseminejad.
+      accessed: '2026-10-19'
+  - value:
+      text: محمد شریعت
+      language: fa
+    references:
+    - source: soundcloud.com-mdirecords-sets-rian-pakkon-9dd25ca06686
+      quote: |-
+        پیانو: محمد شریعت (تو خلوت اتاق)
+      accessed: '2026-10-20'
+  - value:
+      text: Mo Shariat
+      language: en
+    references:
+    - source: www.shazam.com-song-1580663798-to-magoo
+      quote: |-
+        ALBUM To Magoo - Single Mo Shariat & Mina Momen
+      accessed: '2026-10-20'
+    - source: www.shazam.com-song-1580663798-to-magoo
+      quote: |-
+        Mohammad Shariat
+
+        Intérprete
+      accessed: '2026-10-20'
+  member of:
+  - value: Qpy9984
+    references:
+    - source: jetpackband.bandcamp.com-album-joystick-ep-37e6de0bb080
+      quote: |-
+        Jetpack are a synthwave band from Tehran, Iran consisting of vocalist Arian Shariat, keyboardist and producer Mohammad Shariat, guitarist Majid Heidari and drummer Erfan Aseminejad.
+      accessed: '2026-10-19'
+    qualifiers:
+      role:
+      - keyboards
+      - producer

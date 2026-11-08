@@ -1,0 +1,84 @@
+id: Q6v79ra
+type: release
+statements:
+  name:
+  - value:
+      text: Khoone
+      language: en
+    references:
+    - source: music.apple.com-us-album-khoone-single-1604607742-d633994b8295
+      quote: |-
+        Listen to Khoone - Single by Golsa on Apple Music. 2022. 1 Song. Duration: 4 minutes.
+      accessed: '2026-10-21'
+  # Editorial Persian display spelling; the cited source uses the Latin name.
+  - value:
+      text: خونه
+      language: fa
+    references:
+    - source: music.apple.com-us-album-khoone-single-1604607742-d633994b8295
+      quote: |-
+        Listen to Khoone - Single by Golsa on Apple Music. 2022. 1 Song. Duration: 4 minutes.
+      accessed: '2026-10-21'
+  release date:
+  - value:
+      date: '2022-01-11'
+    references:
+    - source: music.apple.com-us-album-khoone-single-1604607742-d633994b8295
+      quote: |-
+        "datePublished":"2022-01-11"
+      accessed: '2026-10-21'
+  - value:
+      date: '2022-01-19'
+    references:
+    - source: golsarz.bandcamp.com-track-golsa-khoone-84d3b634fa28
+      quote: |-
+        "release_date":"19 Jan 2022 00:00:00 GMT"
+      accessed: '2026-10-21'
+  performer:
+  - value: Qh745pn
+    references:
+    - source: music.apple.com-us-album-khoone-single-1604607742-d633994b8295
+      quote: |-
+        Listen to Khoone - Single by Golsa on Apple Music. 2022. 1 Song. Duration: 4 minutes.
+      accessed: '2026-10-21'
+  listen link:
+  - value: https://music.apple.com/us/album/khoone-single/1604607742
+    references:
+    - source: music.apple.com-us-album-khoone-single-1604607742-d633994b8295
+      quote: |-
+        Listen to Khoone - Single by Golsa on Apple Music. 2022. 1 Song. Duration: 4 minutes.
+      accessed: '2026-10-21'
+  - value: https://soundcloud.com/golsarz/khoone
+    references:
+    - source: soundcloud.com-golsarz-khoone-ccf1c538e0cc
+      quote: |-
+        Khoone
+      accessed: '2026-10-21'
+  - value: https://golsarz.bandcamp.com/track/golsa-khoone
+    references:
+    - source: golsarz.bandcamp.com-track-golsa-khoone-84d3b634fa28
+      quote: |-
+        Golsa - Khoone
+      accessed: '2026-10-21'
+  - value: https://open.spotify.com/track/4acNqL3r0tKhWG2Y7VAYDm
+    references:
+    - source: open.spotify.com-track-4acnql3r0tkhwg2y7vaydm-0e5579ef1f0a
+      quote: 'Khoone - song and lyrics by Golsa | Spotify
+
+        Khoone
+
+        Golsa
+
+        Khoone
+
+        2022
+
+        4:24'
+      accessed: '2026-11-03'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ad/b7/27/adb72798-f2ab-c975-dceb-f7c493669de8/752470240775_cover.jpg/600x600bf-60.jpg
+    references:
+    - source: music.apple.com-us-album-khoone-single-1604607742-d633994b8295
+      quote: |-
+        https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ad/b7/27/adb72798-f2ab-c975-dceb-f7c493669de8/752470240775_cover.jpg/600x600bf-60.jpg
+      accessed: '2026-10-21'

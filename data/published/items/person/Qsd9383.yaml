@@ -1,0 +1,19 @@
+id: Qsd9383
+type: person
+statements:
+  name:
+  - value:
+      text: Federico Franchi
+      language: en
+    references:
+    - source: soundcloud.com-peymansalimi-sammamish-8d0346856ae5
+      quote: 'Drums: Federico Franchi'
+      accessed: '2026-10-21'
+  # Editorial Persian display spelling; the cited source uses the Latin name.
+  - value:
+      text: فدریکو فرانکی
+      language: fa
+    references:
+    - source: soundcloud.com-peymansalimi-sammamish-8d0346856ae5
+      quote: 'Drums: Federico Franchi'
+      accessed: '2026-10-21'

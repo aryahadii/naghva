@@ -1,0 +1,98 @@
+id: Qbdtc2s
+type: release
+statements:
+  name:
+  - value:
+      text: Temple Of Hope
+      language: en
+    references:
+    - &id001
+      source: sabaalizadeh.bandcamp.com-album-temple-of-hope-29c73288d75e
+      quote: Temple Of Hope
+      accessed: '2026-11-06'
+  # Editorial Persian display spelling; source uses the original name.
+  - value:
+      text: معبد امید
+      language: fa
+    references:
+    - *id001
+  performer:
+  - value: Qgbbc6t
+    references:
+    - source: sabaalizadeh.bandcamp.com-album-temple-of-hope-29c73288d75e
+      quote: 'Kamancheh, modular synth, no-input mixer: Saba Alizadeh'
+      accessed: '2026-11-06'
+    qualifiers:
+      role:
+      - kamancheh
+      - synthesizer
+  - value: Q442q27
+    references:
+    - source: sabaalizadeh.bandcamp.com-track-beauty-of-politcs-feat-andreas-spechtl-0a970c957833
+      quote: Vocals and keys by Andreas Spechtl
+      accessed: '2026-11-06'
+    qualifiers:
+      role:
+      - vocals
+      - keyboards
+  - value: Qa84h2k
+    references:
+    - source: sabaalizadeh.bandcamp.com-track-women-of-fire-feat-sanam-maroufkhani-dcdd1af22a36
+      quote: Vocals by Sanam Maroufkhani
+      accessed: '2026-11-06'
+    qualifiers:
+      role:
+      - vocals
+  - value: Qdw5cww
+    references:
+    - source: sabaalizadeh.bandcamp.com-track-what-comes-from-the-sea-returns-to-the-sea-feat-leila-rahimi-46943be19268
+      quote: 'Vocals: Leila Rahimi'
+      accessed: '2026-11-06'
+    qualifiers:
+      role:
+      - vocals
+  release date:
+  - value:
+      date: '2025-01-17'
+    references:
+    - source: sabaalizadeh.bandcamp.com-album-temple-of-hope-29c73288d75e
+      quote: released January 17, 2025
+      accessed: '2026-11-06'
+  listen link:
+  - value: https://sabaalizadeh.bandcamp.com/album/temple-of-hope
+    references:
+    - *id001
+  - value: https://music.apple.com/us/album/temple-of-hope/1784370975
+    references:
+    - source: music.apple.com-us-album-temple-of-hope-1784370975-13bea5508a6a
+      quote: 'Temple of Hope
+
+        Saba Alizadeh
+
+        Ambient · 2025'
+      accessed: '2026-11-06'
+  - value: https://open.spotify.com/album/2AwUYXtiU6uLIZ2cgCck7Y
+    references:
+    - source: open.spotify.com-embed-album-2awuyxtiu6uliz2cgcck7y-475fa943f7f8
+      quote: 'Temple of Hope
+
+        ·
+
+        Saba Alizadeh'
+      accessed: '2026-11-06'
+  cover art:
+  - value: https://f4.bcbits.com/img/a0528936211_10.jpg
+    references:
+    - source: sabaalizadeh.bandcamp.com-album-temple-of-hope-29c73288d75e
+      quote: https://f4.bcbits.com/img/a0528936211_10.jpg
+      accessed: '2026-11-06'
+    qualifiers:
+      credit:
+        text: sabaalizadeh.bandcamp.com
+        language: en
+  published by:
+  - value: Qxyvth5
+    references:
+    - source: 30m-records.com-saba-alizadeh-temple-of-hope-de5b3c09f843
+      quote: SMR008 – 17 January 2025
+      accessed: '2026-11-06'

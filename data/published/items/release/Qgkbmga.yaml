@@ -1,0 +1,121 @@
+id: Qgkbmga
+type: release
+statements:
+  name:
+  - value:
+      text: Havapeyma ha (Airplanes)
+      language: en
+    references:
+    - source: sanammaroufkhani.bandcamp.com-track-havapeyma-ha-airplanes-b97b881e6114
+      quote: Havapeyma ha (Airplanes) | Sanam Maroufkhani
+      accessed: '2026-10-19'
+  - value:
+      text: هواپیماها
+      language: fa
+    references:
+    - source: soundcloud.com-sanam-maroufkhani-havapeyma-ha-ac909d32e55a
+      quote: Havapeyma ha
+      accessed: '2026-10-21'
+  release date:
+  - value:
+      date: '2022-05-17'
+    references:
+    - source: sanammaroufkhani.bandcamp.com-track-havapeyma-ha-airplanes-b97b881e6114
+      quote: |-
+        released May 17, 2022
+        Singer : Sanam Maroufkhani
+        Songwriter : Sanam Maroufkhani
+        Music Producer : Mohammad Shariat
+        Cover Artist : Reyhaneh Alesheykh
+      accessed: '2026-10-19'
+  - value:
+      date: '2021-09-19'
+    references:
+    - source: music.apple.com-us-album-airplanes-single-1583459531-42445d9bb7fe
+      quote: '"datePublished":"2021-09-19"'
+      accessed: '2026-10-21'
+      locator: Catalogue release date
+    - source: music.apple.com-us-album-airplanes-single-1870096122-87fc36812b26
+      quote: '"datePublished":"2021-09-19"'
+      accessed: '2026-10-21'
+      locator: Catalogue release date
+    - source: open.spotify.com-embed-track-5hvikjov3ruorbgpma6j1h-e57650ccbca6
+      quote: '2021-09-19T00:00:00Z'
+      accessed: '2026-10-21'
+      locator: Catalogue release date
+  performer:
+  - value: Qa84h2k
+    references: &id001
+    - source: sanammaroufkhani.bandcamp.com-track-havapeyma-ha-airplanes-b97b881e6114
+      quote: Havapeyma ha (Airplanes) | Sanam Maroufkhani
+      accessed: '2026-10-19'
+    - source: sanammaroufkhani.bandcamp.com-track-havapeyma-ha-airplanes-b97b881e6114
+      quote: |-
+        Singer : Sanam Maroufkhani
+        Songwriter : Sanam Maroufkhani
+        Music Producer : Mohammad Shariat
+        Cover Artist : Reyhaneh Alesheykh
+      accessed: '2026-10-21'
+    qualifiers:
+      role:
+      - vocals
+  contributor:
+  - value: Qa84h2k
+    references: *id001
+    qualifiers:
+      role:
+      - composer
+  - value: Qpm473r
+    references:
+    - source: sanammaroufkhani.bandcamp.com-track-havapeyma-ha-airplanes-b97b881e6114
+      quote: 'Music Producer : Mohammad Shariat'
+      accessed: '2026-10-21'
+    qualifiers:
+      role:
+      - producer
+  listen link:
+  - value: https://sanammaroufkhani.bandcamp.com/track/havapeyma-ha-airplanes
+    references:
+    - source: sanammaroufkhani.bandcamp.com-track-havapeyma-ha-airplanes-b97b881e6114
+      quote: Havapeyma ha (Airplanes) | Sanam Maroufkhani
+      accessed: '2026-10-19'
+  - value: https://soundcloud.com/sanam-maroufkhani/havapeyma-ha
+    references:
+    - source: soundcloud.com-sanam-maroufkhani-havapeyma-ha-ac909d32e55a
+      quote: Havapeyma ha
+      accessed: '2026-10-21'
+  - value: https://music.apple.com/us/album/airplanes-single/1583459531
+    references:
+    - source: music.apple.com-us-album-airplanes-single-1583459531-42445d9bb7fe
+      quote: 'Listen to Airplanes - Single by Sanam Maroufkhani on Apple Music. 2021. 1 Song. Duration: 4 minutes.'
+      accessed: '2026-10-21'
+  - value: https://music.apple.com/us/album/airplanes-single/1870096122
+    references:
+    - source: music.apple.com-us-album-airplanes-single-1870096122-87fc36812b26
+      quote: 'Listen to Airplanes - Single by Sanam Maroufkhani on Apple Music. 2021. 1 Song. Duration: 4 minutes.'
+      accessed: '2026-10-21'
+  - value: https://open.spotify.com/track/5hVIKjOv3rUorbGPMA6J1H
+    references:
+    - source: open.spotify.com-embed-track-5hvikjov3ruorbgpma6j1h-e57650ccbca6
+      quote: Airplanes
+      accessed: '2026-10-21'
+  - value: https://www.youtube.com/watch?v=kRsX-uBYqzA
+    references:
+    - source: www.youtube.com-watch-v-krsx-ubyqza-b98bb48d0926
+      quote: Airplanes · Sanam Maroufkhani
+      accessed: '2026-11-03'
+  cover art:
+  - value: https://f4.bcbits.com/img/a3751681281_5.jpg
+    qualifiers:
+      credit:
+        text: Reyhaneh Alesheykh
+        language: en
+    references:
+    - source: sanammaroufkhani.bandcamp.com-track-havapeyma-ha-airplanes-b97b881e6114
+      quote: |-
+        released May 17, 2022
+        Singer : Sanam Maroufkhani
+        Songwriter : Sanam Maroufkhani
+        Music Producer : Mohammad Shariat
+        Cover Artist : Reyhaneh Alesheykh
+      accessed: '2026-10-19'
