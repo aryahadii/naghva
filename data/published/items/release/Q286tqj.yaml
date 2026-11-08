@@ -9,10 +9,10 @@ statements:
     - source: music.apple.com-us-album-safheye-bad-single-6807342720-12f85aba993c
       quote: Safheye Ba'd - Single - Album by Golsa & Taha Mazaheri - Apple Music
       accessed: '2026-10-20'
-  # Editorial Persian display spelling; source uses the original name.
   - value:
       text: صفحهٔ بعد
       language: fa
+    editorial: true
     references:
     - source: music.apple.com-us-album-safheye-bad-single-6807342720-12f85aba993c
       quote: Safheye Ba'd - Single - Album by Golsa & Taha Mazaheri - Apple Music

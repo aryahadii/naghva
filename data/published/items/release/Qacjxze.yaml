@@ -9,10 +9,10 @@ statements:
     - source: music.apple.com-us-album-man-ya-un-single-1734619588-8a5dd991b4ed
       quote: 'Listen to Man Ya Un - Single by Golsa on Apple Music. 2024. 1 Song. Duration: 6 minutes.'
       accessed: '2026-10-19'
-  # Editorial Persian display spelling; source uses the original name.
   - value:
       text: من یا اون
       language: fa
+    editorial: true
     references:
     - source: music.apple.com-us-album-man-ya-un-single-1734619588-8a5dd991b4ed
       quote: 'Listen to Man Ya Un - Single by Golsa on Apple Music. 2024. 1 Song. Duration: 6 minutes.'

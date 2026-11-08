@@ -10,12 +10,6 @@ statements:
       source: sabaalizadeh.bandcamp.com-album-temple-of-hope-29c73288d75e
       quote: Temple Of Hope
       accessed: '2026-11-06'
-  # Editorial Persian display spelling; source uses the original name.
-  - value:
-      text: معبد امید
-      language: fa
-    references:
-    - *id001
   performer:
   - value: Qgbbc6t
     references:

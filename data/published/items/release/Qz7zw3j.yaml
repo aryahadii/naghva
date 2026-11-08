@@ -9,10 +9,10 @@ statements:
     - source: music.apple.com-us-album-koja-feat-taha-mazaheri-single-1689859943-b695092c4034
       quote: Koja (feat. Taha Mazaheri) - Single - Album by Golsa - Apple Music
       accessed: '2026-10-20'
-  # Editorial Persian display spelling; source uses the original name.
   - value:
       text: کجا
       language: fa
+    editorial: true
     references:
     - source: music.apple.com-us-album-koja-feat-taha-mazaheri-single-1689859943-b695092c4034
       quote: Koja (feat. Taha Mazaheri) - Single - Album by Golsa - Apple Music

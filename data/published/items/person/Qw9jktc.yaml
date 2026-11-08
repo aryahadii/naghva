@@ -9,10 +9,10 @@ statements:
     - source: www.youtube.com-watch-v-bghq5pirivk-72e0d7ffc9b2
       quote: Sanam Maroufkhani Featuring Emma - The Poem From This Port
       accessed: '2026-10-21'
-  # Editorial Persian display spelling; the cited source uses the Latin name.
   - value:
       text: اِما
       language: fa
+    editorial: true
     references:
     - source: www.youtube.com-watch-v-bghq5pirivk-72e0d7ffc9b2
       quote: Sanam Maroufkhani Featuring Emma - The Poem From This Port

@@ -9,10 +9,10 @@ statements:
     - source: music.apple.com-us-album-tak-o-tanha-single-6793050159-4af1b27aa6ac
       quote: Tak o Tanha - Single - Album by Golsa & Taha Mazaheri - Apple Music
       accessed: '2026-10-20'
-  # Editorial Persian display spelling; source uses the original name.
   - value:
       text: تک و تنها
       language: fa
+    editorial: true
     references:
     - source: music.apple.com-us-album-tak-o-tanha-single-6793050159-4af1b27aa6ac
       quote: Tak o Tanha - Single - Album by Golsa & Taha Mazaheri - Apple Music

@@ -9,10 +9,10 @@ statements:
     - source: music.apple.com-us-album-refigh-feat-taha-mazaheri-single-1766459185-4ee6a9d6e3cb
       quote: Refigh (feat. Taha Mazaheri) - Single - Album by Golsa - Apple Music
       accessed: '2026-10-20'
-  # Editorial Persian display spelling; source uses the original name.
   - value:
       text: رفیق
       language: fa
+    editorial: true
     references:
     - source: music.apple.com-us-album-refigh-feat-taha-mazaheri-single-1766459185-4ee6a9d6e3cb
       quote: Refigh (feat. Taha Mazaheri) - Single - Album by Golsa - Apple Music

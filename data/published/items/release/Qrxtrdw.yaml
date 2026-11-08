@@ -9,10 +9,10 @@ statements:
     - source: music.apple.com-us-album-ayandeh-feat-taha-mazaheri-single-1697906184-704ec74a4ac4
       quote: 'Listen to Ayandeh (feat. Taha Mazaheri) - Single by Golsa on Apple Music. 2023. 1 Song. Duration: 3 minutes.'
       accessed: '2026-10-19'
-  # Editorial Persian display spelling; source uses the original name.
   - value:
       text: آینده
       language: fa
+    editorial: true
     references:
     - source: music.apple.com-us-album-ayandeh-feat-taha-mazaheri-single-1697906184-704ec74a4ac4
       quote: 'Listen to Ayandeh (feat. Taha Mazaheri) - Single by Golsa on Apple Music. 2023. 1 Song. Duration: 3 minutes.'

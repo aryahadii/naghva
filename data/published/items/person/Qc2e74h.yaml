@@ -10,10 +10,10 @@ statements:
       quote: |-
         Keys: aria mousavi
       accessed: '2026-10-21'
-  # Editorial Persian display spelling; the cited source uses the Latin name.
   - value:
       text: آریا موسوی
       language: fa
+    editorial: true
     references:
     - source: soundcloud.com-golsarz-sargashteh-c3c639b5f034
       quote: |-

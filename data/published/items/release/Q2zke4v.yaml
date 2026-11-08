@@ -9,10 +9,10 @@ statements:
     - source: soundcloud.com-sanam-maroufkhani-airplanes-691ad30e51d5
       quote: Sanam ft. Makan Ashgvari - Airplanes
       accessed: '2026-10-21'
-  # Editorial Persian display spelling; source uses the original name.
   - value:
       text: هواپیماها (با ماکان اشگواری)
       language: fa
+    editorial: true
     references:
     - source: soundcloud.com-sanam-maroufkhani-airplanes-691ad30e51d5
       quote: Sanam ft. Makan Ashgvari - Airplanes

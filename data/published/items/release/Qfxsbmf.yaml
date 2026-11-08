@@ -9,10 +9,10 @@ statements:
     - source: music.apple.com-us-album-shabhaye-tehran-single-1755982894
       quote: Shabhaye Tehran - Single
       accessed: '2026-11-03'
-  # Editorial Persian display spelling; source catalogue title uses Latin script.
   - value:
       text: شب‌های تهران
       language: fa
+    editorial: true
     references:
     - source: music.apple.com-us-album-shabhaye-tehran-single-1755982894
       quote: Shabhaye Tehran - Single

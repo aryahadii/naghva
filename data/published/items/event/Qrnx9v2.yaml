@@ -13,6 +13,7 @@ statements:
   - value:
       text: نشست پارادیزو ۲۰۲۵
       language: fa
+    editorial: true
     references: *name
   event date:
   - value:

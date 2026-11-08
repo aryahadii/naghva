@@ -10,10 +10,10 @@ statements:
       quote: |-
         Produced by: Pozx
       accessed: '2026-10-21'
-  # Editorial Persian display spelling; the cited source uses the Latin name.
   - value:
       text: پوزکس
       language: fa
+    editorial: true
     references:
     - source: soundcloud.com-golsarz-sayeh-feat-pozx-7327f03b8bfa
       quote: |-

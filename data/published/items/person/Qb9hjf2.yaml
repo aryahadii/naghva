@@ -10,10 +10,10 @@ statements:
       quote: |-
         Arrangement for strings : Amir Nazar
       accessed: '2026-10-20'
-  # Editorial Persian display spelling; the cited source uses the Latin name.
   - value:
       text: امیر نظر
       language: fa
+    editorial: true
     references:
     - source: soundcloud.com-arian-shariat-baghale-man-ft-taha-mazaheri-c245f5dde144
       quote: |-

@@ -10,10 +10,10 @@ statements:
       quote: |-
         Listen to Khoone - Single by Golsa on Apple Music. 2022. 1 Song. Duration: 4 minutes.
       accessed: '2026-10-21'
-  # Editorial Persian display spelling; the cited source uses the Latin name.
   - value:
       text: خونه
       language: fa
+    editorial: true
     references:
     - source: music.apple.com-us-album-khoone-single-1604607742-d633994b8295
       quote: |-

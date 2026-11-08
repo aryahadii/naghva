@@ -10,10 +10,10 @@ statements:
       quote: |-
         Listen to Bahar Delkash (feat. Golsa) - Single by Behzad Danesh on Apple Music. 2020. 1 Song. Duration: 3 minutes.
       accessed: '2026-10-21'
-  # Editorial Persian display spelling; the cited source uses the Latin name.
   - value:
       text: بهار دلکش
       language: fa
+    editorial: true
     references:
     - source: music.apple.com-us-album-bahar-delkash-feat-golsa-single-1518035327-0fcd473ab166
       quote: |-

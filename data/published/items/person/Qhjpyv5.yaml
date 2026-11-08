@@ -9,10 +9,10 @@ statements:
     - source: soundcloud.com-peymansalimi-sammamish-8d0346856ae5
       quote: 'Cello: Kaveh Faraji'
       accessed: '2026-10-21'
-  # Editorial Persian display spelling; the cited source uses the Latin name.
   - value:
       text: کاوه فرجی
       language: fa
+    editorial: true
     references:
     - source: soundcloud.com-peymansalimi-sammamish-8d0346856ae5
       quote: 'Cello: Kaveh Faraji'

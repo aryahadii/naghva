@@ -136,7 +136,11 @@
           "minItems": 1,
           "items": { "$ref": "#/$defs/reference" }
         },
-        "rank": { "enum": ["preferred", "normal", "deprecated"] }
+        "rank": { "enum": ["preferred", "normal", "deprecated"] },
+        "editorial": {
+          "description": "a Persian display spelling with no attested Persian form; its references support the original name (names only)",
+          "const": true
+        }
       }
     }
   }

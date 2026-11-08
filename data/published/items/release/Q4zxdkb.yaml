@@ -10,10 +10,10 @@ statements:
       quote: |-
         Listen to Por Kon (feat. Golsa) [Kooche Afshar Version] - Single by Behzad Danesh on Apple Music. 2022. 1 Song. Duration: 2 minutes.
       accessed: '2026-10-21'
-  # Editorial Persian display spelling; the cited source uses the Latin name.
   - value:
       text: پر کن (نسخهٔ کوچه افشار)
       language: fa
+    editorial: true
     references:
     - source: music.apple.com-us-album-por-kon-feat-golsa-kooche-afshar-version-single-1631021584-724271109248
       quote: |-

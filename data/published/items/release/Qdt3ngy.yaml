@@ -10,10 +10,10 @@ statements:
       quote: |-
         Listen to Hafez - Single by Golsa on Apple Music. 2023. 1 Song. Duration: 5 minutes.
       accessed: '2026-10-21'
-  # Editorial Persian display spelling; the cited source uses the Latin name.
   - value:
       text: حافظ
       language: fa
+    editorial: true
     references:
     - source: music.apple.com-us-album-hafez-single-1693091869-8e7bafc4ef3a
       quote: |-

@@ -16,10 +16,10 @@ statements:
     - source: soundcloud.com-arian-shariat-baghale-man-ft-taha-mazaheri-c245f5dde144
       quote: Baghale Man (ft Taha Mazaheri)
       accessed: '2026-10-20'
-  # Editorial Persian display spelling; source uses the original name.
   - value:
       text: بغل من
       language: fa
+    editorial: true
     references:
     - source: music.apple.com-us-album-baghale-man-single-6820913170-bcb65d002ad6
       quote: Baghale Man - Single - Album by Rian & Taha Mazaheri - Apple Music
