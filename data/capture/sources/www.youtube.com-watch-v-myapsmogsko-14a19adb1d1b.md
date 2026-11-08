@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=MyAPSMOgsko
+archive: "https://web.archive.org/web/20250311211916/https://www.youtube.com/watch?v=MyAPSMOgsko"
 title: گپ‌وگفت کادانس با گلسا | قسمت ششم
 status: processed
 kind: web page

@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/karimsheri/tamasha-vocal-golsa-rahim
+archive: "https://web.archive.org/web/20221202180128/https://soundcloud.com/karimsheri/tamasha-vocal-golsa-rahim"
 title: Tamasha - Vocal Golsa Rahim-Zamani / piano Karim Sheri
 status: processed
 kind: web page

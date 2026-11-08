@@ -1,5 +1,6 @@
 ---
 url: https://seelectronics.com/artists/moody-moussavi/
+archive: "https://web.archive.org/web/20260614231621/https://seelectronics.com/artists/moody-moussavi/"
 title: https://seelectronics.com/artists/moody-moussavi/
 status: processed
 tier: other

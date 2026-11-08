@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/artist/peyman-salimi/306874085
+archive: "https://web.archive.org/web/20261026001631/https://music.apple.com/us/artist/peyman-salimi/306874085"
 title: Peyman Salimi | Apple Music
 status: processed
 kind: web page

@@ -1,5 +1,6 @@
 ---
 url: https://behzaddanesh.bandcamp.com/track/por-kon
+archive: "https://web.archive.org/web/20231023225043/https://behzaddanesh.bandcamp.com/track/por-kon"
 title: Por Kon - Behzad Danesh feat. Golsa
 status: processed
 kind: web page

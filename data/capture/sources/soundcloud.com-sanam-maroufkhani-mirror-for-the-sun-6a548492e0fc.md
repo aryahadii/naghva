@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/sanam-maroufkhani/mirror-for-the-sun
+archive: "https://web.archive.org/web/20260325194505/https://soundcloud.com/sanam-maroufkhani/mirror-for-the-sun"
 title: Mirror for the Sun
 status: processed
 language: en

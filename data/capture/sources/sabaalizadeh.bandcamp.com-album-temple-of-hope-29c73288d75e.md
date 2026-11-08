@@ -1,5 +1,6 @@
 ---
 url: https://sabaalizadeh.bandcamp.com/album/temple-of-hope
+archive: "https://web.archive.org/web/20261017001132/https://sabaalizadeh.bandcamp.com/album/temple-of-hope"
 title: Temple Of Hope
 status: processed
 language: en

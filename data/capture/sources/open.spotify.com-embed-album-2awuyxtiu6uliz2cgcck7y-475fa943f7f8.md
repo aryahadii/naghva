@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/embed/album/2AwUYXtiU6uLIZ2cgCck7Y
+archive: "https://web.archive.org/web/20251002203526/https://open.spotify.com/embed/album/2AwUYXtiU6uLIZ2cgCck7Y"
 title: Temple of Hope
 status: processed
 kind: web page

@@ -1,5 +1,6 @@
 ---
 url: https://www.sixdegreesrecords.com/niyaz-sumud-acoustic-ep/
+archive: "https://web.archive.org/web/20260614162903/https://www.sixdegreesrecords.com/niyaz-sumud-acoustic-ep/"
 title: Niyaz Sumud Acoustic EP  — Six Degrees Records
 status: processed
 tier: own

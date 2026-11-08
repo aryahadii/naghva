@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/golsarz/hafez
+archive: "https://web.archive.org/web/20240704194931/https://soundcloud.com/golsarz/hafez"
 title: Hafez by Golsa | SoundCloud
 status: processed
 kind: web page

@@ -1,5 +1,6 @@
 ---
 url: https://refugeworldwide.com/artists/golsa
+archive: "https://web.archive.org/web/20251005224000/https://refugeworldwide.com/artists/golsa"
 title: Golsa | Refuge Worldwide
 status: processed
 kind: web page

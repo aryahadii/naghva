@@ -1,5 +1,6 @@
 ---
 url: https://www.radiozamaneh.com/816521/
+archive: "https://web.archive.org/web/20250628075836/https://www.radiozamaneh.com/816521/"
 title: 'سرشار از خیال: ترانه «شعری از این بندر»ِ صنم معروف‌خانی'
 status: processed
 kind: web page

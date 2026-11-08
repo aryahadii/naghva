@@ -1,5 +1,6 @@
 ---
 url: https://beehy.pe/golsa-por-kon-iran/
+archive: "https://web.archive.org/web/20260609180756/https://beehy.pe/golsa-por-kon-iran/"
 title: 'Iran: Golsa - Por Kon'
 status: processed
 language: en

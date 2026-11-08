@@ -1,5 +1,6 @@
 ---
 url: https://www.conservatoriumvanamsterdam.nl/en/study/pop-music/maydays/
+archive: "https://web.archive.org/web/20260314135349/https://www.conservatoriumvanamsterdam.nl/en/study/pop-music/maydays/"
 title: Maydays | Conservatorium van Amsterdam
 status: processed
 kind: web page

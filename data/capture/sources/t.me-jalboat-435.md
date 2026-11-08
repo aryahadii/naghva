@@ -1,5 +1,6 @@
 ---
 url: https://t.me/jalboat/435
+archive: "https://web.archive.org/web/20221111190743/https://t.me/jalboat/435"
 title: انتشار نخستین آلبوم جالبوت
 status: processed
 kind: web page

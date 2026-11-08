@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/golsarz/feat-midnight-drips
+archive: "https://web.archive.org/web/20250611073314/https://soundcloud.com/golsarz/feat-midnight-drips"
 title: زیبای من (feat. Midnight drips)⁩ by Golsa | SoundCloud
 status: processed
 kind: web page

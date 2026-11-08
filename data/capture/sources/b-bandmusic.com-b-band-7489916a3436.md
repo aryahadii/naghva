@@ -1,5 +1,6 @@
 ---
 url: https://b-bandmusic.com/b-band
+archive: "https://web.archive.org/web/20260914025611/https://b-bandmusic.com/b-band"
 title: B-band|بی‌بند - B-band | گروه
 status: processed
 language: en

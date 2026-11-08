@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/hafez-single/1693091869
+archive: "https://web.archive.org/web/20251228044620/https://music.apple.com/us/album/hafez-single/1693091869"
 title: ‎Hafez - Single - Album by Golsa - Apple Music
 status: processed
 kind: web page

@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/track/0t3VRD6heUeZF0FsC0Ckj7
+archive: "https://web.archive.org/web/20220610125158/https://open.spotify.com/track/0t3VRD6heUeZF0FsC0Ckj7"
 title: Smoky Bird — Spotify
 status: processed
 language: en

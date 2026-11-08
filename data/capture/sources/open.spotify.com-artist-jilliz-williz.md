@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/artist/1uC4omxVbAG22y2o0ACG5l
+archive: "https://web.archive.org/web/20261012034124/https://open.spotify.com/artist/1uC4omxVbAG22y2o0ACG5l"
 title: "Jilliz Williz"
 status: processed
 ---

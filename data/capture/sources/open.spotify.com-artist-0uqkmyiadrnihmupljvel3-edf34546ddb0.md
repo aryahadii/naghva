@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/artist/0UQKmYIADrnihMUpljvEl3
+archive: "https://web.archive.org/web/20250807063705/https://open.spotify.com/artist/0UQKmYIADrnihMUpljvEl3"
 title: 'Jetpack: interview-linked Spotify profile'
 status: processed
 kind: artist catalog

@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/nokoob/1202963957
+archive: "https://web.archive.org/web/20241214114602/https://music.apple.com/us/album/nokoob/1202963957"
 title: Nokoob - Album by Darkoob Band - Apple Music
 status: processed
 kind: web page

@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/temple-of-hope/1784370975
+archive: "https://web.archive.org/web/20250126025557/https://music.apple.com/us/album/temple-of-hope/1784370975"
 title: Temple of Hope - Album by Saba Alizadeh - Apple Music
 status: processed
 language: en

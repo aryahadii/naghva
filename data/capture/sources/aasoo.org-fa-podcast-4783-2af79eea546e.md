@@ -1,5 +1,6 @@
 ---
 url: https://aasoo.org/fa/podcast/4783
+archive: "https://web.archive.org/web/20260711200741/https://aasoo.org/fa/podcast/4783"
 title: چهل خواننده‌ی زن ایرانی زیر چهل سال؛ بخش چهارم
 status: processed
 kind: web page
