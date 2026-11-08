@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=FPUcWvNEkGQ
+archive: "https://web.archive.org/web/20250528151651/https://www.youtube.com/watch?v=FPUcWvNEkGQ&pp=ygULc2FuYW0gaGFyaWs%3D"
 title: "Sanam - Vaghty Rafty az khooneh (Let Her Sing® 2023)"
 status: processed
 kind: youtube video

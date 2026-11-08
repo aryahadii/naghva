@@ -1,5 +1,6 @@
 ---
 url: https://www.guerzenich-orchester.de/de/event-detail/female-voices-of-resilience
+archive: "https://web.archive.org/web/20260728034725/https://www.guerzenich-orchester.de/de/event-detail/female-voices-of-resilience"
 title: Female Voices of Resilience
 status: processed
 language: de

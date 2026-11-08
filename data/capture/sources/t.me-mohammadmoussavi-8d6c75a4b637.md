@@ -1,5 +1,6 @@
 ---
 url: https://t.me/mohammadmoussavi
+archive: "https://web.archive.org/web/20250710180320/https://t.me/mohammadmoussavi"
 title: Moody Moussavi - Telegram
 status: processed
 kind: telegram channel

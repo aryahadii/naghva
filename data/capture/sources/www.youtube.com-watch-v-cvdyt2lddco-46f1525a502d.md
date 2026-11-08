@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=cvdYT2LDDco
+archive: "https://web.archive.org/web/20251004005507/https://www.youtube.com/watch?v=cvdYT2LDDco"
 title: Ashh Nm & Taha Mazaheri Live At CaveRoom @ashh_nm @tahamazaheri8857
 status: processed
 kind: youtube video

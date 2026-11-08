@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/artist/2j9wcO4qIYZabnlULt7fIu
+archive: "https://web.archive.org/web/20261012134928/https://open.spotify.com/artist/2j9wcO4qIYZabnlULt7fIu"
 title: Peyman Salimi — Spotify artist About
 status: processed
 kind: social media profile

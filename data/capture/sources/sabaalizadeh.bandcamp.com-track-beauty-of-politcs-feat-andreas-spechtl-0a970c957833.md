@@ -1,5 +1,6 @@
 ---
 url: https://sabaalizadeh.bandcamp.com/track/beauty-of-politcs-feat-andreas-spechtl
+archive: "https://web.archive.org/web/20261017001132/https://sabaalizadeh.bandcamp.com/track/beauty-of-politcs-feat-andreas-spechtl"
 title: Beauty of politcs (feat. Andreas Spechtl) | Saba Alizadeh
 status: processed
 kind: web page

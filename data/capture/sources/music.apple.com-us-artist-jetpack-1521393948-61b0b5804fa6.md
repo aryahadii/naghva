@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/artist/jetpack/1521393948
+archive: "https://web.archive.org/web/20250406095728/https://music.apple.com/us/artist/jetpack/1521393948"
 title: Jetpack - Apple Music artist
 status: processed
 kind: web page

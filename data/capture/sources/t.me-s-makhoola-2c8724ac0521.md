@@ -1,5 +1,6 @@
 ---
 url: https://t.me/s/makhoola
+archive: "https://web.archive.org/web/20250519234929/https://t.me/s/Makhoola"
 title: Makhoola - Telegram
 status: processed
 kind: telegram channel

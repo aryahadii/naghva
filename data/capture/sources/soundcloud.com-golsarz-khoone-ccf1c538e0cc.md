@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/golsarz/khoone
+archive: "https://web.archive.org/web/20230827184010/https://soundcloud.com/golsarz/khoone"
 title: Khoone by Golsa | SoundCloud
 status: processed
 kind: web page

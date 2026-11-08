@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/the-rooster/1558680977
+archive: "https://web.archive.org/web/20210319191850/https://music.apple.com/us/album/the-rooster/1558680977"
 title: The Rooster - Album by Makhoola - Apple Music
 status: processed
 kind: web page

@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=Jdt2FNNX1_4
+archive: "https://web.archive.org/web/20260210114102/https://www.youtube.com/watch?v=Jdt2FNNX1_4"
 title: Peyman Salimi - Sammamish (سام و میش) | Official Music Video
 status: processed
 kind: youtube video

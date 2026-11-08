@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/%D8%B2%DB%8C%D8%A8%D8%A7%DB%8C-%D9%85%D9%86-single/1717742830
+archive: "https://web.archive.org/web/20250807064349/https://music.apple.com/us/album/%D8%B2%DB%8C%D8%A8%D8%A7%DB%8C-%D9%85%D9%86-single/1717742830"
 title: زیبای من - Single | Apple Music
 status: processed
 kind: web page

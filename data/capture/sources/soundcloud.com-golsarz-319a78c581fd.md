@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/golsarz
+archive: "https://web.archive.org/web/20250504032126/https://soundcloud.com/golsarz"
 title: Golsa | SoundCloud
 status: processed
 kind: web page

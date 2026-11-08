@@ -1,5 +1,6 @@
 ---
 url: https://centerforiraniandiasporastudies.wordpress.com/2023/09/28/let-her-sing-2023-empowering-womens-voices/
+archive: "https://web.archive.org/web/20250626212306/https://centerforiraniandiasporastudies.wordpress.com/2023/09/28/let-her-sing-2023-empowering-womens-voices/"
 title: "Let Her Sing 2023: Empowering Women’s Voices"
 status: processed
 kind: web page

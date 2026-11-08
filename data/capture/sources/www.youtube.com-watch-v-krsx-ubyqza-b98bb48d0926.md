@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=kRsX-uBYqzA
+archive: "https://web.archive.org/web/20260526104127/https://www.youtube.com/watch?si=ahd9oJwUVHtRkI1B&v=kRsX-uBYqzA"
 title: Airplanes
 status: processed
 kind: web page

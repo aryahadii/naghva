@@ -1,5 +1,6 @@
 ---
 url: https://refugeworldwide.com/artists/taha-mazaheri
+archive: "https://web.archive.org/web/20250906064333/https://refugeworldwide.com/artists/taha-mazaheri"
 title: Taha Mazaheri<!-- --> | Refuge Worldwide
 status: processed
 kind: web page

@@ -1,5 +1,6 @@
 ---
 url: "https://www.sabazavarei.com/_files/ugd/d2e14b_15add16f9f484eea95045a1369641fa8.pdf"
+archive: "https://web.archive.org/web/20250806005732/https://www.sabazavarei.com/_files/ugd/d2e14b_15add16f9f484eea95045a1369641fa8.pdf"
 title: "روایت‌های خیابان | صبا زواره‌ای | Radio Khiaban"
 status: "processed"
 kind: "book"

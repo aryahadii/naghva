@@ -1,5 +1,6 @@
 ---
 url: https://30m-records.com/saba-alizadeh-temple-of-hope/
+archive: "https://web.archive.org/web/20260609051047/https://30m-records.com/saba-alizadeh-temple-of-hope/"
 title: Saba Alizadeh – Temple Of Hope – 30M Records
 status: processed
 language: en

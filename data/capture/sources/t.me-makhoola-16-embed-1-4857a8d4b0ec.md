@@ -1,5 +1,6 @@
 ---
 url: https://t.me/Makhoola/16?embed=1
+archive: "https://web.archive.org/web/20220519153002/https://t.me/Makhoola/16?embed=1"
 title: Telegram Widget
 status: processed
 kind: web page
