@@ -1,0 +1,53 @@
+id: Qz3ewyp
+type: event
+statements:
+  name:
+  - value:
+      text: Golsa Rahimzamani Live
+      language: en
+    references:
+    - source: www.berghain.berlin-de-events-81005-9b648b325eba
+      quote: |-
+        Golsa Rahimzamani Live
+      accessed: '2026-10-21'
+  # Editorial Persian display spelling; the cited source uses the Latin name.
+  - value:
+      text: اجرای اعلام‌شدهٔ گلسا در کانتینهٔ برگهاین، برلین
+      language: fa
+    references:
+    - source: www.berghain.berlin-de-events-81005-9b648b325eba
+      quote: |-
+        Golsa Rahimzamani Live
+      accessed: '2026-10-21'
+    - source: www.berghain.berlin-de-events-81005-9b648b325eba
+      quote: |-
+        Kantine am Berghain
+      accessed: '2026-10-21'
+  - value:
+      text: Golsa Rahimzamani Live — Kantine am Berghain, Berlin
+      language: en
+    references:
+    - source: www.berghain.berlin-de-events-81005-9b648b325eba
+      quote: |-
+        Golsa Rahimzamani Live
+      accessed: '2026-10-21'
+    - source: www.berghain.berlin-de-events-81005-9b648b325eba
+      quote: |-
+        Kantine am Berghain
+      accessed: '2026-10-21'
+    rank: preferred
+  event date:
+  - value:
+      date: '2025-12-18'
+    references:
+    - source: www.berghain.berlin-de-events-81005-9b648b325eba
+      quote: |-
+        Donnerstag 18.12.2025 beginn 20:00
+      accessed: '2026-10-21'
+  performer:
+  - value: Qh745pn
+    references:
+    - source: www.berghain.berlin-de-events-81005-9b648b325eba
+      quote: |-
+        Golsa Rahimzamani Live
+      accessed: '2026-10-21'

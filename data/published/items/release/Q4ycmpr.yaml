@@ -1,0 +1,125 @@
+id: Q4ycmpr
+type: release
+statements:
+  name:
+  - value:
+      text: When You Left Home
+      language: en
+    references:
+    - source: sanammaroufkhani.bandcamp.com-track-when-you-left-home-07da51f59e2e
+      quote: When You Left Home | Sanam Maroufkhani
+      accessed: '2026-10-19'
+  - value:
+      text: وقتی تو رفتی از خونه
+      language: fa
+    references:
+    - source: soundcloud.com-sanam-maroufkhani-msqphkhxfu5s-10e9dfa44a46
+      quote: وقتی تو رفتی از خونه
+      accessed: '2026-10-21'
+  release date:
+  - value:
+      date: '2023-06-02'
+    references:
+    - source: sanammaroufkhani.bandcamp.com-track-when-you-left-home-07da51f59e2e
+      quote: |-
+        released June 2, 2023
+        Singer-songwriter: Sanam Maroufkhani
+        Music Production & Arrangement : Sanam Maroufkhani
+        Mixing & Mastering: Peyman Salimi
+      accessed: '2026-10-19'
+    - source: music.apple.com-us-album-d9-88-d9-82-d8-aa-db-8c--d8-aa-d9-88--d8-b1-d9-81-d8-aa-db-8c--d8-a7-d8-b2--d8-ae-d9-4de3137f7a1c
+      quote: '"datePublished":"2023-06-02"'
+      accessed: '2026-10-21'
+      locator: Catalogue release date
+    - source: music.apple.com-us-album-d9-88-d9-82-d8-aa-db-8c--d8-aa-d9-88--d8-b1-d9-81-d8-aa-db-8c--d8-a7-d8-b2--d8-ae-d9-be5f1afe2d2a
+      quote: '"datePublished":"2023-06-02"'
+      accessed: '2026-10-21'
+      locator: Catalogue release date
+    - source: open.spotify.com-embed-track-3gtpydo4vcqednhwbqxvm8-860930258122
+      quote: '2023-06-02T00:00:00Z'
+      accessed: '2026-10-21'
+      locator: Catalogue release date
+  performer:
+  - value: Qa84h2k
+    references: &id001
+    - source: sanammaroufkhani.bandcamp.com-track-when-you-left-home-07da51f59e2e
+      quote: When You Left Home | Sanam Maroufkhani
+      accessed: '2026-10-19'
+    - source: soundcloud.com-sanam-maroufkhani-msqphkhxfu5s-10e9dfa44a46
+      quote: |-
+        Credits:
+        .Singer-Songwriter / Lyrics : Sanam
+        .Music production : Sanam
+        .Electric Guitar : Peyman Salimi
+        .Mix & Mastering : Peyman Salimi
+        .Painting : Maryam Rastghalam
+        .Cover Art : Morvarid Mirarab
+        .English Translation : Soheil Hamideh
+      accessed: '2026-10-21'
+    - source: sanammaroufkhani.bandcamp.com-track-when-you-left-home-07da51f59e2e
+      quote: 'Music Production & Arrangement : Sanam Maroufkhani'
+      accessed: '2026-10-21'
+    qualifiers:
+      role:
+      - vocals
+  - value: Qdp6w3z
+    references:
+    - source: soundcloud.com-sanam-maroufkhani-msqphkhxfu5s-10e9dfa44a46
+      quote: '.Electric Guitar : Peyman Salimi'
+      accessed: '2026-10-21'
+    qualifiers:
+      role:
+      - guitar
+  contributor:
+  - value: Qa84h2k
+    references: *id001
+    qualifiers:
+      role:
+      - composer
+      - lyricist
+      - producer
+      - arranger
+  listen link:
+  - value: https://sanammaroufkhani.bandcamp.com/track/when-you-left-home
+    references:
+    - source: sanammaroufkhani.bandcamp.com-track-when-you-left-home-07da51f59e2e
+      quote: When You Left Home | Sanam Maroufkhani
+      accessed: '2026-10-19'
+  - value: https://soundcloud.com/sanam-maroufkhani/msqphkhxfu5s
+    references:
+    - source: soundcloud.com-sanam-maroufkhani-msqphkhxfu5s-10e9dfa44a46
+      quote: وقتی تو رفتی از خونه
+      accessed: '2026-10-21'
+  - value: https://music.apple.com/us/album/%D9%88%D9%82%D8%AA%DB%8C-%D8%AA%D9%88-%D8%B1%D9%81%D8%AA%DB%8C-%D8%A7%D8%B2-%D8%AE%D9%88%D9%86%D9%87-single/1870078882
+    references:
+    - source: music.apple.com-us-album-d9-88-d9-82-d8-aa-db-8c--d8-aa-d9-88--d8-b1-d9-81-d8-aa-db-8c--d8-a7-d8-b2--d8-ae-d9-4de3137f7a1c
+      quote: 'Listen to وقتی تو رفتی از خونه - Single by Sanam Maroufkhani on Apple Music. 2023. 1 Song. Duration: 3 minutes.'
+      accessed: '2026-10-21'
+  - value: https://music.apple.com/us/album/%D9%88%D9%82%D8%AA%DB%8C-%D8%AA%D9%88-%D8%B1%D9%81%D8%AA%DB%8C-%D8%A7%D8%B2-%D8%AE%D9%88%D9%86%D9%87-single/1689979894
+    references:
+    - source: music.apple.com-us-album-d9-88-d9-82-d8-aa-db-8c--d8-aa-d9-88--d8-b1-d9-81-d8-aa-db-8c--d8-a7-d8-b2--d8-ae-d9-be5f1afe2d2a
+      quote: 'Listen to وقتی تو رفتی از خونه - Single by Sanam Maroufkhani on Apple Music. 2023. 1 Song. Duration: 3 minutes.'
+      accessed: '2026-10-21'
+  - value: https://open.spotify.com/track/3GtPYDo4VCQEDNhwbQxvM8
+    references:
+    - source: open.spotify.com-embed-track-3gtpydo4vcqednhwbqxvm8-860930258122
+      quote: وقتی تو رفتی از خونه
+      accessed: '2026-10-21'
+  - value: https://www.youtube.com/watch?v=eP1CBt048UE
+    references:
+    - source: www.youtube.com-watch-v-ep1cbt048ue-3c9beca2eba2
+      quote: وقتی تو رفتی از خونه · Sanam Maroufkhani
+      accessed: '2026-11-03'
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-aWCabb6HGBwhp5vp-vR2LDQ-t500x500.jpg
+    references:
+    - source: soundcloud.com-sanam-maroufkhani-msqphkhxfu5s-10e9dfa44a46
+      quote: https://i1.sndcdn.com/artworks-aWCabb6HGBwhp5vp-vR2LDQ-t500x500.jpg
+      accessed: '2026-10-21'
+    - source: soundcloud.com-sanam-maroufkhani-msqphkhxfu5s-10e9dfa44a46
+      quote: "Credits:\n.Singer-Songwriter / Lyrics : Sanam \n.Music production : Sanam \n.Electric Guitar : Peyman Salimi\n.Mix & Mastering : Peyman Salimi\n.Painting : Maryam Rastghalam\n.Cover Art : Morvarid Mirarab\n.English Translation : Soheil Hamideh"
+      accessed: '2026-10-21'
+    qualifiers:
+      credit:
+        text: Maryam Rastghalam (painting); Morvarid Mirarab (cover art)
+        language: en

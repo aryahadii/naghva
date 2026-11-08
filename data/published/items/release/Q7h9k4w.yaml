@@ -1,0 +1,126 @@
+id: Q7h9k4w
+type: release
+statements:
+  name:
+  - value:
+      text: A Poem from This port
+      language: en
+    references:
+    - source: sanammaroufkhani.bandcamp.com-track-a-poem-from-this-port-d7edc5cb7bdb
+      quote: A Poem from This port | Sanam Maroufkhani
+      accessed: '2026-10-19'
+  # Editorial Persian display spelling; the cited source uses the Latin name.
+  - value:
+      text: شعری از این بندر
+      language: fa
+    references:
+    - source: soundcloud.com-sanam-maroufkhani-a-poem-from-this-port-06042a8b0f46
+      quote: A Poem from This Port
+      accessed: '2026-10-21'
+  release date:
+  - value:
+      date: '2024-01-04'
+    references:
+    - source: sanammaroufkhani.bandcamp.com-track-a-poem-from-this-port-d7edc5cb7bdb
+      quote: |-
+        released January 4, 2024
+        Singer-songwriter: Sanam Maroufkhani
+        Lyrics: Sanam Maroufkhani
+        Music Production: Marc Sarria
+        Mixing & Mastering: Marc Sarria
+      accessed: '2026-10-19'
+  - value:
+      date: '2024-04-01'
+    references:
+    - source: music.apple.com-us-album-a-poem-from-this-port-single-1870096263-2b92431f7053
+      quote: '"datePublished":"2024-04-01"'
+      accessed: '2026-10-21'
+      locator: Catalogue release date
+    - source: music.apple.com-us-album-a-poem-from-this-port-single-1738409258-e51da9eee451
+      quote: '"datePublished":"2024-04-01"'
+      accessed: '2026-10-21'
+      locator: Catalogue release date
+    - source: open.spotify.com-embed-track-1q8d1mskssrldfjucwdcad-d1fcfe7e079b
+      quote: '2024-04-01T00:00:00Z'
+      accessed: '2026-10-21'
+      locator: Catalogue release date
+  performer:
+  - value: Qa84h2k
+    references: &id001
+    - source: sanammaroufkhani.bandcamp.com-track-a-poem-from-this-port-d7edc5cb7bdb
+      quote: A Poem from This port | Sanam Maroufkhani
+      accessed: '2026-10-19'
+    - source: sanammaroufkhani.bandcamp.com-track-a-poem-from-this-port-d7edc5cb7bdb
+      quote: |-
+        Singer-songwriter: Sanam Maroufkhani
+        Lyrics: Sanam Maroufkhani
+        Music Production: Marc Sarria
+        Mixing & Mastering: Marc Sarria
+      accessed: '2026-10-21'
+    qualifiers:
+      role:
+      - vocals
+  contributor:
+  - value: Qa84h2k
+    references: *id001
+    qualifiers:
+      role:
+      - composer
+      - lyricist
+  - value: Qsq7k2b
+    references:
+    - source: soundcloud.com-sanam-maroufkhani-a-poem-from-this-port-06042a8b0f46
+      quote: Produced, mix & mastered by Marc Sarrìa
+      accessed: '2026-10-21'
+    qualifiers:
+      role:
+      - producer
+  listen link:
+  - value: https://sanammaroufkhani.bandcamp.com/track/a-poem-from-this-port
+    references:
+    - source: sanammaroufkhani.bandcamp.com-track-a-poem-from-this-port-d7edc5cb7bdb
+      quote: A Poem from This port | Sanam Maroufkhani
+      accessed: '2026-10-19'
+  - value: https://soundcloud.com/sanam-maroufkhani/a-poem-from-this-port
+    references:
+    - source: soundcloud.com-sanam-maroufkhani-a-poem-from-this-port-06042a8b0f46
+      quote: A Poem from This Port
+      accessed: '2026-10-21'
+  - value: https://music.apple.com/us/album/a-poem-from-this-port-single/1870096263
+    references:
+    - source: music.apple.com-us-album-a-poem-from-this-port-single-1870096263-2b92431f7053
+      quote: 'Listen to A Poem from This Port - Single by Sanam Maroufkhani on Apple Music. 2024. 1 Song. Duration: 3 minutes.'
+      accessed: '2026-10-21'
+  - value: https://music.apple.com/us/album/a-poem-from-this-port-single/1738409258
+    references:
+    - source: music.apple.com-us-album-a-poem-from-this-port-single-1738409258-e51da9eee451
+      quote: 'Listen to A Poem from This Port - Single by Sanam Maroufkhani on Apple Music. 2024. 1 Song. Duration: 3 minutes.'
+      accessed: '2026-10-21'
+  - value: https://open.spotify.com/track/1Q8D1mSKSsRldFJuCWDcad
+    references:
+    - source: open.spotify.com-embed-track-1q8d1mskssrldfjucwdcad-d1fcfe7e079b
+      quote: A Poem from This Port
+      accessed: '2026-10-21'
+  - value: https://www.youtube.com/watch?v=2t61b3OU-AI
+    references:
+    - source: www.youtube.com-watch-v-2t61b3ou-ai
+      quote: A Poem from This Port · Sanam Maroufkhani
+      accessed: '2026-11-03'
+  - value: https://www.youtube.com/watch?v=xj0USaq2Jb4
+    references:
+    - source: www.youtube.com-watch-v-xj0usaq2jb4
+      quote: A Poem from This Port · Sanam Maroufkhani · Marc Sarrià
+      accessed: '2026-11-03'
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-IpIW7r3enHwRbo18-KgyFWA-t500x500.jpg
+    references:
+    - source: soundcloud.com-sanam-maroufkhani-a-poem-from-this-port-06042a8b0f46
+      quote: https://i1.sndcdn.com/artworks-IpIW7r3enHwRbo18-KgyFWA-t500x500.jpg
+      accessed: '2026-10-21'
+    - source: soundcloud.com-sanam-maroufkhani-a-poem-from-this-port-06042a8b0f46
+      quote: 'Artwork : Terme Ziaei'
+      accessed: '2026-10-21'
+    qualifiers:
+      credit:
+        text: Terme Ziaei
+        language: en

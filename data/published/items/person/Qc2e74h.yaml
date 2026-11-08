@@ -1,0 +1,21 @@
+id: Qc2e74h
+type: person
+statements:
+  name:
+  - value:
+      text: Aria Mousavi
+      language: en
+    references:
+    - source: soundcloud.com-golsarz-sargashteh-c3c639b5f034
+      quote: |-
+        Keys: aria mousavi
+      accessed: '2026-10-21'
+  # Editorial Persian display spelling; the cited source uses the Latin name.
+  - value:
+      text: آریا موسوی
+      language: fa
+    references:
+    - source: soundcloud.com-golsarz-sargashteh-c3c639b5f034
+      quote: |-
+        Keys: aria mousavi
+      accessed: '2026-10-21'
