@@ -1,0 +1,54 @@
+---
+import Cover from './Cover.astro';
+import type { ReleaseView } from '../lib/artist';
+import { textAttrs } from '../lib/html';
+import { strings } from '../lib/i18n';
+import type { Lang } from '../lib/record';
+import { platformKey } from '../lib/platforms';
+
+/**
+ * A release's panel. It is part of the page, so search engines read it; it
+ * has its own address, so it can be shared and Back closes it.
+ */
+interface Props { release: ReleaseView; lang: Lang; historical?: boolean }
+const { release: r, lang, historical = false } = Astro.props;
+const t = strings(lang).release;
+---
+
+<section class="release-panel" id={r.anchor} aria-labelledby={`${r.anchor}-title`} data-historical-panel={historical ? 'true' : undefined}>
+  <div class="panel-bar">
+    <span class="tag">{t.release}</span>
+    <a class="pill" href="#recordings" data-close>{t.close}</a>
+  </div>
+  <div class="release-detail">
+    {r.cover ? (
+      <figure class="release-cover">
+        <Cover title={r.title} lang={lang} art={r.cover.image} sizes="(max-width: 760px) 160px, 320px" />
+        <figcaption class="image-credit" set:html={r.cover.caption} />
+      </figure>
+    ) : (
+      <Cover title={r.title} lang={lang} />
+    )}
+    <div>
+      {r.year && <p class="release-meta">{r.year}</p>}
+      <h3 class="release-title" id={`${r.anchor}-title`} {...textAttrs(r.title, lang)}>{r.title.text}</h3>
+      {r.other && <p class="release-alt" {...textAttrs(r.other, lang)}>{r.other.text}</p>}
+      {r.listen.length > 0 && (
+        <p class="listen-links" aria-label={t.listen}>
+          {r.listen.map((l) => (
+            <span class="listen-destination"><a class="text-link" href={l.href} target="_blank" rel="noopener noreferrer" data-listen-platform={platformKey(l.href)} data-release-id={r.item.id}>{l.label} <span aria-hidden="true">↗</span></a><Fragment set:html={l.citations} /></span>
+          ))}
+        </p>
+      )}
+      <dl class="release-facts">
+        {r.facts.map((f) => (
+          <div>
+            <dt>{f.label}</dt>
+            <dd set:html={f.html} />
+          </div>
+        ))}
+      </dl>
+
+    </div>
+  </div>
+</section>

@@ -1,0 +1,47 @@
+---
+import type { Fact, ImageView } from '../lib/artist';
+import { strings } from '../lib/i18n';
+import type { Lang } from '../lib/record';
+import RemoteImage from './RemoteImage.astro';
+
+/** The artist at a glance: their photo, whole, then each fact the record states, with its citations. */
+interface Props {
+  lang: Lang;
+  facts: Fact[];
+  photo?: (ImageView & { width: number; height: number; alt: string }) | null;
+}
+const { lang, facts, photo } = Astro.props;
+const t = strings(lang);
+---
+
+{(facts.length > 0 || photo) && (
+  <aside class="infobox" aria-label={t.artist.glance}>
+    {photo && (
+      <figure class="infobox-photo">
+        <a class="photo-open" href={photo.image.src} data-photo aria-label={t.image.enlarge}>
+          <RemoteImage
+            picture={photo.image}
+            sizes="(max-width: 1100px) min(420px, 100vw - 96px), 252px"
+            alt={photo.alt}
+            width={photo.width}
+            height={photo.height}
+            style={`max-width: min(420px, ${photo.width}px)`}
+            fetchpriority="high"
+            decoding="async"
+          />
+        </a>
+        <figcaption class="image-credit" set:html={photo.caption} />
+      </figure>
+    )}
+    {facts.length > 0 && (
+      <dl class="infobox-facts">
+        {facts.map((f) => (
+          <div>
+            <dt>{f.label}</dt>
+            <dd set:html={f.html} />
+          </div>
+        ))}
+      </dl>
+    )}
+  </aside>
+)}

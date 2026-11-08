@@ -1,0 +1,25 @@
+/* Rows that scroll sideways, in date order, under a section heading and a short note. Shared by the Artist page and the homepage. */
+.section-head { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 12px 24px; margin-bottom: 14px; padding-bottom: 12px; background: var(--rule) bottom / 100% 1px no-repeat }
+.section-note { margin-bottom: 26px; font-size: 15px; color: var(--ivory-3) }
+.shelf { display: grid; grid-auto-flow: column; grid-auto-columns: 172px; gap: 24px; margin: 0; padding: 0 0 18px; list-style: none; overflow-x: auto; overscroll-behavior-x: contain; scroll-snap-type: x mandatory; scrollbar-width: thin; scrollbar-color: var(--line) transparent }
+.shelf.has-more { -webkit-mask-image: linear-gradient(90deg, #000 calc(100% - 72px), transparent); mask-image: linear-gradient(90deg, #000 calc(100% - 72px), transparent) }
+html[dir=rtl] .shelf.has-more { -webkit-mask-image: linear-gradient(270deg, #000 calc(100% - 72px), transparent); mask-image: linear-gradient(270deg, #000 calc(100% - 72px), transparent) }
+.shelf > li { min-width: 0; scroll-snap-align: start }
+.shelf-controls { display: flex; gap: 8px }
+.shelf-button { display: grid; place-items: center; width: 38px; height: 38px; border-radius: 50%; background: var(--wash); color: var(--ivory); transition: background .2s, opacity .2s }
+.shelf-button:hover:not(:disabled) { background: rgb(247 243 232 / .12) }
+.shelf-button:disabled { opacity: .3; cursor: default }
+.shelf-button svg { width: 16px; height: 16px; fill: none; stroke: currentColor; stroke-width: 1.6; stroke-linecap: round; stroke-linejoin: round }
+html[dir=rtl] .shelf-button svg { transform: scaleX(-1) }
+
+@media (max-width: 760px) {
+  .shelf { grid-auto-columns: 148px; gap: 16px; margin-inline: calc(-1 * var(--gutter)); padding-inline: var(--gutter); scroll-padding-inline: var(--gutter) }
+  .shelf-title { font-size: 1.25rem }
+  .shelf-controls { display: none }
+}
+
+#catalog-expand { margin-bottom: 20px }
+.catalog-tools { display: flex; flex-wrap: wrap; align-items: end; gap: 16px; margin-bottom: 24px }
+.catalog-tools label { display: grid; gap: 6px; max-width: 100%; color: var(--ivory-2); font-size: 14px }
+.catalog-tools input, .catalog-tools select, .browse-form input { max-width: 100%; min-width: 0; padding: 10px 14px; border: 1px solid var(--line); border-radius: 12px; background: var(--night); color: var(--ivory) }
+.shelf.catalog-grid { grid-auto-flow: row; grid-auto-columns: auto; grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); overflow: visible; margin-inline: 0; padding-inline: 0; mask-image: none; -webkit-mask-image: none }

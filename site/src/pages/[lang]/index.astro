@@ -1,0 +1,140 @@
+---
+import { getImage, Image } from 'astro:assets';
+import Page from '../../layouts/Page.astro';
+import ReleaseCard from '../../components/ReleaseCard.astro';
+import ArtistCard from '../../components/ArtistCard.astro';
+import ShelfControls from '../../components/ShelfControls.astro';
+import Search from '../../islands/Search';
+import nightGarden from '../../assets/art/night-garden.png';
+import { dateHtml, isolate, nameHtml } from '../../lib/html';
+import { list, locale, parts, strings } from '../../lib/i18n';
+import { COVER_WIDTHS, imageOf } from '../../lib/images';
+import { siteJsonLd } from '../../lib/jsonld';
+import {
+  artistPages, best, byReleaseDate, href, LANGS, loadRecord, nameOf, recordingArtists, releaseDate, url,
+  type Item, type Lang, type Text,
+} from '../../lib/record';
+import '../../styles/shelf.css';
+import '../../styles/home.css';
+
+/** The homepage: search in the night sky, the garden, latest releases, then artists to explore. */
+export function getStaticPaths() {
+  return LANGS.map((lang) => ({ params: { lang } }));
+}
+
+const LATEST = 12;
+const HINTS = 3;
+const EXPLORE = [
+  'Qh745pn', // Golsa
+  'Qa84h2k', // Sanam Maroufkhani
+];
+const lang = Astro.params.lang as Lang;
+const record = loadRecord();
+const t = strings(lang);
+
+const latest = Object.values(record.items)
+  .filter((i): i is Item => i.type === 'release' && Boolean(releaseDate(i)) && Boolean(href(record, lang, i)))
+  .sort(byReleaseDate)
+  .reverse()
+  .slice(0, LATEST);
+const by = (r: Item) => list(lang, recordingArtists(record, r).map((p) => nameHtml(nameOf(p, lang), lang)));
+
+// Names to try under the search box: the artists, then their members, in the record's order,
+// keeping to names written in the page's own script.
+const pages = artistPages(record);
+const explore = EXPLORE.map((id) => pages.find((artist) => artist.id === id))
+  .filter((artist): artist is Item => Boolean(artist));
+const members = Object.values(record.items).filter(
+  (i) => i.type === 'person' && best(i.statements['member of']).some((s) => pages.some((p) => p.id === s.value)),
+);
+const tries: Text[] = [...pages, ...members]
+  .map((i) => nameOf(i, lang))
+  .filter((n) => n.language.split('-')[0] === lang)
+  .slice(0, HINTS);
+let n = 0;
+const listed = new Intl.ListFormat(locale(lang), { type: 'disjunction' })
+  .formatToParts(tries.map((name) => name.text))
+  .map((p) => (p.type === 'element' ? tries[n++] : p.value));
+const hints = tries.length ? parts(t.hints).flatMap((p) => (typeof p === 'string' ? [p] : listed)) : undefined;
+
+// A phone shows only the heart of the garden (the moon, the houses and the cypresses), so it loads only that part.
+const gardenQuality = 75;
+const heart = await getImage({ src: nightGarden, width: 1060, height: 886, fit: 'cover', widths: [360, 480, 640, 750, 800, 860, 1060], quality: gardenQuality });
+
+// The arrow stays with the last word when the words wrap.
+const onward = t.onwardLink.split(' ');
+const onwardEnd = onward.pop();
+---
+
+<Page lang={lang} title={t.homeTitle} description={t.homeDescription} path="" section="home" jsonld={siteJsonLd(lang, Astro.site!)}>
+  <main class="home" id="content">
+    <section class="home-hero">
+      <div class="home-copy wrap">
+        <h1 class="home-title">{t.homeHeading}</h1>
+        <Search client:load lang={lang} words={{ ...t.search, kinds: t.kinds }} hero hints={hints} />
+      </div>
+      <div class="home-garden" aria-hidden="true">
+        <picture>
+          <source media="(max-width: 760px)" srcset={heart.srcSet.attribute} sizes="100vw" width={heart.attributes.width} height={heart.attributes.height} type="image/webp" />
+          <Image
+            src={nightGarden}
+            widths={[640, 800, 960, 1024, 1280, 1440, 1822]}
+            sizes="min(100vw, 1680px, max(980px, calc((100svh - 360px) * 2.06)))"
+            quality={gardenQuality}
+            alt=""
+            loading="eager"
+            fetchpriority="high"
+          />
+        </picture>
+      </div>
+    </section>
+    {latest.length > 0 && (
+      <section class="latest wrap" aria-labelledby="latest-title">
+        <header class="section-head">
+          <h2 id="latest-title">{t.latest}</h2>
+          <ShelfControls shelf="latest" lang={lang} newestFirst />
+        </header>
+        <p class="section-note">{t.latestNote}</p>
+        <ol class="shelf" id="latest">
+          {latest.map((r) => (
+            <li>
+              <ReleaseCard href={href(record, lang, r)!} lang={lang} title={nameOf(r, lang)} date={dateHtml(releaseDate(r)!, lang)} sub={by(r)} art={imageOf(r, 'cover art', COVER_WIDTHS)} />
+            </li>
+          ))}
+          <li>
+            <a class="onward" href={`${url(lang, 'timeline')}?kind=release`}>
+              <span class="onward-title">{t.onward}</span>
+              <span class="onward-link">{onward.join(' ')} <span class="nowrap">{onwardEnd}<svg viewBox="0 0 16 16" aria-hidden="true"><path d="M2.5 8h11M9 3.5 13.5 8 9 12.5" /></svg></span></span>
+            </a>
+          </li>
+        </ol>
+      </section>
+    )}
+    {explore.length > 0 && (
+      <section class="explore wrap" aria-labelledby="explore-title">
+        <header class="section-head">
+          <h2 id="explore-title">{t.explore}</h2>
+          <a class="text-link" href={url(lang, 'artists')}>{t.browse.allArtists}</a>
+        </header>
+        <ul class="explore-grid" role="list">
+          {explore.map((artist) => (
+            <li><ArtistCard artist={artist} lang={lang} /></li>
+          ))}
+        </ul>
+      </section>
+    )}
+    <section class="home-about wrap" aria-labelledby="about-title">
+      <h2 id="about-title">{t.homeAbout.title}</h2>
+      <p set:html={isolate(t.homeAbout.intro, lang)} />
+      <p>{t.homeAbout.sources}</p>
+      <div class="home-about-links">
+        <a class="text-link" href={url(lang, 'about')}>{t.about}</a>
+        <a class="text-link" href={url(lang, 'artists')}>{t.browse.allArtists}</a>
+        <a class="text-link" href={url(lang, 'timeline')}>{t.timeline}</a>
+      </div>
+    </section>
+  </main>
+  <script>
+    import '../../scripts/shelf';
+  </script>
+</Page>

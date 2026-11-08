@@ -1,0 +1,32 @@
+---
+import frieze from '../assets/art/garden-motifs.webp';
+
+// Reuse the original painted motifs, with matching pairs around one cypress.
+const motifs = {
+  cypress: { x: 0, width: 77 },
+  pomegranate: { x: 100, width: 131 },
+  flowers: { x: 250, width: 138 },
+};
+const sequence = [
+  'cypress', 'pomegranate', 'flowers', 'cypress', 'pomegranate', 'flowers',
+  'cypress',
+  'flowers', 'pomegranate', 'cypress', 'flowers', 'pomegranate', 'cypress',
+] as const;
+---
+
+<svg viewBox="0 0 2080 292" aria-hidden="true" xmlns="http://www.w3.org/2000/svg">
+  {sequence.map((name, index) => {
+    const motif = motifs[name];
+    const x = index * 160 + (160 - motif.width) / 2;
+    return (
+      <svg x={x} width={motif.width} height="292" viewBox={`${motif.x} 0 ${motif.width} 292`}>
+        <image
+          href={frieze.src}
+          width={frieze.width}
+          height={frieze.height}
+          transform={index > 6 ? `translate(${2 * motif.x + motif.width} 0) scale(-1 1)` : undefined}
+        />
+      </svg>
+    );
+  })}
+</svg>
