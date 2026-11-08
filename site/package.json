@@ -6,7 +6,8 @@
     "node": ">=22.22.0"
   },
   "scripts": {
-    "fonts": "node scripts/fetch-fonts.mjs",
+    "fonts": "node --env-file-if-exists=.env scripts/fetch-fonts.mjs",
+    "fonts:upload": "node --env-file-if-exists=.env scripts/fetch-fonts.mjs upload",
     "derive": "python3 ../tools/derive.py",
     "derive:examples": "python3 ../tools/derive.py --root ../data/examples",
     "dev": "npm run fonts && npm run derive && astro dev",
