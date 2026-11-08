@@ -12,9 +12,10 @@ about: [Sanam Maroufkhani]
 ---
 
 Ma'jara, episode 12: an interview with Sanam by the host Mohammad, with
-performances. Uploaded 2020-11-29. Heard 2026-11-08 through an ElevenLabs
-Scribe transcription, checked against Gemini where its parts were ready;
-the transcriptions are kept outside the repository. Short quotations only.
+performances. Uploaded 2020-11-29. Heard 2026-11-08 through two
+speech-to-text runs (ElevenLabs Scribe and Gemini) that agree on the
+substance of each passage below; the wording quoted is Scribe's. The
+transcriptions are kept outside the repository. Short quotations only.
 
 > صنم معروف‌خانی، خواننده، شاعر و نوازنده مهمون این قسمته
 
