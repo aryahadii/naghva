@@ -1,7 +1,8 @@
 # Naghva vision
 
 Naghva exists to preserve and make sense of the history of independent Iranian
-music. What counts as independent and as Iranian is set out in [definitions.md](definitions.md).
+music. What counts as independent and as Iranian is set out in
+[definitions.md](definitions.md).
 
 What it preserves is the record: who made what, with whom, when, how, why, and
 whatever else the sources support. Every fact backed by its source, with links
