@@ -1,0 +1,168 @@
+/* The Artist page reads like an encyclopedia entry: contents at the side, one reading column, an infobox beside the lead. */
+.layout { display: grid; grid-template-columns: 188px minmax(0, 1fr); column-gap: clamp(40px, 5vw, 80px); align-items: start; padding-top: clamp(12px, 2.4vw, 36px) }
+.article { min-width: 0 }
+
+/* The rail beside the article follows the reader: the contents, and under them a garden in the margin, as in an illuminated manuscript. */
+.rail { position: sticky; top: 28px; z-index: 30; display: flex; flex-direction: column; max-height: calc(100vh - 56px) }
+.rail-garden { flex: 0 1 auto; width: 100%; min-height: 0; height: auto; margin-top: 36px; object-fit: cover; object-position: bottom; opacity: .9; -webkit-mask-image: linear-gradient(to bottom, transparent, #000 18%); mask-image: linear-gradient(to bottom, transparent, #000 18%) }
+html[dir=rtl] .rail-garden { transform: scaleX(-1) }
+
+/* Contents: a quiet list. */
+.contents-title { margin-bottom: 12px; font: 600 12px/1.4 var(--latin-sans); letter-spacing: .14em; text-transform: uppercase; color: var(--ivory-3) }
+html[lang=fa] .contents-title { font: 600 13px/1.6 var(--sans); letter-spacing: 0 }
+.contents ol { position: relative; margin: 0; padding: 0; list-style: none }
+.contents > ol::before { content: ''; position: absolute; inset-block: 0; inset-inline-start: 0; width: 1px; background: linear-gradient(to bottom, var(--line), var(--line) 70%, transparent) }
+.contents a { position: relative; display: flex; align-items: baseline; justify-content: space-between; gap: 10px; padding-block: 7px; padding-inline: 16px 0; color: var(--ivory-3); font-size: 15px; text-decoration: none; transition: color .2s }
+.contents a::before { content: ''; position: absolute; inset-block: 8px; inset-inline-start: 0; width: 2px; border-radius: 2px; background: var(--coral); transform: scaleY(0); transition: transform .3s }
+.contents a:hover, .contents a[aria-current] { color: var(--ivory) }
+.contents a[aria-current]::before { transform: scaleY(1) }
+/* Life & work's own headings sit under it, smaller, so a long article can be entered at any part. */
+.contents ol ol a { padding-block: 4px; padding-inline-start: 28px; font-size: 13.5px; line-height: 1.4 }
+.contents ol ol a::before { inset-block: 5px }
+.contents ol ol a[data-current] { color: var(--ivory) }
+.contents ol ol a[data-current]::before { transform: scaleY(1); opacity: .5 }
+
+/* Title, lead and infobox. */
+.article-head { scroll-margin-top: 28px }
+.article-title { margin-bottom: 26px; padding-bottom: 24px; background: var(--rule) bottom / 100% 1px no-repeat }
+.kicker { margin-bottom: 12px }
+.artist-name { font: 500 clamp(2.6rem, 5.2vw, 4.6rem)/1 var(--serif); letter-spacing: -.015em; view-transition-name: artist-name }
+html[lang=fa] .artist-name, .artist-name:lang(fa) { font: 700 clamp(2.4rem, 4.1vw, 3.6rem)/1.55 'Farhang2', serif; letter-spacing: 0 }
+.artist-name-alt { margin-top: 8px; font: 700 1.45rem/1.5 'Farhang2', sans-serif; color: var(--ivory-2) }
+.artist-name-alt:lang(en) { margin-top: 4px; font: 500 14px/1.5 var(--latin-sans); letter-spacing: .14em; text-transform: uppercase; color: var(--ivory-3) }
+.timeline-link { display: inline-block; margin-top: 14px; font-size: 14px }
+/* As in an encyclopedia, the infobox floats beside the lead and the text runs on past it. */
+.infobox { float: inline-end; width: 296px; margin-inline-start: clamp(32px, 4vw, 56px); margin-bottom: 32px; padding: 22px 22px 6px; border-radius: 22px; background: linear-gradient(to bottom, rgb(27 31 48 / .92), rgb(27 31 48 / .5) 72%, rgb(27 31 48 / 0)) }
+.infobox-photo { margin: 0 0 16px }
+.photo-open { display: block; border-radius: 14px; cursor: zoom-in }
+.infobox-photo img { display: block; width: 100%; height: auto; border-radius: 14px; background: var(--night) }
+.photo-dialog { width: fit-content; max-width: min(94vw, 1200px); max-height: none; margin: auto; padding: 52px 0 0; border-radius: 0; background: transparent; box-shadow: none; overflow: visible }
+.photo-dialog::backdrop { background: rgb(7 9 15 / .88); -webkit-backdrop-filter: blur(6px); backdrop-filter: blur(6px) }
+.photo-dialog img { display: block; width: auto; height: auto; max-width: min(94vw, 1200px); max-height: calc(94vh - 52px); border-radius: 12px; cursor: zoom-out }
+.photo-dialog form { position: absolute; top: 0; inset-inline-end: 0 }
+.release-cover { margin: 0 }
+.infobox-facts div { display: grid; grid-template-columns: 92px minmax(0, 1fr); gap: 12px; padding-block: 10px; background: var(--fade) top / 100% 1px no-repeat }
+.infobox-facts div:first-child { background: none }
+.infobox-facts dt { font-size: 13px; line-height: 1.5; color: var(--ivory-3) }
+.infobox-facts dd { font-size: 14.5px; line-height: 1.5 }
+.infobox-facts a, .release-facts a { text-decoration: underline; text-decoration-thickness: 1px; text-decoration-color: rgb(247 243 232 / .3); text-underline-offset: .3em }
+.infobox-facts a:hover, .release-facts a:hover { color: var(--coral-hi) }
+
+/* Prose: the part people come to read. */
+.prose { max-width: 42rem; color: rgb(247 243 232 / .86); line-height: 1.75 }
+.prose p + p { margin-top: 1.05em }
+.prose h3 { margin: 2.1em 0 .5em; font: 600 1.2rem/1.35 var(--sans); color: var(--ivory); scroll-margin-top: 28px }
+.prose h3:first-child { margin-top: 0 }
+.prose a { color: var(--ivory); text-decoration-color: rgb(247 243 232 / .35); text-underline-offset: .3em }
+.lead { font-size: 1.125rem; color: var(--ivory) }
+html[lang=fa] .prose { line-height: 1.95 }
+html[lang=fa] .lead { font-size: 1.15rem }
+.elsewhere { color: var(--ivory-2) }
+
+/* Sections: a serif heading over a soft rule, then a short note (both in shelf.css). */
+.section { clear: both; padding-top: clamp(56px, 6vw, 88px); scroll-margin-top: 4px }
+.article h2 { font: 500 clamp(2rem, 2.8vw, 2.5rem)/1.15 var(--serif) }
+html[lang=fa] .article h2 { font: 700 clamp(1.65rem, 2.25vw, 2rem)/1.55 'Farhang2', serif }
+
+/* A release's panel. Without scripts it opens in place over the page when its address is followed; with them it opens as a dialog. */
+.release-panel:not(:target) { display: none }
+.release-panel:target { position: fixed; inset: 5vh max(16px, 50% - 470px) auto; z-index: 70; max-height: 90vh; overflow: auto; border-radius: 24px; background: var(--night); box-shadow: 0 0 0 100vmax rgb(8 9 14 / .74), 0 50px 120px -30px rgb(0 0 0 / .9) }
+html.js .release-panel:target { display: none }
+html:has(.release-dialog[open]) { overflow: hidden }
+.release-open .panel-bar { position: sticky; top: 0; z-index: 1; background: var(--night) }
+.panel-bar { display: flex; align-items: center; justify-content: space-between; gap: 16px; padding-block: 16px; padding-inline: 30px 18px }
+.release-detail { display: grid; grid-template-columns: minmax(0, 5fr) minmax(0, 7fr); gap: 32px; padding: 8px 30px 32px }
+.release-detail .cover-blank span { font-size: clamp(1.4rem, 2.4vw, 2rem) }
+.release-meta { font-size: 13px; color: var(--coral); font-variant-numeric: tabular-nums }
+.release-title { margin-top: 12px; font: 400 clamp(2.4rem, 4vw, 3.4rem)/.98 var(--serif) }
+html[lang=fa] .release-title, .release-title:lang(fa) { font: 700 clamp(2rem, 3.4vw, 2.8rem)/1.35 'Farhang2', serif }
+.release-alt { margin-top: 10px; font-size: 16px; color: var(--ivory-2) }
+.release-alt:lang(fa) { font: 700 1.2rem/1.6 'Farhang2', serif }
+.release-facts { display: grid; gap: 12px; margin-top: 22px; padding-top: 16px; background: var(--rule) top / 100% 1px no-repeat }
+.release-facts div { display: grid; gap: 2px }
+.release-facts dt { font-size: 12px; letter-spacing: .12em; text-transform: uppercase; color: var(--ivory-3) }
+html[lang=fa] .release-facts dt { letter-spacing: 0; font-size: 13px }
+.release-facts dd { font-size: 15px }
+.listen-links { display: flex; flex-wrap: wrap; gap: 6px 22px; margin-top: 22px }
+
+/* Sources: a plain numbered list; each source keeps the quotes the page rests on. */
+.source-list { margin: 0; padding: 0; list-style: none }
+.source-list > li { display: grid; grid-template-columns: 34px minmax(0, 1fr); padding: 6px 8px; margin-inline: -8px; border-radius: 8px; font-size: 15px; color: var(--ivory-3); scroll-margin-top: 90px }
+.source-list > li:target { animation: cited 2.6s ease-out }
+@keyframes cited { from { background: rgb(238 130 112 / .2) } to { background: rgb(238 130 112 / 0) } }
+.source-num { color: var(--coral); font-size: 14px; font-variant-numeric: tabular-nums }
+.source-title { color: var(--ivory); text-decoration: underline; text-decoration-thickness: 1px; text-decoration-color: rgb(247 243 232 / .3); text-underline-offset: .3em; transition: color .2s }
+a.source-title:hover { color: var(--coral-hi) }
+.source-quotes summary { width: fit-content; margin-top: 2px; font-size: 13px; cursor: pointer; list-style: none; transition: color .2s }
+.source-quotes summary::-webkit-details-marker { display: none }
+.source-quotes summary::before { content: '+'; display: inline-block; width: 1em; color: var(--coral) }
+.source-quotes[open] summary::before { content: '−' }
+.source-quotes summary:hover { color: var(--ivory) }
+.source-quotes blockquote { margin: 10px 0 4px; padding-inline-start: 12px; border-inline-start: 2px solid var(--line); color: var(--ivory-2); white-space: pre-line; scroll-margin-top: 90px }
+.source-quotes .quote-meta { font-size: 12px; color: var(--ivory-3) }
+
+/* Below laptop width the contents become a bar that stays at the top. */
+@media (max-width: 1100px) {
+  .layout { display: block; padding-top: 0 }
+  .rail { display: contents }
+  .rail-garden { display: none }
+  .contents { position: sticky; top: 0; z-index: 30; margin: 0 calc(-1 * var(--gutter)) clamp(24px, 4vw, 40px); padding-inline: var(--gutter); background: rgb(21 23 28 / .86); -webkit-backdrop-filter: blur(16px) saturate(140%); backdrop-filter: blur(16px) saturate(140%) }
+  .contents::before, .contents::after { content: ''; position: absolute; inset-inline: 0; height: 1px; background: var(--fade) }
+  .contents::before { top: 0 }
+  .contents::after { bottom: 0 }
+  .contents-title { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap }
+  .contents > ol { position: static; display: flex; gap: clamp(4px, 2vw, 24px); overflow-x: auto; scrollbar-width: none }
+  .contents > ol::-webkit-scrollbar { display: none }
+  .contents > ol::before { display: none }
+  .contents > ol > li { display: flex; align-items: center; flex: 0 0 auto }
+  .contents-subsections { position: static }
+  .contents-subsections[open] ol { position: absolute; inset-inline: 0; top: 100%; max-height: 55vh; overflow: auto; background: var(--night); padding: 12px var(--gutter); box-shadow: 0 12px 24px #0006 }
+  .contents .contents-subsections summary { display: flex; align-items: center; justify-content: center; width: 44px; height: 44px; color: var(--ivory-2); cursor: pointer; list-style: none }
+  .contents-subsections summary::-webkit-details-marker { display: none }
+  .contents-subsections summary::marker { content: '' }
+  .contents-subsections summary svg { width: 16px; height: 16px; fill: none; stroke: currentColor; stroke-width: 1.5 }
+  .contents-subsections[open] summary svg { transform: rotate(180deg) }
+  .contents .contents-subsections ol a { min-height: 44px; padding: 10px 12px; white-space: normal; line-height: 1.6 }
+  .contents .contents-subsections ol a::before { display: none }
+  .contents .contents-subsections ol a[data-current] { background: var(--wash); border-radius: 6px }
+  .contents a { justify-content: flex-start; padding: 16px 10px; font-size: 15px; white-space: nowrap }
+  .contents li:first-child a { padding-inline-start: 0 }
+  .contents a::before { inset: auto 10px 0; width: auto; height: 2px; transform: scaleX(0) }
+  .contents li:first-child a::before { inset-inline-start: 0 }
+  .contents a[aria-current]::before { transform: scaleX(1) }
+  .article-head, .section, .prose h3 { scroll-margin-top: 72px }
+  /* The nightingale's branch moves below the contents bar, beside the title, so the bar never covers it. */
+  .corner-art .corner-branch { top: 186px }
+}
+
+/* Tablet and phone: the infobox follows the lead. */
+@media (max-width: 860px) {
+  .corner-art .corner-branch { top: 240px }
+  .article-head { display: flex; flex-direction: column }
+  .infobox { order: 1; float: none; width: auto; margin: 36px 0 0; padding: 18px 24px 6px }
+  .infobox-photo img { max-width: 420px }
+}
+
+@media (max-width: 760px) {
+  .corner-art .corner-branch { top: 208px }
+  .contents > ol { -webkit-mask-image: linear-gradient(90deg, #000 82%, transparent); mask-image: linear-gradient(90deg, #000 82%, transparent); padding-inline-end: 32px }
+  html[dir=rtl] .contents > ol { -webkit-mask-image: linear-gradient(270deg, #000 82%, transparent); mask-image: linear-gradient(270deg, #000 82%, transparent) }
+  .contents a { padding-block: 14px; font-size: 14px }
+  .article-title { margin-bottom: 20px; padding-bottom: 18px }
+  .lead { font-size: 1.0625rem }
+  .infobox { padding: 16px 20px 4px }
+  .section { padding-top: 56px }
+  .release-panel:target { inset: auto 0 0; max-height: 92vh; border-radius: 22px 22px 0 0 }
+  .release-detail { grid-template-columns: 1fr; gap: 22px; padding: 4px 22px 26px }
+  .release-detail .cover, .release-cover { max-width: 160px }
+}
+
+.contents-subsections summary { display: none }
+
+.release-detail > div { min-width: 0 }
+.release-title, .listen-links { overflow-wrap: anywhere }
+.listen-destination { display: inline-flex; align-items: baseline; gap: 3px; max-width: 100% }
+
+@media (max-width: 760px) {
+  .contents:has(.contents-subsections[open]) > ol { -webkit-mask-image: none; mask-image: none }
+}

@@ -1,0 +1,15 @@
+.about { padding-block: clamp(44px, 7vw, 96px) 16px }
+.about article { max-width: 740px; margin-inline: auto }
+.about h1 { font: 400 clamp(2.8rem, 6vw, 4.5rem)/1.1 var(--serif); text-wrap: balance }
+.about-lead { margin-top: 28px; font-size: clamp(1.15rem, 2vw, 1.4rem); line-height: 1.65; color: var(--ivory-2) }
+.about section { margin-top: clamp(44px, 6vw, 64px) }
+.about h2 { margin-bottom: 20px; font: 400 clamp(1.8rem, 3vw, 2.3rem)/1.2 var(--serif); text-wrap: balance }
+.about section p { color: var(--ivory-2) }
+.about section p + p { margin-top: 22px }
+.about-links { display: flex; flex-wrap: wrap; gap: 20px 32px; margin-top: 44px; padding-top: 24px; border-top: 1px solid var(--line) }
+html[lang=fa] .about :is(h1, h2) { font-weight: 700; line-height: 1.65 }
+html[lang=fa] .about-lead { line-height: 1.95 }
+@media (max-width: 760px) {
+  .about { padding-top: 44px }
+  .about article { position: relative }
+}

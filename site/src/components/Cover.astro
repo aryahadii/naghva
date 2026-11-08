@@ -1,0 +1,23 @@
+---
+import { textAttrs } from '../lib/html';
+import { fill, strings } from '../lib/i18n';
+import type { Picture } from '../lib/images';
+import type { Lang, Text } from '../lib/record';
+import RemoteImage from './RemoteImage.astro';
+
+/** A release's cover, shown whole; without cover art, its name set in an illuminated frame. */
+interface Props {
+  title: Text;
+  lang: Lang;
+  art?: Picture | null;
+  /** How wide the cover shows, for choosing among the host's sizes. */
+  sizes?: string;
+}
+const { title, lang, art, sizes } = Astro.props;
+---
+
+{art ? (
+  <RemoteImage class="cover cover-art" picture={art} sizes={sizes} alt={fill(strings(lang).image.coverAlt, { title: title.text })} width="720" height="720" loading="lazy" decoding="async" />
+) : (
+  <span class="cover cover-blank" aria-hidden="true"><span {...textAttrs(title, lang)}>{title.text}</span></span>
+)}

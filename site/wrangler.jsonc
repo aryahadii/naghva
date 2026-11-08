@@ -1,0 +1,13 @@
+// Cloudflare serves the built site as static files; there is no server code.
+{
+  "name": "naghva",
+  "compatibility_date": "2026-10-01",
+  "routes": [
+    { "pattern": "naghva.com", "custom_domain": true },
+    { "pattern": "naqva.com", "custom_domain": true }
+  ],
+  "assets": {
+    "directory": "./dist",
+    "not_found_handling": "404-page"
+  }
+}

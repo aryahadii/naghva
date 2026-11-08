@@ -1,0 +1,48 @@
+/* The timeline: a year per section, its entries hung on one line with a mark for each kind. */
+.timeline-head { padding-block: clamp(24px, 4vw, 56px) clamp(24px, 3vw, 40px) }
+.timeline-head h1 { font: 500 clamp(2.6rem, 5.2vw, 4.6rem)/1 var(--serif); letter-spacing: -.015em }
+html[lang=fa] .timeline-head h1 { font: 700 clamp(2.4rem, 4.1vw, 3.6rem)/1.55 'Farhang2', serif; letter-spacing: 0 }
+.deck { max-width: 32em; margin-top: 14px; font: 400 clamp(1.15rem, 1.6vw, 1.45rem)/1.35 var(--serif); color: var(--ivory-2) }
+html[lang=fa] .deck { font: 400 1.15rem/1.8 var(--sans) }
+
+.timeline-filters { position: sticky; top: 0; z-index: 30; display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 12px 24px; margin: 0 calc(-1 * var(--gutter)) clamp(28px, 4vw, 48px); padding: 12px var(--gutter); background: rgb(21 23 28 / .86); -webkit-backdrop-filter: blur(16px) saturate(140%); backdrop-filter: blur(16px) saturate(140%) }
+.timeline-filters::after { content: ''; position: absolute; inset-inline: 0; bottom: 0; height: 1px; background: var(--fade) }
+.chips, .selects { display: flex; flex-wrap: wrap; gap: 8px 10px }
+.chip { display: inline-flex; align-items: center; gap: 8px; min-height: 36px; padding: 0 14px; border-radius: 999px; background: var(--wash); color: var(--ivory-3); font-size: 14px; transition: background .2s, color .2s }
+.chip::before { content: ''; width: 8px; height: 8px; border-radius: 50%; background: currentColor; opacity: .5 }
+.chip[aria-pressed=true] { background: rgb(247 243 232 / .1); color: var(--ivory) }
+.chip[aria-pressed=true]::before { opacity: 1; background: var(--mark) }
+.select { display: inline-flex; align-items: center; gap: 8px; font-size: 13px; color: var(--ivory-3) }
+.select select { min-height: 36px; padding: 0 12px; border: 0; border-radius: 999px; background: var(--wash); color: var(--ivory); font-size: 14px }
+.select option { background: var(--night) }
+[data-kind=release] { --mark: var(--coral) }
+[data-kind=event] { --mark: var(--sage) }
+[data-kind=formation] { --mark: #91a0ff }
+[data-kind=joined] { --mark: var(--sage) }
+[data-kind=left] { --mark: var(--copper) }
+
+.timeline-empty { color: var(--ivory-2) }
+.year { display: grid; grid-template-columns: 148px minmax(0, 1fr); column-gap: clamp(24px, 4vw, 56px); scroll-margin-top: 72px }
+.year-title { position: sticky; top: 84px; align-self: start; padding-top: 10px; font: 400 clamp(2rem, 3vw, 2.6rem)/1 var(--serif); font-variant-numeric: tabular-nums; color: var(--copper) }
+html[lang=fa] .year-title { font: 700 clamp(1.8rem, 2.6vw, 2.3rem)/1.4 'Farhang2', serif }
+.year#disputed .year-title { font-size: 1.15rem; line-height: 1.5 }
+.year-title a { text-decoration: none }
+.entries { margin: 0; padding: 0 0 32px; padding-inline-start: 28px; list-style: none; background: linear-gradient(to bottom, var(--line), var(--line)) 0 0 / 1px 100% no-repeat }
+html[dir=rtl] .entries { background-position: 100% 0 }
+.entry { position: relative; padding-block: 12px 14px; scroll-margin-top: 68px }
+.entry::before { content: ''; position: absolute; top: 22px; inset-inline-start: -32px; width: 9px; height: 9px; border-radius: 50%; background: var(--mark); box-shadow: 0 0 0 4px var(--ink) }
+.entry-meta { display: flex; flex-wrap: wrap; gap: 0 10px; font-size: 13px; color: var(--ivory-3); font-variant-numeric: tabular-nums }
+.entry-meta > :first-child { color: var(--ivory-2) }
+.entry-kind { color: var(--mark) }
+.entry-text { margin-top: 2px; font-size: 1.15rem; line-height: 1.45 }
+.entry-text a { text-decoration: none; transition: color .2s }
+.entry-text a:hover { color: var(--coral-hi) }
+.entry-sub { margin-top: 2px; font-size: 14px; color: var(--ivory-2) }
+.entry-sub a { text-decoration: none }
+.entry-sub a:hover { color: var(--ivory) }
+
+@media (max-width: 760px) {
+  .timeline-filters { position: static }
+  .year { display: block }
+  .year-title { position: static; margin-bottom: 8px }
+}

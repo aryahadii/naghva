@@ -1,0 +1,160 @@
+---
+import { Image, getImage } from 'astro:assets';
+import '@fontsource-variable/dm-sans/opsz.css';
+import '@fontsource-variable/dm-sans/opsz-italic.css';
+import '@fontsource-variable/newsreader/opsz.css';
+import '@fontsource-variable/newsreader/opsz-italic.css';
+import dmSans from '@fontsource-variable/dm-sans/files/dm-sans-latin-opsz-normal.woff2?url';
+import newsreader from '@fontsource-variable/newsreader/files/newsreader-latin-opsz-normal.woff2?url';
+import '../styles/tokens.css';
+import '../styles/base.css';
+import iranSans from '../assets/fonts/IRANSansXNoEn-Regular.woff2?url';
+import farhang from '../assets/fonts/Farhang2-Bold.woff2?url';
+import wordmark from '../../../assets/brand/logos/wordmark-with-rule/naghva-wordmark-with-rule-on-dark-transparent.svg?url';
+import imprint from '../../../assets/brand/logos/imprint/naghva-imprint-on-dark-solid.png';
+import cloudWisp from '../assets/art/cloud-wisp.png';
+import cloudSwirl from '../assets/art/cloud-swirl.png';
+import branch from '../assets/art/nightingale-branch.png';
+import GardenFrieze from '../components/GardenFrieze.astro';
+import GoogleSiteVerification from '../components/GoogleSiteVerification.astro';
+import Search from '../islands/Search';
+import { dirOf, other, strings } from '../lib/i18n';
+import { loadRecord, url, type Lang } from '../lib/record';
+
+/** Every page: its head for browsers and search engines, the header, and the footer. */
+interface Props {
+  lang: Lang;
+  title: string;
+  description: string;
+  /** The page's address after the language, as in `timeline/`. */
+  path: string;
+  section?: 'home' | 'artist' | 'timeline' | 'directory' | 'about';
+  artistId?: string;
+  noindex?: boolean;
+  jsonld?: unknown;
+  /** Anchors on this page and their twins on the other language's page. */
+  twins?: { [anchor: string]: string };
+  type?: 'website' | 'profile';
+  /** The page's own image for link previews; otherwise the Naghva imprint. */
+  image?: { src: string; alt: string; width?: number; height?: number };
+}
+
+const { lang, title, description, path, section, jsonld, twins, type = 'website', image } = Astro.props;
+const t = strings(lang);
+const twin = other(lang);
+const record = loadRecord();
+const address = (l: Lang) => new URL(`/${l}/${path}`, Astro.site).href;
+const imprintShare = await getImage({ src: imprint, width: 1200, format: 'png' });
+const share = image ?? {
+  src: new URL(imprintShare.src, Astro.site).href,
+  width: Number(imprintShare.attributes.width),
+  height: Number(imprintShare.attributes.height),
+  alt: t.siteName,
+};
+const words = { ...t.search, kinds: t.kinds };
+---
+
+<!doctype html>
+<html lang={lang} dir={dirOf(lang)}>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta name="theme-color" content="#15171c" />
+    {path === '' && <GoogleSiteVerification />}
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    {Astro.props.noindex && <meta name="robots" content="noindex,follow" />}
+    <link rel="canonical" href={address(lang)} />
+    {!record.examples && <meta
+      name="naghva-analytics"
+      content={import.meta.env.PUBLIC_POSTHOG_KEY ?? ''}
+      data-host={import.meta.env.PUBLIC_POSTHOG_HOST ?? ''}
+      data-page={section ?? 'search'}
+      data-artist={Astro.props.artistId}
+    />}
+    <link rel="alternate" hreflang="en" href={address('en')} />
+    <link rel="alternate" hreflang="fa" href={address('fa')} />
+    <link rel="alternate" hreflang="x-default" href={path === '' ? new URL('/', Astro.site).href : address('en')} />
+    <meta property="og:type" content={type} />
+    <meta property="og:site_name" content={strings('en').siteName} />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={address(lang)} />
+    <meta property="og:locale" content={lang === 'fa' ? 'fa_IR' : 'en_GB'} />
+    <meta property="og:locale:alternate" content={lang === 'fa' ? 'en_GB' : 'fa_IR'} />
+    <meta property="og:image" content={share.src} />
+    {share.width && <meta property="og:image:width" content={String(share.width)} />}
+    {share.height && <meta property="og:image:height" content={String(share.height)} />}
+    <meta property="og:image:alt" content={share.alt} />
+    <meta name="twitter:card" content="summary_large_image" />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" sizes="any" />
+    <link rel="icon" href="/favicon.png" type="image/png" sizes="96x96" />
+    <link rel="sitemap" href="/sitemap-index.xml" />
+    {lang === 'fa'
+      ? [iranSans, farhang].map((href) => <link rel="preload" href={href} as="font" type="font/woff2" crossorigin />)
+      : [dmSans, newsreader].map((href) => <link rel="preload" href={href} as="font" type="font/woff2" crossorigin />)}
+    <script is:inline define:vars={{ lang }}>
+      document.documentElement.classList.add('js');
+      try { localStorage.setItem('naghva-lang', lang); } catch {}
+    </script>
+    {jsonld ? <script type="application/ld+json" set:html={JSON.stringify(jsonld).replace(/</g, '\\u003c')} /> : null}
+  </head>
+  <body>
+    <a class="skip" href="#content">{t.skip}</a>
+    {record.examples && <p class="examples-banner">{t.examples}</p>}
+    <div class="corner-art" aria-hidden="true">
+      <div class="wrap">
+        <Image class="corner-cloud corner-cloud-start" src={cloudWisp} width={340} densities={[1]} alt="" />
+        <Image class="corner-cloud corner-cloud-end" src={cloudSwirl} width={327} alt="" />
+        {/* The homepage paints its own garden under the title, so its corners keep only the clouds. */}
+        {section !== 'home' && <Image class="corner-branch" src={branch} width={330} densities={[1, 2]} alt="" />}
+      </div>
+    </div>
+    <header class="site-header wrap">
+      <a class="brand" href={url(lang)} aria-label={t.siteName}>
+        <img src={wordmark} width="88" height="67" alt={t.wordmark} />
+      </a>
+      <nav class="site-nav" aria-label={t.siteName}>
+        <a href={url(lang, 'artists')} aria-current={section === 'directory' ? 'page' : undefined}>{t.browse.artists}</a>
+        <a href={url(lang, 'timeline')} aria-current={section === 'timeline' ? 'page' : undefined}>{t.timeline}</a>
+      </nav>
+      <div class="header-end">
+        {section !== 'home' && section !== 'directory' && <Search client:idle lang={lang} words={words} />}
+        {section === 'directory' && <a class="directory-global-search text-link" href={url(lang, 'search')}>{t.browse.searchAll}</a>}
+        <a
+          class="pill language"
+          href={`/${twin}/${path}`}
+          hreflang={twin}
+          lang={twin}
+          aria-label={t.otherLanguageLabel}
+          data-twins={twins && Object.keys(twins).length ? JSON.stringify(twins) : undefined}
+        >{t.otherLanguage}</a>
+      </div>
+    </header>
+
+    <slot />
+
+    <div class="frieze" aria-hidden="true">
+      <GardenFrieze />
+    </div>
+    <footer class="site-footer wrap">
+      <div class="footer-brand">
+        <img src={wordmark} width="60" height="45" alt={t.siteName} loading="lazy" />
+        <p>{t.tagline}</p>
+      </div>
+      <nav aria-label={t.siteName}>
+        <a href={url(lang)}>{t.home}</a>
+        <a href={url(lang, 'artists')}>{t.browse.artists}</a>
+        <a href={url(lang, 'timeline')}>{t.timeline}</a>
+        <a href={url(lang, 'about')} aria-current={section === 'about' ? 'page' : undefined}>{t.about}</a>
+        <a href="#content">{t.backTop}</a>
+      </nav>
+      <p class="footer-branding">{t.footerBranding}</p>
+    </footer>
+    <script>
+      import '../scripts/page';
+      import { initAnalytics } from '../scripts/analytics';
+      initAnalytics();
+    </script>
+  </body>
+</html>

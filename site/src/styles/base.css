@@ -1,0 +1,178 @@
+/* What every page shares: the reset, header, footer, links, cards, dialogs, citations and search. */
+*, *::before, *::after { box-sizing: border-box }
+html { scroll-behavior: smooth; scroll-padding-top: 72px; -webkit-text-size-adjust: 100% }
+body { margin: 0; background: var(--ink); color: var(--ivory); font: 400 17px/1.65 var(--sans); -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale }
+body::before { content: ''; position: fixed; inset: 0; z-index: -1; pointer-events: none; background: var(--grain); opacity: .07; mix-blend-mode: overlay }
+html[lang=fa] body { font-size: 17.5px; line-height: 1.85 }
+h1, h2, h3, p, figure, dl, dd, blockquote { margin: 0 }
+img { display: block; max-width: 100%; height: auto }
+a { color: inherit }
+button, select, input { font: inherit; color: inherit }
+button { cursor: pointer; background: none; border: 0; padding: 0; -webkit-tap-highlight-color: transparent }
+:focus-visible { outline: 2px solid var(--coral); outline-offset: 4px; border-radius: 4px }
+::selection { background: var(--cobalt); color: var(--ivory) }
+[hidden] { display: none !important }
+.nowrap { white-space: nowrap }
+main { overflow-x: clip }
+.wrap { width: min(var(--max), 100% - 2 * var(--gutter)); margin-inline: auto }
+.visually-hidden { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap }
+.skip { position: fixed; top: -80px; inset-inline-start: 16px; z-index: 60; padding: 12px 18px; border-radius: 999px; background: var(--ivory); color: var(--ink); text-decoration: none }
+.skip:focus { top: 16px }
+/* Pieces that only work with scripts stay out of the page without them. */
+html:not(.js) .needs-js { display: none !important }
+
+/* Shared pieces: labels, links, buttons, pills. */
+.tag, .kicker { font: 600 12px/1.4 var(--latin-sans); letter-spacing: .14em; text-transform: uppercase; color: var(--ivory-3) }
+html[lang=fa] :is(.tag, .kicker) { font: 600 13px/1.6 var(--sans); letter-spacing: 0 }
+.text-link { color: var(--ivory); font-size: 15px; text-decoration: underline; text-decoration-thickness: 1px; text-decoration-color: rgb(247 243 232 / .35); text-underline-offset: .4em; transition: color .2s, text-decoration-color .2s }
+.text-link:hover { color: var(--coral-hi); text-decoration-color: currentColor }
+.pill { display: inline-flex; align-items: center; gap: 8px; min-height: 40px; padding: 0 16px; border-radius: 999px; background: var(--wash); color: var(--ivory-2); font-size: 14px; line-height: 1; white-space: nowrap; text-decoration: none; transition: background .2s, color .2s }
+.pill:hover { background: rgb(247 243 232 / .11); color: var(--ivory) }
+.count { font-size: 12px; font-variant-numeric: tabular-nums; color: var(--ivory-3) }
+.role { color: var(--ivory-3) }
+.examples-banner { padding: 10px var(--gutter); background: rgb(238 130 112 / .16); font-size: 14px; text-align: center; color: var(--ivory) }
+
+/* Header: the wordmark, the timeline, search and the other language. */
+/* The header's view-transition stacking context must sit above the sticky contents bar. */
+.site-header { position: relative; z-index: 40; display: flex; flex-wrap: wrap; align-items: center; gap: 16px 24px; padding-block: 22px; view-transition-name: site-header }
+.brand { display: block; flex-shrink: 0 }
+.brand img { width: 88px; height: auto }
+.site-nav { display: flex; gap: 22px; font-size: 15px }
+.site-nav a { color: var(--ivory-2); text-decoration: none; transition: color .2s }
+.site-nav a:hover, .site-nav a[aria-current] { color: var(--ivory) }
+.header-end { display: flex; align-items: center; gap: 12px; min-width: 0; margin-inline-start: auto }
+.header-end .search { min-width: 0; width: clamp(220px, 26vw, 340px) }
+.language { font-family: 'IRANSansX', var(--latin-sans); font-size: 15px }
+.language:lang(en) { font-family: var(--latin-sans) }
+
+/* The top corners open onto the miniature's night sky: clouds drift in from the top edge and a nightingale's branch reaches in from the side. They stay behind the header and clear of the text. */
+.corner-art { position: absolute; left: 0; right: 0; z-index: -1; height: 360px; overflow: hidden; pointer-events: none; background: radial-gradient(560px 320px at 100% 0, rgb(69 91 219 / .09), transparent 72%), radial-gradient(480px 260px at 0 0, rgb(69 91 219 / .06), transparent 72%) }
+.corner-art .wrap { position: relative; height: 100% }
+html[dir=rtl] .corner-art .wrap { transform: scaleX(-1) }
+.corner-art img { position: absolute; max-width: none }
+.corner-cloud { opacity: .5 }
+.corner-cloud-start { top: -26px; left: 112px; width: 340px }
+.corner-cloud-end { top: -50px; right: 34px; width: 330px }
+/* The branch is flipped so the nightingale faces into the page. It reaches in from the window edge, but on very wide screens stays near the content and its cut end fades out. */
+.corner-branch { top: 156px; right: calc(-1 * min(max(var(--gutter), (100vw - var(--max)) / 2) + 46px, 300px)); width: 330px; opacity: .78; transform: scaleX(-1); -webkit-mask-image: linear-gradient(to right, transparent 4%, #000 22%); mask-image: linear-gradient(to right, transparent 4%, #000 22%) }
+
+/* Search: a field that answers as you type, with its results below it. */
+.search { position: relative; display: flex; align-items: center }
+.search input { width: 100%; min-width: 0; min-height: 40px; padding-block: 0; padding-inline: 40px 16px; border: 0; border-radius: 999px; background: var(--wash); color: var(--ivory); font-size: 16px; transition: background .2s, box-shadow .2s }
+/* What is typed reads in its own script's direction, while the box keeps the page's, so the placeholder and the icon's room stay on the page's side. */
+.search input { unicode-bidi: plaintext }
+.search input::placeholder { color: var(--ivory-3); opacity: 1 }
+.search input:hover { background: rgb(247 243 232 / .09) }
+.search input:focus { outline: 0; background: rgb(247 243 232 / .1); box-shadow: 0 0 0 1px rgb(238 130 112 / .7) }
+.search input::-webkit-search-cancel-button { filter: invert(1) opacity(.5) }
+.search-icon { position: absolute; inset-inline-start: 14px; width: 18px; height: 18px; fill: none; stroke: var(--ivory-3); stroke-width: 1.6; stroke-linecap: round; pointer-events: none }
+.search-panel { position: absolute; top: calc(100% + 8px); inset-inline: 0; z-index: 40; min-width: min(340px, calc(100vw - 2 * var(--gutter))); max-height: min(480px, var(--search-available-height, 60dvh)); overflow-y: auto; overscroll-behavior-y: contain; padding: 6px; border-radius: 18px; background: var(--night); box-shadow: 0 0 0 1px rgb(247 243 232 / .07), 0 30px 70px -20px rgb(0 0 0 / .85) }
+.header-end .search-panel { inset-inline: 0 auto; width: max(100%, min(340px, calc(100vw - 2 * var(--gutter)))); min-width: 0; max-width: calc(100vw - 2 * var(--gutter)) }
+.search-panel ul { margin: 0; padding: 0; list-style: none }
+.search-panel a { display: grid; grid-template-columns: minmax(0, 1fr) fit-content(42%); align-items: baseline; gap: 2px 12px; padding: 10px 14px; border-radius: 12px; text-decoration: none }
+.search-panel [aria-selected=true] a { background: rgb(247 243 232 / .08) }
+.search-name, .search-alt, .search-kind { min-width: 0; overflow-wrap: anywhere }
+.search-name { justify-self: start; font-size: 16px; color: var(--ivory) }
+.search-alt { grid-column: 1; justify-self: start; font-size: 13px; color: var(--ivory-3) }
+.search-kind { grid-row: 1; grid-column: 2; justify-self: end; font-size: 12px; color: var(--ivory-3) }
+.search-empty { padding: 12px 14px; font-size: 15px; color: var(--ivory-2) }
+.search-hero input { min-height: 64px; padding-inline: 58px 24px; font-size: 1.25rem }
+.search-hero .search-icon { inset-inline-start: 22px; width: 22px; height: 22px }
+.search-hero .search-panel { top: calc(100% + 10px) }
+.search-hero .search-name { font-size: 18px }
+
+/* Cards: a cover, its date, its title and who made it. Used by the shelves and the homepage. */
+.shelf-card { display: block; width: 100%; text-align: start; text-decoration: none }
+.cover { position: relative; display: block; width: 100%; aspect-ratio: 1; overflow: hidden; object-fit: cover; border-radius: 6px; background: var(--night); box-shadow: 0 0 0 1px rgb(247 243 232 / .08), 0 24px 40px -28px rgb(0 0 0 / .9); transition: transform .5s cubic-bezier(.2, .7, .2, 1) }
+/* Until the record has cover art, a cover is the release's name set in an illuminated frame. */
+.cover-blank { display: grid; align-content: end; padding: 14%; background: radial-gradient(120% 90% at 85% 0%, rgb(69 91 219 / .38), transparent 62%), radial-gradient(90% 70% at 0% 100%, rgb(238 130 112 / .16), transparent 70%), var(--night) }
+.cover-blank::before { content: ''; position: absolute; inset: 7%; border: 1px solid rgb(214 164 119 / .32); border-radius: 3px; box-shadow: inset 0 0 0 3px var(--night), inset 0 0 0 4px rgb(214 164 119 / .16) }
+.cover-blank span { position: relative; display: -webkit-box; overflow: hidden; -webkit-box-orient: vertical; -webkit-line-clamp: 4; font: 400 clamp(1rem, 1.4vw, 1.25rem)/1.2 var(--serif); color: var(--ivory-2); overflow-wrap: anywhere }
+.cover-blank span:lang(fa) { font: 700 clamp(1rem, 1.4vw, 1.25rem)/1.6 'Farhang2', serif }
+.shelf-card:hover .cover { transform: translateY(-3px) }
+/* Keep small source artwork at its native size and preserve its full shape. */
+.cover-art { width: auto; max-width: 100%; height: auto; aspect-ratio: auto; object-fit: contain }
+.image-credit { margin-top: 8px; font-size: 12.5px; line-height: 1.5; color: var(--ivory-3) }
+.shelf-meta { display: flex; flex-wrap: wrap; gap: 0 6px; margin-top: 14px; font-size: 13px; color: var(--ivory-3); font-variant-numeric: tabular-nums }
+.shelf-meta > * + *::before { content: '·'; margin-inline-end: 6px }
+.shelf-meta :is(time, span:first-child) { color: var(--coral) }
+.shelf-title { display: block; margin-top: 4px; font: 400 1.4rem/1.15 var(--serif); transition: color .2s }
+.shelf-title:lang(fa) { font-family: 'Farhang2', serif; font-weight: 700; line-height: 1.5 }
+.shelf-card:hover .shelf-title { color: var(--coral-hi) }
+.shelf-sub { display: block; margin-top: 4px; font-size: 14px; line-height: 1.45; color: var(--ivory-2) }
+
+/* Citations: each run is one superscript, so it never breaks away from its sentence. */
+.cites { margin-inline-start: 2px; font: 600 11px/0 var(--sans); white-space: nowrap }
+.cite { padding: 0 1px; color: var(--coral); text-decoration: none }
+.cite:hover { color: var(--coral-hi); text-decoration: underline }
+.cite + .cite::before { content: ','; padding-inline-end: 1px; color: var(--ivory-3) }
+html[lang=fa] .cite + .cite::before { content: '،' }
+/* A citation opens its source and quote in place, beside the sentence it backs. */
+.cite-pop { position: fixed; inset: auto; width: min(380px, calc(100vw - 24px)); max-height: min(60vh, 440px); margin: 0; padding: 16px 18px 18px; overflow: auto; border: 0; border-radius: 16px; background: var(--night); color: var(--ivory); font-size: 14px; line-height: 1.55; box-shadow: 0 0 0 1px rgb(247 243 232 / .1), 0 30px 70px -20px rgb(0 0 0 / .9); opacity: 0; transform: translateY(4px); transition: opacity .16s, transform .16s, overlay .16s allow-discrete, display .16s allow-discrete }
+.cite-pop:popover-open { opacity: 1; transform: none }
+@starting-style { .cite-pop:popover-open { opacity: 0; transform: translateY(4px) } }
+.cite-pop .tag { display: block; margin-bottom: 6px }
+.cite-pop blockquote { margin-top: 10px; padding-inline-start: 12px; border-inline-start: 2px solid var(--coral); color: var(--ivory-2); white-space: pre-line }
+.cite-pop .quote-meta { margin-top: 6px; font-size: 12px; color: var(--ivory-3) }
+.cite-pop .cite-links { display: flex; flex-wrap: wrap; gap: 6px 18px; margin-top: 14px }
+.cite-pop .text-link { font-size: 13px }
+
+/* Dialogs. */
+dialog { width: min(940px, 100% - 32px); max-height: min(90vh, 920px); padding: 0; border: 0; border-radius: 24px; overflow: auto; background: var(--night); color: var(--ivory); box-shadow: 0 0 0 1px rgb(247 243 232 / .07), 0 50px 120px -30px rgb(0 0 0 / .9) }
+dialog::backdrop { background: rgb(8 9 14 / .74); -webkit-backdrop-filter: blur(8px); backdrop-filter: blur(8px) }
+dialog[open] { animation: rise .32s cubic-bezier(.2, .7, .2, 1) }
+dialog[open]::backdrop { animation: fade .32s ease-out }
+@keyframes rise { from { opacity: 0; transform: translateY(16px) scale(.99) } }
+@keyframes fade { from { opacity: 0 } }
+.dialog-bar { position: sticky; top: 0; z-index: 1; display: flex; align-items: center; justify-content: space-between; gap: 16px; padding-block: 16px; padding-inline: 30px 18px; background: var(--night) }
+
+/* Footer. */
+.frieze { width: min(620px, 100% - 2 * var(--gutter)); margin: clamp(72px, 8vw, 112px) auto 0; opacity: .9 }
+.frieze > svg { display: block; width: 100%; height: auto }
+.site-footer { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 24px; margin-top: 28px; padding-block: 36px 48px; background: var(--fade) top / 100% 1px no-repeat }
+.footer-brand { display: flex; align-items: center; gap: 22px }
+.footer-brand img { width: 72px }
+.footer-brand p { font: 400 1.35rem/1.2 var(--serif); color: var(--ivory-2) }
+html[lang=fa] .footer-brand p { font: 700 1.3rem/1.6 'Farhang2', serif }
+.site-footer nav { display: flex; flex-wrap: wrap; gap: 10px 26px; font-size: 14px; color: var(--ivory-3) }
+.site-footer nav a { text-decoration: none }
+.site-footer nav a:hover { color: var(--ivory) }
+.footer-branding { width: 100%; font-size: 14px; color: var(--ivory-3); text-align: center; text-wrap: balance }
+
+/* Moving between pages: the header stays put and the rest crossfades; an artist's name travels into its page title. */
+@view-transition { navigation: auto }
+::view-transition-group(*) { animation-duration: .34s; animation-timing-function: cubic-bezier(.2, .7, .2, 1) }
+::view-transition-old(root), ::view-transition-new(root) { animation-duration: .22s }
+
+/* A name in the other script keeps its own direction but lines up with the page. */
+html[dir=ltr] [dir=rtl]:is(.artist-name, .artist-name-alt, .shelf-title, .release-title, .release-alt) { text-align: left }
+html[dir=rtl] [dir=ltr]:is(.artist-name, .artist-name-alt, .shelf-title, .release-title, .release-alt) { text-align: right }
+
+@media (max-width: 1100px) {
+  .corner-cloud-start { width: 270px }
+  .corner-cloud-end { top: -40px; width: 270px }
+  .corner-branch { width: 280px }
+}
+@media (max-width: 860px) {
+  .header-end { flex-basis: 100%; margin-inline-start: 0 }
+  .header-end .search { flex: 1; width: auto }
+}
+@media (max-width: 760px) {
+  body { font-size: 16px }
+  .site-header { padding-block: 16px }
+  .brand img { width: 70px }
+  .corner-cloud-start { top: -14px; left: 84px; width: 190px }
+  .corner-cloud-end { display: none }
+  .corner-branch { top: 146px; right: calc(-1 * var(--gutter) - 30px); width: 150px }
+  .site-footer { flex-direction: column; align-items: flex-start }
+  dialog { width: 100%; max-width: none; max-height: 92vh; margin: auto 0 0; border-radius: 22px 22px 0 0 }
+  .dialog-bar { padding-block: 14px; padding-inline: 22px 14px }
+  .search-hero input { min-height: 56px; font-size: 1.1rem }
+}
+@media (prefers-reduced-motion: reduce) {
+  @view-transition { navigation: none }
+  html { scroll-behavior: auto }
+  *, *::before, *::after { transition: none !important; animation: none !important }
+}
+
+.search-all { display: block; padding: 14px 18px; border-top: 1px solid var(--line) }

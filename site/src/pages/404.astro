@@ -1,0 +1,47 @@
+---
+import '../styles/tokens.css';
+import '../styles/base.css';
+import wordmark from '../../../assets/brand/logos/wordmark-with-rule/naghva-wordmark-with-rule-on-dark-transparent.svg?url';
+import { strings } from '../lib/i18n';
+import { LANGS, url } from '../lib/record';
+
+/** Served for any address that has no page, so it speaks both languages. */
+---
+
+<!doctype html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta name="theme-color" content="#15171c" />
+    <meta name="robots" content="noindex" />
+    <title>{strings('en').notFound.title} · {strings('fa').notFound.title}</title>
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" sizes="any" />
+    <link rel="icon" href="/favicon.png" type="image/png" sizes="96x96" />
+  </head>
+  <body>
+    <header class="site-header wrap">
+      <a class="brand" href="/"><img src={wordmark} width="88" height="67" alt={strings('en').wordmark} /></a>
+    </header>
+    <main class="missing wrap" id="content">
+      {LANGS.map((lang) => {
+        const t = strings(lang);
+        return (
+          <section lang={lang} dir={lang === 'fa' ? 'rtl' : 'ltr'}>
+            <h1>{t.notFound.title}</h1>
+            <p>{t.notFound.text}</p>
+            <p class="links"><a class="text-link" href={url(lang)}>{t.home}</a> <a class="text-link" href={url(lang, 'timeline')}>{t.timeline}</a></p>
+          </section>
+        );
+      })}
+    </main>
+  </body>
+</html>
+
+<style>
+  .missing { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 48px; padding-block: 12vh 20vh }
+  h1 { font: 400 clamp(2rem, 4vw, 3rem)/1.1 var(--serif) }
+  [lang=fa] h1 { font: 700 clamp(1.8rem, 3.4vw, 2.6rem)/1.5 'Farhang2', serif }
+  p { margin-top: 14px; color: var(--ivory-2) }
+  .links { display: flex; gap: 24px }
+</style>

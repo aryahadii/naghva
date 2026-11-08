@@ -1,0 +1,57 @@
+---
+import Page from '../../layouts/Page.astro';
+import { strings } from '../../lib/i18n';
+import { LANGS, url, type Lang } from '../../lib/record';
+import '../../styles/about.css';
+
+export function getStaticPaths() {
+  return LANGS.map((lang) => ({ params: { lang } }));
+}
+
+const lang = Astro.params.lang as Lang;
+const t = strings(lang);
+const en = lang === 'en';
+const title = en ? 'About Naghva | An archive of independent Iranian music' : 'دربارهٔ نغوا | آرشیو موسیقی مستقل ایران';
+const description = en
+  ? 'Why Naghva began: bringing together the stories, recordings and collaborations of independent Iranian artists, in Persian and English, for today and the future.'
+  : 'نغوا چرا شکل گرفت؟ آشنایی با آرشیوی دوزبانه برای گردآوری سرگذشت، آثار و همکاری‌های هنرمندان مستقل ایرانی و حفظ تاریخ موسیقی آن‌ها برای امروز و آینده.';
+---
+
+<Page lang={lang} title={title} description={description} path="about/" section="about">
+  <main id="content" class="about wrap" tabindex="-1">
+    <article aria-labelledby="about-heading">
+      <header class="about-intro">
+        <h1 id="about-heading">{t.about}</h1>
+        <p class="about-lead">{en
+          ? 'Naghva is a bilingual archive of independent Iranian music: a place to discover artists, listen to their work and explore the history they have made together.'
+          : 'نغوا آرشیوی دوزبانه از موسیقی مستقل ایران است؛ جایی برای شناخت هنرمندان، شنیدن آثارشان و کشف تاریخی که در کنار هم ساخته‌اند.'}</p>
+      </header>
+      <section aria-labelledby="why">
+        <h2 id="why">{en ? 'Why Naghva?' : 'چرا نغوا؟'}</h2>
+        {en ? <>
+          <p>Many independent Iranian artists receive little media attention, and their stories are scattered across interviews, personal pages, social media and music platforms. Finding a song may be easy; understanding its background and its place in an artist’s career can take much more searching.</p>
+          <p>I started Naghva around October 2026 to help bring those pieces together. I wanted to keep a record of what these artists have made, who they have worked with, and how each has contributed to the wider story of Iranian music.</p>
+        </> : <>
+          <p>بسیاری از هنرمندان مستقل ایرانی کمتر در رسانه‌ها دیده می‌شوند. روایت زندگی و کارشان میان مصاحبه‌ها، صفحه‌های شخصی، شبکه‌های اجتماعی و پلتفرم‌های موسیقی پراکنده است. شاید پیدا کردن یک آهنگ آسان باشد، اما برای فهمیدن داستان پشت آن و جایگاهش در مسیر هنری یک هنرمند، باید خیلی بیشتر جست‌وجو کرد.</p>
+          <p>نغوا را حوالی اکتبر ۲۰۲۶ راه انداختم تا این تکه‌های پراکنده را کنار هم جمع کنم. می‌خواستم ردّی از آثار این هنرمندان و همکاری‌هایشان باقی بماند و بتوان دید که هرکدام چه سهمی در داستان بزرگ‌تر موسیقی ایران داشته‌اند.</p>
+        </>}
+      </section>
+      <section aria-labelledby="archive">
+        <h2 id="archive">{en ? 'An evolving archive' : 'آرشیوی که هنوز در حال شکل گرفتن است'}</h2>
+        {en ? <>
+          <p>Naghva brings together artist biographies, recordings, collaborations and performances. Release information, credits, interviews and artists’ own accounts help place the music in context. Listening links connect that history to the work itself.</p>
+          <p>AI helps us research and organize a growing amount of material and prepare drafts. Claims are checked against their sources, with references available to readers. The archive is still growing, and there are gaps and mistakes to find and correct.</p>
+          <p>The aim is to make this music easier to discover and its history easier to access, both for listeners today and for people looking back years from now.</p>
+        </> : <>
+          <p>نغوا زندگی‌نامهٔ هنرمندان، آثار ضبط‌شده، همکاری‌ها و اجراهایشان را کنار هم می‌آورد. اطلاعات انتشار، نام و نقش دست‌اندرکاران، مصاحبه‌ها و گفته‌های خود هنرمندان کمک می‌کنند هر اثر را در بسترش بشناسیم. پیوندهای شنیدن هم این تاریخ را به خود موسیقی وصل می‌کنند.</p>
+          <p>هوش مصنوعی در پژوهش، سامان دادن به مطالبی که پیوسته بیشتر می‌شوند و تهیهٔ پیش‌نویس‌ها به ما کمک می‌کند. اطلاعات با منابعشان بررسی می‌شوند و خوانندگان هم به ارجاع‌ها دسترسی دارند. این آرشیو هنوز در حال رشد است؛ جاهای خالی و اشتباه‌هایی دارد که باید پیدا و اصلاح شوند.</p>
+          <p>هدف این است که کشف این موسیقی و دسترسی به تاریخش آسان‌تر شود؛ هم برای شنوندگان امروز و هم برای کسانی که سال‌ها بعد به آن رجوع می‌کنند.</p>
+        </>}
+      </section>
+      <nav class="about-links" aria-label={en ? 'Explore Naghva' : 'گشت‌وگذار در نغوا'}>
+        <a class="text-link" href={url(lang, 'artists')}>{t.browse.allArtists}</a>
+        <a class="text-link" href={url(lang, 'timeline')}>{t.timeline}</a>
+      </nav>
+    </article>
+  </main>
+</Page>

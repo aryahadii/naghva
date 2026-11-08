@@ -1,0 +1,43 @@
+---
+import { textAttrs } from '../lib/html';
+import { imageOf, PHOTO_WIDTHS, sizeOf } from '../lib/images';
+import { nameOf, url, type Item, type Lang } from '../lib/record';
+import RemoteImage from './RemoteImage.astro';
+
+interface Props {
+  artist: Item;
+  lang: Lang;
+}
+const { artist, lang } = Astro.props;
+const name = nameOf(artist, lang);
+const destination = url(lang, artist.page);
+const image = imageOf(artist, 'image', PHOTO_WIDTHS);
+const size = image && await sizeOf(image.url);
+const photo = size && image;
+---
+
+<a class="explore-artist" href={destination}>
+  <span class="explore-photo" aria-hidden="true">
+    {photo && (
+      <RemoteImage
+        picture={photo}
+        sizes="(max-width: 760px) calc((100vw - 56px) / 2), min(33vw, 421px)"
+        width={size.width}
+        height={size.height}
+        alt=""
+        loading="lazy"
+        decoding="async"
+      />
+    )}
+  </span>
+  <span class="explore-name" {...textAttrs(name, lang)}>{name.text}</span>
+</a>
+
+<script>
+  // Keep the name card readable if a remote host stops serving its photograph.
+  for (const image of document.querySelectorAll<HTMLImageElement>('.explore-photo img')) {
+    const hide = () => { if (!image.dataset.originalSrc) image.hidden = true; };
+    image.addEventListener('error', hide);
+    if (image.complete && !image.naturalWidth) hide();
+  }
+</script>

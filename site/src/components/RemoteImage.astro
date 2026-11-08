@@ -1,0 +1,32 @@
+---
+import type { HTMLAttributes } from 'astro/types';
+import type { Picture } from '../lib/images';
+
+interface Props extends Omit<HTMLAttributes<'img'>, 'src' | 'srcset'> {
+  picture: Picture;
+}
+const { picture, ...attributes } = Astro.props;
+---
+
+<img {...attributes} src={picture.src} srcset={picture.srcset} data-original-src={picture.fallback} />
+
+<script>
+  // If Naghva's own copy fails, try the publisher's once. Existing photo
+  // fallbacks still handle a failed publisher image. Capture also covers images cloned
+  // into release dialogs after the page's scripts have run.
+  const restore = (image: HTMLImageElement, event?: Event) => {
+    const original = image.dataset.originalSrc;
+    if (!original) return;
+    event?.stopImmediatePropagation();
+    delete image.dataset.originalSrc;
+    image.removeAttribute('srcset');
+    image.removeAttribute('sizes');
+    image.src = original;
+  };
+  document.addEventListener('error', (event) => {
+    if (event.target instanceof HTMLImageElement) restore(event.target, event);
+  }, true);
+  for (const image of document.querySelectorAll<HTMLImageElement>('img[data-original-src]')) {
+    if (image.complete && !image.naturalWidth) restore(image);
+  }
+</script>

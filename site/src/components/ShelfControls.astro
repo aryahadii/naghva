@@ -1,0 +1,20 @@
+---
+import { strings } from '../lib/i18n';
+import type { Lang } from '../lib/record';
+
+/** Arrows for a row that scrolls sideways; shown only when the row overflows. */
+interface Props {
+  shelf: string;
+  lang: Lang;
+  /** The row starts at the newest, so going forward goes back in time. */
+  newestFirst?: boolean;
+}
+const { shelf, lang, newestFirst = false } = Astro.props;
+const t = strings(lang).artist;
+const [back, forward] = newestFirst ? [t.later, t.earlier] : [t.earlier, t.later];
+---
+
+<div class="shelf-controls needs-js" data-shelf={shelf} hidden>
+  <button type="button" class="shelf-button" data-step="-1" aria-label={back}><svg viewBox="0 0 16 16" aria-hidden="true"><path d="M10 3 5 8l5 5" /></svg></button>
+  <button type="button" class="shelf-button" data-step="1" aria-label={forward}><svg viewBox="0 0 16 16" aria-hidden="true"><path d="m6 3 5 5-5 5" /></svg></button>
+</div>

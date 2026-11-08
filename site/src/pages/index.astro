@@ -1,0 +1,54 @@
+---
+import '../styles/tokens.css';
+import '../styles/base.css';
+import { strings } from '../lib/i18n';
+import { isolate } from '../lib/html';
+import GoogleSiteVerification from '../components/GoogleSiteVerification.astro';
+import { siteJsonLd } from '../lib/jsonld';
+
+/** `/` opens the language the visitor used last, otherwise their browser's; without scripts it links both. */
+const en = strings('en');
+const fa = strings('fa');
+const at = (path: string) => new URL(path, Astro.site).href;
+---
+
+<!doctype html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta name="theme-color" content="#15171c" />
+    <GoogleSiteVerification />
+    <title>{en.siteName} · {fa.siteName}</title>
+    <meta name="description" content={en.homeDescription} />
+    <meta property="og:site_name" content={en.siteName} />
+    <link rel="canonical" href={at('/')} />
+    <script type="application/ld+json" set:html={JSON.stringify(siteJsonLd('en', Astro.site!)).replace(/</g, '\\u003c')} />
+    <link rel="alternate" hreflang="en" href={at('/en/')} />
+    <link rel="alternate" hreflang="fa" href={at('/fa/')} />
+    <link rel="alternate" hreflang="x-default" href={at('/')} />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" sizes="any" />
+    <link rel="icon" href="/favicon.png" type="image/png" sizes="96x96" />
+    <script>
+      import '../scripts/redirect';
+    </script>
+  </head>
+  <body>
+    <main class="choose wrap" id="content">
+      <h1>{en.siteName} · <span lang="fa" dir="rtl">{fa.siteName}</span></h1>
+      <p lang="en" set:html={isolate(en.homeAbout.intro, 'en')} />
+      <p lang="fa" dir="rtl" set:html={isolate(fa.homeAbout.intro, 'fa')} />
+      <div class="languages">
+        <a class="pill" href="/en/" hreflang="en" lang="en">{en.siteName}: English</a>
+        <a class="pill language" href="/fa/" hreflang="fa" lang="fa" dir="rtl">{fa.siteName}: فارسی</a>
+      </div>
+    </main>
+  </body>
+</html>
+
+<style>
+  .choose { max-width: 740px; display: grid; gap: 24px; padding-block: clamp(48px, 15vh, 160px) }
+  .choose h1 { text-align: center }
+  .choose p { color: var(--ivory-2) }
+  .languages { display: flex; flex-wrap: wrap; justify-content: center; gap: 16px }
+</style>
