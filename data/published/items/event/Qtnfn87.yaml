@@ -1,0 +1,47 @@
+id: Qtnfn87
+type: event
+statements:
+  name:
+  - value:
+      text: Dawn, The Transition (Live Performance)
+      language: en
+    references:
+    - source: ra.co-events-2225650-ff279d685393
+      quote: Dawn, The Transition (Live Performance)
+      accessed: '2026-11-06'
+  - value:
+      text: Dawn, The Transition (Live Performance), Studio dB, Berlin
+      language: en
+    rank: preferred
+    references:
+    - source: ra.co-events-2225650-ff279d685393
+      quote: Dawn, The Transition (Live Performance)
+      accessed: '2026-11-06'
+    - source: ra.co-events-2225650-ff279d685393
+      quote: Studio dB
+      accessed: '2026-11-06'
+  - value:
+      text: کوارتت صنم معروف‌خانی، استودیو دی‌بی، برلین
+      language: fa
+    editorial: true
+    references:
+    - source: ra.co-events-2225650-ff279d685393
+      quote: Sanam Maroufkhani Quartet (Band)
+      accessed: '2026-11-06'
+  event date:
+  - value:
+      date: '2025-08-21'
+    references:
+    - source: ra.co-events-2225650-ff279d685393
+      quote: Thu, Aug 21, 2025
+      accessed: '2026-11-06'
+  performer:
+  - value: Qa84h2k
+    references:
+    - source: ra.co-events-2225650-ff279d685393
+      quote: Sanam Maroufkhani Quartet (Band)
+      accessed: '2026-11-06'
+    qualifiers:
+      credited as:
+        text: Sanam Maroufkhani Quartet
+        language: en

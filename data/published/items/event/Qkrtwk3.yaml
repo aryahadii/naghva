@@ -1,0 +1,44 @@
+id: Qkrtwk3
+type: event
+statements:
+  name:
+  - value:
+      text: Mahala, Popronde, Kim's Kroeg, Tilburg
+      language: en
+    editorial: true
+    references:
+    - source: popronde.nl-profiel-37042-38854fb29557
+      quote: 01.10.26 Tilburg, Kim's Kroeg
+      accessed: '2026-11-06'
+  - value:
+      text: ماهالا در پاپ‌رونده، تیلبورخ
+      language: fa
+    editorial: true
+    references:
+    - source: popronde.nl-profiel-37042-38854fb29557
+      quote: 01.10.26 Tilburg, Kim's Kroeg
+      accessed: '2026-11-06'
+  event date:
+  - value:
+      date: '2026-10-01'
+    references:
+    - source: popronde.nl-profiel-37042-38854fb29557
+      quote: 01.10.26 Tilburg, Kim's Kroeg
+      accessed: '2026-11-06'
+  performer:
+  - value: Qp28c86
+    references:
+    - source: popronde.nl-profiel-37042-38854fb29557
+      quote: 01.10.26 Tilburg, Kim's Kroeg
+      accessed: '2026-11-06'
+  - value: Qa84h2k
+    references:
+    - source: 3voor12lokaal.vpro.nl-artikelen-popronde-tilburg-tovert-binnenstad-om-tot-muzikale-proeverij-ef8ccc42f110
+      quote: |-
+        Zangeres Sanam Maroufkhani zingt eerst nog best bescheiden in een
+        schemerhoekje van het podium.
+      accessed: '2026-10-25'
+    qualifiers:
+      role:
+      - vocals
+      - piano

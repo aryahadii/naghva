@@ -6,16 +6,12 @@ language: de
 publisher: Kölnische Rundschau
 ---
 
-## Follow-up research, 2026-10-15
+> die Singer-Songwriterin Sanam Maroufkhani
 
 > und ihrer eigenen Klavierbegleitung umspielt wurde.
 
-Read 2026-10-15 UTC (continuing after midnight 2026-10-16 CEST). Locator: direct HTTP public article body, Sanam paragraph under Ein Konzert mit vielfältigem Stilmix; web open failed but HTTP body readable.
-
-dated September 28 2026, 17:56, the review describes the preceding Saturday’s Female Voices of Resilience concert at Kölner Philharmonie and explicitly describes Sanam singing with her own piano accompaniment. This supplies performance outcome evidence beyond advance listings. It discusses Inner Unity Ensemble/Mahan Mirarab and conductor Juya Shin. No separate original composition authorship is inferred from criticism.
-
-## Context checked 2026-10-21
-
-> die Singer-Songwriterin Sanam Maroufkhani
-
-The same sentence continues with the already captured phrase «und ihrer eigenen Klavierbegleitung umspielt wurde.» Public article body under «Ein Konzert mit vielfältigem Stilmix», read2026-10-21; dated28September2026,17:56. Confirms her own piano accompaniment; no extra instrument or authorship inferred.
+Concert review, section «Ein Konzert mit vielfältigem Stilmix», read
+2026-10-15 and 2026-10-21; dated 28 September 2026, 17:56. It reports the
+preceding Saturday's Female Voices of Resilience concert at the Kölner
+Philharmonie and describes Sanam singing to her own piano accompaniment: an
+account of the performance, not only an advance listing.

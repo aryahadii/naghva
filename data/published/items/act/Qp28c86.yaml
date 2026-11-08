@@ -1,0 +1,45 @@
+id: Qp28c86
+type: act
+statements:
+  name:
+  - value:
+      text: Mahala
+      language: en
+    references:
+    - source: writteninmusic.com-concertverslag-even-zweven-rond-esther-koolstras-muzikale-stralende-nachtzon-65882b6fbbbe
+      quote: Mahala
+      accessed: '2026-10-25'
+    - source: www.voordekunst.nl-projecten-20109-mahala-debut-ep-e090acf78d2b
+      quote: we came to the Conservatory of Amsterdam, and found each other there.
+      accessed: '2026-10-25'
+  - value:
+      text: ماهالا
+      language: fa
+    editorial: true
+    references:
+    - source: writteninmusic.com-concertverslag-even-zweven-rond-esther-koolstras-muzikale-stralende-nachtzon-65882b6fbbbe
+      quote: Mahala
+      accessed: '2026-10-25'
+  life event:
+  - value:
+      text: |-
+        we came to the Conservatory of Amsterdam, and found each other there.
+      language: en
+    references:
+    - source: www.voordekunst.nl-projecten-20109-mahala-debut-ep-e090acf78d2b
+      quote: we came to the Conservatory of Amsterdam, and found each other there.
+      accessed: '2026-10-25'
+  - value:
+      text: |-
+        Het was aan Mahala om de avond te starten.
+      language: nl
+    references:
+    - source: www.grap.net-kram-wint-amsterdamse-popprijs-2025
+      quote: Het was aan Mahala om de avond te starten.
+      accessed: '2026-11-06'
+    - source: www.grap.net-kram-wint-amsterdamse-popprijs-2025
+      quote: in de Melkweg!
+      accessed: '2026-11-06'
+    qualifiers:
+      point in time:
+      - date: '2025-11'
