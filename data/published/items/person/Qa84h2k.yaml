@@ -42,6 +42,20 @@ statements:
       quote: صنم معروف‌خانی که در سال ۱۳۷۵ در تهران زاده شده پیانیست و ترانه‌سرا، خواننده و همچنین آهنگساز
         است.
       accessed: '2026-10-19'
+  member of:
+  - value: Qp28c86
+    references:
+    - source: writteninmusic.com-concertverslag-even-zweven-rond-esther-koolstras-muzikale-stralende-nachtzon-65882b6fbbbe
+      quote: Sanam was ook in deze band de leadzangeres
+      accessed: '2026-10-25'
+    - source: 3voor12lokaal.vpro.nl-artikelen-popronde-tilburg-tovert-binnenstad-om-tot-muzikale-proeverij-ef8ccc42f110
+      quote: |-
+        Zangeres Sanam Maroufkhani zingt eerst nog best bescheiden in een
+        schemerhoekje van het podium.
+      accessed: '2026-10-25'
+    qualifiers:
+      role:
+      - vocals
   life event:
   - value:
       text: |-
@@ -117,6 +131,67 @@ statements:
     qualifiers:
       point in time:
       - date: '2025-06-03'
+  - value:
+      text: |-
+        من را روی پله‌های خانه می‌نشاند و با من موسیقی تمرین می‌کرد.
+      language: fa
+    references:
+    - source: www.sabazavarei.com-radio-khiaban-sanammaroufkhani-pdf-01e7a95d9a2d
+      quote: من را روی پله‌های خانه می‌نشاند و با من موسیقی تمرین می‌کرد.
+      accessed: '2026-11-06'
+      locator: ص. ۳۲
+  - value:
+      text: |-
+        در کنسرواتوار آمستردام مشغول تحصیل است
+      language: fa
+    references:
+    - source: www.radiozamaneh.com-816521-6cf87e474e62
+      quote: در کنسرواتوار آمستردام مشغول تحصیل است
+      accessed: '2026-11-06'
+    qualifiers:
+      point in time:
+      - date: '1403-02-20'
+        calendar: jalali
+  - value:
+      text: |-
+        Música: Sogand Soheili, Reza Bahram, Sanam Maroufkhani.
+      language: es
+    references:
+    - source: www.huesca-filmfestival.com-descargas-fich2021-catalogo-oficial-web.pdf-9a1b6710e993
+      quote: |-
+        Música: Sogand Soheili, Reza Bahram, Sanam Maroufkhani.
+      accessed: '2026-10-21'
+      locator: p. 100
+    qualifiers:
+      point in time:
+      - date: '2021'
+  - value:
+      text: |-
+        تو یه سری کافه می‌رفتم اجرا
+      language: fa
+    references:
+    - source: www.youtube.com-watch-v-f2dialyonrw
+      quote: تو یه سری کافه می‌رفتم اجرا
+      accessed: '2026-11-08'
+      locator: '11:09'
+  - value:
+      text: |-
+        من تا مدتی خیلی طولانی فقط انگلیسی کار کردم
+      language: fa
+    references:
+    - source: www.youtube.com-watch-v-f2dialyonrw
+      quote: من تا مدتی خیلی طولانی فقط انگلیسی کار کردم
+      accessed: '2026-11-08'
+      locator: '25:07'
+  - value:
+      text: |-
+        به صورت پارت‌تایم توی یه باری اجرا می‌کردم
+      language: fa
+    references:
+    - source: www.youtube.com-watch-v-f2dialyonrw
+      quote: به صورت پارت‌تایم توی یه باری اجرا می‌کردم
+      accessed: '2026-11-08'
+      locator: '35:43'
   image:
   - value: https://www.salam-music.at/wp-content/uploads/Sanam-Maroufkhani_.jpg
     references:

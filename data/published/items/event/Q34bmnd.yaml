@@ -1,0 +1,42 @@
+id: Q34bmnd
+type: event
+statements:
+  name:
+  - value:
+      text: GOLSA live in Berlin
+      language: en
+    references:
+    - source: www.tickettailor.com-events-futureevents-1281800
+      quote: GOLSA live in Berlin
+      accessed: '2026-11-08'
+  - value:
+      text: GOLSA live in Berlin, Nachtvogel
+      language: en
+    rank: preferred
+    references:
+    - source: www.tickettailor.com-events-futureevents-1281800
+      quote: GOLSA live in Berlin
+      accessed: '2026-11-08'
+    - source: www.tickettailor.com-events-futureevents-1281800
+      quote: nachtvogel, Oranienstraße 39, 10999 Berlin
+      accessed: '2026-11-08'
+  - value:
+      text: اجرای گلسا برای اولین بار در برلین
+      language: fa
+    references:
+    - source: www.tickettailor.com-events-futureevents-1281800
+      quote: اجرای گلسا برای اولین بار در برلین
+      accessed: '2026-11-08'
+  event date:
+  - value:
+      date: '2024-06-15'
+    references:
+    - source: www.tickettailor.com-events-futureevents-1281800
+      quote: Sat Jun 15, 2024 8:00 PM - 10:00 PM
+      accessed: '2026-11-08'
+  performer:
+  - value: Qh745pn
+    references:
+    - source: www.tickettailor.com-events-futureevents-1281800
+      quote: GOLSA live in Berlin
+      accessed: '2026-11-08'

@@ -13,11 +13,13 @@ it. A booking. The description is the only source found so far that says she
 had moved to Paris; it is the venue's wording, dated by the event, and needs
 a second source before the record states where she lives.
 
+> KEL LIVE&CLUB (techno, jazz, house, uk garage)
+
 > 18 oct. 2025, 20:00 – 19 oct. 2025, 05:00
 
 > Golsa (Live) 21h
 
-Date and line-up, read 2026-11-08.
+Title, date and line-up, read 2026-11-08.
 
 > Chanteuse iranienne de jazz récemment installée à Paris
 

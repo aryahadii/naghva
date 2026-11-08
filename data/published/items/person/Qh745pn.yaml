@@ -34,6 +34,14 @@ statements:
       quote: |-
         Golsa Rahimzamani
       accessed: '2026-10-21'
+  birth date:
+  - value:
+      date: 1995~
+    references:
+    - source: www.youtube.com-watch-v-myapsmogsko-14a19adb1d1b
+      quote: من بیست و هشت سالمه الان
+      accessed: '2026-11-08'
+      locator: '07:05'
   member of:
   - value: Qh8kr34
     references:
@@ -51,6 +59,59 @@ statements:
         Golsa is an Iranian Singer and Songwriter Based in Tehran. Her voice reminisces of old Iranian pop stars. In part of different projects such as "Rameshgar band" and the "Bah Bah quartet", she fuses pop, jazz, and indie to create her unique sound.
       accessed: '2026-10-21'
   life event:
+  - value:
+      text: |-
+        یه یارویی داشت کنار اسکله گیتار می‌زد و می‌خوند
+      language: fa
+    references:
+    - source: www.youtube.com-watch-v-myapsmogsko-14a19adb1d1b
+      quote: یه یارویی داشت کنار اسکله گیتار می‌زد و می‌خوند
+      accessed: '2026-11-08'
+      locator: '05:11'
+  - value:
+      text: |-
+        مدیرمون اومد این برقشو قطع کرد
+      language: fa
+    references:
+    - source: www.youtube.com-watch-v-myapsmogsko-14a19adb1d1b
+      quote: مدیرمون اومد این برقشو قطع کرد
+      accessed: '2026-11-08'
+      locator: '10:04'
+    qualifiers:
+      point in time:
+      - date: '1388~'
+        calendar: jalali
+  - value:
+      text: |-
+        من ورودی نود و دو بودم
+      language: fa
+    references:
+    - source: www.youtube.com-watch-v-myapsmogsko-14a19adb1d1b
+      quote: من ورودی نود و دو بودم
+      accessed: '2026-11-08'
+      locator: '11:05'
+    qualifiers:
+      point in time:
+      - date: '1392'
+        calendar: jalali
+  - value:
+      text: |-
+        یکی از دوستامون می‌خواست apply کنه بره کانادا
+      language: fa
+    references:
+    - source: www.youtube.com-watch-v-myapsmogsko-14a19adb1d1b
+      quote: یکی از دوستامون می‌خواست apply کنه بره کانادا
+      accessed: '2026-11-08'
+      locator: '14:15'
+  - value:
+      text: |-
+        یه پیج جدید باز کردم و گفتم که خب این برای کارای موزیکم فقط
+      language: fa
+    references:
+    - source: www.youtube.com-watch-v-myapsmogsko-14a19adb1d1b
+      quote: یه پیج جدید باز کردم و گفتم که خب این برای کارای موزیکم فقط
+      accessed: '2026-11-08'
+      locator: '18:55'
   - value:
       text: |-
         بازیگران و خواننده جدید "بینوایان" معرفی شدند
@@ -113,13 +174,59 @@ statements:
     qualifiers:
       about:
       - Q7msts8
+  - value:
+      text: |-
+        The latest to be affected is Golsa Rahim-Zamani, an Iranian singer known
+        for sharing her performances online.
+      language: en
+    references:
+    - source: www.iranintl.com-en-202503113164
+      quote: |-
+        The latest to be affected is Golsa Rahim-Zamani, an Iranian singer known
+        for sharing her performances online.
+      accessed: '2026-11-08'
+    qualifiers:
+      point in time:
+      - date: '2025-03'
+  - value:
+      text: |-
+        Among them is Golsa Rahimzamani, whose Instagram account was banned
+        following an order by Iran's Cyber Police.
+      language: en
+    references:
+    - source: www.rferl.org-a-iran-women-singers-crackdown-rights-33346815
+      quote: |-
+        Among them is Golsa Rahimzamani, whose Instagram account was banned
+        following an order by Iran's Cyber Police.
+      accessed: '2026-11-08'
+  - value:
+      text: |-
+        Chanteuse iranienne de jazz récemment installée à Paris
+      language: fr
+    references:
+    - source: www.alimentation-generale.net-events-kel-live-club-techno-jazz-house-uk-garage
+      quote: Chanteuse iranienne de jazz récemment installée à Paris
+      accessed: '2026-11-08'
+    qualifiers:
+      point in time:
+      - date: '2025-10'
+  - value:
+      text: |-
+        اجرای گلسا برای اولین بار در برلین
+      language: fa
+    references:
+    - source: www.tickettailor.com-events-futureevents-1281800
+      quote: اجرای گلسا برای اولین بار در برلین
+      accessed: '2026-11-08'
+    qualifiers:
+      point in time:
+      - date: '2024-06-15'
   profile link:
   - value: https://open.spotify.com/artist/5xy1wyKK6gsbVSDEaIwMUy
     references:
-    - source: beehy.pe-golsa-por-kon-iran-637f84bf2027
-      quote: |-
-        “Por Kon” (“Fill up!”) by Golsa, a young jazz-soul singer on vocals
-      accessed: '2026-10-21'
+    - source: linktr.ee-golsarz
+      quote: https://open.spotify.com/artist/5xy1wyKK6gsbVSDEaIwMUy
+      accessed: '2026-11-08'
   - value: https://golsarz.bandcamp.com/
     references:
     - source: golsarz.bandcamp.com-49143548751b
