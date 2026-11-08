@@ -8,28 +8,104 @@ references:
     source: korsi.online-artists-golsa-rahimzamani-3ddc05350c4d
     quote: Golsa is a musician and songwriter from Tehran, blending jazz, soul, and Iranian sounds
     accessed: '2026-10-21'
-  projects:
-    source: refugeworldwide.com-artists-golsa-a50815a4b652
-    quote: Golsa is an Iranian Singer and Songwriter Based in Tehran. Her voice reminisces of old Iranian pop stars. In part of different projects such as "Rameshgar band" and the "Bah Bah quartet", she fuses pop, jazz, and indie to create her unique sound.
-    accessed: '2026-10-21'
-  poet-cover:
-    source: soundcloud.com-golsarz-the-poet-feat-mohammad-moussavi-17c1b7f2f4d5
-    quote: بازسازی مجدد ما از قطعه شاعر اثر مارتیک خلاق و گوگوش بزرگوار با ترانه‌‌ای از زویا زاکاریان را بشنوید.
-    accessed: '2026-10-21'
-  sayeh-writing:
-    source: golsarz.bandcamp.com-track-golsa-sayeh-feat-pozx-91bf4f6e160b
-    quote: |-
-      Music and lyrics: Golsa Rahimzamani
-      Produced by: Pooria Falamarzian
-    accessed: '2026-10-21'
+  age:
+    source: www.youtube.com-watch-v-myapsmogsko-14a19adb1d1b
+    quote: من بیست و هشت سالمه الان
+    accessed: '2026-11-08'
+    locator: 07:05
+  instagram-friends:
+    source: www.youtube.com-watch-v-myapsmogsko-14a19adb1d1b
+    quote: همه دوستای موزیسینی که پیدا کردم اینا همش از طریق اینستا بود
+    accessed: '2026-11-08'
+    locator: '20:04'
+  poet-online:
+    source: www.youtube.com-watch-v-myapsmogsko-14a19adb1d1b
+    quote: کامل شد track بعد مثلا تازه همو دیدیم
+    accessed: '2026-11-08'
+    locator: '23:52'
   vol-iii:
     source: golsarz.bandcamp.com-album-golsa-vol-iii-626012d7c671
     quote: a four-track EP including the tunes that Golsa has recorded with her friends throughout the past two years.
     accessed: '2026-10-21'
-  ayandeh:
-    source: soundcloud.com-golsarz-ayandeh-golsa-feat-taha-231c9a71579a
-    quote: 'Guitar , Songwriting , Production : Taha Mazaheri'
+  vol-date:
+    source: golsarz.bandcamp.com-album-golsa-vol-iii-626012d7c671
+    quote: released May 6, 2022
     accessed: '2026-10-21'
+  rameshgar-band:
+    source: www.youtube.com-watch-v-myapsmogsko-14a19adb1d1b
+    quote: رامشگر که تازه‌ست، نی‌نیه، تازه چند ماهشه
+    accessed: '2026-11-08'
+    locator: '34:49'
+  rameshgar:
+    source: music.apple.com-us-album-ey-la-morovvat-feat-mehrdad-mcy-hamed-hamidzadeh-farid-6814708860-c21c557d2d59
+    quote: 'Listen to Rameshgar (feat. Hamed Hamidzadeh, Mehrdad Mcy & Farid Farzianpour) by Golsa & Taha Mazaheri on Apple Music. 2026. 7 Songs. Duration: 32 minutes.'
+    accessed: '2026-10-21'
+  paris-2024:
+    source: www.parisjazzclub.net-fr-91095-concert-2024-05-11-golsa-et-sardar-sarmast
+    quote: Golsa & Sardar Sarmast
+    accessed: '2026-11-08'
+  berlin-2024:
+    source: www.tickettailor.com-events-futureevents-1281800
+    quote: اجرای گلسا برای اولین بار در برلین
+    accessed: '2026-11-08'
+  block-iranintl:
+    source: www.iranintl.com-en-202503113164
+    quote: The latest to be affected is Golsa Rahim-Zamani, an Iranian singer known for sharing her performances online.
+    accessed: '2026-11-08'
+  block-rferl:
+    source: www.rferl.org-a-iran-women-singers-crackdown-rights-33346815
+    quote: Among them is Golsa Rahimzamani, whose Instagram account was banned following an order by Iran's Cyber Police.
+    accessed: '2026-11-08'
+  pier:
+    source: www.youtube.com-watch-v-myapsmogsko-14a19adb1d1b
+    quote: یه یارویی داشت کنار اسکله گیتار می‌زد و می‌خوند
+    accessed: '2026-11-08'
+    locator: 05:11
+  father-guitar:
+    source: www.youtube.com-watch-v-myapsmogsko-14a19adb1d1b
+    quote: چند وقت بعدش بابام یه روز با گیتار اومد
+    accessed: '2026-11-08'
+    locator: 05:42
+  mic:
+    source: www.youtube.com-watch-v-myapsmogsko-14a19adb1d1b
+    quote: مدیرمون اومد این برقشو قطع کرد
+    accessed: '2026-11-08'
+    locator: '10:04'
+  university:
+    source: www.youtube.com-watch-v-myapsmogsko-14a19adb1d1b
+    quote: من ورودی نود و دو بودم
+    accessed: '2026-11-08'
+    locator: '11:05'
+  basement:
+    source: www.youtube.com-watch-v-myapsmogsko-14a19adb1d1b
+    quote: یه زیرزمینی بود توی مثلاً معاونت فرهنگیش
+    accessed: '2026-11-08'
+    locator: '11:31'
+  basement-singing:
+    source: www.youtube.com-watch-v-myapsmogsko-14a19adb1d1b
+    quote: خوندن و اینا که اصلاً فقط تو اون زیرزمینه می‌شد بخونی
+    accessed: '2026-11-08'
+    locator: '12:15'
+  cafe:
+    source: www.youtube.com-watch-v-myapsmogsko-14a19adb1d1b
+    quote: یکی از دوستامون می‌خواست apply کنه بره کانادا
+    accessed: '2026-11-08'
+    locator: '14:15'
+  ukulele:
+    source: www.youtube.com-watch-v-myapsmogsko-14a19adb1d1b
+    quote: این یوکلله رو برام گرفتن برای تولدم
+    accessed: '2026-11-08'
+    locator: '18:24'
+  page:
+    source: www.youtube.com-watch-v-myapsmogsko-14a19adb1d1b
+    quote: یه پیج جدید باز کردم و گفتم که خب این برای کارای موزیکم فقط
+    accessed: '2026-11-08'
+    locator: '18:55'
+  banafsh:
+    source: www.youtube.com-watch-v-myapsmogsko-14a19adb1d1b
+    quote: گروه بنفشم گروه پیمان بود
+    accessed: '2026-11-08'
+    locator: '21:14'
   theatre-date:
     source: www.honaronline.ir-fa-tiny-news-125858-1bdf7df93387
     quote: ۱۳۹۷/۰۸/۰۵
@@ -42,20 +118,29 @@ references:
     source: www.honaronline.ir-fa-tiny-news-125858-1bdf7df93387
     quote: در نقش‌های مختلف، قطعات آوزای این نمایش موزیکال را اجرا می‌کنند.
     accessed: '2026-10-21'
+  arash:
+    source: www.youtube.com-watch-v-myapsmogsko-14a19adb1d1b
+    quote: این دیدو به من داد آرش که تو می‌تونی اون کاوره رو برای خودت بکنی
+    accessed: '2026-11-08'
+    locator: '22:03'
   poet-date:
     source: music.apple.com-us-album-the-poet-feat-golsa-single-1581122867-7ac78fe8bfc0
     quote: '"datePublished":"2020-03-14"'
     accessed: '2026-10-19'
-  poet:
+  poet-cover:
     source: soundcloud.com-golsarz-the-poet-feat-mohammad-moussavi-17c1b7f2f4d5
-    quote: |-
-      وُکال: گلسا رحیم زمانی، محمد موسوی
-      گیتار: محمد موسوی
+    quote: بازسازی مجدد ما از قطعه شاعر اثر مارتیک خلاق و گوگوش بزرگوار با ترانه‌‌ای از زویا زاکاریان را بشنوید.
     accessed: '2026-10-21'
   sayeh-date:
     source: music.apple.com-us-album-sayeh-feat-pozx-single-1589662871-f3d84669d7b6
     quote: '"datePublished":"2020-12-22"'
     accessed: '2026-10-19'
+  sayeh-writing:
+    source: golsarz.bandcamp.com-track-golsa-sayeh-feat-pozx-91bf4f6e160b
+    quote: 'Music and lyrics: Golsa Rahimzamani
+
+      Produced by: Pooria Falamarzian'
+    accessed: '2026-10-21'
   por-kon-date:
     source: behzaddanesh.bandcamp.com-track-por-kon-71e7655320b9
     quote: released March 20, 2021
@@ -64,32 +149,52 @@ references:
     source: beehy.pe-golsa-por-kon-iran-637f84bf2027
     quote: “Por Kon” (“Fill up!”) by Golsa, a young jazz-soul singer on vocals and Behzad Danesh, Iranian-Canadian jazz musician and guitar player, composer and producer, is an electro-jazzy approach to the ancient poem while trying to be loyal to the idea of the poet.
     accessed: '2026-10-21'
-  por-kon-credits:
-    source: soundcloud.com-golsarz-golsa-feat-behzad-danesh-por-kon-71e4a80624dc
-    quote: |-
-      Behzad Danesh (Music and Producing)https://linktr.ee/Behzaddanesh
-      Golsa  (Vocals)
-    accessed: '2026-10-21'
   por-kon-origin:
     source: behzaddanesh.bandcamp.com-track-por-kon-71e7655320b9
     quote: در ابتدا از حامد عبدی تشکر میکنیم که هم ترجمه دقیقش را بی منت در اختیار ما قرار داد و هم سخنرانی اش در تداکس تهران باعث و بانی تولدِ این موسیقی شد.
     accessed: '2026-11-03'
-  vol-date:
-    source: golsarz.bandcamp.com-album-golsa-vol-iii-626012d7c671
-    quote: released May 6, 2022
+  projects:
+    source: refugeworldwide.com-artists-golsa-a50815a4b652
+    quote: Golsa is an Iranian Singer and Songwriter Based in Tehran. Her voice reminisces of old Iranian pop stars. In part of different projects such as "Rameshgar band" and the "Bah Bah quartet", she fuses pop, jazz, and indie to create her unique sound.
     accessed: '2026-10-21'
-  sargashteh:
-    source: aasoo.org-fa-podcast-4783-2af79eea546e
-    quote: 'سرگشته/ آهنگساز و خواننده: گلسا'
-    accessed: '2026-10-21'
+  bahbah:
+    source: www.youtube.com-watch-v-myapsmogsko-14a19adb1d1b
+    quote: اون ورژن اولی به به فقط من و بهزاد و سردار و سالار بودیم
+    accessed: '2026-11-08'
+    locator: '26:44'
+  sardar-jazz:
+    source: www.youtube.com-watch-v-myapsmogsko-14a19adb1d1b
+    quote: من اینا رو خیلی از سردار یاد گرفتم
+    accessed: '2026-11-08'
+    locator: '48:22'
+  sargashteh-night:
+    source: www.youtube.com-watch-v-myapsmogsko-14a19adb1d1b
+    quote: یهو همون شب سرگشته رو ساختم
+    accessed: '2026-11-08'
+    locator: '27:59'
   sargashteh-production:
     source: golsarz.bandcamp.com-track-03-golsa-sargashteh-085cf2c0e2ba
     quote: Produce by Taha Mazaheri
     accessed: '2026-10-21'
+  ep-nowruz:
+    source: www.youtube.com-watch-v-myapsmogsko-14a19adb1d1b
+    quote: عید، عید releaseش کردم
+    accessed: '2026-11-08'
+    locator: '29:40'
   sepideh:
     source: golsarz.bandcamp.com-track-02-sepideh-dam-e78246b9d71d
     quote: This music is dedicated to 'Javad Yassari', the extra-popular singer from Iran.
     accessed: '2026-10-21'
+  criticism:
+    source: www.youtube.com-watch-v-myapsmogsko-14a19adb1d1b
+    quote: با یه سری انتقاد روبه‌رو شدم از همین جامعه‌ی مثلا موزیسینی
+    accessed: '2026-11-08'
+    locator: '37:02'
+  own-words:
+    source: www.youtube.com-watch-v-myapsmogsko-14a19adb1d1b
+    quote: یه چیزی از درونم می‌خواد بریزه بیرون که حرفای منه
+    accessed: '2026-11-08'
+    locator: '40:23'
   ayandeh-date:
     source: music.apple.com-us-album-ayandeh-feat-taha-mazaheri-single-1697906184-704ec74a4ac4
     quote: '"datePublished":"2023-07-16"'
@@ -98,35 +203,98 @@ references:
     source: soundcloud.com-golsarz-ayandeh-golsa-feat-taha-231c9a71579a
     quote: 'Vocals , Words : Golsa'
     accessed: '2026-10-21'
+  ayandeh:
+    source: soundcloud.com-golsarz-ayandeh-golsa-feat-taha-231c9a71579a
+    quote: 'Guitar , Songwriting , Production : Taha Mazaheri'
+    accessed: '2026-10-21'
   refigh-date:
     source: music.apple.com-us-album-refigh-feat-taha-mazaheri-single-1766459185-4ee6a9d6e3cb
     quote: September 4, 2024
     accessed: '2026-10-20'
   refigh-writing:
     source: soundcloud.com-golsarz-refigh-b4ba23c624a3
-    quote: |-
-      "Refigh"
+    quote: '"Refigh"
+
 
       Vocals : Golsa
+
       Words : Golsa , Mehrdad Mcy , Taha Mazaheri
+
       Guitars and Production : Taha Mazaheri
+
       Piano : Sardar Sarmast
+
       Bass : Amid Bonakdar
+
       Drums : Sina Partovi
+
       Coverart : Terme Ziaei
+
       Recorded at "Studio 54" by Pouya Payvar
+
       Mix and Mastering : Reza Farhadi
 
-      Thanks to : Andisheh Music Studio, Mohammadali Nasri
+
+      Thanks to : Andisheh Music Studio, Mohammadali Nasri'
     accessed: '2026-10-25'
-  berlin-performance:
-    source: www.youtube.com-watch-v-kwlwivgvutc
-    quote: Golsa live in Berlin March 2025
-    accessed: '2026-11-03'
+  bubble:
+    source: www.youtube.com-watch-v-myapsmogsko-14a19adb1d1b
+    quote: ما توی یه حبابی هستیم که نه صدامون به جایی می‌رسه نه اونا می‌دونن ما هستیم
+    accessed: '2026-11-08'
+    locator: '44:43'
+  representative:
+    source: www.youtube.com-watch-v-myapsmogsko-14a19adb1d1b
+    quote: یه نماینده‌ای هم از ایران باشه که از این حبابه یکم بیاد بیرون
+    accessed: '2026-11-08'
+    locator: '45:26'
+  paris-2024-date:
+    source: www.parisjazzclub.net-fr-91095-concert-2024-05-11-golsa-et-sardar-sarmast
+    quote: Samedi 11 Mai 2024
+    accessed: '2026-11-08'
+  paris-2024-venue:
+    source: www.parisjazzclub.net-fr-91095-concert-2024-05-11-golsa-et-sardar-sarmast
+    quote: Le 360 Paris Music Factory
+    accessed: '2026-11-08'
+  berlin-2024-date:
+    source: www.tickettailor.com-events-futureevents-1281800
+    quote: Sat Jun 15, 2024 8:00 PM - 10:00 PM
+    accessed: '2026-11-08'
+  berlin-2024-venue:
+    source: www.tickettailor.com-events-futureevents-1281800
+    quote: nachtvogel, Oranienstraße 39, 10999 Berlin
+    accessed: '2026-11-08'
+  block-wave:
+    source: www.iranintl.com-en-202503113164
+    quote: blocking Instagram accounts belonging to multiple artists in recent days under judiciary orders.
+    accessed: '2026-11-08'
+  block-rferl-date:
+    source: www.rferl.org-a-iran-women-singers-crackdown-rights-33346815
+    quote: March 17, 2025
+    accessed: '2026-11-08'
   account:
     source: parsi.euronews.com-2025-04-09-crackdown-on-female-singers-in-iran-4a5323870c6a
     quote: صفحه اینستاگرام گلسا رحیم‌زمانی توسط پلیس امنیت اخلاقی توقیف و تمامی پست‌های او حذف شد.
     accessed: '2026-10-21'
+  berlin-performance:
+    source: www.youtube.com-watch-v-kwlwivgvutc
+    quote: Golsa live in Berlin March 2025
+    accessed: '2026-11-03'
+  nowruz-2025:
+    source: www.tickettailor.com-events-musicindiaspora1-1584709
+    quote: Persian New Year's Celebration with Habib Meftah & Golsa
+    accessed: '2026-11-08'
+  nowruz-2025-date:
+    source: www.tickettailor.com-events-musicindiaspora1-1584709
+    quote: Fri 21 Mar 2025 20:00 - 23:00 CET
+    accessed: '2026-11-08'
+  paris-move:
+    source: www.alimentation-generale.net-events-kel-live-club-techno-jazz-house-uk-garage
+    quote: Chanteuse iranienne de jazz récemment installée à Paris
+    accessed: '2026-11-08'
+  paris-move-date:
+    source: www.alimentation-generale.net-events-kel-live-club-techno-jazz-house-uk-garage
+    quote: 18 oct. 2025, 20:00 – 19 oct. 2025, 05:00
+    accessed: '2026-11-08'
   paris:
     source: www.parisjazzclub.net-en-102828-concert-2025-11-01-gaelito-rubis-ramadan-et-golsa-rahimzamani-722fc9cde951
     quote: Golsa Rahimzamani / vocals
@@ -139,6 +307,10 @@ references:
     source: www.berghain.berlin-de-events-81005-9b648b325eba
     quote: Golsa Rahimzamani Live
     accessed: '2026-10-21'
+  berlin-en:
+    source: www.berghain.berlin-en-event-81005
+    quote: Golsa Rahimzamani Live
+    accessed: '2026-11-08'
   berlin-date:
     source: www.berghain.berlin-de-events-81005-9b648b325eba
     quote: Donnerstag 18.12.2025 beginn 20:00
@@ -159,40 +331,50 @@ references:
     source: music.apple.com-us-song-tcheltcheleh-live-1891658765-f69859e9ee20
     quote: 'Listen to Tcheltcheleh (Live) by Arshid Azarine, Habib Meftah, Hervé De Ratuld, Nuria Rovira Salat & Golsa on Apple Music. 2026. Duration: 6:21'
     accessed: '2026-10-25'
-  rameshgar:
-    source: music.apple.com-us-album-ey-la-morovvat-feat-mehrdad-mcy-hamed-hamidzadeh-farid-6814708860-c21c557d2d59
-    quote: 'Listen to Rameshgar (feat. Hamed Hamidzadeh, Mehrdad Mcy & Farid Farzianpour) by Golsa & Taha Mazaheri on Apple Music. 2026. 7 Songs. Duration: 32 minutes.'
-    accessed: '2026-10-21'
   safheye:
     source: music.apple.com-us-album-safheye-bad-single-6807342720-12f85aba993c
     quote: Safheye Ba'd - Single - Album by Golsa & Taha Mazaheri - Apple Music
-    accessed: '2026-11-03'
-  safheye-hope:
-    source: golsarz.bandcamp.com-track-safheye-bad
-    quote: A song about hope in the hard days.
     accessed: '2026-11-03'
   safheye-date:
     source: music.apple.com-us-album-safheye-bad-single-6807342720-12f85aba993c
     quote: September 2, 2026
     accessed: '2026-10-20'
+  safheye-hope:
+    source: golsarz.bandcamp.com-track-safheye-bad
+    quote: A song about hope in the hard days.
+    accessed: '2026-11-03'
 ---
 
-Golsa Rahimzamani, known as Golsa, is an Iranian singer and songwriter from Tehran. She combines jazz, soul and Iranian popular music in her own songs and reinterpretations of older repertoire.[^full-name][^identity][^projects][^poet-cover][^sayeh-writing] She recorded the four songs on her EP [*Vol. III*](#vol-iii-ep-7ms) with friends over two years and has worked on several songs with guitarist and producer Taha Mazaheri.[^vol-iii][^ayandeh]
+Golsa Rahimzamani (born about 1995), known as Golsa, is an Iranian singer and songwriter from Tehran who blends jazz, soul and Iranian pop.[^full-name][^identity][^age] She met her first collaborators through the covers she posted on Instagram, and many listeners first heard her on “The Poet”, a 2020 remake of a Googoosh song with Moody Moussavi.[^instagram-friends][^poet-online] She released her own EP, [*Vol. III*](#vol-iii-ep-7ms), in 2022. Since 2023 she has worked with the guitarist and producer Taha Mazaheri in the band Rameshgar, whose album of the same name came out in 2026.[^vol-iii][^vol-date][^rameshgar-band][^rameshgar] Since 2024 she has been booked for concerts in Paris and Berlin, and in March 2025 the Iranian authorities blocked her Instagram account.[^paris-2024][^berlin-2024][^block-iranintl][^block-rferl]
 
-## Early work
+## Early life
 
-In 2018, Golsa was announced as one of the vocal performers in the Iranian production of *Les Misérables*.[^theatre-date][^theatre-name][^theatre-role] In 2020, she sang with singer and guitarist Moody Moussavi on [“The Poet”](#the-poet-feat-golsa-single-xf7), their reworking of a song by Martik and Googoosh. Later that year she released [“Sayeh”](#sayeh-feat-pozx-single-573), for which she wrote both the music and lyrics.[^poet-date][^poet-cover][^poet][^sayeh-date][^sayeh-writing]
+Golsa was 28 when she spoke to the Cadence podcast in 2023.[^age] In her third year of middle school, on a family trip to the north of Iran, she watched a man singing with a guitar by a pier and was so moved that she cried. Some time later her father came home with a guitar for her.[^pier][^father-guitar] At high school she sang with her guitar at celebrations in the school's prayer hall, until one day, around 2009, the principal cut the power to the microphone.[^mic]
 
-In 2021, she worked with composer and guitarist Behzad Danesh on [“Por Kon”](#por-kon-j4h), singing a setting of Khayyam’s poetry. Danesh drew inspiration from a translation and a TEDxTehran talk by Hamed Abdi.[^por-kon-date][^por-kon][^por-kon-credits][^por-kon-origin]
+In 2013 she began studying biology at Shahid Beheshti University in Tehran, and on her first day she went looking for its music club.[^university] Students from every department met to play in a basement of the university's cultural office. It was the only place where she could sing; singing on stage was not possible.[^basement][^basement-singing] When a friend from the club was about to leave for Canada, they played covers of Anathema and Radiohead for friends in a café. It was her first performance in front of strangers, and afterwards she wanted to keep performing.[^cafe]
 
-Golsa released *Vol. III* in 2022, gathering four songs she had recorded with friends over the preceding two years.[^vol-iii][^vol-date] Among them was [“Sargashteh”](#sargashteh-single-rnw), which she composed and sang, with Mazaheri producing. She dedicated another track, “Sepideh Dam”, to the Iranian singer Javad Yassari.[^sargashteh][^sargashteh-production][^sepideh]
+## Instagram and first songs
 
-## Working with Taha Mazaheri
+When the group broke up, its members gave Golsa a ukulele for her birthday. She opened a new Instagram page just for her music, starting with a cover of “500 Miles”, and its following slowly grew.[^ukulele][^page] Every musician she went on to work with, she said, she met through Instagram.[^instagram-friends]
 
-Golsa and Mazaheri continued to make songs together. For [“Ayandeh”](#ayandeh-feat-taha-mazaheri-single-rxt), released in 2023, she wrote the words and sang, while he wrote the music, played guitar and produced the recording.[^ayandeh-date][^ayandeh-words][^ayandeh] On [“Refigh”](#refigh-feat-taha-mazaheri-47y) in 2024, they shared the lyric writing with Mehrdad Mcy.[^refigh-date][^refigh-writing] During this period she also sang with the Bah Bah quartet and the band Rameshgar.[^projects]
+She sang backing vocals in Peyman Abdali's group Banafsh, where she learned to improvise, and in 2018 she was announced as one of the singers in an Iranian stage production of *Les Misérables*.[^banafsh][^theatre-date][^theatre-name][^theatre-role] Working on covers with the musician Arash Zarrabi showed her that she could change a song and make it her own. Reworking covers led her to write songs of her own.[^arash]
 
-## Performances and recent work
+In March 2020 she released [“The Poet”](#the-poet-feat-golsa-single-xf7) with the singer and guitarist Moody Moussavi, a remake of a song by Martik and Googoosh with words by Zoya Zakarian. They recorded it over the internet and met only when the track was finished.[^poet-date][^poet-cover][^poet-online] That December she released [“Sayeh”](#sayeh-feat-pozx-single-573), for which she wrote the music and lyrics, with production by Pooria Falamarzian.[^sayeh-date][^sayeh-writing] In 2021 she sang [“Por Kon”](#por-kon-j4h), a setting of Khayyam by the Iranian-Canadian guitarist and producer Behzad Danesh, who drew on a translation and a TEDxTehran talk by Hamed Abdi.[^por-kon-date][^por-kon][^por-kon-origin]
 
-Golsa performed in Berlin in March 2025.[^berlin-performance] In April, Euronews reported that Iran’s morality police had seized her Instagram account and deleted all its posts.[^account] Later that year she was booked to perform in Paris and Berlin.[^paris][^paris-date][^berlin][^berlin-date]
+She also sang in the Bah Bah quartet, whose first line-up was Golsa, Behzad, Sardar and Salar.[^projects][^bahbah] She learned old jazz standards largely from Sardar, playing with him.[^sardar-jazz]
 
-In 2026, she was a guest singer on pianist Arshid Azarine’s *Trio + Guests (Live)*, including the recording [“Tcheltcheleh (Live)”](#tcheltcheleh-live-e4g).[^azarine-live][^azarine-guests][^azarine-piano][^tcheltcheleh] That year, she and Mazaheri also released the seven-song collection [*Rameshgar*](#rameshgar-feat-hamed-hamidzadeh-mehrdad-mcy-farid-farzianpour-92e) and the single [“Safheye Ba’d”](#safheye-bad-286).[^rameshgar][^safheye][^safheye-date] Golsa described “Safheye Ba’d” as a song about hope in difficult days.[^safheye-hope]
+## *Vol. III*
+
+Golsa wrote [“Sargashteh”](#sargashteh-single-rnw) in a single night, adapting a poem she had found online. The song waited about two years until Taha Mazaheri gathered musicians to arrange and produce it. It is her own favourite among her songs.[^sargashteh-night][^sargashteh-production] It became one of four songs, each arranged by a different musician, that she gathered on *Vol. III* in the spring of 2022. She dedicated another of them, “Sepideh Dam”, to the singer Javad Yassari.[^ep-nowruz][^vol-iii][^vol-date][^sepideh]
+
+## Taha Mazaheri and Rameshgar
+
+By 2023, Golsa said, criticism from other musicians, who told her she worked with too many people and sang too many covers, had checked her early enthusiasm. She had come to feel that something inside her wanted to come out in her own words.[^criticism][^own-words] She kept working with Mazaheri. She wrote the words of [“Ayandeh”](#ayandeh-feat-taha-mazaheri-single-rxt) (2023) to his music, and in 2024 they wrote [“Refigh”](#refigh-feat-taha-mazaheri-47y) together with Mehrdad Mcy.[^ayandeh-date][^ayandeh-words][^ayandeh][^refigh-date][^refigh-writing] In 2023 their new band, Rameshgar, with Hamed, Farid and Mehrdad, was a few months old and arranging songs Golsa had written earlier.[^rameshgar-band]
+
+In the same interview she described Iran's musicians as living in a bubble, where “our voices don't reach anywhere, and they don't know we exist”. She hoped someone from Iran would one day come out of that bubble onto an international stage.[^bubble][^representative]
+
+## Concerts abroad
+
+In 2024 Golsa was booked for her first concerts abroad: a duo concert with the pianist Sardar Sarmast at Le 360 Paris Music Factory in May, and in June her first concert in Berlin, at Nachtvogel.[^paris-2024][^paris-2024-date][^paris-2024-venue][^berlin-2024][^berlin-2024-date][^berlin-2024-venue] In March 2025 her Instagram account was blocked in a wave of blocks on artists' accounts in Iran. Radio Free Europe reported that Iran's Cyber Police had ordered it; Euronews Persian later reported that the morality police had seized the account and deleted all its posts.[^block-wave][^block-iranintl][^block-rferl][^block-rferl-date][^account] That month she performed in Berlin, where she was also booked for a Nowruz concert with Habib Meftah.[^berlin-performance][^nowruz-2025][^nowruz-2025-date]
+
+In October 2025 a Paris venue described her as an Iranian jazz singer recently settled in Paris.[^paris-move][^paris-move-date] She was booked at the city's Jass Club in November and at the Kantine am Berghain in Berlin in December.[^paris][^paris-date][^berlin][^berlin-en][^berlin-date] In 2026 she was one of the guest singers on the Franco-Iranian pianist Arshid Azarine's live album *Trio + Guests*, singing on [“Tcheltcheleh”](#tcheltcheleh-live-e4g).[^azarine-live][^azarine-guests][^azarine-piano][^tcheltcheleh] That year she and Mazaheri released [*Rameshgar*](#rameshgar-feat-hamed-hamidzadeh-mehrdad-mcy-farid-farzianpour-92e), a seven-song album with Hamed Hamidzadeh, Mehrdad Mcy and Farid Farzianpour, and the single [“Safheye Ba'd”](#safheye-bad-286), which she called a song about hope in hard days.[^rameshgar][^safheye][^safheye-date][^safheye-hope]
