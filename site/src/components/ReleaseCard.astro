@@ -1,0 +1,29 @@
+---
+import Cover from './Cover.astro';
+import { textAttrs } from '../lib/html';
+import type { Picture } from '../lib/images';
+import type { Lang, Text } from '../lib/record';
+
+/** A release as a card: cover, date, title, and who else made it. */
+interface Props {
+  href: string;
+  lang: Lang;
+  title: Text;
+  /** HTML: the date, or just its year. */
+  date?: string | null;
+  /** HTML: the performers line. */
+  sub?: string | null;
+  panel?: boolean;
+  art?: Picture | null;
+  /** How wide the card shows, for its cover. */
+  sizes?: string;
+}
+const { href, lang, title, date, sub, panel = false, art, sizes = '(max-width: 760px) 148px, 172px' } = Astro.props;
+---
+
+<a class="shelf-card" href={href} data-release={panel ? '' : undefined}>
+  <Cover title={title} lang={lang} art={art} sizes={sizes} />
+  {date && <span class="shelf-meta" set:html={date} />}
+  <span class="shelf-title" {...textAttrs(title, lang)}>{title.text}</span>
+  {sub && <span class="shelf-sub" set:html={sub} />}
+</a>

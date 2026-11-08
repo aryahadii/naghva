@@ -1,0 +1,46 @@
+.discovery { padding-block: 32px 72px }
+.discovery h1 { font: 500 clamp(2rem, 5vw, 4rem)/1.3 var(--serif); margin-bottom: 20px }
+.browse-form { display: flex; flex-wrap: wrap; align-items: center; gap: 12px; margin-block: 24px }
+.browse-form input { padding: 12px; min-width: 0; max-width: 100%; border-radius: 12px; background: var(--night); border: 1px solid var(--line); color: var(--ivory) }
+.directory-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 220px), 1fr)); gap: 24px; list-style: none; padding: 0; margin-top: 28px }
+.results-list { list-style: none; padding: 0; display: grid; gap: 20px; margin-block: 28px }
+.results-list a { font-size: 1.3rem; overflow-wrap: anywhere }
+.results-list p { color: var(--ivory-2); font-size: 14px }
+#results-pages { display: flex; flex-wrap: wrap; align-items: center; gap: 16px }
+
+.explore-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 36px 24px; margin: 26px 0 0; padding: 0; list-style: none }
+.explore-artist { display: block; text-decoration: none }
+.explore-photo { display: block; aspect-ratio: 1; overflow: hidden; border-radius: 6px; background: radial-gradient(120% 90% at 50% 0%, rgb(69 91 219 / .18), transparent 70%), var(--wash) }
+.explore-photo img { width: 100%; height: 100%; object-fit: cover }
+.explore-name { display: block; margin-top: 14px; font: 400 clamp(1.3rem, 2vw, 1.7rem)/1.3 var(--serif); overflow-wrap: anywhere; transition: color .2s }
+html[lang=fa] .explore-name { font: 700 clamp(1.15rem, 1.8vw, 1.45rem)/1.65 'Farhang2', serif }
+.explore-artist:hover .explore-name, .explore-artist:focus-visible .explore-name { color: var(--coral-hi) }
+.explore-artist:not(:has(img:not([hidden]))) { display: grid; align-content: center; aspect-ratio: 1; padding: 22px; border-radius: 6px; background: radial-gradient(120% 90% at 50% 0%, rgb(69 91 219 / .18), transparent 70%), var(--wash) }
+.explore-artist:not(:has(img:not([hidden]))) .explore-photo { display: none }
+.explore-artist:not(:has(img:not([hidden]))) .explore-name { margin-top: 0 }
+
+/* Directory cards stay compact and consistent, including unavailable portraits. */
+.artist-directory { padding-top: 18px }
+.artist-directory h1 { margin-bottom: 22px }
+.directory-tools { margin-bottom: 22px }
+.directory-filter-heading { display: flex; align-items: baseline; justify-content: flex-start; gap: 12px; margin-bottom: 8px; font-size: 14px }
+#directory-count { color: var(--ivory-2); font-size: 13px; white-space: nowrap }
+.directory-field { position: relative }
+.directory-field input { width: 100%; min-width: 0; min-height: 48px; padding: 10px 14px; padding-inline-end: 52px; background: var(--night); border: 1px solid var(--line); border-radius: 12px; font-size: 16px; unicode-bidi: plaintext }
+.directory-field input::placeholder { color: var(--ivory-2); opacity: 1 }
+.directory-field input::-webkit-search-cancel-button { -webkit-appearance: none }
+#directory-clear { position: absolute; inset-inline-end: 2px; top: 2px; display: grid; place-items: center; width: 44px; height: 44px; border-radius: 10px; color: var(--ivory-2) }
+#directory-clear svg { width: 16px; height: 16px; fill: none; stroke: currentColor; stroke-width: 1.5 }
+.directory-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 22px 14px; margin-top: 0 }
+.directory-grid > li { min-width: 0 }
+.directory-grid .explore-photo { aspect-ratio: 4 / 3 }
+.directory-grid .explore-name { margin-top: 8px; font-size: 17px; line-height: 1.4 }
+html[lang=fa] .directory-grid .explore-name { font-size: 17px; line-height: 1.6 }
+.directory-grid .explore-artist:not(:has(img:not([hidden]))) { display: block; aspect-ratio: auto; padding: 0; background: none }
+.directory-grid .explore-artist:not(:has(img:not([hidden]))) .explore-photo { display: block }
+.directory-grid .explore-artist:not(:has(img:not([hidden]))) .explore-name { margin-top: 8px }
+#directory-empty { display: flex; align-items: center; flex-wrap: wrap; gap: 12px; padding-block: 18px; color: var(--ivory-2) }
+.directory-global-search { font-size: 14px; margin-inline-end: auto }
+@media (min-width: 640px) { .directory-grid { grid-template-columns: repeat(3, minmax(0, 1fr)) } }
+@media (min-width: 1000px) { .directory-grid { grid-template-columns: repeat(4, minmax(0, 1fr)) } }
+@media (min-width: 1280px) { .directory-grid { grid-template-columns: repeat(5, minmax(0, 1fr)) } }

@@ -1,0 +1,123 @@
+{
+  "https://korsi.online/wp-content/uploads/2025/10/DSCF0880-Edit-1024x819.jpg": {
+    "name": "golsa",
+    "widths": [
+      240,
+      360,
+      640,
+      960
+    ],
+    "width": 1024,
+    "height": 819,
+    "bytes": 215599,
+    "sha256": "ed4fc3b16b146087450bab897b0d23678fd3fc9797d150b74202e1dc101e8d8d",
+    "variants": [
+      {
+        "src": "/thumbnails/golsa-946ca3f8f3b6e401.webp",
+        "width": 240,
+        "height": 192,
+        "bytes": 19394,
+        "sha256": "946ca3f8f3b6e401cae7a7677e7127d3e0b414b648b9b58c81224cb9fd20c9fe"
+      },
+      {
+        "src": "/thumbnails/golsa-df308b969942f2be.webp",
+        "width": 360,
+        "height": 288,
+        "bytes": 35504,
+        "sha256": "df308b969942f2be4bf00dd631646aa7b0bf411a6f5bd6f92a8b0cb52c87269f"
+      },
+      {
+        "src": "/thumbnails/golsa-82bfacd81a5ca921.webp",
+        "width": 640,
+        "height": 512,
+        "bytes": 74296,
+        "sha256": "82bfacd81a5ca92138201a07801da2b7332b258d017cb79817974eed6e8f3e6a"
+      },
+      {
+        "src": "/thumbnails/golsa-b399558544469448.webp",
+        "width": 960,
+        "height": 768,
+        "bytes": 124186,
+        "sha256": "b399558544469448a8249adb5ae55d70710db037e47419c273ae1a6c5fab0ac7"
+      }
+    ]
+  },
+  "https://www.salam-music.at/wp-content/uploads/Sanam-Maroufkhani_.jpg": {
+    "name": "sanam",
+    "widths": [
+      240,
+      360,
+      640,
+      960
+    ],
+    "width": 1920,
+    "height": 1920,
+    "bytes": 134126,
+    "sha256": "73b65a6154332ff25b800d041e44162b7f95b368449abf6c44e017b20057b4f9",
+    "variants": [
+      {
+        "src": "/thumbnails/sanam-cf8b8ecb73d66959.webp",
+        "width": 240,
+        "height": 240,
+        "bytes": 9230,
+        "sha256": "cf8b8ecb73d6695924e4c88ea7d3aeedee0b47d2b5811b82f24be4cbc68d5e1d"
+      },
+      {
+        "src": "/thumbnails/sanam-bd7bb435e8e9ae91.webp",
+        "width": 360,
+        "height": 360,
+        "bytes": 17168,
+        "sha256": "bd7bb435e8e9ae91f4bd531aa8ab6abc65a599bd5f4d497ec54b4a43dd88a870"
+      },
+      {
+        "src": "/thumbnails/sanam-65cce960a1d63cab.webp",
+        "width": 640,
+        "height": 640,
+        "bytes": 41070,
+        "sha256": "65cce960a1d63cabbd4a947efeef772cdb931ee0ad756562c0d2dca2df09eafe"
+      },
+      {
+        "src": "/thumbnails/sanam-e4bb9dec7081dc92.webp",
+        "width": 960,
+        "height": 960,
+        "bytes": 78696,
+        "sha256": "e4bb9dec7081dc92be4cfcb2bbfa680006f4b54e052f216e5ab6cb3c632f2c67"
+      }
+    ]
+  },
+  "https://f4.bcbits.com/img/a0845783135_5.jpg": {
+    "name": "beneath-the-wooden-roof",
+    "widths": [
+      180,
+      360,
+      720
+    ],
+    "width": 700,
+    "height": 700,
+    "bytes": 71639,
+    "sha256": "cd50d1736e5b64386c68a68994882dab0fae92818387cc1b1ca2ad6f7a21a4f6",
+    "variants": [
+      {
+        "src": "/thumbnails/beneath-the-wooden-roof-4c3483d32a17a93c.webp",
+        "width": 180,
+        "height": 180,
+        "bytes": 4930,
+        "sha256": "4c3483d32a17a93cd7d0c9a7f8989f7593aba5a0760a44267884e7e5334bb427"
+      },
+      {
+        "src": "/thumbnails/beneath-the-wooden-roof-d332e5e9376410e3.webp",
+        "width": 360,
+        "height": 360,
+        "bytes": 18748,
+        "sha256": "d332e5e9376410e3e2f024593688da8322c5771ba2165bc2fcd627c5f79878a7"
+      },
+      {
+        "src": "/thumbnails/beneath-the-wooden-roof-efb70531ba0580d8.webp",
+        "width": 700,
+        "height": 700,
+        "bytes": 61488,
+        "sha256": "efb70531ba0580d888b42d0b315d1a7046835b90a9b528a82a6bb4a188d3a6f5"
+      }
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+name: site
+
+on:
+  push:
+    branches: ['**']
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: site
+    env:
+      SITE_URL: https://naghva.com
+      NAGHVA_BUILD_SHA: ${{ github.sha }}
+      # The licensed Persian fonts, from the owner's private copy; without them
+      # the build uses the free Vazirmatn (site/scripts/fetch-fonts.mjs).
+      NAGHVA_FONTS_URL: ${{ vars.NAGHVA_FONTS_URL }}
+      NAGHVA_FONTS_TOKEN: ${{ secrets.NAGHVA_FONTS_TOKEN }}
+      PUBLIC_POSTHOG_KEY: ${{ github.ref == 'refs/heads/main' && vars.PUBLIC_POSTHOG_KEY || '' }}
+      PUBLIC_POSTHOG_HOST: ${{ github.ref == 'refs/heads/main' && vars.PUBLIC_POSTHOG_HOST || '' }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pyyaml jsonschema
+      - name: Validate the published data and capture tooling
+        run: |
+          python3 -m unittest discover -s ../tools -p 'test_*.py'
+          python3 ../tools/validate.py
+          python3 ../tools/validate.py --root ../data/examples
+      - uses: actions/setup-node@v4
+        with:
+          node-version-file: site/.node-version
+          cache: npm
+          cache-dependency-path: site/package-lock.json
+      - run: npm ci
+      - name: Derive the record and check types
+        run: npm run derive && npm test && npm run check
+      - name: Check every address is on the committed list
+        run: |
+          git diff --exit-code -- addresses.json || {
+            echo "::error file=site/addresses.json::New addresses aren't on the list. Run npm run derive in site/ and commit addresses.json."
+            exit 1
+          }
+      - name: Build from the published record
+        run: npm run build
+      - name: Install Chromium
+        run: npx playwright install --with-deps chromium
+      - name: Test browser flows against the production build
+        run: npm run test:browser
+      - name: Preserve the checked site before building examples
+        uses: actions/upload-artifact@v4
+        with:
+          name: ${{ github.ref == 'refs/heads/main' && 'production-site' || 'branch-site' }}
+          path: site/dist
+          if-no-files-found: error
+          retention-days: 7
+      - name: Build from the examples
+        run: npm run build:examples
+
+  deploy:
+    # Deploys only where Cloudflare is configured, so forks and copies stay green.
+    if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request' && vars.CLOUDFLARE_ACCOUNT_ID != ''
+    needs: build
+    runs-on: ubuntu-latest
+    concurrency:
+      group: cloudflare-production
+      cancel-in-progress: false
+    defaults:
+      run:
+        working-directory: site
+    env:
+      CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+      CLOUDFLARE_ACCOUNT_ID: ${{ vars.CLOUDFLARE_ACCOUNT_ID }}
+      NAGHVA_BUILD_SHA: ${{ github.sha }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check deployment credentials
+        run: |
+          test -n "$CLOUDFLARE_API_TOKEN" || { echo '::error::Set the CLOUDFLARE_API_TOKEN repository secret.'; exit 1; }
+          test -n "$CLOUDFLARE_ACCOUNT_ID" || { echo '::error::Set the CLOUDFLARE_ACCOUNT_ID repository variable.'; exit 1; }
+      - uses: actions/setup-node@v4
+        with:
+          node-version-file: site/.node-version
+          cache: npm
+          cache-dependency-path: site/package-lock.json
+      - run: npm ci
+      - uses: actions/download-artifact@v4
+        with:
+          name: production-site
+          path: site/dist
+      - name: Skip obsolete builds inside the deployment lock
+        id: freshness
+        run: node scripts/deployment.mjs guard
+      - name: Deploy the checked production build to Cloudflare
+        if: steps.freshness.outputs.current == 'true'
+        run: npm run deploy
+      - name: Verify both public domains
+        if: steps.freshness.outputs.current == 'true'
+        run: node scripts/deployment.mjs verify

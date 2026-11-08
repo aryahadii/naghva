@@ -1,0 +1,35 @@
+/* Contemporary Miniature: one dark page, ivory type, coral for action, cobalt and coral carried by the illustration. */
+/* Farhang2 and IRANSansX are Arya's licensed Fontiran web fonts. IRANSansX is the no-Latin cut, so Latin falls through to DM Sans. */
+@font-face { font-family: 'Farhang2'; src: url('../assets/fonts/Farhang2-Bold.woff2') format('woff2'); font-weight: 700; font-display: swap }
+@font-face { font-family: 'IRANSansX'; src: url('../assets/fonts/IRANSansXNoEn-Regular.woff2') format('woff2'); font-weight: 400; font-display: swap }
+@font-face { font-family: 'IRANSansX'; src: url('../assets/fonts/IRANSansXNoEn-Bold.woff2') format('woff2'); font-weight: 500 800; font-display: swap }
+
+:root {
+  color-scheme: dark;
+  --ink: #15171c;
+  --night: #1b1f30;
+  --ivory: #f7f3e8;
+  --ivory-2: rgb(247 243 232 / .72);
+  --ivory-3: rgb(247 243 232 / .52);
+  --line: rgb(247 243 232 / .12);
+  --wash: rgb(247 243 232 / .06);
+  --cobalt: #455bdb;
+  --coral: #ee8270;
+  --coral-hi: #f5a191;
+  --copper: #d6a477;
+  --sage: #a6ad8b;
+  --latin-sans: 'DM Sans Variable', system-ui, sans-serif;
+  --latin-serif: 'Newsreader Variable', Georgia, serif;
+  --sans: var(--latin-sans);
+  --serif: var(--latin-serif);
+  --max: 1312px;
+  --gutter: clamp(20px, 4.4vw, 64px);
+  --section: clamp(80px, 9vw, 136px);
+  --gap: clamp(28px, 4.4vw, 72px);
+  --fade: linear-gradient(90deg, transparent, var(--line) 12%, var(--line) 88%, transparent);
+  --rule: linear-gradient(90deg, var(--line) 75%, transparent);
+  --grain: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='220' height='220'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.8' numOctaves='3' stitchTiles='stitch'/%3E%3CfeColorMatrix type='saturate' values='0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+}
+html[lang=fa], :lang(fa) { --sans: 'DM Sans Variable', 'IRANSansX', Tahoma, sans-serif; --serif: 'Newsreader Variable', 'Farhang2', 'IRANSansX', serif }
+:lang(en) { --sans: var(--latin-sans); --serif: var(--latin-serif) }
+html[dir=rtl] { --rule: linear-gradient(270deg, var(--line) 75%, transparent) }

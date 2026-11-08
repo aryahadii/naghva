@@ -1,0 +1,33 @@
+---
+import type { HTMLAttributes } from 'astro/types';
+import { thumbnailOf, type Picture } from '../lib/images';
+
+interface Props extends Omit<HTMLAttributes<'img'>, 'src' | 'srcset'> {
+  picture: Picture;
+}
+const { picture, ...attributes } = Astro.props;
+const shown = thumbnailOf(picture);
+---
+
+<img {...attributes} src={shown.src} srcset={shown.srcset} data-original-src={shown.src !== picture.src ? picture.src : undefined} />
+
+<script>
+  // Retry the source once if a cached derivative is unavailable. Existing photo
+  // fallbacks still handle a failed original. Capture also covers images cloned
+  // into release dialogs after the page's scripts have run.
+  const restore = (image: HTMLImageElement, event?: Event) => {
+    const original = image.dataset.originalSrc;
+    if (!original) return;
+    event?.stopImmediatePropagation();
+    delete image.dataset.originalSrc;
+    image.removeAttribute('srcset');
+    image.removeAttribute('sizes');
+    image.src = original;
+  };
+  document.addEventListener('error', (event) => {
+    if (event.target instanceof HTMLImageElement) restore(event.target, event);
+  }, true);
+  for (const image of document.querySelectorAll<HTMLImageElement>('img[data-original-src]')) {
+    if (image.complete && !image.naturalWidth) restore(image);
+  }
+</script>

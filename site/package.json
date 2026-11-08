@@ -1,0 +1,43 @@
+{
+  "name": "naghva-site",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22.22.0"
+  },
+  "scripts": {
+    "fonts": "node scripts/fetch-fonts.mjs",
+    "derive": "python3 ../tools/derive.py",
+    "derive:examples": "python3 ../tools/derive.py --root ../data/examples",
+    "dev": "npm run fonts && npm run derive && astro dev",
+    "dev:examples": "npm run fonts && npm run derive:examples && NAGHVA_DATA=../data/examples astro dev",
+    "build": "npm run fonts && npm run check:thumbnails && npm run derive && astro build && node scripts/check-output.mjs",
+    "build:examples": "npm run fonts && npm run check:thumbnails && npm run derive:examples && astro build --outDir dist-examples && node scripts/check-output.mjs dist-examples",
+    "check": "npm run fonts && astro check",
+    "test": "node --experimental-strip-types --import ./scripts/node-test-loader.mjs --test scripts/test-*.mjs",
+    "cache:image-sizes": "node scripts/cache-image-sizes.mjs",
+    "cache:thumbnails": "node scripts/cache-thumbnails.mjs --refresh",
+    "check:thumbnails": "node scripts/cache-thumbnails.mjs",
+    "deploy": "wrangler deploy",
+    "preview": "astro preview",
+    "test:browser": "playwright test"
+  },
+  "dependencies": {
+    "@astrojs/preact": "^6.1.0",
+    "@astrojs/sitemap": "^3.7.4",
+    "@fontsource-variable/dm-sans": "^5.3.0",
+    "@fontsource-variable/newsreader": "^5.3.0",
+    "@fontsource/vazirmatn": "^5.3.0",
+    "astro": "^7.4.0",
+    "marked": "^18.1.1",
+    "posthog-js": "1.443.0",
+    "preact": "^11.0.1"
+  },
+  "devDependencies": {
+    "@astrojs/check": "^0.9.10",
+    "@playwright/test": "^1.64.1",
+    "sharp": "^0.35.5",
+    "typescript": "^6.0.3",
+    "wrangler": "^4.151.2"
+  }
+}

@@ -1,0 +1,117 @@
+---
+import Page from '../../layouts/Page.astro';
+import { dateHtml, esc, langAttrs, nameHtml } from '../../lib/html';
+import { partsOf } from '../../lib/dates';
+import { list, num, parts, strings } from '../../lib/i18n';
+import { artistPages, datesDisagree, href, LANGS, loadRecord, nameOf, releaseHost, type Item, type Lang, type TimelineEntry } from '../../lib/record';
+import '../../styles/timeline.css';
+
+/** The timeline: everything the record dates, earliest first, a section per year. */
+export function getStaticPaths() {
+  return LANGS.map((lang) => ({ params: { lang } }));
+}
+
+const lang = Astro.params.lang as Lang;
+const record = loadRecord();
+const t = strings(lang);
+const words = t.timelinePage;
+
+const link = (item: Item) => {
+  const vt = item.page ? ' data-vt="artist-name"' : '';
+  return nameHtml(nameOf(item, lang), lang, href(record, lang, item), vt);
+};
+const sentence = (template: string, values: { [key: string]: Item }) =>
+  parts(template).map((p) => (typeof p === 'string' ? esc(p) : link(values[p.key]))).join('');
+
+const entries = record.timeline.map((e: TimelineEntry) => {
+  const item = record.items[e.item];
+  const about = e.about.map((id) => record.items[id]).filter((x): x is Item => Boolean(x));
+  let text: string;
+  let sub: string | null = null;
+  if (e.kind === 'release' || e.kind === 'event') {
+    text = nameHtml(nameOf(item, lang), lang, href(record, lang, item));
+    sub = about.length ? list(lang, about.map(link)) : null;
+  } else if (e.kind === 'life' && e.text) {
+    // The source's own words, in their own language; the artist pages tell them in the page's.
+    text = `<q><span${langAttrs(e.text.language, lang)}>${esc(e.text.text)}</span></q>`;
+    sub = list(lang, [item, ...about].map(link));
+  } else if (e.kind === 'formation') {
+    text = sentence(words.formation, { act: item });
+  } else {
+    text = sentence(words[e.kind as 'joined' | 'left'], { person: item, act: about[0] ?? item });
+  }
+  const artists = [item, ...about].filter((x) => x.page).map((x) => x.page!);
+  if (item.type === 'release') {
+    const host = releaseHost(record, item);
+    if (host?.page) artists.push(host.page);
+  }
+  const dates = [e.date, ...(e.alternatives ?? [])];
+  const years = [...new Set(dates.flatMap((d) => {
+    const first = partsOf(d.range[0], lang).y;
+    const last = partsOf(d.range[1], lang).y;
+    return Array.from({ length: last - first + 1 }, (_, i) => first + i);
+  }))].sort((a, b) => a - b);
+  const group = datesDisagree(dates) && years.length > 1 ? 'disputed' : String(years[0]);
+  return { ...e, group, years, text, sub, artists: [...new Set(artists)] };
+});
+
+const years = [...new Set(entries.flatMap((e) => e.years))].sort((a, b) => a - b);
+const groups = [...new Set(entries.map((e) => e.group))].sort((a, b) =>
+  a === 'disputed' ? 1 : b === 'disputed' ? -1 : Number(a) - Number(b));
+const kinds = (['release', 'formation', 'event', 'joined', 'left', 'life'] as const).filter((k) => entries.some((e) => e.kind === k));
+const count = (k: string) => entries.filter((e) => e.kind === k).length;
+---
+
+<Page lang={lang} title={`${words.title} — ${t.siteName}`} description={words.description} path="timeline/" section="timeline">
+  <main class="timeline wrap" id="content">
+    <header class="timeline-head">
+      <h1>{words.title}</h1>
+      <p class="deck">{words.intro}</p>
+    </header>
+
+    <form class="timeline-filters needs-js" aria-label={words.filters} onsubmit="return false">
+      <div class="chips" role="group" aria-label={words.filters}>
+        {kinds.map((k) => (
+          <button type="button" class="chip" data-kind={k} aria-pressed="true">
+            {words.kinds[k]} <span class="count">{num(lang, count(k))}</span>
+          </button>
+        ))}
+      </div>
+      <div class="selects">
+        <label class="select">
+          <span>{words.artist}</span>
+          <select name="artist">
+            <option value="">{words.allArtists}</option>
+            {artistPages(record).map((a) => <option value={a.page}>{nameOf(a, lang).text}</option>)}
+          </select>
+        </label>
+        <label class="select">
+          <span>{words.year}</span>
+          <select name="year">
+            {years.map((y) => <option value={String(y)}>{num(lang, y)}</option>)}
+          </select>
+        </label>
+      </div>
+    </form>
+
+    <p class="timeline-empty" hidden>{words.empty}</p>
+    {groups.map((y) => (
+      <section class="year" id={String(y)} aria-labelledby={`year-${y}`}>
+        <h2 class="year-title" id={`year-${y}`}><a href={`#${y}`}>{y === 'disputed' ? words.disputedDates : num(lang, Number(y))}</a></h2>
+        <ol class="entries">
+          {entries.filter((e) => e.group === y).map((e) => (
+            <li class="entry" id={e.anchor} data-kind={e.kind} data-artists={e.artists.join(' ')} data-years={e.years.join(' ')}>
+              <p class="entry-meta"><Fragment set:html={[e.date, ...(e.alternatives ?? [])].map((d) => dateHtml(d, lang)).join(' / ')} /><span class="entry-kind">{words.kind[e.kind]}</span></p>
+              {datesDisagree([e.date, ...(e.alternatives ?? [])]) && <p class="entry-sub">{words.dateDisagreement}</p>}
+              <p class="entry-text" set:html={e.text} />
+              {e.sub && <p class="entry-sub" set:html={e.sub} />}
+            </li>
+          ))}
+        </ol>
+      </section>
+    ))}
+  </main>
+  <script>
+    import '../../scripts/timeline';
+  </script>
+</Page>

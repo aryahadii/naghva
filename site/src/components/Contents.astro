@@ -1,0 +1,36 @@
+---
+import { num, strings } from '../lib/i18n';
+import type { Lang } from '../lib/record';
+
+/** The outline beside the article; on narrow screens a bar at the top. */
+interface Entry { anchor: string; label: string; count?: number; children?: { anchor: string; label: string }[] }
+interface Props { lang: Lang; entries: Entry[] }
+const { lang, entries } = Astro.props;
+const t = strings(lang).artist;
+---
+
+<nav class="contents" aria-labelledby="contents-title">
+  <p class="contents-title" id="contents-title">{t.contents}</p>
+  <ol>
+    {entries.map((e, i) => (
+      <li>
+        <a href={`#${e.anchor}`} aria-current={i === 0 ? 'location' : undefined}>
+          <span>{e.label}</span>
+          {e.count ? <span class="count">{num(lang, e.count)}</span> : null}
+        </a>
+        {e.children?.length ? (
+          <details class="contents-subsections" open>
+            <summary aria-label={`${t.contents}: ${e.label}`}><svg viewBox="0 0 16 16" aria-hidden="true"><path d="m4 6 4 4 4-4" /></svg></summary>
+            <ol>
+              {e.children.map((c) => <li><a href={`#${c.anchor}`}>{c.label}</a></li>)}
+            </ol>
+          </details>
+        ) : null}
+      </li>
+    ))}
+  </ol>
+</nav>
+
+<script>
+  import '../scripts/contents';
+</script>

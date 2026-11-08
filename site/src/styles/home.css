@@ -1,0 +1,67 @@
+/* The homepage: search in the night sky, the painted garden, latest releases and artists to explore. */
+.home-hero { padding-top: clamp(20px, 4.4vw, 64px) }
+.home-copy { position: relative; z-index: 2; display: grid; justify-items: center; text-align: center }
+.home-title { max-width: 22em; font: 400 clamp(2.4rem, 4.3vw, 3.75rem)/1.04 var(--serif); letter-spacing: -.015em; text-wrap: balance }
+html[lang=fa] .home-title { font: 700 clamp(2.1rem, 3.6vw, 3.2rem)/1.5 'Farhang2', serif; letter-spacing: 0 }
+.home-copy .search { width: min(680px, 100%); margin-top: clamp(22px, 2.6vw, 34px); text-align: start }
+/* The garden shows through the box a little. The blur lifts the box onto its own layer, so the icon is lifted above it. */
+.home-copy .search input { background: rgb(27 31 48 / .72); -webkit-backdrop-filter: blur(14px); backdrop-filter: blur(14px); box-shadow: 0 0 0 1px rgb(247 243 232 / .1), 0 24px 60px -24px rgb(0 0 0 / .9) }
+.home-copy .search-icon { z-index: 1 }
+.home-copy .search input:hover { background: rgb(33 38 58 / .78) }
+.home-copy .search input:focus { background: rgb(33 38 58 / .84); box-shadow: 0 0 0 1px rgb(238 130 112 / .7), 0 24px 60px -24px rgb(0 0 0 / .9) }
+.search-hints { margin-top: 14px; font-size: 14px; color: var(--ivory-3) }
+.search-hints button { padding: 2px 0; color: var(--ivory-2); text-decoration: underline; text-decoration-thickness: 1px; text-decoration-color: rgb(247 243 232 / .3); text-underline-offset: .32em; transition: color .2s, text-decoration-color .2s }
+.search-hints button:hover { color: var(--coral-hi); text-decoration-color: currentColor }
+
+/* The painting is as wide as the window allows while its foot stays near the fold; its cut edges fade into the night. */
+.home-garden { position: relative; z-index: 1; width: min(100%, 1680px, calc((100svh - 360px) * 2.06)); min-width: min(100%, 980px); margin: clamp(18px, 2.4vw, 34px) auto 0; overflow: hidden; -webkit-mask-image: linear-gradient(to bottom, #000 76%, transparent), linear-gradient(90deg, transparent, #000 7%, #000 93%, transparent); -webkit-mask-composite: source-in; mask-image: linear-gradient(to bottom, #000 76%, transparent), linear-gradient(90deg, transparent, #000 7%, #000 93%, transparent); mask-composite: intersect }
+.home-garden img { width: 100% }
+/* On a Persian page the garden is mirrored to follow the reading direction. */
+html[dir=rtl] .home-garden img { transform: scaleX(-1) }
+
+.latest { margin-top: clamp(20px, 3vw, 44px) }
+.home :is(.latest, .explore, .home-about) h2 { font: 500 clamp(2rem, 2.8vw, 2.5rem)/1.15 var(--serif) }
+html[lang=fa] .home :is(.latest, .explore, .home-about) h2 { font: 700 clamp(1.65rem, 2.25vw, 2rem)/1.55 'Farhang2', serif }
+
+.explore { margin-top: clamp(48px, 6vw, 80px); margin-bottom: var(--section) }
+.home-about { margin-block: var(--section) }
+.home-about p { max-width: 65ch; margin-top: 18px; color: var(--ivory-2) }
+.home-about-links { display: flex; flex-wrap: wrap; gap: 16px 28px; margin-top: 24px }
+.explore-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 36px 24px; margin: 26px 0 0; padding: 0; list-style: none }
+.explore-artist { display: block; text-decoration: none }
+.explore-photo { display: block; aspect-ratio: 1; overflow: hidden; border-radius: 6px; background: radial-gradient(120% 90% at 50% 0%, rgb(69 91 219 / .18), transparent 70%), var(--wash) }
+.explore-photo img { width: 100%; height: 100%; object-fit: cover }
+.explore-name { display: block; margin-top: 14px; font: 400 clamp(1.3rem, 2vw, 1.7rem)/1.3 var(--serif); overflow-wrap: anywhere; transition: color .2s }
+html[lang=fa] .explore-name { font: 700 clamp(1.15rem, 1.8vw, 1.45rem)/1.65 'Farhang2', serif }
+.explore-artist:hover .explore-name, .explore-artist:focus-visible .explore-name { color: var(--coral-hi) }
+.explore-artist:not(:has(img:not([hidden]))) { display: grid; align-content: center; aspect-ratio: 1; padding: 22px; border-radius: 6px; background: radial-gradient(120% 90% at 50% 0%, rgb(69 91 219 / .18), transparent 70%), var(--wash) }
+.explore-artist:not(:has(img:not([hidden]))) .explore-photo { display: none }
+.explore-artist:not(:has(img:not([hidden]))) .explore-name { margin-top: 0 }
+/* The row ends on the way to the Timeline, a card the size of a cover. */
+.onward { display: grid; align-content: center; justify-items: start; gap: 14px; aspect-ratio: 1; padding: 22px; border-radius: 6px; background: radial-gradient(120% 90% at 100% 0%, rgb(69 91 219 / .2), transparent 70%), var(--wash); text-decoration: none; transition: background .3s }
+html[dir=rtl] .onward { background: radial-gradient(120% 90% at 0% 0%, rgb(69 91 219 / .2), transparent 70%), var(--wash) }
+.onward:hover { background: radial-gradient(120% 90% at 100% 0%, rgb(69 91 219 / .3), transparent 70%), rgb(247 243 232 / .09) }
+html[dir=rtl] .onward:hover { background: radial-gradient(120% 90% at 0% 0%, rgb(69 91 219 / .3), transparent 70%), rgb(247 243 232 / .09) }
+.onward-title { font: 400 1.3rem/1.2 var(--serif); color: var(--ivory) }
+html[lang=fa] .onward-title { font: 700 1.15rem/1.6 'Farhang2', serif }
+.onward-link { font-size: 14px; line-height: 1.45; color: var(--coral); transition: color .2s }
+.onward:hover .onward-link { color: var(--coral-hi) }
+.onward svg { display: inline-block; width: 14px; height: 14px; margin-inline-start: 4px; vertical-align: -2px; fill: none; stroke: currentColor; stroke-width: 1.6; stroke-linecap: round; stroke-linejoin: round; transition: transform .3s cubic-bezier(.2, .7, .2, 1) }
+.onward:hover svg { transform: translateX(3px) }
+html[dir=rtl] .onward svg { transform: scaleX(-1) }
+html[dir=rtl] .onward:hover svg { transform: scaleX(-1) translateX(3px) }
+
+/* With no search in the header, the language stays on the header's line. */
+@media (max-width: 860px) {
+  .header-end { flex-basis: auto; margin-inline-start: auto }
+}
+@media (max-width: 760px) {
+  .home-title { font-size: clamp(2.05rem, 9vw, 2.6rem) }
+  html[lang=fa] .home-title { font-size: clamp(1.9rem, 8vw, 2.3rem) }
+  .search-hints { font-size: 13px }
+  /* On a phone the garden is cropped to its heart. */
+  .home-garden { width: 100%; min-width: 0; margin-top: 18px }
+  .latest { margin-top: 12px }
+  .explore-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 28px 16px }
+  .onward { padding: 16px }
+}

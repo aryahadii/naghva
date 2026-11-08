@@ -1,0 +1,27 @@
+---
+import Page from '../../../layouts/Page.astro';
+import { LANGS, type Lang } from '../../../lib/record';
+import { strings } from '../../../lib/i18n';
+import '../../../styles/discovery.css';
+export function getStaticPaths() { return LANGS.map((lang) => ({ params: { lang } })); }
+const lang = Astro.params.lang as Lang;
+const t = strings(lang);
+---
+<Page lang={lang} title={`${t.search.label} — ${t.siteName}`} description={t.search.placeholder} path="search/" noindex>
+  <main class="wrap discovery" id="content" data-search-page data-words={JSON.stringify({ ...t.search, ...t.browse, kinds: t.kinds })}>
+    <h1>{t.search.label}</h1>
+    <form class="browse-form" id="results-form" action={`/${lang}/search/`} role="search">
+      <label for="results-query">{t.search.placeholder}</label>
+      <input type="search" name="q" id="results-query" />
+      <button class="pill" type="submit">{t.browse.submit}</button>
+    </form>
+    <noscript><p><a href={`/${lang}/artists/`}>{t.browse.allArtists}</a></p></noscript>
+    <p id="results-status" role="status"></p>
+    <button class="pill" id="results-retry" hidden>{t.browse.retry}</button>
+    <ol id="results-list" class="results-list"></ol>
+    <nav id="results-pages" aria-label={t.search.results.other.replace('{count}', '24')}></nav>
+  </main>
+  <script>
+    import '../../../scripts/results';
+  </script>
+</Page>
