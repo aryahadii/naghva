@@ -33,7 +33,7 @@ for (const lang of ['en', 'fa']) {
         await page.locator('#catalog-reset').click();
         await expect(page.locator('#catalog > li:visible')).toHaveCount(await page.locator('#catalog > li').count());
         await page.locator('#catalog-sort').selectOption('oldest');
-        await page.locator('#catalog-query').fill('خورشید');
+        await page.locator('#catalog-query').fill('کویر');
         await expect(page.locator('#catalog > li:visible')).toHaveCount(1);
         await expand.click(); await expect(expand).toBeFocused();
         await expect(page.locator('#catalog-sort')).toHaveValue('newest');
