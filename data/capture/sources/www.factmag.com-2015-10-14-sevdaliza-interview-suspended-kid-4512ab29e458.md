@@ -11,6 +11,7 @@ issued:
 about:
 - Sevdaliza
 - Qf36fnd
+archive: https://web.archive.org/web/20261012133521/https://www.factmag.com/2015/10/14/sevdaliza-interview-suspended-kid/
 ---
 
 > Born in Iran before her parents moved the family to the Netherlands, Sevdaliza left home at 16 on a basketball scholarship, eventually playing on the Dutch national team.
@@ -20,3 +21,13 @@ about:
 > Not trained to read music or play instruments, she spent hours in the studio teaching herself how to sing and how to use Ableton, drawing on the reserve of discipline that drove her time in sports.
 
 > Sevdaliza makes her music with Rotterdam-based talent Mucky. “He’s an amazing producer and he’s taught me so much about myself and the music I do,” she says. “We’ve become like a family, after spending so many hours to get that creative flow and connection. We don’t force each other — it’s about letting each other breathe. I never force it but I never quit, either. I keep working until the cycle comes around.”
+
+> Rotterdam’s Sevdaliza made her debut earlier this year with The Suspended Kid.
+
+> “The title is how people responded to me in social situations,” she says via Skype. “I realized that those things that deflect me from social situations — not getting along with your coach or your boss or whatever — it made me realize I had to chose a different path.”
+
+> A body of work crafted over a year and a half, the EP charts Sevdaliza’s musical — and personal — evolution.
+
+> “By the time I was 16, I left home. When you get thrown into a big world like that, it’s not simple — you either survive or you don’t.”
+
+More passages, read 2026-11-09.
