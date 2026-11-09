@@ -1,0 +1,116 @@
+---
+references:
+  origin:
+    source: aliazimimusic.com-biography-ade7fa27843d
+    quote: Born and raised in Tehran, Iran, Ali Azimi began his interest in music at a young age.
+    accessed: '2026-10-19'
+  training:
+    source: aliazimimusic.com-biography-ade7fa27843d
+    quote: Coming from a musical family, he self learned to play the Piano and studied classical guitar with Bagher Moazen.
+    accessed: '2026-10-19'
+  change:
+    source: aliazimimusic.com-biography-ade7fa27843d
+    quote: After studying and working in Engineering at Tehran University and the United Kingdom, Ali decided to shift his focus and follow his passion for music in his early 30s.
+    accessed: '2026-10-19'
+  songs:
+    source: aliazimimusic.com-biography-ade7fa27843d
+    quote: The songs 33 from the album, Mr. Mean and Tatilat from his album 88 with his former band Radio Tehran are both inspired by this experience.
+    accessed: '2026-10-19'
+  approach:
+    source: aliazimimusic.com-biography-ade7fa27843d
+    quote: Ali is a singer-songwriter who experiments with various genres of music while incorporating persian lyrics and musical roots.
+    accessed: '2026-10-19'
+  date0:
+    source: music.apple.com-us-album-mr-mean-736586588-cb9b21a7c5a1
+    quote: October 26, 2013
+    accessed: '2026-10-19'
+  album1:
+    source: music.apple.com-us-album-ezzat-ziad-1122245806-4102a3c27a03
+    quote: Ezzat Ziad - Album by Ali Azimi - Apple Music
+    accessed: '2026-10-19'
+  date1:
+    source: music.apple.com-us-album-ezzat-ziad-1122245806-4102a3c27a03
+    quote: June 6, 2016
+    accessed: '2026-10-19'
+  date2:
+    source: music.apple.com-us-album-of-love-and-other-evils-1482151284-6c155b6ec73a
+    quote: October 1, 2019
+    accessed: '2026-10-19'
+  album3:
+    source: music.apple.com-us-album-kahrobaye-arezou-1625575397-99ea28df4b1d
+    quote: Kahrobaye Arezou - Album by Ali Azimi - Apple Music
+    accessed: '2026-10-19'
+  date3:
+    source: music.apple.com-us-album-kahrobaye-arezou-1625575397-99ea28df4b1d
+    quote: May 25, 2022
+    accessed: '2026-10-19'
+  solo-transition:
+    source: www.theguardian.com-world-2016-jul-29-indie-rock-musician-ali-azimi-perform-iran-3561d2583205
+    quote: His second album, Mr Mean, was recorded under his own name and produced outside Iran with a new band, none of whom were Iranian.
+    accessed: '2026-10-22'
+  band-roles:
+    source: contemporaryiranian.com-artists-music-radio-tehran-7d00a1e3b218
+    quote: Ali Azimi (lead vocals, guitar)
+    accessed: '2026-10-22'
+  open-band:
+    source: rooz.hilnu.com-persian-news-newsitem-article-babc088a09
+    quote: تمام نشده و دفتر بازی هست
+    accessed: '2026-10-22'
+  concept:
+    source: soundcloud.com-aazimi-sets-of-love-and-other-evils
+    quote: '" Of Love and Other Evils " is Ali Azimi''s fourth Studio album, Released on October 2nd, 2019.
+
+      Ali''s first concept album is about a cycle in a relationship and each song is about a certain phase.
+
+      Ali has collaborated with 19 musicians from around the world to create his latest work and the album has 9 tracks.'
+    accessed: '2026-10-22'
+  marze:
+    source: www.youtube.com-watch-v-dtddmevlygq
+    quote: 'Music and Lyrics : Ali Azimi
+
+      Music Production and Arrangement : Peyman Salimi
+
+      Directed by : Rahi Rezvani
+
+
+      مرز پر گهر
+
+      علی عظیمی ft. گلشیفته فراهانی
+
+      کارگردان : رهی رضوانی
+
+      تنظیم و پروداکشن : پیمان سلیمی
+
+      موسیقی و شعر : علی عظیمی'
+    accessed: '2026-10-22'
+  bahar:
+    source: www.youtube.com-watch-v-6lxoty0n0hu
+    quote: "Music by Ali Azimi\n\nVideo: HS\nMusic Production: Salar Khosrojerdi, Ali Bros\nMusicians: \nKeys and Backing vocals: Ali Bros on \nBrass: Patrick Jackman and Charlotte Van Passen\nDrums and percussions: Shayan Fathi\nGuitars: Ali Azimi\nWords: Omran Salahi\nTranslation: Pouneh Ghodoosi\n\nSpecial Thanks to all Editors, Musicians and Producers who generously and anonymously contributed to this production"
+    accessed: '2026-10-22'
+  dige:
+    source: www.youtube.com-watch-v-le6iqh_nyfa
+    quote: "دیگه وقتش رسیده ...\n#زن_زندگی_آزادی #مهسا_امینی \n\nMusic & Words: Ali Azimi\nMusic Production & Mix: Faarjam Saidi\nMastered by Oli Morgan - Abbey Road Studios\n\nVideo by Majed Neisi"
+    accessed: '2026-10-22'
+  bahar-dedication:
+    source: t.me-aliazimimusic-676
+    quote: "#خونه_باهار \nبرای مسافران پرواز اوکراین #ps752 \nموسیقی : علی عظیمی \nشعر : عمران صلاحی"
+    accessed: '2026-10-22'
+---
+
+علی عظیمی خواننده و ترانه‌سازی اهل تهران است که در کارش ریشه‌های موسیقایی و کلام فارسی را با تجربه در سبک‌های گوناگون پیوند می‌دهد.[^origin][^approach] او در گروه [رادیو تهران](/fa/radio-tehran-q8m/) خوانندهٔ اصلی و نوازندهٔ گیتار بود و سپس آثاری به نام خودش منتشر کرد.[^band-roles][^solo-transition]
+
+## از مهندسی تا رادیو تهران
+
+عظیمی در خانواده‌ای اهل موسیقی بزرگ شد، پیانو را خودآموز یاد گرفت و نزد Bagher Moazen گیتار کلاسیک آموخت. پس از تحصیل و کار در مهندسی در تهران و بریتانیا، در اوایل دههٔ چهارم زندگی تصمیم گرفت بر موسیقی متمرکز شود. زندگی‌نامهٔ رسمی‌اش قطعهٔ «۳۳» از [Mr. Mean](#mr-mean-qxx) و «تعطیلات» از آلبوم *۸۸* رادیو تهران را الهام‌گرفته از همین تغییر مسیر می‌داند.[^training][^change][^songs]
+
+با *Mr. Mean* در سال ۲۰۱۳، هم نام هنرمند روی اثر و هم ترکیب همکاران عوض شد: آلبوم به نام عظیمی، بیرون از ایران و با گروه تازه‌ای از نوازندگان غیرایرانی ضبط شد.[^date0][^solo-transition] این تغییر به معنی مشخص‌بودن زمان پایان رادیو تهران نیست. عظیمی در مصاحبهٔ سال ۱۳۹۲ با روزآنلاین، گروه را پروژه‌ای تمام‌نشده و دفتری باز توصیف کرد؛ زندگی‌نامهٔ رسمی او اکنون از رادیو تهران به‌عنوان گروه پیشینش یاد می‌کند.[^open-band][^songs]
+
+## آلبوم‌های انفرادی
+
+آلبوم [Ezzat Ziad](#ezzat-ziad-dp9) در سال ۲۰۱۶ منتشر شد.[^album1][^date1] عظیمی در [از عشق و شیاطین دیگر](#of-love-and-other-evils-k6h) سراغ ساختن یک آلبوم مفهومی رفت: هر قطعه مرحله‌ای از چرخهٔ یک رابطه را روایت می‌کند. در توضیح آلبوم در ساندکلادش، از همکاری با نوزده نوازنده و انتشار در ۲ اکتبر ۲۰۱۹ گفته است؛ اپل موزیک تاریخ ۱ اکتبر را ثبت کرده است.[^concept][^date2] [کهربای آرزو](#kahrobaye-arezou-5tk) در ۲۵ مهٔ ۲۰۲۲ منتشر شد.[^album3][^date3]
+
+## ترانه‌ها و همکاران
+
+در [«مرز پر گهر»](#marze-por-gohar-d54)، موسیقی و شعر از عظیمی است، گلشیفته فراهانی به‌عنوان هنرمند مهمان نام برده شده و تنظیم و تولید موسیقی را پیمان سلیمی انجام داده است.[^marze] [«خونه باهار»](#khooneye-bahar-dye) با آهنگ عظیمی بر شعر عمران صلاحی ساخته شده است. در شناسنامهٔ ویدئوی رسمی، Salar Khosrojerdi و Ali Bros برای تولید موسیقی، Ali Bros برای کیبورد و همخوانی، Patrick Jackman و Charlotte Van Passen برای سازهای بادی برنجی، شایان فتحی برای درامز و پرکاشن و عظیمی برای گیتار نام برده شده‌اند.[^bahar] عظیمی این ویدئو را به مسافران پرواز PS752 تقدیم کرده است.[^bahar-dedication]
+
+در [«دیگه وقتش رسیده»](#dige-vaghtesh-resideh-bvc)، موسیقی و کلام از عظیمی، تولید و میکس از فرجام سعیدی، مسترینگ از Oli Morgan در استودیوی ابی‌رود و ویدئو از Majed Neisi است. انتشار رسمی آن با هشتگ‌های «زن، زندگی، آزادی» و «مهسا امینی» همراه است.[^dige]
