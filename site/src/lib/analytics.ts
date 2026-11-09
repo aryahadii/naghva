@@ -20,19 +20,18 @@ export function privacyRequested(): boolean {
     [browser.doNotTrack, browser.msDoNotTrack, windowDnt].some((value) => value === '1' || value === 'yes');
 }
 
-// Only categorical campaign labels are accepted. Never forward arbitrary UTM
-// values, search terms, click IDs, URL fragments, or referrer paths.
-const SOURCES = new Set(['instagram', 'telegram', 'youtube', 'spotify', 'soundcloud', 'bandcamp', 'google', 'bing', 'newsletter', 'facebook', 'twitter', 'x', 'reddit']);
-const MEDIUMS = new Set(['social', 'organic', 'referral', 'email', 'cpc', 'paid_social']);
+// Keep all values for the five standard UTM fields. Other query parameters,
+// search input, click IDs, URL fragments, and referrer paths stay excluded.
+const UTM_PARAMETERS = ['utm_source', 'utm_medium', 'utm_campaign', 'utm_content', 'utm_term'] as const;
 export const REFERRER_PARAM = 'naghva_referrer';
 export const PRODUCTION_ORIGINS = new Set(['https://naghva.com', 'https://naqva.com']);
 
 export function campaignProperties(search: string): Record<string, string> {
   const params = new URLSearchParams(search);
   const result: Record<string, string> = {};
-  for (const [key, allowed] of [['utm_source', SOURCES], ['utm_medium', MEDIUMS]] as const) {
-    const value = params.get(key)?.toLowerCase();
-    if (value && allowed.has(value)) result[key] = value;
+  for (const key of UTM_PARAMETERS) {
+    const value = params.get(key);
+    if (value !== null) result[key] = value;
   }
   return result;
 }
