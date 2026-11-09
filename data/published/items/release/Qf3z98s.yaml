@@ -10,7 +10,6 @@ statements:
       quote: |-
         2008: Global Zoo (Bagh e Vahsh e Jahaani)
       accessed: '2026-10-19'
-  # Editorial Persian display spelling; source uses the Latin name.
   - value:
       text: باغ وحش جهانی
       language: fa
@@ -38,16 +37,25 @@ statements:
   - value: https://music.apple.com/us/album/bagh-e-vahsh-e-jahani-global-zoo/295153983
     references:
     - source: music.apple.com-us-album-bagh-e-vahsh-e-jahani-global-zoo-295153983-37b56f3d1898
-      quote: bagh e Vahsh e Jahani (Global Zoo) by Kiosk on Apple Music
+      quote: |-
+        bagh e Vahsh e Jahani (Global Zoo) by Kiosk on Apple Music
       accessed: '2026-10-19'
+  - value: https://open.spotify.com/album/2sTp3LeIK4P8NeRlzic5oG
+    references:
+    - source: open.spotify.com-album-2stp3leik4p8nerlzic5og
+      quote: |-
+        Listen to bagh e vahsh e jahani (Global Zoo) - Album by Kiosk | Spotify
+      accessed: '2026-11-09'
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music/61/ee/6e/mzi.ghzkegiy.jpg/1200x630bb.jpg
     references:
     - source: music.apple.com-us-album-bagh-e-vahsh-e-jahani-global-zoo-295153983-37b56f3d1898
-      quote: bagh e Vahsh e Jahani (Global Zoo) by Kiosk on Apple Music
+      quote: |-
+        bagh e Vahsh e Jahani (Global Zoo) by Kiosk on Apple Music
       accessed: '2026-10-19'
     - source: music.apple.com-us-album-bagh-e-vahsh-e-jahani-global-zoo-295153983-37b56f3d1898
-      quote: https://is1-ssl.mzstatic.com/image/thumb/Music/61/ee/6e/mzi.ghzkegiy.jpg/1200x630bb.jpg
+      quote: |-
+        https://is1-ssl.mzstatic.com/image/thumb/Music/61/ee/6e/mzi.ghzkegiy.jpg/1200x630bb.jpg
       accessed: '2026-10-19'
     qualifiers:
       credit:

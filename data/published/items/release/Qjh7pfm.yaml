@@ -10,7 +10,6 @@ statements:
       quote: |-
         2005: Ordinary Man (Adam e Mamooli)
       accessed: '2026-10-19'
-  # Editorial Persian display spelling; source uses the Latin name.
   - value:
       text: آدم معمولی
       language: fa
@@ -38,16 +37,25 @@ statements:
   - value: https://music.apple.com/us/album/adameh-mamooli-ordinary-man/78578000
     references:
     - source: music.apple.com-us-album-adameh-mamooli-ordinary-man-78578000-c3174cceb683
-      quote: Adameh Mamooli (Ordinary Man) by Kiosk on Apple Music
+      quote: |-
+        Adameh Mamooli (Ordinary Man) by Kiosk on Apple Music
       accessed: '2026-10-19'
+  - value: https://open.spotify.com/album/5nBoDW6mFDz4duNf4zRQAa
+    references:
+    - source: open.spotify.com-album-5nbodw6mfdz4dunf4zrqaa
+      quote: |-
+        Listen to Adameh Mamooli (Ordinary Man) - Album by Kiosk | Spotify
+      accessed: '2026-11-09'
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c8/76/c4/c876c459-7c7a-53f1-2abf-c1a949d64a26/mzi.joivhamj.tif/1200x630bb.jpg
     references:
     - source: music.apple.com-us-album-adameh-mamooli-ordinary-man-78578000-c3174cceb683
-      quote: Adameh Mamooli (Ordinary Man) by Kiosk on Apple Music
+      quote: |-
+        Adameh Mamooli (Ordinary Man) by Kiosk on Apple Music
       accessed: '2026-10-19'
     - source: music.apple.com-us-album-adameh-mamooli-ordinary-man-78578000-c3174cceb683
-      quote: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c8/76/c4/c876c459-7c7a-53f1-2abf-c1a949d64a26/mzi.joivhamj.tif/1200x630bb.jpg
+      quote: |-
+        https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c8/76/c4/c876c459-7c7a-53f1-2abf-c1a949d64a26/mzi.joivhamj.tif/1200x630bb.jpg
       accessed: '2026-10-19'
     qualifiers:
       credit:

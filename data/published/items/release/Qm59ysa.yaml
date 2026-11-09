@@ -10,7 +10,6 @@ statements:
       quote: |-
         2015: Condition Orange: Live in Toronto (Vaziyat Narenji)
       accessed: '2026-10-19'
-  # Editorial Persian display spelling; source uses the Latin name.
   - value:
       text: وضعیت نارنجی
       language: fa
@@ -38,16 +37,25 @@ statements:
   - value: https://music.apple.com/us/album/condition-orange-live/1034096698
     references:
     - source: music.apple.com-us-album-condition-orange-live-1034096698-9b611d2e1f9d
-      quote: Condition Orange (Live) by Kiosk on Apple Music
+      quote: |-
+        Condition Orange (Live) by Kiosk on Apple Music
       accessed: '2026-10-19'
+  - value: https://open.spotify.com/album/7hqQDngsCrUjsvPtezLlvk
+    references:
+    - source: open.spotify.com-album-7hqqdngscrujsvptezllvk
+      quote: |-
+        Listen to Condition Orange (Live) - Album by Kiosk | Spotify
+      accessed: '2026-11-09'
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music7/v4/8c/b1/36/8cb13663-9d31-0194-6908-d85e267d6a88/889211821631.jpg/1200x630bb.jpg
     references:
     - source: music.apple.com-us-album-condition-orange-live-1034096698-9b611d2e1f9d
-      quote: Condition Orange (Live) by Kiosk on Apple Music
+      quote: |-
+        Condition Orange (Live) by Kiosk on Apple Music
       accessed: '2026-10-19'
     - source: music.apple.com-us-album-condition-orange-live-1034096698-9b611d2e1f9d
-      quote: https://is1-ssl.mzstatic.com/image/thumb/Music7/v4/8c/b1/36/8cb13663-9d31-0194-6908-d85e267d6a88/889211821631.jpg/1200x630bb.jpg
+      quote: |-
+        https://is1-ssl.mzstatic.com/image/thumb/Music7/v4/8c/b1/36/8cb13663-9d31-0194-6908-d85e267d6a88/889211821631.jpg/1200x630bb.jpg
       accessed: '2026-10-19'
     qualifiers:
       credit:

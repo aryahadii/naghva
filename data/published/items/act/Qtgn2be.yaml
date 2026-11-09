@@ -30,10 +30,12 @@ statements:
   - value: https://static.wixstatic.com/media/c4948f_0936e5ed3d6040579a8d44e287ac1966~mv2.jpg
     references:
     - source: www.kiosktheband.com-photos
-      quote: PHOTOS | KIOSK
+      quote: |-
+        PHOTOS | KIOSK
       accessed: '2026-10-19'
     - source: www.kiosktheband.com-photos
-      quote: https://static.wixstatic.com/media/c4948f_0936e5ed3d6040579a8d44e287ac1966~mv2.jpg
+      quote: |-
+        https://static.wixstatic.com/media/c4948f_0936e5ed3d6040579a8d44e287ac1966~mv2.jpg
       accessed: '2026-10-19'
     qualifiers:
       credit:
@@ -43,31 +45,73 @@ statements:
   - value: https://soundcloud.com/kiosktheband
     references:
     - source: www.kiosktheband.com
-      quote: KIOSK THE BAND
+      quote: |-
+        KIOSK THE BAND
       accessed: '2026-10-19'
     - source: www.kiosktheband.com
-      quote: https://soundcloud.com/kiosktheband
+      quote: |-
+        https://soundcloud.com/kiosktheband
       accessed: '2026-10-19'
   - value: https://youtube.com/user/kiosktheband
     references:
     - source: www.kiosktheband.com
-      quote: KIOSK THE BAND
+      quote: |-
+        KIOSK THE BAND
       accessed: '2026-10-19'
     - source: www.kiosktheband.com
-      quote: https://www.youtube.com/user/kiosktheband
+      quote: |-
+        https://www.youtube.com/user/kiosktheband
       accessed: '2026-10-19'
   - value: https://open.spotify.com/artist/42o3S5oDd4Q4YyMNRmN5oS
     references:
     - source: www.youtube.com-user-kiosktheband
-      quote: https://open.spotify.com/artist/42o3S5oDd4Q4YyMNRmN5oS?si=5mnTBlZgSuGPP9Dt4N2dog
+      quote: |-
+        https://open.spotify.com/artist/42o3S5oDd4Q4YyMNRmN5oS?si=5mnTBlZgSuGPP9Dt4N2dog
       accessed: '2026-10-23'
   - value: https://music.apple.com/us/artist/kiosk/78577959
     references:
     - source: www.youtube.com-user-kiosktheband
-      quote: https://music.apple.com/us/artist/kiosk/78577959
+      quote: |-
+        https://music.apple.com/us/artist/kiosk/78577959
       accessed: '2026-10-23'
   - value: https://t.me/KioskTheBand
     references:
     - source: t.me-kiosktheband
-      quote: https://t.me/KioskTheBand
+      quote: |-
+        https://t.me/KioskTheBand
       accessed: '2026-10-23'
+  life event:
+  - value:
+      text: Most of its members left Iran within three months after Ahmadinejad’s 2005 election.
+      language: en
+    qualifiers:
+      point in time:
+        date: '2005'
+    references:
+    - source: www.ipsnews.net-p-35383
+      quote: |-
+        Kiosk is one of the few Iranian underground bands to tour North America, Europe and Australia. Most of its members left Iran within three months after Ahmadinejad’s 2005 election.
+      accessed: '2026-11-09'
+  - value:
+      text: Among the events taking place is free concert by the Iranian rock band Kiosk.
+      language: en
+    qualifiers:
+      point in time:
+        date: '2015-03-22'
+      place: Qf5dpty
+    references:
+    - source: laist.com-shows-the-frame-iranian-rockers-kiosk-celebrate-nowruz-with-free-show-at-lacma-on-sunday
+      quote: |-
+        The L.A. County Museum Of Contemporary Art has partnered with the Farhang Foundation — a nonprofit that promotes Iranian art and culture in Southern California — for a whole day of Nowruz-related events on Sunday, March 22. Among the events taking place is free concert by the Iranian rock band Kiosk.
+      accessed: '2026-11-09'
+  - value:
+      text: Iranian group Kiosk collaborated with 20 or so singers
+      language: en
+    qualifiers:
+      point in time:
+        date: '2022'
+    references:
+    - source: ca.news.yahoo.com-15-essential-iranian-protest-songs-192952439.html
+      quote: |-
+        Iranian group Kiosk collaborated with 20 or so singers to create this beautiful song that revolves around the protest slogan "Woman, Life, Freedom."
+      accessed: '2026-11-09'

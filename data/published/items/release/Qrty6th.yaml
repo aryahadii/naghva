@@ -29,10 +29,12 @@ statements:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/53/0b/cc/530bccbd-98ae-de60-8039-d6392560ed15/190394793685.jpg/1200x630bb.jpg
     references:
     - source: music.apple.com-us-album-stereo-tull-presents-1144758028-a4693b830420
-      quote: Stereo Tull Presents by Kiosk on Apple Music
+      quote: |-
+        Stereo Tull Presents by Kiosk on Apple Music
       accessed: '2026-10-19'
     - source: music.apple.com-us-album-stereo-tull-presents-1144758028-a4693b830420
-      quote: https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/53/0b/cc/530bccbd-98ae-de60-8039-d6392560ed15/190394793685.jpg/1200x630bb.jpg
+      quote: |-
+        https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/53/0b/cc/530bccbd-98ae-de60-8039-d6392560ed15/190394793685.jpg/1200x630bb.jpg
       accessed: '2026-10-19'
     qualifiers:
       credit:
@@ -42,5 +44,12 @@ statements:
   - value: https://music.apple.com/us/album/stereo-tull-presents/1144758028
     references:
     - source: music.apple.com-us-album-stereo-tull-presents-1144758028-a4693b830420
-      quote: Stereo Tull Presents by Kiosk on Apple Music
+      quote: |-
+        Stereo Tull Presents by Kiosk on Apple Music
       accessed: '2026-10-19'
+  - value: https://open.spotify.com/album/0JSeAmK1zVSv65Eh92q297
+    references:
+    - source: open.spotify.com-album-0jseamk1zvsv65eh92q297
+      quote: |-
+        Listen to Stereo Tull Presents - Album by Kiosk | Spotify
+      accessed: '2026-11-09'

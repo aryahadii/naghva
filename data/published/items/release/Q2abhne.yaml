@@ -10,7 +10,6 @@ statements:
       quote: |-
         2014: Call a Cab (Zang Bezan Azhans)
       accessed: '2026-10-19'
-  # Editorial Persian display spelling; source uses the Latin name.
   - value:
       text: زنگ بزن آژانس
       language: fa
@@ -38,16 +37,25 @@ statements:
   - value: https://music.apple.com/us/album/zang-bezan-azhans/899750738
     references:
     - source: music.apple.com-us-album-zang-bezan-azhans-899750738-fc9973006f9c
-      quote: Call a Cab by Kiosk on Apple Music
+      quote: |-
+        Call a Cab by Kiosk on Apple Music
       accessed: '2026-10-19'
+  - value: https://open.spotify.com/album/6NGSzgPPkrbcacuinWD4cu
+    references:
+    - source: open.spotify.com-album-6ngszgppkrbcacuinwd4cu
+      quote: |-
+        Listen to Zang Bezan Azhans (Call A Cab) - Album by Kiosk | Spotify
+      accessed: '2026-11-09'
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a7/de/ab/a7deab65-0b27-fdf2-7195-aa7bc612fa98/888174899411.jpg/1200x630bb.jpg
     references:
     - source: music.apple.com-us-album-zang-bezan-azhans-899750738-fc9973006f9c
-      quote: Call a Cab by Kiosk on Apple Music
+      quote: |-
+        Call a Cab by Kiosk on Apple Music
       accessed: '2026-10-19'
     - source: music.apple.com-us-album-zang-bezan-azhans-899750738-fc9973006f9c
-      quote: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a7/de/ab/a7deab65-0b27-fdf2-7195-aa7bc612fa98/888174899411.jpg/1200x630bb.jpg
+      quote: |-
+        https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a7/de/ab/a7deab65-0b27-fdf2-7195-aa7bc612fa98/888174899411.jpg/1200x630bb.jpg
       accessed: '2026-10-19'
     qualifiers:
       credit:
