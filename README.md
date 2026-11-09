@@ -1,3 +1,10 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/brand/logos/wordmark-with-rule/naghva-wordmark-with-rule-on-dark-transparent.svg">
+    <img src="assets/brand/logos/wordmark-with-rule/naghva-wordmark-with-rule-on-light-transparent.svg" alt="Naghva" width="240">
+  </picture>
+</p>
+
 # Naghva · نغوا
 
 Naghva is an archive of independent Iranian music: who made what, with whom,
