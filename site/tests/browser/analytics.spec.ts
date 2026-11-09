@@ -6,7 +6,7 @@ test.use({ channel: 'chromium' });
 for (const [lang, origin] of [['en', site], ['fa', 'https://naqva.com']] as const) {
   test(`${lang}: page, artist, search, listening and language events contain no private URL/input data`, async ({ page, context }) => {
     const { events, analyticsRequests } = await observe(page);
-    await page.goto(`${origin}/${lang}/sanam-maroufkhani-a84/?utm_source=instagram&utm_medium=social&utm_campaign=private-campaign&email=private-url#private-fragment`, {
+    await page.goto(`${origin}/${lang}/sanam-maroufkhani-a84/?utm_source=Instagram&utm_medium=social&utm_campaign=artist-launch&email=private-url#private-fragment`, {
       referer: 'https://www.google.com/search?q=private-referrer',
     });
     await expect.poll(() => events.filter((e) => e.event === 'artist_viewed').length).toBe(1);
@@ -14,7 +14,7 @@ for (const [lang, origin] of [['en', site], ['fa', 'https://naqva.com']] as cons
     expect(pageview.properties).toMatchObject({
       $current_url: `${origin}/${lang}/sanam-maroufkhani-a84/`, $pathname: `/${lang}/sanam-maroufkhani-a84/`,
       language: lang, artist_id: 'Qa84h2k', $referring_domain: 'www.google.com',
-      utm_source: 'instagram', utm_medium: 'social', distinct_id: '$posthog_cookieless',
+      utm_source: 'Instagram', utm_medium: 'social', utm_campaign: 'artist-launch', distinct_id: '$posthog_cookieless',
       $process_person_profile: false,
     });
     await page.locator('astro-island:not([ssr])').waitFor();
@@ -53,7 +53,7 @@ for (const [lang, origin] of [['en', site], ['fa', 'https://naqva.com']] as cons
   });
 }
 
-test('the root redirect preserves referral origin and campaign categories; results-page queries stay private', async ({ page }) => {
+test('the root redirect preserves referral origin and UTM values; results-page queries stay private', async ({ page }) => {
   const { events } = await observe(page);
   await page.goto(`${site}/?utm_source=telegram&utm_medium=social&token=private-root`, { referer: 'https://t.me/private-chat' });
   await expect(page).toHaveURL(`${site}/en/?utm_source=telegram&utm_medium=social`);
@@ -64,6 +64,47 @@ test('the root redirect preserves referral origin and campaign categories; resul
   expect(events.find((e) => e.event === 'search_used')?.properties.surface).toBe('results');
   expect(JSON.stringify(events)).not.toContain('private');
 });
+
+for (const lang of ['en', 'fa']) {
+  for (const referer of ['https://github.com/aryahadii/naghva', undefined]) {
+    test(`${lang}: README attribution survives the root redirect ${referer ? 'with' : 'without'} a referrer`, async ({ page, context }) => {
+      const { events } = await observe(page);
+      await page.addInitScript((lang) => localStorage.setItem('naghva-lang', lang), lang);
+      await page.goto(`${site}/?utm_source=github&utm_medium=referral&utm_content=readme&token=private-token`, { referer });
+      await expect(page).toHaveURL(`${site}/${lang}/?utm_source=github&utm_medium=referral&utm_content=readme`);
+      await expect.poll(() => events.length).toBe(1);
+      expect(events[0].event).toBe('$pageview');
+      expect(events[0].properties).toMatchObject({
+        $current_url: `${site}/${lang}/`, $pathname: `/${lang}/`, language: lang,
+        utm_source: 'github', utm_medium: 'referral', utm_content: 'readme', distinct_id: '$posthog_cookieless',
+        $process_person_profile: false,
+      });
+      if (referer) expect(events[0].properties.$referring_domain).toBe('github.com');
+      expect(JSON.stringify(events)).not.toContain('private');
+      expect(await context.cookies()).toEqual([]);
+      expect(await page.evaluate(() => ({ local: Object.keys(localStorage), session: Object.keys(sessionStorage) })))
+        .toEqual({ local: ['naghva-lang'], session: [] });
+    });
+  }
+
+  test(`${lang}: all five UTM values reach PostHog unchanged after the root redirect`, async ({ page }) => {
+    const { events } = await observe(page);
+    const campaign = {
+      utm_source: 'New Partner / Music', utm_medium: 'Shared Link',
+      utm_campaign: 'Fall 2026 + نغوا', utm_content: 'README:hero&footer',
+      utm_term: 'independent music? #1',
+    };
+    const search = new URLSearchParams(campaign).toString();
+    await page.addInitScript((lang) => localStorage.setItem('naghva-lang', lang), lang);
+    await page.goto(`${site}/?${search}&email=private-email&gclid=private-click&utm_extra=private-extra#private-fragment`);
+    await expect.poll(() => events.length).toBe(1);
+    const landed = new URL(page.url());
+    expect(landed.pathname).toBe(`/${lang}/`);
+    expect(Object.fromEntries(landed.searchParams)).toEqual(campaign);
+    expect(events[0].properties).toMatchObject({ ...campaign, $current_url: `${site}/${lang}/` });
+    expect(JSON.stringify(events)).not.toContain('private');
+  });
+}
 
 for (const [origin, lang, choice] of [[site, 'en', '1'], ['https://naqva.com', 'fa', '0']] as const) {
   test(`${origin}: retired replay state is removed and cannot enable recording`, async ({ page, context }) => {

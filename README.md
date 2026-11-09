@@ -9,7 +9,7 @@
 
 Naghva is an archive of independent Iranian music: who made what, with whom,
 when and how, every fact backed by a quoted source, equally in Persian and
-English. You can read it at [naghva.com](https://naghva.com). This repository
+English. You can read it at [naghva.com](https://naghva.com/?utm_source=github&utm_medium=referral&utm_content=readme). This repository
 is everything behind the site, open for anyone to read, reuse and build on.
 
 The [vision](specs/vision.md) says what Naghva is for, and

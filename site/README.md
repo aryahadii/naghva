@@ -280,11 +280,7 @@ preference still uses local storage.
 The final payload filter permits only these events and their explicit properties,
 plus the SDK's cookieless protocol and coarse browser/device dimensions. Page URLs
 come from their generated canonical path; query strings, fragments, referrer paths,
-search text, person updates, and link destination URLs are excluded. Attribution
-keeps referral origins plus allowlisted `utm_source` and `utm_medium` categories
-(see `src/lib/analytics.ts`). Free-form campaign names, terms, content and ad click
-IDs are discarded. The root language redirect forwards only that sanitized
-attribution, and its temporary referral hint is removed from the localized URL.
+search text, person updates, and link destination URLs are excluded.
 
 [Cookieless tracking](https://posthog.com/tutorials/cookieless-tracking) estimates
 visitors with a server-side daily hash of the IP, user agent and hostname. It
