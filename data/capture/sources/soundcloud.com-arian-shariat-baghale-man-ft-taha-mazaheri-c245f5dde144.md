@@ -32,3 +32,7 @@ Page text and public embedded metadata, read 2026-10-20.
 > Strings : Amin Ataei
 
 > Coverart : Aysan Haqiqat
+
+> Baghale Man (Rian Feat. Taha Mazaheri)  Producer and Songwriter  : Taha Mazaheri Vocals : Arian Shariat  Backing Vocals : Golsa Keys : Mehrdad Mcy Bass : Hamed Hamidzade Drums : Farid Farzianpour Guitar : Taha Mazaheri Strings : Amin Ataei Arrangement for strings : Amir Nazar Mix and Mastering : Mehrdad Mcy Coverart : Aysan Haqiqat  Recordig info : Vocals Recorded at Eran Asemi Studio , Backin Vocals Recorded at Mehrdad Mcy Home studio , Piano recorded at Bell studio by Ali Chavoshi , Guitar, Bass and Drums  Recorded at 54 recording studio , Strings Recorded at Amin Ataei's Studio  Thanks to : Amir Nazar , "Mo" Shariat
+
+Page text and public embedded metadata, read 2026-10-20.
