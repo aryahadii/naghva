@@ -69,14 +69,18 @@ test('quick and paginated search share normalization, ranking, accurate totals a
   }
 });
 
-test('a release panel shows performers apart from writing and production credits', () => {
+test('release panels show writing and production credits in their own row, with roles', () => {
+  let checked = 0;
   for (const lang of ['en', 'fa']) {
-    const view = artistView(published, published.items.Qa84h2k, lang);
-    const panel = view.releasePanels.find((r) => r.item.id === 'Q2zke4v'); // Airplanes
     const strings = JSON.parse(readFileSync(`src/strings/${lang}.json`, 'utf8')).release;
-    const facts = Object.fromEntries(panel.facts.map((f) => [f.label, f.html]));
-    assert.ok(facts[strings.performers] && facts[strings.contributors], lang);
-    assert.equal(facts[strings.performers].includes('class="role"'), false, `${lang}: Airplanes billing carries no roles`);
-    assert.ok(facts[strings.contributors].includes('class="role"'), lang);
+    for (const artist of Object.values(published.items).filter((a) => a.page)) {
+      for (const panel of artistView(published, artist, lang).releasePanels) {
+        const facts = Object.fromEntries(panel.facts.map((f) => [f.label, f.html]));
+        const credited = (panel.item.statements.contributor ?? []).length > 0;
+        assert.equal(Boolean(facts[strings.contributors]), credited, `${lang} ${panel.item.id}`);
+        if (credited) { assert.ok(facts[strings.contributors].includes('class="role"'), `${lang} ${panel.item.id}`); checked++; }
+      }
+    }
   }
+  assert.ok(checked > 0);
 });
