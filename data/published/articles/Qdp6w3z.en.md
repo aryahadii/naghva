@@ -100,7 +100,7 @@ Peyman Salimi is a singer-songwriter, guitarist and music producer of Persian an
 
 Salimi studied guitar with Alfonso Borghese at Florence’s Conservatorio Luigi Cherubini and the Fiesole Music School. He holds a BA in classical guitar performance and an MA in music and technologies from the conservatory.[^study][^degrees][^masters]
 
-After his debut solo album, *[The Curtain](#the-curtain-5qy)*, he founded The Allophones in Florence. The band won the T-Rumors contest in 2011. Its first EP, *[Stalemate](#stalemate-dae)*, followed in 2013 with Antonio Aiazzi’s involvement; *[Muscle Memory](#muscle-memory-w8b)* appeared in 2017, co-produced by Tiziano Borghi and Eduardo de la Paz.[^band][^band-work]
+After his debut solo album, *[The Curtain](#the-curtain-5qy)*, he founded The Allophones in Florence. The band won the T-Rumors contest in 2011. Its first EP, *Stalemate*, followed in 2013 with Antonio Aiazzi’s involvement; *Muscle Memory* appeared in 2017, co-produced by Tiziano Borghi and Eduardo de la Paz.[^band][^band-work]
 
 ## Returning to Persian songwriting
 

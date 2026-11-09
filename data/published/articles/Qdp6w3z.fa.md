@@ -100,7 +100,7 @@ references:
 
 سلیمی در فلورانس، نزد Alfonso Borghese در کنسرواتوار لوئیجی کروبینی و مدرسهٔ موسیقی فیزوله گیتار آموخت. او مدرک کارشناسی نوازندگی گیتار کلاسیک و کارشناسی ارشد موسیقی و فناوری را از همین کنسرواتوار دارد.[^study][^degrees][^masters]
 
-پس از نخستین آلبوم انفرادی‌اش، *[The Curtain](#the-curtain-5qy)*، گروه The Allophones را در فلورانس بنیان گذاشت. گروه در سال ۲۰۱۱ برندهٔ مسابقهٔ T-Rumors شد. نخستین ای‌پی آن، *[Stalemate](#stalemate-dae)*، در ۲۰۱۳ با همکاری Antonio Aiazzi منتشر شد و آلبوم *[Muscle Memory](#muscle-memory-w8b)* در ۲۰۱۷ با تهیه‌کنندگی مشترک Tiziano Borghi و Eduardo de la Paz انتشار یافت.[^band][^band-work]
+پس از نخستین آلبوم انفرادی‌اش، *[The Curtain](#the-curtain-5qy)*، گروه The Allophones را در فلورانس بنیان گذاشت. گروه در سال ۲۰۱۱ برندهٔ مسابقهٔ T-Rumors شد. نخستین ای‌پی آن، *Stalemate*، در ۲۰۱۳ با همکاری Antonio Aiazzi منتشر شد و آلبوم *Muscle Memory* در ۲۰۱۷ با تهیه‌کنندگی مشترک Tiziano Borghi و Eduardo de la Paz انتشار یافت.[^band][^band-work]
 
 ## بازگشت به ترانه‌های فارسی
 

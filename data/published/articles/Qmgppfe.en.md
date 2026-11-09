@@ -107,7 +107,7 @@ In 1384 SH, he formed the [Peter Soleimanipour Ensemble](/en/peter-soleimanipour
 
 ## Recorded work
 
-His own album [*Egosystem*](#egosystem-q8a) sits alongside guest work: on the 2002 various-artists compilation [*Qeshm Island*](#qeshm-island-fhr), he performs the 7:30 track [“Daryadaad”](#daryadaad-tdg).[^catalog][^qeshm][^qeshm-date][^qeshm-billing][^daryadaad][^daryadaad-credit][^daryadaad-album][^daryadaad-duration]
+His own album [*Egosystem*](#egosystem-q8a) sits alongside guest work: on the 2002 various-artists compilation *Qeshm Island*, he performs the 7:30 track [“Daryadaad”](#daryadaad-tdg).[^catalog][^qeshm][^qeshm-date][^qeshm-billing][^daryadaad][^daryadaad-credit][^daryadaad-album][^daryadaad-duration]
 
 On Soheil Nafisi’s 2011 *Lyra & Hymn*, Peter appears as a featured musician on [“Taraneh”](#taraneh-4dm).[^lyra][^lyra-date][^lyra-track]
 
