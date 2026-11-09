@@ -1,0 +1,59 @@
+id: Qf24r9s
+type: release
+statements:
+  name:
+  - value:
+      text: Sade
+      language: en
+    references:
+    - source: music.apple.com-us-album-sade-985648712
+      quote: |-
+        Sade - Album by Shahin Najafi - Apple Music
+      accessed: '2026-11-09'
+    - source: open.spotify.com-album-1le7kk3tyuhdrivzpisb0q
+      quote: |-
+        Listen to Sade - Album by Shahin Najafi | Spotify
+      accessed: '2026-11-09'
+  listen link:
+  - value: https://music.apple.com/us/album/sade/985648712
+    references:
+    - source: music.apple.com-us-album-sade-985648712
+      quote: |-
+        Sade - Album by Shahin Najafi - Apple Music
+      accessed: '2026-11-09'
+  - value: https://open.spotify.com/album/1Le7kk3tyUHDRIVZPisb0Q
+    references:
+    - source: open.spotify.com-album-1le7kk3tyuhdrivzpisb0q
+      quote: |-
+        Listen to Sade - Album by Shahin Najafi | Spotify
+      accessed: '2026-11-09'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f2/c9/19/f2c91986-4a0b-1c51-7b1e-002f9e0d8914/889211524211.jpg/1200x630wp-60.jpg
+    references:
+    - source: music.apple.com-us-album-sade-985648712
+      quote: |-
+        Sade - Album by Shahin Najafi - Apple Music
+      accessed: '2026-11-09'
+    qualifiers:
+      credit:
+        text: music.apple.com
+        language: en
+  performer:
+  - value: Qn7vfak
+    references:
+    - source: music.apple.com-us-album-sade-985648712
+      quote: |-
+        Sade - Album by Shahin Najafi - Apple Music
+      accessed: '2026-11-09'
+    - source: open.spotify.com-album-1le7kk3tyuhdrivzpisb0q
+      quote: |-
+        Listen to Sade - Album by Shahin Najafi | Spotify
+      accessed: '2026-11-09'
+  release date:
+  - value:
+      date: '2015-05-01'
+    references:
+    - source: music.apple.com-us-album-sade-985648712
+      quote: |-
+        May 1, 2015
+      accessed: '2026-11-09'

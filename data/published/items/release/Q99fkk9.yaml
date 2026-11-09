@@ -1,0 +1,59 @@
+id: Q99fkk9
+type: release
+statements:
+  name:
+  - value:
+      text: Hich Hich Hich
+      language: en
+    references:
+    - source: music.apple.com-us-album-hich-hich-hich-506266297
+      quote: |-
+        Hich Hich Hich - Album by Shahin Najafi - Apple Music
+      accessed: '2026-11-09'
+    - source: open.spotify.com-album-3djesbwakoyzdxut2avfds
+      quote: |-
+        Listen to Hich Hich Hich - Album by Shahin Najafi | Spotify
+      accessed: '2026-11-09'
+  listen link:
+  - value: https://music.apple.com/us/album/hich-hich-hich/506266297
+    references:
+    - source: music.apple.com-us-album-hich-hich-hich-506266297
+      quote: |-
+        Hich Hich Hich - Album by Shahin Najafi - Apple Music
+      accessed: '2026-11-09'
+  - value: https://open.spotify.com/album/3dJeSBWAkOyzDxuT2aVFdS
+    references:
+    - source: open.spotify.com-album-3djesbwakoyzdxut2avfds
+      quote: |-
+        Listen to Hich Hich Hich - Album by Shahin Najafi | Spotify
+      accessed: '2026-11-09'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e0/4a/2d/e04a2d2f-8a46-23de-c719-f89a0a5bfa42/mzi.jdqzbamq.jpg/1200x630wp-60.jpg
+    references:
+    - source: music.apple.com-us-album-hich-hich-hich-506266297
+      quote: |-
+        Hich Hich Hich - Album by Shahin Najafi - Apple Music
+      accessed: '2026-11-09'
+    qualifiers:
+      credit:
+        text: music.apple.com
+        language: en
+  performer:
+  - value: Qn7vfak
+    references:
+    - source: music.apple.com-us-album-hich-hich-hich-506266297
+      quote: |-
+        Hich Hich Hich - Album by Shahin Najafi - Apple Music
+      accessed: '2026-11-09'
+    - source: open.spotify.com-album-3djesbwakoyzdxut2avfds
+      quote: |-
+        Listen to Hich Hich Hich - Album by Shahin Najafi | Spotify
+      accessed: '2026-11-09'
+  release date:
+  - value:
+      date: '2012-02-28'
+    references:
+    - source: music.apple.com-us-album-hich-hich-hich-506266297
+      quote: |-
+        February 28, 2012
+      accessed: '2026-11-09'
