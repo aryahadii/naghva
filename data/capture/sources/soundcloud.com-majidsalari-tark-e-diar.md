@@ -17,3 +17,5 @@ Page text, read 2026-10-19.
 > دوره‌گرد
 
 Transcribed visually from the 500×500 artwork published with the artist’s own Tark-e Diar upload, read 2026-10-19. The artwork pairs the Persian and English artist and album titles.
+
+> Piano: Hamzeh Yeganeh Oud, Guitar & Bass Guitar: Ebrahim Alavi Drums & Percussion: Shayan Fathi

@@ -16,3 +16,20 @@ Read 2026-11-06; Full relevant description and embedded hydration metadata inspe
 > Maziyar Khavajiyan: Bassist (Oryan)
 
 Read 2026-11-06; Full relevant description and embedded hydration metadata inspected; timestamps are source fields, not inferred first publication.
+
+> Moody Moussavi: Vocals, Guitars, Songwriter
+> Sina Saeidi: Producer, Mix & Mastering Engineer
+> Borna Shafizadeh : Drummer
+> Aida Shahghasemi: Featuring Artist (Oryan)
+> Maziyar Khavajiyan: Bassist (Oryan)
+> No One Noise : Cover Artist, Graphic Designer
+>
+> All lyrics excerpted from Baba Taher Oryan's poetry
+>
+> Tenzu Music 2023
+
+> Oryan (ft. Aida Shahghasemi)
+
+> All lyrics excerpted from Baba Taher Oryan's poetry
+
+> https://i1.sndcdn.com/artworks-lydYbqHCFTIoUxzg-EAn9fw-t500x500.jpg

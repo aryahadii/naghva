@@ -30,3 +30,5 @@ Source page or its embedded metadata, read 2026-10-19.
 > Sussan Deyhim is a composer, vocalist, sonic conceptualist, and performance artist who has been at the forefront of progressive vocal music internationally for over three decades.
 
 Biography opening, read 2026-10-23.
+
+> The House is Black, Sussan Deyhim’s multimedia stage production inspired by the works of Iranian literary heroine, poet, and filmmaker Forough Farrokhzad, was co-composed with Richard Horowitz and directed by Deyhim in collaboration with renowned American director Robert Egan.

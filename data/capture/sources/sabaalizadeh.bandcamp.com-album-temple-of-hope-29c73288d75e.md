@@ -29,3 +29,7 @@ complete claimed value.
 Artwork URL in HTML, original inspected whole, read 2026-11-06.
 
 Visible release description, complete release credit block and embedded track metadata inspected. Artwork original inspected whole; no named image creator found in the relevant credit block unless explicitly captured.
+
+> He transforms the events during the "Woman Life Freedom" movement, as well as the struggles of the population in previous years, into poignant electro-acoustic music.
+
+> Intensified by the vocals and lyrics of Andreas Spechtl, Sanam Maroufkhani, and Leila Rahimi.

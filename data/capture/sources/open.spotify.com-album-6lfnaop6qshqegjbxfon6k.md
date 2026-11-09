@@ -25,3 +25,5 @@ about:
 > Ghanbar Rastgoo
 
 Page title, description and release date meta tag, and the credited artists linked on the page, one per quote. Read 2026-11-08.
+
+> Listen to Dar Man Boro Shekar on Spotify · album · Damahi · 2019 · 13 songs

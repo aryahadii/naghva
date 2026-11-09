@@ -24,3 +24,11 @@ Official channel header and post-owner name:
 Post 14 contains a native video with the rearrangement caption, not a forwarded external upload. Its Telegram thumbnail is an expiring CDN address, excluded by the image-host policy; no stable edition artwork was established.
 
 Read 2026-10-22.
+
+> باز تنظیمِ “آمد نوبهار”
+
+> Jilliz Williz / جیلیز ویلیز
+
+> قمری جون (منتشر نشده) - شیراز - بهار ۱۴۰۴
+
+> باز تنظیمِ “رفتم”

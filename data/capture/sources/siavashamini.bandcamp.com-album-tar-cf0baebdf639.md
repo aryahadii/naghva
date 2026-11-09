@@ -1,0 +1,24 @@
+---
+url: https://siavashamini.bandcamp.com/album/tar
+title: TAR | Siavash Amini
+language: en
+status: processed
+publisher: siavashamini.bandcamp.com
+---
+
+> TAR
+> by
+> Siavash Amini
+
+> released June 9, 2017
+> via Hallow Ground
+> © Siavash Amini
+> ℗ Hallow Ground
+
+> TAR, by Siavash Amini
+
+> https://f4.bcbits.com/img/a1174068488_10.jpg
+
+> Continuing his experiments combining elements of drone and modern classical music, Tehran based composer Siavash Amini`s 4th solo LP "TAR" explores the fragile tensions between an individual and a collective subconscious. TAR is an inquiry of how fears and hopes of an individual can be related to a broader state of mind shared collectively. Making it`s starting point the expression of these feelings in dreams and nightmares of each individual, and translating the images, feelings and textures into sound.
+
+> TAR was premiered in February 2017 as a part of CTM festival`s Fear Anger Love edition.

@@ -22,3 +22,7 @@ Artist-published release links under The Psychology of Letting Go, Won Now, The 
 > https://music.apple.com/us/album/the-psychology-of-letting-go/1692880851
 
 Artist-published YouTube channel link and exact Apple Music album link, inspected in the saved official Music page HTML on 2026-10-22.
+
+> https://open.spotify.com/album/417J4VtWX81KY8yVKoXZ3U
+
+> https://open.spotify.com/album/6uUlK5dRylj2dJmZx9f4hv

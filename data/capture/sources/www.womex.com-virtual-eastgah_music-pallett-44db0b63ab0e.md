@@ -14,3 +14,9 @@ Note: Reopened the cited page and confirmed the quoted value and its
 attribution.
 
 Quote found verbatim on the fetched page; it supports the listed fields.
+
+> “Endless Ending,” Pallett’s only EP until today, was released in February 2017, which contained a DVD of live material alongside their audio tracks.
+
+> Pallett’s debut album, “Mr. Violet,” was released on January 2013
+
+> Pallett’s debut album, “Mr. Violet,” was released on January 2013 to huge critical success, breaking the record for most sold album in Iran.“Tehran, Smile!” their second album was released two years later. “Endless Ending,” Pallett’s only EP until today, was released in February 2017, which contained a DVD of live material alongside their audio tracks.

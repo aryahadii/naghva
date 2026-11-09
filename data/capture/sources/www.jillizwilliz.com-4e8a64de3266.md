@@ -54,3 +54,5 @@ The direct named musical role in a Tehran-formed alternative/fusion act supports
     supports professional scene connection without a nationality claim.
 
 Read 2026-10-03.
+
+> آلترناتیو/فیوژن تشکیل شده در تهران!

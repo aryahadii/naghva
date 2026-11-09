@@ -30,3 +30,11 @@ Page text, read 2026-10-19.
 > After hopping over to New York City in 2023, he released his third solo album, “The Psychology of Letting Go,” a concept album that challenges the idealized portrayal of love perpetuated since childhood by books and media.
 
 Page text, read 2026-10-19.
+
+> After nine years with The Allophones, Peyman flipped back to his solo career, releasing his second self-produced album, “Won Now,” in 2019, which included some of his Persian tunes for the first time.
+
+> He pursued his music studies with guitarist Alfonso Borghese at the Conservatorio Luigi Cherubini and the Fiesole Music School in Florence, Italy.
+
+> They dropped their first EP, “Stalemate,” in 2013, with a hand from Antonio Aiazzi of the legendary New-Wave band Litfiba. Their debut album, “Muscle Memory,” followed in 2017, co-produced by Tiziano Borghi and Eduardo de la Paz.
+
+> In 2020, Peyman established Justaudio Studio in Brussels

@@ -24,3 +24,7 @@ Fifth track of the album's track list, read 2026-11-08.
 
 The album's cover is the page's preview image:
 https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/02/48/9b/02489be6-0778-b097-b5e2-5ec42f286f45/191061286752.jpg/1200x630wp-60.jpg
+
+> Listen to Damahi by Damahi on Apple Music. 2015. 14 Songs. Duration: 1 hour 14 minutes.
+
+> "datePublished":"2015-09-04"

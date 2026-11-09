@@ -1,0 +1,15 @@
+---
+url: https://www.geocities.ws/muenmagazine/interviews/Arsames.html
+title: Arsames interview
+language: en
+publisher: MUEN / G. Cataline and Lissy MacMillan
+status: processed
+---
+
+> HAMED AZIZI : VOCALS
+> ALI AZHARI : LEAD GUITAR
+> HAMID YOUSEFI: RYTHEM GUITAR
+> ALI SANAEI : BASS GUITAR
+> ALI MADARSHAHI; DRUMS
+
+> AS A MATTER OF FACT THE LYRICS HAVE BEEN WRITTEN BY COOPERATION OF TWO GUYS (ME AND DR VAHID ZEHI) - WHAT'S MORE ALL LYRICS HAVE BEEN TRANSLATED INTO ENGLISH AND BEEN ARRANGED WITH THE MUSIC BY DR ZEHI
