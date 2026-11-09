@@ -13,3 +13,5 @@ tier: own
 > mainstream and independent artists across a wide range of musical styles.
 
 Page text and public embedded metadata, read 2026-10-20.
+
+> https://i.scdn.co/image/ab67616d0000b273c7ec78ad3c0ccbe9b4009f59

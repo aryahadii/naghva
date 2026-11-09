@@ -15,3 +15,5 @@ Artist biography, read 2026-10-22.
 > https://images.ctfassets.net/taoiy3h84mql/21XZzvL3kyppA9T8oMRfRq/5f23024975ba4e5f6b72458654aad179/photo_2024-11-06_21.01.05.jpeg
 
 Page text and public embedded metadata, read 2026-10-20.
+
+> Taha Mazaheri is a well-known musician amongst the indie music community in Tehran, Iran. From the Pop/jazzy songs with “Golsa” to heavy fuzzy chords in his own solo project, Taha is a multi-genre guitarist and producer.

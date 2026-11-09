@@ -1,0 +1,67 @@
+id: Q3m8ksx
+type: release
+statements:
+  name:
+  - value:
+      text: بِتاز بِتازه
+      language: fa
+    references:
+    - source: t.me-jumamusic-175
+      quote: |-
+        بِتاز بِتازه
+      accessed: '2026-10-22'
+  release date:
+  - value:
+      date: '1403-05-28'
+      calendar: jalali
+    references:
+    - source: t.me-jumamusic-175
+      quote: 'نشر: ۲۸مرداد ۱۴۰۳'
+      accessed: '2026-10-22'
+  performer:
+  - value: Q48zttz
+    references:
+    - source: t.me-jumamusic-175
+      quote: 'آهنگ و اجرا: جوما'
+      accessed: '2026-10-22'
+  contributor:
+  - value: Qvs5c3g
+    qualifiers:
+      role:
+      - lyricist
+    references:
+    - source: t.me-jumamusic-175
+      quote: 'شعر: حسن خوشدل (دهه‌ی۵۰)'
+      accessed: '2026-10-22'
+  - value: Q48zttz
+    qualifiers:
+      role:
+      - composer
+    references:
+    - source: t.me-jumamusic-175
+      quote: 'آهنگ و اجرا: جوما'
+      accessed: '2026-10-22'
+  listen link:
+  - value: https://t.me/jumamusic/175
+    references:
+    - source: t.me-jumamusic-175
+      quote: |-
+        بِتاز بِتازه
+      accessed: '2026-10-22'
+  - value: https://soundcloud.com/jumaprojets/betaz-betaze
+    references:
+    - source: soundcloud.com-jumaprojets-betaz-betaze
+      quote: |-
+        Betaz Betaze- بتاز بتازه
+      accessed: '2026-10-22'
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-5ZvYEzVyY5qBkFMT-zDRfvg-t500x500.jpg
+    qualifiers:
+      credit:
+        text: Jumaprojets (SoundCloud)
+        language: en
+    references:
+    - source: soundcloud.com-jumaprojets-betaz-betaze
+      quote: |-
+        Betaz Betaze- بتاز بتازه
+      accessed: '2026-10-22'

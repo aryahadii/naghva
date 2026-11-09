@@ -1,0 +1,23 @@
+id: Qjxh3ed
+type: event
+statements:
+  name:
+  - value:
+      text: Pallett Live in Vienna
+      language: en
+    references:
+    - &id001
+      source: volek.events-event-pallett-live-in-vienna-2025
+      quote: Pallett Live in Vienna
+      accessed: '2026-10-19'
+  event date:
+  - value:
+      date: '2025-10-31'
+    references:
+    - source: pallettmusic.com-7d0b6e14b735
+      quote: Friday, October 31, 2025
+      accessed: '2026-10-19'
+  performer:
+  - value: Qq5328q
+    references:
+    - *id001

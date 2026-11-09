@@ -1,0 +1,98 @@
+id: Qyqsqse
+type: release
+statements:
+  name:
+  - value:
+      text: Khorous Fesenjan
+      language: en
+    references:
+    - source: soundcloud.com-moodymoussavi-khorous-fesenjan-c6d55cc200e7
+      quote: |-
+        Khorous Fesenjan
+      accessed: '2026-11-06'
+  - value:
+      text: خروس فسنجان
+      language: fa
+    references:
+    - source: soundcloud.com-moodymoussavi-khorous-fesenjan-c6d55cc200e7
+      quote: |-
+        Khorous Fesenjan
+      accessed: '2026-11-06'
+  performer:
+  - value: Qv5ybzr
+    references:
+    - source: music.apple.com-us-album-khorous-fesenjan-single-1581122989-546f84189d99
+      quote: '"byArtist":[{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/moody-moussavi/1556901633","name":"Moody Moussavi"}]'
+      accessed: '2026-11-06'
+  - value: Qx4zbn3
+    references:
+    - source: soundcloud.com-moodymoussavi-khorous-fesenjan-c6d55cc200e7
+      quote: 'گیتار بِیس: مازیار خَوّاجیان'
+      accessed: '2026-11-06'
+    qualifiers:
+      role:
+      - bass
+  contributor:
+  - value: Qv5ybzr
+    references:
+    - source: soundcloud.com-moodymoussavi-khorous-fesenjan-c6d55cc200e7
+      quote: 'شعر: آرش منصف، محمد موسوی'
+      accessed: '2026-11-06'
+    qualifiers:
+      role:
+      - lyricist
+  - value: Q85ngex
+    references:
+    - source: soundcloud.com-moodymoussavi-khorous-fesenjan-c6d55cc200e7
+      quote: 'شعر: آرش منصف، محمد موسوی'
+      accessed: '2026-11-06'
+    qualifiers:
+      role:
+      - lyricist
+  - value: Qv5ybzr
+    references:
+    - source: music.apple.com-us-song-khorous-fesenjan-1581122991-0a70068dc724
+      quote: '"name":"Moody Moussavi","roleNames":["Songwriter"]'
+      accessed: '2026-11-06'
+    qualifiers:
+      role:
+      - songwriter
+  release date:
+  - value:
+      date: '2019-08-28'
+    references:
+    - source: music.apple.com-us-album-khorous-fesenjan-single-1581122989-546f84189d99
+      quote: '"datePublished":"2019-08-28"'
+      accessed: '2026-11-06'
+  listen link:
+  - value: https://soundcloud.com/moodymoussavi/khorous-fesenjan
+    references:
+    - source: soundcloud.com-moodymoussavi-khorous-fesenjan-c6d55cc200e7
+      quote: |-
+        Khorous Fesenjan
+      accessed: '2026-11-06'
+  - value: https://music.apple.com/us/album/khorous-fesenjan-single/1581122989
+    references:
+    - source: music.apple.com-us-album-khorous-fesenjan-single-1581122989-546f84189d99
+      quote: '"name":"Khorous Fesenjan - Single"'
+      accessed: '2026-11-06'
+  - value: https://open.spotify.com/track/6xDZ1NYTY97UPfnrAHdhH8
+    references:
+    - source: open.spotify.com-track-6xdz1nyty97upfnrahdhh8-803d747b6e11
+      quote: |-
+        Khorous Fesenjan
+      accessed: '2026-11-06'
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-000588817472-1nr3b7-t500x500.jpg
+    references:
+    - source: soundcloud.com-moodymoussavi-khorous-fesenjan-c6d55cc200e7
+      quote: |-
+        https://i1.sndcdn.com/artworks-000588817472-1nr3b7-t500x500.jpg
+      accessed: '2026-11-06'
+    - source: soundcloud.com-moodymoussavi-khorous-fesenjan-c6d55cc200e7
+      quote: 'طراح کاوِر: مجید حیدری'
+      accessed: '2026-11-06'
+    qualifiers:
+      credit:
+        text: مجید حیدری
+        language: fa

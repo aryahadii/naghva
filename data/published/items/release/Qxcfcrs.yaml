@@ -1,0 +1,84 @@
+id: Qxcfcrs
+type: release
+statements:
+  name:
+  - value:
+      text: Adineh - Single
+      language: en
+    references:
+    - source: music.apple.com-us-album-adineh-single-1413000359-chaartaar
+      quote: |-
+        Adineh - Single by Chaartaar on Apple Music
+      accessed: '2026-11-06'
+  - value:
+      text: آدینه
+      language: fa
+    references:
+    - source: www.navahang.com-mp3-chaartaar-adineh
+      quote: 'Adineh Chaartaar Vocal: Arman Garshasbi Mix & Mastering: Arash Pakzad Guitar: Navid Zomorodi Producer: Hosein Tootoonchian آدینه چارتار'
+      accessed: '2026-11-06'
+  performer:
+  - value: Qb3nvrj
+    references:
+    - source: music.apple.com-us-album-adineh-single-1413000359-chaartaar
+      quote: |-
+        Adineh - Single by Chaartaar on Apple Music
+      accessed: '2026-11-06'
+  - value: Qqywmyz
+    references:
+    - source: www.navahang.com-mp3-chaartaar-adineh
+      quote: 'Adineh Chaartaar Vocal: Arman Garshasbi Mix & Mastering: Arash Pakzad Guitar: Navid Zomorodi Producer: Hosein Tootoonchian آدینه چارتار'
+      accessed: '2026-11-06'
+    qualifiers:
+      role: vocals
+  - value: Qm88jz6
+    references:
+    - source: www.navahang.com-mp3-chaartaar-adineh
+      quote: 'Adineh Chaartaar Vocal: Arman Garshasbi Mix & Mastering: Arash Pakzad Guitar: Navid Zomorodi Producer: Hosein Tootoonchian آدینه چارتار'
+      accessed: '2026-11-06'
+    qualifiers:
+      role: guitar
+  contributor:
+  - value: Qn4mzte
+    references:
+    - source: www.navahang.com-mp3-chaartaar-adineh
+      quote: 'Adineh Chaartaar Vocal: Arman Garshasbi Mix & Mastering: Arash Pakzad Guitar: Navid Zomorodi Producer: Hosein Tootoonchian آدینه چارتار'
+      accessed: '2026-11-06'
+    qualifiers:
+      role:
+      - producer
+  release date:
+  - value:
+      date: '2018-07-16'
+    references:
+    - source: music.apple.com-us-album-adineh-single-1413000359-chaartaar
+      quote: '"datePublished":"2018-07-16"'
+      accessed: '2026-11-06'
+  listen link:
+  - value: https://music.apple.com/us/album/adineh-single/1413000359
+    references:
+    - source: music.apple.com-us-album-adineh-single-1413000359-chaartaar
+      quote: |-
+        Adineh - Single by Chaartaar on Apple Music
+      accessed: '2026-11-06'
+  - value: https://open.spotify.com/album/2NuaexMmTlI9raPvsXXTFt
+    references:
+    - source: open.spotify.com-embed-album-2nuaexmmtli9rapvsxxtft-chaartaar
+      quote: |-
+        Adineh · Chaartaar
+      accessed: '2026-11-06'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/96/48/99/964899dd-b882-278c-7662-a9c44fdd012c/cover.jpg/632x632bb-60.jpg
+    references:
+    - source: music.apple.com-us-album-adineh-single-1413000359-chaartaar
+      quote: |-
+        Adineh - Single by Chaartaar on Apple Music
+      accessed: '2026-11-06'
+    - source: music.apple.com-us-album-adineh-single-1413000359-chaartaar
+      quote: |-
+        https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/96/48/99/964899dd-b882-278c-7662-a9c44fdd012c/cover.jpg/632x632bb-60.jpg
+      accessed: '2026-11-06'
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en

@@ -1,0 +1,114 @@
+id: Qyyfcep
+type: release
+statements:
+  name:
+  - value:
+      text: نم بارون
+      language: fa
+    references:
+    - source: soundcloud.com-marjan-farsad-nameh-baroon-marjan-farsad-69d6a2dc550f
+      quote: |-
+        Nameh Baroon - Marjan Farsad - مرجان فرساد - نم بارون
+      accessed: '2026-10-22'
+  - value:
+      text: Nameh Baroon
+      language: en
+    references:
+    - source: music.apple.com-us-album-nameh-baroon-single-1756379858-c0b807fce9f8
+      quote: |-
+        Nameh Baroon - Single
+      accessed: '2026-10-22'
+  release date:
+  - value:
+      date: '2024-07-19'
+    references:
+    - source: music.apple.com-us-album-nameh-baroon-single-1756379858-c0b807fce9f8
+      quote: |-
+        2024-07-19
+      accessed: '2026-10-22'
+  performer:
+  - value: Q3te3g6
+    references:
+    - source: music.apple.com-us-album-nameh-baroon-single-1756379858-c0b807fce9f8
+      quote: |-
+        Marjan Farsad
+      accessed: '2026-10-22'
+  - value: Qfxfy6v
+    qualifiers:
+      role: piano
+    references:
+    - source: soundcloud.com-marjan-farsad-nameh-baroon-marjan-farsad-69d6a2dc550f
+      quote: 'Producer, Piano, Guitar, Mix, Master: @shervinnajafian'
+      accessed: '2026-10-22'
+  - value: Qfxfy6v
+    qualifiers:
+      role: guitar
+    references:
+    - source: soundcloud.com-marjan-farsad-nameh-baroon-marjan-farsad-69d6a2dc550f
+      quote: 'Producer, Piano, Guitar, Mix, Master: @shervinnajafian'
+      accessed: '2026-10-22'
+  - value: Q86jept
+    qualifiers:
+      role: cello
+    references:
+    - source: soundcloud.com-marjan-farsad-nameh-baroon-marjan-farsad-69d6a2dc550f
+      quote: 'Cello: Federico Bragetti'
+      accessed: '2026-10-22'
+  contributor:
+  - value: Q3te3g6
+    qualifiers:
+      role:
+      - composer
+    references:
+    - source: soundcloud.com-marjan-farsad-nameh-baroon-marjan-farsad-69d6a2dc550f
+      quote: 'Music, Lyrics, Illustration: Marjan Farsad'
+      accessed: '2026-10-22'
+  - value: Q3te3g6
+    qualifiers:
+      role:
+      - lyricist
+    references:
+    - source: soundcloud.com-marjan-farsad-nameh-baroon-marjan-farsad-69d6a2dc550f
+      quote: 'Music, Lyrics, Illustration: Marjan Farsad'
+      accessed: '2026-10-22'
+  - value: Qfxfy6v
+    qualifiers:
+      role:
+      - producer
+    references:
+    - source: soundcloud.com-marjan-farsad-nameh-baroon-marjan-farsad-69d6a2dc550f
+      quote: 'Producer, Piano, Guitar, Mix, Master: @shervinnajafian'
+      accessed: '2026-10-22'
+  listen link:
+  - value: https://music.apple.com/us/album/nameh-baroon-single/1756379858
+    references:
+    - source: music.apple.com-us-album-nameh-baroon-single-1756379858-c0b807fce9f8
+      quote: |-
+        Nameh Baroon - Single
+      accessed: '2026-10-22'
+  - value: https://open.spotify.com/album/3pbJxHrp1hH0uf8WhGgEa7
+    references:
+    - source: open.spotify.com-embed-uri-spotify-3aalbum-3a3pbjxhrp1hh0uf8whggea7-66336e60851c
+      quote: |-
+        spotify:album:3pbJxHrp1hH0uf8WhGgEa7
+      accessed: '2026-10-22'
+  - value: https://soundcloud.com/marjan-farsad/nameh-baroon-marjan-farsad
+    references:
+    - source: soundcloud.com-marjan-farsad-nameh-baroon-marjan-farsad-69d6a2dc550f
+      quote: |-
+        Nameh Baroon - Marjan Farsad - مرجان فرساد - نم بارون
+      accessed: '2026-10-22'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/04/9b/2b049b3e-75fe-c500-3296-60c4413b0ba7/artwork.jpg/1200x630bb.jpg
+    qualifiers:
+      credit:
+        text: Marjan Farsad
+        language: en
+    references:
+    - source: music.apple.com-us-album-nameh-baroon-single-1756379858-c0b807fce9f8
+      quote: |-
+        https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/04/9b/2b049b3e-75fe-c500-3296-60c4413b0ba7/artwork.jpg/1200x630bb.jpg
+      accessed: '2026-10-22'
+    - source: soundcloud.com-marjan-farsad-nameh-baroon-marjan-farsad-69d6a2dc550f
+      quote: 'Music, Lyrics, Illustration: Marjan Farsad'
+      accessed: '2026-10-22'

@@ -1,0 +1,27 @@
+id: Qqvvm9s
+type: person
+statements:
+  name:
+  - value:
+      text: حسام گرشاسبی
+      language: fa
+    references:
+    - source: fa.wikipedia.org-wiki-d8-b1-d8-a7-d8-af-db-8c-d9-88_-d8-aa-d9-87-d8-b1-d8-a7-d9-86_-da-af-d8-b1-d9-88-d9-87_-d-e93eb73bb021
+      quote: اعضا علی عظیمی علی کمالی حسام گرشاسبی پیام هاشمی
+      accessed: '2026-10-19'
+  - value:
+      text: Hesam Garshasbi
+      language: en
+    references:
+    - &id001
+      source: contemporaryiranian.com-artists-music-radio-tehran-7d00a1e3b218
+      quote: Hesam Garshasbi (bass, backing vocals)
+      accessed: '2026-10-19'
+  member of:
+  - value: Qq8mnpp
+    qualifiers:
+      role:
+      - bass
+      - vocals
+    references:
+    - *id001

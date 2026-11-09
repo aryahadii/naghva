@@ -1,0 +1,48 @@
+id: Q47zqpe
+type: release
+statements:
+  name:
+  - value:
+      text: The Butterfly
+      language: en
+    references:
+    - &id001
+      source: music.apple.com-us-album-the-butterfly-single-6778015474
+      quote: The Butterfly - Single
+      accessed: '2026-11-06'
+  - value:
+      text: پروانه
+      language: fa
+    references:
+    - source: music.apple.com-us-album-the-butterfly-single-6778015474
+      quote: پروانه
+      accessed: '2026-11-06'
+  release date:
+  - value:
+      date: '2026-06-13'
+    references:
+    - source: music.apple.com-us-album-the-butterfly-single-6778015474
+      quote: June 13, 2026
+      accessed: '2026-11-06'
+  performer:
+  - value: Qq5328q
+    references:
+    - *id001
+  listen link:
+  - value: https://music.apple.com/us/album/the-butterfly-single/6778015474
+    references:
+    - *id001
+  - value: https://soundcloud.com/pallettmusic/the-butterfly
+    references:
+    - source: soundcloud.com-pallettmusic-the-butterfly
+      quote: The Butterfly
+      accessed: '2026-11-06'
+  - value: https://open.spotify.com/track/6u8xclva267w33fKesUuHN
+    references:
+    - source: open.spotify.com-track-pallett-the-butterfly
+      quote: The Butterfly - song and lyrics by Pallett | Spotify
+      accessed: '2026-11-06'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a2/35/a3/a235a31e-9dd2-1907-1d80-b49fa0adfe3d/8721555400542.png/600x600bf-60.jpg
+    references:
+    - *id001

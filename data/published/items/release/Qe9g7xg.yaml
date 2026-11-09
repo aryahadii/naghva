@@ -1,0 +1,68 @@
+id: Qe9g7xg
+type: release
+statements:
+  name:
+  - value:
+      text: جوانه
+      language: fa
+    references:
+    - source: t.me-jumamusic-121
+      quote: |-
+        جوانه
+      accessed: '2026-10-22'
+  release date:
+  - value:
+      date: '1402-11-06'
+      calendar: jalali
+    references:
+    - source: t.me-jumamusic-121
+      quote: 'نشر: ۶ بهمن ۱۴۰۲'
+      accessed: '2026-10-22'
+  performer:
+  - value: Q48zttz
+    references:
+    - source: t.me-jumamusic-121
+      quote: 'آهنگ و اجرا: جوما'
+      accessed: '2026-10-22'
+  contributor:
+  - value: Q9xfk8q
+    qualifiers:
+      role:
+      - lyricist
+    references:
+    - source: t.me-jumamusic-121
+      quote: 'شعر: محمدعلی اخوات (وارش فومنی) دهه‌ی ۷۰خورشیدی'
+      accessed: '2026-10-22'
+  - value: Q48zttz
+    qualifiers:
+      role:
+      - composer
+    references:
+    - source: t.me-jumamusic-121
+      quote: 'آهنگ و اجرا: جوما'
+      accessed: '2026-10-22'
+  listen link:
+  - value: https://t.me/jumamusic/121
+    references:
+    - source: t.me-jumamusic-121
+      quote: |-
+        جوانه
+        آهنگ و اجرا: جوما
+      accessed: '2026-10-22'
+  - value: https://soundcloud.com/jumaprojets/javaneh
+    references:
+    - source: soundcloud.com-jumaprojets-javaneh
+      quote: |-
+        javaneh - جوانه
+      accessed: '2026-10-22'
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-U65qmZcr5A5MzYy2-fR35yw-t500x500.jpg
+    qualifiers:
+      credit:
+        text: Jumaprojets (SoundCloud)
+        language: en
+    references:
+    - source: soundcloud.com-jumaprojets-javaneh
+      quote: |-
+        javaneh - جوانه
+      accessed: '2026-10-22'

@@ -21,3 +21,5 @@ release.
 > Ebrahim Monsefi wuchs in Bandar Abbas auf, heute eine boomende Hafenstadt an der Meerenge von Hormus und schon damals ein Schmelztiegel unterschiedlichster Kulturen.
 
 Page text, read 2026-10-19.
+
+> Als junger Dichter legte er sich deshalb das Pseudonym „Rami“ zu

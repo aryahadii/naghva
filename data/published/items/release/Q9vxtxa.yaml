@@ -1,0 +1,63 @@
+id: Q9vxtxa
+type: release
+statements:
+  name:
+  - value:
+      text: Beginning of the Cold Season
+      language: en
+    references:
+    - &id001
+      source: music.apple.com-us-album-beginning-of-the-cold-season-single-1771670452-09e32a36dcd9
+      quote: 'Beginning of the Cold Season - Single
+
+        Saba Alizadeh
+
+        Electronic · 2024'
+      accessed: '2026-11-06'
+  # Editorial Persian display spelling; source uses the original name.
+  - value:
+      text: آغاز فصل سرد
+      language: fa
+    references:
+    - *id001
+  release date:
+  - value:
+      date: '2024-10-07'
+    references:
+    - source: music.apple.com-us-album-beginning-of-the-cold-season-single-1771670452-09e32a36dcd9
+      quote: 'October 7, 2024
+
+        1 song, 6 minutes
+
+        ℗ 2024 saba alizadeh'
+      accessed: '2026-11-06'
+  performer:
+  - value: Qgbbc6t
+    references:
+    - *id001
+  listen link:
+  - value: https://music.apple.com/us/album/beginning-of-the-cold-season-single/1771670452
+    references:
+    - *id001
+  - value: https://open.spotify.com/track/0yqHxUNdh0BT9y18oW2hwE
+    references:
+    - source: open.spotify.com-embed-track-0yqhxundh0bt9y18ow2hwe-2e5954f4ac5d
+      quote: 'Beginning of the Cold Season
+
+        Saba Alizadeh'
+      accessed: '2026-11-06'
+  - value: https://open.spotify.com/album/6CvsKfMtssuObNjbeVgBcd
+    references:
+    - source: open.spotify.com-embed-album-6cvskfmtssuobnjbevgbcd-d05062a77f16
+      quote: 'Beginning of the Cold Season
+
+        ·
+
+        Saba Alizadeh'
+      accessed: '2026-11-06'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b0/72/b9/b072b9f6-4594-7561-b8a8-4ee66d2142fe/5063616060306_cover.jpg/632x632bb-60.jpg
+    references:
+    - source: music.apple.com-us-album-beginning-of-the-cold-season-single-1771670452-09e32a36dcd9
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b0/72/b9/b072b9f6-4594-7561-b8a8-4ee66d2142fe/5063616060306_cover.jpg/632x632bb-60.jpg
+      accessed: '2026-11-06'

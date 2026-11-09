@@ -1,0 +1,71 @@
+id: Qrxgkwa
+type: release
+statements:
+  name:
+  - value:
+      text: Scattered Memories
+      language: en
+    references:
+    - &id001
+      source: karlrecords.bandcamp.com-album-scattered-memories-40fd0faeea0e
+      quote: |-
+        Scattered Memories
+        by
+        SABA ALIZADEH
+      accessed: '2026-11-06'
+  - value:
+      text: یادهای پراکنده
+      language: fa
+    references:
+    - source: karlrecords.bandcamp.com-album-scattered-memories-40fd0faeea0e
+      quote: یادهای پراکنده
+      accessed: '2026-11-06'
+  performer:
+  - value: Qgbbc6t
+    references:
+    - *id001
+  release date:
+  - value:
+      date: '2019-02-15'
+    references:
+    - source: karlrecords.bandcamp.com-album-scattered-memories-40fd0faeea0e
+      quote: released February 15, 2019
+      accessed: '2026-11-06'
+  listen link:
+  - value: https://karlrecords.bandcamp.com/album/scattered-memories
+    references:
+    - *id001
+  - value: https://music.apple.com/us/album/scattered-memories/1449241851
+    references:
+    - source: music.apple.com-us-album-scattered-memories-1449241851-e41507e96992
+      quote: |-
+        Scattered Memories
+        Saba Alizadeh
+        Worldwide · 2019
+      accessed: '2026-11-06'
+  - value: https://open.spotify.com/album/1gdqUcyBzUwIUjIQvrK2d8
+    references:
+    - source: open.spotify.com-embed-album-1gdqucybzuwiujiqvrk2d8-56b6da2852e1
+      quote: |-
+        Scattered Memories
+        ·
+        Saba Alizadeh
+      accessed: '2026-11-06'
+  cover art:
+  - value: https://f4.bcbits.com/img/a3401217003_10.jpg
+    references:
+    - source: karlrecords.bandcamp.com-album-scattered-memories-40fd0faeea0e
+      quote: https://f4.bcbits.com/img/a3401217003_10.jpg
+      accessed: '2026-11-06'
+    qualifiers:
+      credit:
+        text: karlrecords.bandcamp.com
+        language: en
+  published by:
+  - value: Q7mn6md
+    references:
+    - source: karlrecords.bandcamp.com-album-scattered-memories-40fd0faeea0e
+      quote: |-
+        Karlrecords
+        Berlin, Germany
+      accessed: '2026-11-06'

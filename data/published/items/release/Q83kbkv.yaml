@@ -1,0 +1,80 @@
+id: Q83kbkv
+type: release
+statements:
+  name:
+  - value:
+      text: Shooting Stars
+      language: en
+    references:
+    - &id001
+      source: sabaalizadeh.bandcamp.com-track-shooting-stars-c7e4fbc00f8a
+      quote: Shooting Stars
+      accessed: '2026-11-06'
+  # Editorial Persian display spelling; source uses the original name.
+  - value:
+      text: شهاب‌ها
+      language: fa
+    references:
+    - *id001
+  performer:
+  - value: Qgbbc6t
+    references:
+    - source: sabaalizadeh.bandcamp.com-track-shooting-stars-c7e4fbc00f8a
+      quote: 'Kamancheh: Saba Alizadeh'
+      accessed: '2026-11-06'
+    qualifiers:
+      role:
+      - kamancheh
+  - value: Qdzyrb8
+    references:
+    - source: sabaalizadeh.bandcamp.com-track-shooting-stars-c7e4fbc00f8a
+      quote: 'Voice: Linnea Sablosky'
+      accessed: '2026-11-06'
+    qualifiers:
+      role:
+      - vocals
+  - value: Qnnyghb
+    references:
+    - source: sabaalizadeh.bandcamp.com-track-shooting-stars-c7e4fbc00f8a
+      quote: 'Violin: Yu-Ting Wu'
+      accessed: '2026-11-06'
+    qualifiers:
+      role:
+      - violin
+  - value: Qrvfv7t
+    references:
+    - source: sabaalizadeh.bandcamp.com-track-shooting-stars-c7e4fbc00f8a
+      quote: 'Percussion: Tony Gennaro'
+      accessed: '2026-11-06'
+    qualifiers:
+      role:
+      - percussion
+  - value: Q35v7ab
+    references:
+    - source: sabaalizadeh.bandcamp.com-track-shooting-stars-c7e4fbc00f8a
+      quote: 'Guitar: Steven Kai Van Betten'
+      accessed: '2026-11-06'
+    qualifiers:
+      role:
+      - guitar
+  release date:
+  - value:
+      date: '2012-12-16'
+    references:
+    - source: sabaalizadeh.bandcamp.com-track-shooting-stars-c7e4fbc00f8a
+      quote: released December 16, 2012
+      accessed: '2026-11-06'
+  listen link:
+  - value: https://sabaalizadeh.bandcamp.com/track/shooting-stars
+    references:
+    - *id001
+  cover art:
+  - value: https://f4.bcbits.com/img/a2279074850_10.jpg
+    references:
+    - source: sabaalizadeh.bandcamp.com-track-shooting-stars-c7e4fbc00f8a
+      quote: https://f4.bcbits.com/img/a2279074850_10.jpg
+      accessed: '2026-11-06'
+    qualifiers:
+      credit:
+        text: sabaalizadeh.bandcamp.com
+        language: en

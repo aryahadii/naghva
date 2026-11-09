@@ -1,0 +1,16 @@
+id: Qtqwf7n
+type: person
+statements:
+  name:
+  - value:
+      text: Efrén López
+      language: en
+    references: &id001
+    - source: azamali.bandcamp.com-track-once-more-all-is-green-45d81a074e57
+      quote: ONCE MORE, ALL IS GREEN | Azam Ali Feat. Efrén López | Azam Ali
+      accessed: '2026-11-06'
+  # Persian display name is editorial; the reference establishes the original name.
+  - value:
+      text: افرن لوپز
+      language: fa
+    references: *id001

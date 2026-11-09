@@ -1,0 +1,37 @@
+id: Qce667r
+type: act
+statements:
+  name:
+  - value:
+      text: سرخس
+      language: fa
+    references:
+    - source: soundcloud.com-sarakhsmusic-d53de9bb5e78
+      quote: |-
+        Sarakhs (سرخس) are an Iranian alternative rock band formed in Tehran in 1998. The band consists of Behzad Khiavchi, Yuri Akop and Peter Akop.
+      accessed: '2026-10-19'
+  - value:
+      text: Sarakhs
+      language: en
+    references:
+    - source: soundcloud.com-sarakhsmusic-d53de9bb5e78
+      quote: |-
+        Sarakhs (سرخس) are an Iranian alternative rock band formed in Tehran in 1998. The band consists of Behzad Khiavchi, Yuri Akop and Peter Akop.
+      accessed: '2026-10-19'
+  formation date:
+  - value:
+      date: '1998'
+    references:
+    - source: soundcloud.com-sarakhsmusic-d53de9bb5e78
+      quote: |-
+        Sarakhs (سرخس) are an Iranian alternative rock band formed in Tehran in 1998. The band consists of Behzad Khiavchi, Yuri Akop and Peter Akop.
+      accessed: '2026-10-19'
+  - value:
+      date: '1378'
+      calendar: jalali
+    references:
+    - source: www.nogaam.com-sites-default-files-avazhaye-20zirzamin-209781909641020.epub-fid-1751-12a30296a291
+      quote: |-
+        این گروه در سال 1378 به وسیله «یوری آکوپ» (نوازنده درامز) و «پیتر آکوپ»، برادرش (نوازنده گیتار بیس)، و بهزاد خیاوچی (خواننده) تشکیل شد.
+      accessed: '2026-10-19'
+      locator: فصل نهم، بخش سرخس (OEBPS/Text/Section0015.xhtml)

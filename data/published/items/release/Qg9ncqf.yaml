@@ -1,0 +1,112 @@
+id: Qg9ncqf
+type: release
+statements:
+  name:
+  - value:
+      text: Phantasm
+      language: en
+    references:
+    - source: music.apple.com-us-album-phantasm-1460432532-716f7563b135
+      quote: |-
+        Phantasm - Album by Ehsan Matoori & Mohsen Namjoo
+      accessed: '2026-10-06'
+  - value:
+      text: Sowday e man (Phantasm)
+      language: en
+    references:
+    - source: www.mohsennamjoo.com-bio-5245eac68977
+      quote: |-
+        2019 Sowday e man (Phantasm) (With Ehsan Matouri) Sheed Records
+      accessed: '2026-10-23'
+  - value:
+      text: سودای من
+      language: fa
+    references:
+    - source: music.apple.com-us-album-phantasm-1460432532-716f7563b135
+      quote: |-
+        سودای من
+      accessed: '2026-10-23'
+  performer:
+  - value: Qwh5yn8
+    references:
+    - source: music.apple.com-us-album-phantasm-1460432532-716f7563b135
+      quote: |-
+        Phantasm - Album by Ehsan Matoori & Mohsen Namjoo
+      accessed: '2026-10-06'
+  - value: Qt6wjbg
+    references:
+    - source: music.apple.com-us-album-phantasm-1460432532-716f7563b135
+      quote: |-
+        Phantasm - Album by Ehsan Matoori & Mohsen Namjoo
+      accessed: '2026-10-06'
+  - value: Qt6wjbg
+    qualifiers:
+      role: vocals
+    references:
+    - source: t.me-official_mohsennamjoo-827
+      quote: |-
+        «سودای من»؛ آلبومی به آهنگسازی احسان مطورى و آواز محسن نامجو
+      accessed: '2026-11-03'
+  contributor:
+  - value: Qwh5yn8
+    qualifiers:
+      role:
+      - composer
+    references:
+    - source: t.me-official_mohsennamjoo-827
+      quote: |-
+        «سودای من»؛ آلبومی به آهنگسازی احسان مطورى و آواز محسن نامجو
+      accessed: '2026-11-03'
+  release date:
+  - value:
+      date: '2019'
+    references:
+    - source: www.mohsennamjoo.com-bio-5245eac68977
+      quote: |-
+        2019 Sowday e man (Phantasm) (With Ehsan Matouri) Sheed Records
+      accessed: '2026-10-23'
+  listen link:
+  - value: https://music.apple.com/us/album/phantasm/1460432532
+    references:
+    - source: music.apple.com-us-album-phantasm-1460432532-716f7563b135
+      quote: |-
+        Phantasm - Album by Ehsan Matoori & Mohsen Namjoo
+      accessed: '2026-10-06'
+  - value: https://www.youtube.com/playlist?list=OLAK5uy_lp7GGyBlfwCU1SPs5vY3BUKuIAPiBOtTM
+    references:
+    - source: www.youtube.com-channel-ucf8emydv6dtypqcjegb83sa
+      quote: |-
+        Phantasm
+      accessed: '2026-10-23'
+    - source: www.youtube.com-channel-ucf8emydv6dtypqcjegb83sa
+      quote: |-
+        Ehsan Matoori, Mohsen Namjoo
+      accessed: '2026-10-23'
+    - source: www.youtube.com-channel-ucf8emydv6dtypqcjegb83sa
+      quote: |-
+        OLAK5uy_lp7GGyBlfwCU1SPs5vY3BUKuIAPiBOtTM
+      accessed: '2026-10-23'
+    - source: www.mohsennamjoo.com-bio-5245eac68977
+      quote: |-
+        https://www.youtube.com/channel/UCf8EMYdv6DTYpqCjEGb83SA
+      accessed: '2026-10-23'
+  - value: https://open.spotify.com/album/6BpNS2A9Tjat8gJxqLGrKi
+    references:
+    - source: open.spotify.com-album-6bpns2a9tjat8gjxqlgrki
+      quote: |-
+        Phantasm
+        Ehsan Matoori
+        Mohsen Namjoo
+        spotify:album:6BpNS2A9Tjat8gJxqLGrKi
+      accessed: '2026-10-23'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/6e/f6/7e/6ef67e9a-2dc3-061d-d47b-d96b7c01c7ee/0676868224720.jpg/600x600bf-60.jpg
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-phantasm-1460432532-716f7563b135
+      quote: |-
+        https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/6e/f6/7e/6ef67e9a-2dc3-061d-d47b-d96b7c01c7ee/0676868224720.jpg/600x600bf-60.jpg
+      accessed: '2026-10-23'

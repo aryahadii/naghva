@@ -1,0 +1,29 @@
+# Event titles are editorial descriptions of the documented performances.
+id: Q4bff9g
+type: event
+statements:
+  name:
+  - value:
+      text: کنسرت فرهاد در هتل شهر تهران
+      language: fa
+    references:
+    - &id001
+      source: www.farhadmehrad.org-farhad-mehrad-discography-b42b4c18ab12
+      quote: در آذرماه سال 1377 کنسرتی در هتل شهر تهران برای فرهاد ترتیب داده شد. این کنسرت قرار بود با ظرفیت 150 نفر در دو دوشب برگزار شود. اما متولیان امر برای هر شب بیش از 350 صندلی رزرو فروخته بودند و علاوه بر آن عده ای هم بصورت سرپا در این کنسرت حضور پیدا کردند. بلیت های این کنسرت پر حاشیه در اولین ساعات فروش تمام شد و بسیاری طرفداران به ناچار در بازار سیاه بلیت را پنج برابر قیمت واقعی خریداری کردند. با تمام این حواشی، خوشبختانه این کنسرت با کیفیت مطلوبی ضبط شد (تنها بصورت صوتی) . این تنها کنسرتی بود که فرهاد آهنگ های کتیبه و گاندی را بصورت زنده اجرا کرد.
+      accessed: '2026-10-23'
+      locator: Official discography, tehran
+  - value:
+      text: Farhad at Hotel Shahr, Tehran
+      language: en
+    references:
+    - *id001
+  event date:
+  - value:
+      date: 1377-09
+      calendar: jalali
+    references:
+    - *id001
+  performer:
+  - value: Qq6xyzn
+    references:
+    - *id001

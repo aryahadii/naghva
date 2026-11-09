@@ -1,0 +1,55 @@
+id: Q2qj7hc
+type: release
+statements:
+  name:
+  - value:
+      text: Some Times
+      language: en
+    references:
+    - source: music.apple.com-us-album-some-times-1577112813-b3e07b5788ec
+      quote: |-
+        Some Times
+        Shahryar Masrour
+        Pop · 2007
+      accessed: '2026-10-19'
+  performer:
+  - value: Qvmc4t9
+    references:
+    - source: music.apple.com-us-album-some-times-1577112813-b3e07b5788ec
+      quote: |-
+        Some Times
+        Shahryar Masrour
+        Pop · 2007
+      accessed: '2026-10-19'
+  listen link:
+  - value: https://music.apple.com/us/album/some-times/1577112813
+    references:
+    - source: music.apple.com-us-album-some-times-1577112813-b3e07b5788ec
+      quote: |-
+        Some Times
+        Shahryar Masrour
+        Pop · 2007
+      accessed: '2026-10-19'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/32/fe/63/32fe6370-cfa7-c5cf-7dbb-d1f9ccbc8609/196006934101.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-some-times-1577112813-b3e07b5788ec
+      quote: Some Times by Shahryar Masrour on Apple Music
+      accessed: '2026-10-19'
+    - source: music.apple.com-us-album-some-times-1577112813-b3e07b5788ec
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/32/fe/63/32fe6370-cfa7-c5cf-7dbb-d1f9ccbc8609/196006934101.jpg/1200x630bb.jpg
+      accessed: '2026-10-19'
+    qualifiers:
+      credit:
+        text: music.apple.com
+        language: en
+  release date:
+  - value:
+      date: '2007-10-06'
+    references:
+    - source: music.apple.com-us-album-some-times-1577112813-b3e07b5788ec
+      quote: Some Times by Shahryar Masrour on Apple Music
+      accessed: '2026-10-19'
+    - source: music.apple.com-us-album-some-times-1577112813-b3e07b5788ec
+      quote: '"datePublished":"2007-10-06"'
+      accessed: '2026-10-19'

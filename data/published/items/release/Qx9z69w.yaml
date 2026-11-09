@@ -1,0 +1,42 @@
+id: Qx9z69w
+type: release
+statements:
+  name:
+  - value:
+      text: In The Kennel EP
+      language: en
+    references:
+    - &id001
+      source: yellowdogsband.bandcamp.com-album-in-the-kennel-ep-3bff32fd53f9
+      quote: In The Kennel EP, by Yellow Dogs
+      accessed: '2026-10-19'
+  performer:
+  - value: Q9za327
+    references:
+    - *id001
+  release date:
+  - value:
+      date: '2011-05-17'
+    references:
+    - source: yellowdogsband.bandcamp.com-album-in-the-kennel-ep-3bff32fd53f9
+      quote: released May 17, 2011
+      accessed: '2026-10-19'
+  listen link:
+  - value: https://yellowdogsband.bandcamp.com/album/in-the-kennel-ep
+    references:
+    - source: yellowdogsband.bandcamp.com-album-in-the-kennel-ep-3bff32fd53f9
+      quote: In The Kennel EP, by Yellow Dogs
+      accessed: '2026-10-19'
+  cover art:
+  - value: https://f4.bcbits.com/img/a0522262676_10.jpg
+    references:
+    - source: yellowdogsband.bandcamp.com-album-in-the-kennel-ep-3bff32fd53f9
+      quote: In The Kennel EP, by Yellow Dogs
+      accessed: '2026-10-19'
+    - source: yellowdogsband.bandcamp.com-album-in-the-kennel-ep-3bff32fd53f9
+      quote: https://f4.bcbits.com/img/a0522262676_10.jpg
+      accessed: '2026-10-19'
+    qualifiers:
+      credit:
+        text: yellowdogsband.bandcamp.com
+        language: en

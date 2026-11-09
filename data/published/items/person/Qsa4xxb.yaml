@@ -1,0 +1,19 @@
+id: Qsa4xxb
+type: person
+statements:
+  name:
+  - value:
+      text: Tara Aghdashloo
+      language: en
+    references:
+    - source: kingraam.bandcamp.com-album-songs-of-the-wolves-8ae7a2bb5c07
+      quote: Lyrics by Tara Aghdashloo
+      accessed: '2026-11-03'
+  # Editorial Persian display spelling; source uses the Latin name.
+  - value:
+      text: تارا آغداشلو
+      language: fa
+    references:
+    - source: kingraam.bandcamp.com-album-songs-of-the-wolves-8ae7a2bb5c07
+      quote: Lyrics by Tara Aghdashloo
+      accessed: '2026-11-03'

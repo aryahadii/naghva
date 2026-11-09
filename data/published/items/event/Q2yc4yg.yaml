@@ -1,0 +1,23 @@
+id: Q2yc4yg
+type: event
+statements:
+  name:
+  - value:
+      text: Pallett Live in Paris
+      language: en
+    references:
+    - &id001
+      source: volek.events-event-pallett-live-in-paris-2025
+      quote: Pallett Live in Paris
+      accessed: '2026-10-19'
+  event date:
+  - value:
+      date: '2025-11-16'
+    references:
+    - source: pallettmusic.com-7d0b6e14b735
+      quote: Sunday, November 16, 2025
+      accessed: '2026-10-19'
+  performer:
+  - value: Qq5328q
+    references:
+    - *id001

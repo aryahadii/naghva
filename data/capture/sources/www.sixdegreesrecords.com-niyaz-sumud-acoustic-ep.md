@@ -11,3 +11,5 @@ tier: own
 > melody.
 
 Source page or its embedded metadata, read 2026-10-19.
+
+> Niyaz’ six song acoustic EP features three acoustic performances of songs from the band’s 2012 electronic album SUMUD,as well as three brand new songs.

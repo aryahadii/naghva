@@ -1,0 +1,77 @@
+id: Qwwncfr
+type: release
+statements:
+  name:
+  - value:
+      text: Haminjoori
+      language: en
+    references:
+    - source: soundcloud.com-hichkasofficial-haminjoori
+      quote: |-
+        Haminjoori
+      accessed: '2026-10-23'
+  - value:
+      text: همینجوری
+      language: fa
+    references:
+    - source: soundcloud.com-hichkasofficial-haminjoori
+      quote: 'هیچکس - همینجوری  کلام: هیچکس  آهنگسازی: هیچکس، چکاو'
+      accessed: '2026-10-23'
+  performer:
+  - value: Qgyvbw3
+    references:
+    - source: soundcloud.com-hichkasofficial-haminjoori
+      quote: 'هیچکس - همینجوری  کلام: هیچکس  آهنگسازی: هیچکس، چکاو'
+      accessed: '2026-10-23'
+  contributor:
+  - value: Qgyvbw3
+    references:
+    - source: soundcloud.com-hichkasofficial-haminjoori
+      quote: 'هیچکس - همینجوری  کلام: هیچکس  آهنگسازی: هیچکس، چکاو'
+      accessed: '2026-10-23'
+    qualifiers:
+      role:
+      - lyricist
+  - value: Qgyvbw3
+    references:
+    - source: soundcloud.com-hichkasofficial-haminjoori
+      quote: 'هیچکس - همینجوری  کلام: هیچکس  آهنگسازی: هیچکس، چکاو'
+      accessed: '2026-10-23'
+    qualifiers:
+      role:
+      - composer
+  - value: Qdxakdf
+    references:
+    - source: soundcloud.com-hichkasofficial-haminjoori
+      quote: 'هیچکس - همینجوری  کلام: هیچکس  آهنگسازی: هیچکس، چکاو'
+      accessed: '2026-10-23'
+    qualifiers:
+      role:
+      - composer
+  release date:
+  - value:
+      date: '2024'
+    references:
+    - source: music.apple.com-pl-album-haminjoori-single-1786927001
+      quote: |-
+        Album · 2024 · 1 Song
+      accessed: '2026-10-23'
+  listen link:
+  - value: https://open.spotify.com/album/2fA1JtVhpoFVuFqCbgxLBp
+    references:
+    - source: provider-hichkas-haminjoori
+      quote: |-
+        Listen to Haminjoori - Single by Hichkas | Spotify
+      accessed: '2026-10-27'
+  - value: https://soundcloud.com/hichkasofficial/haminjoori
+    references:
+    - source: soundcloud.com-hichkasofficial-haminjoori
+      quote: |-
+        Haminjoori
+      accessed: '2026-10-23'
+  - value: https://music.apple.com/pl/album/haminjoori-single/1786927001
+    references:
+    - source: music.apple.com-pl-album-haminjoori-single-1786927001
+      quote: |-
+        Haminjoori - Single by Hichkas on Apple Music
+      accessed: '2026-10-23'

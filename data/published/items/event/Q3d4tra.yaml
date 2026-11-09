@@ -1,0 +1,33 @@
+# Event titles are editorial descriptions of the documented performances.
+id: Q3d4tra
+type: event
+statements:
+  name:
+  - value:
+      text: کنسرت فرهاد در سینما سپیده
+      language: fa
+    references:
+    - &id001
+      source: www.bbc.com-persian-articles-cj7gd5lp8nlo-2d3bab0dd850
+      quote: مسئولان وزارت ارشاد برای صدور مجوز شرایطی مطرح کردند. از جمله این‌که هیچ‌گونه تبلیغی برای این کنسرت نشود، بلیت چاپی برای کنسرت صادر نشود، از کنسرت عکس یا فیلم برداشته نشود، ترانه «گنجشکک اشی‌مشی» خوانده نشود (بخاطر این‌که آخر ترانه آمده «کی می‌خوره؟ حاکم‌باشی») و این‌که کنسرت در شبی برگزار شود که مناسبت مذهبی باشد. نهایتا مجوز کنسرت برای جمعه ۹ دی ۱۳۷۳ که هم شب بعثت پیامبر اسلام بود و هم شب سال نوی مسیحیان، در سینما سپیده تهران صادر شد. بلیت‌ها که به قیمت ۲۵۰۰ تومان فروخته می‌شدند در کمتر از سه روز فروش رفتند. سرانجام فرهاد برای اولین بار در ایران بعد از انقلاب در مقابل چند صد تماشاچی که سالن سینما سپیده را پر کرده بودند، روی صحنه رفت، و البته گنجشکک اشی مشی را هم خواند.
+      accessed: '2026-10-23'
+      locator: BBC Persian profile, bbc-sepideh
+  - value:
+      text: Farhad at Cinema Sepideh
+      language: en
+    references:
+    - *id001
+  event date:
+  - value:
+      date: 1373-10
+      calendar: jalali
+    references:
+    - *id001
+    - source: www.aasoo.org-sites-default-files-aasoo_all_files-pdf-farhad-e2-80-99s-20waking-20dream.-20amir_bahari_aasoo_2-bfe07485f333
+      quote: وقتی در۱۰ دی ۱۳۷۳ ، بعد از شانزده سال ، در س ینما ،سپیده روی صحنه رفت
+      accessed: '2026-10-23'
+      locator: Amir Bahari, printed p. 125 (PDF p. 127); differs from BBC’s 9 Dey
+  performer:
+  - value: Qq6xyzn
+    references:
+    - *id001

@@ -1,0 +1,96 @@
+id: Q4day5x
+type: release
+statements:
+  name:
+  - value:
+      text: Doosh Kabab
+      language: en
+    references:
+    - source: soundcloud.com-moodymoussavi-doosh-kabab-360a1efe29cc
+      quote: |-
+        Doosh Kabab
+      accessed: '2026-11-06'
+  - value:
+      text: دوش کباب
+      language: fa
+    references:
+    - source: soundcloud.com-moodymoussavi-doosh-kabab-360a1efe29cc
+      quote: |-
+        Doosh Kabab
+      accessed: '2026-11-06'
+  performer:
+  - value: Qv5ybzr
+    references:
+    - source: soundcloud.com-moodymoussavi-doosh-kabab-360a1efe29cc
+      quote: |-
+        Doosh Kabab
+      accessed: '2026-11-06'
+  - value: Qv5ybzr
+    references:
+    - source: soundcloud.com-moodymoussavi-doosh-kabab-360a1efe29cc
+      quote: 'Guitars, Bass, Songwriter: Moody Moussavi'
+      accessed: '2026-11-06'
+    - source: soundcloud.com-moodymoussavi-doosh-kabab-360a1efe29cc
+      quote: 'Lyrics: Blackhand, Moody Moussavi'
+      accessed: '2026-11-06'
+    qualifiers:
+      role:
+      - guitar
+      - bass
+  contributor:
+  - value: Qv5ybzr
+    references:
+    - source: soundcloud.com-moodymoussavi-doosh-kabab-360a1efe29cc
+      quote: 'Guitars, Bass, Songwriter: Moody Moussavi'
+      accessed: '2026-11-06'
+    - source: soundcloud.com-moodymoussavi-doosh-kabab-360a1efe29cc
+      quote: 'Lyrics: Blackhand, Moody Moussavi'
+      accessed: '2026-11-06'
+    qualifiers:
+      role:
+      - songwriter
+      - lyricist
+  - value: Qmbgdbm
+    references:
+    - source: soundcloud.com-moodymoussavi-doosh-kabab-360a1efe29cc
+      quote: 'Lyrics: Blackhand, Moody Moussavi'
+      accessed: '2026-11-06'
+    qualifiers:
+      role:
+      - lyricist
+  - value: Qkzrdwz
+    references:
+    - source: soundcloud.com-moodymoussavi-doosh-kabab-360a1efe29cc
+      quote: 'Producer, Mix & Mastering Engineer: Sina Saeidi'
+      accessed: '2026-11-06'
+    qualifiers:
+      role:
+      - producer
+  release date:
+  - value:
+      date: '2025-04-17'
+    references:
+    - source: soundcloud.com-moodymoussavi-doosh-kabab-360a1efe29cc
+      quote: '"release_date":"2025-04-17T00:00:00Z"'
+      accessed: '2026-11-06'
+  listen link:
+  - value: https://soundcloud.com/moodymoussavi/doosh-kabab
+    references:
+    - source: soundcloud.com-moodymoussavi-doosh-kabab-360a1efe29cc
+      quote: |-
+        Doosh Kabab
+      accessed: '2026-11-06'
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-GUqMmQ83JSJuiD9w-edLDLw-t500x500.png
+    references:
+    - source: soundcloud.com-moodymoussavi-doosh-kabab-360a1efe29cc
+      quote: |-
+        https://i1.sndcdn.com/artworks-GUqMmQ83JSJuiD9w-edLDLw-t500x500.png
+      accessed: '2026-11-06'
+    - source: soundcloud.com-moodymoussavi-doosh-kabab-360a1efe29cc
+      quote: 'Cover Artist, Graphic Designer: No One Noise'
+      accessed: '2026-11-06'
+    qualifiers:
+      credit:
+        text: No One Noise
+        language: en

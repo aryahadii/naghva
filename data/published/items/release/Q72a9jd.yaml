@@ -1,0 +1,54 @@
+id: Q72a9jd
+type: release
+statements:
+  name:
+  - value:
+      text: Hybrid (with Rojin Sharafi)
+      language: en
+    references: &id001
+    - &id002
+      source: sabaalizadeh.bandcamp.com-track-hybrid-with-rojin-sharafi-f0e6245e7bd1
+      quote: Hybrid (with Rojin Sharafi) | Saba Alizadeh
+      accessed: '2026-11-06'
+  # Editorial Persian display spelling; source uses the original name.
+  - value:
+      text: هیبرید
+      language: fa
+    references: *id001
+  performer:
+  - value: Qgbbc6t
+    references:
+    - *id002
+  - value: Q5vptv5
+    references:
+    - *id002
+  release date:
+  - value:
+      date: '2021-07-08'
+    references:
+    - source: sabaalizadeh.bandcamp.com-track-hybrid-with-rojin-sharafi-f0e6245e7bd1
+      quote: "from\nI May Never See You Again\n,\n                \n\n                \n                    \n \
+        \                       \n                            released July 8, 2021"
+      accessed: '2026-11-06'
+  listen link:
+  - value: https://sabaalizadeh.bandcamp.com/track/hybrid-with-rojin-sharafi
+    references:
+    - *id002
+  - value: https://open.spotify.com/track/6c5vVtpY0btFGTl1s53KBa
+    references:
+    - source: open.spotify.com-embed-track-6c5vvtpy0btfgtl1s53kba-85639f61a388
+      quote: 'Hybrid
+
+        Saba Alizadeh'
+      accessed: '2026-11-06'
+  - value: https://music.apple.com/us/album/hybrid/1561974706?i=1561974946
+    references:
+    - source: music.apple.com-us-album-hybrid-1561974706-i-1561974946-e36e63c29409
+      quote: ‎Hybrid - Song with Lyrics by Saba Alizadeh & Rojin Sharafi - Apple Music
+      accessed: '2026-11-06'
+  cover art:
+  - value: https://f4.bcbits.com/img/a3519258450_10.jpg
+    references:
+    - source: sabaalizadeh.bandcamp.com-album-i-may-never-see-you-again-fdbe3dc5b47c
+      quote: https://f4.bcbits.com/img/a3519258450_10.jpg
+      accessed: '2026-11-06'

@@ -1,0 +1,122 @@
+id: Qvt6d4q
+type: release
+statements:
+  name:
+  - value:
+      text: Ta Rahaee
+      language: en
+    references:
+    - source: music.apple.com-us-album-ta-rahaee-1615509219-69eff0c49324
+      quote: '"name":"Ta Rahaee"'
+      accessed: '2026-11-06'
+  - value:
+      text: تا رهایی
+      language: fa
+    references:
+    - source: is1-ssl.mzstatic.com-image-thumb-music221-v4-63-3e-34-633e3453-77c0-7a2d-0ecd-5cc9acd39f22-196626372345.jpg-1200x1200bb.jpg-4bb4cbc91776
+      quote: |-
+        میلاد درخشانی
+        تا رهایی
+        Ta Rahaee
+        To Redemption
+        Milad Derakhshani
+      accessed: '2026-11-06'
+  - value:
+      text: افشارستان ۲
+      language: fa
+    references:
+    - source: jamejamonline.ir-fa-news-837086-69b61fedaf2b
+      quote: |-
+        آلبوم «افشارستان2» میلاد درخشانی رونمایی شد
+      accessed: '2026-11-06'
+  performer:
+  - value: Qnjntqs
+    references:
+    - source: music.apple.com-us-album-ta-rahaee-1615509219-69eff0c49324
+      quote: '"byArtist":[{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/milad-derakhshani/324842865","name":"Milad Derakhshani"}]'
+      accessed: '2026-11-06'
+  - value: Qnjntqs
+    references:
+    - source: music.apple.com-us-song-the-journey-1615509226-35c017f26908
+      quote: '"name":"Milad Derakhshani","roleNames":["Acoustic Guitar"]'
+      accessed: '2026-11-06'
+    qualifiers:
+      role: guitar
+  contributor:
+  - value: Qnjntqs
+    references:
+    - source: music.apple.com-us-song-the-journey-1615509226-35c017f26908
+      quote: '"name":"Milad Derakhshani","roleNames":["Songwriter"]'
+      accessed: '2026-11-06'
+    qualifiers:
+      role:
+      - songwriter
+  - value: Qpw6jqf
+    references:
+    - source: music.apple.com-us-song-a-revelation-before-the-tempest-1615509231-ab6ad3964f55
+      quote: '"name":"Pedram Derakhshani","roleNames":["Songwriter"]'
+      accessed: '2026-11-06'
+    qualifiers:
+      role:
+      - songwriter
+  - value: Qpw6jqf
+    references:
+    - source: jamejamonline.ir-fa-news-837086-69b61fedaf2b
+      quote: |-
+        در پایان نیز پدرام درخشانی؛ که آهنگسازی یکی از قطعات «افشارستان» را بر عهده داشته است
+      accessed: '2026-11-06'
+    qualifiers:
+      role:
+      - composer
+  - value: Qfb8ryh
+    references:
+    - source: jamejamonline.ir-fa-news-837086-69b61fedaf2b
+      quote: |-
+        اول از همه از امیر حسین طباطبایی، دوست بسیار خوبم؛ تهیه کننده این آلبوم و مدیربرنامه ام که از آلبوم پیشین همراه من بود، هم چنین از گرافیست این آلبوم؛ علیرضا نبئی، رضا کریمی تبار مدیریت شرکت پخش کننده این آلبوم موسیقی و نیما جوان سپاسگذارم. یکی از قطعات این آلبوم نیز از کارهای برادرم پدرام درخشانی است و از او نیز تشکر می کنم.
+      accessed: '2026-11-06'
+    qualifiers:
+      role:
+      - producer
+  listen link:
+  - value: https://music.apple.com/us/album/ta-rahaee/1615509219
+    references:
+    - source: music.apple.com-us-album-ta-rahaee-1615509219-69eff0c49324
+      quote: '"name":"Ta Rahaee"'
+      accessed: '2026-11-06'
+    - source: music.apple.com-us-album-ta-rahaee-1615509219-69eff0c49324
+      quote: '"byArtist":[{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/milad-derakhshani/324842865","name":"Milad Derakhshani"}]'
+      accessed: '2026-11-06'
+  - value: https://open.spotify.com/album/3ddtVOo9tp0ToH64W433r4
+    references:
+    - source: open.spotify.com-album-3ddtvoo9tp0toh64w433r4-d12b3b57f03c
+      quote: |-
+        Listen to Ta Rahaee - Album by Milad Derakhshani | Spotify
+      accessed: '2026-11-06'
+  - value: https://soundcloud.com/miladderakhshani/sets/ta-rahaee
+    references:
+    - source: soundcloud.com-miladderakhshani-sets-ta-rahaee-49c53596be4b
+      quote: |-
+        Stream Milad Derakhshani | Listen to Ta Rahaee playlist online for free on SoundCloud
+      accessed: '2026-11-06'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/63/3e/34/633e3453-77c0-7a2d-0ecd-5cc9acd39f22/196626372345.jpg/1200x1200bb.jpg
+    references:
+    - source: is1-ssl.mzstatic.com-image-thumb-music221-v4-63-3e-34-633e3453-77c0-7a2d-0ecd-5cc9acd39f22-196626372345.jpg-1200x1200bb.jpg-4bb4cbc91776
+      quote: |-
+        میلاد درخشانی
+        تا رهایی
+        Ta Rahaee
+        To Redemption
+        Milad Derakhshani
+      accessed: '2026-11-06'
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en
+  published by:
+  - value: Qmn3p8j
+    references:
+    - source: jamejamonline.ir-fa-news-837086-69b61fedaf2b
+      quote: |-
+        این آلبوم توسط شرکت کوک منتشر و عرضه شده است. «افشارستان» تعاملی است میان موسیقی دستگاهی ایرانی و نگاه نوازندگان خوش ذوق و جوان و با آهنگسازی میلاد درخشانی که نمونه ای بسیار خوب در حوزه موسیقی بی کلام به شمار می رود.
+      accessed: '2026-11-06'

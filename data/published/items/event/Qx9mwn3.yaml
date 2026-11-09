@@ -1,0 +1,23 @@
+id: Qx9mwn3
+type: event
+statements:
+  name:
+  - value:
+      text: Pallett Live in München
+      language: en
+    references:
+    - &id001
+      source: volek.events-event-pallett-live-in-munchen-2025
+      quote: Pallett Live in München
+      accessed: '2026-10-19'
+  event date:
+  - value:
+      date: '2025-11-02'
+    references:
+    - source: pallettmusic.com-7d0b6e14b735
+      quote: Sunday, November 02, 2025
+      accessed: '2026-10-19'
+  performer:
+  - value: Qq5328q
+    references:
+    - *id001

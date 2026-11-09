@@ -1,0 +1,74 @@
+id: Q7mkcj6
+type: release
+statements:
+  name:
+  - value:
+      text: می‌مَرثیه
+      language: fa
+    references:
+    - source: t.me-jumamusic-74
+      quote: |-
+        می‌مَرثیه
+      accessed: '2026-10-22'
+  release date:
+  - value:
+      date: '1401-10-23'
+      calendar: jalali
+    references:
+    - source: t.me-jumamusic-74
+      quote: 'تاریخ نشر: ۲۳ دی‌ماه ۱۴۰۱'
+      accessed: '2026-10-22'
+  performer:
+  - value: Q48zttz
+    references:
+    - source: t.me-jumamusic-74
+      quote: 'آهنگ و اجرا: جوما'
+      accessed: '2026-10-22'
+  contributor:
+  - value: Qmmg3zr
+    qualifiers:
+      role:
+      - lyricist
+    references:
+    - source: t.me-jumamusic-74
+      quote: 'شعر: بریده‌ای از سروده‌‌ی بلندِ درویش گیلانی (محمد بشرا) ۱۳۵۴ خورشیدی'
+      accessed: '2026-10-22'
+  - value: Q48zttz
+    qualifiers:
+      role:
+      - composer
+    references:
+    - source: t.me-jumamusic-74
+      quote: 'آهنگ و اجرا: جوما'
+      accessed: '2026-10-22'
+  listen link:
+  - value: https://t.me/jumamusic/74
+    references:
+    - source: t.me-jumamusic-74
+      quote: |-
+        می‌مَرثیه
+        آهنگ و اجرا: جوما
+      accessed: '2026-10-22'
+  - value: https://soundcloud.com/jumaprojets/mi-marsiyeh
+    references:
+    - source: soundcloud.com-jumaprojets-mi-marsiyeh
+      quote: |-
+        Mi Marsiyeh - می مرثیه
+      accessed: '2026-10-22'
+  - value: https://www.youtube.com/watch?v=XTtbhnj8lpU
+    references:
+    - source: youtube.com-watch-xttbhnj8lpu
+      quote: |-
+        juma- mi marsiyeh
+      accessed: '2026-10-22'
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-xMepPFarhZ79AQBz-HQi7UQ-t500x500.jpg
+    qualifiers:
+      credit:
+        text: Jumaprojets / SoundCloud
+        language: en
+    references:
+    - source: soundcloud.com-jumaprojets-mi-marsiyeh
+      quote: |-
+        Mi Marsiyeh - می مرثیه
+      accessed: '2026-10-22'

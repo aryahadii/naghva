@@ -1,0 +1,19 @@
+id: Qsqg7kx
+type: person
+statements:
+  name:
+  - value:
+      text: Mehrpouya Daneshvar
+      language: en
+    references:
+    - source: music.apple.com-song-leyva-saki
+      quote: '"name":"Mehrpouya Daneshvar","roleNames":["Performer"]'
+      accessed: '2026-11-06'
+  - value:
+      # Editorial Persian display spelling; source uses the Latin name.
+      text: مهرپویا دانشور
+      language: fa
+    references:
+    - source: music.apple.com-song-leyva-saki
+      quote: '"name":"Mehrpouya Daneshvar","roleNames":["Performer"]'
+      accessed: '2026-11-06'

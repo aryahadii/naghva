@@ -1,0 +1,20 @@
+id: Q47kj8q
+type: person
+statements:
+  name:
+  - value:
+      # Editorial Persian display spelling; source uses the Latin name.
+      text: اسحاق چگینی
+      language: fa
+    references:
+    - &id001
+      source: soundcloud-com-dangshow-too-dar-too-a3e7dcb7e91f
+      quote: Dang Show feat. Es-hagh Chegini
+      accessed: '2026-11-06'
+    rank: preferred
+  - value:
+      text: Es-hagh Chegini
+      language: en
+    references:
+    - *id001
+    rank: preferred

@@ -1,0 +1,55 @@
+id: Qgfaqj2
+type: person
+statements:
+  name:
+  - value:
+      # Editorial Persian display spelling; the references attest the retained stage name.
+      text: اش کوشا
+      language: fa
+    references:
+    - source: ninjatune.net-release-ash-koosha-i-aka-i-ebebdae36fc6
+      quote: Ninja Tune are proud to announce the forthcoming release of a new album, I AKA I, from Ash Koosha. Born in Iran and currently living in London, Ash makes the kind of “mind-bending electronic music” (Pitchfork), which has had the cognoscenti buzzing for months.
+      accessed: '2026-10-19'
+  - value:
+      text: Ash Koosha
+      language: en
+    references:
+    - source: ninjatune.net-release-ash-koosha-i-aka-i-ebebdae36fc6
+      quote: Ninja Tune are proud to announce the forthcoming release of a new album, I AKA I, from Ash Koosha. Born in Iran and currently living in London, Ash makes the kind of “mind-bending electronic music” (Pitchfork), which has had the cognoscenti buzzing for months.
+      accessed: '2026-10-19'
+  - value:
+      # Secondary birth/legal name, explicitly given by the original label biography.
+      text: Ashkan Kooshanejad
+      language: en
+    references:
+    - source: downloads.ninjatune.net-artist-ash-koosha-a961f9814bf9
+      quote: To say Ash Koosha is an Iranian-born, London-based electronic musician
+      accessed: '2026-11-06'
+    - source: downloads.ninjatune.net-artist-ash-koosha-a961f9814bf9
+      quote: Born Ashkan Kooshanejad, Ash split his early years between Tehran and Frankfurt, where his father worked in the printing industry.
+      accessed: '2026-11-06'
+  image:
+  - value: https://f4.bcbits.com/img/0033378190_10.jpg
+    references:
+    - source: ashkoosha.bandcamp.com-f82fa969fc34
+      quote: https://f4.bcbits.com/img/0033378190_10.jpg
+      accessed: '2026-11-06'
+    qualifiers:
+      credit:
+        text: ashkoosha.bandcamp.com
+        language: en
+  profile link:
+  - value: https://ashkoosha.bandcamp.com
+    references:
+    - source: ashkoosha.bandcamp.com-f82fa969fc34
+      quote: Music | Ash Koosha
+      accessed: '2026-10-19'
+    - source: ashkoosha.bandcamp.com-f82fa969fc34
+      quote: https://ashkoosha.bandcamp.com/
+      accessed: '2026-10-19'
+  member of:
+  - value: Q7k5kmw
+    references:
+    - source: downloads.ninjatune.net-artist-ash-koosha-a961f9814bf9
+      quote: On his release—and with Font now in effect shut down—Koosha formed Take It Easy Hospital, a new indie/electronic/pop band, with friend Negar Shaghaghi. They built up a big following on myspace and, off the back of that, were invited to play the In The City Festival in Manchester. The Kurdish-Iranian film director, Bahnman Ghobadi, got in touch around the same time, asking them to collaborate with him on a film about the Iranian underground music scene.
+      accessed: '2026-10-20'

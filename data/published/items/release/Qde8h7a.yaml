@@ -1,0 +1,91 @@
+id: Qde8h7a
+type: release
+statements:
+  name:
+  - value:
+      text: Tamam
+      language: en
+    references: &id001
+    - source: qameferaq.bandcamp.com-track-tamam-saki
+      quote: 'Tamam
+
+        from
+
+        Jostojoo
+
+        by
+
+        Arif Mirbaghi & Kaveh Ghaffari'
+      accessed: '2026-11-06'
+  - value:
+      # Editorial Persian display spelling; source uses the Latin name.
+      text: تمام
+      language: fa
+    references: *id001
+  release date:
+  - value:
+      date: '2021-03-16'
+    references:
+    - source: qameferaq.bandcamp.com-track-tamam-saki
+      quote: released March 16, 2021
+      accessed: '2026-11-06'
+  performer:
+  - value: Qffwb2b
+    references:
+    - source: qameferaq.bandcamp.com-track-tamam-saki
+      quote: 'Tamam
+
+        from
+
+        Jostojoo
+
+        by
+
+        Arif Mirbaghi & Kaveh Ghaffari'
+      accessed: '2026-11-06'
+  - value: Q5b4hz2
+    references:
+    - source: qameferaq.bandcamp.com-track-tamam-saki
+      quote: 'Tamam
+
+        from
+
+        Jostojoo
+
+        by
+
+        Arif Mirbaghi & Kaveh Ghaffari'
+      accessed: '2026-11-06'
+  - value: Q3gkrg3
+    references:
+    - source: qameferaq.bandcamp.com-track-tamam-saki
+      quote: "Featuring vocal by Mehdi Saki (Kamakan)\ncredits\nfrom\nJostojoo\n,\n                \n\n                \n                    \n        \
+        \                \n                            released March 16, 2021"
+      accessed: '2026-11-06'
+    qualifiers:
+      role:
+      - vocals
+  listen link:
+  - value: https://qameferaq.bandcamp.com/track/tamam
+    references:
+    - source: qameferaq.bandcamp.com-track-tamam-saki
+      quote: 'Tamam
+
+        from
+
+        Jostojoo
+
+        by
+
+        Arif Mirbaghi & Kaveh Ghaffari'
+      accessed: '2026-11-06'
+  cover art:
+  - value: https://f4.bcbits.com/img/a2212618518_5.jpg
+    qualifiers:
+      credit:
+        text: Image via Qame Feraq / Bandcamp
+        language: en
+    references:
+    - source: qameferaq.bandcamp.com-track-tamam-saki
+      quote: https://f4.bcbits.com/img/a2212618518_5.jpg
+      accessed: '2026-11-06'

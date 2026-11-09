@@ -1,0 +1,46 @@
+id: Qd8rttw
+type: release
+statements:
+  name:
+  - value:
+      text: Noise Bleed
+      language: en
+    references:
+    - &id001
+      source: sabaalizadeh.bandcamp.com-track-noise-bleed-96681494bb07
+      quote: |-
+        Noise Bleed
+        by
+        saba alizadeh
+      accessed: '2026-11-06'
+  # Editorial Persian display spelling; source uses the original name.
+  - value:
+      text: خون‌ریزی نویز
+      language: fa
+    references:
+    - *id001
+  performer:
+  - value: Qgbbc6t
+    references:
+    - *id001
+  release date:
+  - value:
+      date: '2013-12-21'
+    references:
+    - source: sabaalizadeh.bandcamp.com-track-noise-bleed-96681494bb07
+      quote: released December 21, 2013
+      accessed: '2026-11-06'
+  listen link:
+  - value: https://sabaalizadeh.bandcamp.com/track/noise-bleed
+    references:
+    - *id001
+  cover art:
+  - value: https://f4.bcbits.com/img/a4078341643_10.jpg
+    references:
+    - source: sabaalizadeh.bandcamp.com-track-noise-bleed-96681494bb07
+      quote: https://f4.bcbits.com/img/a4078341643_10.jpg
+      accessed: '2026-11-06'
+    qualifiers:
+      credit:
+        text: sabaalizadeh.bandcamp.com
+        language: en

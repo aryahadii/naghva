@@ -1,0 +1,45 @@
+id: Qntqw9t
+type: release
+statements:
+  name:
+  - value:
+      text: Scattered memories
+      language: en
+    references:
+    - &id001
+      source: sabaalizadeh.bandcamp.com-album-scattered-memories-cacb1929b0fc
+      quote: Scattered memories
+      accessed: '2026-11-06'
+  performer:
+  - value: Qgbbc6t
+    references:
+    - *id001
+  - value: Qvzah2e
+    references:
+    - source: sabaalizadeh.bandcamp.com-album-scattered-memories-cacb1929b0fc
+      quote: Saba Alizadeh,Brian Saia(slide guitar)
+      accessed: '2026-11-06'
+    qualifiers:
+      role:
+      - guitar
+  release date:
+  - value:
+      date: '2011-05-17'
+    references:
+    - source: sabaalizadeh.bandcamp.com-album-scattered-memories-cacb1929b0fc
+      quote: released May 17, 2011
+      accessed: '2026-11-06'
+  listen link:
+  - value: https://sabaalizadeh.bandcamp.com/album/scattered-memories
+    references:
+    - *id001
+  cover art:
+  - value: https://f4.bcbits.com/img/a0618294030_10.jpg
+    references:
+    - source: sabaalizadeh.bandcamp.com-album-scattered-memories-cacb1929b0fc
+      quote: https://f4.bcbits.com/img/a0618294030_10.jpg
+      accessed: '2026-11-06'
+    qualifiers:
+      credit:
+        text: sabaalizadeh.bandcamp.com
+        language: en

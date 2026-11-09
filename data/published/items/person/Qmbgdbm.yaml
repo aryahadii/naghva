@@ -1,0 +1,16 @@
+id: Qmbgdbm
+type: person
+statements:
+  name:
+  - value:
+      text: Blackhand
+      language: en
+    references: &id001
+    - source: soundcloud.com-moodymoussavi-doosh-kabab-360a1efe29cc
+      quote: 'Lyrics: Blackhand, Moody Moussavi'
+      accessed: '2026-11-06'
+  - value:
+      text: بلک‌هند
+      language: fa
+    # Editorial Persian display spelling; source uses the Latin name.
+    references: *id001

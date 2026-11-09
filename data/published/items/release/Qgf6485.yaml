@@ -1,0 +1,66 @@
+id: Qgf6485
+type: release
+statements:
+  name:
+  - value:
+      text: Touch (with Andreas Spechtl)
+      language: en
+    references: &id001
+    - &id002
+      source: sabaalizadeh.bandcamp.com-track-touch-with-andreas-spechtl-d5e92fd68a68
+      quote: Touch (with Andreas Spechtl) | Saba Alizadeh
+      accessed: '2026-11-06'
+  # Editorial Persian display spelling; source uses the original name.
+  - value:
+      text: لمس
+      language: fa
+    references: *id001
+  performer:
+  - value: Qgbbc6t
+    references:
+    - source: 15questions.net-interview-saba-alizadeh-shares-his-creative-process-page-1-c5b46ed72f8c
+      quote: Another example is one of my favorite pieces “Touch” which is a pure improvised piece with Andreas
+        Spechtl on vocals and electronics and me on Kamancheh.
+      accessed: '2026-11-06'
+    qualifiers:
+      role:
+      - kamancheh
+  - value: Q442q27
+    references:
+    - source: 15questions.net-interview-saba-alizadeh-shares-his-creative-process-page-1-c5b46ed72f8c
+      quote: Another example is one of my favorite pieces “Touch” which is a pure improvised piece with Andreas
+        Spechtl on vocals and electronics and me on Kamancheh.
+      accessed: '2026-11-06'
+    qualifiers:
+      role:
+      - vocals
+  release date:
+  - value:
+      date: '2021-07-08'
+    references:
+    - source: sabaalizadeh.bandcamp.com-track-touch-with-andreas-spechtl-d5e92fd68a68
+      quote: "from\nI May Never See You Again\n,\n                \n\n                \n                    \n \
+        \                       \n                            released July 8, 2021"
+      accessed: '2026-11-06'
+  listen link:
+  - value: https://sabaalizadeh.bandcamp.com/track/touch-with-andreas-spechtl
+    references:
+    - *id002
+  - value: https://open.spotify.com/track/0UZxqtieXH5qqYJDp3JtGD
+    references:
+    - source: open.spotify.com-embed-track-0uzxqtiexh5qqyjdp3jtgd-3943df8a0d03
+      quote: 'Touch
+
+        Saba Alizadeh'
+      accessed: '2026-11-06'
+  - value: https://music.apple.com/us/album/touch/1561974706?i=1561974942
+    references:
+    - source: music.apple.com-us-album-touch-1561974706-i-1561974942-0284503921cc
+      quote: ‎Touch - Song with Lyrics by Saba Alizadeh & Andreas Spechtl - Apple Music
+      accessed: '2026-11-06'
+  cover art:
+  - value: https://f4.bcbits.com/img/a3519258450_10.jpg
+    references:
+    - source: sabaalizadeh.bandcamp.com-album-i-may-never-see-you-again-fdbe3dc5b47c
+      quote: https://f4.bcbits.com/img/a3519258450_10.jpg
+      accessed: '2026-11-06'

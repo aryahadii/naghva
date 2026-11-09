@@ -1,0 +1,121 @@
+id: Qmvbp98
+type: release
+statements:
+  name:
+  - value:
+      text: پری قصه ها
+      language: fa
+    references:
+    - source: www.marjanfarsad.com-fb87453a18f2
+      quote: |-
+        پری قصه ها
+      accessed: '2026-10-19'
+  - value:
+      text: Parie Gheseha
+      language: en
+    references:
+    - source: www.marjanfarsad.com-fb87453a18f2
+      quote: |-
+        Parie Gheseha
+      accessed: '2026-10-19'
+  performer:
+  - value: Q3te3g6
+    references:
+    - source: www.marjanfarsad.com-fb87453a18f2
+      quote: |-
+        Parie Gheseha
+      accessed: '2026-10-19'
+  - value: Qfxfy6v
+    qualifiers:
+      role: guitar
+    references:
+    - source: soundcloud.com-marjan-farsad-parie-gheseha-82cdfaecb9e2
+      quote: 'Production, guitar: Shervin Najafian @shervinnajafian'
+      accessed: '2026-10-22'
+  - value: Q86jept
+    qualifiers:
+      role: cello
+    references:
+    - source: soundcloud.com-marjan-farsad-parie-gheseha-82cdfaecb9e2
+      quote: 'Cello: Federico Bragetti'
+      accessed: '2026-10-22'
+  - value: Qcndsg3
+    qualifiers:
+      role: keyboards
+    references:
+    - source: soundcloud.com-marjan-farsad-parie-gheseha-82cdfaecb9e2
+      quote: 'Keys: Mohammad Ebadi'
+      accessed: '2026-10-22'
+  - value: Qc6hr9c
+    references:
+    - source: soundcloud.com-marjan-farsad-parie-gheseha-82cdfaecb9e2
+      quote: 'Clarinet: Luis Miguel Aguilar'
+      accessed: '2026-10-22'
+  contributor:
+  - value: Q3te3g6
+    qualifiers:
+      role:
+      - composer
+    references:
+    - source: soundcloud.com-marjan-farsad-parie-gheseha-82cdfaecb9e2
+      quote: 'Music, lyrics, artwork: Marjan Farsad'
+      accessed: '2026-10-22'
+  - value: Q3te3g6
+    qualifiers:
+      role:
+      - lyricist
+    references:
+    - source: soundcloud.com-marjan-farsad-parie-gheseha-82cdfaecb9e2
+      quote: 'Music, lyrics, artwork: Marjan Farsad'
+      accessed: '2026-10-22'
+  - value: Qfxfy6v
+    qualifiers:
+      role:
+      - producer
+    references:
+    - source: soundcloud.com-marjan-farsad-parie-gheseha-82cdfaecb9e2
+      quote: 'Production, guitar: Shervin Najafian @shervinnajafian'
+      accessed: '2026-10-22'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ad/ac/e9/adace93b-df62-6431-d677-42cab286520e/artwork.jpg/1200x630wp-60.jpg
+    references:
+    - source: music.apple.com-nl-song-1769879750-65a0a8a77b5e
+      quote: '''Parie Gheseha'' van Marjan Farsad op Apple Music'
+      accessed: '2026-10-19'
+    - source: music.apple.com-nl-song-1769879750-65a0a8a77b5e
+      quote: |-
+        https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ad/ac/e9/adace93b-df62-6431-d677-42cab286520e/artwork.jpg/1200x630wp-60.jpg
+      accessed: '2026-10-19'
+    - source: soundcloud.com-marjan-farsad-parie-gheseha-82cdfaecb9e2
+      quote: 'Music, lyrics, artwork: Marjan Farsad'
+      accessed: '2026-10-22'
+    qualifiers:
+      credit:
+        text: Marjan Farsad
+        language: en
+  listen link:
+  - value: https://music.apple.com/nl/song/1769879750
+    references:
+    - source: music.apple.com-nl-song-1769879750-65a0a8a77b5e
+      quote: '''Parie Gheseha'' van Marjan Farsad op Apple Music'
+      accessed: '2026-10-19'
+  - value: https://open.spotify.com/album/6t5AAaA2K7FHcd6PuapMtb
+    references:
+    - source: open.spotify.com-embed-uri-spotify-3aalbum-3a6t5aaaa2k7fhcd6puapmtb-1abb2038d0ce
+      quote: |-
+        spotify:album:6t5AAaA2K7FHcd6PuapMtb
+      accessed: '2026-10-22'
+  - value: https://soundcloud.com/marjan-farsad/parie-gheseha
+    references:
+    - source: soundcloud.com-marjan-farsad-parie-gheseha-82cdfaecb9e2
+      quote: |-
+        Parie Gheseha
+      accessed: '2026-10-22'
+  release date:
+  - value:
+      date: '2024-09-27'
+    references:
+    - source: music.apple.com-nl-song-1769879750-65a0a8a77b5e
+      quote: |-
+        27 september 2024
+      accessed: '2026-10-19'

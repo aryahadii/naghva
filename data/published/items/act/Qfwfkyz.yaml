@@ -1,0 +1,40 @@
+id: Qfwfkyz
+type: act
+statements:
+  name:
+  - value:
+      text: Kābin
+      language: en
+    references:
+    - source: music.apple.com-us-album-magnetism-1860037155-3ee2ce7eac07
+      quote: Magnetism - Album by Mohsen Namjoo & Kābin - Apple Music
+      accessed: '2026-10-23'
+  - value:
+      text: کابین
+      language: fa
+    references:
+    - source: kabin.bandcamp.com-5970d00b3f85
+      quote: |-
+        دلِ خُرمِ تو کابینِ من است
+      accessed: '2026-10-23'
+  based in:
+  - value: Qhm6fzw
+    references:
+    - source: kabin.bandcamp.com-5970d00b3f85
+      quote: |-
+        Kābin
+        Tehran, Iran
+      accessed: '2026-10-23'
+  profile link:
+  - value: https://kabin.bandcamp.com/
+    references:
+    - source: kabin.bandcamp.com-5970d00b3f85
+      quote: |-
+        Kābin
+      accessed: '2026-10-23'
+  - value: https://soundcloud.com/kaabin
+    references:
+    - source: soundcloud.com-kaabin-profile
+      quote: |-
+        Kābin
+      accessed: '2026-10-23'

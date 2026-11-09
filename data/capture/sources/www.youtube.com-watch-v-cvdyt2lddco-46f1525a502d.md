@@ -14,3 +14,9 @@ about:
 > @tahamazaheri8857  #guitarist
 
 Full videoDetails.shortDescription, read 2026-10-22.
+
+> Ashh Nm & Taha Mazaheri Live At CaveRoom @ashh_nm @tahamazaheri8857
+
+> 2023-09-29T21:25:34-07:00
+
+> https://i.ytimg.com/vi/cvdYT2LDDco/maxresdefault.jpg

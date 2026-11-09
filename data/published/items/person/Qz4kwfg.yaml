@@ -1,0 +1,19 @@
+id: Qz4kwfg
+type: person
+statements:
+  name:
+  - value:
+      text: Johann Sebastian Bach
+      language: en
+    references:
+    - source: nbe.nl-shop-bach-sufi
+      quote: 'COMPOSITIE: JOHANN SEBASTIAN BACH, ALI GHAMSARI, MATHILDE WANTENAAR'
+      accessed: '2026-11-06'
+  # Editorial Persian display spelling; source uses the Latin name.
+  - value:
+      text: یوهان سباستیان باخ
+      language: fa
+    references:
+    - source: nbe.nl-shop-bach-sufi
+      quote: 'COMPOSITIE: JOHANN SEBASTIAN BACH, ALI GHAMSARI, MATHILDE WANTENAAR'
+      accessed: '2026-11-06'

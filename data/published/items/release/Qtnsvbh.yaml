@@ -1,0 +1,57 @@
+id: Qtnsvbh
+type: release
+statements:
+  name:
+  - value:
+      text: Magnitazdat (Songs of Terror & Hope)
+      language: en
+    references:
+    - &id001
+      source: music.apple.com-us-album-magnitazdat-songs-of-terror-hope-ep-1439232523-3415ddcbdf3e
+      quote: Magnitazdat (Songs of Terror & Hope) - EP by 127 on Apple Music
+      accessed: '2026-10-23'
+  release date:
+  - value:
+      date: '2007-09-11'
+    references:
+    - source: music.apple.com-us-album-magnitazdat-songs-of-terror-hope-ep-1439232523-3415ddcbdf3e
+      quote: '2007-09-11'
+      accessed: '2026-10-23'
+    - source: open.spotify.com-album-1igxwvpv3xgagd2r6qdtsg-06047fe46652
+      quote: '2007-09-11'
+      accessed: '2026-10-23'
+  performer:
+  - value: Q2n5y3k
+    references:
+    - *id001
+  listen link:
+  - value: https://music.apple.com/us/album/magnitazdat-songs-of-terror-hope-ep/1439232523
+    references:
+    - *id001
+  - value: https://open.spotify.com/album/1iGxwvPV3xgAgd2r6QDtSG
+    references:
+    - source: open.spotify.com-album-1igxwvpv3xgagd2r6qdtsg-06047fe46652
+      quote: 127 · EP · 2007 · 5 songs
+      accessed: '2026-10-23'
+  - value: https://www.youtube.com/playlist?list=OLAK5uy_krxtPVsOhAzZ8CKJ2iHSFhjaqY0j7fRuw
+    references:
+    - source: www.youtube.com-playlist-magnitazdat-songs-of-terror-hope-3fcf458d7899
+      quote: Magnitazdat (Songs of Terror & Hope)
+      accessed: '2026-10-23'
+    - source: www.youtube.com-playlist-magnitazdat-songs-of-terror-hope-3fcf458d7899
+      quote: 127 • Album
+      accessed: '2026-10-23'
+    - source: www.youtube.com-playlist-magnitazdat-songs-of-terror-hope-3fcf458d7899
+      quote: "5 video's"
+      accessed: '2026-10-23'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/df/d9/14/dfd91469-3c2e-a1c7-0e8f-497e3d1f8449/cover.jpg/600x600bf-60.jpg
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-magnitazdat-songs-of-terror-hope-ep-1439232523-3415ddcbdf3e
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/df/d9/14/dfd91469-3c2e-a1c7-0e8f-497e3d1f8449/cover.jpg/600x600bf-60.jpg
+      accessed: '2026-10-23'
+    - *id001

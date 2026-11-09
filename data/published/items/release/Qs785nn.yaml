@@ -1,0 +1,51 @@
+id: Qs785nn
+type: release
+statements:
+  name:
+  - value:
+      text: Silences Inbetween
+      language: en
+    references: &id001
+    - &id002
+      source: sabaalizadeh.bandcamp.com-track-silences-inbetween-cfc64be36cde
+      quote: Silences Inbetween | Saba Alizadeh
+      accessed: '2026-11-06'
+  # Editorial Persian display spelling; source uses the original name.
+  - value:
+      text: سکوت‌های میان
+      language: fa
+    references: *id001
+  performer:
+  - value: Qgbbc6t
+    references:
+    - *id002
+  release date:
+  - value:
+      date: '2021-07-08'
+    references:
+    - source: sabaalizadeh.bandcamp.com-track-silences-inbetween-cfc64be36cde
+      quote: "from\nI May Never See You Again\n,\n                \n\n                \n                    \n \
+        \                       \n                            released July 8, 2021"
+      accessed: '2026-11-06'
+  listen link:
+  - value: https://sabaalizadeh.bandcamp.com/track/silences-inbetween
+    references:
+    - *id002
+  - value: https://open.spotify.com/track/3PCm5lriYLVL9mcVgBQjXH
+    references:
+    - source: open.spotify.com-embed-track-3pcm5lriylvl9mcvgbqjxh-bfae6421e72e
+      quote: 'Silences in Between
+
+        Saba Alizadeh'
+      accessed: '2026-11-06'
+  - value: https://music.apple.com/us/album/silences-in-between/1561974706?i=1561974721
+    references:
+    - source: music.apple.com-us-album-silences-in-between-1561974706-i-1561974721-e01e67108c93
+      quote: ‎Silences in Between - Song with Lyrics by Saba Alizadeh - Apple Music
+      accessed: '2026-11-06'
+  cover art:
+  - value: https://f4.bcbits.com/img/a3519258450_10.jpg
+    references:
+    - source: sabaalizadeh.bandcamp.com-album-i-may-never-see-you-again-fdbe3dc5b47c
+      quote: https://f4.bcbits.com/img/a3519258450_10.jpg
+      accessed: '2026-11-06'

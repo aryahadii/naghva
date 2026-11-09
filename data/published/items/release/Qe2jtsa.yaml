@@ -1,0 +1,44 @@
+id: Qe2jtsa
+type: release
+statements:
+  name:
+  - value:
+      text: Midnight Summer Dream     رویای نیمه شب تابستان
+      language: en
+    references:
+    - &id001
+      source: sabaalizadeh.bandcamp.com-track-midnight-summer-dream-a318154a3ae5
+      quote: Midnight Summer Dream     رویای نیمه شب تابستان | Saba Alizadeh
+      accessed: '2026-11-06'
+  - value:
+      text: رویای نیمه شب تابستان
+      language: fa
+    references:
+    - source: sabaalizadeh.bandcamp.com-track-midnight-summer-dream-a318154a3ae5
+      quote: رویای نیمه شب تابستان
+      accessed: '2026-11-06'
+  performer:
+  - value: Qgbbc6t
+    references:
+    - *id001
+  release date:
+  - value:
+      date: '2013-05-22'
+    references:
+    - source: sabaalizadeh.bandcamp.com-track-midnight-summer-dream-a318154a3ae5
+      quote: released May 22, 2013
+      accessed: '2026-11-06'
+  listen link:
+  - value: https://sabaalizadeh.bandcamp.com/track/midnight-summer-dream
+    references:
+    - *id001
+  cover art:
+  - value: https://f4.bcbits.com/img/a2889673151_10.jpg
+    references:
+    - source: sabaalizadeh.bandcamp.com-track-midnight-summer-dream-a318154a3ae5
+      quote: https://f4.bcbits.com/img/a2889673151_10.jpg
+      accessed: '2026-11-06'
+    qualifiers:
+      credit:
+        text: sabaalizadeh.bandcamp.com
+        language: en

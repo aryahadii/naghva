@@ -1,0 +1,104 @@
+id: Qqkjk38
+type: release
+statements:
+  name:
+  - value:
+      text: Maryam
+      language: en
+    references:
+    - source: open-spotify-com-album-63sflf9gq9hsuzhaloskgk-3b3bab3aa3ec
+      quote: |-
+        Listen to Maryam - Single by Dariush Azar | Spotify
+      accessed: '2026-10-23'
+  - value:
+      text: مریم
+      language: fa
+    references:
+    - source: soundcloud-com-dariusazar-maryam-30f39a55590c
+      quote: |-
+        Maryam ( مریم )
+      accessed: '2026-10-23'
+  release date:
+  - value:
+      date: '2021-09-12'
+    references:
+    - source: open-spotify-com-album-63sflf9gq9hsuzhaloskgk-3b3bab3aa3ec
+      quote: |-
+        2021-09-12
+      accessed: '2026-10-23'
+    - source: music-apple-com-ca-album-maryam-single-1605925383-1a5ab46edab8
+      quote: |-
+        2021-09-12T00:00:00.000Z
+      accessed: '2026-10-23'
+  performer:
+  - value: Qfs95yd
+    qualifiers:
+      role:
+      - vocals
+    references:
+    - source: soundcloud-com-dariusazar-maryam-30f39a55590c
+      quote: 'Vocal & Composer & Arrangement : Darius Azar'
+      accessed: '2026-10-23'
+    - source: soundcloud-com-dariusazar-maryam-30f39a55590c
+      quote: 'Lyric : Ahmad Shamlu_Darius Azar'
+      accessed: '2026-10-23'
+    - source: music-apple-com-ca-album-maryam-single-1605925383-1a5ab46edab8
+      quote: |-
+        Maryam - Single by Dariush Azar on Apple Music
+      accessed: '2026-10-23'
+  contributor:
+  - value: Qfs95yd
+    qualifiers:
+      role:
+      - composer
+      - arranger
+      - lyricist
+    references:
+    - source: soundcloud-com-dariusazar-maryam-30f39a55590c
+      quote: 'Vocal & Composer & Arrangement : Darius Azar'
+      accessed: '2026-10-23'
+    - source: soundcloud-com-dariusazar-maryam-30f39a55590c
+      quote: 'Lyric : Ahmad Shamlu_Darius Azar'
+      accessed: '2026-10-23'
+    - source: music-apple-com-ca-album-maryam-single-1605925383-1a5ab46edab8
+      quote: |-
+        Maryam - Single by Dariush Azar on Apple Music
+      accessed: '2026-10-23'
+  - value: Q56bqf6
+    qualifiers:
+      role:
+      - lyricist
+    references:
+    - source: soundcloud-com-dariusazar-maryam-30f39a55590c
+      quote: 'Lyric : Ahmad Shamlu_Darius Azar'
+      accessed: '2026-10-23'
+  listen link:
+  - value: https://open.spotify.com/album/63SfLf9gQ9hSuzHalOsKgK
+    references:
+    - source: open-spotify-com-album-63sflf9gq9hsuzhaloskgk-3b3bab3aa3ec
+      quote: |-
+        Listen to Maryam - Single by Dariush Azar | Spotify
+      accessed: '2026-10-23'
+  - value: https://music.apple.com/ca/album/maryam-single/1605925383
+    references:
+    - source: music-apple-com-ca-album-maryam-single-1605925383-1a5ab46edab8
+      quote: |-
+        Maryam - Single by Dariush Azar on Apple Music
+      accessed: '2026-10-23'
+  - value: https://soundcloud.com/dariusazar/maryam
+    references:
+    - source: soundcloud-com-dariusazar-maryam-30f39a55590c
+      quote: |-
+        Maryam ( مریم )
+      accessed: '2026-10-23'
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-zR7SYyrifYzu2oJQ-ppU0sw-t500x500.jpg
+    qualifiers:
+      credit:
+        text: SoundCloud
+        language: en
+    references:
+    - source: soundcloud-com-dariusazar-maryam-30f39a55590c
+      quote: |-
+        https://i1.sndcdn.com/artworks-zR7SYyrifYzu2oJQ-ppU0sw-t500x500.jpg
+      accessed: '2026-10-23'

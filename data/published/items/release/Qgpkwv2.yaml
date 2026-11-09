@@ -1,0 +1,68 @@
+id: Qgpkwv2
+type: release
+statements:
+  name:
+  - value:
+      text: برقِ دَم
+      language: fa
+    references:
+    - source: t.me-jumamusic-126
+      quote: |-
+        برقِ دَم
+      accessed: '2026-10-22'
+  release date:
+  - value:
+      date: '1402-11-26'
+      calendar: jalali
+    references:
+    - source: t.me-jumamusic-126
+      quote: 'نشر: ۲۶ بهمن۱۴۰۲'
+      accessed: '2026-10-22'
+  performer:
+  - value: Q48zttz
+    references:
+    - source: t.me-jumamusic-126
+      quote: 'آهنگ و اجرا: جوما'
+      accessed: '2026-10-22'
+  contributor:
+  - value: Qestmns
+    qualifiers:
+      role:
+      - lyricist
+    references:
+    - source: t.me-jumamusic-126
+      quote: 'شعر: حسین طوافی لاهیجی'
+      accessed: '2026-10-22'
+  - value: Q48zttz
+    qualifiers:
+      role:
+      - composer
+    references:
+    - source: t.me-jumamusic-126
+      quote: 'آهنگ و اجرا: جوما'
+      accessed: '2026-10-22'
+  listen link:
+  - value: https://t.me/jumamusic/126
+    references:
+    - source: t.me-jumamusic-126
+      quote: |-
+        برقِ دَم
+        آهنگ و اجرا: جوما
+      accessed: '2026-10-22'
+  - value: https://soundcloud.com/jumaprojets/barghe-dam
+    references:
+    - source: soundcloud.com-jumaprojets-barghe-dam
+      quote: |-
+        barghe dam- برق دم
+      accessed: '2026-10-22'
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-n9LHdj3fq4lxNh7C-kOvmhw-t500x500.jpg
+    qualifiers:
+      credit:
+        text: Jumaprojets (SoundCloud)
+        language: en
+    references:
+    - source: soundcloud.com-jumaprojets-barghe-dam
+      quote: |-
+        barghe dam- برق دم
+      accessed: '2026-10-22'

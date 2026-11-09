@@ -1,0 +1,19 @@
+id: Qafstpw
+type: person
+statements:
+  name:
+  - value:
+      text: Simon Rummel
+      language: en
+    references:
+    - source: t.me-shahinnajafimusic-2613
+      quote: 'Conductor & Piano: Simon Rummel'
+      accessed: '2026-11-06'
+  - value:
+      text: سیمون رومل
+      language: fa
+    # Editorial Persian display spelling; source uses the Latin name.
+    references:
+    - source: t.me-shahinnajafimusic-2613
+      quote: 'Conductor & Piano: Simon Rummel'
+      accessed: '2026-11-06'

@@ -1,0 +1,86 @@
+id: Q9fbvpm
+type: release
+statements:
+  name:
+  - value:
+      text: Mascara
+      language: en
+    references:
+    - source: soundcloud.com-moodymoussavi-mascara-fbac32be30f8
+      quote: |-
+        Mascara
+      accessed: '2026-11-06'
+  - value:
+      text: ماسکارا
+      language: fa
+    references:
+    - source: soundcloud.com-moodymoussavi-mascara-fbac32be30f8
+      quote: |-
+        Mascara
+      accessed: '2026-11-06'
+  performer:
+  - value: Qv5ybzr
+    references:
+    - source: soundcloud.com-moodymoussavi-mascara-fbac32be30f8
+      quote: |-
+        Mascara
+      accessed: '2026-11-06'
+  - value: Qv5ybzr
+    references:
+    - source: soundcloud.com-moodymoussavi-mascara-fbac32be30f8
+      quote: 'Moody Moussavi: Guitars, Songwriter'
+      accessed: '2026-11-06'
+    qualifiers:
+      role:
+      - guitar
+  contributor:
+  - value: Qv5ybzr
+    references:
+    - source: soundcloud.com-moodymoussavi-mascara-fbac32be30f8
+      quote: 'Moody Moussavi: Guitars, Songwriter'
+      accessed: '2026-11-06'
+    qualifiers:
+      role:
+      - songwriter
+  - value: Qkzrdwz
+    references:
+    - source: soundcloud.com-moodymoussavi-mascara-fbac32be30f8
+      quote: 'Sina Saeidi: Producer, Mix & Mastering Engineer'
+      accessed: '2026-11-06'
+    qualifiers:
+      role:
+      - producer
+  release date:
+  - value:
+      date: '2026-08-28'
+    references:
+    - source: soundcloud.com-moodymoussavi-mascara-fbac32be30f8
+      quote: '"release_date":"2026-08-28T00:00:00Z"'
+      accessed: '2026-11-06'
+  listen link:
+  - value: https://soundcloud.com/moodymoussavi/mascara
+    references:
+    - source: soundcloud.com-moodymoussavi-mascara-fbac32be30f8
+      quote: |-
+        Mascara
+      accessed: '2026-11-06'
+  - value: https://open.spotify.com/track/3Ge81xr8uDAPaOmYzNmWuc
+    references:
+    - source: open.spotify.com-track-3ge81xr8udapaomyznmwuc-e4238749d782
+      quote: |-
+        Mascara
+      accessed: '2026-11-06'
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-5U8yknXuVP2HJIi6-5LtehQ-t500x500.jpg
+    references:
+    - source: soundcloud.com-moodymoussavi-mascara-fbac32be30f8
+      quote: |-
+        https://i1.sndcdn.com/artworks-5U8yknXuVP2HJIi6-5LtehQ-t500x500.jpg
+      accessed: '2026-11-06'
+    - source: soundcloud.com-moodymoussavi-mascara-fbac32be30f8
+      quote: 'No One Noise: Cover Artist, Graphic Designer'
+      accessed: '2026-11-06'
+    qualifiers:
+      credit:
+        text: No One Noise
+        language: en

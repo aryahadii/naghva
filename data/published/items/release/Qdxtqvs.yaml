@@ -1,0 +1,84 @@
+id: Qdxtqvs
+type: release
+statements:
+  name:
+  - value:
+      text: چارفصل
+      language: fa
+    references:
+    - source: t.me-jumamusic-87
+      quote: |-
+        چارفصل
+      accessed: '2026-10-22'
+  release date:
+  - value:
+      date: '1401-12-29'
+      calendar: jalali
+    references:
+    - source: t.me-jumamusic-87
+      quote: 'نشر: ۲۹ اسفند ۱۴۰۱خورشیدی'
+      accessed: '2026-10-22'
+  performer:
+  - value: Q48zttz
+    references:
+    - source: t.me-jumamusic-87
+      quote: 'آهنگ و اجرا: جوما'
+      accessed: '2026-10-22'
+  contributor:
+  - value: Qvs5c3g
+    qualifiers:
+      role:
+      - lyricist
+    references:
+    - source: t.me-jumamusic-87
+      quote: 'شعر: حسن خوشدل (اواخر دهه‌ ۵۰)'
+      accessed: '2026-10-22'
+  - value: Q48zttz
+    qualifiers:
+      role:
+      - composer
+    references:
+    - source: t.me-jumamusic-87
+      quote: 'آهنگ و اجرا: جوما'
+      accessed: '2026-10-22'
+  - value: Q48zttz
+    qualifiers:
+      role:
+      - lyricist
+    references:
+    - source: t.me-jumamusic-87
+      quote: |-
+        شعر: حسن خوشدل (اواخر دهه‌ ۵۰)
+        و جوما
+      accessed: '2026-10-22'
+  listen link:
+  - value: https://t.me/jumamusic/87
+    references:
+    - source: t.me-jumamusic-87
+      quote: |-
+        چارفصل
+        آهنگ و اجرا: جوما
+      accessed: '2026-10-22'
+  - value: https://www.youtube.com/watch?v=gxwqRVti0s8
+    references:
+    - source: youtube.com-watch-gxwqrvti0s8
+      quote: |-
+        juma- charfasl
+      accessed: '2026-10-22'
+  - value: https://soundcloud.com/jumaprojets/chahar-fasl
+    references:
+    - source: soundcloud.com-jumaprojets-chahar-fasl
+      quote: |-
+        chaar fasl- چارفصل
+      accessed: '2026-10-22'
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-W4TcbtlItC5ClMKG-JkmI5g-t500x500.jpg
+    qualifiers:
+      credit:
+        text: Jumaprojets / SoundCloud
+        language: en
+    references:
+    - source: soundcloud.com-jumaprojets-chahar-fasl
+      quote: |-
+        chaar fasl- چارفصل
+      accessed: '2026-10-22'

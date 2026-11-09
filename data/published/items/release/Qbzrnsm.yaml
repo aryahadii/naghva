@@ -1,0 +1,61 @@
+id: Qbzrnsm
+type: release
+statements:
+  name:
+  - value:
+      text: Omid
+      language: en
+    references:
+    - source: music.apple.com-us-album-omid-1457309279-f1f5c859512f
+      quote: |-
+        Omid Tara Tiba
+      accessed: '2026-10-19'
+  performer:
+  - value: Q73gnev
+    references:
+    - source: music.apple.com-us-album-omid-1457309279-f1f5c859512f
+      quote: |-
+        Omid Tara Tiba
+      accessed: '2026-10-19'
+  contributor:
+  - value: Qqqn98g
+    qualifiers:
+      role:
+      - producer
+    references:
+    - source: www.taratiba.com-e2bad0ea4588
+      quote: |-
+        The new album features Cuban Grammy award nominee pianist-composer Ivan Melon Lewis as producer and some of the finest Cuban and Iranian musicians.
+      accessed: '2026-10-22'
+  release date:
+  - value:
+      date: '2019-03-05'
+    references:
+    - source: music.apple.com-us-album-omid-1457309279-f1f5c859512f
+      quote: |-
+        March 5, 2019 12 songs, 51 minutes ℗ 2019 Tara Tiba
+      accessed: '2026-10-19'
+  listen link:
+  - value: https://music.apple.com/us/album/omid/1457309279
+    references:
+    - source: music.apple.com-us-album-omid-1457309279-f1f5c859512f
+      quote: |-
+        Omid Tara Tiba
+      accessed: '2026-10-19'
+  - value: https://open.spotify.com/album/3X2hhMXHZ9l7GyJdRi5Sws
+    references:
+    - source: open.spotify.com-omid-3x2hhmx
+      quote: |-
+        Listen to Omid - Album by Tara Tiba | Spotify
+      accessed: '2026-10-22'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/66/d8/5c/66d85c52-1392-4cdf-9074-111a0e0251e5/731628310454.jpg/600x600bb.jpg
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-omid-1457309279-f1f5c859512f
+      quote: |-
+        https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/66/d8/5c/66d85c52-1392-4cdf-9074-111a0e0251e5/731628310454.jpg/600x600bb.jpg
+      accessed: '2026-10-22'

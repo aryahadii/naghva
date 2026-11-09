@@ -1,0 +1,19 @@
+id: Qbgz4s9
+type: person
+statements:
+  name:
+  - value:
+      text: David Mackor
+      language: en
+    references:
+    - source: nbe.nl-shop-bach-sufi
+      quote: 'THEORBE: DAVID MACKOR'
+      accessed: '2026-11-06'
+  # Editorial Persian display spelling; source uses the Latin name.
+  - value:
+      text: دیوید مکور
+      language: fa
+    references:
+    - source: nbe.nl-shop-bach-sufi
+      quote: 'THEORBE: DAVID MACKOR'
+      accessed: '2026-11-06'

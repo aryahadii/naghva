@@ -1,0 +1,100 @@
+id: Q8ab2kb
+type: release
+statements:
+  name:
+  - value:
+      text: Unbalanced
+      language: en
+    references:
+    - source: habibmeftah.bandcamp.com-album-unbalanced
+      quote: |-
+        Unbalanced by Habib Meftah
+      accessed: '2026-10-19'
+  release date:
+  - value:
+      date: '2021-10-29'
+    references:
+    - source: habibmeftah.bandcamp.com-album-unbalanced
+      quote: |-
+        released October 29, 2021
+      accessed: '2026-10-19'
+  performer:
+  - value: Q49prrc
+    references:
+    - source: habibmeftah.bandcamp.com-album-unbalanced
+      quote: |-
+        Unbalanced by Habib Meftah
+      accessed: '2026-10-19'
+  contributor:
+  - value: Q49prrc
+    references:
+    - source: soundcloud.com-habib-boushehri-habib-meftah-unbalanced
+      quote: 'Music : Habib Meftah'
+      accessed: '2026-10-22'
+    - source: soundcloud.com-habib-boushehri-balanced
+      quote: 'Music : Habib Meftah'
+      accessed: '2026-10-22'
+    - source: soundcloud.com-habib-boushehri-landed
+      quote: 'Music : Habib Meftah'
+      accessed: '2026-10-22'
+    qualifiers:
+      role:
+      - composer
+  - value: Q8awz86
+    references:
+    - source: soundcloud.com-habib-boushehri-habib-meftah-unbalanced
+      quote: 'Lyrics : Mohammad Laryan'
+      accessed: '2026-10-22'
+    - source: soundcloud.com-habib-boushehri-balanced
+      quote: |-
+        Lyrics :Mohammad Laryan
+      accessed: '2026-10-22'
+    - source: soundcloud.com-habib-boushehri-landed
+      quote: 'Lyrics : Mohammad Laryan'
+      accessed: '2026-10-22'
+    qualifiers:
+      role:
+      - lyricist
+  - value: Qeb6m2p
+    references:
+    - source: soundcloud.com-habib-boushehri-habib-meftah-unbalanced
+      quote: 'Produced : Valentin Mussou'
+      accessed: '2026-10-22'
+    - source: soundcloud.com-habib-boushehri-balanced
+      quote: 'Produced : Valentin Mussou'
+      accessed: '2026-10-22'
+    - source: soundcloud.com-habib-boushehri-landed
+      quote: 'Produced : Valentin Mussou'
+      accessed: '2026-10-22'
+    qualifiers:
+      role:
+      - producer
+  listen link:
+  - value: https://habibmeftah.bandcamp.com/album/unbalanced
+    references:
+    - source: habibmeftah.bandcamp.com-album-unbalanced
+      quote: |-
+        Unbalanced by Habib Meftah
+      accessed: '2026-10-19'
+  - value: https://music.apple.com/us/album/unbalanced-single/1591997642
+    references:
+    - source: music.apple.com-us-album-unbalanced-single-1591997642
+      quote: 'Listen to Unbalanced - Single by Habib Meftah on Apple Music. 2021. 3 Songs. Duration: 9 minutes.'
+      accessed: '2026-10-22'
+  - value: https://open.spotify.com/album/2V9q2tI0RFnUNb0VSH1EVQ
+    references:
+    - source: open.spotify.com-album-2v9q2ti0rfnunb0vsh1evq
+      quote: |-
+        Unbalanced
+      accessed: '2026-10-22'
+  cover art:
+  - value: https://f4.bcbits.com/img/a2965427266_5.jpg
+    qualifiers:
+      credit:
+        text: habibmeftah.bandcamp.com
+        language: en
+    references:
+    - source: habibmeftah.bandcamp.com-album-unbalanced
+      quote: |-
+        Unbalanced by Habib Meftah
+      accessed: '2026-10-19'

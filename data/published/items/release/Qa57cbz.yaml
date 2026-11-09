@@ -1,0 +1,67 @@
+id: Qa57cbz
+type: release
+statements:
+  name:
+  - value:
+      text: نایه آفتو (آفتاب نمی‌آید)
+      language: fa
+    references:
+    - source: t.me-jumamusic-94
+      quote: |-
+        نایه آفتو (آفتاب نمی‌آید)
+      accessed: '2026-10-22'
+  release date:
+  - value:
+      date: '1402-04-01'
+      calendar: jalali
+    references:
+    - source: t.me-jumamusic-94
+      quote: 'نشر: ۱ تیر ۱۴۰۲'
+      accessed: '2026-10-22'
+  performer:
+  - value: Q48zttz
+    references:
+    - source: t.me-jumamusic-94
+      quote: 'اجرا: جوما'
+      accessed: '2026-10-22'
+  contributor:
+  - value: Q8jvd27
+    qualifiers:
+      role:
+      - lyricist
+    references:
+    - source: t.me-jumamusic-94
+      quote: 'شعر: رمضان پورطاهر (دهه‌ی ۵۰)'
+      accessed: '2026-10-22'
+  - value: Qqjvryr
+    qualifiers:
+      role:
+      - original composer
+    references:
+    - source: t.me-jumamusic-94
+      quote: 'آهنگ: براساس ترانه‌ی آدمِ پوچ از ابراهیم منصفی و در یاد او'
+      accessed: '2026-10-22'
+  listen link:
+  - value: https://t.me/jumamusic/94
+    references:
+    - source: t.me-jumamusic-94
+      quote: |-
+        نایه آفتو (آفتاب نمی‌آید)
+      accessed: '2026-10-22'
+  - value: https://soundcloud.com/jumaprojets/naye-afto
+    references:
+    - source: soundcloud.com-jumaprojets-naye-afto
+      quote: |-
+        Naye afto - نَایه آفتو
+      accessed: '2026-10-22'
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-6MxlryVjMfHdDWzV-UANzbQ-t500x500.jpg
+    qualifiers:
+      credit:
+        text: Jumaprojets / SoundCloud
+        language: en
+    references:
+    - source: soundcloud.com-jumaprojets-naye-afto
+      quote: |-
+        Naye afto - نَایه آفتو
+      accessed: '2026-10-22'

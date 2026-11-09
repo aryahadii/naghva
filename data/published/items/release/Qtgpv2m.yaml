@@ -1,0 +1,108 @@
+id: Qtgpv2m
+type: release
+statements:
+  name:
+  - value:
+      text: Shiraz 40 Year Old
+      language: en
+    references:
+    - &id001
+      source: music.apple.com-us-album-shiraz-40-year-old-1570098638-b4b4d2fb8271
+      quote: 'Shiraz 40 Year Old
+
+        Dang Show
+
+        Pop · 2010'
+      accessed: '2026-11-06'
+  - value:
+      text: شیراز چل ساله
+      language: fa
+    references:
+    - source: www.honaronline.ir-d8-a8-d8-ae-d8-b4--d9-85-d9-88-d8-b3-db-8c-d9-82-db-8c-5-135306--d8-ac-d8-b1-d9-82-d9-87--d-66d84681229f
+      quote: در سال 89 اولین آلبوم رسمی گروه به نام شیراز چل ساله که در آن طاها پارسا و امید نعمتی و سپنتا مجتهدزاده خوانندگی را بر عهده داشتند و آیدین آغداشلو و رؤیا نونهالی دکلمه‌های آلبوم را بر عهده داشتند و غزل شاکری بک وکال این آلبوم بود. گروه "دنگ‌شو" تاکنون آلبوم‌های "شیراز چل‌ساله"، "دل تنگ شو"، "اتاق گوشواره" و "مد و نای" را منتشر کرده‌اند.
+      accessed: '2026-11-06'
+    rank: preferred
+  performer:
+  - value: Q8cs7j8
+    references:
+    - *id001
+  - value: Qyhghvy
+    qualifiers:
+      role: vocals
+    references:
+    - &id002
+      source: www.honaronline.ir-d8-a8-d8-ae-d8-b4--d9-85-d9-88-d8-b3-db-8c-d9-82-db-8c-5-135306--d8-ac-d8-b1-d9-82-d9-87--d-66d84681229f
+      quote: در سال 89 اولین آلبوم رسمی گروه به نام شیراز چل ساله که در آن طاها پارسا و امید نعمتی و سپنتا مجتهدزاده خوانندگی را بر عهده داشتند و آیدین آغداشلو و رؤیا نونهالی دکلمه‌های آلبوم را بر عهده داشتند و غزل شاکری بک وکال این آلبوم بود. گروه "دنگ‌شو" تاکنون آلبوم‌های "شیراز چل‌ساله"، "دل تنگ شو"، "اتاق گوشواره" و "مد و نای" را منتشر کرده‌اند.
+      accessed: '2026-11-06'
+  - value: Qnharha
+    qualifiers:
+      role: vocals
+    references:
+    - *id002
+  - value: Qwfx9w6
+    qualifiers:
+      role: vocals
+    references:
+    - *id002
+  - value: Qd35dw9
+    qualifiers:
+      role: backing vocals
+    references:
+    - *id002
+  - value: Qa55cc6
+    references:
+    - *id002
+  - value: Qfh9c6s
+    references:
+    - *id002
+  release date:
+  - value:
+      date: '2010-07-27'
+    references:
+    - source: music.apple.com-us-album-shiraz-40-year-old-1570098638-b4b4d2fb8271
+      quote: July 27, 2010
+      accessed: '2026-11-06'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ab/6f/da/ab6fdae8-0fdd-ee39-4206-332271c73419/196006701345.jpg/632x632bb.webp
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en
+    references:
+    - *id001
+    - source: music.apple.com-us-album-shiraz-40-year-old-1570098638-b4b4d2fb8271
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ab/6f/da/ab6fdae8-0fdd-ee39-4206-332271c73419/196006701345.jpg/632x632bb.webp
+      accessed: '2026-11-06'
+  listen link:
+  - value: https://music.apple.com/us/album/shiraz-40-year-old/1570098638
+    references:
+    - source: music.apple.com-us-album-shiraz-40-year-old-1570098638-b4b4d2fb8271
+      quote: 'Shiraz 40 Year Old
+
+        Dang Show
+
+        Pop · 2010'
+      accessed: '2026-11-06'
+  - value: https://open.spotify.com/album/3lGXDqvtRNvUzKFvrMYdyq
+    references:
+    - source: open-spotify-com-album-3lgxdqvtrnvuzkfvrmydyq-c4dd1b624474
+      quote: Listen to Shiraz 40 Year Old - Album by Dang Show | Spotify
+      accessed: '2026-11-06'
+  - value: https://soundcloud.com/dangshow/sets/shiraz-40-year-old-dang-show
+    references:
+    - source: soundcloud-com-dangshow-sets-shiraz-40-year-old-dang-show-ae55df3ccb07
+      quote: 'Shiraz 40 Year Old - Dang Show
+
+        by Dang Show  دنگ شو'
+      accessed: '2026-11-06'
+  published by:
+  - value: Qbe3rpq
+    references:
+    - source: soundcloud-com-dangshow-sets-shiraz-40-year-old-dang-show-ae55df3ccb07
+      quote: Dang Show's first album released in 2010 by Bamahang production.
+      accessed: '2026-11-06'
+  - value: Qkmvbxz
+    references:
+    - source: www-qobuz-com-us-en-album-shiraz-40-year-old-dang-show-lwkpdirnc9wyc-89547741a345
+      quote: 'Label: Raha Records'
+      accessed: '2026-11-06'

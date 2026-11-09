@@ -1,0 +1,126 @@
+id: Qtgr85t
+type: release
+statements:
+  name:
+  - value:
+      text: Oryan (feat. Aida Shahghasemi)
+      language: en
+    references:
+    - source: soundcloud.com-moodymoussavi-oryan-4ca39634ad2f
+      quote: |-
+        Oryan (ft. Aida Shahghasemi)
+      accessed: '2026-11-06'
+  - value:
+      text: عریان (با آیدا شاه‌قاسمی)
+      language: fa
+    references:
+    - source: soundcloud.com-moodymoussavi-oryan-4ca39634ad2f
+      quote: |-
+        Oryan (ft. Aida Shahghasemi)
+      accessed: '2026-11-06'
+  performer:
+  - value: Qv5ybzr
+    references:
+    - source: music.apple.com-us-album-oryan-1683120685-fa11a55d1c8a
+      quote: '"byArtist":[{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/moody-moussavi/1556901633","name":"Moody Moussavi"}]'
+      accessed: '2026-11-06'
+  - value: Qv5ybzr
+    references:
+    - source: soundcloud.com-moodymoussavi-oryan-4ca39634ad2f
+      quote: 'Moody Moussavi: Vocals, Guitars, Songwriter'
+      accessed: '2026-11-06'
+    qualifiers:
+      role:
+      - vocals
+      - guitar
+  - value: Qw8qpec
+    references:
+    - source: soundcloud.com-moodymoussavi-oryan-4ca39634ad2f
+      quote: 'Borna Shafizadeh : Drummer'
+      accessed: '2026-11-06'
+    qualifiers:
+      role:
+      - drums
+  - value: Qx4zbn3
+    references:
+    - source: soundcloud.com-moodymoussavi-oryan-4ca39634ad2f
+      quote: 'Maziyar Khavajiyan: Bassist (Oryan)'
+      accessed: '2026-11-06'
+    qualifiers:
+      role:
+      - bass
+  - value: Qjh2zkc
+    references:
+    - source: soundcloud.com-moodymoussavi-oryan-4ca39634ad2f
+      quote: 'Aida Shahghasemi: Featuring Artist (Oryan)'
+      accessed: '2026-11-06'
+    - source: open.spotify.com-track-5bjcs3jrn0n7gzmnw5ujgn-884b2142a93e
+      quote: |-
+        Moody Moussavi, Aida Shahghasemi · Oryan · Song · 2023
+      accessed: '2026-11-06'
+  contributor:
+  - value: Qv5ybzr
+    references:
+    - source: soundcloud.com-moodymoussavi-oryan-4ca39634ad2f
+      quote: 'Moody Moussavi: Vocals, Guitars, Songwriter'
+      accessed: '2026-11-06'
+    qualifiers:
+      role:
+      - songwriter
+  - value: Qkzrdwz
+    references:
+    - source: soundcloud.com-moodymoussavi-oryan-4ca39634ad2f
+      quote: 'Sina Saeidi: Producer, Mix & Mastering Engineer'
+      accessed: '2026-11-06'
+    qualifiers:
+      role:
+      - producer
+  - value: Q6mptyz
+    references:
+    - source: soundcloud.com-moodymoussavi-oryan-4ca39634ad2f
+      quote: |-
+        All lyrics excerpted from Baba Taher Oryan's poetry
+      accessed: '2026-11-06'
+    qualifiers:
+      role:
+      - original lyricist
+  release date:
+  - value:
+      date: '2023-04-10'
+    references:
+    - source: music.apple.com-us-album-oryan-1683120685-fa11a55d1c8a
+      quote: '"datePublished":"2023-04-10"'
+      accessed: '2026-11-06'
+  listen link:
+  - value: https://soundcloud.com/moodymoussavi/oryan
+    references:
+    - source: soundcloud.com-moodymoussavi-oryan-4ca39634ad2f
+      quote: |-
+        Oryan (ft. Aida Shahghasemi)
+      accessed: '2026-11-06'
+  - value: https://music.apple.com/us/song/oryan-feat-aida-shahghasemi/1683120688
+    references:
+    - source: music.apple.com-us-song-oryan-feat-aida-shahghasemi-1683120688-b2bef2f3be63
+      quote: |-
+        ‎Oryan (feat. Aida Shahghasemi) - Song with Lyrics by Moody Moussavi - Apple Music
+      accessed: '2026-11-06'
+  - value: https://open.spotify.com/track/5bJCs3Jrn0n7GZMNW5UjGN
+    references:
+    - source: open.spotify.com-track-5bjcs3jrn0n7gzmnw5ujgn-884b2142a93e
+      quote: |-
+        Oryan
+      accessed: '2026-11-06'
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-lydYbqHCFTIoUxzg-EAn9fw-t500x500.jpg
+    references:
+    - source: soundcloud.com-moodymoussavi-oryan-4ca39634ad2f
+      quote: |-
+        https://i1.sndcdn.com/artworks-lydYbqHCFTIoUxzg-EAn9fw-t500x500.jpg
+      accessed: '2026-11-06'
+    - source: soundcloud.com-moodymoussavi-oryan-4ca39634ad2f
+      quote: 'No One Noise : Cover Artist, Graphic Designer'
+      accessed: '2026-11-06'
+    qualifiers:
+      credit:
+        text: No One Noise
+        language: en

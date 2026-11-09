@@ -16,3 +16,7 @@ this field and subject.
 > «داماهی» یک گروه ایرانی است که در سال 1393 توسط دارا دارایی (نوازنده‌ی باس و سرپرست گروه)، حمزه یگانه (نوازنده‌ی کیبورد و بنجو)، ابراهیم علوی (نوازنده‌ی گیتار و عود)، رضا کولغانی (خواننده) و شایان فتحی (نوازنده‌ی درامز و پرکاشن) تشکیل شد.
 
 Public page text or embedded catalogue metadata, read 2026-10-19.
+
+> first album (also named Damahi)
+
+> The band, with a free approach in incorporating the elements of Iranian folk music (mainly that of southern Iran's coastal regions) Jazz, Rock, Reggae, Flamenco, Afro, Latin, Funk, Indian music and more; produced their first album, releasing it for Iran's music market in September 2015.

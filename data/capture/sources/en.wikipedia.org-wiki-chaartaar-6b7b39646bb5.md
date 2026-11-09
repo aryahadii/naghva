@@ -21,3 +21,5 @@ Page text, read 2026-10-19.
 > Arman Garshasbi, vocalist Arash Fathi - Composer Ehsan Haeri - songwriter Aeen Ahmadifar - Arrangement
 
 Read from the source text, 2026-10-19.
+
+> The group’s style is a fusion of electronic music combined with Persian vocal music.

@@ -1,0 +1,101 @@
+id: Qvw8fkf
+type: release
+statements:
+  name:
+  - value:
+      text: Khoongar
+      language: en
+    references:
+    - source: soundcloud.com-moodymoussavi-khoongar-f2e756e0e190
+      quote: |-
+        Khoongar
+      accessed: '2026-11-06'
+  - value:
+      text: خونگر
+      language: fa
+    references:
+    - source: soundcloud.com-moodymoussavi-khoongar-f2e756e0e190
+      quote: |-
+        Khoongar
+      accessed: '2026-11-06'
+  performer:
+  - value: Qv5ybzr
+    references:
+    - source: music.apple.com-us-album-khoongar-single-1752457008-c2bd22ba5262
+      quote: '"byArtist":[{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/moody-moussavi/1556901633","name":"Moody Moussavi"}]'
+      accessed: '2026-11-06'
+  - value: Qv5ybzr
+    references:
+    - source: soundcloud.com-moodymoussavi-khoongar-f2e756e0e190
+      quote: 'Moody Moussavi: Vocals, Guitars, Bass, Songwriter'
+      accessed: '2026-11-06'
+    qualifiers:
+      role:
+      - vocals
+      - guitar
+      - bass
+  contributor:
+  - value: Qv5ybzr
+    references:
+    - source: soundcloud.com-moodymoussavi-khoongar-f2e756e0e190
+      quote: 'Moody Moussavi: Vocals, Guitars, Bass, Songwriter'
+      accessed: '2026-11-06'
+    qualifiers:
+      role:
+      - songwriter
+  - value: Qkzrdwz
+    references:
+    - source: soundcloud.com-moodymoussavi-khoongar-f2e756e0e190
+      quote: 'Sina Saeidi: Producer, Mix & Mastering Engineer'
+      accessed: '2026-11-06'
+    qualifiers:
+      role:
+      - producer
+  - value: Q6mptyz
+    references:
+    - source: soundcloud.com-moodymoussavi-khoongar-f2e756e0e190
+      quote: |-
+        All lyrics excerpted from Baba Taher Oryan's poetry
+      accessed: '2026-11-06'
+    qualifiers:
+      role:
+      - original lyricist
+  release date:
+  - value:
+      date: '2024-06-19'
+    references:
+    - source: music.apple.com-us-album-khoongar-single-1752457008-c2bd22ba5262
+      quote: '"datePublished":"2024-06-19"'
+      accessed: '2026-11-06'
+  listen link:
+  - value: https://soundcloud.com/moodymoussavi/khoongar
+    references:
+    - source: soundcloud.com-moodymoussavi-khoongar-f2e756e0e190
+      quote: |-
+        Khoongar
+      accessed: '2026-11-06'
+  - value: https://music.apple.com/us/album/khoongar-single/1752457008
+    references:
+    - source: music.apple.com-us-album-khoongar-single-1752457008-c2bd22ba5262
+      quote: '"name":"Khoongar - Single"'
+      accessed: '2026-11-06'
+  - value: https://open.spotify.com/track/0Xyrr7BGplw4SG6elGcBZy
+    references:
+    - source: open.spotify.com-track-0xyrr7bgplw4sg6elgcbzy-e9c73743fb42
+      quote: |-
+        Khoongar
+      accessed: '2026-11-06'
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-rpLMxqpo8w3Ag1Lt-9ywtqw-t500x500.jpg
+    references:
+    - source: soundcloud.com-moodymoussavi-khoongar-f2e756e0e190
+      quote: |-
+        https://i1.sndcdn.com/artworks-rpLMxqpo8w3Ag1Lt-9ywtqw-t500x500.jpg
+      accessed: '2026-11-06'
+    - source: soundcloud.com-moodymoussavi-khoongar-f2e756e0e190
+      quote: 'No One Noise: Cover Artist, Graphic Designer'
+      accessed: '2026-11-06'
+    qualifiers:
+      credit:
+        text: No One Noise
+        language: en

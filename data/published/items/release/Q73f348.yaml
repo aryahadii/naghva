@@ -1,0 +1,58 @@
+id: Q73f348
+type: release
+statements:
+  name:
+  - value:
+      text: نیشانه
+      language: fa
+    references:
+    - source: t.me-jumamusic-101
+      quote: |-
+        نیشانه
+      accessed: '2026-10-22'
+  release date:
+  - value:
+      date: '1402-07-21'
+      calendar: jalali
+    references:
+    - source: t.me-jumamusic-101
+      quote: 'نشر: ۲۱مهرماه ۱۴۰۲'
+      accessed: '2026-10-22'
+  performer:
+  - value: Q48zttz
+    references:
+    - source: t.me-jumamusic-101
+      quote: 'آهنگ و اجرا: جوما'
+      accessed: '2026-10-22'
+  contributor:
+  - value: Q8t2mba
+    qualifiers:
+      role:
+      - lyricist
+    references:
+    - source: t.me-jumamusic-101
+      quote: 'شعر: محمد فارسی (شَواله)'
+      accessed: '2026-10-22'
+  - value: Qt4ptq7
+    qualifiers:
+      role:
+      - arranger
+    references:
+    - source: t.me-jumamusic-101
+      quote: 'تنظیم: رضا خوشگفتار'
+      accessed: '2026-10-22'
+  - value: Q48zttz
+    qualifiers:
+      role:
+      - composer
+    references:
+    - source: t.me-jumamusic-101
+      quote: 'آهنگ و اجرا: جوما'
+      accessed: '2026-10-22'
+  listen link:
+  - value: https://t.me/jumamusic/101
+    references:
+    - source: t.me-jumamusic-101
+      quote: |-
+        نیشانه
+      accessed: '2026-10-22'

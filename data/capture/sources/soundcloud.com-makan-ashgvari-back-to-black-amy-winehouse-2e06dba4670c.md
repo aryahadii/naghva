@@ -11,3 +11,7 @@ publisher: SoundCloud
 > 2012.
 
 Public page text or embedded catalogue metadata, read 2026-10-19.
+
+> Back to Black (Amy Winehouse Cover) by Sardar Sarmast, Makan Ashgvari
+
+> https://i1.sndcdn.com/artworks-000033485335-2sg963-t500x500.jpg

@@ -1,0 +1,114 @@
+id: Qz27sry
+type: release
+statements:
+  name:
+  - value:
+      text: Blue
+      language: en
+    references:
+    - source: music.apple.com-us-album-blue-single-1287780086
+      quote: |-
+        Blue - Single
+        Shahin Najafi
+        Worldwide · 2017
+        Preview
+        September 20, 2017
+        1 song, 5 minutes
+        ℗ 2017 Shahin Najafi
+      accessed: '2026-11-06'
+  - value:
+      text: آبی
+      language: fa
+    references:
+    - source: t.me-shahinnajafimusic-1325
+      quote: |-
+        #Blue #آبى
+      accessed: '2026-11-06'
+  release date:
+  - value:
+      date: '2017-09-20'
+    references:
+    - source: music.apple.com-us-album-blue-single-1287780086
+      quote: |-
+        Blue - Single
+        Shahin Najafi
+        Worldwide · 2017
+        Preview
+        September 20, 2017
+        1 song, 5 minutes
+        ℗ 2017 Shahin Najafi
+      accessed: '2026-11-06'
+  performer:
+  - value: Qn7vfak
+    references:
+    - source: music.apple.com-us-album-blue-single-1287780086
+      quote: |-
+        Blue - Single
+        Shahin Najafi
+        Worldwide · 2017
+        Preview
+        September 20, 2017
+        1 song, 5 minutes
+        ℗ 2017 Shahin Najafi
+      accessed: '2026-11-06'
+  contributor:
+  - value: Qn7vfak
+    references:
+    - source: t.me-shahinnajafimusic-1325
+      quote: 'Music: Shahin Najafi'
+      accessed: '2026-11-06'
+    qualifiers:
+      role:
+      - composer
+  - value: Qn7vfak
+    references:
+    - source: t.me-shahinnajafimusic-1325
+      quote: 'Lyrics: Shahin Najafi, Hafez & Muhammad'
+      accessed: '2026-11-06'
+    qualifiers:
+      role:
+      - lyricist
+  - value: Q9v5vsf
+    references:
+    - source: t.me-shahinnajafimusic-1325
+      quote: 'Lyrics: Shahin Najafi, Hafez & Muhammad'
+      accessed: '2026-11-06'
+    qualifiers:
+      role:
+      - original lyricist
+  listen link:
+  - value: https://music.apple.com/us/album/blue-single/1287780086
+    references:
+    - source: music.apple.com-us-album-blue-single-1287780086
+      quote: |-
+        Blue - Single - Album by Shahin Najafi - Apple Music
+      accessed: '2026-11-06'
+  - value: https://open.spotify.com/album/0g5d1rN8Fk0V6ES1WKo0Iv
+    references:
+    - source: open.spotify.com-album-0g5d1rn8fk0v6es1wko0iv
+      quote: |-
+        Listen to Blue - Single by Shahin Najafi | Spotify
+      accessed: '2026-11-06'
+  - value: https://t.me/shahinnajafimusic/1324
+    references:
+    - source: t.me-shahinnajafimusic-1324
+      quote: |-
+        Blue
+        Shahin Najafi
+      accessed: '2026-11-06'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/de/99/fd/de99fd78-320c-8b5e-83e0-5d303e91a3f8/191924280897.jpg/632x632bb.webp
+    references:
+    - source: music.apple.com-us-album-blue-single-1287780086
+      quote: |-
+        Blue - Single - Album by Shahin Najafi - Apple Music
+      accessed: '2026-11-06'
+    - source: t.me-shahinnajafimusic-1325
+      quote: |-
+        Cover Art: Sharour Artwork
+        Drawing: Keyvan Mahjoor
+      accessed: '2026-11-06'
+    qualifiers:
+      credit:
+        text: 'Sharour Artwork; drawing: Keyvan Mahjoor'
+        language: en

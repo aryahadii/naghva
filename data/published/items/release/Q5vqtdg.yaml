@@ -1,0 +1,125 @@
+id: Q5vqtdg
+type: release
+statements:
+  name:
+  - value:
+      text: Tango
+      language: en
+    references:
+    - source: open-spotify-com-album-3ftjo57hutnfv2gfz96eir-ff6fa731693b
+      quote: |-
+        Listen to Tango - Single by Dariush Azar | Spotify
+      accessed: '2026-10-23'
+  - value:
+      text: تانگو
+      language: fa
+    references:
+    - source: soundcloud-com-dariusazar-tango-150f99efb2f2
+      quote: |-
+        Tango ( تانگو )
+      accessed: '2026-10-23'
+  release date:
+  - value:
+      date: '2022-02-07'
+    references:
+    - source: open-spotify-com-album-3ftjo57hutnfv2gfz96eir-ff6fa731693b
+      quote: |-
+        2022-02-07
+      accessed: '2026-10-23'
+    - source: music-apple-com-ca-album-tango-single-1608617651-4929ea5a4bde
+      quote: |-
+        2022-02-07T00:00:00.000Z
+      accessed: '2026-10-23'
+  performer:
+  - value: Qfs95yd
+    qualifiers:
+      role:
+      - vocals
+    references:
+    - source: soundcloud-com-dariusazar-tango-150f99efb2f2
+      quote: 'Vocal : Dariush Azar'
+      accessed: '2026-10-23'
+    - source: soundcloud-com-dariusazar-tango-150f99efb2f2
+      quote: 'Composer & Arrangement : Dariush Azar'
+      accessed: '2026-10-23'
+    - source: t.me-dariusazar-204-01798b8e010f
+      quote: 'خواننده: داریوش آذر'
+      accessed: '2026-10-23'
+    - source: t.me-dariusazar-204-01798b8e010f
+      quote: 'آهنگساز و تنظیم‌کننده: داریوش آذر'
+      accessed: '2026-10-23'
+    - source: music-apple-com-ca-album-tango-single-1608617651-4929ea5a4bde
+      quote: |-
+        Tango - Single by Dariush Azar & Alireza Koliai on Apple Music
+      accessed: '2026-10-23'
+  contributor:
+  - value: Qfs95yd
+    qualifiers:
+      role:
+      - composer
+      - arranger
+    references:
+    - source: soundcloud-com-dariusazar-tango-150f99efb2f2
+      quote: 'Vocal : Dariush Azar'
+      accessed: '2026-10-23'
+    - source: soundcloud-com-dariusazar-tango-150f99efb2f2
+      quote: 'Composer & Arrangement : Dariush Azar'
+      accessed: '2026-10-23'
+    - source: t.me-dariusazar-204-01798b8e010f
+      quote: 'خواننده: داریوش آذر'
+      accessed: '2026-10-23'
+    - source: t.me-dariusazar-204-01798b8e010f
+      quote: 'آهنگساز و تنظیم‌کننده: داریوش آذر'
+      accessed: '2026-10-23'
+    - source: music-apple-com-ca-album-tango-single-1608617651-4929ea5a4bde
+      quote: |-
+        Tango - Single by Dariush Azar & Alireza Koliai on Apple Music
+      accessed: '2026-10-23'
+  - value: Qf2s8jj
+    qualifiers:
+      role:
+      - lyricist
+    references:
+    - source: music-apple-com-ca-album-tango-single-1608617651-4929ea5a4bde
+      quote: |-
+        Tango - Single by Dariush Azar & Alireza Koliai on Apple Music
+      accessed: '2026-10-23'
+    - source: t.me-dariusazar-204-01798b8e010f
+      quote: 'شاعر: علیرضا کلیایی'
+      accessed: '2026-10-23'
+  listen link:
+  - value: https://open.spotify.com/album/3Ftjo57HUTNfv2gfZ96EIr
+    references:
+    - source: open-spotify-com-album-3ftjo57hutnfv2gfz96eir-ff6fa731693b
+      quote: |-
+        Listen to Tango - Single by Dariush Azar | Spotify
+      accessed: '2026-10-23'
+  - value: https://music.apple.com/ca/album/tango-single/1608617651
+    references:
+    - source: music-apple-com-ca-album-tango-single-1608617651-4929ea5a4bde
+      quote: |-
+        Tango - Single by Dariush Azar & Alireza Koliai on Apple Music
+      accessed: '2026-10-23'
+  - value: https://www.youtube.com/playlist?list=OLAK5uy_kCbD8Ra2vT_pyapYjWO6qFB7cu9NzZDmM
+    references:
+    - source: www-youtube-com-playlist-list-olak5uy-kcbd8ra2vt-pyapyjwo6qfb7cu9nzzdmm-6902b3ee101c
+      quote: |-
+        Tango
+      accessed: '2026-10-23'
+  - value: https://soundcloud.com/dariusazar/tango
+    references:
+    - source: soundcloud-com-dariusazar-tango-150f99efb2f2
+      quote: |-
+        Tango ( تانگو )
+      accessed: '2026-10-23'
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-GXyx5SQw7KE7IQP3-weaS9g-t500x500.jpg
+    qualifiers:
+      credit:
+        text: SoundCloud
+        language: en
+    references:
+    - source: soundcloud-com-dariusazar-tango-150f99efb2f2
+      quote: |-
+        https://i1.sndcdn.com/artworks-GXyx5SQw7KE7IQP3-weaS9g-t500x500.jpg
+      accessed: '2026-10-23'

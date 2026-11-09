@@ -1,0 +1,101 @@
+id: Q2tag3g
+type: release
+statements:
+  name:
+  - value:
+      text: Songs from UR
+      language: en
+    references:
+    - source: sussandeyhim.com-products-songs-from-ur-by-sussan-deyhim-torsten-rasch-2d31e5cff17e
+      quote: |-
+        Songs from UR by Sussan Deyhim & Torsten Rasch
+      accessed: '2026-10-23'
+    rank: preferred
+  performer:
+  - value: Qas989e
+    references:
+    - source: sussandeyhim.com-products-songs-from-ur-by-sussan-deyhim-torsten-rasch-2d31e5cff17e
+      quote: |-
+        Songs from UR by Sussan Deyhim & Torsten Rasch
+      accessed: '2026-10-23'
+  - value: Qbgmctn
+    references:
+    - source: sussandeyhim.com-products-songs-from-ur-by-sussan-deyhim-torsten-rasch-2d31e5cff17e
+      quote: |-
+        Songs from UR by Sussan Deyhim & Torsten Rasch
+      accessed: '2026-10-23'
+  - value: Qas989e
+    references:
+    - source: torstenrasch.bandcamp.com-album-songs-from-ur-1dcd5e84de2c
+      quote: 'all vocals,drones: Sussan Deyhim'
+      accessed: '2026-10-23'
+    qualifiers:
+      role: vocals
+  contributor:
+  - value: Qas989e
+    references:
+    - source: torstenrasch.bandcamp.com-album-songs-from-ur-1dcd5e84de2c
+      quote: |-
+        all music composed by Sussan Deyhim and Torsten Rasch
+      accessed: '2026-10-23'
+    qualifiers:
+      role:
+      - composer
+  - value: Qbgmctn
+    references:
+    - source: torstenrasch.bandcamp.com-album-songs-from-ur-1dcd5e84de2c
+      quote: |-
+        all music composed by Sussan Deyhim and Torsten Rasch
+      accessed: '2026-10-23'
+    qualifiers:
+      role:
+      - composer
+  release date:
+  - value:
+      date: '2026-08-10'
+    references:
+    - source: music.apple.com-us-album-songs-from-ur-6797712538-4ab38685ecda
+      quote: |-
+        2026-08-10
+      accessed: '2026-10-23'
+  - value:
+      date: '2025-09-17'
+    references:
+    - source: torstenrasch.bandcamp.com-album-songs-from-ur-1dcd5e84de2c
+      quote: |-
+        released September 17, 2025
+      accessed: '2026-10-23'
+  listen link:
+  - value: https://open.spotify.com/album/5PXifeVYDWDUMsKPNJXMhZ
+    references:
+    - source: open.spotify.com-album-5pxifevydwdumskpnjxmhz
+      quote: |-
+        SONGS FROM UR
+      accessed: '2026-10-23'
+  - value: https://music.apple.com/us/album/songs-from-ur/6797712538
+    references:
+    - source: music.apple.com-us-album-songs-from-ur-6797712538-4ab38685ecda
+      quote: |-
+        SONGS FROM UR
+      accessed: '2026-10-23'
+  - value: https://torstenrasch.bandcamp.com/album/songs-from-ur
+    references:
+    - source: torstenrasch.bandcamp.com-album-songs-from-ur-1dcd5e84de2c
+      quote: |-
+        by Sussan Deyhim & Torsten Rasch
+      accessed: '2026-10-23'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8a/1f/86/8a1f86a3-0905-f59b-3477-9f43db03a068/artwork.jpg/1200x1200bb.jpg
+    references:
+    - source: music.apple.com-us-album-songs-from-ur-6797712538-4ab38685ecda
+      quote: |-
+        SONGS FROM UR
+      accessed: '2026-10-23'
+    - source: music.apple.com-us-album-songs-from-ur-6797712538-4ab38685ecda
+      quote: |-
+        https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8a/1f/86/8a1f86a3-0905-f59b-3477-9f43db03a068/artwork.jpg/1200x1200bb.jpg
+      accessed: '2026-10-23'
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en

@@ -104,7 +104,8 @@ async function download(url) {
 
 async function describe(bytes, url) {
   const meta = await sharp(bytes, { limitInputPixels: 40000000 }).metadata();
-  const ext = TYPES[meta.format];
+  // sharp names AVIF by its container, HEIF, and the codec, AV1, apart.
+  const ext = meta.format === 'heif' && meta.compression === 'av1' ? 'avif' : TYPES[meta.format];
   if (!ext) throw new Error(`${url}: not a photograph format (${meta.format})`);
   const { width, height } = meta.autoOrient;
   return { sha256: digest(bytes), ext, bytes: bytes.length, width, height };

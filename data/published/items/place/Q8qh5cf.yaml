@@ -1,0 +1,21 @@
+id: Q8qh5cf
+type: place
+statements:
+  name:
+  - value:
+      text: Bandar-e Anzali
+      language: en
+    references:
+    - source: www.dyaloge.com-shahin-najafi
+      quote: He was born in 1980 to a middle-class family in Bandar-e Anzali, Iran, the youngest
+        of eight children.
+      accessed: '2026-11-06'
+  - value:
+      text: بندر انزلی
+      language: fa
+    # Editorial Persian display spelling; source uses the Latin name.
+    references:
+    - source: www.dyaloge.com-shahin-najafi
+      quote: He was born in 1980 to a middle-class family in Bandar-e Anzali, Iran, the youngest
+        of eight children.
+      accessed: '2026-11-06'

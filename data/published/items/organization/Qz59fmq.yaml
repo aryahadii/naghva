@@ -1,0 +1,11 @@
+id: Qz59fmq
+type: organization
+statements:
+  name:
+  - value:
+      text: Sub Rosa Label
+      language: en
+    references:
+    - source: ataebtekar.bandcamp.com-album-ornamentalism-sote-ata-ebtekar-and-the-iranian-orchestra-bb3401aa8b1a
+      quote: '"recordLabel":{"@type":"MusicGroup","name":"Sub Rosa Label","@id":"https://subrosalabel.bandcamp.com","additionalProperty":[{"@type":"PropertyValue","name":"url_suffix","value":"?from=btl"}]}'
+      accessed: '2026-10-19'

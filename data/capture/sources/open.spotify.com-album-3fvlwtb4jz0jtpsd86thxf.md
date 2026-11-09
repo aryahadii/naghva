@@ -29,3 +29,5 @@ about:
 > Mahan Mirarab
 
 Page title, description and release date meta tag, and the credited artists linked on the page, one per quote. Read 2026-11-08.
+
+> Listen to Damahi on Spotify · album · Damahi · 2015 · 14 songs

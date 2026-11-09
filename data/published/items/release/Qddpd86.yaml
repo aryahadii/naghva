@@ -1,0 +1,123 @@
+id: Qddpd86
+type: release
+statements:
+  name:
+  - value:
+      text: Rituals Of The Last Dawn
+      language: en
+    references:
+    - &id001
+      source: karlrecords.bandcamp.com-album-rituals-of-the-last-dawn-22a5417ed254
+      quote: 'Rituals Of The Last Dawn
+
+        by
+
+        SABA ALIZADEH'
+      accessed: '2026-11-06'
+  - value:
+      text: آیین واپسین طلوع
+      language: fa
+    references:
+    - source: karlrecords.bandcamp.com-album-rituals-of-the-last-dawn-22a5417ed254
+      quote: آیین واپسین طلوع
+      accessed: '2026-11-06'
+  performer:
+  - value: Qgbbc6t
+    references:
+    - source: karlrecords.bandcamp.com-album-rituals-of-the-last-dawn-22a5417ed254
+      quote: 'Kamancheh: Saba Alizadeh'
+      accessed: '2026-11-06'
+    qualifiers:
+      role:
+      - kamancheh
+  - value: Qmw52tj
+    references:
+    - source: karlrecords.bandcamp.com-album-rituals-of-the-last-dawn-22a5417ed254
+      quote: 'Guitar, electronics: Pietro Caramelli'
+      accessed: '2026-11-06'
+    qualifiers:
+      role:
+      - guitar
+  - value: Q7c7gnx
+    references:
+    - source: karlrecords.bandcamp.com-album-rituals-of-the-last-dawn-22a5417ed254
+      quote: 'Lap steel guitar, electronics: Liew Niyomkarn'
+      accessed: '2026-11-06'
+    qualifiers:
+      role:
+      - guitar
+  release date:
+  - value:
+      date: '2026-03-20'
+    references:
+    - source: karlrecords.bandcamp.com-album-rituals-of-the-last-dawn-22a5417ed254
+      quote: 'released March 20, 2026
+
+        Credits:
+
+        Mixed at NoiseWorks Studio, September 2025
+
+        Mastering & cut by Helmut Erler,
+
+        mastering.heyrec.org
+
+        Layout & design by kaidoh
+
+        Calligraphy by Mohammad Enshai
+
+        First Ritual:
+
+        Kamancheh: Saba Alizadeh
+
+        Guitar, electronics: Pietro Caramelli
+
+        Recorded at NoiseWorks, July 2025, Leiden
+
+        Last Ritual:
+
+        Kamancheh: Saba Alizadeh
+
+        Lap steel guitar, electronics: Liew Niyomkarn
+
+        Recorded at Liew''s studio, July 2025, Brussels'
+      accessed: '2026-11-06'
+  listen link:
+  - value: https://karlrecords.bandcamp.com/album/rituals-of-the-last-dawn
+    references:
+    - *id001
+  - value: https://music.apple.com/us/album/rituals-of-the-last-dawn/1868417952
+    references:
+    - source: music.apple.com-us-album-rituals-of-the-last-dawn-1868417952-89bc6770dd4f
+      quote: 'Rituals of the Last Dawn
+
+        Saba Alizadeh
+
+        Asia · 2026'
+      accessed: '2026-11-06'
+  - value: https://open.spotify.com/album/1K4BQBUAoIc7MPXwWLiH9C
+    references:
+    - source: open.spotify.com-embed-album-1k4bqbuaoic7mpxwwlih9c-c798956b8037
+      quote: 'Rituals of the Last Dawn
+
+        ·
+
+        Saba Alizadeh'
+      accessed: '2026-11-06'
+  cover art:
+  - value: https://f4.bcbits.com/img/a4115839645_10.jpg
+    references:
+    - source: karlrecords.bandcamp.com-album-rituals-of-the-last-dawn-22a5417ed254
+      quote: https://f4.bcbits.com/img/a4115839645_10.jpg
+      accessed: '2026-11-06'
+    qualifiers:
+      credit:
+        text: karlrecords.bandcamp.com
+        language: en
+  published by:
+  - value: Q7mn6md
+    references:
+    - source: karlrecords.bandcamp.com-album-rituals-of-the-last-dawn-22a5417ed254
+      quote: 'Karlrecords
+
+        Berlin, Germany'
+      accessed: '2026-11-06'

@@ -1,0 +1,16 @@
+id: Qytnqvg
+type: person
+statements:
+  name:
+  - value:
+      text: Gabriel Vinuela
+      language: en
+    references: &id001
+    - source: azamali.bandcamp.com-album-synesthesia-2-fdc87bce645b
+      quote: 'released November 14, 2025 Music written, performed and produced by Azam Ali Guest Musicians: Loga Ramin Torkian- Electric Guitar, Guitar-Viol Gabriel Vinuela- Keyboards Iman Ali Torkian- Cello Mixed by Michael Patterson Mastered by Emily Lazar at The Lodge Album Artwork and artist portraits by Tas Limur'
+      accessed: '2026-11-06'
+  # Persian display name is editorial; the reference establishes the original name.
+  - value:
+      text: گابریل وینوئلا
+      language: fa
+    references: *id001

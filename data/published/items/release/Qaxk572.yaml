@@ -1,0 +1,48 @@
+id: Qaxk572
+type: release
+statements:
+  name:
+    - value: {"text":"Soliloquy","language":"en"}
+      references:
+        - source: "music.apple.com-us-album-soliloquy-278064127-46775558c543"
+          quote: "Soliloquy"
+          accessed: "2026-10-23"
+      rank: preferred
+  release date:
+    - value:
+        date: "2001"
+      references:
+        - source: "music.apple.com-us-album-soliloquy-278064127-46775558c543"
+          quote: "Worldwide · 2001"
+          accessed: "2026-10-23"
+        - source: "open.spotify.com-album-0092zsz1mvg7b4llgkugfs"
+          quote: "2001"
+          accessed: "2026-10-23"
+  performer:
+    - value: "Qas989e"
+      references:
+        - source: "music.apple.com-us-album-soliloquy-278064127-46775558c543"
+          quote: "Album by Sussan Deyhim"
+          accessed: "2026-10-23"
+  listen link:
+    - value: "https://open.spotify.com/album/0092zsZ1Mvg7B4llGkUGfs"
+      references:
+        - source: "open.spotify.com-album-0092zsz1mvg7b4llgkugfs"
+          quote: "Soliloquy - Album by Sussan Deyhim | Spotify"
+          accessed: "2026-10-23"
+    - value: "https://music.apple.com/us/album/soliloquy/278064127"
+      references:
+        - source: "music.apple.com-us-album-soliloquy-278064127-46775558c543"
+          quote: "Soliloquy - Album by Sussan Deyhim - Apple Music"
+          accessed: "2026-10-23"
+  cover art:
+    - value: "https://i.scdn.co/image/ab67616d0000b27392ff71416d9c250037f3857a"
+      references:
+        - source: "open.spotify.com-album-0092zsz1mvg7b4llgkugfs"
+          quote: "Soliloquy - Album by Sussan Deyhim | Spotify"
+          accessed: "2026-10-23"
+        - source: "open.spotify.com-album-0092zsz1mvg7b4llgkugfs"
+          quote: "https://i.scdn.co/image/ab67616d0000b27392ff71416d9c250037f3857a"
+          accessed: "2026-10-23"
+      qualifiers:
+        credit: {"text":"Spotify","language":"en"}

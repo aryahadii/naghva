@@ -1,0 +1,89 @@
+id: Qbsv8c7
+type: release
+statements:
+  name:
+  - value:
+      text: Nadari
+      language: en
+    references:
+    - source: soundcloud.com-moodymoussavi-nad-r-50be12cb84ae
+      quote: |-
+        Nadārī - نداری
+      accessed: '2026-11-06'
+  - value:
+      text: نداری
+      language: fa
+    references:
+    - source: soundcloud.com-moodymoussavi-nad-r-50be12cb84ae
+      quote: |-
+        Nadārī - نداری
+      accessed: '2026-11-06'
+  performer:
+  - value: Qv5ybzr
+    references:
+    - source: music.apple.com-us-album-nadari-feat-saeid-moussavi-single-1581189978-5063bdc40ce5
+      quote: '"byArtist":[{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/moody-moussavi/1556901633","name":"Moody Moussavi"}]'
+      accessed: '2026-11-06'
+  - value: Q42cq53
+    references:
+    - source: soundcloud.com-moodymoussavi-nad-r-50be12cb84ae
+      quote: 'Vocal: Saeid Moussavi'
+      accessed: '2026-11-06'
+    qualifiers:
+      role:
+      - vocals
+  - value: Q42cq53
+    references:
+    - source: open.spotify.com-track-427h3vyyz0e6i2jyoqlpvi-e898f874ae6f
+      quote: |-
+        Moody Moussavi, Saeid Moussavi · Nadari · Song · 2014
+      accessed: '2026-11-06'
+  contributor:
+  - value: Qv5ybzr
+    references:
+    - source: soundcloud.com-moodymoussavi-nad-r-50be12cb84ae
+      quote: 'Composer: Moody Moussavi'
+      accessed: '2026-11-06'
+    qualifiers:
+      role:
+      - composer
+  - value: Qv5ybzr
+    references:
+    - source: music.apple.com-us-song-nadari-feat-saeid-moussavi-1581189979-16d714c96b05
+      quote: '"name":"Moody Moussavi","roleNames":["Songwriter"]'
+      accessed: '2026-11-06'
+    qualifiers:
+      role:
+      - songwriter
+  release date:
+  - value:
+      date: '2014-04-10'
+    references:
+    - source: music.apple.com-us-album-nadari-feat-saeid-moussavi-single-1581189978-5063bdc40ce5
+      quote: '"datePublished":"2014-04-10"'
+      accessed: '2026-11-06'
+  listen link:
+  - value: https://soundcloud.com/moodymoussavi/nad-r
+    references:
+    - source: soundcloud.com-moodymoussavi-nad-r-50be12cb84ae
+      quote: |-
+        Nadārī - نداری
+      accessed: '2026-11-06'
+  - value: https://music.apple.com/us/album/nadari-feat-saeid-moussavi-single/1581189978
+    references:
+    - source: music.apple.com-us-album-nadari-feat-saeid-moussavi-single-1581189978-5063bdc40ce5
+      quote: '"name":"Nadari (feat. Saeid Moussavi) - Single"'
+      accessed: '2026-11-06'
+  - value: https://open.spotify.com/track/427h3vyyZ0e6i2JyoqLpvI
+    references:
+    - source: open.spotify.com-track-427h3vyyz0e6i2jyoqlpvi-e898f874ae6f
+      quote: |-
+        Nadari
+      accessed: '2026-11-06'
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-u0BIP6Bq1jUMWepJ-cvjkRQ-t500x500.jpg
+    references:
+    - source: soundcloud.com-moodymoussavi-nad-r-50be12cb84ae
+      quote: |-
+        https://i1.sndcdn.com/artworks-u0BIP6Bq1jUMWepJ-cvjkRQ-t500x500.jpg
+      accessed: '2026-11-06'

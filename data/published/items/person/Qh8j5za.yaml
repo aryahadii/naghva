@@ -1,0 +1,20 @@
+id: Qh8j5za
+type: person
+statements:
+  name:
+  - value:
+      text: Pedram Afshin
+      language: en
+    references:
+    - &id001
+      source: contemporaryiranian.com-artists-music-radio-tehran-7d00a1e3b218
+      quote: Pedram Afshin (lead guitar, backing vocals)
+      accessed: '2026-10-19'
+  member of:
+  - value: Qq8mnpp
+    qualifiers:
+      role:
+      - guitar
+      - vocals
+    references:
+    - *id001

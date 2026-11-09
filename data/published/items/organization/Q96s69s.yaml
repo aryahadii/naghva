@@ -1,0 +1,22 @@
+id: Q96s69s
+type: organization
+statements:
+  name:
+    - value:
+        text: مركز نشر و پخش جوان
+        language: fa
+      rank: preferred
+      references:
+        - source: t.me-s-javanrecords-17e7f283629c
+          quote: |-
+            صفحه رسمي مركز نشر و پخش جوان
+          accessed: 2026-10-15
+    - value:
+        text: Javan Records
+        language: en
+      rank: preferred
+      references:
+        - source: music.apple.com-us-album-balzan-1607260465-ac1be9fcd7c2
+          quote: |-
+            ℗ 2019 Javan Records
+          accessed: 2026-10-15

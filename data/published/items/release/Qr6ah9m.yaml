@@ -1,0 +1,56 @@
+id: Qr6ah9m
+type: release
+statements:
+  name:
+  - value:
+      text: I May Never See You Again
+      language: en
+    references:
+    - &id001
+      source: music.apple.com-us-album-i-may-never-see-you-again-single-1570525988-54fef4b29eee
+      quote: 'I May Never See You Again - Single
+
+        Saba Alizadeh
+
+        Electronica · 2021'
+      accessed: '2026-11-06'
+  # Editorial Persian display spelling; source uses the original name.
+  - value:
+      text: شاید هرگز تو را نبینم
+      language: fa
+    references:
+    - *id001
+  release date:
+  - value:
+      date: '2021-06-11'
+    references:
+    - source: music.apple.com-us-album-i-may-never-see-you-again-single-1570525988-54fef4b29eee
+      quote: 'June 11, 2021
+
+        1 song, 3 minutes
+
+        ℗ 2021 30M Records'
+      accessed: '2026-11-06'
+  performer:
+  - value: Qgbbc6t
+    references:
+    - *id001
+  listen link:
+  - value: https://music.apple.com/us/album/i-may-never-see-you-again-single/1570525988
+    references:
+    - *id001
+  - value: https://open.spotify.com/album/3hgVFGyO99ZuL8zNIdMqOL
+    references:
+    - source: open.spotify.com-embed-album-3hgvfgyo99zul8znidmqol-304228bd8192
+      quote: 'I May Never See You Again
+
+        ·
+
+        Saba Alizadeh'
+      accessed: '2026-11-06'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/d4/d7/8d/d4d78d2f-3d1f-bd7b-2235-486d8c3d5df1/4270001356741_3000.jpg/632x632bb-60.jpg
+    references:
+    - source: music.apple.com-us-album-i-may-never-see-you-again-single-1570525988-54fef4b29eee
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/d4/d7/8d/d4d78d2f-3d1f-bd7b-2235-486d8c3d5df1/4270001356741_3000.jpg/632x632bb-60.jpg
+      accessed: '2026-11-06'

@@ -20,3 +20,5 @@ Page text, read 2026-10-19.
 Original full photograph URL in the event page image source, alt MajidSalari. Saved page59c92e1dea8e2fe07f5a6d02505a081e9b53687e4024776cc14a76a834f2d707.body; downloaded image1d66d1699a8d93ca9b59ffb270b7147e76644d99374564c2c0a71ec0a4575a9e.body visually inspected as whole1227×818stage photograph. No photographer credit was located; attribution to publishing event page only.
 
 Read 2026-11-06.
+
+> Starting as a guest vocalist for Damahi , he has since performed widely, forming his own ensemble and collaborating with various artists.

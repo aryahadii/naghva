@@ -16,3 +16,5 @@ tier: own
 Page text, read 2026-10-19.
 
 post 435, visible public-preview caption at https://t.me/s/jalboat/435, read 2026-10-19.
+
+> اولین آلبوم رسمی گروه موسیقی « جالبوت » منتشر شد.

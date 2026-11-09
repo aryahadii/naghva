@@ -1,0 +1,82 @@
+id: Qq7e9fw
+type: release
+statements:
+  name:
+  - value:
+      text: Malek Jamshid
+      language: en
+    references:
+    - source: kouroshyaghmaei.bandcamp.com-album-malek-jamshid-7353b030fa4f
+      quote: |-
+        Malek Jamshid | Kourosh Yaghmaei
+      accessed: '2026-10-19'
+  release date:
+  - value:
+      date: '2016-06-10'
+    references:
+    - source: kouroshyaghmaei.bandcamp.com-album-malek-jamshid-7353b030fa4f
+      quote: |-
+        released June 10, 2016
+      accessed: '2026-10-19'
+  performer:
+  - value: Qkza58w
+    references:
+    - source: kouroshyaghmaei.bandcamp.com-album-malek-jamshid-7353b030fa4f
+      quote: |-
+        Malek Jamshid | Kourosh Yaghmaei
+      accessed: '2026-10-19'
+  contributor:
+  - value: Qkza58w
+    qualifiers:
+      role:
+      - producer
+    references:
+    - source: kouroshyaghmaei.bandcamp.com-album-malek-jamshid-7353b030fa4f
+      quote: |-
+        Original sessions produced by Kourosh Yaghmaei.
+      accessed: '2026-10-23'
+  - value: Qm8wg2n
+    qualifiers:
+      role:
+      - producer
+    references:
+    - source: kouroshyaghmaei.bandcamp.com-album-malek-jamshid-7353b030fa4f
+      quote: |-
+        This anthology produced by Egon.
+      accessed: '2026-10-23'
+  listen link:
+  - value: https://kouroshyaghmaei.bandcamp.com/album/malek-jamshid
+    references:
+    - source: kouroshyaghmaei.bandcamp.com-album-malek-jamshid-7353b030fa4f
+      quote: |-
+        Malek Jamshid | Kourosh Yaghmaei
+      accessed: '2026-10-19'
+  - value: https://music.apple.com/us/album/malek-jamshid/1680624984
+    references:
+    - source: music.apple.com-us-album-malek-jamshid-1680624984-b69739763603
+      quote: |-
+        Malek Jamshid Kourosh Yaghmaei Rock · 2016
+      accessed: '2026-10-23'
+  - value: https://open.spotify.com/album/46Q6cuLDx5GBuxmBu9zfUg
+    references:
+    - source: open.spotify.com-album-46q6culdx5gbuxmbu9zfug-5c4adf457189
+      quote: |-
+        Listen to Malek Jamshid - Album by Kourosh Yaghmaei
+      accessed: '2026-10-23'
+  cover art:
+  - value: https://f4.bcbits.com/img/a1234678621_5.jpg
+    qualifiers:
+      credit:
+        text: Now-Again Records
+        language: en
+    references:
+    - source: kouroshyaghmaei.bandcamp.com-album-malek-jamshid-7353b030fa4f
+      quote: |-
+        Malek Jamshid | Kourosh Yaghmaei
+      accessed: '2026-10-19'
+  published by:
+  - value: Q66ewzb
+    references:
+    - source: kouroshyaghmaei.bandcamp.com-album-malek-jamshid-7353b030fa4f
+      quote: '"recordLabel":{"@type":"MusicGroup","name":"Now-Again Records","@id":"https://nowagainrecords.bandcamp.com","additionalProperty":[{"@type":"PropertyValue","name":"url_suffix","value":"?from=btl"}]}'
+      accessed: '2026-10-19'

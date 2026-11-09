@@ -20,7 +20,7 @@ for (const [lang, origin] of [['en', site], ['fa', 'https://naqva.com']] as cons
     await page.locator('astro-island:not([ssr])').waitFor();
     await page.getByRole('combobox').fill('private-search');
     await expect.poll(() => events.filter((e) => e.event === 'search_used').length).toBe(1);
-    await page.getByRole('combobox').fill('sanam');
+    await page.getByRole('combobox').fill('sanam maroufkhani');
     await page.getByRole('combobox').press('Escape');
     await page.locator('[data-release]').first().click();
     const listen = page.locator('#release-dialog [data-listen-platform]').first();
@@ -134,7 +134,7 @@ for (const scenario of ['missing configuration', 'preview', 'preview canonical',
     const origin = scenario === 'preview' ? 'https://preview.example' : scenario === 'localhost' ? 'http://127.0.0.1:4322' : site;
     await page.goto(`${origin}/en/`);
     await page.locator('astro-island:not([ssr])').waitFor();
-    await page.getByRole('combobox').fill('sanam');
+    await page.getByRole('combobox').fill('sanam maroufkhani');
     await expect(page.locator('.search-panel a').first()).toBeVisible();
     await page.waitForTimeout(1000);
     expect(analyticsRequests).toEqual([]);
@@ -148,7 +148,7 @@ test('blocked ingestion does not interrupt searching or navigation', async ({ pa
   await page.goto(`${site}/en/`);
   await expect.poll(() => blocked).toBeGreaterThan(0);
   await page.locator('astro-island:not([ssr])').waitFor();
-  await page.getByRole('combobox').fill('sanam');
+  await page.getByRole('combobox').fill('sanam maroufkhani');
   await page.locator('.search-panel a').first().click();
   await expect(page).toHaveURL(`${site}/en/sanam-maroufkhani-a84/`);
   await expect(page.locator('h1')).toContainText('Sanam');

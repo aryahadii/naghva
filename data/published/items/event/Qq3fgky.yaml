@@ -1,0 +1,23 @@
+id: Qq3fgky
+type: event
+statements:
+  name:
+  - value:
+      text: Pallett Live in Düsseldorf
+      language: en
+    references:
+    - &id001
+      source: volek.events-event-pallett-live-in-dusseldorf-2025
+      quote: Pallett Live in Düsseldorf
+      accessed: '2026-10-19'
+  event date:
+  - value:
+      date: '2025-11-01'
+    references:
+    - source: pallettmusic.com-7d0b6e14b735
+      quote: Saturday, November 01, 2025
+      accessed: '2026-10-19'
+  performer:
+  - value: Qq5328q
+    references:
+    - *id001

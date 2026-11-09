@@ -86,7 +86,7 @@ test.describe('mobile search', () => {
   test('a touch on a search result opens the artist', async ({ page }) => {
     await page.goto('/en/');
     await page.locator('astro-island:not([ssr])').waitFor();
-    await page.getByRole('combobox').fill('sanam');
+    await page.getByRole('combobox').fill('sanam maroufkhani');
     const result = page.locator('.search-panel a').first();
     await expect(result).toBeVisible();
     await result.tap();

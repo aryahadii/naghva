@@ -1,0 +1,16 @@
+id: Q42cq53
+type: person
+statements:
+  name:
+  - value:
+      text: Saeid Moussavi
+      language: en
+    references: &id001
+    - source: soundcloud.com-moodymoussavi-nad-r-50be12cb84ae
+      quote: 'Vocal: Saeid Moussavi'
+      accessed: '2026-11-06'
+  - value:
+      text: سعید موسوی
+      language: fa
+    # Editorial Persian display spelling; source uses the Latin name.
+    references: *id001

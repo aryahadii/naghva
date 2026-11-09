@@ -1,0 +1,46 @@
+id: Qcnervk
+type: release
+statements:
+  name:
+  - value:
+      text: Pop Emergency English
+      language: en
+    references:
+    - &id001
+      source: music.apple.com-us-album-pop-emergency-english-single-479082181-1ba8be519c43
+      quote: Pop Emergency English - Single by 127 on Apple Music
+      accessed: '2026-10-23'
+  release date:
+  - value:
+      date: '2011-11-11'
+    references:
+    - source: music.apple.com-us-album-pop-emergency-english-single-479082181-1ba8be519c43
+      quote: '2011-11-11'
+      accessed: '2026-10-23'
+    - source: open.spotify.com-album-3lkc0gagrnlb4k1sfyoj4j-d1174b25b87d
+      quote: '2011-11-11'
+      accessed: '2026-10-23'
+  performer:
+  - value: Q2n5y3k
+    references:
+    - *id001
+  listen link:
+  - value: https://music.apple.com/us/album/pop-emergency-english-single/479082181
+    references:
+    - *id001
+  - value: https://open.spotify.com/album/3LkC0gAGrNlb4k1SFYOj4J
+    references:
+    - source: open.spotify.com-album-3lkc0gagrnlb4k1sfyoj4j-d1174b25b87d
+      quote: 127 · single · 2011 · 3 songs
+      accessed: '2026-10-23'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music/e7/15/d9/mzi.vshgbwir.jpg/600x600bf-60.jpg
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-pop-emergency-english-single-479082181-1ba8be519c43
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music/e7/15/d9/mzi.vshgbwir.jpg/600x600bf-60.jpg
+      accessed: '2026-10-23'
+    - *id001

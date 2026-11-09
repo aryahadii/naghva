@@ -1,0 +1,11 @@
+id: Qnvss7a
+type: organization
+statements:
+  name:
+  - value:
+      text: COP International
+      language: en
+    references:
+    - source: azamali.bandcamp.com-album-synesthesia-2-fdc87bce645b
+      quote: '"recordLabel":{"@type":"MusicGroup","name":"COP International","@id":"https://copinternational.bandcamp.com","additionalProperty":[{"@type":"PropertyValue","name":"url_suffix","value":"?from=btl"}]}'
+      accessed: '2026-10-19'

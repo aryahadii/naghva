@@ -1,0 +1,91 @@
+id: Q8rsrxq
+type: release
+statements:
+  name:
+  - value:
+      text: انسان
+      language: fa
+    references:
+    - source: open.spotify.com-album-6y2479xadfd1wlmdtj8jd3-eb52993d3f2d
+      quote: |-
+        Listen to Human - Single by Sevdaliza | Spotify
+      accessed: '2026-11-06'
+  - value:
+      text: Human
+      language: en
+    references:
+    - source: open.spotify.com-album-6y2479xadfd1wlmdtj8jd3-eb52993d3f2d
+      quote: |-
+        Listen to Human - Single by Sevdaliza | Spotify
+      accessed: '2026-11-06'
+  release date:
+  - value:
+      date: '2016'
+    references:
+    - source: soundcloud.com-sevdaliza-human-1c23b31e8911
+      quote: '"release_date":"2016-11-17T00:00:00Z"'
+      accessed: '2026-11-06'
+  performer:
+  - value: Qf36fnd
+    references:
+    - source: open.spotify.com-album-6y2479xadfd1wlmdtj8jd3-eb52993d3f2d
+      quote: |-
+        Listen to Human - Single by Sevdaliza | Spotify
+      accessed: '2026-11-06'
+  contributor:
+  - value: Qej3p6c
+    references:
+    - source: music.apple.com-us-song-human-1698689968-55db8e0371df
+      quote: |-
+        Reynard Bargmann","roleNames":["Songwriter"]
+      accessed: '2026-11-06'
+      locator: Human — credits
+    qualifiers:
+      role:
+      - songwriter
+  - value: Qf36fnd
+    references:
+    - source: music.apple.com-us-song-human-1698689968-55db8e0371df
+      quote: |-
+        Sevda Alizadeh","roleNames":["Songwriter"]
+      accessed: '2026-11-06'
+      locator: Human — 2016 single credits
+    qualifiers:
+      role:
+      - songwriter
+  - value: Qf36fnd
+    references:
+    - source: music.apple.com-us-song-human-1698689968-55db8e0371df
+      quote: |-
+        Sevdaliza","roleNames":["Producer"]
+      accessed: '2026-11-06'
+      locator: Human — 2016 single credits
+    qualifiers:
+      role:
+      - producer
+  listen link:
+  - value: https://music.apple.com/us/song/human/1698689968
+    references:
+    - source: music.apple.com-us-song-human-1698689968-55db8e0371df
+      quote: |-
+        ‎Human - Song with Lyrics by Sevdaliza - Apple Music
+      accessed: '2026-11-06'
+  - value: https://open.spotify.com/album/6Y2479Xadfd1wlmDTj8jD3
+    references:
+    - source: open.spotify.com-album-6y2479xadfd1wlmdtj8jd3-eb52993d3f2d
+      quote: |-
+        Listen to Human - Single by Sevdaliza | Spotify
+      accessed: '2026-11-06'
+  - value: https://soundcloud.com/sevdaliza/human
+    references:
+    - source: soundcloud.com-sevdaliza-human-1c23b31e8911
+      quote: |-
+        Stream Human by SEVDALIZA | Listen online for free on SoundCloud
+      accessed: '2026-11-06'
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d0000b273d747371eaade63bf350c4bae
+    references:
+    - source: open.spotify.com-album-6y2479xadfd1wlmdtj8jd3-eb52993d3f2d
+      quote: |-
+        Listen to Human - Single by Sevdaliza | Spotify
+      accessed: '2026-11-06'

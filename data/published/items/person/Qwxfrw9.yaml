@@ -1,0 +1,16 @@
+id: Qwxfrw9
+type: person
+statements:
+  name:
+  - value:
+      text: Tyler Bates
+      language: en
+    references: &id001
+    - source: www.allmusic.com-album-elysium-for-the-brave-mw0000572497-d9e7d40f45dc
+      quote: 'Azam Ali Arranger, Composer, Daff, Frame Drum, Hammer Dulcimer, Mixing, Primary Artist, Producer, Vocals, Zills Tyler Bates Bass, Composer, Guitar (Acoustic), Guitar (Electric), Keyboards Chris Bellman Mastering Trey Gunn Composer, Guitar Pat Mastelotto Drums, Tom-Tom Satnam Ramgotra Tabla Carmen Rizzo Composer, Keyboards, Mixing, Producer, Programming, Synthesizer Jeff Rona Composer, Producer Omid Torbatian Ney Loga Ramin Torkian Composer, Engineer, Guitar, Guitar (Electric), Violin Austin Young Photography '
+      accessed: '2026-11-06'
+  # Persian display name is editorial; the reference establishes the original name.
+  - value:
+      text: تایلر بیتس
+      language: fa
+    references: *id001

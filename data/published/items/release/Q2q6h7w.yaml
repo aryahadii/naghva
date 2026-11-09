@@ -1,0 +1,72 @@
+id: Q2q6h7w
+type: release
+statements:
+  name:
+  - value:
+      text: nhA
+      language: en
+    references:
+    - source: soheilshayesteh.bandcamp.com-album-nha-85e7d9008a96
+      quote: |-
+        nhA by Soheil Shayesteh
+      accessed: '2026-10-19'
+  performer:
+  - value: Q2j5gwg
+    qualifiers:
+      role: kamancheh
+    references:
+    - source: soheilshayesteh.bandcamp.com-album-nha-85e7d9008a96
+      quote: 'Kamancheh, violin and live electronics: Soheil Shayesteh'
+      accessed: '2026-10-19'
+  - value: Q2j5gwg
+    qualifiers:
+      role: violin
+    references:
+    - source: soheilshayesteh.bandcamp.com-album-nha-85e7d9008a96
+      quote: 'Kamancheh, violin and live electronics: Soheil Shayesteh'
+      accessed: '2026-10-19'
+  contributor:
+  - value: Q2j5gwg
+    qualifiers:
+      role:
+      - composer
+    references:
+    - source: soheilshayesteh.bandcamp.com-album-nha-85e7d9008a96
+      quote: |-
+        Composed, recorded and mixed by Soheil Shayesteh
+      accessed: '2026-10-19'
+  release date:
+  - value:
+      date: '2023-03-01'
+    references:
+    - source: soheilshayesteh.bandcamp.com-album-nha-85e7d9008a96
+      quote: |-
+        released March 1, 2023
+      accessed: '2026-10-19'
+  listen link:
+  - value: https://soheilshayesteh.bandcamp.com/album/nha
+    references:
+    - source: soheilshayesteh.bandcamp.com-album-nha-85e7d9008a96
+      quote: |-
+        nhA by Soheil Shayesteh
+      accessed: '2026-10-19'
+  cover art:
+  - value: https://f4.bcbits.com/img/a4045456517_5.jpg
+    qualifiers:
+      credit:
+        text: Rashin Teimouri
+        language: en
+    references:
+    - source: soheilshayesteh.bandcamp.com-album-nha-85e7d9008a96
+      quote: |-
+        nhA by Soheil Shayesteh
+      accessed: '2026-10-19'
+    - source: soheilshayesteh.bandcamp.com-album-nha-85e7d9008a96
+      quote: 'Artwork: Rashin Teimouri'
+      accessed: '2026-10-19'
+  published by:
+  - value: Qgz8y9m
+    references:
+    - source: soheilshayesteh.bandcamp.com-album-nha-85e7d9008a96
+      quote: '"recordLabel":{"@type":"MusicGroup","name":"Zabte Sote","@id":"https://zabtesote.bandcamp.com","additionalProperty":[{"@type":"PropertyValue","name":"url_suffix","value":"?from=btl"}]}'
+      accessed: '2026-10-19'

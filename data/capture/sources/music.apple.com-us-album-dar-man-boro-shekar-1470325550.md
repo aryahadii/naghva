@@ -29,3 +29,7 @@ Second, seventh and thirteenth tracks of the album's track list, read
 
 The album's cover is the page's preview image:
 https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/06/66/55/066655fa-5be9-0f6f-1eb6-54c3e4e4e1e4/194171361838.jpg/1200x630wp-60.jpg
+
+> Listen to Dar Man Boro Shekar by Damahi on Apple Music. 2019. 13 Songs. Duration: 1 hour 2 minutes.
+
+> "datePublished":"2019-06-10"

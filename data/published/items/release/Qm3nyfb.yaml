@@ -1,0 +1,43 @@
+id: Qm3nyfb
+type: release
+statements:
+  name:
+  - value:
+      text: Niyaz
+      language: en
+    references:
+    - source: music.apple.com-us-album-niyaz-215797152
+      quote: Niyaz by Niyaz on Apple Music
+      accessed: '2026-10-19'
+  performer:
+  - value: Q9bb4a8
+    references:
+    - source: music.apple.com-us-album-niyaz-215797152
+      quote: Niyaz by Niyaz on Apple Music
+      accessed: '2026-10-19'
+  release date:
+  - value:
+      date: '2005-04-19'
+    references:
+    - source: music.apple.com-us-album-niyaz-215797152
+      quote: '"datePublished":"2005-04-19"'
+      accessed: '2026-10-19'
+  listen link:
+  - value: https://music.apple.com/us/album/niyaz/215797152
+    references:
+    - source: music.apple.com-us-album-niyaz-215797152
+      quote: Niyaz by Niyaz on Apple Music
+      accessed: '2026-10-19'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/89/a7/da/89a7dae5-c80d-6bf7-2c00-8292559d45fb/657036111028.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-niyaz-215797152
+      quote: Niyaz by Niyaz on Apple Music
+      accessed: '2026-10-19'
+    - source: music.apple.com-us-album-niyaz-215797152
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/89/a7/da/89a7dae5-c80d-6bf7-2c00-8292559d45fb/657036111028.jpg/1200x630bb.jpg
+      accessed: '2026-10-19'
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en
