@@ -1,0 +1,48 @@
+id: Q3cs6jt
+type: person
+statements:
+  name:
+  - value:
+      text: نیما رمضان
+      language: fa
+    references:
+    - source: t.me-s-balzan_officiall-75-1753501a03e4
+      quote: |-
+        Music: نیما رمضان، امیر بال‌افشان
+      accessed: 2026-10-18
+  - value:
+      text: Nima Ramezan
+      language: en
+    references:
+    - source: t.me-s-balzan_officiall-14-bf2db8fae766
+      quote: |-
+        music: Nima Ramezan, Amir Balafshan
+      accessed: 2026-10-18
+  member of:
+  - value: Q2t39td
+    qualifiers:
+      role:
+      - guitar
+      - composer
+    references:
+    - source: beehy.pe-balzan-booye-kohneye-mahtab-iran-7f5af7037e23
+      quote: |-
+        Bâlzan is an indie electro-rock duo formed by singer Amir Balafshan and Nima Ramezan as songwriter, composer and guitar player.
+      accessed: 2026-10-15
+  - value: Qec3sv6
+    references:
+    - source: www.honaronline.ir-d8-a8-d8-ae-d8-b4--d9-85-d9-88-d8-b3-db-8c-d9-82-db-8c-5-135306--d8-ac-d8-b1-d9-82-d9-87--d-66d84681229f
+      quote: |-
+        کامنت یا کامنت بند گروه موسیقی آلترناتیو راک ایرانی است که سال 86 توسط کیان پورتراب و نیما رمضان در تهران شکل گرفت. بعدتر با اضافه شدن سایر اعضا تعدادی از آهنگ‌های ساختهٔ کیان ضبط و سرانجام سال 88 آلبوم اول گروه با عنوان "میرم بالاتر" منتشر شد. کیان پورتراب (خواننده و ترانه سرا)، نیما رمضان (گیتار الکتریک)، بردیا امیری (درامز)، اشکان آبرون (کیبورد) و آرین کشیشی (گیتار بیس) اعضای گروه کامنت هستند.
+      accessed: '2026-10-20'
+    qualifiers:
+      role:
+      - guitar
+  image:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/01/35/4a/01354a6a-defe-d1cc-5481-a4fba56e7f05/ami-identity-5f2be11e47bc13dee2b7554297438520-2025-01-05T16-29-48.386Z_cropped.png/486x486bb.png
+    references:
+    - source: music-apple-com-us-artist-nima-ramezan-1509793623-5902a41524ea
+      quote: |-
+        Nima Ramezan on Apple Music
+        https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/01/35/4a/01354a6a-defe-d1cc-5481-a4fba56e7f05/ami-identity-5f2be11e47bc13dee2b7554297438520-2025-01-05T16-29-48.386Z_cropped.png/486x486bb.png
+      accessed: '2026-10-19'

@@ -1,0 +1,108 @@
+id: Qrnwptr
+type: release
+statements:
+  name:
+  - value:
+      text: Beshno
+      language: en
+    references:
+    - source: www.bahramnouraei.com-discography-d0cf68c6ab5a
+      quote: 'Single / March 2021 Beshno بشنو Music Producer: Peymandegar Mix & Master: Ashkan Mousavi Cover Artwork: Setareh Malekzadeh Listen on Spotify Listen on SoundCloud Listen on Apple Music Listen on YouTube Music Listen on Bandcamp'
+      accessed: '2026-10-23'
+  - value:
+      text: بشنو
+      language: fa
+    references:
+    - source: bahramnouraei.com-fa-discography-52c0e95c2db5
+      quote: |-
+        تک‌آهنگ / اسفند ۱۳۹۹
+        بشنو
+        Beshno
+        آهنگساز: پیماندگار
+        میکس و مسترینگ: اشکان موسوی
+        طراح گرافیک: ستاره ملک‌زاده
+      accessed: '2026-10-23'
+  performer:
+  - value: Qk4wt3e
+    references:
+    - source: www.bahramnouraei.com-discography-d0cf68c6ab5a
+      quote: 'Single / March 2021 Beshno بشنو Music Producer: Peymandegar Mix & Master: Ashkan Mousavi Cover Artwork: Setareh Malekzadeh Listen on Spotify Listen on SoundCloud Listen on Apple Music Listen on YouTube Music Listen on Bandcamp'
+      accessed: '2026-10-23'
+  - value: Qz43qyp
+    references:
+    - source: music.apple.com-album-single-1557873094-d9bbe689c400
+      quote: |-
+        Beshno (feat. Peymandegar) - Single by Bahram on Apple Music
+      accessed: '2026-10-23'
+  contributor:
+  - value: Qz43qyp
+    qualifiers:
+      role:
+      - producer
+    references:
+    - source: www.bahramnouraei.com-discography-d0cf68c6ab5a
+      quote: 'Music Producer: Peymandegar'
+      accessed: '2026-10-23'
+  release date:
+  - value:
+      date: '2021-03-22'
+    references:
+    - source: peeleh.bandcamp.com-track-beshno-dca4185ea8a0
+      quote: '"release_date":"22 Mar 2021 00:00:00 GMT'
+      accessed: '2026-10-23'
+    - source: www.bahramnouraei.com-discography-d0cf68c6ab5a
+      quote: 'Single / March 2021 Beshno بشنو Music Producer: Peymandegar Mix & Master: Ashkan Mousavi Cover Artwork: Setareh Malekzadeh Listen on Spotify Listen on SoundCloud Listen on Apple Music Listen on YouTube Music Listen on Bandcamp'
+      accessed: '2026-10-23'
+  - value:
+      date: 1399-12
+      calendar: jalali
+    references:
+    - source: bahramnouraei.com-fa-discography-52c0e95c2db5
+      quote: |-
+        تک‌آهنگ / اسفند ۱۳۹۹
+      accessed: '2026-10-23'
+  cover art:
+  - value: https://bahramnouraei.com/assets/art-beshno.webp
+    qualifiers:
+      credit:
+        text: Setareh Malekzadeh
+        language: en
+    references:
+    - source: www.bahramnouraei.com-discography-d0cf68c6ab5a
+      quote: |-
+        https://bahramnouraei.com/assets/art-beshno.webp
+      accessed: '2026-10-23'
+    - source: www.bahramnouraei.com-discography-d0cf68c6ab5a
+      quote: 'Single / March 2021 Beshno بشنو Music Producer: Peymandegar Mix & Master: Ashkan Mousavi Cover Artwork: Setareh Malekzadeh Listen on Spotify Listen on SoundCloud Listen on Apple Music Listen on YouTube Music Listen on Bandcamp'
+      accessed: '2026-10-23'
+  listen link:
+  - value: https://open.spotify.com/track/5ffYiorQcuupGEepAYen8E
+    references:
+    - source: open.spotify.com-track-5ffyiorqcuupgeepayen8e-613fecf829f3
+      quote: |-
+        Beshno
+      accessed: '2026-10-23'
+  - value: https://soundcloud.com/bahramnouraei/bhbeghmn2d9e
+    references:
+    - source: soundcloud.com-bahramnouraei-bhbeghmn2d9e-11d8facbbdb4
+      quote: |-
+        Beshno (feat. Peymandegar)
+      accessed: '2026-10-23'
+  - value: https://music.apple.com/album/%D8%A8%D8%B4%D9%86%D9%88-single/1557873094
+    references:
+    - source: music.apple.com-album-single-1557873094-d9bbe689c400
+      quote: |-
+        Beshno (feat. Peymandegar) - Single by Bahram on Apple Music
+      accessed: '2026-10-23'
+  - value: https://music.youtube.com/playlist?list=OLAK5uy_kkWLxHmcW4ZHAEeTaiDYK3CpBluVyQCNA
+    references:
+    - source: music.youtube.com-playlist-e73e3094e956
+      quote: |-
+        Beshno
+      accessed: '2026-10-23'
+  - value: https://peeleh.bandcamp.com/track/beshno
+    references:
+    - source: peeleh.bandcamp.com-track-beshno-dca4185ea8a0
+      quote: |-
+        BESHNO, by Bahram
+      accessed: '2026-10-23'

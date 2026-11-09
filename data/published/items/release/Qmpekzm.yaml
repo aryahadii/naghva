@@ -1,0 +1,151 @@
+id: Qmpekzm
+type: release
+statements:
+  name:
+  - value:
+      text: Spree
+      language: en
+    references:
+    - source: music.apple.com-us-album-spree-1578072199-b597e093d110
+      quote: '"name":"Spree (feat. Reza Parvizzadeh, Arash Saeedi & Hamed Habibpour)"'
+      accessed: '2026-11-06'
+  - value:
+      text: سرخوش
+      language: fa
+    references:
+    - source: khoobo.com-wp-content-uploads-2022-06-sarkhosh_4.jpg-39ad59e18199
+      quote: |-
+        سرخوش
+        میلاد درخشانی
+        SPREE
+        Milad Derakhshani
+      accessed: '2026-11-06'
+  performer:
+  - value: Qnjntqs
+    references:
+    - source: music.apple.com-us-album-spree-1578072199-b597e093d110
+      quote: '"byArtist":[{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/milad-derakhshani/324842865","name":"Milad Derakhshani"}]'
+      accessed: '2026-11-06'
+  - value: Qnjntqs
+    references:
+    - source: khoobo.com-wp-content-uploads-2022-06-sarkhosh_5.jpg-fc7110610448
+      quote: |-
+        میلاد درخشانی : تار
+        Milad Derakhshani: Tar
+        رضا پرویز زاده : کمانچه
+        Reza Parvizzadeh: Kamanche
+        آرش سعیدیان : عود
+        Arash Saeediyan: Ud
+        حامد حبیب پور : تمبک
+        Hamed Habibpour: Tombak
+      accessed: '2026-11-06'
+    qualifiers:
+      role: tar
+  - value: Qgnbzw6
+    references:
+    - source: khoobo.com-wp-content-uploads-2022-06-sarkhosh_5.jpg-fc7110610448
+      quote: |-
+        میلاد درخشانی : تار
+        Milad Derakhshani: Tar
+        رضا پرویز زاده : کمانچه
+        Reza Parvizzadeh: Kamanche
+        آرش سعیدیان : عود
+        Arash Saeediyan: Ud
+        حامد حبیب پور : تمبک
+        Hamed Habibpour: Tombak
+      accessed: '2026-11-06'
+    qualifiers:
+      role: kamancheh
+  - value: Q99p8sy
+    references:
+    - source: khoobo.com-wp-content-uploads-2022-06-sarkhosh_5.jpg-fc7110610448
+      quote: |-
+        میلاد درخشانی : تار
+        Milad Derakhshani: Tar
+        رضا پرویز زاده : کمانچه
+        Reza Parvizzadeh: Kamanche
+        آرش سعیدیان : عود
+        Arash Saeediyan: Ud
+        حامد حبیب پور : تمبک
+        Hamed Habibpour: Tombak
+      accessed: '2026-11-06'
+    qualifiers:
+      role: oud
+  - value: Qqcw99a
+    references:
+    - source: khoobo.com-wp-content-uploads-2022-06-sarkhosh_5.jpg-fc7110610448
+      quote: |-
+        میلاد درخشانی : تار
+        Milad Derakhshani: Tar
+        رضا پرویز زاده : کمانچه
+        Reza Parvizzadeh: Kamanche
+        آرش سعیدیان : عود
+        Arash Saeediyan: Ud
+        حامد حبیب پور : تمبک
+        Hamed Habibpour: Tombak
+      accessed: '2026-11-06'
+    qualifiers:
+      role: tombak
+  contributor:
+  - value: Qnjntqs
+    references:
+    - source: music.apple.com-us-song-cedar-feat-reza-parvizzadeh-arash-saeedi-hamed-habibpour-1578072206-177872d9e755
+      quote: '"name":"Milad Derakhshani","roleNames":["Songwriter"]'
+      accessed: '2026-11-06'
+    qualifiers:
+      role:
+      - songwriter
+  listen link:
+  - value: https://music.apple.com/us/album/spree/1578072199
+    references:
+    - source: music.apple.com-us-album-spree-1578072199-b597e093d110
+      quote: '"name":"Spree (feat. Reza Parvizzadeh, Arash Saeedi & Hamed Habibpour)"'
+      accessed: '2026-11-06'
+    - source: music.apple.com-us-album-spree-1578072199-b597e093d110
+      quote: '"byArtist":[{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/milad-derakhshani/324842865","name":"Milad Derakhshani"}]'
+      accessed: '2026-11-06'
+  - value: https://open.spotify.com/album/1xPlznCUNVk8ZEen02PaFe
+    references:
+    - source: open.spotify.com-album-1xplzncunvk8zeen02pafe-a302a2627078
+      quote: |-
+        Listen to Spree - Album by Milad Derakhshani | Spotify
+      accessed: '2026-11-06'
+  - value: https://soundcloud.com/miladderakhshani/sets/spree-2
+    references:
+    - source: soundcloud.com-miladderakhshani-sets-spree-2-fb5faae625eb
+      quote: |-
+        Stream Milad Derakhshani | Listen to Spree playlist online for free on SoundCloud
+      accessed: '2026-11-06'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/12/32/1f/12321f50-0ef4-41ee-000a-3eea089d723a/196006954581.jpg/1200x1200bb.jpg
+    references:
+    - source: is1-ssl.mzstatic.com-image-thumb-music115-v4-12-32-1f-12321f50-0ef4-41ee-000a-3eea089d723a-196006954581.jpg-1200x1200bb.jpg-65614dbe48ae
+      quote: |-
+        سرخوش
+        میلاد درخشانی
+        SPREE
+        Milad Derakhshani
+      accessed: '2026-11-06'
+    - source: khoobo.com-wp-content-uploads-2022-06-sarkhosh_5.jpg-fc7110610448
+      quote: |-
+        Graphic Designer / Mohsen Daeinabi
+      accessed: '2026-11-06'
+    qualifiers:
+      credit:
+        text: 'Cover design: Mohsen Daeinabi'
+        language: en
+  release date:
+  - value:
+      date: '2010'
+    references:
+    - source: www.womex.com-virtual-rhe_records_rahgozar-milad_derakhshani-spree-811b074980e4
+      quote: |-
+        release year:2010
+      accessed: '2026-11-06'
+  published by:
+  - value: Qsbwz9d
+    references:
+    - source: www.womex.com-virtual-rhe_records_rahgozar-milad_derakhshani-spree-811b074980e4
+      quote: |-
+        publisher:RHE Records (Rahgozar Haft Eghlim)
+      accessed: '2026-11-06'

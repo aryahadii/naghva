@@ -1,0 +1,57 @@
+id: Qph3vfr
+type: release
+statements:
+  name:
+  - value:
+      text: Naked Socks
+      language: en
+    references:
+    - source: music.apple.com-us-album-naked-socks-532815567-e784f2883ac1
+      quote: 'Listen to Naked Socks by Bomrani on Apple Music. 2012. 12 Songs. Duration: 58 minutes.'
+      accessed: '2026-11-06'
+  - value:
+      # Editorial Persian display spelling; source uses the Latin name.
+      text: جوراب‌های لخت
+      language: fa
+    references:
+    - source: music.apple.com-us-album-naked-socks-532815567-e784f2883ac1
+      quote: 'Listen to Naked Socks by Bomrani on Apple Music. 2012. 12 Songs. Duration: 58 minutes.'
+      accessed: '2026-11-06'
+  performer:
+  - value: Q9mgdq3
+    references:
+    - source: music.apple.com-us-album-naked-socks-532815567-e784f2883ac1
+      quote: 'Listen to Naked Socks by Bomrani on Apple Music. 2012. 12 Songs. Duration: 58 minutes.'
+      accessed: '2026-11-06'
+  release date:
+  - value:
+      date: '2012-05-15'
+    references:
+    - source: music.apple.com-us-album-naked-socks-532815567-e784f2883ac1
+      quote: '2012-05-15'
+      accessed: '2026-11-06'
+      locator: Album datePublished
+  listen link:
+  - value: https://music.apple.com/us/album/naked-socks/532815567
+    references:
+    - source: music.apple.com-us-album-naked-socks-532815567-e784f2883ac1
+      quote: 'Listen to Naked Socks by Bomrani on Apple Music. 2012. 12 Songs. Duration: 58 minutes.'
+      accessed: '2026-11-06'
+  - value: https://open.spotify.com/album/2nD8uZ7sdmgzwwm7MQAr1O
+    references:
+    - source: open.spotify.com-album-2nd8uz7sdmgzwwm7mqar1o
+      quote: Listen to Naked Socks - Album by Bomrani | Spotify
+      accessed: '2026-11-06'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music/v4/d8/11/92/d811923c-e58a-0241-721c-b8a028852293/885767056893.jpg/600x600bf-60.jpg
+    references:
+    - source: music.apple.com-us-album-naked-socks-532815567-e784f2883ac1
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music/v4/d8/11/92/d811923c-e58a-0241-721c-b8a028852293/885767056893.jpg/600x600bf-60.jpg
+      accessed: '2026-11-06'
+    - source: music.apple.com-us-album-naked-socks-532815567-e784f2883ac1
+      quote: 'Listen to Naked Socks by Bomrani on Apple Music. 2012. 12 Songs. Duration: 58 minutes.'
+      accessed: '2026-11-06'
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en

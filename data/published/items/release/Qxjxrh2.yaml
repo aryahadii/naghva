@@ -1,0 +1,53 @@
+id: Qxjxrh2
+type: release
+statements:
+  name:
+  - value:
+      text: In Majara (feat. Makan Ashgvari)
+      language: en
+    references:
+    - &id001
+      source: music.apple.com-us-album-in-majara-1546946316
+      quote: 'Listen to In Majara (feat. Makan Ashgvari) - Single by Pallett on Apple Music. 2020. 1 Song. Duration: 5 minutes.'
+      accessed: '2026-11-06'
+  - value:
+      text: این ماجرا
+      language: fa
+    references:
+    - source: music.apple.com-us-album-in-majara-1546946316
+      quote: این ماجرا • پالت و ماکان اشگواری
+      accessed: '2026-11-06'
+  - value:
+      text: The Story
+      language: en
+    references:
+    - source: music.apple.com-us-album-in-majara-1546946316
+      quote: THE STORY • PALLETT FEAT. MAKAN ASHGVARI
+      accessed: '2026-11-06'
+  release date:
+  - value:
+      date: '2020-03-13'
+    references:
+    - source: music.apple.com-us-album-in-majara-1546946316
+      quote: March 13, 2020
+      accessed: '2026-11-06'
+  performer:
+  - value: Qq5328q
+    references:
+    - *id001
+  - value: Qn8jqk8
+    references:
+    - *id001
+  listen link:
+  - value: https://music.apple.com/us/album/in-majara-feat-makan-ashgvari-single/1546946316
+    references:
+    - *id001
+  - value: https://open.spotify.com/album/0UUbMIZ0vy3qxHcMbenVX9
+    references:
+    - source: open.spotify.com-album-pallett-in-majara
+      quote: Listen to In Majara - Single by Pallett | Spotify
+      accessed: '2026-11-06'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/66/c1/23/66c1238f-8ead-5f7d-cf46-65bbeca7afa9/4011725561659_cover.jpg/600x600bf-60.jpg
+    references:
+    - *id001

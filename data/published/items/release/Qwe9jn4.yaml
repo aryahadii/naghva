@@ -1,0 +1,53 @@
+id: Qwe9jn4
+type: release
+statements:
+  name:
+  - value:
+      text: حافظ عاشق است
+      language: fa
+    references:
+    - source: www.ohum.online-content-music.htm-2e40e28756cb
+      quote: |-
+        حافظ عاشق است 1380
+      accessed: '2026-10-23'
+  - value:
+      text: Hafez Ashegh Ast
+      language: en
+    references:
+    - source: web.archive.org-web-20110717075338-http-o-hum.com-music.htm-68b008037278
+      quote: 'Hafez Ashegh Ast [Hafez in Love] Release date: March.2001'
+      accessed: '2026-10-23'
+  performer:
+  - value: Q6v5vrx
+    references:
+    - source: web.archive.org-web-20110717075338-http-o-hum.com-music.htm-68b008037278
+      quote: 'Hafez Ashegh Ast [Hafez in Love] Release date: March.2001'
+      accessed: '2026-10-23'
+  contributor:
+  - value: Qcjah68
+    qualifiers:
+      role:
+      - producer
+    references:
+    - source: web.archive.org-web-20110717075338-http-o-hum.com-music.htm-68b008037278
+      quote: 'Hafez Ashegh Ast [Hafez in Love] Release date: March.2001'
+      accessed: '2026-10-23'
+    - source: web.archive.org-web-20110717075338-http-o-hum.com-music.htm-68b008037278
+      quote: |-
+        Written\Produced & Engineered by Shahram Sharbaf
+      accessed: '2026-10-23'
+  release date:
+  - value:
+      date: '1380'
+      calendar: jalali
+    references:
+    - source: www.ohum.online-content-music.htm-2e40e28756cb
+      quote: |-
+        حافظ عاشق است 1380
+      accessed: '2026-10-23'
+  - value:
+      date: 2001-03
+    references:
+    - source: web.archive.org-web-20110717075338-http-o-hum.com-music.htm-68b008037278
+      quote: 'Hafez Ashegh Ast [Hafez in Love] Release date: March.2001'
+      accessed: '2026-10-23'

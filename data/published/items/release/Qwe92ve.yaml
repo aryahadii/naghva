@@ -1,0 +1,56 @@
+id: Qwe92ve
+type: release
+statements:
+  name:
+  - value:
+      text: Only Hope Breaks the Dark Waves
+      language: en
+    references:
+    - &id001
+      source: music.apple.com-us-album-only-hope-breaks-the-dark-waves-single-1569256575-f46b9668dc5c
+      quote: 'Only Hope Breaks the Dark Waves - Single
+
+        Saba Alizadeh
+
+        Electronica · 2021'
+      accessed: '2026-11-06'
+  # Editorial Persian display spelling; source uses the original name.
+  - value:
+      text: تنها امید موج‌های تاریک را می‌شکند
+      language: fa
+    references:
+    - *id001
+  release date:
+  - value:
+      date: '2021-06-25'
+    references:
+    - source: music.apple.com-us-album-only-hope-breaks-the-dark-waves-single-1569256575-f46b9668dc5c
+      quote: 'June 25, 2021
+
+        1 song, 2 minutes
+
+        ℗ 2021 30M Records'
+      accessed: '2026-11-06'
+  performer:
+  - value: Qgbbc6t
+    references:
+    - *id001
+  listen link:
+  - value: https://music.apple.com/us/album/only-hope-breaks-the-dark-waves-single/1569256575
+    references:
+    - *id001
+  - value: https://open.spotify.com/album/5lME63hFf3Hmh9X89R7zNo
+    references:
+    - source: open.spotify.com-embed-album-5lme63hff3hmh9x89r7zno-8573a2445bde
+      quote: 'Only Hope Breaks the Dark Waves
+
+        ·
+
+        Saba Alizadeh'
+      accessed: '2026-11-06'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/bf/4a/32/bf4a322a-9265-2165-810a-25b01f5b2c3b/4270001356758_3000.jpg/632x632bb-60.jpg
+    references:
+    - source: music.apple.com-us-album-only-hope-breaks-the-dark-waves-single-1569256575-f46b9668dc5c
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/bf/4a/32/bf4a322a-9265-2165-810a-25b01f5b2c3b/4270001356758_3000.jpg/632x632bb-60.jpg
+      accessed: '2026-11-06'

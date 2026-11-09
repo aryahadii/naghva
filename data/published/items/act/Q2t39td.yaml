@@ -1,0 +1,67 @@
+id: Q2t39td
+type: act
+statements:
+  name:
+    - value:
+        text: بالزن
+        language: fa
+      rank: preferred
+      references:
+        - source: t.me-s-balzan_officiall-4-6cc27c082738
+          quote: |-
+            "بالزن" نيما رمضان و امير بال افشان
+          accessed: 2026-10-16
+    - value:
+        text: بالزَن
+        language: fa
+      references:
+        - source: beehy.pe-balzan-booye-kohneye-mahtab-iran-7f5af7037e23
+          quote: |-
+            Iran: Bâlzan (بالزَن)
+          accessed: 2026-10-03
+    - value:
+        text: Balzan
+        language: en
+      rank: preferred
+      references:
+        - source: t.me-s-balzan_officiall-92fc507775c6
+          quote: |-
+            Balzan
+          accessed: 2026-10-15
+    - value:
+        text: Bâlzan
+        language: en
+      references:
+        - source: beehy.pe-balzan-booye-kohneye-mahtab-iran-7f5af7037e23
+          quote: |-
+            Bâlzan is an indie electro-rock duo formed by singer Amir Balafshan and Nima Ramezan as songwriter, composer and guitar player.
+          accessed: 2026-10-15
+  image:
+    - value: https://i.ytimg.com/vi/YY2_HL2UiDc/maxresdefault.jpg
+      references:
+        - source: www.youtube.com-watch-v-yy2_hl2uidc-955c8a955a87
+          quote: |-
+            Balzan - Live in Tehran - 2021
+          accessed: 2026-10-18
+  profile link:
+  - value: https://open.spotify.com/artist/007jRGMwOnQj68rFTnIiQh
+    references:
+    - source: open.spotify.com-artist-007jrgmwonqj68rftniiqh-571718ce6280
+      quote: Listen to Balzan Songs | Spotify
+      accessed: '2026-10-19'
+  - value: https://soundcloud.com/user-102309813
+    references:
+    - source: soundcloud.com-user-102309813-e3ad4a3ca5ff
+      quote: Stream Balzan music | Listen to songs, albums, playlists for free on SoundCloud
+      accessed: '2026-10-19'
+    - source: soundcloud.com-user-102309813-e3ad4a3ca5ff
+      quote: https://soundcloud.com/user-102309813
+      accessed: '2026-10-19'
+  - value: https://t.me/balzan_officiall
+    references:
+    - source: t.me-s-balzan_officiall-92fc507775c6
+      quote: Balzan – Telegram
+      accessed: '2026-10-19'
+    - source: t.me-s-balzan_officiall-92fc507775c6
+      quote: https://t.me/s/balzan_officiall
+      accessed: '2026-10-19'

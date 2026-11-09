@@ -1,0 +1,33 @@
+id: Qysm6fw
+type: release
+statements:
+  name:
+  - value:
+      text: Sketches in Nava
+      language: en
+    references:
+    - &id001
+      source: sabaalizadeh.bandcamp.com-track-sketches-in-nava-ae407658f74e
+      quote: Sketches in Nava
+      accessed: '2026-11-06'
+  # Editorial Persian display spelling; source uses the original name.
+  - value:
+      text: طرح‌هایی در نوا
+      language: fa
+    references:
+    - *id001
+  performer:
+  - value: Qgbbc6t
+    references:
+    - *id001
+  release date:
+  - value:
+      date: '2011-02-11'
+    references:
+    - source: sabaalizadeh.bandcamp.com-track-sketches-in-nava-ae407658f74e
+      quote: released February 11, 2011
+      accessed: '2026-11-06'
+  listen link:
+  - value: https://sabaalizadeh.bandcamp.com/track/sketches-in-nava
+    references:
+    - *id001

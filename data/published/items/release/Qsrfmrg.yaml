@@ -1,0 +1,108 @@
+id: Qsrfmrg
+type: release
+statements:
+  name:
+  - value:
+      text: Mirza Ghasemi
+      language: en
+    references:
+    - source: soundcloud.com-moodymoussavi-mirza-ghasemi-69218f57ed14
+      quote: |-
+        Mirza Ghasemi
+      accessed: '2026-11-06'
+  - value:
+      text: میرزا قاسمی
+      language: fa
+    references:
+    - source: soundcloud.com-moodymoussavi-mirza-ghasemi-69218f57ed14
+      quote: |-
+        Mirza Ghasemi
+      accessed: '2026-11-06'
+  performer:
+  - value: Qv5ybzr
+    references:
+    - source: music.apple.com-us-album-mirza-ghasemi-single-1581122909-576ffdc90d7a
+      quote: '"byArtist":[{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/moody-moussavi/1556901633","name":"Moody Moussavi"}]'
+      accessed: '2026-11-06'
+  - value: Qv5ybzr
+    references:
+    - source: soundcloud.com-moodymoussavi-mirza-ghasemi-69218f57ed14
+      quote: 'آهنگسازی، تنظیم، وُکال و گیتار الکتریک: محمد موسوی'
+      accessed: '2026-11-06'
+    qualifiers:
+      role:
+      - vocals
+      - guitar
+  - value: Qx4zbn3
+    references:
+    - source: soundcloud.com-moodymoussavi-mirza-ghasemi-69218f57ed14
+      quote: 'گیتار بِیس: مازیار خَوّاجیان'
+      accessed: '2026-11-06'
+    qualifiers:
+      role:
+      - bass
+  - value: Qw8qpec
+    references:
+    - source: soundcloud.com-moodymoussavi-mirza-ghasemi-69218f57ed14
+      quote: 'درامز: برنا شفیع زاده'
+      accessed: '2026-11-06'
+    qualifiers:
+      role:
+      - drums
+  contributor:
+  - value: Qv5ybzr
+    references:
+    - source: soundcloud.com-moodymoussavi-mirza-ghasemi-69218f57ed14
+      quote: 'آهنگسازی، تنظیم، وُکال و گیتار الکتریک: محمد موسوی'
+      accessed: '2026-11-06'
+    qualifiers:
+      role:
+      - composer
+      - arranger
+  - value: Qv5ybzr
+    references:
+    - source: music.apple.com-us-song-mirza-ghasemi-1581122910-1361571b028a
+      quote: '"name":"Mohammad Moussavi","roleNames":["Producer"]'
+      accessed: '2026-11-06'
+    qualifiers:
+      role:
+      - producer
+  release date:
+  - value:
+      date: '2020-08-18'
+    references:
+    - source: music.apple.com-us-album-mirza-ghasemi-single-1581122909-576ffdc90d7a
+      quote: '"datePublished":"2020-08-18"'
+      accessed: '2026-11-06'
+  listen link:
+  - value: https://soundcloud.com/moodymoussavi/mirza-ghasemi
+    references:
+    - source: soundcloud.com-moodymoussavi-mirza-ghasemi-69218f57ed14
+      quote: |-
+        Mirza Ghasemi
+      accessed: '2026-11-06'
+  - value: https://music.apple.com/us/album/mirza-ghasemi-single/1581122909
+    references:
+    - source: music.apple.com-us-album-mirza-ghasemi-single-1581122909-576ffdc90d7a
+      quote: '"name":"Mirza Ghasemi - Single"'
+      accessed: '2026-11-06'
+  - value: https://open.spotify.com/track/3kg4PwdPoECzHeypYDC38q
+    references:
+    - source: open.spotify.com-track-3kg4pwdpoeczheypydc38q-2b324fc215c8
+      quote: |-
+        Mirza Ghasemi
+      accessed: '2026-11-06'
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-WsDexEV7x4nMOify-UrFOfw-t500x500.jpg
+    references:
+    - source: soundcloud.com-moodymoussavi-mirza-ghasemi-69218f57ed14
+      quote: |-
+        https://i1.sndcdn.com/artworks-WsDexEV7x4nMOify-UrFOfw-t500x500.jpg
+      accessed: '2026-11-06'
+    - source: soundcloud.com-moodymoussavi-mirza-ghasemi-69218f57ed14
+      quote: 'تصویر ساز و طراح کاوِر: مجید حیدری'
+      accessed: '2026-11-06'
+    qualifiers:
+      credit:
+        text: مجید حیدری
+        language: fa

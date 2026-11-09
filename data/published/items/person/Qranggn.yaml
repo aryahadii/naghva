@@ -1,0 +1,33 @@
+id: Qranggn
+type: person
+statements:
+  name:
+  - value:
+      text: Golfam Khayam
+      language: en
+    references:
+    - source: www.golfamkhayam.com-about-4599a9a668e7
+      quote: |-
+        Golfam Khayam گلفام خیام
+      accessed: '2026-10-19'
+  - value:
+      text: گلفام خیام
+      language: fa
+    references:
+    - source: www.golfamkhayam.com-about-4599a9a668e7
+      quote: |-
+        Golfam Khayam گلفام خیام
+      accessed: '2026-10-19'
+  image:
+  - value: https://static.wixstatic.com/media/9d4db0_0bae2bc170444cd3ba8df3f43e980961~mv2.jpg
+    references:
+    - source: www.golfamkhayam.com-about-4599a9a668e7
+      quote: About | golfamkhayam
+      accessed: '2026-10-19'
+    - source: www.golfamkhayam.com-about-4599a9a668e7
+      quote: https://static.wixstatic.com/media/9d4db0_0bae2bc170444cd3ba8df3f43e980961~mv2.jpg
+      accessed: '2026-10-19'
+    qualifiers:
+      credit:
+        text: www.golfamkhayam.com
+        language: en

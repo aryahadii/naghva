@@ -1,0 +1,146 @@
+id: Qd8b8eh
+type: release
+statements:
+  name:
+  - value:
+      text: شبرنگ
+      language: fa
+    references:
+    - source: sevdaliza.bandcamp.com-album-shabrang-7b63e9367f1a
+      quote: |-
+        Shabrang | Sevdaliza
+      accessed: '2026-11-06'
+  - value:
+      text: Shabrang
+      language: en
+    references:
+    - source: sevdaliza.bandcamp.com-album-shabrang-7b63e9367f1a
+      quote: |-
+        Shabrang by Sevdaliza
+      accessed: '2026-10-19'
+  release date:
+  - value:
+      date: '2020-09-10'
+    references:
+    - source: sevdaliza.bandcamp.com-album-shabrang-7b63e9367f1a
+      quote: |-
+        released September 10, 2020
+      accessed: '2026-10-19'
+  - value:
+      date: '2020-08-28'
+    references:
+    - source: music.apple.com-us-album-shabrang-1524138871-adf548382a61
+      quote: |-
+        August 28, 2020
+      accessed: '2026-10-19'
+  performer:
+  - value: Qf36fnd
+    references:
+    - source: sevdaliza.bandcamp.com-album-shabrang-7b63e9367f1a
+      quote: |-
+        Shabrang by Sevdaliza
+      accessed: '2026-10-19'
+  - value: Qf36fnd
+    references:
+    - source: music.apple.com-us-song-1524138957-a24ac5992d99
+      quote: |-
+        Sevdaliza","roleNames":["Vocals","Programming"]
+      accessed: '2026-11-06'
+      locator: Gole Bi Goldoon — credits
+    qualifiers:
+      role: vocals
+  - value: Qczfeyp
+    references:
+    - source: music.apple.com-us-song-1524138957-a24ac5992d99
+      quote: |-
+        Leon den Engelsen","roleNames":["Keyboards"]
+      accessed: '2026-11-06'
+      locator: Gole Bi Goldoon — credits
+    qualifiers:
+      role: keyboards
+  - value: Qhpdevk
+    references:
+    - source: music.apple.com-us-song-1524138957-a24ac5992d99
+      quote: |-
+        Mihai Puscoiu","roleNames":["Strings"]
+      accessed: '2026-11-06'
+      locator: Gole Bi Goldoon — credits
+    qualifiers:
+      role: strings
+  contributor:
+  - value: Qf36fnd
+    references:
+    - source: music.apple.com-us-song-1524138957-a24ac5992d99
+      quote: |-
+        Sevdaliza","roleNames":["Producer","Mixing Engineer","Mastering Engineer"]
+      accessed: '2026-11-06'
+      locator: Gole Bi Goldoon — credits
+    qualifiers:
+      role:
+      - producer
+  - value: Qej3p6c
+    references:
+    - source: music.apple.com-us-song-1524138957-a24ac5992d99
+      quote: |-
+        Mucky","roleNames":["Producer","Mixing Engineer","Mastering Engineer"]
+      accessed: '2026-11-06'
+      locator: Gole Bi Goldoon — credits
+    qualifiers:
+      role:
+      - producer
+  - value: Q5wnnye
+    references:
+    - source: music.apple.com-us-song-1524138957-a24ac5992d99
+      quote: |-
+        Parviz Maghsadi","roleNames":["Composer"]
+      accessed: '2026-11-06'
+      locator: Gole Bi Goldoon — credits
+    qualifiers:
+      role:
+      - original composer
+  - value: Qhm2s96
+    references:
+    - source: music.apple.com-us-song-1524138957-a24ac5992d99
+      quote: |-
+        Vahid Adibi","roleNames":["Lyrics"]
+      accessed: '2026-11-06'
+      locator: Gole Bi Goldoon — credits
+    qualifiers:
+      role:
+      - original lyricist
+  listen link:
+  - value: https://sevdaliza.bandcamp.com/album/shabrang
+    references:
+    - source: sevdaliza.bandcamp.com-album-shabrang-7b63e9367f1a
+      quote: |-
+        Shabrang by Sevdaliza
+      accessed: '2026-10-19'
+  - value: https://music.apple.com/us/album/shabrang/1524138871
+    references:
+    - source: music.apple.com-us-album-shabrang-1524138871-adf548382a61
+      quote: |-
+        ‎Shabrang - Album by Sevdaliza - Apple Music
+      accessed: '2026-11-06'
+  - value: https://open.spotify.com/album/0VtzP3PGH07r1pzwX1CSwq
+    references:
+    - source: open.spotify.com-album-0vtzp3pgh07r1pzwx1cswq-f9e6e677bdfe
+      quote: |-
+        Listen to Shabrang - Album by Sevdaliza | Spotify
+      accessed: '2026-11-06'
+  - value: https://soundcloud.com/sevdaliza/sets/shabrang-1
+    references:
+    - source: soundcloud.com-sevdaliza-sets-shabrang-1-0c86a87ef395
+      quote: |-
+        Stream SEVDALIZA | Listen to Shabrang playlist online for free on SoundCloud
+      accessed: '2026-11-06'
+  cover art:
+  - value: https://f4.bcbits.com/img/a2789587330_5.jpg
+    qualifiers:
+      credit:
+        text: sevdaliza.bandcamp.com
+        language: en
+    references:
+    - source: sevdaliza.bandcamp.com-album-shabrang-7b63e9367f1a
+      quote: |-
+        Shabrang by Sevdaliza
+      accessed: '2026-10-19'

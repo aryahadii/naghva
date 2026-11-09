@@ -1,0 +1,88 @@
+id: Qb5xtxr
+type: release
+statements:
+  name:
+  - value:
+      text: بالزن
+      language: fa
+    rank: preferred
+    references:
+    - source: t.me-s-balzan_officiall-19-fe305e796990
+      quote: |-
+        آلبوم بالزن منتشر شد...
+      accessed: 2026-10-16
+  - value:
+      text: Balzan
+      language: en
+    rank: preferred
+    references:
+    - source: music.apple.com-us-album-balzan-1607260465-ac1be9fcd7c2
+      quote: |-
+        Balzan by Balzan on Apple Music
+      accessed: 2026-10-18
+  - value:
+      text: Bâlzan
+      language: en
+    references:
+    - source: beehy.pe-balzan-booye-kohneye-mahtab-iran-7f5af7037e23
+      quote: |-
+        is the recently released debut called “Bâlzan”.
+      accessed: 2026-10-03
+  release date:
+  - value:
+      date: 1397-12
+      calendar: jalali
+    rank: preferred
+    references:
+    - source: beeptunes.com-album-524525035-d8-a8-d8-a7-d9-84-d8-b2-d9-86-03915c7c8aa5
+      quote: |-
+        اسفند ۱۳۹۷
+      accessed: 2026-10-15
+  - value:
+      date: '2019-03-24'
+    rank: deprecated
+    references:
+    - source: music.apple.com-us-album-balzan-1607260465-ac1be9fcd7c2
+      quote: |-
+        March 24, 2019 9 songs, 42 minutes
+      accessed: 2026-10-15
+  performer:
+  - value: Q2t39td
+    references:
+    - source: t.me-s-javanrecords-1589-2313b0b1aa96
+      quote: |-
+        اثر گروه بالزن ( نیما رمضان و امیر بال افشان
+      accessed: 2026-10-15
+  contributor:
+  - value: Q4h2xwf
+    qualifiers:
+      role:
+      - lyricist
+    references:
+    - source: owrsi.com-2019-06-02-da-af-d8-b1-d9-88-d9-87--d8-a8-d8-a7-d9-84-d8-b2-d9-86-b87e6829ccee
+      quote: |-
+        تمام اشعار آلبوم بالزن از نصرت رحمانی است.
+      accessed: 2026-10-15
+    - source: t.me-s-balzan_officiall-21-7121a082afec
+      quote: 'شعر: نصرت رحمانی'
+      accessed: 2026-10-18
+  published by:
+  - value: Q96s69s
+    references:
+    - source: t.me-s-balzan_officiall-21-7121a082afec
+      quote: 'تهیه کننده: حمید خسروبیگی نشر و پخش جوان'
+      accessed: 2026-10-16
+  listen link:
+  - value: https://music.apple.com/us/album/balzan/1813403200
+    references:
+    - source: music.apple.com-us-album-balzan-1813403200-adc5b407f15b
+      quote: |-
+        Balzan by Balzan on Apple Music
+      accessed: 2026-10-18
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/3d/b7/9b/3db79b0d-30c9-7f5a-14f4-5d4ba9b4faf3/52763e29-aaec-4f6a-9ece-0cccfffdec3b.jpg/1200x1200bb.jpg
+    references:
+    - source: music.apple.com-us-album-balzan-1607260465-ac1be9fcd7c2
+      quote: |-
+        Balzan by Balzan on Apple Music
+      accessed: 2026-10-18

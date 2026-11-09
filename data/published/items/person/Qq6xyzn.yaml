@@ -1,0 +1,88 @@
+id: Qq6xyzn
+type: person
+statements:
+  name:
+  - value:
+      text: فرهاد مهراد
+      language: fa
+    references:
+    - source: www.farhadmehrad.org-content-biography-08f467a10ae9
+      quote: بیو گرافی - فرهاد مهراد
+      accessed: '2026-10-19'
+  - value:
+      text: Farhad Mehrad
+      language: en
+    references:
+    - source: music.apple.com-us-album-barf-1798706878-41052b63376e
+      quote: Barf - Album by Farhad Mehrad - Apple Music
+      accessed: '2026-10-19'
+  birth date:
+  - value:
+      date: '1322-10-29'
+      calendar: jalali
+    references:
+    - source: www.farhadmehrad.org-content-biography-08f467a10ae9
+      quote: روز بيست و نهم دي ماه 1322 در تهران متولد شد.
+      accessed: '2026-10-19'
+  birthplace:
+  - value: Qhm6fzw
+    references:
+    - source: www.farhadmehrad.org-content-biography-08f467a10ae9
+      quote: روز بيست و نهم دي ماه 1322 در تهران متولد شد.
+      accessed: '2026-10-23'
+      locator: Official biography, birth
+  member of:
+  - value: Qwe39m2
+    qualifiers:
+      role:
+      - vocals
+      - guitar
+      - piano
+      start time:
+        date: '1345'
+        calendar: jalali
+    references:
+    - source: www.farhadmehrad.org-content-biography-08f467a10ae9
+      quote: از سال ۴۵ همكاري فرهاد با گروه black cats در كلاب كوچيني آغاز ميشود.
+      accessed: '2026-10-23'
+    - source: www.farhadmehrad.org-content-biography-08f467a10ae9
+      quote: فرهاد به عنوان خواننده و نوازنده گیتار و پیانو.
+      accessed: '2026-10-23'
+  image:
+  - value: https://www.farhadmehrad.org/gallery/005.jpg
+    references:
+    - source: www.farhadmehrad.org-gallery-pictures
+      quote: گالری تصاویر فرهاد
+      accessed: '2026-10-19'
+    - source: www.farhadmehrad.org-gallery-pictures
+      quote: https://www.farhadmehrad.org/gallery/005.jpg
+      accessed: '2026-10-19'
+    qualifiers:
+      credit:
+        text: www.farhadmehrad.org
+        language: en
+  profile link:
+  - value: https://music.apple.com/us/artist/farhad-mehrad/320096127
+    references:
+    - source: www.farhadmehrad.org-fd6dcf59d5ca
+      quote: https://music.apple.com/us/artist/farhad-mehrad/320096127
+      accessed: '2026-10-23'
+    - source: music.apple.com-us-artist-farhad-mehrad-320096127-72f58e9a3393
+      quote: ‎Farhad Mehrad - Apple Music
+      accessed: '2026-10-23'
+  - value: https://open.spotify.com/artist/5dOnuILcq3uFLKaBMIFokr
+    references:
+    - source: www.farhadmehrad.org-fd6dcf59d5ca
+      quote: https://open.spotify.com/artist/5dOnuILcq3uFLKaBMIFokr
+      accessed: '2026-10-23'
+    - source: open.spotify.com-artist-5donuilcq3uflkabmifokr-e5b62d3b7ecb
+      quote: Listen to Farhad Mehrad Songs | Spotify
+      accessed: '2026-10-23'
+  - value: https://www.youtube.com/channel/UCQjPEqBtzgoLw7wU97pWcEA
+    references:
+    - source: www.farhadmehrad.org-fd6dcf59d5ca
+      quote: https://www.youtube.com/channel/UCQjPEqBtzgoLw7wU97pWcEA
+      accessed: '2026-10-23'
+    - source: www.youtube.com-channel-ucqjpeqbtzgolw7wu97pwcea-227057781b8f
+      quote: Farhad Mehrad - Onderwerp - YouTube
+      accessed: '2026-10-23'

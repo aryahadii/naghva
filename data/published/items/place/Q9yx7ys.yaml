@@ -1,0 +1,19 @@
+id: Q9yx7ys
+type: place
+statements:
+  name:
+  - value:
+      text: Toronto
+      language: en
+    references:
+    - source: soundcloud.com-dangshow-ea5e48315bac
+      quote: Toronto
+      accessed: '2026-11-06'
+  - value:
+      # Editorial Persian display spelling; source uses the Latin name.
+      text: تورنتو
+      language: fa
+    references:
+    - source: soundcloud.com-dangshow-ea5e48315bac
+      quote: Toronto
+      accessed: '2026-11-06'

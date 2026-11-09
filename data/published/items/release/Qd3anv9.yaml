@@ -1,0 +1,85 @@
+id: Qd3anv9
+type: release
+statements:
+  name:
+  # Editorial Persian display spelling; source uses the Latin name.
+  - value:
+      text: داماهی
+      language: fa
+    references:
+    - source: www.damahimusic.com-home-1298b4190552
+      quote: first album (also named Damahi)
+      accessed: '2026-10-04'
+  - value:
+      text: Damahi
+      language: en
+    references:
+    - source: music.apple.com-us-album-damahi-1201167750
+      quote: |-
+        Listen to Damahi by Damahi on Apple Music. 2015. 14 Songs. Duration: 1 hour 14 minutes.
+      accessed: '2026-10-19'
+  release date:
+  - value:
+      date: '2015-09-04'
+    references:
+    - source: music.apple.com-us-album-damahi-1201167750
+      quote: |-
+        "datePublished":"2015-09-04"
+      accessed: '2026-10-19'
+  performer:
+  - value: Qep6nz6
+    references:
+    - source: music.apple.com-us-album-damahi-1201167750
+      quote: |-
+        Listen to Damahi by Damahi on Apple Music. 2015. 14 Songs. Duration: 1 hour 14 minutes.
+      accessed: '2026-10-19'
+  - value: Q7hs4tn
+    qualifiers:
+      role: guitar
+    references:
+      - source: www.mahanmirarab.com-discography-113e22f29c5b
+        quote: |-
+          As a Guitarist
+        accessed: '2026-10-23'
+      - source: www.mahanmirarab.com-discography-113e22f29c5b
+        quote: |-
+          Damahi – Damahi
+        accessed: '2026-10-23'
+  - value: Qr76zgx
+    qualifiers:
+      role: backing vocals
+    references:
+    - source: t.me-s-damahi-179-21f5893a1f94
+      quote: کمانچه این قطعه توسط احسان نی زن نواخته شده و مجید سالاری شروه و همخوان‍ی کرده.
+      accessed: '2026-11-06'
+    - source: t.me-s-damahi-177-82098cc7271c
+      quote: "\"سوگند\" یکی از قطعات آلبوم اوّل داماهی با شعری به زبان فارسی از ابراهیم منصفی."
+      accessed: '2026-11-06'
+  - value: Qr76zgx
+    references:
+    - source: music.apple.com-us-album-sogand-feat-ehsan-neyzan-majid-salari-1201167750-i-1201167799-1eebca8436ce
+      quote: Sogand (feat. Ehsan Neyzan & Majid Salari) - Song with Lyrics by Damahi - Apple Music
+      accessed: '2026-11-06'
+  listen link:
+  - value: https://open.spotify.com/album/3fvLWtb4jz0jtPSD86thXF
+    references:
+    - source: open.spotify.com-album-3fvlwtb4jz0jtpsd86thxf
+      quote: Listen to Damahi on Spotify · album · Damahi · 2015 · 14 songs
+      accessed: '2026-10-23'
+  - value: https://music.apple.com/us/album/damahi/1201167750
+    references:
+    - source: music.apple.com-us-album-damahi-1201167750
+      quote: |-
+        Listen to Damahi by Damahi on Apple Music. 2015. 14 Songs. Duration: 1 hour 14 minutes.
+      accessed: '2026-10-19'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/02/48/9b/02489be6-0778-b097-b5e2-5ec42f286f45/191061286752.jpg/296x296bb.webp
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-damahi-1201167750
+      quote: |-
+        Listen to Damahi by Damahi on Apple Music. 2015. 14 Songs. Duration: 1 hour 14 minutes.
+      accessed: '2026-10-19'

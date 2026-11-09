@@ -1,0 +1,33 @@
+id: Qvezhs4
+type: release
+statements:
+  name:
+  - value:
+      text: Qeshm project
+      language: en
+    references:
+    - &id001
+      source: sabaalizadeh.bandcamp.com-album-qeshm-project-46156385a2aa
+      quote: Qeshm project
+      accessed: '2026-11-06'
+  # Editorial Persian display spelling; source uses the original name.
+  - value:
+      text: پروژهٔ قشم
+      language: fa
+    references:
+    - *id001
+  performer:
+  - value: Qgbbc6t
+    references:
+    - *id001
+  release date:
+  - value:
+      date: '2008-02-04'
+    references:
+    - source: sabaalizadeh.bandcamp.com-album-qeshm-project-46156385a2aa
+      quote: released February 4, 2008
+      accessed: '2026-11-06'
+  listen link:
+  - value: https://sabaalizadeh.bandcamp.com/album/qeshm-project
+    references:
+    - *id001

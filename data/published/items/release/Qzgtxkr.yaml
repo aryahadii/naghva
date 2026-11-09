@@ -1,0 +1,43 @@
+id: Qzgtxkr
+type: release
+statements:
+  name:
+  - value:
+      text: '#5 Ladan, Dead end'
+      language: en
+    references:
+    - &id001
+      source: sabaalizadeh.bandcamp.com-track-5-ladan-dead-end-bce82dcea22d
+      quote: '#5 Ladan, Dead end'
+      accessed: '2026-11-06'
+  # Editorial Persian display spelling; source uses the original name.
+  - value:
+      text: پلاک ۵، بن‌بست لادن
+      language: fa
+    references:
+    - *id001
+  performer:
+  - value: Qgbbc6t
+    references:
+    - *id001
+  release date:
+  - value:
+      date: '2017-09-07'
+    references:
+    - source: sabaalizadeh.bandcamp.com-track-5-ladan-dead-end-bce82dcea22d
+      quote: released September 7, 2017
+      accessed: '2026-11-06'
+  listen link:
+  - value: https://sabaalizadeh.bandcamp.com/track/5-ladan-dead-end
+    references:
+    - *id001
+  cover art:
+  - value: https://f4.bcbits.com/img/a3572425309_10.jpg
+    references:
+    - source: sabaalizadeh.bandcamp.com-track-5-ladan-dead-end-bce82dcea22d
+      quote: https://f4.bcbits.com/img/a3572425309_10.jpg
+      accessed: '2026-11-06'
+    qualifiers:
+      credit:
+        text: sabaalizadeh.bandcamp.com
+        language: en

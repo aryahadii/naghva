@@ -1,0 +1,47 @@
+id: Qqdqn8h
+type: release
+statements:
+  name:
+    - value:
+        text: One hundred Stars
+        language: en
+      references:
+        - source: music.apple.com-us-album-one-hundred-stars-single-1567492084-5a33182f9751
+          quote: |-
+            One hundred Stars - Single by Balzan on Apple Music
+          accessed: 2026-10-18
+  release date:
+    - value:
+        date: "2021-05-13"
+      references:
+        - source: music.apple.com-us-album-one-hundred-stars-single-1567492084-5a33182f9751
+          quote: |-
+            May 13, 2021 1 song, 4 minutes
+          accessed: 2026-10-15
+  performer:
+    - value: Q2t39td
+      references:
+        - source: music.apple.com-us-album-one-hundred-stars-single-1567492084-5a33182f9751
+          quote: |-
+            One hundred Stars - Single by Balzan on Apple Music
+          accessed: 2026-10-18
+  listen link:
+    - value: https://music.apple.com/us/album/one-hundred-stars-single/1567492084
+      references:
+        - source: music.apple.com-us-album-one-hundred-stars-single-1567492084-5a33182f9751
+          quote: |-
+            One hundred Stars - Single by Balzan on Apple Music
+          accessed: 2026-10-18
+    - value: https://open.spotify.com/album/0zkB9defNrQrssFf3yQicQ
+      references:
+        - source: open.spotify.com-album-0zkb9defnrqrssff3yqicq
+          quote: |-
+            Listen to One hundred Stars - Single by Balzan | Spotify
+          accessed: 2026-11-03
+  cover art:
+    - value: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/77/ce/0f/77ce0fb3-1f91-c1d0-53c4-fb0ae0f92c61/artwork.jpg/1200x1200bb.jpg
+      references:
+        - source: music.apple.com-us-album-one-hundred-stars-single-1567492084-5a33182f9751
+          quote: |-
+            One hundred Stars - Single by Balzan on Apple Music
+          accessed: 2026-10-18

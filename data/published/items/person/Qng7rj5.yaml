@@ -1,0 +1,20 @@
+id: Qng7rj5
+type: person
+statements:
+  name:
+  - value:
+      text: مارال محمدی
+      language: fa
+    references:
+    - &id001
+      source: rooz.hilnu.com-persian-news-newsitem-article-babc088a09
+      quote: این سه مارال محمدی (نوازنده چلو و همخوان) صالح زارعی (بیس) و جیسون (درامز) بودند
+      accessed: '2026-10-19'
+  member of:
+  - value: Qq8mnpp
+    qualifiers:
+      role:
+      - cello
+      - vocals
+    references:
+    - *id001

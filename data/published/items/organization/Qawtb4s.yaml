@@ -1,0 +1,16 @@
+id: Qawtb4s
+type: organization
+statements:
+  name:
+    - value: {"text":"Venus Rising Records","language":"en"}
+      references:
+        - source: "sussandeyhim.com-collections-music-products-city-of-leaves-0ce676e4fdac"
+          quote: "City of Leaves is among Sussan Deyhim’s multiple releases on her own label Venus Rising Records. It features tracks in collaboration with composer Richard Horowitz and very special guest, composer violinist Gingger Shankar."
+          accessed: "2026-10-23"
+      rank: preferred
+    - value: {"text":"Venus Rising","language":"en"}
+      references:
+        - source: "music.apple.com-us-album-soliloquy-278064127-46775558c543"
+          quote: "Soliloquy — Album by Sussan Deyhim; January 1, 2001; 16 songs, 33 minutes; ℗ 2001 Venus Rising courtesy of BFM Digital"
+          accessed: "2026-10-23"
+      rank: normal

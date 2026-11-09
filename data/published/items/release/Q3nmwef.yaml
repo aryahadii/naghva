@@ -1,0 +1,99 @@
+id: Q3nmwef
+type: release
+statements:
+  name:
+  - value:
+      text: طالبان
+      language: fa
+    references:
+    - source: pelakrecords.com-records-start-4
+      quote: |-
+        طالبان
+        شعر و اجرا : بامداد
+        آهنگسازی، میکس و مسترینگ : یارا
+        طراحی جلد : سِواد
+        تاریخ انتشار: ۹۹/۱۱/۰۹
+        01/28/2021
+        ناشر: پلاک
+      accessed: '2026-10-19'
+  performer:
+  - value: Q4jqwp7
+    references:
+    - source: pelakrecords.com-records-start-4
+      quote: |-
+        طالبان
+        شعر و اجرا : بامداد
+        آهنگسازی، میکس و مسترینگ : یارا
+        طراحی جلد : سِواد
+        تاریخ انتشار: ۹۹/۱۱/۰۹
+        01/28/2021
+        ناشر: پلاک
+      accessed: '2026-10-19'
+  - value: Qhahz45
+    references:
+    - source: music.apple.com-us-album-taleban-single-1575206547
+      quote: 'Listen to Taleban - Single by Bamdad & Yarapelak on Apple Music. 2021. 1 Song. Duration: 4 minutes.'
+      accessed: '2026-10-19'
+  contributor:
+  - value: Qhahz45
+    qualifiers:
+      role:
+      - producer
+    references:
+    - source: soundcloud.com-bamdadamman-taleban
+      quote: |-
+        Vocalist: Bamdad
+        Producer: Yara
+        Mix&Mastering: Yara
+        Artwork: Sevad
+        Publisher: Pelak Records
+        Visit https://pelakrecords.com/records/taleban
+      accessed: '2026-10-27'
+  - value: Qhahz45
+    qualifiers:
+      role:
+      - composer
+    references:
+    - source: pelakrecords.com-records-start-4
+      quote: |-
+        طالبان
+        شعر و اجرا : بامداد
+        آهنگسازی، میکس و مسترینگ : یارا
+        طراحی جلد : سِواد
+        تاریخ انتشار: ۹۹/۱۱/۰۹
+        01/28/2021
+        ناشر: پلاک
+      accessed: '2026-10-19'
+  listen link:
+  - value: https://music.apple.com/us/album/taleban-single/1575206547
+    references:
+    - source: music.apple.com-us-album-taleban-single-1575206547
+      quote: 'Listen to Taleban - Single by Bamdad & Yarapelak on Apple Music. 2021. 1 Song. Duration: 4 minutes.'
+      accessed: '2026-10-19'
+  release date:
+  - value:
+      date: '2021-01-29'
+    references:
+    - source: music.apple.com-us-album-taleban-single-1575206547
+      quote: '"datePublished":"2021-01-29"'
+      accessed: '2026-10-19'
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-oZAT8MtAXWsVA0LE-kBXPww-t500x500.jpg
+    references:
+    - source: soundcloud.com-bamdadamman-taleban
+      quote: |-
+        https://i1.sndcdn.com/artworks-oZAT8MtAXWsVA0LE-kBXPww-t500x500.jpg
+      accessed: '2026-10-27'
+    - source: soundcloud.com-bamdadamman-taleban
+      quote: |-
+        Vocalist: Bamdad
+        Producer: Yara
+        Mix&Mastering: Yara
+        Artwork: Sevad
+        Publisher: Pelak Records
+        Visit https://pelakrecords.com/records/taleban
+      accessed: '2026-10-27'
+    qualifiers:
+      credit:
+        text: Sevad
+        language: en

@@ -1,0 +1,48 @@
+id: Qvqsszc
+type: release
+statements:
+  name:
+  - value:
+      text: Dasht e Sabz (Green Field)
+      language: en
+    references:
+    - &id001
+      source: www.kiosktheband.com-the-band-35235d067344
+      quote: '2009: Dasht e Sabz (Green Field)'
+      accessed: '2026-10-19'
+  # Editorial Persian display spelling; source uses the Latin name.
+  - value:
+      text: دشت سبز
+      language: fa
+    references:
+    - source: www.kiosktheband.com-the-band-35235d067344
+      quote: '2009: Dasht e Sabz (Green Field)'
+      accessed: '2026-10-19'
+  performer:
+  - value: Qtgn2be
+    references:
+    - *id001
+  release date:
+  - value:
+      date: '2009'
+    references:
+    - *id001
+  listen link:
+  - value: https://soundcloud.com/kiosktheband/kiosk-dasht-e-sabz
+    references:
+    - source: soundcloud.com-kiosktheband-kiosk-dasht-e-sabz
+      quote: Kiosk Dasht e Sabz
+      accessed: '2026-10-19'
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-000120322875-pmf6jd-t500x500.jpg
+    references:
+    - source: soundcloud.com-kiosktheband-kiosk-dasht-e-sabz
+      quote: Kiosk Dasht e Sabz
+      accessed: '2026-10-19'
+    - source: soundcloud.com-kiosktheband-kiosk-dasht-e-sabz
+      quote: https://i1.sndcdn.com/artworks-000120322875-pmf6jd-t500x500.jpg
+      accessed: '2026-10-19'
+    qualifiers:
+      credit:
+        text: soundcloud.com
+        language: en

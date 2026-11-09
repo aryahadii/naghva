@@ -1,0 +1,605 @@
+id: Q7m4hb2
+type: release
+statements:
+  name:
+  - value:
+      text: هروئینا
+      language: fa
+    references:
+    - source: music.apple.com-us-album-heroina-1837544742-36302e025395
+      quote: |-
+        ‎HEROINA - Album by Sevdaliza - Apple Music
+      accessed: '2026-11-06'
+  - value:
+      text: HEROINA
+      language: en
+    references:
+    - source: music.apple.com-us-album-heroina-1837544742-36302e025395
+      quote: |-
+        HEROINA - Album by Sevdaliza - Apple Music
+      accessed: '2026-10-19'
+  release date:
+  - value:
+      date: '2025-10-31'
+    references:
+    - source: music.apple.com-us-album-heroina-1837544742-36302e025395
+      quote: |-
+        October 31, 2025
+      accessed: '2026-10-19'
+  performer:
+  - value: Qf36fnd
+    references:
+    - source: music.apple.com-us-album-heroina-1837544742-36302e025395
+      quote: |-
+        HEROINA - Album by Sevdaliza - Apple Music
+      accessed: '2026-10-19'
+  - value: Qf36fnd
+    references:
+    - source: music.apple.com-us-song-1837544888-fdc8072449ad
+      quote: |-
+        Sevdaliza","roleNames":["Vocals"]
+      accessed: '2026-11-06'
+      locator: Ride or Die, Pt. 2 — credits
+    qualifiers:
+      role: vocals
+  - value: Qj4q49n
+    references:
+    - source: music.apple.com-us-song-1837544894-e8817d055edb
+      quote: |-
+        Irmãs de Pau","roleNames":["Vocals"]
+      accessed: '2026-11-06'
+      locator: Maria Magdalena — credits
+    qualifiers:
+      role: vocals
+  - value: Qstbrex
+    references:
+    - source: music.apple.com-us-song-1837544899-e3eb6e4fc99e
+      quote: |-
+        Eartheater","roleNames":["Vocals"]
+      accessed: '2026-11-06'
+      locator: Angel — credits
+    qualifiers:
+      role: vocals
+  - value: Q4y8pvf
+    references:
+    - source: music.apple.com-us-song-1837544890-66390fa279e8
+      quote: |-
+        KAROL G","roleNames":["Vocals"]
+      accessed: '2026-11-06'
+      locator: No Me Cansare — credits
+    qualifiers:
+      role: vocals
+  - value: Q2b5wvp
+    references:
+    - source: music.apple.com-us-song-1837544759-58cbb922da3e
+      quote: |-
+        La Joaqui","roleNames":["Vocals"]
+      accessed: '2026-11-06'
+      locator: Heroina — credits
+    qualifiers:
+      role: vocals
+  - value: Qw6r7ez
+    references:
+    - source: music.apple.com-us-song-1837544892-8ba984db5f73
+      quote: |-
+        Kenia Os","roleNames":["Vocals"]
+      accessed: '2026-11-06'
+      locator: Stripper — credits
+    qualifiers:
+      role: vocals
+  - value: Qmadfsv
+    references:
+    - source: music.apple.com-us-song-1837544756-0cd77e082d43
+      quote: |-
+        ASONGFORYOU choir","roleNames":["Vocals"]
+      accessed: '2026-11-06'
+      locator: Intro — credits
+    qualifiers:
+      role: vocals
+  contributor:
+  - value: Qf36fnd
+    references:
+    - source: music.apple.com-us-song-1837544888-fdc8072449ad
+      quote: |-
+        Sevda Alizadeh","roleNames":["Songwriter"]
+      accessed: '2026-11-06'
+      locator: Ride or Die, Pt. 2 — credits
+    qualifiers:
+      role:
+      - songwriter
+  - value: Qygfzaq
+    references:
+    - source: music.apple.com-us-song-1837544888-fdc8072449ad
+      quote: |-
+        Mathias Janmaat","roleNames":["Songwriter"]
+      accessed: '2026-11-06'
+      locator: Ride or Die, Pt. 2 — credits
+    qualifiers:
+      role:
+      - songwriter
+  - value: Qej3p6c
+    references:
+    - source: music.apple.com-us-song-1837544888-fdc8072449ad
+      quote: |-
+        Reynard Bargmann","roleNames":["Songwriter"]
+      accessed: '2026-11-06'
+      locator: Ride or Die, Pt. 2 — credits
+    qualifiers:
+      role:
+      - songwriter
+  - value: Qrecy8g
+    references:
+    - source: music.apple.com-us-song-1837544888-fdc8072449ad
+      quote: |-
+        Villana Santiago Pacheco","roleNames":["Songwriter"]
+      accessed: '2026-11-06'
+      locator: Ride or Die, Pt. 2 — credits
+    qualifiers:
+      role:
+      - songwriter
+  - value: Qf36fnd
+    references:
+    - source: music.apple.com-us-song-1837544888-fdc8072449ad
+      quote: |-
+        Sevdaliza","roleNames":["Producer"]
+      accessed: '2026-11-06'
+      locator: Ride or Die, Pt. 2 — credits
+    qualifiers:
+      role:
+      - producer
+  - value: Qygfzaq
+    references:
+    - source: music.apple.com-us-song-1837544888-fdc8072449ad
+      quote: |-
+        Mathias Janmaat","roleNames":["Producer"]
+      accessed: '2026-11-06'
+      locator: Ride or Die, Pt. 2 — credits
+    qualifiers:
+      role:
+      - producer
+  - value: Qn8cdm7
+    references:
+    - source: music.apple.com-us-song-1837544888-fdc8072449ad
+      quote: |-
+        FS Green","roleNames":["Producer"]
+      accessed: '2026-11-06'
+      locator: Ride or Die, Pt. 2 — credits
+    qualifiers:
+      role:
+      - producer
+  - value: Qmhvewy
+    references:
+    - source: music.apple.com-us-song-1837544888-fdc8072449ad
+      quote: |-
+        Dave Nunes","roleNames":["Producer"]
+      accessed: '2026-11-06'
+      locator: Ride or Die, Pt. 2 — credits
+    qualifiers:
+      role:
+      - producer
+  - value: Qbqz64f
+    references:
+    - source: music.apple.com-us-song-1837544894-e8817d055edb
+      quote: |-
+        Frankie Scoca","roleNames":["Songwriter","Arranger"]
+      accessed: '2026-11-06'
+      locator: Maria Magdalena — credits
+    qualifiers:
+      role:
+      - songwriter
+  - value: Qbqz64f
+    references:
+    - source: music.apple.com-us-song-1837544894-e8817d055edb
+      quote: |-
+        Frankie Scoca","roleNames":["Songwriter","Arranger"]
+      accessed: '2026-11-06'
+      locator: Maria Magdalena — credits
+    qualifiers:
+      role:
+      - arranger
+  - value: Qygfzaq
+    references:
+    - source: music.apple.com-us-song-1837544894-e8817d055edb
+      quote: |-
+        Mathias Janmaat","roleNames":["Composer","Lyrics","Arranger"]
+      accessed: '2026-11-06'
+      locator: Maria Magdalena — credits
+    qualifiers:
+      role:
+      - composer
+  - value: Qygfzaq
+    references:
+    - source: music.apple.com-us-song-1837544894-e8817d055edb
+      quote: |-
+        Mathias Janmaat","roleNames":["Composer","Lyrics","Arranger"]
+      accessed: '2026-11-06'
+      locator: Maria Magdalena — credits
+    qualifiers:
+      role:
+      - lyricist
+  - value: Qygfzaq
+    references:
+    - source: music.apple.com-us-song-1837544894-e8817d055edb
+      quote: |-
+        Mathias Janmaat","roleNames":["Composer","Lyrics","Arranger"]
+      accessed: '2026-11-06'
+      locator: Maria Magdalena — credits
+    qualifiers:
+      role:
+      - arranger
+  - value: Qyddv48
+    references:
+    - source: music.apple.com-us-song-1837544894-e8817d055edb
+      quote: |-
+        ISMA ARAÚJO DE ALMEIDA","roleNames":["Lyrics"]
+      accessed: '2026-11-06'
+      locator: Maria Magdalena — credits
+    qualifiers:
+      role:
+      - lyricist
+  - value: Q3j9y69
+    references:
+    - source: music.apple.com-us-song-1837544894-e8817d055edb
+      quote: |-
+        Megan Bülow","roleNames":["Lyrics"]
+      accessed: '2026-11-06'
+      locator: Maria Magdalena — credits
+    qualifiers:
+      role:
+      - lyricist
+  - value: Qf36fnd
+    references:
+    - source: music.apple.com-us-song-1837544894-e8817d055edb
+      quote: |-
+        Sevda Alizadeh","roleNames":["Lyrics","Composer"]
+      accessed: '2026-11-06'
+      locator: Maria Magdalena — credits
+    qualifiers:
+      role:
+      - lyricist
+  - value: Qf36fnd
+    references:
+    - source: music.apple.com-us-song-1837544894-e8817d055edb
+      quote: |-
+        Sevda Alizadeh","roleNames":["Lyrics","Composer"]
+      accessed: '2026-11-06'
+      locator: Maria Magdalena — credits
+    qualifiers:
+      role:
+      - composer
+  - value: Q376xnq
+    references:
+    - source: music.apple.com-us-song-1837544894-e8817d055edb
+      quote: |-
+        VITA PEREIRA DA SILVA MACEDO","roleNames":["Lyrics"]
+      accessed: '2026-11-06'
+      locator: Maria Magdalena — credits
+    qualifiers:
+      role:
+      - lyricist
+  - value: Qtrxwdw
+    references:
+    - source: music.apple.com-us-song-1837544894-e8817d055edb
+      quote: |-
+        Will Knox","roleNames":["Lyrics"]
+      accessed: '2026-11-06'
+      locator: Maria Magdalena — credits
+    qualifiers:
+      role:
+      - lyricist
+  - value: Qf36fnd
+    references:
+    - source: music.apple.com-us-song-1837544894-e8817d055edb
+      quote: |-
+        Sevdaliza","roleNames":["Arranger"]
+      accessed: '2026-11-06'
+      locator: Maria Magdalena — credits
+    qualifiers:
+      role:
+      - arranger
+  - value: Qh5dxd9
+    references:
+    - source: music.apple.com-us-song-1837544899-e3eb6e4fc99e
+      quote: |-
+        Ilias El Khaddari","roleNames":["Lyrics"]
+      accessed: '2026-11-06'
+      locator: Angel — credits
+    qualifiers:
+      role:
+      - lyricist
+  - value: Qstbrex
+    references:
+    - source: music.apple.com-us-song-1837544899-e3eb6e4fc99e
+      quote: |-
+        Alex andra Drewchin","roleNames":["Songwriter"]
+      accessed: '2026-11-06'
+      locator: Angel — credits (source spells Alex andra Drewchin)
+    qualifiers:
+      role:
+      - songwriter
+  - value: Qmz2z5r
+    references:
+    - source: music.apple.com-us-song-1837544889-d13ea7f4f6a5
+      quote: |-
+        Eyelar Mirzazadeh","roleNames":["Songwriter"]
+      accessed: '2026-11-06'
+      locator: Messiah — credits
+    qualifiers:
+      role:
+      - songwriter
+  - value: Qh5dxd9
+    references:
+    - source: music.apple.com-us-song-1837544889-d13ea7f4f6a5
+      quote: |-
+        Ilias El Khaddari","roleNames":["Songwriter"]
+      accessed: '2026-11-06'
+      locator: Messiah — credits
+    qualifiers:
+      role:
+      - songwriter
+  - value: Q3j9y69
+    references:
+    - source: music.apple.com-us-song-1837544889-d13ea7f4f6a5
+      quote: |-
+        Megan Bülow","roleNames":["Songwriter"]
+      accessed: '2026-11-06'
+      locator: Messiah — credits
+    qualifiers:
+      role:
+      - songwriter
+  - value: Qtrxwdw
+    references:
+    - source: music.apple.com-us-song-1837544889-d13ea7f4f6a5
+      quote: |-
+        Will Knox","roleNames":["Songwriter"]
+      accessed: '2026-11-06'
+      locator: Messiah — credits
+    qualifiers:
+      role:
+      - songwriter
+  - value: Q4y8pvf
+    references:
+    - source: music.apple.com-us-song-1837544890-66390fa279e8
+      quote: |-
+        Carolina Giraldo Navarro","roleNames":["Songwriter"]
+      accessed: '2026-11-06'
+      locator: No Me Cansare — credits
+    qualifiers:
+      role:
+      - songwriter
+  - value: Qbqz64f
+    references:
+    - source: music.apple.com-us-song-1837544890-66390fa279e8
+      quote: |-
+        Frankie Scoca","roleNames":["Producer"]
+      accessed: '2026-11-06'
+      locator: No Me Cansare — credits
+    qualifiers:
+      role:
+      - producer
+  - value: Q466sek
+    references:
+    - source: music.apple.com-us-song-1837544759-58cbb922da3e
+      quote: |-
+        Yseult Onguenet","roleNames":["Songwriter"]
+      accessed: '2026-11-06'
+      locator: Heroina — credits
+    qualifiers:
+      role:
+      - songwriter
+  - value: Qdgvtyp
+    references:
+    - source: music.apple.com-us-song-1837544759-58cbb922da3e
+      quote: |-
+        Valentin Marlin","roleNames":["Songwriter"]
+      accessed: '2026-11-06'
+      locator: Heroina — credits
+    qualifiers:
+      role:
+      - songwriter
+  - value: Qj8bczc
+    references:
+    - source: music.apple.com-us-song-1837544759-58cbb922da3e
+      quote: |-
+        Nicolas Petitfrère","roleNames":["Composer"]
+      accessed: '2026-11-06'
+      locator: Heroina — credits
+    qualifiers:
+      role:
+      - composer
+  - value: Q2b5wvp
+    references:
+    - source: music.apple.com-us-song-1837544759-58cbb922da3e
+      quote: |-
+        La Joaqui","roleNames":["Songwriter"]
+      accessed: '2026-11-06'
+      locator: Heroina — credits
+    qualifiers:
+      role:
+      - songwriter
+  - value: Qw7rste
+    references:
+    - source: music.apple.com-us-song-1837544759-58cbb922da3e
+      quote: |-
+        Adam Vadel","roleNames":["Arranger"]
+      accessed: '2026-11-06'
+      locator: Heroina — credits
+    qualifiers:
+      role:
+      - arranger
+  - value: Qw7rste
+    references:
+    - source: music.apple.com-us-song-1837544759-58cbb922da3e
+      quote: |-
+        Adam Vadel","roleNames":["Producer"]
+      accessed: '2026-11-06'
+      locator: Heroina — credits
+    qualifiers:
+      role:
+      - producer
+  - value: Q5memmb
+    references:
+    - source: music.apple.com-us-song-1837544881-2ee74aa3f76c
+      quote: |-
+        Pabllo Vittar","roleNames":["Songwriter"]
+      accessed: '2026-11-06'
+      locator: Alibi — credits
+    qualifiers:
+      role:
+      - songwriter
+  - value: Qkmx48k
+    references:
+    - source: music.apple.com-us-song-1837544881-2ee74aa3f76c
+      quote: |-
+        Nilusi Nisanka","roleNames":["Songwriter"]
+      accessed: '2026-11-06'
+      locator: Alibi — credits
+    qualifiers:
+      role:
+      - songwriter
+  - value: Q4emn7f
+    references:
+    - source: music.apple.com-us-song-1837544881-2ee74aa3f76c
+      quote: |-
+        Rodrigo Gorky","roleNames":["Songwriter"]
+      accessed: '2026-11-06'
+      locator: Alibi — credits
+    qualifiers:
+      role:
+      - songwriter
+  - value: Qev7m4j
+    references:
+    - source: music.apple.com-us-song-1837544881-2ee74aa3f76c
+      quote: |-
+        Number Teddie","roleNames":["Songwriter"]
+      accessed: '2026-11-06'
+      locator: Alibi — credits
+    qualifiers:
+      role:
+      - songwriter
+  - value: Qpndpy3
+    references:
+    - source: music.apple.com-us-song-1837544881-2ee74aa3f76c
+      quote: |-
+        Summer Disbray","roleNames":["Songwriter"]
+      accessed: '2026-11-06'
+      locator: Alibi — credits
+    qualifiers:
+      role:
+      - songwriter
+  - value: Qej3p6c
+    references:
+    - source: music.apple.com-us-song-1837544881-2ee74aa3f76c
+      quote: |-
+        Mucky","roleNames":["Arranger"]
+      accessed: '2026-11-06'
+      locator: Alibi — credits
+    qualifiers:
+      role:
+      - arranger
+  - value: Qej3p6c
+    references:
+    - source: music.apple.com-us-song-1837544881-2ee74aa3f76c
+      quote: |-
+        Mucky","roleNames":["Producer"]
+      accessed: '2026-11-06'
+      locator: Alibi — credits
+    qualifiers:
+      role:
+      - producer
+  - value: Qd8by26
+    references:
+    - source: music.apple.com-us-song-1837544892-8ba984db5f73
+      quote: |-
+        Merca Bae","roleNames":["Songwriter"]
+      accessed: '2026-11-06'
+      locator: Stripper — credits
+    qualifiers:
+      role:
+      - songwriter
+  - value: Qe73bwd
+    references:
+    - source: music.apple.com-us-song-1837544892-8ba984db5f73
+      quote: |-
+        Mechi Pieretti","roleNames":["Songwriter"]
+      accessed: '2026-11-06'
+      locator: Stripper — credits
+    qualifiers:
+      role:
+      - songwriter
+  - value: Qdvf6e5
+    references:
+    - source: music.apple.com-us-song-1837544892-8ba984db5f73
+      quote: |-
+        Essa Gante","roleNames":["Songwriter"]
+      accessed: '2026-11-06'
+      locator: Stripper — credits
+    qualifiers:
+      role:
+      - songwriter
+  - value: Qw6r7ez
+    references:
+    - source: music.apple.com-us-song-1837544892-8ba984db5f73
+      quote: |-
+        Kenia Guadalupe Flores Osuna","roleNames":["Songwriter"]
+      accessed: '2026-11-06'
+      locator: Stripper — credits
+    qualifiers:
+      role:
+      - songwriter
+  - value: Qbqz64f
+    references:
+    - source: music.apple.com-us-song-1837544895-40d8e381dc2d
+      quote: |-
+        Frankie Scoca","roleNames":["Composer","Lyrics"]
+      accessed: '2026-11-06'
+      locator: Oxytocina — credits
+    qualifiers:
+      role:
+      - composer
+  - value: Qbqz64f
+    references:
+    - source: music.apple.com-us-song-1837544895-40d8e381dc2d
+      quote: |-
+        Frankie Scoca","roleNames":["Composer","Lyrics"]
+      accessed: '2026-11-06'
+      locator: Oxytocina — credits
+    qualifiers:
+      role:
+      - lyricist
+  - value: Qmadfsv
+    references:
+    - source: music.apple.com-us-song-1837544756-0cd77e082d43
+      quote: |-
+        ASONGFORYOU choir","roleNames":["Lyrics"]
+      accessed: '2026-11-06'
+      locator: Intro — credits
+    qualifiers:
+      role:
+      - lyricist
+  listen link:
+  - value: https://music.apple.com/us/album/heroina/1837544742
+    references:
+    - source: music.apple.com-us-album-heroina-1837544742-36302e025395
+      quote: |-
+        HEROINA - Album by Sevdaliza - Apple Music
+      accessed: '2026-10-19'
+  - value: https://open.spotify.com/album/49MiJYe7d4CfKDeJFqAWal
+    references:
+    - source: open.spotify.com-album-49mijye7d4cfkdejfqawal-164e43a8d857
+      quote: |-
+        Listen to HEROINA - Album by Sevdaliza | Spotify
+      accessed: '2026-11-06'
+  - value: https://soundcloud.com/sevdaliza/sets/heroina-5
+    references:
+    - source: soundcloud.com-sevdaliza-sets-heroina-5-3499813e0ef3
+      quote: |-
+        Stream SEVDALIZA | Listen to HEROINA playlist online for free on SoundCloud
+      accessed: '2026-11-06'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/11/29/94112927-c92a-611d-337f-0d1951ec7738/270.jpg/1400x1400bb.jpg
+    references:
+    - source: music.apple.com-us-album-heroina-1837544742-36302e025395
+      quote: |-
+        ‎HEROINA - Album by Sevdaliza - Apple Music
+      accessed: '2026-11-06'

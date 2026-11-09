@@ -1,0 +1,32 @@
+id: Qcjah68
+type: person
+statements:
+  name:
+  - value:
+      text: شهرام شعرباف
+      language: fa
+    references:
+    - source: www.ohum.online-content-about.htm-f0c1f618e8c5
+      quote: گروه راک اوهام در سال 1378 با حضور شهرام شعرباف (خواننده/ گیتار/ کیبورد) ، شاهرخ ایزدخواه (گیتار/سه تار/سینتی سایزر) و بابک ریاحی پور (باس) در تهران شکل گرفت و از آن زمان نزدیک به سه دهه در سبک راک فارسی در داخل ایران فعال بوده است.
+      accessed: '2026-10-19'
+  - value:
+      text: Shahram Sharbaf
+      language: en
+    references:
+    - source: en.wikipedia.org-wiki-o-hum-462fd4f39cb6
+      quote: The original members were singer Shahram Sharbaf, guitarist Shahrokh Izadkhah, and bass guitarist Babak Riahipour.
+      accessed: '2026-10-19'
+  member of:
+  - value: Q6v5vrx
+    references:
+    - source: www.ohum.online-content-about.htm-f0c1f618e8c5
+      quote: گروه راک اوهام در سال 1378 با حضور شهرام شعرباف (خواننده/ گیتار/ کیبورد) ، شاهرخ ایزدخواه (گیتار/سه تار/سینتی سایزر) و بابک ریاحی پور (باس) در تهران شکل گرفت و از آن زمان نزدیک به سه دهه در سبک راک فارسی در داخل ایران فعال بوده است.
+      accessed: '2026-10-19'
+    qualifiers:
+      role:
+      - vocals
+      - guitar
+      - keyboards
+      start time:
+        date: '1378'
+        calendar: jalali

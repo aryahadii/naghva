@@ -1,0 +1,85 @@
+id: Q8mcw4k
+type: release
+statements:
+  name:
+  - value:
+      text: I May Never See You Again
+      language: en
+    references:
+    - &id001
+      source: sabaalizadeh.bandcamp.com-album-i-may-never-see-you-again-fdbe3dc5b47c
+      quote: I May Never See You Again
+      accessed: '2026-11-06'
+  - value:
+      text: شاید هرگز تو را نبینم
+      language: fa
+    references:
+    - source: sabaalizadeh.bandcamp.com-album-i-may-never-see-you-again-fdbe3dc5b47c
+      quote: شاید هرگز تو را نبینم
+      accessed: '2026-11-06'
+  performer:
+  - value: Qgbbc6t
+    references:
+    - *id001
+  - value: Q442q27
+    references:
+    - source: sabaalizadeh.bandcamp.com-album-i-may-never-see-you-again-fdbe3dc5b47c
+      quote: I May Never See You Again also features handpicked collaborations with musician Andreas Spechtl and
+        electroacoustic sound artist Rojin Sharafi. Spechtl, singer of the band Ja, Panik, found fame in the German-speaking
+        world primarily thanks to his song lyrics, in which he deconstructs words in a similarly abstract way as
+        Saba Alizadeh does the music.
+      accessed: '2026-11-06'
+  - value: Q5vptv5
+    references:
+    - source: sabaalizadeh.bandcamp.com-album-i-may-never-see-you-again-fdbe3dc5b47c
+      quote: I May Never See You Again also features handpicked collaborations with musician Andreas Spechtl and
+        electroacoustic sound artist Rojin Sharafi. Spechtl, singer of the band Ja, Panik, found fame in the German-speaking
+        world primarily thanks to his song lyrics, in which he deconstructs words in a similarly abstract way as
+        Saba Alizadeh does the music.
+      accessed: '2026-11-06'
+  release date:
+  - value:
+      date: '2021-07-08'
+    references:
+    - source: sabaalizadeh.bandcamp.com-album-i-may-never-see-you-again-fdbe3dc5b47c
+      quote: released July 8, 2021
+      accessed: '2026-11-06'
+  listen link:
+  - value: https://sabaalizadeh.bandcamp.com/album/i-may-never-see-you-again
+    references:
+    - *id001
+  - value: https://music.apple.com/us/album/i-may-never-see-you-again/1561974706
+    references:
+    - source: music.apple.com-us-album-i-may-never-see-you-again-1561974706-09e47eb236a2
+      quote: |-
+        I May Never See You Again
+        Saba Alizadeh
+        Electronica · 2021
+      accessed: '2026-11-06'
+  - value: https://open.spotify.com/album/3jtkIJTgqyvwBY5BT4Aw5d
+    references:
+    - source: open.spotify.com-embed-album-3jtkijtgqyvwby5bt4aw5d-81be48dbbdf2
+      quote: |-
+        I May Never See You Again
+        ·
+        Saba Alizadeh
+      accessed: '2026-11-06'
+  cover art:
+  - value: https://f4.bcbits.com/img/a3519258450_10.jpg
+    references:
+    - source: sabaalizadeh.bandcamp.com-album-i-may-never-see-you-again-fdbe3dc5b47c
+      quote: https://f4.bcbits.com/img/a3519258450_10.jpg
+      accessed: '2026-11-06'
+    qualifiers:
+      credit:
+        text: sabaalizadeh.bandcamp.com
+        language: en
+  published by:
+  - value: Qxyvth5
+    references:
+    - source: 30m-records.com-saba-alizadeh-i-may-never-see-you-again-b23454bd87fe
+      quote: |-
+        Saba Alizadeh – I May Never See You Again
+        SMR003 – 08 July 2021
+        Saba Alizadeh – I MAY NEVER SEE YOU AGAIN
+      accessed: '2026-11-06'

@@ -1,0 +1,72 @@
+id: Qeca3rf
+type: person
+statements:
+  name:
+  - value:
+      text: آرش سبحانی
+      language: fa
+    references:
+    - source: www.radiofarda.com-amp-iv-arash-sobhani-album-music-dood-33559507.html-0613e462fa16
+      quote: آرش سبحانی؛ شروع یک تجربه با «دود»
+      accessed: '2026-10-19'
+  - value:
+      text: Arash Sobhani
+      language: en
+    references:
+    - source: arashsobhani.com-about-1cc18069b47f
+      quote: Arash Sobhani is a songwriter and guitarist, known for his sharp lyricism and as the founder
+        of Kiosk, a cornerstone of Iranian alternative music.
+      accessed: '2026-10-19'
+  member of:
+  - value: Qtgn2be
+    qualifiers:
+      role:
+      - vocals
+      - guitar
+      - lyricist
+      - composer
+    references:
+    - source: arashsobhani.com-about-1cc18069b47f
+      quote: Arash Sobhani, as the vocalist, guitarist, lyricist, and songwriter of the Iranian rock band
+        Kiosk, has recorded eleven albums since the band’s formation in Tehran in 2003 and its subsequent
+        relocation to the United States in 2005.
+      accessed: '2026-10-19'
+  image:
+  - value: https://arashsobhani.com/wp-content/uploads/2025/08/%D8%AD%D8%AD%D8%AD%DB%B5.png
+    references:
+    - source: arashsobhani.com-gallery
+      quote: Gallery - Arash Sobhani
+      accessed: '2026-10-19'
+    - source: arashsobhani.com-gallery
+      quote: https://arashsobhani.com/wp-content/uploads/2025/08/%D8%AD%D8%AD%D8%AD%DB%B5.png
+      accessed: '2026-10-19'
+    qualifiers:
+      credit:
+        text: arashsobhani.com
+        language: en
+  profile link:
+  - value: https://www.youtube.com/channel/UCbRa6dY7rTjFW4D4_W0OV9g
+    references:
+    - source: arashsobhani.com-gallery
+      quote: Gallery - Arash Sobhani
+      accessed: '2026-10-19'
+    - source: arashsobhani.com-gallery
+      quote: https://www.youtube.com/channel/UCbRa6dY7rTjFW4D4_W0OV9g
+      accessed: '2026-10-19'
+  - value: https://open.spotify.com/artist/05h18fEJQP6vYvGquQOOrJ
+    references:
+    - source: open.spotify.com-artist-05h18fejqp6vyvgquqoorj
+      quote: Arash Sobhani
+      accessed: '2026-11-06'
+  - value: https://music.apple.com/us/artist/arash-sobhani/128336084
+    references:
+    - source: music.apple.com-us-artist-arash-sobhani-128336084
+      quote: Arash Sobhani - Apple Music
+      accessed: '2026-11-06'
+  - value: https://soundcloud.com/arashsobhani
+    references:
+    - source: soundcloud.com-arashsobhani
+      quote: 'Arash Sobhani
+
+        From Kiosk to Solo'
+      accessed: '2026-11-06'

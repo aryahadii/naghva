@@ -1,0 +1,45 @@
+id: Qwwrah5
+type: person
+statements:
+  name:
+  - value:
+      text: رضا شایا
+      language: fa
+    references:
+    - &id001
+      source: web.archive.org-pelak52-dangshow-interview-652b1f82acad
+      quote: 'از راست : طاها پارسا و رضا شایا شجاع نوری'
+      accessed: '2026-11-06'
+    rank: preferred
+  - value:
+      text: Shaya Shoja
+      language: en
+    references:
+    - source: soundcloud.com-reza-shaya-3e6fa6041d66
+      quote: Shaya Shoja
+      accessed: '2026-11-06'
+    rank: preferred
+  - value:
+      text: Reza Shaya
+      language: en
+    references:
+    - source: soundcloud.com-reza-shaya-3e6fa6041d66
+      quote: 'Lullaby - Reza Shaya ( Feat. Ghazal ) -  2020
+
+        by'
+      accessed: '2026-11-06'
+  member of:
+  - value: Q8cs7j8
+    references:
+    - source: soundcloud.com-dangshow-ea5e48315bac
+      quote: 'Dang Show  دنگ شو
+
+        Dang Show
+
+        Toronto
+
+        Since 2004 Music, Romance and more...
+
+        Founders: Taha Parsa, @reza-shaya'
+      accessed: '2026-11-06'
+    - *id001

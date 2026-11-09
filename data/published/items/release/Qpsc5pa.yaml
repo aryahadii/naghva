@@ -1,0 +1,49 @@
+id: Qpsc5pa
+type: release
+statements:
+  name:
+  - value:
+      text: A Persian Dream
+      language: en
+    references:
+    - &id001
+      source: music.apple.com-us-album-a-persian-dream-882963470-862566023fcb
+      quote: |-
+        A Persian Dream
+      accessed: '2026-10-22'
+  performer:
+  - value: Q73gnev
+    references:
+    - source: music.apple.com-us-album-a-persian-dream-882963470-862566023fcb
+      quote: |-
+        Tara Tiba
+      accessed: '2026-10-22'
+  release date:
+  - value:
+      date: '2014-05-16'
+    references:
+    - source: music.apple.com-us-album-a-persian-dream-882963470-862566023fcb
+      quote: |-
+        May 16, 2014 9 songs, 43 minutes ℗ 2014 Tara Tiba
+      accessed: '2026-10-22'
+  listen link:
+  - value: https://music.apple.com/us/album/a-persian-dream/882963470
+    references:
+    - *id001
+  - value: https://open.spotify.com/album/2kP2XwB91VNwwtQfUg2Hqb
+    references:
+    - source: open.spotify.com-12a68
+      quote: |-
+        Listen to A Persian Dream - Album by Tara Tiba | Spotify
+      accessed: '2026-10-22'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/f7/f4/d9/f7f4d942-e3fd-de58-d27a-d5a763be78d6/888174803104.jpg/600x600bb.jpg
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-a-persian-dream-882963470-862566023fcb
+      quote: |-
+        https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/f7/f4/d9/f7f4d942-e3fd-de58-d27a-d5a763be78d6/888174803104.jpg/600x600bb.jpg
+      accessed: '2026-10-22'

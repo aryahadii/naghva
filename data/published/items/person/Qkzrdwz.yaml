@@ -1,0 +1,16 @@
+id: Qkzrdwz
+type: person
+statements:
+  name:
+  - value:
+      text: Sina Saeidi
+      language: en
+    references: &id001
+    - source: soundcloud.com-moodymoussavi-nish-3ad22ef6eb09
+      quote: 'Producer: Sina Saeidi'
+      accessed: '2026-11-06'
+  - value:
+      text: سینا سعیدی
+      language: fa
+    # Editorial Persian display spelling; source uses the Latin name.
+    references: *id001

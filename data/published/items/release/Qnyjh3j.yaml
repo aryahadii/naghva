@@ -1,0 +1,87 @@
+id: Qnyjh3j
+type: release
+statements:
+  name:
+  - value:
+      text: Deltang Show
+      language: en
+    references:
+    - &id001
+      source: music.apple.com-us-album-deltang-show-1570098732-aaef01174185
+      quote: 'Deltang Show
+
+        Dang Show
+
+        Pop · 2018'
+      accessed: '2026-11-06'
+  - value:
+      text: دلتنگ شو
+      language: fa
+    references:
+    - &id002
+      source: fa.wikipedia.org-wiki-d8-af-d9-86-da-af_-d8-b4-d9-88-074b776d9d76
+      quote: دومین آلبوم گروه با نام «دلتنگ شو» در سال ۱۳۹۱ منتشر شد که در آن علی زند وکیلی به‌عنوان خوانندهٔ جدید گروه معرفی گردید.
+      accessed: '2026-11-06'
+    rank: preferred
+  performer:
+  - value: Q8cs7j8
+    references:
+    - *id001
+  - value: Qcg7vg5
+    qualifiers:
+      role: vocals
+    references:
+    - source: fa.wikipedia.org-wiki-d8-af-d9-86-da-af_-d8-b4-d9-88-074b776d9d76
+      quote: دومین آلبوم گروه با نام «دلتنگ شو» در سال ۱۳۹۱ منتشر شد که در آن علی زند وکیلی به‌عنوان خوانندهٔ جدید گروه معرفی گردید.
+      accessed: '2026-11-06'
+  release date:
+  - value:
+      date: '2018-09-10'
+    references:
+    - source: music.apple.com-us-album-deltang-show-1570098732-aaef01174185
+      quote: September 10, 2018
+      accessed: '2026-11-06'
+  - value:
+      date: '1391'
+      calendar: jalali
+    references:
+    - *id002
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/8d/8e/68/8d8e68cb-8621-5734-71f8-823fc6f07ba7/196006662035.jpg/632x632bb.webp
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en
+    references:
+    - *id001
+    - source: music.apple.com-us-album-deltang-show-1570098732-aaef01174185
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/8d/8e/68/8d8e68cb-8621-5734-71f8-823fc6f07ba7/196006662035.jpg/632x632bb.webp
+      accessed: '2026-11-06'
+  listen link:
+  - value: https://music.apple.com/us/album/deltang-show/1570098732
+    references:
+    - source: music.apple.com-us-album-deltang-show-1570098732-aaef01174185
+      quote: 'Deltang Show
+
+        Dang Show
+
+        Pop · 2018'
+      accessed: '2026-11-06'
+  - value: https://open.spotify.com/album/75yBMgViTgmok9mr92VvNs
+    references:
+    - source: open-spotify-com-album-75ybmgvitgmok9mr92vvns-8f033613ace1
+      quote: Listen to Deltang Show - Album by Dang Show | Spotify
+      accessed: '2026-11-06'
+  - value: https://soundcloud.com/dangshow/sets/deltang-show
+    references:
+    - source: soundcloud-com-dangshow-sets-deltang-show-6f09f0b13d6f
+      quote: 'Deltang Show
+
+        by Dang Show  دنگ شو'
+      accessed: '2026-11-06'
+  published by:
+  - value: Qkmvbxz
+    references:
+    - source: www-qobuz-com-us-en-album-deltang-show-dang-show-zoasdvf4l7abc-ef09d56d5f20
+      quote: 'Label: Raha Records'
+      accessed: '2026-11-06'

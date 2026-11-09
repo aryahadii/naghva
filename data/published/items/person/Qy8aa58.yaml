@@ -1,0 +1,16 @@
+id: Qy8aa58
+type: person
+statements:
+  name:
+  - value:
+      text: Miriam Encinas
+      language: en
+    references: &id001
+    - source: azamali.bandcamp.com-track-once-more-all-is-green-45d81a074e57
+      quote: 'released December 24, 2025 Musicians: Azam Ali- Voice, Production Efren Lopez- Rabab, Santoor, Daf, Tanpura, Kudum, Additional Production Miriam Encinas- Dilruba Ciro- Montanari- Tabla Mixed by Loga Ramin Torkian'
+      accessed: '2026-11-06'
+  # Persian display name is editorial; the reference establishes the original name.
+  - value:
+      text: میریام انسیناس
+      language: fa
+    references: *id001

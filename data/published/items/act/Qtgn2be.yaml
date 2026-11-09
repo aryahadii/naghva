@@ -1,0 +1,73 @@
+id: Qtgn2be
+type: act
+statements:
+  name:
+  - value:
+      text: کیوسک
+      language: fa
+    references:
+    - source: www.kiosktheband.com-the-band-35235d067344
+      quote: |-
+        Kiosk (Persian: کیوسک‎) is a rock band formed in Tehran in 2003, known for its blend of musical styles and its wry lyrics confronting Iranian cultural angst.
+      accessed: '2026-10-19'
+  - value:
+      text: Kiosk
+      language: en
+    references:
+    - source: www.kiosktheband.com-the-band-35235d067344
+      quote: |-
+        Kiosk (Persian: کیوسک‎) is a rock band formed in Tehran in 2003, known for its blend of musical styles and its wry lyrics confronting Iranian cultural angst.
+      accessed: '2026-10-19'
+  formation date:
+  - value:
+      date: '2003'
+    references:
+    - source: www.kiosktheband.com-the-band-35235d067344
+      quote: |-
+        Kiosk (Persian: کیوسک‎) is a rock band formed in Tehran in 2003, known for its blend of musical styles and its wry lyrics confronting Iranian cultural angst.
+      accessed: '2026-10-19'
+  image:
+  - value: https://static.wixstatic.com/media/c4948f_0936e5ed3d6040579a8d44e287ac1966~mv2.jpg
+    references:
+    - source: www.kiosktheband.com-photos
+      quote: PHOTOS | KIOSK
+      accessed: '2026-10-19'
+    - source: www.kiosktheband.com-photos
+      quote: https://static.wixstatic.com/media/c4948f_0936e5ed3d6040579a8d44e287ac1966~mv2.jpg
+      accessed: '2026-10-19'
+    qualifiers:
+      credit:
+        text: www.kiosktheband.com
+        language: en
+  profile link:
+  - value: https://soundcloud.com/kiosktheband
+    references:
+    - source: www.kiosktheband.com
+      quote: KIOSK THE BAND
+      accessed: '2026-10-19'
+    - source: www.kiosktheband.com
+      quote: https://soundcloud.com/kiosktheband
+      accessed: '2026-10-19'
+  - value: https://youtube.com/user/kiosktheband
+    references:
+    - source: www.kiosktheband.com
+      quote: KIOSK THE BAND
+      accessed: '2026-10-19'
+    - source: www.kiosktheband.com
+      quote: https://www.youtube.com/user/kiosktheband
+      accessed: '2026-10-19'
+  - value: https://open.spotify.com/artist/42o3S5oDd4Q4YyMNRmN5oS
+    references:
+    - source: www.youtube.com-user-kiosktheband
+      quote: https://open.spotify.com/artist/42o3S5oDd4Q4YyMNRmN5oS?si=5mnTBlZgSuGPP9Dt4N2dog
+      accessed: '2026-10-23'
+  - value: https://music.apple.com/us/artist/kiosk/78577959
+    references:
+    - source: www.youtube.com-user-kiosktheband
+      quote: https://music.apple.com/us/artist/kiosk/78577959
+      accessed: '2026-10-23'
+  - value: https://t.me/KioskTheBand
+    references:
+    - source: t.me-kiosktheband
+      quote: https://t.me/KioskTheBand
+      accessed: '2026-10-23'

@@ -1,0 +1,29 @@
+# Event titles are editorial descriptions of the documented performances.
+id: Q6z2wpn
+type: event
+statements:
+  name:
+  - value:
+      text: کنسرت فرهاد در وین
+      language: fa
+    references:
+    - &id001
+      source: www.farhadmehrad.org-farhad-mehrad-discography-b42b4c18ab12
+      quote: 'فرهاد پیش از دریافت مجوز برای انتشار اولین آلبوم اش پس از انقلاب، کنسرتی در سال 1371 در وین اتریش برگزار کرد. او در این کنسرت علاوه بر اجرای زنده آثار قدیمی، سه قطعه که هنوز منتشر نشده بود را برای اولین بار اجرا کرد: کوچ بنفشه ها، خیال خوشی و خواب در بیداری. این کنسرت به صورت صوتی ضبط شده است و در سال 1399 به همت امید هاشملو پس از ریمستر و پالایش صدا منتشر شد.'
+      accessed: '2026-10-23'
+      locator: Official discography, vienna
+  - value:
+      text: Farhad concert in Vienna
+      language: en
+    references:
+    - *id001
+  event date:
+  - value:
+      date: '1371'
+      calendar: jalali
+    references:
+    - *id001
+  performer:
+  - value: Qq6xyzn
+    references:
+    - *id001

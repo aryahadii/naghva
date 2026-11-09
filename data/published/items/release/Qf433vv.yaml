@@ -1,0 +1,82 @@
+id: Qf433vv
+type: release
+statements:
+  name:
+  - value:
+      text: جنابِ اَبر
+      language: fa
+    references:
+    - source: t.me-jumamusic-82
+      quote: |-
+        جنابِ اَبر
+      accessed: '2026-10-22'
+  release date:
+  - value:
+      date: '1401-11-29'
+      calendar: jalali
+    references:
+    - source: t.me-jumamusic-82
+      quote: 'نشر: ۲۹ بهمن‌ماه ۱۴۰۱'
+      accessed: '2026-10-22'
+  performer:
+  - value: Q48zttz
+    references:
+    - source: t.me-jumamusic-82
+      quote: 'آهنگ و اجرا: جوما'
+      accessed: '2026-10-22'
+  - value: Q95k47m
+    references:
+    - source: soundcloud.com-jumaprojets-jenabe-abr
+      quote: 'آهنگ و اجرا: جوما (همراه با صدای شاعر)'
+      accessed: '2026-10-22'
+    - source: t.me-jumamusic-82
+      quote: 'شعر: بیژن نجدی/ دهه‌ی‌۶۰'
+      accessed: '2026-10-22'
+  contributor:
+  - value: Q95k47m
+    qualifiers:
+      role:
+      - lyricist
+    references:
+    - source: t.me-jumamusic-82
+      quote: 'شعر: بیژن نجدی/ دهه‌ی‌۶۰'
+      accessed: '2026-10-22'
+  - value: Q48zttz
+    qualifiers:
+      role:
+      - composer
+    references:
+    - source: t.me-jumamusic-82
+      quote: 'آهنگ و اجرا: جوما'
+      accessed: '2026-10-22'
+  listen link:
+  - value: https://t.me/jumamusic/82
+    references:
+    - source: t.me-jumamusic-82
+      quote: |-
+        جنابِ اَبر
+        آهنگ و اجرا: جوما
+      accessed: '2026-10-22'
+  - value: https://www.youtube.com/watch?v=9KH6kj5szVc
+    references:
+    - source: youtube.com-watch-9kh6kj5szvc
+      quote: |-
+        juma. jenabe abr
+      accessed: '2026-10-22'
+  - value: https://soundcloud.com/jumaprojets/jenabe-abr
+    references:
+    - source: soundcloud.com-jumaprojets-jenabe-abr
+      quote: |-
+        Jenabe abr -جنابِ اَبر
+      accessed: '2026-10-22'
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-DdEqkIfaeFytE1Xw-QU4AXA-t500x500.jpg
+    qualifiers:
+      credit:
+        text: Jumaprojets / SoundCloud
+        language: en
+    references:
+    - source: soundcloud.com-jumaprojets-jenabe-abr
+      quote: |-
+        Jenabe abr -جنابِ اَبر
+      accessed: '2026-10-22'

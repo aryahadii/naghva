@@ -1,0 +1,35 @@
+id: Qam3rew
+type: release
+statements:
+  name:
+  - value:
+      text: Nameh Be Sardar (Letter to the Sardar)
+      language: en
+    references:
+    - &id001
+      source: www.kiosktheband.com-the-band-35235d067344
+      quote: '2009: Nameh Be Sardar (Letter to the Sardar)'
+      accessed: '2026-10-19'
+  # Editorial Persian display spelling; source uses the Latin name.
+  - value:
+      text: نامه به سردار
+      language: fa
+    references:
+    - source: www.kiosktheband.com-the-band-35235d067344
+      quote: '2009: Nameh Be Sardar (Letter to the Sardar)'
+      accessed: '2026-10-19'
+  performer:
+  - value: Qtgn2be
+    references:
+    - *id001
+  release date:
+  - value:
+      date: '2009'
+    references:
+    - *id001
+  listen link:
+  - value: https://soundcloud.com/kiosktheband/kiosk-nameh-be-sardar
+    references:
+    - source: soundcloud.com-kiosktheband-kiosk-nameh-be-sardar
+      quote: Kiosk Nameh Be Sardar
+      accessed: '2026-10-19'

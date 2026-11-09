@@ -1,0 +1,23 @@
+id: Q6f7y3d
+type: event
+statements:
+  name:
+  - value:
+      text: Pallett Live in Milan
+      language: en
+    references:
+    - &id001
+      source: volek.events-event-pallett-live-in-milan-2025
+      quote: Pallett Live in Milan
+      accessed: '2026-10-19'
+  event date:
+  - value:
+      date: '2025-11-08'
+    references:
+    - source: pallettmusic.com-7d0b6e14b735
+      quote: Saturday, November 08, 2025
+      accessed: '2026-10-19'
+  performer:
+  - value: Qq5328q
+    references:
+    - *id001

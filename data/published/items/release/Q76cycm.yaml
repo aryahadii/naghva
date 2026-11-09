@@ -1,0 +1,47 @@
+id: Q76cycm
+type: release
+statements:
+  name:
+  - value:
+      text: '"The bird with the accent"    بلبل لهجه دار'
+      language: en
+    references:
+    - &id001
+      source: sabaalizadeh.bandcamp.com-track-the-bird-with-the-accent-8fd10aa1bbbc
+      quote: |-
+        "The bird with the accent"    بلبل لهجه دار
+        by
+        Saba Alizadeh
+      accessed: '2026-11-06'
+  - value:
+      text: بلبل لهجه دار
+      language: fa
+    references:
+    - source: sabaalizadeh.bandcamp.com-track-the-bird-with-the-accent-8fd10aa1bbbc
+      quote: بلبل لهجه دار
+      accessed: '2026-11-06'
+  performer:
+  - value: Qgbbc6t
+    references:
+    - *id001
+  release date:
+  - value:
+      date: '2014-01-14'
+    references:
+    - source: sabaalizadeh.bandcamp.com-track-the-bird-with-the-accent-8fd10aa1bbbc
+      quote: released January 14, 2014
+      accessed: '2026-11-06'
+  listen link:
+  - value: https://sabaalizadeh.bandcamp.com/track/the-bird-with-the-accent
+    references:
+    - *id001
+  cover art:
+  - value: https://f4.bcbits.com/img/a0172526897_10.jpg
+    references:
+    - source: sabaalizadeh.bandcamp.com-track-the-bird-with-the-accent-8fd10aa1bbbc
+      quote: https://f4.bcbits.com/img/a0172526897_10.jpg
+      accessed: '2026-11-06'
+    qualifiers:
+      credit:
+        text: sabaalizadeh.bandcamp.com
+        language: en

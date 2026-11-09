@@ -1,0 +1,96 @@
+id: Qangczw
+type: release
+statements:
+  name:
+  - value:
+      text: Motantan
+      language: en
+    references:
+    - source: music.apple.com-us-album-motantan-1502162077-d6430986465b
+      quote: |-
+        Motantan
+        Mohsen Namjoo
+        Rock · 2020
+      accessed: '2026-10-19'
+  - value:
+      text: مطنطن
+      language: fa
+    references:
+    - source: www.radiofarda.com-a-mohsen-namjoo-iv-motantan-30477486.html-bfb91701084d
+      quote: |-
+        «مطنطن» نام آلبوم جدید محسن نامجو است. این آلبوم مجموعه‌های از ساخته‌های این خواننده را در بر می‌گیرد که بین سال‌های ۷۵ تا ۹۸ نوشته و ساخته شده‌اند.
+      accessed: '2026-10-19'
+  performer:
+  - value: Qt6wjbg
+    references:
+    - source: music.apple.com-us-album-motantan-1502162077-d6430986465b
+      quote: |-
+        Motantan
+        Mohsen Namjoo
+        Rock · 2020
+      accessed: '2026-10-19'
+  - value: Qt6wjbg
+    qualifiers:
+      role: setar
+    references:
+    - source: www.radiofarda.com-a-mohsen-namjoo-iv-motantan-30477486.html-bfb91701084d
+      quote: |-
+        افزوده شدن سازهایی اضافه بر آن چهار ساز اصلی است که ما همیشه استفاده می‌کنیم، یعنی گیتار، گیتارباس، درامز و خود من با سه تار.
+      accessed: '2026-11-03'
+  contributor:
+  - value: Qt6wjbg
+    qualifiers:
+      role:
+      - composer
+    references:
+    - source: www.radiofarda.com-a-mohsen-namjoo-iv-motantan-30477486.html-bfb91701084d
+      quote: |-
+        «مطنطن» نام آلبوم جدید محسن نامجو است. این آلبوم مجموعه‌های از ساخته‌های این خواننده را در بر می‌گیرد که بین سال‌های ۷۵ تا ۹۸ نوشته و ساخته شده‌اند.
+      accessed: '2026-11-03'
+  release date:
+  - value:
+      date: '2020-03-04'
+    references:
+    - source: music.apple.com-us-album-motantan-1502162077-d6430986465b
+      quote: |-
+        March 4, 2020
+        13 songs, 1 hour 9 minutes
+        ℗ 2020 Mohsen Namjoo
+      accessed: '2026-10-19'
+  listen link:
+  - value: https://music.apple.com/us/album/motantan/1502162077
+    references:
+    - source: music.apple.com-us-album-motantan-1502162077-d6430986465b
+      quote: |-
+        Motantan
+        Mohsen Namjoo
+        Rock · 2020
+      accessed: '2026-10-19'
+  - value: https://open.spotify.com/album/2sdduh2Zk70D1SkafLvsYO
+    references:
+    - source: open.spotify.com-album-2sdduh2zk70d1skaflvsyo
+      quote: |-
+        Listen to Motantan - Album by Mohsen Namjoo | Spotify
+      accessed: '2026-11-03'
+  - value: https://www.youtube.com/playlist?list=OLAK5uy_mc8VR1TtOJTtJPV8jkEHHXtBIUXry6ixA
+    references:
+    - source: www.youtube.com-playlist-list-olak5uy_mc8vr1ttojttjpv8jkehhxtbiuxry6ixa
+      quote: |-
+        Motantan - YouTube
+        Mohsen Namjoo • Album
+      accessed: '2026-11-03'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/d1/f9/db/d1f9dbe2-9e39-ac44-d2f6-412fa779e9d9/676868225055.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-motantan-1502162077-d6430986465b
+      quote: |-
+        Motantan by Mohsen Namjoo on Apple Music
+      accessed: '2026-10-19'
+    - source: music.apple.com-us-album-motantan-1502162077-d6430986465b
+      quote: |-
+        https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/d1/f9/db/d1f9dbe2-9e39-ac44-d2f6-412fa779e9d9/676868225055.jpg/1200x630bb.jpg
+      accessed: '2026-10-19'
+    qualifiers:
+      credit:
+        text: music.apple.com
+        language: en

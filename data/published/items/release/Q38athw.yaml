@@ -1,0 +1,67 @@
+id: Q38athw
+type: release
+statements:
+  name:
+  - value:
+      text: Aloodeh
+      language: en
+    references:
+    - source: music.apple.com-us-album-aloodeh-923252641-74407e100901
+      quote: 'Listen to Aloodeh by O-Hum on Apple Music. 2005. 12 Songs. Duration: 51 minutes.'
+      accessed: '2026-10-19'
+  - value:
+      text: آلوده
+      language: fa
+    references:
+    - source: www.ohum.online-content-music.htm-2e40e28756cb
+      quote: |-
+        آلوده 1384
+      accessed: '2026-10-23'
+  release date:
+  - value:
+      date: '2005-12-09'
+    references:
+    - source: music.apple.com-us-album-aloodeh-923252641-74407e100901
+      quote: '"datePublished":"2005-12-09"'
+      accessed: '2026-10-19'
+  performer:
+  - value: Q6v5vrx
+    references:
+    - source: music.apple.com-us-album-aloodeh-923252641-74407e100901
+      quote: 'Listen to Aloodeh by O-Hum on Apple Music. 2005. 12 Songs. Duration: 51 minutes.'
+      accessed: '2026-10-19'
+  contributor:
+  - value: Qcjah68
+    qualifiers:
+      role:
+      - producer
+    references:
+    - source: web.archive.org-web-20110717075338-http-o-hum.com-music.htm-68b008037278
+      quote: 'Aloodeh [Infected] Release date: December.2005'
+      accessed: '2026-10-23'
+    - source: web.archive.org-web-20110717075338-http-o-hum.com-music.htm-68b008037278
+      quote: |-
+        Written\Produced & Engineered by Shahram Sharbaf
+      accessed: '2026-10-23'
+  listen link:
+  - value: https://music.apple.com/us/album/aloodeh/923252641
+    references:
+    - source: music.apple.com-us-album-aloodeh-923252641-74407e100901
+      quote: 'Listen to Aloodeh by O-Hum on Apple Music. 2005. 12 Songs. Duration: 51 minutes.'
+      accessed: '2026-10-19'
+  - value: https://open.spotify.com/album/7JgFv3MJfJKPURw7XTQGVF
+    references:
+    - source: open.spotify.com-album-7jgfv3mjfjkpurw7xtqgvf-e825830f3c03
+      quote: |-
+        Listen to Aloodeh - Album by O-Hum | Spotify
+      accessed: '2026-10-23'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/be/da/f4/bedaf40c-08aa-38f5-851a-10ea68e3e7b4/205581.jpg/296x296bb.webp
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-aloodeh-923252641-74407e100901
+      quote: 'Listen to Aloodeh by O-Hum on Apple Music. 2005. 12 Songs. Duration: 51 minutes.'
+      accessed: '2026-10-19'

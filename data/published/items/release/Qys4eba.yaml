@@ -1,0 +1,53 @@
+id: Qys4eba
+type: release
+statements:
+  name:
+  - value:
+      text: ویگن
+      language: fa
+    references:
+    - source: b-bandmusic.com-music
+      quote: |-
+        Vigen | ویگن by B-band|بی‌بند
+      accessed: '2026-10-19'
+  - value:
+      text: Vigen
+      language: en
+    references:
+    - source: b-bandmusic.com-music
+      quote: |-
+        Vigen | ویگن by B-band|بی‌بند
+      accessed: '2026-10-19'
+  performer:
+  - value: Qz4yq6v
+    references:
+    - source: b-bandmusic.com-music
+      quote: |-
+        Vigen | ویگن by B-band|بی‌بند
+      accessed: '2026-10-19'
+  listen link:
+  - value: https://music.apple.com/us/album/vigen-ep/1731812536
+    references:
+    - source: music.apple.com-us-album-vigen-ep-1731812536
+      quote: 'Listen to Vigen - EP by B-BAND on Apple Music. 2023. 4 Songs. Duration: 15 minutes.'
+      accessed: '2026-10-19'
+  release date:
+  - value:
+      date: '2023-11-10'
+    references:
+    - source: music.apple.com-us-album-vigen-ep-1731812536
+      quote: '"datePublished":"2023-11-10"'
+      accessed: '2026-10-19'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/91/9f/d1/919fd158-be26-cb56-5c48-648cc38eee90/735910300154_cover.jpg/600x600bb.jpg
+    references:
+    - source: music.apple.com-us-album-vigen-ep-1731812536
+      quote: 'Listen to Vigen - EP by B-BAND on Apple Music. 2023. 4 Songs. Duration: 15 minutes.'
+      accessed: '2026-10-19'
+    - source: music.apple.com-us-album-vigen-ep-1731812536
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/91/9f/d1/919fd158-be26-cb56-5c48-648cc38eee90/735910300154_cover.jpg/1200x630bb.jpg
+      accessed: '2026-10-19'
+    qualifiers:
+      credit:
+        text: music.apple.com
+        language: en

@@ -1,0 +1,81 @@
+id: Q8cs7j8
+type: act
+statements:
+  name:
+  - value:
+      text: Dang Show
+      language: en
+    references:
+    - source: en.wikipedia.org-wiki-dang_show-628499ba58b4
+      quote: 'Dang Show is an Iranian music band formed in 2007 by two brothers: Taha Parsa, and Shaya Shoja.'
+      accessed: '2026-10-19'
+  - value:
+      text: دنگ شو
+      language: fa
+    references:
+    - source: fa.wikipedia.org-wiki-d8-af-d9-86-da-af_-d8-b4-d9-88-074b776d9d76
+      quote: دنگ شو نام یک گروه موسیقی تلفیقی ایرانی است که فعالیت خود را از سال ۱۳۸۳ آغاز کرد.
+      accessed: '2026-10-19'
+  formation date:
+  - value:
+      date: '2004'
+    references:
+    - &id001
+      source: soundcloud.com-dangshow-ea5e48315bac
+      quote: 'Dang Show  دنگ شو
+
+        Dang Show
+
+        Toronto
+
+        Since 2004 Music, Romance and more...
+
+        Founders: Taha Parsa, @reza-shaya'
+      accessed: '2026-11-06'
+  - value:
+      date: '2006'
+    references:
+    - source: web.archive.org-pelak52-dangshow-interview-652b1f82acad
+      quote: اشاره :سال ۲۰۰۶ گروهی پا به عرصه وجود گذاشت به نام «دنگ شو» که با خود شیوه‌ای جدید از تولید ترانه فارسی را به ارمغان آورد.
+      accessed: '2026-11-06'
+  - value:
+      date: '2007'
+    references:
+    - source: www.homaentertainment.com-artists-0c9544287eb7
+      quote: 'Dang Show is an Iranian music band formed in 2007 by two brothers: Taha Parsa, and Shaya Shoja.'
+      accessed: '2026-11-06'
+  based in:
+  - value: Q9yx7ys
+    references:
+    - *id001
+  profile link:
+  - value: https://soundcloud.com/dangshow
+    references:
+    - *id001
+  - value: https://music.apple.com/us/artist/dang-show/386749919
+    references:
+    - source: music.apple.com-us-album-shiraz-40-year-old-1570098638-b4b4d2fb8271
+      quote: 'Shiraz 40 Year Old
+
+        Dang Show
+
+        Pop · 2010'
+      accessed: '2026-11-06'
+  - value: https://open.spotify.com/artist/1aAvWm4c1RQ2HnxFQYGFKS
+    references:
+    - source: open-spotify-com-album-3lgxdqvtrnvuzkfvrmydyq-c4dd1b624474
+      quote: Listen to Shiraz 40 Year Old - Album by Dang Show | Spotify
+      accessed: '2026-11-06'
+  image:
+  - value: https://static.wixstatic.com/media/abe319_d151b7cfe02144ebb4b6f13235c4c221~mv2.jpg
+    qualifiers:
+      credit:
+        text: Homa Entertainment
+        language: en
+    references:
+    - source: www.homaentertainment.com-artists-0c9544287eb7
+      quote: 'Dang Show is an Iranian music band formed in 2007 by two brothers: Taha Parsa, and Shaya Shoja.'
+      accessed: '2026-11-06'
+    - source: www.homaentertainment.com-artists-0c9544287eb7
+      quote: https://static.wixstatic.com/media/abe319_d151b7cfe02144ebb4b6f13235c4c221~mv2.jpg
+      accessed: '2026-11-06'

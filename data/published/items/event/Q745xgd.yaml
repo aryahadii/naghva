@@ -1,0 +1,23 @@
+id: Q745xgd
+type: event
+statements:
+  name:
+  - value:
+      text: PALLETT - Live in Frankfurt
+      language: en
+    references:
+    - &id001
+      source: internationales-theater.de-programm-ticketkauf-pallett-band-iran
+      quote: PALLETT - Live in Frankfurt
+      accessed: '2026-10-19'
+  event date:
+  - value:
+      date: '2025-11-11'
+    references:
+    - source: pallettmusic.com-7d0b6e14b735
+      quote: Tuesday, November 11, 2025
+      accessed: '2026-10-19'
+  performer:
+  - value: Qq5328q
+    references:
+    - *id001

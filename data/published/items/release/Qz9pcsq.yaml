@@ -1,0 +1,113 @@
+id: Qz9pcsq
+type: release
+statements:
+  name:
+  - value:
+      text: Nish
+      language: en
+    references:
+    - source: soundcloud.com-moodymoussavi-nish-3ad22ef6eb09
+      quote: |-
+        Nish
+      accessed: '2026-11-06'
+  - value:
+      text: نیش
+      language: fa
+    references:
+    - source: soundcloud.com-moodymoussavi-nish-3ad22ef6eb09
+      quote: |-
+        Nish
+      accessed: '2026-11-06'
+  performer:
+  - value: Qv5ybzr
+    references:
+    - source: music.apple.com-us-album-nish-single-1635782978-6cd10c823261
+      quote: '"byArtist":[{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/moody-moussavi/1556901633","name":"Moody Moussavi"}]'
+      accessed: '2026-11-06'
+  - value: Qv5ybzr
+    references:
+    - source: soundcloud.com-moodymoussavi-nish-3ad22ef6eb09
+      quote: 'Vocals & Guitars: Moody Moussavi'
+      accessed: '2026-11-06'
+    qualifiers:
+      role:
+      - vocals
+      - guitar
+  - value: Qw8qpec
+    references:
+    - source: soundcloud.com-moodymoussavi-nish-3ad22ef6eb09
+      quote: 'Drums: Borna Shafizadeh'
+      accessed: '2026-11-06'
+    qualifiers:
+      role:
+      - drums
+  contributor:
+  - value: Qkzrdwz
+    references:
+    - source: soundcloud.com-moodymoussavi-nish-3ad22ef6eb09
+      quote: 'Producer: Sina Saeidi'
+      accessed: '2026-11-06'
+    qualifiers:
+      role:
+      - producer
+  - value: Q6mptyz
+    references:
+    - source: soundcloud.com-moodymoussavi-nish-3ad22ef6eb09
+      quote: 'Lyrics: Baba Taher Oryan'
+      accessed: '2026-11-06'
+    qualifiers:
+      role:
+      - original lyricist
+  - value: Qv5ybzr
+    references:
+    - source: music.apple.com-us-song-nish-1635782980-207cba1b98c3
+      quote: '"name":"Moody Moussavi","roleNames":["Songwriter"]'
+      accessed: '2026-11-06'
+    qualifiers:
+      role:
+      - songwriter
+  release date:
+  - value:
+      date: '2022-07-27'
+    references:
+    - source: music.apple.com-us-album-nish-single-1635782978-6cd10c823261
+      quote: '"datePublished":"2022-07-27"'
+      accessed: '2026-11-06'
+  published by:
+  - value: Qfrsnpn
+    references:
+    - source: soundcloud.com-moodymoussavi-nish-3ad22ef6eb09
+      quote: 'Label: Tenzu'
+      accessed: '2026-11-06'
+  listen link:
+  - value: https://soundcloud.com/moodymoussavi/nish
+    references:
+    - source: soundcloud.com-moodymoussavi-nish-3ad22ef6eb09
+      quote: |-
+        Nish
+      accessed: '2026-11-06'
+  - value: https://music.apple.com/us/album/nish-single/1635782978
+    references:
+    - source: music.apple.com-us-album-nish-single-1635782978-6cd10c823261
+      quote: '"name":"Nish - Single"'
+      accessed: '2026-11-06'
+  - value: https://open.spotify.com/track/2LaOe4kOyUnvzeEqUXFuv6
+    references:
+    - source: open.spotify.com-track-2laoe4koyunvzeequxfuv6-348954610f3b
+      quote: |-
+        Nish
+      accessed: '2026-11-06'
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-MDMLoHUylG70F5Rt-rqLmNw-t500x500.jpg
+    references:
+    - source: soundcloud.com-moodymoussavi-nish-3ad22ef6eb09
+      quote: |-
+        https://i1.sndcdn.com/artworks-MDMLoHUylG70F5Rt-rqLmNw-t500x500.jpg
+      accessed: '2026-11-06'
+    - source: soundcloud.com-moodymoussavi-nish-3ad22ef6eb09
+      quote: 'Cover Art: No One Noise'
+      accessed: '2026-11-06'
+    qualifiers:
+      credit:
+        text: No One Noise
+        language: en

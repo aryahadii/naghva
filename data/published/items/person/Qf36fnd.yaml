@@ -1,0 +1,73 @@
+# Editorial Persian display spelling; source uses the Latin name.
+id: Qf36fnd
+type: person
+statements:
+  name:
+  - value:
+      text: سودالیزا
+      language: fa
+    references:
+    - source: sevdaliza.bandcamp.com-album-ison-ea10363083c0
+      quote: ISON by Sevdaliza
+      accessed: '2026-10-19'
+  - value:
+      text: Sevdaliza
+      language: en
+    references:
+    - source: sevdaliza.bandcamp.com-album-ison-ea10363083c0
+      quote: ISON by Sevdaliza
+      accessed: '2026-10-19'
+  - value:
+      text: Sevda Alizadeh
+      language: nl
+    references:
+    - source: www.vpro.nl-zomergasten-artikelen-sevdaliza-926eb75e843e
+      quote: Sevda Alizadeh, artiestennaam Sevdaliza, is een Iraans-Nederlandse zangeres, componist en producer.
+      accessed: '2026-10-19'
+  - value:
+      text: سودا علیزاده
+      language: fa
+    references:
+    - source: www.vpro.nl-zomergasten-artikelen-sevdaliza-926eb75e843e
+      quote: Sevda Alizadeh, artiestennaam Sevdaliza, is een Iraans-Nederlandse zangeres, componist en producer.
+      accessed: '2026-10-19'
+  birth date:
+  - value:
+      date: '1987'
+    references:
+    - source: www.vpro.nl-zomergasten-artikelen-sevdaliza-926eb75e843e
+      quote: Zangeres, componist en producer Sevdaliza (Teheran, 1987)
+      accessed: '2026-10-19'
+  profile link:
+  - value: https://sevdaliza.bandcamp.com
+    references:
+    - source: sevdaliza.bandcamp.com-music
+      quote: Music | Sevdaliza
+      accessed: '2026-10-19'
+    - source: sevdaliza.bandcamp.com-music
+      quote: https://sevdaliza.bandcamp.com/music
+      accessed: '2026-10-19'
+  - value: https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie
+    references:
+    - source: open.spotify.com-artist-5mraexjkzdrqyzs98knwie-8c5f36ee8744
+      quote: Listen to Sevdaliza Songs | Spotify
+      accessed: '2026-11-06'
+  - value: https://music.apple.com/us/artist/sevdaliza/571173217
+    references:
+    - source: music.apple.com-us-artist-sevdaliza-571173217-665cfc2830ba
+      quote: ‎Sevdaliza - Apple Music
+      accessed: '2026-11-06'
+  - value: https://soundcloud.com/sevdaliza
+    references:
+    - source: soundcloud.com-sevdaliza-0a8bc8beb472
+      quote: Stream SEVDALIZA music | Listen to songs, albums, playlists for free on SoundCloud
+      accessed: '2026-11-06'
+  image:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/12/15/e4/1215e4e0-bbe1-97f7-87ea-cf14b3b73225/ami-identity-c7be1fdfd0cd01469ee18105c08f520c-2025-10-30T23-49-15.383Z_cropped.png/486x486bb.png
+    references:
+    - source: music.apple.com-us-artist-sevdaliza-571173217-665cfc2830ba
+      quote: ‎Sevdaliza - Apple Music
+      accessed: '2026-11-06'
+    - source: music.apple.com-us-artist-sevdaliza-571173217-665cfc2830ba
+      quote: https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/12/15/e4/1215e4e0-bbe1-97f7-87ea-cf14b3b73225/ami-identity-c7be1fdfd0cd01469ee18105c08f520c-2025-10-30T23-49-15.383Z_cropped.png/486x486bb.png
+      accessed: '2026-11-06'

@@ -1,0 +1,55 @@
+id: Qy6r3r6
+type: release
+statements:
+  name:
+  - value:
+      text: Barf - Single
+      language: en
+    references:
+    - source: music.apple.com-us-album-barf-single-1633361612-chaartaar
+      quote: Barf - Single by Chaartaar on Apple Music
+      accessed: '2026-11-06'
+  - value:
+      text: برف
+      language: fa
+    references:
+    - source: www.navahang.com-mp3-chaartaar-barf
+      quote: Barf Chaartaar برف چارتار
+      accessed: '2026-11-06'
+  performer:
+  - value: Qb3nvrj
+    references:
+    - source: music.apple.com-us-album-barf-single-1633361612-chaartaar
+      quote: Barf - Single by Chaartaar on Apple Music
+      accessed: '2026-11-06'
+  release date:
+  - value:
+      date: '2017-04-20'
+    references:
+    - source: music.apple.com-us-album-barf-single-1633361612-chaartaar
+      quote: '"datePublished":"2017-04-20"'
+      accessed: '2026-11-06'
+  listen link:
+  - value: https://music.apple.com/us/album/barf-single/1633361612
+    references:
+    - source: music.apple.com-us-album-barf-single-1633361612-chaartaar
+      quote: Barf - Single by Chaartaar on Apple Music
+      accessed: '2026-11-06'
+  - value: https://open.spotify.com/album/4Ny2czrwafu3U9B2L21BnY
+    references:
+    - source: open.spotify.com-embed-album-4ny2czrwafu3u9b2l21bny-chaartaar
+      quote: Barf · Chaartaar
+      accessed: '2026-11-06'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/b1/64/f0/b164f071-877e-2295-6b05-d9d4d0651c19/4011725562922.png/632x632bb-60.jpg
+    references:
+    - source: music.apple.com-us-album-barf-single-1633361612-chaartaar
+      quote: Barf - Single by Chaartaar on Apple Music
+      accessed: '2026-11-06'
+    - source: music.apple.com-us-album-barf-single-1633361612-chaartaar
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/b1/64/f0/b164f071-877e-2295-6b05-d9d4d0651c19/4011725562922.png/632x632bb-60.jpg
+      accessed: '2026-11-06'
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en

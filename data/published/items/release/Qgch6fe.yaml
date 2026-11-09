@@ -1,0 +1,51 @@
+id: Qgch6fe
+type: release
+statements:
+  name:
+  - value:
+      text: Morgh e Sahar (Bird of Dawn)
+      language: en
+    references:
+    - &id001
+      source: www.kiosktheband.com-the-band-35235d067344
+      quote: '2009: Morgh e Sahar (Bird of Dawn) featuring Mohsen Namjoo'
+      accessed: '2026-10-19'
+  # Editorial Persian display spelling; source uses the Latin name.
+  - value:
+      text: مرغ سحر
+      language: fa
+    references:
+    - source: www.kiosktheband.com-the-band-35235d067344
+      quote: '2009: Morgh e Sahar (Bird of Dawn) featuring Mohsen Namjoo'
+      accessed: '2026-10-19'
+  performer:
+  - value: Qtgn2be
+    references:
+    - *id001
+  - value: Qt6wjbg
+    references:
+    - *id001
+  release date:
+  - value:
+      date: '2009'
+    references:
+    - *id001
+  listen link:
+  - value: https://soundcloud.com/kiosktheband/kiosk-morgh-e-sahar-ft-mohsen
+    references:
+    - source: soundcloud.com-kiosktheband-kiosk-morgh-e-sahar-ft-mohsen
+      quote: Morghe Sahar - Kiosk (Feat. Mohsen Namjoo)
+      accessed: '2026-10-19'
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-000133220316-af18mu-t500x500.jpg
+    references:
+    - source: soundcloud.com-kiosktheband-kiosk-morgh-e-sahar-ft-mohsen
+      quote: Morghe Sahar - Kiosk (Feat. Mohsen Namjoo)
+      accessed: '2026-10-19'
+    - source: soundcloud.com-kiosktheband-kiosk-morgh-e-sahar-ft-mohsen
+      quote: https://i1.sndcdn.com/artworks-000133220316-af18mu-t500x500.jpg
+      accessed: '2026-10-19'
+    qualifiers:
+      credit:
+        text: soundcloud.com
+        language: en

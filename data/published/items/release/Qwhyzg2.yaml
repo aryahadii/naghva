@@ -1,0 +1,48 @@
+id: Qwhyzg2
+type: release
+statements:
+  name:
+  - value:
+      text: Dang EXP - Too Dar Too ( Spiral )
+      language: en
+    references:
+    - &id001
+      source: soundcloud-com-dangshow-too-dar-too-a3e7dcb7e91f
+      quote: 'Dang EXP - Too Dar Too ( Spiral )
+
+        by Dang Show  دنگ شو'
+      accessed: '2026-11-06'
+  - value:
+      text: تو در تو
+      language: fa
+    references:
+    - *id001
+    rank: preferred
+  performer:
+  - value: Q8cs7j8
+    references:
+    - *id001
+  - value: Q47kj8q
+    references:
+    - source: soundcloud-com-dangshow-too-dar-too-a3e7dcb7e91f
+      quote: Dang Show feat. Es-hagh Chegini
+      accessed: '2026-11-06'
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-000062228268-j81ssw-large.jpg
+    qualifiers:
+      credit:
+        text: Dang Show / SoundCloud
+        language: en
+    references:
+    - *id001
+    - source: soundcloud-com-dangshow-too-dar-too-a3e7dcb7e91f
+      quote: https://i1.sndcdn.com/artworks-000062228268-j81ssw-large.jpg
+      accessed: '2026-11-06'
+  listen link:
+  - value: https://soundcloud.com/dangshow/too-dar-too
+    references:
+    - source: soundcloud-com-dangshow-too-dar-too-a3e7dcb7e91f
+      quote: 'Dang EXP - Too Dar Too ( Spiral )
+
+        by Dang Show  دنگ شو'
+      accessed: '2026-11-06'

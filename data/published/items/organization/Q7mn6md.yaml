@@ -1,0 +1,16 @@
+id: Q7mn6md
+type: organization
+statements:
+  name:
+  - value:
+      text: Karlrecords
+      language: en
+    references: &id001
+    - source: karlrecords.bandcamp.com-album-scattered-memories-40fd0faeea0e
+      quote: Karlrecords
+      accessed: '2026-11-06'
+  # Editorial Persian display spelling; source uses the original name.
+  - value:
+      text: کارل‌رکوردز
+      language: fa
+    references: *id001

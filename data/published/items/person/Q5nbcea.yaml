@@ -1,0 +1,19 @@
+id: Q5nbcea
+type: person
+statements:
+  name:
+  - value:
+      text: Majid Kazemi
+      language: en
+    references:
+    - source: music.apple.com-us-album-shaaban-single-777531580
+      quote: 'ARRANGEMENT: MAJID KAZEMI'
+      accessed: '2026-11-06'
+  - value:
+      text: مجید کاظمی
+      language: fa
+    # Editorial Persian display spelling; source uses the Latin name.
+    references:
+    - source: music.apple.com-us-album-shaaban-single-777531580
+      quote: 'ARRANGEMENT: MAJID KAZEMI'
+      accessed: '2026-11-06'

@@ -1,0 +1,62 @@
+id: Q5j2e25
+type: release
+statements:
+  name:
+  - value:
+      text: Bomrani Live in Tehran
+      language: en
+    references:
+    - source: music.apple.com-us-album-bomrani-live-in-tehran-1502291786-1ad2b1db426a
+      quote: 'Listen to Bomrani Live in Tehran by Bomrani on Apple Music. 2020. 16 Songs. Duration:
+        1 hour 2 minutes.'
+      accessed: '2026-11-06'
+  - value:
+      # Editorial Persian display spelling; source uses the Latin name.
+      text: بمرانی زنده در تهران
+      language: fa
+    references:
+    - source: music.apple.com-us-album-bomrani-live-in-tehran-1502291786-1ad2b1db426a
+      quote: 'Listen to Bomrani Live in Tehran by Bomrani on Apple Music. 2020. 16 Songs. Duration:
+        1 hour 2 minutes.'
+      accessed: '2026-11-06'
+  performer:
+  - value: Q9mgdq3
+    references:
+    - source: music.apple.com-us-album-bomrani-live-in-tehran-1502291786-1ad2b1db426a
+      quote: 'Listen to Bomrani Live in Tehran by Bomrani on Apple Music. 2020. 16 Songs. Duration:
+        1 hour 2 minutes.'
+      accessed: '2026-11-06'
+  release date:
+  - value:
+      date: '2020-03-10'
+    references:
+    - source: music.apple.com-us-album-bomrani-live-in-tehran-1502291786-1ad2b1db426a
+      quote: '2020-03-10'
+      accessed: '2026-11-06'
+      locator: Album datePublished
+  listen link:
+  - value: https://music.apple.com/us/album/bomrani-live-in-tehran/1502291786
+    references:
+    - source: music.apple.com-us-album-bomrani-live-in-tehran-1502291786-1ad2b1db426a
+      quote: 'Listen to Bomrani Live in Tehran by Bomrani on Apple Music. 2020. 16 Songs. Duration:
+        1 hour 2 minutes.'
+      accessed: '2026-11-06'
+  - value: https://open.spotify.com/album/3q7i6R2mYpJPffaY59GpRT
+    references:
+    - source: open.spotify.com-album-3q7i6r2mypjpffay59gprt
+      quote: Listen to Bomrani Live in Tehran - Album by Bomrani | Spotify
+      accessed: '2026-11-06'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/72/d0/ff/72d0ff73-402e-9ced-fcc2-41f6cf339661/artwork.jpg/600x600bf-60.jpg
+    references:
+    - source: music.apple.com-us-album-bomrani-live-in-tehran-1502291786-1ad2b1db426a
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/72/d0/ff/72d0ff73-402e-9ced-fcc2-41f6cf339661/artwork.jpg/600x600bf-60.jpg
+      accessed: '2026-11-06'
+    - source: music.apple.com-us-album-bomrani-live-in-tehran-1502291786-1ad2b1db426a
+      quote: 'Listen to Bomrani Live in Tehran by Bomrani on Apple Music. 2020. 16 Songs. Duration:
+        1 hour 2 minutes.'
+      accessed: '2026-11-06'
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en

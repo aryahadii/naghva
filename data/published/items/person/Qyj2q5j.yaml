@@ -1,0 +1,20 @@
+# English name is an editorial display spelling of the sourced Persian credit.
+# This item identifies the arranger credited on Barf, without adding a biography.
+id: Qyj2q5j
+type: person
+statements:
+  name:
+  - value:
+      text: آندرانیک
+      language: fa
+    references:
+    - &id001
+      source: www.aasoo.org-sites-default-files-aasoo_all_files-pdf-farhad-e2-80-99s-20waking-20dream.-20amir_bahari_aasoo_2-bfe07485f333
+      quote: فرهاد امکانات اقتصادی این را نداشت که آلبوم را آن گونه که دوست داشت با ارکستر به سر انجام برساند . درنتیجه ، آندرانیک در آمریکا با استفاده از سینتی سایزر و صداهای سمپل (پیش )ساخته کار را تنظیم کرد و به سرانجام رساند.
+      accessed: '2026-10-23'
+      locator: Amir Bahari, printed p. 151 (PDF p. 153), electronic arrangements
+  - value:
+      text: Andranik
+      language: en
+    references:
+    - *id001

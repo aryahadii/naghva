@@ -1,0 +1,48 @@
+id: Qfzjzak
+type: release
+statements:
+  name:
+  - value:
+      text: Sumud
+      language: en
+    references:
+    - source: music.apple.com-us-album-sumud-1628738404-bb8f66b62430
+      quote: Sumud by Niyaz on Apple Music
+      accessed: '2026-10-19'
+  performer:
+  - value: Q9bb4a8
+    references:
+    - source: music.apple.com-us-album-sumud-1628738404-bb8f66b62430
+      quote: Sumud by Niyaz on Apple Music
+      accessed: '2026-10-19'
+  release date:
+  - value:
+      date: '2012-05-22'
+    references:
+    - source: music.apple.com-us-album-sumud-1628738404-bb8f66b62430
+      quote: '"datePublished":"2012-05-22"'
+      accessed: '2026-10-19'
+  listen link:
+  - value: https://music.apple.com/us/album/sumud/1628738404
+    references:
+    - source: music.apple.com-us-album-sumud-1628738404-bb8f66b62430
+      quote: Sumud by Niyaz on Apple Music
+      accessed: '2026-10-19'
+  - value: https://open.spotify.com/album/7sRhjAs5tKqskGlK5jZsi7
+    references:
+    - source: www.sixdegreesrecords.com-niyaz-sumud
+      quote: <iframe src="https://open.spotify.com/embed/album/7sRhjAs5tKqskGlK5jZsi7" width="100%" height="100" frameborder="0" allowtransparency="true"></iframe>
+      accessed: '2026-10-19'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/fb/11/fa/fb11fa77-cfd1-e0f0-cceb-0bfe3b5f8eb5/657036118720_cover.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-sumud-1628738404-bb8f66b62430
+      quote: Sumud by Niyaz on Apple Music
+      accessed: '2026-10-19'
+    - source: music.apple.com-us-album-sumud-1628738404-bb8f66b62430
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/fb/11/fa/fb11fa77-cfd1-e0f0-cceb-0bfe3b5f8eb5/657036118720_cover.jpg/1200x630bb.jpg
+      accessed: '2026-10-19'
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en

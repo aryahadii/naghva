@@ -1,0 +1,69 @@
+id: Qpcje86
+type: release
+statements:
+  name:
+  - value:
+      text: The Anger of a Tear (Radio Edit, Live in the Roqe Studio) - Single
+      language: en
+    references:
+    - &id001
+      source: music-apple-com-us-album-the-anger-of-a-tear-radio-edit-live-in-the-roqe-studio-single-16520580-500e4c8847f1
+      quote: 'The Anger of a Tear (Radio Edit, Live in the Roqe Studio) - Single
+
+        Dang Show
+
+        New Age · 2022'
+      accessed: '2026-11-06'
+  - value:
+      text: خشم اشک
+      language: fa
+    references:
+    - *id001
+    rank: preferred
+  performer:
+  - value: Q8cs7j8
+    references:
+    - *id001
+  release date:
+  - value:
+      date: '2022-10-25'
+    references:
+    - source: music-apple-com-us-album-the-anger-of-a-tear-radio-edit-live-in-the-roqe-studio-single-16520580-500e4c8847f1
+      quote: October 25, 2022
+      accessed: '2026-11-06'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/98/ce/69/98ce6942-c508-8f6b-940d-38c5bf8972fa/artwork.jpg/632x632bb.webp
+    qualifiers:
+      credit:
+        text: Tara Taheri
+        language: en
+    references:
+    - *id001
+    - source: music-apple-com-us-album-the-anger-of-a-tear-radio-edit-live-in-the-roqe-studio-single-16520580-500e4c8847f1
+      quote: Cover design Tara Taheri
+      accessed: '2026-11-06'
+    - source: music-apple-com-us-album-the-anger-of-a-tear-radio-edit-live-in-the-roqe-studio-single-16520580-500e4c8847f1
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/98/ce/69/98ce6942-c508-8f6b-940d-38c5bf8972fa/artwork.jpg/632x632bb.webp
+      accessed: '2026-11-06'
+  listen link:
+  - value: https://music.apple.com/us/album/the-anger-of-a-tear-radio-edit-live-in-the-roqe-studio-single/1652058070
+    references:
+    - source: music-apple-com-us-album-the-anger-of-a-tear-radio-edit-live-in-the-roqe-studio-single-16520580-500e4c8847f1
+      quote: 'The Anger of a Tear (Radio Edit, Live in the Roqe Studio) - Single
+
+        Dang Show
+
+        New Age · 2022'
+      accessed: '2026-11-06'
+  - value: https://open.spotify.com/track/2PZcICGzylyrmX49REEmpe
+    references:
+    - source: open-spotify-com-track-2pzcicgzylyrmx49reempe-a5c3af9df09d
+      quote: The Anger of a Tear - Radio Edit, Live in the Roqe Studio - song and lyrics by Dang Show | Spotify
+      accessed: '2026-11-06'
+  - value: https://soundcloud.com/dangshow/dang-show-the-anger-of-a-tear-live-in-the-roqe-studio-2022
+    references:
+    - source: soundcloud-com-dangshow-dang-show-the-anger-of-a-tear-live-in-the-roqe-studio-2022-de505203e513
+      quote: 'Dang Show - The Anger Of A Tear (Live In The Roqe Studio) - 2022
+
+        by Dang Show  دنگ شو'
+      accessed: '2026-11-06'

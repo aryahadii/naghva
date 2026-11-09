@@ -1,0 +1,16 @@
+id: Qv273e4
+type: person
+statements:
+  name:
+  - value:
+      text: Hila Sedighi
+      language: en
+    references: &id001
+    - source: azamali.bandcamp.com-track-once-more-all-is-green-45d81a074e57
+      quote: 'Based on Hila Sedighi’s poem “Sabz Ast Dobare” written in the context of Iran’s political and social struggles, while capturing the ache of a nation and its people. '
+      accessed: '2026-11-06'
+  # Persian display name is editorial; the reference establishes the original name.
+  - value:
+      text: هیلا صدیقی
+      language: fa
+    references: *id001

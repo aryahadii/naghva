@@ -1,0 +1,37 @@
+id: Qtjjdy2
+type: event
+statements:
+  name:
+  - value:
+      text: Kaveh Salehi Live Concert in Stockholm
+      language: en
+    references:
+    - &id001
+      source: tix.matrispro.com-events-matris-1155398-33806235ed87
+      quote: Kaveh Salehi Live Concert in Stockholm
+      accessed: '2026-10-19'
+  event date:
+  - value:
+      date: '2024-02-23'
+    references:
+    - source: tix.matrispro.com-events-matris-1155398-33806235ed87
+      quote: 'Fri
+
+        23
+
+        Feb
+
+        2024
+
+        19:00
+
+        -
+
+        20:30
+
+        CET'
+      accessed: '2026-10-19'
+  performer:
+  - value: Q2vwhg6
+    references:
+    - *id001

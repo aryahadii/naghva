@@ -1,0 +1,16 @@
+id: Qjh2zkc
+type: person
+statements:
+  name:
+  - value:
+      text: Aida Shahghasemi
+      language: en
+    references: &id001
+    - source: soundcloud.com-moodymoussavi-oryan-4ca39634ad2f
+      quote: 'Aida Shahghasemi: Featuring Artist (Oryan)'
+      accessed: '2026-11-06'
+  - value:
+      text: آیدا شاه‌قاسمی
+      language: fa
+    # Editorial Persian display spelling; source uses the Latin name.
+    references: *id001

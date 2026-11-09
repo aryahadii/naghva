@@ -1,0 +1,33 @@
+id: Qzzqbyj
+type: event
+statements:
+  name:
+  - value:
+      text: اجرای ۲۹ آبان در رشت
+      language: fa
+    references:
+    - source: t.me-jumamusic-107
+      quote: اجرای ۲۹ آبان در رشت، نخستین قرار ملاقات ما بود.
+      accessed: '2026-10-22'
+  performer:
+  - value: Q48zttz
+    references:
+    - source: t.me-jumamusic-106
+      quote: جوما/ آبان ۱۴۰۲
+      accessed: '2026-10-22'
+    - source: t.me-jumamusic-107
+      quote: اجرای ۲۹ آبان در رشت، نخستین قرار ملاقات ما بود.
+      accessed: '2026-10-22'
+  event date:
+  - value:
+      date: '1402-08-29'
+      calendar: jalali
+    references:
+    - source: t.me-jumamusic-106
+      quote: |-
+        کِی؟ ۲۹ آبان
+        کجا؟ رشتِ زیبا
+      accessed: '2026-10-22'
+    - source: t.me-jumamusic-106
+      quote: جوما/ آبان ۱۴۰۲
+      accessed: '2026-10-22'

@@ -1,0 +1,101 @@
+id: Q42ysfs
+type: release
+statements:
+  name:
+  - value:
+      text: Hicham khabar az hich
+      language: en
+    references:
+    - source: music.apple.com-us-album-hicham-khabar-az-hich-1595445649-47ef222f5515
+      quote: '"name":"Hicham Khabar Az Hich"'
+      accessed: '2026-11-06'
+  - value:
+      text: هیچم خبر از هیچ
+      language: fa
+    references:
+    - source: web.archive.org-web-20240423024503-https-miladderakhshani.com-biography-69e41a45b12d
+      quote: |-
+        از میلاد درخشانی در سال ۱۳۹۱ آلبوم دیگری با نام «هیچم خبر از هیچ» منتشر شد
+      accessed: '2026-11-06'
+  performer:
+  - value: Qnjntqs
+    references:
+    - source: music.apple.com-us-album-hicham-khabar-az-hich-1595445649-47ef222f5515
+      quote: '"byArtist":[{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/milad-derakhshani/324842865","name":"Milad Derakhshani"}]'
+      accessed: '2026-11-06'
+  - value: Qnjntqs
+    qualifiers:
+      role: tar
+    references:
+    - source: t.me-miladderakhshaniofficial-67-130f55c88182
+      quote: |-
+        "سال نو مبارك"
+        رقص و جنگ
+        آلبوم هيچم خبر از هيچ
+        تار: ميلاد درخشانى
+        كوبه اى: همايون نصيرى
+      accessed: '2026-11-06'
+  - value: Qsnwb9w
+    qualifiers:
+      role: percussion
+    references:
+    - source: t.me-miladderakhshaniofficial-67-130f55c88182
+      quote: |-
+        "سال نو مبارك"
+        رقص و جنگ
+        آلبوم هيچم خبر از هيچ
+        تار: ميلاد درخشانى
+        كوبه اى: همايون نصيرى
+      accessed: '2026-11-06'
+  contributor:
+  - value: Qnjntqs
+    references:
+    - source: music.apple.com-us-song-hicham-khabar-az-hich-1595445652-3358095e3825
+      quote: '"name":"Milad Derakhshani","roleNames":["Songwriter"]'
+      accessed: '2026-11-06'
+    qualifiers:
+      role:
+      - songwriter
+  - value: Qnjntqs
+    references:
+    - source: music.apple.com-us-song-hicham-khabar-az-hich-1595445652-3358095e3825
+      quote: '"name":"Milad Derakhshani","roleNames":["Producer"]'
+      accessed: '2026-11-06'
+    qualifiers:
+      role:
+      - producer
+  listen link:
+  - value: https://music.apple.com/us/album/hicham-khabar-az-hich/1595445649
+    references:
+    - source: music.apple.com-us-album-hicham-khabar-az-hich-1595445649-47ef222f5515
+      quote: '"name":"Hicham Khabar Az Hich"'
+      accessed: '2026-11-06'
+    - source: music.apple.com-us-album-hicham-khabar-az-hich-1595445649-47ef222f5515
+      quote: '"byArtist":[{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/milad-derakhshani/324842865","name":"Milad Derakhshani"}]'
+      accessed: '2026-11-06'
+  - value: https://open.spotify.com/album/0ay3kzXhTOWWYgerqngf1G
+    references:
+    - source: open.spotify.com-album-0ay3kzxhtowwygerqngf1g-a2782e5d1450
+      quote: |-
+        Listen to Hicham khabar az hich - Album by Milad Derakhshani | Spotify
+      accessed: '2026-11-06'
+  - value: https://soundcloud.com/miladderakhshani/sets/hicham-khabar-az-hich
+    references:
+    - source: soundcloud.com-miladderakhshani-sets-hicham-khabar-az-hich-8196f5985d7f
+      quote: |-
+        Stream Milad Derakhshani | Listen to Hicham khabar az hich playlist online for free on SoundCloud
+      accessed: '2026-11-06'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/30/fa/af30fa1b-f6e8-dfc3-7c98-0fdfad548877/196292876185.jpg/1200x1200bb.jpg
+    references:
+    - source: is1-ssl.mzstatic.com-image-thumb-music211-v4-af-30-fa-af30fa1b-f6e8-dfc3-7c98-0fdfad548877-196292876185.jpg-1200x1200bb.jpg-efa4958c556d
+      quote: |-
+        هیچم خبر از هیچ
+        میلاد درخشانی
+        NO NEWS OF NOTHING ME
+        MILAD DERAKHSHANI
+      accessed: '2026-11-06'
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en

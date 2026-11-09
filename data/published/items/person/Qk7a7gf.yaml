@@ -1,0 +1,16 @@
+id: Qk7a7gf
+type: person
+statements:
+  name:
+  - value:
+      text: Greg Ellis
+      language: en
+    references: &id001
+    - source: sussandeyhim.com-products-la-belle-et-la-bete-6cb532e213c3
+      quote: With contributions from renowned artists including Lili Haydn, Satnam Ramgotra, Greg Ellis, Mehdi Bagheri, and more, the album delivers a multicultural and soulful musical journey.
+      accessed: '2026-10-23'
+  # Persian display name is editorial; the reference establishes the original name.
+  - value:
+      text: گرگ الیس
+      language: fa
+    references: *id001

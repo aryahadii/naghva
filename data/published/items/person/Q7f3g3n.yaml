@@ -1,0 +1,16 @@
+id: Q7f3g3n
+type: person
+statements:
+  name:
+  - value:
+      text: Marcel Khalife
+      language: en
+    references: &id001
+    - source: www.ccmusic.com-azam-ali-from-night-to-the-edge-of-day-657036117723-cce9e006515e
+      quote: 'Composer(s) Azam Ali Loga Ramin Torkian Marcel Khalife Naser Musa Traditional Producer(s) Azam Ali Loga Ramin Torkian Performer(s) Clemens Merkel Loga Ramin Torkian Naser Musa '
+      accessed: '2026-11-06'
+  # Persian display name is editorial; the reference establishes the original name.
+  - value:
+      text: مارسل خلیفه
+      language: fa
+    references: *id001

@@ -1,0 +1,16 @@
+id: Qwfs6gk
+type: person
+statements:
+  name:
+  - value:
+      text: Naser Musa
+      language: en
+    references: &id001
+    - source: sonusantiqva.info-wi-a-azamali-2002portalsgrace.html-3300b1b1eb8e
+      quote: 'Azam Ali , vocals, hammered dulcimer Greg Ellis, frame drums, riq, dumbek, bells, keyboards, tuned gong and bowls , vocal drones, karkarba, cajon, nagara Ethan James, hurdy gurdy, nyckelharpa Shira Kammen, rebec, vielle Dann Torrez, saz Naser Musa, oud Cameron Stone, cello Pejman Hadadi, tombak, daf Chris Bleth, duduk Nicole Baker, soprano voice Mark Beasom, bass voice George Stearne, tenor voice '
+      accessed: '2026-11-06'
+  # Persian display name is editorial; the reference establishes the original name.
+  - value:
+      text: ناصر موسی
+      language: fa
+    references: *id001

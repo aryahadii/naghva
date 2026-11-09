@@ -1,0 +1,108 @@
+id: Q24ggxg
+type: release
+statements:
+  name:
+  - value:
+      text: Oryan
+      language: en
+    references:
+    - source: soundcloud.com-moodymoussavi-sets-oryan-fc85b287231d
+      quote: |-
+        Oryan
+      accessed: '2026-11-06'
+  - value:
+      text: عریان
+      language: fa
+    references:
+    - source: soundcloud.com-moodymoussavi-sets-oryan-fc85b287231d
+      quote: |-
+        Oryan
+      accessed: '2026-11-06'
+  performer:
+  - value: Qv5ybzr
+    references:
+    - source: music.apple.com-us-album-oryan-1683120685-fa11a55d1c8a
+      quote: '"byArtist":[{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/moody-moussavi/1556901633","name":"Moody Moussavi"}]'
+      accessed: '2026-11-06'
+  - value: Qv5ybzr
+    references:
+    - source: soundcloud.com-moodymoussavi-sets-oryan-fc85b287231d
+      quote: 'Moody Moussavi: Vocals, Guitars, Songwriter'
+      accessed: '2026-11-06'
+    qualifiers:
+      role:
+      - vocals
+      - guitar
+  - value: Qw8qpec
+    references:
+    - source: soundcloud.com-moodymoussavi-sets-oryan-fc85b287231d
+      quote: 'Borna Shafizadeh : Drummer'
+      accessed: '2026-11-06'
+    qualifiers:
+      role:
+      - drums
+  contributor:
+  - value: Qv5ybzr
+    references:
+    - source: soundcloud.com-moodymoussavi-sets-oryan-fc85b287231d
+      quote: 'Moody Moussavi: Vocals, Guitars, Songwriter'
+      accessed: '2026-11-06'
+    qualifiers:
+      role:
+      - songwriter
+  - value: Qkzrdwz
+    references:
+    - source: soundcloud.com-moodymoussavi-sets-oryan-fc85b287231d
+      quote: 'Sina Saeidi: Producer, Mix & Mastering Engineer'
+      accessed: '2026-11-06'
+    qualifiers:
+      role:
+      - producer
+  - value: Q6mptyz
+    references:
+    - source: soundcloud.com-moodymoussavi-sets-oryan-fc85b287231d
+      quote: |-
+        All lyrics excerpted from Baba Taher Oryan's poetry
+      accessed: '2026-11-06'
+    qualifiers:
+      role:
+      - original lyricist
+  release date:
+  - value:
+      date: '2023-04-10'
+    references:
+    - source: music.apple.com-us-album-oryan-1683120685-fa11a55d1c8a
+      quote: '"datePublished":"2023-04-10"'
+      accessed: '2026-11-06'
+  listen link:
+  - value: https://soundcloud.com/moodymoussavi/sets/oryan
+    references:
+    - source: soundcloud.com-moodymoussavi-sets-oryan-fc85b287231d
+      quote: |-
+        Oryan
+      accessed: '2026-11-06'
+  - value: https://music.apple.com/us/album/oryan/1683120685
+    references:
+    - source: music.apple.com-us-album-oryan-1683120685-fa11a55d1c8a
+      quote: '"name":"Oryan"'
+      accessed: '2026-11-06'
+  - value: https://open.spotify.com/album/7m2Y9H9vrU55KpJ4Qsu8Ly
+    references:
+    - source: open.spotify.com-album-7m2y9h9vru55kpj4qsu8ly-e60ed64e601d
+      quote: |-
+        Listen to Oryan - Album by Moody Moussavi | Spotify
+      accessed: '2026-11-06'
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-lydYbqHCFTIoUxzg-EAn9fw-t500x500.jpg
+    references:
+    - source: soundcloud.com-moodymoussavi-sets-oryan-fc85b287231d
+      quote: |-
+        https://i1.sndcdn.com/artworks-lydYbqHCFTIoUxzg-EAn9fw-t500x500.jpg
+      accessed: '2026-11-06'
+    - source: soundcloud.com-moodymoussavi-sets-oryan-fc85b287231d
+      quote: 'No One Noise : Cover Artist, Graphic Designer'
+      accessed: '2026-11-06'
+    qualifiers:
+      credit:
+        text: No One Noise
+        language: en

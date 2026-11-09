@@ -1,0 +1,90 @@
+id: Qkgepqy
+type: release
+statements:
+  name:
+  - value:
+      text: اوخان
+      language: fa
+    references:
+    - source: t.me-jumamusic-208
+      quote: |-
+        آلبوم اوخان
+      accessed: '2026-10-19'
+  - value:
+      text: OKHAN
+      language: en
+    references:
+    - source: t.me-jumamusic-198-fe9bc21c52a6
+      quote: |-
+        منتشر شد! اوخان | OKHAN
+      accessed: '2026-10-22'
+  release date:
+  - value:
+      date: '1403-07-10'
+      calendar: jalali
+    references:
+    - source: t.me-jumamusic-196-ce328e04e1d2
+      quote: 'تاریخ انتشار: دهم مهرماه ۱۴۰۳'
+      accessed: '2026-10-22'
+  performer:
+  - value: Q48zttz
+    references:
+    - source: t.me-jumamusic-195
+      quote: '"آلبومِ تازه‌ی جوما"'
+      accessed: '2026-10-22'
+  - value: Qs2pb7y
+    qualifiers:
+      role: guitar
+    references:
+    - source: t.me-jumamusic-196-ce328e04e1d2
+      quote: 'گیتار: سامان ایوبی'
+      accessed: '2026-10-22'
+  - value: Qmjc6ne
+    qualifiers:
+      role: bass
+    references:
+    - source: t.me-jumamusic-196-ce328e04e1d2
+      quote: 'گیتارباس و پیانو: مصطفی طالبیان'
+      accessed: '2026-10-22'
+  - value: Qmjc6ne
+    qualifiers:
+      role: piano
+    references:
+    - source: t.me-jumamusic-196-ce328e04e1d2
+      quote: 'گیتارباس و پیانو: مصطفی طالبیان'
+      accessed: '2026-10-22'
+  - value: Qdnsdpb
+    qualifiers:
+      role: drums
+    references:
+    - source: t.me-jumamusic-196-ce328e04e1d2
+      quote: 'درامز: محمد احمدی'
+      accessed: '2026-10-22'
+  - value: Q26bpgg
+    qualifiers:
+      role: harmonica
+    references:
+    - source: t.me-jumamusic-196-ce328e04e1d2
+      quote: 'هارمونیکا: بابک صفرنژاد'
+      accessed: '2026-10-22'
+  - value: Qdz4b7c
+    references:
+    - source: t.me-jumamusic-196-ce328e04e1d2
+      quote: 'آکاردئون: بهنام عمران'
+      accessed: '2026-10-22'
+  - value: Qzaht49
+    qualifiers:
+      role: backing vocals
+    references:
+    - source: t.me-jumamusic-196-ce328e04e1d2
+      quote: 'همخوان: افسانه فرازمند'
+      accessed: '2026-10-22'
+  contributor:
+  - value: Qs2pb7y
+    qualifiers:
+      role:
+      - arranger
+    references:
+    - source: t.me-jumamusic-196-ce328e04e1d2
+      quote: 'تنظیم: سامان ایوبی'
+      accessed: '2026-10-22'

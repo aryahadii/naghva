@@ -1,0 +1,43 @@
+id: Qphvq4s
+type: person
+statements:
+  name:
+  - value:
+      text: صنم پاشا
+      language: fa
+    references:
+    - source: en.wikipedia.org-wiki-sanam_pasha-125ed0d2387a
+      quote: |-
+        Sanam Pasha (Persian: صنم پاشا)
+      accessed: '2026-10-19'
+  - value:
+      text: Sanam Pasha
+      language: en
+    references:
+    - source: en.wikipedia.org-wiki-sanam_pasha-125ed0d2387a
+      quote: |-
+        Sanam Pasha (Persian: صنم پاشا)
+      accessed: '2026-10-19'
+  birth date:
+  - value:
+      date: '1978-07-16'
+    references:
+    - source: www.rslawards.com-profile-sanam-pasha-9d8e006bacdb
+      quote: |-
+        I am an Iranian singer, composer, songwriter, pianist, and vocal coach specializing in rock and metal music. Born on July 16, 1978, in Tehran, Iran, my musical journey began with learning Persian folk music as a child. I later expanded my skills to classical piano, vocals, and solfeggio.
+      accessed: '2026-10-19'
+  member of:
+  - value: Q5j73sb
+    references:
+    - source: www.rslawards.com-profile-sanam-pasha-9d8e006bacdb
+      quote: |-
+        In 2012, I founded an all-female rock band named Sanam Pasha, making a significant impact on the music scene in Iran.
+      accessed: '2026-10-19'
+  - value: Qkh78g4
+    qualifiers:
+      role: vocals
+    references:
+    - source: www.rslawards.com-profile-sanam-pasha-9d8e006bacdb
+      quote: |-
+        5grs Band: I have been the lead vocalist for the band 5grs, performing at notable events such as the Arm Fest in Yerevan, Armenia, and the Persian Metal Festival.
+      accessed: '2026-10-19'

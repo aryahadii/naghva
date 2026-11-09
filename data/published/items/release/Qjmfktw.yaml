@@ -1,0 +1,27 @@
+id: Qjmfktw
+type: release
+statements:
+  name:
+  - value:
+      text: Strange Days - JJ Cale Cover
+      language: en
+    references:
+    - &id001
+      source: www.kiosktheband.com-the-band-35235d067344
+      quote: '2014: Strange Days - JJ Cale Cover'
+      accessed: '2026-10-19'
+  performer:
+  - value: Qtgn2be
+    references:
+    - *id001
+  release date:
+  - value:
+      date: '2014'
+    references:
+    - *id001
+  listen link:
+  - value: https://soundcloud.com/kiosktheband/strange-days-jj-cale
+    references:
+    - source: soundcloud.com-kiosktheband-strange-days-jj-cale
+      quote: Strange Days (JJ Cale Cover)
+      accessed: '2026-10-19'

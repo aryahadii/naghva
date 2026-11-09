@@ -1,0 +1,56 @@
+id: Qfm5ppp
+type: release
+statements:
+  name:
+  - value:
+      text: The Best Of Niyaz
+      language: en
+    references:
+    - source: niyaz.bandcamp.com-album-the-best-of-niyaz-e5d6d67193d8
+      quote: The Best Of Niyaz, by Niyaz
+      accessed: '2026-10-19'
+  performer:
+  - value: Q9bb4a8
+    references:
+    - source: niyaz.bandcamp.com-album-the-best-of-niyaz-e5d6d67193d8
+      quote: The Best Of Niyaz, by Niyaz
+      accessed: '2026-10-19'
+  release date:
+  - value:
+      date: '2017-03-17'
+    references:
+    - source: niyaz.bandcamp.com-album-the-best-of-niyaz-e5d6d67193d8
+      quote: released March 17, 2017
+      accessed: '2026-10-19'
+  - value:
+      date: '2017-03-10'
+    references:
+    - source: www.sixdegreesrecords.com-wp-content-uploads-1996-01-estof-iyaz_--1.pdf
+      quote: 'Release date: March 10th 2017'
+      accessed: '2026-10-19'
+      locator: page 1
+  listen link:
+  - value: https://niyaz.bandcamp.com/album/the-best-of-niyaz
+    references:
+    - source: niyaz.bandcamp.com-album-the-best-of-niyaz-e5d6d67193d8
+      quote: The Best Of Niyaz, by Niyaz
+      accessed: '2026-10-19'
+  cover art:
+  - value: https://f4.bcbits.com/img/a0450553808_10.jpg
+    references:
+    - source: niyaz.bandcamp.com-album-the-best-of-niyaz-e5d6d67193d8
+      quote: The Best Of Niyaz, by Niyaz
+      accessed: '2026-10-19'
+    - source: niyaz.bandcamp.com-album-the-best-of-niyaz-e5d6d67193d8
+      quote: https://f4.bcbits.com/img/a0450553808_10.jpg
+      accessed: '2026-10-19'
+    qualifiers:
+      credit:
+        text: niyaz.bandcamp.com
+        language: en
+  published by:
+  - value: Qfjdpk8
+    references:
+    - source: www.sixdegreesrecords.com-wp-content-uploads-1996-01-estof-iyaz_--1.pdf
+      quote: Niyaz – “The Best Of Niyaz” Six Degrees Records
+      accessed: '2026-10-19'

@@ -1,0 +1,54 @@
+id: Qvtmthy
+type: release
+statements:
+  name:
+  - value:
+      text: Weeping Windows
+      language: en
+    references:
+    - &id001
+      source: music.apple.com-us-album-weeping-windows-single-1727204871-d8c37371ef9a
+      quote: 'Weeping Windows - Single
+
+        Saba Alizadeh
+
+        Worldwide · 2024'
+      accessed: '2026-11-06'
+  # Editorial Persian display spelling; source uses the original name.
+  - value:
+      text: پنجره‌های گریان
+      language: fa
+    references:
+    - *id001
+  release date:
+  - value:
+      date: '2024-01-29'
+    references:
+    - source: music.apple.com-us-album-weeping-windows-single-1727204871-d8c37371ef9a
+      quote: 'January 29, 2024
+
+        1 song, 3 minutes
+
+        ℗ 2024 saba alizadeh'
+      accessed: '2026-11-06'
+  performer:
+  - value: Qgbbc6t
+    references:
+    - *id001
+  listen link:
+  - value: https://music.apple.com/us/album/weeping-windows-single/1727204871
+    references:
+    - *id001
+  - value: https://open.spotify.com/track/6hJlnfV0x1o2VXe9Q1OGHv
+    references:
+    - source: open.spotify.com-embed-track-6hjlnfv0x1o2vxe9q1oghv-b8e2acca6da6
+      quote: 'Weeping Windows
+
+        Saba Alizadeh'
+      accessed: '2026-11-06'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6a/43/64/6a43644d-4351-584d-ee4c-6b67ba78ba60/5063413688260_cover.jpg/632x632bb-60.jpg
+    references:
+    - source: music.apple.com-us-album-weeping-windows-single-1727204871-d8c37371ef9a
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6a/43/64/6a43644d-4351-584d-ee4c-6b67ba78ba60/5063413688260_cover.jpg/632x632bb-60.jpg
+      accessed: '2026-11-06'

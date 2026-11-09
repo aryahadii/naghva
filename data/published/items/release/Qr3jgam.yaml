@@ -1,0 +1,75 @@
+id: Qr3jgam
+type: release
+statements:
+  name:
+  - value:
+      text: Be Raahe Khod
+      language: en
+    references:
+    - source: en.wikipedia.org-wiki-127_-band-83a9cf051973
+      quote: Be Raahe Khod (2019)
+      accessed: '2026-10-19'
+  - value:
+      text: به راه خود
+      language: fa
+    references:
+    - &id001
+      source: music.apple.com-us-album-d8-a8-d9-87--d8-b1-d8-a7-d9-87--d8-ae-d9-88-d8-af-1493314633-b6e1eab4b257
+      quote: به راه خود - Album by 127 - Apple Music
+      accessed: '2026-10-23'
+    - &id002
+      source: open.spotify.com-album-3lwcccoclpdfn0mm16hhsn-4e39ae809fa6
+      quote: به راه خود - Album by 127 - Spotify
+      accessed: '2026-10-23'
+  release date:
+  - value:
+      date: '2019'
+    references:
+    - source: en.wikipedia.org-wiki-127_-band-83a9cf051973
+      quote: Be Raahe Khod (2019)
+      accessed: '2026-10-19'
+  - value:
+      date: '2019-12-26'
+    rank: preferred
+    references:
+    - source: music.apple.com-us-album-d8-a8-d9-87--d8-b1-d8-a7-d9-87--d8-ae-d9-88-d8-af-1493314633-b6e1eab4b257
+      quote: '2019-12-26'
+      accessed: '2026-10-23'
+    - source: open.spotify.com-album-3lwcccoclpdfn0mm16hhsn-4e39ae809fa6
+      quote: '2019-12-26'
+      accessed: '2026-10-23'
+  performer:
+  - value: Q2n5y3k
+    references:
+    - source: en.wikipedia.org-wiki-127_-band-83a9cf051973
+      quote: Be Raahe Khod (2019)
+      accessed: '2026-10-19'
+  listen link:
+  - value: https://music.apple.com/us/album/%D8%A8%D9%87-%D8%B1%D8%A7%D9%87-%D8%AE%D9%88%D8%AF/1493314633
+    references:
+    - *id001
+  - value: https://open.spotify.com/album/3LWCCCoClPDFN0mm16hHSN
+    references:
+    - *id002
+  - value: https://www.youtube.com/playlist?list=OLAK5uy_nXY2KnD5iXO2CCOvTgUzCp_1pbaG6_ZD8
+    references:
+    - source: www.youtube.com-playlist-e88913fffbbf
+      quote: به راه خود
+      accessed: '2026-10-23'
+    - source: www.youtube.com-playlist-e88913fffbbf
+      quote: 127 • Album
+      accessed: '2026-10-23'
+    - source: www.youtube.com-playlist-e88913fffbbf
+      quote: "11 video's"
+      accessed: '2026-10-23'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/d1/ec/ec/d1ecec89-357f-b8a4-6092-70891e8eaf40/194660501363.jpg/600x600bf-60.jpg
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-d8-a8-d9-87--d8-b1-d8-a7-d9-87--d8-ae-d9-88-d8-af-1493314633-b6e1eab4b257
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/d1/ec/ec/d1ecec89-357f-b8a4-6092-70891e8eaf40/194660501363.jpg/600x600bf-60.jpg
+      accessed: '2026-10-23'
+    - *id001

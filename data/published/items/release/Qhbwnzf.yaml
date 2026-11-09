@@ -1,0 +1,117 @@
+id: Qhbwnzf
+type: release
+statements:
+  name:
+  - value:
+      text: باد پاییزی
+      language: fa
+    references:
+    - source: soundcloud.com-marjan-farsad-badeh-paeezi-marjan-farsad-7d1455633df9
+      quote: |-
+        Badeh Paeezi - Marjan farsad - مرجان فرساد - باد پاییزی
+      accessed: '2026-10-22'
+  - value:
+      text: Badeh Paeezi
+      language: en
+    references:
+    - source: music.apple.com-us-album-badeh-paeezi-single-1719549402-36c6811e1073
+      quote: |-
+        Badeh Paeezi - Single
+      accessed: '2026-10-22'
+  release date:
+  - value:
+      date: '2023-12-05'
+    references:
+    - source: music.apple.com-us-album-badeh-paeezi-single-1719549402-36c6811e1073
+      quote: |-
+        2023-12-05
+      accessed: '2026-10-22'
+  - value:
+      date: '2023-12-03'
+    references:
+    - source: soundcloud.com-marjan-farsad-badeh-paeezi-marjan-farsad-7d1455633df9
+      quote: |-
+        2023-12-03T00:00:00Z
+      accessed: '2026-10-22'
+  performer:
+  - value: Q3te3g6
+    references:
+    - source: music.apple.com-us-album-badeh-paeezi-single-1719549402-36c6811e1073
+      quote: |-
+        Marjan Farsad
+      accessed: '2026-10-22'
+  - value: Qfxfy6v
+    qualifiers:
+      role: guitar
+    references:
+    - source: soundcloud.com-marjan-farsad-badeh-paeezi-marjan-farsad-7d1455633df9
+      quote: 'Producer, Guitar, Mix: Shervin Najafian'
+      accessed: '2026-10-22'
+  - value: Q2ph5tv
+    qualifiers:
+      role: piano
+    references:
+    - source: soundcloud.com-marjan-farsad-badeh-paeezi-marjan-farsad-7d1455633df9
+      quote: 'Piano: Nima Hafezieh'
+      accessed: '2026-10-22'
+  contributor:
+  - value: Q3te3g6
+    qualifiers:
+      role:
+      - composer
+    references:
+    - source: soundcloud.com-marjan-farsad-badeh-paeezi-marjan-farsad-7d1455633df9
+      quote: 'Music, Lyrics: Marjan Farsad'
+      accessed: '2026-10-22'
+  - value: Q3te3g6
+    qualifiers:
+      role:
+      - lyricist
+    references:
+    - source: soundcloud.com-marjan-farsad-badeh-paeezi-marjan-farsad-7d1455633df9
+      quote: 'Music, Lyrics: Marjan Farsad'
+      accessed: '2026-10-22'
+  - value: Qfxfy6v
+    qualifiers:
+      role:
+      - producer
+    references:
+    - source: soundcloud.com-marjan-farsad-badeh-paeezi-marjan-farsad-7d1455633df9
+      quote: 'Producer, Guitar, Mix: Shervin Najafian'
+      accessed: '2026-10-22'
+  listen link:
+  - value: https://music.apple.com/us/album/badeh-paeezi-single/1719549402
+    references:
+    - source: music.apple.com-us-album-badeh-paeezi-single-1719549402-36c6811e1073
+      quote: |-
+        Badeh Paeezi - Single
+      accessed: '2026-10-22'
+  - value: https://open.spotify.com/album/7MmyJdnqAel9bWyyTeBkaE
+    references:
+    - source: open.spotify.com-embed-uri-spotify-3aalbum-3a7mmyjdnqael9bwyytebkae-33dcab961885
+      quote: |-
+        spotify:album:7MmyJdnqAel9bWyyTeBkaE
+      accessed: '2026-10-22'
+  - value: https://soundcloud.com/marjan-farsad/badeh-paeezi-marjan-farsad
+    references:
+    - source: soundcloud.com-marjan-farsad-badeh-paeezi-marjan-farsad-7d1455633df9
+      quote: |-
+        Badeh Paeezi - Marjan farsad - مرجان فرساد - باد پاییزی
+      accessed: '2026-10-22'
+  - value: https://www.youtube.com/watch?v=6i398feyQlE
+    references:
+    - source: www.youtube.com-watch-v-6i398feyqle-4771e5cec776
+      quote: |-
+        Badeh Paeezi - Marjan Farsad - مرجان فرساد - باد پاییزی
+      accessed: '2026-10-22'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c5/27/ac/c527ac22-ae31-3524-7697-9d1a79280c6c/artwork.jpg/1200x630bb.jpg
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-badeh-paeezi-single-1719549402-36c6811e1073
+      quote: |-
+        https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c5/27/ac/c527ac22-ae31-3524-7697-9d1a79280c6c/artwork.jpg/1200x630bb.jpg
+      accessed: '2026-10-22'

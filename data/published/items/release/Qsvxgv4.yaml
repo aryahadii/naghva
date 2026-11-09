@@ -1,0 +1,24 @@
+id: Qsvxgv4
+type: release
+statements:
+  name:
+  - value:
+      text: Ay Yarom Bia
+      language: en
+    references:
+    - &id001
+      source: www.kiosktheband.com-the-band-35235d067344
+      quote: '2008: Ay Yarom Bia featuring Mohsen Namjoo'
+      accessed: '2026-10-19'
+  performer:
+  - value: Qtgn2be
+    references:
+    - *id001
+  - value: Qt6wjbg
+    references:
+    - *id001
+  release date:
+  - value:
+      date: '2008'
+    references:
+    - *id001

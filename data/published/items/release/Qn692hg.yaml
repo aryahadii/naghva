@@ -1,0 +1,55 @@
+id: Qn692hg
+type: release
+statements:
+  name:
+  - value:
+      text: Zoozanaghe
+      language: en
+    references:
+    - &id001
+      source: soundcloud.com-mehradhiddenofficial-sets-zoozanaghe-c787a9db59d8
+      quote: Zoozanaghe
+      accessed: '2026-11-06'
+  - value:
+      text: ذوزنقه
+      language: fa
+    # Editorial Persian display spelling; source uses the Latin name.
+    references:
+    - *id001
+  performer:
+  - value: Qnyy8bz
+    references:
+    - &id002
+      source: music.apple.com-us-album-zoozanaghe-1612653428-a013c9d8400e
+      quote: '"byArtist":[{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/mehrad-hidden/632147450","name":"Mehrad Hidden"},{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/moody-moussavi/1556901633","name":"Moody Moussavi"}]'
+      accessed: '2026-11-06'
+  - value: Qv5ybzr
+    references:
+    - *id002
+  release date:
+  - value:
+      date: '2022-03-02'
+    references:
+    - source: music.apple.com-us-album-zoozanaghe-1612653428-a013c9d8400e
+      quote: '"datePublished":"2022-03-02"'
+      accessed: '2026-11-06'
+  listen link:
+  - value: https://soundcloud.com/mehradhiddenofficial/sets/zoozanaghe
+    references:
+    - *id001
+  - value: https://music.apple.com/us/album/zoozanaghe/1612653428
+    references:
+    - source: music.apple.com-us-album-zoozanaghe-1612653428-a013c9d8400e
+      quote: '"name":"Zoozanaghe"'
+      accessed: '2026-11-06'
+  - value: https://open.spotify.com/album/61ls9EwSwhDuElW9xzyb3M
+    references:
+    - source: open.spotify.com-album-61ls9ewswhduelw9xzyb3m-3c41b00186a1
+      quote: Listen to Zoozanaghe - Album by Mehrad Hidden | Spotify
+      accessed: '2026-11-06'
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-j8IyiLy5YKzwg8ol-uz0BGQ-t500x500.jpg
+    references:
+    - source: soundcloud.com-mehradhiddenofficial-sets-zoozanaghe-c787a9db59d8
+      quote: https://i1.sndcdn.com/artworks-j8IyiLy5YKzwg8ol-uz0BGQ-t500x500.jpg
+      accessed: '2026-11-06'

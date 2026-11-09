@@ -1,0 +1,45 @@
+id: Qqxxzbz
+type: release
+statements:
+  name:
+  - value:
+      text: Mr. Mean
+      language: en
+    references:
+    - source: music.apple.com-us-album-mr-mean-736586588-cb9b21a7c5a1
+      quote: Mr. Mean - Album by Ali Azimi - Apple Music
+      accessed: '2026-10-19'
+  release date:
+  - value:
+      date: '2013-10-26'
+    references:
+    - source: music.apple.com-us-album-mr-mean-736586588-cb9b21a7c5a1
+      quote: October 26, 2013
+      accessed: '2026-10-19'
+  performer:
+  - value: Qde2bbb
+    references:
+    - source: music.apple.com-us-album-mr-mean-736586588-cb9b21a7c5a1
+      quote: Mr. Mean - Album by Ali Azimi - Apple Music
+      accessed: '2026-10-19'
+  listen link:
+  - value: https://music.apple.com/us/album/mr-mean/736586588
+    references:
+    - source: music.apple.com-us-album-mr-mean-736586588-cb9b21a7c5a1
+      quote: Mr. Mean - Album by Ali Azimi - Apple Music
+      accessed: '2026-10-19'
+  - value: https://open.spotify.com/album/5sHpEzxyL9ERGszjLaS4jC
+    references:
+    - source: open.spotify.com-album-5shpezxyl9ergszjlas4jc-6422f600f1ae
+      quote: Listen to Mr Mean - Album by Ali Azimi | Spotify
+      accessed: '2026-10-22'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/6a/27/f6/6a27f63e-b5e3-3727-f795-8cfa819abe78/0082045099881.jpg/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: music.apple.com
+        language: en
+    references:
+    - source: music.apple.com-us-album-mr-mean-736586588-cb9b21a7c5a1
+      quote: Mr. Mean - Album by Ali Azimi - Apple Music
+      accessed: '2026-10-19'

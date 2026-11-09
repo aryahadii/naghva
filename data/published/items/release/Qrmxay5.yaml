@@ -1,0 +1,40 @@
+id: Qrmxay5
+type: release
+statements:
+  name:
+  - value:
+      text: Khastoo
+      language: en
+    references:
+    - source: music.apple.com-us-album-khastoo-577101116-track-577101330
+      quote: Khastoo
+      accessed: '2026-10-23'
+  release date:
+  - value:
+      date: '2007'
+    references:
+    - source: music.apple.com-us-album-khastoo-577101116-track-577101330
+      quote: '2007'
+      accessed: '2026-10-23'
+  performer:
+  - value: Qmgppfe
+    references:
+    - source: music.apple.com-us-album-khastoo-577101116-track-577101330
+      quote: Peter Soleimanipour
+      accessed: '2026-10-23'
+  listen link:
+  - value: https://music.apple.com/us/album/khastoo/577101116?i=577101330
+    references:
+    - source: music.apple.com-us-album-khastoo-577101116-track-577101330
+      quote: https://music.apple.com/us/album/khastoo/577101116?i=577101330
+      accessed: '2026-10-23'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music/v4/71/8a/7c/718a7c36-5e40-7636-7758-f55eb65c5391/cover.jpg/1400x1400bb.jpg
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-khastoo-577101116-track-577101330
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music/v4/71/8a/7c/718a7c36-5e40-7636-7758-f55eb65c5391/cover.jpg/1400x1400bb.jpg
+      accessed: '2026-10-23'
