@@ -48,7 +48,8 @@ statements:
       role: vocals
     references:
     - source: soundcloud.com-yastunes-baaq-870ed9b0b7dc
-      quote: 'Scream Vocal Performance: Haniye Kian'
+      quote: |-
+        Scream Vocal Performance: Haniye Kian
       accessed: '2026-10-19'
   contributor:
   - value: Qvwv6gz
@@ -58,7 +59,8 @@ statements:
       - composer
     references:
     - source: soundcloud.com-yastunes-baaq-870ed9b0b7dc
-      quote: 'Music Producer & Composer: Farbod Arsh @FarbodArsh'
+      quote: |-
+        Music Producer & Composer: Farbod Arsh @FarbodArsh
       accessed: '2026-10-19'
   listen link:
   - value: https://soundcloud.com/yastunes/baaq
@@ -82,8 +84,21 @@ statements:
   - value: https://music.apple.com/us/album/baaq/1800938970?i=1800938971
     references:
     - source: music.apple.com-song-baaq-1800938971
-      quote: 'Listen to Baaq by Yas on Apple Music. 2025. Duration: 17:18'
+      quote: |-
+        Listen to Baaq by Yas on Apple Music. 2025. Duration: 17:18
       accessed: '2026-10-27'
+  - value: https://music.apple.com/us/album/baaq-ep/1800938970
+    references:
+    - source: music.apple.com-baaq-ep-1800938970
+      quote: |-
+        March 8, 2025 1 song, 17 minutes ℗ 2025 The Faryas Group (TFG)
+      accessed: '2026-11-09'
+  - value: https://open.spotify.com/album/3ItHqWOJkNA3mE5uWxr7o4
+    references:
+    - source: open.spotify.com-album-3ithqwojkna3me5uwxr7o4
+      quote: |-
+        Listen to BAAQ - Single by Yas | Spotify
+      accessed: '2026-11-09'
   cover art:
   - value: https://i1.sndcdn.com/artworks-Kozj3juOlu27-0-t500x500.png
     references:
@@ -96,9 +111,18 @@ statements:
         https://i1.sndcdn.com/artworks-Kozj3juOlu27-0-t500x500.png
       accessed: '2026-10-19'
     - source: soundcloud.com-yastunes-baaq-870ed9b0b7dc
-      quote: 'Artwork Artist: Farah Ossouli'
+      quote: |-
+        Artwork Artist: Farah Ossouli
       accessed: '2026-10-19'
     qualifiers:
       credit:
         text: Farah Ossouli
         language: en
+  release date:
+  - value:
+      date: '2025-03-08'
+    references:
+    - source: music.apple.com-baaq-ep-1800938970
+      quote: |-
+        March 8, 2025 1 song, 17 minutes ℗ 2025 The Faryas Group (TFG)
+      accessed: '2026-11-09'

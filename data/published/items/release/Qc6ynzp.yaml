@@ -7,19 +7,46 @@ statements:
       language: en
     references:
     - source: t.me-yastunes-461
-      quote: Yas -Lal
+      quote: |-
+        Yas -Lal
       accessed: '2026-10-27'
   performer:
   - value: Qx3svqf
     references:
     - source: t.me-yastunes-461
-      quote: Yas -Lal
+      quote: |-
+        Yas -Lal
       accessed: '2026-10-27'
   listen link:
   - value: https://soundcloud.com/yastunes/lal
     references:
     - source: m.soundcloud.com-yastunes-lal
-      quote: 'LaL
-
-        YAS'
+      quote: |-
+        LaL
+        YAS
       accessed: '2026-10-27'
+  - value: https://music.apple.com/us/album/lal-single/1605503553
+    references:
+    - source: music.apple.com-us-album-lal-single-1605503553
+      quote: |-
+        Lal - Single - Album by Yas - Apple Music
+      accessed: '2026-11-09'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9c/3f/39/9c3f3979-4ee9-f073-bc68-c227f4aad393/8720205513762.png/1200x630wp-60.jpg
+    references:
+    - source: music.apple.com-us-album-lal-single-1605503553
+      quote: |-
+        Lal - Single - Album by Yas - Apple Music
+      accessed: '2026-11-09'
+    qualifiers:
+      credit:
+        text: music.apple.com
+        language: en
+  release date:
+  - value:
+      date: '2020-08-01'
+    references:
+    - source: music.apple.com-us-album-lal-single-1605503553
+      quote: |-
+        August 1, 2020
+      accessed: '2026-11-09'

@@ -26,7 +26,8 @@ statements:
       - composer
     references:
     - source: t.me-yastunes-222
-      quote: 'آهنگساز: فربد عرش'
+      quote: |-
+        آهنگساز: فربد عرش
       accessed: '2026-10-27'
   listen link:
   - value: https://soundcloud.com/yastunes/sarkoob
@@ -36,3 +37,43 @@ statements:
         Sarkoob
         YAS
       accessed: '2026-10-27'
+  - value: https://music.apple.com/us/album/sarkoob-ep/1605503784
+    references:
+    - source: music.apple.com-us-album-sarkoob-ep-1605503784
+      quote: |-
+        Sarkoob - EP - Album by Yas - Apple Music
+      accessed: '2026-11-09'
+  - value: https://open.spotify.com/album/6CgagEReZBm4aENfI0JKrD
+    references:
+    - source: open.spotify.com-album-6cgagerezbm4aenfi0jkrd
+      quote: |-
+        Listen to Sarkoob - Single by Yas | Spotify
+      accessed: '2026-11-09'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/58/b3/ee/58b3ee23-5cec-9c52-aadc-ea4fed5837d6/8720205513014.png/1200x630wp-60.jpg
+    references:
+    - source: music.apple.com-us-album-sarkoob-ep-1605503784
+      quote: |-
+        Sarkoob - EP - Album by Yas - Apple Music
+      accessed: '2026-11-09'
+    qualifiers:
+      credit:
+        text: music.apple.com
+        language: en
+  release date:
+  - value:
+      date: '1395-12-30'
+      calendar: jalali
+    rank: preferred
+    references:
+    - source: fa.wikipedia.org-wiki-yas-singer
+      quote: |-
+        در ۳۰ اسفند ۱۳۹۵ آهنگ «سرکوب» یاس با آهنگسازی فربد عرش از رادیو جوان منتشر شد. این آهنگ که یکی از طولانی‌ترین ترانه‌های اجرا شده در رپ فارسی تا آن زمان بود
+      accessed: '2026-11-09'
+  - value:
+      date: '2017-11-01'
+    references:
+    - source: music.apple.com-us-album-sarkoob-ep-1605503784
+      quote: |-
+        November 1, 2017
+      accessed: '2026-11-09'

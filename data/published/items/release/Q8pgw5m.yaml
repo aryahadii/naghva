@@ -40,12 +40,40 @@ statements:
       - composer
     references:
     - source: t.me-yastunes-472
-      quote: 'آهنگساز : عرش'
+      quote: |-
+        آهنگساز : عرش
       accessed: '2026-10-27'
     - source: t.me-yastunes-472
       quote: |-
         @FarbodArsh
       accessed: '2026-10-27'
     - source: soundcloud.com-yastunes-baaq-870ed9b0b7dc
-      quote: 'Music Producer & Composer: Farbod Arsh @FarbodArsh'
+      quote: |-
+        Music Producer & Composer: Farbod Arsh @FarbodArsh
       accessed: '2026-10-19'
+  listen link:
+  - value: https://music.apple.com/us/album/agah-single/1524877382
+    references:
+    - source: music.apple.com-us-album-agah-single-1524877382
+      quote: |-
+        Agah - Single - Album by Moer & Yas - Apple Music
+      accessed: '2026-11-09'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7f/e8/98/7fe8982b-f068-3cfd-2e2f-6b2316f74529/195448063196.jpg/1200x630wp-60.jpg
+    references:
+    - source: music.apple.com-us-album-agah-single-1524877382
+      quote: |-
+        Agah - Single - Album by Moer & Yas - Apple Music
+      accessed: '2026-11-09'
+    qualifiers:
+      credit:
+        text: music.apple.com
+        language: en
+  release date:
+  - value:
+      date: '2020-07-16'
+    references:
+    - source: music.apple.com-us-album-agah-single-1524877382
+      quote: |-
+        July 16, 2020
+      accessed: '2026-11-09'

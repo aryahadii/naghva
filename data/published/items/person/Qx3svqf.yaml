@@ -7,5 +7,227 @@ statements:
       language: en
     references:
     - source: music.apple.com-us-album-old-of-yas-1605502238
-      quote: Old of Yas - Album by yas - Apple Music
+      quote: |-
+        Old of Yas - Album by yas - Apple Music
       accessed: '2026-11-08'
+  profile link:
+  - value: https://music.apple.com/us/artist/yas/415474542
+    references:
+    - source: music.apple.com-us-artist-yas-415474542
+      quote: |-
+        Yas - Apple Music
+      accessed: '2026-11-09'
+  - value: https://open.spotify.com/artist/7b8pXheEOc28fyFJnQzqmL
+    references:
+    - source: open.spotify.com-artist-7b8pxheeoc28fyfjnqzqml
+      quote: |-
+        Listen to Yas Songs | Spotify
+      accessed: '2026-11-09'
+  - value: https://soundcloud.com/yastunes
+    references:
+    - source: soundcloud.com-yastunes
+      quote: |-
+        Stream YAS music | Listen to songs, albums, playlists for free on SoundCloud
+      accessed: '2026-11-09'
+  - value: https://t.me/s/yastunes
+    references:
+    - source: t.me-s-yastunes
+      quote: |-
+        YAS
+      accessed: '2026-11-09'
+  birth date:
+  - value:
+      date: '1361-03-30'
+      calendar: jalali
+    references:
+    - source: fa.wikipedia.org-wiki-yas-singer
+      quote: |-
+        یاسر بختیاری با نام هنری یاس، در ۳۰ خرداد ۱۳۶۱ متولد شد. دوران کودکی وی در محله‌های ناصر خسرو، اکباتان و شمشیری در تهران سپری شد.
+      accessed: '2026-11-09'
+  - value:
+      date: '1982'
+    references:
+    - source: en.wikipedia.org-wiki-yas_-rapper-03e0bb95b0de
+      quote: |-
+        Yaser Bakhtiari (Persian: یاسر بختیاری, born 1982) better known by his stage name Yas /jɑːs/ (یاس), is an Iranian rapper.
+      accessed: '2026-11-09'
+  life event:
+  - value:
+      text: دوران کودکی وی در محله‌های ناصر خسرو، اکباتان و شمشیری در تهران سپری شد.
+      language: fa
+    qualifiers:
+      place: Qhm6fzw
+    references:
+    - source: fa.wikipedia.org-wiki-yas-singer
+      quote: |-
+        یاسر بختیاری با نام هنری یاس، در ۳۰ خرداد ۱۳۶۱ متولد شد. دوران کودکی وی در محله‌های ناصر خسرو، اکباتان و شمشیری در تهران سپری شد.
+      accessed: '2026-11-09'
+  - value:
+      text: وی ۱۸ ساله بود که پدرش از دنیا رفت
+      language: fa
+    references:
+    - source: fa.wikipedia.org-wiki-yas-singer
+      quote: |-
+        وی ۱۸ ساله بود که پدرش از دنیا رفت و پس از آن به همراه خانواده‌اش زندگی سختی را در نبود پدرشان سپری کرد. یاس که فرزند بزرگ خانواده بود تحصیل خود در رشتهٔ عمران دانشگاه را نیمه‌کاره رها کرد و به سمت کار برای تأمین مخارج خانواده گام نهاد و در کنار فعالیت موسیقی به کار در شرکت بازرگانی عمویش و مسافرکشی با اتومبیل پیکان پرداخت.
+      accessed: '2026-11-09'
+  - value:
+      text: تحصیل خود در رشتهٔ عمران دانشگاه را نیمه‌کاره رها کرد
+      language: fa
+    references:
+    - source: fa.wikipedia.org-wiki-yas-singer
+      quote: |-
+        وی ۱۸ ساله بود که پدرش از دنیا رفت و پس از آن به همراه خانواده‌اش زندگی سختی را در نبود پدرشان سپری کرد. یاس که فرزند بزرگ خانواده بود تحصیل خود در رشتهٔ عمران دانشگاه را نیمه‌کاره رها کرد و به سمت کار برای تأمین مخارج خانواده گام نهاد و در کنار فعالیت موسیقی به کار در شرکت بازرگانی عمویش و مسافرکشی با اتومبیل پیکان پرداخت.
+      accessed: '2026-11-09'
+  - value:
+      text: Yas started his work after the 2003 Bam earthquake.
+      language: en
+    qualifiers:
+      point in time:
+        date: '2003'
+    references:
+    - source: en.wikipedia.org-wiki-yas_-rapper-03e0bb95b0de
+      quote: |-
+        Yas started his work after the 2003 Bam earthquake. Devastated by the disaster, it was then, that he wrote his first song "Bam". This was the beginning of his rapping career.
+      accessed: '2026-11-09'
+  - value:
+      text: یاس در سال ۱۳۸۵ آهنگ یادت نره را با همکاری مجید غفوری، خوانندهٔ رپ منتشر کرد.
+      language: fa
+    qualifiers:
+      point in time:
+        date: '1385'
+        calendar: jalali
+    references:
+    - source: fa.wikipedia.org-wiki-yas-singer
+      quote: |-
+        یاس در سال ۱۳۸۵ آهنگ یادت نره را با همکاری مجید غفوری، خوانندهٔ رپ منتشر کرد. این اثر یکی از قطعات آلبوم نگو دیره از غفوری بود که با مجوز وزارت ارشاد اسلامی منتشر شد و بدین ترتیب این اثر نخستین آهنگ با صدای یاس شد که با مجوز رسمی نهادهای دولتی ایران منتشر شد.
+      accessed: '2026-11-09'
+  - value:
+      text: در ۱۳۸۶ یاس در سفری شش هفته‌ای به ایالات متحده آمریکا به اجرای چندین کنسرت در این کشور پرداخت.
+      language: fa
+    qualifiers:
+      point in time:
+        date: '1386'
+        calendar: jalali
+    references:
+    - source: fa.wikipedia.org-wiki-yas-singer
+      quote: |-
+        در ۱۳۸۶ یاس در سفری شش هفته‌ای به ایالات متحده آمریکا به اجرای چندین کنسرت در این کشور پرداخت.
+      accessed: '2026-11-09'
+  - value:
+      text: یاس در اردیبهشت ۱۳۸۷ در «همایش ملی آسیب‌شناسی جوانان» در شیراز
+      language: fa
+    qualifiers:
+      point in time:
+        date: 1387-02
+        calendar: jalali
+      place: Qf4ca5r
+    references:
+    - source: fa.wikipedia.org-wiki-yas-singer
+      quote: |-
+        یاس در اردیبهشت ۱۳۸۷ در «همایش ملی آسیب‌شناسی جوانان» در شیراز با دعوت از دانشگاه شیراز شرکت کرد و در آن‌جا در مقابل منتقدان موسیقی رپ که در این نشست افزایش «خشونت» و «بی‌بند و باری» در جامعه را از خصوصیات آن عنوان کردند به دفاع از سبک موسیقی رپ پرداخت.
+      accessed: '2026-11-09'
+  - value:
+      text: On 21 December 2011 Yas was chosen by the voters as the Artist of the Week in MTV IGGY
+      language: en
+    qualifiers:
+      point in time:
+        date: '2011-12-21'
+    references:
+    - source: en.wikipedia.org-wiki-yas_-rapper-03e0bb95b0de
+      quote: |-
+        On 21 December 2011 Yas was chosen by the voters as the Artist of the Week in MTV IGGY[5] Entitled Tehran’s Hard-Hitting MC.
+      accessed: '2026-11-09'
+  - value:
+      text: in 2013 he became the first Iranian rapper to be allowed by the Islamic Republic to legally perform in Iran.
+      language: en
+    qualifiers:
+      point in time:
+        date: '2013'
+    references:
+    - source: en.wikipedia.org-wiki-yas_-rapper-03e0bb95b0de
+      quote: |-
+        Yas is one of the founders of Persian rap, and in 2013 he became the first Iranian rapper to be allowed by the Islamic Republic to legally perform in Iran.
+      accessed: '2026-11-09'
+  - value:
+      text: یاس ۱۹ اسفند ۱۳۹۱ برای همکاری با تک ناین
+      language: fa
+    qualifiers:
+      point in time:
+        date: '1391-12-19'
+        calendar: jalali
+    references:
+    - source: fa.wikipedia.org-wiki-yas-singer
+      quote: |-
+        یاس ۱۹ اسفند ۱۳۹۱ برای همکاری با تک ناین به عنوان یک همکاری بین‌المللی بین دو رپر ایرانی و آمریکایی، ایران را ترک کرد و راهی آمریکا شد.
+      accessed: '2026-11-09'
+  - value:
+      text: During his travels he stopped in Kansas City to visit the one and only Tech N9ne
+      language: en
+    qualifiers:
+      point in time:
+        date: 2013-03
+      place: Q62gt8q
+    references:
+    - source: www.strangemusicinc.com-2013-03-11-yas-and-tech-n9ne-song-collaboration
+      quote: |-
+        Yas, the first rapper authorized to perform in Iran, has traveled from his native soil to record hip hop in the land where it all started: the USA. During his travels he stopped in Kansas City to visit the one and only Tech N9ne, who received the “Persian Tupac” with open arms.
+      accessed: '2026-11-09'
+  - value:
+      text: Tech N9ne and Yas recently ventured out in Kansas City to shoot a music video for “Sound Of Unity”.
+      language: en
+    qualifiers:
+      point in time:
+        date: 2013-11
+      place: Q62gt8q
+    references:
+    - source: strangemusicinc.com-2013-11-tech-n9ne-tech-n9ne-and-iranian-emcee-yas-shoot-a-music-video-together-in-kc
+      quote: |-
+        Tech N9ne and Yas recently ventured out in Kansas City to shoot a music video for “Sound Of Unity”.
+      accessed: '2026-11-09'
+  - value:
+      text: در سال‌های ۲۰۱۳ و ۲۰۱۴ تور کنسرتی در شهرهای مختلف ایالات متحده و کانادا
+      language: fa
+    qualifiers:
+      point in time:
+        date: 2013/2014
+    references:
+    - source: fa.wikipedia.org-wiki-yas-singer
+      quote: |-
+        در سال‌های ۲۰۱۳ و ۲۰۱۴ تور کنسرتی در شهرهای مختلف ایالات متحده و کانادا از جمله سن‌فرانسیسکو، ونکوور، تورنتو و مونترال اجرا کرد.
+      accessed: '2026-11-09'
+  - value:
+      text: وی پس از بازگشت به ایران در ۲۱ اسفند ۱۳۹۳ ترانهٔ بد شدم را منتشر نمود
+      language: fa
+    qualifiers:
+      point in time:
+        date: '1393-12-21'
+        calendar: jalali
+    references:
+    - source: fa.wikipedia.org-wiki-yas-singer
+      quote: |-
+        وی پس از بازگشت به ایران در ۲۱ اسفند ۱۳۹۳ ترانهٔ بد شدم را منتشر نمود و سپس در ۲۵ فروردین ۱۳۹۴ آهنگی با عنوان مسافر را منتشر کرد که در آن به شرح‌حال خودش و سفرهای دو سال اخیرش پرداخته بود.
+      accessed: '2026-11-09'
+  - value:
+      text: در ۱۹ خرداد ۱۳۹۵ فیلم بارکد بدون آهنگ یاس بر روی پردهٔ سینما رفت.
+      language: fa
+    qualifiers:
+      point in time:
+        date: '1395-03-19'
+        calendar: jalali
+    references:
+    - source: fa.wikipedia.org-wiki-yas-singer
+      quote: |-
+        در ۱۹ خرداد ۱۳۹۵ فیلم بارکد بدون آهنگ یاس بر روی پردهٔ سینما رفت. این در حالی بود که به دلیل خواندن تیتراژ پایانی این فیلم توسط یاس مجوز اکران آن صادر نشده بود و شرط اکران آن حذف صدای یاس عنوان شده بود. پس از پذیرفتن حذف صدای یاس از تیتراژ این فیلم توسط تهیه‌کننده، مجوز اکران صادر شد.
+      accessed: '2026-11-09'
+  - value:
+      text: تماشاگران این فیلم همزمان با پخش تیتراژ پایانی، آهنگ بارکد (من ادامه می‌دم ۲) یاس را در سینماهای ایران خواندند
+      language: fa
+    qualifiers:
+      point in time:
+        date: '1395'
+        calendar: jalali
+    references:
+    - source: fa.wikipedia.org-wiki-yas-singer
+      quote: |-
+        در واکنش به حذف صدای یاس از تیتراژ فیلم بارکد، تماشاگران این فیلم همزمان با پخش تیتراژ پایانی، آهنگ بارکد (من ادامه می‌دم ۲) یاس را در سینماهای ایران خواندند و این‌گونه اعتراض خود را به حذف صدای یاس نشان دادند.
+      accessed: '2026-11-09'
