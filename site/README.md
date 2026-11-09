@@ -244,7 +244,8 @@ that both public domains serve the artifact's commit SHA from `/build.json`.
 Deployment requires the
 repository's Cloudflare credentials. `SITE_URL` holds the published address for
 canonical links and the sitemap; CI also requires a full commit SHA in
-`NAGHVA_BUILD_SHA` or `GITHUB_SHA`. Local builds identify themselves as `local`.
+`NAGHVA_BUILD_SHA`, `GITHUB_SHA` or Cloudflare’s `WORKERS_CI_COMMIT_SHA`.
+Local builds identify themselves as `local`.
 
 ## Analytics
 
