@@ -30,17 +30,18 @@ statements:
   - value: https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/dc/7d/c4/dc7dc48f-1f30-05f1-0216-cc87c19c91e8/6a36f969-364b-4211-95b5-a2783e149edf_file_cropped.png/1200x630cw.png
     references:
     - source: music.apple.com-us-artist-mohsen-namjoo-267858899
-      quote: ‎Mohsen Namjoo - Apple Music
+      quote: |-
+        ‎Mohsen Namjoo - Apple Music
       accessed: '2026-10-19'
     - source: music.apple.com-us-artist-mohsen-namjoo-267858899
-      quote: https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/dc/7d/c4/dc7dc48f-1f30-05f1-0216-cc87c19c91e8/6a36f969-364b-4211-95b5-a2783e149edf_file_cropped.png/1200x630cw.png
+      quote: |-
+        https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/dc/7d/c4/dc7dc48f-1f30-05f1-0216-cc87c19c91e8/6a36f969-364b-4211-95b5-a2783e149edf_file_cropped.png/1200x630cw.png
       accessed: '2026-10-19'
     - source: music.apple.com-us-album-motantan-1502162077-d6430986465b
-      quote: 'Motantan
-
+      quote: |-
+        Motantan
         Mohsen Namjoo
-
-        Rock · 2020'
+        Rock · 2020
       accessed: '2026-10-19'
     qualifiers:
       credit:
@@ -50,32 +51,207 @@ statements:
   - value: https://music.apple.com/us/artist/mohsen-namjoo/267858899
     references:
     - source: music.apple.com-us-artist-mohsen-namjoo-267858899
-      quote: ‎Mohsen Namjoo - Apple Music
+      quote: |-
+        ‎Mohsen Namjoo - Apple Music
       accessed: '2026-10-19'
   - value: https://t.me/Official_MohsenNamjoo
     references:
     - source: t.me-s-fficial_-ohsen-amjoo
-      quote: Mohsen Namjoo | محسن نامجو – Telegram
+      quote: |-
+        Mohsen Namjoo | محسن نامجو – Telegram
       accessed: '2026-10-19'
     - source: t.me-s-fficial_-ohsen-amjoo
-      quote: https://t.me/s/Official_MohsenNamjoo
+      quote: |-
+        https://t.me/s/Official_MohsenNamjoo
       accessed: '2026-10-19'
   - value: https://youtube.com/@officialmohsennamjoo
     references:
     - source: t.me-s-fficial_-ohsen-amjoo
-      quote: Mohsen Namjoo | محسن نامجو – Telegram
+      quote: |-
+        Mohsen Namjoo | محسن نامجو – Telegram
       accessed: '2026-10-19'
     - source: t.me-s-fficial_-ohsen-amjoo
-      quote: http://youtube.com/@officialmohsennamjoo
+      quote: |-
+        http://youtube.com/@officialmohsennamjoo
       accessed: '2026-10-19'
   - value: https://soundcloud.com/mohsennamjoo
     references:
     - source: www.mohsennamjoo.com-bio-5245eac68977
-      quote: http://soundcloud.com/mohsennamjoo
+      quote: |-
+        http://soundcloud.com/mohsennamjoo
       accessed: '2026-10-23'
+  - value: https://open.spotify.com/artist/4eVyI1yiHoRjVrxt5y7gGL
+    references:
+    - source: open.spotify.com-artist-4evyi1yihorjvrxt5y7ggl
+      quote: |-
+        Listen to Mohsen Namjoo Songs | Spotify
+      accessed: '2026-11-09'
   member of:
   - value: Qcv3yzh
     references:
     - source: www.seattletimes.com-entertainment-exiled-iranian-singer-mohsen-namjoo-makes-northwest-debut-76a02efb42b2
-      quote: Namjoo and Abdi began performing with their rock band, Maad, in 2002, but the authorities shut them down.
+      quote: |-
+        Namjoo and Abdi began performing with their rock band, Maad, in 2002, but the authorities shut them down.
       accessed: '2026-11-03'
+  birthplace:
+  - value: Qzvzksr
+    references:
+    - source: en.wikipedia.org-wiki-mohsen_namjoo
+      quote: |-
+        Namjoo was born on 4 March 1976 in Torbat-e Jam, a small town in Razavi Khorasan province in northeastern Iran. He was raised in the religious city of Mashhad.
+      accessed: '2026-11-09'
+    - source: qantara.de-en-article-iranian-singer-songwriter-mohsen-namjoo-innovator-cf3175230663
+      quote: |-
+        Mohsen Namjoo was born in Torbat-e-Jam in the Khorasan region.
+      accessed: '2026-11-09'
+  life event:
+  - value:
+      text: He was raised in the religious city of Mashhad.
+      language: en
+    qualifiers:
+      place: Qyra3r9
+    references:
+    - source: en.wikipedia.org-wiki-mohsen_namjoo
+      quote: |-
+        Namjoo was born on 4 March 1976 in Torbat-e Jam, a small town in Razavi Khorasan province in northeastern Iran. He was raised in the religious city of Mashhad.
+      accessed: '2026-11-09'
+  - value:
+      text: Namjoo's interest in western music grew during his military service.
+      language: en
+    references:
+    - source: qantara.de-en-article-iranian-singer-songwriter-mohsen-namjoo-innovator-cf3175230663
+      quote: |-
+        Namjoo's interest in western music grew during his military service. He read the history of blues and rock, and developed plans for his own musical projects.
+      accessed: '2026-11-09'
+  - value:
+      text: In late 1997 and early 1998, Namjoo had his first two concerts
+      language: en
+    qualifiers:
+      point in time:
+        date: 1997/1998
+    references:
+    - source: en.wikipedia.org-wiki-mohsen_namjoo
+      quote: |-
+        In late 1997 and early 1998, Namjoo had his first two concerts, themed "modern combination of Iranian poetry and music".
+      accessed: '2026-11-09'
+  - value:
+      text: he fell out with the music department at the University of Tehran over what he called its “rigid and backward” views.
+      language: en
+    qualifiers:
+      place: Qhm6fzw
+    references:
+    - source: www.seattletimes.com-entertainment-exiled-iranian-singer-mohsen-namjoo-makes-northwest-debut-76a02efb42b2
+      quote: |-
+        he fell out with the music department at the University of Tehran over what he called its “rigid and backward” views.
+      accessed: '2026-11-09'
+  - value:
+      text: In the year that saw the release of Toranj, the government invited him to play at an official event for Imam Ali.
+      language: en
+    qualifiers:
+      point in time:
+        date: '2007'
+    references:
+    - source: qantara.de-en-article-iranian-singer-songwriter-mohsen-namjoo-innovator-cf3175230663
+      quote: |-
+        In the year that saw the release of Toranj, the government invited him to play at an official event for Imam Ali.
+      accessed: '2026-11-09'
+  - value:
+      text: On June 9 the singer Mohsen Namjoo was sentenced in absentia to a five-year jail term for ridiculing the Koran in a song
+      language: en
+    qualifiers:
+      point in time:
+        date: '2009-06-09'
+    references:
+    - source: becketinternational.wordpress.com-2009-07-20-iran-singer-sentenced-for-ridiculing-the-koran
+      quote: |-
+        On June 9 the singer Mohsen Namjoo was sentenced in absentia to a five-year jail term for ridiculing the Koran in a song, a sentence his brother has announced his family intends to appeal, AFP reported on July 20. In 2008 Namjoo apologized in a letter addressed to his mother, to clerics and to the Iranian people for a song he has claimed was never meant for public release.
+      accessed: '2026-11-09'
+  - value:
+      text: In 2008 Namjoo apologized in a letter addressed to his mother, to clerics and to the Iranian people
+      language: en
+    qualifiers:
+      point in time:
+        date: '2008'
+    references:
+    - source: becketinternational.wordpress.com-2009-07-20-iran-singer-sentenced-for-ridiculing-the-koran
+      quote: |-
+        On June 9 the singer Mohsen Namjoo was sentenced in absentia to a five-year jail term for ridiculing the Koran in a song, a sentence his brother has announced his family intends to appeal, AFP reported on July 20. In 2008 Namjoo apologized in a letter addressed to his mother, to clerics and to the Iranian people for a song he has claimed was never meant for public release.
+      accessed: '2026-11-09'
+  - value:
+      text: Iranian singer Mohsen Namjoo was touring in Italy when he learned he would not be able to go home.
+      language: en
+    qualifiers:
+      point in time:
+        date: '2009'
+    references:
+    - source: www.npr.org-2013-08-03-208543533-the-bob-dylan-of-iran
+      quote: |-
+        Four years ago, Iranian singer Mohsen Namjoo was touring in Italy when he learned he would not be able to go home. The Iranian Revolutionary Court had ruled that one of Namjoo's songs disparaged the Quran. He would have to serve five years in prison if he set foot back in Iran.
+      accessed: '2026-11-09'
+  - value:
+      text: In 2009, he also sang in solidarity with protesters who took to the streets after the Islamic republic's disputed presidential elections.
+      language: en
+    qualifiers:
+      point in time:
+        date: '2009'
+    references:
+    - source: www.al-monitor.com-originals-2026-08-famed-singer-returns-iran-after-decades-exile-d3201f53d301
+      quote: |-
+        In 2009, he also sang in solidarity with protesters who took to the streets after the Islamic republic's disputed presidential elections.
+      accessed: '2026-11-09'
+  - value:
+      text: In 2010, Namjoo kicked off his "A Minor" tour
+      language: en
+    qualifiers:
+      point in time:
+        date: '2010'
+    references:
+    - source: en.wikipedia.org-wiki-mohsen_namjoo
+      quote: |-
+        In 2010, Namjoo kicked off his "A Minor" tour, performing at many venues globally, including the Walt Disney Concert Hall in Los Angeles[15] and the Sony Centre for the Arts in Toronto.
+      accessed: '2026-11-09'
+  - value:
+      text: A few days before the concert, the government canceled the show.
+      language: en
+    qualifiers:
+      point in time:
+        date: 2011-02
+    references:
+    - source: www.seattletimes.com-entertainment-exiled-iranian-singer-mohsen-namjoo-makes-northwest-debut-76a02efb42b2
+      quote: |-
+        A few days before the concert, the government canceled the show.
+      accessed: '2026-11-09'
+  - value:
+      text: In late 2013, Mohsen Namjoo became an Artist-in-Residence in the Brown University Middle East Studies department.
+      language: en
+    qualifiers:
+      point in time:
+        date: '2013'
+    references:
+    - source: en.wikipedia.org-wiki-mohsen_namjoo
+      quote: |-
+        In late 2013, Mohsen Namjoo became an Artist-in-Residence in the Brown University Middle East Studies department. On 7 December 2013, to kick off his residency, he performed at the Granoff Center for the Creative Arts.
+      accessed: '2026-11-09'
+  - value:
+      text: Namjoo announced his decision in a video released Thursday
+      language: en
+    qualifiers:
+      point in time:
+        date: '2026-08-27'
+    references:
+    - source: insights.niacouncil.org-p-mohsen-namjoo-returns-to-iran-as
+      quote: |-
+        Namjoo announced his decision in a video released Thursday, saying the message would become public when he was either on his flight to Tehran or had already arrived. He said that at this stage of his life, being in his homeland and close to family and friends mattered more than whether he would be allowed to resume his musical or cultural work.
+      accessed: '2026-11-09'
+  - value:
+      text: flew into Tehran late last week
+      language: en
+    qualifiers:
+      point in time:
+        date: 2026-08
+      place: Qhm6fzw
+    references:
+    - source: www.al-monitor.com-originals-2026-08-famed-singer-returns-iran-after-decades-exile-d3201f53d301
+      quote: |-
+        Mohsen Namjoo, 50, whose work mixes Persian traditional music with more modern styles and had been living in the United States, flew into Tehran late last week, with his arrival welcomed by official media.
+      accessed: '2026-11-09'
