@@ -7,14 +7,16 @@ statements:
       language: fa
     references:
     - source: www.farhadmehrad.org-content-biography-08f467a10ae9
-      quote: بیو گرافی - فرهاد مهراد
+      quote: |-
+        بیو گرافی - فرهاد مهراد
       accessed: '2026-10-19'
   - value:
       text: Farhad Mehrad
       language: en
     references:
     - source: music.apple.com-us-album-barf-1798706878-41052b63376e
-      quote: Barf - Album by Farhad Mehrad - Apple Music
+      quote: |-
+        Barf - Album by Farhad Mehrad - Apple Music
       accessed: '2026-10-19'
   birth date:
   - value:
@@ -22,13 +24,15 @@ statements:
       calendar: jalali
     references:
     - source: www.farhadmehrad.org-content-biography-08f467a10ae9
-      quote: روز بيست و نهم دي ماه 1322 در تهران متولد شد.
+      quote: |-
+        روز بيست و نهم دي ماه 1322 در تهران متولد شد.
       accessed: '2026-10-19'
   birthplace:
   - value: Qhm6fzw
     references:
     - source: www.farhadmehrad.org-content-biography-08f467a10ae9
-      quote: روز بيست و نهم دي ماه 1322 در تهران متولد شد.
+      quote: |-
+        روز بيست و نهم دي ماه 1322 در تهران متولد شد.
       accessed: '2026-10-23'
       locator: Official biography, birth
   member of:
@@ -43,19 +47,23 @@ statements:
         calendar: jalali
     references:
     - source: www.farhadmehrad.org-content-biography-08f467a10ae9
-      quote: از سال ۴۵ همكاري فرهاد با گروه black cats در كلاب كوچيني آغاز ميشود.
+      quote: |-
+        از سال ۴۵ همكاري فرهاد با گروه black cats در كلاب كوچيني آغاز ميشود.
       accessed: '2026-10-23'
     - source: www.farhadmehrad.org-content-biography-08f467a10ae9
-      quote: فرهاد به عنوان خواننده و نوازنده گیتار و پیانو.
+      quote: |-
+        فرهاد به عنوان خواننده و نوازنده گیتار و پیانو.
       accessed: '2026-10-23'
   image:
   - value: https://www.farhadmehrad.org/gallery/005.jpg
     references:
     - source: www.farhadmehrad.org-gallery-pictures
-      quote: گالری تصاویر فرهاد
+      quote: |-
+        گالری تصاویر فرهاد
       accessed: '2026-10-19'
     - source: www.farhadmehrad.org-gallery-pictures
-      quote: https://www.farhadmehrad.org/gallery/005.jpg
+      quote: |-
+        https://www.farhadmehrad.org/gallery/005.jpg
       accessed: '2026-10-19'
     qualifiers:
       credit:
@@ -65,24 +73,205 @@ statements:
   - value: https://music.apple.com/us/artist/farhad-mehrad/320096127
     references:
     - source: www.farhadmehrad.org-fd6dcf59d5ca
-      quote: https://music.apple.com/us/artist/farhad-mehrad/320096127
+      quote: |-
+        https://music.apple.com/us/artist/farhad-mehrad/320096127
       accessed: '2026-10-23'
     - source: music.apple.com-us-artist-farhad-mehrad-320096127-72f58e9a3393
-      quote: ‎Farhad Mehrad - Apple Music
+      quote: |-
+        ‎Farhad Mehrad - Apple Music
       accessed: '2026-10-23'
   - value: https://open.spotify.com/artist/5dOnuILcq3uFLKaBMIFokr
     references:
     - source: www.farhadmehrad.org-fd6dcf59d5ca
-      quote: https://open.spotify.com/artist/5dOnuILcq3uFLKaBMIFokr
+      quote: |-
+        https://open.spotify.com/artist/5dOnuILcq3uFLKaBMIFokr
       accessed: '2026-10-23'
     - source: open.spotify.com-artist-5donuilcq3uflkabmifokr-e5b62d3b7ecb
-      quote: Listen to Farhad Mehrad Songs | Spotify
+      quote: |-
+        Listen to Farhad Mehrad Songs | Spotify
       accessed: '2026-10-23'
   - value: https://www.youtube.com/channel/UCQjPEqBtzgoLw7wU97pWcEA
     references:
     - source: www.farhadmehrad.org-fd6dcf59d5ca
-      quote: https://www.youtube.com/channel/UCQjPEqBtzgoLw7wU97pWcEA
+      quote: |-
+        https://www.youtube.com/channel/UCQjPEqBtzgoLw7wU97pWcEA
       accessed: '2026-10-23'
     - source: www.youtube.com-channel-ucqjpeqbtzgolw7wu97pwcea-227057781b8f
-      quote: Farhad Mehrad - Onderwerp - YouTube
+      quote: |-
+        Farhad Mehrad - Onderwerp - YouTube
       accessed: '2026-10-23'
+  life event:
+  - value:
+      text: براي اولين بار در سال 42 راهي برنامه تلويزيوني “واريته استوديو ب “ ميشود
+      language: fa
+    qualifiers:
+      point in time:
+        date: '1342'
+        calendar: jalali
+    references:
+    - source: www.farhadmehrad.org-content-biography-08f467a10ae9
+      quote: |-
+        مدتي بعد فرهاد فعاليت انفرادي خود را آغاز ميكند و براي اولين بار در سال 42 راهي برنامه تلويزيوني “واريته استوديو ب “ ميشود و مخاطبان بيشتري مي يابد. کمی بعد فرهاد در يكي از كنسرتهاي بزرگي كه به مديريت مجله “اطلاعات جوانان“ در امجديه تهران برگزار شد هنرنمايي كرد. در اين برنامه فرهاد چند ترانه با گيتار اجرا ميكند و بيش از پيش مورد توجه تماشاگران قرار ميگيرد.
+      accessed: '2026-11-09'
+  - value:
+      text: فرهاد در يكي از كنسرتهاي بزرگي كه به مديريت مجله “اطلاعات جوانان“ در امجديه تهران برگزار شد هنرنمايي كرد.
+      language: fa
+    qualifiers:
+      place: Qhm6fzw
+    references:
+    - source: www.farhadmehrad.org-content-biography-08f467a10ae9
+      quote: |-
+        مدتي بعد فرهاد فعاليت انفرادي خود را آغاز ميكند و براي اولين بار در سال 42 راهي برنامه تلويزيوني “واريته استوديو ب “ ميشود و مخاطبان بيشتري مي يابد. کمی بعد فرهاد در يكي از كنسرتهاي بزرگي كه به مديريت مجله “اطلاعات جوانان“ در امجديه تهران برگزار شد هنرنمايي كرد. در اين برنامه فرهاد چند ترانه با گيتار اجرا ميكند و بيش از پيش مورد توجه تماشاگران قرار ميگيرد.
+      accessed: '2026-11-09'
+  - value:
+      text: از سال ۴۵ همكاري فرهاد با گروه black cats در كلاب كوچيني آغاز ميشود.
+      language: fa
+    qualifiers:
+      point in time:
+        date: '1345'
+        calendar: jalali
+      place: Qhm6fzw
+    references:
+    - source: www.farhadmehrad.org-content-biography-08f467a10ae9
+      quote: |-
+        از سال ۴۵ همكاري فرهاد با گروه black cats در كلاب كوچيني آغاز ميشود. شهبال شب پره (پركاشن) ،شهرام شب پره (گيتار)، هامو(گيتار)،حسن شماعي زاده (ساكسيفون) و منوچهر اسلامي (ترومپت) و فرهاد به عنوان خواننده و نوازنده گیتار و پیانو.
+      accessed: '2026-11-09'
+  - value:
+      text: پس از مدتی فرهاد، از بلک کتز جدا و برای دیدار خواهرش راهي انگلستان شد.
+      language: fa
+    references:
+    - source: www.farhadmehrad.org-content-biography-08f467a10ae9
+      quote: |-
+        پس از مدتی فرهاد، از بلک کتز جدا و برای دیدار خواهرش راهي انگلستان شد. در طول سفر كه در ابتدا قرار بود 2 ماه به طول انجامد فرهاد در چند کافه لندن به اجرای برنامه مشغول می شود. در این میان يكي از تهيه كنندگان سرشناس انگليسي به سراغ او مي آيد و پيشنهاد انتشار آلبومي با صداي فرهاد را مطرح ميكند. اما فرهاد به دلایل مختلف پیگیر این پیشنهاد نمیشود و انتشار این آلبوم در حد حرف باقي میماند و سفر 2 ماهه بيش از يكسال به طول می انجامد.
+      accessed: '2026-11-09'
+  - value:
+      text: در روز ۲۳ بهمن ۵۷، در ستایش آزادی و آزادگی از تلویزیون ملّی آن روزگار پخش شد.
+      language: fa
+    qualifiers:
+      point in time:
+        date: '1357-11-23'
+        calendar: jalali
+    references:
+    - source: ir.voanews.com-a-farhad-mehrad-80th-birthday-7448047.html-ace61bfd7078
+      quote: |-
+        در زمستان ۱۳۵۷ ترانهٔ انقلابی «وحدت» معروف به «محمد» را خواند، ترانه‌ای با همکاری سیاوش کسرایی و اسفندیار منفردزاده که درست یک‌ روز بعد از انقلاب در ایران، یعنی در روز ۲۳ بهمن ۵۷، در ستایش آزادی و آزادگی از تلویزیون ملّی آن روزگار پخش شد.
+      accessed: '2026-11-09'
+  - value:
+      text: پس از انقلاب فرهاد، از ادامه كار منع و تقاضاهاي چندباره او براي انتشار مجدد آثارش با مخالفت روبرو شد.
+      language: fa
+    references:
+    - source: www.farhadmehrad.org-content-biography-08f467a10ae9
+      quote: |-
+        پس از انقلاب فرهاد، از ادامه كار منع و تقاضاهاي چندباره او براي انتشار مجدد آثارش با مخالفت روبرو شد.
+      accessed: '2026-11-09'
+  - value:
+      text: کنسرتی در سال 1371 در وین اتریش برگزار کرد.
+      language: fa
+    qualifiers:
+      point in time:
+        date: '1371'
+        calendar: jalali
+      place: Q448bw9
+    references:
+    - source: www.farhadmehrad.org-farhad-mehrad-discography-b42b4c18ab12
+      quote: |-
+        فرهاد پیش از دریافت مجوز برای انتشار اولین آلبوم اش پس از انقلاب، کنسرتی در سال 1371 در وین اتریش برگزار کرد. او در این کنسرت علاوه بر اجرای زنده آثار قدیمی، سه قطعه که هنوز منتشر نشده بود را برای اولین بار اجرا کرد: کوچ بنفشه ها، خیال خوشی و خواب در بیداری. این کنسرت به صورت صوتی ضبط شده است و در سال 1399 به همت امید هاشملو پس از ریمستر و پالایش صدا منتشر شد.
+      accessed: '2026-11-09'
+  - value:
+      text: سال 1372 پس از 15 سال آلبوم جديد فرهاد،“خواب در بيداري“،مجوز انتشار دريافت كرد
+      language: fa
+    qualifiers:
+      point in time:
+        date: '1372'
+        calendar: jalali
+    references:
+    - source: www.farhadmehrad.org-content-biography-08f467a10ae9
+      quote: |-
+        فرهاد در این سالها در منزل به ساخت آثار جدید مشغول بود تا اینکه بالاخره سال 1372 پس از 15 سال آلبوم جديد فرهاد،“خواب در بيداري“،مجوز انتشار دريافت كرد
+      accessed: '2026-11-09'
+  - value:
+      text: سرانجام فرهاد برای اولین بار در ایران بعد از انقلاب در مقابل چند صد تماشاچی که سالن سینما سپیده را پر کرده بودند، روی صحنه رفت
+      language: fa
+    qualifiers:
+      point in time:
+        date: '1373-10-09'
+        calendar: jalali
+      place: Qhm6fzw
+    references:
+    - source: www.bbc.com-persian-articles-cj7gd5lp8nlo-2d3bab0dd850
+      quote: |-
+        مسئولان وزارت ارشاد برای صدور مجوز شرایطی مطرح کردند. از جمله این‌که هیچ‌گونه تبلیغی برای این کنسرت نشود، بلیت چاپی برای کنسرت صادر نشود، از کنسرت عکس یا فیلم برداشته نشود، ترانه «گنجشکک اشی‌مشی» خوانده نشود (بخاطر این‌که آخر ترانه آمده «کی می‌خوره؟ حاکم‌باشی») و این‌که کنسرت در شبی برگزار شود که مناسبت مذهبی باشد. نهایتا مجوز کنسرت برای جمعه ۹ دی ۱۳۷۳ که هم شب بعثت پیامبر اسلام بود و هم شب سال نوی مسیحیان، در سینما سپیده تهران صادر شد. بلیت‌ها که به قیمت ۲۵۰۰ تومان فروخته می‌شدند در کمتر از سه روز فروش رفتند. سرانجام فرهاد برای اولین بار در ایران بعد از انقلاب در مقابل چند صد تماشاچی که سالن سینما سپیده را پر کرده بودند، روی صحنه رفت، و البته گنجشکک اشی مشی را هم خواند.
+      accessed: '2026-11-09'
+  - value:
+      text: در سال 1376 در حالی که برای اجرای اجرای کنسرت به آمریکا سفر کرده بود ،آلبوم "برف" را در این کشور ضبط و منتشر كرد
+      language: fa
+    qualifiers:
+      point in time:
+        date: '1376'
+        calendar: jalali
+    references:
+    - source: www.farhadmehrad.org-farhad-mehrad-discography-b42b4c18ab12
+      quote: |-
+        پس از انتشار آلبوم "خواب در بيداري" ، با رد درخواست های فرهاد برای دریافت مجوز انتشار آلبومی جدید، او كه از انتشار آلبوم بعدي خود در ايران نااميد شده بود در سال 1376 در حالی که برای اجرای اجرای کنسرت به آمریکا سفر کرده بود ،آلبوم "برف" را در این کشور ضبط و منتشر كرد، اين آلبوم يك سال بعد در ايران نیز اجازه انتشار یافت. فرهاد در این آلبوم به سراغ اشعاری از گاندی، ابوسعید ابوالخیر، اسماعیل خویی، فریدون رهنما، ملک الشعرای بهار رفته و آهنگسازی اکثر قطعات را خود برعهده داشته است.
+      accessed: '2026-11-09'
+  - value:
+      text: در آذرماه سال 1377 کنسرتی در هتل شهر تهران برای فرهاد ترتیب داده شد.
+      language: fa
+    qualifiers:
+      point in time:
+        date: 1377-09
+        calendar: jalali
+      place: Qhm6fzw
+    references:
+    - source: www.farhadmehrad.org-farhad-mehrad-discography-b42b4c18ab12
+      quote: |-
+        در آذرماه سال 1377 کنسرتی در هتل شهر تهران برای فرهاد ترتیب داده شد. این کنسرت قرار بود با ظرفیت 150 نفر در دو دوشب برگزار شود. اما متولیان امر برای هر شب بیش از 350 صندلی رزرو فروخته بودند و علاوه بر آن عده ای هم بصورت سرپا در این کنسرت حضور پیدا کردند. بلیت های این کنسرت پر حاشیه در اولین ساعات فروش تمام شد و بسیاری طرفداران به ناچار در بازار سیاه بلیت را پنج برابر قیمت واقعی خریداری کردند. با تمام این حواشی، خوشبختانه این کنسرت با کیفیت مطلوبی ضبط شد (تنها بصورت صوتی) . این تنها کنسرتی بود که فرهاد آهنگ های کتیبه و گاندی را بصورت زنده اجرا کرد.
+      accessed: '2026-11-09'
+  - value:
+      text: از مهر ماه 1379 علائم بيماري جدي در فرهاد پدیدارشد
+      language: fa
+    qualifiers:
+      point in time:
+        date: 1379-07
+        calendar: jalali
+    references:
+    - source: www.farhadmehrad.org-content-biography-08f467a10ae9
+      quote: |-
+        چندی پس از آن، فرهاد درصدد تهيه آلبومي با نام “آمين“ كه ترانه هايي از كشورها و زبانهاي مختلف را در خود جاي ميداد ،برآمد. از مهر ماه 1379 علائم بيماري جدي در فرهاد پدیدارشد، اما او از حركت بازنايستاد. آن روزها هيچ چيز جز مرگ نمي توانست او را از تهيه آلبوم “ آمين“ بازدارد ،كه بازداشت…
+      accessed: '2026-11-09'
+  - value:
+      text: در سن 59 سالگي روز نهم شهريور 1381 در شهر پاريس بر اثر بيماري هپاتيت درگذشت.
+      language: fa
+    qualifiers:
+      point in time:
+        date: '1381-06-09'
+        calendar: jalali
+      place: Qyhck8a
+    references:
+    - source: www.farhadmehrad.org-content-biography-08f467a10ae9
+      quote: |-
+        فرهاد پس از 2 سال معالجه در ايران و فرانسه ،در سن 59 سالگي روز نهم شهريور 1381 در شهر پاريس بر اثر بيماري هپاتيت درگذشت. پيكر فرهاد در آغوش خاك آرامگاه Thiais پاريس خفته است.
+      accessed: '2026-11-09'
+  - value:
+      text: پوران گلفام همسر فرهاد مهراد در سال ۱۳۹۱ موزه‌ای از وسایل شخصی او را تحت عنوان «خانهٔ فرهاد» در موزه سینما واقع در باغ فردوس تهران، برپا کرد
+      language: fa
+    qualifiers:
+      point in time:
+        date: '1391'
+        calendar: jalali
+      place: Qhm6fzw
+    references:
+    - source: ir.voanews.com-a-farhad-mehrad-80th-birthday-7448047.html-ace61bfd7078
+      quote: |-
+        ‌پوران گلفام همسر فرهاد مهراد در سال ۱۳۹۱ موزه‌ای از وسایل شخصی او را تحت عنوان «خانهٔ فرهاد» در موزه سینما واقع در باغ فردوس تهران، برپا کرد تا میزبان دوست‌داران این هنرمند باشد.
+      accessed: '2026-11-09'
+  - value:
+      text: Farhad is buried in the Cimetière de Thiais
+      language: en
+    qualifiers:
+      place: Qyhck8a
+    references:
+    - source: en.wikipedia.org-wiki-farhad_mehrad
+      quote: |-
+        Farhad is buried in the Cimetière de Thiais (Division:110 Ligne:7 N de la tombe:23), just outside Paris.
+      accessed: '2026-11-09'
