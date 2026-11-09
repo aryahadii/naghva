@@ -301,19 +301,6 @@ def check_article(article, store, report):
         report.warn(where, "reference %s is never cited" % key)
 
 
-def check_unrefined(store, report):
-    """Each artist awaiting refinement is an artist with an article."""
-    where = store.rel(store.root / "published" / "unrefined.yaml")
-    with_article = {article.item for article in store.articles.values()}
-    for item_id, name in store.unrefined.items():
-        if not isinstance(name, str):
-            report.error(where, "%s: the name must be text" % item_id)
-        if item_id not in store.items:
-            report.error(where, "%s is not an item" % item_id)
-        elif item_id not in with_article:
-            report.error(where, "%s has no article, so no page to mark" % item_id)
-
-
 # --- Main -------------------------------------------------------------------------------------------
 
 
@@ -341,7 +328,6 @@ def validate(root, report):
     for article in store.articles.values():
         if _schema_ok(article.path, article.meta, article_schema, store, report):
             check_article(article, store, report)
-    check_unrefined(store, report)
     return store
 
 

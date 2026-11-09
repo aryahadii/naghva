@@ -70,8 +70,6 @@ export interface SiteRecord {
   examples: boolean;
   languages: Lang[];
   artists: string[];
-  /** Artists whose entries have not yet been through the publication workflow. */
-  unrefined?: string[];
   items: { [id: string]: Item };
   articles: { [id: string]: Partial<{ [lang in Lang]: Article }> };
   sources: { [name: string]: Source };

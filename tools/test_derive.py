@@ -70,14 +70,6 @@ class DeriveTests(unittest.TestCase):
             self.assertNotIn("page", after["items"][NIMA])
             self.assertIn({"from": "/en/%s/" % artist, "to": "/en/سارا-کوهی-zzz/"}, after["redirects"])
 
-    def test_unrefined_artists_are_listed(self):
-        self.assertEqual(self.record["unrefined"], [])
-        with tempfile.TemporaryDirectory() as tmp:
-            root = Path(tmp) / "examples"
-            shutil.copytree(EXAMPLES, root)
-            (root / "published" / "unrefined.yaml").write_text("%s: Badnama\n" % BAND, encoding="utf-8")
-            self.assertEqual(derive.derive(root)["unrefined"], [BAND])
-
     def test_display_name_per_language(self):
         names = self.record["items"][BAND]["names"]
         self.assertEqual(names["en"], {"text": "Badnama", "language": "en"})

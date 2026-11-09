@@ -97,7 +97,6 @@ class Store:
         self.sources = {}
         self.items = {}
         self.articles = {}
-        self.unrefined = {}
         self.problems = []
 
     def rel(self, path):
@@ -138,19 +137,6 @@ def load_store(root):
             store.problems.append("%s: cannot read: %s" % (store.rel(path), _one_line(exc)))
             continue
         store.articles[path.name] = Article(path, meta, body)
-    unrefined = root / "published" / "unrefined.yaml"
-    if unrefined.exists():
-        try:
-            data = load_yaml(unrefined)
-        except Exception as exc:
-            store.problems.append("%s: cannot read: %s" % (store.rel(unrefined), _one_line(exc)))
-        else:
-            if data is None:
-                data = {}
-            if isinstance(data, dict):
-                store.unrefined = data
-            else:
-                store.problems.append("%s: must map item IDs to names" % store.rel(unrefined))
     return store
 
 

@@ -357,7 +357,6 @@ def derive(root, issued=None):
         "examples": root.name == "examples",
         "languages": list(LANGUAGES),
         "artists": artists,
-        "unrefined": [item_id for item_id in artists if item_id in store.unrefined],
         "items": items,
         "articles": articles,
         "sources": sources,
