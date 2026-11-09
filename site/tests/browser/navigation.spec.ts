@@ -93,3 +93,13 @@ test.describe('mobile search', () => {
     await expect(page).toHaveURL(artist);
   });
 });
+
+test('every page header links to the code on GitHub, in both languages', async ({ page }) => {
+  for (const path of ['/en/', '/fa/', artist, '/fa/timeline/']) {
+    await page.goto(path);
+    const link = page.locator('.site-header a.github');
+    await expect(link).toBeVisible();
+    await expect(link).toHaveAttribute('href', 'https://github.com/aryahadii/naghva');
+    await expect(link).toHaveAccessibleName(path.startsWith('/fa/') ? 'نغوا در گیت‌هاب' : 'Naghva on GitHub');
+  }
+});
