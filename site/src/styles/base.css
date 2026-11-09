@@ -44,6 +44,9 @@ html[lang=fa] :is(.tag, .kicker) { font: 600 13px/1.6 var(--sans); letter-spacin
 .header-end .search { min-width: 0; width: clamp(220px, 26vw, 340px) }
 .language { font-family: 'IRANSansX', var(--latin-sans); font-size: 15px }
 .language:lang(en) { font-family: var(--latin-sans) }
+/* A quiet way to the code and data: just the mark, brightening on hover like the nav links. */
+.github { display: inline-flex; align-items: center; justify-content: center; flex: none; width: 40px; height: 40px; border-radius: 999px; color: var(--ivory-3); transition: color .2s, background .2s }
+.github:hover { color: var(--ivory); background: var(--wash) }
 
 /* The top corners open onto the miniature's night sky: clouds drift in from the top edge and a nightingale's branch reaches in from the side. They stay behind the header and clear of the text. */
 .corner-art { position: absolute; left: 0; right: 0; z-index: -1; height: 360px; overflow: hidden; pointer-events: none; background: radial-gradient(560px 320px at 100% 0, rgb(69 91 219 / .09), transparent 72%), radial-gradient(480px 260px at 0 0, rgb(69 91 219 / .06), transparent 72%) }
