@@ -10,5 +10,5 @@ and the rules it follows; read the spec that covers your task first.
 - Write down less. Create a file only when it has a clear use for future
   readers; finishing a task is not a reason. What you write must stand
   alone, without the chat or task history.
-- A commit message is one imperative line, under about 70 characters, that
-  says what changes.
+- Commit bodies record the owner's intent and decisions. [GIT.md](GIT.md)
+  says how to write commits and pull requests.
