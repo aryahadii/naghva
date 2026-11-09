@@ -45,6 +45,7 @@ html[lang=fa] .artist-name, .artist-name:lang(fa) { font: 700 clamp(2.4rem, 4.1v
 .infobox-facts div:first-child { background: none }
 .infobox-facts dt { font-size: 13px; line-height: 1.5; color: var(--ivory-3) }
 .infobox-facts dd { font-size: 14.5px; line-height: 1.5 }
+.infobox-facts .profile-band { display: inline-block; margin-top: 6px; font-size: 13px; color: var(--ivory-3) }
 .infobox-facts a, .release-facts a { text-decoration: underline; text-decoration-thickness: 1px; text-decoration-color: rgb(247 243 232 / .3); text-underline-offset: .3em }
 .infobox-facts a:hover, .release-facts a:hover { color: var(--coral-hi) }
 
