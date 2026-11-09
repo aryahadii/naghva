@@ -1,0 +1,18 @@
+id: Q8rjkbs
+type: act
+statements:
+  name:
+  - value:
+      text: نایما
+      language: fa
+    references:
+    - source: api.discogs.com-releases-30134669-9a61a175e851
+      quote: '"name":"نایما","anv":"Naima"'
+      accessed: '2026-10-19'
+  - value:
+      text: Naima
+      language: en
+    references:
+    - source: api.discogs.com-releases-30134669-9a61a175e851
+      quote: '"name":"نایما","anv":"Naima"'
+      accessed: '2026-10-19'

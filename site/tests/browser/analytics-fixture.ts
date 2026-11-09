@@ -46,6 +46,11 @@ export async function observe(page: Page, enabled = true, replayEnabled = true, 
         throw error;
       });
       if (!response) return;
+      // The same late asset can also lose its fetched response at teardown.
+      const ended = (error: unknown) => {
+        if (error instanceof Error && /Test ended|has been disposed/.test(error.message)) return;
+        throw error;
+      };
       if (response.headers()['content-type']?.includes('text/html')) {
         // Astro renders empty string attributes without quotes when CI has no
         // repository variables. Replace both forms with isolated test config.
@@ -56,8 +61,8 @@ export async function observe(page: Page, enabled = true, replayEnabled = true, 
           .replace(/<meta name="naghva-analytics"[^>]*>/, (meta) => meta
           .replace(/\s(?:content|data-host)(?:="[^"]*")?(?=\s|>)/g, '')
           .replace(/>$/, ` content="${enabled ? 'phc_naghva_browser_test' : ''}" data-host="${ingestion}">`));
-        await route.fulfill({ response, body });
-      } else await route.fulfill({ response });
+        await route.fulfill({ response, body }).catch(ended);
+      } else await route.fulfill({ response }).catch(ended);
     } else if (url.hostname === '127.0.0.1') await route.continue();
     else await route.abort();
   });

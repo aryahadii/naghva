@@ -1,0 +1,83 @@
+id: Qqb8d8j
+type: release
+statements:
+  name:
+  - value:
+      text: Nafas
+      language: en
+    references:
+    - source: music.apple.com-us-album-nafas-feat-delshad-emami-single-1550086842
+      quote: Nafas (feat. Delshad Emami) - Single - Album by Reza Rohani & Sara Naeini - Apple Music
+      accessed: '2026-11-08'
+  listen link:
+  - value: https://music.apple.com/us/album/nafas-feat-delshad-emami-single/1550086842
+    references:
+    - source: music.apple.com-us-album-nafas-feat-delshad-emami-single-1550086842
+      quote: Nafas (feat. Delshad Emami) - Single - Album by Reza Rohani & Sara Naeini - Apple Music
+      accessed: '2026-11-08'
+  - value: https://open.spotify.com/album/0aUXcpedJHuNH1lZWBqZYq
+    references:
+    - source: open.spotify.com-album-0auxcpedjhunh1lzwbqzyq
+      quote: Listen to Nafas - Single by Reza Rohani | Spotify
+      accessed: '2026-11-08'
+  - value: https://soundcloud.com/sanin9000/nafas
+    references:
+    - source: soundcloud.com-sanin9000-nafas
+      quote: Nafas
+      accessed: '2026-11-08'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c9/1b/a4/c91ba4cc-e06c-0a07-cb78-f41dd23c03e5/195999363363.jpg/1200x630wp-60.jpg
+    references:
+    - source: music.apple.com-us-album-nafas-feat-delshad-emami-single-1550086842
+      quote: Nafas (feat. Delshad Emami) - Single - Album by Reza Rohani & Sara Naeini - Apple Music
+      accessed: '2026-11-08'
+    qualifiers:
+      credit:
+        text: music.apple.com
+        language: en
+  performer:
+  - value: Qqprhs6
+    references:
+    - source: music.apple.com-us-album-nafas-feat-delshad-emami-single-1550086842
+      quote: Nafas (feat. Delshad Emami) - Single - Album by Reza Rohani & Sara Naeini - Apple Music
+      accessed: '2026-11-08'
+  - value: Qb23qew
+    references:
+    - source: music.apple.com-us-album-nafas-feat-delshad-emami-single-1550086842
+      quote: Nafas (feat. Delshad Emami) - Single - Album by Reza Rohani & Sara Naeini - Apple Music
+      accessed: '2026-11-08'
+  contributor:
+  - value: Qqprhs6
+    references:
+    - source: soundcloud.com-sanin9000-nafas
+      quote: 'Composed and arranged by: Reza Rohani'
+      accessed: '2026-11-08'
+    qualifiers:
+      role:
+      - composer
+      - arranger
+  - value: Qw5jxpk
+    references:
+    - source: soundcloud.com-sanin9000-nafas
+      quote: 'Words by : Delshad Emami'
+      accessed: '2026-11-08'
+    qualifiers:
+      role:
+      - lyricist
+  release date:
+  - value:
+      date: '2015-03-15'
+    references:
+    - source: soundcloud.com-sanin9000-nafas
+      quote: '"release_date":"2015-03-15T00:00:00Z"'
+      accessed: '2026-11-08'
+    rank: preferred
+  - value:
+      date: '2021-01-21'
+    references:
+    - source: music.apple.com-us-album-nafas-feat-delshad-emami-single-1550086842
+      quote: January 21, 2021
+      accessed: '2026-11-08'
+    - source: open.spotify.com-album-0auxcpedjhunh1lzwbqzyq
+      quote: name="music:release_date" content="2021-01-21"
+      accessed: '2026-11-08'

@@ -1,0 +1,21 @@
+id: Qf4ca5r
+type: place
+statements:
+  name:
+  - value:
+      text: Shiraz
+      language: en
+    references:
+    - source: soundcloud.com-roqe-media-roqe-ep-314
+      quote: I was just born in Shiraz and I was raised in Tehran.
+      accessed: '2026-11-08'
+      locator: '1:26:34'
+  - value:
+      text: شیراز
+      language: fa
+    editorial: true
+    references:
+    - source: soundcloud.com-roqe-media-roqe-ep-314
+      quote: I was just born in Shiraz and I was raised in Tehran.
+      accessed: '2026-11-08'
+      locator: '1:26:34'

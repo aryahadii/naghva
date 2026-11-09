@@ -1,0 +1,78 @@
+id: Qxzpxmh
+type: release
+statements:
+  name:
+  - value:
+      text: Rahaee
+      language: en
+    references:
+    - source: music.apple.com-us-album-rahaee-single-1513498801
+      quote: Rahaee - Single - Album by Sara Naeini - Apple Music
+      accessed: '2026-11-08'
+  listen link:
+  - value: https://music.apple.com/us/album/rahaee-single/1513498801
+    references:
+    - source: music.apple.com-us-album-rahaee-single-1513498801
+      quote: Rahaee - Single - Album by Sara Naeini - Apple Music
+      accessed: '2026-11-08'
+  - value: https://soundcloud.com/sanin9000/rahaee
+    references:
+    - source: soundcloud.com-sanin9000-rahaee
+      quote: Rahaee
+      accessed: '2026-11-08'
+  - value: https://www.youtube.com/watch?v=wEkki7lVEAk
+    references:
+    - source: www.youtube.com-watch-v-wekki7lveak
+      quote: Rahaei (Sara Naeini)
+      accessed: '2026-11-08'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/5b/68/c4/5b68c49c-ffb6-7b5a-1461-14a8b358efd2/artwork.jpg/1200x630wp-60.jpg
+    references:
+    - source: music.apple.com-us-album-rahaee-single-1513498801
+      quote: Rahaee - Single - Album by Sara Naeini - Apple Music
+      accessed: '2026-11-08'
+    qualifiers:
+      credit:
+        text: music.apple.com
+        language: en
+  performer:
+  - value: Qb23qew
+    references:
+    - source: music.apple.com-us-album-rahaee-single-1513498801
+      quote: Rahaee - Single - Album by Sara Naeini - Apple Music
+      accessed: '2026-11-08'
+  contributor:
+  - value: Qwjd2tr
+    references:
+    - source: soundcloud.com-sanin9000-rahaee
+      quote: Composed and produced by Raffi Shahbazian
+      accessed: '2026-11-08'
+    qualifiers:
+      role:
+      - composer
+      - producer
+  - value: Qxgpgy6
+    references:
+    - source: soundcloud.com-sanin9000-rahaee
+      quote: Words by Mahyar Mazloumi
+      accessed: '2026-11-08'
+    qualifiers:
+      role:
+      - lyricist
+  release date:
+  - value:
+      date: '2020-05-13'
+    references:
+    - source: soundcloud.com-sanin9000-rahaee
+      quote: '"release_date":"2020-05-13T00:00:00Z"'
+      accessed: '2026-11-08'
+    rank: preferred
+  - value:
+      date: '2020-05-14'
+    references:
+    - source: music.apple.com-us-album-rahaee-single-1513498801
+      quote: May 14, 2020
+      accessed: '2026-11-08'
+    - source: www.youtube.com-watch-v-wekki7lveak
+      quote: '"uploadDate":"2020-05-14T22:13:37-07:00"'
+      accessed: '2026-11-08'

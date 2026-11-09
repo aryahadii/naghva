@@ -122,10 +122,21 @@ export function artistView(
     statements.map((s) => record.items[s.value as string]).filter((x): x is Item => Boolean(x));
 
   const based = best(artist.statements['based in']);
-  const profiles = live(artist.statements['profile link']);
-  add(t.artist.profiles, profiles.length ? profiles.map((s) =>
+  const profileLinks = (statements: Statement[]) => statements.map((s) =>
     `<a class="text-link" href="${esc(String(s.value))}" rel="noopener" target="_blank">${esc(platform(String(s.value), lang))}</a>${cites.run(s.references)}`
-  ).join('<br>') : null);
+  );
+  // A band without a page of its own is told on its member's page, so its channels are listed there too, under its name.
+  const bandsWithoutPage = artist.type === 'person'
+    ? items(best(artist.statements['member of'])).filter((act) => !act.page && live(act.statements['profile link']).length)
+    : [];
+  const profileHtml = [
+    ...profileLinks(live(artist.statements['profile link'])),
+    ...bandsWithoutPage.flatMap((act) => [
+      `<span class="profile-band">${nameHtml(nameOf(act, lang), lang, null)}</span>`,
+      ...profileLinks(live(act.statements['profile link'])),
+    ]),
+  ];
+  add(t.artist.profiles, profileHtml.length ? profileHtml.join('<br>') : null);
   add(t.artist.based, based.length ? list(lang, items(based).map(name)) + cites.run(based.flatMap((s) => s.references)) : null);
   if (artist.type === 'person') {
     const legal = best(artist.statements['legal name']).filter((s) => isText(s.value));

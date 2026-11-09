@@ -1,0 +1,48 @@
+id: Qzvr2s8
+type: release
+statements:
+  name:
+  - value:
+      text: Jaddeh
+      language: en
+    references:
+    - source: music.apple.com-us-album-jaddeh-single-1726074615
+      quote: Jaddeh - Single - Album by Sara Naeini - Apple Music
+      accessed: '2026-11-08'
+  listen link:
+  - value: https://music.apple.com/us/album/jaddeh-single/1726074615
+    references:
+    - source: music.apple.com-us-album-jaddeh-single-1726074615
+      quote: Jaddeh - Single - Album by Sara Naeini - Apple Music
+      accessed: '2026-11-08'
+  - value: https://open.spotify.com/album/3HKOVN2CZDg6R73yiY8dPX
+    references:
+    - source: open.spotify.com-album-3hkovn2czdg6r73yiy8dpx
+      quote: Listen to Jaddeh - Single by Sara Naeini | Spotify
+      accessed: '2026-11-08'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ae/fa/8b/aefa8b7d-8b19-ed1d-43e7-ebf78a565416/artwork.jpg/1200x630wp-60.jpg
+    references:
+    - source: music.apple.com-us-album-jaddeh-single-1726074615
+      quote: Jaddeh - Single - Album by Sara Naeini - Apple Music
+      accessed: '2026-11-08'
+    qualifiers:
+      credit:
+        text: music.apple.com
+        language: en
+  performer:
+  - value: Qb23qew
+    references:
+    - source: music.apple.com-us-album-jaddeh-single-1726074615
+      quote: Jaddeh - Single - Album by Sara Naeini - Apple Music
+      accessed: '2026-11-08'
+  release date:
+  - value:
+      date: '2024-01-15'
+    references:
+    - source: music.apple.com-us-album-jaddeh-single-1726074615
+      quote: January 15, 2024
+      accessed: '2026-11-08'
+    - source: open.spotify.com-album-3hkovn2czdg6r73yiy8dpx
+      quote: name="music:release_date" content="2024-01-15"
+      accessed: '2026-11-08'

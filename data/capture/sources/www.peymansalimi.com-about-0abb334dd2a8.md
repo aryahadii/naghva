@@ -26,3 +26,7 @@ and explicitly states Persian heritage.
 > former bandmates from The Allophones.
 
 Page text, read 2026-10-19.
+
+> After hopping over to New York City in 2023, he released his third solo album, “The Psychology of Letting Go,” a concept album that challenges the idealized portrayal of love perpetuated since childhood by books and media.
+
+Page text, read 2026-10-19.

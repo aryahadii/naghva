@@ -1,0 +1,145 @@
+id: Qy2tytm
+type: release
+statements:
+  name:
+  - value:
+      text: Iran Khube
+      language: en
+    references:
+    - source: soundcloud.com-jillizwillizofficial-iran-khube-1adf6665266a
+      quote: Iran Khube
+      accessed: '2026-10-19'
+  - value:
+      text: ایران خوبه
+      language: fa
+    references:
+    - source: t.me-s-jillizwilliz
+      quote: ایران خوبه رو گوش دادین؟🙈
+      accessed: '2026-10-22'
+  release date:
+  - value:
+      date: '2025-12-02'
+    references:
+    - source: music.apple.com-track-iran
+      quote: '"datePublished":"2025-12-02"'
+      accessed: '2026-10-22'
+      locator: JSON-LD MusicAlbum datePublished
+    - source: open.spotify.com-track-7djrmnknrkxkriejolfnan
+      quote: '"datePublished":"2025-12-02"'
+      accessed: '2026-10-22'
+      locator: JSON-LD MusicRecording datePublished
+  performer:
+  - value: Q6andbw
+    references:
+    - source: soundcloud.com-jillizwillizofficial-iran-khube-1adf6665266a
+      quote: |-
+        شعر، وکال، کیبورد: آرین شریعت
+        گیتار آکوستیک، گیتار الکتریک: آرین شریعت
+        گیتار بیس: نوید غالب
+        ترومبون: سپهر عباسی
+        ترومپت: ماهان محمدی
+        درامز: صالح خان محمدی
+        تنظیم: جیلیز ویلیز
+      accessed: '2026-10-19'
+  - value: Qvhgfe7
+    references:
+    - source: soundcloud.com-jillizwillizofficial-iran-khube-1adf6665266a
+      quote: 'شعر، وکال، کیبورد: آرین شریعت'
+      accessed: '2026-10-22'
+    - source: soundcloud.com-jillizwillizofficial-iran-khube-1adf6665266a
+      quote: 'گیتار آکوستیک، گیتار الکتریک: آرین شریعت'
+      accessed: '2026-10-22'
+    qualifiers:
+      role:
+      - vocals
+      - keyboards
+      - guitar
+  - value: Qezfxe8
+    references:
+    - source: soundcloud.com-jillizwillizofficial-iran-khube-1adf6665266a
+      quote: 'گیتار بیس: نوید غالب'
+      accessed: '2026-10-22'
+    qualifiers:
+      role:
+      - bass
+  - value: Q5h5r95
+    references:
+    - source: soundcloud.com-jillizwillizofficial-iran-khube-1adf6665266a
+      quote: 'ترومبون: سپهر عباسی'
+      accessed: '2026-10-22'
+    qualifiers:
+      role:
+      - trombone
+  - value: Qverw3d
+    references:
+    - source: soundcloud.com-jillizwillizofficial-iran-khube-1adf6665266a
+      quote: 'ترومپت: ماهان محمدی'
+      accessed: '2026-10-22'
+    qualifiers:
+      role:
+      - trumpet
+  - value: Q4w8rh8
+    references:
+    - source: soundcloud.com-jillizwillizofficial-iran-khube-1adf6665266a
+      quote: 'درامز: صالح خان محمدی'
+      accessed: '2026-10-22'
+    qualifiers:
+      role:
+      - drums
+  listen link:
+  - value: https://soundcloud.com/jillizwillizofficial/iran-khube
+    references:
+    - source: soundcloud.com-jillizwillizofficial-iran-khube-1adf6665266a
+      quote: Iran Khube
+      accessed: '2026-10-19'
+  - value: https://open.spotify.com/track/7DjRmnkNrKxKRiEjoLFNaN
+    references:
+    - source: open.spotify.com-track-7djrmnknrkxkriejolfnan
+      quote: Iran Khube
+      accessed: '2026-10-22'
+  - value: https://music.apple.com/us/album/iran-khube/1858821553?i=1858821556
+    references:
+    - source: music.apple.com-track-iran
+      quote: Iran Khube - Single by Jilliz Williz on Apple Music
+      accessed: '2026-10-22'
+  - value: https://www.youtube.com/watch?v=sXqe_t1lT18
+    references:
+    - source: music.youtube.com-track-sxqe_t1lt18
+      quote: Iran Khube
+      accessed: '2026-10-22'
+  - value: https://t.me/jillizwilliz/34
+    references:
+    - source: t.me-s-jillizwilliz
+      quote: Iran Khube
+      accessed: '2026-10-22'
+      locator: post 34
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-QaPFwgufYoJzv3Zc-zuf5Yg-t500x500.png
+    qualifiers:
+      credit:
+        text: SoundCloud
+        language: en
+    references:
+    - source: soundcloud.com-jillizwillizofficial-iran-khube-1adf6665266a
+      quote: Iran Khube
+      accessed: '2026-10-19'
+  contributor:
+  - value: Qvhgfe7
+    references:
+    - source: soundcloud.com-jillizwillizofficial-iran-khube-1adf6665266a
+      quote: 'شعر، وکال، کیبورد: آرین شریعت'
+      accessed: '2026-10-22'
+    - source: soundcloud.com-jillizwillizofficial-iran-khube-1adf6665266a
+      quote: 'گیتار آکوستیک، گیتار الکتریک: آرین شریعت'
+      accessed: '2026-10-22'
+    qualifiers:
+      role:
+      - lyricist
+  - value: Q6andbw
+    references:
+    - source: soundcloud.com-jillizwillizofficial-iran-khube-1adf6665266a
+      quote: 'تنظیم: جیلیز ویلیز'
+      accessed: '2026-10-22'
+    qualifiers:
+      role:
+      - arranger

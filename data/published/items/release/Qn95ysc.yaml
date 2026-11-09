@@ -1,0 +1,78 @@
+id: Qn95ysc
+type: release
+statements:
+  name:
+  - value:
+      text: Kamoone Rangi
+      language: en
+    references:
+    - source: music.apple.com-us-album-kamoone-rangi-single-1391803330
+      quote: Kamoone Rangi - Single - Album by Sara Naeini - Apple Music
+      accessed: '2026-10-19'
+  release date:
+  - value:
+      date: '2018-05-30'
+    references:
+    - source: music.apple.com-us-album-kamoone-rangi-single-1391803330
+      quote: May 30, 2018
+      accessed: '2026-10-19'
+    - source: open.spotify.com-album-6ktvtc1jvfcgzsk9xlgmtx
+      quote: name="music:release_date" content="2018-05-30"
+      accessed: '2026-11-08'
+    rank: preferred
+  - value:
+      date: '2021-09-23'
+    references:
+    - source: soundcloud.com-sanin9000-kamoone-rangi
+      quote: '"created_at":"2021-09-23T07:32:20Z"'
+      accessed: '2026-11-08'
+  performer:
+  - value: Qb23qew
+    references:
+    - source: music.apple.com-us-album-kamoone-rangi-single-1391803330
+      quote: Kamoone Rangi - Single - Album by Sara Naeini - Apple Music
+      accessed: '2026-10-19'
+  listen link:
+  - value: https://music.apple.com/us/album/kamoone-rangi-single/1391803330
+    references:
+    - source: music.apple.com-us-album-kamoone-rangi-single-1391803330
+      quote: Kamoone Rangi - Single - Album by Sara Naeini - Apple Music
+      accessed: '2026-10-19'
+  - value: https://open.spotify.com/album/6KTvtC1jvFCGZSK9xLgMtx
+    references:
+    - source: open.spotify.com-album-6ktvtc1jvfcgzsk9xlgmtx
+      quote: Listen to Kamoone Rangi - Single by Sara Naeini | Spotify
+      accessed: '2026-11-08'
+  - value: https://soundcloud.com/sanin9000/kamoone-rangi
+    references:
+    - source: soundcloud.com-sanin9000-kamoone-rangi
+      quote: Kamoone Rangi
+      accessed: '2026-11-08'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/93/70/fd/9370fdcd-74b8-3bfc-a032-931394a14115/artwork.jpg/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: music.apple.com
+        language: en
+    references:
+    - source: music.apple.com-us-album-kamoone-rangi-single-1391803330
+      quote: Kamoone Rangi - Single - Album by Sara Naeini - Apple Music
+      accessed: '2026-10-19'
+  contributor:
+  - value: Qwjd2tr
+    references:
+    - source: soundcloud.com-sanin9000-kamoone-rangi
+      quote: Composed and Produced by Raffi Shahbazian
+      accessed: '2026-11-08'
+    qualifiers:
+      role:
+      - composer
+      - producer
+  - value: Qnhv6mc
+    references:
+    - source: soundcloud.com-sanin9000-kamoone-rangi
+      quote: Lyrics by Vahaid Azari
+      accessed: '2026-11-08'
+    qualifiers:
+      role:
+      - lyricist

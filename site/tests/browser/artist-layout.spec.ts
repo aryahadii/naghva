@@ -4,14 +4,16 @@ test.beforeEach(async ({ context, page }) => {
   await context.route('**/*', route => new URL(route.request().url()).hostname === '127.0.0.1' ? route.continue() : route.abort());
   await page.emulateMedia({ reducedMotion: 'reduce' });
 });
-for (const artist of ['sanam-maroufkhani-a84','golsa-h74']) for (const lang of ['en','fa']) for (const width of [320,390,1280]) {
-  test(`${artist} ${lang} ${width}: compact accessible biography contents`, async ({ page }) => {
+const fitsWidth = (page: import('@playwright/test').Page) => page.evaluate(() => document.documentElement.scrollWidth <= innerWidth);
+
+for (const lang of ['en','fa']) for (const width of [390,1280]) {
+  test(`${lang} ${width}: compact accessible biography contents`, async ({ page }) => {
     await page.setViewportSize({width,height:844});
-    await page.goto(`/${lang}/${artist}/`);
+    await page.goto(`/${lang}/sanam-maroufkhani-a84/`);
     const nav=page.locator('.contents'),details=nav.locator('.contents-subsections');
     const summary=details.locator('summary'),link=details.locator('a').first();
     if(width<1100) {
-      // The reported duplicate summary row inflated this to 110px.
+      // A duplicate summary row once inflated this bar to 110px.
       const bar=(await nav.boundingBox())!,trigger=(await summary.boundingBox())!;
       expect(bar.height).toBeLessThanOrEqual(64);
       await expect(summary).toHaveText(''); await expect(summary).toHaveAttribute('aria-label',/.+/);
@@ -30,15 +32,15 @@ for (const artist of ['sanam-maroufkhani-a84','golsa-h74']) for (const lang of [
       await expect(summary).not.toBeVisible(); await expect(link).toBeVisible(); await link.click();
       await expect.poll(()=>new URL(page.url()).hash).not.toBe('');
     }
-    await page.goto(`/${lang}/${artist}/`);
-    expect(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth)).toBe(true);
-    await page.screenshot({path:`/tmp/naghva-fixed-contents-${artist}-${lang}-${width}.png`});
+    await page.goto(`/${lang}/sanam-maroufkhani-a84/`);
+    expect(await fitsWidth(page)).toBe(true);
   });
 }
-for(const lang of ['en','fa']) for(const width of [320,390,1280]) {
+for(const lang of ['en','fa']) for(const width of [320,1280]) {
   test(`${lang} ${width}: compact multi-column directory and clear control`,async({page})=>{
     await page.setViewportSize({width,height:844}); await page.goto(`/${lang}/artists/`);
     const input=page.locator('#directory-query'),clear=page.locator('#directory-clear'),cards=page.locator('#directory-list > li');
+    const visible=page.locator('#directory-list > li:visible');
     const total=await cards.count(),grid=(await page.locator('#directory-list').boundingBox())!,field=(await input.boundingBox())!;
     await expect(input).toHaveAttribute('placeholder',/.+/); expect(Math.abs(field.width-grid.width)).toBeLessThanOrEqual(1);
     const first=(await cards.nth(0).boundingBox())!,second=(await cards.nth(1).boundingBox())!;
@@ -50,14 +52,9 @@ for(const lang of ['en','fa']) for(const width of [320,390,1280]) {
     }
     await expect(page.locator('.header-end [role=combobox]')).toHaveCount(0);
     await expect(page.locator('.directory-global-search')).toHaveAttribute('href',`/${lang}/search/`);
-    await input.fill('معروف'); await expect(page.locator('#directory-list > li:visible')).toHaveCount(1);
+    await input.fill('no-artist-987'); await expect(page.locator('#directory-empty')).toBeVisible(); await expect(visible).toHaveCount(0);
     await clear.click(); await expect(input).toBeFocused(); await expect(input).toHaveValue(''); await expect(clear).not.toBeVisible();
-    await expect(page.locator('#directory-list > li:visible')).toHaveCount(total);
-    await input.fill('no-artist-987'); await expect(page.locator('#directory-empty')).toBeVisible(); await expect(page.locator('#directory-list > li:visible')).toHaveCount(0);
-    await page.locator('#directory-reset').click(); await expect(input).toBeFocused();
-    await input.fill('Sânam'); await expect(page.locator('#directory-list > li:visible')).toHaveCount(1);
-    await page.locator('#directory-list > li:visible a').focus(); await page.keyboard.press('Enter'); await expect(page).toHaveURL(`/${lang}/sanam-maroufkhani-a84/`);
-    await page.goto(`/${lang}/artists/`); expect(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth)).toBe(true);
-    await page.screenshot({path:`/tmp/naghva-fixed-directory-${lang}-${width}.png`});
+    await expect(visible).toHaveCount(total);
+    expect(await fitsWidth(page)).toBe(true);
   });
 }

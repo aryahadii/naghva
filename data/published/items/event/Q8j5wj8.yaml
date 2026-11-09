@@ -1,0 +1,27 @@
+id: Q8j5wj8
+type: event
+statements:
+  name:
+  - value:
+      text: Matinée at Asia Society
+      language: en
+    references:
+    - source: ifcacomposers.org-events-079b63a7b89a
+      quote: October 19 , 2025 | Matinée at Asia Society @NYC
+      accessed: '2026-10-22'
+  event date:
+  - value:
+      date: '2025-10-19'
+    references:
+    - source: ifcacomposers.org-events-079b63a7b89a
+      quote: October 19 , 2025 | Matinée at Asia Society @NYC
+      accessed: '2026-10-22'
+  performer:
+  - value: Qjfbx8t
+    references:
+    - source: ifcacomposers.org-events-079b63a7b89a
+      quote: vocalist Monicki مانیکی
+      accessed: '2026-10-22'
+    qualifiers:
+      role:
+      - vocals

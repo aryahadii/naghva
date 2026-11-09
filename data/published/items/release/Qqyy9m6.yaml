@@ -1,0 +1,108 @@
+id: Qqyy9m6
+type: release
+statements:
+  name:
+  - value:
+      text: ماهی
+      language: fa
+    references:
+    - source: t.me-damahi-682-f8e7963bb034
+      quote: قطعه «ماهی» پیشکش برای تولد ده سالگی
+      accessed: '2026-10-23'
+  - value:
+      text: Mahi - Single
+      language: en
+    references:
+    - source: music.apple.com-us-album-mahi-single-1752513604-ccfdf8f1e953
+      quote: 'Listen to Mahi - Single by Damahi on Apple Music. 2024. 1 Song. Duration: 6 minutes.'
+      accessed: '2026-10-19'
+  release date:
+  - value:
+      date: '2024-06-18'
+    references:
+    - source: music.apple.com-us-album-mahi-single-1752513604-ccfdf8f1e953
+      quote: '"datePublished":"2024-06-18"'
+      accessed: '2026-10-19'
+    - source: open.spotify.com-album-40rgphujxet8ryie2ajuae
+      quote: name="music:release_date" content="2024-06-18"
+      accessed: '2026-11-08'
+  performer:
+  - value: Qep6nz6
+    references:
+    - source: music.apple.com-us-album-mahi-single-1752513604-ccfdf8f1e953
+      quote: 'Listen to Mahi - Single by Damahi on Apple Music. 2024. 1 Song. Duration: 6 minutes.'
+      accessed: '2026-10-19'
+  - value: Qkwrzt3
+    qualifiers:
+      role: vocals
+    references:
+    - source: t.me-damahi-682-f8e7963bb034
+      quote: 'موسیقی: داماهی (رضا کولغانی/خواننده، دارا دارائی/گیتار باس و گیتار الکتریک، حمزه یگانه/کیبورد، ابراهیم علوی/گیتار و پرکاشن)'
+      accessed: '2026-10-23'
+  - value: Qcm9md7
+    qualifiers:
+      role:
+      - bass
+      - guitar
+    references:
+    - source: t.me-damahi-682-f8e7963bb034
+      quote: 'موسیقی: داماهی (رضا کولغانی/خواننده، دارا دارائی/گیتار باس و گیتار الکتریک، حمزه یگانه/کیبورد، ابراهیم علوی/گیتار و پرکاشن)'
+      accessed: '2026-10-23'
+  - value: Q373b9b
+    qualifiers:
+      role: keyboards
+    references:
+    - source: t.me-damahi-682-f8e7963bb034
+      quote: 'موسیقی: داماهی (رضا کولغانی/خواننده، دارا دارائی/گیتار باس و گیتار الکتریک، حمزه یگانه/کیبورد، ابراهیم علوی/گیتار و پرکاشن)'
+      accessed: '2026-10-23'
+  - value: Qwhz4b2
+    qualifiers:
+      role:
+      - guitar
+      - percussion
+    references:
+    - source: t.me-damahi-682-f8e7963bb034
+      quote: 'موسیقی: داماهی (رضا کولغانی/خواننده، دارا دارائی/گیتار باس و گیتار الکتریک، حمزه یگانه/کیبورد، ابراهیم علوی/گیتار و پرکاشن)'
+      accessed: '2026-10-23'
+  - value: Qh8ker6
+    qualifiers:
+      role: drums
+    references:
+    - source: t.me-damahi-682-f8e7963bb034
+      quote: 'نوازنده مهمان: آرش پژند مقدم/درامز'
+      accessed: '2026-10-23'
+  contributor:
+  - value: Qvvcmbv
+    qualifiers:
+      role:
+      - lyricist
+    references:
+    - source: t.me-damahi-682-f8e7963bb034
+      quote: 'ترانه: امیر مهدی اصغری'
+      accessed: '2026-10-23'
+  listen link:
+  - value: https://music.apple.com/us/album/mahi-single/1752513604
+    references:
+    - source: music.apple.com-us-album-mahi-single-1752513604-ccfdf8f1e953
+      quote: 'Listen to Mahi - Single by Damahi on Apple Music. 2024. 1 Song. Duration: 6 minutes.'
+      accessed: '2026-10-19'
+  - value: https://open.spotify.com/album/40rGPhUJxEt8RYie2ajUAe
+    references:
+    - source: open.spotify.com-album-40rgphujxet8ryie2ajuae
+      quote: Listen to Mahi - Single by Damahi | Spotify
+      accessed: '2026-11-08'
+  - value: https://t.me/damahi/685
+    references:
+    - source: t.me-damahi-685
+      quote: Mahi
+      accessed: '2026-11-08'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b9/5e/be/b95ebe67-c939-e2a9-0e16-98e6ddc4f206/198595149386.jpg/296x296bb.webp
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-mahi-single-1752513604-ccfdf8f1e953
+      quote: 'Listen to Mahi - Single by Damahi on Apple Music. 2024. 1 Song. Duration: 6 minutes.'
+      accessed: '2026-10-19'

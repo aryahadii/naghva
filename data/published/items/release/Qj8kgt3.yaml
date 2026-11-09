@@ -1,0 +1,120 @@
+id: Qj8kgt3
+type: release
+statements:
+  name:
+  - value:
+      text: اُکتاویو پاز
+      language: fa
+    references:
+    - source: t.me-damahi-686-24435d0180b9
+      quote: «اُکتاویو پاز» اثر
+      accessed: '2026-10-23'
+  - value:
+      text: Octavio Paz - Single
+      language: en
+    references:
+    - source: music.apple.com-us-album-octavio-paz-single-1797954247-662cf144c4c0
+      quote: 'Listen to Octavio Paz - Single by Damahi on Apple Music. 2025. 1 Song. Duration: 4 minutes.'
+      accessed: '2026-10-19'
+  release date:
+  - value:
+      date: '2025-02-24'
+    references:
+    - source: music.apple.com-us-album-octavio-paz-single-1797954247-662cf144c4c0
+      quote: '"datePublished":"2025-02-24"'
+      accessed: '2026-10-19'
+    - source: open.spotify.com-album-3wct80di4xjq831qgm4dog
+      quote: name="music:release_date" content="2025-02-24"
+      accessed: '2026-11-08'
+  performer:
+  - value: Qep6nz6
+    references:
+    - source: music.apple.com-us-album-octavio-paz-single-1797954247-662cf144c4c0
+      quote: 'Listen to Octavio Paz - Single by Damahi on Apple Music. 2025. 1 Song. Duration: 4 minutes.'
+      accessed: '2026-10-19'
+  - value: Qkwrzt3
+    qualifiers:
+      role:
+      - vocals
+    references:
+    - source: t.me-damahi-686-24435d0180b9
+      quote: |-
+        ملودی: رضا کولغانی
+        موسیقی: داماهی (رضا کولغانی/خواننده، حمزه یگانه/کیبورد، دارا دارائی/گیتار باس، ابراهیم علوی/ عود، گیتار و پرکاشن)
+      accessed: '2026-10-23'
+  - value: Q373b9b
+    qualifiers:
+      role: keyboards
+    references:
+    - source: t.me-damahi-686-24435d0180b9
+      quote: 'موسیقی: داماهی (رضا کولغانی/خواننده، حمزه یگانه/کیبورد، دارا دارائی/گیتار باس، ابراهیم علوی/ عود، گیتار و پرکاشن)'
+      accessed: '2026-10-23'
+  - value: Qcm9md7
+    qualifiers:
+      role: bass
+    references:
+    - source: t.me-damahi-686-24435d0180b9
+      quote: 'موسیقی: داماهی (رضا کولغانی/خواننده، حمزه یگانه/کیبورد، دارا دارائی/گیتار باس، ابراهیم علوی/ عود، گیتار و پرکاشن)'
+      accessed: '2026-10-23'
+  - value: Qwhz4b2
+    qualifiers:
+      role:
+      - oud
+      - guitar
+      - percussion
+    references:
+    - source: t.me-damahi-686-24435d0180b9
+      quote: 'موسیقی: داماهی (رضا کولغانی/خواننده، حمزه یگانه/کیبورد، دارا دارائی/گیتار باس، ابراهیم علوی/ عود، گیتار و پرکاشن)'
+      accessed: '2026-10-23'
+  - value: Qr9727d
+    qualifiers:
+      role: drums
+    references:
+    - source: t.me-damahi-686-24435d0180b9
+      quote: 'نوازنده مهمان: شایان فتحی/درامز'
+      accessed: '2026-10-23'
+  contributor:
+  - value: Qkwrzt3
+    qualifiers:
+      role:
+      - composer
+    references:
+    - source: t.me-damahi-686-24435d0180b9
+      quote: |-
+        ملودی: رضا کولغانی
+        موسیقی: داماهی (رضا کولغانی/خواننده، حمزه یگانه/کیبورد، دارا دارائی/گیتار باس، ابراهیم علوی/ عود، گیتار و پرکاشن)
+      accessed: '2026-10-23'
+  - value: Qvvcmbv
+    qualifiers:
+      role:
+      - lyricist
+    references:
+    - source: t.me-damahi-686-24435d0180b9
+      quote: 'ترانه: امیر مهدی اصغری'
+      accessed: '2026-10-23'
+  listen link:
+  - value: https://music.apple.com/us/album/octavio-paz-single/1797954247
+    references:
+    - source: music.apple.com-us-album-octavio-paz-single-1797954247-662cf144c4c0
+      quote: 'Listen to Octavio Paz - Single by Damahi on Apple Music. 2025. 1 Song. Duration: 4 minutes.'
+      accessed: '2026-10-19'
+  - value: https://open.spotify.com/album/3WCT80dI4xJq831qgM4dOg
+    references:
+    - source: open.spotify.com-album-3wct80di4xjq831qgm4dog
+      quote: Listen to Octavio Paz - Single by Damahi | Spotify
+      accessed: '2026-11-08'
+  - value: https://t.me/damahi/688
+    references:
+    - source: t.me-damahi-688
+      quote: Octavio Paz
+      accessed: '2026-11-08'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c4/da/e4/c4dae4d2-3487-61e0-f524-6a73ba11f143/199199136680.jpg/296x296bb.webp
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-octavio-paz-single-1797954247-662cf144c4c0
+      quote: 'Listen to Octavio Paz - Single by Damahi on Apple Music. 2025. 1 Song. Duration: 4 minutes.'
+      accessed: '2026-10-19'

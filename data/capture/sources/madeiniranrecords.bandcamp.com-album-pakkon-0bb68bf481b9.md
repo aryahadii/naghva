@@ -1,5 +1,6 @@
 ---
 url: https://madeiniranrecords.bandcamp.com/album/pakkon
+archive: "https://web.archive.org/web/20250827171322/https://madeiniranrecords.bandcamp.com/album/pakkon"
 title: Pak'kon | Rian
 status: processed
 language: en
@@ -23,3 +24,16 @@ verified discovery..
 
 Note: Exact quote freshly located on current public primary page and assessed
 only for its narrowed basis.
+
+> released March 18, 2024
+
+Note: Bandcamp page for Pak'kon by Rian reads 'released March 18, 2024'; release
+date of this album page.
+
+Independently re-fetched on 2026-10-01; quotation matched after whitespace normalization and checked in page context.
+
+    normalization and checked in page context.
+
+> Pak'kon by Rian
+
+Page text, read 2026-10-19.

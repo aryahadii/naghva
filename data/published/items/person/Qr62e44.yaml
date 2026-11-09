@@ -1,0 +1,32 @@
+id: Qr62e44
+type: person
+statements:
+  name:
+  - value:
+      text: Ehsan Haeri
+      language: en
+    references:
+    - source: en.wikipedia.org-wiki-chaartaar-6b7b39646bb5
+      quote: Ehsan Haeri - songwriter
+      accessed: '2026-10-19'
+    - source: www.chaartaar.com-about-archive
+      quote: Chaartaar is a music band, formed by Aeen Ahmadifar, Arash Fathi, Arman Garshasbi and Ehsan Haeri in 2011.
+      accessed: '2026-11-06'
+  - value:
+      text: احسان حائری
+      language: fa
+    references:
+    - source: www.sarpoosh.com-art-cinema-music-music970402304.html-8979717807ae
+      quote: احسان حائری "شاعر"، آرش فتحی "آهنگساز"، آرمان گرشاسبی "خواننده" و آیین احمدی فر به عنوان تنظیم کننده در این اجرا همکاری دارند.
+      accessed: '2026-10-19'
+  member of:
+  - value: Qb3nvrj
+    qualifiers:
+      role: lyricist
+    references:
+    - source: www.sarpoosh.com-art-cinema-music-music970402304.html-8979717807ae
+      quote: احسان حائری "شاعر"، آرش فتحی "آهنگساز"، آرمان گرشاسبی "خواننده" و آیین احمدی فر به عنوان تنظیم کننده در این اجرا همکاری دارند.
+      accessed: '2026-10-19'
+    - source: www.sharghdaily.com-576984-chaartaar-interview
+      quote: «آیین احمدی‌فر» تنظیم‌کننده، «احسان حائری» شاعر، «آرش فتحی» آهنگساز و «آرمان گرشاسبی» خواننده
+      accessed: '2026-11-06'

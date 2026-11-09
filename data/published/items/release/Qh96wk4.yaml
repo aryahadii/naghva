@@ -1,0 +1,110 @@
+id: Qh96wk4
+type: release
+statements:
+  name:
+  - value:
+      text: To Bordi (feat. Armin Morshed)
+      language: en
+    references:
+    - source: music.apple.com-us-album-to-bordi-feat-armin-morshed-single-1607336723
+      quote: To Bordi (feat. Armin Morshed) - Single - Album by Sara Naeini - Apple Music
+      accessed: '2026-10-19'
+  release date:
+  - value:
+      date: '2022-01-30'
+    references:
+    - source: music.apple.com-us-album-to-bordi-feat-armin-morshed-single-1607336723
+      quote: January 30, 2022
+      accessed: '2026-10-19'
+    rank: preferred
+  - value:
+      date: '2022-02-01'
+    references:
+    - source: soundcloud.com-sanin9000-to-bordi
+      quote: '"release_date":"2022-02-01T00:00:00Z"'
+      accessed: '2026-11-08'
+    - source: soundcloud.com-sanin9000-khelghat
+      quote: '"release_date":"2022-02-01T00:00:00Z"'
+      accessed: '2026-11-08'
+    - source: soundcloud.com-sanin9000-yek-shab
+      quote: '"release_date":"2022-02-01T00:00:00Z"'
+      accessed: '2026-11-08'
+  - value:
+      date: '2022-02-03'
+    references:
+    - source: www.youtube.com-watch-v-fdqydizdyji
+      quote: '"uploadDate":"2022-02-03T20:30:09-08:00"'
+      accessed: '2026-11-08'
+  performer:
+  - value: Qb23qew
+    references:
+    - source: music.apple.com-us-album-to-bordi-feat-armin-morshed-single-1607336723
+      quote: To Bordi (feat. Armin Morshed) - Single - Album by Sara Naeini - Apple Music
+      accessed: '2026-10-19'
+  - value: Q5xewxq
+    references:
+    - source: music.apple.com-us-album-to-bordi-feat-armin-morshed-single-1607336723
+      quote: To Bordi (feat. Armin Morshed) - Single - Album by Sara Naeini - Apple Music
+      accessed: '2026-10-19'
+  - value: Qqqjahe
+    references:
+    - source: www.youtube.com-watch-v-fdqydizdyji
+      quote: 'Piano by : Reza Tajbakhsh'
+      accessed: '2026-11-08'
+    qualifiers:
+      role:
+      - piano
+  listen link:
+  - value: https://music.apple.com/us/album/to-bordi-feat-armin-morshed-single/1607336723
+    references:
+    - source: music.apple.com-us-album-to-bordi-feat-armin-morshed-single-1607336723
+      quote: To Bordi (feat. Armin Morshed) - Single - Album by Sara Naeini - Apple Music
+      accessed: '2026-10-19'
+  - value: https://soundcloud.com/sanin9000/to-bordi
+    references:
+    - source: soundcloud.com-sanin9000-to-bordi
+      quote: To Bordi
+      accessed: '2026-11-08'
+  - value: https://soundcloud.com/sanin9000/khelghat
+    references:
+    - source: soundcloud.com-sanin9000-khelghat
+      quote: Khelghat
+      accessed: '2026-11-08'
+  - value: https://soundcloud.com/sanin9000/yek-shab
+    references:
+    - source: soundcloud.com-sanin9000-yek-shab
+      quote: Yek Shab
+      accessed: '2026-11-08'
+  - value: https://www.youtube.com/watch?v=fdQydIZDyjI
+    references:
+    - source: www.youtube.com-watch-v-fdqydizdyji
+      quote: To Bordi
+      accessed: '2026-11-08'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b5/bd/06/b5bd0646-7e16-6e99-c11e-537ba5f6b80e/artwork.jpg/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: music.apple.com
+        language: en
+    references:
+    - source: music.apple.com-us-album-to-bordi-feat-armin-morshed-single-1607336723
+      quote: To Bordi (feat. Armin Morshed) - Single - Album by Sara Naeini - Apple Music
+      accessed: '2026-10-19'
+  contributor:
+  - value: Q5xewxq
+    references:
+    - source: soundcloud.com-sanin9000-to-bordi
+      quote: 'Composed and Arranged : Armin Morshed'
+      accessed: '2026-11-08'
+    qualifiers:
+      role:
+      - composer
+      - arranger
+  - value: Q8qcd54
+    references:
+    - source: soundcloud.com-sanin9000-to-bordi
+      quote: 'Lyrics : Keyvan Nazari'
+      accessed: '2026-11-08'
+    qualifiers:
+      role:
+      - lyricist

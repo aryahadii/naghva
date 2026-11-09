@@ -1,0 +1,53 @@
+id: Qnf3rc2
+type: release
+statements:
+  name:
+  - value:
+      text: Faghat Negah Mikonam
+      language: en
+    references:
+    - source: music.apple.com-us-album-faghat-negah-mikonam-1604361592
+      quote: Faghat Negah Mikonam - Album by Hamid Hami - Apple Music
+      accessed: '2026-11-08'
+  listen link:
+  - value: https://music.apple.com/us/album/faghat-negah-mikonam/1604361592
+    references:
+    - source: music.apple.com-us-album-faghat-negah-mikonam-1604361592
+      quote: Faghat Negah Mikonam - Album by Hamid Hami - Apple Music
+      accessed: '2026-11-08'
+  - value: https://open.spotify.com/album/5k4cvHhEzG1Jcwa13kDWXQ
+    references:
+    - source: open.spotify.com-album-5k4cvhhezg1jcwa13kdwxq
+      quote: Listen to Faghat Negah Mikonam - Album by Hamid Hami | Spotify
+      accessed: '2026-11-08'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7c/59/88/7c5988cc-eca3-24eb-602f-aa98c56c9026/196626249524.jpg/1200x630wp-60.jpg
+    references:
+    - source: music.apple.com-us-album-faghat-negah-mikonam-1604361592
+      quote: Faghat Negah Mikonam - Album by Hamid Hami - Apple Music
+      accessed: '2026-11-08'
+    qualifiers:
+      credit:
+        text: music.apple.com
+        language: en
+  performer:
+  - value: Q5sg584
+    references:
+    - source: music.apple.com-us-album-faghat-negah-mikonam-1604361592
+      quote: Faghat Negah Mikonam - Album by Hamid Hami - Apple Music
+      accessed: '2026-11-08'
+  - value: Qb23qew
+    references:
+    - source: music.apple.com-us-song-shabe-naghashi-feat-sara-naeini-1604361596
+      quote: Shabe Naghashi (feat. Sara Naeini) - Song with Lyrics by Hamid Hami - Apple Music
+      accessed: '2026-11-08'
+  release date:
+  - value:
+      date: '2007-01-08'
+    references:
+    - source: music.apple.com-us-album-faghat-negah-mikonam-1604361592
+      quote: January 8, 2007
+      accessed: '2026-11-08'
+    - source: open.spotify.com-album-5k4cvhhezg1jcwa13kdwxq
+      quote: name="music:release_date" content="2007-01-08"
+      accessed: '2026-11-08'

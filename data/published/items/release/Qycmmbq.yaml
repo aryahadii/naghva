@@ -1,0 +1,81 @@
+id: Qycmmbq
+type: release
+statements:
+  name:
+  - value:
+      text: Dobareh
+      language: en
+    references:
+    - source: music.apple.com-us-album-dobareh-single-1628143799
+      quote: Dobareh - Single - Album by Sara Naeini - Apple Music
+      accessed: '2026-11-08'
+  listen link:
+  - value: https://music.apple.com/us/album/dobareh-single/1628143799
+    references:
+    - source: music.apple.com-us-album-dobareh-single-1628143799
+      quote: Dobareh - Single - Album by Sara Naeini - Apple Music
+      accessed: '2026-11-08'
+  - value: https://music.apple.com/us/album/dobareh-single/1654360804
+    references:
+    - source: music.apple.com-us-album-dobareh-single-1654360804
+      quote: Dobareh - Single - Album by Sara Naeini - Apple Music
+      accessed: '2026-11-08'
+  - value: https://soundcloud.com/sanin9000/dobareh-wave
+    references:
+    - source: soundcloud.com-sanin9000-dobareh-wave
+      quote: DOBAREH WAVE
+      accessed: '2026-11-08'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/8a/e2/06/8ae2062f-9a3c-692e-1f2b-0d45d3feec29/artwork.jpg/1200x630wp-60.jpg
+    references:
+    - source: music.apple.com-us-album-dobareh-single-1628143799
+      quote: Dobareh - Single - Album by Sara Naeini - Apple Music
+      accessed: '2026-11-08'
+    qualifiers:
+      credit:
+        text: music.apple.com
+        language: en
+  performer:
+  - value: Qb23qew
+    references:
+    - source: music.apple.com-us-album-dobareh-single-1628143799
+      quote: Dobareh - Single - Album by Sara Naeini - Apple Music
+      accessed: '2026-11-08'
+  contributor:
+  - value: Qwjd2tr
+    references:
+    - source: soundcloud.com-sanin9000-dobareh-wave
+      quote: 'Composed and Produced by : Raffi Shahbazian'
+      accessed: '2026-11-08'
+    qualifiers:
+      role:
+      - composer
+      - producer
+  - value: Qszj8am
+    references:
+    - source: soundcloud.com-sanin9000-dobareh-wave
+      quote: 'Lyrics by : Mehdi Gholizadeh'
+      accessed: '2026-11-08'
+    qualifiers:
+      role:
+      - lyricist
+  release date:
+  - value:
+      date: '2022-06-06'
+    references:
+    - source: music.apple.com-us-album-dobareh-single-1628143799
+      quote: June 6, 2022
+      accessed: '2026-11-08'
+    rank: preferred
+  - value:
+      date: '2022-11-07'
+    references:
+    - source: music.apple.com-us-album-dobareh-single-1654360804
+      quote: November 7, 2022
+      accessed: '2026-11-08'
+  - value:
+      date: '2022-06-07'
+    references:
+    - source: soundcloud.com-sanin9000-dobareh-wave
+      quote: '"release_date":"2022-06-07T00:00:00Z"'
+      accessed: '2026-11-08'

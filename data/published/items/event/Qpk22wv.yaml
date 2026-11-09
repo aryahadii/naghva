@@ -1,0 +1,27 @@
+id: Qpk22wv
+type: event
+statements:
+  name:
+  - value:
+      text: 40th Annual Berklee International Folk Festival
+      language: en
+    references:
+    - source: college.berklee.edu-events-40th-annual-berklee-international-folk-festival-featuring-arooj-aftab-10-98c8e4d8b4e9
+      quote: 40th Annual Berklee International Folk Festival
+      accessed: '2026-10-22'
+  event date:
+  - value:
+      date: '2026-02-05'
+    references:
+    - source: college.berklee.edu-events-40th-annual-berklee-international-folk-festival-featuring-arooj-aftab-10-98c8e4d8b4e9
+      quote: Thursday / February 5, 2026 / 8:00 p.m.
+      accessed: '2026-10-22'
+  performer:
+  - value: Qjfbx8t
+    references:
+    - source: college.berklee.edu-events-40th-annual-berklee-international-folk-festival-featuring-arooj-aftab-10-98c8e4d8b4e9
+      quote: Monicki Firouzmand Voice / Tehran-Iran
+      accessed: '2026-10-22'
+    qualifiers:
+      role:
+      - vocals

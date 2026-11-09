@@ -1,0 +1,70 @@
+id: Qbc9cb5
+type: release
+statements:
+  name:
+  - value:
+      text: Faseleh
+      language: en
+    references:
+    - source: music.apple.com-us-album-faseleh-single-1564851351
+      quote: Faseleh - Single - Album by Sara Naeini - Apple Music
+      accessed: '2026-11-08'
+  listen link:
+  - value: https://music.apple.com/us/album/faseleh-single/1564851351
+    references:
+    - source: music.apple.com-us-album-faseleh-single-1564851351
+      quote: Faseleh - Single - Album by Sara Naeini - Apple Music
+      accessed: '2026-11-08'
+  - value: https://soundcloud.com/sanin9000/faseleh
+    references:
+    - source: soundcloud.com-sanin9000-faseleh
+      quote: Faseleh
+      accessed: '2026-11-08'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/27/19/a9/2719a914-4311-d952-9b56-6dc2f1113865/artwork.jpg/1200x630wp-60.jpg
+    references:
+    - source: music.apple.com-us-album-faseleh-single-1564851351
+      quote: Faseleh - Single - Album by Sara Naeini - Apple Music
+      accessed: '2026-11-08'
+    qualifiers:
+      credit:
+        text: music.apple.com
+        language: en
+  performer:
+  - value: Qb23qew
+    references:
+    - source: music.apple.com-us-album-faseleh-single-1564851351
+      quote: Faseleh - Single - Album by Sara Naeini - Apple Music
+      accessed: '2026-11-08'
+  contributor:
+  - value: Qwjd2tr
+    references:
+    - source: soundcloud.com-sanin9000-faseleh
+      quote: Composed and Produced by Raffi Shahbazian
+      accessed: '2026-11-08'
+    qualifiers:
+      role:
+      - composer
+      - producer
+  - value: Q2tdkes
+    references:
+    - source: soundcloud.com-sanin9000-faseleh
+      quote: Words by Yalda Engali
+      accessed: '2026-11-08'
+    qualifiers:
+      role:
+      - lyricist
+  release date:
+  - value:
+      date: '2021-04-27'
+    references:
+    - source: music.apple.com-us-album-faseleh-single-1564851351
+      quote: April 27, 2021
+      accessed: '2026-11-08'
+    rank: preferred
+  - value:
+      date: '2021-04-29'
+    references:
+    - source: soundcloud.com-sanin9000-faseleh
+      quote: '"release_date":"2021-04-29T00:00:00Z"'
+      accessed: '2026-11-08'

@@ -1,0 +1,13 @@
+---
+url: https://www.youtube.com/watch?v=zI7QvIgIm-o
+archive: "https://web.archive.org/web/20261010123123/https://www.youtube.com/watch?si=MtSZrYIKG_C7YVuH&v=zI7QvIgIm-o"
+title: EP06 | Rian | Black Spot (NOGHTEYE SIAH) — darmanegah_darmasheno
+status: processed
+kind: youtube video
+language: mul
+tier: own
+---
+
+> * The sixth Event: SABZI POLO with KUKU SABZI * Performance: Rian, Singer and Songwriter, Composer Songs: Bipolar (Do QOTBI), Black Spot (NOQGHTEYE SIAH), Eraser (PAKKON) * Rian says about himself that He was born in 1998. He is an independent singer and producer who, despite his education in computer engineering, has pursued his professional path in music. He became interested in music at the age of 17 and started his career by playing drums, but due to the lack of a suitable practice space, he switched to singing and playing guitar. He began his professional career in 2016 with the group "Jetpack" as a singer and composer. With the release of the short album "PAK-KON", he launched his personal project under the name "Rian" as a singer and producer of electronic music. In 2025, Arian founded the band "Jillis Willies" with Sepehr Abbasi. A project that combines fusion and jazz. His works are a reflection of his personal experiences in music production. *  ترانه "نقطه‌ی سیاه" از ترس رفتن یا از دست‌ دادن کسی که عاشقش هستی الهام گرفته شده است. ترسی آن‌قدر عمیق که حاضری خودت را تا حد یک نقطه‌ی سیاه کوچک خرد کنی فقط برای اینکه در هر لحظه و هر جایی که می‌رود، همراهش باشی  Bipolar (Do QOTBI): Early in the coronavirus pandemic, I experienced severe depression and anxiety. I was initially diagnosed with bipolar disorder, but it later turned out that this was a misdiagnosis. ... However, the song Bipolar was formed during that same period. A song that is essentially a farewell to my pre-crisis self.  ترانه "پاک‌کن" لحظه‌ای را به تصویر می‌کشد که درمی‌یابی کسی را که دوست داشتی، باید رها کنی و خودت را دوست داشته باشی. کسی که زمانی تمام زنده‌گی‌ات بود، مثل یک پاک‌کن که اشتباهات خود را از بین می‌برد اما حال زمان آن رسیده که از او جدا شوی  Stylist: BUM/blueultramarine.studio Title: Black Spot (NOQTEYE SIAH) Velvet and cotton blouse Pants made of fastoni * Producer: Studio DARMANGAH Audio Technical Director: Mehdi Behbudi Videographer: Mohammad Zahedi Art Manager: Negar Yazdanpanah Content management: Mari Shirzad Dar Ma Negah, Dar Ma Sheno Team: Lina Elyasi,Mastaneh Kamyab, Behrouz Memar Moshrefi and Mohammad Ghazali * The sixth event in Dar Ma Negah, Dar Ma Shenu at Darmangah Studio, March 2025 * @rian.sounds @blueultramarine.studio @darmanegah_darmasheno @cou_cou_i studio DARMANGAH *
+
+Relevant description before or around omitted song lyrics; read 2026-10-22.

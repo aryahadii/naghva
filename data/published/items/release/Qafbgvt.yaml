@@ -1,0 +1,51 @@
+id: Qafbgvt
+type: release
+statements:
+  name:
+  - value:
+      text: Ghami Ghamnak
+      language: en
+    references:
+    - source: soundcloud.com-sanin9000-ghami-ghamnak
+      quote: Ghami Ghamnak
+      accessed: '2026-11-08'
+  listen link:
+  - value: https://soundcloud.com/sanin9000/ghami-ghamnak
+    references:
+    - source: soundcloud.com-sanin9000-ghami-ghamnak
+      quote: Ghami Ghamnak
+      accessed: '2026-11-08'
+  - value: https://www.youtube.com/watch?v=gycITWVJYxg
+    references:
+    - source: www.youtube.com-watch-v-gycitwvjyxg
+      quote: Ghami Ghamnak
+      accessed: '2026-11-08'
+  performer:
+  - value: Qb23qew
+    references:
+    - source: soundcloud.com-sanin9000-ghami-ghamnak
+      quote: '"username":"Sara Naeini"'
+      accessed: '2026-11-08'
+  contributor:
+  - value: Qdrfcbf
+    references:
+    - source: soundcloud.com-sanin9000-ghami-ghamnak
+      quote: 'Words by : Sohrab Sepehri'
+      accessed: '2026-11-08'
+    qualifiers:
+      role:
+      - lyricist
+  release date:
+  - value:
+      date: '2021-02-20'
+    references:
+    - source: soundcloud.com-sanin9000-ghami-ghamnak
+      quote: '"release_date":"2021-02-20T00:00:00Z"'
+      accessed: '2026-11-08'
+    rank: preferred
+  - value:
+      date: '2021-02-26'
+    references:
+    - source: www.youtube.com-watch-v-gycitwvjyxg
+      quote: '"uploadDate":"2021-02-26T00:00:10-08:00"'
+      accessed: '2026-11-08'

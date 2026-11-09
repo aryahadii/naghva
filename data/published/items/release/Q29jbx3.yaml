@@ -1,0 +1,69 @@
+id: Q29jbx3
+type: release
+statements:
+  name:
+  - value:
+      text: Eftezoza
+      language: en
+    references:
+    - source: music.apple.com-us-album-eftezoza-single-6778565888-5e219c5f0188
+      quote: Eftezoza - Single - Album by Danakol - Apple Music
+      accessed: '2026-10-20'
+  release date:
+  - value:
+      date: '2026-06-14'
+    references:
+    - source: music.apple.com-us-album-eftezoza-single-6778565888-5e219c5f0188
+      quote: June 14, 2026
+      accessed: '2026-10-20'
+  performer:
+  - value: Qhvqpzq
+    references:
+    - source: music.apple.com-us-album-eftezoza-single-6778565888-5e219c5f0188
+      quote: Eftezoza - Single - Album by Danakol - Apple Music
+      accessed: '2026-10-20'
+  listen link:
+  - value: https://music.apple.com/us/album/eftezoza-single/6778565888
+    references:
+    - source: music.apple.com-us-album-eftezoza-single-6778565888-5e219c5f0188
+      quote: Eftezoza - Single - Album by Danakol - Apple Music
+      accessed: '2026-10-20'
+  - value: https://open.spotify.com/track/33QbwZgArtMSwqtiV6rmz3
+    references:
+    - source: open.spotify.com-track-33qbwzgartmswqtiv6rmz3
+      quote: Eftezoza - song and lyrics by Danakol | Spotify
+      accessed: '2026-10-22'
+  - value: https://soundcloud.com/danakol/eftezoza
+    references:
+    - source: soundcloud.com-danakol-eftezoza
+      quote: Eftezoza [Prod. Rian]
+      accessed: '2026-10-22'
+  - value: https://www.youtube.com/watch?v=RZvu8C_MmJQ
+    references:
+    - source: www.youtube.com-watch-v-rzvu8c_mmjq
+      quote: Danakol - Eftezoza (Official Audio)
+      accessed: '2026-10-22'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bc/53/2b/bc532ba9-087f-95af-e598-aea6b67c9cd6/cover.jpg/1200x630wp-60.jpg
+    references:
+    - source: music.apple.com-us-album-eftezoza-single-6778565888-5e219c5f0188
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bc/53/2b/bc532ba9-087f-95af-e598-aea6b67c9cd6/cover.jpg/1200x630wp-60.jpg
+      accessed: '2026-10-20'
+  contributor:
+  - value: Qvhgfe7
+    references:
+    - source: soundcloud.com-danakol-eftezoza
+      quote: 'Music Producer: Rian'
+      accessed: '2026-10-25'
+    - source: riansounds.com-data.js-3127f95ce11a
+      quote: |-
+        title: "Eftezoza",
+                        type: {en: "Produced by Rian", fa: "تهیه‌شده توسط آرین"},
+                        role: "Danak0l"
+      accessed: '2026-10-20'
+    - source: www.youtube.com-watch-v-rzvu8c_mmjq
+      quote: 'Music Producer: Rian'
+      accessed: '2026-10-22'
+    qualifiers:
+      role:
+      - producer

@@ -1,0 +1,55 @@
+id: Qsybdp7
+type: release
+statements:
+  name:
+  - value:
+      text: Delyar Orchestral
+      language: en
+    references:
+    - source: www.youtube.com-watch-v-gd5irj8c9kw
+      quote: Delyar Orchestral
+      accessed: '2026-11-08'
+  listen link:
+  - value: https://www.youtube.com/watch?v=GD5Irj8C9kw
+    references:
+    - source: www.youtube.com-watch-v-gd5irj8c9kw
+      quote: Delyar Orchestral
+      accessed: '2026-11-08'
+  performer:
+  - value: Qb23qew
+    references:
+    - source: www.youtube.com-watch-v-gd5irj8c9kw
+      quote: 'Vocalist: @saranaeini_official'
+      accessed: '2026-11-08'
+  contributor:
+  - value: Qn3axbv
+    references:
+    - source: www.youtube.com-watch-v-gd5irj8c9kw
+      quote: 'Composed by: @anoushiravanrohani'
+      accessed: '2026-11-08'
+    qualifiers:
+      role:
+      - composer
+  - value: Qw5jxpk
+    references:
+    - source: www.youtube.com-watch-v-gd5irj8c9kw
+      quote: 'Lyrics by: Delshad Emami'
+      accessed: '2026-11-08'
+    qualifiers:
+      role:
+      - lyricist
+  - value: Qqprhs6
+    references:
+    - source: www.youtube.com-watch-v-gd5irj8c9kw
+      quote: 'Arranged by: @rezarohaniofficial'
+      accessed: '2026-11-08'
+    qualifiers:
+      role:
+      - arranger
+  release date:
+  - value:
+      date: '2026-09-16'
+    references:
+    - source: www.youtube.com-watch-v-gd5irj8c9kw
+      quote: '"uploadDate":"2026-09-16T13:47:39-07:00"'
+      accessed: '2026-11-08'

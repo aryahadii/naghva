@@ -3,7 +3,6 @@ import { existsSync, readFileSync } from 'node:fs';
 import sharp from 'sharp';
 
 const sanam = 'https://www.salam-music.at/wp-content/uploads/Sanam-Maroufkhani_.jpg';
-const cover = 'https://f4.bcbits.com/img/a0845783135_5.jpg';
 const media = JSON.parse(readFileSync('media.json', 'utf8'));
 const own = (url: string) => `/media/${media[url].sha256.slice(0, 16)}-`;
 // Builds without the R2 read key, such as pull requests from forks, have no
@@ -55,9 +54,12 @@ for (const lang of ['en', 'fa']) {
     test.skip(!hasCopies, 'built without its own image copies');
     let publisher = 0;
     const body = await imageBytes;
-    await page.route(cover, route => { publisher++; return route.fulfill({ contentType: 'image/webp', body }); });
     await page.goto(`/${lang}/sanam-maroufkhani-a84/`);
-    await page.locator('a[data-release][href="#beneath-the-wooden-roof-live-recorded-at-sargfabrik-vienna-bmp"]').click();
+    // Any release whose cover has its own copy; the card names the publisher's URL.
+    const card = page.locator('a[data-release]').filter({ has: page.locator('img[data-original-src]') }).first();
+    const cover = (await card.locator('img').getAttribute('data-original-src'))!;
+    await page.route(cover, route => { publisher++; return route.fulfill({ contentType: 'image/webp', body }); });
+    await card.click();
     const shown = page.locator('#release-dialog img');
     await expect.poll(() => shown.evaluate(image => (image as HTMLImageElement).naturalWidth)).toBeGreaterThan(0);
     expect(await shown.getAttribute('src')).toContain(own(cover));
