@@ -11,6 +11,7 @@ about:
 - Mohsen Namjoo
 - Qt6wjbg
 status: processed
+archive: https://web.archive.org/web/20250225055328/https://becketinternational.wordpress.com/2009/07/20/iran-singer-sentenced-for-ridiculing-the-koran/
 ---
 
 > On June 9 the singer Mohsen Namjoo was sentenced in absentia to a five-year jail term for ridiculing the Koran in a song, a sentence his brother has announced his family intends to appeal, AFP reported on July 20. In 2008 Namjoo apologized in a letter addressed to his mother, to clerics and to the Iranian people for a song he has claimed was never meant for public release.

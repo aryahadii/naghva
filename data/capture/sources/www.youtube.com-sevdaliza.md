@@ -2,6 +2,7 @@
 url: https://www.youtube.com/@sevdaliza
 title: Sevdaliza - YouTube
 status: processed
+archive: https://web.archive.org/web/20260920090745/https://www.youtube.com/@Sevdaliza
 kind: youtube channel
 language: en
 tier: own

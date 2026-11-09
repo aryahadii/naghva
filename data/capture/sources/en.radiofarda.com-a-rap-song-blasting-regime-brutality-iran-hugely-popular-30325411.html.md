@@ -11,6 +11,7 @@ about:
 - Hichkas
 - Qgyvbw3
 status: processed
+archive: https://web.archive.org/web/20261009073954/https://en.radiofarda.com/a/rap-song-blasting-regime-brutality-iran-hugely-popular/30325411.html
 ---
 
 > A rap song by dissident Iranian rapper Hichkas (Nobody) released on the Internet on December 10 in commemoration of November protests in Iran has become so popular

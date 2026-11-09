@@ -2,6 +2,7 @@
 url: https://t.me/s/yastunes
 title: YAS
 status: processed
+archive: https://web.archive.org/web/20260517094225/https://t.me/s/YASTUNES
 kind: telegram channel
 language: mul
 tier: own

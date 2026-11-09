@@ -12,6 +12,7 @@ about:
 - Shahin Najafi
 - Qn7vfak
 status: processed
+archive: https://web.archive.org/web/20260614161734/https://tif.ssrc.org/2015/01/16/how-to-make-someone-famous-for-the-wrong-reason/
 ---
 
 > Shahin Najafi was born in 1980 in Bandar-e Anzali, a small town in northern Iran. As a teenager, he fell in love with the plaintive melodies of Quranic recitation and devoted himself to the art for four years. Kicked out of college before completing a degree in Islamic sociology, Najafi served in the military, where intimate familiarity with the struggles of his fellow soldiers—most of whom were working class and poor—shook his religious faith and stirred his political consciousness. After playing in an instrumental pop group and singing in a Gypsy Kings cover band, Najafi began to write his own songs, which soon drew the attention of the authorities. Escaping a sentence of three years in prison and 100 lashes for his politically subversive lyrics, he fled to Germany in 2004.

@@ -9,6 +9,7 @@ about:
 - Shahin Najafi
 - Qn7vfak
 status: processed
+archive: https://web.archive.org/web/20240603104852/https://www.pbs.org/independentlens/documentaries/when-god-sleeps/
 ---
 
 > When God Sleeps is a rap-punk-rock documentary about Iranian musician Shahin Najafi, who is forced into hiding after hardline clerics issue a fatwa for his death.

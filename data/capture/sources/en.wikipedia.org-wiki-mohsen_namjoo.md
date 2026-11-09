@@ -9,6 +9,7 @@ about:
 - Mohsen Namjoo
 - Qt6wjbg
 status: processed
+archive: https://web.archive.org/web/20260906050321/https://en.wikipedia.org/wiki/Mohsen_Namjoo
 ---
 
 > Namjoo was born on 4 March 1976 in Torbat-e Jam, a small town in Razavi Khorasan province in northeastern Iran. He was raised in the religious city of Mashhad.

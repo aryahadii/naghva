@@ -11,6 +11,7 @@ about:
 - Shahin Najafi
 - Qn7vfak
 status: processed
+archive: https://web.archive.org/web/20221101131515/https://t.me/shahinnajafimusic/3618
 ---
 
 > قطعه‌ی «ناجی» برای زنان و همه‌ی  کسانی‌ست که به آنهاتعرض شده است.

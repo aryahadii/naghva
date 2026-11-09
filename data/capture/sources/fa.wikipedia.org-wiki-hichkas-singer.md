@@ -9,6 +9,7 @@ about:
 - Hichkas
 - Qgyvbw3
 status: processed
+archive: https://web.archive.org/web/20260113074017/https://fa.wikipedia.org/wiki/%D9%87%DB%8C%DA%86%E2%80%8C%DA%A9%D8%B3_(%D8%AE%D9%88%D8%A7%D9%86%D9%86%D8%AF%D9%87)
 ---
 
 > «دلیل انتخاب اسم هیچ‌کس هم این بود که می‌خواستم یک تضادی ایجاد کنم با تأثیری که می‌خوام بگذارم و حرف‌هایی که می‌زنیم. هیچ‌کس نماد هیچ‌چیز نیست و من این را دوست دارم»

@@ -12,6 +12,7 @@ about:
 - Kourosh Yaghmaei
 - Qkza58w
 status: processed
+archive: https://web.archive.org/web/20251210160144/https://www.vice.com/en/article/from-national-star-to-enemy-of-the-state-iranian-rock-pioneer-kourosh-yaghmaei-fights-on/
 ---
 
 > Born in 1946 to a well-off family—one of his distant ancestors was a popular poet; his grandfather was a wealthy landowner—Yaghmaei got into music as a child when his father gave him a santur, and started his first band with some friends when he was a teenager.

@@ -9,6 +9,7 @@ about:
 - Yas
 - Qx3svqf
 status: processed
+archive: https://web.archive.org/web/20251112004157/https://fa.wikipedia.org/wiki/%DB%8C%D8%A7%D8%B3_(%D8%AE%D9%88%D8%A7%D9%86%D9%86%D8%AF%D9%87)
 ---
 
 > یاسر بختیاری با نام هنری یاس، در ۳۰ خرداد ۱۳۶۱ متولد شد. دوران کودکی وی در محله‌های ناصر خسرو، اکباتان و شمشیری در تهران سپری شد.

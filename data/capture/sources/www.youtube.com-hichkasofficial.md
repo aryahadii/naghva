@@ -2,6 +2,7 @@
 url: https://www.youtube.com/@HichkasOfficial
 title: Hichkas - YouTube
 status: processed
+archive: https://web.archive.org/web/20240604064614/https://www.youtube.com/@HichkasOfficial
 kind: youtube channel
 language: en
 tier: own

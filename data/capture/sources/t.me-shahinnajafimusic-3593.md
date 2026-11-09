@@ -11,6 +11,7 @@ about:
 - Shahin Najafi
 - Qn7vfak
 status: processed
+archive: https://web.archive.org/web/20220505211519/https://t.me/shahinnajafimusic/3593
 ---
 
 > حرف و باس با کار و پا کار عملی کرد. با سیگما بعد از دو سال بدون کنسرت به دیدار فامیل در اروپا و کانادا و آمریکا می‌آییم.

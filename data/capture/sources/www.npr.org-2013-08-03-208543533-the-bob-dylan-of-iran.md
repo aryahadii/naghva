@@ -11,6 +11,7 @@ about:
 - Mohsen Namjoo
 - Qt6wjbg
 status: processed
+archive: https://web.archive.org/web/20250502085256/https://www.npr.org/2013/08/03/208543533/the-bob-dylan-of-iran
 ---
 
 > Four years ago, Iranian singer Mohsen Namjoo was touring in Italy when he learned he would not be able to go home. The Iranian Revolutionary Court had ruled that one of Namjoo's songs disparaged the Quran. He would have to serve five years in prison if he set foot back in Iran.

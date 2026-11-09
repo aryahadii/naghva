@@ -2,6 +2,7 @@
 url: https://t.me/kouroshyaghmaei
 title: Kourosh Yaghmaei
 status: processed
+archive: https://web.archive.org/web/20260227103232/https://t.me/kouroshyaghmaei
 kind: telegram channel
 language: mul
 tier: own

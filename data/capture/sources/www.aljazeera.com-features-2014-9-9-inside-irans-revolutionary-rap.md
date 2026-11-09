@@ -12,6 +12,7 @@ about:
 - Hichkas
 - Qgyvbw3
 status: processed
+archive: https://web.archive.org/web/20261012150104/https://www.aljazeera.com/features/2014/9/9/inside-irans-revolutionary-rap
 ---
 
 > Unlike many of his counterparts, Hichkas avoids swearing and rapping about violence, drugs and women. “The rap here is very different, it’s about something real,” he told the Daily Show in 2009. Instead, Hichkas’ music tackles social and moral issues such as drug addiction, depression, poverty and youth unemployment. “We feel we shouldn’t have bad influences on people,” he said.

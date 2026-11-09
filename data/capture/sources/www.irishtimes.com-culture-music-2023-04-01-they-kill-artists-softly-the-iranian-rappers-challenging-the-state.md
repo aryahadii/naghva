@@ -12,6 +12,7 @@ about:
 - Hichkas
 - Qgyvbw3
 status: processed
+archive: https://web.archive.org/web/20260310065219/https://www.irishtimes.com/culture/music/2023/04/01/they-kill-artists-softly-the-iranian-rappers-challenging-the-state/
 ---
 
 > Hichkas’s 2006 debut album, Jangal-e asfalt (Asphalt Jungle) fused hip-hop rhythms with classical instruments such as the santour, giving the genre a distinctive local flavour.

@@ -11,6 +11,7 @@ about:
 - Shahin Najafi
 - Qn7vfak
 status: processed
+archive: https://web.archive.org/web/20220925235247/https://t.me/shahinnajafimusic/3603
 ---
 
 > تور سیگما 

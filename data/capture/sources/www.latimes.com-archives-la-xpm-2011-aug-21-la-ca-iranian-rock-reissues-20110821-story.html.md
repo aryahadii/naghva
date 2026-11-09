@@ -12,6 +12,7 @@ about:
 - Kourosh Yaghmaei
 - Qkza58w
 status: processed
+archive: https://web.archive.org/web/20260609100214/https://www.latimes.com/archives/la-xpm-2011-aug-21-la-ca-iranian-rock-reissues-20110821-story.html
 ---
 
 > Highland Park’s Now Again label has compiled “Back From the Brink: Pre-Revolution Psychedelic Rock From Iran: 1973-1979,” one of the most cohesive compilations from Iran’s own guitar hero, Kourosh Yaghmaei.

@@ -11,6 +11,7 @@ about:
 - Shahin Najafi
 - Qn7vfak
 status: processed
+archive: https://web.archive.org/web/20221102003031/https://t.me/shahinnajafimusic/3612
 ---
 
 > ضبط آلبوم سیگما تمام شده است و در مرحله‌ی میکس و مسترینگ هستیم.

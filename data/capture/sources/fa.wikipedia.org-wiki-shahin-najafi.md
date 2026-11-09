@@ -9,6 +9,7 @@ about:
 - Shahin Najafi
 - Qn7vfak
 status: processed
+archive: https://web.archive.org/web/20251208112259/https://fa.wikipedia.org/wiki/%D8%B4%D8%A7%D9%87%DB%8C%D9%86_%D9%86%D8%AC%D9%81%DB%8C
 ---
 
 > مرتضی نجفی‌پور مقدّم در ۱۹ شهریور ۱۳۵۹ در بندر انزلی زاده شد. او آخرین فرزند خانواده از بین هشت فرزند است.

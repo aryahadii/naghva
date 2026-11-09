@@ -11,6 +11,7 @@ about:
 - Shahin Najafi
 - Qn7vfak
 status: processed
+archive: https://web.archive.org/web/20260217092614/https://tribecafilm.com/films/when-god-sleeps-2017
 ---
 
 > “My songs didn’t make me famous. The fatwa did.” And so we embark on the journey of rapper Shahin Najafi, whose bold style and transgressive lyrics put him in the crosshairs of religious clerics in his native Iran. When God Sleeps tells the story of this tireless artist-activist against the backdrop of the 2015 Paris terrorist attacks and the European right-wing backlash against Middle Eastern refugees."

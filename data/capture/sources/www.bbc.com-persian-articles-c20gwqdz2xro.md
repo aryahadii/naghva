@@ -11,6 +11,7 @@ about:
 - Kourosh Yaghmaei
 - Qkza58w
 status: processed
+archive: https://web.archive.org/web/20261019034921/https://www.bbc.com/persian/articles/c20gwqdz2xro
 ---
 
 > او در پستی در اینستاگرام نوشت که آخرین آلبومش با عنوان «پلاک ۴۴» قرار است «خیلی زود» در آمریکا و روی اینترنت منتشر شود؛ این آلبوم را نشر موسیقی Now Again Records در آمریکا پخش خواهد کرد.

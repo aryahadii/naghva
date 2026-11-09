@@ -12,6 +12,7 @@ about:
 - Shahin Najafi
 - Qn7vfak
 status: processed
+archive: https://web.archive.org/web/20260217181043/https://www.voanews.com/a/iranian-rock-artist-defies-threats-performs-israeli-peace-concert/3750170.html
 ---
 
 > Najafi, 36, sang alongside Israeli rock star Aviv Geffen at a concert in Tel Aviv on Thursday — the first performance by an Iranian artist at an Israeli rock concert.
