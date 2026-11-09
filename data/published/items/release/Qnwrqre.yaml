@@ -1,0 +1,144 @@
+id: Qnwrqre
+type: release
+statements:
+  name:
+  - value:
+      text: Jaye To Mimiram
+      language: en
+    references:
+    - source: soundcloud.com-jillizwillizofficial-jaye-to-mimiram-2a8cd2921908
+      quote: Jaye To Mimiram
+      accessed: '2026-10-19'
+  - value:
+      text: جای تو میمیرم
+      language: fa
+    references:
+    - source: t.me-s-jillizwilliz
+      quote: اولین سینگل ما٫ “جای تو میمیرم” بزودی ✨
+      accessed: '2026-10-22'
+  release date:
+  - value:
+      date: '2025-11-04'
+    references:
+    - source: music.apple.com-track-jaye
+      quote: '"datePublished":"2025-11-04"'
+      accessed: '2026-10-22'
+      locator: JSON-LD MusicComposition datePublished
+    - source: open.spotify.com-track-0jb6kcwet1yksbotxwyclq
+      quote: '"datePublished":"2025-11-04"'
+      accessed: '2026-10-22'
+      locator: JSON-LD MusicRecording datePublished
+  - value:
+      date: '2025-11-02'
+    references:
+    - source: soundcloud.com-jillizwillizofficial-profile
+      quote: '2025-11-02T16:48:50Z'
+      accessed: '2026-10-22'
+      locator: SoundCloud track row publication timestamp
+  performer:
+  - value: Q6andbw
+    references:
+    - source: soundcloud.com-jillizwillizofficial-jaye-to-mimiram-2a8cd2921908
+      quote: |-
+        شعر، وکال و گیتار الکتریک: آرین شریعت
+        گیتار بیس: نوید غالب
+        ترومبون: سپهر عباسی
+        ترومپت: ماهان محمدی
+        درامز: صالح خان محمدی
+        تنظیم: جیلیز ویلیز
+      accessed: '2026-10-19'
+  - value: Qvhgfe7
+    references:
+    - source: soundcloud.com-jillizwillizofficial-jaye-to-mimiram-2a8cd2921908
+      quote: 'شعر، وکال و گیتار الکتریک: آرین شریعت'
+      accessed: '2026-10-22'
+    qualifiers:
+      role:
+      - vocals
+      - guitar
+  - value: Qezfxe8
+    references:
+    - source: soundcloud.com-jillizwillizofficial-jaye-to-mimiram-2a8cd2921908
+      quote: 'گیتار بیس: نوید غالب'
+      accessed: '2026-10-22'
+    qualifiers:
+      role:
+      - bass
+  - value: Q5h5r95
+    references:
+    - source: soundcloud.com-jillizwillizofficial-jaye-to-mimiram-2a8cd2921908
+      quote: 'ترومبون: سپهر عباسی'
+      accessed: '2026-10-22'
+    qualifiers:
+      role:
+      - trombone
+  - value: Qverw3d
+    references:
+    - source: soundcloud.com-jillizwillizofficial-jaye-to-mimiram-2a8cd2921908
+      quote: 'ترومپت: ماهان محمدی'
+      accessed: '2026-10-22'
+    qualifiers:
+      role:
+      - trumpet
+  - value: Q4w8rh8
+    references:
+    - source: soundcloud.com-jillizwillizofficial-jaye-to-mimiram-2a8cd2921908
+      quote: 'درامز: صالح خان محمدی'
+      accessed: '2026-10-22'
+    qualifiers:
+      role:
+      - drums
+  listen link:
+  - value: https://soundcloud.com/jillizwillizofficial/jaye-to-mimiram
+    references:
+    - source: soundcloud.com-jillizwillizofficial-jaye-to-mimiram-2a8cd2921908
+      quote: Jaye To Mimiram
+      accessed: '2026-10-19'
+  - value: https://open.spotify.com/track/0Jb6kcWet1YKsBotxWycLQ
+    references:
+    - source: open.spotify.com-track-0jb6kcwet1yksbotxwyclq
+      quote: Jaye To Mimiram
+      accessed: '2026-10-22'
+  - value: https://music.apple.com/us/album/jaye-to-mimiram/1851733852?i=1851733853
+    references:
+    - source: music.apple.com-track-jaye
+      quote: Jaye To Mimiram by Jilliz Williz on Apple Music
+      accessed: '2026-10-22'
+  - value: https://www.youtube.com/watch?v=5aYxjRX-C5Y
+    references:
+    - source: music.youtube.com-track-5ayxjrx-c5y
+      quote: Jaye To Mimiram
+      accessed: '2026-10-22'
+  - value: https://t.me/jillizwilliz/24
+    references:
+    - source: t.me-s-jillizwilliz
+      quote: Jaye To Mimiram
+      accessed: '2026-10-22'
+      locator: post 24
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-HbQUDtozKpPNpLnh-Su6WFQ-t500x500.png
+    qualifiers:
+      credit:
+        text: SoundCloud
+        language: en
+    references:
+    - source: soundcloud.com-jillizwillizofficial-jaye-to-mimiram-2a8cd2921908
+      quote: Jaye To Mimiram
+      accessed: '2026-10-19'
+  contributor:
+  - value: Qvhgfe7
+    references:
+    - source: soundcloud.com-jillizwillizofficial-jaye-to-mimiram-2a8cd2921908
+      quote: 'شعر، وکال و گیتار الکتریک: آرین شریعت'
+      accessed: '2026-10-22'
+    qualifiers:
+      role:
+      - lyricist
+  - value: Q6andbw
+    references:
+    - source: soundcloud.com-jillizwillizofficial-jaye-to-mimiram-2a8cd2921908
+      quote: 'تنظیم: جیلیز ویلیز'
+      accessed: '2026-10-22'
+    qualifiers:
+      role:
+      - arranger

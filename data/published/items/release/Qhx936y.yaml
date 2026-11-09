@@ -1,0 +1,48 @@
+id: Qhx936y
+type: release
+statements:
+  name:
+  - value:
+      text: Lie to Me
+      language: en
+    references:
+    - source: music.apple.com-us-album-lie-to-me-single-6812031870
+      quote: Lie to Me - Single - Album by Sara Naeini - Apple Music
+      accessed: '2026-11-08'
+  release date:
+  - value:
+      date: '2026-10-08'
+    references:
+    - source: music.apple.com-us-album-lie-to-me-single-6812031870
+      quote: October 8, 2026
+      accessed: '2026-11-08'
+    - source: open.spotify.com-album-69c2s9zzbewj7rqjsfevsf
+      quote: name="music:release_date" content="2026-10-08"
+      accessed: '2026-11-08'
+  performer:
+  - value: Qb23qew
+    references:
+    - source: music.apple.com-us-album-lie-to-me-single-6812031870
+      quote: Lie to Me - Single - Album by Sara Naeini - Apple Music
+      accessed: '2026-11-08'
+  listen link:
+  - value: https://music.apple.com/us/album/lie-to-me-single/6812031870
+    references:
+    - source: music.apple.com-us-album-lie-to-me-single-6812031870
+      quote: Lie to Me - Single - Album by Sara Naeini - Apple Music
+      accessed: '2026-11-08'
+  - value: https://open.spotify.com/album/69C2s9ZzbewJ7rqJSfEVsf
+    references:
+    - source: open.spotify.com-album-69c2s9zzbewj7rqjsfevsf
+      quote: Listen to Lie to Me - Single by Sara Naeini | Spotify
+      accessed: '2026-11-08'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/e2/f2/3ae2f25b-da30-8fbc-70b9-7870e093c65b/885000523991.png/1200x630wp-60.jpg
+    references:
+    - source: music.apple.com-us-album-lie-to-me-single-6812031870
+      quote: Lie to Me - Single - Album by Sara Naeini - Apple Music
+      accessed: '2026-11-08'
+    qualifiers:
+      credit:
+        text: music.apple.com
+        language: en

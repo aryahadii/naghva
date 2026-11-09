@@ -1,0 +1,65 @@
+id: Qd46edb
+type: release
+statements:
+  name:
+  - value:
+      text: Jane Maryam
+      language: en
+    references:
+    - source: music.apple.com-us-album-jane-maryam-single-1631129098
+      quote: Jane Maryam - Single - Album by Sara Naeini & Dani - Apple Music
+      accessed: '2026-11-08'
+  listen link:
+  - value: https://music.apple.com/us/album/jane-maryam-single/1631129098
+    references:
+    - source: music.apple.com-us-album-jane-maryam-single-1631129098
+      quote: Jane Maryam - Single - Album by Sara Naeini & Dani - Apple Music
+      accessed: '2026-11-08'
+  - value: https://music.apple.com/us/album/jane-maryam-single/6797316056
+    references:
+    - source: music.apple.com-us-album-jane-maryam-single-6797316056
+      quote: Jane Maryam - Single - Album by Sara Naeini - Apple Music
+      accessed: '2026-11-08'
+  - value: https://open.spotify.com/album/0NjYBocqA4tGPxVaF6fXgO
+    references:
+    - source: open.spotify.com-album-0njybocqa4tgpxvaf6fxgo
+      quote: Listen to Jane maryam - Single by Sara Naeini | Spotify
+      accessed: '2026-11-08'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/64/66/d4/6466d4f7-ebb8-7057-e573-30f23442bbce/732138175656_cover.jpg/1200x630wp-60.jpg
+    references:
+    - source: music.apple.com-us-album-jane-maryam-single-1631129098
+      quote: Jane Maryam - Single - Album by Sara Naeini & Dani - Apple Music
+      accessed: '2026-11-08'
+    qualifiers:
+      credit:
+        text: music.apple.com
+        language: en
+  release date:
+  - value:
+      date: '1983-05-18'
+    references:
+    - source: music.apple.com-us-album-jane-maryam-single-6797316056
+      quote: May 18, 1983
+      accessed: '2026-11-08'
+    rank: deprecated
+  - value:
+      date: '2021-08-23'
+    references:
+    - source: music.apple.com-us-album-jane-maryam-single-1631129098
+      quote: August 23, 2021
+      accessed: '2026-11-08'
+    - source: open.spotify.com-album-0njybocqa4tgpxvaf6fxgo
+      quote: name="music:release_date" content="2021-08-23"
+      accessed: '2026-11-08'
+  performer:
+  - value: Qb23qew
+    references:
+    - source: music.apple.com-us-album-jane-maryam-single-1631129098
+      quote: Jane Maryam - Single - Album by Sara Naeini & Dani - Apple Music
+      accessed: '2026-11-08'
+  - value: Qb8mxxz
+    references:
+    - source: music.apple.com-us-album-jane-maryam-single-1631129098
+      quote: Jane Maryam - Single - Album by Sara Naeini & Dani - Apple Music
+      accessed: '2026-11-08'

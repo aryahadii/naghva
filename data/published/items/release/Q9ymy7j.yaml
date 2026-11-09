@@ -1,0 +1,144 @@
+id: Q9ymy7j
+type: release
+statements:
+  name:
+  - value:
+      text: Taarif Kon
+      language: en
+    references:
+    - source: soundcloud.com-jillizwillizofficial-taarif-kon-a009c1258781
+      quote: Taarif Kon
+      accessed: '2026-10-19'
+  - value:
+      text: تعریف کن
+      language: fa
+    references:
+    - source: t.me-s-jillizwilliz
+      quote: هر نوع بلایی که بگید سرمون نازل شد اما بالاخره موفق شدیم “تعریف کن” رو منتشر کنیم 😂 🪩
+      accessed: '2026-10-22'
+  release date:
+  - value:
+      date: '2026-09-05'
+    references:
+    - source: music.apple.com-track-taarif
+      quote: '"datePublished":"2026-09-05"'
+      accessed: '2026-10-22'
+      locator: JSON-LD MusicComposition datePublished
+    - source: open.spotify.com-track-6esjqpqfp2yutqohvfd7eb
+      quote: '"datePublished":"2026-09-05"'
+      accessed: '2026-10-22'
+      locator: JSON-LD MusicRecording datePublished
+  - value:
+      date: '2026-08-18'
+    references:
+    - source: soundcloud.com-jillizwillizofficial-profile
+      quote: '2026-08-18T12:03:05Z'
+      accessed: '2026-10-22'
+      locator: SoundCloud track row publication timestamp
+  performer:
+  - value: Q6andbw
+    references:
+    - source: soundcloud.com-jillizwillizofficial-taarif-kon-a009c1258781
+      quote: |-
+        شعر، وکال، گیتار الکتریک: آرین شریعت
+        گیتار بیس: نوید غالب
+        ترومبون: سپهر عباسی
+        ترومپت: ماهان محمدی
+        درامز: صالح خان محمدی
+        تنظیم: جیلیز ویلیز
+      accessed: '2026-10-19'
+  - value: Qvhgfe7
+    references:
+    - source: soundcloud.com-jillizwillizofficial-taarif-kon-a009c1258781
+      quote: 'شعر، وکال، گیتار الکتریک: آرین شریعت'
+      accessed: '2026-10-22'
+    qualifiers:
+      role:
+      - vocals
+      - guitar
+  - value: Qezfxe8
+    references:
+    - source: soundcloud.com-jillizwillizofficial-taarif-kon-a009c1258781
+      quote: 'گیتار بیس: نوید غالب'
+      accessed: '2026-10-22'
+    qualifiers:
+      role:
+      - bass
+  - value: Q5h5r95
+    references:
+    - source: soundcloud.com-jillizwillizofficial-taarif-kon-a009c1258781
+      quote: 'ترومبون: سپهر عباسی'
+      accessed: '2026-10-22'
+    qualifiers:
+      role:
+      - trombone
+  - value: Qverw3d
+    references:
+    - source: soundcloud.com-jillizwillizofficial-taarif-kon-a009c1258781
+      quote: 'ترومپت: ماهان محمدی'
+      accessed: '2026-10-22'
+    qualifiers:
+      role:
+      - trumpet
+  - value: Q4w8rh8
+    references:
+    - source: soundcloud.com-jillizwillizofficial-taarif-kon-a009c1258781
+      quote: 'درامز: صالح خان محمدی'
+      accessed: '2026-10-22'
+    qualifiers:
+      role:
+      - drums
+  listen link:
+  - value: https://soundcloud.com/jillizwillizofficial/taarif-kon
+    references:
+    - source: soundcloud.com-jillizwillizofficial-taarif-kon-a009c1258781
+      quote: Taarif Kon
+      accessed: '2026-10-19'
+  - value: https://open.spotify.com/track/6esJqpQfP2YUTqoHVFD7Eb
+    references:
+    - source: open.spotify.com-track-6esjqpqfp2yutqohvfd7eb
+      quote: Taarif Kon
+      accessed: '2026-10-22'
+  - value: https://music.apple.com/us/album/taarif-kon/6809145894?i=6809145895
+    references:
+    - source: music.apple.com-track-taarif
+      quote: Taarif Kon by Jilliz Williz on Apple Music
+      accessed: '2026-10-22'
+  - value: https://www.youtube.com/watch?v=CndlGj1nML4
+    references:
+    - source: music.youtube.com-track-cndlgj1nml4
+      quote: Taarif Kon
+      accessed: '2026-10-22'
+  - value: https://t.me/jillizwilliz/94
+    references:
+    - source: t.me-s-jillizwilliz
+      quote: Taarif Kon
+      accessed: '2026-10-22'
+      locator: post 94
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-wACq2pGZbsXJaly8-KZ2x1A-t500x500.jpg
+    qualifiers:
+      credit:
+        text: SoundCloud
+        language: en
+    references:
+    - source: soundcloud.com-jillizwillizofficial-taarif-kon-a009c1258781
+      quote: Taarif Kon
+      accessed: '2026-10-19'
+  contributor:
+  - value: Qvhgfe7
+    references:
+    - source: soundcloud.com-jillizwillizofficial-taarif-kon-a009c1258781
+      quote: 'شعر، وکال، گیتار الکتریک: آرین شریعت'
+      accessed: '2026-10-22'
+    qualifiers:
+      role:
+      - lyricist
+  - value: Q6andbw
+    references:
+    - source: soundcloud.com-jillizwillizofficial-taarif-kon-a009c1258781
+      quote: 'تنظیم: جیلیز ویلیز'
+      accessed: '2026-10-22'
+    qualifiers:
+      role:
+      - arranger

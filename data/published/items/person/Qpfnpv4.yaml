@@ -1,0 +1,27 @@
+id: Qpfnpv4
+type: person
+statements:
+  name:
+  - value:
+      text: Majid Heidari
+      language: en
+    references:
+    - source: jetpackband.bandcamp.com-album-joystick-ep-37e6de0bb080
+      quote: Jetpack are a synthwave band from Tehran, Iran consisting of vocalist Arian Shariat, keyboardist and producer Mohammad Shariat, guitarist Majid Heidari and drummer Erfan Aseminejad.
+      accessed: '2026-10-19'
+  - value:
+      text: مجید حیدری
+      language: fa
+    references:
+    - source: soundcloud.com-mdirecords-sets-rian-pakkon-9dd25ca06686
+      quote: 'گیتار الکتریک : مجید حیدری (مزه‌اش رفت)، سروش عدل (نقطه‌ی سیاه)'
+      accessed: '2026-10-20'
+  member of:
+  - value: Qpy9984
+    references:
+    - source: jetpackband.bandcamp.com-album-joystick-ep-37e6de0bb080
+      quote: Jetpack are a synthwave band from Tehran, Iran consisting of vocalist Arian Shariat, keyboardist and producer Mohammad Shariat, guitarist Majid Heidari and drummer Erfan Aseminejad.
+      accessed: '2026-10-19'
+    qualifiers:
+      role:
+      - guitar

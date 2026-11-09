@@ -1,0 +1,146 @@
+id: Qm4dx3y
+type: release
+statements:
+  name:
+  - value:
+      text: Kheyli Saadeh
+      language: en
+    references:
+    - source: music.apple.com-us-album-kheyli-saadeh-bimar-e-standard-single-1200751219
+      quote: ‎Kheyli Saadeh (Bimar-E Standard) - Single - Album by Damahi - Apple Music
+      accessed: '2026-11-08'
+  - value:
+      text: خیلی ساده
+      language: fa
+    references:
+    - source: soundcloud.com-damahi-kheili-saadeh
+      quote: Kheili Saadeh - (خیلی ساده (بیمار استاندارد
+      accessed: '2026-11-08'
+  listen link:
+  - value: https://music.apple.com/us/album/kheyli-saadeh-bimar-e-standard-single/1200751219
+    references:
+    - source: music.apple.com-us-album-kheyli-saadeh-bimar-e-standard-single-1200751219
+      quote: ‎Kheyli Saadeh (Bimar-E Standard) - Single - Album by Damahi - Apple Music
+      accessed: '2026-11-08'
+  - value: https://open.spotify.com/album/4vEOXl2Ttt5EfCRIrZfraO
+    references:
+    - source: open.spotify.com-album-4veoxl2ttt5efcrirzfrao
+      quote: Listen to Kheyli Saadeh (Bimar-E Standard) - Single by Damahi | Spotify
+      accessed: '2026-11-08'
+  - value: https://soundcloud.com/damahi/kheili-saadeh
+    references:
+    - source: soundcloud.com-damahi-kheili-saadeh
+      quote: Kheili Saadeh - (خیلی ساده (بیمار استاندارد
+      accessed: '2026-11-08'
+  - value: https://www.youtube.com/watch?v=IBGGXBLqVgg
+    references:
+    - source: www.youtube.com-watch-v-ibggxblqvgg
+      quote: Damahi - Kheili Sadeh (Bimar-e-Estandard) "Very Easy (Standard Patient)
+      accessed: '2026-11-08'
+  release date:
+  - value:
+      date: '2016-03-20'
+    references:
+    - source: music.apple.com-us-album-kheyli-saadeh-bimar-e-standard-single-1200751219
+      quote: '"datePublished":"2016-03-20"'
+      accessed: '2026-11-08'
+    - source: open.spotify.com-album-4veoxl2ttt5efcrirzfrao
+      quote: name="music:release_date" content="2016-03-20"
+      accessed: '2026-11-08'
+    rank: preferred
+  - value:
+      date: '2016-07-06'
+    references:
+    - source: soundcloud.com-damahi-kheili-saadeh
+      quote: '"created_at":"2016-07-06T20:19:32Z"'
+      accessed: '2026-11-08'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/eb/4b/92/eb4b92e6-5e2e-0519-4389-d1509915446b/191061315476.jpg/1200x630wp-60.jpg
+    references:
+    - source: music.apple.com-us-album-kheyli-saadeh-bimar-e-standard-single-1200751219
+      quote: ‎Kheyli Saadeh (Bimar-E Standard) - Single - Album by Damahi - Apple Music
+      accessed: '2026-11-08'
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en
+  performer:
+  - value: Qep6nz6
+    references:
+    - source: open.spotify.com-album-4veoxl2ttt5efcrirzfrao
+      quote: Damahi
+      accessed: '2026-11-08'
+  - value: Qkwrzt3
+    references:
+    - source: soundcloud.com-damahi-kheili-saadeh
+      quote: 'خواننده: رضا کولغانی'
+      accessed: '2026-11-08'
+    qualifiers:
+      role:
+      - vocals
+  - value: Qcm9md7
+    references:
+    - source: www.youtube.com-watch-v-ibggxblqvgg
+      quote: 'Bass : Dara Daraee'
+      accessed: '2026-11-08'
+    qualifiers:
+      role:
+      - bass
+  - value: Q373b9b
+    references:
+    - source: www.youtube.com-watch-v-ibggxblqvgg
+      quote: 'Keyboards : Hamzeh Yeganeh'
+      accessed: '2026-11-08'
+    qualifiers:
+      role:
+      - keyboards
+  - value: Qwhz4b2
+    references:
+    - source: www.youtube.com-watch-v-ibggxblqvgg
+      quote: 'Guitar & Oud : Ebrahim Alavi'
+      accessed: '2026-11-08'
+    qualifiers:
+      role:
+      - guitar
+      - oud
+  - value: Qr9727d
+    references:
+    - source: www.youtube.com-watch-v-ibggxblqvgg
+      quote: 'Drums, Mix & Mastering : Shayan Fathi'
+      accessed: '2026-11-08'
+    qualifiers:
+      role:
+      - drums
+  contributor:
+  - value: Qcm9md7
+    references:
+    - source: soundcloud.com-damahi-kheili-saadeh
+      quote: 'آهنگ‌ساز: دارا دارایی'
+      accessed: '2026-11-08'
+    qualifiers:
+      role:
+      - composer
+  - value: Q4za62m
+    references:
+    - source: soundcloud.com-damahi-kheili-saadeh
+      quote: 'شعر: کیان ایرجی'
+      accessed: '2026-11-08'
+    qualifiers:
+      role:
+      - lyricist
+  - value: Qep6nz6
+    references:
+    - source: soundcloud.com-damahi-kheili-saadeh
+      quote: 'تنظیم: داماهی'
+      accessed: '2026-11-08'
+    qualifiers:
+      role:
+      - arranger
+  - value: Qt252f6
+    references:
+    - source: soundcloud.com-damahi-kheili-saadeh
+      quote: 'تهیه‌کننده: احسان رسول‌اف'
+      accessed: '2026-11-08'
+    qualifiers:
+      role:
+      - producer

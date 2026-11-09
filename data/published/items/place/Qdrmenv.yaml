@@ -1,0 +1,21 @@
+id: Qdrmenv
+type: place
+statements:
+  name:
+  - value:
+      text: Isfahan
+      language: en
+    rank: preferred
+    references:
+    - source: open.spotify.com-artist-2avsdaeznzguxsnpfifoud
+      quote: Born in Isfahan and raised in Shiraz
+      accessed: '2026-11-01'
+  - value:
+      text: اصفهان
+      language: fa
+    editorial: true
+    rank: preferred
+    references:
+    - source: open.spotify.com-artist-2avsdaeznzguxsnpfifoud
+      quote: Born in Isfahan and raised in Shiraz
+      accessed: '2026-11-01'

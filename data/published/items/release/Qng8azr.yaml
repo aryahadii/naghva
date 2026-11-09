@@ -1,0 +1,55 @@
+id: Qng8azr
+type: release
+statements:
+  name:
+  - value:
+      text: Avaz-e Homayoun
+      language: en
+    rank: preferred
+    references:
+    - source: t.me-soofi_namazi-3
+      quote: |-
+        Avaz-e Homayoun
+        Farid Forooghi, Soofi Namazi
+      accessed: '2026-11-01'
+  - value:
+      text: آواز همایون
+      language: fa
+    editorial: true
+    rank: preferred
+    references:
+    - source: t.me-soofi_namazi-3
+      quote: |-
+        Avaz-e Homayoun
+        Farid Forooghi, Soofi Namazi
+      accessed: '2026-11-01'
+  performer:
+  - value: Qkbt5kj
+    qualifiers:
+      role: vocals
+    references:
+    - source: t.me-soofi_namazi-4
+      quote: '#آواز : صوفی نمازی'
+      accessed: '2026-11-01'
+  - value: Qy5vvyc
+    qualifiers:
+      role: tar
+    references:
+    - source: t.me-soofi_namazi-4
+      quote: '#تار : فرید فروغی'
+      accessed: '2026-11-01'
+  listen link:
+  - value: https://t.me/soofi_namazi/3
+    references:
+    - source: t.me-soofi_namazi-3
+      quote: |-
+        Avaz-e Homayoun
+        Farid Forooghi, Soofi Namazi
+      accessed: '2026-11-01'
+  release date:
+  - value:
+      date: '2022-07-15'
+    references:
+    - source: t.me-soofi_namazi-4
+      quote: '2022-07-15T21:12:49+00:00'
+      accessed: '2026-11-08'

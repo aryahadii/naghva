@@ -1,0 +1,53 @@
+id: Qerwcgn
+type: release
+statements:
+  name:
+  - value:
+      text: Old of Yas
+      language: en
+    references:
+    - source: music.apple.com-us-album-old-of-yas-1605502238
+      quote: Old of Yas - Album by yas - Apple Music
+      accessed: '2026-11-08'
+  listen link:
+  - value: https://music.apple.com/us/album/old-of-yas/1605502238
+    references:
+    - source: music.apple.com-us-album-old-of-yas-1605502238
+      quote: Old of Yas - Album by yas - Apple Music
+      accessed: '2026-11-08'
+  - value: https://open.spotify.com/album/7oQ2HPJmaoE8PZlGDAnkgG
+    references:
+    - source: open.spotify.com-album-7oq2hpjmaoe8pzlgdankgg
+      quote: Listen to Old of YAS - Album by Yas | Spotify
+      accessed: '2026-11-08'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/89/3b/da/893bda74-ec47-9124-6684-ab25549e5fa5/8720205534538.png/1200x630wp-60.jpg
+    references:
+    - source: music.apple.com-us-album-old-of-yas-1605502238
+      quote: Old of Yas - Album by yas - Apple Music
+      accessed: '2026-11-08'
+    qualifiers:
+      credit:
+        text: music.apple.com
+        language: en
+  performer:
+  - value: Qx3svqf
+    references:
+    - source: music.apple.com-us-album-old-of-yas-1605502238
+      quote: Old of Yas - Album by yas - Apple Music
+      accessed: '2026-11-08'
+  - value: Qb23qew
+    references:
+    - source: music.apple.com-us-song-zehi-eshgh-feat-sara-naeini-1605502240
+      quote: Zehi Eshgh (feat. Sara Naeini) - Song with Lyrics by yas - Apple Music
+      accessed: '2026-11-08'
+  release date:
+  - value:
+      date: '2008-06-05'
+    references:
+    - source: music.apple.com-us-album-old-of-yas-1605502238
+      quote: June 5, 2008
+      accessed: '2026-11-08'
+    - source: open.spotify.com-album-7oq2hpjmaoe8pzlgdankgg
+      quote: name="music:release_date" content="2008-06-05"
+      accessed: '2026-11-08'

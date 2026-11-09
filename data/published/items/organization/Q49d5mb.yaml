@@ -1,0 +1,20 @@
+id: Q49d5mb
+type: organization
+statements:
+  name:
+  - value:
+      text: Made In Iran
+      language: en
+    references:
+    - source: beehy.pe-rian-pakkon-iran-e0f9dd0e6a63
+      quote: |-
+        This album was published by
+        Made In Iran
+      accessed: '2026-10-20'
+  - value:
+      text: نشر ساخت ایران
+      language: fa
+    references:
+    - source: t.me-jumamusic-65
+      quote: '• انتشار از: نشر ساخت ایران'
+      accessed: '2026-10-22'

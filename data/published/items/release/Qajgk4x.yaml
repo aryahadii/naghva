@@ -1,0 +1,64 @@
+id: Qajgk4x
+type: release
+statements:
+  name:
+  - value:
+      text: Dastgah nava
+      language: en
+    rank: preferred
+    references:
+    - source: t.me-soofi_namazi-14
+      quote: |-
+        Soofi_namazi - Dastgah nava
+        Soofi_namazi
+      accessed: '2026-11-01'
+  - value:
+      text: آواز در دستگاه نوا
+      language: fa
+    editorial: true
+    rank: preferred
+    references:
+    - source: t.me-soofi_namazi-14
+      quote: |-
+        Soofi_namazi - Dastgah nava
+        Soofi_namazi
+      accessed: '2026-11-01'
+  performer:
+  - value: Qkbt5kj
+    qualifiers:
+      role: vocals
+    references:
+    - source: t.me-soofi_namazi-13
+      quote: آواز:صوفی نمازی
+      accessed: '2026-11-01'
+  - value: Qmhq3ze
+    qualifiers:
+      role: santur
+    references:
+    - source: t.me-soofi_namazi-13
+      quote: 'نوازنده سنتور: احمد پرواز'
+      accessed: '2026-11-01'
+  contributor:
+  - value: Qg5t83m
+    qualifiers:
+      role:
+      - lyricist
+    references:
+    - source: t.me-soofi_namazi-13
+      quote: 'شعر: علی اشتری'
+      accessed: '2026-11-01'
+  listen link:
+  - value: https://t.me/soofi_namazi/14
+    references:
+    - source: t.me-soofi_namazi-14
+      quote: |-
+        Soofi_namazi - Dastgah nava
+        Soofi_namazi
+      accessed: '2026-11-01'
+  release date:
+  - value:
+      date: '2022-07-16'
+    references:
+    - source: t.me-soofi_namazi-14
+      quote: datetime="2022-07-16T22:19:41+00:00"
+      accessed: '2026-11-09'

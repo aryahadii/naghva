@@ -1,0 +1,60 @@
+id: Qt7x3rv
+type: release
+statements:
+  name:
+  - value:
+      text: Man o To
+      language: en
+    references:
+    - source: music.apple.com-us-album-man-o-to-feat-sara-naeini-single-1865771204
+      quote: Man o To (feat. Sara Naeini) - Single - Album by Reza Rohani - Apple Music
+      accessed: '2026-11-08'
+  listen link:
+  - value: https://music.apple.com/us/album/man-o-to-feat-sara-naeini-single/1865771204
+    references:
+    - source: music.apple.com-us-album-man-o-to-feat-sara-naeini-single-1865771204
+      quote: Man o To (feat. Sara Naeini) - Single - Album by Reza Rohani - Apple Music
+      accessed: '2026-11-08'
+  - value: https://open.spotify.com/album/598YaVU8ZnAC677MnoSHdf
+    references:
+    - source: open.spotify.com-album-598yavu8znac677mnoshdf
+      quote: Listen to Man o To - Single by Reza Rohani | Spotify
+      accessed: '2026-11-08'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fd/b0/6d/fdb06da0-bef3-ecc0-e9f6-9d59db34cfab/artwork.jpg/1200x630wp-60.jpg
+    references:
+    - source: music.apple.com-us-album-man-o-to-feat-sara-naeini-single-1865771204
+      quote: Man o To (feat. Sara Naeini) - Single - Album by Reza Rohani - Apple Music
+      accessed: '2026-11-08'
+    qualifiers:
+      credit:
+        text: music.apple.com
+        language: en
+  performer:
+  - value: Qqprhs6
+    references:
+    - source: music.apple.com-us-album-man-o-to-feat-sara-naeini-single-1865771204
+      quote: Man o To (feat. Sara Naeini) - Single - Album by Reza Rohani - Apple Music
+      accessed: '2026-11-08'
+  - value: Qb23qew
+    references:
+    - source: music.apple.com-us-album-man-o-to-feat-sara-naeini-single-1865771204
+      quote: Man o To (feat. Sara Naeini) - Single - Album by Reza Rohani - Apple Music
+      accessed: '2026-11-08'
+  release date:
+  - value:
+      date: '2014-10-07'
+    references:
+    - source: music.apple.com-us-song-man-o-to-feat-sara-naeini-1865771205
+      quote: '"datePublished":"2014-10-07"'
+      accessed: '2026-11-08'
+    rank: preferred
+  - value:
+      date: '2025-12-30'
+    references:
+    - source: music.apple.com-us-album-man-o-to-feat-sara-naeini-single-1865771204
+      quote: December 30, 2025
+      accessed: '2026-11-08'
+    - source: open.spotify.com-album-598yavu8znac677mnoshdf
+      quote: name="music:release_date" content="2025-12-30"
+      accessed: '2026-11-08'

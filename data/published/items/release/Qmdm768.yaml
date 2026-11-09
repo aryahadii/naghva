@@ -1,0 +1,109 @@
+id: Qmdm768
+type: release
+statements:
+  name:
+  - value:
+      text: Sokoot
+      language: en
+    references:
+    - source: soundcloud.com-sanin9000-sara-naeini-sokoot
+      quote: Sara Naeini-Sokoot
+      accessed: '2026-11-08'
+  - value:
+      text: سکوت
+      language: fa
+    editorial: true
+    references:
+    - source: soundcloud.com-sanin9000-sara-naeini-sokoot
+      quote: Sara Naeini-Sokoot
+      accessed: '2026-11-08'
+  listen link:
+  - value: https://soundcloud.com/sanin9000/sara-naeini-sokoot
+    references:
+    - source: soundcloud.com-sanin9000-sara-naeini-sokoot
+      quote: Sara Naeini-Sokoot
+      accessed: '2026-11-08'
+  - value: https://soundcloud.com/sanin9000/sokoot-saranin
+    references:
+    - source: soundcloud.com-sanin9000-sokoot-saranin
+      quote: Sokoot
+      accessed: '2026-11-08'
+  - value: https://www.youtube.com/watch?v=CpDP8AG5igQ
+    references:
+    - source: www.youtube.com-watch-v-cpdp8ag5igq
+      quote: sokoot.Sara Naeini
+      accessed: '2026-11-08'
+  - value: https://www.youtube.com/watch?v=EQfg3rQGBNM
+    references:
+    - source: www.youtube.com-watch-v-eqfg3rqgbnm
+      quote: sokoot- saranin
+      accessed: '2026-11-08'
+  performer:
+  - value: Qb23qew
+    references:
+    - source: soundcloud.com-sanin9000-sokoot-saranin
+      quote: 'Vocal: SARANIN'
+      accessed: '2026-11-08'
+    qualifiers:
+      credited as:
+      - text: SARANIN
+        language: en
+  - value: Qsebs7b
+    references:
+    - source: www.youtube.com-watch-v-eqfg3rqgbnm
+      quote: 'Piano: Farzad Dehghan'
+      accessed: '2026-11-08'
+    qualifiers:
+      role:
+      - piano
+  contributor:
+  - value: Qsebs7b
+    references:
+    - source: soundcloud.com-sanin9000-sokoot-saranin
+      quote: 'music: Farzad Dehghan'
+      accessed: '2026-11-08'
+    qualifiers:
+      role:
+      - composer
+  - value: Q5vrcdr
+    references:
+    - source: soundcloud.com-sanin9000-sokoot-saranin
+      quote: 'lyrics: Behrouz Keshavarz'
+      accessed: '2026-11-08'
+    qualifiers:
+      role:
+      - lyricist
+  - value: Q22bcnw
+    references:
+    - source: soundcloud.com-sanin9000-sokoot-saranin
+      quote: 'arrangement: Mahyar Rezvan'
+      accessed: '2026-11-08'
+    qualifiers:
+      role:
+      - arranger
+  release date:
+  - value:
+      date: '2013-03-08'
+    references:
+    - source: www.youtube.com-watch-v-cpdp8ag5igq
+      quote: '"uploadDate":"2013-03-08T21:15:48-08:00"'
+      accessed: '2026-11-08'
+    rank: preferred
+  - value:
+      date: '2013-03-09'
+    references:
+    - source: soundcloud.com-sanin9000-sara-naeini-sokoot
+      quote: '"created_at":"2013-03-09T05:29:50Z"'
+      accessed: '2026-11-08'
+  - value:
+      date: '2013-10-16'
+    references:
+    - source: soundcloud.com-sanin9000-sokoot-saranin
+      quote: '"created_at":"2013-10-16T20:17:09Z"'
+      accessed: '2026-11-08'
+  - value:
+      date: '2013-10-28'
+    references:
+    - source: www.youtube.com-watch-v-eqfg3rqgbnm
+      quote: '"uploadDate":"2013-10-28T13:57:44-07:00"'
+      accessed: '2026-11-08'
