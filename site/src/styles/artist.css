@@ -169,3 +169,6 @@ a.source-title:hover { color: var(--coral-hi) }
 @media (max-width: 760px) {
   .contents:has(.contents-subsections[open]) > ol { -webkit-mask-image: none; mask-image: none }
 }
+
+/* An entry that has not yet been through the publication workflow. */
+.unrefined { margin: 0 0 18px; padding: 10px 14px; border-inline-start: 2px solid var(--ivory-3); font-size: 14px; color: var(--ivory-2) }

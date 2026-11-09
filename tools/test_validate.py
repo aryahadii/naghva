@@ -139,6 +139,15 @@ class ValidateTests(unittest.TestCase):
         self.edit(path, "      qualifiers:\n        role: [composer, lyricist]\n", "")
         self.assertOnlyError(self.run_validator(), "contributor[1]: needs a `role` qualifier")
 
+    def test_unrefined_lists_artists_with_a_page(self):
+        (self.root / "published" / "unrefined.yaml").write_text(
+            "%s: Badnama\n%s: Nima Rad\nQzzzzz9: Nobody\n" % (BAND, NIMA), encoding="utf-8")
+        self.assertOnlyError(
+            self.run_validator(),
+            "Q5fd2cn has no article, so no page to mark",
+            "Qzzzzz9 is not an item",
+        )
+
     def test_life_event_keeps_the_source_words(self):
         path = "published/items/act/%s.yaml" % BAND
         self.edit(path, "        text: |-\n          اولین اجرای ما", "        text: |-\n          نخستین اجرای ما")

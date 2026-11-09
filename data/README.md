@@ -15,7 +15,8 @@ data/
 │   └── notes/        anything else a researcher wants to keep
 ├── published/        the record the website serves, Wikibase-shaped (YAML)
 │   ├── items/        one file per item, in a directory per type
-│   └── articles/     an artist's life and work in prose, per language
+│   ├── articles/     an artist's life and work in prose, per language
+│   └── unrefined.yaml  artists whose entries await refinement
 └── examples/         a small fictional capture and record
 ```
 
@@ -433,6 +434,21 @@ the first heading is the lead; each `##` heading starts a section. A person or
 act with a curated article has an artist page. Related people and acts without
 articles remain part of the record and appear through their relationships.
 
+### Entries awaiting refinement: `published/unrefined.yaml`
+
+Most artists came over from Naghva's earlier private archive as they were,
+before the [publication workflow](../specs/publication-workflow.md) was
+written, and have not yet been through it. `unrefined.yaml` lists them, one
+artist item ID per line with its name for people reading the file:
+
+```yaml
+Q7k3m9x: Badnama
+```
+
+Their pages carry a short note saying so. An artist leaves the list in the
+pull request that refines their entry, so the list is also the refinement
+backlog. The validator checks that every ID is an artist with an article.
+
 ### YAML conventions
 
 - Two-space indentation, no tabs, one record per file, file ends with a
@@ -483,8 +499,9 @@ an allowed type; dates parse and Jalali dates are real dates; language tags
 are well-formed; references cite existing, processed capture files and quote
 words found in their blockquotes; listen links and images use an allowed host;
 merged items are empty and unreferenced; articles are named after a person or
-act and a language, and their citations and references match; and the
-registry's names match the spec's tables.
+act and a language, and their citations and references match; every artist
+awaiting refinement has an article; and the registry's names match the spec's
+tables.
 
 ## Workflow
 

@@ -70,6 +70,7 @@ const contents = [
           {view.other && <p class="artist-name-alt" {...textAttrs(view.other, lang)}>{view.other.text}</p>}
           <a class="text-link timeline-link" href={`${url(lang, 'timeline')}?artist=${encodeURIComponent(artist.page!)}`}>{t.artist.onTimeline}</a>
         </div>
+        {record.unrefined?.includes(artist.id) && <p class="unrefined">{t.artist.unrefined}</p>}
         <Infobox lang={lang} facts={view.facts} photo={view.photo && { ...view.photo, alt: name }} />
         {view.lead && <div class="lead prose" set:html={view.lead} />}
       </header>
