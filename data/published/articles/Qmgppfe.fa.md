@@ -107,7 +107,7 @@ references:
 
 ## ضبط‌ها و همکاری‌ها
 
-در آلبوم خودش، [*Egosystem*](#egosystem-q8a)، پیتر هنرمند اصلی است؛ در مجموعهٔ چندهنرمندی *Qeshm Island* نیز با قطعهٔ ۷:۳۰ دقیقه‌ای [«Daryadaad»](#daryadaad-tdg) حضور دارد.[^catalog][^qeshm][^qeshm-date][^qeshm-billing][^daryadaad][^daryadaad-credit][^daryadaad-album][^daryadaad-duration]
+در آلبوم خودش، [*Egosystem*](#egosystem-q8a)، پیتر هنرمند اصلی است؛ در مجموعهٔ چندهنرمندی [*Qeshm Island*](#qeshm-island-fhr) نیز با قطعهٔ ۷:۳۰ دقیقه‌ای [«Daryadaad»](#daryadaad-tdg) حضور دارد.[^catalog][^qeshm][^qeshm-date][^qeshm-billing][^daryadaad][^daryadaad-credit][^daryadaad-album][^daryadaad-duration]
 
 در آلبوم ۲۰۱۱ سهیل نفیسی، *Lyra & Hymn*، پیتر به‌عنوان هنرمند مهمان در قطعهٔ «[Taraneh](#taraneh-4dm)» حضور دارد.[^lyra][^lyra-date][^lyra-track]
 
