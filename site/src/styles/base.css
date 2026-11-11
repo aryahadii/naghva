@@ -162,8 +162,12 @@ html[dir=rtl] [dir=ltr]:is(.artist-name, .artist-name-alt, .shelf-title, .releas
 }
 @media (max-width: 760px) {
   body { font-size: 16px }
-  .site-header { padding-block: 16px }
+  /* Tighter spacing so the wordmark, nav, language and GitHub share one line on a phone. */
+  .site-header { column-gap: 14px; padding-block: 16px }
   .brand img { width: 70px }
+  .site-nav { gap: 16px }
+  .header-end:not(:has(.search)) { gap: 4px }
+  .header-end .pill.language { padding-inline: 12px }
   .corner-cloud-start { top: -14px; left: 84px; width: 190px }
   .corner-cloud-end { display: none }
   .corner-branch { top: 146px; right: calc(-1 * var(--gutter) - 30px); width: 150px }
@@ -171,6 +175,17 @@ html[dir=rtl] [dir=ltr]:is(.artist-name, .artist-name-alt, .shelf-title, .releas
   dialog { width: 100%; max-width: none; max-height: 92vh; margin: auto 0 0; border-radius: 22px 22px 0 0 }
   .dialog-bar { padding-block: 14px; padding-inline: 22px 14px }
   .search-hero input { min-height: 56px; font-size: 1.1rem }
+}
+@media (max-width: 400px) {
+  .site-header { column-gap: 12px }
+  .brand img { width: 64px }
+  .site-nav { gap: 14px; font-size: 14px }
+  .header-end:not(:has(.search)) { gap: 0 }
+  .header-end .pill.language { padding-inline: 10px }
+}
+/* On the narrowest phones the header drops the GitHub mark to stay on one line. */
+@media (max-width: 340px) {
+  .header-end .github { display: none }
 }
 @media (prefers-reduced-motion: reduce) {
   @view-transition { navigation: none }
