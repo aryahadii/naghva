@@ -240,6 +240,7 @@ for (const origin of [site, 'https://naqva.com']) {
     await leave(page);
     await expect.poll(() => events.filter((e) => e.event === '$pageleave').length).toBe(1);
     expect(events.every((e) => e.properties.$host === new URL(origin).host)).toBe(true);
+    expect(events.every((e) => e.properties.$lib_custom_api_host === `${origin}/relay`)).toBe(true);
     expect([...new Set(analyticsRequests)]).toEqual(['relay/e/']);
   });
 }
