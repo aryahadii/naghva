@@ -20,12 +20,19 @@
 // NAGHVA_MEDIA_REQUIRED=1 makes fetch and build fail unless every image the
 // record uses has its own copy, so a deploy never falls back to a publisher.
 import { createHash } from 'node:crypto';
-import { existsSync, mkdirSync, readdirSync, readFileSync, rmSync, writeFileSync } from 'node:fs';
+import { copyFileSync, existsSync, mkdirSync, readdirSync, readFileSync, rmSync, writeFileSync } from 'node:fs';
+import { homedir } from 'node:os';
+import { join } from 'node:path';
 import sharp from 'sharp';
 
 const MANIFEST = 'media.json';
 const CACHE = 'media-cache/originals';
 const OUT = 'public/media';
+// Workers Builds persists npm's cache. Unlike node_modules/.astro, this
+// survives npm ci even when dependencies are installed after cache restoration.
+const BUILD_CACHE = join(process.env.npm_config_cache || join(homedir(), '.npm'), 'naghva-media');
+// Bump the recipe when resizing/encoding changes; sharp versions also affect bytes.
+const COPIES = `${BUILD_CACHE}/webp-v1-${sharp.versions.sharp}-${sharp.versions.vips}-${sharp.versions.webp}`;
 const WIDTHS = { photo: [240, 360, 640, 960, 1200], cover: [180, 360, 720] };
 const KIND = { image: 'photo', poster: 'photo', logo: 'photo', 'cover art': 'cover' };
 const TYPES = { jpeg: 'jpg', png: 'png', webp: 'webp', avif: 'avif', gif: 'gif' };
@@ -41,8 +48,8 @@ const cached = (entry) => `${CACHE}/${entry.sha256}.${entry.ext}`;
 
 /** The cached original of `entry`, if it is there and intact. */
 function original(entry) {
-  const path = cached(entry);
-  if (!existsSync(path)) return null;
+  const path = [cached(entry), `${BUILD_CACHE}/${objectKey(entry)}`].find(existsSync);
+  if (!path) return null;
   const bytes = readFileSync(path);
   if (digest(bytes) !== entry.sha256) throw new Error(`${path} does not match media.json; delete it and fetch again`);
   return bytes;
@@ -200,7 +207,8 @@ async function upload() {
 
 async function fetchOriginals() {
   const manifest = readManifest();
-  const missing = Object.values(manifest).filter((entry) => !original(entry));
+  const unique = [...new Map(Object.values(manifest).map((entry) => [objectKey(entry), entry])).values()];
+  const missing = unique.filter((entry) => !original(entry));
   if (!missing.length) return console.log(`media: all ${Object.keys(manifest).length} originals are cached`);
   const r2 = await bucket();
   if (!r2) {
@@ -208,12 +216,23 @@ async function fetchOriginals() {
     return console.log(`media: no R2 key, so ${missing.length} images show from their publishers`);
   }
   mkdirSync(CACHE, { recursive: true });
-  for (const entry of missing) {
+  mkdirSync(`${BUILD_CACHE}/originals`, { recursive: true });
+  await parallel(missing, 8, async (entry) => {
     const bytes = await r2.get(objectKey(entry));
     if (digest(bytes) !== entry.sha256) throw new Error(`R2 ${objectKey(entry)} does not match media.json`);
+    // Retain the existing path as well: GitHub Actions caches media-cache/.
     writeFileSync(cached(entry), bytes);
-  }
+    writeFileSync(`${BUILD_CACHE}/${objectKey(entry)}`, bytes);
+  });
   console.log(`media: fetched ${missing.length} originals from R2`);
+}
+
+/** Bounded I/O concurrency: never create hundreds of simultaneous R2 requests. */
+async function parallel(items, limit, work) {
+  let next = 0;
+  await Promise.all(Array.from({ length: Math.min(limit, items.length) }, async () => {
+    while (next < items.length) await work(items[next++]);
+  }));
 }
 
 /** The file name of `entry`'s copy at `width`, as images.ts expects it. */
@@ -230,12 +249,20 @@ async function build() {
     console.warn(message);
   }
   mkdirSync(OUT, { recursive: true });
+  mkdirSync(COPIES, { recursive: true });
   const keep = new Set();
   let made = 0;
+  let reused = 0;
   let missing = 0;
   for (const [url, entry] of Object.entries(manifest)) {
-    const names = entry.widths.map((w) => [Math.min(w, entry.width), copyName(entry, Math.min(w, entry.width))]);
+    const names = [...new Set(entry.widths.map((w) => Math.min(w, entry.width)))].map((w) => [w, copyName(entry, w)]);
     names.forEach(([, name]) => keep.add(name));
+    for (const [, name] of names) {
+      if (!existsSync(`${OUT}/${name}`) && existsSync(`${COPIES}/${name}`)) {
+        copyFileSync(`${COPIES}/${name}`, `${OUT}/${name}`);
+        reused++;
+      }
+    }
     if (names.every(([, name]) => existsSync(`${OUT}/${name}`))) continue;
     const bytes = original(entry);
     if (!bytes) {
@@ -245,13 +272,15 @@ async function build() {
     }
     const image = sharp(bytes, { limitInputPixels: 40000000 }).rotate();
     for (const [width, name] of names) {
+      if (existsSync(`${OUT}/${name}`)) continue;
       // The whole image, never cropped or enlarged.
       await image.clone().resize({ width, withoutEnlargement: true }).webp({ quality: 86, effort: 4 }).toFile(`${OUT}/${name}`);
+      copyFileSync(`${OUT}/${name}`, `${COPIES}/${name}`);
       made++;
     }
   }
   for (const name of readdirSync(OUT)) if (!keep.has(name)) rmSync(`${OUT}/${name}`);
-  console.log(`media: made ${made} copies${missing ? `; ${missing} images without an original show from their publishers` : ''}`);
+  console.log(`media: made ${made} copies, reused ${reused} cached copies${missing ? `; ${missing} images without an original show from their publishers` : ''}`);
 }
 
 const commands = { add, upload, fetch: fetchOriginals, build };

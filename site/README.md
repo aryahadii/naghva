@@ -155,6 +155,11 @@ taking an image down is: remove it from the record, `media:add`,
 `R2_ACCOUNT_ID`, `R2_ACCESS_KEY_ID`, `R2_SECRET_ACCESS_KEY`, and
 `R2_BUCKET` if it isn't `naghva-media`.
 
+Cloudflare builds also keep originals and resized copies in
+the `naghva-media/` folder inside npm's configured cache, which Workers
+Builds restores when Build Cache is enabled. It survives `npm ci`. A cold cache still downloads and resizes the images; later
+builds reuse them. Copies are keyed by image hash, width and encoder version.
+
 In CI, only builds of `main` get the read-only key (the `R2_READ_*`
 secrets), and keep the originals in the Actions cache, so a build reads from
 R2 only when `media.json` changes. Once Cloudflare deploys are on,
