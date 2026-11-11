@@ -4,6 +4,7 @@
   "name": "naghva",
   "main": "./worker/relay.ts",
   "compatibility_date": "2026-10-01",
+  "previews": {},
   "routes": [
     { "pattern": "naghva.com", "custom_domain": true },
     { "pattern": "naqva.com", "custom_domain": true }
