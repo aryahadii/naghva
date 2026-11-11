@@ -72,6 +72,9 @@ export type AnalyticsEvent = typeof EVENTS[number];
 // else must be supplied explicitly below; new SDK properties fail closed.
 const SDK_PROPERTIES = new Set([
   'token', 'distinct_id', '$device_id', '$cookieless_mode', '$lib', '$lib_version',
+  // Set by the SDK when events go through our relay; PostHog's setup check
+  // reads it to see that a reverse proxy is in use.
+  '$lib_custom_api_host',
   '$browser', '$browser_version', '$os', '$os_version', '$device_type',
   '$screen_width', '$screen_height', '$viewport_width', '$viewport_height',
 ]);
