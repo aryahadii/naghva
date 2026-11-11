@@ -16,7 +16,7 @@ export function decode(request: Request): Captured[] {
 }
 
 /** Serve the real built site under its production origin, intercepting ALL network access. */
-export async function observe(page: Page, enabled = true, replayEnabled = true, canonicalOrigin = site) {
+export async function observe(page: Page, enabled = true, replayEnabled = true, canonicalOrigin = site, host = ingestion) {
   const events: Captured[] = [];
   const analyticsRequests: string[] = [];
   // Exercise visitor capture without disabling the SDK's production bot filter.
@@ -24,8 +24,11 @@ export async function observe(page: Page, enabled = true, replayEnabled = true, 
   await page.context().route('**/*', async (route) => {
     const request = route.request();
     const url = new URL(request.url());
-    if (url.origin === ingestion) {
-      analyticsRequests.push(url.pathname);
+    // The site's own relay (worker/relay.ts) stands in for PostHog when used.
+    const relayed = url.pathname.startsWith('/relay/') && [site, 'https://naqva.com'].includes(url.origin);
+    if (url.origin === ingestion || relayed) {
+      if (relayed) url.pathname = url.pathname.slice('/relay'.length);
+      analyticsRequests.push(relayed ? `relay${url.pathname}` : url.pathname);
       if (request.method() === 'POST' && ['/e/', '/s/'].includes(url.pathname)) events.push(...decode(request));
       await route.fulfill({ status: 200, contentType: 'application/json', body: '{"status":1}' });
     } else if (url.origin === 'https://eu-assets.i.posthog.com') {
@@ -60,7 +63,7 @@ export async function observe(page: Page, enabled = true, replayEnabled = true, 
           .replace(/(<link rel="canonical" href=")https?:\/\/[^/"\s]+/, `$1${canonicalOrigin}`)
           .replace(/<meta name="naghva-analytics"[^>]*>/, (meta) => meta
           .replace(/\s(?:content|data-host)(?:="[^"]*")?(?=\s|>)/g, '')
-          .replace(/>$/, ` content="${enabled ? 'phc_naghva_browser_test' : ''}" data-host="${ingestion}">`));
+          .replace(/>$/, ` content="${enabled ? 'phc_naghva_browser_test' : ''}" data-host="${host}">`));
         await route.fulfill({ response, body }).catch(ended);
       } else await route.fulfill({ response }).catch(ended);
     } else if (url.hostname === '127.0.0.1') await route.continue();

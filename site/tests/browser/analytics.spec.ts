@@ -231,3 +231,15 @@ test('leaving a page sends its time, scroll depth and web vitals, and nothing pr
   expect(JSON.stringify(events)).not.toContain('private');
   expect([...new Set(analyticsRequests)]).toEqual(['/e/']);
 });
+
+for (const origin of [site, 'https://naqva.com']) {
+  test(`${origin}: a /relay host sends every event through the site's own address`, async ({ page }) => {
+    const { events, analyticsRequests } = await observe(page, true, true, site, '/relay');
+    await page.goto(`${origin}/en/sanam-maroufkhani-a84/`);
+    await expect.poll(() => events.filter((e) => e.event === 'artist_viewed').length).toBe(1);
+    await leave(page);
+    await expect.poll(() => events.filter((e) => e.event === '$pageleave').length).toBe(1);
+    expect(events.every((e) => e.properties.$host === new URL(origin).host)).toBe(true);
+    expect([...new Set(analyticsRequests)]).toEqual(['relay/e/']);
+  });
+}

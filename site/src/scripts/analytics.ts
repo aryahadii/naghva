@@ -22,8 +22,11 @@ async function start(): Promise<PostHog | undefined> {
   // Configuration alone cannot enable tracking on a local server or a preview.
   const address = new URL(canonical.href);
   if (!PRODUCTION_ORIGINS.has(location.origin) || !PRODUCTION_ORIGINS.has(address.origin)) return;
-  const host = new URL(config.dataset.host);
+  // An https URL posts to PostHog directly; a path such as /relay posts to
+  // this site's own relay (worker/relay.ts), which forwards to PostHog EU.
+  const host = new URL(config.dataset.host, location.origin);
   if (host.protocol !== 'https:') return;
+  const apiHost = host.origin + host.pathname.replace(/\/+$/, '');
 
   const context: Properties = {
     $current_url: new URL(address.pathname, location.origin).href,
@@ -40,7 +43,7 @@ async function start(): Promise<PostHog | undefined> {
     import('posthog-js/dist/web-vitals'),
   ]);
   posthog.init(config.content, {
-    api_host: host.origin,
+    api_host: apiHost,
     cookieless_mode: 'always',
     person_profiles: 'never',
     persistence: 'memory',

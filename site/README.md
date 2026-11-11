@@ -188,7 +188,8 @@ tools/test_derive.py
 site/
 ├── astro.config.ts
 ├── addresses.json        every address issued, so none ever breaks
-├── wrangler.jsonc        Cloudflare: serve dist/ as static files
+├── wrangler.jsonc        Cloudflare: serve dist/ as static files, plus the relay
+├── worker/relay.ts       Analytics relay: /relay/* to PostHog EU
 ├── integrations/         derive again on data edits; write _redirects
 ├── scripts/              check-output.mjs: the built site's checks
 ├── public/               favicon, _headers
@@ -260,6 +261,12 @@ the production workflow reads GitHub repository variables with those same
 names. Use the EU project's ingestion host from Project settings. These are
 build-time values: changing them requires rebuilding the static site. An empty
 value disables analytics. Never put a personal API key in either variable.
+`PUBLIC_POSTHOG_HOST` is either PostHog's host (`https://eu.i.posthog.com`) or
+`/relay`, the site's own address for events: `worker/relay.ts` forwards event
+posts under `/relay/` to PostHog EU, with the visitor's IP for the cookieless
+hash and without cookies or other headers, and nothing else. It lets readers
+whose blockers or networks stop PostHog's address still be counted. It runs
+only for `/relay/*`; every other request is served as static files.
 In PostHog's Project > Web analytics settings, enable cookieless tracking before
 releasing a configured build; otherwise PostHog discards these events.
 
