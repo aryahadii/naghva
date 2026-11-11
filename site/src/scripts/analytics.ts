@@ -22,8 +22,11 @@ async function start(): Promise<PostHog | undefined> {
   // Configuration alone cannot enable tracking on a local server or a preview.
   const address = new URL(canonical.href);
   if (!PRODUCTION_ORIGINS.has(location.origin) || !PRODUCTION_ORIGINS.has(address.origin)) return;
-  const host = new URL(config.dataset.host);
+  // An https URL posts to PostHog directly; a path such as /relay posts to
+  // this site's own relay (worker/relay.ts), which forwards to PostHog EU.
+  const host = new URL(config.dataset.host, location.origin);
   if (host.protocol !== 'https:') return;
+  const apiHost = host.origin + host.pathname.replace(/\/+$/, '');
 
   const context: Properties = {
     $current_url: new URL(address.pathname, location.origin).href,
@@ -34,19 +37,27 @@ async function start(): Promise<PostHog | undefined> {
     ...trafficProperties(landing, document.referrer),
   };
   if (config.dataset.artist) context.artist_id = config.dataset.artist;
-  const { default: posthog } = await import('posthog-js/no-external');
+  const [{ default: posthog }] = await Promise.all([
+    import('posthog-js/no-external'),
+    // Bundled here because external script loading stays disabled.
+    import('posthog-js/dist/web-vitals'),
+  ]);
   posthog.init(config.content, {
-    api_host: host.origin,
+    api_host: apiHost,
     cookieless_mode: 'always',
     person_profiles: 'never',
     persistence: 'memory',
     autocapture: false,
     capture_pageview: false,
-    capture_pageleave: false,
+    // Needed for bounce rate, time on page and scroll depth.
+    capture_pageleave: true,
     capture_dead_clicks: false,
     rageclick: false,
     capture_heatmaps: false,
-    capture_performance: false,
+    // Core Web Vitals only, without attribution (element selectors), which
+    // would also need a script that external loading cannot fetch. Network
+    // timing would record resource URLs.
+    capture_performance: { web_vitals: true, web_vitals_attribution: false, network_timing: false },
     capture_exceptions: false,
     disable_session_recording: true,
     enable_recording_console_log: false,

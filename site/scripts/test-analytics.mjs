@@ -84,3 +84,35 @@ test('the final payload boundary drops SDK URL fields, person updates and unexpe
   assert.equal(sanitizeEvent({ ...event, event: '$autocapture' }, context), null);
   assert.equal(sanitizeEvent({ ...event, event: '$snapshot' }, context), null);
 });
+
+test('page leave and web vitals keep only their numeric measurements', () => {
+  const context = { $current_url: 'https://naghva.com/en/', $pathname: '/en/', language: 'en' };
+  const leave = sanitizeEvent({ event: '$pageleave', properties: {
+    distinct_id: '$posthog_cookieless',
+    $prev_pageview_duration: 42.5, $prev_pageview_max_scroll_percentage: 0.8,
+    $prev_pageview_last_content: 1200, $prev_pageview_pathname: '/en/sanam-maroufkhani-a84/',
+    $prev_pageview_id: 'private-id', $prev_pageview_max_scroll: 'private',
+  } }, context);
+  assert.equal(leave.properties.$prev_pageview_duration, 42.5);
+  assert.equal(leave.properties.$prev_pageview_max_scroll_percentage, 0.8);
+  assert.equal(leave.properties.$prev_pageview_last_content, 1200);
+  assert.equal(leave.properties.$prev_pageview_pathname, '/en/sanam-maroufkhani-a84/');
+  assert.equal(leave.properties.$pathname, '/en/');
+  assert.equal(JSON.stringify(leave).includes('private'), false);
+  const odd = sanitizeEvent({ event: '$pageleave', properties: { $prev_pageview_pathname: '/en/?q=private' } }, context);
+  assert.equal(odd.properties.$prev_pageview_pathname, undefined);
+  const vitals = sanitizeEvent({ event: '$web_vitals', properties: {
+    $web_vitals_LCP_value: 1834.2, $web_vitals_CLS_value: 0.01,
+    $web_vitals_LCP_event: { name: 'LCP', value: 1834.2, $current_url: 'https://naghva.com/en/?q=private', attribution: { element: 'private' } },
+    $web_vitals_TTFB_value: 99, $current_url: 'https://naghva.com/en/?q=private',
+  } }, context);
+  assert.equal(vitals.properties.$web_vitals_LCP_value, 1834.2);
+  assert.equal(vitals.properties.$web_vitals_CLS_value, 0.01);
+  assert.equal(vitals.properties.$web_vitals_TTFB_value, undefined);
+  assert.equal(vitals.properties.$current_url, 'https://naghva.com/en/');
+  assert.equal(JSON.stringify(vitals).includes('private'), false);
+  // Other events never carry these measurements.
+  const search = sanitizeEvent({ event: 'search_used', properties: { surface: 'home', $prev_pageview_duration: 3, $web_vitals_LCP_value: 1 } }, context);
+  assert.equal(search.properties.$prev_pageview_duration, undefined);
+  assert.equal(search.properties.$web_vitals_LCP_value, undefined);
+});
