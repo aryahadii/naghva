@@ -1,4 +1,4 @@
-import { expect, test } from '@playwright/test';
+import { expect, test, type Page } from '@playwright/test';
 import { observe, site, ingestion } from './analytics-fixture';
 
 test.use({ channel: 'chromium' });
@@ -193,4 +193,41 @@ test('blocked ingestion does not interrupt searching or navigation', async ({ pa
   await page.locator('.search-panel a').first().click();
   await expect(page).toHaveURL(`${site}/en/sanam-maroufkhani-a84/`);
   await expect(page.locator('h1')).toContainText('Sanam');
+});
+
+// Playwright cannot observe beacons from a document that has already been
+// replaced, so leave the page the way the browser signals it, then navigate.
+async function leave(page: Page) {
+  await page.evaluate(() => {
+    Object.defineProperty(document, 'visibilityState', { configurable: true, value: 'hidden' });
+    document.dispatchEvent(new Event('visibilitychange'));
+    window.dispatchEvent(new PageTransitionEvent('pagehide', { persisted: false }));
+  });
+}
+
+test('leaving a page sends its time, scroll depth and web vitals, and nothing private', async ({ page }) => {
+  const { events, analyticsRequests } = await observe(page);
+  await page.goto(`${site}/en/sanam-maroufkhani-a84/?email=private-url#private-fragment`);
+  await expect.poll(() => events.filter((e) => e.event === '$pageview').length).toBe(1);
+  await page.mouse.wheel(0, 1500);
+  await page.waitForTimeout(500);
+  await leave(page);
+  await expect.poll(() => events.filter((e) => e.event === '$pageleave').length).toBe(1);
+  await page.goto(`${site}/en/about/`);
+  await expect.poll(() => events.filter((e) => e.event === '$pageview').length).toBe(2);
+  const left = events.find((e) => e.event === '$pageleave')!;
+  expect(left.properties).toMatchObject({ $pathname: '/en/sanam-maroufkhani-a84/', distinct_id: '$posthog_cookieless' });
+  expect(left.properties.$prev_pageview_duration).toEqual(expect.any(Number));
+  expect(left.properties.$prev_pageview_max_scroll_percentage).toBeGreaterThan(0);
+  await expect.poll(() => events.filter((e) => e.event === '$web_vitals').length).toBeGreaterThan(0);
+  const vitals = events.find((e) => e.event === '$web_vitals')!;
+  const metrics = Object.keys(vitals.properties).filter((key) => key.startsWith('$web_vitals_'));
+  expect(metrics.length).toBeGreaterThan(0);
+  for (const key of metrics) {
+    expect(key).toMatch(/^\$web_vitals_(LCP|CLS|FCP|INP)_value$/);
+    expect(vitals.properties[key]).toEqual(expect.any(Number));
+  }
+  expect(vitals.properties.$pathname).toBe('/en/sanam-maroufkhani-a84/');
+  expect(JSON.stringify(events)).not.toContain('private');
+  expect([...new Set(analyticsRequests)]).toEqual(['/e/']);
 });

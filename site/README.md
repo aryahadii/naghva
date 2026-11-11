@@ -266,13 +266,15 @@ releasing a configured build; otherwise PostHog discards these events.
 Tracking runs only on `naghva.com` and `naqva.com`, never on local/preview origins
 or fictional example pages, and respects Do Not Track and Global Privacy Control.
 The SDK uses `cookieless_mode: 'always'` and no person profiles. Replay, autocapture,
-surveys, heatmaps, error collection and performance collection are disabled.
+surveys, heatmaps, error collection and network timing are disabled.
 PostHog adds no cookies or local/session storage; the site's existing language
 preference still uses local storage.
 
 | Event | Meaning | Additional properties |
 | --- | --- | --- |
 | `$pageview` | A localized page load, or Back/Forward cache restore | language, page type, path, referring domain |
+| `$pageleave` | The reader leaves or hides the page | time on page, scroll and content depth (for bounce rate, session length and scroll depth) |
+| `$web_vitals` | Core Web Vitals of the page | LCP, CLS, FCP and INP values only, no element or URL detail |
 | `artist_viewed` | An artist page view | artist ID |
 | `listen_clicked` | A listening link opened, including from a release dialog | release ID, platform, artist ID when on an artist page |
 | `search_used` | First non-empty use of each search surface per document | home, header or results surface |

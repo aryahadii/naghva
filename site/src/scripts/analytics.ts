@@ -34,7 +34,11 @@ async function start(): Promise<PostHog | undefined> {
     ...trafficProperties(landing, document.referrer),
   };
   if (config.dataset.artist) context.artist_id = config.dataset.artist;
-  const { default: posthog } = await import('posthog-js/no-external');
+  const [{ default: posthog }] = await Promise.all([
+    import('posthog-js/no-external'),
+    // Bundled here because external script loading stays disabled.
+    import('posthog-js/dist/web-vitals'),
+  ]);
   posthog.init(config.content, {
     api_host: host.origin,
     cookieless_mode: 'always',
@@ -42,11 +46,15 @@ async function start(): Promise<PostHog | undefined> {
     persistence: 'memory',
     autocapture: false,
     capture_pageview: false,
-    capture_pageleave: false,
+    // Needed for bounce rate, time on page and scroll depth.
+    capture_pageleave: true,
     capture_dead_clicks: false,
     rageclick: false,
     capture_heatmaps: false,
-    capture_performance: false,
+    // Core Web Vitals only, without attribution (element selectors), which
+    // would also need a script that external loading cannot fetch. Network
+    // timing would record resource URLs.
+    capture_performance: { web_vitals: true, web_vitals_attribution: false, network_timing: false },
     capture_exceptions: false,
     disable_session_recording: true,
     enable_recording_console_log: false,
