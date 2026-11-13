@@ -34,6 +34,16 @@ statements:
     - source: music.apple.com-us-album-gray-single-1541445737
       quote: Gray - Single
       accessed: '2026-11-13'
+  - value: https://open.spotify.com/album/1uuWOcORi2VblYCAEm8uUU
+    references:
+    - source: open.spotify.com-album-1uuwocori2vblycaem8uuu-18f398c9a8
+      quote: '"name":"Gray"'
+      accessed: '2026-11-13'
+      locator: Spotify album title; full programme compared with the other cited edition
+    - source: open.spotify.com-album-1uuwocori2vblycaem8uuu-18f398c9a8
+      quote: '"title":"Gray"'
+      accessed: '2026-11-13'
+      locator: First track of the programme
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/1a/c4/d8/1ac4d837-494d-aa2f-6f3c-ed78f871b432/195448540529.jpg/1200x1200bb.jpg
     qualifiers:

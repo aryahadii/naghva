@@ -43,6 +43,16 @@ statements:
   - value: https://music.apple.com/us/album/narrante/1444130926
     references:
     - *id001
+  - value: https://open.spotify.com/album/2Secgb9RNRqgd07clyMlGu
+    references:
+    - source: open.spotify.com-album-2secgb9rnrqgd07clymlgu-e3848c171b
+      quote: '"name":"Narrante"'
+      accessed: '2026-11-13'
+      locator: Spotify album title; full programme compared with the other cited edition
+    - source: open.spotify.com-album-2secgb9rnrqgd07clymlgu-e3848c171b
+      quote: '"title":"Testamento"'
+      accessed: '2026-11-13'
+      locator: First track of the programme
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/ed/f0/23/edf02320-23d9-80fd-088a-f6d09449f920/00602547794437.rgb.jpg/1200x630bb.jpg
     qualifiers:

@@ -7,7 +7,8 @@ statements:
       language: en
     references:
     - source: music.apple.com-us-album-sokoote-sard-cold-silence-285488711-52e1ccc23e8d
-      quote: 'Listen to Sokoote Sard (Cold Silence) by Kaveh Yaghmaei on Apple Music. 2008. 8 Songs. Duration: 32 minutes.'
+      quote: 'Listen to Sokoote Sard (Cold Silence) by Kaveh Yaghmaei on Apple Music. 2008. 8 Songs. Duration: 32
+        minutes.'
       accessed: '2026-10-20'
   release date:
   - value:
@@ -20,7 +21,8 @@ statements:
   - value: Qcbarbs
     references:
     - source: music.apple.com-us-album-sokoote-sard-cold-silence-285488711-52e1ccc23e8d
-      quote: 'Listen to Sokoote Sard (Cold Silence) by Kaveh Yaghmaei on Apple Music. 2008. 8 Songs. Duration: 32 minutes.'
+      quote: 'Listen to Sokoote Sard (Cold Silence) by Kaveh Yaghmaei on Apple Music. 2008. 8 Songs. Duration: 32
+        minutes.'
       accessed: '2026-10-20'
     - source: music.apple.com-us-album-sokoote-sard-cold-silence-285488711-52e1ccc23e8d
       quote: Kaveh Yaghmaei
@@ -57,13 +59,24 @@ statements:
   - value: https://music.apple.com/us/album/sokoote-sard-cold-silence/285488711
     references:
     - source: music.apple.com-us-album-sokoote-sard-cold-silence-285488711-52e1ccc23e8d
-      quote: 'Listen to Sokoote Sard (Cold Silence) by Kaveh Yaghmaei on Apple Music. 2008. 8 Songs. Duration: 32 minutes.'
+      quote: 'Listen to Sokoote Sard (Cold Silence) by Kaveh Yaghmaei on Apple Music. 2008. 8 Songs. Duration: 32
+        minutes.'
       accessed: '2026-10-20'
   - value: https://www.youtube.com/playlist?list=OLAK5uy_ks2Os-X-mlvR1kUs7fIMrmgqJrK9VJgJo
     references:
     - source: www.youtube.com-playlist-list-olak5uy_ks2os-x-mlvr1kus7fimrmgqjrk9vjgjo
       quote: Sokoote Sard(Cold Silence)
       accessed: '2026-11-13'
+  - value: https://open.spotify.com/album/1PPltKFarVNomtbeW8rbZt
+    references:
+    - source: open.spotify.com-album-1ppltkfarvnomtbew8rbzt-43cb228fee
+      quote: '"name":"Sokoote Sard(Cold Silence)"'
+      accessed: '2026-11-13'
+      locator: Spotify album title; full programme compared with the other cited edition
+    - source: open.spotify.com-album-1ppltkfarvnomtbew8rbzt-43cb228fee
+      quote: '"title":"Avalin Harf"'
+      accessed: '2026-11-13'
+      locator: First track of the programme
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d5/19/54/d5195404-858c-11e1-00d3-a88f253dc46c/mzi.lzgwzzpl.jpg/1200x630bb.jpg
     references:

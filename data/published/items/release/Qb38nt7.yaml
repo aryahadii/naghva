@@ -7,37 +7,44 @@ statements:
       language: en
     references:
     - source: music.apple.com-us-album-braids-of-innocence-1652567418
-      quote: |-
-        Braids of Innocence
+      quote: Braids of Innocence
       accessed: '2026-11-13'
   release date:
   - value:
       date: '2022-12-02'
     references:
     - source: music.apple.com-us-album-braids-of-innocence-1652567418
-      quote: |-
-        "datePublished":"2022-12-02"
+      quote: '"datePublished":"2022-12-02"'
       accessed: '2026-11-13'
   performer:
   - value: Qp2mk6b
     references:
     - source: music.apple.com-us-album-braids-of-innocence-1652567418
-      quote: |-
-        [{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/mahsa-vahdat/65413022","name":"Mahsa Vahdat"},{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/skruk/77778428","name":"Skruk"}]
+      quote: '[{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/mahsa-vahdat/65413022","name":"Mahsa
+        Vahdat"},{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/skruk/77778428","name":"Skruk"}]'
       accessed: '2026-11-13'
   - value: Qgewrg4
     references:
     - source: music.apple.com-us-album-braids-of-innocence-1652567418
-      quote: |-
-        [{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/mahsa-vahdat/65413022","name":"Mahsa Vahdat"},{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/skruk/77778428","name":"Skruk"}]
+      quote: '[{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/mahsa-vahdat/65413022","name":"Mahsa
+        Vahdat"},{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/skruk/77778428","name":"Skruk"}]'
       accessed: '2026-11-13'
   listen link:
   - value: https://music.apple.com/us/album/braids-of-innocence/1652567418
     references:
     - source: music.apple.com-us-album-braids-of-innocence-1652567418
-      quote: |-
-        Braids of Innocence
+      quote: Braids of Innocence
       accessed: '2026-11-13'
+  - value: https://open.spotify.com/album/7j418L0rqloNqBUubxbZis
+    references:
+    - source: open.spotify.com-album-7j418l0rqlonqbuubxbzis-7b745ef5c1
+      quote: '"name":"Braids of Innocence"'
+      accessed: '2026-11-13'
+      locator: Spotify album title; full programme compared with the other cited edition
+    - source: open.spotify.com-album-7j418l0rqlonqbuubxbzis-7b745ef5c1
+      quote: '"title":"A Thousand Birds Will Chant Your Song"'
+      accessed: '2026-11-13'
+      locator: First track of the programme
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/98/76/ec/9876ec74-86c8-12d1-32f2-fc3f05db2eaf/7041889650620_Cover.jpg/1200x1200bb.jpg
     qualifiers:
@@ -46,8 +53,7 @@ statements:
         language: en
     references:
     - source: music.apple.com-us-album-braids-of-innocence-1652567418
-      quote: |-
-        Braids of Innocence
+      quote: Braids of Innocence
       accessed: '2026-11-13'
   contributor:
   - value: Qp2mk6b
@@ -55,21 +61,18 @@ statements:
       role: composer
     references:
     - source: www.kkv.no-en-music-braids-of-innocence-1
-      quote: |-
-        Mahsa has written the melodies
+      quote: Mahsa has written the melodies
       accessed: '2026-11-13'
   - value: Qxzfpnw
     qualifiers:
       role: producer
     references:
     - source: www.kkv.no-en-music-braids-of-innocence-1
-      quote: |-
-        producer Erik Hillestad
+      quote: producer Erik Hillestad
       accessed: '2026-11-13'
   published by:
   - value: Qtcvdjj
     references:
     - source: www.kkv.no-en-music-braids-of-innocence-1
-      quote: |-
-        Kirkelig kulturverksted
+      quote: Kirkelig kulturverksted
       accessed: '2026-11-13'

@@ -31,6 +31,16 @@ statements:
   - value: https://music.apple.com/us/album/ravi-the-music-of-du%C5%A1an-bogdanovic/1872713740
     references:
     - *id001
+  - value: https://open.spotify.com/album/29u68IoFBNgHLNqFQhlYre
+    references:
+    - source: open.spotify.com-album-29u68iofbnghlnqfqhlyre-c7eb8208ad
+      quote: '"name":"Ravi - The Music of Dušan Bogdanovic"'
+      accessed: '2026-11-13'
+      locator: Spotify album title; full programme compared with the other cited edition
+    - source: open.spotify.com-album-29u68iofbnghlnqfqhlyre-c7eb8208ad
+      quote: '"title":"Omar''s Fancy"'
+      accessed: '2026-11-13'
+      locator: First track of the programme
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/45/a7/11/45a711db-65c2-5cf9-84c8-19daff4e80d0/cover.jpg/1200x630bb.jpg
     qualifiers:

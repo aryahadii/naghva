@@ -31,6 +31,16 @@ statements:
   - value: https://music.apple.com/us/album/last-single/1620821546
     references:
     - *id001
+  - value: https://open.spotify.com/album/1e2dk4uLSMzwfDaAgYnfBP
+    references:
+    - source: open.spotify.com-album-1e2dk4ulsmzwfdaagynfbp-a753a2c542
+      quote: '"name":"Last"'
+      accessed: '2026-11-13'
+      locator: Spotify album title; full programme compared with the other cited edition
+    - source: open.spotify.com-album-1e2dk4ulsmzwfdaagynfbp-a753a2c542
+      quote: '"title":"Last"'
+      accessed: '2026-11-13'
+      locator: First track of the programme
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/36/b2/46/36b24671-1f09-1d79-ab99-acbc368961ec/196626904768.jpg/1200x630bb.jpg
     qualifiers:

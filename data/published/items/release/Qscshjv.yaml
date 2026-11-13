@@ -22,10 +22,12 @@ statements:
       role: vocals
     references:
     - source: music.apple.com-us-album-day-and-night-single-1528830957
-      quote: 'Vocal: Sanam Pasha - Poem: Forough Farokhzad - Music: Mehran Mokhtarpour - Mix & Mastering: Shayan Karimi'
+      quote: 'Vocal: Sanam Pasha - Poem: Forough Farokhzad - Music: Mehran Mokhtarpour - Mix & Mastering: Shayan
+        Karimi'
       accessed: '2026-11-13'
     - source: music.apple.com-us-album-day-and-night-single-1528830957
-      quote: '[{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/sanam-pasha/1449069221","name":"Sanam Pasha"}]'
+      quote: '[{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/sanam-pasha/1449069221","name":"Sanam
+        Pasha"}]'
       accessed: '2026-11-13'
   listen link:
   - value: https://music.apple.com/us/album/day-and-night-single/1528830957
@@ -33,6 +35,16 @@ statements:
     - source: music.apple.com-us-album-day-and-night-single-1528830957
       quote: Day And Night - Single
       accessed: '2026-11-13'
+  - value: https://open.spotify.com/album/608qZhUxhGlQJFBYgcemBc
+    references:
+    - source: open.spotify.com-album-608qzhuxhglqjfbygcembc-f2c4e4659d
+      quote: '"name":"Day And Night"'
+      accessed: '2026-11-13'
+      locator: Spotify album title; full programme compared with the other cited edition
+    - source: open.spotify.com-album-608qzhuxhglqjfbygcembc-f2c4e4659d
+      quote: '"title":"Day And Night"'
+      accessed: '2026-11-13'
+      locator: First track of the programme
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c6/49/2b/c6492b1d-56ae-352d-fbae-719e629d5689/195448040739.jpg/1200x1200bb.jpg
     qualifiers:
@@ -49,14 +61,16 @@ statements:
       role: composer
     references:
     - source: music.apple.com-us-album-day-and-night-single-1528830957
-      quote: 'Vocal: Sanam Pasha - Poem: Forough Farokhzad - Music: Mehran Mokhtarpour - Mix & Mastering: Shayan Karimi'
+      quote: 'Vocal: Sanam Pasha - Poem: Forough Farokhzad - Music: Mehran Mokhtarpour - Mix & Mastering: Shayan
+        Karimi'
       accessed: '2026-11-13'
   - value: Qb2q2sp
     qualifiers:
       role: lyricist
     references:
     - source: music.apple.com-us-album-day-and-night-single-1528830957
-      quote: 'Vocal: Sanam Pasha - Poem: Forough Farokhzad - Music: Mehran Mokhtarpour - Mix & Mastering: Shayan Karimi'
+      quote: 'Vocal: Sanam Pasha - Poem: Forough Farokhzad - Music: Mehran Mokhtarpour - Mix & Mastering: Shayan
+        Karimi'
       accessed: '2026-11-13'
   - value: Qphvq4s
     qualifiers:

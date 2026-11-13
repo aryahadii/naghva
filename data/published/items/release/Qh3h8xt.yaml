@@ -75,6 +75,16 @@ statements:
   - value: https://music.apple.com/us/album/the-price-of-freedom/1517699810
     references:
     - *id002
+  - value: https://open.spotify.com/album/6Pd2ftRd147mp64XT7NhL3
+    references:
+    - source: open.spotify.com-album-6pd2ftrd147mp64xt7nhl3-82ec76dcc9
+      quote: '"name":"The Price of Freedom"'
+      accessed: '2026-11-13'
+      locator: Spotify album title; full programme compared with the other cited edition
+    - source: open.spotify.com-album-6pd2ftrd147mp64xt7nhl3-82ec76dcc9
+      quote: '"title":"Guilt of Existence"'
+      accessed: '2026-11-13'
+      locator: First track of the programme
   release date:
   - value:
       date: '2013-04-10'

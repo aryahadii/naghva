@@ -7,37 +7,46 @@ statements:
       language: en
     references:
     - source: music.apple.com-us-album-from-isfahan-to-isfahan-single-1449069005
-      quote: |-
-        From Isfahan to Isfahan - Single
+      quote: From Isfahan to Isfahan - Single
       accessed: '2026-11-13'
   release date:
   - value:
       date: '2019-01-18'
     references:
     - source: music.apple.com-us-album-from-isfahan-to-isfahan-single-1449069005
-      quote: |-
-        "datePublished":"2019-01-18"
+      quote: '"datePublished":"2019-01-18"'
       accessed: '2026-11-13'
   performer:
   - value: Q42kkgw
     references:
     - source: music.apple.com-us-album-from-isfahan-to-isfahan-single-1449069005
-      quote: |-
-        [{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/farzin-tehranian/430741640","name":"Farzin Tehranian"},{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/sanam-pasha/1449069221","name":"Sanam Pasha"}]
+      quote: '[{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/farzin-tehranian/430741640","name":"Farzin
+        Tehranian"},{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/sanam-pasha/1449069221","name":"Sanam
+        Pasha"}]'
       accessed: '2026-11-13'
   - value: Qphvq4s
     references:
     - source: music.apple.com-us-album-from-isfahan-to-isfahan-single-1449069005
-      quote: |-
-        [{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/farzin-tehranian/430741640","name":"Farzin Tehranian"},{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/sanam-pasha/1449069221","name":"Sanam Pasha"}]
+      quote: '[{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/farzin-tehranian/430741640","name":"Farzin
+        Tehranian"},{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/sanam-pasha/1449069221","name":"Sanam
+        Pasha"}]'
       accessed: '2026-11-13'
   listen link:
   - value: https://music.apple.com/us/album/from-isfahan-to-isfahan-single/1449069005
     references:
     - source: music.apple.com-us-album-from-isfahan-to-isfahan-single-1449069005
-      quote: |-
-        From Isfahan to Isfahan - Single
+      quote: From Isfahan to Isfahan - Single
       accessed: '2026-11-13'
+  - value: https://open.spotify.com/album/3DXscqD6w8HcDk2fTpclI9
+    references:
+    - source: open.spotify.com-album-3dxscqd6w8hcdk2ftpcli9-97574fb5b8
+      quote: '"name":"From Isfahan to Isfahan"'
+      accessed: '2026-11-13'
+      locator: Spotify album title; full programme compared with the other cited edition
+    - source: open.spotify.com-album-3dxscqd6w8hcdk2ftpcli9-97574fb5b8
+      quote: '"title":"From Isfahan to Isfahan"'
+      accessed: '2026-11-13'
+      locator: First track of the programme
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8d/4a/e2/8d4ae271-5ab2-e307-d083-311f71149bd0/859730290393_cover.jpg/1200x1200bb.jpg
     qualifiers:
@@ -46,6 +55,5 @@ statements:
         language: en
     references:
     - source: music.apple.com-us-album-from-isfahan-to-isfahan-single-1449069005
-      quote: |-
-        From Isfahan to Isfahan - Single
+      quote: From Isfahan to Isfahan - Single
       accessed: '2026-11-13'

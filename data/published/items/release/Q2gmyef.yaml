@@ -7,37 +7,46 @@ statements:
       language: en
     references:
     - source: music.apple.com-us-album-miss-myself-single-1615999030
-      quote: |-
-        Miss Myself - Single
+      quote: Miss Myself - Single
       accessed: '2026-11-13'
   release date:
   - value:
       date: '2022-03-30'
     references:
     - source: music.apple.com-us-album-miss-myself-single-1615999030
-      quote: |-
-        "datePublished":"2022-03-30"
+      quote: '"datePublished":"2022-03-30"'
       accessed: '2026-11-13'
   performer:
   - value: Qf9e3fe
     references:
     - source: music.apple.com-us-album-miss-myself-single-1615999030
-      quote: |-
-        [{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/siavash-farrokhnejad/1536559855","name":"Siavash Farrokhnejad"},{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/hadi-pakzad/1112291316","name":"Hadi Pakzad"}]
+      quote: '[{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/siavash-farrokhnejad/1536559855","name":"Siavash
+        Farrokhnejad"},{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/hadi-pakzad/1112291316","name":"Hadi
+        Pakzad"}]'
       accessed: '2026-11-13'
   - value: Qjnkat7
     references:
     - source: music.apple.com-us-album-miss-myself-single-1615999030
-      quote: |-
-        [{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/siavash-farrokhnejad/1536559855","name":"Siavash Farrokhnejad"},{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/hadi-pakzad/1112291316","name":"Hadi Pakzad"}]
+      quote: '[{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/siavash-farrokhnejad/1536559855","name":"Siavash
+        Farrokhnejad"},{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/hadi-pakzad/1112291316","name":"Hadi
+        Pakzad"}]'
       accessed: '2026-11-13'
   listen link:
   - value: https://music.apple.com/us/album/miss-myself-single/1615999030
     references:
     - source: music.apple.com-us-album-miss-myself-single-1615999030
-      quote: |-
-        Miss Myself - Single
+      quote: Miss Myself - Single
       accessed: '2026-11-13'
+  - value: https://open.spotify.com/album/6MgP7RiBuxClZSwvj6oqfU
+    references:
+    - source: open.spotify.com-album-6mgp7ribuxclzswvj6oqfu-481e5ddb79
+      quote: '"name":"Miss Myself"'
+      accessed: '2026-11-13'
+      locator: Spotify album title; full programme compared with the other cited edition
+    - source: open.spotify.com-album-6mgp7ribuxclzswvj6oqfu-481e5ddb79
+      quote: '"title":"Miss Myself"'
+      accessed: '2026-11-13'
+      locator: First track of the programme
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/3c/c1/b0/3cc1b0b4-8721-9983-8b88-1100d6e595ba/5063011832034_cover.jpg/1200x1200bb.jpg
     qualifiers:
@@ -46,6 +55,5 @@ statements:
         language: en
     references:
     - source: music.apple.com-us-album-miss-myself-single-1615999030
-      quote: |-
-        Miss Myself - Single
+      quote: Miss Myself - Single
       accessed: '2026-11-13'

@@ -15,6 +15,16 @@ statements:
   - value: https://newfocusrecordings.bandcamp.com/album/night-triptych
     references:
     - *id001
+  - value: https://open.spotify.com/album/2IV0NFyuC8CB9nkg4bo4a6
+    references:
+    - source: open.spotify.com-album-2iv0nfyuc8cb9nkg4bo4a6-a791bb2bbc
+      quote: '"name":"Night Triptych"'
+      accessed: '2026-11-13'
+      locator: Spotify album title; full programme compared with the other cited edition
+    - source: open.spotify.com-album-2iv0nfyuc8cb9nkg4bo4a6-a791bb2bbc
+      quote: '"title":"Hocus Pocus: I. Abracadabra!"'
+      accessed: '2026-11-13'
+      locator: First track of the programme
   release date:
   - value:
       date: '2018-06-22'
