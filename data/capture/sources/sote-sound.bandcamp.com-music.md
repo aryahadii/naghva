@@ -1,5 +1,6 @@
 ---
 url: https://sote-sound.bandcamp.com/music
+archive: https://web.archive.org/web/20260922141635/https://sote-sound.bandcamp.com/music
 title: Sote - Music
 kind: web page
 language: en
