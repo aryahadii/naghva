@@ -114,14 +114,14 @@ The group played a private concert at Tehran’s Russian Orthodox church during 
 
 ## Aloodeh and new musicians
 
-Sharbaf continued O-Hum with different musicians. For *Aloodeh*, released in 2005, he read poems alone before adding music, choosing Hafez and Rumi through his response to the words.[^continuity][^poem-first] On “Beshno Az Ney,” he contrasted a radio-like opening with the fuller arrangement that followed, showing how the same rhythm could be treated differently.[^beshno]
+Sharbaf continued O-Hum with different musicians. For *[Aloodeh](#aloodeh-38a)*, released in 2005, he read poems alone before adding music, choosing Hafez and Rumi through his response to the words.[^continuity][^poem-first] On “Beshno Az Ney,” he contrasted a radio-like opening with the fuller arrangement that followed, showing how the same rhythm could be treated differently.[^beshno]
 
 Earlier songs became material for *[E-HUM](#e-hum-o-hum-remixes-1999-2009-zz9)*, a collection of remixes from the band’s first decade that Sharbaf produced and engineered.[^remixes][^remix-production]
 
-After receiving permission to work in Iran in 2012–13, O-Hum recorded its first officially released Iranian album, *[In Kherghe Biandaz](#in-kherghe-biandaz-pg7)*, with a younger line-up. Nima Ramezan, Rouzbeh Gholipour, Pouya Shomali and Saman Vandadi joined Sharbaf for the project.[^kherghe-history] The live double album *[O-Hum Dar Azadi](#o-hum-dar-azadi-h8a)* followed in 2015–16, documenting a concert at Tehran’s Azadi Tower.[^azadi]
+After receiving permission to work in Iran in 2012–13, O-Hum recorded its first officially released Iranian album, *[In Kherghe Biandaz](#in-kherghe-biandaz-pg7)*, with a younger line-up. Nima Ramezan, Rouzbeh Gholipour, Pouya Shomali and Saman Vandadi joined Sharbaf for the project.[^kherghe-history] The live double album *[O-Hum Dar Azadi](#o-hum-dar-azadi-wrk)* followed in 2015–16, documenting a concert at Tehran’s Azadi Tower.[^azadi]
 
 ## The trio returns
 
-In autumn 2021 the original three members began making a full album together again, after two decades apart. Izadkhah recorded and sent his guitar parts from Vancouver.[^reunion] They released *[Shatt-e Sharab](#shatt-e-sharab-38z)* in March 2022 through the band’s and Sharbaf’s websites, allowing listeners to choose a price, including a free download.[^shatt-direct]
+In autumn 2021 the original three members began making a full album together again, after two decades apart. Izadkhah recorded and sent his guitar parts from Vancouver.[^reunion] They released *[Shatt-e Sharab](#shatt-e-sharab-mqm)* in March 2022 through the band’s and Sharbaf’s websites, allowing listeners to choose a price, including a free download.[^shatt-direct]
 
-In 2024 O-Hum began a second strand of work under the name O-Hum Version Two, using poetry beyond Hafez and a different musical approach. Its songs included “[Dastan-e Man](#dastan-e-man-3ck)” and “[Gomshodeh](#gomshodeh-bkm).”[^version-two][^version-two-songs]
+In 2024 O-Hum began a second strand of work under the name O-Hum Version Two, using poetry beyond Hafez and a different musical approach. Its songs included “[Dastan-e Man](#my-story-single-x2c)” and “[Gomshodeh](#missing-ep-single-6cc).”[^version-two][^version-two-songs]
