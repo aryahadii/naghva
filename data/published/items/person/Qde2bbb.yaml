@@ -118,3 +118,27 @@ statements:
       accessed: '2026-11-13'
     qualifiers:
       about: Qd54qj4
+  - value:
+      text: 3 June 2022 | The Opera House, Toronto
+      language: en
+    references:
+    - source: www.youtube.com-watch-v-tw5xlmma4xg
+      quote: |-
+        3 June 2022 | The Opera House, Toronto
+      accessed: '2026-11-13'
+    qualifiers:
+      about: Qck77c4
+      point in time:
+        date: '2022-06-03'
+  - value:
+      text: 25 May 2024 | The Opera House, Toronto
+      language: en
+    references:
+    - source: www.youtube.com-watch-v-gjm_mzz9oes
+      quote: |-
+        25 May 2024 | The Opera House, Toronto
+      accessed: '2026-11-13'
+    qualifiers:
+      about: Qk84e5d
+      point in time:
+        date: '2024-05-25'

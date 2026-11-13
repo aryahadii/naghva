@@ -141,6 +141,21 @@ references:
     quote: |-
       «کهربای آرزو» علی عظیمی بر اساس شعر هوشنگ ابتهاج
     accessed: '2026-11-13'
+  satie:
+    source: www.youtube.com-watch-v-dtyomxqjj94
+    quote: |-
+      Original Theme: Erik Satie
+    accessed: '2026-11-13'
+  orchestra:
+    source: www.youtube.com-watch-v-dtyomxqjj94
+    quote: |-
+      Arrangement for Orchestra: Afshin Khaef
+    accessed: '2026-11-13'
+  khoda-words:
+    source: www.youtube.com-watch-v-dtyomxqjj94
+    quote: |-
+      Songwriting & Lyrics: Ali Azimi
+    accessed: '2026-11-13'
 ---
 
 علی عظیمی خواننده، ترانه‌سرا و گیتاریست ایرانی، زادهٔ تهران و ساکن لندن است. او پس از تحصیل و کار در مهندسی، با گروه رادیو تهران موسیقی ساخت و سپس برای کارهای مستقلش گروه تازه‌ای تشکیل داد. ترانه‌هایش با کلام فارسی و موسیقی راک، از تغییر مسیر شغلی، مهاجرت و روابط انسانی مایه می‌گیرند.[^origin][^band-roles][^change][^songs][^solo-transition][^concept]
@@ -166,3 +181,6 @@ references:
 در «[خونه باهار](#khooneye-bahar-dye)» بر شعر عمران صلاحی آهنگ گذاشت و نماهنگ را به مسافران پرواز پی‌اس۷۵۲ تقدیم کرد.[^bahar][^bahar-dedication] آلبوم سال ۱۴۰۱ او، «[کهربای آرزو](#kahrobaye-arezou-5tk)»، نامش را از ترانه‌ای بر شعر هوشنگ ابتهاج گرفت.[^album3][^date3][^ebtehaj]
 
 در واکنش به رویدادهای ایران، شعر و موسیقی «[دیگه وقتش رسیده](#dige-vaghtesh-resideh-bvc)» را نوشت. انتشار رسمی آن با هشتگ‌های زن، زندگی، آزادی و مهسا امینی همراه بود.[^dige]
+
+
+در سال ۲۰۲۶ عظیمی در «خدا» بر تمی از اریک ساتی ترانه نوشت؛ افشین خائف تنظیم ارکستر آن را ساخت.[^satie][^orchestra][^khoda-words]

@@ -141,6 +141,21 @@ references:
     quote: |-
       «کهربای آرزو» علی عظیمی بر اساس شعر هوشنگ ابتهاج
     accessed: '2026-11-13'
+  satie:
+    source: www.youtube.com-watch-v-dtyomxqjj94
+    quote: |-
+      Original Theme: Erik Satie
+    accessed: '2026-11-13'
+  orchestra:
+    source: www.youtube.com-watch-v-dtyomxqjj94
+    quote: |-
+      Arrangement for Orchestra: Afshin Khaef
+    accessed: '2026-11-13'
+  khoda-words:
+    source: www.youtube.com-watch-v-dtyomxqjj94
+    quote: |-
+      Songwriting & Lyrics: Ali Azimi
+    accessed: '2026-11-13'
 ---
 
 Ali Azimi is an Iranian singer, songwriter and guitarist from Tehran, based in London. After studying and working in engineering, he made music with Radio Tehran and then formed a new band for his solo recordings. His songs combine Persian words with rock and draw on his experience of changing careers, migration and relationships.[^origin][^band-roles][^change][^songs][^solo-transition][^concept]
@@ -166,3 +181,6 @@ Music and words sometimes came together much faster. He recalled writing “[Mar
 For “[Khooneye Bahar](#khooneye-bahar-dye),” Azimi set words by Omran Salahi to music and dedicated its video to the passengers of flight PS752.[^bahar][^bahar-dedication] His 2022 album *[Kahrobaye Arezou](#kahrobaye-arezou-5tk)* took its title from a song setting poetry by Houshang Ebtehaj.[^album3][^date3][^ebtehaj]
 
 He continued responding to events in Iran with “[Dige Vaghtesh Resideh](#dige-vaghtesh-resideh-bvc),” writing its words and music. Its official release carried the Woman, Life, Freedom and Mahsa Amini hashtags.[^dige]
+
+
+In 2026 Azimi wrote “Khoda” using a theme by Erik Satie, with an orchestral arrangement by Afshin Khaef.[^satie][^orchestra][^khoda-words]
