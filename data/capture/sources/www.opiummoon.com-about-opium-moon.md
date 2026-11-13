@@ -1,4 +1,5 @@
 ---
+archive: https://web.archive.org/web/20260521051408/https://www.opiummoon.com/about-opium-moon
 url: https://www.opiummoon.com/about-opium-moon
 title: About Opium Moon
 kind: web page

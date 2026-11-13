@@ -39,8 +39,13 @@ statements:
       role: santur
     references:
     - source: www.opiummoon.com-about-opium-moon
+      quote: Iranian santoor master Hamid Saeidi
+      accessed: '2026-11-13'
+  - value: Qjffa34
+    references:
+    - source: hamidsaeidi.com-about
       quote: |-
-        Iranian santoor master Hamid Saeidi
+        Hamid founded Hamid Saeidi & Ensemble
       accessed: '2026-11-13'
   image:
   - value: https://hamidsaeidi.com/wp-content/uploads/2023/03/Hamid-Saeidi-04.jpg
@@ -64,16 +69,14 @@ statements:
         date: '2009'
     references:
     - source: hamidsaeidi.com-voyagela-interview-hamid-saeidi-2023
-      quote: |-
-        I have immigrated to Los Angels in 2009
+      quote: I have immigrated to Los Angels in 2009
       accessed: '2026-11-13'
   - value:
       text: created and produced a new TV talent show for the Persian diaspora (Contestee)
       language: en
     references:
     - source: www.opiummoon.com-copy-of-epk
-      quote: |-
-        created and produced a new TV talent show for the Persian diaspora (Contestee)
+      quote: created and produced a new TV talent show for the Persian diaspora (Contestee)
       accessed: '2026-11-13'
   - value:
       text: '61st Annual Grammy Awards
@@ -88,10 +91,11 @@ statements:
       about: Q5hwnk5
     references:
     - source: www.grammy.com-artists-hamid-saeidi-243518
-      quote: |-
-        61st Annual Grammy Awards
+      quote: '61st Annual Grammy Awards
+
         Best New Age Album - Winner
-        Opium Moon
+
+        Opium Moon'
       accessed: '2026-11-13'
   - value:
       text: '64th Annual Grammy Awards
@@ -108,9 +112,11 @@ statements:
       about: Q6jwgym
     references:
     - source: www.grammy.com-artists-hamid-saeidi-243518
-      quote: |-
-        64th Annual Grammy Awards
+      quote: '64th Annual Grammy Awards
+
         Best New Age Album - Nominee
+
         Night + Day.
-        Opium Moon
+
+        Opium Moon'
       accessed: '2026-11-13'

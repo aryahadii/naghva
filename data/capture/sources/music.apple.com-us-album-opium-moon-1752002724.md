@@ -1,4 +1,5 @@
 ---
+archive: https://web.archive.org/web/20251208164641/https://music.apple.com/us/album/opium-moon/1752002724
 url: https://music.apple.com/us/album/opium-moon/1752002724
 title: Opium Moon - Apple Music
 kind: web page

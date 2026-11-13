@@ -1,4 +1,5 @@
 ---
+archive: https://web.archive.org/web/20251129213321/https://music.apple.com/us/album/night-day/1580628646
 url: https://music.apple.com/us/album/night-day/1580628646
 title: Night + Day - Apple Music
 kind: web page

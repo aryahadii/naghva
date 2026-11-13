@@ -1,4 +1,5 @@
 ---
+archive: https://web.archive.org/web/20260606223306/https://hamidsaeidi.com/about/
 url: https://hamidsaeidi.com/about/
 title: About - Hamid Saeidi
 kind: web page
@@ -38,5 +39,9 @@ Page text, read 2026-11-13.
 Page text, read 2026-11-13.
 
 > Los Angeles County Museum of Art (2012)
+
+Page text, read 2026-11-13.
+
+> Hamid founded Hamid Saeidi & Ensemble
 
 Page text, read 2026-11-13.

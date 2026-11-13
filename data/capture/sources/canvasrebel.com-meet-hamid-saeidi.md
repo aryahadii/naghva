@@ -1,4 +1,5 @@
 ---
+archive: https://web.archive.org/web/20231219125449/https://canvasrebel.com/meet-hamid-saeidi/
 url: https://canvasrebel.com/meet-hamid-saeidi/
 title: Meet Hamid Saeidi
 kind: web page
@@ -22,5 +23,9 @@ Page text, read 2026-11-13.
 Page text, read 2026-11-13.
 
 > Where We Are Gathered
+
+Page text, read 2026-11-13.
+
+> profound closeness
 
 Page text, read 2026-11-13.

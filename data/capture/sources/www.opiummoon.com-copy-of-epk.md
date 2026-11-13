@@ -1,4 +1,5 @@
 ---
+archive: https://web.archive.org/web/20260720125710/https://www.opiummoon.com/copy-of-epk
 url: https://www.opiummoon.com/copy-of-epk
 title: Opium Moon - Night + Day Electronic Press Kit
 kind: web page
@@ -22,5 +23,13 @@ Page text, read 2026-11-13.
 Page text, read 2026-11-13.
 
 > the six tracks comprising DAY.
+
+Page text, read 2026-11-13.
+
+> slow, hypnotic seductiveness
+
+Page text, read 2026-11-13.
+
+> groovy, danceable songs on DAY
 
 Page text, read 2026-11-13.

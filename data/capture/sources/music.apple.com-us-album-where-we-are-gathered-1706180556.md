@@ -1,4 +1,5 @@
 ---
+archive: https://web.archive.org/web/20251208164747/https://music.apple.com/us/album/where-we-are-gathered/1706180556
 url: https://music.apple.com/us/album/where-we-are-gathered/1706180556
 title: Where We Are Gathered - Apple Music
 kind: web page
