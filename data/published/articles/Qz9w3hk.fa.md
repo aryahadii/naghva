@@ -94,17 +94,17 @@ references:
     source: www-timeout-com-sydney-theatre-things-hidden-since-the-foundation-of-the-world-95e33b9bf1ce
     quote: |-
       who appears in the show as musician and storyteller
-    accessed: '2026-11-03'
+    accessed: '2026-11-13'
   sydney-venue:
     source: www-timeout-com-sydney-theatre-things-hidden-since-the-foundation-of-the-world-95e33b9bf1ce
     quote: |-
       at the Sydney Opera House as part of Sydney Festival
-    accessed: '2026-11-03'
+    accessed: '2026-11-13'
   sydney-date:
     source: www-timeout-com-sydney-theatre-things-hidden-since-the-foundation-of-the-world-95e33b9bf1ce
     quote: |-
       from Jan 19-21, 2024
-    accessed: '2026-11-03'
+    accessed: '2026-11-13'
   guitar:
     source: media.hamyaari.ca-2022-09-05-d9-85-d8-b1-d9-88-d8-b1-db-8c--d8-a8-d8-b1--d9-86-d8-b2-d8-af-db-8c-da-a9--d8-a8-7d54fc23894d
     quote: |-
@@ -145,6 +145,11 @@ references:
     quote: |-
       his family’s experience and his father’s legacy, woven together with his music
     accessed: '2026-11-13'
+  new-albums:
+    source: soundcloud.com-kingraam-astronaut-fazanavard
+    quote: |-
+      اولین سینگله از آلبوم‌های جدیدمون “سفید تیره/ سیاه تند”
+    accessed: '2026-11-13'
 ---
 
 کینگ رام نام هنری رامین سیدامامی، خواننده و ترانه‌سرای راک ایرانی است که کارش را با گروه پست‌پانک [هایپرنوا](/fa/hypernova-53g/) آغاز کرد. او در سال ۲۰۱۱ از ترانه‌های گروهی انگلیسی‌زبان به ضبط کارهای مستقل فارسی روی آورد. پس از چند سال بازگشت به تهران، کارش را در خارج از ایران ادامه داد و موسیقی را با تئاتر و پادکست فارسی «مستی و راستی» همراه کرد.[^identity][^iranian][^career][^return][^ny-news][^departure][^podcast]
@@ -157,7 +162,7 @@ references:
 
 ## بازگشت به تهران
 
-رام در سال ۲۰۱۴ به ایران برگشت و با گروهی تازه کار کرد. در تئاتر اجرا داشت، اما نتوانست مجوز کنسرت رسمی بگیرد.[^return][^theatre-iran][^permission] «[یک روز و یک سال](#a-day-a-year-247)» را در تهران ضبط کرد و در سال ۱۳۹۶ «[تا هزار و…](#until-a-thousand-and-3gm)» را منتشر کرد؛ آخرین آلبومش در دورهٔ اقامت در تهران.[^tehran-recording][^last-tehran]
+رام در سال ۲۰۱۴ به ایران برگشت و با گروهی تازه کار کرد. در تئاتر اجرا داشت، اما نتوانست مجوز کنسرت رسمی بگیرد.[^return][^theatre-iran][^permission] «[یک روز و یک سال](#a-day-a-year-247)» را در تهران ضبط کرد و در سال ۲۰۱۷ «[تا هزار و…](#until-a-thousand-and-3gm)» را منتشر کرد؛ آخرین آلبومش در دورهٔ اقامت در تهران.[^tehran-recording][^last-tehran]
 
 «روزی خواهد آمد» از مجموعهٔ «یک روز و یک سال»، به جمع دوستانی برمی‌گردد که در گوشه‌وکنار دنیا پراکنده شده‌اند. علی عشقی، نویسنده، آن را ترانه‌ای آمیخته به نوستالژی توصیف کرده است.[^song][^song-album]
 
@@ -167,4 +172,6 @@ references:
 
 در اقامت هنری سال‌های ۲۰۱۹ تا ۲۰۲۰ در نیویورک، رام نمایش تک‌نفرهٔ «Departure» را پرورش داد؛ اجرایی که موسیقی او را به تجربهٔ خانواده و یاد پدرش پیوند می‌داد.[^residency][^development][^family-music][^departure] در سال ۲۰۲۰ پادکست فارسی «مستی و راستی» را آغاز کرد.[^podcast][^podcast-start]
 
-در ژانویهٔ ۲۰۲۴، برای اجرا به‌عنوان موسیقی‌دان و داستان‌گو در نمایش «Things Hidden Since the Foundation of the World» ساختهٔ جواد علیپور، در خانهٔ اپرای سیدنی و جشنوارهٔ سیدنی برنامه داشت.[^sydney-role][^sydney-venue][^sydney-date]
+در سال ۲۰۲۲، او «[فضانورد](#astronaut-fazanavard-k9j)» را نخستین تک‌آهنگ از دو آلبوم در دست انتشار معرفی کرد و در توضیح قطعه نام آن‌ها را «سفید تیره» و «سیاه تند» نوشت.[^new-albums]
+
+در ژانویهٔ ۲۰۲۴، به‌عنوان موسیقی‌دان و داستان‌گو در نمایش «Things Hidden Since the Foundation of the World» ساختهٔ جواد علیپور، در خانهٔ اپرای سیدنی و جشنوارهٔ سیدنی اجرا کرد.[^sydney-role][^sydney-venue][^sydney-date]

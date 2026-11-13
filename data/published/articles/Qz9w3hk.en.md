@@ -94,17 +94,17 @@ references:
     source: www-timeout-com-sydney-theatre-things-hidden-since-the-foundation-of-the-world-95e33b9bf1ce
     quote: |-
       who appears in the show as musician and storyteller
-    accessed: '2026-11-03'
+    accessed: '2026-11-13'
   sydney-venue:
     source: www-timeout-com-sydney-theatre-things-hidden-since-the-foundation-of-the-world-95e33b9bf1ce
     quote: |-
       at the Sydney Opera House as part of Sydney Festival
-    accessed: '2026-11-03'
+    accessed: '2026-11-13'
   sydney-date:
     source: www-timeout-com-sydney-theatre-things-hidden-since-the-foundation-of-the-world-95e33b9bf1ce
     quote: |-
       from Jan 19-21, 2024
-    accessed: '2026-11-03'
+    accessed: '2026-11-13'
   guitar:
     source: media.hamyaari.ca-2022-09-05-d9-85-d8-b1-d9-88-d8-b1-db-8c--d8-a8-d8-b1--d9-86-d8-b2-d8-af-db-8c-da-a9--d8-a8-7d54fc23894d
     quote: |-
@@ -145,6 +145,16 @@ references:
     quote: |-
       his family’s experience and his father’s legacy, woven together with his music
     accessed: '2026-11-13'
+  new-albums:
+    source: soundcloud.com-kingraam-astronaut-fazanavard
+    quote: |-
+      اولین سینگله از آلبوم‌های جدیدمون “سفید تیره/ سیاه تند”
+    accessed: '2026-11-13'
+  album-titles:
+    source: soundcloud.com-kingraam-astronaut-fazanavard
+    quote: |-
+      Chroma Black // Off White
+    accessed: '2026-11-13'
 ---
 
 King Raam is the stage name of Ramin Seyed-Emami, an Iranian rock singer and songwriter who began with the post-punk band [Hypernova](/en/hypernova-53g/). He turned from English-language group songs to Persian solo recordings in 2011. After returning to Tehran for several years, he continued his career abroad, extending his music into theatre and the Persian podcast *Masty o Rasty*.[^identity][^iranian][^career][^return][^ny-news][^departure][^podcast]
@@ -167,4 +177,6 @@ His father, environmentalist Kavous Seyed-Emami, died in Evin Prison after being
 
 During a 2019–20 residency in New York, Raam developed *Departure*, a solo storytelling performance joining his music to his family’s experience and his father’s legacy.[^residency][^development][^family-music][^departure] In 2020 he began the Persian podcast *Masty o Rasty*.[^podcast][^podcast-start]
 
-He was booked to appear as musician and storyteller in Javaad Alipoor’s *Things Hidden Since the Foundation of the World* at Sydney Opera House during Sydney Festival in January 2024.[^sydney-role][^sydney-venue][^sydney-date]
+In 2022 he introduced “[Astronaut (Fazanavard)](#astronaut-fazanavard-k9j)” as the first single from two planned albums, *Off White* and *Chroma Black*.[^new-albums][^album-titles]
+
+He appeared as musician and storyteller in Javaad Alipoor’s *Things Hidden Since the Foundation of the World* at Sydney Opera House during Sydney Festival in January 2024.[^sydney-role][^sydney-venue][^sydney-date]
