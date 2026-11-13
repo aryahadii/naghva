@@ -1,4 +1,5 @@
 ---
+archive: https://web.archive.org/web/20251007005904/https://siavashamini.bandcamp.com/album/a-mimesis-of-nothingness
 url: https://siavashamini.bandcamp.com/album/a-mimesis-of-nothingness
 title: A Mimesis Of Nothingness
 kind: web page

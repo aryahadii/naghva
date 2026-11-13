@@ -1,4 +1,5 @@
 ---
+archive: https://web.archive.org/web/20231004101857/https://foxydigitalis.zone/2021/06/15/siavash-amini-interview/
 url: https://foxydigitalis.zone/2021/06/15/siavash-amini-interview/
 title: 'New Perspectives: An Interview With Siavash Amini'
 kind: web page

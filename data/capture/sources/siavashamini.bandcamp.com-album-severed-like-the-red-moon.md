@@ -1,4 +1,5 @@
 ---
+archive: https://web.archive.org/web/20260107173713/https://siavashamini.bandcamp.com/album/severed-like-the-red-moon
 url: https://siavashamini.bandcamp.com/album/severed-like-the-red-moon
 title: Severed Like The Red Moon
 kind: web page

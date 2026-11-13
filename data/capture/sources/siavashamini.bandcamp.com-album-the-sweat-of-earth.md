@@ -1,4 +1,5 @@
 ---
+archive: https://web.archive.org/web/20250906203304/https://siavashamini.bandcamp.com/album/the-sweat-of-earth
 url: https://siavashamini.bandcamp.com/album/the-sweat-of-earth
 title: The Sweat Of Earth
 kind: web page

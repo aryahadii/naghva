@@ -1,4 +1,5 @@
 ---
+archive: https://web.archive.org/web/20251129175043/https://siavashamini.bandcamp.com/album/a-trail-of-laughters
 url: https://siavashamini.bandcamp.com/album/a-trail-of-laughters
 title: A Trail of Laughters
 kind: web page
