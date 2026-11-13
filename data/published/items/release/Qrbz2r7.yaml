@@ -1,0 +1,47 @@
+id: Qrbz2r7
+type: release
+statements:
+  name:
+  - value:
+      text: Shekarchi (feat. Salome MC)
+      language: en
+    references:
+    - &id001
+      source: music.apple.com-us-album-shekarchi-feat-salome-mc-single-1862501290-2a0c34c2ff
+      quote: 'Listen to Shekarchi (feat. Salome MC) - Single by Yazdan Panah on Apple Music. 2025. 1 Song. Duration:
+        3 minutes.'
+      accessed: '2026-11-13'
+      locator: Apple Music release description
+  performer:
+  - value: Qy8ajvk
+    references:
+    - *id001
+  - value: Qd3ypxs
+    references:
+    - source: music.apple.com-us-album-shekarchi-feat-salome-mc-single-1862501290-2a0c34c2ff
+      quote: Shekarchi (feat. Salome MC)
+      accessed: '2026-11-13'
+      locator: Track listing
+  release date:
+  - value:
+      date: '2025-12-26'
+    references:
+    - source: music.apple.com-us-album-shekarchi-feat-salome-mc-single-1862501290-2a0c34c2ff
+      quote: '"datePublished":"2025-12-26"'
+      accessed: '2026-11-13'
+      locator: Album JSON-LD, datePublished
+  listen link:
+  - value: https://music.apple.com/us/album/shekarchi-feat-salome-mc-single/1862501290
+    references:
+    - *id001
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6c/0d/27/6c0d27a5-63f1-f063-b7ec-6ed4d1424ff2/199811550504_cover.jpg/1200x630bb.jpg
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-shekarchi-feat-salome-mc-single-1862501290-2a0c34c2ff
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6c/0d/27/6c0d27a5-63f1-f063-b7ec-6ed4d1424ff2/199811550504_cover.jpg/1200x630bb.jpg
+      accessed: '2026-11-13'
+      locator: Album JSON-LD, image

@@ -1,0 +1,43 @@
+id: Q9dvge7
+type: release
+statements:
+  name:
+  - value:
+      text: Yassah
+      language: en
+    references:
+    - &id001
+      source: music.apple.com-us-album-yassah-single-6793989364-dd40a9f508
+      quote: 'Listen to Yassah - Single by Emdjz & Salome MC on Apple Music. 2026. 1 Song. Duration: 2 minutes.'
+      accessed: '2026-11-13'
+      locator: Apple Music release description
+  performer:
+  - value: Qtkjv7c
+    references:
+    - *id001
+  - value: Qd3ypxs
+    references:
+    - *id001
+  release date:
+  - value:
+      date: '2026-07-29'
+    references:
+    - source: music.apple.com-us-album-yassah-single-6793989364-dd40a9f508
+      quote: '"datePublished":"2026-07-29"'
+      accessed: '2026-11-13'
+      locator: Album JSON-LD, datePublished
+  listen link:
+  - value: https://music.apple.com/us/album/yassah-single/6793989364
+    references:
+    - *id001
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bb/aa/ef/bbaaef11-ad14-1e9a-cb4e-9fa79a60dbd3/885975212333_cover.jpg/1200x630bb.jpg
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-yassah-single-6793989364-dd40a9f508
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bb/aa/ef/bbaaef11-ad14-1e9a-cb4e-9fa79a60dbd3/885975212333_cover.jpg/1200x630bb.jpg
+      accessed: '2026-11-13'
+      locator: Album JSON-LD, image

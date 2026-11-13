@@ -1,0 +1,45 @@
+id: Q9jmrky
+type: release
+statements:
+  name:
+  - value:
+      text: Riddle
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-splahfyjqxg-b6a72ff103
+      quote: Salome MC - Riddle | معما
+      accessed: '2026-11-13'
+      locator: Artist video title
+  - value:
+      text: معما
+      language: fa
+    references:
+    - *id001
+  performer:
+  - value: Qd3ypxs
+    references:
+    - *id001
+  listen link:
+  - value: https://www.youtube.com/watch?v=SplAHfyJqxg
+    references:
+    - *id001
+  release date:
+  - value:
+      date: '2018-08-22'
+    references:
+    - source: www.youtube.com-watch-v-splahfyjqxg-b6a72ff103
+      quote: '2018-08-22T19:24:45-07:00'
+      accessed: '2026-11-13'
+      locator: Video publication timestamp, local calendar date
+  cover art:
+  - value: https://i.ytimg.com/vi/SplAHfyJqxg/maxresdefault.jpg
+    qualifiers:
+      credit:
+        text: Salome MC on YouTube
+        language: en
+    references:
+    - source: www.youtube.com-watch-v-splahfyjqxg-b6a72ff103
+      quote: https://i.ytimg.com/vi/SplAHfyJqxg/maxresdefault.jpg
+      accessed: '2026-11-13'
+      locator: Video artwork

@@ -1,0 +1,54 @@
+id: Qehpzhz
+type: release
+statements:
+  name:
+  - value:
+      text: Delirium
+      language: en
+    references:
+    - &id001
+      source: music.apple.com-us-album-delirium-1517050969-773e5c15b7
+      quote: 'Listen to Delirium by Salome MC on Apple Music. 2006. 11 Songs. Duration: 35 minutes.'
+      accessed: '2026-11-13'
+      locator: Apple Music release description
+  - value:
+      text: هذیان
+      language: fa
+    references:
+    - source: soundcloud.com-salomemcee-delirium-remix-099fa16ce1
+      quote: Delirium | هذیان
+      accessed: '2026-11-13'
+      locator: Artist credits
+  performer:
+  - value: Qd3ypxs
+    references:
+    - *id001
+  - value: Qqjeabr
+    references:
+    - source: soundcloud.com-salomemcee-delirium-remix-099fa16ce1
+      quote: From Salome Mc's 1st album Delirium | هذیان Featuring Shirali
+      accessed: '2026-11-13'
+      locator: Artist’s upload description
+  release date:
+  - value:
+      date: '2006-05-01'
+    references:
+    - source: music.apple.com-us-album-delirium-1517050969-773e5c15b7
+      quote: '"datePublished":"2006-05-01"'
+      accessed: '2026-11-13'
+      locator: Album JSON-LD, datePublished
+  listen link:
+  - value: https://music.apple.com/us/album/delirium/1517050969
+    references:
+    - *id001
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/25/6a/96/256a9610-a8db-ae8c-d9ca-5f3fba00587b/053000897989_cover.jpg/1200x630bb.jpg
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-delirium-1517050969-773e5c15b7
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/25/6a/96/256a9610-a8db-ae8c-d9ca-5f3fba00587b/053000897989_cover.jpg/1200x630bb.jpg
+      accessed: '2026-11-13'
+      locator: Album JSON-LD, image

@@ -7,14 +7,101 @@ statements:
       language: en
     references:
     - source: beehy.pe-king-raam-day-will-come-iran-acbb869b26bd
-      quote: |-
-        The frontman of New York-based post-punk band Hypernova, which was born in the undergrounds of Tehran in the early 2000’s, embarked on his solo career as “King Raam” in 2011 by releasing “Songs of the Wolves” and changing his style into a softer acoustic rock.
+      quote: The frontman of New York-based post-punk band Hypernova, which was born in the undergrounds of Tehran in the early 2000’s, embarked on his solo career as “King Raam” in 2011 by releasing “Songs of the Wolves” and changing his style into a softer acoustic rock.
       accessed: '2026-10-19'
   - value:
       text: هایپرنوا
       language: fa
     references:
     - source: www.sbs.com.au-language-persian-fa-podcast-episode-king-raam-interview-k8tn3qcyl-d8f4c6fd81a4
-      quote: |-
-        او که بیشتر از آهنگ‌ساز خود را «داستان‌گو» معرفی می‌کند، فعالیت خودش را در سال ۲۰۰۰ در گروهی به اسم هایپرنوا شروع کرد، از ایران خارج شد و با اسم «کینگ رام» دوباره به ایران برگشت.
+      quote: او که بیشتر از آهنگ‌ساز خود را «داستان‌گو» معرفی می‌کند، فعالیت خودش را در سال ۲۰۰۰ در گروهی به اسم هایپرنوا شروع کرد، از ایران خارج شد و با اسم «کینگ رام» دوباره به ایران برگشت.
       accessed: '2026-10-19'
+  profile link:
+  - value: https://hypernova.bandcamp.com/
+    references:
+    - source: hypernova.bandcamp.com-4a888eb94d
+      quote: Exit Strategy EP | Hypernova
+      accessed: '2026-11-13'
+      locator: Artist profile title
+  life event:
+  - value:
+      text: Me and Kami met each other at a military camp.
+      language: en
+    references:
+    - source: globalcomment.com-from-iran-to-the-open-road-hypernova-on-seducing-the-states
+      quote: We got together back in the year 2000. Me and Kami met each other at a military camp. We both loved rock and roll and wanted to start a band.
+      accessed: '2026-11-13'
+      locator: First question, Raam answer
+    qualifiers:
+      point in time:
+        date: '2000'
+  - value:
+      text: Just underground parties in villas out of town.
+      language: en
+    references:
+    - source: globalcomment.com-from-iran-to-the-open-road-hypernova-on-seducing-the-states
+      quote: Just underground parties in villas out of town.
+      accessed: '2026-11-13'
+      locator: Question «When you guys first got started where were you able to play?», answer
+  - value:
+      text: the band only came to the United States in March of 2007
+      language: en
+    references:
+    - source: www.paaia.org-cms-hypernova-thanks-paaia
+      quote: the band only came to the United States in March of 2007 after years of playing in the underground music scene in Tehran.
+      accessed: '2026-11-13'
+      locator: Dated dispatch, second sentence
+    qualifiers:
+      point in time:
+        date: '2007'
+  - value:
+      text: we lived in LA for a while, and then we moved to New York.
+      language: en
+    references:
+    - source: globalcomment.com-from-iran-to-the-open-road-hypernova-on-seducing-the-states
+      quote: Well, we lived in LA for a while, and then we moved to New York. Now we live in Brooklyn but we’re always on the road.
+      accessed: '2026-11-13'
+      locator: Question «Where are you based now?», answer opening
+  - value:
+      text: We also did a tour with the Sisters of Mercy.
+      language: en
+    references:
+    - source: globalcomment.com-from-iran-to-the-open-road-hypernova-on-seducing-the-states
+      quote: We also did a tour with the Sisters of Mercy.
+      accessed: '2026-11-13'
+      locator: Question about biggest crowd, Raam answer ending
+  - value:
+      text: three of the band members were told that their clearance to return to the U.S. had not come through.
+      language: en
+    references:
+    - source: www.paaia.org-cms-hypernova-thanks-paaia
+      quote: a number of performances in Canada earlier this year found a bitter ending when three of the band members were told that their clearance to return to the U.S. had not come through.
+      accessed: '2026-11-13'
+      locator: First paragraph after dispatch
+    qualifiers:
+      point in time:
+        date: '2010'
+  image:
+  - value: https://upload.wikimedia.org/wikipedia/commons/d/df/Hypernova_band_members.jpg
+    qualifiers:
+      credit:
+        text: Hyperlove, via Wikimedia Commons
+        language: en
+      license: https://creativecommons.org/licenses/by-sa/3.0
+    references:
+    - source: commons.wikimedia.org-wiki-file-hypernova-band-members.jpg-3b644d0ac3
+      quote: 'from left to right: Jam, Kami, Kodi, King Raam'
+      accessed: '2026-11-13'
+      locator: Photograph description
+    - source: commons.wikimedia.org-wiki-file-hypernova-band-members.jpg-3b644d0ac3
+      quote: https://upload.wikimedia.org/wikipedia/commons/d/df/Hypernova_band_members.jpg
+      accessed: '2026-11-13'
+      locator: Original file
+    - source: commons.wikimedia.org-wiki-file-hypernova-band-members.jpg-3b644d0ac3
+      quote: Hyperlove
+      accessed: '2026-11-13'
+      locator: Credited photographer
+    - source: commons.wikimedia.org-wiki-file-hypernova-band-members.jpg-3b644d0ac3
+      quote: https://creativecommons.org/licenses/by-sa/3.0
+      accessed: '2026-11-13'
+      locator: Photograph licence

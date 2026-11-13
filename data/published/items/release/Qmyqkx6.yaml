@@ -7,50 +7,83 @@ statements:
       language: en
     references:
     - source: music.apple.com-us-album-sokoote-sard-cold-silence-285488711-52e1ccc23e8d
-      quote: |-
-        Listen to Sokoote Sard (Cold Silence) by Kaveh Yaghmaei on Apple Music. 2008. 8 Songs. Duration: 32 minutes.
-      accessed: '2026-10-20'
-  performer:
-  - value: Qcbarbs
-    references:
-    - source: music.apple.com-us-album-sokoote-sard-cold-silence-285488711-52e1ccc23e8d
-      quote: |-
-        Listen to Sokoote Sard (Cold Silence) by Kaveh Yaghmaei on Apple Music. 2008. 8 Songs. Duration: 32 minutes.
-      accessed: '2026-10-20'
-    - source: music.apple.com-us-album-sokoote-sard-cold-silence-285488711-52e1ccc23e8d
-      quote: |-
-        Kaveh Yaghmaei
+      quote: 'Listen to Sokoote Sard (Cold Silence) by Kaveh Yaghmaei on Apple Music. 2008. 8 Songs. Duration: 32
+        minutes.'
       accessed: '2026-10-20'
   release date:
   - value:
       date: '2008-07-08'
     references:
     - source: music.apple.com-us-album-sokoote-sard-cold-silence-285488711-52e1ccc23e8d
-      quote: |-
-        2008-07-08
+      quote: '2008-07-08'
+      accessed: '2026-10-20'
+  performer:
+  - value: Qcbarbs
+    references:
+    - source: music.apple.com-us-album-sokoote-sard-cold-silence-285488711-52e1ccc23e8d
+      quote: 'Listen to Sokoote Sard (Cold Silence) by Kaveh Yaghmaei on Apple Music. 2008. 8 Songs. Duration: 32
+        minutes.'
+      accessed: '2026-10-20'
+    - source: music.apple.com-us-album-sokoote-sard-cold-silence-285488711-52e1ccc23e8d
+      quote: Kaveh Yaghmaei
+      accessed: '2026-10-20'
+  contributor:
+  - value: Qcbarbs
+    qualifiers:
+      role: composer
+    references:
+    - source: azghandi.net-pileha-psh6-k.yaghmaei6.htm-0f86fc21521d
+      quote: تمام ترانه ها از روزبه بمانی بود به جز ترانه ی جاده که کار وحید میر احمد بود و موسیقی کار خودم بود.
+      accessed: '2026-11-13'
+  - value: Qgbgtrz
+    qualifiers:
+      role: lyricist
+    references:
+    - source: azghandi.net-pileha-psh6-k.yaghmaei6.htm-0f86fc21521d
+      quote: تمام ترانه ها از روزبه بمانی بود به جز ترانه ی جاده که کار وحید میر احمد بود و موسیقی کار خودم بود.
+      accessed: '2026-11-13'
+  - value: Q2w9cmd
+    qualifiers:
+      role: lyricist
+    references:
+    - source: azghandi.net-pileha-psh6-k.yaghmaei6.htm-0f86fc21521d
+      quote: تمام ترانه ها از روزبه بمانی بود به جز ترانه ی جاده که کار وحید میر احمد بود و موسیقی کار خودم بود.
+      accessed: '2026-11-13'
+  published by:
+  - value: Qxrv9jv
+    references:
+    - source: music.apple.com-us-album-sokoote-sard-cold-silence-285488711-52e1ccc23e8d
+      quote: ℗ 2008 Taraneh Enterprises Inc
       accessed: '2026-10-20'
   listen link:
   - value: https://music.apple.com/us/album/sokoote-sard-cold-silence/285488711
     references:
     - source: music.apple.com-us-album-sokoote-sard-cold-silence-285488711-52e1ccc23e8d
-      quote: |-
-        Listen to Sokoote Sard (Cold Silence) by Kaveh Yaghmaei on Apple Music. 2008. 8 Songs. Duration: 32 minutes.
+      quote: 'Listen to Sokoote Sard (Cold Silence) by Kaveh Yaghmaei on Apple Music. 2008. 8 Songs. Duration: 32
+        minutes.'
       accessed: '2026-10-20'
+  - value: https://www.youtube.com/playlist?list=OLAK5uy_ks2Os-X-mlvR1kUs7fIMrmgqJrK9VJgJo
+    references:
+    - source: www.youtube.com-playlist-list-olak5uy_ks2os-x-mlvr1kus7fimrmgqjrk9vjgjo
+      quote: Sokoote Sard(Cold Silence)
+      accessed: '2026-11-13'
+  - value: https://open.spotify.com/album/1PPltKFarVNomtbeW8rbZt
+    references:
+    - source: open.spotify.com-album-1ppltkfarvnomtbew8rbzt-43cb228fee
+      quote: '"name":"Sokoote Sard(Cold Silence)"'
+      accessed: '2026-11-13'
+      locator: Spotify album title; full programme compared with the other cited edition
+    - source: open.spotify.com-album-1ppltkfarvnomtbew8rbzt-43cb228fee
+      quote: '"title":"Avalin Harf"'
+      accessed: '2026-11-13'
+      locator: First track of the programme
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d5/19/54/d5195404-858c-11e1-00d3-a88f253dc46c/mzi.lzgwzzpl.jpg/1200x630bb.jpg
     references:
     - source: music.apple.com-us-album-sokoote-sard-cold-silence-285488711-52e1ccc23e8d
-      quote: |-
-        https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d5/19/54/d5195404-858c-11e1-00d3-a88f253dc46c/mzi.lzgwzzpl.jpg/1200x630bb.jpg
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d5/19/54/d5195404-858c-11e1-00d3-a88f253dc46c/mzi.lzgwzzpl.jpg/1200x630bb.jpg
       accessed: '2026-10-20'
     qualifiers:
       credit:
         text: Apple Music
         language: en
-  published by:
-  - value: Qxrv9jv
-    references:
-    - source: music.apple.com-us-album-sokoote-sard-cold-silence-285488711-52e1ccc23e8d
-      quote: |-
-        ℗ 2008 Taraneh Enterprises Inc
-      accessed: '2026-10-20'

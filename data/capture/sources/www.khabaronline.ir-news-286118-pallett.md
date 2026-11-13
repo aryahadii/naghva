@@ -13,3 +13,5 @@ status: processed
 > ما باهم جمع می‌شویم و سر یک ملودی باهم توافق می‌کنیم، موزیکی را باهم می‌سازیم بعضی اوقات کاوه صالحی یک ملودی می‌آورد، امید نعمتی یک شعر می‌آورد و با هم آن را پرورش می‌دهیم.
 
 > بیشتر من انتخاب می‌کنم، ولی همه باید موافق باشند. این طور نیست که شعری انتخاب کنم که بعضی‌هایمان از آن متنفر باشند. اصولا درباره همه چیز باید توافق داشته باشیم، ولی نمی‌دانم چرا به توافق می‌رسیم.
+
+Interview reread2026-11-13 at the original encoded URL: opening question about making Mr.Violet; answer by bassist Darius Azar. The title and date identify the first-album discussion23Farvardin1392. No individual song is assigned to Salehi from the general account.

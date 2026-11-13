@@ -1,0 +1,81 @@
+id: Qrd6a8w
+type: release
+statements:
+  name:
+  - value:
+      text: Havaye Taze - Single
+      language: en
+    references:
+    - source: music.apple.com-us-album-havaye-taze-single-1773839095
+      quote: Havaye Taze - Single
+      accessed: '2026-11-13'
+  release date:
+  - value:
+      date: '2024-10-13'
+    references:
+    - source: music.apple.com-us-album-havaye-taze-single-1773839095
+      quote: '"datePublished":"2024-10-13"'
+      accessed: '2026-11-13'
+  performer:
+  - value: Qcbarbs
+    qualifiers:
+      role:
+      - vocals
+      - guitar
+    references:
+    - source: www.youtube.com-watch-v-94xrwi81zao
+      quote: Kaveh Yaghmaei - Vocals, Guitars
+      accessed: '2026-11-13'
+    - source: music.apple.com-us-album-havaye-taze-single-1773839095
+      quote: '[{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/kaveh-yaghmaei/160760940","name":"Kaveh
+        Yaghmaei"}]'
+      accessed: '2026-11-13'
+  - value: Qzxrktx
+    qualifiers:
+      role: keyboards
+    references:
+    - source: www.youtube.com-watch-v-94xrwi81zao
+      quote: Niloofar Farzandshad - Keyboards
+      accessed: '2026-11-13'
+  - value: Q2hgs6a
+    qualifiers:
+      role: drums
+    references:
+    - source: www.youtube.com-watch-v-94xrwi81zao
+      quote: Shane Gaalaas - Drums
+      accessed: '2026-11-13'
+  - value: Qwkrjgt
+    qualifiers:
+      role: guitar
+    references:
+    - source: www.youtube.com-watch-v-94xrwi81zao
+      quote: Ammariot - Guitars
+      accessed: '2026-11-13'
+  - value: Qk949z8
+    qualifiers:
+      role: bass
+    references:
+    - source: www.youtube.com-watch-v-94xrwi81zao
+      quote: Colin Sankey - Bass
+      accessed: '2026-11-13'
+  listen link:
+  - value: https://music.apple.com/us/album/havaye-taze-single/1773839095
+    references:
+    - source: music.apple.com-us-album-havaye-taze-single-1773839095
+      quote: Havaye Taze - Single
+      accessed: '2026-11-13'
+  - value: https://www.youtube.com/watch?v=94Xrwi81ZAo
+    references:
+    - source: www.youtube.com-watch-v-94xrwi81zao
+      quote: Havaye Tazeh
+      accessed: '2026-11-13'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f5/82/7e/f5827e91-9250-ce89-9cd8-88457141a72e/198846670614.jpg/1200x1200bb.jpg
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-havaye-taze-single-1773839095
+      quote: Havaye Taze - Single
+      accessed: '2026-11-13'

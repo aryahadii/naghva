@@ -7,16 +7,14 @@ statements:
       language: en
     references:
     - source: en.wikipedia.org-wiki-salome_mc-035d1c813da0
-      quote: |-
-        Salome MC (Persian: سالومه ام‌سی; born 1985) is an Iranian rapper, producer,
+      quote: 'Salome MC (Persian: سالومه ام‌سی; born 1985) is an Iranian rapper, producer,'
       accessed: '2026-10-19'
   - value:
       text: سالومه ام‌سی
       language: fa
     references:
     - source: en.wikipedia.org-wiki-salome_mc-035d1c813da0
-      quote: |-
-        Salome MC (Persian: سالومه ام‌سی; born 1985) is an Iranian rapper, producer,
+      quote: 'Salome MC (Persian: سالومه ام‌سی; born 1985) is an Iranian rapper, producer,'
       accessed: '2026-10-19'
   image:
   - value: https://f4.bcbits.com/img/0027604350_21.jpg
@@ -44,3 +42,111 @@ statements:
     - source: salome-mc.bandcamp.com
       quote: Music | Salome Mc
       accessed: '2026-10-19'
+  - value: https://music.apple.com/us/artist/salome-mc/628588444
+    references:
+    - source: music.apple.com-us-artist-salome-mc-628588444-44e7c9e326
+      quote: Salome MC - Apple Music
+      accessed: '2026-11-13'
+      locator: Artist profile title
+  - value: https://soundcloud.com/salomemcee
+    references:
+    - source: soundcloud.com-salomemcee-5205a29d10
+      quote: Stream Salome MC music | Listen to songs, albums, playlists for free on SoundCloud
+      accessed: '2026-11-13'
+      locator: Artist profile title
+  - value: https://open.spotify.com/artist/4ff0hpX7GcpWwcyoSlcJL7
+    references:
+    - source: open.spotify.com-artist-4ff0hpx7gcpwwcyoslcjl7-681d02dd5c
+      quote: '"name":"Salome MC"'
+      accessed: '2026-11-13'
+      locator: Spotify artist profile
+  life event:
+  - value:
+      text: When I started rapping in early 2000s
+      language: en
+    references:
+    - source: www.curiositymag.com-2018-09-21-salome-mc-female-rapper-iran-395eb03220b5
+      quote: When I started rapping in early 2000s, yes, I was the first woman in Iran to do so, but here’s the thing; there were a handful of people who were doing it in the first place, regardless of gender.
+      accessed: '2026-11-13'
+      locator: First question, answer paragraphs 1 and 3
+  - value:
+      text: In 2010 Salome moved to Japan after being awarded the MEXT scholarship
+      language: en
+    references:
+    - &id001
+      source: artisttrust.org-artists-salome-mc
+      quote: In 2010 Salome moved to Japan after being awarded the MEXT scholarship, where she received an M.A. in audiovisual arts at Tohoku University of Arts and Design; Salome then expanded her storytelling mediums by combining music, performance art and audiovisual installations.
+      accessed: '2026-11-13'
+      locator: About, paragraph 1
+    qualifiers:
+      point in time:
+        date: '2010'
+  - value:
+      text: she received an M.A. in audiovisual arts at Tohoku University of Arts and Design
+      language: en
+    references:
+    - *id001
+  - value:
+      text: Together with Japanese-American rapper Shing02 she produced the Track «Passenger».
+      language: en
+    references:
+    - source: norient.com-stories-salome-mc-a-quiet-storm
+      quote: Together with Japanese-American rapper Shing02 she produced the Track «Passenger».
+      accessed: '2026-11-13'
+      locator: Introduction
+    - source: norient.com-stories-salome-mc-a-quiet-storm
+      quote: a worldwide recording project by Norient and Sound Development in Summer 2015.
+      accessed: '2026-11-13'
+      locator: Introduction
+    qualifiers:
+      point in time:
+        date: '2015'
+  - value:
+      text: In 2016, Salome immigrated to Washington State
+      language: en
+    references:
+    - source: artisttrust.org-artists-salome-mc
+      quote: In 2016, Salome immigrated to Washington State where she continues to make art
+      accessed: '2026-11-13'
+      locator: About, paragraph 2
+    qualifiers:
+      point in time:
+        date: '2016'
+  - value:
+      text: “HipHop without Borders” is a youth workshop that I established in 2018
+      language: en
+    references:
+    - source: www.salomemc.com-beyond
+      quote: “HipHop without Borders” is a youth workshop that I established in 2018 after moving to the U.S. as a new immigrant. Originally planned for the visually impaired kids and then expanded to ESL students
+      accessed: '2026-11-13'
+      locator: HipHop without Borders paragraph
+    qualifiers:
+      point in time:
+        date: '2018'
+  - value:
+      text: آهنگ «۳» را برای اولین بار در سایت بیدارزنی که جای ایمنی برای همه مادرها و فرزندان مادرهاست به اشتراک می‌گذارم.
+      language: fa
+    references:
+    - source: bidarzani.com-29300
+      quote: آهنگ «۳» را برای اولین بار در سایت بیدارزنی که جای ایمنی برای همه مادرها و فرزندان مادرهاست به اشتراک می‌گذارم. این آهنگ احساسات اضطراب و بیگانگی سه ماه اول بعد از زایمان را بیان می‌کند.
+      accessed: '2026-11-13'
+      locator: Last paragraph before song credits
+  - value:
+      text: 'Seven Climes (Original: هفت اقلیم) is non-profit collaborative music project I started during Covid-19 lockdowns while I was living in Seattle.'
+      language: en
+    references:
+    - source: www.salomemc.com-beyond
+      quote: 'Seven Climes (Original: هفت اقلیم) is non-profit collaborative music project I started during Covid-19 lockdowns while I was living in Seattle. It aims to celebrate the cultural and lingual diversity that exist within the various ethnic groups from the Middle East, amplifying the voices of the marginalized youth and showcasing the power of hiphop as a tool for preserving languages and oral history.'
+      accessed: '2026-11-13'
+      locator: Opening paragraph
+  - value:
+      text: As I moved to Austin in 2023 with my family
+      language: en
+    references:
+    - source: www.salomemc.com-beyond
+      quote: As I moved to Austin in 2023 with my family, the Teasturbed project in its Seattle form ceased to exist
+      accessed: '2026-11-13'
+      locator: Teasturbed paragraph
+    qualifiers:
+      point in time:
+        date: '2023'

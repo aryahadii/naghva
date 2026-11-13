@@ -1,0 +1,41 @@
+id: Qhbrqt9
+type: release
+statements:
+  name:
+  - value:
+      text: Paranoid Descent
+      language: en
+    references:
+    - &id001
+      source: open.spotify.com-album-3uoanawakqrpnlskrydbeh-fc8afa764b
+      quote: Paranoid Descent
+      accessed: '2026-11-13'
+      locator: Album title
+  performer:
+  - value: Qd3ypxs
+    references:
+    - &id002
+      source: noveladventurers.blogspot.com-2011-10-hip-hop-with-persian-accent.html-0c3e1c8a73
+      quote: a 2010 album called Paranoid Descent
+      accessed: '2026-11-13'
+      locator: Contemporary profile
+  listen link:
+  - value: https://open.spotify.com/album/3uOaNawakQrpnlsKrYdbEh
+    references:
+    - *id001
+  release date:
+  - value:
+      date: '2010'
+    references:
+    - *id002
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d0000b273f005b0c61b21d893d2a54395
+    qualifiers:
+      credit:
+        text: Spotify
+        language: en
+    references:
+    - source: open.spotify.com-album-3uoanawakqrpnlskrydbeh-fc8afa764b
+      quote: https://i.scdn.co/image/ab67616d0000b273f005b0c61b21d893d2a54395
+      accessed: '2026-11-13'
+      locator: Album cover

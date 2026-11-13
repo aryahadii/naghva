@@ -7,56 +7,61 @@ statements:
       language: en
     references:
     - source: music.apple.com-us-album-darkness-1562971884-f1031aa7cc37
-      quote: |-
-        Listen to Darkness by Hadi Pakzad & Masoud Fayyazzadeh on Apple Music. 2015. 14 Songs. Duration: 1 hour 12 minutes.
-      accessed: '2026-10-20'
-  performer:
-  - value: Qjnkat7
-    references:
-    - source: music.apple.com-us-album-darkness-1562971884-f1031aa7cc37
-      quote: |-
-        Listen to Darkness by Hadi Pakzad & Masoud Fayyazzadeh on Apple Music. 2015. 14 Songs. Duration: 1 hour 12 minutes.
-      accessed: '2026-10-20'
-    - source: music.apple.com-us-album-darkness-1562971884-f1031aa7cc37
-      quote: |-
-        Hadi Pakzad, Masoud Fayyazzadeh
-      accessed: '2026-10-20'
-  - value: Qswfnvf
-    references:
-    - source: music.apple.com-us-album-darkness-1562971884-f1031aa7cc37
-      quote: |-
-        Hadi Pakzad, Masoud Fayyazzadeh
+      quote: 'Listen to Darkness by Hadi Pakzad & Masoud Fayyazzadeh on Apple Music. 2015. 14 Songs. Duration: 1
+        hour 12 minutes.'
       accessed: '2026-10-20'
   release date:
   - value:
       date: '2015-11-15'
     references:
     - source: music.apple.com-us-album-darkness-1562971884-f1031aa7cc37
-      quote: |-
-        2015-11-15
+      quote: '2015-11-15'
+      accessed: '2026-10-20'
+  performer:
+  - value: Qjnkat7
+    references:
+    - source: music.apple.com-us-album-darkness-1562971884-f1031aa7cc37
+      quote: 'Listen to Darkness by Hadi Pakzad & Masoud Fayyazzadeh on Apple Music. 2015. 14 Songs. Duration: 1
+        hour 12 minutes.'
+      accessed: '2026-10-20'
+    - source: music.apple.com-us-album-darkness-1562971884-f1031aa7cc37
+      quote: Hadi Pakzad, Masoud Fayyazzadeh
+      accessed: '2026-10-20'
+  - value: Qswfnvf
+    references:
+    - source: music.apple.com-us-album-darkness-1562971884-f1031aa7cc37
+      quote: Hadi Pakzad, Masoud Fayyazzadeh
+      accessed: '2026-10-20'
+  published by:
+  - value: Qkmvbxz
+    references:
+    - source: music.apple.com-us-album-darkness-1562971884-f1031aa7cc37
+      quote: ℗ 2015 Raha Records
       accessed: '2026-10-20'
   listen link:
   - value: https://music.apple.com/us/album/darkness/1562971884
     references:
     - source: music.apple.com-us-album-darkness-1562971884-f1031aa7cc37
-      quote: |-
-        Listen to Darkness by Hadi Pakzad & Masoud Fayyazzadeh on Apple Music. 2015. 14 Songs. Duration: 1 hour 12 minutes.
+      quote: 'Listen to Darkness by Hadi Pakzad & Masoud Fayyazzadeh on Apple Music. 2015. 14 Songs. Duration: 1
+        hour 12 minutes.'
       accessed: '2026-10-20'
+  - value: https://open.spotify.com/album/0DuoIIlUPrYK2n1aHmKdKk
+    references:
+    - source: open.spotify.com-album-0duoiilupryk2n1ahmkdkk-171cd79b4b
+      quote: '"name":"Darkness"'
+      accessed: '2026-11-13'
+      locator: Spotify album title; full programme compared with the other cited edition
+    - source: open.spotify.com-album-0duoiilupryk2n1ahmkdkk-171cd79b4b
+      quote: '"title":"O Negative"'
+      accessed: '2026-11-13'
+      locator: First track of the programme
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d3/60/46/d36046c8-d5e9-d847-fce1-6aa66ec47437/196006441104.jpg/1200x630bb.jpg
     references:
     - source: music.apple.com-us-album-darkness-1562971884-f1031aa7cc37
-      quote: |-
-        https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d3/60/46/d36046c8-d5e9-d847-fce1-6aa66ec47437/196006441104.jpg/1200x630bb.jpg
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d3/60/46/d36046c8-d5e9-d847-fce1-6aa66ec47437/196006441104.jpg/1200x630bb.jpg
       accessed: '2026-10-20'
     qualifiers:
       credit:
         text: Apple Music
         language: en
-  published by:
-  - value: Qkmvbxz
-    references:
-    - source: music.apple.com-us-album-darkness-1562971884-f1031aa7cc37
-      quote: |-
-        ℗ 2015 Raha Records
-      accessed: '2026-10-20'

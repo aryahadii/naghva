@@ -1,0 +1,52 @@
+id: Qrxgt67
+type: release
+statements:
+  name:
+  - value:
+      text: Suddenly Gone
+      language: en
+    references:
+    - source: music.apple.com-us-album-suddenly-gone-1758139833
+      quote: Suddenly Gone
+      accessed: '2026-11-13'
+  release date:
+  - value:
+      date: '2024-07-16'
+    references:
+    - source: music.apple.com-us-album-suddenly-gone-1758139833
+      quote: '"datePublished":"2024-07-16"'
+      accessed: '2026-11-13'
+  performer:
+  - value: Q3d5eqz
+    references:
+    - source: music.apple.com-us-album-suddenly-gone-1758139833
+      quote: '[{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/hooman-ghafouri/1561454498","name":"Hooman Ghafouri"},{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/kaveh-yaghmaei/160760940","name":"Kaveh
+        Yaghmaei"}]'
+      accessed: '2026-11-13'
+  - value: Qcbarbs
+    references:
+    - source: music.apple.com-us-album-suddenly-gone-1758139833
+      quote: '[{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/hooman-ghafouri/1561454498","name":"Hooman Ghafouri"},{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/kaveh-yaghmaei/160760940","name":"Kaveh
+        Yaghmaei"}]'
+      accessed: '2026-11-13'
+  listen link:
+  - value: https://music.apple.com/us/album/suddenly-gone/1758139833
+    references:
+    - source: music.apple.com-us-album-suddenly-gone-1758139833
+      quote: Suddenly Gone
+      accessed: '2026-11-13'
+  - value: https://www.youtube.com/playlist?list=OLAK5uy_mzTnqvRH3U1tOZgnVPz5E8QyIi99K-c0s
+    references:
+    - source: www.youtube.com-playlist-list-olak5uy_mztnqvrh3u1tozgnvpz5e8qyii99k-c0s
+      quote: Nagahan Rafte
+      accessed: '2026-11-13'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3b/26/72/3b2672bd-0598-b7fe-25c2-6393005fa6a4/198588389140.jpg/1200x1200bb.jpg
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-suddenly-gone-1758139833
+      quote: Suddenly Gone
+      accessed: '2026-11-13'

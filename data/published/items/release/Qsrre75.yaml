@@ -1,0 +1,86 @@
+id: Qsrre75
+type: release
+statements:
+  name:
+  - value:
+      text: Wasteland
+      language: en
+    references:
+    - &id001
+      source: open.spotify.com-track-6wowhjcwoqb9hayvpotu01-7bedd88965
+      quote: '"name":"Wasteland"'
+      accessed: '2026-11-13'
+      locator: Spotify player, recording title
+  performer:
+  - value: Qzrjpgg
+    references:
+    - source: open.spotify.com-track-6wowhjcwoqb9hayvpotu01-7bedd88965
+      quote: '"name":"Konceptualizer"'
+      accessed: '2026-11-13'
+      locator: Spotify player, track artist
+  - value: Qd3ypxs
+    references:
+    - source: open.spotify.com-track-6wowhjcwoqb9hayvpotu01-7bedd88965
+      quote: '"name":"Salome MC"'
+      accessed: '2026-11-13'
+      locator: Spotify player, track artist
+  - value: Qveav8s
+    qualifiers:
+      role: vocals
+    references:
+    - source: konceptualizer.bandcamp.com-track-wasteland-fbe1b2bc2d
+      quote: Don Porcella - spoken word, vocals, lyrics, field recordings
+      accessed: '2026-11-13'
+      locator: Track credits
+  - value: Q4w4qgb
+    qualifiers:
+      role: bass
+    references:
+    - source: konceptualizer.bandcamp.com-track-wasteland-fbe1b2bc2d
+      quote: Patrick Dintino - acoustic bass guitar, samples, sound effects
+      accessed: '2026-11-13'
+      locator: Track credits
+  listen link:
+  - value: https://open.spotify.com/track/6WOwhjcWoqb9hAyVPOtU01
+    references:
+    - *id001
+  - value: https://konceptualizer.bandcamp.com/track/wasteland
+    references:
+    - source: konceptualizer.bandcamp.com-track-wasteland-fbe1b2bc2d
+      quote: Wasteland, by Konceptualizer, Salome MC
+      accessed: '2026-11-13'
+      locator: Track billing
+  - value: https://music.apple.com/us/song/wasteland-feat-salome-mc/1762938357
+    references:
+    - source: music.apple.com-us-song-wasteland-feat-salome-mc-1762938357-a4ed7f3652
+      quote: Wasteland (feat. Salome MC)
+      accessed: '2026-11-13'
+      locator: Apple Music song title
+  contributor:
+  - value: Qd3ypxs
+    qualifiers:
+      role: lyricist
+    references:
+    - source: konceptualizer.bandcamp.com-track-wasteland-fbe1b2bc2d
+      quote: Salome MC - vocals, lyrics, samples
+      accessed: '2026-11-13'
+      locator: Track credits
+  release date:
+  - value:
+      date: '2024-06-08'
+    references:
+    - source: konceptualizer.bandcamp.com-track-wasteland-fbe1b2bc2d
+      quote: released June 8, 2024
+      accessed: '2026-11-13'
+      locator: Bandcamp track from the album
+  cover art:
+  - value: https://f4.bcbits.com/img/a0202629858_5.jpg
+    qualifiers:
+      credit:
+        text: Don Porcella / Konceptualizer
+        language: en
+    references:
+    - source: konceptualizer.bandcamp.com-track-wasteland-fbe1b2bc2d
+      quote: https://f4.bcbits.com/img/a0202629858_5.jpg
+      accessed: '2026-11-13'
+      locator: Bandcamp album image

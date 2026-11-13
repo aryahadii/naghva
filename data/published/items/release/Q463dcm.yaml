@@ -1,0 +1,49 @@
+id: Q463dcm
+type: release
+statements:
+  name:
+  - value:
+      text: kabbalah.mp3
+      language: en
+    references:
+    - source: soundcloud.com-hadi-pakzad-kabbalah
+      quote: kabbalah.mp3
+      accessed: '2026-11-13'
+  performer:
+  - value: Qjnkat7
+    references:
+    - source: soundcloud.com-hadi-pakzad-kabbalah
+      quote: Hadi Pakzad
+      accessed: '2026-11-13'
+  contributor:
+  - value: Qjnkat7
+    qualifiers:
+      role: lyricist
+    references:
+    - source: soundcloud.com-hadi-pakzad-kabbalah
+      quote: کابالا نوشته هادی پاکزاد
+      accessed: '2026-11-13'
+  listen link:
+  - value: https://soundcloud.com/hadi-pakzad/kabbalah
+    references:
+    - source: soundcloud.com-hadi-pakzad-kabbalah
+      quote: kabbalah.mp3
+      accessed: '2026-11-13'
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-000157525748-02a6cu-t500x500.jpg
+    qualifiers:
+      credit:
+        text: Hadi Pakzad / SoundCloud
+        language: en
+    references:
+    - source: soundcloud.com-hadi-pakzad-kabbalah
+      quote: kabbalah.mp3
+      accessed: '2026-11-13'
+  release date:
+  - value:
+      date: '2016-04-11'
+    references:
+    - source: soundcloud.com-hadi-pakzad-kabbalah
+      quote: |-
+        "display_date":"2016-04-11T08:40:43Z"
+      accessed: '2026-11-13'

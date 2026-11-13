@@ -1,0 +1,104 @@
+id: Qefjwyq
+type: release
+statements:
+  name:
+  - value:
+      text: Narrante
+      language: en
+    references:
+    - &id001
+      source: music.apple.com-us-album-narrante-1444130926-9e313d095b
+      quote: 'Listen to Narrante by Golfam Khayam & Mona Matbou Riahi on Apple Music. 2016. 9 Songs. Duration: 55
+        minutes.'
+      accessed: '2026-11-13'
+      locator: Apple Music release description
+  performer:
+  - value: Qranggn
+    qualifiers:
+      role: guitar
+    references:
+    - source: ecmrecords.com-product-narrante-golfam-khayam-mona-matbou-riahi-2ad4c2ee30
+      quote: Golfam Khayam Guitar
+      accessed: '2026-11-13'
+      locator: Credits
+    - *id001
+  - value: Qyy9hf9
+    qualifiers:
+      role: clarinet
+    references:
+    - source: ecmrecords.com-product-narrante-golfam-khayam-mona-matbou-riahi-2ad4c2ee30
+      quote: Mona Matbou Riahi Clarinet
+      accessed: '2026-11-13'
+      locator: Credits
+    - *id001
+  release date:
+  - value:
+      date: '2016-05-20'
+    references:
+    - source: music.apple.com-us-album-narrante-1444130926-9e313d095b
+      quote: '"datePublished":"2016-05-20"'
+      accessed: '2026-11-13'
+      locator: Album JSON-LD, datePublished
+  listen link:
+  - value: https://music.apple.com/us/album/narrante/1444130926
+    references:
+    - *id001
+  - value: https://open.spotify.com/album/2Secgb9RNRqgd07clyMlGu
+    references:
+    - source: open.spotify.com-album-2secgb9rnrqgd07clymlgu-e3848c171b
+      quote: '"name":"Narrante"'
+      accessed: '2026-11-13'
+      locator: Spotify album title; full programme compared with the other cited edition
+    - source: open.spotify.com-album-2secgb9rnrqgd07clymlgu-e3848c171b
+      quote: '"title":"Testamento"'
+      accessed: '2026-11-13'
+      locator: First track of the programme
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/ed/f0/23/edf02320-23d9-80fd-088a-f6d09449f920/00602547794437.rgb.jpg/1200x630bb.jpg
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-narrante-1444130926-9e313d095b
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/ed/f0/23/edf02320-23d9-80fd-088a-f6d09449f920/00602547794437.rgb.jpg/1200x630bb.jpg
+      accessed: '2026-11-13'
+      locator: Album JSON-LD, image
+  contributor:
+  - value: Qxtbqae
+    qualifiers:
+      role: producer
+    references:
+    - source: ecmrecords.com-product-narrante-golfam-khayam-mona-matbou-riahi-2ad4c2ee30
+      quote: produced by Manfred Eicher and Ramin Sadighi.
+      accessed: '2026-11-13'
+      locator: Credits
+  - value: Qsdeh9x
+    qualifiers:
+      role: producer
+    references:
+    - source: ecmrecords.com-product-narrante-golfam-khayam-mona-matbou-riahi-2ad4c2ee30
+      quote: produced by Manfred Eicher and Ramin Sadighi.
+      accessed: '2026-11-13'
+      locator: Credits
+  - value: Qranggn
+    qualifiers:
+      role: composer
+    references:
+    - &id002
+      source: ecmrecords.com-product-narrante-golfam-khayam-mona-matbou-riahi-2ad4c2ee30
+      quote: Narrante (Golfam Khayam, Mona Matbou Riahi)
+      accessed: '2026-11-13'
+      locator: Track 7; the same composition billing appears on all nine tracks
+  - value: Qyy9hf9
+    qualifiers:
+      role: composer
+    references:
+    - *id002
+  published by:
+  - value: Qvhg2w2
+    references:
+    - source: ecmrecords.com-product-narrante-golfam-khayam-mona-matbou-riahi-2ad4c2ee30
+      quote: ECM 2475
+      accessed: '2026-11-13'
+      locator: Catalogue number

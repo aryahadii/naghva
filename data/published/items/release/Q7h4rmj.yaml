@@ -7,29 +7,49 @@ statements:
       language: en
     references:
     - source: salome-mc.bandcamp.com-album-excerpts-from-unhappy-consciousness-36f3507089a1
-      quote: |-
-        Excerpts From Unhappy Consciousness
+      quote: 'Excerpts From Unhappy Consciousness
+
         by
-        Salome Mc
+
+        Salome Mc'
       accessed: '2026-10-19'
   performer:
   - value: Qd3ypxs
     references:
     - source: salome-mc.bandcamp.com-album-excerpts-from-unhappy-consciousness-36f3507089a1
-      quote: |-
-        Excerpts From Unhappy Consciousness
+      quote: 'Excerpts From Unhappy Consciousness
+
         by
-        Salome Mc
+
+        Salome Mc'
       accessed: '2026-10-19'
   listen link:
   - value: https://salome-mc.bandcamp.com/album/excerpts-from-unhappy-consciousness
     references:
     - source: salome-mc.bandcamp.com-album-excerpts-from-unhappy-consciousness-36f3507089a1
-      quote: |-
-        Excerpts From Unhappy Consciousness
+      quote: 'Excerpts From Unhappy Consciousness
+
         by
-        Salome Mc
+
+        Salome Mc'
       accessed: '2026-10-19'
+  - value: https://music.apple.com/us/album/excerpts-from-unhappy-consciousness/1517710857
+    references:
+    - source: music.apple.com-us-album-excerpts-from-unhappy-consciousness-1517710857-2eae833051
+      quote: 'Listen to Excerpts From Unhappy Consciousness by Salome MC on Apple Music. 2017. 8 Songs. Duration:
+        28 minutes.'
+      accessed: '2026-11-13'
+      locator: Apple Music release description
+  - value: https://open.spotify.com/album/05V5bUi0zobLveAsgCRn3c
+    references:
+    - source: open.spotify.com-album-05v5bui0zoblveasgcrn3c-5f68cb9326
+      quote: '"name":"Excerpts From Unhappy Consciousness"'
+      accessed: '2026-11-13'
+      locator: Spotify album title; full programme compared with the other cited edition
+    - source: open.spotify.com-album-05v5bui0zoblveasgcrn3c-5f68cb9326
+      quote: '"title":"Phantasm"'
+      accessed: '2026-11-13'
+      locator: First track of the programme
   cover art:
   - value: https://f4.bcbits.com/img/a0242899362_5.jpg
     qualifiers:
@@ -38,10 +58,11 @@ statements:
         language: en
     references:
     - source: salome-mc.bandcamp.com-album-excerpts-from-unhappy-consciousness-36f3507089a1
-      quote: |-
-        Excerpts From Unhappy Consciousness
+      quote: 'Excerpts From Unhappy Consciousness
+
         by
-        Salome Mc
+
+        Salome Mc'
       accessed: '2026-10-19'
   release date:
   - value:
@@ -53,3 +74,27 @@ statements:
     - source: salome-mc.bandcamp.com-album-excerpts-from-unhappy-consciousness-36f3507089a1
       quote: released August 22, 2018
       accessed: '2026-10-19'
+  - value:
+      date: '2017-05-03'
+    references:
+    - source: music.apple.com-us-album-excerpts-from-unhappy-consciousness-1517710857-2eae833051
+      quote: '"datePublished":"2017-05-03"'
+      accessed: '2026-11-13'
+      locator: Album JSON-LD, datePublished
+  contributor:
+  - value: Qd3ypxs
+    qualifiers:
+      role: composer
+    references:
+    - source: salome-mc.bandcamp.com-album-excerpts-from-unhappy-consciousness-36f3507089a1
+      quote: All Songs Composed, Written and Performed by Salome MC
+      accessed: '2026-11-13'
+      locator: Credits
+  - value: Qd3ypxs
+    qualifiers:
+      role: lyricist
+    references:
+    - source: salome-mc.bandcamp.com-album-excerpts-from-unhappy-consciousness-36f3507089a1
+      quote: All Songs Composed, Written and Performed by Salome MC
+      accessed: '2026-11-13'
+      locator: Credits

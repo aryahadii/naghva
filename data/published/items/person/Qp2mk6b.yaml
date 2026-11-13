@@ -7,16 +7,21 @@ statements:
       language: en
     references:
     - source: www.kkv.no-en-music-mahsa-vahdat-mighty-sam-mcclain-2-29a895eda9fa
-      quote: |-
-        Mahsa Vahdat, Iran Mighty Sam McClain, USA
+      quote: Mahsa Vahdat, Iran Mighty Sam McClain, USA
       accessed: '2026-10-19'
+  - value:
+      text: مهسا وحدت
+      language: fa
+    references:
+    - source: iranwire.com-fa-blogs-2565-mahsa-vahdat
+      quote: مهسا وحدت
+      accessed: '2026-11-13'
   birth date:
   - value:
       date: '1973-10-29'
     references:
     - source: www.sixdegreesrecords.com-mahsa-vahdat-f242acafbe60
-      quote: |-
-        Mahsa was born October 29, 1973 in Tehran.
+      quote: Mahsa was born October 29, 1973 in Tehran.
       accessed: '2026-10-19'
   image:
   - value: https://upload.wikimedia.org/wikipedia/commons/4/4e/Persian_vocalist_Mahsa_Vahdat_2018.jpg
@@ -46,3 +51,122 @@ statements:
         text: Persian Dutch Network
         language: en
       license: https://creativecommons.org/licenses/by-sa/4.0
+  life event:
+  - value:
+      text: Since 1995 she has performed as an independent singer and musician
+      language: en
+    references:
+    - source: www.sixdegreesrecords.com-mahsa-vahdat-f242acafbe60
+      quote: Since 1995 she has performed as an independent singer and musician
+      accessed: '2026-10-19'
+    qualifiers:
+      point in time:
+        date: '1995'
+  - value:
+      text: Following her participation in the album Lullabies from the Axis of Evil (2004)
+      language: en
+    references:
+    - source: www.sixdegreesrecords.com-mahsa-vahdat-f242acafbe60
+      quote: Following her participation in the album Lullabies from the Axis of Evil (2004)
+      accessed: '2026-11-13'
+  - value:
+      text: In a Persian garden in Teheran, the singers Mahsa and Marjan Vahdat broke the ban on public performances by women.
+      language: en
+    references:
+    - source: www.kkv.no-en-music-mahsa-og-marjan-vahdat-2-4492341dd92c
+      quote: In a Persian garden in Teheran, the singers Mahsa and Marjan Vahdat broke the ban on public performances by women.
+      accessed: '2026-11-13'
+    qualifiers:
+      point in time:
+        date: '2007-05-22'
+  - value:
+      text: The melody came to me when I was in Wroclaw (in Poland) for a different project.
+      language: en
+    references:
+    - source: beehy.pe-interview-mahsa-vahdat-iran-332369e863c1
+      quote: The melody came to me when I was in Wroclaw (in Poland) for a different project.
+      accessed: '2026-11-13'
+  - value:
+      text: now I'm here in the Bay Area.
+      language: en
+    references:
+    - source: www.kalw.org-2026-02-03-singing-gave-her-courage
+      quote: now I'm here in the Bay Area.
+      accessed: '2026-11-13'
+  - value:
+      text: Then I made a song with my own lyrics
+      language: en
+    references:
+    - source: www.kalw.org-2026-02-03-singing-gave-her-courage
+      quote: Then I made a song with my own lyrics
+      accessed: '2026-11-13'
+  - value:
+      text: moje matka na pár vteřin nadzvedla můj šátek a ukázala mé copánky strýci
+      language: cs
+    references:
+    - source: www.mestohudby.cz-publicistika-rozhovory-copanky-nevinnosti-mahsa-vahdat-o-hudbe-exilu-a-iranu-b2f4469b96ca
+      quote: moje matka na pár vteřin nadzvedla můj šátek a ukázala mé copánky strýci
+      accessed: '2026-11-13'
+  - value:
+      text: On jej napsal, já jsem k němu složila melodii
+      language: cs
+    references:
+    - source: www.mestohudby.cz-publicistika-rozhovory-copanky-nevinnosti-mahsa-vahdat-o-hudbe-exilu-a-iranu-b2f4469b96ca
+      quote: On jej napsal, já jsem k němu složila melodii
+      accessed: '2026-11-13'
+  - value:
+      text: Kronos and Mahsa Vahdat were first introduced by Sahba Aminikia
+      language: en
+    qualifiers:
+      point in time:
+        date: '2017'
+    references:
+    - source: kronosquartet.org-kronos-quartet-mahsa-and-marjan-vahdat-placeless-85033dd630c5
+      quote: Kronos and Mahsa Vahdat were first introduced by Sahba Aminikia
+      accessed: '2026-11-13'
+  - value:
+      text: she received her B.A. in Music from the Tehran University of Arts
+      language: en
+    references:
+    - source: www.mahsavahdat.net-about
+      quote: 'she received her B.A. in Music from the Tehran University of Arts and
+
+        learned Persian traditional music with different masters.'
+      accessed: '2026-11-13'
+  profile link:
+  - value: https://music.apple.com/us/artist/mahsa-vahdat/65413022
+    references:
+    - source: www.mahsavahdat.net
+      quote: Mahsa Vahdat
+      accessed: '2026-11-13'
+    - source: www.mahsavahdat.net
+      quote: https://music.apple.com/us/artist/mahsa-vahdat/65413022
+      accessed: '2026-11-13'
+      locator: Link on the artist’s official homepage
+  - value: https://open.spotify.com/artist/6zhA5Vu3mPLVuSCf3RVtxH
+    references:
+    - source: www.mahsavahdat.net
+      quote: Mahsa Vahdat
+      accessed: '2026-11-13'
+    - source: www.mahsavahdat.net
+      quote: https://open.spotify.com/artist/6zhA5Vu3mPLVuSCf3RVtxH
+      accessed: '2026-11-13'
+      locator: Link on the artist’s official homepage
+  - value: https://www.youtube.com/channel/UCjhJY1lUycetYRZyOSFvACg
+    references:
+    - source: www.mahsavahdat.net
+      quote: Mahsa Vahdat
+      accessed: '2026-11-13'
+    - source: www.mahsavahdat.net
+      quote: https://www.youtube.com/channel/UCjhJY1lUycetYRZyOSFvACg
+      accessed: '2026-11-13'
+      locator: Link on the artist’s official homepage
+  - value: https://soundcloud.com/mahsavahdat
+    references:
+    - source: www.mahsavahdat.net
+      quote: Mahsa Vahdat
+      accessed: '2026-11-13'
+    - source: www.mahsavahdat.net
+      quote: https://soundcloud.com/mahsavahdat
+      accessed: '2026-11-13'
+      locator: Link on the artist’s official homepage

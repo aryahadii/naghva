@@ -37,6 +37,16 @@ statements:
       quote: |-
         Kaveh Yaghmaei
       accessed: '2026-10-20'
+  - value: https://www.youtube.com/channel/UCJK7t6b8Bpv-I4y6aw6VthA
+    references:
+    - source: www.youtube.com-kavehband-videos
+      quote: Kaveh Yaghmaei
+      accessed: '2026-11-13'
+  - value: https://t.me/KavehYaghmaeiOfficial
+    references:
+    - source: www.youtube.com-kavehband-videos
+      quote: https://t.me/KavehYaghmaeiOfficial
+      accessed: '2026-11-13'
   image:
   - value: https://upload.wikimedia.org/wikipedia/commons/4/42/Kaveh_Yaghmaei_4.jpg
     references:
@@ -65,3 +75,49 @@ statements:
         text: Kavehyaghmaei
         language: en
       license: https://creativecommons.org/licenses/by-sa/4.0
+  life event:
+  - value:
+      text: |-
+        من از میان همه ی سازها فلوت را به عنوان ساز تخصصی انتخاب کردم
+      language: fa
+    references:
+    - source: azghandi.net-pileha-psh6-k.yaghmaei6.htm-0f86fc21521d
+      quote: |-
+        من با پیانو شروع کردم،اما بعد از انقلاب کنسرواتوآر بسته شد و وقتی ما برگشتیم به هنرستان موسیقی دیگر معلم پیانو آنجا نبود و من از میان همه ی سازها فلوت را به عنوان ساز تخصصی انتخاب کردم و بعد گیتار را ادامه دادم.
+      accessed: 2026-11-13
+  - value:
+      text: |-
+        من با وضعیت سخت و عجیبی موفق به گرفتن مجوز آن آلبوم شدم.
+      language: fa
+    references:
+    - source: azghandi.net-pileha-psh6-k.yaghmaei6.htm-0f86fc21521d
+      quote: |-
+        تمام ترانه ها با مزدا شاهانی بود و ساتگین خواهرم و کامیل برادرم، اعلا مظفری و سیروان که یکی از موزیسینهای خوب کشورمان هست، مرا واقعا یاری کردند. من با وضعیت سخت و عجیبی موفق به گرفتن مجوز آن آلبوم شدم.
+      accessed: 2026-11-13
+  - value:
+      text: |-
+        در سکوت سرد، تنها عاملی که خیلی مثبت بود، حمایتی بود که کمپانی ترانه و آقای وارطان از کارم کردند.
+      language: fa
+    references:
+    - source: azghandi.net-pileha-psh6-k.yaghmaei6.htm-0f86fc21521d
+      quote: |-
+        در سکوت سرد، تنها عاملی که خیلی مثبت بود، حمایتی بود که کمپانی ترانه و آقای وارطان از کارم کردند. مورد بعد نبودن شرایط سخت ممیزی برای کار پاپ بود و این خیلی برایم تجربه ی خوبی بود که توانستم به عنوان یک موزیسین کاری را انجام بدهم که خودم دلم می خواست.
+      accessed: 2026-11-13
+  - value:
+      text: |-
+        کاوه فرزند "کوروش یغمایی" هنرمند نامدار موسیقی ایران است، او پس از مدتی زندگی در شهر ونکوور در کانادا، در نهایت به ایران بازگشت تا فعالیت های هنری خود را در آن کشور ادامه دهد.
+      language: fa
+    references:
+    - source: ir.voanews.com-a-iran-music-yaghmaie-3465312.html-37d8fbaf5d3f
+      quote: |-
+        کاوه فرزند "کوروش یغمایی" هنرمند نامدار موسیقی ایران است، او پس از مدتی زندگی در شهر ونکوور در کانادا، در نهایت به ایران بازگشت تا فعالیت های هنری خود را در آن کشور ادامه دهد.
+      accessed: 2026-11-13
+  - value:
+      text: |-
+        کاوه یغمایی در این دوره با چالش های گوناگونی برای دریافت مجوز مواجه بود و به همین دلیل زمان انتشار آلبوم جدیدش طولانی شد.
+      language: fa
+    references:
+    - source: ir.voanews.com-a-iran-music-yaghmaie-3465312.html-37d8fbaf5d3f
+      quote: |-
+        کاوه یغمایی در این دوره با چالش های گوناگونی برای دریافت مجوز مواجه بود و به همین دلیل زمان انتشار آلبوم جدیدش طولانی شد.
+      accessed: 2026-11-13

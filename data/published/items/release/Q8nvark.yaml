@@ -1,0 +1,61 @@
+id: Q8nvark
+type: release
+statements:
+  name:
+  - value:
+      text: Too Loud a Solitude (feat. Canopus)
+      language: en
+    references:
+    - &id001
+      source: music.apple.com-us-album-too-loud-a-solitude-feat-canopus-single-1515827433-e8e83fd706
+      quote: 'Listen to Too Loud a Solitude (feat. Canopus) - Single by Salome MC on Apple Music. 2020. 1 Song.
+        Duration: 3 minutes.'
+      accessed: '2026-11-13'
+      locator: Apple Music release description
+  - value:
+      text: تنهایی پرهیاهو
+      language: fa
+    references:
+    - source: www.salomemc.com-6522edc9eb
+      quote: Too Loud a Solitude | تنهایی پرهیاهو
+      accessed: '2026-11-13'
+      locator: Artist portfolio title
+  performer:
+  - value: Qd3ypxs
+    references:
+    - *id001
+  - value: Qtcjd5t
+    references:
+    - source: music.apple.com-us-album-too-loud-a-solitude-feat-canopus-single-1515827433-e8e83fd706
+      quote: Too Loud a Solitude (feat. Canopus)
+      accessed: '2026-11-13'
+      locator: Track listing
+  release date:
+  - value:
+      date: '2020-05-19'
+    references:
+    - source: music.apple.com-us-album-too-loud-a-solitude-feat-canopus-single-1515827433-e8e83fd706
+      quote: '"datePublished":"2020-05-19"'
+      accessed: '2026-11-13'
+      locator: Album JSON-LD, datePublished
+  listen link:
+  - value: https://music.apple.com/us/album/too-loud-a-solitude-feat-canopus-single/1515827433
+    references:
+    - *id001
+  - value: https://open.spotify.com/track/40hRaKzs1Q2VfmDEwkUOuu
+    references:
+    - source: open.spotify.com-track-40hrakzs1q2vfmdewkuouu-27657cacf2
+      quote: '"name":"Too Loud a Solitude"'
+      accessed: '2026-11-13'
+      locator: Spotify player, recording title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/df/9a/24/df9a2476-a3ba-9d30-09ec-1efea413e554/053000111771_cover.jpg/1200x630bb.jpg
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-too-loud-a-solitude-feat-canopus-single-1515827433-e8e83fd706
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/df/9a/24/df9a2476-a3ba-9d30-09ec-1efea413e554/053000111771_cover.jpg/1200x630bb.jpg
+      accessed: '2026-11-13'
+      locator: Album JSON-LD, image

@@ -1,0 +1,83 @@
+id: Q2wys5k
+type: release
+statements:
+  name:
+  - value:
+      text: Lullaby of the sea - Havets voggesang - Single
+      language: en
+    references:
+    - source: music.apple.com-us-album-lullaby-of-the-sea-havets-voggesang-single-1605736007
+      quote: |-
+        Lullaby of the sea - Havets voggesang - Single
+      accessed: '2026-11-13'
+  release date:
+  - value:
+      date: '2022-02-11'
+    references:
+    - source: music.apple.com-us-album-lullaby-of-the-sea-havets-voggesang-single-1605736007
+      quote: |-
+        "datePublished":"2022-02-11"
+      accessed: '2026-11-13'
+  performer:
+  - value: Qz5zmnh
+    references:
+    - source: music.apple.com-us-album-lullaby-of-the-sea-havets-voggesang-single-1605736007
+      quote: |-
+        [{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/solveig-slettahjell/77658096","name":"Solveig Slettahjell"},{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/mahsa-vahdat/65413022","name":"Mahsa Vahdat"}]
+      accessed: '2026-11-13'
+  - value: Qp2mk6b
+    references:
+    - source: music.apple.com-us-album-lullaby-of-the-sea-havets-voggesang-single-1605736007
+      quote: |-
+        [{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/solveig-slettahjell/77658096","name":"Solveig Slettahjell"},{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/mahsa-vahdat/65413022","name":"Mahsa Vahdat"}]
+      accessed: '2026-11-13'
+  - value: Qd2thca
+    qualifiers:
+      role: piano
+    references:
+    - source: www.kkv.no-en-music-havets-voggesang-singel
+      quote: |-
+        On grand piano we hear Tord Gustavsen and on trumpet Sjur Miljeteig.
+      accessed: '2026-11-13'
+  - value: Q5v5aae
+    qualifiers:
+      role: trumpet
+    references:
+    - source: www.kkv.no-en-music-havets-voggesang-singel
+      quote: |-
+        On grand piano we hear Tord Gustavsen and on trumpet Sjur Miljeteig.
+      accessed: '2026-11-13'
+  listen link:
+  - value: https://music.apple.com/us/album/lullaby-of-the-sea-havets-voggesang-single/1605736007
+    references:
+    - source: music.apple.com-us-album-lullaby-of-the-sea-havets-voggesang-single-1605736007
+      quote: |-
+        Lullaby of the sea - Havets voggesang - Single
+      accessed: '2026-11-13'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ae/49/82/ae498261-5116-ed23-862f-f37ea40fff90/196292416626.jpg/1200x1200bb.jpg
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-lullaby-of-the-sea-havets-voggesang-single-1605736007
+      quote: |-
+        Lullaby of the sea - Havets voggesang - Single
+      accessed: '2026-11-13'
+  contributor:
+  - value: Qxzfpnw
+    qualifiers:
+      role: lyricist
+    references:
+    - source: www.kkv.no-en-music-havets-voggesang-singel
+      quote: |-
+        lyrics written by Erik Hillestad
+      accessed: '2026-11-13'
+  published by:
+  - value: Qtcvdjj
+    references:
+    - source: www.kkv.no-en-music-havets-voggesang-singel
+      quote: |-
+        Kirkelig kulturverksted
+      accessed: '2026-11-13'

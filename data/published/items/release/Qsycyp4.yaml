@@ -1,0 +1,56 @@
+id: Qsycyp4
+type: release
+statements:
+  name:
+  - value:
+      text: Wake Up (feat. Ruzbee & Erdem Koriz)
+      language: en
+    references:
+    - &id001
+      source: music.apple.com-us-album-wake-up-feat-ruzbee-erdem-koriz-single-1709820094-60866c31ed
+      quote: 'Listen to Wake Up (feat. Ruzbee & Erdem Koriz) - Single by Fardin, Salome MC, Erdem Koriz, Bigvike,
+        Ruzbee & Hamed on Apple Music. 2023. 1 Song. Duration: 4 minutes.'
+      accessed: '2026-11-13'
+      locator: Apple Music release description
+  performer:
+  - value: Qk4vey8
+    references:
+    - *id001
+  - value: Qd3ypxs
+    references:
+    - *id001
+  - value: Qr8aw97
+    references:
+    - *id001
+  - value: Qkrefc4
+    references:
+    - *id001
+  - value: Q5wbw5r
+    references:
+    - *id001
+  - value: Qkvxgf5
+    references:
+    - *id001
+  release date:
+  - value:
+      date: '2023-09-26'
+    references:
+    - source: music.apple.com-us-album-wake-up-feat-ruzbee-erdem-koriz-single-1709820094-60866c31ed
+      quote: '"datePublished":"2023-09-26"'
+      accessed: '2026-11-13'
+      locator: Album JSON-LD, datePublished
+  listen link:
+  - value: https://music.apple.com/us/album/wake-up-feat-ruzbee-erdem-koriz-single/1709820094
+    references:
+    - *id001
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e9/b9/47/e9b947d0-ddea-29cb-bcdb-9a991cacc435/8720996958209.png/1200x630bb.jpg
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-wake-up-feat-ruzbee-erdem-koriz-single-1709820094-60866c31ed
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e9/b9/47/e9b947d0-ddea-29cb-bcdb-9a991cacc435/8720996958209.png/1200x630bb.jpg
+      accessed: '2026-11-13'
+      locator: Album JSON-LD, image

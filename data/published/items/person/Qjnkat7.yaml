@@ -7,38 +7,123 @@ statements:
       language: en
     references:
     - source: soundcloud.com-hadi-pakzad-eedc28c693e1
-      quote: |-
-        Hadi Pakzad
+      quote: Hadi Pakzad
       accessed: '2026-10-20'
   - value:
       text: هادی پاكزاد
       language: fa
     references:
     - source: zamaaneh.com-music-2006-09-post_22.html-b989f4db42b6
-      quote: |-
-        هادی پاكزاد و مسعود فياض زاده از روزگارشان می‌گويند و كارهايشان و اينكه چگونه سر از زير زمين در آوردند.
+      quote: هادی پاكزاد و مسعود فياض زاده از روزگارشان می‌گويند و كارهايشان و اينكه چگونه سر از زير زمين در آوردند.
       accessed: '2026-10-20'
+  - value:
+      text: هادی پاکزاد
+      language: fa
+    rank: preferred
+    references:
+    - source: www.zeitoons.com-9760
+      quote: هادی پاکزاد
+      accessed: '2026-11-13'
   profile link:
   - value: https://soundcloud.com/hadi-pakzad
     references:
     - source: soundcloud.com-hadi-pakzad-eedc28c693e1
-      quote: |-
-        Hadi Pakzad
+      quote: Hadi Pakzad
       accessed: '2026-10-20'
   - value: https://music.apple.com/us/artist/hadi-pakzad/1112291316
     references:
     - source: music.apple.com-us-album-darkness-1562971884-f1031aa7cc37
-      quote: |-
-        Listen to Darkness by Hadi Pakzad & Masoud Fayyazzadeh on Apple Music. 2015. 14 Songs. Duration: 1 hour 12 minutes.
+      quote: 'Listen to Darkness by Hadi Pakzad & Masoud Fayyazzadeh on Apple Music. 2015. 14 Songs. Duration: 1 hour 12 minutes.'
       accessed: '2026-10-20'
+  - value: https://t.me/HPakzadArt
+    references:
+    - source: soundcloud.com-hadi-pakzad-pest
+      quote: Telegram.me/HPakzadArt
+      accessed: '2026-11-13'
   image:
   - value: https://i1.sndcdn.com/avatars-000050304767-6rj0s9-large.jpg
     references:
     - source: soundcloud.com-hadi-pakzad-eedc28c693e1
-      quote: |-
-        https://i1.sndcdn.com/avatars-000050304767-6rj0s9-large.jpg
+      quote: https://i1.sndcdn.com/avatars-000050304767-6rj0s9-large.jpg
       accessed: '2026-10-20'
     qualifiers:
       credit:
         text: Hadi Pakzad / SoundCloud
         language: en
+  birth date:
+  - value:
+      date: '1982'
+    references:
+    - source: iranian.com-main-music-hadi-pakzad
+      quote: He was born in December 1982, in Iran, Mash'had.
+      accessed: '2026-11-13'
+  life event:
+  - value:
+      text: He also took piano and guitar lessons from Naser Tofighi.
+      language: en
+    references:
+    - source: iranian.com-main-music-hadi-pakzad
+      quote: He also took piano and guitar lessons from Naser Tofighi.
+      accessed: '2026-11-13'
+  - value:
+      text: سال ۱۳۸۰ در یک استودیوی خانگی، مجموعه‌ای را ضبط کردم
+      language: fa
+    references:
+    - source: iranwire.com-fa-culture-and-arts-567
+      quote: سال ۱۳۸۰ در یک استودیوی خانگی، مجموعه‌ای را ضبط کردم
+      accessed: '2026-11-13'
+    qualifiers:
+      point in time:
+        date: '1380'
+        calendar: jalali
+  - value:
+      text: اولین آلبوم هادی پاکزاد با عنوان سرزمین ترس در سال ۱۳۸۰ منتشر شد.
+      language: fa
+    references:
+    - source: www.nogaam.com-avazhaye-zirzamin-pakzad
+      quote: اولین آلبوم هادی پاکزاد با عنوان سرزمین ترس در سال ۱۳۸۰ منتشر شد.
+      accessed: '2026-11-13'
+    qualifiers:
+      point in time:
+        date: '1380'
+        calendar: jalali
+  - value:
+      text: آغاز همکاری هادی پاکزاد با داریوش دانش نیا (صدابردار) در سال ۱۳۸۴ منجر به تاسیس استدیو ای مشترک توسط آنان گردید
+      language: fa
+    references:
+    - source: www.zeitoons.com-9760
+      quote: آغاز همکاری هادی پاکزاد با داریوش دانش نیا (صدابردار) در سال ۱۳۸۴ منجر به تاسیس استدیو ای مشترک توسط آنان گردید
+      accessed: '2026-11-13'
+    qualifiers:
+      point in time:
+        date: '1384'
+        calendar: jalali
+  - value:
+      text: بعد، اسفند هر سال این‌ها را جمع‌آوری و ضبط می‌کنم
+      language: fa
+    references:
+    - source: iranwire.com-fa-culture-and-arts-567
+      quote: بعد، اسفند هر سال این‌ها را جمع‌آوری و ضبط می‌کنم
+      accessed: '2026-11-13'
+  - value:
+      text: اولین آلبوم مجوزدار او به نام “تاریکی” دی ماه گذشته به بازار آمد.
+      language: fa
+    references:
+    - source: www.persianherald.com.au-hadi-pakzad-obituary
+      quote: اولین آلبوم مجوزدار او به نام “تاریکی” دی ماه گذشته به بازار آمد.
+      accessed: '2026-11-13'
+    qualifiers:
+      point in time:
+        date: 1394-10
+        calendar: jalali
+  - value:
+      text: از مرگ او در روز جمعه هفتم خرداد خبر داد
+      language: fa
+    references:
+    - source: www.persianherald.com.au-hadi-pakzad-obituary
+      quote: از مرگ او در روز جمعه هفتم خرداد خبر داد
+      accessed: '2026-11-13'
+    qualifiers:
+      point in time:
+        date: '1395-03-07'
+        calendar: jalali

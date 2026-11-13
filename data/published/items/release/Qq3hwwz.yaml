@@ -1,0 +1,159 @@
+id: Qq3hwwz
+type: release
+statements:
+  name:
+  - value:
+      text: Seven Climes Vol. 2
+      language: en
+    references:
+    - &id001
+      source: salome-mc.bandcamp.com-album-seven-climes-vol-2-429fcbef7d
+      quote: Seven Climes Vol. 2, by Salome Mc
+      accessed: '2026-11-13'
+      locator: Release heading and byline
+  performer:
+  - value: Qd3ypxs
+    references:
+    - *id001
+  - value: Qcbannx
+    references:
+    - source: salome-mc.bandcamp.com-album-seven-climes-vol-2-429fcbef7d
+      quote: Eriba - Eteraph
+      accessed: '2026-11-13'
+      locator: Track billing
+  - value: Q7dkb4y
+    references:
+    - source: salome-mc.bandcamp.com-album-seven-climes-vol-2-429fcbef7d
+      quote: Rica - Rock
+      accessed: '2026-11-13'
+      locator: Track billing
+  - value: Qeagxsa
+    references:
+    - source: salome-mc.bandcamp.com-album-seven-climes-vol-2-429fcbef7d
+      quote: Jamil - Amanj
+      accessed: '2026-11-13'
+      locator: Track billing
+  - value: Qzw4rbf
+    references:
+    - source: salome-mc.bandcamp.com-album-seven-climes-vol-2-429fcbef7d
+      quote: Vesal - Dolakht
+      accessed: '2026-11-13'
+      locator: Track billing
+  - value: Qd7nj3g
+    references:
+    - source: salome-mc.bandcamp.com-album-seven-climes-vol-2-429fcbef7d
+      quote: Brave Zaman - Lezzat
+      accessed: '2026-11-13'
+      locator: Track billing
+  - value: Qm3jhh8
+    references:
+    - source: salome-mc.bandcamp.com-album-seven-climes-vol-2-429fcbef7d
+      quote: Pourianz - Heyroon
+      accessed: '2026-11-13'
+      locator: Track billing
+  - value: Qmd79c5
+    references:
+    - source: salome-mc.bandcamp.com-album-seven-climes-vol-2-429fcbef7d
+      quote: Kalaghoos - Ghamar
+      accessed: '2026-11-13'
+      locator: Track billing
+  listen link:
+  - value: https://salome-mc.bandcamp.com/album/seven-climes-vol-2
+    references:
+    - *id001
+  - value: https://music.apple.com/us/album/seven-climes-vol-2/1696104077
+    references:
+    - source: music.apple.com-us-album-seven-climes-vol-2-1696104077-2ffcdcf1e9
+      quote: 'Listen to Seven Climes Vol. 2 by Salome MC on Apple Music. 2023. 7 Songs. Duration: 22 minutes.'
+      accessed: '2026-11-13'
+      locator: Apple Music release description
+  - value: https://open.spotify.com/album/407joxWn0PYF8AZN0R7t0V
+    references:
+    - source: open.spotify.com-album-407joxwn0pyf8azn0r7t0v-1783340b5f
+      quote: '"name":"Seven Climes Vol. 2"'
+      accessed: '2026-11-13'
+      locator: Spotify player, recording title
+  release date:
+  - value:
+      date: '2023-07-20'
+    references:
+    - source: salome-mc.bandcamp.com-album-seven-climes-vol-2-429fcbef7d
+      quote: released July 20, 2023
+      accessed: '2026-11-13'
+      locator: Edition dates and credits
+  cover art:
+  - value: https://f4.bcbits.com/img/a4090653047_5.jpg
+    qualifiers:
+      credit:
+        text: Bandcamp
+        language: en
+    references:
+    - source: salome-mc.bandcamp.com-album-seven-climes-vol-2-429fcbef7d
+      quote: https://f4.bcbits.com/img/a4090653047_5.jpg
+      accessed: '2026-11-13'
+      locator: Open Graph cover image
+  contributor:
+  - value: Qd3ypxs
+    qualifiers:
+      role: producer
+    references:
+    - source: salome-mc.bandcamp.com-album-seven-climes-vol-2-429fcbef7d
+      quote: The album was co-produced and mastered by Salome MC
+      accessed: '2026-11-13'
+      locator: Credits
+  - value: Qmft8ps
+    qualifiers:
+      role: producer
+    references:
+    - source: salome-mc.bandcamp.com-album-seven-climes-vol-2-429fcbef7d
+      quote: Eteraph produced by Mez'Rab
+      accessed: '2026-11-13'
+      locator: Credits
+  - value: Qwhq669
+    qualifiers:
+      role: producer
+    references:
+    - source: salome-mc.bandcamp.com-album-seven-climes-vol-2-429fcbef7d
+      quote: Rock produced by Roody
+      accessed: '2026-11-13'
+      locator: Credits
+  - value: Q3dtynt
+    qualifiers:
+      role: producer
+    references:
+    - source: salome-mc.bandcamp.com-album-seven-climes-vol-2-429fcbef7d
+      quote: Amanj produced by Sahand MZ
+      accessed: '2026-11-13'
+      locator: Credits
+  - value: Qmdt53v
+    qualifiers:
+      role: producer
+    references:
+    - source: salome-mc.bandcamp.com-album-seven-climes-vol-2-429fcbef7d
+      quote: Dolakht produced by Haghighat
+      accessed: '2026-11-13'
+      locator: Credits
+  - value: Q4ha8ap
+    qualifiers:
+      role: producer
+    references:
+    - source: salome-mc.bandcamp.com-album-seven-climes-vol-2-429fcbef7d
+      quote: Lezzat produced by Kudd
+      accessed: '2026-11-13'
+      locator: Credits
+  - value: Q6qcy4t
+    qualifiers:
+      role: producer
+    references:
+    - source: salome-mc.bandcamp.com-album-seven-climes-vol-2-429fcbef7d
+      quote: Heyroon produced by MirZa
+      accessed: '2026-11-13'
+      locator: Credits
+  - value: Qdfz5ym
+    qualifiers:
+      role: producer
+    references:
+    - source: salome-mc.bandcamp.com-album-seven-climes-vol-2-429fcbef7d
+      quote: Ghamar produced by Yara
+      accessed: '2026-11-13'
+      locator: Credits

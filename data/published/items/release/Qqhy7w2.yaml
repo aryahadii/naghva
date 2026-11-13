@@ -1,0 +1,54 @@
+id: Qqhy7w2
+type: release
+statements:
+  name:
+  - value:
+      text: Ravi - The Music of Dušan Bogdanovic
+      language: en
+    references:
+    - &id001
+      source: music.apple.com-us-album-ravi-the-music-of-du-c5-a1an-bogdanovic-1872713740-768be3197e
+      quote: 'Listen to Ravi - The Music of Dušan Bogdanovic by Golfam Khayam & Siavash Roshan on Apple Music. 2012.
+        12 Songs. Duration: 45 minutes.'
+      accessed: '2026-11-13'
+      locator: Apple Music release description
+  performer:
+  - value: Qranggn
+    references:
+    - *id001
+  - value: Qtgyhqm
+    references:
+    - *id001
+  release date:
+  - value:
+      date: '2012-01-01'
+    references:
+    - source: music.apple.com-us-album-ravi-the-music-of-du-c5-a1an-bogdanovic-1872713740-768be3197e
+      quote: '"datePublished":"2012-01-01"'
+      accessed: '2026-11-13'
+      locator: Album JSON-LD, datePublished
+  listen link:
+  - value: https://music.apple.com/us/album/ravi-the-music-of-du%C5%A1an-bogdanovic/1872713740
+    references:
+    - *id001
+  - value: https://open.spotify.com/album/29u68IoFBNgHLNqFQhlYre
+    references:
+    - source: open.spotify.com-album-29u68iofbnghlnqfqhlyre-c7eb8208ad
+      quote: '"name":"Ravi - The Music of Dušan Bogdanovic"'
+      accessed: '2026-11-13'
+      locator: Spotify album title; full programme compared with the other cited edition
+    - source: open.spotify.com-album-29u68iofbnghlnqfqhlyre-c7eb8208ad
+      quote: '"title":"Omar''s Fancy"'
+      accessed: '2026-11-13'
+      locator: First track of the programme
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/45/a7/11/45a711db-65c2-5cf9-84c8-19daff4e80d0/cover.jpg/1200x630bb.jpg
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-ravi-the-music-of-du-c5-a1an-bogdanovic-1872713740-768be3197e
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/45/a7/11/45a711db-65c2-5cf9-84c8-19daff4e80d0/cover.jpg/1200x630bb.jpg
+      accessed: '2026-11-13'
+      locator: Album JSON-LD, image

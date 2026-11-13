@@ -1,0 +1,51 @@
+id: Qh3z6c4
+type: release
+statements:
+  name:
+  - value:
+      text: I Vinens Speil
+      language: en
+    references:
+    - source: music.apple.com-us-album-i-vinens-speil-388054821
+      quote: |-
+        I Vinens Speil
+      accessed: '2026-11-13'
+  release date:
+  - value:
+      date: '2010-08-23'
+    references:
+    - source: music.apple.com-us-album-i-vinens-speil-388054821
+      quote: |-
+        "datePublished":"2010-08-23"
+      accessed: '2026-11-13'
+  performer:
+  - value: Qgewrg4
+    references:
+    - source: music.apple.com-us-album-i-vinens-speil-388054821
+      quote: |-
+        [{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/skruk/77778428","name":"Skruk"},{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/mahsa-vahdat/65413022","name":"Mahsa Vahdat"}]
+      accessed: '2026-11-13'
+  - value: Qp2mk6b
+    references:
+    - source: music.apple.com-us-album-i-vinens-speil-388054821
+      quote: |-
+        [{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/skruk/77778428","name":"Skruk"},{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/mahsa-vahdat/65413022","name":"Mahsa Vahdat"}]
+      accessed: '2026-11-13'
+  listen link:
+  - value: https://music.apple.com/us/album/i-vinens-speil/388054821
+    references:
+    - source: music.apple.com-us-album-i-vinens-speil-388054821
+      quote: |-
+        I Vinens Speil
+      accessed: '2026-11-13'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d3/d2/31/d3d231f0-0f85-2c10-23e6-e9b983c4fa8a/mzi.ikxvtqwb.jpg/1200x1200bb.jpg
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-i-vinens-speil-388054821
+      quote: |-
+        I Vinens Speil
+      accessed: '2026-11-13'

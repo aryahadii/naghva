@@ -19,3 +19,7 @@ status: processed
 > Recorded, mixed and mastered by Keith Souza and Seth Manchester at Machines With Magnets.
 > Songwriter: Kodi
 > Lyrics: King Raam
+
+> https://f4.bcbits.com/img/a2955559943_5.jpg
+
+Open Graph cover image, read 2026-11-13.

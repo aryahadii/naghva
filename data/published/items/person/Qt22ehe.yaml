@@ -1,0 +1,17 @@
+id: Qt22ehe
+type: person
+statements:
+  name:
+  - value:
+      text: Carolyn Stuart
+      language: en
+    references:
+    - &id001
+      source: www.phenotypicrecordings.com-move-premieres-liner-notes
+      quote: Lina Bahn, Livia Sohn, Carolyn Stuart, Janet Sung
+      accessed: '2026-11-13'
+      locator: Ensemble personnel
+  member of:
+  - value: Qpna4af
+    references:
+    - *id001
