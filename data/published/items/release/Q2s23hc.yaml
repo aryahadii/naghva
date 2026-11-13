@@ -7,41 +7,40 @@ statements:
       language: en
     references:
     - source: music.apple.com-us-album-maranjab-1719555526-0b06f46f997d
-      quote: |-
-        Listen to Maranjab by Kian Pourtorab on Apple Music. 2023. 7 Songs. Duration: 37 minutes.
+      quote: 'Listen to Maranjab by Kian Pourtorab on Apple Music. 2023. 7 Songs. Duration: 37 minutes.'
       accessed: '2026-10-20'
   performer:
   - value: Qxs89jd
     references:
     - source: music.apple.com-us-album-maranjab-1719555526-0b06f46f997d
-      quote: |-
-        Listen to Maranjab by Kian Pourtorab on Apple Music. 2023. 7 Songs. Duration: 37 minutes.
+      quote: 'Listen to Maranjab by Kian Pourtorab on Apple Music. 2023. 7 Songs. Duration: 37 minutes.'
       accessed: '2026-10-20'
     - source: music.apple.com-us-album-maranjab-1719555526-0b06f46f997d
-      quote: |-
-        Kian Pourtorab
+      quote: Kian Pourtorab
       accessed: '2026-10-20'
   release date:
   - value:
       date: '2023-12-03'
     references:
     - source: music.apple.com-us-album-maranjab-1719555526-0b06f46f997d
-      quote: |-
-        2023-12-03
+      quote: '2023-12-03'
       accessed: '2026-10-20'
   listen link:
   - value: https://music.apple.com/us/album/maranjab/1719555526
     references:
     - source: music.apple.com-us-album-maranjab-1719555526-0b06f46f997d
-      quote: |-
-        Listen to Maranjab by Kian Pourtorab on Apple Music. 2023. 7 Songs. Duration: 37 minutes.
+      quote: 'Listen to Maranjab by Kian Pourtorab on Apple Music. 2023. 7 Songs. Duration: 37 minutes.'
       accessed: '2026-10-20'
+  - value: https://open.spotify.com/album/1ELTSc9iqcP1qZW866hjht
+    references:
+    - source: open.spotify.com-embed-album-1eltsc9iqcp1qzw866hjht
+      quote: '"uri":"spotify:album:1ELTSc9iqcP1qZW866hjht"'
+      accessed: '2026-11-13'
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/53/92/9a/53929ad3-0ee4-a1a3-15a0-c1c932d72200/021261865283.jpg/1200x630bb.jpg
     references:
     - source: music.apple.com-us-album-maranjab-1719555526-0b06f46f997d
-      quote: |-
-        https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/53/92/9a/53929ad3-0ee4-a1a3-15a0-c1c932d72200/021261865283.jpg/1200x630bb.jpg
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/53/92/9a/53929ad3-0ee4-a1a3-15a0-c1c932d72200/021261865283.jpg/1200x630bb.jpg
       accessed: '2026-10-20'
     qualifiers:
       credit:
@@ -51,6 +50,5 @@ statements:
   - value: Qbkdaxf
     references:
     - source: music.apple.com-us-album-maranjab-1719555526-0b06f46f997d
-      quote: |-
-        ℗ 2023 Rost-On
+      quote: ℗ 2023 Rost-On
       accessed: '2026-10-20'

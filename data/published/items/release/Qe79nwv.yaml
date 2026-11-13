@@ -18,6 +18,47 @@ statements:
     - source: music.apple.com-us-album-this-side-1378137090-7ac9b447bba2
       quote: Kian Pourtorab
       accessed: '2026-10-20'
+  - value: Qyx94sk
+    qualifiers:
+      role:
+      - keyboards
+      - synthesizer
+    references:
+    - source: tasnimnews.ir-1724838-this-side
+      quote: کیان پور تراب ترانه سرا، آهنگساز، تنظیم کننده، نوازنده و خواننده این آلبوم است و علیرضا ریاضی (تنظیم،کیبورد، سینتی سایزر، سازهای الکترونیک)، میلاد درخشانی (سه تار)، علی الماسی و اردلان مجتبوی (گیتار الکتریک)، با او همکاری داشته اند.
+      accessed: '2026-11-13'
+  - value: Qnjntqs
+    qualifiers:
+      role:
+      - setar
+    references:
+    - source: tasnimnews.ir-1724838-this-side
+      quote: کیان پور تراب ترانه سرا، آهنگساز، تنظیم کننده، نوازنده و خواننده این آلبوم است و علیرضا ریاضی (تنظیم،کیبورد، سینتی سایزر، سازهای الکترونیک)، میلاد درخشانی (سه تار)، علی الماسی و اردلان مجتبوی (گیتار الکتریک)، با او همکاری داشته اند.
+      accessed: '2026-11-13'
+  - value: Qr2pw8j
+    qualifiers:
+      role:
+      - guitar
+    references:
+    - source: tasnimnews.ir-1724838-this-side
+      quote: کیان پور تراب ترانه سرا، آهنگساز، تنظیم کننده، نوازنده و خواننده این آلبوم است و علیرضا ریاضی (تنظیم،کیبورد، سینتی سایزر، سازهای الکترونیک)، میلاد درخشانی (سه تار)، علی الماسی و اردلان مجتبوی (گیتار الکتریک)، با او همکاری داشته اند.
+      accessed: '2026-11-13'
+  - value: Qv27qrr
+    qualifiers:
+      role:
+      - guitar
+    references:
+    - source: tasnimnews.ir-1724838-this-side
+      quote: کیان پور تراب ترانه سرا، آهنگساز، تنظیم کننده، نوازنده و خواننده این آلبوم است و علیرضا ریاضی (تنظیم،کیبورد، سینتی سایزر، سازهای الکترونیک)، میلاد درخشانی (سه تار)، علی الماسی و اردلان مجتبوی (گیتار الکتریک)، با او همکاری داشته اند.
+      accessed: '2026-11-13'
+  - value: Qxs89jd
+    qualifiers:
+      role:
+      - vocals
+    references:
+    - source: tasnimnews.ir-1724838-this-side
+      quote: کیان پور تراب ترانه سرا، آهنگساز، تنظیم کننده، نوازنده و خواننده این آلبوم است و علیرضا ریاضی (تنظیم،کیبورد، سینتی سایزر، سازهای الکترونیک)، میلاد درخشانی (سه تار)، علی الماسی و اردلان مجتبوی (گیتار الکتریک)، با او همکاری داشته اند.
+      accessed: '2026-11-13'
   release date:
   - value:
       date: '2018-05-07'
@@ -52,37 +93,17 @@ statements:
     qualifiers:
       role:
       - arranger
-      - keyboards
-      - synthesizer
     references:
-    - &id001
-      source: tasnimnews.ir-1724838-this-side
+    - source: tasnimnews.ir-1724838-this-side
       quote: کیان پور تراب ترانه سرا، آهنگساز، تنظیم کننده، نوازنده و خواننده این آلبوم است و علیرضا ریاضی (تنظیم،کیبورد، سینتی سایزر، سازهای الکترونیک)، میلاد درخشانی (سه تار)، علی الماسی و اردلان مجتبوی (گیتار الکتریک)، با او همکاری داشته اند.
       accessed: '2026-11-13'
-  - value: Qnjntqs
-    qualifiers:
-      role:
-      - setar
-    references:
-    - *id001
-  - value: Qr2pw8j
-    qualifiers:
-      role:
-      - guitar
-    references:
-    - *id001
-  - value: Qv27qrr
-    qualifiers:
-      role:
-      - guitar
-    references:
-    - *id001
   - value: Qxs89jd
     qualifiers:
       role:
-      - vocals
       - composer
       - lyricist
       - arranger
     references:
-    - *id001
+    - source: tasnimnews.ir-1724838-this-side
+      quote: کیان پور تراب ترانه سرا، آهنگساز، تنظیم کننده، نوازنده و خواننده این آلبوم است و علیرضا ریاضی (تنظیم،کیبورد، سینتی سایزر، سازهای الکترونیک)، میلاد درخشانی (سه تار)، علی الماسی و اردلان مجتبوی (گیتار الکتریک)، با او همکاری داشته اند.
+      accessed: '2026-11-13'

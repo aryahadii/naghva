@@ -78,13 +78,13 @@ references:
     accessed: '2026-11-13'
 ---
 
-Kian Pourtorab is a Tehran rock and pop musician who first recorded his songs with [Comment Band](/en/comment-band-ec3/). His voice and acoustic guitar can be heard on the band’s *Slipped Away*. On his solo debut, *[This Side](#this-side-e79)*, he took on the arrangements as well as the words and music. Electronics later became central to his solo work.[^profile][^band][^players][^album][^change]
+Kian Pourtorab is a Tehran rock and pop musician who first recorded his songs with [Comment Band](/en/comment-band-ec3/). His voice and acoustic guitar can be heard on the band’s *[Slipped Away](/en/comment-band-ec3/#slipped-away-kjt)*. On his solo debut, *[This Side](#this-side-e79)*, he took on the arrangements as well as the words and music. Electronics later became central to his solo work.[^profile][^band][^players][^album][^change]
 
 ## Finding words for Comment
 
 In 1386 (2007–08), Pourtorab and guitarist [Nima Ramezan](/en/nima-ramezan-3cs/) formed Comment in Tehran. As other players joined, the group recorded songs Pourtorab had been writing. Their first album, *Miram Balatar*, appeared in 1388 (2009–10). A second collection, *Dayereha*, also circulated outside the official release system.[^band][^circles]
 
-Pourtorab recalled that one of the difficulties of writing rock songs in Persian was the sound of the words themselves. At first he would look for Persian syllables that fell like the English he heard in rock. Gradually he felt the lyrics acquired a rhythm of their own.[^writing] He wrote most of the music, although sometimes a piece began in rehearsal and he added to what the band had played.[^ensemble]
+Pourtorab recalled that one of the difficulties of writing rock songs in Persian was the sound of the words themselves. At first he would look for Persian syllables that fell like the English he heard in rock. Gradually he felt his Persian lyrics had developed an identity of their own.[^writing] He wrote most of the music, although sometimes a piece began in rehearsal and he added to what the band had played.[^ensemble]
 
 ## The Gholhak concert
 
@@ -94,4 +94,4 @@ By the time Comment released *Slipped Away* in 2014, the five musicians had dist
 
 On *This Side* (2018), Pourtorab sang, wrote and arranged, working with Alireza Riazi on electronic instruments and arrangements. [Milad Derakhshani](/en/milad-derakhshani-njn/) played setar, alongside electric guitars by Ali Almasi and Ardalan Mojtabavi.[^first][^album] Pourtorab dated a change in his writing to the period after that record, when he began exploring electronic pop made outside Iran.[^change]
 
-By 2020 he faced a choice about how people heard the new music. He liked carrying an idea through an entire album, he explained, yet individual tracks were easily overlooked when everything came out at once. He began putting songs out one at a time so each could find listeners.[^singles][^singles-year] He continued making longer works too, including *Q* (2020), *[Shabgard](#shabgard-z5s)* (2022) and, in 2023, *Gozar* and *[Maranjab](#maranjab-2s2)*.[^q][^shabgard][^gozar][^maranjab]
+By 2020 he faced a choice about how people heard the new music. He liked carrying an idea through an entire album, he explained, yet individual tracks were easily overlooked when everything came out at once. He began putting songs out one at a time so each could find listeners.[^singles][^singles-year] He continued making longer works too, including *[Q](#q-ep-28y)* (2020), *[Shabgard](#shabgard-z5s)* (2022) and, in 2023, *[Gozar](#gozar-ep-2ct)* and *[Maranjab](#maranjab-2s2)*.[^q][^shabgard][^gozar][^maranjab]
