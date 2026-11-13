@@ -18,3 +18,37 @@ statements:
       quote: |-
         The Yellow Dogs were an Iranian-American rock band, formed in 2006.[1] The band was formed in Tehran, and is now based in Brooklyn, New York.[2]
       accessed: '2026-10-19'
+  life event:
+  - value:
+      text: We all met in 2006 through the skate park in Tehran
+      language: en
+    references:
+    - source: www.thenationalnews.com-arts-culture-music-yellow-dogs-2012
+      quote: |-
+        We all met in 2006 through the skate park in Tehran
+      accessed: '2026-11-13'
+    qualifiers:
+      point in time:
+        date: '2006'
+  - value:
+      text: Brooklyn, New York, in 2010
+      language: en
+    references:
+    - source: www.thenationalnews.com-arts-culture-music-yellow-dogs-2012
+      quote: |-
+        Brooklyn, New York, in 2010
+      accessed: '2026-11-13'
+    qualifiers:
+      point in time:
+        date: '2010'
+  - value:
+      text: Soroush Farazmand, a guitarist, and Arash Farazmand, the drummer, had been killed.
+      language: en
+    references:
+    - source: www.rferl.org-a-iran-musicians-killed-yellow-dogs-25165150
+      quote: |-
+        Soroush Farazmand, a guitarist, and Arash Farazmand, the drummer, had been killed.
+      accessed: '2026-11-13'
+    qualifiers:
+      point in time:
+        date: '2013-11-11'
