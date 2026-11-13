@@ -32,3 +32,7 @@ Source page or its embedded metadata, read 2026-10-19.
 Biography opening, read 2026-10-23.
 
 > The House is Black, Sussan Deyhim’s multimedia stage production inspired by the works of Iranian literary heroine, poet, and filmmaker Forough Farrokhzad, was co-composed with Richard Horowitz and directed by Deyhim in collaboration with renowned American director Robert Egan.
+
+> Whispers From The Underworld, a 75-minute solo concert featuring her original compositions
+
+Biography, paragraph beginning Sussan is currently presenting, read 2026-11-13.
