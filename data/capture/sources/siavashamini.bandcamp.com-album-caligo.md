@@ -31,14 +31,15 @@ Page text, read 2026-11-13.
 
 Page text, read 2026-11-13.
 
-> from their transcriptions
-
-Page text, read 2026-11-13.
 
 > Malakoot
 
 Page text, read 2026-11-13.
 
 > Tehran, Autumn 2024
+
+Page text, read 2026-11-13.
+
+> synthesized resurrections made from their transcriptions
 
 Page text, read 2026-11-13.

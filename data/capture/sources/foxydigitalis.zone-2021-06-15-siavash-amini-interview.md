@@ -21,10 +21,11 @@ Page text, read 2026-11-13.
 
 Page text, read 2026-11-13.
 
-> a collective of artists called SET
+
+> I also run SEDA
 
 Page text, read 2026-11-13.
 
-> I also run SEDA
+> sound art space/project
 
 Page text, read 2026-11-13.
