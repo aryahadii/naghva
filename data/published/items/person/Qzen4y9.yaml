@@ -7,33 +7,41 @@ statements:
       language: en
     references:
     - source: web.archive.org-web-20201010063019-https-sites.google.com-site-gabgooproject-theband-7876b03a1003
-      quote: |-
-        Gabgoo started its work in 2006 when Reza Abaee , Hamid Saeedi , Henrik Nagi , and Habib Meftah Bushehri joined one another to form a musical band.
+      quote: Gabgoo started its work in 2006 when Reza Abaee , Hamid Saeedi , Henrik Nagi , and Habib Meftah Bushehri joined
+        one another to form a musical band.
       accessed: '2026-10-19'
   - value:
       text: Hamid Saeidi
       language: en
     references:
     - source: hamidsaeidi.com
-      quote: |-
-        These are words critics and music lovers worldwide use to describe the first Iranian Grammy Award-winning composer, producer, and santoor artist, Hamid Saeidi.
+      quote: These are words critics and music lovers worldwide use to describe the first Iranian Grammy Award-winning composer,
+        producer, and santoor artist, Hamid Saeidi.
       accessed: '2026-10-19'
   - value:
       text: حمید سعیدی
       language: fa
     references:
     - source: iraniticket.com-hamid
-      quote: |-
-        Hamid Saeidi& North Pacific Chamber Orchestra
-        حمید سعیدی با همراهی ارکستر نورت پاسفیک
+      quote: 'Hamid Saeidi& North Pacific Chamber Orchestra
+
+        حمید سعیدی با همراهی ارکستر نورت پاسفیک'
       accessed: '2026-10-19'
   member of:
   - value: Q253b9z
     references:
     - source: web.archive.org-web-20201010063019-https-sites.google.com-site-gabgooproject-theband-7876b03a1003
-      quote: |-
-        Gabgoo started its work in 2006 when Reza Abaee , Hamid Saeedi , Henrik Nagi , and Habib Meftah Bushehri joined one another to form a musical band.
+      quote: Gabgoo started its work in 2006 when Reza Abaee , Hamid Saeedi , Henrik Nagi , and Habib Meftah Bushehri joined
+        one another to form a musical band.
       accessed: '2026-10-19'
+  - value: Qamf8m9
+    qualifiers:
+      role: santur
+    references:
+    - source: www.opiummoon.com-about-opium-moon
+      quote: |-
+        Iranian santoor master Hamid Saeidi
+      accessed: '2026-11-13'
   image:
   - value: https://hamidsaeidi.com/wp-content/uploads/2023/03/Hamid-Saeidi-04.jpg
     references:
@@ -47,3 +55,62 @@ statements:
       credit:
         text: hamidsaeidi.com
         language: en
+  life event:
+  - value:
+      text: I have immigrated to Los Angels in 2009
+      language: en
+    qualifiers:
+      point in time:
+        date: '2009'
+    references:
+    - source: hamidsaeidi.com-voyagela-interview-hamid-saeidi-2023
+      quote: |-
+        I have immigrated to Los Angels in 2009
+      accessed: '2026-11-13'
+  - value:
+      text: created and produced a new TV talent show for the Persian diaspora (Contestee)
+      language: en
+    references:
+    - source: www.opiummoon.com-copy-of-epk
+      quote: |-
+        created and produced a new TV talent show for the Persian diaspora (Contestee)
+      accessed: '2026-11-13'
+  - value:
+      text: '61st Annual Grammy Awards
+
+        Best New Age Album - Winner
+
+        Opium Moon'
+      language: en
+    qualifiers:
+      point in time:
+        date: '2019'
+      about: Q5hwnk5
+    references:
+    - source: www.grammy.com-artists-hamid-saeidi-243518
+      quote: |-
+        61st Annual Grammy Awards
+        Best New Age Album - Winner
+        Opium Moon
+      accessed: '2026-11-13'
+  - value:
+      text: '64th Annual Grammy Awards
+
+        Best New Age Album - Nominee
+
+        Night + Day.
+
+        Opium Moon'
+      language: en
+    qualifiers:
+      point in time:
+        date: '2022'
+      about: Q6jwgym
+    references:
+    - source: www.grammy.com-artists-hamid-saeidi-243518
+      quote: |-
+        64th Annual Grammy Awards
+        Best New Age Album - Nominee
+        Night + Day.
+        Opium Moon
+      accessed: '2026-11-13'

@@ -21,3 +21,7 @@ publisher: music.apple.com
 > April 1, 2013
 > 7 songs, 38 minutes
 > ℗ 2013 Hamid Saeidi
+
+> [{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/hamid-saeidi/432382439","name":"Hamid Saeidi"}]
+
+Apple Music embedded release metadata, read 2026-11-13.
