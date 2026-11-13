@@ -9,6 +9,14 @@ statements:
     - source: music.apple.com-us-album-lyra-hymn-1770150258
       quote: Lyra & Hymn by Soheil Nafisi
       accessed: '2026-10-23'
+  - value:
+      text: چنگ و سرود
+      language: fa
+    references:
+    - source: music.apple.com-us-album-lyra-hymn-1770150258
+      quote: چنگ و سرود
+      accessed: '2026-11-13'
+      locator: Original artwork
   release date:
   - value:
       date: '2011-04-15'
@@ -27,6 +35,11 @@ statements:
       accessed: '2026-10-23'
     - source: www.qobuz.com-us-en-album-lyra-hymn-soheil-nafisi-nz2ek5mwhgiub-4c6bfc1ce16d
       quote: Soheil Nafisi, Composer, MainArtist
+      accessed: '2026-10-23'
+  - value: Qmgppfe
+    references:
+    - source: www.qobuz.com-us-en-album-lyra-hymn-soheil-nafisi-nz2ek5mwhgiub-4c6bfc1ce16d
+      quote: Peter Soleimanipour, FeaturedArtist - Soheil Nafisi, Composer, MainArtist
       accessed: '2026-10-23'
   listen link:
   - value: https://music.apple.com/us/album/lyra-hymn/1770150258

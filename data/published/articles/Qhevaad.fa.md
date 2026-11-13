@@ -2,43 +2,114 @@
 references:
   bio:
     source: www.vaakrecords.com-events-soheil-nafisi-a-night-of-music-and-poetry-at-kings-place-8bcc63c362b5
-    quote: |-
-      Soheil Nafisi (b. 1967, Tehran) is a renowned Iranian singer, composer, and guitarist, celebrated for his exceptional ability to blend music with poetry. A self-taught musician, Nafisi spent over two decades in Hormozgan, a culturally vibrant region in southern Iran, whose rich traditions significantly influenced his distinctive sound.
+    quote: Soheil Nafisi (b. 1967, Tehran) is a renowned Iranian singer, composer, and guitarist, celebrated for
+      his exceptional ability to blend music with poetry. A self-taught musician, Nafisi spent over two decades
+      in Hormozgan, a culturally vibrant region in southern Iran, whose rich traditions significantly influenced
+      his distinctive sound.
     accessed: '2026-10-19'
   poetry:
     source: www.vaakrecords.com-events-soheil-nafisi-a-night-of-music-and-poetry-at-kings-place-8bcc63c362b5
-    quote: |-
-      Nafisi's deep passion for Iranian poetry spans from classical works to contemporary masterpieces, encompassing the enduring verses of Hafiz and the avant-garde writings of Ahmad Shamloo and Nima Yooshij. This poetic inspiration informs his minimalist, narrative-driven style, characterized by the intimate interplay of a single instrument and a solitary voice.
+    quote: Nafisi's deep passion for Iranian poetry spans from classical works to contemporary masterpieces, encompassing
+      the enduring verses of Hafiz and the avant-garde writings of Ahmad Shamloo and Nima Yooshij. This poetic inspiration
+      informs his minimalist, narrative-driven style, characterized by the intimate interplay of a single instrument
+      and a solitary voice.
     accessed: '2026-10-19'
   albums:
     source: www.vaakrecords.com-events-soheil-nafisi-a-night-of-music-and-poetry-at-kings-place-8bcc63c362b5
-    quote: |-
-      His albums Rira, Songs of the South, Chang and Sorood, and The New Design have resonated with a generation of young Iranian musicians, embodying his profound connection to both poetry and the musical heritage of southern Iran.
+    quote: His albums Rira, Songs of the South, Chang and Sorood, and The New Design have resonated with a generation
+      of young Iranian musicians, embodying his profound connection to both poetry and the musical heritage of southern
+      Iran.
     accessed: '2026-10-19'
   rira:
     source: music.apple.com-us-album-rira-1764971901
-    quote: |-
-      Rira
+    quote: 'Rira
+
       Soheil Nafisi
-      Farsi · 2005
+
+      Farsi · 2005'
     accessed: '2026-10-19'
   date:
     source: music.apple.com-us-album-rira-1764971901
-    quote: |-
-      December 25, 2005
+    quote: December 25, 2005
     accessed: '2026-10-19'
-  hermes:
-    source: www.concertzender.nl-programma-orient_express_653213
-    quote: |-
-      CD. Rira – Soheil Nafissi.
-      LABEL: Hermes Records (2013), code: HER-027.
-    accessed: '2026-10-19'
+  rhythm:
+    source: www1.rfi.fr-actufa-articles-111-article_5585.asp
+    quote: خود شعر ريتم خودش را به من ادا مي‌كند.
+    accessed: '2026-11-13'
+    locator: Quoted explanation of poem rhythm
+  arranging:
+    source: www1.rfi.fr-actufa-articles-111-article_5585.asp
+    quote: تنظیم قطعات آلبوم ریرا که توسط کریستف رضاعی انجام گرفته
+    accessed: '2026-11-13'
+    locator: Following paragraph
+  hafez:
+    source: www.honaronline.ir-91834
+    quote: روی اشعار حافظ متمرکز و به او نزدیک‌تر شوم.
+    accessed: '2026-11-13'
+    locator: Nafisi speech at launch
+  years:
+    source: www.honaronline.ir-91834
+    quote: این پنج سال
+    accessed: '2026-11-13'
+    locator: Nafisi speech at launch
+  playing:
+    source: www.honaronline.ir-91834
+    quote: کمک کرد روی ملودی‌ها و ساز زدنم تاثیر زیادی بگذارد.
+    accessed: '2026-11-13'
+    locator: Nafisi speech at launch
+  live:
+    source: www.honaronline.ir-98891
+    quote: سهیل نفیسی 26 اردیبهشت ماه بار دیگر با گیتاری در دست پا به صحنه عریض تالار وحدت گذاشت
+    accessed: '2026-11-13'
+    locator: Opening report
+  solo:
+    source: www.honaronline.ir-98891
+    quote: به تنهایی
+    accessed: '2026-11-13'
+    locator: Same sentence
+  newdesign:
+    source: music.apple.com-us-album-1764980614
+    quote: 'Listen to The New Design by Soheil Nafisi on Apple Music. 2016. 17 Songs. Duration: 56 minutes.'
+    accessed: '2026-11-13'
+    locator: Album JSON-LD description
+  south:
+    source: music.apple.com-us-album-1765160526
+    quote: 'Listen to Songs From The South by Soheil Nafisi on Apple Music. 2020. 9 Songs. Duration: 34 minutes.'
+    accessed: '2026-11-13'
+    locator: Album JSON-LD description
+  lyra:
+    source: music.apple.com-us-album-lyra-hymn-1770150258
+    quote: Lyra & Hymn by Soheil Nafisi
+    accessed: '2026-10-23'
+  lyra-date:
+    source: music.apple.com-us-album-lyra-hymn-1770150258
+    quote: '2011-04-15'
+    accessed: '2026-10-23'
+  return:
+    source: www.vaakrecords.com-events-soheil-nafisi-a-night-of-music-and-poetry-at-kings-place-8bcc63c362b5
+    quote: following a long break.
+    accessed: '2026-11-13'
+    locator: Opening announcement
+  debt:
+    source: www1.rfi.fr-actufa-articles-111-article_5585.asp
+    quote: خود را مدیون ابراهیم منصفی می‌داند
+    accessed: '2026-11-13'
+  return-date:
+    source: www.kingsplace.co.uk-whats-on-contemporary-soheil-nafisi
+    quote: Sat 22 Mar 2025
+    accessed: '2026-11-13'
 ---
 
-Soheil Nafisi خواننده، آهنگساز و نوازندهٔ گیتار ایرانی، زادهٔ ۱۹۶۷ در تهران است. او موسیقی را به‌صورت خودآموز فراگرفته و بیش از بیست سال در هرمزگان زندگی کرده است؛ سنت‌های موسیقایی این منطقه بر کارش تأثیر گذاشته‌اند.[^bio] Nafisi بر شعر فارسی، از حافظ تا احمد شاملو و نیما یوشیج، آهنگ می‌سازد. او با همراهی تنها یک ساز، شعرها را به شیوه‌ای ساده و روایی می‌خواند.[^poetry]
+سهیل نفیسی خواننده، آهنگساز و گیتاریست ایرانی، زادهٔ ۱۹۶۷ در تهران است. موسیقی را خود آموخت و بیش از بیست سال در هرمزگان زندگی کرد. با خواندن شعر فارسی و همراهی گیتار شناخته شد و پس از کار با شعر معاصر به سراغ غزل‌های حافظ رفت.[^bio][^poetry][^hafez]
 
-## ضبط‌ها
+## شعر و گیتار
 
-Rira، Songs of the South، Chang and Sorood و The New Design از آلبوم‌های او هستند.[^albums] Rira در اپل موزیک عرضه شده است؛[^rira] تاریخ ثبت‌شده برای آن ۲۵ دسامبر ۲۰۰۵ است.[^date]
+زندگی در جنوب ایران بر موسیقی نفیسی اثر گذاشت. علاقه‌اش به شعر، نیما یوشیج و احمد شاملو تا حافظ را در بر می‌گرفت.[^bio][^poetry] خود را مدیون [ابراهیم منصفی](/fa/ebrahim-monsefi-qjv/)، شاعر و خواننده، می‌دانست.[^debt] هنگام آهنگسازی، به ریتم خود شعر گوش می‌داد و از آن به لحنی آهنگین می‌رسید.[^rhythm]
 
-برنامهٔ Concertzender یک سی‌دی از نشر Hermes Records با شمارهٔ HER-027 و تاریخ ۲۰۱۳ معرفی می‌کند. این تاریخ با سال ۲۰۰۵ در فهرست دیجیتال یکسان نیست؛ از این فهرست‌ها نمی‌توان تاریخ انتشار نخست را قطعی دانست.[^hermes]
+نخستین آلبومش، [«ری‌را»](#rira-qm8)، در سال ۲۰۰۵ با تنظیم کریستف رضاعی منتشر شد.[^rira][^date][^arranging] بعدتر «ترانه‌های جنوب» و [«چنگ و سرود»](#lyra-hymn-7cp) را منتشر کرد؛ آلبوم دوم در سال ۲۰۱۱ به بازار آمد.[^south][^lyra][^lyra-date] شعر فارسی و موسیقی جنوب همچنان در کارهایش حضور داشتند.[^albums]
+
+## حافظ
+
+برای «طرح نو»، که در سال ۱۳۹۵ منتشر شد، نفیسی بر شعر حافظ متمرکز شد. پنج سال با این شعرها کار کرد و می‌گفت آن‌ها هم بر ملودی‌هایش و هم بر ساز زدنش اثر گذاشته‌اند.[^newdesign][^years][^hafez][^playing]
+
+او اجرای تنها با گیتار را ادامه داد و در اردیبهشت ۱۳۹۶ کنسرتی تکنفره در تالار وحدت برگزار کرد.[^live][^solo] پس از وقفه‌ای طولانی، قرار بود در مارس ۲۰۲۵ در کینگز پلیس دوباره روی صحنه برود.[^return][^return-date]

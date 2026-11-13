@@ -7,8 +7,10 @@ statements:
       language: en
     references:
     - source: www.vaakrecords.com-events-soheil-nafisi-a-night-of-music-and-poetry-at-kings-place-8bcc63c362b5
-      quote: |-
-        Soheil Nafisi (b. 1967, Tehran) is a renowned Iranian singer, composer, and guitarist, celebrated for his exceptional ability to blend music with poetry. A self-taught musician, Nafisi spent over two decades in Hormozgan, a culturally vibrant region in southern Iran, whose rich traditions significantly influenced his distinctive sound.
+      quote: Soheil Nafisi (b. 1967, Tehran) is a renowned Iranian singer, composer, and guitarist, celebrated for
+        his exceptional ability to blend music with poetry. A self-taught musician, Nafisi spent over two decades
+        in Hormozgan, a culturally vibrant region in southern Iran, whose rich traditions significantly influenced
+        his distinctive sound.
       accessed: '2026-10-19'
   - value:
       text: سهیل نفیسی
@@ -22,15 +24,19 @@ statements:
       date: '1967'
     references:
     - source: www.vaakrecords.com-events-soheil-nafisi-a-night-of-music-and-poetry-at-kings-place-8bcc63c362b5
-      quote: |-
-        Soheil Nafisi (b. 1967, Tehran) is a renowned Iranian singer, composer, and guitarist, celebrated for his exceptional ability to blend music with poetry. A self-taught musician, Nafisi spent over two decades in Hormozgan, a culturally vibrant region in southern Iran, whose rich traditions significantly influenced his distinctive sound.
+      quote: Soheil Nafisi (b. 1967, Tehran) is a renowned Iranian singer, composer, and guitarist, celebrated for
+        his exceptional ability to blend music with poetry. A self-taught musician, Nafisi spent over two decades
+        in Hormozgan, a culturally vibrant region in southern Iran, whose rich traditions significantly influenced
+        his distinctive sound.
       accessed: '2026-10-19'
   birthplace:
   - value: Qhm6fzw
     references:
     - source: www.vaakrecords.com-events-soheil-nafisi-a-night-of-music-and-poetry-at-kings-place-8bcc63c362b5
-      quote: |-
-        Soheil Nafisi (b. 1967, Tehran) is a renowned Iranian singer, composer, and guitarist, celebrated for his exceptional ability to blend music with poetry. A self-taught musician, Nafisi spent over two decades in Hormozgan, a culturally vibrant region in southern Iran, whose rich traditions significantly influenced his distinctive sound.
+      quote: Soheil Nafisi (b. 1967, Tehran) is a renowned Iranian singer, composer, and guitarist, celebrated for
+        his exceptional ability to blend music with poetry. A self-taught musician, Nafisi spent over two decades
+        in Hormozgan, a culturally vibrant region in southern Iran, whose rich traditions significantly influenced
+        his distinctive sound.
       accessed: '2026-10-19'
   image:
   - value: https://upload.wikimedia.org/wikipedia/commons/c/cf/Soheil_Nafisi_20151003_16.jpg
@@ -60,3 +66,44 @@ statements:
         text: Amin Berenjkar
         language: en
       license: https://creativecommons.org/licenses/by/4.0/
+  life event:
+  - value:
+      text: خود شعر ريتم خودش را به من ادا مي‌كند.
+      language: fa
+    references:
+    - source: www1.rfi.fr-actufa-articles-111-article_5585.asp
+      quote: خود شعر ريتم خودش را به من ادا مي‌كند.
+      accessed: '2026-11-13'
+      locator: Quoted explanation of poem rhythm
+  - value:
+      text: تنظیم قطعات آلبوم ریرا که توسط کریستف رضاعی انجام گرفته
+      language: fa
+    references:
+    - source: www1.rfi.fr-actufa-articles-111-article_5585.asp
+      quote: تنظیم قطعات آلبوم ریرا که توسط کریستف رضاعی انجام گرفته
+      accessed: '2026-11-13'
+      locator: Following paragraph
+  - value:
+      text: روی اشعار حافظ متمرکز و به او نزدیک‌تر شوم.
+      language: fa
+    references:
+    - source: www.honaronline.ir-91834
+      quote: روی اشعار حافظ متمرکز و به او نزدیک‌تر شوم.
+      accessed: '2026-11-13'
+      locator: Nafisi speech at launch
+  - value:
+      text: کمک کرد روی ملودی‌ها و ساز زدنم تاثیر زیادی بگذارد.
+      language: fa
+    references:
+    - source: www.honaronline.ir-91834
+      quote: کمک کرد روی ملودی‌ها و ساز زدنم تاثیر زیادی بگذارد.
+      accessed: '2026-11-13'
+      locator: Nafisi speech at launch
+  - value:
+      text: سهیل نفیسی 26 اردیبهشت ماه بار دیگر با گیتاری در دست پا به صحنه عریض تالار وحدت گذاشت
+      language: fa
+    references:
+    - source: www.honaronline.ir-98891
+      quote: سهیل نفیسی 26 اردیبهشت ماه بار دیگر با گیتاری در دست پا به صحنه عریض تالار وحدت گذاشت
+      accessed: '2026-11-13'
+      locator: Opening report

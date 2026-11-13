@@ -1,0 +1,98 @@
+id: Qrb5cxn
+type: release
+statements:
+  name:
+  - value:
+      text: The New Design
+      language: en
+    references:
+    - &id001
+      source: music.apple.com-us-album-1764980614
+      quote: 'Listen to The New Design by Soheil Nafisi on Apple Music. 2016. 17 Songs. Duration: 56 minutes.'
+      accessed: '2026-11-13'
+      locator: Album JSON-LD description
+  - value:
+      text: طرح نو
+      language: fa
+    references:
+    - source: music.apple.com-us-album-1764980614
+      quote: طرح نو
+      accessed: '2026-11-13'
+      locator: Original artwork
+  performer:
+  - value: Qhevaad
+    references:
+    - *id001
+  - value: Qxaybzv
+    references:
+    - source: www.honaronline.ir-91581
+      quote: محمدرضا اصغری، مازیار خواجیان، حسین کمانی با ملودیکا، گیتار و گیتار بیس سهیل نفیسی را همراهی کرده‌اند.
+      accessed: '2026-11-13'
+      locator: Musician paragraph
+    - source: www.honaronline.ir-91834
+      quote: محمدرضا اصغری کنترباس، ملودیکا، فلوت و پرکاشن
+      accessed: '2026-11-13'
+      locator: Final musician-credit paragraph
+    qualifiers:
+      role:
+      - double bass
+      - flute
+      - percussion
+  - value: Qyy8t8v
+    references:
+    - source: www.honaronline.ir-91581
+      quote: محمدرضا اصغری، مازیار خواجیان، حسین کمانی با ملودیکا، گیتار و گیتار بیس سهیل نفیسی را همراهی کرده‌اند.
+      accessed: '2026-11-13'
+      locator: Musician paragraph
+    - source: www.honaronline.ir-91834
+      quote: مازیار خواجیان گیتار باس
+      accessed: '2026-11-13'
+      locator: Final musician-credit paragraph
+    qualifiers:
+      role:
+      - bass
+  - value: Qc8x92x
+    references:
+    - source: www.honaronline.ir-91581
+      quote: محمدرضا اصغری، مازیار خواجیان، حسین کمانی با ملودیکا، گیتار و گیتار بیس سهیل نفیسی را همراهی کرده‌اند.
+      accessed: '2026-11-13'
+      locator: Musician paragraph
+    - source: www.honaronline.ir-91834
+      quote: حسین کمانی گیتار دوم
+      accessed: '2026-11-13'
+      locator: Final musician-credit paragraph
+    qualifiers:
+      role:
+      - guitar
+  release date:
+  - value:
+      date: '2016-12-19'
+    references:
+    - source: music.apple.com-us-album-1764980614
+      quote: '"datePublished":"2016-12-19"'
+      accessed: '2026-11-13'
+      locator: Album JSON-LD datePublished
+  listen link:
+  - value: https://music.apple.com/us/album/the-new-design/1764980614
+    references:
+    - *id001
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e5/c0/06/e5c00662-14b8-49a9-5217-4b471801db2b/198846127477.jpg/1200x630bb.jpg
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-1764980614
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e5/c0/06/e5c00662-14b8-49a9-5217-4b471801db2b/198846127477.jpg/1200x630bb.jpg
+      accessed: '2026-11-13'
+      locator: Album JSON-LD image
+  contributor:
+  - value: Qsr46mk
+    qualifiers:
+      role: producer
+    references:
+    - source: www.honaronline.ir-91581
+      quote: به تهیه کنندگی افشین معصومی
+      accessed: '2026-11-13'
+      locator: Publisher paragraph
