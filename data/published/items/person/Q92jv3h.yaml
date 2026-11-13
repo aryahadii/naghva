@@ -23,26 +23,94 @@ statements:
       language: fa
     references:
     - source: bahramnouraei.com-fa-discography-52c0e95c2db5
-      quote: 'آهنگسازان: مهدیار آقاجانی و بهرام نورائی'
+      quote: |-
+        آهنگسازان: مهدیار آقاجانی و بهرام نورائی
       accessed: '2026-10-23'
   image:
   - value: https://f4.bcbits.com/img/0010560746_21.jpg
     references:
     - source: mahdyarmahdyar.bandcamp.com
-      quote: Seized | Mahdyar
+      quote: |-
+        Seized | Mahdyar
       accessed: '2026-10-19'
     - source: mahdyarmahdyar.bandcamp.com
-      quote: https://f4.bcbits.com/img/0010560746_21.jpg
+      quote: |-
+        https://f4.bcbits.com/img/0010560746_21.jpg
       accessed: '2026-10-19'
     - source: mahdyarmahdyar.bandcamp.com-album-seized-ae2ca03eb230
-      quote: Seized by Mahdyar
+      quote: |-
+        Seized by Mahdyar
       accessed: '2026-10-19'
   profile link:
   - value: https://mahdyarmahdyar.bandcamp.com
     references:
     - source: mahdyarmahdyar.bandcamp.com
-      quote: Seized | Mahdyar
+      quote: |-
+        Seized | Mahdyar
       accessed: '2026-10-19'
     - source: mahdyarmahdyar.bandcamp.com
-      quote: https://mahdyarmahdyar.bandcamp.com
+      quote: |-
+        https://mahdyarmahdyar.bandcamp.com
       accessed: '2026-10-19'
+  life event:
+  - value:
+      text: At first it wasn’t that serious, we were learning the basics of music, practicing with easier instruments
+        like xylophone and recorder but after a year or two our music teacher told my parents that if I still want
+        to pursue music it’s time for me to choose an instrument and learn classical music. I liked electric guitar
+        (because of Pink Floyd) but the teacher told my parents that I should either choose violin or piano. I chose
+        violin because it looked more similar to electric guitar.
+      language: en
+    references:
+    - source: www.dmcworld.net-features-mahdyar
+      quote: |-
+        At first it wasn’t that serious, we were learning the basics of music, practicing with easier instruments like xylophone and recorder but after a year or two our music teacher told my parents that if I still want to pursue music it’s time for me to choose an instrument and learn classical music. I liked electric guitar (because of Pink Floyd) but the teacher told my parents that I should either choose violin or piano. I chose violin because it looked more similar to electric guitar.
+      accessed: '2026-11-13'
+  - value:
+      text: I practiced violin and studied classical music for 6 years with different private tutors and then I
+        got bored of it and went on to study middle eastern music for 4 years with another private tutor. So I can’t
+        say it was my idea, it was a combination.
+      language: en
+    references:
+    - source: www.dmcworld.net-features-mahdyar
+      quote: |-
+        I practiced violin and studied classical music for 6 years with different private tutors and then I got bored of it and went on to study middle eastern music for 4 years with another private tutor. So I can’t say it was my idea, it was a combination.
+      accessed: '2026-11-13'
+  - value:
+      text: In Iran, specially at that time, there was no such thing as “industry”. Persian hip hop was at its first
+        days and rappers were using downloaded instrumentals from the internet. I met few rappers through graffiti
+        and told them I can make music for them using Iranian instruments so we can come up with our own version
+        hip hop instead of copying American hip hop. I became a well known producer quite fast and from there I
+        went on to make other types of music such as electronic, fusion and film music.
+      language: en
+    references:
+    - source: www.dmcworld.net-features-mahdyar
+      quote: |-
+        In Iran, specially at that time, there was no such thing as “industry”. Persian hip hop was at its first days and rappers were using downloaded instrumentals from the internet. I met few rappers through graffiti and told them I can make music for them using Iranian instruments so we can come up with our own version hip hop instead of copying American hip hop. I became a well known producer quite fast and from there I went on to make other types of music such as electronic, fusion and film music.
+      accessed: '2026-11-13'
+  - value:
+      text: It was actually only a couple of years ago that two close friends of mine who had heard many of these
+        unreleased tracks, started pushing me relentlessly, telling me almost every week that certain people need
+        to hear this side of my production, so I finally sat down with a theme in mind, selected and retouched some
+        of the tracks that I had made throughout the years, composed some new ones and Seized was created. It’s
+        for this reason that I have to thank my friend Hirad Sab who’s one of my favorite visual artists, who’s
+        also responsible for the creative direction of my album and directed the video for ‘Money Money’ which will
+        come out soon. The other friend is Ash Koosha who’s one of my favorite musicians and with whom I have a
+        lot of unreleased music that we’ve made together. I’ve actually used his voice on a couple of tracks on
+        the album including ‘Money Money’.
+      language: en
+    references:
+    - source: thequietus.com-news-mahdyar-interview-money-money
+      quote: |-
+        It was actually only a couple of years ago that two close friends of mine who had heard many of these unreleased tracks, started pushing me relentlessly, telling me almost every week that certain people need to hear this side of my production, so I finally sat down with a theme in mind, selected and retouched some of the tracks that I had made throughout the years, composed some new ones and Seized was created. It’s for this reason that I have to thank my friend Hirad Sab who’s one of my favorite visual artists, who’s also responsible for the creative direction of my album and directed the video for ‘Money Money’ which will come out soon. The other friend is Ash Koosha who’s one of my favorite musicians and with whom I have a lot of unreleased music that we’ve made together. I’ve actually used his voice on a couple of tracks on the album including ‘Money Money’.
+      accessed: '2026-11-13'
+  - value:
+      text: I used my visa for Cannes festival and left Iran in 2009.
+      language: en
+    references:
+    - source: www.dmcworld.net-features-mahdyar
+      quote: |-
+        I used my visa for Cannes festival and left Iran in 2009.
+      accessed: '2026-11-13'
+    qualifiers:
+      point in time:
+        date: '2009'
