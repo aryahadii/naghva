@@ -1,4 +1,5 @@
 ---
+archive: https://web.archive.org/web/20250419190011/https://golnarshahyar.bandcamp.com/track/tell-my-mother-she-has-no-daughter-anymore
 url: https://golnarshahyar.bandcamp.com/track/tell-my-mother-she-has-no-daughter-anymore
 title: Tell My Mother She Has No Daughter Anymore - به مادرم بگویید دیگر دختر ندارد
 kind: web page

@@ -1,4 +1,5 @@
 ---
+archive: https://web.archive.org/web/20260608051539/https://www.lotusrecords.at/produkt/sormeh/
 url: https://www.lotusrecords.at/produkt/sormeh/
 title: Sormeh – Lotus Records
 kind: web page

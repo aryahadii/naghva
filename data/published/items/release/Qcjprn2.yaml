@@ -7,17 +7,26 @@ statements:
       language: en
     references:
     - source: www.lotusrecords.at-produkt-sormeh
-      quote: |-
-        Sormeh
+      quote: Sormeh
       accessed: '2026-11-13'
   performer:
   - value: Qatbht5
     references:
     - source: www.lotusrecords.at-produkt-sormeh
-      quote: |-
-        Artist: SORMEH
+      quote: 'Artist: SORMEH'
       accessed: '2026-11-13'
   - value: Q5j4q5k
+    references:
+    - source: www.lotusrecords.at-produkt-sormeh
+      quote: Golnar Shahyar, Mona Matbou Riahi aus dem Iran und Jelena Popržan aus Serbien
+      accessed: '2026-11-13'
+  - value: Qyy9hf9
+    references:
+    - source: www.lotusrecords.at-produkt-sormeh
+      quote: |-
+        Golnar Shahyar, Mona Matbou Riahi aus dem Iran und Jelena Popržan aus Serbien
+      accessed: '2026-11-13'
+  - value: Qpmswms
     references:
     - source: www.lotusrecords.at-produkt-sormeh
       quote: |-
@@ -28,6 +37,5 @@ statements:
       date: '2013-10-25'
     references:
     - source: www.lotusrecords.at-produkt-sormeh
-      quote: |-
-        VÖ Datum: 25.10.2013
+      quote: 'VÖ Datum: 25.10.2013'
       accessed: '2026-11-13'

@@ -1,4 +1,5 @@
 ---
+archive: https://web.archive.org/web/20260612015210/https://www.jazzhalo.be/interviews/a-conversation-with-golnar-shahyar/
 url: https://www.jazzhalo.be/interviews/a-conversation-with-golnar-shahyar/
 title: A Conversation with Golnar Shahyar
 kind: web page

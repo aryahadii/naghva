@@ -1,4 +1,5 @@
 ---
+archive: https://web.archive.org/web/20260616093422/https://www.musicaustria.at/musik-ist-fuer-mich-freiheit-golnar-shahyar-im-mica-interview/
 url: https://www.musicaustria.at/musik-ist-fuer-mich-freiheit-golnar-shahyar-im-mica-interview/
 title: Musik ist für mich Freiheit – Golnar Shahyar im mica-Interview
 kind: web page
@@ -6,6 +7,8 @@ language: de
 tier: journalism
 about:
 - Golnar Shahyar
+issued:
+  date: "2022-11-24"
 status: processed
 ---
 

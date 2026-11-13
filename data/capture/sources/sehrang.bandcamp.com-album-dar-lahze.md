@@ -1,4 +1,5 @@
 ---
+archive: https://web.archive.org/web/20200923050820/https://sehrang.bandcamp.com/album/dar-lahze
 url: https://sehrang.bandcamp.com/album/dar-lahze
 title: Dar Lahze
 kind: web page
