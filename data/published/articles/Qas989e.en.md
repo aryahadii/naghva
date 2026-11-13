@@ -109,6 +109,15 @@ references:
     quote: released September 17, 2025
     accessed: '2026-11-13'
     locator: Album credits
+  once-date:
+    source: sussandeyhim.com-products-once-within-a-time-original-motion-picture-soundtrack-7b89c14e471e
+    quote: 'Release Date: April 18, 2025'
+    accessed: '2026-10-23'
+  desert:
+    source: crammed-discs.bandcamp.com-album-desert-equations-azax-attra-made-to-measure-vol-8-77791fe1b5a2
+    quote: 'When it first appeared in 1986, the Desert Equations: Azax Attra album was greeted with enthusiasm'
+    accessed: '2026-11-13'
+    locator: About, original 1986 issue rather than 2022 reissue
 ---
 
 Sussan Deyhim is an Iranian composer, vocalist and performance artist whose work crosses recordings, dance, film and multimedia theatre. Her voice is both a singer’s instrument and material she layers and transforms in the studio.[^profile][^tape]
@@ -117,16 +126,16 @@ Sussan Deyhim is an Iranian composer, vocalist and performance artist whose work
 
 Deyhim began in Iran’s Pars National Ballet, where contemporary choreography and Iranian folk dance shared the programme. The encounters between experimental and indigenous arts at the Shiraz Arts Festival also shaped her approach.[^ballet-start][^ballet][^festival] After training with Maurice Béjart in Brussels, she moved to New York and began composing vocal music for her own choreography.[^vocal-start]
 
-In 1983, unable to find people to perform the vocal pieces she imagined, she recorded the harmonies herself, working with cassette and reel-to-reel tapes.[^tape] Meeting Richard Horowitz began a long partnership. Their jointly composed recordings from 1985–1990 were eventually gathered on [*The Invisible Road*](#the-invisible-road-original-recordings-1985-1990-h6n), released in 2024.[^invisible]
+In 1983, unable to find people to perform the vocal pieces she imagined, she recorded the harmonies herself, working with cassette and reel-to-reel tapes.[^tape] Meeting Richard Horowitz began a long partnership. Their [*Desert Equations: Azax Attra*](#desert-equations-azax-attra-cvt) appeared in 1986, combining her voice with his electronics.[^desert] Their jointly composed recordings from 1985–1990 were eventually gathered on [*The Invisible Road*](#the-invisible-road-original-recordings-1985-1990-h6n), released in 2024.[^invisible]
 
 Their collaboration also produced [*Majoun*](#majoun-p6q), which Deyhim later described as largely Horowitz’s album, with her singing.[^majoun-voice] Her own [*Madman of God*](#madman-of-god-fcw) led to a different exchange: invited to remix it, Bill Laswell initially felt it needed no remix. His work with Karsh Kale became [*Shy Angels*](#shy-angels-s7m), a reinterpretation of the album.[^madman-laswell][^shy-angels]
 
 ## Music for images and the stage
 
-Shirin Neshat invited Deyhim to compose the music and create a performing persona for *Turbulent*. Their work continued in the music and sound design for [*Soliloquy*](#soliloquy-axk) and other video installations.[^neshat][^soliloquy]
+Shirin Neshat invited Deyhim to compose the music and create a performing persona for [*Turbulent*](#turbulent-6s6). Their work continued in the music and sound design for [*Soliloquy*](#soliloquy-axk) and other video installations.[^neshat][^soliloquy]
 
 For *The House Is Black*, inspired by Forough Farrokhzad, Deyhim co-composed with Horowitz and directed in collaboration with Robert Egan. The production reached New York’s Metropolitan Museum of Art by 2018.[^house][^met] In describing her work with poetry, she starts with a vocal melody, builds rhythms and textures around it, then revises toward more abstract or electronic sounds, allowing room for silence.[^process-poem][^process-revision][^process-silence] Her solo concert *Whispers from the Underworld* brings compositions from film, visual art, opera and multimedia work back to the stage.[^whispers]
 
 ## Later collaborations
 
-During the pandemic, Deyhim in Los Angeles and Torsten Rasch in Rome exchanged digital files, expanding music for his opera’s Eyewitness character into [*Songs from UR*](#songs-from-ur-2ta). The album appeared in September 2025.[^ur-process][^ur-date] The [*Once Within A Time*](#once-within-a-time-original-motion-picture-soundtrack-dp3) soundtrack, issued that year, pairs her vocals and sonic work with Philip Glass; both composed “Clarion Call.”[^once-billing][^once-contribution][^once-clarion]
+During the pandemic, Deyhim in Los Angeles and Torsten Rasch in Rome exchanged digital files, expanding music for his opera’s Eyewitness character into [*Songs from UR*](#songs-from-ur-2ta). The album appeared in September 2025.[^ur-process][^ur-date] The [*Once Within A Time*](#once-within-a-time-original-motion-picture-soundtrack-dp3) soundtrack, issued that year, pairs her vocals and sonic work with Philip Glass; both composed “Clarion Call.”[^once-date][^once-billing][^once-contribution][^once-clarion]

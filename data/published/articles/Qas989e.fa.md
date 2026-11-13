@@ -109,6 +109,15 @@ references:
     quote: released September 17, 2025
     accessed: '2026-11-13'
     locator: Album credits
+  once-date:
+    source: sussandeyhim.com-products-once-within-a-time-original-motion-picture-soundtrack-7b89c14e471e
+    quote: 'Release Date: April 18, 2025'
+    accessed: '2026-10-23'
+  desert:
+    source: crammed-discs.bandcamp.com-album-desert-equations-azax-attra-made-to-measure-vol-8-77791fe1b5a2
+    quote: 'When it first appeared in 1986, the Desert Equations: Azax Attra album was greeted with enthusiasm'
+    accessed: '2026-11-13'
+    locator: About, original 1986 issue rather than 2022 reissue
 ---
 
 سوسن دیهیم آهنگساز، خواننده و هنرمند اجرای ایرانی است که میان ضبط موسیقی، رقص، سینما و نمایش چندرسانه‌ای کار می‌کند. صدا برای او هم ساز خواننده است و هم ماده‌ای که در استودیو لایه‌لایه ضبط و دگرگون می‌شود.[^profile][^tape]
@@ -117,16 +126,16 @@ references:
 
 دیهیم کارش را در سازمان ملی بالهٔ پارس آغاز کرد؛ جایی که رقص معاصر و رقص‌های محلی ایرانی کنار هم قرار می‌گرفتند. مواجهه با هنرهای تجربی و بومی در جشن هنر شیراز هم بر نگاهش اثر گذاشت.[^ballet-start][^ballet][^festival] پس از آموزش نزد موریس بژار در بروکسل، به نیویورک رفت و برای رقص‌هایی که خودش طراحی می‌کرد، موسیقی آوازی ساخت.[^vocal-start]
 
-در سال ۱۹۸۳، وقتی نوازنده و خوانندهٔ مناسب برای اجرای قطعه‌های آوازی‌اش پیدا نمی‌کرد، هارمونی‌ها را خودش روی نوار ضبط کرد و با کاست و نوار ریل کار کرد.[^tape] آشنایی با ریچارد هوروویتز آغاز همکاری درازی شد. ضبط‌های مشترکشان از سال‌های ۱۹۸۵ تا ۱۹۹۰ سرانجام در سال ۲۰۲۴ در مجموعهٔ [«The Invisible Road»](#the-invisible-road-original-recordings-1985-1990-h6n) منتشر شد.[^invisible]
+در سال ۱۹۸۳، وقتی نوازنده و خوانندهٔ مناسب برای اجرای قطعه‌های آوازی‌اش پیدا نمی‌کرد، هارمونی‌ها را خودش روی نوار ضبط کرد و با کاست و نوار ریل کار کرد.[^tape] آشنایی با ریچارد هوروویتز آغاز همکاری درازی شد. [«Desert Equations: Azax Attra»](#desert-equations-azax-attra-cvt) در سال ۱۹۸۶ منتشر شد و صدای او را با موسیقی الکترونیک هوروویتز همراه کرد.[^desert] ضبط‌های مشترکشان از سال‌های ۱۹۸۵ تا ۱۹۹۰ سرانجام در سال ۲۰۲۴ در مجموعهٔ [«The Invisible Road»](#the-invisible-road-original-recordings-1985-1990-h6n) منتشر شد.[^invisible]
 
 حاصل دیگر این همکاری [«Majoun»](#majoun-p6q) بود که دیهیم بعدتر آن را بیشتر آلبوم هوروویتز توصیف کرد که او در آن خوانده است.[^majoun-voice] [«Madman of God»](#madman-of-god-fcw) زمینهٔ همکاری دیگری شد: بیل لسول که برای ریمیکس آن دعوت شده بود، ابتدا آلبوم را بی‌نیاز از ریمیکس دانست. کار او با کارش کاله به [«Shy Angels»](#shy-angels-s7m)، بازخوانی دوباره‌ای از همان آلبوم، انجامید.[^madman-laswell][^shy-angels]
 
 ## موسیقی برای تصویر و صحنه
 
-شیرین نشاط از دیهیم خواست موسیقی «Turbulent» را بسازد و شخصیت اجرایی آن را شکل دهد. همکاری‌شان در موسیقی و طراحی صدای [«Soliloquy»](#soliloquy-axk) و دیگر چیدمان‌های ویدئویی ادامه یافت.[^neshat][^soliloquy]
+شیرین نشاط از دیهیم خواست موسیقی [«Turbulent»](#turbulent-6s6) را بسازد و شخصیت اجرایی آن را شکل دهد. همکاری‌شان در موسیقی و طراحی صدای [«Soliloquy»](#soliloquy-axk) و دیگر چیدمان‌های ویدئویی ادامه یافت.[^neshat][^soliloquy]
 
 در نمایش «خانه سیاه است»، با الهام از آثار فروغ فرخزاد، دیهیم با هوروویتز آهنگسازی کرد و با همکاری رابرت ایگن کارگردانی را بر عهده گرفت. این نمایش تا سال ۲۰۱۸ در موزهٔ متروپولیتن نیویورک هم اجرا شده بود.[^house][^met] دیهیم در توضیح کارش با شعر، از ملودی آوازی شروع می‌کند، ریتم و بافت را پیرامون آن می‌سازد و بعد قطعه را به سوی صداهای انتزاعی‌تر یا الکترونیک می‌برد و برای سکوت هم جا می‌گذارد.[^process-poem][^process-revision][^process-silence] کنسرت تک‌نفرهٔ «Whispers from the Underworld» آهنگ‌های او برای سینما، هنرهای تجسمی، اپرا و آثار چندرسانه‌ای را به صحنه بازمی‌گرداند.[^whispers]
 
 ## همکاری‌های متأخر
 
-در دوران همه‌گیری، دیهیم در لس‌آنجلس و تورستن راش در رم فایل‌های موسیقی ردوبدل کردند و موسیقی شخصیت شاهد در اپرای راش را به [«Songs from UR»](#songs-from-ur-2ta) گسترش دادند. آلبوم در سپتامبر ۲۰۲۵ منتشر شد.[^ur-process][^ur-date] موسیقی متن [«Once Within A Time»](#once-within-a-time-original-motion-picture-soundtrack-dp3)، منتشرشده در همان سال، آواز و کار صوتی او را کنار موسیقی فیلیپ گلس قرار می‌دهد؛ هر دو در آهنگسازی «Clarion Call» سهم دارند.[^once-billing][^once-contribution][^once-clarion]
+در دوران همه‌گیری، دیهیم در لس‌آنجلس و تورستن راش در رم فایل‌های موسیقی ردوبدل کردند و موسیقی شخصیت شاهد در اپرای راش را به [«Songs from UR»](#songs-from-ur-2ta) گسترش دادند. آلبوم در سپتامبر ۲۰۲۵ منتشر شد.[^ur-process][^ur-date] موسیقی متن [«Once Within A Time»](#once-within-a-time-original-motion-picture-soundtrack-dp3)، منتشرشده در همان سال، آواز و کار صوتی او را کنار موسیقی فیلیپ گلس قرار می‌دهد؛ هر دو در آهنگسازی «Clarion Call» سهم دارند.[^once-date][^once-billing][^once-contribution][^once-clarion]

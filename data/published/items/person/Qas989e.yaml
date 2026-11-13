@@ -62,6 +62,9 @@ statements:
       quote: I ended up recording my harmonic ideas myself
       accessed: '2026-11-13'
       locator: PDF p8, 1983 composition paragraph
+    qualifiers:
+      point in time:
+        date: '1983'
   - value:
       text: compose the music and create a persona for it
       language: en
@@ -70,6 +73,8 @@ statements:
       quote: compose the music and create a persona for it
       accessed: '2026-11-13'
       locator: Turbulent answer
+    qualifiers:
+      about: Q6s6bkf
   - value:
       text: موزه متروپولیتن نیویورک میزبان «خانه سیاه است»
       language: fa
@@ -94,3 +99,6 @@ statements:
       quote: by exchanging musical ideas through digital files
       accessed: '2026-11-13'
       locator: About; lockdown expansion of Eyewitness material
+    qualifiers:
+      about: Q2tag3g
+      with: Qbgmctn

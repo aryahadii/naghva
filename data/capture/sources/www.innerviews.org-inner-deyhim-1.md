@@ -29,3 +29,5 @@ publisher: www.innerviews.org
 > compose the music and create a persona for it
 
 Answer on the invitation to make Turbulent with Shirin Neshat; full written interview reopened, read 2026-11-13.
+
+Wayback availability lookup on 2026-11-13 returned no snapshot for this URL.
