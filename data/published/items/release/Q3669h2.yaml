@@ -6,8 +6,7 @@ statements:
       text: Avaze Majar (Live Concert) [feat. Ebrahim Monsefi] - Single
       language: en
     references:
-    - &id001
-      source: music.apple.com-us-album-6788071094
+    - source: music.apple.com-us-album-6788071094
       quote: 'Listen to Avaze Majar (Live Concert) [feat. Ebrahim Monsefi] - Single by Soheil Nafisi on Apple Music.
         2015. 1 Song. Duration: 4 minutes.'
       accessed: '2026-11-13'
@@ -15,7 +14,11 @@ statements:
   performer:
   - value: Qhevaad
     references:
-    - *id001
+    - source: music.apple.com-us-album-6788071094
+      quote: 'Listen to Avaze Majar (Live Concert) [feat. Ebrahim Monsefi] - Single by Soheil Nafisi on Apple Music.
+        2015. 1 Song. Duration: 4 minutes.'
+      accessed: '2026-11-13'
+      locator: Album JSON-LD description
   - value: Qqjvryr
     references:
     - source: music.apple.com-us-album-6788071094
@@ -33,7 +36,11 @@ statements:
   listen link:
   - value: https://music.apple.com/us/album/avaze-majar-live-concert-feat-ebrahim-monsefi-single/6788071094
     references:
-    - *id001
+    - source: music.apple.com-us-album-6788071094
+      quote: 'Listen to Avaze Majar (Live Concert) [feat. Ebrahim Monsefi] - Single by Soheil Nafisi on Apple Music.
+        2015. 1 Song. Duration: 4 minutes.'
+      accessed: '2026-11-13'
+      locator: Album JSON-LD description
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f0/25/53/f0255347-0724-652b-af44-01e37cd9793a/820233870412.jpg/1200x630bb.jpg
     qualifiers:

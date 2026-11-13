@@ -6,15 +6,17 @@ statements:
       text: Songs From The South
       language: en
     references:
-    - &id001
-      source: music.apple.com-us-album-1765160526
+    - source: music.apple.com-us-album-1765160526
       quote: 'Listen to Songs From The South by Soheil Nafisi on Apple Music. 2020. 9 Songs. Duration: 34 minutes.'
       accessed: '2026-11-13'
       locator: Album JSON-LD description
   performer:
   - value: Qhevaad
     references:
-    - *id001
+    - source: music.apple.com-us-album-1765160526
+      quote: 'Listen to Songs From The South by Soheil Nafisi on Apple Music. 2020. 9 Songs. Duration: 34 minutes.'
+      accessed: '2026-11-13'
+      locator: Album JSON-LD description
   release date:
   - value:
       date: '2020-01-18'
@@ -26,7 +28,10 @@ statements:
   listen link:
   - value: https://music.apple.com/us/album/songs-from-the-south/1765160526
     references:
-    - *id001
+    - source: music.apple.com-us-album-1765160526
+      quote: 'Listen to Songs From The South by Soheil Nafisi on Apple Music. 2020. 9 Songs. Duration: 34 minutes.'
+      accessed: '2026-11-13'
+      locator: Album JSON-LD description
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c6/3f/7e/c63f7e8f-e1d5-16d0-cfd2-bc6b36af219b/198846150963.jpg/1200x630bb.jpg
     qualifiers:

@@ -6,8 +6,7 @@ statements:
       text: The New Design
       language: en
     references:
-    - &id001
-      source: music.apple.com-us-album-1764980614
+    - source: music.apple.com-us-album-1764980614
       quote: 'Listen to The New Design by Soheil Nafisi on Apple Music. 2016. 17 Songs. Duration: 56 minutes.'
       accessed: '2026-11-13'
       locator: Album JSON-LD description
@@ -22,7 +21,10 @@ statements:
   performer:
   - value: Qhevaad
     references:
-    - *id001
+    - source: music.apple.com-us-album-1764980614
+      quote: 'Listen to The New Design by Soheil Nafisi on Apple Music. 2016. 17 Songs. Duration: 56 minutes.'
+      accessed: '2026-11-13'
+      locator: Album JSON-LD description
   - value: Qxaybzv
     references:
     - source: www.honaronline.ir-91581
@@ -30,7 +32,7 @@ statements:
       accessed: '2026-11-13'
       locator: Musician paragraph
     - source: www.honaronline.ir-91834
-      quote: محمدرضا اصغری کنترباس، ملودیکا، فلوت و پرکاشن
+      quote: اصغری کنترباس، ملودیکا، فلوت و پرکاشن
       accessed: '2026-11-13'
       locator: Final musician-credit paragraph
     qualifiers:
@@ -45,7 +47,7 @@ statements:
       accessed: '2026-11-13'
       locator: Musician paragraph
     - source: www.honaronline.ir-91834
-      quote: مازیار خواجیان گیتار باس
+      quote: خواجیان گیتار باس
       accessed: '2026-11-13'
       locator: Final musician-credit paragraph
     qualifiers:
@@ -58,7 +60,7 @@ statements:
       accessed: '2026-11-13'
       locator: Musician paragraph
     - source: www.honaronline.ir-91834
-      quote: حسین کمانی گیتار دوم
+      quote: کمانی گیتار دوم
       accessed: '2026-11-13'
       locator: Final musician-credit paragraph
     qualifiers:
@@ -75,7 +77,10 @@ statements:
   listen link:
   - value: https://music.apple.com/us/album/the-new-design/1764980614
     references:
-    - *id001
+    - source: music.apple.com-us-album-1764980614
+      quote: 'Listen to The New Design by Soheil Nafisi on Apple Music. 2016. 17 Songs. Duration: 56 minutes.'
+      accessed: '2026-11-13'
+      locator: Album JSON-LD description
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e5/c0/06/e5c00662-14b8-49a9-5217-4b471801db2b/198846127477.jpg/1200x630bb.jpg
     qualifiers:

@@ -2,11 +2,11 @@
 references:
   paria:
     source: www.honaronline.ir-98891
-    quote: 'یکی از آثار اولیه او به نام "پریا" با شعری از احمد شاملو'
+    quote: یکی از آثار اولیه او به نام "پریا" با شعری از احمد شاملو
     accessed: '2026-11-13'
   sequence:
     source: www.honaronline.ir-98891
-    quote: 'بخش بعدی برنامه بود و سپس نوبت به دو ترانه جنوبی از ابراهیم منصفی رسید.'
+    quote: بخش بعدی برنامه بود و سپس نوبت به دو ترانه جنوبی از ابراهیم منصفی رسید.
     accessed: '2026-11-13'
   bio:
     source: www.vaakrecords.com-events-soheil-nafisi-a-night-of-music-and-poetry-at-kings-place-8bcc63c362b5
@@ -52,7 +52,7 @@ references:
     locator: Following paragraph
   hafez:
     source: www.honaronline.ir-91834
-    quote: روی اشعار حافظ متمرکز و به او نزدیک‌تر شوم.
+    quote: اشعار حافظ
     accessed: '2026-11-13'
     locator: Nafisi speech at launch
   years:
@@ -62,7 +62,7 @@ references:
     locator: Nafisi speech at launch
   playing:
     source: www.honaronline.ir-91834
-    quote: کمک کرد روی ملودی‌ها و ساز زدنم تاثیر زیادی بگذارد.
+    quote: ملودی‌ها و ساز زدنم تاثیر زیادی بگذارد.
     accessed: '2026-11-13'
     locator: Nafisi speech at launch
   live:

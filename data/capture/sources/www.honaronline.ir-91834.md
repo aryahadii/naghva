@@ -15,25 +15,25 @@ archive: https://web.archive.org/web/20250627180618/https://www.honaronline.ir/%
 
 Nafisi speech at launch, opening, read 2026-11-13.
 
-> روی اشعار حافظ متمرکز و به او نزدیک‌تر شوم.
+> اشعار حافظ
 
 Same paragraph, read 2026-11-13.
 
-> کمک کرد روی ملودی‌ها و ساز زدنم تاثیر زیادی بگذارد.
+> ملودی‌ها و ساز زدنم تاثیر زیادی بگذارد.
 
 Same paragraph, read 2026-11-13.
 
 Full contemporaneous album-launch report read, including producer speech, musician credits and actual distribution date30Azar1395. Short quotations retain the discussion of Hafez and musical process.
 
-> مازیار خواجیان گیتار باس
+> خواجیان گیتار باس
 
 Final musician-credit paragraph, read2026-11-13.
 
-> حسین کمانی گیتار دوم
+> کمانی گیتار دوم
 
 Final musician-credit paragraph, read2026-11-13.
 
-> محمدرضا اصغری کنترباس، ملودیکا، فلوت و پرکاشن
+> اصغری کنترباس، ملودیکا، فلوت و پرکاشن
 
 Final musician-credit paragraph, read2026-11-13.
 
