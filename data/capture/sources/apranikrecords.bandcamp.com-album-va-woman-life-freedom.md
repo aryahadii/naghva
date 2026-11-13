@@ -1,5 +1,4 @@
 ---
-archive: https://web.archive.org/web/20261002141153/https://apranikrecords.bandcamp.com/album/va-woman-life-freedom
 url: https://apranikrecords.bandcamp.com/album/va-woman-life-freedom
 title: VA - WOMAN, LIFE, FREEDOM
 kind: web page
@@ -9,6 +8,7 @@ about:
 - Nesa Azadikhah
 - Apranik Records
 status: processed
+archive: https://web.archive.org/web/20261002141153/https://apranikrecords.bandcamp.com/album/va-woman-life-freedom
 ---
 
 > Collaboration between AIDA and Nesa Azadikhah
@@ -22,3 +22,5 @@ Page text, read 2026-11-13.
 > Nesa Azadikhah - Sarnevesht
 
 Page text, read 2026-11-13.
+
+Wayback availability API reported an available status-200 snapshot on 2026-11-13. Snapshot contents were not reread.

@@ -1,5 +1,4 @@
 ---
-archive: https://web.archive.org/web/20251226134241/https://opaltapes.bandcamp.com/album/moscels
 url: https://opaltapes.bandcamp.com/album/moscels
 title: MOSCELS
 kind: web page
@@ -9,6 +8,7 @@ about:
 - Sote
 - MOSCELS
 status: processed
+archive: https://web.archive.org/web/20251226134241/https://opaltapes.bandcamp.com/album/moscels
 ---
 
 > MOSCELS
@@ -38,3 +38,5 @@ Page text, read 2026-11-13.
 > Synthesized entirely from physical models and oscillators
 
 Page text, read 2026-11-13.
+
+Wayback availability API reported an available status-200 snapshot on 2026-11-13. Snapshot contents were not reread.

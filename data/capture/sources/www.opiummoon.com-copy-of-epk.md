@@ -1,5 +1,4 @@
 ---
-archive: https://web.archive.org/web/20260720125710/https://www.opiummoon.com/copy-of-epk
 url: https://www.opiummoon.com/copy-of-epk
 title: Opium Moon - Night + Day Electronic Press Kit
 kind: web page
@@ -8,6 +7,7 @@ tier: own
 about:
 - Hamid Saeidi
 status: processed
+archive: https://web.archive.org/web/20260720125710/https://www.opiummoon.com/copy-of-epk
 ---
 
 > co-producing the Opium Moon album
@@ -33,3 +33,5 @@ Page text, read 2026-11-13.
 > groovy, danceable songs on DAY
 
 Page text, read 2026-11-13.
+
+Wayback availability API reported an available status-200 snapshot on 2026-11-13. Snapshot contents were not reread.

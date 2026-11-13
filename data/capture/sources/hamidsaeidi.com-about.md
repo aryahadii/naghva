@@ -1,5 +1,4 @@
 ---
-archive: https://web.archive.org/web/20260606223306/https://hamidsaeidi.com/about/
 url: https://hamidsaeidi.com/about/
 title: About - Hamid Saeidi
 kind: web page
@@ -8,6 +7,7 @@ tier: own
 about:
 - Hamid Saeidi
 status: processed
+archive: https://web.archive.org/web/20260606223306/https://hamidsaeidi.com/about/
 ---
 
 > from age 15
@@ -45,3 +45,5 @@ Page text, read 2026-11-13.
 > Hamid founded Hamid Saeidi & Ensemble
 
 Page text, read 2026-11-13.
+
+Wayback availability API reported an available status-200 snapshot on 2026-11-13. Snapshot contents were not reread.

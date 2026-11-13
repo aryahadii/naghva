@@ -1,5 +1,4 @@
 ---
-archive: https://web.archive.org/web/20260901161956/https://siavashamini.bandcamp.com/album/songs-for-sad-poets-vol-iii
 url: https://siavashamini.bandcamp.com/album/songs-for-sad-poets-vol-iii
 title: Songs for Sad Poets Vol. III
 kind: web page
@@ -9,6 +8,7 @@ about:
 - Q97bqaq
 - Songs for Sad Poets Vol. III
 status: processed
+archive: https://web.archive.org/web/20260901161956/https://siavashamini.bandcamp.com/album/songs-for-sad-poets-vol-iii
 ---
 
 > Songs for Sad Poets Vol. III
@@ -38,3 +38,5 @@ Page text, read 2026-11-13.
 > up to forty voices at a time
 
 Page text, read 2026-11-13.
+
+Wayback availability API reported an available status-200 snapshot on 2026-11-13. Snapshot contents were not reread.

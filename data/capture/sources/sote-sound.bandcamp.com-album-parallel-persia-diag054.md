@@ -1,5 +1,4 @@
 ---
-archive: https://web.archive.org/web/20260922141554/https://sote-sound.bandcamp.com/album/parallel-persia-diag054
 url: https://sote-sound.bandcamp.com/album/parallel-persia-diag054
 title: Parallel Persia [DIAG054]
 kind: web page
@@ -9,6 +8,7 @@ about:
 - Sote
 - Parallel Persia [DIAG054]
 status: processed
+archive: https://web.archive.org/web/20260922141554/https://sote-sound.bandcamp.com/album/parallel-persia-diag054
 ---
 
 > Parallel Persia [DIAG054]
@@ -30,3 +30,5 @@ Page text, read 2026-11-13.
 > Design: Arash Bolouri, Ata 'Sote' Ebtekar & Pedram Sadegh-Beyki (Pitheorem
 
 Page text, read 2026-11-13.
+
+Wayback availability API reported an available status-200 snapshot on 2026-11-13. Snapshot contents were not reread.

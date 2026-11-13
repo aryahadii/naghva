@@ -1,5 +1,4 @@
 ---
-archive: https://web.archive.org/web/20231004101857/https://foxydigitalis.zone/2021/06/15/siavash-amini-interview/
 url: https://foxydigitalis.zone/2021/06/15/siavash-amini-interview/
 title: 'New Perspectives: An Interview With Siavash Amini'
 kind: web page
@@ -8,6 +7,7 @@ tier: journalism
 about:
 - Siavash Amini
 status: processed
+archive: https://web.archive.org/web/20231004101857/https://foxydigitalis.zone/2021/06/15/siavash-amini-interview/
 ---
 
 > Mahoor Music Quarterly
@@ -30,3 +30,5 @@ Page text, read 2026-11-13.
 > sound art space/project
 
 Page text, read 2026-11-13.
+
+Wayback availability API reported an available status-200 snapshot on 2026-11-13. Snapshot contents were not reread.

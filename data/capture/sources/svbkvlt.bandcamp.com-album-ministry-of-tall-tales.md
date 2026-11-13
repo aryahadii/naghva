@@ -1,5 +1,4 @@
 ---
-archive: https://web.archive.org/web/20260515140332/https://svbkvlt.bandcamp.com/album/ministry-of-tall-tales
 url: https://svbkvlt.bandcamp.com/album/ministry-of-tall-tales
 title: Ministry of Tall Tales
 kind: web page
@@ -9,6 +8,7 @@ about:
 - Sote
 - Ministry of Tall Tales
 status: processed
+archive: https://web.archive.org/web/20260515140332/https://svbkvlt.bandcamp.com/album/ministry-of-tall-tales
 ---
 
 > Ministry of Tall Tales
@@ -35,3 +35,5 @@ Page text, read 2026-11-13.
 > SVBKVLT
 
 Page text, read 2026-11-13.
+
+Wayback availability API reported an available status-200 snapshot on 2026-11-13. Snapshot contents were not reread.

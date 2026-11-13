@@ -1,5 +1,4 @@
 ---
-archive: https://web.archive.org/web/20260616060626/https://db.musicaustria.at/en/node/201011
 url: https://db.musicaustria.at/en/node/201011
 title: Shahyar Golnar – mica music database
 kind: web page
@@ -8,6 +7,7 @@ tier: discography
 about:
 - Golnar Shahyar
 status: processed
+archive: https://web.archive.org/web/20260616060626/https://db.musicaustria.at/en/node/201011
 ---
 
 > zog sie 2008 nach Wien
@@ -45,3 +45,5 @@ Page text, read 2026-11-13.
 > 2013 Dar Lazhe - Sehrang (Lotus Records)
 
 Page text, read 2026-11-13.
+
+Wayback availability API reported an available status-200 snapshot on 2026-11-13. Snapshot contents were not reread.

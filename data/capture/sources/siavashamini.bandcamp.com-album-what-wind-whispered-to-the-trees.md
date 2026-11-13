@@ -1,5 +1,4 @@
 ---
-archive: https://web.archive.org/web/20260207132751/https://siavashamini.bandcamp.com/album/what-wind-whispered-to-the-trees
 url: https://siavashamini.bandcamp.com/album/what-wind-whispered-to-the-trees
 title: What Wind Whispered To The Trees
 kind: web page
@@ -9,6 +8,7 @@ about:
 - Q97bqaq
 - What Wind Whispered To The Trees
 status: processed
+archive: https://web.archive.org/web/20260207132751/https://siavashamini.bandcamp.com/album/what-wind-whispered-to-the-trees
 ---
 
 > What Wind Whispered To The Trees
@@ -26,3 +26,5 @@ Page text, read 2026-11-13.
 > Reissued on Room40 March 29, 2019
 
 Page text, read 2026-11-13.
+
+Wayback availability API reported an available status-200 snapshot on 2026-11-13. Snapshot contents were not reread.

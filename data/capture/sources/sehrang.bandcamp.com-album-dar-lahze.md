@@ -1,5 +1,4 @@
 ---
-archive: https://web.archive.org/web/20200923050820/https://sehrang.bandcamp.com/album/dar-lahze
 url: https://sehrang.bandcamp.com/album/dar-lahze
 title: Dar Lahze
 kind: web page
@@ -9,6 +8,7 @@ about:
 - Qwh2kf7
 - Dar Lahze
 status: processed
+archive: https://web.archive.org/web/20200923050820/https://sehrang.bandcamp.com/album/dar-lahze
 ---
 
 > Dar Lahze
@@ -35,3 +35,5 @@ Page text, read 2026-11-13.
 > for more information check out: www.sehrang.com
 
 Page text, read 2026-11-13.
+
+Wayback availability API reported an available status-200 snapshot on 2026-11-13. Snapshot contents were not reread.

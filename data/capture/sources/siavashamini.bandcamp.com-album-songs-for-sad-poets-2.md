@@ -1,5 +1,4 @@
 ---
-archive: https://web.archive.org/web/20251002115149/https://siavashamini.bandcamp.com/album/songs-for-sad-poets-2
 url: https://siavashamini.bandcamp.com/album/songs-for-sad-poets-2
 title: Songs for Sad Poets
 kind: web page
@@ -9,6 +8,7 @@ about:
 - Q97bqaq
 - Songs for Sad Poets
 status: processed
+archive: https://web.archive.org/web/20251002115149/https://siavashamini.bandcamp.com/album/songs-for-sad-poets-2
 ---
 
 > Songs for Sad Poets
@@ -34,3 +34,5 @@ Page text, read 2026-11-13.
 > Hallow Ground
 
 Page text, read 2026-11-13.
+
+Wayback availability API reported an available status-200 snapshot on 2026-11-13. Snapshot contents were not reread.

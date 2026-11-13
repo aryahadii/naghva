@@ -1,5 +1,4 @@
 ---
-archive: https://web.archive.org/web/20260616093422/https://www.musicaustria.at/musik-ist-fuer-mich-freiheit-golnar-shahyar-im-mica-interview/
 url: https://www.musicaustria.at/musik-ist-fuer-mich-freiheit-golnar-shahyar-im-mica-interview/
 title: Musik ist für mich Freiheit – Golnar Shahyar im mica-Interview
 kind: web page
@@ -8,8 +7,9 @@ tier: journalism
 about:
 - Golnar Shahyar
 issued:
-  date: "2022-11-24"
+  date: '2022-11-24'
 status: processed
+archive: https://web.archive.org/web/20260616093422/https://www.musicaustria.at/musik-ist-fuer-mich-freiheit-golnar-shahyar-im-mica-interview/
 ---
 
 > Zuerst kommt für mich immer die Musik, dann schreibe ich Lyrics dafür.
@@ -39,3 +39,5 @@ Page text, read 2026-11-13.
 > Deutschen Oper Berlin
 
 Page text, read 2026-11-13.
+
+Wayback availability API reported an available status-200 snapshot on 2026-11-13. Snapshot contents were not reread.

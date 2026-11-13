@@ -1,10 +1,10 @@
 ---
-archive: https://web.archive.org/web/20250902055613/https://siavashamini.bandcamp.com/album/tar
 url: https://siavashamini.bandcamp.com/album/tar
 title: TAR | Siavash Amini
 language: en
 status: processed
 publisher: siavashamini.bandcamp.com
+archive: https://web.archive.org/web/20250902055613/https://siavashamini.bandcamp.com/album/tar
 ---
 
 > TAR
@@ -37,3 +37,5 @@ Page text, read 2026-11-13.
 > Hallow Ground
 
 Page text, read 2026-11-13.
+
+Wayback availability API reported an available status-200 snapshot on 2026-11-13. Snapshot contents were not reread.

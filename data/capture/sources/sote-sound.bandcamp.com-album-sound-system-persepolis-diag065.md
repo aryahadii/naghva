@@ -1,5 +1,4 @@
 ---
-archive: https://web.archive.org/web/20260303155035/https://sote-sound.bandcamp.com/album/sound-system-persepolis-diag065
 url: https://sote-sound.bandcamp.com/album/sound-system-persepolis-diag065
 title: Sound System Persepolis [DIAG065]
 kind: web page
@@ -9,6 +8,7 @@ about:
 - Sote
 - Sound System Persepolis [DIAG065]
 status: processed
+archive: https://web.archive.org/web/20260303155035/https://sote-sound.bandcamp.com/album/sound-system-persepolis-diag065
 ---
 
 > Sound System Persepolis [DIAG065]
@@ -31,3 +31,5 @@ Page text, read 2026-11-13.
 > Design: Guy Featherstone
 
 Page text, read 2026-11-13.
+
+Wayback availability API reported an available status-200 snapshot on 2026-11-13. Snapshot contents were not reread.

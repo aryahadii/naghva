@@ -1,5 +1,4 @@
 ---
-archive: https://web.archive.org/web/20251129175043/https://siavashamini.bandcamp.com/album/a-trail-of-laughters
 url: https://siavashamini.bandcamp.com/album/a-trail-of-laughters
 title: A Trail of Laughters
 kind: web page
@@ -9,6 +8,7 @@ about:
 - Q97bqaq
 - A Trail of Laughters
 status: processed
+archive: https://web.archive.org/web/20251129175043/https://siavashamini.bandcamp.com/album/a-trail-of-laughters
 ---
 
 > A Trail of Laughters
@@ -30,3 +30,5 @@ Page text, read 2026-11-13.
 > Book of Marvels
 
 Page text, read 2026-11-13.
+
+Wayback availability API reported an available status-200 snapshot on 2026-11-13. Snapshot contents were not reread.

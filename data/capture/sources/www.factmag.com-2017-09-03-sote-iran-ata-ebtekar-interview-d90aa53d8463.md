@@ -1,10 +1,10 @@
 ---
-archive: https://web.archive.org/web/20260514081322/https://www.factmag.com/2017/09/03/sote-iran-ata-ebtekar-interview/
 url: https://www.factmag.com/2017/09/03/sote-iran-ata-ebtekar-interview/
 title: Sote is helping Iran’s experimental electronic music scene become a powerful cultural force
 language: en
 publisher: FACT
 status: processed
+archive: https://web.archive.org/web/20260514081322/https://www.factmag.com/2017/09/03/sote-iran-ata-ebtekar-interview/
 ---
 
 > Sote, born Ata Ebtekar, is one of Iran’s foremost electronic musicians. Although he’s kown for his visceral releases on Warp and Sub Rosa
@@ -26,3 +26,5 @@ Page text, read 2026-11-13.
 > first annual festival in 2015
 
 Page text, read 2026-11-13.
+
+Wayback availability API reported an available status-200 snapshot on 2026-11-13. Snapshot contents were not reread.

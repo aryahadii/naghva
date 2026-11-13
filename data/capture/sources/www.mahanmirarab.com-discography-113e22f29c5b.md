@@ -6,6 +6,7 @@ language: en
 tier: own
 status: processed
 publisher: www.mahanmirarab.com
+archive: https://web.archive.org/web/20250420203541/https://www.mahanmirarab.com/discography/
 ---
 
 > As a Guitarist
@@ -25,3 +26,5 @@ publisher: www.mahanmirarab.com
 > Naked 7
 
 > Sakina & Friends – Longing
+
+Wayback availability API reported an available status-200 snapshot on 2026-11-13. Snapshot contents were not reread.

@@ -1,10 +1,10 @@
 ---
-archive: https://web.archive.org/web/20250320122645/https://mixmag.net/feature/the-mix-023-nesa-azadikhah-interview-techno-breaks-iran-tehran
 url: https://mixmag.net/feature/the-mix-023-nesa-azadikhah-interview-techno-breaks-iran-tehran
 title: 'The Mix 023: Nesa Azadikhah'
 language: en
 publisher: Mixmag
 status: processed
+archive: https://web.archive.org/web/20250320122645/https://mixmag.net/feature/the-mix-023-nesa-azadikhah-interview-techno-breaks-iran-tehran
 ---
 
 > As a DJ, producer, and sound artist, Nesa’s style blends field recordings with techno, ambient, breaks, and IDM
@@ -22,3 +22,5 @@ Page text, read 2026-11-13.
 > Daf, Tonbak, a bit of Santur, and Tar
 
 Page text, read 2026-11-13.
+
+Wayback availability API reported an available status-200 snapshot on 2026-11-13. Snapshot contents were not reread.

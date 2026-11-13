@@ -1,5 +1,4 @@
 ---
-archive: https://web.archive.org/web/20260918210431/https://subrosalabel.bandcamp.com/album/majestic-noise-made-in-beautiful-rotten-iran
 url: https://subrosalabel.bandcamp.com/album/majestic-noise-made-in-beautiful-rotten-iran
 title: Majestic Noise Made in Beautiful Rotten Iran
 kind: web page
@@ -9,6 +8,7 @@ about:
 - Sote
 - Majestic Noise Made in Beautiful Rotten Iran
 status: processed
+archive: https://web.archive.org/web/20260918210431/https://subrosalabel.bandcamp.com/album/majestic-noise-made-in-beautiful-rotten-iran
 ---
 
 > Majestic Noise Made in Beautiful Rotten Iran
@@ -36,3 +36,5 @@ Page text, read 2026-11-13.
 > Sub Rosa Label
 
 Page text, read 2026-11-13.
+
+Wayback availability API reported an available status-200 snapshot on 2026-11-13. Snapshot contents were not reread.

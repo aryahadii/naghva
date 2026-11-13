@@ -1,5 +1,4 @@
 ---
-archive: https://web.archive.org/web/20220718202048/https://music.apple.com/us/album/electric-deaf-ep/278192850
 url: https://music.apple.com/us/album/electric-deaf-ep/278192850
 title: Electric Deaf - EP - Apple Music
 kind: web page
@@ -9,6 +8,7 @@ about:
 - Electric Deaf - EP
 - Sote
 status: processed
+archive: https://web.archive.org/web/20220718202048/https://music.apple.com/us/album/electric-deaf-ep/278192850
 ---
 
 > Electric Deaf - EP
@@ -22,3 +22,5 @@ Apple Music embedded release metadata, read 2026-11-13.
 > "datePublished":"2002-05-13"
 
 Apple Music embedded release metadata, read 2026-11-13.
+
+Wayback availability API reported an available status-200 snapshot on 2026-11-13. Snapshot contents were not reread.

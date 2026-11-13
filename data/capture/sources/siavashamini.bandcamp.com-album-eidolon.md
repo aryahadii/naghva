@@ -1,5 +1,4 @@
 ---
-archive: https://web.archive.org/web/20250921105329/https://siavashamini.bandcamp.com/album/eidolon
 url: https://siavashamini.bandcamp.com/album/eidolon
 title: Eidolon
 kind: web page
@@ -9,6 +8,7 @@ about:
 - Q97bqaq
 - Eidolon
 status: processed
+archive: https://web.archive.org/web/20250921105329/https://siavashamini.bandcamp.com/album/eidolon
 ---
 
 > Eidolon
@@ -34,3 +34,5 @@ Page text, read 2026-11-13.
 > I want to use these as my raw material
 
 Page text, read 2026-11-13.
+
+Wayback availability API reported an available status-200 snapshot on 2026-11-13. Snapshot contents were not reread.

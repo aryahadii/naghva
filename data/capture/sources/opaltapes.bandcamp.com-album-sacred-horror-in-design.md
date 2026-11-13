@@ -1,5 +1,4 @@
 ---
-archive: https://web.archive.org/web/20260723154033/https://opaltapes.bandcamp.com/album/sacred-horror-in-design
 url: https://opaltapes.bandcamp.com/album/sacred-horror-in-design
 title: Sacred Horror In Design
 kind: web page
@@ -9,6 +8,7 @@ about:
 - Sote
 - Sacred Horror In Design
 status: processed
+archive: https://web.archive.org/web/20260723154033/https://opaltapes.bandcamp.com/album/sacred-horror-in-design
 ---
 
 > Sacred Horror In Design
@@ -32,3 +32,5 @@ Page text, read 2026-11-13.
 > Design: Arash Bolouri & Ata ‘Sote’ Ebtekar
 
 Page text, read 2026-11-13.
+
+Wayback availability API reported an available status-200 snapshot on 2026-11-13. Snapshot contents were not reread.

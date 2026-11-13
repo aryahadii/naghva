@@ -1,10 +1,10 @@
 ---
-archive: https://web.archive.org/web/20250526043553/https://ataebtekar.bandcamp.com/album/ornamentalism-sote-ata-ebtekar-and-the-iranian-orchestra
 url: https://ataebtekar.bandcamp.com/album/ornamentalism-sote-ata-ebtekar-and-the-iranian-orchestra
 title: Ornamentalism
 language: en
 publisher: Ata Ebtekar
 status: processed
+archive: https://web.archive.org/web/20250526043553/https://ataebtekar.bandcamp.com/album/ornamentalism-sote-ata-ebtekar-and-the-iranian-orchestra
 ---
 
 > Ornamentalism : Sote / Ata Ebtekar and the Iranian Orchestra
@@ -38,3 +38,5 @@ Page text, read 2026-11-13.
 > Alireza Mashayekhi
 
 Page text, read 2026-11-13.
+
+Wayback availability API reported an available status-200 snapshot on 2026-11-13. Snapshot contents were not reread.

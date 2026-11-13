@@ -1,5 +1,4 @@
 ---
-archive: https://web.archive.org/web/20260131211944/https://siavashamini.bandcamp.com/album/eremos
 url: https://siavashamini.bandcamp.com/album/eremos
 title: eremos
 kind: web page
@@ -9,6 +8,7 @@ about:
 - Q97bqaq
 - eremos
 status: processed
+archive: https://web.archive.org/web/20260131211944/https://siavashamini.bandcamp.com/album/eremos
 ---
 
 > eremos
@@ -28,3 +28,5 @@ Page text, read 2026-11-13.
 > Mastered by Lawrence English at Negative Space.
 
 Page text, read 2026-11-13.
+
+Wayback availability API reported an available status-200 snapshot on 2026-11-13. Snapshot contents were not reread.

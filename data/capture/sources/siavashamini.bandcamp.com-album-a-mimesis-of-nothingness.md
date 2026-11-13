@@ -1,5 +1,4 @@
 ---
-archive: https://web.archive.org/web/20251007005904/https://siavashamini.bandcamp.com/album/a-mimesis-of-nothingness
 url: https://siavashamini.bandcamp.com/album/a-mimesis-of-nothingness
 title: A Mimesis Of Nothingness
 kind: web page
@@ -9,6 +8,7 @@ about:
 - Q97bqaq
 - A Mimesis Of Nothingness
 status: processed
+archive: https://web.archive.org/web/20251007005904/https://siavashamini.bandcamp.com/album/a-mimesis-of-nothingness
 ---
 
 > A Mimesis Of Nothingness
@@ -38,3 +38,5 @@ Page text, read 2026-11-13.
 > Hallow Ground
 
 Page text, read 2026-11-13.
+
+Wayback availability API reported an available status-200 snapshot on 2026-11-13. Snapshot contents were not reread.

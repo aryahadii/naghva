@@ -1,5 +1,4 @@
 ---
-archive: https://web.archive.org/web/20261020191206/https://siavashamini.bandcamp.com/album/caligo
 url: https://siavashamini.bandcamp.com/album/caligo
 title: Caligo
 kind: web page
@@ -9,6 +8,7 @@ about:
 - Q97bqaq
 - Caligo
 status: processed
+archive: https://web.archive.org/web/20261020191206/https://siavashamini.bandcamp.com/album/caligo
 ---
 
 > Caligo
@@ -44,3 +44,5 @@ Page text, read 2026-11-13.
 > synthesized resurrections made from their transcriptions
 
 Page text, read 2026-11-13.
+
+Wayback availability API reported an available status-200 snapshot on 2026-11-13. Snapshot contents were not reread.

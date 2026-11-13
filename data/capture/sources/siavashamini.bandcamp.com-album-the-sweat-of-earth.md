@@ -1,5 +1,4 @@
 ---
-archive: https://web.archive.org/web/20250906203304/https://siavashamini.bandcamp.com/album/the-sweat-of-earth
 url: https://siavashamini.bandcamp.com/album/the-sweat-of-earth
 title: The Sweat Of Earth
 kind: web page
@@ -9,6 +8,7 @@ about:
 - Q97bqaq
 - The Sweat Of Earth
 status: processed
+archive: https://web.archive.org/web/20250906203304/https://siavashamini.bandcamp.com/album/the-sweat-of-earth
 ---
 
 > The Sweat Of Earth
@@ -28,3 +28,5 @@ Page text, read 2026-11-13.
 > Artwork by Yassaman Rostamian
 
 Page text, read 2026-11-13.
+
+Wayback availability API reported an available status-200 snapshot on 2026-11-13. Snapshot contents were not reread.

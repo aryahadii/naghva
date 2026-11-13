@@ -1,10 +1,10 @@
 ---
-archive: https://web.archive.org/web/20250427044940/https://golnarshahyar.bandcamp.com/album/tear-drop
 url: https://golnarshahyar.bandcamp.com/album/tear-drop
 title: Tear Drop
 language: en
 publisher: Golnar Shahyar
 status: processed
+archive: https://web.archive.org/web/20250427044940/https://golnarshahyar.bandcamp.com/album/tear-drop
 ---
 
 > Tear Drop
@@ -49,3 +49,5 @@ Page text, read 2026-11-13.
 > It is where I fully demonstrate my abilities as a vocalist, pianist, composer, arranger, band leader, and producer.
 
 Page text, read 2026-11-13.
+
+Wayback availability API reported an available status-200 snapshot on 2026-11-13. Snapshot contents were not reread.

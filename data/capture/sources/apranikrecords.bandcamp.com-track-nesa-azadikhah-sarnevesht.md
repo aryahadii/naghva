@@ -1,5 +1,4 @@
 ---
-archive: https://web.archive.org/web/20260301020217/https://apranikrecords.bandcamp.com/track/nesa-azadikhah-sarnevesht
 url: https://apranikrecords.bandcamp.com/track/nesa-azadikhah-sarnevesht
 title: Nesa Azadikhah - Sarnevesht
 kind: web page
@@ -9,6 +8,7 @@ about:
 - Qrjwd74
 - Nesa Azadikhah - Sarnevesht
 status: processed
+archive: https://web.archive.org/web/20260301020217/https://apranikrecords.bandcamp.com/track/nesa-azadikhah-sarnevesht
 ---
 
 > Nesa Azadikhah - Sarnevesht
@@ -22,3 +22,5 @@ Page text, read 2026-11-13.
 > 20 Jan 2023 00:00:00 GMT
 
 Page text, read 2026-11-13.
+
+Wayback availability API reported an available status-200 snapshot on 2026-11-13. Snapshot contents were not reread.

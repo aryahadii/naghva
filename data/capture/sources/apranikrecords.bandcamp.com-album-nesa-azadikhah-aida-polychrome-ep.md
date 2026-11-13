@@ -1,5 +1,4 @@
 ---
-archive: https://web.archive.org/web/20241224221326/https://apranikrecords.bandcamp.com/album/nesa-azadikhah-aida-polychrome-ep
 url: https://apranikrecords.bandcamp.com/album/nesa-azadikhah-aida-polychrome-ep
 title: Nesa Azadikhah, AIDA - Polychrome EP
 kind: web page
@@ -9,6 +8,7 @@ about:
 - Qrjwd74
 - Nesa Azadikhah, AIDA - Polychrome EP
 status: processed
+archive: https://web.archive.org/web/20241224221326/https://apranikrecords.bandcamp.com/album/nesa-azadikhah-aida-polychrome-ep
 ---
 
 > Nesa Azadikhah, AIDA - Polychrome EP
@@ -39,3 +39,5 @@ Page text, read 2026-11-13.
 > Nesa’s “Levitate,”
 
 Page text, read 2026-11-13.
+
+Wayback availability API reported an available status-200 snapshot on 2026-11-13. Snapshot contents were not reread.
