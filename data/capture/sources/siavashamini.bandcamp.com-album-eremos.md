@@ -1,0 +1,29 @@
+---
+url: https://siavashamini.bandcamp.com/album/eremos
+title: eremos
+kind: web page
+language: en
+tier: own
+about:
+- Q97bqaq
+- eremos
+status: processed
+---
+
+> eremos
+
+Page text, read 2026-11-13.
+
+> Siavash Amini
+
+Page text, read 2026-11-13.
+
+> 27 Oct 2023 00:00:00 GMT
+
+Page text, read 2026-11-13.
+
+> All music by Siavash Amini.
+>
+> Mastered by Lawrence English at Negative Space.
+
+Page text, read 2026-11-13.
