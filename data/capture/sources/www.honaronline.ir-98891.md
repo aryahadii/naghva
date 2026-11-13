@@ -19,4 +19,10 @@ Opening report, read 2026-11-13.
 
 Same sentence, read 2026-11-13.
 
-Full post-event report read. It identifies the first Rira issue as1384 and describes Monsefi, modern poets and Hafez in the actual program. Repertoire details not separately excerpted; no new event date is inferred from a booking. Archive lookup pending.
+
+
+Wayback availability lookup on 2026-11-13 returned no snapshot for this URL.
+
+> یکی از آثار اولیه او به نام "پریا" با شعری از احمد شاملو
+
+> بخش بعدی برنامه بود و سپس نوبت به دو ترانه جنوبی از ابراهیم منصفی رسید.

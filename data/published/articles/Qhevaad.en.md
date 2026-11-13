@@ -1,5 +1,13 @@
 ---
 references:
+  paria:
+    source: www.honaronline.ir-98891
+    quote: 'یکی از آثار اولیه او به نام "پریا" با شعری از احمد شاملو'
+    accessed: '2026-11-13'
+  sequence:
+    source: www.honaronline.ir-98891
+    quote: 'بخش بعدی برنامه بود و سپس نوبت به دو ترانه جنوبی از ابراهیم منصفی رسید.'
+    accessed: '2026-11-13'
   bio:
     source: www.vaakrecords.com-events-soheil-nafisi-a-night-of-music-and-poetry-at-kings-place-8bcc63c362b5
     quote: Soheil Nafisi (b. 1967, Tehran) is a renowned Iranian singer, composer, and guitarist, celebrated for
@@ -100,16 +108,16 @@ references:
     accessed: '2026-11-13'
 ---
 
-Soheil Nafisi is an Iranian singer, composer and guitarist born in Tehran in 1967. A self-taught musician, he spent more than twenty years in Hormozgan. He became known for setting Persian poetry to music with voice and guitar, later turning from modern poets to Hafez.[^bio][^poetry][^hafez]
+Soheil Nafisi is an Iranian singer, composer and guitarist born in Tehran in 1967. A self-taught musician, he spent more than twenty years in Hormozgan. He became known for setting Persian poetry to music with voice and guitar, later devoting an album to Hafez.[^bio][^poetry][^hafez]
 
 ## Poetry and guitar
 
 Living in southern Iran shaped Nafisi’s music. His interest in poetry ranged from Nima Yooshij and Ahmad Shamloo to Hafez.[^bio][^poetry] He acknowledged a debt to the poet and singer [Ebrahim Monsefi](/en/ebrahim-monsefi-qjv/).[^debt] He approached a poem by listening for its rhythm and finding a melody within it.[^rhythm]
 
-His first album, [*Rira*](#rira-qm8), appeared in 2005, with arrangements by the composer Christophe Rezaei.[^rira][^date][^arranging] He later released *Songs From the South* and [*Lyra & Hymn*](#lyra-hymn-7cp), the latter in 2011.[^south][^lyra][^lyra-date] His recordings continued to draw on Persian poetry and the music of southern Iran.[^albums]
+His first album, [*Rira*](#rira-qm8), appeared in 2005, with arrangements by the composer Christophe Rezaei.[^rira][^date][^arranging] He later released [*Songs From the South*](#songs-from-the-south-zng) and [*Lyra & Hymn*](#lyra-hymn-7cp), the latter in 2011.[^south][^lyra][^lyra-date] His recordings continued to draw on Persian poetry and the music of southern Iran.[^albums]
 
 ## Hafez
 
-For *The New Design*, released in 2016, Nafisi concentrated on Hafez. He spent five years working with the poetry and said that it changed both his melodies and his playing.[^newdesign][^years][^hafez][^playing]
+For [*The New Design*](#the-new-design-rb5), released in 2016, Nafisi concentrated on Hafez. He spent five years working with the poetry and said that it changed both his melodies and his playing.[^newdesign][^years][^hafez][^playing]
 
-He continued performing alone with his guitar. In May 2017 he gave a solo concert at Vahdat Hall.[^live][^solo] After a long break, he was booked to return to the stage at Kings Place in March 2025.[^return][^return-date]
+He continued performing alone with his guitar. In May 2017 he gave a solo concert at Vahdat Hall.[^live][^solo] Early in the programme he sang Ahmad Shamloo’s “Paria.” A ghazal by Hafez came next, followed by two of Monsefi’s southern songs.[^paria][^sequence] After a long break, he was booked to return to the stage at Kings Place in March 2025.[^return][^return-date]

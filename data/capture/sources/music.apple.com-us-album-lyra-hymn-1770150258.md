@@ -51,3 +51,5 @@ status: processed
 > چنگ و سرود
 
 Original complete release artwork, visually transcribed2026-11-13; original image hosted by Apple Music.
+
+Wayback availability lookup on 2026-11-13 returned no snapshot for this URL.

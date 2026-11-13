@@ -19,8 +19,10 @@ Album JSON-LD datePublished, read 2026-11-13.
 
 Album JSON-LD image, read 2026-11-13.
 
-Artist-ID342641494 catalogue followed to exact album. Full track list inspected. Store dates are edition observations; Songs From The South also has2009 track dates and known earlier circulation. The live Avaze Majar title features the late Monsefi, but does not establish a joint live performance. Archive lookup pending.
+Artist-ID342641494 catalogue followed to exact album. Full track list inspected. Store dates are edition observations; Songs From The South also has2009 track dates and known earlier circulation. The live Avaze Majar title features the late Monsefi, but does not establish a joint live performance.
 
 > "name":"Ebrahim Monsefi","roleNames":["Performer"]
 
 Child song6788071095 full credit metadata, read2026-11-13 via public HTML. This describes an archive feature; no claim of a2015 joint concert is made.
+
+Wayback availability lookup on 2026-11-13 returned no snapshot for this URL.
