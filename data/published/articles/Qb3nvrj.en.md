@@ -224,7 +224,7 @@ On 23 September 2016 the group played the Jurriaanse Zaal at De Doelen in Rotter
 
 ## Further albums and singles
 
-Chaartaar released its second album, [*Jaddeh Miraghsad*](#jaddeh-miraghsad-8d3), in 2015, with the same four members writing, arranging and singing. Its third album, [*Darya Kojaast*](#darya-kojaast-mck), followed in 2018. The group had already introduced “Benevis” as a single before including it on that album.[^second][^second-roles][^second-date][^third][^third-date]
+Chaartaar released its second album, [*Jaddeh Miraghsad*](#jaddeh-miraghsad-8d3), in 2015, with the same four members in their established roles. Its third album, [*Darya Kojaast*](#darya-kojaast-mck), followed in 2018. The group had already introduced “Benevis” as a single before including it on that album.[^second][^second-roles][^second-date][^third][^third-date]
 
 The band continued making singles after the third album. In 2019, guitarist Navid Zomorodi composed and played on [“Sedayam Bezan”](#sedayam-bezan-single-ckv), and played guitar on [“Begoo Ke Zendeim”](#begoo-ke-zendeim-single-77t).[^navid][^sedayam-date][^begoo][^begoo-date] In 2020 Chaartaar dedicated [“Iran”](#iran-single-ehm) to broken hearts, and [“Gele Kon”](#gele-kon-single-34c) to the women of Iran.[^iran][^iran-date][^gele][^gele-date]
 

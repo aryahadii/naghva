@@ -1,4 +1,5 @@
 ---
+archive: https://web.archive.org/web/20261011070610/https://music.apple.com/us/album/naro-beman-%D9%86%D8%B1%D9%88-%D8%A8%D9%85%D8%A7%D9%86-single/844848760
 url: https://music.apple.com/us/album/naro-beman-%D9%86%D8%B1%D9%88-%D8%A8%D9%85%D8%A7%D9%86-single/844848760
 title: Naro, Beman ( نرو٬ بمان ) - Single | Pallett
 publisher: Apple Music

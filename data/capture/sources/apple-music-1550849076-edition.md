@@ -1,4 +1,5 @@
 ---
+archive: https://web.archive.org/web/20260905160337/https://music.apple.com/us/album/dream-away-with-me-single/1550849076
 url: https://music.apple.com/us/album/dream-away-with-me-single/1550849076
 title: Dream Away With Me - Single | Pallett
 publisher: Apple Music

@@ -1,0 +1,27 @@
+id: Q7sg5fk
+type: event
+statements:
+  name:
+  - value:
+      text: کنسرت چارتار
+      language: fa
+    references:
+    - source: honaronline.ir-55432-chaartaar-at-milad
+      quote: کنسرت چارتار
+      accessed: '2026-11-13'
+  event date:
+  - value:
+      date: '1393-03-27'
+      calendar: jalali
+    references:
+    - &id001
+      source: honaronline.ir-55432-chaartaar-at-milad
+      quote: مرکز همایش های برج میلاد شب گذشته 27 خردادماه میزبان طرفداران گروه چارتار بود.
+      accessed: '2026-11-13'
+    - source: honaronline.ir-55432-chaartaar-at-milad
+      quote: ۱۳۹۳/۰۳/۲۸
+      accessed: '2026-11-13'
+  performer:
+  - value: Qb3nvrj
+    references:
+    - *id001

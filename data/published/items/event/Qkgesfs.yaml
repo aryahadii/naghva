@@ -1,0 +1,23 @@
+id: Qkgesfs
+type: event
+statements:
+  name:
+  - value:
+      text: CHAARTAAR in Rotterdam
+      language: en
+    references:
+    - source: persiandutch.com-chaartaar-rotterdam-2016
+      quote: CHAARTAAR in Rotterdam
+      accessed: '2026-11-13'
+  event date:
+  - value:
+      date: '2016-09-23'
+    references:
+    - &id001
+      source: persiandutch.com-chaartaar-rotterdam-2016
+      quote: Chaartaar gaf een concert in Nederland op 23 september 2016. Het concert was georganiseerd in de Jurriaanse Zaal (De Doelen) in Rotterdam.
+      accessed: '2026-11-13'
+  performer:
+  - value: Qb3nvrj
+    references:
+    - *id001

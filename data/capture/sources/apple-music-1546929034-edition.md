@@ -1,4 +1,5 @@
 ---
+archive: https://web.archive.org/web/20260923140200/https://music.apple.com/us/album/madane-yaghout-single/1546929034
 url: https://music.apple.com/us/album/madane-yaghout-single/1546929034
 title: Madane Yaghout - Single | Pallett
 publisher: Apple Music

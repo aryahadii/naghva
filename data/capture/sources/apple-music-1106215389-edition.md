@@ -1,4 +1,5 @@
 ---
+archive: https://web.archive.org/web/20190715025917/https://music.apple.com/us/album/barge-khazan-single/1106215389
 url: https://music.apple.com/us/album/barge-khazan-single/1106215389
 title: Barge Khazan - Single | Pallett
 publisher: Apple Music

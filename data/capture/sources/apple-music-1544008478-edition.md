@@ -1,4 +1,5 @@
 ---
+archive: https://web.archive.org/web/20251216010809/https://music.apple.com/us/album/hafez-single/1544008478
 url: https://music.apple.com/us/album/hafez-single/1544008478
 title: Hafez - Single | Pallett
 publisher: Apple Music

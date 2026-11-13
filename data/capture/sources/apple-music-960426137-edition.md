@@ -1,4 +1,5 @@
 ---
+archive: https://web.archive.org/web/20250824050042/https://music.apple.com/us/album/daricheh-single/960426137
 url: https://music.apple.com/us/album/daricheh-single/960426137
 title: Daricheh - Single | Chaartaar
 publisher: Apple Music
