@@ -19,6 +19,15 @@ Paragraph naming victims, attributed to manager Ali Salehzadeh. Read 2026-11-13.
 
 Paragraph after opening, date of the two members’ deaths. Read 2026-11-13.
 
-> a number of well-known venues and festivals
+> venues and festivals
 
 Closing career summary: their New York performances. Read 2026-11-13.
+
+
+> another Iranian musician
+
+Paragraph following the two brothers’ deaths: the third victim. Read 2026-11-13.
+
+> two brothers
+
+Same opening account identifies the two band members as brothers. Read 2026-11-13.
