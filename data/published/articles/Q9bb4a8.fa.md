@@ -2,46 +2,10 @@
 references:
   bio:
     source: www.niyazmusic.com-bio-2e52c31a9a2c
-    quote: |-
-      Founded in 2004 by Iranian born, Indian raised vocalist/ composer Azam Ali, and Iranian multi-instrumentalist/ composer Loga R. Torkian, Niyaz has created a 21st century global trance tradition by seamlessly blending medieval Sufi poetry and ancient folk songs from their native Iran and its surrounding countries in the Persian Gulf, with rich acoustic instrumentation and state-of-the-art modern electronics.
-    accessed: '2026-10-19'
-  records:
-    source: www.niyazmusic.com-bio-2e52c31a9a2c
-    quote: |-
-      Today with four best selling and critically acclaimed albums released on Six Degrees Records, all of which have debuted at #1 on iTunes and garnered the band an incredible amount of media attention including features on NPR, The BBC World, Huffington Post, MTV Iggy and PRI, Niyaz continues to tour internationally and build on its impressive and loyal fan base worldwide.
-    accessed: '2026-10-19'
-  album:
-    source: niyaz.bandcamp.com-album-the-fourth-light-e89ed66bcc43
-    quote: |-
-      The Fourth Light
-      by
-      NIYAZ
-    accessed: '2026-10-19'
-  date:
-    source: niyaz.bandcamp.com-album-the-fourth-light-e89ed66bcc43
-    quote: |-
-      released March 24, 2015
-    accessed: '2026-10-19'
-  stage:
-    source: www.niyazmusic.com-bio-2e52c31a9a2c
-    quote: |-
-      On stage, Niyaz is comprised of three additional world-class musicians as well as a female Whirling Dervish.
-    accessed: '2026-10-19'
-  best-date:
-    source: niyaz.bandcamp.com-album-the-best-of-niyaz-e5d6d67193d8
-    quote: released March 17, 2017
-    accessed: '2026-10-19'
-  attar-date:
-    source: niyaz.bandcamp.com-album-seven-realms-of-attar-713fece584ef
-    quote: released September 17, 2026
-    accessed: '2026-10-19'
-  attar-work:
-    source: niyaz.bandcamp.com-album-seven-realms-of-attar-713fece584ef
-    quote: Composed by NIYAZ, Seven Realms of Attar is a brand-new studio album and the musical heart of NIYAZ’s landmark theatrical spectacle, an expansive sonic journey inspired by the sublime poetry of Attar’s 12th-century masterpiece Conference of the Birds.
-    accessed: '2026-10-19'
-  attar-credits:
-    source: niyaz.bandcamp.com-album-seven-realms-of-attar-713fece584ef
-    quote: Sinan Cem Eroglu- Kopuz, Kaval, Voice
+    quote: Founded in 2004 by Iranian born, Indian raised vocalist/ composer Azam Ali, and Iranian multi-instrumentalist/
+      composer Loga R. Torkian, Niyaz has created a 21st century global trance tradition by seamlessly blending
+      medieval Sufi poetry and ancient folk songs from their native Iran and its surrounding countries in the Persian
+      Gulf, with rich acoustic instrumentation and state-of-the-art modern electronics.
     accessed: '2026-10-19'
   original-niyaz:
     source: music.apple.com-us-album-niyaz-215797152
@@ -63,30 +27,89 @@ references:
     accessed: '2026-10-19'
   acoustic-scope:
     source: www.sixdegreesrecords.com-niyaz-sumud-acoustic-ep
-    quote: Niyaz’ six song acoustic EP features three acoustic performances of songs from the band’s 2012 electronic album SUMUD,as well as three brand new songs.
+    quote: Niyaz’ six song acoustic EP features three acoustic performances of songs from the band’s 2012 electronic
+      album SUMUD,as well as three brand new songs.
     accessed: '2026-10-19'
   naseem:
     source: www.sixdegreesrecords.com-niyaz-sumud-acoustic-ep
-    quote: “Naseem” features a duet between Azam’s voice and Niyaz percussionist and Flute player Habib Meftah Boucheri on his self-made flute playing a haunting melody.
+    quote: “Naseem” features a duet between Azam’s voice and Niyaz percussionist and Flute player Habib Meftah Boucheri
+      on his self-made flute playing a haunting melody.
     accessed: '2026-10-19'
-  best-label-date:
-    source: www.sixdegreesrecords.com-wp-content-uploads-1996-01-estof-iyaz_--1.pdf
-    quote: 'Release date: March 10th 2017'
+  date:
+    source: niyaz.bandcamp.com-album-the-fourth-light-e89ed66bcc43
+    quote: released March 24, 2015
     accessed: '2026-10-19'
+  attar-date:
+    source: niyaz.bandcamp.com-album-seven-realms-of-attar-713fece584ef
+    quote: released September 17, 2026
+    accessed: '2026-10-19'
+  attar-work:
+    source: niyaz.bandcamp.com-album-seven-realms-of-attar-713fece584ef
+    quote: Composed by NIYAZ, Seven Realms of Attar is a brand-new studio album and the musical heart of NIYAZ’s
+      landmark theatrical spectacle, an expansive sonic journey inspired by the sublime poetry of Attar’s 12th-century
+      masterpiece Conference of the Birds.
+    accessed: '2026-10-19'
+  attar-credits:
+    source: niyaz.bandcamp.com-album-seven-realms-of-attar-713fece584ef
+    quote: Sinan Cem Eroglu- Kopuz, Kaval, Voice
+    accessed: '2026-10-19'
+  early-azam:
+    source: worldmusiccentral.org-niyaz-hypnotic-middle-eastern-worldbeat
+    quote: Vas vocalist Azam Ali
+    accessed: '2026-11-13'
+    locator: Opening paragraph
+  early-loga:
+    source: worldmusiccentral.org-niyaz-hypnotic-middle-eastern-worldbeat
+    quote: multi-instrumentalist Loga Ramin Torkian
+    accessed: '2026-11-13'
+    locator: Opening paragraph, previously Axiom of Choice
+  early-rizzo:
+    source: worldmusiccentral.org-niyaz-hypnotic-middle-eastern-worldbeat
+    quote: producer/remixer Carmen Rizzo
+    accessed: '2026-11-13'
+    locator: Opening paragraph
+  dance:
+    source: worldmusiccentral.org-niyaz-hypnotic-middle-eastern-worldbeat
+    quote: more extroverted for this album
+    accessed: '2026-11-13'
+    locator: Torkian answer; full feature describes Rumi and Urdu poems
+  double:
+    source: www.allaboutjazz.com-news-six-degrees-announces-new-niyaz-album
+    quote: one disc of electronic and one disc of acoustic versions of the tracks
+    accessed: '2026-11-13'
+    locator: Opening announcement
+  dehlavi:
+    source: www.radiofarda.com-a-f35_nyaz_9heavens-1377749.html-73dd9877464b
+    quote: 'رامین ترکیان می گوید: « دهلوی برای من شخصیت خیلی جالبی است چرا که حضور او ثابت می کند، افرادی مثل دهلوی
+      این کاری که ما امروز انجام می دهیم، صدها سال پیش به اشکال دیگری انجام داده اند و کوشیده اند تا فرهنگ ها را
+      به هم نزدیک کنند. به همین جهت هم در آلبوم تازه -۹ سپهر- ما گزیده ای از اشعار امیرخسرو دهلوی نیز آورده ایم.
+      علاوه بر آن آهنگ های فولکلوریک ایرانی از ۳۰۰ سال پیش را نیز به کار گرفته ایم.»'
+    accessed: '2026-11-13'
+    locator: Written quotation on Amir Khosrau
+  montreal:
+    source: chaoscontrol.com-loga-ramin-torkian-niyaz-interview
+    quote: In 2009, Azam and I decided to move to Montreal from Los Angeles.
+    accessed: '2026-11-13'
+    locator: First answer
+  stage-start:
+    source: chaoscontrol.com-loga-ramin-torkian-niyaz-interview
+    quote: We did it in 2016 in Montreal.
+    accessed: '2026-11-13'
+    locator: Answer on first performances; subsequent answers describe visual process
 ---
 
-Niyaz پروژهٔ موسیقایی [Azam Ali](/fa/azam-ali-m7d/)، خواننده و آهنگساز، و Loga R. Torkian، آهنگساز و نوازندهٔ چند ساز، است. موسیقی آن‌ها شعر صوفیانهٔ قرون میانه و ترانه‌های محلی ایران و کشورهای پیرامون خلیج فارس را با سازهای آکوستیک و موسیقی الکترونیک ترکیب می‌کند.[^bio]
+نیاز پروژه‌ای موسیقایی بر محور آواز [اعظم علی](/fa/azam-ali-m7d/) و سازهای [لوگا رامین ترکیان](/fa/loga-ramin-torkian-ce3/) است. این پروژه از سال ۲۰۰۴، سنت‌های موسیقایی ایران و همسایگانش، شعر عرفانی و تولید الکترونیک را در ترانه‌هایی برای شنیدن و رقصیدن کنار هم می‌گذارد.[^bio][^dance]
 
-## ضبط و اجرا
+## گروه سه‌نفرهٔ آغازین
 
-زندگی‌نامهٔ گروه از چهار آلبوم منتشرشده در Six Degrees Records یاد می‌کند.[^records] آلبوم *[The Fourth Light](#the-fourth-light-kzw)* در صفحهٔ بندکمپ گروه عرضه شده است؛[^album] در این صفحه، تاریخ انتشار آن ۲۴ مارس ۲۰۱۵ آمده است.[^date] در اجراهای صحنه‌ای، نوازندگان دیگر و یک زن سماع‌گر نیز به دو بنیان‌گذار گروه می‌پیوندند.[^stage]
+نخستین آلبوم، [«Niyaz»](#niyaz-m3n)، در سال ۲۰۰۵ منتشر شد. علی پیش‌تر در گروه «واز» خوانده بود، ترکیان با «اکسیوم آو چویس» کار کرده بود و کارمن ریزو، تهیه‌کننده و ریمیکسر، به‌عنوان عضو سوم به آن‌ها پیوست.[^original-niyaz][^early-azam][^early-loga][^early-rizzo] علی و ترکیان می‌خواستند از فضای صمیمی و آکوستیک موسیقی سنتی‌شان به صدایی برون‌گراتر برسند. تولید الکترونیک ریزو کمک کرد شعر مولوی و شعر عرفانی اردو را در بستری امروزی و رقص‌پذیر قرار دهند.[^dance]
 
-## ضبط‌های بعدی
+[«۹ سپهر»](#nine-heavens-epy)، منتشرشده در سال ۲۰۰۸، این رویکرد را در دو دیسک با نسخه‌های الکترونیک و آکوستیک قطعه‌ها نشان داد.[^original-nine-heavens][^double] گروه در این آلبوم سراغ شعر امیرخسرو دهلوی و ترانه‌های قدیمی ایرانی رفت. ترکیان پیوند شعر فارسی و ملودی‌های هندی در کار دهلوی را نمونه‌ای قدیمی از همان دادوستد فرهنگی می‌دید که گروه دنبال می‌کرد.[^dehlavi]
 
-در فهرست بندکمپ گروه، *[The Best Of Niyaz](#the-best-of-niyaz-fm5)* با تاریخ انتشار ۱۷ مارس ۲۰۱۷ و *[SEVEN REALMS OF ATTAR](#seven-realms-of-attar-jkk)* با تاریخ ۱۷ سپتامبر ۲۰۲۶ نیز آمده‌اند.[^best-date][^attar-date] این آلبوم اثری استودیویی با الهام از *منطق‌الطیر* عطار است. در شناسنامهٔ آن، در کنار Azam Ali و [Loga Ramin Torkian](/fa/loga-ramin-torkian-ce3/)، نام Sinan Cem Eroglu برای نوازندگی کوپوز و کاوال و آواز آمده است.[^attar-work][^attar-credits]
+[«Sumud»](#sumud-fzj) در سال ۲۰۱۲ منتشر شد. [«Sumud Acoustic EP»](#sumud-acoustic-ep-4kc) در سال بعد سه اجرای آکوستیک از ترانه‌های آن آلبوم را با سه قطعهٔ تازه همراه کرد. در «Naseem»، آواز علی با فلوت دست‌ساز حبیب مفتاح بوشهری هم‌نوا می‌شود.[^original-sumud][^acoustic-year][^acoustic-scope][^naseem]
 
-## آلبوم‌های پیشین و ای‌پی آکوستیک
+## ساختن اثری برای صحنه
 
-در فهرست اپل موزیک، آلبوم‌های [*Niyaz*](#niyaz-m3n) با سال ۲۰۰۵، [*Nine Heavens*](#nine-heavens-epy) با سال ۲۰۰۸ و [*Sumud*](#sumud-fzj) با سال ۲۰۱۲ آمده‌اند.[^original-niyaz][^original-nine-heavens][^original-sumud] ناشر Six Degrees، [*Sumud Acoustic EP*](#sumud-acoustic-ep-4kc) را اثری جداگانه از سال ۲۰۱۳ معرفی می‌کند؛ این ای‌پی شامل اجرای آکوستیک سه قطعه از *Sumud* و سه قطعهٔ تازه است.[^acoustic-year][^acoustic-scope] در قطعهٔ «Naseem»، آواز Azam Ali با فلوت حبیب مفتاح همراه می‌شود.[^naseem]
+علی و ترکیان در سال ۲۰۰۹ از لس‌آنجلس به مونترآل رفتند و به ساختن اثری چندرسانه‌ای فکر کردند.[^montreal] آلبوم [«The Fourth Light»](#the-fourth-light-kzw) در سال ۲۰۱۵، با الهام از رابعهٔ عدویه، شاعر و عارف، مبنای نمایشی شد که با ژروم دلاپیر، هنرمند تجسمی، ساختند. نخستین اجراها در سال ۲۰۱۶ در مونترآل بود. تصاویر از خوشنویسی فارسی، قوس‌ها و هندسهٔ مقدس شکل می‌گرفتند و پرده‌های نیمه‌شفاف به آن‌ها عمق می‌دادند. تصویرها به موسیقی و حرکت اجراکنندگان واکنش نشان می‌دادند و گروه پس از اجراهای اولیه هم مواد و طراحی فنی را تغییر داد.[^date][^stage-start]
 
-برای *The Best Of Niyaz*، زندگی‌نامهٔ مطبوعاتی ناشر تاریخ ۱۰ مارس ۲۰۱۷ را آورده است، در حالی که صفحهٔ بندکمپ گروه تاریخ ۱۷ مارس را ذکر می‌کند. هر دو تاریخ با انتساب به منبع در این صفحه حفظ شده‌اند.[^best-label-date][^best-date]
+در سپتامبر ۲۰۲۶، [«هفت وادی عطار»](#seven-realms-of-attar-jkk) این مسیر را در قالب آلبومی استودیویی و پروژه‌ای نمایشی با الهام از «منطق‌الطیر» عطار ادامه داد. سینان جم اراغلو در ضبط آلبوم کوپوز، کاوال و آواز را به کار گروه افزود.[^attar-date][^attar-work][^attar-credits]
