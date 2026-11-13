@@ -102,6 +102,11 @@ references:
     quote: |-
       در سال 1381 و پس از کنسرت خصوصی اوهام در کلیسای روس های تهران
     accessed: '2026-11-13'
+  anniversary:
+    source: www.ohum.online-content-music.htm-2e40e28756cb
+    quote: |-
+      ' 25 ' 1403 اجرای زنده / 25 سالگی اوهام
+    accessed: '2026-11-13'
 ---
 
 O-Hum is an Iranian rock band founded in Tehran by singer and guitarist Shahram Sharbaf, guitarist Shahrokh Izadkhah and bassist Babak Riahipour. The group recorded its first album in 1999, combining rock and Iranian instruments with Hafez’s poetry. After years of distributing music without official permission, Sharbaf continued with new musicians; the original trio later reunited for *Shatt-e Sharab*.[^origins][^approach][^debut-primary][^downloads][^continuity][^reunion]
@@ -125,3 +130,6 @@ After receiving permission to work in Iran in 2012–13, O-Hum recorded its firs
 In autumn 2021 the original three members began making a full album together again, after two decades apart. Izadkhah recorded and sent his guitar parts from Vancouver.[^reunion] They released *[Shatt-e Sharab](#shatt-e-sharab-mqm)* in March 2022 through the band’s and Sharbaf’s websites, allowing listeners to choose a price, including a free download.[^shatt-direct]
 
 In 2024 O-Hum began a second strand of work under the name O-Hum Version Two, using poetry beyond Hafez and a different musical approach. Its songs included “[Dastan-e Man](#my-story-single-x2c)” and “[Gomshodeh](#missing-ep-single-6cc).”[^version-two][^version-two-songs]
+
+
+The live *[25th Anniversary](#25th-anniversary-live-xcw)* marked the band’s twenty-five years in 2024.[^anniversary]
