@@ -170,7 +170,7 @@ He made *[Mr. Mean](#mr-mean-qxx)* in 2013 with a new band outside Iran.[^date0]
 
 ## Writing songs
 
-“Pishdaramad,” from *Mr. Mean*, joined his music to scenes from Iranian cinema. Azimi worked on the video with filmmaker Arash Ashtiani for about three months.[^video-person][^video-time] *[Ezzat Ziad](#ezzat-ziad-dp9)* followed in 2016.[^album1][^date1]
+“[Pishdaramad](#pishdaramad-m38),” from *Mr. Mean*, joined his music to scenes from Iranian cinema. Azimi worked on the video with filmmaker Arash Ashtiani for about three months.[^video-person][^video-time] *[Ezzat Ziad](#ezzat-ziad-dp9)* followed in 2016.[^album1][^date1]
 
 Azimi gave lyric-writing more time as his work developed. He recalled spending seven or eight months writing the words for *[Of Love and Other Evils](#of-love-and-other-evils-k6h)*. Each song explored a phase in a relationship, from its beginning to its breakdown, with nineteen musicians taking part in the album.[^writing-time][^concept]
 
@@ -183,4 +183,4 @@ For “[Khooneye Bahar](#khooneye-bahar-dye),” Azimi set words by Omran Salahi
 He continued responding to events in Iran with “[Dige Vaghtesh Resideh](#dige-vaghtesh-resideh-bvc),” writing its words and music. Its official release carried the Woman, Life, Freedom and Mahsa Amini hashtags.[^dige]
 
 
-In 2026 Azimi wrote “Khoda” using a theme by Erik Satie, with an orchestral arrangement by Afshin Khaef.[^satie][^orchestra][^khoda-words]
+In 2026 Azimi wrote “[Khoda](#khoda-afx)” using a theme by Erik Satie, with an orchestral arrangement by Afshin Khaef.[^satie][^orchestra][^khoda-words]
