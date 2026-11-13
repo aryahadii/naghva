@@ -1,4 +1,5 @@
 ---
+archive: https://web.archive.org/web/20260303155035/https://sote-sound.bandcamp.com/album/sound-system-persepolis-diag065
 url: https://sote-sound.bandcamp.com/album/sound-system-persepolis-diag065
 title: Sound System Persepolis [DIAG065]
 kind: web page

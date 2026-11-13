@@ -1,4 +1,5 @@
 ---
+archive: https://web.archive.org/web/20220718202048/https://music.apple.com/us/album/electric-deaf-ep/278192850
 url: https://music.apple.com/us/album/electric-deaf-ep/278192850
 title: Electric Deaf - EP - Apple Music
 kind: web page

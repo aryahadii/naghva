@@ -1,4 +1,5 @@
 ---
+archive: https://web.archive.org/web/20260918210431/https://subrosalabel.bandcamp.com/album/majestic-noise-made-in-beautiful-rotten-iran
 url: https://subrosalabel.bandcamp.com/album/majestic-noise-made-in-beautiful-rotten-iran
 title: Majestic Noise Made in Beautiful Rotten Iran
 kind: web page

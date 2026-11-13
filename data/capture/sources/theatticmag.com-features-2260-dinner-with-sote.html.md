@@ -1,4 +1,5 @@
 ---
+archive: https://web.archive.org/web/20250209141316/https://theatticmag.com/features/2260/dinner-with-sote.html
 url: https://theatticmag.com/features/2260/dinner-with-sote.html
 title: Dinner with Sote
 kind: web page

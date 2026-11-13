@@ -7,13 +7,30 @@ statements:
       language: en
     references:
     - source: recordlabelrecords.org-sote-dastgaah.html
-      quote: |-
-        Dastgaah
+      quote: Dastgaah
       accessed: '2026-11-13'
   performer:
   - value: Qajhty5
     references:
     - source: recordlabelrecords.org-sote-dastgaah.html
-      quote: |-
-        Sote
+      quote: Sote
+      accessed: '2026-11-13'
+  listen link:
+  - value: https://music.apple.com/us/album/dastgaah/148262671
+    references:
+    - source: music.apple.com-148262671-edition
+      quote: 'Listen to Dastgaah by Sote on Apple Music. 2006. 11 Songs. Duration: 34 minutes.'
+      accessed: '2026-11-13'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music/3c/9f/71/mzi.ozbubyge.tif/1200x630bb.jpg
+    references:
+    - source: music.apple.com-148262671-edition
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music/3c/9f/71/mzi.ozbubyge.tif/1200x630bb.jpg
+      accessed: '2026-11-13'
+  release date:
+  - value:
+      date: '2006-03-15'
+    references:
+    - source: music.apple.com-148262671-edition
+      quote: '"datePublished":"2006-03-15"'
       accessed: '2026-11-13'

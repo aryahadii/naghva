@@ -1,4 +1,5 @@
 ---
+archive: https://web.archive.org/web/20250526043553/https://ataebtekar.bandcamp.com/album/ornamentalism-sote-ata-ebtekar-and-the-iranian-orchestra
 url: https://ataebtekar.bandcamp.com/album/ornamentalism-sote-ata-ebtekar-and-the-iranian-orchestra
 title: Ornamentalism
 language: en

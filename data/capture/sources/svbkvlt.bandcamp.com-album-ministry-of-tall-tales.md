@@ -1,4 +1,5 @@
 ---
+archive: https://web.archive.org/web/20260515140332/https://svbkvlt.bandcamp.com/album/ministry-of-tall-tales
 url: https://svbkvlt.bandcamp.com/album/ministry-of-tall-tales
 title: Ministry of Tall Tales
 kind: web page

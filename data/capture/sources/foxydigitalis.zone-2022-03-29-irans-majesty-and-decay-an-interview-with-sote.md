@@ -1,4 +1,5 @@
 ---
+archive: https://web.archive.org/web/20231203163303/https://foxydigitalis.zone/2022/03/29/irans-majesty-and-decay-an-interview-with-sote/
 url: https://foxydigitalis.zone/2022/03/29/irans-majesty-and-decay-an-interview-with-sote/
 title: 'Iran’s Majesty and Decay: An Interview With Sote'
 kind: web page

@@ -1,4 +1,5 @@
 ---
+archive: https://web.archive.org/web/20260723154033/https://opaltapes.bandcamp.com/album/sacred-horror-in-design
 url: https://opaltapes.bandcamp.com/album/sacred-horror-in-design
 title: Sacred Horror In Design
 kind: web page

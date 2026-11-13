@@ -1,4 +1,5 @@
 ---
+archive: https://web.archive.org/web/20260608104825/https://straylandings.co.uk/_content/interviews/2016-12-21-tabula-rasa-sote-interview/
 url: https://straylandings.co.uk/_content/interviews/2016-12-21-tabula-rasa-sote-interview/
 title: Tabula Rasa // Sote
 kind: web page

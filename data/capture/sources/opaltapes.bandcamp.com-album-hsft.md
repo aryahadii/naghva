@@ -1,4 +1,5 @@
 ---
+archive: https://web.archive.org/web/20261022112309/https://opaltapes.bandcamp.com/album/hsft
 url: https://opaltapes.bandcamp.com/album/hsft
 title: HSFT
 kind: web page

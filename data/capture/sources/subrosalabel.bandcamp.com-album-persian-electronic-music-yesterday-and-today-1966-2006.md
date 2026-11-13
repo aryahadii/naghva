@@ -1,4 +1,5 @@
 ---
+archive: https://web.archive.org/web/20190710195328/https://subrosalabel.bandcamp.com/album/persian-electronic-music-yesterday-and-today-1966-2006
 url: https://subrosalabel.bandcamp.com/album/persian-electronic-music-yesterday-and-today-1966-2006
 title: Persian Electronic Music, Yesterday And Today 1966-2006
 kind: web page

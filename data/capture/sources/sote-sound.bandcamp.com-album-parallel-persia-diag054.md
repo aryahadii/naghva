@@ -1,4 +1,5 @@
 ---
+archive: https://web.archive.org/web/20260922141554/https://sote-sound.bandcamp.com/album/parallel-persia-diag054
 url: https://sote-sound.bandcamp.com/album/parallel-persia-diag054
 title: Parallel Persia [DIAG054]
 kind: web page
