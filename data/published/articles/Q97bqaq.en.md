@@ -43,8 +43,7 @@ references:
     accessed: '2026-11-13'
   foxy-3:
     source: foxydigitalis.zone-2021-06-15-siavash-amini-interview
-    quote: |-
-      sound art space/project
+    quote: sound art space/project
     accessed: '2026-11-13'
   foxy-4:
     source: foxydigitalis.zone-2021-06-15-siavash-amini-interview
@@ -65,14 +64,6 @@ references:
   till-human-voices-wake-us-date:
     source: siavashamini.bandcamp.com-album-till-human-voices-wake-us
     quote: 02 Feb 2014 00:00:00 GMT
-    accessed: '2026-11-13'
-  what-wind-whispered-to-the-trees-0:
-    source: siavashamini.bandcamp.com-album-what-wind-whispered-to-the-trees
-    quote: Reissued on Room40 March 29, 2019
-    accessed: '2026-11-13'
-  subsiding-0:
-    source: siavashamini.bandcamp.com-album-subsiding
-    quote: Reissued on Room40 March 29, 2019
     accessed: '2026-11-13'
   a-trail-of-laughters-0:
     source: siavashamini.bandcamp.com-album-a-trail-of-laughters
@@ -108,8 +99,7 @@ references:
     accessed: '2026-11-13'
   caligo-1:
     source: siavashamini.bandcamp.com-album-caligo
-    quote: |-
-      synthesized resurrections made from their transcriptions
+    quote: synthesized resurrections made from their transcriptions
     accessed: '2026-11-13'
   caligo-2:
     source: siavashamini.bandcamp.com-album-caligo

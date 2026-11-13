@@ -43,8 +43,7 @@ references:
     accessed: '2026-11-13'
   foxy-3:
     source: foxydigitalis.zone-2021-06-15-siavash-amini-interview
-    quote: |-
-      sound art space/project
+    quote: sound art space/project
     accessed: '2026-11-13'
   foxy-4:
     source: foxydigitalis.zone-2021-06-15-siavash-amini-interview
@@ -65,14 +64,6 @@ references:
   till-human-voices-wake-us-date:
     source: siavashamini.bandcamp.com-album-till-human-voices-wake-us
     quote: 02 Feb 2014 00:00:00 GMT
-    accessed: '2026-11-13'
-  what-wind-whispered-to-the-trees-0:
-    source: siavashamini.bandcamp.com-album-what-wind-whispered-to-the-trees
-    quote: Reissued on Room40 March 29, 2019
-    accessed: '2026-11-13'
-  subsiding-0:
-    source: siavashamini.bandcamp.com-album-subsiding
-    quote: Reissued on Room40 March 29, 2019
     accessed: '2026-11-13'
   a-trail-of-laughters-0:
     source: siavashamini.bandcamp.com-album-a-trail-of-laughters
@@ -108,8 +99,7 @@ references:
     accessed: '2026-11-13'
   caligo-1:
     source: siavashamini.bandcamp.com-album-caligo
-    quote: |-
-      synthesized resurrections made from their transcriptions
+    quote: synthesized resurrections made from their transcriptions
     accessed: '2026-11-13'
   caligo-2:
     source: siavashamini.bandcamp.com-album-caligo
@@ -192,6 +182,6 @@ references:
 
 ## تصویر، شعر و ضبط‌های قدیمی
 
-همکاری‌های امینی شکل‌های دیگری به این ایده‌ها دادند. او برای «A Mimesis of Nothingness» در سال ۲۰۲۰ از عکس‌های نوشین شفیعی از تهران موسیقی ساخت. در سال ۲۰۲۲ نیز با Eugene Thacker، نویسنده، «Songs for Sad Poets» را پدید آورد و پیرامون شعرهای تکر آهنگ ساخت و اجرا کرد.[^a-mimesis-of-nothingness-credit][^a-mimesis-of-nothingness-date][^songs-for-sad-poets-2-credit][^songs-for-sad-poets-2-date] در جلد سوم، در سال ۲۰۲۶، صداهای مصنوعی را برای اجرای شعرها برنامه‌ریزی کرد و گاه تا چهل صدا را روی هم گذاشت.[^songs-for-sad-poets-vol-iii-0][^songs-for-sad-poets-vol-iii-1][^songs-for-sad-poets-vol-iii-date]
+همکاری‌های امینی شکل‌های دیگری به این ایده‌ها دادند. او برای «A Mimesis of Nothingness» در سال ۲۰۲۰ از عکس‌های نوشین شفیعی از تهران موسیقی ساخت. در سال ۲۰۲۲ نیز با Eugene Thacker، نویسنده، «Songs for Sad Poets» را پدید آورد و پیرامون شعرهای او آهنگ ساخت و اجرا کرد.[^a-mimesis-of-nothingness-credit][^a-mimesis-of-nothingness-date][^songs-for-sad-poets-2-credit][^songs-for-sad-poets-2-date] در جلد سوم، در سال ۲۰۲۶، صداهای مصنوعی را برای اجرای شعرها برنامه‌ریزی کرد و گاه تا چهل صدا را روی هم گذاشت.[^songs-for-sad-poets-vol-iii-0][^songs-for-sad-poets-vol-iii-1][^songs-for-sad-poets-vol-iii-date]
 
 امینی برای «Caligo» که در سال ۲۰۲۵ منتشر شد، با دو ضبط قدیمی تک‌نوازی پیانو در ایران و صداهای مصنوعی ساخته‌شده از آوانویسی آن‌ها کار کرد. او این پروژه را به داستان «ملکوت» پیوند داد و در پاییز ۲۰۲۴ در تهران پروراند.[^caligo-0][^caligo-1][^caligo-2][^caligo-3][^caligo-date]
