@@ -3,6 +3,7 @@ url: https://www.ohum.online/content/about.htm
 title: O-Hum Official Site — About
 language: fa
 publisher: O-Hum
+archive: https://web.archive.org/web/*/https://www.ohum.online/content/about.htm
 status: processed
 ---
 
@@ -21,3 +22,11 @@ status: processed
 > در پائیز 1400 اوهام شروع به کار بروی آلبوم جدید خود نمود که این اولین همکاری مجدد اعضای گروه در یک آلبوم کامل پس از دو دهه فاصله بود. مانند اولین آلبوم اوهام، ضبط آلبوم جدید فقط با حضور شهرام، بابک و شاهرخ انجام شد (که شاهرخ ایزدخواه پارت های گیتار را در ونکوور کانادا ضبط و ارسال نمود).
 
 > در شهریور سال 1403 اوهام نسخه دوم از فعالیت خود را نیز آغاز کرد: آثاری از گروه که با اشعاری غیر از حضرت حافظ و موزیکی متفاوت تر از قبل تولید می شوند با نام اوهام ورژن دو و لوگوی خاص آن منتشر می گردند. تا کنون سه تک آهنگ از ورژن دوم اوهام تولید و منتشر شده است.
+
+> در تابستان 1378 ضبط و منتشر شد
+
+Full history, first album Nahal-e Heyrat; original direct HTML read after web-reader failure. Read 2026-11-13.
+
+> در سال 1381 و پس از کنسرت خصوصی اوهام در کلیسای روس های تهران
+
+Full history, paragraph following the debut: private church show before the ban. Read 2026-11-13.
