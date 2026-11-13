@@ -31,3 +31,7 @@ Page text, read 2026-11-13.
 > “Ministry Of Tall Tales” is an all-synthesis based work, dark and melodic with a noise aesthetic.
 
 Page text, read 2026-11-13.
+
+> SVBKVLT
+
+Page text, read 2026-11-13.

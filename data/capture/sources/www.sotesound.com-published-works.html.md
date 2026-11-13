@@ -1,4 +1,5 @@
 ---
+archive: https://web.archive.org/web/20260810083155/http://www.sotesound.com/published-works.html
 url: https://www.sotesound.com/published-works.html
 title: Published Works
 kind: web page

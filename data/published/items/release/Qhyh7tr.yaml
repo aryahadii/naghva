@@ -7,15 +7,13 @@ statements:
       language: en
     references:
     - source: sote-sound.bandcamp.com-album-parallel-persia-diag054
-      quote: |-
-        Parallel Persia [DIAG054]
+      quote: Parallel Persia [DIAG054]
       accessed: '2026-11-13'
   performer:
   - value: Qajhty5
     references:
     - source: sote-sound.bandcamp.com-album-parallel-persia-diag054
-      quote: |-
-        Sote
+      quote: Sote
       accessed: '2026-11-13'
   - value: Qp5va2f
     qualifiers:
@@ -25,8 +23,8 @@ statements:
       - tombak
     references:
     - source: sote-sound.bandcamp.com-album-parallel-persia-diag054
-      quote: |-
-        Music: Ata 'Sote' Ebtekar (Electronics & Acoustic), Arash Bolouri (Santour + Extended Technique, Vocals, Tombak), Pouya Damadi (Tar + Extended Technique, Vocals)
+      quote: 'Music: Ata ''Sote'' Ebtekar (Electronics & Acoustic), Arash Bolouri (Santour + Extended Technique, Vocals, Tombak),
+        Pouya Damadi (Tar + Extended Technique, Vocals)'
       accessed: '2026-11-13'
   - value: Qpprrfs
     qualifiers:
@@ -35,37 +33,42 @@ statements:
       - vocals
     references:
     - source: sote-sound.bandcamp.com-album-parallel-persia-diag054
-      quote: |-
-        Music: Ata 'Sote' Ebtekar (Electronics & Acoustic), Arash Bolouri (Santour + Extended Technique, Vocals, Tombak), Pouya Damadi (Tar + Extended Technique, Vocals)
+      quote: 'Music: Ata ''Sote'' Ebtekar (Electronics & Acoustic), Arash Bolouri (Santour + Extended Technique, Vocals, Tombak),
+        Pouya Damadi (Tar + Extended Technique, Vocals)'
       accessed: '2026-11-13'
   listen link:
   - value: https://sote-sound.bandcamp.com/album/parallel-persia-diag054
     references:
     - source: sote-sound.bandcamp.com-album-parallel-persia-diag054
-      quote: |-
-        Parallel Persia [DIAG054]
+      quote: Parallel Persia [DIAG054]
       accessed: '2026-11-13'
   release date:
   - value:
       date: '2019-04-26'
     references:
     - source: sote-sound.bandcamp.com-album-parallel-persia-diag054
-      quote: |-
-        26 Apr 2019 00:00:00 GMT
+      quote: 26 Apr 2019 00:00:00 GMT
       accessed: '2026-11-13'
   cover art:
   - value: https://f4.bcbits.com/img/a3975343313_10.jpg
     references:
     - source: sote-sound.bandcamp.com-album-parallel-persia-diag054
-      quote: |-
-        Parallel Persia [DIAG054]
+      quote: Parallel Persia [DIAG054]
       accessed: '2026-11-13'
+    - source: sote-sound.bandcamp.com-album-parallel-persia-diag054
+      quote: |-
+        Artwork: Pedram Sadegh-Beyki (Pitheorem)
+      accessed: '2026-11-13'
+    qualifiers:
+      credit:
+        text: Pedram Sadegh-Beyki (Pitheorem)
+        language: en
   contributor:
   - value: Qajhty5
     qualifiers:
       role: composer
     references:
     - source: sote-sound.bandcamp.com-album-parallel-persia-diag054
-      quote: |-
-        Music: Ata 'Sote' Ebtekar (Electronics & Acoustic), Arash Bolouri (Santour + Extended Technique, Vocals, Tombak), Pouya Damadi (Tar + Extended Technique, Vocals)
+      quote: 'Music: Ata ''Sote'' Ebtekar (Electronics & Acoustic), Arash Bolouri (Santour + Extended Technique, Vocals, Tombak),
+        Pouya Damadi (Tar + Extended Technique, Vocals)'
       accessed: '2026-11-13'

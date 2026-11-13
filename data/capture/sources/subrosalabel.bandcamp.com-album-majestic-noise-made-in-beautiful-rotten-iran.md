@@ -32,3 +32,7 @@ Page text, read 2026-11-13.
 > In 2018, he founded a new label called 'Zabte Sote'
 
 Page text, read 2026-11-13.
+
+> Sub Rosa Label
+
+Page text, read 2026-11-13.

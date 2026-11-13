@@ -7,44 +7,46 @@ statements:
       language: en
     references:
     - source: opaltapes.bandcamp.com-album-moscels
-      quote: |-
-        MOSCELS
+      quote: MOSCELS
       accessed: '2026-11-13'
   performer:
   - value: Qajhty5
     references:
     - source: opaltapes.bandcamp.com-album-moscels
-      quote: |-
-        Sote
+      quote: Sote
       accessed: '2026-11-13'
   listen link:
   - value: https://opaltapes.bandcamp.com/album/moscels
     references:
     - source: opaltapes.bandcamp.com-album-moscels
-      quote: |-
-        MOSCELS
+      quote: MOSCELS
       accessed: '2026-11-13'
   release date:
   - value:
       date: '2020-05-15'
     references:
     - source: opaltapes.bandcamp.com-album-moscels
-      quote: |-
-        15 May 2020 00:00:00 GMT
+      quote: 15 May 2020 00:00:00 GMT
       accessed: '2026-11-13'
   cover art:
   - value: https://f4.bcbits.com/img/a2085563273_10.jpg
     references:
     - source: opaltapes.bandcamp.com-album-moscels
-      quote: |-
-        MOSCELS
+      quote: MOSCELS
       accessed: '2026-11-13'
+    - source: opaltapes.bandcamp.com-album-moscels
+      quote: |-
+        ARTWORK: BORIS VITAZEK
+      accessed: '2026-11-13'
+    qualifiers:
+      credit:
+        text: Boris Vitazek
+        language: en
   contributor:
   - value: Qajhty5
     qualifiers:
       role: composer
     references:
     - source: opaltapes.bandcamp.com-album-moscels
-      quote: |-
-        MUSIC: ATA 'SOTE' EBTEKAR
+      quote: 'MUSIC: ATA ''SOTE'' EBTEKAR'
       accessed: '2026-11-13'
