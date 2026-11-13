@@ -1,5 +1,9 @@
 ---
 references:
+  cassettes:
+    source: rahafaridi.com-film-chicheka-lullaby-7d1767205ff4
+    quote: recorded more than 200 songs with a small cassette player.
+    accessed: '2026-11-13'
   birth:
     source: rami.ir-biography-3da15b13fd25
     quote: ابراهیم منصفی ، شاعر ، خنیاگر ، نویسنده و هنرمند پرآوازه ی هرمزگانی در سال 1324 در بندرعباس متولد شد.
@@ -104,7 +108,7 @@ Ebrahim Monsefi, known as Rami, was an Iranian poet, singer and guitarist from B
 
 Monsefi first became familiar with singing through the ta'zieh performances held during Muharram. As a young poet he adopted the name Rami.[^early][^rami] His free verse began appearing in the magazines *Khusheh* and *Ferdowsi* in 1968–69. He acted in three short films directed by Hassan Bani-Hashemi within the Free Cinema movement and wrote the film *نهنگ*.[^poetry][^film]
 
-His musical interests included Spanish flamenco and Indian music. He sang with guitar accompaniment, often playing together with friends such as the guitarist and composer Masoud Pakdaman.[^influences][^guitar][^jamming] They recorded their sessions on cassette.[^sessions]
+His musical interests included Spanish flamenco and Indian music. He sang with guitar accompaniment, often playing together with friends such as the guitarist and composer Masoud Pakdaman.[^influences][^guitar][^jamming] They recorded their sessions on cassette.[^sessions] The filmmaker Raha Faridi puts the number of songs he recorded with a portable cassette recorder at more than 200.[^cassettes]
 
 ## Recordings
 
