@@ -4,7 +4,7 @@ title: Bahram Nouraei — Biography
 kind: web page
 language: en
 tier: own
-archive: https://web.archive.org/web/*/https://bahramnouraei.com/bio/
+archive: https://web.archive.org/web/20260911163420/https://bahramnouraei.com/bio/
 status: processed
 ---
 
@@ -31,3 +31,5 @@ Section 06, Inward: description of Khodha (2023). Read 2026-11-13.
 > the frame emptied
 
 Section 06, Inward: description of Heech (2025), immediately following the Khodha account. Read 2026-11-13.
+
+Archive checked 2026-11-13: the availability API returned this snapshot; its HTML loaded successfully and the cited passages were checked in the archived article context.
