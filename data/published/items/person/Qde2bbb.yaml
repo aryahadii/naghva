@@ -7,14 +7,16 @@ statements:
       language: fa
     references:
     - source: www.radiozamaneh.com-771923
-      quote: «کهربای آرزو» علی عظیمی بر اساس شعر هوشنگ ابتهاج
+      quote: |-
+        «کهربای آرزو» علی عظیمی بر اساس شعر هوشنگ ابتهاج
       accessed: '2026-10-19'
   - value:
       text: Ali Azimi
       language: en
     references:
     - source: contemporaryiranian.com-artists-music-radio-tehran-7d00a1e3b218
-      quote: Ali Azimi (lead vocals, guitar)
+      quote: |-
+        Ali Azimi (lead vocals, guitar)
       accessed: '2026-10-19'
   member of:
   - value: Qq8mnpp
@@ -24,39 +26,95 @@ statements:
       - guitar
     references:
     - source: contemporaryiranian.com-artists-music-radio-tehran-7d00a1e3b218
-      quote: Ali Azimi (lead vocals, guitar)
+      quote: |-
+        Ali Azimi (lead vocals, guitar)
       accessed: '2026-10-19'
   image:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e9/b3/99/e9b39931-0bc9-fb55-bc39-8ce7e53e251d/pr_source.png/486x486bb.png
     references:
     - source: music-apple-com-us-artist-ali-azimi-736586610-b7d17e64b279
-      quote: 'Ali Azimi on Apple Music
-
-        https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e9/b3/99/e9b39931-0bc9-fb55-bc39-8ce7e53e251d/pr_source.png/486x486bb.png'
+      quote: |-
+        Ali Azimi on Apple Music
+        https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e9/b3/99/e9b39931-0bc9-fb55-bc39-8ce7e53e251d/pr_source.png/486x486bb.png
       accessed: '2026-10-19'
   profile link:
   - value: https://youtube.com/@aliazimimusic
     references:
     - source: aliazimimusic.com
-      quote: https://youtube.com/@aliazimimusic
+      quote: |-
+        https://youtube.com/@aliazimimusic
       accessed: '2026-10-22'
   - value: https://open.spotify.com/artist/47w4VyWVolZiXYnFt0wqr9?si=bCrcWKgBTh2O36HamrfOpw
     references:
     - source: aliazimimusic.com
-      quote: https://open.spotify.com/artist/47w4VyWVolZiXYnFt0wqr9?si=bCrcWKgBTh2O36HamrfOpw
+      quote: |-
+        https://open.spotify.com/artist/47w4VyWVolZiXYnFt0wqr9?si=bCrcWKgBTh2O36HamrfOpw
       accessed: '2026-10-22'
   - value: https://music.apple.com/us/artist/ali-azimi/736586610
     references:
     - source: aliazimimusic.com
-      quote: https://music.apple.com/us/artist/ali-azimi/736586610
+      quote: |-
+        https://music.apple.com/us/artist/ali-azimi/736586610
       accessed: '2026-10-22'
   - value: https://soundcloud.com/aazimi
     references:
     - source: aliazimimusic.com
-      quote: https://soundcloud.com/aazimi
+      quote: |-
+        https://soundcloud.com/aazimi
       accessed: '2026-10-22'
   - value: https://t.me/aliazimimusic
     references:
     - source: aliazimimusic.com
-      quote: https://t.me/aliazimimusic
+      quote: |-
+        https://t.me/aliazimimusic
       accessed: '2026-10-22'
+  life event:
+  - value:
+      text: من در سال دو هزار و چهار به بریتانیا مهاجرت کردم
+      language: fa
+    references:
+    - source: rooz.hilnu.com-persian-news-newsitem-article-babc088a09
+      quote: |-
+        من در سال دو هزار و چهار به بریتانیا مهاجرت کردم
+      accessed: '2026-11-13'
+    qualifiers:
+      point in time:
+        date: '2004'
+  - value:
+      text: Coming from a musical family, he self learned to play the Piano and studied classical guitar with Bagher
+        Moazen.
+      language: en
+    references:
+    - source: aliazimimusic.com-biography-ade7fa27843d
+      quote: |-
+        Coming from a musical family, he self learned to play the Piano and studied classical guitar with Bagher Moazen.
+      accessed: '2026-11-13'
+  - value:
+      text: After studying and working in Engineering at Tehran University and the United Kingdom, Ali decided to
+        shift his focus and follow his passion for music in his early 30s.
+      language: en
+    references:
+    - source: aliazimimusic.com-biography-ade7fa27843d
+      quote: |-
+        After studying and working in Engineering at Tehran University and the United Kingdom, Ali decided to shift his focus and follow his passion for music in his early 30s.
+      accessed: '2026-11-13'
+  - value:
+      text: هفت هشت ماه روی نوشتن ترانه‌ها وقت گذاشتم.
+      language: fa
+    references:
+    - source: kayhan.london-1398-12-11-187486
+      quote: |-
+        هفت هشت ماه روی نوشتن ترانه‌ها وقت گذاشتم.
+      accessed: '2026-11-13'
+    qualifiers:
+      about: Qk6hdwc
+  - value:
+      text: آهنگ در تمام طول خودش باید دو صدایی باشد.
+      language: fa
+    references:
+    - source: kayhan.london-1398-12-11-187486
+      quote: |-
+        آهنگ در تمام طول خودش باید دو صدایی باشد.
+      accessed: '2026-11-13'
+    qualifiers:
+      about: Qd54qj4
