@@ -7,28 +7,34 @@ statements:
       language: en
     references:
     - source: golnarshahyar.bandcamp.com-album-tear-drop-8d156688ccd7
-      quote: |-
-        Tear Drop by Golnar Shahyar
+      quote: Tear Drop by Golnar Shahyar
       accessed: '2026-10-19'
   performer:
   - value: Q5j4q5k
     references:
     - source: golnarshahyar.bandcamp.com-album-tear-drop-8d156688ccd7
-      quote: |-
-        Tear Drop by Golnar Shahyar
+      quote: Tear Drop by Golnar Shahyar
       accessed: '2026-10-19'
   - value: Q7hs4tn
     qualifiers:
       role: guitar
     references:
     - source: www.mahanmirarab.com-discography-113e22f29c5b
-      quote: |-
-        As a Guitarist
+      quote: As a Guitarist
       accessed: '2026-10-23'
     - source: www.mahanmirarab.com-discography-113e22f29c5b
-      quote: |-
-        Golnar Shahyar – Tear Drop
+      quote: Golnar Shahyar – Tear Drop
       accessed: '2026-10-23'
+  - value: Q5j4q5k
+    qualifiers:
+      role:
+      - vocals
+      - piano
+    references:
+    - source: golnarshahyar.bandcamp.com-album-tear-drop-8d156688ccd7
+      quote: |-
+        It is where I fully demonstrate my abilities as a vocalist, pianist, composer, arranger, band leader, and producer.
+      accessed: '2026-11-13'
   contributor:
   - value: Q5j4q5k
     qualifiers:
@@ -36,8 +42,7 @@ statements:
       - composer
     references:
     - source: golnarshahyar.bandcamp.com-album-tear-drop-8d156688ccd7
-      quote: |-
-        All songs are composed and arranged by Golnar Shahyar
+      quote: All songs are composed and arranged by Golnar Shahyar
       accessed: '2026-10-19'
   - value: Q5j4q5k
     qualifiers:
@@ -45,8 +50,7 @@ statements:
       - arranger
     references:
     - source: golnarshahyar.bandcamp.com-album-tear-drop-8d156688ccd7
-      quote: |-
-        All songs are composed and arranged by Golnar Shahyar
+      quote: All songs are composed and arranged by Golnar Shahyar
       accessed: '2026-10-19'
   - value: Q5j4q5k
     qualifiers:
@@ -54,23 +58,20 @@ statements:
       - producer
     references:
     - source: golnarshahyar.bandcamp.com-album-tear-drop-8d156688ccd7
-      quote: |-
-        Produced by Golnar Shahyar
+      quote: Produced by Golnar Shahyar
       accessed: '2026-10-19'
   release date:
   - value:
       date: '2022-11-25'
     references:
     - source: golnarshahyar.bandcamp.com-album-tear-drop-8d156688ccd7
-      quote: |-
-        released November 25, 2022
+      quote: released November 25, 2022
       accessed: '2026-10-19'
   listen link:
   - value: https://golnarshahyar.bandcamp.com/album/tear-drop
     references:
     - source: golnarshahyar.bandcamp.com-album-tear-drop-8d156688ccd7
-      quote: |-
-        Tear Drop by Golnar Shahyar
+      quote: Tear Drop by Golnar Shahyar
       accessed: '2026-10-19'
   cover art:
   - value: https://f4.bcbits.com/img/a1613958404_5.jpg
@@ -80,10 +81,15 @@ statements:
         language: en
     references:
     - source: golnarshahyar.bandcamp.com-album-tear-drop-8d156688ccd7
-      quote: |-
-        Tear Drop by Golnar Shahyar
+      quote: Tear Drop by Golnar Shahyar
       accessed: '2026-10-19'
     - source: golnarshahyar.bandcamp.com-album-tear-drop-8d156688ccd7
-      quote: |-
-        Photo by Ina Aydogan Design by Tevik Zadourian
+      quote: Photo by Ina Aydogan Design by Tevik Zadourian
       accessed: '2026-10-19'
+  published by:
+  - value: Qqvv9dj
+    references:
+    - source: klaengrecords.de-en-cds-golnar-shahyar-tear-drop-cd.html
+      quote: |-
+        Klaeng-records 073 CD
+      accessed: '2026-11-13'
