@@ -19,3 +19,5 @@ status: processed
 > we are also forgetting the Bulgarians, the Albanians, and the Russians, from Polish people, and on and on
 
 > Pallet went on a competing network and mimed playing their instruments, while one of their klezmer tunes played in the background.
+
+> Klezmer, of course, is associated with Jews from eastern Europe.
