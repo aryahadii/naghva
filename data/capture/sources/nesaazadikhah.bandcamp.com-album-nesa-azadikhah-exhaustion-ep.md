@@ -1,4 +1,5 @@
 ---
+archive: https://web.archive.org/web/20240808015236/https://nesaazadikhah.bandcamp.com/album/nesa-azadikhah-exhaustion-ep
 url: https://nesaazadikhah.bandcamp.com/album/nesa-azadikhah-exhaustion-ep
 title: Nesa Azadikhah - Exhaustion EP
 kind: web page

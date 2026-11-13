@@ -1,4 +1,5 @@
 ---
+archive: https://web.archive.org/web/20260808010015/https://www.lestrans.com/article/nesa-azadikhah-porte-etendard-de-la-scene-electronique-iranienne/
 url: https://www.lestrans.com/article/nesa-azadikhah-porte-etendard-de-la-scene-electronique-iranienne/
 title: Nesa Azadikhah, porte-étendard de la scène électronique iranienne
 kind: web page

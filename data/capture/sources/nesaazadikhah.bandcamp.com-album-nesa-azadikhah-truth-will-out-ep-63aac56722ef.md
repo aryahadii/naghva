@@ -1,4 +1,5 @@
 ---
+archive: https://web.archive.org/web/20250310171956/https://nesaazadikhah.bandcamp.com/album/nesa-azadikhah-truth-will-out-ep
 url: https://nesaazadikhah.bandcamp.com/album/nesa-azadikhah-truth-will-out-ep
 title: Nesa Azadikhah - Truth Will Out EP
 language: en

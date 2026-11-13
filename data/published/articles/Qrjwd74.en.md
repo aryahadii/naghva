@@ -140,4 +140,4 @@ Azadikhah’s own productions continued alongside that work. When she remixed Jo
 
 Azadikhah and AIDA’s label Apranik began releasing music with *Woman, Life, Freedom* in January 2023. The label grew out of the protests in Iran in 2022, and the two planned to direct the proceeds to charities helping women in Iran. Azadikhah contributed “Sarnevesht”.[^cause-0][^cause-1][^compilation][^compilation-date][^sarnevesht] Later that year she moved to Paris and released *Truth Will Out*. In 2024 she and AIDA released *Polychrome*, which included her pieces “Where Can Be Home” and “Levitate”.[^mixmag-0][^truth][^polychrome][^polychrome-date][^home][^levitate]
 
-She also makes music for singers through the Peeleh collective. Her production work includes Bahram’s album *Heech*.[^groove-1][^bahram]
+She also makes music for singers through the Peeleh collective. Her production work includes Bahram’s album *[Heech](/en/bahram-nouraei-k4w/#heech-vh2)*.[^groove-1][^bahram]
