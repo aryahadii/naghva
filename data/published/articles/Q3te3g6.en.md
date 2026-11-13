@@ -126,7 +126,7 @@ In 2014 she released her first album, *Blue Flowers*.[^albums] That year she als
 
 Farsad returned to recording for *White Tree*, released in 2020. She had been dissatisfied with an earlier version and did not want to release it as it was. Support from listeners paid for a new production.[^albums][^funding]
 
-Working with the musicians changed the songs. Farsad said that their ideas became a substantial part of the album, beyond what she had brought to the sessions herself.[^team] She continued making a living through animation and design, while treating songwriting as a way to tell personal stories.[^visual][^scenes]
+Working with the musicians changed the songs. Farsad said that their ideas became a substantial part of the album, beyond what she had brought to the sessions herself.[^team]
 
 ## Mahtab and later collaborations
 

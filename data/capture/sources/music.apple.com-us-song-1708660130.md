@@ -39,6 +39,6 @@ Song credit metadata, read 2026-11-13.
 
 Song credit metadata, read 2026-11-13.
 
-Public HTML fetched after the web reader failed on the exact song URL. Both JSON-LD and complete credit blocks inspected; audio not used. Archive lookup pending.
+Public HTML fetched after the web reader failed on the exact song URL. Both JSON-LD and complete credit blocks inspected; audio not used.
 
 Wayback availability queried 2026-11-13; no snapshot returned.

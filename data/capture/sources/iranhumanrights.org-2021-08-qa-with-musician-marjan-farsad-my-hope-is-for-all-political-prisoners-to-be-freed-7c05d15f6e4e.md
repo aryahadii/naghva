@@ -24,4 +24,4 @@ archive: https://web.archive.org/web/20260808065043/https://iranhumanrights.org/
 
 > The song is more personal to me than political.
 
-Full written Q&A reopened 2026-11-13; existing excerpts above checked in context. For Radio Farda, the funding passage follows the first question, and the scenes passage answers the question on animation. The recording date and diagnosis details remain unused. Only written content was read; the attached audio was not heard. Wayback availability returned the linked HTTP-200 snapshot; its body was not reread.
+Full written Q&A reopened 2026-11-13; existing excerpts above checked in context. The recording date and diagnosis details remain unused. Only written content was read; the attached audio was not heard. Wayback availability returned the linked HTTP-200 snapshot; its body was not reread.
