@@ -170,6 +170,34 @@ references:
     source: www.mehrnews.com-news-5986580-chaartaar
     quote: تمام حق و حقوق مادی و معنوی اشعار احسان حائری که در آلبوم من منتشرشده به ایشان پرداخت شده، علاوه بر پرداخت هزار دلار به ازای هر شعر حقوق معنوی ترانه‌های ایشان هم رعایت شده و همه این اشعار در همه جا به اسم خودش ثبت شده و هر زمان که ترانه‌ای را از احسان خواندم. انتشارش قطعا با نام خودش بوده مثل تمامی سالهای همکاری‌مان.
     accessed: '2026-11-06'
+  milad-date:
+    source: honaronline.ir-55432-chaartaar-at-milad
+    quote: مرکز همایش های برج میلاد شب گذشته 27 خردادماه میزبان طرفداران گروه چارتار بود.
+    accessed: '2026-11-13'
+  milad-year:
+    source: honaronline.ir-55432-chaartaar-at-milad
+    quote: ۱۳۹۳/۰۳/۲۸
+    accessed: '2026-11-13'
+  train:
+    source: honaronline.ir-55432-chaartaar-at-milad
+    quote: کنسرت با آهنگ "قطار" افتتاح شد و از همان چند خط اولِ ترانه، مردم هم‌خوانی با خواننده را آغاز کردند
+    accessed: '2026-11-13'
+  bows:
+    source: honaronline.ir-55432-chaartaar-at-milad
+    quote: پیش از آغاز قطعه دوم به نام "هندسه"، دو نوازنده کمانچه، بهزاد حسن‌زاده و نازنین غنی‌زاده نیز به صحنه پیوستند.
+    accessed: '2026-11-13'
+  rot-date:
+    source: persiandutch.com-chaartaar-rotterdam-2016
+    quote: Chaartaar gaf een concert in Nederland op 23 september 2016. Het concert was georganiseerd in de Jurriaanse Zaal (De Doelen) in Rotterdam.
+    accessed: '2026-11-13'
+  rot-sound:
+    source: persiandutch.com-chaartaar-rotterdam-2016
+    quote: بخش نخست برنامه به دلیل مشکلاتی درصدابرداری و نارضایتی مردم در پی آن، زودتر به پایان رسید.
+    accessed: '2026-11-13'
+  rot-singing:
+    source: persiandutch.com-chaartaar-rotterdam-2016
+    quote: این مشکلات در بخش دوم کنسرت تا حد زیادی برطرف شد و شنوندگان با همخوانی بسیاری از ترانه ها، گروه را همراهی کردند.
+    accessed: '2026-11-13'
 ---
 
 Chaartaar is an Iranian band formed in 2011 by singer Arman Garshasbi, composer Arash Fathi, poet and lyricist [Ehsan Haeri](/en/ehsan-haeri-r62/) and arranger [Aeen Ahmadifar](/en/aeen-ahmadifar-zb5/). They bring Persian singing and newly written lyrics into electronic arrangements, with each member contributing to the songs as they take shape.[^formed][^members][^electronic][^method] They began by sharing songs online, made their debut album [*Baaraan Toee*](#baaraan-toee-9rf) in 2014, and followed it with two more albums and a series of singles.[^online][^debut][^second][^third][^adineh]
@@ -187,6 +215,12 @@ For their debut, Fathi wrote the melody before Haeri wrote the words. Haeri work
 Fathi had studied Western music and approached Persian modes through that training. He said that in “Baaraan Toee” he used Western harmony to move from Dashti to Esfahan. Ahmadifar’s interest in electronic music shaped the arrangements. He had initially been reluctant to introduce instruments into these arrangements, but used the bowed kamancheh in “Hendeseh,” where he felt its sound belonged. Haeri and the others conceived the album chiefly as a collection of love songs.[^harmony][^electronic][^reluctance][^kamancheh][^romantic]
 
 *Baaraan Toee* came out in 2014. The band then began performing at Arikeh Iranian in Tehran and took its concerts to cities including Shiraz, Rasht, Kerman and Isfahan.[^debut][^stages]
+
+## From Milad Tower to Rotterdam
+
+At Milad Tower in Tehran in June 2014, the audience joined in from the opening lines of “Ghatar.” The second song, “Hendeseh,” brought a change of sound: two kamancheh players, Behzad Hassanzadeh and Nazanin Ghanizadeh, came onstage. The bowed part that Ahmadifar had made room for on the record was now in the hands of two guest musicians.[^milad-date][^milad-year][^train][^bows][^kamancheh]
+
+On 23 September 2016 the group played the Jurriaanse Zaal at De Doelen in Rotterdam. Sound problems cut the first half short. After the interval, the local reporter heard the audience singing along to one song after another.[^rot-date][^rot-sound][^rot-singing]
 
 ## Further albums and singles
 
