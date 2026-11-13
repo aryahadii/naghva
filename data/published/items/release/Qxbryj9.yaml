@@ -7,36 +7,65 @@ statements:
       language: en
     references:
     - source: music.apple.com-us-album-incidents-feat-sanam-pasha-1801850788-9cd9b820f160
-      quote: |-
-        Listen to Incidents (feat. Sanam Pasha) by Orod Anzabipoor on Apple Music. 2025. 8 Songs. Duration: 40 minutes.
+      quote: 'Listen to Incidents (feat. Sanam Pasha) by Orod Anzabipoor on Apple Music. 2025. 8 Songs. Duration: 40 minutes.'
       accessed: '2026-10-19'
   release date:
   - value:
       date: '2025-02-22'
     references:
     - source: music.apple.com-us-album-incidents-feat-sanam-pasha-1801850788-9cd9b820f160
-      quote: |-
-        "datePublished":"2025-02-22"
+      quote: '"datePublished":"2025-02-22"'
       accessed: '2026-10-19'
   performer:
   - value: Qphvq4s
     references:
     - source: music.apple.com-us-album-incidents-feat-sanam-pasha-1801850788-9cd9b820f160
-      quote: |-
-        Listen to Incidents (feat. Sanam Pasha) by Orod Anzabipoor on Apple Music. 2025. 8 Songs. Duration: 40 minutes.
+      quote: 'Listen to Incidents (feat. Sanam Pasha) by Orod Anzabipoor on Apple Music. 2025. 8 Songs. Duration: 40 minutes.'
       accessed: '2026-10-19'
   - value: Q44yn4k
     references:
     - source: music.apple.com-us-album-incidents-feat-sanam-pasha-1801850788-9cd9b820f160
-      quote: |-
-        Listen to Incidents (feat. Sanam Pasha) by Orod Anzabipoor on Apple Music. 2025. 8 Songs. Duration: 40 minutes.
+      quote: 'Listen to Incidents (feat. Sanam Pasha) by Orod Anzabipoor on Apple Music. 2025. 8 Songs. Duration: 40 minutes.'
       accessed: '2026-10-19'
+  - value: Qphvq4s
+    qualifiers:
+      role: vocals
+    references:
+    - source: www.sanampasha.com-2025-04-12-d8-a2-d9-84-d8-a8-d9-88-d9-85--d8-b3-d8-b1-da-af-d8-b0-d8-b4-d8-aa-incidents--d8-ac-d9-8e-d8-b2--d9--f923320d8ef9
+      quote: |-
+        صنم پاشا: وکال
+      accessed: '2026-11-13'
+  - value: Qkknnts
+    qualifiers:
+      role:
+      - saxophone
+      - clarinet
+    references:
+    - source: www.sanampasha.com-2025-04-12-d8-a2-d9-84-d8-a8-d9-88-d9-85--d8-b3-d8-b1-da-af-d8-b0-d8-b4-d8-aa-incidents--d8-ac-d9-8e-d8-b2--d9--f923320d8ef9
+      quote: |-
+        داریوش بیژنی: ساکسوفون آلتو و کلارینت
+      accessed: '2026-11-13'
+  - value: Qw5adqq
+    qualifiers:
+      role: flute
+    references:
+    - source: www.sanampasha.com-2025-04-12-d8-a2-d9-84-d8-a8-d9-88-d9-85--d8-b3-d8-b1-da-af-d8-b0-d8-b4-d8-aa-incidents--d8-ac-d9-8e-d8-b2--d9--f923320d8ef9
+      quote: |-
+        نیلوفر ابراهیمی: فلوت
+      accessed: '2026-11-13'
+  - value: Qnejws7
+    qualifiers:
+      role: guitar
+    references:
+    - source: www.sanampasha.com-2025-04-12-d8-a2-d9-84-d8-a8-d9-88-d9-85--d8-b3-d8-b1-da-af-d8-b0-d8-b4-d8-aa-incidents--d8-ac-d9-8e-d8-b2--d9--f923320d8ef9
+      quote: |-
+        اردوان انزابی پور: گیتار آکوستیک
+      accessed: '2026-11-13'
   listen link:
   - value: https://music.apple.com/us/album/incidents-feat-sanam-pasha/1801850788
     references:
     - source: music.apple.com-us-album-incidents-feat-sanam-pasha-1801850788-9cd9b820f160
-      quote: |-
-        Listen to Incidents (feat. Sanam Pasha) by Orod Anzabipoor on Apple Music. 2025. 8 Songs. Duration: 40 minutes.
+      quote: 'Listen to Incidents (feat. Sanam Pasha) by Orod Anzabipoor on Apple Music. 2025. 8 Songs. Duration: 40 minutes.'
       accessed: '2026-10-19'
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1a/94/dd/1a94dd6c-da1c-d7b1-a3a9-f28e3db02b1c/5063687688225_cover.jpg/296x296bb.webp
@@ -46,6 +75,14 @@ statements:
         language: en
     references:
     - source: music.apple.com-us-album-incidents-feat-sanam-pasha-1801850788-9cd9b820f160
-      quote: |-
-        Listen to Incidents (feat. Sanam Pasha) by Orod Anzabipoor on Apple Music. 2025. 8 Songs. Duration: 40 minutes.
+      quote: 'Listen to Incidents (feat. Sanam Pasha) by Orod Anzabipoor on Apple Music. 2025. 8 Songs. Duration: 40 minutes.'
       accessed: '2026-10-19'
+  contributor:
+  - value: Q44yn4k
+    qualifiers:
+      role: composer
+    references:
+    - source: www.sanampasha.com-2025-04-12-d8-a2-d9-84-d8-a8-d9-88-d9-85--d8-b3-d8-b1-da-af-d8-b0-d8-b4-d8-aa-incidents--d8-ac-d9-8e-d8-b2--d9--f923320d8ef9
+      quote: |-
+        ارد انزابی پور: آهنگساز
+      accessed: '2026-11-13'

@@ -1,0 +1,43 @@
+id: Qj8efts
+type: release
+statements:
+  name:
+  - value:
+      text: Berindar
+      language: en
+    references:
+    - &id001
+      source: music.apple.com-us-album-berindar-single-6808545918-8735fb808f
+      quote: 'Listen to Berindar - Single by Faxdin & Salome MC on Apple Music. 2026. 1 Song. Duration: 3 minutes.'
+      accessed: '2026-11-13'
+      locator: Apple Music release description
+  performer:
+  - value: Qfwkstj
+    references:
+    - *id001
+  - value: Qd3ypxs
+    references:
+    - *id001
+  release date:
+  - value:
+      date: '2026-09-25'
+    references:
+    - source: music.apple.com-us-album-berindar-single-6808545918-8735fb808f
+      quote: '"datePublished":"2026-09-25"'
+      accessed: '2026-11-13'
+      locator: Album JSON-LD, datePublished
+  listen link:
+  - value: https://music.apple.com/us/album/berindar-single/6808545918
+    references:
+    - *id001
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/74/79/22/74792218-af5f-3798-3e50-aefe42499707/885975684383_cover.jpg/1200x630bb.jpg
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-berindar-single-6808545918-8735fb808f
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/74/79/22/74792218-af5f-3798-3e50-aefe42499707/885975684383_cover.jpg/1200x630bb.jpg
+      accessed: '2026-11-13'
+      locator: Album JSON-LD, image

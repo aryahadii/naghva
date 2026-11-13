@@ -1,0 +1,51 @@
+id: Qyh582a
+type: release
+statements:
+  name:
+  - value:
+      text: Songs from a Persian Garden
+      language: en
+    references:
+    - source: music.apple.com-us-album-songs-from-a-persian-garden-280342118
+      quote: |-
+        Songs from a Persian Garden
+      accessed: '2026-11-13'
+  release date:
+  - value:
+      date: '2008-05-06'
+    references:
+    - source: music.apple.com-us-album-songs-from-a-persian-garden-280342118
+      quote: |-
+        "datePublished":"2008-05-06"
+      accessed: '2026-11-13'
+  performer:
+  - value: Qp2mk6b
+    references:
+    - source: music.apple.com-us-album-songs-from-a-persian-garden-280342118
+      quote: |-
+        [{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/mahsa-vahdat/65413022","name":"Mahsa Vahdat"},{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/marjan-vahdat/65414624","name":"Marjan Vahdat"}]
+      accessed: '2026-11-13'
+  - value: Qtrh4vq
+    references:
+    - source: music.apple.com-us-album-songs-from-a-persian-garden-280342118
+      quote: |-
+        [{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/mahsa-vahdat/65413022","name":"Mahsa Vahdat"},{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/marjan-vahdat/65414624","name":"Marjan Vahdat"}]
+      accessed: '2026-11-13'
+  listen link:
+  - value: https://music.apple.com/us/album/songs-from-a-persian-garden/280342118
+    references:
+    - source: music.apple.com-us-album-songs-from-a-persian-garden-280342118
+      quote: |-
+        Songs from a Persian Garden
+      accessed: '2026-11-13'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music/6d/b6/8a/mzi.mjinblho.jpg/1200x1200bb.jpg
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-songs-from-a-persian-garden-280342118
+      quote: |-
+        Songs from a Persian Garden
+      accessed: '2026-11-13'

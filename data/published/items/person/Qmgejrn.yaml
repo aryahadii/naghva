@@ -1,0 +1,24 @@
+id: Qmgejrn
+type: person
+statements:
+  name:
+  - value:
+      text: Kodi
+      language: en
+    references:
+    - &id001
+      source: www.thenationalnews.com-arts-culture-music-criminal-records-iranian-rock-comes-to-new-york-1.442834
+      quote: He is joined by the guitarist Kodi, the bassist Jam, and the drummer Kami
+      accessed: '2026-11-13'
+      locator: Band members
+  member of:
+  - value: Q53gfmh
+    qualifiers:
+      role:
+      - guitar
+    references:
+    - *id001
+    - source: www1.folha.uol.com.br-folha-ilustrada-ult90u69808.shtml
+      quote: Kodi (guitarra), 17; Jamshid (baixo), 26; e Kami (bateria), 25
+      accessed: '2026-11-13'
+      locator: Personnel paragraph

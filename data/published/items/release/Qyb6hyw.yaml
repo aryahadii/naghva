@@ -1,0 +1,45 @@
+id: Qyb6hyw
+type: release
+statements:
+  name:
+  - value:
+      text: Bohran - Single
+      language: en
+    references:
+    - source: music.apple.com-us-album-bohran-single-1785248253
+      quote: Bohran - Single
+      accessed: '2026-11-13'
+  release date:
+  - value:
+      date: '2024-12-12'
+    references:
+    - source: music.apple.com-us-album-bohran-single-1785248253
+      quote: '"datePublished":"2024-12-12"'
+      accessed: '2026-11-13'
+  performer:
+  - value: Qcbarbs
+    references:
+    - source: music.apple.com-us-album-bohran-single-1785248253
+      quote: '[{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/kaveh-yaghmaei/160760940","name":"Kaveh Yaghmaei"}]'
+      accessed: '2026-11-13'
+  listen link:
+  - value: https://music.apple.com/us/album/bohran-single/1785248253
+    references:
+    - source: music.apple.com-us-album-bohran-single-1785248253
+      quote: Bohran - Single
+      accessed: '2026-11-13'
+  - value: https://www.youtube.com/playlist?list=OLAK5uy_nztNsL3l27AvviAaKpPTBKzkkqli16XR8
+    references:
+    - source: www.youtube.com-playlist-list-olak5uy_nztnsl3l27avviaakpptbkzkkqli16xr8
+      quote: Bohran
+      accessed: '2026-11-13'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/13/cb/46/13cb463b-8cfb-257a-006e-dc14bee5095f/199066281222.jpg/1200x1200bb.jpg
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-bohran-single-1785248253
+      quote: Bohran - Single
+      accessed: '2026-11-13'

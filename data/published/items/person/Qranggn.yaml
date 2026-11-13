@@ -7,16 +7,14 @@ statements:
       language: en
     references:
     - source: www.golfamkhayam.com-about-4599a9a668e7
-      quote: |-
-        Golfam Khayam گلفام خیام
+      quote: Golfam Khayam گلفام خیام
       accessed: '2026-10-19'
   - value:
       text: گلفام خیام
       language: fa
     references:
     - source: www.golfamkhayam.com-about-4599a9a668e7
-      quote: |-
-        Golfam Khayam گلفام خیام
+      quote: Golfam Khayam گلفام خیام
       accessed: '2026-10-19'
   image:
   - value: https://static.wixstatic.com/media/9d4db0_0bae2bc170444cd3ba8df3f43e980961~mv2.jpg
@@ -31,3 +29,99 @@ statements:
       credit:
         text: www.golfamkhayam.com
         language: en
+  profile link:
+  - value: https://music.apple.com/us/artist/golfam-khayam/533652206
+    references:
+    - source: music.apple.com-us-artist-golfam-khayam-533652206-7c046109cb
+      quote: Golfam Khayam - Apple Music
+      accessed: '2026-11-13'
+      locator: Artist profile title
+  - value: https://soundcloud.com/golfamkhayam
+    references:
+    - source: soundcloud.com-golfamkhayam-ce535c23b2
+      quote: Stream Golfam Khayam music | Listen to songs, albums, playlists for free on SoundCloud
+      accessed: '2026-11-13'
+      locator: Artist profile title
+  life event:
+  - value:
+      text: تحصیل موسیقی را در شش‌سالگی با پیانو آغاز کرد
+      language: fa
+    references:
+    - source: babakvalipour.com-wp-content-uploads-2014-10-golfam-khayam-interview.pdf
+      quote: تحصیل موسیقی را در شش‌سالگی با پیانو آغاز کرد و یک‌سال بعد، جذب گیتار کلاسیک شد.
+      accessed: '2026-11-13'
+      locator: Printed p42, introduction, right column
+  - value:
+      text: در سال ۱۳۸۳ با دریافت بورس تحصیلی، راهی آمریکا شد
+      language: fa
+    references:
+    - source: babakvalipour.com-wp-content-uploads-2014-10-golfam-khayam-interview.pdf
+      quote: در سال ۱۳۸۳ با دریافت بورس تحصیلی، راهی آمریکا شد
+      accessed: '2026-11-13'
+      locator: Printed p42, introduction, right column
+    qualifiers:
+      point in time:
+        date: '1383'
+        calendar: jalali
+  - value:
+      text: به ژنو رفتم تا با بوگدانوویچ کار کنم.
+      language: fa
+    references:
+    - source: babakvalipour.com-wp-content-uploads-2014-10-golfam-khayam-interview.pdf
+      quote: به ژنو رفتم تا با بوگدانوویچ کار کنم.
+      accessed: '2026-11-13'
+      locator: Printed p43, same answer, left column
+  - value:
+      text: بوگدانوویچ از من خواست که منابعی از موسیقی ایرانی در اختیارش بگذارم، من هم چند سی.دی. و کتاب ردیف موسیقی
+        ایرانی را به او دادم.
+      language: fa
+    references:
+    - source: babakvalipour.com-wp-content-uploads-2014-10-golfam-khayam-interview.pdf
+      quote: بوگدانوویچ از من خواست که منابعی از موسیقی ایرانی در اختیارش بگذارم، من هم چند سی.دی. و کتاب ردیف موسیقی
+        ایرانی را به او دادم. هر قطعه را براساس یک مینیاتور نوشت که عنوان قطعات هم از همین مینیاتورها گرفته شده
+        است.
+      accessed: '2026-11-13'
+      locator: Printed p46, left column, question about writing Persian pieces
+  - value:
+      text: Narrante was recorded in July 2015 at Auditorio Stelio Molo RSI in Lugano
+      language: en
+    references:
+    - source: ecmrecords.com-product-narrante-golfam-khayam-mona-matbou-riahi-2ad4c2ee30
+      quote: Narrante was recorded in July 2015 at Auditorio Stelio Molo RSI in Lugano and produced by Manfred Eicher
+        and Ramin Sadighi.
+      accessed: '2026-11-13'
+      locator: About paragraph2
+    qualifiers:
+      point in time:
+        date: 2015-07
+  - value:
+      text: پروژه «پرواز ليلي» كاملا آهنگسازي شده بود و در اجرا هم مي‌دانستم كه از كجا به كجا مي‌روم.
+      language: fa
+    references:
+    - source: www.sarpoosh.com-art-cinema-music-music970603686.html
+      quote: پروژه «پرواز ليلي» كاملا آهنگسازي شده بود و در اجرا هم مي‌دانستم كه از كجا به كجا مي‌روم. اساسا عنصر
+        بداهه در اجرا بسيار كم بود.
+      accessed: '2026-11-13'
+      locator: Question whether project was improvised, answer opening
+  - value:
+      text: Lullaby began as a work for solo guitar
+      language: en
+    references:
+    - source: www.phenotypicrecordings.com-move-premieres-liner-notes
+      quote: Lullaby began as a work for solo guitar, and then a movement for string orchestra from Seven Valleys
+        of Love, which I have now arranged for four violins. It is based on “Conference of the birds” text by Attar
+      accessed: '2026-11-13'
+      locator: Lullaby - Golfam Khayam, opening
+  member of:
+  - value: Qtvhpkq
+    qualifiers:
+      role: guitar
+    references:
+    - source: ecmrecords.com-product-narrante-golfam-khayam-mona-matbou-riahi-2ad4c2ee30
+      quote: Golfam Khayam and Mona Matbou Riahi, otherwise known as the Naqsh Duo.
+      accessed: '2026-11-13'
+      locator: ECM identifies the duo
+    - source: ecmrecords.com-product-narrante-golfam-khayam-mona-matbou-riahi-2ad4c2ee30
+      quote: Golfam Khayam Guitar
+      accessed: '2026-11-13'
+      locator: Instruments in the duo

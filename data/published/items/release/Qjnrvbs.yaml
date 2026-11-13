@@ -1,0 +1,46 @@
+id: Qjnrvbs
+type: release
+statements:
+  name:
+  - value:
+      text: Firefly (feat. Soall)
+      language: en
+    references:
+    - &id001
+      source: music.apple.com-us-album-firefly-feat-soall-single-1601111552-9e2b4e2408
+      quote: 'Listen to Firefly (feat. Soall) - Single by Salome MC on Apple Music. 2022. 1 Song. Duration: 5 minutes.'
+      accessed: '2026-11-13'
+      locator: Apple Music release description
+  performer:
+  - value: Qd3ypxs
+    references:
+    - *id001
+  - value: Qxcq28v
+    references:
+    - source: music.apple.com-us-album-firefly-feat-soall-single-1601111552-9e2b4e2408
+      quote: Firefly (feat. Soall)
+      accessed: '2026-11-13'
+      locator: Track listing
+  release date:
+  - value:
+      date: '2022-01-04'
+    references:
+    - source: music.apple.com-us-album-firefly-feat-soall-single-1601111552-9e2b4e2408
+      quote: '"datePublished":"2022-01-04"'
+      accessed: '2026-11-13'
+      locator: Album JSON-LD, datePublished
+  listen link:
+  - value: https://music.apple.com/us/album/firefly-feat-soall-single/1601111552
+    references:
+    - *id001
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/23/f0/ff/23f0ffb1-5de5-37e9-f69c-50aa71827eb1/752470503269_cover.jpg/1200x630bb.jpg
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-firefly-feat-soall-single-1601111552-9e2b4e2408
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/23/f0/ff/23f0ffb1-5de5-37e9-f69c-50aa71827eb1/752470503269_cover.jpg/1200x630bb.jpg
+      accessed: '2026-11-13'
+      locator: Album JSON-LD, image

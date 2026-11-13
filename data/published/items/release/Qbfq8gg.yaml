@@ -1,0 +1,45 @@
+id: Qbfq8gg
+type: release
+statements:
+  name:
+  - value:
+      text: Enlighten the Night
+      language: en
+    references:
+    - source: music.apple.com-us-album-enlighten-the-night-1518607463
+      quote: Enlighten the Night
+      accessed: '2026-11-13'
+  release date:
+  - value:
+      date: '2020-06-19'
+    references:
+    - source: music.apple.com-us-album-enlighten-the-night-1518607463
+      quote: '"datePublished":"2020-06-19"'
+      accessed: '2026-11-13'
+  performer:
+  - value: Qp2mk6b
+    references:
+    - source: music.apple.com-us-album-enlighten-the-night-1518607463
+      quote: '[{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/mahsa-vahdat/65413022","name":"Mahsa Vahdat"}]'
+      accessed: '2026-11-13'
+  listen link:
+  - value: https://music.apple.com/us/album/enlighten-the-night/1518607463
+    references:
+    - source: music.apple.com-us-album-enlighten-the-night-1518607463
+      quote: Enlighten the Night
+      accessed: '2026-11-13'
+  - value: https://open.spotify.com/album/0WR7DXHeiaQ0Kvh0k9CmNv
+    references:
+    - source: mahsavahdat.lnk.to-enlighten
+      quote: Enlighten the Night
+      accessed: '2026-11-13'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/52/d4/40/52d4403e-ab4c-b069-548c-436eadaa0a9e/192641509988_Cover.jpg/1200x1200bb.jpg
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-enlighten-the-night-1518607463
+      quote: Enlighten the Night
+      accessed: '2026-11-13'

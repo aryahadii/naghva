@@ -1,0 +1,108 @@
+id: Qrh2kwh
+type: release
+statements:
+  name:
+  - value:
+      text: Heart's Endless Garden
+      language: en
+    references:
+    - source: music.apple.com-us-album-hearts-endless-garden-6809525822
+      quote: |-
+        Heart's Endless Garden
+      accessed: '2026-11-13'
+  release date:
+  - value:
+      date: '2026-09-18'
+    references:
+    - source: music.apple.com-us-album-hearts-endless-garden-6809525822
+      quote: |-
+        "datePublished":"2026-09-18"
+      accessed: '2026-11-13'
+  performer:
+  - value: Qp2mk6b
+    references:
+    - source: music.apple.com-us-album-hearts-endless-garden-6809525822
+      quote: |-
+        [{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/mahsa-vahdat/65413022","name":"Mahsa Vahdat"},{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/marjan-vahdat/65414624","name":"Marjan Vahdat"}]
+      accessed: '2026-11-13'
+  - value: Qtrh4vq
+    references:
+    - source: music.apple.com-us-album-hearts-endless-garden-6809525822
+      quote: |-
+        [{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/mahsa-vahdat/65413022","name":"Mahsa Vahdat"},{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/marjan-vahdat/65414624","name":"Marjan Vahdat"}]
+      accessed: '2026-11-13'
+  - value: Qx2vpcj
+    qualifiers:
+      role: oud
+    references:
+    - source: valleyentertainment.bandcamp.com-album-hearts-endless-garden-woven-verses
+      quote: |-
+        Ara Dinkjian, an Armenian American, plays the oud.
+      accessed: '2026-11-13'
+  - value: Qmrhapt
+    qualifiers:
+      role: cello
+    references:
+    - source: valleyentertainment.bandcamp.com-album-hearts-endless-garden-woven-verses
+      quote: |-
+        Naseem Alatrash plays the cello
+      accessed: '2026-11-13'
+  - value: Q6w3apk
+    qualifiers:
+      role: violin
+    references:
+    - source: valleyentertainment.bandcamp.com-album-hearts-endless-garden-woven-verses
+      quote: |-
+        Emma Powell plays the violin
+      accessed: '2026-11-13'
+  - value: Qk7a7gf
+    qualifiers:
+      role:
+      - drums
+      - percussion
+    references:
+    - source: valleyentertainment.bandcamp.com-album-hearts-endless-garden-woven-verses
+      quote: |-
+        Greg Ellis the drums and percussion.
+      accessed: '2026-11-13'
+  listen link:
+  - value: https://music.apple.com/us/album/hearts-endless-garden/6809525822
+    references:
+    - source: music.apple.com-us-album-hearts-endless-garden-6809525822
+      quote: |-
+        Heart's Endless Garden
+      accessed: '2026-11-13'
+  - value: https://valleyentertainment.bandcamp.com/album/hearts-endless-garden-woven-verses
+    references:
+    - source: valleyentertainment.bandcamp.com-album-hearts-endless-garden-woven-verses
+      quote: |-
+        Arranger Atabak Elyasi
+      accessed: '2026-11-13'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1e/ad/45/1ead45ad-7c2d-4369-12e8-a8ef851ced6f/3000x3000_FXCD523_COVER_Mahsa_Marjan_Vahdat_Heart_s_Endless_Garden.jpg/1200x1200bb.jpg
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-hearts-endless-garden-6809525822
+      quote: |-
+        Heart's Endless Garden
+      accessed: '2026-11-13'
+  contributor:
+  - value: Q5z9jzy
+    qualifiers:
+      role: arranger
+    references:
+    - source: valleyentertainment.bandcamp.com-album-hearts-endless-garden-woven-verses
+      quote: |-
+        Arranger Atabak Elyasi
+      accessed: '2026-11-13'
+  - value: Qxzfpnw
+    qualifiers:
+      role: producer
+    references:
+    - source: valleyentertainment.bandcamp.com-album-hearts-endless-garden-woven-verses
+      quote: |-
+        Producer Erik Hillestad
+      accessed: '2026-11-13'

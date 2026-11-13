@@ -1,0 +1,71 @@
+id: Qhvmsp8
+type: release
+statements:
+  name:
+  - value:
+      text: طهران
+      language: fa
+    references:
+    - source: www.youtube.com-watch-v-jwdtfr0jbjg
+      quote: طهران
+      accessed: '2026-11-13'
+  release date:
+  - value:
+      date: '2023-11-29'
+    references:
+    - source: www.youtube.com-watch-v-jwdtfr0jbjg
+      quote: '"publishDate":"2023-11-29T09:57:17-08:00"'
+      accessed: '2026-11-13'
+  performer:
+  - value: Q2vwhg6
+    qualifiers:
+      role:
+      - guitar
+      - vocals
+    references:
+    - source: www.youtube.com-watch-v-jwdtfr0jbjg
+      quote: 'ترانه‌سرا، آهنگساز، گیتار، خواننده: کاوه صالحی'
+      accessed: '2026-11-13'
+    - source: www.youtube.com-watch-v-jwdtfr0jbjg
+      quote: kaveh salehi
+      accessed: '2026-11-13'
+  - value: Qkknnts
+    qualifiers:
+      role: clarinet
+    references:
+    - source: www.youtube.com-watch-v-jwdtfr0jbjg
+      quote: 'کلارینت: داریوش بیژنی'
+      accessed: '2026-11-13'
+  - value: Q99f6gf
+    qualifiers:
+      role: violin
+    references:
+    - source: www.youtube.com-watch-v-jwdtfr0jbjg
+      quote: 'ویولن: پویا عشقی‌نژاد'
+      accessed: '2026-11-13'
+  contributor:
+  - value: Q2vwhg6
+    qualifiers:
+      role:
+      - composer
+      - lyricist
+    references:
+    - source: www.youtube.com-watch-v-jwdtfr0jbjg
+      quote: 'ترانه‌سرا، آهنگساز، گیتار، خواننده: کاوه صالحی'
+      accessed: '2026-11-13'
+  listen link:
+  - value: https://www.youtube.com/watch?v=jwdTfr0JbJg
+    references:
+    - source: www.youtube.com-watch-v-jwdtfr0jbjg
+      quote: طهران
+      accessed: '2026-11-13'
+  cover art:
+  - value: https://i.ytimg.com/vi/jwdTfr0JbJg/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgQSg2MA8=&rs=AOn4CLDfC3M9I8cwrdaeus1TiSCXUE4Org
+    qualifiers:
+      credit:
+        text: kaveh salehi
+        language: en
+    references:
+    - source: www.youtube.com-watch-v-jwdtfr0jbjg
+      quote: طهران
+      accessed: '2026-11-13'

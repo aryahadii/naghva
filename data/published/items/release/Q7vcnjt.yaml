@@ -1,0 +1,44 @@
+id: Q7vcnjt
+type: release
+statements:
+  name:
+  - value:
+      text: Élégie pour les ombres
+      language: en
+    references:
+    - &id001
+      source: music.apple.com-us-album-c3-a9l-c3-a9gie-pour-les-ombres-single-1610751813-176f35039b
+      quote: 'Listen to Élégie pour les ombres - Single by Soheil Peyghambari & Golfam Khayam on Apple Music. 2022.
+        1 Song. Duration: 7 minutes.'
+      accessed: '2026-11-13'
+      locator: Apple Music release description
+  performer:
+  - value: Q3waxf2
+    references:
+    - *id001
+  - value: Qranggn
+    references:
+    - *id001
+  release date:
+  - value:
+      date: '2022-02-16'
+    references:
+    - source: music.apple.com-us-album-c3-a9l-c3-a9gie-pour-les-ombres-single-1610751813-176f35039b
+      quote: '"datePublished":"2022-02-16"'
+      accessed: '2026-11-13'
+      locator: Album JSON-LD, datePublished
+  listen link:
+  - value: https://music.apple.com/us/album/%C3%A9l%C3%A9gie-pour-les-ombres-single/1610751813
+    references:
+    - *id001
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d3/fd/e4/d3fde4fd-47a6-19b8-d39a-0e11d063a859/752470404207_cover.jpg/1200x630bb.jpg
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-c3-a9l-c3-a9gie-pour-les-ombres-single-1610751813-176f35039b
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d3/fd/e4/d3fde4fd-47a6-19b8-d39a-0e11d063a859/752470404207_cover.jpg/1200x630bb.jpg
+      accessed: '2026-11-13'
+      locator: Album JSON-LD, image

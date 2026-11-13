@@ -7,43 +7,61 @@ statements:
       language: en
     references:
     - source: music.apple.com-us-album-manshour-1140400185-0bf09c973e7f
-      quote: |-
-        Listen to Manshour by Kaveh Yaghmaei on Apple Music. 2016. 9 Songs. Duration: 44 minutes.
-      accessed: '2026-10-20'
-  performer:
-  - value: Qcbarbs
-    references:
-    - source: music.apple.com-us-album-manshour-1140400185-0bf09c973e7f
-      quote: |-
-        Listen to Manshour by Kaveh Yaghmaei on Apple Music. 2016. 9 Songs. Duration: 44 minutes.
-      accessed: '2026-10-20'
-    - source: music.apple.com-us-album-manshour-1140400185-0bf09c973e7f
-      quote: |-
-        Kaveh Yaghmaei
+      quote: 'Listen to Manshour by Kaveh Yaghmaei on Apple Music. 2016. 9 Songs. Duration: 44 minutes.'
       accessed: '2026-10-20'
   release date:
   - value:
       date: '2016-08-02'
     references:
     - source: music.apple.com-us-album-manshour-1140400185-0bf09c973e7f
-      quote: |-
-        2016-08-02
+      quote: '2016-08-02'
+      accessed: '2026-10-20'
+  performer:
+  - value: Qcbarbs
+    qualifiers:
+      role:
+      - guitar
+      - keyboards
+    references:
+    - source: ir.voanews.com-a-iran-music-yaghmaie-3465312.html-37d8fbaf5d3f
+      quote: تمام آهنگ های آلبوم ساخته کاوه یغمایی است و کلیه مراحل ضبط این قطعات در کانادا و با همکاری اعضای گروه
+        موسیقی "نیکل بک" انجام شده است. او در جریان ضبط این آهنگ ها در استودیو، شخصأ گیتار الکتریک، گیتار آکوستیک
+        و کیبورد هم نواخته و نقش مهمی در شکل گیری این مجموعه داشته است.
+      accessed: '2026-11-13'
+    - source: music.apple.com-us-album-manshour-1140400185-0bf09c973e7f
+      quote: 'Listen to Manshour by Kaveh Yaghmaei on Apple Music. 2016. 9 Songs. Duration: 44 minutes.'
+      accessed: '2026-10-20'
+    - source: music.apple.com-us-album-manshour-1140400185-0bf09c973e7f
+      quote: Kaveh Yaghmaei
       accessed: '2026-10-20'
   listen link:
   - value: https://music.apple.com/us/album/manshour/1140400185
     references:
     - source: music.apple.com-us-album-manshour-1140400185-0bf09c973e7f
-      quote: |-
-        Listen to Manshour by Kaveh Yaghmaei on Apple Music. 2016. 9 Songs. Duration: 44 minutes.
+      quote: 'Listen to Manshour by Kaveh Yaghmaei on Apple Music. 2016. 9 Songs. Duration: 44 minutes.'
       accessed: '2026-10-20'
+  - value: https://www.youtube.com/playlist?list=OLAK5uy_lDUCiRaEFt_QMkv2XZOu6Gr9BpkgNBC1U
+    references:
+    - source: www.youtube.com-playlist-list-olak5uy_lduciraeft_qmkv2xzou6gr9bpkgnbc1u
+      quote: Manshour
+      accessed: '2026-11-13'
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music60/v4/f6/0d/a7/f60da792-08eb-3624-1393-96547b687a3a/cover.jpg/1200x630bb.jpg
     references:
     - source: music.apple.com-us-album-manshour-1140400185-0bf09c973e7f
-      quote: |-
-        https://is1-ssl.mzstatic.com/image/thumb/Music60/v4/f6/0d/a7/f60da792-08eb-3624-1393-96547b687a3a/cover.jpg/1200x630bb.jpg
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music60/v4/f6/0d/a7/f60da792-08eb-3624-1393-96547b687a3a/cover.jpg/1200x630bb.jpg
       accessed: '2026-10-20'
     qualifiers:
       credit:
         text: Apple Music
         language: en
+  contributor:
+  - value: Qcbarbs
+    qualifiers:
+      role: composer
+    references:
+    - source: ir.voanews.com-a-iran-music-yaghmaie-3465312.html-37d8fbaf5d3f
+      quote: تمام آهنگ های آلبوم ساخته کاوه یغمایی است و کلیه مراحل ضبط این قطعات در کانادا و با همکاری اعضای گروه
+        موسیقی "نیکل بک" انجام شده است. او در جریان ضبط این آهنگ ها در استودیو، شخصأ گیتار الکتریک، گیتار آکوستیک
+        و کیبورد هم نواخته و نقش مهمی در شکل گیری این مجموعه داشته است.
+      accessed: '2026-11-13'

@@ -19,3 +19,11 @@ kind: web page
 > 2003-01-01
 
 > https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/be/ac/04/beac046c-dfe0-37c5-6e30-4ac2cd663962/196626393456.jpg/1200x630bb.jpg
+
+> [{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/kaveh-yaghmaei/160760940","name":"Kaveh Yaghmaei"}]
+
+Apple Music embedded release metadata, read 2026-11-13.
+
+> "datePublished":"2003-01-01"
+
+Apple Music embedded release metadata, read 2026-11-13.

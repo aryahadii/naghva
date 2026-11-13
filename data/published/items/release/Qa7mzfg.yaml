@@ -1,0 +1,58 @@
+id: Qa7mzfg
+type: release
+statements:
+  name:
+  - value:
+      text: MoVE Premieres
+      language: en
+    references:
+    - &id001
+      source: music.apple.com-us-album-move-premieres-1891460410-3fd5d00d76
+      quote: 'Listen to MoVE Premieres by MoVE Modern Violin Ensemble on Apple Music. 2026. 15 Songs. Duration:
+        2 hours 7 minutes.'
+      accessed: '2026-11-13'
+      locator: Album description
+  performer:
+  - value: Qpna4af
+    references:
+    - *id001
+  contributor:
+  - value: Qranggn
+    qualifiers:
+      role: composer
+    references:
+    - source: www.phenotypicrecordings.com-move-premieres-liner-notes
+      quote: 'Golfam Khayam: Lullaby'
+      accessed: '2026-11-13'
+      locator: Individual composer credits
+  - value: Qdgzg39
+    qualifiers:
+      role: composer
+    references:
+    - source: www.phenotypicrecordings.com-move-premieres-liner-notes
+      quote: 'Aftab Darvishi: As Snow Falls'
+      accessed: '2026-11-13'
+      locator: Individual composer credits
+  listen link:
+  - value: https://music.apple.com/us/album/move-premieres/1891460410
+    references:
+    - *id001
+  release date:
+  - value:
+      date: '2026-06-12'
+    references:
+    - source: music.apple.com-us-album-move-premieres-1891460410-3fd5d00d76
+      quote: '"datePublished":"2026-06-12"'
+      accessed: '2026-11-13'
+      locator: Album date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fe/ac/0b/feac0b47-e3c9-ba6e-19d3-882041d56da2/824296197547_cover.jpg/1200x630bb.jpg
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-move-premieres-1891460410-3fd5d00d76
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fe/ac/0b/feac0b47-e3c9-ba6e-19d3-882041d56da2/824296197547_cover.jpg/1200x630bb.jpg
+      accessed: '2026-11-13'
+      locator: Album cover

@@ -51,3 +51,36 @@ statements:
       credit:
         text: hypernova.bandcamp.com
         language: en
+  contributor:
+  - value: Qddbbmb
+    qualifiers:
+      role: producer
+    references:
+    - source: hypernova.bandcamp.com-album-exit-strategy-ep-89daa65e35cc
+      quote: 'Produced by : Keith Souza and Hypernova'
+      accessed: '2026-11-13'
+      locator: Credits
+  - value: Q53gfmh
+    qualifiers:
+      role: producer
+    references:
+    - source: hypernova.bandcamp.com-album-exit-strategy-ep-89daa65e35cc
+      quote: 'Produced by : Keith Souza and Hypernova'
+      accessed: '2026-11-13'
+      locator: Credits
+  - value: Qz9w3hk
+    qualifiers:
+      role: lyricist
+    references:
+    - source: hypernova.bandcamp.com-album-exit-strategy-ep-89daa65e35cc
+      quote: 'Lyrics: King Raam'
+      accessed: '2026-11-13'
+      locator: Credits
+  - value: Qmgejrn
+    qualifiers:
+      role: songwriter
+    references:
+    - source: hypernova.bandcamp.com-album-exit-strategy-ep-89daa65e35cc
+      quote: 'Songwriter: Kodi'
+      accessed: '2026-11-13'
+      locator: Credits

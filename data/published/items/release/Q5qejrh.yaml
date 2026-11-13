@@ -1,0 +1,81 @@
+id: Q5qejrh
+type: release
+statements:
+  name:
+  - value:
+      text: Book-2007
+      language: en
+    references:
+    - source: soundcloud.com-hadi-pakzad-book
+      quote: Book-2007
+      accessed: '2026-11-13'
+  performer:
+  - value: Qjnkat7
+    references:
+    - source: soundcloud.com-hadi-pakzad-book
+      quote: Hadi Pakzad
+      accessed: '2026-11-13'
+  - value: Qkmbt4f
+    qualifiers:
+      role: drums
+    references:
+    - source: soundcloud.com-hadi-pakzad-book
+      quote: 'Lyrics: Hadi Pakzad
+
+        Music: Masoud Fayyazzadeh
+
+        Live Drums: Ali Baghfar
+
+        Year: 2007'
+      accessed: '2026-11-13'
+  release date:
+  - value:
+      date: '2016-01-14'
+    references:
+    - source: soundcloud.com-hadi-pakzad-book
+      quote: |-
+        "display_date":"2016-01-14T22:32:37Z"
+      accessed: '2026-11-13'
+  contributor:
+  - value: Qjnkat7
+    qualifiers:
+      role: lyricist
+    references:
+    - source: soundcloud.com-hadi-pakzad-book
+      quote: 'Lyrics: Hadi Pakzad
+
+        Music: Masoud Fayyazzadeh
+
+        Live Drums: Ali Baghfar
+
+        Year: 2007'
+      accessed: '2026-11-13'
+  - value: Qswfnvf
+    qualifiers:
+      role: composer
+    references:
+    - source: soundcloud.com-hadi-pakzad-book
+      quote: 'Lyrics: Hadi Pakzad
+
+        Music: Masoud Fayyazzadeh
+
+        Live Drums: Ali Baghfar
+
+        Year: 2007'
+      accessed: '2026-11-13'
+  listen link:
+  - value: https://soundcloud.com/hadi-pakzad/book
+    references:
+    - source: soundcloud.com-hadi-pakzad-book
+      quote: Book-2007
+      accessed: '2026-11-13'
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-000143259676-uo9bd8-t500x500.jpg
+    qualifiers:
+      credit:
+        text: Hadi Pakzad / SoundCloud
+        language: en
+    references:
+    - source: soundcloud.com-hadi-pakzad-book
+      quote: Book-2007
+      accessed: '2026-11-13'
