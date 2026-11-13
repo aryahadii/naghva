@@ -5,7 +5,7 @@ kind: web page
 language: en
 tier: journalism
 status: processed
-archive: https://web.archive.org/web/*/https://aaww.org/post-punk-post-tehran-yellow-dogs-perform-december-13-in-williamsburg/
+archive: https://web.archive.org/web/20251115125208/https://aaww.org/post-punk-post-tehran-yellow-dogs-perform-december-13-in-williamsburg/
 author: Gary Sullivan
 publisher: Asian American Writers’ Workshop
 issued:
@@ -35,3 +35,6 @@ Film paragraph: the band performs the song in its rooftop practice space. Read 2
 > full-length album
 
 Final section, the band was finishing new songs and planned recording the following year. Read 2026-11-13.
+
+
+Archive checked 2026-11-13: the availability API returned this snapshot; its HTML loaded successfully and the cited passages were checked in the archived article context.
