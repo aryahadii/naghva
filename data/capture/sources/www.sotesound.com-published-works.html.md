@@ -17,3 +17,15 @@ Page text, read 2026-11-13.
 > Sote - Hardcore Sounds From Tehran - [ Opal Tapes ] tp/dl
 
 Page text, read 2026-11-13.
+
+> Sote - MOSCELS - [ Opal Tapes ] tp/dl
+
+Page text, read 2026-11-13.
+
+> Sote - Sacred Horror In Design - [ Opal Tapes ] cd/dl
+
+Page text, read 2026-11-13.
+
+> Sote - Parallel Persia - [ Diagonal ] vinyl/dl
+
+Page text, read 2026-11-13.

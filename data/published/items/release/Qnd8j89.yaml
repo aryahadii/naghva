@@ -35,8 +35,7 @@ statements:
       quote: MOSCELS
       accessed: '2026-11-13'
     - source: opaltapes.bandcamp.com-album-moscels
-      quote: |-
-        ARTWORK: BORIS VITAZEK
+      quote: 'ARTWORK: BORIS VITAZEK'
       accessed: '2026-11-13'
     qualifiers:
       credit:
@@ -49,4 +48,11 @@ statements:
     references:
     - source: opaltapes.bandcamp.com-album-moscels
       quote: 'MUSIC: ATA ''SOTE'' EBTEKAR'
+      accessed: '2026-11-13'
+  published by:
+  - value: Q3ezwwj
+    references:
+    - source: www.sotesound.com-published-works.html
+      quote: |-
+        Sote - MOSCELS - [ Opal Tapes ] tp/dl
       accessed: '2026-11-13'
