@@ -5,6 +5,7 @@ language: en
 publisher: Center for Human Rights in Iran
 status: processed
 tier: journalism
+archive: https://web.archive.org/web/20260808065043/https://iranhumanrights.org/2021/08/qa-with-musician-marjan-farsad-my-hope-is-for-all-political-prisoners-to-be-freed/
 ---
 
 > Born in 1983 in Tehran, Iran, Marjan Farsad is a New-York based animator, illustrator, singer, and songwriter.
@@ -22,3 +23,5 @@ tier: journalism
 > My song is about stars that go missing every night. It represents the feeling of recent events in Iran.
 
 > The song is more personal to me than political.
+
+Full written Q&A reopened 2026-11-13; existing excerpts above checked in context. For Radio Farda, the funding passage follows the first question, and the scenes passage answers the question on animation. The recording date and diagnosis details remain unused. Only written content was read; the attached audio was not heard. Wayback availability returned the linked HTTP-200 snapshot; its body was not reread.

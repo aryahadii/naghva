@@ -14,14 +14,16 @@ statements:
       language: en
     references:
     - source: iranhumanrights.org-2021-08-qa-with-musician-marjan-farsad-my-hope-is-for-all-political-prisoners-to-be-freed-7c05d15f6e4e
-      quote: Born in 1983 in Tehran, Iran, Marjan Farsad is a New-York based animator, illustrator, singer, and songwriter.
+      quote: Born in 1983 in Tehran, Iran, Marjan Farsad is a New-York based animator, illustrator, singer, and
+        songwriter.
       accessed: '2026-10-19'
   birth date:
   - value:
       date: '1983'
     references:
     - source: iranhumanrights.org-2021-08-qa-with-musician-marjan-farsad-my-hope-is-for-all-political-prisoners-to-be-freed-7c05d15f6e4e
-      quote: Born in 1983 in Tehran, Iran, Marjan Farsad is a New-York based animator, illustrator, singer, and songwriter.
+      quote: Born in 1983 in Tehran, Iran, Marjan Farsad is a New-York based animator, illustrator, singer, and
+        songwriter.
       accessed: '2026-10-19'
   image:
   - value: https://www.womex.com/virtual/image/event/marjan_farsad_big_90264.jpg
@@ -53,4 +55,59 @@ statements:
     references:
     - source: iranhumanrights.org-2021-08-qa-with-musician-marjan-farsad-my-hope-is-for-all-political-prisoners-to-be-freed-7c05d15f6e4e
       quote: follow Marjan Farsad on
+      accessed: '2026-10-22'
+  life event:
+  - value:
+      text: She studied Graphic Design in Iran and Film Animation in Montreal, Canada.
+      language: en
+    references:
+    - source: oldsite.smallworldmusic.com-shows-marjan-farsad-live-in-toronto
+      quote: She studied Graphic Design in Iran and Film Animation in Montreal, Canada.
+      accessed: '2026-11-13'
+      locator: Artist biography, paragraph 2
+  - value:
+      text: او پس از انتخابات ۱۳۸۸، ایران را ترک کرد و اکنون ساکن شهر مونتریال در کاناداست.
+      language: fa
+    references:
+    - source: www.radiozamaneh.com-169959
+      quote: او پس از انتخابات ۱۳۸۸، ایران را ترک کرد و اکنون ساکن شهر مونتریال در کاناداست.
+      accessed: '2026-11-13'
+      locator: Article paragraph 2
+  - value:
+      text: یک بار هم این کار را انجام دادم ولی از نتیجه کار اصلاً راضی نبودم و خوشم نمی‌آمد نمی‌خواستم که آلبوم
+        را آن شکلی منتشر کنم. اصلاً راهی نداشت و تنها راهی که برایم باقی مانده بود این بود که از مردم کمک بخواهم.
+        و در نهایت هم مردم آن قدر با محبت حمایت کردند و واقعاً ممکن شد که بتوانم این آلبوم را درست کنم.
+      language: fa
+    references:
+    - source: www.radiofarda.com-a-marjan-farsad-on-her-new-album-derakht-e-sepid-30723644.html-4bffd3f5cc32
+      quote: یک بار هم این کار را انجام دادم ولی از نتیجه کار اصلاً راضی نبودم و خوشم نمی‌آمد نمی‌خواستم که آلبوم
+        را آن شکلی منتشر کنم. اصلاً راهی نداشت و تنها راهی که برایم باقی مانده بود این بود که از مردم کمک بخواهم.
+        و در نهایت هم مردم آن قدر با محبت حمایت کردند و واقعاً ممکن شد که بتوانم این آلبوم را درست کنم.
+      accessed: '2026-11-13'
+  - value:
+      text: وقتی آدم با افراد خیلی حرفه‌ای کار می‌کند، تجربه خیلی خوبی است. به خاطر این که این آدم‌ها آنقدر با استعداد
+        و توانا هستند و آنقدر خودشان ایده می‌آورند در کار که قشنگ بخشی از کار می‌شوند. یعنی یک قسمت عمده‌ای از این
+        آلبوم، ایده‌های آن آدم‌هاست که با خودشان آوردند در کار. و این خیلی ارزشمند است برای من.
+      language: fa
+    references:
+    - source: www.radiofarda.com-a-marjan-farsad-on-her-new-album-derakht-e-sepid-30723644.html-4bffd3f5cc32
+      quote: وقتی آدم با افراد خیلی حرفه‌ای کار می‌کند، تجربه خیلی خوبی است. به خاطر این که این آدم‌ها آنقدر با
+        استعداد و توانا هستند و آنقدر خودشان ایده می‌آورند در کار که قشنگ بخشی از کار می‌شوند. یعنی یک قسمت عمده‌ای
+        از این آلبوم، ایده‌های آن آدم‌هاست که با خودشان آوردند در کار. و این خیلی ارزشمند است برای من.
+      accessed: '2026-11-13'
+  - value:
+      text: I don’t usually talk about politics in my work.
+      language: en
+    references:
+    - source: iranhumanrights.org-2021-08-qa-with-musician-marjan-farsad-my-hope-is-for-all-political-prisoners-to-be-freed-7c05d15f6e4e
+      quote: I don’t usually talk about politics in my work. But their cases compelled me to speak out, and I felt
+        like I really had to do something about their unjust imprisonments, even if only just writing a song.
+      accessed: '2026-11-13'
+  - value:
+      text: 'Music, Lyrics, Illustration: Marjan Farsad'
+      language: en
+    references:
+    - source: soundcloud.com-marjan-farsad-nameh-baroon-marjan-farsad-69d6a2dc550f
+      quote: "Music, Lyrics, Illustration: Marjan Farsad\nProducer, Piano, Guitar, Mix, Master: @shervinnajafian\
+        \ \nCello: Federico Bragetti\nBeshno Records ‪\n© 2024 Marjan Farsad All Rights Reserved"
       accessed: '2026-10-22'
