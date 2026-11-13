@@ -84,6 +84,8 @@ statements:
       quote: more extroverted for this album
       accessed: '2026-11-13'
       locator: Torkian answer; full feature describes Rumi and Urdu poems
+    qualifiers:
+      about: Qm3nyfb
   - value:
       text: In 2009, Azam and I decided to move to Montreal from Los Angeles.
       language: en
@@ -92,6 +94,9 @@ statements:
       quote: In 2009, Azam and I decided to move to Montreal from Los Angeles.
       accessed: '2026-11-13'
       locator: First answer
+    qualifiers:
+      point in time:
+        date: '2009'
   - value:
       text: We did it in 2016 in Montreal.
       language: en
@@ -100,6 +105,9 @@ statements:
       quote: We did it in 2016 in Montreal.
       accessed: '2026-11-13'
       locator: Answer on first performances; subsequent answers describe visual process
+    qualifiers:
+      point in time:
+        date: '2016'
   - value:
       text: Composed by NIYAZ, Seven Realms of Attar is a brand-new studio album and the musical heart of NIYAZ’s
         landmark theatrical spectacle, an expansive sonic journey inspired by the sublime poetry of Attar’s 12th-century
@@ -111,3 +119,5 @@ statements:
         landmark theatrical spectacle, an expansive sonic journey inspired by the sublime poetry of Attar’s 12th-century
         masterpiece Conference of the Birds.
       accessed: '2026-10-19'
+    qualifiers:
+      about: Qjkkqwr

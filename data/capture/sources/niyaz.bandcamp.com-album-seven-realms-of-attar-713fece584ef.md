@@ -28,3 +28,5 @@ status: processed
 > Composed by NIYAZ, Seven Realms of Attar is a brand-new studio album and the musical heart of NIYAZ’s landmark theatrical spectacle, an expansive sonic journey inspired by the sublime poetry of Attar’s 12th-century masterpiece Conference of the Birds.
 
 Complete original artist album page and credit block reopened 2026-11-13. Composition exceptions for Detachment and Wonderment are retained in the quoted credit block. No stage premiere is inferred from the album date.
+
+Wayback availability lookup on 2026-11-13 returned no snapshot for this URL.

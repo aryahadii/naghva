@@ -5,6 +5,7 @@ kind: web page
 language: fa
 tier: journalism
 status: processed
+archive: https://web.archive.org/web/20220526030429/https://www.radiofarda.com/a/f35_NYAZ_9heavens/1377749.html
 ---
 
 > نیاز با «۹ سپهر» باز می‌گردد
@@ -16,3 +17,5 @@ status: processed
 Photograph caption, original written feature by Firoozeh Khatibi, 14 Bahman 1387, read 2026-11-13.
 
 Full written feature reopened 2026-11-13. It describes a Los Angeles launch and forthcoming El Rey concert in February 2009, not the original 2008 issue. The earlier extended quotation on Amir Khosrau remains the basis for that musical comparison. No audio transcription is asserted.
+
+Wayback availability lookup on 2026-11-13 returned the snapshot recorded in metadata; the lookup is not a claim that the archived page was independently read.

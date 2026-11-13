@@ -1,5 +1,13 @@
 ---
 references:
+  attar-stage:
+    source: www.kcrw.com-events-seven-realms-of-attar-by-niyaz
+    quote: Created in collaboration with interactive visual artist Theron Pray and choreographer Jody Sperling
+    accessed: '2026-11-13'
+  attar-royce:
+    source: www.kcrw.com-events-seven-realms-of-attar-by-niyaz
+    quote: Seven Realms of Attar by Niyaz at Royce Hall
+    accessed: '2026-11-13'
   bio:
     source: www.niyazmusic.com-bio-2e52c31a9a2c
     quote: Founded in 2004 by Iranian born, Indian raised vocalist/ composer Azam Ali, and Iranian multi-instrumentalist/
@@ -112,4 +120,4 @@ references:
 
 علی و ترکیان در سال ۲۰۰۹ از لس‌آنجلس به مونترآل رفتند و به ساختن اثری چندرسانه‌ای فکر کردند.[^montreal] آلبوم [«The Fourth Light»](#the-fourth-light-kzw) در سال ۲۰۱۵، با الهام از رابعهٔ عدویه، شاعر و عارف، مبنای نمایشی شد که با ژروم دلاپیر، هنرمند تجسمی، ساختند. نخستین اجراها در سال ۲۰۱۶ در مونترآل بود. تصاویر از خوشنویسی فارسی، قوس‌ها و هندسهٔ مقدس شکل می‌گرفتند و پرده‌های نیمه‌شفاف به آن‌ها عمق می‌دادند. تصویرها به موسیقی و حرکت اجراکنندگان واکنش نشان می‌دادند و گروه پس از اجراهای اولیه هم مواد و طراحی فنی را تغییر داد.[^date][^stage-start]
 
-در سپتامبر ۲۰۲۶، [«هفت وادی عطار»](#seven-realms-of-attar-jkk) این مسیر را در قالب آلبومی استودیویی و پروژه‌ای نمایشی با الهام از «منطق‌الطیر» عطار ادامه داد. سینان جم اراغلو در ضبط آلبوم کوپوز، کاوال و آواز را به کار گروه افزود.[^attar-date][^attar-work][^attar-credits]
+در سپتامبر ۲۰۲۶، [«هفت وادی عطار»](#seven-realms-of-attar-jkk) این مسیر را در قالب آلبومی استودیویی و پروژه‌ای نمایشی با الهام از «منطق‌الطیر» عطار ادامه داد. سینان جم اراغلو در ضبط آلبوم کوپوز، کاوال و آواز را به کار گروه افزود.[^attar-date][^attar-work][^attar-credits] ترون پری، هنرمند تصویر، و جودی اسپرلینگ، طراح رقص، در ساخت بخش صحنه‌ای اثر همکاری کردند. رادیو کی‌سی‌آردبلیو اجرای آن را برای اکتبر در رویس‌هال لس‌آنجلس اعلام کرد.[^attar-stage][^attar-royce]

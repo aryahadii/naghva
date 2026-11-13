@@ -26,4 +26,6 @@ Same paragraph, naming the trio, read 2026-11-13.
 
 Torkian quotation, paragraph beginning Our traditional music, read 2026-11-13.
 
-Complete original contemporary written feature read with the public web reader. The founding collaboration and Rumi/Urdu poetry are described in this article; the three named musicians and their prior projects are explicit. Public urllib route returned 403, but web reader exposed the complete 47-line article. Archive lookup pending.
+Complete original contemporary written feature read with the public web reader. The founding collaboration and Rumi/Urdu poetry are described in this article; the three named musicians and their prior projects are explicit. Public urllib route returned 403, but web reader exposed the complete 47-line article.
+
+Wayback availability lookup on 2026-11-13 returned no snapshot for this URL.

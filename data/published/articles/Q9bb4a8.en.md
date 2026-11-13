@@ -1,5 +1,13 @@
 ---
 references:
+  attar-stage:
+    source: www.kcrw.com-events-seven-realms-of-attar-by-niyaz
+    quote: Created in collaboration with interactive visual artist Theron Pray and choreographer Jody Sperling
+    accessed: '2026-11-13'
+  attar-royce:
+    source: www.kcrw.com-events-seven-realms-of-attar-by-niyaz
+    quote: Seven Realms of Attar by Niyaz at Royce Hall
+    accessed: '2026-11-13'
   bio:
     source: www.niyazmusic.com-bio-2e52c31a9a2c
     quote: Founded in 2004 by Iranian born, Indian raised vocalist/ composer Azam Ali, and Iranian multi-instrumentalist/
@@ -112,4 +120,4 @@ The first album, [*Niyaz*](#niyaz-m3n), appeared in 2005. Ali had sung with Vas,
 
 Ali and Torkian moved from Los Angeles to Montreal in 2009 and began considering a multimedia project.[^montreal] Their 2015 album [*The Fourth Light*](#the-fourth-light-kzw), inspired by the poet and mystic Rabia al-Basri, became the basis of a stage production developed with visual artist Jérôme Delapierre. First performed in Montreal in 2016, it used projected imagery drawn from Persian calligraphy, arches and sacred geometry. Translucent curtains created layers of images, while the visuals responded to music and performers’ movement. The group continued revising the materials and technical design after the early shows.[^date][^stage-start]
 
-In September 2026, [*Seven Realms of Attar*](#seven-realms-of-attar-jkk) extended their work into a studio album and theatrical project inspired by Attar’s *Conference of the Birds*. Sinan Cem Eroglu joined the recording on kopuz, kaval and voice.[^attar-date][^attar-work][^attar-credits]
+In September 2026, [*Seven Realms of Attar*](#seven-realms-of-attar-jkk) extended their work into a studio album and theatrical project inspired by Attar’s *Conference of the Birds*. Sinan Cem Eroglu joined the recording on kopuz, kaval and voice.[^attar-date][^attar-work][^attar-credits] Visual artist Theron Pray and choreographer Jody Sperling collaborated on the stage production, which KCRW announced for October at Royce Hall in Los Angeles.[^attar-stage][^attar-royce]
