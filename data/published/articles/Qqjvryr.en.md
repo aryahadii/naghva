@@ -3,27 +3,30 @@ references:
   birth:
     source: rami.ir-biography-3da15b13fd25
     quote: ابراهیم منصفی ، شاعر ، خنیاگر ، نویسنده و هنرمند پرآوازه ی هرمزگانی در سال 1324 در بندرعباس متولد شد.
-    accessed: '2026-10-19'
+    accessed: '2026-11-13'
   rami:
     source: folker.world-horizonte-ebrahim-monsefi-5f365163d260
     quote: Als junger Dichter legte er sich deshalb das Pseudonym „Rami“ zu
-    accessed: '2026-10-19'
+    accessed: '2026-11-13'
   poetry:
     source: rami.ir-biography-3da15b13fd25
     quote: از سال 1347 بود که مجلات معتبری مانند خوشه و فردوسی نسبت به درج شعرهای آزاد او اقدام کردند.
-    accessed: '2026-10-19'
+    accessed: '2026-11-13'
   film:
     source: rami.ir-biography-3da15b13fd25
-    quote: حضور در سه فیلم کوتاه سینمای آزاد آن سال ها به کارگردانی حسن بنی هاشمی به عنوان بازیگر و دریافت جایزه ی اول سینمای آزاد برای فیلم نهنگ که نویسنده ی آن نیز خود منصفی بود اشتهار دوچندان او را فراهم کرد.
-    accessed: '2026-10-19'
+    quote: حضور در سه فیلم کوتاه سینمای آزاد آن سال ها به کارگردانی حسن بنی هاشمی به عنوان بازیگر و دریافت جایزه
+      ی اول سینمای آزاد برای فیلم نهنگ که نویسنده ی آن نیز خود منصفی بود اشتهار دوچندان او را فراهم کرد.
+    accessed: '2026-11-13'
   influences:
     source: rami.ir-biography-3da15b13fd25
-    quote: او که با موسیقی ملت های مختلف آشنایی داشت و در این زمینه مطالعات ارزشمندی را انجام داده بود با علاقه ای که به موسیقی فلامینگوی اسپانیا و موسیقی هند از خود نشان داد توانست آثار در خور تحسینی را خلق کند.
-    accessed: '2026-10-19'
+    quote: او که با موسیقی ملت های مختلف آشنایی داشت و در این زمینه مطالعات ارزشمندی را انجام داده بود با علاقه
+      ای که به موسیقی فلامینگوی اسپانیا و موسیقی هند از خود نشان داد توانست آثار در خور تحسینی را خلق کند.
+    accessed: '2026-11-13'
   guitar:
     source: rami.ir-biography-3da15b13fd25
-    quote: اجرای ساده و بی شیله پیله ی او با آکورد گیتار هنوز مخاطبان فراوانی دارد و نگاههای بسیاری را به خود جلب کرده است.
-    accessed: '2026-10-19'
+    quote: اجرای ساده و بی شیله پیله ی او با آکورد گیتار هنوز مخاطبان فراوانی دارد و نگاههای بسیاری را به خود جلب
+      کرده است.
+    accessed: '2026-11-13'
   booklet:
     source: rami.ir-wp-content-uploads-taraneh_haye_rami_1.jpg-e5c27367d25d
     quote: Ebrahim Monsefi / Vocals, Guitar
@@ -31,45 +34,22 @@ references:
   death:
     source: rami.ir-biography-3da15b13fd25
     quote: منصفی در شب اول تیرماه 1376 در سن پنجاه و دو سالگی چشم از جهان فرو بست.
-    accessed: '2026-10-19'
-  cassettes:
-    source: rahafaridi.com-film-chicheka-lullaby-7d1767205ff4
-    quote: recorded more than 200 songs with a small cassette player.
-    accessed: '2026-10-23'
-  issue:
-    source: rami.ir-taranehaye-rami-album-92bdb9e1377d
-    quote: 'نام خواننده: ابراهیم منصفی نام آلبوم: ترانه‌های رامی نام ناشر: ماه ریز مهر سال انتشار: 1385 تعداد آهنگ ها: 16'
-    accessed: '2026-10-19'
-  booklet-copyright:
-    source: rami.ir-wp-content-uploads-taraneh_haye_rami_1.jpg-e5c27367d25d
-    quote: ©Mahriz Recordings, 2004, Tehran - Iran
-    accessed: '2026-10-04'
-  apple:
-    source: music.apple.com-us-album-r-c3-a2mis-songs-568854238-8c1005bb082b
-    quote: January 1, 2004
-    accessed: '2026-10-19'
-  spotify:
-    source: open.spotify.com-album-3xocned7ofooexv6crkuxz-45ab74b2f405
-    quote: Ebrahim Monsefi · album · 2009 · 16 songs
-    accessed: '2026-10-23'
+    accessed: '2026-11-13'
   documentary:
     source: rahafaridi.com-film-chicheka-lullaby-7d1767205ff4
     quote: It pictures the life story of the influential musician of south of Iran, Ebrahim Monsefi.
-    accessed: '2026-10-23'
-  film-title:
-    source: rahafaridi.com-film-chicheka-lullaby-7d1767205ff4
-    quote: چی‌چکا قصه‌ی شب
-    accessed: '2026-10-23'
+    accessed: '2026-11-13'
   film-music:
     source: rahafaridi.com-film-chicheka-lullaby-7d1767205ff4
     quote: 'MUSIC
 
       Ebrahim Monsefi'
-    accessed: '2026-10-23'
+    accessed: '2026-11-13'
   preservation:
     source: rahafaridi.com-film-chicheka-lullaby-7d1767205ff4
-    quote: collecting, digitizing, and archiving Hormozgan's scattered musical and literary heritage; videos, cassettes, photos, hand-written notes, and poems,
-    accessed: '2026-10-23'
+    quote: collecting, digitizing, and archiving Hormozgan's scattered musical and literary heritage; videos, cassettes,
+      photos, hand-written notes, and poems,
+    accessed: '2026-11-13'
   juma:
     source: t.me-jumamusic-94
     quote: 'نایه آفتو (آفتاب نمی‌آید)
@@ -86,20 +66,50 @@ references:
 
       زبان: گیلکی'
     accessed: '2026-10-22'
+  early:
+    source: rami.ir-biography-3da15b13fd25
+    quote: او که الفتش با صدا و خواندن را با حضور در تعزیه خوانی های ماه محرم تجربه کرده بود
+    accessed: '2026-11-13'
+    locator: Paragraph on secondary school
+  jamming:
+    source: folker.world-horizonte-ebrahim-monsefi-5f365163d260
+    quote: Meist jammte er mit Freunden, darunter der Gitarrist und Komponist Masoud Pakdaman
+    accessed: '2026-11-13'
+    locator: Paragraph beginning Das empfundene Leid
+  sessions:
+    source: folker.world-horizonte-ebrahim-monsefi-5f365163d260
+    quote: Häufig nahmen die Musiker ihre Sessions mit einem Kassettenrekorder auf.
+    accessed: '2026-11-13'
+    locator: Same paragraph
+  guitarists:
+    source: rami.ir-wp-content-uploads-taraneh_haye_rami_1.jpg-e5c27367d25d
+    quote: Hessameddin Naghavi / Guitar * Masoud Pakdaman / Guitar * Ali Alavi / Guitar
+    accessed: '2026-11-13'
+    locator: Booklet musician credits
+  taefi:
+    source: www.aasoo.org-fa-articles-2094
+    quote: من دو ترانه از مجموع ۹ ترانه را با هم ترکیب کردم و در آن از صدای خود «منصفی» استفاده کردم
+    accessed: '2026-11-13'
+    locator: Taefi answer on using Monsefi voice
+  amis:
+    source: www.aasoo.org-fa-articles-2094
+    quote: آلبوم «آمیس»
+    accessed: '2026-11-13'
+    locator: Introduction
 ---
 
-Ebrahim Monsefi (ابراهیم منصفی) was a poet, singer and writer from Hormozgan, born in Bandar Abbas in 1324 of the Solar Hijri calendar. He adopted the name Rami as a young poet.[^birth][^rami] His voice and guitar can be heard on [Râmi's Songs](#ramis-songs-c8s), whose booklet credits him with both.[^booklet]
+Ebrahim Monsefi, known as Rami, was an Iranian poet, singer and guitarist from Bandar Abbas. Born in 1945–46, he wrote poetry and songs and acted in short films. He performed with friends and recorded on cassette; after his death in 1997, his recordings continued to circulate and other musicians reinterpreted his songs.[^birth][^rami][^film][^jamming][^sessions][^death][^juma]
 
-## Poetry, guitar and cinema
+## Poetry and music
 
-Monsefi's free verse began appearing in the magazines خوشه and فردوسی in 1347. His writing also extended to cinema: he wrote *نهنگ* and acted in three short films directed by حسن بنی‌هاشمی within the Free Cinema movement.[^poetry][^film]
+Monsefi first became familiar with singing through the ta'zieh performances held during Muharram. As a young poet he adopted the name Rami.[^early][^rami] His free verse began appearing in the magazines *Khusheh* and *Ferdowsi* in 1968–69. He acted in three short films directed by Hassan Bani-Hashemi within the Free Cinema movement and wrote the film *نهنگ*.[^poetry][^film]
 
-His musical interests included Spanish flamenco and Indian music.[^influences] The Rami archive's biography describes his performances with guitar chords as simple and unadorned.[^guitar]
+His musical interests included Spanish flamenco and Indian music. He sang with guitar accompaniment, often playing together with friends such as the guitarist and composer Masoud Pakdaman.[^influences][^guitar][^jamming] They recorded their sessions on cassette.[^sessions]
 
-## Recordings and their circulation
+## Recordings
 
-Monsefi died on 1 Tir 1376.[^death] The synopsis of *Chicheka Lullaby* describes him recording more than 200 songs with a small cassette player.[^cassettes] The sixteen-song *Râmi's Songs* offers one collection of his performances. Its entry in the Rami archive dates the edition published by ماه ریز مهر to 1385, while the booklet carries a 2004 copyright for Mahriz Recordings.[^issue][^booklet-copyright] The platform dates differ too: January 1, 2004 on Apple Music and 2009 on Spotify.[^apple][^spotify]
+Monsefi died in 1997.[^death] His performances were later collected on [*Râmi's Songs*](#ramis-songs-c8s). He sang and played guitar, accompanied on guitar by Hessameddin Naghavi, Pakdaman and Ali Alavi.[^booklet][^guitarists]
 
-Monsefi's life and music meet again in the documentary *Chicheka Lullaby*, titled *چی‌چکا قصه‌ی شب* in Persian: he is its subject and is also credited for its music.[^documentary][^film-title][^film-music] In the director's statement, the filmmaker describes collecting, digitizing and archiving Hormozgan's scattered musical and literary heritage, including videos, cassettes, photographs, handwritten notes and poems. This places the film within a wider effort to preserve the region's cultural material.[^preservation]
+His songs also reached later performers. The singer Sonbol Taefi used his recorded voice in two songs that she combined for her album *Amis*.[^taefi][^amis] In 2023 [Juma](/en/juma-48z/) released [“نایه آفتو (آفتاب نمی‌آید)”](/en/juma-48z/#نایه-آفتو-آفتاب-نمی-آید-a57), a Gilaki song with words by Ramazan Pourtaher. Its music was based on Monsefi’s “آدمِ پوچ” and dedicated to his memory.[^juma]
 
-His songs have also become material for later musicians. On 1 Tir 1402, [Juma](/en/juma-48z/) released [نایه آفتو (آفتاب نمی‌آید)](/en/juma-48z/#نایه-آفتو-آفتاب-نمی-آید-a57), a Gilaki performance using a poem by رمضان پورطاهر. Its music is based on Monsefi's «آدمِ پوچ» and dedicated to his memory.[^juma]
+Monsefi’s life and music became the subject of Raha Faridi’s documentary *Chicheka Lullaby*. While making the film, Faridi collected and digitized cassettes, photographs, videos, handwritten notes and poems from Hormozgan. His songs formed part of the film’s music.[^documentary][^film-music][^preservation]

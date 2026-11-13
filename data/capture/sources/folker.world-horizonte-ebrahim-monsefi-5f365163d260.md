@@ -1,11 +1,14 @@
 ---
 url: https://folker.world/horizonte/ebrahim-monsefi/
-archive: "https://web.archive.org/web/20260413174200/https://folker.world/horizonte/ebrahim-monsefi/"
+archive: https://web.archive.org/web/20260413174200/https://folker.world/horizonte/ebrahim-monsefi/
 title: 'Ebrahim Monsefi: Die traurige Stimme Hormusgans'
 status: processed
 language: de
 tier: journalism
 publisher: Folker
+author: Bernd G. Schmitz
+issued:
+  date: '2025-03-04'
 ---
 
 > Dass Ebrahim Monsefis Werk nicht in Vergessenheit geriet, ist vor allem seinem Nachlassverwalter Hesam Naghavi zu verdanken.
@@ -23,3 +26,13 @@ release.
 Page text, read 2026-10-19.
 
 > Als junger Dichter legte er sich deshalb das Pseudonym „Rami“ zu
+
+> Meist jammte er mit Freunden, darunter der Gitarrist und Komponist Masoud Pakdaman
+
+Paragraph beginning «Das empfundene Leid», read 2026-11-13.
+
+> Häufig nahmen die Musiker ihre Sessions mit einem Kassettenrekorder auf.
+
+Same paragraph, final sentence, read 2026-11-13.
+
+Full written article read in public HTML 2026-11-13; no audio used.

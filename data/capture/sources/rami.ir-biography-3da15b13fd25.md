@@ -1,6 +1,6 @@
 ---
 url: https://rami.ir/biography/
-archive: "https://web.archive.org/web/20260218193227/https://rami.ir/biography/"
+archive: https://web.archive.org/web/20260218193227/https://rami.ir/biography/
 title: نگاهی به زندگی ابراهیم منصفی
 status: processed
 language: fa
@@ -21,3 +21,9 @@ Page text, read 2026-10-19.
 > اجرای ساده و بی شیله پیله ی او با آکورد گیتار هنوز مخاطبان فراوانی دارد و نگاههای بسیاری را به خود جلب کرده است.
 
 > منصفی در شب اول تیرماه 1376 در سن پنجاه و دو سالگی چشم از جهان فرو بست.
+
+> او که الفتش با صدا و خواندن را با حضور در تعزیه خوانی های ماه محرم تجربه کرده بود
+
+Paragraph on secondary school and first arts activity, read 2026-11-13.
+
+Full biography read from public HTML fallback 2026-11-13 after the web reader returned only navigation. Existing passages checked. Linked Wayback snapshot body not reread.
