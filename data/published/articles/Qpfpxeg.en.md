@@ -1,5 +1,18 @@
 ---
 references:
+  film-song:
+    source: www.albany.edu-writers-inst-farhan-rana13
+    quote: Based on a poem by Rumi that combines erotic imagery with sensual longing, the song is prominently featured
+      in the film
+    accessed: '2026-11-13'
+  film-title:
+    source: www.albany.edu-writers-inst-farhan-rana13
+    quote: with her sultry jazz song ‘Drunk With Love.’
+    accessed: '2026-11-13'
+  venues:
+    source: ranafarhanmusic.com-about
+    quote: headlined The Tirgan Festival in Toronto and performed at the landmark El Rey Theater in Los Angeles.
+    accessed: '2026-11-13'
   new-york:
     source: ranafarhanmusic.com-about-rana-bdfc4cc56540
     quote: After graduating from Tehran University, she left Iran and landed in New York City, where she explored
@@ -96,6 +109,19 @@ references:
     source: music.apple.com-us-album-moon-and-stone-458448005-7399bf0dcc2f
     quote: Moon and Stone by Rana Farhan on Apple Music
     accessed: '2026-10-19'
+  wish-style:
+    source: ranafarhanmusic.com-music-0dd76ffdcc34
+    quote: Combining traditional Persian poetry with the classic sound of jazz!
+    accessed: '2026-11-13'
+    locator: Your Wish description
+  wish-year:
+    source: music.apple.com-us-album-your-wish-313677591-0c266aaea677
+    quote: '"datePublished":"2009-03-27"'
+    accessed: '2026-10-19'
+  attar-year:
+    source: music.apple.com-us-album-attar-boulevard-912681270-8823440947c8
+    quote: '"datePublished":"2014-08-25"'
+    accessed: '2026-10-19'
 ---
 
 Rana Farhan is an Iranian singer based in New York whose music combines blues and jazz with Persian poetry. After beginning with American standards, she worked with the guitarist Steven Toub on songs using the poetry of Rumi and Hafez. She later wrote songs of her own and continued exploring soul music in Persian.[^new-york][^first][^poetry][^own-songs][^sixties]
@@ -108,9 +134,13 @@ After graduating from Tehran University, she settled in New York. She worked in 
 
 ## Singing Persian poetry
 
-Farhan and Toub then turned to the poetry of Rumi and Hafez. They made [*I Return*](#i-return-g6f), released in 2007, bringing Persian words into their blues and jazz songs.[^poetry][^return-date] Farhan also appeared in Bahman Ghobadi’s film *No One Knows About Persian Cats*.[^film]
+Farhan and Toub then turned to the poetry of Rumi and Hafez. They made [*I Return*](#i-return-g6f), released in 2007, bringing Persian words into their blues and jazz songs.[^poetry][^return-date] Farhan also appeared in Bahman Ghobadi’s film *No One Knows About Persian Cats*.[^film] The film features “Drunk With Love,” her setting of a poem by Rumi.[^film-song][^film-title]
 
-On [*Moon and Stone*](#moon-and-stone-qp6), released in 2011, she included two songs of her own, “I Stand By You” and “Iran.”[^moon-date][^own-songs][^stand][^iran] Her listening at the time drew her toward the soul music of the 1960s.[^sixties] She returned to that period’s sounds on [*Talking ’bout Love*](#talking-bout-love-z9a) in 2018.[^talking-date][^2018-style]
+On [*Your Wish*](#your-wish-h2w), released in 2009, she paired Persian poetry with classic jazz.[^wish-year][^wish-style]
+
+On [*Moon and Stone*](#moon-and-stone-qp6), released in 2011, she included two songs of her own, “I Stand By You” and “Iran.”[^moon-date][^own-songs][^stand][^iran] Her listening at the time drew her toward the soul music of the 1960s.[^sixties] After [*Attar Boulevard*](#attar-boulevard-zcj) in 2014,[^attar-year] she returned to that period’s sounds on [*Talking ’bout Love*](#talking-bout-love-z9a) in 2018.[^talking-date][^2018-style]
+
+She headlined Toronto’s Tirgan Festival and performed at the El Rey Theatre in Los Angeles.[^venues]
 
 ## Later recordings
 

@@ -4,6 +4,7 @@ title: About Rana
 language: en
 status: processed
 tier: own
+archive: https://web.archive.org/web/20260710163436/https://ranafarhanmusic.com/about-rana
 ---
 
 > In New York, Rana teamed up with guitarist and producer Steven Toub to create her first full-length album, The Blues Are Brewin’ , a collection of American jazz and blues standards.
@@ -29,3 +30,5 @@ Same sentence, read2026-11-13.
 Persian Soul paragraph, read2026-11-13.
 
 Complete current written artist page reopened2026-11-13. Existing passages checked in context. The music page presents the2025album plus six older Persian releases; the earliest English standards album remains identifiable from biography and contemporaneous organizer text.
+
+Wayback availability lookup on 2026-11-13 returned the snapshot recorded in metadata; the lookup is not a claim that the archived page was independently read.

@@ -5,6 +5,7 @@ status: processed
 publisher: Le Poisson Rouge
 tier: own
 language: en
+archive: https://web.archive.org/web/20241130220621/https://lpr.com/lpr_artists/rana-farhan/
 ---
 
 > In 2005 she teamed with guitarist/ producer Steven Toub
@@ -19,4 +20,6 @@ Farhan quotation on Moon And Stone, read2026-11-13.
 
 Final biography paragraph, read2026-11-13.
 
-Complete organizer artist biography read; past Tirgan statement is distinct from future bookings. Original2005album date corroborates the press release. Archive lookup pending.
+Complete organizer artist biography read; past Tirgan statement is distinct from future bookings. Original2005album date corroborates the press release.
+
+Wayback availability lookup on 2026-11-13 returned the snapshot recorded in metadata; the lookup is not a claim that the archived page was independently read.

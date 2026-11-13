@@ -1,5 +1,18 @@
 ---
 references:
+  film-song:
+    source: www.albany.edu-writers-inst-farhan-rana13
+    quote: Based on a poem by Rumi that combines erotic imagery with sensual longing, the song is prominently featured
+      in the film
+    accessed: '2026-11-13'
+  film-title:
+    source: www.albany.edu-writers-inst-farhan-rana13
+    quote: with her sultry jazz song ‘Drunk With Love.’
+    accessed: '2026-11-13'
+  venues:
+    source: ranafarhanmusic.com-about
+    quote: headlined The Tirgan Festival in Toronto and performed at the landmark El Rey Theater in Los Angeles.
+    accessed: '2026-11-13'
   new-york:
     source: ranafarhanmusic.com-about-rana-bdfc4cc56540
     quote: After graduating from Tehran University, she left Iran and landed in New York City, where she explored
@@ -96,9 +109,22 @@ references:
     source: music.apple.com-us-album-moon-and-stone-458448005-7399bf0dcc2f
     quote: Moon and Stone by Rana Farhan on Apple Music
     accessed: '2026-10-19'
+  wish-style:
+    source: ranafarhanmusic.com-music-0dd76ffdcc34
+    quote: Combining traditional Persian poetry with the classic sound of jazz!
+    accessed: '2026-11-13'
+    locator: Your Wish description
+  wish-year:
+    source: music.apple.com-us-album-your-wish-313677591-0c266aaea677
+    quote: '"datePublished":"2009-03-27"'
+    accessed: '2026-10-19'
+  attar-year:
+    source: music.apple.com-us-album-attar-boulevard-912681270-8823440947c8
+    quote: '"datePublished":"2014-08-25"'
+    accessed: '2026-10-19'
 ---
 
-رعنا فرحان خوانندهٔ ایرانی ساکن نیویورک است که بلوز و جاز را با شعر فارسی همراه می‌کند. پس از شروع کار با ترانه‌های آمریکایی، با استیون توب، گیتاریست، روی شعرهای مولوی و حافظ کار کرد. بعدتر آهنگ‌هایی از خودش خواند و جست‌وجویش در موسیقی سول به زبان فارسی را ادامه داد.[^new-york][^first][^poetry][^own-songs][^sixties]
+رعنا فرحان خوانندهٔ ایرانی ساکن نیویورک است که بلوز و جاز را با شعر فارسی همراه می‌کند. پس از شروع کار با ترانه‌های آمریکایی، با استیون توب، گیتاریست، روی شعرهای مولوی و حافظ کار کرد. بعدتر خودش هم ترانه نوشت و جست‌وجویش در موسیقی سول به زبان فارسی را ادامه داد.[^new-york][^first][^poetry][^own-songs][^sixties]
 
 ## آموختن بلوز
 
@@ -108,9 +134,13 @@ references:
 
 ## خواندن شعر فارسی
 
-فرحان و توب سپس به سراغ شعر مولوی و حافظ رفتند. [«باز آمدم»](#i-return-g6f) را در سال ۲۰۰۷ منتشر کردند و شعر فارسی را با آهنگ‌های بلوز و جاز همراه کردند.[^poetry][^return-date] فرحان در فیلم «کسی از گربه‌های ایرانی خبر ندارد» ساختهٔ بهمن قبادی هم ظاهر شد.[^film]
+فرحان و توب سپس به سراغ شعر مولوی و حافظ رفتند. [«باز آمدم»](#i-return-g6f) را در سال ۲۰۰۷ منتشر کردند و شعر فارسی را با آهنگ‌های بلوز و جاز همراه کردند.[^poetry][^return-date] فرحان در فیلم «کسی از گربه‌های ایرانی خبر ندارد» ساختهٔ بهمن قبادی هم ظاهر شد.[^film] «سرمست»، اجرای او از شعری از مولوی، در فیلم شنیده می‌شود.[^film-song][^film-title]
 
-در [«ماه و سنگ»](#moon-and-stone-qp6)، منتشرشده در سال ۲۰۱۱، دو آهنگ از خودش، «I Stand By You» و «Iran»، را خواند.[^moon-date][^own-songs][^stand][^iran] در آن دوره شنیدن موسیقی سول دههٔ ۱۹۶۰ بر کارش اثر گذاشته بود.[^sixties] در سال ۲۰۱۸، در [«گفتگوی عشق»](#talking-bout-love-z9a)، دوباره از صداهای همان دوره الهام گرفت.[^talking-date][^2018-style]
+در [«آرزوی تو»](#your-wish-h2w)، منتشرشده در سال ۲۰۰۹، شعر فارسی را با جاز کلاسیک همراه کرد.[^wish-year][^wish-style]
+
+در [«ماه و سنگ»](#moon-and-stone-qp6)، منتشرشده در سال ۲۰۱۱، دو آهنگ از خودش، «I Stand By You» و «Iran»، را خواند.[^moon-date][^own-songs][^stand][^iran] در آن دوره شنیدن موسیقی سول دههٔ ۱۹۶۰ بر کارش اثر گذاشته بود.[^sixties] پس از [«بولوار عطار»](#attar-boulevard-zcj) در سال ۲۰۱۴،[^attar-year] در سال ۲۰۱۸، در [«گفتگوی عشق»](#talking-bout-love-z9a)، دوباره از صداهای همان دوره الهام گرفت.[^talking-date][^2018-style]
+
+فرحان از اجراکنندگان اصلی جشنوارهٔ تیرگان در تورنتو بود و در سالن ال‌ری در لس‌آنجلس هم روی صحنه رفت.[^venues]
 
 ## ضبط‌های بعدی
 

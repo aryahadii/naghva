@@ -41,6 +41,9 @@ statements:
       quote: I left Iran in 1989
       accessed: '2026-11-13'
       locator: Answer on departure
+    qualifiers:
+      point in time:
+        date: '1989'
   - value:
       text: In New York, Rana teamed up with guitarist and producer Steven Toub to create her first full-length
         album, The Blues Are Brewin’ , a collection of American jazz and blues standards.
@@ -52,6 +55,9 @@ statements:
       accessed: '2026-11-13'
     qualifiers:
       with: Q8rjz4j
+      about: Qkcamza
+      point in time:
+        date: '2005'
   - value:
       text: two songs penned by Farhan herself
       language: en
@@ -60,6 +66,10 @@ statements:
       quote: two songs penned by Farhan herself
       accessed: '2026-11-13'
       locator: PDFp1, Moon and Stone introduction
+    qualifiers:
+      about: Qqp6byq
+      point in time:
+        date: '2011'
   - value:
       text: Recorded during lockdown. This five song E.P.
       language: en
@@ -68,3 +78,5 @@ statements:
       quote: Recorded during lockdown. This five song E.P.
       accessed: '2026-11-13'
       locator: Baz A
+    qualifiers:
+      about: Q7cj6dy
