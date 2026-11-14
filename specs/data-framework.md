@@ -52,7 +52,7 @@ To record a new kind of fact, add its property here first.
 | `birthplace` | person | place |
 | `member of` | person | act |
 | `formation date` | act | date |
-| `based in` | act | place |
+| `based in` | person, act | place |
 | `life event` | person, act | text, with its language |
 | `release date` | release | date |
 | `performer` | release, event | act or person |
@@ -61,6 +61,7 @@ To record a new kind of fact, add its property here first.
 | `listen link` | release | URL |
 | `profile link` | person, act | official artist profile or channel URL |
 | `event date` | event | date |
+| `country` | place | place |
 | `image` | person, act, event, place | URL |
 | `cover art` | release | URL |
 | `poster` | event | URL |
@@ -69,8 +70,8 @@ To record a new kind of fact, add its property here first.
 | Qualifier | Used on | Value |
 | --- | --- | --- |
 | `role` | `member of`, `performer`, `contributor` | role term |
-| `start time` | `member of` | date |
-| `end time` | `member of` | date |
+| `start time` | `member of`, `based in` | date |
+| `end time` | `member of`, `based in` | date |
 | `point in time` | `life event` | date |
 | `place` | `life event` | place |
 | `with` | `life event` | act, person or organization |

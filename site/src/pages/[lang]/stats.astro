@@ -77,6 +77,17 @@ for (const x of ranked) {
   if (labelled.length === 10) break;
 }
 
+// Where artists live now: Iran, then the countries abroad, the smallest folded into one row.
+const bs = d.based;
+const COUNTRY_ROWS = 5;
+const placeRows: [string, number, string][] = [[T('Iran', 'ایران'), bs.inside, 'var(--iran)']];
+for (const [id, v] of bs.countries.slice(0, COUNTRY_ROWS)) placeRows.push([label(id), v, 'var(--coral)']);
+const elsewhere = bs.countries.slice(COUNTRY_ROWS).reduce((t: number, [, v]: [string, number]) => t + v, 0);
+if (elsewhere) placeRows.push([T('Elsewhere', 'جاهای دیگر'), elsewhere, 'var(--coral)']);
+const placed = bs.inside + bs.abroad;
+const left = byYear(bs.left);
+const leftMax = scale(Math.max(1, ...left.map((s) => s.n)));
+
 // Completeness.
 const comp = d.completeness;
 const fieldName: Record<string, [string, string]> = {
@@ -99,11 +110,12 @@ const grown = d.pace.map(([w, v]: [string, number]) => ({ w, total: (running += 
 const grownMax = scale(running);
 const week = (iso: string) => fmt({ day: 'numeric', month: 'short' }).format(new Date(iso + 'T12:00:00Z'));
 
-// Sections the record cannot answer for enough of what they count stay off the page. Where artists live,
-// gender and labels join once the record holds them (see the spec); their counts are already in `stats`.
+// Sections the record cannot answer for enough of what they count stay off the page.
+// Gender and labels join once the record holds them (see the spec); their counts are already in `stats`.
 const sections = [
   { id: 'releases', label: T('Releases per year', 'انتشار در هر سال'), show: d.releases.days.length > 0 },
   { id: 'new-artists', label: T('When artists started', 'آغاز کار هنرمندان'), show: d.starts.total > 0 && d.starts.days.length / d.starts.total >= SHOW_AT },
+  { id: 'based', label: T('Inside Iran or abroad', 'داخل یا خارج ایران'), show: bs.total > 0 && bs.known / bs.total >= SHOW_AT },
   { id: 'listen', label: T('Where to listen', 'کجا بشنویم'), show: ls.platforms.length >= 2 && ls.linked / ls.total >= SHOW_AT },
   { id: 'network', label: T('Who works with whom', 'همکاری‌ها'), show: net.nodes.length > 1 && hubs.length > 0 },
   { id: 'record', label: T('How complete the archive is', 'آرشیو چقدر کامل است'), show: true },
@@ -166,6 +178,39 @@ const shown = (id: string) => sections.some((s) => s.id === id);
             ))}
           </div>
         </figure>
+      </section>
+    )}
+
+    {shown('based') && (
+      <section class="q q-wide" id="based" aria-labelledby="based-h">
+        <div class="q-text">
+          <h2 id="based-h">{T('Do they live in Iran or abroad?', 'در ایران زندگی می‌کنند یا بیرون از ایران؟')}</h2>
+        </div>
+        <figure class="q-fig">
+          <ul class="hbars">
+            {placeRows.map(([name, v, c]) => (
+              <li><span class="hb-label">{name}</span><span class="hb-bar" style={`--w:${pct(v, placed)}%;--c:${c}`}></span><span class="hb-val">{p(v, placed)}</span></li>
+            ))}
+          </ul>
+        </figure>
+        {bs.left.length > 0 && (
+          <div class="q-text">
+            <h3 id="left-h">{T('When did they leave Iran?', 'چه سالی از ایران رفتند؟')}</h3>
+          </div>
+        )}
+        {bs.left.length > 0 && (
+          <figure class="q-fig" aria-labelledby="left-h">
+            <div class="cols cols-short" dir="ltr" style={`--n:${left.length}`}>
+              <div class="grid" aria-hidden="true">{[1, 0].map((k) => <span style={`--k:${k}`}><b>{n(Math.round(leftMax * k))}</b></span>)}</div>
+              {left.map((s) => (
+                <div class={`col${s.earlier ? ' col-earlier' : ''}`} tabindex="0" role="button" data-tip={`${s.earlier ? earlierLabel : n(s.y)}: ${n(s.n)} ${T(s.n === 1 ? 'artist' : 'artists', 'هنرمند')}`} aria-label={`${s.earlier ? earlierLabel : n(s.y)}: ${n(s.n)}`} style={`--h:${(s.n / leftMax) * 100}%`}>
+                  <div class="stack"><i style="--c:var(--coral);flex-grow:1"></i></div>
+                  {s.earlier ? <span class="tick">{earlierLabel}</span> : s.y % 5 === 0 && s.y - FIRST > 2 && <span class={`tick${s.y % 10 ? ' tick-minor' : ''}`}>{n(s.y)}</span>}
+                </div>
+              ))}
+            </div>
+          </figure>
+        )}
       </section>
     )}
 

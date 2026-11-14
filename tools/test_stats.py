@@ -54,6 +54,36 @@ class StatsTests(unittest.TestCase):
         self.items["QR3"]["statements"]["release date"] = [statement({"date": "1990", "range": ["1990-01-01", "1990-12-31"]}, "deprecated")]
         self.assertNotIn("1990-07-02", stats.stats(self.items, ["QA", "QB"], {}, {})["releases"]["days"])
 
+    def test_bases_split_inside_and_abroad_and_date_leaving(self):
+        def place(i, name, country=None):
+            st = {"name": [statement({"text": name, "language": "en"})]}
+            if country:
+                st["country"] = [statement(country)]
+            return {"id": i, "type": "place", "statements": st}
+
+        def based(place_id, start=None, end=None):
+            s = statement(place_id)
+            q = {}
+            if start:
+                q["start time"] = [{"date": start, "range": [start + "-01-01", start + "-12-31"]}]
+            if end:
+                q["end time"] = [{"date": end, "range": [end + "-01-01", end + "-12-31"]}]
+            if q:
+                s["qualifiers"] = q
+            return s
+
+        items = dict(self.items)
+        items.update({"QI": place("QI", "Iran"), "QT": place("QT", "Tehran", "QI"),
+                      "QG": place("QG", "Germany"), "QBE": place("QBE", "Berlin", "QG")})
+        berlin = based("QBE", start="2013")
+        berlin["rank"] = "preferred"
+        items["QA"] = {"id": "QA", "type": "person", "statements": {"based in": [based("QT", end="2012"), berlin]}}
+        items["QB"] = {"id": "QB", "type": "person", "statements": {"based in": [based("QT")]}}
+        got = stats.stats(items, ["QA", "QB", "QC"], {}, {})["based"]
+        self.assertEqual((got["known"], got["inside"], got["abroad"]), (2, 1, 1))
+        self.assertEqual(got["countries"], [["QG", 1]])
+        self.assertEqual(got["left"], ["2012-07-01"])
+
     def test_network_links_artists_who_share_a_release_and_lays_out_the_same_each_time(self):
         net = self.stats["network"]
         self.assertEqual({n["id"] for n in net["nodes"]}, {"QA", "QB"})
