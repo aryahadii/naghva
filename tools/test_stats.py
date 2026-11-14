@@ -60,6 +60,11 @@ class StatsTests(unittest.TestCase):
         again = stats.stats(self.items, ["QA", "QB"], {}, {})["network"]
         self.assertEqual(net["nodes"], again["nodes"])
 
+    def test_sources_cited_only_in_articles_count_as_gathered(self):
+        articles = {"QA": {"en": {"notes": [{"key": "n", "source": "art", "quote": "q", "accessed": "2026-11-12"}]}}}
+        gathered = lambda a: sum(n for _, n in stats.stats(self.items, ["QA", "QB"], {}, {}, a)["pace"])
+        self.assertEqual(gathered(articles), gathered(None) + 1)
+
     def test_examples_record_carries_stats(self):
         record = derive.derive(EXAMPLES)
         self.assertEqual(record["stats"]["totals"]["artists"], len(record["artists"]))

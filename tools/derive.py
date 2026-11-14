@@ -366,7 +366,8 @@ def derive(root, issued=None):
         "panels": panels,
         "panelHosts": panel_hosts,
         "stats": stats.stats(items, artists, sources,
-                             {name: store.sources[name].meta.get("tier") for name in sources}),
+                             {name: store.sources[name].meta.get("tier") for name in sources},
+                             articles),
     }
 
 

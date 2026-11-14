@@ -430,14 +430,18 @@ const shown = (id: string) => sections.some((s) => s.id === id);
         namesQueued = true;
         requestAnimationFrame(() => {
           namesQueued = false;
-          const r = stage.getBoundingClientRect(), s = r.width / view[2];
+          // Place by where the picture really is on screen, so a letterboxed or resizing stage cannot drift.
+          const r = stage.getBoundingClientRect(), m = svg.getScreenCTM();
+          if (!m) return;
+          const s = m.a;
           const lit = picked ? [picked, ...near.map(([o]) => byId.get(o)).filter(Boolean)] : [];
           const order = picked ? lit : bySize;
           const cap = picked ? 24 : Math.round(8 * Math.min(4, base[2] / view[2]));
           const boxes = [], spans = [];
           for (const c of order) {
             if (spans.length >= cap) break;
-            const sx = (X(c) - view[0]) * s, sy = (Y(c) - view[1]) * s, rr = R(c) * s;
+            const p = new DOMPoint(X(c), Y(c)).matrixTransform(m);
+            const sx = p.x - r.left, sy = p.y - r.top, rr = R(c) * s;
             if (sx < 0 || sx > r.width || sy < 0 || sy > r.height) continue;
             const name = c.dataset.name ?? '';
             const w = name.length * 6.4 + 6, h = 15, x = sx - w / 2, y = sy + rr + 3;
@@ -455,11 +459,27 @@ const shown = (id: string) => sections.some((s) => s.id === id);
         });
       };
 
+      // When the stage changes shape (the sheet below grows as a person is picked, or the window turns),
+      // fit the picture to it again around the same middle and zoom.
+      const refit = () => {
+        const cx = view[0] + view[2] / 2, cy = view[1] + view[3] / 2, k = view[2] / base[2];
+        base = fit();
+        const w = base[2] * k, h = base[3] * k;
+        setView(clamp([cx - w / 2, cy - h / 2, w]));
+      };
+      const watch = new ResizeObserver(() => { if (isOpen) refit(); });
+
+      // The dialog sits directly in <body>, so everything else can be made inert while it is open.
+      document.body.append(full);
+      let opener = null, stilled = [];
       const open = (dot) => {
         if (isOpen) return;
         isOpen = true;
+        opener = document.activeElement instanceof HTMLElement && document.activeElement !== document.body ? document.activeElement : expand;
         full.hidden = false;
         document.documentElement.classList.add('nf-lock');
+        stilled = [...document.body.children].filter((el) => el !== full && !el.inert);
+        stilled.forEach((el) => { el.inert = true; });
         stage.prepend(svg);
         sheet.append(top, card);
         const r = stage.getBoundingClientRect();
@@ -468,11 +488,14 @@ const shown = (id: string) => sections.some((s) => s.id === id);
         setView(base);
         show(dot ?? null);
         if (dot) focusOn(dot);
+        watch.observe(stage);
+        shut.focus();
         history.pushState({ netFull: true }, '');
       };
       const close = () => {
         if (!isOpen) return;
         isOpen = false;
+        watch.disconnect();
         cancelAnimationFrame(anim);
         show(null);
         size(1);
@@ -484,12 +507,15 @@ const shown = (id: string) => sections.some((s) => s.id === id);
         names.replaceChildren();
         full.hidden = true;
         document.documentElement.classList.remove('nf-lock');
+        stilled.forEach((el) => { el.inert = false; });
+        stilled = [];
+        // Back to where the reader was; the preview's expand button stands in for a tap on the picture.
+        (opener?.isConnected && opener.offsetParent !== null ? opener : expand)?.focus({ preventScroll: true });
       };
       // Back closes the full-screen view, so the close button goes back too.
       shut.addEventListener('click', () => { if (history.state?.netFull) history.back(); else close(); });
       addEventListener('popstate', () => { if (isOpen) close(); });
       addEventListener('keydown', (e) => { if (isOpen && e.key === 'Escape') shut.click(); });
-      addEventListener('resize', () => { if (!isOpen) return; base = fit(); setView(clamp(view)); });
       out.addEventListener('click', () => glide(base));
 
       // Fingers on the full-screen stage: one drags, two pinch, a press that barely moves is a tap.

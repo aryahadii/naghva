@@ -167,8 +167,9 @@ def pace(references, weeks=26):
     return rows
 
 
-def stats(items, artists, sources, tiers):
-    """Everything the Statistics page draws. `tiers` maps a cited source to its tier word."""
+def stats(items, artists, sources, tiers, articles=None):
+    """Everything the Statistics page draws. `tiers` maps a cited source to its tier word;
+    `articles` are the derived articles, whose notes cite sources too."""
     releases = [i for i in items.values() if i["type"] == "release"]
     pages = [items[a] for a in artists]
 
@@ -207,6 +208,14 @@ def stats(items, artists, sources, tiers):
                         day = str(ref["accessed"])[:10]
                         if day < first_read.get(ref["source"], "9999"):
                             first_read[ref["source"]] = day
+    # A source cited only in an article was gathered too: its notes carry when it was read.
+    for by_language in (articles or {}).values():
+        for article in by_language.values():
+            for note in article["notes"]:
+                if note.get("accessed"):
+                    day = str(note["accessed"])[:10]
+                    if day < first_read.get(note["source"], "9999"):
+                        first_read[note["source"]] = day
     gathered = Counter(week_of(day) for day in first_read.values())
 
     languages = Counter()
