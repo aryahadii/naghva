@@ -7,7 +7,7 @@ import { test } from 'node:test';
 import { ROLE_CLASSIFICATION } from '../src/lib/roles.ts';
 import { recordingArtists } from '../src/lib/record.ts';
 import { artistView } from '../src/lib/artist.ts';
-import { artistJsonLd } from '../src/lib/jsonld.ts';
+import { artistJsonLd, siteJsonLd } from '../src/lib/jsonld.ts';
 import { fold, ranked, searchPage } from '../src/lib/search.ts';
 import { compareDates } from '../src/lib/catalogue.ts';
 
@@ -32,6 +32,24 @@ test('based-in evidence never implies a founding location', () => {
   assert.ok(artist);
   const graph = artistJsonLd(examples, artist, 'en', new URL('https://example.org'))['@graph'];
   assert.equal(graph[0].foundingLocation, undefined);
+});
+
+test('search engines are told both names of Naghva and which artist a page is about', () => {
+  const site = new URL('https://example.org');
+  const [website, organization] = siteJsonLd('fa', site, 'https://example.org/logo.png')['@graph'];
+  for (const node of [website, organization]) {
+    assert.equal(node.name, 'Naghva');
+    assert.ok(node.alternateName.includes('نغوا'));
+    assert.equal(node.url, 'https://example.org/');
+  }
+  assert.equal(website.publisher['@id'], organization['@id']);
+  assert.equal(organization.logo, 'https://example.org/logo.png');
+
+  const artist = published.items.Qa84h2k;
+  const profiles = artist.statements['profile link'].filter((s) => s.rank !== 'deprecated').map((s) => s.value);
+  const node = artistJsonLd(published, artist, 'en', site, null, 'A one-line summary.')['@graph'][0];
+  assert.deepEqual(node.sameAs, [...new Set(profiles)]);
+  assert.equal(node.description, 'A one-line summary.');
 });
 
 test('listening URLs combine distinct evidence and render independent citations in both languages', () => {

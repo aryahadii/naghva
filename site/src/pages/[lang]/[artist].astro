@@ -52,7 +52,7 @@ const contents = [
   section="artist"
   artistId={artist.id}
   type="profile"
-  jsonld={artistJsonLd(record, artist, lang, Astro.site!, view.photo?.image ?? null)}
+  jsonld={artistJsonLd(record, artist, lang, Astro.site!, view.photo?.image ?? null, view.description)}
   twins={view.twins}
   image={view.photo ? { src: addressOf(view.photo.image, Astro.site!), alt: name } : undefined}
 >

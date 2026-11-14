@@ -1,15 +1,18 @@
 ---
+import { getImage } from 'astro:assets';
 import '../styles/tokens.css';
 import '../styles/base.css';
 import { strings } from '../lib/i18n';
 import { isolate } from '../lib/html';
 import GoogleSiteVerification from '../components/GoogleSiteVerification.astro';
 import { siteJsonLd } from '../lib/jsonld';
+import imprint from '../../../assets/brand/logos/imprint/naghva-imprint-on-dark-solid.png';
 
 /** `/` opens the language the visitor used last, otherwise their browser's; without scripts it links both. */
 const en = strings('en');
 const fa = strings('fa');
 const at = (path: string) => new URL(path, Astro.site).href;
+const logo = at((await getImage({ src: imprint, width: 1200, format: 'png' })).src);
 ---
 
 <!doctype html>
@@ -23,7 +26,7 @@ const at = (path: string) => new URL(path, Astro.site).href;
     <meta name="description" content={en.homeDescription} />
     <meta property="og:site_name" content={en.siteName} />
     <link rel="canonical" href={at('/')} />
-    <script type="application/ld+json" set:html={JSON.stringify(siteJsonLd('en', Astro.site!)).replace(/</g, '\\u003c')} />
+    <script type="application/ld+json" set:html={JSON.stringify(siteJsonLd('en', Astro.site!, logo)).replace(/</g, '\\u003c')} />
     <link rel="alternate" hreflang="en" href={at('/en/')} />
     <link rel="alternate" hreflang="fa" href={at('/fa/')} />
     <link rel="alternate" hreflang="x-default" href={at('/')} />

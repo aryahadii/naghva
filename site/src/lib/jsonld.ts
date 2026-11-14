@@ -31,8 +31,13 @@ const imageLd = (image: LinkedImage, site: URL) =>
 const linked = (record: SiteRecord, statements: Item['statements'][string] | undefined) =>
   best(statements).map((s) => record.items[s.value as string]).filter((x): x is Item => Boolean(x));
 
-/** `photo` is the artist's photo when the page shows one. */
-export function artistJsonLd(record: SiteRecord, artist: Item, lang: Lang, site: URL, photo: LinkedImage | null = null) {
+/**
+ * `photo` is the artist's photo when the page shows one, and `description` the page's one-line summary.
+ * The artist's own profiles go in `sameAs`, so a search engine can tell which person or band this is.
+ */
+export function artistJsonLd(
+  record: SiteRecord, artist: Item, lang: Lang, site: URL, photo: LinkedImage | null = null, description: string | null = null,
+) {
   const page = new URL(url(lang, artist.page), site).href;
   const id = `${page}#artist`;
   const at = (item: Item) => (item.page ? { url: new URL(url(lang, item.page), site).href } : {});
@@ -41,8 +46,12 @@ export function artistJsonLd(record: SiteRecord, artist: Item, lang: Lang, site:
     '@id': id,
     ...names(artist, lang),
     url: page,
+    ...(description ? { description } : {}),
     ...(photo ? { image: imageLd(photo, site) } : {}),
   };
+  const profiles = [...new Set((artist.statements['profile link'] ?? [])
+    .filter((s) => s.rank !== 'deprecated').map((s) => String(s.value)))];
+  if (profiles.length) node.sameAs = profiles;
   if (artist.type === 'person') {
     const born = best(artist.statements['birth date']).find((s) => isDate(s.value));
     const date = born && isDate(born.value) ? isoDate(born.value) : null;
@@ -95,15 +104,36 @@ export function artistJsonLd(record: SiteRecord, artist: Item, lang: Lang, site:
   return { '@context': 'https://schema.org', '@graph': [node, ...standalone, breadcrumbs] };
 }
 
-export function siteJsonLd(lang: Lang, site: URL) {
+/** Where Naghva is kept besides its own site; a search engine reads these as the same organisation. */
+const NAGHVA_ELSEWHERE = ['https://www.wikidata.org/wiki/Q142171475', 'https://github.com/aryahadii/naghva'];
+
+/**
+ * The site and who publishes it, under both names: a search engine takes the site's name from
+ * the WebSite, and learns that «نغوا» and Naghva are one thing from the Organization.
+ * `logo` is the address of the Naghva imprint.
+ */
+export function siteJsonLd(lang: Lang, site: URL, logo: string | null = null) {
   const t = strings(lang);
-  return {
-    '@context': 'https://schema.org',
-    '@type': 'WebSite',
+  const home = new URL('/', site).href;
+  const named = {
     name: strings('en').siteName,
     alternateName: [strings('fa').siteName, 'نقوا'],
-    url: new URL('/', site).href,
-    inLanguage: ['en', 'fa'],
+    url: home,
     description: t.homeDescription,
   };
+  const organization = {
+    '@type': 'Organization',
+    '@id': `${home}#organization`,
+    ...named,
+    ...(logo ? { logo } : {}),
+    sameAs: NAGHVA_ELSEWHERE,
+  };
+  const website = {
+    '@type': 'WebSite',
+    '@id': `${home}#website`,
+    ...named,
+    inLanguage: ['en', 'fa'],
+    publisher: { '@id': organization['@id'] },
+  };
+  return { '@context': 'https://schema.org', '@graph': [website, organization] };
 }
