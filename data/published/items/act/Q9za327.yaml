@@ -52,3 +52,28 @@ statements:
     qualifiers:
       point in time:
         date: '2013-11-11'
+  based in:
+  - value: Qhm6fzw
+    qualifiers:
+      start time:
+        date: '2006'
+      end time:
+        date: '2010'
+    references:
+    - source: en.wikipedia.org-wiki-the_yellow_dogs-74b7c86741e4
+      quote: |-
+        The Yellow Dogs were an Iranian-American rock band, formed in 2006.[1] The band was formed in Tehran, and is now based in Brooklyn, New York.[2]
+      accessed: '2026-10-19'
+    - source: www.thenationalnews.com-arts-culture-music-yellow-dogs-2012
+      quote: |-
+        fled possible arrest in Tehran to settle in Brooklyn, New York, in 2010 and chase the rock'n'roll dream.
+      accessed: '2026-11-14'
+  - value: Qqywtjg
+    qualifiers:
+      start time:
+        date: '2010'
+    references:
+    - source: www.thenationalnews.com-arts-culture-music-yellow-dogs-2012
+      quote: |-
+        fled possible arrest in Tehran to settle in Brooklyn, New York, in 2010 and chase the rock'n'roll dream.
+      accessed: '2026-11-14'

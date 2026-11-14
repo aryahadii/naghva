@@ -31,3 +31,17 @@ statements:
       credit:
         text: www.golfamkhayam.com
         language: en
+  based in:
+  - value: Qndext2
+    references:
+    - source: www.musicexport.at-golfam-khayammona-matbou-riahi-narrante
+      quote: |-
+        the Swiss resident Golfam Khayam
+      accessed: '2026-11-14'
+  - value: Qhm6fzw
+    rank: preferred
+    references:
+    - source: hollandfestival.nl-en-interview-with-golfam-khayam-hani-mojtahedy-andi-toma-and-nader-adabnejad
+      quote: |-
+        Born and raised in Tehran, where she still resides, she studied in Europe and the United States.
+      accessed: '2026-11-14'

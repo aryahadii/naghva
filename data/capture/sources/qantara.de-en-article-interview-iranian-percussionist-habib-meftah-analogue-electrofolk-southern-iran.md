@@ -36,3 +36,7 @@ tier: journalism
 > For example, when I came home from school at noon, as a child, my grandmother would often surprise me with a little present, a coin or a sweet. These things were always hidden under a thin white scarf, which older women in southern Iran still use to cover themselves.
 
 > The idea is to produce lots of little surprises for the audience as the concert goes on – just like my grandmother did in our garden.
+
+> Youʹve been living in Paris since 2001; you canʹt go back to Iran. Whatʹs behind that?
+
+Read 2026-11-14.

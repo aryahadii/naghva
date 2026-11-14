@@ -36,3 +36,7 @@ Biography opening, read 2026-10-23.
 > Whispers From The Underworld, a 75-minute solo concert featuring her original compositions
 
 Biography, paragraph beginning Sussan is currently presenting, read 2026-11-13.
+
+> She moved to New York City in 1980,
+
+Read 2026-11-14.

@@ -3,6 +3,14 @@ type: place
 statements:
   name:
   - value:
+      text: San Francisco
+      language: en
+    references:
+    - source: en.wikipedia.org-wiki-san_francisco
+      quote: |-
+        San Francisco, officially the City and County of San Francisco, is the 17th-largest city and second-densest major city in the United States, with a 2025 population of 826,079.
+      accessed: '2026-11-14'
+  - value:
       text: سان فرانسیسکو
       language: fa
     references:
@@ -10,3 +18,10 @@ statements:
       quote: |-
         آرش سبحانی زادهٔ تهران و دانش‌آموختهٔ رشتهٔ معماری از دانشگاه هنر اصفهان است. در سال ۱۳۸۵ از ایران به سان فرانسیسکو آمریکا مهاجرت کرد.
       accessed: '2026-11-09'
+  country:
+  - value: Q2bshpw
+    references:
+    - source: en.wikipedia.org-wiki-san_francisco
+      quote: |-
+        San Francisco, officially the City and County of San Francisco, is the 17th-largest city and second-densest major city in the United States, with a 2025 population of 826,079.
+      accessed: '2026-11-14'

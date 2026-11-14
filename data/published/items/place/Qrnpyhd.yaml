@@ -1,0 +1,19 @@
+id: Qrnpyhd
+type: place
+statements:
+  name:
+  - value:
+      text: Oregon
+      language: en
+    references:
+    - source: en.wikipedia.org-wiki-oregon
+      quote: |-
+        Oregon is a state in the Pacific Northwest region of the United States.
+      accessed: '2026-11-14'
+  country:
+  - value: Q2bshpw
+    references:
+    - source: en.wikipedia.org-wiki-oregon
+      quote: |-
+        Oregon is a state in the Pacific Northwest region of the United States.
+      accessed: '2026-11-14'

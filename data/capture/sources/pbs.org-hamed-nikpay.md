@@ -13,3 +13,7 @@ status: processed
 > I play tar, setar, tanbor, oud, baghlama, and daf -- I guess that is six instruments.
 
 > It is all about what best interprets the melody, and moves me; old or contemporary makes no difference. It is however true that I am partial to some poets more than others such as Rumi, Emad Khorasani, Sohrab Sepehri, and a few others.
+
+> He immigrated to the United States six years ago to "explore a new world," he says.
+
+Read 2026-11-14.

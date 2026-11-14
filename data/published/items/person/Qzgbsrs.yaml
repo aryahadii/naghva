@@ -48,3 +48,39 @@ statements:
     - source: abdibehravanfarmud.bandcamp.com
       quote: https://abdibehravanfarmud.bandcamp.com/
       accessed: '2026-10-19'
+  based in:
+  - value: Qyra3r9
+    references:
+    - source: www.pbs.org-wgbh-pages-frontline-tehranbureau-2012-01-qa-head-to-head-with-abdi-behravanfar-pioneer-of-the-khorasan-blues.html
+      quote: |-
+        musicians in Mashhad regarded my house as their hangout.
+      accessed: '2026-11-14'
+  - value: Qhm6fzw
+    references:
+    - source: www.pbs.org-wgbh-pages-frontline-tehranbureau-2012-01-qa-head-to-head-with-abdi-behravanfar-pioneer-of-the-khorasan-blues.html
+      quote: |-
+        I returned to Tehran.
+      accessed: '2026-11-14'
+  - value: Q6xq99s
+    qualifiers:
+      start time:
+        date: '2006'
+    references:
+    - source: www.pbs.org-wgbh-pages-frontline-tehranbureau-2012-01-qa-head-to-head-with-abdi-behravanfar-pioneer-of-the-khorasan-blues.html
+      quote: |-
+        your two years in Armenia [beginning in 2006]
+      accessed: '2026-11-14'
+  - value: Q89tspa
+    qualifiers:
+      start time:
+        date: '2011'
+    rank: preferred
+    references:
+    - source: abdibehravanfarmud.bandcamp.com
+      quote: |-
+        Abdi Behravanfar/MUD London, UK
+      accessed: '2026-11-14'
+    - source: en.wikipedia.org-wiki-abdi_behravanfar
+      quote: |-
+        In 2011 he moved to London, where he has played with many blues artists.
+      accessed: '2026-11-14'

@@ -11,3 +11,7 @@ status: processed
 > His second album, Mr Mean, was recorded under his own name and produced outside Iran with a new band, none of whom were Iranian.
 
 > “With Radio Tehran, we didn’t go for permission, we remained underground, because censorship will make the song impotent.
+
+> Iranian performer makes his music in London
+
+Read 2026-11-14.

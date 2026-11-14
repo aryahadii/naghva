@@ -33,3 +33,9 @@ Section 06, Inward: description of Khodha (2023). Read 2026-11-13.
 Section 06, Inward: description of Heech (2025), immediately following the Khodha account. Read 2026-11-13.
 
 Archive checked 2026-11-13: the availability API returned this snapshot; its HTML loaded successfully and the cited passages were checked in the archived article context.
+
+> Based
+> 
+> Stockholm, Sweden
+
+Read 2026-11-14.

@@ -22,3 +22,11 @@ status: processed
 > For the second recording, which later became “First Ritual,” the story is a little different / special to me.
 
 > But I often shape and process it in a way that makes the source almost unrecognizable.
+
+> So I moved to Netherlands two and half a year ago,
+
+Read 2026-11-14.
+
+> we met at my studio, Noiseworks, here in Leiden.
+
+Read 2026-11-14.

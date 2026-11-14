@@ -81,3 +81,24 @@ statements:
       quote: |-
         Sote
       accessed: '2026-11-13'
+  based in:
+  - value: Q7dgn8w
+    references:
+    - source: bandcampblog.wordpress.com-2017-04-06-iran-electronic-music-sote
+      quote: |-
+        spent many years living and working in San Francisco.
+      accessed: '2026-11-14'
+  - value: Qhm6fzw
+    qualifiers:
+      start time:
+        date: '2013'
+    rank: preferred
+    references:
+    - source: www.sotesound.com-profile.html
+      quote: |-
+        Ata Ebtekar aka Sote (b. Hamburg, Germany) is an Iranian-American electronic music composer and sound artist based in Tehran, Iran.
+      accessed: '2026-11-14'
+    - source: pitchfork.com-thepitch-1250-the-8-best-dj-mixes-of-july-2016-international-edition
+      quote: |-
+        In 2013, Ebtekar and his family returned to Tehran, where he teaches computer music and continues to create;
+      accessed: '2026-11-14'

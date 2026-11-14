@@ -46,3 +46,46 @@ statements:
         text: Persian Dutch Network
         language: en
       license: https://creativecommons.org/licenses/by-sa/4.0
+  based in:
+  - value: Qthab26
+    qualifiers:
+      end time:
+        date: '2019'
+    references:
+    - source: theaderks.wordpress.com-2023-10-26-mahsa-vahdat-tours-with-amsterdam-sinfonietta-my-voice-is-my-home
+      quote: |-
+        She was still living in Iran,
+      accessed: '2026-11-14'
+    - source: centerforiraniandiasporastudies.wordpress.com-2023-11-28-iranian-diaspora-spotlight-mahsa-vahdat-on-leaving-iran-and-finding-a-home-in-music
+      quote: |-
+        in 2019, she says, they left Iran permanently.
+      accessed: '2026-11-14'
+  - value: Q2bshpw
+    qualifiers:
+      start time:
+        date: '2015'
+    references:
+    - source: theaderks.wordpress.com-2023-10-26-mahsa-vahdat-tours-with-amsterdam-sinfonietta-my-voice-is-my-home
+      quote: |-
+        She moved from Iran to the US in 2015,
+      accessed: '2026-11-14'
+  - value: Q4tdnxt
+    qualifiers:
+      start time:
+        date: '2019'
+    references:
+    - source: centerforiraniandiasporastudies.wordpress.com-2023-11-28-iranian-diaspora-spotlight-mahsa-vahdat-on-leaving-iran-and-finding-a-home-in-music
+      quote: |-
+        Since leaving Iran, she has been living in Berkeley, and now Richmond, California,
+      accessed: '2026-11-14'
+    - source: missionlocal.org-2023-01-iranian-revolution-comes-to-the-mission
+      quote: |-
+        it finally became untenable in 2019, and Vahdat moved to Berkeley
+      accessed: '2026-11-14'
+  - value: Qjeeppm
+    rank: preferred
+    references:
+    - source: centerforiraniandiasporastudies.wordpress.com-2023-11-28-iranian-diaspora-spotlight-mahsa-vahdat-on-leaving-iran-and-finding-a-home-in-music
+      quote: |-
+        Since leaving Iran, she has been living in Berkeley, and now Richmond, California,
+      accessed: '2026-11-14'

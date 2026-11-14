@@ -1,0 +1,20 @@
+id: Qpwta4q
+type: place
+statements:
+  name:
+  - value:
+      text: Italy
+      language: en
+    references:
+    - source: en.wikipedia.org-wiki-italy
+      quote: |-
+        Italy, officially the Italian Republic, is a country in Southern and Western Europe.
+      accessed: '2026-11-14'
+  - value:
+      text: ایتالیا
+      language: fa
+    references:
+    - source: fa.wikipedia.org-wiki-italy
+      quote: |-
+        ایتالیا با نام رسمی جمهوری ایتالیا کشوری در جنوب و غرب اروپا است.
+      accessed: '2026-11-14'

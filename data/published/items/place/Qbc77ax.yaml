@@ -1,0 +1,27 @@
+id: Qbc77ax
+type: place
+statements:
+  name:
+  - value:
+      text: Santa Monica
+      language: en
+    references:
+    - source: en.wikipedia.org-wiki-santa_monica_california
+      quote: |-
+        Santa Monica is a city in Los Angeles County, California, United States.
+      accessed: '2026-11-14'
+  - value:
+      text: سانتا مونیکا
+      language: fa
+    references:
+    - source: fa.wikipedia.org-wiki-santa_monica_california
+      quote: |-
+        سانتا مونیکا یکی از شهرهای کوچک ایالت کالیفرنیا در کشور آمریکا است و در غرب کلانشهر لس آنجلس و در شهرستان لس‌آنجلس واقع شده است.
+      accessed: '2026-11-14'
+  country:
+  - value: Q2bshpw
+    references:
+    - source: en.wikipedia.org-wiki-santa_monica_california
+      quote: |-
+        Santa Monica is a city in Los Angeles County, California, United States.
+      accessed: '2026-11-14'

@@ -1,0 +1,27 @@
+id: Qv9znb7
+type: place
+statements:
+  name:
+  - value:
+      text: Sanandaj
+      language: en
+    references:
+    - source: en.wikipedia.org-wiki-sanandaj
+      quote: |-
+        Sanandaj is a city in the Central District of Sanandaj County, in the Kurdistan province of Iran, serving as capital of the province, the county, and the district.
+      accessed: '2026-11-14'
+  - value:
+      text: سنندج
+      language: fa
+    references:
+    - source: fa.wikipedia.org-wiki-sanandaj
+      quote: |-
+        سنندج در ارتفاع ۱۵۰۰ متری از سطح دریا و در منطقهٔ کوهستانی زاگرس واقع شده و آب و هوایی معتدل و کوهستانی دارد.
+      accessed: '2026-11-14'
+  country:
+  - value: Qthab26
+    references:
+    - source: en.wikipedia.org-wiki-sanandaj
+      quote: |-
+        Sanandaj is a city in the Central District of Sanandaj County, in the Kurdistan province of Iran, serving as capital of the province, the county, and the district.
+      accessed: '2026-11-14'

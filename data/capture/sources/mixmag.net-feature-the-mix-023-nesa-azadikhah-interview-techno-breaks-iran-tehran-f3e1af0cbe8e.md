@@ -24,3 +24,7 @@ Page text, read 2026-11-13.
 Page text, read 2026-11-13.
 
 Wayback availability API reported an available status-200 snapshot on 2026-11-13. Snapshot contents were not reread.
+
+> Before I relocated to Paris in October 2023, I was splitting my time between Tehran and Tbilisi, mainly for personal reasons.
+
+Read 2026-11-14.

@@ -19,3 +19,7 @@ status: processed
 > Role: Co-producer
 
 Ninja Tune project entry, 2016; artist page links the exact Apple single. Read 2026-11-13.
+
+> based in Paris.
+
+Read 2026-11-14.

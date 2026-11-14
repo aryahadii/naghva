@@ -1,0 +1,27 @@
+id: Qw5qxw9
+type: place
+statements:
+  name:
+  - value:
+      text: North Vancouver
+      language: en
+    references:
+    - source: en.wikipedia.org-wiki-north_vancouver_city
+      quote: |-
+        North Vancouver is a municipality city on the North Shore of the Burrard Inlet, in British Columbia, Canada.
+      accessed: '2026-11-14'
+  - value:
+      text: شهر نورث ونکوور
+      language: fa
+    references:
+    - source: fa.wikipedia.org-wiki-north_vancouver_city
+      quote: |-
+        شهر نورث ونکوور یا شهر ونکوور شمالی شهری است در ساحل شمالی شاخاب بورارد در استان بریتیش کلمبیای کانادا که در شمال شهر ونکوور واقع شده‌است و یکی از شهرهای مترو ونکوور به‌شمار می‌آید.
+      accessed: '2026-11-14'
+  country:
+  - value: Qk2cjxr
+    references:
+    - source: en.wikipedia.org-wiki-north_vancouver_city
+      quote: |-
+        North Vancouver is a municipality city on the North Shore of the Burrard Inlet, in British Columbia, Canada.
+      accessed: '2026-11-14'

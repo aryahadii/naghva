@@ -23,3 +23,7 @@ Same answer; rehearsal conditions. Read 2026-11-13.
 > Brooklyn, New York, in 2010
 
 Opening paragraph, migration and new base. Read 2026-11-13.
+
+> fled possible arrest in Tehran to settle in Brooklyn, New York, in 2010 and chase the rock'n'roll dream.
+
+Read 2026-11-14.

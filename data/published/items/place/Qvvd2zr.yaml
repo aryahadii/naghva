@@ -1,0 +1,27 @@
+id: Qvvd2zr
+type: place
+statements:
+  name:
+  - value:
+      text: Arnhem
+      language: en
+    references:
+    - source: en.wikipedia.org-wiki-arnhem
+      quote: |-
+        Arnhem is a city and municipality situated in the eastern part of the Netherlands, near the German border.
+      accessed: '2026-11-14'
+  - value:
+      text: آرنهم
+      language: fa
+    references:
+    - source: fa.wikipedia.org-wiki-arnhem
+      quote: |-
+        منطقه شهری آرنهم-نَیمِخِن که بخش شهری آرنهم بخشی از آن است ۷۲،۶۳۰ نفر جمعیت دارد.
+      accessed: '2026-11-14'
+  country:
+  - value: Qmndj7v
+    references:
+    - source: en.wikipedia.org-wiki-arnhem
+      quote: |-
+        Arnhem is a city and municipality situated in the eastern part of the Netherlands, near the German border.
+      accessed: '2026-11-14'

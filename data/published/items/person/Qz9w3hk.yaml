@@ -132,3 +132,48 @@ statements:
       about: Qk9jpad
       point in time:
         date: '2022-08-25'
+  based in:
+  - value: Qhm6fzw
+    references:
+    - source: media.hamyaari.ca-2022-09-05-d9-85-d8-b1-d9-88-d8-b1-db-8c--d8-a8-d8-b1--d9-86-d8-b2-d8-af-db-8c-da-a9--d8-a8-7d54fc23894d
+      quote: |-
+        حدود سال ۲۰۰۴ گروه هایپرنوا را راه انداختم، و گروه ما شروع کرد به موزیک‌زدن در زیرزمین‌های تهران و گذاشتن اجرا‌های غیرقانونی.
+      accessed: '2026-11-13'
+  - value: Q89tspa
+    references:
+    - source: www.vanityfair.com-culture-2014-04-yellow-dogs-iranian-music-scene-brooklyn-murder
+      quote: |-
+        when Raam moved to London
+      accessed: '2026-11-14'
+  - value: Qhm6fzw
+    qualifiers:
+      start time:
+        date: '2014'
+      end time:
+        date: '2018'
+    references:
+    - source: www.armanpaxad.com-music
+      quote: |-
+        I joined him when he moved back to Tehran in 2014,
+      accessed: '2026-11-14'
+    - source: www.thenationalnews.com-world-the-americas-sons-urge-canada-s-trudeau-to-pressure-iran-to-release-mom-1.713214
+      quote: |-
+        their arrival at Vancouver International Airport in Richmond, British Columbia, on March 8, 2018.
+      accessed: '2026-11-14'
+    - source: www.thenationalnews.com-world-the-americas-sons-urge-canada-s-trudeau-to-pressure-iran-to-release-mom-1.713214
+      quote: |-
+        The brothers said leaving Iran without their mother
+      accessed: '2026-11-14'
+  - value: Qqywtjg
+    references:
+    - source: tamizdat.org-shim-nyc
+      quote: |-
+        Raam moved back to NYC to begin the next chapter of his creative life.
+      accessed: '2026-11-14'
+  - value: Qhvdwvy
+    rank: preferred
+    references:
+    - source: www.armanpaxad.com-music
+      quote: |-
+        currently based out of Vancouver, Canada.
+      accessed: '2026-11-14'

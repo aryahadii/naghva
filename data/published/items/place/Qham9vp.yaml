@@ -1,0 +1,27 @@
+id: Qham9vp
+type: place
+statements:
+  name:
+  - value:
+      text: Ottawa
+      language: en
+    references:
+    - source: en.wikipedia.org-wiki-ottawa
+      quote: |-
+        Ottawa is the capital city of Canada.
+      accessed: '2026-11-14'
+  - value:
+      text: اتاوا
+      language: fa
+    references:
+    - source: fa.wikipedia.org-wiki-ottawa
+      quote: |-
+        این شهر در آمریکای شمالی و در کنار رودخانهٔ اتاوا واقع شده است.
+      accessed: '2026-11-14'
+  country:
+  - value: Qk2cjxr
+    references:
+    - source: en.wikipedia.org-wiki-ottawa
+      quote: |-
+        Ottawa is the capital city of Canada.
+      accessed: '2026-11-14'

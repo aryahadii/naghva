@@ -1,0 +1,27 @@
+id: Qnpdnwq
+type: place
+statements:
+  name:
+  - value:
+      text: Berlin
+      language: en
+    references:
+    - source: en.wikipedia.org-wiki-berlin
+      quote: |-
+        Berlin is the capital and largest city of Germany.
+      accessed: '2026-11-14'
+  - value:
+      text: برلین
+      language: fa
+    references:
+    - source: fa.wikipedia.org-wiki-berlin
+      quote: |-
+        برلین پایتخت آلمان و همچنین بزرگ‌ترین شهر آن از دید گستره و جمعیت است.
+      accessed: '2026-11-14'
+  country:
+  - value: Qxk2p63
+    references:
+    - source: en.wikipedia.org-wiki-berlin
+      quote: |-
+        Berlin is the capital and largest city of Germany.
+      accessed: '2026-11-14'

@@ -77,3 +77,33 @@ statements:
     - source: www.azamali.com-bio-36648c9641b4
       quote: https://www.youtube.com/c/AzamAliandNiyaz/featured
       accessed: '2026-10-19'
+  based in:
+  - value: Qf5dpty
+    qualifiers:
+      end time:
+        date: '2009'
+    references:
+    - source: www.wamc.org-2008-10-12-niyaz-from-iran-to-india-to-los-angeles-551824662596
+      quote: |-
+        Azam Ali and Loga Ramin Torkian make up two-thirds of the Persian-Indian music trio Niyaz. Ali, who was born in Iran and moved to India when she was 4, and her husband Torkian, a native Iranian, now live in Los Angeles. They released their second album, Nine Heavens , earlier this year. The record, produced by third member Carmen Rizzo, blends modern electronica with old Persian folk songs and mystical Sufi poems. "One of the elements that is very appealing to us about Sufi poetry is that it does transcend cultural and religious specificity," Ali says. "It really is more about the struggles of the human soul, the struggles of the human experience, and is something that we all share. It really is a universal struggle."
+      accessed: '2026-11-13'
+    - source: chaoscontrol.com-loga-ramin-torkian-niyaz-interview
+      quote: |-
+        In 2009, Azam and I decided to move to Montreal from Los Angeles.
+      accessed: '2026-11-13'
+  - value: Qh3ewz2
+    qualifiers:
+      start time:
+        date: '2009'
+    references:
+    - source: chaoscontrol.com-loga-ramin-torkian-niyaz-interview
+      quote: |-
+        In 2009, Azam and I decided to move to Montreal from Los Angeles.
+      accessed: '2026-11-13'
+  - value: Qf5dpty
+    rank: preferred
+    references:
+    - source: www.azamali.com-bio-36648c9641b4
+      quote: |-
+        Born in Iran, raised in an English boarding school in India since the age of four, & currently based in Los Angeles, Azam first became internationally recognized for her work with Vas , the best selling world music duo she co-founded in 1996.
+      accessed: '2026-10-19'

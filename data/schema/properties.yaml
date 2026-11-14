@@ -38,9 +38,10 @@ properties:
     used on: [act]
     value: date
   based in:
-    used on: [act]
+    used on: [person, act]
     value: item
     item type: [place]
+    qualifiers: [start time, end time]
   life event:
     used on: [person, act]
     value: text
@@ -86,6 +87,10 @@ properties:
       - bandcamp.com
       - music.apple.com
       - t.me
+  country:
+    used on: [place]
+    value: item
+    item type: [place]
   event date:
     used on: [event]
     value: date

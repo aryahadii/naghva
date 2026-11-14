@@ -1,0 +1,27 @@
+id: Qqywtjg
+type: place
+statements:
+  name:
+  - value:
+      text: New York City
+      language: en
+    references:
+    - source: en.wikipedia.org-wiki-new_york_city
+      quote: |-
+        New York, often called New York City (NYC), is the most populous city in the United States.
+      accessed: '2026-11-14'
+  - value:
+      text: نیویورک
+      language: fa
+    references:
+    - source: fa.wikipedia.org-wiki-new_york_city
+      quote: |-
+        نیویورک یا نیویورک سیتی پرجمعیت‌ترین شهر ایالات متحده آمریکا است.
+      accessed: '2026-11-14'
+  country:
+  - value: Q2bshpw
+    references:
+    - source: en.wikipedia.org-wiki-new_york_city
+      quote: |-
+        New York, often called New York City (NYC), is the most populous city in the United States.
+      accessed: '2026-11-14'

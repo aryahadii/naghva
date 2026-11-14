@@ -1,0 +1,20 @@
+id: Q5q28dp
+type: place
+statements:
+  name:
+  - value:
+      text: Japan
+      language: en
+    references:
+    - source: en.wikipedia.org-wiki-japan
+      quote: |-
+        Japan is an island country in East Asia.
+      accessed: '2026-11-14'
+  - value:
+      text: ژاپن
+      language: fa
+    references:
+    - source: fa.wikipedia.org-wiki-japan
+      quote: |-
+        ژاپن ، کشوری جزیره‌ای در آسیای شرقی است که در شمال غربی اقیانوس آرام قرار دارد.
+      accessed: '2026-11-14'

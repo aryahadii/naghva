@@ -1,0 +1,27 @@
+id: Qc9ta33
+type: place
+statements:
+  name:
+  - value:
+      text: Brussels
+      language: en
+    references:
+    - source: en.wikipedia.org-wiki-brussels
+      quote: |-
+        Brussels, officially the Brussels-Capital Region, is a region of Belgium comprising 19 municipalities, including the City of Brussels, which is the capital of Belgium.
+      accessed: '2026-11-14'
+  - value:
+      text: بروکسل
+      language: fa
+    references:
+    - source: fa.wikipedia.org-wiki-brussels
+      quote: |-
+        بروکسل مقر اصلی بیشتر نهادهای اتحادیه اروپا است همچنین این شهر مقر ناتو نیز هست.
+      accessed: '2026-11-14'
+  country:
+  - value: Q4d83xs
+    references:
+    - source: en.wikipedia.org-wiki-brussels
+      quote: |-
+        Brussels, officially the Brussels-Capital Region, is a region of Belgium comprising 19 municipalities, including the City of Brussels, which is the capital of Belgium.
+      accessed: '2026-11-14'

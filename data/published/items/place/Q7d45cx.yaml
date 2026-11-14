@@ -1,0 +1,27 @@
+id: Q7d45cx
+type: place
+statements:
+  name:
+  - value:
+      text: Boston
+      language: en
+    references:
+    - source: en.wikipedia.org-wiki-boston
+      quote: |-
+        Boston is the capital and most populous city of the U.S.
+      accessed: '2026-11-14'
+  - value:
+      text: بوستون
+      language: fa
+    references:
+    - source: fa.wikipedia.org-wiki-boston
+      quote: |-
+        بوستون بزرگترین شهر و مرکز ایالت ماساچوست در کشور ایالات متحده آمریکا است.
+      accessed: '2026-11-14'
+  country:
+  - value: Q2bshpw
+    references:
+    - source: en.wikipedia.org-wiki-boston
+      quote: |-
+        Boston is the capital and most populous city of the U.S.
+      accessed: '2026-11-14'

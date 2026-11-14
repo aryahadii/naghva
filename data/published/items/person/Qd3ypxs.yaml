@@ -44,3 +44,67 @@ statements:
     - source: salome-mc.bandcamp.com
       quote: Music | Salome Mc
       accessed: '2026-10-19'
+  based in:
+  - value: Qhm6fzw
+    qualifiers:
+      end time:
+        date: '2010'
+    references:
+    - source: www.curiositymag.com-2018-09-21-salome-mc-female-rapper-iran
+      quote: |-
+        Living in Tehran which is a big, overcrowded, metropolitan city
+      accessed: '2026-11-14'
+    - source: www.theguardian.com-music-2011-may-10-salome-iran-hip-hop-interview
+      quote: |-
+        Living in Iran until a few months ago,
+      accessed: '2026-11-14'
+    - source: artisttrust.org-artists-salome-mc
+      quote: |-
+        In 2010 Salome moved to Japan
+      accessed: '2026-11-14'
+  - value: Q5q28dp
+    qualifiers:
+      start time:
+        date: '2010'
+      end time:
+        date: '2016'
+    references:
+    - source: artisttrust.org-artists-salome-mc
+      quote: |-
+        In 2010 Salome moved to Japan
+      accessed: '2026-11-14'
+    - source: artisttrust.org-artists-salome-mc
+      quote: |-
+        In 2016, Salome immigrated to Washington State
+      accessed: '2026-11-14'
+  - value: Qgwqsj8
+    references:
+    - source: www.curiositymag.com-2018-09-21-salome-mc-female-rapper-iran
+      quote: |-
+        I lived in Sendai at the time,
+      accessed: '2026-11-14'
+  - value: Q2bshpw
+    qualifiers:
+      start time:
+        date: '2016'
+    references:
+    - source: artisttrust.org-artists-salome-mc
+      quote: |-
+        In 2016, Salome immigrated to Washington State
+      accessed: '2026-11-14'
+  - value: Q848dfs
+    references:
+    - source: www.kexp.org-podcasts-song-of-the-day-2020-3-24-salome-mc-odium
+      quote: |-
+        Salome MC currently lives in Seattle
+      accessed: '2026-11-14'
+  - value: Qzycds4
+    qualifiers:
+      start time:
+        date: '2023'
+    rank: preferred
+    references:
+    - source: www.salomemc.com-beyond
+      quote: |-
+        As I moved to Austin in 2023 with my family,
+      accessed: '2026-11-14'
