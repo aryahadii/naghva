@@ -235,7 +235,7 @@ html[lang=fa] .net-name { font: 700 1.2rem/1.6 'Farhang2', serif }
   .net .net-svg { cursor: zoom-in }
   .net-expand { position: absolute; bottom: 6px; inset-inline-end: 6px; z-index: 2; display: grid; place-items: center; width: 40px; height: 40px; border: 0; border-radius: 50%; background: rgb(24 25 30 / .85); box-shadow: 0 0 0 1px rgb(247 243 232 / .16); color: var(--ivory); cursor: pointer }
   .net-expand svg { width: 18px; height: 18px; fill: none; stroke: currentColor; stroke-width: 1.8; stroke-linecap: round; stroke-linejoin: round }
-  .net-wrap + .net-card, section > .net-card { display: none }
+  .net-wrap > .net-card { display: none }
 }
 .net-full[hidden] { display: none }
 .net-full { position: fixed; inset: 0; z-index: 100; display: flex; flex-direction: column; height: 100dvh; background: var(--ink); color: var(--ivory) }
@@ -259,3 +259,14 @@ html[lang=fa] .nf-title { font: 700 1.1rem/1.6 'Farhang2', serif }
 .nf-sheet .net-card { display: block; margin-top: 12px; padding: 12px 16px }
 .nf-sheet .net-card[hidden] { display: none }
 .net-full.has-sel .net-top { display: none }
+
+/* With a mouse, the card is a small panel beside the chosen dot, kept inside the picture. A hovered dot gets the
+   same card as a preview the pointer passes through; a click pins it, with a close button. */
+.net-wrap > .net-card { position: absolute; top: 0; left: 0; z-index: 3; width: max-content; max-width: min(320px, calc(100% - 16px)); margin: 0; padding: 12px 16px 14px; background: var(--night); box-shadow: 0 0 0 1px rgb(247 243 232 / .12), 0 18px 40px -12px rgb(0 0 0 / .85); animation: net-pop .16s ease-out }
+.net-wrap > .net-card:not(.is-peek) { padding-inline-end: 44px }
+.net-wrap > .net-card.is-peek { pointer-events: none }
+@keyframes net-pop { from { opacity: 0 } }
+.net-shut { position: absolute; top: 8px; inset-inline-end: 8px; display: grid; place-items: center; width: 30px; height: 30px; border: 0; border-radius: 50%; background: none; color: var(--ivory-3); cursor: pointer; transition: background .2s, color .2s }
+.net-shut:hover, .net-shut:focus-visible { background: var(--wash); color: var(--ivory) }
+.net-shut svg { width: 14px; height: 14px; fill: none; stroke: currentColor; stroke-width: 2; stroke-linecap: round }
+.net-card.is-peek .net-shut, .nf-sheet .net-shut { display: none }
