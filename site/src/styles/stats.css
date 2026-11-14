@@ -1,0 +1,261 @@
+/* Naghva in numbers: one question per section, its answer in words, its chart, and how much of the record it rests on. */
+.numbers { --iran: #91a0ff; --unknown: rgb(247 243 232 / .14); padding-bottom: clamp(40px, 6vw, 80px) }
+.mock-note { width: fit-content; margin: 8px auto 0; padding: 8px 16px; border-radius: 999px; background: rgb(238 130 112 / .14); font-size: 14px; color: var(--ivory) }
+
+.numbers-head { padding-block: clamp(24px, 4vw, 56px) clamp(24px, 4vw, 48px) }
+.numbers-head h1 { margin-top: 14px; font: 500 clamp(2.6rem, 5.2vw, 4.6rem)/1 var(--serif); letter-spacing: -.015em }
+html[lang=fa] .numbers-head h1 { font: 700 clamp(2.4rem, 4.1vw, 3.6rem)/1.55 'Farhang2', serif; letter-spacing: 0 }
+.numbers-head .deck { max-width: 36em; margin-top: 18px; font: 400 clamp(1.15rem, 1.6vw, 1.4rem)/1.45 var(--serif); color: var(--ivory-2) }
+html[lang=fa] .numbers-head .deck { font: 400 1.15rem/1.9 var(--sans) }
+
+.totals { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); margin-top: clamp(36px, 5vw, 64px); position: relative }
+.totals::before, .totals::after { content: ''; position: absolute; inset-inline: 0; height: 1px; background: var(--fade) }
+.totals::before { top: 0 } .totals::after { bottom: 0 }
+.totals div { display: flex; flex-direction: column-reverse; gap: 4px; padding: 22px 4px 20px; padding-inline-start: 22px; position: relative }
+.totals div + div::before { content: ''; position: absolute; inset-inline-start: 0; top: 22%; bottom: 22%; width: 1px; background: linear-gradient(transparent, var(--line), transparent) }
+.totals dd { margin: 0; font: 400 clamp(2rem, 3.4vw, 3rem)/1 var(--serif); font-variant-numeric: tabular-nums; color: var(--copper) }
+html[lang=fa] .totals dd { font: 700 clamp(1.9rem, 3vw, 2.6rem)/1.3 'Farhang2', serif }
+.totals dt { font-size: 14px; color: var(--ivory-3) }
+
+.numbers-toc { display: flex; flex-wrap: wrap; gap: 8px 10px; margin-top: 28px }
+.chip-link { display: inline-flex; align-items: center; gap: 8px; min-height: 36px; padding: 0 14px 0 8px; border-radius: 999px; background: var(--wash); color: var(--ivory-2); font-size: 14px; text-decoration: none; transition: background .2s, color .2s }
+html[dir=rtl] .chip-link { padding: 0 8px 0 14px }
+.chip-link span { display: inline-grid; place-items: center; width: 22px; height: 22px; border-radius: 50%; background: rgb(214 164 119 / .16); color: var(--copper); font-size: 12px; font-variant-numeric: tabular-nums }
+.chip-link:hover { background: rgb(247 243 232 / .1); color: var(--ivory) }
+
+/* A question: words on the start side, the chart beside them. */
+.q { display: grid; grid-template-columns: minmax(0, 5fr) minmax(0, 7fr); gap: clamp(28px, 5vw, 80px); padding-block: clamp(56px, 7vw, 96px); position: relative; scroll-margin-top: 24px }
+.q::before { content: ''; position: absolute; top: 0; inset-inline: 0; height: 1px; background: var(--fade) }
+.q-wide { grid-template-columns: minmax(0, 1fr) }
+.q-wide .q-text { max-width: 720px }
+.q-num { font: 400 1rem/1 var(--serif); color: var(--copper); font-variant-numeric: tabular-nums }
+.q-num::after { content: ''; display: inline-block; width: 36px; height: 1px; margin-inline-start: 12px; vertical-align: middle; background: linear-gradient(90deg, rgb(214 164 119 / .6), transparent) }
+html[dir=rtl] .q-num::after { background: linear-gradient(270deg, rgb(214 164 119 / .6), transparent) }
+.q h2 { margin-top: 18px; font: 400 clamp(1.8rem, 3vw, 2.4rem)/1.15 var(--serif); text-wrap: balance }
+html[lang=fa] .q h2 { font: 700 clamp(1.6rem, 2.6vw, 2.1rem)/1.6 'Farhang2', serif }
+.answer { margin-top: 18px; font-size: 1.08rem; color: var(--ivory); text-wrap: pretty }
+.basis { margin-top: 18px; font-size: 14px; line-height: 1.6; color: var(--ivory-3) }
+.meter { display: block; width: 120px; height: 3px; margin-bottom: 10px; border-radius: 3px; background: linear-gradient(90deg, var(--copper) var(--v), rgb(247 243 232 / .12) var(--v)) }
+html[dir=rtl] .meter { background: linear-gradient(270deg, var(--copper) var(--v), rgb(247 243 232 / .12) var(--v)) }
+.q-fig { min-width: 0; align-self: end }
+.fig-label { margin: 28px 0 12px; font-size: 14px; color: var(--ivory-2) }
+.fig-label:first-child { margin-top: 0 }
+
+.legend { display: flex; flex-wrap: wrap; gap: 6px 18px; margin: 12px 0 0; padding: 0; list-style: none; font-size: 13px; color: var(--ivory-3) }
+.q-fig > .legend:first-child { margin: 0 0 32px }
+.legend li { display: inline-flex; align-items: center; gap: 8px }
+.legend li::before { content: ''; width: 10px; height: 10px; border-radius: 3px; background: var(--c) }
+.legend-col { flex-direction: column; margin-top: 20px }
+
+/* Columns over time. Time runs left to right in both languages. */
+.cols { position: relative; display: grid; grid-template-columns: repeat(var(--n), minmax(0, 1fr)); align-items: end; gap: clamp(2px, .5vw, 6px); height: 300px; padding-bottom: 28px; padding-left: 34px }
+.cols-short { height: 180px }
+.grid { position: absolute; inset: 0 0 28px 34px; pointer-events: none }
+.grid span { position: absolute; left: 0; right: 0; bottom: calc(var(--k) * 100%); height: 1px; background: linear-gradient(90deg, rgb(247 243 232 / .1), rgb(247 243 232 / .04)) }
+.grid b { position: absolute; right: calc(100% + 8px); bottom: -.6em; font-weight: 400; font-size: 12px; line-height: 1.2; color: var(--ivory-3); font-variant-numeric: tabular-nums }
+.col { position: relative; height: 100%; display: flex; flex-direction: column; justify-content: flex-end }
+.stack { height: var(--h); min-height: 1px; display: flex; flex-direction: column-reverse; border-radius: 3px 3px 1px 1px; overflow: hidden; transition: filter .2s }
+.stack i { display: block; flex-basis: 0; background: var(--c) }
+.col:hover .stack { filter: brightness(1.25) }
+.tick { position: absolute; top: calc(100% + 8px); left: 50%; transform: translateX(-50%); font-size: 12px; color: var(--ivory-3); white-space: nowrap; font-variant-numeric: tabular-nums }
+.cols-pace { padding-left: 0 }
+.cols-pace .col-val { margin-bottom: 6px; font-size: 12px; text-align: center; color: var(--ivory-3) }
+.cols-pace .stack { height: calc(var(--h) - 24px) }
+
+/* One bar split into parts. */
+.split { display: flex; height: 44px; gap: 3px; border-radius: 10px; overflow: hidden }
+.split i { position: relative; display: flex; align-items: center; min-width: 4px; padding-inline: 10px; background: var(--c); font-style: normal }
+.split i span { font-size: 14px; font-weight: 600; color: var(--ink); font-variant-numeric: tabular-nums; white-space: nowrap; overflow: hidden }
+.split i[style*='--unknown'] span { color: var(--ivory-2) }
+
+/* Dots per year. */
+.dots { display: grid; grid-template-columns: repeat(var(--n), minmax(0, 1fr)); align-items: end; gap: 3px; height: 92px; padding-bottom: 26px; position: relative }
+.dots::after { content: ''; position: absolute; left: 0; right: 0; bottom: 26px; height: 1px; background: var(--line) }
+.dot-col { position: relative; height: 100%; display: flex; align-items: flex-end; justify-content: center }
+.dot-stack { display: flex; flex-direction: column-reverse; gap: 3px; padding-bottom: 5px }
+.dot-stack i { width: clamp(6px, 1vw, 10px); aspect-ratio: 1; border-radius: 50%; background: var(--coral) }
+
+/* Horizontal bars. */
+.hbars { margin: 0; padding: 0; list-style: none; display: grid; gap: 12px }
+.hbars li { display: grid; grid-template-columns: minmax(110px, 13em) minmax(0, 1fr) 3.4em; align-items: center; gap: 14px; font-size: 14.5px }
+.hb-label { color: var(--ivory-2); text-align: start }
+.hb-bar { height: 10px; border-radius: 6px; background: linear-gradient(90deg, var(--c) var(--w), rgb(247 243 232 / .07) var(--w)) }
+html[dir=rtl] .hb-bar { background: linear-gradient(270deg, var(--c) var(--w), rgb(247 243 232 / .07) var(--w)) }
+.hb-val { font-variant-numeric: tabular-nums; color: var(--ivory-3); text-align: end }
+.hbars-tight { gap: 9px }
+.hbars-tight li { font-size: 13.5px }
+.hbars-tight .hb-bar { height: 7px }
+
+.ranked { margin: 0; padding: 0; list-style: none; counter-reset: r }
+.ranked li { display: flex; justify-content: space-between; align-items: baseline; gap: 16px; padding: 10px 0; counter-increment: r; position: relative; color: var(--ivory-2) }
+.ranked li + li::before { content: ''; position: absolute; top: 0; inset-inline: 0; height: 1px; background: var(--rule) }
+.ranked .count { font-size: 14px }
+.ranked li span:first-child::before { content: counter(r, decimal) '  '; color: var(--ivory-3); font-variant-numeric: tabular-nums; white-space: pre }
+html[lang=fa] .ranked .count { font-size: 14px }
+.ranked li span:first-child::before { content: counter(r, persian) '  ' }
+
+/* Network. */
+.net { position: relative; margin-top: 8px }
+.net-wrap { position: relative }
+.net svg { display: block; width: 100%; height: auto }
+.net-svg .edges line { stroke: rgb(247 243 232 / .13) }
+.net-svg .nodes circle { stroke: var(--ink); stroke-width: 1.5; transition: opacity .2s }
+.net-labels span { position: absolute; transform: translate(-50%, calc(var(--r) * 1px + 4px)); font-size: 12.5px; line-height: 1.2; color: var(--ivory); white-space: nowrap; text-shadow: 0 0 6px var(--ink), 0 0 3px var(--ink); pointer-events: none }
+
+.record-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: clamp(36px, 5vw, 72px) clamp(36px, 6vw, 96px); margin-top: 8px }
+
+/* The numbers behind a chart. */
+.table { margin-top: 28px; font-size: 14px }
+.table summary { cursor: pointer; width: fit-content; color: var(--ivory-2); text-decoration: underline; text-decoration-color: rgb(247 243 232 / .35); text-underline-offset: .4em }
+.table table { width: 100%; margin-top: 14px; border-collapse: collapse; font-variant-numeric: tabular-nums }
+.table th { font-weight: 500; color: var(--ivory-3); text-align: start }
+.table :is(th, td) { padding: 6px 8px; border-bottom: 1px solid var(--line) }
+.table td:not(:first-child), .table th:not(:first-child) { text-align: end }
+.table tbody { display: block; max-height: 280px; overflow-y: auto }
+.table thead, .table tbody tr { display: table; width: 100%; table-layout: fixed }
+
+.numbers-foot { max-width: 720px; margin-top: clamp(24px, 4vw, 48px); padding-top: 28px; position: relative; color: var(--ivory-3); font-size: 15px }
+.numbers-foot::before { content: ''; position: absolute; top: 0; inset-inline: 0; height: 1px; background: var(--rule) }
+.numbers-foot p + p { margin-top: 14px }
+
+@media (max-width: 900px) {
+  .q { grid-template-columns: minmax(0, 1fr) }
+  .record-grid { grid-template-columns: minmax(0, 1fr) }
+}
+@media (max-width: 640px) {
+  .totals { grid-template-columns: repeat(2, minmax(0, 1fr)) }
+  .totals div:last-child { grid-column: span 2 }
+  .totals div:nth-child(odd)::before { display: none }
+  .cols { height: 220px }
+  .cols-short { height: 150px }
+  .hbars li { grid-template-columns: minmax(0, 1fr) 3.2em; gap: 6px 10px }
+  .hb-label { grid-column: 1 / -1 }
+  .net-labels span { font-size: 10.5px }
+  .split i span { font-size: 12.5px }
+  .split i { padding-inline: 6px }
+}
+
+/* The year still under way is drawn fainter: its count is not final. */
+.col-open .stack { opacity: .45 }
+.col-earlier { margin-inline-end: clamp(4px, .8vw, 12px) }
+.col-earlier .stack { opacity: .55 }
+.col-earlier .tick { left: 0; transform: none }
+.cols .col:last-child .tick { left: auto; right: 0; transform: none }
+@media (max-width: 640px) { .tick-minor { display: none } }
+
+/* A bar's own number: shown on hover, tap or focus, in a small bubble above it. */
+.col[data-tip] { cursor: pointer; outline: 0 }
+.col[data-tip]::after { content: attr(data-tip); position: absolute; bottom: calc(var(--h) + 10px); left: 50%; z-index: 2; transform: translate(-50%, 4px); padding: 6px 10px; border-radius: 8px; background: var(--night); box-shadow: 0 0 0 1px rgb(247 243 232 / .12), 0 12px 30px -10px rgb(0 0 0 / .8); color: var(--ivory); font-size: 13px; line-height: 1.3; white-space: nowrap; font-variant-numeric: tabular-nums; opacity: 0; pointer-events: none; transition: opacity .15s, transform .15s }
+.cols .col[data-tip]:nth-child(-n+5)::after { left: 0; transform: translate(0, 4px) }
+.cols .col[data-tip]:nth-last-child(-n+4)::after { left: auto; right: 0; transform: translate(0, 4px) }
+.col.is-on::after, .col[data-tip]:focus-visible::after { opacity: 1; transform: translate(-50%, 0) }
+.cols .col.is-on:nth-child(-n+5)::after, .cols .col[data-tip]:nth-child(-n+5):focus-visible::after,
+.cols .col.is-on:nth-last-child(-n+4)::after, .cols .col[data-tip]:nth-last-child(-n+4):focus-visible::after { transform: translate(0, 0) }
+@media (hover: hover) {
+  .col[data-tip]:hover::after { opacity: 1; transform: translate(-50%, 0) }
+  .cols .col[data-tip]:nth-child(-n+5):hover::after, .cols .col[data-tip]:nth-last-child(-n+4):hover::after { transform: translate(0, 0) }
+  /* Hovering another bar hides a bubble left open by a click, so only one shows. */
+  .cols:hover .col.is-on:not(:hover)::after { opacity: 0 }
+  .cols:hover .col.is-on:not(:hover) .stack { box-shadow: none }
+}
+.col.is-on .stack, .col[data-tip]:focus-visible .stack { filter: brightness(1.3); box-shadow: 0 0 0 2px rgb(247 243 232 / .5) }
+.col.is-on .stack, .col[data-tip]:focus-visible .stack { opacity: 1 }
+.cols { margin-top: 40px }
+.col[data-tip]::after { direction: inherit; unicode-bidi: plaintext }
+
+/* The network answers a tap or hover: the chosen dot, its links and its neighbours stay lit. */
+.net-svg { -webkit-tap-highlight-color: transparent }
+.net-svg .edges line, .net-svg .nodes circle, .net-labels { transition: opacity .2s, stroke .2s }
+.net-svg.has-sel .edges line { opacity: .12 }
+.net-svg.has-sel .edges line.is-on { opacity: 1; stroke: rgb(247 243 232 / .7) }
+.net-svg.has-sel .nodes circle { opacity: .2 }
+.net-svg.has-sel .nodes circle:is(.is-sel, .is-near) { opacity: 1 }
+.net-svg .nodes circle.is-sel { stroke: var(--ivory); stroke-width: 3 }
+.net.has-sel .net-labels { opacity: .15 }
+.net-card { margin-top: 16px; padding: 14px 18px; border-radius: 12px; background: var(--wash); font-size: 14.5px; color: var(--ivory-2) }
+.net-name { font: 400 1.3rem/1.3 var(--serif); color: var(--ivory) }
+html[lang=fa] .net-name { font: 700 1.2rem/1.6 'Farhang2', serif }
+.net-with { margin-top: 4px; line-height: 1.6 }
+.net-open { display: inline-block; margin-top: 8px }
+
+/* Most connected: names to tap, each picks its dot. */
+.net-top { margin-top: 20px }
+.net-top .fig-label { margin: 0 0 10px }
+.net-chips { display: flex; flex-wrap: wrap; gap: 8px; margin: 0; padding: 0; list-style: none }
+.net-chips button { min-height: 36px; padding: 0 14px; border: 0; border-radius: 999px; background: var(--wash); color: var(--ivory-2); font: inherit; font-size: 14px; cursor: pointer; transition: background .2s, color .2s }
+.net-chips button.is-on { background: rgb(238 130 112 / .2); color: var(--ivory) }
+
+
+/* Phones: tighter rhythm, the whole network on screen, labels and values on one line above each bar. */
+@media (max-width: 640px) {
+  .q { gap: 20px; padding-block: 44px }
+  .q h2 { margin-top: 10px }
+  .q-fig > .legend:first-child, .q-text .legend { margin-top: 12px }
+  .numbers-toc { flex-wrap: nowrap; overflow-x: auto; margin-inline: calc(-1 * var(--gutter)); padding-inline: var(--gutter); scrollbar-width: none }
+  .numbers-toc::-webkit-scrollbar { display: none }
+  .chip-link { flex: none }
+  .totals { grid-template-columns: repeat(3, minmax(0, 1fr)) }
+  .totals div:last-child { grid-column: auto }
+  .totals div:nth-child(odd)::before { display: block }
+  .totals div:nth-child(3n + 1)::before { display: none }
+  .totals div { padding: 16px 4px 14px; padding-inline-start: 14px }
+  .totals dd { font-size: 1.8rem }
+  .totals dt { font-size: 12.5px }
+  .hbars { gap: 14px }
+  .hbars li { grid-template-columns: minmax(0, 1fr) auto; grid-template-areas: 'label val' 'bar bar'; gap: 6px 10px }
+  .hb-label { grid-area: label; grid-column: auto }
+  .hb-val { grid-area: val }
+  .hb-bar { grid-area: bar }
+  .net { margin-inline: 0; overflow: visible }
+  .net svg, .net-labels, .net-wrap { width: 100% }
+  .net-labels span:nth-child(n + 6) { display: none }
+  .net-labels span { font-size: 10px }
+}
+@media (hover: hover) { .net-chips button:hover { background: rgb(238 130 112 / .2); color: var(--ivory) } }
+
+/* The page reads as one column of charts: narrower than the site's widest frame on big screens. */
+.numbers.wrap { width: min(1040px, 100% - 2 * var(--gutter)) }
+
+/* Totals: every number on one line, every label starting on the line below it, however long it runs. */
+.totals div { display: grid; grid-template-rows: auto 1fr; align-content: start; gap: 4px }
+.totals dd { grid-row: 1 }
+.totals dt { grid-row: 2; line-height: 1.35 }
+.q-num::after { content: none }
+.q h2 { margin-top: 0 }
+
+/* Full-screen network (phones): a button back to the whole picture. */
+.net-out { position: absolute; top: 8px; inset-inline-end: 8px; z-index: 3; min-height: 36px; padding: 0 14px; border: 0; border-radius: 999px; background: rgb(24 25 30 / .85); box-shadow: 0 0 0 1px rgb(247 243 232 / .14); color: var(--ivory); font: inherit; font-size: 14px; cursor: pointer }
+.net-hop { padding: 2px 0; border: 0; background: none; color: var(--ivory); font: inherit; text-decoration: underline; text-decoration-color: rgb(247 243 232 / .3); text-underline-offset: .3em; cursor: pointer }
+.net-svg :is(line, circle) { vector-effect: non-scaling-stroke }
+
+/* Phones: the network in the page is a still preview; a tap opens it full screen. */
+.net-expand { display: none }
+.net .net-svg { cursor: pointer }
+@media (max-width: 640px) {
+  .net .net-svg { cursor: zoom-in }
+  .net-expand { position: absolute; bottom: 6px; inset-inline-end: 6px; z-index: 2; display: grid; place-items: center; width: 40px; height: 40px; border: 0; border-radius: 50%; background: rgb(24 25 30 / .85); box-shadow: 0 0 0 1px rgb(247 243 232 / .16); color: var(--ivory); cursor: pointer }
+  .net-expand svg { width: 18px; height: 18px; fill: none; stroke: currentColor; stroke-width: 1.8; stroke-linecap: round; stroke-linejoin: round }
+  .net-wrap + .net-card, section > .net-card { display: none }
+}
+.net-full[hidden] { display: none }
+.net-full { position: fixed; inset: 0; z-index: 100; display: flex; flex-direction: column; height: 100dvh; background: var(--ink); color: var(--ivory) }
+html.nf-lock, html.nf-lock body { overflow: hidden; overscroll-behavior: none }
+.nf-bar { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding: max(10px, env(safe-area-inset-top)) var(--gutter) 6px }
+.nf-title { margin: 0; font: 400 1.15rem/1.3 var(--serif); color: var(--ivory) }
+html[lang=fa] .nf-title { font: 700 1.1rem/1.6 'Farhang2', serif }
+.nf-close { flex: none; display: grid; place-items: center; width: 40px; height: 40px; border: 0; border-radius: 50%; background: var(--wash); color: var(--ivory); cursor: pointer }
+.nf-close svg { width: 16px; height: 16px; fill: none; stroke: currentColor; stroke-width: 2; stroke-linecap: round }
+.nf-stage { position: relative; flex: 1; min-height: 0; overflow: hidden; touch-action: none; cursor: grab }
+.nf-stage .net-svg { position: absolute; inset: 0; display: block; width: 100%; height: 100% }
+.nf-names { position: absolute; inset: 0; z-index: 1; pointer-events: none }
+.nf-names span { position: absolute; transform: translateX(-50%); font-size: 12px; line-height: 15px; color: var(--ivory-2); white-space: nowrap; text-shadow: 0 0 6px var(--ink), 0 0 3px var(--ink), 0 0 2px var(--ink) }
+.nf-names span.is-sel { color: var(--ivory); font-weight: 600 }
+.nf-sheet { flex: none; max-height: 42dvh; overflow-y: auto; padding: 0 var(--gutter) max(14px, env(safe-area-inset-bottom)); border-top: 1px solid var(--line) }
+.nf-sheet .net-top { margin-top: 12px }
+.nf-sheet .net-top .fig-label { display: none }
+.nf-sheet .net-chips { flex-wrap: nowrap; overflow-x: auto; margin-inline: calc(-1 * var(--gutter)); padding-inline: var(--gutter); scrollbar-width: none }
+.nf-sheet .net-chips::-webkit-scrollbar { display: none }
+.nf-sheet .net-chips li { flex: none }
+.nf-sheet .net-card { display: block; margin-top: 12px; padding: 12px 16px }
+.nf-sheet .net-card[hidden] { display: none }
+.net-full.has-sel .net-top { display: none }

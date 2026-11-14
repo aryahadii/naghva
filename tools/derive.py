@@ -29,6 +29,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import datastore as ds  # noqa: E402
 import validate  # noqa: E402
+import stats  # noqa: E402
 
 DEFAULT_OUT = ds.REPO / "site" / "generated" / "record.json"
 DEFAULT_ADDRESSES = ds.REPO / "site" / "addresses.json"
@@ -364,6 +365,8 @@ def derive(root, issued=None):
         "redirects": redirects,
         "panels": panels,
         "panelHosts": panel_hosts,
+        "stats": stats.stats(items, artists, sources,
+                             {name: store.sources[name].meta.get("tier") for name in sources}),
     }
 
 

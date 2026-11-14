@@ -28,7 +28,7 @@ interface Props {
   description: string;
   /** The page's address after the language, as in `timeline/`. */
   path: string;
-  section?: 'home' | 'artist' | 'timeline' | 'directory' | 'about';
+  section?: 'home' | 'artist' | 'timeline' | 'directory' | 'about' | 'stats';
   artistId?: string;
   noindex?: boolean;
   jsonld?: unknown;
@@ -117,6 +117,7 @@ const words = { ...t.search, kinds: t.kinds };
       <nav class="site-nav" aria-label={t.siteName}>
         <a href={url(lang, 'artists')} aria-current={section === 'directory' ? 'page' : undefined}>{t.browse.artists}</a>
         <a href={url(lang, 'timeline')} aria-current={section === 'timeline' ? 'page' : undefined}>{t.timeline}</a>
+        <a href={url(lang, 'stats')} aria-current={section === 'stats' ? 'page' : undefined}>{lang === 'en' ? 'Statistics' : 'آمار'}</a>
       </nav>
       <div class="header-end">
         {section !== 'home' && section !== 'directory' && <Search client:idle lang={lang} words={words} />}
@@ -149,6 +150,7 @@ const words = { ...t.search, kinds: t.kinds };
         <a href={url(lang)}>{t.home}</a>
         <a href={url(lang, 'artists')}>{t.browse.artists}</a>
         <a href={url(lang, 'timeline')}>{t.timeline}</a>
+        <a href={url(lang, 'stats')}>{lang === 'en' ? 'Statistics' : 'آمار'}</a>
         <a href={url(lang, 'about')} aria-current={section === 'about' ? 'page' : undefined}>{t.about}</a>
         <a href="#content">{t.backTop}</a>
       </nav>

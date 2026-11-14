@@ -79,6 +79,8 @@ export interface SiteRecord {
   panels: { [anchor: string]: string };
   /** Routing history for panels whose former artist credit was corrected. */
   panelHosts?: { [release: string]: string };
+  /** The Statistics page's counts, made by tools/stats.py. */
+  stats: any;
 }
 
 // npm scripts run in site/, so the record is found from there however the build bundles this file.
