@@ -212,16 +212,17 @@ const shown = (id: string) => sections.some((s) => s.id === id);
             <div class="net-labels" aria-hidden="true">
               {labelled.map((x) => <span data-for={x.id} style={`left:${(pos[x.id].x / W) * 100}%;top:${(pos[x.id].y / H) * 100}%;--r:${rad(x.deg)}`}>{label(x.id)}</span>)}
             </div>
+            <div class="net-card" aria-live="polite" hidden>
+              <button type="button" class="net-shut" aria-label={T('Close', 'بستن')}><svg viewBox="0 0 20 20" aria-hidden="true"><path d="M5 5l10 10M15 5L5 15" /></svg></button>
+              <p class="net-name"></p>
+              <p class="net-with"></p>
+              <a class="text-link net-open" hidden>{T('Open their page', 'رفتن به صفحهٔ هنرمند')}</a>
+            </div>
           </div>
         </figure>
         <div class="net-top">
           <p class="fig-label">{T('Most connected', 'بیشترین همکاری')}</p>
           <ul class="net-chips">{ranked.filter((x: any) => x.page).slice(0, 8).map((x: any) => <li><button type="button" data-pick={x.id}>{label(x.id)}</button></li>)}</ul>
-        </div>
-        <div class="net-card" aria-live="polite" hidden>
-            <p class="net-name"></p>
-            <p class="net-with"></p>
-            <a class="text-link net-open" hidden>{T('Open their page', 'رفتن به صفحهٔ هنرمند')}</a>
         </div>
         <div class="net-full" role="dialog" aria-modal="true" aria-labelledby="nf-title" hidden>
           <div class="nf-bar">
@@ -316,9 +317,11 @@ const shown = (id: string) => sections.some((s) => s.id === id);
         upright = !upright;
       };
 
-      let picked = null, near = [];
-      const show = (dot) => {
-        picked = dot;
+      // `picked` is a dot chosen by click or tap; a dot only hovered is shown (`cur`) but not picked.
+      let picked = null, cur = null, near = [];
+      const show = (dot, peek = false) => {
+        picked = peek ? null : dot;
+        cur = dot;
         near = [];
         svg.classList.toggle('has-sel', !!dot);
         fig.classList.toggle('has-sel', !!dot);
@@ -327,6 +330,7 @@ const shown = (id: string) => sections.some((s) => s.id === id);
         lines.forEach((l) => l.classList.remove('is-on'));
         document.querySelectorAll('[data-pick]').forEach((x) => x.classList.toggle('is-on', !!dot && x.dataset.pick === dot.dataset.id));
         card.hidden = !dot;
+        card.classList.toggle('is-peek', !!dot && peek);
         if (!dot) { placeNames(); return; }
         const id = dot.dataset.id;
         for (const l of lines) {
@@ -355,6 +359,47 @@ const shown = (id: string) => sections.some((s) => s.id === id);
         link.hidden = !dot.dataset.href;
         if (dot.dataset.href) link.href = dot.dataset.href;
         placeNames();
+        place();
+      };
+
+      // In the page, the card stands beside its dot: on the side with room that hides the fewest of the dot's
+      // neighbours, inside the picture, and inside the window too when the dot is on screen and the card fits there.
+      const place = () => {
+        if (!cur || isOpen || card.hidden || card.parentElement !== wrap) return;
+        const w = wrap.getBoundingClientRect(), m = svg.getScreenCTM();
+        if (!m) return;
+        const spot = (c) => { const q = new DOMPoint(X(c), Y(c)).matrixTransform(m); return [q.x - w.left, q.y - w.top]; };
+        const [cx, cy] = spot(cur), gap = R(cur) * m.a + 12, edge = 8;
+        const cw = card.offsetWidth, ch = card.offsetHeight;
+        const left = edge, right = w.width - edge;
+        let top = edge, bottom = w.height - edge;
+        const vt = Math.max(top, edge - w.top), vb = Math.min(bottom, innerHeight - edge - w.top);
+        if (cy > vt && cy < vb && vb - vt >= ch) { top = vt; bottom = vb; }
+        const cX = (x) => Math.min(Math.max(x, left), right - cw), cY = (y) => Math.min(Math.max(y, top), bottom - ch);
+        // Beside it (level with it, or reaching up or down from it), then under or over it (centred, or to a side).
+        const rtl = getComputedStyle(wrap).direction === 'rtl';
+        const xs = rtl ? [cx - gap - cw, cx + gap] : [cx + gap, cx - gap - cw];
+        const ys = [cy + gap, cy - gap - ch];
+        const spots = [
+          ...xs.flatMap((x) => [[x, cY(cy - ch / 2)], [x, cy - gap / 2], [x, cy + gap / 2 - ch]]),
+          ...ys.flatMap((y) => [[cX(cx - cw / 2), y], [cX(cx - 24), y], [cX(cx + 24 - cw), y]]),
+        ].filter(([x, y]) => x >= left && x + cw <= right && y >= top && y + ch <= bottom);
+        const lit = near.map(([o]) => byId.get(o)).filter(Boolean).map(spot);
+        const under = ([x, y], [a, b]) => a > x - 8 && a < x + cw + 8 && b > y - 8 && b < y + ch + 8;
+        const covers = (s) => (under(s, [cx, cy]) ? 1e3 : 0) + lit.filter((q) => under(s, q)).length;
+        let best = spots[0] ?? [cX(cx + gap), cY(cy + gap)];
+        for (const s of spots) if (covers(s) < covers(best)) best = s;
+        card.style.left = `${best[0]}px`;
+        card.style.top = `${best[1]}px`;
+      };
+      new ResizeObserver(place).observe(wrap);
+      // When a name below the picture picks a dot that is off screen, bring the dot and its card into view.
+      const reveal = () => {
+        if (!picked || card.hidden) return;
+        const a = card.getBoundingClientRect(), d = picked.getBoundingClientRect();
+        const t = Math.min(a.top, d.top) - 16, b = Math.max(a.bottom, d.bottom) + 16;
+        if (t < 0) scrollBy({ top: t, behavior: 'smooth' });
+        else if (b > innerHeight) scrollBy({ top: Math.min(b - innerHeight, t), behavior: 'smooth' });
       };
 
       // Where a pointer is, in the picture's own units, and how many units a screen pixel is right now.
@@ -482,6 +527,7 @@ const shown = (id: string) => sections.some((s) => s.id === id);
         stilled.forEach((el) => { el.inert = true; });
         stage.prepend(svg);
         sheet.append(top, card);
+        card.style.left = card.style.top = '';
         const r = stage.getBoundingClientRect();
         if (r.height > r.width && W > H) turn();
         base = fit();
@@ -503,7 +549,7 @@ const shown = (id: string) => sections.some((s) => s.id === id);
         wrap.prepend(svg);
         svg.setAttribute('viewBox', `0 0 ${W0} ${H0}`);
         fig.after(top);
-        top.after(card);
+        wrap.append(card);
         names.replaceChildren();
         full.hidden = true;
         document.documentElement.classList.remove('nf-lock');
@@ -515,7 +561,18 @@ const shown = (id: string) => sections.some((s) => s.id === id);
       // Back closes the full-screen view, so the close button goes back too.
       shut.addEventListener('click', () => { if (history.state?.netFull) history.back(); else close(); });
       addEventListener('popstate', () => { if (isOpen) close(); });
-      addEventListener('keydown', (e) => { if (isOpen && e.key === 'Escape') shut.click(); });
+      addEventListener('keydown', (e) => {
+        if (e.key !== 'Escape') return;
+        if (isOpen) shut.click();
+        else if (picked) show(null);
+      });
+      card.querySelector('.net-shut')?.addEventListener('click', () => show(null));
+      // A click anywhere else on the page puts the card away. (A name in the card that was just replaced is no longer
+      // in the page, so it counts as inside.)
+      document.addEventListener('click', (e) => {
+        if (isOpen || !picked || !e.target.isConnected || e.target.closest('.net-wrap, [data-pick]')) return;
+        show(null);
+      });
       out.addEventListener('click', () => glide(base));
 
       // Fingers on the full-screen stage: one drags, two pinch, a press that barely moves is a tap.
@@ -581,11 +638,11 @@ const shown = (id: string) => sections.some((s) => s.id === id);
           if (phone.matches && !isOpen) { open(dot); return; }
           show(dot);
           if (isOpen && dot) focusOn(dot);
-          else fig.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
+          else reveal();
         });
       }
       if (matchMedia('(hover: hover)').matches) {
-        svg.addEventListener('mousemove', (e) => { if (!isOpen && !phone.matches && !picked) { show(nearest(e, 8)); picked = null; } });
+        svg.addEventListener('mousemove', (e) => { if (!isOpen && !phone.matches && !picked) show(nearest(e, 8), true); });
         svg.addEventListener('mouseleave', () => { if (!isOpen && !picked) show(null); });
       }
     })();
