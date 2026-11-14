@@ -7,15 +7,16 @@ statements:
       language: fa
     references:
     - source: www.radiofarda.com-amp-iv-arash-sobhani-album-music-dood-33559507.html-0613e462fa16
-      quote: آرش سبحانی؛ شروع یک تجربه با «دود»
+      quote: |-
+        آرش سبحانی؛ شروع یک تجربه با «دود»
       accessed: '2026-10-19'
   - value:
       text: Arash Sobhani
       language: en
     references:
     - source: arashsobhani.com-about-1cc18069b47f
-      quote: Arash Sobhani is a songwriter and guitarist, known for his sharp lyricism and as the founder
-        of Kiosk, a cornerstone of Iranian alternative music.
+      quote: |-
+        Arash Sobhani is a songwriter and guitarist, known for his sharp lyricism and as the founder of Kiosk, a cornerstone of Iranian alternative music.
       accessed: '2026-10-19'
   member of:
   - value: Qtgn2be
@@ -27,18 +28,19 @@ statements:
       - composer
     references:
     - source: arashsobhani.com-about-1cc18069b47f
-      quote: Arash Sobhani, as the vocalist, guitarist, lyricist, and songwriter of the Iranian rock band
-        Kiosk, has recorded eleven albums since the band’s formation in Tehran in 2003 and its subsequent
-        relocation to the United States in 2005.
+      quote: |-
+        Arash Sobhani, as the vocalist, guitarist, lyricist, and songwriter of the Iranian rock band Kiosk, has recorded eleven albums since the band’s formation in Tehran in 2003 and its subsequent relocation to the United States in 2005.
       accessed: '2026-10-19'
   image:
   - value: https://arashsobhani.com/wp-content/uploads/2025/08/%D8%AD%D8%AD%D8%AD%DB%B5.png
     references:
     - source: arashsobhani.com-gallery
-      quote: Gallery - Arash Sobhani
+      quote: |-
+        Gallery - Arash Sobhani
       accessed: '2026-10-19'
     - source: arashsobhani.com-gallery
-      quote: https://arashsobhani.com/wp-content/uploads/2025/08/%D8%AD%D8%AD%D8%AD%DB%B5.png
+      quote: |-
+        https://arashsobhani.com/wp-content/uploads/2025/08/%D8%AD%D8%AD%D8%AD%DB%B5.png
       accessed: '2026-10-19'
     qualifiers:
       credit:
@@ -48,25 +50,112 @@ statements:
   - value: https://www.youtube.com/channel/UCbRa6dY7rTjFW4D4_W0OV9g
     references:
     - source: arashsobhani.com-gallery
-      quote: Gallery - Arash Sobhani
+      quote: |-
+        Gallery - Arash Sobhani
       accessed: '2026-10-19'
     - source: arashsobhani.com-gallery
-      quote: https://www.youtube.com/channel/UCbRa6dY7rTjFW4D4_W0OV9g
+      quote: |-
+        https://www.youtube.com/channel/UCbRa6dY7rTjFW4D4_W0OV9g
       accessed: '2026-10-19'
   - value: https://open.spotify.com/artist/05h18fEJQP6vYvGquQOOrJ
     references:
     - source: open.spotify.com-artist-05h18fejqp6vyvgquqoorj
-      quote: Arash Sobhani
+      quote: |-
+        Arash Sobhani
       accessed: '2026-11-06'
   - value: https://music.apple.com/us/artist/arash-sobhani/128336084
     references:
     - source: music.apple.com-us-artist-arash-sobhani-128336084
-      quote: Arash Sobhani - Apple Music
+      quote: |-
+        Arash Sobhani - Apple Music
       accessed: '2026-11-06'
   - value: https://soundcloud.com/arashsobhani
     references:
     - source: soundcloud.com-arashsobhani
-      quote: 'Arash Sobhani
-
-        From Kiosk to Solo'
+      quote: |-
+        Arash Sobhani
+        From Kiosk to Solo
       accessed: '2026-11-06'
+  life event:
+  - value:
+      text: attended Isfahan University of Art, from where he earned a MA in architecture
+      language: en
+    references:
+    - source: en.wikipedia.org-wiki-arash_sobhani
+      quote: |-
+        Sobhani was born and raised in Tehran, and attended Isfahan University of Art, from where he earned a MA in architecture. He moved to the United States in 2005 to release Kiosk's first album, Ordinary Man. Since then Kiosk has released nine albums and has toured in various parts of the world.
+      accessed: '2026-11-09'
+  - value:
+      text: He moved to the United States in 2005 to release Kiosk's first album, Ordinary Man.
+      language: en
+    qualifiers:
+      point in time:
+        date: '2005'
+    references:
+    - source: en.wikipedia.org-wiki-arash_sobhani
+      quote: |-
+        Sobhani was born and raised in Tehran, and attended Isfahan University of Art, from where he earned a MA in architecture. He moved to the United States in 2005 to release Kiosk's first album, Ordinary Man. Since then Kiosk has released nine albums and has toured in various parts of the world.
+      accessed: '2026-11-09'
+  - value:
+      text: در سال ۱۳۸۵ از ایران به سان فرانسیسکو آمریکا مهاجرت کرد.
+      language: fa
+    qualifiers:
+      point in time:
+        date: '1385'
+        calendar: jalali
+      place: Q7dgn8w
+    references:
+    - source: fa.wikipedia.org-wiki-arash-sobhani
+      quote: |-
+        آرش سبحانی زادهٔ تهران و دانش‌آموختهٔ رشتهٔ معماری از دانشگاه هنر اصفهان است. در سال ۱۳۸۵ از ایران به سان فرانسیسکو آمریکا مهاجرت کرد.
+      accessed: '2026-11-09'
+  - value:
+      text: In 2019 Arash Sobhani produced the hit series Persia's Got Talent for the MBC Persia network.
+      language: en
+    qualifiers:
+      point in time:
+        date: '2019'
+    references:
+    - source: en.wikipedia.org-wiki-arash_sobhani
+      quote: |-
+        In 2019 Arash Sobhani produced the hit series Persia's Got Talent for the MBC Persia network. His other projects in TV include Nowruz Special, OnTen for VOA and Studio 13 for Iran International.
+      accessed: '2026-11-09'
+  - value:
+      text: آرش سبحانی یکی از امضاکنندگان نامۀ سی فرد مقیم خارج از کشور در تاریخ چهارم دی‌ماه در سال ۱۳۹۵
+      language: fa
+    qualifiers:
+      point in time:
+        date: '1395-10-04'
+        calendar: jalali
+    references:
+    - source: fa.wikipedia.org-wiki-arash-sobhani
+      quote: |-
+        آرش سبحانی یکی از امضاکنندگان نامۀ سی فرد مقیم خارج از کشور در تاریخ چهارم دی‌ماه در سال ۱۳۹۵ (بیست و چهارم دسامبر ۲۰۱۶)، برای دونالد ترامپ رئیس‌جمهور ایالات متحده آمریکا بود که در آن ضمن قیاس حکومت جمهوری اسلامی با داعش ، از دونالد ترامپ درخواست شده تحریم‌های موجود علیه سپاه پاسداران انقلاب اسلامی و نهادهای مالی وابسته به سید علی خامنه‌ای را تشدید کند. همین‌طور در آن نامه از مواضع سختگیرانه آقای ترامپ علیه حکومت ایران استقبال شده‌بود.
+      accessed: '2026-11-09'
+  birth date:
+  - value:
+      date: '1349-10-13'
+      calendar: jalali
+    references:
+    - source: fa.wikipedia.org-wiki-arash-sobhani
+      quote: |-
+        آرش سبحانی (زادهٔ ۱۳ دی ۱۳۴۹ در تهران [ ۱ ] ) خواننده و نوازندهٔ گیتار الکتریک ایرانی است. او آهنگساز ، ترانه‌سرا ، خواننده و نوازندهٔ گیتار الکتریک گروه کیوسک است و در حال حاضر ساکن شهر نیویورک آمریکا می‌باشد. سبحانی شیوه نوازندگی خود را الهام‌گرفته از تام ویتس و مارک نافلر می‌داند.
+      accessed: '2026-11-09'
+  - value:
+      date: '1971-01-03'
+    references:
+    - source: en.wikipedia.org-wiki-arash_sobhani
+      quote: |-
+        Arash Sobhani (Persian: آرش سبحانی; born 3 January 1971 in Tehran[1]) is an Iranian musician and television host. He is the lead singer and guitarist of underground rock band Kiosk and the host of OnTen, a satirical news program that airs on VOA Persian.
+      accessed: '2026-11-09'
+  birthplace:
+  - value: Qhm6fzw
+    references:
+    - source: en.wikipedia.org-wiki-arash_sobhani
+      quote: |-
+        Arash Sobhani (Persian: آرش سبحانی; born 3 January 1971 in Tehran[1]) is an Iranian musician and television host. He is the lead singer and guitarist of underground rock band Kiosk and the host of OnTen, a satirical news program that airs on VOA Persian.
+      accessed: '2026-11-09'
+    - source: fa.wikipedia.org-wiki-arash-sobhani
+      quote: |-
+        آرش سبحانی (زادهٔ ۱۳ دی ۱۳۴۹ در تهران [ ۱ ] ) خواننده و نوازندهٔ گیتار الکتریک ایرانی است. او آهنگساز ، ترانه‌سرا ، خواننده و نوازندهٔ گیتار الکتریک گروه کیوسک است و در حال حاضر ساکن شهر نیویورک آمریکا می‌باشد. سبحانی شیوه نوازندگی خود را الهام‌گرفته از تام ویتس و مارک نافلر می‌داند.
+      accessed: '2026-11-09'

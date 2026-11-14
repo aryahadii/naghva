@@ -1,0 +1,59 @@
+id: Qkctydq
+type: release
+statements:
+  name:
+  - value:
+      text: Sigma
+      language: en
+    references:
+    - source: music.apple.com-us-album-sigma-1635573251
+      quote: |-
+        Sigma - Album by Shahin Najafi - Apple Music
+      accessed: '2026-11-09'
+    - source: open.spotify.com-album-1m7ickapmy3kiaauinbgkj
+      quote: |-
+        Listen to Sigma - Album by Shahin Najafi | Spotify
+      accessed: '2026-11-09'
+  listen link:
+  - value: https://music.apple.com/us/album/sigma/1635573251
+    references:
+    - source: music.apple.com-us-album-sigma-1635573251
+      quote: |-
+        Sigma - Album by Shahin Najafi - Apple Music
+      accessed: '2026-11-09'
+  - value: https://open.spotify.com/album/1M7ICkaPMy3kIaAuINBGKj
+    references:
+    - source: open.spotify.com-album-1m7ickapmy3kiaauinbgkj
+      quote: |-
+        Listen to Sigma - Album by Shahin Najafi | Spotify
+      accessed: '2026-11-09'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/2d/6d/3e/2d6d3e53-a33c-550f-f54d-8165603f5603/198004094535.jpg/1200x630wp-60.jpg
+    references:
+    - source: music.apple.com-us-album-sigma-1635573251
+      quote: |-
+        Sigma - Album by Shahin Najafi - Apple Music
+      accessed: '2026-11-09'
+    qualifiers:
+      credit:
+        text: music.apple.com
+        language: en
+  performer:
+  - value: Qn7vfak
+    references:
+    - source: music.apple.com-us-album-sigma-1635573251
+      quote: |-
+        Sigma - Album by Shahin Najafi - Apple Music
+      accessed: '2026-11-09'
+    - source: open.spotify.com-album-1m7ickapmy3kiaauinbgkj
+      quote: |-
+        Listen to Sigma - Album by Shahin Najafi | Spotify
+      accessed: '2026-11-09'
+  release date:
+  - value:
+      date: '2022-07-16'
+    references:
+    - source: music.apple.com-us-album-sigma-1635573251
+      quote: |-
+        July 16, 2022
+      accessed: '2026-11-09'

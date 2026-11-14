@@ -1,0 +1,59 @@
+id: Qjhmbmq
+type: release
+statements:
+  name:
+  - value:
+      text: Oy
+      language: en
+    references:
+    - source: music.apple.com-us-album-oy-1535324780
+      quote: |-
+        Oy - Album by Mohsen Namjoo - Apple Music
+      accessed: '2026-11-09'
+    - source: open.spotify.com-album-2l4uhcnlktxe65qu8fajs1
+      quote: |-
+        Listen to Oy - Album by Mohsen Namjoo | Spotify
+      accessed: '2026-11-09'
+  listen link:
+  - value: https://music.apple.com/us/album/oy/1535324780
+    references:
+    - source: music.apple.com-us-album-oy-1535324780
+      quote: |-
+        Oy - Album by Mohsen Namjoo - Apple Music
+      accessed: '2026-11-09'
+  - value: https://open.spotify.com/album/2L4UhCnlktxe65qU8FajS1
+    references:
+    - source: open.spotify.com-album-2l4uhcnlktxe65qu8fajs1
+      quote: |-
+        Listen to Oy - Album by Mohsen Namjoo | Spotify
+      accessed: '2026-11-09'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e6/be/a5/e6bea5e0-1d9d-26f6-61e6-0bb45c275e36/195448570083.jpg/1200x630wp-60.jpg
+    references:
+    - source: music.apple.com-us-album-oy-1535324780
+      quote: |-
+        Oy - Album by Mohsen Namjoo - Apple Music
+      accessed: '2026-11-09'
+    qualifiers:
+      credit:
+        text: music.apple.com
+        language: en
+  performer:
+  - value: Qt6wjbg
+    references:
+    - source: music.apple.com-us-album-oy-1535324780
+      quote: |-
+        Oy - Album by Mohsen Namjoo - Apple Music
+      accessed: '2026-11-09'
+    - source: open.spotify.com-album-2l4uhcnlktxe65qu8fajs1
+      quote: |-
+        Listen to Oy - Album by Mohsen Namjoo | Spotify
+      accessed: '2026-11-09'
+  release date:
+  - value:
+      date: '2009-10-06'
+    references:
+    - source: music.apple.com-us-album-oy-1535324780
+      quote: |-
+        October 6, 2009
+      accessed: '2026-11-09'

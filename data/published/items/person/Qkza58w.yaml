@@ -24,13 +24,16 @@ statements:
   - value: https://f4.bcbits.com/img/0014564389_21.jpg
     references:
     - source: kouroshyaghmaei.bandcamp.com
-      quote: Malek Jamshid | Kourosh Yaghmaei
+      quote: |-
+        Malek Jamshid | Kourosh Yaghmaei
       accessed: '2026-10-19'
     - source: kouroshyaghmaei.bandcamp.com
-      quote: https://f4.bcbits.com/img/0014564389_21.jpg
+      quote: |-
+        https://f4.bcbits.com/img/0014564389_21.jpg
       accessed: '2026-10-19'
     - source: kouroshyaghmaei.bandcamp.com-album-malek-jamshid-7353b030fa4f
-      quote: Malek Jamshid | Kourosh Yaghmaei
+      quote: |-
+        Malek Jamshid | Kourosh Yaghmaei
       accessed: '2026-10-19'
     qualifiers:
       credit:
@@ -40,8 +43,225 @@ statements:
   - value: https://kouroshyaghmaei.bandcamp.com
     references:
     - source: kouroshyaghmaei.bandcamp.com
-      quote: Malek Jamshid | Kourosh Yaghmaei
+      quote: |-
+        Malek Jamshid | Kourosh Yaghmaei
       accessed: '2026-10-19'
     - source: kouroshyaghmaei.bandcamp.com
-      quote: https://kouroshyaghmaei.bandcamp.com/
+      quote: |-
+        https://kouroshyaghmaei.bandcamp.com/
       accessed: '2026-10-19'
+  - value: https://music.apple.com/us/artist/kourosh-yaghmaei/335000849
+    references:
+    - source: music.apple.com-us-artist-kourosh-yaghmaei-335000849
+      quote: |-
+        Kourosh Yaghmaei - Apple Music
+      accessed: '2026-11-09'
+  - value: https://open.spotify.com/artist/6hKJvRsiSIyjIBv9usxkhh
+    references:
+    - source: open.spotify.com-artist-6hkjvrsisiyjibv9usxkhh
+      quote: |-
+        Listen to Kourosh Yaghmaei Songs | Spotify
+      accessed: '2026-11-09'
+  - value: https://www.youtube.com/@kourosh.yaghmaei
+    references:
+    - source: www.youtube.com-kourosh.yaghmaei
+      quote: |-
+        Kourosh Yaghmaei - YouTube
+      accessed: '2026-11-09'
+  - value: https://t.me/kouroshyaghmaei
+    references:
+    - source: t.me-kouroshyaghmaei
+      quote: |-
+        Kourosh Yaghmaei
+      accessed: '2026-11-09'
+  birth date:
+  - value:
+      date: '1946'
+    references:
+    - source: www.vice.com-en-article-from-national-star-to-enemy-of-the-state-iranian-rock-pioneer-kourosh-yaghmaei-fights-on
+      quote: |-
+        Born in 1946 to a well-off family—one of his distant ancestors was a popular poet; his grandfather was a wealthy landowner—Yaghmaei got into music as a child when his father gave him a santur, and started his first band with some friends when he was a teenager.
+      accessed: '2026-11-09'
+  life event:
+  - value:
+      text: کورش یغمایی موسیقی را در سن ده سالگی با نواختن سنتور که هدیه ای از سوی پدرش بود آغاز کرد.
+      language: fa
+    qualifiers:
+      point in time:
+        date: 1956~
+    references:
+    - source: www.kourosh-yaghmaei.com-biography-biography-p.htm-31cb055dbf0f
+      quote: |-
+        کورش یغمایی موسیقی را در سن ده سالگی با نواختن سنتور که هدیه ای از سوی پدرش بود آغاز کرد.
+      accessed: '2026-11-09'
+  - value:
+      text: در سن پانزده سالگی گیتار را که همواره ساز مورد علاقه اش بود برگزید
+      language: fa
+    qualifiers:
+      point in time:
+        date: 1961~
+    references:
+    - source: www.kourosh-yaghmaei.com-biography-biography-p.htm-31cb055dbf0f
+      quote: |-
+        در سن پانزده سالگی گیتار را که همواره ساز مورد علاقه اش بود برگزید و پس از مدتی در گروه های موسیقی راک که خود تشکیل داده بود سرپرستی ارکستر و نوازندگی لید گیتار را به عهده داشت.
+      accessed: '2026-11-09'
+  - value:
+      text: they dubbed their group The Raptures and played songs by their favorite garage rock and British Invasion bands.
+      language: en
+    references:
+    - source: www.vice.com-en-article-from-national-star-to-enemy-of-the-state-iranian-rock-pioneer-kourosh-yaghmaei-fights-on
+      quote: |-
+        Listening to vinyl imports of bands like Washington surf-rockers The Ventures, they dubbed their group The Raptures and played songs by their favorite garage rock and British Invasion bands.
+      accessed: '2026-11-09'
+  - value:
+      text: Later he formed a band with his brothers
+      language: en
+    references:
+    - source: www.vice.com-en-article-from-national-star-to-enemy-of-the-state-iranian-rock-pioneer-kourosh-yaghmaei-fights-on
+      quote: |-
+        Later he formed a band with his brothers, and by the time he was in his early 20s, Yaghmaei was rising up on the national pop charts with ballads like “Gole Yakh,” a melancholic hit from 1973 about a love that endures through the bitterest winters.
+      accessed: '2026-11-09'
+  - value:
+      text: در سال آخر دانشگاه (رشته جامعه شناسی) اولین کار حرفه ای خود را در زمینه آهنگ سازی - ارکستراسیون - نوازندگی و خوانندگی با ترانه گل یخ
+      language: fa
+    qualifiers:
+      point in time:
+        date: '1352'
+        calendar: jalali
+    references:
+    - source: www.kourosh-yaghmaei.com-biography-biography-p.htm-31cb055dbf0f
+      quote: |-
+        در سال آخر دانشگاه (رشته جامعه شناسی) اولین کار حرفه ای خود را در زمینه آهنگ سازی - ارکستراسیون - نوازندگی و خوانندگی با ترانه گل یخ
+      accessed: '2026-10-23'
+  - value:
+      text: انتشار آلبوم «گل یخ» در سال ۱۳۵۲ نقطه عطفی در زندگی هنری آقای یغمایی و موسیقی راک ایران بود.
+      language: fa
+    qualifiers:
+      point in time:
+        date: '1352'
+        calendar: jalali
+    references:
+    - source: www.bbc.com-persian-articles-c20gwqdz2xro
+      quote: |-
+        انتشار آلبوم «گل یخ» در سال ۱۳۵۲ نقطه عطفی در زندگی هنری آقای یغمایی و موسیقی راک ایران بود.
+      accessed: '2026-11-09'
+  - value:
+      text: از سال 1358 به مدت 17 سال پخش صدای کورش ممنوع شد.
+      language: fa
+    qualifiers:
+      point in time:
+        date: '1358'
+        calendar: jalali
+    references:
+    - source: www.kourosh-yaghmaei.com-biography-biography-p.htm-31cb055dbf0f
+      quote: |-
+        از سال 1358 به مدت 17 سال پخش صدای کورش ممنوع شد.
+      accessed: '2026-10-23'
+  - value:
+      text: Barred from releasing records, traveling, and performing live, he was ordered to repeatedly report to the newly established Revolutionary Courts
+      language: en
+    qualifiers:
+      point in time:
+        date: 1979~
+    references:
+    - source: www.vice.com-en-article-from-national-star-to-enemy-of-the-state-iranian-rock-pioneer-kourosh-yaghmaei-fights-on
+      quote: |-
+        According to Yaghmaei, when the new regime came in, the authorities swiftly shut down the music. Barred from releasing records, traveling, and performing live, he was ordered to repeatedly report to the newly established Revolutionary Courts, where alleged opponents of the regime were tried and sometimes put to death.
+      accessed: '2026-11-09'
+  - value:
+      text: For the first several years after the revolution he says he also reported to Evin prison
+      language: en
+    references:
+    - source: www.vice.com-en-article-from-national-star-to-enemy-of-the-state-iranian-rock-pioneer-kourosh-yaghmaei-fights-on
+      quote: |-
+        For the first several years after the revolution he says he also reported to Evin prison, a notorious detention center in northwest Tehran that has its own section for political prisoners.
+      accessed: '2026-11-09'
+  - value:
+      text: او در این مدت ابتدا در زمینه داستان های کودکان (کتاب و نوار) و ارائه آلبوم دیار (ارکستراسیون آواهای محلی ایران برای ارکستر بزرگ بدون آواز) و در ادامه با تدریس گیتار زندگی را میگذرانید.
+      language: fa
+    references:
+    - source: www.kourosh-yaghmaei.com-biography-biography-p.htm-31cb055dbf0f
+      quote: |-
+        او در این مدت ابتدا در زمینه داستان های کودکان (کتاب و نوار) و ارائه آلبوم دیار (ارکستراسیون آواهای محلی ایران برای ارکستر بزرگ بدون آواز) و در ادامه با تدریس گیتار زندگی را میگذرانید.
+      accessed: '2026-11-09'
+  - value:
+      text: او پس از سال‌ها ممنوعیت فعالیت در زمینه موسیقی، در سال ۱۳۷۳ با انتشار آلبوم «سیب نقره‌ای» دوباره به عرصه موسیقی برگشت.
+      language: fa
+    qualifiers:
+      point in time:
+        date: '1373'
+        calendar: jalali
+    references:
+    - source: www.bbc.com-persian-articles-c20gwqdz2xro
+      quote: |-
+        او پس از سال‌ها ممنوعیت فعالیت در زمینه موسیقی، در سال ۱۳۷۳ با انتشار آلبوم «سیب نقره‌ای» دوباره به عرصه موسیقی برگشت.
+      accessed: '2026-11-09'
+  - value:
+      text: First, Yaghmaei says, he was forbidden from putting his face on the album’s cover.
+      language: en
+    references:
+    - source: www.vice.com-en-article-from-national-star-to-enemy-of-the-state-iranian-rock-pioneer-kourosh-yaghmaei-fights-on
+      quote: |-
+        First, Yaghmaei says, he was forbidden from putting his face on the album’s cover. Then, when he finished Malek Jamshid, he waited over a decade to hear back from the Ministry of Culture and Islamic Guidance about a release permit.
+      accessed: '2026-11-09'
+  - value:
+      text: It took two years for Yaghmaei to finish the album, working with a limited budget and whatever equipment he had on hand.
+      language: en
+    references:
+    - source: www.vice.com-en-article-from-national-star-to-enemy-of-the-state-iranian-rock-pioneer-kourosh-yaghmaei-fights-on
+      quote: |-
+        It took two years for Yaghmaei to finish the album, working with a limited budget and whatever equipment he had on hand. But it took another 12 years to release it, as he struggled with government authorities to obtain the required permit to have it released. Malek Jamshid was finally released this summer—without the permit—on a small label based out of Los Angeles.
+      accessed: '2026-11-09'
+  - value:
+      text: آلبوم «ملک جمشید» من که مجوز تمام مراحل ممیزی شعر و موزیک و … را گرفته بود به ناگاه جلوی پخش آن گرفته شد.
+      language: fa
+    references:
+    - source: www.kaleme.com-1392-08-11-klm-163498
+      quote: |-
+        و نتیجه اینکه بر پایه این حکم آلبوم «ملک جمشید» من که مجوز تمام مراحل ممیزی شعر و موزیک و … را گرفته بود به ناگاه جلوی پخش آن گرفته شد.
+      accessed: '2026-11-09'
+  - value:
+      text: 'Highland Park’s Now Again label has compiled “Back From the Brink: Pre-Revolution Psychedelic Rock From Iran: 1973-1979,”'
+      language: en
+    qualifiers:
+      point in time:
+        date: '2011'
+    references:
+    - source: www.latimes.com-archives-la-xpm-2011-aug-21-la-ca-iranian-rock-reissues-20110821-story.html
+      quote: |-
+        Highland Park’s Now Again label has compiled “Back From the Brink: Pre-Revolution Psychedelic Rock From Iran: 1973-1979,” one of the most cohesive compilations from Iran’s own guitar hero, Kourosh Yaghmaei.
+      accessed: '2026-11-09'
+  - value:
+      text: Kourosh now runs a private music school and studio in Tehran
+      language: en
+    qualifiers:
+      point in time:
+        date: '2011'
+      place: Qhm6fzw
+    references:
+    - source: www.latimes.com-archives-la-xpm-2011-aug-21-la-ca-iranian-rock-reissues-20110821-story.html
+      quote: |-
+        Kourosh now runs a private music school and studio in Tehran, but in “Back to the Brink’s” liner notes, he laments his country’s creative state.
+      accessed: '2026-11-09'
+  - value:
+      text: This summer, the album was finally released digitally and on CD by the LA-based label Now-Again Records.
+      language: en
+    qualifiers:
+      point in time:
+        date: '2016'
+    references:
+    - source: www.vice.com-en-article-from-national-star-to-enemy-of-the-state-iranian-rock-pioneer-kourosh-yaghmaei-fights-on
+      quote: |-
+        This summer, the album was finally released digitally and on CD by the LA-based label Now-Again Records.
+      accessed: '2026-11-09'
+  - value:
+      text: آقای یغمایی در این پست با دنیای موسیقی خداحافظی کرد
+      language: fa
+    qualifiers:
+      point in time:
+        date: 2025-12
+    references:
+    - source: www.bbc.com-persian-articles-c20gwqdz2xro
+      quote: |-
+        آقای یغمایی در این پست با دنیای موسیقی خداحافظی کرد و گفت: « پس از پخش آن [آلبوم] از کار در زمینه موزیک کنار خواهم رفت.»
+      accessed: '2026-11-09'

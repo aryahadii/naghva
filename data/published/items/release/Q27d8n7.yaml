@@ -1,0 +1,59 @@
+id: Q27d8n7
+type: release
+statements:
+  name:
+  - value:
+      text: Jabr
+      language: en
+    references:
+    - source: music.apple.com-us-album-jabr-1484872700
+      quote: |-
+        Jabr - Album by Mohsen Namjoo - Apple Music
+      accessed: '2026-11-09'
+    - source: open.spotify.com-album-3sjzqtbn77z4jo0seile9d
+      quote: |-
+        Listen to Jabr - Album by Mohsen Namjoo | Spotify
+      accessed: '2026-11-09'
+  listen link:
+  - value: https://music.apple.com/us/album/jabr/1484872700
+    references:
+    - source: music.apple.com-us-album-jabr-1484872700
+      quote: |-
+        Jabr - Album by Mohsen Namjoo - Apple Music
+      accessed: '2026-11-09'
+  - value: https://open.spotify.com/album/3sjZqtBN77Z4Jo0seile9d
+    references:
+    - source: open.spotify.com-album-3sjzqtbn77z4jo0seile9d
+      quote: |-
+        Listen to Jabr - Album by Mohsen Namjoo | Spotify
+      accessed: '2026-11-09'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/de/ee/41/deee412a-6459-9074-1873-aabfeec305b6/194660124203.jpg/1200x630wp-60.jpg
+    references:
+    - source: music.apple.com-us-album-jabr-1484872700
+      quote: |-
+        Jabr - Album by Mohsen Namjoo - Apple Music
+      accessed: '2026-11-09'
+    qualifiers:
+      credit:
+        text: music.apple.com
+        language: en
+  performer:
+  - value: Qt6wjbg
+    references:
+    - source: music.apple.com-us-album-jabr-1484872700
+      quote: |-
+        Jabr - Album by Mohsen Namjoo - Apple Music
+      accessed: '2026-11-09'
+    - source: open.spotify.com-album-3sjzqtbn77z4jo0seile9d
+      quote: |-
+        Listen to Jabr - Album by Mohsen Namjoo | Spotify
+      accessed: '2026-11-09'
+  release date:
+  - value:
+      date: '2008-01-01'
+    references:
+    - source: music.apple.com-us-album-jabr-1484872700
+      quote: |-
+        January 1, 2008
+      accessed: '2026-11-09'

@@ -1,4 +1,3 @@
-# Editorial Persian display spelling; source uses the Latin name.
 id: Qf36fnd
 type: person
 statements:
@@ -6,68 +5,293 @@ statements:
   - value:
       text: سودالیزا
       language: fa
+    editorial: true
     references:
     - source: sevdaliza.bandcamp.com-album-ison-ea10363083c0
-      quote: ISON by Sevdaliza
+      quote: |-
+        ISON by Sevdaliza
       accessed: '2026-10-19'
   - value:
       text: Sevdaliza
       language: en
     references:
     - source: sevdaliza.bandcamp.com-album-ison-ea10363083c0
-      quote: ISON by Sevdaliza
+      quote: |-
+        ISON by Sevdaliza
       accessed: '2026-10-19'
   - value:
       text: Sevda Alizadeh
       language: nl
     references:
     - source: www.vpro.nl-zomergasten-artikelen-sevdaliza-926eb75e843e
-      quote: Sevda Alizadeh, artiestennaam Sevdaliza, is een Iraans-Nederlandse zangeres, componist en producer.
+      quote: |-
+        Sevda Alizadeh, artiestennaam Sevdaliza, is een Iraans-Nederlandse zangeres, componist en producer.
       accessed: '2026-10-19'
   - value:
       text: سودا علیزاده
       language: fa
     references:
     - source: www.vpro.nl-zomergasten-artikelen-sevdaliza-926eb75e843e
-      quote: Sevda Alizadeh, artiestennaam Sevdaliza, is een Iraans-Nederlandse zangeres, componist en producer.
+      quote: |-
+        Sevda Alizadeh, artiestennaam Sevdaliza, is een Iraans-Nederlandse zangeres, componist en producer.
       accessed: '2026-10-19'
   birth date:
   - value:
       date: '1987'
     references:
     - source: www.vpro.nl-zomergasten-artikelen-sevdaliza-926eb75e843e
-      quote: Zangeres, componist en producer Sevdaliza (Teheran, 1987)
+      quote: |-
+        Zangeres, componist en producer Sevdaliza (Teheran, 1987)
       accessed: '2026-10-19'
   profile link:
   - value: https://sevdaliza.bandcamp.com
     references:
     - source: sevdaliza.bandcamp.com-music
-      quote: Music | Sevdaliza
+      quote: |-
+        Music | Sevdaliza
       accessed: '2026-10-19'
     - source: sevdaliza.bandcamp.com-music
-      quote: https://sevdaliza.bandcamp.com/music
+      quote: |-
+        https://sevdaliza.bandcamp.com/music
       accessed: '2026-10-19'
   - value: https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie
     references:
     - source: open.spotify.com-artist-5mraexjkzdrqyzs98knwie-8c5f36ee8744
-      quote: Listen to Sevdaliza Songs | Spotify
+      quote: |-
+        Listen to Sevdaliza Songs | Spotify
       accessed: '2026-11-06'
   - value: https://music.apple.com/us/artist/sevdaliza/571173217
     references:
     - source: music.apple.com-us-artist-sevdaliza-571173217-665cfc2830ba
-      quote: ‎Sevdaliza - Apple Music
+      quote: |-
+        ‎Sevdaliza - Apple Music
       accessed: '2026-11-06'
   - value: https://soundcloud.com/sevdaliza
     references:
     - source: soundcloud.com-sevdaliza-0a8bc8beb472
-      quote: Stream SEVDALIZA music | Listen to songs, albums, playlists for free on SoundCloud
+      quote: |-
+        Stream SEVDALIZA music | Listen to songs, albums, playlists for free on SoundCloud
       accessed: '2026-11-06'
+  - value: https://www.youtube.com/@sevdaliza
+    references:
+    - source: www.youtube.com-sevdaliza
+      quote: |-
+        Sevdaliza - YouTube
+      accessed: '2026-11-09'
   image:
   - value: https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/12/15/e4/1215e4e0-bbe1-97f7-87ea-cf14b3b73225/ami-identity-c7be1fdfd0cd01469ee18105c08f520c-2025-10-30T23-49-15.383Z_cropped.png/486x486bb.png
     references:
     - source: music.apple.com-us-artist-sevdaliza-571173217-665cfc2830ba
-      quote: ‎Sevdaliza - Apple Music
+      quote: |-
+        ‎Sevdaliza - Apple Music
       accessed: '2026-11-06'
     - source: music.apple.com-us-artist-sevdaliza-571173217-665cfc2830ba
-      quote: https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/12/15/e4/1215e4e0-bbe1-97f7-87ea-cf14b3b73225/ami-identity-c7be1fdfd0cd01469ee18105c08f520c-2025-10-30T23-49-15.383Z_cropped.png/486x486bb.png
+      quote: |-
+        https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/12/15/e4/1215e4e0-bbe1-97f7-87ea-cf14b3b73225/ami-identity-c7be1fdfd0cd01469ee18105c08f520c-2025-10-30T23-49-15.383Z_cropped.png/486x486bb.png
       accessed: '2026-11-06'
+  birthplace:
+  - value: Qhm6fzw
+    references:
+    - source: www.vpro.nl-zomergasten-artikelen-sevdaliza-926eb75e843e
+      quote: |-
+        Zangeres, componist en producer Sevdaliza (Teheran, 1987)
+      accessed: '2026-10-19'
+    - source: www.thefader.com-2017-04-05-sevdaliza-interview-ison-twisted-elegance
+      quote: |-
+        At the age of 5, she had just left her birthplace of Tehran with her family as refugees, and was on a bus in a small countryside town in the Netherlands.
+      accessed: '2026-11-09'
+  life event:
+  - value:
+      text: So I was born during the Iran-Iraq War. My earliest memories are really marked by instability and a kind of, like, an ambient fear.
+      language: en
+    qualifiers:
+      place: Qhm6fzw
+    references:
+    - source: www.npr.org-transcripts-nx-s1-5630067
+      quote: |-
+        So I was born during the Iran-Iraq War. My earliest memories are really marked by instability and a kind of, like, an ambient fear.
+      accessed: '2026-11-09'
+  - value:
+      text: At the age of 5, she had just left her birthplace of Tehran with her family as refugees
+      language: en
+    qualifiers:
+      point in time:
+        date: 1991/1993
+    references:
+    - source: www.thefader.com-2017-04-05-sevdaliza-interview-ison-twisted-elegance
+      quote: |-
+        At the age of 5, she had just left her birthplace of Tehran with her family as refugees, and was on a bus in a small countryside town in the Netherlands.
+      accessed: '2026-11-09'
+  - value:
+      text: Toen ze vijf jaar was kwam ze met haar moeder naar Nederland, woonde in asielzoekerscentra en kwam uiteindelijk terecht in Hardinxveld-Giessendam.
+      language: nl
+    qualifiers:
+      point in time:
+        date: 1991/1993
+    references:
+    - source: www.vpro.nl-zomergasten-artikelen-sevdaliza-926eb75e843e
+      quote: |-
+        Sevdaliza is geboren in Iran. Toen ze vijf jaar was kwam ze met haar moeder naar Nederland, woonde in asielzoekerscentra en kwam uiteindelijk terecht in Hardinxveld-Giessendam.
+      accessed: '2026-10-19'
+  - value:
+      text: when we came to the Netherlands, she was alone because my dad was still in prison. She really had to build up her life from scratch with a young child.
+      language: en
+    references:
+    - source: www.npr.org-transcripts-nx-s1-5630067
+      quote: |-
+        You know, when we came to the Netherlands, she was alone because my dad was still in prison. She really had to build up her life from scratch with a young child.
+      accessed: '2026-11-09'
+  - value:
+      text: No, he was in prison because he was basically political prisoner.
+      language: en
+    references:
+    - source: www.npr.org-transcripts-nx-s1-5630067
+      quote: |-
+        No, he was in prison because he was basically political prisoner.
+      accessed: '2026-11-09'
+  - value:
+      text: 'At 7, she found a remedy for her isolation in pirate radio: Alizadeh would record golden-age rap — The Notorious B.I.G. was one of her heroes — memorize the lyrics, and dream of different, far-away lives.'
+      language: en
+    qualifiers:
+      point in time:
+        date: 1994~
+    references:
+    - source: www.thefader.com-2017-04-05-sevdaliza-interview-ison-twisted-elegance
+      quote: |-
+        At 7, she found a remedy for her isolation in pirate radio: Alizadeh would record golden-age rap — The Notorious B.I.G. was one of her heroes — memorize the lyrics, and dream of different, far-away lives.
+      accessed: '2026-11-09'
+  - value:
+      text: Sevdaliza left home at 16 on a basketball scholarship, eventually playing on the Dutch national team.
+      language: en
+    references:
+    - source: www.factmag.com-2015-10-14-sevdaliza-interview-suspended-kid-4512ab29e458
+      quote: |-
+        Born in Iran before her parents moved the family to the Netherlands, Sevdaliza left home at 16 on a basketball scholarship, eventually playing on the Dutch national team.
+      accessed: '2026-10-19'
+  - value:
+      text: she paid her own way through school for a master’s degree in communication and a position on the Dutch youth national basketball team.
+      language: en
+    references:
+    - source: www.thefader.com-2017-04-05-sevdaliza-interview-ison-twisted-elegance
+      quote: |-
+        She was doing a lot, too: she paid her own way through school for a master’s degree in communication and a position on the Dutch youth national basketball team.
+      accessed: '2026-11-09'
+  - value:
+      text: I did my master's, and my first job was at MTV, actually. That was my first introduction to the world of artist, and that's when I realized that I wanted to make music.
+      language: en
+    references:
+    - source: www.npr.org-transcripts-nx-s1-5630067
+      quote: |-
+        No, I finished my university. I did my master's, and my first job was at MTV, actually. That was my first introduction to the world of artist, and that's when I realized that I wanted to make music.
+      accessed: '2026-11-09'
+  - value:
+      text: By the time Alizadeh started to make music of her own, at 24
+      language: en
+    qualifiers:
+      point in time:
+        date: 2011~
+    references:
+    - source: www.thefader.com-2017-04-05-sevdaliza-interview-ison-twisted-elegance
+      quote: |-
+        By the time Alizadeh started to make music of her own, at 24, she was already fluent in a number of languages — Farsi, Dutch, English, French, and Portuguese. But it took a year of intense work with Mucky, her co-producer, for her sonic vocabulary to emerge.
+      accessed: '2026-11-09'
+  - value:
+      text: it took a year of intense work with Mucky, her co-producer, for her sonic vocabulary to emerge.
+      language: en
+    qualifiers:
+      with: Qej3p6c
+    references:
+    - source: www.thefader.com-2017-04-05-sevdaliza-interview-ison-twisted-elegance
+      quote: |-
+        By the time Alizadeh started to make music of her own, at 24, she was already fluent in a number of languages — Farsi, Dutch, English, French, and Portuguese. But it took a year of intense work with Mucky, her co-producer, for her sonic vocabulary to emerge.
+      accessed: '2026-11-09'
+  - value:
+      text: Rotterdam’s Sevdaliza made her debut earlier this year with The Suspended Kid.
+      language: en
+    qualifiers:
+      point in time:
+        date: '2015'
+    references:
+    - source: www.factmag.com-2015-10-14-sevdaliza-interview-suspended-kid-4512ab29e458
+      quote: |-
+        Rotterdam’s Sevdaliza made her debut earlier this year with The Suspended Kid.
+      accessed: '2026-11-09'
+  - value:
+      text: I wrote and composed “Bebin” about four days ago. Driven by something divine. Me and [the producer] Mucky finished “Bebin” within 48 hours.
+      language: en
+    qualifiers:
+      point in time:
+        date: 2017-01
+      with: Qej3p6c
+    references:
+    - source: www.billboard.com-articles-news-politics-7677096-iranian-dutch-singer-sevdaliza-immigration-ban-bebin
+      quote: |-
+        I wrote and composed “Bebin” about four days ago. Driven by something divine. Me and [the producer] Mucky finished “Bebin” within 48 hours.
+      accessed: '2026-11-09'
+  - value:
+      text: Now unable to travel to the United States, Sevdaliza turned to music to vent her frustrations as well as extend love to others with her new song “Bebin,”
+      language: en
+    qualifiers:
+      point in time:
+        date: 2017-01
+    references:
+    - source: www.billboard.com-articles-news-politics-7677096-iranian-dutch-singer-sevdaliza-immigration-ban-bebin
+      quote: |-
+        Now unable to travel to the United States, Sevdaliza turned to music to vent her frustrations as well as extend love to others with her new song “Bebin,” which means “to look” in the Persian language Farsi.
+      accessed: '2026-11-09'
+  - value:
+      text: has shared “Woman Life Freedom,” a new song that was written “in support of women in Iran,”
+      language: en
+    qualifiers:
+      point in time:
+        date: '2022-10-07'
+    references:
+    - source: www.thefader.com-2022-10-07-sevdaliza-woman-life-freedom
+      quote: |-
+        Sevdaliza, a Dutch-Iranian experimental pop songwriter who was born in Tehran, has shared “Woman Life Freedom,” a new song that was written “in support of women in Iran,” according to a press statement.
+      accessed: '2026-11-09'
+  - value:
+      text: I specifically aimed to make that song an anthem, and I started the demo while I had my 6-month-old baby on my lap.
+      language: en
+    references:
+    - source: www.npr.org-transcripts-nx-s1-5630067
+      quote: |-
+        I specifically aimed to make that song an anthem, and I started the demo while I had my 6-month-old baby on my lap.
+      accessed: '2026-11-09'
+  - value:
+      text: Um dos pontos altos do show foi a aparição de Pabllo Vittar, Sevdaliza e Yseult para uma performance de “Alibi”.
+      language: pt
+    qualifiers:
+      point in time:
+        date: '2024-09-20'
+      with:
+      - Q5memmb
+      - Q466sek
+      - Q4y8pvf
+    references:
+    - source: billboard.com.br-como-foi-a-participacao-de-pabllo-sevdaliza-e-yseult-em-show-de-karol-g-10168bcd4d95
+      quote: |-
+        Karol G fez sua estreia triunfal no Palco Mundo do Rock in Rio 2024 nesta sexta-feira (20). Um dos pontos altos do show foi a aparição de Pabllo Vittar, Sevdaliza e Yseult para uma performance de “Alibi”.
+      accessed: '2026-11-06'
+  - value:
+      text: The Coca-Cola Music Fest in Armenia has cancelled the performance of Iranian–Dutch singer Sevda Alizadeh, known professionally as Sevdaliza, following online pressure.
+      language: en
+    qualifiers:
+      point in time:
+        date: '2025-08-25'
+    references:
+    - source: oc-media.org-sevdalizas-performance-cancelled-in-armenia-following-uproar-from-religious-circles
+      quote: |-
+        The Coca-Cola Music Fest in Armenia has cancelled the performance of Iranian–Dutch singer Sevda Alizadeh, known professionally as Sevdaliza, following online pressure.
+      accessed: '2026-11-09'
+  - value:
+      text: On Friday, the experimental singer released her third LP, Heroina
+      language: en
+    qualifiers:
+      point in time:
+        date: '2025-10-31'
+    references:
+    - source: www.rollingstone.com-music-music-news-sevdaliza-album-heroina-karol-g-kenia-os-tokischa-1235458123
+      quote: |-
+        On Friday, the experimental singer released her third LP, Heroina — an ode to femininity that features collaborations with Karol G, Kenia Os, Pabllo Vittar, and Tokischa.
+      accessed: '2026-11-09'

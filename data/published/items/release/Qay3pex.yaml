@@ -1,0 +1,59 @@
+id: Qay3pex
+type: release
+statements:
+  name:
+  - value:
+      text: Oh My God
+      language: en
+    references:
+    - source: music.apple.com-us-album-oh-my-god-single-1699344746
+      quote: |-
+        Oh My God - Single - Album by Sevdaliza - Apple Music
+      accessed: '2026-11-09'
+    - source: open.spotify.com-album-6t7yjr7abglhukitvzyveo
+      quote: |-
+        Listen to Oh My God - Single by Sevdaliza | Spotify
+      accessed: '2026-11-09'
+  listen link:
+  - value: https://music.apple.com/us/album/oh-my-god-single/1699344746
+    references:
+    - source: music.apple.com-us-album-oh-my-god-single-1699344746
+      quote: |-
+        Oh My God - Single - Album by Sevdaliza - Apple Music
+      accessed: '2026-11-09'
+  - value: https://open.spotify.com/album/6T7YJR7aBGlhUKitvzyveO
+    references:
+    - source: open.spotify.com-album-6t7yjr7abglhukitvzyveo
+      quote: |-
+        Listen to Oh My God - Single by Sevdaliza | Spotify
+      accessed: '2026-11-09'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/de/17/65/de176529-2287-89a0-366f-0cfe68595bf9/cover.jpg/1200x630wp-60.jpg
+    references:
+    - source: music.apple.com-us-album-oh-my-god-single-1699344746
+      quote: |-
+        Oh My God - Single - Album by Sevdaliza - Apple Music
+      accessed: '2026-11-09'
+    qualifiers:
+      credit:
+        text: music.apple.com
+        language: en
+  performer:
+  - value: Qf36fnd
+    references:
+    - source: music.apple.com-us-album-oh-my-god-single-1699344746
+      quote: |-
+        Oh My God - Single - Album by Sevdaliza - Apple Music
+      accessed: '2026-11-09'
+    - source: open.spotify.com-album-6t7yjr7abglhukitvzyveo
+      quote: |-
+        Listen to Oh My God - Single by Sevdaliza | Spotify
+      accessed: '2026-11-09'
+  release date:
+  - value:
+      date: '2020-01-29'
+    references:
+    - source: music.apple.com-us-album-oh-my-god-single-1699344746
+      quote: |-
+        January 29, 2020
+      accessed: '2026-11-09'

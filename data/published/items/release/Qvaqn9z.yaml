@@ -1,0 +1,59 @@
+id: Qvaqn9z
+type: release
+statements:
+  name:
+  - value:
+      text: Time
+      language: en
+    references:
+    - source: music.apple.com-us-album-time-single-1698685441
+      quote: |-
+        Time - Single - Album by Sevdaliza - Apple Music
+      accessed: '2026-11-09'
+    - source: open.spotify.com-album-1xspfmy8eimgbzuzk9opxm
+      quote: |-
+        Listen to Time - Single by Sevdaliza | Spotify
+      accessed: '2026-11-09'
+  listen link:
+  - value: https://music.apple.com/us/album/time-single/1698685441
+    references:
+    - source: music.apple.com-us-album-time-single-1698685441
+      quote: |-
+        Time - Single - Album by Sevdaliza - Apple Music
+      accessed: '2026-11-09'
+  - value: https://open.spotify.com/album/1XsPFMy8eiMgBzuzK9opXM
+    references:
+    - source: open.spotify.com-album-1xspfmy8eimgbzuzk9opxm
+      quote: |-
+        Listen to Time - Single by Sevdaliza | Spotify
+      accessed: '2026-11-09'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1c/7f/2b/1c7f2bc0-5d43-af64-4ebc-656bf6129227/cover.jpg/1200x630wp-60.jpg
+    references:
+    - source: music.apple.com-us-album-time-single-1698685441
+      quote: |-
+        Time - Single - Album by Sevdaliza - Apple Music
+      accessed: '2026-11-09'
+    qualifiers:
+      credit:
+        text: music.apple.com
+        language: en
+  performer:
+  - value: Qf36fnd
+    references:
+    - source: music.apple.com-us-album-time-single-1698685441
+      quote: |-
+        Time - Single - Album by Sevdaliza - Apple Music
+      accessed: '2026-11-09'
+    - source: open.spotify.com-album-1xspfmy8eimgbzuzk9opxm
+      quote: |-
+        Listen to Time - Single by Sevdaliza | Spotify
+      accessed: '2026-11-09'
+  release date:
+  - value:
+      date: '2016-10-13'
+    references:
+    - source: music.apple.com-us-album-time-single-1698685441
+      quote: |-
+        October 13, 2016
+      accessed: '2026-11-09'

@@ -10,7 +10,6 @@ statements:
       quote: |-
         2007: Amor De La Velocidad (Eshgh e Sorat)
       accessed: '2026-10-19'
-  # Editorial Persian display spelling; source uses the Latin name.
   - value:
       text: عشق سرعت
       language: fa
@@ -38,16 +37,25 @@ statements:
   - value: https://music.apple.com/us/album/eshghe-sorat-amor-de-la-velocidad/254473047
     references:
     - source: music.apple.com-us-album-eshghe-sorat-amor-de-la-velocidad-254473047-bf3da4b01435
-      quote: Eshghe Sorat (amor de la Velocidad) by Kiosk on Apple Music
+      quote: |-
+        Eshghe Sorat (amor de la Velocidad) by Kiosk on Apple Music
       accessed: '2026-10-19'
+  - value: https://open.spotify.com/album/3VBJJoIJCvqnmOUbwuDg7v
+    references:
+    - source: open.spotify.com-album-3vbjjoijcvqnmoubwudg7v
+      quote: |-
+        Listen to Eshghe Sorat (Amor De La Velocidad) - Album by Kiosk | Spotify
+      accessed: '2026-11-09'
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music/2d/81/09/mzi.sveyvxuo.tif/1200x630bb.jpg
     references:
     - source: music.apple.com-us-album-eshghe-sorat-amor-de-la-velocidad-254473047-bf3da4b01435
-      quote: Eshghe Sorat (amor de la Velocidad) by Kiosk on Apple Music
+      quote: |-
+        Eshghe Sorat (amor de la Velocidad) by Kiosk on Apple Music
       accessed: '2026-10-19'
     - source: music.apple.com-us-album-eshghe-sorat-amor-de-la-velocidad-254473047-bf3da4b01435
-      quote: https://is1-ssl.mzstatic.com/image/thumb/Music/2d/81/09/mzi.sveyvxuo.tif/1200x630bb.jpg
+      quote: |-
+        https://is1-ssl.mzstatic.com/image/thumb/Music/2d/81/09/mzi.sveyvxuo.tif/1200x630bb.jpg
       accessed: '2026-10-19'
     qualifiers:
       credit:

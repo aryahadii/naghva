@@ -1,0 +1,45 @@
+id: Qy9we27
+type: release
+statements:
+  name:
+  - value:
+      text: Barcode
+      language: en
+    references:
+    - source: music.apple.com-us-album-barcode-single-1114845251
+      quote: |-
+        Barcode - Single - Album by Yas - Apple Music
+      accessed: '2026-11-09'
+  listen link:
+  - value: https://music.apple.com/us/album/barcode-single/1114845251
+    references:
+    - source: music.apple.com-us-album-barcode-single-1114845251
+      quote: |-
+        Barcode - Single - Album by Yas - Apple Music
+      accessed: '2026-11-09'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music30/v4/3e/0f/40/3e0f40ce-af7e-b9f5-d731-2defcccd6a51/cover.jpg/1200x630wp-60.jpg
+    references:
+    - source: music.apple.com-us-album-barcode-single-1114845251
+      quote: |-
+        Barcode - Single - Album by Yas - Apple Music
+      accessed: '2026-11-09'
+    qualifiers:
+      credit:
+        text: music.apple.com
+        language: en
+  performer:
+  - value: Qx3svqf
+    references:
+    - source: music.apple.com-us-album-barcode-single-1114845251
+      quote: |-
+        Barcode - Single - Album by Yas - Apple Music
+      accessed: '2026-11-09'
+  release date:
+  - value:
+      date: '2016-05-25'
+    references:
+    - source: music.apple.com-us-album-barcode-single-1114845251
+      quote: |-
+        May 25, 2016
+      accessed: '2026-11-09'
