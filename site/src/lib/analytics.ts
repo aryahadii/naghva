@@ -65,16 +65,31 @@ export function trafficProperties(href: string, referrer: string): Record<string
   };
 }
 
-export const EVENTS = ['$pageview', 'artist_viewed', 'listen_clicked', 'search_used', 'language_switched'] as const;
+export const EVENTS = ['$pageview', '$pageleave', '$web_vitals', 'artist_viewed', 'listen_clicked', 'search_used', 'language_switched'] as const;
 export type AnalyticsEvent = typeof EVENTS[number];
 
 // Keep the SDK's cookieless protocol and coarse device dimensions. Everything
 // else must be supplied explicitly below; new SDK properties fail closed.
 const SDK_PROPERTIES = new Set([
   'token', 'distinct_id', '$device_id', '$cookieless_mode', '$lib', '$lib_version',
+  // Set by the SDK when events go through our relay; PostHog's setup check
+  // reads it to see that a reverse proxy is in use.
+  '$lib_custom_api_host',
   '$browser', '$browser_version', '$os', '$os_version', '$device_type',
   '$screen_width', '$screen_height', '$viewport_width', '$viewport_height',
 ]);
+// Time on page and scroll depth of the page being left (on $pageleave) or of
+// the previous page (on the next $pageview). Numbers only.
+const PAGE_METRICS = new Set([
+  '$prev_pageview_duration',
+  '$prev_pageview_last_scroll', '$prev_pageview_last_scroll_percentage',
+  '$prev_pageview_max_scroll', '$prev_pageview_max_scroll_percentage',
+  '$prev_pageview_last_content', '$prev_pageview_last_content_percentage',
+  '$prev_pageview_max_content', '$prev_pageview_max_content_percentage',
+]);
+// Metric values only; the *_event objects carry element selectors and URLs.
+const WEB_VITALS = /^\$web_vitals_(LCP|CLS|FCP|INP)_value$/;
+const PATH = /^\/(?:[a-z0-9-]+\/)*$/;
 const ID = /^Q[a-z0-9]{6}$/;
 const PLATFORMS = new Set(['youtube', 'spotify', 'soundcloud', 'bandcamp', 'apple', 'telegram']);
 
@@ -91,6 +106,18 @@ export function sanitizeEvent(event: CaptureResult | null, context: Properties):
     properties.$raw_user_agent = event.properties.$raw_user_agent;
   }
   Object.assign(properties, context, { $process_person_profile: false, $is_identified: false });
+  if (event.event === '$pageview' || event.event === '$pageleave') {
+    for (const [key, value] of Object.entries(event.properties)) {
+      if (PAGE_METRICS.has(key) && typeof value === 'number' && Number.isFinite(value)) properties[key] = value;
+    }
+    const previous = event.properties.$prev_pageview_pathname;
+    if (typeof previous === 'string' && PATH.test(previous)) properties.$prev_pageview_pathname = previous;
+  }
+  if (event.event === '$web_vitals') {
+    for (const [key, value] of Object.entries(event.properties)) {
+      if (WEB_VITALS.test(key) && typeof value === 'number' && Number.isFinite(value)) properties[key] = value;
+    }
+  }
   if (event.event === 'listen_clicked') {
     if (ID.test(event.properties.release_id ?? '')) properties.release_id = event.properties.release_id;
     if (PLATFORMS.has(event.properties.platform)) properties.platform = event.properties.platform;

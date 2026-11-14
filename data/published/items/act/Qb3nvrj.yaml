@@ -55,3 +55,25 @@ statements:
     - source: open.spotify.com-embed-artist-3juum1huev3gbqwutfhzml
       quote: '"uri":"spotify:artist:3juum1Huev3gBqWuTfHzML"'
       accessed: '2026-11-06'
+  life event:
+  - value:
+      text: مرکز همایش های برج میلاد شب گذشته 27 خردادماه میزبان طرفداران گروه چارتار بود.
+      language: fa
+    references:
+    - source: honaronline.ir-55432-chaartaar-at-milad
+      quote: مرکز همایش های برج میلاد شب گذشته 27 خردادماه میزبان طرفداران گروه چارتار بود.
+      accessed: '2026-11-13'
+    qualifiers:
+      point in time:
+        date: '1393-03-27'
+        calendar: jalali
+  - value:
+      text: Chaartaar gaf een concert in Nederland op 23 september 2016.
+      language: nl
+    references:
+    - source: persiandutch.com-chaartaar-rotterdam-2016
+      quote: Chaartaar gaf een concert in Nederland op 23 september 2016. Het concert was georganiseerd in de Jurriaanse Zaal (De Doelen) in Rotterdam.
+      accessed: '2026-11-13'
+    qualifiers:
+      point in time:
+        date: '2016-09-23'

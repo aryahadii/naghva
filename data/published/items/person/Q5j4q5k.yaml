@@ -7,9 +7,16 @@ statements:
       language: en
     references:
     - source: www.musicexport.at-artist-golnar-shahyar-e84df8b57659
-      quote: |-
-        Golnar Shahyar is an Iranian–Canadian vocalist, composer, poet, producer, educator, and cultural advocate based in Vienna whose music braids improvisation, storytelling, and activism.
+      quote: Golnar Shahyar is an Iranian–Canadian vocalist, composer, poet, producer, educator, and cultural advocate based
+        in Vienna whose music braids improvisation, storytelling, and activism.
       accessed: '2026-10-19'
+  - value:
+      text: گلنار شهیار
+      language: fa
+    references:
+    - source: bandcamp.com-golnarshahyar
+      quote: Golnar Shahyar // گلنار شهیار
+      accessed: '2026-11-13'
   profile link:
   - value: https://open.spotify.com/artist/5MMdeXsdC74ObhxcMyAvoa
     references:
@@ -59,3 +66,84 @@ statements:
       credit:
         text: Ina Aydogan
         language: en
+  member of:
+  - value: Qatbht5
+    qualifiers:
+      role: vocals
+      start time:
+        date: '2011'
+      end time:
+        date: '2017'
+    references:
+    - source: db.musicaustria.at-en-node-201011
+      quote: '2011–2017 Sormeh: Sängerin'
+      accessed: '2026-11-13'
+  - value: Qbqvd9k
+    qualifiers:
+      role: vocals
+      start time:
+        date: '2011'
+      end time:
+        date: 2016?
+    references:
+    - source: db.musicaustria.at-en-node-201011
+      quote: '2011–2016(?) Choub: Sängerin'
+      accessed: '2026-11-13'
+  - value: Qp5hxrp
+    qualifiers:
+      role: vocals
+      start time:
+        date: '2012'
+    references:
+    - source: db.musicaustria.at-en-node-201011
+      quote: '2012–heute Gabbeh ensemble: Sängerin'
+      accessed: '2026-11-13'
+  - value: Qwh2kf7
+    qualifiers:
+      role: vocals
+      start time:
+        date: '2013'
+    references:
+    - source: db.musicaustria.at-en-node-201011
+      quote: '2013–heute Sehrang: Sängerin'
+      accessed: '2026-11-13'
+  - value: Q9kdmj8
+    qualifiers:
+      role: vocals
+      start time:
+        date: '2017'
+    references:
+    - source: db.musicaustria.at-en-node-201011
+      quote: '2017–heute Golnar & Mahan: Sängerin'
+      accessed: '2026-11-13'
+  life event:
+  - value:
+      text: zog sie 2008 nach Wien
+      language: de
+    qualifiers:
+      point in time:
+        date: '2008'
+    references:
+    - source: db.musicaustria.at-en-node-201011
+      quote: zog sie 2008 nach Wien
+      accessed: '2026-11-13'
+  - value:
+      text: Während der Quarantäne [Anm. Frühling 2020] war Shahyar Mitbegründerin von WE:Shape
+      language: de
+    qualifiers:
+      point in time:
+        date: '2020'
+      with:
+      - Q5vptv5
+      - Qrtebcw
+    references:
+    - source: db.musicaustria.at-en-node-201011
+      quote: Während der Quarantäne [Anm. Frühling 2020] war Shahyar Mitbegründerin von WE:Shape
+      accessed: '2026-11-13'
+  - value:
+      text: connecting her musical roots with folk music, jazz, experimental music, and improvisation.
+      language: en
+    references:
+    - source: www.mdw.ac.at-magazin-2021-02-22-alumnaimfokusgolnarshahyar-lang-en
+      quote: connecting her musical roots with folk music, jazz, experimental music, and improvisation.
+      accessed: '2026-11-13'

@@ -7,28 +7,38 @@ statements:
       language: en
     references:
     - source: ranafarhanmusic.com-music-0dd76ffdcc34
-      quote: |-
-        باز آ Baz A
+      quote: باز آ Baz A
       accessed: '2026-10-19'
+  - value:
+      text: باز آ
+      language: fa
+    references:
+    - source: ranafarhanmusic.com-music-0dd76ffdcc34
+      quote: باز آ Baz A
+      accessed: '2026-11-13'
   performer:
   - value: Qpfpxeg
     references:
     - source: ranafarhanmusic.com-music-0dd76ffdcc34
-      quote: |-
-        باز آ Baz A
+      quote: باز آ Baz A
       accessed: '2026-10-19'
   listen link:
   - value: https://music.apple.com/us/album/baz-a-ep/1638046109
     references:
     - source: music.apple.com-us-album-baz-a-ep-1638046109-558ccdba5743
-      quote: |-
-        Baz A - EP
+      quote: 'Baz A - EP
+
         Rana Farhan
+
         Worldwide · 2022
+
         Preview
+
         August 12, 2022
+
         5 songs, 20 minutes
-        ℗ 2022 Rana Farhan
+
+        ℗ 2022 Rana Farhan'
       accessed: '2026-10-19'
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/d1/a0/de/d1a0def8-fc33-a1cb-f05c-aed71320e03d/198004132626.jpg/600x600bf-60.jpg
@@ -38,14 +48,19 @@ statements:
         language: en
     references:
     - source: music.apple.com-us-album-baz-a-ep-1638046109-558ccdba5743
-      quote: |-
-        Baz A - EP
+      quote: 'Baz A - EP
+
         Rana Farhan
+
         Worldwide · 2022
+
         Preview
+
         August 12, 2022
+
         5 songs, 20 minutes
-        ℗ 2022 Rana Farhan
+
+        ℗ 2022 Rana Farhan'
       accessed: '2026-10-19'
   release date:
   - value:

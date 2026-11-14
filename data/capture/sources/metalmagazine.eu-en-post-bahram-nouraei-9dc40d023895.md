@@ -7,6 +7,7 @@ tier: journalism
 publisher: Metal Magazine
 about:
 - Bahram Nouraei
+archive: https://web.archive.org/web/*/https://metalmagazine.eu/en/post/bahram-nouraei
 status: processed
 ---
 
@@ -55,3 +56,9 @@ status: processed
 > sampling beats which contained familiar sounds helped us create a deeper connection with the music taste that was already established in Iran
 
 > this caused some copyright issues as the beats we were using has not been cleared in terms of representation and reproduction rights.
+
+> I wrote that album in a period of time that I was watching a lot of Christopher Nolan movies such as Memento.
+
+Answer to reverse-chronology question, first sentence. Read 2026-11-13.
+
+Existing passages rechecked in the full written interview on 2026-11-13: upbringing question; Letter to the President origin; reverse chronology; sampling; Khodha; and Peeleh formation. No audio testimony used.

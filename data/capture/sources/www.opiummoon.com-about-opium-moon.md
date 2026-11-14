@@ -1,0 +1,33 @@
+---
+url: https://www.opiummoon.com/about-opium-moon
+title: About Opium Moon
+kind: web page
+language: en
+tier: own
+about:
+- Hamid Saeidi
+status: processed
+archive: https://web.archive.org/web/20260521051408/https://www.opiummoon.com/about-opium-moon
+---
+
+> Iranian santoor master Hamid Saeidi
+
+Page text, read 2026-11-13.
+
+> bassist Itai Disraeli
+
+Page text, read 2026-11-13.
+
+> American percussionist M.B. Gordy
+
+Page text, read 2026-11-13.
+
+> Canadian-American violinist Lili Haydn
+
+Page text, read 2026-11-13.
+
+> Opium Moon
+
+Page text, read 2026-11-13.
+
+Wayback availability API reported an available status-200 snapshot on 2026-11-13. Snapshot contents were not reread.

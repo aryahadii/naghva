@@ -22,10 +22,27 @@ statements:
   - value: Q49prrc
     references:
     - source: www.sixdegreesrecords.com-niyaz-sumud-acoustic-ep
-      quote: “Naseem” features a duet between Azam’s voice and Niyaz percussionist and Flute player Habib Meftah Boucheri on his self-made flute playing a haunting melody.
+      quote: “Naseem” features a duet between Azam’s voice and Niyaz percussionist and Flute player Habib Meftah
+        Boucheri on his self-made flute playing a haunting melody.
       accessed: '2026-10-19'
     qualifiers:
       role: flute
+  - value: Qm7dsfg
+    qualifiers:
+      role:
+      - vocals
+      - santur
+    references:
+    - source: www.sixdegreesrecords.com-niyaz-sumud-acoustic-ep
+      quote: It features a fiery duet performance between Azam and Loga on these instruments.
+      accessed: '2026-11-13'
+      locator: Sahar, Azam on santour; Naseem description separately identifies her voice
+  - value: Qce35vn
+    references:
+    - source: www.sixdegreesrecords.com-niyaz-sumud-acoustic-ep
+      quote: It features a fiery duet performance between Azam and Loga on these instruments.
+      accessed: '2026-11-13'
+      locator: Sahar, Loga on Turkish djumbush
   release date:
   - value:
       date: '2013'
@@ -70,5 +87,6 @@ statements:
   - value: https://music.apple.com/tr/album/sumud-the-acoustic-ep/624595402
     references:
     - source: music.apple.com-tr-album-sumud-the-acoustic-ep-624595402
-      quote: 'Preview Sumud - The Acoustic - EP by Niyaz on Apple Music.  2013.  6 Songs. Duration: 29 minutes. Buy the album for ₺5,94. Songs start at ₺0,99.'
+      quote: 'Preview Sumud - The Acoustic - EP by Niyaz on Apple Music.  2013.  6 Songs. Duration: 29 minutes.
+        Buy the album for ₺5,94. Songs start at ₺0,99.'
       accessed: '2026-10-19'

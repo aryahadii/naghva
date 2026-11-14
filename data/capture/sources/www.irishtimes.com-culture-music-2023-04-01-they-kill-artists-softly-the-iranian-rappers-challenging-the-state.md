@@ -1,5 +1,5 @@
 ---
-url: https://www.irishtimes.com/culture/music/2023/04/01/they-kill-artists-softly-the-iranian-rappers-challenging-the-state
+url: https://www.irishtimes.com/culture/music/2023/04/01/they-kill-artists-softly-the-iranian-rappers-challenging-the-state/
 title: '‘They kill artists softly’: The Iranian rappers challenging the state'
 kind: web page
 language: en
@@ -26,3 +26,11 @@ archive: https://web.archive.org/web/20260310065219/https://www.irishtimes.com/c
 > By 2010 Hichkas had fled the country, dropping the anthemic Yeh ruz-e khub miyad (A good day will come) as his flight took off from Mehrabad Airport. According to testimony in Siamdoust’s Soundtrack of the Revolution, Hichkas had been nudged to leave by the regime.
 
 Feature on Iranian rap and the state; read 2026-11-09.
+
+> the basement of his friend’s grandmother’s house, which had a computer and a dial-up internet connection
+
+Language of protest, paragraph beginning “He and his fellow rappers”. Read 2026-11-13.
+
+> making music using downloaded beats.
+
+Same sentence, concluding phrase. Read 2026-11-13.

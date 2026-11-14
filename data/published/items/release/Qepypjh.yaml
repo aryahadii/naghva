@@ -9,6 +9,14 @@ statements:
     - source: music.apple.com-us-album-nine-heavens-279447962-790eec6ad36c
       quote: Nine Heavens by Niyaz on Apple Music
       accessed: '2026-10-19'
+  - value:
+      text: ۹ سپهر
+      language: fa
+    references:
+    - source: www.radiofarda.com-a-f35_nyaz_9heavens-1377749.html-73dd9877464b
+      quote: نیاز با «۹ سپهر» باز می‌گردد
+      accessed: '2026-11-13'
+      locator: Title
   performer:
   - value: Q9bb4a8
     references:
@@ -41,3 +49,12 @@ statements:
       credit:
         text: Apple Music
         language: en
+  contributor:
+  - value: Qzxe9t4
+    qualifiers:
+      role: producer
+    references:
+    - source: www.wamc.org-2008-10-12-niyaz-from-iran-to-india-to-los-angeles-551824662596
+      quote: The record, produced by third member Carmen Rizzo
+      accessed: '2026-11-13'
+      locator: Written report, first paragraph

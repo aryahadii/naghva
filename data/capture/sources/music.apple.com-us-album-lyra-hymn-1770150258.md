@@ -47,3 +47,9 @@ status: processed
 > To Ra Man Chashm Dar Raham (feat. Peter Soleimanipour)
 
 > https://music.apple.com/us/song/to-ra-man-chashm-dar-raham-feat-peter-soleimanipour/1770150749
+
+> چنگ و سرود
+
+Original complete release artwork, visually transcribed2026-11-13; original image hosted by Apple Music.
+
+Wayback availability lookup on 2026-11-13 returned no snapshot for this URL.

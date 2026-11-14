@@ -40,10 +40,12 @@ statements:
   - value: https://i1.sndcdn.com/avatars-Eh38xm8FzwQViVmU-W3VLrQ-t500x500.jpg
     references:
     - source: soundcloud.com-kingraam-c3f3d4a5d375
-      quote: Stream King Raam music | Listen to songs, albums, playlists for free on SoundCloud
+      quote: |-
+        Stream King Raam music | Listen to songs, albums, playlists for free on SoundCloud
       accessed: '2026-10-19'
     - source: soundcloud.com-kingraam-c3f3d4a5d375
-      quote: https://i1.sndcdn.com/avatars-Eh38xm8FzwQViVmU-W3VLrQ-t500x500.jpg
+      quote: |-
+        https://i1.sndcdn.com/avatars-Eh38xm8FzwQViVmU-W3VLrQ-t500x500.jpg
       accessed: '2026-10-19'
     qualifiers:
       credit:
@@ -53,26 +55,80 @@ statements:
   - value: https://soundcloud.com/kingraam
     references:
     - source: soundcloud.com-kingraam-c3f3d4a5d375
-      quote: Stream King Raam music | Listen to songs, albums, playlists for free on SoundCloud
+      quote: |-
+        Stream King Raam music | Listen to songs, albums, playlists for free on SoundCloud
       accessed: '2026-10-19'
     - source: soundcloud.com-kingraam-c3f3d4a5d375
-      quote: https://soundcloud.com/kingraam
+      quote: |-
+        https://soundcloud.com/kingraam
       accessed: '2026-10-19'
   - value: https://kingraam.bandcamp.com
     references:
     - source: kingraam.bandcamp.com
-      quote: Songs of the Wolves | King Raam
+      quote: |-
+        Songs of the Wolves | King Raam
       accessed: '2026-10-19'
     - source: kingraam.bandcamp.com
-      quote: https://kingraam.bandcamp.com
+      quote: |-
+        https://kingraam.bandcamp.com
       accessed: '2026-10-19'
   - value: https://www.youtube.com/c/KingRaam
     references:
     - source: www-youtube-com-c-kingraam-6639dad528f7
-      quote: King Raam
+      quote: |-
+        King Raam
       accessed: '2026-11-03'
   - value: https://music.apple.com/ae/artist/king-raam/429494577
     references:
     - source: music.apple.com-ae-artist-king-raam-429494577-e73edda87990
-      quote: King Raam
+      quote: |-
+        King Raam
       accessed: '2026-11-03'
+  life event:
+  - value:
+      text: یکی‌ از دوستانم گیتارش را خانهٔ من جا گذشت
+      language: fa
+    references:
+    - source: media.hamyaari.ca-2022-09-05-d9-85-d8-b1-d9-88-d8-b1-db-8c--d8-a8-d8-b1--d9-86-d8-b2-d8-af-db-8c-da-a9--d8-a8-7d54fc23894d
+      quote: |-
+        یکی‌ از دوستانم گیتارش را خانهٔ من جا گذشت
+      accessed: '2026-11-13'
+  - value:
+      text: حدود سال ۲۰۰۴ گروه هایپرنوا را راه انداختم
+      language: fa
+    references:
+    - source: media.hamyaari.ca-2022-09-05-d9-85-d8-b1-d9-88-d8-b1-db-8c--d8-a8-d8-b1--d9-86-d8-b2-d8-af-db-8c-da-a9--d8-a8-7d54fc23894d
+      quote: |-
+        حدود سال ۲۰۰۴ گروه هایپرنوا را راه انداختم، و گروه ما شروع کرد به موزیک‌زدن در زیرزمین‌های تهران و گذاشتن اجرا‌های غیرقانونی.
+      accessed: '2026-11-13'
+  - value:
+      text: Raam launched his solo career in Toronto in 2011 with Songs of the Wolves
+      language: en
+    references:
+    - source: www.kingraam.com-about-1-5dc4628ce328
+      quote: |-
+        Raam launched his solo career in Toronto in 2011 with Songs of the Wolves
+      accessed: '2026-11-13'
+    qualifiers:
+      point in time:
+        date: '2011'
+  - value:
+      text: piece developed during his SHIM:NYC residency
+      language: en
+    references:
+    - source: artisticfreedominitiative.org-artists-king-raam
+      quote: |-
+        piece developed during his SHIM:NYC residency
+      accessed: '2026-11-13'
+  - value:
+      text: اولین سینگله از آلبوم‌های جدیدمون “سفید تیره/ سیاه تند”
+      language: fa
+    references:
+    - source: soundcloud.com-kingraam-astronaut-fazanavard
+      quote: |-
+        اولین سینگله از آلبوم‌های جدیدمون “سفید تیره/ سیاه تند”
+      accessed: '2026-11-13'
+    qualifiers:
+      about: Qk9jpad
+      point in time:
+        date: '2022-08-25'

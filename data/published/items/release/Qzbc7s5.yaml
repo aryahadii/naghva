@@ -1,0 +1,36 @@
+id: Qzbc7s5
+type: release
+statements:
+  name:
+  - value:
+      text: Sad Bar
+      language: en
+    references:
+    - source: apple-music-1488720924-edition
+      quote: 'Listen to Sad Bar - Single by Pallett on Apple Music. 2017. 1 Song. Duration: 3 minutes.'
+      accessed: '2026-11-13'
+  performer:
+  - value: Qq5328q
+    references:
+    - source: apple-music-1488720924-edition
+      quote: 'Listen to Sad Bar - Single by Pallett on Apple Music. 2017. 1 Song. Duration: 3 minutes.'
+      accessed: '2026-11-13'
+  release date:
+  - value:
+      date: '2017-05-29'
+    references:
+    - source: apple-music-1488720924-edition
+      quote: '"datePublished":"2017-05-29"'
+      accessed: '2026-11-13'
+  listen link:
+  - value: https://music.apple.com/us/album/sad-bar-single/1488720924
+    references:
+    - source: apple-music-1488720924-edition
+      quote: 'Listen to Sad Bar - Single by Pallett on Apple Music. 2017. 1 Song. Duration: 3 minutes.'
+      accessed: '2026-11-13'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/c8/18/72/c8187221-4aab-9b75-1355-41a8580ac955/4011725541378_cover.jpg/600x600bf-60.jpg
+    references:
+    - source: apple-music-1488720924-edition
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/c8/18/72/c8187221-4aab-9b75-1355-41a8580ac955/4011725541378_cover.jpg/600x600bf-60.jpg
+      accessed: '2026-11-13'

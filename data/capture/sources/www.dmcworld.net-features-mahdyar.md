@@ -4,6 +4,7 @@ title: Mahdyar
 kind: interview
 language: en
 publisher: DMC World Magazine
+archive: https://web.archive.org/web/*/https://www.dmcworld.net/features/mahdyar/
 status: processed
 ---
 
@@ -12,3 +13,17 @@ status: processed
 > I practiced violin and studied classical music for 6 years with different private tutors and then I got bored of it and went on to study middle eastern music for 4 years with another private tutor. So I can’t say it was my idea, it was a combination.
 
 > In Iran, specially at that time, there was no such thing as “industry”. Persian hip hop was at its first days and rappers were using downloaded instrumentals from the internet. I met few rappers through graffiti and told them I can make music for them using Iranian instruments so we can come up with our own version hip hop instead of copying American hip hop. I became a well known producer quite fast and from there I went on to make other types of music such as electronic, fusion and film music.
+
+> I used my visa for Cannes festival and left Iran in 2009.
+
+Answer to question about government clampdowns, final clause. Read 2026-11-13.
+
+> closed every studio
+
+Answer to question about government clampdowns; the sentence identifies the studios they used. Read 2026-11-13.
+
+> They arrested many of the artists
+
+Same answer; the sentence continues by identifying artists he worked with. Read 2026-11-13.
+
+Complete written interview, particularly early lessons, graffiti connections and leaving Iran. Existing quoted passages rechecked against the original on 2026-11-13. No audio testimony used.

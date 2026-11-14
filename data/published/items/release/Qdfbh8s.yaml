@@ -1,0 +1,52 @@
+id: Qdfbh8s
+type: release
+statements:
+  name:
+  - value:
+      text: Faint
+      language: en
+    references:
+    - source: music.apple.com-us-album-faint-single-1119554078
+      quote: |-
+        "name":"Faint - Single"
+      accessed: '2026-11-13'
+  performer:
+  - value: Qgfaqj2
+    references:
+    - source: music.apple.com-us-album-faint-single-1119554078
+      quote: |-
+        "name":"Ash Koosha"
+      accessed: '2026-11-13'
+  contributor:
+  - value: Q92jv3h
+    qualifiers:
+      role:
+      - producer
+    references:
+    - source: mahdyar.com-2f54d242827b
+      quote: |-
+        Project: ‘Faint’ single
+        Role: Co-producer
+      accessed: '2026-11-13'
+  release date:
+  - value:
+      date: '2016-06-03'
+    references:
+    - source: music.apple.com-us-album-faint-single-1119554078
+      quote: |-
+        "datePublished":"2016-06-03"
+      accessed: '2026-11-13'
+  listen link:
+  - value: https://music.apple.com/us/album/faint-single/1119554078
+    references:
+    - source: music.apple.com-us-album-faint-single-1119554078
+      quote: |-
+        "name":"Faint - Single"
+      accessed: '2026-11-13'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music18/v4/cf/ec/c0/cfecc0b3-db45-55bb-ab8a-68d51deb58ba/5054429005516.png/632x632bb.webp
+    references:
+    - source: music.apple.com-us-album-faint-single-1119554078
+      quote: |-
+        https://is1-ssl.mzstatic.com/image/thumb/Music18/v4/cf/ec/c0/cfecc0b3-db45-55bb-ab8a-68d51deb58ba/5054429005516.png/632x632bb.webp
+      accessed: '2026-11-13'

@@ -5,6 +5,7 @@ language: en
 publisher: Rana Farhan
 status: processed
 tier: own
+archive: https://web.archive.org/web/20240724083920/https://ranafarhanmusic.com/music
 ---
 
 > باز آ Baz A
@@ -22,3 +23,15 @@ tier: own
 > گفتگوی عشق Talking 'bout Love
 
 > بولوار عطار Attar Boulevard
+
+> Recorded during lockdown. This five song E.P.
+
+Baz A description, read2026-11-13.
+
+Complete current written artist page reopened2026-11-13. Existing passages checked in context. The music page presents the2025album plus six older Persian releases; the earliest English standards album remains identifiable from biography and contemporaneous organizer text.
+
+Wayback availability lookup on 2026-11-13 returned the snapshot recorded in metadata; the lookup is not a claim that the archived page was independently read.
+
+> Combining traditional Persian poetry with the classic sound of jazz!
+
+Your Wish description, read 2026-11-13.

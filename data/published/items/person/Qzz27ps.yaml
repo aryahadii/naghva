@@ -1,0 +1,20 @@
+id: Qzz27ps
+type: person
+statements:
+  name:
+  - value:
+      text: Mohammad Haydari
+      language: en
+    references:
+    - source: music.apple.com-us-song-1708660130
+      quote: '"name":"Mohammad Haydari","roleNames":["Songwriter"]'
+      accessed: '2026-11-13'
+      locator: Song credit metadata
+  - value:
+      text: Mohammad Heidari
+      language: en
+    references:
+    - source: www.youtube.com-watch-v-b9qyrgff2yu
+      quote: 'Original Composer: Mohammad Heidari'
+      accessed: '2026-11-13'
+      locator: Official video description

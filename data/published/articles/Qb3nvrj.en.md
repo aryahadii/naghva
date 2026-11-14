@@ -170,6 +170,34 @@ references:
     source: www.mehrnews.com-news-5986580-chaartaar
     quote: تمام حق و حقوق مادی و معنوی اشعار احسان حائری که در آلبوم من منتشرشده به ایشان پرداخت شده، علاوه بر پرداخت هزار دلار به ازای هر شعر حقوق معنوی ترانه‌های ایشان هم رعایت شده و همه این اشعار در همه جا به اسم خودش ثبت شده و هر زمان که ترانه‌ای را از احسان خواندم. انتشارش قطعا با نام خودش بوده مثل تمامی سالهای همکاری‌مان.
     accessed: '2026-11-06'
+  milad-date:
+    source: honaronline.ir-55432-chaartaar-at-milad
+    quote: مرکز همایش های برج میلاد شب گذشته 27 خردادماه میزبان طرفداران گروه چارتار بود.
+    accessed: '2026-11-13'
+  milad-year:
+    source: honaronline.ir-55432-chaartaar-at-milad
+    quote: ۱۳۹۳/۰۳/۲۸
+    accessed: '2026-11-13'
+  train:
+    source: honaronline.ir-55432-chaartaar-at-milad
+    quote: کنسرت با آهنگ "قطار" افتتاح شد و از همان چند خط اولِ ترانه، مردم هم‌خوانی با خواننده را آغاز کردند
+    accessed: '2026-11-13'
+  bows:
+    source: honaronline.ir-55432-chaartaar-at-milad
+    quote: پیش از آغاز قطعه دوم به نام "هندسه"، دو نوازنده کمانچه، بهزاد حسن‌زاده و نازنین غنی‌زاده نیز به صحنه پیوستند.
+    accessed: '2026-11-13'
+  rot-date:
+    source: persiandutch.com-chaartaar-rotterdam-2016
+    quote: Chaartaar gaf een concert in Nederland op 23 september 2016. Het concert was georganiseerd in de Jurriaanse Zaal (De Doelen) in Rotterdam.
+    accessed: '2026-11-13'
+  rot-sound:
+    source: persiandutch.com-chaartaar-rotterdam-2016
+    quote: بخش نخست برنامه به دلیل مشکلاتی درصدابرداری و نارضایتی مردم در پی آن، زودتر به پایان رسید.
+    accessed: '2026-11-13'
+  rot-singing:
+    source: persiandutch.com-chaartaar-rotterdam-2016
+    quote: این مشکلات در بخش دوم کنسرت تا حد زیادی برطرف شد و شنوندگان با همخوانی بسیاری از ترانه ها، گروه را همراهی کردند.
+    accessed: '2026-11-13'
 ---
 
 Chaartaar is an Iranian band formed in 2011 by singer Arman Garshasbi, composer Arash Fathi, poet and lyricist [Ehsan Haeri](/en/ehsan-haeri-r62/) and arranger [Aeen Ahmadifar](/en/aeen-ahmadifar-zb5/). They bring Persian singing and newly written lyrics into electronic arrangements, with each member contributing to the songs as they take shape.[^formed][^members][^electronic][^method] They began by sharing songs online, made their debut album [*Baaraan Toee*](#baaraan-toee-9rf) in 2014, and followed it with two more albums and a series of singles.[^online][^debut][^second][^third][^adineh]
@@ -188,9 +216,15 @@ Fathi had studied Western music and approached Persian modes through that traini
 
 *Baaraan Toee* came out in 2014. The band then began performing at Arikeh Iranian in Tehran and took its concerts to cities including Shiraz, Rasht, Kerman and Isfahan.[^debut][^stages]
 
+## From Milad Tower to Rotterdam
+
+At Milad Tower in Tehran in June 2014, the audience joined in from the opening lines of “Ghatar.” The second song, “Hendeseh,” brought a change of sound: two kamancheh players, Behzad Hassanzadeh and Nazanin Ghanizadeh, came onstage. The bowed part that Ahmadifar had made room for on the record was now in the hands of two guest musicians.[^milad-date][^milad-year][^train][^bows][^kamancheh]
+
+On 23 September 2016 the group played the Jurriaanse Zaal at De Doelen in Rotterdam. Sound problems cut the first half short. After the interval, the local reporter heard the audience singing along to one song after another.[^rot-date][^rot-sound][^rot-singing]
+
 ## Further albums and singles
 
-Chaartaar released its second album, [*Jaddeh Miraghsad*](#jaddeh-miraghsad-8d3), in 2015, with the same four members writing, arranging and singing. Its third album, [*Darya Kojaast*](#darya-kojaast-mck), followed in 2018. The group had already introduced “Benevis” as a single before including it on that album.[^second][^second-roles][^second-date][^third][^third-date]
+Chaartaar released its second album, [*Jaddeh Miraghsad*](#jaddeh-miraghsad-8d3), in 2015, with the same four members in their established roles. Its third album, [*Darya Kojaast*](#darya-kojaast-mck), followed in 2018. The group had already introduced “Benevis” as a single before including it on that album.[^second][^second-roles][^second-date][^third][^third-date]
 
 The band continued making singles after the third album. In 2019, guitarist Navid Zomorodi composed and played on [“Sedayam Bezan”](#sedayam-bezan-single-ckv), and played guitar on [“Begoo Ke Zendeim”](#begoo-ke-zendeim-single-77t).[^navid][^sedayam-date][^begoo][^begoo-date] In 2020 Chaartaar dedicated [“Iran”](#iran-single-ehm) to broken hearts, and [“Gele Kon”](#gele-kon-single-34c) to the women of Iran.[^iran][^iran-date][^gele][^gele-date]
 

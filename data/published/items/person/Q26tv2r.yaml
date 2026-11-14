@@ -1,0 +1,21 @@
+id: Q26tv2r
+type: person
+statements:
+  name:
+  - value:
+      text: Erik Satie
+      language: en
+    references:
+    - source: www.youtube.com-watch-v-dtyomxqjj94
+      quote: |-
+        Original Theme: Erik Satie
+      accessed: '2026-11-13'
+  # Editorial Persian display spelling; source uses the Latin name.
+  - value:
+      text: اریک ساتی
+      language: fa
+    references:
+    - source: www.youtube.com-watch-v-dtyomxqjj94
+      quote: |-
+        Original Theme: Erik Satie
+      accessed: '2026-11-13'

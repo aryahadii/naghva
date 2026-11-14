@@ -1,0 +1,20 @@
+id: Qbqvd9k
+type: act
+statements:
+  name:
+  - value:
+      text: Choub
+      language: en
+    references:
+    - source: db.musicaustria.at-en-node-201011
+      quote: '2011–2016(?) Choub: Sängerin'
+      accessed: '2026-11-13'
+  - value:
+      text: چوب
+      language: fa
+    references:
+    - source: db.musicaustria.at-en-node-201011
+      quote: |-
+        2011–2016(?) Choub: Sängerin
+      accessed: '2026-11-13'
+    editorial: true

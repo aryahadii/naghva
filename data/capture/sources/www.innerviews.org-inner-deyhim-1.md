@@ -25,3 +25,9 @@ publisher: www.innerviews.org
 
 > You’ve done a lot of work with Bill Laswell. Describe your working relationship.
 > When my album Madman of God came out, I was supposed to do a remix. I told Crammed Records that I wanted to work with Bill and they got really excited. Bill agreed, but really liked the album and felt it didn’t need remixing. But he got together with Karsh Kale and came up with some great ideas.
+
+> compose the music and create a persona for it
+
+Answer on the invitation to make Turbulent with Shirin Neshat; full written interview reopened, read 2026-11-13.
+
+Wayback availability lookup on 2026-11-13 returned no snapshot for this URL.

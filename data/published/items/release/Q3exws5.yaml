@@ -1,0 +1,45 @@
+id: Q3exws5
+type: release
+statements:
+  name:
+  - value:
+      text: Where We Are Gathered
+      language: en
+    references:
+    - source: music.apple.com-us-album-where-we-are-gathered-1706180556
+      quote: |-
+        Where We Are Gathered
+      accessed: '2026-11-13'
+  release date:
+  - value:
+      date: '2023-09-15'
+    references:
+    - source: music.apple.com-us-album-where-we-are-gathered-1706180556
+      quote: |-
+        "datePublished":"2023-09-15"
+      accessed: '2026-11-13'
+  performer:
+  - value: Qamf8m9
+    references:
+    - source: music.apple.com-us-album-where-we-are-gathered-1706180556
+      quote: |-
+        [{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/opium-moon/1394848433","name":"Opium Moon"}]
+      accessed: '2026-11-13'
+  listen link:
+  - value: https://music.apple.com/us/album/where-we-are-gathered/1706180556
+    references:
+    - source: music.apple.com-us-album-where-we-are-gathered-1706180556
+      quote: |-
+        Where We Are Gathered
+      accessed: '2026-11-13'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7f/03/1a/7f031a49-64f9-0869-ee1c-5952ca58fe4a/025041146425_cover.jpg/1200x1200bb.jpg
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-where-we-are-gathered-1706180556
+      quote: |-
+        Where We Are Gathered
+      accessed: '2026-11-13'

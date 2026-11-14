@@ -7,9 +7,16 @@ statements:
       language: en
     references:
     - source: nesaazadikhah.bandcamp.com-album-nesa-azadikhah-truth-will-out-ep-63aac56722ef
-      quote: |-
-        Nesa Azadikhah is a Iranian DJ, music producer, composer, sound artist, and musician.
+      quote: Nesa Azadikhah is a Iranian DJ, music producer, composer, sound artist, and musician.
       accessed: '2026-10-19'
+  - value:
+      text: نسا آزادی‌خواه
+      language: fa
+    references:
+    - source: bahramnouraei.com-fa-discography-52c0e95c2db5
+      quote: |-
+        آهنگسازان: پیماندگار، نسا آزادی‌خواه، Tegh، قدسی، HOLLY
+      accessed: '2026-11-13'
   image:
   - value: https://f4.bcbits.com/img/0025376607_21.jpg
     references:
@@ -32,3 +39,44 @@ statements:
     - source: nesaazadikhah.bandcamp.com-92235bc48914
       quote: https://nesaazadikhah.bandcamp.com/
       accessed: '2026-10-19'
+  birth date:
+  - value:
+      date: '1984'
+    references:
+    - source: deeprhythms.com-guest_mixes-101_nesa_azadikhah_for_deeprhythms
+      quote: |-
+        I was born in 1984 in Tehran/Iran.
+      accessed: '2026-11-13'
+  life event:
+  - value:
+      text: Deep House Tehran a été lancé en 2014.
+      language: fr
+    qualifiers:
+      point in time:
+        date: '2014'
+    references:
+    - source: www.lestrans.com-article-nesa-azadikhah-porte-etendard-de-la-scene-electronique-iranienne
+      quote: |-
+        Deep House Tehran a été lancé en 2014.
+      accessed: '2026-11-13'
+  - value:
+      text: Before I relocated to Paris in October 2023
+      language: en
+    qualifiers:
+      point in time:
+        date: 2023-10
+    references:
+    - source: mixmag.net-feature-the-mix-023-nesa-azadikhah-interview-techno-breaks-iran-tehran-f3e1af0cbe8e
+      quote: |-
+        Before I relocated to Paris in October 2023
+      accessed: '2026-11-13'
+  - value:
+      text: by label co-founders Nesa Azadikhah and AIDA.
+      language: en
+    qualifiers:
+      about: Qpm9m5c
+    references:
+    - source: apranikrecords.bandcamp.com-album-nesa-azadikhah-aida-polychrome-ep
+      quote: |-
+        by label co-founders Nesa Azadikhah and AIDA.
+      accessed: '2026-11-13'

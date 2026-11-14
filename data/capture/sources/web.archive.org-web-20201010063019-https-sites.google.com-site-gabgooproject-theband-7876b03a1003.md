@@ -19,3 +19,11 @@ Page text, read 2026-10-19.
 > Their first project was realized in July 2006 with guest musicians Dara Daraee , Darshan Jut Singh , Arash Eslami , and performance by Mehdi Saki .
 
 > The band members have now followed their nomadic journeys and are in different locations around the world, but they keep on working together on their next project via internet.
+
+> local tunes and instruments from various regions of Iran
+
+Page text, read 2026-11-13.
+
+> musical inputs from all over the world
+
+Page text, read 2026-11-13.

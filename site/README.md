@@ -155,6 +155,11 @@ taking an image down is: remove it from the record, `media:add`,
 `R2_ACCOUNT_ID`, `R2_ACCESS_KEY_ID`, `R2_SECRET_ACCESS_KEY`, and
 `R2_BUCKET` if it isn't `naghva-media`.
 
+Cloudflare builds also keep originals and resized copies in
+the `naghva-media/` folder inside npm's configured cache, which Workers
+Builds restores when Build Cache is enabled. It survives `npm ci`. A cold cache still downloads and resizes the images; later
+builds reuse them. Copies are keyed by image hash, width and encoder version.
+
 In CI, only builds of `main` get the read-only key (the `R2_READ_*`
 secrets), and keep the originals in the Actions cache, so a build reads from
 R2 only when `media.json` changes. Once Cloudflare deploys are on,
@@ -188,7 +193,8 @@ tools/test_derive.py
 site/
 ├── astro.config.ts
 ├── addresses.json        every address issued, so none ever breaks
-├── wrangler.jsonc        Cloudflare: serve dist/ as static files
+├── wrangler.jsonc        Cloudflare: serve dist/ as static files, plus the relay
+├── worker/relay.ts       Analytics relay: /relay/* to PostHog EU
 ├── integrations/         derive again on data edits; write _redirects
 ├── scripts/              check-output.mjs: the built site's checks
 ├── public/               favicon, _headers
@@ -260,19 +266,27 @@ the production workflow reads GitHub repository variables with those same
 names. Use the EU project's ingestion host from Project settings. These are
 build-time values: changing them requires rebuilding the static site. An empty
 value disables analytics. Never put a personal API key in either variable.
+`PUBLIC_POSTHOG_HOST` is either PostHog's host (`https://eu.i.posthog.com`) or
+`/relay`, the site's own address for events: `worker/relay.ts` forwards event
+posts under `/relay/` to PostHog EU, with the visitor's IP for the cookieless
+hash and without cookies or other headers, and nothing else. It lets readers
+whose blockers or networks stop PostHog's address still be counted. It runs
+only for `/relay/*`; every other request is served as static files.
 In PostHog's Project > Web analytics settings, enable cookieless tracking before
 releasing a configured build; otherwise PostHog discards these events.
 
 Tracking runs only on `naghva.com` and `naqva.com`, never on local/preview origins
 or fictional example pages, and respects Do Not Track and Global Privacy Control.
 The SDK uses `cookieless_mode: 'always'` and no person profiles. Replay, autocapture,
-surveys, heatmaps, error collection and performance collection are disabled.
+surveys, heatmaps, error collection and network timing are disabled.
 PostHog adds no cookies or local/session storage; the site's existing language
 preference still uses local storage.
 
 | Event | Meaning | Additional properties |
 | --- | --- | --- |
 | `$pageview` | A localized page load, or Back/Forward cache restore | language, page type, path, referring domain |
+| `$pageleave` | The reader leaves or hides the page | time on page, scroll and content depth (for bounce rate, session length and scroll depth) |
+| `$web_vitals` | Core Web Vitals of the page | LCP, CLS, FCP and INP values only, no element or URL detail |
 | `artist_viewed` | An artist page view | artist ID |
 | `listen_clicked` | A listening link opened, including from a release dialog | release ID, platform, artist ID when on an artist page |
 | `search_used` | First non-empty use of each search surface per document | home, header or results surface |
