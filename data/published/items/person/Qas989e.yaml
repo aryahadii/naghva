@@ -20,7 +20,8 @@ statements:
   - value: https://cdn.shopify.com/s/files/1/0498/7148/7131/files/Sussan-Deyhim-Portrait.jpg?v=1607670533
     references:
     - source: sussandeyhim.com-pages-about-me-c65d2c4dab67
-      quote: ABOUT ME — Sussan Deyhim GalleryAmazonAmazonAmerican ExpressDiners ClubDiscoverGoogle PayMastercardPayPalShop PayVisa
+      quote: ABOUT ME — Sussan Deyhim GalleryAmazonAmazonAmerican ExpressDiners ClubDiscoverGoogle PayMastercardPayPalShop
+        PayVisa
       accessed: '2026-10-19'
     - source: sussandeyhim.com-pages-about-me-c65d2c4dab67
       quote: https://cdn.shopify.com/s/files/1/0498/7148/7131/files/Sussan-Deyhim-Portrait.jpg?v=1607670533
@@ -33,7 +34,8 @@ statements:
   - value: https://youtube.com/sussandeyhim
     references:
     - source: sussandeyhim.com-pages-about-me-c65d2c4dab67
-      quote: ABOUT ME — Sussan Deyhim GalleryAmazonAmazonAmerican ExpressDiners ClubDiscoverGoogle PayMastercardPayPalShop PayVisa
+      quote: ABOUT ME — Sussan Deyhim GalleryAmazonAmazonAmerican ExpressDiners ClubDiscoverGoogle PayMastercardPayPalShop
+        PayVisa
       accessed: '2026-10-19'
     - source: sussandeyhim.com-pages-about-me-c65d2c4dab67
       quote: http://youtube.com/sussandeyhim
@@ -43,3 +45,60 @@ statements:
     - source: open.spotify.com-artist-5jdc4moqdrxmhoofdzjy0f-366a137b648e
       quote: https://open.spotify.com/artist/5JdC4MOQDRxMHoofdZJY0F
       accessed: '2026-10-23'
+  life event:
+  - value:
+      text: I decided to choreograph and compose my own vocal music as the soundtrack.
+      language: en
+    references:
+    - source: cap.ucla.edu-sites-default-files-2024-11-sussandeyhimprogram.pdf
+      quote: I decided to choreograph and compose my own vocal music as the soundtrack.
+      accessed: '2026-11-13'
+      locator: PDF p7, first-person essay
+  - value:
+      text: I ended up recording my harmonic ideas myself
+      language: en
+    references:
+    - source: cap.ucla.edu-sites-default-files-2024-11-sussandeyhimprogram.pdf
+      quote: I ended up recording my harmonic ideas myself
+      accessed: '2026-11-13'
+      locator: PDF p8, 1983 composition paragraph
+    qualifiers:
+      point in time:
+        date: '1983'
+  - value:
+      text: compose the music and create a persona for it
+      language: en
+    references:
+    - source: www.innerviews.org-inner-deyhim-1
+      quote: compose the music and create a persona for it
+      accessed: '2026-11-13'
+      locator: Turbulent answer
+    qualifiers:
+      about: Q6s6bkf
+  - value:
+      text: موزه متروپولیتن نیویورک میزبان «خانه سیاه است»
+      language: fa
+    references:
+    - source: kayhan.london-1397-05-14-125550
+      quote: موزه متروپولیتن نیویورک میزبان «خانه سیاه است»
+      accessed: '2026-11-13'
+      locator: Written introduction, 14 Mordad 1397
+  - value:
+      text: Whispers From The Underworld, a 75-minute solo concert featuring her original compositions
+      language: en
+    references:
+    - source: sussandeyhim.com-pages-about-me-c65d2c4dab67
+      quote: Whispers From The Underworld, a 75-minute solo concert featuring her original compositions
+      accessed: '2026-11-13'
+      locator: Biography
+  - value:
+      text: by exchanging musical ideas through digital files
+      language: en
+    references:
+    - source: torstenrasch.bandcamp.com-album-songs-from-ur-1dcd5e84de2c
+      quote: by exchanging musical ideas through digital files
+      accessed: '2026-11-13'
+      locator: About; lockdown expansion of Eyewitness material
+    qualifiers:
+      about: Q2tag3g
+      with: Qbgmctn

@@ -7,11 +7,23 @@ statements:
       language: en
     references:
     - source: www.15questions.net-interview-siavash-amini-talks-sound-page-1-f73774c750c7
+      quote: 'Name: Siavash Amini
+
+        Occupation: Sound artist, composer
+
+        Nationality: Iranian'
+      accessed: '2026-10-19'
+  - value:
+      text: سیاوش امینی
+      language: fa
+    references:
+    - source: www.15questions.net-interview-siavash-amini-talks-sound-page-1-f73774c750c7
       quote: |-
         Name: Siavash Amini
         Occupation: Sound artist, composer
         Nationality: Iranian
-      accessed: '2026-10-19'
+      accessed: '2026-11-13'
+    editorial: true
   image:
   - value: https://f4.bcbits.com/img/0040303383_21.jpg
     references:
@@ -34,3 +46,33 @@ statements:
     - source: siavashamini.bandcamp.com-010aae405585
       quote: https://siavashamini.bandcamp.com/
       accessed: '2026-10-19'
+  life event:
+  - value:
+      text: I stopped playing electric guitar for a year and focused on learning music software and electronic music techniques
+        and history.
+      language: en
+    references:
+    - source: www.15questions.net-interview-siavash-amini-talks-sound-page-1-f73774c750c7
+      quote: |-
+        I stopped playing electric guitar for a year and focused on learning music software and electronic music techniques and history.
+      accessed: '2026-11-13'
+  - value:
+      text: He is the curator and a co-founder of “SET experimental art events” and “SETfest” in Tehran, Iran
+      language: en
+    references:
+    - source: siavashamini.com
+      quote: |-
+        He is the curator and a co-founder of “SET experimental art events” and “SETfest” in Tehran, Iran
+      accessed: '2026-11-13'
+  - value:
+      text: TAR was premiered in February 2017 as a part of CTM festival`s Fear Anger Love edition.
+      language: en
+    qualifiers:
+      point in time:
+        date: 2017-02
+      about: Qakg8tk
+    references:
+    - source: siavashamini.bandcamp.com-album-tar-cf0baebdf639
+      quote: |-
+        TAR was premiered in February 2017 as a part of CTM festival`s Fear Anger Love edition.
+      accessed: '2026-11-13'

@@ -7,54 +7,55 @@ statements:
       language: en
     references:
     - source: bahramnouraei.com-bio
-      quote: Bahram Nouraei — known simply as Bahram — was born in Tehran on April 25, 1988, and came of age inside
-        an underground that mostly borrowed the postures of Western hip-hop.
+      quote: |-
+        Bahram Nouraei — known simply as Bahram — was born in Tehran on April 25, 1988, and came of age inside an underground that mostly borrowed the postures of Western hip-hop.
       accessed: '2026-10-23'
   - value:
       text: Bahram
       language: en
     references:
     - source: bahramnouraei.com-bio
-      quote: Bahram Nouraei — known simply as Bahram — was born in Tehran on April 25, 1988, and came of age inside
-        an underground that mostly borrowed the postures of Western hip-hop.
+      quote: |-
+        Bahram Nouraei — known simply as Bahram — was born in Tehran on April 25, 1988, and came of age inside an underground that mostly borrowed the postures of Western hip-hop.
       accessed: '2026-10-23'
   - value:
       text: بهرام نورائی
       language: fa
     references:
     - source: bahramnouraei.com-bio
-      quote: بهرام نورائی
+      quote: |-
+        بهرام نورائی
       accessed: '2026-10-23'
   birth date:
   - value:
       date: '1988-04-25'
     references:
     - source: bahramnouraei.com-bio
-      quote: Bahram Nouraei — known simply as Bahram — was born in Tehran on April 25, 1988, and came of age inside
-        an underground that mostly borrowed the postures of Western hip-hop.
+      quote: |-
+        Bahram Nouraei — known simply as Bahram — was born in Tehran on April 25, 1988, and came of age inside an underground that mostly borrowed the postures of Western hip-hop.
       accessed: '2026-10-23'
   image:
   - value: https://upload.wikimedia.org/wikipedia/commons/8/8a/Bahram_Nouraei.jpg
     references:
     - source: commons.wikimedia.org-wiki-ile-ahram_-ouraei.jpg
-      quote: File:Bahram Nouraei.jpg - Wikimedia Commons
+      quote: |-
+        File:Bahram Nouraei.jpg - Wikimedia Commons
       accessed: '2026-10-19'
     - source: commons.wikimedia.org-wiki-ile-ahram_-ouraei.jpg
-      quote: https://upload.wikimedia.org/wikipedia/commons/8/8a/Bahram_Nouraei.jpg
+      quote: |-
+        https://upload.wikimedia.org/wikipedia/commons/8/8a/Bahram_Nouraei.jpg
       accessed: '2026-10-19'
     - source: commons.wikimedia.org-wiki-ile-ahram_-ouraei.jpg
-      quote: 'Author
-
-        Setareh Malekzadeh'
+      quote: |-
+        Author
+        Setareh Malekzadeh
       accessed: '2026-10-19'
     - source: commons.wikimedia.org-wiki-ile-ahram_-ouraei.jpg
-      quote: 'This file is licensed under the
-
+      quote: |-
+        This file is licensed under the
         Creative Commons
-
         Attribution 2.0 Generic
-
-        license.'
+        license.
       accessed: '2026-10-19'
     qualifiers:
       credit:
@@ -65,27 +66,91 @@ statements:
   - value: Qhm6fzw
     references:
     - source: bahramnouraei.com-bio
-      quote: Bahram Nouraei — known simply as Bahram — was born in Tehran on April 25, 1988, and came of age inside
-        an underground that mostly borrowed the postures of Western hip-hop.
+      quote: |-
+        Bahram Nouraei — known simply as Bahram — was born in Tehran on April 25, 1988, and came of age inside an underground that mostly borrowed the postures of Western hip-hop.
       accessed: '2026-10-23'
   profile link:
   - value: https://open.spotify.com/artist/57LWeRc7ybAWTsS2vS1GA7
     references:
     - source: bahramnouraei.com-3b1c10981649
-      quote: https://open.spotify.com/artist/57LWeRc7ybAWTsS2vS1GA7
+      quote: |-
+        https://open.spotify.com/artist/57LWeRc7ybAWTsS2vS1GA7
       accessed: '2026-10-23'
   - value: https://music.apple.com/us/artist/bahram/325178456
     references:
     - source: bahramnouraei.com-3b1c10981649
-      quote: https://music.apple.com/us/artist/bahram/325178456
+      quote: |-
+        https://music.apple.com/us/artist/bahram/325178456
       accessed: '2026-10-23'
   - value: https://soundcloud.com/bahramnouraei
     references:
     - source: bahramnouraei.com-3b1c10981649
-      quote: https://soundcloud.com/bahramnouraei
+      quote: |-
+        https://soundcloud.com/bahramnouraei
       accessed: '2026-10-23'
   - value: https://www.youtube.com/channel/UCeYaiksAjKAQ0xhEwVME2nA
     references:
     - source: bahramnouraei.com-3b1c10981649
-      quote: https://www.youtube.com/channel/UCeYaiksAjKAQ0xhEwVME2nA
+      quote: |-
+        https://www.youtube.com/channel/UCeYaiksAjKAQ0xhEwVME2nA
       accessed: '2026-10-23'
+  life event:
+  - value:
+      text: the basement of his friend’s grandmother’s house, which had a computer and a dial-up internet connection
+      language: en
+    references:
+    - source: www.irishtimes.com-culture-music-2023-04-01-they-kill-artists-softly-the-iranian-rappers-challenging-the-state
+      quote: |-
+        the basement of his friend’s grandmother’s house, which had a computer and a dial-up internet connection
+      accessed: '2026-11-13'
+  - value:
+      text: In 2009 he was briefly held in Tehran's Evin Prison
+      language: en
+    references:
+    - source: bahramnouraei.com-bio
+      quote: |-
+        In 2009 he was briefly held in Tehran's Evin Prison
+      accessed: '2026-11-13'
+    qualifiers:
+      point in time:
+        date: '2009'
+  - value:
+      text: move to Stockholm
+      language: en
+    references:
+    - source: bahramnouraei.com-bio
+      quote: |-
+        move to Stockholm
+      accessed: '2026-11-13'
+  - value:
+      text: I decided to write a song in the form of an open letter
+      language: en
+    references:
+    - source: metalmagazine.eu-en-post-bahram-nouraei-9dc40d023895
+      quote: |-
+        I decided to write a song in the form of an open letter
+      accessed: '2026-11-13'
+    qualifiers:
+      point in time:
+        date: '2007'
+  - value:
+      text: started a new artist collective called Peeleh (Coccon) back in 2019, aiming to create an inclusive and
+        cross-genre network of experts and creatives
+      language: en
+    references:
+    - source: metalmagazine.eu-en-post-bahram-nouraei-9dc40d023895
+      quote: |-
+        started a new artist collective called Peeleh (Coccon) back in 2019, aiming to create an inclusive and cross-genre network of experts and creatives
+      accessed: '2026-11-13'
+    qualifiers:
+      point in time:
+        date: '2019'
+  - value:
+      text: I wrote that album in a period of time that I was watching a lot of Christopher Nolan movies such as
+        Memento.
+      language: en
+    references:
+    - source: metalmagazine.eu-en-post-bahram-nouraei-9dc40d023895
+      quote: |-
+        I wrote that album in a period of time that I was watching a lot of Christopher Nolan movies such as Memento.
+      accessed: '2026-11-13'

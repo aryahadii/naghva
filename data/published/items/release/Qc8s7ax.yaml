@@ -7,16 +7,15 @@ statements:
       language: fa
     references:
     - source: rami.ir-taranehaye-rami-album-92bdb9e1377d
-      quote: |-
-        نام خواننده: ابراهیم منصفی نام آلبوم: ترانه‌های رامی نام ناشر: ماه ریز مهر سال انتشار: 1385 تعداد آهنگ ها: 16
+      quote: 'نام خواننده: ابراهیم منصفی نام آلبوم: ترانه‌های رامی نام ناشر: ماه ریز مهر سال انتشار: 1385 تعداد
+        آهنگ ها: 16'
       accessed: '2026-10-19'
   - value:
       text: Râmi's Songs
       language: en
     references:
     - source: music.apple.com-us-album-r-c3-a2mis-songs-568854238-8c1005bb082b
-      quote: |-
-        Râmi's Songs - Album by Ebrahim Monsefi - Apple Music
+      quote: Râmi's Songs - Album by Ebrahim Monsefi - Apple Music
       accessed: '2026-10-19'
   release date:
   - value:
@@ -24,15 +23,14 @@ statements:
       calendar: jalali
     references:
     - source: rami.ir-taranehaye-rami-album-92bdb9e1377d
-      quote: |-
-        نام خواننده: ابراهیم منصفی نام آلبوم: ترانه‌های رامی نام ناشر: ماه ریز مهر سال انتشار: 1385 تعداد آهنگ ها: 16
+      quote: 'نام خواننده: ابراهیم منصفی نام آلبوم: ترانه‌های رامی نام ناشر: ماه ریز مهر سال انتشار: 1385 تعداد
+        آهنگ ها: 16'
       accessed: '2026-10-19'
   - value:
       date: '2004-01-01'
     references:
     - source: music.apple.com-us-album-r-c3-a2mis-songs-568854238-8c1005bb082b
-      quote: |-
-        January 1, 2004
+      quote: January 1, 2004
       accessed: '2026-10-19'
   performer:
   - value: Qqjvryr
@@ -42,32 +40,47 @@ statements:
       - guitar
     references:
     - source: rami.ir-taranehaye-rami-album-92bdb9e1377d
-      quote: |-
-        نام خواننده: ابراهیم منصفی نام آلبوم: ترانه‌های رامی نام ناشر: ماه ریز مهر سال انتشار: 1385 تعداد آهنگ ها: 16
+      quote: 'نام خواننده: ابراهیم منصفی نام آلبوم: ترانه‌های رامی نام ناشر: ماه ریز مهر سال انتشار: 1385 تعداد
+        آهنگ ها: 16'
       accessed: '2026-10-19'
     - source: rami.ir-wp-content-uploads-taraneh_haye_rami_1.jpg-e5c27367d25d
-      quote: |-
-        Ebrahim Monsefi / Vocals, Guitar
+      quote: Ebrahim Monsefi / Vocals, Guitar
       accessed: '2026-10-04'
+  - value: Q36h94w
+    qualifiers:
+      role: guitar
+    references:
+    - &id001
+      source: rami.ir-wp-content-uploads-taraneh_haye_rami_1.jpg-e5c27367d25d
+      quote: Hessameddin Naghavi / Guitar * Masoud Pakdaman / Guitar * Ali Alavi / Guitar
+      accessed: '2026-11-13'
+      locator: Physical booklet English musician credits
+  - value: Q5tag8c
+    qualifiers:
+      role: guitar
+    references:
+    - *id001
+  - value: Qem9gwn
+    qualifiers:
+      role: guitar
+    references:
+    - *id001
   published by:
   - value: Qgsffy9
     references:
     - source: rami.ir-taranehaye-rami-album-92bdb9e1377d
-      quote: |-
-        نام ناشر: ماه ریز مهر
+      quote: 'نام ناشر: ماه ریز مهر'
       accessed: '2026-10-19'
   listen link:
   - value: https://music.apple.com/us/album/r%C3%A2mis-songs/568854238
     references:
     - source: music.apple.com-us-album-r-c3-a2mis-songs-568854238-8c1005bb082b
-      quote: |-
-        Râmi's Songs - Album by Ebrahim Monsefi - Apple Music
+      quote: Râmi's Songs - Album by Ebrahim Monsefi - Apple Music
       accessed: '2026-10-19'
   - value: https://open.spotify.com/album/3xOcnEd7OfooExV6CrkUXz
     references:
     - source: open.spotify.com-album-3xocned7ofooexv6crkuxz-45ab74b2f405
-      quote: |-
-        Ebrahim Monsefi · album · 2009 · 16 songs
+      quote: Ebrahim Monsefi · album · 2009 · 16 songs
       accessed: '2026-10-23'
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music/v4/f1/56/c8/f156c889-7b48-32db-779b-6374f088cb21/cover.jpg/1200x630wp-60.jpg
@@ -77,6 +90,5 @@ statements:
         language: en
     references:
     - source: music.apple.com-us-album-r-c3-a2mis-songs-568854238-8c1005bb082b
-      quote: |-
-        Râmi's Songs - Album by Ebrahim Monsefi - Apple Music
+      quote: Râmi's Songs - Album by Ebrahim Monsefi - Apple Music
       accessed: '2026-10-19'

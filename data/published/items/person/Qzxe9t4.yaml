@@ -7,10 +7,20 @@ statements:
       language: en
     references: &id001
     - source: www.allmusic.com-album-elysium-for-the-brave-mw0000572497-d9e7d40f45dc
-      quote: 'Azam Ali Arranger, Composer, Daff, Frame Drum, Hammer Dulcimer, Mixing, Primary Artist, Producer, Vocals, Zills Tyler Bates Bass, Composer, Guitar (Acoustic), Guitar (Electric), Keyboards Chris Bellman Mastering Trey Gunn Composer, Guitar Pat Mastelotto Drums, Tom-Tom Satnam Ramgotra Tabla Carmen Rizzo Composer, Keyboards, Mixing, Producer, Programming, Synthesizer Jeff Rona Composer, Producer Omid Torbatian Ney Loga Ramin Torkian Composer, Engineer, Guitar, Guitar (Electric), Violin Austin Young Photography '
+      quote: 'Azam Ali Arranger, Composer, Daff, Frame Drum, Hammer Dulcimer, Mixing, Primary Artist, Producer,
+        Vocals, Zills Tyler Bates Bass, Composer, Guitar (Acoustic), Guitar (Electric), Keyboards Chris Bellman
+        Mastering Trey Gunn Composer, Guitar Pat Mastelotto Drums, Tom-Tom Satnam Ramgotra Tabla Carmen Rizzo Composer,
+        Keyboards, Mixing, Producer, Programming, Synthesizer Jeff Rona Composer, Producer Omid Torbatian Ney Loga
+        Ramin Torkian Composer, Engineer, Guitar, Guitar (Electric), Violin Austin Young Photography '
       accessed: '2026-11-06'
-  # Persian display name is editorial; the reference establishes the original name.
   - value:
       text: کارمن ریتزو
       language: fa
     references: *id001
+  member of:
+  - value: Q9bb4a8
+    references:
+    - source: worldmusiccentral.org-niyaz-hypnotic-middle-eastern-worldbeat
+      quote: producer/remixer Carmen Rizzo
+      accessed: '2026-11-13'
+      locator: Opening paragraph identifies the early trio

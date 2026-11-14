@@ -1,0 +1,88 @@
+id: Qxs7b59
+type: release
+statements:
+  name:
+  - value:
+      text: Be Yadam (feat. Shervin Najafian)
+      language: en
+    references:
+    - source: music.apple.com-us-song-1708660131
+      quote: 'Listen to Be Yadam (feat. Shervin Najafian) by Marjan Farsad on Apple Music. 2022. Duration: 2:58'
+      accessed: '2026-11-13'
+      locator: Song JSON-LD description
+  performer:
+  - value: Q3te3g6
+    references:
+    - source: music.apple.com-us-song-1708660131
+      quote: 'Listen to Be Yadam (feat. Shervin Najafian) by Marjan Farsad on Apple Music. 2022. Duration: 2:58'
+      accessed: '2026-11-13'
+      locator: Song JSON-LD description
+  - value: Qfxfy6v
+    references:
+    - source: music.apple.com-us-song-1708660131
+      quote: 'Listen to Be Yadam (feat. Shervin Najafian) by Marjan Farsad on Apple Music. 2022. Duration: 2:58'
+      accessed: '2026-11-13'
+      locator: Song title and artist billing
+    - source: music.apple.com-us-song-1708660131
+      quote: '"name":"Shervin Najafian","roleNames":["Acoustic Guitar"]'
+      accessed: '2026-11-13'
+      locator: Song credit metadata
+    qualifiers:
+      role: guitar
+  - value: Q86jept
+    qualifiers:
+      role: cello
+    references:
+    - source: music.apple.com-us-song-1708660131
+      quote: '"name":"Federico Bragetti","roleNames":["Cello"]'
+      accessed: '2026-11-13'
+      locator: Song credit metadata
+  release date:
+  - value:
+      date: '2022-10-06'
+    references:
+    - source: music.apple.com-us-song-1708660131
+      quote: '"datePublished":"2022-10-06"'
+      accessed: '2026-11-13'
+      locator: Song JSON-LD datePublished
+  listen link:
+  - value: https://music.apple.com/us/song/be-yadam-feat-shervin-najafian/1708660131
+    references:
+    - source: music.apple.com-us-song-1708660131
+      quote: 'Listen to Be Yadam (feat. Shervin Najafian) by Marjan Farsad on Apple Music. 2022. Duration: 2:58'
+      accessed: '2026-11-13'
+      locator: Song JSON-LD description
+  - value: https://www.youtube.com/watch?v=r_ZXIE6t03Y
+    references:
+    - source: www.youtube.com-watch-v-r_zxie6t03y
+      quote: Be Yadam (feat. Shervin Najafian) · Marjan Farsad · Shervin Najafian
+      accessed: '2026-11-13'
+      locator: Distributor recording description
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ab/89/41/ab894130-001d-4872-da51-6231733b9e87/artwork.jpg/1200x630bb.jpg
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-song-1708660131
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ab/89/41/ab894130-001d-4872-da51-6231733b9e87/artwork.jpg/1200x630bb.jpg
+      accessed: '2026-11-13'
+      locator: Song JSON-LD image
+  contributor:
+  - value: Q3te3g6
+    qualifiers:
+      role: songwriter
+    references:
+    - source: music.apple.com-us-song-1708660131
+      quote: '"name":"Marjan Farsad","roleNames":["Songwriter"]'
+      accessed: '2026-11-13'
+      locator: Song credit metadata
+  - value: Qfxfy6v
+    qualifiers:
+      role: producer
+    references:
+    - source: music.apple.com-us-song-1708660131
+      quote: '"name":"Shervin Najafian","roleNames":["Producer"]'
+      accessed: '2026-11-13'
+      locator: Song credit metadata

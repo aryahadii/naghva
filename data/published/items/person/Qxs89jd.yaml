@@ -7,23 +7,20 @@ statements:
       language: en
     references:
     - source: music.apple.com-us-artist-kian-pourtorab-921655205-905894098efa
-      quote: |-
-        Kian Pourtorab
+      quote: Kian Pourtorab
       accessed: '2026-10-20'
   - value:
       text: کیان پورتراب
       language: fa
     references:
     - source: shows.acast.com-cozornershow-episodes-corner-83-kian-pourtorab-210b5f708d84
-      quote: |-
-        آقای «کیان پورتراب» موزیسین، آهنگساز، ترانه‌سرا، تنظیم‌کننده و خواننده‌ی آلترناتیو راک و پاپ، مهمان این قسمت از پادکست تصویری «کوزی کرنر» هستند؛
+      quote: آقای «کیان پورتراب» موزیسین، آهنگساز، ترانه‌سرا، تنظیم‌کننده و خواننده‌ی آلترناتیو راک و پاپ، مهمان این قسمت از پادکست تصویری «کوزی کرنر» هستند؛
       accessed: '2026-10-20'
   member of:
   - value: Qec3sv6
     references:
     - source: www.honaronline.ir-d8-a8-d8-ae-d8-b4--d9-85-d9-88-d8-b3-db-8c-d9-82-db-8c-5-135306--d8-ac-d8-b1-d9-82-d9-87--d-66d84681229f
-      quote: |-
-        کامنت یا کامنت بند گروه موسیقی آلترناتیو راک ایرانی است که سال 86 توسط کیان پورتراب و نیما رمضان در تهران شکل گرفت. بعدتر با اضافه شدن سایر اعضا تعدادی از آهنگ‌های ساختهٔ کیان ضبط و سرانجام سال 88 آلبوم اول گروه با عنوان "میرم بالاتر" منتشر شد. کیان پورتراب (خواننده و ترانه سرا)، نیما رمضان (گیتار الکتریک)، بردیا امیری (درامز)، اشکان آبرون (کیبورد) و آرین کشیشی (گیتار بیس) اعضای گروه کامنت هستند.
+      quote: کامنت یا کامنت بند گروه موسیقی آلترناتیو راک ایرانی است که سال 86 توسط کیان پورتراب و نیما رمضان در تهران شکل گرفت. بعدتر با اضافه شدن سایر اعضا تعدادی از آهنگ‌های ساختهٔ کیان ضبط و سرانجام سال 88 آلبوم اول گروه با عنوان "میرم بالاتر" منتشر شد. کیان پورتراب (خواننده و ترانه سرا)، نیما رمضان (گیتار الکتریک)، بردیا امیری (درامز)، اشکان آبرون (کیبورد) و آرین کشیشی (گیتار بیس) اعضای گروه کامنت هستند.
       accessed: '2026-10-20'
     qualifiers:
       role:
@@ -33,29 +30,37 @@ statements:
   - value: https://music.apple.com/us/artist/kian-pourtorab/921655205
     references:
     - source: music.apple.com-us-album-this-side-1378137090-7ac9b447bba2
-      quote: |-
-        Listen to This Side by Kian Pourtorab on Apple Music. 2018. 13 Songs. Duration: 53 minutes.
+      quote: 'Listen to This Side by Kian Pourtorab on Apple Music. 2018. 13 Songs. Duration: 53 minutes.'
       accessed: '2026-10-20'
   - value: https://open.spotify.com/artist/5jJO4NQhIubBQAqSZVA5S7
     references:
     - source: open.spotify.com-artist-5jjo4nqhiubbqaqszva5s7-81ff56dd6f4a
-      quote: |-
-        Kian Pourtorab
+      quote: Kian Pourtorab
       accessed: '2026-10-20'
   - value: https://t.me/kianpourtorabofficial
     references:
     - source: t.me-kianpourtorabofficial-0bd739a87ac5
-      quote: |-
-        Kian Pourtorab | کیان پورتراب
+      quote: Kian Pourtorab | کیان پورتراب
       accessed: '2026-10-20'
   image:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/b8/87/4f/b8874f71-8587-7f8f-0681-a4d947a9f382/pr_source.png/486x486bb.png
     references:
     - source: music.apple.com-us-artist-kian-pourtorab-921655205-905894098efa
-      quote: |-
-        https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/b8/87/4f/b8874f71-8587-7f8f-0681-a4d947a9f382/pr_source.png/486x486bb.png
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/b8/87/4f/b8874f71-8587-7f8f-0681-a4d947a9f382/pr_source.png/486x486bb.png
       accessed: '2026-10-20'
     qualifiers:
       credit:
         text: Apple Music
         language: en
+  life event:
+  - value:
+      text: مراسم رونمایی و کنسرت گروه کامنت که اردیبهشت‌ماه امسال در پردیس قلهک برگزار شد
+      language: fa
+    references:
+    - source: honaronline.ir-57424-comment-interview
+      quote: اولین آلبوم رسمی گروه کامنت به نام "رفته از دست" منتشر شد که در واقع آلبوم سوم گروه است. مراسم رونمایی و کنسرت گروه کامنت که اردیبهشت‌ماه امسال در پردیس قلهک برگزار شد
+      accessed: '2026-11-13'
+    qualifiers:
+      point in time:
+        date: 1393-02
+        calendar: jalali

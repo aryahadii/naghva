@@ -11,6 +11,7 @@ issued:
 about:
 - Mahdyar Aghajani
 - Seized
+archive: https://web.archive.org/web/*/https://www.drownedinsound.org/archive-mahdyar-s-track-by-track-guide-to-seized-4151633/
 status: processed
 ---
 
@@ -23,3 +24,5 @@ status: processed
 > In Iran, I used to record many vocal samples from the traditional singer Bidad. In 2006 I decided to make a song using Bidad's voice as an instrument with quarter tones over a 6/8 time signature which is a very common time signature in both Iranian traditional and commercial music but not so widely used in Western music as far as I’m aware. In terms of arrangement, I was more inspired by other forms of storytelling in art such as paintings and films.
 
 > The concept behind the arrangement is illustrating a closed cycle that reproduces itself in different forms but with the same core and that's where the repetition of the word "money" comes from. I edited some of the vocals I had from my good friend and great musician Ash Koosha to make it seem like he's singing "Money Money" with some sort of accent.
+
+Complete artist-authored guide, including Seize, Money Money, Vow, Khakis and Running From. Existing quoted passages rechecked against the original on 2026-11-13. No audio testimony used.

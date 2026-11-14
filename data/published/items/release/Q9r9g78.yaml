@@ -7,44 +7,47 @@ statements:
       language: en
     references:
     - source: ataebtekar.bandcamp.com-album-ornamentalism-sote-ata-ebtekar-and-the-iranian-orchestra-bb3401aa8b1a
-      quote: |-
-        Ornamentalism : Sote / Ata Ebtekar and the Iranian Orchestra
+      quote: 'Ornamentalism : Sote / Ata Ebtekar and the Iranian Orchestra
+
         by
-        Ata Ebtekar
+
+        Ata Ebtekar'
       accessed: '2026-10-19'
   performer:
   - value: Qajhty5
     references:
     - source: ataebtekar.bandcamp.com-album-ornamentalism-sote-ata-ebtekar-and-the-iranian-orchestra-bb3401aa8b1a
-      quote: |-
-        Ornamentalism : Sote / Ata Ebtekar and the Iranian Orchestra
+      quote: 'Ornamentalism : Sote / Ata Ebtekar and the Iranian Orchestra
+
         by
-        Ata Ebtekar
+
+        Ata Ebtekar'
       accessed: '2026-10-19'
   - value: Qe7ns7c
     references:
     - source: ataebtekar.bandcamp.com-album-ornamentalism-sote-ata-ebtekar-and-the-iranian-orchestra-bb3401aa8b1a
-      quote: |-
-        Recorded with the Iranian Orchestra in Tehran,
+      quote: 'Recorded with the Iranian Orchestra in Tehran,
+
         Ata Ebtekar did a real organic electrocution
-        of Alireza Mashayekhi's original scores.
+
+        of Alireza Mashayekhi''s original scores.'
       accessed: '2026-10-19'
   release date:
   - value:
       date: '2017-03-10'
     references:
     - source: ataebtekar.bandcamp.com-album-ornamentalism-sote-ata-ebtekar-and-the-iranian-orchestra-bb3401aa8b1a
-      quote: |-
-        released March 10, 2017
+      quote: released March 10, 2017
       accessed: '2026-10-19'
   listen link:
   - value: https://ataebtekar.bandcamp.com/album/ornamentalism-sote-ata-ebtekar-and-the-iranian-orchestra
     references:
     - source: ataebtekar.bandcamp.com-album-ornamentalism-sote-ata-ebtekar-and-the-iranian-orchestra-bb3401aa8b1a
-      quote: |-
-        Ornamentalism : Sote / Ata Ebtekar and the Iranian Orchestra
+      quote: 'Ornamentalism : Sote / Ata Ebtekar and the Iranian Orchestra
+
         by
-        Ata Ebtekar
+
+        Ata Ebtekar'
       accessed: '2026-10-19'
   cover art:
   - value: https://f4.bcbits.com/img/a4045467122_10.jpg
@@ -65,3 +68,14 @@ statements:
     - source: ataebtekar.bandcamp.com-album-ornamentalism-sote-ata-ebtekar-and-the-iranian-orchestra-bb3401aa8b1a
       quote: '"recordLabel":{"@type":"MusicGroup","name":"Sub Rosa Label","@id":"https://subrosalabel.bandcamp.com","additionalProperty":[{"@type":"PropertyValue","name":"url_suffix","value":"?from=btl"}]}'
       accessed: '2026-10-19'
+  contributor:
+  - value: Q692d39
+    qualifiers:
+      role: original composer
+    references:
+    - source: ataebtekar.bandcamp.com-album-ornamentalism-sote-ata-ebtekar-and-the-iranian-orchestra-bb3401aa8b1a
+      quote: |-
+        Recorded with the Iranian Orchestra in Tehran,
+        Ata Ebtekar did a real organic electrocution
+        of Alireza Mashayekhi's original scores.
+      accessed: '2026-11-13'

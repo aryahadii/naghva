@@ -7,36 +7,31 @@ statements:
       language: en
     references:
     - source: rvng.bandcamp.com-album-the-invisible-road-original-recordings-1985-1990-65416d345190
-      quote: |-
-        The Invisible Road: Original Recordings, 1985–1990 by Sussan Deyhim & Richard Horowitz
+      quote: 'The Invisible Road: Original Recordings, 1985–1990 by Sussan Deyhim & Richard Horowitz'
       accessed: '2026-10-19'
   release date:
   - value:
       date: '2024-11-08'
     references:
     - source: rvng.bandcamp.com-album-the-invisible-road-original-recordings-1985-1990-65416d345190
-      quote: |-
-        released November 8, 2024
+      quote: released November 8, 2024
       accessed: '2026-10-19'
   performer:
   - value: Qas989e
     references:
     - source: rvng.bandcamp.com-album-the-invisible-road-original-recordings-1985-1990-65416d345190
-      quote: |-
-        The Invisible Road: Original Recordings, 1985–1990 by Sussan Deyhim & Richard Horowitz
+      quote: 'The Invisible Road: Original Recordings, 1985–1990 by Sussan Deyhim & Richard Horowitz'
       accessed: '2026-10-19'
   - value: Qbm5d6m
     references:
     - source: rvng.bandcamp.com-album-the-invisible-road-original-recordings-1985-1990-65416d345190
-      quote: |-
-        The Invisible Road: Original Recordings, 1985–1990 by Sussan Deyhim & Richard Horowitz
+      quote: 'The Invisible Road: Original Recordings, 1985–1990 by Sussan Deyhim & Richard Horowitz'
       accessed: '2026-10-19'
   listen link:
   - value: https://rvng.bandcamp.com/album/the-invisible-road-original-recordings-1985-1990
     references:
     - source: rvng.bandcamp.com-album-the-invisible-road-original-recordings-1985-1990-65416d345190
-      quote: |-
-        The Invisible Road: Original Recordings, 1985–1990 by Sussan Deyhim & Richard Horowitz
+      quote: 'The Invisible Road: Original Recordings, 1985–1990 by Sussan Deyhim & Richard Horowitz'
       accessed: '2026-10-19'
   - value: https://open.spotify.com/album/2zDcsUDdu1fNEM66qq8E0c
     references:
@@ -66,3 +61,20 @@ statements:
       credit:
         text: rvng.bandcamp.com
         language: en
+  contributor:
+  - value: Qas989e
+    qualifiers:
+      role: composer
+    references:
+    - source: rvng.bandcamp.com-album-the-invisible-road-original-recordings-1985-1990-65416d345190
+      quote: All compositions by Sussan Deyhim and Richard Horowitz
+      accessed: '2026-11-13'
+      locator: Album credits
+  - value: Qbm5d6m
+    qualifiers:
+      role: composer
+    references:
+    - source: rvng.bandcamp.com-album-the-invisible-road-original-recordings-1985-1990-65416d345190
+      quote: All compositions by Sussan Deyhim and Richard Horowitz
+      accessed: '2026-11-13'
+      locator: Album credits

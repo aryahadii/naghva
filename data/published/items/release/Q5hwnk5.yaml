@@ -1,0 +1,45 @@
+id: Q5hwnk5
+type: release
+statements:
+  name:
+  - value:
+      text: Opium Moon
+      language: en
+    references:
+    - source: music.apple.com-us-album-opium-moon-1752002724
+      quote: |-
+        Opium Moon
+      accessed: '2026-11-13'
+  release date:
+  - value:
+      date: '2018-07-13'
+    references:
+    - source: music.apple.com-us-album-opium-moon-1752002724
+      quote: |-
+        "datePublished":"2018-07-13"
+      accessed: '2026-11-13'
+  performer:
+  - value: Qamf8m9
+    references:
+    - source: music.apple.com-us-album-opium-moon-1752002724
+      quote: |-
+        [{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/opium-moon/1394848433","name":"Opium Moon"}]
+      accessed: '2026-11-13'
+  listen link:
+  - value: https://music.apple.com/us/album/opium-moon/1752002724
+    references:
+    - source: music.apple.com-us-album-opium-moon-1752002724
+      quote: |-
+        Opium Moon
+      accessed: '2026-11-13'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/68/4f/2d/684f2df3-bbe8-564a-8fdd-a993d9376d89/196922877070_cover.jpg/1200x1200bb.jpg
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-opium-moon-1752002724
+      quote: |-
+        Opium Moon
+      accessed: '2026-11-13'

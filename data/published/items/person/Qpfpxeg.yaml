@@ -7,22 +7,76 @@ statements:
       language: fa
     references:
     - source: ir.voanews.com-a-4535179.html-470b45833105
-      quote: |-
-        گفتگوی کامل با «رعنا فرحان» خواننده موسیقی جاز و بلوز
+      quote: گفتگوی کامل با «رعنا فرحان» خواننده موسیقی جاز و بلوز
       accessed: '2026-10-19'
   - value:
       text: Rana Farhan
       language: en
     references:
     - source: ranafarhanmusic.com-music-0dd76ffdcc34
-      quote: |-
-        Rana Farhan Discography
+      quote: Rana Farhan Discography
       accessed: '2026-10-19'
   image:
   - value: https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/b7/5f/9c/b75f9cdc-4916-d80e-5dad-47388381b91a/ami-identity-abd81a0a04ef3a330dc9818e3c383456-2025-03-04T02-06-31.345Z_cropped.png/486x486bb.png
     references:
     - source: music-apple-com-us-artist-rana-farhan-259274017-66a2b9950cb2
-      quote: |-
-        Rana Farhan on Apple Music
-        https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/b7/5f/9c/b75f9cdc-4916-d80e-5dad-47388381b91a/ami-identity-abd81a0a04ef3a330dc9818e3c383456-2025-03-04T02-06-31.345Z_cropped.png/486x486bb.png
+      quote: 'Rana Farhan on Apple Music
+
+        https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/b7/5f/9c/b75f9cdc-4916-d80e-5dad-47388381b91a/ami-identity-abd81a0a04ef3a330dc9818e3c383456-2025-03-04T02-06-31.345Z_cropped.png/486x486bb.png'
       accessed: '2026-10-19'
+  life event:
+  - value:
+      text: try to learn them on my brother's guitar.
+      language: en
+    references:
+    - source: abcnews.com-international-inside-iran-music-proliferates-underground-20794160
+      quote: try to learn them on my brother's guitar.
+      accessed: '2026-11-13'
+      locator: Answer on own musical experience
+  - value:
+      text: I left Iran in 1989
+      language: en
+    references:
+    - source: abcnews.com-international-inside-iran-music-proliferates-underground-20794160
+      quote: I left Iran in 1989
+      accessed: '2026-11-13'
+      locator: Answer on departure
+    qualifiers:
+      point in time:
+        date: '1989'
+  - value:
+      text: In New York, Rana teamed up with guitarist and producer Steven Toub to create her first full-length
+        album, The Blues Are Brewin’ , a collection of American jazz and blues standards.
+      language: en
+    references:
+    - source: ranafarhanmusic.com-about-rana-bdfc4cc56540
+      quote: In New York, Rana teamed up with guitarist and producer Steven Toub to create her first full-length
+        album, The Blues Are Brewin’ , a collection of American jazz and blues standards.
+      accessed: '2026-11-13'
+    qualifiers:
+      with: Q8rjz4j
+      about: Qkcamza
+      point in time:
+        date: '2005'
+  - value:
+      text: two songs penned by Farhan herself
+      language: en
+    references:
+    - source: bflybuzz.com-uploads-file-081911moonstone_ranafarhan_pr.pdf
+      quote: two songs penned by Farhan herself
+      accessed: '2026-11-13'
+      locator: PDFp1, Moon and Stone introduction
+    qualifiers:
+      about: Qqp6byq
+      point in time:
+        date: '2011'
+  - value:
+      text: Recorded during lockdown. This five song E.P.
+      language: en
+    references:
+    - source: ranafarhanmusic.com-music-0dd76ffdcc34
+      quote: Recorded during lockdown. This five song E.P.
+      accessed: '2026-11-13'
+      locator: Baz A
+    qualifiers:
+      about: Q7cj6dy

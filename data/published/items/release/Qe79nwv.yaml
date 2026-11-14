@@ -7,41 +7,76 @@ statements:
       language: en
     references:
     - source: music.apple.com-us-album-this-side-1378137090-7ac9b447bba2
-      quote: |-
-        Listen to This Side by Kian Pourtorab on Apple Music. 2018. 13 Songs. Duration: 53 minutes.
+      quote: 'Listen to This Side by Kian Pourtorab on Apple Music. 2018. 13 Songs. Duration: 53 minutes.'
       accessed: '2026-10-20'
   performer:
   - value: Qxs89jd
     references:
     - source: music.apple.com-us-album-this-side-1378137090-7ac9b447bba2
-      quote: |-
-        Listen to This Side by Kian Pourtorab on Apple Music. 2018. 13 Songs. Duration: 53 minutes.
+      quote: 'Listen to This Side by Kian Pourtorab on Apple Music. 2018. 13 Songs. Duration: 53 minutes.'
       accessed: '2026-10-20'
     - source: music.apple.com-us-album-this-side-1378137090-7ac9b447bba2
-      quote: |-
-        Kian Pourtorab
+      quote: Kian Pourtorab
       accessed: '2026-10-20'
+  - value: Qyx94sk
+    qualifiers:
+      role:
+      - keyboards
+      - synthesizer
+    references:
+    - source: tasnimnews.ir-1724838-this-side
+      quote: کیان پور تراب ترانه سرا، آهنگساز، تنظیم کننده، نوازنده و خواننده این آلبوم است و علیرضا ریاضی (تنظیم،کیبورد، سینتی سایزر، سازهای الکترونیک)، میلاد درخشانی (سه تار)، علی الماسی و اردلان مجتبوی (گیتار الکتریک)، با او همکاری داشته اند.
+      accessed: '2026-11-13'
+  - value: Qnjntqs
+    qualifiers:
+      role:
+      - setar
+    references:
+    - source: tasnimnews.ir-1724838-this-side
+      quote: کیان پور تراب ترانه سرا، آهنگساز، تنظیم کننده، نوازنده و خواننده این آلبوم است و علیرضا ریاضی (تنظیم،کیبورد، سینتی سایزر، سازهای الکترونیک)، میلاد درخشانی (سه تار)، علی الماسی و اردلان مجتبوی (گیتار الکتریک)، با او همکاری داشته اند.
+      accessed: '2026-11-13'
+  - value: Qr2pw8j
+    qualifiers:
+      role:
+      - guitar
+    references:
+    - source: tasnimnews.ir-1724838-this-side
+      quote: کیان پور تراب ترانه سرا، آهنگساز، تنظیم کننده، نوازنده و خواننده این آلبوم است و علیرضا ریاضی (تنظیم،کیبورد، سینتی سایزر، سازهای الکترونیک)، میلاد درخشانی (سه تار)، علی الماسی و اردلان مجتبوی (گیتار الکتریک)، با او همکاری داشته اند.
+      accessed: '2026-11-13'
+  - value: Qv27qrr
+    qualifiers:
+      role:
+      - guitar
+    references:
+    - source: tasnimnews.ir-1724838-this-side
+      quote: کیان پور تراب ترانه سرا، آهنگساز، تنظیم کننده، نوازنده و خواننده این آلبوم است و علیرضا ریاضی (تنظیم،کیبورد، سینتی سایزر، سازهای الکترونیک)، میلاد درخشانی (سه تار)، علی الماسی و اردلان مجتبوی (گیتار الکتریک)، با او همکاری داشته اند.
+      accessed: '2026-11-13'
+  - value: Qxs89jd
+    qualifiers:
+      role:
+      - vocals
+    references:
+    - source: tasnimnews.ir-1724838-this-side
+      quote: کیان پور تراب ترانه سرا، آهنگساز، تنظیم کننده، نوازنده و خواننده این آلبوم است و علیرضا ریاضی (تنظیم،کیبورد، سینتی سایزر، سازهای الکترونیک)، میلاد درخشانی (سه تار)، علی الماسی و اردلان مجتبوی (گیتار الکتریک)، با او همکاری داشته اند.
+      accessed: '2026-11-13'
   release date:
   - value:
       date: '2018-05-07'
     references:
     - source: music.apple.com-us-album-this-side-1378137090-7ac9b447bba2
-      quote: |-
-        2018-05-07
+      quote: '2018-05-07'
       accessed: '2026-10-20'
   listen link:
   - value: https://music.apple.com/us/album/this-side/1378137090
     references:
     - source: music.apple.com-us-album-this-side-1378137090-7ac9b447bba2
-      quote: |-
-        Listen to This Side by Kian Pourtorab on Apple Music. 2018. 13 Songs. Duration: 53 minutes.
+      quote: 'Listen to This Side by Kian Pourtorab on Apple Music. 2018. 13 Songs. Duration: 53 minutes.'
       accessed: '2026-10-20'
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/1b/0d/12/1b0d12bf-eefd-54f0-be1e-6ef8aaf3df6a/6263539054904.jpg/1200x630bb.jpg
     references:
     - source: music.apple.com-us-album-this-side-1378137090-7ac9b447bba2
-      quote: |-
-        https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/1b/0d/12/1b0d12bf-eefd-54f0-be1e-6ef8aaf3df6a/6263539054904.jpg/1200x630bb.jpg
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/1b/0d/12/1b0d12bf-eefd-54f0-be1e-6ef8aaf3df6a/6263539054904.jpg/1200x630bb.jpg
       accessed: '2026-10-20'
     qualifiers:
       credit:
@@ -51,6 +86,24 @@ statements:
   - value: Qq6p8py
     references:
     - source: music.apple.com-us-album-this-side-1378137090-7ac9b447bba2
-      quote: |-
-        ℗ 2018 Eastgah Records
+      quote: ℗ 2018 Eastgah Records
       accessed: '2026-10-20'
+  contributor:
+  - value: Qyx94sk
+    qualifiers:
+      role:
+      - arranger
+    references:
+    - source: tasnimnews.ir-1724838-this-side
+      quote: کیان پور تراب ترانه سرا، آهنگساز، تنظیم کننده، نوازنده و خواننده این آلبوم است و علیرضا ریاضی (تنظیم،کیبورد، سینتی سایزر، سازهای الکترونیک)، میلاد درخشانی (سه تار)، علی الماسی و اردلان مجتبوی (گیتار الکتریک)، با او همکاری داشته اند.
+      accessed: '2026-11-13'
+  - value: Qxs89jd
+    qualifiers:
+      role:
+      - composer
+      - lyricist
+      - arranger
+    references:
+    - source: tasnimnews.ir-1724838-this-side
+      quote: کیان پور تراب ترانه سرا، آهنگساز، تنظیم کننده، نوازنده و خواننده این آلبوم است و علیرضا ریاضی (تنظیم،کیبورد، سینتی سایزر، سازهای الکترونیک)، میلاد درخشانی (سه تار)، علی الماسی و اردلان مجتبوی (گیتار الکتریک)، با او همکاری داشته اند.
+      accessed: '2026-11-13'

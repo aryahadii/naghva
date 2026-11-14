@@ -7,23 +7,77 @@ statements:
       language: en
     references:
     - source: www.factmag.com-2017-09-03-sote-iran-ata-ebtekar-interview-d90aa53d8463
-      quote: |-
-        Sote, born Ata Ebtekar, is one of Iran’s foremost electronic musicians.
+      quote: Sote, born Ata Ebtekar, is one of Iran’s foremost electronic musicians.
       accessed: '2026-10-19'
   - value:
       text: Ata Ebtekar
       language: en
     references:
     - source: www.factmag.com-2017-09-03-sote-iran-ata-ebtekar-interview-d90aa53d8463
-      quote: |-
-        Sote, born Ata Ebtekar, is one of Iran’s foremost electronic musicians.
+      quote: Sote, born Ata Ebtekar, is one of Iran’s foremost electronic musicians.
       accessed: '2026-10-19'
+  - value:
+      text: عطا ابتکار
+      language: fa
+    references:
+    - source: econtact.ca-11_4-iran_cont_gluck.html
+      quote: Ata Ebtekar
+      accessed: '2026-11-13'
+    editorial: true
   legal name:
   - value:
       text: Ata Ebtekar
       language: en
     references:
     - source: www.factmag.com-2017-09-03-sote-iran-ata-ebtekar-interview-d90aa53d8463
-      quote: |-
-        Sote, born Ata Ebtekar, is one of Iran’s foremost electronic musicians.
+      quote: Sote, born Ata Ebtekar, is one of Iran’s foremost electronic musicians.
       accessed: '2026-10-19'
+  life event:
+  - value:
+      text: My interest really started in Iran when I was about nine years old.
+      language: en
+    references:
+    - source: straylandings.co.uk-_content-interviews-2016-12-21-tabula-rasa-sote-interview
+      quote: My interest really started in Iran when I was about nine years old.
+      accessed: '2026-11-13'
+  - value:
+      text: first annual festival in 2015
+      language: en
+    qualifiers:
+      point in time:
+        date: '2015'
+    references:
+    - source: www.factmag.com-2017-09-03-sote-iran-ata-ebtekar-interview-d90aa53d8463
+      quote: first annual festival in 2015
+      accessed: '2026-11-13'
+  - value:
+      text: electronic music that is not based on conventional beats around 2005
+      language: en
+    qualifiers:
+      point in time:
+        date: 2005~
+    references:
+    - source: 15questions.net-interview-fifteen-questions-interview-sote-page-1
+      quote: electronic music that is not based on conventional beats around 2005
+      accessed: '2026-11-13'
+  - value:
+      text: In 2018, he founded a new label called 'Zabte Sote'
+      language: en
+    qualifiers:
+      point in time:
+        date: '2018'
+    references:
+    - source: subrosalabel.bandcamp.com-album-majestic-noise-made-in-beautiful-rotten-iran
+      quote: In 2018, he founded a new label called 'Zabte Sote'
+      accessed: '2026-11-13'
+  image:
+  - value: https://f4.bcbits.com/img/0015741895_10.jpg
+    qualifiers:
+      credit:
+        text: Sote (Bandcamp)
+        language: en
+    references:
+    - source: sote-sound.bandcamp.com-music
+      quote: |-
+        Sote
+      accessed: '2026-11-13'

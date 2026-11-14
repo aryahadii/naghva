@@ -7,36 +7,38 @@ statements:
       language: en
     references:
     - source: music.apple.com-us-album-rira-1764971901
-      quote: |-
-        Rira
+      quote: 'Rira
+
         Soheil Nafisi
-        Farsi · 2005
+
+        Farsi · 2005'
       accessed: '2026-10-19'
   performer:
   - value: Qhevaad
     references:
     - source: music.apple.com-us-album-rira-1764971901
-      quote: |-
-        Rira
+      quote: 'Rira
+
         Soheil Nafisi
-        Farsi · 2005
+
+        Farsi · 2005'
       accessed: '2026-10-19'
   release date:
   - value:
       date: '2005-12-25'
     references:
     - source: music.apple.com-us-album-rira-1764971901
-      quote: |-
-        December 25, 2005
+      quote: December 25, 2005
       accessed: '2026-10-19'
   listen link:
   - value: https://music.apple.com/us/album/rira/1764971901
     references:
     - source: music.apple.com-us-album-rira-1764971901
-      quote: |-
-        Rira
+      quote: 'Rira
+
         Soheil Nafisi
-        Farsi · 2005
+
+        Farsi · 2005'
       accessed: '2026-10-19'
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d9/7e/8f/d97e8f16-3225-67a4-b190-0a95fb2eed2b/198846149394.jpg/1200x630bb.jpg
@@ -51,3 +53,12 @@ statements:
       credit:
         text: music.apple.com
         language: en
+  contributor:
+  - value: Q2hsgfw
+    qualifiers:
+      role: arranger
+    references:
+    - source: www1.rfi.fr-actufa-articles-111-article_5585.asp
+      quote: تنظیم قطعات آلبوم ریرا که توسط کریستف رضاعی انجام گرفته
+      accessed: '2026-11-13'
+      locator: Arranging paragraph

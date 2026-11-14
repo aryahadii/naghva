@@ -7,17 +7,15 @@ statements:
       language: en
     references:
     - source: music.apple.com-us-album-kahgel-1154431065-8258b34fb3ba
-      quote: |-
-        Listen to Kahgel by Hamzeh Yeganeh, Kaveh Sarvarian & Mahan Mirarab on Apple Music. 2016. 9 Songs. Duration: 48 minutes.
+      quote: 'Listen to Kahgel by Hamzeh Yeganeh, Kaveh Sarvarian & Mahan Mirarab on Apple Music. 2016. 9 Songs. Duration:
+        48 minutes.'
       accessed: '2026-10-19'
-  # Editorial Persian display spelling; Independent Persian gives this form but does not connect it to the English profile.
   - value:
       text: ماهان میرعرب
       language: fa
     references:
     - source: www.independentpersian.com-node-18131-5c6d3310d89f
-      quote: |-
-        ماهان میرعرب، گیتاریست، نوازنده عود، آهنگ‌ساز و تنظیم‌کننده آهنگ ایرانی
+      quote: ماهان میرعرب، گیتاریست، نوازنده عود، آهنگ‌ساز و تنظیم‌کننده آهنگ ایرانی
       accessed: '2026-10-23'
   profile link:
   - value: https://open.spotify.com/artist/7ITIDvXF6cPhYBxdjgfy68
@@ -46,3 +44,12 @@ statements:
     - source: music.apple.com-de-artist-mahan-mirarab-421440908-9d660252a99f
       quote: Mahan Mirarab
       accessed: '2026-10-23'
+  member of:
+  - value: Qwh2kf7
+    qualifiers:
+      role: guitar
+    references:
+    - source: sehrang.bandcamp.com-album-dar-lahze
+      quote: |-
+        Mahan Mirarab - Guitars
+      accessed: '2026-11-13'

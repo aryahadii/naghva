@@ -1,0 +1,74 @@
+id: Q9dkqeb
+type: release
+statements:
+  name:
+  - value:
+      text: Gole Koochak (feat. Aida Shahghasemi)
+      language: en
+    references:
+    - source: music.apple.com-us-song-1708660133
+      quote: 'Listen to Gole Koochak (feat. Aida Shahghasemi) by Marjan Farsad on Apple Music. 2022. Duration: 3:19'
+      accessed: '2026-11-13'
+      locator: Song JSON-LD description
+  performer:
+  - value: Q3te3g6
+    references:
+    - source: music.apple.com-us-song-1708660133
+      quote: 'Listen to Gole Koochak (feat. Aida Shahghasemi) by Marjan Farsad on Apple Music. 2022. Duration: 3:19'
+      accessed: '2026-11-13'
+      locator: Song JSON-LD description
+  - value: Qjh2zkc
+    references:
+    - source: music.apple.com-us-song-1708660133
+      quote: 'Listen to Gole Koochak (feat. Aida Shahghasemi) by Marjan Farsad on Apple Music. 2022. Duration: 3:19'
+      accessed: '2026-11-13'
+      locator: Song title and artist billing
+  release date:
+  - value:
+      date: '2022-10-06'
+    references:
+    - source: music.apple.com-us-song-1708660133
+      quote: '"datePublished":"2022-10-06"'
+      accessed: '2026-11-13'
+      locator: Song JSON-LD datePublished
+  listen link:
+  - value: https://music.apple.com/us/song/gole-koochak-feat-aida-shahghasemi/1708660133
+    references:
+    - source: music.apple.com-us-song-1708660133
+      quote: 'Listen to Gole Koochak (feat. Aida Shahghasemi) by Marjan Farsad on Apple Music. 2022. Duration: 3:19'
+      accessed: '2026-11-13'
+      locator: Song JSON-LD description
+  - value: https://www.youtube.com/watch?v=gv5OgOzDWrw
+    references:
+    - source: www.youtube.com-watch-v-gv5ogozdwrw
+      quote: Gole Koochak (feat. Aida Shahghasemi) · Marjan Farsad · Aida Shahghasemi
+      accessed: '2026-11-13'
+      locator: Distributor recording description
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ab/89/41/ab894130-001d-4872-da51-6231733b9e87/artwork.jpg/1200x630bb.jpg
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-song-1708660133
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ab/89/41/ab894130-001d-4872-da51-6231733b9e87/artwork.jpg/1200x630bb.jpg
+      accessed: '2026-11-13'
+      locator: Song JSON-LD image
+  contributor:
+  - value: Q3te3g6
+    qualifiers:
+      role: songwriter
+    references:
+    - source: music.apple.com-us-song-1708660133
+      quote: '"name":"Marjan Farsad","roleNames":["Songwriter"]'
+      accessed: '2026-11-13'
+      locator: Song credit metadata
+  - value: Qfxfy6v
+    qualifiers:
+      role: producer
+    references:
+    - source: music.apple.com-us-song-1708660133
+      quote: '"name":"Shervin Najafian","roleNames":["Producer"]'
+      accessed: '2026-11-13'
+      locator: Song credit metadata

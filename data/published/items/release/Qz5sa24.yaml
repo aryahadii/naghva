@@ -7,41 +7,40 @@ statements:
       language: en
     references:
     - source: music.apple.com-us-album-shabgard-1609626582-7afa3924a441
-      quote: |-
-        Listen to Shabgard by Kian Pourtorab on Apple Music. 2022. 15 Songs. Duration: 1 hour 1 minute.
+      quote: 'Listen to Shabgard by Kian Pourtorab on Apple Music. 2022. 15 Songs. Duration: 1 hour 1 minute.'
       accessed: '2026-10-20'
   performer:
   - value: Qxs89jd
     references:
     - source: music.apple.com-us-album-shabgard-1609626582-7afa3924a441
-      quote: |-
-        Listen to Shabgard by Kian Pourtorab on Apple Music. 2022. 15 Songs. Duration: 1 hour 1 minute.
+      quote: 'Listen to Shabgard by Kian Pourtorab on Apple Music. 2022. 15 Songs. Duration: 1 hour 1 minute.'
       accessed: '2026-10-20'
     - source: music.apple.com-us-album-shabgard-1609626582-7afa3924a441
-      quote: |-
-        Kian Pourtorab
+      quote: Kian Pourtorab
       accessed: '2026-10-20'
   release date:
   - value:
       date: '2022-02-15'
     references:
     - source: music.apple.com-us-album-shabgard-1609626582-7afa3924a441
-      quote: |-
-        2022-02-15
+      quote: '2022-02-15'
       accessed: '2026-10-20'
   listen link:
   - value: https://music.apple.com/us/album/shabgard/1609626582
     references:
     - source: music.apple.com-us-album-shabgard-1609626582-7afa3924a441
-      quote: |-
-        Listen to Shabgard by Kian Pourtorab on Apple Music. 2022. 15 Songs. Duration: 1 hour 1 minute.
+      quote: 'Listen to Shabgard by Kian Pourtorab on Apple Music. 2022. 15 Songs. Duration: 1 hour 1 minute.'
       accessed: '2026-10-20'
+  - value: https://open.spotify.com/album/3hPSnitVZDVHStcxQ8MpbP
+    references:
+    - source: open.spotify.com-embed-album-3hpsnitvzdvhstcxq8mpbp
+      quote: '"uri":"spotify:album:3hPSnitVZDVHStcxQ8MpbP"'
+      accessed: '2026-11-13'
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/61/14/b8/6114b8b4-096b-4b61-c7f9-32f86a962fc5/artwork.jpg/1200x630bb.jpg
     references:
     - source: music.apple.com-us-album-shabgard-1609626582-7afa3924a441
-      quote: |-
-        https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/61/14/b8/6114b8b4-096b-4b61-c7f9-32f86a962fc5/artwork.jpg/1200x630bb.jpg
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/61/14/b8/6114b8b4-096b-4b61-c7f9-32f86a962fc5/artwork.jpg/1200x630bb.jpg
       accessed: '2026-10-20'
     qualifiers:
       credit:
@@ -51,6 +50,5 @@ statements:
   - value: Q7ynmfj
     references:
     - source: music.apple.com-us-album-shabgard-1609626582-7afa3924a441
-      quote: |-
-        ℗ 2022 KianPourtorab Records
+      quote: ℗ 2022 KianPourtorab Records
       accessed: '2026-10-20'

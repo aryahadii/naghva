@@ -5,6 +5,7 @@ language: en
 publisher: Crammed Discs
 status: processed
 tier: own
+archive: https://web.archive.org/web/20260302082824/https://crammed-discs.bandcamp.com/album/desert-equations-azax-attra-made-to-measure-vol-8
 ---
 
 > Sussan Deyhim and Richard Horowitz went on to record numerous albums, together and separately, including Majoun, Logic of the Birds, Madman of God and Shy Angels (Sussan’s albums devoted to Persian Sufi poetry), Possessed and Turbulent (Sussan’s albums in collaboration with renowned visual artist Shirin Neshat), and La Belle et la Bête.
@@ -20,3 +21,7 @@ tier: own
 > https://f4.bcbits.com/img/a3737179557_10.jpg
 
 > Desert Equations: Azax Attra (Made to Measure Vol.8) | Sussan Deyhim & Richard Horowitz | Crammed Discs
+
+Full original label album page reopened 2026-11-13. Original 1986 album, New York duo performances, and expanded 2022 remaster are distinguished in its own About section.
+
+Wayback availability lookup on 2026-11-13 returned the snapshot recorded in metadata; the lookup is not a claim that the archived page was independently read.

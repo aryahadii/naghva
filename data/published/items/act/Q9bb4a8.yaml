@@ -7,7 +7,10 @@ statements:
       language: en
     references:
     - source: www.niyazmusic.com-bio-2e52c31a9a2c
-      quote: Founded in 2004 by Iranian born, Indian raised vocalist/ composer Azam Ali, and Iranian multi-instrumentalist/ composer Loga R. Torkian, Niyaz has created a 21st century global trance tradition by seamlessly blending medieval Sufi poetry and ancient folk songs from their native Iran and its surrounding countries in the Persian Gulf, with rich acoustic instrumentation and state-of-the-art modern electronics.
+      quote: Founded in 2004 by Iranian born, Indian raised vocalist/ composer Azam Ali, and Iranian multi-instrumentalist/
+        composer Loga R. Torkian, Niyaz has created a 21st century global trance tradition by seamlessly blending
+        medieval Sufi poetry and ancient folk songs from their native Iran and its surrounding countries in the
+        Persian Gulf, with rich acoustic instrumentation and state-of-the-art modern electronics.
       accessed: '2026-10-19'
   - value:
       text: نیاز
@@ -62,3 +65,59 @@ statements:
       credit:
         text: www.niyazmusic.com
         language: en
+  formation date:
+  - value:
+      date: '2004'
+    references:
+    - source: www.niyazmusic.com-bio-2e52c31a9a2c
+      quote: Founded in 2004 by Iranian born, Indian raised vocalist/ composer Azam Ali, and Iranian multi-instrumentalist/
+        composer Loga R. Torkian, Niyaz has created a 21st century global trance tradition by seamlessly blending
+        medieval Sufi poetry and ancient folk songs from their native Iran and its surrounding countries in the
+        Persian Gulf, with rich acoustic instrumentation and state-of-the-art modern electronics.
+      accessed: '2026-10-19'
+  life event:
+  - value:
+      text: more extroverted for this album
+      language: en
+    references:
+    - source: worldmusiccentral.org-niyaz-hypnotic-middle-eastern-worldbeat
+      quote: more extroverted for this album
+      accessed: '2026-11-13'
+      locator: Torkian answer; full feature describes Rumi and Urdu poems
+    qualifiers:
+      about: Qm3nyfb
+  - value:
+      text: In 2009, Azam and I decided to move to Montreal from Los Angeles.
+      language: en
+    references:
+    - source: chaoscontrol.com-loga-ramin-torkian-niyaz-interview
+      quote: In 2009, Azam and I decided to move to Montreal from Los Angeles.
+      accessed: '2026-11-13'
+      locator: First answer
+    qualifiers:
+      point in time:
+        date: '2009'
+  - value:
+      text: We did it in 2016 in Montreal.
+      language: en
+    references:
+    - source: chaoscontrol.com-loga-ramin-torkian-niyaz-interview
+      quote: We did it in 2016 in Montreal.
+      accessed: '2026-11-13'
+      locator: Answer on first performances; subsequent answers describe visual process
+    qualifiers:
+      point in time:
+        date: '2016'
+  - value:
+      text: Composed by NIYAZ, Seven Realms of Attar is a brand-new studio album and the musical heart of NIYAZ’s
+        landmark theatrical spectacle, an expansive sonic journey inspired by the sublime poetry of Attar’s 12th-century
+        masterpiece Conference of the Birds.
+      language: en
+    references:
+    - source: niyaz.bandcamp.com-album-seven-realms-of-attar-713fece584ef
+      quote: Composed by NIYAZ, Seven Realms of Attar is a brand-new studio album and the musical heart of NIYAZ’s
+        landmark theatrical spectacle, an expansive sonic journey inspired by the sublime poetry of Attar’s 12th-century
+        masterpiece Conference of the Birds.
+      accessed: '2026-10-19'
+    qualifiers:
+      about: Qjkkqwr

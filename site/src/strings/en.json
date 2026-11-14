@@ -153,6 +153,9 @@
     "jalaliMonths": ["Farvardin", "Ordibehesht", "Khordad", "Tir", "Mordad", "Shahrivar", "Mehr", "Aban", "Azar", "Dey", "Bahman", "Esfand"]
   },
   "roles": {
+    "recording engineer": "recording engineer",
+    "mixing engineer": "mixing engineer",
+    "mastering engineer": "mastering engineer",
     "accordion": "accordion", "soprano trombone": "soprano trombone", "tuba": "tuba", "choir": "choir", "oboe": "oboe", "saxophone": "saxophone", "tambura": "tambura",
     "vocals": "vocals", "backing vocals": "backing vocals", "guitar": "guitar", "fretless guitar": "fretless guitar", "bass": "bass", "drums": "drums", "percussion": "percussion",
     "keyboards": "keyboards", "synthesizer": "synthesizer", "violin": "violin", "viola": "viola", "cello": "cello", "flute": "flute", "clarinet": "clarinet", "bass clarinet": "bass clarinet", "harmonica": "harmonica", "trumpet": "trumpet",

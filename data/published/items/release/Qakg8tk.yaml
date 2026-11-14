@@ -7,39 +7,44 @@ statements:
       language: en
     references:
     - source: siavashamini.bandcamp.com-album-tar-cf0baebdf639
-      quote: |-
-        TAR
+      quote: 'TAR
+
         by
-        Siavash Amini
+
+        Siavash Amini'
       accessed: '2026-10-19'
   performer:
   - value: Q97bqaq
     references:
     - source: siavashamini.bandcamp.com-album-tar-cf0baebdf639
-      quote: |-
-        TAR
+      quote: 'TAR
+
         by
-        Siavash Amini
+
+        Siavash Amini'
       accessed: '2026-10-19'
   release date:
   - value:
       date: '2017-06-09'
     references:
     - source: siavashamini.bandcamp.com-album-tar-cf0baebdf639
-      quote: |-
-        released June 9, 2017
+      quote: 'released June 9, 2017
+
         via Hallow Ground
+
         © Siavash Amini
-        ℗ Hallow Ground
+
+        ℗ Hallow Ground'
       accessed: '2026-10-19'
   listen link:
   - value: https://siavashamini.bandcamp.com/album/tar
     references:
     - source: siavashamini.bandcamp.com-album-tar-cf0baebdf639
-      quote: |-
-        TAR
+      quote: 'TAR
+
         by
-        Siavash Amini
+
+        Siavash Amini'
       accessed: '2026-10-19'
   cover art:
   - value: https://f4.bcbits.com/img/a1174068488_10.jpg
@@ -54,3 +59,10 @@ statements:
       credit:
         text: siavashamini.bandcamp.com
         language: en
+  published by:
+  - value: Qzmkv96
+    references:
+    - source: siavashamini.bandcamp.com-album-tar-cf0baebdf639
+      quote: |-
+        Hallow Ground
+      accessed: '2026-11-13'

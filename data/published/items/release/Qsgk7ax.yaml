@@ -1,0 +1,83 @@
+id: Qsgk7ax
+type: release
+statements:
+  name:
+  - value:
+      text: Soghati
+      language: en
+    references:
+    - source: music.apple.com-us-song-1708660130
+      quote: 'Listen to Soghati by Marjan Farsad on Apple Music. 2022. Duration: 3:42'
+      accessed: '2026-11-13'
+      locator: Song JSON-LD description
+  performer:
+  - value: Q3te3g6
+    references:
+    - source: music.apple.com-us-song-1708660130
+      quote: 'Listen to Soghati by Marjan Farsad on Apple Music. 2022. Duration: 3:42'
+      accessed: '2026-11-13'
+      locator: Song JSON-LD description
+  - value: Qfxfy6v
+    qualifiers:
+      role: guitar
+    references:
+    - source: music.apple.com-us-song-1708660130
+      quote: '"name":"Shervin Najafian","roleNames":["Acoustic Guitar"]'
+      accessed: '2026-11-13'
+  release date:
+  - value:
+      date: '2022-10-06'
+    references:
+    - source: music.apple.com-us-song-1708660130
+      quote: '"datePublished":"2022-10-06"'
+      accessed: '2026-11-13'
+      locator: Song JSON-LD datePublished
+  listen link:
+  - value: https://music.apple.com/us/song/soghati/1708660130
+    references:
+    - source: music.apple.com-us-song-1708660130
+      quote: 'Listen to Soghati by Marjan Farsad on Apple Music. 2022. Duration: 3:42'
+      accessed: '2026-11-13'
+      locator: Song JSON-LD description
+  - value: https://www.youtube.com/watch?v=epVyyEY6Jmw
+    references:
+    - source: www.youtube.com-watch-v-epvyyey6jmw
+      quote: Soghati · Marjan Farsad
+      accessed: '2026-11-13'
+      locator: Distributor recording description
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ab/89/41/ab894130-001d-4872-da51-6231733b9e87/artwork.jpg/1200x630bb.jpg
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-song-1708660130
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ab/89/41/ab894130-001d-4872-da51-6231733b9e87/artwork.jpg/1200x630bb.jpg
+      accessed: '2026-11-13'
+      locator: Song JSON-LD image
+  contributor:
+  - value: Qzz27ps
+    qualifiers:
+      role: original composer
+    references:
+    - source: www.youtube.com-watch-v-b9qyrgff2yu
+      quote: 'Original Composer: Mohammad Heidari'
+      accessed: '2026-11-13'
+      locator: Official video description
+  - value: Qhj2kpq
+    qualifiers:
+      role: lyricist
+    references:
+    - source: music.apple.com-us-song-1708660130
+      quote: '"name":"Ardalan Sarfaraz","roleNames":["Lyrics"]'
+      accessed: '2026-11-13'
+      locator: Song credit metadata
+  - value: Qfxfy6v
+    qualifiers:
+      role: producer
+    references:
+    - source: music.apple.com-us-song-1708660130
+      quote: '"name":"Shervin Najafian","roleNames":["Producer"]'
+      accessed: '2026-11-13'
+      locator: Song credit metadata

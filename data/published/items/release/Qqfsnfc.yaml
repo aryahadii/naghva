@@ -1,0 +1,72 @@
+id: Qqfsnfc
+type: release
+statements:
+  name:
+  - value:
+      text: Dar Lahze
+      language: en
+    references:
+    - source: sehrang.bandcamp.com-album-dar-lahze
+      quote: Dar Lahze
+      accessed: '2026-11-13'
+  performer:
+  - value: Qwh2kf7
+    references:
+    - source: sehrang.bandcamp.com-album-dar-lahze
+      quote: Sehrang
+      accessed: '2026-11-13'
+  - value: Q5j4q5k
+    qualifiers:
+      role: vocals
+    references:
+    - source: sehrang.bandcamp.com-album-dar-lahze
+      quote: Golnar Shahyar - Vocals
+      accessed: '2026-11-13'
+  - value: Q7hs4tn
+    qualifiers:
+      role: guitar
+    references:
+    - source: sehrang.bandcamp.com-album-dar-lahze
+      quote: Mahan Mirarab - Guitars
+      accessed: '2026-11-13'
+  - value: Qr9727d
+    qualifiers:
+      role: percussion
+    references:
+    - source: sehrang.bandcamp.com-album-dar-lahze
+      quote: Shayan Fathi - Percussion
+      accessed: '2026-11-13'
+  listen link:
+  - value: https://sehrang.bandcamp.com/album/dar-lahze
+    references:
+    - source: sehrang.bandcamp.com-album-dar-lahze
+      quote: Dar Lahze
+      accessed: '2026-11-13'
+  release date:
+  - value:
+      date: '2014-01-28'
+    references:
+    - source: sehrang.bandcamp.com-album-dar-lahze
+      quote: 28 Jan 2014 00:00:00 GMT
+      accessed: '2026-11-13'
+  - value:
+      date: '2013'
+    references:
+    - source: db.musicaustria.at-en-node-201011
+      quote: |-
+        2013 Dar Lazhe - Sehrang (Lotus Records)
+      accessed: '2026-11-13'
+  cover art:
+  - value: https://f4.bcbits.com/img/a1898496569_10.jpg
+    references:
+    - source: sehrang.bandcamp.com-album-dar-lahze
+      quote: Dar Lahze
+      accessed: '2026-11-13'
+  contributor:
+  - value: Qwh2kf7
+    qualifiers:
+      role: producer
+    references:
+    - source: sehrang.bandcamp.com-album-dar-lahze
+      quote: produced by Sehrang
+      accessed: '2026-11-13'

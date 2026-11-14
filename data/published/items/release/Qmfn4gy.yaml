@@ -1,0 +1,51 @@
+id: Qmfn4gy
+type: release
+statements:
+  name:
+  - value:
+      text: Mist Over
+      language: en
+    references:
+    - source: music.apple.com-us-album-mist-over-1582052105
+      quote: |-
+        Mist Over
+      accessed: '2026-11-13'
+  release date:
+  - value:
+      date: '2021-09-23'
+    references:
+    - source: music.apple.com-us-album-mist-over-1582052105
+      quote: |-
+        "datePublished":"2021-09-23"
+      accessed: '2026-11-13'
+  performer:
+  - value: Qzen4y9
+    references:
+    - source: music.apple.com-us-album-mist-over-1582052105
+      quote: |-
+        [{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/hamid-saeidi/432382439","name":"Hamid Saeidi"}]
+      accessed: '2026-11-13'
+  listen link:
+  - value: https://music.apple.com/us/album/mist-over/1582052105
+    references:
+    - source: music.apple.com-us-album-mist-over-1582052105
+      quote: |-
+        Mist Over
+      accessed: '2026-11-13'
+  - value: https://open.spotify.com/album/3p6f6LYKOhuH3iaN9v3uJ8
+    references:
+    - source: open.spotify.com-album-3p6f6lykohuh3ian9v3uj8
+      quote: |-
+        Listen to MIST OVER - Album by Hamid Saeidi | Spotify
+      accessed: '2026-11-13'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/a9/49/9d/a9499d46-0d3a-2db0-13a6-e42d9613e3f1/artwork.jpg/1200x1200bb.jpg
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-mist-over-1582052105
+      quote: |-
+        Mist Over
+      accessed: '2026-11-13'
