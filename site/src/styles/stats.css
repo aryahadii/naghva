@@ -270,3 +270,18 @@ html[lang=fa] .nf-title { font: 700 1.1rem/1.6 'Farhang2', serif }
 .net-shut:hover, .net-shut:focus-visible { background: var(--wash); color: var(--ivory) }
 .net-shut svg { width: 14px; height: 14px; fill: none; stroke: currentColor; stroke-width: 2; stroke-linecap: round }
 .net-card.is-peek .net-shut, .nf-sheet .net-shut { display: none }
+
+/* Wide screens: the shorter charts sit two to a row, the long year-by-year releases, the network and the archive
+   check keep the full width. Each pair shares its rows, so both titles take one line height and both charts start
+   level. Under 900px every chart takes the full width again. */
+@media (min-width: 901px) {
+  .numbers { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); column-gap: clamp(40px, 5vw, 72px) }
+  .numbers > :not(.q-half) { grid-column: 1 / -1 }
+  .q { gap: 28px; padding-block: clamp(48px, 5vw, 64px) }
+  .q-half { grid-template-columns: minmax(0, 1fr); grid-row: span 2; grid-template-rows: subgrid; row-gap: 28px }
+  .q-half h2 { font-size: clamp(1.5rem, 2.2vw, 1.9rem) }
+  html[lang=fa] .q-half h2 { font-size: clamp(1.4rem, 2vw, 1.7rem) }
+  .q-half .q-fig { align-self: start }
+  .cols { margin-top: 28px }
+  .q-half .hbars li { grid-template-columns: minmax(84px, 9em) minmax(0, 1fr) 3em; gap: 12px }
+}
