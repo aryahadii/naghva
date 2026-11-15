@@ -143,6 +143,8 @@ def derive_statement(statement):
         "rank": statement.get("rank", "normal"),
         "references": [dict(r) for r in statement["references"]],
     }
+    if statement.get("editorial"):
+        out["editorial"] = True
     if "qualifiers" in statement:
         out["qualifiers"] = {
             k: [with_range(v) for v in ds.as_list(vs)] for k, vs in statement["qualifiers"].items()
