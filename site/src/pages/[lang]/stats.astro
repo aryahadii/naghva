@@ -1,7 +1,8 @@
 ---
 import Page from '../../layouts/Page.astro';
 import { partsOf } from '../../lib/dates';
-import { num } from '../../lib/i18n';
+import { num, strings } from '../../lib/i18n';
+import type { PlatformKey } from '../../lib/platforms';
 import { LANGS, loadRecord, nameOf, url, type Lang } from '../../lib/record';
 import '../../styles/stats.css';
 
@@ -189,7 +190,7 @@ const half = (id: string) => (PAIRS.some((pair) => pair.includes(id) && pair.eve
         <figure class="q-fig">
           <ul class="hbars">
             {ls.platforms.map(([name, v]: [string, number]) => (
-              <li><span class="hb-label" dir="ltr">{name}</span><span class="hb-bar" style={`--w:${pct(v, ls.total)}%;--c:var(--coral)`}></span><span class="hb-val">{p(v, ls.total)}</span></li>
+              <li><span class="hb-label">{strings(lang).platforms[name as PlatformKey] ?? name}</span><span class="hb-bar" style={`--w:${pct(v, ls.total)}%;--c:var(--coral)`}></span><span class="hb-val">{p(v, ls.total)}</span></li>
             ))}
           </ul>
         </figure>

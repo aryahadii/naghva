@@ -79,6 +79,10 @@ export interface SiteRecord {
   panels: { [anchor: string]: string };
   /** Routing history for panels whose former artist credit was corrected. */
   panelHosts?: { [release: string]: string };
+  /** Each role term's kind, from the registry's `creation roles`. */
+  roles: { [role: string]: 'performance' | 'creation' };
+  /** The registry's listening platforms: key and the hosts it answers at. */
+  platforms: { [key: string]: string[] };
   /** The Statistics page's counts, made by tools/stats.py. */
   stats: any;
 }

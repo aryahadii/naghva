@@ -1,7 +1,7 @@
 import assert from 'node:assert/strict';
 import { readFileSync } from 'node:fs';
 import test from 'node:test';
-import { campaignProperties, landingSearch, sanitizeEvent, trafficProperties } from '../src/lib/analytics.ts';
+import { PLATFORMS, campaignProperties, landingSearch, sanitizeEvent, trafficProperties } from '../src/lib/analytics.ts';
 
 test('attribution preserves all five UTM values while excluding unrelated URL data', () => {
   const campaign = {
@@ -115,4 +115,14 @@ test('page leave and web vitals keep only their numeric measurements', () => {
   const search = sanitizeEvent({ event: 'search_used', properties: { surface: 'home', $prev_pageview_duration: 3, $web_vitals_LCP_value: 1 } }, context);
   assert.equal(search.properties.$prev_pageview_duration, undefined);
   assert.equal(search.properties.$web_vitals_LCP_value, undefined);
+});
+
+test('analytics keeps exactly the registry platforms, and both strings files name them', () => {
+  const record = JSON.parse(readFileSync(new URL('../generated/record.json', import.meta.url), 'utf8'));
+  const keys = Object.keys(record.platforms).sort();
+  assert.deepEqual([...PLATFORMS].sort(), keys);
+  for (const lang of ['en', 'fa']) {
+    const strings = JSON.parse(readFileSync(new URL(`../src/strings/${lang}.json`, import.meta.url), 'utf8'));
+    assert.deepEqual(Object.keys(strings.platforms).sort(), keys, lang);
+  }
 });
