@@ -2,7 +2,7 @@
 import Page from '../../layouts/Page.astro';
 import { partsOf } from '../../lib/dates';
 import { num } from '../../lib/i18n';
-import { LANGS, loadRecord, nameOf, url, type Lang } from '../../lib/record';
+import { LANGS, loadRecord, nameOf, REPOSITORY, url, type Lang } from '../../lib/record';
 import '../../styles/stats.css';
 
 /** Statistics: what the record holds and how complete it is, counted at build time. */
@@ -27,7 +27,8 @@ const description = T(
   'آرشیو نغوا به روایت آمار: آثار منتشرشده در هر سال، زمان آغاز کار هنرمندان، جاهایی که می‌شود این موسیقی را شنید، شبکهٔ همکاری‌ها و جاهای خالی آرشیو.',
 );
 const fmt = (o: Intl.DateTimeFormatOptions) => new Intl.DateTimeFormat(en ? 'en-GB' : 'fa-IR-u-ca-persian', { ...o, timeZone: 'UTC' });
-const built = fmt({ day: 'numeric', month: 'long', year: 'numeric' }).format(new Date());
+// The newest date anything in the record was read, so a rebuild alone does not move it.
+const built = fmt({ day: 'numeric', month: 'long', year: 'numeric' }).format(d.updated ? new Date(d.updated) : new Date());
 
 // Years in the page's calendar, one column per year for the last 26 years; anything older
 // is one "earlier" column, so a few early releases don't stretch the axis across decades.
@@ -328,7 +329,7 @@ const half = (id: string) => (PAIRS.some((pair) => pair.includes(id) && pair.eve
         'These numbers describe Naghva’s archive, not the whole scene: an artist or release that is missing here is missing from the archive, not from history. Each chart says how much of the archive it rests on.',
         'این آمارها تنها آرشیو نغوا را توصیف می‌کند، نه تمام موسیقی مستقل ایران را؛ اگر هنرمند یا اثری اینجا نیست، از آرشیو ما جا مانده است، نه از تاریخ. در کنار هر نمودار آمده است که بر چه بخشی از آرشیو تکیه دارد.',
       )}</p>
-      <p><a class="text-link" href="https://github.com/aryahadii/naghva">{T('The archive is open data on GitHub', 'داده‌های آرشیو در گیت‌هاب آزاد و در دسترس همگان است')}</a></p>
+      <p><a class="text-link" href={REPOSITORY}>{T('The archive is open data on GitHub', 'داده‌های آرشیو در گیت‌هاب آزاد و در دسترس همگان است')}</a></p>
     </aside>
   </main>
   <script is:inline define:vars={{ words: { with: T('Worked with', 'همکاری با'), more: T('more', 'نفر دیگر'), sep: en ? ', ' : '، ', digits: en ? 'en' : 'fa' } }}>

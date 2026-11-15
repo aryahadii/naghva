@@ -2,7 +2,7 @@ import { isoDate } from './dates';
 import { strings } from './i18n';
 import { addressOf, COVER_WIDTHS, imageOf, type LinkedImage } from './images';
 import {
-  best, datesDisagree, isDate, isText, nameOf, recordingArtists, releaseDates, releasesOf, url,
+  best, datesDisagree, isDate, isText, nameOf, recordingArtists, releaseDates, releasesOf, REPOSITORY, url,
   type Item, type Lang, type SiteRecord, type Text,
 } from './record';
 
@@ -105,7 +105,7 @@ export function artistJsonLd(
 }
 
 /** Where Naghva is kept besides its own site; a search engine reads these as the same organisation. */
-const NAGHVA_ELSEWHERE = ['https://www.wikidata.org/wiki/Q142171475', 'https://github.com/aryahadii/naghva'];
+const NAGHVA_ELSEWHERE = ['https://www.wikidata.org/wiki/Q142171475', REPOSITORY];
 
 /**
  * The site and who publishes it, under both names: a search engine takes the site's name from
