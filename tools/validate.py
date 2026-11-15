@@ -144,6 +144,55 @@ def check_source_urls(store, report):
             seen[key] = source
 
 
+def check_note(note, store, registry, report):
+    """A note's recorded searches: an artist that exists, registry platforms, real past days."""
+    if not note.searched:
+        return
+    where = store.rel(note.path)
+    target = store.items.get(note.about)
+    if target is None:
+        report.error(where, "`about` refers to unknown item %s" % note.about)
+    elif "merged into" in target.data:
+        report.error(where, "`about` refers to %s, merged into %s" % (note.about, target.data["merged into"]))
+        target = None
+    elif target.data.get("type") not in ARTIST_TYPES:
+        report.error(where, "`about` is a %s; searches are for a person or an act" % target.data.get("type"))
+        target = None
+    platforms = registry.get("platforms") or {}
+    profiles = set()
+    if target is not None:
+        for st in (target.data.get("statements") or {}).get("profile link", []):
+            if isinstance(st, dict) and ds.value_kind(st.get("value")) == "url":
+                profiles.add(ds.platform_of(st["value"], registry))
+    for key, day in note.searched.items():
+        here = "%s: searched %s" % (where, key)
+        if key not in platforms:
+            report.error(here, "not a platform key; use one of %s" % ", ".join(platforms))
+            continue
+        try:
+            searched = ds.iso_date(day)
+        except ValueError:
+            report.error(here, "not a real date: %s" % day)
+        else:
+            if _in_future(searched):
+                report.error(here, "in the future: %s" % day)
+            elif searched.year < EARLIEST_ACCESS:
+                report.warn(here, "before %d, likely a typo: %s" % (EARLIEST_ACCESS, day))
+        if key in profiles:
+            report.warn(here, "%s now has a profile link on %s; remove the search" % (note.about, key))
+
+
+def check_note_duplicates(store, report):
+    """One platform is recorded once per artist."""
+    seen = {}
+    for note in store.notes.values():
+        for key in note.searched:
+            first = seen.setdefault((note.about, key), note)
+            if first is not note:
+                report.error("%s: searched %s" % (store.rel(note.path), key),
+                             "already recorded for %s in %s" % (note.about, store.rel(first.path)))
+
+
 # --- Published ----------------------------------------------------------------------------
 
 
@@ -255,11 +304,19 @@ def _check_reference(where, ref, store, report):
     except ValueError:
         report.error(where, "`accessed` is not a real date: %s" % ref["accessed"])
     else:
-        # Anywhere on Earth it is at most a day past UTC's date, so an editor ahead of the CI clock still passes.
-        if accessed > datetime.datetime.now(datetime.timezone.utc).date() + datetime.timedelta(days=1):
+        if _in_future(accessed):
             report.error(where, "`accessed` is in the future: %s" % ref["accessed"])
         elif accessed.year < EARLIEST_ACCESS:
             report.warn(where, "`accessed` is before %d, likely a typo: %s" % (EARLIEST_ACCESS, ref["accessed"]))
+
+
+def _in_future(day):
+    """Whether a day has not begun anywhere on Earth yet.
+
+    Anywhere on Earth it is at most a day past UTC's date, so an editor ahead
+    of the CI clock still passes.
+    """
+    return day > datetime.datetime.now(datetime.timezone.utc).date() + datetime.timedelta(days=1)
 
 
 def _check_value(where, value, spec, name, store, registry, report):
@@ -402,6 +459,7 @@ def validate(root, report):
     item_schema = ds.schema_validator(schemas, "item.schema.json")
     source_schema = ds.schema_validator(schemas, "source.schema.json")
     article_schema = ds.schema_validator(schemas, "article.schema.json")
+    note_schema = ds.schema_validator(schemas, "note.schema.json")
 
     store = ds.load_store(root)
     for problem in store.problems:
@@ -422,6 +480,11 @@ def validate(root, report):
     for article in store.articles.values():
         if _schema_ok(article.path, article.meta, article_schema, store, report):
             check_article(article, store, report)
+
+    notes = [n for n in store.notes.values() if _schema_ok(n.path, n.meta, note_schema, store, report)]
+    for note in notes:
+        check_note(note, store, registry, report)
+    check_note_duplicates(_Notes(store, notes), report)
     return store
 
 
@@ -430,6 +493,14 @@ class _LiveItems:
 
     def __init__(self, store, items):
         self.items = {i.id: i for i in items if "merged into" not in i.data}
+        self.rel = store.rel
+
+
+class _Notes:
+    """The store, seen through only its schema-valid notes."""
+
+    def __init__(self, store, notes):
+        self.notes = {n.name: n for n in notes}
         self.rel = store.rel
 
 

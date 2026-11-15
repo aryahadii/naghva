@@ -340,6 +340,88 @@ class RuleTests(ValidateTests):
         self.edit("published/items/act/%s.yaml" % MERGED, "merged into: %s" % BAND, "merged into: %s" % NIMA)
         self.assertOnlyWarning(self.run_validator(), "merged into a person")
 
+    # --- Platform searches ----------------------------------------------------
+
+    def write_note(self, name, text):
+        path = self.root / "capture" / "notes" / (name + ".md")
+        path.write_text(text, encoding="utf-8")
+
+    def searched(self, about, **days):
+        lines = "".join("  %s: %s\n" % (key, day) for key, day in days.items())
+        return "---\nabout: %s\nsearched:\n%s---\n\nSearched for Badnama and بادنما.\n" % (about, lines)
+
+    def test_a_note_without_front_matter_is_free_text(self):
+        self.write_note("questions", "# Open questions\n\n- Who played bass in 2012?\n")
+        report = self.run_validator()
+        self.assertEqual(report.errors, [])
+        self.assertEqual(report.warnings, [])
+
+    def test_recorded_searches_load_and_validate(self):
+        self.write_note("badnama-searches", self.searched(BAND, bandcamp="2026-11-15", soundcloud="'2026-11-15'"))
+        store = validate.validate(self.root, report := validate.Report())
+        self.assertEqual(report.errors, [])
+        self.assertEqual(report.warnings, [])
+        found = store.searches(BAND)
+        self.assertEqual({k: day for k, (day, _) in found.items()}, {"bandcamp": "2026-11-15", "soundcloud": "2026-11-15"})
+        self.assertEqual(found["bandcamp"][1].name, "badnama-searches")
+
+    def test_searches_need_an_existing_live_artist(self):
+        self.write_note("unknown", self.searched("Qzzzzz9", bandcamp="2026-11-15"))
+        self.write_note("merged", self.searched(MERGED, bandcamp="2026-11-15"))
+        self.write_note("release", self.searched(RELEASE, bandcamp="2026-11-15"))
+        self.write_note("by-name", self.searched("Badnama", bandcamp="2026-11-15"))
+        self.write_note("no-about", "---\nsearched:\n  bandcamp: 2026-11-15\n---\n")
+        self.assertOnlyError(
+            self.run_validator(),
+            "by-name.md: $.about: 'Badnama' is not an item ID",
+            "merged.md: `about` refers to Q9pw4tm, merged into Q7k3m9x",
+            "no-about.md: $: 'about' is a dependency of 'searched'",
+            "release.md: `about` is a release; searches are for a person or an act",
+            "unknown.md: `about` refers to unknown item Qzzzzz9",
+        )
+
+    def test_searches_name_registry_platforms(self):
+        self.write_note("badnama", self.searched(BAND, Bandcamp="2026-11-15", deezer="2026-11-15"))
+        report = self.run_validator()
+        self.assertEqual(len(report.errors), 2, report.errors)
+        self.assertTrue(all("not a platform key; use one of youtube, spotify" in e for e in report.errors))
+
+    def test_searched_days_are_real_and_not_in_the_future(self):
+        import datetime
+        today = datetime.datetime.now(datetime.timezone.utc).date()
+        tomorrow, later = today + datetime.timedelta(days=1), today + datetime.timedelta(days=2)
+        self.write_note("ahead", self.searched(BAND, bandcamp=tomorrow.isoformat()))
+        self.assertEqual(self.run_validator().errors, [])
+        self.write_note("ahead", self.searched(BAND, bandcamp=later.isoformat(), youtube="'2026-02-30'"))
+        self.assertOnlyError(
+            self.run_validator(),
+            "searched bandcamp: in the future: %s" % later.isoformat(),
+            "searched youtube: not a real date: 2026-02-30",
+        )
+        self.write_note("ahead", self.searched(BAND, spotify="2026-11"))
+        self.assertOnlyError(self.run_validator(), "$.searched.spotify: '2026-11' is not a full date")
+        self.write_note("ahead", self.searched(BAND, apple="1405-08-24"))
+        self.assertOnlyWarning(self.run_validator(), "searched apple: before 2025, likely a typo: 1405-08-24")
+
+    def test_an_unquoted_impossible_day_cannot_be_read(self):
+        self.write_note("badnama", self.searched(BAND, bandcamp="2026-02-30"))
+        self.assertOnlyError(self.run_validator(), "badnama.md: cannot read")
+
+    def test_a_platform_is_recorded_once_per_artist(self):
+        self.write_note("a", self.searched(BAND, bandcamp="2026-11-01"))
+        self.write_note("b", self.searched(BAND, bandcamp="2026-11-15"))
+        self.write_note("c", self.searched(NIMA, bandcamp="2026-11-15"))
+        self.assertOnlyError(self.run_validator(), "b.md: searched bandcamp: already recorded for Q7k3m9x in")
+
+    def test_a_search_beside_a_profile_link_is_stale(self):
+        def add_profile(data):
+            data["statements"]["profile link"] = [dict(SARA_NAME, value="https://badnama-example.bandcamp.com/")]
+        self.change("act", BAND, add_profile)
+        self.write_note("badnama", self.searched(BAND, bandcamp="2026-11-15", soundcloud="2026-11-15"))
+        report = self.run_validator()
+        self.assertEqual(report.errors, [])
+        self.assertOnlyWarning(report, "searched bandcamp: Q7k3m9x now has a profile link on bandcamp")
+
     # --- References ----------------------------------------------------------
 
     def test_reference_quote_is_not_blank(self):
