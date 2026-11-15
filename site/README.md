@@ -36,9 +36,8 @@ mobile and desktop.
   key. Builds without a key use the free
   [Vazirmatn](https://github.com/rastikerdar/vazirmatn) in their place, so
   anyone can build the site.
-- **GitHub Actions** validates and builds pull requests. On `main`, in a
-  repository with Cloudflare configured, it deploys the checked production
-  build.
+- **GitHub Actions** validates, builds and tests every pull request and
+  `main`. **Cloudflare Workers Builds** builds `main` again and deploys it.
 
 ## Pages
 
@@ -162,9 +161,9 @@ builds reuse them. Copies are keyed by image hash, width and encoder version.
 
 In CI, only builds of `main` get the read-only key (the `R2_READ_*`
 secrets), and keep the originals in the Actions cache, so a build reads from
-R2 only when `media.json` changes. Once Cloudflare deploys are on,
-`NAGHVA_MEDIA_REQUIRED=1` makes a `main` build fail rather than ship an
-image without its own copy. Every other build, such as a pull request from a
+R2 only when `media.json` changes. They also set
+`NAGHVA_MEDIA_REQUIRED=1`, so `main` fails when an image has no own copy or
+the licensed fonts are missing. Every other build, such as a pull request from a
 fork, shows images from their publishers, and the page tries the publisher
 too if an own copy fails to load. The build reads each image's width and
 height from `media.json` so the page keeps its place while it loads. Each
@@ -242,13 +241,10 @@ check of the output: every page has its title, description, canonical address
 and twin, no id is used twice, and no internal link or anchor is broken.
 
 The [site workflow](../.github/workflows/site.yml) runs data validation, tests,
-type checks, production and example builds, and browser tests. It preserves the
-checked production artifact before building examples. On `main`, when the
-repository has a `CLOUDFLARE_ACCOUNT_ID` variable, it skips builds
-whose commit is no longer current, deploys with `npm run deploy`, and verifies
-that both public domains serve the artifact's commit SHA from `/build.json`.
-Deployment requires the
-repository's Cloudflare credentials. `SITE_URL` holds the published address for
+type checks, production and example builds, and browser tests. It does not
+deploy: Cloudflare Workers Builds builds and deploys `main` from the same
+commands, and `/build.json` on the live site names the commit it serves.
+`SITE_URL` holds the published address for
 canonical links and the sitemap; CI also requires a full commit SHA in
 `NAGHVA_BUILD_SHA`, `GITHUB_SHA` or Cloudflare’s `WORKERS_CI_COMMIT_SHA`.
 Local builds identify themselves as `local`.
