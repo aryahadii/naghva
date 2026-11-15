@@ -1,5 +1,6 @@
 ---
 url: https://sevdaliza.bandcamp.com/track/good-torture-ft-elyanna
+archive: https://web.archive.org/web/20250916101424/https://sevdaliza.bandcamp.com/track/good-torture-ft-elyanna
 title: Good Torture ft Elyanna | Sevdaliza
 language: en
 publisher: Sevdaliza

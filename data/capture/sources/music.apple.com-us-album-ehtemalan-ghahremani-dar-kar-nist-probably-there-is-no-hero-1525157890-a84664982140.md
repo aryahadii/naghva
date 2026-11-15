@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/ehtemalan-ghahremani-dar-kar-nist-probably-there-is-no-hero/1525157890
+archive: https://web.archive.org/web/20260907120529/https://music.apple.com/us/album/ehtemalan-ghahremani-dar-kar-nist-probably-there-is-no-hero/1525157890
 title: Ehtemalan Ghahremani Dar Kar Nist (Probably There Is No Hero) - Album by Bomrani - Apple Music
 language: en
 publisher: Apple Music

@@ -1,5 +1,6 @@
 ---
 url: https://www.bbc.com/persian/articles/cj7gd5lp8nlo
+archive: https://web.archive.org/web/20261111010522/https://www.bbc.com/persian/articles/cj7gd5lp8nlo
 title: فرهاد؛ طلوع و غروب «مرد تنها»
 language: fa
 publisher: BBC News فارسی

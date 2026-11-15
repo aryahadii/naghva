@@ -1,5 +1,6 @@
 ---
 url: https://www.grap.net/kram-wint-amsterdamse-popprijs-2025/
+archive: https://web.archive.org/web/20260717113330/https://www.grap.net/kram-wint-amsterdamse-popprijs-2025/
 title: KRAM wint Amsterdamse Popprijs 2025!
 status: processed
 kind: web page

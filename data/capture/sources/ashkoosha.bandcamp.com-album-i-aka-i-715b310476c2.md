@@ -1,5 +1,6 @@
 ---
 url: https://ashkoosha.bandcamp.com/album/i-aka-i
+archive: https://web.archive.org/web/20250922131858/https://ashkoosha.bandcamp.com/album/i-aka-i
 title: I AKA I | Ash Koosha
 language: en
 publisher: Bandcamp

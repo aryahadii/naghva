@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/majidsalari/ghazal-e-khoon
+archive: https://web.archive.org/web/20250406100946/https://soundcloud.com/majidsalari/ghazal-e-khoon
 title: Ghazal-E-Khoon
 kind: web page
 language: mul

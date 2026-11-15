@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/hichkasofficial/tigham-rooye-raget
+archive: https://web.archive.org/web/20250702204215/https://soundcloud.com/hichkasofficial/tigham-rooye-raget
 title: Tigham Rooye Raget on SoundCloud
 kind: web page
 language: mul

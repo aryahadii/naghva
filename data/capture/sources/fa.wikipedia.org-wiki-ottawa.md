@@ -1,5 +1,6 @@
 ---
 url: https://fa.wikipedia.org/wiki/%D8%A7%D8%AA%D8%A7%D9%88%D8%A7
+archive: https://web.archive.org/web/20261004203903/https://fa.wikipedia.org/wiki/%D8%A7%D8%AA%D8%A7%D9%88%D8%A7
 title: "اتاوا"
 kind: web page
 language: fa

@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/hame-single/1852604053
+archive: https://web.archive.org/web/20260919105504/https://music.apple.com/us/album/hame-single/1852604053
 title: HAME - Single - Album by Shahin Najafi - Apple Music
 status: processed
 kind: web page

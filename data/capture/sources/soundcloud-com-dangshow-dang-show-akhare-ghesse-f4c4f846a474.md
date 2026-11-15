@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/dangshow/dang-show-akhare-ghesse
+archive: https://web.archive.org/web/20250724054635/https://soundcloud.com/dangshow/dang-show-akhare-ghesse
 title: Stream Dang Show - Akhare Ghesse by Dang Show  دنگ شو | Listen online for free on SoundCloud
 kind: web page
 language: en

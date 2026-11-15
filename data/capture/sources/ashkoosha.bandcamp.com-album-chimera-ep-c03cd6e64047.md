@@ -1,5 +1,6 @@
 ---
 url: https://ashkoosha.bandcamp.com/album/chimera-ep
+archive: https://web.archive.org/web/20260408151343/https://ashkoosha.bandcamp.com/album/chimera-ep
 title: Chimera EP
 language: en
 status: processed

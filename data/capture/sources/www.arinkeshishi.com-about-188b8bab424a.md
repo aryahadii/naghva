@@ -1,5 +1,6 @@
 ---
 url: https://www.arinkeshishi.com/about
+archive: https://web.archive.org/web/20260712000955/https://www.arinkeshishi.com/about
 title: About – Arin Keshishi
 language: en
 publisher: Arin Keshishi

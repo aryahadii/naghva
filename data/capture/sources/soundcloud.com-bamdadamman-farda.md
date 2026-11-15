@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/bamdadamman/farda
+archive: https://web.archive.org/web/20250118060802/https://soundcloud.com/bamdadamman/farda
 title: Farda
 kind: web page
 language: en

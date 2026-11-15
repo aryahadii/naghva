@@ -1,5 +1,6 @@
 ---
 url: https://www.mamak-khadem.com/a-window-to-color
+archive: https://web.archive.org/web/20200728235144/http://www.mamak-khadem.com:80/a-window-to-color
 title: A Window To Color
 language: en
 publisher: Mamak Khadem

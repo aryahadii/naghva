@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/once-within-a-time-original-motion-picture-soundtrack/1802922692
+archive: https://web.archive.org/web/20260208061840/https://music.apple.com/us/album/once-within-a-time-original-motion-picture-soundtrack/1802922692
 title: Once Within A Time (Original Motion Picture Soundtrack)
 kind: music catalog item
 language: en

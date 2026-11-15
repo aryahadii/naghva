@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/blue-single/1287780086
+archive: https://web.archive.org/web/20250425231233/https://music.apple.com/us/album/blue-single/1287780086
 title: Blue - Single - Album by Shahin Najafi - Apple Music
 kind: web page
 language: en

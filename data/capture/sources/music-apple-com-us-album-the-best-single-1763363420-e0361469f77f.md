@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/the-best-single/1763363420
+archive: https://web.archive.org/web/20260726213537/https://music.apple.com/us/album/the-best-single/1763363420
 title: The Best - Single — Apple Music
 kind: web page
 language: en

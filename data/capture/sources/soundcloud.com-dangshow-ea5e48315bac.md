@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/dangshow
+archive: https://web.archive.org/web/20250724054636/https://soundcloud.com/dangshow
 title: Dang Show دنگ شو on SoundCloud
 kind: web page
 language: en

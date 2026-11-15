@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/adameh-mamooli-ordinary-man/78578000
+archive: https://web.archive.org/web/20260407191217/https://music.apple.com/us/album/adameh-mamooli-ordinary-man/78578000
 title: Adameh Mamooli (Ordinary Man) - Album by Kiosk - Apple Music
 language: en
 publisher: Apple Music

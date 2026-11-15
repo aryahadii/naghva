@@ -1,5 +1,6 @@
 ---
 url: https://kouroshyaghmaei.bandcamp.com/album/back-from-the-brink
+archive: https://web.archive.org/web/20260124060651/https://kouroshyaghmaei.bandcamp.com/album/back-from-the-brink
 title: Back From The Brink
 language: en
 status: processed

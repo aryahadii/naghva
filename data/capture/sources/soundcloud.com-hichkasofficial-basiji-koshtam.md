@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/hichkasofficial/basiji-koshtam
+archive: https://web.archive.org/web/20250702204213/https://soundcloud.com/hichkasofficial/basiji-koshtam
 title: Dishab Ye Basiji Koshtam on SoundCloud
 kind: web page
 language: mul

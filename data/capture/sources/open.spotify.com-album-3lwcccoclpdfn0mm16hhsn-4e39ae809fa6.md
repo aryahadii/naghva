@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/3LWCCCoClPDFN0mm16hHSN
+archive: https://web.archive.org/web/20250711192936/https://open.spotify.com/album/3LWCCCoClPDFN0mm16hHSN
 title: به راه خود - Album by 127 - Spotify
 language: en
 publisher: Spotify

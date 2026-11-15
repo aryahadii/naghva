@@ -1,5 +1,6 @@
 ---
 url: https://t.me/bomranimusic/247
+archive: https://web.archive.org/web/20220522005328/https://t.me/bomranimusic/247
 title: bomranimusic/247
 kind: web page
 language: fa

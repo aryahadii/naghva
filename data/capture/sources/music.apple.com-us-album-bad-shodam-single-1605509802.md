@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/bad-shodam-single/1605509802
+archive: https://web.archive.org/web/20260304051749/https://music.apple.com/us/album/bad-shodam-single/1605509802
 title: Bad Shodam - Single - Album by Yas - Apple Music
 status: processed
 kind: web page

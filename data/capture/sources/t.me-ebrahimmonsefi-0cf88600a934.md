@@ -1,5 +1,6 @@
 ---
 url: https://t.me/EbrahimMonsefi
+archive: https://web.archive.org/web/20260228032013/https://t.me/EbrahimMonsefi
 title: Rami.ir | ابراهیم منصفی
 status: processed
 kind: telegram channel

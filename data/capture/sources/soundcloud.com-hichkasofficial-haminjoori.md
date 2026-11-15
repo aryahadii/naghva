@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/hichkasofficial/haminjoori
+archive: https://web.archive.org/web/20250729004018/https://soundcloud.com/hichkasofficial/haminjoori
 title: Haminjoori on SoundCloud
 kind: web page
 language: mul

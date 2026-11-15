@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/bamdadamman/abulajan
+archive: https://web.archive.org/web/20220120001900/https://soundcloud.com/bamdadamman/abulajan
 title: Stream Abu Lajan [Prod. Tahrang] by Bamdad | Listen online for free on SoundCloud
 status: processed
 tier: discography

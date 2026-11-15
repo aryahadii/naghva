@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/echoes-of-my-mind/1799996866
+archive: https://web.archive.org/web/20260107015321/https://music.apple.com/us/album/echoes-of-my-mind/1799996866
 title: ‎Echoes of My Mind - Album by Farhad Mehrad - Apple Music
 status: processed
 tier: discography

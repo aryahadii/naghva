@@ -1,5 +1,6 @@
 ---
 url: https://zabtesote.bandcamp.com/album/rocrast
+archive: https://web.archive.org/web/20251104110931/https://zabtesote.bandcamp.com/album/rocrast
 title: RocRast | Pouya Ehsaei
 language: en
 publisher: Zabte Sote

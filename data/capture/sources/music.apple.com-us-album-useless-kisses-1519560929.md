@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/useless-kisses/1519560929
+archive: https://web.archive.org/web/20250706170522/https://music.apple.com/us/album/useless-kisses/1519560929
 title: Useless Kisses - Album by Mohsen Namjoo - Apple Music
 status: processed
 kind: web page

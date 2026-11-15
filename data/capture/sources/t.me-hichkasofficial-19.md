@@ -1,5 +1,6 @@
 ---
 url: https://t.me/hichkasofficial/19
+archive: https://web.archive.org/web/20220829064223/https://t.me/hichkasofficial/19
 title: 'Hichkas Telegram post 19: سال خوبی داشته باشین...'
 kind: telegram post
 language: fa

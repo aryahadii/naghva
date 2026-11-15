@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/white-tree/1518980440
+archive: https://web.archive.org/web/20250406110059/https://music.apple.com/us/album/white-tree/1518980440
 title: White Tree - Album by Marjan Farsad
 language: en
 publisher: Apple Music

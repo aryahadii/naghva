@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/barf/1798706878
+archive: https://web.archive.org/web/20260107071251/https://music.apple.com/us/album/barf/1798706878
 title: Barf - Album by Farhad Mehrad - Apple Music
 language: en
 publisher: Apple Music

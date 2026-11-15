@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/artist/2X90kCLyxyPeJ5nynJGbvT
+archive: https://web.archive.org/web/20251023225150/https://open.spotify.com/artist/2X90kCLyxyPeJ5nynJGbvT
 title: Listen to Hichkas Songs | Spotify
 status: processed
 kind: web page

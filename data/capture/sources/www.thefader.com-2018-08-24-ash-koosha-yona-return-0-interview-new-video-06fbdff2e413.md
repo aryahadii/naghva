@@ -1,5 +1,6 @@
 ---
 url: https://www.thefader.com/2018/08/24/ash-koosha-yona-return-0-interview-new-video
+archive: https://web.archive.org/web/20260118222837/https://www.thefader.com/2018/08/24/ash-koosha-yona-return-0-interview-new-video
 title: Ash Koosha explains why robots won’t actually kill us all | The FADER
 kind: web page
 language: en

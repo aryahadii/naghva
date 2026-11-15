@@ -1,5 +1,6 @@
 ---
 url: https://fa.wikipedia.org/wiki/%D8%B3%D9%86%D9%86%D8%AF%D8%AC
+archive: https://web.archive.org/web/20260801151118/https://fa.wikipedia.org/wiki/%D8%B3%D9%86%D9%86%D8%AF%D8%AC
 title: "سنندج"
 kind: web page
 language: fa

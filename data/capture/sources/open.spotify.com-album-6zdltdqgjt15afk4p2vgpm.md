@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/6zdltdQGjT15afK4p2vgpm
+archive: https://web.archive.org/web/20240616132529/https://open.spotify.com/album/6zdltdQGjT15afK4p2vgpm
 title: Listen to On the String of the Tear's Bow - Album by Mohsen Namjoo | Spotify
 status: processed
 kind: web page

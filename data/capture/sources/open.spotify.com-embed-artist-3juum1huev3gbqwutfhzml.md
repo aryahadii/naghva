@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/embed/artist/3juum1Huev3gBqWuTfHzML
+archive: https://web.archive.org/web/20180416025856/https://open.spotify.com/embed/artist/3juum1Huev3gBqWuTfHzML
 title: Chaartaar
 status: processed
 kind: web page

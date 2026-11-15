@@ -1,5 +1,6 @@
 ---
 url: https://madeiniranrecords.bandcamp.com/album/micro-tehran
+archive: https://web.archive.org/web/20260202091538/https://madeiniranrecords.bandcamp.com/album/micro-tehran
 title: Micro Tehran by Unlucky Ninjas
 language: en
 publisher: Made in Iran (Bandcamp)

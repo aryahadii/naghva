@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/bbbbc-single/908620893
+archive: https://web.archive.org/web/20251012062853/https://music.apple.com/us/album/bbbbc-single/908620893
 title: Bbbbc - Single - Album by Shahin Najafi - Apple Music
 status: processed
 kind: web page

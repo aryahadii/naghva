@@ -1,5 +1,6 @@
 ---
 url: https://meidaan.com/archive/11774
+archive: https://web.archive.org/web/20260415001736/https://meidaan.com/archive/11774
 title: لطفا لامپ‌های اضافی‌ را خاموش کنید (interview with Yahya Alkhansa)
 language: fa
 publisher: Meidaan

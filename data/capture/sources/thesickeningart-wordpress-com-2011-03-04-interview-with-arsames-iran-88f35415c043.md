@@ -1,5 +1,6 @@
 ---
 url: https://thesickeningart.wordpress.com/2011/03/04/interview-with-arsames-iran/
+archive: https://web.archive.org/web/20200807010217/https://thesickeningart.wordpress.com/2011/03/04/interview-with-arsames-iran/
 title: Interview With Arsames (Iran)
 language: en
 publisher: The Sickening Art / Samyam Shrestha

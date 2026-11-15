@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=6LXoTy0n0HU
+archive: https://web.archive.org/web/20250130080709/https://www.youtube.com/watch?v=6LXoTy0n0HU
 title: Ali Azimi - Khooneyeh Bahar - علی عظیمی - خونه باهار
 language: mul
 publisher: Ali Azimi

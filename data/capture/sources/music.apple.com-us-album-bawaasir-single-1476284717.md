@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/bawaasir-single/1476284717
+archive: https://web.archive.org/web/20241206114021/https://music.apple.com/us/album/bawaasir-single/1476284717
 title: Bawaasir - Single - Album by Shahin Najafi - Apple Music
 status: processed
 kind: web page

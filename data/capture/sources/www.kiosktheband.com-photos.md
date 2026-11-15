@@ -1,5 +1,6 @@
 ---
 url: https://www.kiosktheband.com/photos
+archive: https://web.archive.org/web/20260809105053/https://www.kiosktheband.com/photos
 title: PHOTOS | KIOSK
 status: processed
 tier: own

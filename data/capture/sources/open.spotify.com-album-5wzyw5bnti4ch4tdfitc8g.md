@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/5wZyW5bNti4ch4tdFiTC8G
+archive: https://web.archive.org/web/20251206195553/https://open.spotify.com/album/5wZyW5bNti4ch4tdFiTC8G
 title: Listen to Gis - Album by Mohsen Namjoo | Spotify
 status: processed
 kind: web page

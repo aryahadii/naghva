@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/istadeh-mordan-single/534358013
+archive: https://web.archive.org/web/20260919105502/https://music.apple.com/us/album/istadeh-mordan-single/534358013
 title: Istadeh Mordan - Single - Album by Shahin Najafi - Apple Music
 status: processed
 kind: web page

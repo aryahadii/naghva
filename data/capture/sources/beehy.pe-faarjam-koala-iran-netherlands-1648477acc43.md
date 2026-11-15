@@ -1,5 +1,6 @@
 ---
 url: https://beehy.pe/faarjam-koala-iran-netherlands/
+archive: https://web.archive.org/web/20251011203554/https://beehy.pe/faarjam-koala-iran-netherlands/
 title: 'Iran: Faarjam - Koala EP'
 language: en
 author: Ali Eshqi

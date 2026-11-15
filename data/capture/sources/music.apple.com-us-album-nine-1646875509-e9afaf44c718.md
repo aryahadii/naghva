@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/nine/1646875509
+archive: https://web.archive.org/web/20250911072144/https://music.apple.com/us/album/nine/1646875509
 title: Nine - Album by Farzad Golpayegani - Apple Music
 language: en
 publisher: Apple Music

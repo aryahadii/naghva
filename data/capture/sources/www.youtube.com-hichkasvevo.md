@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/@HichkasVEVO
+archive: https://web.archive.org/web/20260810233953/https://www.youtube.com/@HichkasVEVO
 title: HichkasVEVO
 kind: youtube channel
 language: en

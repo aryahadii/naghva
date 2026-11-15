@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/majnoon-feat-omid-nemati-single/1541734225
+archive: https://web.archive.org/web/20230406181826/https://music.apple.com/us/album/majnoon-feat-omid-nemati-single/1541734225
 title: Majnoon (feat. Omid Nemati) - Single - Album by Kābin - Apple Music
 language: en
 publisher: Apple Music

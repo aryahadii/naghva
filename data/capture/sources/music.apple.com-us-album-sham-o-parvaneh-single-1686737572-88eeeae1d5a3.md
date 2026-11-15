@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/sham-o-parvaneh-single/1686737572
+archive: https://web.archive.org/web/20260726063636/https://music.apple.com/us/album/sham-o-parvaneh-single/1686737572
 title: Sham o Parvaneh — Apple release edition
 kind: web page
 language: mul

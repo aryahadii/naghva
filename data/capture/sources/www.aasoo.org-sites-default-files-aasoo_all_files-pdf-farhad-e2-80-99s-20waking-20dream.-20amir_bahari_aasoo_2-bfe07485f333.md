@@ -1,5 +1,6 @@
 ---
 url: https://www.aasoo.org/sites/default/files/aasoo_all_files/pdf/Farhad%E2%80%99s%20Waking%20Dream.%20Amir_Bahari_aaSoo_2024..pdf
+archive: https://web.archive.org/web/20260211055548/https://www.aasoo.org/sites/default/files/aasoo_all_files/pdf/Farhad%E2%80%99s%20Waking%20Dream.%20Amir_Bahari_aaSoo_2024..pdf
 title: خواب فرهاد در بیداری
 language: fa
 author: امیر بهاری

@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/eshghe-sorat-amor-de-la-velocidad/254473047
+archive: https://web.archive.org/web/20260811155131/https://music.apple.com/us/album/eshghe-sorat-amor-de-la-velocidad/254473047
 title: Eshghe Sorat (amor de la Velocidad) - Album by Kiosk - Apple Music
 language: en
 publisher: Apple Music

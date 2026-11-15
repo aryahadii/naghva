@@ -1,5 +1,6 @@
 ---
 url: https://www.al-monitor.com/originals/2026/08/famed-singer-returns-iran-after-decades-exile
+archive: https://web.archive.org/web/20260831141639/https://www.al-monitor.com/originals/2026/08/famed-singer-returns-iran-after-decades-exile
 title: Famed singer returns to Iran after decades of exile
 language: en
 status: processed

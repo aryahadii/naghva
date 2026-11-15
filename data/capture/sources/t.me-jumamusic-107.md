@@ -1,5 +1,6 @@
 ---
 url: https://t.me/jumamusic/107
+archive: https://web.archive.org/web/20250417021333/https://t.me/jumamusic/107
 title: جوما — 107
 kind: telegram post
 language: fa

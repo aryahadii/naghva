@@ -1,5 +1,6 @@
 ---
 url: https://t.me/s/majidsalarimusic/152
+archive: https://web.archive.org/web/20250718111511/https://t.me/s/majidsalarimusic/152
 title: دورِن مَــرَه — credits
 kind: telegram post
 language: mul

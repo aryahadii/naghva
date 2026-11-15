@@ -1,5 +1,6 @@
 ---
 url: https://en.wikipedia.org/wiki/Alexandra_Drewchin
+archive: https://web.archive.org/web/20251008020329/https://en.wikipedia.org/wiki/Alexandra_Drewchin
 title: Eartheater identity
 status: processed
 tier: wikipedia

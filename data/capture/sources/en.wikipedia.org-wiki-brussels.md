@@ -1,5 +1,6 @@
 ---
 url: https://en.wikipedia.org/wiki/Brussels
+archive: https://web.archive.org/web/20261110212408/https://en.wikipedia.org/wiki/Brussels
 title: "Brussels"
 kind: web page
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://t.me/AliAzimiMusic/657
+archive: https://web.archive.org/web/20250105023848/https://t.me/AliAzimiMusic/657
 title: Ali Azimi - Marze Por Gohar
 publisher: Ali Azimi
 language: mul

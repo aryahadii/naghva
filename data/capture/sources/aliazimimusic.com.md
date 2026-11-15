@@ -1,5 +1,6 @@
 ---
 url: https://aliazimimusic.com/
+archive: https://web.archive.org/web/20261010144957/https://aliazimimusic.com/
 title: Ali Azimi official website
 language: mul
 publisher: Ali Azimi

@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/hichkasofficial/hanoobeyadetam
+archive: https://web.archive.org/web/20260926030201/https://soundcloud.com/hichkasofficial/hanoobeyadetam
 title: Hanoo Be Yadetam on SoundCloud
 kind: web page
 language: en

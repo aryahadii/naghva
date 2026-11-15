@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/naked-socks/532815567
+archive: https://web.archive.org/web/20220622115152/https://music.apple.com/us/album/naked-socks/532815567
 title: Naked Socks - Album by Bomrani - Apple Music
 language: en
 publisher: Apple Music

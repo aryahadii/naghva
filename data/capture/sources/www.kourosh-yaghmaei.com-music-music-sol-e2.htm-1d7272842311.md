@@ -1,5 +1,6 @@
 ---
 url: http://www.kourosh-yaghmaei.com/music/music-sol-e2.htm
+archive: https://web.archive.org/web/20260517090856/http://www.kourosh-yaghmaei.com/music/music-sol-e2.htm
 title: Sol E2
 language: fa
 publisher: Kourosh Yaghmaei official website

@@ -1,5 +1,6 @@
 ---
 url: https://en.wikipedia.org/wiki/Bandar_Abbas
+archive: https://web.archive.org/web/20261029055257/https://en.wikipedia.org/wiki/Bandar_Abbas
 title: "Bandar Abbas"
 kind: web page
 language: en

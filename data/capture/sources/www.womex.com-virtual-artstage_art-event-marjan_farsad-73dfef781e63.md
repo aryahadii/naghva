@@ -1,5 +1,6 @@
 ---
 url: https://www.womex.com/virtual/artstage_art/event/marjan_farsad
+archive: https://web.archive.org/web/20260316053530/https://www.womex.com/virtual/artstage_art/event/marjan_farsad
 title: Marjan Farsad
 language: en
 publisher: WOMEX

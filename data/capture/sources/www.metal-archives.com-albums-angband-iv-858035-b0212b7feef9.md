@@ -1,5 +1,6 @@
 ---
 url: https://www.metal-archives.com/albums/Angband/IV/858035
+archive: https://web.archive.org/web/20250818171638/https://www.metal-archives.com/albums/Angband/IV/858035
 title: Angband - IV - Encyclopaedia Metallum
 language: en
 publisher: Metal Archives

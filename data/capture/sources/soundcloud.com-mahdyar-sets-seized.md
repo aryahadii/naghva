@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/mahdyar/sets/seized
+archive: https://web.archive.org/web/20231231180049/https://soundcloud.com/mahdyar/sets/seized
 title: Seized
 kind: playlist
 language: en

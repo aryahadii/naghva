@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/persian-soul-%D9%85%D9%88%D8%B3%DB%8C%D9%82%DB%8C-%D8%B1%D9%88%D8%AD/1799592136
+archive: https://web.archive.org/web/20250510135539/https://music.apple.com/us/album/persian-soul-%D9%85%D9%88%D8%B3%DB%8C%D9%82%DB%8C-%D8%B1%D9%88%D8%AD/1799592136
 title: Persian Soul موسیقی روح - Album by Rana Farhan - Apple Music
 language: en
 publisher: Apple Music

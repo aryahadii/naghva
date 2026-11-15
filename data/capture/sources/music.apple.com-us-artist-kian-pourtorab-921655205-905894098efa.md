@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/artist/kian-pourtorab/921655205
+archive: https://web.archive.org/web/20251011211747/https://music.apple.com/us/artist/kian-pourtorab/921655205
 title: Kian Pourtorab | Apple Music
 language: en
 publisher: Apple Music

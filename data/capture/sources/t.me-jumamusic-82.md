@@ -1,5 +1,6 @@
 ---
 url: https://t.me/jumamusic/82
+archive: https://web.archive.org/web/20230330120312/https://t.me/jumamusic/82
 title: جوما — 82
 kind: telegram post
 language: fa

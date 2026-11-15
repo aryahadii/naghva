@@ -1,5 +1,6 @@
 ---
 url: https://rockeramagazine.com/an-interview-with-kahtmayan/
+archive: https://web.archive.org/web/20260713004619/https://rockeramagazine.com/an-interview-with-kahtmayan/
 title: An interview with Kahtmayan
 kind: web page
 language: en

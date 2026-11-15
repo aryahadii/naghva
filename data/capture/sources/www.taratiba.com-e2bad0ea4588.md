@@ -1,5 +1,6 @@
 ---
 url: https://www.taratiba.com/
+archive: https://web.archive.org/web/20260811120115/https://www.taratiba.com/
 title: Tara Tiba | Persian Singer
 language: en
 publisher: taratiba.com

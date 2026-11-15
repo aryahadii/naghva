@@ -1,5 +1,6 @@
 ---
 url: https://www.seattletimes.com/entertainment/exiled-iranian-singer-mohsen-namjoo-makes-northwest-debut/
+archive: https://web.archive.org/web/20251208113233/https://www.seattletimes.com/entertainment/exiled-iranian-singer-mohsen-namjoo-makes-northwest-debut/
 title: Exiled Iranian singer Mohsen Namjoo makes Northwest debut
 language: en
 author: Paul de Barros

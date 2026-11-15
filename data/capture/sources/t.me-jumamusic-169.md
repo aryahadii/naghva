@@ -1,5 +1,6 @@
 ---
 url: https://t.me/jumamusic/169
+archive: https://web.archive.org/web/20240918171439/https://t.me/jumamusic/169
 title: گزارش جوما از اجراها و اوخان
 kind: web page
 language: fa

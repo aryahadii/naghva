@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/toranj/1570098295
+archive: https://web.archive.org/web/20250706170520/https://music.apple.com/us/album/toranj/1570098295
 title: Toranj - Album by Mohsen Namjoo - Apple Music
 language: en
 publisher: Apple Music

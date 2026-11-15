@@ -1,5 +1,6 @@
 ---
 url: https://loudwire.com/arsames-escape-iran-sentenced-15-years-prison/
+archive: https://web.archive.org/web/20260901151948/https://loudwire.com/arsames-escape-iran-sentenced-15-years-prison/
 title: Metal Band Arsames Escape Iran After Being Sentenced to 15 Years in Prison
 language: en
 publisher: Loudwire / Graham Hartmann

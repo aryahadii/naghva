@@ -1,5 +1,6 @@
 ---
 url: https://www.musicexport.at/artist/rojin-sharafi/
+archive: https://web.archive.org/web/20260615083220/https://www.musicexport.at/artist/rojin-sharafi/
 title: Rojin Sharafi - Austrian Music Export
 status: processed
 tier: own

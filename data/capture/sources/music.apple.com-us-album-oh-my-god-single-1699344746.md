@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/oh-my-god-single/1699344746
+archive: https://web.archive.org/web/20261014104114/https://music.apple.com/us/album/oh-my-god-single/1699344746
 title: Oh My God - Single - Album by Sevdaliza - Apple Music
 status: processed
 kind: web page

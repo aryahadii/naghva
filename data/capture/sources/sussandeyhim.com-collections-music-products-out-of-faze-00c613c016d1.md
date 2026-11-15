@@ -1,5 +1,6 @@
 ---
 url: https://sussandeyhim.com/collections/music/products/out-of-faze
+archive: https://web.archive.org/web/20250909222709/https://sussandeyhim.com/collections/music/products/out-of-faze
 title: Out Of Faze Music by Sussan Deyhim
 language: en
 publisher: Sussan Deyhim Gallery

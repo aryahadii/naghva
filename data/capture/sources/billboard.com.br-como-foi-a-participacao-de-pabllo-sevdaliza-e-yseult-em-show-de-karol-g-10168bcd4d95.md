@@ -1,5 +1,6 @@
 ---
 url: https://billboard.com.br/como-foi-a-participacao-de-pabllo-sevdaliza-e-yseult-em-show-de-karol-g/
+archive: https://web.archive.org/web/20250430233656/https://billboard.com.br/como-foi-a-participacao-de-pabllo-sevdaliza-e-yseult-em-show-de-karol-g/
 title: Como foi a participação de Pabllo, Sevdaliza e Yseult em show de Karol G?
 language: pt
 publisher: Billboard Brasil

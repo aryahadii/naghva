@@ -1,5 +1,6 @@
 ---
 url: http://www.kourosh-yaghmaei.com/biography/Biography-p.htm
+archive: https://web.archive.org/web/20260215224823/http://www.kourosh-yaghmaei.com/biography/Biography-p.htm
 title: Kourosh Yaghmaei biography
 kind: artist biography
 language: fa

@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/booseh-single/1729064628
+archive: https://web.archive.org/web/20240507030852/https://music.apple.com/us/album/booseh-single/1729064628
 title: Booseh - Single - Album by Tara Salahi, HEEN & Nima Ramezan - Apple Music
 language: en
 publisher: Apple Music

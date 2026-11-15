@@ -1,5 +1,6 @@
 ---
 url: "https://old.froster.org/sections/article-268.html"
+archive: https://web.archive.org/web/20210126054203/https://old.froster.org/sections/article-268.html
 title: "ANGBAND (.ir) - Froster.Org - Metal Portal"
 kind: "web page"
 language: "en"

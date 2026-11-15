@@ -1,5 +1,6 @@
 ---
 url: https://www.theransomnote.com/music/interviews/extension-of-self-ash-koosha-talks/
+archive: https://web.archive.org/web/20260316183832/https://www.theransomnote.com/music/interviews/extension-of-self-ash-koosha-talks/
 title: 'Extension of Self: Ash Koosha Talks - Ransom Note'
 kind: web page
 language: en

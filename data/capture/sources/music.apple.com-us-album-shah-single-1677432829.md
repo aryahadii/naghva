@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/shah-single/1677432829
+archive: https://web.archive.org/web/20260919105502/https://music.apple.com/us/album/shah-single/1677432829
 title: Shah - Single - Album by Shahin Najafi - Apple Music
 status: processed
 kind: web page

@@ -1,5 +1,6 @@
 ---
 url: https://en.wikipedia.org/wiki/Paris
+archive: https://web.archive.org/web/20261114032408/https://en.wikipedia.org/wiki/Paris
 title: "Paris"
 kind: web page
 language: en

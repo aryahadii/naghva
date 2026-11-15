@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/artist/2Oce2LJbujV0DJHUWFf0M9
+archive: https://web.archive.org/web/20240919224555/https://open.spotify.com/artist/2Oce2LJbujV0DJHUWFf0M9
 title: Kamakan — Spotify
 kind: web page
 language: mul

@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/mr-mean/736586588
+archive: https://web.archive.org/web/20261011070614/https://music.apple.com/us/album/mr-mean/736586588
 title: Mr. Mean - Album by Ali Azimi - Apple Music
 language: en
 publisher: Apple Music

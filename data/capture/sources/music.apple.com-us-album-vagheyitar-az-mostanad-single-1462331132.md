@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/vagheyitar-az-mostanad-single/1462331132
+archive: https://web.archive.org/web/20250427172357/https://music.apple.com/us/album/vagheyitar-az-mostanad-single/1462331132
 title: Vagheyitar Az Mostanad - Single - Album by Hichkas - Apple Music
 status: processed
 kind: web page

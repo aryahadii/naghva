@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/4BQ1TJuCDSaS0XNOBs7aBF
+archive: https://web.archive.org/web/20260220124427/https://open.spotify.com/album/4BQ1TJuCDSaS0XNOBs7aBF
 title: Listen to High Alone - Single by Sevdaliza | Spotify
 status: processed
 kind: web page

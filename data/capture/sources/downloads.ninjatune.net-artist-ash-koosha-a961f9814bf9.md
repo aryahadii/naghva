@@ -1,5 +1,6 @@
 ---
 url: https://downloads.ninjatune.net/artist/ash-koosha
+archive: https://web.archive.org/web/20260209170543/https://downloads.ninjatune.net/artist/ash-koosha
 title: Ash Koosha | Ninja Tune
 kind: web page
 language: en

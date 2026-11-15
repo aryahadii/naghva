@@ -1,5 +1,6 @@
 ---
 url: https://t.me/s/kouroshyaghmaei/1580
+archive: https://web.archive.org/web/20240821130956/https://t.me/s/kouroshyaghmaei/1580
 title: Kourosh Yaghmaei official Telegram post 1580
 kind: telegram post
 language: fa

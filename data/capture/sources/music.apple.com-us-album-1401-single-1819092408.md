@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/1401-single/1819092408
+archive: https://web.archive.org/web/20260919105456/https://music.apple.com/us/album/1401-single/1819092408
 title: 1401 - Single - Album by Yas - Apple Music
 status: processed
 kind: web page

@@ -1,5 +1,6 @@
 ---
 url: https://www.nowagainrecords.com/kourosh/
+archive: https://web.archive.org/web/20260105101154/https://www.nowagainrecords.com/kourosh/
 title: Kourosh
 language: en
 publisher: Now-Again Records

@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/4dhdO2RcY7KRcfnWw8pji4
+archive: https://web.archive.org/web/20250822135430/https://open.spotify.com/album/4dhdO2RcY7KRcfnWw8pji4
 title: Listen to Personal Cipher - Album by Mohsen Namjoo | Spotify
 status: processed
 kind: web page

@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/rooye-jenazat-miraghsam-single/1748538598
+archive: https://web.archive.org/web/20260429113516/https://music.apple.com/us/album/rooye-jenazat-miraghsam-single/1748538598
 title: Rooye Jenazat Miraghsam - Single by Hichkas on Apple Music
 kind: web page
 language: en

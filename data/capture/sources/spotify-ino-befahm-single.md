@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/3sRj9mye5nN8JTPfc6xSzz
+archive: https://web.archive.org/web/20200517144902/https://open.spotify.com/album/3sRj9mye5nN8JTPfc6xSzz
 title: Ino Befahm - Single
 kind: web page
 language: en

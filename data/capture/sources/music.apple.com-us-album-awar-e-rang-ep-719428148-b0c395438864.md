@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/awar-e-rang-ep/719428148
+archive: https://web.archive.org/web/20250526181214/https://music.apple.com/us/album/awar-e-rang-ep/719428148
 title: Awar E Rang - EP - Album by Faarjam - Apple Music
 kind: web page
 language: en

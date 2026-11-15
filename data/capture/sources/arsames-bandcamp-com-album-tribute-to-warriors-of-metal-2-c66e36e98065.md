@@ -1,5 +1,6 @@
 ---
 url: https://arsames.bandcamp.com/album/tribute-to-warriors-of-metal-2
+archive: https://web.archive.org/web/20251215201632/https://arsames.bandcamp.com/album/tribute-to-warriors-of-metal-2
 title: Tribute To Warriors of Metal
 language: en
 publisher: Arsames (Bandcamp)

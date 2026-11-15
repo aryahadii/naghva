@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/vaghte-raftan-feat-aamin-single/1605486077
+archive: https://web.archive.org/web/20250601140718/https://music.apple.com/us/album/vaghte-raftan-feat-aamin-single/1605486077
 title: Vaghte Raftan (feat. Aamin) - Single - Album by Yas - Apple Music
 status: processed
 kind: web page

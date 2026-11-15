@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/shayad-behtarin-roozam-gozashteh-maybe-my-best-day/1830944495
+archive: https://web.archive.org/web/20260830160855/https://music.apple.com/us/album/shayad-behtarin-roozam-gozashteh-maybe-my-best-day/1830944495
 title: Shayad Behtarin Roozam Gozashteh (Maybe My Best Day Has Passed) - Album by Bomrani - Apple Music
 language: en
 publisher: Apple Music

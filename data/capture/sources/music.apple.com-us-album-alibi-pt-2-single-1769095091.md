@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/alibi-pt-2-single/1769095091
+archive: https://web.archive.org/web/20261012024724/https://music.apple.com/us/album/alibi-pt-2-single/1769095091
 title: Alibi Pt. 2 - Single - Album by Sevdaliza, Anitta, Pabllo Vittar & Yseult - Apple Music
 status: processed
 kind: web page

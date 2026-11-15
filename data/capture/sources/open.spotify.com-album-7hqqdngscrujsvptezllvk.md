@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/7hqQDngsCrUjsvPtezLlvk
+archive: https://web.archive.org/web/20220506141032/https://open.spotify.com/album/7hqQDngsCrUjsvPtezLlvk
 title: Listen to Condition Orange (Live) - Album by Kiosk | Spotify
 status: processed
 kind: web page

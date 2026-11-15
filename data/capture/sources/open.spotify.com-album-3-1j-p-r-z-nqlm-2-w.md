@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/3T1jOATpHrBzMnqlmU2UwC
+archive: https://web.archive.org/web/20190819174930/https://open.spotify.com/album/3T1jOATpHrBzMnqlmU2UwC
 title: Listen to Madman of God - Album by Sussan Deyhim | Spotify
 status: processed
 tier: discography

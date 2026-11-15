@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/khooneye-bahar-single/1551575493
+archive: https://web.archive.org/web/20261011070614/https://music.apple.com/us/album/khooneye-bahar-single/1551575493
 title: Khooneye Bahar - Single by Ali Azimi on Apple Music
 language: mul
 publisher: Apple Music

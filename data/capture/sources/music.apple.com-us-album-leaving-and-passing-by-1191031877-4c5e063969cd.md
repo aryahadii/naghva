@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/leaving-and-passing-by/1191031877
+archive: https://web.archive.org/web/20260801214555/https://music.apple.com/us/album/leaving-and-passing-by/1191031877
 title: Leaving and Passing By - Album by Bomrani - Apple Music
 language: en
 publisher: Apple Music

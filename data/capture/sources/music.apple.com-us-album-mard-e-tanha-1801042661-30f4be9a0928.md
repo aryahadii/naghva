@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/mard-e-tanha/1801042661
+archive: https://web.archive.org/web/20251206140800/https://music.apple.com/us/album/mard-e-tanha/1801042661
 title: Mard-E Tanha - Album by Farhad Mehrad - Apple Music
 language: en
 publisher: Apple Music

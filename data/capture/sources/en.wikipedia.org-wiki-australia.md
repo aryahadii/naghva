@@ -1,5 +1,6 @@
 ---
 url: https://en.wikipedia.org/wiki/Australia
+archive: https://web.archive.org/web/20261115073327/https://en.wikipedia.org/wiki/Australia
 title: "Australia"
 kind: web page
 language: en

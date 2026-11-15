@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/tehran-smile/994269923
+archive: https://web.archive.org/web/20250706170522/https://music.apple.com/us/album/tehran-smile/994269923
 title: Tehran, Smile! - Album by Pallett - Apple Music
 kind: web page
 language: en

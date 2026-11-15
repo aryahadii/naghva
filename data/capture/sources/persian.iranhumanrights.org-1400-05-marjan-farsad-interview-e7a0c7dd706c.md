@@ -1,5 +1,6 @@
 ---
 url: https://persian.iranhumanrights.org/1400/05/marjan-farsad-interview/
+archive: https://web.archive.org/web/20260419154832/https://persian.iranhumanrights.org/1400/05/marjan-farsad-interview/
 title: گفتگو با مرجان فرساد، آهنگساز
 publisher: Center for Human Rights in Iran
 status: processed
