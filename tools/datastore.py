@@ -222,7 +222,12 @@ def normalize(text):
 # --- YAML ----------------------------------------------------------------------
 
 
-class _Loader(yaml.SafeLoader):
+# libyaml's parser is about nine times faster than PyYAML's own; the checks
+# below are in the Python constructor, so they apply with either.
+_BaseLoader = getattr(yaml, "CSafeLoader", yaml.SafeLoader)
+
+
+class _Loader(_BaseLoader):
     """A SafeLoader that refuses a mapping with the same key twice.
 
     PyYAML keeps the last of two equal keys and drops the first without a

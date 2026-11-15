@@ -463,7 +463,8 @@ built it derives, from `published/` and the capture front matter:
 
 ## Tools
 
-Python 3 scripts under `tools/`, needing only `pyyaml` and `jsonschema`.
+Python 3 scripts under `tools/`, needing only `pyyaml` and `jsonschema`
+(`pip install -r tools/requirements.txt`).
 
 | Command | Does |
 | --- | --- |

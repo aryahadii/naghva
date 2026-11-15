@@ -220,7 +220,7 @@ Logos come from `assets/brand/`.
 
 ## Working on it
 
-In `site/`, use a Python 3 environment with `pyyaml` and `jsonschema`, and the
+In `site/`, use a Python 3 environment with `../tools/requirements.txt`, and the
 Node version in [.node-version](.node-version). If the Python dependencies are
 missing, create a virtual environment outside the checkout and install them
 there. Activate that environment before npm commands, which call `python3`.
