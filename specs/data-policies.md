@@ -66,5 +66,5 @@
 
 ## Reuse
 
-- The record is CC0 1.0. Articles are CC BY 4.0.
-- Quotes and images belong to their authors and are covered by neither.
+- The record, the articles and the code are CC BY 4.0.
+- Quotes and images belong to their authors and are not covered.
