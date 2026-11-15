@@ -3,7 +3,7 @@ url: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/eb/dc/93/ebdc9392-abf6
 title: Lost in Circles — whole cover
 kind: cover image
 language: mul
-tier: own
+tier: discography
 about:
 - Qnjntqs
 status: processed

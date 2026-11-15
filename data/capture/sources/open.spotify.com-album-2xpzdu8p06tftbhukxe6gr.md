@@ -4,7 +4,7 @@ title: Listen to Then Go - Album by Makan Ashgvari | Spotify
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Makan Ashgvari
 ---

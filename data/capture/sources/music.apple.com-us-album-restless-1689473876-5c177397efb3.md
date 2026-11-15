@@ -4,6 +4,7 @@ title: Restless - Album by Mohsen Namjoo
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > Restless - Album by Mohsen Namjoo

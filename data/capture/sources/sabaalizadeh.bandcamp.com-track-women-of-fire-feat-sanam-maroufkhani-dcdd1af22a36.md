@@ -3,6 +3,7 @@ url: https://sabaalizadeh.bandcamp.com/track/women-of-fire-feat-sanam-maroufkhan
 archive: "https://web.archive.org/web/20261017001137/https://sabaalizadeh.bandcamp.com/track/women-of-fire-feat-sanam-maroufkhani"
 title: Women of fire (feat. Sanam Maroufkhani)
 status: processed
+tier: own
 language: en
 publisher: Saba Alizadeh / 30M Records
 ---

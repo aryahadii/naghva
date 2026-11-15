@@ -2,7 +2,7 @@
 url: https://music.apple.com/us/album/niyaz/215797152
 title: ‎Niyaz - Album by Niyaz - Apple Music
 status: processed
-tier: own
+tier: discography
 ---
 
 > Niyaz by Niyaz on Apple Music

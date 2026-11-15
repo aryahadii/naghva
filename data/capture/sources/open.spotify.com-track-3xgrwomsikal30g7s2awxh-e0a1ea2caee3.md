@@ -2,7 +2,7 @@
 url: https://open.spotify.com/track/3xgRwomsikaL30G7S2aWxH
 title: Bebin - song and lyrics by Sevdaliza | Spotify
 status: processed
-tier: own
+tier: discography
 kind: web page
 about:
 - Sevdaliza

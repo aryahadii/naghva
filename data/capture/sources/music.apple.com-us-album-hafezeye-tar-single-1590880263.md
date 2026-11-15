@@ -4,6 +4,7 @@ title: Hafezeye Tar - Single - Album by Kābin & Hamed Nikpay - Apple Music
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 kind: album page
 about:
 - Kābin

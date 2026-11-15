@@ -4,7 +4,7 @@ title: Listen to Jabr - Album by Mohsen Namjoo | Spotify
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Spotify
 about:
 - Qt6wjbg

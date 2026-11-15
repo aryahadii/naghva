@@ -3,6 +3,7 @@ url: https://golnarmahantrio.bandcamp.com/album/derakht
 title: Derakht
 language: en
 status: processed
+tier: own
 archive: https://web.archive.org/web/20250422221111/https://golnarmahantrio.bandcamp.com/album/derakht
 ---
 

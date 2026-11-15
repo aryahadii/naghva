@@ -4,7 +4,7 @@ title: "Sorry Seems to be the hardest word (feat. Sara Naeini) - Single - Album 
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: "Apple Music"
 about:
 - Qb23qew

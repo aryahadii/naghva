@@ -511,7 +511,7 @@ references:
     locator: '1:16:56'
 ---
 
-Reza Koolaghani (born 1986) is a singer, songwriter and actor from Bandar Abbas, on Iran's southern coast, and the singer of the band Damahi, which he formed with the bassist Dara Daraee in 2014.[^birth][^band-en][^formation-cadence][^decade] With Damahi he released the albums [*Damahi*](/en/damahi-ep6/#damahi-tv5) in 2015 and [*Dar Man Boro Shekar*](/en/damahi-ep6/#dar-man-boro-shekar-fdd) in 2019 and a run of singles after them, singing mostly in the dialect of the south to music that joins the sound of Iran's southern shores with jazz and other genres.[^album-1][^album-2][^singles][^dialect][^efg-style] In 2023 the band made its London debut at the EFG London Jazz Festival, and in 2024 it took its music to Canada.[^efg-1][^canada][^warehouse-place] He has also acted in films and sung with the Hormozgani singer Majid Salari.[^acting][^baron]
+Reza Koolaghani (born 1986) is a singer, songwriter and actor from Bandar Abbas, on Iran's southern coast, and the singer of the band Damahi, which he formed with the bassist Dara Daraee in 2014.[^birth][^band-en][^formation-cadence][^decade] With Damahi he released the albums [*Damahi*](/en/damahi-ep6/#damahi-d3a) in 2015 and [*Dar Man Boro Shekar*](/en/damahi-ep6/#dar-man-boro-shekar-fdd) in 2019 and a run of singles after them, singing mostly in the dialect of the south to music that joins the sound of Iran's southern shores with jazz and other genres.[^album-1][^album-2][^singles][^dialect][^efg-style] In 2023 the band made its London debut at the EFG London Jazz Festival, and in 2024 it took its music to Canada.[^efg-1][^canada][^warehouse-place] He has also acted in films and sung with the Hormozgani singer Majid Salari.[^acting][^baron]
 
 ## Early life
 

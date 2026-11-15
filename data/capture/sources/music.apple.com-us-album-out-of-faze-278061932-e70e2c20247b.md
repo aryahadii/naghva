@@ -4,6 +4,7 @@ title: Out of Faze
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > Out of Faze - Album by Sussan Deyhim - Apple Music

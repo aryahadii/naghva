@@ -4,7 +4,7 @@ title: Vaghte Raftan (feat. Aamin) - Single - Album by Yas - Apple Music
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Apple Music
 about:
 - Qx3svqf

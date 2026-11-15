@@ -4,7 +4,7 @@ title: Sarbaz E Vatan (Soldier) - سرباز وطن (feat. Oz n da Deacon) - Sin
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Apple Music
 about:
 - Qx3svqf

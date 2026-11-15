@@ -4,6 +4,7 @@ title: Bebin | Sevdaliza
 language: en
 publisher: Sevdaliza
 status: processed
+tier: own
 ---
 
 > released January 30, 2017

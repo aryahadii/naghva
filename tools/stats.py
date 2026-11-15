@@ -7,28 +7,12 @@ page can sort them into the years of its own calendar.
 import datetime
 import math
 import random
-import re
 from collections import Counter, defaultdict
 
-PLATFORMS = (
-    ("Apple Music", re.compile(r"(^|\.)apple\.com$")),
-    ("Spotify", re.compile(r"(^|\.)spotify\.com$")),
-    ("SoundCloud", re.compile(r"(^|\.)soundcloud\.com$")),
-    ("YouTube", re.compile(r"(^|\.)(youtube\.com|youtu\.be)$")),
-    ("Bandcamp", re.compile(r"(^|\.)bandcamp\.com$")),
-    ("Telegram", re.compile(r"^(t\.me|telegram\.me)$")),
-    ("Radio Javan", re.compile(r"(^|\.)(radiojavan\.com|rj\.app)$")),
-    ("Deezer", re.compile(r"(^|\.)deezer\.com$")),
-    ("Tidal", re.compile(r"(^|\.)tidal\.com$")),
-)
-# Source tiers are free words in capture; these are the groups the page shows.
-TIERS = {
-    "own": "own", "primary": "own",
-    "discography": "discography", "catalogue": "discography", "platform": "discography",
-    "platform catalog": "discography", "streaming": "discography",
-    "journalism": "journalism", "press": "journalism",
-    "academic": "academic", "wikipedia": "wikipedia",
-}
+import datastore as ds
+
+# Source tiers, as the source schema lists them; a source with none counts as other.
+TIERS = ("own", "discography", "journalism", "academic", "wikipedia", "other")
 NETWORK_SEED = 1404
 # The place item for Iran. A country is a place with no `country` of its own (see `country` in data/schema/properties.yaml).
 IRAN = "Qthab26"
@@ -53,14 +37,19 @@ def first_day(statements):
     return min(days) if days else None
 
 
-def host(url):
-    match = re.match(r"https?://([^/:?#]+)", url or "")
-    return match.group(1).lower().removeprefix("www.").removeprefix("open.").removeprefix("music.") if match else ""
+def platform(url, registry=None):
+    """The registry's key for the listening platform `url` is on, or "other"."""
+    return ds.platform_of(url, registry or _registry()) or "other"
 
 
-def platform(url):
-    h = host(url)
-    return next((name for name, pattern in PLATFORMS if pattern.search(h)), "Other")
+def _registry():
+    global _REGISTRY
+    if _REGISTRY is None:
+        _REGISTRY = ds.load_registry()
+    return _REGISTRY
+
+
+_REGISTRY = None
 
 
 def week_of(day):
@@ -280,7 +269,7 @@ def stats(items, artists, sources, tiers, articles=None):
     for meta in sources.values():
         lang = meta.get("language")
         languages[lang if lang in ("en", "fa", "mul") else "other"] += 1
-    kinds = Counter(TIERS.get(str(tiers.get(name) or "").strip().lower(), "other") for name in sources)
+    kinds = Counter(tiers.get(name) or "other" for name in sources)
 
     return {
         "updated": newest or None,
@@ -296,7 +285,7 @@ def stats(items, artists, sources, tiers, articles=None):
         "starts": {"days": sorted(starts), "total": len(pages)},
         "based": {"known": sum(1 for a in pages if has(a, "based in")), "total": len(pages), **bases(items, artists)},
         "listen": {"total": len(releases), "linked": linked,
-                   "platforms": [[name, n] for name, n in on.most_common() if name != "Other"]},
+                   "platforms": [[name, n] for name, n in on.most_common() if name != "other"]},
         "labels": {"total": len(releases), "known": labelled,
                    "top": [[label, n] for label, n in labels.most_common(6)]},
         "network": network(items, artists),
@@ -318,7 +307,7 @@ def stats(items, artists, sources, tiers, articles=None):
         },
         "sources": {
             "langs": [[k, languages[k]] for k in ("en", "fa", "mul", "other")],
-            "kinds": [[k, kinds[k]] for k in ("own", "discography", "journalism", "academic", "wikipedia", "other")],
+            "kinds": [[k, kinds[k]] for k in TIERS],
         },
         # Sources by the week the record first cites them as read: the last half year,
         # so a stray old access date does not stretch the axis.

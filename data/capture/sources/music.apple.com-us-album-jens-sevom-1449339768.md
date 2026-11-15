@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/jens-sevom/1449339768
 title: Jens Sevom - Album by Shahin Najafi - Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 status: processed
 ---
 

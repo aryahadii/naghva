@@ -6,6 +6,7 @@ author: Arian Khameneh
 publisher: BBC Culture
 accessed: '2026-10-23'
 status: processed
+tier: journalism
 ---
 
 > In 2010, Hichkas released a wistful, longing anthem called A Good Day Will Come, shortly after millions took to the streets as part of the Green Movement

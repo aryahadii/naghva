@@ -4,7 +4,7 @@ title: Iran (feat. Golrokh Aminian) - Single - Album by Shahin Najafi - Apple Mu
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Apple Music
 about:
 - Qn7vfak

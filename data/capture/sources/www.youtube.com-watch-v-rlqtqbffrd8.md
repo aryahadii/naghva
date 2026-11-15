@@ -2,6 +2,7 @@
 url: https://www.youtube.com/watch?v=RlQtQBFFRd8
 title: "موزیک ویدیو خشم و هیاهو با صدای رضا کولغانی - Reza Koolaghani Khashmo Hayahoo Music Video"
 status: processed
+tier: discography
 kind: youtube video
 language: mul
 publisher: "TPM - Top Persian Music"

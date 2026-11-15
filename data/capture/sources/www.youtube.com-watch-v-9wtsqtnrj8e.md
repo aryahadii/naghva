@@ -5,7 +5,7 @@ title: Monicki & Rian - Rakhte Tane Delbar (Official Video) — Monicki
 status: processed
 kind: youtube video
 language: en
-tier: own
+tier: discography
 ---
 
 > Monicki & Rian - Rakhte Tane Delbar (Official Video)

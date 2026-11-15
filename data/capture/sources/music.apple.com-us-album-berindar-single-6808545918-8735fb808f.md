@@ -2,6 +2,7 @@
 url: https://music.apple.com/us/album/berindar-single/6808545918
 title: Berindar - Single - Album by Faxdin & Salome MC - Apple Music
 status: processed
+tier: discography
 ---
 
 > Listen to Berindar - Single by Faxdin & Salome MC on Apple Music. 2026. 1 Song. Duration: 3 minutes.

@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/red-bus-for-children/1579885706
 title: Red Bus (for children) — Bomrani — Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 status: processed
 ---
 

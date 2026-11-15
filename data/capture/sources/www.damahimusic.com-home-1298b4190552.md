@@ -3,6 +3,7 @@ url: https://www.damahimusic.com/home/
 archive: "https://web.archive.org/web/20260511190859/https://damahimusic.com/home/"
 title: Damahi | داماهی
 status: processed
+tier: own
 publisher: Damahi
 ---
 

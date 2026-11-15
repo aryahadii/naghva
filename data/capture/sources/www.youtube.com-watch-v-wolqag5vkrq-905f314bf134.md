@@ -3,6 +3,7 @@ url: https://www.youtube.com/watch?v=wolqAg5vKrQ
 title: گپ‌وگفت با تارا صلاحی | قسمت نوزدهم از پادکست تصویری کادانس
 language: fa
 status: processed
+tier: discography
 part of: www.youtube.com-cadencemusicmagazine-f2d19c142248
 ---
 

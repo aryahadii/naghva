@@ -4,6 +4,7 @@ title: 'Ali Azimi: 676'
 publisher: Ali Azimi
 language: mul
 status: processed
+tier: own
 ---
 
 > #خونه_باهار

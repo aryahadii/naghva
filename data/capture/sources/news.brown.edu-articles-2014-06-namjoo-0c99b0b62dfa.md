@@ -5,6 +5,7 @@ language: en
 author: Noah Elbot
 publisher: Brown University News
 status: processed
+tier: journalism
 ---
 
 > While at college in Tehran, his songs exploded onto the underground artists’ scene and he was proclaimed a rock star.

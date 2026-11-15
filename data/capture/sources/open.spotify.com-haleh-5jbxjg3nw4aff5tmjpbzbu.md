@@ -3,7 +3,7 @@ url: https://open.spotify.com/album/5jBXJG3nW4AFF5tmJpBZbU
 title: Listen to Bach & Sufi (Live) - Album by Nederlands Blazers Ensemble | Spotify
 kind: web page
 language: en
-tier: own
+tier: discography
 status: processed
 ---
 

@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/yalda-feat-hamed-fard-single/6810680475
 title: Yalda (feat. Hamed Fard) - Single - Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Kaveh Yaghmaei
 status: processed

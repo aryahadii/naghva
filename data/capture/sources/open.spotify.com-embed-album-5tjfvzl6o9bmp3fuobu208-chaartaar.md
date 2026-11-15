@@ -3,7 +3,7 @@ url: https://open.spotify.com/embed/album/5tjFvzl6O9bMP3fUObU208
 title: Baaraan Toee · Chaartaar
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Qb3nvrj
 status: processed

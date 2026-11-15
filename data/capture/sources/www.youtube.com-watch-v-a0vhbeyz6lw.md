@@ -3,7 +3,7 @@ url: https://www.youtube.com/watch?v=A0vhbeyz6Lw
 title: You are so beautiful (based on a theme by Francisco Tarrega)
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Kaveh Salehi
 status: processed

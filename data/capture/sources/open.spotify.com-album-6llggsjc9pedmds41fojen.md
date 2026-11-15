@@ -5,7 +5,7 @@ title: "Listen to Yek Lahze Ashegh Sho - Album by Hamid Hami | Spotify"
 status: processed
 kind: web page
 language: mul
-tier: own
+tier: discography
 publisher: "Spotify"
 about:
 - Qb23qew

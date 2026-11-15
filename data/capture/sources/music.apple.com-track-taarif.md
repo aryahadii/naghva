@@ -2,6 +2,7 @@
 url: https://music.apple.com/us/album/taarif-kon/6809145894?i=6809145895
 title: Taarif Kon by Jilliz Williz on Apple Music
 status: processed
+tier: discography
 ---
 
 > Taarif Kon by Jilliz Williz on Apple Music

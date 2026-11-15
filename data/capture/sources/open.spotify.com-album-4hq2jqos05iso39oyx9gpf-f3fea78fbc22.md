@@ -4,6 +4,7 @@ title: Missing EP - EP
 language: en
 publisher: Spotify
 status: processed
+tier: discography
 ---
 
 > Listen to Missing EP - EP by O-Hum | Spotify

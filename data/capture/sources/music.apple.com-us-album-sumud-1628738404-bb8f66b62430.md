@@ -4,6 +4,7 @@ title: Sumud - Album by Niyaz - Apple Music
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > Sumud by Niyaz on Apple Music

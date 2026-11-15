@@ -5,7 +5,7 @@ title: "Music | Official Website of Peyman Salimi"
 status: "processed"
 kind: "web page"
 language: "en"
-tier: "own"
+tier: own
 about: ["Peyman Salimi"]
 ---
 

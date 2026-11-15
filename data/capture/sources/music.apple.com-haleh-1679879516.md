@@ -4,7 +4,7 @@ title: BE MOOHAT RANGE SHARAB MIZADAM - Single — Apple Music
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 ---
 
 > Listen to BE MOOHAT RANGE SHARAB MIZADAM - Single by Haleh Seyfizadeh & Kaveh Ghaffari on Apple Music. 2023. 1 Song. Duration: 4 minutes.

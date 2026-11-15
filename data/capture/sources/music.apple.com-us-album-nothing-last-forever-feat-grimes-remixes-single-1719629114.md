@@ -4,7 +4,7 @@ title: Nothing Last Forever (feat. Grimes) [Remixes] - Single - Album by Sevdali
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Apple Music
 about:
 - Qf36fnd

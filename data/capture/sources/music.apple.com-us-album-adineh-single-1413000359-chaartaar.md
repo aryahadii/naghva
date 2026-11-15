@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/adineh-single/1413000359
 title: Adineh - Single by Chaartaar on Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Qb3nvrj
 status: processed

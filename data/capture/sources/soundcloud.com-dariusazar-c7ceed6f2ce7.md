@@ -2,7 +2,7 @@
 url: https://soundcloud.com/dariusazar
 title: https://soundcloud.com/dariusazar
 status: processed
-tier: own
+tier: discography
 ---
 
 > داریوش آذر

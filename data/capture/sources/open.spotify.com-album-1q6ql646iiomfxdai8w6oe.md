@@ -4,7 +4,7 @@ title: Listen to Tramadol - Album by Shahin Najafi | Spotify
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Spotify
 about:
 - Qn7vfak

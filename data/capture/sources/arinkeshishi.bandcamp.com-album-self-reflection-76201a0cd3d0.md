@@ -4,6 +4,7 @@ title: Self-Reflection | Arin Keshishi
 language: en
 publisher: Bandcamp (Arin Keshishi)
 status: processed
+tier: own
 ---
 
 > Self-Reflection by Arin Keshishi

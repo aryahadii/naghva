@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/hearts-endless-garden/6809525822
 title: Heart's Endless Garden - Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Heart's Endless Garden - Apple Music
 status: processed

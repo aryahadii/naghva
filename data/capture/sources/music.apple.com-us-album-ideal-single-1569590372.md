@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/ideal-single/1569590372
 title: Ideal - Single
 kind: web page
 language: en
-tier: primary
+tier: discography
 status: processed
 ---
 

@@ -4,6 +4,7 @@ title: Ride or Die Pt.2 | Sevdaliza, Tokischa, Villano Antillano | Sevdaliza
 language: en
 publisher: Sevdaliza
 status: processed
+tier: own
 ---
 
 > released April 18, 2024

@@ -4,7 +4,7 @@ title: Stream Iran Khube by Jilliz Williz / جیلیز ویلیز | Listen onlin
 status: processed
 kind: web page
 language: mul
-tier: own
+tier: discography
 about:
 - Jillizwiliiz
 ---

@@ -3,7 +3,7 @@ url: "https://www.rojinsharafi.com/"
 title: "Rojin Sharafi"
 kind: "web page"
 language: "en"
-tier: "own"
+tier: own
 status: "processed"
 ---
 

@@ -102,7 +102,7 @@ any other key is allowed and ignored.
 | `url` | no | the canonical `http(s)` URL; absent only for offline sources |
 | `kind` | no | the medium; see the suggested list below |
 | `language` | no | BCP 47 tag of the content: `fa`, `en`, `mul` for mixed |
-| `tier` | no | reliability class; see the suggested list below |
+| `tier` | no | reliability class; one of the list below |
 | `author` | no | person or persons credited |
 | `publisher` | no | site, outlet, channel or label that carries it |
 | `issued` | no | publication date, a [date value](#dates) |
@@ -126,10 +126,12 @@ site is one source; each post, video or page quoted from it is its own file
 with `part of` pointing at the container, because a reference cites the
 specific post or page.
 
-**Tiers**, suggested, after the preference order in
+**Tiers**, a closed list, after the preference order in
 [Data Policies](../specs/data-policies.md#sources): `own` (the artist's or
-label's own pages, accounts and channels), `discography` (Discogs,
-MusicBrainz), `journalism`, `academic`, `wikipedia`, `other`.
+label's own pages, accounts and channels), `discography` (catalogues and
+streaming pages: Discogs, MusicBrainz, Apple Music, Spotify, SoundCloud,
+YouTube), `journalism`, `academic`, `wikipedia`, `other`. A source without
+one counts as `other`.
 
 The body is free Markdown, with one convention that matters: **a passage
 copied from the source goes in a blockquote**, word for word, in the source's
@@ -243,6 +245,14 @@ sources become sibling entries rather than one edited line.
 Only the properties in `schema/properties.yaml` may be used, each only on the
 item types and with the qualifiers the registry allows. To record a new kind
 of fact, add the property to the spec first, then to the registry.
+
+The registry also holds two tables the tools and the site read from it, so
+neither is copied anywhere else. `platforms` names each listening platform
+the data policies allow and the hosts it answers at; `listen link` and
+`profile link` take exactly those hosts. `creation roles` lists the roles that
+write or produce; every other role is performed. On a release, a `performer`
+carries only performed roles and a `contributor` only creation roles, and the
+validator checks it.
 
 ### Values
 
@@ -463,11 +473,13 @@ built it derives, from `published/` and the capture front matter:
 
 ## Tools
 
-Python 3 scripts under `tools/`, needing only `pyyaml` and `jsonschema`.
+Python 3 scripts under `tools/`, needing only `pyyaml` and `jsonschema`
+(`pip install -r tools/requirements.txt`).
 
 | Command | Does |
 | --- | --- |
 | `tools/newid.py` | print a fresh item ID |
+| `tools/archive.py` | add Wayback Machine `archive` links to processed web sources that lack one |
 | `tools/validate.py` | check `data/` against the schemas, the registry and the cross-file rules; exit 1 on any error |
 
 Each accepts `--root <dir>` to work on another root with the same layout,

@@ -4,7 +4,7 @@ title: "Listen to The Psychology Of Letting Go - Album by Peyman Salimi | Spotif
 status: processed
 kind: web page
 language: mul
-tier: own
+tier: discography
 publisher: "Spotify"
 about:
 - Qb23qew

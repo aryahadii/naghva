@@ -5,7 +5,7 @@ title: "Stream Sara Naeini music | Listen to songs, albums, playlists for free o
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: "SoundCloud"
 about:
 - Qb23qew

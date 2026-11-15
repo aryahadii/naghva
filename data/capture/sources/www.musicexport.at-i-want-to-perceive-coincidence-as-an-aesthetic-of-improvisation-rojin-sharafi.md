@@ -3,7 +3,7 @@ url: "https://www.musicexport.at/i-want-to-perceive-coincidence-as-an-aesthetic-
 title: "I WANT TO PERCEIVE COINCIDENCE AS AN AESTHETIC OF IMPROVISATION - Rojin Sharafi"
 kind: "web page"
 language: "en"
-tier: "journalism"
+tier: journalism
 status: "processed"
 ---
 

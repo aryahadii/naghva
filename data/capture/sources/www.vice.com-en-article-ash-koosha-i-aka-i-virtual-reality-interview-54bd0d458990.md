@@ -3,7 +3,7 @@ url: https://www.vice.com/en/article/ash-koosha-i-aka-i-virtual-reality-intervie
 title: Meet Ash Koosha, the Producer Using Synesthesia to Craft Boundary-Blurring Tracks
 kind: web page
 language: en
-tier: press
+tier: journalism
 status: processed
 ---
 

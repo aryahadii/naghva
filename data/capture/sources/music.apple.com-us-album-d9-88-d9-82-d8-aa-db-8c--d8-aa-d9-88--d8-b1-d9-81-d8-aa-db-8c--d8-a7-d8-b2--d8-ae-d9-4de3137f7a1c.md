@@ -4,7 +4,7 @@ title: ‎وقتی تو رفتی از خونه - Single - Album by Sanam Maroufk
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Sanam Maroufkhani
 ---

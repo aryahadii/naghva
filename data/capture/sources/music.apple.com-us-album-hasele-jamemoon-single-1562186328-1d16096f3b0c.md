@@ -4,7 +4,7 @@ title: ‎Hasele Jamemoon - Single - Album by Peyman Salimi - Apple Music
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Sanam Maroufkhani
 ---

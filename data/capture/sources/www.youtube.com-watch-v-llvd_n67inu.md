@@ -3,7 +3,7 @@ url: https://www.youtube.com/watch?v=lLVD_N67iNU
 title: II  Largo - kaveh salehi
 kind: youtube video
 language: en
-tier: own
+tier: discography
 about:
 - Kaveh Salehi
 status: processed

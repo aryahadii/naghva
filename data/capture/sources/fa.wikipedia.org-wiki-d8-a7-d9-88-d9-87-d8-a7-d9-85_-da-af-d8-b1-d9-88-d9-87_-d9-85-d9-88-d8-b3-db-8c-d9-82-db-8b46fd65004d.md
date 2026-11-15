@@ -4,6 +4,7 @@ title: اوهام (گروه موسیقی)
 language: fa
 publisher: Wikipedia (fa)
 status: processed
+tier: wikipedia
 ---
 
 > اولین آلبوم خود نهال حیرت را در تابستان همان سال ضبط کرد

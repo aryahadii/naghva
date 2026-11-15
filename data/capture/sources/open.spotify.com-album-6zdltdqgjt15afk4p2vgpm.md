@@ -4,7 +4,7 @@ title: Listen to On the String of the Tear's Bow - Album by Mohsen Namjoo | Spot
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Spotify
 about:
 - Qt6wjbg

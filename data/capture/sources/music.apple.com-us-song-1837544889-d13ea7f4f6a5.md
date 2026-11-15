@@ -2,7 +2,7 @@
 url: https://music.apple.com/us/song/1837544889
 title: ‎Messiah - Song with Lyrics by Sevdaliza - Apple Music
 status: processed
-tier: own
+tier: discography
 kind: web page
 about:
 - Sevdaliza

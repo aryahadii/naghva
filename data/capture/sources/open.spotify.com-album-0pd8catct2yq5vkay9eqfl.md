@@ -5,7 +5,7 @@ title: Listen to Oddi - Single by Danakol | Spotify
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 ---
 
 > Listen to Oddi - Single by Danakol | Spotify

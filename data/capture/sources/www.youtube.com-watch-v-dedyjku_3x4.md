@@ -4,7 +4,7 @@ title: Soofi | Jadoo (Official Music Video)
 status: processed
 kind: video
 language: mul
-tier: own
+tier: discography
 about:
 - Soofi Namazi
 - صوفی نمازی

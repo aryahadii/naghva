@@ -4,6 +4,7 @@ title: Darya Kojaast - Album by Chaartaar - Apple Music
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > Darya Kojaast by Chaartaar on Apple Music

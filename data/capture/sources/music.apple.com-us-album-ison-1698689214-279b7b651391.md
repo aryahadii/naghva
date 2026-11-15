@@ -4,6 +4,7 @@ title: Ison - Album by Sevdaliza - Apple Music
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > ‎Ison - Album by Sevdaliza - Apple Music

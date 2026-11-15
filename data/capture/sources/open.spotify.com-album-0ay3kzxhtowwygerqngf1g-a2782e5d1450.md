@@ -3,7 +3,7 @@ url: https://open.spotify.com/album/0ay3kzXhTOWWYgerqngf1G
 title: Hicham khabar az hich — Spotify
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Qnjntqs
 status: processed

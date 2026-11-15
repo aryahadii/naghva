@@ -4,6 +4,7 @@ title: Zigiland - Album by Ballgard - Apple Music
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > Zigiland - Album by Ballgard - Apple Music

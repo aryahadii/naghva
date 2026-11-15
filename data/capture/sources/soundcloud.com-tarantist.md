@@ -3,7 +3,7 @@ url: https://soundcloud.com/TarantisT
 title: TarantisT | SoundCloud
 kind: web page
 language: en
-tier: own
+tier: discography
 status: processed
 ---
 

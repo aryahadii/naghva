@@ -5,7 +5,7 @@ title: Stream Made in Iran Records | Listen to Rian - Pak'kon playlist online fo
 status: processed
 kind: web page
 language: mul
-tier: own
+tier: discography
 ---
 
 > پیانو: محمد شریعت (تو خلوت اتاق)

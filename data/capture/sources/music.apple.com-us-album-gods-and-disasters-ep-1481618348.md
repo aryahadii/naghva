@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/gods-and-disasters-ep/1481618348
 title: Gods and Disasters - EP by Mahdyar
 kind: web page
 language: en
-tier: own
+tier: discography
 status: processed
 archive: https://web.archive.org/web/*/https://music.apple.com/us/album/gods-and-disasters-ep/1481618348
 ---

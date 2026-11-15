@@ -4,7 +4,7 @@ title: 88 - Album by Radio Tehran - Apple Music
 language: en
 publisher: Apple Music
 kind: web page
-tier: own
+tier: discography
 about:
 - Radio Tehran
 - '88'

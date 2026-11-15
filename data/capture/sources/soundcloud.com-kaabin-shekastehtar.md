@@ -5,7 +5,7 @@ language: fa
 publisher: SoundCloud
 status: processed
 kind: track page
-tier: own
+tier: discography
 about:
 - Kābin
 - Dariush Azar

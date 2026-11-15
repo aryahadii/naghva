@@ -2,6 +2,7 @@
 url: https://open.spotify.com/album/7eQZeSPrFTIMVKKFCTjwO7
 title: Shabhaye Tehran - Single by Keyhan
 status: processed
+tier: discography
 kind: web page
 language: mul
 ---

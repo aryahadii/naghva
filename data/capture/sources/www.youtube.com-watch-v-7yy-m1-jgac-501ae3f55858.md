@@ -5,7 +5,7 @@ title: 'Jet Pack [Live in Gate of Tehran 2020: The Earth Breathes]'
 status: processed
 kind: youtube video
 language: en
-tier: own
+tier: discography
 publisher: HOUSE NO.4
 about:
 - Jetpack

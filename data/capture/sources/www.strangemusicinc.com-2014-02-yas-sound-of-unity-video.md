@@ -4,6 +4,7 @@ title: YAS – 'Sound Of Unity (SEDAYE ETTEHAD)' Feat. Tech N9ne
 language: en
 publisher: Strange Music
 status: processed
+tier: own
 ---
 
 > This video features Yas and Tech N9ne trading ferciously-delivered bars amidst the Kansas City landscape.

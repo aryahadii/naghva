@@ -5,7 +5,7 @@ title: Danakol - Eftezoza (Official Audio) — Danakol
 status: processed
 kind: youtube video
 language: en
-tier: own
+tier: discography
 ---
 
 > Danakol - Eftezoza (Official Audio)

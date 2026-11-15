@@ -4,6 +4,7 @@ title: Dige Vaghtesh Resideh - Single by Ali Azimi on Apple Music
 language: mul
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > Dige Vaghtesh Resideh - Single by Ali Azimi on Apple Music

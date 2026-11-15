@@ -4,7 +4,7 @@ title: Listen to Parandehe Mohajer - Persian Music - Album by Kourosh Yaghmaei |
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Spotify
 about:
 - Qkza58w

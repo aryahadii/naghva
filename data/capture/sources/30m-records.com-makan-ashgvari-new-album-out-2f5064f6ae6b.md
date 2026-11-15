@@ -4,6 +4,7 @@ title: Makan Ashgvari – New album out!
 language: en
 publisher: 30M Records
 status: processed
+tier: own
 ---
 
 > After my album “To Trucks”, which was a sound journey through Iran, I tried to draw from the sounds of a vast land of oppressed people. The Darbuka, the voices of Kurdish singers, rhythms inspired by Dabke, and the powerful voice and groove of Cheikha Rimitti. Although I couldn’t travel and record in the lands that had my heart (as I did with To Trucks), my laptop became a way to travel, to listen, and to join these sounds, both in my head and in my electronic music.

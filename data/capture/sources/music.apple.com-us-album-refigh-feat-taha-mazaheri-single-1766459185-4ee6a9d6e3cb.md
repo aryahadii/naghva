@@ -4,7 +4,7 @@ title: Refigh (feat. Taha Mazaheri) - Single - Album by Golsa - Apple Music
 status: processed
 kind: web page
 language: mul
-tier: own
+tier: discography
 ---
 
 > Refigh (feat. Taha Mazaheri) - Single - Album by Golsa - Apple Music

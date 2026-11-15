@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/beginning-of-the-cold-season-single/177167
 title: ‎Beginning of the Cold Season - Single - Album by Saba Alizadeh - Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 status: processed
 ---
 

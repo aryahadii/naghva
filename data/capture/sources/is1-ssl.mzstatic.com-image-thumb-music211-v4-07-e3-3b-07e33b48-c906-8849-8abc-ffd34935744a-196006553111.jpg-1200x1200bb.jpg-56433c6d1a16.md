@@ -3,7 +3,7 @@ url: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/e3/3b/07e33b48-c906
 title: Esharate Nazar — whole cover
 kind: cover image
 language: mul
-tier: own
+tier: discography
 about:
 - Qnjntqs
 status: processed

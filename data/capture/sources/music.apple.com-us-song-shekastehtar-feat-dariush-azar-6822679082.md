@@ -4,6 +4,7 @@ title: Shekastehtar (feat. Dariush Azar) - Song with Lyrics by Kābin - Apple Mu
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 kind: track page
 about:
 - Kābin

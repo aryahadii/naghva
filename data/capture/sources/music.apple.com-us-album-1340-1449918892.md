@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/1340/1449918892
 title: 1340 — Bomrani — Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 status: processed
 ---
 

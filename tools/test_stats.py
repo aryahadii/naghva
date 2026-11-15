@@ -44,7 +44,7 @@ class StatsTests(unittest.TestCase):
         self.assertEqual(self.stats["starts"]["days"], ["2020-05-01", "2020-05-01"])
 
     def test_listen_links_are_grouped_by_platform(self):
-        self.assertEqual(dict(self.stats["listen"]["platforms"]), {"Spotify": 1, "Apple Music": 1, "Bandcamp": 1})
+        self.assertEqual(dict(self.stats["listen"]["platforms"]), {"spotify": 1, "apple": 1, "bandcamp": 1})
         self.assertEqual(self.stats["listen"]["linked"], 2)
 
     def test_year_only_dates_count_in_the_middle_of_their_range(self):

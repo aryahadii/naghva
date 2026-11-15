@@ -4,6 +4,7 @@ title: Tribute To Warriors of Metal
 language: en
 publisher: Arsames (Bandcamp)
 status: processed
+tier: own
 ---
 
 > released January 1, 2010

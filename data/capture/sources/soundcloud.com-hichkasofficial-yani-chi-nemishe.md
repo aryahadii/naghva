@@ -3,7 +3,7 @@ url: https://soundcloud.com/hichkasofficial/yani-chi-nemishe
 title: Yani Chi Nemishe on SoundCloud
 kind: web page
 language: mul
-tier: own
+tier: discography
 status: processed
 accessed: '2026-10-23'
 author: Hichkas

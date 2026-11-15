@@ -2,6 +2,7 @@
 url: https://www.youtube.com/watch?v=TWv21MrpNc0
 title: "Sheeple (Mazhaye Koochake Zang Zadeh) by Houman Seyedi I Reza Koolaghani I Film Song | 2018"
 status: processed
+tier: discography
 kind: youtube video
 language: mul
 publisher: "Reihane Taravati"

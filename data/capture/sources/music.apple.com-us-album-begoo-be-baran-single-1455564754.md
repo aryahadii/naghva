@@ -4,7 +4,7 @@ title: Begoo Be Baran - Single - Album by Ehsan Matoori & Mohsen Namjoo - Apple 
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Apple Music
 about:
 - Qt6wjbg

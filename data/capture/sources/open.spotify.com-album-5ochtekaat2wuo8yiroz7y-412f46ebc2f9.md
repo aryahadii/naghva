@@ -4,7 +4,7 @@ title: Listen to Maashoogh e Jan - Single by Rian | Spotify
 status: processed
 kind: web page
 language: mul
-tier: own
+tier: discography
 ---
 
 > Listen to Maashoogh e Jan - Single by Rian | Spotify Maashoogh e Jan Rian 2025 1 song , 2 min 42 sec Maashoogh e Jan Rian , Monicki

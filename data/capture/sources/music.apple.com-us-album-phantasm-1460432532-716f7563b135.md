@@ -4,6 +4,7 @@ title: Phantasm - Album by Ehsan Matoori & Mohsen Namjoo
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > Phantasm - Album by Ehsan Matoori & Mohsen Namjoo

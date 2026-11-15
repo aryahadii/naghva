@@ -4,7 +4,7 @@ title: Rameshgar | YouTube
 status: processed
 kind: youtube playlist
 language: mul
-tier: own
+tier: discography
 about:
 - Taha Mazaheri
 - Q66ky5f

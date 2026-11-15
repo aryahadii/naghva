@@ -4,6 +4,7 @@ title: liberty or death | tarxun
 language: en
 publisher: Bandcamp
 status: processed
+tier: own
 ---
 
 > یا مرگ یا آزادی liberty or death by tarxun

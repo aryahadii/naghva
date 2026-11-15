@@ -2,7 +2,7 @@
 url: https://music.apple.com/us/album/stalemate/786672826
 title: ‎Stalemate - Album by The Allophones - Apple Music
 status: processed
-tier: own
+tier: discography
 ---
 
 > Listen to Stalemate by The Allophones on Apple Music. 2013. 7 Songs. Duration: 26 minutes.

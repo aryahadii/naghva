@@ -4,6 +4,7 @@ title: Nine Heavens - Album by Niyaz - Apple Music
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > Nine Heavens by Niyaz on Apple Music

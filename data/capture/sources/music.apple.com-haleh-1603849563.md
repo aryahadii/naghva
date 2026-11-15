@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/rank-of-fire/1603849563
 title: Rank of Fire — Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 status: processed
 ---
 

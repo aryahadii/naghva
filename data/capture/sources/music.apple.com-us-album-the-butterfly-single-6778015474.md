@@ -2,7 +2,7 @@
 url: https://music.apple.com/us/album/the-butterfly-single/6778015474
 title: The Butterfly - Single by Pallett
 language: en
-tier: own
+tier: discography
 status: processed
 ---
 

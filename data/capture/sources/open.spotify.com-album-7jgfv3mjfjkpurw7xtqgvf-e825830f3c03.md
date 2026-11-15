@@ -4,6 +4,7 @@ title: Aloodeh
 language: en
 publisher: Spotify
 status: processed
+tier: discography
 ---
 
 > Listen to Aloodeh - Album by O-Hum | Spotify

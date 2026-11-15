@@ -4,7 +4,7 @@ title: Your Wish
 language: en
 publisher: Apple Music
 status: processed
-tier: own
+tier: discography
 ---
 
 > Your Wish

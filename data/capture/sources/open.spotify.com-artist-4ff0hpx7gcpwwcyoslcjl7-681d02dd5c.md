@@ -2,6 +2,7 @@
 url: https://open.spotify.com/artist/4ff0hpX7GcpWwcyoSlcJL7
 title: Salome MC on Spotify
 status: processed
+tier: discography
 ---
 
 > "name":"Salome MC"

@@ -3,6 +3,7 @@ url: https://bomrani.bandcamp.com/album/shayad-behtarin-roozam-gozashteh
 title: Shayad Behtarin Roozam Gozashteh
 language: en
 status: processed
+tier: own
 publisher: bomrani.bandcamp.com
 ---
 

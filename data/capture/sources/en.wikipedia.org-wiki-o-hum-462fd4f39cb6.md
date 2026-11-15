@@ -4,6 +4,7 @@ title: O-Hum
 language: en
 publisher: Wikipedia
 status: processed
+tier: wikipedia
 ---
 
 > The original members were singer Shahram Sharbaf, guitarist Shahrokh Izadkhah, and bass guitarist Babak Riahipour.

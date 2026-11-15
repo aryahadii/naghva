@@ -4,7 +4,7 @@ title: 'Balzan: SoundCloud profile and thirteen-track inventory'
 status: processed
 kind: artist catalog
 language: en
-tier: own
+tier: discography
 about:
 - Balzan
 publisher: soundcloud.com

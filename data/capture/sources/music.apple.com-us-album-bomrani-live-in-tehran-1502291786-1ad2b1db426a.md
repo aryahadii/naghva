@@ -4,6 +4,7 @@ title: Bomrani Live in Tehran - Album by Bomrani - Apple Music
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > Listen to Bomrani Live in Tehran by Bomrani on Apple Music. 2020. 16 Songs. Duration: 1 hour 2 minutes.

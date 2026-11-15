@@ -2,6 +2,7 @@
 url: https://music.apple.com/us/album/relinquished-single/1796409928
 title: Relinquished - Single - Album by Salome MC - Apple Music
 status: processed
+tier: discography
 ---
 
 > Listen to Relinquished - Single by Salome MC on Apple Music. 2025. 1 Song. Duration: 3 minutes.

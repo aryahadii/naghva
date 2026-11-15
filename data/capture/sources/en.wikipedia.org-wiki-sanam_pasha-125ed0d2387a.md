@@ -4,6 +4,7 @@ title: Sanam Pasha
 language: en
 publisher: Wikipedia
 status: processed
+tier: wikipedia
 ---
 
 > Sanam Pasha (Persian: صنم پاشا) (born in 1978, Tehran)

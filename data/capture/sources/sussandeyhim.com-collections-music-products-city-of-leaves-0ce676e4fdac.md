@@ -4,6 +4,7 @@ title: City of Leaves Music by Sussan Deyhim
 language: en
 publisher: Sussan Deyhim Gallery
 status: processed
+tier: own
 ---
 
 > City of Leaves is among Sussan Deyhim’s multiple releases on her own label Venus Rising Records. It features tracks in collaboration with composer Richard Horowitz and very special guest, composer violinist Gingger Shankar.

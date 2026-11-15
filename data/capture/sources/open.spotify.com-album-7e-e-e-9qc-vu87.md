@@ -2,7 +2,7 @@
 url: https://open.spotify.com/album/7eOKeJYIeMKGZ9qcKvu87A
 title: Listen to Shy Angels - Album by Sussan Deyhim | Spotify
 status: processed
-tier: own
+tier: discography
 publisher: open.spotify.com
 ---
 

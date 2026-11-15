@@ -2,6 +2,7 @@
 url: https://open.spotify.com/album/05V5bUi0zobLveAsgCRn3c
 title: Excerpts From Unhappy Consciousness on Spotify
 status: processed
+tier: discography
 ---
 
 > "name":"Excerpts From Unhappy Consciousness"

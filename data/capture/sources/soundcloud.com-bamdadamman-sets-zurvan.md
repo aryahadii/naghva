@@ -3,7 +3,7 @@ url: https://soundcloud.com/bamdadamman/sets/zurvan
 title: Zurvan
 kind: web page
 language: en
-tier: primary
+tier: discography
 status: processed
 ---
 

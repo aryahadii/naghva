@@ -4,7 +4,7 @@ title: ‎Bipolar - Single - Album by Rian - Apple Music
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 ---
 
 > ‎Bipolar - Single - Album by Rian - Apple Music

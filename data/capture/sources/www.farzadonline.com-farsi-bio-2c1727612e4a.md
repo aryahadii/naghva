@@ -4,6 +4,7 @@ title: Farzad Golpayegani
 language: fa
 publisher: Farzad Golpayegani
 status: processed
+tier: own
 ---
 
 > فرزاد گلپايگانی موسیقیدان، هنرمند تجسمی و مدیر هنری ساکن آمریکا است.

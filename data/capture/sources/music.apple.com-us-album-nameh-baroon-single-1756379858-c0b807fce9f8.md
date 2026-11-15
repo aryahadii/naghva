@@ -4,6 +4,7 @@ title: Nameh Baroon - Single
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > Nameh Baroon - Single - Album by Marjan Farsad - Apple Music

@@ -5,7 +5,7 @@ title: CHIZI BEDE (ft. Rian)
 status: processed
 kind: web page
 language: mul
-tier: own
+tier: discography
 ---
 
 > CHIZI BEDE (ft. Rian)

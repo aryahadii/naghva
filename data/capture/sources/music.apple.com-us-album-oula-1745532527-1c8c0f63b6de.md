@@ -4,6 +4,7 @@ title: Oula - Album by Mohsen Namjoo - Apple Music
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > Oula - Album by Mohsen Namjoo

@@ -2,6 +2,7 @@
 url: https://newfocusrecordings.bandcamp.com/album/night-triptych
 title: Night Triptych | Duo Noire | New Focus Recordings
 status: processed
+tier: own
 archive: https://web.archive.org/web/20260924020053/https://newfocusrecordings.bandcamp.com/album/night-triptych
 ---
 

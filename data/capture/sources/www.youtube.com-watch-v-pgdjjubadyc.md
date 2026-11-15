@@ -5,7 +5,7 @@ title: Nahan (feat. Sanam Maroufkhani)
 status: processed
 kind: youtube video
 language: mul
-tier: own
+tier: discography
 about:
 - Sanam Maroufkhani
 ---

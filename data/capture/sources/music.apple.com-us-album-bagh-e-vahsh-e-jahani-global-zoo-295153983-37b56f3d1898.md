@@ -4,6 +4,7 @@ title: bagh e Vahsh e Jahani (Global Zoo) - Album by Kiosk - Apple Music
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > bagh e Vahsh e Jahani (Global Zoo) by Kiosk on Apple Music

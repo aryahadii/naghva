@@ -3,7 +3,7 @@ url: https://soundcloud.com/miladderakhshani/sets/hicham-khabar-az-hich
 title: Hicham khabar az hich — SoundCloud
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Qnjntqs
 status: processed

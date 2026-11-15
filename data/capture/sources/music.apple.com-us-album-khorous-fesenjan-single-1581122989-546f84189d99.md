@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/khorous-fesenjan-single/1581122989
 title: ‎Khorous Fesenjan - Single - Album by Moody Moussavi - Apple Music
 kind: web page
 language: mul
-tier: streaming
+tier: discography
 status: processed
 ---
 

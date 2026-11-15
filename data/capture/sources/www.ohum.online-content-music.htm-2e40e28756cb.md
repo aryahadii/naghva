@@ -5,6 +5,7 @@ language: fa
 publisher: O-Hum
 archive: https://web.archive.org/web/*/https://www.ohum.online/content/music.htm
 status: processed
+tier: own
 ---
 
 > داستان من 1403 تک آهنگ / اوهام نسل دوم

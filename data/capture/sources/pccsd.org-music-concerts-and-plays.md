@@ -4,6 +4,7 @@ title: Music Concerts and Plays — Mohsen Namjoo Concert
 publisher: Persian Cultural Center of San Diego
 language: en
 status: processed
+tier: other
 ---
 
 > November 9, 2019

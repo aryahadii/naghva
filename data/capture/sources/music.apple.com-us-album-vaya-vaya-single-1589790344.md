@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/vaya-vaya-single/1589790344
 title: Vaya Vaya - Single - Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Vaya Vaya - Single - Apple Music
 status: processed

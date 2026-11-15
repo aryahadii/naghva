@@ -5,7 +5,7 @@ title: "Listen to Old of YAS - Album by Yas | Spotify"
 status: processed
 kind: web page
 language: mul
-tier: own
+tier: discography
 publisher: "Spotify"
 about:
 - Qb23qew

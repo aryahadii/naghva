@@ -222,7 +222,12 @@ def normalize(text):
 # --- YAML ----------------------------------------------------------------------
 
 
-class _Loader(yaml.SafeLoader):
+# libyaml's parser is about nine times faster than PyYAML's own; the checks
+# below are in the Python constructor, so they apply with either.
+_BaseLoader = getattr(yaml, "CSafeLoader", yaml.SafeLoader)
+
+
+class _Loader(_BaseLoader):
     """A SafeLoader that refuses a mapping with the same key twice.
 
     PyYAML keeps the last of two equal keys and drops the first without a
@@ -286,8 +291,27 @@ def _stringify_dates(node, key):
 
 
 def load_registry():
+    """The property registry, with `hosts: platforms` spelled out as the hosts it means."""
     with open(SCHEMA_DIR / "properties.yaml", encoding="utf-8") as fh:
-        return parse_yaml(fh)
+        registry = parse_yaml(fh)
+    platform_hosts = [h for hosts in (registry.get("platforms") or {}).values() for h in hosts]
+    for spec in (registry.get("properties") or {}).values():
+        if spec.get("hosts") == "platforms":
+            spec["hosts"] = list(platform_hosts)
+    return registry
+
+
+def role_kinds(registry):
+    """Each role term with its kind: `creation` (writing, production) or `performance`."""
+    creation = set(registry.get("creation roles") or [])
+    return {role: "creation" if role in creation else "performance"
+            for role in (registry.get("terms") or {}).get("role", [])}
+
+
+def platform_of(url, registry):
+    """The key of the listening platform a URL is on, or None."""
+    host = url_host(url)
+    return next((key for key, hosts in (registry.get("platforms") or {}).items() if host_allowed(host, hosts)), None)
 
 
 def spec_property_names():

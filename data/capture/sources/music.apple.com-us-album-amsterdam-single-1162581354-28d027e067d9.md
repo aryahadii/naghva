@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/amsterdam-single/1162581354
 title: Amsterdam - Single - Album by Faarjam - Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Faarjam
 status: processed

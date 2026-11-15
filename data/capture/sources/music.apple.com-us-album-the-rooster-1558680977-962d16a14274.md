@@ -5,7 +5,7 @@ title: The Rooster - Album by Makhoola - Apple Music
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Makhoula
 ---

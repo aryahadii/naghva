@@ -4,7 +4,7 @@ title: Listen to Natijeh e Mozakerat (Outcome of Negotiations) - Album by Kiosk 
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Spotify
 about:
 - Qtgn2be

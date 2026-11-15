@@ -5,7 +5,7 @@ title: Listen to Pakkon - EP by Rian | Spotify
 status: processed
 kind: web page
 language: mul
-tier: own
+tier: discography
 ---
 
 > Listen to Pakkon - EP by Rian | Spotify

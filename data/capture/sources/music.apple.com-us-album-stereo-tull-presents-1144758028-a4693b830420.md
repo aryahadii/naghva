@@ -4,6 +4,7 @@ title: Stereo Tull Presents - Album by Kiosk - Apple Music
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > Stereo Tull Presents by Kiosk on Apple Music

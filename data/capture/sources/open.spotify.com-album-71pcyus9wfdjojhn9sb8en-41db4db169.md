@@ -2,6 +2,7 @@
 url: https://open.spotify.com/album/71PCyUs9WfDjOjhn9sB8En
 title: Incidents on Spotify
 status: processed
+tier: discography
 archive: https://web.archive.org/web/20250408153056/https://open.spotify.com/album/71PCyUs9WfDjOjhn9sB8En
 ---
 

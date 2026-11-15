@@ -3,7 +3,7 @@ url: "https://habibmeftah.bandcamp.com/track/landed"
 title: "Landed | Habib Meftah"
 kind: "web page"
 language: "en"
-tier: "own"
+tier: own
 status: "processed"
 ---
 

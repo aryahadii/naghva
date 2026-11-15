@@ -4,6 +4,7 @@ title: Jaddeh Miraghsad - Album by Chaartaar - Apple Music
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > Jaddeh Miraghsad by Chaartaar on Apple Music

@@ -4,6 +4,7 @@ title: Nahal-e Heyrat (Remastered)
 language: en
 publisher: Spotify
 status: processed
+tier: discography
 ---
 
 > Listen to Nahal-e Heyrat (Remastered) - Album by O-Hum | Spotify

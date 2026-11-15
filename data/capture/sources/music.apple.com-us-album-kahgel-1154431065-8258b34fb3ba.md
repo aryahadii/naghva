@@ -4,6 +4,7 @@ title: Kahgel - Album by Hamzeh Yeganeh, Kaveh Sarvarian & Mahan Mirarab - Apple
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > Listen to Kahgel by Hamzeh Yeganeh, Kaveh Sarvarian & Mahan Mirarab on Apple Music. 2016. 9 Songs. Duration: 48 minutes.

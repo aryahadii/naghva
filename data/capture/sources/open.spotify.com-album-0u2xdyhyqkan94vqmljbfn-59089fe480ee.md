@@ -4,6 +4,7 @@ title: Sweet Destiny - Album by Kiosk | Spotify
 language: en
 publisher: Spotify
 status: processed
+tier: discography
 ---
 
 > Listen to Sweet Destiny - Album by Kiosk | Spotify

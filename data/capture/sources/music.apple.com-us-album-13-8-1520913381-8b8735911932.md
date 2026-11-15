@@ -4,6 +4,7 @@ title: 13/8 - Album by Mohsen Namjoo - Apple Music
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > 13/8 - Album by Mohsen Namjoo - Apple Music

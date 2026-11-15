@@ -4,7 +4,7 @@ title: Listen to Barobax - Single by Kudd | Spotify
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Spotify
 about:
 - Qgyvbw3

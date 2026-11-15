@@ -4,6 +4,7 @@ title: Parie Gheseha
 language: nl
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > 'Parie Gheseha' van Marjan Farsad op Apple Music

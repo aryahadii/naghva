@@ -4,7 +4,7 @@ title: 'Back From The Brink: Pre-Revolution Psychedelic Rock From Iran: 1973-197
 kind: web page
 language: en
 publisher: Spotify
-tier: platform catalog
+tier: discography
 status: processed
 ---
 

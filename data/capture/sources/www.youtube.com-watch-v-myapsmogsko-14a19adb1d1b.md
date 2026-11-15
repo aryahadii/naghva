@@ -5,7 +5,7 @@ title: گپ‌وگفت کادانس با گلسا | قسمت ششم
 status: processed
 kind: web page
 language: fa
-tier: own
+tier: discography
 ---
 
 > اون ورژن اولیه به به فقط من و بهزاد و سردار و سالار بودیم

@@ -4,7 +4,7 @@ title: Seebe Noghrayee | Spotify
 kind: web page
 language: en
 publisher: Spotify
-tier: platform catalog
+tier: discography
 status: processed
 ---
 

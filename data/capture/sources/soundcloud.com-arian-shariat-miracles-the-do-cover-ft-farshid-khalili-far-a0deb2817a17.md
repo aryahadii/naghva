@@ -4,7 +4,7 @@ title: Stream Miracles (The Dø Cover ft. Farshid Khalili Far) by Rian / آری�
 status: processed
 kind: web page
 language: mul
-tier: own
+tier: discography
 ---
 
 > Miracles (The Dø Cover ft. Farshid Khalili Far)

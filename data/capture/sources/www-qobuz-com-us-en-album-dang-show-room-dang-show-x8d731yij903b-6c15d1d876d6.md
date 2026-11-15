@@ -3,7 +3,7 @@ url: https://www.qobuz.com/us-en/album/dang-show-room-dang-show/x8d731yij903b
 title: Dang Show Room — Barbad Music digital edition
 kind: web page
 language: en
-tier: primary
+tier: discography
 status: processed
 ---
 

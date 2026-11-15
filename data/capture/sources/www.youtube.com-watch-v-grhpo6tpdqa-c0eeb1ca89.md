@@ -2,6 +2,7 @@
 url: https://www.youtube.com/watch?v=grHpo6TPdqA
 title: Salome MC & Shing02 - Passenger feat. Nicholas Kaleikini | مسافر - YouTube
 status: processed
+tier: discography
 ---
 
 > Salome MC & Shing02 - Passenger feat. Nicholas Kaleikini

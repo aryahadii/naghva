@@ -3,7 +3,7 @@ url: https://open.spotify.com/album/36wc0EljNiZPoYInKzFYzp
 title: Afsharestan — Spotify
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Qnjntqs
 status: processed

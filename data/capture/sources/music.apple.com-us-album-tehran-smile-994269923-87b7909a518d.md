@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/tehran-smile/994269923
 title: Tehran, Smile! - Album by Pallett - Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Kaveh Salehi
 status: processed

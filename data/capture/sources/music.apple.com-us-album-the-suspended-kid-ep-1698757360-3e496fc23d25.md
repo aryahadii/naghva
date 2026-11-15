@@ -4,7 +4,7 @@ title: The Suspended Kid - EP
 language: en
 publisher: Apple Music
 status: processed
-tier: own
+tier: discography
 ---
 
 > ‎The Suspended Kid - EP - Album by Sevdaliza - Apple Music

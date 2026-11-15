@@ -4,7 +4,6 @@ import { tmpdir } from 'node:os';
 import { join } from 'node:path';
 import { execFileSync } from 'node:child_process';
 import { test } from 'node:test';
-import { ROLE_CLASSIFICATION } from '../src/lib/roles.ts';
 import { recordingArtists } from '../src/lib/record.ts';
 import { artistView } from '../src/lib/artist.ts';
 import { artistJsonLd, siteJsonLd } from '../src/lib/jsonld.ts';
@@ -12,9 +11,11 @@ import { fold, ranked, searchPage } from '../src/lib/search.ts';
 import { compareDates } from '../src/lib/catalogue.ts';
 
 const published = JSON.parse(readFileSync('generated/record.json', 'utf8'));
-test('every registered role has an explicit performance or creation classification', () => {
+test('every registered role is classed as performance or creation', () => {
   const roles = JSON.parse(execFileSync('python3', ['-c', "import yaml,json; print(json.dumps(yaml.safe_load(open('../data/schema/properties.yaml'))['terms']['role']))"], { encoding: 'utf8' }));
+  const ROLE_CLASSIFICATION = published.roles;
   assert.deepEqual(Object.keys(ROLE_CLASSIFICATION).sort(), roles.sort());
+  assert.ok(Object.values(ROLE_CLASSIFICATION).every((kind) => kind === 'performance' || kind === 'creation'));
   for (const role of roles) {
     const person = { id: 'person' };
     const release = { statements: { performer: [{ value: 'person', rank: 'normal', qualifiers: { role: [role] } }] } };

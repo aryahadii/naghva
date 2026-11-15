@@ -3,6 +3,7 @@ url: https://ashkoosha.bandcamp.com/album/chimera-ep
 title: Chimera EP
 language: en
 status: processed
+tier: own
 ---
 
 > Chimera EP

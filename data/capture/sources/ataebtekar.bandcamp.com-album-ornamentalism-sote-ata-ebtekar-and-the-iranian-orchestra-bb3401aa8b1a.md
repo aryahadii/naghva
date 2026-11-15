@@ -4,6 +4,7 @@ title: Ornamentalism
 language: en
 publisher: Ata Ebtekar
 status: processed
+tier: own
 archive: https://web.archive.org/web/20250526043553/https://ataebtekar.bandcamp.com/album/ornamentalism-sote-ata-ebtekar-and-the-iranian-orchestra
 ---
 

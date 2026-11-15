@@ -2,6 +2,7 @@
 url: https://www.youtube.com/watch?v=ZTFJWCl9ncs
 title: Salome MC - Odium | رسوا - YouTube
 status: processed
+tier: discography
 archive: https://web.archive.org/web/20250214213858/https://www.youtube.com/watch?v=ZTFJWCl9ncs
 ---
 

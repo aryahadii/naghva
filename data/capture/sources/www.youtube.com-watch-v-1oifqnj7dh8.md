@@ -3,7 +3,7 @@ url: https://www.youtube.com/watch?v=1oifqNJ7dh8
 title: بند باز
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Kaveh Salehi
 status: processed

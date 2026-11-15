@@ -5,7 +5,7 @@ language: mul
 publisher: SoundCloud
 status: processed
 kind: web page
-tier: own
+tier: discography
 about:
 - Bi Saropa
 - Makan Ashgvari

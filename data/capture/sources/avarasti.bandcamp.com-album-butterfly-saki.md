@@ -3,6 +3,7 @@ url: https://avarasti.bandcamp.com/album/a-butterfly-fly-from-each-fingertip
 title: A Butterfly Fly From Each Fingertip — Ava Rasti
 language: en
 status: processed
+tier: own
 ---
 
 > Music for the motion picture (A Butterfly Fly From Each Fingertip) Director: Saber Abar

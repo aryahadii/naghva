@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/rira/1764971901
 title: Rira - Soheil Nafisi - Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 status: processed
 publisher: music.apple.com
 ---

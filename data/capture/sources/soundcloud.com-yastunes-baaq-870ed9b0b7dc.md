@@ -2,6 +2,7 @@
 url: https://soundcloud.com/yastunes/baaq
 title: https://soundcloud.com/yastunes/baaq
 status: processed
+tier: discography
 publisher: soundcloud.com
 ---
 

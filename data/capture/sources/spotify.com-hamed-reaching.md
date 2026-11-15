@@ -3,7 +3,7 @@ url: https://open.spotify.com/track/2mLR2kp8T7o7vnE2mtCJyP
 title: Reaching You (Vasl-e To) | Hamed Nikpay
 kind: web page
 language: en
-tier: own
+tier: discography
 status: processed
 ---
 

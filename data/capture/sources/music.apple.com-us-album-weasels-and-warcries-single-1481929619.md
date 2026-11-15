@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/weasels-and-warcries-single/1481929619
 title: Weasels and Warcries - Single by Mahdyar
 kind: web page
 language: en
-tier: own
+tier: discography
 status: processed
 archive: https://web.archive.org/web/*/https://music.apple.com/us/album/weasels-and-warcries-single/1481929619
 ---

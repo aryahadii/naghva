@@ -2,7 +2,7 @@
 url: https://music.apple.com/us/song/be-yadam-feat-shervin-najafian/1708660131
 title: Be Yadam (feat. Shervin Najafian)
 status: processed
-tier: own
+tier: discography
 publisher: Apple Music
 language: en
 ---

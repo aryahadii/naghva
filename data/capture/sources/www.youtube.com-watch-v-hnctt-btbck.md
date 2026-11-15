@@ -3,7 +3,7 @@ url: https://www.youtube.com/watch?v=hnctT-Btbck
 title: Hichkas - Har Ye Rooz (feat. Poobon)
 kind: youtube video
 language: en
-tier: own
+tier: discography
 status: processed
 accessed: '2026-10-23'
 author: Hichkas

@@ -3,7 +3,7 @@ url: https://soundcloud.com/the-ways-band/parseh-theways
 title: Parseh - The Ways
 kind: web page
 language: en
-tier: own
+tier: discography
 status: processed
 publisher: soundcloud.com
 ---

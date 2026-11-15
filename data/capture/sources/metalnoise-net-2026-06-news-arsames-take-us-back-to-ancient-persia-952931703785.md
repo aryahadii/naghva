@@ -4,6 +4,7 @@ title: 'NEWS: Arsames take us back to ancient Persia!'
 language: en
 publisher: Metal Noise / DJ Vapour
 status: processed
+tier: journalism
 ---
 
 > For this tribute to Iron Maiden’s legendary song “The Trooper,” Arsames chose a different path.

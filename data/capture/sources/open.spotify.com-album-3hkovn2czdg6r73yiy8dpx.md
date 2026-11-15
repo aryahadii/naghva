@@ -4,7 +4,7 @@ title: "Listen to Jaddeh - Single by Sara Naeini | Spotify"
 status: processed
 kind: web page
 language: mul
-tier: own
+tier: discography
 publisher: "Spotify"
 about:
 - Qb23qew

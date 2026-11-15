@@ -4,7 +4,7 @@ title: 13 - Album by Navid Arbabian - Apple Music
 language: en
 publisher: Apple Music
 status: processed
-tier: own
+tier: discography
 ---
 
 > 13 - Album by Navid Arbabian - Apple Music

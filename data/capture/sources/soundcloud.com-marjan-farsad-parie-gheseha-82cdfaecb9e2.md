@@ -3,6 +3,7 @@ url: https://soundcloud.com/marjan-farsad/parie-gheseha
 title: Parie Gheseha
 publisher: Marjan Farsad
 status: processed
+tier: discography
 ---
 
 > Music, lyrics, artwork: Marjan Farsad

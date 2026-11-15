@@ -4,6 +4,7 @@ title: Mohsen Namjoo - YouTube
 language: en
 publisher: YouTube
 status: processed
+tier: discography
 ---
 
 > Restless

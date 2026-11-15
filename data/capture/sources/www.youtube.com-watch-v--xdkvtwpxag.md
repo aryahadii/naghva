@@ -4,7 +4,7 @@ title: "Asemoone Katoon , آسمون کتون"
 status: processed
 kind: youtube video
 language: mul
-tier: own
+tier: discography
 publisher: "Sara Naeini"
 issued:
   date: '2025-12-12'

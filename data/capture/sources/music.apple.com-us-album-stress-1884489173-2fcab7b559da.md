@@ -4,6 +4,7 @@ title: Stress - Album by The Ways
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > Stress by The Ways on Apple Music

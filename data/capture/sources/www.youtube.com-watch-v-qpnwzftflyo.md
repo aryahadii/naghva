@@ -4,7 +4,7 @@ title: Baghale Man — Rian - Topic
 status: processed
 kind: youtube video
 language: en
-tier: own
+tier: discography
 ---
 
 > Composer, Lyricist: Taha Mazaheri

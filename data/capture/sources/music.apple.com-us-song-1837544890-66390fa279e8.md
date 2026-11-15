@@ -2,7 +2,7 @@
 url: https://music.apple.com/us/song/1837544890
 title: ‎No Me Cansare - Song with Lyrics by Sevdaliza & KAROL G - Apple Music
 status: processed
-tier: own
+tier: discography
 kind: web page
 about:
 - Sevdaliza

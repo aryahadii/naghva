@@ -4,6 +4,7 @@ title: Harf Bezan
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > "name":"Harf Bezan"

@@ -4,7 +4,7 @@ title: Aria Rohani feat. Monicki - Vatan (Official Video)
 status: processed
 kind: youtube video
 language: en
-tier: own
+tier: discography
 about:
 - Monicki
 - Vatan

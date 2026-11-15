@@ -3,6 +3,7 @@ url: https://arashakbari.bandcamp.com/album/cracked-echoes
 title: Cracked Echoes | Arash Akbari
 language: en
 status: processed
+tier: own
 publisher: arashakbari.bandcamp.com
 ---
 

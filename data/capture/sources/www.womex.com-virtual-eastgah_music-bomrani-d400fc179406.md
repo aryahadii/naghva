@@ -3,6 +3,7 @@ url: https://www.womex.com/virtual/eastgah_music/bomrani
 title: Bomrani
 language: en
 status: processed
+tier: other
 ---
 
 > Bomrani was founded in 2008 by Behzad Omrani (singer and guitar player). After working as a solo artist (using “Bomrani” as his stage name) and recording Yellow Sky, Blue Sun in 2010, Mani Mozaka (harmonica and trumpet) and Jahanyar Ghorbani (electric guitar) joined him.

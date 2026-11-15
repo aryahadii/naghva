@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/sabze-lajani-single/1613747555
 title: Sabze Lajani - Single - Album by Faarjam - Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Faarjam
 status: processed

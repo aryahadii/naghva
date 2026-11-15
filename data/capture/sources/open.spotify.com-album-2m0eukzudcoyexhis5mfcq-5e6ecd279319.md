@@ -2,7 +2,7 @@
 url: https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq
 title: Listen to Alibi (with Pabllo Vittar & Yseult) - Single by Sevdaliza | Spotify
 status: processed
-tier: own
+tier: discography
 kind: web page
 about:
 - Sevdaliza

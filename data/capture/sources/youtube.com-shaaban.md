@@ -3,7 +3,7 @@ url: https://www.youtube.com/watch?v=3cZCPwY31Qs
 title: Shaaban | Shahin Najafi
 kind: youtube video
 language: en
-tier: own
+tier: discography
 status: processed
 publisher: www.youtube.com
 ---

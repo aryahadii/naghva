@@ -2,6 +2,7 @@
 url: https://open.spotify.com/album/6MgP7RiBuxClZSwvj6oqfU
 title: Miss Myself on Spotify
 status: processed
+tier: discography
 ---
 
 > "name":"Miss Myself"

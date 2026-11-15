@@ -4,7 +4,7 @@ title: KIOSK
 language: en
 publisher: YouTube
 status: processed
-tier: own
+tier: discography
 about:
 - Kiosk
 - کیوسک

@@ -4,7 +4,7 @@ title: Blues for Tehran - Big Caravan Band
 status: processed
 kind: youtube video
 language: mul
-tier: own
+tier: discography
 about:
 - Taha Mazaheri
 - Q66ky5f

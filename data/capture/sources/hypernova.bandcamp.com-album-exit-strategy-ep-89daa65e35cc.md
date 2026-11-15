@@ -4,6 +4,7 @@ title: Exit Strategy EP | Hypernova
 language: en
 publisher: Bandcamp
 status: processed
+tier: own
 ---
 
 > Exit Strategy EP by Hypernova

@@ -4,6 +4,7 @@ title: Music | Nesa Azadikhah
 language: en
 publisher: Nesa Azadikhah
 status: processed
+tier: own
 archive: https://web.archive.org/web/20260430044842/https://nesaazadikhah.bandcamp.com/
 ---
 

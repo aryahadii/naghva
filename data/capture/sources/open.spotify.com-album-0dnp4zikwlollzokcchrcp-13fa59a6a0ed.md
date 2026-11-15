@@ -4,6 +4,7 @@ title: Mojaz - Album by Hichkas | Spotify
 language: en
 publisher: Spotify
 status: processed
+tier: discography
 ---
 
 > Mojaz - Album by Hichkas | Spotify

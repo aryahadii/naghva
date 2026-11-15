@@ -3,7 +3,7 @@ url: https://open.spotify.com/album/0bnZTjJhxmodaaf6YnzG88
 title: Dooren Mara — exact Spotify programme
 kind: web page
 language: mul
-tier: platform
+tier: discography
 status: processed
 ---
 

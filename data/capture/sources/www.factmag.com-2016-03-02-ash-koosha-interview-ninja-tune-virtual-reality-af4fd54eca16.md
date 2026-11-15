@@ -5,6 +5,7 @@ language: en
 author: Miles Bowe
 publisher: FACT
 status: processed
+tier: journalism
 ---
 
 > It’s 50 per cent control and 50 per cent [letting] the computer decide. The method that I have is I put units and processing on the sound, and after that I listen back to what the computer has decided as well. When I stretch a sound there are random elements that pop out of the waveform. So it’s a mix of me controlling all these chaotic things and also respecting the randomness of sound

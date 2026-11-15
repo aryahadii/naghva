@@ -4,6 +4,7 @@ title: Phantasm — Spotify album catalogue
 publisher: Spotify
 language: en
 status: processed
+tier: discography
 accessed: '2026-10-23'
 ---
 

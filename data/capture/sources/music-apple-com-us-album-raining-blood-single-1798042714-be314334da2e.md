@@ -4,6 +4,7 @@ title: RAINING BLOOD - Single
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > RAINING BLOOD - Single

@@ -4,6 +4,7 @@ title: 'Râmi''s Songs: physical booklet credit panel'
 language: en
 publisher: Rami.ir
 status: processed
+tier: own
 archive: https://web.archive.org/web/20210227003246/https://rami.ir/wp-content/uploads/Taraneh_Haye_Rami_1.jpg
 ---
 

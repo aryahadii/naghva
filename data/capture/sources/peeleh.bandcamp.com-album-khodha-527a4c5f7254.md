@@ -4,6 +4,7 @@ title: KHODHA | Bahram | Peeleh
 language: en
 publisher: Bandcamp (Peeleh)
 status: processed
+tier: own
 ---
 
 > Lyrics & Vocals: Bahram • bahramnouraei.com

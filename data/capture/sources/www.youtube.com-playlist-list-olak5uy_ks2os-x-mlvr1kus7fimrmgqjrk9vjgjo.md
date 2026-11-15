@@ -3,7 +3,7 @@ url: https://www.youtube.com/playlist?list=OLAK5uy_ks2Os-X-mlvR1kUs7fIMrmgqJrK9V
 title: Sokoote Sard(Cold Silence) - YouTube
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Kaveh Yaghmaei
 status: processed

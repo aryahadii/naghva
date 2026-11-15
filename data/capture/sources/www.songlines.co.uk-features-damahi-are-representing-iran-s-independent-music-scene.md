@@ -5,7 +5,7 @@ title: "Damahi are representing Iran’s independent scene"
 status: processed
 kind: web page
 language: en
-tier: press
+tier: journalism
 publisher: "Songlines"
 issued:
   date: '2025-02-27'

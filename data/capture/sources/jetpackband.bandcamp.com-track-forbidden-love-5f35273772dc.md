@@ -2,6 +2,7 @@
 url: https://jetpackband.bandcamp.com/track/forbidden-love
 title: forbidden love — Joystick EP
 status: processed
+tier: own
 kind: web page
 language: en
 ---

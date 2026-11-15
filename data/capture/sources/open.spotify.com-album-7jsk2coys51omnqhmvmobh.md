@@ -4,6 +4,7 @@ title: Ma | Spotify
 language: en
 publisher: Spotify
 status: processed
+tier: discography
 kind: album page
 about:
 - Kābin

@@ -4,7 +4,7 @@ title: Happy Birthday Joyful Songs for Children by Kourosh Yaghmaei on Apple Mus
 kind: web page
 language: en
 publisher: Apple Music
-tier: platform catalog
+tier: discography
 status: processed
 ---
 

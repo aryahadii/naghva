@@ -2,6 +2,7 @@
 url: https://music.apple.com/us/album/seven-climes-vol-2/1696104077
 title: Seven Climes Vol. 2 - Album by Salome MC - Apple Music
 status: processed
+tier: discography
 ---
 
 > Listen to Seven Climes Vol. 2 by Salome MC on Apple Music. 2023. 7 Songs. Duration: 22 minutes.
