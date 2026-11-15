@@ -4,6 +4,7 @@ title: Listen to Dige Vaghtesh Resideh - Single by Ali Azimi | Spotify
 language: mul
 publisher: Spotify
 status: processed
+tier: discography
 ---
 
 > Listen to Dige Vaghtesh Resideh - Single by Ali Azimi | Spotify

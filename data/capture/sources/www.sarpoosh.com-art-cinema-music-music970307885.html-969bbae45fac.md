@@ -4,6 +4,7 @@ title: جدایی اسفندارمز و آذر از گروه «پالت»
 language: fa
 publisher: Sarpoosh
 status: processed
+tier: journalism
 ---
 
 > داریوش آذر که برای فعالیت و خوانندگی در موسیقی پاپ به شکل مستقل، از گروه «پالت» جدا شد

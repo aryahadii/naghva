@@ -4,6 +4,7 @@ title: Baaraan Toee - Album by Chaartaar - Apple Music
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > Baaraan Toee

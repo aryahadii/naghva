@@ -5,6 +5,7 @@ language: en
 author: Mari Shibata
 publisher: Index on Censorship
 status: processed
+tier: journalism
 ---
 
 > “When we made physical copies of our first album Jangale Asphalt in 2006, we were arrested whilst selling it on the streets of Tehran,”

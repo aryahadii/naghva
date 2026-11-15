@@ -2,6 +2,7 @@
 url: https://open.spotify.com/album/28pW2iseFIXprUVyiVnyiy
 title: Faryas (Faryade Yas) - Shout - فریاد یاس — Yas
 status: processed
+tier: discography
 publisher: open.spotify.com
 ---
 

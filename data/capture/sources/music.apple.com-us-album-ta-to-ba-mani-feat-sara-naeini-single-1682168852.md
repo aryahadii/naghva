@@ -5,7 +5,7 @@ title: "Ta to ba mani (feat. Sara Naeini) - Single - Album by Amir Bayat - Apple
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: "Apple Music"
 about:
 - Qb23qew

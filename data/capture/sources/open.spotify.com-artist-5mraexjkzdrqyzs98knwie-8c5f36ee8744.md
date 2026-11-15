@@ -2,7 +2,7 @@
 url: https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie
 title: Listen to Sevdaliza Songs | Spotify
 status: processed
-tier: own
+tier: discography
 kind: web page
 about:
 - Sevdaliza

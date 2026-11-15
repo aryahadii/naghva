@@ -3,6 +3,7 @@ url: https://www.youtube.com/watch?v=zTWILhB8atI
 archive: "https://web.archive.org/web/20250825061557/https://www.youtube.com/watch?v=zTWILhB8atI"
 title: Smoky Bird — historical video lead
 status: processed
+tier: discography
 kind: web page
 language: en
 ---

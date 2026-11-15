@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/mist-over/1582052105
 title: Mist Over - Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Mist Over
 - Hamid Saeidi

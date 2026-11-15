@@ -21,14 +21,8 @@ PLATFORMS = (
     ("Deezer", re.compile(r"(^|\.)deezer\.com$")),
     ("Tidal", re.compile(r"(^|\.)tidal\.com$")),
 )
-# Source tiers are free words in capture; these are the groups the page shows.
-TIERS = {
-    "own": "own", "primary": "own",
-    "discography": "discography", "catalogue": "discography", "platform": "discography",
-    "platform catalog": "discography", "streaming": "discography",
-    "journalism": "journalism", "press": "journalism",
-    "academic": "academic", "wikipedia": "wikipedia",
-}
+# Source tiers, as the source schema lists them; a source with none counts as other.
+TIERS = ("own", "discography", "journalism", "academic", "wikipedia", "other")
 NETWORK_SEED = 1404
 
 
@@ -279,7 +273,7 @@ def stats(items, artists, sources, tiers, articles=None):
     for meta in sources.values():
         lang = meta.get("language")
         languages[lang if lang in ("en", "fa", "mul") else "other"] += 1
-    kinds = Counter(TIERS.get(str(tiers.get(name) or "").strip().lower(), "other") for name in sources)
+    kinds = Counter(tiers.get(name) or "other" for name in sources)
 
     return {
         "totals": {
@@ -317,7 +311,7 @@ def stats(items, artists, sources, tiers, articles=None):
         },
         "sources": {
             "langs": [[k, languages[k]] for k in ("en", "fa", "mul", "other")],
-            "kinds": [[k, kinds[k]] for k in ("own", "discography", "journalism", "academic", "wikipedia", "other")],
+            "kinds": [[k, kinds[k]] for k in TIERS],
         },
         # Sources by the week the record first cites them as read: the last half year,
         # so a stray old access date does not stretch the axis.

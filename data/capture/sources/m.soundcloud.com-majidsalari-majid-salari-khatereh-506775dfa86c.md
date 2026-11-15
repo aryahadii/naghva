@@ -4,7 +4,7 @@ title: Majid Salari - Khatereh by Majid Salari
 status: processed
 kind: web page
 language: mul
-tier: own
+tier: discography
 ---
 
 > Lyrics: Ebrahim Monsefi Composer: Majid Nasiri Arrangement: Majid Nasiri Guitar: Ebrahim Alavi Mixing & Mastering: Majid Nasiri

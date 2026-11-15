@@ -3,7 +3,7 @@ url: https://soundcloud.com/hamednikpay/reaching-you-vasl-e-to
 title: Reaching You (Vasl-e To) by Hamed Nikpay
 kind: web page
 language: en
-tier: own
+tier: discography
 status: processed
 ---
 

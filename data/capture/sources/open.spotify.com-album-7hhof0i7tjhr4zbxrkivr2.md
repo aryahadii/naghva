@@ -4,7 +4,7 @@ title: Listen to See You Again - Single by &ME | Spotify
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Spotify
 about:
 - Qf36fnd

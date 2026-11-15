@@ -3,6 +3,7 @@ url: https://rojinsharafi.bandcamp.com/album/urns-waiting-to-be-fed
 title: Urns Waiting To Be Fed | Rojin Sharafi
 language: en
 status: processed
+tier: own
 ---
 
 > Rojin Sharafi (b. 1995, Tehran) is a sound artist and composer of acoustic, electro-acoustic and electronic music based in Vienna.

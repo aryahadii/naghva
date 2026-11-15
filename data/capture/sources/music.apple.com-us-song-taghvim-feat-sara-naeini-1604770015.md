@@ -4,7 +4,7 @@ title: "Taghvim (feat. Sara Naeini) - Song with Lyrics by Hamid Hami - Apple Mu
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: "Apple Music"
 about:
 - Qb23qew

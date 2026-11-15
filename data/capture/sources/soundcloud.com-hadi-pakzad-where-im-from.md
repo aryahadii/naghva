@@ -3,7 +3,7 @@ url: https://soundcloud.com/hadi-pakzad/where-im-from
 title: Where I'm From - Hadi Pakzad | SoundCloud
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Hadi Pakzad
 status: processed

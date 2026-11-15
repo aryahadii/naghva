@@ -5,7 +5,7 @@ title: Sepehr Baba Kojayi (Feat. Monicki) – Official Visualizer | سپهر ب�
 status: processed
 kind: youtube video
 language: mul
-tier: own
+tier: discography
 about:
 - Monicki
 - Sepehr Baba Kojayi

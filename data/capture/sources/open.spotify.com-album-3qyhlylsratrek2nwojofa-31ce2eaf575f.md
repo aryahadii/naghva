@@ -4,6 +4,7 @@ title: My Story - Single
 language: en
 publisher: Spotify
 status: processed
+tier: discography
 ---
 
 > Listen to My Story - Single by O-Hum | Spotify

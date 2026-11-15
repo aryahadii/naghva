@@ -4,6 +4,7 @@ title: About | Soheil Shayesteh
 language: en
 publisher: Soheil Shayesteh
 status: processed
+tier: own
 ---
 
 > Soheil is an audio-visual composer, violinist, and Kamancheh player based in Amsterdam.

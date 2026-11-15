@@ -3,6 +3,7 @@ url: https://sabaalizadeh.bandcamp.com/track/nafir-clamour
 title: Nafir
 language: en
 status: processed
+tier: own
 ---
 
 > Composition and kamancheh by Saba Alizadeh, violin: Aso Kohzadi

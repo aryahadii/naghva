@@ -4,7 +4,7 @@ title: Dang Show - The Best
 status: processed
 kind: web page
 language: en
-tier: primary
+tier: discography
 ---
 
 > DANG SHOW - THE BEST

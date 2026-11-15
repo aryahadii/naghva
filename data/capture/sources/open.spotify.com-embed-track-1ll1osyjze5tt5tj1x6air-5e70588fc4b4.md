@@ -4,7 +4,7 @@ title: Mirror for the Sun | Spotify
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Sanam Maroufkhani
 ---

@@ -4,7 +4,7 @@ title: Sha`am O Shab by Majid Salari
 status: processed
 kind: web page
 language: mul
-tier: own
+tier: discography
 ---
 
 > Arrangement: Navid Najjar Gheidel Oud: Shoja Ashari Bass Guitar: Ebrahim Alavi Daf & Percussion: Amirhossein Tayari Recording: Bamdad Studio Mixing & Mastering: Majid Nasiri Graphic Design: Hadi Naranji-Nasab

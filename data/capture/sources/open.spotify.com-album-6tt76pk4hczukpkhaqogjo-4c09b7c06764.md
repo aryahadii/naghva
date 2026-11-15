@@ -3,7 +3,7 @@ url: https://open.spotify.com/album/6tt76pK4hCZuKPkHaqoGJO
 title: Harf Bezan — Spotify
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Qnjntqs
 status: processed

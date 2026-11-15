@@ -3,7 +3,7 @@ url: https://www.qobuz.com/us-en/album/dang-show-room-dang-show/n2vypr7cot4fc
 title: Dang Show Room, Dang Show - Qobuz
 kind: web page
 language: en
-tier: primary
+tier: discography
 status: processed
 ---
 

@@ -4,7 +4,7 @@ title: Râmi's Songs
 language: en
 publisher: Apple Music
 status: processed
-tier: own
+tier: discography
 ---
 
 > Râmi's Songs - Album by Ebrahim Monsefi - Apple Music

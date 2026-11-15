@@ -4,6 +4,7 @@ title: Rosva - song and lyrics by Hichkas | Spotify
 language: en
 publisher: Spotify
 status: processed
+tier: discography
 ---
 
 > Rosva - song and lyrics by Hichkas | Spotify

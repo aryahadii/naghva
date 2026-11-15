@@ -4,6 +4,7 @@ title: Malek Jamshid — Apple Music
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > Malek Jamshid Kourosh Yaghmaei Rock · 2016

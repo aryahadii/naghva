@@ -4,7 +4,7 @@ title: Mordad 85 - Album by Sarakhs
 language: en
 publisher: Apple Music
 status: processed
-tier: own
+tier: discography
 ---
 
 > Mordad 85

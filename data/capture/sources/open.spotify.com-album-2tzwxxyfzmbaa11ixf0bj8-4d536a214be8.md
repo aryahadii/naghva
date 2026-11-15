@@ -4,6 +4,7 @@ title: Shatt-e Sharab
 language: en
 publisher: Spotify
 status: processed
+tier: discography
 ---
 
 > Listen to Shatt-e Sharab - Album by O-Hum | Spotify

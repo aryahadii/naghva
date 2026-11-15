@@ -4,6 +4,7 @@ title: About – Arin Keshishi
 language: en
 publisher: Arin Keshishi
 status: processed
+tier: own
 ---
 
 > Arin was born in 1992 to an Armenian family in Tehran-Iran.

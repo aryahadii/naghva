@@ -4,6 +4,7 @@ title: 'Concert Review: Metal Mayhem IV (Headlined by Napalm Death)'
 language: en
 publisher: The Sickening Art
 status: processed
+tier: journalism
 ---
 
 > Arsames (Iran) were okay, but not as per what I had anticipated.

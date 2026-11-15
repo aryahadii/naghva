@@ -4,7 +4,7 @@ title: Balzan - Live in Tehran - 2021
 status: processed
 kind: youtube video
 language: mul
-tier: own
+tier: discography
 about:
 - Balzan
 part of: www.youtube.com-guitariran-687e3b65e900

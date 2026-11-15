@@ -2,6 +2,7 @@
 url: https://open.spotify.com/album/0takTMFoPGnNDlNkvLLhKt
 title: Listen to A Day & a Year - Album by King Raam | Spotify
 status: processed
+tier: discography
 language: en
 ---
 

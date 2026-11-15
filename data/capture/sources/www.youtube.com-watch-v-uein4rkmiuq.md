@@ -5,7 +5,7 @@ title: "Reza Rohani Featuring Sara Naeini, Emshab"
 status: processed
 kind: youtube video
 language: mul
-tier: own
+tier: discography
 publisher: "Reza Rohani"
 issued:
   date: '2013-12-01'

@@ -4,7 +4,7 @@ title: Descent — Soofi
 status: processed
 kind: web page
 language: mul
-tier: own
+tier: discography
 about:
 - Soofi Namazi
 - صوفی نمازی

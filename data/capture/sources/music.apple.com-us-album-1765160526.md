@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/songs-from-the-south/1765160526
 title: Songs From The South
 status: processed
 publisher: Apple Music
-tier: own
+tier: discography
 language: en
 ---
 

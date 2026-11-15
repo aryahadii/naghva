@@ -4,6 +4,7 @@ title: 40 (Chehel) - Album by Dariush Azar
 language: en
 publisher: Spotify
 status: processed
+tier: discography
 ---
 
 > 40 (Chehel) - Album by Dariush Azar

@@ -5,7 +5,7 @@ title: Stream Barf by Rian / آرین | Listen online for free on SoundCloud
 status: processed
 kind: web page
 language: mul
-tier: own
+tier: discography
 ---
 
 > Barf

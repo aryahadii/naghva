@@ -2,6 +2,7 @@
 url: https://music.apple.com/us/album/thousand-mirrors-single/1701114198
 title: Thousand Mirrors - Single - Album by Rokas Jurkus - Apple Music
 status: processed
+tier: discography
 ---
 
 > Listen to Thousand Mirrors - Single by Rokas Jurkus on Apple Music. 2023. 1 Song. Duration: 5 minutes.

@@ -4,6 +4,7 @@ title: آیا ستاره‌‌ها رگ خواب مخاطب را گم کرده�
 language: fa
 publisher: Honar Online
 status: processed
+tier: journalism
 ---
 
 > آلبوم موسیقی "دور" تازه‌ترین اثر ماکان اشگواری، امیر صارمی به همت شرکت "نشر نوفه" منتشر شد.

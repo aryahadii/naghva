@@ -5,7 +5,7 @@ title: "Crazy - دیوانه by Damahi داماهی | SoundCloud"
 status: processed
 kind: web page
 language: mul
-tier: own
+tier: discography
 publisher: "SoundCloud"
 about:
 - Qep6nz6

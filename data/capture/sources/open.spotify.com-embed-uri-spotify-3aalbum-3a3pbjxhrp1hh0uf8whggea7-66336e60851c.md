@@ -4,6 +4,7 @@ title: Nameh Baroon | Spotify player
 language: en
 publisher: Spotify
 status: processed
+tier: discography
 ---
 
 > spotify:album:3pbJxHrp1hH0uf8WhGgEa7

@@ -3,7 +3,7 @@ url: https://soundcloud.com/habib-boushehri/balanced
 title: Balanced
 kind: web page
 language: en
-tier: own
+tier: discography
 status: processed
 ---
 

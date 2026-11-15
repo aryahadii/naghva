@@ -4,6 +4,7 @@ title: Shayad Behtarin Roozam Gozashteh (Maybe My Best Day Has Passed) - Album b
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > Listen to Shayad Behtarin Roozam Gozashteh (Maybe My Best Day Has Passed) by Bomrani on Apple Music. 2025. 11 Songs. Duration: 49 minutes.

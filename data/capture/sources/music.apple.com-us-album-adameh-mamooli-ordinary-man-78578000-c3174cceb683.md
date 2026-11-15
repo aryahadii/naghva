@@ -4,6 +4,7 @@ title: Adameh Mamooli (Ordinary Man) - Album by Kiosk - Apple Music
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > Adameh Mamooli (Ordinary Man) by Kiosk on Apple Music

@@ -4,7 +4,7 @@ title: Barf - Single - Album by Rian - Apple Music
 status: processed
 kind: web page
 language: mul
-tier: own
+tier: discography
 ---
 
 > June 12, 2021

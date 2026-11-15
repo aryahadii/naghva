@@ -3,7 +3,7 @@ url: https://soundcloud.com/miladderakhshani
 title: Milad Derakhshani — profile
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Qnjntqs
 status: processed

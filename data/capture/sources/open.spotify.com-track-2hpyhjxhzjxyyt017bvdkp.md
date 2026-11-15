@@ -5,7 +5,7 @@ title: "Bi Aman - song and lyrics by Damahi | Spotify"
 status: processed
 kind: web page
 language: mul
-tier: own
+tier: discography
 publisher: "Spotify"
 about:
 - Qep6nz6

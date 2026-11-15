@@ -5,7 +5,7 @@ title: Bi Aseman (skyless)
 status: processed
 kind: web page
 language: mul
-tier: own
+tier: discography
 about:
 - Taha Mazaheri
 - Q66ky5f

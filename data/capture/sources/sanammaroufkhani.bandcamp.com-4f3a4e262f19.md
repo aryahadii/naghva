@@ -2,6 +2,7 @@
 url: https://sanammaroufkhani.bandcamp.com/
 title: Music | Sanam Maroufkhani
 status: processed
+tier: own
 language: en
 publisher: Sanam Maroufkhani
 ---

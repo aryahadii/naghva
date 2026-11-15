@@ -4,6 +4,7 @@ title: A Window to Color
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > A Window to Color by Mamak Khadem on Apple Music

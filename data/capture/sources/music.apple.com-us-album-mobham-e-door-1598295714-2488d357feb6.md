@@ -4,6 +4,7 @@ title: Mobham e Door
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > "name":"Mobham e Door"

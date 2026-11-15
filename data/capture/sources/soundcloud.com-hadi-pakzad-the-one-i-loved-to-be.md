@@ -3,7 +3,7 @@ url: https://soundcloud.com/hadi-pakzad/the-one-i-loved-to-be
 title: The One I Loved To Be - Hadi Pakzad | SoundCloud
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Hadi Pakzad
 status: processed

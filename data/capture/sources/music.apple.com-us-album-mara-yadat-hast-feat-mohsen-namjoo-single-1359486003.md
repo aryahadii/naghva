@@ -4,7 +4,7 @@ title: Mara Yadat Hast (feat. Mohsen Namjoo) - Single - Album by Circo Cafe - Ap
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Apple Music
 about:
 - Qt6wjbg

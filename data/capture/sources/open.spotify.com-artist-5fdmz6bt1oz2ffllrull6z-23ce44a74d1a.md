@@ -5,7 +5,7 @@ title: Makan Ashgvari — Spotify artist profile
 status: processed
 kind: social media profile
 language: en
-tier: own
+tier: discography
 publisher: Spotify
 about:
 - Makan Ashgvari

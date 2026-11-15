@@ -3,7 +3,7 @@ url: "https://sussandeyhim.com/blogs/news/sussan-deyhim-concert-whispers-from-th
 title: "Sussan Deyhim Concert Whispers from the Underworld at the Nimoy at CAP UCLA"
 kind: "web page"
 language: "en"
-tier: "own"
+tier: own
 status: "processed"
 ---
 

@@ -4,6 +4,7 @@ title: Stream Bahram | Listen to ESHTEBAHE KHOOB playlist online for free on Sou
 language: en
 publisher: SoundCloud (Bahram)
 status: processed
+tier: discography
 ---
 
 > Lyrics and Vocals: Bahram Nouraei

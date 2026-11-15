@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/the-best-single/1763363420
 title: The Best - Single — Apple Music
 kind: web page
 language: en
-tier: primary
+tier: discography
 status: processed
 ---
 

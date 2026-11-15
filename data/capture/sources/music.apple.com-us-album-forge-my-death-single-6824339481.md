@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/forge-my-death-single/6824339481
 title: FORGE MY DEATH - Single - Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 about: [Sanam Pasha]
 status: processed
 ---

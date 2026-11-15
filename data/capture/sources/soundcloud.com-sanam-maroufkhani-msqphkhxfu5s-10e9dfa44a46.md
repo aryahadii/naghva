@@ -3,6 +3,7 @@ url: https://soundcloud.com/sanam-maroufkhani/msqphkhxfu5s
 archive: "https://web.archive.org/web/20230806001544/https://soundcloud.com/sanam-maroufkhani/msqphkhxfu5s"
 title: وقتی تو رفتی از خونه
 status: processed
+tier: discography
 language: en
 publisher: SoundCloud
 ---

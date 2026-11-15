@@ -2,6 +2,7 @@
 url: https://www.jadaliyya.com/Details/43434
 title: https://www.jadaliyya.com/Details/43434
 status: processed
+tier: journalism
 ---
 
 > The lyrics (written by Arash Monsef and Moody) are composed in the bahr-e tavil meter of Persian poetry, a form deployed in both humorous as well as mournful compositions.

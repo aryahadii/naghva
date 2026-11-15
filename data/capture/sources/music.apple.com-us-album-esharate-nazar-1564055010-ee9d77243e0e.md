@@ -4,6 +4,7 @@ title: Esharate Nazar - Album by Milad Derakhshani - Apple Music
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > "name":"Esharate Nazar"

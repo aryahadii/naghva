@@ -3,7 +3,7 @@ url: https://open.spotify.com/album/3p6f6LYKOhuH3iaN9v3uJ8
 title: Listen to MIST OVER - Album by Hamid Saeidi | Spotify
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Hamid Saeidi
 status: processed

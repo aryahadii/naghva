@@ -4,6 +4,7 @@ title: ABOUT (Copy) — King Raam
 language: en
 publisher: King Raam
 status: processed
+tier: own
 ---
 
 > Raam launched his solo career in Toronto in 2011 with Songs of the Wolves

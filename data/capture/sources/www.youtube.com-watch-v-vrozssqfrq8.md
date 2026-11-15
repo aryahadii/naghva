@@ -3,6 +3,7 @@ url: https://www.youtube.com/watch?v=vroZSSQfRQ8
 archive: "https://web.archive.org/web/20240916074200/https://www.youtube.com/watch?v=vroZSSQfRQ8"
 title: "Damahi Rafi - داماهی رفیک"
 status: processed
+tier: discography
 kind: youtube video
 language: mul
 publisher: "TPM - Top Persian Music"

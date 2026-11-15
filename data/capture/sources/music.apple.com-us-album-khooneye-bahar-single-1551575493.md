@@ -4,6 +4,7 @@ title: Khooneye Bahar - Single by Ali Azimi on Apple Music
 language: mul
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > Khooneye Bahar - Single by Ali Azimi on Apple Music

@@ -4,7 +4,7 @@ title: Javid Shah - Single - Album by Shahin Najafi & Ramin Sokouty - Apple Musi
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Apple Music
 about:
 - Qn7vfak

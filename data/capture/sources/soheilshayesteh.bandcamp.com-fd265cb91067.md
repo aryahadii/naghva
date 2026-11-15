@@ -2,6 +2,7 @@
 url: https://soheilshayesteh.bandcamp.com/
 title: https://soheilshayesteh.bandcamp.com/
 status: processed
+tier: own
 publisher: soheilshayesteh.bandcamp.com
 ---
 

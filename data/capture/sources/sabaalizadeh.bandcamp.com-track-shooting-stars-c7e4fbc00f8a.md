@@ -4,6 +4,7 @@ title: Shooting Stars
 language: en
 publisher: Saba Alizadeh Bandcamp
 status: processed
+tier: own
 ---
 
 > Voice: Linnea Sablosky

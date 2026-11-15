@@ -4,6 +4,7 @@ title: Logic of the Birds
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > ‎Logic of the Birds - Album by Sussan Deyhim & Richard Horowitz - Apple Music

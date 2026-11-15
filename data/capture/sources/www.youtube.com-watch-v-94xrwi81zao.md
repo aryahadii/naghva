@@ -3,7 +3,7 @@ url: https://www.youtube.com/watch?v=94Xrwi81ZAo
 title: Havaye Tazeh
 kind: youtube video
 language: en
-tier: own
+tier: discography
 about:
 - Kaveh Yaghmaei
 status: processed

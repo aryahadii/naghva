@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/the-new-design/1764980614
 title: The New Design
 status: processed
 publisher: Apple Music
-tier: own
+tier: discography
 language: en
 ---
 

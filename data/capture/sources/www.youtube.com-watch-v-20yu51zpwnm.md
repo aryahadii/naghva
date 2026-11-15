@@ -4,7 +4,7 @@ title: Behzad Danesh - Por Kon - Kooche Afshar version
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Golsa
 ---

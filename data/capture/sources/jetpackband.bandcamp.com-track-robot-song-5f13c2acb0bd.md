@@ -2,6 +2,7 @@
 url: https://jetpackband.bandcamp.com/track/robot-song
 title: robot song — Joystick EP
 status: processed
+tier: own
 kind: web page
 language: en
 ---

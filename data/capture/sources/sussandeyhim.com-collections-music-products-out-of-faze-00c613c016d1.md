@@ -4,6 +4,7 @@ title: Out Of Faze Music by Sussan Deyhim
 language: en
 publisher: Sussan Deyhim Gallery
 status: processed
+tier: own
 ---
 
 > Out Of Faze, Sussan Deyhim with Keith LeBlanc, Skip McDonald, Doug Wimbish and Adrian Sherwood.

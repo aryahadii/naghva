@@ -4,6 +4,7 @@ title: Good Torture ft Elyanna | Sevdaliza
 language: en
 publisher: Sevdaliza
 status: processed
+tier: own
 ---
 
 > released March 1, 2024

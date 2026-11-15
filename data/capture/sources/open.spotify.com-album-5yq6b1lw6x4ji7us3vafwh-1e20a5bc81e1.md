@@ -5,7 +5,7 @@ title: Listen to Rakhte Tane Delbar - Single by Monicki | Spotify
 status: processed
 kind: web page
 language: mul
-tier: own
+tier: discography
 ---
 
 > Listen to Rakhte Tane Delbar - Single by Monicki | Spotify Rakhte Tane Delbar Monicki 2024 1 song , 3 min 35 sec Rakhte Tane Delbar Monicki , Rian

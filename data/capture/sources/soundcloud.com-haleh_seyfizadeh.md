@@ -3,7 +3,7 @@ url: https://soundcloud.com/haleh_seyfizadeh
 title: Haleh Seyfizadeh | SoundCloud
 kind: web page
 language: mul
-tier: own
+tier: discography
 status: processed
 ---
 

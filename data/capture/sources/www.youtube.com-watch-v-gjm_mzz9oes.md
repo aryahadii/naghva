@@ -3,7 +3,7 @@ url: https://www.youtube.com/watch?v=GjM_Mzz9OEs
 title: Ali Azimi - Rosva (Live in Toronto) علی عظیمی - رسوا (اجرای زنده در تورنتو)
 kind: web page
 language: mul
-tier: own
+tier: discography
 status: processed
 archive: https://web.archive.org/web/*/https://www.youtube.com/watch?v=GjM_Mzz9OEs
 publisher: Ali Azimi

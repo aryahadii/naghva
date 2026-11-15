@@ -4,7 +4,7 @@ title: Balzan - Kissed by the Wind
 status: processed
 kind: audio recording
 language: en
-tier: own
+tier: discography
 about:
 - Balzan
 ---

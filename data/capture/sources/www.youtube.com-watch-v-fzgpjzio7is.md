@@ -3,7 +3,7 @@ url: https://www.youtube.com/watch?v=FzgPJZIO7Is
 title: I  Allegro Moderato - kaveh salehi
 kind: youtube video
 language: en
-tier: own
+tier: discography
 about:
 - Kaveh Salehi
 status: processed

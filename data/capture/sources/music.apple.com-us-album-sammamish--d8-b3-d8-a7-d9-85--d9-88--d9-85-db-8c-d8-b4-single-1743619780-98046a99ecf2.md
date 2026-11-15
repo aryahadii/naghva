@@ -4,7 +4,7 @@ title: ‎Sammamish (سام و میش) - Single - Album by Peyman Salimi - Apple
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Sanam Maroufkhani
 ---

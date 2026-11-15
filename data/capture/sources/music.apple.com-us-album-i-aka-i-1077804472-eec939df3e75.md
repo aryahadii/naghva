@@ -4,6 +4,7 @@ title: I AKA I - Album by Ash Koosha - Apple Music
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > I AKA I - Album by Ash Koosha - Apple Music

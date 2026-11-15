@@ -4,7 +4,7 @@ title: Guitariran - YouTube channel
 status: found
 kind: youtube channel
 language: en
-tier: own
+tier: discography
 about:
 - Balzan
 ---

@@ -4,6 +4,7 @@ title: Kabous
 language: fa
 publisher: Kourosh Yaghmaei
 status: processed
+tier: own
 ---
 
 > شاعر: حسین منزوی، علیرضا دلاور

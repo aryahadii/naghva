@@ -2,6 +2,7 @@
 url: https://www.youtube.com/watch?v=FXsI5R5_MfE
 title: "صحبت های رضا کولغانی در مورد انتشار آلبوم دوره‌گرد مجید سالاری"
 status: processed
+tier: discography
 kind: youtube video
 language: mul
 publisher: "مجله موسیقی مستقل"

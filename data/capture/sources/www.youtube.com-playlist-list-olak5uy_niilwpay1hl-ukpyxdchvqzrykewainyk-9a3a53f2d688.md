@@ -4,7 +4,7 @@ title: 'Joystick — Jetpack: complete distributor playlist'
 status: processed
 kind: youtube playlist
 language: en
-tier: own
+tier: discography
 publisher: Jetpack - Topic
 about:
 - Jetpack

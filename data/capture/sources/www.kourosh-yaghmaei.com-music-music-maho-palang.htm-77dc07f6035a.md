@@ -4,6 +4,7 @@ title: Maho Palang
 language: fa
 publisher: Kourosh Yaghmaei official website
 status: processed
+tier: own
 ---
 
 > ماه و پلنگ

@@ -4,6 +4,7 @@ title: Immortal Identity
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > Immortal Identity

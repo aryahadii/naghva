@@ -4,7 +4,7 @@ title: "Listen to Ou Biayad - Single by Jilliz Williz | Spotify"
 status: processed
 kind: web page
 language: mul
-tier: own
+tier: discography
 publisher: "Spotify"
 about:
 - Q6andbw

@@ -4,6 +4,7 @@ title: Sweet Destiny - Album by Kiosk - Apple Music
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > Sweet Destiny by Kiosk on Apple Music

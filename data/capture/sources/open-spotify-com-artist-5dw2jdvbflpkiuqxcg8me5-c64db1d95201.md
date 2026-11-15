@@ -4,6 +4,7 @@ title: Arsames
 language: en
 publisher: Spotify
 status: processed
+tier: discography
 ---
 
 > Albums

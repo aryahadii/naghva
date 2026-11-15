@@ -3,6 +3,7 @@ url: https://music.apple.com/us/song/1671721020
 title: butterflies — Apple Music credits
 language: en
 status: processed
+tier: discography
 ---
 
 > Butterflies Hugging Each Other (feat. Mehdi Saki)

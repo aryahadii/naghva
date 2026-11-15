@@ -4,7 +4,7 @@ title: Blue Flowers - Album by Marjan Farsad
 language: en
 publisher: Apple Music
 status: processed
-tier: own
+tier: discography
 ---
 
 > Blue Flowers - Album by Marjan Farsad - Apple Music

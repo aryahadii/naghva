@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/gray-single/1541445737
 title: Gray - Single - Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Gray - Single
 - Sanam Pasha

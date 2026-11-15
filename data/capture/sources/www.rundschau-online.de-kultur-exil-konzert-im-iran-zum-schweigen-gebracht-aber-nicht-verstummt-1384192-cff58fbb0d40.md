@@ -2,6 +2,7 @@
 url: https://www.rundschau-online.de/kultur/exil-konzert-im-iran-zum-schweigen-gebracht-aber-nicht-verstummt-1384192
 title: 'Exil-Sängerinnen: Im Iran zum Schweigen gebracht, aber nicht verstummt'
 status: processed
+tier: journalism
 language: de
 publisher: Kölnische Rundschau
 ---

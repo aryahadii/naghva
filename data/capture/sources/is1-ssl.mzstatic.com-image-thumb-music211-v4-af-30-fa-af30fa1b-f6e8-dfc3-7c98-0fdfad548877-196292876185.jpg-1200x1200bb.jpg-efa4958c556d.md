@@ -3,7 +3,7 @@ url: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/30/fa/af30fa1b-f6e8
 title: Hicham khabar az hich — whole cover
 kind: cover image
 language: mul
-tier: own
+tier: discography
 about:
 - Qnjntqs
 status: processed

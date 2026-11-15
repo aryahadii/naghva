@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/songs-from-a-persian-garden/280342118
 title: Songs from a Persian Garden - Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Songs from a Persian Garden - Apple Music
 status: processed

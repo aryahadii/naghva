@@ -4,7 +4,7 @@ title: Listen to Haunted (feat. Sevdaliza) - Single by Stwo | Spotify
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Spotify
 about:
 - Qf36fnd

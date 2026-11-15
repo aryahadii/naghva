@@ -4,6 +4,7 @@ title: I AKA I | Ash Koosha
 language: en
 publisher: Bandcamp
 status: processed
+tier: own
 ---
 
 > "recordLabel":{"@type":"MusicGroup","name":"Ninja Tune","@id":"https://ninjatune.bandcamp.com","additionalProperty":[{"@type":"PropertyValue","name":"url_suffix","value":"?from=btl"}]}

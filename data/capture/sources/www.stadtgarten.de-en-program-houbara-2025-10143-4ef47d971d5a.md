@@ -3,6 +3,7 @@ url: https://www.stadtgarten.de/en/program/houbara-2025-10143
 archive: "https://web.archive.org/web/20260618145925/https://www.stadtgarten.de/en/program/houbara-2025-10143"
 title: Houbara - Resonanzen Iran 2025
 status: processed
+tier: other
 language: en
 publisher: Stadtgarten Köln
 ---

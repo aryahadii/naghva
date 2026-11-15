@@ -3,6 +3,7 @@ url: https://soundcloud.com/sanam-maroufkhani/my-comrade-sings
 archive: "https://web.archive.org/web/20251028023848/https://soundcloud.com/sanam-maroufkhani/my-comrade-sings"
 title: My Comrade Sings
 status: processed
+tier: discography
 language: en
 publisher: SoundCloud
 ---

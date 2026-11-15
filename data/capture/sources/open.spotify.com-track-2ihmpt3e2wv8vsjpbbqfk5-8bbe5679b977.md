@@ -5,7 +5,7 @@ title: Zireh Aab - song and lyrics by BabyDrawgon, Rian | Spotify
 status: processed
 kind: web page
 language: mul
-tier: own
+tier: discography
 ---
 
 > Zireh Aab - song and lyrics by BabyDrawgon, Rian | Spotify

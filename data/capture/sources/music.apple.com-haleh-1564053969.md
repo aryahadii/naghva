@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/faryad-single/1564053969
 title: Faryad - Single — Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 status: processed
 ---
 

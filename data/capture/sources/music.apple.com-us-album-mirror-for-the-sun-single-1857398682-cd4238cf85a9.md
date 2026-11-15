@@ -2,6 +2,7 @@
 url: https://music.apple.com/us/album/mirror-for-the-sun-single/1857398682
 title: Mirror for the Sun - Single
 status: processed
+tier: discography
 language: en
 publisher: Apple Music
 ---

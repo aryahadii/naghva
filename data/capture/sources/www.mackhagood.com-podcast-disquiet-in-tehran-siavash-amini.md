@@ -3,7 +3,7 @@ url: "https://www.mackhagood.com/podcast/disquiet-in-tehran-siavash-amini/"
 title: "Disquiet in Tehran (Siavash Amini)"
 kind: "web page"
 language: "en"
-tier: "journalism"
+tier: journalism
 status: "processed"
 ---
 

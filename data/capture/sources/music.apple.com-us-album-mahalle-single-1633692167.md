@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/mahalle-single/1633692167
 title: Mahalle - Single
 kind: web page
 language: en
-tier: primary
+tier: discography
 status: processed
 ---
 

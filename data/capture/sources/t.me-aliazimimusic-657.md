@@ -4,6 +4,7 @@ title: Ali Azimi - Marze Por Gohar
 publisher: Ali Azimi
 language: mul
 status: processed
+tier: own
 ---
 
 > Music and Lyrics : Ali Azimi

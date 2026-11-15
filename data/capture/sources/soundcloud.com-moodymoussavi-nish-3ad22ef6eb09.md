@@ -3,7 +3,7 @@ url: https://soundcloud.com/moodymoussavi/nish
 title: Nish — Moody Moussavi
 kind: web page
 language: mul
-tier: own
+tier: discography
 status: processed
 ---
 

@@ -4,6 +4,7 @@ title: Excerpts From Unhappy Consciousness | Salome Mc
 language: en
 author: Salome Mc
 status: processed
+tier: own
 ---
 
 > Excerpts From Unhappy Consciousness

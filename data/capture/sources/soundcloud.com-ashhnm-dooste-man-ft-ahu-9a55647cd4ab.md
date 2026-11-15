@@ -2,6 +2,7 @@
 url: https://soundcloud.com/ashhnm/dooste-man-ft-ahu
 title: https://soundcloud.com/ashhnm/dooste-man-ft-ahu
 status: processed
+tier: discography
 ---
 
 > Stream Dooste Man (ft. AHU) by Ashh Nm | Listen online for free on SoundCloud

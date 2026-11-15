@@ -3,7 +3,7 @@ url: https://soundcloud.com/dangshow/too-dar-too
 title: Stream Dang EXP - Too Dar Too ( Spiral ) by Dang Show  دنگ شو | Listen online for free on SoundCloud
 kind: web page
 language: en
-tier: primary
+tier: discography
 status: processed
 ---
 

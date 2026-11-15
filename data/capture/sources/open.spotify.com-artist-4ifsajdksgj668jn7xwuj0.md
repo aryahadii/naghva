@@ -5,7 +5,7 @@ title: "Listen to Sara Naeini Songs | Spotify"
 status: processed
 kind: streaming catalogue profile
 language: en
-tier: own
+tier: discography
 publisher: "Spotify"
 about:
 - Qb23qew

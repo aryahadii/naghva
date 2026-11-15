@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/kamakan/1000735617
 title: Kamakan - Album by Mehdi Saki - Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Mehdi Saki
 status: processed

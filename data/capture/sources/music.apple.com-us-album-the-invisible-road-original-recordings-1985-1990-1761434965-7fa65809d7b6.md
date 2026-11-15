@@ -4,6 +4,7 @@ title: 'The Invisible Road: Original Recordings, 1985–1990'
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > The Invisible Road: Original Recordings, 1985–1990

@@ -2,6 +2,7 @@
 url: https://open.spotify.com/track/4KDjC7GiJSXt9MJGdL0iBi
 title: Downspout on Spotify
 status: processed
+tier: discography
 ---
 
 > "name":"Downspout"

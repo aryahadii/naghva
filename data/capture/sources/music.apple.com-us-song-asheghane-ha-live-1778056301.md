@@ -4,7 +4,7 @@ title: "Asheghane Ha (Live) - Song with Lyrics by Arash Fouladvand, Vahid Taj, S
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: "Apple Music"
 about:
 - Qb23qew

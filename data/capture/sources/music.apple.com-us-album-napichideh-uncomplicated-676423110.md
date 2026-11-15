@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/napichideh-uncomplicated/676423110
 title: Napichideh (Uncomplicated) - Album by B-BAND - Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 status: processed
 ---
 

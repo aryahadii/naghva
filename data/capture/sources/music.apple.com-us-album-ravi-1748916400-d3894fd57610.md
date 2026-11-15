@@ -4,6 +4,7 @@ title: Ravi - Album by Golfam Khayam
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > Ravi by Golfam Khayam on Apple Music

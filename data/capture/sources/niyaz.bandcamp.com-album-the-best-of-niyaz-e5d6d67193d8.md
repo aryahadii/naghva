@@ -3,6 +3,7 @@ url: https://niyaz.bandcamp.com/album/the-best-of-niyaz
 title: The Best Of Niyaz
 language: en
 status: processed
+tier: own
 publisher: niyaz.bandcamp.com
 ---
 

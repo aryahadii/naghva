@@ -3,7 +3,7 @@ url: https://soundcloud.com/moodymoussavi/doosh-kabab
 title: Doosh Kabab - Moody Moussavi
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Moody Moussavi
 - Doosh Kabab

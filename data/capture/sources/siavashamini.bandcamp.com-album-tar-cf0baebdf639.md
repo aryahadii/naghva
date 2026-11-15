@@ -3,6 +3,7 @@ url: https://siavashamini.bandcamp.com/album/tar
 title: TAR | Siavash Amini
 language: en
 status: processed
+tier: own
 publisher: siavashamini.bandcamp.com
 archive: https://web.archive.org/web/20250902055613/https://siavashamini.bandcamp.com/album/tar
 ---

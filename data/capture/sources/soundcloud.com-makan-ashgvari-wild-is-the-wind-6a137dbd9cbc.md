@@ -4,6 +4,7 @@ title: Wild is the wind (Sardar Sarmast, Makan Ashgvari)
 language: en
 publisher: SoundCloud
 status: processed
+tier: discography
 ---
 
 > Wild is the wind (Sardar Sarmast, Makan Ashgvari)

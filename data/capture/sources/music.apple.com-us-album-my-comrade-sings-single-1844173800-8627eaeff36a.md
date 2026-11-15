@@ -4,7 +4,7 @@ title: "My Comrade Sings - Single | Sanam Maroufkhani & Marc Sarrià"
 status: "processed"
 kind: "web page"
 language: "en"
-tier: "discography"
+tier: discography
 about: ["Sanam Maroufkhani", "Marc Sarrià"]
 ---
 

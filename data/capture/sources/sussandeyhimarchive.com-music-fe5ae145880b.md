@@ -4,6 +4,7 @@ title: Sussan Deyhim Music
 language: en
 publisher: Sussan Deyhim Archive
 status: processed
+tier: own
 ---
 
 > FULL ALBUM: CITY of LEAVES

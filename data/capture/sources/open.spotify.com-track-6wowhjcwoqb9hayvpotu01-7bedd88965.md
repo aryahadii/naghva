@@ -2,6 +2,7 @@
 url: https://open.spotify.com/track/6WOwhjcWoqb9hAyVPOtU01
 title: Wasteland on Spotify
 status: processed
+tier: discography
 ---
 
 > "name":"Wasteland"

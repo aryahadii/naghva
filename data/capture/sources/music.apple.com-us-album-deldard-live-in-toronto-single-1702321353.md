@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/deldard-live-in-toronto-single/1702321353
 title: Deldard (Live in Toronto) - Single by Ali Azimi
 kind: web page
 language: en
-tier: own
+tier: discography
 status: processed
 archive: https://web.archive.org/web/*/https://music.apple.com/us/album/deldard-live-in-toronto-single/1702321353
 ---

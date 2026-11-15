@@ -3,7 +3,7 @@ url: "https://sussandeyhim.com/"
 title: "Sussan Deyhim"
 kind: "web page"
 language: "en"
-tier: "own"
+tier: own
 status: "processed"
 ---
 

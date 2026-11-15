@@ -4,6 +4,7 @@ title: Before Autumn After Autumn - EP by Amin Homaei | Spotify
 language: en
 publisher: Spotify
 status: processed
+tier: discography
 ---
 
 > Before Autumn After Autumn

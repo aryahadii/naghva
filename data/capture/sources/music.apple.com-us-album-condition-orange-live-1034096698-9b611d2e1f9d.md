@@ -4,6 +4,7 @@ title: Condition Orange (Live) - Album by Kiosk - Apple Music
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > Condition Orange (Live) by Kiosk on Apple Music

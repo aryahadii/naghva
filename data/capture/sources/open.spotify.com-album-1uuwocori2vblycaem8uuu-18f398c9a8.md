@@ -2,6 +2,7 @@
 url: https://open.spotify.com/album/1uuWOcORi2VblYCAEm8uUU
 title: Gray on Spotify
 status: processed
+tier: discography
 ---
 
 > "name":"Gray"

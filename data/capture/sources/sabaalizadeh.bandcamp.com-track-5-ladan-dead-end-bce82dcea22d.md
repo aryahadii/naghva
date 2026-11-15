@@ -4,6 +4,7 @@ title: Ladan
 language: en
 publisher: Saba Alizadeh Bandcamp
 status: processed
+tier: own
 ---
 
 > #5 Ladan, Dead end

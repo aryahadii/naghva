@@ -2,6 +2,7 @@
 url: https://www.youtube.com/watch?v=f_RKgngj_DE
 title: Women Of Fire
 status: processed
+tier: discography
 kind: youtube video
 language: en
 publisher: Release - Topic

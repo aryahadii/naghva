@@ -2,6 +2,7 @@
 url: https://iranjournal.org/kultur/iranische-frauen-in-koelner-philharmonie
 title: Wenn iranische Frauen die Kölner Philharmonie erobern
 status: processed
+tier: journalism
 language: de
 publisher: Iran Journal
 ---

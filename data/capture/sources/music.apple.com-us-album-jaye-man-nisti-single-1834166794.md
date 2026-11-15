@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/jaye-man-nisti-single/1834166794
 title: Jaye Man Nisti - Single - Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Kaveh Yaghmaei
 status: processed

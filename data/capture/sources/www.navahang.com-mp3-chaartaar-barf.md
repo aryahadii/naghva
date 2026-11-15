@@ -3,7 +3,7 @@ url: https://www.navahang.com/mp3/chaartaar-barf/
 title: Barf by Chaartaar on Navahang | چارتار برف
 kind: web page
 language: fa
-tier: own
+tier: discography
 about:
 - Qb3nvrj
 status: processed

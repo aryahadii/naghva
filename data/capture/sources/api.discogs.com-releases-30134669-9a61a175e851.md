@@ -2,6 +2,7 @@
 url: https://api.discogs.com/releases/30134669
 title: Naima - Sahel E Tehran = ساحل تهران
 status: processed
+tier: discography
 language: fa
 publisher: Discogs
 ---

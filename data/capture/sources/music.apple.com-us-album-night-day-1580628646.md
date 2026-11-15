@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/night-day/1580628646
 title: Night + Day - Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Night + Day
 - Opium Moon

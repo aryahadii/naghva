@@ -2,7 +2,7 @@
 url: https://music.apple.com/us/song/soghati/1708660130
 title: Soghati
 status: processed
-tier: own
+tier: discography
 publisher: Apple Music
 language: en
 ---

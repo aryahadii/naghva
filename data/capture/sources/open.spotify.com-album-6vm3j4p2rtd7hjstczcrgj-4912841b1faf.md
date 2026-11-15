@@ -4,7 +4,7 @@ title: Listen to Feragh - Single by Makan Ashgvari | Spotify
 status: processed
 kind: web page
 language: mul
-tier: own
+tier: discography
 ---
 
 > Listen to Feragh - Single by Makan Ashgvari | Spotify Feragh Makan Ashgvari 2023 1 song , 4 min 48 sec Feragh Makan Ashgvari , Mo Shariat , Rian

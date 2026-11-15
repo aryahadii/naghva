@@ -2,6 +2,7 @@
 url: https://www.youtube.com/watch?v=SplAHfyJqxg
 title: Salome MC - Riddle | معما - YouTube
 status: processed
+tier: discography
 archive: https://web.archive.org/web/20251208051359/https://www.youtube.com/watch?v=SplAHfyJqxg
 ---
 

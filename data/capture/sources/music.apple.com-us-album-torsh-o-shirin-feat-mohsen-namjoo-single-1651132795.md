@@ -4,7 +4,7 @@ title: Torsh O Shirin (feat. Mohsen Namjoo) - Single - Album by Reza Attaran - A
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Apple Music
 about:
 - Qt6wjbg

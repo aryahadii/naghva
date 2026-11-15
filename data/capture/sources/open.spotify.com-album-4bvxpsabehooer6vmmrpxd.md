@@ -4,7 +4,7 @@ title: Listen to Alibi Pt. 2 (with Anitta, Pabllo Vittar & Yseult) - EP by Sevda
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Spotify
 about:
 - Qf36fnd

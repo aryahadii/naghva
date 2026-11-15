@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/nadari-feat-saeid-moussavi-single/15811899
 title: ‎Nadari (feat. Saeid Moussavi) - Single - Album by Moody Moussavi - Apple Music
 kind: web page
 language: mul
-tier: streaming
+tier: discography
 status: processed
 ---
 

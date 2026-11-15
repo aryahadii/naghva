@@ -3,7 +3,7 @@ url: https://soundcloud.com/bamdadamman/sets/ahan
 title: Ahan
 kind: web page
 language: mul
-tier: primary
+tier: discography
 status: processed
 ---
 

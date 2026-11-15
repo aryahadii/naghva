@@ -3,7 +3,7 @@ url: https://soundcloud.com/dangshow/dang-show-the-anger-of-a-tear-live-in-the-r
 title: Stream Dang Show - The Anger Of A Tear (Live In The Roqe Studio) - 2022 by Dang Show  دنگ شو | Listen online for free on SoundCloud
 kind: web page
 language: en
-tier: primary
+tier: discography
 status: processed
 ---
 

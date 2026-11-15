@@ -4,7 +4,7 @@ title: Kourosh Yaghmaei - YouTube
 status: processed
 kind: youtube channel
 language: en
-tier: own
+tier: discography
 publisher: YouTube
 about:
 - Kourosh Yaghmaei

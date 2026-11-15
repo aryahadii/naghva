@@ -2,6 +2,7 @@
 url: https://open.spotify.com/track/6esJqpQfP2YUTqoHVFD7Eb
 title: Taarif Kon
 status: processed
+tier: discography
 ---
 
 > Taarif Kon

@@ -4,6 +4,7 @@ title: Every Day - Album by Hamzeh Yeganeh - Apple Music
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > Listen to Every Day by Hamzeh Yeganeh on Apple Music. 2020. 8 Songs. Duration: 40 minutes.

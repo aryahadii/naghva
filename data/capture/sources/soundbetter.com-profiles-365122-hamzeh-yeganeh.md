@@ -3,7 +3,7 @@ url: "https://soundbetter.com/profiles/365122-hamzeh-yeganeh"
 title: "Hamzeh Yeganeh - Session pianist - Tehran"
 kind: "web page"
 language: "en"
-tier: "own"
+tier: own
 status: "processed"
 ---
 

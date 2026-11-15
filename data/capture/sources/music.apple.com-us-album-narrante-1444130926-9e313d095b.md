@@ -2,6 +2,7 @@
 url: https://music.apple.com/us/album/narrante/1444130926
 title: Narrante - Album by Golfam Khayam & Mona Matbou Riahi - Apple Music
 status: processed
+tier: discography
 ---
 
 > Listen to Narrante by Golfam Khayam & Mona Matbou Riahi on Apple Music. 2016. 9 Songs. Duration: 55 minutes.

@@ -4,6 +4,7 @@ title: Persian Soul موسیقی روح - Album by Rana Farhan - Apple Music
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > Persian Soul موسیقی روح by Rana Farhan on Apple Music

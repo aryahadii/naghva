@@ -3,7 +3,7 @@ url: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/47/a0/a6/47a0a64d-8444
 title: Mobham e Door — whole cover
 kind: cover image
 language: mul
-tier: own
+tier: discography
 about:
 - Qnjntqs
 status: processed

@@ -3,6 +3,7 @@ url: https://sabaalizadeh.bandcamp.com/album/scattered-memories
 title: Scattered Memories
 language: en
 status: processed
+tier: own
 ---
 
 > Scattered memories

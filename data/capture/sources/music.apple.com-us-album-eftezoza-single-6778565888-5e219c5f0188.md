@@ -4,7 +4,7 @@ title: Eftezoza - Single - Album by Danakol - Apple Music
 status: processed
 kind: web page
 language: mul
-tier: own
+tier: discography
 ---
 
 > Eftezoza - Single - Album by Danakol - Apple Music

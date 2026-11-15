@@ -2,7 +2,7 @@
 url: https://music.apple.com/us/album/ay-ai-single/6784395173
 title: ‎AY-AI - Single - Album by B-BAND - Apple Music
 status: processed
-tier: own
+tier: discography
 ---
 
 > Listen to AY-AI - Single by B-BAND on Apple Music. 2026. 1 Song. Duration: 4 minutes.

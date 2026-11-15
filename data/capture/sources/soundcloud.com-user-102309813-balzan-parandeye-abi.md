@@ -4,7 +4,7 @@ title: Stream Balzan - Parandeye Abi by Balzan | Listen online for free on Sound
 status: processed
 kind: artist recording
 language: mul
-tier: own
+tier: discography
 about:
 - Balzan
 - پرنده آبی

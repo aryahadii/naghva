@@ -4,6 +4,7 @@ title: Stream Hichkas - Anjam Vazife by Mahdyar
 language: en
 publisher: SoundCloud
 status: processed
+tier: discography
 ---
 
 > Stream Hichkas - Anjam Vazife by Mahdyar | Listen online for free on SoundCloud

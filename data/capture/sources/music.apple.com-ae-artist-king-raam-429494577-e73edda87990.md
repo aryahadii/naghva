@@ -4,6 +4,7 @@ title: King Raam — Apple Music
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > King Raam

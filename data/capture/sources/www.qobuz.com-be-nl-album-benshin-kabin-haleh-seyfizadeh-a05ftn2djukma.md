@@ -4,6 +4,7 @@ title: Benshin by Kābin & Haleh Seyfizadeh | Qobuz
 language: en
 publisher: Qobuz
 status: processed
+tier: discography
 kind: album page
 about:
 - Kābin

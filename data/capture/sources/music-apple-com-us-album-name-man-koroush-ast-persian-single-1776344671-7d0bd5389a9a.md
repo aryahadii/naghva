@@ -4,6 +4,7 @@ title: Name Man Koroush Ast (Persian) - Single
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > Name Man Koroush Ast (Persian) - Single

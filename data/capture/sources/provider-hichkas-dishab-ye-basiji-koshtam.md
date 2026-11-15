@@ -4,6 +4,7 @@ title: Listen to Dishab Ye Basiji Koshtam - Single by Hichkas | Spotify
 language: en
 publisher: Spotify
 status: processed
+tier: discography
 ---
 
 > Listen to Dishab Ye Basiji Koshtam - Single by Hichkas | Spotify

@@ -4,6 +4,7 @@ title: Nine - Album by Farzad Golpayegani - Apple Music
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > Nine

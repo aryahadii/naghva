@@ -5,7 +5,7 @@ title: زیبای من - Single | Apple Music
 status: processed
 kind: web page
 language: mul
-tier: own
+tier: discography
 about:
 - Golsa
 ---
