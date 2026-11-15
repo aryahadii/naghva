@@ -2,15 +2,15 @@
 .numbers { --iran: #91a0ff; --unknown: rgb(247 243 232 / .14); padding-bottom: clamp(40px, 6vw, 80px) }
 .mock-note { width: fit-content; margin: 8px auto 0; padding: 8px 16px; border-radius: 999px; background: rgb(238 130 112 / .14); font-size: 14px; color: var(--ivory) }
 
-.numbers-head { padding-block: clamp(24px, 4vw, 56px) clamp(24px, 4vw, 48px) }
+.numbers-head { padding-top: clamp(24px, 4vw, 56px) }
 .numbers-head h1 { margin-top: 14px; font: 500 clamp(2.6rem, 5.2vw, 4.6rem)/1 var(--serif); letter-spacing: -.015em }
 html[lang=fa] .numbers-head h1 { font: 700 clamp(2.4rem, 4.1vw, 3.6rem)/1.55 'Farhang2', serif; letter-spacing: 0 }
 .numbers-head .deck { max-width: 36em; margin-top: 18px; font: 400 clamp(1.15rem, 1.6vw, 1.4rem)/1.45 var(--serif); color: var(--ivory-2) }
 html[lang=fa] .numbers-head .deck { font: 400 1.15rem/1.9 var(--sans) }
 
 .totals { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); margin-top: clamp(36px, 5vw, 64px); position: relative }
-.totals::before, .totals::after { content: ''; position: absolute; inset-inline: 0; height: 1px; background: var(--fade) }
-.totals::before { top: 0 } .totals::after { bottom: 0 }
+/* Only a top rule: the first section's own top rule closes the totals. */
+.totals::before { content: ''; position: absolute; inset-inline: 0; top: 0; height: 1px; background: var(--fade) }
 .totals div { display: flex; flex-direction: column-reverse; gap: 4px; padding: 22px 4px 20px; padding-inline-start: 22px; position: relative }
 .totals div + div::before { content: ''; position: absolute; inset-inline-start: 0; top: 22%; bottom: 22%; width: 1px; background: linear-gradient(transparent, var(--line), transparent) }
 .totals dd { margin: 0; font: 400 clamp(2rem, 3.4vw, 3rem)/1 var(--serif); font-variant-numeric: tabular-nums; color: var(--copper) }
