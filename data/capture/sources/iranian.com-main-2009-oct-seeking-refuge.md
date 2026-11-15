@@ -16,3 +16,7 @@ status: processed
 
 > The big difference is your music is not illegal in the West.  You don't have to fear being arrested and imprisoned just for making a particular genre of music.  That's a big change.
 > Yes it is.  And it's the main reason I got out of Iran.
+
+> Hichkas remains in Tehran, but Mahdyar fled the country.
+
+Read 2026-11-14.

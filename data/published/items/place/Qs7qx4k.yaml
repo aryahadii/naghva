@@ -1,0 +1,27 @@
+id: Qs7qx4k
+type: place
+statements:
+  name:
+  - value:
+      text: Karaj
+      language: en
+    references:
+    - source: en.wikipedia.org-wiki-karaj
+      quote: |-
+        Karaj is a city in the Central District of Karaj County, Alborz province, Iran, serving as capital of the province, the county, and the district.
+      accessed: '2026-11-14'
+  - value:
+      text: کرج
+      language: fa
+    references:
+    - source: fa.wikipedia.org-wiki-karaj
+      quote: |-
+        کرج () کلان شهری واقع در کشور ایران و مرکز استان البرز است.
+      accessed: '2026-11-14'
+  country:
+  - value: Qthab26
+    references:
+    - source: en.wikipedia.org-wiki-karaj
+      quote: |-
+        Karaj is a city in the Central District of Karaj County, Alborz province, Iran, serving as capital of the province, the county, and the district.
+      accessed: '2026-11-14'

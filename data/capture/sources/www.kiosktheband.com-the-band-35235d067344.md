@@ -46,3 +46,7 @@ tier: own
 > Kiosk is a pioneering Iranian rock band (The Berlin Daily Newspaper) founded by Arash Sobhani in Tehran in 2003.
 
 > In their current base of San Francisco, Kiosk has performed at the Palace of Fine Arts and Yoshi's Jazz Club (the latter broadcast as a critically acclaimed live recording).
+
+> In their current base of San Francisco, Kiosk has performed
+
+Read 2026-11-14.

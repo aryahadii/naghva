@@ -124,3 +124,30 @@ statements:
       about: Qyyfcep
       point in time:
         date: '2024'
+  based in:
+  - value: Qh3ewz2
+    qualifiers:
+      start time:
+        date: '2009'
+    references:
+    - source: www.radiozamaneh.com-169959
+      quote: |-
+        او پس از انتخابات ۱۳۸۸، ایران را ترک کرد و اکنون ساکن شهر مونتریال در کاناداست.
+      accessed: '2026-11-13'
+    - source: www.diasporaartsconnection.org-events-marjan-farsad-la
+      quote: |-
+        Upon relocating to Montreal in 2009
+      accessed: '2026-11-14'
+  - value: Qqywtjg
+    references:
+    - source: iranhumanrights.org-2021-08-qa-with-musician-marjan-farsad-my-hope-is-for-all-political-prisoners-to-be-freed-7c05d15f6e4e
+      quote: |-
+        Born in 1983 in Tehran, Iran, Marjan Farsad is a New-York based animator, illustrator, singer, and songwriter.
+      accessed: '2026-10-19'
+  - value: Q2bshpw
+    rank: preferred
+    references:
+    - source: www.diasporaartsconnection.org-events-marjan-farsad-la
+      quote: |-
+        Presently based in Minnesota, she continues to produce animations and music
+      accessed: '2026-11-14'

@@ -3,6 +3,14 @@ type: place
 statements:
   name:
   - value:
+      text: Vienna
+      language: en
+    references:
+    - source: en.wikipedia.org-wiki-vienna
+      quote: |-
+        Vienna is the capital, most populous city, and one of the nine states of Austria.
+      accessed: '2026-11-14'
+  - value:
       text: وین
       language: fa
     references:
@@ -10,3 +18,10 @@ statements:
       quote: |-
         فرهاد پیش از دریافت مجوز برای انتشار اولین آلبوم اش پس از انقلاب، کنسرتی در سال 1371 در وین اتریش برگزار کرد. او در این کنسرت علاوه بر اجرای زنده آثار قدیمی، سه قطعه که هنوز منتشر نشده بود را برای اولین بار اجرا کرد: کوچ بنفشه ها، خیال خوشی و خواب در بیداری. این کنسرت به صورت صوتی ضبط شده است و در سال 1399 به همت امید هاشملو پس از ریمستر و پالایش صدا منتشر شد.
       accessed: '2026-11-09'
+  country:
+  - value: Qa2rk5f
+    references:
+    - source: en.wikipedia.org-wiki-vienna
+      quote: |-
+        Vienna is the capital, most populous city, and one of the nine states of Austria.
+      accessed: '2026-11-14'

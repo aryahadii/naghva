@@ -8,3 +8,7 @@ status: processed
 ---
 
 > Stream Bomrani music | Listen to songs, albums, playlists for free on SoundCloud
+
+> Tehran
+
+Read 2026-11-14.

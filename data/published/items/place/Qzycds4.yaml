@@ -1,0 +1,27 @@
+id: Qzycds4
+type: place
+statements:
+  name:
+  - value:
+      text: Austin
+      language: en
+    references:
+    - source: en.wikipedia.org-wiki-austin_texas
+      quote: |-
+        Austin is the capital city of the U.S.
+      accessed: '2026-11-14'
+  - value:
+      text: آستین
+      language: fa
+    references:
+    - source: fa.wikipedia.org-wiki-austin_texas
+      quote: |-
+        شهر آستین پایتخت ایالت تگزاس در جنوب ایالات متحده آمریکا است.
+      accessed: '2026-11-14'
+  country:
+  - value: Q2bshpw
+    references:
+    - source: en.wikipedia.org-wiki-austin_texas
+      quote: |-
+        Austin is the capital city of the U.S.
+      accessed: '2026-11-14'

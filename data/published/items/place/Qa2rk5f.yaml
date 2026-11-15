@@ -1,0 +1,20 @@
+id: Qa2rk5f
+type: place
+statements:
+  name:
+  - value:
+      text: Austria
+      language: en
+    references:
+    - source: en.wikipedia.org-wiki-austria
+      quote: |-
+        Austria, formally the Republic of Austria, is a landlocked country in Central Europe, lying in the Eastern Alps.
+      accessed: '2026-11-14'
+  - value:
+      text: اتریش
+      language: fa
+    references:
+    - source: fa.wikipedia.org-wiki-austria
+      quote: |-
+        اُتریش با نام رسمی جمهوری اتریش کشوری محصور در خشکی واقع در رشته کوه‌های آلپ شرقی است.
+      accessed: '2026-11-14'

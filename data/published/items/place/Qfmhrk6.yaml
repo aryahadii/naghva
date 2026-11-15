@@ -1,0 +1,20 @@
+id: Qfmhrk6
+type: place
+statements:
+  name:
+  - value:
+      text: Turkey
+      language: en
+    references:
+    - source: en.wikipedia.org-wiki-turkey
+      quote: |-
+        Turkey, officially the Republic of Türkiye, is a country mainly located in Anatolia in West Asia, with a smaller part called East Thrace in Southeast Europe.
+      accessed: '2026-11-14'
+  - value:
+      text: ترکیه
+      language: fa
+    references:
+    - source: fa.wikipedia.org-wiki-turkey
+      quote: |-
+        تُرکیه ، با نام رسمی جمهوری ترکیه ، یک کشور فراقاره‌ای است که بخش عمدهٔ آن در آناتولی در غرب آسیا قرار دارد و بخش کوچکی از آن در بالکان در اروپای جنوب شرقی واقع شده است.
+      accessed: '2026-11-14'

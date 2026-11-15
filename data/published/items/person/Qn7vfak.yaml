@@ -241,3 +241,39 @@ statements:
       quote: |-
         There was so much energy in the air at California Plaza during this past Saturday's Shahin Najafi show!
       accessed: '2026-11-09'
+  based in:
+  - value: Qthab26
+    references:
+    - source: www.radiofarda.com-f4-tapesh-band-music-447140
+      quote: |-
+        شاهين نجفی کار خود را در ايران به عنوان ترانه سرا آغاز کرده است. در نوجوانی به خواندن و نوازندگی گيتار روی آورد. مدتی سرپرست يک گروه موسيقی زيرزمينی در ايران بود و پس از افزايش فشارها به آلمان آمد.
+        در آلمان مدتی سرپرست گروهی به نام «اينان» بود و اکنون هم خواننده و نوازنده گروه «تپش ۲۰۱۲» است.
+      accessed: '2026-11-06'
+    - source: www.pbs.org-tehranbureau-2010-08-verse-of-defiance
+      quote: |-
+        Shahin Najafi was born in 1980 in Bandar-e Anzali, Iran. He works as a poet, musician, songwriter and singer. Najafi began writing poetry at a young age. He studied sociology, but soon abandoned his formal studies in order to immerse himself in Iranian society as a more genuine and dynamic learning experience. As a musician, Najafi has been trained in both Classical and Flamenco guitar. He has played and sung in numerous Iranian underground rock bands. Under pressure and censorship imposed by the Iranian government, Najafi immigrated to Germany in 2005, where he currently lives and works. His music and poetry are accessible on YouTube and Facebook, as well as his website. You can follow his blog here.
+      accessed: '2026-11-14'
+    - source: www.berliner-zeitung.de-article-shahin-najafi-nach-fatwa-ich-lebe-inzwischen-wieder-ohne-sicherheitsmassnahmen-257379
+      quote: |-
+        Im Jahr 2004 floh er nach Deutschland, weil ihm im Iran eine Gefängnisstrafe drohte.
+      accessed: '2026-11-14'
+  - value: Qkzqgbr
+    qualifiers:
+      start time:
+        date: '2005'
+    references:
+    - source: www.kiwi-verlag.de-autor-shahin-najafi-4001043
+      quote: |-
+        Er lebt und arbeitet in Köln.
+      accessed: '2026-11-14'
+    - source: www.ksta.de-koeln-koelner-musiker-shahin-najafi-begegnung-mit-einem-mueden-rebellen-247600
+      quote: |-
+        Najafi, der seit 2005 in Köln lebt,
+      accessed: '2026-11-14'
+  - value: Q2bshpw
+    rank: preferred
+    references:
+    - source: www.berliner-zeitung.de-article-shahin-najafi-nach-fatwa-ich-lebe-inzwischen-wieder-ohne-sicherheitsmassnahmen-257379
+      quote: |-
+        Heute lebt er mit seiner Frau in Kalifornien.
+      accessed: '2026-11-14'

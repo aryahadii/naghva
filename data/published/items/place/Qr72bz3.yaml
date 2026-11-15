@@ -1,0 +1,27 @@
+id: Qr72bz3
+type: place
+statements:
+  name:
+  - value:
+      text: Amsterdam
+      language: en
+    references:
+    - source: en.wikipedia.org-wiki-amsterdam
+      quote: |-
+        Amsterdam is the capital and largest city of the Netherlands.
+      accessed: '2026-11-14'
+  - value:
+      text: آمستردام
+      language: fa
+    references:
+    - source: fa.wikipedia.org-wiki-amsterdam
+      quote: |-
+        آمستردام که در استان هلند شمالی کشور هلند واقع شده است، به دلیل شمار بالای آبراهه‌هایش که اکنون یک میراث جهانی یونسکو است، به‌طور عامیانه تحت عنوان "ونیز شمال" شناخته می‌شود.
+      accessed: '2026-11-14'
+  country:
+  - value: Qmndj7v
+    references:
+    - source: en.wikipedia.org-wiki-amsterdam
+      quote: |-
+        Amsterdam is the capital and largest city of the Netherlands.
+      accessed: '2026-11-14'

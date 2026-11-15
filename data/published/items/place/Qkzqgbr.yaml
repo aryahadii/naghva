@@ -1,0 +1,27 @@
+id: Qkzqgbr
+type: place
+statements:
+  name:
+  - value:
+      text: Cologne
+      language: en
+    references:
+    - source: en.wikipedia.org-wiki-cologne
+      quote: |-
+        Cologne is the fourth-most populous city of Germany and the largest city of the German state of North Rhine-Westphalia with over one million inhabitants in the city proper and over 3.1 million people in the Cologne Bonn urban region.
+      accessed: '2026-11-14'
+  - value:
+      text: کلن
+      language: fa
+    references:
+    - source: fa.wikipedia.org-wiki-cologne
+      quote: |-
+        کُلْن چهارمین شهر پرجمعیت آلمان و بزرگترین شهر ایالت نوردراین-وستفالن آلمان با جمعیت نزدیک به ۱٫۱ میلیون نفر در خود شهر و بیش از ۳٫۱ میلیون نفر در منطقه شهری کلن-بن است.
+      accessed: '2026-11-14'
+  country:
+  - value: Qxk2p63
+    references:
+    - source: en.wikipedia.org-wiki-cologne
+      quote: |-
+        Cologne is the fourth-most populous city of Germany and the largest city of the German state of North Rhine-Westphalia with over one million inhabitants in the city proper and over 3.1 million people in the Cologne Bonn urban region.
+      accessed: '2026-11-14'

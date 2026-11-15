@@ -1,0 +1,27 @@
+id: Qgwqsj8
+type: place
+statements:
+  name:
+  - value:
+      text: Sendai
+      language: en
+    references:
+    - source: en.wikipedia.org-wiki-sendai
+      quote: |-
+        Sendai  is the capital city of Miyagi Prefecture and the largest city in the Tōhoku region.
+      accessed: '2026-11-14'
+  - value:
+      text: سندای
+      language: fa
+    references:
+    - source: fa.wikipedia.org-wiki-sendai
+      quote: |-
+        سندای یکی از شهرهای ژاپن و مرکز استان میاگی می‌باشد.
+      accessed: '2026-11-14'
+  country:
+  - value: Q5q28dp
+    references:
+    - source: en.wikipedia.org-wiki-sendai
+      quote: |-
+        As of 1 August 2023, the city had a population of 1,098,335 in 539,698 households, making it the twelfth most populated city in Japan.
+      accessed: '2026-11-14'

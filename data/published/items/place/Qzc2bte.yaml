@@ -1,0 +1,27 @@
+id: Qzc2bte
+type: place
+statements:
+  name:
+  - value:
+      text: Stockholm
+      language: en
+    references:
+    - source: en.wikipedia.org-wiki-stockholm
+      quote: |-
+        Stockholm is the capital and most populous city of Sweden, as well as the largest urban area in the Nordic countries.
+      accessed: '2026-11-14'
+  - value:
+      text: استکهلم
+      language: fa
+    references:
+    - source: fa.wikipedia.org-wiki-stockholm
+      quote: |-
+        شهر استکهلم در شهرستان استکهلم قرار دارد.
+      accessed: '2026-11-14'
+  country:
+  - value: Qhx7kgf
+    references:
+    - source: en.wikipedia.org-wiki-stockholm
+      quote: |-
+        Stockholm is the capital and most populous city of Sweden, as well as the largest urban area in the Nordic countries.
+      accessed: '2026-11-14'

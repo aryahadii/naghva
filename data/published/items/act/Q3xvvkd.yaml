@@ -40,3 +40,29 @@ statements:
     - source: music.apple.com-us-artist-tarantist-289351697
       quote: ‎TarantisT - Apple Music
       accessed: '2026-10-19'
+  based in:
+  - value: Qhm6fzw
+    qualifiers:
+      start time:
+        date: '2000'
+      end time:
+        date: '2008'
+    references:
+    - source: soundcloud.com-tarantist
+      quote: |-
+        TarantisT was formed in 2000 in Tehran, IRAN
+      accessed: '2026-11-14'
+    - source: soundcloud.com-tarantist
+      quote: |-
+        moved to Los Angeles, CA in 2008.
+      accessed: '2026-11-14'
+  - value: Qf5dpty
+    qualifiers:
+      start time:
+        date: '2008'
+    rank: preferred
+    references:
+    - source: soundcloud.com-tarantist
+      quote: |-
+        moved to Los Angeles, CA in 2008.
+      accessed: '2026-11-14'

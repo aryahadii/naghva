@@ -127,3 +127,52 @@ statements:
     - source: habibmeftah.bandcamp.com-album-unbalanced
       quote: https://f4.bcbits.com/img/0047303227_10.jpg
       accessed: '2026-10-22'
+  based in:
+  - value: Qyhck8a
+    qualifiers:
+      start time:
+        date: '2001'
+      end time:
+        date: '2005'
+    references:
+    - source: qantara.de-en-article-interview-iranian-percussionist-habib-meftah-analogue-electrofolk-southern-iran
+      quote: |-
+        Youʹve been living in Paris since 2001; you canʹt go back to Iran. Whatʹs behind that?
+      accessed: '2026-11-14'
+    - source: cult.news-actualites-habib-meftah-un-des-plus-grands-percussionnistes-iranien-en-exil
+      quote: |-
+        2005. Habib Meftah rentre en Iran
+      accessed: '2026-11-14'
+  - value: Qthab26
+    qualifiers:
+      start time:
+        date: '2005'
+      end time:
+        date: '2008'
+    references:
+    - source: cult.news-actualites-habib-meftah-un-des-plus-grands-percussionnistes-iranien-en-exil
+      quote: |-
+        2005. Habib Meftah rentre en Iran
+      accessed: '2026-11-14'
+    - source: cult.news-actualites-habib-meftah-un-des-plus-grands-percussionnistes-iranien-en-exil
+      quote: |-
+        2008. Habib Meftah parvient à quitter l’Iran. Retour en France.
+      accessed: '2026-11-14'
+  - value: Qyhck8a
+    qualifiers:
+      start time:
+        date: '2008'
+    rank: preferred
+    references:
+    - source: habibmeftah.bandcamp.com-track-landed
+      quote: |-
+        HABIB MEFTAH Paris, France
+      accessed: '2026-11-14'
+    - source: cult.news-actualites-habib-meftah-un-des-plus-grands-percussionnistes-iranien-en-exil
+      quote: |-
+        2008. Habib Meftah parvient à quitter l’Iran. Retour en France.
+      accessed: '2026-11-14'
+    - source: cult.news-actualites-habib-meftah-un-des-plus-grands-percussionnistes-iranien-en-exil
+      quote: |-
+        À Paris, un ami l’accueille
+      accessed: '2026-11-14'

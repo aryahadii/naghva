@@ -167,6 +167,63 @@ def pace(references, weeks=26):
     return rows
 
 
+def country_of(items, place):
+    """The country a place lies in: follow `country` up until a place has none."""
+    seen = set()
+    while place in items and place not in seen:
+        seen.add(place)
+        up = [s["value"] for s in kept(items[place]["statements"].get("country", []))
+              if isinstance(s["value"], str) and s["value"] in items]
+        if not up:
+            return place
+        place = up[0]
+    return place
+
+
+def bases(items, artists):
+    """Where the artists live now, inside Iran or abroad, and the years those who left Iran left.
+
+    The current base is the preferred one, else the one with no end time that started
+    last, else the one that ended last. Earlier bases count for leaving even though a
+    reader is shown only the preferred one. An artist who left has an Iran base and lives abroad now; the year they
+    left is when their last Iran base ended, or else when their first base abroad began.
+    """
+    iran = next((i for i, item in items.items() if item["type"] == "place" and any(
+        isinstance(s["value"], dict) and s["value"].get("text") in ("Iran", "ایران")
+        for s in item["statements"].get("name", []))), None)
+
+    def when(s, key):
+        days = [middle(v["range"]) for v in s.get("qualifiers", {}).get(key, []) if isinstance(v, dict) and "range" in v]
+        return days[0] if days else None
+
+    inside = abroad = 0
+    countries = Counter()
+    left = []
+    for a in artists:
+        found = [s for s in items[a]["statements"].get("based in", [])
+                 if s["rank"] != "deprecated" and isinstance(s["value"], str) and s["value"] in items]
+        if not found:
+            continue
+        rows = [(when(s, "start time"), when(s, "end time"), country_of(items, s["value"]), s["rank"]) for s in found]
+        current = [r for r in rows if r[3] == "preferred"] or [r for r in rows if not r[1]] or rows
+        now = max(current, key=lambda r: (r[0] or "", r[1] or ""))
+        if now[2] == iran:
+            inside += 1
+        else:
+            abroad += 1
+            countries[now[2]] += 1
+        was_home = [r for r in rows if r[2] == iran]
+        if was_home and now[2] != iran:
+            # Leaving is when the last Iran base ended, or else when the first base abroad began.
+            ends = [r[1] for r in was_home if r[1]]
+            starts = [r[0] for r in rows if r[2] != iran and r[0]]
+            out = max(ends) if ends else min(starts) if starts else None
+            if out:
+                left.append(out)
+    return {"inside": inside, "abroad": abroad, "countries": [[c, n] for c, n in countries.most_common()],
+            "left": sorted(left)}
+
+
 def stats(items, artists, sources, tiers, articles=None):
     """Everything the Statistics page draws. `tiers` maps a cited source to its tier word;
     `articles` are the derived articles, whose notes cite sources too."""
@@ -235,7 +292,7 @@ def stats(items, artists, sources, tiers, articles=None):
         },
         "releases": {"days": sorted(d for d in release_days if d), "total": len(releases)},
         "starts": {"days": sorted(starts), "total": len(pages)},
-        "based": {"known": sum(1 for a in pages if has(a, "based in")), "total": len(pages)},
+        "based": {"known": sum(1 for a in pages if has(a, "based in")), "total": len(pages), **bases(items, artists)},
         "gender": {"known": 0, "total": len(people)},
         "listen": {"total": len(releases), "linked": linked,
                    "platforms": [[name, n] for name, n in on.most_common() if name != "Other"]},

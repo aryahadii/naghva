@@ -1,0 +1,27 @@
+id: Qh3ewz2
+type: place
+statements:
+  name:
+  - value:
+      text: Montreal
+      language: en
+    references:
+    - source: en.wikipedia.org-wiki-montreal
+      quote: |-
+        Montreal is the largest city in the province of Quebec, the second-largest in Canada, and the eighth-largest in North America.
+      accessed: '2026-11-14'
+  - value:
+      text: مونترآل
+      language: fa
+    references:
+    - source: fa.wikipedia.org-wiki-montreal
+      quote: |-
+        مونترآل () یا مونتریال () بزرگ‌ترین شهر استان کبک در کانادا و دومین شهر بزرگ این کشور و پانزدهمین شهر بزرگ آمریکای شمالی می‌باشد.
+      accessed: '2026-11-14'
+  country:
+  - value: Qk2cjxr
+    references:
+    - source: en.wikipedia.org-wiki-montreal
+      quote: |-
+        Montreal is the largest city in the province of Quebec, the second-largest in Canada, and the eighth-largest in North America.
+      accessed: '2026-11-14'

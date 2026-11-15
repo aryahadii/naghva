@@ -1,0 +1,27 @@
+id: Qww569v
+type: place
+statements:
+  name:
+  - value:
+      text: Istanbul
+      language: en
+    references:
+    - source: en.wikipedia.org-wiki-istanbul
+      quote: |-
+        Istanbul, historically known as Constantinople, is the largest city in Turkey, a megacity, constituting the country's economic, cultural, and historical center.
+      accessed: '2026-11-14'
+  - value:
+      text: استانبول
+      language: fa
+    references:
+    - source: fa.wikipedia.org-wiki-istanbul
+      quote: |-
+        استانبول دومین کلان‌شهر بزرگ خاورمیانه پس از قاهره به‌شمار می‌رود.
+      accessed: '2026-11-14'
+  country:
+  - value: Qfmhrk6
+    references:
+    - source: en.wikipedia.org-wiki-istanbul
+      quote: |-
+        Istanbul, historically known as Constantinople, is the largest city in Turkey, a megacity, constituting the country's economic, cultural, and historical center.
+      accessed: '2026-11-14'

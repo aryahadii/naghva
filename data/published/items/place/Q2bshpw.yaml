@@ -1,0 +1,20 @@
+id: Q2bshpw
+type: place
+statements:
+  name:
+  - value:
+      text: United States
+      language: en
+    references:
+    - source: en.wikipedia.org-wiki-united_states
+      quote: |-
+        The United States of America (USA), also known as the United States (U.S.) or America, is a country primarily located in North America.
+      accessed: '2026-11-14'
+  - value:
+      text: ایالات متحده
+      language: fa
+    references:
+    - source: fa.wikipedia.org-wiki-united_states
+      quote: |-
+        ایالات متحدهٔ آمریکا یا که به‌صورت خلاصه ایالات متحده یا آمریکا خوانده می‌شود، یک کشور مستقل است که عمدتاً در آمریکای شمالی واقع شده است.
+      accessed: '2026-11-14'

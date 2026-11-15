@@ -1,0 +1,27 @@
+id: Qff5ps9
+type: place
+statements:
+  name:
+  - value:
+      text: Perth
+      language: en
+    references:
+    - source: en.wikipedia.org-wiki-perth
+      quote: |-
+        Perth is the capital and largest city of the state of Western Australia.
+      accessed: '2026-11-14'
+  - value:
+      text: پرث
+      language: fa
+    references:
+    - source: fa.wikipedia.org-wiki-perth
+      quote: |-
+        پرث یا پرت مرکز ایالت و بزرگ‌ترین شهر استرالیای غربی در کشور استرالیا است.
+      accessed: '2026-11-14'
+  country:
+  - value: Qdtffef
+    references:
+    - source: en.wikipedia.org-wiki-perth
+      quote: |-
+        Perth is the capital and largest city of the state of Western Australia.
+      accessed: '2026-11-14'

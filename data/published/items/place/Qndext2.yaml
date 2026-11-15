@@ -1,0 +1,20 @@
+id: Qndext2
+type: place
+statements:
+  name:
+  - value:
+      text: Switzerland
+      language: en
+    references:
+    - source: en.wikipedia.org-wiki-switzerland
+      quote: |-
+        Switzerland, officially the Swiss Confederation, is a landlocked country located at the intersection of Central, Western, and Southern Europe.
+      accessed: '2026-11-14'
+  - value:
+      text: سوئیس
+      language: fa
+    references:
+    - source: fa.wikipedia.org-wiki-switzerland
+      quote: |-
+        سوئیس یا سویس با نام رسمی کنفدراسیون سوئیس ، کشوری محصور در خشکی است که در تلاقی اروپای غربی، مرکزی و جنوبی واقع شده.
+      accessed: '2026-11-14'

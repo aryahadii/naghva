@@ -1,0 +1,27 @@
+id: Qpz46eh
+type: place
+statements:
+  name:
+  - value:
+      text: Rotterdam
+      language: en
+    references:
+    - source: en.wikipedia.org-wiki-rotterdam
+      quote: |-
+        Rotterdam is the second-largest city in the Netherlands by population and the largest by area (319.4 km2).
+      accessed: '2026-11-14'
+  - value:
+      text: روتردام
+      language: fa
+    references:
+    - source: fa.wikipedia.org-wiki-rotterdam
+      quote: |-
+        منطقه شهری روتردام-لاهه، با جمعیتی تقریباً ۲٫۷ میلیون نفر، دهمین منطقه بزرگ اتحادیه اروپا و پرجمعیت‌ترین منطقه در کشور است.
+      accessed: '2026-11-14'
+  country:
+  - value: Qmndj7v
+    references:
+    - source: en.wikipedia.org-wiki-rotterdam
+      quote: |-
+        Rotterdam is the second-largest city in the Netherlands by population and the largest by area (319.4 km2).
+      accessed: '2026-11-14'

@@ -28,3 +28,23 @@ statements:
         When and where were you born?
         Tehran, 1977.
       accessed: '2026-10-19'
+  based in:
+  - value: Q2bshpw
+    qualifiers:
+      start time:
+        date: '2005'
+    references:
+    - source: pbs.org-hamed-nikpay
+      quote: |-
+        He immigrated to the United States six years ago to "explore a new world," he says.
+      accessed: '2026-11-14'
+    - source: www.iranian.com-main-2007-persian-classical-music-oomph.html
+      quote: |-
+        I decided to come out to the west in March of 2005.
+      accessed: '2026-11-14'
+  - value: Q7dgn8w
+    references:
+    - source: www.straight.com-arts-persia-way-spain
+      quote: |-
+        says the Iranian-born Nikpay by phone from his San Francisco home.
+      accessed: '2026-11-14'

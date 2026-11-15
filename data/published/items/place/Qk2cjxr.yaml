@@ -1,0 +1,20 @@
+id: Qk2cjxr
+type: place
+statements:
+  name:
+  - value:
+      text: Canada
+      language: en
+    references:
+    - source: en.wikipedia.org-wiki-canada
+      quote: |-
+        Canada is a country in North America.
+      accessed: '2026-11-14'
+  - value:
+      text: کانادا
+      language: fa
+    references:
+    - source: fa.wikipedia.org-wiki-canada
+      quote: |-
+        کانادا ، کشوری در شمال قارهٔ آمریکای شمالی است که از ده استان و سه قلمرو تشکیل شده است.
+      accessed: '2026-11-14'

@@ -105,3 +105,20 @@ statements:
     qualifiers:
       point in time:
         date: '2009'
+  based in:
+  - value: Qthab26
+    qualifiers:
+      end time:
+        date: '2009'
+    references:
+    - source: www.dmcworld.net-features-mahdyar
+      quote: |-
+        I used my visa for Cannes festival and left Iran in 2009.
+      accessed: '2026-11-13'
+  - value: Qyhck8a
+    rank: preferred
+    references:
+    - source: mahdyar.com-2f54d242827b
+      quote: |-
+        based in Paris.
+      accessed: '2026-11-14'

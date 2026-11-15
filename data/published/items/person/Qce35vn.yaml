@@ -44,3 +44,33 @@ statements:
       credit:
         text: www.logaramintorkian.com
         language: en
+  based in:
+  - value: Qf5dpty
+    qualifiers:
+      end time:
+        date: '2009'
+    references:
+    - source: www.wamc.org-2008-10-12-niyaz-from-iran-to-india-to-los-angeles-551824662596
+      quote: |-
+        Ali, who was born in Iran and moved to India when she was 4, and her husband Torkian, a native Iranian, now live in Los Angeles.
+      accessed: '2026-11-13'
+    - source: chaoscontrol.com-loga-ramin-torkian-niyaz-interview
+      quote: |-
+        In 2009, Azam and I decided to move to Montreal from Los Angeles.
+      accessed: '2026-11-13'
+  - value: Qh3ewz2
+    qualifiers:
+      start time:
+        date: '2009'
+    references:
+    - source: chaoscontrol.com-loga-ramin-torkian-niyaz-interview
+      quote: |-
+        In 2009, Azam and I decided to move to Montreal from Los Angeles.
+      accessed: '2026-11-13'
+  - value: Qf5dpty
+    rank: preferred
+    references:
+    - source: farhang.org-farhang-performances-one-voice
+      quote: |-
+        Born in Tehran and based in Los Angeles, Torkian moved to the United States as a teenager
+      accessed: '2026-11-14'

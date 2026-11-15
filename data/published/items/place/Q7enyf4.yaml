@@ -1,0 +1,27 @@
+id: Q7enyf4
+type: place
+statements:
+  name:
+  - value:
+      text: Florence
+      language: en
+    references:
+    - source: en.wikipedia.org-wiki-florence
+      quote: |-
+        Florence is the capital and most populous city of the Italian region of Tuscany, and, as of 2026, with a population of 361,625, the 8th most populous city in the country.
+      accessed: '2026-11-14'
+  - value:
+      text: فلورانس
+      language: fa
+    references:
+    - source: fa.wikipedia.org-wiki-florence
+      quote: |-
+        فلورانس پایتخت منطقه توسکانی ایتالیا است.
+      accessed: '2026-11-14'
+  country:
+  - value: Qpwta4q
+    references:
+    - source: en.wikipedia.org-wiki-florence
+      quote: |-
+        Florence is the capital and most populous city of the Italian region of Tuscany, and, as of 2026, with a population of 361,625, the 8th most populous city in the country.
+      accessed: '2026-11-14'

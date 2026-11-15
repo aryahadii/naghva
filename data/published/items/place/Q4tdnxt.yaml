@@ -1,0 +1,27 @@
+id: Q4tdnxt
+type: place
+statements:
+  name:
+  - value:
+      text: Berkeley
+      language: en
+    references:
+    - source: en.wikipedia.org-wiki-berkeley_california
+      quote: |-
+        Berkeley is a city on the eastern shore of San Francisco Bay in northern Alameda County, California, United States.
+      accessed: '2026-11-14'
+  - value:
+      text: برکلی
+      language: fa
+    references:
+    - source: fa.wikipedia.org-wiki-berkeley_california
+      quote: |-
+        نام آن برگرفته از جرج برکلی فیلسوف و کشیش انگلیسی ایرلندی قرن ۱۸ میلادی است.
+      accessed: '2026-11-14'
+  country:
+  - value: Q2bshpw
+    references:
+    - source: en.wikipedia.org-wiki-berkeley_california
+      quote: |-
+        Berkeley is a city on the eastern shore of San Francisco Bay in northern Alameda County, California, United States.
+      accessed: '2026-11-14'

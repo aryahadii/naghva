@@ -1,0 +1,20 @@
+id: Qhx7kgf
+type: place
+statements:
+  name:
+  - value:
+      text: Sweden
+      language: en
+    references:
+    - source: en.wikipedia.org-wiki-sweden
+      quote: |-
+        Sweden, formally the Kingdom of Sweden, is a Nordic country located on the Scandinavian Peninsula in Northern Europe.
+      accessed: '2026-11-14'
+  - value:
+      text: سوئد
+      language: fa
+    references:
+    - source: fa.wikipedia.org-wiki-sweden
+      quote: |-
+        سوئد یا سویدن ، با نام رسمی پادشاهی سوئد کشوری نوردیک در شمال اروپا در شبه‌جزیره اسکاندیناوی است.
+      accessed: '2026-11-14'

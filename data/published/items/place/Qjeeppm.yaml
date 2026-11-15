@@ -1,0 +1,27 @@
+id: Qjeeppm
+type: place
+statements:
+  name:
+  - value:
+      text: Richmond
+      language: en
+    references:
+    - source: en.wikipedia.org-wiki-richmond_california
+      quote: |-
+        Richmond is a city in western Contra Costa County, California, United States.
+      accessed: '2026-11-14'
+  - value:
+      text: ریچموند
+      language: fa
+    references:
+    - source: fa.wikipedia.org-wiki-richmond_california
+      quote: |-
+        ریچموند شهری در شهرستان کنترا کوستا ایالت کالیفرنیا است که در سرشماری سال ۲۰۱۰ میلادی، ۱۰۳۷۰۱ نفر جمعیت داشته‌است.
+      accessed: '2026-11-14'
+  country:
+  - value: Q2bshpw
+    references:
+    - source: en.wikipedia.org-wiki-richmond_california
+      quote: |-
+        Richmond is a city in western Contra Costa County, California, United States.
+      accessed: '2026-11-14'

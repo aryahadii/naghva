@@ -7,3 +7,7 @@ status: processed
 ---
 
 > Arsames is an Iranian death metal band based in Mashhad. It was originally formed in 2002 by Ali Madarshahi.
+
+> In August 2020, all three escaped from Iran.
+
+Read 2026-11-14.

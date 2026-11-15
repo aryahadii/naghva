@@ -1,0 +1,27 @@
+id: Q9hcz4h
+type: place
+statements:
+  name:
+  - value:
+      text: Tbilisi
+      language: en
+    references:
+    - source: en.wikipedia.org-wiki-tbilisi
+      quote: |-
+        Tbilisi is the capital and largest city of Georgia, located on the banks of the Kura River.
+      accessed: '2026-11-14'
+  - value:
+      text: تفلیس
+      language: fa
+    references:
+    - source: fa.wikipedia.org-wiki-tbilisi
+      quote: |-
+        تفلیس ، پایتخت و بزرگ‌ترین شهر گرجستان و یکی از شهرهای بزرگ در شرق قاره اروپا است.
+      accessed: '2026-11-14'
+  country:
+  - value: Qtg464f
+    references:
+    - source: en.wikipedia.org-wiki-tbilisi
+      quote: |-
+        Tbilisi is the capital and largest city of Georgia, located on the banks of the Kura River.
+      accessed: '2026-11-14'

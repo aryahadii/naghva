@@ -17,3 +17,10 @@ statements:
     - source: soundcloud.com-dangshow-ea5e48315bac
       quote: Toronto
       accessed: '2026-11-06'
+  country:
+  - value: Qk2cjxr
+    references:
+    - source: en.wikipedia.org-wiki-toronto
+      quote: |-
+        Toronto is the most populous city in Canada and the capital city of the Canadian province of Ontario.
+      accessed: '2026-11-14'

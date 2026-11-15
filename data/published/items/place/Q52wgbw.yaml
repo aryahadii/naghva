@@ -1,0 +1,20 @@
+id: Q52wgbw
+type: place
+statements:
+  name:
+  - value:
+      text: United Kingdom
+      language: en
+    references:
+    - source: en.wikipedia.org-wiki-united_kingdom
+      quote: |-
+        The United Kingdom of Great Britain and Northern Ireland, commonly known as the United Kingdom (UK) or Britain, is a country in Northwestern Europe, off the coast of the continental mainland.
+      accessed: '2026-11-14'
+  - value:
+      text: بریتانیا
+      language: fa
+    references:
+    - source: fa.wikipedia.org-wiki-united_kingdom
+      quote: |-
+        بریتانیا که با نام‌های پادشاهی متحد بریتانیای کبیر و ایرلند شمالی، یا به اختصار بریتانیا (UK) یا بریتانیا (Britain) شناخته می‌شود، کشوری است در شمال غربی اروپا، در سواحل سرزمین اصلی قاره اروپا.
+      accessed: '2026-11-14'

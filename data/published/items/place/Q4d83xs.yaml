@@ -1,0 +1,20 @@
+id: Q4d83xs
+type: place
+statements:
+  name:
+  - value:
+      text: Belgium
+      language: en
+    references:
+    - source: en.wikipedia.org-wiki-belgium
+      quote: |-
+        Belgium, officially the Kingdom of Belgium, is a country in Northwestern Europe.
+      accessed: '2026-11-14'
+  - value:
+      text: بلژیک
+      language: fa
+    references:
+    - source: fa.wikipedia.org-wiki-belgium
+      quote: |-
+        بلژیک با نام رسمی پادشاهی بلژیک ، ، کشوری در غرب اروپا و یکی از اعضای اتحادیه اروپا است که پایتخت آن بروکسل است.
+      accessed: '2026-11-14'

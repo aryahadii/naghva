@@ -8,3 +8,7 @@ status: processed
 ---
 
 > Farzad Golpayegani is a virtuoso guitarist who was born Tehran, Iran.
+
+> The first reason for me to move to Istanbul was to continue my musical activities easier.
+
+Read 2026-11-14.
