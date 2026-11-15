@@ -365,6 +365,8 @@ def derive(root, issued=None):
         "redirects": redirects,
         "panels": panels,
         "panelHosts": panel_hosts,
+        "roles": ds.role_kinds(registry),
+        "platforms": registry["platforms"],
         "stats": stats.stats(items, artists, sources,
                              {name: store.sources[name].meta.get("tier") for name in sources},
                              articles),

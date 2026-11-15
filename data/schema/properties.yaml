@@ -11,7 +11,8 @@
 # requires:   qualifiers every statement of this property must carry
 # excerpt:    true when a text value must sit, word for word, in a blockquote
 #             of each source its references cite
-# hosts:      for url values, allowed host names (a subdomain matches)
+# hosts:      for url values, allowed host names (a subdomain matches), or
+#             `platforms` for every host under `platforms` below
 
 types: [person, act, release, organization, event, place]
 
@@ -68,25 +69,11 @@ properties:
   listen link:
     used on: [release]
     value: url
-    hosts:
-      - youtube.com
-      - youtu.be
-      - open.spotify.com
-      - soundcloud.com
-      - bandcamp.com
-      - music.apple.com
-      - t.me
+    hosts: platforms
   profile link:
     used on: [person, act]
     value: url
-    hosts:
-      - youtube.com
-      - youtu.be
-      - open.spotify.com
-      - soundcloud.com
-      - bandcamp.com
-      - music.apple.com
-      - t.me
+    hosts: platforms
   country:
     used on: [place]
     value: item
@@ -168,6 +155,17 @@ qualifiers:
   license:
     value: url
 
+# The listening platforms the data policies allow, by the key the site names
+# them by, with the hosts each answers at. `listen link` and `profile link`
+# take exactly these hosts.
+platforms:
+  youtube: [youtube.com, youtu.be]
+  spotify: [open.spotify.com]
+  soundcloud: [soundcloud.com]
+  bandcamp: [bandcamp.com]
+  apple: [music.apple.com]
+  telegram: [t.me]
+
 # Term lists for `term` values. Reuse an existing term before adding one.
 terms:
   role:
@@ -217,3 +215,18 @@ terms:
     - oboe
     - saxophone
     - tambura
+
+# Roles that write or produce rather than perform; every other role is
+# performed. On a release, a `performer` takes only performed roles and a
+# `contributor` only these.
+creation roles:
+  - producer
+  - recording engineer
+  - mixing engineer
+  - mastering engineer
+  - composer
+  - lyricist
+  - songwriter
+  - original composer
+  - original lyricist
+  - arranger

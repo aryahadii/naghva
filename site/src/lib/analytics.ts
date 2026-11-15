@@ -91,7 +91,8 @@ const PAGE_METRICS = new Set([
 const WEB_VITALS = /^\$web_vitals_(LCP|CLS|FCP|INP)_value$/;
 const PATH = /^\/(?:[a-z0-9-]+\/)*$/;
 const ID = /^Q[a-z0-9]{6}$/;
-const PLATFORMS = new Set(['youtube', 'spotify', 'soundcloud', 'bandcamp', 'apple', 'telegram']);
+// The registry's platform keys; scripts/test-analytics.mjs checks they match.
+export const PLATFORMS = new Set(['youtube', 'spotify', 'soundcloud', 'bandcamp', 'apple', 'telegram']);
 
 /** Last boundary before network transmission, including SDK-added properties. */
 export function sanitizeEvent(event: CaptureResult | null, context: Properties): CaptureResult | null {

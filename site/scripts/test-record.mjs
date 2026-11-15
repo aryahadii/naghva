@@ -2,7 +2,6 @@ import assert from 'node:assert/strict';
 import { readFileSync } from 'node:fs';
 import { test } from 'node:test';
 import { best, recordingArtists, datesDisagree, href, performers, releaseDates, releasesOf } from '../src/lib/record.ts';
-import { ROLE_CLASSIFICATION } from '../src/lib/roles.ts';
 
 const artist = { id: 'artist', type: 'person', page: 'artist', statements: {}, incoming: [] };
 const band = { id: 'band', type: 'act', statements: {}, incoming: [{ property: 'member of', item: 'artist', rank: 'normal' }] };
@@ -120,11 +119,11 @@ const releases = Object.values(published.items).filter((item) => item.type === '
 test('published performer credits carry no writing or production role', () => {
   for (const release of releases) {
     for (const s of release.statements.performer ?? []) {
-      assert.equal((s.qualifiers?.role ?? []).some((role) => ROLE_CLASSIFICATION[role] === 'creation'), false,
+      assert.equal((s.qualifiers?.role ?? []).some((role) => published.roles[role] === 'creation'), false,
         `${release.id}/${s.value}: ${s.qualifiers?.role} belongs under contributor`);
     }
     for (const s of release.statements.contributor ?? []) {
-      assert.ok(s.qualifiers.role.every((role) => ROLE_CLASSIFICATION[role] === 'creation'), `${release.id}/${s.value}`);
+      assert.ok(s.qualifiers.role.every((role) => published.roles[role] === 'creation'), `${release.id}/${s.value}`);
     }
   }
 });

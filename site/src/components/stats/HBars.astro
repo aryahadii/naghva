@@ -4,10 +4,8 @@ export interface Bar { label: string; width: number; color: string; value: strin
 interface Props {
   bars: Bar[];
   tight?: boolean;
-  /** Set the labels' direction, for names in Latin script on a Persian page. */
-  labelDir?: 'ltr' | 'rtl';
 }
 
-const { bars, tight = false, labelDir } = Astro.props;
+const { bars, tight = false } = Astro.props;
 ---
-<ul class={`hbars${tight ? ' hbars-tight' : ''}`}>{bars.map((b) => <li><span class="hb-label" dir={labelDir}>{b.label}</span><span class="hb-bar" style={`--w:${b.width}%;--c:${b.color}`}></span><span class="hb-val">{b.value}</span></li>)}</ul>
+<ul class={`hbars${tight ? ' hbars-tight' : ''}`}>{bars.map((b) => <li><span class="hb-label">{b.label}</span><span class="hb-bar" style={`--w:${b.width}%;--c:${b.color}`}></span><span class="hb-val">{b.value}</span></li>)}</ul>
