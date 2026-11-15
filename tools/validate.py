@@ -119,6 +119,15 @@ def check_source(source, store, report):
         report.warn(where, "processed but holds no blockquote, so nothing in it can be cited")
 
 
+def check_archive_links(store, report):
+    """One warning counting processed web sources with no archive link."""
+    missing = [s for s in store.sources.values()
+               if s.meta.get("status") == "processed" and s.meta.get("url") and not s.meta.get("archive")]
+    if missing:
+        report.warn(store.rel(store.root / "capture" / "sources"),
+                    "%d processed web sources have no `archive` link; run tools/archive.py" % len(missing))
+
+
 def check_source_urls(store, report):
     seen = {}
     for source in store.sources.values():
@@ -396,6 +405,7 @@ def validate(root, report):
         if _schema_ok(source.path, source.meta, source_schema, store, report):
             check_source(source, store, report)
     check_source_urls(store, report)
+    check_archive_links(store, report)
     live = []
     for item in store.items.values():
         if _schema_ok(item.path, item.data, item_schema, store, report):
