@@ -246,6 +246,14 @@ Only the properties in `schema/properties.yaml` may be used, each only on the
 item types and with the qualifiers the registry allows. To record a new kind
 of fact, add the property to the spec first, then to the registry.
 
+The registry also holds two tables the tools and the site read from it, so
+neither is copied anywhere else. `platforms` names each listening platform
+the data policies allow and the hosts it answers at; `listen link` and
+`profile link` take exactly those hosts. `creation roles` lists the roles that
+write or produce; every other role is performed. On a release, a `performer`
+carries only performed roles and a `contributor` only creation roles, and the
+validator checks it.
+
 ### Values
 
 The property decides which kind of value a statement takes.
@@ -465,7 +473,8 @@ built it derives, from `published/` and the capture front matter:
 
 ## Tools
 
-Python 3 scripts under `tools/`, needing only `pyyaml` and `jsonschema`.
+Python 3 scripts under `tools/`, needing only `pyyaml` and `jsonschema`
+(`pip install -r tools/requirements.txt`).
 
 | Command | Does |
 | --- | --- |

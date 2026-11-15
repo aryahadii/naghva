@@ -7,20 +7,10 @@ page can sort them into the years of its own calendar.
 import datetime
 import math
 import random
-import re
 from collections import Counter, defaultdict
 
-PLATFORMS = (
-    ("Apple Music", re.compile(r"(^|\.)apple\.com$")),
-    ("Spotify", re.compile(r"(^|\.)spotify\.com$")),
-    ("SoundCloud", re.compile(r"(^|\.)soundcloud\.com$")),
-    ("YouTube", re.compile(r"(^|\.)(youtube\.com|youtu\.be)$")),
-    ("Bandcamp", re.compile(r"(^|\.)bandcamp\.com$")),
-    ("Telegram", re.compile(r"^(t\.me|telegram\.me)$")),
-    ("Radio Javan", re.compile(r"(^|\.)(radiojavan\.com|rj\.app)$")),
-    ("Deezer", re.compile(r"(^|\.)deezer\.com$")),
-    ("Tidal", re.compile(r"(^|\.)tidal\.com$")),
-)
+import datastore as ds
+
 # Source tiers, as the source schema lists them; a source with none counts as other.
 TIERS = ("own", "discography", "journalism", "academic", "wikipedia", "other")
 NETWORK_SEED = 1404
@@ -45,14 +35,19 @@ def first_day(statements):
     return min(days) if days else None
 
 
-def host(url):
-    match = re.match(r"https?://([^/:?#]+)", url or "")
-    return match.group(1).lower().removeprefix("www.").removeprefix("open.").removeprefix("music.") if match else ""
+def platform(url, registry=None):
+    """The registry's key for the listening platform `url` is on, or "other"."""
+    return ds.platform_of(url, registry or _registry()) or "other"
 
 
-def platform(url):
-    h = host(url)
-    return next((name for name, pattern in PLATFORMS if pattern.search(h)), "Other")
+def _registry():
+    global _REGISTRY
+    if _REGISTRY is None:
+        _REGISTRY = ds.load_registry()
+    return _REGISTRY
+
+
+_REGISTRY = None
 
 
 def week_of(day):
@@ -289,7 +284,7 @@ def stats(items, artists, sources, tiers, articles=None):
         "based": {"known": sum(1 for a in pages if has(a, "based in")), "total": len(pages), **bases(items, artists)},
         "gender": {"known": 0, "total": len(people)},
         "listen": {"total": len(releases), "linked": linked,
-                   "platforms": [[name, n] for name, n in on.most_common() if name != "Other"]},
+                   "platforms": [[name, n] for name, n in on.most_common() if name != "other"]},
         "labels": {"total": len(releases), "known": labelled,
                    "top": [[label, n] for label, n in labels.most_common(6)]},
         "network": network(items, artists),

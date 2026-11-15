@@ -280,6 +280,29 @@ class DestinationContinuityTests(unittest.TestCase):
         self.assertEqual(derive.main(args), 1)
         self.assertEqual((out.read_bytes(), ledger.read_bytes()), before)
 
+    def test_release_host_and_artist_releases(self):
+        record = derive.derive(self.root, derive.no_addresses())
+        self.assertEqual(record["items"][RELEASE]["host"], BAND)
+        self.assertEqual(record["items"][BAND]["releases"], [RELEASE])
+        self.assertNotIn("releases", record["items"][NIMA])  # no article, no page
+
+    def test_band_without_a_page_is_hosted_on_a_members_page(self):
+        articles = self.root / "published/articles"
+        for article in articles.glob(BAND + ".*"):
+            article.rename(articles / article.name.replace(BAND, NIMA))
+        record = derive.derive(self.root, derive.no_addresses())
+        self.assertEqual(record["items"][RELEASE]["host"], NIMA)
+        self.assertEqual(record["items"][NIMA]["releases"], [RELEASE])
+        self.assertEqual(record["panelHosts"][RELEASE], NIMA)
+
+    def test_former_host_is_not_a_credited_host(self):
+        data = yaml.safe_load(self.release.read_text())
+        data["statements"]["performer"][0]["value"] = NIMA
+        self.release.write_text(yaml.safe_dump(data, allow_unicode=True))
+        record = derive.derive(self.root, self.issued)
+        self.assertNotIn("host", record["items"][RELEASE])
+        self.assertEqual(record["items"][BAND]["releases"], [])
+
     def test_release_merge_preserves_former_public_addresses(self):
         target = "Qzzzzzz"
         data = yaml.safe_load(self.release.read_text())

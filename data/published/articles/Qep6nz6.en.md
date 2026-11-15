@@ -105,7 +105,7 @@ That debut, [*Damahi*](#damahi-d3a), reached Iran’s music market in September 
 
 ## Two routes into the second album
 
-The second album, [*Dar Man Boro Shekar*](#dar-man-boro-shekar-w9z), appeared in 2019.[^second-album][^album-date] In a pre-release interview, Daraee explained that two of its tracks, “Houmba” and “Bi Aman,” were already circulating online.[^early-tracks][^bi-aman-account]
+The second album, [*Dar Man Boro Shekar*](#dar-man-boro-shekar-fdd), appeared in 2019.[^second-album][^album-date] In a pre-release interview, Daraee explained that two of its tracks, “Houmba” and “Bi Aman,” were already circulating online.[^early-tracks][^bi-aman-account]
 
 [*Houmba*](#houmba-feat-ghanbar-rastgoo-jmx), featuring Ghanbar Rastgoo, takes its words and melody from the older «هووم», associated with children’s music in Hormozgan. Damahi arranged the piece, with Rastgoo singing and playing ney-jofti and Koolaghani on backing vocals.[^houmba-title][^houmba]
 
