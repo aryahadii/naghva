@@ -11,6 +11,7 @@ import random
 import re
 import urllib.parse
 
+import gate_common
 from gate_common import (
     Finding, is_recording, page_text, plain_text, rendered_text, squash, words,
 )
@@ -158,6 +159,8 @@ def check_passages(artist, deep=False, browser=True, refresh=False, offline=Fals
     line = "%d passages: %s" % (
         total, " · ".join("%d %s" % (counts[s], labels.get(s, s)) for s in order if counts.get(s)) or "none",
     )
+    if gate_common.NO_BROWSER:
+        line += " · no browser: install Playwright in site/ or pass --no-browser"
     return line, findings, {"status": status, "counts": counts}
 
 

@@ -5,11 +5,15 @@
 //     node tools/gate_render.mjs <url>
 import { createRequire } from "node:module";
 
-const require = createRequire(import.meta.url);
+// Playwright is installed for the site, in site/node_modules.
 let chromium;
-try {
-  ({ chromium } = require("playwright"));
-} catch {
+for (const base of [import.meta.url, new URL("../site/package.json", import.meta.url)]) {
+  try {
+    ({ chromium } = createRequire(base)("playwright"));
+    break;
+  } catch {}
+}
+if (!chromium) {
   console.error("playwright is not installed");
   process.exit(2);
 }

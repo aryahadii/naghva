@@ -52,6 +52,7 @@ def is_recording(source):
 USER_AGENT = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36"
 CACHE = Path(os.environ.get("NAGHVA_GATE_CACHE", Path.home() / ".cache" / "naghva-gate"))
 RENDER_SCRIPT = Path(__file__).resolve().parent / "gate_render.mjs"
+NO_BROWSER = []  # set when the render script finds no Playwright
 
 
 def platform_of(url):
@@ -338,6 +339,8 @@ def rendered_text(url, refresh=False):
             )
         except (OSError, subprocess.TimeoutExpired):
             return None
+        if run.returncode == 2:
+            NO_BROWSER.append(url)
         return run.stdout if run.returncode == 0 and len(run.stdout) > 200 else None
 
     return _cached("rendered", url, make, refresh)
