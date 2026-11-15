@@ -2,6 +2,7 @@
 url: https://music.apple.com/us/album/downspout-feat-shalou-single/1543270179
 title: Downspout (feat. Shalou) - Single - Album by Salome MC - Apple Music
 status: processed
+tier: discography
 ---
 
 > Listen to Downspout (feat. Shalou) - Single by Salome MC on Apple Music. 2020. 1 Song. Duration: 4 minutes.

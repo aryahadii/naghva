@@ -5,6 +5,7 @@ language: en
 author: Bozorgmehr Sharafedin
 publisher: BBC News
 status: processed
+tier: journalism
 ---
 
 > A religious site, Shia Online, has offered $100,000 reward for anyone who kills Shahin Najafi

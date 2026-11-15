@@ -2,6 +2,7 @@
 url: https://open.spotify.com/album/29u68IoFBNgHLNqFQhlYre
 title: Ravi - The Music of Dušan Bogdanovic on Spotify
 status: processed
+tier: discography
 archive: https://web.archive.org/web/20261010094727/https://open.spotify.com/album/29u68IoFBNgHLNqFQhlYre
 ---
 

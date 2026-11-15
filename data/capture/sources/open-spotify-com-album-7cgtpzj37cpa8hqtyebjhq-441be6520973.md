@@ -4,6 +4,7 @@ title: Immortal Identity
 language: en
 publisher: Spotify
 status: processed
+tier: discography
 ---
 
 > Immortal Identity

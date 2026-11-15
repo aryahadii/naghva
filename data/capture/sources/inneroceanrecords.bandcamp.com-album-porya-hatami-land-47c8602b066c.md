@@ -4,6 +4,7 @@ title: Porya Hatami - Land
 language: en
 publisher: Inner Ocean Records
 status: processed
+tier: own
 ---
 
 > Porya Hatami - Land

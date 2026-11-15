@@ -3,7 +3,7 @@ url: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c4/01/fd/c401fd14-98d3
 title: Harf Bezan — whole cover
 kind: cover image
 language: mul
-tier: own
+tier: discography
 about:
 - Qnjntqs
 status: processed

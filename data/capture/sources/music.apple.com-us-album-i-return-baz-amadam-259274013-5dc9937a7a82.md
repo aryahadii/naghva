@@ -4,6 +4,7 @@ title: I Return (Baz Amadam) - Album by Rana Farhan - Apple Music
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > I Return (Baz Amadam) by Rana Farhan on Apple Music

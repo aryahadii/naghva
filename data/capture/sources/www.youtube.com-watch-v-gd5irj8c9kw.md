@@ -4,7 +4,7 @@ title: "Delyar Orchestral"
 status: processed
 kind: youtube video
 language: mul
-tier: own
+tier: discography
 publisher: "Reza Rohani"
 issued:
   date: '2026-09-16'

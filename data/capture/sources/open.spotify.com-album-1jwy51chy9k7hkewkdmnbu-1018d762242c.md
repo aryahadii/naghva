@@ -3,7 +3,7 @@ url: https://open.spotify.com/album/1jWY51CHY9k7hkEWkDMnbU
 title: Esharate Nazar — Spotify
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Qnjntqs
 status: processed

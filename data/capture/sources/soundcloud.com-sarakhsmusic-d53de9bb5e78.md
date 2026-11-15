@@ -4,7 +4,7 @@ title: Sarakhs سرخس
 language: en
 publisher: SoundCloud (Sarakhs)
 status: processed
-tier: own
+tier: discography
 ---
 
 > Sarakhs (سرخس) are an Iranian alternative rock band formed in Tehran in 1998. The band consists of Behzad Khiavchi, Yuri Akop and Peter Akop.

@@ -4,7 +4,7 @@ title: Baroon Baroon - Single — Sharyar & Rian
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 ---
 
 > December 20, 2023

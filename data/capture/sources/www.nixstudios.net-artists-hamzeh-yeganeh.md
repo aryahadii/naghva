@@ -5,7 +5,7 @@ title: Hamzeh Yeganeh | Nix Studios
 status: processed
 kind: web page
 language: en
-tier: primary
+tier: own
 about:
 - حمزه یگانه
 ---

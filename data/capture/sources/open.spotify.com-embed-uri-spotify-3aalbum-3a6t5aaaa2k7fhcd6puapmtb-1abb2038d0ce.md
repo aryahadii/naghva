@@ -4,6 +4,7 @@ title: Parie Gheseha | Spotify player
 language: en
 publisher: Spotify
 status: processed
+tier: discography
 ---
 
 > spotify:album:6t5AAaA2K7FHcd6PuapMtb

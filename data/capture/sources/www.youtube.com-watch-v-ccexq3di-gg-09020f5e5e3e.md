@@ -4,7 +4,7 @@ title: Dead Inside
 status: processed
 kind: youtube video
 language: en
-tier: own
+tier: discography
 publisher: Jetpack - Topic
 about:
 - Jetpack

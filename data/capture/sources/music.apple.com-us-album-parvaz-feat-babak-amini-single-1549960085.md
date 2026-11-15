@@ -4,7 +4,7 @@ title: Parvaz (feat. Babak Amini) - Single - Album by Shahin Najafi - Apple Musi
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Apple Music
 about:
 - Qn7vfak

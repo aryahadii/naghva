@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/mashrouhe-tanhaee-single/1860619519
 title: Mashrouh-e Tanhaee — Apple release edition
 kind: web page
 language: mul
-tier: platform
+tier: discography
 status: processed
 ---
 

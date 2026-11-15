@@ -4,6 +4,7 @@ title: To Trucks - Album by Makan Ashgvari
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > To Trucks by Makan Ashgvari on Apple Music

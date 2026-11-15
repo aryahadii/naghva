@@ -3,7 +3,7 @@ url: https://peeleh.com/begoosham
 title: بگوشم
 kind: web page
 language: fa
-tier: primary
+tier: own
 status: processed
 ---
 

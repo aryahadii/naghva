@@ -4,7 +4,7 @@ title: Of Love and Other Evils - Album by Ali Azimi - Apple Music
 language: en
 publisher: Apple Music
 status: processed
-tier: own
+tier: discography
 ---
 
 > Of Love and Other Evils - Album by Ali Azimi - Apple Music

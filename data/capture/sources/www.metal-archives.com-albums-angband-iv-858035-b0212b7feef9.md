@@ -4,6 +4,7 @@ title: Angband - IV - Encyclopaedia Metallum
 language: en
 publisher: Metal Archives
 status: processed
+tier: discography
 ---
 
 > IV

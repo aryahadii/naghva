@@ -4,7 +4,7 @@ title: Ghesse E Zirzamin (feat. Erwin Khachikian, Arad Aria & Arian Naeini) - Si
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Apple Music
 about:
 - Qx3svqf

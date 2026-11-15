@@ -2,6 +2,7 @@
 url: https://tasnimnews.ir/1383459
 title: کنسرت 10 سالگی گروه «دارکوب» برگزار می‌شود
 status: processed
+tier: journalism
 language: fa
 publisher: Tasnim News
 ---

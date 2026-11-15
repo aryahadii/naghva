@@ -4,7 +4,7 @@ title: Shahrah - Single - Album by Ebi & Shahin Najafi - Apple Music
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Apple Music
 about:
 - Qn7vfak

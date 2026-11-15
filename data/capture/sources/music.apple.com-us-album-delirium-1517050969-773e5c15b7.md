@@ -2,6 +2,7 @@
 url: https://music.apple.com/us/album/delirium/1517050969
 title: Delirium - Album by Salome MC - Apple Music
 status: processed
+tier: discography
 ---
 
 > Listen to Delirium by Salome MC on Apple Music. 2006. 11 Songs. Duration: 35 minutes.

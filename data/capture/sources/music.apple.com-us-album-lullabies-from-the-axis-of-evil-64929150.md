@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/lullabies-from-the-axis-of-evil/64929150
 title: Lullabies from the Axis of Evil - Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Lullabies from the Axis of Evil
 status: processed

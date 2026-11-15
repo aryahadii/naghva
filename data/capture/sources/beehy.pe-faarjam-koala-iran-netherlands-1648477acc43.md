@@ -5,6 +5,7 @@ language: en
 author: Ali Eshqi
 publisher: beehype
 status: processed
+tier: journalism
 ---
 
 > Faarjam is a band of Dutch members formed around Iranian frontman Massoud Faarjam Saidi in the city of Arnhem in 2013, when they released their first EP, “Awar E Rang“.

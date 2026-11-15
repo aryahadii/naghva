@@ -2,6 +2,7 @@
 url: https://salome-mc.bandcamp.com/album/seven-climes-vol-2
 title: Seven Climes Vol. 2 | Salome Mc
 status: processed
+tier: own
 archive: https://web.archive.org/web/20260408004320/https://salome-mc.bandcamp.com/album/seven-climes-vol-2
 ---
 

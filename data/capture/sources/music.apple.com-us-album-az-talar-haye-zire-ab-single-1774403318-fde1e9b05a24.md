@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/az-talar-haye-zire-ab-single/1774403318
 title: Az Talar Haye Zire Ab - Single - Album by Makhoola - Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Makhoula
 status: processed

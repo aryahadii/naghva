@@ -4,7 +4,7 @@ title: Az Chi Begam (What Can I Say) - از چی‌ بگم؟ - Single - Album by
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Apple Music
 about:
 - Qx3svqf

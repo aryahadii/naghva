@@ -3,6 +3,7 @@ url: https://www.mohsennamjoo.com/bio
 title: Bio — Mohsen Namjoo
 language: en
 status: processed
+tier: own
 ---
 
 > 2023 Restless

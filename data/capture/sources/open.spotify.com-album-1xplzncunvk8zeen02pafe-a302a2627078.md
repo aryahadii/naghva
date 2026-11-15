@@ -3,7 +3,7 @@ url: https://open.spotify.com/album/1xPlznCUNVk8ZEen02PaFe
 title: Spree — Spotify
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Qnjntqs
 status: processed

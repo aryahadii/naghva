@@ -4,7 +4,7 @@ title: Baz A - EP
 language: en
 publisher: Apple Music
 status: processed
-tier: own
+tier: discography
 ---
 
 > Baz A - EP

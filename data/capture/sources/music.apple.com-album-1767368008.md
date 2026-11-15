@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/persian-tunes-for-piano-remastered/1767368
 title: Persian Tunes For Piano (Remastered) | Apple Music
 kind: web page
 language: en
-tier: primary
+tier: discography
 about:
 - حمزه یگانه
 status: processed

@@ -4,6 +4,7 @@ title: RocRast | Pouya Ehsaei
 language: en
 publisher: Zabte Sote
 status: processed
+tier: own
 ---
 
 > A label focusing on Experimental Electronic Music by Iranian Composers. Curated by Ata 'Sote' Ebtekar

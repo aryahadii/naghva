@@ -2,6 +2,7 @@
 url: https://music.apple.com/us/album/three-feat-srivani-jade-single/1519613916
 title: Three (feat. Srivani Jade) - Single - Album by Salome MC - Apple Music
 status: processed
+tier: discography
 ---
 
 > Listen to Three (feat. Srivani Jade) - Single by Salome MC on Apple Music. 2019. 1 Song. Duration: 3 minutes.

@@ -4,6 +4,7 @@ title: Kourosh Yaghmaei - Malek Jamshid
 language: fa
 publisher: Kourosh Yaghmaei
 status: processed
+tier: own
 ---
 
 > نزدیک به چهارده سال پیش آغاز و در یک اتاق معمولی بدون آکوستیک ( اتاق کار خودم )

@@ -4,7 +4,7 @@ title: 40 (Chehel) - Album by Dariush Azar - Apple Music
 language: en
 publisher: Apple Music
 status: processed
-tier: own
+tier: discography
 ---
 
 > 40 (Chehel)

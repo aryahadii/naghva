@@ -4,6 +4,7 @@ title: Bio
 language: en
 publisher: Niyaz
 status: processed
+tier: own
 ---
 
 > Founded in 2004 by Iranian born, Indian raised vocalist/ composer Azam Ali, and Iranian multi-instrumentalist/ composer Loga R. Torkian, Niyaz has created a 21st century global trance tradition by seamlessly blending medieval Sufi poetry and ancient folk songs from their native Iran and its surrounding countries in the Persian Gulf, with rich acoustic instrumentation and state-of-the-art modern electronics.

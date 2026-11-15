@@ -4,6 +4,7 @@ title: Soliloquy
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > Soliloquy — Album by Sussan Deyhim; January 1, 2001; 16 songs, 33 minutes; ℗ 2001 Venus Rising courtesy of BFM Digital

@@ -4,6 +4,7 @@ title: About | Hooshyar Khayam
 language: en
 publisher: Hooshyar Khayam
 status: processed
+tier: own
 ---
 
 > Hooshyar Khayam is an Iranian musician. He is active as a composer, conductor, pianist, producer, and educator.

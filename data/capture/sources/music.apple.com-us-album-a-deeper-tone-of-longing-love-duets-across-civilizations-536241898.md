@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/a-deeper-tone-of-longing-love-duets-across
 title: A Deeper Tone of Longing (Love Duets Across Civilizations) - Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - A Deeper Tone of Longing (Love Duets Across Civilizations) - Apple Music
 status: processed

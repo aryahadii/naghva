@@ -4,6 +4,7 @@ title: لطفا لامپ‌های اضافی‌ را خاموش کنید (interv
 language: fa
 publisher: Meidaan
 status: processed
+tier: journalism
 ---
 
 > یحیی الخنسا نوازنده‌ی درام و یکی از اعضای گروه ۱۲۷ است

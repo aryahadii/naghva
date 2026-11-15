@@ -5,6 +5,7 @@ language: en
 author: Paul de Barros
 publisher: The Seattle Times
 status: processed
+tier: journalism
 ---
 
 > Namjoo and Abdi began performing with their rock band, Maad, in 2002, but the authorities shut them down.

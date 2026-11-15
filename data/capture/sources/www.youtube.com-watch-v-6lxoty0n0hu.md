@@ -4,6 +4,7 @@ title: Ali Azimi - Khooneyeh Bahar - علی عظیمی - خونه باهار
 language: mul
 publisher: Ali Azimi
 status: processed
+tier: discography
 ---
 
 > Music by Ali Azimi

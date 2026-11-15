@@ -3,6 +3,7 @@ url: https://mahdyarmahdyar.bandcamp.com/album/seized
 title: Seized | Mahdyar
 language: en
 status: processed
+tier: own
 publisher: mahdyarmahdyar.bandcamp.com
 ---
 

@@ -4,6 +4,7 @@ title: Koala
 language: en
 publisher: Faarjam Saidi
 status: processed
+tier: discography
 ---
 
 > Koala

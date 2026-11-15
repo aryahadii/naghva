@@ -3,7 +3,7 @@ url: https://www.dazeddigital.com/music/article/40412/1/yona-artificial-intellig
 title: Speaking to Yona, the AI singer-songwriter making haunting love songs | Dazed
 kind: web page
 language: en
-tier: press
+tier: journalism
 status: processed
 ---
 

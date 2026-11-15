@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/avaze-majar-live-concert-feat-ebrahim-mons
 title: Avaze Majar (Live Concert) [feat. Ebrahim Monsefi] - Single
 status: processed
 publisher: Apple Music
-tier: own
+tier: discography
 language: en
 ---
 

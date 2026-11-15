@@ -4,7 +4,7 @@ title: Listen to Oh My God (Sleepnet X Sevdaliza Remix) - Single by Sevdaliza | 
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Spotify
 about:
 - Qf36fnd

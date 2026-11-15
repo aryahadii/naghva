@@ -4,7 +4,7 @@ title: Stream KIOSK music | Listen to songs, albums, playlists for free on Sound
 language: en
 publisher: SoundCloud
 status: processed
-tier: own
+tier: discography
 about:
 - Kiosk
 - کیوسک

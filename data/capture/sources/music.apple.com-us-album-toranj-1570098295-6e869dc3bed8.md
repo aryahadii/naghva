@@ -4,6 +4,7 @@ title: Toranj - Album by Mohsen Namjoo - Apple Music
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > Toranj - Album by Mohsen Namjoo

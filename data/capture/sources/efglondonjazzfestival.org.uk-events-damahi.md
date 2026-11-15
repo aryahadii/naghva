@@ -5,7 +5,7 @@ title: "Damahi | EFG London Jazz Festival"
 status: processed
 kind: web page
 language: en
-tier: event
+tier: other
 publisher: "EFG London Jazz Festival"
 about:
 - Qep6nz6

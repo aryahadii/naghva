@@ -3,6 +3,7 @@ url: https://actrecords.bandcamp.com/album/unspoken
 title: Unspoken
 language: en
 status: processed
+tier: own
 ---
 
 > 2026, ACT Music + Vision GmbH & Co. KG

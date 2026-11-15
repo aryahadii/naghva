@@ -4,6 +4,7 @@ title: Moon and Stone - Album by Rana Farhan - Apple Music
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > Moon and Stone by Rana Farhan on Apple Music

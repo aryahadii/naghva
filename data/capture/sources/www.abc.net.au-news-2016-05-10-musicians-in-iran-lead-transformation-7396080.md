@@ -3,7 +3,7 @@ url: "https://www.abc.net.au/news/2016-05-10/musicians-in-iran-lead-transformati
 title: "Former underground musicians in Iran lead cultural transformation"
 kind: "web page"
 language: "en"
-tier: "journalism"
+tier: journalism
 status: "processed"
 ---
 

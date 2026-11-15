@@ -5,7 +5,7 @@ title: Geryeh Nakon | Soofi (Official Music Video)
 status: processed
 kind: video
 language: mul
-tier: own
+tier: discography
 about:
 - Soofi Namazi
 - صوفی نمازی

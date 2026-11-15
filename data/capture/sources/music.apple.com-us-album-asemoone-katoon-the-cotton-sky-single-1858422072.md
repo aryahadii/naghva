@@ -4,7 +4,7 @@ title: "Asemoone Katoon (The Cotton Sky) - Single - Album by Sara Naeini, Sepino
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: "Apple Music"
 about:
 - Qb23qew

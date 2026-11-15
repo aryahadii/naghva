@@ -4,6 +4,7 @@ title: Parallel Establishments - Album by Kiosk - Apple Music
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > Parallel Establishments by Kiosk on Apple Music

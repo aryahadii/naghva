@@ -4,7 +4,7 @@ title: The Vulture – King Raam – Apple Music
 language: en
 publisher: Apple Music
 status: processed
-tier: own
+tier: discography
 ---
 
 > The Vulture - Album by King Raam - Apple Music

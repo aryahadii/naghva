@@ -5,7 +5,7 @@ title: "Listen to Yare Roozaye Roshan - Single by Reza Rohani | Spotify"
 status: processed
 kind: web page
 language: mul
-tier: own
+tier: discography
 publisher: "Spotify"
 about:
 - Qb23qew

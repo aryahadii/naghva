@@ -2,6 +2,7 @@
 url: https://open.spotify.com/artist/0XZmzuZX5WJQsGs56SZT80
 title: Omid Nemati — Spotify artist
 status: processed
+tier: discography
 language: en
 publisher: Spotify
 ---

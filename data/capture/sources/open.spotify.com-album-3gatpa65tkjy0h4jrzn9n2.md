@@ -4,7 +4,7 @@ title: Listen to Mah - Single by Kiosk | Spotify
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Spotify
 about:
 - Qtgn2be

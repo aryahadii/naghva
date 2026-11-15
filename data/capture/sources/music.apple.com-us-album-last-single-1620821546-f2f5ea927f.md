@@ -2,6 +2,7 @@
 url: https://music.apple.com/us/album/last-single/1620821546
 title: Last - Single - Album by Hesam Inanlou & Golfam Khayam - Apple Music
 status: processed
+tier: discography
 ---
 
 > Listen to Last - Single by Hesam Inanlou & Golfam Khayam on Apple Music. 2022. 1 Song. Duration: 5 minutes.

@@ -4,6 +4,7 @@ title: Mastom Mastom & Asmar Asmar — Kourosh Yaghmaei Official Channel
 language: fa
 publisher: Kourosh Yaghmaei
 status: processed
+tier: own
 ---
 
 > مستُم مستُم و اسمر اسمر

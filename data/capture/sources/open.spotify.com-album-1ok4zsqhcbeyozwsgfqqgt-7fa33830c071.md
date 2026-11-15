@@ -3,7 +3,7 @@ url: https://open.spotify.com/album/1ok4ZSqHCbEyozwSgFqqgt
 title: Sham o Parvaneh — exact Spotify programme
 kind: web page
 language: mul
-tier: platform
+tier: discography
 status: processed
 ---
 

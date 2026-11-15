@@ -2,6 +2,7 @@
 url: https://music.apple.com/us/album/the-price-of-freedom/1517699810
 title: The Price of Freedom - Album by Salome MC - Apple Music
 status: processed
+tier: discography
 ---
 
 > Listen to The Price of Freedom by Salome MC on Apple Music. 2013. 10 Songs. Duration: 38 minutes.

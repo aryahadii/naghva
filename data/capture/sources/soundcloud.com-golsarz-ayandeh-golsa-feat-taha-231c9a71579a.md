@@ -5,7 +5,7 @@ title: Stream Ayandeh - Golsa feat. Taha Mazaheri by Golsa | Listen online for f
 status: processed
 kind: web page
 language: mul
-tier: own
+tier: discography
 ---
 
 > Vocals , Words : Golsa

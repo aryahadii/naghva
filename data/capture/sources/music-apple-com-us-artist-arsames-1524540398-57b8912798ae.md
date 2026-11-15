@@ -4,6 +4,7 @@ title: Arsames
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > Albums

@@ -5,7 +5,7 @@ title: "The Poet (feat. Mohammad Moussavi) - Golsa"
 status: "processed"
 kind: "web page"
 language: "mul"
-tier: "own"
+tier: discography
 about: ["Moody Moussavi", "Golsa", "The Poet"]
 ---
 

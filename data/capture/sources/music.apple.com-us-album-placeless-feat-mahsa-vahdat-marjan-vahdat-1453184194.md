@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/placeless-feat-mahsa-vahdat-marjan-vahdat/
 title: Placeless (feat. Mahsa Vahdat & Marjan Vahdat) - Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Placeless (feat. Mahsa Vahdat & Marjan Vahdat) - Apple Music
 status: processed

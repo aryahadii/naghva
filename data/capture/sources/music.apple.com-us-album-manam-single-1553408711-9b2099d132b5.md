@@ -4,6 +4,7 @@ title: Manam - Single - Album by Omid Nemati & Ramin behna - Apple Music
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > Listen to Manam - Single by Omid Nemati & Ramin behna on Apple Music. 2021.

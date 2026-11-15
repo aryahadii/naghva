@@ -3,7 +3,7 @@ url: "https://cult.news/actualites/habib-meftah-un-des-plus-grands-percussionnis
 title: "Habib Meftah, un des plus grands percussionnistes iranien en exil"
 kind: "web page"
 language: "fr"
-tier: "journalism"
+tier: journalism
 status: "processed"
 ---
 

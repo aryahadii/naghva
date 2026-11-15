@@ -4,6 +4,7 @@ title: Shaytoon | Sepehr
 language: en
 publisher: Sepehr
 status: processed
+tier: own
 ---
 
 > We are proud to welcome back San Francisco based DJ and producer Sepehr Alimagham for his debut album ‘Shaytoon’.

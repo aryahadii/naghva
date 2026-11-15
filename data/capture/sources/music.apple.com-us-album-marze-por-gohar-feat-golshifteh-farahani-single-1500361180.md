@@ -4,6 +4,7 @@ title: Marze Por Gohar (feat. Golshifteh Farahani) - Single by Ali Azimi on Appl
 language: mul
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > Marze Por Gohar (feat. Golshifteh Farahani) - Single by Ali Azimi on Apple Music

@@ -4,7 +4,7 @@ title: Attar Boulevard - Album by Rana Farhan - Apple Music
 language: en
 publisher: Apple Music
 status: processed
-tier: own
+tier: discography
 ---
 
 > Attar Boulevard

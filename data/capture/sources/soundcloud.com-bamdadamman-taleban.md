@@ -3,7 +3,7 @@ url: https://soundcloud.com/bamdadamman/taleban
 title: Taleban
 kind: web page
 language: en
-tier: primary
+tier: discography
 status: processed
 ---
 

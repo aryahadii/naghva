@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/ayeneh-single/1694837095
 title: Ayeneh - Single — Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 status: processed
 ---
 

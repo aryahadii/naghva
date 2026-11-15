@@ -4,7 +4,7 @@ title: Listen to Gole Yakh - Persian Music - Album by Kourosh Yaghmaei | Spotify
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Spotify
 about:
 - Qkza58w

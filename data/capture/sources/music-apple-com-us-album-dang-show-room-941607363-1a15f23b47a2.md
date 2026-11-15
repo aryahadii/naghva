@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/dang-show-room/941607363
 title: Dang Show Room — Apple Music
 kind: web page
 language: en
-tier: primary
+tier: discography
 status: processed
 ---
 

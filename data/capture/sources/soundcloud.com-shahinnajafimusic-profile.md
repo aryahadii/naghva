@@ -3,7 +3,7 @@ url: https://soundcloud.com/shahinnajafimusic
 title: ShahinNajafi | SoundCloud
 kind: web page
 language: en
-tier: own
+tier: discography
 status: processed
 ---
 

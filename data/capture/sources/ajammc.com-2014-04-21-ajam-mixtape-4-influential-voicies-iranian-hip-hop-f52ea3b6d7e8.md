@@ -5,6 +5,7 @@ language: en
 author: Kamyar Jarahzadeh
 publisher: Ajam Media Collective
 status: processed
+tier: journalism
 ---
 
 > 3) Yas ft. Tech N9ne – Sound of Unity

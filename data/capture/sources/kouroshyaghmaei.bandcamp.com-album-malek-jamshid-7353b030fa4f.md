@@ -3,6 +3,7 @@ url: https://kouroshyaghmaei.bandcamp.com/album/malek-jamshid
 title: Malek Jamshid
 language: en
 status: processed
+tier: own
 publisher: kouroshyaghmaei.bandcamp.com
 ---
 

@@ -3,7 +3,7 @@ url: https://soundcloud.com/moodymoussavi/nad-r
 title: Nadārī - نداری — Moody Moussavi
 kind: web page
 language: mul
-tier: own
+tier: discography
 status: processed
 ---
 

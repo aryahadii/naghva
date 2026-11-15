@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/deja-vu-single/1642689015
 title: Deja Vu - Single - Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Kaveh Yaghmaei
 status: processed

@@ -2,6 +2,7 @@
 url: https://music.apple.com/us/album/warp-and-weft-feat-koohsar-single/1531519142
 title: Warp and Weft (feat. Koohsar) - Single - Album by Salome MC - Apple Music
 status: processed
+tier: discography
 archive: https://web.archive.org/web/20250225120113/https://music.apple.com/us/album/warp-and-weft-feat-koohsar-single/1531519142
 ---
 

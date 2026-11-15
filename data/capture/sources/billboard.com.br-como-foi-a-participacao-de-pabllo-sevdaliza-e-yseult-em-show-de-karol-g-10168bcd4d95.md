@@ -4,6 +4,7 @@ title: Como foi a participação de Pabllo, Sevdaliza e Yseult em show de Karol 
 language: pt
 publisher: Billboard Brasil
 status: processed
+tier: journalism
 ---
 
 > Karol G fez sua estreia triunfal no Palco Mundo do Rock in Rio 2024 nesta sexta-feira (20). Um dos pontos altos do show foi a aparição de Pabllo Vittar, Sevdaliza e Yseult para uma performance de “Alibi”.

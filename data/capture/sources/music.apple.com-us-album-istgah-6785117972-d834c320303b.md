@@ -4,6 +4,7 @@ title: Istgah - Album by Omid Nemati & Mahyar Alizadeh - Apple Music
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > Istgah - Album by Omid Nemati & Mahyar Alizadeh

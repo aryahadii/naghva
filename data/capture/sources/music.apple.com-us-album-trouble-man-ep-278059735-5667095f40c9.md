@@ -4,6 +4,7 @@ title: Trouble Man - EP - Album by Sussan Deyhim
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > Trouble Man - EP — Album by Sussan Deyhim

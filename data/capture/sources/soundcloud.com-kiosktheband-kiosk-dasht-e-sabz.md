@@ -2,7 +2,7 @@
 url: https://soundcloud.com/kiosktheband/kiosk-dasht-e-sabz
 title: Stream Kiosk Dasht e Sabz by KIOSK | Listen online for free on SoundCloud
 status: processed
-tier: own
+tier: discography
 publisher: soundcloud.com
 ---
 

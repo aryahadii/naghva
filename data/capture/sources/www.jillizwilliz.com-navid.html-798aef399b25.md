@@ -4,6 +4,7 @@ title: Navid Ghaleb
 kind: web page
 language: mul
 status: processed
+tier: own
 alternate urls:
 - https://www.jillizwilliz.com/navid.html
 ---

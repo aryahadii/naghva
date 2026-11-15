@@ -4,7 +4,7 @@ title: Joone Jaddet - Jetpack
 status: processed
 kind: web page
 language: fa
-tier: own
+tier: discography
 part of: soundcloud.com-jetpack-64687177-395b7c06b9b3
 about:
 - Jetpack

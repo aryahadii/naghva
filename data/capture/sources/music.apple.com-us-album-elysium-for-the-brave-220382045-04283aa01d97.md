@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/elysium-for-the-brave/220382045
 title: ‎Elysium for the Brave - Album by Azam Ali - Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 status: processed
 ---
 

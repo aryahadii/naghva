@@ -4,6 +4,7 @@ title: Alaki - Album by Mohsen Namjoo - Apple Music
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > Alaki - Album by Mohsen Namjoo - Apple Music

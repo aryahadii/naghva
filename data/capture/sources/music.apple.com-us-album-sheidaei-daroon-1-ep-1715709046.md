@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/sheidaei-daroon-1-ep/1715709046
 title: Sheidaei Daroon 1 - EP - Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Kaveh Yaghmaei
 status: processed

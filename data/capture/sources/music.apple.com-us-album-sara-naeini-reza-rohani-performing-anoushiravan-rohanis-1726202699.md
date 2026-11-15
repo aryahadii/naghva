@@ -5,7 +5,7 @@ title: Sara Naeini & Reza Rohani Performing Anoushiravan Rohani's Compositions -
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Sara Naeini
 - Reza Rohani

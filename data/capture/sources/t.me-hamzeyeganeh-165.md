@@ -3,7 +3,7 @@ url: https://t.me/hamzeyeganeh/165
 title: Hand In Hand studio credits | Hamzeh Yeganeh
 kind: web page
 language: fa
-tier: primary
+tier: own
 about:
 - حمزه یگانه
 status: processed

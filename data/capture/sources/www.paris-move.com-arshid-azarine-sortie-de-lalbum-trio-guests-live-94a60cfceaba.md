@@ -2,6 +2,7 @@
 url: https://www.paris-move.com/arshid-azarine-sortie-de-lalbum-trio-guests-live/
 title: 'Arshid Azarine: sortie de l’album Trio + Guests Live'
 status: processed
+tier: journalism
 kind: web page
 language: fr
 ---

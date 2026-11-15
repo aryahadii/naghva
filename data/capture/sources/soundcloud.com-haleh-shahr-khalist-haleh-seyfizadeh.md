@@ -3,7 +3,7 @@ url: https://soundcloud.com/haleh_seyfizadeh/shahr-khalist-haleh-seyfizadeh
 title: SHÀHR KHÂLIST - Haleh Seyfizadeh
 kind: web page
 language: mul
-tier: own
+tier: discography
 status: processed
 ---
 

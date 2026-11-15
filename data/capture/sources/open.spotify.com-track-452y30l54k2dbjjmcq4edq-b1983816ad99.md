@@ -4,7 +4,7 @@ title: Feragh - song and lyrics by Makan Ashgvari, Mo Shariat, Rian | Spotify
 status: processed
 kind: web page
 language: mul
-tier: own
+tier: discography
 ---
 
 > Feragh - song and lyrics by Makan Ashgvari, Mo Shariat, Rian | Spotify

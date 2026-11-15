@@ -2,7 +2,7 @@
 url: https://open.spotify.com/album/0TT7gSYro7GSKZwUlPefBf
 title: Listen to The Suspended Kid - EP by Sevdaliza | Spotify
 status: processed
-tier: own
+tier: discography
 kind: web page
 about:
 - Sevdaliza

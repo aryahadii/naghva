@@ -4,6 +4,7 @@ title: Porya Hatami
 language: en
 publisher: Porya Hatami
 status: processed
+tier: own
 ---
 
 > Porya Hatami (b.1981) is an experimental sound artist based in Sanandaj, Iran.

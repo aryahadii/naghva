@@ -4,7 +4,7 @@ title: The Train That Never Stopped (In Memory of My Mother, Talat, 2008) - Sing
   - Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - The Train That Never Stopped (In Memory of My Mother, Talat, 2008) - Single - Apple
   Music

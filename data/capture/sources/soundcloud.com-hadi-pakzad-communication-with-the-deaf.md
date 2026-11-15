@@ -3,7 +3,7 @@ url: https://soundcloud.com/hadi-pakzad/communication-with-the-deaf
 title: Communication With The Deaf - Hadi Pakzad | SoundCloud
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Hadi Pakzad
 status: processed

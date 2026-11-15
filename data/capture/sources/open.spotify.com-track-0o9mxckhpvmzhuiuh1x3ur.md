@@ -4,7 +4,7 @@ title: Baroon Baroon - song and lyrics by Sharyar, Rian | Spotify
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 ---
 
 > Baroon Baroon - song and lyrics by Sharyar, Rian | Spotify

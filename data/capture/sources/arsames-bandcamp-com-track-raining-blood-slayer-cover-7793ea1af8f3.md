@@ -4,6 +4,7 @@ title: Raining Blood (Slayer Cover)
 language: en
 publisher: Arsames (Bandcamp)
 status: processed
+tier: own
 ---
 
 > released December 1, 2014

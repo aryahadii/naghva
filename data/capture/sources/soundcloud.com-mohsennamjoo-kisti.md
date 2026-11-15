@@ -3,7 +3,7 @@ url: https://soundcloud.com/mohsennamjoo/kisti
 title: Kisti? | Mohsen Namjoo
 kind: track page
 language: mul
-tier: own
+tier: discography
 status: processed
 about:
 - Kābin

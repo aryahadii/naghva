@@ -3,7 +3,7 @@ url: https://soundcloud.com/hichkasofficial/haminjoori
 title: Haminjoori on SoundCloud
 kind: web page
 language: mul
-tier: own
+tier: discography
 status: processed
 accessed: '2026-10-23'
 author: Hichkas

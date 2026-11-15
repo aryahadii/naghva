@@ -3,7 +3,7 @@ url: https://www.theransomnote.com/music/interviews/extension-of-self-ash-koosha
 title: 'Extension of Self: Ash Koosha Talks - Ransom Note'
 kind: web page
 language: en
-tier: press
+tier: journalism
 status: processed
 ---
 

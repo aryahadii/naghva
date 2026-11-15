@@ -4,6 +4,7 @@ title: White Tree | Spotify player
 language: en
 publisher: Spotify
 status: processed
+tier: discography
 ---
 
 > spotify:album:2pQxUX9di2QO1v7g539kO0

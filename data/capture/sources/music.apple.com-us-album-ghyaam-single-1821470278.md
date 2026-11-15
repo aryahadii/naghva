@@ -4,7 +4,7 @@ title: Ghyaam - Single - Album by Shahin Najafi & Ramin Sokouty - Apple Music
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Apple Music
 about:
 - Qn7vfak

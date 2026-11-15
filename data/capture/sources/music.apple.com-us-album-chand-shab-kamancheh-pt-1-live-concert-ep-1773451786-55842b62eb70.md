@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/chand-shab-kamancheh-pt-1-live-concert-ep/
 title: ‎Chand Shab Kamancheh, Pt. 1 (Live Concert) - EP - Album by Saba Alizadeh - Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 status: processed
 ---
 

@@ -3,7 +3,7 @@ url: https://www.youtube.com/watch?v=jWurIZtoJ28
 title: ای کاش… - kaveh salehi
 kind: youtube video
 language: en
-tier: own
+tier: discography
 about:
 - Kaveh Salehi
 status: processed

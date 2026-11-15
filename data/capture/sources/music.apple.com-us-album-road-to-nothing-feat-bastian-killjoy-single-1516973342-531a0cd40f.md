@@ -2,6 +2,7 @@
 url: https://music.apple.com/us/album/road-to-nothing-feat-bastian-killjoy-single/1516973342
 title: Road To Nothing (feat. Bastian Killjoy) - Single - Album by Salome MC - Apple Music
 status: processed
+tier: discography
 ---
 
 > Listen to Road To Nothing (feat. Bastian Killjoy) - Single by Salome MC on Apple Music. 2014. 1 Song. Duration: 3 minutes.

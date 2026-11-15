@@ -4,6 +4,7 @@ title: I AKA I / Ash Koosha / Release / Ninja Tune
 language: en
 publisher: Ninja Tune
 status: processed
+tier: own
 ---
 
 > Ninja Tune are proud to announce the forthcoming release of a new album, I AKA I, from Ash Koosha. Born in Iran and currently living in London, Ash makes the kind of “mind-bending electronic music” (Pitchfork), which has had the cognoscenti buzzing for months.

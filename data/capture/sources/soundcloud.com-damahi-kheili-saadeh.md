@@ -5,7 +5,7 @@ title: "Kheili Saadeh - (خیلی ساده (بیمار استاندارد by Dam
 status: processed
 kind: web page
 language: mul
-tier: own
+tier: discography
 publisher: "SoundCloud"
 about:
 - Qep6nz6

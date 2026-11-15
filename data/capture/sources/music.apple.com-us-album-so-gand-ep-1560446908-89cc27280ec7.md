@@ -4,6 +4,7 @@ title: So-Gand - EP - Album by Ballgard - Apple Music
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > So-Gand - EP - Album by Ballgard - Apple Music

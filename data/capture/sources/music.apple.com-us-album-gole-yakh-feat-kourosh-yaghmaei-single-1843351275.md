@@ -4,7 +4,7 @@ title: Gole Yakh (feat. Kourosh Yaghmaei) - Single - Album by Dochar - Apple Mus
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Apple Music
 about:
 - Qkza58w

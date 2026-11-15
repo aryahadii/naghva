@@ -4,6 +4,7 @@ title: Songs from UR by Sussan Deyhim & Torsten Rasch
 language: en
 publisher: Sussan Deyhim Gallery
 status: processed
+tier: own
 ---
 
 > Songs from UR by Sussan Deyhim & Torsten Rasch

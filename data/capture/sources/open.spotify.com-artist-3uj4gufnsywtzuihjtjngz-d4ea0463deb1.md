@@ -4,7 +4,7 @@ title: Listen to Taha Mazaheri Songs | Spotify
 status: processed
 kind: web page
 language: mul
-tier: own
+tier: discography
 ---
 
 > Born in 1997 in Tehran, Iran, Taha Mazaheri is a guitarist, songwriter, and

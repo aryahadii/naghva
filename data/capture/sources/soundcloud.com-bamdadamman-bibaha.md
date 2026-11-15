@@ -2,7 +2,7 @@
 url: https://soundcloud.com/bamdadamman/bibaha
 title: Stream Bi Baha [Prod. Tahrang] by Bamdad | Listen online for free on SoundCloud
 status: processed
-tier: own
+tier: discography
 publisher: soundcloud.com
 ---
 

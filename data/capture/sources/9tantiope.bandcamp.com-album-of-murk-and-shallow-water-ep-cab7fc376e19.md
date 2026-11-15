@@ -3,6 +3,7 @@ url: https://9tantiope.bandcamp.com/album/of-murk-and-shallow-water-ep
 title: '"Of Murk and Shallow Water" EP | 9T Antiope'
 language: en
 status: processed
+tier: own
 publisher: 9tantiope.bandcamp.com
 ---
 

@@ -4,6 +4,7 @@ title: Yas (rapper)
 language: en
 publisher: Wikipedia
 status: processed
+tier: wikipedia
 archive: https://web.archive.org/web/20250813043432/https://en.wikipedia.org/wiki/Yas_(rapper)
 ---
 

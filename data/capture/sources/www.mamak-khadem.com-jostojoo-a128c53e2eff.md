@@ -4,6 +4,7 @@ title: Jostojoo
 language: en
 publisher: Mamak Khadem
 status: processed
+tier: own
 ---
 
 > All arrangements by Jamshied Sharifi and Mamak Khadem except “Heydar” arranged by Omar Faruk Tekbilek, Jamshied Sharifi, and Mamak Khadem

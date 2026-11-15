@@ -3,7 +3,7 @@ url: https://open.spotify.com/album/0P1Lr2EeAb7WMYmFGyWjXi
 title: Baad O Otobaan — Bomrani — Spotify
 kind: web page
 language: en
-tier: own
+tier: discography
 status: processed
 ---
 

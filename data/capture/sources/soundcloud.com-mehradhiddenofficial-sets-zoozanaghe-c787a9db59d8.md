@@ -3,7 +3,7 @@ url: https://soundcloud.com/mehradhiddenofficial/sets/zoozanaghe
 title: Zoozanaghe
 kind: web page
 language: mul
-tier: own
+tier: discography
 status: processed
 ---
 

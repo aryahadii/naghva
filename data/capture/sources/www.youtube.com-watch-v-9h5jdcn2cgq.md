@@ -5,7 +5,7 @@ title: "9. Âshéghânéhâ -  عاشقانه‌ها (Arash Fouladvand feat Nigi
 status: processed
 kind: youtube video
 language: mul
-tier: own
+tier: discography
 publisher: "Arash Fouladvand"
 issued:
   date: '2024-12-20'

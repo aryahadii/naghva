@@ -4,7 +4,7 @@ title: Mastam Baat - Single - Album by Erfan, Shahin Najafi & Morvarid - Apple M
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Apple Music
 about:
 - Qn7vfak

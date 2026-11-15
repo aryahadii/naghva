@@ -4,6 +4,7 @@ title: Mahsa Vahdat
 language: en
 publisher: Six Degrees Records
 status: processed
+tier: own
 ---
 
 > Mahsa was born October 29, 1973 in Tehran.

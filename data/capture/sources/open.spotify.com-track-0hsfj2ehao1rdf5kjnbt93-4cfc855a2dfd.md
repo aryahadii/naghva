@@ -4,7 +4,7 @@ title: Perfume - song and lyrics by Elements of a Dream, Taha Mazaheri | Spotify
 status: processed
 kind: web page
 language: mul
-tier: own
+tier: discography
 ---
 
 > Perfume - song and lyrics by Elements of a Dream, Taha Mazaheri | Spotify

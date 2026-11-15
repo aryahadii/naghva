@@ -3,7 +3,7 @@ url: "https://en.wikipedia.org/wiki/Sussan_Deyhim"
 title: "Sussan Deyhim"
 kind: "web page"
 language: "en"
-tier: "other"
+tier: other
 status: "processed"
 ---
 

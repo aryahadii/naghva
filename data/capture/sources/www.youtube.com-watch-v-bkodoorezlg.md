@@ -3,7 +3,7 @@ url: https://www.youtube.com/watch?v=BkODOOrEZLg
 title: Marde Ankabouti - Kaveh Yaghmaei
 kind: youtube video
 language: en
-tier: own
+tier: discography
 about:
 - Kaveh Yaghmaei
 status: processed

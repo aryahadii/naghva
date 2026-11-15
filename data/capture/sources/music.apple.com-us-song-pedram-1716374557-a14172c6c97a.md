@@ -4,6 +4,7 @@ title: ‎Pedram - Song with Lyrics by Milad Derakhshani - Apple Music
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > "name":"Milad Derakhshani","roleNames":["Acoustic Guitar"]

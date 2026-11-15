@@ -4,7 +4,7 @@ title: "O'cheikh (feat. Kamran Jahanbani & Sara Naeini) - Song with Lyrics by Re
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: "Apple Music"
 about:
 - Qb23qew

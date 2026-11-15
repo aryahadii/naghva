@@ -5,7 +5,7 @@ title: Baron (Ft. Reza Koolaghani) by Majid Salari
 status: processed
 kind: web page
 language: mul
-tier: own
+tier: discography
 ---
 
 > Vocal & Composer: @MajidSalari Guest Vocalist: Reza Koolaghani  Lyrics: Amir Mehdi Asghari  Piano: Hamzeh Yeganeh Bass & Acoustic Guitar: Ebrahim Alavi Drums: Shayan Fathi Folk Percussion: Amir Tayari  Arrangement: Hamzeh Yeganeh Mix & Mastering: Arash Pakzad  Cover Art: @MortezaQaemi

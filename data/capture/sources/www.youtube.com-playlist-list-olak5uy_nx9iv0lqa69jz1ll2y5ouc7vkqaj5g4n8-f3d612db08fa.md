@@ -4,7 +4,7 @@ title: Back From The Brink YouTube Music album playlist
 kind: album playlist
 language: en
 publisher: YouTube
-tier: platform catalog
+tier: discography
 status: processed
 ---
 

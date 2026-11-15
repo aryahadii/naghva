@@ -5,7 +5,7 @@ kind: web page
 language: en
 publisher: Apple Music
 status: processed
-tier: own
+tier: discography
 about:
 - Qajhty5
 archive: https://web.archive.org/web/20220718202048/https://music.apple.com/us/album/dastgaah/148262671

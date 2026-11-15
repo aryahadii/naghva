@@ -4,7 +4,7 @@ title: Listen to BAAQ - Single by Yas | Spotify
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Spotify
 about:
 - Qx3svqf

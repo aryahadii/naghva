@@ -4,7 +4,7 @@ title: Children of Silk (feat. Rome Fortune) - EP
 language: en
 publisher: Apple Music
 status: processed
-tier: own
+tier: discography
 ---
 
 > ‎Children of Silk (feat. Rome Fortune) - EP - Album by Sevdaliza - Apple Music

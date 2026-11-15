@@ -2,7 +2,7 @@
 url: https://music.apple.com/us/album/in-majara-feat-makan-ashgvari-single/1546946316
 title: In Majara (feat. Makan Ashgvari) - Single
 language: en
-tier: own
+tier: discography
 status: processed
 ---
 

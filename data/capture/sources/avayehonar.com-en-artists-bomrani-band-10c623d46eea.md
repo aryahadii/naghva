@@ -4,6 +4,7 @@ title: Bomrani band
 language: en
 publisher: Avaye Honar
 status: processed
+tier: journalism
 ---
 
 > Shortly after that, they started writing material for their next album, in the meantime, “Abtin Yaghmaeian”, the drums player left the band after collaboration with the band in composing some tracks of the new album. “Leaving and Passing By” was released in January 2017.

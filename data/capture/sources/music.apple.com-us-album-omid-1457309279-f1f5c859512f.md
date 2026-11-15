@@ -4,6 +4,7 @@ title: Omid - Album by Tara Tiba - Apple Music
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > Omid Tara Tiba

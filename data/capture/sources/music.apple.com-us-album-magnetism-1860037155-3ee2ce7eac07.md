@@ -4,6 +4,7 @@ title: Magnetism - Album by Mohsen Namjoo & Kābin - Apple Music
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > Magnetism - Album by Mohsen Namjoo & Kābin - Apple Music

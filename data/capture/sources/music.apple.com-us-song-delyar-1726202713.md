@@ -4,7 +4,7 @@ title: "Delyar - Song with Lyrics by Anoushirvan Rohani, Sara Naeini & Reza Roha
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: "Apple Music"
 about:
 - Qb23qew

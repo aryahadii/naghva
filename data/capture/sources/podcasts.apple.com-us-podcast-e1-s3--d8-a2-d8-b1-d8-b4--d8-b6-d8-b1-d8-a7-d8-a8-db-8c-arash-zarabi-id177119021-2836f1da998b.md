@@ -4,6 +4,7 @@ title: E1-S3 آرش ضرابی - Arash zarabi
 language: fa
 publisher: Gooshgir
 status: processed
+tier: journalism
 ---
 
 > در این قسمت میزبان آرش ضرابی، نوازنده گیتار بیس، کنترباس، پرودیوسر و بنیانگذار گروه «نینجاهای بدشانس» هستیم.

@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/portals-of-grace/723461689
 title: ‎Portals of Grace - Album by Azam Ali - Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 status: processed
 ---
 

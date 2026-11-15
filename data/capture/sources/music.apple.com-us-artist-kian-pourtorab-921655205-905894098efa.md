@@ -4,7 +4,7 @@ title: Kian Pourtorab | Apple Music
 language: en
 publisher: Apple Music
 status: processed
-tier: own
+tier: discography
 kind: web page
 ---
 

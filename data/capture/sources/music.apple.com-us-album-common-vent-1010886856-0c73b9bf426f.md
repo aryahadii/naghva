@@ -4,6 +4,7 @@ title: Common Vent - Album by Bomrani - Apple Music
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > Circus (feat. Arshia Jam & Martin Shamoonpour)

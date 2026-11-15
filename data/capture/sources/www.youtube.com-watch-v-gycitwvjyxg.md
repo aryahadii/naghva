@@ -4,7 +4,7 @@ title: "Ghami Ghamnak"
 status: processed
 kind: youtube video
 language: mul
-tier: own
+tier: discography
 publisher: "Sara Naeini"
 issued:
   date: '2021-02-26'

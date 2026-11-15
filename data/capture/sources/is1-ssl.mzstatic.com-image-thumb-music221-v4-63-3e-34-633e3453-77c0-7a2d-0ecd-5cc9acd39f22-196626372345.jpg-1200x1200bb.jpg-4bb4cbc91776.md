@@ -3,7 +3,7 @@ url: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/63/3e/34/633e3453-77c0
 title: Ta Rahaee — whole cover
 kind: cover image
 language: mul
-tier: own
+tier: discography
 about:
 - Qnjntqs
 status: processed

@@ -4,7 +4,7 @@ title: Majid Salari — artist profile
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 ---
 
 > Majid Salari

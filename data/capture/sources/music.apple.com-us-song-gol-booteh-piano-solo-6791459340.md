@@ -4,7 +4,7 @@ title: "Gol Booteh (Piano Solo) - Song with Lyrics by Hamzeh Yeganeh & Damahi - 
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: "Apple Music"
 about:
 - Qep6nz6

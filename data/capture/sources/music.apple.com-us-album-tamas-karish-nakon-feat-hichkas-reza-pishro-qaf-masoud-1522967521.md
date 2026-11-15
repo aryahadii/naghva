@@ -4,7 +4,7 @@ title: Tamas Karish Nakon (feat. Hichkas, Reza Pishro, Qaf & Masoud Saeedi) - Si
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Apple Music
 about:
 - Qgyvbw3

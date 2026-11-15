@@ -4,6 +4,7 @@ title: SXSW Interview with Iranian Rock Band TarantisT
 language: en
 author: Parnia Razi
 status: processed
+tier: journalism
 ---
 
 > TarantisT is a rock band from Tehran, the capital city of Iran.

@@ -5,7 +5,7 @@ language: en
 publisher: SoundCloud
 status: processed
 kind: album page
-tier: own
+tier: discography
 about:
 - Kābin
 - Mohsen Namjoo

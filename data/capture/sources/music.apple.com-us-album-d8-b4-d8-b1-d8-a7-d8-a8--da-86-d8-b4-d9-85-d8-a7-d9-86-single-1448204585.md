@@ -4,7 +4,7 @@ title: شراب چشمان - Single - Album by Mohsen Namjoo & Ehsan Matoori - A
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Apple Music
 about:
 - Qt6wjbg

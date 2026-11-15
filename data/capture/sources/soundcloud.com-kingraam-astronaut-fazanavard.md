@@ -3,7 +3,7 @@ url: https://soundcloud.com/kingraam/astronaut-fazanavard
 title: Astronaut (Fazanavard) by King Raam
 kind: web page
 language: mul
-tier: own
+tier: discography
 status: processed
 archive: https://web.archive.org/web/*/https://soundcloud.com/kingraam/astronaut-fazanavard
 ---

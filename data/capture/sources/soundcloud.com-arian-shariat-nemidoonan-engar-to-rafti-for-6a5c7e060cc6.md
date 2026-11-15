@@ -4,7 +4,7 @@ title: Stream Nemidoonan Engar To Rafti (For Soroush) by Rian / آرین | Liste
 status: processed
 kind: web page
 language: mul
-tier: own
+tier: discography
 ---
 
 > گیتار الکتریک: طاها مظاهری

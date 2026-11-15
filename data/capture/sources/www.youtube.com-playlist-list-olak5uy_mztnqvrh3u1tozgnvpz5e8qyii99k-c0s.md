@@ -3,7 +3,7 @@ url: https://www.youtube.com/playlist?list=OLAK5uy_mzTnqvRH3U1tOZgnVPz5E8QyIi99K
 title: Nagahan Rafte - YouTube
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Kaveh Yaghmaei
 status: processed

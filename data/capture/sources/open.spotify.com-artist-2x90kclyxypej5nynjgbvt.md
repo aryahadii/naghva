@@ -4,7 +4,7 @@ title: Listen to Hichkas Songs | Spotify
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Spotify
 about:
 - Hichkas

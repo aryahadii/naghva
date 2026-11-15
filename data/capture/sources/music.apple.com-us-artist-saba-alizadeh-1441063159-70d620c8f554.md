@@ -4,7 +4,7 @@ title: ‎Saba Alizadeh - Apple Music
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 ---
 
 > ‎Saba Alizadeh - Apple Music

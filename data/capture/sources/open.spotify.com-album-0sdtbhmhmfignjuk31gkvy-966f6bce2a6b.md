@@ -3,7 +3,7 @@ url: https://open.spotify.com/album/0SDTBHmHmfIgNjuK31GKVy
 title: Khatereh — exact Spotify programme
 kind: web page
 language: mul
-tier: platform
+tier: discography
 status: processed
 ---
 

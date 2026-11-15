@@ -4,7 +4,7 @@ title: Marjaneh (feat. Mohsen Namjoo) - Single - Album by Mahmood Schricker - Ap
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Apple Music
 about:
 - Qt6wjbg

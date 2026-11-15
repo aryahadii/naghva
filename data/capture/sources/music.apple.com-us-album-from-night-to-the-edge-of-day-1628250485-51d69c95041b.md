@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/from-night-to-the-edge-of-day/1628250485
 title: ‎From Night to the Edge of Day - Album by Azam Ali - Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 status: processed
 ---
 

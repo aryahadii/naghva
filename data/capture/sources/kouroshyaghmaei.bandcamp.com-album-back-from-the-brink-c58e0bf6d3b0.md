@@ -3,6 +3,7 @@ url: https://kouroshyaghmaei.bandcamp.com/album/back-from-the-brink
 title: Back From The Brink
 language: en
 status: processed
+tier: own
 publisher: kouroshyaghmaei.bandcamp.com
 ---
 

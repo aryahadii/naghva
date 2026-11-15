@@ -4,7 +4,7 @@ title: HEROINA - Album by Sevdaliza
 language: en
 publisher: Apple Music
 status: processed
-tier: own
+tier: discography
 ---
 
 > ‎HEROINA - Album by Sevdaliza - Apple Music

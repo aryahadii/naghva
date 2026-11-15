@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/koala-ep/1269564777
 title: Koala - EP - Album by Faarjam - Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Faarjam
 status: processed

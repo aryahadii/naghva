@@ -4,6 +4,7 @@ title: Yellow Sky Blue Sun - Album by Bomrani - Apple Music
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > Listen to Yellow Sky Blue Sun by Bomrani on Apple Music. 2010. 10 Songs. Duration: 33 minutes.

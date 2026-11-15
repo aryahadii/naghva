@@ -2,6 +2,7 @@
 url: https://music.apple.com/us/album/airplanes-single/1583459531
 title: Airplanes - Single
 status: processed
+tier: discography
 language: en
 publisher: Apple Music
 ---

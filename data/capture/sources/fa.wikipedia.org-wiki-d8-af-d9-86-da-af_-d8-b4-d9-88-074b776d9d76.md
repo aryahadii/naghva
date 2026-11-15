@@ -4,7 +4,7 @@ title: دنگ شو
 language: fa
 status: processed
 kind: web page
-tier: secondary
+tier: wikipedia
 ---
 
 > در سال ۱۳۹۶، گروه چهارمین آلبوم خود را با نام «مد و نای»

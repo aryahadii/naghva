@@ -4,7 +4,7 @@ title: "The Poet (feat. Golsa) - Apple Music"
 status: "processed"
 kind: "web page"
 language: "en"
-tier: "other"
+tier: other
 about: ["Moody Moussavi", "The Poet (feat. Golsa)"]
 ---
 

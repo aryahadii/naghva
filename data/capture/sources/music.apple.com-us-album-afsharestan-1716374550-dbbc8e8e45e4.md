@@ -4,6 +4,7 @@ title: Afsharestan
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > "name":"Afsharestan"

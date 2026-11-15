@@ -4,6 +4,7 @@ title: Marze Por Gohar - Ali Azimi Ft. Golshifteh Farahani
 publisher: Ali Azimi
 language: en
 status: processed
+tier: discography
 ---
 
 > Marze Por Gohar - Ali Azimi Ft. Golshifteh Farahani

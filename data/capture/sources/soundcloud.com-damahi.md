@@ -5,7 +5,7 @@ title: "Stream Damahi داماهی | Listen to music albums online for free on S
 status: processed
 kind: web page
 language: mul
-tier: own
+tier: discography
 publisher: "SoundCloud"
 about:
 - Qep6nz6

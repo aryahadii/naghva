@@ -135,6 +135,10 @@ class ValidateTests(unittest.TestCase):
             "badnama.en.md: file name must be <item ID>.<language tag>.md",
         )
 
+    def test_tier_is_from_the_list(self):
+        self.edit("capture/sources/example.net-lyrics-badnama.md", "tier: other", "tier: press")
+        self.assertOnlyError(self.run_validator(), "tier: 'press' is not one of")
+
     def test_contributor_needs_a_role(self):
         path = "published/items/release/%s.yaml" % RELEASE
         self.edit(path, "      qualifiers:\n        role: [composer, lyricist]\n", "")

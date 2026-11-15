@@ -4,6 +4,7 @@ title: Be Yadam | Spotify player
 language: en
 publisher: Spotify
 status: processed
+tier: discography
 ---
 
 > spotify:album:7CZWNXTLVKlOD0GobItBdX

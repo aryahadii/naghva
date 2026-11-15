@@ -4,6 +4,7 @@ title: The Calling
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > ‎The Calling - Album by Sevdaliza - Apple Music

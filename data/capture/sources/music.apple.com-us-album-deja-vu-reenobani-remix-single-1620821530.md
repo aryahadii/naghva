@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/deja-vu-reenobani-remix-single/1620821530
 title: Deja Vu (Reenobani Remix) - Single - Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Kaveh Yaghmaei
 status: processed

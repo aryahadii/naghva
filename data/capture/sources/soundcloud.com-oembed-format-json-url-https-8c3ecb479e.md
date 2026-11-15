@@ -2,6 +2,7 @@
 url: https://soundcloud.com/oembed?format=json&url=https://api.soundcloud.com/tracks/258766884
 title: Recording metadata
 status: processed
+tier: discography
 ---
 
 > https://i1.sndcdn.com/artworks-000157865816-ceyzw0-t500x500.jpg

@@ -3,7 +3,7 @@ url: https://www.nixstudios.net/music/hand-in-hand
 title: Hand In Hand | Nix Studios
 kind: web page
 language: en
-tier: primary
+tier: own
 about:
 - حمزه یگانه
 status: processed

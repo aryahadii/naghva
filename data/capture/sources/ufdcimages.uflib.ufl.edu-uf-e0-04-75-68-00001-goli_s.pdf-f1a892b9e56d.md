@@ -4,6 +4,7 @@ title: 'Voices of a Rebellious Generation: Cultural and Political Resistance in 
 language: en
 author: Shabnam Goli
 status: processed
+tier: academic
 ---
 
 > Alireza Pourreza (founder of the band and keyboard player), Kaveh Afagh (lead guitarist and vocalist), Hamed Ghannad (bass player and vocalist), and Iman Mohammadi (drummer and main lyricist)
