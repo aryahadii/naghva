@@ -257,10 +257,13 @@ def _cached(kind, url, make, refresh):
     path = _cache_path(kind, url)
     if path.exists() and not refresh:
         text = path.read_text(encoding="utf-8")
-        return text or None
+        if text:
+            return text
     text = make()
-    path.parent.mkdir(parents=True, exist_ok=True)
-    path.write_text(text or "", encoding="utf-8")
+    if text:
+        # A failure is not kept, so the next run tries the page again.
+        path.parent.mkdir(parents=True, exist_ok=True)
+        path.write_text(text, encoding="utf-8")
     return text
 
 

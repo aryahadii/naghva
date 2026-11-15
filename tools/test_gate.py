@@ -1,6 +1,8 @@
 """Tests for the enrichment gate's code checks. None of them use the network."""
 
+import shutil
 import sys
+import tempfile
 import unittest
 from pathlib import Path
 
@@ -8,6 +10,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 import gate_article  # noqa: E402
 import gate_quotes  # noqa: E402
 import gate_record  # noqa: E402
+import gate_common  # noqa: E402
 from gate_common import platform_of, squash  # noqa: E402
 
 
@@ -38,6 +41,21 @@ class Passages(unittest.TestCase):
 
     def test_a_quoted_address_matches_the_source_address(self):
         self.assertEqual(self.matcher("nothing").match("https://example.com/page"), "found")
+
+
+class Fetching(unittest.TestCase):
+    def setUp(self):
+        folder = tempfile.mkdtemp()
+        self.addCleanup(shutil.rmtree, folder)
+        self.addCleanup(setattr, gate_common, "CACHE", gate_common.CACHE)
+        gate_common.CACHE = Path(folder)
+
+    def test_a_failed_fetch_is_tried_again(self):
+        answers = iter([None, "the page"])
+        fetch = lambda: next(answers)  # noqa: E731
+        self.assertIsNone(gate_common._cached("plain", "https://example.com", fetch, False))
+        self.assertEqual(gate_common._cached("plain", "https://example.com", fetch, False), "the page")
+        self.assertEqual(gate_common._cached("plain", "https://example.com", None, False), "the page")
 
 
 class Claims(unittest.TestCase):
