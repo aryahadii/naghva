@@ -1,51 +1,9 @@
-/** Contribution roles never substitute for separately sourced unqualified billing. */
-export const ROLE_CLASSIFICATION: Record<string, 'performance' | 'creation'> = {
-  'vocals': 'performance',
-  'backing vocals': 'performance',
-  'guitar': 'performance',
-  'fretless guitar': 'performance',
-  'bass': 'performance',
-  'drums': 'performance',
-  'percussion': 'performance',
-  'keyboards': 'performance',
-  'piano': 'performance',
-  'oud': 'performance',
-  'double bass': 'performance',
-  'synthesizer': 'performance',
-  'violin': 'performance',
-  'viola': 'performance',
-  'cello': 'performance',
-  'strings': 'performance',
-  'flute': 'performance',
-  'clarinet': 'performance',
-  'bass clarinet': 'performance',
-  'harmonica': 'performance',
-  'trumpet': 'performance',
-  'trombone': 'performance',
-  'santur': 'performance',
-  'setar': 'performance',
-  'tar': 'performance',
-  'daf': 'performance',
-  'tombak': 'performance',
-  'ney': 'performance',
-  'kamancheh': 'performance',
-  'producer': 'creation',
-  'recording engineer': 'creation',
-  'mixing engineer': 'creation',
-  'mastering engineer': 'creation',
-  'composer': 'creation',
-  'lyricist': 'creation',
-  'songwriter': 'creation',
-  'original composer': 'creation',
-  'original lyricist': 'creation',
-  'arranger': 'creation',
-  'accordion': 'performance',
-  'soprano trombone': 'performance',
-  'tuba': 'performance',
-  'choir': 'performance',
-  'oboe': 'performance',
-  'saxophone': 'performance',
-  'tambura': 'performance',
-};
+import { loadRecord } from './record';
 
-export const performs = (role: unknown): boolean => typeof role === 'string' && ROLE_CLASSIFICATION[role] === 'performance';
+/**
+ * Whether a role is performed, as opposed to written or produced. The kinds
+ * come from the registry (data/schema/properties.yaml, `creation roles`)
+ * through the derived record. Contribution roles never substitute for
+ * separately sourced unqualified billing.
+ */
+export const performs = (role: unknown): boolean => typeof role === 'string' && loadRecord().roles[role] === 'performance';

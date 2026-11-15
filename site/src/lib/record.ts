@@ -35,6 +35,10 @@ export interface Item {
   incoming: Incoming[];
   page?: string;
   anchor?: string;
+  /** A release's credited host: the artist whose page shows it (derive). */
+  host?: string;
+  /** An artist's releases: performed on or hosted (derive). */
+  releases?: string[];
 }
 
 export interface Note extends Reference { key: string }
@@ -79,6 +83,10 @@ export interface SiteRecord {
   panels: { [anchor: string]: string };
   /** Routing history for panels whose former artist credit was corrected. */
   panelHosts?: { [release: string]: string };
+  /** Each role term's kind, from the registry's `creation roles`. */
+  roles: { [role: string]: 'performance' | 'creation' };
+  /** The registry's listening platforms: key and the hosts it answers at. */
+  platforms: { [key: string]: string[] };
   /** The Statistics page's counts, made by tools/stats.py. */
   stats: any;
 }
@@ -138,22 +146,16 @@ export function href(record: SiteRecord, lang: Lang, item: Item): string | null 
   return null;
 }
 
-/** Prefer a credited artist's page. A band without a page can be shown on a
- * documented member's page, while retaining the band's own performer credit. */
+/** The artist page that shows a release: the credited one derive chose, else
+ * the page that showed it before (panelHosts), so its address keeps working. */
 export function releaseHost(record: SiteRecord, release: Item): Item | undefined {
-  const current = creditedReleaseHost(record, release);
-  if (current) return current;
-  const former = record.items[record.panelHosts?.[release.id] ?? ''];
-  return former?.page ? former : undefined;
+  const host = record.items[record.panelHosts?.[release.id] ?? ''];
+  return host?.page ? host : undefined;
 }
 
+/** The credited artist (or a documented member of a credited act) whose page shows a release. */
 export function creditedReleaseHost(record: SiteRecord, release: Item): Item | undefined {
-  const credited = performers(record, release);
-  const direct = credited.find((p) => p.page);
-  if (direct) return direct;
-  return credited.flatMap((act) => act.type === 'act'
-    ? act.incoming.filter((i) => i.property === 'member of' && i.rank !== 'deprecated')
-      .map((i) => record.items[i.item]) : []).find((p) => p?.page);
+  return release.host ? record.items[release.host] : undefined;
 }
 
 export function performers(record: SiteRecord, release: Item): Item[] {
@@ -184,15 +186,9 @@ export function recordingArtists(record: SiteRecord, release: Item): Item[] {
   });
 }
 
-/** The releases an artist performs on, oldest first. */
+/** The releases an artist performs on or whose panel its page hosts, oldest first. */
 export function releasesOf(record: SiteRecord, artist: Item): Item[] {
-  const ids = new Set(artist.incoming.filter((i) => i.property === 'performer'
-    && record.items[i.item]?.type === 'release'
-    && best(record.items[i.item].statements.performer).some((s) => s.value === artist.id)).map((i) => i.item));
-  for (const release of Object.values(record.items)) {
-    if (release.type === 'release' && creditedReleaseHost(record, release)?.id === artist.id) ids.add(release.id);
-  }
-  return [...ids].map((id) => record.items[id]).filter((x): x is Item => Boolean(x)).sort(byReleaseDate);
+  return (artist.releases ?? []).map((id) => record.items[id]).filter((x): x is Item => Boolean(x)).sort(byReleaseDate);
 }
 
 /** Include historical panels without adding them to the artist's recordings. */
