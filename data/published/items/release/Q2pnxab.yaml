@@ -9,6 +9,17 @@ statements:
     - source: music.apple.com-us-album-tab-single-1687499179
       quote: Tab - Single - Album by Peyman Salimi & Sara Naeini - Apple Music
       accessed: '2026-11-08'
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-tab-single-1687499179
+      quote: |-
+        Tab - Single - Album by Peyman Salimi & Sara Naeini - Apple Music
+      accessed: '2026-11-08'
+    - source: open.spotify.com-album-6tqmoczp2eagvlcgmidqro
+      quote: |-
+        Listen to Tab - Single by Peyman Salimi | Spotify
+      accessed: '2026-11-08'
   listen link:
   - value: https://music.apple.com/us/album/tab-single/1687499179
     references:
