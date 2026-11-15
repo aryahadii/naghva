@@ -39,7 +39,8 @@ next. The record is not complete and doesn't claim to be.
   [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); the full text is
   in [LICENSE](LICENSE). Credit "Naghva (naghva.com)", with a link where you
   can.
-- Logos and the miniature art are all rights reserved.
+- Logos and the miniature art are all rights reserved. You may still use
+  the logo to link to Naghva or to mention it.
 - Quoted passages belong to their authors and publishers, and images to
   whoever made them. They are covered by none of the above.
 
