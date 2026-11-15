@@ -8,10 +8,11 @@ import base64
 import os
 import re
 import urllib.parse
+from collections import Counter
 
 import datastore as ds
 from gate_common import (
-    PLATFORM_NAMES, REGISTRY, TIER_GROUPS, Finding, http_json, is_recording, platform_of, statements,
+    PLATFORM_NAMES, REGISTRY, TIERS, Finding, http_json, is_recording, platform_of, statements, tier_of,
     url_value,
 )
 
@@ -300,10 +301,7 @@ def wikipedia_links(url):
 def check_sources(artist, offline=False):
     findings = []
     sources = artist.cited_sources()
-    groups = {}
-    for source in sources:
-        group = TIER_GROUPS.get(str(source.meta.get("tier") or "").strip().lower(), "other")
-        groups[group] = groups.get(group, 0) + 1
+    groups = Counter(tier_of(source) for source in sources)
     independent = groups.get("journalism", 0) + groups.get("academic", 0)
     if artist.is_enriched() and (independent < 3 or not groups.get("own")):
         findings.append(Finding(
@@ -363,9 +361,8 @@ def check_sources(artist, offline=False):
         else:
             leads_line = " · no Wikipedia article cited"
 
-    order = ("own", "journalism", "academic", "wikipedia", "discography", "other")
     line = "%d cited: %s · archived %d/%d%s" % (
-        len(sources), ", ".join("%d %s" % (groups[g], g) for g in order if g in groups) or "none",
+        len(sources), ", ".join("%d %s" % (groups[g], g) for g in TIERS if g in groups) or "none",
         len(web) - len(no_archive), len(web), leads_line,
     )
     return line, findings, {"groups": groups}

@@ -25,16 +25,16 @@ REGISTRY = ds.load_registry()
 _LABELS = json.loads((ds.REPO / "site" / "src" / "strings" / "en.json").read_text(encoding="utf-8"))["platforms"]
 PLATFORM_NAMES = [_LABELS.get(key, key) for key in REGISTRY["platforms"]]
 
-# Source tiers are free words in capture; these are the groups the gate counts.
-TIER_GROUPS = {
-    "own": "own", "primary": "own",
-    "discography": "discography", "catalogue": "discography", "platform": "discography",
-    "platform catalog": "discography", "streaming": "discography",
-    "journalism": "journalism", "press": "journalism",
-    "academic": "academic", "wikipedia": "wikipedia",
-}
+# The closed list of source tiers in the source schema.
+TIERS = tuple(ds.load_schemas()["source.schema.json"]["properties"]["tier"]["enum"])
 AUDIO_KINDS = ("youtube video", "podcast episode", "interview", "video", "audio", "audio recording", "music video")
 AUDIO_HOSTS = ("youtube.com", "youtu.be", "castbox.fm", "podcasts.apple.com", "aparat.com")
+
+
+def tier_of(source):
+    """A source's tier; one with none counts as other."""
+    tier = source.meta.get("tier")
+    return tier if tier in TIERS else "other"
 
 
 def is_recording(source):

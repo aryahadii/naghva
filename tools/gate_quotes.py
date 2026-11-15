@@ -13,7 +13,7 @@ import urllib.parse
 
 import gate_common
 from gate_common import (
-    Finding, is_recording, page_text, plain_text, rendered_text, squash, words,
+    Finding, is_recording, page_text, plain_text, rendered_text, squash, tier_of, words,
 )
 
 SHINGLE = 5
@@ -147,7 +147,7 @@ def check_passages(artist, deep=False, browser=True, refresh=False, offline=Fals
     thin = sorted(
         name for name, size in sizes.items()
         if size > 1500 and len(artist.store.sources[name].quotes) < 3
-        and str(artist.store.sources[name].meta.get("tier") or "").lower() in ("journalism", "academic", "own")
+        and tier_of(artist.store.sources[name]) in ("journalism", "academic", "own")
         and "wikipedia.org" not in str(artist.store.sources[name].meta.get("url"))
     )
     if thin:
