@@ -1,5 +1,6 @@
 ---
 url: https://example.org/music/tehran-rock-roundup
+archive: "https://web.archive.org/web/20261012000000/https://example.org/music/tehran-rock-roundup"
 title: Tehran's rock scene, a roundup
 kind: web page
 language: en

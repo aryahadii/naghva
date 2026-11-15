@@ -1,5 +1,6 @@
 ---
 url: https://t.me/badnama_example
+archive: "https://web.archive.org/web/20261012000000/https://t.me/badnama_example"
 title: بادنما
 kind: telegram channel
 language: fa
