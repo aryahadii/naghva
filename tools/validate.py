@@ -63,8 +63,9 @@ def check_registry(registry, report):
     for name, spec in quals.items():
         here = "%s: qualifier `%s`" % (where, name)
         _check_value_spec(here, spec, types, terms, name, report)
-    for role in registry.get("creation roles") or []:
-        if role not in terms.get("role", []):
+    # Without a role list the missing list is the one error; don't repeat it per role.
+    for role in registry.get("creation roles") or [] if "role" in terms else []:
+        if role not in terms["role"]:
             report.error(where, "creation role `%s` is not in the term list for role" % role)
     for key, hosts in (registry.get("platforms") or {}).items():
         if not (isinstance(hosts, list) and hosts):
