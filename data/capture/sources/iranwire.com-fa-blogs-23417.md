@@ -1,5 +1,6 @@
 ---
 url: https://iranwire.com/fa/blogs/23417/
+archive: "https://web.archive.org/web/20240420015552/https://iranwire.com/fa/blogs/23417/"
 title: 'شاهین نجفی: من در دويدن بيرحم‌ام'
 kind: web page
 language: fa

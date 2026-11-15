@@ -1,5 +1,6 @@
 ---
 url: https://en.wikipedia.org/wiki/Shahin_Najafi
+archive: "https://web.archive.org/web/20260607031849/https://en.wikipedia.org/wiki/Shahin_najafi"
 title: Shahin Najafi
 language: en
 publisher: Wikipedia

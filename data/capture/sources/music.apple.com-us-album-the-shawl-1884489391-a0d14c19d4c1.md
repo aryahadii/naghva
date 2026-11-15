@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/the-shawl/1884489391
+archive: "https://web.archive.org/web/20260908175003/https://music.apple.com/us/album/the-shawl/1884489391"
 title: The Shawl | Apple Music
 kind: web page
 language: en

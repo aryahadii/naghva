@@ -1,5 +1,6 @@
 ---
 url: https://t.me/shahinnajafimusic/1325
+archive: "https://web.archive.org/web/20220505211730/https://t.me/shahinnajafimusic/1325"
 title: 'Blue: release and full credits'
 kind: telegram post
 language: mul

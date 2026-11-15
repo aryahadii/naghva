@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/dariusazar/ashke-bahar
+archive: "https://web.archive.org/web/20250919084007/https://soundcloud.com/dariusazar/ashke-bahar"
 title: Stream Spring's Tear ( اشک بهار ) by Dariush Azar | Listen online for free on SoundCloud
 kind: web page
 language: en

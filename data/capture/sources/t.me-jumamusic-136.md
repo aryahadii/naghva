@@ -1,5 +1,6 @@
 ---
 url: https://t.me/jumamusic/136
+archive: "https://web.archive.org/web/20240918175757/https://t.me/jumamusic/136"
 title: جوما — 136
 kind: telegram post
 language: fa

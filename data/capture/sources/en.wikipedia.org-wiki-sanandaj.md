@@ -1,5 +1,6 @@
 ---
 url: https://en.wikipedia.org/wiki/Sanandaj
+archive: "https://web.archive.org/web/20261012123328/https://en.wikipedia.org/wiki/Sanandaj"
 title: "Sanandaj"
 kind: web page
 language: en

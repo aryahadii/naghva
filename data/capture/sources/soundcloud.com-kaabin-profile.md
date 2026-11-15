@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/kaabin
+archive: "https://web.archive.org/web/20250430132114/https://soundcloud.com/kaabin"
 title: Kābin | SoundCloud
 language: fa
 publisher: SoundCloud

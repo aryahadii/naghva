@@ -1,5 +1,6 @@
 ---
 url: https://en.wikipedia.org/wiki/Salome_MC
+archive: "https://web.archive.org/web/20260502054450/https://en.wikipedia.org/wiki/Salome_MC"
 title: Salome MC
 language: en
 publisher: Wikipedia

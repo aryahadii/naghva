@@ -1,5 +1,6 @@
 ---
 url: https://t.me/jumamusic/196
+archive: "https://web.archive.org/web/20241203164937/https://t.me/jumamusic/196"
 title: جوما — 196
 language: fa
 author: Juma

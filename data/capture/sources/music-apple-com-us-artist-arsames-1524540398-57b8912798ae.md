@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/artist/arsames/1524540398
+archive: "https://web.archive.org/web/20241002020756/https://music.apple.com/us/artist/arsames/1524540398"
 title: Arsames
 language: en
 publisher: Apple Music

@@ -1,5 +1,6 @@
 ---
 url: https://fa.wikipedia.org/wiki/%D8%AA%D9%81%D9%84%DB%8C%D8%B3
+archive: "https://web.archive.org/web/20261103021202/https://fa.wikipedia.org/wiki/%D8%AA%D9%81%D9%84%DB%8C%D8%B3"
 title: "تفلیس"
 kind: web page
 language: fa

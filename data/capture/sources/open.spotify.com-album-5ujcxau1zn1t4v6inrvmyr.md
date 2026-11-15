@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/5ujCXau1ZN1T4V6iNRvMyr
+archive: "https://web.archive.org/web/20240926220739/https://open.spotify.com/album/5ujCXau1ZN1T4V6iNRvMyr"
 title: Listen to Semen - Album by The Shah | Spotify
 kind: web page
 language: en

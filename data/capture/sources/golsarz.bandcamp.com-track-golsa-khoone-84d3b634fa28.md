@@ -1,5 +1,6 @@
 ---
 url: https://golsarz.bandcamp.com/track/golsa-khoone
+archive: "https://web.archive.org/web/20230428214033/https://golsarz.bandcamp.com/track/golsa-khoone"
 title: Golsa - Khoone
 status: processed
 kind: web page

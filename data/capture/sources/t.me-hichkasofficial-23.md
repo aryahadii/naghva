@@ -1,5 +1,6 @@
 ---
 url: https://t.me/hichkasofficial/23
+archive: "https://web.archive.org/web/20230309034713/https://t.me/hichkasofficial/23"
 title: 'Hichkas Telegram post 23: ‎#مجاز'
 kind: telegram post
 language: fa

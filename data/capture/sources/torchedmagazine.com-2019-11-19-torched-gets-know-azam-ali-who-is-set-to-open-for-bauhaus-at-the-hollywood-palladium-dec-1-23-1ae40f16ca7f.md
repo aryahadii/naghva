@@ -1,5 +1,6 @@
 ---
 url: https://torchedmagazine.com/2019/11/19/torched-gets-know-azam-ali-who-is-set-to-open-for-bauhaus-at-the-hollywood-palladium-dec-1-23/
+archive: "https://web.archive.org/web/20230601124356/https://torchedmagazine.com/2019/11/19/torched-gets-know-azam-ali-who-is-set-to-open-for-bauhaus-at-the-hollywood-palladium-dec-1-23/"
 title: Torched Gets To Know Azam Ali Who Is Set To Open For Bauhaus At The Hollywood Palladium Dec. 1 – TORCHED MAGAZINE
 kind: web page
 language: en

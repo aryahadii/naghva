@@ -1,5 +1,6 @@
 ---
 url: https://t.me/s/hoorakhshstudios/4605
+archive: "https://web.archive.org/web/20251110015145/https://t.me/s/hoorakhshstudios/4605"
 title: The Last Fiction — Franak death scene music
 kind: telegram post
 language: mul

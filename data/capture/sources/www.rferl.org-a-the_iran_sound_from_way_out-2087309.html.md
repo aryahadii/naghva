@@ -1,5 +1,6 @@
 ---
 url: https://www.rferl.org/a/The_Iran_Sound_From_Way_Out/2087309.html
+archive: "https://web.archive.org/web/20260512181557/https://www.rferl.org/a/The_Iran_Sound_From_Way_Out/2087309.html"
 title: 'Episode 1: Radio Tehran, Gachpaj, Kiosk, And Yas'
 kind: web page
 language: en

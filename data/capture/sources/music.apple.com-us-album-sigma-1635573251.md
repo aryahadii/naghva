@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/sigma/1635573251
+archive: "https://web.archive.org/web/20260913140355/https://music.apple.com/us/album/sigma/1635573251"
 title: Sigma - Album by Shahin Najafi - Apple Music
 status: processed
 kind: web page

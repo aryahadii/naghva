@@ -1,5 +1,6 @@
 ---
 url: https://www.sixdegreesrecords.com/wp-content/uploads/1996/01/BestofNiyaz_BIO-1.pdf
+archive: "https://web.archive.org/web/20250426135517/https://www.sixdegreesrecords.com/wp-content/uploads/1996/01/BestofNiyaz_BIO-1.pdf"
 title: The Best Of Niyaz | Six Degrees Records press biography
 status: processed
 tier: own

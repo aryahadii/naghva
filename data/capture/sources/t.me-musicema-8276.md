@@ -1,5 +1,6 @@
 ---
 url: https://t.me/musicema/8276
+archive: "https://web.archive.org/web/20221023220615/https://t.me/musicema/8276"
 title: در حرمان بازیگر زندگی‌مان بودیم — interview highlights
 status: processed
 language: fa

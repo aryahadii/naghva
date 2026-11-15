@@ -1,5 +1,6 @@
 ---
 url: https://rojinsharafi.bandcamp.com/album/urns-waiting-to-be-fed
+archive: "https://web.archive.org/web/20250923004740/https://rojinsharafi.bandcamp.com/album/urns-waiting-to-be-fed"
 title: Urns Waiting To Be Fed | Rojin Sharafi
 language: en
 status: processed

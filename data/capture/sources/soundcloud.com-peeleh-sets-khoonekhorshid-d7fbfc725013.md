@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/peeleh/sets/khoonekhorshid
+archive: "https://web.archive.org/web/20260718154333/https://soundcloud.com/peeleh/sets/khoonekhorshid"
 title: BAHRAM X ALI SORENA • KHOONE KHORSHID
 kind: web page
 language: en

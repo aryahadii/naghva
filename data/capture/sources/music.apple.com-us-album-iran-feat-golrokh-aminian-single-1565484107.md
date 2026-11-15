@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/iran-feat-golrokh-aminian-single/1565484107
+archive: "https://web.archive.org/web/20260919105503/https://music.apple.com/us/album/iran-feat-golrokh-aminian-single/1565484107"
 title: Iran (feat. Golrokh Aminian) - Single - Album by Shahin Najafi - Apple Music
 status: processed
 kind: web page

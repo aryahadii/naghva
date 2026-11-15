@@ -1,5 +1,6 @@
 ---
 url: https://peeleh.bandcamp.com/album/khodha
+archive: "https://web.archive.org/web/20241206190331/https://peeleh.bandcamp.com/album/khodha"
 title: KHODHA | Bahram | Peeleh
 language: en
 publisher: Bandcamp (Peeleh)

@@ -1,5 +1,6 @@
 ---
 url: https://t.me/s/halehseyfizadeh
+archive: "https://web.archive.org/web/20240714140912/https://t.me/s/halehseyfizadeh"
 title: ️️️️هاله سيفى زاده – Telegram
 status: processed
 tier: own

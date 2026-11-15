@@ -1,5 +1,6 @@
 ---
 url: https://ashkoosha.bandcamp.com/
+archive: "https://web.archive.org/web/20260408151452/https://ashkoosha.bandcamp.com/"
 title: Music | Ash Koosha
 language: en
 publisher: Ash Koosha

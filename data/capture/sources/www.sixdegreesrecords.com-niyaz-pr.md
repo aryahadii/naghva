@@ -1,5 +1,6 @@
 ---
 url: https://www.sixdegreesrecords.com/niyaz-pr/
+archive: "https://web.archive.org/web/20260712181947/https://www.sixdegreesrecords.com/niyaz-pr/"
 title: Niyaz — Six Degrees Records
 status: processed
 tier: own

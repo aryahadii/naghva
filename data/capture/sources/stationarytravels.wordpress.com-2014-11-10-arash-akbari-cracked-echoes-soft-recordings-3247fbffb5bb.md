@@ -1,5 +1,6 @@
 ---
 url: https://stationarytravels.wordpress.com/2014/11/10/arash-akbari-cracked-echoes-soft-recordings/
+archive: "https://web.archive.org/web/20230601180129/https://stationarytravels.wordpress.com/2014/11/10/arash-akbari-cracked-echoes-soft-recordings/"
 title: https://stationarytravels.wordpress.com/2014/11/10/arash-akbari-cracked-echoes-soft-recordings/
 status: processed
 tier: journalism

@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/omid/1457309279
+archive: "https://web.archive.org/web/20210316145224/https://music.apple.com/us/album/omid/1457309279"
 title: Omid - Album by Tara Tiba - Apple Music
 language: en
 publisher: Apple Music

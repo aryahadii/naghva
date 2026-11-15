@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/torsh-o-shirin-feat-mohsen-namjoo-single/1651132795
+archive: "https://web.archive.org/web/20260907005039/https://music.apple.com/us/album/torsh-o-shirin-feat-mohsen-namjoo-single/1651132795"
 title: Torsh O Shirin (feat. Mohsen Namjoo) - Single - Album by Reza Attaran - Apple Music
 status: processed
 kind: web page

@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/sarakhsmusic
+archive: "https://web.archive.org/web/20260607085222/https://soundcloud.com/sarakhsmusic"
 title: Sarakhs سرخس
 language: en
 publisher: SoundCloud (Sarakhs)

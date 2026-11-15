@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/6Pd2ftRd147mp64XT7NhL3
+archive: "https://web.archive.org/web/20210319151901/https://open.spotify.com/album/6Pd2ftRd147mp64XT7NhL3"
 title: The Price of Freedom on Spotify
 status: processed
 tier: discography

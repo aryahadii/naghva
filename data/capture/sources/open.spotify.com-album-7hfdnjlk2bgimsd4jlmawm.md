@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/7hfdNJlk2bgIMsd4JlMawm
+archive: "https://web.archive.org/web/20251009135233/https://open.spotify.com/album/7hfdNJlk2bgIMsd4JlMawm"
 title: Listen to Stripper - Single by Sevdaliza | Spotify
 status: processed
 kind: web page

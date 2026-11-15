@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/alibi-pt-3-feat-jonita-gandhi-rusha-blizza-pabllo-vittar/1854937633
+archive: "https://web.archive.org/web/20261012024725/https://music.apple.com/us/album/alibi-pt-3-feat-jonita-gandhi-rusha-blizza-pabllo-vittar/1854937633"
 title: Alibi Pt. 3 (feat. Jonita Gandhi, Rusha & Blizza, Pabllo Vittar, Yseult) - Single - Album by Sevdaliza - Apple Music
 status: processed
 kind: web page

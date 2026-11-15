@@ -1,5 +1,6 @@
 ---
 url: https://www.sarpoosh.com/art-cinema/music/music960904505.html
+archive: "https://web.archive.org/web/20180603030856/http://www.sarpoosh.com:80/art-cinema/music/music960904505.html"
 title: "آلبوم ترانه‌هایش، ۱۰ سال پس از مرگش منتشر شد!"
 kind: web page
 language: fa

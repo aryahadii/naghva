@@ -1,5 +1,6 @@
 ---
 url: https://www.pbs.org/wgbh/pages/frontline/tehranbureau/2011/10/weekend-spotlight-hamed-nikpay.html
+archive: "https://web.archive.org/web/20160629201804/http://www.pbs.org/wgbh/pages/frontline/tehranbureau/2011/10/weekend-spotlight-hamed-nikpay.html"
 title: 'Weekend Spotlight: Hamed Nikpay'
 kind: web page
 language: en

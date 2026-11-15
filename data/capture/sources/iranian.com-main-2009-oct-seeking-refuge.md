@@ -1,5 +1,6 @@
 ---
 url: https://iranian.com/main/2009/oct/seeking-refuge.html
+archive: "https://web.archive.org/web/20260607170745/http://iranian.com/main/2009/oct/seeking-refuge.html"
 title: Seeking Refuge
 kind: interview
 language: en

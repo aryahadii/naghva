@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/gb/artist/hichkas/202480860
+archive: "https://web.archive.org/web/20251025051445/https://music.apple.com/gb/artist/hichkas/202480860"
 title: Hichkas on Apple Music
 kind: web page
 language: en

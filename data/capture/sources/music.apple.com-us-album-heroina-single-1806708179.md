@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/heroina-single/1806708179
+archive: "https://web.archive.org/web/20261014104115/https://music.apple.com/us/album/heroina-single/1806708179"
 title: Heroina - Single - Album by Sevdaliza & La Joaqui - Apple Music
 status: processed
 kind: web page

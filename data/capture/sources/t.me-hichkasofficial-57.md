@@ -1,5 +1,6 @@
 ---
 url: https://t.me/hichkasofficial/57
+archive: "https://web.archive.org/web/20250417162357/https://t.me/hichkasofficial/57"
 title: 'Hichkas Telegram audio post 57: Inyekiam Vase'
 kind: telegram post
 language: fa

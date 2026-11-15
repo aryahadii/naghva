@@ -1,5 +1,6 @@
 ---
 url: https://en.wikipedia.org/wiki/Canada
+archive: "https://web.archive.org/web/20261113173057/https://en.wikipedia.org/wiki/Canada"
 title: "Canada"
 kind: web page
 language: en

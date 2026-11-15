@@ -1,5 +1,6 @@
 ---
 url: https://en.wikipedia.org/wiki/Yseult_(singer)
+archive: "https://web.archive.org/web/20261021042549/https://en.wikipedia.org/wiki/Yseult_(singer)"
 title: Yseult identity
 status: processed
 tier: wikipedia

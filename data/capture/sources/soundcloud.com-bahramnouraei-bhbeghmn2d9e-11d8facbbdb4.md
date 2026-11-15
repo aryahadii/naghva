@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/bahramnouraei/bhbeghmn2d9e
+archive: "https://web.archive.org/web/20260826083347/https://soundcloud.com/bahramnouraei/bhbeghmn2d9e"
 title: Beshno (feat. Peymandegar)
 kind: web page
 language: en

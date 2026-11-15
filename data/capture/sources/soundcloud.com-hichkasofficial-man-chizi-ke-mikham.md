@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/hichkasofficial/man-chizi-ke-mikham
+archive: "https://web.archive.org/web/20250702204213/https://soundcloud.com/hichkasofficial/man-chizi-ke-mikham"
 title: Man Chizi Ke Mikham on SoundCloud
 kind: web page
 language: mul

@@ -1,5 +1,6 @@
 ---
 url: https://t.me/shahinnajafimusic/1324
+archive: "https://web.archive.org/web/20230707223531/https://t.me/shahinnajafimusic/1324"
 title: Blue | Shahin Najafi — native Telegram audio
 kind: telegram post
 language: en

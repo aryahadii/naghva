@@ -1,5 +1,6 @@
 ---
 url: https://www.jadidonline.com/story/20082010/frnk/pop_music_dang_show
+archive: "https://web.archive.org/web/20250914093742/https://www.jadidonline.com/story/20082010/frnk/pop_music_dang_show"
 title: دَنگ‌شده با شراب چهل‌ساله
 kind: web page
 language: fa

@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/mahalle-single/1633692167
+archive: "https://web.archive.org/web/20230514104655/https://music.apple.com/us/album/mahalle-single/1633692167"
 title: Mahalle - Single
 kind: web page
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/gele-kon-single/1499904477
+archive: "https://web.archive.org/web/20260416121159/https://music.apple.com/us/album/gele-kon-single/1499904477"
 title: Gele Kon - Single by Chaartaar on Apple Music
 kind: web page
 language: en

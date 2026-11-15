@@ -1,5 +1,6 @@
 ---
 url: https://internationales-theater.de/programm-ticketkauf/pallett-band-iran
+archive: "https://web.archive.org/web/20260121094735/https://internationales-theater.de/programm-ticketkauf/pallett-band-iran"
 title: PALLETT - Live in Frankfurt
 status: processed
 tier: other

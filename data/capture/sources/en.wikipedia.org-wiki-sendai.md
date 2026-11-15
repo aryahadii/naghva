@@ -1,5 +1,6 @@
 ---
 url: https://en.wikipedia.org/wiki/Sendai
+archive: "https://web.archive.org/web/20261110213348/https://en.wikipedia.org/wiki/Sendai"
 title: "Sendai"
 kind: web page
 language: en

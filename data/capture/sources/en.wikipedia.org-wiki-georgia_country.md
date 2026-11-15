@@ -1,5 +1,6 @@
 ---
 url: https://en.wikipedia.org/wiki/Georgia_(country)
+archive: "https://web.archive.org/web/20261110124727/https://en.wikipedia.org/wiki/Georgia_(country)"
 title: "Georgia (country)"
 kind: web page
 language: en

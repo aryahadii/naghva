@@ -1,5 +1,6 @@
 ---
 url: https://www.kiosktheband.com/
+archive: "https://web.archive.org/web/20261009033937/https://www.kiosktheband.com/"
 title: KIOSK THE BAND
 status: processed
 tier: own

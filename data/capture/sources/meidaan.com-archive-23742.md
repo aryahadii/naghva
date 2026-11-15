@@ -1,5 +1,6 @@
 ---
 url: https://meidaan.com/archive/23742
+archive: "https://web.archive.org/web/20260606142700/https://meidaan.com/archive/23742"
 title: ما واقعی هستیم، بدون سانسور
 kind: web page
 language: fa

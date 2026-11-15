@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/barcode-single/1114845251
+archive: "https://web.archive.org/web/20260220184055/https://music.apple.com/us/album/barcode-single/1114845251"
 title: Barcode - Single - Album by Yas - Apple Music
 status: processed
 kind: web page

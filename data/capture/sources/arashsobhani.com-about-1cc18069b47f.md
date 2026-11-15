@@ -1,5 +1,6 @@
 ---
 url: https://arashsobhani.com/about/
+archive: "https://web.archive.org/web/20260610000701/https://arashsobhani.com/about/"
 title: Arash Sobhani | Biography
 language: en
 publisher: Arash Sobhani

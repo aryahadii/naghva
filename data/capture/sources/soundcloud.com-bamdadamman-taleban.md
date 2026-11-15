@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/bamdadamman/taleban
+archive: "https://web.archive.org/web/20210708102914/https://soundcloud.com/bamdadamman/taleban"
 title: Taleban
 kind: web page
 language: en

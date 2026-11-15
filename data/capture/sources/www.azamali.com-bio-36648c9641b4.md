@@ -1,5 +1,6 @@
 ---
 url: https://www.azamali.com/bio
+archive: "https://web.archive.org/web/20261022191523/https://www.azamali.com/bio"
 title: Azam Ali - Award-Winning Singer, Producer & Composer | Official Bio
 kind: web page
 language: en

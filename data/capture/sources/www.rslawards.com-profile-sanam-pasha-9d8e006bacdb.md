@@ -1,5 +1,6 @@
 ---
 url: https://www.rslawards.com/profile/sanam-pasha/
+archive: "https://web.archive.org/web/20260409093936/https://www.rslawards.com/profile/sanam-pasha/"
 title: Profile | RSL Awards
 kind: web page
 language: en

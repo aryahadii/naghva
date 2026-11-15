@@ -1,5 +1,6 @@
 ---
 url: https://www.sixdegreesrecords.com/loga-ramin-torkian/
+archive: "https://web.archive.org/web/20260511183337/https://www.sixdegreesrecords.com/loga-ramin-torkian/"
 title: Loga Ramin Torkian — Six Degrees Records
 kind: web page
 language: en

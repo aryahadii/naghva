@@ -1,5 +1,6 @@
 ---
 url: https://fa.wikipedia.org/wiki/%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D9%84%DB%8C%D8%A7
+archive: "https://web.archive.org/web/20261103015034/https://fa.wikipedia.org/wiki/%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D9%84%DB%8C%D8%A7"
 title: "استرالیا"
 kind: web page
 language: fa

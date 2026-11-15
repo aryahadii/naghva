@@ -1,5 +1,6 @@
 ---
 url: https://www.niyazmusic.com/bio
+archive: "https://web.archive.org/web/20260711200147/https://www.niyazmusic.com/bio"
 title: Bio
 language: en
 publisher: Niyaz

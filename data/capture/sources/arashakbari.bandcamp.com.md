@@ -1,5 +1,6 @@
 ---
 url: https://arashakbari.bandcamp.com
+archive: "https://web.archive.org/web/20260409173125/https://arashakbari.bandcamp.com/"
 title: Music | Arash Akbari
 status: processed
 tier: own

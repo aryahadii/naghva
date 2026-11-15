@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/%D8%A8%D9%87-%D8%B1%D8%A7%D9%87-%D8%AE%D9%88%D8%AF/1493314633
+archive: "https://web.archive.org/web/20230331123303/https://music.apple.com/us/album/%D8%A8%D9%87-%D8%B1%D8%A7%D9%87-%D8%AE%D9%88%D8%AF/1493314633"
 title: به راه خود - Album by 127 - Apple Music
 language: en
 publisher: Apple Music

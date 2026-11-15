@@ -1,5 +1,6 @@
 ---
 url: https://en.wikipedia.org/wiki/Washington%2C_D.C.
+archive: "https://web.archive.org/web/20261113131128/https://en.wikipedia.org/wiki/Washington,_D.C."
 title: "Washington, D.C."
 kind: web page
 language: en

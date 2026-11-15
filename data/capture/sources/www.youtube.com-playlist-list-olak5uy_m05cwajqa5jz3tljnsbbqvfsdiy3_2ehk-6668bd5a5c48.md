@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/playlist?list=OLAK5uy_m05cwAJqA5Jz3tLjNsBbqvFSDiY3_2ehk
+archive: "https://web.archive.org/web/20260107202952/https://www.youtube.com/playlist?list=OLAK5uy_m05cwAJqA5Jz3tLjNsBbqvFSDiY3_2ehk"
 title: Live In Tehran, 1998 - YouTube
 kind: web page
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/nine-heavens/279447962
+archive: "https://web.archive.org/web/20261022191527/https://music.apple.com/us/album/nine-heavens/279447962"
 title: Nine Heavens - Album by Niyaz - Apple Music
 language: en
 publisher: Apple Music

@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/dictatorie-amameh-single/1555183185
+archive: "https://web.archive.org/web/20261101092348/https://music.apple.com/us/album/dictatorie-amameh-single/1555183185"
 title: Dictatorie Amameh - Single - Album by Shahin Najafi - Apple Music
 status: processed
 kind: web page

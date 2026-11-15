@@ -1,5 +1,6 @@
 ---
 url: https://tamizdat.org/shim-nyc/
+archive: "https://web.archive.org/web/20260715160011/https://tamizdat.org/shim-nyc/"
 title: SHIM:NYC – Tamizdat
 kind: web page
 language: en

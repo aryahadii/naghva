@@ -1,5 +1,6 @@
 ---
 url: https://www.radiofarda.com/a/1136151.html
+archive: "https://web.archive.org/web/20250522114913/https://www.radiofarda.com/a/1136151.html"
 title: 'گزارش لس آنجلس: معرفي گروه واس'
 kind: web page
 language: fa

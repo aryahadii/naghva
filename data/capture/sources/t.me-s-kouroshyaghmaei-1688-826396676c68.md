@@ -1,5 +1,6 @@
 ---
 url: https://t.me/s/kouroshyaghmaei/1688
+archive: "https://web.archive.org/web/20241226032558/https://t.me/s/kouroshyaghmaei/1688"
 title: Mastom Mastom & Asmar Asmar — Kourosh Yaghmaei Official Channel
 language: fa
 publisher: Kourosh Yaghmaei

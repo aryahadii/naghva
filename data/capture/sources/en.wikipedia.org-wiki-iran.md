@@ -1,5 +1,6 @@
 ---
 url: https://en.wikipedia.org/wiki/Iran
+archive: "https://web.archive.org/web/20261113073203/https://en.wikipedia.org/wiki/Iran"
 title: "Iran"
 kind: web page
 language: en

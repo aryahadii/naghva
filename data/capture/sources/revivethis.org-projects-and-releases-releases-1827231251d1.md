@@ -1,5 +1,6 @@
 ---
 url: https://revivethis.org/projects-and-releases/releases/
+archive: "https://web.archive.org/web/20260610114131/https://revivethis.org/projects-and-releases/releases/"
 title: Releases -
 kind: web page
 language: en

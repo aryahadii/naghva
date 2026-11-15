@@ -1,5 +1,6 @@
 ---
 url: https://en.wikipedia.org/wiki/United_Kingdom
+archive: "https://web.archive.org/web/20261114163754/https://en.wikipedia.org/wiki/United_Kingdom"
 title: "United Kingdom"
 kind: web page
 language: en

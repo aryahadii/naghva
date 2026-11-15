@@ -1,5 +1,6 @@
 ---
 url: https://jigsawnovich.blogspot.com/2010/03/hichkas-good-day-will-come-lyrics.html
+archive: "https://web.archive.org/web/20251025035110/https://jigsawnovich.blogspot.com/2010/03/hichkas-good-day-will-come-lyrics.html"
 title: 'Hichkas Ye Rooze Khoob Miad Lyrics: Neda Soltani Reference?'
 language: en
 publisher: Jigsawnovich

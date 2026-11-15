@@ -1,5 +1,6 @@
 ---
 url: https://fg-sound.com/en/portfolio/tara-tiba-omid-2
+archive: "https://web.archive.org/web/20260717140745/https://fg-sound.com/en/portfolio/tara-tiba-omid-2"
 title: Tara Tiba – Omid | FGsound
 language: en
 tier: own

@@ -1,5 +1,6 @@
 ---
 url: https://ashkoosha.bandcamp.com/album/hallucinato
+archive: "https://web.archive.org/web/20241229164937/https://ashkoosha.bandcamp.com/album/hallucinato"
 title: HALLUCiNATO
 language: en
 status: processed

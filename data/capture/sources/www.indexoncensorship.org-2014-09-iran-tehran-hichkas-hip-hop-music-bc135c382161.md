@@ -1,5 +1,6 @@
 ---
 url: https://www.indexoncensorship.org/2014/09/iran-tehran-hichkas-hip-hop-music/
+archive: "https://web.archive.org/web/20260920101441/https://www.indexoncensorship.org/2014/09/iran-tehran-hichkas-hip-hop-music/"
 title: The godfather of Iranian hip-hop wants grassroots change
 language: en
 author: Mari Shibata

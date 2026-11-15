@@ -1,5 +1,6 @@
 ---
 url: https://ihtmusic.iht-group.ir/ms-artists/kahtmayan/
+archive: "https://web.archive.org/web/20260224034154/https://ihtmusic.iht-group.ir/ms-artists/kahtmayan/"
 title: https://ihtmusic.iht-group.ir/ms-artists/kahtmayan/
 status: processed
 tier: own

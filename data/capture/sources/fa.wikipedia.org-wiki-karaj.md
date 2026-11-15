@@ -1,5 +1,6 @@
 ---
 url: https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D8%AC
+archive: "https://web.archive.org/web/20260512080047/https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D8%AC"
 title: "کرج"
 kind: web page
 language: fa

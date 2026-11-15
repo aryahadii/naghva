@@ -1,5 +1,6 @@
 ---
 url: https://t.me/ehsan_afshari/1566
+archive: "https://web.archive.org/web/20250613220831/https://t.me/ehsan_afshari/1566"
 title: Before Autumn After Autumn — Ehsan Afshari announcement
 status: processed
 language: fa

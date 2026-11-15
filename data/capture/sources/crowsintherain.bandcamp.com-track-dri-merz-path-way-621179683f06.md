@@ -1,5 +1,6 @@
 ---
 url: https://crowsintherain.bandcamp.com/track/dri-merz-path-way
+archive: "https://web.archive.org/web/20250819133327/https://crowsintherain.bandcamp.com/track/dri-merz-path-way"
 title: Dri:merz Path / Way | Crows in the rain
 kind: web page
 language: en

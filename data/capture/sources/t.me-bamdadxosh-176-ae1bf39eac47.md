@@ -1,5 +1,6 @@
 ---
 url: https://t.me/bamdadxosh/176
+archive: "https://web.archive.org/web/20230707004322/https://t.me/bamdadxosh/176"
 title: Blues for Tehran | Bamdad Xosh
 status: processed
 kind: telegram post

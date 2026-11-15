@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/artist/6hKJvRsiSIyjIBv9usxkhh
+archive: "https://web.archive.org/web/20261107154639/https://open.spotify.com/artist/6hKJvRsiSIyjIBv9usxkhh"
 title: Listen to Kourosh Yaghmaei Songs | Spotify
 status: processed
 kind: web page

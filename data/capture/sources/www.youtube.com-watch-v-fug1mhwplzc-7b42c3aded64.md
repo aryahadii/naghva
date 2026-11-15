@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=fuG1mhwpLzc
+archive: "https://web.archive.org/web/20250120045416/https://www.youtube.com/watch?v=fuG1mhwpLzc"
 title: لالایی برای خرگوش ها /  Lullaby for Bunnies - Marjan Farsad
 publisher: Marjan Farsad
 status: processed

@@ -1,5 +1,6 @@
 ---
 url: https://bomrani.bandcamp.com/album/shayad-behtarin-roozam-gozashteh
+archive: "https://web.archive.org/web/20250724190527/https://bomrani.bandcamp.com/album/shayad-behtarin-roozam-gozashteh"
 title: Shayad Behtarin Roozam Gozashteh
 language: en
 status: processed

@@ -1,5 +1,6 @@
 ---
 url: https://en.wikipedia.org/wiki/France
+archive: "https://web.archive.org/web/20261113081645/https://en.wikipedia.org/wiki/France"
 title: "France"
 kind: web page
 language: en

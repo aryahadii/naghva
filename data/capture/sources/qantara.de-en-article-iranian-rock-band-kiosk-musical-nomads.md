@@ -1,5 +1,6 @@
 ---
 url: https://qantara.de/en/article/iranian-rock-band-kiosk-musical-nomads
+archive: "https://web.archive.org/web/20260606022537/https://qantara.de/en/article/iranian-rock-band-kiosk-musical-nomads"
 title: 'The Iranian Rock Band Kiosk: Musical Nomads'
 kind: web page
 language: en

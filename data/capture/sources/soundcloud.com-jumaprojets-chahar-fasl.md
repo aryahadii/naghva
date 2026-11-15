@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/jumaprojets/chahar-fasl
+archive: "https://web.archive.org/web/20240920205845/https://soundcloud.com/jumaprojets/chahar-fasl"
 title: chaar fasl- چارفصل
 kind: music track
 author: Jumaprojets

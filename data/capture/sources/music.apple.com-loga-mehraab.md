@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/mehraab/1628972234
+archive: "https://web.archive.org/web/20261022191527/https://music.apple.com/us/album/mehraab/1628972234"
 title: Mehraab - Loga Ramin Torkian
 kind: web page
 language: en

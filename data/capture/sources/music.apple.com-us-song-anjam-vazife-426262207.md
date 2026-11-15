@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/song/anj%C4%81m-vazife/426262207
+archive: "https://web.archive.org/web/20250702204000/https://music.apple.com/us/song/anj%C4%81m-vazife/426262207"
 title: Anjām Vazife by Hichkas on Apple Music
 kind: web page
 language: en

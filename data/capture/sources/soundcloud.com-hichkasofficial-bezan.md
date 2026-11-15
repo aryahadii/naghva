@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/hichkasofficial/bezan
+archive: "https://web.archive.org/web/20250702203749/https://soundcloud.com/hichkasofficial/bezan"
 title: Bezan on SoundCloud
 kind: web page
 language: en

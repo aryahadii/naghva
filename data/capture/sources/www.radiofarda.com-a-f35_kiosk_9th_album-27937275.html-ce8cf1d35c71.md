@@ -1,5 +1,6 @@
 ---
 url: https://www.radiofarda.com/a/f35_kiosk_9th_album/27937275.html
+archive: "https://web.archive.org/web/20260209015544/https://www.radiofarda.com/a/f35_kiosk_9th_album/27937275.html"
 title: «کیوسک» با نهمین آلبوم؛ «استریو تال» از راه می‌رسد
 language: fa
 publisher: Radio Farda

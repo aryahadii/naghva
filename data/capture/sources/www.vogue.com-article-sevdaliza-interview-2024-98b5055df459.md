@@ -1,5 +1,6 @@
 ---
 url: https://www.vogue.com/article/sevdaliza-interview-2024
+archive: "https://web.archive.org/web/20260427124725/https://www.vogue.com/article/sevdaliza-interview-2024"
 title: Sevdaliza Is Already a Global Pop Star. Now, She’s Setting Her Sights on the US
 status: processed
 kind: web page

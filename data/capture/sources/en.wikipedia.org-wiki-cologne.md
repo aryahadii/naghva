@@ -1,5 +1,6 @@
 ---
 url: https://en.wikipedia.org/wiki/Cologne
+archive: "https://web.archive.org/web/20261109221004/https://en.wikipedia.org/wiki/Cologne"
 title: "Cologne"
 kind: web page
 language: en

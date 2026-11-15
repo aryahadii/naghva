@@ -1,5 +1,6 @@
 ---
 url: https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%D8%AC%D8%B3%D8%AA%D8%A7%D9%86
+archive: "https://web.archive.org/web/20261103020627/https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%D8%AC%D8%B3%D8%AA%D8%A7%D9%86"
 title: "گرجستان"
 kind: web page
 language: fa

@@ -1,5 +1,6 @@
 ---
 url: https://peeleh.bandcamp.com/album/khoone-khorshid
+archive: "https://web.archive.org/web/20261101161053/https://peeleh.bandcamp.com/album/khoone-khorshid"
 title: KHOONE KHORSHID | Bahram X Ali Sorena | Peeleh
 status: processed
 kind: web page

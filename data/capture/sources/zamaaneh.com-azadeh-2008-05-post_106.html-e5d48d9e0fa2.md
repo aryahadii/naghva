@@ -1,5 +1,6 @@
 ---
 url: https://zamaaneh.com/azadeh/2008/05/post_106.html
+archive: "https://web.archive.org/web/20221006225149/https://zamaaneh.com/azadeh/2008/05/post_106.html"
 title: رادیو زمانه | آزاده اسدی | موسیقی زیرزمینی | موسیقی فقط برای بالای ۱۸ ‌ساله‌ها
 kind: web page
 language: fa

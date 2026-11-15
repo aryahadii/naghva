@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/jaane-shirin-feat-tara-salahi-single/1847803118
+archive: "https://web.archive.org/web/20251218021033/https://music.apple.com/us/album/jaane-shirin-feat-tara-salahi-single/1847803118"
 title: Jaane Shirin (feat. Tara Salahi) - RiaKokni
 kind: web page
 language: en

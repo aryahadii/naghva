@@ -1,5 +1,6 @@
 ---
 url: https://cult.news/musique/le-printemps-du-jazz-persan-a-la-seine-musicale-le-1er-avril/
+archive: "https://web.archive.org/web/20260718144841/https://cult.news/musique/le-printemps-du-jazz-persan-a-la-seine-musicale-le-1er-avril/"
 title: La voix du jazz persan à la Seine Musicale le 1er avril
 status: processed
 tier: journalism

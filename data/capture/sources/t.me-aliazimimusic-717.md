@@ -1,5 +1,6 @@
 ---
 url: https://t.me/AliAzimiMusic/717
+archive: "https://web.archive.org/web/20250105024033/https://t.me/AliAzimiMusic/717"
 title: 'Ali Azimi: 717'
 publisher: Ali Azimi
 language: mul

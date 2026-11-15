@@ -1,5 +1,6 @@
 ---
 url: https://www.vaakrecords.com/events/bomrani-live-in-london
+archive: "https://web.archive.org/web/20260513213749/https://www.vaakrecords.com/events/bomrani-live-in-london"
 title: Bomrani Live in London's Lafayette | Vaak Records
 status: processed
 tier: own

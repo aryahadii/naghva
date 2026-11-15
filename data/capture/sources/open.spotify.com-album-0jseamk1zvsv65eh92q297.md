@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/0JSeAmK1zVSv65Eh92q297
+archive: "https://web.archive.org/web/20250408163742/https://open.spotify.com/album/0JSeAmK1zVSv65Eh92q297"
 title: Listen to Stereo Tull Presents - Album by Kiosk | Spotify
 status: processed
 kind: web page

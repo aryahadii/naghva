@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/gozar-ep/1705996589
+archive: "https://web.archive.org/web/20241111133004/https://music.apple.com/us/album/gozar-ep/1705996589"
 title: Gozar - EP | Apple Music
 language: en
 publisher: Apple Music

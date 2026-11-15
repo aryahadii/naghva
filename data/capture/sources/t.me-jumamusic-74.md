@@ -1,5 +1,6 @@
 ---
 url: https://t.me/jumamusic/74
+archive: "https://web.archive.org/web/20250322125600/https://t.me/jumamusic/74"
 title: جوما — 74
 kind: telegram post
 language: fa

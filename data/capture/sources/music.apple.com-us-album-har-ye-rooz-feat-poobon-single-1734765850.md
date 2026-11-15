@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/har-ye-rooz-feat-poobon-single/1734765850
+archive: "https://web.archive.org/web/20261013163419/https://music.apple.com/us/album/har-ye-rooz-feat-poobon-single/1734765850"
 title: Har Ye Rooz (feat. Poobon)  - Single by Hichkas on Apple Music
 kind: web page
 language: en

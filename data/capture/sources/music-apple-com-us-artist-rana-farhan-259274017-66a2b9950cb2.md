@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/artist/rana-farhan/259274017
+archive: "https://web.archive.org/web/20231216003343/https://music.apple.com/us/artist/rana-farhan/259274017"
 title: Rana Farhan on Apple Music
 status: processed
 kind: web page

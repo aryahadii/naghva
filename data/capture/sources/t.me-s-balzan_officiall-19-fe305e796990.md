@@ -1,5 +1,6 @@
 ---
 url: https://t.me/s/balzan_officiall/19
+archive: "https://web.archive.org/web/20251227224814/https://t.me/s/balzan_officiall/19"
 title: 'Balzan: Debut released notice'
 status: processed
 kind: telegram post

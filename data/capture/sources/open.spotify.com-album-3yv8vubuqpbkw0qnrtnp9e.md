@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/3yv8vubuqPbkW0qNrtnp9E
+archive: "https://web.archive.org/web/20221222122207/https://open.spotify.com/album/3yv8vubuqPbkW0qNrtnp9E"
 title: Listen to Michael Jackson Passed Away - Single by Kiosk | Spotify
 status: processed
 kind: web page

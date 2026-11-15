@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/3DfOKCgZPA2InXFW1CpPWS
+archive: "https://web.archive.org/web/20220830140852/https://open.spotify.com/album/3DfOKCgZPA2InXFW1CpPWS"
 title: Before Autumn After Autumn - EP by Amin Homaei | Spotify
 language: en
 publisher: Spotify

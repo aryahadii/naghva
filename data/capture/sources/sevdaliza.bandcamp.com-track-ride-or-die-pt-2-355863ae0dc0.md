@@ -1,5 +1,6 @@
 ---
 url: https://sevdaliza.bandcamp.com/track/ride-or-die-pt-2
+archive: "https://web.archive.org/web/20261003200311/https://sevdaliza.bandcamp.com/track/ride-or-die-pt-2"
 title: Ride or Die Pt.2 | Sevdaliza, Tokischa, Villano Antillano | Sevdaliza
 language: en
 publisher: Sevdaliza

@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/jumaprojets/jenabe-abr
+archive: "https://web.archive.org/web/20240602074119/https://soundcloud.com/jumaprojets/jenabe-abr"
 title: Jenabe abr -جنابِ اَبر
 kind: music track
 author: Jumaprojets

@@ -1,5 +1,6 @@
 ---
 url: https://t.me/s/balzan_officiall/64
+archive: "https://web.archive.org/web/20251221173150/https://t.me/s/balzan_officiall/64"
 title: 'Balzan: صدها ستاره: early artist release'
 status: processed
 kind: telegram post

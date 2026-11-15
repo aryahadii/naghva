@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/behtar-az-dark-va-sokoon/1796003697
+archive: "https://web.archive.org/web/20260726213535/https://music.apple.com/us/album/behtar-az-dark-va-sokoon/1796003697"
 title: Behtar az Dark va Sokoon — Apple Music
 language: en
 publisher: Apple Music

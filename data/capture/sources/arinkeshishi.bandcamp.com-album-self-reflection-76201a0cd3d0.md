@@ -1,5 +1,6 @@
 ---
 url: https://arinkeshishi.bandcamp.com/album/self-reflection
+archive: "https://web.archive.org/web/20241226161322/https://arinkeshishi.bandcamp.com/album/self-reflection"
 title: Self-Reflection | Arin Keshishi
 language: en
 publisher: Bandcamp (Arin Keshishi)

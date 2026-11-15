@@ -1,5 +1,6 @@
 ---
 url: https://azamali.bandcamp.com/track/once-more-all-is-green
+archive: "https://web.archive.org/web/20260723205308/https://azamali.bandcamp.com/track/once-more-all-is-green"
 title: ONCE MORE, ALL IS GREEN | Azam Ali Feat. Efrén López | Azam Ali
 kind: web page
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://habibmeftah.bandcamp.com/album/unbalanced
+archive: "https://web.archive.org/web/20260512014036/https://habibmeftah.bandcamp.com/album/unbalanced"
 title: Unbalanced | Habib Meftah
 status: processed
 kind: web page

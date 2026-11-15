@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/leila-nick-am-remix-single/1818796714
+archive: "https://web.archive.org/web/20251114195404/https://music.apple.com/us/album/leila-nick-am-remix-single/1818796714"
 title: Leila (Nick AM Remix) - Single - Album by Kourosh Yaghmaei & Nick AM - Apple Music
 status: processed
 kind: web page

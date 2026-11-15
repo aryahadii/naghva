@@ -1,5 +1,6 @@
 ---
 url: https://golsarz.bandcamp.com/track/03-golsa-sargashteh
+archive: "https://web.archive.org/web/20230710123434/https://golsarz.bandcamp.com/track/03-golsa-sargashteh"
 title: 03 - Golsa - Sargashteh | Golsa
 status: processed
 kind: web page

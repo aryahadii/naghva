@@ -1,5 +1,6 @@
 ---
 url: https://en.wikipedia.org/wiki/Dang_Show
+archive: "https://web.archive.org/web/20251130090731/https://en.wikipedia.org/wiki/Dang_Show"
 title: Dang Show
 language: en
 status: processed

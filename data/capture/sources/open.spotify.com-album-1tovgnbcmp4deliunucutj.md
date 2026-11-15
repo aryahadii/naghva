@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/1toVGNBCMP4dELiUNUcuTJ
+archive: "https://web.archive.org/web/20201103150044/https://open.spotify.com/album/1toVGNBCMP4dELiUNUcuTJ"
 title: Listen to 1414 - EP by Shahin Najafi | Spotify
 status: processed
 kind: web page

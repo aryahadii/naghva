@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/baaraan-toee/821133151
+archive: "https://web.archive.org/web/20250116092417/https://music.apple.com/us/album/baaraan-toee/821133151"
 title: Baaraan Toee - Album by Chaartaar - Apple Music
 language: en
 publisher: Apple Music

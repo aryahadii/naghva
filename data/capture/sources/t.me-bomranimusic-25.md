@@ -1,5 +1,6 @@
 ---
 url: https://t.me/bomranimusic/25
+archive: "https://web.archive.org/web/20250108040153/https://t.me/bomranimusic/25"
 title: باد و اتوبان — بمرانی
 kind: web page
 language: fa

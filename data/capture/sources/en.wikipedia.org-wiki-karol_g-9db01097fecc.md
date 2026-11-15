@@ -1,5 +1,6 @@
 ---
 url: https://en.wikipedia.org/wiki/Karol_G
+archive: "https://web.archive.org/web/20261021104220/https://en.wikipedia.org/wiki/Karol_G"
 title: KAROL G identity
 status: processed
 tier: wikipedia

@@ -1,5 +1,6 @@
 ---
 url: https://crammed-discs.bandcamp.com/album/shy-angels
+archive: "https://web.archive.org/web/20251011102721/https://crammed-discs.bandcamp.com/album/shy-angels"
 title: Shy Angels | Sussan Deyhim | Crammed Discs
 status: processed
 tier: own

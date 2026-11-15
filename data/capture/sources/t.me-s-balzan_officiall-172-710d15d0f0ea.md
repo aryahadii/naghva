@@ -1,5 +1,6 @@
 ---
 url: https://t.me/s/balzan_officiall/172
+archive: "https://web.archive.org/web/20251228041240/https://t.me/s/balzan_officiall/172"
 title: 'Balzan: بوسه‌ی باد منتشر شد'
 status: processed
 kind: telegram post

@@ -1,5 +1,6 @@
 ---
 url: https://niyaz.lnk.to/sumudacoustic
+archive: "https://web.archive.org/web/20260211003515/https://niyaz.lnk.to/sumudacoustic"
 title: Niyaz - Sumud Acoustic - EP
 status: processed
 tier: own

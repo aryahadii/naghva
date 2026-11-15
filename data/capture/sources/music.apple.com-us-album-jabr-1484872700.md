@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/jabr/1484872700
+archive: "https://web.archive.org/web/20250706170521/https://music.apple.com/us/album/jabr/1484872700"
 title: Jabr - Album by Mohsen Namjoo - Apple Music
 status: processed
 kind: web page

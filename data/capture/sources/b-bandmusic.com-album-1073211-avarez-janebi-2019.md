@@ -1,5 +1,6 @@
 ---
 url: https://b-bandmusic.com/album/1073211/avarez-janebi-2019
+archive: "https://web.archive.org/web/20240719112016/https://b-bandmusic.com/album/1073211/avarez-janebi-2019"
 title: Avarez Janebi (2019) عوارض جانبی | B-band|بی‌بند
 status: processed
 tier: own

@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/bande-naaf-ta-khatte-saaf-single/1605509799
+archive: "https://web.archive.org/web/20260304100916/https://music.apple.com/us/album/bande-naaf-ta-khatte-saaf-single/1605509799"
 title: Bande Naaf Ta Khatte Saaf - Single - Album by Yas & MOÉR - Apple Music
 status: processed
 kind: web page

@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/03Ewp6nI2gEGIwPzIWDlj4
+archive: "https://web.archive.org/web/20250825152231/https://open.spotify.com/album/03Ewp6nI2gEGIwPzIWDlj4"
 title: 'Back From The Brink: Pre-Revolution Psychedelic Rock From Iran: 1973-1979 | Spotify'
 kind: web page
 language: en

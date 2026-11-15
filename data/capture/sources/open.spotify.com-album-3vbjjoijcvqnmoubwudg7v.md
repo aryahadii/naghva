@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/3VBJJoIJCvqnmOUbwuDg7v
+archive: "https://web.archive.org/web/20201226110818/https://open.spotify.com/album/3VBJJoIJCvqnmOUbwuDg7v"
 title: Listen to Eshghe Sorat (Amor De La Velocidad) - Album by Kiosk | Spotify
 status: processed
 kind: web page

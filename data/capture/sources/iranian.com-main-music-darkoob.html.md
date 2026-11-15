@@ -1,5 +1,6 @@
 ---
 url: https://iranian.com/main/music/darkoob.html
+archive: "https://web.archive.org/web/20260404160954/http://iranian.com/main/music/darkoob.html"
 title: Darkoob | Iranian.com
 kind: web page
 language: en

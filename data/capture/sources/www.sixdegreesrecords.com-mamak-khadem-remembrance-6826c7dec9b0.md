@@ -1,5 +1,6 @@
 ---
 url: https://www.sixdegreesrecords.com/mamak-khadem-remembrance/
+archive: "https://web.archive.org/web/20260712175725/https://www.sixdegreesrecords.com/mamak-khadem-remembrance/"
 title: Mamak Khadem – Remembrance
 language: en
 publisher: Six Degrees Records

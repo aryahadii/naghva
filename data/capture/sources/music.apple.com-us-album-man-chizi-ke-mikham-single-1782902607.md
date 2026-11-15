@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/man-chizi-ke-mikham-single/1782902607
+archive: "https://web.archive.org/web/20250702204003/https://music.apple.com/us/album/man-chizi-ke-mikham-single/1782902607"
 title: Man Chizi Ke Mikham - Single by Hichkas on Apple Music
 kind: web page
 language: en

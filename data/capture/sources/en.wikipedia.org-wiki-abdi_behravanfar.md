@@ -1,5 +1,6 @@
 ---
 url: https://en.wikipedia.org/wiki/Abdi_Behravanfar
+archive: "https://web.archive.org/web/20251113045337/https://en.wikipedia.org/wiki/Abdi_Behravanfar"
 title: Abdi Behravanfar
 kind: web page
 language: en

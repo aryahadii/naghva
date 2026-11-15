@@ -1,5 +1,6 @@
 ---
 url: https://www.bbc.com/culture/article/20230502-hichkas-the-song-that-became-an-iranian-protest-anthem
+archive: "https://web.archive.org/web/20261104015829/https://www.bbc.com/culture/article/20230502-hichkas-the-song-that-became-an-iranian-protest-anthem"
 title: 'Hichkas: The song that became an Iranian protest anthem'
 language: en
 author: Arian Khameneh

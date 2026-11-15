@@ -1,5 +1,6 @@
 ---
 url: https://t.me/halehseyfizadeh/187
+archive: "https://web.archive.org/web/20240911232932/https://t.me/halehseyfizadeh/187"
 title: '"مِی زده "'
 kind: telegram post
 language: mul

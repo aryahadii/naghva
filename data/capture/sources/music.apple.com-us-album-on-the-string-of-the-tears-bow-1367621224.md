@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/on-the-string-of-the-tears-bow/1367621224
+archive: "https://web.archive.org/web/20240616153247/https://music.apple.com/us/album/on-the-string-of-the-tears-bow/1367621224"
 title: On the String of the Tear's Bow - Album by Mohsen Namjoo - Apple Music
 status: processed
 kind: web page

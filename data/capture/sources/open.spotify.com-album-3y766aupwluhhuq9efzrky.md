@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/3y766AUpwLuhhuq9eFzRky
+archive: "https://web.archive.org/web/20260909011707/https://open.spotify.com/album/3y766AUpwLuhhuq9eFzRky"
 title: Listen to Alibi Pt. 3 (with Jonita Gandhi, Rusha & Blizza, Pabllo Vittar and Yseult) - Single by Sevdaliza | Spotify
 status: processed
 kind: web page

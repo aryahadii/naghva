@@ -1,5 +1,6 @@
 ---
 url: https://en.wikipedia.org/wiki/Elyanna
+archive: "https://web.archive.org/web/20261112234446/https://en.wikipedia.org/wiki/Elyanna"
 title: Elyanna identity
 status: processed
 tier: wikipedia

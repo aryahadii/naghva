@@ -1,5 +1,6 @@
 ---
 url: https://t.me/miladderakhshaniofficial/965
+archive: "https://web.archive.org/web/20240910082019/https://t.me/miladderakhshaniofficial/965"
 title: Milad Derakhshani — post 965
 kind: telegram post
 language: fa

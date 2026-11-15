@@ -1,5 +1,6 @@
 ---
 url: https://www.factmag.com/2016/03/02/ash-koosha-interview-ninja-tune-virtual-reality/
+archive: "https://web.archive.org/web/20251214015248/https://www.factmag.com/2016/03/02/ash-koosha-interview-ninja-tune-virtual-reality/"
 title: Ash Koosha is pushing electronic music into a virtual reality
 language: en
 author: Miles Bowe

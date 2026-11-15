@@ -1,5 +1,6 @@
 ---
 url: https://rami.ir/taranehaye-rami-album/
+archive: "https://web.archive.org/web/20260225012300/https://rami.ir/taranehaye-rami-album/"
 title: آلبوم موسیقی ترانه‌های رامی
 language: fa
 publisher: Rami.ir

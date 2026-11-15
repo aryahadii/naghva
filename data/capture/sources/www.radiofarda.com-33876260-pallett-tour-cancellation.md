@@ -1,5 +1,6 @@
 ---
 url: https://www.radiofarda.com/a/pallett-canceled-concerts-in-protest-against-ban-on-female-musicians-performing-/33876260.html
+archive: "https://web.archive.org/web/20261104000641/https://www.radiofarda.com/a/pallett-canceled-concerts-in-protest-against-ban-on-female-musicians-performing-/33876260.html"
 title: گروه پالت در اعتراض به ممنوعیت اجرای نوازنده زن، تور کنسرت‌های خود را لغو کرد
 language: fa
 tier: journalism

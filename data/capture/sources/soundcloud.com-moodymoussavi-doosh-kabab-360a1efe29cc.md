@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/moodymoussavi/doosh-kabab
+archive: "https://web.archive.org/web/20250424221728/https://soundcloud.com/moodymoussavi/doosh-kabab"
 title: Doosh Kabab - Moody Moussavi
 kind: web page
 language: en

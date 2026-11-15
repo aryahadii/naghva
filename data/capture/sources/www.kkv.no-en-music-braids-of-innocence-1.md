@@ -1,5 +1,6 @@
 ---
 url: https://www.kkv.no/en/music/braids-of-innocence-1
+archive: "https://web.archive.org/web/20260411211509/https://www.kkv.no/en/music/braids-of-innocence-1"
 title: Braids of Innocence - KKV
 kind: web page
 language: en

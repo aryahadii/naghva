@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/ghesse-e-zirzamin-feat-erwin-khachikian-arad-aria-arian/1605485928
+archive: "https://web.archive.org/web/20250124202514/https://music.apple.com/us/album/ghesse-e-zirzamin-feat-erwin-khachikian-arad-aria-arian/1605485928"
 title: Ghesse E Zirzamin (feat. Erwin Khachikian, Arad Aria & Arian Naeini) - Single - Album by Yas - Apple Music
 status: processed
 kind: web page

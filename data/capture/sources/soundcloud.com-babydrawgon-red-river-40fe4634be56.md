@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/babydrawgon/red-river
+archive: "https://web.archive.org/web/20250331201056/https://soundcloud.com/babydrawgon/red-river"
 title: Red River
 status: processed
 kind: web page

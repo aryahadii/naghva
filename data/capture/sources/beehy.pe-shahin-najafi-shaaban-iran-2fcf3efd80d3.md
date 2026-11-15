@@ -1,5 +1,6 @@
 ---
 url: https://beehy.pe/shahin-najafi-shaaban-iran/
+archive: "https://web.archive.org/web/20251112114848/https://beehy.pe/shahin-najafi-shaaban-iran/"
 title: https://beehy.pe/shahin-najafi-shaaban-iran/
 status: processed
 tier: journalism

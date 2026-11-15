@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/sedayam-bezan-single/1460243566
+archive: "https://web.archive.org/web/20260304044750/https://music.apple.com/us/album/sedayam-bezan-single/1460243566"
 title: Sedayam Bezan - Single by Chaartaar on Apple Music
 kind: web page
 language: en

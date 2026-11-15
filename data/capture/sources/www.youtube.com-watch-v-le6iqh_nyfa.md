@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=Le6iQh_nyfA
+archive: "https://web.archive.org/web/20240528181657/https://www.youtube.com/watch?v=Le6iQh_nyfA"
 title: Ali Azimi - Dige Vaghtesh Resideh (Official Video) | علی عظیمی - دیگه وقتش رسیده
 language: mul
 publisher: Ali Azimi

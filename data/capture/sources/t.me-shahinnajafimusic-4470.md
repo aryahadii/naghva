@@ -1,5 +1,6 @@
 ---
 url: https://t.me/shahinnajafimusic/4470
+archive: "https://web.archive.org/web/20250108054730/https://t.me/shahinnajafimusic/4470"
 title: 'Semen: release and collaboration'
 kind: telegram post
 language: mul

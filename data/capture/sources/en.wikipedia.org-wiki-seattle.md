@@ -1,5 +1,6 @@
 ---
 url: https://en.wikipedia.org/wiki/Seattle
+archive: "https://web.archive.org/web/20261113074336/https://en.wikipedia.org/wiki/Seattle"
 title: "Seattle"
 kind: web page
 language: en

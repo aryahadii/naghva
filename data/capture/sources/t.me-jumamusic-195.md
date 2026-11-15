@@ -1,5 +1,6 @@
 ---
 url: https://t.me/jumamusic/195
+archive: "https://web.archive.org/web/20241204020910/https://t.me/jumamusic/195"
 title: جوما — 195
 kind: telegram post
 language: fa

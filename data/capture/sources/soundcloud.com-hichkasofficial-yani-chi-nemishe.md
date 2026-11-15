@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/hichkasofficial/yani-chi-nemishe
+archive: "https://web.archive.org/web/20250702203831/https://soundcloud.com/hichkasofficial/yani-chi-nemishe"
 title: Yani Chi Nemishe on SoundCloud
 kind: web page
 language: mul

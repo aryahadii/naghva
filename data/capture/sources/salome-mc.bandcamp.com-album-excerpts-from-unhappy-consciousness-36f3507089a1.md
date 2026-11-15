@@ -1,5 +1,6 @@
 ---
 url: https://salome-mc.bandcamp.com/album/excerpts-from-unhappy-consciousness
+archive: "https://web.archive.org/web/20230529110116/https://salome-mc.bandcamp.com/album/excerpts-from-unhappy-consciousness"
 title: Excerpts From Unhappy Consciousness | Salome Mc
 language: en
 author: Salome Mc

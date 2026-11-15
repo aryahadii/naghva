@@ -1,5 +1,6 @@
 ---
 url: https://t.me/yastunes/498
+archive: "https://web.archive.org/web/20220828095906/https://t.me/yastunes/498"
 title: YAS Telegram post 498
 status: processed
 tier: own

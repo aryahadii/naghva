@@ -1,5 +1,6 @@
 ---
 url: https://fa.wikipedia.org/wiki/هادی_پاکزاد
+archive: "https://web.archive.org/web/20250523110517/https://fa.wikipedia.org/wiki/%D9%87%D8%A7%D8%AF%DB%8C_%D9%BE%D8%A7%DA%A9%D8%B2%D8%A7%D8%AF"
 title: "هادی پاکزاد"
 kind: web page
 language: fa

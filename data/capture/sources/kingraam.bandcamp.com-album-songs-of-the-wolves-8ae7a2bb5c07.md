@@ -1,5 +1,6 @@
 ---
 url: https://kingraam.bandcamp.com/album/songs-of-the-wolves
+archive: "https://web.archive.org/web/20250522204542/https://kingraam.bandcamp.com/album/songs-of-the-wolves"
 title: Songs of the Wolves | King Raam
 language: en
 status: processed

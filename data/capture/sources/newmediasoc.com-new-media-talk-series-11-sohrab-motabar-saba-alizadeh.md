@@ -1,5 +1,6 @@
 ---
 url: https://newmediasoc.com/new-media-talk-series-11-sohrab-motabar-saba-alizadeh/
+archive: "https://web.archive.org/web/20201030160327/https://newmediasoc.com/new-media-talk-series-11-sohrab-motabar-saba-alizadeh/"
 title: 'New Media Talk Series # 11 | Sohrab Motabar & Saba Alizadeh'
 kind: web page
 language: en

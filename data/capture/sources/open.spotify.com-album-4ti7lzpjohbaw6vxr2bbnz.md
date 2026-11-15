@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/4Ti7LZpjohbaw6vXr2bBNz
+archive: "https://web.archive.org/web/20191215070950/https://open.spotify.com/album/4Ti7LZpjohbaw6vXr2bBNz"
 title: 'Listen to Triple Distilled: Live At Yoshi''s - Album by Kiosk | Spotify'
 status: processed
 kind: web page

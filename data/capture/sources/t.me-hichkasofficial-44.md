@@ -1,5 +1,6 @@
 ---
 url: https://t.me/hichkasofficial/44
+archive: "https://web.archive.org/web/20250417090853/https://t.me/hichkasofficial/44"
 title: Hichkas on Jangale Asfalt artwork
 language: en
 publisher: Hichkas

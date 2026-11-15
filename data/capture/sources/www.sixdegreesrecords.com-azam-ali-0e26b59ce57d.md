@@ -1,5 +1,6 @@
 ---
 url: https://www.sixdegreesrecords.com/azam-ali/
+archive: "https://web.archive.org/web/20260614163248/https://www.sixdegreesrecords.com/azam-ali/"
 title: Azam Ali — Six Degrees Records
 kind: web page
 language: en

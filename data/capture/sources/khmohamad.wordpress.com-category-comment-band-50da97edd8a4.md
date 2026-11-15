@@ -1,5 +1,6 @@
 ---
 url: https://khmohamad.wordpress.com/category/comment-band/
+archive: "https://web.archive.org/web/20230417103221/https://khmohamad.wordpress.com/category/comment-band/"
 title: Comment Band | مجله کادانس
 kind: web page
 language: fa

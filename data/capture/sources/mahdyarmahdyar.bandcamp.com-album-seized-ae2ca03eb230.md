@@ -1,5 +1,6 @@
 ---
 url: https://mahdyarmahdyar.bandcamp.com/album/seized
+archive: "https://web.archive.org/web/20240511093254/https://mahdyarmahdyar.bandcamp.com/album/seized"
 title: Seized | Mahdyar
 language: en
 status: processed

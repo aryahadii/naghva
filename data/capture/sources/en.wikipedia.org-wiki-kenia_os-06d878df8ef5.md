@@ -1,5 +1,6 @@
 ---
 url: https://en.wikipedia.org/wiki/Kenia_Os
+archive: "https://web.archive.org/web/20261013120314/https://en.wikipedia.org/wiki/Kenia_Os"
 title: Kenia Os identity
 status: processed
 tier: wikipedia

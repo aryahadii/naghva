@@ -1,5 +1,6 @@
 ---
 url: https://www.nixstudios.net/music/hand-in-hand
+archive: "https://web.archive.org/web/20260528151300/https://www.nixstudios.net/music/hand-in-hand"
 title: Hand In Hand | Nix Studios
 kind: web page
 language: en

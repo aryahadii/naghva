@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/yellow-sky-blue-sun/409091601
+archive: "https://web.archive.org/web/20260908175002/https://music.apple.com/us/album/yellow-sky-blue-sun/409091601"
 title: Yellow Sky Blue Sun - Album by Bomrani - Apple Music
 language: en
 publisher: Apple Music

@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/ayeneh-single/1694837095
+archive: "https://web.archive.org/web/20260907030642/https://music.apple.com/us/album/ayeneh-single/1694837095"
 title: Ayeneh - Single — Apple Music
 kind: web page
 language: en

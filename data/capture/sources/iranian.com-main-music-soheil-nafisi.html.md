@@ -1,5 +1,6 @@
 ---
 url: https://iranian.com/main/music/soheil-nafisi.html
+archive: "https://web.archive.org/web/20260404162509/http://iranian.com/main/music/soheil-nafisi.html"
 title: Soheil Nafisi
 kind: web page
 language: en

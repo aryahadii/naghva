@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/2L4UhCnlktxe65qU8FajS1
+archive: "https://web.archive.org/web/20260516232321/https://open.spotify.com/album/2L4UhCnlktxe65qU8FajS1"
 title: Listen to Oy - Album by Mohsen Namjoo | Spotify
 status: processed
 kind: web page

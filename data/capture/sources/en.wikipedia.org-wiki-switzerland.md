@@ -1,5 +1,6 @@
 ---
 url: https://en.wikipedia.org/wiki/Switzerland
+archive: "https://web.archive.org/web/20261110044658/https://en.wikipedia.org/wiki/Switzerland"
 title: "Switzerland"
 kind: web page
 language: en

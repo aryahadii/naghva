@@ -1,5 +1,6 @@
 ---
 url: https://www.alimentation-generale.net/events/kel-live-club-techno-jazz-house-uk-garage
+archive: "https://web.archive.org/web/20260713221454/https://www.alimentation-generale.net/events/kel-live-club-techno-jazz-house-uk-garage"
 title: KEL LIVE&CLUB (techno, jazz, house, uk garage)
 status: processed
 kind: web page

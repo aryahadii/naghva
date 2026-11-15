@@ -1,5 +1,6 @@
 ---
 url: https://www.honaronline.ir/Section-music-5/100098-keeping-the-flame-alive-kaveh-afagh-chords-insistent-rock-beat-and-catchy-melody
+archive: "https://web.archive.org/web/20250706221010/https://www.honaronline.ir/Section-music-5/100098-keeping-the-flame-alive-kaveh-afagh-chords-insistent-rock-beat-and-catchy-melody"
 title: 'Keeping the Flame Alive: Kaveh Afagh'
 language: en
 publisher: Honaronline

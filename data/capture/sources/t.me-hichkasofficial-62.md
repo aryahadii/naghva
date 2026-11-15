@@ -1,5 +1,6 @@
 ---
 url: https://t.me/hichkasofficial/62
+archive: "https://web.archive.org/web/20250417115739/https://t.me/hichkasofficial/62"
 title: 'Hichkas Telegram post 62: هیچکس × پوبون - هر یه روز'
 kind: telegram post
 language: fa

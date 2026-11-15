@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/artist/yas/415474542
+archive: "https://web.archive.org/web/20250810030101/https://music.apple.com/us/artist/yas/415474542"
 title: Yas - Apple Music
 status: processed
 kind: web page

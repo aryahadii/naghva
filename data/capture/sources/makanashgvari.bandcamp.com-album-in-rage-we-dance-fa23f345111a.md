@@ -1,5 +1,6 @@
 ---
 url: https://makanashgvari.bandcamp.com/album/in-rage-we-dance
+archive: "https://web.archive.org/web/20250715201218/https://makanashgvari.bandcamp.com/album/in-rage-we-dance"
 title: In Rage We Dance
 status: processed
 language: en

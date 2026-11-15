@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/endless-ending-ep/1215348841
+archive: "https://web.archive.org/web/20190806001148/https://music.apple.com/us/album/endless-ending-ep/1215348841"
 title: Endless Ending - EP - Album by Pallett - Apple Music
 language: en
 publisher: Apple Music

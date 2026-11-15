@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/bamdadamman/ideal
+archive: "https://web.archive.org/web/20240912070032/https://soundcloud.com/bamdadamman/ideal"
 title: Stream Ideal [Prod. Mafogh] by Bamdad | Listen online for free on SoundCloud
 status: processed
 tier: discography

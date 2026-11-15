@@ -1,5 +1,6 @@
 ---
 url: https://en.wikipedia.org/wiki/Stockholm
+archive: "https://web.archive.org/web/20261104075623/https://en.wikipedia.org/wiki/Stockholm"
 title: "Stockholm"
 kind: web page
 language: en

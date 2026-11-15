@@ -1,5 +1,6 @@
 ---
 url: https://commentband.bandcamp.com/album/going-higher
+archive: "https://web.archive.org/web/20140518025927/http://commentband.bandcamp.com:80/album/going-higher"
 title: Going Higher | Comment Band
 kind: web page
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://ninjatune.net/release/ash-koosha/i-aka-i
+archive: "https://web.archive.org/web/20260720191902/https://ninjatune.net/release/ash-koosha/i-aka-i"
 title: I AKA I / Ash Koosha / Release / Ninja Tune
 language: en
 publisher: Ninja Tune

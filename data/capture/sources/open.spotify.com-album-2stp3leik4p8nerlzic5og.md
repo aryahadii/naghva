@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/2sTp3LeIK4P8NeRlzic5oG
+archive: "https://web.archive.org/web/20250711192848/https://open.spotify.com/album/2sTp3LeIK4P8NeRlzic5oG"
 title: Listen to bagh e vahsh e jahani (Global Zoo) - Album by Kiosk | Spotify
 status: processed
 kind: web page

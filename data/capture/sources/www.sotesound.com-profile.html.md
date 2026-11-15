@@ -1,5 +1,6 @@
 ---
 url: https://www.sotesound.com/profile.html
+archive: "https://web.archive.org/web/20260810083155/http://www.sotesound.com/profile.html"
 title: Sote | Profile
 kind: web page
 language: en

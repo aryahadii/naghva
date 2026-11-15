@@ -1,5 +1,6 @@
 ---
 url: https://mamakkhadem.lnk.to/remembrance
+archive: "https://web.archive.org/web/20260516054502/https://mamakkhadem.lnk.to/remembrance"
 title: Mamak Khadem - Remembrance
 language: en
 tier: own

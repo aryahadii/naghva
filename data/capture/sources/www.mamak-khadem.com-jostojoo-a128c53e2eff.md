@@ -1,5 +1,6 @@
 ---
 url: https://www.mamak-khadem.com/jostojoo
+archive: "https://web.archive.org/web/20200730031608/http://www.mamak-khadem.com:80/jostojoo"
 title: Jostojoo
 language: en
 publisher: Mamak Khadem

@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/jumaprojets
+archive: "https://web.archive.org/web/20240910133627/https://soundcloud.com/jumaprojets"
 title: Jumaprojets
 kind: music profile
 author: Jumaprojets

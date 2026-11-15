@@ -1,5 +1,6 @@
 ---
 url: https://en.wikipedia.org/wiki/Amsterdam
+archive: "https://web.archive.org/web/20261112144024/https://en.wikipedia.org/wiki/Amsterdam"
 title: "Amsterdam"
 kind: web page
 language: en

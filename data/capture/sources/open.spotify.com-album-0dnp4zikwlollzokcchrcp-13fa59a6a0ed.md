@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/0dNp4zikWlOlLZokCChrCp
+archive: "https://web.archive.org/web/20240913064650/https://open.spotify.com/album/0dNp4zikWlOlLZokCChrCp"
 title: Mojaz - Album by Hichkas | Spotify
 language: en
 publisher: Spotify

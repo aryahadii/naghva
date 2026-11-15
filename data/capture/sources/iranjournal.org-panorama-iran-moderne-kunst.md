@@ -1,5 +1,6 @@
 ---
 url: https://iranjournal.org/panorama/iran-moderne-kunst
+archive: "https://web.archive.org/web/20260716021335/https://iranjournal.org/panorama/iran-moderne-kunst"
 title: „Ambivalent wie die Moderne selbst“ — Iran Journal
 kind: web page
 language: de

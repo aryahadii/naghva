@@ -1,5 +1,6 @@
 ---
 url: https://en.wikipedia.org/wiki/Hichkas
+archive: "https://web.archive.org/web/20260113112305/https://en.wikipedia.org/wiki/Hichkas"
 title: Hichkas
 language: en
 publisher: Wikipedia

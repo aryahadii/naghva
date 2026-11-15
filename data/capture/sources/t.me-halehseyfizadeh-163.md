@@ -1,5 +1,6 @@
 ---
 url: https://t.me/halehseyfizadeh/163
+archive: "https://web.archive.org/web/20250416104725/https://t.me/halehseyfizadeh/163"
 title: 'مرا بخوان: شعر و موسیقی کابین'
 kind: telegram post
 language: fa

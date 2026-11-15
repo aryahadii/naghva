@@ -1,5 +1,6 @@
 ---
 url: https://avarasti.bandcamp.com/track/butterflies-hugging-each-other
+archive: "https://web.archive.org/web/20261017172004/https://avarasti.bandcamp.com/track/butterflies-hugging-each-other"
 title: Butterflies hugging each other — Ava Rasti
 language: en
 status: processed

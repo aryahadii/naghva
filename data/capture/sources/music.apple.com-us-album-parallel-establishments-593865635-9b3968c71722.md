@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/parallel-establishments/593865635
+archive: "https://web.archive.org/web/20260119064752/https://music.apple.com/us/album/parallel-establishments/593865635"
 title: Parallel Establishments - Album by Kiosk - Apple Music
 language: en
 publisher: Apple Music

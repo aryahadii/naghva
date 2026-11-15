@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/immortal-identity/1545381700
+archive: "https://web.archive.org/web/20250920022928/https://music.apple.com/us/album/immortal-identity/1545381700"
 title: Immortal Identity
 language: en
 publisher: Apple Music

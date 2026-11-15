@@ -1,5 +1,6 @@
 ---
 url: https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%B4%DA%A9_(%DA%AF%D8%B1%D9%88%D9%87_%D9%85%D9%88%D8%B3%DB%8C%D9%82%DB%8C)
+archive: "https://web.archive.org/web/20250511171600/https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%B4%DA%A9_(%DA%AF%D8%B1%D9%88%D9%87_%D9%85%D9%88%D8%B3%DB%8C%D9%82%DB%8C)"
 title: ارشک (گروه موسیقی)
 language: fa
 publisher: Wikipedia (fa)

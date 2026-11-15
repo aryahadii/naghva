@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/1jWY51CHY9k7hkEWkDMnbU
+archive: "https://web.archive.org/web/20210630174527/https://open.spotify.com/album/1jWY51CHY9k7hkEWkDMnbU"
 title: Esharate Nazar — Spotify
 kind: web page
 language: en

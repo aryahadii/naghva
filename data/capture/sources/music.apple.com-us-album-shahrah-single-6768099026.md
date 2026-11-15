@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/shahrah-single/6768099026
+archive: "https://web.archive.org/web/20260902072248/https://music.apple.com/us/album/shahrah-single/6768099026"
 title: Shahrah - Single - Album by Ebi & Shahin Najafi - Apple Music
 status: processed
 kind: web page

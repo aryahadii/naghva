@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/playlist?list=OLAK5uy_mbgInAdZ9Atgxu97mQdAmsJW7xHQx8PgQ
+archive: "https://web.archive.org/web/20260107015254/https://www.youtube.com/playlist?list=OLAK5uy_mbgInAdZ9Atgxu97mQdAmsJW7xHQx8PgQ"
 title: Barf - YouTube
 kind: web page
 language: en

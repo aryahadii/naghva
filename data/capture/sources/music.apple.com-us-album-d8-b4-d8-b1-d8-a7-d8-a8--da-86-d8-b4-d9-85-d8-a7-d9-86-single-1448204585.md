@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/%D8%B4%D8%B1%D8%A7%D8%A8-%DA%86%D8%B4%D9%85%D8%A7%D9%86-single/1448204585
+archive: "https://web.archive.org/web/20250706170521/https://music.apple.com/us/album/%D8%B4%D8%B1%D8%A7%D8%A8-%DA%86%D8%B4%D9%85%D8%A7%D9%86-single/1448204585"
 title: شراب چشمان - Single - Album by Mohsen Namjoo & Ehsan Matoori - Apple Music
 status: processed
 kind: web page

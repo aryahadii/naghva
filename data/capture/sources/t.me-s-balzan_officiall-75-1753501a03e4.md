@@ -1,5 +1,6 @@
 ---
 url: https://t.me/s/balzan_officiall/75
+archive: "https://web.archive.org/web/20251228041612/https://t.me/s/balzan_officiall/75"
 title: 'Balzan: سرود گم‌شده: original credits'
 status: processed
 kind: telegram post

@@ -1,5 +1,6 @@
 ---
 url: https://contemporaryiranian.com/artists/music/radio-tehran/
+archive: "https://web.archive.org/web/20250522080938/https://contemporaryiranian.com/artists/music/radio-tehran/"
 title: Radio Tehran
 language: en
 publisher: Contemporary Iranian
