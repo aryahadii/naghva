@@ -1,9 +1,11 @@
 """Tests for the enrichment gate's code checks. None of them use the network."""
 
 import shutil
+import subprocess
 import sys
 import tempfile
 import unittest
+import urllib.parse
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
@@ -56,6 +58,21 @@ class Fetching(unittest.TestCase):
         self.assertIsNone(gate_common._cached("plain", "https://example.com", fetch, False))
         self.assertEqual(gate_common._cached("plain", "https://example.com", fetch, False), "the page")
         self.assertEqual(gate_common._cached("plain", "https://example.com", None, False), "the page")
+
+    def test_the_browser_text_includes_meta_contents(self):
+        page = ("<title>Bezan - song by Hichkas</title>"
+                "<meta property='og:description' content='Hichkas · Bezan · Song · 2021'>"
+                "<body><p>Bezan</p><p>Hichkas</p>" + "<p>filler</p>" * 40)
+        try:
+            run = subprocess.run(
+                ["node", str(gate_common.RENDER_SCRIPT), "data:text/html;charset=utf-8," + urllib.parse.quote(page)],
+                capture_output=True, text=True, timeout=60,
+            )
+        except (OSError, subprocess.TimeoutExpired):
+            self.skipTest("node is not available")
+        if run.returncode == 2:
+            self.skipTest("playwright is not installed")
+        self.assertIn("Hichkas · Bezan · Song · 2021", run.stdout)
 
 
 class Claims(unittest.TestCase):
