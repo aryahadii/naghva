@@ -1,20 +1,15 @@
 import { strings } from './i18n';
-import type { Lang } from './record';
+import { loadRecord, type Lang } from './record';
 
-/** The listening platforms the data policy allows, named by host. */
-const HOSTS: [RegExp, keyof ReturnType<typeof strings>['platforms']][] = [
-  [/(^|\.)(youtube\.com|youtu\.be)$/, 'youtube'],
-  [/(^|\.)open\.spotify\.com$/, 'spotify'],
-  [/(^|\.)soundcloud\.com$/, 'soundcloud'],
-  [/(^|\.)bandcamp\.com$/, 'bandcamp'],
-  [/(^|\.)music\.apple\.com$/, 'apple'],
-  [/(^|\.)t\.me$/, 'telegram'],
-];
+export type PlatformKey = keyof ReturnType<typeof strings>['platforms'];
 
-export function platformKey(url: string): keyof ReturnType<typeof strings>['platforms'] | undefined {
-  const host = new URL(url).hostname.replace(/^www\./, '');
-  const match = HOSTS.find(([pattern]) => pattern.test(host));
-  return match?.[1];
+const hostAllowed = (host: string, hosts: string[]) => hosts.some((h) => host === h || host.endsWith(`.${h}`));
+
+/** The listening platform a URL is on, by the registry's `platforms` table. */
+export function platformKey(url: string): PlatformKey | undefined {
+  const host = new URL(url).hostname.toLowerCase();
+  const match = Object.entries(loadRecord().platforms).find(([, hosts]) => hostAllowed(host, hosts));
+  return match?.[0] as PlatformKey | undefined;
 }
 
 export function platform(url: string, lang: Lang): string {

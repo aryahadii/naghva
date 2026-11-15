@@ -63,6 +63,12 @@ def check_registry(registry, report):
     for name, spec in quals.items():
         here = "%s: qualifier `%s`" % (where, name)
         _check_value_spec(here, spec, types, terms, name, report)
+    for role in registry.get("creation roles") or []:
+        if role not in terms.get("role", []):
+            report.error(where, "creation role `%s` is not in the term list for role" % role)
+    for key, hosts in (registry.get("platforms") or {}).items():
+        if not (isinstance(hosts, list) and hosts):
+            report.error(where, "platform `%s` needs a list of hosts" % key)
 
 
 def _compare_names(where, what, registry_names, spec_names, report):
@@ -153,6 +159,24 @@ def check_item(item, store, registry, report):
             report.error(here, "not used on a %s" % data["type"])
         for n, st in enumerate(statements, 1):
             _check_statement("%s[%d]" % (here, n), st, spec, prop, store, registry, report)
+    _check_role_kinds(where, data, registry, report)
+
+
+# A release's performers perform; its contributors write or produce.
+ROLE_KIND_OF = {"performer": "performance", "contributor": "creation"}
+
+
+def _check_role_kinds(where, data, registry, report):
+    if data["type"] != "release":
+        return
+    kinds = ds.role_kinds(registry)
+    for prop, wanted in ROLE_KIND_OF.items():
+        for n, st in enumerate(data["statements"].get(prop, []), 1):
+            for role in ds.as_list((st.get("qualifiers") or {}).get("role", [])):
+                if kinds.get(role, wanted) != wanted:
+                    report.error("%s: %s[%d]" % (where, prop, n),
+                                 "`%s` is a %s role; it belongs under %s" % (
+                                     role, kinds[role], "contributor" if prop == "performer" else "performer"))
 
 
 def _check_merge(where, data, store, report):
