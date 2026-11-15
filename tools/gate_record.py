@@ -11,7 +11,8 @@ import urllib.parse
 
 import datastore as ds
 from gate_common import (
-    PLATFORM_NAMES, TIER_GROUPS, Finding, http_json, is_recording, platform_of, statements, url_value,
+    PLATFORM_NAMES, REGISTRY, TIER_GROUPS, Finding, http_json, is_recording, platform_of, statements,
+    url_value,
 )
 
 NOTES_DIR = ("capture", "notes")
@@ -50,8 +51,8 @@ def searched_platforms(store, artist_id):
         if artist_id not in (about if isinstance(about, list) else [about]):
             continue
         for name, day in (meta.get("searched") or {}).items():
-            for known in PLATFORM_NAMES:
-                if str(name).casefold() == known.casefold():
+            for key, known in zip(REGISTRY["platforms"], PLATFORM_NAMES):
+                if str(name).casefold() in (key.casefold(), known.casefold()):
                     out[known] = str(day)
     return out
 
@@ -88,7 +89,7 @@ def check_platforms(artist):
         for name, urls in links.items():
             counts[name] += 1
             for url in urls:
-                if PROFILE_SHAPES[name].search(url):
+                if name in PROFILE_SHAPES and PROFILE_SHAPES[name].search(url):
                     wrong_shape.append("%s %s: %s" % (release.id, _title(release), url))
     if wrong_shape:
         findings.append(Finding(

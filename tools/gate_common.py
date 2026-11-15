@@ -19,16 +19,11 @@ from pathlib import Path
 
 import datastore as ds
 
-# The listen platforms of specs/data-policies.md, by host.
-PLATFORMS = (
-    ("Apple Music", ("music.apple.com",)),
-    ("Spotify", ("open.spotify.com",)),
-    ("YouTube", ("youtube.com", "youtu.be")),
-    ("SoundCloud", ("soundcloud.com",)),
-    ("Bandcamp", ("bandcamp.com",)),
-    ("Telegram", ("t.me",)),
-)
-PLATFORM_NAMES = [name for name, _ in PLATFORMS]
+# The listen platforms and their hosts are the registry's `platforms`; the
+# gate names them as the site does.
+REGISTRY = ds.load_registry()
+_LABELS = json.loads((ds.REPO / "site" / "src" / "strings" / "en.json").read_text(encoding="utf-8"))["platforms"]
+PLATFORM_NAMES = [_LABELS.get(key, key) for key in REGISTRY["platforms"]]
 
 # Source tiers are free words in capture; these are the groups the gate counts.
 TIER_GROUPS = {
@@ -56,11 +51,9 @@ NO_BROWSER = []  # set when the render script finds no Playwright
 
 
 def platform_of(url):
-    host = ds.url_host(url) or ""
-    for name, hosts in PLATFORMS:
-        if any(host == h or host.endswith("." + h) for h in hosts):
-            return name
-    return None
+    """The name of the listen platform a URL is on, or None."""
+    key = ds.platform_of(url, REGISTRY)
+    return _LABELS.get(key, key) if key else None
 
 
 def kept(statements):
