@@ -277,6 +277,56 @@ def _check_date(where, value, report):
             report.warn(where, "year %s with no calendar; if it is Jalali, say `calendar: jalali`" % year)
 
 
+# --- Duplicates -------------------------------------------------------------------------
+
+DUPLICATE_NAME_TYPES = ("person", "act")
+
+
+def check_duplicates(store, report):
+    """Warn about records that look like one thing entered twice.
+
+    Two people or two acts with the same name, two releases with the same
+    listen link, and the same value twice under one property of one item.
+    These are warnings: two different people can share a name.
+    """
+    names, links = {}, {}
+    for item in store.items.values():
+        data = item.data
+        if not isinstance(data.get("statements"), dict):
+            continue
+        where = store.rel(item.path)
+        for prop, statements in data["statements"].items():
+            seen = {}
+            for n, st in enumerate(statements, 1):
+                if not isinstance(st, dict):
+                    continue
+                key = repr((st.get("value"), st.get("qualifiers")))
+                if key in seen:
+                    report.warn("%s: %s[%d]" % (where, prop, n),
+                                "same value as %s[%d]; put both references on one statement" % (prop, seen[key]))
+                seen.setdefault(key, n)
+        if data["type"] in DUPLICATE_NAME_TYPES:
+            for name in {ds.normalize(st["value"]["text"]).casefold()
+                         for st in data["statements"].get("name", [])
+                         if ds.value_kind(st.get("value")) == "text"}:
+                names.setdefault((data["type"], name), []).append(item)
+        if data["type"] == "release":
+            for url in {st["value"].rstrip("/") for st in data["statements"].get("listen link", [])
+                        if ds.value_kind(st.get("value")) == "url"}:
+                links.setdefault(url, []).append(item)
+    for (kind, name), items in sorted(names.items()):
+        for other in items[1:]:
+            report.warn(store.rel(other.path),
+                        "a %s named %r is also %s; merge them if they are one" % (kind, name, items[0].id))
+    warned = set()
+    for url, items in sorted(links.items()):
+        for other in items[1:]:
+            if (items[0].id, other.id) not in warned:
+                warned.add((items[0].id, other.id))
+                report.warn(store.rel(other.path),
+                            "listen link %s is also on %s; merge them if they are one release" % (url, items[0].id))
+
+
 # --- Articles -------------------------------------------------------------------------------
 
 ARTIST_TYPES = ("person", "act")
@@ -331,14 +381,25 @@ def validate(root, report):
             check_source(source, store, report)
     check_source_urls(store, report)
     check_archive_links(store, report)
+    live = []
     for item in store.items.values():
         if _schema_ok(item.path, item.data, item_schema, store, report):
             check_item(item, store, registry, report)
+            live.append(item)
+    check_duplicates(_LiveItems(store, live), report)
 
     for article in store.articles.values():
         if _schema_ok(article.path, article.meta, article_schema, store, report):
             check_article(article, store, report)
     return store
+
+
+class _LiveItems:
+    """The store, seen through only its schema-valid items that are not merged."""
+
+    def __init__(self, store, items):
+        self.items = {i.id: i for i in items if "merged into" not in i.data}
+        self.rel = store.rel
 
 
 def _schema_ok(path, data, validator, store, report):

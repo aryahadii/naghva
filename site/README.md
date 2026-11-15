@@ -142,15 +142,18 @@ this repository.
 | --- | --- | --- |
 | `npm run media:add` | whoever adds images to the record | none |
 | `npm run media:upload` | the owner, after `media:add` | R2 write key |
+| `npm run media:prune` | the owner, after the change is on main | R2 write key |
 | `npm run media:fetch` | every build (part of `npm run build`) | R2 read key |
 | `npm run media:build` | every build (part of `npm run build`) | none |
 
 `media:add` downloads each image the record uses that `media.json` lacks,
 keeps the original in `media-cache/` and adds it to `media.json`; it drops the
 entries of images the record no longer uses. `media:upload` puts the missing
-originals in the bucket and deletes the ones `media.json` no longer lists, so
-taking an image down is: remove it from the record, `media:add`,
-`media:upload`, commit. Keys go in `site/.env` (never committed):
+originals in the bucket and never deletes. The bucket is the only copy of each
+original, so deleting is its own step: `media:prune` lists the originals that
+neither the local `media.json` nor main's lists, and deletes them only when run
+as `npm run media:prune -- --delete`. Taking an image down is: remove it from
+the record, `media:add`, commit, merge, then `media:prune -- --delete`. Keys go in `site/.env` (never committed):
 `R2_ACCOUNT_ID`, `R2_ACCESS_KEY_ID`, `R2_SECRET_ACCESS_KEY`, and
 `R2_BUCKET` if it isn't `naghva-media`.
 
