@@ -6,6 +6,7 @@ import ArtistCard from '../../components/ArtistCard.astro';
 import ShelfControls from '../../components/ShelfControls.astro';
 import Search from '../../islands/Search';
 import nightGarden from '../../assets/art/night-garden.png';
+import imprint from '../../../../assets/brand/logos/imprint/naghva-imprint-on-dark-solid.png';
 import { dateHtml, isolate, nameHtml } from '../../lib/html';
 import { list, locale, parts, strings } from '../../lib/i18n';
 import { COVER_WIDTHS, imageOf } from '../../lib/images';
@@ -65,12 +66,15 @@ const hints = tries.length ? parts(t.hints).flatMap((p) => (typeof p === 'string
 const gardenQuality = 75;
 const heart = await getImage({ src: nightGarden, width: 1060, height: 886, fit: 'cover', widths: [360, 480, 640, 750, 800, 860, 1060], quality: gardenQuality });
 
+// The imprint as search engines show it beside the site's name.
+const logo = new URL((await getImage({ src: imprint, width: 1200, format: 'png' })).src, Astro.site).href;
+
 // The arrow stays with the last word when the words wrap.
 const onward = t.onwardLink.split(' ');
 const onwardEnd = onward.pop();
 ---
 
-<Page lang={lang} title={t.homeTitle} description={t.homeDescription} path="" section="home" jsonld={siteJsonLd(lang, Astro.site!)}>
+<Page lang={lang} title={t.homeTitle} description={t.homeDescription} path="" section="home" jsonld={siteJsonLd(lang, Astro.site!, logo)}>
   <main class="home" id="content">
     <section class="home-hero">
       <div class="home-copy wrap">
