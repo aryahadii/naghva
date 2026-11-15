@@ -1,5 +1,6 @@
 ---
 url: https://laist.com/shows/the-frame/iranian-rockers-kiosk-celebrate-nowruz-with-free-show-at-lacma-on-sunday
+archive: https://web.archive.org/web/20261115144007/https://laist.com/shows/the-frame/iranian-rockers-kiosk-celebrate-nowruz-with-free-show-at-lacma-on-sunday
 title: Iranian rockers Kiosk celebrate Nowruz with free show at LACMA on Sunday
 kind: web page
 language: en

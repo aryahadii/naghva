@@ -1,5 +1,6 @@
 ---
 url: https://photo-ladies.squarespace.com/words/2025/11/21/interview-azam-ali
+archive: https://web.archive.org/web/20261115145035/https://photo-ladies.squarespace.com/words/2025/11/21/interview-azam-ali
 title: 'Interview: Azam Ali — The Photo Ladies'
 kind: web page
 language: en

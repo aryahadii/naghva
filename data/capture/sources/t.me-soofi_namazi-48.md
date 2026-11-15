@@ -1,5 +1,6 @@
 ---
 url: https://t.me/soofi_namazi/48
+archive: https://web.archive.org/web/20261115154424/https://t.me/soofi_namazi/48
 title: Soofi — Telegram post 48
 status: processed
 kind: telegram post

@@ -1,5 +1,6 @@
 ---
 url: https://commons.wikimedia.org/wiki/File:Hypernova_band_members.jpg
+archive: https://web.archive.org/web/20261115140915/https://commons.wikimedia.org/wiki/File:Hypernova_band_members.jpg
 title: File:Hypernova band members.jpg - Wikimedia Commons
 status: processed
 tier: other

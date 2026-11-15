@@ -1,5 +1,6 @@
 ---
 url: https://gigmit-production.s3.amazonaws.com/uploads/media_item/364123/Q_A___Head_to_Head_with_Abdi_Behravanfar__Khorasan_Blues_Pioneer_.pdf
+archive: https://web.archive.org/web/20261115141810/https://gigmit-production.s3.amazonaws.com/uploads/media_item/364123/Q_A___Head_to_Head_with_Abdi_Behravanfar__Khorasan_Blues_Pioneer_.pdf
 title: Head to Head with Abdi Behravanfar, Khorasan Blues Pioneer
 kind: web page
 language: en

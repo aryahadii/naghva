@@ -1,5 +1,6 @@
 ---
 url: https://grandperformances.org/blog/shahinnajafi
+archive: https://web.archive.org/web/20261115141853/https://www.grandperformances.org/blog/shahinnajafi
 title: Shahin Najafi — Grand Performances
 kind: web page
 language: en

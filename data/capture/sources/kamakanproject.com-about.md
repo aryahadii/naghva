@@ -1,5 +1,6 @@
 ---
 url: https://kamakanproject.com/about
+archive: https://web.archive.org/web/20261115143656/https://kamakanproject.com/about
 title: About Kamakan
 kind: web page
 language: en

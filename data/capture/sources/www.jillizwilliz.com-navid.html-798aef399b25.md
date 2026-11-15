@@ -1,5 +1,6 @@
 ---
 url: https://www.jillizwilliz.com/navid
+archive: https://web.archive.org/web/20261115163735/https://www.jillizwilliz.com/navid
 title: Navid Ghaleb
 kind: web page
 language: mul

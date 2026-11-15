@@ -1,5 +1,6 @@
 ---
 url: https://college.berklee.edu/events/40th-annual-berklee-international-folk-festival-featuring-arooj-aftab-10
+archive: https://web.archive.org/web/20261115140807/https://college.berklee.edu/events/40th-annual-berklee-international-folk-festival-featuring-arooj-aftab-10
 title: 40th Annual Berklee International Folk Festival
 status: processed
 kind: web page

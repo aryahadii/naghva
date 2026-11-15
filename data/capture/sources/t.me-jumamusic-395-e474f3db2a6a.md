@@ -1,5 +1,6 @@
 ---
 url: https://t.me/jumamusic/395
+archive: https://web.archive.org/web/20261115152219/https://t.me/jumamusic/395
 title: جوما — 395
 language: fa
 author: Juma

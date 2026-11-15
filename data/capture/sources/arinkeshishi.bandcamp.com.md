@@ -1,5 +1,6 @@
 ---
 url: https://arinkeshishi.bandcamp.com
+archive: https://web.archive.org/web/20261115140036/https://arinkeshishi.bandcamp.com/album/self-reflection
 title: Self-Reflection | Arin Keshishi
 status: processed
 tier: own

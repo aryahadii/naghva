@@ -1,5 +1,6 @@
 ---
 url: https://qantara.de/en/article/iranian-singer-songwriter-mohsen-namjoo-innovator
+archive: https://web.archive.org/web/20261115145452/https://qantara.de/en/article/iranian-singer-songwriter-mohsen-namjoo-innovator
 title: 'Iranian Singer-Songwriter Mohsen Namjoo: The Innovator'
 language: en
 author: Marian Brehmer

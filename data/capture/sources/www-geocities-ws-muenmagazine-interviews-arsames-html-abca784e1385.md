@@ -1,5 +1,6 @@
 ---
 url: https://www.geocities.ws/muenmagazine/interviews/Arsames.html
+archive: https://web.archive.org/web/20261115161128/https://www.geocities.ws/muenmagazine/interviews/Arsames.html
 title: Arsames interview
 language: en
 publisher: MUEN / G. Cataline and Lissy MacMillan

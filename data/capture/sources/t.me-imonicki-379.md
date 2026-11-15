@@ -1,5 +1,6 @@
 ---
 url: https://t.me/imonicki/379
+archive: https://web.archive.org/web/20261115152018/https://t.me/imonicki/379
 title: "این مدت کلی از شما ازمون خواستین که ورژن کامل این اجرا رو ببینین، بالاخره ادیتش "
 status: processed
 kind: telegram post

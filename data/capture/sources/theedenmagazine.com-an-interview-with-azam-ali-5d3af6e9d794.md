@@ -1,5 +1,6 @@
 ---
 url: https://theedenmagazine.com/an-interview-with-azam-ali/
+archive: https://web.archive.org/web/20261115160234/https://theedenmagazine.com/an-interview-with-azam-ali/
 title: An interview with Azam Ali - The Eden Magazine
 kind: web page
 language: en
