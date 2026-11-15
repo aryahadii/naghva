@@ -41,8 +41,7 @@ def is_recording(source):
     """Whether a source is heard or watched, so its passages may be transcriptions."""
     if str(source.meta.get("kind") or "").strip().lower() in AUDIO_KINDS:
         return True
-    host = ds.url_host(str(source.meta.get("url") or "")) or ""
-    return any(host == h or host.endswith("." + h) for h in AUDIO_HOSTS)
+    return ds.host_allowed(ds.url_host(str(source.meta.get("url") or "")), AUDIO_HOSTS)
 
 USER_AGENT = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36"
 CACHE = Path(os.environ.get("NAGHVA_GATE_CACHE", Path.home() / ".cache" / "naghva-gate"))

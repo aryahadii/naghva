@@ -10,6 +10,7 @@ import re
 import urllib.parse
 from collections import Counter
 
+import archive
 import datastore as ds
 from gate_common import (
     PLATFORM_NAMES, REGISTRY, TIERS, Finding, http_json, is_recording, platform_of, statements, tier_of,
@@ -311,10 +312,7 @@ def check_sources(artist, offline=False):
         ))
 
     web = [s for s in sources if s.meta.get("url")]
-    no_archive = [
-        s.name for s in web
-        if not s.meta.get("archive") and "web.archive.org" not in str(s.meta.get("url"))
-    ]
+    no_archive = [s.name for s in web if archive.needs_archive(s)]
     if no_archive:
         findings.append(Finding("note", "archive", "Cited web sources without an archive link", no_archive))
 
