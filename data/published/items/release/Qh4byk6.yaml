@@ -14,6 +14,17 @@ statements:
       quote: |-
         Listen to Live session at Studio 13 - Album by Mohsen Namjoo | Spotify
       accessed: '2026-11-09'
+  release type:
+  - value: album
+    references:
+    - source: music.apple.com-us-album-live-session-at-studio-13-1847671019
+      quote: |-
+        Live session at Studio 13 - Album by Mohsen Namjoo - Apple Music
+      accessed: '2026-11-09'
+    - source: open.spotify.com-album-5modcd6rymk9swu93rmkih
+      quote: |-
+        Listen to Live session at Studio 13 - Album by Mohsen Namjoo | Spotify
+      accessed: '2026-11-09'
   listen link:
   - value: https://music.apple.com/us/album/live-session-at-studio-13/1847671019
     references:

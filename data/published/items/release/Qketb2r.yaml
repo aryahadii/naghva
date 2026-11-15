@@ -10,6 +10,13 @@ statements:
       quote: |-
         1404 - Single - Album by Yas - Apple Music
       accessed: '2026-11-09'
+  release type:
+  - value: album
+    references:
+    - source: music.apple.com-us-album-1404-single-1819093467
+      quote: |-
+        1404 - Single - Album by Yas - Apple Music
+      accessed: '2026-11-09'
   listen link:
   - value: https://music.apple.com/us/album/1404-single/1819093467
     references:

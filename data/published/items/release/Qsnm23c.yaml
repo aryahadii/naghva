@@ -26,6 +26,17 @@ statements:
     - source: open.spotify.com-album-0qoylzci29juu8zuylgfi0
       quote: name="music:release_date" content="2020-12-01"
       accessed: '2026-11-08'
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-barekat-single-1546136585-f061ed1da178
+      quote: |-
+        Listen to Barekat - Single by Damahi on Apple Music. 2020. 1 Song. Duration: 4 minutes.
+      accessed: '2026-10-19'
+    - source: open.spotify.com-album-0qoylzci29juu8zuylgfi0
+      quote: |-
+        Listen to Barekat - Single by Damahi | Spotify
+      accessed: '2026-11-08'
   performer:
   - value: Qep6nz6
     references:

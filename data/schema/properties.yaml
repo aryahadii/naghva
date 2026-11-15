@@ -51,6 +51,9 @@ properties:
   release date:
     used on: [release]
     value: date
+  release type:
+    used on: [release]
+    value: term
   performer:
     used on: [release, event]
     value: item
@@ -217,6 +220,13 @@ terms:
     - oboe
     - saxophone
     - tambura
+  release type:
+    - album
+    - ep
+    - single
+    - compilation
+    - soundtrack
+    - live album
 
 # Roles that write or produce rather than perform; every other role is
 # performed. On a release, a `performer` takes only performed roles and a

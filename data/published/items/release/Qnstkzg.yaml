@@ -33,6 +33,17 @@ statements:
       quote: |-
         این آلبوم در زمان انتشار در سال 1373 برای مدتی تبدیل به پرفروش ترین آلبوم در ایران شد.
       accessed: '2026-10-19'
+  release type:
+  - value: album
+    references:
+    - source: music.apple.com-us-album-khab-dar-bidari-1801057197-926bf6e01354
+      quote: |-
+        Khab Dar Bidari - Album by Farhad Mehrad - Apple Music
+      accessed: '2026-10-19'
+    - source: open.spotify.com-album-1rihwsvxtqwgoom8axqr5k-865840cd445c
+      quote: |-
+        Listen to Khab Dar Bidari - Album by Farhad Mehrad | Spotify
+      accessed: '2026-10-23'
   performer:
   - value: Qq6xyzn
     references:

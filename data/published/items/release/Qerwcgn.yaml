@@ -9,6 +9,17 @@ statements:
     - source: music.apple.com-us-album-old-of-yas-1605502238
       quote: Old of Yas - Album by yas - Apple Music
       accessed: '2026-11-08'
+  release type:
+  - value: album
+    references:
+    - source: music.apple.com-us-album-old-of-yas-1605502238
+      quote: |-
+        Old of Yas - Album by yas - Apple Music
+      accessed: '2026-11-08'
+    - source: open.spotify.com-album-7oq2hpjmaoe8pzlgdankgg
+      quote: |-
+        Listen to Old of YAS - Album by Yas | Spotify
+      accessed: '2026-11-08'
   listen link:
   - value: https://music.apple.com/us/album/old-of-yas/1605502238
     references:

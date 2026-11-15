@@ -362,6 +362,13 @@ person who wrote and sang a song has one statement of each.
           accessed: 2026-10-12
 ```
 
+### Release type
+
+`release type` says what form a release takes, from the closed list under
+`terms` in the registry: `album`, `ep`, `single`, `compilation`,
+`soundtrack` or `live album`. Cite a page that states it, such as an Apple
+Music title ending "- Single"; do not infer it from the number of tracks.
+
 ### Life events
 
 A `life event` keeps one moment of a person's or act's story in the source's

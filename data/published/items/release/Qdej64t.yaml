@@ -20,6 +20,13 @@ statements:
       quote: Three | سه
       accessed: '2026-11-13'
       locator: Artist portfolio title
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-three-feat-srivani-jade-single-1519613916-67252e6abc
+      quote: |-
+        Listen to Three (feat. Srivani Jade) - Single by Salome MC on Apple Music. 2019. 1 Song. Duration: 3 minutes.
+      accessed: '2026-11-13'
   performer:
   - value: Qd3ypxs
     references:

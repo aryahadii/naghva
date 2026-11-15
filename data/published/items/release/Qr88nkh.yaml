@@ -23,6 +23,13 @@ statements:
     - source: music.apple.com-us-album-prime-meridian-1611013229-b59b3cf89f0d
       quote: '"datePublished":"2021-03-01"'
       accessed: '2026-10-19'
+  release type:
+  - value: album
+    references:
+    - source: open.spotify.com-album-pallett-prime-meridian
+      quote: |-
+        Listen to Prime Meridian - Album by Pallett | Spotify
+      accessed: '2026-11-06'
   performer:
   - value: Qq5328q
     references:

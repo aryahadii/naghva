@@ -10,6 +10,13 @@ statements:
       quote: |-
         Listen to Yell by Arashk on Apple Music. 2008. 9 Songs. Duration: 50 minutes.
       accessed: '2026-10-20'
+  release type:
+  - value: album
+    references:
+    - source: music.apple.com-us-album-yell-295269459-ce3a38e66373
+      quote: |-
+        Yell - Album by Arashk - Apple Music
+      accessed: '2026-10-20'
   performer:
   - value: Q93d39e
     references:

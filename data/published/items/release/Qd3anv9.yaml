@@ -36,6 +36,17 @@ statements:
       quote: |-
         name="music:release_date" content="2015-09-04"
       accessed: '2026-11-08'
+  release type:
+  - value: album
+    references:
+    - source: music.apple.com-us-album-damahi-1201167750
+      quote: |-
+        Damahi - Album by Damahi - Apple Music
+      accessed: '2026-10-19'
+    - source: open.spotify.com-album-3fvlwtb4jz0jtpsd86thxf
+      quote: |-
+        Listen to Damahi - Album by Damahi | Spotify
+      accessed: '2026-11-08'
   performer:
   - value: Qep6nz6
     references:

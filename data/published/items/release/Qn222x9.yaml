@@ -11,6 +11,13 @@ statements:
         minutes.'
       accessed: '2026-11-13'
       locator: Album JSON-LD description
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-1766316098
+      quote: |-
+        Listen to The House of Ferend - Single by Soheil Nafisi on Apple Music. 2022. 1 Song. Duration: 2 minutes.
+      accessed: '2026-11-13'
   performer:
   - value: Qhevaad
     references:
