@@ -116,11 +116,15 @@ const sections = [
   { id: 'releases', label: T('Releases per year', 'انتشار در هر سال'), show: d.releases.days.length > 0 },
   { id: 'new-artists', label: T('When artists started', 'آغاز کار هنرمندان'), show: d.starts.total > 0 && d.starts.days.length / d.starts.total >= SHOW_AT },
   { id: 'based', label: T('Inside Iran or abroad', 'داخل یا خارج ایران'), show: bs.total > 0 && bs.known / bs.total >= SHOW_AT },
+  { id: 'left', label: T('When they left Iran', 'سال رفتن از ایران'), show: bs.total > 0 && bs.known / bs.total >= SHOW_AT && bs.left.length > 0 },
   { id: 'listen', label: T('Where to listen', 'کجا بشنویم'), show: ls.platforms.length >= 2 && ls.linked / ls.total >= SHOW_AT },
   { id: 'network', label: T('Who works with whom', 'همکاری‌ها'), show: net.nodes.length > 1 && hubs.length > 0 },
   { id: 'record', label: T('How complete the archive is', 'آرشیو چقدر کامل است'), show: true },
 ].filter((s) => s.show);
 const shown = (id: string) => sections.some((s) => s.id === id);
+// On wide screens these pairs sit side by side; a section whose partner is hidden keeps the full width.
+const PAIRS = [['based', 'listen'], ['new-artists', 'left']];
+const half = (id: string) => (PAIRS.some((pair) => pair.includes(id) && pair.every(shown)) ? ' q-half' : ' q-wide');
 ---
 
 <Page lang={lang} title={title} description={description} path="stats/" section="stats">
@@ -162,8 +166,38 @@ const shown = (id: string) => sections.some((s) => s.id === id);
     </section>
     )}
 
+    {shown('based') && (
+      <section class={`q${half('based')}`} id="based" aria-labelledby="based-h">
+        <div class="q-text">
+          <h2 id="based-h">{T('Do they live in Iran or abroad?', 'در ایران زندگی می‌کنند یا بیرون از ایران؟')}</h2>
+        </div>
+        <figure class="q-fig">
+          <ul class="hbars">
+            {placeRows.map(([name, v, c]) => (
+              <li><span class="hb-label">{name}</span><span class="hb-bar" style={`--w:${pct(v, placed)}%;--c:${c}`}></span><span class="hb-val">{p(v, placed)}</span></li>
+            ))}
+          </ul>
+        </figure>
+      </section>
+    )}
+
+    {shown('listen') && (
+      <section class={`q${half('listen')}`} id="listen" aria-labelledby="listen-h">
+        <div class="q-text">
+          <h2 id="listen-h">{T('Where can it be heard?', 'آثار را کجا می‌توان شنید؟')}</h2>
+        </div>
+        <figure class="q-fig">
+          <ul class="hbars">
+            {ls.platforms.map(([name, v]: [string, number]) => (
+              <li><span class="hb-label" dir="ltr">{name}</span><span class="hb-bar" style={`--w:${pct(v, ls.total)}%;--c:var(--coral)`}></span><span class="hb-val">{p(v, ls.total)}</span></li>
+            ))}
+          </ul>
+        </figure>
+      </section>
+    )}
+
     {shown('new-artists') && (
-      <section class="q q-wide" id="new-artists" aria-labelledby="new-artists-h">
+      <section class={`q${half('new-artists')}`} id="new-artists" aria-labelledby="new-artists-h">
         <div class="q-text">
           <h2 id="new-artists-h">{T('When did these artists start?', 'این هنرمندان از چه سالی کارشان را آغاز کردند؟')}</h2>
         </div>
@@ -181,50 +215,21 @@ const shown = (id: string) => sections.some((s) => s.id === id);
       </section>
     )}
 
-    {shown('based') && (
-      <section class="q q-wide" id="based" aria-labelledby="based-h">
+    {shown('left') && (
+      <section class={`q${half('left')}`} id="left" aria-labelledby="left-h">
         <div class="q-text">
-          <h2 id="based-h">{T('Do they live in Iran or abroad?', 'در ایران زندگی می‌کنند یا بیرون از ایران؟')}</h2>
+          <h2 id="left-h">{T('When did they leave Iran?', 'چه سالی از ایران رفتند؟')}</h2>
         </div>
         <figure class="q-fig">
-          <ul class="hbars">
-            {placeRows.map(([name, v, c]) => (
-              <li><span class="hb-label">{name}</span><span class="hb-bar" style={`--w:${pct(v, placed)}%;--c:${c}`}></span><span class="hb-val">{p(v, placed)}</span></li>
+          <div class="cols cols-short" dir="ltr" style={`--n:${left.length}`}>
+            <div class="grid" aria-hidden="true">{[1, 0].map((k) => <span style={`--k:${k}`}><b>{n(Math.round(leftMax * k))}</b></span>)}</div>
+            {left.map((s) => (
+              <div class={`col${s.earlier ? ' col-earlier' : ''}`} tabindex="0" role="button" data-tip={`${s.earlier ? earlierLabel : n(s.y)}: ${n(s.n)} ${T(s.n === 1 ? 'artist' : 'artists', 'هنرمند')}`} aria-label={`${s.earlier ? earlierLabel : n(s.y)}: ${n(s.n)}`} style={`--h:${(s.n / leftMax) * 100}%`}>
+                <div class="stack"><i style="--c:var(--coral);flex-grow:1"></i></div>
+                {s.earlier ? <span class="tick">{earlierLabel}</span> : s.y % 5 === 0 && s.y - FIRST > 2 && <span class={`tick${s.y % 10 ? ' tick-minor' : ''}`}>{n(s.y)}</span>}
+              </div>
             ))}
-          </ul>
-        </figure>
-        {bs.left.length > 0 && (
-          <div class="q-text">
-            <h3 id="left-h">{T('When did they leave Iran?', 'چه سالی از ایران رفتند؟')}</h3>
           </div>
-        )}
-        {bs.left.length > 0 && (
-          <figure class="q-fig" aria-labelledby="left-h">
-            <div class="cols cols-short" dir="ltr" style={`--n:${left.length}`}>
-              <div class="grid" aria-hidden="true">{[1, 0].map((k) => <span style={`--k:${k}`}><b>{n(Math.round(leftMax * k))}</b></span>)}</div>
-              {left.map((s) => (
-                <div class={`col${s.earlier ? ' col-earlier' : ''}`} tabindex="0" role="button" data-tip={`${s.earlier ? earlierLabel : n(s.y)}: ${n(s.n)} ${T(s.n === 1 ? 'artist' : 'artists', 'هنرمند')}`} aria-label={`${s.earlier ? earlierLabel : n(s.y)}: ${n(s.n)}`} style={`--h:${(s.n / leftMax) * 100}%`}>
-                  <div class="stack"><i style="--c:var(--coral);flex-grow:1"></i></div>
-                  {s.earlier ? <span class="tick">{earlierLabel}</span> : s.y % 5 === 0 && s.y - FIRST > 2 && <span class={`tick${s.y % 10 ? ' tick-minor' : ''}`}>{n(s.y)}</span>}
-                </div>
-              ))}
-            </div>
-          </figure>
-        )}
-      </section>
-    )}
-
-    {shown('listen') && (
-      <section class="q q-wide" id="listen" aria-labelledby="listen-h">
-        <div class="q-text">
-          <h2 id="listen-h">{T('Where can it be heard?', 'آثار را کجا می‌توان شنید؟')}</h2>
-        </div>
-        <figure class="q-fig">
-          <ul class="hbars">
-            {ls.platforms.map(([name, v]: [string, number]) => (
-              <li><span class="hb-label" dir="ltr">{name}</span><span class="hb-bar" style={`--w:${pct(v, ls.total)}%;--c:var(--coral)`}></span><span class="hb-val">{p(v, ls.total)}</span></li>
-            ))}
-          </ul>
         </figure>
       </section>
     )}
