@@ -3,7 +3,7 @@ url: https://soundcloud.com/bahramnouraei/3qgbhiebliig
 title: Goosht (feat. Peymandegar)
 kind: web page
 language: en
-tier: other
+tier: discography
 publisher: SoundCloud
 about:
 - Goosht

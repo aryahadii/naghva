@@ -3,7 +3,7 @@ url: https://music.apple.com/at/album/s%C3%BBret-faces-and-images/6771036041?l=e
 title: Sûret - Faces and Images - Apple Music
 kind: web page
 language: en
-tier: other
+tier: discography
 status: processed
 publisher: music.apple.com
 ---

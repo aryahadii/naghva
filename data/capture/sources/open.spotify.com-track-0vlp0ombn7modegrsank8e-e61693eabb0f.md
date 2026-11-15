@@ -4,7 +4,7 @@ title: Bar Gisouyat Ey Jan - Live - Spotify
 status: processed
 kind: web page
 language: en
-tier: other
+tier: discography
 about:
 - Monicki
 - Bar Gisouyat Ey Jan - Live

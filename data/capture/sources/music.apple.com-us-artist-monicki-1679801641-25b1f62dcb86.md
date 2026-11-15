@@ -4,7 +4,7 @@ title: Monicki - Apple Music (1679801641)
 status: processed
 kind: web page
 language: en
-tier: other
+tier: discography
 about:
 - Monicki
 ---

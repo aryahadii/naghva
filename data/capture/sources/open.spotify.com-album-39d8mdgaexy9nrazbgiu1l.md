@@ -4,7 +4,7 @@ title: Once Within A Time (Original Motion Picture Soundtrack) - Album by Philip
 kind: music catalog item
 language: en
 publisher: Spotify
-tier: other
+tier: discography
 about:
 - Philip Glass
 - Sussan Deyhim

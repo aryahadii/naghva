@@ -3,7 +3,7 @@ url: https://soundcloud.com/bahramnouraei/sets/khodha
 title: KHODHA
 kind: web page
 language: en
-tier: other
+tier: discography
 publisher: SoundCloud
 about:
 - Khodha

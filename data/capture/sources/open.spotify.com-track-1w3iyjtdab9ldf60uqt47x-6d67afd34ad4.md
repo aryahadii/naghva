@@ -5,7 +5,7 @@ title: It Won't Stay The Same - Spotify
 status: processed
 kind: web page
 language: en
-tier: other
+tier: discography
 about:
 - Monicki
 - It Won't Stay The Same

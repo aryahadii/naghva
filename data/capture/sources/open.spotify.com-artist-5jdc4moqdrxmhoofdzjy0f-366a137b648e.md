@@ -4,7 +4,7 @@ title: Sussan Deyhim
 status: processed
 kind: streaming catalogue profile
 language: en
-tier: other
+tier: discography
 publisher: Spotify
 about:
 - Sussan Deyhim

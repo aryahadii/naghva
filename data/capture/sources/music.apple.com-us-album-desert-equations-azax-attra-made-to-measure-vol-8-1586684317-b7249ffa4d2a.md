@@ -4,7 +4,7 @@ title: 'Desert Equations: Azax Attra (Made to Measure, Vol. 8)'
 kind: music catalog item
 language: en
 publisher: Apple Music
-tier: other
+tier: discography
 about:
 - Sussan Deyhim
 - Richard Horowitz

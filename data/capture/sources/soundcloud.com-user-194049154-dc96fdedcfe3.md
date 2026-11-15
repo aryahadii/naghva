@@ -4,7 +4,7 @@ title: Monicki - SoundCloud Boston candidate
 status: processed
 kind: web page
 language: en
-tier: other
+tier: discography
 about:
 - Monicki candidate
 ---

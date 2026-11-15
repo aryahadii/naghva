@@ -5,7 +5,7 @@ title: Pumpkin Latte - Spotify
 status: processed
 kind: web page
 language: en
-tier: other
+tier: discography
 about:
 - Monicki
 - Pumpkin Latte

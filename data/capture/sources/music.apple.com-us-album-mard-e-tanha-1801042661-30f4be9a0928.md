@@ -4,7 +4,7 @@ title: Mard-E Tanha - Album by Farhad Mehrad - Apple Music
 language: en
 publisher: Apple Music
 status: processed
-tier: other
+tier: discography
 ---
 
 > Mard-E Tanha - Album by Farhad Mehrad - Apple Music

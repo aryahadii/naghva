@@ -5,7 +5,7 @@ kind: web page
 language: en
 publisher: Apple Music
 status: processed
-tier: other
+tier: discography
 about:
 - 'Farhad Mehrad, The Covers Collection II: Whispers at Home'
 ---

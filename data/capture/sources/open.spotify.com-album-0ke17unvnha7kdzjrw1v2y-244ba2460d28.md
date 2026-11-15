@@ -3,7 +3,7 @@ url: https://open.spotify.com/album/0Ke17UNvnha7KdZJRW1v2y?si=fbyolaUbRLGIdOAOu7
 title: Listen to KHODHA - Album by Bahram | Spotify
 kind: web page
 language: en
-tier: other
+tier: discography
 publisher: Spotify
 about:
 - Khodha

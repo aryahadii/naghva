@@ -5,7 +5,7 @@ kind: web page
 language: en
 publisher: Spotify
 status: processed
-tier: other
+tier: discography
 about:
 - Farhad Mehrad, Live in Vienna, 1993
 ---

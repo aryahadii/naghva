@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/zoozanaghe/1612653428
 title: Zoozanaghe - Mehrad Hidden & Moody Moussavi
 kind: web page
 language: en
-tier: other
+tier: discography
 about:
 - Moody Moussavi
 - Mehrad Hidden

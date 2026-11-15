@@ -4,7 +4,7 @@ title: Ghamzeh (feat. Mo Shariat) - Apple Music
 status: processed
 kind: web page
 language: en
-tier: other
+tier: discography
 about:
 - Monicki
 - Ghamzeh (feat. Mo Shariat)

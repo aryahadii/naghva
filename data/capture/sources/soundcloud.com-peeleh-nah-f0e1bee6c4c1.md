@@ -3,7 +3,7 @@ url: https://soundcloud.com/peeleh/nah
 title: NA [Prod. Ashkan Mousavi]
 kind: web page
 language: en
-tier: other
+tier: discography
 publisher: SoundCloud
 about:
 - NA

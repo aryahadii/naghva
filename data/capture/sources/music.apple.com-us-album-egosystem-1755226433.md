@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/egosystem/1755226433
 title: Egosystem - Album by Peter Soleimanipour - Apple Music
 kind: web page
 language: en
-tier: other
+tier: discography
 publisher: Apple Music
 status: processed
 ---
