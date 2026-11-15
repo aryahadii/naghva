@@ -66,6 +66,13 @@ def check_registry(registry, report):
     for name, spec in quals.items():
         here = "%s: qualifier `%s`" % (where, name)
         _check_value_spec(here, spec, types, terms, name, report)
+    # Without a role list the missing list is the one error; don't repeat it per role.
+    for role in registry.get("creation roles") or [] if "role" in terms else []:
+        if role not in terms["role"]:
+            report.error(where, "creation role `%s` is not in the term list for role" % role)
+    for key, hosts in (registry.get("platforms") or {}).items():
+        if not (isinstance(hosts, list) and hosts):
+            report.error(where, "platform `%s` needs a list of hosts" % key)
 
 
 def _compare_names(where, what, registry_names, spec_names, report):
@@ -115,6 +122,15 @@ def check_source(source, store, report):
         report.warn(where, "processed but holds no blockquote, so nothing in it can be cited")
 
 
+def check_archive_links(store, report):
+    """One warning counting processed web sources with no archive link."""
+    missing = [s for s in store.sources.values()
+               if s.meta.get("status") == "processed" and s.meta.get("url") and not s.meta.get("archive")]
+    if missing:
+        report.warn(store.rel(store.root / "capture" / "sources"),
+                    "%d processed web sources have no `archive` link; run tools/archive.py" % len(missing))
+
+
 def check_source_urls(store, report):
     seen = {}
     for source in store.sources.values():
@@ -156,6 +172,24 @@ def check_item(item, store, registry, report):
             report.error(here, "not used on a %s" % data["type"])
         for n, st in enumerate(statements, 1):
             _check_statement("%s[%d]" % (here, n), st, spec, prop, store, registry, report)
+    _check_role_kinds(where, data, registry, report)
+
+
+# A release's performers perform; its contributors write or produce.
+ROLE_KIND_OF = {"performer": "performance", "contributor": "creation"}
+
+
+def _check_role_kinds(where, data, registry, report):
+    if data["type"] != "release":
+        return
+    kinds = ds.role_kinds(registry)
+    for prop, wanted in ROLE_KIND_OF.items():
+        for n, st in enumerate(data["statements"].get(prop, []), 1):
+            for role in ds.as_list((st.get("qualifiers") or {}).get("role", [])):
+                if kinds.get(role, wanted) != wanted:
+                    report.error("%s: %s[%d]" % (where, prop, n),
+                                 "`%s` is a %s role; it belongs under %s" % (
+                                     role, kinds[role], "contributor" if prop == "performer" else "performer"))
 
 
 def _check_merge(where, data, store, report):
@@ -274,6 +308,56 @@ def _check_date(where, value, report):
             report.warn(where, "year %s with no calendar; if it is Jalali, say `calendar: jalali`" % year)
 
 
+# --- Duplicates -------------------------------------------------------------------------
+
+DUPLICATE_NAME_TYPES = ("person", "act")
+
+
+def check_duplicates(store, report):
+    """Warn about records that look like one thing entered twice.
+
+    Two people or two acts with the same name, two releases with the same
+    listen link, and the same value twice under one property of one item.
+    These are warnings: two different people can share a name.
+    """
+    names, links = {}, {}
+    for item in store.items.values():
+        data = item.data
+        if not isinstance(data.get("statements"), dict):
+            continue
+        where = store.rel(item.path)
+        for prop, statements in data["statements"].items():
+            seen = {}
+            for n, st in enumerate(statements, 1):
+                if not isinstance(st, dict):
+                    continue
+                key = repr((st.get("value"), st.get("qualifiers")))
+                if key in seen:
+                    report.warn("%s: %s[%d]" % (where, prop, n),
+                                "same value as %s[%d]; put both references on one statement" % (prop, seen[key]))
+                seen.setdefault(key, n)
+        if data["type"] in DUPLICATE_NAME_TYPES:
+            for name in {ds.normalize(st["value"]["text"]).casefold()
+                         for st in data["statements"].get("name", [])
+                         if ds.value_kind(st.get("value")) == "text"}:
+                names.setdefault((data["type"], name), []).append(item)
+        if data["type"] == "release":
+            for url in {st["value"].rstrip("/") for st in data["statements"].get("listen link", [])
+                        if ds.value_kind(st.get("value")) == "url"}:
+                links.setdefault(url, []).append(item)
+    for (kind, name), items in sorted(names.items()):
+        for other in items[1:]:
+            report.warn(store.rel(other.path),
+                        "a %s named %r is also %s; merge them if they are one" % (kind, name, items[0].id))
+    warned = set()
+    for url, items in sorted(links.items()):
+        for other in items[1:]:
+            if (items[0].id, other.id) not in warned:
+                warned.add((items[0].id, other.id))
+                report.warn(store.rel(other.path),
+                            "listen link %s is also on %s; merge them if they are one release" % (url, items[0].id))
+
+
 # --- Articles -------------------------------------------------------------------------------
 
 ARTIST_TYPES = ("person", "act")
@@ -327,14 +411,26 @@ def validate(root, report):
         if _schema_ok(source.path, source.meta, source_schema, store, report):
             check_source(source, store, report)
     check_source_urls(store, report)
+    check_archive_links(store, report)
+    live = []
     for item in store.items.values():
         if _schema_ok(item.path, item.data, item_schema, store, report):
             check_item(item, store, registry, report)
+            live.append(item)
+    check_duplicates(_LiveItems(store, live), report)
 
     for article in store.articles.values():
         if _schema_ok(article.path, article.meta, article_schema, store, report):
             check_article(article, store, report)
     return store
+
+
+class _LiveItems:
+    """The store, seen through only its schema-valid items that are not merged."""
+
+    def __init__(self, store, items):
+        self.items = {i.id: i for i in items if "merged into" not in i.data}
+        self.rel = store.rel
 
 
 def _schema_ok(path, data, validator, store, report):
