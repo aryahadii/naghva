@@ -7,6 +7,8 @@
 - A life event is one moment, in the source's own words: an excerpt of a
   captured passage. A passage that tells several moments becomes several
   life events.
+- Record a listen platform under a note's `searched` only after searching
+  it that day and finding no profile; say in the note which names you tried.
 - New item IDs come from `tools/newid.py`, once `published/` has no item
   for the same thing. Never reuse or hand-pick one.
 - Run `tools/validate.py` before committing. Nothing that fails it is data.

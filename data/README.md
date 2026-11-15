@@ -23,7 +23,8 @@ Two layers, as the framework describes:
 
 - **Capture** is evidence. One Markdown file per source, with a few lines of
   metadata and a free body of verbatim quotes and notes. Many people and
-  agents write here at once; the only check is that the metadata parses.
+  agents write here at once; the only checks are that the metadata parses
+  and points at things that exist.
 - **Published** is the record. Wikibase-style items and statements, and an
   article per artist, every claim backed by a quote that exists in
   capture. It is the only thing the website reads, and it changes only
@@ -146,8 +147,8 @@ blockquote, and say so on the line after.
 ### Notes: `capture/notes/`
 
 Anything that is not a source: a worklist for an act, a list of suspected
-duplicates, a question for the owner. Free Markdown, never cited, never
-checked.
+duplicates, a question for the owner. Free Markdown, never cited, and not
+checked unless it has front matter.
 
 Keep related research together. Reuse an existing subject note, with sections
 for its releases, relationships and open questions; split it when that helps
@@ -155,6 +156,35 @@ reading. Another spelling or incoming record does not need another file.
 Match subjects through explicit identities and evidence, and keep uncertain
 matches visible. Check the other captured findings before calling evidence
 missing. Findings tied to one source belong beside that source's passages.
+
+A note also records the listen platforms searched for an artist where no
+profile was found, so that nobody has to wonder whether a missing platform
+was looked for. The note starts with front matter:
+
+```markdown
+---
+about: Q7k3m9x
+searched:
+  bandcamp: 2026-11-15
+  soundcloud: 2026-11-15
+---
+
+# Badnama worklist
+
+Searched Bandcamp and SoundCloud for "Badnama" and "بادنما": no account by
+the band, only an unrelated DJ.
+```
+
+| Key | Required | Value |
+| --- | --- | --- |
+| `about` | with `searched` | the person or act the note is about, by item ID |
+| `searched` | no | map from a platform key under `platforms` in the registry to the day it was searched, `YYYY-MM-DD` |
+
+Each entry under `searched` says: on that day the platform was searched for
+this artist and no profile was found. Say in the body which names were
+tried. A platform is recorded once per artist, in one note. When a search
+is repeated, update its day; when it finds a profile, add the
+`profile link` and remove the entry.
 
 ## Published
 
@@ -502,8 +532,10 @@ an allowed type; dates parse and Jalali dates are real dates; language tags
 are well-formed; references cite existing, processed capture files and quote
 words found in their blockquotes; listen links and images use an allowed host;
 merged items are empty and unreferenced; articles are named after a person or
-act and a language, and their citations and references match; and the
-registry's names match the spec's tables.
+act and a language, and their citations and references match; a note's
+searches are about a person or act, name registry platforms once per artist,
+and fall on real days not in the future, with a warning when the artist now
+has a profile link there; and the registry's names match the spec's tables.
 
 ## Workflow
 
