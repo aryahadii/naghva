@@ -15,3 +15,7 @@ status: processed
 > Mahsa has developed her personal style based on the Persian vocal tradition of classical and regional folk music, but with a contemporary expression.
 
 > Mahsa composes most of her songs herself, often with poems by classical Persian poets like Hafez and Rumi or contemporary ones like Fourogh Farokhzad and Mohammad Ibrahim Jafari.
+
+> Following her participation in the album Lullabies from the Axis of Evil (2004)
+
+Biography final paragraph, reread2026-11-13. It says this began her long collaboration with KKV and producer Erik Hillestad. The project relationship may predate release;2004 is the album year. Existing training/style/poetry passages also freshly checked against the full page. Archive discovery unavailable: https://web.archive.org/web/*/https://www.sixdegreesrecords.com/mahsa-vahdat/ .

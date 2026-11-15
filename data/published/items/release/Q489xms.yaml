@@ -1,0 +1,20 @@
+id: Q489xms
+type: release
+statements:
+  name:
+  - value:
+      text: Poet Guitar
+      language: en
+    references:
+    - &id001
+      source: www.golfamkhayam.com-recordings-845ec801d6
+      quote: Poet Guitar contains a selection of classical and contemporary repertoire of the classical guitar performed
+        and recorded by Golfam Khayam.
+      accessed: '2026-11-13'
+      locator: Poet Guitar, artist discography
+  performer:
+  - value: Qranggn
+    qualifiers:
+      role: guitar
+    references:
+    - *id001

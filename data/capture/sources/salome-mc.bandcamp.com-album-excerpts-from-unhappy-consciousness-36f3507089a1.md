@@ -20,3 +20,7 @@ status: processed
 
 > All Songs Composed, Written and Performed by Salome MC
 > All Songs Mixed by Hussein Shahani
+
+> https://f4.bcbits.com/img/a0242899362_5.jpg
+
+Open Graph cover image, read 2026-11-13.

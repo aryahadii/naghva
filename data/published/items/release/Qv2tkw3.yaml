@@ -7,8 +7,7 @@ statements:
       language: en
     references:
     - source: www.soundset.com-album-do753-6da6b1f071d2
-      quote: |-
-        Ravi Golfam Khayam - Guitar
+      quote: Ravi Golfam Khayam - Guitar
       accessed: '2026-10-19'
   performer:
   - value: Qranggn
@@ -16,15 +15,21 @@ statements:
       role: guitar
     references:
     - source: www.soundset.com-album-do753-6da6b1f071d2
-      quote: |-
-        Ravi Golfam Khayam - Guitar
+      quote: Ravi Golfam Khayam - Guitar
       accessed: '2026-10-19'
+  - value: Qtgyhqm
+    qualifiers:
+      role: oud
+    references:
+    - source: www.golfamkhayam.com-recordings-845ec801d6
+      quote: Guitar-Oud duet (featuring Siavash Roshan)
+      accessed: '2026-11-13'
+      locator: Ravi credits in the artist’s discography
   published by:
   - value: Qy2jezc
     references:
     - source: www.soundset.com-album-do753-6da6b1f071d2
-      quote: |-
-        Same album is published by prestigious record label in Iran Hermes records
+      quote: Same album is published by prestigious record label in Iran Hermes records
       accessed: '2026-10-19'
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/97/53/24/97532463-b9eb-6a05-f184-52bd14f3db4a/198391795183.jpg/1200x630bb.jpg

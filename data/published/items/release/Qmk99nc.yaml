@@ -1,0 +1,112 @@
+id: Qmk99nc
+type: release
+statements:
+  name:
+  - value:
+      text: Seven Climes Vol. 1
+      language: en
+    references:
+    - &id001
+      source: salome-mc.bandcamp.com-album-seven-climes-vol-1-e18724bf00
+      quote: Seven Climes Vol. 1, by Salome Mc
+      accessed: '2026-11-13'
+      locator: Release heading and byline
+  performer:
+  - value: Qd3ypxs
+    references:
+    - *id001
+  - value: Qwsyqf8
+    references:
+    - source: salome-mc.bandcamp.com-album-seven-climes-vol-1-e18724bf00
+      quote: Goamata x Salome MC - Zam
+      accessed: '2026-11-13'
+      locator: Track billing
+  - value: Q6bhahj
+    references:
+    - source: salome-mc.bandcamp.com-album-seven-climes-vol-1-e18724bf00
+      quote: Sibot x Salome MC - Gejalar
+      accessed: '2026-11-13'
+      locator: Track billing
+  - value: Qqk9xs9
+    references:
+    - source: salome-mc.bandcamp.com-album-seven-climes-vol-1-e18724bf00
+      quote: Javid x Salome MC - Virij
+      accessed: '2026-11-13'
+      locator: Track billing
+  - value: Qa42x3j
+    references:
+    - source: salome-mc.bandcamp.com-album-seven-climes-vol-1-e18724bf00
+      quote: Sokoutism x Salome MC - Enfetah
+      accessed: '2026-11-13'
+      locator: Track billing
+  - value: Qf3gzqq
+    references:
+    - source: salome-mc.bandcamp.com-album-seven-climes-vol-1-e18724bf00
+      quote: Sen x Salome MC - Oghlan
+      accessed: '2026-11-13'
+      locator: Track billing
+  - value: Q8929qb
+    references:
+    - source: salome-mc.bandcamp.com-album-seven-climes-vol-1-e18724bf00
+      quote: Iman Tarek x Salome MC - Ghafes
+      accessed: '2026-11-13'
+      locator: Track billing
+  - value: Qs856mj
+    references:
+    - source: salome-mc.bandcamp.com-album-seven-climes-vol-1-e18724bf00
+      quote: Kooh'Gell x Salome MC - Bashoh
+      accessed: '2026-11-13'
+      locator: Track billing
+  listen link:
+  - value: https://salome-mc.bandcamp.com/album/seven-climes-vol-1
+    references:
+    - *id001
+  - value: https://music.apple.com/us/album/seven-climes-vol-1/1563106416
+    references:
+    - source: music.apple.com-us-album-seven-climes-vol-1-1563106416-653f6d24ce
+      quote: 'Listen to Seven Climes Vol. 1 by Salome MC on Apple Music. 2021. 7 Songs. Duration: 24 minutes.'
+      accessed: '2026-11-13'
+      locator: Apple Music release description
+  release date:
+  - value:
+      date: '2021-04-20'
+    references:
+    - source: salome-mc.bandcamp.com-album-seven-climes-vol-1-e18724bf00
+      quote: released April 20, 2021
+      accessed: '2026-11-13'
+      locator: Edition dates and credits
+  - value:
+      date: '2021-04-19'
+    references:
+    - source: music.apple.com-us-album-seven-climes-vol-1-1563106416-653f6d24ce
+      quote: '"datePublished":"2021-04-19"'
+      accessed: '2026-11-13'
+      locator: Album JSON-LD, datePublished
+  cover art:
+  - value: https://f4.bcbits.com/img/a1132386241_5.jpg
+    qualifiers:
+      credit:
+        text: Bandcamp
+        language: en
+    references:
+    - source: salome-mc.bandcamp.com-album-seven-climes-vol-1-e18724bf00
+      quote: https://f4.bcbits.com/img/a1132386241_5.jpg
+      accessed: '2026-11-13'
+      locator: Open Graph cover image
+  contributor:
+  - value: Qd3ypxs
+    qualifiers:
+      role: composer
+    references:
+    - source: salome-mc.bandcamp.com-album-seven-climes-vol-1-e18724bf00
+      quote: 'All Tracks Composed and Produced by: Salome MC'
+      accessed: '2026-11-13'
+      locator: Credits
+  - value: Qd3ypxs
+    qualifiers:
+      role: producer
+    references:
+    - source: salome-mc.bandcamp.com-album-seven-climes-vol-1-e18724bf00
+      quote: 'All Tracks Composed and Produced by: Salome MC'
+      accessed: '2026-11-13'
+      locator: Credits

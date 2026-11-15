@@ -7,37 +7,137 @@ statements:
       language: fa
     references:
     - source: en.wikipedia.org-wiki-sanam_pasha-125ed0d2387a
-      quote: |-
-        Sanam Pasha (Persian: صنم پاشا)
+      quote: 'Sanam Pasha (Persian: صنم پاشا)'
       accessed: '2026-10-19'
   - value:
       text: Sanam Pasha
       language: en
     references:
     - source: en.wikipedia.org-wiki-sanam_pasha-125ed0d2387a
-      quote: |-
-        Sanam Pasha (Persian: صنم پاشا)
+      quote: 'Sanam Pasha (Persian: صنم پاشا)'
       accessed: '2026-10-19'
   birth date:
   - value:
       date: '1978-07-16'
     references:
     - source: www.rslawards.com-profile-sanam-pasha-9d8e006bacdb
-      quote: |-
-        I am an Iranian singer, composer, songwriter, pianist, and vocal coach specializing in rock and metal music. Born on July 16, 1978, in Tehran, Iran, my musical journey began with learning Persian folk music as a child. I later expanded my skills to classical piano, vocals, and solfeggio.
+      quote: I am an Iranian singer, composer, songwriter, pianist, and vocal coach specializing in rock and metal music.
+        Born on July 16, 1978, in Tehran, Iran, my musical journey began with learning Persian folk music as a child.
+        I later expanded my skills to classical piano, vocals, and solfeggio.
       accessed: '2026-10-19'
   member of:
   - value: Q5j73sb
     references:
     - source: www.rslawards.com-profile-sanam-pasha-9d8e006bacdb
-      quote: |-
-        In 2012, I founded an all-female rock band named Sanam Pasha, making a significant impact on the music scene in Iran.
+      quote: In 2012, I founded an all-female rock band named Sanam Pasha, making a significant impact on the music scene
+        in Iran.
       accessed: '2026-10-19'
   - value: Qkh78g4
     qualifiers:
       role: vocals
     references:
     - source: www.rslawards.com-profile-sanam-pasha-9d8e006bacdb
-      quote: |-
-        5grs Band: I have been the lead vocalist for the band 5grs, performing at notable events such as the Arm Fest in Yerevan, Armenia, and the Persian Metal Festival.
+      quote: '5grs Band: I have been the lead vocalist for the band 5grs, performing at notable events such as the Arm
+        Fest in Yerevan, Armenia, and the Persian Metal Festival.'
       accessed: '2026-10-19'
+  life event:
+  - value:
+      text: آثار خود را اجرا کنم.
+      language: fa
+    references:
+    - source: www.sanampasha.com-2018-12-09-d9-85-d8-b5-d8-a7-d8-ad-d8-a8-d9-87--db-8c--d8-a7-db-8c-d8-b1-d9-86-d8-a7--d8-a8-9c8a2203d35d
+      quote: آثار خود را اجرا کنم.
+      accessed: '2026-11-13'
+  - value:
+      text: نخستین کنسرت گروه راک بانوان «صنم پاشا» سوم شهریورماه در حالی در فرهنگسرای نیاوران روی صحنه رفت
+      language: fa
+    references:
+    - source: www.sanampasha.com-2018-08-28-niavaran-ritmeno
+      quote: نخستین کنسرت گروه راک بانوان «صنم پاشا» سوم شهریورماه در حالی در فرهنگسرای نیاوران روی صحنه رفت
+      accessed: '2026-11-13'
+    qualifiers:
+      point in time:
+        date: '1397-06-03'
+        calendar: jalali
+  - value:
+      text: In 2012, I founded an all-female rock band named Sanam Pasha
+      language: en
+    qualifiers:
+      point in time:
+        date: '2012'
+    references:
+    - source: www.rslawards.com-profile-sanam-pasha-9d8e006bacdb
+      quote: In 2012, I founded an all-female rock band named Sanam Pasha, making a significant impact on the music scene
+        in Iran.
+      accessed: '2026-11-13'
+  - value:
+      text: initiated a vocal contest in 2008 to provide equal opportunities for vocalists in rock genres, especially
+        women.
+      language: en
+    qualifiers:
+      point in time:
+        date: '2008'
+    references:
+    - source: www.rslawards.com-profile-sanam-pasha-9d8e006bacdb
+      quote: initiated a vocal contest in 2008 to provide equal opportunities for vocalists in rock genres, especially
+        women.
+      accessed: '2026-11-13'
+  - value:
+      text: سالها در گروه های مختلفی به صورت همخوان حضور داشتم
+      language: fa
+    references:
+    - source: www.sanampasha.com-2018-12-09-d9-85-d8-b5-d8-a7-d8-ad-d8-a8-d9-87--db-8c--d8-a7-db-8c-d8-b1-d9-86-d8-a7--d8-a8-9c8a2203d35d
+      quote: سالها در گروه های مختلفی به صورت همخوان حضور داشتم
+      accessed: '2026-11-13'
+  - value:
+      text: من و بیتا صادقی کار را آغاز کردیم .
+      language: fa
+    references:
+    - source: www.sanampasha.com-2018-12-09-d9-85-d8-b5-d8-a7-d8-ad-d8-a8-d9-87--db-8c--d8-a7-db-8c-d8-b1-d9-86-d8-a7--d8-a8-9c8a2203d35d
+      quote: من و بیتا صادقی کار را آغاز کردیم .
+      accessed: '2026-11-13'
+  - value:
+      text: آهنگ شب و روز از برهوت منتشر شد. برهوت نام آخرین پروژه ی موسیقایی صنم پاشا است .
+      language: fa
+    qualifiers:
+      point in time:
+        date: '2020-07-14'
+    references:
+    - source: www.sanampasha.com-2020-07-14-d8-a2-d9-87-d9-86-da-af--d8-b4-d8-a8--d8-b1-d9-88-d8-b2--d8-a7-d8-b2--d8-a8-d8-b1-d9-87-d9-88-d8-aa
+      quote: آهنگ شب و روز از برهوت منتشر شد. برهوت نام آخرین پروژه ی موسیقایی صنم پاشا است .
+      accessed: '2026-11-13'
+  profile link:
+  - value: https://music.apple.com/us/artist/sanam-pasha/1449069221
+    references:
+    - source: music.apple.com-us-artist-sanam-pasha-1449069221
+      quote: Sanam Pasha
+      accessed: '2026-11-13'
+  - value: https://t.me/sanam_pasha
+    references:
+    - source: t.me-s-sanam_pasha
+      quote: Influential and practical methods and approaches for becoming a professional ROCK SINGER 🎤 by SANAM PASHA
+      accessed: '2026-11-13'
+  image:
+  - value: https://upload.wikimedia.org/wikipedia/commons/0/0b/%D8%AA%D8%B5%D9%88%DB%8C%D8%B1_%D8%B5%D9%86%D9%85_%D9%BE%D8%A7%D8%B4%D8%A7.jpg
+    qualifiers:
+      credit:
+        text: Amirmohamadsfd, via Wikimedia Commons
+        language: en
+      license: https://creativecommons.org/licenses/by-sa/4.0
+    references:
+    - source: commons.wikimedia.org-wiki-file-d8-aa-d8-b5-d9-88-db-8c-d8-b1-d8-b5-d9-86-d9-85-d9-be-d8-a7-d8--bd45cd9c80
+      quote: صنم پاشا
+      accessed: '2026-11-13'
+      locator: Photograph caption
+    - source: commons.wikimedia.org-wiki-file-d8-aa-d8-b5-d9-88-db-8c-d8-b1-d8-b5-d9-86-d9-85-d9-be-d8-a7-d8--bd45cd9c80
+      quote: Amirmohamadsfd
+      accessed: '2026-11-13'
+      locator: Author
+    - source: commons.wikimedia.org-wiki-file-d8-aa-d8-b5-d9-88-db-8c-d8-b1-d8-b5-d9-86-d9-85-d9-be-d8-a7-d8--bd45cd9c80
+      quote: https://upload.wikimedia.org/wikipedia/commons/0/0b/%D8%AA%D8%B5%D9%88%DB%8C%D8%B1_%D8%B5%D9%86%D9%85_%D9%BE%D8%A7%D8%B4%D8%A7.jpg
+      accessed: '2026-11-13'
+      locator: Original photograph
+    - source: commons.wikimedia.org-wiki-file-d8-aa-d8-b5-d9-88-db-8c-d8-b1-d8-b5-d9-86-d9-85-d9-be-d8-a7-d8--bd45cd9c80
+      quote: https://creativecommons.org/licenses/by-sa/4.0
+      accessed: '2026-11-13'
+      locator: License

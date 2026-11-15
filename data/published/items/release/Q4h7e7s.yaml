@@ -1,0 +1,51 @@
+id: Q4h7e7s
+type: release
+statements:
+  name:
+  - value:
+      text: my-evolution
+      language: en
+    references:
+    - source: soundcloud.com-hadi-pakzad-my-evolution
+      quote: my-evolution
+      accessed: '2026-11-13'
+  performer:
+  - value: Qjnkat7
+    references:
+    - source: soundcloud.com-hadi-pakzad-my-evolution
+      quote: Hadi Pakzad
+      accessed: '2026-11-13'
+  contributor:
+  - value: Qjnkat7
+    qualifiers:
+      role: lyricist
+    references:
+    - source: soundcloud.com-hadi-pakzad-my-evolution
+      quote: 'Poet: Hadi Pakzad
+
+        Year: 2015'
+      accessed: '2026-11-13'
+  listen link:
+  - value: https://soundcloud.com/hadi-pakzad/my-evolution
+    references:
+    - source: soundcloud.com-hadi-pakzad-my-evolution
+      quote: my-evolution
+      accessed: '2026-11-13'
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-000151838254-fima97-t500x500.jpg
+    qualifiers:
+      credit:
+        text: Hadi Pakzad / SoundCloud
+        language: en
+    references:
+    - source: soundcloud.com-hadi-pakzad-my-evolution
+      quote: my-evolution
+      accessed: '2026-11-13'
+  release date:
+  - value:
+      date: '2016-03-19'
+    references:
+    - source: soundcloud.com-hadi-pakzad-my-evolution
+      quote: |-
+        "display_date":"2016-03-19T00:35:43Z"
+      accessed: '2026-11-13'

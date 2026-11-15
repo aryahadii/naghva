@@ -1,0 +1,70 @@
+id: Qjq56g5
+type: release
+statements:
+  name:
+  - value:
+      text: Night Triptych
+      language: en
+    references:
+    - &id001
+      source: newfocusrecordings.bandcamp.com-album-night-triptych-fba11f1dd4
+      quote: Night Triptych, by Duo Noire
+      accessed: '2026-11-13'
+      locator: Release heading and byline
+  listen link:
+  - value: https://newfocusrecordings.bandcamp.com/album/night-triptych
+    references:
+    - *id001
+  - value: https://open.spotify.com/album/2IV0NFyuC8CB9nkg4bo4a6
+    references:
+    - source: open.spotify.com-album-2iv0nfyuc8cb9nkg4bo4a6-a791bb2bbc
+      quote: '"name":"Night Triptych"'
+      accessed: '2026-11-13'
+      locator: Spotify album title; full programme compared with the other cited edition
+    - source: open.spotify.com-album-2iv0nfyuc8cb9nkg4bo4a6-a791bb2bbc
+      quote: '"title":"Hocus Pocus: I. Abracadabra!"'
+      accessed: '2026-11-13'
+      locator: First track of the programme
+  release date:
+  - value:
+      date: '2018-06-22'
+    references:
+    - source: newfocusrecordings.bandcamp.com-album-night-triptych-fba11f1dd4
+      quote: released June 22, 2018
+      accessed: '2026-11-13'
+      locator: Edition dates and credits
+  cover art:
+  - value: https://f4.bcbits.com/img/a0423056725_5.jpg
+    qualifiers:
+      credit:
+        text: Marie Rodriguez
+        language: en
+    references:
+    - source: newfocusrecordings.bandcamp.com-album-night-triptych-fba11f1dd4
+      quote: https://f4.bcbits.com/img/a0423056725_5.jpg
+      accessed: '2026-11-13'
+      locator: Open Graph cover image
+  performer:
+  - value: Qfr8w6y
+    references:
+    - source: newfocusrecordings.bandcamp.com-album-night-triptych-fba11f1dd4
+      quote: Night Triptych, by Duo Noire
+      accessed: '2026-11-13'
+      locator: Album credit
+  contributor:
+  - value: Qranggn
+    qualifiers:
+      role: composer
+    references:
+    - source: newfocusrecordings.bandcamp.com-album-night-triptych-fba11f1dd4
+      quote: 'Golfam Khayam: Night Triptych: I. Improvisatory'
+      accessed: '2026-11-13'
+      locator: Track 6 composer and title
+  - value: Qfr8w6y
+    qualifiers:
+      role: producer
+    references:
+    - source: newfocusrecordings.bandcamp.com-album-night-triptych-fba11f1dd4
+      quote: Produced by Duo Noire
+      accessed: '2026-11-13'
+      locator: Artist credits

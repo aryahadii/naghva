@@ -1,0 +1,106 @@
+id: Qrhjrqz
+type: release
+statements:
+  name:
+  - value:
+      text: Traces of an Old Vineyard
+      language: en
+    references:
+    - source: www.kkv.no-en-music-traces-of-an-old-vineyard
+      quote: |-
+        Traces of an Old Vineyard
+      accessed: '2026-11-13'
+    rank: preferred
+  - value:
+      text: Traces of an Old Vineyard Traces of an Old Vineyard (with Tord Gustavsen, Shervin Mohajer & Ali Rahimi)
+      language: en
+    references:
+    - source: music.apple.com-us-album-traces-of-an-old-vineyard-traces-of-an-999864220
+      quote: Traces of an Old Vineyard Traces of an Old Vineyard (with Tord Gustavsen, Shervin Mohajer & Ali Rahimi)
+      accessed: '2026-11-13'
+  release date:
+  - value:
+      date: '2015-05-26'
+    references:
+    - source: music.apple.com-us-album-traces-of-an-old-vineyard-traces-of-an-999864220
+      quote: '"datePublished":"2015-05-26"'
+      accessed: '2026-11-13'
+  - value:
+      date: '2015-01-22'
+    references:
+    - source: www.kkv.no-en-music-traces-of-an-old-vineyard
+      quote: 'Release date:
+
+        22.01.2015'
+      accessed: '2026-11-13'
+  performer:
+  - value: Qp2mk6b
+    references:
+    - source: music.apple.com-us-album-traces-of-an-old-vineyard-traces-of-an-999864220
+      quote: '[{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/mahsa-vahdat/65413022","name":"Mahsa Vahdat"}]'
+      accessed: '2026-11-13'
+  - value: Qd2thca
+    qualifiers:
+      role:
+      - piano
+      - keyboards
+    references:
+    - source: www.kkv.no-en-music-traces-of-an-old-vineyard
+      quote: Tord Gustavsen on piano and keyboards
+      accessed: '2026-11-13'
+  - value: Q8pd4yh
+    qualifiers:
+      role: kamancheh
+    references:
+    - source: www.kkv.no-en-music-traces-of-an-old-vineyard
+      quote: Shervin Mohajer (kamancheh) and Ali Rahimi (percussion)
+      accessed: '2026-11-13'
+  - value: Qsd9bgh
+    qualifiers:
+      role: percussion
+    references:
+    - source: www.kkv.no-en-music-traces-of-an-old-vineyard
+      quote: Shervin Mohajer (kamancheh) and Ali Rahimi (percussion)
+      accessed: '2026-11-13'
+  listen link:
+  - value: https://music.apple.com/us/album/traces-of-an-old-vineyard-traces-of-an/999864220
+    references:
+    - source: music.apple.com-us-album-traces-of-an-old-vineyard-traces-of-an-999864220
+      quote: Traces of an Old Vineyard Traces of an Old Vineyard (with Tord Gustavsen, Shervin Mohajer & Ali Rahimi)
+      accessed: '2026-11-13'
+  - value: https://open.spotify.com/album/3fJ4bj2Vs1XA5iXqwBlSYW
+    references:
+    - source: www.kkv.no-en-music-traces-of-an-old-vineyard
+      quote: Traces of an Old Vineyard
+      accessed: '2026-11-13'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music1/v4/c1/bf/b5/c1bfb507-3d42-f57e-4c10-d5869d805ddf/Traces-of-an-Old-Vineyard-1500x1500.png/1200x1200bb.jpg
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-traces-of-an-old-vineyard-traces-of-an-999864220
+      quote: Traces of an Old Vineyard Traces of an Old Vineyard (with Tord Gustavsen, Shervin Mohajer & Ali Rahimi)
+      accessed: '2026-11-13'
+  contributor:
+  - value: Qd2thca
+    qualifiers:
+      role: arranger
+    references:
+    - source: www.kkv.no-en-music-traces-of-an-old-vineyard
+      quote: arranged by Tord Gustavsen
+      accessed: '2026-11-13'
+  - value: Qxzfpnw
+    qualifiers:
+      role: producer
+    references:
+    - source: www.kkv.no-en-music-traces-of-an-old-vineyard
+      quote: producer Erik Hillestad
+      accessed: '2026-11-13'
+  published by:
+  - value: Qtcvdjj
+    references:
+    - source: www.kkv.no-en-music-traces-of-an-old-vineyard
+      quote: Kirkelig kulturverksted
+      accessed: '2026-11-13'

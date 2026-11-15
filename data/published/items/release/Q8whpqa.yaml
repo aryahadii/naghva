@@ -1,0 +1,46 @@
+id: Q8whpqa
+type: release
+statements:
+  name:
+  - value:
+      text: Taxi (feat. Salome MC)
+      language: en
+    references:
+    - &id001
+      source: music.apple.com-us-album-taxi-feat-salome-mc-single-1571710321-f17aa4d5c7
+      quote: 'Listen to Taxi (feat. Salome MC) - Single by ArefEnsan on Apple Music. 2021. 1 Song. Duration: 3 minutes.'
+      accessed: '2026-11-13'
+      locator: Apple Music release description
+  performer:
+  - value: Q28rkb5
+    references:
+    - *id001
+  - value: Qd3ypxs
+    references:
+    - source: music.apple.com-us-album-taxi-feat-salome-mc-single-1571710321-f17aa4d5c7
+      quote: Taxi (feat. Salome MC)
+      accessed: '2026-11-13'
+      locator: Track listing
+  release date:
+  - value:
+      date: '2021-06-15'
+    references:
+    - source: music.apple.com-us-album-taxi-feat-salome-mc-single-1571710321-f17aa4d5c7
+      quote: '"datePublished":"2021-06-15"'
+      accessed: '2026-11-13'
+      locator: Album JSON-LD, datePublished
+  listen link:
+  - value: https://music.apple.com/us/album/taxi-feat-salome-mc-single/1571710321
+    references:
+    - *id001
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e0/ea/b5/e0eab505-94a2-2301-b449-38708fa698ab/5059863113308_cover.jpg/1200x630bb.jpg
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-taxi-feat-salome-mc-single-1571710321-f17aa4d5c7
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e0/ea/b5/e0eab505-94a2-2301-b449-38708fa698ab/5059863113308_cover.jpg/1200x630bb.jpg
+      accessed: '2026-11-13'
+      locator: Album JSON-LD, image

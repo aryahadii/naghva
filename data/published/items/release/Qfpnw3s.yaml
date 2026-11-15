@@ -1,0 +1,54 @@
+id: Qfpnw3s
+type: release
+statements:
+  name:
+  - value:
+      text: Unveiled
+      language: en
+    references:
+    - &id001
+      source: music.apple.com-us-album-unveiled-ep-1517708328-6d94cbea07
+      quote: 'Listen to Unveiled - EP by Salome MC on Apple Music. 2014. 5 Songs. Duration: 9 minutes.'
+      accessed: '2026-11-13'
+      locator: Apple Music release description
+  - value:
+      text: بی نقاب
+      language: fa
+    references:
+    - source: www.salomemc.com-6522edc9eb
+      quote: Unveiled | بی نقاب
+      accessed: '2026-11-13'
+      locator: Artist portfolio title
+  performer:
+  - value: Qd3ypxs
+    references:
+    - *id001
+  release date:
+  - value:
+      date: '2014-06-11'
+    references:
+    - source: music.apple.com-us-album-unveiled-ep-1517708328-6d94cbea07
+      quote: '"datePublished":"2014-06-11"'
+      accessed: '2026-11-13'
+      locator: Album JSON-LD, datePublished
+  listen link:
+  - value: https://music.apple.com/us/album/unveiled-ep/1517708328
+    references:
+    - *id001
+  - value: https://soundcloud.com/salomemcee/sets/salome-unveiled
+    references:
+    - source: soundcloud.com-salomemcee-sets-salome-unveiled-db749c0069
+      quote: Stream Salome MC | Listen to Unveiled | بی نقاب playlist online for free on SoundCloud
+      accessed: '2026-11-13'
+      locator: Artist’s page title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/6a/81/07/6a8107e0-087e-d304-f240-d532d6bd2c69/053000123026_cover.jpg/1200x630bb.jpg
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-unveiled-ep-1517708328-6d94cbea07
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/6a/81/07/6a8107e0-087e-d304-f240-d532d6bd2c69/053000123026_cover.jpg/1200x630bb.jpg
+      accessed: '2026-11-13'
+      locator: Album JSON-LD, image

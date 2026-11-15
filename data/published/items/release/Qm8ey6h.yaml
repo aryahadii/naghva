@@ -1,0 +1,45 @@
+id: Qm8ey6h
+type: release
+statements:
+  name:
+  - value:
+      text: Odium
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-ztfjwcl9ncs-f8f6279d16
+      quote: Salome MC - Odium | رسوا
+      accessed: '2026-11-13'
+      locator: Artist video title
+  - value:
+      text: رسوا
+      language: fa
+    references:
+    - *id001
+  performer:
+  - value: Qd3ypxs
+    references:
+    - *id001
+  listen link:
+  - value: https://www.youtube.com/watch?v=ZTFJWCl9ncs
+    references:
+    - *id001
+  release date:
+  - value:
+      date: '2017-10-31'
+    references:
+    - source: www.youtube.com-watch-v-ztfjwcl9ncs-f8f6279d16
+      quote: '2017-10-31T16:04:41-07:00'
+      accessed: '2026-11-13'
+      locator: Video publication timestamp, local calendar date
+  cover art:
+  - value: https://i.ytimg.com/vi/ZTFJWCl9ncs/maxresdefault.jpg
+    qualifiers:
+      credit:
+        text: Salome MC on YouTube
+        language: en
+    references:
+    - source: www.youtube.com-watch-v-ztfjwcl9ncs-f8f6279d16
+      quote: https://i.ytimg.com/vi/ZTFJWCl9ncs/maxresdefault.jpg
+      accessed: '2026-11-13'
+      locator: Video artwork

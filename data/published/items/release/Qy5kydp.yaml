@@ -1,0 +1,70 @@
+id: Qy5kydp
+type: release
+statements:
+  name:
+  - value:
+      text: Vaya Vaya - Single
+      language: en
+    references:
+    - source: music.apple.com-us-album-vaya-vaya-single-1589790344
+      quote: Vaya Vaya - Single
+      accessed: '2026-11-13'
+  release date:
+  - value:
+      date: '2021-10-22'
+    references:
+    - source: music.apple.com-us-album-vaya-vaya-single-1589790344
+      quote: '"datePublished":"2021-10-22"'
+      accessed: '2026-11-13'
+  performer:
+  - value: Q84j5eh
+    references:
+    - source: music.apple.com-us-album-vaya-vaya-single-1589790344
+      quote: '[{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/kronos-quartet/3567849","name":"Kronos Quartet"},{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/mahsa-vahdat/65413022","name":"Mahsa
+        Vahdat"}]'
+      accessed: '2026-11-13'
+  - value: Qp2mk6b
+    references:
+    - source: music.apple.com-us-album-vaya-vaya-single-1589790344
+      quote: '[{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/kronos-quartet/3567849","name":"Kronos Quartet"},{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/mahsa-vahdat/65413022","name":"Mahsa
+        Vahdat"}]'
+      accessed: '2026-11-13'
+  listen link:
+  - value: https://music.apple.com/us/album/vaya-vaya-single/1589790344
+    references:
+    - source: music.apple.com-us-album-vaya-vaya-single-1589790344
+      quote: Vaya Vaya - Single
+      accessed: '2026-11-13'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/fc/ac/74/fcac7446-2644-115f-c405-d51d91e164ac/196292716306_Cover.jpg/1200x1200bb.jpg
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-vaya-vaya-single-1589790344
+      quote: Vaya Vaya - Single
+      accessed: '2026-11-13'
+  contributor:
+  - value: Q5z9jzy
+    qualifiers:
+      role: arranger
+    references:
+    - source: www.kkv.no-en-music-vaya-vaya-3
+      quote: the arrangement was written by Atabak Elyasi.
+      accessed: '2026-11-13'
+  - value: Qp2mk6b
+    qualifiers:
+      role:
+      - composer
+      - lyricist
+    references:
+    - source: www.kkv.no-en-music-vaya-vaya-3
+      quote: The text and the melody were made by Mahsa Vahdat
+      accessed: '2026-11-13'
+  published by:
+  - value: Qtcvdjj
+    references:
+    - source: www.kkv.no-en-music-vaya-vaya-3
+      quote: Kirkelig kulturverksted
+      accessed: '2026-11-13'

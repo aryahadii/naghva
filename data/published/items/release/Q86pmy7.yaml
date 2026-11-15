@@ -1,0 +1,40 @@
+id: Q86pmy7
+type: release
+statements:
+  name:
+  - value:
+      text: Deja Vu - Single
+      language: en
+    references:
+    - source: music.apple.com-us-album-deja-vu-single-1642689015
+      quote: Deja Vu - Single
+      accessed: '2026-11-13'
+  release date:
+  - value:
+      date: '2021-08-12'
+    references:
+    - source: music.apple.com-us-album-deja-vu-single-1642689015
+      quote: '"datePublished":"2021-08-12"'
+      accessed: '2026-11-13'
+  performer:
+  - value: Qcbarbs
+    references:
+    - source: music.apple.com-us-album-deja-vu-single-1642689015
+      quote: '[{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/kaveh-yaghmaei/1140400194","name":"Kaveh Yaghmaei"}]'
+      accessed: '2026-11-13'
+  listen link:
+  - value: https://music.apple.com/us/album/deja-vu-single/1642689015
+    references:
+    - source: music.apple.com-us-album-deja-vu-single-1642689015
+      quote: Deja Vu - Single
+      accessed: '2026-11-13'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/25/e4/47/25e44723-1c31-0536-a8b9-0afcca44b34c/196292281323.jpg/1200x1200bb.jpg
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-deja-vu-single-1642689015
+      quote: Deja Vu - Single
+      accessed: '2026-11-13'

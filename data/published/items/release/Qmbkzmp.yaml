@@ -1,0 +1,48 @@
+id: Qmbkzmp
+type: release
+statements:
+  name:
+  - value:
+      text: Price of Freedom
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-nisbkmnwpvs-d024d96d8a
+      quote: Salome Mc - Price of Freedom ft. SplytSecond | بهای رهایی
+      accessed: '2026-11-13'
+      locator: Artist video title
+  - value:
+      text: بهای رهایی
+      language: fa
+    references:
+    - *id001
+  performer:
+  - value: Qd3ypxs
+    references:
+    - *id001
+  - value: Q5zrt9x
+    references:
+    - *id001
+  listen link:
+  - value: https://www.youtube.com/watch?v=nIsBkMnwPVs
+    references:
+    - *id001
+  release date:
+  - value:
+      date: '2014-01-23'
+    references:
+    - source: www.youtube.com-watch-v-nisbkmnwpvs-d024d96d8a
+      quote: '2014-01-23T20:21:41-08:00'
+      accessed: '2026-11-13'
+      locator: Video publication timestamp, local calendar date
+  cover art:
+  - value: https://i.ytimg.com/vi/nIsBkMnwPVs/hqdefault.jpg
+    qualifiers:
+      credit:
+        text: Salome MC on YouTube
+        language: en
+    references:
+    - source: www.youtube.com-watch-v-nisbkmnwpvs-d024d96d8a
+      quote: https://i.ytimg.com/vi/nIsBkMnwPVs/hqdefault.jpg
+      accessed: '2026-11-13'
+      locator: Video artwork

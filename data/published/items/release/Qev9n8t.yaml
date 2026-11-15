@@ -1,0 +1,26 @@
+id: Qev9n8t
+type: release
+statements:
+  name:
+  - value:
+      text: Who Says You Can't Rock In Iran?
+      language: en
+    references:
+    - &id001
+      source: www.thenationalnews.com-arts-culture-music-criminal-records-iranian-rock-comes-to-new-york-1.442834
+      quote: The band's 2006 EP, Who Says You Can't Rock In Iran?
+      accessed: '2026-11-13'
+      locator: Paragraph on the early EP
+  performer:
+  - value: Q53gfmh
+    references:
+    - *id001
+    - source: www1.folha.uol.com.br-folha-ilustrada-ult90u69808.shtml
+      quote: '"Who Says You Can''t Rock in Iran?"'
+      accessed: '2026-11-13'
+      locator: Opening paragraph
+  release date:
+  - value:
+      date: '2006'
+    references:
+    - *id001

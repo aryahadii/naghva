@@ -1,0 +1,73 @@
+id: Qereyg8
+type: release
+statements:
+  name:
+  - value:
+      text: Passenger
+      language: en
+    references:
+    - &id001
+      source: norient.com-podcasts-salome-mc-shing02-passenger-1cd88cda60
+      quote: Song written by Salome MC and Shing02
+      accessed: '2026-11-13'
+      locator: Credits
+  - value:
+      text: مسافر
+      language: fa
+    references:
+    - source: www.youtube.com-watch-v-grhpo6tpdqa-c0eeb1ca89
+      quote: مسافر
+      accessed: '2026-11-13'
+      locator: Artist video title
+  performer:
+  - value: Qd3ypxs
+    references:
+    - *id001
+  - value: Qmr5jh5
+    references:
+    - *id001
+  - value: Qe94bev
+    qualifiers:
+      role: saxophone
+    references:
+    - source: norient.com-podcasts-salome-mc-shing02-passenger-1cd88cda60
+      quote: 'Saxophone: Nicholas Kaleikini'
+      accessed: '2026-11-13'
+      locator: Credits
+  contributor:
+  - value: Qd3ypxs
+    qualifiers:
+      role: songwriter
+    references:
+    - *id001
+  - value: Qmr5jh5
+    qualifiers:
+      role: songwriter
+    references:
+    - *id001
+  listen link:
+  - value: https://www.youtube.com/watch?v=grHpo6TPdqA
+    references:
+    - source: www.youtube.com-watch-v-grhpo6tpdqa-c0eeb1ca89
+      quote: Salome MC & Shing02 - Passenger feat. Nicholas Kaleikini
+      accessed: '2026-11-13'
+      locator: Artist video title
+  release date:
+  - value:
+      date: '2016-03-07'
+    references:
+    - source: norient.com-podcasts-salome-mc-shing02-passenger-1cd88cda60
+      quote: Published on March 07, 2016
+      accessed: '2026-11-13'
+      locator: Publisher’s dated presentation
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-000157865816-ceyzw0-t500x500.jpg
+    qualifiers:
+      credit:
+        text: Salome MC on SoundCloud
+        language: en
+    references:
+    - source: soundcloud.com-oembed-format-json-url-https-8c3ecb479e
+      quote: https://i1.sndcdn.com/artworks-000157865816-ceyzw0-t500x500.jpg
+      accessed: '2026-11-13'
+      locator: Artist recording artwork returned by SoundCloud

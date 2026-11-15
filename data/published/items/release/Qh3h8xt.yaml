@@ -1,0 +1,139 @@
+id: Qh3h8xt
+type: release
+statements:
+  name:
+  - value:
+      text: Price of Freedom
+      language: en
+    references:
+    - &id001
+      source: salome-mc.bandcamp.com-album-price-of-freedom
+      quote: Price of Freedom, by Salome Mc
+      accessed: '2026-11-13'
+      locator: Release heading and byline
+  - value:
+      text: I Officially Exist
+      language: en
+    references:
+    - source: salome-mc.bandcamp.com-album-price-of-freedom
+      quote: 'this album has an alternate name: "I Officially Exist".'
+      accessed: '2026-11-13'
+      locator: About this album
+  - value:
+      text: The Price of Freedom
+      language: en
+    references:
+    - &id002
+      source: music.apple.com-us-album-the-price-of-freedom-1517699810-739f2b2383
+      quote: 'Listen to The Price of Freedom by Salome MC on Apple Music. 2013. 10 Songs. Duration: 38 minutes.'
+      accessed: '2026-11-13'
+      locator: Apple Music release description
+  performer:
+  - value: Qd3ypxs
+    qualifiers:
+      role: vocals
+    references:
+    - source: salome-mc.bandcamp.com-album-price-of-freedom
+      quote: 'Lyrics and Performance: Salome Mc'
+      accessed: '2026-11-13'
+      locator: Artist credits
+    - *id001
+  - value: Qwrmn8c
+    references:
+    - source: salome-mc.bandcamp.com-album-price-of-freedom
+      quote: 'Guests Performers: ○ Masmoum ○ Fredrik Söderlund ○ Shirali ○ SplytSecond ○ Weapon X'
+      accessed: '2026-11-13'
+      locator: Artist credits
+  - value: Qqjeabr
+    references:
+    - source: salome-mc.bandcamp.com-album-price-of-freedom
+      quote: 'Guests Performers: ○ Masmoum ○ Fredrik Söderlund ○ Shirali ○ SplytSecond ○ Weapon X'
+      accessed: '2026-11-13'
+      locator: Artist credits
+  - value: Qk4k9et
+    references:
+    - source: salome-mc.bandcamp.com-album-price-of-freedom
+      quote: 'Guests Performers: ○ Masmoum ○ Fredrik Söderlund ○ Shirali ○ SplytSecond ○ Weapon X'
+      accessed: '2026-11-13'
+      locator: Artist credits
+  - value: Qngh57z
+    references:
+    - source: salome-mc.bandcamp.com-album-price-of-freedom
+      quote: 'Guests Performers: ○ Masmoum ○ Fredrik Söderlund ○ Shirali ○ SplytSecond ○ Weapon X'
+      accessed: '2026-11-13'
+      locator: Artist credits
+  - value: Q5zrt9x
+    references:
+    - source: salome-mc.bandcamp.com-album-price-of-freedom
+      quote: 'Guests Performers: ○ Masmoum ○ Fredrik Söderlund ○ Shirali ○ SplytSecond ○ Weapon X'
+      accessed: '2026-11-13'
+      locator: Artist credits
+  listen link:
+  - value: https://salome-mc.bandcamp.com/album/price-of-freedom
+    references:
+    - *id001
+  - value: https://music.apple.com/us/album/the-price-of-freedom/1517699810
+    references:
+    - *id002
+  - value: https://open.spotify.com/album/6Pd2ftRd147mp64XT7NhL3
+    references:
+    - source: open.spotify.com-album-6pd2ftrd147mp64xt7nhl3-82ec76dcc9
+      quote: '"name":"The Price of Freedom"'
+      accessed: '2026-11-13'
+      locator: Spotify album title; full programme compared with the other cited edition
+    - source: open.spotify.com-album-6pd2ftrd147mp64xt7nhl3-82ec76dcc9
+      quote: '"title":"Guilt of Existence"'
+      accessed: '2026-11-13'
+      locator: First track of the programme
+  release date:
+  - value:
+      date: '2013-04-10'
+    references:
+    - source: salome-mc.bandcamp.com-album-price-of-freedom
+      quote: released April 10, 2013
+      accessed: '2026-11-13'
+      locator: Edition dates and credits
+  cover art:
+  - value: https://f4.bcbits.com/img/a3042703527_5.jpg
+    qualifiers:
+      credit:
+        text: Bandcamp
+        language: en
+    references:
+    - source: salome-mc.bandcamp.com-album-price-of-freedom
+      quote: https://f4.bcbits.com/img/a3042703527_5.jpg
+      accessed: '2026-11-13'
+      locator: Open Graph cover image
+  contributor:
+  - value: Qd3ypxs
+    qualifiers:
+      role: lyricist
+    references:
+    - source: salome-mc.bandcamp.com-album-price-of-freedom
+      quote: 'Lyrics and Performance: Salome Mc'
+      accessed: '2026-11-13'
+      locator: Artist credits
+  - value: Qmhnvve
+    qualifiers:
+      role: producer
+    references:
+    - source: salome-mc.bandcamp.com-album-price-of-freedom
+      quote: Produced by Armada, Arman Deniz and Fredrik Soderlund
+      accessed: '2026-11-13'
+      locator: Credits
+  - value: Q73vd8g
+    qualifiers:
+      role: producer
+    references:
+    - source: salome-mc.bandcamp.com-album-price-of-freedom
+      quote: Produced by Armada, Arman Deniz and Fredrik Soderlund
+      accessed: '2026-11-13'
+      locator: Credits
+  - value: Qngh57z
+    qualifiers:
+      role: producer
+    references:
+    - source: salome-mc.bandcamp.com-album-price-of-freedom
+      quote: Produced by Armada, Arman Deniz and Fredrik Soderlund
+      accessed: '2026-11-13'
+      locator: Credits

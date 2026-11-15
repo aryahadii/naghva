@@ -1,0 +1,44 @@
+id: Qkhen93
+type: release
+statements:
+  name:
+  - value:
+      text: Relinquished
+      language: en
+    references:
+    - &id001
+      source: music.apple.com-us-album-relinquished-single-1796409928-dc21c320c0
+      quote: 'Listen to Relinquished - Single by Salome MC on Apple Music. 2025. 1 Song. Duration: 3 minutes.'
+      accessed: '2026-11-13'
+      locator: Apple Music release description
+  performer:
+  - value: Qd3ypxs
+    references:
+    - *id001
+    - source: thebushwickbookclubseattle.com-glory-digital-program-25fed1dd71
+      quote: Salome MC Relinquished
+      accessed: '2026-11-13'
+      locator: Song title and singer in concert program
+  release date:
+  - value:
+      date: '2025-01-17'
+    references:
+    - source: music.apple.com-us-album-relinquished-single-1796409928-dc21c320c0
+      quote: '"datePublished":"2025-01-17"'
+      accessed: '2026-11-13'
+      locator: Album JSON-LD, datePublished
+  listen link:
+  - value: https://music.apple.com/us/album/relinquished-single/1796409928
+    references:
+    - *id001
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/10/78/fe/1078fe00-a41b-8006-381e-f305087c95d2/674053445882_cover.jpg/1200x630bb.jpg
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-relinquished-single-1796409928-dc21c320c0
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/10/78/fe/1078fe00-a41b-8006-381e-f305087c95d2/674053445882_cover.jpg/1200x630bb.jpg
+      accessed: '2026-11-13'
+      locator: Album JSON-LD, image

@@ -1,0 +1,81 @@
+id: Q6xde36
+type: release
+statements:
+  name:
+  - value:
+      text: Gray - Single
+      language: en
+    references:
+    - source: music.apple.com-us-album-gray-single-1541445737
+      quote: Gray - Single
+      accessed: '2026-11-13'
+  release date:
+  - value:
+      date: '2020-09-26'
+    references:
+    - source: music.apple.com-us-album-gray-single-1541445737
+      quote: '"datePublished":"2020-09-26"'
+      accessed: '2026-11-13'
+  performer:
+  - value: Qphvq4s
+    qualifiers:
+      role: vocals
+    references:
+    - source: music.apple.com-us-album-gray-single-1541445737
+      quote: 'Vocal & Music: Sanam Pasha'
+      accessed: '2026-11-13'
+    - source: music.apple.com-us-album-gray-single-1541445737
+      quote: '[{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/sanam-pasha/1449069221","name":"Sanam
+        Pasha"}]'
+      accessed: '2026-11-13'
+  listen link:
+  - value: https://music.apple.com/us/album/gray-single/1541445737
+    references:
+    - source: music.apple.com-us-album-gray-single-1541445737
+      quote: Gray - Single
+      accessed: '2026-11-13'
+  - value: https://open.spotify.com/album/1uuWOcORi2VblYCAEm8uUU
+    references:
+    - source: open.spotify.com-album-1uuwocori2vblycaem8uuu-18f398c9a8
+      quote: '"name":"Gray"'
+      accessed: '2026-11-13'
+      locator: Spotify album title; full programme compared with the other cited edition
+    - source: open.spotify.com-album-1uuwocori2vblycaem8uuu-18f398c9a8
+      quote: '"title":"Gray"'
+      accessed: '2026-11-13'
+      locator: First track of the programme
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/1a/c4/d8/1ac4d837-494d-aa2f-6f3c-ed78f871b432/195448540529.jpg/1200x1200bb.jpg
+    qualifiers:
+      credit:
+        text: Safa Ghasemi
+        language: en
+    references:
+    - source: music.apple.com-us-album-gray-single-1541445737
+      quote: Gray - Single
+      accessed: '2026-11-13'
+  contributor:
+  - value: Qphvq4s
+    qualifiers:
+      role: composer
+    references:
+    - source: music.apple.com-us-album-gray-single-1541445737
+      quote: 'Vocal & Music: Sanam Pasha'
+      accessed: '2026-11-13'
+  - value: Q56fhas
+    qualifiers:
+      role: lyricist
+    references:
+    - source: music.apple.com-us-album-gray-single-1541445737
+      quote: 'Lyrics: Nima Rahdari - Produced by: Masoud Fayyaz Zadeh - Mix & Mastering: Ramin Mazaheri'
+      accessed: '2026-11-13'
+  - value: Qswfnvf
+    qualifiers:
+      role: producer
+      credited as:
+        text: Masoud Fayyaz Zadeh
+        language: en
+    references:
+    - source: music.apple.com-us-album-gray-single-1541445737
+      quote: 'Lyrics: Nima Rahdari - Produced by: Masoud Fayyaz Zadeh - Mix & Mastering: Ramin Mazaheri'
+      accessed: '2026-11-13'

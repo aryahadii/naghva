@@ -1,0 +1,52 @@
+id: Qzgaqv8
+type: release
+statements:
+  name:
+  - value:
+      text: Thousand Mirrors
+      language: en
+    references:
+    - &id001
+      source: music.apple.com-us-song-thousand-mirrors-1724093751-869fe373d3
+      quote: Thousand Mirrors
+      accessed: '2026-11-13'
+      locator: Track title
+  contributor:
+  - value: Qranggn
+    qualifiers:
+      role: composer
+    references:
+    - source: music.apple.com-us-song-thousand-mirrors-1724093751-869fe373d3
+      quote: '"name":"Golfam Khayam","roleNames":["Composer"]'
+      accessed: '2026-11-13'
+      locator: Song credits
+  performer:
+  - value: Qcnxbvx
+    references:
+    - source: music.apple.com-us-song-thousand-mirrors-1724093751-869fe373d3
+      quote: Jelica Mijanovic
+      accessed: '2026-11-13'
+      locator: Song byline
+  listen link:
+  - value: https://music.apple.com/us/song/thousand-mirrors/1724093751
+    references:
+    - *id001
+  release date:
+  - value:
+      date: '2024-01-12'
+    references:
+    - source: music.apple.com-us-song-thousand-mirrors-1724093751-869fe373d3
+      quote: '"datePublished":"2024-01-12"'
+      accessed: '2026-11-13'
+      locator: Song JSON-LD, datePublished
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c7/b9/1c/c7b91c7f-a664-148f-a26f-d53a557926b4/3ff3a58e-e364-4e0f-8f01-90b4e0c9b08d.jpg/1200x630bb.jpg
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-song-thousand-mirrors-1724093751-869fe373d3
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c7/b9/1c/c7b91c7f-a664-148f-a26f-d53a557926b4/3ff3a58e-e364-4e0f-8f01-90b4e0c9b08d.jpg/1200x630bb.jpg
+      accessed: '2026-11-13'
+      locator: Song artwork

@@ -1,0 +1,64 @@
+id: Qdbxeca
+type: release
+statements:
+  name:
+  - value:
+      text: Chess
+      language: en
+    references:
+    - source: soundcloud.com-hadi-pakzad-chess
+      quote: Chess
+      accessed: '2026-11-13'
+  performer:
+  - value: Qjnkat7
+    references:
+    - source: soundcloud.com-hadi-pakzad-chess
+      quote: Hadi Pakzad
+      accessed: '2026-11-13'
+  release date:
+  - value:
+      date: '2014-01-19'
+    references:
+    - source: soundcloud.com-hadi-pakzad-chess
+      quote: |-
+        "display_date":"2014-01-19T07:00:26Z"
+      accessed: '2026-11-13'
+  contributor:
+  - value: Qjnkat7
+    qualifiers:
+      role: lyricist
+    references:
+    - source: soundcloud.com-hadi-pakzad-chess
+      quote: 'Lyrics: Hadi Pakzad
+
+        Music: Masoud Fayyazzadeh
+
+        Year: 2009'
+      accessed: '2026-11-13'
+  - value: Qswfnvf
+    qualifiers:
+      role: composer
+    references:
+    - source: soundcloud.com-hadi-pakzad-chess
+      quote: 'Lyrics: Hadi Pakzad
+
+        Music: Masoud Fayyazzadeh
+
+        Year: 2009'
+      accessed: '2026-11-13'
+  listen link:
+  - value: https://soundcloud.com/hadi-pakzad/chess
+    references:
+    - source: soundcloud.com-hadi-pakzad-chess
+      quote: Chess
+      accessed: '2026-11-13'
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-000068382910-m6e3ja-t500x500.jpg
+    qualifiers:
+      credit:
+        text: Hadi Pakzad / SoundCloud
+        language: en
+    references:
+    - source: soundcloud.com-hadi-pakzad-chess
+      quote: Chess
+      accessed: '2026-11-13'

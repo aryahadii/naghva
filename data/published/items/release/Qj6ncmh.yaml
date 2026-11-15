@@ -1,0 +1,46 @@
+id: Qj6ncmh
+type: release
+statements:
+  name:
+  - value:
+      text: A Woman (feat. Fardin)
+      language: en
+    references:
+    - &id001
+      source: music.apple.com-us-album-a-woman-feat-fardin-single-1617104723-d57e70ea4f
+      quote: 'Listen to A Woman (feat. Fardin) - Single by Salome MC on Apple Music. 2012. 1 Song. Duration: 4 minutes.'
+      accessed: '2026-11-13'
+      locator: Apple Music release description
+  performer:
+  - value: Qd3ypxs
+    references:
+    - *id001
+  - value: Qk4vey8
+    references:
+    - source: music.apple.com-us-album-a-woman-feat-fardin-single-1617104723-d57e70ea4f
+      quote: A Woman (feat. Fardin)
+      accessed: '2026-11-13'
+      locator: Track listing
+  release date:
+  - value:
+      date: '2012-08-01'
+    references:
+    - source: music.apple.com-us-album-a-woman-feat-fardin-single-1617104723-d57e70ea4f
+      quote: '"datePublished":"2012-08-01"'
+      accessed: '2026-11-13'
+      locator: Album JSON-LD, datePublished
+  listen link:
+  - value: https://music.apple.com/us/album/a-woman-feat-fardin-single/1617104723
+    references:
+    - *id001
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f6/62/87/f66287a7-6d65-ea57-72e3-9b330148548c/752470281099_cover.jpg/1200x630bb.jpg
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-a-woman-feat-fardin-single-1617104723-d57e70ea4f
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f6/62/87/f66287a7-6d65-ea57-72e3-9b330148548c/752470281099_cover.jpg/1200x630bb.jpg
+      accessed: '2026-11-13'
+      locator: Album JSON-LD, image
