@@ -9,6 +9,17 @@ statements:
     - source: music.apple.com-us-album-oula-1745532527-1c8c0f63b6de
       quote: Oula - Album by Mohsen Namjoo
       accessed: '2026-10-23'
+  release type:
+  - value: album
+    references:
+    - source: music.apple.com-us-album-oula-1745532527-1c8c0f63b6de
+      quote: |-
+        Oula - Album by Mohsen Namjoo
+      accessed: '2026-10-23'
+    - source: open.spotify.com-album-79hzmrgiuwsmsrs6jueyix
+      quote: |-
+        Listen to Oula - Album by Mohsen Namjoo | Spotify
+      accessed: '2026-11-03'
   performer:
   - value: Qt6wjbg
     references:

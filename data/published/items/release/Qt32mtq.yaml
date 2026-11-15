@@ -19,6 +19,13 @@ statements:
       quote: 'Listen to Yellow Sky Blue Sun by Bomrani on Apple Music. 2010. 10 Songs. Duration:
         33 minutes.'
       accessed: '2026-11-06'
+  release type:
+  - value: album
+    references:
+    - source: open.spotify.com-album-2iayyq5v22wndi7ia0n5mv
+      quote: |-
+        Listen to Yellow Sky Blue Sun - Album by Bomrani | Spotify
+      accessed: '2026-11-06'
   performer:
   - value: Q9mgdq3
     references:

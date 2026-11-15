@@ -55,6 +55,7 @@ To record a new kind of fact, add its property here first.
 | `based in` | person, act | place |
 | `life event` | person, act | text, with its language |
 | `release date` | release | date |
+| `release type` | release | release type term |
 | `performer` | release, event | act or person |
 | `contributor` | release | act or person |
 | `published by` | release | organization |
@@ -82,6 +83,10 @@ To record a new kind of fact, add its property here first.
 
 A role term is a short lowercase English word, such as `guitar` or
 `lyricist`. Reuse an existing term before adding a new one.
+
+A release type is one of a closed list: `album`, `ep`, `single`,
+`compilation`, `soundtrack` or `live album`. It is the release's form as
+its own platform page or label states it, never a guess from its length.
 
 ### Life events
 

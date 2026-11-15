@@ -26,6 +26,17 @@ statements:
     - source: open.spotify.com-album-7z382p27yqzg3uofw8bk2n
       quote: name="music:release_date" content="2024-01-01"
       accessed: '2026-11-08'
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-sara-naeini-reza-rohani-performing-anoushiravan-rohanis-1726202699
+      quote: |-
+        Sara Naeini & Reza Rohani Performing Anoushiravan Rohani's Compositions - Single - Album by Anoushirvan Rohani, Sara Naeini & Reza Rohani - Apple Music
+      accessed: '2026-11-08'
+    - source: open.spotify.com-album-7z382p27yqzg3uofw8bk2n
+      quote: |-
+        Listen to Sara Naeini & Reza Rohani Performing Anoushiravan Rohani's Compositions - Single by Anoushirvan Rohani | Spotify
+      accessed: '2026-11-08'
   performer:
   - value: Qb23qew
     references:

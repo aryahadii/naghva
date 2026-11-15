@@ -9,6 +9,21 @@ statements:
     - source: music.apple.com-us-album-jane-maryam-single-1631129098
       quote: Jane Maryam - Single - Album by Sara Naeini & Dani - Apple Music
       accessed: '2026-11-08'
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-jane-maryam-single-1631129098
+      quote: |-
+        Jane Maryam - Single - Album by Sara Naeini & Dani - Apple Music
+      accessed: '2026-11-08'
+    - source: music.apple.com-us-album-jane-maryam-single-6797316056
+      quote: |-
+        Jane Maryam - Single - Album by Sara Naeini - Apple Music
+      accessed: '2026-11-08'
+    - source: open.spotify.com-album-0njybocqa4tgpxvaf6fxgo
+      quote: |-
+        Listen to Jane maryam - Single by Sara Naeini | Spotify
+      accessed: '2026-11-08'
   listen link:
   - value: https://music.apple.com/us/album/jane-maryam-single/1631129098
     references:

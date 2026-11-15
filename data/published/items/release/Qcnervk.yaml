@@ -20,6 +20,13 @@ statements:
     - source: open.spotify.com-album-3lkc0gagrnlb4k1sfyoj4j-d1174b25b87d
       quote: '2011-11-11'
       accessed: '2026-10-23'
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-pop-emergency-english-single-479082181-1ba8be519c43
+      quote: |-
+        Pop Emergency English - Single by 127 on Apple Music
+      accessed: '2026-10-23'
   performer:
   - value: Q2n5y3k
     references:

@@ -11,6 +11,13 @@ statements:
         2015. 1 Song. Duration: 4 minutes.'
       accessed: '2026-11-13'
       locator: Album JSON-LD description
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-6788071094
+      quote: |-
+        Listen to Avaze Majar (Live Concert) [feat. Ebrahim Monsefi] - Single by Soheil Nafisi on Apple Music. 2015. 1 Song. Duration: 4 minutes.
+      accessed: '2026-11-13'
   performer:
   - value: Qhevaad
     references:
