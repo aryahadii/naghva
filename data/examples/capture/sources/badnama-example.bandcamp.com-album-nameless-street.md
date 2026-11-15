@@ -1,5 +1,6 @@
 ---
 url: https://badnama-example.bandcamp.com/album/nameless-street
+archive: "https://web.archive.org/web/20261012000000/https://badnama-example.bandcamp.com/album/nameless-street"
 title: Nameless Street, by Badnama
 kind: web page
 language: en
