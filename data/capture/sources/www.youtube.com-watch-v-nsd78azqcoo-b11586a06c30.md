@@ -1,7 +1,7 @@
 ---
 url: https://www.youtube.com/watch?v=Nsd78azqCOo
 title: Dariush Azar - Rasht (Official Video), YouTube
-kind: YouTube video
+kind: youtube video
 language: en
 tier: discography
 about:
