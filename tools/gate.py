@@ -143,7 +143,7 @@ def read_reviews(folder, claims):
                     if score <= 2:
                         low.append("%s, %s (%d): “%s” — %s. Rewrite: %s" % (
                             language, question, score, gate_quotes._clip(str(note.get("sentence", "")), 160),
-                            note.get("problem", ""), note.get("rewrite", ""),
+                            str(note.get("problem", "")).rstrip("."), note.get("rewrite", ""),
                         ))
     if scores:
         for language in ("en", "fa"):
