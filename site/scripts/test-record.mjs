@@ -5,7 +5,8 @@ import { best, recordingArtists, datesDisagree, href, performers, releaseDates, 
 
 const artist = { id: 'artist', type: 'person', page: 'artist', statements: {}, incoming: [] };
 const band = { id: 'band', type: 'act', statements: {}, incoming: [{ property: 'member of', item: 'artist', rank: 'normal' }] };
-const release = { id: 'release', type: 'release', anchor: 'album', statements: { performer: [{ value: 'band', rank: 'normal' }] }, incoming: [] };
+// derive decides hosting: the band has no page, so its member's page shows the release.
+const release = { id: 'release', type: 'release', anchor: 'album', host: 'artist', statements: { performer: [{ value: 'band', rank: 'normal' }] }, incoming: [] };
 const event = { id: 'event', type: 'event', statements: { performer: [{ value: 'artist', rank: 'normal' }] }, incoming: [] };
 
 test('an announced event never becomes a recording on its performer’s page', () => {
@@ -15,9 +16,9 @@ test('an announced event never becomes a recording on its performer’s page', (
 });
 
 test('a band recording without a curated band page has a working member-page panel', () => {
-  const record = { items: { artist, band, release } };
+  const record = { items: { artist: { ...artist, releases: ['release'] }, band, release }, panelHosts: { release: 'artist' } };
   assert.equal(href(record, 'en', release), '/en/artist/#album');
-  assert.deepEqual(releasesOf(record, artist).map((r) => r.id), ['release']);
+  assert.deepEqual(releasesOf(record, record.items.artist).map((r) => r.id), ['release']);
   assert.equal(release.statements.performer[0].value, 'band');
 });
 
