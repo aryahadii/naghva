@@ -6,6 +6,8 @@ import { compareDates } from './catalogue';
 /** The record tools/derive.py writes; the site reads nothing else. */
 
 export type Lang = 'en' | 'fa';
+/** Where the record and the site's code are published. */
+export const REPOSITORY = 'https://github.com/aryahadii/naghva';
 export const LANGS: Lang[] = ['en', 'fa'];
 
 export interface Text { text: string; language: string }

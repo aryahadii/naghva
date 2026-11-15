@@ -74,6 +74,8 @@ properties:
     used on: [person, act]
     value: url
     hosts: platforms
+  # Every place below country level names its country; a place with no
+  # `country` is taken to be a country itself (tools/stats.py relies on it).
   country:
     used on: [place]
     value: item
