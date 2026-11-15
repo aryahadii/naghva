@@ -339,6 +339,23 @@ def derive(root, issued=None):
             raise ds.DataError("issued release address #%s (%s) has no surviving destination" % (anchor, owner))
     issued["panelHosts"] = panel_hosts
 
+    # Which page shows each release, decided here once: `host` is the credited
+    # artist whose page shows it now, and an artist's `releases` are those it
+    # performs on plus those its page hosts. (A release without a credited
+    # host is shown where it was before, by panelHosts.)
+    for release in items.values():
+        if release["type"] == "release":
+            host = current_host(release)
+            if host:
+                release["host"] = host
+    for artist_id in artists:
+        artist = items[artist_id]
+        ids = {i["item"] for i in artist["incoming"]
+               if i["property"] == "performer" and items[i["item"]]["type"] == "release"
+               and any(s["value"] == artist_id for s in best(items[i["item"]]["statements"].get("performer", [])))}
+        ids |= {r["id"] for r in items.values() if r.get("host") == artist_id}
+        artist["releases"] = sorted(ids)
+
     sources = {}
     for item in items.values():
         for statements in item["statements"].values():
