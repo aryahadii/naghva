@@ -351,9 +351,9 @@ def check_sources(artist, offline=False):
                     leads.append(link)
         if leads:
             findings.append(Finding(
-                "fix", "sources found",
-                "Linked from the artist's Wikipedia article and not registered in capture "
-                "(register each as found, processed or excluded)", leads,
+                "note", "sources found",
+                "Linked from the artist's Wikipedia article and not in capture: leads to look "
+                "through for sources, not a list to register one by one", leads,
             ))
         if pages:
             leads_line = " · Wikipedia links not in capture: %d" % len(leads)
