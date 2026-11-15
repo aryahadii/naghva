@@ -380,6 +380,16 @@ class RuleTests(ValidateTests):
             "unknown.md: `about` refers to unknown item Qzzzzz9",
         )
 
+    def test_about_alone_must_still_be_a_live_item(self):
+        self.write_note("unknown", "---\nabout: Qzzzzz9\n---\n")
+        self.write_note("merged", "---\nabout: %s\n---\n" % MERGED)
+        self.write_note("release", "---\nabout: %s\n---\n" % RELEASE)
+        self.assertOnlyError(
+            self.run_validator(),
+            "merged.md: `about` refers to Q9pw4tm, merged into Q7k3m9x",
+            "unknown.md: `about` refers to unknown item Qzzzzz9",
+        )
+
     def test_searches_name_registry_platforms(self):
         self.write_note("badnama", self.searched(BAND, Bandcamp="2026-11-15", deezer="2026-11-15"))
         report = self.run_validator()
@@ -421,6 +431,11 @@ class RuleTests(ValidateTests):
         report = self.run_validator()
         self.assertEqual(report.errors, [])
         self.assertOnlyWarning(report, "searched bandcamp: Q7k3m9x now has a profile link on bandcamp")
+
+        self.change("act", BAND, lambda d: d["statements"]["profile link"][0].update(rank="deprecated"))
+        report = self.run_validator()
+        self.assertEqual(report.errors, [])
+        self.assertEqual(report.warnings, [])
 
     # --- References ----------------------------------------------------------
 

@@ -41,11 +41,20 @@ NOT_SOURCES = (
 def searched_platforms(store, artist_id):
     """{platform name: day} for each platform the notes record as searched with no profile found.
 
-    The record is a note's `searched`, as data/README.md describes; keys that
-    are not registry platforms are the validator's to report and are skipped.
+    The record is a note's `searched`, as data/README.md describes. Keys that
+    are not registry platforms and days that are not real days are the
+    validator's to report; they do not count as a search.
     """
     names = dict(zip(REGISTRY["platforms"], PLATFORM_NAMES))
-    return {names[key]: day for key, (day, _) in store.searches(artist_id).items() if key in names}
+    out = {}
+    for key, (day, _) in store.searches(artist_id).items():
+        try:
+            ds.iso_date(day if isinstance(day, str) else "")
+        except ValueError:
+            continue
+        if key in names:
+            out[names[key]] = day
+    return out
 
 
 def _utc_today():
@@ -75,11 +84,7 @@ def check_platforms(artist):
     old = []
     for name in PLATFORM_NAMES:
         if name in searched and name not in profiles:
-            try:
-                age = (_utc_today() - ds.iso_date(searched[name])).days
-            except ValueError:
-                continue
-            if age > RECHECK_DAYS:
+            if (_utc_today() - ds.iso_date(searched[name])).days > RECHECK_DAYS:
                 old.append("%s, searched %s" % (name, searched[name]))
     if old:
         findings.append(Finding(

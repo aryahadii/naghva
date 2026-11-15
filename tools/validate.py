@@ -145,8 +145,8 @@ def check_source_urls(store, report):
 
 
 def check_note(note, store, registry, report):
-    """A note's recorded searches: an artist that exists, registry platforms, real past days."""
-    if not note.searched:
+    """A note's `about` and recorded searches: an artist that exists, registry platforms, real past days."""
+    if note.about is None:
         return
     where = store.rel(note.path)
     target = store.items.get(note.about)
@@ -155,14 +155,17 @@ def check_note(note, store, registry, report):
     elif "merged into" in target.data:
         report.error(where, "`about` refers to %s, merged into %s" % (note.about, target.data["merged into"]))
         target = None
-    elif target.data.get("type") not in ARTIST_TYPES:
+    if not note.searched:
+        return
+    if target is not None and target.data.get("type") not in ARTIST_TYPES:
         report.error(where, "`about` is a %s; searches are for a person or an act" % target.data.get("type"))
         target = None
     platforms = registry.get("platforms") or {}
     profiles = set()
     if target is not None:
         for st in (target.data.get("statements") or {}).get("profile link", []):
-            if isinstance(st, dict) and ds.value_kind(st.get("value")) == "url":
+            # A deprecated link is not shown, so the gate still asks for a search beside it.
+            if isinstance(st, dict) and st.get("rank") != "deprecated" and ds.value_kind(st.get("value")) == "url":
                 profiles.add(ds.platform_of(st["value"], registry))
     for key, day in note.searched.items():
         here = "%s: searched %s" % (where, key)

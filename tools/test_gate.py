@@ -161,6 +161,11 @@ class Searches(unittest.TestCase):
         line, findings, _ = self.platforms(Bandcamp="2026-11-15")
         self.assertIn("Bandcamp not declared", line)
 
+    def test_a_day_that_is_not_a_day_is_no_search(self):
+        line, _, _ = self.platforms(bandcamp="", soundcloud="'2026-11'", youtube="'2026-02-30'")
+        for name in ("Bandcamp", "SoundCloud", "YouTube"):
+            self.assertIn("%s not declared" % name, line)
+
     def test_an_old_search_asks_for_another(self):
         today = datetime.datetime.now(datetime.timezone.utc).date()
         old = (today - datetime.timedelta(days=gate_record.RECHECK_DAYS + 1)).isoformat()

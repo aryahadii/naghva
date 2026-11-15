@@ -177,7 +177,7 @@ the band, only an unrelated DJ.
 
 | Key | Required | Value |
 | --- | --- | --- |
-| `about` | with `searched` | the person or act the note is about, by item ID |
+| `about` | with `searched` | the item the note is about, by ID; a person or act when it has `searched` |
 | `searched` | no | map from a platform key under `platforms` in the registry to the day it was searched, `YYYY-MM-DD` |
 
 Each entry under `searched` says: on that day the platform was searched for
@@ -533,9 +533,10 @@ are well-formed; references cite existing, processed capture files and quote
 words found in their blockquotes; listen links and images use an allowed host;
 merged items are empty and unreferenced; articles are named after a person or
 act and a language, and their citations and references match; a note's
-searches are about a person or act, name registry platforms once per artist,
-and fall on real days not in the future, with a warning when the artist now
-has a profile link there; and the registry's names match the spec's tables.
+`about` is a live item, and its searches are about a person or act, name
+registry platforms once per artist and fall on real days not in the future,
+with a warning when the artist now has a profile link there; and the
+registry's names match the spec's tables.
 
 ## Workflow
 
