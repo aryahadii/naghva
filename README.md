@@ -35,12 +35,12 @@ next. The record is not complete and doesn't claim to be.
 
 ## Licences
 
-- The record is [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/):
-  no rights reserved.
-- Articles are [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
-  Credit "Naghva (naghva.com)", with a link where you can.
-- The code is MIT.
-- Logos and the miniature art are all rights reserved.
+- The record, the articles and the code are all
+  [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); the full text is
+  in [LICENSE](LICENSE). Credit "Naghva (naghva.com)", with a link where you
+  can.
+- Logos and the miniature art are all rights reserved. You may still use
+  the logo to link to Naghva or to mention it.
 - Quoted passages belong to their authors and publishers, and images to
   whoever made them. They are covered by none of the above.
 
