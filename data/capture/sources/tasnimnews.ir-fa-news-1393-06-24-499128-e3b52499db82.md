@@ -1,5 +1,6 @@
 ---
 url: https://tasnimnews.ir/fa/news/1393/06/24/499128
+archive: https://web.archive.org/web/20261115155810/https://tasnimnews.ir/fa/news/1393/06/24/499128
 title: «اشارت نظر» با صدای میلاد درخشانی منتشر شد
 kind: web page
 language: fa

@@ -1,5 +1,6 @@
 ---
 url: https://www.kccu.org/world/2012-08-16/underground-iranian-band-steps-out-of-the-shadows
+archive: https://web.archive.org/web/20261115163829/https://www.kccu.org/world/2012-08-16/underground-iranian-band-steps-out-of-the-shadows
 title: Underground Iranian Band Steps Out Of The Shadows
 kind: web page
 language: en

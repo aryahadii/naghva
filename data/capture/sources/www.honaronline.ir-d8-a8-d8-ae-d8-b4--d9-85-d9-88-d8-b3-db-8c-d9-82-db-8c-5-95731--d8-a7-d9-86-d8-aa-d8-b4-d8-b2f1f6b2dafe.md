@@ -1,5 +1,6 @@
 ---
 url: https://www.honaronline.ir/%D8%A8%D8%AE%D8%B4-%D9%85%D9%88%D8%B3%DB%8C%D9%82%DB%8C-5/95731-%D8%A7%D9%86%D8%AA%D8%B4%D8%A7%D8%B1-%D8%A7%D9%88%D9%84%DB%8C%D9%86-%DA%A9%D9%86%D8%B3%D8%B1%D8%AA-%D8%AA%D8%B5%D9%88%DB%8C%D8%B1%DB%8C-%DA%AF%D8%B1%D9%88%D9%87-%D9%BE%D8%A7%D9%84%D8%AA
+archive: https://web.archive.org/web/20261115162339/https://www.honaronline.ir/%D8%A8%D8%AE%D8%B4-%D9%85%D9%88%D8%B3%DB%8C%D9%82%DB%8C-5/95731-%D8%A7%D9%86%D8%AA%D8%B4%D8%A7%D8%B1-%D8%A7%D9%88%D9%84%DB%8C%D9%86-%DA%A9%D9%86%D8%B3%D8%B1%D8%AA-%D8%AA%D8%B5%D9%88%DB%8C%D8%B1%DB%8C-%DA%AF%D8%B1%D9%88%D9%87-%D9%BE%D8%A7%D9%84%D8%AA
 title: انتشار اولین کنسرت تصویری گروه پالت
 language: fa
 publisher: Honar Online

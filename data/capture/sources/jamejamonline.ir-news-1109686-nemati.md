@@ -1,5 +1,6 @@
 ---
 url: https://jamejamonline.ir/fa/news/1109686/%D9%85%D9%88%D8%B3%DB%8C%D9%82%DB%8C%E2%80%8C%D9%87%D8%A7%DB%8C-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D9%85%D8%A7-%D9%87%D9%85%D9%87-%D9%81%D8%A7%D9%84%D8%B4-%D9%87%D8%B3%D8%AA%D9%86%D8%AF
+archive: https://web.archive.org/web/20261115143000/https://jamejamonline.ir/fa/news/1109686/%D9%85%D9%88%D8%B3%DB%8C%D9%82%DB%8C%E2%80%8C%D9%87%D8%A7%DB%8C-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D9%85%D8%A7-%D9%87%D9%85%D9%87-%D9%81%D8%A7%D9%84%D8%B4-%D9%87%D8%B3%D8%AA%D9%86%D8%AF
 title: موسیقی‌های امروز ما، همه فالش هستند
 status: processed
 language: fa

@@ -1,5 +1,6 @@
 ---
 url: https://tarxun.bandcamp.com/album/liberty-or-death
+archive: https://web.archive.org/web/20261115155306/https://tarxun.bandcamp.com/album/liberty-or-death
 title: liberty or death | tarxun
 language: en
 publisher: Bandcamp

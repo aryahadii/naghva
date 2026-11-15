@@ -1,5 +1,6 @@
 ---
 url: https://www.mehrnews.com/news/5986580/
+archive: https://web.archive.org/web/20261115164531/https://www.mehrnews.com/news/5986580/%D8%AF%D8%B9%D9%88%D8%A7%DB%8C-%DA%86%D8%A7%D8%B1%D8%AA%D8%A7%D8%B1-%D8%A8%D8%A7%D9%84%D8%A7-%DA%AF%D8%B1%D9%81%D8%AA-%D8%AA%D8%A7%D8%B2%D9%87-%D8%AA%D8%B1%DB%8C%D9%86-%D8%B1%D9%88%D8%A7%DB%8C%D8%AA-%D8%AD%D9%85%DB%8C%D8%AF-%D9%87%DB%8C%D8%B1%D8%A7%D8%AF-%D8%A7%D8%B2-%D8%B4%D8%B1%D8%A7%DB%8C%D8%B7
 title: دعوای «چارتار» بالا گرفت
 kind: web page
 language: fa

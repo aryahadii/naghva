@@ -1,5 +1,6 @@
 ---
 url: https://kabin.bandcamp.com/track/chicheshme
+archive: https://web.archive.org/web/20261115143512/https://kabin.bandcamp.com/track/chicheshme
 title: ChiCheshme | Kābin & Masoud Bakhtyari (Bahman Alaedin) | Kābin
 language: mul
 publisher: Bandcamp

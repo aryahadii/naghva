@@ -1,5 +1,6 @@
 ---
 url: https://www.clueacademy.ca/poem
+archive: https://web.archive.org/web/20261115161654/https://www.clueacademy.ca/poem
 title: Poetry & Songwriting — CLUE Academy
 kind: web page
 language: en

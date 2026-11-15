@@ -1,5 +1,6 @@
 ---
 url: https://vivaalliance.ca/events/culture-is-the-body-a-psychophysical-training
+archive: https://web.archive.org/web/20261115160759/https://vivaalliance.ca/events/culture-is-the-body-a-psychophysical-training
 title: 'Culture is the Body: A Psychophysical Training Course'
 language: en
 status: processed

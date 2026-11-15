@@ -1,5 +1,6 @@
 ---
 url: https://podcasts.apple.com/us/podcast/e1-s3-%D8%A2%D8%B1%D8%B4-%D8%B6%D8%B1%D8%A7%D8%A8%DB%8C-arash-zarabi/id1771190219?i=1000735861125
+archive: https://web.archive.org/web/20261115145223/https://podcasts.apple.com/us/podcast/e1-s3-%D8%A2%D8%B1%D8%B4-%D8%B6%D8%B1%D8%A7%D8%A8%DB%8C-arash-zarabi/id1771190219?i=1000735861125
 title: E1-S3 آرش ضرابی - Arash zarabi
 language: fa
 publisher: Gooshgir

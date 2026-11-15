@@ -1,5 +1,6 @@
 ---
 url: https://rooz.hilnu.com/persian/news/newsitem/article/-ead9e79026/
+archive: https://web.archive.org/web/20261115145550/https://rooz.hilnu.com/persian/news/newsitem/article/-ead9e79026/
 title: موسیقی ♦ چهار فصل ‏ - آرشیو روزآنلاین
 kind: web page
 language: fa

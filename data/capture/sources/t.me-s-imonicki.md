@@ -1,5 +1,6 @@
 ---
 url: https://t.me/s/imonicki
+archive: https://web.archive.org/web/20261115153339/https://t.me/s/imonicki
 title: Monicki🎙💜 - Telegram public channel
 status: processed
 kind: telegram channel
