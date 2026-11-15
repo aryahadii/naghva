@@ -468,6 +468,7 @@ Python 3 scripts under `tools/`, needing only `pyyaml` and `jsonschema`.
 | Command | Does |
 | --- | --- |
 | `tools/newid.py` | print a fresh item ID |
+| `tools/archive.py` | add Wayback Machine `archive` links to processed web sources that lack one |
 | `tools/validate.py` | check `data/` against the schemas, the registry and the cross-file rules; exit 1 on any error |
 
 Each accepts `--root <dir>` to work on another root with the same layout,
