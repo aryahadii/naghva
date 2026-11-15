@@ -1,5 +1,6 @@
 """Tests for the enrichment gate's code checks. None of them use the network."""
 
+import datetime
 import shutil
 import subprocess
 import tempfile
@@ -8,6 +9,7 @@ import urllib.parse
 from pathlib import Path
 from types import SimpleNamespace
 
+import datastore as ds
 import gate_article
 import gate_common
 import gate_quotes
@@ -125,6 +127,48 @@ class Record(unittest.TestCase):
             gate_record.url_key("https://web.archive.org/web/2020/https://www.Example.com/a/"),
             gate_record.url_key("http://example.com/a"),
         )
+
+
+class Searches(unittest.TestCase):
+    """Platforms recorded as searched, read from the examples with a note added."""
+
+    def setUp(self):
+        folder = tempfile.mkdtemp()
+        self.addCleanup(shutil.rmtree, folder)
+        self.root = Path(folder) / "examples"
+        shutil.copytree(ds.REPO / "data" / "examples", self.root)
+
+    def platforms(self, **days):
+        note = "---\nabout: Q7k3m9x\nsearched:\n%s---\n" % "".join("  %s: %s\n" % kv for kv in days.items())
+        (self.root / "capture" / "notes" / "badnama-searches.md").write_text(note, encoding="utf-8")
+        store = ds.load_store(self.root)
+        return gate_record.check_platforms(gate_common.Artist(store, store.items["Q7k3m9x"]))
+
+    def test_every_platform_searched_is_no_block(self):
+        line, findings, _ = self.platforms(**{key: "2026-11-15" for key in gate_common.REGISTRY["platforms"]})
+        self.assertEqual([f for f in findings if f.level == "block"], [])
+        self.assertIn("Bandcamp searched 2026-11-15, none found", line)
+
+    def test_an_unsearched_platform_still_blocks(self):
+        line, findings, _ = self.platforms(bandcamp="2026-11-15")
+        blocks = [f.text for f in findings if f.level == "block" and f.check == "platforms"]
+        self.assertEqual(len(blocks), 1)
+        self.assertNotIn("Bandcamp", blocks[0])
+        self.assertIn("SoundCloud", blocks[0])
+        self.assertIn("SoundCloud not declared", line)
+
+    def test_only_registry_keys_count(self):
+        line, findings, _ = self.platforms(Bandcamp="2026-11-15")
+        self.assertIn("Bandcamp not declared", line)
+
+    def test_an_old_search_asks_for_another(self):
+        today = datetime.datetime.now(datetime.timezone.utc).date()
+        old = (today - datetime.timedelta(days=gate_record.RECHECK_DAYS + 1)).isoformat()
+        recent = (today - datetime.timedelta(days=gate_record.RECHECK_DAYS)).isoformat()
+        _, findings, _ = self.platforms(bandcamp=old, soundcloud=recent)
+        notes = [f for f in findings if f.level == "note" and f.check == "platforms"]
+        self.assertEqual(len(notes), 1)
+        self.assertEqual(notes[0].items, ["Bandcamp, searched %s" % old])
 
 
 class Article(unittest.TestCase):
