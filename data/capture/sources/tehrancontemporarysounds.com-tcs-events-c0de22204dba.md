@@ -1,6 +1,6 @@
 ---
 url: https://tehrancontemporarysounds.com/tcs-events/
-archive: "https://web.archive.org/web/20251017182052/https://tehrancontemporarysounds.com/tcs-events/"
+archive: https://web.archive.org/web/20251017182052/https://tehrancontemporarysounds.com/tcs-events/
 title: TCS EVENTS
 status: processed
 kind: web page

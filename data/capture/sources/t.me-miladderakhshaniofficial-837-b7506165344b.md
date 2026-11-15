@@ -1,6 +1,6 @@
 ---
 url: https://t.me/miladderakhshaniofficial/837
-archive: "https://web.archive.org/web/20240907035126/https://t.me/miladderakhshaniofficial/837"
+archive: https://web.archive.org/web/20240907035126/https://t.me/miladderakhshaniofficial/837
 title: Milad Derakhshani — post 837
 kind: telegram post
 language: fa

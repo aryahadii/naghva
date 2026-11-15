@@ -1,6 +1,6 @@
 ---
 url: https://t.me/yastunes/472
-archive: "https://web.archive.org/web/20220828085916/https://t.me/yastunes/472"
+archive: https://web.archive.org/web/20220828085916/https://t.me/yastunes/472
 title: YAS Telegram post 472
 status: processed
 tier: own

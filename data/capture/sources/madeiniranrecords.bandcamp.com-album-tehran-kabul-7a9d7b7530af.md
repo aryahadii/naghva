@@ -1,6 +1,6 @@
 ---
 url: https://madeiniranrecords.bandcamp.com/album/tehran-kabul
-archive: "https://web.archive.org/web/20220923174441/https://madeiniranrecords.bandcamp.com/album/tehran-kabul"
+archive: https://web.archive.org/web/20220923174441/https://madeiniranrecords.bandcamp.com/album/tehran-kabul
 title: Tehran-Kabul | Unlucky Ninjas
 language: en
 publisher: Made in Iran

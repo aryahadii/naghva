@@ -1,6 +1,6 @@
 ---
 url: https://peeleh.bandcamp.com/track/goosht
-archive: "https://web.archive.org/web/20241204140545/https://peeleh.bandcamp.com/track/goosht"
+archive: https://web.archive.org/web/20241204140545/https://peeleh.bandcamp.com/track/goosht
 title: GOOSHT, by Bahram
 kind: web page
 language: en

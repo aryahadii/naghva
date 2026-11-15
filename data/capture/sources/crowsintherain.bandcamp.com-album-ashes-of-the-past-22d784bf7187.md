@@ -1,6 +1,6 @@
 ---
 url: https://crowsintherain.bandcamp.com/album/ashes-of-the-past
-archive: "https://web.archive.org/web/20260707021353/https://crowsintherain.bandcamp.com/album/ashes-of-the-past"
+archive: https://web.archive.org/web/20260707021353/https://crowsintherain.bandcamp.com/album/ashes-of-the-past
 title: Ashes of the Past | Crows in the rain
 language: en
 status: processed

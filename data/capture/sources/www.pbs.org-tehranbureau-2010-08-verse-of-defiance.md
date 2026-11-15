@@ -1,6 +1,6 @@
 ---
 url: https://www.pbs.org/wgbh/pages/frontline/tehranbureau/2010/08/verse-of-defiance.html
-archive: "https://web.archive.org/web/20260408214504/https://www.pbs.org/wgbh/pages/frontline/tehranbureau/2010/08/verse-of-defiance.html"
+archive: https://web.archive.org/web/20260408214504/https://www.pbs.org/wgbh/pages/frontline/tehranbureau/2010/08/verse-of-defiance.html
 title: Verse of Defiance
 kind: web page
 language: en

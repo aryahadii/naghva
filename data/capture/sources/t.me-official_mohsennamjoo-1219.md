@@ -1,6 +1,6 @@
 ---
 url: https://t.me/Official_MohsenNamjoo/1219
-archive: "https://web.archive.org/web/20250610064756/https://t.me/Official_MohsenNamjoo/1219"
+archive: https://web.archive.org/web/20250610064756/https://t.me/Official_MohsenNamjoo/1219
 title: 'کیستی؟: انتشار و عوامل'
 kind: telegram post
 language: fa

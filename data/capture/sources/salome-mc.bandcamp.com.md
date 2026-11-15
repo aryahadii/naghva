@@ -1,6 +1,6 @@
 ---
 url: https://salome-mc.bandcamp.com
-archive: "https://web.archive.org/web/20260408004539/https://salome-mc.bandcamp.com/"
+archive: https://web.archive.org/web/20260408004539/https://salome-mc.bandcamp.com/
 title: Music | Salome Mc
 status: processed
 tier: own

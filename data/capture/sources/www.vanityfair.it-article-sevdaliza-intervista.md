@@ -1,6 +1,6 @@
 ---
 url: https://www.vanityfair.it/article/sevdaliza-intervista
-archive: "https://web.archive.org/web/20260114093330/https://www.vanityfair.it/article/sevdaliza-intervista"
+archive: https://web.archive.org/web/20260114093330/https://www.vanityfair.it/article/sevdaliza-intervista
 title: 'Sevdaliza: «Io resisto»'
 kind: web page
 language: it

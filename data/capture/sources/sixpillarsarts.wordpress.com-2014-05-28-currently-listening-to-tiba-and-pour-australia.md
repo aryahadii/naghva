@@ -1,6 +1,6 @@
 ---
 url: https://sixpillarsarts.wordpress.com/2014/05/28/currently-listening-to-tiba-and-pour-australia/
-archive: "https://web.archive.org/web/20210301145259/https://sixpillarsarts.wordpress.com/2014/05/28/currently-listening-to-tiba-and-pour-australia/"
+archive: https://web.archive.org/web/20210301145259/https://sixpillarsarts.wordpress.com/2014/05/28/currently-listening-to-tiba-and-pour-australia/
 title: "Currently Listening To….Tiba and Pour, Australia"
 kind: web page
 language: en

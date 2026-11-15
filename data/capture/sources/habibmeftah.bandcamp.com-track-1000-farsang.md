@@ -1,6 +1,6 @@
 ---
 url: https://habibmeftah.bandcamp.com/track/1000-farsang
-archive: "https://web.archive.org/web/20250217120300/https://habibmeftah.bandcamp.com/track/1000-farsang"
+archive: https://web.archive.org/web/20250217120300/https://habibmeftah.bandcamp.com/track/1000-farsang
 title: 1000 FARSANG | Habib Meftah and Rouzbeh Esfand
 kind: web page
 language: en

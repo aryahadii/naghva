@@ -1,6 +1,6 @@
 ---
 url: https://soundcloud.com/hichkasofficial/rooye-jenazat
-archive: "https://web.archive.org/web/20250702204216/https://soundcloud.com/hichkasofficial/rooye-jenazat"
+archive: https://web.archive.org/web/20250702204216/https://soundcloud.com/hichkasofficial/rooye-jenazat
 title: Rooye Jenazat Miraghsam on SoundCloud
 kind: web page
 language: en

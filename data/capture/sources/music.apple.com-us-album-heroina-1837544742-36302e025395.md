@@ -1,6 +1,6 @@
 ---
 url: https://music.apple.com/us/album/heroina/1837544742
-archive: "https://web.archive.org/web/20261014104115/https://music.apple.com/us/album/heroina/1837544742"
+archive: https://web.archive.org/web/20261014104115/https://music.apple.com/us/album/heroina/1837544742
 title: HEROINA - Album by Sevdaliza
 language: en
 publisher: Apple Music

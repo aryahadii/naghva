@@ -1,6 +1,6 @@
 ---
 url: https://en.wikipedia.org/wiki/Oregon
-archive: "https://web.archive.org/web/20261112182655/https://en.wikipedia.org/wiki/Oregon"
+archive: https://web.archive.org/web/20261112182655/https://en.wikipedia.org/wiki/Oregon
 title: "Oregon"
 kind: web page
 language: en

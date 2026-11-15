@@ -1,6 +1,6 @@
 ---
 url: https://www.navahang.com/mp3/chaartaar-gele-kon/
-archive: "https://web.archive.org/web/20251010030452/https://www.navahang.com/mp3/chaartaar-gele-kon/"
+archive: https://web.archive.org/web/20251010030452/https://www.navahang.com/mp3/chaartaar-gele-kon/
 title: Gele Kon by Chaartaar on Navahang | چارتار گله كن
 kind: web page
 language: fa

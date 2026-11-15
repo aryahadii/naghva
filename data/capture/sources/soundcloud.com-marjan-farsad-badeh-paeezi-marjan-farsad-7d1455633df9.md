@@ -1,6 +1,6 @@
 ---
 url: https://soundcloud.com/marjan-farsad/badeh-paeezi-marjan-farsad
-archive: "https://web.archive.org/web/20241008005812/https://soundcloud.com/marjan-farsad/badeh-paeezi-marjan-farsad"
+archive: https://web.archive.org/web/20241008005812/https://soundcloud.com/marjan-farsad/badeh-paeezi-marjan-farsad
 title: Badeh Paeezi - Marjan farsad - مرجان فرساد - باد پاییزی
 publisher: Marjan Farsad
 status: processed

@@ -1,6 +1,6 @@
 ---
 url: https://t.me/halehseyfizadeh/89
-archive: "https://web.archive.org/web/20250403142028/https://t.me/halehseyfizadeh/89"
+archive: https://web.archive.org/web/20250403142028/https://t.me/halehseyfizadeh/89
 title: فَرْيٰاد
 kind: telegram post
 language: mul

@@ -1,6 +1,6 @@
 ---
 url: https://t.me/dariusazar/163
-archive: "https://web.archive.org/web/20220519051547/https://t.me/dariusazar/163"
+archive: https://web.archive.org/web/20220519051547/https://t.me/dariusazar/163
 title: 'اشک بهار: artist credits and source-composition relationship'
 kind: telegram post
 language: fa

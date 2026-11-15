@@ -1,6 +1,6 @@
 ---
 url: https://shows.acast.com/cozornershow/episodes/corner-71-bamdad
-archive: "https://web.archive.org/web/20261002010343/https://shows.acast.com/cozornershow/episodes/corner-71-bamdad"
+archive: https://web.archive.org/web/20261002010343/https://shows.acast.com/cozornershow/episodes/corner-71-bamdad
 title: 'Corner 74: Bamdad | بامداد'
 kind: web page
 language: mul

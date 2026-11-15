@@ -1,6 +1,6 @@
 ---
 url: https://music.apple.com/us/album/sumud/1628738404
-archive: "https://web.archive.org/web/20260831203901/https://music.apple.com/us/album/sumud/1628738404"
+archive: https://web.archive.org/web/20260831203901/https://music.apple.com/us/album/sumud/1628738404
 title: Sumud - Album by Niyaz - Apple Music
 language: en
 publisher: Apple Music

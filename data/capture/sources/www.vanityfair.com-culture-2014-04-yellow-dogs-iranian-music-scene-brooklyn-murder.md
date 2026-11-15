@@ -1,6 +1,6 @@
 ---
 url: https://www.vanityfair.com/culture/2014/04/yellow-dogs-iranian-music-scene-brooklyn-murder
-archive: "https://web.archive.org/web/20260913111749/https://www.vanityfair.com/culture/2014/04/yellow-dogs-iranian-music-scene-brooklyn-murder"
+archive: https://web.archive.org/web/20260913111749/https://www.vanityfair.com/culture/2014/04/yellow-dogs-iranian-music-scene-brooklyn-murder
 title: To Live and Die in America
 kind: web page
 language: en

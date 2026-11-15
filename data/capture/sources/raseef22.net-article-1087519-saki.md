@@ -1,6 +1,6 @@
 ---
 url: https://raseef22.net/article/1087519
-archive: "https://web.archive.org/web/20220601201840/https://raseef22.net/article/1087519"
+archive: https://web.archive.org/web/20220601201840/https://raseef22.net/article/1087519
 title: Amir Jaber interviews Arab singers working in Persian
 language: ar
 status: processed

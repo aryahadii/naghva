@@ -1,6 +1,6 @@
 ---
 url: https://www.farzadonline.com/farsi-bio/
-archive: "https://web.archive.org/web/20260422022656/https://www.farzadonline.com/farsi-bio/"
+archive: https://web.archive.org/web/20260422022656/https://www.farzadonline.com/farsi-bio/
 title: Farzad Golpayegani
 language: fa
 publisher: Farzad Golpayegani

@@ -1,6 +1,6 @@
 ---
 url: https://www.allmusic.com/album/elysium-for-the-brave-mw0000572497
-archive: "https://web.archive.org/web/20260105150831/https://www.allmusic.com/album/elysium-for-the-brave-mw0000572497"
+archive: https://web.archive.org/web/20260105150831/https://www.allmusic.com/album/elysium-for-the-brave-mw0000572497
 title: 'Azam Ali: Elysium for the Brave Tracks & Reviews | AllMusic'
 kind: web page
 language: en

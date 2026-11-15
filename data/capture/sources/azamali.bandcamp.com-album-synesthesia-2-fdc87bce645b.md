@@ -1,6 +1,6 @@
 ---
 url: https://azamali.bandcamp.com/album/synesthesia-2
-archive: "https://web.archive.org/web/20261022191538/https://azamali.bandcamp.com/album/synesthesia-2"
+archive: https://web.archive.org/web/20261022191538/https://azamali.bandcamp.com/album/synesthesia-2
 title: Synesthesia | Azam Ali
 kind: web page
 language: en

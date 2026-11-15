@@ -1,6 +1,6 @@
 ---
 url: https://music.apple.com/us/album/jaddeh-miraghsad/1039935268
-archive: "https://web.archive.org/web/20250706170522/https://music.apple.com/us/album/jaddeh-miraghsad/1039935268"
+archive: https://web.archive.org/web/20250706170522/https://music.apple.com/us/album/jaddeh-miraghsad/1039935268
 title: Jaddeh Miraghsad - Album by Chaartaar - Apple Music
 language: en
 publisher: Apple Music

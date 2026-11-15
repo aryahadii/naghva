@@ -1,6 +1,6 @@
 ---
 url: https://www.youtube.com/playlist?list=OLAK5uy_ngc2orvJHoPaztEkFeSQz_dmVkcO52kb0
-archive: "https://web.archive.org/web/20260107015148/https://www.youtube.com/playlist?list=OLAK5uy_ngc2orvJHoPaztEkFeSQz_dmVkcO52kb0"
+archive: https://web.archive.org/web/20260107015148/https://www.youtube.com/playlist?list=OLAK5uy_ngc2orvJHoPaztEkFeSQz_dmVkcO52kb0
 title: Sweet as You Are - YouTube
 kind: web page
 language: en

@@ -1,6 +1,6 @@
 ---
 url: https://sepehr.bandcamp.com/album/shaytoon
-archive: "https://web.archive.org/web/20260515123242/https://sepehr.bandcamp.com/album/shaytoon"
+archive: https://web.archive.org/web/20260515123242/https://sepehr.bandcamp.com/album/shaytoon
 title: Shaytoon | Sepehr
 language: en
 publisher: Sepehr

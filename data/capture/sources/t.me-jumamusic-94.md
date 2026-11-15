@@ -1,6 +1,6 @@
 ---
 url: https://t.me/jumamusic/94
-archive: "https://web.archive.org/web/20230719074908/https://t.me/jumamusic/94"
+archive: https://web.archive.org/web/20230719074908/https://t.me/jumamusic/94
 title: جوما — 94
 kind: telegram post
 language: fa

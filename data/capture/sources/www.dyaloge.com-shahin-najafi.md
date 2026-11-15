@@ -1,6 +1,6 @@
 ---
 url: https://www.dyaloge.com/shahin-najafi
-archive: "https://web.archive.org/web/20260520042447/https://www.dyaloge.com/shahin-najafi"
+archive: https://web.archive.org/web/20260520042447/https://www.dyaloge.com/shahin-najafi
 title: Shahin Najafi | Dyaloge
 kind: web page
 language: en

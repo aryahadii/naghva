@@ -1,6 +1,6 @@
 ---
 url: https://soundcloud.com/mohsennamjoo/kisti
-archive: "https://web.archive.org/web/20250328130322/https://soundcloud.com/mohsennamjoo/kisti"
+archive: https://web.archive.org/web/20250328130322/https://soundcloud.com/mohsennamjoo/kisti
 title: Kisti? | Mohsen Namjoo
 kind: track page
 language: mul

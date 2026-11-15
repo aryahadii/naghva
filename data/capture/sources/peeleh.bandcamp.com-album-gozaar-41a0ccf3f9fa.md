@@ -1,6 +1,6 @@
 ---
 url: https://peeleh.bandcamp.com/album/gozaar
-archive: "https://web.archive.org/web/20241203191650/https://peeleh.bandcamp.com/album/gozaar"
+archive: https://web.archive.org/web/20241203191650/https://peeleh.bandcamp.com/album/gozaar
 title: GOZAAR, by Bahram
 kind: web page
 language: en

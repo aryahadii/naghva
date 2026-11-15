@@ -1,6 +1,6 @@
 ---
 url: https://soundcloud.com/the-ways-band/parseh-theways
-archive: "https://web.archive.org/web/20220701114003/https://soundcloud.com/the-ways-band/parseh-theways"
+archive: https://web.archive.org/web/20220701114003/https://soundcloud.com/the-ways-band/parseh-theways
 title: Parseh - The Ways
 kind: web page
 language: en

@@ -1,6 +1,6 @@
 ---
 url: https://open.spotify.com/track/3n0qtLOaoKW3s6ESq4zyyd
-archive: "https://web.archive.org/web/20250821133500/https://open.spotify.com/track/3n0qtLOaoKW3s6ESq4zyyd"
+archive: https://web.archive.org/web/20250821133500/https://open.spotify.com/track/3n0qtLOaoKW3s6ESq4zyyd
 title: Triangle — Pallett on Spotify
 language: en
 status: processed

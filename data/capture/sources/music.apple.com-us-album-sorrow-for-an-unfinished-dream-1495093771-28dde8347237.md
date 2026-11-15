@@ -1,6 +1,6 @@
 ---
 url: https://music.apple.com/us/album/sorrow-for-an-unfinished-dream/1495093771
-archive: "https://web.archive.org/web/20250715133404/https://music.apple.com/us/album/sorrow-for-an-unfinished-dream/1495093771"
+archive: https://web.archive.org/web/20250715133404/https://music.apple.com/us/album/sorrow-for-an-unfinished-dream/1495093771
 title: Sorrow for an Unfinished Dream | Apple Music
 kind: web page
 language: en

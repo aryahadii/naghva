@@ -1,6 +1,6 @@
 ---
 url: https://www.arashkband.com/bio.htm
-archive: "https://web.archive.org/web/20260415074256/http://arashkband.com/bio.htm"
+archive: https://web.archive.org/web/20260415074256/http://arashkband.com/bio.htm
 title: Arashk Band | Biography
 status: processed
 tier: own

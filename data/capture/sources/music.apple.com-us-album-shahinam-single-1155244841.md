@@ -1,6 +1,6 @@
 ---
 url: https://music.apple.com/us/album/shahinam-single/1155244841
-archive: "https://web.archive.org/web/20260919105504/https://music.apple.com/us/album/shahinam-single/1155244841"
+archive: https://web.archive.org/web/20260919105504/https://music.apple.com/us/album/shahinam-single/1155244841
 title: Shahinam - Single - Album by Shahin Najafi - Apple Music
 status: processed
 kind: web page

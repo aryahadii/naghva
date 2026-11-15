@@ -1,6 +1,6 @@
 ---
 url: https://www.pouyaehsaei.com/about
-archive: "https://web.archive.org/web/20250806172246/https://www.pouyaehsaei.com/about"
+archive: https://web.archive.org/web/20250806172246/https://www.pouyaehsaei.com/about
 title: About — Pouya Ehsaei
 language: en
 publisher: Pouya Ehsaei

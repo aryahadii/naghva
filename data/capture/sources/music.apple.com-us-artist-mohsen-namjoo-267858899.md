@@ -1,6 +1,6 @@
 ---
 url: https://music.apple.com/us/artist/mohsen-namjoo/267858899
-archive: "https://web.archive.org/web/20260829182427/https://music.apple.com/us/artist/mohsen-namjoo/267858899"
+archive: https://web.archive.org/web/20260829182427/https://music.apple.com/us/artist/mohsen-namjoo/267858899
 title: ‎Mohsen Namjoo - Apple Music
 status: processed
 tier: discography

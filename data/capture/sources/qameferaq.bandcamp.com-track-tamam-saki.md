@@ -1,6 +1,6 @@
 ---
 url: https://qameferaq.bandcamp.com/track/tamam
-archive: "https://web.archive.org/web/20220708014148/https://qameferaq.bandcamp.com/track/tamam"
+archive: https://web.archive.org/web/20220708014148/https://qameferaq.bandcamp.com/track/tamam
 title: Tamam — Arif Mirbaghi & Kaveh Ghaffari
 language: en
 status: processed

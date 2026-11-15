@@ -1,6 +1,6 @@
 ---
 url: https://en.wikipedia.org/wiki/The_Yellow_Dogs
-archive: "https://web.archive.org/web/20261029065052/https://en.wikipedia.org/wiki/The_Yellow_Dogs"
+archive: https://web.archive.org/web/20261029065052/https://en.wikipedia.org/wiki/The_Yellow_Dogs
 title: The Yellow Dogs
 language: en
 publisher: Wikipedia

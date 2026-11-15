@@ -1,6 +1,6 @@
 ---
 url: "https://daily.bandcamp.com/scene-report/iran-electronic-music"
-archive: "https://web.archive.org/web/20250405100904/https://daily.bandcamp.com/scene-report/iran-electronic-music"
+archive: https://web.archive.org/web/20250405100904/https://daily.bandcamp.com/scene-report/iran-electronic-music
 title: "A Guide to Iran’s Electronic Underground: 9T Antiope"
 kind: "web page"
 language: "en"

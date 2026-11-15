@@ -1,6 +1,6 @@
 ---
 url: https://kouroshyaghmaei.bandcamp.com
-archive: "https://web.archive.org/web/20220724070313/https://kouroshyaghmaei.bandcamp.com/"
+archive: https://web.archive.org/web/20220724070313/https://kouroshyaghmaei.bandcamp.com/
 title: Malek Jamshid | Kourosh Yaghmaei
 status: processed
 tier: own

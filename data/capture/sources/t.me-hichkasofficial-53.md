@@ -1,6 +1,6 @@
 ---
 url: https://t.me/hichkasofficial/53
-archive: "https://web.archive.org/web/20250417224240/https://t.me/hichkasofficial/53"
+archive: https://web.archive.org/web/20250417224240/https://t.me/hichkasofficial/53
 title: 'Hichkas Telegram post 53: بزن'
 kind: telegram post
 language: fa

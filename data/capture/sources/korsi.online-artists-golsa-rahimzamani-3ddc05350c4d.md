@@ -1,6 +1,6 @@
 ---
 url: https://korsi.online/artists/golsa-rahimzamani/
-archive: "https://web.archive.org/web/20260718002123/https://korsi.online/artists/golsa-rahimzamani/"
+archive: https://web.archive.org/web/20260718002123/https://korsi.online/artists/golsa-rahimzamani/
 title: Golsa Rahimzamani | Korsi Online
 status: processed
 kind: web page

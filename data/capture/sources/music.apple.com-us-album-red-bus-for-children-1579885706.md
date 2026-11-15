@@ -1,6 +1,6 @@
 ---
 url: https://music.apple.com/us/album/red-bus-for-children/1579885706
-archive: "https://web.archive.org/web/20240502162709/https://music.apple.com/us/album/red-bus-for-children/1579885706"
+archive: https://web.archive.org/web/20240502162709/https://music.apple.com/us/album/red-bus-for-children/1579885706
 title: Red Bus (for children) — Bomrani — Apple Music
 kind: web page
 language: en

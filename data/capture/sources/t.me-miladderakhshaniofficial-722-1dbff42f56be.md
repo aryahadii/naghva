@@ -1,6 +1,6 @@
 ---
 url: https://t.me/miladderakhshaniofficial/722
-archive: "https://web.archive.org/web/20250420034039/https://t.me/miladderakhshaniofficial/722"
+archive: https://web.archive.org/web/20250420034039/https://t.me/miladderakhshaniofficial/722
 title: Milad Derakhshani — post 722
 kind: telegram post
 language: fa

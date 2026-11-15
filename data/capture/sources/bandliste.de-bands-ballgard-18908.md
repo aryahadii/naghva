@@ -1,6 +1,6 @@
 ---
 url: https://bandliste.de/Bands/Ballgard/18908/
-archive: "https://web.archive.org/web/20260208164252/https://bandliste.de/Bands/Ballgard/18908/"
+archive: https://web.archive.org/web/20260208164252/https://bandliste.de/Bands/Ballgard/18908/
 title: Ballgard | Bandliste.de
 kind: web page
 language: en

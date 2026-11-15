@@ -1,6 +1,6 @@
 ---
 url: https://klaengrecords.de/en/cds/golnar-shahyar-tear-drop-cd.html
-archive: "https://web.archive.org/web/20260812023429/https://klaengrecords.de/en/cds/golnar-shahyar-tear-drop-cd.html"
+archive: https://web.archive.org/web/20260812023429/https://klaengrecords.de/en/cds/golnar-shahyar-tear-drop-cd.html
 title: Golnar Shahyar – Tear Drop [CD]
 kind: web page
 language: en

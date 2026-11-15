@@ -1,6 +1,6 @@
 ---
 url: https://music.apple.com/us/album/too-halgham-single/548584239
-archive: "https://web.archive.org/web/20250420105934/https://music.apple.com/us/album/too-halgham-single/548584239"
+archive: https://web.archive.org/web/20250420105934/https://music.apple.com/us/album/too-halgham-single/548584239
 title: Too Halgham - Single - Album by Shahin Najafi - Apple Music
 status: processed
 kind: web page

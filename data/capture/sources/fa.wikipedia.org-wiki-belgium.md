@@ -1,6 +1,6 @@
 ---
 url: https://fa.wikipedia.org/wiki/%D8%A8%D9%84%DA%98%DB%8C%DA%A9
-archive: "https://web.archive.org/web/20261103013754/https://fa.wikipedia.org/wiki/%D8%A8%D9%84%DA%98%DB%8C%DA%A9"
+archive: https://web.archive.org/web/20261103013754/https://fa.wikipedia.org/wiki/%D8%A8%D9%84%DA%98%DB%8C%DA%A9
 title: "بلژیک"
 kind: web page
 language: fa

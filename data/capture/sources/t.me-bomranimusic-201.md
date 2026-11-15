@@ -1,6 +1,6 @@
 ---
 url: https://t.me/bomranimusic/201
-archive: "https://web.archive.org/web/20220522005339/https://t.me/bomranimusic/201"
+archive: https://web.archive.org/web/20220522005339/https://t.me/bomranimusic/201
 title: bomranimusic/201
 kind: web page
 language: fa

@@ -1,6 +1,6 @@
 ---
 url: https://music.apple.com/us/album/fathe-bagh-single/1560759828
-archive: "https://web.archive.org/web/20250526132223/https://music.apple.com/us/album/fathe-bagh-single/1560759828"
+archive: https://web.archive.org/web/20250526132223/https://music.apple.com/us/album/fathe-bagh-single/1560759828
 title: Fathe Bagh - Single - Album by Faarjam - Apple Music
 kind: web page
 language: en

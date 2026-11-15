@@ -1,6 +1,6 @@
 ---
 url: https://t.me/s/javanrecords/1589
-archive: "https://web.archive.org/web/20250402042854/https://t.me/s/javanrecords/1589"
+archive: https://web.archive.org/web/20250402042854/https://t.me/s/javanrecords/1589
 title: 'Javanrecords: آلبوم بالزن'
 status: processed
 kind: telegram post

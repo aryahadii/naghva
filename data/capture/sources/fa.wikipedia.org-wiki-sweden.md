@@ -1,6 +1,6 @@
 ---
 url: https://fa.wikipedia.org/wiki/%D8%B3%D9%88%D8%A6%D8%AF
-archive: "https://web.archive.org/web/20261103014550/https://fa.wikipedia.org/wiki/%D8%B3%D9%88%D8%A6%D8%AF"
+archive: https://web.archive.org/web/20261103014550/https://fa.wikipedia.org/wiki/%D8%B3%D9%88%D8%A6%D8%AF
 title: "سوئد"
 kind: web page
 language: fa

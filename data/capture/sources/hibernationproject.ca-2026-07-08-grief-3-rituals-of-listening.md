@@ -1,6 +1,6 @@
 ---
 url: https://hibernationproject.ca/2026/07/08/grief-3-rituals-of-listening/
-archive: "https://web.archive.org/web/20260902021339/https://hibernationproject.ca/2026/07/08/grief-3-rituals-of-listening/"
+archive: https://web.archive.org/web/20260902021339/https://hibernationproject.ca/2026/07/08/grief-3-rituals-of-listening/
 title: 'GRIEF 3: rituals of listening'
 kind: web page
 language: en

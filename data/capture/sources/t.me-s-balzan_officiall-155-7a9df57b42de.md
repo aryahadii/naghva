@@ -1,6 +1,6 @@
 ---
 url: https://t.me/s/balzan_officiall/155
-archive: "https://web.archive.org/web/20251228055813/https://t.me/s/balzan_officiall/155"
+archive: https://web.archive.org/web/20251228055813/https://t.me/s/balzan_officiall/155
 title: 'Balzan: پرنده آبی: full artist production credits'
 status: processed
 kind: telegram post

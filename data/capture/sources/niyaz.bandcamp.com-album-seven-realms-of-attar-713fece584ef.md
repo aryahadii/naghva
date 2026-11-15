@@ -1,6 +1,6 @@
 ---
 url: https://niyaz.bandcamp.com/album/seven-realms-of-attar
-archive: "https://web.archive.org/web/20260918195430/https://niyaz.bandcamp.com/album/seven-realms-of-attar"
+archive: https://web.archive.org/web/20260918195430/https://niyaz.bandcamp.com/album/seven-realms-of-attar
 title: SEVEN REALMS OF ATTAR | NIYAZ | Niyaz
 kind: web page
 language: en

@@ -1,6 +1,6 @@
 ---
 url: https://open.spotify.com/album/0S9dBovlrK32yOwS4xGaIE
-archive: "https://web.archive.org/web/20251019094927/https://open.spotify.com/album/0S9dBovlrK32yOwS4xGaIE"
+archive: https://web.archive.org/web/20251019094927/https://open.spotify.com/album/0S9dBovlrK32yOwS4xGaIE
 title: Balzan Live (Tehran) - Spotify
 status: processed
 kind: artist catalog

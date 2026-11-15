@@ -1,6 +1,6 @@
 ---
 url: https://music.apple.com/us/album/martyr-single/1698682185
-archive: "https://web.archive.org/web/20261014104115/https://music.apple.com/us/album/martyr-single/1698682185"
+archive: https://web.archive.org/web/20261014104115/https://music.apple.com/us/album/martyr-single/1698682185
 title: Martyr - Single - Album by Sevdaliza - Apple Music
 status: processed
 kind: web page

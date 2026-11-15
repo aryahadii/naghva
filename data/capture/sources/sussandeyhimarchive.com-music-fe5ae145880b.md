@@ -1,6 +1,6 @@
 ---
 url: https://sussandeyhimarchive.com/MUSIC/
-archive: "https://web.archive.org/web/20260809075924/https://sussandeyhimarchive.com/MUSIC/"
+archive: https://web.archive.org/web/20260809075924/https://sussandeyhimarchive.com/MUSIC/
 title: Sussan Deyhim Music
 language: en
 publisher: Sussan Deyhim Archive

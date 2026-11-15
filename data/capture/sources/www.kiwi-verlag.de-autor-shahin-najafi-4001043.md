@@ -1,6 +1,6 @@
 ---
 url: https://www.kiwi-verlag.de/autor/shahin-najafi-4001043
-archive: "https://web.archive.org/web/20260413145330/https://www.kiwi-verlag.de/autor/shahin-najafi-4001043"
+archive: https://web.archive.org/web/20260413145330/https://www.kiwi-verlag.de/autor/shahin-najafi-4001043
 title: 'Shahin Najafi: Kiepenheuer & Witsch'
 kind: web page
 language: de

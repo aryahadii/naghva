@@ -1,6 +1,6 @@
 ---
 url: https://soundcloud.com/bamdadamman/mojeze
-archive: "https://web.archive.org/web/20210702180536/https://soundcloud.com/bamdadamman/mojeze"
+archive: https://web.archive.org/web/20210702180536/https://soundcloud.com/bamdadamman/mojeze
 title: Stream Mojeze (Feat. Yahyaa, Roody, Labeat) [Prod. Shour] by Bamdad | Listen online for free on SoundCloud
 status: processed
 tier: discography

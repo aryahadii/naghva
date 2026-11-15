@@ -1,6 +1,6 @@
 ---
 url: https://t.me/kaabinmusic/60
-archive: "https://web.archive.org/web/20260102002919/https://t.me/kaabinmusic/60"
+archive: https://web.archive.org/web/20260102002919/https://t.me/kaabinmusic/60
 title: Kābin Telegram post 60 | Magnetism announcement
 language: fa
 publisher: Kābin official Telegram channel

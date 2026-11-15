@@ -1,6 +1,6 @@
 ---
 url: https://t.me/dariusazar/176
-archive: "https://web.archive.org/web/20220519051639/https://t.me/dariusazar/176"
+archive: https://web.archive.org/web/20220519051639/https://t.me/dariusazar/176
 title: 'آهسته: artist credits with Kabin authorship'
 kind: telegram post
 language: fa

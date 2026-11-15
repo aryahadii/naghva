@@ -1,6 +1,6 @@
 ---
 url: https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D9%81%D8%B1%D9%87%D9%86%DA%AF-%D9%87%D9%86%D8%B1-32/3347377-%DA%A9%D9%86%D8%B3%D8%B1%D8%AA-%DA%AF%D8%B1%D9%88%D9%87-%DA%86%D8%A7%D8%B1%D8%AA%D8%A7%D8%B1-%D8%AF%D8%B1-%D8%A8%D8%B1%D8%AC-%D9%85%DB%8C%D9%84%D8%A7%D8%AF
-archive: "https://web.archive.org/web/20260319152326/https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D9%81%D8%B1%D9%87%D9%86%DA%AF-%D9%87%D9%86%D8%B1-32/3347377-%DA%A9%D9%86%D8%B3%D8%B1%D8%AA-%DA%AF%D8%B1%D9%88%D9%87-%DA%86%D8%A7%D8%B1%D8%AA%D8%A7%D8%B1-%D8%AF%D8%B1-%D8%A8%D8%B1%D8%AC-%D9%85%DB%8C%D9%84%D8%A7%D8%AF"
+archive: https://web.archive.org/web/20260319152326/https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D9%81%D8%B1%D9%87%D9%86%DA%AF-%D9%87%D9%86%D8%B1-32/3347377-%DA%A9%D9%86%D8%B3%D8%B1%D8%AA-%DA%AF%D8%B1%D9%88%D9%87-%DA%86%D8%A7%D8%B1%D8%AA%D8%A7%D8%B1-%D8%AF%D8%B1-%D8%A8%D8%B1%D8%AC-%D9%85%DB%8C%D9%84%D8%A7%D8%AF
 title: کنسرت گروه چارتار در برج میلاد
 kind: print article
 language: fa

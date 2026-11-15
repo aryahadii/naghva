@@ -1,6 +1,6 @@
 ---
 url: https://music.apple.com/us/artist/sevdaliza/571173217
-archive: "https://web.archive.org/web/20261014104057/https://music.apple.com/us/artist/sevdaliza/571173217"
+archive: https://web.archive.org/web/20261014104057/https://music.apple.com/us/artist/sevdaliza/571173217
 title: Sevdaliza
 language: en
 publisher: Apple Music

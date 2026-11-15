@@ -1,6 +1,6 @@
 ---
 url: https://tirgan2019.tirgan.ca/event/hamed-nikpay-band-i/
-archive: "https://web.archive.org/web/20231108215544/https://tirgan2019.tirgan.ca/event/hamed-nikpay-band-i/"
+archive: https://web.archive.org/web/20231108215544/https://tirgan2019.tirgan.ca/event/hamed-nikpay-band-i/
 title: Hamed Nikpay Band - Tirgan Festival 2019
 kind: web page
 language: mul

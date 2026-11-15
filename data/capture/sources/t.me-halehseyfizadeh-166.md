@@ -1,6 +1,6 @@
 ---
 url: https://t.me/halehseyfizadeh/166
-archive: "https://web.archive.org/web/20250415234330/https://t.me/halehseyfizadeh/166"
+archive: https://web.archive.org/web/20250415234330/https://t.me/halehseyfizadeh/166
 title: 'خانه کو: یادبود پرواز ۷۵۲'
 kind: telegram post
 language: fa

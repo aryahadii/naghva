@@ -1,6 +1,6 @@
 ---
 url: https://www.jadaliyya.com/Details/43434
-archive: "https://web.archive.org/web/20250422164327/https://www.jadaliyya.com/Details/43434"
+archive: https://web.archive.org/web/20250422164327/https://www.jadaliyya.com/Details/43434
 title: https://www.jadaliyya.com/Details/43434
 status: processed
 tier: journalism

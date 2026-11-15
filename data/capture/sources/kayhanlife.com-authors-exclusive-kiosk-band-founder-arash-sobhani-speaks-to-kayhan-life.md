@@ -1,6 +1,6 @@
 ---
 url: https://kayhanlife.com/authors/exclusive-kiosk-band-founder-arash-sobhani-speaks-to-kayhan-life/
-archive: "https://web.archive.org/web/20261008105558/https://kayhanlife.com/authors/exclusive-kiosk-band-founder-arash-sobhani-speaks-to-kayhan-life/"
+archive: https://web.archive.org/web/20261008105558/https://kayhanlife.com/authors/exclusive-kiosk-band-founder-arash-sobhani-speaks-to-kayhan-life/
 title: 'EXCLUSIVE: The Sweet Destiny of Arash Sobhani, The Kiosk Band Leader Speaks to Kayhan Life'
 kind: web page
 language: en

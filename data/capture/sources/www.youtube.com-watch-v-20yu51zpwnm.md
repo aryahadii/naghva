@@ -1,6 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=20Yu51ZPwnM
-archive: "https://web.archive.org/web/20220710172753/https://www.youtube.com/watch?v=20Yu51ZPwnM"
+archive: https://web.archive.org/web/20220710172753/https://www.youtube.com/watch?v=20Yu51ZPwnM
 title: Behzad Danesh - Por Kon - Kooche Afshar version
 status: processed
 kind: web page

@@ -1,6 +1,6 @@
 ---
 url: https://www.mamak-khadem.com/photos
-archive: "https://web.archive.org/web/20260405083257/http://www.mamak-khadem.com/photos"
+archive: https://web.archive.org/web/20260405083257/http://www.mamak-khadem.com/photos
 title: Photos — Mamak Khadem
 status: processed
 tier: own

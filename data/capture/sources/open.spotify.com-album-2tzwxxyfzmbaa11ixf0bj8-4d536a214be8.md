@@ -1,6 +1,6 @@
 ---
 url: https://open.spotify.com/album/2tZWXXyFZmBAA11IXF0bj8
-archive: "https://web.archive.org/web/20230104110005/https://open.spotify.com/album/2tZWXXyFZmBAA11IXF0bj8"
+archive: https://web.archive.org/web/20230104110005/https://open.spotify.com/album/2tZWXXyFZmBAA11IXF0bj8
 title: Shatt-e Sharab
 language: en
 publisher: Spotify

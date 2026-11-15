@@ -1,6 +1,6 @@
 ---
 url: https://en.wikipedia.org/wiki/Sega_Bodega
-archive: "https://web.archive.org/web/20261005183717/https://en.wikipedia.org/wiki/Sega_Bodega"
+archive: https://web.archive.org/web/20261005183717/https://en.wikipedia.org/wiki/Sega_Bodega
 title: Sega Bodega identity
 status: processed
 tier: wikipedia

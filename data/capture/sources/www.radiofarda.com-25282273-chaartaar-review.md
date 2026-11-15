@@ -1,6 +1,6 @@
 ---
 url: https://www.radiofarda.com/a/fk-chaartaar-album-review/25282273.html
-archive: "https://web.archive.org/web/20250808182716/https://www.radiofarda.com/a/fk-chaartaar-album-review/25282273.html"
+archive: https://web.archive.org/web/20250808182716/https://www.radiofarda.com/a/fk-chaartaar-album-review/25282273.html
 title: «چارتار» شما را همزمان عاشق و دلزده می‌کند!
 kind: review
 language: fa

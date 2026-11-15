@@ -1,6 +1,6 @@
 ---
 url: https://qantara.de/en/article/interview-joobin-bekhrad-publisher-reorient-love-letter-tehran
-archive: "https://web.archive.org/web/20251208190044/https://qantara.de/en/article/interview-joobin-bekhrad-publisher-reorient-love-letter-tehran"
+archive: https://web.archive.org/web/20251208190044/https://qantara.de/en/article/interview-joobin-bekhrad-publisher-reorient-love-letter-tehran
 title: Love-letter to Tehran
 kind: web page
 language: en

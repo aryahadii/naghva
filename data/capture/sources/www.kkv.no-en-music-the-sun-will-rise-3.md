@@ -1,6 +1,6 @@
 ---
 url: https://www.kkv.no/en/music/the-sun-will-rise-3
-archive: "https://web.archive.org/web/20260610161522/https://www.kkv.no/en/music/the-sun-will-rise-3"
+archive: https://web.archive.org/web/20260610161522/https://www.kkv.no/en/music/the-sun-will-rise-3
 title: The Sun Will Rise - KKV
 kind: web page
 language: en

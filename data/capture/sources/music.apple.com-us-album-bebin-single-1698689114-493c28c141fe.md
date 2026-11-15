@@ -1,6 +1,6 @@
 ---
 url: https://music.apple.com/us/album/bebin-single/1698689114
-archive: "https://web.archive.org/web/20261014104115/https://music.apple.com/us/album/bebin-single/1698689114"
+archive: https://web.archive.org/web/20261014104115/https://music.apple.com/us/album/bebin-single/1698689114
 title: ‎Bebin - Single - Album by Sevdaliza - Apple Music
 status: processed
 tier: discography

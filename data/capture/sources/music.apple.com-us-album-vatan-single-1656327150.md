@@ -1,6 +1,6 @@
 ---
 url: https://music.apple.com/us/album/vatan-single/1656327150
-archive: "https://web.archive.org/web/20221211135517/https://music.apple.com/us/album/vatan-single/1656327150"
+archive: https://web.archive.org/web/20221211135517/https://music.apple.com/us/album/vatan-single/1656327150
 title: Vatan - Single - Album by Mohsen Namjoo - Apple Music
 status: processed
 kind: web page

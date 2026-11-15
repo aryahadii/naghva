@@ -1,6 +1,6 @@
 ---
 url: https://www.sixdegreesrecords.com/niyaz-sumud/
-archive: "https://web.archive.org/web/20250430081731/https://www.sixdegreesrecords.com/niyaz-sumud/"
+archive: https://web.archive.org/web/20250430081731/https://www.sixdegreesrecords.com/niyaz-sumud/
 title: Niyaz - Sumud — Six Degrees Records
 status: processed
 tier: own

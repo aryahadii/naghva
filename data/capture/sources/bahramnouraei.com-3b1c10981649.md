@@ -1,6 +1,6 @@
 ---
 url: https://bahramnouraei.com/
-archive: "https://web.archive.org/web/20250916163954/https://bahramnouraei.com/"
+archive: https://web.archive.org/web/20250916163954/https://bahramnouraei.com/
 title: Bahram Nouraei
 kind: web page
 language: en

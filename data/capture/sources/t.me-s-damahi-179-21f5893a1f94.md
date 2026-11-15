@@ -1,6 +1,6 @@
 ---
 url: https://t.me/s/damahi/179
-archive: "https://web.archive.org/web/20230726110838/https://t.me/s/damahi/179"
+archive: https://web.archive.org/web/20230726110838/https://t.me/s/damahi/179
 title: Sogand — Salari shorveh and backing vocals
 kind: telegram post
 language: mul

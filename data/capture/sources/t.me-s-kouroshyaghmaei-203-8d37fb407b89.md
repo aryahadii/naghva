@@ -1,6 +1,6 @@
 ---
 url: https://t.me/s/kouroshyaghmaei/203
-archive: "https://web.archive.org/web/20221121124347/https://t.me/s/kouroshyaghmaei/203"
+archive: https://web.archive.org/web/20221121124347/https://t.me/s/kouroshyaghmaei/203
 title: Kourosh Yaghmaei official Telegram post 203
 kind: telegram post
 language: fa

@@ -1,6 +1,6 @@
 ---
 url: https://t.me/dariusazar/204
-archive: "https://web.archive.org/web/20220519051606/https://t.me/dariusazar/204"
+archive: https://web.archive.org/web/20220519051606/https://t.me/dariusazar/204
 title: 'تانگو: artist recording credits'
 kind: telegram post
 language: fa

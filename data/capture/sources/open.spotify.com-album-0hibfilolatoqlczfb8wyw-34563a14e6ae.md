@@ -1,6 +1,6 @@
 ---
 url: https://open.spotify.com/album/0HIBfILOlAtoQLcZFb8WYw
-archive: "https://web.archive.org/web/20251221195530/https://open.spotify.com/album/0HIBfILOlAtoQLcZFb8WYw"
+archive: https://web.archive.org/web/20251221195530/https://open.spotify.com/album/0HIBfILOlAtoQLcZFb8WYw
 title: Shayad Biayee - Spotify
 status: processed
 kind: artist catalog

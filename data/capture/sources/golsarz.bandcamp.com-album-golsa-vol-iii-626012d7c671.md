@@ -1,6 +1,6 @@
 ---
 url: https://golsarz.bandcamp.com/album/golsa-vol-iii
-archive: "https://web.archive.org/web/20230710123427/https://golsarz.bandcamp.com/album/golsa-vol-iii"
+archive: https://web.archive.org/web/20230710123427/https://golsarz.bandcamp.com/album/golsa-vol-iii
 title: Golsa - Vol. III
 status: processed
 kind: web page

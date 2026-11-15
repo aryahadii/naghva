@@ -1,6 +1,6 @@
 ---
 url: https://www.dazeddigital.com/music/article/40412/1/yona-artificial-intelligence-singer-ash-koosha-interview
-archive: "https://web.archive.org/web/20261031033840/https://www.dazeddigital.com/music/article/40412/1/yona-artificial-intelligence-singer-ash-koosha-interview"
+archive: https://web.archive.org/web/20261031033840/https://www.dazeddigital.com/music/article/40412/1/yona-artificial-intelligence-singer-ash-koosha-interview
 title: Speaking to Yona, the AI singer-songwriter making haunting love songs | Dazed
 kind: web page
 language: en

@@ -1,6 +1,6 @@
 ---
 url: https://music.apple.com/us/album/axis-of-solitude-live/1309360879
-archive: "https://web.archive.org/web/20250706170521/https://music.apple.com/us/album/axis-of-solitude-live/1309360879"
+archive: https://web.archive.org/web/20250706170521/https://music.apple.com/us/album/axis-of-solitude-live/1309360879
 title: Axis of Solitude (Live) - Album by Mohsen Namjoo - Apple Music
 status: processed
 kind: web page

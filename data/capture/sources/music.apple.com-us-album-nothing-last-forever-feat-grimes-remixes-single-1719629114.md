@@ -1,6 +1,6 @@
 ---
 url: https://music.apple.com/us/album/nothing-last-forever-feat-grimes-remixes-single/1719629114
-archive: "https://web.archive.org/web/20261027044429/https://music.apple.com/us/album/nothing-last-forever-feat-grimes-remixes-single/1719629114"
+archive: https://web.archive.org/web/20261027044429/https://music.apple.com/us/album/nothing-last-forever-feat-grimes-remixes-single/1719629114
 title: Nothing Last Forever (feat. Grimes) [Remixes] - Single - Album by Sevdaliza - Apple Music
 status: processed
 kind: web page

@@ -1,6 +1,6 @@
 ---
 url: https://en.wikipedia.org/wiki/Sweden
-archive: "https://web.archive.org/web/20261111165742/https://en.wikipedia.org/wiki/Sweden"
+archive: https://web.archive.org/web/20261111165742/https://en.wikipedia.org/wiki/Sweden
 title: "Sweden"
 kind: web page
 language: en

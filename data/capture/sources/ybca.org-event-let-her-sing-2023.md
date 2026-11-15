@@ -1,6 +1,6 @@
 ---
 url: https://ybca.org/event/let-her-sing-2023/
-archive: "https://web.archive.org/web/20260722112401/https://ybca.org/event/let-her-sing-2023/"
+archive: https://web.archive.org/web/20260722112401/https://ybca.org/event/let-her-sing-2023/
 title: 'Let Her Sing 2023: A Celebration of Female Voices - YBCA'
 status: processed
 kind: web page

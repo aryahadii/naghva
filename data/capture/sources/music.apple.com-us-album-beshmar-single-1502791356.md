@@ -1,6 +1,6 @@
 ---
 url: https://music.apple.com/us/album/beshmar-single/1502791356
-archive: "https://web.archive.org/web/20260202055214/https://music.apple.com/us/album/beshmar-single/1502791356"
+archive: https://web.archive.org/web/20260202055214/https://music.apple.com/us/album/beshmar-single/1502791356
 title: Beshmar - Single - Album by Shahin Najafi - Apple Music
 status: processed
 kind: web page

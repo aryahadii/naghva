@@ -1,6 +1,6 @@
 ---
 url: https://iranwire.com/fa/blogs/23804/
-archive: "https://web.archive.org/web/20220505201317/https://iranwire.com/fa/blogs/23804"
+archive: https://web.archive.org/web/20220505201317/https://iranwire.com/fa/blogs/23804
 title: فرم‌های فهم و فهم ما از فرم‌‌‌ها
 kind: web page
 language: fa

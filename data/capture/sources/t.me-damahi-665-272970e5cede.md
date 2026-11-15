@@ -1,6 +1,6 @@
 ---
 url: https://t.me/damahi/665
-archive: "https://web.archive.org/web/20230726195133/https://t.me/damahi/665"
+archive: https://web.archive.org/web/20230726195133/https://t.me/damahi/665
 title: 'برکت: artist credits'
 status: processed
 kind: telegram post

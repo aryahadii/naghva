@@ -1,6 +1,6 @@
 ---
 url: https://music.apple.com/us/album/shaaban-single/777531580
-archive: "https://web.archive.org/web/20250129021816/https://music.apple.com/us/album/shaaban-single/777531580"
+archive: https://web.archive.org/web/20250129021816/https://music.apple.com/us/album/shaaban-single/777531580
 title: Sha'aban - Single - Album by Shahin Najafi - Apple Music
 kind: web page
 language: en

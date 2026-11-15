@@ -1,6 +1,6 @@
 ---
 url: https://www.bbc.co.uk/news/world-middle-east-18057402
-archive: "https://web.archive.org/web/20250619185442/https://www.bbc.co.uk/news/world-middle-east-18057402"
+archive: https://web.archive.org/web/20250619185442/https://www.bbc.co.uk/news/world-middle-east-18057402
 title: Iranian rapper faces death threats for 'insulting' song
 language: en
 author: Bozorgmehr Sharafedin

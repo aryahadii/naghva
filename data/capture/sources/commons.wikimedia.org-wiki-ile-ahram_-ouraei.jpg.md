@@ -1,6 +1,6 @@
 ---
 url: https://commons.wikimedia.org/wiki/File:Bahram_Nouraei.jpg
-archive: "https://web.archive.org/web/20241203103937/https://commons.wikimedia.org/wiki/File:Bahram_Nouraei.jpg"
+archive: https://web.archive.org/web/20241203103937/https://commons.wikimedia.org/wiki/File:Bahram_Nouraei.jpg
 title: File:Bahram Nouraei.jpg - Wikimedia Commons
 status: processed
 tier: own

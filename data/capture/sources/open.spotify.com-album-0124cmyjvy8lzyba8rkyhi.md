@@ -1,6 +1,6 @@
 ---
 url: https://open.spotify.com/album/0124CMYjVY8lzYBA8RKYHi
-archive: "https://web.archive.org/web/20250901012716/https://open.spotify.com/album/0124CMYjVY8lzYBA8RKYHi"
+archive: https://web.archive.org/web/20250901012716/https://open.spotify.com/album/0124CMYjVY8lzYBA8RKYHi
 title: Listen to Parandeye Abi - Single by Balzan | Spotify
 status: processed
 kind: music platform

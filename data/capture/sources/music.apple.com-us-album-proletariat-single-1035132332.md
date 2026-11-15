@@ -1,6 +1,6 @@
 ---
 url: https://music.apple.com/us/album/proletariat-single/1035132332
-archive: "https://web.archive.org/web/20250702203815/https://music.apple.com/us/album/proletariat-single/1035132332"
+archive: https://web.archive.org/web/20250702203815/https://music.apple.com/us/album/proletariat-single/1035132332
 title: Proletariat - Single - Album by Shahin Najafi - Apple Music
 status: processed
 kind: web page

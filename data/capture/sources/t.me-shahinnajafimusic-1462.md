@@ -1,6 +1,6 @@
 ---
 url: https://t.me/shahinnajafimusic/1462
-archive: "https://web.archive.org/web/20230708005357/https://t.me/shahinnajafimusic/1462"
+archive: https://web.archive.org/web/20230708005357/https://t.me/shahinnajafimusic/1462
 title: 'Wafa: original poet'
 kind: telegram post
 language: mul

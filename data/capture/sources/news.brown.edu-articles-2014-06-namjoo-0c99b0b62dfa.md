@@ -1,6 +1,6 @@
 ---
 url: https://news.brown.edu/articles/2014/06/namjoo
-archive: "https://web.archive.org/web/20250908095640/https://news.brown.edu/articles/2014/06/namjoo"
+archive: https://web.archive.org/web/20250908095640/https://news.brown.edu/articles/2014/06/namjoo
 title: An exiled Iranian musician goes avant-garde
 language: en
 author: Noah Elbot

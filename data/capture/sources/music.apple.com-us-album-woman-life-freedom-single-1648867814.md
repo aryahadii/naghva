@@ -1,6 +1,6 @@
 ---
 url: https://music.apple.com/us/album/woman-life-freedom-single/1648867814
-archive: "https://web.archive.org/web/20251204024217/https://music.apple.com/us/album/woman-life-freedom-single/1648867814"
+archive: https://web.archive.org/web/20251204024217/https://music.apple.com/us/album/woman-life-freedom-single/1648867814
 title: Woman Life Freedom - Single - Album by Sevdaliza - Apple Music
 status: processed
 kind: web page

@@ -1,6 +1,6 @@
 ---
 url: https://www.niyazmusic.com/discography
-archive: "https://web.archive.org/web/20260711204737/https://www.niyazmusic.com/discography"
+archive: https://web.archive.org/web/20260711204737/https://www.niyazmusic.com/discography
 title: DISCOGRAPHY | Niyaz
 status: processed
 tier: own

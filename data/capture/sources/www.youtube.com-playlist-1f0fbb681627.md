@@ -1,6 +1,6 @@
 ---
 url: https://www.youtube.com/playlist?list=PLkNo3PJ76WquNw8VFDAekUep_PwTwlwW_
-archive: "https://web.archive.org/web/20241204080911/https://www.youtube.com/playlist?list=PLkNo3PJ76WquNw8VFDAekUep_PwTwlwW_"
+archive: https://web.archive.org/web/20241204080911/https://www.youtube.com/playlist?list=PLkNo3PJ76WquNw8VFDAekUep_PwTwlwW_
 title: BAHRAM • KHODHA
 kind: web page
 language: en

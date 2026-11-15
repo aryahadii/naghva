@@ -1,6 +1,6 @@
 ---
 url: https://t.me/halehseyfizadeh/194
-archive: "https://web.archive.org/web/20240906021320/https://t.me/halehseyfizadeh/194"
+archive: https://web.archive.org/web/20240906021320/https://t.me/halehseyfizadeh/194
 title: 'میخواهمت: معرفی هاله سیفی زاده'
 kind: telegram post
 language: fa

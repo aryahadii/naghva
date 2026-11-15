@@ -1,6 +1,6 @@
 ---
 url: https://www.musicaustria.at/hoffnung-das-ist-ein-schoenes-wort-mahan-mirarab-im-mica-interview/
-archive: "https://web.archive.org/web/20250214112812/https://www.musicaustria.at/hoffnung-das-ist-ein-schoenes-wort-mahan-mirarab-im-mica-interview/"
+archive: https://web.archive.org/web/20250214112812/https://www.musicaustria.at/hoffnung-das-ist-ein-schoenes-wort-mahan-mirarab-im-mica-interview/
 title: Hoffnung, das ist ein schönes Wort - Mahan Mirarab im mica-Interview
 kind: web page
 language: de

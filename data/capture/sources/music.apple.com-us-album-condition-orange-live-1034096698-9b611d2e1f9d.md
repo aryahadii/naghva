@@ -1,6 +1,6 @@
 ---
 url: https://music.apple.com/us/album/condition-orange-live/1034096698
-archive: "https://web.archive.org/web/20260808193032/https://music.apple.com/us/album/condition-orange-live/1034096698"
+archive: https://web.archive.org/web/20260808193032/https://music.apple.com/us/album/condition-orange-live/1034096698
 title: Condition Orange (Live) - Album by Kiosk - Apple Music
 language: en
 publisher: Apple Music

@@ -1,6 +1,6 @@
 ---
 url: https://beehy.pe/king-raam-day-will-come-iran/
-archive: "https://web.archive.org/web/20260307233858/https://beehy.pe/king-raam-day-will-come-iran/"
+archive: https://web.archive.org/web/20260307233858/https://beehy.pe/king-raam-day-will-come-iran/
 title: 'Iran: King Raam - "Day Will Come"'
 language: en
 publisher: beehype

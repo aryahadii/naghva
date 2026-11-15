@@ -1,6 +1,6 @@
 ---
 url: https://www.sixdegreesrecords.com/mahsa-vahdat/
-archive: "https://web.archive.org/web/20260511172047/https://www.sixdegreesrecords.com/mahsa-vahdat/"
+archive: https://web.archive.org/web/20260511172047/https://www.sixdegreesrecords.com/mahsa-vahdat/
 title: Mahsa Vahdat
 language: en
 publisher: Six Degrees Records

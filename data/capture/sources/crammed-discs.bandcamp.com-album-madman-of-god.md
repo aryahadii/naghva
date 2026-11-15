@@ -1,6 +1,6 @@
 ---
 url: https://crammed-discs.bandcamp.com/album/madman-of-god
-archive: "https://web.archive.org/web/20240228165637/https://crammed-discs.bandcamp.com/album/madman-of-god"
+archive: https://web.archive.org/web/20240228165637/https://crammed-discs.bandcamp.com/album/madman-of-god
 title: Madman Of God | Sussan Deyhim | Crammed Discs
 status: processed
 tier: own

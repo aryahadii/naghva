@@ -1,6 +1,6 @@
 ---
 url: https://www.farhadmehrad.org/
-archive: "https://web.archive.org/web/20260810200331/https://www.farhadmehrad.org/"
+archive: https://web.archive.org/web/20260810200331/https://www.farhadmehrad.org/
 title: Farhad Mehrad official website
 kind: web page
 language: en

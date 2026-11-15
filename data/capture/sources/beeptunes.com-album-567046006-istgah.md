@@ -1,6 +1,6 @@
 ---
 url: https://beeptunes.com/album/567046006/%D8%A7%DB%8C%D8%B3%D8%AA%DA%AF%D8%A7%D9%87
-archive: "https://web.archive.org/web/20251208135633/https://beeptunes.com/album/567046006/%D8%A7%DB%8C%D8%B3%D8%AA%DA%AF%D8%A7%D9%87"
+archive: https://web.archive.org/web/20251208135633/https://beeptunes.com/album/567046006/%D8%A7%DB%8C%D8%B3%D8%AA%DA%AF%D8%A7%D9%87
 title: ایستگاه — بیپ‌تونز
 status: processed
 language: fa

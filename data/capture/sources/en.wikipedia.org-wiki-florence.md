@@ -1,6 +1,6 @@
 ---
 url: https://en.wikipedia.org/wiki/Florence
-archive: "https://web.archive.org/web/20261102233453/https://en.wikipedia.org/wiki/Florence"
+archive: https://web.archive.org/web/20261102233453/https://en.wikipedia.org/wiki/Florence
 title: "Florence"
 kind: web page
 language: en

@@ -1,6 +1,6 @@
 ---
 url: https://t.me/hichkasofficial/20
-archive: "https://web.archive.org/web/20220827232030/https://t.me/hichkasofficial/20"
+archive: https://web.archive.org/web/20220827232030/https://t.me/hichkasofficial/20
 title: 'Hichkas Telegram post 20: دستاشو مشت کرده'
 kind: telegram post
 language: fa

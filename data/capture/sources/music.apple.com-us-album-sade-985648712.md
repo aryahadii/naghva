@@ -1,6 +1,6 @@
 ---
 url: https://music.apple.com/us/album/sade/985648712
-archive: "https://web.archive.org/web/20260311234238/https://music.apple.com/us/album/sade/985648712"
+archive: https://web.archive.org/web/20260311234238/https://music.apple.com/us/album/sade/985648712
 title: Sade - Album by Shahin Najafi - Apple Music
 status: processed
 kind: web page

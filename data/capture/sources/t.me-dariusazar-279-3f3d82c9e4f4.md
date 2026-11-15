@@ -1,6 +1,6 @@
 ---
 url: https://t.me/dariusazar/279
-archive: "https://web.archive.org/web/20251230153802/https://t.me/dariusazar/279"
+archive: https://web.archive.org/web/20251230153802/https://t.me/dariusazar/279
 title: 'گل نار: artist credits with mix/master conflict'
 kind: telegram post
 language: fa

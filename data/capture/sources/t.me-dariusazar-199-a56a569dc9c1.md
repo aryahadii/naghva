@@ -1,6 +1,6 @@
 ---
 url: https://t.me/dariusazar/199
-archive: "https://web.archive.org/web/20220519051651/https://t.me/dariusazar/199"
+archive: https://web.archive.org/web/20220519051651/https://t.me/dariusazar/199
 title: 'وا کن گره: artist recording credits'
 kind: telegram post
 language: fa

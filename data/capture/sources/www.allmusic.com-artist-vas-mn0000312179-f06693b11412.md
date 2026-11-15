@@ -1,6 +1,6 @@
 ---
 url: https://www.allmusic.com/artist/vas-mn0000312179
-archive: "https://web.archive.org/web/20260422075018/https://www.allmusic.com/artist/vas-mn0000312179"
+archive: https://web.archive.org/web/20260422075018/https://www.allmusic.com/artist/vas-mn0000312179
 title: Vas — Biography, Discography, Albums & Expert Reviews | AllMusic
 kind: web page
 language: en

@@ -1,6 +1,6 @@
 ---
 url: https://chaoscontrol.com/loga-ramin-torkian-niyaz-interview/
-archive: "https://web.archive.org/web/20250601122610/https://chaoscontrol.com/loga-ramin-torkian-niyaz-interview/"
+archive: https://web.archive.org/web/20250601122610/https://chaoscontrol.com/loga-ramin-torkian-niyaz-interview/
 title: Loga Ramin Torkian of NIYAZ interviewed about The Fourth Light Project multimedia experience
 publisher: Chaos Control
 author: Bob Gourley

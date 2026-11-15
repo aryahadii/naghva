@@ -1,6 +1,6 @@
 ---
 url: https://music.apple.com/us/album/gole-yakh-feat-kourosh-yaghmaei-single/1843351275
-archive: "https://web.archive.org/web/20251114195404/https://music.apple.com/us/album/gole-yakh-feat-kourosh-yaghmaei-single/1843351275"
+archive: https://web.archive.org/web/20251114195404/https://music.apple.com/us/album/gole-yakh-feat-kourosh-yaghmaei-single/1843351275
 title: Gole Yakh (feat. Kourosh Yaghmaei) - Single - Album by Dochar - Apple Music
 status: processed
 kind: web page

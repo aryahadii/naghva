@@ -1,6 +1,6 @@
 ---
 url: https://avayehonar.com/en/artists/bomrani-band/
-archive: "https://web.archive.org/web/20250420073732/https://avayehonar.com/en/artists/bomrani-band/"
+archive: https://web.archive.org/web/20250420073732/https://avayehonar.com/en/artists/bomrani-band/
 title: Bomrani band
 language: en
 publisher: Avaye Honar

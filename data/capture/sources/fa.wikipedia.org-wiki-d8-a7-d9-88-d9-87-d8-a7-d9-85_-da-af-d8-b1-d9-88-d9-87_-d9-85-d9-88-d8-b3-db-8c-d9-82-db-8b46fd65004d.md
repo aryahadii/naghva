@@ -1,6 +1,6 @@
 ---
 url: https://fa.wikipedia.org/wiki/%D8%A7%D9%88%D9%87%D8%A7%D9%85_(%DA%AF%D8%B1%D9%88%D9%87_%D9%85%D9%88%D8%B3%DB%8C%D9%82%DB%8C)
-archive: "https://web.archive.org/web/20251210115132/https://fa.wikipedia.org/wiki/%D8%A7%D9%88%D9%87%D8%A7%D9%85_(%DA%AF%D8%B1%D9%88%D9%87_%D9%85%D9%88%D8%B3%DB%8C%D9%82%DB%8C)"
+archive: https://web.archive.org/web/20251210115132/https://fa.wikipedia.org/wiki/%D8%A7%D9%88%D9%87%D8%A7%D9%85_(%DA%AF%D8%B1%D9%88%D9%87_%D9%85%D9%88%D8%B3%DB%8C%D9%82%DB%8C)
 title: اوهام (گروه موسیقی)
 language: fa
 publisher: Wikipedia (fa)

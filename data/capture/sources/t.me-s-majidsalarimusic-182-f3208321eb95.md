@@ -1,6 +1,6 @@
 ---
 url: https://t.me/s/majidsalarimusic/182
-archive: "https://web.archive.org/web/20250718035027/https://t.me/s/majidsalarimusic/182"
+archive: https://web.archive.org/web/20250718035027/https://t.me/s/majidsalarimusic/182
 title: غزل خون — credits
 kind: telegram post
 language: mul

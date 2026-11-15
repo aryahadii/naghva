@@ -1,6 +1,6 @@
 ---
 url: https://open.spotify.com/album/0EOhmLjnLlQFYIm9t1BkDT
-archive: "https://web.archive.org/web/20210316155502/https://open.spotify.com/album/0EOhmLjnLlQFYIm9t1BkDT"
+archive: https://web.archive.org/web/20210316155502/https://open.spotify.com/album/0EOhmLjnLlQFYIm9t1BkDT
 title: Listen to Out of Faze - Album by Sussan Deyhim | Spotify
 kind: music catalog item
 language: en

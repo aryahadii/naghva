@@ -1,6 +1,6 @@
 ---
 url: https://www.radiozamaneh.com/114514/
-archive: "https://web.archive.org/web/20260710084240/https://www.radiozamaneh.com/114514/"
+archive: https://web.archive.org/web/20260710084240/https://www.radiozamaneh.com/114514/
 title: 'تارا تیبا: «در موسیقی هویت ایرانی‌ام را حفظ می‌کنم»'
 language: fa
 tier: journalism

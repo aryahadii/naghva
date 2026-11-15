@@ -1,6 +1,6 @@
 ---
 url: https://music.apple.com/us/album/common-vent/1010886856
-archive: "https://web.archive.org/web/20250925090601/https://music.apple.com/us/album/common-vent/1010886856"
+archive: https://web.archive.org/web/20250925090601/https://music.apple.com/us/album/common-vent/1010886856
 title: Common Vent - Album by Bomrani - Apple Music
 language: en
 publisher: Apple Music

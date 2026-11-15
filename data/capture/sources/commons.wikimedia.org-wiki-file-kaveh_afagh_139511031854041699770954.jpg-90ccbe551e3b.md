@@ -1,6 +1,6 @@
 ---
 url: https://commons.wikimedia.org/wiki/File:Kaveh_Afagh_139511031854041699770954.jpg
-archive: "https://web.archive.org/web/20221120094114/https://commons.wikimedia.org/wiki/File:Kaveh_Afagh_139511031854041699770954.jpg"
+archive: https://web.archive.org/web/20221120094114/https://commons.wikimedia.org/wiki/File:Kaveh_Afagh_139511031854041699770954.jpg
 title: File:Kaveh_Afagh_139511031854041699770954.jpg
 kind: web page
 language: mul

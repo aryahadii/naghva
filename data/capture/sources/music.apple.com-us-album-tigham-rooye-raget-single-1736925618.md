@@ -1,6 +1,6 @@
 ---
 url: https://music.apple.com/us/album/tigham-rooye-raget-single/1736925618
-archive: "https://web.archive.org/web/20250702204003/https://music.apple.com/us/album/tigham-rooye-raget-single/1736925618"
+archive: https://web.archive.org/web/20250702204003/https://music.apple.com/us/album/tigham-rooye-raget-single/1736925618
 title: Tigham Rooye Raget - Single by Hichkas on Apple Music
 kind: web page
 language: en

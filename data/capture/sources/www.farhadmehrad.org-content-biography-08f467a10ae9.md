@@ -1,6 +1,6 @@
 ---
 url: https://www.farhadmehrad.org/content/biography
-archive: "https://web.archive.org/web/20251015232021/https://www.farhadmehrad.org/content/biography"
+archive: https://web.archive.org/web/20251015232021/https://www.farhadmehrad.org/content/biography
 title: بیو گرافی - فرهاد مهراد
 language: fa
 publisher: Farhad Mehrad official website

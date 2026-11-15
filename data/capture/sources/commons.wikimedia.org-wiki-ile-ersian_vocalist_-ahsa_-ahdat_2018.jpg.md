@@ -1,6 +1,6 @@
 ---
 url: https://commons.wikimedia.org/wiki/File:Persian_vocalist_Mahsa_Vahdat_2018.jpg
-archive: "https://web.archive.org/web/20250222000625/https://commons.wikimedia.org/wiki/File:Persian_vocalist_Mahsa_Vahdat_2018.jpg"
+archive: https://web.archive.org/web/20250222000625/https://commons.wikimedia.org/wiki/File:Persian_vocalist_Mahsa_Vahdat_2018.jpg
 title: File:Persian vocalist Mahsa Vahdat 2018.jpg - Wikimedia Commons
 status: processed
 tier: own

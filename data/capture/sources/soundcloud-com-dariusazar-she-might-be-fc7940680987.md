@@ -1,6 +1,6 @@
 ---
 url: https://soundcloud.com/dariusazar/she-might-be
-archive: "https://web.archive.org/web/20250919081925/https://soundcloud.com/dariusazar/she-might-be"
+archive: https://web.archive.org/web/20250919081925/https://soundcloud.com/dariusazar/she-might-be
 title: Stream She Might Be ( شاید او ) by Dariush Azar | Listen online for free on SoundCloud
 kind: web page
 language: en

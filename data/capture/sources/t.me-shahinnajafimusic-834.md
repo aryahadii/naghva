@@ -1,6 +1,6 @@
 ---
 url: https://t.me/shahinnajafimusic/834
-archive: "https://web.archive.org/web/20230708180534/https://t.me/shahinnajafimusic/834"
+archive: https://web.archive.org/web/20230708180534/https://t.me/shahinnajafimusic/834
 title: 'Radikal: album credits and playlist'
 kind: telegram post
 language: mul

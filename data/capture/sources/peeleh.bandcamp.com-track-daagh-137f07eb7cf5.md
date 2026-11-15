@@ -1,6 +1,6 @@
 ---
 url: https://peeleh.bandcamp.com/track/daagh
-archive: "https://web.archive.org/web/20231227043952/https://peeleh.bandcamp.com/track/daagh"
+archive: https://web.archive.org/web/20231227043952/https://peeleh.bandcamp.com/track/daagh
 title: DAAGH | Bahram | Peeleh
 status: processed
 kind: web page

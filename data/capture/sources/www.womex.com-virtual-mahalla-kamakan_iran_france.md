@@ -1,6 +1,6 @@
 ---
 url: https://www.womex.com/virtual/mahalla/kamakan_iran_france
-archive: "https://web.archive.org/web/20260316061030/https://www.womex.com/virtual/mahalla/kamakan_iran_france"
+archive: https://web.archive.org/web/20260316061030/https://www.womex.com/virtual/mahalla/kamakan_iran_france
 title: ' Kamakan (Iran/France) - WOMEX '
 status: processed
 tier: own

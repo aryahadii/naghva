@@ -1,6 +1,6 @@
 ---
 url: https://music.apple.com/us/album/lal-single/1605503553
-archive: "https://web.archive.org/web/20260227134417/https://music.apple.com/us/album/lal-single/1605503553"
+archive: https://web.archive.org/web/20260227134417/https://music.apple.com/us/album/lal-single/1605503553
 title: Lal - Single - Album by Yas - Apple Music
 status: processed
 kind: web page

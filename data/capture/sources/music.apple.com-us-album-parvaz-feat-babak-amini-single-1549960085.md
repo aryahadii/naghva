@@ -1,6 +1,6 @@
 ---
 url: https://music.apple.com/us/album/parvaz-feat-babak-amini-single/1549960085
-archive: "https://web.archive.org/web/20251220022404/https://music.apple.com/us/album/parvaz-feat-babak-amini-single/1549960085"
+archive: https://web.archive.org/web/20251220022404/https://music.apple.com/us/album/parvaz-feat-babak-amini-single/1549960085
 title: Parvaz (feat. Babak Amini) - Single - Album by Shahin Najafi - Apple Music
 status: processed
 kind: web page

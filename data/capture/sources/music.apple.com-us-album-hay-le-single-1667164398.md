@@ -1,6 +1,6 @@
 ---
 url: https://music.apple.com/us/album/hay-le-single/1667164398
-archive: "https://web.archive.org/web/20260929181723/https://music.apple.com/us/album/hay-le-single/1667164398"
+archive: https://web.archive.org/web/20260929181723/https://music.apple.com/us/album/hay-le-single/1667164398
 title: Hay Le - Single - Album by Mohsen Namjoo - Apple Music
 status: processed
 kind: web page

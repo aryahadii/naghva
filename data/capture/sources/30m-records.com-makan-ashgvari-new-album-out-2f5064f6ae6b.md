@@ -1,6 +1,6 @@
 ---
 url: https://30m-records.com/makan-ashgvari-new-album-out/
-archive: "https://web.archive.org/web/20260722132025/https://30m-records.com/makan-ashgvari-new-album-out/"
+archive: https://web.archive.org/web/20260722132025/https://30m-records.com/makan-ashgvari-new-album-out/
 title: Makan Ashgvari – New album out!
 language: en
 publisher: 30M Records

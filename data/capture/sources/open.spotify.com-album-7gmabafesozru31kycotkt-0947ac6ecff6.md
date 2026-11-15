@@ -1,6 +1,6 @@
 ---
 url: https://open.spotify.com/album/7GMaBaFesoZru31kYCOtKt
-archive: "https://web.archive.org/web/20251209032342/https://open.spotify.com/album/7GMaBaFesoZru31kYCOtKt"
+archive: https://web.archive.org/web/20251209032342/https://open.spotify.com/album/7GMaBaFesoZru31kYCOtKt
 title: Listen to Of Love and Other Evils - Album by Ali Azimi | Spotify
 language: mul
 publisher: Spotify

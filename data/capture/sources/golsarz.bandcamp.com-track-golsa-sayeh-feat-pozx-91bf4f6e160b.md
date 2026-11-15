@@ -1,6 +1,6 @@
 ---
 url: https://golsarz.bandcamp.com/track/golsa-sayeh-feat-pozx
-archive: "https://web.archive.org/web/20230428214151/https://golsarz.bandcamp.com/track/golsa-sayeh-feat-pozx"
+archive: https://web.archive.org/web/20230428214151/https://golsarz.bandcamp.com/track/golsa-sayeh-feat-pozx
 title: Golsa - Sayeh (feat. Pozx)
 status: processed
 kind: web page

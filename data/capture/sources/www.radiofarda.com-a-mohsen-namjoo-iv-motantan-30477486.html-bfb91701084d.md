@@ -1,6 +1,6 @@
 ---
 url: https://www.radiofarda.com/a/mohsen-namjoo-iv-motantan/30477486.html
-archive: "https://web.archive.org/web/20260515083801/https://www.radiofarda.com/a/mohsen-namjoo-iv-motantan/30477486.html"
+archive: https://web.archive.org/web/20260515083801/https://www.radiofarda.com/a/mohsen-namjoo-iv-motantan/30477486.html
 title: از اعجاب «مُطَنطن»؛ گفت‌وگو با محسن نامجو
 language: fa
 publisher: Radio Farda

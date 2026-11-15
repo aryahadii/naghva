@@ -1,6 +1,6 @@
 ---
 url: https://www.metal-archives.com/albums/Kahtmayan/Live_in_Studio%3A_The_Last_Station/154004
-archive: "https://web.archive.org/web/20241024072353/https://www.metal-archives.com/albums/Kahtmayan/Live_in_Studio%3A_The_Last_Station/154004"
+archive: https://web.archive.org/web/20241024072353/https://www.metal-archives.com/albums/Kahtmayan/Live_in_Studio%3A_The_Last_Station/154004
 title: 'Kahtmayan - Live in Studio: The Last Station'
 kind: web page
 language: en

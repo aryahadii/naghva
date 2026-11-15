@@ -1,6 +1,6 @@
 ---
 url: https://t.me/s/balzan_officiall/86
-archive: "https://web.archive.org/web/20251228010856/https://t.me/s/balzan_officiall/86"
+archive: https://web.archive.org/web/20251228010856/https://t.me/s/balzan_officiall/86
 title: 'Balzan: شاید: live lineup and technical credits'
 status: processed
 kind: telegram post

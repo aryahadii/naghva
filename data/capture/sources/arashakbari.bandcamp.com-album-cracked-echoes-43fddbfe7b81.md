@@ -1,6 +1,6 @@
 ---
 url: https://arashakbari.bandcamp.com/album/cracked-echoes
-archive: "https://web.archive.org/web/20200831071412/https://arashakbari.bandcamp.com/album/cracked-echoes"
+archive: https://web.archive.org/web/20200831071412/https://arashakbari.bandcamp.com/album/cracked-echoes
 title: Cracked Echoes | Arash Akbari
 language: en
 status: processed

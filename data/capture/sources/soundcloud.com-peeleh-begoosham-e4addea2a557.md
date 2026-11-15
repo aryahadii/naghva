@@ -1,6 +1,6 @@
 ---
 url: https://soundcloud.com/peeleh/begoosham
-archive: "https://web.archive.org/web/20260826083343/https://soundcloud.com/peeleh/begoosham"
+archive: https://web.archive.org/web/20260826083343/https://soundcloud.com/peeleh/begoosham
 title: Begoosham [Prod. Peymandegar]
 kind: web page
 language: en

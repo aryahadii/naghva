@@ -1,6 +1,6 @@
 ---
 url: https://t.me/hichkasofficial/59
-archive: "https://web.archive.org/web/20250417202328/https://t.me/hichkasofficial/59"
+archive: https://web.archive.org/web/20250417202328/https://t.me/hichkasofficial/59
 title: 'Hichkas Telegram audio post 59: Ma Edame Darim'
 kind: telegram post
 language: fa

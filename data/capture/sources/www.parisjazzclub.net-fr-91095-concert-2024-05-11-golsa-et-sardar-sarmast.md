@@ -1,6 +1,6 @@
 ---
 url: https://www.parisjazzclub.net/fr/91095/concert/2024/05/11/golsa-et-sardar-sarmast
-archive: "https://web.archive.org/web/20240815151204/https://www.parisjazzclub.net/fr/91095/concert/2024/05/11/golsa-et-sardar-sarmast"
+archive: https://web.archive.org/web/20240815151204/https://www.parisjazzclub.net/fr/91095/concert/2024/05/11/golsa-et-sardar-sarmast
 title: Golsa & Sardar Sarmast | Paris Jazz Club
 status: processed
 kind: web page

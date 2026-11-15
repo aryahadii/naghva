@@ -1,6 +1,6 @@
 ---
 url: https://en.wikipedia.org/wiki/127_(band)
-archive: "https://web.archive.org/web/20251210075007/https://en.wikipedia.org/wiki/127_(band)"
+archive: https://web.archive.org/web/20251210075007/https://en.wikipedia.org/wiki/127_(band)
 title: 127 (band)
 language: en
 publisher: Wikipedia

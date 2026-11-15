@@ -1,6 +1,6 @@
 ---
 url: https://richardhorowitz.bandcamp.com/album/the-invisible-road-original-recordings-1985-1990
-archive: "https://web.archive.org/web/20260315201233/https://richardhorowitz.bandcamp.com/album/the-invisible-road-original-recordings-1985-1990"
+archive: https://web.archive.org/web/20260315201233/https://richardhorowitz.bandcamp.com/album/the-invisible-road-original-recordings-1985-1990
 title: 'The Invisible Road: Original Recordings, 1985–1990'
 kind: music catalog item
 language: en

@@ -1,6 +1,6 @@
 ---
 url: https://music.apple.com/us/album/par-shekasteh-single/1615404946
-archive: "https://web.archive.org/web/20260905160334/https://music.apple.com/us/album/par-shekasteh-single/1615404946"
+archive: https://web.archive.org/web/20260905160334/https://music.apple.com/us/album/par-shekasteh-single/1615404946
 title: Par Shekasteh - Single - Album by Mohsen Namjoo - Apple Music
 status: processed
 kind: web page

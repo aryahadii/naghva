@@ -1,6 +1,6 @@
 ---
 url: https://en.wikipedia.org/wiki/Turkey
-archive: "https://web.archive.org/web/20261113073218/https://en.wikipedia.org/wiki/Turkey"
+archive: https://web.archive.org/web/20261113073218/https://en.wikipedia.org/wiki/Turkey
 title: "Turkey"
 kind: web page
 language: en

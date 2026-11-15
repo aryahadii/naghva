@@ -1,6 +1,6 @@
 ---
 url: https://nbe.nl/shop/bach-sufi/
-archive: "https://web.archive.org/web/20260510202803/https://nbe.nl/shop/bach-sufi/"
+archive: https://web.archive.org/web/20260510202803/https://nbe.nl/shop/bach-sufi/
 title: Bach & Sufi — Nederlands Blazers Ensemble
 kind: web page
 language: nl

@@ -1,6 +1,6 @@
 ---
 url: https://zamaaneh.com/music/2006/09/post_22.html
-archive: "https://web.archive.org/web/20230930190448/https://zamaaneh.com/music/2006/09/post_22.html"
+archive: https://web.archive.org/web/20230930190448/https://zamaaneh.com/music/2006/09/post_22.html
 title: رادیو زمانه | منهای یک، صدایی از زیر زمین
 status: processed
 tier: journalism

@@ -1,6 +1,6 @@
 ---
 url: https://music.apple.com/us/album/masikh-single/1464644589
-archive: "https://web.archive.org/web/20251114003809/https://music.apple.com/us/album/masikh-single/1464644589"
+archive: https://web.archive.org/web/20251114003809/https://music.apple.com/us/album/masikh-single/1464644589
 title: Masikh - Single - Album by Shahin Najafi - Apple Music
 status: processed
 kind: web page

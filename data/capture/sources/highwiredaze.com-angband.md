@@ -1,6 +1,6 @@
 ---
 url: https://highwiredaze.com/2020/07/23/angbandint1/
-archive: "https://web.archive.org/web/20260313014255/https://highwiredaze.com/2020/07/23/angbandint1/"
+archive: https://web.archive.org/web/20260313014255/https://highwiredaze.com/2020/07/23/angbandint1/
 title: 'Meet Angband: A Power Prog Metal Trio from Iran'
 kind: web page
 language: en

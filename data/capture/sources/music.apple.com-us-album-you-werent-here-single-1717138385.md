@@ -1,6 +1,6 @@
 ---
 url: https://music.apple.com/us/album/you-werent-here-single/1717138385
-archive: "https://web.archive.org/web/20251114195404/https://music.apple.com/us/album/you-werent-here-single/1717138385"
+archive: https://web.archive.org/web/20251114195404/https://music.apple.com/us/album/you-werent-here-single/1717138385
 title: You Weren’t Here - Single - Album by Kourosh Yaghmaei - Apple Music
 status: processed
 kind: web page

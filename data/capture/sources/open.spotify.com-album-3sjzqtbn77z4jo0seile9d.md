@@ -1,6 +1,6 @@
 ---
 url: https://open.spotify.com/album/3sjZqtBN77Z4Jo0seile9d
-archive: "https://web.archive.org/web/20250822124733/https://open.spotify.com/album/3sjZqtBN77Z4Jo0seile9d"
+archive: https://web.archive.org/web/20250822124733/https://open.spotify.com/album/3sjZqtBN77Z4Jo0seile9d
 title: Listen to Jabr - Album by Mohsen Namjoo | Spotify
 status: processed
 kind: web page

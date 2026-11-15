@@ -1,6 +1,6 @@
 ---
 url: https://karlrecords.bandcamp.com/album/scattered-memories
-archive: "https://web.archive.org/web/20260227100747/https://karlrecords.bandcamp.com/album/scattered-memories"
+archive: https://web.archive.org/web/20260227100747/https://karlrecords.bandcamp.com/album/scattered-memories
 title: Scattered Memories | SABA ALIZADEH | Karlrecords
 kind: web page
 language: en

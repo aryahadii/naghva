@@ -1,6 +1,6 @@
 ---
 url: https://t.me/s/damahi/177
-archive: "https://web.archive.org/web/20230726190858/https://t.me/s/damahi/177"
+archive: https://web.archive.org/web/20230726190858/https://t.me/s/damahi/177
 title: Sogand — exact first-album context
 kind: telegram post
 language: mul

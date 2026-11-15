@@ -1,6 +1,6 @@
 ---
 url: https://music.apple.com/us/album/faramoush-feat-arman-garshasbi-single/1532116461
-archive: "https://web.archive.org/web/20261012120409/https://music.apple.com/us/album/faramoush-feat-arman-garshasbi-single/1532116461"
+archive: https://web.archive.org/web/20261012120409/https://music.apple.com/us/album/faramoush-feat-arman-garshasbi-single/1532116461
 title: Faramoush (feat. Arman Garshasbi) - Single - Album by Kābin - Apple Music
 language: en
 publisher: Apple Music

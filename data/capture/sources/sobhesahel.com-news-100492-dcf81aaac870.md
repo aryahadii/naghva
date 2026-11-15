@@ -1,6 +1,6 @@
 ---
 url: https://sobhesahel.com/news/100492
-archive: "https://web.archive.org/web/20231217213232/https://www.sobhesahel.com/news/100492"
+archive: https://web.archive.org/web/20231217213232/https://www.sobhesahel.com/news/100492
 title: طنین نوای مجدک در خانه
 kind: web page
 language: mul

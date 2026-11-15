@@ -1,6 +1,6 @@
 ---
 url: https://t.me/jumamusic/101
-archive: "https://web.archive.org/web/20250420155603/https://t.me/jumamusic/101"
+archive: https://web.archive.org/web/20250420155603/https://t.me/jumamusic/101
 title: جوما — 101
 kind: telegram post
 language: fa

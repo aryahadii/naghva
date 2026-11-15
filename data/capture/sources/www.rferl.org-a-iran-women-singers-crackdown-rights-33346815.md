@@ -1,6 +1,6 @@
 ---
 url: https://www.rferl.org/a/iran-women-singers-crackdown-rights/33346815.html
-archive: "https://web.archive.org/web/20260921111744/https://www.rferl.org/a/iran-women-singers-crackdown-rights/33346815.html"
+archive: https://web.archive.org/web/20260921111744/https://www.rferl.org/a/iran-women-singers-crackdown-rights/33346815.html
 title: Iran Steps Up Crackdown On Female Singers
 status: processed
 kind: web page

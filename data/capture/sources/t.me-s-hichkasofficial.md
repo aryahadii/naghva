@@ -1,6 +1,6 @@
 ---
 url: https://t.me/s/hichkasofficial
-archive: "https://web.archive.org/web/20260507072031/https://t.me/s/hichkasofficial"
+archive: https://web.archive.org/web/20260507072031/https://t.me/s/hichkasofficial
 title: Hichkas Official Telegram channel
 kind: telegram channel
 language: mul

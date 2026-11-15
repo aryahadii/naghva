@@ -1,6 +1,6 @@
 ---
 url: https://music.apple.com/us/album/zalem-single/1841661976
-archive: "https://web.archive.org/web/20251227225053/https://music.apple.com/us/album/zalem-single/1841661976"
+archive: https://web.archive.org/web/20251227225053/https://music.apple.com/us/album/zalem-single/1841661976
 title: Zalem - Single - Album by Tara Salahi - Apple Music
 language: en
 publisher: Apple Music

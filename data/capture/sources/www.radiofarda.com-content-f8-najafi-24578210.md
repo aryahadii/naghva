@@ -1,6 +1,6 @@
 ---
 url: https://www.radiofarda.com/content/f8_najafi_explains_his_controversial_song/24578210.html
-archive: "https://web.archive.org/web/20160304060039/http://www.radiofarda.com/content/f8_najafi_explains_his_controversial_song/24578210.html"
+archive: https://web.archive.org/web/20160304060039/http://www.radiofarda.com/content/f8_najafi_explains_his_controversial_song/24578210.html
 title: 'شاهین نجفی: فقط انسان‌ ضعیف توهین می‌کند'
 kind: web page
 language: fa

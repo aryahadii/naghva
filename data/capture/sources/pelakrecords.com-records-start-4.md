@@ -1,6 +1,6 @@
 ---
 url: https://pelakrecords.com/records?start=4
-archive: "https://web.archive.org/web/20260809045101/https://pelakrecords.com/records?start=4"
+archive: https://web.archive.org/web/20260809045101/https://pelakrecords.com/records?start=4
 title: Pelak Records | Records, page 2
 kind: web page
 language: fa

@@ -1,6 +1,6 @@
 ---
 url: https://t.me/shahinnajafimusic/1449
-archive: "https://web.archive.org/web/20220505201442/https://t.me/shahinnajafimusic/1449"
+archive: https://web.archive.org/web/20220505201442/https://t.me/shahinnajafimusic/1449
 title: 'Meta Phrygian: release and full credits'
 kind: telegram post
 language: mul

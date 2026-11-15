@@ -1,6 +1,6 @@
 ---
 url: https://www.youtube.com/playlist?list=OLAK5uy_koE-ijhX0AB1jiuJ1dUlVlFJaWF1D-xfE
-archive: "https://web.archive.org/web/20260107030435/https://www.youtube.com/playlist?list=OLAK5uy_koE-ijhX0AB1jiuJ1dUlVlFJaWF1D-xfE"
+archive: https://web.archive.org/web/20260107030435/https://www.youtube.com/playlist?list=OLAK5uy_koE-ijhX0AB1jiuJ1dUlVlFJaWF1D-xfE
 title: 'The Covers Collection III: Studio Sketches - YouTube'
 kind: web page
 language: en

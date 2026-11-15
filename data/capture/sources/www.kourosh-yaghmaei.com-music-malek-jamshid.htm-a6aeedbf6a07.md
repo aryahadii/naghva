@@ -1,6 +1,6 @@
 ---
 url: http://www.kourosh-yaghmaei.com/music/Malek-Jamshid.htm
-archive: "https://web.archive.org/web/20260215233502/http://www.kourosh-yaghmaei.com/music/Malek-Jamshid.htm"
+archive: https://web.archive.org/web/20260215233502/http://www.kourosh-yaghmaei.com/music/Malek-Jamshid.htm
 title: Kourosh Yaghmaei - Malek Jamshid
 language: fa
 publisher: Kourosh Yaghmaei

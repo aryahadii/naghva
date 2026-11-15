@@ -1,6 +1,6 @@
 ---
 url: https://www.radiozamaneh.com/771923/
-archive: "https://web.archive.org/web/20260212041408/https://www.radiozamaneh.com/771923/"
+archive: https://web.archive.org/web/20260212041408/https://www.radiozamaneh.com/771923/
 title: «کهربای آرزو» علی عظیمی بر اساس شعر هوشنگ ابتهاج
 kind: web page
 language: fa

@@ -1,6 +1,6 @@
 ---
 url: https://en.wikipedia.org/wiki/United_States
-archive: "https://web.archive.org/web/20261113071450/https://en.wikipedia.org/wiki/United_States"
+archive: https://web.archive.org/web/20261113071450/https://en.wikipedia.org/wiki/United_States
 title: "United States"
 kind: web page
 language: en

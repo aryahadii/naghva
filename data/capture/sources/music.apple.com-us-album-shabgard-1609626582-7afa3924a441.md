@@ -1,6 +1,6 @@
 ---
 url: https://music.apple.com/us/album/shabgard/1609626582
-archive: "https://web.archive.org/web/20240522201539/https://music.apple.com/us/album/shabgard/1609626582"
+archive: https://web.archive.org/web/20240522201539/https://music.apple.com/us/album/shabgard/1609626582
 title: Shabgard | Apple Music
 language: en
 publisher: Apple Music

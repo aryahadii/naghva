@@ -1,6 +1,6 @@
 ---
 url: https://soundcloud.com/bahramnouraei/nameyee-be-rayees-jomhoor
-archive: "https://web.archive.org/web/20250129020731/https://soundcloud.com/bahramnouraei/nameyee-be-rayees-jomhoor"
+archive: https://web.archive.org/web/20250129020731/https://soundcloud.com/bahramnouraei/nameyee-be-rayees-jomhoor
 title: NAMEYEE BE RAYEES JOMHOOR
 kind: web page
 language: en

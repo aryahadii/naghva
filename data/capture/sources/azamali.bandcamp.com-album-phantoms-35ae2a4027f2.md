@@ -1,6 +1,6 @@
 ---
 url: https://azamali.bandcamp.com/album/phantoms
-archive: "https://web.archive.org/web/20260827075337/https://azamali.bandcamp.com/album/phantoms"
+archive: https://web.archive.org/web/20260827075337/https://azamali.bandcamp.com/album/phantoms
 title: PHANTOMS | Azam Ali
 kind: web page
 language: en

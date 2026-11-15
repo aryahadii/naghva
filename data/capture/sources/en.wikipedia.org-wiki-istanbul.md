@@ -1,6 +1,6 @@
 ---
 url: https://en.wikipedia.org/wiki/Istanbul
-archive: "https://web.archive.org/web/20261113055446/https://en.wikipedia.org/wiki/Istanbul"
+archive: https://web.archive.org/web/20261113055446/https://en.wikipedia.org/wiki/Istanbul
 title: "Istanbul"
 kind: web page
 language: en

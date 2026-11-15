@@ -1,6 +1,6 @@
 ---
 url: https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D9%88%DA%A9%D8%B3%D9%84
-archive: "https://web.archive.org/web/20261103014302/https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D9%88%DA%A9%D8%B3%D9%84"
+archive: https://web.archive.org/web/20261103014302/https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D9%88%DA%A9%D8%B3%D9%84
 title: "بروکسل"
 kind: web page
 language: fa

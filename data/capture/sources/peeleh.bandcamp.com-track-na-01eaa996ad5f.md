@@ -1,6 +1,6 @@
 ---
 url: https://peeleh.bandcamp.com/track/na
-archive: "https://web.archive.org/web/20260826083340/https://peeleh.bandcamp.com/track/na"
+archive: https://web.archive.org/web/20260826083340/https://peeleh.bandcamp.com/track/na
 title: NA, by Ghogha X Bahram X Elham
 kind: web page
 language: en

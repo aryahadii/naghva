@@ -1,6 +1,6 @@
 ---
 url: https://www.nylon.com/entertainment/sevdaliza-shabrang-interview
-archive: "https://web.archive.org/web/20260607234947/https://www.nylon.com/entertainment/sevdaliza-shabrang-interview"
+archive: https://web.archive.org/web/20260607234947/https://www.nylon.com/entertainment/sevdaliza-shabrang-interview
 title: Avant-Pop Artist Sevdaliza Descends Into The Subconscious With 'Shabrang'
 status: processed
 kind: web page

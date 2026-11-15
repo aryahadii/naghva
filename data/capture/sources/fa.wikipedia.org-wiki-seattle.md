@@ -1,6 +1,6 @@
 ---
 url: https://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D8%A7%D8%AA%D9%84
-archive: "https://web.archive.org/web/20251230072854/https://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D8%A7%D8%AA%D9%84"
+archive: https://web.archive.org/web/20251230072854/https://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D8%A7%D8%AA%D9%84
 title: "سیاتل"
 kind: web page
 language: fa

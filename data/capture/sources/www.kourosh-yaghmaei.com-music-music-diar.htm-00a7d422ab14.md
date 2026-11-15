@@ -1,6 +1,6 @@
 ---
 url: http://www.kourosh-yaghmaei.com/music/music-diar.htm
-archive: "https://web.archive.org/web/20260517085458/http://www.kourosh-yaghmaei.com/music/music-diar.htm"
+archive: https://web.archive.org/web/20260517085458/http://www.kourosh-yaghmaei.com/music/music-diar.htm
 title: Diar
 language: fa
 publisher: Kourosh Yaghmaei official website

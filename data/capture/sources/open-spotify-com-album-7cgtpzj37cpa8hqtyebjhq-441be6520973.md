@@ -1,6 +1,6 @@
 ---
 url: https://open.spotify.com/album/7CgTPZj37cPa8HQtYeBjhQ
-archive: "https://web.archive.org/web/20250828140001/https://open.spotify.com/album/7CgTPZj37cPa8HQtYeBjhQ"
+archive: https://web.archive.org/web/20250828140001/https://open.spotify.com/album/7CgTPZj37cPa8HQtYeBjhQ
 title: Immortal Identity
 language: en
 publisher: Spotify

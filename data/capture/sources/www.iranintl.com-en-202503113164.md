@@ -1,6 +1,6 @@
 ---
 url: https://www.iranintl.com/en/202503113164
-archive: "https://web.archive.org/web/20260212192129/https://www.iranintl.com/en/202503113164"
+archive: https://web.archive.org/web/20260212192129/https://www.iranintl.com/en/202503113164
 title: Iran steps up crackdown on female singers
 status: processed
 kind: web page

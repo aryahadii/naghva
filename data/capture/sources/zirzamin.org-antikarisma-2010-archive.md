@@ -1,6 +1,6 @@
 ---
 url: https://web.archive.org/web/20120303102228/http://www.zirzamin.org/?q=node%2F871
-archive: "https://web.archive.org/web/20210308182101/https://web.archive.org/web/20120303102228/http://www.zirzamin.org/?q=node%2F871"
+archive: https://web.archive.org/web/20120303102228/http://www.zirzamin.org/?q=node%2F871
 title: Antikarisma - The Embryo of a New Band
 kind: web page
 language: en

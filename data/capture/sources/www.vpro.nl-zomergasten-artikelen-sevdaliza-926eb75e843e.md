@@ -1,6 +1,6 @@
 ---
 url: https://www.vpro.nl/zomergasten/artikelen/sevdaliza
-archive: "https://web.archive.org/web/20251105035611/https://www.vpro.nl/zomergasten/artikelen/sevdaliza"
+archive: https://web.archive.org/web/20251105035611/https://www.vpro.nl/zomergasten/artikelen/sevdaliza
 title: Sevdaliza
 language: nl
 status: processed

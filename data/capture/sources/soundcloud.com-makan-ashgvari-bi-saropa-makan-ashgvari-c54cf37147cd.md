@@ -1,6 +1,6 @@
 ---
 url: https://soundcloud.com/makan-ashgvari/bi-saropa-makan-ashgvari
-archive: "https://web.archive.org/web/20250809080317/https://soundcloud.com/makan-ashgvari/bi-saropa-makan-ashgvari"
+archive: https://web.archive.org/web/20250809080317/https://soundcloud.com/makan-ashgvari/bi-saropa-makan-ashgvari
 title: Bi Saropa  بی سرو پا
 language: mul
 publisher: SoundCloud

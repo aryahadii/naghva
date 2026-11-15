@@ -1,6 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=z3w-3-H2_Ug
-archive: "https://web.archive.org/web/20260816181551/https://www.youtube.com/watch?is=BMs6SKe2HNjHLdq7&v=z3w-3-H2_Ug&feature=youtu.be"
+archive: https://web.archive.org/web/20260816181551/https://www.youtube.com/watch?is=BMs6SKe2HNjHLdq7&v=z3w-3-H2_Ug&feature=youtu.be
 title: Taghat Biar - Kaveh Yaghmaei
 kind: youtube video
 language: en

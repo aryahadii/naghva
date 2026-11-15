@@ -1,6 +1,6 @@
 ---
 url: https://t.me/hamzeyeganeh/165
-archive: "https://web.archive.org/web/20260125114253/https://t.me/hamzeyeganeh/165"
+archive: https://web.archive.org/web/20260125114253/https://t.me/hamzeyeganeh/165
 title: Hand In Hand studio credits | Hamzeh Yeganeh
 kind: web page
 language: fa

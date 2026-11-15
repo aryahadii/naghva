@@ -1,6 +1,6 @@
 ---
 url: https://archive.rockpaperscissors.biz/index.cfm/fuseaction/current.articles_detail/project_id/554/article_id/16148.cfm
-archive: "https://web.archive.org/web/20210607135142/http://archive.rockpaperscissors.biz/index.cfm/fuseaction/current.articles_detail/project_id/554/article_id/16148.cfm"
+archive: https://web.archive.org/web/20210607135142/http://archive.rockpaperscissors.biz/index.cfm/fuseaction/current.articles_detail/project_id/554/article_id/16148.cfm
 title: Rock Paper Scissors - Azam Ali, From Night to the Edge of Day (Six Degrees Records)   - Interview
 kind: web page
 language: en

@@ -1,6 +1,6 @@
 ---
 url: https://www.amsterdam-dance-event.nl/en/artists-speakers/mucky/63209/
-archive: "https://web.archive.org/web/20260812064136/https://www.amsterdam-dance-event.nl/en/artists-speakers/mucky/63209/"
+archive: https://web.archive.org/web/20260812064136/https://www.amsterdam-dance-event.nl/en/artists-speakers/mucky/63209/
 title: Mucky — ADE
 status: processed
 tier: own

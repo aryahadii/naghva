@@ -1,6 +1,6 @@
 ---
 url: https://music.apple.com/us/album/blue-gray/1585101066
-archive: "https://web.archive.org/web/20250513202424/https://music.apple.com/us/album/blue-gray/1585101066"
+archive: https://web.archive.org/web/20250513202424/https://music.apple.com/us/album/blue-gray/1585101066
 title: Blue Gray
 language: en
 publisher: Apple Music

@@ -1,6 +1,6 @@
 ---
 url: https://music.apple.com/us/album/the-anger-of-a-tear-radio-edit-live-in-the-roqe-studio-single/1652058070
-archive: "https://web.archive.org/web/20260726213540/https://music.apple.com/us/album/the-anger-of-a-tear-radio-edit-live-in-the-roqe-studio-single/1652058070"
+archive: https://web.archive.org/web/20260726213540/https://music.apple.com/us/album/the-anger-of-a-tear-radio-edit-live-in-the-roqe-studio-single/1652058070
 title: The Anger of a Tear (Radio Edit, Live in the Roqe Studio) - Single — Apple Music
 kind: web page
 language: en

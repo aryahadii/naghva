@@ -1,6 +1,6 @@
 ---
 url: https://inneroceanrecords.bandcamp.com/album/porya-hatami-land
-archive: "https://web.archive.org/web/20230714194752/https://inneroceanrecords.bandcamp.com/album/porya-hatami-land"
+archive: https://web.archive.org/web/20230714194752/https://inneroceanrecords.bandcamp.com/album/porya-hatami-land
 title: Porya Hatami - Land
 language: en
 publisher: Inner Ocean Records

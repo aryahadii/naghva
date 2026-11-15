@@ -1,6 +1,6 @@
 ---
 url: https://soundcloud.com/kiosktheband
-archive: "https://web.archive.org/web/20250403020555/https://soundcloud.com/kiosktheband"
+archive: https://web.archive.org/web/20250403020555/https://soundcloud.com/kiosktheband
 title: Stream KIOSK music | Listen to songs, albums, playlists for free on SoundCloud
 language: en
 publisher: SoundCloud

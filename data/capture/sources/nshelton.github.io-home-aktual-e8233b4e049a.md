@@ -1,6 +1,6 @@
 ---
 url: https://nshelton.github.io/home/aktual/
-archive: "https://web.archive.org/web/20260516025635/https://nshelton.github.io/home/aktual/"
+archive: https://web.archive.org/web/20260516025635/https://nshelton.github.io/home/aktual/
 title: AKTUAL
 kind: web page
 language: en

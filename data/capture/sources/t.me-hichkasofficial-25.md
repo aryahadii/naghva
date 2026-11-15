@@ -1,6 +1,6 @@
 ---
 url: https://t.me/hichkasofficial/25
-archive: "https://web.archive.org/web/20230309034713/https://t.me/hichkasofficial/25"
+archive: https://web.archive.org/web/20230309034713/https://t.me/hichkasofficial/25
 title: 'Hichkas Telegram post 25: رسوا'
 kind: telegram post
 language: fa

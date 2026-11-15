@@ -1,6 +1,6 @@
 ---
 url: https://www.huesca-filmfestival.com/descargas/FICH2021-catalogo-oficial-WEB.pdf
-archive: "https://web.archive.org/web/20240617155805/https://www.huesca-filmfestival.com/descargas/FICH2021-catalogo-oficial-WEB.pdf"
+archive: https://web.archive.org/web/20240617155805/https://www.huesca-filmfestival.com/descargas/FICH2021-catalogo-oficial-WEB.pdf
 title: 49 Festival Internacional de Cine de Huesca | Catálogo oficial 2021
 status: processed
 kind: book

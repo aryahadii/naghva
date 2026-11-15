@@ -1,6 +1,6 @@
 ---
 url: https://t.me/hichkasofficial/61
-archive: "https://web.archive.org/web/20250417114749/https://t.me/hichkasofficial/61"
+archive: https://web.archive.org/web/20250417114749/https://t.me/hichkasofficial/61
 title: 'Hichkas Telegram audio post 61: Tigham Rooye Raget'
 kind: telegram post
 language: fa

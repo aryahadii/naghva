@@ -1,6 +1,6 @@
 ---
 url: https://pitchfork.com/reviews/albums/23231-ison
-archive: "https://web.archive.org/web/20260731233440/https://pitchfork.com/reviews/albums/23231-ison/"
+archive: https://web.archive.org/web/20260731233440/https://pitchfork.com/reviews/albums/23231-ison/
 title: 'Sevdaliza: ISON Album Review | Pitchfork'
 status: processed
 tier: journalism

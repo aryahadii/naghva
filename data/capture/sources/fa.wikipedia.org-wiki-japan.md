@@ -1,6 +1,6 @@
 ---
 url: https://fa.wikipedia.org/wiki/%DA%98%D8%A7%D9%BE%D9%86
-archive: "https://web.archive.org/web/20261105172329/https://fa.wikipedia.org/wiki/%DA%98%D8%A7%D9%BE%D9%86"
+archive: https://web.archive.org/web/20261105172329/https://fa.wikipedia.org/wiki/%DA%98%D8%A7%D9%BE%D9%86
 title: "ژاپن"
 kind: web page
 language: fa

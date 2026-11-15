@@ -1,6 +1,6 @@
 ---
 url: https://soundcloud.com/hichkasofficial/haryerooz
-archive: "https://web.archive.org/web/20250702204215/https://soundcloud.com/hichkasofficial/haryerooz"
+archive: https://web.archive.org/web/20250702204215/https://soundcloud.com/hichkasofficial/haryerooz
 title: Har Ye Rooz on SoundCloud
 kind: web page
 language: mul

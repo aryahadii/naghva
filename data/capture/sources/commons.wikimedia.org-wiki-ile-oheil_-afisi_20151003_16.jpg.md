@@ -1,6 +1,6 @@
 ---
 url: https://commons.wikimedia.org/wiki/File:Soheil_Nafisi_20151003_16.jpg
-archive: "https://web.archive.org/web/20250124064246/https://commons.wikimedia.org/wiki/File%3ASoheil_Nafisi_20151003_16.jpg"
+archive: https://web.archive.org/web/20250124064246/https://commons.wikimedia.org/wiki/File%3ASoheil_Nafisi_20151003_16.jpg
 title: File:Soheil Nafisi 20151003 16.jpg - Wikimedia Commons
 status: processed
 tier: own

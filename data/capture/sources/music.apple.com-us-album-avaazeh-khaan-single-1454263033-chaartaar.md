@@ -1,6 +1,6 @@
 ---
 url: https://music.apple.com/us/album/avaazeh-khaan-single/1454263033
-archive: "https://web.archive.org/web/20240617064440/https://music.apple.com/us/album/avaazeh-khaan-single/1454263033"
+archive: https://web.archive.org/web/20240617064440/https://music.apple.com/us/album/avaazeh-khaan-single/1454263033
 title: Avaazeh Khaan - Single by Chaartaar on Apple Music
 kind: web page
 language: en

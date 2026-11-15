@@ -1,6 +1,6 @@
 ---
 url: https://open.spotify.com/album/3LkC0gAGrNlb4k1SFYOj4J
-archive: "https://web.archive.org/web/20190919042126/https://open.spotify.com/album/3LkC0gAGrNlb4k1SFYOj4J"
+archive: https://web.archive.org/web/20190919042126/https://open.spotify.com/album/3LkC0gAGrNlb4k1SFYOj4J
 title: Pop Emergency English - Single by 127 - Spotify
 language: en
 publisher: Spotify

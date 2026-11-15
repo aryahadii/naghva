@@ -1,6 +1,6 @@
 ---
 url: https://www.logaramintorkian.com/bio
-archive: "https://web.archive.org/web/20260615083627/https://www.logaramintorkian.com/bio"
+archive: https://web.archive.org/web/20260615083627/https://www.logaramintorkian.com/bio
 title: BIO | Loga Ramin Torkian | Biography
 status: processed
 tier: own

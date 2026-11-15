@@ -1,6 +1,6 @@
 ---
 url: https://music.apple.com/us/artist/ali-azimi/736586610
-archive: "https://web.archive.org/web/20261011070617/https://music.apple.com/us/artist/ali-azimi/736586610"
+archive: https://web.archive.org/web/20261011070617/https://music.apple.com/us/artist/ali-azimi/736586610
 title: Ali Azimi on Apple Music
 status: processed
 kind: web page

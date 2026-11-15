@@ -1,6 +1,6 @@
 ---
 url: https://en.wikipedia.org/wiki/Arnhem
-archive: "https://web.archive.org/web/20261112133629/https://en.wikipedia.org/wiki/Arnhem"
+archive: https://web.archive.org/web/20261112133629/https://en.wikipedia.org/wiki/Arnhem
 title: "Arnhem"
 kind: web page
 language: en

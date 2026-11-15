@@ -1,6 +1,6 @@
 ---
 url: https://music.apple.com/us/album/fou-single/1140477242
-archive: "https://web.archive.org/web/20260919105459/https://music.apple.com/us/album/fou-single/1140477242"
+archive: https://web.archive.org/web/20260919105459/https://music.apple.com/us/album/fou-single/1140477242
 title: Fou - Single - Album by Shahin Najafi - Apple Music
 status: processed
 kind: web page

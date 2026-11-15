@@ -1,6 +1,6 @@
 ---
 url: https://www.seesawmag.com.au/2026/03/music-harmony-breaks-the-silence
-archive: "https://web.archive.org/web/20260419120720/https://www.seesawmag.com.au/2026/03/music-harmony-breaks-the-silence"
+archive: https://web.archive.org/web/20260419120720/https://www.seesawmag.com.au/2026/03/music-harmony-breaks-the-silence
 title: "Music harmony breaks the silence"
 kind: web page
 language: en
