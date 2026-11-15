@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/begoosham-feat-peymandegar-single/17256349
 title: Begoosham (feat. Peymandegar) - Single by Bamdad & Bahram on Apple Music
 kind: web page
 language: en
-tier: other
+tier: discography
 publisher: Apple Music
 about:
 - Begoosham

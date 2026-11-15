@@ -3,7 +3,7 @@ url: https://open.spotify.com/track/7z8ZjPztl6FEcun2ymWn8e
 title: Daryadaad | Spotify
 kind: web page
 language: en
-tier: other
+tier: discography
 publisher: Spotify
 status: processed
 ---

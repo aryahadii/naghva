@@ -3,7 +3,7 @@ url: https://soundcloud.com/peeleh/begoosham
 title: Begoosham [Prod. Peymandegar]
 kind: web page
 language: en
-tier: other
+tier: discography
 publisher: SoundCloud
 about:
 - Begoosham

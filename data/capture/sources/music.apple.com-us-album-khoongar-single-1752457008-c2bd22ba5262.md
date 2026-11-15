@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/khoongar-single/1752457008
 title: Khoongar - Apple Music
 kind: web page
 language: en
-tier: other
+tier: discography
 about:
 - Moody Moussavi
 - Khoongar

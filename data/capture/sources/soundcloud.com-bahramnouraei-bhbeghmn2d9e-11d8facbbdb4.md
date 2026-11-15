@@ -3,7 +3,7 @@ url: https://soundcloud.com/bahramnouraei/bhbeghmn2d9e
 title: Beshno (feat. Peymandegar)
 kind: web page
 language: en
-tier: other
+tier: discography
 publisher: SoundCloud
 about:
 - Beshno

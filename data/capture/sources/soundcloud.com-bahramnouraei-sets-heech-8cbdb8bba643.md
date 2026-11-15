@@ -3,7 +3,7 @@ url: https://soundcloud.com/bahramnouraei/sets/heech
 title: HEECH
 kind: web page
 language: en
-tier: other
+tier: discography
 publisher: SoundCloud
 about:
 - Heech

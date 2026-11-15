@@ -4,7 +4,7 @@ title: Zolf-e Do Zanjir - Live - Spotify
 status: processed
 kind: web page
 language: en
-tier: other
+tier: discography
 about:
 - Monicki
 - Zolf-e Do Zanjir - Live

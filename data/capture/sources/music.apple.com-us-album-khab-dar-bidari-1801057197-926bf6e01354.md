@@ -4,7 +4,7 @@ title: Khab Dar Bidari - Album by Farhad Mehrad - Apple Music
 language: en
 publisher: Apple Music
 status: processed
-tier: other
+tier: discography
 ---
 
 > Khab Dar Bidari - Album by Farhad Mehrad - Apple Music

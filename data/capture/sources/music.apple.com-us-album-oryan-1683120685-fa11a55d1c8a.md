@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/oryan/1683120685
 title: Oryan - Moody Moussavi - Apple Music
 kind: web page
 language: en
-tier: other
+tier: discography
 about:
 - Moody Moussavi
 - Oryan

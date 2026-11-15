@@ -4,7 +4,7 @@ title: Listen to Out of Faze - Album by Sussan Deyhim | Spotify
 kind: music catalog item
 language: en
 publisher: Spotify
-tier: other
+tier: discography
 about:
 - Sussan Deyhim
 status: processed

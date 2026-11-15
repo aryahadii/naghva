@@ -3,7 +3,7 @@ url: https://soundcloud.com/bahramnouraei/sets/eiz8ykd6t6rk
 title: Gozaar
 kind: web page
 language: en
-tier: other
+tier: discography
 publisher: SoundCloud
 about:
 - Gozaar

@@ -4,7 +4,7 @@ title: 'The Invisible Road: Original Recordings, 1985–1990'
 kind: music catalog item
 language: en
 publisher: Spotify
-tier: other
+tier: discography
 about:
 - Sussan Deyhim
 - Richard Horowitz

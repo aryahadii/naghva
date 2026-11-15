@@ -3,7 +3,7 @@ url: https://open.spotify.com/album/6m0YvizEU6PludmA4Hpdxc
 title: Qeshm Island | Spotify
 kind: web page
 language: en
-tier: other
+tier: discography
 publisher: Spotify
 status: processed
 ---

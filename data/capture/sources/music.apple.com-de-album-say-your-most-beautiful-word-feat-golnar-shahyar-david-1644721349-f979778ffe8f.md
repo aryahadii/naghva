@@ -3,7 +3,7 @@ url: https://music.apple.com/de/album/say-your-most-beautiful-word-feat-golnar-s
 title: Say Your Most Beautiful Word (feat. Golnar Shahyar, David Six & Martin Berauer) - Album by Mahan Mirarab - Apple Music
 kind: web page
 language: en
-tier: other
+tier: discography
 status: processed
 publisher: music.apple.com
 ---

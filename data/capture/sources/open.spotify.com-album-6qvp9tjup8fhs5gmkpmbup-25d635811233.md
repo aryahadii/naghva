@@ -3,7 +3,7 @@ url: https://open.spotify.com/album/6qvP9TjuP8fhS5GmKpMBuP
 title: Derakht - Golnar & Mahan
 kind: web page
 language: en
-tier: other
+tier: discography
 status: processed
 publisher: open.spotify.com
 archive: https://web.archive.org/web/20250424012337/https://open.spotify.com/album/6qvP9TjuP8fhS5GmKpMBuP

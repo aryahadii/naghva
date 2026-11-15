@@ -4,7 +4,7 @@ title: Reng-e Farah (Live at the Warehouse) - Hossein Meimani
 status: processed
 kind: web page
 language: en
-tier: other
+tier: discography
 about:
 - Monicki
 - Hossein Meimani

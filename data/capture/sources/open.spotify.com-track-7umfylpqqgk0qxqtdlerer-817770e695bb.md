@@ -4,7 +4,7 @@ title: Seyd-e Biaban-e Eshgh - Live - Spotify
 status: processed
 kind: web page
 language: en
-tier: other
+tier: discography
 about:
 - Monicki
 - Seyd-e Biaban-e Eshgh - Live

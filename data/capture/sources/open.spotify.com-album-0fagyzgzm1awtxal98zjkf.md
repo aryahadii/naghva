@@ -4,7 +4,7 @@ title: Possessed
 kind: music catalog item
 language: en
 publisher: Spotify
-tier: other
+tier: discography
 about:
 - Sussan Deyhim
 status: processed

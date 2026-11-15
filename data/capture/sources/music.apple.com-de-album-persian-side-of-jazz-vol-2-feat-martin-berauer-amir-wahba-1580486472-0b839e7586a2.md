@@ -3,7 +3,7 @@ url: https://music.apple.com/de/album/persian-side-of-jazz-vol-2-feat-martin-ber
 title: Persian Side of Jazz, Vol. 2 (feat. Martin Berauer & Amir Wahba) - Album by Mahan Mirarab - Apple Music
 kind: web page
 language: en
-tier: other
+tier: discography
 status: processed
 publisher: music.apple.com
 ---

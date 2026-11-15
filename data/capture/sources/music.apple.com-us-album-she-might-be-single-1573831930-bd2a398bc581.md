@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/she-might-be-single/1573831930
 title: She Might Be - Single by Behnam Abolghassem, Dariush Azar and Alireza Koliai, Apple Music
 kind: web page
 language: en
-tier: other
+tier: discography
 about:
 - Dariush Azar
 - She Might Be
