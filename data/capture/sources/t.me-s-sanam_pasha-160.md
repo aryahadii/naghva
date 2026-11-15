@@ -1,6 +1,5 @@
 ---
 url: https://t.me/s/sanam_pasha/160
-archive: https://web.archive.org/web/20261115153805/https://t.me/sanam_pasha/203
 title: 'Sanam Pasha: Shab o Rouz (Day and Night)'
 kind: telegram post
 language: fa
