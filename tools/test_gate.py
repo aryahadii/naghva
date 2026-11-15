@@ -2,18 +2,17 @@
 
 import shutil
 import subprocess
-import sys
 import tempfile
 import unittest
 import urllib.parse
 from pathlib import Path
+from types import SimpleNamespace
 
-sys.path.insert(0, str(Path(__file__).resolve().parent))
-import gate_article  # noqa: E402
-import gate_quotes  # noqa: E402
-import gate_record  # noqa: E402
-import gate_common  # noqa: E402
-from gate_common import platform_of, squash  # noqa: E402
+import gate_article
+import gate_common
+import gate_quotes
+import gate_record
+from gate_common import platform_of, squash, tier_of
 
 
 class Passages(unittest.TestCase):
@@ -102,7 +101,10 @@ class Record(unittest.TestCase):
     def test_platforms_and_profile_shapes(self):
         self.assertEqual(platform_of("https://music.apple.com/us/album/x/1"), "Apple Music")
         self.assertEqual(platform_of("https://artist.bandcamp.com/album/x"), "Bandcamp")
+        self.assertEqual(platform_of("https://t.me/channel/42"), "Telegram")
         self.assertIsNone(platform_of("https://example.com"))
+        self.assertEqual(len(gate_common.PLATFORM_NAMES), len(gate_common.REGISTRY["platforms"]))
+        self.assertEqual(set(gate_record.PROFILE_SHAPES), set(gate_common.PLATFORM_NAMES))
         shapes = gate_record.PROFILE_SHAPES
         self.assertTrue(shapes["Spotify"].search("https://open.spotify.com/artist/abc"))
         self.assertFalse(shapes["Spotify"].search("https://open.spotify.com/album/abc"))
@@ -110,6 +112,10 @@ class Record(unittest.TestCase):
         self.assertFalse(shapes["SoundCloud"].search("https://soundcloud.com/someone/a-song"))
         self.assertTrue(shapes["Telegram"].search("https://t.me/channel"))
         self.assertFalse(shapes["Telegram"].search("https://t.me/channel/42"))
+
+    def test_a_source_with_no_listed_tier_counts_as_other(self):
+        self.assertEqual(tier_of(SimpleNamespace(meta={"tier": "journalism"})), "journalism")
+        self.assertEqual(tier_of(SimpleNamespace(meta={})), "other")
 
     def test_apple_ids_and_url_keys(self):
         self.assertEqual(
