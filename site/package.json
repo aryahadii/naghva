@@ -27,22 +27,22 @@
     "test:browser": "playwright test"
   },
   "dependencies": {
-    "@astrojs/preact": "^6.1.0",
+    "@astrojs/preact": "^6.1.5",
     "@astrojs/sitemap": "^3.7.4",
     "@fontsource-variable/dm-sans": "^5.3.0",
     "@fontsource-variable/newsreader": "^5.3.0",
     "@fontsource/vazirmatn": "^5.3.0",
-    "astro": "^7.4.0",
-    "marked": "^18.1.1",
-    "posthog-js": "1.443.0",
-    "preact": "^11.0.1"
+    "astro": "^7.4.11",
+    "marked": "^18.2.0",
+    "posthog-js": "1.447.14",
+    "preact": "^11.2.0"
   },
   "devDependencies": {
-    "@astrojs/check": "^0.9.10",
-    "@playwright/test": "^1.64.1",
+    "@astrojs/check": "^0.9.12",
+    "@playwright/test": "^1.65.0",
     "aws4fetch": "1.0.20",
     "sharp": "^0.35.5",
-    "typescript": "^6.0.3",
-    "wrangler": "^4.151.2"
+    "typescript": "^7.0.2",
+    "wrangler": "^4.160.1"
   }
 }
