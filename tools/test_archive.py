@@ -2,6 +2,7 @@
 
 import tempfile
 import unittest
+from unittest import mock
 from pathlib import Path
 
 import archive
@@ -28,6 +29,15 @@ class ArchiveTests(unittest.TestCase):
     def source(self, text):
         self.path.write_text(text, encoding="utf-8")
         return ds.Source(self.path, *ds.read_markdown(self.path))
+
+    def test_save_encodes_non_ascii_addresses(self):
+        seen = []
+        def fake_get(url, timeout=60):
+            seen.append(url)
+            return "", "https://web.archive.org/web/20261115000000/https://example.ir/%D8%B3"
+        with mock.patch.object(archive, "_get", fake_get):
+            self.assertIn("/web/", archive.save("https://example.ir/س?a=1&b=%20"))
+        self.assertEqual(seen, [archive.SAVE + "https://example.ir/%D8%B3?a=1&b=%20"])
 
     def test_archive_goes_after_the_url(self):
         self.source(SOURCE)

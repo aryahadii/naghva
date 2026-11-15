@@ -57,7 +57,9 @@ def closest_snapshot(url):
 def save(url):
     """Ask Save Page Now for a fresh snapshot; the address it lands on, or None."""
     try:
-        _, landed = _get(SAVE + url, timeout=180)
+        # Save Page Now takes the address as a path; non-ASCII letters (Persian
+        # slugs) must be percent-encoded, existing escapes kept.
+        _, landed = _get(SAVE + urllib.parse.quote(url, safe=":/?#[]@!$&'()*+,;=%~"), timeout=180)
     except urllib.error.HTTPError:
         return None
     return landed if "/web/" in landed else None
