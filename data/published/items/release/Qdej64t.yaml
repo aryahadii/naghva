@@ -1,0 +1,76 @@
+id: Qdej64t
+type: release
+statements:
+  name:
+  - value:
+      text: Three (feat. Srivani Jade)
+      language: en
+    references:
+    - &id001
+      source: music.apple.com-us-album-three-feat-srivani-jade-single-1519613916-67252e6abc
+      quote: 'Listen to Three (feat. Srivani Jade) - Single by Salome MC on Apple Music. 2019. 1 Song. Duration:
+        3 minutes.'
+      accessed: '2026-11-13'
+      locator: Apple Music release description
+  - value:
+      text: سه
+      language: fa
+    references:
+    - source: www.salomemc.com-6522edc9eb
+      quote: Three | سه
+      accessed: '2026-11-13'
+      locator: Artist portfolio title
+  performer:
+  - value: Qd3ypxs
+    references:
+    - *id001
+  - value: Q84eg5t
+    references:
+    - source: music.apple.com-us-album-three-feat-srivani-jade-single-1519613916-67252e6abc
+      quote: Three (feat. Srivani Jade)
+      accessed: '2026-11-13'
+      locator: Track listing
+  release date:
+  - value:
+      date: '2019-06-24'
+    references:
+    - source: music.apple.com-us-album-three-feat-srivani-jade-single-1519613916-67252e6abc
+      quote: '"datePublished":"2019-06-24"'
+      accessed: '2026-11-13'
+      locator: Album JSON-LD, datePublished
+  listen link:
+  - value: https://music.apple.com/us/album/three-feat-srivani-jade-single/1519613916
+    references:
+    - *id001
+  - value: https://soundcloud.com/salomemcee/three
+    references:
+    - source: soundcloud.com-salomemcee-three-022bb26208
+      quote: Stream Three | سه X Srivani Jade by Salome MC | Listen online for free on SoundCloud
+      accessed: '2026-11-13'
+      locator: Artist’s page title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/9d/85/a1/9d85a12a-c6b6-7279-b2f0-b7607c9b4d03/053000768050_cover.jpg/1200x630bb.jpg
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-three-feat-srivani-jade-single-1519613916-67252e6abc
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/9d/85/a1/9d85a12a-c6b6-7279-b2f0-b7607c9b4d03/053000768050_cover.jpg/1200x630bb.jpg
+      accessed: '2026-11-13'
+      locator: Album JSON-LD, image
+  contributor:
+  - value: Qd3ypxs
+    qualifiers:
+      role: composer
+    references:
+    - &id002
+      source: bidarzani.com-29300
+      quote: آهنگسازی، متن، اجرا، میکس، مستر و طرح جلد از سالومه ام‌سی
+      accessed: '2026-11-13'
+      locator: Song credits
+  - value: Qd3ypxs
+    qualifiers:
+      role: lyricist
+    references:
+    - *id002

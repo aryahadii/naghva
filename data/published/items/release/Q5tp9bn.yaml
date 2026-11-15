@@ -1,0 +1,47 @@
+id: Q5tp9bn
+type: release
+statements:
+  name:
+  - value:
+      text: Warp and Weft (feat. Koohsar)
+      language: en
+    references:
+    - &id001
+      source: music.apple.com-us-album-warp-and-weft-feat-koohsar-single-1531519142-9fcc07ebfb
+      quote: 'Listen to Warp and Weft (feat. Koohsar) - Single by Salome MC on Apple Music. 2015. 1 Song. Duration:
+        3 minutes.'
+      accessed: '2026-11-13'
+      locator: Apple Music release description
+  performer:
+  - value: Qd3ypxs
+    references:
+    - *id001
+  - value: Q4jzfbm
+    references:
+    - source: music.apple.com-us-album-warp-and-weft-feat-koohsar-single-1531519142-9fcc07ebfb
+      quote: Warp and Weft (feat. Koohsar)
+      accessed: '2026-11-13'
+      locator: Track listing
+  release date:
+  - value:
+      date: '2015-01-15'
+    references:
+    - source: music.apple.com-us-album-warp-and-weft-feat-koohsar-single-1531519142-9fcc07ebfb
+      quote: '"datePublished":"2015-01-15"'
+      accessed: '2026-11-13'
+      locator: Album JSON-LD, datePublished
+  listen link:
+  - value: https://music.apple.com/us/album/warp-and-weft-feat-koohsar-single/1531519142
+    references:
+    - *id001
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/47/5a/3a/475a3a9c-d083-21f5-53dc-de22dfda5a9d/053000268550_cover.jpg/1200x630bb.jpg
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-warp-and-weft-feat-koohsar-single-1531519142-9fcc07ebfb
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/47/5a/3a/475a3a9c-d083-21f5-53dc-de22dfda5a9d/053000268550_cover.jpg/1200x630bb.jpg
+      accessed: '2026-11-13'
+      locator: Album JSON-LD, image

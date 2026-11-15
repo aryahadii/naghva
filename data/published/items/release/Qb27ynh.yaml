@@ -7,37 +7,53 @@ statements:
       language: en
     references:
     - source: www.kkv.no-en-music-mahsa-vahdat-mighty-sam-mcclain-2-29a895eda9fa
-      quote: |-
-        Scent of reunion - Love duets across civilizations
+      quote: Scent of reunion - Love duets across civilizations
       accessed: '2026-10-19'
-  performer:
-  - value: Qp2mk6b
+  - value:
+      text: Scent of Reunion (Love Duets Across Civilizations)
+      language: en
     references:
-    - source: www.kkv.no-en-music-mahsa-vahdat-mighty-sam-mcclain-2-29a895eda9fa
+    - source: music.apple.com-us-album-scent-of-reunion-love-duets-across-civilizations-354392346
       quote: |-
-        Mahsa Vahdat, Iran Mighty Sam McClain, USA
-      accessed: '2026-10-19'
-  - value: Qvagrn6
-    references:
-    - source: www.kkv.no-en-music-mahsa-vahdat-mighty-sam-mcclain-2-29a895eda9fa
-      quote: |-
-        Mahsa Vahdat, Iran Mighty Sam McClain, USA
-      accessed: '2026-10-19'
+        Scent of Reunion (Love Duets Across Civilizations)
+      accessed: '2026-11-13'
   release date:
   - value:
       date: '2009-09-11'
     references:
     - source: www.kkv.no-en-music-mahsa-vahdat-mighty-sam-mcclain-2-29a895eda9fa
+      quote: 'Release date: 11.09.2009'
+      accessed: '2026-10-19'
+  - value:
+      date: '2010-02-09'
+    references:
+    - source: music.apple.com-us-album-scent-of-reunion-love-duets-across-civilizations-354392346
       quote: |-
-        Release date: 11.09.2009
+        "datePublished":"2010-02-09"
+      accessed: '2026-11-13'
+  performer:
+  - value: Qp2mk6b
+    references:
+    - source: www.kkv.no-en-music-mahsa-vahdat-mighty-sam-mcclain-2-29a895eda9fa
+      quote: Mahsa Vahdat, Iran Mighty Sam McClain, USA
+      accessed: '2026-10-19'
+  - value: Qvagrn6
+    references:
+    - source: www.kkv.no-en-music-mahsa-vahdat-mighty-sam-mcclain-2-29a895eda9fa
+      quote: Mahsa Vahdat, Iran Mighty Sam McClain, USA
       accessed: '2026-10-19'
   listen link:
   - value: https://open.spotify.com/album/0Me01k2WJP3WmRHoGFHWsK
     references:
     - source: www.kkv.no-en-music-mahsa-vahdat-mighty-sam-mcclain-2-29a895eda9fa
-      quote: |-
-        Scent of reunion - Love duets across civilizations
+      quote: Scent of reunion - Love duets across civilizations
       accessed: '2026-10-19'
+  - value: https://music.apple.com/us/album/scent-of-reunion-love-duets-across-civilizations/354392346
+    references:
+    - source: music.apple.com-us-album-scent-of-reunion-love-duets-across-civilizations-354392346
+      quote: |-
+        Scent of Reunion (Love Duets Across Civilizations)
+      accessed: '2026-11-13'
   cover art:
   - value: https://i.scdn.co/image/ab67616d0000b2733aa0130e6ffaa773a8306465
     references:

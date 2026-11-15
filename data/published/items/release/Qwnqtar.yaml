@@ -1,0 +1,51 @@
+id: Qwnqtar
+type: release
+statements:
+  name:
+  - value:
+      text: Endless Path
+      language: en
+    references:
+    - source: music.apple.com-us-album-endless-path-1280883749
+      quote: |-
+        Endless Path
+      accessed: '2026-11-13'
+  release date:
+  - value:
+      date: '2017-09-22'
+    references:
+    - source: music.apple.com-us-album-endless-path-1280883749
+      quote: |-
+        "datePublished":"2017-09-22"
+      accessed: '2026-11-13'
+  performer:
+  - value: Qp2mk6b
+    references:
+    - source: music.apple.com-us-album-endless-path-1280883749
+      quote: |-
+        [{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/mahsa-vahdat/65413022","name":"Mahsa Vahdat"},{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/co%C5%9Fkun-karademir/385591446","name":"Coşkun Karademir"}]
+      accessed: '2026-11-13'
+  - value: Q8gy4mg
+    references:
+    - source: music.apple.com-us-album-endless-path-1280883749
+      quote: |-
+        [{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/mahsa-vahdat/65413022","name":"Mahsa Vahdat"},{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/co%C5%9Fkun-karademir/385591446","name":"Coşkun Karademir"}]
+      accessed: '2026-11-13'
+  listen link:
+  - value: https://music.apple.com/us/album/endless-path/1280883749
+    references:
+    - source: music.apple.com-us-album-endless-path-1280883749
+      quote: |-
+        Endless Path
+      accessed: '2026-11-13'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/02/a6/67/02a667a0-3e5a-93ab-a190-1b9b5c972f86/cover.jpg/1200x1200bb.jpg
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-endless-path-1280883749
+      quote: |-
+        Endless Path
+      accessed: '2026-11-13'

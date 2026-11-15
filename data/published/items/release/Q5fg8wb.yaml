@@ -1,0 +1,45 @@
+id: Q5fg8wb
+type: release
+statements:
+  name:
+  - value:
+      text: Callous
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-i-ersgagh6e-b3e3d25a31
+      quote: Salome MC - Callous | پینه
+      accessed: '2026-11-13'
+      locator: Artist video title
+  - value:
+      text: پینه
+      language: fa
+    references:
+    - *id001
+  performer:
+  - value: Qd3ypxs
+    references:
+    - *id001
+  listen link:
+  - value: https://www.youtube.com/watch?v=i_ERSGAGh6E
+    references:
+    - *id001
+  release date:
+  - value:
+      date: '2016-11-04'
+    references:
+    - source: www.youtube.com-watch-v-i-ersgagh6e-b3e3d25a31
+      quote: '2016-11-04T08:59:05-07:00'
+      accessed: '2026-11-13'
+      locator: Video publication timestamp, local calendar date
+  cover art:
+  - value: https://i.ytimg.com/vi/i_ERSGAGh6E/hqdefault.jpg
+    qualifiers:
+      credit:
+        text: Salome MC on YouTube
+        language: en
+    references:
+    - source: www.youtube.com-watch-v-i-ersgagh6e-b3e3d25a31
+      quote: https://i.ytimg.com/vi/i_ERSGAGh6E/hqdefault.jpg
+      accessed: '2026-11-13'
+      locator: Video artwork

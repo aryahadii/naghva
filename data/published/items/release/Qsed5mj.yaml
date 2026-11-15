@@ -1,0 +1,48 @@
+id: Qsed5mj
+type: release
+statements:
+  name:
+  - value:
+      text: Vacuum
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-kcvg2s7k67i-0ee504e0cb
+      quote: Salome Mc - Vacuum ft. Don Porcella | خلاء
+      accessed: '2026-11-13'
+      locator: Artist video title
+  - value:
+      text: خلاء
+      language: fa
+    references:
+    - *id001
+  performer:
+  - value: Qd3ypxs
+    references:
+    - *id001
+  - value: Qveav8s
+    references:
+    - *id001
+  listen link:
+  - value: https://www.youtube.com/watch?v=kCVg2S7k67I
+    references:
+    - *id001
+  release date:
+  - value:
+      date: '2014-07-19'
+    references:
+    - source: www.youtube.com-watch-v-kcvg2s7k67i-0ee504e0cb
+      quote: '2014-07-19T19:24:57-07:00'
+      accessed: '2026-11-13'
+      locator: Video publication timestamp, local calendar date
+  cover art:
+  - value: https://i.ytimg.com/vi/kCVg2S7k67I/hqdefault.jpg
+    qualifiers:
+      credit:
+        text: Salome MC on YouTube
+        language: en
+    references:
+    - source: www.youtube.com-watch-v-kcvg2s7k67i-0ee504e0cb
+      quote: https://i.ytimg.com/vi/kCVg2S7k67I/hqdefault.jpg
+      accessed: '2026-11-13'
+      locator: Video artwork

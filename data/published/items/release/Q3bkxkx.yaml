@@ -7,54 +7,62 @@ statements:
       language: en
     references:
     - source: music.apple.com-us-album-adamhaye-shabzadeh-1575641742-0ed39a477360
-      quote: |-
-        Listen to Adamhaye Shabzadeh by Kaveh Yaghmaei on Apple Music. 2021. 8 Songs. Duration: 42 minutes.
-      accessed: '2026-10-20'
-  performer:
-  - value: Qcbarbs
-    references:
-    - source: music.apple.com-us-album-adamhaye-shabzadeh-1575641742-0ed39a477360
-      quote: |-
-        Listen to Adamhaye Shabzadeh by Kaveh Yaghmaei on Apple Music. 2021. 8 Songs. Duration: 42 minutes.
-      accessed: '2026-10-20'
-    - source: music.apple.com-us-album-adamhaye-shabzadeh-1575641742-0ed39a477360
-      quote: |-
-        Kaveh Yaghmaei
+      quote: 'Listen to Adamhaye Shabzadeh by Kaveh Yaghmaei on Apple Music. 2021. 8 Songs. Duration: 42 minutes.'
       accessed: '2026-10-20'
   release date:
   - value:
       date: '2021-07-03'
     references:
     - source: music.apple.com-us-album-adamhaye-shabzadeh-1575641742-0ed39a477360
-      quote: |-
-        2021-07-03
+      quote: '2021-07-03'
       accessed: '2026-10-20'
   - value:
       date: '2021-07-05'
     references:
     - source: music.apple.com-us-album-adamhaye-shabzadeh-1575899738-7cc560f62b96
-      quote: |-
-        2021-07-05
+      quote: '2021-07-05'
+      accessed: '2026-10-20'
+  performer:
+  - value: Qcbarbs
+    references:
+    - source: music.apple.com-us-album-adamhaye-shabzadeh-1575641742-0ed39a477360
+      quote: 'Listen to Adamhaye Shabzadeh by Kaveh Yaghmaei on Apple Music. 2021. 8 Songs. Duration: 42 minutes.'
+      accessed: '2026-10-20'
+    - source: music.apple.com-us-album-adamhaye-shabzadeh-1575641742-0ed39a477360
+      quote: Kaveh Yaghmaei
+      accessed: '2026-10-20'
+  published by:
+  - value: Qzvsgq4
+    references:
+    - source: music.apple.com-us-album-adamhaye-shabzadeh-1575641742-0ed39a477360
+      quote: ℗ 2021 Honar Aval
       accessed: '2026-10-20'
   listen link:
   - value: https://music.apple.com/us/album/adamhaye-shabzadeh/1575641742
     references:
     - source: music.apple.com-us-album-adamhaye-shabzadeh-1575641742-0ed39a477360
-      quote: |-
-        Listen to Adamhaye Shabzadeh by Kaveh Yaghmaei on Apple Music. 2021. 8 Songs. Duration: 42 minutes.
+      quote: 'Listen to Adamhaye Shabzadeh by Kaveh Yaghmaei on Apple Music. 2021. 8 Songs. Duration: 42 minutes.'
       accessed: '2026-10-20'
   - value: https://music.apple.com/us/album/adamhaye-shabzadeh/1575899738
     references:
     - source: music.apple.com-us-album-adamhaye-shabzadeh-1575899738-7cc560f62b96
-      quote: |-
-        Listen to Adamhaye Shabzadeh by Kaveh Yaghmaei on Apple Music. 2021. 8 Songs. Duration: 42 minutes.
+      quote: 'Listen to Adamhaye Shabzadeh by Kaveh Yaghmaei on Apple Music. 2021. 8 Songs. Duration: 42 minutes.'
       accessed: '2026-10-20'
+  - value: https://www.youtube.com/playlist?list=OLAK5uy_kNYqRaQ75GF8a4jGNMTXZ0PNn0-bPck90
+    references:
+    - source: www.youtube.com-playlist-list-olak5uy_knyqraq75gf8a4jgnmtxz0pnn0-bpck90
+      quote: Adamhaye Shabzadeh
+      accessed: '2026-11-13'
+  - value: https://www.youtube.com/playlist?list=OLAK5uy_mQexldZZsqyCnx_rt5o_KRmEaNwrqZtls
+    references:
+    - source: www.youtube.com-playlist-list-olak5uy_mqexldzzsqycnx_rt5o_krmeanwrqztls
+      quote: Adamhaye Shabzadeh
+      accessed: '2026-11-13'
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d2/01/f1/d201f1b5-5dc3-88e7-4c0a-15943f15d3f8/196006971212.jpg/1200x630bb.jpg
     references:
     - source: music.apple.com-us-album-adamhaye-shabzadeh-1575641742-0ed39a477360
-      quote: |-
-        https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d2/01/f1/d201f1b5-5dc3-88e7-4c0a-15943f15d3f8/196006971212.jpg/1200x630bb.jpg
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d2/01/f1/d201f1b5-5dc3-88e7-4c0a-15943f15d3f8/196006971212.jpg/1200x630bb.jpg
       accessed: '2026-10-20'
     qualifiers:
       credit:
@@ -63,17 +71,9 @@ statements:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/35/fe/c2/35fec25c-cdc0-8894-51bd-cb8f622d36e4/cover.jpg/1200x630bb.jpg
     references:
     - source: music.apple.com-us-album-adamhaye-shabzadeh-1575899738-7cc560f62b96
-      quote: |-
-        https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/35/fe/c2/35fec25c-cdc0-8894-51bd-cb8f622d36e4/cover.jpg/1200x630bb.jpg
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/35/fe/c2/35fec25c-cdc0-8894-51bd-cb8f622d36e4/cover.jpg/1200x630bb.jpg
       accessed: '2026-10-20'
     qualifiers:
       credit:
         text: Apple Music
         language: en
-  published by:
-  - value: Qzvsgq4
-    references:
-    - source: music.apple.com-us-album-adamhaye-shabzadeh-1575641742-0ed39a477360
-      quote: |-
-        ℗ 2021 Honar Aval
-      accessed: '2026-10-20'

@@ -1,0 +1,51 @@
+id: Q964dss
+type: release
+statements:
+  name:
+  - value:
+      text: I Am Eve
+      language: en
+    references:
+    - source: music.apple.com-us-album-i-am-eve-1530433222
+      quote: |-
+        I Am Eve
+      accessed: '2026-11-13'
+  release date:
+  - value:
+      date: '2008-08-29'
+    references:
+    - source: music.apple.com-us-album-i-am-eve-1530433222
+      quote: |-
+        "datePublished":"2008-08-29"
+      accessed: '2026-11-13'
+  performer:
+  - value: Qp2mk6b
+    references:
+    - source: music.apple.com-us-album-i-am-eve-1530433222
+      quote: |-
+        [{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/mahsa-vahdat/65413022","name":"Mahsa Vahdat"},{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/marjan-vahdat/65414624","name":"Marjan Vahdat"}]
+      accessed: '2026-11-13'
+  - value: Qtrh4vq
+    references:
+    - source: music.apple.com-us-album-i-am-eve-1530433222
+      quote: |-
+        [{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/mahsa-vahdat/65413022","name":"Mahsa Vahdat"},{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/marjan-vahdat/65414624","name":"Marjan Vahdat"}]
+      accessed: '2026-11-13'
+  listen link:
+  - value: https://music.apple.com/us/album/i-am-eve/1530433222
+    references:
+    - source: music.apple.com-us-album-i-am-eve-1530433222
+      quote: |-
+        I Am Eve
+      accessed: '2026-11-13'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/57/b2/1a/57b21a22-b5bb-2474-3fac-c1dea8b979ba/70229971083358_Cover.jpg/1200x1200bb.jpg
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-i-am-eve-1530433222
+      quote: |-
+        I Am Eve
+      accessed: '2026-11-13'

@@ -1,0 +1,46 @@
+id: Qy9k36j
+type: release
+statements:
+  name:
+  - value:
+      text: untitled
+      language: en
+    references:
+    - &id001
+      source: agf-poemproducer.bandcamp.com-track-untitled-60f628d7ce
+      quote: untitled, by Salome MC, Andreas Eduardo Frank
+      accessed: '2026-11-13'
+      locator: Release heading and byline
+  performer:
+  - value: Qd3ypxs
+    references:
+    - *id001
+  - value: Q9mf69g
+    references:
+    - source: agf-poemproducer.bandcamp.com-track-untitled-60f628d7ce
+      quote: untitled, by Salome MC, Andreas Eduardo Frank
+      accessed: '2026-11-13'
+      locator: Track billing
+  listen link:
+  - value: https://agf-poemproducer.bandcamp.com/track/untitled
+    references:
+    - *id001
+  cover art:
+  - value: https://f4.bcbits.com/img/a3458869123_5.jpg
+    qualifiers:
+      credit:
+        text: Bandcamp
+        language: en
+    references:
+    - source: agf-poemproducer.bandcamp.com-track-untitled-60f628d7ce
+      quote: https://f4.bcbits.com/img/a3458869123_5.jpg
+      accessed: '2026-11-13'
+      locator: Open Graph cover image
+  release date:
+  - value:
+      date: '2018-10-04'
+    references:
+    - source: agf-poemproducer.bandcamp.com-track-untitled-60f628d7ce
+      quote: released October 4, 2018
+      accessed: '2026-11-13'
+      locator: Release credits

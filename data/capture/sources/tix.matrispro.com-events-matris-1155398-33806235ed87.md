@@ -24,3 +24,5 @@ publisher: Matris Event & Production
 > CET
 
 > He is currently performing his own works as a songwriter, composer, musician, and singer in a series of concerts under the name "Night Bus".
+
+Entire promoter text reread2026-11-13: biography paragraph and Night Bus description checked. February23 2024 Stockholm is an announced booking, not an outcome report. It embeds artist-channel video jwdTfr0JbJg; YouTube extraction throttled. Archive discovery: https://web.archive.org/web/*/https://tix.matrispro.com/events/matris/1155398 .

@@ -1,0 +1,53 @@
+id: Qqnz6tq
+type: release
+statements:
+  name:
+  - value:
+      text: Duochrome
+      language: en
+    references:
+    - &id001
+      source: music.apple.com-us-album-duochrome-single-1568417119-b124b6dd7a
+      quote: 'Listen to Duochrome - Single by Ewa Guzowska & Tomasz Kandulski on Apple Music. 2021. 1 Song. Duration:
+        9 minutes.'
+      accessed: '2026-11-13'
+      locator: Apple Music release description
+  performer:
+  - value: Qac484v
+    references:
+    - *id001
+  - value: Qqn8w5v
+    references:
+    - *id001
+  release date:
+  - value:
+      date: '2021-05-21'
+    references:
+    - source: music.apple.com-us-album-duochrome-single-1568417119-b124b6dd7a
+      quote: '"datePublished":"2021-05-21"'
+      accessed: '2026-11-13'
+      locator: Album JSON-LD, datePublished
+  listen link:
+  - value: https://music.apple.com/us/album/duochrome-single/1568417119
+    references:
+    - *id001
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/bb/6f/e4/bb6fe48c-abeb-86dd-1211-4b9208227db4/5901549204452.jpg/1200x630bb.jpg
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-duochrome-single-1568417119-b124b6dd7a
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/bb/6f/e4/bb6fe48c-abeb-86dd-1211-4b9208227db4/5901549204452.jpg/1200x630bb.jpg
+      accessed: '2026-11-13'
+      locator: Album JSON-LD, image
+  contributor:
+  - value: Qranggn
+    qualifiers:
+      role: composer
+    references:
+    - source: music.apple.com-us-song-duochrome-1568417120-a5113a6ad7
+      quote: '"name":"Golfam Khayam","roleNames":["Composer"]'
+      accessed: '2026-11-13'
+      locator: Song credits, composition

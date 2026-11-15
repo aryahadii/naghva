@@ -1,0 +1,68 @@
+id: Q72d7wk
+type: release
+statements:
+  name:
+  - value:
+      text: The Sun Will Rise
+      language: en
+    references:
+    - source: music.apple.com-us-album-the-sun-will-rise-1530433138
+      quote: The Sun Will Rise
+      accessed: '2026-11-13'
+  release date:
+  - value:
+      date: '2016-04-10'
+    references:
+    - source: music.apple.com-us-album-the-sun-will-rise-1530433138
+      quote: '"datePublished":"2016-04-10"'
+      accessed: '2026-11-13'
+  - value:
+      date: '2016-04-14'
+    references:
+    - source: www.kkv.no-en-music-the-sun-will-rise-3
+      quote: 'Release date:
+
+        14.04.2016'
+      accessed: '2026-11-13'
+  performer:
+  - value: Qp2mk6b
+    references:
+    - source: music.apple.com-us-album-the-sun-will-rise-1530433138
+      quote: '[{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/mahsa-vahdat/65413022","name":"Mahsa Vahdat"}]'
+      accessed: '2026-11-13'
+  listen link:
+  - value: https://music.apple.com/us/album/the-sun-will-rise/1530433138
+    references:
+    - source: music.apple.com-us-album-the-sun-will-rise-1530433138
+      quote: The Sun Will Rise
+      accessed: '2026-11-13'
+  - value: https://open.spotify.com/album/32DcrD75sPkVSl151tYyeH
+    references:
+    - source: open.spotify.com-album-32dcrd75spkvsl151tyyeh
+      quote: |-
+        Listen to The Sun Will Rise - Album by Mahsa Vahdat | Spotify
+      accessed: '2026-11-13'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/22/3b/85/223b8500-4666-cd6b-2bc9-6621626a557a/7041889642229_Cover.jpg/1200x1200bb.jpg
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-the-sun-will-rise-1530433138
+      quote: The Sun Will Rise
+      accessed: '2026-11-13'
+  contributor:
+  - value: Qxzfpnw
+    qualifiers:
+      role: producer
+    references:
+    - source: www.kkv.no-en-music-the-sun-will-rise-3
+      quote: engineer and producer Erik Hillestad
+      accessed: '2026-11-13'
+  published by:
+  - value: Qtcvdjj
+    references:
+    - source: www.kkv.no-en-music-the-sun-will-rise-3
+      quote: Kirkelig kulturverksted
+      accessed: '2026-11-13'
