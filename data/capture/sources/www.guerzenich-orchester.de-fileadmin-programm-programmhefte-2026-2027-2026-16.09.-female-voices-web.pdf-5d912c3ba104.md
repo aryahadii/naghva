@@ -2,6 +2,7 @@
 url: https://www.guerzenich-orchester.de/fileadmin/Programm/Programmhefte/2026-2027/2026_16.09._FEMALE_VOICES_web.pdf
 title: Female Voices of Resilience — programme booklet
 status: processed
+tier: other
 language: de
 publisher: Gürzenich-Orchester Köln
 ---

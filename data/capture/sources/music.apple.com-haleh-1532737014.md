@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/%D8%B9%D9%84%DB%8C-%D9%82%D9%85%D8%B5%D8%B
 title: علی قمصری - دوش دوش (feat. Haleh Seyfizadeh) - Single — Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 status: processed
 ---
 

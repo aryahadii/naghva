@@ -4,7 +4,7 @@ title: Tak o Tanha (feat. Golsa & Taha Mazaheri) [Remix] - Single - Album by PER
 status: processed
 kind: web page
 language: mul
-tier: own
+tier: discography
 ---
 
 > Tak o Tanha (feat. Golsa & Taha Mazaheri) [Remix] - Single - Album by

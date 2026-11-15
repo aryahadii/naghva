@@ -4,6 +4,7 @@ title: 'The Mix 023: Nesa Azadikhah'
 language: en
 publisher: Mixmag
 status: processed
+tier: journalism
 archive: https://web.archive.org/web/20250320122645/https://mixmag.net/feature/the-mix-023-nesa-azadikhah-interview-techno-breaks-iran-tehran
 ---
 

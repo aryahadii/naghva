@@ -5,7 +5,7 @@ title: ‎Por Kon (feat. Golsa) [Kooche Afshar Version] - Single - Album by Behz
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Golsa
 ---

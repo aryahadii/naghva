@@ -4,7 +4,7 @@ title: Talking 'Bout Love
 language: en
 publisher: Apple Music
 status: processed
-tier: own
+tier: discography
 ---
 
 > Talking 'Bout Love

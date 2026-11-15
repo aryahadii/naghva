@@ -3,6 +3,7 @@ url: https://ashkoosha.bandcamp.com/album/hallucinato
 title: HALLUCiNATO
 language: en
 status: processed
+tier: own
 ---
 
 > HALLUCiNATO

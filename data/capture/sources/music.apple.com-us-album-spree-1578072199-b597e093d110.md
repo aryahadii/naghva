@@ -4,6 +4,7 @@ title: Spree
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > "name":"Spree (feat. Reza Parvizzadeh, Arash Saeedi & Hamed Habibpour)"

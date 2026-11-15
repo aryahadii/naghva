@@ -2,6 +2,7 @@
 url: https://commons.wikimedia.org/wiki/File:Hypernova_band_members.jpg
 title: File:Hypernova band members.jpg - Wikimedia Commons
 status: processed
+tier: other
 ---
 
 > from left to right: Jam, Kami, Kodi, King Raam

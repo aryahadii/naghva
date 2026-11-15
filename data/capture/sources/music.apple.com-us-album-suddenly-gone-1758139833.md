@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/suddenly-gone/1758139833
 title: Suddenly Gone - Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Kaveh Yaghmaei
 status: processed

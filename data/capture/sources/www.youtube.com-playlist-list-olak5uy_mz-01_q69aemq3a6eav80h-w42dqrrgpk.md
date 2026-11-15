@@ -3,7 +3,7 @@ url: https://www.youtube.com/playlist?list=OLAK5uy_mz-01_q69AEMQ3a6eAV80H-w42DQR
 title: Kisti? - YouTube
 kind: web page
 language: en
-tier: own
+tier: discography
 status: processed
 ---
 

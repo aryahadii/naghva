@@ -4,6 +4,7 @@ title: La Belle et La Bete Music by Sussan Deyhim
 language: en
 publisher: Sussan Deyhim Gallery
 status: processed
+tier: own
 ---
 
 > With contributions from renowned artists including Lili Haydn, Satnam Ramgotra, Greg Ellis, Mehdi Bagheri, and more, the album delivers a multicultural and soulful musical journey.

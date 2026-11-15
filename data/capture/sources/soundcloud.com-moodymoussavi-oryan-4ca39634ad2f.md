@@ -5,7 +5,7 @@ title: "Oryan (ft. Aida Shahghasemi) - Moody Moussavi"
 status: "processed"
 kind: "web page"
 language: "en"
-tier: "own"
+tier: discography
 about: ["Moody Moussavi", "Aida Shahghasemi", "Oryan"]
 ---
 

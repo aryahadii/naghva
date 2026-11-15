@@ -4,7 +4,7 @@ title: Gole Yakh by Kourosh Yaghmaei on Apple Music
 kind: web page
 language: en
 publisher: Apple Music
-tier: platform catalog
+tier: discography
 status: processed
 ---
 

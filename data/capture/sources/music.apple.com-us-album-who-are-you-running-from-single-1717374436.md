@@ -4,7 +4,7 @@ title: Who Are You Running From - Single - Album by Sevdaliza - Apple Music
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Apple Music
 about:
 - Qf36fnd

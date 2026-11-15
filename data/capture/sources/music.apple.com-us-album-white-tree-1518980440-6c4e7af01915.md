@@ -4,7 +4,7 @@ title: White Tree - Album by Marjan Farsad
 language: en
 publisher: Apple Music
 status: processed
-tier: own
+tier: discography
 ---
 
 > White Tree - Album by Marjan Farsad - Apple Music

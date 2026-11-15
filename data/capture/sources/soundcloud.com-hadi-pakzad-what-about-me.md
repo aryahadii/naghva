@@ -3,7 +3,7 @@ url: https://soundcloud.com/hadi-pakzad/what-about-me
 title: What About Me - Hadi Pakzad | SoundCloud
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Hadi Pakzad
 status: processed

@@ -3,6 +3,7 @@ url: https://www.vaakrecords.com/gallery/photos/nowruz-party-photo-album-a-night
 archive: "https://web.archive.org/web/20260607195534/https://www.vaakrecords.com/gallery/photos/nowruz-party-photo-album-a-night-of-music-and-dance-at-rich-mix"
 title: Nowruz Party photo album - Rich Mix London
 status: processed
+tier: own
 kind: web page
 language: en
 ---

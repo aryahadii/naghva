@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/the-earth-is-empty-ep/1843038681
 title: The Earth is Empty - EP - Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 about: [Sanam Pasha]
 status: processed
 ---

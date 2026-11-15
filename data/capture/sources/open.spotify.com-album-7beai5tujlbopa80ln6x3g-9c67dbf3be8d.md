@@ -4,6 +4,7 @@ title: Eskeleye Chashmanat - EP by Amin Homaei | Spotify
 language: en
 publisher: Spotify
 status: processed
+tier: discography
 ---
 
 > Listen to Eskeleye Chashmanat - EP by Amin Homaei | Spotify

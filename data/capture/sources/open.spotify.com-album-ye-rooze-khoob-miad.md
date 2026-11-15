@@ -4,6 +4,7 @@ title: Listen to Ye Rooze Khoob Miad - Single by Hichkas
 language: en
 publisher: Spotify
 status: processed
+tier: discography
 ---
 
 > Listen to Ye Rooze Khoob Miad - Single by Hichkas | Spotify

@@ -5,7 +5,7 @@ title: دنیا گذران و کار دنیا گذران!🌎🩵
 status: processed
 kind: youtube video
 language: fa
-tier: own
+tier: discography
 about:
 - Monicki
 - Dina

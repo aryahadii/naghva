@@ -2,6 +2,7 @@
 url: https://thebushwickbookclubseattle.com/glory-digital-program/
 title: Glory Digital Program - The Bushwick Book Club Seattle
 status: processed
+tier: other
 ---
 
 > Salome MC Relinquished

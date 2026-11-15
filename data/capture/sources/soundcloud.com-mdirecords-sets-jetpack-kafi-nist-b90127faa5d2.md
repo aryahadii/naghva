@@ -4,7 +4,7 @@ title: Jetpack - Kafi Nist — Made in Iran Records | SoundCloud
 status: processed
 kind: web page
 language: mul
-tier: own
+tier: discography
 publisher: Made in Iran Records
 about:
 - Jetpack

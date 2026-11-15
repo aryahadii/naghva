@@ -4,7 +4,7 @@ title: Baghale Man - Single - Album by Rian & Taha Mazaheri - Apple Music
 status: processed
 kind: web page
 language: mul
-tier: own
+tier: discography
 ---
 
 > Baghale Man - Single - Album by Rian & Taha Mazaheri - Apple Music

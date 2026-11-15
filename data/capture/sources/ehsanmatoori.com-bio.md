@@ -4,6 +4,7 @@ title: Ehsan Matoori | Bio
 language: en
 publisher: Ehsan Matoori
 status: processed
+tier: own
 ---
 
 > Ehsan Matoori (Santoor Player, Composer, Educator)

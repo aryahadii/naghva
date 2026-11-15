@@ -4,6 +4,7 @@ title: Khal Punk - Album by 127 | Spotify
 language: en
 publisher: Spotify
 status: processed
+tier: discography
 ---
 
 > Khal Punk - Album by 127 | Spotify

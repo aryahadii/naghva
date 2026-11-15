@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/only-hope-breaks-the-dark-waves-single/156
 title: ‎Only Hope Breaks the Dark Waves - Single - Album by Saba Alizadeh - Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 status: processed
 ---
 

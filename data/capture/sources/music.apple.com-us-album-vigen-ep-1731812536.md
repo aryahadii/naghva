@@ -2,7 +2,7 @@
 url: https://music.apple.com/us/album/vigen-ep/1731812536
 title: ‎Vigen - EP - Album by B-BAND - Apple Music
 status: processed
-tier: own
+tier: discography
 ---
 
 > Listen to Vigen - EP by B-BAND on Apple Music. 2023. 4 Songs. Duration: 15 minutes.

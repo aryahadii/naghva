@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/from-isfahan-to-isfahan-single/1449069005
 title: From Isfahan to Isfahan - Single - Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 about: [Sanam Pasha]
 status: processed
 archive: http://web.archive.org/web/20250406111427/https://music.apple.com/us/album/from-isfahan-to-isfahan-single/1449069005

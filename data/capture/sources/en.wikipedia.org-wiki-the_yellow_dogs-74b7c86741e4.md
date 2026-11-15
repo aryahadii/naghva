@@ -4,6 +4,7 @@ title: The Yellow Dogs
 language: en
 publisher: Wikipedia
 status: processed
+tier: wikipedia
 ---
 
 > The Yellow Dogs were an Iranian-American rock band, formed in 2006.[1] The band was formed in Tehran, and is now based in Brooklyn, New York.[2]

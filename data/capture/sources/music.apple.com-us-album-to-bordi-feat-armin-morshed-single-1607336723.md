@@ -4,7 +4,7 @@ title: To Bordi (feat. Armin Morshed) - Single - Album by Sara Naeini - Apple Mu
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 ---
 
 > To Bordi (feat. Armin Morshed) - Single - Album by Sara Naeini - Apple Music

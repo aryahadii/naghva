@@ -5,6 +5,7 @@ language: en
 author: Talieh Rohani
 publisher: Pop Junctions (Henry Jenkins)
 status: processed
+tier: journalism
 archive: https://web.archive.org/web/20220818121331/https://henryjenkins.org/blog/2008/02/ordinary_men_in_extraordinary.html
 ---
 

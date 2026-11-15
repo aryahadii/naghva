@@ -4,7 +4,7 @@ title: Stream YAS music | Listen to songs, albums, playlists for free on SoundCl
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Yas
 - Qx3svqf

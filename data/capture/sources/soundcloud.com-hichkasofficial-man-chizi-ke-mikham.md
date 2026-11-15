@@ -3,7 +3,7 @@ url: https://soundcloud.com/hichkasofficial/man-chizi-ke-mikham
 title: Man Chizi Ke Mikham on SoundCloud
 kind: web page
 language: mul
-tier: own
+tier: discography
 status: processed
 accessed: '2026-10-23'
 author: Hichkas

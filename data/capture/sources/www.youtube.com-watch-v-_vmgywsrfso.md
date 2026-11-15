@@ -4,7 +4,7 @@ title: Labat Che Gooyad? | Soofi (Official Audio)
 status: processed
 kind: video
 language: mul
-tier: own
+tier: discography
 about:
 - Soofi Namazi
 - صوفی نمازی

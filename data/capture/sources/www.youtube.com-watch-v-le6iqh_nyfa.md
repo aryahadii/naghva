@@ -4,6 +4,7 @@ title: Ali Azimi - Dige Vaghtesh Resideh (Official Video) | علی عظیمی - 
 language: mul
 publisher: Ali Azimi
 status: processed
+tier: discography
 ---
 
 > Ali Azimi - Dige Vaghtesh Resideh (Official Video) | علی عظیمی - دیگه وقتش رسیده

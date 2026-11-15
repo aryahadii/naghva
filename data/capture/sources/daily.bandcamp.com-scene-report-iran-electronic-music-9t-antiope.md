@@ -3,7 +3,7 @@ url: "https://daily.bandcamp.com/scene-report/iran-electronic-music"
 title: "A Guide to Iran’s Electronic Underground: 9T Antiope"
 kind: "web page"
 language: "en"
-tier: "journalism"
+tier: journalism
 status: "processed"
 ---
 

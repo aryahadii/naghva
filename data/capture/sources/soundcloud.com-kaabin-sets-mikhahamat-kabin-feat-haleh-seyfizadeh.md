@@ -5,7 +5,7 @@ language: mul
 publisher: SoundCloud
 status: processed
 kind: playlist page
-tier: own
+tier: discography
 about:
 - Kābin
 - Haleh Seyfizadeh

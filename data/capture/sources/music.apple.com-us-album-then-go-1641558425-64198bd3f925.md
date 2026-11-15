@@ -4,6 +4,7 @@ title: Then Go - Album by Makan Ashgvari & Amir Saremi
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > Then Go by Makan Ashgvari & Amir Saremi on Apple Music

@@ -4,6 +4,7 @@ title: In the Kennel EP | Yellow Dogs
 language: en
 publisher: Bandcamp (Yellow Dogs)
 status: processed
+tier: own
 ---
 
 > In The Kennel EP, by Yellow Dogs

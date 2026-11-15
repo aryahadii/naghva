@@ -4,6 +4,7 @@ title: Shahin Najafi
 language: en
 publisher: Wikipedia
 status: processed
+tier: wikipedia
 ---
 
 > Then he joined the Tapesh 2012 music band.

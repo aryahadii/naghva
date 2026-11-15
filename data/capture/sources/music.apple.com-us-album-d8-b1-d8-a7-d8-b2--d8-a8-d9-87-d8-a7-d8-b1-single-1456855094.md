@@ -4,7 +4,7 @@ title: راز بهار - Single - Album by Sara Naeini & Aria Rohani - Apple Mus
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 ---
 
 > راز بهار - Single - Album by Sara Naeini & Aria Rohani - Apple Music

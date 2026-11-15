@@ -5,6 +5,7 @@ language: en
 author: Marian Brehmer
 publisher: Qantara.de
 status: processed
+tier: journalism
 ---
 
 > Mohsen Namjoo began taking tuition in classical Persian music at the age of 12.

@@ -4,6 +4,7 @@ title: گفت‌وگو با آرش سبحانی؛ گروه کیوسک و «پا�
 language: fa
 publisher: Radio Farda
 status: processed
+tier: journalism
 ---
 
 > فارسی‌اش را گفته‌ای «پایان شیرین».

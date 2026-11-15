@@ -2,6 +2,7 @@
 url: https://www.youtube.com/watch?v=zxf6rCoP9H0
 title: "Damahi Band Announces Upcoming Concert Tour in Canada #Damahi #HomaEntertainment #DamahiBand"
 status: processed
+tier: discography
 kind: youtube video
 language: mul
 publisher: "Homa Entertainment"

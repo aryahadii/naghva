@@ -3,7 +3,7 @@ url: https://open.spotify.com/album/5jW4WyIHY4NE0317g6FgvX
 title: Ghazal-e Khoon — exact Spotify programme
 kind: web page
 language: mul
-tier: platform
+tier: discography
 status: processed
 ---
 

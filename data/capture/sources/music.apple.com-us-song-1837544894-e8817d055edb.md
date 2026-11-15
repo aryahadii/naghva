@@ -2,7 +2,7 @@
 url: https://music.apple.com/us/song/1837544894
 title: ‎Maria Magdalena - Song with Lyrics by Sevdaliza & Irmãs de Pau - Apple Music
 status: processed
-tier: own
+tier: discography
 kind: web page
 about:
 - Sevdaliza

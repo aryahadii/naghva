@@ -4,7 +4,7 @@ title: Labat Che Gooyad? (feat. Arash Fathi) [Piano Version] - Single — Apple 
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Soofi Namazi
 - صوفی نمازی

@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/enlighten-the-night/1518607463
 title: Enlighten the Night - Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Enlighten the Night - Apple Music
 status: processed

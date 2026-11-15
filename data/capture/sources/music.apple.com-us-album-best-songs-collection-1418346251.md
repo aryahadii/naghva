@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/best-songs-collection/1418346251
 title: Best Songs Collection - Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Kaveh Yaghmaei
 status: processed

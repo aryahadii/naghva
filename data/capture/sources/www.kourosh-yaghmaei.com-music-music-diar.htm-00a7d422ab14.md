@@ -4,6 +4,7 @@ title: Diar
 language: fa
 publisher: Kourosh Yaghmaei official website
 status: processed
+tier: own
 ---
 
 > دیار

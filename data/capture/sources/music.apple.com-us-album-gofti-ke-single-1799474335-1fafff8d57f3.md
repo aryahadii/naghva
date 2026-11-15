@@ -4,6 +4,7 @@ title: Gofti Ke - Single
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > Gofti Ke - Single by Marjan Farsad on Apple Music

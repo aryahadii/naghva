@@ -4,7 +4,7 @@ title: Pumpkin Latte (feat. Hamzeh Yeganeh) - Apple Music
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Monicki
 - Pumpkin Latte (feat. Hamzeh Yeganeh)

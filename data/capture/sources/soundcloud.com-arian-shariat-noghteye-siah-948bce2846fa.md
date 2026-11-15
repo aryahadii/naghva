@@ -4,7 +4,7 @@ title: Stream Noghteye Siah by Rian / آرین | Listen online for free on Sound
 status: processed
 kind: web page
 language: mul
-tier: own
+tier: discography
 ---
 
 > Noghteye Siah

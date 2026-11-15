@@ -5,7 +5,7 @@ language: fa
 publisher: SoundCloud
 status: processed
 kind: artist profile
-tier: own
+tier: discography
 about:
 - Kābin
 ---

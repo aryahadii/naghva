@@ -3,6 +3,7 @@ url: https://music.apple.com/us/album/black-cat-feat-marjan-farsad-single/170110
 title: Black Cat (feat. Marjan Farsad) - Single
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > Black Cat (feat. Marjan Farsad) - Single

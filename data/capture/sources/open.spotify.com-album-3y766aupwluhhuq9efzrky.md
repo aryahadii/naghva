@@ -4,7 +4,7 @@ title: Listen to Alibi Pt. 3 (with Jonita Gandhi, Rusha & Blizza, Pabllo Vittar 
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Spotify
 about:
 - Qf36fnd

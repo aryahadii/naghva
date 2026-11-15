@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/niyaz-feat-majid-salari/1470325550?i=14703
 title: Niyaz — exact guest billing
 kind: web page
 language: mul
-tier: platform
+tier: discography
 status: processed
 ---
 

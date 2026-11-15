@@ -2,6 +2,7 @@
 url: https://music.apple.com/us/album/baaq-ep/1800938970
 title: Baaq - EP — Yas
 status: processed
+tier: discography
 publisher: music.apple.com
 ---
 

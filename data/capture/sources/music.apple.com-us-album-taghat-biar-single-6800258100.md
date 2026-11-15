@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/taghat-biar-single/6800258100
 title: Taghat Biar - Single - Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Kaveh Yaghmaei
 status: processed

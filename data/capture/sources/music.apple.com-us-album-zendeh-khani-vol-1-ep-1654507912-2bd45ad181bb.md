@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/zendeh-khani-vol-1-ep/1654507912
 title: Zendeh Khani Vol.1 - EP - Album by Daygard, Motreb & Arash Zarabi - Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Arash Zarabi
 status: processed

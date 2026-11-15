@@ -2,7 +2,7 @@
 url: https://www.youtube.com/watch?v=KSecN1RIvmI
 title: Tara Tiba-Fly me to the moon- تارا تیبا - با من بیا به آسمون
 language: mul
-tier: own
+tier: discography
 status: processed
 ---
 

@@ -5,6 +5,7 @@ kind: web page
 language: en
 publisher: Spotify
 status: processed
+tier: discography
 ---
 
 > Bahram · album · 2008 · 9 songs

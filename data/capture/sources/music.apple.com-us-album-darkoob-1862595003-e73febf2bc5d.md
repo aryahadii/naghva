@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/darkoob/1862595003
 title: Darkoob - Album by Darkoob Band - Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Darkoob
 status: processed

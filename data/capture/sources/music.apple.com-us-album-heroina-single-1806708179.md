@@ -4,7 +4,7 @@ title: Heroina - Single - Album by Sevdaliza & La Joaqui - Apple Music
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Apple Music
 about:
 - Qf36fnd

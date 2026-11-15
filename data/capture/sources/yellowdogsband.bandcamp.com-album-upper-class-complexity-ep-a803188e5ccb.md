@@ -4,6 +4,7 @@ title: '"Upper Class Complexity" EP | Yellow Dogs'
 language: en
 publisher: Bandcamp (Yellow Dogs)
 status: processed
+tier: own
 ---
 
 > released May 9, 2012

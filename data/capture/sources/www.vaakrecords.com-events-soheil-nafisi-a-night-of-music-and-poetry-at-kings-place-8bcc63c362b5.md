@@ -4,6 +4,7 @@ title: 'Soheil Nafisi: A Night of Music and Poetry at Kings Place'
 language: en
 publisher: Vaak Records
 status: processed
+tier: own
 archive: https://web.archive.org/web/20260315090336/https://www.vaakrecords.com/events/soheil-nafisi-a-night-of-music-and-poetry-at-kings-place
 ---
 

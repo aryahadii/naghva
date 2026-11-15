@@ -5,7 +5,7 @@ title: Maashoogh e Jan
 status: processed
 kind: web page
 language: mul
-tier: own
+tier: discography
 part of: soundcloud.com-user-194049154-dc96fdedcfe3
 about:
 - Monicki candidate

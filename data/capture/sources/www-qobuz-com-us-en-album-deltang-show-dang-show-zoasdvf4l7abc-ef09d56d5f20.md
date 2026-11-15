@@ -3,7 +3,7 @@ url: https://www.qobuz.com/us-en/album/deltang-show-dang-show/zoasdvf4l7abc
 title: Deltang Show, Dang Show - Qobuz
 kind: web page
 language: en
-tier: primary
+tier: discography
 status: processed
 ---
 

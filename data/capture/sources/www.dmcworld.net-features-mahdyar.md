@@ -6,6 +6,7 @@ language: en
 publisher: DMC World Magazine
 archive: https://web.archive.org/web/*/https://www.dmcworld.net/features/mahdyar/
 status: processed
+tier: journalism
 ---
 
 > At first it wasn’t that serious, we were learning the basics of music, practicing with easier instruments like xylophone and recorder but after a year or two our music teacher told my parents that if I still want to pursue music it’s time for me to choose an instrument and learn classical music. I liked electric guitar (because of Pink Floyd) but the teacher told my parents that I should either choose violin or piano. I chose violin because it looked more similar to electric guitar.

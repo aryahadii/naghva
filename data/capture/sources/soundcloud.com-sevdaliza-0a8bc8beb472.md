@@ -2,7 +2,7 @@
 url: https://soundcloud.com/sevdaliza
 title: Stream SEVDALIZA music | Listen to songs, albums, playlists for free on SoundCloud
 status: processed
-tier: own
+tier: discography
 kind: web page
 about:
 - Sevdaliza

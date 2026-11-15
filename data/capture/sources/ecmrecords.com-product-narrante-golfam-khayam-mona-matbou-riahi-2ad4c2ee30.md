@@ -2,6 +2,7 @@
 url: https://ecmrecords.com/product/narrante-golfam-khayam-mona-matbou-riahi/
 title: Narrante - ECM Records
 status: processed
+tier: own
 archive: https://web.archive.org/web/20260516023414/https://ecmrecords.com/product/narrante-golfam-khayam-mona-matbou-riahi/
 ---
 

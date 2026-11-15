@@ -4,7 +4,7 @@ title: Leila (Nick AM Remix) - Single - Album by Kourosh Yaghmaei & Nick AM - Ap
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Apple Music
 about:
 - Qkza58w

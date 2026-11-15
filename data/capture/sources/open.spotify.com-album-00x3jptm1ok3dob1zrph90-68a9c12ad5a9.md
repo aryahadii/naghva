@@ -4,6 +4,7 @@ title: Dastasho Mosht Karde - Single by Hichkas | Spotify
 language: en
 publisher: Spotify
 status: processed
+tier: discography
 ---
 
 > Dastasho Mosht Karde - Single by Hichkas | Spotify

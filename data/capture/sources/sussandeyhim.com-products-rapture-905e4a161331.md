@@ -4,6 +4,7 @@ title: Rapture Music by Sussan Deyhim
 language: en
 publisher: Sussan Deyhim Gallery
 status: processed
+tier: own
 ---
 
 > Rapture Music by Sussan Deyhim

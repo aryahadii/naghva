@@ -4,6 +4,7 @@ title: Interview With Arsames (Iran)
 language: en
 publisher: The Sickening Art / Samyam Shrestha
 status: processed
+tier: journalism
 ---
 
 > Well, the band had released the debut album “Immortal Identity” in 2010. How have the responses been so far?

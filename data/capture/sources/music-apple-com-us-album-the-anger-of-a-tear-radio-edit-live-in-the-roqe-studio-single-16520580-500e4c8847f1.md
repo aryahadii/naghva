@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/the-anger-of-a-tear-radio-edit-live-in-the
 title: The Anger of a Tear (Radio Edit, Live in the Roqe Studio) - Single — Apple Music
 kind: web page
 language: en
-tier: primary
+tier: discography
 status: processed
 ---
 

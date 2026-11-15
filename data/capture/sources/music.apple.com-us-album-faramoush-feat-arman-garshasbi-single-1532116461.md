@@ -4,6 +4,7 @@ title: Faramoush (feat. Arman Garshasbi) - Single - Album by Kābin - Apple Musi
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 kind: album page
 about:
 - Kābin

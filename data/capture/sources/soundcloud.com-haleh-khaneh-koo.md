@@ -3,7 +3,7 @@ url: https://soundcloud.com/haleh_seyfizadeh/khaneh-koo
 title: Haleh Seyfizadeh-Khaneh Koo
 kind: web page
 language: mul
-tier: own
+tier: discography
 status: processed
 ---
 

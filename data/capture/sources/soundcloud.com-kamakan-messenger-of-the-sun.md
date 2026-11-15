@@ -3,7 +3,7 @@ url: https://soundcloud.com/kamakan/messenger-of-the-sun
 title: Messenger of the Sun — Kamakan
 kind: web page
 language: mul
-tier: own
+tier: discography
 about:
 - Kamakan
 - Q6vgcdn

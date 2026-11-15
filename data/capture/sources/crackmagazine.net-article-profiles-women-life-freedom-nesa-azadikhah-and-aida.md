@@ -3,7 +3,7 @@ url: "https://crackmagazine.net/article/profiles/women-life-freedom-nesa-azadikh
 title: "Woman, Life, Freedom: Nesa Azadikhah and AIDA"
 kind: "web page"
 language: "en"
-tier: "journalism"
+tier: journalism
 status: "processed"
 ---
 

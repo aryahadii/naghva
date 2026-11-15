@@ -3,7 +3,7 @@ url: https://soundcloud.com/dangshow
 title: Dang Show دنگ شو on SoundCloud
 kind: web page
 language: en
-tier: primary
+tier: discography
 status: processed
 ---
 

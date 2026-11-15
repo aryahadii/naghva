@@ -4,6 +4,7 @@ title: Metal Band Arsames Escape Iran After Being Sentenced to 15 Years in Priso
 language: en
 publisher: Loudwire / Graham Hartmann
 status: processed
+tier: journalism
 ---
 
 > We [were] arrested in 2017 when we were in our studio during rehearsal. They moved us to jail that day and [did] not [tell] our family about where we [were] for a week.

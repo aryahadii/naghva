@@ -3,7 +3,7 @@ url: "https://www.reverbnation.com/navidarbabian"
 title: "Navid Arbabian | ReverbNation"
 kind: "web page"
 language: "en"
-tier: "own"
+tier: own
 status: "processed"
 ---
 

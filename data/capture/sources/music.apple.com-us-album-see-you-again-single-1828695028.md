@@ -4,7 +4,7 @@ title: See You Again - Single - Album by &ME, Rampa, Adam Port, Sevdaliza & Kein
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Apple Music
 about:
 - Qf36fnd

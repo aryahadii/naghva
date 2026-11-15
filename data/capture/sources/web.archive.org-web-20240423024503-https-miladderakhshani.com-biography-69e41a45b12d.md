@@ -4,6 +4,7 @@ title: بیوگرافی – Milad Derakhshani
 language: fa
 publisher: Milad Derakhshani (official site, Wayback Machine capture)
 status: processed
+tier: own
 ---
 
 > اولین آلبوم میلاد درخشانی در سال 1386 با نام « افشارستان » منتشر شد

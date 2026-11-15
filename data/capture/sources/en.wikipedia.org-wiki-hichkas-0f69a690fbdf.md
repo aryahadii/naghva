@@ -4,6 +4,7 @@ title: Hichkas
 language: en
 publisher: Wikipedia
 status: processed
+tier: wikipedia
 ---
 
 > Soroush Lashkari (Persian: سروش لشکری; born 9 May 1985), known professionally as Hichkas (هیچ‌کس

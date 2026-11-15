@@ -4,7 +4,7 @@ title: "‎Dooor e Dooor - Album by Hamzeh Yeganeh - Apple Music"
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: "Apple Music"
 about:
 - Q373b9b

@@ -4,7 +4,7 @@ title: "Didaar e Jodaaee.  دیدار جدایی"
 status: processed
 kind: youtube video
 language: mul
-tier: own
+tier: discography
 publisher: "Reza Rohani"
 issued:
   date: '2024-08-06'

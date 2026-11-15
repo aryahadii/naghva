@@ -5,7 +5,7 @@ language: en
 publisher: Apple Music
 status: processed
 kind: web page
-tier: primary
+tier: discography
 ---
 
 > Mad O Nay

@@ -2,6 +2,7 @@
 url: https://music.apple.com/us/album/too-loud-a-solitude-feat-canopus-single/1515827433
 title: Too Loud a Solitude (feat. Canopus) - Single - Album by Salome MC - Apple Music
 status: processed
+tier: discography
 ---
 
 > Listen to Too Loud a Solitude (feat. Canopus) - Single by Salome MC on Apple Music. 2020. 1 Song. Duration: 3 minutes.

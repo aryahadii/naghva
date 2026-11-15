@@ -2,7 +2,7 @@
 url: https://music.apple.com/us/album/1690779992
 title: ‎Ride Or Die (with Villano Antillano) - Single - Album by Sevdaliza & Villano Antillano - Apple Music
 status: processed
-tier: own
+tier: discography
 kind: web page
 about:
 - Sevdaliza

@@ -4,6 +4,7 @@ title: Call a Cab - Album by Kiosk - Apple Music
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > Call a Cab by Kiosk on Apple Music

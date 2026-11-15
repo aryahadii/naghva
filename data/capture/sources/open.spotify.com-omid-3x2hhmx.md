@@ -2,7 +2,7 @@
 url: https://open.spotify.com/album/3X2hhMXHZ9l7GyJdRi5Sws
 title: Omid by Tara Tiba on Spotify
 language: en
-tier: own
+tier: discography
 status: processed
 ---
 

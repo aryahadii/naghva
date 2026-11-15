@@ -3,7 +3,7 @@ url: https://music.apple.com/us/song/arezoo/1564055012
 title: Arezoo — credits
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Qnjntqs
 status: processed

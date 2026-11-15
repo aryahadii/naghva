@@ -4,6 +4,7 @@ title: Gofti Ke | Spotify player
 language: en
 publisher: Spotify
 status: processed
+tier: discography
 ---
 
 > spotify:album:3z2MhkYO5GMwImtfkdlJgm

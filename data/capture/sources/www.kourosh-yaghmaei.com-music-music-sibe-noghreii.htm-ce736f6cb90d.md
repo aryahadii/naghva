@@ -4,6 +4,7 @@ title: Sib Noghreii
 language: fa
 publisher: Kourosh Yaghmaei official website
 status: processed
+tier: own
 ---
 
 > آهنگساز و تنظیم برای ارکستر: کورش یغمایی

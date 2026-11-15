@@ -6,6 +6,7 @@ language: fa
 author: Juma
 publisher: Telegram (Juma)
 status: processed
+tier: own
 accessed: '2026-10-22'
 ---
 

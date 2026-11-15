@@ -4,6 +4,7 @@ title: Ehtemalan Ghahremani Dar Kar Nist (Probably There Is No Hero) - Album by 
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > Listen to Ehtemalan Ghahremani Dar Kar Nist (Probably There Is No Hero) by Bomrani on Apple Music. 2020. 12 Songs. Duration: 52 minutes.

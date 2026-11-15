@@ -5,6 +5,7 @@ language: en
 author: Max Shand
 publisher: PopMatters
 status: processed
+tier: journalism
 ---
 
 > is an American-Iranian electronic producer who refuses to conceal his dual identities.

@@ -2,7 +2,7 @@
 url: https://music.apple.com/us/song/1690779998
 title: ‎Ride Or Die (with Villano Antillano) - Song with Lyrics by Sevdaliza & Villano Antillano - Apple Music
 status: processed
-tier: own
+tier: discography
 kind: web page
 about:
 - Sevdaliza

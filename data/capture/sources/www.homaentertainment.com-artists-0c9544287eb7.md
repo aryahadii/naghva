@@ -4,7 +4,7 @@ title: Artists — Homa Entertainment
 status: processed
 kind: web page
 language: en
-tier: primary
+tier: own
 ---
 
 > Dang Show is an Iranian music band formed in 2007 by two brothers: Taha Parsa, and Shaya Shoja.

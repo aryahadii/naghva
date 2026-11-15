@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/darvag-single/1715126900
 title: Darvag - Single - Album by Makhoola - Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Makhoula
 status: processed

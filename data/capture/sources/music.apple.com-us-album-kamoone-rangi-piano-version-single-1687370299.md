@@ -4,7 +4,7 @@ title: "Kamoone Rangi (Piano Version) - Single - Album by Sara Naeini - Apple Mu
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: "Apple Music"
 about:
 - Qb23qew

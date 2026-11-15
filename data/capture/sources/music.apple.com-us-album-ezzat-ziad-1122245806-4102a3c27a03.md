@@ -4,7 +4,7 @@ title: Ezzat Ziad - Album by Ali Azimi - Apple Music
 language: en
 publisher: Apple Music
 status: processed
-tier: own
+tier: discography
 ---
 
 > Ezzat Ziad - Album by Ali Azimi - Apple Music

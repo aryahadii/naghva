@@ -3,7 +3,7 @@ url: https://soundcloud.com/mahdyar/sets/seized
 title: Seized
 kind: playlist
 language: en
-tier: own
+tier: discography
 publisher: Mahdyar on SoundCloud
 about:
 - Mahdyar

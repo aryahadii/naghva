@@ -4,6 +4,7 @@ title: Cold Season
 language: en
 publisher: Saba Alizadeh Bandcamp
 status: processed
+tier: own
 ---
 
 > The beginning of the Cold Season

@@ -4,7 +4,7 @@ title: Mr. Mean - Album by Ali Azimi - Apple Music
 language: en
 publisher: Apple Music
 status: processed
-tier: own
+tier: discography
 ---
 
 > Mr. Mean - Album by Ali Azimi - Apple Music

@@ -4,6 +4,7 @@ title: Magnetism | YouTube Music
 language: en
 publisher: YouTube Music
 status: processed
+tier: discography
 kind: album page
 about:
 - Kābin

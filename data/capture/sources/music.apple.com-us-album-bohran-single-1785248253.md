@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/bohran-single/1785248253
 title: Bohran - Single - Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Kaveh Yaghmaei
 status: processed

@@ -3,7 +3,7 @@ url: https://soundcloud.com/kamakan/sets/kamakan
 title: Kamakan — official SoundCloud album
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Kamakan
 - Q6vgcdn

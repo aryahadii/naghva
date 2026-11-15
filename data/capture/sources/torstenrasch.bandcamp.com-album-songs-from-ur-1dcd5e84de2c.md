@@ -4,6 +4,7 @@ title: Songs from UR | Sussan Deyhim & Torsten Rasch
 language: en
 publisher: Torsten Rasch
 status: processed
+tier: own
 ---
 
 > all vocals,drones: Sussan Deyhim

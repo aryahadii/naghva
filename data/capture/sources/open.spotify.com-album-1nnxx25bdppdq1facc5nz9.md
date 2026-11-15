@@ -4,7 +4,7 @@ title: Listen to Baroon Barooneh - Single by Kourosh Yaghmaei | Spotify
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Spotify
 about:
 - Qkza58w

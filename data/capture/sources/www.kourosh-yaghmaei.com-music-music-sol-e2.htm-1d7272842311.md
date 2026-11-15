@@ -4,6 +4,7 @@ title: Sol E2
 language: fa
 publisher: Kourosh Yaghmaei official website
 status: processed
+tier: own
 ---
 
 > سل 2

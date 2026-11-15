@@ -4,7 +4,7 @@ title: ‎Airplanes - Single - Album by Sanam Maroufkhani - Apple Music
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Sanam Maroufkhani
 ---

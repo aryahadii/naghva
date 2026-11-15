@@ -5,6 +5,7 @@ language: en
 author: Philip Sherburne
 publisher: Pitchfork
 status: processed
+tier: journalism
 ---
 
 > From listening to his debut album, GUUD , recently released on Olde English Spelling Bee , you wouldn't guess that he had a past as a rebel rocker—much less as a student of Persian classical music.

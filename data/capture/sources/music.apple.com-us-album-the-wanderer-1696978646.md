@@ -5,7 +5,7 @@ title: The Wanderer - Album by Majid Salari - Apple Music
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 ---
 
 > The Wanderer - Album by Majid Salari - Apple Music

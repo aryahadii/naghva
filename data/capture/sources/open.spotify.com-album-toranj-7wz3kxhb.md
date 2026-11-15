@@ -4,6 +4,7 @@ title: Listen to Toranj - Album by Mohsen Namjoo | Spotify
 language: en
 publisher: Spotify
 status: processed
+tier: discography
 ---
 
 > More by Mohsen Namjoo

@@ -4,6 +4,7 @@ title: Sevdaliza
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > ‎Sevdaliza - Apple Music

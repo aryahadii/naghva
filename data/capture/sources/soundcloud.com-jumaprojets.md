@@ -5,6 +5,7 @@ kind: music profile
 author: Jumaprojets
 language: fa
 status: processed
+tier: discography
 accessed: '2026-10-22'
 ---
 

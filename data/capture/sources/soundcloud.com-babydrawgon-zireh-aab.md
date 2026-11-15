@@ -5,7 +5,7 @@ title: Zireh Aab
 status: processed
 kind: web page
 language: mul
-tier: own
+tier: discography
 ---
 
 > Zireh Aab

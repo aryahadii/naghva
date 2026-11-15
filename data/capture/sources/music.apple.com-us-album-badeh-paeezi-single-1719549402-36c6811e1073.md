@@ -4,6 +4,7 @@ title: Badeh Paeezi - Single
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > Badeh Paeezi - Single - Album by Marjan Farsad - Apple Music

@@ -2,6 +2,7 @@
 url: https://music.apple.com/us/search?term=Damahi%20Bi%20Aman
 title: 'Apple Music search: Damahi Bi Aman'
 status: processed
+tier: discography
 publisher: Apple Music
 ---
 

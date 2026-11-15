@@ -4,7 +4,7 @@ title: Listen to Gole Bi Goldoon - A COLORS SHOW - Single by Sevdaliza | Spotify
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Spotify
 about:
 - Qf36fnd

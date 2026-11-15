@@ -4,7 +4,7 @@ title: Shabrang - Album by Sevdaliza - Apple Music
 language: en
 publisher: Apple Music
 status: processed
-tier: own
+tier: discography
 ---
 
 > August 28, 2020

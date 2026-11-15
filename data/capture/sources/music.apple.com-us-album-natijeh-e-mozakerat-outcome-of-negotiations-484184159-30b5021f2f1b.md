@@ -4,6 +4,7 @@ title: Natijeh e Mozakerat (Outcome of Negotiations) - Album by Kiosk - Apple Mu
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > Natijeh e Mozakerat (Outcome of Negotiations) by Kiosk on Apple Music

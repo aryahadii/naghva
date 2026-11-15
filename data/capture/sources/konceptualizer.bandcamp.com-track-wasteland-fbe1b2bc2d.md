@@ -2,6 +2,7 @@
 url: https://konceptualizer.bandcamp.com/track/wasteland
 title: Wasteland | Konceptualizer, Salome MC | Konceptualizer
 status: processed
+tier: own
 ---
 
 > Wasteland, by Konceptualizer, Salome MC

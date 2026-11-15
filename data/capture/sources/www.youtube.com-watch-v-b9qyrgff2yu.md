@@ -2,7 +2,7 @@
 url: https://www.youtube.com/watch?v=b9qyRGFf2YU
 title: Soghati - Marjan Farsad - مرجان فرساد - سوغاتی
 status: processed
-tier: own
+tier: discography
 publisher: Marjan Farsad
 language: mul
 archive: https://web.archive.org/web/20241220120912/https://www.youtube.com/watch?v=b9qyRGFf2YU

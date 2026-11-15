@@ -4,6 +4,7 @@ title: Ye Rooze Khoob Miad - هیچکس يه روز خوب میاد
 language: fa
 publisher: Navahang
 status: processed
+tier: discography
 ---
 
 > Ye Rooze Khoob Miad

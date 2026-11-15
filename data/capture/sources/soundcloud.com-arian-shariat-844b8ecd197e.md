@@ -4,7 +4,7 @@ title: Stream Rian / آرین music | Listen to songs, albums, playlists for fre
 status: processed
 kind: web page
 language: mul
-tier: own
+tier: discography
 ---
 
 > Rian / آرین

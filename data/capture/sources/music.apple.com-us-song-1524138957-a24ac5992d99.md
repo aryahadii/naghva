@@ -2,7 +2,7 @@
 url: https://music.apple.com/us/song/1524138957
 title: ‎Gole Bi Goldoon - Song with Lyrics by Sevdaliza - Apple Music
 status: processed
-tier: own
+tier: discography
 kind: web page
 about:
 - Sevdaliza

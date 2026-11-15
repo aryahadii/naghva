@@ -4,6 +4,7 @@ title: Milad Derakhshani
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > ‎Milad Derakhshani - Apple Music

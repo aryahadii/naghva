@@ -4,6 +4,7 @@ title: ALIBI (FT. PABLLO VITTAR & YSEULT) | Sevdaliza
 language: en
 publisher: Sevdaliza
 status: processed
+tier: own
 ---
 
 > released June 28, 2024

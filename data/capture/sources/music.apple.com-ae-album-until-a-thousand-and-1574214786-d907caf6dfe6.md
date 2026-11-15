@@ -4,7 +4,7 @@ title: Until a Thousand and ... – King Raam – Apple Music
 language: en
 publisher: Apple Music
 status: processed
-tier: own
+tier: discography
 ---
 
 > Until a Thousand and ... - Album by King Raam - Apple Music

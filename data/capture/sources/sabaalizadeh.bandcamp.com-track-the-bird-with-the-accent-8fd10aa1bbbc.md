@@ -4,6 +4,7 @@ title: Bird Accent
 language: en
 publisher: Saba Alizadeh Bandcamp
 status: processed
+tier: own
 ---
 
 > "The bird with the accent"    بلبل لهجه دار

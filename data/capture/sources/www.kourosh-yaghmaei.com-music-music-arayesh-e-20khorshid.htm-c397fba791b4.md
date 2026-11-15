@@ -4,6 +4,7 @@ title: Arayesh-e Khorshid
 language: fa
 publisher: Kourosh Yaghmaei
 status: processed
+tier: own
 ---
 
 > آرایش

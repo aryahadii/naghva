@@ -2,7 +2,7 @@
 url: https://soundcloud.com/hadi-pakzad
 title: Hadi Pakzad | SoundCloud
 status: processed
-tier: own
+tier: discography
 kind: web page
 language: en
 archive: http://web.archive.org/web/20250904171718/https://soundcloud.com/hadi-pakzad

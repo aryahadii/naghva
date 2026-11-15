@@ -4,6 +4,7 @@ title: From Behind the Drums to Behind the Mic — Arsames 2002–2008
 language: en
 publisher: Arsames (Instagram)
 status: processed
+tier: own
 ---
 
 > When I started Arsames in 2002, I was the drummer, and I never planned to become the band's vocalist.

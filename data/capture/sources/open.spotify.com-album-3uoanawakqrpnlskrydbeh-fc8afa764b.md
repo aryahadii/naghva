@@ -2,6 +2,7 @@
 url: https://open.spotify.com/album/3uOaNawakQrpnlsKrYdbEh
 title: Paranoid Descent on Spotify
 status: processed
+tier: discography
 ---
 
 > Paranoid Descent

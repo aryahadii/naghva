@@ -4,6 +4,7 @@ title: 'Ali Azimi: 717'
 publisher: Ali Azimi
 language: mul
 status: processed
+tier: own
 ---
 
 > موزیک ویدئوی 《دیگه وقتش رسیده》- علی عظیمی

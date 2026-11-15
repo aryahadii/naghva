@@ -3,7 +3,7 @@ url: https://soundcloud.com/moodymoussavi/khorous-fesenjan
 title: Khorous Fesenjan - Moody Moussavi
 kind: web page
 language: fa
-tier: own
+tier: discography
 about:
 - Moody Moussavi
 - Khorous Fesenjan

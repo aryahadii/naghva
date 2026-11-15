@@ -5,7 +5,7 @@ title: "Sooper Estar-E Man - Song with Lyrics by Damahi - Apple Music"
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: "Apple Music"
 about:
 - Qep6nz6

@@ -4,7 +4,7 @@ title: Traces of an Old Vineyard Traces of an Old Vineyard (with Tord Gustavsen,
   Mohajer & Ali Rahimi) - Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Traces of an Old Vineyard Traces of an Old Vineyard (with Tord Gustavsen, Shervin
   Mohajer & Ali Rahimi) - Apple Music

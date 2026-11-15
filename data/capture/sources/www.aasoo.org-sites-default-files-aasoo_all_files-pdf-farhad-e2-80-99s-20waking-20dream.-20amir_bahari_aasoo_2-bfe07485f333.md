@@ -4,6 +4,7 @@ title: خواب فرهاد در بیداری
 language: fa
 author: امیر بهاری
 status: processed
+tier: journalism
 ---
 
 > وقتی در۱۰ دی ۱۳۷۳ ، بعد از شانزده سال ، در س ینما ،سپیده روی صحنه رفت

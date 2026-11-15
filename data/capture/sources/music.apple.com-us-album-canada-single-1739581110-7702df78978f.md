@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/canada-single/1739581110
 title: Canada - Single - Album by Makhoola - Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Makhoula
 status: processed

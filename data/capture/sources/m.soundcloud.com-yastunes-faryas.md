@@ -2,6 +2,7 @@
 url: https://m.soundcloud.com/yastunes/yas-faryas-faryad-e-yas-shout
 title: YAS - FARYAS (Faryad E YAS) - "SHOUT"
 status: processed
+tier: discography
 publisher: m.soundcloud.com
 ---
 

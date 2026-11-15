@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/sogand-feat-ehsan-neyzan-majid-salari/1201
 title: Sogand — exact guest billing
 kind: web page
 language: mul
-tier: platform
+tier: discography
 status: processed
 ---
 

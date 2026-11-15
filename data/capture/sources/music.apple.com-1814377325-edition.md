@@ -5,7 +5,7 @@ kind: web page
 language: en
 publisher: Apple Music
 status: processed
-tier: own
+tier: discography
 about:
 - Q97bqaq
 ---

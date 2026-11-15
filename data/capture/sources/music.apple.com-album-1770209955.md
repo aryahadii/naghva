@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/hand-in-hand-live-at-hatra-2024/1770209955
 title: Hand In Hand (Live at Hatra 2024) | Apple Music
 kind: web page
 language: en
-tier: primary
+tier: discography
 about:
 - حمزه یگانه
 status: processed

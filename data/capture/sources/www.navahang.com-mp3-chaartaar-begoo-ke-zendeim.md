@@ -3,7 +3,7 @@ url: https://www.navahang.com/mp3/chaartaar-begoo-ke-zendeim/
 title: Begoo Ke Zendeim by Chaartaar on Navahang | چارتار بگو که زنده ایم
 kind: web page
 language: fa
-tier: own
+tier: discography
 about:
 - Qb3nvrj
 status: processed

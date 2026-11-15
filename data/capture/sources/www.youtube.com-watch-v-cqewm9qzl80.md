@@ -3,7 +3,7 @@ url: https://www.youtube.com/watch?v=cqEWM9Qzl80
 title: Hichkas - Ma Edame Darim
 kind: youtube video
 language: en
-tier: own
+tier: discography
 status: processed
 accessed: '2026-10-23'
 author: Hichkas

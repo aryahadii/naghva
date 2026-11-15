@@ -3,7 +3,7 @@ url: https://www.youtube.com/watch?v=Ucof9Gyo_xo
 title: Ali Azimi - Salam (Official Lyrics Video) علی عظیمی - سلام
 kind: web page
 language: mul
-tier: own
+tier: discography
 status: processed
 archive: https://web.archive.org/web/*/https://www.youtube.com/watch?v=Ucof9Gyo_xo
 publisher: Ali Azimi

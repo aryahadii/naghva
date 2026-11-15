@@ -2,7 +2,7 @@
 url: https://soundcloud.com/sevdaliza/sets/shabrang-1
 title: Stream SEVDALIZA | Listen to Shabrang playlist online for free on SoundCloud
 status: processed
-tier: own
+tier: discography
 kind: web page
 about:
 - Sevdaliza

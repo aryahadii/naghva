@@ -4,6 +4,7 @@ title: Salome MC
 language: en
 publisher: Wikipedia
 status: processed
+tier: wikipedia
 ---
 
 > Salome MC (Persian: سالومه ام‌سی; born 1985) is an Iranian rapper, producer,

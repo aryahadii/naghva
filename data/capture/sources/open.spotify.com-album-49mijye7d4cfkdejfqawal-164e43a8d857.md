@@ -2,7 +2,7 @@
 url: https://open.spotify.com/album/49MiJYe7d4CfKDeJFqAWal
 title: Listen to HEROINA - Album by Sevdaliza | Spotify
 status: processed
-tier: own
+tier: discography
 kind: web page
 about:
 - Sevdaliza

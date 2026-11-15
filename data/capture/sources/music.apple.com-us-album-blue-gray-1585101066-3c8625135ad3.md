@@ -4,7 +4,7 @@ title: Blue Gray
 language: en
 publisher: Apple Music
 status: processed
-tier: own
+tier: discography
 ---
 
 > Blue Gray

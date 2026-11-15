@@ -2,6 +2,7 @@
 url: https://www.youtube.com/watch?v=nIsBkMnwPVs
 title: Salome Mc - Price of Freedom ft. SplytSecond | بهای رهایی - YouTube
 status: processed
+tier: discography
 archive: https://web.archive.org/web/20260610224925/https://www.youtube.com/watch?v=nIsBkMnwPVs
 ---
 

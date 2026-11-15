@@ -4,6 +4,7 @@ title: 'E-HUM: O-Hum Remixes (1999/2009)'
 language: en
 publisher: Spotify
 status: processed
+tier: discography
 ---
 
 > Listen to E-HUM: O-Hum Remixes (1999/2009) - Album by O-Hum | Spotify

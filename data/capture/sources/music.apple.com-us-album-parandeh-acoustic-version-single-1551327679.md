@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/parandeh-acoustic-version-single/155132767
 title: Parandeh (Acoustic Version) - Single - Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Kaveh Yaghmaei
 status: processed

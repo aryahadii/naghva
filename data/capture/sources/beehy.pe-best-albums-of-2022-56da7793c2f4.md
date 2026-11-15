@@ -3,6 +3,7 @@ url: https://beehy.pe/best-albums-of-2022/
 archive: "https://web.archive.org/web/20260415092238/https://beehy.pe/best-albums-of-2022/"
 title: https://beehy.pe/best-albums-of-2022/
 status: processed
+tier: journalism
 ---
 
 > • Jetpack – “Kafi Nist”

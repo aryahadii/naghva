@@ -4,6 +4,7 @@ title: Ali Azimi | Kahrobaye Arezou
 language: fa
 publisher: Ali Azimi
 status: processed
+tier: own
 ---
 
 > آلبوم «کهربای آرزو»، ۴ خرداد ۱۴۰۱ / May 25, 2022 منتشر شد.

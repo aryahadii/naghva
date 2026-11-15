@@ -3,6 +3,7 @@ url: https://soundcloud.com/marjan-farsad/badeh-paeezi-marjan-farsad
 title: Badeh Paeezi - Marjan farsad - مرجان فرساد - باد پاییزی
 publisher: Marjan Farsad
 status: processed
+tier: discography
 ---
 
 > Music, Lyrics: Marjan Farsad

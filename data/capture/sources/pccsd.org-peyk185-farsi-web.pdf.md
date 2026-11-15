@@ -4,6 +4,7 @@ title: Peyk 185 — Persian Cultural Center news, November 2019 concert report
 publisher: Persian Cultural Center of San Diego
 language: fa
 status: processed
+tier: other
 ---
 
 > کنسرت محسن نامجو و احسان مطوری در سالن کوالکام سن دیگو برگزار شد.
