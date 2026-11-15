@@ -9,7 +9,7 @@ about:
 status: processed
 ---
 
-> Listen to Hand In Hand (Live at Hatra 2024) by Hamzeh Yeganeh, Idin Sadeghzadeh &amp; Amin Taheri on Apple Music. 2024. 12 Songs. Duration: 1 hour 2 minutes.
+> Listen to Hand In Hand (Live at Hatra 2024) by Hamzeh Yeganeh, Idin Sadeghzadeh & Amin Taheri on Apple Music. 2024. 12 Songs. Duration: 1 hour 2 minutes.
 
 > "datePublished":"2024-09-20"
 

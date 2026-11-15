@@ -135,6 +135,22 @@ class ValidateTests(unittest.TestCase):
             "badnama.en.md: file name must be <item ID>.<language tag>.md",
         )
 
+    def test_accessed_dates(self):
+        import datetime
+        def name(accessed):
+            ref = dict(SARA_NAME["references"][0], accessed=accessed)
+            return dict(SARA_NAME, references=[ref])
+        today = datetime.datetime.now(datetime.timezone.utc).date()
+        self.write_item(SARA, "person", {"name": [name((today + datetime.timedelta(days=1)).isoformat())]})
+        self.assertEqual(self.run_validator().errors, [])
+        self.write_item(SARA, "person", {"name": [name((today + datetime.timedelta(days=2)).isoformat())]})
+        self.assertOnlyError(self.run_validator(), "`accessed` is in the future")
+        self.write_item(SARA, "person", {"name": [name("2007-08-07")]})
+        report = self.run_validator()
+        self.assertEqual(report.errors, [])
+        self.assertEqual(len(report.warnings), 1)
+        self.assertIn("before 2025", report.warnings[0])
+
     def test_tier_is_from_the_list(self):
         self.edit("capture/sources/example.net-lyrics-badnama.md", "tier: other", "tier: press")
         self.assertOnlyError(self.run_validator(), "tier: 'press' is not one of")
