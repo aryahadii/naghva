@@ -9,8 +9,10 @@
 //   add     Download each image the record uses that media.json lacks, keep
 //           the original in media-cache/, add it to media.json, and drop
 //           entries the record no longer uses. No key needed.
-//   upload  Put originals missing from the bucket, and delete bucket objects
-//           media.json no longer lists. Needs the write key.
+//   upload  Put originals missing from the bucket. Never deletes. Needs the
+//           write key.
+//   prune   List bucket originals that neither this media.json nor main's
+//           lists. Deletes them only with --delete. Needs the write key.
 //   fetch   Download originals missing from media-cache/. Needs the read key;
 //           without one it does nothing, unless the build requires media.
 //   build   Make the WebP copies in public/media/ from media-cache/.
@@ -19,6 +21,7 @@
 // R2_ACCESS_KEY_ID, R2_SECRET_ACCESS_KEY, and R2_BUCKET (default naghva-media).
 // NAGHVA_MEDIA_REQUIRED=1 makes fetch and build fail unless every image the
 // record uses has its own copy, so a deploy never falls back to a publisher.
+import { execFileSync } from 'node:child_process';
 import { createHash } from 'node:crypto';
 import { copyFileSync, existsSync, mkdirSync, readdirSync, readFileSync, rmSync, writeFileSync } from 'node:fs';
 import { homedir } from 'node:os';
@@ -198,11 +201,38 @@ async function upload() {
     put++;
     console.log(`media: uploaded ${key}`);
   }
-  let removed = 0;
-  for (const key of await r2.list('originals/')) {
-    if (!wanted.has(key)) { await r2.remove(key); removed++; console.log(`media: deleted ${key}`); }
+  console.log(`media: ${put} uploaded, ${wanted.size} listed. Run npm run media:prune to see what the bucket holds beyond that.`);
+}
+
+/** Bucket keys that no manifest lists. The bucket is the only copy of each original. */
+export function orphans(keys, ...manifests) {
+  const wanted = new Set(manifests.flatMap((manifest) => Object.values(manifest).map(objectKey)));
+  return keys.filter((key) => !wanted.has(key));
+}
+
+/** main's media.json, fetched fresh, so a branch behind main cannot delete what main uses. */
+function mainManifest() {
+  try {
+    execFileSync('git', ['fetch', '--quiet', 'origin', 'main'], { stdio: ['ignore', 'ignore', 'inherit'] });
+    return JSON.parse(execFileSync('git', ['show', 'FETCH_HEAD:site/media.json'], { encoding: 'utf8', maxBuffer: 64 * 1024 * 1024 }));
+  } catch (error) {
+    throw new Error(`media: cannot read main's media.json (${error.message.split('\n')[0]}); nothing deleted`);
   }
-  console.log(`media: ${put} uploaded, ${removed} deleted, ${wanted.size} in the bucket`);
+}
+
+async function prune() {
+  const remove = process.argv.includes('--delete');
+  const r2 = await bucket();
+  if (!r2) throw new Error('media: set R2_ACCOUNT_ID, R2_ACCESS_KEY_ID and R2_SECRET_ACCESS_KEY (the write key)');
+  const stale = orphans(await r2.list('originals/'), readManifest(), mainManifest());
+  if (!stale.length) return console.log('media: every original in the bucket is listed here or on main');
+  for (const key of stale) {
+    if (remove) await r2.remove(key);
+    console.log(`media: ${remove ? 'deleted' : 'would delete'} ${key}`);
+  }
+  console.log(remove
+    ? `media: deleted ${stale.length} originals`
+    : `media: ${stale.length} originals are listed neither here nor on main. The bucket is their only copy; run npm run media:prune -- --delete to delete them.`);
 }
 
 async function fetchOriginals() {
@@ -283,7 +313,7 @@ async function build() {
   console.log(`media: made ${made} copies, reused ${reused} cached copies${missing ? `; ${missing} images without an original show from their publishers` : ''}`);
 }
 
-const commands = { add, upload, fetch: fetchOriginals, build };
+const commands = { add, upload, prune, fetch: fetchOriginals, build };
 const command = commands[process.argv[2]];
 if (process.argv[1]?.endsWith('media.mjs')) {
   if (!command) {
