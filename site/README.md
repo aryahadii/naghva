@@ -289,9 +289,10 @@ value disables analytics. Never put a personal API key in either variable.
 `PUBLIC_POSTHOG_HOST` is either PostHog's host (`https://eu.i.posthog.com`) or
 `/relay`, the site's own address for events: `worker/relay.ts` forwards event
 posts under `/relay/` to PostHog EU, with the visitor's IP for the cookieless
-hash and without cookies or other headers, and nothing else. It lets readers
-whose blockers or networks stop PostHog's address still be counted. It runs
-only for `/relay/*`; every other request is served as static files.
+hash and their country, without cookies or other headers, and nothing else. It
+lets readers whose blockers or networks stop PostHog's address still be
+counted. It runs only for `/relay/*`; every other request is served as static
+files.
 In PostHog's Project > Web analytics settings, enable cookieless tracking before
 releasing a configured build; otherwise PostHog discards these events.
 
@@ -320,8 +321,11 @@ search text, person updates, and link destination URLs are excluded.
 [Cookieless tracking](https://posthog.com/tutorials/cookieless-tracking) estimates
 visitors with a server-side daily hash of the IP, user agent and hostname. It
 cannot reliably measure returning users across days; shared networks can merge
-visitors, while changing networks can split them. GeoIP and IP-based bot detection
-are unavailable, so traffic-source reporting does not include a country map.
+visitors, while changing networks can split them. PostHog drops the IP of
+cookieless events before its own GeoIP lookup, so the relay adds the visitor's
+country (code and name only, never region or city) from Cloudflare instead;
+events sent straight to PostHog have no country. IP-based bot detection is
+unavailable.
 The network request still reaches PostHog with an IP and user agent to derive that
 hash. The payload retains `$raw_user_agent` only for cookieless events because
 PostHog requires it as a hash input and removes it after hashing; cookieless is
