@@ -37,6 +37,11 @@ test('root redirect preserves sanitized attribution without copying unknown para
   assert.equal(landingSearch('?q=private', 'javascript:private', 'https://naghva.com'), '');
   // A direct visit cannot spoof the redirect hint.
   assert.equal(trafficProperties(`https://naghva.com/fa/${search}`, '').$referring_domain, '$direct');
+  // Typing the bare address goes through the root redirect with no hint: direct, not the site itself.
+  const typed = landingSearch('', '', 'https://naghva.com');
+  assert.equal(trafficProperties(`https://naghva.com/en/${typed}`, 'https://naghva.com/').$referring_domain, '$direct');
+  // A click between pages is still an internal referrer.
+  assert.equal(trafficProperties('https://naghva.com/en/artists/', 'https://naghva.com/en/').$referring_domain, 'naghva.com');
 });
 
 test('the README link stays attributable through either language redirect and the final payload', () => {
