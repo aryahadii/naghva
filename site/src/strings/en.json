@@ -98,6 +98,27 @@
     "creditedTo": "by {names}",
     "with": "with {names}"
   },
+  "share": {
+    "share": "Share",
+    "close": "Close",
+    "text": "{name} on Naghva",
+    "story": "Stories",
+    "storyTitle": "Make a story image for Instagram",
+    "telegram": "Telegram",
+    "whatsapp": "WhatsApp",
+    "x": "X",
+    "facebook": "Facebook",
+    "more": "More",
+    "copy": "Copy",
+    "copied": "Copied",
+    "copyManual": "Press Ctrl+C (⌘C on a Mac) to copy the link.",
+    "preparing": "Making the story image…",
+    "storyPhone": "Choose Instagram, then Story. The link is copied: paste it into a Link sticker.",
+    "storyPhoneNoCopy": "Choose Instagram, then Story. To add the link, copy it below and use a Link sticker.",
+    "storyDesktop": "Story image downloaded and link copied. Post it from your phone and add the link with a Link sticker.",
+    "storyDesktopNoCopy": "Story image downloaded. Post it from your phone and add the link below with a Link sticker.",
+    "failed": "This browser couldn't make the story image."
+  },
   "release": {
     "release": "Release",
     "dateDisagreement": "Sources give different dates; an edition date may differ from the original release.",
