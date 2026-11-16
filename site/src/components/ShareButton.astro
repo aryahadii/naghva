@@ -53,9 +53,8 @@ const shown = address.replace(/^https?:\/\//, '').replace(/\/$/, '');
 ---
 
 <div class="share">
-  <button class="pill share-open" type="button" popovertarget="share-menu" aria-haspopup="dialog">
+  <button class="pill share-open" type="button" popovertarget="share-menu" aria-haspopup="dialog" aria-label={t.share} title={t.share}>
     <svg class="share-glyph" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12 15V3.5M7.5 8 12 3.5 16.5 8M8 11H6.5A2.5 2.5 0 0 0 4 13.5v5A2.5 2.5 0 0 0 6.5 21h11a2.5 2.5 0 0 0 2.5-2.5v-5a2.5 2.5 0 0 0-2.5-2.5H16" /></svg>
-    {t.share}
   </button>
   <div class="share-menu" id="share-menu" popover role="dialog" aria-labelledby="share-heading" data-story={JSON.stringify(story)}>
     <span class="share-grab" aria-hidden="true"></span>
