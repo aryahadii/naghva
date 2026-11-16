@@ -1,9 +1,11 @@
 ---
 url: https://music.apple.com/us/album/motantan/1502162077
+archive: https://web.archive.org/web/20250706170520/https://music.apple.com/us/album/motantan/1502162077
 title: Motantan - Album by Mohsen Namjoo - Apple Music
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > Motantan

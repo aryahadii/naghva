@@ -1,5 +1,6 @@
 ---
 url: https://www.musicexport.at/artist/mahan-mirarab/
+archive: https://web.archive.org/web/20260717205153/https://www.musicexport.at/artist/mahan-mirarab/
 title: ' Mahan Mirarab - Austrian Music Export Skip to content facebook instagram YouTube Spotify SoundCloud'
 kind: web page
 language: en

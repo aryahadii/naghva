@@ -1,5 +1,6 @@
 ---
 url: https://www.melo-app.com/en/notice/kamakan
+archive: https://web.archive.org/web/20261115164605/https://www.melo-app.com/en/notice/kamakan
 title: Kamakan — Mélo
 kind: web page
 language: en

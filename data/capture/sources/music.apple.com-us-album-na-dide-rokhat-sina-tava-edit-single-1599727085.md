@@ -4,7 +4,7 @@ title: Na Dide Rokhat (Sina Tava Edit) - Single - Album by Mohsen Namjoo - Apple
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Apple Music
 about:
 - Qt6wjbg

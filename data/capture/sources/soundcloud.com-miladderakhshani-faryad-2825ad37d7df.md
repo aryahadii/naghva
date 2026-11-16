@@ -3,7 +3,7 @@ url: https://soundcloud.com/miladderakhshani/faryad
 title: Faryad — joint SoundCloud release
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Qnjntqs
 status: processed

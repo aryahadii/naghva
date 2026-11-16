@@ -2,6 +2,7 @@
 url: https://music.apple.com/us/album/move-premieres/1891460410
 title: MoVE Premieres - Album by MoVE Modern Violin Ensemble - Apple Music
 status: processed
+tier: discography
 archive: https://web.archive.org/web/20260911042655/https://music.apple.com/us/album/move-premieres/1891460410
 ---
 

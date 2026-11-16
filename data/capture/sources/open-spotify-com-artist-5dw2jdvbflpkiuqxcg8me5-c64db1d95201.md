@@ -1,9 +1,11 @@
 ---
 url: https://open.spotify.com/artist/5dW2jDVBFLpKiUqXCg8ME5
+archive: https://web.archive.org/web/20261109103212/https://open.spotify.com/artist/5dW2jDVBFLpKiUqXCg8ME5
 title: Arsames
 language: en
 publisher: Spotify
 status: processed
+tier: discography
 ---
 
 > Albums

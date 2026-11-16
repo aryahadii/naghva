@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/mirza-ghasemi-single/1581122909
 title: ‎Mirza Ghasemi - Single - Album by Moody Moussavi - Apple Music
 kind: web page
 language: mul
-tier: streaming
+tier: discography
 status: processed
 ---
 

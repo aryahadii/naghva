@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/a-capella-the-sun-will-rise-single/1092878
 title: A Capella - The Sun Will Rise - Single - Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - A Capella - The Sun Will Rise - Single - Apple Music
 status: processed

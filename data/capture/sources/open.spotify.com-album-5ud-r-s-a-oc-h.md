@@ -2,7 +2,7 @@
 url: https://open.spotify.com/album/5udKrXYsDGaFPIXUocQVGh
 title: Listen to La Belle et La Bete - Album by Sussan Deyhim | Spotify
 status: processed
-tier: own
+tier: discography
 publisher: open.spotify.com
 ---
 

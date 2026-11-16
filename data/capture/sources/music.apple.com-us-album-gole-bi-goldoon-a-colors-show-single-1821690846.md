@@ -4,7 +4,7 @@ title: Gole Bi Goldoon - A COLORS SHOW - Single - Album by Sevdaliza - Apple Mus
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Apple Music
 about:
 - Qf36fnd

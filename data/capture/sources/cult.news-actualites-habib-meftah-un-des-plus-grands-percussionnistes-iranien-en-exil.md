@@ -1,9 +1,10 @@
 ---
 url: "https://cult.news/actualites/habib-meftah-un-des-plus-grands-percussionnistes-iranien-en-exil-raconte-la-brutalite-tortionnaire-de-la-republique-islamique/"
+archive: https://web.archive.org/web/20260809141611/https://cult.news/actualites/habib-meftah-un-des-plus-grands-percussionnistes-iranien-en-exil-raconte-la-brutalite-tortionnaire-de-la-republique-islamique/
 title: "Habib Meftah, un des plus grands percussionnistes iranien en exil"
 kind: "web page"
 language: "fr"
-tier: "journalism"
+tier: journalism
 status: "processed"
 ---
 

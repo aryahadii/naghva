@@ -3,7 +3,7 @@ url: https://music.apple.com/us/song/arezoo-feat-arash-dara-tara-salahi/17608884
 title: Arezoo - Mehrad Hidden
 kind: web page
 language: en
-tier: other
+tier: discography
 about:
 - Tara Salahi
 - Arezoo

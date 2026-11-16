@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/tofang-e-dasteh-noghreh-feat-hamzeh-yegane
 title: Tofang-e Dasteh Noghreh — Apple release edition
 kind: web page
 language: mul
-tier: platform
+tier: discography
 status: processed
 ---
 

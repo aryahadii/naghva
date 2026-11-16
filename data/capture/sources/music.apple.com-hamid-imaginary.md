@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/imaginary-knots/626544703
 title: Imaginary Knots - Hamid Saeidi
 kind: web page
 language: en
-tier: own
+tier: discography
 status: processed
 publisher: music.apple.com
 ---

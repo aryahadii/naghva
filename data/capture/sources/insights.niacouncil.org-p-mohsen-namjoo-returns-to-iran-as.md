@@ -1,5 +1,6 @@
 ---
 url: https://insights.niacouncil.org/p/mohsen-namjoo-returns-to-iran-as
+archive: https://web.archive.org/web/20261115142537/https://insights.niacouncil.org/p/mohsen-namjoo-returns-to-iran-as
 title: Mohsen Namjoo Returns to Iran as Culture Minister Announces New Policy for Diaspora Figures
 kind: web page
 language: en

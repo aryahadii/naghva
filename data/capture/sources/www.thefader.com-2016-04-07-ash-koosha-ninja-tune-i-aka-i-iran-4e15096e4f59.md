@@ -1,9 +1,10 @@
 ---
 url: https://www.thefader.com/2016/04/07/ash-koosha-ninja-tune-i-aka-i-iran
+archive: https://web.archive.org/web/20251213080357/https://www.thefader.com/2016/04/07/ash-koosha-ninja-tune-i-aka-i-iran
 title: This Is What It’s Really Like To Be A Musician In Iran | The FADER
 kind: web page
 language: en
-tier: press
+tier: journalism
 status: processed
 ---
 

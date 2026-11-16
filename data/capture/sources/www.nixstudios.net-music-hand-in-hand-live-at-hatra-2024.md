@@ -3,7 +3,7 @@ url: https://www.nixstudios.net/music/hand-in-hand-live-at-hatra-2024
 title: Hand In Hand (Live at Hatra 2024) | Nix Studios
 kind: web page
 language: en
-tier: primary
+tier: own
 about:
 - حمزه یگانه
 status: processed

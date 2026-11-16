@@ -3,7 +3,7 @@ url: https://www.youtube.com/watch?v=Za3alyFmQ7w
 title: III  Allegro - kaveh salehi
 kind: youtube video
 language: en
-tier: own
+tier: discography
 about:
 - Kaveh Salehi
 status: processed

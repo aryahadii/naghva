@@ -5,7 +5,7 @@ title: Oddi [Prod. Rian]
 status: processed
 kind: web page
 language: mul
-tier: own
+tier: discography
 ---
 
 > Oddi [Prod. Rian]

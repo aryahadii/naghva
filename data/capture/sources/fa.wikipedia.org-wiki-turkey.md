@@ -1,5 +1,6 @@
 ---
 url: https://fa.wikipedia.org/wiki/%D8%AA%D8%B1%DA%A9%DB%8C%D9%87
+archive: https://web.archive.org/web/20261103015326/https://fa.wikipedia.org/wiki/%D8%AA%D8%B1%DA%A9%DB%8C%D9%87
 title: "ترکیه"
 kind: web page
 language: fa

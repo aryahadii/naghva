@@ -5,7 +5,7 @@ title: Stream Koja - Golsa feat. Taha Mazaheri by Golsa | Listen online for free
 status: processed
 kind: web page
 language: mul
-tier: own
+tier: discography
 ---
 
 > Guitars : Taha Mazaheri

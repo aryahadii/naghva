@@ -1,5 +1,6 @@
 ---
 url: https://www.dw.com/fa-ir/a-3311081
+archive: https://web.archive.org/web/20261115162028/https://www.dw.com/fa-ir/%D9%85%D9%88%D8%B3%DB%8C%D9%82%DB%8C-%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6-%D9%88-%D9%88%D8%A7%D9%82%D8%B9%DB%8C%D8%AA-%D9%85%D9%88%D9%81%D9%82%DB%8C%D8%AA-%D8%AA%D8%B1%D8%A7%D9%86%D9%87-%D8%B1%D9%BE-%D9%85%D8%A7-%D9%85%D8%B1%D8%AF-%D9%86%DB%8C%D8%B3%D8%AA%DB%8C%D9%85/a-3311081
 title: 'موسیقی اعتراض و واقعیت: موفقیت ترانه رپ «ما مرد نیستیم»'
 kind: web page
 language: fa

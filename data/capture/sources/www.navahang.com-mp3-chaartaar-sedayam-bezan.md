@@ -1,9 +1,10 @@
 ---
 url: https://www.navahang.com/mp3/chaartaar-sedayam-bezan/
+archive: https://web.archive.org/web/20250622233637/https://www.navahang.com/mp3/chaartaar-sedayam-bezan/
 title: Sedayam Bezan by Chaartaar on Navahang | چارتار صدایم بزن
 kind: web page
 language: fa
-tier: own
+tier: discography
 about:
 - Qb3nvrj
 status: processed

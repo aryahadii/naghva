@@ -4,7 +4,7 @@ title: ‎Bahar Delkash (feat. Golsa) - Single - Album by Behzad Danesh - Apple 
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Golsa
 ---

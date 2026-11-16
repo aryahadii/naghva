@@ -4,7 +4,7 @@ title: Sanam Maroufkhani Featuring Emma - The Poem From This Port (Let Her SingÂ
 status: processed
 kind: youtube video
 language: en
-tier: own
+tier: discography
 issued:
   date: "2024-05-07"
 about: [Sanam Maroufkhani]

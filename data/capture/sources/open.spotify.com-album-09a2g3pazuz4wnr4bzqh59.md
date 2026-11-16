@@ -1,10 +1,11 @@
 ---
 url: https://open.spotify.com/album/09a2G3PazUZ4wnr4BZqh59
+archive: https://web.archive.org/web/20250901144935/https://open.spotify.com/album/09a2G3PazUZ4wnr4BZqh59
 title: Listen to Daro Va Kon - Single by Kiosk | Spotify
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Spotify
 about:
 - Qtgn2be

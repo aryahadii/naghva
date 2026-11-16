@@ -4,7 +4,7 @@ title: "Sanam Maroufkhani | Salam Music & Arts Festival"
 status: "processed"
 kind: "web page"
 language: "en"
-tier: "own"
+tier: own
 about: ["Sanam Maroufkhani", "Avin Ahmadi"]
 ---
 

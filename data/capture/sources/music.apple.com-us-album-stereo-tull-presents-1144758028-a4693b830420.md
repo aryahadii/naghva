@@ -1,9 +1,11 @@
 ---
 url: https://music.apple.com/us/album/stereo-tull-presents/1144758028
+archive: https://web.archive.org/web/20251014085219/https://music.apple.com/us/album/stereo-tull-presents/1144758028
 title: Stereo Tull Presents - Album by Kiosk - Apple Music
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > Stereo Tull Presents by Kiosk on Apple Music

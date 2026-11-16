@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/bi-baha-single/1621560015
 title: Bi Baha - Single
 kind: web page
 language: en
-tier: primary
+tier: discography
 status: processed
 ---
 

@@ -4,7 +4,7 @@ title: Labat Che Gooyad? - Piano Version - song and lyrics by Soofi Namazi, Aras
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Soofi Namazi
 - صوفی نمازی

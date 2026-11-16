@@ -3,7 +3,7 @@ url: https://www.youtube.com/playlist?list=OLAK5uy_lFYmPz5GX0-0tAljJXfmpTKcgMBzg
 title: Taghat Biar - YouTube
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Kaveh Yaghmaei
 status: processed

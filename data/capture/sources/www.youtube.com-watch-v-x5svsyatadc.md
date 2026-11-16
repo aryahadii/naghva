@@ -5,7 +5,7 @@ title: "Peyman Salimi ft. Sara Naeini - Tab  (Official Visualizer)"
 status: processed
 kind: youtube video
 language: mul
-tier: own
+tier: discography
 publisher: "Peyman Salimi"
 issued:
   date: '2023-05-15'

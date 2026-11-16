@@ -1,10 +1,11 @@
 ---
 url: https://music.apple.com/us/album/aman-feat-hamed-nikpay-single/1479686658
+archive: https://web.archive.org/web/20250916210345/https://music.apple.com/us/album/aman-feat-hamed-nikpay-single/1479686658
 title: Aman (feat. Hamed Nikpay) - Single - Album by Shahin Najafi - Apple Music
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Apple Music
 about:
 - Qn7vfak

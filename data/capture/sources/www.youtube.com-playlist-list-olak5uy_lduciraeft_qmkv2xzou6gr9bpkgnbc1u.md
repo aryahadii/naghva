@@ -3,7 +3,7 @@ url: https://www.youtube.com/playlist?list=OLAK5uy_lDUCiRaEFt_QMkv2XZOu6Gr9BpkgN
 title: Manshour - YouTube
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Kaveh Yaghmaei
 status: processed

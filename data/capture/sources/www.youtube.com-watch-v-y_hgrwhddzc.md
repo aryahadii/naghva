@@ -4,7 +4,7 @@ title: Zireh Aab — BabyDrawgon - Topic
 status: processed
 kind: youtube video
 language: en
-tier: own
+tier: discography
 ---
 
 > Zireh Aab

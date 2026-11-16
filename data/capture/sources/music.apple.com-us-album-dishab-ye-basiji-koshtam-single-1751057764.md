@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/dishab-ye-basiji-koshtam-single/1751057764
+archive: https://web.archive.org/web/20250702204003/https://music.apple.com/us/album/dishab-ye-basiji-koshtam-single/1751057764
 title: Dishab Ye Basiji Koshtam - Single by Hichkas on Apple Music
 kind: web page
 language: en

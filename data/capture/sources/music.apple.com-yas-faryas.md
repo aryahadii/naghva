@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/faryas-faryade-yas-shout-%D9%81%D8%B1%DB%8
 title: Faryas (Faryade Yas) - Shout - فریاد یاس - Single
 kind: web page
 language: en
-tier: own
+tier: discography
 status: processed
 publisher: music.apple.com
 ---

@@ -1,10 +1,11 @@
 ---
 url: https://open.spotify.com/album/4uDNkCSjljxFErO2WUdDoG
+archive: https://web.archive.org/web/20250711194115/https://open.spotify.com/album/4uDNkCSjljxFErO2WUdDoG
 title: Listen to Trust the Tangerine Peel - Album by Mohsen Namjoo | Spotify
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Spotify
 about:
 - Qt6wjbg

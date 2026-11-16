@@ -4,7 +4,7 @@ title: Strawberry Cheesecake (feat. Yas) - Single - Album by Astrobonz - Apple M
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Apple Music
 about:
 - Qx3svqf

@@ -1,5 +1,6 @@
 ---
 url: https://www.ccmusic.com/azam-ali-from-night-to-the-edge-of-day/657036117723
+archive: https://web.archive.org/web/20261115161624/https://www.ccmusic.com/azam-ali-from-night-to-the-edge-of-day/657036117723
 title: Azam Ali, From Night To The Edge Of Day
 kind: web page
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://www.tickettailor.com/events/musicindiaspora1/1584709
+archive: https://web.archive.org/web/20250313012744/https://www.tickettailor.com/events/musicindiaspora1/1584709
 title: Nowruz 1404 w/ GOLSA
 status: processed
 kind: web page

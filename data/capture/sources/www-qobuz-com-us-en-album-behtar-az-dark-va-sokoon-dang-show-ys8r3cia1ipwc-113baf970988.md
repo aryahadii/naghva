@@ -3,7 +3,7 @@ url: https://www.qobuz.com/us-en/album/behtar-az-dark-va-sokoon-dang-show/ys8r3c
 title: Behtar az Dark va Sokoon, Dang Show - Qobuz
 kind: web page
 language: en
-tier: primary
+tier: discography
 status: processed
 ---
 

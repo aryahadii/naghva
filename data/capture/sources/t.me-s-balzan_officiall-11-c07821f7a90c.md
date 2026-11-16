@@ -1,5 +1,6 @@
 ---
 url: https://t.me/s/balzan_officiall/11
+archive: https://web.archive.org/web/20251221202256/https://t.me/s/balzan_officiall/11
 title: 'Balzan: پایان: original artist credits'
 status: processed
 kind: telegram post

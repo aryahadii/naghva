@@ -1,8 +1,9 @@
 ---
 url: https://music.apple.com/us/album/raving-dahlia-ep/1597669944
+archive: https://web.archive.org/web/20261014104057/https://music.apple.com/us/album/raving-dahlia-ep/1597669944
 title: ‎Raving Dahlia - EP - Album by Sevdaliza - Apple Music
 status: processed
-tier: own
+tier: discography
 kind: web page
 about:
 - Sevdaliza

@@ -4,7 +4,7 @@ title: "Listen to Tab - Single by Peyman Salimi | Spotify"
 status: processed
 kind: web page
 language: mul
-tier: own
+tier: discography
 publisher: "Spotify"
 about:
 - Qb23qew

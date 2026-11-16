@@ -1,10 +1,12 @@
 ---
 url: https://www.popmatters.com/sepehr-shaytoon-2020-interview
+archive: https://web.archive.org/web/20251209172810/https://www.popmatters.com/sepehr-shaytoon-2020-interview
 title: 'Dual Identities and the Iranian Diaspora: Sepehr on ''Shaytoon'''
 language: en
 author: Max Shand
 publisher: PopMatters
 status: processed
+tier: journalism
 ---
 
 > is an American-Iranian electronic producer who refuses to conceal his dual identities.

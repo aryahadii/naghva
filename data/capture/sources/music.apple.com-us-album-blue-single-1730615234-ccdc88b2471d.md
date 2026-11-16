@@ -4,7 +4,7 @@ title: Blue - Apple Music
 status: processed
 kind: web page
 language: en
-tier: other
+tier: discography
 about:
 - Mona Davar & Monicki
 - Blue

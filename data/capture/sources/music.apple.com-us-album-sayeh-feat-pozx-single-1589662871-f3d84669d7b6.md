@@ -2,6 +2,7 @@
 url: https://music.apple.com/us/album/sayeh-feat-pozx-single/1589662871
 title: Sayeh (feat. Pozx) - Single - Album by Golsa
 status: processed
+tier: discography
 language: en
 publisher: Apple Music
 ---

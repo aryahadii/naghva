@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/qeshm-island/1749090230
 title: Qeshm Island - Album by Various Artists - Apple Music
 kind: web page
 language: en
-tier: other
+tier: discography
 publisher: Apple Music
 status: processed
 ---

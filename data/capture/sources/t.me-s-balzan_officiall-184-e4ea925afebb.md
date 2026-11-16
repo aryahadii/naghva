@@ -1,5 +1,6 @@
 ---
 url: https://t.me/s/balzan_officiall/184
+archive: https://web.archive.org/web/20261115152930/https://t.me/s/balzan_officiall/184
 title: 'Balzan: می‌بینمت available'
 status: processed
 kind: telegram post

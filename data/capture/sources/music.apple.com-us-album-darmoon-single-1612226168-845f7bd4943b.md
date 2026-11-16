@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/darmoon-single/1612226168
 title: Darmoon - Single - Album by Babak Khangholi & Amin Ataei - Apple Music
 status: processed
 language: en
-tier: own
+tier: discography
 publisher: Apple Music
 ---
 

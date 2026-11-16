@@ -3,6 +3,7 @@ url: https://music.apple.com/us/album/iran-khube/1858821553?i=1858821556
 archive: "https://web.archive.org/web/20251223181801/https://music.apple.com/us/album/iran-khube/1858821553?i=1858821556"
 title: Iran Khube - Single by Jilliz Williz on Apple Music
 status: processed
+tier: discography
 ---
 
 > Iran Khube - Single by Jilliz Williz on Apple Music

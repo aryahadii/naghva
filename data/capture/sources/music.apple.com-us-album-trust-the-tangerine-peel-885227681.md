@@ -1,10 +1,11 @@
 ---
 url: https://music.apple.com/us/album/trust-the-tangerine-peel/885227681
+archive: https://web.archive.org/web/20250706170520/https://music.apple.com/us/album/trust-the-tangerine-peel/885227681
 title: Trust the Tangerine Peel - Album by Mohsen Namjoo - Apple Music
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Apple Music
 about:
 - Qt6wjbg

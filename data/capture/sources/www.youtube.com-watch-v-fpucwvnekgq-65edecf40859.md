@@ -5,7 +5,7 @@ title: "Sanam - Vaghty Rafty az khooneh (Let Her Sing® 2023)"
 status: processed
 kind: youtube video
 language: en
-tier: own
+tier: discography
 issued:
   date: "2024-08-07"
 about: [Sanam Maroufkhani]

@@ -1,10 +1,11 @@
 ---
 url: https://www.youtube.com/watch?v=YY2_HL2UiDc
+archive: https://web.archive.org/web/20221229164912/https://www.youtube.com/watch?v=YY2_HL2UiDc&t=2293s
 title: Balzan - Live in Tehran - 2021
 status: processed
 kind: youtube video
 language: mul
-tier: own
+tier: discography
 about:
 - Balzan
 part of: www.youtube.com-guitariran-687e3b65e900

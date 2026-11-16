@@ -9,6 +9,17 @@ statements:
     - source: music.apple.com-us-album-jaddeh-single-1726074615
       quote: Jaddeh - Single - Album by Sara Naeini - Apple Music
       accessed: '2026-11-08'
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-jaddeh-single-1726074615
+      quote: |-
+        Jaddeh - Single - Album by Sara Naeini - Apple Music
+      accessed: '2026-11-08'
+    - source: open.spotify.com-album-3hkovn2czdg6r73yiy8dpx
+      quote: |-
+        Listen to Jaddeh - Single by Sara Naeini | Spotify
+      accessed: '2026-11-08'
   listen link:
   - value: https://music.apple.com/us/album/jaddeh-single/1726074615
     references:

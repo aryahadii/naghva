@@ -1,10 +1,11 @@
 ---
 url: https://fa.wikipedia.org/wiki/%D8%AF%D9%86%DA%AF_%D8%B4%D9%88
+archive: https://web.archive.org/web/20260218184435/https://fa.wikipedia.org/wiki/%D8%AF%D9%86%DA%AF_%D8%B4%D9%88
 title: دنگ شو
 language: fa
 status: processed
 kind: web page
-tier: secondary
+tier: wikipedia
 ---
 
 > در سال ۱۳۹۶، گروه چهارمین آلبوم خود را با نام «مد و نای»

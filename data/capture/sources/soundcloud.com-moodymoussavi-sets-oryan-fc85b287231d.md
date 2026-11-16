@@ -1,9 +1,10 @@
 ---
 url: https://soundcloud.com/moodymoussavi/sets/oryan
+archive: https://web.archive.org/web/20230418132342/https://soundcloud.com/moodymoussavi/sets/oryan
 title: Oryan — Moody Moussavi
 kind: web page
 language: mul
-tier: own
+tier: discography
 status: processed
 ---
 

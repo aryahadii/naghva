@@ -4,7 +4,7 @@ title: "Listen to Asemoone Katoon (The Cotton Sky) - Single by Sara Naeini | Spo
 status: processed
 kind: web page
 language: mul
-tier: own
+tier: discography
 publisher: "Spotify"
 about:
 - Qb23qew

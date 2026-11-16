@@ -1,8 +1,10 @@
 ---
 url: https://www.mohsennamjoo.com/bio
+archive: https://web.archive.org/web/20250403055324/https://www.mohsennamjoo.com/bio
 title: Bio — Mohsen Namjoo
 language: en
 status: processed
+tier: own
 ---
 
 > 2023 Restless

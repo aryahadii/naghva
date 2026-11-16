@@ -4,7 +4,7 @@ title: Silent City (feat. Mohsen Namjoo) - Single - Album by Mahmood Schricker -
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Apple Music
 about:
 - Qt6wjbg

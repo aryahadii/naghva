@@ -1,9 +1,11 @@
 ---
 url: https://sussandeyhim.com/products/trouble-man
+archive: https://web.archive.org/web/20250909214953/https://sussandeyhim.com/products/trouble-man
 title: Trouble Man Music by Sussan Deyhim
 language: en
 publisher: Sussan Deyhim Gallery
 status: processed
+tier: own
 ---
 
 > Trouble Man EP. Sussan Deyhim with Scott Jacobi, Malcolm Francis, Skoti Elliot and Marc Copley

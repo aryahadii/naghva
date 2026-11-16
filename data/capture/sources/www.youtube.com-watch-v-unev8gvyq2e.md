@@ -5,7 +5,7 @@ title: "Reza Rohani ft  Sara Naeini   Bayad Del Sepord"
 status: processed
 kind: youtube video
 language: mul
-tier: own
+tier: discography
 publisher: "Sara Naeini"
 issued:
   date: '2013-08-31'

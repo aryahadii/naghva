@@ -3,6 +3,7 @@ url: https://www.womex.com/virtual/eastgah_music/pallett
 archive: "https://web.archive.org/web/20250821175634/https://www.womex.com/virtual/eastgah_music/pallett"
 title: Pallett
 status: processed
+tier: other
 language: en
 ---
 

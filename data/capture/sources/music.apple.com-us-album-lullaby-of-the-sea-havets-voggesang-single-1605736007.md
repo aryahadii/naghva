@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/lullaby-of-the-sea-havets-voggesang-single
 title: Lullaby of the sea - Havets voggesang - Single - Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Lullaby of the sea - Havets voggesang - Single - Apple Music
 status: processed

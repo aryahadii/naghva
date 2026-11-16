@@ -4,6 +4,7 @@ title: Not a Crime (Jorm Nist) - Album by TarantisT - Apple Music
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > Not a Crime (Jorm Nist) by TarantisT on Apple Music

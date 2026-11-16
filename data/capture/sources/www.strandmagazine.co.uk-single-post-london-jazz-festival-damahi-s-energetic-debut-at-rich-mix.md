@@ -5,7 +5,7 @@ title: "London Jazz Festival: Damahi’s Energetic Debut at Rich Mix"
 status: processed
 kind: web page
 language: en
-tier: press
+tier: journalism
 publisher: "The Strand Magazine"
 issued:
   date: '2023-12-23'

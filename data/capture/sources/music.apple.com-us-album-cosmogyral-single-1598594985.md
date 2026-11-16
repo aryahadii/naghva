@@ -4,7 +4,7 @@ title: Cosmogyral - Single - Album by Farid Faraz, Mohsen Namjoo & Hesam Inanlou
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Apple Music
 about:
 - Qt6wjbg

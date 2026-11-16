@@ -4,7 +4,7 @@ title: golsa — YouTube channel
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Golsa
 ---

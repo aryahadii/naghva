@@ -3,7 +3,7 @@ url: https://open.spotify.com/album/3Q7aDu4panSSFjf2dpcmzx
 title: Ideal
 kind: web page
 language: en
-tier: primary
+tier: discography
 status: processed
 ---
 

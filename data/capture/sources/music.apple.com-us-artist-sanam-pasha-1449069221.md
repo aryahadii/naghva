@@ -3,7 +3,7 @@ url: https://music.apple.com/us/artist/sanam-pasha/1449069221
 title: Sanam Pasha - Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 about: [Sanam Pasha]
 status: processed
 ---

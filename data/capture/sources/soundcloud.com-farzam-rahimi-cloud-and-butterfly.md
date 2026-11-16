@@ -3,7 +3,7 @@ url: https://soundcloud.com/farzam-rahimi/cloud-and-butterfly
 title: Meera - cloud & butterfly | Farzam Rahimi
 kind: web page
 language: en
-tier: own
+tier: discography
 status: processed
 publisher: soundcloud.com
 ---

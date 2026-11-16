@@ -4,7 +4,7 @@ title: "5pm Ferdous Park (Original Motion Picture Soundtrack) (feat. Korush Baba
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: "Apple Music"
 about:
 - Qb23qew

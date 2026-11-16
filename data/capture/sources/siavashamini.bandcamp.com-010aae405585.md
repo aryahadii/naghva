@@ -4,6 +4,7 @@ title: Music | Siavash Amini
 language: en
 publisher: Siavash Amini
 status: processed
+tier: own
 archive: https://web.archive.org/web/20261002205455/https://siavashamini.bandcamp.com/
 ---
 

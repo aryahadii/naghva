@@ -2,7 +2,7 @@
 url: https://music.apple.com/us/song/1770823958
 title: ‎Alibi - Song with Lyrics by Sevdaliza, Pabllo Vittar & Yseult - Apple Music
 status: processed
-tier: own
+tier: discography
 kind: web page
 about:
 - Sevdaliza

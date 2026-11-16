@@ -4,6 +4,7 @@ title: â€ŽHicham Khabar Az Hich - Song with Lyrics by Milad Derakhshani - AppleÂ
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > "name":"Milad Derakhshani","roleNames":["Songwriter"]

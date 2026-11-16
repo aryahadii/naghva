@@ -44,6 +44,17 @@ statements:
       quote: '2021-09-19T00:00:00Z'
       accessed: '2026-10-21'
       locator: Catalogue release date
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-airplanes-single-1583459531-42445d9bb7fe
+      quote: |-
+        Listen to Airplanes - Single by Sanam Maroufkhani on Apple Music. 2021. 1
+      accessed: '2026-10-21'
+    - source: music.apple.com-us-album-airplanes-single-1870096122-87fc36812b26
+      quote: |-
+        Listen to Airplanes - Single by Sanam Maroufkhani on Apple Music. 2021. 1
+      accessed: '2026-10-21'
   performer:
   - value: Qa84h2k
     references: &id001

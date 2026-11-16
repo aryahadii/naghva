@@ -1,5 +1,6 @@
 ---
 url: https://www.farhadmehrad.org/farhad-mehrad-discography
+archive: https://web.archive.org/web/20260416165820/https://www.farhadmehrad.org/farhad-mehrad-discography
 title: آثار فرهاد مهراد
 language: fa
 publisher: Farhad Mehrad official website

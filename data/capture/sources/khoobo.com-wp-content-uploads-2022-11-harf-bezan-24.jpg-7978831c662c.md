@@ -1,5 +1,6 @@
 ---
 url: https://khoobo.com/wp-content/uploads/2022/11/Harf-Bezan-24.jpg
+archive: https://web.archive.org/web/20261115143908/https://khoobo.com/wp-content/uploads/2022/11/Harf-Bezan-24.jpg
 title: Harf Bezan — original back and Javan mark
 kind: booklet image
 language: mul

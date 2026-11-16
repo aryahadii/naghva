@@ -1,5 +1,6 @@
 ---
 url: https://t.me/imonicki/375
+archive: https://web.archive.org/web/20251230222003/https://t.me/imonicki/375
 title: "غمزه منتشر شد🩷"
 status: processed
 kind: telegram post

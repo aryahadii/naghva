@@ -2,6 +2,7 @@
 url: https://www.youtube.com/watch?v=IHvH7XviyAo
 title: "اجرای رضا کولغانی و داماهی در خانه دوست"
 status: processed
+tier: discography
 kind: youtube video
 language: mul
 publisher: "مجله موسیقی مستقل"

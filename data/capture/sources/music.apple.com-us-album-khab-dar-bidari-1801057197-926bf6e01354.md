@@ -1,10 +1,11 @@
 ---
 url: https://music.apple.com/us/album/khab-dar-bidari/1801057197
+archive: https://web.archive.org/web/20260801214557/https://music.apple.com/us/album/khab-dar-bidari/1801057197
 title: Khab Dar Bidari - Album by Farhad Mehrad - Apple Music
 language: en
 publisher: Apple Music
 status: processed
-tier: other
+tier: discography
 ---
 
 > Khab Dar Bidari - Album by Farhad Mehrad - Apple Music

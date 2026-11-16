@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/persian-side-of-jazz/421440889
 title: ' ‎Persian Side of Jazz - Album by Mahan Mirarab - Apple Music Persian Side of Jazz Mahan Mirarab Jaz'
 kind: web page
 language: en
-tier: own
+tier: discography
 status: processed
 publisher: music.apple.com
 ---

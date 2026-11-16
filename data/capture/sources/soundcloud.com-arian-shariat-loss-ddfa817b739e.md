@@ -5,7 +5,7 @@ title: Stream Loss / فقدان by Rian / آرین | Listen online for free on S
 status: processed
 kind: web page
 language: mul
-tier: own
+tier: discography
 ---
 
 > Loss / فقدان

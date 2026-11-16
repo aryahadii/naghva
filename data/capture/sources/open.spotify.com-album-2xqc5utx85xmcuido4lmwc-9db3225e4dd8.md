@@ -4,7 +4,7 @@ title: Listen to Baghale Man - Single by Rian | Spotify
 status: processed
 kind: web page
 language: mul
-tier: own
+tier: discography
 ---
 
 > Listen to Baghale Man - Single by Rian | Spotify

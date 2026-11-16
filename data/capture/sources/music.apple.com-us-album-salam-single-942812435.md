@@ -1,10 +1,11 @@
 ---
 url: https://music.apple.com/us/album/salam-single/942812435
+archive: https://web.archive.org/web/20260919105504/https://music.apple.com/us/album/salam-single/942812435
 title: Salam - Single - Album by Shahin Najafi - Apple Music
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Apple Music
 about:
 - Qn7vfak

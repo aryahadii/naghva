@@ -2,7 +2,7 @@
 url: https://music.apple.com/us/album/muscle-memory/1271220998
 title: ‎Muscle Memory - Album by The Allophones - Apple Music
 status: processed
-tier: own
+tier: discography
 ---
 
 > Listen to Muscle Memory by The Allophones on Apple Music. 2017. 11 Songs. Duration: 44 minutes.

@@ -4,7 +4,7 @@ title: "Ou Biayad / او بیاید by Jilliz Williz / جیلیز ویلیز | S
 status: processed
 kind: web page
 language: mul
-tier: own
+tier: discography
 publisher: "SoundCloud"
 about:
 - Q6andbw

@@ -1,5 +1,6 @@
 ---
 url: https://en.wikipedia.org/wiki/Grimes
+archive: https://web.archive.org/web/20261115032637/https://en.wikipedia.org/wiki/Grimes
 title: Grimes identity
 status: processed
 tier: wikipedia

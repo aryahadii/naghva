@@ -1,10 +1,11 @@
 ---
 url: https://music.apple.com/us/album/live-session-at-studio-13/1847671019
+archive: https://web.archive.org/web/20260731011729/https://music.apple.com/us/album/live-session-at-studio-13/1847671019
 title: Live session at Studio 13 - Album by Mohsen Namjoo - Apple Music
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Apple Music
 about:
 - Qt6wjbg

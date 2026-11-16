@@ -4,7 +4,7 @@ title: Farghi Nadare | King Raam
 status: processed
 kind: youtube video
 language: en
-tier: own
+tier: discography
 publisher: King Raam / DistroKid
 about:
 - King Raam

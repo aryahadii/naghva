@@ -4,6 +4,7 @@ title: Some Times - Album by Shahryar Masrour
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > Some Times

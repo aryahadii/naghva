@@ -1,9 +1,10 @@
 ---
 url: https://music.apple.com/de/album/bendewar%C3%AE-i-ntizar-longing/1448289387
+archive: https://web.archive.org/web/20231209151946/https://music.apple.com/de/album/bendewar%C3%AE-i-ntizar-longing/1448289387
 title: Bendewarî / İntizar / Longing - Apple Music
 kind: web page
 language: en
-tier: other
+tier: discography
 status: processed
 publisher: music.apple.com
 ---

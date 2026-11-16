@@ -4,7 +4,7 @@ title: Bipolar — Rian - Topic
 status: processed
 kind: youtube video
 language: en
-tier: own
+tier: discography
 ---
 
 > Bipolar

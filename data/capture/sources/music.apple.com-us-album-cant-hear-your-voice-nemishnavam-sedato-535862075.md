@@ -1,8 +1,9 @@
 ---
 url: https://music.apple.com/us/album/cant-hear-your-voice-nemishnavam-sedato/535862075
+archive: https://web.archive.org/web/20260801214557/https://music.apple.com/us/album/cant-hear-your-voice-nemishnavam-sedato/535862075
 title: ‎Can't Hear Your Voice (Nemishnavam Sedato) - Album by B-BAND - Apple Music
 status: processed
-tier: own
+tier: discography
 ---
 
 > Listen to Can't Hear Your Voice (Nemishnavam Sedato) by B-BAND on Apple Music. 2012. 16 Songs. Duration: 1 hour 9 minutes.

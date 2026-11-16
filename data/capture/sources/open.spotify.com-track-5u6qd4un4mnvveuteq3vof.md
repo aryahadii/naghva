@@ -3,7 +3,7 @@ url: https://open.spotify.com/track/5U6qd4uN4MNVveUteq3Vof
 title: Lalalala Gohle Laleh
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Mahsa Vahdat
 - Marjan Vahdat

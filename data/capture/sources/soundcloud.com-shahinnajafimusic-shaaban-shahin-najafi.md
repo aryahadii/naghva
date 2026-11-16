@@ -1,9 +1,10 @@
 ---
 url: https://soundcloud.com/shahinnajafimusic/shaaban-shahin-najafi
+archive: https://web.archive.org/web/20250702203746/https://soundcloud.com/shahinnajafimusic/shaaban-shahin-najafi
 title: Shahin Najafi - Sha'aban
 kind: web page
 language: en
-tier: own
+tier: discography
 status: processed
 ---
 

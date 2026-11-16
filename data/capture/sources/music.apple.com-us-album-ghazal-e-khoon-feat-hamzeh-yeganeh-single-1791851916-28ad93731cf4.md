@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/ghazal-e-khoon-feat-hamzeh-yeganeh-single/
 title: Ghazal-e Khoon — Apple release edition
 kind: web page
 language: mul
-tier: platform
+tier: discography
 status: processed
 ---
 

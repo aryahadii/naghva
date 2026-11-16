@@ -1,5 +1,6 @@
 ---
 url: https://t.me/shahinnajafimusic/1434
+archive: https://web.archive.org/web/20250110161303/https://t.me/shahinnajafimusic/1434
 title: 'Meta Phrygian: Persian title and musical direction'
 kind: telegram post
 language: mul

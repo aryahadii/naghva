@@ -2,6 +2,7 @@
 url: https://www.youtube.com/watch?v=jkwQiSOQkcY
 title: گپ‌وگفت با حمزه یگانه | قسمت چهل‌ و دوم پادکست تصویری کادانس
 status: processed
+tier: discography
 language: fa
 ---
 

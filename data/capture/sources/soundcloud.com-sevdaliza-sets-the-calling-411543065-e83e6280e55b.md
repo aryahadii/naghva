@@ -2,7 +2,7 @@
 url: https://soundcloud.com/sevdaliza/sets/the-calling-411543065
 title: Stream SEVDALIZA | Listen to The Calling playlist online for free on SoundCloud
 status: processed
-tier: own
+tier: discography
 kind: web page
 about:
 - Sevdaliza

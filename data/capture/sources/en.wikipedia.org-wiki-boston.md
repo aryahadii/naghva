@@ -1,5 +1,6 @@
 ---
 url: https://en.wikipedia.org/wiki/Boston
+archive: https://web.archive.org/web/20261115035447/https://en.wikipedia.org/wiki/Boston
 title: "Boston"
 kind: web page
 language: en

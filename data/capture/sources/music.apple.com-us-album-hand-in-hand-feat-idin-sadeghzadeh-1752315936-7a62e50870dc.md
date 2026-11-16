@@ -4,6 +4,7 @@ title: Hand In Hand (feat. Idin Sadeghzadeh) - Album by Hamzeh Yeganeh - Apple M
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > Listen to Hand In Hand (feat. Idin Sadeghzadeh) by Hamzeh Yeganeh on Apple Music. 2024. 10 Songs. Duration: 45 minutes.

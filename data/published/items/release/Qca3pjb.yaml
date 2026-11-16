@@ -18,6 +18,17 @@ statements:
       quote: |-
         آلبوم موسیقی "حرمان" از سوی نشر نوفه راهی بازار موسیقی شد
       accessed: '2026-10-19'
+  release type:
+  - value: album
+    references:
+    - source: music.apple.com-us-album-deprivation-1590349448-ce531d497948
+      quote: |-
+        Deprivation - Album by Omid Nemati
+      accessed: '2026-10-19'
+    - source: open.spotify.com-album-1vvnntdzufrbbymghqg1mk
+      quote: |-
+        Listen to Deprivation - Album by Omid Nemati | Spotify
+      accessed: '2026-11-06'
   performer:
   - value: Qnharha
     references:

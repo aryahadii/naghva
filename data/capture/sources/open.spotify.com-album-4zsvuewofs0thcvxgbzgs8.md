@@ -4,7 +4,7 @@ title: Listen to Bazam Kalan - Single by Reza Pishro | Spotify
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Spotify
 about:
 - Qgyvbw3

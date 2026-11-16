@@ -3,7 +3,7 @@ url: https://www.youtube.com/playlist?list=OLAK5uy_kHZYKRm_3hqOmL9snkQXUkAExBT1e
 title: 13/8 - YouTube
 kind: web page
 language: en
-tier: own
+tier: discography
 status: processed
 ---
 

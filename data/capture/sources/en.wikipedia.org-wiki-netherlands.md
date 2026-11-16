@@ -1,5 +1,6 @@
 ---
 url: https://en.wikipedia.org/wiki/Netherlands
+archive: https://web.archive.org/web/20261113064109/https://en.wikipedia.org/wiki/Netherlands
 title: "Netherlands"
 kind: web page
 language: en

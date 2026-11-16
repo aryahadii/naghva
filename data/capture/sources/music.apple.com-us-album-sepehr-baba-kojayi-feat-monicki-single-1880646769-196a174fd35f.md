@@ -4,7 +4,7 @@ title: Sepehr Baba Kojayi - Datis
 status: processed
 kind: web page
 language: en
-tier: other
+tier: discography
 about:
 - Monicki
 - Datis

@@ -3,7 +3,7 @@ url: https://web.archive.org/web/20200925033944/https://www.pelak52.com/post/dan
 title: عنوان مناسب برای موسیقی ما، دنگ‌خوانی است
 kind: interview
 language: fa
-tier: primary
+tier: own
 status: processed
 ---
 

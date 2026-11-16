@@ -1,5 +1,6 @@
 ---
 url: https://theaderks.wordpress.com/2023/10/26/mahsa-vahdat-tours-with-amsterdam-sinfonietta-my-voice-is-my-home/
+archive: https://web.archive.org/web/20250804221941/https://theaderks.wordpress.com/2023/10/26/mahsa-vahdat-tours-with-amsterdam-sinfonietta-my-voice-is-my-home/
 title: 'Mahsa Vahdat tours with Amsterdam Sinfonietta: My voice is my home'
 kind: web page
 language: en

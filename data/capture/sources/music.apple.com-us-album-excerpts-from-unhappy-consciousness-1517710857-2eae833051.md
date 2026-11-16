@@ -2,6 +2,7 @@
 url: https://music.apple.com/us/album/excerpts-from-unhappy-consciousness/1517710857
 title: Excerpts From Unhappy Consciousness - Album by Salome MC - Apple Music
 status: processed
+tier: discography
 ---
 
 > Listen to Excerpts From Unhappy Consciousness by Salome MC on Apple Music. 2017. 8 Songs. Duration: 28 minutes.

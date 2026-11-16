@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/braids-of-innocence/1652567418
 title: Braids of Innocence - Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Braids of Innocence - Apple Music
 status: processed

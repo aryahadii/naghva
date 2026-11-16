@@ -6,6 +6,8 @@ import { compareDates } from './catalogue';
 /** The record tools/derive.py writes; the site reads nothing else. */
 
 export type Lang = 'en' | 'fa';
+/** Where the record and the site's code are published. */
+export const REPOSITORY = 'https://github.com/aryahadii/naghva';
 export const LANGS: Lang[] = ['en', 'fa'];
 
 export interface Text { text: string; language: string }
@@ -24,6 +26,8 @@ export interface Statement {
   rank: 'preferred' | 'normal' | 'deprecated';
   qualifiers?: Record<string, Value[]>;
   references: Reference[];
+  /** A name spelled by Naghva for display; its references support the original name. */
+  editorial?: true;
 }
 export interface Incoming { property: string; item: string; rank: Statement['rank']; qualifiers?: Record<string, Value[]> }
 

@@ -1,5 +1,6 @@
 ---
 url: https://www.monfaredzadeh.com/biography/
+archive: https://web.archive.org/web/20261115164630/https://www.monfaredzadeh.com/biography/
 title: زندگی‌نامه اسفندیار منفردزاده
 language: fa
 tier: own

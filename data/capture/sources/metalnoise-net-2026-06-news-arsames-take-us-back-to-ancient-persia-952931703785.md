@@ -1,9 +1,11 @@
 ---
 url: https://metalnoise.net/2026/06/news-arsames-take-us-back-to-ancient-persia
+archive: https://web.archive.org/web/20261115144555/https://metalnoise.net/2026/06/news-arsames-take-us-back-to-ancient-persia
 title: 'NEWS: Arsames take us back to ancient Persia!'
 language: en
 publisher: Metal Noise / DJ Vapour
 status: processed
+tier: journalism
 ---
 
 > For this tribute to Iron Maiden’s legendary song “The Trooper,” Arsames chose a different path.

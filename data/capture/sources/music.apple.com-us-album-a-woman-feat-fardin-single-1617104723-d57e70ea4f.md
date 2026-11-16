@@ -2,6 +2,7 @@
 url: https://music.apple.com/us/album/a-woman-feat-fardin-single/1617104723
 title: A Woman (feat. Fardin) - Single - Album by Salome MC - Apple Music
 status: processed
+tier: discography
 ---
 
 > Listen to A Woman (feat. Fardin) - Single by Salome MC on Apple Music. 2012. 1 Song. Duration: 4 minutes.

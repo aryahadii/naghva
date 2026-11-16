@@ -3,7 +3,7 @@ url: https://open.spotify.com/track/3Ge81xr8uDAPaOmYzNmWuc
 title: Mascara - Spotify
 kind: web page
 language: en
-tier: other
+tier: discography
 about:
 - Moody Moussavi
 - Mascara

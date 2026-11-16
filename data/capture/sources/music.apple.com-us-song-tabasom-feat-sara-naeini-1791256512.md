@@ -4,7 +4,7 @@ title: "Tabasom (feat. Sara Naeini) - Song with Lyrics by Aryan Modares - AppleÂ
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: "Apple Music"
 about:
 - Qb23qew

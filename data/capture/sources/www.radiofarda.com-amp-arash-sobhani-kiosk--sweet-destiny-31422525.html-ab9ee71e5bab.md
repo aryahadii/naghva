@@ -1,9 +1,11 @@
 ---
 url: https://www.radiofarda.com/amp/arash-sobhani-kiosk--sweet-destiny/31422525.html
+archive: https://web.archive.org/web/20250603001835/https://www.radiofarda.com/amp/arash-sobhani-kiosk--sweet-destiny/31422525.html
 title: گفت‌وگو با آرش سبحانی؛ گروه کیوسک و «پایان شیرین» اعدام با توپ جنگی
 language: fa
 publisher: Radio Farda
 status: processed
+tier: journalism
 ---
 
 > فارسی‌اش را گفته‌ای «پایان شیرین».

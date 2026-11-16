@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/a-wave-of-blood-ep/1627331624
 title: A Wave of Blood - EP — Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 status: processed
 ---
 

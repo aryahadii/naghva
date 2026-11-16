@@ -4,7 +4,7 @@ title: Dooren Mara by Majid Salari
 status: processed
 kind: web page
 language: mul
-tier: own
+tier: discography
 ---
 
 > Vocal: @MajidSalari Lyrics: Amir Mehdi Asghari Composer: Arash Rastegarzadeh  Piano: Hamzeh Yeganeh Bass & Guitar: Ebrahim Alavi Cajon: Amir Tayyari Drums: Mohammad Javad Ghoreyshi  Arrangement: Hamzeh Yeganeh Mix & Mastering: Arash Pakzad Recording: Nima Bataghva (Kargadan Studio)  Cover Art: @MortezaQaemi

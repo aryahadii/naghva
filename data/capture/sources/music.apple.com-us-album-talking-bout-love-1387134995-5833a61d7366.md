@@ -1,10 +1,11 @@
 ---
 url: https://music.apple.com/us/album/talking-bout-love/1387134995
+archive: https://web.archive.org/web/20251009215846/https://music.apple.com/us/album/talking-bout-love/1387134995
 title: Talking 'Bout Love
 language: en
 publisher: Apple Music
 status: processed
-tier: own
+tier: discography
 ---
 
 > Talking 'Bout Love

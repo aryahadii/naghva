@@ -1,8 +1,10 @@
 ---
 url: https://www.honaronline.ir/fa/tiny/news-110216
+archive: https://web.archive.org/web/20261115163028/https://www.honaronline.ir/%D8%A8%D8%AE%D8%B4-%D9%86%D9%85%D8%A7%DB%8C%D8%B4-3/110216-%D8%A8%D8%A7%D9%84-%D9%BE%D9%86%D8%AC%D9%85-%D9%87%D8%AF%D8%A7%DB%8C%D8%AA-%D8%B2%DB%8C%D8%A8%D8%A7%DB%8C%DB%8C-%D8%B4%D9%86%D8%A7%D8%B3%DB%8C-%D9%88%DB%8C%D8%B1%D8%A7%D9%86%DB%8C-%D8%AF%D8%B1-%D8%AD%DB%8C%D9%86-%D8%AA%D9%84%D8%AE%DB%8C-%D8%A7%D8%AD%D9%85%D8%AF-%D8%B3%D9%84%DA%AF%DB%8C-%D8%B1%D8%A7%D9%88%DB%8C-%D8%A7%D8%AB%D8%B1%DB%8C-%D8%A8%DB%8C%D9%86%D8%A7-%D8%B1%D8%B4%D8%AA%D9%87-%D8%A7%DB%8C-%D8%AF%D8%B1-%D8%AA%D8%A6%D8%A7%D8%AA%D8%B1-%D9%85%D8%B3%D8%AA%D9%82%D9%84
 title: بال پنجم؛ گفت‌وگو با احمد سلگی
 language: fa
 status: processed
+tier: journalism
 ---
 
 > احمد سلگی در گفت‌وگو با هنرآنلاین درباره موضوع و مضمون این اثر نمایشی گفت: موضوع نمایش روایت کودکی مهدی ساکی در شهر اهواز و در زمان جنگ و نزدیک مرگ است. او در آن فضا خانواده، گذشته و آینده خود را مرور می‌کند.

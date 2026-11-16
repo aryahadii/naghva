@@ -1,9 +1,11 @@
 ---
 url: https://music.apple.com/us/album/bomrani-live-in-tehran/1502291786
+archive: https://web.archive.org/web/20260731011728/https://music.apple.com/us/album/bomrani-live-in-tehran/1502291786
 title: Bomrani Live in Tehran - Album by Bomrani - Apple Music
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > Listen to Bomrani Live in Tehran by Bomrani on Apple Music. 2020. 16 Songs. Duration: 1 hour 2 minutes.

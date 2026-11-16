@@ -4,7 +4,7 @@ title: "فستیوال \"شبهای جنوب\" ۹۷ (شب اول)- داماهی 
 status: processed
 kind: youtube video
 language: mul
-tier: own
+tier: discography
 publisher: "Damahi داماهى"
 issued:
   date: '2019-01-21'

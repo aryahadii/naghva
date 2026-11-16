@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/i-am-eve/1530433222
 title: I Am Eve - Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - I Am Eve - Apple Music
 status: processed

@@ -1,5 +1,6 @@
 ---
 url: https://dmy.co/videos/sevdaliza-shares-the-great-hope-design-introducing-the-worlds-first-femmenoid-robot-dahlia
+archive: https://web.archive.org/web/20261115141139/https://dmy.co/videos/sevdaliza-shares-the-great-hope-design-introducing-the-worlds-first-femmenoid-robot-dahlia
 title: Sevdaliza shares 'The Great Hope Design', introducing the world's first femmenoid robot 'Dahlia'
 status: processed
 kind: web page

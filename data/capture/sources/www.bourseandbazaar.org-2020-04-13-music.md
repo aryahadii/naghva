@@ -1,5 +1,6 @@
 ---
 url: https://www.bourseandbazaar.org/articles/2020/4/13/in-a-time-of-crisis-iranians-seek-comfort-connection-through-music
+archive: https://web.archive.org/web/20261115161445/https://www.bourseandbazaar.org/articles/2020/4/13/in-a-time-of-crisis-iranians-seek-comfort-connection-through-music
 title: In a Time of Crisis, Iranians Seek Comfort, Connection Through Music
 kind: web page
 language: en

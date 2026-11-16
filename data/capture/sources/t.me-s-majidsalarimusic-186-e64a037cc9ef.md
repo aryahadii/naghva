@@ -1,5 +1,6 @@
 ---
 url: https://t.me/s/majidsalarimusic/186
+archive: https://web.archive.org/web/20250717215736/https://t.me/s/majidsalarimusic/186
 title: زِ خیالَت — credits
 kind: telegram post
 language: mul

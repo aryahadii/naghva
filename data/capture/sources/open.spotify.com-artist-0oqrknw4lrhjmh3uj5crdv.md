@@ -5,7 +5,7 @@ title: "Listen to Damahi Songs | Spotify"
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: "Spotify"
 about:
 - Qep6nz6

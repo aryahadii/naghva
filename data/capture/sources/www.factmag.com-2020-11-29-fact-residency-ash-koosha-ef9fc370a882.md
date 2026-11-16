@@ -1,9 +1,10 @@
 ---
 url: https://www.factmag.com/2020/11/29/fact-residency-ash-koosha/
+archive: https://web.archive.org/web/20260613121101/https://www.factmag.com/2020/11/29/fact-residency-ash-koosha/
 title: 'Fact Residency: Ash Koosha'
 kind: web page
 language: en
-tier: press
+tier: journalism
 status: processed
 ---
 

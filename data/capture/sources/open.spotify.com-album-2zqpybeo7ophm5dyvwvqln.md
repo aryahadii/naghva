@@ -4,7 +4,7 @@ title: Listen to Por Kon - Single by Golsa | Spotify
 status: processed
 kind: web page
 language: en
-tier: catalogue
+tier: discography
 about:
 - Golsa
 ---

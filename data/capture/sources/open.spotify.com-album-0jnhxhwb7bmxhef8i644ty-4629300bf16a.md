@@ -3,7 +3,7 @@ url: https://open.spotify.com/album/0jNHxhwb7bmXhef8I644tY
 title: Mashrouh-e Tanhaee — exact Spotify programme
 kind: web page
 language: mul
-tier: platform
+tier: discography
 status: processed
 ---
 

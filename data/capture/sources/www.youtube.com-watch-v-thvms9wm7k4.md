@@ -4,7 +4,7 @@ title: Aseman Be Aseman — Soofi ft. Arash Fathi (Official Music Video)
 status: processed
 kind: video
 language: en
-tier: own
+tier: discography
 about:
 - Soofi Namazi
 - صوفی نمازی

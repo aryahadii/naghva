@@ -1,5 +1,6 @@
 ---
 url: https://pitchfork.com/thepitch/1250-the-8-best-dj-mixes-of-july-2016-international-edition/
+archive: https://web.archive.org/web/20250821154220/https://pitchfork.com/thepitch/1250-the-8-best-dj-mixes-of-july-2016-international-edition/
 title: The 8 Best DJ Mixes of July 2016, International Edition | Sote
 kind: web page
 language: en

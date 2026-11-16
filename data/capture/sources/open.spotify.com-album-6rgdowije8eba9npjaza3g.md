@@ -1,10 +1,11 @@
 ---
 url: https://open.spotify.com/album/6RgdOWiJE8EbA9nPjAzA3G
+archive: https://web.archive.org/web/20250831112801/https://open.spotify.com/album/6RgdOWiJE8EbA9nPjAzA3G
 title: Listen to Voices From The East (Live) - Album by Mohsen Namjoo | Spotify
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Spotify
 about:
 - Qt6wjbg

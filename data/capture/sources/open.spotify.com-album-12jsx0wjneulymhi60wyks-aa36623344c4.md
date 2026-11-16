@@ -3,7 +3,7 @@ url: https://open.spotify.com/album/12jsx0WJneuLYmHi60Wyks?si=ZtDkqnLwT_6UYuHmdm
 title: Listen to DAAGH - Single by Bahram | Spotify
 kind: web page
 language: en
-tier: other
+tier: discography
 publisher: Spotify
 about:
 - Daagh

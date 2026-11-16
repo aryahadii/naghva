@@ -3,7 +3,7 @@ url: https://music.apple.com/se/album/nameyee-be-rayees-jomhoor-single/172285088
 title: Nameyee Be Rayees Jomhoor - Single av Bahram på Apple Music
 kind: web page
 language: en
-tier: other
+tier: discography
 publisher: Apple Music
 about:
 - Nameyee be Rayees Jomhoor

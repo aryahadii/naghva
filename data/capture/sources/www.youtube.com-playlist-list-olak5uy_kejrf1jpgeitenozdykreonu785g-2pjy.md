@@ -3,7 +3,7 @@ url: https://www.youtube.com/playlist?list=OLAK5uy_kejrF1jpGeITeNozDyKReoNU785G-
 title: Best Songs Collection - YouTube
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Kaveh Yaghmaei
 status: processed

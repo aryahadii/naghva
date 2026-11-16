@@ -2,6 +2,7 @@
 url: https://music.apple.com/us/album/duochrome-single/1568417119
 title: Duochrome - Single - Album by Ewa Guzowska & Tomasz Kandulski - Apple Music
 status: processed
+tier: discography
 ---
 
 > Listen to Duochrome - Single by Ewa Guzowska & Tomasz Kandulski on Apple Music. 2021. 1 Song. Duration: 9 minutes.

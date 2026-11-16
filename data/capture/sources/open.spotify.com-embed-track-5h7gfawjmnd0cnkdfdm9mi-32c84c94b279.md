@@ -4,7 +4,7 @@ title: Beneath the Wooden Roof (live recorded at Sargfabrik, Vienna) | Spotify
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Sanam Maroufkhani
 ---

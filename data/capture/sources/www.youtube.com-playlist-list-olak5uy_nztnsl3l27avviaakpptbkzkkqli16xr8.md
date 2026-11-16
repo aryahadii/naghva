@@ -3,7 +3,7 @@ url: https://www.youtube.com/playlist?list=OLAK5uy_nztNsL3l27AvviAaKpPTBKzkkqli1
 title: Bohran - YouTube
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Kaveh Yaghmaei
 status: processed

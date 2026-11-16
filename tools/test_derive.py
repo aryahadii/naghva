@@ -70,6 +70,11 @@ class DeriveTests(unittest.TestCase):
             self.assertNotIn("page", after["items"][NIMA])
             self.assertIn({"from": "/en/%s/" % artist, "to": "/en/سارا-کوهی-zzz/"}, after["redirects"])
 
+    def test_an_editorial_name_keeps_its_mark(self):
+        statement = {"value": {"text": "Badnama", "language": "en"}, "editorial": True, "references": []}
+        self.assertIs(derive.derive_statement(statement)["editorial"], True)
+        self.assertNotIn("editorial", derive.derive_statement(dict(statement, editorial=False)))
+
     def test_display_name_per_language(self):
         names = self.record["items"][BAND]["names"]
         self.assertEqual(names["en"], {"text": "Badnama", "language": "en"})

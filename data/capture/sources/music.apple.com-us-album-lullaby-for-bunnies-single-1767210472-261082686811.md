@@ -3,6 +3,7 @@ url: https://music.apple.com/us/album/lullaby-for-bunnies-single/1767210472
 title: Lullaby for Bunnies - Single
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > Lullaby for Bunnies - Single

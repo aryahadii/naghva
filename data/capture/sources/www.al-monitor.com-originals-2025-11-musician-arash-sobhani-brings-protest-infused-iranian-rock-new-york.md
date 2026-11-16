@@ -1,5 +1,6 @@
 ---
 url: https://www.al-monitor.com/originals/2025/11/musician-arash-sobhani-brings-protest-infused-iranian-rock-new-york
+archive: https://web.archive.org/web/20260715163900/https://www.al-monitor.com/originals/2025/11/musician-arash-sobhani-brings-protest-infused-iranian-rock-new-york
 title: Musician Arash Sobhani brings protest-infused Iranian rock to New York
 kind: web page
 language: en

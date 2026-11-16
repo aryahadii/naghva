@@ -2,6 +2,7 @@
 url: https://ra.co/events/2225650
 title: Dawn, The Transition (Live Performance) at , Berlin
 status: processed
+tier: journalism
 kind: web page
 language: en
 ---

@@ -1,9 +1,11 @@
 ---
 url: https://t.me/AliAzimiMusic/717
+archive: https://web.archive.org/web/20250105024033/https://t.me/AliAzimiMusic/717
 title: 'Ali Azimi: 717'
 publisher: Ali Azimi
 language: mul
 status: processed
+tier: own
 ---
 
 > موزیک ویدئوی 《دیگه وقتش رسیده》- علی عظیمی

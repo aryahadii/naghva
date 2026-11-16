@@ -1,10 +1,11 @@
 ---
 url: https://music.apple.com/us/album/shabrang/1524138871
+archive: https://web.archive.org/web/20261014104109/https://music.apple.com/us/album/shabrang/1524138871
 title: Shabrang - Album by Sevdaliza - Apple Music
 language: en
 publisher: Apple Music
 status: processed
-tier: own
+tier: discography
 ---
 
 > August 28, 2020

@@ -1,11 +1,13 @@
 ---
 url: https://t.me/jumamusic/71
+archive: https://web.archive.org/web/20230330160042/https://t.me/jumamusic/71
 title: جوما — 71
 kind: telegram post
 language: fa
 author: Juma
 publisher: Telegram (Juma)
 status: processed
+tier: own
 accessed: '2026-10-22'
 ---
 

@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/new-bloom-single/1481926389
 title: New Bloom - Single by Mahdyar
 kind: web page
 language: en
-tier: own
+tier: discography
 status: processed
 archive: https://web.archive.org/web/*/https://music.apple.com/us/album/new-bloom-single/1481926389
 ---

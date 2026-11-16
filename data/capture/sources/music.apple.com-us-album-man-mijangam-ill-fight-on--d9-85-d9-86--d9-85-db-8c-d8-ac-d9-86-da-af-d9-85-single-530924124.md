@@ -4,7 +4,7 @@ title: Man Mijangam (I'll Fight On) - من میجنگم - Single - Album by Yas 
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Apple Music
 about:
 - Qx3svqf

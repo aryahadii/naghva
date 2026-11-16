@@ -1,5 +1,6 @@
 ---
 url: https://www.thenationalnews.com/world/the-americas/sons-urge-canada-s-trudeau-to-pressure-iran-to-release-mom-1.713214
+archive: https://web.archive.org/web/20260609063456/https://www.thenationalnews.com/world/the-americas/sons-urge-canada-s-trudeau-to-pressure-iran-to-release-mom-1.713214
 title: Sons urge Canada's Trudeau to pressure Iran to release mom
 kind: web page
 language: en

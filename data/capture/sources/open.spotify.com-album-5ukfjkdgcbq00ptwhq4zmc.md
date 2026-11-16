@@ -1,10 +1,11 @@
 ---
 url: https://open.spotify.com/album/5ukFjkdgcbq00pTWHQ4zmc
+archive: https://web.archive.org/web/20211202091738/https://open.spotify.com/album/5ukFjkdgcbq00pTWHQ4zmc
 title: Listen to Natijeh e Mozakerat (Outcome of Negotiations) - Album by Kiosk | Spotify
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Spotify
 about:
 - Qtgn2be

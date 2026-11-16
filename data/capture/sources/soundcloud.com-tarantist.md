@@ -1,9 +1,10 @@
 ---
 url: https://soundcloud.com/TarantisT
+archive: https://web.archive.org/web/20241211124325/https://soundcloud.com/tarantist
 title: TarantisT | SoundCloud
 kind: web page
 language: en
-tier: own
+tier: discography
 status: processed
 ---
 

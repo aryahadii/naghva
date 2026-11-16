@@ -4,6 +4,7 @@ title: The Trooper (Traditional)
 language: en
 publisher: Spotify
 status: processed
+tier: discography
 ---
 
 > The Trooper (Traditional)

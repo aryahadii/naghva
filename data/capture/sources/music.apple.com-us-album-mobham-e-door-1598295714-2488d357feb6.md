@@ -1,9 +1,11 @@
 ---
 url: https://music.apple.com/us/album/mobham-e-door/1598295714
+archive: https://web.archive.org/web/20230411060648/https://music.apple.com/us/album/mobham-e-door/1598295714
 title: Mobham e Door
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > "name":"Mobham e Door"

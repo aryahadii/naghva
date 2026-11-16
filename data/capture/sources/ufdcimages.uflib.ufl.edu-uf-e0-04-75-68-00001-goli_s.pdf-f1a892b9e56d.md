@@ -1,9 +1,11 @@
 ---
 url: https://ufdcimages.uflib.ufl.edu/UF/E0/04/75/68/00001/GOLI_S.pdf
+archive: https://web.archive.org/web/20261115160510/https://ufdcimages.uflib.ufl.edu/UF/E0/04/75/68/00001/GOLI_S.pdf
 title: 'Voices of a Rebellious Generation: Cultural and Political Resistance in Iran’s Underground Rock Music'
 language: en
 author: Shabnam Goli
 status: processed
+tier: academic
 ---
 
 > Alireza Pourreza (founder of the band and keyboard player), Kaveh Afagh (lead guitarist and vocalist), Hamed Ghannad (bass player and vocalist), and Iman Mohammadi (drummer and main lyricist)

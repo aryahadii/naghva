@@ -3,7 +3,7 @@ url: https://www.youtube.com/watch?v=TW5xlmmA4xg
 title: Ali Azimi - Deldard (Live in Toronto)
 kind: web page
 language: mul
-tier: own
+tier: discography
 status: processed
 archive: https://web.archive.org/web/*/https://www.youtube.com/watch?v=TW5xlmmA4xg
 publisher: Ali Azimi

@@ -1,7 +1,9 @@
 ---
 url: https://soundcloud.com/salomemcee/delirium-remix
+archive: https://web.archive.org/web/20210126112458/https://soundcloud.com/salomemcee/delirium-remix
 title: Stream Delirium (Remix)| هذیان by Salome MC | Listen online for free on SoundCloud
 status: processed
+tier: discography
 ---
 
 > From Salome Mc's 1st album Delirium | هذیان Featuring Shirali

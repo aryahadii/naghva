@@ -2,6 +2,7 @@
 url: https://norient.com/podcasts/salome-mc-shing02-passenger/
 title: 'Salome MC + Shing02: «Passenger» | norient.com'
 status: processed
+tier: journalism
 archive: https://web.archive.org/web/20191119162240/https://norient.com/podcasts/salome-mc-shing02-passenger/
 ---
 

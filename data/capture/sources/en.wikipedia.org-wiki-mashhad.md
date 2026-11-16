@@ -1,5 +1,6 @@
 ---
 url: https://en.wikipedia.org/wiki/Mashhad
+archive: https://web.archive.org/web/20261031003315/https://en.wikipedia.org/wiki/Mashhad
 title: "Mashhad"
 kind: web page
 language: en

@@ -4,7 +4,7 @@ title: Jadoo — Soofi Namazi — Apple Music video
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Soofi Namazi
 - صوفی نمازی

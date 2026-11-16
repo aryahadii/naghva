@@ -1,5 +1,6 @@
 ---
 url: https://missionlocal.org/2023/01/iranian-revolution-comes-to-the-mission/
+archive: https://web.archive.org/web/20251225052456/https://missionlocal.org/2023/01/iranian-revolution-comes-to-the-mission/
 title: Mahsa Vahdat brings Iranian revolution to the Mission
 kind: web page
 language: en

@@ -3,7 +3,7 @@ url: https://soundcloud.com/mahdyar/bang-remix
 title: Bang (Remix) (feat. Hichkas)
 kind: web page
 language: en
-tier: own
+tier: discography
 status: processed
 archive: https://web.archive.org/web/*/https://soundcloud.com/mahdyar/bang-remix
 ---

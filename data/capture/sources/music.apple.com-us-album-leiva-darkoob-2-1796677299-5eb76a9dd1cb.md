@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/leiva-darkoob-2/1796677299
 title: Leiva (Darkoob 2) - Album by Darkoob Band - Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Darkoob
 status: processed

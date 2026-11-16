@@ -5,7 +5,7 @@ status: processed
 archive: https://web.archive.org/web/20240604064614/https://www.youtube.com/@HichkasOfficial
 kind: youtube channel
 language: en
-tier: own
+tier: discography
 publisher: YouTube
 about:
 - Hichkas

@@ -1,5 +1,6 @@
 ---
 url: https://karlrecords.bandcamp.com/album/rituals-of-the-last-dawn
+archive: https://web.archive.org/web/20260606182729/https://karlrecords.bandcamp.com/album/rituals-of-the-last-dawn
 title: Rituals Of The Last Dawn | SABA ALIZADEH | Karlrecords
 kind: web page
 language: en

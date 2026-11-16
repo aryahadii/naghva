@@ -1,9 +1,11 @@
 ---
 url: https://www.pouyaehsaei.com/about
+archive: https://web.archive.org/web/20250806172246/https://www.pouyaehsaei.com/about
 title: About — Pouya Ehsaei
 language: en
 publisher: Pouya Ehsaei
 status: processed
+tier: own
 ---
 
 > Pouya Ehsaei (From the Lips to the Moon, Ariwo, Parasang) is a musician, sound designer, producer, curator and promoter from Iran, currently based in London.

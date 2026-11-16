@@ -12,6 +12,13 @@ statements:
         1 Song. Duration: 7 minutes.'
       accessed: '2026-11-13'
       locator: Apple Music release description
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-c3-a9l-c3-a9gie-pour-les-ombres-single-1610751813-176f35039b
+      quote: |-
+        Listen to Élégie pour les ombres - Single by Soheil Peyghambari & Golfam Khayam on Apple Music. 2022. 1 Song. Duration: 7 minutes.
+      accessed: '2026-11-13'
   performer:
   - value: Q3waxf2
     references:

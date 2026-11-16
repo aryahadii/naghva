@@ -4,7 +4,7 @@ title: Stone Soup – EP – Arash Sobhani and Andy Fite – Apple Music
 language: en
 publisher: Apple Music
 status: processed
-tier: own
+tier: discography
 ---
 
 > Stone Soup - EP

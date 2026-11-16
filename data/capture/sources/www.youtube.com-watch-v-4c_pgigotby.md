@@ -3,7 +3,7 @@ url: https://www.youtube.com/watch?v=4C_PgiGOtBY
 title: Variations on a Theme by Mozzart - kaveh salehi
 kind: youtube video
 language: en
-tier: own
+tier: discography
 about:
 - Kaveh Salehi
 status: processed

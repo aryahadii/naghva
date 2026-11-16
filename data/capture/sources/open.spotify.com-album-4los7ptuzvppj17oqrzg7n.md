@@ -3,7 +3,7 @@ url: https://open.spotify.com/album/4los7PtuzVpPj17oqRZg7N
 title: Listen to Night + Day - Album by Opium Moon | Spotify
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Hamid Saeidi
 status: processed

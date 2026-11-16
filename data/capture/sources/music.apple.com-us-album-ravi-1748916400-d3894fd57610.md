@@ -1,9 +1,11 @@
 ---
 url: https://music.apple.com/us/album/ravi/1748916400
+archive: https://web.archive.org/web/20241108235832/https://music.apple.com/us/album/ravi/1748916400
 title: Ravi - Album by Golfam Khayam
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > Ravi by Golfam Khayam on Apple Music

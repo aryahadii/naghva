@@ -1,10 +1,11 @@
 ---
 url: https://open.spotify.com/album/7zUVQx386Hphq8v0Dp0A01
+archive: https://web.archive.org/web/20200902211148/https://open.spotify.com/album/7zUVQx386Hphq8v0Dp0A01
 title: Listen to Parallel Establishments - Album by Kiosk | Spotify
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Spotify
 about:
 - Qtgn2be

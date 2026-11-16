@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/barf-single/1633361612
 title: Barf - Single by Chaartaar on Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Qb3nvrj
 status: processed

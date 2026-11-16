@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/endless-path/1280883749
 title: Endless Path - Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Endless Path - Apple Music
 status: processed

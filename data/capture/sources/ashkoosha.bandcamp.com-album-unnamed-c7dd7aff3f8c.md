@@ -1,5 +1,6 @@
 ---
 url: https://ashkoosha.bandcamp.com/album/unnamed
+archive: https://web.archive.org/web/20221225225128/https://ashkoosha.bandcamp.com/album/unnamed
 title: Unnamed | Ash Koosha
 kind: web page
 language: en

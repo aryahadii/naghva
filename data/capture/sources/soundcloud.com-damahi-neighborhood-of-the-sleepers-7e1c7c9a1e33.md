@@ -3,6 +3,7 @@ url: https://soundcloud.com/damahi/neighborhood-of-the-sleepers
 archive: "https://web.archive.org/web/20240831100548/https://soundcloud.com/damahi/neighborhood-of-the-sleepers"
 title: Neighborhood of the Sleepers - محله خاموشان
 status: processed
+tier: discography
 author: Damahi
 publisher: soundcloud.com
 ---

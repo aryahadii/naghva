@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/jaye-man-nisti-feat-sirvan-khosravi-single
 title: Jaye Man Nisti (feat. Sirvan Khosravi) - Single - Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Kaveh Yaghmaei
 status: processed

@@ -2,6 +2,7 @@
 url: https://open.spotify.com/album/2IV0NFyuC8CB9nkg4bo4a6
 title: Night Triptych on Spotify
 status: processed
+tier: discography
 ---
 
 > "name":"Night Triptych"

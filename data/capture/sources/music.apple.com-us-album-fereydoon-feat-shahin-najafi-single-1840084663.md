@@ -4,7 +4,7 @@ title: Fereydoon (feat. Shahin Najafi) - Single - Album by Ramin Sokouty - Apple
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Apple Music
 about:
 - Qn7vfak

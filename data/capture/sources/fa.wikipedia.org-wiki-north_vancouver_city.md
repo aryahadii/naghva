@@ -1,5 +1,6 @@
 ---
 url: https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1_%D9%86%D9%88%D8%B1%D8%AB_%D9%88%D9%86%DA%A9%D9%88%D9%88%D8%B1
+archive: https://web.archive.org/web/20250825175639/https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1_%D9%86%D9%88%D8%B1%D8%AB_%D9%88%D9%86%DA%A9%D9%88%D9%88%D8%B1
 title: "شهر نورث ونکوور"
 kind: web page
 language: fa

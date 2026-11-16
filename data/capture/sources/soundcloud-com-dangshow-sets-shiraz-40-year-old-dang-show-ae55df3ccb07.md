@@ -3,7 +3,7 @@ url: https://soundcloud.com/dangshow/sets/shiraz-40-year-old-dang-show
 title: Stream Dang Show  دنگ شو | Listen to Shiraz 40 Year Old - Dang Show playlist online for free on SoundCloud
 kind: web page
 language: en
-tier: primary
+tier: discography
 status: processed
 ---
 

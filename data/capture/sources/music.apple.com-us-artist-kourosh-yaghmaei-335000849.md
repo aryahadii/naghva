@@ -1,10 +1,11 @@
 ---
 url: https://music.apple.com/us/artist/kourosh-yaghmaei/335000849
+archive: https://web.archive.org/web/20260906173301/https://music.apple.com/us/artist/kourosh-yaghmaei/335000849
 title: Kourosh Yaghmaei - Apple Music
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Apple Music
 about:
 - Kourosh Yaghmaei

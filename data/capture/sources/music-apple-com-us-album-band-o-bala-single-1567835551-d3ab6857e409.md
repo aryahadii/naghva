@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/band-o-bala-single/1567835551
 title: Band O Bala - Single — Apple Music
 kind: web page
 language: en
-tier: primary
+tier: discography
 status: processed
 ---
 

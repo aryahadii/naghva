@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/gomrok-single/1481889896
 title: Gomrok - Single by Mahdyar
 kind: web page
 language: en
-tier: own
+tier: discography
 status: processed
 archive: https://web.archive.org/web/*/https://music.apple.com/us/album/gomrok-single/1481889896
 ---

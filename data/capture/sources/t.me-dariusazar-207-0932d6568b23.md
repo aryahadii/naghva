@@ -1,5 +1,6 @@
 ---
 url: https://t.me/dariusazar/207
+archive: https://web.archive.org/web/20220519051554/https://t.me/dariusazar/207
 title: 'دیوانه جان: artist and Atravan arrangement credits'
 kind: telegram post
 language: fa

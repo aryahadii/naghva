@@ -4,7 +4,7 @@ title: Aseman Be Aseman - song and lyrics by Soofi Namazi, Arash Fathi | Spotify
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Soofi Namazi
 - صوفی نمازی

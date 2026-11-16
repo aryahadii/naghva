@@ -1,10 +1,11 @@
 ---
 url: https://open.spotify.com/album/7hhof0I7tJhr4zBxRKiVr2
+archive: https://web.archive.org/web/20260324192447/https://open.spotify.com/album/7hhof0I7tJhr4zBxRKiVr2
 title: Listen to See You Again - Single by &ME | Spotify
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Spotify
 about:
 - Qf36fnd

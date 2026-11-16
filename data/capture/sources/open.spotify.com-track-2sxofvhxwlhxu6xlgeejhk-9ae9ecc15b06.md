@@ -5,7 +5,7 @@ title: Bipolar - song and lyrics by Rian | Spotify
 status: processed
 kind: web page
 language: mul
-tier: own
+tier: discography
 ---
 
 > Bipolar - song and lyrics by Rian | Spotify
