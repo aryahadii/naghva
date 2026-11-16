@@ -252,6 +252,19 @@ canonical links and the sitemap; CI also requires a full commit SHA in
 `NAGHVA_BUILD_SHA`, `GITHUB_SHA` or Cloudflare’s `WORKERS_CI_COMMIT_SHA`.
 Local builds identify themselves as `local`.
 
+### Telling search engines what changed
+
+Each page in the sitemap carries a `<lastmod>`: when what it says last
+changed, not when it was last built. After a build,
+`integrations/freshness.ts` fingerprints the text, links and data inside each
+page's `<main>` (classes, styles and hashed `/_astro/` files don't count) and
+compares them with `/lastmod.json`, which the live site published with its own
+build. An unchanged page keeps its date; a new or changed page takes this
+build's time and commit. The build stops if the live file can't be read
+(a 404 means a first deploy and dates every page now). Local builds have no
+published site to compare with and date every page now; set
+`NAGHVA_LASTMOD_FROM` to a URL or file to compare with one.
+
 ## Analytics
 
 Session replay and the consent panel are disabled. Visiting the site removes
