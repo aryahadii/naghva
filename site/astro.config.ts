@@ -25,7 +25,7 @@ export default defineConfig({
       filter: (page) => new URL(page).pathname !== '/' && !page.endsWith('/404/') && !new URL(page).pathname.endsWith('/search/'),
       i18n: { defaultLocale: 'en', locales: { en: 'en', fa: 'fa' } },
       serialize: (item) => {
-        const date = lastmod.get(new URL(item.url).pathname);
+        const date = lastmod.get(decodeURI(new URL(item.url).pathname));
         return date ? { ...item, lastmod: date } : item;
       },
     }),

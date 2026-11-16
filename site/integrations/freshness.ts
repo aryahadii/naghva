@@ -1,21 +1,12 @@
 import { readdir, readFile, writeFile } from 'node:fs/promises';
+import { sep } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import type { AstroIntegration } from 'astro';
 import { buildIdentity } from '../scripts/deployment.mjs';
 import { fingerprint, nextState, previousSource, readPrevious, w3cDate } from '../scripts/freshness.mjs';
 
-/** Path (such as /en/) -> when that page last changed, filled after a build for the sitemap. */
+/** Decoded path (such as /en/) -> when that page last changed, filled after a build for the sitemap. */
 export const lastmod = new Map<string, string>();
-
-async function pages(dir: string, base = ''): Promise<string[]> {
-  const found: string[] = [];
-  for (const entry of await readdir(dir + base, { withFileTypes: true })) {
-    const rel = base + entry.name;
-    if (entry.isDirectory()) found.push(...await pages(dir, rel + '/'));
-    else if (entry.name.endsWith('.html')) found.push(rel);
-  }
-  return found;
-}
 
 /**
  * Dates every page by when what it says last changed, and writes
@@ -31,7 +22,8 @@ export default function freshness(): AstroIntegration {
       'astro:build:done': async ({ dir, logger }) => {
         const root = fileURLToPath(dir);
         const hashes: Record<string, string> = {};
-        for (const file of await pages(root)) {
+        const files = (await readdir(root, { recursive: true })).filter((file) => file.endsWith('.html'));
+        for (const file of files.map((f) => f.split(sep).join('/'))) {
           const path = '/' + file.replace(/(^|\/)index\.html$/, '$1');
           hashes[path] = fingerprint(await readFile(root + file, 'utf8'));
         }

@@ -3,22 +3,30 @@ import { readFile } from 'node:fs/promises';
 
 // When each page last changed, for the sitemap's <lastmod> and for IndexNow.
 //
-// A build fingerprints what each page says: the text of its <main> and the
-// attributes that carry content (links, alt text, dates, chart data), but not
+// A build fingerprints what each page says: its title, description and
+// structured data, the text of its <main> and the attributes there that carry
+// content (links, alt text, dates, chart data, island props), but not
 // classes, styles or the hashed /_astro/ files a redesign renames. It then
 // reads the state the live site published with its own build (/lastmod.json).
 // A page whose fingerprint is unchanged keeps its date; a new or changed page
 // takes this build's time and commit, so a rebuild alone moves nothing.
 
-const KEEP = /^(?:alt|title|href|src|srcset|datetime|value|content|aria-label|data-(?!astro-)[\w-]+)$/;
+const KEEP = /^(?:alt|title|href|src|srcset|datetime|value|content|aria-label|props|data-(?!astro-)[\w-]+)$/;
 const ATTRIBUTE = /([^\s=/>]+)(?:\s*=\s*(?:"([^"]*)"|'([^']*)'|([^\s>]+)))?/g;
 
 /**
- * What a page says, as one string: the text and content-bearing attributes
- * inside <main>, or the whole body for a page without one.
+ * What a page says, as one string: its title, description and structured
+ * data, then the text and content-bearing attributes inside <main> (or the
+ * whole page without one).
  * @param {string} html
  */
 export function pageContent(html) {
+  const head = html.slice(0, Math.max(0, html.search(/<body[\s>]/i)));
+  const meta = [
+    ...head.matchAll(/<title[^>]*>([\s\S]*?)<\/title>/gi),
+    ...head.matchAll(/<meta\s[^>]*name=["']description["'][^>]*>/gi),
+    ...head.matchAll(/<script[^>]*application\/ld\+json[^>]*>([\s\S]*?)<\/script>/gi),
+  ].map((m) => m[0].trim());
   const start = html.search(/<main[\s>]/i);
   const end = html.lastIndexOf('</main>');
   let part = start >= 0 && end > start ? html.slice(start, end) : html;
@@ -42,7 +50,7 @@ export function pageContent(html) {
     }
     return '';
   });
-  return out.join('\n');
+  return [...meta, ...out].join('\n');
 }
 
 /** @param {string} html */
@@ -86,15 +94,16 @@ export function w3cDate(date = new Date()) {
 
 /**
  * Where the previous state comes from: NAGHVA_LASTMOD_FROM (a URL or a file),
- * else the published site's /lastmod.json. A build for the local server has
- * none, and dates every page now.
+ * else, in Cloudflare's production build, the published site's
+ * /lastmod.json. Other builds (local, pull requests, the examples) have no
+ * published state to follow and date every page now.
  * @param {string} site
  * @param {NodeJS.ProcessEnv} [env]
  */
 export function previousSource(site, env = process.env) {
   if (env.NAGHVA_LASTMOD_FROM) return env.NAGHVA_LASTMOD_FROM;
   const url = new URL(site);
-  if (url.protocol !== 'https:') return undefined;
+  if (!env.WORKERS_CI_COMMIT_SHA || url.protocol !== 'https:') return undefined;
   return new URL('/lastmod.json', url).href;
 }
 
@@ -107,7 +116,7 @@ export function previousSource(site, env = process.env) {
  * @returns {Promise<{ state: State, note?: string }>}
  */
 export async function readPrevious(source, get = fetch) {
-  if (!source) return { state: {}, note: 'no published site to compare with; every page is dated now' };
+  if (!source) return { state: {}, note: 'not a production build: no published state to compare with; every page is dated now' };
   if (!/^https?:/.test(source)) return { state: JSON.parse(await readFile(source, 'utf8')) };
   const response = await get(source, { headers: { 'cache-control': 'no-cache' } });
   if (response.status === 404) return { state: {}, note: `${source} is not published yet; every page is dated now` };

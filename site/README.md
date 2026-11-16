@@ -256,18 +256,19 @@ Local builds identify themselves as `local`.
 
 Each page in the sitemap carries a `<lastmod>`: when what it says last
 changed, not when it was last built. After a build,
-`integrations/freshness.ts` fingerprints the text, links and data inside each
-page's `<main>` (classes, styles and hashed `/_astro/` files don't count) and
+`integrations/freshness.ts` fingerprints each page's title, description and
+structured data and the text, links and data inside its `<main>` (classes,
+styles and hashed `/_astro/` files don't count). Cloudflare's production build
 compares them with `/lastmod.json`, which the live site published with its own
 build. An unchanged page keeps its date; a new or changed page takes this
-build's time and commit. The build stops if the live file can't be read
-(a 404 means a first deploy and dates every page now). Local builds have no
-published site to compare with and date every page now; set
-`NAGHVA_LASTMOD_FROM` to a URL or file to compare with one.
+build's time and commit. That build stops if the live file can't be read
+(a 404 means a first deploy and dates every page now). Other builds (local,
+pull requests, the examples) don't read the live site and date every page
+now; set `NAGHVA_LASTMOD_FROM` to a URL or file to compare with one.
 
 After Cloudflare deploys `main`, the [IndexNow workflow](../.github/workflows/indexnow.yml)
-waits for `/build.json` to name the commit, then sends the sitemap's pages
-that changed in that build to IndexNow, which passes them to Bing, Yandex,
+waits for `/build.json` to name the commit (or a later one that contains it),
+then sends the sitemap's pages that changed in that build to IndexNow, which passes them to Bing, Yandex,
 Naver, Seznam and Yep (`scripts/indexnow.mjs`; add `--dry-run` to only list
 them). The key is `public/<key>.txt`; it is public by design, so the ping needs
 no secret. Google doesn't use IndexNow and reads `<lastmod>` instead.

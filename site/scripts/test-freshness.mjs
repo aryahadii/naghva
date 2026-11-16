@@ -15,6 +15,14 @@ test('only what the main content says moves the fingerprint', () => {
   assert.notEqual(fingerprint(page('<h1 data-n="3">Sanam</h1><p>Singer from <a href="/en/tehran/">Tehran</a>.</p>')), base);
 });
 
+test('the title, description and structured data count; the rest of the head does not', () => {
+  const html = (title, extra = '') => `<html><head><title>${title}</title><meta name="description" content="About Sanam"><link href="/_astro/${extra}.css"><script type="application/ld+json">{"name":"Sanam"}</script></head><body><main><p>Hi</p></main></body></html>`;
+  assert.equal(fingerprint(html('Sanam', 'a')), fingerprint(html('Sanam', 'b')));
+  assert.notEqual(fingerprint(html('Sanam')), fingerprint(html('Sanam Maroufkhani')));
+  assert.notEqual(fingerprint(html('Sanam')), fingerprint(html('Sanam').replace('About Sanam', 'About her')));
+  assert.notEqual(fingerprint(html('Sanam')), fingerprint(html('Sanam').replace('"Sanam"}', '"Sanam M"}')));
+});
+
 test('page content drops scripts, styles, comments and hashed build files', () => {
   const content = pageContent(page('<style>p{}</style><script type="module">go()</script><!-- x --><img src="/_astro/x.123.webp" alt="Cover"><time datetime="2020-01-01">2020</time><script type="application/json">{"n":1}</script>'));
   assert.equal(content, '<main>\n<img alt=Cover>\n<time datetime=2020-01-01>\n2020\n<script>\n{"n":1}');
@@ -38,9 +46,11 @@ test('dates are UTC to the second', () => {
   assert.equal(w3cDate(new Date('2026-11-16T10:20:30.456Z')), '2026-11-16T10:20:30Z');
 });
 
-test('the previous state comes from the published site, never from a local server', () => {
-  assert.equal(previousSource('https://naghva.com', {}), 'https://naghva.com/lastmod.json');
-  assert.equal(previousSource('http://localhost:4321', {}), undefined);
+test('only the production build follows the published state', () => {
+  const cloudflare = { WORKERS_CI_COMMIT_SHA: 'a'.repeat(40) };
+  assert.equal(previousSource('https://naghva.com', cloudflare), 'https://naghva.com/lastmod.json');
+  assert.equal(previousSource('https://naghva.com', { CI: 'true', GITHUB_SHA: 'a'.repeat(40) }), undefined);
+  assert.equal(previousSource('http://localhost:4321', cloudflare), undefined);
   assert.equal(previousSource('http://localhost:4321', { NAGHVA_LASTMOD_FROM: 'x.json' }), 'x.json');
 });
 
