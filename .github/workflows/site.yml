@@ -52,7 +52,7 @@ jobs:
         run: |
           python3 -m unittest discover -s ../tools -p 'test_*.py'
           python3 ../tools/validate.py
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v7
         with:
           node-version-file: site/.node-version
           cache: npm
