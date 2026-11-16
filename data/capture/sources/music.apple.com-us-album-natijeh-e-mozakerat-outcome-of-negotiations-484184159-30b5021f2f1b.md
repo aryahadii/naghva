@@ -1,9 +1,11 @@
 ---
 url: https://music.apple.com/us/album/natijeh-e-mozakerat-outcome-of-negotiations/484184159
+archive: https://web.archive.org/web/20260311053700/https://music.apple.com/us/album/natijeh-e-mozakerat-outcome-of-negotiations/484184159
 title: Natijeh e Mozakerat (Outcome of Negotiations) - Album by Kiosk - Apple Music
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > Natijeh e Mozakerat (Outcome of Negotiations) by Kiosk on Apple Music

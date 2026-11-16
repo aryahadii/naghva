@@ -4,6 +4,7 @@ title: The Habit - Single - Album by Shahryar Masrour
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > The Habit - Single

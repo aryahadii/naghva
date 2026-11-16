@@ -4,7 +4,7 @@ title: Yare Roozaye Roshan - Single - Album by Reza Rohani & Sara Naeini - Apple
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 ---
 
 > Yare Roozaye Roshan - Single - Album by Reza Rohani & Sara Naeini - Apple Music

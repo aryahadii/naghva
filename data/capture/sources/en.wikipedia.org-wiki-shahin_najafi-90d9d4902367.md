@@ -1,9 +1,11 @@
 ---
 url: https://en.wikipedia.org/wiki/Shahin_Najafi
+archive: https://web.archive.org/web/20260607031849/https://en.wikipedia.org/wiki/Shahin_najafi
 title: Shahin Najafi
 language: en
 publisher: Wikipedia
 status: processed
+tier: wikipedia
 ---
 
 > Then he joined the Tapesh 2012 music band.

@@ -39,6 +39,17 @@ statements:
       quote: '2023-06-02T00:00:00Z'
       accessed: '2026-10-21'
       locator: Catalogue release date
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-d9-88-d9-82-d8-aa-db-8c--d8-aa-d9-88--d8-b1-d9-81-d8-aa-db-8c--d8-a7-d8-b2--d8-ae-d9-4de3137f7a1c
+      quote: |-
+        Listen to وقتی تو رفتی از خونه - Single by Sanam Maroufkhani on Apple Music.
+      accessed: '2026-10-21'
+    - source: music.apple.com-us-album-d9-88-d9-82-d8-aa-db-8c--d8-aa-d9-88--d8-b1-d9-81-d8-aa-db-8c--d8-a7-d8-b2--d8-ae-d9-be5f1afe2d2a
+      quote: |-
+        Listen to وقتی تو رفتی از خونه - Single by Sanam Maroufkhani on Apple Music.
+      accessed: '2026-10-21'
   performer:
   - value: Qa84h2k
     references: &id001

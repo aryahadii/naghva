@@ -3,7 +3,7 @@ url: https://tif.ssrc.org/2015/01/16/how-to-make-someone-famous-for-the-wrong-re
 title: How to make someone famous for the wrong reason
 kind: web page
 language: en
-tier: scholarship
+tier: academic
 publisher: Social Science Research Council (The Immanent Frame)
 author: Austin Dacey
 issued:

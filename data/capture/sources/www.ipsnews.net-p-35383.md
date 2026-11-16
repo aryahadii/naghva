@@ -1,5 +1,6 @@
 ---
 url: https://www.ipsnews.net/?p=35383
+archive: https://web.archive.org/web/20261115163316/https://www.ipsnews.net/2009/06/qa-notes-from-iranrsquos-underground-music-scene/
 title: 'Q&A: Notes From Iran’s Underground Music Scene'
 kind: web page
 language: en

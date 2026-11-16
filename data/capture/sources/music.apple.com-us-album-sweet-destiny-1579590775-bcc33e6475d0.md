@@ -1,9 +1,11 @@
 ---
 url: https://music.apple.com/us/album/sweet-destiny/1579590775
+archive: https://web.archive.org/web/20251213104519/https://music.apple.com/us/album/sweet-destiny/1579590775
 title: Sweet Destiny - Album by Kiosk - Apple Music
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > Sweet Destiny by Kiosk on Apple Music

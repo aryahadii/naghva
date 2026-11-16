@@ -4,7 +4,7 @@ title: ‎Beraghs (feat. Sam Eyvaz) - Single - Album by Golsa - Apple Music
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Golsa
 ---

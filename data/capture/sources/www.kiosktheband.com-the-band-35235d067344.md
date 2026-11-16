@@ -1,5 +1,6 @@
 ---
 url: https://www.kiosktheband.com/the-band
+archive: https://web.archive.org/web/20260721230630/https://www.kiosktheband.com/the-band
 title: The Band | Kiosk
 language: en
 publisher: Kiosk (official site)

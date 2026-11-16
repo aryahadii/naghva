@@ -2,6 +2,7 @@
 url: https://open.spotify.com/track/7DjRmnkNrKxKRiEjoLFNaN
 title: Iran Khube
 status: processed
+tier: discography
 ---
 
 > Iran Khube

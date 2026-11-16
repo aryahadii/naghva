@@ -1,10 +1,11 @@
 ---
 url: https://soundcloud.com/user-102309813/balzan-parandeye-abi
+archive: https://web.archive.org/web/20250901052451/https://soundcloud.com/user-102309813/balzan-parandeye-abi
 title: Stream Balzan - Parandeye Abi by Balzan | Listen online for free on SoundCloud
 status: processed
 kind: artist recording
 language: mul
-tier: own
+tier: discography
 about:
 - Balzan
 - پرنده آبی

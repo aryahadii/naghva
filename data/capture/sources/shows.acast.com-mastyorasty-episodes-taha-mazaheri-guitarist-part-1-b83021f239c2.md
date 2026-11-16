@@ -1,5 +1,6 @@
 ---
 url: https://shows.acast.com/mastyorasty/episodes/taha-mazaheri-guitarist-part-1
+archive: https://web.archive.org/web/20261115151133/https://shows.acast.com/mastyorasty/episodes/taha-mazaheri-guitarist-part-1
 title: Taha Mazaheri (Guitarist) - Part 1 - Masty o Rasty | پادکست فارسی مستی و راستی | Acast
 status: processed
 kind: web page

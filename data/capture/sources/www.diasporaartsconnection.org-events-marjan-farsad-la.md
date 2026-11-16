@@ -1,5 +1,6 @@
 ---
 url: https://www.diasporaartsconnection.org/events/marjan-farsad-la
+archive: https://web.archive.org/web/20261115161823/https://www.diasporaartsconnection.org/events/marjan-farsad-la
 title: "Marjan Farsad in Los Angeles"
 kind: web page
 language: en

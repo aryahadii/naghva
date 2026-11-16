@@ -5,7 +5,7 @@ title: "Sara Naeini - YouTube"
 status: processed
 kind: youtube channel
 language: mul
-tier: own
+tier: discography
 publisher: "YouTube"
 about:
 - Qb23qew

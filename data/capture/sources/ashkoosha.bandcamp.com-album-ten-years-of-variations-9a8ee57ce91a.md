@@ -1,8 +1,10 @@
 ---
 url: https://ashkoosha.bandcamp.com/album/ten-years-of-variations
+archive: https://web.archive.org/web/20261115140126/https://ashkoosha.bandcamp.com/album/ten-years-of-variations
 title: Ten Years of Variations
 language: en
 status: processed
+tier: own
 ---
 
 > Ten Years of Variations

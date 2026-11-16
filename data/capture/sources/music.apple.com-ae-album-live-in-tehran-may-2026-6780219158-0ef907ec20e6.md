@@ -4,7 +4,7 @@ title: Live in Tehran (May 2026) – King Raam – Apple Music
 language: en
 publisher: Apple Music
 status: processed
-tier: own
+tier: discography
 ---
 
 > Live in Tehran (May 2026) - Album by King Raam - Apple Music

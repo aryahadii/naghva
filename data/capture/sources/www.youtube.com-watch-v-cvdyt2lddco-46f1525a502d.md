@@ -5,7 +5,7 @@ title: Ashh Nm & Taha Mazaheri Live At CaveRoom @ashh_nm @tahamazaheri8857
 status: processed
 kind: youtube video
 language: mul
-tier: own
+tier: discography
 about:
 - Taha Mazaheri
 - Q66ky5f

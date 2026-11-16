@@ -3,7 +3,7 @@ url: https://music.apple.com/at/song/naked-7-feat-vincent-pongracz-mahan-mirarab
 title: Naked 7 (feat. Vincent Pongracz, Mahan Mirarab & András Dés) - Song with Lyrics by Mash - Apple Music
 kind: web page
 language: en
-tier: other
+tier: discography
 status: processed
 publisher: music.apple.com
 ---

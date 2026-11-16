@@ -4,7 +4,7 @@ title: Zireh Aab - Song with Lyrics by BabyDrawgon & Rian - Apple Music
 status: processed
 kind: web page
 language: mul
-tier: own
+tier: discography
 ---
 
 > Zireh Aab - Song with Lyrics by BabyDrawgon & Rian - Apple Music

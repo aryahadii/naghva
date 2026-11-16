@@ -4,7 +4,7 @@ title: ممد نوبری (Live Performance) - Album by Shahin Najafi - Apple Mus
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Apple Music
 about:
 - Qn7vfak

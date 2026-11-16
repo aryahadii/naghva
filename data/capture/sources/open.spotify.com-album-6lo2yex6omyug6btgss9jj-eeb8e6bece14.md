@@ -4,7 +4,7 @@ title: Listen to Dokhtar Qouchani - Single by Rian | Spotify
 status: processed
 kind: web page
 language: mul
-tier: own
+tier: discography
 ---
 
 > Listen to Dokhtar Qouchani - Single by Rian | Spotify Dokhtar Qouchani Rian 2025 1 song , 3 min 13 sec Dokhtar Qouchani Rian , Bahar Ferdowsi , Behzad Danesh

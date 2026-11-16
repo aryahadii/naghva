@@ -1,5 +1,6 @@
 ---
 url: https://fa.wikipedia.org/wiki/%DA%A9%D9%84%D9%86
+archive: https://web.archive.org/web/20261103014143/https://fa.wikipedia.org/wiki/%DA%A9%D9%84%D9%86
 title: "کلن"
 kind: web page
 language: fa

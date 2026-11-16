@@ -1,10 +1,11 @@
 ---
 url: https://music.apple.com/us/album/dashi-single/6795318995
+archive: https://web.archive.org/web/20260919105501/https://music.apple.com/us/album/dashi-single/6795318995
 title: Dashi - Single - Album by Shahin Najafi & Erfan - Apple Music
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Apple Music
 about:
 - Qn7vfak

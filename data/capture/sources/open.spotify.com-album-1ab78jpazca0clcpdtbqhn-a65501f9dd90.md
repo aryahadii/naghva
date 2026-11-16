@@ -1,8 +1,9 @@
 ---
 url: https://open.spotify.com/album/1aB78JPaZCA0CLCPdtBqHn
+archive: https://web.archive.org/web/20240914102532/https://open.spotify.com/album/1aB78JPaZCA0CLCPdtBqHn
 title: Listen to Children of Silk - EP by Sevdaliza | Spotify
 status: processed
-tier: own
+tier: discography
 kind: web page
 about:
 - Sevdaliza

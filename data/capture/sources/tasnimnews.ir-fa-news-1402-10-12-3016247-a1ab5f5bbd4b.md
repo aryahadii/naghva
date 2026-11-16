@@ -1,5 +1,6 @@
 ---
 url: https://tasnimnews.ir/fa/news/1402/10/12/3016247
+archive: https://web.archive.org/web/20261115160119/https://tasnimnews.ir/fa/news/1402/10/12/3016247
 title: سفر در آبی خیال و گوشواره‌ای در گوش مخاطب
 kind: web page
 language: fa

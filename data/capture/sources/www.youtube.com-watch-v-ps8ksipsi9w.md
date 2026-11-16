@@ -3,7 +3,7 @@ url: https://www.youtube.com/watch?v=Ps8ksIPsi9w
 title: دخترک ژولیده
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Kaveh Salehi
 status: processed

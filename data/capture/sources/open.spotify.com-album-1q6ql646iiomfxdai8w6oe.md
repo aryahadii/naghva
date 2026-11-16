@@ -1,10 +1,11 @@
 ---
 url: https://open.spotify.com/album/1q6ql646IIOmFXDaI8W6Oe
+archive: https://web.archive.org/web/20220109055849/https://open.spotify.com/album/1q6ql646IIOmFXDaI8W6Oe
 title: Listen to Tramadol - Album by Shahin Najafi | Spotify
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Spotify
 about:
 - Qn7vfak

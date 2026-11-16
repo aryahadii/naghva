@@ -2,6 +2,7 @@
 url: https://music.youtube.com/watch?v=CndlGj1nML4
 title: Taarif Kon
 status: processed
+tier: discography
 ---
 
 > Taarif Kon

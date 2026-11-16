@@ -3,6 +3,7 @@ url: https://music.apple.com/us/song/1639121811
 title: Triangle (feat. Mehdi Saki) — Apple Music
 language: en
 status: processed
+tier: discography
 ---
 
 > Triangle (feat. Mehdi Saki)

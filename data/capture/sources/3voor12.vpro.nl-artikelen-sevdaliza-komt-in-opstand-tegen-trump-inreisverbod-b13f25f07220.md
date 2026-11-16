@@ -1,5 +1,6 @@
 ---
 url: https://3voor12.vpro.nl/artikelen/sevdaliza-komt-in-opstand-tegen-trump-inreisverbod
+archive: https://web.archive.org/web/20261115135355/https://3voor12.vpro.nl/artikelen/sevdaliza-komt-in-opstand-tegen-trump-inreisverbod
 title: Sevdaliza komt in opstand tegen Trump-inreisverbod
 status: processed
 tier: journalism

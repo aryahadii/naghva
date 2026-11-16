@@ -4,7 +4,7 @@ title: Stream Humans are social animals by Rian / آرین | Listen online for f
 status: processed
 kind: web page
 language: mul
-tier: own
+tier: discography
 ---
 
 > Humans are social animals

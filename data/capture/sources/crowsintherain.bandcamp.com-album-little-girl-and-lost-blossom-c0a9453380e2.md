@@ -1,5 +1,6 @@
 ---
 url: https://crowsintherain.bandcamp.com/album/little-girl-and-lost-blossom
+archive: https://web.archive.org/web/20251212054417/https://crowsintherain.bandcamp.com/album/little-girl-and-lost-blossom
 title: Little Girl and Lost Blossom | Crows in the rain
 kind: web page
 language: en

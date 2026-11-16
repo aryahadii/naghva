@@ -1,8 +1,9 @@
 ---
 url: https://music.apple.com/us/artist/farzad-golpayegani/442117517
+archive: https://web.archive.org/web/20260512044558/https://music.apple.com/us/artist/farzad-golpayegani/442117517
 title: ‎Farzad Golpayegani - Apple Music
 status: processed
-tier: own
+tier: discography
 publisher: music.apple.com
 ---
 

@@ -3,6 +3,7 @@ url: https://music.apple.com/us/album/jaye-to-mimiram/1851733852?i=1851733853
 archive: "https://web.archive.org/web/20251202221147/https://music.apple.com/us/album/jaye-to-mimiram/1851733852?i=1851733853"
 title: Jaye To Mimiram by Jilliz Williz on Apple Music
 status: processed
+tier: discography
 ---
 
 > Jaye To Mimiram by Jilliz Williz on Apple Music

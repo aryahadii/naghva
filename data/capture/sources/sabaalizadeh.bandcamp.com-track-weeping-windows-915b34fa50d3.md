@@ -1,8 +1,10 @@
 ---
 url: https://sabaalizadeh.bandcamp.com/track/weeping-windows
+archive: https://web.archive.org/web/20260619094907/https://sabaalizadeh.bandcamp.com/track/weeping-windows
 title: Weeping Windows
 language: en
 status: processed
+tier: own
 ---
 
 > OST composed for a movie named Weeping Windows

@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/khatereh-single/1578292452
 title: Khatereh — Apple release edition
 kind: web page
 language: mul
-tier: platform
+tier: discography
 status: processed
 ---
 

@@ -18,6 +18,13 @@ statements:
       quote: |-
         "release_date":"2016-11-17T00:00:00Z"
       accessed: '2026-11-06'
+  release type:
+  - value: single
+    references:
+    - source: open.spotify.com-album-6y2479xadfd1wlmdtj8jd3-eb52993d3f2d
+      quote: |-
+        Listen to Human - Single by Sevdaliza | Spotify
+      accessed: '2026-11-06'
   performer:
   - value: Qf36fnd
     references:

@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/twinklings-of-hope/1530439508
 title: Twinklings of Hope - Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Twinklings of Hope - Apple Music
 status: processed

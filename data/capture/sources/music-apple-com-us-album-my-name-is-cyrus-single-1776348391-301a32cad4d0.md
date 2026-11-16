@@ -4,6 +4,7 @@ title: My Name Is Cyrus - Single
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > My Name Is Cyrus - Single

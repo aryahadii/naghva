@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/day-and-night-single/1528830957
 title: Day And Night - Single - Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Day And Night - Single
 - Sanam Pasha

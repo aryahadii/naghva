@@ -1,9 +1,11 @@
 ---
 url: https://music.apple.com/us/album/yellow-sky-blue-sun/409091601
+archive: https://web.archive.org/web/20260908175002/https://music.apple.com/us/album/yellow-sky-blue-sun/409091601
 title: Yellow Sky Blue Sun - Album by Bomrani - Apple Music
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > Listen to Yellow Sky Blue Sun by Bomrani on Apple Music. 2010. 10 Songs. Duration: 33 minutes.

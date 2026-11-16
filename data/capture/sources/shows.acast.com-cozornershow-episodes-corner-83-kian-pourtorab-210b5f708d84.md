@@ -1,5 +1,6 @@
 ---
 url: https://shows.acast.com/cozornershow/episodes/corner-83-kian-pourtorab
+archive: https://web.archive.org/web/20261115151101/https://shows.acast.com/cozornershow/episodes/corner-83-kian-pourtorab
 title: 'Corner 83: Kian Pourtorab | کیان پورتراب'
 status: processed
 tier: own

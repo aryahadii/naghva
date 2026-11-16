@@ -4,7 +4,7 @@ title: "Iran e man (feat. Sara Naeini) - Single - Album by Reza Rohani - Apple M
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: "Apple Music"
 about:
 - Qb23qew

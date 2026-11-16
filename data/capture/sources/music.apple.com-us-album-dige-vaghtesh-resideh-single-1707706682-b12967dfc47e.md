@@ -1,9 +1,11 @@
 ---
 url: https://music.apple.com/us/album/dige-vaghtesh-resideh-single/1707706682
+archive: https://web.archive.org/web/20261011070556/https://music.apple.com/us/album/dige-vaghtesh-resideh-single/1707706682
 title: Dige Vaghtesh Resideh - Single by Ali Azimi on Apple Music
 language: mul
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > Dige Vaghtesh Resideh - Single by Ali Azimi on Apple Music

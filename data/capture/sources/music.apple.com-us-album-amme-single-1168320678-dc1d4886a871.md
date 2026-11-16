@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/amme-single/1168320678
 title: Amme - Single - Album by Faarjam - Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Faarjam
 status: processed

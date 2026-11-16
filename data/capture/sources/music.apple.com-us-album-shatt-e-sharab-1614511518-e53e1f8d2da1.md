@@ -4,6 +4,7 @@ title: Shatt-e Sharab — O-Hum
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > Listen to Shatt-e Sharab by O-Hum on Apple Music. 2022. 12 Songs. Duration: 50 minutes.

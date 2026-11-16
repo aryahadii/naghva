@@ -11,7 +11,7 @@
     "url": { "$ref": "item.schema.json#/$defs/url" },
     "kind": { "type": "string", "minLength": 1 },
     "language": { "$ref": "item.schema.json#/$defs/language" },
-    "tier": { "type": "string", "minLength": 1 },
+    "tier": { "enum": ["own", "discography", "journalism", "academic", "wikipedia", "other"] },
     "author": { "type": "string", "minLength": 1 },
     "publisher": { "type": "string", "minLength": 1 },
     "issued": { "$ref": "item.schema.json#/$defs/date" },

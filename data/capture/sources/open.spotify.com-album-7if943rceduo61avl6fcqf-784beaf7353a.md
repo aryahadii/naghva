@@ -4,6 +4,7 @@ title: O Hum Dar Azadi
 language: en
 publisher: Spotify
 status: processed
+tier: discography
 ---
 
 > Listen to O Hum Dar Azadi - Album by O-Hum | Spotify

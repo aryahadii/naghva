@@ -4,7 +4,7 @@ title: The Time Has Come (feat. Lili Haydn, Itai Disraeli, Hamid Saeidi & MB Gor
   - Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - The Time Has Come (feat. Lili Haydn, Itai Disraeli, Hamid Saeidi & MB Gordy)
 - Opium Moon

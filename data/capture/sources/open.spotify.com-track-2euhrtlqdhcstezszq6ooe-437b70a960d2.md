@@ -4,7 +4,7 @@ title: Kaboutar - Live - Spotify
 status: processed
 kind: web page
 language: en
-tier: other
+tier: discography
 about:
 - Monicki
 - Kaboutar - Live

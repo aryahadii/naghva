@@ -1,5 +1,6 @@
 ---
 url: https://www.jillizwilliz.com/arian
+archive: https://web.archive.org/web/20261115163527/https://www.jillizwilliz.com/arian
 title: آرین شریعت | جیلیز ویلیز
 status: processed
 kind: web page

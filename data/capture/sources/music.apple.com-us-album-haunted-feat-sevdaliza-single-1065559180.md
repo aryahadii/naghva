@@ -1,10 +1,11 @@
 ---
 url: https://music.apple.com/us/album/haunted-feat-sevdaliza-single/1065559180
+archive: https://web.archive.org/web/20260930034627/https://music.apple.com/us/album/haunted-feat-sevdaliza-single/1065559180
 title: Haunted (feat. Sevdaliza) - Single - Album by Stwo - Apple Music
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Apple Music
 about:
 - Qf36fnd

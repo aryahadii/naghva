@@ -4,7 +4,7 @@ title: 1404 - Single - Album by Yas - Apple Music
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Apple Music
 about:
 - Qx3svqf

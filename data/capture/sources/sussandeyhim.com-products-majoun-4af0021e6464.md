@@ -1,9 +1,11 @@
 ---
 url: https://sussandeyhim.com/products/majoun
+archive: https://web.archive.org/web/20251014165958/https://sussandeyhim.com/products/majoun
 title: Majoun
 language: en
 publisher: Sussan Deyhim Gallery
 status: processed
+tier: own
 ---
 
 > Sussan Deyhim – Vocals; Richard Horowitz – Keyboards; Byron Wallen – Trumpet; Doug Wimbish – Fretless Bass; Peter Freeman – Bass Overtones; Steve Shehan – Percussion, Djembe; Others

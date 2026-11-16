@@ -2,7 +2,7 @@
 url: https://open.spotify.com/album/0Me01k2WJP3WmRHoGFHWsK
 title: Listen to Scent Of Reunion - Love Duets Across Civilizations - Album by Mahsa Vahdat & Mighty Sam McClain | Spotify
 status: processed
-tier: own
+tier: discography
 publisher: open.spotify.com
 archive: http://web.archive.org/web/20241108184353/https://open.spotify.com/album/0Me01k2WJP3WmRHoGFHWsK
 ---

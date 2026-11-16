@@ -1,9 +1,11 @@
 ---
 url: https://music.apple.com/us/album/trouble-man-ep/278059735
+archive: https://web.archive.org/web/20260310103103/https://music.apple.com/us/album/trouble-man-ep/278059735
 title: Trouble Man - EP - Album by Sussan Deyhim
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > Trouble Man - EP — Album by Sussan Deyhim

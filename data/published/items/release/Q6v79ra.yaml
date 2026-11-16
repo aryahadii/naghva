@@ -34,6 +34,13 @@ statements:
       quote: |-
         "release_date":"19 Jan 2022 00:00:00 GMT"
       accessed: '2026-10-21'
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-khoone-single-1604607742-d633994b8295
+      quote: |-
+        Listen to Khoone - Single by Golsa on Apple Music. 2022. 1 Song. Duration: 4
+      accessed: '2026-10-21'
   performer:
   - value: Qh745pn
     references:

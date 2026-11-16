@@ -3,7 +3,7 @@ url: https://www.youtube.com/@kavehband/videos
 title: Kaveh Yaghmaei - YouTube
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Kaveh Yaghmaei
 status: processed

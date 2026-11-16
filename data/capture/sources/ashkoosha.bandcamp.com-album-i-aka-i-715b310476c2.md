@@ -1,9 +1,11 @@
 ---
 url: https://ashkoosha.bandcamp.com/album/i-aka-i
+archive: https://web.archive.org/web/20250922131858/https://ashkoosha.bandcamp.com/album/i-aka-i
 title: I AKA I | Ash Koosha
 language: en
 publisher: Bandcamp
 status: processed
+tier: own
 ---
 
 > "recordLabel":{"@type":"MusicGroup","name":"Ninja Tune","@id":"https://ninjatune.bandcamp.com","additionalProperty":[{"@type":"PropertyValue","name":"url_suffix","value":"?from=btl"}]}

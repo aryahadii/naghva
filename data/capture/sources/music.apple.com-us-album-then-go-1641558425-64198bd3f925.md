@@ -1,9 +1,11 @@
 ---
 url: https://music.apple.com/us/album/then-go/1641558425
+archive: https://web.archive.org/web/20230130054007/https://music.apple.com/us/album/then-go/1641558425
 title: Then Go - Album by Makan Ashgvari & Amir Saremi
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > Then Go by Makan Ashgvari & Amir Saremi on Apple Music

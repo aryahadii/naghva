@@ -3,7 +3,7 @@ url: https://soundcloud.com/miladderakhshani/sets/afsharestan-3
 title: Afsharestan — SoundCloud
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Qnjntqs
 status: processed

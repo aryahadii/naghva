@@ -1,10 +1,11 @@
 ---
 url: https://open.spotify.com/album/5nBoDW6mFDz4duNf4zRQAa
+archive: https://web.archive.org/web/20190827172423/https://open.spotify.com/album/5nBoDW6mFDz4duNf4zRQAa
 title: Listen to Adameh Mamooli (Ordinary Man) - Album by Kiosk | Spotify
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Spotify
 about:
 - Qtgn2be

@@ -2,7 +2,7 @@
 url: https://www.youtube.com/watch?v=gv5OgOzDWrw
 title: Gole Koochak (feat. Aida Shahghasemi) · Marjan Farsad · Aida Shahghasemi
 status: processed
-tier: own
+tier: discography
 publisher: Marjan Farsad
 language: en
 archive: https://web.archive.org/web/20250407111116/https://www.youtube.com/watch?v=gv5OgOzDWrw

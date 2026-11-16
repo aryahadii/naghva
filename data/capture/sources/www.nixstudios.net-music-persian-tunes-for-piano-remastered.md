@@ -3,7 +3,7 @@ url: https://www.nixstudios.net/music/persian-tunes-for-piano-remastered
 title: Persian Tunes For Piano (Remastered) | Nix Studios
 kind: web page
 language: en
-tier: primary
+tier: own
 about:
 - حمزه یگانه
 status: processed

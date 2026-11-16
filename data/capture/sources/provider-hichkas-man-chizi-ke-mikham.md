@@ -4,6 +4,7 @@ title: Listen to Man Chizi Ke Mikham - Single by Hichkas | Spotify
 language: en
 publisher: Spotify
 status: processed
+tier: discography
 ---
 
 > Listen to Man Chizi Ke Mikham - Single by Hichkas | Spotify

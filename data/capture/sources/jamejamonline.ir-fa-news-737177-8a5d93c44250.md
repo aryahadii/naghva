@@ -1,5 +1,6 @@
 ---
 url: https://jamejamonline.ir/fa/news/737177
+archive: https://web.archive.org/web/20261115142636/https://jamejamonline.ir/fa/news/737177/%D9%88%D9%82%D8%AA%DB%8C-%D9%85%D8%AD%D8%B3%D9%86-%DA%86%D8%A7%D9%88%D8%B4%DB%8C-%D8%B3%D9%84%D8%B7%D8%A7%D9%86-%D9%82%D9%84%D8%A8%E2%80%8C%D9%87%D8%A7%D8%B3%D8%AA%E2%80%AC
 title: اشارت نظر — نوازنده تار در مسیر ستاره شدن
 kind: web page
 language: fa

@@ -4,7 +4,7 @@ title: Sepehr Baba Kojayi (feat. Monicki)
 status: processed
 kind: web page
 language: mul
-tier: own
+tier: discography
 about:
 - Monicki
 - Datis

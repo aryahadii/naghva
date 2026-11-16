@@ -1,5 +1,6 @@
 ---
 url: https://en.wikipedia.org/wiki/Berkeley%2C_California
+archive: https://web.archive.org/web/20261107015557/https://en.wikipedia.org/wiki/Berkeley,_California
 title: "Berkeley, California"
 kind: web page
 language: en

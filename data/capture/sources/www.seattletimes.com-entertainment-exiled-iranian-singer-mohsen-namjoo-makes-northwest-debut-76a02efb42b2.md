@@ -1,10 +1,12 @@
 ---
 url: https://www.seattletimes.com/entertainment/exiled-iranian-singer-mohsen-namjoo-makes-northwest-debut/
+archive: https://web.archive.org/web/20251208113233/https://www.seattletimes.com/entertainment/exiled-iranian-singer-mohsen-namjoo-makes-northwest-debut/
 title: Exiled Iranian singer Mohsen Namjoo makes Northwest debut
 language: en
 author: Paul de Barros
 publisher: The Seattle Times
 status: processed
+tier: journalism
 ---
 
 > Namjoo and Abdi began performing with their rock band, Maad, in 2002, but the authorities shut them down.

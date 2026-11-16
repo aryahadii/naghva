@@ -20,6 +20,13 @@ statements:
       quote: Home | خانه
       accessed: '2026-11-13'
       locator: Artist portfolio title
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-home-feat-medusa-tn-hussein-shahani-single-1530955115-ae0ee515a7
+      quote: |-
+        Listen to Home (feat. Medusa TN & Hussein Shahani) - Single by Salome MC on Apple Music. 2020. 1 Song. Duration: 4 minutes.
+      accessed: '2026-11-13'
   performer:
   - value: Qd3ypxs
     references:

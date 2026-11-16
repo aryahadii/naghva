@@ -1,9 +1,11 @@
 ---
 url: https://www.taratiba.com/
+archive: https://web.archive.org/web/20260811120115/https://www.taratiba.com/
 title: Tara Tiba | Persian Singer
 language: en
 publisher: taratiba.com
 status: processed
+tier: own
 ---
 
 > Born in Iran and based in Perth, Western Australia, Tara Tiba is one of the few singers of her generation who has mastered the Persian classical canonic repertoire, Radif.

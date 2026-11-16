@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/khoda-single/1873209058
 title: Khoda - Single by Ali Azimi
 kind: web page
 language: en
-tier: own
+tier: discography
 status: processed
 archive: https://web.archive.org/web/*/https://music.apple.com/us/album/khoda-single/1873209058
 ---

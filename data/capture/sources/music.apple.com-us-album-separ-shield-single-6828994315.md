@@ -4,7 +4,7 @@ title: SEPAR (Shield) - Single - Album by Reza Pishro, Tech N9ne & Yas - Apple M
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Apple Music
 about:
 - Qx3svqf

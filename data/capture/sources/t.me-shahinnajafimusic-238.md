@@ -1,5 +1,6 @@
 ---
 url: https://t.me/shahinnajafimusic/238
+archive: https://web.archive.org/web/20230702001323/https://t.me/shahinnajafimusic/238
 title: Naghi | Shahin Najafi — native Telegram audio
 kind: telegram post
 language: en

@@ -3,7 +3,7 @@ url: https://open.spotify.com/album/6tKerInG5ZtK0sV4bgBDKq
 title: Eshgh Hamin Bood — exact Spotify programme
 kind: web page
 language: mul
-tier: platform
+tier: discography
 status: processed
 ---
 

@@ -2,6 +2,7 @@
 url: https://music.apple.com/us/song/thousand-mirrors/1701114216
 title: Thousand Mirrors - Song with Lyrics by Rokas Jurkus - Apple Music
 status: processed
+tier: discography
 ---
 
 > "name":"Golfam Khayam","roleNames":["Composer"]

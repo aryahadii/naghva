@@ -4,6 +4,7 @@ title: Tribute To Warriors Of Metal
 language: en
 publisher: Spotify
 status: processed
+tier: discography
 ---
 
 > Tribute To Warriors Of Metal

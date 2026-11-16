@@ -4,7 +4,7 @@ title: "Bayad Del Sepord - Single - Album by Reza Rohani & Sara Naeini - Apple M
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: "Apple Music"
 about:
 - Qb23qew

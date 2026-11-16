@@ -1,5 +1,6 @@
 ---
 url: https://tasnimnews.ir/fa/news/1396/06/12/1508978
+archive: https://web.archive.org/web/20261115155939/https://tasnimnews.ir/fa/news/1396/06/12/1508978
 title: پیش فروش تازه ترین اثر «میلاد درخشانی» آغاز شد
 kind: web page
 language: fa

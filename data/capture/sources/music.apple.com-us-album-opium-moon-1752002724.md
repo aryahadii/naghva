@@ -4,7 +4,7 @@ url: https://music.apple.com/us/album/opium-moon/1752002724
 title: Opium Moon - Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Opium Moon
 - Opium Moon

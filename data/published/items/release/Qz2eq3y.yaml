@@ -42,6 +42,13 @@ statements:
       quote: '2020-06-01T00:00:00Z'
       accessed: '2026-10-21'
       locator: Catalogue release date
+  release type:
+  - value: single
+    references:
+    - source: open.spotify.com-album-2hx1xjd2d3erlvrhahspud-105e6e31d9b8
+      quote: |-
+        Listen to Noghteh Ha - Single by Jetpack | Spotify Noghteh Ha Jetpack 2020 1
+      accessed: '2026-10-22'
   performer:
   - value: Qpy9984
     references:

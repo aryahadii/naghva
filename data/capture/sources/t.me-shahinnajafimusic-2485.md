@@ -1,5 +1,6 @@
 ---
 url: https://t.me/shahinnajafimusic/2485
+archive: https://web.archive.org/web/20230707154908/https://t.me/shahinnajafimusic/2485
 title: 'Ey Eshgh: original lyricist and musicians'
 kind: telegram post
 language: mul

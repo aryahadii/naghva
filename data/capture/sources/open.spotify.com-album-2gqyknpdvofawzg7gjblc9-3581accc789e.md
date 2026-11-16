@@ -4,6 +4,7 @@ title: In Kherghe Biandaz
 language: en
 publisher: Spotify
 status: processed
+tier: discography
 ---
 
 > In Kherghe Biandaz - Album by O-Hum | Spotify

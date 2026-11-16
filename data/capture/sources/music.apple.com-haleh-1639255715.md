@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/raftam-ke-raftam-feat-amir-darabi-na%C4%9F
 title: Raftam Ke Raftam (feat. Amir Darabi & Nağme Yarkın) - Single — Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 status: processed
 ---
 

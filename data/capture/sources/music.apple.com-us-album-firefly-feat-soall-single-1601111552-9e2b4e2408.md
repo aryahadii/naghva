@@ -2,6 +2,7 @@
 url: https://music.apple.com/us/album/firefly-feat-soall-single/1601111552
 title: Firefly (feat. Soall) - Single - Album by Salome MC - Apple Music
 status: processed
+tier: discography
 ---
 
 > Listen to Firefly (feat. Soall) - Single by Salome MC on Apple Music. 2022. 1 Song. Duration: 5 minutes.

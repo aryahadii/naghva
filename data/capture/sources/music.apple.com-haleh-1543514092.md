@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/iranian-female-voice-festival-berlin-2017/
 title: Iranian Female Voice Festival - Berlin 2017 — Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 status: processed
 ---
 

@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/nemikaham-single/1723051066
 title: Nemikaham - Single - Album by Makhoola - Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Makhoula
 status: processed

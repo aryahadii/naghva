@@ -1,9 +1,11 @@
 ---
 url: https://music.apple.com/us/album/esharate-nazar/1564055010
+archive: https://web.archive.org/web/20250429100554/https://music.apple.com/us/album/esharate-nazar/1564055010
 title: Esharate Nazar - Album by Milad Derakhshani - Apple Music
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > "name":"Esharate Nazar"

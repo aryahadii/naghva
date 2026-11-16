@@ -4,7 +4,7 @@ title: Me va To by Majid Salari
 status: processed
 kind: web page
 language: mul
-tier: own
+tier: discography
 ---
 
 > Vocalist: Majid Salari Arranger: Hamzeh Yeganeh  Musicians:  Piano & Keyboard: Hamzeh Yeganeh Oud & Bass Guitar: Ebrahim Alavi Drums & Percussion: Shayan Fathi Poet / Lyricist: The late Ebrahim Monsefi Composer: Majid Salari  Recording: Kargadan Studio  Reza Farhadi Nima Bateghva Mixing & Mastering: Arash Pakzad Producer & Investor: Ebrahim Lajvardi Art Director & Cover Art: Morteza Ghaemi Graphic Design: Marjan Rajbar, Morteza Ghaemi Photography: Amir Azizi, Amirhossein Mir-Talebipour Website Design: Hamid Shavar'an Album Printing & Physical Production: Analog Studio

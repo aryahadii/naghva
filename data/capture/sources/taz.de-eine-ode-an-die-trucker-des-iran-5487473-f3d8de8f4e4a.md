@@ -1,5 +1,6 @@
 ---
 url: https://taz.de/Eine-Ode-an-die-Trucker-des-Iran/!5487473/
+archive: https://web.archive.org/web/20261115160155/https://taz.de/Eine-Ode-an-die-Trucker-des-Iran/!5487473/
 title: Eine Ode an die Trucker des Iran | taz
 kind: web page
 language: de

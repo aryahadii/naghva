@@ -4,7 +4,7 @@ title: "Octavio Paz Live at the Warehouse Studio | اجرای زنده اکتا�
 status: processed
 kind: youtube video
 language: mul
-tier: own
+tier: discography
 publisher: "Damahi داماهى"
 issued:
   date: '2026-09-21'

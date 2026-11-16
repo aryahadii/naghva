@@ -1,5 +1,6 @@
 ---
 url: https://nbe.nl/programma/bach-soefi/
+archive: https://web.archive.org/web/20260713162351/https://nbe.nl/programma/bach-soefi/
 title: Bach & Soefi
 kind: web page
 language: nl

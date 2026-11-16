@@ -3,6 +3,7 @@ url: https://t.me/jumamusic/65
 archive: "https://web.archive.org/web/20220611132048/https://t.me/jumamusic/65"
 title: جوما — 65
 status: processed
+tier: own
 kind: telegram post
 language: fa
 author: Juma

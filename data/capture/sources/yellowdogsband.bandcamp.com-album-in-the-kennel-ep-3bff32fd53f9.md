@@ -1,9 +1,11 @@
 ---
 url: https://yellowdogsband.bandcamp.com/album/in-the-kennel-ep
+archive: https://web.archive.org/web/20250817173357/https://yellowdogsband.bandcamp.com/album/in-the-kennel-ep
 title: In the Kennel EP | Yellow Dogs
 language: en
 publisher: Bandcamp (Yellow Dogs)
 status: processed
+tier: own
 ---
 
 > In The Kennel EP, by Yellow Dogs

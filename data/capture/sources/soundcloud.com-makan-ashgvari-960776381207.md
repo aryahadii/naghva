@@ -4,7 +4,7 @@ archive: "https://web.archive.org/web/20240901122414/https://soundcloud.com/maka
 title: Makan Ashgvari
 status: processed
 language: en
-tier: own
+tier: discography
 publisher: SoundCloud
 ---
 

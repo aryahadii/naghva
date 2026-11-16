@@ -4,7 +4,7 @@ title: "Damahi - WOMEX"
 status: processed
 kind: web page
 language: en
-tier: industry
+tier: other
 publisher: "WOMEX"
 about:
 - Qep6nz6

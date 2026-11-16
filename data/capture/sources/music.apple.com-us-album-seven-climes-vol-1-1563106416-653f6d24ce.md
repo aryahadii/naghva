@@ -2,6 +2,7 @@
 url: https://music.apple.com/us/album/seven-climes-vol-1/1563106416
 title: Seven Climes Vol. 1 - Album by Salome MC - Apple Music
 status: processed
+tier: discography
 ---
 
 > Listen to Seven Climes Vol. 1 by Salome MC on Apple Music. 2021. 7 Songs. Duration: 24 minutes.

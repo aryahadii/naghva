@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/electric-deaf-ep/278192850
 title: Electric Deaf - EP - Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Electric Deaf - EP
 - Sote

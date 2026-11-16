@@ -1,5 +1,6 @@
 ---
 url: https://t.me/halehseyfizadeh/172
+archive: https://web.archive.org/web/20250404234339/https://t.me/halehseyfizadeh/172
 title: “Raftam Ke Raftam"
 kind: telegram post
 language: mul

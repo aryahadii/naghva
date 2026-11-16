@@ -4,7 +4,7 @@ title: SONGS FROM UR
 kind: music catalog item
 language: en
 publisher: Spotify
-tier: other
+tier: discography
 about:
 - Sussan Deyhim
 - Torsten Rasch

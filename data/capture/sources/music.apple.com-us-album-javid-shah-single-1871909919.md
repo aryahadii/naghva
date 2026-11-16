@@ -1,10 +1,11 @@
 ---
 url: https://music.apple.com/us/album/javid-shah-single/1871909919
+archive: https://web.archive.org/web/20260314075237/https://music.apple.com/us/album/javid-shah-single/1871909919
 title: Javid Shah - Single - Album by Shahin Najafi & Ramin Sokouty - Apple Music
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Apple Music
 about:
 - Qn7vfak

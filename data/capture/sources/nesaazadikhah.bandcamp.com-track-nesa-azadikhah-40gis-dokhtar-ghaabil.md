@@ -1,5 +1,6 @@
 ---
 url: https://nesaazadikhah.bandcamp.com/track/nesa-azadikhah-40gis-dokhtar-ghaabil
+archive: https://web.archive.org/web/20261115144823/https://nesaazadikhah.bandcamp.com/track/nesa-azadikhah-40gis-dokhtar-ghaabil
 title: Nesa Azadikhah & 40gis - Dokhtar Ghaabil
 kind: web page
 language: en

@@ -1,11 +1,12 @@
 ---
 url: https://soundcloud.com/kaabin/shekastehtar
+archive: https://web.archive.org/web/20261016185357/https://soundcloud.com/kaabin/shekastehtar
 title: Kābin - ShekastehTar | SoundCloud
 language: fa
 publisher: SoundCloud
 status: processed
 kind: track page
-tier: own
+tier: discography
 about:
 - Kābin
 - Dariush Azar

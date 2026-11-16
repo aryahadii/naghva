@@ -1,10 +1,11 @@
 ---
 url: https://music.apple.com/us/album/pop-emergency/479547090
+archive: https://web.archive.org/web/20260801214555/https://music.apple.com/us/album/pop-emergency/479547090
 title: Pop Emergency - Album by 127 - Apple Music
 language: en
 publisher: Apple Music
 status: processed
-tier: own
+tier: discography
 ---
 
 > Pop Emergency

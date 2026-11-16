@@ -1,5 +1,6 @@
 ---
 url: https://safajooyan.ir/product/balzan-man-o-ou/
+archive: https://web.archive.org/web/20261115150217/https://safajooyan.ir/product/balzan-man-o-ou/
 title: ترک من و او از بالزن
 status: processed
 kind: web page

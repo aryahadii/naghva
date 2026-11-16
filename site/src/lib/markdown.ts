@@ -3,7 +3,23 @@ import type { Citations } from './citations';
 import { isolate } from './html';
 import type { Lang, Note } from './record';
 
-const marked = new Marked({ gfm: true, async: false });
+const escape = (text: string) =>
+  text.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+const SAFE_HREF = /^(?:https?:\/\/|#|\/(?!\/))/i;
+
+// Articles are Markdown only: raw HTML is shown as text, and a link must go
+// to a web page, an anchor or a path on the site.
+const marked = new Marked({
+  gfm: true,
+  async: false,
+  renderer: {
+    html: ({ text }) => escape(text),
+    link({ href, tokens }) {
+      const label = this.parser.parseInline(tokens);
+      return SAFE_HREF.test(href) ? false : label;
+    },
+  },
+});
 const RUN = /(?:\[\^[^\]\s]+\])+/g;
 const KEY = /\[\^([^\]\s]+)\]/g;
 

@@ -1,5 +1,6 @@
 ---
 url: https://en.wikipedia.org/wiki/Toronto
+archive: https://web.archive.org/web/20261109052925/https://en.wikipedia.org/wiki/Toronto
 title: "Toronto"
 kind: web page
 language: en

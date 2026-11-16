@@ -1,5 +1,6 @@
 ---
 url: https://mahanmirarab.bandcamp.com/album/say-your-most-beautiful-word
+archive: https://web.archive.org/web/20261115144416/https://mahanmirarab.bandcamp.com/album/say-your-most-beautiful-word
 title: Say Your Most Beautiful Word | Mahan Mirarab
 kind: web page
 language: en

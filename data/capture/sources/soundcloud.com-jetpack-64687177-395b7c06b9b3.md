@@ -4,7 +4,7 @@ title: 'Jetpack: SoundCloud profile'
 status: processed
 kind: artist catalog
 language: en
-tier: own
+tier: discography
 about:
 - Jetpack
 ---

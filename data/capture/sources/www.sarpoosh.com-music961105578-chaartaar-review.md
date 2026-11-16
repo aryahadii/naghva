@@ -1,5 +1,6 @@
 ---
 url: https://www.sarpoosh.com/art-cinema/music/music961105578.html
+archive: https://web.archive.org/web/20180213003710/http://www.sarpoosh.com:80/art-cinema/music/music961105578.html
 title: گرمای بازار موسیقی در سرمای زمستان
 kind: review
 language: fa

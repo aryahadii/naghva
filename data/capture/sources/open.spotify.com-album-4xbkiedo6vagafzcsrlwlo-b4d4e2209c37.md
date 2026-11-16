@@ -4,7 +4,7 @@ title: Baron — exact Spotify programme
 status: processed
 kind: web page
 language: mul
-tier: platform
+tier: discography
 ---
 
 > Listen to Baron - Single by Majid Salari | Spotify Baron Majid Salari 2022 1 song , 3 min 54 sec Baron Majid Salari , Reza Koolaghani

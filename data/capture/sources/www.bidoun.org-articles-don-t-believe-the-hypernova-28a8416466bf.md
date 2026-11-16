@@ -5,6 +5,7 @@ language: en
 author: Negar Azimi, Tiffany Malakooti, Babak Radboy (interviewers)
 publisher: Bidoun
 status: processed
+tier: journalism
 archive: https://web.archive.org/web/20260512090827/https://www.bidoun.org/articles/don-t-believe-the-hypernova
 ---
 

@@ -2,6 +2,7 @@
 url: https://music.apple.com/us/album/%C3%A9l%C3%A9gie-pour-les-ombres-single/1610751813
 title: Élégie pour les ombres - Single - Album by Soheil Peyghambari & Golfam Khayam - Apple Music
 status: processed
+tier: discography
 ---
 
 > Listen to Élégie pour les ombres - Single by Soheil Peyghambari & Golfam Khayam on Apple Music. 2022. 1 Song. Duration: 7 minutes.

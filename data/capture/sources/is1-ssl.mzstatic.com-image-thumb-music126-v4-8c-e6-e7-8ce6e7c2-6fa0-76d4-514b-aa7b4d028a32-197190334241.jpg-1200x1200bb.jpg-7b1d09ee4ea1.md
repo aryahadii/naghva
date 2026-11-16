@@ -3,7 +3,7 @@ url: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8c/e6/e7/8ce6e7c2-6fa0
 title: Afsharestan — whole cover
 kind: cover image
 language: mul
-tier: own
+tier: discography
 about:
 - Qnjntqs
 status: processed

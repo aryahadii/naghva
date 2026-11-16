@@ -1,11 +1,13 @@
 ---
 url: https://t.me/jumamusic/295
+archive: https://web.archive.org/web/20260413050947/https://t.me/jumamusic/295
 title: جوما — 295
 kind: telegram post
 language: fa
 author: Juma
 publisher: Telegram (Juma)
 status: processed
+tier: own
 accessed: '2026-10-22'
 ---
 

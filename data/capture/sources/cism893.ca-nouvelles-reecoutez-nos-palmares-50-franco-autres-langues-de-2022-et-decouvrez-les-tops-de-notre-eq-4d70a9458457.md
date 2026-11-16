@@ -1,5 +1,6 @@
 ---
 url: https://cism893.ca/nouvelles/reecoutez-nos-palmares-50-franco-autres-langues-de-2022-et-decouvrez-les-tops-de-notre-equipe-danimation
+archive: https://web.archive.org/web/20261115140459/https://cism893.ca/nouvelles/reecoutez-nos-palmares-50-franco-autres-langues-de-2022-et-decouvrez-les-tops-de-notre-equipe-danimation
 title: 'CISM: 2022 charts and radio-host selections'
 status: processed
 kind: web page

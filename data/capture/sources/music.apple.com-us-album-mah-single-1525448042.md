@@ -4,7 +4,7 @@ title: Mah - Single - Album by Kiosk - Apple Music
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Apple Music
 about:
 - Qtgn2be

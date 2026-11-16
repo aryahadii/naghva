@@ -27,6 +27,17 @@ statements:
       quote: |-
         October 31, 2025
       accessed: '2026-10-19'
+  release type:
+  - value: album
+    references:
+    - source: music.apple.com-us-album-heroina-1837544742-36302e025395
+      quote: |-
+        ‎HEROINA - Album by Sevdaliza - Apple Music
+      accessed: '2026-11-06'
+    - source: open.spotify.com-album-49mijye7d4cfkdejfqawal-164e43a8d857
+      quote: |-
+        Listen to HEROINA - Album by Sevdaliza | Spotify
+      accessed: '2026-11-06'
   performer:
   - value: Qf36fnd
     references:

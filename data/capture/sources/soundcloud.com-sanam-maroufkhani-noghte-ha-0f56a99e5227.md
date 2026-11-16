@@ -3,6 +3,7 @@ url: https://soundcloud.com/sanam-maroufkhani/noghte-ha
 archive: "https://web.archive.org/web/20230908084842/https://soundcloud.com/sanam-maroufkhani/noghte-ha"
 title: Noghte ha
 status: processed
+tier: discography
 language: en
 publisher: Sanam Maroufkhani
 ---

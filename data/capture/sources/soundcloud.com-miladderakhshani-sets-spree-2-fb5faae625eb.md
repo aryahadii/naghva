@@ -3,7 +3,7 @@ url: https://soundcloud.com/miladderakhshani/sets/spree-2
 title: Spree — SoundCloud
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Qnjntqs
 status: processed

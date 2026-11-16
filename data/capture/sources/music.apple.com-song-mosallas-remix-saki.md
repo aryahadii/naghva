@@ -3,6 +3,7 @@ url: https://music.apple.com/us/song/1694305376
 title: mosallas-remix — Apple Music credits
 language: en
 status: processed
+tier: discography
 ---
 
 > Mosallas (feat. Mehdi Saki) [Remix]

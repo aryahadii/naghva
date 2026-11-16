@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/nish-single/1635782978
 title: Nish - Apple Music
 kind: web page
 language: en
-tier: other
+tier: discography
 about:
 - Moody Moussavi
 - Nish

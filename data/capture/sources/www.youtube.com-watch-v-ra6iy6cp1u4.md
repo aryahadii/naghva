@@ -5,7 +5,7 @@ title: "هموطن (Reza Rohani, Sara Naeini)"
 status: processed
 kind: youtube video
 language: mul
-tier: own
+tier: discography
 publisher: "Sara Naeini"
 issued:
   date: '2022-09-27'

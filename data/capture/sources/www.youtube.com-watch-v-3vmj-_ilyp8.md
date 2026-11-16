@@ -3,7 +3,7 @@ url: https://www.youtube.com/watch?v=3vMJ-_IlYp8
 title: ماه من نیست
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Kaveh Salehi
 status: processed

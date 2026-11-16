@@ -5,6 +5,7 @@ language: fa
 publisher: O-Hum
 archive: https://web.archive.org/web/*/https://www.ohum.online/content/about.htm
 status: processed
+tier: own
 ---
 
 > گروه راک اوهام در سال 1378 با حضور شهرام شعرباف (خواننده/ گیتار/ کیبورد) ، شاهرخ ایزدخواه (گیتار/سه تار/سینتی سایزر) و بابک ریاحی پور (باس) در تهران شکل گرفت و از آن زمان نزدیک به سه دهه در سبک راک فارسی در داخل ایران فعال بوده است.

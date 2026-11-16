@@ -1,5 +1,6 @@
 ---
 url: https://iranian.com/main/music/take-it-easy-hospital.html
+archive: https://web.archive.org/web/20260404160427/http://iranian.com/main/music/take-it-easy-hospital.html
 title: Take It Easy Hospital | Iranian.com
 kind: web page
 language: en

@@ -1,9 +1,10 @@
 ---
 url: "https://open.spotify.com/artist/2iBwseZKrm1bWGM1ootnCq"
+archive: https://web.archive.org/web/20220720032915/https://open.spotify.com/artist/2iBwseZKrm1bWGM1ootnCq
 title: "Makhoola | Spotify"
 kind: "web page"
 language: "en"
-tier: "own"
+tier: discography
 status: "processed"
 ---
 

@@ -2,6 +2,7 @@
 url: https://open.spotify.com/track/0Jb6kcWet1YKsBotxWycLQ
 title: Jaye To Mimiram
 status: processed
+tier: discography
 ---
 
 > Jaye To Mimiram

@@ -1,5 +1,6 @@
 ---
 url: https://medium.com/authority-magazine/stars-making-a-social-impact-why-how-arash-sobhani-of-kiosk-is-helping-to-change-our-world-c94381b0b50e
+archive: https://web.archive.org/web/20230801064849/https://medium.com/authority-magazine/stars-making-a-social-impact-why-how-arash-sobhani-of-kiosk-is-helping-to-change-our-world-c94381b0b50e
 title: 'Stars Making a Social Impact: Why & How Arash Sobhani of Kiosk Is Helping To Change Our World'
 kind: web page
 language: en

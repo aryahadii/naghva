@@ -2,7 +2,7 @@
 url: https://music.apple.com/us/song/1837544899
 title: ‎Angel - Song with Lyrics by Sevdaliza & Eartheater - Apple Music
 status: processed
-tier: own
+tier: discography
 kind: web page
 about:
 - Sevdaliza

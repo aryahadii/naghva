@@ -4,7 +4,7 @@ title: 'B-Sides: 2010-2014 – King Raam – Apple Music'
 language: en
 publisher: Apple Music
 status: processed
-tier: own
+tier: discography
 ---
 
 > B-Sides: 2010-2014 - Album by King Raam - Apple Music

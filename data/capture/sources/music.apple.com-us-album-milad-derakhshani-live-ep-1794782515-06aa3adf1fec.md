@@ -4,6 +4,7 @@ title: Milad Derakhshani (live) - EP
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > Milad Derakhshani (live) - EP

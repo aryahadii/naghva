@@ -4,7 +4,7 @@ title: Hayoula - Single - Album by Shaayn, Golsa & Taha Mazaheri - Apple Music
 status: processed
 kind: web page
 language: mul
-tier: own
+tier: discography
 ---
 
 > Hayoula - Single - Album by Shaayn, Golsa & Taha Mazaheri - Apple Music

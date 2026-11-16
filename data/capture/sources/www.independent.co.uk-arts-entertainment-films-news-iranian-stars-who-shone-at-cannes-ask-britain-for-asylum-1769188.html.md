@@ -1,5 +1,6 @@
 ---
 url: https://www.independent.co.uk/arts-entertainment/films/news/iranian-stars-who-shone-at-cannes-ask-britain-for-asylum-1769188.html
+archive: https://web.archive.org/web/20261112084010/https://www.independent.co.uk/arts-entertainment/films/news/iranian-stars-who-shone-at-cannes-ask-britain-for-asylum-1769188.html
 title: Iranian stars who shone at Cannes ask Britain for asylum
 kind: web page
 language: en

@@ -3,7 +3,7 @@ url: https://soundcloud.com/dariusazar/rasht
 title: Rasht ( رشت ) | Dariush Azar SoundCloud
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Dariush Azar
 status: processed

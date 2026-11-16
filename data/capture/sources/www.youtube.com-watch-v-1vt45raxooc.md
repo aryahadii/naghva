@@ -5,7 +5,7 @@ title: Bolandam Kon – Dobare (Monicki Cover) Live at Takotook, Toronto
 status: processed
 kind: youtube video
 language: mul
-tier: own
+tier: discography
 about:
 - Monicki
 ---

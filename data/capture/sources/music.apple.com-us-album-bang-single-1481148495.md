@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/bang-single/1481148495
 title: Bang - Single by Mahdyar
 kind: web page
 language: en
-tier: own
+tier: discography
 status: processed
 archive: https://web.archive.org/web/*/https://music.apple.com/us/album/bang-single/1481148495
 ---

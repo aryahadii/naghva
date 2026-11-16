@@ -2,6 +2,7 @@
 url: https://narnackrecords.bandcamp.com/album/through-the-chaos
 title: Through The Chaos | Hypernova | NARNACK RECORDS
 status: processed
+tier: own
 archive: https://web.archive.org/web/20250520144054/https://narnackrecords.bandcamp.com/album/through-the-chaos
 ---
 

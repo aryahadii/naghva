@@ -4,6 +4,7 @@ title: Shy Angels
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > ‎Shy Angels - Album by Sussan Deyhim & Bill Laswell - Apple Music

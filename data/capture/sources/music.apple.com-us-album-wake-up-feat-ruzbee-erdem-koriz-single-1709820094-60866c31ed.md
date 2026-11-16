@@ -3,6 +3,7 @@ url: https://music.apple.com/us/album/wake-up-feat-ruzbee-erdem-koriz-single/170
 title: Wake Up (feat. Ruzbee & Erdem Koriz) - Single - Album by Fardin, Salome MC, Erdem Koriz, Bigvike, Ruzbee
   & Hamed - Apple Music
 status: processed
+tier: discography
 ---
 
 > Listen to Wake Up (feat. Ruzbee & Erdem Koriz) - Single by Fardin, Salome MC, Erdem Koriz, Bigvike, Ruzbee & Hamed on Apple Music. 2023. 1 Song. Duration: 4 minutes.

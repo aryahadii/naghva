@@ -4,6 +4,7 @@ title: Derakht - Album by Golnar & Mahan, Golnar Shahyar, Mahan Mirarab & Amir W
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 archive: https://web.archive.org/web/20251016194455/https://music.apple.com/us/album/derakht/1317199759
 ---
 

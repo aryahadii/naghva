@@ -1,9 +1,10 @@
 ---
 url: https://www.youtube.com/watch?v=TPPGHN5nvzE
+archive: https://web.archive.org/web/20230415092340/https://www.youtube.com/watch?v=TPPGHN5nvzE
 title: Hichkas - Bezan
 kind: youtube video
 language: en
-tier: own
+tier: discography
 status: processed
 accessed: '2026-10-23'
 author: Hichkas

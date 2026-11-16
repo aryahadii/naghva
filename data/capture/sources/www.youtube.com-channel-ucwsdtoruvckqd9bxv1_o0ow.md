@@ -5,7 +5,7 @@ title: "Damahi داماهى - YouTube"
 status: processed
 kind: web page
 language: mul
-tier: own
+tier: discography
 publisher: "YouTube"
 about:
 - Qep6nz6

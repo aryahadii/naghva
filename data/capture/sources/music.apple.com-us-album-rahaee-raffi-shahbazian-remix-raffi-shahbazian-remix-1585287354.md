@@ -4,7 +4,7 @@ title: "Rahaee (Raffi Shahbazian Remix) [Raffi Shahbazian Remix] - Single - Albu
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: "Apple Music"
 about:
 - Qb23qew

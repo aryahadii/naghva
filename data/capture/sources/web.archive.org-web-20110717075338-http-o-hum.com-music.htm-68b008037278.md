@@ -4,6 +4,7 @@ title: 'O-Hum Official Site: music (captured 2011-07-17)'
 language: en
 publisher: O-Hum (official site, Wayback Machine)
 status: processed
+tier: own
 accessed: '2026-10-23'
 ---
 

@@ -1,5 +1,6 @@
 ---
 url: https://kaaitheater.be/en/agenda/24-25/concretely-we-voices-within-camp
+archive: https://web.archive.org/web/20260518122514/https://kaaitheater.be/en/agenda/24-25/concretely-we-voices-within-camp
 title: ' The Concretely WE: Voices From Within the Camp - | Kaaitheater { this.animateLogo = true; }, 200) }'
 kind: web page
 language: en

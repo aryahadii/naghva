@@ -1,5 +1,6 @@
 ---
 url: https://de.wikipedia.org/wiki/Meera_(Band)
+archive: https://web.archive.org/web/20241203165357/https://de.wikipedia.org/wiki/Meera_(Band)
 title: Meera (Band) | Wikipedia
 kind: web page
 language: de

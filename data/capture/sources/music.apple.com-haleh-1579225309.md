@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/tidings-of-an-outcry-single/1579225309
 title: Tidings of an Outcry - Single — Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 status: processed
 ---
 

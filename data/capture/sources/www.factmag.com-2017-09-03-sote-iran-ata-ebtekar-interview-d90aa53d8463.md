@@ -4,6 +4,7 @@ title: Sote is helping Iran’s experimental electronic music scene become a pow
 language: en
 publisher: FACT
 status: processed
+tier: journalism
 archive: https://web.archive.org/web/20260514081322/https://www.factmag.com/2017/09/03/sote-iran-ata-ebtekar-interview/
 ---
 

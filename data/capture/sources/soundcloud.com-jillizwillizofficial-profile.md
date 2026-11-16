@@ -2,6 +2,7 @@
 url: https://soundcloud.com/jillizwillizofficial/tracks
 title: "Jilliz Williz / جیلیز ویلیز"
 status: processed
+tier: discography
 ---
 
 > Jilliz Williz / جیلیز ویلیز

@@ -28,6 +28,17 @@ statements:
       quote: '2025-12-04T00:00:00Z'
       accessed: '2026-10-21'
       locator: Catalogue release date
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-mirror-for-the-sun-single-1857398682-cd4238cf85a9
+      quote: |-
+        Listen to Mirror for the Sun - Single by Sanam Maroufkhani on Apple Music.
+      accessed: '2026-10-21'
+    - source: music.apple.com-us-album-mirror-for-the-sun-single-1870084962-e63623399a9d
+      quote: |-
+        Listen to Mirror for the Sun - Single by Sanam Maroufkhani on Apple Music.
+      accessed: '2026-10-21'
   performer:
   - value: Qa84h2k
     references: &id001

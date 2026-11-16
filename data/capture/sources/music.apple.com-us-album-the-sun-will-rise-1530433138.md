@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/the-sun-will-rise/1530433138
 title: The Sun Will Rise - Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - The Sun Will Rise - Apple Music
 status: processed
