@@ -4,7 +4,7 @@ import branch from '../assets/art/nightingale-branch.png';
 import frieze from '../assets/art/garden-frieze.png';
 import wordmark from '../../../assets/brand/logos/wordmark-with-rule/naghva-wordmark-with-rule-on-dark-transparent.svg?url';
 import type { LinkedImage } from '../lib/images';
-import { strings } from '../lib/i18n';
+import { fill, strings } from '../lib/i18n';
 import type { Lang, Text } from '../lib/record';
 import { BRAND_ICONS } from '../lib/share-icons';
 
@@ -26,7 +26,7 @@ interface Props {
 }
 const { lang, address, name, other, kicker, photo } = Astro.props;
 const t = strings(lang).share;
-const text = t.text.replace('{name}', name.text);
+const text = fill(t.text, { name: name.text });
 const enc = encodeURIComponent;
 const apps = [
   { id: 'telegram', name: t.telegram, href: `https://t.me/share/url?url=${enc(address)}&text=${enc(text)}` },
@@ -40,7 +40,7 @@ const story = {
   site: new URL(address).host,
   name: name.text,
   other: other?.text ?? null,
-  kicker: kicker.replace(/<[^>]+>/g, '').replace(/&amp;/g, '&'),
+  kicker,
   photo: photo ? { src: photo.src, fallback: photo.fallback ?? null } : null,
   art: {
     branch: (await getImage({ src: branch, width: 720, format: 'webp' })).src,
@@ -101,6 +101,7 @@ const shown = address.replace(/^https?:\/\//, '').replace(/\/$/, '');
       data-story-desktop={t.storyDesktop}
       data-story-desktop-no-copy={t.storyDesktopNoCopy}
       data-preparing={t.preparing}
+      data-ready={t.ready}
       data-copy-manual={t.copyManual}
       data-failed={t.failed}
     ></p>

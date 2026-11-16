@@ -85,13 +85,11 @@ function write(ctx: CanvasRenderingContext2D, text: string, y: number) {
 
 async function draw(story: Story): Promise<Blob> {
   const rtl = story.lang === 'fa';
-  const texts = [story.name, story.other ?? '', story.kicker, story.site];
-  await Promise.all([
-    ...texts.flatMap((s) => (['name', 'small', 'alt'] as const).map((role) => {
-      const [weight, family] = fontFor(s, role);
-      return document.fonts.load(`${weight} 40px ${family.split(',')[0]}`, s || 'a').catch(() => null);
-    })),
-  ]);
+  const texts: [string, 'name' | 'small' | 'alt'][] = [[story.name, 'name'], [story.other ?? '', 'alt'], [story.kicker, 'small'], [story.site, 'small']];
+  await Promise.all(texts.filter(([text]) => text).map(([text, role]) => {
+    const [weight, family] = fontFor(text, role);
+    return document.fonts.load(`${weight} 40px ${family.split(',')[0]}`, text).catch(() => null);
+  }));
   const [photo, branch, frieze, wordmark] = await Promise.all([
     photoOf(story), load(story.art.branch), load(story.art.frieze), load(story.art.wordmark),
   ]);
@@ -124,11 +122,58 @@ async function draw(story: Story): Promise<Blob> {
     }
     ctx.restore();
   }
-  // The photo, whole, in the middle.
+  // Kicker, name and the name in the other script, measured first so the photo makes room for them.
+  ctx.textAlign = 'center';
+  ctx.textBaseline = 'alphabetic';
+  type Line = { text: string; font: string; color: string; spacing: string; gap: number };
+  const block: Line[] = [];
+  const kickerPersian = PERSIAN.test(story.kicker);
+  const kicker = kickerPersian ? story.kicker : story.kicker.toUpperCase();
+  ctx.letterSpacing = kickerPersian ? '0px' : '5px';
+  fit(ctx, kicker, 'small', rtl ? 36 : 30, 20, 900);
+  block.push({ text: kicker, font: ctx.font, color: COPPER, spacing: ctx.letterSpacing, gap: 0 });
+  ctx.letterSpacing = '0px';
+
+  const persianName = PERSIAN.test(story.name);
+  const largest = photo ? 112 : 150;
+  let size = fit(ctx, story.name, 'name', largest, 64, 920);
+  let rows = [story.name];
+  // A long name takes two balanced lines rather than shrinking past reading size.
+  if (size < 84 && story.name.includes(' ')) {
+    fit(ctx, story.name, 'name', largest, largest, Infinity);
+    rows = lines(ctx, story.name, 920);
+    size = Math.min(...rows.map((r) => fit(ctx, r, 'name', largest, 56, 920)));
+    const [weight, family] = fontFor(story.name, 'name');
+    ctx.font = `${weight} ${size}px ${family}`;
+  }
+  // A name with no space to break at shrinks further rather than overflow.
+  if (rows.length === 1 && ctx.measureText(story.name).width > 920) size = fit(ctx, story.name, 'name', size, 36, 920);
+  const leading = size * (persianName ? 1.45 : 1.1);
+  rows.forEach((row, n) => block.push({
+    text: row, font: ctx.font, color: IVORY, spacing: '0px', gap: n ? leading : 40 + size * (persianName ? 1.05 : .95),
+  }));
+  let last = size;
+  if (story.other) {
+    const altPersian = PERSIAN.test(story.other);
+    const other = altPersian ? story.other : story.other.toUpperCase();
+    ctx.letterSpacing = altPersian ? '0px' : '4px';
+    const s = fit(ctx, other, 'alt', altPersian ? 54 : 32, 22, 900);
+    block.push({ text: other, font: ctx.font, color: IVORY_2, spacing: ctx.letterSpacing, gap: size * (persianName ? .5 : .3) + s * (altPersian ? 1.5 : 1.6) });
+    ctx.letterSpacing = '0px';
+    last = s;
+  }
+  const blockHeight = block.reduce((sum, l) => sum + l.gap, 0) + last * .45;
+
+  // The footer's fixed place: the garden along the foot, the wordmark above it.
+  const fh = frieze ? W * frieze.height / frieze.width : 150;
+  const fy = H - fh - 60;
+  const footerTop = fy - 300;
+
+  // The photo, whole, as large as the text below it allows.
   let y = 340;
   if (photo) {
     const maxW = 820;
-    const maxH = 680;
+    const maxH = Math.max(360, Math.min(680, footerTop - y - 100 - blockHeight));
     const scale = Math.min(maxW / photo.naturalWidth, maxH / photo.naturalHeight);
     const pw = Math.round(photo.naturalWidth * scale);
     const ph = Math.round(photo.naturalHeight * scale);
@@ -151,53 +196,18 @@ async function draw(story: Story): Promise<Blob> {
     ctx.restore();
     y = py + ph + 100;
   } else {
-    y = 860;
+    y = Math.max(560, (340 + footerTop - blockHeight) / 2);
   }
-
-  // Kicker, name and the name in the other script.
-  ctx.textAlign = 'center';
-  ctx.textBaseline = 'alphabetic';
-  ctx.fillStyle = COPPER;
-  fit(ctx, story.kicker, 'small', rtl ? 36 : 30, 20, 900);
-  if ('letterSpacing' in ctx && !PERSIAN.test(story.kicker)) ctx.letterSpacing = '5px';
-  write(ctx, PERSIAN.test(story.kicker) ? story.kicker : story.kicker.toUpperCase(), y);
-  if ('letterSpacing' in ctx) ctx.letterSpacing = '0px';
-
-  ctx.fillStyle = IVORY;
-  const persianName = PERSIAN.test(story.name);
-  const largest = photo ? 112 : 150;
-  let size = fit(ctx, story.name, 'name', largest, 64, 920);
-  let rows = [story.name];
-  // A long name takes two balanced lines rather than shrinking past reading size.
-  if (size < 84 && story.name.includes(' ')) {
-    fit(ctx, story.name, 'name', largest, largest, Infinity);
-    rows = lines(ctx, story.name, 920);
-    size = Math.min(...rows.map((r) => fit(ctx, r, 'name', largest, 56, 920)));
-    const [weight, family] = fontFor(story.name, 'name');
-    ctx.font = `${weight} ${size}px ${family}`;
+  for (const line of block) {
+    y += line.gap;
+    ctx.font = line.font;
+    ctx.fillStyle = line.color;
+    ctx.letterSpacing = line.spacing;
+    write(ctx, line.text, y);
   }
-  // A name with no space to break at shrinks further rather than overflow.
-  if (rows.length === 1 && ctx.measureText(story.name).width > 920) size = fit(ctx, story.name, 'name', size, 36, 920);
-  const leading = size * (persianName ? 1.45 : 1.1);
-  y += 40 + size * (persianName ? 1.05 : .95);
-  for (const row of rows) {
-    write(ctx, row, y);
-    y += leading;
-  }
-  y -= leading;
-  if (story.other) {
-    ctx.fillStyle = IVORY_2;
-    const altPersian = PERSIAN.test(story.other);
-    const s = fit(ctx, altPersian ? story.other : story.other.toUpperCase(), 'alt', altPersian ? 54 : 32, 22, 900);
-    if (!altPersian && 'letterSpacing' in ctx) ctx.letterSpacing = '4px';
-    y += size * (persianName ? .5 : .3) + s * (altPersian ? 1.5 : 1.6);
-    write(ctx, altPersian ? story.other : story.other.toUpperCase(), y);
-    if ('letterSpacing' in ctx) ctx.letterSpacing = '0px';
-  }
+  ctx.letterSpacing = '0px';
 
   // The garden along the foot; above it, clear of Instagram's own bars, the wordmark and the address.
-  const fh = frieze ? W * frieze.height / frieze.width : 150;
-  const fy = H - fh - 60;
   if (frieze) {
     ctx.save();
     ctx.globalAlpha = .75;
@@ -211,9 +221,9 @@ async function draw(story: Story): Promise<Blob> {
   }
   ctx.fillStyle = IVORY_3;
   fit(ctx, story.site, 'small', 28, 20, 900);
-  if ('letterSpacing' in ctx) ctx.letterSpacing = '3px';
+  ctx.letterSpacing = '3px';
   write(ctx, story.site, fy - 112);
-  if ('letterSpacing' in ctx) ctx.letterSpacing = '0px';
+  ctx.letterSpacing = '0px';
 
   return new Promise((resolve, reject) => canvas.toBlob((b) => (b ? resolve(b) : reject(new Error('no image'))), 'image/png'));
 }
@@ -222,6 +232,8 @@ const menu = document.getElementById('share-menu') as HTMLElement | null;
 const trigger = document.querySelector<HTMLButtonElement>('.share-open');
 if (menu && trigger) {
   const story = JSON.parse(menu.dataset.story!) as Story;
+  // The kicker arrives as the page's HTML; the image wants its text.
+  story.kicker = new DOMParser().parseFromString(story.kicker, 'text/html').body.textContent ?? '';
   const storyButton = menu.querySelector<HTMLButtonElement>('.share-story')!;
   const copy = menu.querySelector<HTMLButtonElement>('.share-copy')!;
   const copyLabel = copy.querySelector('span')!;
@@ -248,9 +260,10 @@ if (menu && trigger) {
 
   const place = () => {
     if (innerWidth < 560) {
-      menu.style.left = menu.style.top = '';
+      menu.style.left = menu.style.top = menu.style.right = menu.style.bottom = '';
       return;
     }
+    menu.style.right = menu.style.bottom = 'auto';
     const r = trigger.getBoundingClientRect();
     const w = menu.offsetWidth;
     const h = menu.offsetHeight;
@@ -268,7 +281,8 @@ if (menu && trigger) {
     if (!open) return;
     note.textContent = '';
     place();
-    void prepare().then((f) => { if (!f) storyButton.setAttribute('aria-disabled', 'true'); });
+    // Phones draw the image ahead, so the share sheet can open on the tap; computers draw it on the click.
+    if (phone) void prepare().then((f) => { if (!f) storyButton.setAttribute('aria-disabled', 'true'); });
     // Opened from the keyboard, focus moves into the menu.
     if (trigger.matches(':focus-visible')) menu.querySelector<HTMLElement>('.share-app:not([aria-disabled])')?.focus();
   });
@@ -293,10 +307,13 @@ if (menu && trigger) {
     // Copy first: the share sheet uses up the tap.
     const copied = copyAddress();
     if (viaSheet(f)) {
+      let failed = false;
       navigator.share({ files: [f] }).catch((error) => {
-        if (error?.name !== 'AbortError') say(note.dataset.failed!);
+        if (error?.name === 'AbortError') return;
+        failed = true;
+        say(note.dataset.failed!);
       });
-      void copied.then((ok) => say(ok ? note.dataset.storyPhone! : note.dataset.storyPhoneNoCopy!));
+      void copied.then((ok) => { if (!failed) say(ok ? note.dataset.storyPhone! : note.dataset.storyPhoneNoCopy!); });
     } else {
       download(f);
       void copied.then((ok) => say(ok ? note.dataset.storyDesktop! : note.dataset.storyDesktopNoCopy!));
@@ -305,6 +322,7 @@ if (menu && trigger) {
 
   storyButton.addEventListener('click', () => {
     if (storyButton.getAttribute('aria-disabled') === 'true') return say(note.dataset.failed!);
+    if (storyButton.getAttribute('aria-busy') === 'true') return;
     if (file) return shareStory(file);
     // Not drawn yet. A phone's share sheet must open straight from a tap, so
     // the reader taps again once it is ready; a download can simply follow.
@@ -316,7 +334,7 @@ if (menu && trigger) {
         storyButton.setAttribute('aria-disabled', 'true');
         return say(note.dataset.failed!);
       }
-      if (viaSheet(f)) say('');
+      if (viaSheet(f)) say(note.dataset.ready!);
       else shareStory(f);
     });
   });
@@ -345,7 +363,4 @@ if (menu && trigger) {
     navigator.share({ title, url: story.address }).catch(() => {});
   });
 
-  // Warm the image when the reader reaches for the button.
-  trigger.addEventListener('pointerenter', () => void prepare(), { once: true });
-  trigger.addEventListener('focus', () => void prepare(), { once: true });
 }
