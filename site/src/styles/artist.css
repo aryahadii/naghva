@@ -38,6 +38,7 @@ html[lang=fa] .artist-name, .artist-name:lang(fa) { font: 700 clamp(2.4rem, 4.1v
 .share-open[aria-expanded=true] { background: rgb(247 243 232 / .11); color: var(--ivory) }
 .share-close svg, .share-copy svg { flex: none; fill: none; stroke: currentColor; stroke-width: 1.6; stroke-linecap: round; stroke-linejoin: round }
 .share-open .title-glyph { margin-top: -2px }
+/* Time runs right to left on the Persian page, so the chart turns with it. */
 html[dir=rtl] .timeline-glyph { transform: scaleX(-1) }
 .share-menu { position: fixed; inset: 0; width: 392px; height: fit-content; margin: auto; padding: 16px 20px 20px; border: 0; border-radius: 18px; background: var(--night); color: var(--ivory); box-shadow: 0 0 0 1px rgb(247 243 232 / .07), 0 30px 70px -20px rgb(0 0 0 / .85); opacity: 0; transform: translateY(4px); transition: opacity .16s, transform .16s, overlay .16s allow-discrete, display .16s allow-discrete }
 .share-menu:popover-open { opacity: 1; transform: none }
