@@ -13,3 +13,10 @@ html[lang=fa] .about-lead { line-height: 1.95 }
   .about { padding-top: 44px }
   .about article { position: relative }
 }
+.contribute-steps { margin-top: 40px; padding-inline-start: 1.4em; color: var(--ivory-2); font-size: 1.1rem }
+html[lang=fa] .contribute-steps { list-style-type: persian }
+.contribute-steps li { padding-inline-start: 8px }
+.contribute-steps li + li { margin-top: 28px }
+.contribute-steps li::marker { color: var(--ivory-3) }
+.contribute-cta { vertical-align: middle; color: var(--ivory) }
+.cta-glyph { flex: none; width: 16px; height: 16px; fill: none; stroke: currentColor; stroke-width: 1.6; stroke-linecap: round; stroke-linejoin: round }

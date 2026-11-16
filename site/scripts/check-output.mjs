@@ -48,6 +48,7 @@ const sitemapText = readdirSync(dist).filter((name) => /^sitemap.*\.xml$/.test(n
 for (const lang of ['en', 'fa']) {
   if (!sitemapText.includes(`/${lang}/artists/`)) problems.push(`${lang}: artist directory missing from sitemap`);
   if (!sitemapText.includes(`/${lang}/about/`)) problems.push(`${lang}: About page missing from sitemap`);
+  if (!sitemapText.includes(`/${lang}/contribute/`)) problems.push(`${lang}: Contribute page missing from sitemap`);
   if (sitemapText.includes(`/${lang}/search/`)) problems.push(`${lang}: query results must stay out of the sitemap`);
   if (!pages.get(`/${lang}/search/`)?.includes('name="robots" content="noindex,follow"'))
     problems.push(`${lang}: query results must be noindex`);
