@@ -1,8 +1,10 @@
 ---
 url: http://www.mamak-khadem.com/band
+archive: https://web.archive.org/web/20260405083249/http://www.mamak-khadem.com/band
 title: Bio — Mamak Khadem
 language: en
 status: processed
+tier: own
 ---
 
 > While still teaching, she became a founding member of Axiom of Choice

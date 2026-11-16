@@ -4,6 +4,7 @@ title: Golnar Shahyar
 language: en
 publisher: Austrian Music Export
 status: processed
+tier: other
 archive: https://web.archive.org/web/20260514155614/https://www.musicexport.at/artist/golnar-shahyar/
 ---
 

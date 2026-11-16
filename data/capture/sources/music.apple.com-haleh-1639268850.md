@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/shahr-khalist-live-feat-amir-mohammad-naza
 title: Shahr Khalist (Live) [feat. Amir Mohammad Nazar] - Single — Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 status: processed
 ---
 

@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/semen/1769211324
 title: Semen - Album by The Shah & Hand - Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 status: processed
 ---
 

@@ -3,7 +3,7 @@ url: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b9/e8/d2/b9e8d297-5c31
 title: Milad Derakhshani (live) — full square cover
 kind: image
 language: en
-tier: own
+tier: discography
 about:
 - Qnjntqs
 status: processed

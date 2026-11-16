@@ -1,5 +1,6 @@
 ---
 url: https://cdn.sharghdaily.com/servev2/vqciW9XbAi7L/FIqEO8ZJ2YD31Xb7gLuHDi9GAkmtfXr8z_qNqPz0QUdKUykgN9wtrXYvAffo5iSP0SN7l8bVr4RePXAhZXlX2Q%2C%2C/09.pdf
+archive: https://web.archive.org/web/20261115140441/https://cdn.sharghdaily.com/servev2/vqciW9XbAi7L/FIqEO8ZJ2YD31Xb7gLuHDi9GAkmtfXr8z_qNqPz0QUdKUykgN9wtrXYvAffo5iSP0SN7l8bVr4RePXAhZXlX2Q,,/09.pdf
 title: کدام آلبوم‌ها بیشتر فروختند؟ — کماکان
 kind: print article
 language: fa

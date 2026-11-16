@@ -26,6 +26,17 @@ statements:
     - source: open.spotify.com-album-3wct80di4xjq831qgm4dog
       quote: name="music:release_date" content="2025-02-24"
       accessed: '2026-11-08'
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-octavio-paz-single-1797954247-662cf144c4c0
+      quote: |-
+        Listen to Octavio Paz - Single by Damahi on Apple Music. 2025. 1 Song. Duration: 4 minutes.
+      accessed: '2026-10-19'
+    - source: open.spotify.com-album-3wct80di4xjq831qgm4dog
+      quote: |-
+        Listen to Octavio Paz - Single by Damahi | Spotify
+      accessed: '2026-11-08'
   performer:
   - value: Qep6nz6
     references:

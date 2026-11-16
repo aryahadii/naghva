@@ -4,6 +4,7 @@ title: بمرانی برايمان يك كارگاه است
 language: fa
 publisher: Sarpoosh
 status: processed
+tier: journalism
 ---
 
 > گفت‌وگو با گروه بمرانی

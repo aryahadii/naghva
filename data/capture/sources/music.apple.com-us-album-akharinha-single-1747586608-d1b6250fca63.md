@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/akharinha-single/1747586608
 title: Akharinha - Single - Album by Makhoola - Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Makhoula
 status: processed

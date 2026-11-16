@@ -11,15 +11,11 @@ from collections import Counter, defaultdict
 
 import datastore as ds
 
-# Source tiers are free words in capture; these are the groups the page shows.
-TIERS = {
-    "own": "own", "primary": "own",
-    "discography": "discography", "catalogue": "discography", "platform": "discography",
-    "platform catalog": "discography", "streaming": "discography",
-    "journalism": "journalism", "press": "journalism",
-    "academic": "academic", "wikipedia": "wikipedia",
-}
+# Source tiers, as the source schema lists them; a source with none counts as other.
+TIERS = ("own", "discography", "journalism", "academic", "wikipedia", "other")
 NETWORK_SEED = 1404
+# The place item for Iran. A country is a place with no `country` of its own (see `country` in data/schema/properties.yaml).
+IRAN = "Qthab26"
 
 
 def kept(statements):
@@ -183,9 +179,7 @@ def bases(items, artists):
     reader is shown only the preferred one. An artist who left has an Iran base and lives abroad now; the year they
     left is when their last Iran base ended, or else when their first base abroad began.
     """
-    iran = next((i for i, item in items.items() if item["type"] == "place" and any(
-        isinstance(s["value"], dict) and s["value"].get("text") in ("Iran", "ایران")
-        for s in item["statements"].get("name", []))), None)
+    iran = IRAN if IRAN in items else None
 
     def when(s, key):
         days = [middle(v["range"]) for v in s.get("qualifiers", {}).get(key, []) if isinstance(v, dict) and "range" in v]
@@ -248,9 +242,9 @@ def stats(items, artists, sources, tiers, articles=None):
     def has(item, *props):
         return any(kept(item["statements"].get(p, [])) for p in props)
 
-    people = [a for a in pages if a["type"] == "person"]
     references = Counter()
     first_read = {}
+    newest = ""
     for item in items.values():
         for statements in item["statements"].values():
             for s in statements:
@@ -258,6 +252,7 @@ def stats(items, artists, sources, tiers, articles=None):
                     if ref.get("accessed"):
                         references[week_of(ref["accessed"])] += 1
                         day = str(ref["accessed"])[:10]
+                        newest = max(newest, day)
                         if day < first_read.get(ref["source"], "9999"):
                             first_read[ref["source"]] = day
     # A source cited only in an article was gathered too: its notes carry when it was read.
@@ -274,9 +269,10 @@ def stats(items, artists, sources, tiers, articles=None):
     for meta in sources.values():
         lang = meta.get("language")
         languages[lang if lang in ("en", "fa", "mul") else "other"] += 1
-    kinds = Counter(TIERS.get(str(tiers.get(name) or "").strip().lower(), "other") for name in sources)
+    kinds = Counter(tiers.get(name) or "other" for name in sources)
 
     return {
+        "updated": newest or None,
         "totals": {
             "artists": len(pages),
             "releases": len(releases),
@@ -288,7 +284,6 @@ def stats(items, artists, sources, tiers, articles=None):
         "releases": {"days": sorted(d for d in release_days if d), "total": len(releases)},
         "starts": {"days": sorted(starts), "total": len(pages)},
         "based": {"known": sum(1 for a in pages if has(a, "based in")), "total": len(pages), **bases(items, artists)},
-        "gender": {"known": 0, "total": len(people)},
         "listen": {"total": len(releases), "linked": linked,
                    "platforms": [[name, n] for name, n in on.most_common() if name != "other"]},
         "labels": {"total": len(releases), "known": labelled,
@@ -312,7 +307,7 @@ def stats(items, artists, sources, tiers, articles=None):
         },
         "sources": {
             "langs": [[k, languages[k]] for k in ("en", "fa", "mul", "other")],
-            "kinds": [[k, kinds[k]] for k in ("own", "discography", "journalism", "academic", "wikipedia", "other")],
+            "kinds": [[k, kinds[k]] for k in TIERS],
         },
         # Sources by the week the record first cites them as read: the last half year,
         # so a stray old access date does not stretch the axis.

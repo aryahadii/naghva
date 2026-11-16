@@ -2,6 +2,7 @@
 url: https://music.apple.com/us/search?term=Damahi%20Houmba
 title: 'Apple Music search: Damahi Houmba'
 status: processed
+tier: discography
 publisher: Apple Music
 ---
 

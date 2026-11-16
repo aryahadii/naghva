@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/miss-myself-single/1615999030
 title: Miss Myself - Single - Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Hadi Pakzad
 status: processed

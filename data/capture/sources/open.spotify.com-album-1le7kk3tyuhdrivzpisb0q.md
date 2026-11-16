@@ -1,10 +1,11 @@
 ---
 url: https://open.spotify.com/album/1Le7kk3tyUHDRIVZPisb0Q
+archive: https://web.archive.org/web/20220107090011/https://open.spotify.com/album/1Le7kk3tyUHDRIVZPisb0Q
 title: Listen to Sade - Album by Shahin Najafi | Spotify
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Spotify
 about:
 - Qn7vfak

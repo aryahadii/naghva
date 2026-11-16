@@ -4,6 +4,7 @@ title: Listen to Jangale Asfalt - Album by Hichkas | Spotify
 language: en
 publisher: Spotify
 status: processed
+tier: discography
 ---
 
 > Hichkas · album · 2006 · 11 songs

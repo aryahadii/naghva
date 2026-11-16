@@ -1,10 +1,11 @@
 ---
 url: https://open.spotify.com/album/6B41nsLJkPqHqp3ZVF1EyH
+archive: https://web.archive.org/web/20261021195144/https://open.spotify.com/album/6B41nsLJkPqHqp3ZVF1EyH
 title: Listen to Symphonic Odyssey 2020 - Album by Mohsen Namjoo | Spotify
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Spotify
 about:
 - Qt6wjbg

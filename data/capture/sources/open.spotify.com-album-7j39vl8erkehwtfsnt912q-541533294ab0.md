@@ -4,6 +4,7 @@ title: Istgah - Album by Omid Nemati | Spotify
 language: en
 publisher: Spotify
 status: processed
+tier: discography
 ---
 
 > Listen to Istgah - Album by Omid Nemati | Spotify

@@ -4,7 +4,7 @@ title: ‎Feragh - Song with Lyrics by Makan Ashgvari&Mo Shariat&Rian - Apple M
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 ---
 
 > ‎Feragh - Song with Lyrics by Makan Ashgvari&Mo Shariat&Rian - Apple Music

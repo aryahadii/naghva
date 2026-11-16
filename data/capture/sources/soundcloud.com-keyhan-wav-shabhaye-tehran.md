@@ -4,7 +4,7 @@ title: Shabhaye Tehran (ft. Golsa) — Keyhan
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Golsa
 ---

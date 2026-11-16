@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/once-more-all-is-green-feat-efr%C3%A9n-l%C
 title: ‎Once More All Is Green (feat. Efrén López) - Single - Album by Azam Ali - Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 status: processed
 ---
 

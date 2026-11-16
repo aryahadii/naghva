@@ -1,5 +1,6 @@
 ---
 url: https://www.vpro.nl/vrije-geluiden/artikelen/vrije-geluiden-turning-east
+archive: https://web.archive.org/web/20261115160826/https://www.vpro.nl/vrije-geluiden/artikelen/vrije-geluiden-turning-east
 title: 'Vrije Geluiden: Turning East'
 kind: web page
 language: nl

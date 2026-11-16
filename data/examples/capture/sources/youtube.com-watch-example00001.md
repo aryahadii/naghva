@@ -3,7 +3,7 @@ url: https://www.youtube.com/watch?v=example00001
 title: بادنما - اجرای زنده در تهران
 kind: youtube video
 language: fa
-tier: own
+tier: discography
 about: [Badnama]
 status: found
 ---

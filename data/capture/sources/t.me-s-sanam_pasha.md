@@ -1,5 +1,6 @@
 ---
 url: https://t.me/s/sanam_pasha
+archive: https://web.archive.org/web/20261115153825/https://t.me/s/sanam_pasha
 title: Vocalist - Sanam Pasha official Telegram
 kind: web page
 language: en

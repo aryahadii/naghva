@@ -2,6 +2,7 @@
 url: https://open.spotify.com/album/1PPltKFarVNomtbeW8rbZt
 title: Sokoote Sard(Cold Silence) on Spotify
 status: processed
+tier: discography
 archive: https://web.archive.org/web/20250711192847/https://open.spotify.com/album/1PPltKFarVNomtbeW8rbZt
 ---
 

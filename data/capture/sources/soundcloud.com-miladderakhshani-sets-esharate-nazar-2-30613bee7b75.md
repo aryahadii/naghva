@@ -3,7 +3,7 @@ url: https://soundcloud.com/miladderakhshani/sets/esharate-nazar-2
 title: Esharate Nazar — SoundCloud
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Qnjntqs
 status: processed

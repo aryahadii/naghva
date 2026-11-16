@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/rad-single/1688642600
 title: Rad - Single - Album by Arash Zarabi & Soundrom - Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Arash Zarabi
 status: processed

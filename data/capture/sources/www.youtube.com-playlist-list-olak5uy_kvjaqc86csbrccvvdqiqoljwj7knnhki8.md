@@ -3,7 +3,7 @@ url: https://www.youtube.com/playlist?list=OLAK5uy_kVJAQC86csbrcCvvDQiqOLJwJ7KnN
 title: Alaki - YouTube
 kind: web page
 language: en
-tier: own
+tier: discography
 status: processed
 ---
 

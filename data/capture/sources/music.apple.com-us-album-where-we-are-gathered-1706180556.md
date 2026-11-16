@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/where-we-are-gathered/1706180556
 title: Where We Are Gathered - Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Where We Are Gathered
 - Opium Moon

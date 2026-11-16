@@ -1,9 +1,11 @@
 ---
 url: https://bahramnouraei.com/discography/
+archive: https://web.archive.org/web/20261115161211/https://bahramnouraei.com/discography/
 title: Bahram Nouraei — Discography
 language: en
 publisher: bahramnouraei.com (official site)
 status: processed
+tier: own
 ---
 
 > Album / April 2023 Khodha خودها Music Producers: Ashkan Mousavi, Peymandegar, Nesa Azadikhah Mix & Master: Ashkan Mousavi Visual Artist: Erfan Ashourioun Art Director: Setareh Malekzadeh Listen on Spotify Listen on SoundCloud Listen on Apple Music Listen on YouTube Music Listen on Bandcamp Order CD & Vinyl

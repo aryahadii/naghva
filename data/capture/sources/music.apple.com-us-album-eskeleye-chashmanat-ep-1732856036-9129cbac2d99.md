@@ -4,6 +4,7 @@ title: Eskeleye Chashmanat - EP - Album by Amin Homaei & Omid Nemati - Apple Mus
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > Eskeleye Chashmanat - EP - Album by Amin Homaei & Omid Nemati

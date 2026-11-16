@@ -1,10 +1,11 @@
 ---
 url: https://music.apple.com/us/album/esm-single/1884575560
+archive: https://web.archive.org/web/20260906225842/https://music.apple.com/us/album/esm-single/1884575560
 title: Esm - Single - Album by Mohsen Namjoo - Apple Music
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Apple Music
 about:
 - Qt6wjbg

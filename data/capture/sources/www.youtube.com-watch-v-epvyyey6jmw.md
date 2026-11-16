@@ -2,7 +2,7 @@
 url: https://www.youtube.com/watch?v=epVyyEY6Jmw
 title: Soghati · Marjan Farsad
 status: processed
-tier: own
+tier: discography
 publisher: Marjan Farsad
 language: en
 archive: https://web.archive.org/web/20241121220126/https://www.youtube.com/watch?v=epVyyEY6Jmw

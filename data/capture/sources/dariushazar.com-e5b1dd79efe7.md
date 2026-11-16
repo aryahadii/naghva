@@ -1,5 +1,6 @@
 ---
 url: https://dariushazar.com/
+archive: https://web.archive.org/web/20261115141112/https://dariushazar.com/
 title: DARIUSH AZAR — Musician · Singer · Composer · Contrabass player
 kind: web page
 language: en

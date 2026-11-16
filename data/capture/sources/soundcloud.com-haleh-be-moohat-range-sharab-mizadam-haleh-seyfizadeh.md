@@ -3,7 +3,7 @@ url: https://soundcloud.com/haleh_seyfizadeh/be-moohat-range-sharab-mizadam-hale
 title: Be Moohat Range Sharab Mizadam - Haleh Seyfizadeh
 kind: web page
 language: mul
-tier: own
+tier: discography
 status: processed
 ---
 

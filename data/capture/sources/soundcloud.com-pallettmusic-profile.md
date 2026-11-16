@@ -4,7 +4,7 @@ archive: "https://web.archive.org/web/20250831224617/https://soundcloud.com/pall
 title: Pallett پالت — official SoundCloud
 status: processed
 language: mul
-tier: own
+tier: discography
 ---
 
 > PALLETT BAND

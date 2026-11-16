@@ -43,6 +43,17 @@ statements:
       quote: '2024-04-01T00:00:00Z'
       accessed: '2026-10-21'
       locator: Catalogue release date
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-a-poem-from-this-port-single-1738409258-e51da9eee451
+      quote: |-
+        Listen to A Poem from This Port - Single by Sanam Maroufkhani on
+      accessed: '2026-10-21'
+    - source: music.apple.com-us-album-a-poem-from-this-port-single-1870096263-2b92431f7053
+      quote: |-
+        Listen to A Poem from This Port - Single by Sanam Maroufkhani on
+      accessed: '2026-10-21'
   performer:
   - value: Qa84h2k
     references: &id001

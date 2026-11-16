@@ -4,7 +4,7 @@ title: "Shabe Naghashi (feat. Sara Naeini) - Song with Lyrics by Hamid Hami - Ap
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: "Apple Music"
 about:
 - Qb23qew

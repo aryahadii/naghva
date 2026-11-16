@@ -5,7 +5,7 @@ title: Peyman Salimi — Spotify artist About
 status: processed
 kind: social media profile
 language: en
-tier: own
+tier: discography
 publisher: Spotify
 about:
 - Peyman Salimi

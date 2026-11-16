@@ -1,5 +1,6 @@
 ---
 url: https://bahramnouraei.com/fa/discography/
+archive: https://web.archive.org/web/20261115140203/https://bahramnouraei.com/fa/discography/
 title: بهرام نورائی — آثار
 kind: web page
 language: fa

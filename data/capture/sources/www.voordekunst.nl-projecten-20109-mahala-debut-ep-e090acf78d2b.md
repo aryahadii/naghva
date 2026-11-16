@@ -3,6 +3,7 @@ url: https://www.voordekunst.nl/projecten/20109-mahala-debut-ep
 archive: "https://web.archive.org/web/20260106000236/https://www.voordekunst.nl/projecten/20109-mahala-debut-ep"
 title: Mahala debut EP campaign
 status: processed
+tier: own
 kind: web page
 language: mul
 ---

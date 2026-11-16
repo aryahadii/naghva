@@ -1,5 +1,6 @@
 ---
 url: https://iranwire.com/fa/features/29273/
+archive: https://web.archive.org/web/20240805212019/https://iranwire.com/fa/features/29273/
 title: «جنس سوم»؛ اثری سخاوتمند و انقلابی مدرن در موسیقی شاهین نجفی
 kind: web page
 language: fa

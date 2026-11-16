@@ -1,9 +1,11 @@
 ---
 url: https://ehsanmatoori.com/bio/
+archive: https://web.archive.org/web/20250809113522/https://ehsanmatoori.com/bio/
 title: Ehsan Matoori | Bio
 language: en
 publisher: Ehsan Matoori
 status: processed
+tier: own
 ---
 
 > Ehsan Matoori (Santoor Player, Composer, Educator)

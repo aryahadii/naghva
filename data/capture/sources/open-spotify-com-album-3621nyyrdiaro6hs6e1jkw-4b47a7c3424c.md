@@ -4,6 +4,7 @@ title: My Name Is Cyrus
 language: en
 publisher: Spotify
 status: processed
+tier: discography
 ---
 
 > My Name Is Cyrus

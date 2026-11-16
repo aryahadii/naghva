@@ -1,10 +1,12 @@
 ---
 url: https://beehy.pe/faarjam-koala-iran-netherlands/
+archive: https://web.archive.org/web/20251011203554/https://beehy.pe/faarjam-koala-iran-netherlands/
 title: 'Iran: Faarjam - Koala EP'
 language: en
 author: Ali Eshqi
 publisher: beehype
 status: processed
+tier: journalism
 ---
 
 > Faarjam is a band of Dutch members formed around Iranian frontman Massoud Faarjam Saidi in the city of Arnhem in 2013, when they released their first EP, “Awar E Rang“.

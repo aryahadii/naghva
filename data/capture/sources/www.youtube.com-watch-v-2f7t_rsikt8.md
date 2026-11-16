@@ -2,6 +2,7 @@
 url: https://www.youtube.com/watch?v=2f7t_rSiKt8
 title: "ویدیو کلیپ خشم و هیاهو با صدای رضا کولغانی و بازی نوید محمدزاده"
 status: processed
+tier: discography
 kind: youtube video
 language: mul
 publisher: "TPM - Top Persian Movies"

@@ -26,6 +26,17 @@ statements:
     - source: open.spotify.com-album-33zllbtknq1kpihc0mhcv9
       quote: name="music:release_date" content="2026-10-26"
       accessed: '2026-11-09'
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-ou-biayad-single-6825250259
+      quote: |-
+        ‎Ou Biayad - Single - Album by Jilliz Williz - Apple Music
+      accessed: '2026-11-09'
+    - source: open.spotify.com-album-33zllbtknq1kpihc0mhcv9
+      quote: |-
+        Listen to Ou Biayad - Single by Jilliz Williz | Spotify
+      accessed: '2026-11-09'
   performer:
   - value: Q6andbw
     references:

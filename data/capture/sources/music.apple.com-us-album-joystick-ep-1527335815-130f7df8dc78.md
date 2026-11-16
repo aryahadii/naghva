@@ -4,7 +4,7 @@ title: Joystick - EP — Jetpack | Apple Music
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Jetpack
 - Qpy9984

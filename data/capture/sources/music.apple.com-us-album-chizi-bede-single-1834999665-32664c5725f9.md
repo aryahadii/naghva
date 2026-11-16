@@ -4,7 +4,7 @@ title: Chizi Bede - Single - Album by Sara Heidari & Rian - Apple Music
 status: processed
 kind: web page
 language: mul
-tier: own
+tier: discography
 ---
 
 > August 22, 2025

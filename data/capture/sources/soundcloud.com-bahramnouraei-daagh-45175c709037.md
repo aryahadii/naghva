@@ -1,9 +1,10 @@
 ---
 url: https://soundcloud.com/bahramnouraei/daagh
+archive: https://web.archive.org/web/20260826083346/https://soundcloud.com/bahramnouraei/daagh
 title: DAAGH [Prod. Holly]
 kind: web page
 language: en
-tier: other
+tier: discography
 publisher: SoundCloud
 about:
 - Daagh

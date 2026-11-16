@@ -4,7 +4,7 @@ title: Saba Alizadeh | Spotify
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 ---
 
 > Saba Alizadeh

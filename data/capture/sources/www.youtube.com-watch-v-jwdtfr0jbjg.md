@@ -3,7 +3,7 @@ url: https://www.youtube.com/watch?v=jwdTfr0JbJg
 title: طهران
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Kaveh Salehi
 status: processed

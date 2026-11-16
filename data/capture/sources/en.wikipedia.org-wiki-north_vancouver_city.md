@@ -1,5 +1,6 @@
 ---
 url: https://en.wikipedia.org/wiki/North_Vancouver_(city)
+archive: https://web.archive.org/web/20261027031407/https://en.wikipedia.org/wiki/North_Vancouver_(city)
 title: "North Vancouver (city)"
 kind: web page
 language: en

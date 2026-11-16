@@ -3,7 +3,7 @@ url: https://open.spotify.com/album/1i7fGQqAVuG8gh4etksd5l
 title: IS" — Kamakan — Spotify
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Kamakan
 - Q6vgcdn

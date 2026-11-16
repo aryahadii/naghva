@@ -1,5 +1,6 @@
 ---
 url: https://makanashgvari.bandcamp.com
+archive: https://web.archive.org/web/20261115144527/https://makanashgvari.bandcamp.com/album/in-rage-we-dance
 title: In Rage We Dance | Makan Ashgvari
 status: processed
 tier: own

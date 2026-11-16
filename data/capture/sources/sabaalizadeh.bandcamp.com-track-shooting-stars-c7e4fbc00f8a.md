@@ -1,9 +1,11 @@
 ---
 url: https://sabaalizadeh.bandcamp.com/track/shooting-stars
+archive: https://web.archive.org/web/20261004110953/https://sabaalizadeh.bandcamp.com/track/shooting-stars
 title: Shooting Stars
 language: en
 publisher: Saba Alizadeh Bandcamp
 status: processed
+tier: own
 ---
 
 > Voice: Linnea Sablosky

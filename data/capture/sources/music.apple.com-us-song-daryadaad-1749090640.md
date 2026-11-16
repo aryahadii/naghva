@@ -3,7 +3,7 @@ url: https://music.apple.com/us/song/daryadaad/1749090640
 title: Daryadaad - Song by Peter Soleimanipour - Apple Music
 kind: web page
 language: en
-tier: other
+tier: discography
 publisher: Apple Music
 status: processed
 ---

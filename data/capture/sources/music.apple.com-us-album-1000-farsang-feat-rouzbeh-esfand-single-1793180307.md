@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/1000-farsang-feat-rouzbeh-esfand-single/17
 title: Listen to 1000 Farsang (feat. ROUZBEH ESFAND) - Single by Habib Meftah
 kind: web page
 language: en
-tier: own
+tier: discography
 status: processed
 ---
 

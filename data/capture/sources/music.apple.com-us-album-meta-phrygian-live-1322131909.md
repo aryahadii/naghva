@@ -1,9 +1,10 @@
 ---
 url: https://music.apple.com/us/album/meta-phrygian-live/1322131909
+archive: https://web.archive.org/web/20260116014647/https://music.apple.com/us/album/meta-phrygian-live/1322131909
 title: Meta Phrygian (Live) - Album by Shahin Najafi - Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 status: processed
 ---
 

@@ -1,8 +1,9 @@
 ---
 url: https://soundcloud.com/bamdadamman/mahalle
+archive: https://web.archive.org/web/20220709091655/https://soundcloud.com/bamdadamman/mahalle
 title: Stream Mahalle [Prod. Nekoo] by Bamdad | Listen online for free on SoundCloud
 status: processed
-tier: own
+tier: discography
 publisher: soundcloud.com
 ---
 

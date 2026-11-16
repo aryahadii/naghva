@@ -1,5 +1,6 @@
 ---
 url: https://15questions.net/interview/fifteen-questions-interview-sote/page-1/
+archive: https://web.archive.org/web/20261115135225/https://15questions.net/interview/fifteen-questions-interview-sote/page-1/
 title: Fifteen Questions Interview with Sote
 kind: web page
 language: en

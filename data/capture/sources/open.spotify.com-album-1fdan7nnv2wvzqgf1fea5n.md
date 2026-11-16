@@ -1,10 +1,11 @@
 ---
 url: https://open.spotify.com/album/1fdAN7NNV2WvzqGf1fEa5N
+archive: https://web.archive.org/web/20210706054637/https://open.spotify.com/album/1fdAN7NNV2WvzqGf1fEa5N
 title: Listen to Ba Sad Hezar - EP by Mohsen Namjoo | Spotify
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Spotify
 about:
 - Qt6wjbg

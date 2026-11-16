@@ -4,7 +4,7 @@ title: K Mesle Kopol ( ک مثل کپل ) - Single | Pallett
 publisher: Apple Music
 language: en
 status: processed
-tier: own
+tier: discography
 about:
 - Qq5328q
 ---

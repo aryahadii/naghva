@@ -1,9 +1,10 @@
 ---
 url: https://soundcloud.com/moodymoussavi/mirza-ghasemi
+archive: https://web.archive.org/web/20230410023622/https://soundcloud.com/moodymoussavi/mirza-ghasemi
 title: Mirza Ghasemi — Moody Moussavi
 kind: web page
 language: mul
-tier: own
+tier: discography
 status: processed
 ---
 

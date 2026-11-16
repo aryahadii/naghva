@@ -1,10 +1,11 @@
 ---
 url: https://open.spotify.com/album/3GAtpa65tKJY0H4jrZn9N2
+archive: https://web.archive.org/web/20221222121908/https://open.spotify.com/album/3GAtpa65tKJY0H4jrZn9N2
 title: Listen to Mah - Single by Kiosk | Spotify
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Spotify
 about:
 - Qtgn2be

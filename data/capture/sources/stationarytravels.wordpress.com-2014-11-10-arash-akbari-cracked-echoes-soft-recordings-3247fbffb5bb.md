@@ -1,7 +1,9 @@
 ---
 url: https://stationarytravels.wordpress.com/2014/11/10/arash-akbari-cracked-echoes-soft-recordings/
+archive: https://web.archive.org/web/20230601180129/https://stationarytravels.wordpress.com/2014/11/10/arash-akbari-cracked-echoes-soft-recordings/
 title: https://stationarytravels.wordpress.com/2014/11/10/arash-akbari-cracked-echoes-soft-recordings/
 status: processed
+tier: journalism
 ---
 
 > Arash Akbari (aka Odepth) is a musician, producer and new media artist, based in Tehran. His music explores the genres of experimental, ambient, drone and noise, utilizing electric guitar, acoustic sounds, field recording, digital synthesis and DSP to create soulful compositions and textures.

@@ -4,7 +4,7 @@ title: Quiescence (feat. Mohsen Namjoo) - Single - Album by Esfand - Apple Music
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Apple Music
 about:
 - Qt6wjbg

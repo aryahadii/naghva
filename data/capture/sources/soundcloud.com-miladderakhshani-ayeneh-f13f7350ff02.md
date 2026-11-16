@@ -3,7 +3,7 @@ url: https://soundcloud.com/miladderakhshani/ayeneh
 title: Ayeneh — joint SoundCloud release
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Qnjntqs
 status: processed

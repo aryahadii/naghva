@@ -3,7 +3,7 @@ url: https://soundcloud.com/kamakan/the-diver
 title: The Diver — Kamakan
 kind: web page
 language: mul
-tier: own
+tier: discography
 about:
 - Kamakan
 - Q6vgcdn

@@ -3,7 +3,7 @@ url: https://soundcloud.com/miladderakhshani/sets/ta-rahaee
 title: Ta Rahaee — SoundCloud
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Qnjntqs
 status: processed

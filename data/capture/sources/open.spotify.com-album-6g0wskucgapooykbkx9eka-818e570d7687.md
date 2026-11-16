@@ -4,7 +4,7 @@ title: Old Days — Jetpack | Spotify
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Jetpack
 - Qpy9984

@@ -19,6 +19,17 @@ statements:
     - source: open.spotify.com-album-7j4nq4iskh7wazrbwzk7rk
       quote: name="music:release_date" content="2022-01-12"
       accessed: '2026-11-08'
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-navaee-single-1605170411
+      quote: |-
+        Navaee - Single - Album by Reza Rohani & Sara Naeini - Apple Music
+      accessed: '2026-10-19'
+    - source: open.spotify.com-album-7j4nq4iskh7wazrbwzk7rk
+      quote: |-
+        Listen to Navaee - Single by Reza Rohani | Spotify
+      accessed: '2026-11-08'
   performer:
   - value: Qqprhs6
     references:

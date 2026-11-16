@@ -1,5 +1,6 @@
 ---
 url: https://fa.wikipedia.org/wiki/%D9%81%D9%84%D9%88%D8%B1%D8%A7%D9%86%D8%B3
+archive: https://web.archive.org/web/20261103015658/https://fa.wikipedia.org/wiki/%D9%81%D9%84%D9%88%D8%B1%D8%A7%D9%86%D8%B3
 title: "فلورانس"
 kind: web page
 language: fa

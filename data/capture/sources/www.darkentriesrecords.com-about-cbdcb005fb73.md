@@ -1,5 +1,6 @@
 ---
 url: https://www.darkentriesrecords.com/about/
+archive: https://web.archive.org/web/20261002155404/https://www.darkentriesrecords.com/about/
 title: ' About – Dark Entries Records Skip to content Search Search $ 0.00 0 Cart Search Search About Dark E'
 kind: web page
 language: en

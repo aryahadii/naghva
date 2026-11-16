@@ -1,9 +1,10 @@
 ---
 url: https://music.apple.com/us/album/mr-violet/967939666
+archive: https://web.archive.org/web/20260801214556/https://music.apple.com/us/album/mr-violet/967939666
 title: Mr. Violet - Album by Pallett - Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Kaveh Salehi
 status: processed

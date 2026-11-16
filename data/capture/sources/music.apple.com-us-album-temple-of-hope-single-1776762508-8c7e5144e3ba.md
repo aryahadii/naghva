@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/temple-of-hope-single/1776762508
 title: ‎Temple of Hope - Single - Album by Saba Alizadeh - Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 status: processed
 ---
 

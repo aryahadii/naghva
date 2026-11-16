@@ -4,7 +4,7 @@ title: Sayeh (feat. Pozx)
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Golsa
 ---

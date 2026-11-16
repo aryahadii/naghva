@@ -1,5 +1,6 @@
 ---
 url: https://khoobo.com/wp-content/uploads/2022/06/Sarkhosh_5.jpg
+archive: https://web.archive.org/web/20261115143824/https://khoobo.com/wp-content/uploads/2022/06/Sarkhosh_5.jpg
 title: Spree — original participant credits
 kind: booklet image
 language: mul

@@ -1,10 +1,11 @@
 ---
 url: https://open.spotify.com/album/1NnxX25bdPpdQ1faCC5NZ9
+archive: https://web.archive.org/web/20250910202038/https://open.spotify.com/album/1NnxX25bdPpdQ1faCC5NZ9
 title: Listen to Baroon Barooneh - Single by Kourosh Yaghmaei | Spotify
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Spotify
 about:
 - Qkza58w

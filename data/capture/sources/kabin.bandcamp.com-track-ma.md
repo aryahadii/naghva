@@ -1,5 +1,6 @@
 ---
 url: https://kabin.bandcamp.com/track/ma
+archive: https://web.archive.org/web/20261115143629/https://kabin.bandcamp.com/track/ma
 title: Ma | Kābin feat. Haleh Seyfizadeh & Omid Nemati | Kābin
 language: mul
 publisher: Bandcamp

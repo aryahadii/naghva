@@ -4,7 +4,7 @@ title: "A Selection of Original Scores by Saeed Shahram - EP - Album by Saeed Sh
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: "Apple Music"
 about:
 - Qb23qew

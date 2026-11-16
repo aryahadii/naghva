@@ -2,6 +2,7 @@
 url: https://open.spotify.com/album/7j418L0rqloNqBUubxbZis
 title: Braids of Innocence on Spotify
 status: processed
+tier: discography
 ---
 
 > "name":"Braids of Innocence"

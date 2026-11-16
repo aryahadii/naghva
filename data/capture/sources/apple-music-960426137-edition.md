@@ -5,7 +5,7 @@ title: Daricheh - Single | Chaartaar
 publisher: Apple Music
 language: en
 status: processed
-tier: own
+tier: discography
 about:
 - Qb3nvrj
 ---

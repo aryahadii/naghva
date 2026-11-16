@@ -4,6 +4,7 @@ title: The Trooper (Traditional) - Single
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > The Trooper (Traditional) - Single

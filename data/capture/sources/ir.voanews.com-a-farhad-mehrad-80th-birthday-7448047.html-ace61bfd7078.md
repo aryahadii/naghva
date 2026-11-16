@@ -1,9 +1,11 @@
 ---
 url: https://ir.voanews.com/a/farhad-mehrad-80th-birthday/7448047.html
+archive: https://web.archive.org/web/20260712094310/https://ir.voanews.com/a/farhad-mehrad-80th-birthday/7448047.html
 title: فرهاد مهراد از «کوچینی» در تهران تا «تیه» در پاریس؛ خواننده معترضی که بعد از انقلاب ۵۷ ممنوع‌الکار شد
 language: fa
 publisher: Voice of America
 status: processed
+tier: journalism
 ---
 
 > بعد از درگذشت این هنرمند،‌ تعدادی از ترانه‌های او به خصوص ترانه «کودکانه» که به «بوی عیدی» نیز معروف است و ترانه «گنجشکک اشی مشی» از صدا‌و‌سیمای جمهوری اسلامی پخش شد.

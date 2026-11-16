@@ -3,7 +3,7 @@ url: https://soundcloud.com/moodymoussavi/mascara
 title: Mascara - Moody Moussavi
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Moody Moussavi
 - Songs for the Sunken

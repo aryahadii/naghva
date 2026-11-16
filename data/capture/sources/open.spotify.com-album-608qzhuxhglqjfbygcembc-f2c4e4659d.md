@@ -2,6 +2,7 @@
 url: https://open.spotify.com/album/608qZhUxhGlQJFBYgcemBc
 title: Day And Night on Spotify
 status: processed
+tier: discography
 ---
 
 > "name":"Day And Night"

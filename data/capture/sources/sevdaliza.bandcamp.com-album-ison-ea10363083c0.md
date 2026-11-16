@@ -1,5 +1,6 @@
 ---
 url: https://sevdaliza.bandcamp.com/album/ison
+archive: https://web.archive.org/web/20260909075925/https://sevdaliza.bandcamp.com/album/ison
 title: ISON | Sevdaliza
 language: en
 status: processed

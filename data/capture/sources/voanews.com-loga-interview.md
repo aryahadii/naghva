@@ -1,5 +1,6 @@
 ---
 url: https://ir.voanews.com/a/music-/4383238.html
+archive: https://web.archive.org/web/20250416123746/https://ir.voanews.com/a/music-/4383238.html
 title: گفتگوی کامل با «لوگا رامین ترکیان» درباره گروه موسیقی نیاز
 kind: web page
 language: fa

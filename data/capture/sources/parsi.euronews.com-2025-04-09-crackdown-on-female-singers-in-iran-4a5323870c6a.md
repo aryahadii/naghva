@@ -1,5 +1,6 @@
 ---
 url: https://parsi.euronews.com/2025/04/09/crackdown-on-female-singers-in-iran
+archive: https://web.archive.org/web/20261115144926/https://parsi.euronews.com/2025/04/09/crackdown-on-female-singers-in-iran
 title: برخورد با خوانندگان زن ایران؛ صفحه اینستاگرام مهربان جزینی و گلسا رحیم‌زمانی مسدود شد
 status: processed
 kind: web page

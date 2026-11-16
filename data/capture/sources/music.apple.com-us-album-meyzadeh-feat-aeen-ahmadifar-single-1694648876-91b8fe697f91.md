@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/meyzadeh-feat-aeen-ahmadifar-single/169464
 title: Meyzadeh (feat. Aeen Ahmadifar) - Single - Album by Haleh Seyfizadeh - Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Aeen Ahmadifar
 status: processed

@@ -3,7 +3,7 @@ url: https://m.soundcloud.com/majidsalari/sham-o-parvaneh
 title: Sham o Parvaneh by Majid Salari
 kind: web page
 language: mul
-tier: own
+tier: discography
 status: processed
 ---
 

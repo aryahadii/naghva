@@ -1,5 +1,6 @@
 ---
 url: https://iranianmusiciansunion.com/%D8%AE%D8%AF%D8%A7%D8%AD%D8%A7%D9%81%D8%B8%DB%8C-%D9%BE%DB%8C%D8%AA%D8%B1-%D8%B3%D9%84%DB%8C%D9%85%D8%A7%D9%86%DB%8C-%D9%BE%D9%88%D8%B1/
+archive: https://web.archive.org/web/20260512025723/https://iranianmusiciansunion.com/%D8%AE%D8%AF%D8%A7%D8%AD%D8%A7%D9%81%D8%B8%DB%8C-%D9%BE%DB%8C%D8%AA%D8%B1-%D8%B3%D9%84%DB%8C%D9%85%D8%A7%D9%86%DB%8C-%D9%BE%D9%88%D8%B1/
 title: وداع پیتر سلیمانی پور | انجمن صنفی هنرمندان موسیقی ایران
 kind: web page
 language: fa

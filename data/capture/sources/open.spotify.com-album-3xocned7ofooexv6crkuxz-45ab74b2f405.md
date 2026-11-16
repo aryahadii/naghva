@@ -5,7 +5,7 @@ kind: web page
 language: en
 publisher: Spotify
 status: processed
-tier: other
+tier: discography
 about:
 - Ebrahim Monsefi
 - Rami's Songs

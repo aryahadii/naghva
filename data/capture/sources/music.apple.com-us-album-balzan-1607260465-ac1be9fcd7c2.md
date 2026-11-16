@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/balzan/1607260465
+archive: https://web.archive.org/web/20220916200759/https://music.apple.com/us/album/balzan/1607260465
 title: Balzan - Album by Balzan - Apple Music
 language: en
 publisher: Apple Music

@@ -19,6 +19,17 @@ statements:
     - source: open.spotify.com-album-18dwt2wopkppssh5zsqrrv
       quote: name="music:release_date" content="2019-03-21"
       accessed: '2026-11-08'
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-d8-b1-d8-a7-d8-b2--d8-a8-d9-87-d8-a7-d8-b1-single-1456855094
+      quote: |-
+        راز بهار - Single - Album by Sara Naeini & Aria Rohani - Apple Music
+      accessed: '2026-10-19'
+    - source: open.spotify.com-album-18dwt2wopkppssh5zsqrrv
+      quote: |-
+        Listen to راز بهار - Single by Sara Naeini | Spotify
+      accessed: '2026-11-08'
   performer:
   - value: Qb23qew
     references:

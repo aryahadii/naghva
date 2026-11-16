@@ -1,10 +1,11 @@
 ---
 url: https://music.apple.com/us/album/amoo-norooz-single/844819325
+archive: https://web.archive.org/web/20250915111311/https://music.apple.com/us/album/amoo-norooz-single/844819325
 title: Amoo Norooz - Single - Album by Shahin Najafi - Apple Music
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Apple Music
 about:
 - Qn7vfak

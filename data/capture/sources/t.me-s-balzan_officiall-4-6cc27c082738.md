@@ -1,5 +1,6 @@
 ---
 url: https://t.me/s/balzan_officiall/4
+archive: https://web.archive.org/web/20260110114835/https://t.me/s/balzan_officiall/4
 title: 'Balzan: Duo announcement'
 status: processed
 kind: telegram post

@@ -1,9 +1,10 @@
 ---
 url: https://music.apple.com/us/album/synesthesia/1840532654
+archive: https://web.archive.org/web/20261022191530/https://music.apple.com/us/album/synesthesia/1840532654
 title: ‎Synesthesia - Album by Azam Ali - Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 status: processed
 ---
 

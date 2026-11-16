@@ -4,7 +4,7 @@ title: Listen to Hayoula - Single by Shaayn | Spotify
 status: processed
 kind: web page
 language: mul
-tier: own
+tier: discography
 ---
 
 > Listen to Hayoula - Single by Shaayn | Spotify

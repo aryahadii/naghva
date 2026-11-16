@@ -1,5 +1,6 @@
 ---
 url: https://www.innerviews.org/inner/deyhim-1
+archive: https://web.archive.org/web/20261115163247/https://www.innerviews.org/inner/deyhim-1
 title: 'Innerviews: Sussan Deyhim - Sonic Beautification'
 kind: interview
 language: en

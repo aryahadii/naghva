@@ -6,6 +6,7 @@ language: en
 publisher: The Quietus
 archive: https://web.archive.org/web/*/https://thequietus.com/news/mahdyar-interview-money-money/
 status: processed
+tier: journalism
 ---
 
 > Since I started I was always making experimental music on the side at the same time that I was producing other artists or scoring films. It was just a joyful process to give myself a lot of space with no boundaries in order to express my emotions and thoughts, testing different limits and seeing if I could push them further. I knew one day I would eventually put them out somehow but had no precise plan and wasn’t in a hurry to do it because I was quite busy with other commissioned projects that I was working on.

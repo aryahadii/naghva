@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/4gBYoTNQ2xo4sBH0QrE28d
+archive: https://web.archive.org/web/20240811152501/https://open.spotify.com/album/4gBYoTNQ2xo4sBH0QrE28d
 title: Seized - Album by Mahdyar
 kind: album page
 language: en

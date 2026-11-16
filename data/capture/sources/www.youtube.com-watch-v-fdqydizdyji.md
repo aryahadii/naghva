@@ -5,7 +5,7 @@ title: "To Bordi"
 status: processed
 kind: youtube video
 language: mul
-tier: own
+tier: discography
 publisher: "Sara Naeini"
 issued:
   date: '2022-02-03'

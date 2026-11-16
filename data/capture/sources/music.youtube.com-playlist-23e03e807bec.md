@@ -1,5 +1,6 @@
 ---
 url: https://music.youtube.com/playlist?list=OLAK5uy_lnJN2aPML7gkAGtvdZJUvKE1DgeIp4gLY&si=vdc9dMH9tUXydkNu
+archive: https://web.archive.org/web/20260310224732/https://music.youtube.com/playlist?list=OLAK5uy_lnJN2aPML7gkAGtvdZJUvKE1DgeIp4gLY&si=vdc9dMH9tUXydkNu
 title: Khoone Khorshid
 kind: web page
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://t.me/soofi_namazi/69
+archive: https://web.archive.org/web/20261115154939/https://t.me/soofi_namazi/69
 title: Soofi — Labat Che Gooyad? [Piano Version]
 status: processed
 kind: telegram post

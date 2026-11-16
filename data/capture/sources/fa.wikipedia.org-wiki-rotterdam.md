@@ -1,5 +1,6 @@
 ---
 url: https://fa.wikipedia.org/wiki/%D8%B1%D9%88%D8%AA%D8%B1%D8%AF%D8%A7%D9%85
+archive: https://web.archive.org/web/20260220093034/https://fa.wikipedia.org/wiki/%D8%B1%D9%88%D8%AA%D8%B1%D8%AF%D8%A7%D9%85
 title: "روتردام"
 kind: web page
 language: fa

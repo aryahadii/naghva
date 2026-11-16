@@ -1,9 +1,11 @@
 ---
 url: https://www.jillizwilliz.com/mahan
+archive: https://web.archive.org/web/20261115163553/https://www.jillizwilliz.com/mahan
 title: Mahan Mohammadi
 kind: web page
 language: mul
 status: processed
+tier: own
 ---
 
 > ماهان محمدی، متولد ۱۳۷۶، نوازندگی ترومپت را از ۱۰ سالگی آغاز کرد. علاقه او به موسیقی اقوام ایران باعث شد در کنار ترومپت، سازهایی مانند دوتار جنوب خراسان، سه‌تار و تنبک را نیز فرا بگیرد و نگاه گسترده‌تری به موسیقی ایرانی پیدا کند.

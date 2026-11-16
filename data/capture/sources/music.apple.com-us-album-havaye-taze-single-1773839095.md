@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/havaye-taze-single/1773839095
 title: Havaye Taze - Single - Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Kaveh Yaghmaei
 status: processed

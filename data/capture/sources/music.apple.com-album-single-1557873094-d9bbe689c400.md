@@ -1,9 +1,10 @@
 ---
 url: https://music.apple.com/album/%D8%A8%D8%B4%D9%86%D9%88-single/1557873094
+archive: https://web.archive.org/web/20220915104354/https://music.apple.com/album/%D8%A8%D8%B4%D9%86%D9%88-single/1557873094
 title: Beshno (feat. Peymandegar) - Single by Bahram on Apple Music
 kind: web page
 language: en
-tier: other
+tier: discography
 publisher: Apple Music
 about:
 - Beshno

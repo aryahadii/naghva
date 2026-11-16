@@ -1,5 +1,6 @@
 ---
 url: https://khojstudios.org/person/makan-ashgvari/
+archive: https://web.archive.org/web/20260612171106/https://khojstudios.org/person/makan-ashgvari/
 title: Makan Ashgvari | Khoj Studios
 kind: web page
 language: en

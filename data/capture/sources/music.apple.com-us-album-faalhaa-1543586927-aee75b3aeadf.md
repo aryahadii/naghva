@@ -4,6 +4,7 @@ title: Faalhaa - Album by Hamzeh Yeganeh - Apple Music
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > Listen to Faalhaa by Hamzeh Yeganeh on Apple Music. 2021. 9 Songs. Duration: 50 minutes.

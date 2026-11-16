@@ -1,10 +1,11 @@
 ---
 url: https://open.spotify.com/album/5EMEn0Z92qjJosvsHVurIz
+archive: https://web.archive.org/web/20240911143951/https://open.spotify.com/album/5EMEn0Z92qjJosvsHVurIz
 title: Listen to Vagheyitar Az Mostanad - Single by Hichkas | Spotify
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Spotify
 about:
 - Qgyvbw3

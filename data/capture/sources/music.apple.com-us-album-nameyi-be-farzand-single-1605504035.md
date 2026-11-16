@@ -1,10 +1,11 @@
 ---
 url: https://music.apple.com/us/album/nameyi-be-farzand-single/1605504035
+archive: https://web.archive.org/web/20240815154452/https://music.apple.com/us/album/nameyi-be-farzand-single/1605504035
 title: Nameyi Be Farzand - Single - Album by Yas - Apple Music
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Apple Music
 about:
 - Qx3svqf

@@ -3,6 +3,7 @@ url: https://www.youtube.com/watch?v=B23iBDWo8Ic
 archive: "https://web.archive.org/web/20240618135050/https://www.youtube.com/watch?v=B23iBDWo8Ic"
 title: "Damahi - Meh heyranom (live @ Azadi 09/2015)"
 status: processed
+tier: discography
 kind: youtube video
 language: mul
 publisher: "Shayan Fathi"

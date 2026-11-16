@@ -4,7 +4,7 @@ title: Ayandeh (feat. Taha Mazaheri) - Single - Album by Golsa - Apple Music
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Golsa
 ---

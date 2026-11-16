@@ -3,6 +3,7 @@ url: https://open.spotify.com/track/28hjnijReBeUR5EiHcux3H
 title: mosallas-remix — Spotify
 language: en
 status: processed
+tier: discography
 ---
 
 > Mosallas - Remix - song and lyrics by Pallett, Mehdi Saki | Spotify

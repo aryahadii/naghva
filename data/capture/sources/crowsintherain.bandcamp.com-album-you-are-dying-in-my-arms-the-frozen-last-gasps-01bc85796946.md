@@ -1,5 +1,6 @@
 ---
 url: https://crowsintherain.bandcamp.com/album/you-are-dying-in-my-arms-the-frozen-last-gasps
+archive: https://web.archive.org/web/20250709203634/https://crowsintherain.bandcamp.com/album/you-are-dying-in-my-arms-the-frozen-last-gasps
 title: You Are Dying In My Arms (the frozen last gasps) | Crows in the rain
 language: en
 publisher: Crows in the Rain (Bandcamp)

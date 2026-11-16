@@ -1,5 +1,6 @@
 ---
 url: https://madeiniranrecords.bandcamp.com/track/noghteye-siah
+archive: https://web.archive.org/web/20261115144245/https://madeiniranrecords.bandcamp.com/track/noghteye-siah
 title: Noghteye Siah | Rian | Made in Iran
 status: processed
 kind: web page

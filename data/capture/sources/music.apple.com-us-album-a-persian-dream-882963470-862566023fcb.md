@@ -4,6 +4,7 @@ title: A Persian Dream - Album by Tara Tiba - Apple Music
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > https://music.apple.com/us/artist/tara-tiba/582273942

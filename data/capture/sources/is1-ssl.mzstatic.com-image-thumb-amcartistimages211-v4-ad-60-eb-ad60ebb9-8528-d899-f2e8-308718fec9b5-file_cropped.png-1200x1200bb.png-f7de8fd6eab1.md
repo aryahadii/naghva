@@ -3,7 +3,7 @@ url: https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/ad/60/eb/ad6
 title: Milad Derakhshani — full square portrait
 kind: image
 language: en
-tier: own
+tier: discography
 about:
 - Qnjntqs
 status: processed

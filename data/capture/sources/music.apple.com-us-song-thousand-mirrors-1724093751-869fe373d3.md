@@ -2,6 +2,7 @@
 url: https://music.apple.com/us/song/thousand-mirrors/1724093751
 title: Thousand Mirrors - Song with Lyrics by Jelica Mijanovic - Apple Music
 status: processed
+tier: discography
 ---
 
 > Thousand Mirrors

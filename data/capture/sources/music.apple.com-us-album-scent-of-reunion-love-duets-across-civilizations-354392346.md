@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/scent-of-reunion-love-duets-across-civiliz
 title: Scent of Reunion (Love Duets Across Civilizations) - Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Scent of Reunion (Love Duets Across Civilizations) - Apple Music
 status: processed

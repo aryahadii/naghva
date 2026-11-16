@@ -14,6 +14,17 @@ statements:
       quote: |-
         Listen to Hich Hich Hich - Album by Shahin Najafi | Spotify
       accessed: '2026-11-09'
+  release type:
+  - value: album
+    references:
+    - source: music.apple.com-us-album-hich-hich-hich-506266297
+      quote: |-
+        Hich Hich Hich - Album by Shahin Najafi - Apple Music
+      accessed: '2026-11-09'
+    - source: open.spotify.com-album-3djesbwakoyzdxut2avfds
+      quote: |-
+        Listen to Hich Hich Hich - Album by Shahin Najafi | Spotify
+      accessed: '2026-11-09'
   listen link:
   - value: https://music.apple.com/us/album/hich-hich-hich/506266297
     references:

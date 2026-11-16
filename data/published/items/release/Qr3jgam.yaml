@@ -38,6 +38,17 @@ statements:
     - source: open.spotify.com-album-3lwcccoclpdfn0mm16hhsn-4e39ae809fa6
       quote: '2019-12-26'
       accessed: '2026-10-23'
+  release type:
+  - value: album
+    references:
+    - source: music.apple.com-us-album-d8-a8-d9-87--d8-b1-d8-a7-d9-87--d8-ae-d9-88-d8-af-1493314633-b6e1eab4b257
+      quote: |-
+        به راه خود - Album by 127 - Apple Music
+      accessed: '2026-10-23'
+    - source: open.spotify.com-album-3lwcccoclpdfn0mm16hhsn-4e39ae809fa6
+      quote: |-
+        به راه خود - Album by 127 - Spotify
+      accessed: '2026-10-23'
   performer:
   - value: Q2n5y3k
     references:

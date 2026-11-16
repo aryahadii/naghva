@@ -1,10 +1,11 @@
 ---
 url: https://music.apple.com/us/album/mastam-baat-single/1826139874
+archive: https://web.archive.org/web/20260919105501/https://music.apple.com/us/album/mastam-baat-single/1826139874
 title: Mastam Baat - Single - Album by Erfan, Shahin Najafi & Morvarid - Apple Music
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Apple Music
 about:
 - Qn7vfak

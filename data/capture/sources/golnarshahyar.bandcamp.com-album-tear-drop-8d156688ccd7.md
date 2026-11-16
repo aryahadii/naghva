@@ -4,6 +4,7 @@ title: Tear Drop
 language: en
 publisher: Golnar Shahyar
 status: processed
+tier: own
 archive: https://web.archive.org/web/20250427044940/https://golnarshahyar.bandcamp.com/album/tear-drop
 ---
 

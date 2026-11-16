@@ -4,7 +4,7 @@ title: Stream SERAT (ft Sharyar) by Rian / آرین | Listen online for free on 
 status: processed
 kind: web page
 language: mul
-tier: own
+tier: discography
 ---
 
 > SERAT (ft Sharyar)

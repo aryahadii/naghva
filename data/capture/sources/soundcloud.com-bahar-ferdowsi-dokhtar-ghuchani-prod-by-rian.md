@@ -4,7 +4,7 @@ title: Dokhtar Qouchani (prod. by Rian)
 status: processed
 kind: web page
 language: mul
-tier: own
+tier: discography
 ---
 
 > Vocal: Bahar Ferdowsi Songwriters: Arian Shariat, Bahar Ferdowsi Producer: Arian Shariat Electric guitar: Behzad Danesh

@@ -3,7 +3,7 @@ url: https://www.youtube.com/playlist?list=OLAK5uy_nxQSJKzS20OXenlMEhYSK9eXxq6bl
 title: Sheidaei Daroon 1 - YouTube
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Kaveh Yaghmaei
 status: processed

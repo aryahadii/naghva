@@ -3,7 +3,7 @@ url: https://soundcloud.com/hadi-pakzad/nothing-will-get-better
 title: Nothing Will Get Better - Hadi Pakzad | SoundCloud
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Hadi Pakzad
 status: processed

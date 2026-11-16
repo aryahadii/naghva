@@ -1,9 +1,11 @@
 ---
 url: https://music.apple.com/us/album/darya-kojaast/1633108121
+archive: https://web.archive.org/web/20261012120409/https://music.apple.com/us/album/darya-kojaast/1633108121
 title: Darya Kojaast - Album by Chaartaar - Apple Music
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > Darya Kojaast by Chaartaar on Apple Music

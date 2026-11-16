@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/back-pack-single/1643470849
 title: Back Pack - Single - Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Kaveh Yaghmaei
 status: processed

@@ -5,7 +5,7 @@ title: It Won't Stay The Same - اینطور نمی مونه - Pallett
 status: processed
 kind: web page
 language: mul
-tier: own
+tier: discography
 about:
 - Pallett
 - Monicki

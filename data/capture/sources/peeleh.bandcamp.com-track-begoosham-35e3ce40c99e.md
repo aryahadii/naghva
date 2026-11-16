@@ -1,5 +1,6 @@
 ---
 url: https://peeleh.bandcamp.com/track/begoosham
+archive: https://web.archive.org/web/20260826083343/https://peeleh.bandcamp.com/track/begoosham
 title: BEGOOSHAM, by Bamdad, Bahram, Peymandegar
 kind: web page
 language: en

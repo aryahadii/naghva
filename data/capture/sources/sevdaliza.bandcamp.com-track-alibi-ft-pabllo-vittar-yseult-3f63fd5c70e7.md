@@ -1,9 +1,11 @@
 ---
 url: https://sevdaliza.bandcamp.com/track/alibi-ft-pabllo-vittar-yseult
+archive: https://web.archive.org/web/20260924042615/https://sevdaliza.bandcamp.com/track/alibi-ft-pabllo-vittar-yseult
 title: ALIBI (FT. PABLLO VITTAR & YSEULT) | Sevdaliza
 language: en
 publisher: Sevdaliza
 status: processed
+tier: own
 ---
 
 > released June 28, 2024

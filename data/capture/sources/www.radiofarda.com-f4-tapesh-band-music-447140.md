@@ -1,5 +1,6 @@
 ---
 url: https://www.radiofarda.com/amp/f4_Tapesh_band_music_/447140.html
+archive: https://web.archive.org/web/20220922005558/https://www.radiofarda.com/amp/f4_Tapesh_band_music_/447140.html
 title: «ما مرد نيستيم»؛ اعتراض موسیقی به جامعه مردسالار ایران
 kind: web page
 language: fa

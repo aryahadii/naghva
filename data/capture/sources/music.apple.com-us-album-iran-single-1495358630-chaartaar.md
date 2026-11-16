@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/iran-single/1495358630
 title: Iran - Single by Chaartaar on Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Qb3nvrj
 status: processed

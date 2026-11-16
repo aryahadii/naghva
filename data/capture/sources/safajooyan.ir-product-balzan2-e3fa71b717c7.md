@@ -1,5 +1,6 @@
 ---
 url: https://safajooyan.ir/product/balzan2/
+archive: https://web.archive.org/web/20261115150405/https://safajooyan.ir/product/balzan2/
 title: ترک‌های می‌بینمت / من و او
 status: processed
 kind: web page

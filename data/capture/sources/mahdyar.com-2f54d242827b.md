@@ -5,6 +5,7 @@ language: en
 publisher: Mahdyar
 archive: https://web.archive.org/web/*/https://mahdyar.com/
 status: processed
+tier: own
 ---
 
 > Mahdyar Aghajani is a musician, record producer and film composer born and raised in Tehran, Iran.

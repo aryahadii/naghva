@@ -4,7 +4,7 @@ title: Stream Baghale Man (ft Taha Mazaheri) by Rian / آرین | Listen online 
 status: processed
 kind: web page
 language: mul
-tier: own
+tier: discography
 ---
 
 > Arrangement for strings : Amir Nazar

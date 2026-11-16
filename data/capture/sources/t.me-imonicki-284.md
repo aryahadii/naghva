@@ -1,5 +1,6 @@
 ---
 url: https://t.me/imonicki/284
+archive: https://web.archive.org/web/20251223175510/https://t.me/imonicki/284
 title: "برای دیدن اجراها کافیه سر روز و ساعت مقرر از طریق لینک زیر وارد اپلیکیشن یا وبسا"
 status: processed
 kind: telegram post

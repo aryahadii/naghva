@@ -4,7 +4,7 @@ title: "Listen to Iran e man - Single by Reza Rohani | Spotify"
 status: processed
 kind: web page
 language: mul
-tier: own
+tier: discography
 publisher: "Spotify"
 about:
 - Qb23qew

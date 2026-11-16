@@ -1,10 +1,11 @@
 ---
 url: https://music.apple.com/us/album/of-love-and-other-evils/1482151284
+archive: https://web.archive.org/web/20261011070614/https://music.apple.com/us/album/of-love-and-other-evils/1482151284
 title: Of Love and Other Evils - Album by Ali Azimi - Apple Music
 language: en
 publisher: Apple Music
 status: processed
-tier: own
+tier: discography
 ---
 
 > Of Love and Other Evils - Album by Ali Azimi - Apple Music

@@ -1,5 +1,6 @@
 ---
 url: https://beehy.pe/balzan-booye-kohneye-mahtab-iran/
+archive: https://web.archive.org/web/20260809014441/https://beehy.pe/balzan-booye-kohneye-mahtab-iran/
 title: 'Iran: Bâlzan (بالزَن)'
 language: en
 publisher: beehype

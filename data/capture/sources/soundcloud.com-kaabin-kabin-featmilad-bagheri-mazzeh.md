@@ -1,11 +1,12 @@
 ---
 url: https://soundcloud.com/kaabin/kabin-featmilad-bagheri-mazzeh
+archive: https://web.archive.org/web/20251225184347/https://soundcloud.com/kaabin/kabin-featmilad-bagheri-mazzeh
 title: Kābin Feat. Milad Bagheri - Mazzeh | SoundCloud
 language: mul
 publisher: SoundCloud
 status: processed
 kind: track page
-tier: own
+tier: discography
 about:
 - Kābin
 ---

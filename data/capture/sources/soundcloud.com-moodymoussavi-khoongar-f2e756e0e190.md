@@ -3,7 +3,7 @@ url: https://soundcloud.com/moodymoussavi/khoongar
 title: Khoongar - Moody Moussavi
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Moody Moussavi
 - Khoongar

@@ -1,9 +1,11 @@
 ---
 url: https://coogradio.com/2019/03/sxsw-interview-with-iranian-rock-band-tarantist/
+archive: https://web.archive.org/web/20260214191128/https://coogradio.com/2019/03/sxsw-interview-with-iranian-rock-band-tarantist/
 title: SXSW Interview with Iranian Rock Band TarantisT
 language: en
 author: Parnia Razi
 status: processed
+tier: journalism
 ---
 
 > TarantisT is a rock band from Tehran, the capital city of Iran.

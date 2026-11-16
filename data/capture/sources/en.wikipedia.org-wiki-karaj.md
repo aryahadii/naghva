@@ -1,5 +1,6 @@
 ---
 url: https://en.wikipedia.org/wiki/Karaj
+archive: https://web.archive.org/web/20261020053639/https://en.wikipedia.org/wiki/Karaj
 title: "Karaj"
 kind: web page
 language: en
