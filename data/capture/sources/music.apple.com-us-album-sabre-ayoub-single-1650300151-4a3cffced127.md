@@ -4,7 +4,7 @@ title: Sabre Ayoub - Single - Album by Babak Khangholi - Apple Music
 language: en
 publisher: Apple Music
 status: processed
-tier: own
+tier: discography
 ---
 
 > Sabre Ayoub - Single

@@ -5,7 +5,7 @@ title: Golsa live in Berlin March 2025
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Golsa
 ---

@@ -1,5 +1,6 @@
 ---
 url: https://30m-records.com/makan-ashgvari/
+archive: https://web.archive.org/web/20260609060814/https://30m-records.com/makan-ashgvari/
 title: Makan Ashgvari | 30M Records
 kind: web page
 language: en

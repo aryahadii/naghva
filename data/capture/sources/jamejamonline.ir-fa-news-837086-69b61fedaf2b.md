@@ -1,5 +1,6 @@
 ---
 url: https://jamejamonline.ir/fa/news/837086
+archive: https://web.archive.org/web/20261115142805/https://jamejamonline.ir/fa/news/837086/%D8%A2%D9%84%D8%A8%D9%88%D9%85-%D8%A7%D9%81%D8%B4%D8%A7%D8%B1%D8%B3%D8%AA%D8%A7%D9%862-%D9%85%DB%8C%D9%84%D8%A7%D8%AF-%D8%AF%D8%B1%D8%AE%D8%B4%D8%A7%D9%86%DB%8C-%D8%B1%D9%88%D9%86%D9%85%D8%A7%DB%8C%DB%8C-%D8%B4%D8%AF
 title: تا رهایی — رونمایی افشارستان
 kind: web page
 language: fa

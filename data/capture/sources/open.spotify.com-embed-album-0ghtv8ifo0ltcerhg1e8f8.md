@@ -4,6 +4,7 @@ title: Gozar | Kian Pourtorab on Spotify
 publisher: Spotify
 kind: web page
 status: processed
+tier: discography
 about: [Qxs89jd]
 ---
 

@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/falfaali-feat-pouya-mahmoodi-single/152712
 title: Listen to Falfaali (feat. Pouya Mahmoodi) - Single by Habib Meftah
 kind: web page
 language: en
-tier: own
+tier: discography
 status: processed
 ---
 

@@ -2,6 +2,7 @@
 url: https://agf-poemproducer.bandcamp.com/track/untitled
 title: untitled | Salome MC, Andreas Eduardo Frank | AGF ✸ poemproducer ✸ Antye Greie-Ripatti
 status: processed
+tier: own
 archive: https://web.archive.org/web/20230428025411/https://agf-poemproducer.bandcamp.com/track/untitled
 ---
 

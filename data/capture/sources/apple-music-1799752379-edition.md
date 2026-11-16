@@ -4,7 +4,7 @@ title: Promise (Ashcome Remix) - Single | Kian Pourtorab
 publisher: Apple Music
 language: en
 status: processed
-tier: own
+tier: discography
 about:
 - Qxs89jd
 ---

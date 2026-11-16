@@ -2,6 +2,7 @@
 url: https://open.spotify.com/album/3DXscqD6w8HcDk2fTpclI9
 title: From Isfahan to Isfahan on Spotify
 status: processed
+tier: discography
 ---
 
 > "name":"From Isfahan to Isfahan"

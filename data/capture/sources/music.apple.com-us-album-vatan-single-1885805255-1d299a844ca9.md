@@ -4,7 +4,7 @@ title: Vatan - Apple Music
 status: processed
 kind: web page
 language: en
-tier: other
+tier: discography
 about:
 - Aria Rohani & Monicki
 - Vatan

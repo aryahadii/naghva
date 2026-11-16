@@ -1,5 +1,6 @@
 ---
 url: https://t.me/s/balzan_officiall/186
+archive: https://web.archive.org/web/20261115153002/https://t.me/s/balzan_officiall/186
 title: 'Balzan: منم و او available'
 status: processed
 kind: telegram post

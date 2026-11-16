@@ -4,7 +4,7 @@ title: "Millennium of Silence (هزارهٔ سکوت  ) (feat. Sara Naeini) - S
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: "Apple Music"
 about:
 - Qb23qew

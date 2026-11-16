@@ -73,7 +73,7 @@ class StatsTests(unittest.TestCase):
             return s
 
         items = dict(self.items)
-        items.update({"QI": place("QI", "Iran"), "QT": place("QT", "Tehran", "QI"),
+        items.update({stats.IRAN: place(stats.IRAN, "Iran"), "QT": place("QT", "Tehran", stats.IRAN),
                       "QG": place("QG", "Germany"), "QBE": place("QBE", "Berlin", "QG")})
         berlin = based("QBE", start="2013")
         berlin["rank"] = "preferred"

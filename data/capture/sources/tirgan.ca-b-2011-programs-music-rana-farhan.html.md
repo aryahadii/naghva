@@ -1,5 +1,6 @@
 ---
 url: https://tirgan.ca/b/2011/programs/music/rana-farhan.html
+archive: https://web.archive.org/web/20261115160303/https://tirgan.ca/b/2011/programs/music/rana-farhan.html
 title: "Rana Farhan | Tirgan"
 kind: web page
 language: en

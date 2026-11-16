@@ -1,7 +1,9 @@
 ---
 url: https://www.easternpsychological.org/files/DOCUMENTLIBRARY/EPA-Conference-Program(1).pdf
+archive: https://web.archive.org/web/20261115162056/https://www.easternpsychological.org/files/DOCUMENTLIBRARY/EPA-Conference-Program(1).pdf
 title: EPA Conference Program — The Improvising Musician
 status: processed
+tier: academic
 kind: web page
 language: en
 ---

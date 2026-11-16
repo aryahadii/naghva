@@ -1,5 +1,6 @@
 ---
 url: https://jetpackband.bandcamp.com
+archive: https://web.archive.org/web/20261115143249/https://jetpackband.bandcamp.com/album/joystick-ep
 title: Joystick EP | Jetpack
 status: processed
 tier: own

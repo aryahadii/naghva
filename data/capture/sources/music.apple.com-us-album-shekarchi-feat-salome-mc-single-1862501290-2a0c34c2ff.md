@@ -2,6 +2,7 @@
 url: https://music.apple.com/us/album/shekarchi-feat-salome-mc-single/1862501290
 title: Shekarchi (feat. Salome MC) - Single - Album by Yazdan Panah - Apple Music
 status: processed
+tier: discography
 ---
 
 > Listen to Shekarchi (feat. Salome MC) - Single by Yazdan Panah on Apple Music. 2025. 1 Song. Duration: 3 minutes.

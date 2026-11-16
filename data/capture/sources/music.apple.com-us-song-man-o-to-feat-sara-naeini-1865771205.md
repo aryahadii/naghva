@@ -4,7 +4,7 @@ title: "Man o To (feat. Sara Naeini) - Song with Lyrics by Reza Rohani - Apple 
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: "Apple Music"
 about:
 - Qb23qew

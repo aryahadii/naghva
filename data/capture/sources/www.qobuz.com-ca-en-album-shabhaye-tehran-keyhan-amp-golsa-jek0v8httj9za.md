@@ -4,7 +4,7 @@ title: Shabhaye Tehran — Keyhan & Golsa, Qobuz
 status: processed
 kind: web page
 language: en
-tier: catalogue
+tier: discography
 about:
 - Golsa
 ---

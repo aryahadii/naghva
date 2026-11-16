@@ -1,9 +1,10 @@
 ---
 url: "https://t.me/s/haftberkeh/30405"
+archive: https://web.archive.org/web/20240916212430/https://t.me/s/haftberkeh/30405
 title: "Haft Berkeh: Jalboat, a representative of Bandar Abbas music"
 kind: "web page"
 language: "fa"
-tier: "journalism"
+tier: journalism
 status: "processed"
 ---
 

@@ -4,7 +4,7 @@ title: Robot Song
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 part of: soundcloud.com-jetpack-64687177-395b7c06b9b3
 about:
 - Jetpack

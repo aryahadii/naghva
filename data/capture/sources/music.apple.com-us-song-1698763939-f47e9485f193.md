@@ -2,7 +2,7 @@
 url: https://music.apple.com/us/song/1698763939
 title: ‎Men of Glass (feat. Rome Fortune) [feat. Rome Fortune] - Song with Lyrics by Sevdaliza - Apple Music
 status: processed
-tier: own
+tier: discography
 kind: web page
 about:
 - Sevdaliza

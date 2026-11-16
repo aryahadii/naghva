@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/songs-for-the-sunken/6804422733
 title: ‎Songs for the Sunken - Album by Moody Moussavi - Apple Music
 kind: web page
 language: mul
-tier: streaming
+tier: discography
 status: processed
 ---
 

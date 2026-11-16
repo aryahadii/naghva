@@ -3,7 +3,7 @@ url: https://soundcloud.com/majidsalari/majid-salari-mashroohe-tanhaaee
 title: Mashrooh’e Tanhaaee
 kind: web page
 language: mul
-tier: own
+tier: discography
 status: processed
 ---
 

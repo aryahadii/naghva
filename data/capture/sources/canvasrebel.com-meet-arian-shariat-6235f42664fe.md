@@ -1,5 +1,6 @@
 ---
 url: https://canvasrebel.com/meet-arian-shariat/
+archive: https://web.archive.org/web/20261115140347/https://canvasrebel.com/meet-arian-shariat/
 title: Meet Arian Shariat
 status: processed
 kind: web page

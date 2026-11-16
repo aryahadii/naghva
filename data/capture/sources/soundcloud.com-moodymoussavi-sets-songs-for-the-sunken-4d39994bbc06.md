@@ -3,7 +3,7 @@ url: https://soundcloud.com/moodymoussavi/sets/songs-for-the-sunken
 title: Songs for the Sunken — Moody Moussavi
 kind: web page
 language: mul
-tier: own
+tier: discography
 status: processed
 ---
 

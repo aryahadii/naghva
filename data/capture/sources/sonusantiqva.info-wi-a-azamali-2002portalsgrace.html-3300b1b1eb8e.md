@@ -1,5 +1,6 @@
 ---
 url: https://sonusantiqva.info/wi/A/AzamAli/2002PortalsGrace.html
+archive: https://web.archive.org/web/20261115151357/https://sonusantiqva.info/wi/A/AzamAli/2002PortalsGrace.html
 title: Portals of Grace — Azam Ali
 kind: web page
 language: en

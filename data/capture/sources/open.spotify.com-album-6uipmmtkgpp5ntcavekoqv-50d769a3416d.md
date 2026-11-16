@@ -1,11 +1,12 @@
 ---
 url: https://open.spotify.com/album/6UIpmmTKgPp5nTcaVeKOQV
+archive: https://web.archive.org/web/20250807055733/https://open.spotify.com/album/6UIpmmTKgPp5nTcaVeKOQV
 title: Listen to Sweet as You Are - Album by Farhad Mehrad | Spotify
 kind: web page
 language: en
 publisher: Spotify
 status: processed
-tier: other
+tier: discography
 about:
 - Farhad Mehrad, Sweet as You Are
 ---

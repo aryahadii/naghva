@@ -4,7 +4,7 @@ title: "Roo Be Fardaa"
 status: processed
 kind: youtube video
 language: mul
-tier: own
+tier: discography
 publisher: "Reza Rohani"
 issued:
   date: '2021-12-20'

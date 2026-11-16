@@ -5,7 +5,7 @@ title: Excerpts of Let Her Sing 2025
 status: processed
 kind: youtube video
 language: en
-tier: own
+tier: discography
 part of: www.youtube.com-diasporaartsconnection-71e04dbb53d8
 about:
 - Monicki

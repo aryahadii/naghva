@@ -5,7 +5,7 @@ title: "Reza Rohani feat. Sara Naeini, Khaaliye Bi Paayaan"
 status: processed
 kind: youtube video
 language: mul
-tier: own
+tier: discography
 publisher: "Reza Rohani"
 issued:
   date: '2013-05-27'

@@ -1,5 +1,6 @@
 ---
 url: https://kabin.bandcamp.com/track/delaram
+archive: https://web.archive.org/web/20261115143603/https://kabin.bandcamp.com/track/delaram
 title: Delaram | Kābin & Banan | Kābin
 language: mul
 publisher: Bandcamp

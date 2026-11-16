@@ -2,6 +2,7 @@
 url: https://open.spotify.com/track/0GPz8WlCANArRsiJtCGL22
 title: Road To Nothing on Spotify
 status: processed
+tier: discography
 ---
 
 > "name":"Road To Nothing"

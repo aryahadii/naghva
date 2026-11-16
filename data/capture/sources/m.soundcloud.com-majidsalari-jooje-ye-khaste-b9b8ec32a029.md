@@ -4,7 +4,7 @@ title: Jooje-ye Khaste by Majid Salari
 status: processed
 kind: web page
 language: mul
-tier: own
+tier: discography
 ---
 
 > Vocalist: Majid Salari Arranger: Hamzeh Yeganeh Poet / Lyricist: Khatameh Rezaei Composer: Reza Kolaghani  Musicians:  Piano: Hamzeh Yeganeh Oud & Bass Guitar: Ebrahim Alavi Drums & Percussion: Shayan Fathi  Guest Musician:  Accordion: Kaveh Ghaffari  Recording: Kargadan Studio  Reza Farhadi Nima Bateghva Hetra Music Academy Mixing & Mastering: Arash Pakzad Producer & Investor: Ebrahim Lajvardi Art Director & Cover Art: Morteza Ghaemi Graphic Design: Marjan Rajbar, Morteza Ghaemi Photography: Amir Azizi, Amirhossein Mir-Talebipour Website Design: Hamid Shavar'an Album Printing & Physical Production: Analog Studio

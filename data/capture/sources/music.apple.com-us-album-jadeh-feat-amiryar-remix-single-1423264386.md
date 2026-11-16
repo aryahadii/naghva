@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/jadeh-feat-amiryar-remix-single/1423264386
 title: Jadeh (feat. Amiryar) [Remix] - Single - Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Kaveh Yaghmaei
 status: processed

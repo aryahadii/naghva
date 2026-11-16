@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/i-vinens-speil/388054821
 title: I Vinens Speil - Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - I Vinens Speil - Apple Music
 status: processed

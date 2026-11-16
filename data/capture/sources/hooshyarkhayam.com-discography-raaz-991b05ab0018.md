@@ -1,7 +1,9 @@
 ---
 url: https://hooshyarkhayam.com/discography/raaz
+archive: https://web.archive.org/web/20261115142433/https://hooshyarkhayam.com/discography/raaz
 title: RAAZ | Hooshyar Khayam
 status: processed
+tier: own
 language: en
 publisher: Hooshyar Khayam
 ---

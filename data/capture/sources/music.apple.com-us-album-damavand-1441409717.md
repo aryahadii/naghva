@@ -1,10 +1,11 @@
 ---
 url: https://music.apple.com/us/album/damavand/1441409717
+archive: https://web.archive.org/web/20250621104002/https://music.apple.com/us/album/damavand/1441409717
 title: Damavand - Album by Mohsen Namjoo - Apple Music
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Apple Music
 about:
 - Qt6wjbg

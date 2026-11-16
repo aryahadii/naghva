@@ -4,7 +4,7 @@ title: SONGS FROM UR
 kind: music catalog listing
 language: en
 publisher: Apple Music
-tier: other
+tier: discography
 about:
 - Sussan Deyhim
 - Torsten Rasch

@@ -4,6 +4,7 @@ title: 'Metal Detector: Arsames – We have to stay and fight for it'
 language: en
 publisher: Gulf News / Georgina Enzer
 status: processed
+tier: journalism
 ---
 
 > Metal music is banned in Iran so we can't play it live, but we can practice it in our homes. At least we can make sure the band is ready for gigs and can work on our albums.

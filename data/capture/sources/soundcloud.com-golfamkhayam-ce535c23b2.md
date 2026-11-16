@@ -2,6 +2,7 @@
 url: https://soundcloud.com/golfamkhayam
 title: Stream Golfam Khayam music | Listen to songs, albums, playlists for free on SoundCloud
 status: processed
+tier: discography
 ---
 
 > Stream Golfam Khayam music | Listen to songs, albums, playlists for free on SoundCloud

@@ -1,10 +1,11 @@
 ---
 url: https://open.spotify.com/album/2v6w4YaasMQgeXPiKQB2zY
+archive: https://web.archive.org/web/20250823071118/https://open.spotify.com/album/2v6w4YaasMQgeXPiKQB2zY
 title: Listen to Parandehe Mohajer - Persian Music - Album by Kourosh Yaghmaei | Spotify
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Spotify
 about:
 - Qkza58w

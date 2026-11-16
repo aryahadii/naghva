@@ -3,6 +3,7 @@ url: https://pallettmusic.com/
 archive: "https://web.archive.org/web/20260210152112/https://pallettmusic.com/"
 title: Pallett | پالت
 status: processed
+tier: own
 language: en
 ---
 

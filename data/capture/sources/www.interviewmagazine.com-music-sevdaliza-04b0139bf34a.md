@@ -1,5 +1,6 @@
 ---
 url: https://www.interviewmagazine.com/music/sevdaliza
+archive: https://web.archive.org/web/20260215164504/https://www.interviewmagazine.com/music/sevdaliza
 title: Sevdaliza
 status: processed
 kind: web page

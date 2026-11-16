@@ -4,7 +4,7 @@ title: A Day & a Year – King Raam – Apple Music
 language: en
 publisher: Apple Music
 status: processed
-tier: own
+tier: discography
 ---
 
 > A Day & a Year - Album by King Raam - Apple Music

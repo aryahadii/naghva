@@ -2,7 +2,7 @@
 url: https://music.apple.com/us/album/fly-me-to-the-moon-ba-man-bia-be-assemoon-single/1515213262
 title: Fly Me To The Moon( Ba Man Bia Be Assemoon) - Single by Tara Tiba
 language: en
-tier: own
+tier: discography
 status: processed
 ---
 

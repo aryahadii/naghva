@@ -16,6 +16,13 @@ statements:
     - source: music.apple.com-us-album-common-vent-1010886856-0c73b9bf426f
       quote: 'Listen to Common Vent by Bomrani on Apple Music. 2015. 11 Songs. Duration: 48 minutes.'
       accessed: '2026-11-06'
+  release type:
+  - value: album
+    references:
+    - source: open.spotify.com-album-6epianm20jr2e0s5hwvspa
+      quote: |-
+        Listen to Common Vent - Album by Bomrani | Spotify
+      accessed: '2026-11-06'
   performer:
   - value: Q9mgdq3
     references:

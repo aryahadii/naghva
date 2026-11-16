@@ -2,6 +2,7 @@
 url: https://music.apple.com/us/artist/golfam-khayam/533652206
 title: Golfam Khayam - Apple Music
 status: processed
+tier: discography
 archive: https://web.archive.org/web/20260810054349/https://music.apple.com/us/artist/golfam-khayam/533652206?
 ---
 

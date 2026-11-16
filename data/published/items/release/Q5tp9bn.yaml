@@ -12,6 +12,13 @@ statements:
         3 minutes.'
       accessed: '2026-11-13'
       locator: Apple Music release description
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-warp-and-weft-feat-koohsar-single-1531519142-9fcc07ebfb
+      quote: |-
+        Listen to Warp and Weft (feat. Koohsar) - Single by Salome MC on Apple Music. 2015. 1 Song. Duration: 3 minutes.
+      accessed: '2026-11-13'
   performer:
   - value: Qd3ypxs
     references:

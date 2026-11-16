@@ -3,7 +3,7 @@ url: https://www.youtube.com/watch?v=XjkshOGwj-w
 title: Mazurka by Kaveh Salehi
 kind: youtube video
 language: fa
-tier: own
+tier: discography
 publisher: Kaveh Salehi
 issued:
   date: '2023-07-21'

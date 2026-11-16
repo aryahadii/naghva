@@ -1,5 +1,6 @@
 ---
 url: https://owrsi.com/artist/%D8%AC%D9%88%D9%85%D8%A7/
+archive: https://web.archive.org/web/20251117132846/https://owrsi.com/artist/%D8%AC%D9%88%D9%85%D8%A7/
 title: پروژه جوما - Owrsi
 language: fa
 publisher: Owrsi (Sakht-e-Iran)

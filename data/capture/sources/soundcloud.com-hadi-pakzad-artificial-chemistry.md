@@ -3,7 +3,7 @@ url: https://soundcloud.com/hadi-pakzad/artificial-chemistry
 title: Artificial Chemistry - Hadi Pakzad | SoundCloud
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Hadi Pakzad
 status: processed

@@ -1,9 +1,11 @@
 ---
 url: https://yellowdogsband.bandcamp.com/album/upper-class-complexity-ep
+archive: https://web.archive.org/web/20261009163136/https://yellowdogsband.bandcamp.com/album/upper-class-complexity-ep
 title: '"Upper Class Complexity" EP | Yellow Dogs'
 language: en
 publisher: Bandcamp (Yellow Dogs)
 status: processed
+tier: own
 ---
 
 > released May 9, 2012

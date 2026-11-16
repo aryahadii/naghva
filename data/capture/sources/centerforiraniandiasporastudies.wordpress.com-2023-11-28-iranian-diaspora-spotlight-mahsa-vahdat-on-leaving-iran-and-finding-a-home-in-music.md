@@ -1,5 +1,6 @@
 ---
 url: https://centerforiraniandiasporastudies.wordpress.com/2023/11/28/iranian-diaspora-spotlight-mahsa-vahdat-on-leaving-iran-and-finding-a-home-in-music/
+archive: https://web.archive.org/web/20250626212306/https://centerforiraniandiasporastudies.wordpress.com/2023/11/28/iranian-diaspora-spotlight-mahsa-vahdat-on-leaving-iran-and-finding-a-home-in-music/
 title: 'Iranian Diaspora Spotlight: Mahsa Vahdat On Leaving Iran and Finding A Home
   in Music'
 kind: web page

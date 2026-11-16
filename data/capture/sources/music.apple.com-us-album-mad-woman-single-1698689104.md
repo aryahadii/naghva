@@ -1,10 +1,11 @@
 ---
 url: https://music.apple.com/us/album/mad-woman-single/1698689104
+archive: https://web.archive.org/web/20261014104115/https://music.apple.com/us/album/mad-woman-single/1698689104
 title: Mad Woman - Single - Album by Sevdaliza - Apple Music
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Apple Music
 about:
 - Qf36fnd

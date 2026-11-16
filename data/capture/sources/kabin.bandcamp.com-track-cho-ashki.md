@@ -1,5 +1,6 @@
 ---
 url: https://kabin.bandcamp.com/track/cho-ashki
+archive: https://web.archive.org/web/20261115143539/https://kabin.bandcamp.com/track/cho-ashki
 title: Cho Ashki | Kābin & Misagh | Kābin
 language: mul
 publisher: Bandcamp

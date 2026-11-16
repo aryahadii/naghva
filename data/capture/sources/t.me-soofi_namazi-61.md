@@ -1,5 +1,6 @@
 ---
 url: https://t.me/soofi_namazi/61
+archive: https://web.archive.org/web/20261115154751/https://t.me/soofi_namazi/61
 title: Soofi — Jadoo
 status: processed
 kind: telegram post

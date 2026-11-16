@@ -3,7 +3,7 @@ url: https://www.youtube.com/watch?v=VdJ03Pbyl9c
 title: یک قرن جای ما خالی بود - kaveh salehi
 kind: youtube video
 language: en
-tier: own
+tier: discography
 about:
 - Kaveh Salehi
 status: processed

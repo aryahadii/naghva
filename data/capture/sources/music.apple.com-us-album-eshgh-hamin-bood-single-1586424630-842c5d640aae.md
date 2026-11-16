@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/eshgh-hamin-bood-single/1586424630
 title: Eshgh Hamin Bood — Apple release edition
 kind: web page
 language: mul
-tier: platform
+tier: discography
 status: processed
 ---
 

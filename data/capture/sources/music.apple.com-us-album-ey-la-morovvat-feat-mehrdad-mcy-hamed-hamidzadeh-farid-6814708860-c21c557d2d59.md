@@ -5,7 +5,7 @@ title: Rameshgar (feat. Hamed Hamidzadeh, Mehrdad Mcy & Farid Farzianpour) - Alb
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Golsa
 ---

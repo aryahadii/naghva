@@ -5,7 +5,7 @@ title: "Houmba - song and lyrics by Damahi, Ghanbar Rastgoo | Spotify"
 status: processed
 kind: web page
 language: mul
-tier: own
+tier: discography
 publisher: "Spotify"
 about:
 - Qep6nz6

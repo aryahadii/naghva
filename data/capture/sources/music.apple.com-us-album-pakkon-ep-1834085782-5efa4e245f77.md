@@ -4,7 +4,7 @@ title: Pakkon - EP - Album by Rian - Apple Music
 status: processed
 kind: web page
 language: mul
-tier: own
+tier: discography
 ---
 
 > March 18, 2024

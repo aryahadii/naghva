@@ -1,5 +1,6 @@
 ---
 url: https://t.me/s/kouroshyaghmaei?before=87
+archive: https://web.archive.org/web/20261115153437/https://t.me/s/kouroshyaghmaei?before=87
 title: Kourosh Yaghmaei – Telegram
 status: processed
 tier: own

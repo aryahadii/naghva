@@ -2,6 +2,7 @@
 url: https://open.spotify.com/track/40hRaKzs1Q2VfmDEwkUOuu
 title: Too Loud a Solitude on Spotify
 status: processed
+tier: discography
 ---
 
 > "name":"Too Loud a Solitude"

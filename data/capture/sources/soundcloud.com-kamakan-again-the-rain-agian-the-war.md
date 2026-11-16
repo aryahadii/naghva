@@ -3,7 +3,7 @@ url: https://soundcloud.com/kamakan/again-the-rain-agian-the-war
 title: Again the Rain, Again the War — Kamakan
 kind: web page
 language: mul
-tier: own
+tier: discography
 about:
 - Kamakan
 - Q6vgcdn

@@ -1,5 +1,6 @@
 ---
 url: https://t.me/jalboat
+archive: https://web.archive.org/web/20221019154347/https://t.me/jalboat
 title: Jalboat جالبوت
 status: processed
 kind: web page

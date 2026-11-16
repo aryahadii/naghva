@@ -5,7 +5,7 @@ title: "کافی نیست - جت‌پک"
 status: "processed"
 kind: "web page"
 language: "fa"
-tier: "own"
+tier: own
 publisher: "Lono"
 about: ["Jetpack", "Qpy9984"]
 ---

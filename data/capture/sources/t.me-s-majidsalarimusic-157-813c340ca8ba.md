@@ -1,5 +1,6 @@
 ---
 url: https://t.me/s/majidsalarimusic/157
+archive: https://web.archive.org/web/20250719005829/https://t.me/s/majidsalarimusic/157
 title: شمع و پروانه — credits
 kind: telegram post
 language: mul

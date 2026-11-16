@@ -3,6 +3,7 @@ url: https://soundcloud.com/sanam-maroufkhani
 archive: "https://web.archive.org/web/20250530182116/https://soundcloud.com/sanam-maroufkhani"
 title: Sanam Maroufkhani — SoundCloud
 status: processed
+tier: discography
 language: en
 publisher: SoundCloud
 ---

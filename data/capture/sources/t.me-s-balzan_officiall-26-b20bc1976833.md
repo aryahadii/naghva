@@ -1,5 +1,6 @@
 ---
 url: https://t.me/s/balzan_officiall/26
+archive: https://web.archive.org/web/20251228063234/https://t.me/s/balzan_officiall/26
 title: 'Balzan: Rasht launch performance retrospective'
 status: processed
 kind: telegram post

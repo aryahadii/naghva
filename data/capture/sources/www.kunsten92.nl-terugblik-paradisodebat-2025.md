@@ -3,6 +3,7 @@ url: https://www.kunsten92.nl/terugblik-paradisodebat-2025/
 archive: "https://web.archive.org/web/20260226232301/https://www.kunsten92.nl/terugblik-paradisodebat-2025/"
 title: 'Terugblik: Paradisodebat 2025'
 status: processed
+tier: other
 kind: web page
 language: nl
 author: Edo Dijksterhuis

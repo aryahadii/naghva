@@ -16,6 +16,13 @@ statements:
     - source: t.me-kaabinmusic-60
       quote: آلبوم «مغناطیس،» منتشر شد!
       accessed: '2026-10-23'
+  release type:
+  - value: album
+    references:
+    - source: music.apple.com-us-album-magnetism-1860037155-3ee2ce7eac07
+      quote: |-
+        Magnetism - Album by Mohsen Namjoo & Kābin - Apple Music
+      accessed: '2026-10-23'
   performer:
   - value: Qt6wjbg
     references:

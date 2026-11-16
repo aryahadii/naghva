@@ -3,6 +3,7 @@ url: https://soundcloud.com/peymansalimi/nahan-ft-sanam-maroufkhani
 archive: "https://web.archive.org/web/20201128092723/https://soundcloud.com/peymansalimi/nahan-ft-sanam-maroufkhani"
 title: Peyman Salimi ft. Sanam Maroufkhani - Nahan
 status: processed
+tier: discography
 language: en
 publisher: SoundCloud
 ---

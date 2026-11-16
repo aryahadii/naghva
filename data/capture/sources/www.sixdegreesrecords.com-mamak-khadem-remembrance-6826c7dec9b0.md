@@ -1,9 +1,11 @@
 ---
 url: https://www.sixdegreesrecords.com/mamak-khadem-remembrance/
+archive: https://web.archive.org/web/20260712175725/https://www.sixdegreesrecords.com/mamak-khadem-remembrance/
 title: Mamak Khadem – Remembrance
 language: en
 publisher: Six Degrees Records
 status: processed
+tier: own
 ---
 
 > REMEMBRANCE is Khadem’s fourth album and was co-written and co-produced with collaborators Jamshied Sharifi, Marc Copely, and Chris Votek, all of whom also contributed instrumentation along with various other musicians.

@@ -1,5 +1,6 @@
 ---
 url: https://fa.wikipedia.org/wiki/%D8%A8%D9%88%D8%B3%D8%AA%D9%88%D9%86
+archive: https://web.archive.org/web/20251115022740/https://fa.wikipedia.org/wiki/%D8%A8%D9%88%D8%B3%D8%AA%D9%88%D9%86
 title: "بوستون"
 kind: web page
 language: fa

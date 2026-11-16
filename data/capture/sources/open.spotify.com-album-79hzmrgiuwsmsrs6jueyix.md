@@ -1,9 +1,10 @@
 ---
 url: https://open.spotify.com/album/79HzMRGIuwSMsrS6jUeyIx
+archive: https://web.archive.org/web/20240524105248/https://open.spotify.com/album/79HzMRGIuwSMsrS6jUeyIx
 title: Listen to Oula - Album by Mohsen Namjoo | Spotify
 kind: web page
 language: en
-tier: own
+tier: discography
 status: processed
 ---
 

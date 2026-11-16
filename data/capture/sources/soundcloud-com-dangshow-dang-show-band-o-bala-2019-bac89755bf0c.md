@@ -3,7 +3,7 @@ url: https://soundcloud.com/dangshow/dang-show-band-o-bala-2019
 title: Stream Dang Show - Band O Bala - 2019 by Dang Show  دنگ شو | Listen online for free on SoundCloud
 kind: web page
 language: en
-tier: primary
+tier: discography
 status: processed
 ---
 

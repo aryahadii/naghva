@@ -1,5 +1,6 @@
 ---
 url: https://t.me/soofi_namazi/77
+archive: https://web.archive.org/web/20261115155123/https://t.me/soofi_namazi/77
 title: Soofi — Telegram post 77
 status: processed
 kind: telegram post

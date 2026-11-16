@@ -3,7 +3,7 @@ url: https://www.youtube.com/playlist?list=OLAK5uy_l1C4xRI08ApKZqSG888SGdx7oRLJd
 title: Yalda - YouTube
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Kaveh Yaghmaei
 status: processed

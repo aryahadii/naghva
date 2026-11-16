@@ -3,7 +3,7 @@ url: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/12/32/1f/12321f50-0ef4
 title: Spree — whole cover
 kind: cover image
 language: mul
-tier: own
+tier: discography
 about:
 - Qnjntqs
 status: processed

@@ -1,9 +1,11 @@
 ---
 url: https://www.kkv.no/en/music/mahsa-vahdat-mighty-sam-mcclain-2
+archive: https://web.archive.org/web/20261115163929/https://www.kkv.no/en/music/mahsa-vahdat-mighty-sam-mcclain-2
 title: Mighty Sam McClain - Scent of reunion - Love duets across civilizations
 language: en
 publisher: Kirkelig Kulturverksted
 status: processed
+tier: own
 ---
 
 > Scent of reunion - Love duets across civilizations

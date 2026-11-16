@@ -2,6 +2,7 @@
 url: https://music.apple.com/us/album/unveiled-ep/1517708328
 title: Unveiled - EP - Album by Salome MC - Apple Music
 status: processed
+tier: discography
 ---
 
 > Listen to Unveiled - EP by Salome MC on Apple Music. 2014. 5 Songs. Duration: 9 minutes.

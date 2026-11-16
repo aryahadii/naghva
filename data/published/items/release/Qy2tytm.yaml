@@ -28,6 +28,13 @@ statements:
       quote: '"datePublished":"2025-12-02"'
       accessed: '2026-10-22'
       locator: JSON-LD MusicRecording datePublished
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-track-iran
+      quote: |-
+        Iran Khube - Single by Jilliz Williz on Apple Music
+      accessed: '2026-10-22'
   performer:
   - value: Q6andbw
     references:

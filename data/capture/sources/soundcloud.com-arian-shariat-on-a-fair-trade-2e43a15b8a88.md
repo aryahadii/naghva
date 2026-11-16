@@ -4,7 +4,7 @@ title: Stream On A Fair Trade by Rian / آرین | Listen online for free on Sou
 status: processed
 kind: web page
 language: mul
-tier: own
+tier: discography
 ---
 
 > On A Fair Trade

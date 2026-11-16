@@ -1,5 +1,6 @@
 ---
 url: https://crowsintherain.bandcamp.com/track/kyori
+archive: https://web.archive.org/web/20250709203227/https://crowsintherain.bandcamp.com/track/kyori
 title: KYORI | Crows in the rain
 kind: web page
 language: en

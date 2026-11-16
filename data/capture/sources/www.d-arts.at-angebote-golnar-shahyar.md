@@ -1,5 +1,6 @@
 ---
 url: https://www.d-arts.at/angebote/golnar-shahyar
+archive: https://web.archive.org/web/20261115161754/https://www.d-arts.at/angebote/golnar-shahyar
 title: Golnar Shahyar | D-Arts
 kind: web page
 language: en

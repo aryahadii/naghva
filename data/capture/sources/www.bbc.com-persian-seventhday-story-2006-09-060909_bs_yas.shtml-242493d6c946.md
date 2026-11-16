@@ -1,5 +1,6 @@
 ---
 url: https://www.bbc.com/persian/seventhday/story/2006/09/060909_bs_yas.shtml
+archive: https://web.archive.org/web/20170404100417/http://www.bbc.com:80/persian/seventhday/story/2006/09/060909_bs_yas.shtml
 title: یاس (گفتگو)
 language: fa
 publisher: BBC Persian

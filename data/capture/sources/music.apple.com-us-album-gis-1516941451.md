@@ -1,10 +1,11 @@
 ---
 url: https://music.apple.com/us/album/gis/1516941451
+archive: https://web.archive.org/web/20260924090039/https://music.apple.com/us/album/gis/1516941451
 title: Gis - Album by Mohsen Namjoo - Apple Music
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Apple Music
 about:
 - Qt6wjbg

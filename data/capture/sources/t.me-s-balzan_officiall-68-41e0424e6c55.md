@@ -1,5 +1,6 @@
 ---
 url: https://t.me/s/balzan_officiall/68
+archive: https://web.archive.org/web/20251228062620/https://t.me/s/balzan_officiall/68
 title: 'Balzan: رنگین‌کمان: remote reconstruction'
 status: processed
 kind: telegram post

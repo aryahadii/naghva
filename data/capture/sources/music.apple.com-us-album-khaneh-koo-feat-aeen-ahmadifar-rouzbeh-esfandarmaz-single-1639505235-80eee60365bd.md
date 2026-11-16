@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/khaneh-koo-feat-aeen-ahmadifar-rouzbeh-esf
 title: Khaneh Koo (feat. Aeen Ahmadifar & Rouzbeh Esfandarmaz) - Single - Album by Haleh Seyfizadeh - Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Aeen Ahmadifar
 status: processed

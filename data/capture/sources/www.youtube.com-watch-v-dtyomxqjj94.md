@@ -3,7 +3,7 @@ url: https://www.youtube.com/watch?v=DtYOmXQJj94
 title: Ali Azimi - Khoda
 kind: web page
 language: mul
-tier: own
+tier: discography
 status: processed
 archive: https://web.archive.org/web/*/https://www.youtube.com/watch?v=DtYOmXQJj94
 publisher: Ali Azimi

@@ -4,6 +4,7 @@ title: Hicham khabar az hich
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > "name":"Hicham Khabar Az Hich"

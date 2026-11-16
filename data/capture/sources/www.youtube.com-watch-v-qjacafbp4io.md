@@ -5,7 +5,7 @@ title: "7. Shâdi -  شادی (Arash Fouladvand feat Sara Naeini) at UNESCO"
 status: processed
 kind: youtube video
 language: mul
-tier: own
+tier: discography
 publisher: "Arash Fouladvand"
 issued:
   date: '2024-12-20'

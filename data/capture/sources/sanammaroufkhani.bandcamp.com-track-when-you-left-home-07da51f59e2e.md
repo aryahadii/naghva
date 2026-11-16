@@ -1,5 +1,6 @@
 ---
 url: https://sanammaroufkhani.bandcamp.com/track/when-you-left-home
+archive: https://web.archive.org/web/20261115150900/https://sanammaroufkhani.bandcamp.com/track/when-you-left-home
 title: When You Left Home
 status: processed
 language: en

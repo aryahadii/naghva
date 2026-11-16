@@ -4,7 +4,7 @@ title: Javid Shah (Remix) - Single - Album by Shahin Najafi, The Shah & Morra - 
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Apple Music
 about:
 - Qn7vfak

@@ -2,6 +2,7 @@
 url: https://music.apple.com/us/album/home-feat-medusa-tn-hussein-shahani-single/1530955115
 title: Home (feat. Medusa TN & Hussein Shahani) - Single - Album by Salome MC - Apple Music
 status: processed
+tier: discography
 ---
 
 > Listen to Home (feat. Medusa TN & Hussein Shahani) - Single by Salome MC on Apple Music. 2020. 1 Song. Duration: 4 minutes.

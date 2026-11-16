@@ -1,5 +1,6 @@
 ---
 url: https://khoobo.com/wp-content/uploads/2022/07/noghte-pargar-01.jpg
+archive: https://web.archive.org/web/20261115143835/https://khoobo.com/wp-content/uploads/2022/07/noghte-pargar-01.jpg
 title: Noghteh Pargar / Lost in Circles — original programme and credits
 kind: booklet image
 language: mul

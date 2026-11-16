@@ -5,7 +5,7 @@ title: Navaee - Single - Album by Reza Rohani & Sara Naeini - Apple Music
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 ---
 
 > Navaee - Single - Album by Reza Rohani & Sara Naeini - Apple Music

@@ -3,7 +3,7 @@ url: https://www.youtube.com/watch?v=nm_M1szJ1QQ
 title: چراغ آسمون شب - kaveh salehi
 kind: youtube video
 language: en
-tier: own
+tier: discography
 about:
 - Kaveh Salehi
 status: processed

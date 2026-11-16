@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/mojeze-feat-yahyaa-roody-labeat-shour-sing
 title: Mojeze (feat. yahyaa, Roody, Labeat & Shour) - Single
 kind: web page
 language: en
-tier: primary
+tier: discography
 status: processed
 ---
 

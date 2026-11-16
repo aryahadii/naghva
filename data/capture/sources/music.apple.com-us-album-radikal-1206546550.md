@@ -1,9 +1,10 @@
 ---
 url: https://music.apple.com/us/album/radikal/1206546550
+archive: https://web.archive.org/web/20260919105502/https://music.apple.com/us/album/radikal/1206546550
 title: Radikal - Album by Shahin Najafi - Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 status: processed
 ---
 

@@ -10,6 +10,17 @@ statements:
     - source: open.spotify.com-album-1gtfcr2ozt0oldar0jf944-62e79af51be4
       quote: Listen to GUUD - Album by Ash Koosha | Spotify
       accessed: '2026-11-06'
+  release type:
+  - value: album
+    references:
+    - source: music.apple.com-us-album-guud-1278619522-98beb34b8428
+      quote: |-
+        Guud - Album by Ash Koosha - Apple Music
+      accessed: '2026-11-06'
+    - source: open.spotify.com-album-1gtfcr2ozt0oldar0jf944-62e79af51be4
+      quote: |-
+        Listen to GUUD - Album by Ash Koosha | Spotify
+      accessed: '2026-11-06'
   performer:
   - value: Qgfaqj2
     references:

@@ -4,6 +4,7 @@ title: Ta Rahaee
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > "name":"Ta Rahaee"

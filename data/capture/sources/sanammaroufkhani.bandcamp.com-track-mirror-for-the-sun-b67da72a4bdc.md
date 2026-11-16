@@ -1,5 +1,6 @@
 ---
 url: https://sanammaroufkhani.bandcamp.com/track/mirror-for-the-sun
+archive: https://web.archive.org/web/20261115150834/https://sanammaroufkhani.bandcamp.com/track/mirror-for-the-sun
 title: Mirror for the Sun
 status: processed
 language: en

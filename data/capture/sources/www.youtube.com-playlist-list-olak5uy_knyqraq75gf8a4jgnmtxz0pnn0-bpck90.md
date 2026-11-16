@@ -3,7 +3,7 @@ url: https://www.youtube.com/playlist?list=OLAK5uy_kNYqRaQ75GF8a4jGNMTXZ0PNn0-bP
 title: Adamhaye Shabzadeh - YouTube
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Kaveh Yaghmaei
 status: processed

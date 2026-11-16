@@ -5,7 +5,7 @@ language: mul
 publisher: SoundCloud
 status: processed
 kind: track page
-tier: own
+tier: discography
 about:
 - Kābin
 - Emad Raam

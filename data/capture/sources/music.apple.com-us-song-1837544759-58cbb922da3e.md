@@ -2,7 +2,7 @@
 url: https://music.apple.com/us/song/1837544759
 title: ‎Heroina - Song with Lyrics by Sevdaliza & La Joaqui - Apple Music
 status: processed
-tier: own
+tier: discography
 kind: web page
 about:
 - Sevdaliza

@@ -18,6 +18,9 @@ import datastore as ds  # noqa: E402
 VALUE_KINDS = ("item", "text", "date", "url", "term")
 SUSPICIOUS_YEAR = 1500  # a bare year below this with no calendar is probably Jalali
 
+# Every reference in the record was read in 2026; an older `accessed` year is almost surely a slip.
+EARLIEST_ACCESS = 2025
+
 
 class Report:
     def __init__(self):
@@ -63,8 +66,9 @@ def check_registry(registry, report):
     for name, spec in quals.items():
         here = "%s: qualifier `%s`" % (where, name)
         _check_value_spec(here, spec, types, terms, name, report)
-    for role in registry.get("creation roles") or []:
-        if role not in terms.get("role", []):
+    # Without a role list the missing list is the one error; don't repeat it per role.
+    for role in registry.get("creation roles") or [] if "role" in terms else []:
+        if role not in terms["role"]:
             report.error(where, "creation role `%s` is not in the term list for role" % role)
     for key, hosts in (registry.get("platforms") or {}).items():
         if not (isinstance(hosts, list) and hosts):
@@ -116,6 +120,15 @@ def check_source(source, store, report):
 
     if meta.get("status") == "processed" and not source.quotes:
         report.warn(where, "processed but holds no blockquote, so nothing in it can be cited")
+
+
+def check_archive_links(store, report):
+    """One warning counting processed web sources with no archive link."""
+    missing = [s for s in store.sources.values()
+               if s.meta.get("status") == "processed" and s.meta.get("url") and not s.meta.get("archive")]
+    if missing:
+        report.warn(store.rel(store.root / "capture" / "sources"),
+                    "%d processed web sources have no `archive` link; run tools/archive.py" % len(missing))
 
 
 def check_source_urls(store, report):
@@ -242,8 +255,11 @@ def _check_reference(where, ref, store, report):
     except ValueError:
         report.error(where, "`accessed` is not a real date: %s" % ref["accessed"])
     else:
-        if accessed > datetime.date.today():
+        # Anywhere on Earth it is at most a day past UTC's date, so an editor ahead of the CI clock still passes.
+        if accessed > datetime.datetime.now(datetime.timezone.utc).date() + datetime.timedelta(days=1):
             report.error(where, "`accessed` is in the future: %s" % ref["accessed"])
+        elif accessed.year < EARLIEST_ACCESS:
+            report.warn(where, "`accessed` is before %d, likely a typo: %s" % (EARLIEST_ACCESS, ref["accessed"]))
 
 
 def _check_value(where, value, spec, name, store, registry, report):
@@ -395,6 +411,7 @@ def validate(root, report):
         if _schema_ok(source.path, source.meta, source_schema, store, report):
             check_source(source, store, report)
     check_source_urls(store, report)
+    check_archive_links(store, report)
     live = []
     for item in store.items.values():
         if _schema_ok(item.path, item.data, item_schema, store, report):

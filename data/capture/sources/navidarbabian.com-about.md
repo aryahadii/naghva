@@ -1,5 +1,6 @@
 ---
 url: https://navidarbabian.com/about/
+archive: https://web.archive.org/web/20261115144732/https://navidarbabian.com/about/
 title: Navid Arbabian | Biography
 kind: web page
 language: mul

@@ -3,6 +3,7 @@ url: https://www.youtube.com/watch?v=7ANUDj19hqY
 archive: "https://web.archive.org/web/20260822151808/https://www.youtube.com/watch?si=DE0RH-x9kGOg-7E7&v=7ANUDj19hqY&feature=youtu.be"
 title: "داماهی | اجرای زنده در ورهاوس | Damahi Live at the Warehouse"
 status: processed
+tier: discography
 kind: youtube video
 language: mul
 publisher: "Hossein Meimani"

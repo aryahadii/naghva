@@ -1,10 +1,11 @@
 ---
 url: https://music.apple.com/us/album/tramadol/712185119
+archive: https://web.archive.org/web/20260919105503/https://music.apple.com/us/album/tramadol/712185119
 title: Tramadol - Album by Shahin Najafi - Apple Music
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Apple Music
 about:
 - Qn7vfak

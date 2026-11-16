@@ -2,6 +2,7 @@
 url: https://music.apple.com/us/song/duochrome/1568417120
 title: Duochrome - Song with Lyrics by Ewa Guzowska & Tomasz Kandulski - Apple Music
 status: processed
+tier: discography
 ---
 
 > "name":"Golfam Khayam","roleNames":["Composer"]

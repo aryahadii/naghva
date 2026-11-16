@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/seven-realms-of-attar/6794807257
 title: ‎Seven Realms of Attar - Album by Niyaz - Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 status: processed
 ---
 

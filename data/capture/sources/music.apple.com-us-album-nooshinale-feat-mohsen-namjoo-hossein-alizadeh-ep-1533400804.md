@@ -4,7 +4,7 @@ title: Nooshinale (feat. Mohsen Namjoo & Hossein Alizadeh) - EP - Album by Sina 
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Apple Music
 about:
 - Qt6wjbg

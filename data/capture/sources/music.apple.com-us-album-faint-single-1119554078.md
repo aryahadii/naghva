@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/faint-single/1119554078
 title: Faint - Single by Ash Koosha
 kind: web page
 language: en
-tier: own
+tier: discography
 status: processed
 archive: https://web.archive.org/web/*/https://music.apple.com/us/album/faint-single/1119554078
 ---

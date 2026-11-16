@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/let-your-hair-down/1580376497?i=1580376498
 title: Let Your Hair Down by Dey Project and Dariush Azar, Apple Music
 kind: web page
 language: en
-tier: other
+tier: discography
 about:
 - Dariush Azar
 - Let Your Hair Down

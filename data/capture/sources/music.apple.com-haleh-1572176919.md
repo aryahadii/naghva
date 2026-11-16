@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/sorrow-like-the-scent-of-a-dress-feat/1572
 title: Sorrow,Like the Scent of a Dress (feat. Alireza Daryaei, Zakaria Yousefi, Javad Gholami, Masoud Salehi & Sara Fotros) - EP — Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 status: processed
 ---
 

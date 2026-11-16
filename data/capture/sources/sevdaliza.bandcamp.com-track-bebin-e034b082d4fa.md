@@ -1,9 +1,11 @@
 ---
 url: https://sevdaliza.bandcamp.com/track/bebin
+archive: https://web.archive.org/web/20240923002921/https://sevdaliza.bandcamp.com/track/bebin
 title: Bebin | Sevdaliza
 language: en
 publisher: Sevdaliza
 status: processed
+tier: own
 ---
 
 > released January 30, 2017

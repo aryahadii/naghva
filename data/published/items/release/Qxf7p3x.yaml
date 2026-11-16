@@ -29,6 +29,13 @@ statements:
     - source: open.spotify.com-embed-track-2xrr2hxwgrshl8xinrnd65-99d147d28a68
       quote: '{"isoString":"2020-03-23T00:00:00Z"}'
       accessed: '2026-10-21'
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-the-poet-feat-golsa-single-1581122867-7ac78fe8bfc0
+      quote: |-
+        Listen to The Poet (feat. Golsa) - Single by Moody Moussavi on Apple Music.
+      accessed: '2026-10-19'
   performer:
   - value: Qh745pn
     references:

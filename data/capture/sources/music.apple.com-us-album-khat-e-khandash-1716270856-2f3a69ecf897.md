@@ -4,7 +4,7 @@ title: Khat-e Khandash - Album by Navid Arbabian - Apple Music
 language: en
 publisher: Apple Music
 status: processed
-tier: own
+tier: discography
 ---
 
 > Khat-e Khandash - Album by Navid Arbabian - Apple Music

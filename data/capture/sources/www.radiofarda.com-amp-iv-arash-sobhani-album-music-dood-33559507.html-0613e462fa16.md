@@ -1,5 +1,6 @@
 ---
 url: https://www.radiofarda.com/amp/iv-arash-sobhani-album-music-dood/33559507.html
+archive: https://web.archive.org/web/20251014113117/https://www.radiofarda.com/amp/iv-arash-sobhani-album-music-dood/33559507.html
 title: آرش سبحانی؛ شروع یک تجربه با «دود»
 language: fa
 publisher: Radio Farda

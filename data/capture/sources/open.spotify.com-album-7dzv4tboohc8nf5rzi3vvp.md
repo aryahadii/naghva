@@ -1,10 +1,11 @@
 ---
 url: https://open.spotify.com/album/7dZv4tboohC8Nf5rzI3VVP
+archive: https://web.archive.org/web/20250822054423/https://open.spotify.com/album/7dZv4tboohC8Nf5rzI3VVP
 title: Listen to Axis of Solitude (Live) - Album by Mohsen Namjoo | Spotify
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Spotify
 about:
 - Qt6wjbg

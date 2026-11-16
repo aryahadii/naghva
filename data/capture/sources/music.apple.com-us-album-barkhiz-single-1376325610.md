@@ -1,10 +1,11 @@
 ---
 url: https://music.apple.com/us/album/barkhiz-single/1376325610
+archive: https://web.archive.org/web/20260415052127/https://music.apple.com/us/album/barkhiz-single/1376325610
 title: Barkhiz - Single - Album by Shahin Najafi - Apple Music
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Apple Music
 about:
 - Qn7vfak

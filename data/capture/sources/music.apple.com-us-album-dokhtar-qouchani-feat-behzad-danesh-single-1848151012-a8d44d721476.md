@@ -4,7 +4,7 @@ title: Dokhtar Qouchani (feat. Behzad Danesh) - Single - Album by Rian & Bahar F
 status: processed
 kind: web page
 language: mul
-tier: own
+tier: discography
 ---
 
 > Dokhtar Qouchani (feat. Behzad Danesh) - Single - Album by Rian & Bahar

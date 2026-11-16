@@ -1,9 +1,11 @@
 ---
 url: https://music.apple.com/us/album/marze-por-gohar-feat-golshifteh-farahani-single/1500361180
+archive: https://web.archive.org/web/20261011070615/https://music.apple.com/us/album/marze-por-gohar-feat-golshifteh-farahani-single/1500361180
 title: Marze Por Gohar (feat. Golshifteh Farahani) - Single by Ali Azimi on Apple Music
 language: mul
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > Marze Por Gohar (feat. Golshifteh Farahani) - Single by Ali Azimi on Apple Music

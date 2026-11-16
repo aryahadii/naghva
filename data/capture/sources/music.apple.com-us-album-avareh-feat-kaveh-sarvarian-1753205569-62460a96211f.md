@@ -4,6 +4,7 @@ title: Avareh (feat. Kaveh Sarvarian) - Album by Hamzeh Yeganeh - Apple Music
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > Listen to Avareh (feat. Kaveh Sarvarian) by Hamzeh Yeganeh on Apple Music. 2010. 9 Songs. Duration: 42 minutes.

@@ -4,6 +4,7 @@ title: Saman Booyan (feat. Milad Bagheri) - Single - Album by Kābin - Apple Mus
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 kind: album page
 about:
 - Kābin

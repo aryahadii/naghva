@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/mikeshaniam-single/1815429822
 title: Mikeshaniam - Single - Album by Makhoola - Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Makhoula
 status: processed

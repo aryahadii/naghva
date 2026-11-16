@@ -4,7 +4,7 @@ title: Aseman Be Aseman (feat. Arash fathi) - Single — Apple Music
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Soofi Namazi
 - صوفی نمازی

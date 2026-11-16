@@ -4,7 +4,7 @@ title: Bazam Kalan - Single - Album by Reza Pishro & Hichkas - Apple Music
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Apple Music
 about:
 - Qgyvbw3

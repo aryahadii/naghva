@@ -4,6 +4,7 @@ title: جوگیر نمی‌شوم!
 language: fa
 publisher: Radio Zamaneh
 status: processed
+tier: journalism
 ---
 
 > شهریار مسرور خودش یکی از پیشگام‌های تلفیق موسیقی ایرانی با موسیقی‌های دیگر است.

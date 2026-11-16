@@ -1,11 +1,12 @@
 ---
 url: https://music.apple.com/us/album/shiraz-40-year-old/1570098638
+archive: https://web.archive.org/web/20260726213514/https://music.apple.com/us/album/shiraz-40-year-old/1570098638
 title: Shiraz 40 Year Old — Apple Music
 language: en
 publisher: Apple Music
 status: processed
 kind: web page
-tier: primary
+tier: discography
 ---
 
 > Shiraz 40 Year Old

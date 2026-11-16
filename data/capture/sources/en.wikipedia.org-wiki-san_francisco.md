@@ -1,5 +1,6 @@
 ---
 url: https://en.wikipedia.org/wiki/San_Francisco
+archive: https://web.archive.org/web/20261112212943/https://en.wikipedia.org/wiki/San_Francisco
 title: "San Francisco"
 kind: web page
 language: en

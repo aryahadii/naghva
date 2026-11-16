@@ -1,10 +1,11 @@
 ---
 url: https://music.apple.com/us/album/tamam-single/1531953137
+archive: https://web.archive.org/web/20260307034022/https://music.apple.com/us/album/tamam-single/1531953137
 title: Tamam - Single - Album by Shahin Najafi - Apple Music
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Apple Music
 about:
 - Qn7vfak

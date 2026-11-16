@@ -4,7 +4,7 @@ title: Chizi Bede — Sara Heidari - Topic
 status: processed
 kind: youtube video
 language: en
-tier: own
+tier: discography
 ---
 
 > Chizi Bede

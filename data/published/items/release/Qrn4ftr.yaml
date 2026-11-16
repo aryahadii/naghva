@@ -26,6 +26,13 @@ statements:
           quote: |-
             2021-05-23
           accessed: 2026-10-18
+  release type:
+  - value: album
+    references:
+    - source: open.spotify.com-album-0s9dbovlrk32yows4xgaie-f658c7f4b1b3
+      quote: |-
+        Listen to Balzan Live (Tehran) - Album by Balzan | Spotify
+      accessed: '2026-10-18'
   performer:
     - value: Q2t39td
       references:

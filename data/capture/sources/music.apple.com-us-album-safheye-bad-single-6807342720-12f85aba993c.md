@@ -4,7 +4,7 @@ title: Safheye Ba'd - Single - Album by Golsa & Taha Mazaheri - Apple Music
 status: processed
 kind: web page
 language: mul
-tier: own
+tier: discography
 ---
 
 > Safheye Ba'd - Single - Album by Golsa & Taha Mazaheri - Apple Music

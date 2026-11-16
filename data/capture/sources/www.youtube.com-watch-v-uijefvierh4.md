@@ -3,7 +3,7 @@ url: https://www.youtube.com/watch?v=UiJefviERH4
 title: بابک خانقلی - انجیر
 kind: web page
 language: mul
-tier: own
+tier: discography
 status: processed
 ---
 

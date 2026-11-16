@@ -1,10 +1,11 @@
 ---
 url: https://music.apple.com/us/album/vasiat-nameh-single/1605503487
+archive: https://web.archive.org/web/20250125002306/https://music.apple.com/us/album/vasiat-nameh-single/1605503487
 title: Vasiat Nameh - Single - Album by Yas - Apple Music
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Apple Music
 about:
 - Qx3svqf

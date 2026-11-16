@@ -1,5 +1,6 @@
 ---
 url: https://www.pbs.org/wgbh/pages/frontline/tehranbureau/2012/06/qa-artist-or-apostate-talking-with-musician-shahin-najafi.html
+archive: https://web.archive.org/web/20250819083306/http://www.pbs.org/wgbh/pages/frontline/tehranbureau/2012/06/qa-artist-or-apostate-talking-with-musician-shahin-najafi.html
 title: 'Q&A | Artist or ''Apostate'': Talking with Musician Shahin Najafi'
 kind: web page
 language: en

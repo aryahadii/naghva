@@ -1,5 +1,6 @@
 ---
 url: https://commons.wikimedia.org/wiki/File:Reza_Koolaghani_20170117_13.jpg
+archive: https://web.archive.org/web/20261115140929/https://commons.wikimedia.org/wiki/File:Reza_Koolaghani_20170117_13.jpg
 title: File:Reza Koolaghani 20170117 13.jpg - Wikimedia Commons
 status: processed
 tier: own

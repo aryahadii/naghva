@@ -4,6 +4,7 @@ title: Lost in Circles
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > "name":"Lost in Circles"

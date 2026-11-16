@@ -1,11 +1,13 @@
 ---
 url: https://t.me/jumamusic/126
+archive: https://web.archive.org/web/20240924105343/https://t.me/jumamusic/126
 title: جوما — 126
 kind: telegram post
 language: fa
 author: Juma
 publisher: Telegram (Juma)
 status: processed
+tier: own
 accessed: '2026-10-22'
 ---
 

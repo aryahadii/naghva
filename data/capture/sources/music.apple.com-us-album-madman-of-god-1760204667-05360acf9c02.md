@@ -4,6 +4,7 @@ title: Madman of God
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > March 14, 1996

@@ -4,6 +4,7 @@ title: Weeping Windows - Single - Album by Saba Alizadeh - Apple Music
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > Weeping Windows - Single

@@ -5,7 +5,7 @@ title: ‎Women Of Fire (feat. Sanam Maroufkhani) - Song with Lyrics by Saba Ali
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Sanam Maroufkhani
 ---

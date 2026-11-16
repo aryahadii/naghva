@@ -1,5 +1,6 @@
 ---
 url: https://3voor12lokaal.vpro.nl/artikelen/popronde-tilburg-tovert-binnenstad-om-tot-muzikale-proeverij
+archive: https://web.archive.org/web/20261115135420/https://3voor12lokaal.vpro.nl/artikelen/popronde-tilburg-tovert-binnenstad-om-tot-muzikale-proeverij
 title: Popronde Tilburg report
 status: processed
 kind: web page

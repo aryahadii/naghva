@@ -1,9 +1,11 @@
 ---
 url: https://music.apple.com/us/album/triple-distilled-live-at-yoshis/398733662
+archive: https://web.archive.org/web/20250913214609/https://music.apple.com/us/album/triple-distilled-live-at-yoshis/398733662
 title: 'Triple Distilled: Live At Yoshi''s - Album by Kiosk - Apple Music'
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > Triple Distilled: Live At Yoshi's by Kiosk on Apple Music

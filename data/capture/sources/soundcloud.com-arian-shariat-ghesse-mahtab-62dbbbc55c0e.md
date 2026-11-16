@@ -4,7 +4,7 @@ title: Stream Ghesse Mahtab / قصه مهتاب by Rian / آرین | Listen onli
 status: processed
 kind: web page
 language: mul
-tier: own
+tier: discography
 ---
 
 > باز تنظیم قصه مهتاب از منوچهر سخایی

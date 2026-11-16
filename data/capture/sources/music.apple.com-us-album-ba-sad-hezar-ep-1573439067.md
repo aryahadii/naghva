@@ -1,10 +1,11 @@
 ---
 url: https://music.apple.com/us/album/ba-sad-hezar-ep/1573439067
+archive: https://web.archive.org/web/20250706170521/https://music.apple.com/us/album/ba-sad-hezar-ep/1573439067
 title: Ba Sad Hezar - EP - Album by Mohsen Namjoo - Apple Music
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Apple Music
 about:
 - Qt6wjbg

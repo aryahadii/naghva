@@ -2,7 +2,7 @@
 url: https://music.apple.com/us/song/1837544888
 title: ‎Ride or Die, Pt. 2 - Song with Lyrics by Sevdaliza, Villano Antillano & Tokischa - Apple Music
 status: processed
-tier: own
+tier: discography
 kind: web page
 about:
 - Sevdaliza

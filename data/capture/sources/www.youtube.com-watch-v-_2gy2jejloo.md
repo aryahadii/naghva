@@ -4,7 +4,7 @@ title: Pallett Ft. Monicki - It Won't Stay The Same | پالت با همراهی
 status: processed
 kind: youtube video
 language: mul
-tier: own
+tier: discography
 about:
 - Monicki
 - It Won't Stay the Same

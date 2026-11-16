@@ -1,5 +1,6 @@
 ---
 url: https://en.wikipedia.org/wiki/Tbilisi
+archive: https://web.archive.org/web/20261105050214/https://en.wikipedia.org/wiki/Tbilisi
 title: "Tbilisi"
 kind: web page
 language: en

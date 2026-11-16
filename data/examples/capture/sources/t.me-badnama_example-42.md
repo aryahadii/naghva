@@ -1,5 +1,6 @@
 ---
 url: https://t.me/badnama_example/42
+archive: "https://web.archive.org/web/20261012000000/https://t.me/badnama_example/42"
 title: Pinned post with the band's line-up
 kind: telegram post
 language: fa

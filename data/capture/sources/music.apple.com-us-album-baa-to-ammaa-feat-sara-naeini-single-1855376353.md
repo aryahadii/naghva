@@ -4,7 +4,7 @@ title: "Baa To Ammaa (feat. Sara Naeini) - Single - Album by Reza Rohani - Apple
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: "Apple Music"
 about:
 - Qb23qew
