@@ -2,6 +2,7 @@ import { defineConfig } from 'astro/config';
 import preact from '@astrojs/preact';
 import sitemap from '@astrojs/sitemap';
 import record from './integrations/record';
+import freshness, { lastmod } from './integrations/freshness';
 
 // The address the site is published at: canonical links, hreflang, the
 // sitemap and robots.txt all name it. Only a build on your own machine may
@@ -17,10 +18,16 @@ export default defineConfig({
   prefetch: { prefetchAll: true, defaultStrategy: 'hover' },
   integrations: [
     preact(),
+    // Before the sitemap: it dates each page from what freshness found.
+    freshness(),
     sitemap({
       // The root only sends visitors on to a language, and the 404 page is no page at all.
       filter: (page) => new URL(page).pathname !== '/' && !page.endsWith('/404/') && !new URL(page).pathname.endsWith('/search/'),
       i18n: { defaultLocale: 'en', locales: { en: 'en', fa: 'fa' } },
+      serialize: (item) => {
+        const date = lastmod.get(decodeURI(new URL(item.url).pathname));
+        return date ? { ...item, lastmod: date } : item;
+      },
     }),
     record(),
   ],
