@@ -1,0 +1,35 @@
+name: indexnow
+
+# After Cloudflare deploys main, tell the IndexNow search engines which pages
+# changed (site/scripts/indexnow.mjs). Needs no secret: the key is public.
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+# A newer push replaces a ping still waiting for its deploy; the newer build
+# dates everything that changed since the live one, so its ping covers both.
+concurrency:
+  group: indexnow
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    defaults:
+      run:
+        working-directory: site
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          persist-credentials: false
+          sparse-checkout: site
+      - uses: actions/setup-node@v7
+        with:
+          node-version-file: site/.node-version
+      - name: Wait for the deploy, then ping the changed pages
+        run: node scripts/indexnow.mjs "$GITHUB_SHA" --wait 2400

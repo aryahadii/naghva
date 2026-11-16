@@ -265,6 +265,13 @@ build's time and commit. The build stops if the live file can't be read
 published site to compare with and date every page now; set
 `NAGHVA_LASTMOD_FROM` to a URL or file to compare with one.
 
+After Cloudflare deploys `main`, the [IndexNow workflow](../.github/workflows/indexnow.yml)
+waits for `/build.json` to name the commit, then sends the sitemap's pages
+that changed in that build to IndexNow, which passes them to Bing, Yandex,
+Naver, Seznam and Yep (`scripts/indexnow.mjs`; add `--dry-run` to only list
+them). The key is `public/<key>.txt`; it is public by design, so the ping needs
+no secret. Google doesn't use IndexNow and reads `<lastmod>` instead.
+
 ## Analytics
 
 Session replay and the consent panel are disabled. Visiting the site removes
