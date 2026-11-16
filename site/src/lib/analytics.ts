@@ -55,8 +55,10 @@ export function trafficProperties(href: string, referrer: string): Record<string
   const current = new URL(href);
   let source = referrerOrigin(referrer);
   // Only accept the root's forwarded referrer after a same-origin root redirect.
+  // The root page only redirects, so without that hint the visit was direct
+  // (someone typed the address), not a click from inside the site.
   if (source === current.origin && new URL(referrer).pathname === '/') {
-    source = referrerOrigin(current.searchParams.get(REFERRER_PARAM) ?? '') ?? source;
+    source = referrerOrigin(current.searchParams.get(REFERRER_PARAM) ?? '');
   }
   return {
     ...campaignProperties(current.search),
