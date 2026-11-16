@@ -5,6 +5,7 @@ say so when the platform does not answer; they never pass silently.
 """
 
 import base64
+import datetime
 import os
 import re
 import urllib.parse
@@ -17,7 +18,8 @@ from gate_common import (
     url_value,
 )
 
-NOTES_DIR = ("capture", "notes")
+# A search older than this may have missed a profile opened since.
+RECHECK_DAYS = 365
 
 # A listen link opens a release or a track. These shapes are profiles.
 PROFILE_SHAPES = {
@@ -37,26 +39,26 @@ NOT_SOURCES = (
 
 
 def searched_platforms(store, artist_id):
-    """Platforms a capture note says were searched and held no official account.
+    """{platform name: day} for each platform the notes record as searched with no profile found.
 
-    The note is any file in capture/notes whose front matter has `about: <ID>`
-    and `searched: {<platform>: <day>}`.
+    The record is a note's `searched`, as data/README.md describes. Keys that
+    are not registry platforms and days that are not real days are the
+    validator's to report; they do not count as a search.
     """
+    names = dict(zip(REGISTRY["platforms"], PLATFORM_NAMES))
     out = {}
-    folder = store.root.joinpath(*NOTES_DIR)
-    for path in sorted(folder.glob("*.md")) if folder.is_dir() else []:
+    for key, (day, _) in store.searches(artist_id).items():
         try:
-            meta, _ = ds.read_markdown(path)
-        except Exception:
+            ds.iso_date(day if isinstance(day, str) else "")
+        except ValueError:
             continue
-        about = meta.get("about")
-        if artist_id not in (about if isinstance(about, list) else [about]):
-            continue
-        for name, day in (meta.get("searched") or {}).items():
-            for key, known in zip(REGISTRY["platforms"], PLATFORM_NAMES):
-                if str(name).casefold() in (key.casefold(), known.casefold()):
-                    out[known] = str(day)
+        if key in names:
+            out[names[key]] = day
     return out
+
+
+def _utc_today():
+    return datetime.datetime.now(datetime.timezone.utc).date()
 
 
 def links_by_platform(item, prop):
@@ -78,6 +80,15 @@ def check_platforms(artist):
         findings.append(Finding(
             "block", "platforms",
             "No profile link and no recorded search for: %s" % ", ".join(undeclared),
+        ))
+    old = []
+    for name in PLATFORM_NAMES:
+        if name in searched and name not in profiles:
+            if (_utc_today() - ds.iso_date(searched[name])).days > RECHECK_DAYS:
+                old.append("%s, searched %s" % (name, searched[name]))
+    if old:
+        findings.append(Finding(
+            "note", "platforms", "Searched more than a year ago; search again for a profile opened since", old,
         ))
 
     total = len(artist.releases)
@@ -113,7 +124,7 @@ def check_platforms(artist):
         if name in profiles:
             parts.append("%s %d/%d" % (name, counts[name], total))
         elif name in searched:
-            parts.append("%s none (searched %s)" % (name, searched[name]))
+            parts.append("%s searched %s, none found" % (name, searched[name]))
         else:
             parts.append("%s not declared" % name)
     return " · ".join(parts), findings, {"profiles": profiles, "counts": counts, "releases": total}

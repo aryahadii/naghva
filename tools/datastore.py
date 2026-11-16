@@ -26,7 +26,7 @@ SPECIAL_VALUES = ("unknown value", "no value")
 CALENDARS = ("gregorian", "jalali")
 DEFAULT_CALENDAR = "gregorian"
 
-SCHEMA_FILES = ("item.schema.json", "source.schema.json", "article.schema.json")
+SCHEMA_FILES = ("item.schema.json", "source.schema.json", "article.schema.json", "note.schema.json")
 
 ARTICLE_NAME = re.compile(
     r"^(%s[%s]{%d})\.([a-z]{2,3}(?:-[A-Za-z0-9]{1,8})*)$" % (ITEM_PREFIX, ID_ALPHABET, ID_LENGTH)
@@ -85,8 +85,30 @@ class Article:
         self.citations = CITATION.findall(body)
 
 
+class Note:
+    """One file under capture/notes: its front matter, if any, and its body.
+
+    `searched` maps each platform key the front matter lists to its day.
+    """
+
+    def __init__(self, path, meta, body):
+        self.path = path
+        self.name = path.stem
+        self.meta = meta
+        self.body = body
+
+    @property
+    def about(self):
+        return self.meta.get("about")
+
+    @property
+    def searched(self):
+        searched = self.meta.get("searched")
+        return searched if isinstance(searched, dict) else {}
+
+
 class Store:
-    """Everything under <root>/capture/sources and <root>/published.
+    """Everything under <root>/capture and <root>/published.
 
     `problems` lists files that could not be read or whose identity is
     missing or duplicated; those are left out of `sources` and `items`.
@@ -97,10 +119,20 @@ class Store:
         self.sources = {}
         self.items = {}
         self.articles = {}
+        self.notes = {}
         self.problems = []
 
     def rel(self, path):
         return str(Path(path).relative_to(self.root.parent))
+
+    def searches(self, item_id):
+        """{platform key: (day, note)} for each platform the notes say was searched for `item_id`."""
+        out = {}
+        for note in self.notes.values():
+            if note.about == item_id:
+                for key, day in note.searched.items():
+                    out.setdefault(key, (day, note))
+        return out
 
 
 def load_store(root):
@@ -137,6 +169,15 @@ def load_store(root):
             store.problems.append("%s: cannot read: %s" % (store.rel(path), _one_line(exc)))
             continue
         store.articles[path.name] = Article(path, meta, body)
+    for path in sorted((root / "capture" / "notes").glob("*.md")):
+        try:
+            meta, body = read_markdown(path, optional=True)
+        except Exception as exc:
+            store.problems.append("%s: cannot read: %s" % (store.rel(path), _one_line(exc)))
+            continue
+        if isinstance(meta.get("searched"), dict):
+            meta["searched"] = {k: _stringify_dates(v, "date") for k, v in meta["searched"].items()}
+        store.notes[path.stem] = Note(path, meta, body)
     return store
 
 
@@ -155,11 +196,17 @@ def yaml_problem(exc, line_offset=0):
 # --- Markdown ------------------------------------------------------------------
 
 
-def read_markdown(path):
-    """(front matter, body) of a capture or article file. Raises on missing front matter."""
+def read_markdown(path, optional=False):
+    """(front matter, body) of a capture or article file.
+
+    Raises on missing front matter, unless `optional`: then a file that does
+    not start with `---` is all body, with empty front matter.
+    """
     text = path.read_text(encoding="utf-8")
     lines = text.split("\n")
     if not lines or lines[0].strip() != "---":
+        if optional:
+            return {}, text
         raise DataError("no front matter: the file must start with a `---` line")
     for n in range(1, len(lines)):
         if lines[n].strip() == "---":

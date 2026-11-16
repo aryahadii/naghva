@@ -22,11 +22,14 @@ answers there as JSON, and the next run of the gate adds them to the scorecard.
 The verdict is Blocked, Fix first or Ready for you. Exits 1 when an artist is
 blocked.
 
-A platform with no official account is recorded in a capture note, any file in
-data/capture/notes/ whose front matter reads:
+A platform searched with no profile found is recorded under `searched` in a
+note's front matter, as data/README.md describes:
 
     about: <artist ID>
-    searched: {Bandcamp: 2026-11-15, YouTube: 2026-11-15}
+    searched: {bandcamp: 2026-11-15, youtube: 2026-11-15}
+
+The keys are the registry's platform keys. A search more than a year old gets
+a note for the reader suggesting another search.
 """
 
 import argparse
