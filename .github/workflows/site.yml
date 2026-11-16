@@ -38,7 +38,7 @@ jobs:
       PUBLIC_POSTHOG_KEY: ${{ github.ref == 'refs/heads/main' && vars.PUBLIC_POSTHOG_KEY || '' }}
       PUBLIC_POSTHOG_HOST: ${{ github.ref == 'refs/heads/main' && vars.PUBLIC_POSTHOG_HOST || '' }}
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
         with:
           persist-credentials: false
       - uses: actions/setup-python@v5
