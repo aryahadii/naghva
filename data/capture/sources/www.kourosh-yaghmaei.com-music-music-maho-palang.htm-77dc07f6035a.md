@@ -1,9 +1,11 @@
 ---
 url: http://www.kourosh-yaghmaei.com/music/music-maho-palang.htm
+archive: https://web.archive.org/web/20260517083412/http://www.kourosh-yaghmaei.com/music/music-maho-palang.htm
 title: Maho Palang
 language: fa
 publisher: Kourosh Yaghmaei official website
 status: processed
+tier: own
 ---
 
 > ماه و پلنگ

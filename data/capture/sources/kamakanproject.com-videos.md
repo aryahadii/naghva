@@ -1,5 +1,6 @@
 ---
 url: https://kamakanproject.com/videos
+archive: https://web.archive.org/web/20261115143750/https://kamakanproject.com/videos
 title: Videos | Kamakan
 kind: web page
 language: en

@@ -1,9 +1,11 @@
 ---
 url: http://www.kourosh-yaghmaei.com/music/music-arayesh-e%20khorshid.htm
+archive: https://web.archive.org/web/20260517080743/http://www.kourosh-yaghmaei.com/music/music-arayesh-e%20khorshid.htm
 title: Arayesh-e Khorshid
 language: fa
 publisher: Kourosh Yaghmaei
 status: processed
+tier: own
 ---
 
 > آرایش

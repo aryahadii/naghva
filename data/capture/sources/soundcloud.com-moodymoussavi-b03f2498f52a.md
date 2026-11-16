@@ -5,7 +5,7 @@ title: Moody Moussavi - SoundCloud
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: soundcloud.com
 about:
 - Moody Moussavi

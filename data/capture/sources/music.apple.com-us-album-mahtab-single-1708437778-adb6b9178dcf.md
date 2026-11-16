@@ -4,6 +4,7 @@ title: Mahtab - Single by Marjan Farsad
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > Mahtab - Single

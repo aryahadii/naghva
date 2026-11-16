@@ -1,10 +1,11 @@
 ---
 url: https://www.youtube.com/watch?v=H-9MHWYE-e8
+archive: https://web.archive.org/web/20240402121430/https://www.youtube.com/watch?v=H-9MHWYE-e8
 title: Blues for Tehran - Big Caravan Band
 status: processed
 kind: youtube video
 language: mul
-tier: own
+tier: discography
 about:
 - Taha Mazaheri
 - Q66ky5f

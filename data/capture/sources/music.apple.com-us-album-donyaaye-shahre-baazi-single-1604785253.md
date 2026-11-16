@@ -4,7 +4,7 @@ title: "Donyaaye Shahre Baazi - Single - Album by Reza Rohani & Sara Naeini - Ap
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: "Apple Music"
 about:
 - Qb23qew

@@ -4,7 +4,7 @@ title: Mirror for the Sun
 status: processed
 kind: youtube video
 language: mul
-tier: own
+tier: discography
 about:
 - Sanam Maroufkhani
 ---

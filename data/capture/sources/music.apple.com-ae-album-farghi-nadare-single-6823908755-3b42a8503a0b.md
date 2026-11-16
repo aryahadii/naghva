@@ -4,7 +4,7 @@ title: Farghi Nadare - Single - Album by King Raam - Apple Music
 status: processed
 kind: web page
 language: mul
-tier: own
+tier: discography
 ---
 
 > Farghi Nadare - Single - Album by King Raam - Apple Music

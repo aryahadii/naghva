@@ -1,10 +1,11 @@
 ---
 url: https://music.apple.com/us/album/88/369854027
+archive: https://web.archive.org/web/20260801214555/https://music.apple.com/us/album/88/369854027
 title: 88 - Album by Radio Tehran - Apple Music
 language: en
 publisher: Apple Music
 kind: web page
-tier: own
+tier: discography
 about:
 - Radio Tehran
 - '88'

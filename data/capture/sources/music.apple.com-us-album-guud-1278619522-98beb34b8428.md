@@ -1,9 +1,11 @@
 ---
 url: https://music.apple.com/us/album/guud/1278619522
+archive: https://web.archive.org/web/20260809195310/https://music.apple.com/us/album/guud/1278619522
 title: Guud - Album by Ash Koosha - Apple Music
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > June 5, 2015

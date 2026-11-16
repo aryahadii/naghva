@@ -1,10 +1,11 @@
 ---
 url: https://music.apple.com/us/album/hayamleh-mihan-single/1739633298
+archive: https://web.archive.org/web/20260902165804/https://music.apple.com/us/album/hayamleh-mihan-single/1739633298
 title: "‎Hayamleh (Mihan) - Single - Album by Damahi - Apple Music"
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: "Apple Music"
 about:
 - Qep6nz6

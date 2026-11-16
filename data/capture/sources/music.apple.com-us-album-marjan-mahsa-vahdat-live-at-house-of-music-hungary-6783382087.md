@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/marjan-mahsa-vahdat-live-at-house-of-music
 title: Marjan & Mahsa Vahdat Live at House of Music Hungary - Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Marjan & Mahsa Vahdat Live at House of Music Hungary - Apple Music
 status: processed

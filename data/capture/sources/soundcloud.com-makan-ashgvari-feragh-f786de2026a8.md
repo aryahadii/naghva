@@ -3,6 +3,7 @@ url: https://soundcloud.com/makan-ashgvari/feragh
 archive: "https://web.archive.org/web/20240525031703/https://soundcloud.com/makan-ashgvari/feragh"
 title: Feragh
 status: processed
+tier: discography
 language: en
 publisher: SoundCloud
 ---

@@ -1,7 +1,9 @@
 ---
 url: https://www.salomemc.com/
+archive: https://web.archive.org/web/20261111091234/https://www.salomemc.com/
 title: INSIDE - Salome Mc
 status: processed
+tier: own
 ---
 
 > Three | سه

@@ -2,6 +2,7 @@
 url: https://www.youtube.com/watch?v=-uu2mhc6kT8
 title: "اجرای #مجید_سالاری و #رضا_کولغانی در شهر کتاب فرشته به مناسبت انتشار آلبوم دوره‌گرد"
 status: processed
+tier: discography
 kind: youtube video
 language: mul
 publisher: "مجله موسیقی مستقل"

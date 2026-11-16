@@ -4,7 +4,7 @@ title: "L'ivrogne et l'amoureux (feat. Kamran Jahanbani, Sara Naeini & Gelareh S
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: "Apple Music"
 about:
 - Qb23qew

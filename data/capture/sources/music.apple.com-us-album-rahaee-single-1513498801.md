@@ -4,7 +4,7 @@ title: "Rahaee - Single - Album by Sara Naeini - Apple Music"
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: "Apple Music"
 about:
 - Qb23qew

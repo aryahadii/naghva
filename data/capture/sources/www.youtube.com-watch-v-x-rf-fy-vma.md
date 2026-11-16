@@ -5,7 +5,7 @@ title: "Damahi - Rafic \"The Dude\" (Official Music Video)"
 status: processed
 kind: youtube video
 language: mul
-tier: own
+tier: discography
 publisher: "Damahi داماهى"
 issued:
   date: '2021-07-20'

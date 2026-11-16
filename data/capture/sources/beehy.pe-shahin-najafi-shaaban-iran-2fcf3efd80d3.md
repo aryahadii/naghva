@@ -1,7 +1,9 @@
 ---
 url: https://beehy.pe/shahin-najafi-shaaban-iran/
+archive: https://web.archive.org/web/20251112114848/https://beehy.pe/shahin-najafi-shaaban-iran/
 title: https://beehy.pe/shahin-najafi-shaaban-iran/
 status: processed
+tier: journalism
 ---
 
 > “Sha’aban is not a real person but is a live reality in Iran and the world,” Shahin Najafi tells beehype when we ask him about the meaning of the song.

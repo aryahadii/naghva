@@ -1,10 +1,11 @@
 ---
 url: https://open.spotify.com/album/3dJeSBWAkOyzDxuT2aVFdS
+archive: https://web.archive.org/web/20251202171023/https://open.spotify.com/album/3dJeSBWAkOyzDxuT2aVFdS
 title: Listen to Hich Hich Hich - Album by Shahin Najafi | Spotify
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Spotify
 about:
 - Qn7vfak

@@ -3,7 +3,7 @@ url: https://www.youtube.com/watch?v=wzswjqmPu1o
 title: Kaveh Salehi ( Barg o Bad) - kaveh salehi
 kind: youtube video
 language: en
-tier: own
+tier: discography
 about:
 - Kaveh Salehi
 status: processed

@@ -3,6 +3,7 @@ url: https://t.me/s/jillizwilliz
 archive: "https://web.archive.org/web/20251223164233/https://t.me/s/JillizWilliz"
 title: اولین سینگل ما٫ “جای تو میمیرم” بزودی ✨
 status: processed
+tier: own
 ---
 
 > اولین سینگل ما٫ “جای تو میمیرم” بزودی ✨

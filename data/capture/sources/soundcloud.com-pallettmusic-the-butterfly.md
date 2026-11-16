@@ -2,7 +2,7 @@
 url: https://soundcloud.com/pallettmusic/the-butterfly
 title: The Butterfly — Pallett پالت
 language: en
-tier: own
+tier: discography
 status: processed
 ---
 

@@ -4,6 +4,7 @@ title: RAINING BLOOD
 language: en
 publisher: Spotify
 status: processed
+tier: discography
 ---
 
 > RAINING BLOOD

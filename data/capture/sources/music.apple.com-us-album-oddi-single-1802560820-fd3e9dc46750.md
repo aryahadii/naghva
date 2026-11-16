@@ -4,7 +4,7 @@ title: Oddi - Single - Album by Danakol & Rian - Apple Music
 status: processed
 kind: web page
 language: mul
-tier: own
+tier: discography
 ---
 
 > March 16, 2025

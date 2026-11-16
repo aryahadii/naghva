@@ -1,5 +1,6 @@
 ---
 url: https://i.scdn.co/image/ab67616d00001e0225c3b77a836e11c65822078f
+archive: https://web.archive.org/web/20240202081534/https://i.scdn.co/image/ab67616d00001e0225c3b77a836e11c65822078f
 title: Spotify cover art for Mojaz
 kind: image
 language: mul

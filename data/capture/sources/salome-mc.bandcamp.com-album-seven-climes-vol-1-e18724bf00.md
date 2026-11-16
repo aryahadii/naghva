@@ -1,7 +1,9 @@
 ---
 url: https://salome-mc.bandcamp.com/album/seven-climes-vol-1
+archive: https://web.archive.org/web/20260529145751/https://salome-mc.bandcamp.com/album/seven-climes-vol-1
 title: Seven Climes Vol. 1 | Salome Mc
 status: processed
+tier: own
 ---
 
 > Seven Climes Vol. 1, by Salome Mc

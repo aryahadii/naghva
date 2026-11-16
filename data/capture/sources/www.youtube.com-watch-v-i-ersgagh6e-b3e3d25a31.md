@@ -2,6 +2,7 @@
 url: https://www.youtube.com/watch?v=i_ERSGAGh6E
 title: Salome MC - Callous | پینه - YouTube
 status: processed
+tier: discography
 archive: https://web.archive.org/web/20260529145715/https://www.youtube.com/watch?v=i_ERSGAGh6E
 ---
 

@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/the-house-of-ferend-single/1766316098
 title: The House of Ferend - Single
 status: processed
 publisher: Apple Music
-tier: own
+tier: discography
 language: en
 ---
 

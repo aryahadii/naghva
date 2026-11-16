@@ -4,7 +4,7 @@ title: Rakhte Tane Delbar - Apple Music
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Monicki & Rian
 - Rakhte Tane Delbar

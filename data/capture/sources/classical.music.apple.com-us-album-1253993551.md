@@ -1,5 +1,6 @@
 ---
 url: https://classical.music.apple.com/us/album/1253993551
+archive: https://web.archive.org/web/20261115140711/https://classical.music.apple.com/us/album/1253993551
 title: Voices From The East (Live) - Album by Mohsen Namjoo & Nederlands Blazers Ensemble - Apple Music
 status: processed
 kind: web page

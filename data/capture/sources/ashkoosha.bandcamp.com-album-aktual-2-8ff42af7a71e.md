@@ -1,5 +1,6 @@
 ---
 url: https://ashkoosha.bandcamp.com/album/aktual-2
+archive: https://web.archive.org/web/20251016142124/https://ashkoosha.bandcamp.com/album/aktual-2
 title: AKTUAL | Ash Koosha
 kind: web page
 language: en

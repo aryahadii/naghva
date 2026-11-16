@@ -2,6 +2,7 @@
 url: https://music.apple.com/us/album/nahan-feat-sanam-maroufkhani-single/1541746479
 title: Nahan (feat. Sanam Maroufkhani) - Single
 status: processed
+tier: discography
 language: en
 publisher: Apple Music
 ---

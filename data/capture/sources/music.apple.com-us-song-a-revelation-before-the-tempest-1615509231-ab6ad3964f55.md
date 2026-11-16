@@ -4,6 +4,7 @@ title: ‎A Revelation Before the Tempest - Song with Lyrics by Milad Derakhshan
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > "name":"Pedram Derakhshani","roleNames":["Songwriter"]

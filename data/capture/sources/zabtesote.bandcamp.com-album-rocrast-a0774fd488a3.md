@@ -1,9 +1,11 @@
 ---
 url: https://zabtesote.bandcamp.com/album/rocrast
+archive: https://web.archive.org/web/20251104110931/https://zabtesote.bandcamp.com/album/rocrast
 title: RocRast | Pouya Ehsaei
 language: en
 publisher: Zabte Sote
 status: processed
+tier: own
 ---
 
 > A label focusing on Experimental Electronic Music by Iranian Composers. Curated by Ata 'Sote' Ebtekar

@@ -1,5 +1,6 @@
 ---
 url: https://www.iranrights.org/library/document/4171
+archive: https://web.archive.org/web/20261115163346/https://www.iranrights.org/library/document/4171
 title: Sorush Lashkari (Death Threats)
 kind: web page
 language: en

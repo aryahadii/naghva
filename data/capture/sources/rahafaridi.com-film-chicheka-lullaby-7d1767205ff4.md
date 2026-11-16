@@ -4,6 +4,7 @@ title: Chicheka Lullaby
 language: en
 publisher: Raha Faridi
 status: processed
+tier: own
 archive: https://web.archive.org/web/20260416183043/https://rahafaridi.com/film/chicheka-lullaby/
 ---
 

@@ -1,10 +1,12 @@
 ---
 url: https://pitchfork.com/features/rising/9722-ash-koosha-conducting-destruction/
+archive: https://web.archive.org/web/20240218045648/https://pitchfork.com/features/rising/9722-ash-koosha-conducting-destruction/
 title: 'Ash Koosha: Conducting Destruction'
 language: en
 author: Philip Sherburne
 publisher: Pitchfork
 status: processed
+tier: journalism
 ---
 
 > From listening to his debut album, GUUD , recently released on Olde English Spelling Bee , you wouldn't guess that he had a past as a rebel rocker—much less as a student of Persian classical music.

@@ -4,7 +4,7 @@ title: "Jadooye Raghsidan (feat. Sara Naeini) - Single - Album by Reza Rohani - 
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: "Apple Music"
 about:
 - Qb23qew

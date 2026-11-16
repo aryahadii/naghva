@@ -2,6 +2,7 @@
 url: https://www.golfamkhayam.com/recordings
 title: Recordings | golfamkhayam
 status: processed
+tier: own
 archive: https://web.archive.org/web/20260717042640/https://www.golfamkhayam.com/recordings
 ---
 

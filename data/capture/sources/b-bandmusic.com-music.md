@@ -1,5 +1,6 @@
 ---
 url: https://b-bandmusic.com/music
+archive: https://web.archive.org/web/20260914025618/https://b-bandmusic.com/music
 title: Music | B-band
 kind: web page
 language: mul

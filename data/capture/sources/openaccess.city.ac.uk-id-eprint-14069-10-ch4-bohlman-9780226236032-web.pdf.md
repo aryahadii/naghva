@@ -1,5 +1,6 @@
 ---
 url: https://openaccess.city.ac.uk/id/eprint/14069/10/Ch4-Bohlman-9780226236032-web.pdf
+archive: https://web.archive.org/web/20250504083854/https://openaccess.city.ac.uk/id/eprint/14069/10/Ch4-Bohlman-9780226236032-web.pdf
 title: 'Jazz and Its Social Meanings in Iran: From Cultural Colonialism to the Universal'
 kind: web page
 language: en

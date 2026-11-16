@@ -1,10 +1,11 @@
 ---
 url: https://open.spotify.com/album/3aayhlRShZCvqQwBOnzZSP
+archive: https://web.archive.org/web/20230501103445/https://open.spotify.com/album/3aayhlRShZCvqQwBOnzZSP
 title: Listen to Odd Time Rock - Album by Mohsen Namjoo | Spotify
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Spotify
 about:
 - Qt6wjbg

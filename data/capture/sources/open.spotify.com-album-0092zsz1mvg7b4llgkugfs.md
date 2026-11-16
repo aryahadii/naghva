@@ -1,10 +1,11 @@
 ---
 url: https://open.spotify.com/album/0092zsZ1Mvg7B4llGkUGfs
+archive: https://web.archive.org/web/20260406081019/https://open.spotify.com/album/0092zsZ1Mvg7B4llGkUGfs
 title: Soliloquy - Album by Sussan Deyhim | Spotify
 kind: music catalog item
 language: en
 publisher: Spotify
-tier: other
+tier: discography
 about:
 - Sussan Deyhim
 status: processed

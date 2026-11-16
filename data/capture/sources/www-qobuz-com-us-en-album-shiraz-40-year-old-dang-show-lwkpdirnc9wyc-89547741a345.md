@@ -3,7 +3,7 @@ url: https://www.qobuz.com/us-en/album/shiraz-40-year-old-dang-show/lwkpdirnc9wy
 title: Shiraz 40 Year Old, Dang Show - Qobuz
 kind: web page
 language: en
-tier: primary
+tier: discography
 status: processed
 ---
 

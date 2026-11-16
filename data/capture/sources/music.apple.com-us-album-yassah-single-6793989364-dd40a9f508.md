@@ -2,6 +2,7 @@
 url: https://music.apple.com/us/album/yassah-single/6793989364
 title: Yassah - Single - Album by Emdjz & Salome MC - Apple Music
 status: processed
+tier: discography
 ---
 
 > Listen to Yassah - Single by Emdjz & Salome MC on Apple Music. 2026. 1 Song. Duration: 2 minutes.

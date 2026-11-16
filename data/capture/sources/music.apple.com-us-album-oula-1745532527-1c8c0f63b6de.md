@@ -1,9 +1,11 @@
 ---
 url: https://music.apple.com/us/album/oula/1745532527
+archive: https://web.archive.org/web/20260830160900/https://music.apple.com/us/album/oula/1745532527
 title: Oula - Album by Mohsen Namjoo - Apple Music
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > Oula - Album by Mohsen Namjoo

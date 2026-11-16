@@ -16,6 +16,17 @@ statements:
     - source: music.apple.com-us-album-alaki-1519499502-6db29fe4aeab
       quote: الکی
       accessed: '2026-10-23'
+  release type:
+  - value: album
+    references:
+    - source: music.apple.com-us-album-alaki-1519499502-6db29fe4aeab
+      quote: |-
+        Alaki - Album by Mohsen Namjoo - Apple Music
+      accessed: '2026-10-23'
+    - source: open.spotify.com-album-6wufs7l3saiccxjsekroib
+      quote: |-
+        Listen to Alaki - Album by Mohsen Namjoo | Spotify
+      accessed: '2026-11-03'
   performer:
   - value: Qt6wjbg
     references:

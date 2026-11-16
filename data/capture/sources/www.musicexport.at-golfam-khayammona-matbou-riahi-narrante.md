@@ -1,9 +1,10 @@
 ---
 url: "https://www.musicexport.at/golfam-khayammona-matbou-riahi-narrante/"
+archive: https://web.archive.org/web/20220814223341/https://www.musicexport.at/golfam-khayammona-matbou-riahi-narrante/
 title: "GOLFAM KHAYAM/MONA MATBOU RIAHI - NARRANTE"
 kind: "web page"
 language: "en"
-tier: "journalism"
+tier: journalism
 status: "processed"
 ---
 

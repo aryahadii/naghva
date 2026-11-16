@@ -1,10 +1,11 @@
 ---
 url: https://music.apple.com/us/album/kahrobaye-arezou/1625575397
+archive: https://web.archive.org/web/20261011070613/https://music.apple.com/us/album/kahrobaye-arezou/1625575397
 title: Kahrobaye Arezou - Album by Ali Azimi - Apple Music
 language: en
 publisher: Apple Music
 status: processed
-tier: own
+tier: discography
 ---
 
 > Kahrobaye Arezou - Album by Ali Azimi - Apple Music

@@ -2,7 +2,7 @@
 url: https://music.apple.com/us/song/gole-koochak-feat-aida-shahghasemi/1708660133
 title: Gole Koochak (feat. Aida Shahghasemi)
 status: processed
-tier: own
+tier: discography
 publisher: Apple Music
 language: en
 ---

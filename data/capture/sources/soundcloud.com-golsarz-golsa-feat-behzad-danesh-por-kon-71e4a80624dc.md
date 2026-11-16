@@ -5,7 +5,7 @@ title: Golsa feat. Behzad Danesh - Por Kon - پُر کن by Golsa | SoundCloud
 status: processed
 kind: web page
 language: mul
-tier: own
+tier: discography
 about:
 - Golsa
 ---

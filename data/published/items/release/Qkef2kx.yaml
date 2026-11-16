@@ -10,6 +10,13 @@ statements:
       quote: |-
         RAAZ 2020 30M Records
       accessed: '2026-10-19'
+  release type:
+  - value: album
+    references:
+    - source: music.apple.com-us-album-raaz-1530522686-dc1ce65b89a0
+      quote: |-
+        Raaz - Album by Hooshyar Khayam & Bamdad Afshar - Apple Music
+      accessed: '2026-10-19'
   performer:
   - value: Qsr6hr2
     references:

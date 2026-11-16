@@ -4,6 +4,7 @@ title: O Hum Dar Azadi
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > Listen to O Hum Dar Azadi by O-Hum on Apple Music. 2014. 15 Songs. Duration: 1 hour 6 minutes.

@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/begoo-ke-zendeim-single/1484575761
 title: Begoo Ke Zendeim - Single by Chaartaar on Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Qb3nvrj
 status: processed

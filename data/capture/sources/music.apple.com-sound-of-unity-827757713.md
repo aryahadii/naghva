@@ -2,6 +2,7 @@
 url: https://music.apple.com/by/album/sound-of-unity-sedaye-ettehad-single/827757713
 title: Sound of Unity - Sedaye Ettehad - Single
 status: processed
+tier: discography
 publisher: music.apple.com
 ---
 

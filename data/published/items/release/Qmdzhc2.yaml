@@ -18,6 +18,17 @@ statements:
           quote: |-
             May 12, 2021 1 song, 5 minutes
           accessed: 2026-10-15
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-perhaps-new-version-single-1568646182-b9dc4d34a3e8
+      quote: |-
+        Perhaps (New Version) - Single by Balzan on Apple Music
+      accessed: '2026-10-18'
+    - source: open.spotify.com-album-4ypz76eqwpfkpvtqcmhmhl
+      quote: |-
+        Listen to Perhaps (New Version) - Single by Balzan | Spotify
+      accessed: '2026-11-03'
   performer:
     - value: Q2t39td
       references:

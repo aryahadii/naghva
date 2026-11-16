@@ -4,7 +4,7 @@ title: Ey Del (Sina Tava Rework) - Single - Album by Mohsen Namjoo & Ebrahim Mon
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Apple Music
 about:
 - Qt6wjbg

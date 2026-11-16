@@ -1,5 +1,6 @@
 ---
 url: https://audiovideo.fi/artikkeli/keikkaraportti-ja-azam-ali-haastattelu-interview-niyaz-seka-wimme-saari-ja-tapani-rinne-helsingin-juhlaviikot/
+archive: https://web.archive.org/web/20260718062044/https://audiovideo.fi/artikkeli/keikkaraportti-ja-azam-ali-haastattelu-interview-niyaz-seka-wimme-saari-ja-tapani-rinne-helsingin-juhlaviikot/
 title: Keikkaraportti ja Azam Ali -haastattelu / interview – Niyaz sekä Wimme Saari ja Tapani Rinne – Helsingin Juhlaviikot - AudioVideo
 kind: web page
 language: en

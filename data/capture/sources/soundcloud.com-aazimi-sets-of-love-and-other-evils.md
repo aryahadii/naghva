@@ -4,6 +4,7 @@ title: Of Love and Other Evils | از عشق و شیاطین دیگر
 language: mul
 publisher: Ali Azimi
 status: processed
+tier: discography
 ---
 
 > Of Love and Other Evils | از عشق و شیاطین دیگر

@@ -4,6 +4,7 @@ title: Tribute To Warriors of Metal - EP
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > Tribute To Warriors of Metal - EP

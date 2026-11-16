@@ -1,10 +1,11 @@
 ---
 url: https://open.spotify.com/album/5CkKVzQfn3Q2tTnirTNxLh
+archive: https://web.archive.org/web/20261107154639/https://open.spotify.com/album/5CkKVzQfn3Q2tTnirTNxLh
 title: Listen to Gole Yakh - Persian Music - Album by Kourosh Yaghmaei | Spotify
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Spotify
 about:
 - Qkza58w

@@ -1,0 +1,38 @@
+---
+/** A column per year, with an "earlier" column for everything before the first year. */
+import { num } from '../../lib/i18n';
+import type { Lang } from '../../lib/record';
+
+export interface Year { y: number; n: number; earlier: boolean }
+interface Props {
+  lang: Lang;
+  years: Year[];
+  /** The value at the top of the axis. */
+  max: number;
+  /** The first year with its own column; ticks start a little after it. */
+  first: number;
+  /** Fractions of `max` the grid marks. */
+  grid: number[];
+  color: string;
+  /** What one unit is called, for the tip: [English singular, English plural, Persian]. */
+  unit: [string, string, string];
+  earlierLabel: string;
+  short?: boolean;
+  /** The year still under way, drawn as open. */
+  open?: number;
+}
+
+const { lang, years, max, first, grid, color, unit, earlierLabel, short = false, open } = Astro.props;
+const n = (x: number) => num(lang, x);
+const what = (k: number) => (lang === 'en' ? (k === 1 ? unit[0] : unit[1]) : unit[2]);
+const when = (r: Year) => (r.earlier ? earlierLabel : n(r.y));
+---
+<div class={`cols${short ? ' cols-short' : ''}`} dir="ltr" style={`--n:${years.length}`}>
+  <div class="grid" aria-hidden="true">{grid.map((k) => <span style={`--k:${k}`}><b>{n(Math.round(max * k))}</b></span>)}</div>
+  {years.map((r) => (
+    <div class={`col${r.y === open ? ' col-open' : ''}${r.earlier ? ' col-earlier' : ''}`} tabindex="0" role="button" data-tip={`${when(r)}: ${n(r.n)} ${what(r.n)}`} aria-label={`${when(r)}: ${n(r.n)}`} style={`--h:${(r.n / max) * 100}%`}>
+      <div class="stack"><i style={`--c:${color};flex-grow:1`}></i></div>
+      {r.earlier ? <span class="tick">{earlierLabel}</span> : r.y % 5 === 0 && r.y - first > 2 && <span class={`tick${r.y % 10 ? ' tick-minor' : ''}`}>{n(r.y)}</span>}
+    </div>
+  ))}
+</div>

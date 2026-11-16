@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=f2DIAlYonRw
+archive: https://web.archive.org/web/20251217184030/https://www.youtube.com/watch?v=f2DIAlYonRw
 title: ماجرا | صنم معروف خانی | قسمت دوازدهم
 status: processed
 kind: video

@@ -2,6 +2,7 @@
 url: https://open.spotify.com/album/2Secgb9RNRqgd07clyMlGu
 title: Narrante on Spotify
 status: processed
+tier: discography
 archive: https://web.archive.org/web/20240524030816/https://open.spotify.com/album/2Secgb9RNRqgd07clyMlGu
 ---
 

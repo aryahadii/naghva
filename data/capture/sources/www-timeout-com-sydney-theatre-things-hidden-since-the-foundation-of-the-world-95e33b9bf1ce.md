@@ -4,6 +4,7 @@ title: Things Hidden Since the Foundation of the World — theatre review
 language: en
 archive: https://web.archive.org/web/*/https://www.timeout.com/sydney/theatre/things-hidden-since-the-foundation-of-the-world
 status: processed
+tier: journalism
 publisher: Time Out
 ---
 

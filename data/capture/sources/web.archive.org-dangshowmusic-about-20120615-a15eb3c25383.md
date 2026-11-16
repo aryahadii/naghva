@@ -3,7 +3,7 @@ url: https://web.archive.org/web/20120615165120/http://www.dangshowmusic.com/fr_
 title: Dang Show — About Us (archived 15 June 2012)
 kind: web page
 language: en
-tier: primary
+tier: own
 status: processed
 ---
 

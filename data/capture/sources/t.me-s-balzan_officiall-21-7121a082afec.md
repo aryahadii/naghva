@@ -1,5 +1,6 @@
 ---
 url: https://t.me/s/balzan_officiall/21
+archive: https://web.archive.org/web/20251221194627/https://t.me/s/balzan_officiall/21
 title: 'Balzan: Debut launches and production team'
 status: processed
 kind: telegram post

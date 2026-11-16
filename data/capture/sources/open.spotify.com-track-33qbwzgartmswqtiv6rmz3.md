@@ -4,7 +4,7 @@ title: Eftezoza - song and lyrics by Danakol | Spotify
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 ---
 
 > Eftezoza - song and lyrics by Danakol | Spotify

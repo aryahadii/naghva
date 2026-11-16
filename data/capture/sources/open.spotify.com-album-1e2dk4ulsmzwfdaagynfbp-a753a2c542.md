@@ -2,6 +2,7 @@
 url: https://open.spotify.com/album/1e2dk4uLSMzwfDaAgYnfBP
 title: Last on Spotify
 status: processed
+tier: discography
 ---
 
 > "name":"Last"

@@ -3,7 +3,7 @@ url: https://soundcloud.com/hadi-pakzad/bloody-me
 title: Bloody Me-2009 - Hadi Pakzad | SoundCloud
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Hadi Pakzad
 status: processed

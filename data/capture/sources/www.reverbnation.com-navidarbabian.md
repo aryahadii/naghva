@@ -1,9 +1,10 @@
 ---
 url: "https://www.reverbnation.com/navidarbabian"
+archive: https://web.archive.org/web/20240901055531/https://www.reverbnation.com/navidarbabian
 title: "Navid Arbabian | ReverbNation"
 kind: "web page"
 language: "en"
-tier: "own"
+tier: own
 status: "processed"
 ---
 

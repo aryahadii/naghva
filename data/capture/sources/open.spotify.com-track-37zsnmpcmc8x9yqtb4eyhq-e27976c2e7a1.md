@@ -5,7 +5,7 @@ title: Ghamzeh - Spotify
 status: processed
 kind: web page
 language: en
-tier: other
+tier: discography
 about:
 - Monicki
 - Ghamzeh

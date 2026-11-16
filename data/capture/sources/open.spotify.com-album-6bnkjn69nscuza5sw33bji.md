@@ -3,7 +3,7 @@ url: https://open.spotify.com/album/6bNKjn69nsCuZA5SW33BjI
 title: Emshab Kenar-e Ghazalhaye Man Bekhab - Spotify
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Kaveh Salehi
 - Homayoun Shajarian

@@ -1,5 +1,6 @@
 ---
 url: https://t.me/Makhoola/245?embed=1
+archive: https://web.archive.org/web/20250520042246/https://t.me/Makhoola/245?embed=1
 title: Telegram Widget
 kind: web page
 language: fa

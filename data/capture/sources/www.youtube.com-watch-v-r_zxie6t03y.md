@@ -2,7 +2,7 @@
 url: https://www.youtube.com/watch?v=r_ZXIE6t03Y
 title: Be Yadam (feat. Shervin Najafian) · Marjan Farsad · Shervin Najafian
 status: processed
-tier: own
+tier: discography
 publisher: Marjan Farsad
 language: en
 archive: https://web.archive.org/web/20240714155220/https://www.youtube.com/watch?si=5Xte9u3Cuzrgg3af&v=r_ZXIE6t03Y

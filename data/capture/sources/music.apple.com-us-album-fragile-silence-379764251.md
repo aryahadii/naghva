@@ -4,7 +4,7 @@ title: Fragile Silence - Album by Reza Rohani, Kourosh Babaei, Homayoun Nasiri, 
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 ---
 
 > Fragile Silence - Album by Reza Rohani, Kourosh Babaei, Homayoun Nasiri, Dara Daraei & Beyond the Moon Ensemble - Apple Music

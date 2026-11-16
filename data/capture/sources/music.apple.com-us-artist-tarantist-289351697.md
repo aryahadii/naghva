@@ -1,8 +1,9 @@
 ---
 url: https://music.apple.com/us/artist/tarantist/289351697
+archive: https://web.archive.org/web/20241211124320/https://music.apple.com/us/artist/tarantist/289351697
 title: ‎TarantisT - Apple Music
 status: processed
-tier: own
+tier: discography
 publisher: music.apple.com
 ---
 

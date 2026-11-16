@@ -1,10 +1,11 @@
 ---
 url: https://open.spotify.com/album/1DKKKM3Xh5XxF6jrhyQMS8
+archive: https://web.archive.org/web/20250722090907/https://open.spotify.com/album/1DKKKM3Xh5XxF6jrhyQMS8
 title: Listen to Maria Magdalena - Single by Sevdaliza | Spotify
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Spotify
 about:
 - Qf36fnd

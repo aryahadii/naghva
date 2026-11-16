@@ -1,10 +1,11 @@
 ---
 url: https://www.youtube.com/user/kiosktheband
+archive: https://web.archive.org/web/20250717133847/https://www.youtube.com/user/kiosktheband
 title: KIOSK
 language: en
 publisher: YouTube
 status: processed
-tier: own
+tier: discography
 about:
 - Kiosk
 - کیوسک

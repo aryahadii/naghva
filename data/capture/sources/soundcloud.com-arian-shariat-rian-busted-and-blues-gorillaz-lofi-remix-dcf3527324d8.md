@@ -4,7 +4,7 @@ title: Stream Be my love (Gorillaz LoFi Remix) by Rian / آرین | Listen onlin
 status: processed
 kind: web page
 language: mul
-tier: own
+tier: discography
 ---
 
 > Be my love (Gorillaz LoFi Remix)

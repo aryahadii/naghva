@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/track/4rbCsMlhhExboVnhlKbCQv
+archive: https://web.archive.org/web/20250129020814/https://open.spotify.com/track/4rbCsMlhhExboVnhlKbCQv
 title: Bezan
 kind: web page
 language: en

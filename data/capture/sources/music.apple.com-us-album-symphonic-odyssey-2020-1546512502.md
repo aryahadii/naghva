@@ -1,10 +1,11 @@
 ---
 url: https://music.apple.com/us/album/symphonic-odyssey-2020/1546512502
+archive: https://web.archive.org/web/20250706170521/https://music.apple.com/us/album/symphonic-odyssey-2020/1546512502
 title: Symphonic Odyssey 2020 - Album by Mohsen Namjoo - Apple Music
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Apple Music
 about:
 - Qt6wjbg

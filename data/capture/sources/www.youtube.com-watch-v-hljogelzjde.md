@@ -5,7 +5,7 @@ title: Behzad Danesh feat.Golsa - Por Kon - پُر کن
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Golsa
 - Behzad Danesh

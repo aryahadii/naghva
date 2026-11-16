@@ -1,5 +1,6 @@
 ---
 url: https://en.wikipedia.org/wiki/Austria
+archive: https://web.archive.org/web/20261112055541/https://en.wikipedia.org/wiki/Austria
 title: "Austria"
 kind: web page
 language: en

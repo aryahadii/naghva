@@ -1,8 +1,10 @@
 ---
 url: https://vivaalliance.ca/events/culture-is-the-body-a-psychophysical-training
+archive: https://web.archive.org/web/20261115160759/https://vivaalliance.ca/events/culture-is-the-body-a-psychophysical-training
 title: 'Culture is the Body: A Psychophysical Training Course'
 language: en
 status: processed
+tier: other
 ---
 
 > The Suzuki Method positions the body as the foundation of expressive storytelling—using physicality as a bridge between internal intention and external action.

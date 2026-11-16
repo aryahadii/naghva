@@ -1,8 +1,10 @@
 ---
 url: https://qameferaq.bandcamp.com/album/jostojoo
+archive: https://web.archive.org/web/20230907204107/https://qameferaq.bandcamp.com/album/jostojoo
 title: Jostojoo — Arif Mirbaghi & Kaveh Ghaffari
 language: en
 status: processed
+tier: own
 ---
 
 > Kaveh Ghaffari and Arif Mirbaghi present playful themes inspired by the Film Farsi genre of Iranian cinema.

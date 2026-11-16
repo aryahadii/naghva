@@ -1,5 +1,6 @@
 ---
 url: https://ebbmusic.eu/artists/kamakan/
+archive: https://web.archive.org/web/20260206170240/https://ebbmusic.eu/artists/kamakan/
 title: Kamakan | EBB Music
 kind: web page
 language: en

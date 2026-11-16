@@ -4,7 +4,7 @@ title: Baron (feat. Reza Koolaghani) - Single | Majid Salari
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Reza Koolaghani
 - Majid Salari

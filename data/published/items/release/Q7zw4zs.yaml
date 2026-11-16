@@ -23,6 +23,13 @@ statements:
     - source: music.apple.com-hamid-imaginary
       quote: '"datePublished":"2013-04-01"'
       accessed: '2026-10-19'
+  release type:
+  - value: album
+    references:
+    - source: open.spotify.com-album-4owpdh9ysrrz3ebtoidytg
+      quote: |-
+        Listen to Imaginary Knots - Album by Hamid Saeidi | Spotify
+      accessed: '2026-11-13'
   performer:
   - value: Qzen4y9
     references:

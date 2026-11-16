@@ -1,10 +1,11 @@
 ---
 url: https://www.youtube.com/watch?v=kuXsGCmMdPQ
+archive: https://web.archive.org/web/20220924132223/https://www.youtube.com/watch?v=kuXsGCmMdPQ
 title: Bi Aseman (Skyless)
 status: processed
 kind: youtube video
 language: mul
-tier: own
+tier: discography
 about:
 - Taha Mazaheri
 - Q66ky5f

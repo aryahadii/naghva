@@ -3,7 +3,7 @@ url: https://soundcloud.com/majidsalari/zekhiyalat
 title: Ze Khiyalat
 kind: web page
 language: mul
-tier: own
+tier: discography
 status: processed
 ---
 

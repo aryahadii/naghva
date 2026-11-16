@@ -3,7 +3,7 @@ url: https://www.qobuz.com/us-en/album/mad-o-nay-dang-show/3614979706046
 title: Mad O Nay, Dang Show - Qobuz
 kind: web page
 language: en
-tier: primary
+tier: discography
 status: processed
 ---
 

@@ -1,5 +1,6 @@
 ---
 url: https://en.wikipedia.org/wiki/Vancouver
+archive: https://web.archive.org/web/20261105030522/https://en.wikipedia.org/wiki/Vancouver
 title: "Vancouver"
 kind: web page
 language: en

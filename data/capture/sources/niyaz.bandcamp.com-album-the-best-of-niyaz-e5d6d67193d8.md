@@ -1,8 +1,10 @@
 ---
 url: https://niyaz.bandcamp.com/album/the-best-of-niyaz
+archive: https://web.archive.org/web/20260408052544/https://niyaz.bandcamp.com/album/the-best-of-niyaz
 title: The Best Of Niyaz
 language: en
 status: processed
+tier: own
 publisher: niyaz.bandcamp.com
 ---
 

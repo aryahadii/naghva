@@ -5,7 +5,7 @@ title: Diaspora Arts Connection
 status: found
 kind: youtube channel
 language: en
-tier: own
+tier: discography
 about:
 - Diaspora Arts Connection
 ---

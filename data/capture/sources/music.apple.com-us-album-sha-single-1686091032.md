@@ -1,10 +1,11 @@
 ---
 url: https://music.apple.com/us/album/sha-single/1686091032
+archive: https://web.archive.org/web/20240618004857/https://music.apple.com/us/album/sha-single/1686091032
 title: Sha - Single - Album by Yas - Apple Music
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: Apple Music
 about:
 - Qx3svqf

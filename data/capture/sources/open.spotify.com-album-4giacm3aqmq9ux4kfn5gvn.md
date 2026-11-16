@@ -1,9 +1,10 @@
 ---
 url: https://open.spotify.com/album/4gIacm3Aqmq9UX4kFN5gvn
+archive: https://web.archive.org/web/20250925064824/https://open.spotify.com/album/4gIacm3Aqmq9UX4kFN5gvn
 title: Listen to Leaving And Passing By - Album by Bomrani | Spotify
 kind: web page
 language: en
-tier: own
+tier: discography
 status: processed
 ---
 

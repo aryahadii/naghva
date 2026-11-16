@@ -4,6 +4,7 @@ title: MAHDYAR 26th January 2018
 language: en
 publisher: NTS
 status: processed
+tier: journalism
 archive: https://web.archive.org/web/*/https://www.nts.live/shows/guests/episodes/mahdyar-26th-january-28
 ---
 

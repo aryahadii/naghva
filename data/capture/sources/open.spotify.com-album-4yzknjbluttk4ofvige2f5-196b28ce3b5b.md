@@ -2,6 +2,7 @@
 url: https://open.spotify.com/album/4yzknjBlUttk4oFVIgE2F5
 title: Beraghs - Single by Golsa
 status: processed
+tier: discography
 kind: web page
 language: mul
 ---

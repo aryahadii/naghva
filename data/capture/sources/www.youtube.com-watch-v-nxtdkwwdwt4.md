@@ -5,7 +5,7 @@ title: "Dokhtarak (Girlie) - EFG London Jazz Festival 2023"
 status: processed
 kind: youtube video
 language: mul
-tier: own
+tier: discography
 publisher: "Damahi داماهى"
 issued:
   date: '2024-04-04'

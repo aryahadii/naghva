@@ -4,7 +4,7 @@ title: Khal Punk - Album by 127 - Apple Music
 language: en
 publisher: Apple Music
 status: processed
-tier: own
+tier: discography
 ---
 
 > Khal Punk

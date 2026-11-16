@@ -16,6 +16,17 @@ statements:
     - source: music.apple.com-us-album-oddi-single-1802560820-fd3e9dc46750
       quote: March 16, 2025
       accessed: '2026-10-20'
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-oddi-single-1802560820-fd3e9dc46750
+      quote: |-
+        Oddi - Single - Album by Danakol & Rian - Apple Music
+      accessed: '2026-10-20'
+    - source: open.spotify.com-album-0pd8catct2yq5vkay9eqfl
+      quote: |-
+        Listen to Oddi - Single by Danakol | Spotify
+      accessed: '2026-10-22'
   performer:
   - value: Qhvqpzq
     references:

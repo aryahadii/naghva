@@ -4,7 +4,7 @@ title: Majid Salari — Spotify artist
 status: processed
 kind: web page
 language: mul
-tier: own
+tier: discography
 ---
 
 > Majid Salari

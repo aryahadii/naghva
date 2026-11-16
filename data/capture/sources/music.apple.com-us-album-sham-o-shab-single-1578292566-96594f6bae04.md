@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/sham-o-shab-single/1578292566
 title: Sham o Shab — Apple release edition
 kind: web page
 language: mul
-tier: platform
+tier: discography
 status: processed
 ---
 

@@ -12,6 +12,13 @@ statements:
         minutes.'
       accessed: '2026-11-13'
       locator: Apple Music release description
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-last-single-1620821546-f2f5ea927f
+      quote: |-
+        Listen to Last - Single by Hesam Inanlou & Golfam Khayam on Apple Music. 2022. 1 Song. Duration: 5 minutes.
+      accessed: '2026-11-13'
   performer:
   - value: Q8axbyk
     references:

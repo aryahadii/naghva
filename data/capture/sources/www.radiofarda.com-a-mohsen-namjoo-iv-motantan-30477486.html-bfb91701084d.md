@@ -1,9 +1,11 @@
 ---
 url: https://www.radiofarda.com/a/mohsen-namjoo-iv-motantan/30477486.html
+archive: https://web.archive.org/web/20260515083801/https://www.radiofarda.com/a/mohsen-namjoo-iv-motantan/30477486.html
 title: از اعجاب «مُطَنطن»؛ گفت‌وگو با محسن نامجو
 language: fa
 publisher: Radio Farda
 status: processed
+tier: journalism
 ---
 
 > «مطنطن» نام آلبوم جدید محسن نامجو است. این آلبوم مجموعه‌های از ساخته‌های این خواننده را در بر می‌گیرد که بین سال‌های ۷۵ تا ۹۸ نوشته و ساخته شده‌اند.

@@ -3,7 +3,7 @@ url: "https://www.theguardian.com/music/2011/may/10/salome-iran-hip-hop-intervie
 title: "Salome: straight outta Tehran"
 kind: "web page"
 language: "en"
-tier: "journalism"
+tier: journalism
 status: "processed"
 ---
 

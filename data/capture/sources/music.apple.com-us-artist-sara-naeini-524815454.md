@@ -2,7 +2,7 @@
 url: https://music.apple.com/us/artist/sara-naeini/524815454
 title: ‎Sara Naeini - Apple Music
 status: processed
-tier: own
+tier: discography
 publisher: music.apple.com
 ---
 

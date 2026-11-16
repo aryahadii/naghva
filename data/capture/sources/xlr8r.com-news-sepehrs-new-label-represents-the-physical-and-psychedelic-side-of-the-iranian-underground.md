@@ -1,9 +1,10 @@
 ---
 url: "https://xlr8r.com/news/sepehrs-new-label-represents-the-physical-and-psychedelic-side-of-the-iranian-underground/"
+archive: https://web.archive.org/web/20260518003108/https://xlr8r.com/news/sepehrs-new-label-represents-the-physical-and-psychedelic-side-of-the-iranian-underground/
 title: "Sepehr’s New Label Represents the Psychedelic Side of the Iranian Underground"
 kind: "web page"
 language: "en"
-tier: "journalism"
+tier: journalism
 status: "processed"
 ---
 

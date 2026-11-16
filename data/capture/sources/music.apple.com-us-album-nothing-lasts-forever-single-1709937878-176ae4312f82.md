@@ -1,8 +1,9 @@
 ---
 url: https://music.apple.com/us/album/nothing-lasts-forever-single/1709937878
+archive: https://web.archive.org/web/20261030104259/https://music.apple.com/us/album/nothing-lasts-forever-single/1709937878
 title: ‎Nothing Lasts Forever - Single - Album by Sevdaliza & Grimes - Apple Music
 status: processed
-tier: own
+tier: discography
 kind: web page
 about:
 - Sevdaliza

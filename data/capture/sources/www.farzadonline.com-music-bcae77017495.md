@@ -1,9 +1,11 @@
 ---
 url: https://www.farzadonline.com/music/
+archive: https://web.archive.org/web/20260422023609/https://www.farzadonline.com/music/
 title: Music | Farzad Golpayegani
 language: en
 publisher: Farzad Golpayegani
 status: processed
+tier: own
 ---
 
 > Farzad Golpayegani’s ninth album, “Nine” released on October 14th 2022.

@@ -5,7 +5,7 @@ title: Pumpkin Latte (feat. Hamzeh Yeganeh)
 status: processed
 kind: web page
 language: en
-tier: other
+tier: discography
 part of: soundcloud.com-user-194049154-dc96fdedcfe3
 about:
 - Monicki candidate

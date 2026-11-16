@@ -4,6 +4,7 @@ title: Name Man Koroush Ast (Persian)
 language: en
 publisher: Spotify
 status: processed
+tier: discography
 ---
 
 > Name Man Koroush Ast (Persian)

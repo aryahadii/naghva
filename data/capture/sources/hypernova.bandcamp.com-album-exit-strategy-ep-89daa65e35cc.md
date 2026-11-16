@@ -1,9 +1,11 @@
 ---
 url: https://hypernova.bandcamp.com/album/exit-strategy-ep
+archive: https://web.archive.org/web/20230601030653/https://hypernova.bandcamp.com/album/exit-strategy-ep
 title: Exit Strategy EP | Hypernova
 language: en
 publisher: Bandcamp
 status: processed
+tier: own
 ---
 
 > Exit Strategy EP by Hypernova

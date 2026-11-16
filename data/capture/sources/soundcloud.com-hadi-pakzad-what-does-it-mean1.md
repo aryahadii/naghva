@@ -3,7 +3,7 @@ url: https://soundcloud.com/hadi-pakzad/what-does-it-mean1
 title: What Does It Mean! - Hadi Pakzad | SoundCloud
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Hadi Pakzad
 status: processed

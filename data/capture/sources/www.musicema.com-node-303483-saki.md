@@ -3,6 +3,7 @@ url: https://www.musicema.com/node/303483
 title: مهدی ساکی کماکان از صمیمیت جنوب می‌خواند
 language: fa
 status: processed
+tier: journalism
 archive: https://web.archive.org/web/20170105090224id_/http://www.musicema.com/node/303483
 ---
 

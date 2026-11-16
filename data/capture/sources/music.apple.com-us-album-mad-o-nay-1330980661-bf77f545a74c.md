@@ -1,11 +1,12 @@
 ---
 url: https://music.apple.com/us/album/mad-o-nay/1330980661
+archive: https://web.archive.org/web/20260726213512/https://music.apple.com/us/album/mad-o-nay/1330980661
 title: Mad O Nay — Apple Music
 language: en
 publisher: Apple Music
 status: processed
 kind: web page
-tier: primary
+tier: discography
 ---
 
 > Mad O Nay

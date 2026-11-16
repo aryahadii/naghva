@@ -3,7 +3,7 @@ url: https://www.youtube.com/playlist?list=OLAK5uy_kWeGJZqVg0MXJWYPALiuwgTXNVOQq
 title: Matarsak - YouTube
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Kaveh Yaghmaei
 status: processed

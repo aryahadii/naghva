@@ -5,7 +5,7 @@ title: "روایت‌های خیابان | صبا زواره‌ای | Radio Khia
 status: "processed"
 kind: "book"
 language: "fa"
-tier: "own"
+tier: own
 about: ["Sanam Maroufkhani", "صنم معروفخانی"]
 ---
 

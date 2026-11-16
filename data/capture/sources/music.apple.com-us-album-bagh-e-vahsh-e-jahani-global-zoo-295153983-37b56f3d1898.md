@@ -1,9 +1,11 @@
 ---
 url: https://music.apple.com/us/album/bagh-e-vahsh-e-jahani-global-zoo/295153983
+archive: https://web.archive.org/web/20260313090428/https://music.apple.com/us/album/bagh-e-vahsh-e-jahani-global-zoo/295153983
 title: bagh e Vahsh e Jahani (Global Zoo) - Album by Kiosk - Apple Music
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > bagh e Vahsh e Jahani (Global Zoo) by Kiosk on Apple Music

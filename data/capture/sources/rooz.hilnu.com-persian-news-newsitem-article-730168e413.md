@@ -1,5 +1,6 @@
 ---
 url: https://rooz.hilnu.com/persian/news/newsitem/article/-730168e413/
+archive: https://web.archive.org/web/20261115145614/https://rooz.hilnu.com/persian/news/newsitem/article/-730168e413/
 title: بازگشت به مسیر سازها
 kind: web page
 language: fa

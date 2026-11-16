@@ -4,7 +4,7 @@ title: Safheye Ba'd
 status: processed
 kind: youtube video
 language: mul
-tier: own
+tier: discography
 about:
 - Taha Mazaheri
 - Q66ky5f

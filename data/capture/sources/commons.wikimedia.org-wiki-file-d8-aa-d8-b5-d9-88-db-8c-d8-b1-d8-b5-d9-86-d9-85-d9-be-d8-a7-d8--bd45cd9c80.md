@@ -1,7 +1,9 @@
 ---
 url: https://commons.wikimedia.org/wiki/File:%D8%AA%D8%B5%D9%88%DB%8C%D8%B1_%D8%B5%D9%86%D9%85_%D9%BE%D8%A7%D8%B4%D8%A7.jpg
+archive: https://web.archive.org/web/20261115140903/https://commons.wikimedia.org/wiki/File:%D8%AA%D8%B5%D9%88%DB%8C%D8%B1_%D8%B5%D9%86%D9%85_%D9%BE%D8%A7%D8%B4%D8%A7.jpg
 title: File:تصویر صنم پاشا.jpg - Wikimedia Commons
 status: processed
+tier: other
 ---
 
 > صنم پاشا

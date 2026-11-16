@@ -5,7 +5,7 @@ title: Tark-e Diar | Majid Salari
 status: processed
 kind: web page
 language: mul
-tier: own
+tier: discography
 ---
 
 > Vocalist: Majid Salari Composer: Dara Daraei Arranger: Hamzeh Yeganeh Poet / Lyricist: The late Ebrahim Monsefi

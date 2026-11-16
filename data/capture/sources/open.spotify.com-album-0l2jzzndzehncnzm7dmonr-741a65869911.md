@@ -3,7 +3,7 @@ url: https://open.spotify.com/album/0l2jZZNdzeHNCNzM7DMONR
 title: Songs for the Sunken - Spotify
 kind: web page
 language: en
-tier: other
+tier: discography
 about:
 - Moody Moussavi
 - Songs for the Sunken

@@ -1,9 +1,10 @@
 ---
 url: https://music.apple.com/us/album/ghasedak-single/1315559428
+archive: https://web.archive.org/web/20250526170006/https://music.apple.com/us/album/ghasedak-single/1315559428
 title: Ghasedak - Single - Album by Faarjam - Apple Music
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Faarjam
 status: processed

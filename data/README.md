@@ -102,7 +102,7 @@ any other key is allowed and ignored.
 | `url` | no | the canonical `http(s)` URL; absent only for offline sources |
 | `kind` | no | the medium; see the suggested list below |
 | `language` | no | BCP 47 tag of the content: `fa`, `en`, `mul` for mixed |
-| `tier` | no | reliability class; see the suggested list below |
+| `tier` | no | reliability class; one of the list below |
 | `author` | no | person or persons credited |
 | `publisher` | no | site, outlet, channel or label that carries it |
 | `issued` | no | publication date, a [date value](#dates) |
@@ -126,10 +126,12 @@ site is one source; each post, video or page quoted from it is its own file
 with `part of` pointing at the container, because a reference cites the
 specific post or page.
 
-**Tiers**, suggested, after the preference order in
+**Tiers**, a closed list, after the preference order in
 [Data Policies](../specs/data-policies.md#sources): `own` (the artist's or
-label's own pages, accounts and channels), `discography` (Discogs,
-MusicBrainz), `journalism`, `academic`, `wikipedia`, `other`.
+label's own pages, accounts and channels), `discography` (catalogues and
+streaming pages: Discogs, MusicBrainz, Apple Music, Spotify, SoundCloud,
+YouTube), `journalism`, `academic`, `wikipedia`, `other`. A source without
+one counts as `other`.
 
 The body is free Markdown, with one convention that matters: **a passage
 copied from the source goes in a blockquote**, word for word, in the source's
@@ -360,6 +362,13 @@ person who wrote and sang a song has one statement of each.
           accessed: 2026-10-12
 ```
 
+### Release type
+
+`release type` says what form a release takes, from the closed list under
+`terms` in the registry: `album`, `ep`, `single`, `compilation`,
+`soundtrack` or `live album`. Cite a page that states it, such as an Apple
+Music title ending "- Single"; do not infer it from the number of tracks.
+
 ### Life events
 
 A `life event` keeps one moment of a person's or act's story in the source's
@@ -477,6 +486,7 @@ Python 3 scripts under `tools/`, needing only `pyyaml` and `jsonschema`
 | Command | Does |
 | --- | --- |
 | `tools/newid.py` | print a fresh item ID |
+| `tools/archive.py` | add Wayback Machine `archive` links to processed web sources that lack one |
 | `tools/validate.py` | check `data/` against the schemas, the registry and the cross-file rules; exit 1 on any error |
 
 Each accepts `--root <dir>` to work on another root with the same layout,

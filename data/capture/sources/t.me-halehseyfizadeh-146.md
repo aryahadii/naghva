@@ -1,5 +1,6 @@
 ---
 url: https://t.me/halehseyfizadeh/146
+archive: https://web.archive.org/web/20250409045745/https://t.me/halehseyfizadeh/146
 title: شَهْر خاليست
 kind: telegram post
 language: mul

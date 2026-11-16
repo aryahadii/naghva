@@ -5,7 +5,7 @@ title: It Won't Stay The Same - Pallett
 status: processed
 kind: web page
 language: en
-tier: other
+tier: discography
 about:
 - Monicki
 - Pallett

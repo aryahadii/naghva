@@ -15,6 +15,17 @@ statements:
         - source: "open.spotify.com-album-0eohmljnllqfyim9t1bkdt"
           quote: "2001"
           accessed: "2026-10-23"
+  release type:
+  - value: album
+    references:
+    - source: music.apple.com-us-album-out-of-faze-278061932-e70e2c20247b
+      quote: |-
+        Out of Faze - Album by Sussan Deyhim - Apple Music
+      accessed: '2026-10-23'
+    - source: open.spotify.com-album-0eohmljnllqfyim9t1bkdt
+      quote: |-
+        Listen to Out of Faze - Album by Sussan Deyhim | Spotify
+      accessed: '2026-10-23'
   performer:
     - value: "Qas989e"
       references:

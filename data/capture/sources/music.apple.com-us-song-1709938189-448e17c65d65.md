@@ -2,7 +2,7 @@
 url: https://music.apple.com/us/song/1709938189
 title: ‎Nothing Lasts Forever - Song with Lyrics by Sevdaliza & Grimes - Apple Music
 status: processed
-tier: own
+tier: discography
 kind: web page
 about:
 - Sevdaliza

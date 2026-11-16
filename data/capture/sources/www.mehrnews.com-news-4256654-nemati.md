@@ -1,5 +1,6 @@
 ---
 url: https://www.mehrnews.com/news/4256654
+archive: https://web.archive.org/web/20261115164218/https://www.mehrnews.com/news/4256654/%D8%A7%D9%85%DB%8C%D8%AF%D9%86%D8%B9%D9%85%D8%AA%DB%8C-%D8%A7%D8%B2-%D8%B4%D9%86%DB%8C%D8%AF%D9%86-%D8%B5%D8%AF%D8%A7%DB%8C-%D8%AE%D9%88%D8%AF%D9%85-%D8%AE%D8%AC%D8%A7%D9%84%D8%AA-%D9%85%DB%8C-%DA%A9%D8%B4%D9%85
 title: 'امید نعمتی: از شنیدن صدای خودم خجالت می‌کشم'
 status: processed
 language: fa

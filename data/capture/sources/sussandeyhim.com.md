@@ -1,9 +1,10 @@
 ---
 url: "https://sussandeyhim.com/"
+archive: https://web.archive.org/web/20260525084408/https://sussandeyhim.com/
 title: "Sussan Deyhim"
 kind: "web page"
 language: "en"
-tier: "own"
+tier: own
 status: "processed"
 ---
 

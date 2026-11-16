@@ -1,5 +1,6 @@
 ---
 url: https://commons.wikimedia.org/wiki/File:Kaveh_Yaghmaei_4.jpg
+archive: https://web.archive.org/web/20250123143235/https://commons.wikimedia.org/wiki/File:Kaveh_Yaghmaei_4.jpg
 title: File:Kaveh_Yaghmaei_4.jpg
 kind: web page
 language: mul

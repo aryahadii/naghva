@@ -19,6 +19,17 @@ statements:
     - source: open.spotify.com-album-69c2s9zzbewj7rqjsfevsf
       quote: name="music:release_date" content="2026-10-08"
       accessed: '2026-11-08'
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-lie-to-me-single-6812031870
+      quote: |-
+        Lie to Me - Single - Album by Sara Naeini - Apple Music
+      accessed: '2026-11-08'
+    - source: open.spotify.com-album-69c2s9zzbewj7rqjsfevsf
+      quote: |-
+        Listen to Lie to Me - Single by Sara Naeini | Spotify
+      accessed: '2026-11-08'
   performer:
   - value: Qb23qew
     references:

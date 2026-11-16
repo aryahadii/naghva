@@ -3,7 +3,7 @@ url: https://soundcloud.com/miladderakhshani/sets/milad-derakhshani-live
 title: Milad Derakhshani (live) - EP — SoundCloud
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Qnjntqs
 status: processed

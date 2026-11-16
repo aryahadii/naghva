@@ -1,9 +1,10 @@
 ---
 url: https://open.spotify.com/album/2ZfpZznzhE3u4RfXEKiIm8
+archive: https://web.archive.org/web/20250711193329/https://open.spotify.com/album/2ZfpZznzhE3u4RfXEKiIm8
 title: Kamakan — Mehdi Saki — Spotify
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Kamakan
 - Q6vgcdn

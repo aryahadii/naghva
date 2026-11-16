@@ -4,7 +4,7 @@ title: "‎Dey (feat. Monicki) - Single - Album by Nik - Apple Music"
 status: processed
 kind: web page
 language: en
-tier: own
+tier: discography
 publisher: "Apple Music"
 about:
 - Qsc8kby

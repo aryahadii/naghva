@@ -2,6 +2,7 @@
 url: https://music.apple.com/us/album/deprivation/1590349448
 title: Deprivation - Album by Omid Nemati - Apple Music
 status: processed
+tier: discography
 language: en
 publisher: Apple Music
 ---

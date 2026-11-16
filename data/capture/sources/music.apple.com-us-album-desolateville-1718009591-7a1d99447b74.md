@@ -1,9 +1,11 @@
 ---
 url: https://music.apple.com/us/album/desolateville/1718009591
+archive: https://web.archive.org/web/20260314112739/https://music.apple.com/us/album/desolateville/1718009591
 title: Desolateville - Album by Kiosk - Apple Music
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > Desolateville by Kiosk on Apple Music

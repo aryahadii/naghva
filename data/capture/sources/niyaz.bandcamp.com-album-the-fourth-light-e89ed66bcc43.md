@@ -4,6 +4,7 @@ title: The Fourth Light | NIYAZ | Niyaz
 language: en
 publisher: Niyaz (Bandcamp)
 status: processed
+tier: own
 archive: https://web.archive.org/web/20260923185546/https://niyaz.bandcamp.com/album/the-fourth-light
 ---
 

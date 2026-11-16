@@ -1,5 +1,6 @@
 ---
 url: https://nesaazadikhah.bandcamp.com/track/nesa-azadikhah-40gis-aalale
+archive: https://web.archive.org/web/20261115144758/https://nesaazadikhah.bandcamp.com/track/nesa-azadikhah-40gis-aalale
 title: Nesa Azadikhah & 40gis - Aalale
 kind: web page
 language: en

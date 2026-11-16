@@ -18,6 +18,13 @@ statements:
           quote: |-
             2021-06-01
           accessed: 2026-10-18
+  release type:
+  - value: single
+    references:
+    - source: open.spotify.com-album-2a1jmm0twyd29kn8epypbz-5c578386515e
+      quote: |-
+        Listen to Ain't Our Fault - Single by Balzan | Spotify
+      accessed: '2026-10-18'
   performer:
     - value: Q2t39td
       references:

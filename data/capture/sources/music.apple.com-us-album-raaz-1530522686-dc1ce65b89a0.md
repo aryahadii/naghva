@@ -4,6 +4,7 @@ title: Raaz - Apple Music
 language: en
 publisher: Apple Music
 status: processed
+tier: discography
 ---
 
 > Raaz - Album by Hooshyar Khayam & Bamdad Afshar - Apple Music
