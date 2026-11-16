@@ -28,7 +28,7 @@ interface Props {
   description: string;
   /** The page's address after the language, as in `timeline/`. */
   path: string;
-  section?: 'home' | 'artist' | 'timeline' | 'directory' | 'about' | 'stats';
+  section?: 'home' | 'artist' | 'timeline' | 'directory' | 'about' | 'stats' | 'contribute';
   artistId?: string;
   noindex?: boolean;
   jsonld?: unknown;
@@ -152,6 +152,7 @@ const words = { ...t.search, kinds: t.kinds };
         <a href={url(lang, 'timeline')}>{t.timeline}</a>
         <a href={url(lang, 'stats')}>{t.stats}</a>
         <a href={url(lang, 'about')} aria-current={section === 'about' ? 'page' : undefined}>{t.about}</a>
+        <a href={url(lang, 'contribute')} aria-current={section === 'contribute' ? 'page' : undefined}>{t.contribute}</a>
         <a href="#content">{t.backTop}</a>
       </nav>
       <p class="footer-branding">{t.footerBranding}</p>

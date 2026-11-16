@@ -1,0 +1,37 @@
+---
+import Page from '../../layouts/Page.astro';
+import { LANGS, type Lang } from '../../lib/record';
+import { formUrl } from '../../lib/suggest';
+import '../../styles/about.css';
+
+export function getStaticPaths() {
+  return LANGS.map((lang) => ({ params: { lang } }));
+}
+
+const lang = Astro.params.lang as Lang;
+const en = lang === 'en';
+const title = en ? 'Help improve Naghva | Suggest an edit' : 'به بهتر شدن نغوا کمک کنید | پیشنهاد ویرایش';
+const description = en
+  ? 'Spotted a mistake or something missing on Naghva? Suggest an edit with a short form, or write to us.'
+  : 'اشتباهی در نغوا دیدید یا چیزی جا افتاده؟ با یک فرم کوتاه پیشنهاد ویرایش بدهید یا برایمان بنویسید.';
+const form = formUrl(lang);
+---
+
+<Page lang={lang} title={title} description={description} path="contribute/" section="contribute">
+  <main id="content" class="about contribute wrap" tabindex="-1">
+    <article aria-labelledby="contribute-heading">
+      <header class="about-intro">
+        <h1 id="contribute-heading">{en ? 'Help improve Naghva' : 'به بهتر شدن نغوا کمک کنید'}</h1>
+        <p class="about-lead">{en
+          ? 'Naghva is still growing. If something is missing or wrong, tell us.'
+          : 'نغوا هنوز در حال رشد است. اگر چیزی جا افتاده یا نادرست است، به ما بگویید.'}</p>
+      </header>
+
+      <ol id="form" class="contribute-steps">
+        <li><a class="pill contribute-cta" href={form} rel="nofollow"><svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 20h9"/><path d="M16.5 3.5a2.12 2.12 0 0 1 3 3L7 19l-4 1 1-4Z"/></svg>{en ? 'Open the form' : 'فرم را باز کنید'}</a></li>
+        <li>{en ? <>Or, if you prefer, email <a class="text-link" href="mailto:contact@naghva.com" dir="ltr">contact@naghva.com</a>.</>
+          : <>یا اگر ترجیح می‌دهید، به <a class="text-link" href="mailto:contact@naghva.com" dir="ltr">contact@naghva.com</a> ایمیل بزنید.</>}</li>
+      </ol>
+    </article>
+  </main>
+</Page>
