@@ -72,7 +72,10 @@ export async function relay(request: Request): Promise<Response> {
   let body: BodyInit | null = await request.arrayBuffer();
   const country = visitorCountry(request);
   if (country && body.byteLength <= MAX_BODY) {
-    const gzip = url.searchParams.get('compression') === 'gzip-js' || request.headers.get('content-encoding') === 'gzip';
+    // posthog-js gzips without always saying so, so look at the bytes too.
+    const bytes = new Uint8Array(body, 0, Math.min(2, body.byteLength));
+    const gzip = (bytes[0] === 0x1f && bytes[1] === 0x8b) ||
+      url.searchParams.get('compression') === 'gzip-js' || request.headers.get('content-encoding') === 'gzip';
     try {
       body = JSON.stringify(addCountry(await readPayload(body, gzip), country));
       // The rewritten body is plain JSON whatever the browser sent.

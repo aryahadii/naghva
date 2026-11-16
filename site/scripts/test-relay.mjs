@@ -60,6 +60,8 @@ test('events get the visitor country from Cloudflare, in every body format posth
   const bodies = [
     ['https://naghva.com/relay/e/?ver=1', json, {}],
     ['https://naghva.com/relay/e/?compression=gzip-js&ver=1', gzipSync(json), { 'content-encoding': 'gzip' }],
+    // What browsers actually send: gzip with no query flag or encoding header.
+    ['https://naghva.com/relay/e/', gzipSync(json), {}],
     ['https://naghva.com/relay/e/?compression=base64', `data=${encodeURIComponent(Buffer.from(json).toString('base64'))}`, {}],
     ['https://naghva.com/relay/batch/', JSON.stringify({ batch: events }), {}],
   ];
