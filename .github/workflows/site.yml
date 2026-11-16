@@ -60,7 +60,7 @@ jobs:
       - run: npm ci
       - name: Restore the image originals fetched by earlier builds
         id: media-cache
-        uses: actions/cache/restore@v4
+        uses: actions/cache/restore@v6
         with:
           path: site/media-cache
           key: media-${{ hashFiles('site/media.json') }}
@@ -77,12 +77,12 @@ jobs:
         run: npm test && npm run check
       - name: Keep the image originals for later builds, so they read nothing from R2
         if: env.NAGHVA_MEDIA_REQUIRED == '1' && steps.media-cache.outputs.cache-hit != 'true'
-        uses: actions/cache/save@v4
+        uses: actions/cache/save@v6
         with:
           path: site/media-cache
           key: media-${{ hashFiles('site/media.json') }}
       - name: Restore Playwright's Chromium
-        uses: actions/cache@v4
+        uses: actions/cache@v6
         with:
           path: ~/.cache/ms-playwright
           key: playwright-${{ runner.os }}-${{ hashFiles('site/package-lock.json') }}
