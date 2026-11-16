@@ -98,6 +98,28 @@
     "creditedTo": "by {names}",
     "with": "with {names}"
   },
+  "share": {
+    "share": "Share",
+    "close": "Close",
+    "text": "{name} on Naghva",
+    "story": "Instagram",
+    "storyTitle": "Share an image of this artist to Instagram",
+    "telegram": "Telegram",
+    "whatsapp": "WhatsApp",
+    "x": "X",
+    "facebook": "Facebook",
+    "more": "More",
+    "copy": "Copy",
+    "copied": "Copied",
+    "copyManual": "Press Ctrl+C (⌘C on a Mac) to copy the link.",
+    "ready": "The image is ready. Tap Instagram again.",
+    "preparing": "Making the image…",
+    "storyPhone": "Choose Instagram. The link is copied: in a story, paste it into a Link sticker.",
+    "storyPhoneNoCopy": "Choose Instagram. To link a story to this page, copy the link below and use a Link sticker.",
+    "storyDesktop": "Image downloaded and link copied. Post it to Instagram from your phone; in a story, add the link with a Link sticker.",
+    "storyDesktopNoCopy": "Image downloaded. Post it to Instagram from your phone; in a story, add the link below with a Link sticker.",
+    "failed": "This browser couldn't make the image."
+  },
   "release": {
     "release": "Release",
     "dateDisagreement": "Sources give different dates; an edition date may differ from the original release.",

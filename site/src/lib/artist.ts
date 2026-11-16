@@ -55,6 +55,7 @@ const RESERVED = new Set([
   'overview', 'recordings', 'life', 'events', 'sources', 'article', 'contents', 'content',
   'contents-title', 'catalog', 'catalog-tools', 'catalog-query', 'catalog-sort', 'catalog-count',
   'catalog-reset', 'catalog-empty', 'catalog-expand', 'event-list', 'cite-pop', 'release-dialog', 'photo-dialog',
+  'share-menu', 'share-heading',
 ]);
 const RESERVED_FORMS = /^(source-\d+|q\d+|search-.*|.*-title)$/;
 

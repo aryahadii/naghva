@@ -7,6 +7,7 @@ import ReleaseCard from '../../components/ReleaseCard.astro';
 import ReleasePanel from '../../components/ReleasePanel.astro';
 import ShelfControls from '../../components/ShelfControls.astro';
 import SourceList from '../../components/SourceList.astro';
+import ShareButton from '../../components/ShareButton.astro';
 import gardenRail from '../../assets/art/garden-rail.png';
 import { artistView } from '../../lib/artist';
 import { nameHtml, textAttrs } from '../../lib/html';
@@ -68,7 +69,12 @@ const contents = [
           <p class="kicker" set:html={view.kicker} />
           <h1 class="artist-name" {...textAttrs(view.name, lang)}>{view.name.text}</h1>
           {view.other && <p class="artist-name-alt" {...textAttrs(view.other, lang)}>{view.other.text}</p>}
-          <a class="text-link timeline-link" href={`${url(lang, 'timeline')}?artist=${encodeURIComponent(artist.page!)}`}>{t.artist.onTimeline}</a>
+          <div class="title-links">
+            <a class="pill title-action" href={`${url(lang, 'timeline')}?artist=${encodeURIComponent(artist.page!)}`} aria-label={t.artist.onTimeline} title={t.artist.onTimeline}>
+              <svg class="title-glyph timeline-glyph" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M3 3v16a2 2 0 0 0 2 2h16M10 6h8M8 11h7M12 16h6" /></svg>
+            </a>
+            <ShareButton lang={lang} address={new URL(`/${lang}/${artist.page}/`, Astro.site).href} name={view.name} other={view.other} kicker={view.kicker} photo={view.photo?.image ?? null} />
+          </div>
         </div>
         <Infobox lang={lang} facts={view.facts} photo={view.photo && { ...view.photo, alt: name }} />
         {view.lead && <div class="lead prose" set:html={view.lead} />}
