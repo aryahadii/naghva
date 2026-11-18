@@ -105,7 +105,7 @@ export function artistJsonLd(
 }
 
 /** Where Naghva is kept besides its own site; a search engine reads these as the same organisation. */
-const NAGHVA_ELSEWHERE = ['https://www.wikidata.org/wiki/Q142171475', REPOSITORY];
+const NAGHVA_ELSEWHERE = [REPOSITORY];
 
 /**
  * The site and who publishes it, under both names: a search engine takes the site's name from
