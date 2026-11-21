@@ -1,0 +1,63 @@
+id: Qcydv5g
+type: release
+statements:
+  name:
+  - value:
+      text: 10-string Guitar Improvisation (live in Zurich)
+      language: en
+    references:
+    - source: www.youtube.com-watch-v-exwmrn430k8
+      quote: Pouya Mahmoodi 10string guitar Improvisation
+      accessed: '2026-11-21'
+      locator: Label upload title
+  performer:
+  - value: Qjwhj2t
+    references:
+    - source: www.youtube.com-watch-v-exwmrn430k8
+      quote: Pouya Mahmoodi 10string guitar Improvisation
+      accessed: '2026-11-21'
+      locator: Label upload title
+  - value: Qkx3jpf
+    qualifiers:
+      role:
+      - bass
+    references:
+    - source: www.youtube.com-watch-v-exwmrn430k8
+      quote: Luca Leombruni
+      accessed: '2026-11-21'
+      locator: Named concert performers
+  - value: Qgx2z33
+    qualifiers:
+      role:
+      - drums
+    references:
+    - source: www.youtube.com-watch-v-exwmrn430k8
+      quote: Remo Signer
+      accessed: '2026-11-21'
+      locator: Named concert performers
+  listen link:
+  - value: https://www.youtube.com/watch?v=eXwmRn430K8
+    references:
+    - source: www.youtube.com-watch-v-exwmrn430k8
+      quote: Pouya Mahmoodi 10string guitar Improvisation
+      accessed: '2026-11-21'
+      locator: Label upload title
+  cover art:
+  - value: https://i.ytimg.com/vi/eXwmRn430K8/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AHeAoACoAKKAgwIABABGHIgUig8MA8=&rs=AOn4CLAxOG639vdAjwb89Mf22cHsGZ0SkA
+    qualifiers:
+      credit:
+        text: Faryaad Records on YouTube
+        language: en
+    references:
+    - source: www.youtube.com-watch-v-exwmrn430k8
+      quote: https://i.ytimg.com/vi/eXwmRn430K8/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AHeAoACoAKKAgwIABABGHIgUig8MA8=&rs=AOn4CLAxOG639vdAjwb89Mf22cHsGZ0SkA
+      accessed: '2026-11-21'
+      locator: Original upload image
+  release date:
+  - value:
+      date: '2007-12-05'
+    references:
+    - source: www.youtube.com-watch-v-exwmrn430k8
+      quote: '2007-12-05'
+      accessed: '2026-11-21'
+      locator: Original video publication

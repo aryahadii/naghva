@@ -1,0 +1,27 @@
+id: Qqdz97v
+type: person
+statements:
+  name:
+  - value:
+      text: Aref Ahmadi
+      language: en
+    references:
+    - source: open.spotify.com-artist-3gnvv8s9qthwvbtxiulk0y
+      quote: Aref Ahmadi
+      accessed: 2026-11-21
+      locator: Musician name
+  - value:
+      text: Hashill
+      language: en
+    references:
+    - source: open.spotify.com-artist-3gnvv8s9qthwvbtxiulk0y
+      quote: Iranian-born Aref Ahmadi (Hashill)
+      accessed: 2026-11-21
+      locator: name
+  member of:
+  - value: Qzfcfre
+    references:
+    - source: radiotrails.com-2019-09-06-qa-psychic-bloom
+      quote: I did the songwriting, vocals and played the guitar
+      accessed: 2026-11-21
+      locator: ah

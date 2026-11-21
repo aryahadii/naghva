@@ -1,0 +1,51 @@
+id: Qws26h3
+type: release
+statements:
+  name:
+  - value:
+      text: ترانه ای که نخواهم سرود من هرگز (pre-master)
+      language: fa
+    references:
+    - source: soundcloud.com-migrain-lorca
+      quote: Stream ترانه ای که نخواهم سرود من هرگز (pre-master) by Migrain Sq. | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qbkmbta
+    references:
+    - source: soundcloud.com-migrain-lorca
+      quote: Stream ترانه ای که نخواهم سرود من هرگز (pre-master) by Migrain Sq. | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qgncp5r
+    references:
+    - source: soundcloud.com-migrain
+      quote: The Iranian trio consists of "Pouya Pour-Amin" , "Nima Aghiani" and "Sara Bigdeli Shamloo"
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://soundcloud.com/migrain/lorca
+    references:
+    - source: soundcloud.com-migrain-lorca
+      quote: Stream ترانه ای که نخواهم سرود من هرگز (pre-master) by Migrain Sq. | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2013-02-15'
+    references:
+    - source: soundcloud.com-migrain-lorca
+      quote: '2013-02-15T20:33:58Z'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  cover art:
+  - value: https://i1.sndcdn.com/avatars-000005776807-ab73qd-t500x500.jpg
+    references:
+    - source: soundcloud.com-migrain-lorca
+      quote: https://i1.sndcdn.com/avatars-000005776807-ab73qd-t500x500.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: SoundCloud
+        language: en

@@ -1,0 +1,45 @@
+id: Qdw6fjm
+type: release
+statements:
+  name:
+  - value:
+      text: HR
+      language: en
+    references:
+    - source: soundcloud.com-nima-aghiani-hr1
+      quote: Stream HR by Nima Aghiani | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qgncp5r
+    references:
+    - source: soundcloud.com-nima-aghiani-hr1
+      quote: Stream HR by Nima Aghiani | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://soundcloud.com/nima-aghiani/hr1
+    references:
+    - source: soundcloud.com-nima-aghiani-hr1
+      quote: Stream HR by Nima Aghiani | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2013-02-04'
+    references:
+    - source: soundcloud.com-nima-aghiani-hr1
+      quote: '2013-02-04T23:44:30Z'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-000039958487-jmimfd-t500x500.jpg
+    references:
+    - source: soundcloud.com-nima-aghiani-hr1
+      quote: https://i1.sndcdn.com/artworks-000039958487-jmimfd-t500x500.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: SoundCloud
+        language: en

@@ -3,10 +3,78 @@ type: person
 statements:
   name:
   - value:
+      text: Bahar Badiei
+      language: en
+    references:
+    - source: www.baharbadiei.com
+      quote: Bahar Badiei
+      locator: Artist, native recording or label documentation
+      accessed: '2026-11-21'
+  - value:
+      text: بهار بدیعی‌تبار
+      language: fa
+    references:
+    - source: www.youtube.com-watchv-m7wzpls54fo
+      quote: بهار بدیعی‌تبار
+      locator: Artist, native recording or label documentation
+      accessed: '2026-11-21'
+  - value:
       text: Bahar Badieitabar
       language: en
     references:
-    - source: static1.squarespace.com-static-5dc72847c64bbb6f82e742f3-t-662c1cbe6f4f842cf454624e-1714166975169-cat-optimized.pdf
+    - source: remix.berklee.edu-graduate-studies-global-jazz-178
       quote: Bahar Badieitabar
-      locator: Musician, broadcaster, artist or recording credits
+      locator: Artist, native recording or label documentation
       accessed: '2026-11-21'
+  image:
+  - value: https://yt3.googleusercontent.com/ytc/AIdro_mHQCaWrPRAefi-4mjEqP00TuezjkCL5u31sHTN0uCzsEdb=s900-c-k-c0x00ffffff-no-rj
+    references:
+    - source: www.youtube.com-channel-ucu9pca1sksgah4ndxhmrn1w-videos
+      quote: https://yt3.googleusercontent.com/ytc/AIdro_mHQCaWrPRAefi-4mjEqP00TuezjkCL5u31sHTN0uCzsEdb=s900-c-k-c0x00ffffff-no-rj
+      locator: Artist, native recording or label documentation
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Bahar Badiei · artist channel portrait
+        language: en
+  profile link:
+  - value: https://www.youtube.com/channel/UCU9Pca1sksGaH4NDxhMRN1w
+    references:
+    - source: www.baharbadiei.com
+      quote: https://www.youtube.com/channel/UCU9Pca1sksGaH4NDxhMRN1w
+      locator: Artist, native recording or label documentation
+      accessed: '2026-11-21'
+  based in:
+  - value: Qqywtjg
+    references:
+    - source: www.baharbadiei.com
+      quote: New York-based oudist
+      locator: Artist, native recording or label documentation
+      accessed: '2026-11-21'
+  member of:
+  - value: Qv446d6
+    references:
+    - source: www.zambracollective.com
+      quote: Bahar Badiei on Oud, Vocals and Compositions
+      locator: Artist, native recording or label documentation
+      accessed: '2026-11-21'
+    qualifiers:
+      role:
+      - oud
+      - vocals
+  - value: Q87wshb
+    references:
+    - source: www.shirazensemble.com-people
+      quote: Bahar Badiei
+      locator: Artist, native recording or label documentation
+      accessed: '2026-11-21'
+    qualifiers:
+      role: oud
+  - value: Qnjb3q4
+    references:
+    - source: www.baharbadiei.com-blank
+      quote: member of Danilo Pérez's Global Jazz Messengers
+      locator: Artist interview, recording credits or commissioning programme
+      accessed: '2026-11-21'
+    qualifiers:
+      role: oud

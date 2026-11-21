@@ -1,0 +1,57 @@
+id: Qgzb4ry
+type: release
+statements:
+  name:
+  - value:
+      text: Attract/Repulse
+      language: en
+    references:
+    - source: zabtesote.bandcamp.com-track-attract-repulse
+      quote: Attract/Repulse | Nima Aghiani | Zabte Sote
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qgncp5r
+    references:
+    - source: zabtesote.bandcamp.com-album-convergence-zone
+      quote: Convergence Zone | Nima Aghiani | Zabte Sote
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://zabtesote.bandcamp.com/track/attract-repulse
+    references:
+    - source: zabtesote.bandcamp.com-track-attract-repulse
+      quote: Attract/Repulse | Nima Aghiani | Zabte Sote
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/attract-repulse/1809743465
+    references:
+    - source: music.apple.com-us-song-attract-repulse-1809743465
+      quote: ‎Attract/Repulse - Song with Lyrics by Nima Aghiani - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/7hKGTszZTrtBuQToeDg0VC
+    references:
+    - source: open.spotify.com-track-7hkgtszztrtbuqtoedg0vc
+      quote: Attract/Repulse - song and lyrics by Nima Aghiani | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2019-09-06'
+    references:
+    - source: zabtesote.bandcamp.com-album-convergence-zone
+      quote: released September 6, 2019
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a0078217093_10.jpg
+    references:
+    - source: zabtesote.bandcamp.com-track-attract-repulse
+      quote: https://f4.bcbits.com/img/a0078217093_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Zabte Sote
+        language: en

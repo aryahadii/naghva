@@ -1,0 +1,60 @@
+id: Qedjss6
+type: release
+statements:
+  name:
+  - value:
+      text: Bizaman_بی زمان
+      language: fa
+    references:
+    - source: naghmehs.bandcamp.com-track-bizaman
+      quote: Bizaman_بی زمان
+      accessed: '2026-11-21'
+      locator: Vocalist’s original issue
+  performer:
+  - value: Qckkkx8
+    qualifiers:
+      role:
+      - vocals
+    references:
+    - source: naghmehs.bandcamp.com-track-bizaman
+      quote: 'Words and Vocals: Naghmeh Sharifi'
+      accessed: '2026-11-21'
+      locator: Original credits
+  listen link:
+  - value: https://naghmehs.bandcamp.com/track/bizaman
+    references:
+    - source: naghmehs.bandcamp.com-track-bizaman
+      quote: Bizaman_بی زمان
+      accessed: '2026-11-21'
+      locator: Vocalist’s original issue
+  contributor:
+  - value: Qjwhj2t
+    qualifiers:
+      role:
+      - producer
+      - composer
+      - arranger
+    references:
+    - source: naghmehs.bandcamp.com-track-bizaman
+      quote: 'Production, Composition and Arrangement: Pouya Mahmoodi'
+      accessed: '2026-11-21'
+      locator: Original credits
+  cover art:
+  - value: https://f4.bcbits.com/img/a3089339291_5.jpg
+    qualifiers:
+      credit:
+        text: Naghmeh Sharifi on Bandcamp
+        language: en
+    references:
+    - source: naghmehs.bandcamp.com-track-bizaman
+      quote: https://f4.bcbits.com/img/a3089339291_5.jpg
+      accessed: '2026-11-21'
+      locator: Vocalist-published cover
+  release date:
+  - value:
+      date: '2018-11-18'
+    references:
+    - source: naghmehs.bandcamp.com-track-bizaman
+      quote: 18 Nov 2018 00:00:00 GMT
+      accessed: '2026-11-21'
+      locator: Bandcamp publication

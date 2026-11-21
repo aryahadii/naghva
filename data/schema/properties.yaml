@@ -101,8 +101,10 @@ properties:
       - yt3.googleusercontent.com
       # Archived images still require original artist, label or organizer provenance.
       - web.archive.org
+      - contemporaryiranian.com
       - upload.wikimedia.org
       - static.wixstatic.com
+      - www.salimworld.com
       - www.farhadmehrad.org
       - images.zoogletools.com
       - images.ctfassets.net
@@ -188,6 +190,7 @@ terms:
     - oud
     - double bass
     - synthesizer
+    - electronics
     - violin
     - viola
     - cello
@@ -199,6 +202,7 @@ terms:
     - trumpet
     - trombone
     - santur
+    - qanun
     - setar
     - tar
     - daf

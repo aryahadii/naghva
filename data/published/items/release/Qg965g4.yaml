@@ -1,0 +1,69 @@
+id: Qg965g4
+type: release
+statements:
+  name:
+  - value:
+      text: Yadesh Bekhair
+      language: en
+    references:
+    - source: music.apple.com-us-song-yadesh-bekhair-feat-arif-mirbaghi-kaveh-ghaffari-farhad-1773652117
+      quote: ‎Yadesh Bekhair (feat. Arif Mirbaghi, Kaveh Ghaffari & Farhad Asadi) - Song with Lyrics by Cheshmak - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qm3fd5c
+    references:
+    - source: music.apple.com-us-album-avalin-cheshmak-ep-1773652106
+      quote: Cheshmak
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Qffwb2b
+    references:
+    - source: music.apple.com-us-album-avalin-cheshmak-ep-1773652106
+      quote: Arif Mirbaghi
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Q5b4hz2
+    references:
+    - source: music.apple.com-us-album-avalin-cheshmak-ep-1773652106
+      quote: Kaveh Ghaffari
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Qpssbgw
+    references:
+    - source: music.apple.com-us-album-avalin-cheshmak-ep-1773652106
+      quote: Farhad Asadi
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  release date:
+  - value:
+      date: '2024-10-22'
+    references:
+    - source: music.apple.com-us-album-avalin-cheshmak-ep-1773652106
+      quote: October 22, 2024
+      accessed: '2026-11-21'
+      locator: Published date
+  listen link:
+  - value: https://music.apple.com/us/song/yadesh-bekhair-feat-arif-mirbaghi-kaveh-ghaffari-farhad/1773652117
+    references:
+    - source: music.apple.com-us-song-yadesh-bekhair-feat-arif-mirbaghi-kaveh-ghaffari-farhad-1773652117
+      quote: ‎Yadesh Bekhair (feat. Arif Mirbaghi, Kaveh Ghaffari & Farhad Asadi) - Song with Lyrics by Cheshmak - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/501GC3mEkYdFHG8y9MZCpQ
+    references:
+    - source: open.spotify.com-track-501gc3mekydfhg8y9mzcpq
+      quote: Yadesh Bekhair - song and lyrics by Cheshmak, Arif Mirbaghi, Kaveh Ghaffari, Farhad Asadi | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5f/8a/a6/5f8aa6c3-a129-fb73-426c-fa8410182c4a/7300342506356.jpg/600x600bb.webp
+    references:
+    - source: music.apple.com-us-song-yadesh-bekhair-feat-arif-mirbaghi-kaveh-ghaffari-farhad-1773652117
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5f/8a/a6/5f8aa6c3-a129-fb73-426c-fa8410182c4a/7300342506356.jpg/600x600bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Qame Feraq
+        language: en

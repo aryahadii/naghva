@@ -40,3 +40,11 @@ Artist interview, biography or performance credits, read 2026-11-21.
 > Neda reunites with the musicians of Cheshmak for a session here in Toronto.
 
 Artist interview, biography or performance credits, read 2026-11-21.
+
+> first met and created music with the band in Tehran during the pandemic
+
+Artist interview, biography or performance credits, read 2026-11-21.
+
+> psychedelic renditions of Turkish & Afghan songs
+
+Artist interview, biography or performance credits, read 2026-11-21.

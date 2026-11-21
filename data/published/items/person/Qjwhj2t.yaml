@@ -27,3 +27,51 @@ statements:
       quote: Pouya Mahmoodi
       accessed: '2026-11-21'
       locator: List of musicians in the original Hermes booklet
+  - value: Qjg7yfc
+    qualifiers:
+      role:
+      - guitar
+    references:
+    - source: contemporaryiranian.com-artists-music-karaj-collective
+      quote: 'Pouya Mahmoudi: Guitar'
+      accessed: '2026-11-21'
+      locator: Karaj personnel
+  - value: Qf3hzjj
+    qualifiers:
+      role:
+      - guitar
+    references:
+    - source: www.youtube.com-watch-v-0ldmzjumbaq
+      quote: 'Saffron Moon: Pouya Mahmoodi & Hamed Derakhshan'
+      accessed: '2026-11-21'
+      locator: Artist lineup
+  image:
+  - value: https://contemporaryiranian.com/wp-content/uploads/2012/03/pouya-mahmoudi.jpg
+    qualifiers:
+      credit:
+        text: Contemporary Iranian
+        language: en
+    references:
+    - source: contemporaryiranian.com-artists-music-pouya-mahmoudi
+      quote: https://contemporaryiranian.com/wp-content/uploads/2012/03/pouya-mahmoudi.jpg
+      accessed: '2026-11-21'
+      locator: Concert organizer artist profile photograph
+  profile link:
+  - value: https://music.apple.com/us/artist/pouya-mahmoodi/275174376
+    references:
+    - source: music.apple.com-us-artist-pouya-mahmoodi-275174376
+      quote: ‎Pouya Mahmoodi - Apple Music
+      accessed: '2026-11-21'
+      locator: Named artist profile
+  - value: https://open.spotify.com/artist/6cCPlGVonDxxrlYs0mDwRI
+    references:
+    - source: open.spotify.com-embed-artist-6ccplgvondxxrlys0mdwri
+      quote: Pouya Mahmoodi - Top tracks | Spotify
+      accessed: '2026-11-21'
+      locator: Named artist profile
+  - value: https://soundcloud.com/pouyamahmoodi
+    references:
+    - source: soundcloud.com-pouyamahmoodi-tracks
+      quote: Stream Pouya Mahmoodi | Listen to music albums online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Named artist profile

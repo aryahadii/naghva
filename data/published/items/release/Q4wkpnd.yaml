@@ -1,0 +1,75 @@
+id: Q4wkpnd
+type: release
+statements:
+  name:
+  - value:
+      text: Scuzzy Drive
+      language: en
+    references:
+    - source: skill.bandcamp.com-track-scuzzy-drive
+      quote: Scuzzy Drive | Friendly Rich & Cheshmak | Skill
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qm3fd5c
+    references:
+    - source: skill.bandcamp.com-album-a-bruised-sunset
+      quote: Cheshmak
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Q5sze9a
+    references:
+    - source: skill.bandcamp.com-album-a-bruised-sunset
+      quote: Friendly Rich – guitar & voice
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Qffwb2b
+    references:
+    - source: skill.bandcamp.com-album-a-bruised-sunset
+      quote: Arif Mirabdolbaghi
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Q5b4hz2
+    references:
+    - source: skill.bandcamp.com-album-a-bruised-sunset
+      quote: Kaveh Ghaffari
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Qpssbgw
+    references:
+    - source: skill.bandcamp.com-album-a-bruised-sunset
+      quote: Farhad Asadi
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  release date:
+  - value:
+      date: '2026-05-29'
+    references:
+    - source: skill.bandcamp.com-album-a-bruised-sunset
+      quote: released May 29, 2026
+      accessed: '2026-11-21'
+      locator: Published date
+  listen link:
+  - value: https://skill.bandcamp.com/track/scuzzy-drive
+    references:
+    - source: skill.bandcamp.com-track-scuzzy-drive
+      quote: Scuzzy Drive | Friendly Rich & Cheshmak | Skill
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/4YZGWtJAbOvv73l6Zvel2A
+    references:
+    - source: open.spotify.com-track-4yzgwtjabovv73l6zvel2a
+      quote: Scuzzy Drive - song and lyrics by Friendly Rich, Cheshmak | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a2260188819_10.jpg
+    references:
+    - source: skill.bandcamp.com-track-scuzzy-drive
+      quote: https://f4.bcbits.com/img/a2260188819_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Skill Recordings
+        language: en

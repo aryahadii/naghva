@@ -1,0 +1,62 @@
+id: Q7tze3f
+type: release
+statements:
+  name:
+  - value:
+      text: 4. Silver as in Silence
+      language: en
+    references:
+    - source: 9tantiope.bandcamp.com-track-4-silver-as-in-silence
+      quote: 4. Silver as in Silence | 9T Antiope and Siavash Amini | 9T Antiope
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qyv32ms
+    references:
+    - source: 9tantiope.bandcamp.com-album-harmistice-2
+      quote: Harmistice | 9T Antiope and Siavash Amini | 9T Antiope
+      accessed: '2026-11-21'
+      locator: Page title
+  contributor:
+  - value: Qgncp5r
+    references:
+    - source: 9tantiope.bandcamp.com-album-harmistice-2
+      quote: All music by Siavash Amini and Nima Aghiani
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: composer
+  - value: Q97bqaq
+    references:
+    - source: 9tantiope.bandcamp.com-album-harmistice-2
+      quote: All music by Siavash Amini and Nima Aghiani
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: composer
+  listen link:
+  - value: https://9tantiope.bandcamp.com/track/4-silver-as-in-silence
+    references:
+    - source: 9tantiope.bandcamp.com-track-4-silver-as-in-silence
+      quote: 4. Silver as in Silence | 9T Antiope and Siavash Amini | 9T Antiope
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2019-06-07'
+    references:
+    - source: 9tantiope.bandcamp.com-album-harmistice-2
+      quote: released June 7, 2019
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a3445776915_10.jpg
+    references:
+    - source: 9tantiope.bandcamp.com-track-4-silver-as-in-silence
+      quote: https://f4.bcbits.com/img/a3445776915_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: 9T Antiope
+        language: en

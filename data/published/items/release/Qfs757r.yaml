@@ -1,0 +1,59 @@
+id: Qfs757r
+type: release
+statements:
+  name:
+  - value:
+      text: Grimace
+      language: en
+    references:
+    - source: 9tantiope.bandcamp.com-album-grimace
+      quote: Grimace | 9T Antiope
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qyv32ms
+    references:
+    - &id001
+      source: 9tantiope.bandcamp.com-album-grimace
+      quote: Grimace | 9T Antiope
+      accessed: '2026-11-21'
+      locator: Page title
+  contributor:
+  - value: Qgncp5r
+    references:
+    - source: 9tantiope.bandcamp.com-album-grimace
+      quote: 'Composer: Nima Aghiani'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: composer
+  listen link:
+  - value: https://9tantiope.bandcamp.com/album/grimace
+    references:
+    - source: 9tantiope.bandcamp.com-album-grimace
+      quote: Grimace | 9T Antiope
+      accessed: '2026-11-21'
+      locator: Page title
+  release type:
+  - value: album
+    references:
+    - *id001
+  release date:
+  - value:
+      date: '2019-09-09'
+    references:
+    - source: 9tantiope.bandcamp.com-album-grimace
+      quote: released September 9, 2019
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a1346749402_10.jpg
+    references:
+    - source: 9tantiope.bandcamp.com-album-grimace
+      quote: https://f4.bcbits.com/img/a1346749402_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: 9T Antiope
+        language: en

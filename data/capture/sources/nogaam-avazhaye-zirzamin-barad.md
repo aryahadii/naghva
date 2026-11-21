@@ -6,6 +6,7 @@ tier: journalism
 language: fa
 about:
 - Barad
+- Pouya Mahmoodi
 status: processed
 ---
 
@@ -24,3 +25,15 @@ How Hermes heard the demos, p. 429, read 2026-11-21.
 > قطعه‌ای که پویا نوشته تغییر دهند تا برای یک گروه موسیقی راک قابل اجرا شود.
 
 Nabavi, p. 428, on how Saboktakin, Naeeni and Moghadam adapted Mahmoodi’s music, read 2026-11-21.
+
+> پویا محمودی (گیتار الکتریک)
+
+Nabavi, printed pp. 421–422, read 2026-11-21.
+
+> کنسرتی در آموزشگاه موسیقی ترانه تهران در اوایل سال 2006
+
+Nabavi, printed p. 422, read 2026-11-21.
+
+> با عنوان «میرا» دوباره دست به ساخت و تنظیم چند قطعه موسیقی دیگر زدند
+
+Nabavi, printed p. 422, read 2026-11-21.

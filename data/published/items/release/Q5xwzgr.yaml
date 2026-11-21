@@ -1,0 +1,56 @@
+id: Q5xwzgr
+type: release
+statements:
+  name:
+  - value:
+      text: Serpent Shoulder
+      language: en
+    references:
+    - source: music.apple.com-us-album-sovereign-261484709
+      quote: Serpent Shoulder
+      accessed: 2026-11-21
+      locator: Published recording or album
+  listen link:
+  - value: https://music.apple.com/us/song/serpent-shoulder/261485034
+    references:
+    - source: music.apple.com-us-album-sovereign-261484709
+      quote: Serpent Shoulder
+      accessed: 2026-11-21
+      locator: Published recording or album
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music/9f/da/ac/dj.pnbclxhw.tif/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-sovereign-261484709
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music/9f/da/ac/dj.pnbclxhw.tif/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Digital artwork
+  release date:
+  - value:
+      date: '2003-04-28'
+    references:
+    - source: music.apple.com-us-album-sovereign-261484709
+      quote: '2003-04-28'
+      accessed: 2026-11-21
+      locator: Digital edition date
+  performer:
+  - value: Q93d39e
+    references:
+    - source: music.apple.com-us-album-sovereign-261484709
+      quote: Arashk
+      accessed: 2026-11-21
+      locator: Billed band
+  - value: Qp3beww
+    references:
+    - source: salimworld.com-music-sovereign
+      quote: 'Composed/Performed: Salim Ghazi Saeedi'
+      accessed: 2026-11-21
+      locator: Composer and player’s published credits
+  contributor:
+  - value: Qp3beww
+    qualifiers:
+      role: composer
+    references:
+    - source: salimworld.com-music-sovereign
+      quote: 'Composed/Performed: Salim Ghazi Saeedi'
+      accessed: 2026-11-21
+      locator: Composer and player’s published credits

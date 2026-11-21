@@ -1,0 +1,62 @@
+id: Q444gjs
+type: release
+statements:
+  name:
+  - value:
+      text: Ready Player One
+      language: en
+    references:
+    - source: 9tantiope.bandcamp.com-track-ready-player-one
+      quote: Ready Player One | 9T Antiope
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qyv32ms
+    references:
+    - source: 9tantiope.bandcamp.com-album-horror-vacui
+      quote: Horror Vacui | 9T Antiope
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qgncp5r
+    references:
+    - source: 9tantiope.bandcamp.com-album-horror-vacui
+      quote: Violin, octave Violin and octave mandolin performed by Nima Aghiani
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: violin
+  contributor:
+  - value: Qgncp5r
+    references:
+    - source: 9tantiope.bandcamp.com-album-horror-vacui
+      quote: Music composed and produced by Nima Aghiani
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: composer
+  listen link:
+  - value: https://9tantiope.bandcamp.com/track/ready-player-one
+    references:
+    - source: 9tantiope.bandcamp.com-track-ready-player-one
+      quote: Ready Player One | 9T Antiope
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2024-04-12'
+    references:
+    - source: 9tantiope.bandcamp.com-album-horror-vacui
+      quote: released April 12, 2024
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a1845036927_10.jpg
+    references:
+    - source: 9tantiope.bandcamp.com-track-ready-player-one
+      quote: https://f4.bcbits.com/img/a1845036927_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: 9T Antiope
+        language: en

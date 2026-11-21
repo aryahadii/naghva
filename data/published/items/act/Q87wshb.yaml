@@ -10,3 +10,21 @@ statements:
       quote: Shiraz Ensemble
       locator: Musician, broadcaster, artist or recording credits
       accessed: '2026-11-21'
+  based in:
+  - value: Qsccg5n
+    references:
+    - source: www.shirazensemble.com
+      quote: Philadelphia-based contemporary music ensemble
+      locator: Founders’ records, ensemble programme or broadcaster credits
+      accessed: '2026-11-21'
+  image:
+  - value: https://i.ytimg.com/vi/y0_LhkqYz58/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-y0_lhkqyz58
+      quote: https://i.ytimg.com/vi/y0_LhkqYz58/hqdefault.jpg
+      locator: Founders’ records, ensemble programme or broadcaster credits
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Fire Museum Presents · founding duo at University Lutheran
+        language: en

@@ -1,0 +1,63 @@
+id: Qg82ybs
+type: release
+statements:
+  name:
+  - value:
+      text: Hamzad
+      language: en
+    references:
+    - source: music.apple.com-us-song-hamzad-6835179548
+      quote: ‎Hamzad - Song with Lyrics by Nima Aghiani - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qgncp5r
+    references:
+    - source: music.apple.com-us-song-hamzad-6835179548
+      quote: ‎Hamzad - Song with Lyrics by Nima Aghiani - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://music.apple.com/us/song/hamzad/6835179548
+    references:
+    - source: music.apple.com-us-song-hamzad-6835179548
+      quote: ‎Hamzad - Song with Lyrics by Nima Aghiani - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/36KkU8yNLcL3nVd6S2uovt
+    references:
+    - source: open.spotify.com-track-36kku8ynlcl3nvd6s2uovt
+      quote: Hamzad - song and lyrics by Nima Aghiani | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/nima-aghiani/hamzad-2
+    references:
+    - source: soundcloud.com-nima-aghiani-hamzad-2
+      quote: Stream Hamzad by Nima Aghiani | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://lowzirecords.bandcamp.com/track/hamzad
+    references:
+    - source: lowzirecords.bandcamp.com-track-hamzad
+      quote: Hamzad | Nima Aghiani | Low-Zi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2026-11-15'
+    references:
+    - source: music.apple.com-us-song-hamzad-6835179548
+      quote: November 15, 2026
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2f/7e/98/2f7e9889-686d-cbc9-a807-e5dcca0a0518/7333596955281.jpg/600x600bb.webp
+    references:
+    - source: music.apple.com-us-song-hamzad-6835179548
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2f/7e/98/2f7e9889-686d-cbc9-a807-e5dcca0a0518/7333596955281.jpg/600x600bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en

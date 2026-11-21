@@ -1,0 +1,78 @@
+id: Q9k7kpd
+type: release
+statements:
+  name:
+  - value:
+      text: Nooshoo Ray
+      language: en
+    references:
+    - source: music.apple.com-us-album-jens-sevom-1449339768
+      quote: Nooshoo Ray
+      accessed: '2026-11-21'
+      locator: Original album sequence
+  performer:
+  - value: Qjwhj2t
+    qualifiers:
+      role:
+      - guitar
+    references:
+    - source: www.youtube.com-watch-v-j1u0adi_kli
+      quote: 'Guitar: Pouya Mahmoodi'
+      accessed: '2026-11-21'
+      locator: Artist’s song-specific published credits
+  - value: Qn7vfak
+    qualifiers:
+      role:
+      - vocals
+    references:
+    - source: www.youtube.com-watch-v-j1u0adi_kli
+      quote: 'Vocals: Shahin Najafi'
+      accessed: '2026-11-21'
+      locator: Song credits
+  - value: Q49prrc
+    qualifiers:
+      role:
+      - percussion
+    references:
+    - source: www.youtube.com-watch-v-j1u0adi_kli
+      quote: 'Percussion: Habib Meftah'
+      accessed: '2026-11-21'
+      locator: Song credits
+  listen link:
+  - value: https://music.apple.com/us/song/nooshoo-ray/1449339770
+    references:
+    - source: music.apple.com-us-album-jens-sevom-1449339768
+      quote: https://music.apple.com/us/song/nooshoo-ray/1449339770
+      accessed: '2026-11-21'
+      locator: Track link
+  - value: https://www.youtube.com/watch?v=j1U0aDI_klI
+    references:
+    - source: www.youtube.com-watch-v-j1u0adi_kli
+      quote: Shahin Najafi - Nooshoo Ray (Album Jens Sevom) نوشو ری - آلبوم جنس سوم شاهین نجفی
+      accessed: '2026-11-21'
+      locator: Artist’s original upload
+  - value: https://open.spotify.com/track/1XZRZPmHHtquVHAVIHG1Cr
+    references:
+    - source: open.spotify.com-embed-album-1jv8by69tlv7u8t13dfjvt
+      quote: spotify:track:1XZRZPmHHtquVHAVIHG1Cr
+      accessed: '2026-11-21'
+      locator: Native Spotify track ID
+  release date:
+  - value:
+      date: '2019-01-18'
+    references:
+    - source: music.apple.com-us-album-jens-sevom-1449339768
+      quote: '2019-01-18'
+      accessed: '2026-11-21'
+      locator: Original album issue
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4b/d7/20/4bd720a4-9e60-abd6-e967-ac9410961ec2/193428499041.jpg/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Dyaloge Limited via Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-jens-sevom-1449339768
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4b/d7/20/4bd720a4-9e60-abd6-e967-ac9410961ec2/193428499041.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Artist label cover

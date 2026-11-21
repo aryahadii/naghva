@@ -1,0 +1,68 @@
+id: Qqa6htq
+type: release
+statements:
+  name:
+  - value:
+      text: Mysterious Temple
+      language: en
+    references:
+    - source: psychicbloom.bandcamp.com-album-mysterious-temple
+      quote: Mysterious Temple
+      accessed: 2026-11-21
+      locator: Album title
+  performer:
+  - value: Qzfcfre
+    references:
+    - source: psychicbloom.bandcamp.com-album-mysterious-temple
+      quote: Psychic Bloom
+      accessed: 2026-11-21
+      locator: Recording artist
+  - value: Qgfe8js
+    qualifiers:
+      role: drums
+    references:
+    - source: radiotrails.com-2019-09-06-qa-psychic-bloom
+      quote: collaborated with me in recording the drums for the second album
+      accessed: 2026-11-21
+      locator: mike
+  cover art:
+  - value: https://f4.bcbits.com/img/a0240603588_10.jpg
+    references:
+    - source: psychicbloom.bandcamp.com-album-mysterious-temple
+      quote: https://f4.bcbits.com/img/a0240603588_10.jpg
+      accessed: 2026-11-21
+      locator: Published sleeve
+  release date:
+  - value:
+      date: '2019-07-26'
+    references:
+    - source: psychicbloom.bandcamp.com-album-mysterious-temple
+      quote: 26 Jul 2019 00:00:00 GMT
+      accessed: 2026-11-21
+      locator: Original digital edition
+  release type:
+  - value: album
+    references:
+    - source: psychicbloom.bandcamp.com-album-mysterious-temple
+      quote: Mysterious Temple
+      accessed: 2026-11-21
+      locator: Album title
+  listen link:
+  - value: https://psychicbloom.bandcamp.com/album/mysterious-temple
+    references:
+    - source: psychicbloom.bandcamp.com-album-mysterious-temple
+      quote: Mysterious Temple
+      accessed: 2026-11-21
+      locator: Album title
+  - value: https://music.apple.com/us/album/mysterious-temple-ep/1586668059
+    references:
+    - source: music.apple.com-us-album-mysterious-temple-1586668059
+      quote: Mysterious Temple - EP
+      accessed: 2026-11-21
+      locator: Apple edition
+  - value: https://open.spotify.com/album/7lxs3UXNWcCp4zji0wPIuX
+    references:
+    - source: open.spotify.com-album-7lxs3uxnwccp4zji0wpiux
+      quote: Mysterious Temple
+      accessed: 2026-11-21
+      locator: Spotify track list

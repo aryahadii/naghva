@@ -1,0 +1,59 @@
+id: Qtz984g
+type: release
+statements:
+  name:
+  - value:
+      text: Bādbān
+      language: en
+    references:
+    - source: lowzirecords.bandcamp.com-album-b-db-n
+      quote: Bādbān | Taraamoon | Low-Zi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qw4rq4q
+    references:
+    - &id001
+      source: lowzirecords.bandcamp.com-album-b-db-n
+      quote: Bādbān | Taraamoon | Low-Zi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  contributor:
+  - value: Qgncp5r
+    references:
+    - source: lowzirecords.bandcamp.com-album-b-db-n
+      quote: All tracks produced, mixed and mastered by Nima Aghiani
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: producer
+  listen link:
+  - value: https://lowzirecords.bandcamp.com/album/b-db-n
+    references:
+    - source: lowzirecords.bandcamp.com-album-b-db-n
+      quote: Bādbān | Taraamoon | Low-Zi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  release type:
+  - value: album
+    references:
+    - *id001
+  release date:
+  - value:
+      date: '2021-03-28'
+    references:
+    - source: lowzirecords.bandcamp.com-album-b-db-n
+      quote: released March 28, 2021
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a3623081126_10.jpg
+    references:
+    - source: lowzirecords.bandcamp.com-album-b-db-n
+      quote: https://f4.bcbits.com/img/a3623081126_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Low-Zi Records
+        language: en

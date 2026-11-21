@@ -7,23 +7,66 @@ statements:
       language: en
     references:
     - source: www.arashkband.com-bio.htm-dd210eb22a98
-      quote: |-
-        Pouyan Khajavi (Guitars, Bass, Vocals)
+      quote: 'Pouyan Khajavi (Guitars, Bass, Vocals)
+
         Shahram Khosraviani (Drums)
+
         Salim Ghazi Saeedi (Guitars, Keyboards)
-        Past member: Amir JahanShahloo (Bass)
+
+        Past member: Amir JahanShahloo (Bass)'
       accessed: '2026-10-20'
   member of:
   - value: Q93d39e
     references:
     - source: www.arashkband.com-bio.htm-dd210eb22a98
-      quote: |-
-        Pouyan Khajavi (Guitars, Bass, Vocals)
+      quote: 'Pouyan Khajavi (Guitars, Bass, Vocals)
+
         Shahram Khosraviani (Drums)
+
         Salim Ghazi Saeedi (Guitars, Keyboards)
-        Past member: Amir JahanShahloo (Bass)
+
+        Past member: Amir JahanShahloo (Bass)'
       accessed: '2026-10-20'
     qualifiers:
       role:
       - guitar
       - keyboards
+  image:
+  - value: https://www.salimworld.com/images/pik/2012-album-press-pix/Salim-Ghazi-Saeedi-2012-8.jpg
+    qualifiers:
+      credit:
+        text: Azadeh Shamee
+        language: en
+      license: https://creativecommons.org/licenses/by-sa/3.0/
+    references:
+    - source: www.salimworld.com-photos
+      quote: /images/pik/2012-album-press-pix/Salim-Ghazi-Saeedi-2012-8.jpg
+      accessed: 2026-11-21
+      locator: Photograph in the 2012 gallery
+    - source: www.salimworld.com-photos
+      quote: 2012 - photos by Azadeh Shamee
+      accessed: 2026-11-21
+      locator: Photographer
+    - source: www.salimworld.com-photos
+      quote: CC BY-SA 3.0
+      accessed: 2026-11-21
+      locator: Image licence
+  profile link:
+  - value: https://open.spotify.com/artist/02wCtUy81rDWPlQNhz4Dys
+    references:
+    - source: open.spotify.com-artist-02wctuy81rdwplqnhz4dys
+      quote: Salim Ghazi Saeedi
+      accessed: 2026-11-21
+      locator: Artist profile
+  - value: https://soundcloud.com/salimgs
+    references:
+    - source: soundcloud.com-salimgs
+      quote: Salim Ghazi Saeedi
+      accessed: 2026-11-21
+      locator: Artist profile
+  - value: https://music.apple.com/us/artist/salim-ghazi-saeedi/384944994
+    references:
+    - source: music.apple.com-us-artist-salim-ghazi-saeedi-384944994
+      quote: Salim Ghazi Saeedi
+      accessed: 2026-11-21
+      locator: Artist profile

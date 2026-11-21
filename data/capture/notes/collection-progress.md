@@ -76,8 +76,15 @@ The expansion started at revision fa6c29ca with 124 bilingual artist pages. The 
 | Inner Unity Ensemble | Qnhpew3 | 9.2/10 | [Inner Unity Ensemble](inner-unity-ensemble-review.md) |
 | Bahar Atish | Qr4berk | 9.2/10 | [Bahar Atish](bahar-atish-independent-review.md) |
 | Barad | Qs2nwh3 | 9.2/10 | [Barad](artist-page-scores.md) |
-| Ooldouz Pouri | Qkmhqgm | 8.8/10 | [Ooldouz Pouri](ooldouz-pouri-review.md) |
-| Mahya Hamedi | Q3ytwxm | Pending | [Catalogue](mahya-hamedi.md) |
-| Shervin Hajipour | Qjeb9e9 | Pending | [Catalogue](shervin-hajipour.md) |
+| Ooldouz Pouri | Qkmhqgm | 9.2/10 | [Ooldouz Pouri](ooldouz-pouri-review.md) |
+| Mahya Hamedi | Q3ytwxm | 9.2/10 | [Mahya Hamedi](mahya-hamedi-independent-review.md) |
+| Shervin Hajipour | Qjeb9e9 | 9.2/10 | [Shervin Hajipour](artist-page-scores.md) |
+| Cheshmak | Qm3fd5c | 9.2/10 | [Cheshmak](cheshmak-independent-review.md) |
+| Psychic Bloom | Qzfcfre | 9.2/10 | [Psychic Bloom](psychic-bloom-independent-review.md) |
+| Pouya Mahmoodi | Qjwhj2t | Pending | [Catalogue](pouya-mahmoodi.md) |
+| Salim Ghazi Saeedi | Qp3beww | Pending | [Catalogue](salim-ghazi-saeedi.md) |
+| Zambra Collective | Qv446d6 | 9.1/10 | [Zambra Collective](zambra-collective-independent-review.md) |
+| Shiraz Ensemble | Q87wshb | Pending | [Catalogue](shiraz-ensemble.md) |
+| Bahar Badiei | Qgay8m3 | Pending | [Catalogue](bahar-badiei.md) |
 
 The [discovery list](independent-artist-discovery.md) contains candidates with release leads. Some will prove ineligible or match an existing artist by another spelling. Only new artist pages count toward the target.

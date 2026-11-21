@@ -138,6 +138,6 @@ People were writing on Twitter about what had brought them into the streets. At 
 
 Hajipour was arrested after the song came out. In *Ashghal* (“Garbage”), he sang about the restrictions imposed by the security services and the courts. In September 2024 he announced that he had been pardoned and that his case was closed.[^song][^case][^when]
 
-He sang *I Have You*, the title theme for the Persian version of the Pakistani drama *Meray Paas Tum Ho*, for Dot Republic Media.[^ost] His voice was also heard in the Iranian series *Vahshi*.[^pak][^filming]
+He sang *I Have You*, the title theme for the Persian version of the Pakistani drama *Meray Paas Tum Ho*, for Dot Republic Media.[^ost][^pak] His voice was also heard in the Iranian series *Vahshi*.[^filming]
 
 In December 2025 he announced a licensed album called *Vaqei* (“Real”), with distribution through the Arad Cultural and Artistic Institute. When listeners questioned his decision to seek a permit, he said he wanted to stay in Iran and keep working there.[^album][^dist][^work]
