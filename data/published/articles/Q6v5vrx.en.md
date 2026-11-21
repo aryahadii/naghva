@@ -92,6 +92,11 @@ references:
     quote: |-
       کنتراستی که این دو باهم دارند
     accessed: '2026-11-13'
+  remaster:
+    source: music.apple.com-us-album-nahal-e-heyrat-remastered-1054829223-f81885b2c777
+    quote: |-
+      Listen to Nahal-e Heyrat (Remastered) by O-Hum on Apple Music. 1999. 11 Songs. Duration: 54 minutes.
+    accessed: '2026-10-19'
   debut-primary:
     source: www.ohum.online-content-about.htm-f0c1f618e8c5
     quote: |-
@@ -109,11 +114,11 @@ references:
     accessed: '2026-11-13'
 ---
 
-O-Hum is an Iranian rock band founded in Tehran by singer and guitarist Shahram Sharbaf, guitarist Shahrokh Izadkhah and bassist Babak Riahipour. The group recorded its first album in 1999, combining rock and Iranian instruments with Hafez’s poetry. After years of distributing music without official permission, Sharbaf continued with new musicians; the original trio later reunited for *Shatt-e Sharab*.[^origins][^approach][^debut-primary][^downloads][^continuity][^reunion]
+O-Hum is an Iranian rock band founded in Tehran by singer and guitarist Shahram Sharbaf, guitarist Shahrokh Izadkhah and bassist Babak Riahipour. The group recorded its first album in 1999, combining rock and Iranian instruments with Hafez’s poetry. After years of distributing music without official permission, Sharbaf continued with new musicians; the original trio later reunited for *[Shatt-e Sharab](#shatt-e-sharab-mqm)*.[^origins][^approach][^debut-primary][^downloads][^continuity][^reunion]
 
 ## The first trio
 
-O-Hum recorded *[Nahal-e Heyrat](#nahal-e-heyrat-remastered-qqe)* in summer 1999. The Ministry of Culture and Islamic Guidance refused to approve it. The band put the tracks on its website for free, while listeners burned CDs and passed them on.[^debut-primary][^rejection][^downloads][^copies]
+O-Hum recorded *Nahal-e Heyrat* in summer 1999.[^debut-primary] A [remastered edition](#nahal-e-heyrat-remastered-qqe) is available today.[^remaster] The Ministry of Culture and Islamic Guidance refused to approve it. The band put the tracks on its website for free, while listeners burned CDs and passed them on.[^debut-primary][^rejection][^downloads][^copies]
 
 The group played a private concert at Tehran’s Russian Orthodox church during its early years. The two-song *[Hafez Ashegh Ast](#hafez-ashegh-ast-we9)* was its last work with the original line-up.[^church-primary][^hafez-trio] Izadkhah and Riahipour left, and Sharbaf needed time to gather musicians and begin recording again.[^departures]
 
@@ -123,13 +128,12 @@ Sharbaf continued O-Hum with different musicians. For *[Aloodeh](#aloodeh-38a)*,
 
 Earlier songs became material for *[E-HUM](#e-hum-o-hum-remixes-1999-2009-zz9)*, a collection of remixes from the band’s first decade that Sharbaf produced and engineered.[^remixes][^remix-production]
 
-After receiving permission to work in Iran in 2012–13, O-Hum recorded its first officially released Iranian album, *[In Kherghe Biandaz](#in-kherghe-biandaz-pg7)*, with a younger line-up. Nima Ramezan, Rouzbeh Gholipour, Pouya Shomali and Saman Vandadi joined Sharbaf for the project.[^kherghe-history] The live double album *[O-Hum Dar Azadi](#o-hum-dar-azadi-wrk)* followed in 2015–16, documenting a concert at Tehran’s Azadi Tower.[^azadi]
+After receiving permission to work in Iran in 2012–13, O-Hum recorded its first officially released Iranian album, *[In Kherghe Biandaz](#in-kherghe-biandaz-pg7)*, with a younger line-up. [Nima Ramezan](/en/nima-ramezan-3cs/), Rouzbeh Gholipour, Pouya Shomali and Saman Vandadi joined Sharbaf for the project.[^kherghe-history] The live double album *[O-Hum Dar Azadi](#o-hum-dar-azadi-wrk)* followed in 2015–16, documenting a concert at Tehran’s Azadi Tower.[^azadi]
 
 ## The trio returns
 
 In autumn 2021 the original three members began making a full album together again, after two decades apart. Izadkhah recorded and sent his guitar parts from Vancouver.[^reunion] They released *[Shatt-e Sharab](#shatt-e-sharab-mqm)* in March 2022 through the band’s and Sharbaf’s websites, allowing listeners to choose a price, including a free download.[^shatt-direct]
 
 In 2024 O-Hum began a second strand of work under the name O-Hum Version Two, using poetry beyond Hafez and a different musical approach. Its songs included “[Dastan-e Man](#my-story-single-x2c)” and “[Gomshodeh](#missing-ep-single-6cc).”[^version-two][^version-two-songs]
-
 
 The live *[25th Anniversary](#25th-anniversary-live-xcw)* marked the band’s twenty-five years in 2024.[^anniversary]
