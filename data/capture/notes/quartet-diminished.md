@@ -38,3 +38,12 @@ Five releases are listed on the artist’s Bandcamp. The film EP plays as one co
 - [Tehran II (Feats, Markus Reuter)](https://quartetdiminished.bandcamp.com/track/tehran-ii-feats-markus-reuter)
 - [Mirror side (Feats, Tony Levin, Markus Reuter)](https://quartetdiminished.bandcamp.com/track/mirror-side-feats-tony-levin-markus-reuter)
 - [Allegro per il Ré  (Feats, Tony Levin, Markus Reuter)](https://quartetdiminished.bandcamp.com/track/allegro-per-il-r-feats-tony-levin-markus-reuter)
+
+## Streaming editions
+
+The artist’s four full albums on Spotify and Apple Music have been compared with Bandcamp in track order, titles and durations. The streaming edition ending in “Act, Vol. II” needs comparison with the Budapest performance titled “Act 7” on Bandcamp.
+
+- Station One track 8: Act 7 (From the trio Album of Ehsan Sadigh - Live in Budapest - Sax: Peter Soliemanipour)) / Act, Vol. II, durations 286 and 286 seconds. Verify edition/recording before merging.
+- Station Two track 5: Projector / Projector, durations 847 and 855 seconds. Verify edition/recording before merging.
+
+The group's YouTube Videos tab returned 18 uploads. The identifiable musical performances include five Berlin recordings, three named orchestral performances and a King Crimson tribute. The short documentary and Station Three promotional clip were excluded. Three uploads with general titles or short excerpts need further identification. The group dates its formation to 2013. A 2015 report in The National gives 2012. The 2013 date agrees with the recording label and the earliest performances on the band's chronology.

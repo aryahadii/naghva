@@ -1,0 +1,45 @@
+id: Q52taxj
+type: release
+statements:
+  name:
+  - value:
+      text: Mentrix Refuge WW Mix
+      language: en
+    references:
+    - source: soundcloud.com-mentrixsound-mentrix-refuge-ww-mix
+      quote: Mentrix Refuge WW Mix
+      accessed: '2026-11-21'
+      locator: Track heading
+  performer:
+  - value: Qynmr3m
+    references:
+    - source: soundcloud.com-mentrixsound-mentrix-refuge-ww-mix
+      quote: Stream Mentrix Refuge WW Mix by M E N T R I X | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2022-11-18'
+    references:
+    - source: soundcloud.com-mentrixsound-mentrix-refuge-ww-mix
+      quote: '2022-11-18T20:03:35Z'
+      accessed: '2026-11-21'
+      locator: Track publication metadata
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-ILBztGx5HwT21g3K-SWDmrg-large.jpg
+    references:
+    - source: soundcloud.com-mentrixsound-mentrix-refuge-ww-mix
+      quote: https://i1.sndcdn.com/artworks-ILBztGx5HwT21g3K-SWDmrg-large.jpg
+      accessed: '2026-11-21'
+      locator: Track artwork
+    qualifiers:
+      credit:
+        text: Mentrix on SoundCloud
+        language: en
+  listen link:
+  - value: https://soundcloud.com/mentrixsound/mentrix-refuge-ww-mix
+    references:
+    - source: soundcloud.com-mentrixsound-mentrix-refuge-ww-mix
+      quote: Stream Mentrix Refuge WW Mix by M E N T R I X | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title

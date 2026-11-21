@@ -40,6 +40,18 @@ statements:
       quote: Station Two
       accessed: 2026-11-21
       locator: Release title
+  - value: https://music.apple.com/us/album/station-two/1749103609
+    references:
+    - source: music.apple.com-us-album-station-two-1749103609
+      quote: Station Two - Album by Quartet Diminished - Apple Music
+      accessed: '2026-11-21'
+      locator: Album page title
+  - value: https://open.spotify.com/album/7Gwk5TkY1xIfg6NRzTJM85
+    references:
+    - source: open.spotify.com-embed-album-7gwk5tky1xifg6nrztjm85
+      quote: Station Two
+      accessed: '2026-11-21'
+      locator: Album heading
   cover art:
   - value: https://f4.bcbits.com/img/a1716129466_2.jpg
     references:

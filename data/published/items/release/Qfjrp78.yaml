@@ -32,6 +32,18 @@ statements:
       quote: Station Three
       accessed: 2026-11-21
       locator: Track 1
+  - value: https://music.apple.com/us/song/station-three/1748888931
+    references:
+    - source: music.apple.com-us-album-station-three-1748888591
+      quote: Station Three
+      accessed: '2026-11-21'
+      locator: Album track 1
+  - value: https://open.spotify.com/track/3AV1xy8uurXBoy3NxkUGnF
+    references:
+    - source: open.spotify.com-embed-album-1w72yoqh1ga5yfsjbs67kj
+      quote: Station Three
+      accessed: '2026-11-21'
+      locator: Album track 1
   cover art:
   - value: https://f4.bcbits.com/img/a0209398782_2.jpg
     references:

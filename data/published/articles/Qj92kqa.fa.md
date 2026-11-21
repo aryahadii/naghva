@@ -110,6 +110,31 @@ references:
     quote: our Special Norooz Concert on March 14, 2026 at Dada Jazz Bar
     accessed: '2026-11-21'
     locator: Home page concert announcement
+  early:
+    source: jimduffymusic.com-blog-blog-6055110-introducing-mitra-sumara-for-real
+    quote: had a test run at the Westbeth Center for the Arts last Sunday
+    accessed: '2026-11-21'
+    locator: October 2011 post
+  words:
+    source: jimduffymusic.com-blog-blog-6055110-introducing-mitra-sumara-for-real
+    quote: Yvette sings all lyrics in Farsi.
+    accessed: '2026-11-21'
+    locator: October 2011 post
+  wfmu:
+    source: www.wfmu.org-playlists-shows-45512
+    quote: tonight's NJ radio debut
+    accessed: '2026-11-21'
+    locator: Program introduction
+  shekar:
+    source: www.wfmu.org-playlists-shows-45512
+    quote: Shekar-e Ahoo (Live on WFMU)
+    accessed: '2026-11-21'
+    locator: Session playlist
+  concert:
+    source: www.youtube.com-watchv-vu9tm6h3rfc
+    quote: Saturday, March 7, 2015
+    accessed: '2026-11-21'
+    locator: Programme header in video description
 ---
 
 میترا سومارا گروهی در نیویورک است که یوت مسعودی، خوانندهٔ ایرانی‌آمریکایی، در سال ۲۰۱۱ پایه گذاشت. اعضای گروه ترانه‌های پاپ ایران در دهه‌های ۱۹۶۰ و ۱۹۷۰ را با تنظیم‌های تازه می‌نوازند. نخستین آلبومشان، «[Tahdig](#tahdig-qev)»، در سال ۲۰۱۸ منتشر شد. برای آلبوم «[رویا](#dream-mhy)» که در سال ۲۰۲۳ منتشر شد، سراغ ترانه‌هایی رفتند که خوانندگانی چون رامش پیش‌تر خوانده بودند.[^name][^ny][^start][^family][^taste][^beats][^apple-tdate][^apple-ddate][^women]
@@ -118,7 +143,7 @@ references:
 
 مسعودی در آمریکا با پدر و مادرخوانده‌اش بزرگ شد. زمانی که به دنبال پدر ایرانی‌اش می‌گشت، برای پیدا کردن ضبط‌های قدیمی به یک خواربارفروشی ایرانی در نیویورک می‌رفت. در سال ۲۰۰۹ پدرش را پیدا کرد. با هم دربارهٔ موسیقی پاپ نسل او حرف می‌زدند و مسعودی یادگیری زبان فارسی و موسیقی ایرانی را جدی‌تر دنبال کرد.[^family][^grocer][^father][^taste][^study]
 
-دو سال بعد میترا سومارا را تشکیل داد. گروه در واشینگتن در تالار سکلرِ مؤسسهٔ اسمیتسونین و در مرکز کندی کنسرت داد. برای ضبط نخستین آلبومشان با سلمک خالدی، تهیه‌کننده، کار کردند و ریتم ترانه‌های قدیمی را تغییر دادند.[^start][^venues][^first][^beats][^apple-t]
+دو سال بعد میترا سومارا را تشکیل داد. جیم دافی، نوازندهٔ کیبورد گروه، از نخستین اجراهایشان در مرکز هنری وست‌بث یاد کرده است؛ مسعودی همهٔ ترانه‌ها را به فارسی می‌خواند. در ژوئن ۲۰۱۲، گروه در رادیوی WFMU نیوجرسی زنده اجرا کرد و «شکار آهو» از ترانه‌های آن برنامه بود. بعدها در مرکز کندی در واشینگتن کنسرت دادند و در مارس ۲۰۱۵ در [کنسرتی در مؤسسهٔ اسمیتسونین](#classic-persian-pop-mitra-sumara-h9w) روی صحنه رفتند.[^early][^words][^wfmu][^shekar][^concert] برای ضبط نخستین آلبومشان با سلمک خالدی، تهیه‌کننده، کار کردند و ریتم ترانه‌های قدیمی را تغییر دادند.[^start][^venues][^first][^beats][^apple-t]
 
 ## رویا
 

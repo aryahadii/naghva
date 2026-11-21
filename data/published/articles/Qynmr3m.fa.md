@@ -105,6 +105,21 @@ references:
     quote: and ney (a wind instrument
     accessed: '2026-11-21'
     locator: Opening account of score
+  first:
+    source: www.doorsopen.co-blog-the-glossary-mentrix-composer
+    quote: wrote her first song in 2013
+    accessed: '2026-11-21'
+    locator: Artist introduction
+  guest:
+    source: www.doorsopen.co-blog-the-glossary-mentrix-composer
+    quote: contributed guest vocals to the Fink album Hard Believer
+    accessed: '2026-11-21'
+    locator: Artist introduction
+  alias:
+    source: www.doorsopen.co-blog-the-glossary-mentrix-composer
+    quote: This was her first credit under the name Mentrix.
+    accessed: '2026-11-21'
+    locator: Artist introduction
 ---
 
 منتریکس نام هنری سمر راد، خواننده و آهنگساز ایرانی است. او در سال ۱۹۸۱ در تهران به دنیا آمد، در برایتون به ترانه‌سازی روی آورد و بعدها به برلین رفت. در سال ۲۰۲۰ نخستین آلبومش، «[My Enemy, My Love](#my-enemy-my-love-j87)»، را با نشر خودش منتشر کرد. همین آلبوم راه او را به ساخت موسیقی بازی «[Prince of Persia: The Lost Crown](#prince-of-persia-the-lost-crown-original-game-soundtrack-8p3)» باز کرد.[^who][^birth][^songs][^brighton][^berlin][^debut][^label][^contact][^pitch]
@@ -112,6 +127,8 @@ references:
 ## از تهران تا برایتون
 
 راد بخشی از کودکی‌اش را در فرانسه گذراند. پس از پنج سال به ایران برگشت، دبیرستان را در تهران تمام کرد و برای تحصیل در دانشگاهی در پاریس درخواست داد. از راه آشنایی با تصوف به دف‌نوازی علاقه‌مند شد. در چهار سالی که در برایتون زندگی می‌کرد، گیتار به دست گرفت و با آکوردهایی که می‌نواخت شروع به ساختن ترانه کرد.[^child][^paris][^daf][^brighton][^songs]
+
+راد نخستین ترانه‌اش را در سال ۲۰۱۳ نوشت. همان سال برای آلبوم «[Hard Believer](#hard-believer-dq2)» گروه فینک خواند. این نخستین اثری بود که نام منتریکس در آن آمد.[^first][^guest][^alias]
 
 ## فیلم‌برداری در ایران
 

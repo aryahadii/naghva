@@ -32,6 +32,18 @@ statements:
       quote: Rhapsody (Feats, Colin Bass)
       accessed: 2026-11-21
       locator: Track 2
+  - value: https://music.apple.com/us/song/rhapsody/1748888945
+    references:
+    - source: music.apple.com-us-album-station-three-1748888591
+      quote: Rhapsody
+      accessed: '2026-11-21'
+      locator: Album track 2
+  - value: https://open.spotify.com/track/3EghTmQQYiJTFQqAEzCDRz
+    references:
+    - source: open.spotify.com-embed-album-1w72yoqh1ga5yfsjbs67kj
+      quote: Rhapsody
+      accessed: '2026-11-21'
+      locator: Album track 2
   cover art:
   - value: https://f4.bcbits.com/img/a0209398782_2.jpg
     references:

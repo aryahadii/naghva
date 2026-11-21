@@ -75,6 +75,12 @@ statements:
       quote: Mentrix - YouTube
       accessed: '2026-11-21'
       locator: Page title
+  - value: https://soundcloud.com/mentrixsound/tracks
+    references:
+    - source: soundcloud.com-mentrixsound-tracks
+      quote: Stream M E N T R I X | Listen to music albums online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
   life event:
   - value:
       text: I picked up a guitar and started playing chords and writing songs.

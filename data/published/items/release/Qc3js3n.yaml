@@ -32,6 +32,18 @@ statements:
       quote: Mood Pt. 1
       accessed: 2026-11-21
       locator: Track 6
+  - value: https://music.apple.com/us/song/mood-i/1749103868
+    references:
+    - source: music.apple.com-us-album-station-two-1749103609
+      quote: Mood I
+      accessed: '2026-11-21'
+      locator: Album track 6
+  - value: https://open.spotify.com/track/2k6BKqUOtgN2dRXbxJ4sFf
+    references:
+    - source: open.spotify.com-embed-album-7gwk5tky1xifg6nrztjm85
+      quote: Mood I
+      accessed: '2026-11-21'
+      locator: Album track 6
   cover art:
   - value: https://f4.bcbits.com/img/a1716129466_2.jpg
     references:

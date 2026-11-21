@@ -1,0 +1,46 @@
+id: Qk8ksnn
+type: release
+statements:
+  name:
+  - value:
+      text: Mehr o vafa (Freer Gallery of Art, 2015)
+      language: en
+    references:
+    - source: www.youtube.com-watchv-vu9tm6h3rfc
+      quote: 4. Mehr o vafa
+      accessed: '2026-11-21'
+      locator: Concert programme, song 4
+    - source: www.youtube.com-watchv-vu9tm6h3rfc
+      quote: Freer Gallery of Art
+      accessed: '2026-11-21'
+      locator: Venue in concert description
+    - source: www.youtube.com-watchv-vu9tm6h3rfc
+      quote: Saturday, March 7, 2015
+      accessed: '2026-11-21'
+      locator: Programme header in video description
+  performer:
+  - value: Qj92kqa
+    references:
+    - source: www.youtube.com-watchv-vu9tm6h3rfc
+      quote: 'Classic Persian Pop: Mitra Sumara'
+      accessed: '2026-11-21'
+      locator: Official video title
+  release date:
+  - value:
+      date: '2015-07-22'
+    references:
+    - source: www.youtube.com-watchv-vu9tm6h3rfc
+      quote: '20150722'
+      accessed: '2026-11-21'
+      locator: Video upload date
+  cover art:
+  - value: https://i.ytimg.com/vi/vu9tm6H3RFc/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watchv-vu9tm6h3rfc
+      quote: https://i.ytimg.com/vi/vu9tm6H3RFc/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Video thumbnail metadata
+    qualifiers:
+      credit:
+        text: Smithsonian National Museum of Asian Art, via YouTube
+        language: en

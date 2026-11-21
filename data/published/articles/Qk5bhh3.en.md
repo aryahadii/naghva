@@ -100,9 +100,24 @@ references:
     quote: On the anniversary of the killing of Jina Mahsa Amini we humbly present this tribute to the Woman, Life, Freedom movement
     accessed: '2026-11-21'
     locator: Official video description
+  award:
+    source: apraamcos.com.au-about-us-news-and-events-art-music-awards-2024-winners-announced
+    quote: Excellence in Experimental Practice was awarded to Gelareh Pour and Brian O’Dwyer for their project ZÖJ
+    accessed: '2026-11-21'
+    locator: Excellence Awards, published 14 August 2024
+  shows:
+    source: apraamcos.com.au-about-us-news-and-events-art-music-awards-2024-winners-announced
+    quote: the release of their debut album and sold-out shows in 2023.
+    accessed: '2026-11-21'
+    locator: Excellence Awards
+  black-hill:
+    source: zojduet.bandcamp.com-album-fil-o-fenjoon
+    quote: Additional vocals for tracks 4,5 recorded at Black Hill by Gelareh Pour
+    accessed: '2026-11-21'
+    locator: Album recording credits
 ---
 
-ZÖJ are an experimental duo formed in Australia in 2016 by the Iranian-born singer and kamancheh player Gelareh Pour and the Australian percussionist Brian O’Dwyer. They improvise together, often taking contemporary Iranian poems as the words for Pour’s singing. They recorded their first full-length album, [*Fil O Fenjoon*](#fil-o-fenjoon-6cd), live in Melbourne.[^own-origin][^own-australia][^own-year][^loop-poems][^loop-listen][^bc-fil-o-fenjoon-session][^loop-debut]
+ZÖJ are an experimental duo formed in Australia in 2016 by the Iranian-born singer and kamancheh player Gelareh Pour and the Australian percussionist Brian O’Dwyer. They improvise together, often taking contemporary Iranian poems as the words for Pour’s singing. A live performance in Melbourne became the basis for their first full-length album, [*Fil O Fenjoon*](#fil-o-fenjoon-6cd).[^own-origin][^own-australia][^own-year][^loop-poems][^loop-listen][^bc-fil-o-fenjoon-session][^loop-debut]
 
 ## Playing as a duo
 
@@ -112,6 +127,8 @@ One early recording captures the pair on stage in Sydney in December 2019. Saeed
 
 ## Recording live
 
-In 2023, on the anniversary of Jina Mahsa Amini’s killing, the duo released a video of “[Hangman](#hangman-cze)” as a tribute to the Woman, Life, Freedom movement.[^yt-vfmknjtqdx8-tribute] For *Fil O Fenjoon*, released later that year, Myles Mumford recorded the duo in the Primrose Potter Salon at Melbourne Recital Centre. For their next album, [*Give Water to Birds*](#give-water-to-birds-5zr), they invited guitarist Brett Langsford to join them. That record came out in 2025.[^bc-fil-o-fenjoon-session][^loop-debut][^bc-give-water-to-birds-guitar][^bc-give-water-to-birds-date]
+In 2023, on the anniversary of Jina Mahsa Amini’s killing, the duo released a video of “[Hangman](#hangman-cze)” as a tribute to the Woman, Life, Freedom movement.[^yt-vfmknjtqdx8-tribute] For *Fil O Fenjoon*, released later that year, Myles Mumford recorded the duo in the Primrose Potter Salon at Melbourne Recital Centre. Pour recorded additional vocals for “Hearts of Stone” and “The God of Rainbows” at Black Hill.[^black-hill] The pair played sold-out shows in 2023 and received the Art Music Award for Excellence in Experimental Practice the following year.[^shows][^award]
+
+For their next album, [*Give Water to Birds*](#give-water-to-birds-5zr), they invited guitarist Brett Langsford to join them. That record came out in 2025.[^bc-fil-o-fenjoon-session][^loop-debut][^bc-give-water-to-birds-guitar][^bc-give-water-to-birds-date]
 
 On their third album, [*May The Devil’s Ear Be Deaf*](#may-the-devils-ear-be-deaf-ve2), Pour and O’Dwyer played together at the Banff Centre in Canada and made the recording without overdubs. They took its title from a Persian saying used to guard something beautiful against envy or misfortune. They released the album in May 2026.[^bc-may-the-devils-ear-be-deaf-banff][^bc-may-the-devils-ear-be-deaf-overdubs][^bc-may-the-devils-ear-be-deaf-saying][^own-third]

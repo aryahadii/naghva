@@ -105,6 +105,21 @@ references:
     quote: and ney (a wind instrument
     accessed: '2026-11-21'
     locator: Opening account of score
+  first:
+    source: www.doorsopen.co-blog-the-glossary-mentrix-composer
+    quote: wrote her first song in 2013
+    accessed: '2026-11-21'
+    locator: Artist introduction
+  guest:
+    source: www.doorsopen.co-blog-the-glossary-mentrix-composer
+    quote: contributed guest vocals to the Fink album Hard Believer
+    accessed: '2026-11-21'
+    locator: Artist introduction
+  alias:
+    source: www.doorsopen.co-blog-the-glossary-mentrix-composer
+    quote: This was her first credit under the name Mentrix.
+    accessed: '2026-11-21'
+    locator: Artist introduction
 ---
 
 Mentrix is the stage name of Samar Rad, an Iranian singer and composer born in Tehran in 1981. She began writing songs in Brighton and later moved to Berlin. In 2020 she released her debut album, *[My Enemy, My Love](#my-enemy-my-love-j87)*, on her own label. That record led to her work on the music for the game *[Prince of Persia: The Lost Crown](#prince-of-persia-the-lost-crown-original-game-soundtrack-8p3)*.[^who][^birth][^songs][^brighton][^berlin][^debut][^label][^contact][^pitch]
@@ -112,6 +127,8 @@ Mentrix is the stage name of Samar Rad, an Iranian singer and composer born in T
 ## From Tehran to Brighton
 
 Rad spent part of her childhood in France. After five years there she returned to Iran, finished high school in Tehran and applied to university in Paris. Through Sufi practice she came to play the daf, a frame drum. It was during her four years in Brighton that she took up the guitar and began putting her own melodies and words to chords.[^child][^paris][^daf][^brighton][^songs]
+
+She wrote her first song in 2013. That year she sang on Fink’s *[Hard Believer](#hard-believer-dq2)*. It was the first time she used Mentrix as a recording credit.[^first][^guest][^alias]
 
 ## Filming in Iran
 

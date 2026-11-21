@@ -105,6 +105,31 @@ references:
     quote: our Special Norooz Concert on March 14, 2026 at Dada Jazz Bar
     accessed: '2026-11-21'
     locator: Home page concert announcement
+  early:
+    source: jimduffymusic.com-blog-blog-6055110-introducing-mitra-sumara-for-real
+    quote: had a test run at the Westbeth Center for the Arts last Sunday
+    accessed: '2026-11-21'
+    locator: October 2011 post
+  words:
+    source: jimduffymusic.com-blog-blog-6055110-introducing-mitra-sumara-for-real
+    quote: Yvette sings all lyrics in Farsi.
+    accessed: '2026-11-21'
+    locator: October 2011 post
+  wfmu:
+    source: www.wfmu.org-playlists-shows-45512
+    quote: tonight's NJ radio debut
+    accessed: '2026-11-21'
+    locator: Program introduction
+  shekar:
+    source: www.wfmu.org-playlists-shows-45512
+    quote: Shekar-e Ahoo (Live on WFMU)
+    accessed: '2026-11-21'
+    locator: Session playlist
+  concert:
+    source: www.youtube.com-watchv-vu9tm6h3rfc
+    quote: Saturday, March 7, 2015
+    accessed: '2026-11-21'
+    locator: Programme header in video description
 ---
 
 Mitra Sumara is a New York band formed in 2011 by the Iranian-American singer Yvette Massoudi. The group arranges Iranian pop songs from the 1960s and 1970s for its own musicians. Its first album, [*Tahdig*](#tahdig-qev), came out in 2018. For [*Dream*](#dream-mhy), released in 2023, the group returned to songs made famous by women including Ramesh.[^ny][^start][^family][^taste][^beats][^apple-tdate][^apple-ddate][^women]
@@ -113,7 +138,7 @@ Mitra Sumara is a New York band formed in 2011 by the Iranian-American singer Yv
 
 Massoudi grew up with adoptive parents in the United States. While searching for her Iranian father, she began looking for old recordings in a small Iranian grocery in New York. She found her father in 2009. They talked about the popular music of his generation, and she began studying Persian and Iranian music more seriously.[^family][^grocer][^father][^taste][^study]
 
-Two years later she formed Mitra Sumara. The group played for audiences at the Smithsonian’s Sackler Gallery and the Kennedy Center in Washington. For *Tahdig* they worked with the producer Salmak Khaledi and gave the songs new rhythms.[^start][^venues][^first][^beats][^apple-t]
+Two years later she formed Mitra Sumara. Keyboardist Jim Duffy recalled an early performance at the Westbeth Center for the Arts where Massoudi sang everything in Persian. In June 2012 the group played live on New Jersey station WFMU, including the folk song “Shekar-e Ahoo”. They went on to play the Kennedy Center in Washington and gave a [concert at the Smithsonian](#classic-persian-pop-mitra-sumara-h9w) in March 2015.[^early][^words][^wfmu][^shekar][^concert] For *Tahdig* they worked with the producer Salmak Khaledi and gave the songs new rhythms.[^start][^venues][^first][^beats][^apple-t]
 
 ## Dream
 

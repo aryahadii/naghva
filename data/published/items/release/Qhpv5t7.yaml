@@ -46,6 +46,18 @@ statements:
       quote: Station Three
       accessed: 2026-11-21
       locator: Release title
+  - value: https://music.apple.com/us/album/station-three/1748888591
+    references:
+    - source: music.apple.com-us-album-station-three-1748888591
+      quote: Station Three - Album by Quartet Diminished - Apple Music
+      accessed: '2026-11-21'
+      locator: Album page title
+  - value: https://open.spotify.com/album/1W72YoqH1ga5YfSjbS67KJ
+    references:
+    - source: open.spotify.com-embed-album-1w72yoqh1ga5yfsjbs67kj
+      quote: Station Three
+      accessed: '2026-11-21'
+      locator: Album heading
   cover art:
   - value: https://f4.bcbits.com/img/a0209398782_2.jpg
     references:

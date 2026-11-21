@@ -44,6 +44,19 @@ statements:
       quote: Deerand
       accessed: 2026-11-21
       locator: Release title
+  - value: https://music.apple.com/us/album/deerand-feat-markus-reuter-ehsan-sadigh-mazyar-younesi/1777140747
+    references:
+    - source: music.apple.com-us-album-deerand-feat-markus-reuter-ehsan-sadigh-mazyar-younesi-1777140747
+      quote: Deerand (feat. Markus Reuter, Ehsan Sadigh, Mazyar Younesi, Soheil Peyghambari & Rouzbeh Fadavi) -
+        Album by Quartet Diminished - Apple Music
+      accessed: '2026-11-21'
+      locator: Album page title
+  - value: https://open.spotify.com/album/4elRzwcxhHDW5swyjtlrsy
+    references:
+    - source: open.spotify.com-embed-album-4elrzwcxhhdw5swyjtlrsy
+      quote: Deerand
+      accessed: '2026-11-21'
+      locator: Album heading
   cover art:
   - value: https://f4.bcbits.com/img/a0364494878_2.jpg
     references:

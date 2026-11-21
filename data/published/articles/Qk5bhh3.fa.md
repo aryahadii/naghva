@@ -105,9 +105,24 @@ references:
     quote: گوش شیطون کر
     accessed: '2026-11-21'
     locator: Official concert video title
+  award:
+    source: apraamcos.com.au-about-us-news-and-events-art-music-awards-2024-winners-announced
+    quote: Excellence in Experimental Practice was awarded to Gelareh Pour and Brian O’Dwyer for their project ZÖJ
+    accessed: '2026-11-21'
+    locator: Excellence Awards, published 14 August 2024
+  shows:
+    source: apraamcos.com.au-about-us-news-and-events-art-music-awards-2024-winners-announced
+    quote: the release of their debut album and sold-out shows in 2023.
+    accessed: '2026-11-21'
+    locator: Excellence Awards
+  black-hill:
+    source: zojduet.bandcamp.com-album-fil-o-fenjoon
+    quote: Additional vocals for tracks 4,5 recorded at Black Hill by Gelareh Pour
+    accessed: '2026-11-21'
+    locator: Album recording credits
 ---
 
-زوج گروه دونفره‌ای است که گلاره پور، خواننده و نوازندهٔ ایرانی کمانچه، و برایان ادوآیر، نوازندهٔ استرالیایی سازهای کوبه‌ای، در سال ۲۰۱۶ در استرالیا تشکیل دادند. آن‌ها با هم بداهه می‌نوازند و پور شعرهای معاصر فارسی را می‌خواند. نخستین آلبوم بلندشان، [«Fil O Fenjoon»](#fil-o-fenjoon-6cd)، ضبط اجرای زندهٔ آن‌ها در ملبورن است.[^own-origin][^own-australia][^own-year][^loop-poems][^loop-listen][^bc-fil-o-fenjoon-session][^loop-debut]
+زوج گروه دونفره‌ای است که گلاره پور، خواننده و نوازندهٔ ایرانی کمانچه، و برایان ادوآیر، نوازندهٔ استرالیایی سازهای کوبه‌ای، در سال ۲۰۱۶ در استرالیا تشکیل دادند. آن‌ها با هم بداهه می‌نوازند و پور شعرهای معاصر فارسی را می‌خواند. نخستین آلبوم بلندشان، [«Fil O Fenjoon»](#fil-o-fenjoon-6cd)، بر پایهٔ اجرای زندهٔ آن‌ها در ملبورن شکل گرفت.[^own-origin][^own-australia][^own-year][^loop-poems][^loop-listen][^bc-fil-o-fenjoon-session][^loop-debut]
 
 ## از گروه‌نوازی تا دونوازی
 
@@ -117,6 +132,8 @@ references:
 
 ## ضبط زنده
 
-در سال ۲۰۲۳، هم‌زمان با سالگرد کشته‌شدن ژینا مهسا امینی، این دو ویدئوی «[جلاد](#hangman-cze)» را به جنبش زن، زندگی، آزادی تقدیم کردند.[^yt-vfmknjtqdx8-tribute] مایلز مامفورد برای آلبوم «Fil O Fenjoon» اجرای گروه را در سالن پریمروز پاتر در مرکز رسیتال ملبورن ضبط کرد. آلبوم در ۲۰۲۳ منتشر شد. برای آلبوم بعدی، [«Give Water to Birds»](#give-water-to-birds-5zr)، برت لنگسفورد، نوازندهٔ گیتار، به آن دو پیوست. این آلبوم در سال ۲۰۲۵ منتشر شد.[^bc-fil-o-fenjoon-session][^loop-debut][^bc-give-water-to-birds-guitar][^bc-give-water-to-birds-date]
+در سال ۲۰۲۳، هم‌زمان با سالگرد کشته‌شدن ژینا مهسا امینی، این دو ویدئوی «[جلاد](#hangman-cze)» را به جنبش زن، زندگی، آزادی تقدیم کردند.[^yt-vfmknjtqdx8-tribute] مایلز مامفورد برای آلبوم «Fil O Fenjoon» اجرای گروه را در سالن پریمروز پاتر در مرکز رسیتال ملبورن ضبط کرد. آلبوم در ۲۰۲۳ منتشر شد. پور برای دو قطعهٔ «Hearts of Stone» و «The God of Rainbows» بخش‌های دیگری از آواز را در بلک هیل ضبط کرد.[^black-hill] در سال ۲۰۲۳ بلیت‌های کنسرت‌های این دو به فروش رفت و سال بعد در مراسم جوایز موسیقی هنری استرالیا، جایزهٔ موسیقی تجربی را گرفتند.[^shows][^award]
+
+برای آلبوم بعدی، [«Give Water to Birds»](#give-water-to-birds-5zr)، برت لنگسفورد، نوازندهٔ گیتار، به آن دو پیوست. این آلبوم در سال ۲۰۲۵ منتشر شد.[^bc-fil-o-fenjoon-session][^loop-debut][^bc-give-water-to-birds-guitar][^bc-give-water-to-birds-date]
 
 پور و ادوآیر آلبوم سومشان، [«گوش شیطون کر»](#may-the-devils-ear-be-deaf-ve2)، را در مرکز هنری بنف در کانادا ضبط کردند. هر دو زنده نواختند و بعداً چیزی روی آن ضبط اضافه نکردند. نام آلبوم از تعبیری فارسی می‌آید که برای دور ماندن آنچه دوستش داریم از چشم بد به کار می‌رود. آلبوم در مه ۲۰۲۶ منتشر شد.[^bc-may-the-devils-ear-be-deaf-banff][^bc-may-the-devils-ear-be-deaf-overdubs][^bc-may-the-devils-ear-be-deaf-saying][^yt-s8ofw5cxowu-persian][^own-third]

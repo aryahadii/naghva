@@ -66,6 +66,18 @@ statements:
       quote: Listen to Nature - Single by Mentrix | Spotify
       accessed: '2026-11-21'
       locator: Page title
+  - value: https://soundcloud.com/mentrixsound/01-nature
+    references:
+    - source: soundcloud.com-mentrixsound-01-nature
+      quote: Stream 01 _Nature_ by M E N T R I X | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/mentrixsound/mentrix-nature
+    references:
+    - source: soundcloud.com-mentrixsound-mentrix-nature
+      quote: Stream Nature by M E N T R I X | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
   published by:
   - value: Qmz3gff
     references:

@@ -32,6 +32,18 @@ statements:
       quote: '3.5'
       accessed: 2026-11-21
       locator: Track 3
+  - value: https://music.apple.com/us/song/3-1-2/1748916323
+    references:
+    - source: music.apple.com-us-album-station-one-1748916037
+      quote: 3 1/2
+      accessed: '2026-11-21'
+      locator: Album track 3
+  - value: https://open.spotify.com/track/50r0csNJu0JNDUwsfeQll5
+    references:
+    - source: open.spotify.com-embed-album-6tmkece7wxhbfma9pjiy7o
+      quote: 3 1/2
+      accessed: '2026-11-21'
+      locator: Album track 3
   cover art:
   - value: https://f4.bcbits.com/img/a2047520220_2.jpg
     references:

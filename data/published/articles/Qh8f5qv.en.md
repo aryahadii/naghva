@@ -82,16 +82,31 @@ references:
     quote: MARKUS REUTER Touch Guitar AU8
     accessed: 2026-11-21
     locator: Album credits
+  joined:
+    source: kviff.com-summer-with-hope-press-notes
+    quote: He is a member of the Iranian Progressive Jazz group "Quartet Diminished" since 2016.
+    accessed: '2026-11-21'
+    locator: Soheil Peyghambari, Music
+  duration:
+    source: allaboutjazz.com-quartet-diminished-deerand
+    quote: a Persian musical term that means the duration of an instrumentʼs tones.
+    accessed: '2026-11-21'
+    locator: Mark Sullivan, paragraph four
+  suite:
+    source: allaboutjazz.com-quartet-diminished-deerand
+    quote: Beginning with a rhapsodic solo piano joined by long lines from guitar and bass clarinet
+    accessed: '2026-11-21'
+    locator: Description of the four-part suite
 ---
 
 Quartet Diminished is an Iranian ensemble founded in 2013 by the guitarist Ehsan Sadigh.[^found] On their first album, *[Station One](#station-one-cvn)*, [Peter Soleymanipour](/en/peter-soleimanipour-mgp/) played bass clarinet and two kinds of saxophone.[^first][^early] The quartet went on to make records in Istanbul and in Spain, where they recorded *[Deerand](#deerand-cjy)* with the guitarist Markus Reuter and the bassist Tony Levin.[^istanbul][^spain][^reuter][^levin]
 
 ## The Station albums
 
-Hermes Records released *Station One* in 2015. That year the quartet began working with Ramin Sadighi of Hermes on concerts for International Jazz Day in Iran.[^first][^jazz] In December 2016 they went to Istanbul to record *[Station Two](#station-two-pmb)*. The producer Manfred Eicher advised them during the making of the album, which Hermes released in 2018.[^istanbul][^guide][^second]
+Hermes Records released *Station One* in 2015. That year the quartet began working with Ramin Sadighi of Hermes on concerts for International Jazz Day in Iran.[^first][^jazz] In 2016 the clarinetist Soheil Peyghambari joined the group.[^joined] That December they went to Istanbul to record *[Station Two](#station-two-pmb)*. The producer Manfred Eicher advised them during the making of the album, which Hermes released in 2018.[^istanbul][^guide][^second]
 
 On *[Station Three](#station-three-hpv)* the musicians wrote together. They invited Colin Bass of the group Camel to play bass guitar and sing on “Rhapsody”.[^third][^guest]
 
 ## Deerand
 
-In December 2022 the quartet recorded in Banyeres del Penedès, Spain. Reuter played touch guitar and produced the album with the group. Levin switched instruments between two pieces, playing upright bass on “Mirror side” and Chapman Stick on “Allegro per il Ré”.[^spain][^reuter][^production][^levin] Before those sessions came out as *Deerand* in 2024, the quartet released [music for Shahram Mokri’s film](#ep-film-music-carless-crime-kzf) in 2023.[^released][^film][^filmdate]
+In December 2022 the quartet recorded in Banyeres del Penedès, Spain. Reuter played touch guitar and produced the album with the group. Levin switched instruments between two pieces, playing upright bass on “Mirror side” and Chapman Stick on “Allegro per il Ré”.[^spain][^reuter][^production][^levin] They named the record for the Persian musical term for how long a note lasts. In the opening suite, a piano plays alone before guitar and bass clarinet enter with long phrases.[^duration][^suite] Before those sessions came out as *Deerand* in 2024, the quartet released [music for Shahram Mokri’s film](#ep-film-music-carless-crime-kzf) in 2023.[^released][^film][^filmdate]

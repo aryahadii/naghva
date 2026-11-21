@@ -32,6 +32,18 @@ statements:
       quote: Speechless Rhythm I
       accessed: 2026-11-21
       locator: Track 4
+  - value: https://music.apple.com/us/song/speechless-rhythm/1748916454
+    references:
+    - source: music.apple.com-us-album-station-one-1748916037
+      quote: Speechless Rhythm
+      accessed: '2026-11-21'
+      locator: Album track 4
+  - value: https://open.spotify.com/track/12SRhxSEL7EIYH01oYjKFt
+    references:
+    - source: open.spotify.com-embed-album-6tmkece7wxhbfma9pjiy7o
+      quote: Speechless Rhythm
+      accessed: '2026-11-21'
+      locator: Album track 4
   cover art:
   - value: https://f4.bcbits.com/img/a2047520220_2.jpg
     references:

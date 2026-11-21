@@ -36,6 +36,18 @@ statements:
       quote: Longing - song and lyrics by Mentrix | Spotify
       accessed: '2026-11-21'
       locator: Page title
+  - value: https://soundcloud.com/mentrixsound/04-longing
+    references:
+    - source: soundcloud.com-mentrixsound-04-longing
+      quote: Stream 04 _Longing_ by M E N T R I X | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/mentrixsound/mentrix-longing
+    references:
+    - source: soundcloud.com-mentrixsound-mentrix-longing
+      quote: Stream Longing by M E N T R I X | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
   published by:
   - value: Qmz3gff
     references:

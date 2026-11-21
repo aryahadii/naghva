@@ -36,6 +36,18 @@ statements:
       quote: Dreams - song and lyrics by Mentrix | Spotify
       accessed: '2026-11-21'
       locator: Page title
+  - value: https://soundcloud.com/mentrixsound/02-dreams
+    references:
+    - source: soundcloud.com-mentrixsound-02-dreams
+      quote: Stream 02 _Dreams_ by M E N T R I X | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/mentrixsound/mentrix-dreams
+    references:
+    - source: soundcloud.com-mentrixsound-mentrix-dreams
+      quote: Stream Dreams by M E N T R I X | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
   published by:
   - value: Qmz3gff
     references:

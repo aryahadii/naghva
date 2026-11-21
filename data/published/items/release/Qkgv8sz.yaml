@@ -32,6 +32,18 @@ statements:
       quote: Station One
       accessed: 2026-11-21
       locator: Track 2
+  - value: https://music.apple.com/us/song/station-one/1748916215
+    references:
+    - source: music.apple.com-us-album-station-one-1748916037
+      quote: Station One
+      accessed: '2026-11-21'
+      locator: Album track 2
+  - value: https://open.spotify.com/track/6ogMQRBhKi2AoRRNq60yeS
+    references:
+    - source: open.spotify.com-embed-album-6tmkece7wxhbfma9pjiy7o
+      quote: Station One
+      accessed: '2026-11-21'
+      locator: Album track 2
   cover art:
   - value: https://f4.bcbits.com/img/a2047520220_2.jpg
     references:

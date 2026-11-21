@@ -72,3 +72,7 @@ Track 8 of FIL O FENJOON, read 2026-11-21.
 > Recorded live by Myles Mumford
 
 Album production credits, read 2026-11-21.
+
+> Additional vocals for tracks 4,5 recorded at Black Hill by Gelareh Pour
+
+Album recording credits, read 2026-11-21.
