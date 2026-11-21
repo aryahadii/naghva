@@ -19,65 +19,6 @@ references:
 
       تاریخ انتشار : بیست نهم اسفند ماه نود و چهار'
     accessed: '2026-10-27'
-  gheychi:
-    source: pelakrecords.com-records-start-4
-    quote: 'قیچی
-
-      رپ کن : بامداد آهنگسازان : یارا – ماهور – مافوق – نکو ضبط ، میکس و مسترینگ : یارا عکاس و طراح جلد
-      : پیام یارائی طراح دفترچه اشعار : سواد ناشر : پلاک در نظر داشته باشید این مجموعه در تاریخ اول آذر
-      از طریق سرویس های مختلف استریمینگ در دسترس عموم قرار خواهد گرفت حق انتشار این مجموعه بطور کامل متعلق
-      به تشکل پلاک است'
-    accessed: '2026-10-19'
-  farda:
-    source: soundcloud.com-bamdadamman-farda
-    quote: 'Vocalists: Yarapelak & Soroush & Bamdad
-
-      Producer: Yarapelak
-
-      Guitar: Houman Sanayi
-
-      Mix&Mastering: Yarapelak
-
-      Artwork: Mohammad Crow
-
-      Publisher: Pelak Records
-
-      Buy via https://pelakrecords.com/records/fard'
-    accessed: '2026-10-27'
-  mojeze:
-    source: pelakrecords.com-records-start-4
-    quote: 'تک آهنگ «معجزه» منتشر شد
-
-      .
-
-      شعر و اجرا :
-
-      بامداد ، یحیی ، رودی ، لابیت
-
-      آهنگساز :
-
-      شور
-
-      ضبط، میکس و مسترینگ :
-
-      فرشاد
-
-      طراح جلد :
-
-      شایان خسروی
-
-      ناشر :
-
-      پلاک
-
-      .
-
-      تاریخ انتشار :
-
-      ۱۴۰۰/۰۱/۲۱
-
-      2021-04-10'
-    accessed: '2026-10-19'
   begoosham:
     source: peeleh.com-begoosham
     quote: 'بگوشم
@@ -116,58 +57,8 @@ references:
     accessed: '2026-10-27'
   tracks:
     source: soundcloud.com-bamdadamman-sets-zurvan
-    quote: 'Contains tracks
-
-      Zurvan
-
-      by
-
-      Bamdad
-
-      published on
-
-      2024-03-09T20:24:54Z
-
-      Akuman
-
-      by
-
-      Bamdad
-
-      published on
-
-      2024-03-09T20:31:27Z
-
-      Vohuman
-
-      by
-
-      Bamdad
-
-      published on
-
-      2024-03-09T20:24:53Z
-
-      Ashaa
-
-      by
-
-      Bamdad
-
-      published on
-
-      2024-03-09T20:24:51Z
-
-      Gur
-
-      by
-
-      Bamdad
-
-      published on
-
-      2024-03-09T20:24:16Z'
-    accessed: '2026-10-27'
+    quote: '"track_count":5,"url":"/bamdadamman/sets/zurvan"'
+    accessed: '2026-11-21'
   beginnings:
     source: meidaan.com-archive-23742
     quote: 'بامداد: پلاک ۸۹ شروع شد. من سال ۸۸ اولین آهنگم را منتشر کرده بودم. ارسلان از یزد آمده بود تهران و با هم آشنا شدیم. او هم دوستی به نام پدرام داشت که در کرمانشاه بود و آهنگسازی می‌کرد. خلاصه پلاک اینطوری تشکیل شد.'
@@ -188,23 +79,16 @@ references:
     source: meidaan.com-archive-23742
     quote: 'مخاطب می‌توانست خودش قیمت را تعیین کند. همزمان اثر برای دانلود یا گوش دادن رایگان هم در اختیار مخاطب بود.'
     accessed: '2026-10-27'
-  context:
-    source: shows.acast.com-cozornershow-episodes-corner-71-bamdad
-    quote: او آلبوم‌های متعددی منتشر کرده که هر یک به شکلی روایت‌گر نگاه خاص و جهان‌بینی شخصی‌اش هستند
-      و تازه‌ترین اثر مفهومی‌اش «زروان» بازتاب‌دهنده‌ی نگاه فلسفی و تجربی او به موسیقی و زندگی است.
-    accessed: '2026-10-19'
 ---
 
-Bamdad is an independent artist in Persian hip-hop.[^profile] In a 2017 interview with *Meidaan*, he said he released his first song in 1388 (2009–10) and that Pelak began in 1389 (2010–11), after he met Arsalan, who knew the composer Pedram.[^beginnings] Bamdad said Pelak’s identity developed through working together and getting to know one another; with Peyman’s arrival, the group took the form it had at the time of the interview.[^development]
+Bamdad is a Persian-language rapper who released his first song in 2009–10. A year later he helped form Pelak after meeting Arsalan in Tehran. He made records with the group and developed albums around ideas of his own, including [*Ahan*](#ahan-hf8), which grew out of his view of history.[^profile][^beginnings][^idea]
 
-In the same interview, Bamdad described independence and being true to oneself as values he held above pursuing fame.[^approach] He said Pelak offered *Na* through its website with a price chosen by the listener, while also making it available to hear or download free.[^na]
+## Pelak
 
-## Recordings and collaboration
+Arsalan had come from Yazd and knew Pedram, a composer in Kermanshah. Bamdad recalled that the musicians found their identity by working together. They needed a producer, and with Peyman’s arrival the group took shape.[^beginnings][^development]
 
-On [*Ahan*](#ahan-hf8), the artist’s SoundCloud page names Yara, Mahour and Farshad as composers and Yara as arranger.[^ahan] Bamdad said that, unlike *Khat-e Sevom*, *Ahan* began with an idea drawn from his view of history and humanity.[^idea] Pelak’s credits for [*Gheychi*](#قیچی-hjd) place Bamdad’s rap alongside music by Yara, Mahour, Mafogh and Nekoo, with Yara responsible for recording, mixing and mastering.[^gheychi]
+Bamdad valued independence more than pursuing fame. For Pelak’s album *Na*, listeners could choose a price or hear and download the music for free.[^approach][^na]
 
-The credits for [“Farda”](#فردا-ksf) name Yarapelak and Soroush as vocalists alongside Bamdad, with Houman Sanayi on guitar.[^farda] On [“Mojeze”](#معجزه-r2h), Pelak lists Yahyaa, Roody and Labeat with Bamdad for words and performance, and Shour as composer.[^mojeze] The Peeleh release [“Begoosham”](/en/bahram-nouraei-k4w/#begoosham-jfs) brings Bamdad and Bahram together for lyrics and performance over music by Peymandegar.[^begoosham]
+## Making Ahan
 
-## Zurvan
-
-[*Zurvan*](#zurvan-enj) is a five-track EP on Bamdad’s SoundCloud page, which credits five producers and Yarapelak for mixing and mastering.[^zurvan][^tracks] The introduction to his *Cozy Corner* interview describes it as a conceptual work.[^context]
+Bamdad said *Ahan* began with an idea about the way he saw history and humanity. Yara arranged the music and shared composition with Mahour and Farshad.[^idea][^ahan] Bamdad also wrote and performed [“Begoosham”](/en/bahram-nouraei-k4w/#begoosham-jfs) with [Bahram](/en/bahram-nouraei-k4w/), to music by Peymandegar. On the five-track EP [*Zurvan*](#zurvan-enj), he worked with five producers.[^begoosham][^zurvan][^tracks]
