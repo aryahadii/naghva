@@ -2,7 +2,7 @@
 url: https://t.me/Sahbamusic/1065
 title: دستگاه همایون، اجرای کامل گوشه درآمد، ردیف استاد شهنازی
 status: processed
-language: en
+language: fa
 tier: own
 about:
 - Sahba Motallebi

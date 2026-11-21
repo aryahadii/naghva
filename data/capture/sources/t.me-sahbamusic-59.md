@@ -2,7 +2,7 @@
 url: https://t.me/Sahbamusic/59
 title: صهبا مطلبي و پژمان حدادي. قسمت ٣
 status: processed
-language: en
+language: fa
 tier: own
 about:
 - Sahba Motallebi

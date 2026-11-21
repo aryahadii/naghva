@@ -2,7 +2,7 @@
 url: https://t.me/Sahbamusic/66
 title: صهبا مطلبی در فستیوال موسیقی ملل کالیفرنیا ۲۰۱۶، قسمت ۲
 status: processed
-language: en
+language: fa
 tier: own
 about:
 - Sahba Motallebi

@@ -2,7 +2,7 @@
 url: https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=AerpVNao6ig&format=json
 title: 'تصنیف ای عشق، بیات اصفهان، خواننده سینا سرلک، Oh Love! Sahba Motallebi, Vocalist: Sina Sarlak'
 status: processed
-language: en
+language: mul
 tier: own
 about:
 - Sahba Motallebi

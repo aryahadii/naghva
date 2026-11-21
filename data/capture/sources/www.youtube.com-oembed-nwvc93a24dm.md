@@ -2,7 +2,7 @@
 url: https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=Nwvc93A24DM&format=json
 title: صهبا مطلبی  همراه گروه خانمها، روز جهانی زن Sahba Motallebi،Moko Kahaan,Maati Baani،The Music Yantra
 status: processed
-language: en
+language: mul
 tier: own
 about:
 - Sahba Motallebi

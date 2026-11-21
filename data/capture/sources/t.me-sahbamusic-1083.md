@@ -2,7 +2,7 @@
 url: https://t.me/Sahbamusic/1083
 title: آواز بیات اصفهان، اجرای کامل چهارمضراب، ردیف دوره عالی استاد شهنازی
 status: processed
-language: en
+language: fa
 tier: own
 about:
 - Sahba Motallebi

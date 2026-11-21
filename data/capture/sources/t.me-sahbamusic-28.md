@@ -2,7 +2,7 @@
 url: https://t.me/Sahbamusic/28
 title: قطعه شاهگاه، صهبا مطلبي و پژمان حدادي
 status: processed
-language: en
+language: fa
 tier: own
 about:
 - Sahba Motallebi

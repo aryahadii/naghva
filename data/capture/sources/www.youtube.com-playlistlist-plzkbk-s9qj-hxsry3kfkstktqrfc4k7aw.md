@@ -2,7 +2,7 @@
 url: https://www.youtube.com/playlist?list=PLZkBK-s9qJ-HxSRy3kfkSTktQrFc4K7aW
 title: Chahrmezrab-e Dashti 2, چهارمضراب دشتی ۲
 status: processed
-language: en
+language: mul
 tier: own
 about:
 - Sahba Motallebi

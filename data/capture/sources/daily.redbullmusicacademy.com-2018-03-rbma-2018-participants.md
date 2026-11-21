@@ -12,3 +12,11 @@ status: processed
 > Born and raised in Tehran
 
 Artist interview, biography or performance credits, read 2026-11-21.
+
+> DJing at intimate house parties
+
+Artist interview, biography or performance credits, read 2026-11-21.
+
+> 20th Anniversary Edition
+
+Artist interview, biography or performance credits, read 2026-11-21.

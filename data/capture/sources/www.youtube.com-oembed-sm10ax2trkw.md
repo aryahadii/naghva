@@ -2,7 +2,7 @@
 url: https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=SM10Ax2tRKw&format=json
 title: Nowrouzgah نوروز گاه- To Celebrate Persian New year, Nowrouz by Sahba Motallebi and TJ Troy
 status: processed
-language: en
+language: mul
 tier: own
 about:
 - Sahba Motallebi

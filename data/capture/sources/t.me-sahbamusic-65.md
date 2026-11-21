@@ -2,7 +2,7 @@
 url: https://t.me/Sahbamusic/65
 title: صهبا مطلبي در فستيوال موسيقي ملل كاليفورنيا ،٢٠١٦، قسمت ٣
 status: processed
-language: en
+language: fa
 tier: own
 about:
 - Sahba Motallebi

@@ -2,7 +2,7 @@
 url: https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=aPFVMj-zY-4&format=json
 title: 'بهار دلنشین- برای بهار های بهتر🌸Bahare Delneshin for the better spring#bahar #womanlifefreedom'
 status: processed
-language: en
+language: mul
 tier: own
 about:
 - Sahba Motallebi

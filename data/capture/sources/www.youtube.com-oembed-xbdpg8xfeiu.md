@@ -2,7 +2,7 @@
 url: https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=xbDPg8xFEiU&format=json
 title: شب شعرو موسیقی مولانا،صهبا مطلبی،مژده حبیبی Poetry،music's night,Sahba Motallebi,Mojdeh Habibi(Rumi)
 status: processed
-language: en
+language: mul
 tier: own
 about:
 - Sahba Motallebi

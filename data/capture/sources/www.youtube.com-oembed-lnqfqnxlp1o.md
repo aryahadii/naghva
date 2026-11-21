@@ -2,7 +2,7 @@
 url: https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=lNQFqNxLP1o&format=json
 title: صهبا مطلبی و پدیده احرارنژاد، Sahba motallebi،Padideh Ahrarnejad,Chahar Mezrab Mahoor, Alizadeh
 status: processed
-language: en
+language: mul
 tier: own
 about:
 - Sahba Motallebi

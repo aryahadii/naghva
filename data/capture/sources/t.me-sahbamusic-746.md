@@ -2,7 +2,7 @@
 url: https://t.me/Sahbamusic/746
 title: قطعه"راز من و تار من" شماره ١- صهبا مطلبي- تار دسترنج استاد يوسف پوريا 🌹
 status: processed
-language: en
+language: fa
 tier: own
 about:
 - Sahba Motallebi

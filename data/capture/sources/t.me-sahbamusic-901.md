@@ -2,7 +2,7 @@
 url: https://t.me/Sahbamusic/901
 title: اجرای کامل پیش درآمد دشتی استاد علی اکبر خان شهنازی
 status: processed
-language: en
+language: fa
 tier: own
 about:
 - Sahba Motallebi

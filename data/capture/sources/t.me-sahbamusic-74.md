@@ -2,7 +2,7 @@
 url: https://t.me/Sahbamusic/74
 title: مرگ آدميت، صهبا مطلبي، خواننده سينا سرلك
 status: processed
-language: en
+language: fa
 tier: own
 about:
 - Sahba Motallebi

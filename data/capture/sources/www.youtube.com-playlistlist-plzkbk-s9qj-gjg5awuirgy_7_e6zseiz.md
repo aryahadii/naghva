@@ -2,7 +2,7 @@
 url: https://www.youtube.com/playlist?list=PLZkBK-s9qJ-Gjg5awuiRGy_7_e6zSEIz-
 title: Reng-e Mahour, رنگ ماهور
 status: processed
-language: en
+language: mul
 tier: own
 about:
 - Sahba Motallebi

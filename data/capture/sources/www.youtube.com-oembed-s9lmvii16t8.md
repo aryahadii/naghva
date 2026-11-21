@@ -2,7 +2,7 @@
 url: https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=S9Lmvii16t8&format=json
 title: اشکی در گذرگاه تاریخ، فریدون مشیری، سینا سرلک، صهبا مطلبی، A Tear, Sahba Motallebi- Sina Sarlak
 status: processed
-language: en
+language: mul
 tier: own
 about:
 - Sahba Motallebi

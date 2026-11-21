@@ -2,7 +2,7 @@
 url: https://t.me/Sahbamusic/745
 title: قطعه"وداع خسروپرويز و شبديز"- صهبا مطلبي- دستگاه ماهور- تار دسترنج استاد جزايري
 status: processed
-language: en
+language: fa
 tier: own
 about:
 - Sahba Motallebi

@@ -161,8 +161,12 @@ references:
 
 Sahba Motallebi is a Tehran-born composer and player of the tar and setar. She grew up in Sari, where she began learning the setar at eleven. When Hossein Alizadeh visited her music school, she played him a piece she had prepared. She recalled that the Tehran conservatory barred Baháʼí students like her. Alizadeh arranged for the girls’ conservatory to admit her, and at fourteen she moved back to Tehran.[^sari][^referral][^exclusion][^access] A year later she took up the tar, studying with Fariborz Azizi and Alizadeh. By sixteen she taught tar and setar and supported herself with the lessons.[^sixteen][^students][^beginnings][^sari][^setar][^conservatory][^tar][^alizadeh]
 
+## Chakaveh and the national orchestra
+
 After graduating in 1997, Motallebi helped form Chakaveh, a women’s ensemble. She went on to join the Iranian National Orchestra, playing both in the ensemble and as a soloist under Farhad Fakhreddini. After touring with the orchestra she studied composition in Saint Petersburg in 2002–03, then led workshops in Kayseri while studying Iranian and Turkish music. In 2010 she completed a degree in world music, performance and dance at the California Institute of the Arts.[^ensemble][^orchestra][^national][^russia][^turkey][^degree]
 
 On *Solace of the Eyes*, Motallebi played tar and recited the poetry of Táhirih Qurratul-Ayn. For *Ancient Heritage*, she returned to Ali Akbar Shahnazi’s repertoire, with Pejman Hadadi accompanying her on tombak. Her own compositions also draw on family life. She wrote “Playmates” for her daughters Leily and Shireen after hearing the sounds they made as they played together.[^tahirih][^hadadi][^family]
+
+## Teaching the radif
 
 In 2011 Motallebi began teaching Iranian music online. She made her video lessons freely available to tar and setar students and published collections of pieces for tar and Persian orchestra. She also recorded with oud player Rahim AlHaj on Arturo O’Farrill’s *Fandango at the Wall*. Both musicians returned for “Fly Away” on the New York concert album. In 2020 she contributed tar to Kronos Quartet’s expanded performance of Sahba Aminikia’s “Salam Aleykom.”[^kronos][^play] Her theme for “Birth” had come to her in hospital in 2014, during the birth of her second child. She performed the piece at the White House Nowruz reception in March 2023.[^birth][^child][^whitebirth][^teach][^channel][^book][^table][^live][^theshow]

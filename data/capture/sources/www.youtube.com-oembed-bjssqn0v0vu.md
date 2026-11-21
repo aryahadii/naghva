@@ -2,7 +2,7 @@
 url: https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=bjsSqN0v0vU&format=json
 title: چهارمضراب ماهور درویش خان، صهبا مطلبی، Sahba Motallebi Chahar Mezrabe Mahour Darvish Khan
 status: processed
-language: en
+language: mul
 tier: own
 about:
 - Sahba Motallebi

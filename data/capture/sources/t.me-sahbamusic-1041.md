@@ -2,7 +2,7 @@
 url: https://t.me/Sahbamusic/1041
 title: دستگاه ماهور، اجرای کامل گوشه کرشمه، ردیف استاد شهنازی، تار ساخته استاد پوریا
 status: processed
-language: en
+language: fa
 tier: own
 about:
 - Sahba Motallebi

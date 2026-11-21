@@ -2,7 +2,7 @@
 url: https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=80i8BOlYmXw&format=json
 title: بهار دلنشین- صهبا مطلبیBahare Delneshin-Sahba Motallebi
 status: processed
-language: en
+language: mul
 tier: own
 about:
 - Sahba Motallebi

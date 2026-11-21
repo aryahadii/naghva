@@ -2,7 +2,7 @@
 url: https://t.me/Sahbamusic/686
 title: قطعه "برف"- بيست تايي، صهبا مطلبي
 status: processed
-language: en
+language: fa
 tier: own
 about:
 - Sahba Motallebi

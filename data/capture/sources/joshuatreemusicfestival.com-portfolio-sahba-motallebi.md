@@ -3,7 +3,7 @@ url: https://joshuatreemusicfestival.com/portfolio/sahba-motallebi/
 title: Sahba Motallebi • Joshua Tree Music Festival
 status: processed
 language: en
-tier: own
+tier: other
 about:
 - Sahba Motallebi
 ---

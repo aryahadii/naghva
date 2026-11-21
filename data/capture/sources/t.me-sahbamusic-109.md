@@ -2,7 +2,7 @@
 url: https://t.me/Sahbamusic/109
 title: روز معلم مبارك. تقديم به استاد عزيزم حسين عليزاده
 status: processed
-language: en
+language: fa
 tier: own
 about:
 - Sahba Motallebi

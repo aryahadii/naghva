@@ -2,7 +2,7 @@
 url: https://t.me/Sahbamusic/22
 title: بداهه نوازي- نيويورك ٢٠١٦
 status: processed
-language: en
+language: fa
 tier: own
 about:
 - Sahba Motallebi

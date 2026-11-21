@@ -3,7 +3,7 @@ url: https://lpr.com/lpr_artists/sahba-motallebi-rumis-night-live/
 title: Sahba Motallebi - LPR
 status: processed
 language: en
-tier: own
+tier: other
 about:
 - Sahba Motallebi
 ---

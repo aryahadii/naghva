@@ -2,7 +2,7 @@
 url: https://t.me/Sahbamusic/168
 title: كنسرت نوروز ١٣٩٧، در موزه سازهاي موسيقي آريزونا. به همراه خانم نغمه فرهمند مارچ ٢٥- بخش اول
 status: processed
-language: en
+language: fa
 tier: own
 about:
 - Sahba Motallebi

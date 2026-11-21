@@ -2,7 +2,7 @@
 url: https://t.me/Sahbamusic/751
 title: 'چهارمضراب نوا در نهفت. اثر: صهبا مطلبي- تار دسترنج استاد رامين جزايري.'
 status: processed
-language: en
+language: fa
 tier: own
 about:
 - Sahba Motallebi

@@ -2,7 +2,7 @@
 url: https://t.me/Sahbamusic/32
 title: قطعه ليلي و شيرين تقديم به دو فرزندمان
 status: processed
-language: en
+language: fa
 tier: own
 about:
 - Sahba Motallebi

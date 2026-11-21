@@ -2,7 +2,7 @@
 url: https://t.me/Sahbamusic/985
 title: دستگاه سه گاه، اجرای کامل گوشه مویه، ردیف استاد علی اکبر خان شهنازی
 status: processed
-language: en
+language: fa
 tier: own
 about:
 - Sahba Motallebi

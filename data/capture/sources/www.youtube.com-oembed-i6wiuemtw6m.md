@@ -2,7 +2,7 @@
 url: https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=I6wiUEmtw6M&format=json
 title: بداهه نوازی دستگاه نوا به یاد کامی کتبی،Sahba Motallebi،In memory of Kami Kotobi،Soka University
 status: processed
-language: en
+language: mul
 tier: own
 about:
 - Sahba Motallebi

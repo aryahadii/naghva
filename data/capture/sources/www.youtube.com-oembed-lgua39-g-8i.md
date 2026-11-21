@@ -2,7 +2,7 @@
 url: https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=LgUa39-g-8I&format=json
 title: نوروزگاه، چهارگاه، صهبا مطلبی ۲۰۲۰،عید نوروز-  Eyde Nourouz- Nouroozgah, Sahba Motallebi, 2020
 status: processed
-language: en
+language: mul
 tier: own
 about:
 - Sahba Motallebi

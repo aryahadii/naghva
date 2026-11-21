@@ -2,7 +2,7 @@
 url: https://t.me/Sahbamusic/687
 title: قطعه "شاهگاه"-صهبا مطلبي-2014
 status: processed
-language: en
+language: fa
 tier: own
 about:
 - Sahba Motallebi

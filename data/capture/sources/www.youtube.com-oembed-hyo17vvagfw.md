@@ -2,7 +2,7 @@
 url: https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=HyO17vVagFw&format=json
 title: بداهه نوازی و تک نوازی صهبا مطلبی، بر روی ساز سه تار، Sahba Motallebi، Setar Improvisation
 status: processed
-language: en
+language: mul
 tier: own
 about:
 - Sahba Motallebi

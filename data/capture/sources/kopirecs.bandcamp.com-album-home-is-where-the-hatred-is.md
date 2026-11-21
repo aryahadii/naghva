@@ -28,3 +28,11 @@ Published date, read 2026-11-21.
 > Nima Aghiani
 
 Artist interview, biography or performance credits, read 2026-11-21.
+
+> Recorded in Tehran April-Sep 2023
+
+Artist interview, biography or performance credits, read 2026-11-21.
+
+> Mastering by Nima Aghiani
+
+Artist interview, biography or performance credits, read 2026-11-21.

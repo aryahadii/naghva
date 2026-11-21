@@ -2,7 +2,7 @@
 url: https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=iiI-xA9BqBk&format=json
 title: 'تصنیف دو عاشق زار، صهبا مطلبی، سینا سرلک،، Wounded Lovers- By: Sahba Motallebi، Sina Sarlak'
 status: processed
-language: en
+language: mul
 tier: own
 about:
 - Sahba Motallebi

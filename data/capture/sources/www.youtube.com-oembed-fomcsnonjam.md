@@ -2,7 +2,7 @@
 url: https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=foMCsNONJaM&format=json
 title: فرود به شور ابوعطا اجرای کامل، از ردیف دوره عالی استاد شهنازی، Foroud be shour, 2 Abouata Shahnazi
 status: processed
-language: en
+language: mul
 tier: own
 about:
 - Sahba Motallebi

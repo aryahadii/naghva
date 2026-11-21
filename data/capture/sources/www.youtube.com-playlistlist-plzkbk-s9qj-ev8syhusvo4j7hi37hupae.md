@@ -2,7 +2,7 @@
 url: https://www.youtube.com/playlist?list=PLZkBK-s9qJ-EV8SYHusvo4j7HI37HUpaE
 title: Wisdom Or Heart, عقل یا عشق
 status: processed
-language: en
+language: mul
 tier: own
 about:
 - Sahba Motallebi

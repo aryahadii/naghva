@@ -2,7 +2,7 @@
 url: https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=s4Bo7KZ_xJM&format=json
 title: ساقی نامه، Sahba Motallebi and Naghemh Farahmand, Saghinameh, Symphony Space, NYC, part 1
 status: processed
-language: en
+language: mul
 tier: own
 about:
 - Sahba Motallebi

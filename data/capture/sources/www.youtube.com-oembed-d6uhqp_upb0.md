@@ -2,7 +2,7 @@
 url: https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=D6uHqP_UPB0&format=json
 title: Kija jan, کیجا جان، صهبا مطلبی، Sahba Motallebi on Persian Tar
 status: processed
-language: en
+language: mul
 tier: own
 about:
 - Sahba Motallebi

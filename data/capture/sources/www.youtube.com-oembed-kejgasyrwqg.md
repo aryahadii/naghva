@@ -2,7 +2,7 @@
 url: https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=kEJgaSYRwQg&format=json
 title: Life- زندگی
 status: processed
-language: en
+language: mul
 tier: own
 about:
 - Sahba Motallebi

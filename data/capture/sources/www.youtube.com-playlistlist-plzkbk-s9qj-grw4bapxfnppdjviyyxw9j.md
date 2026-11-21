@@ -3,7 +3,7 @@ url: https://www.youtube.com/playlist?list=PLZkBK-s9qJ-Grw4bapXFnpPDJviyyXw9j
 title: Intermediate Tar Lessons ( In Farsi with English Subtitle)-  ، دوره متوسطه آموزش تار، به زبان فارسی و زیرنویس
   انگلیسی
 status: processed
-language: en
+language: mul
 tier: own
 about:
 - Sahba Motallebi

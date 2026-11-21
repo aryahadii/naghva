@@ -2,7 +2,7 @@
 url: https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=GFO_a5iL27U&format=json
 title: حقیقت- در دستگاه ماهور، اجرا صهبا مطلبی ، Truth, Sahba Motallebi
 status: processed
-language: en
+language: mul
 tier: own
 about:
 - Sahba Motallebi

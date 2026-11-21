@@ -2,7 +2,7 @@
 url: https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=oUgqnn1DOYk&format=json
 title: درآمد حجاز، اجرای کامل، ابوعطا از ردیف دوره عالی استاد علی اکبر شهنازیDaramade hejaz, Ostad Shahnazi
 status: processed
-language: en
+language: mul
 tier: own
 about:
 - Sahba Motallebi

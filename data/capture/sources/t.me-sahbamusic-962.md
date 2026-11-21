@@ -2,7 +2,7 @@
 url: https://t.me/Sahbamusic/962
 title: دستگاه سه گاه، چهارمضراب اجرای کامل از ردیف دوره عالی استاد شهنازی
 status: processed
-language: en
+language: fa
 tier: own
 about:
 - Sahba Motallebi

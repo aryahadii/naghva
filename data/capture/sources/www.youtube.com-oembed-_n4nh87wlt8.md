@@ -2,7 +2,7 @@
 url: https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=_N4nh87wLT8&format=json
 title: Hamnafas, Nava Sahba Morallebi , همنفس در نوا صهبا مطلبی
 status: processed
-language: en
+language: mul
 tier: own
 about:
 - Sahba Motallebi

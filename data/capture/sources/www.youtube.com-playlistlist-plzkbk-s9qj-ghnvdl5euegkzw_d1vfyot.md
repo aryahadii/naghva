@@ -2,7 +2,7 @@
 url: https://www.youtube.com/playlist?list=PLZkBK-s9qJ-GHNvdL5eUegkzW_D1VfyOT
 title: Reng-e Dashti 2, رنگ دشتی ۲
 status: processed
-language: en
+language: mul
 tier: own
 about:
 - Sahba Motallebi

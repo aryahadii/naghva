@@ -3,7 +3,7 @@ url: https://asia-archive.si.edu/podcast/persian-music-classical-and-new/
 title: 'Persian Music: Sahba Motallebi, tār - Smithsonian''s National Museum of Asian Art'
 status: processed
 language: en
-tier: own
+tier: other
 about:
 - Sahba Motallebi
 ---

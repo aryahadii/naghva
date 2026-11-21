@@ -2,8 +2,8 @@
 url: https://kayhan.london/1397/05/07/124707/
 title: گفتگو با صهبا مطلبی تنها دانش‌آموخته‌ی بهایی هنرستان موسیقی - KayhanLondon کیهان لندن
 status: processed
-language: en
-tier: own
+language: fa
+tier: journalism
 about:
 - Sahba Motallebi
 ---

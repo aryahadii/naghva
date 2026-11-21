@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/1151017710
 title: ‎Introducing Young Performers - Album by Various Artists - Apple Music
 status: processed
 language: en
-tier: own
+tier: discography
 about:
 - Sahba Motallebi
 ---

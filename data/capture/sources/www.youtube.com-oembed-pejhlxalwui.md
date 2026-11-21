@@ -2,7 +2,7 @@
 url: https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=PejhlXALWuI&format=json
 title: صهبا مطلبی و رحیم الحج، Sahba Motallebi and Rahim Alhaj- Musical Instruments museum 2019
 status: processed
-language: en
+language: mul
 tier: own
 about:
 - Sahba Motallebi

@@ -2,7 +2,7 @@
 url: https://t.me/Sahbamusic/982
 title: دستگاه سه گاه. اجرای کامل گوشه حصار از ردیف دوره عالی استاد شهنازی
 status: processed
-language: en
+language: fa
 tier: own
 about:
 - Sahba Motallebi

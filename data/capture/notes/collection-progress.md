@@ -130,5 +130,8 @@ The expansion started at revision fa6c29ca with 124 bilingual artist pages. The 
 | Hailstones | Q2e2223 | 9.2/10 | [Independent review](artist-page-scores.md) |
 | Shen Band | Qavhs3y | 9.3/10 | [Independent review](artist-page-scores.md) |
 | Sahba Motallebi | Qyw49hh | 9.3/10 | [Independent review](sahba-motallebi-independent-review.md) |
+| ArtSaves | Qw9zs9g | Pending | [Catalogue](artsaves.md) |
+| Mohsen Sharifian | Qa744p5 | Pending | [Catalogue](mohsen-sharifian.md) |
+| Lian Music Band | Qdgssxh | Pending | [Catalogue](lian-music-band.md) |
 
 The [discovery list](independent-artist-discovery.md) contains candidates with release leads. Some will prove ineligible or match an existing artist by another spelling. Only new artist pages count toward the target.

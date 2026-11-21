@@ -2,7 +2,7 @@
 url: https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=vH7TJ2f6SZ0&format=json
 title: دل بیدار در مخالف سه گاه
 status: processed
-language: en
+language: fa
 tier: own
 about:
 - Sahba Motallebi

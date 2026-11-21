@@ -2,7 +2,7 @@
 url: https://www.youtube.com/playlist?list=PLZkBK-s9qJ-FLVOnimqP90qpWVoAjXPKm
 title: Twenty Vines, بیست تاک ۱
 status: processed
-language: en
+language: mul
 tier: own
 about:
 - Sahba Motallebi

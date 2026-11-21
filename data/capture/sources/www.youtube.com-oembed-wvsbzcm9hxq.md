@@ -2,7 +2,7 @@
 url: https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=WvSBZcm9HXQ&format=json
 title: بداهه نوازی صهبا مطلبی در اوج، عشاق، Sahba Motallebi live at Berklee college of music 2015 ,Boston
 status: processed
-language: en
+language: mul
 tier: own
 about:
 - Sahba Motallebi

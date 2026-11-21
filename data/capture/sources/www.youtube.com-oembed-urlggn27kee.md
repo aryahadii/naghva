@@ -2,7 +2,7 @@
 url: https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=uRlgGn27KeE&format=json
 title: Prelude in C Minor, Sahba Motallebi and TJ Troy - پیش درامد بیات اصفهان، صهبا مطلبی و تی جی تروی
 status: processed
-language: en
+language: mul
 tier: own
 about:
 - Sahba Motallebi

@@ -2,7 +2,7 @@
 url: https://www.youtube.com/playlist?list=PLZkBK-s9qJ-GelrZ3r44_k249rCXxlbXx
 title: Chaharmezrab-e Esfahan, چهارمضراب اصفهان
 status: processed
-language: en
+language: mul
 tier: own
 about:
 - Sahba Motallebi

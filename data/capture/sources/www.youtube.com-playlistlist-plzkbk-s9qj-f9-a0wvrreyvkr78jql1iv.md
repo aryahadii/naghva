@@ -2,7 +2,7 @@
 url: https://www.youtube.com/playlist?list=PLZkBK-s9qJ-F9-A0wVRrEyvkr78jql1iv
 title: Soulmate، همنفس
 status: processed
-language: en
+language: mul
 tier: own
 about:
 - Sahba Motallebi

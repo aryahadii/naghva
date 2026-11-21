@@ -2,7 +2,7 @@
 url: https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=CV9v-XsjoMs&format=json
 title: لیلی و شیرین، تقدیم به دخترهای عزیزم لیلی و شیرین، Leily & Shireen to my lovely girls
 status: processed
-language: en
+language: mul
 tier: own
 about:
 - Sahba Motallebi

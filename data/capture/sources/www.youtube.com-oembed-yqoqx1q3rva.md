@@ -2,7 +2,7 @@
 url: https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=yQOqX1q3RVA&format=json
 title: بداهه نوازی صهبا مطلبی در دستگاه نوا 1, Sahba Motallebi improvisation on Dastgahe Nava
 status: processed
-language: en
+language: mul
 tier: own
 about:
 - Sahba Motallebi

@@ -15,6 +15,27 @@ statements:
   - value: Qavhs3y
     references:
     - *id001
+  - value: Qec6smv
+    references:
+    - &id002
+      source: shen-band-archive-recluse-not-a-terrorist
+      quote: 'Kaveh Hashemi : vocals & guitars Kian Farshadi : bass JY Andre : drums'
+      accessed: '2026-11-21'
+      locator: Artist archive or eyewitness account
+    qualifiers:
+      role:
+      - vocals
+      - guitar
+  - value: Q7bhbsw
+    references:
+    - *id002
+    qualifiers:
+      role: bass
+  - value: Qd655zp
+    references:
+    - *id002
+    qualifiers:
+      role: drums
   contributor:
   - value: Qec6smv
     references:

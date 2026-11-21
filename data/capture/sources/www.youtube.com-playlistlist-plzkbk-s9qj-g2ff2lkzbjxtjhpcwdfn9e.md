@@ -2,7 +2,7 @@
 url: https://www.youtube.com/playlist?list=PLZkBK-s9qJ-G2Ff2LKZBjxTJhPcWdfn9e
 title: Apprehension (Delhoreh) دلهره
 status: processed
-language: en
+language: mul
 tier: own
 about:
 - Sahba Motallebi

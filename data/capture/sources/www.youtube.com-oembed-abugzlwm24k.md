@@ -2,7 +2,7 @@
 url: https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=abuGZlWM24k&format=json
 title: رقص- رقص- رقص، صهبا مطلبی ، مهدی باقری ،Dance, Dance, Dance, Sahba Motallebi, Arranged Mehdi Bagheri
 status: processed
-language: en
+language: mul
 tier: own
 about:
 - Sahba Motallebi

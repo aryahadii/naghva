@@ -2,7 +2,7 @@
 url: https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=jQ4gMhSHucE&format=json
 title: اشکی در گذرگاه تاریخ- فریدون مشیری
 status: processed
-language: en
+language: fa
 tier: own
 about:
 - Sahba Motallebi

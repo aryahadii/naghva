@@ -2,7 +2,7 @@
 url: https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=7GbNMzNqOXE&format=json
 title: بداهه نوازی صهبا مطلبی در دستگاه ماهور، صهبا مطلبی، Sahba Motallebi, Live in concert @ NYC, part 3
 status: processed
-language: en
+language: mul
 tier: own
 about:
 - Sahba Motallebi

@@ -2,7 +2,7 @@
 url: https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=5QclnG8s-gQ&format=json
 title: تکنوازی، بداهه نوازی، روی ساز تار صهبا مطلبی، آواز بیات اصفهان ، Sahba Motallebi، Tar Improvisation
 status: processed
-language: en
+language: mul
 tier: own
 about:
 - Sahba Motallebi

@@ -2,7 +2,7 @@
 url: https://t.me/Sahbamusic/737
 title: قطعه "ماه و نگاه"، صهبا مطلبي- در دستگاه چهارگاه- تار دسترنج استاد جزايري
 status: processed
-language: en
+language: fa
 tier: own
 about:
 - Sahba Motallebi

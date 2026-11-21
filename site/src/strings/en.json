@@ -180,6 +180,8 @@
     "jalaliMonths": ["Farvardin", "Ordibehesht", "Khordad", "Tir", "Mordad", "Shahrivar", "Mehr", "Aban", "Azar", "Dey", "Bahman", "Esfand"]
   },
   "roles": {
+    "compiler": "compiler",
+    "researcher": "researcher",
     "recording engineer": "recording engineer",
     "mixing engineer": "mixing engineer",
     "mastering engineer": "mastering engineer",

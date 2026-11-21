@@ -2,7 +2,7 @@
 url: https://www.youtube.com/playlist?list=PLZkBK-s9qJ-HjCp09e8l-3SWi3zMBmCgu
 title: Nowrouzgah- The Secret Between Me and The tar Vol 2- نوروزگاه
 status: processed
-language: en
+language: mul
 tier: own
 about:
 - Sahba Motallebi

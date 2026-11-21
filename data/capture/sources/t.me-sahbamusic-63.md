@@ -2,7 +2,7 @@
 url: https://t.me/Sahbamusic/63
 title: صهبا مطلبي بيات أصفهان به ياد استاد شهنازي
 status: processed
-language: en
+language: fa
 tier: own
 about:
 - Sahba Motallebi

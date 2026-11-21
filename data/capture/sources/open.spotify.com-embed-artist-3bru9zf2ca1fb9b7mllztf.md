@@ -3,7 +3,7 @@ url: https://open.spotify.com/embed/artist/3BRU9zF2cA1fb9b7MLlZTf
 title: Sahba Motallebi - Top tracks | Spotify
 status: processed
 language: en
-tier: own
+tier: discography
 about:
 - Sahba Motallebi
 ---

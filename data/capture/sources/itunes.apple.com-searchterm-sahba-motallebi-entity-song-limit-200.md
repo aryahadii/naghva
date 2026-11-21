@@ -3,7 +3,7 @@ url: https://itunes.apple.com/search?term=Sahba+Motallebi&entity=song&limit=200
 title: guestlookup
 status: processed
 language: en
-tier: own
+tier: discography
 about:
 - Sahba Motallebi
 ---

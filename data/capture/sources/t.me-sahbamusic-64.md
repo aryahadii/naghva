@@ -2,7 +2,7 @@
 url: https://t.me/Sahbamusic/64
 title: صهبا مطلبي در فستيوال موسيقي ملل٢٠١٦، قسمت ١
 status: processed
-language: en
+language: fa
 tier: own
 about:
 - Sahba Motallebi

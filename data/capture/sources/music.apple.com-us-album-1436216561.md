@@ -4,7 +4,7 @@ title: '‎Fandango at the Wall: A Soundtrack for the United States, Mexico and 
   & The Afro Latin Jazz Orchestra - Apple Music'
 status: processed
 language: en
-tier: own
+tier: discography
 about:
 - Sahba Motallebi
 ---

@@ -2,7 +2,7 @@
 url: https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=YkbXoaJ2YSg&format=json
 title: 'ایران ای سرای امید، صهبا مطلبی، پدیده احرارنژاد و علی مسعودی  #persianmusic persianmusic'
 status: processed
-language: en
+language: mul
 tier: own
 about:
 - Sahba Motallebi

@@ -2,7 +2,7 @@
 url: https://t.me/Sahbamusic/564
 title: قطعه چرخ سبز. تقديم به حسين عليزاده. تولدتان مبارك 🌹
 status: processed
-language: en
+language: fa
 tier: own
 about:
 - Sahba Motallebi

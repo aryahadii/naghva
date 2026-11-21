@@ -2,7 +2,7 @@
 url: https://t.me/Sahbamusic/24
 title: فستيوال ا پي ا پي، نيويورك،٢٠١٥
 status: processed
-language: en
+language: fa
 tier: own
 about:
 - Sahba Motallebi

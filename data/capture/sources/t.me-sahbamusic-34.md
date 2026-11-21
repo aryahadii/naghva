@@ -2,7 +2,7 @@
 url: https://t.me/Sahbamusic/34
 title: بداهه نوازي. در دانشگاه بركلي. بوستون ٢٠١٥
 status: processed
-language: en
+language: fa
 tier: own
 about:
 - Sahba Motallebi

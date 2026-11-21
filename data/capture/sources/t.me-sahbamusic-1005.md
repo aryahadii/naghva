@@ -2,7 +2,7 @@
 url: https://t.me/Sahbamusic/1005
 title: دستگاه سه گاه، اجرای کامل چهارمضراب مخالف از ردیف استاد شهنازی
 status: processed
-language: en
+language: fa
 tier: own
 about:
 - Sahba Motallebi

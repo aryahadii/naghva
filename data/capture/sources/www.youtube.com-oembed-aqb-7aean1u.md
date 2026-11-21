@@ -2,7 +2,7 @@
 url: https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=AqB-7AeAN1U&format=json
 title: 'آهنگ آتش، سینا سلک، صهبا مطلبی، شعر:مولانا، Fire song- Sahba Motallebi, Sina Sarlak, Poem: Rumi'
 status: processed
-language: en
+language: mul
 tier: own
 about:
 - Sahba Motallebi

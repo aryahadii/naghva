@@ -2,7 +2,7 @@
 url: https://t.me/Sahbamusic/750
 title: اجراي كامل رنگ شور استاد علي اكبر خان شهنازي- تار دسترنج استاد رامين جزايري 🌹
 status: processed
-language: en
+language: fa
 tier: own
 about:
 - Sahba Motallebi

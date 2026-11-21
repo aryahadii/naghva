@@ -4,7 +4,7 @@ title: ‎Fandango at the Wall in New York (feat. Conga Patria Son Jarocho Colle
   Album by Arturo O'Farrill - Apple Music
 status: processed
 language: en
-tier: own
+tier: discography
 about:
 - Sahba Motallebi
 ---

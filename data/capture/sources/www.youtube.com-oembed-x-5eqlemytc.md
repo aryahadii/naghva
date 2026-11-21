@@ -2,7 +2,7 @@
 url: https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=X-5eQlemyTc&format=json
 title: خواب و خیال، تکنوازی و بداهه نوازی صهبا مطلبی بر روی ساز تار، Sahba Motallebi،Dream and Illusion
 status: processed
-language: en
+language: mul
 tier: own
 about:
 - Sahba Motallebi

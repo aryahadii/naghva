@@ -2,7 +2,7 @@
 url: https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=5t6b43Wfxuk&format=json
 title: 'صهبا مطلبی، ‌پدیده احرازنژاد، علی مسعودی  رقصان، اثر استاد حسین علیزاده  #radif #persianmusic'
 status: processed
-language: en
+language: mul
 tier: own
 about:
 - Sahba Motallebi

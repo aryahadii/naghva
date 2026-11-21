@@ -1,0 +1,35 @@
+id: Qw2znby
+type: release
+statements:
+  name:
+  - value:
+      text: Haftireh Sard (live)
+      language: en
+    references:
+    - &id001
+      source: shen-band-archive-video
+      quote: Shen Band – Haftireh Sard (live)
+      accessed: '2026-11-21'
+      locator: Artist archive or eyewitness account
+  performer:
+  - value: Qavhs3y
+    references:
+    - *id001
+  listen link:
+  - value: https://www.youtube.com/watch?v=RnvNvfzucWQ
+    references:
+    - source: www.youtube.com-watch-v-rnvnvfzucwq
+      quote: Shen Band - گروه شن - هفت تیر سرد
+      accessed: '2026-11-21'
+      locator: Artist-published video
+  cover art:
+  - value: https://i.ytimg.com/vi/RnvNvfzucWQ/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-rnvnvfzucwq
+      quote: https://i.ytimg.com/vi/RnvNvfzucWQ/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Artist live concert film
+    qualifiers:
+      credit:
+        text: Shen Band, original concert film
+        language: en

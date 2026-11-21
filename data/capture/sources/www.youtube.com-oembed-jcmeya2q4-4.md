@@ -2,7 +2,7 @@
 url: https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=jCMEyA2q4-4&format=json
 title: بدهه نوازی آواز بیات اصفهان، صهبا مطلبی و نغمه فرهمند، Owj, haft zarbi, Symphony Space, NYC, 2016
 status: processed
-language: en
+language: mul
 tier: own
 about:
 - Sahba Motallebi

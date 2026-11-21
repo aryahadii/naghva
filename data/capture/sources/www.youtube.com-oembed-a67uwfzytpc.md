@@ -2,7 +2,7 @@
 url: https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=a67uWFZYTpc&format=json
 title: صهبا مطلبی، فرهنگ فاندیشن، Farhang Foundation presents Sahba Motallebi&Friends at Grand Performances
 status: processed
-language: en
+language: mul
 tier: own
 about:
 - Sahba Motallebi

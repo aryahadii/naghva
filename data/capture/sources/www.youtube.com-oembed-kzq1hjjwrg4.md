@@ -2,7 +2,7 @@
 url: https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=KzQ1HJjWRG4&format=json
 title: اجرا صهبا مطلبی، فستیوال موسیقی ملل، Sahba Motallebi at the California World Fest, July, 2016 Part 2
 status: processed
-language: en
+language: mul
 tier: own
 about:
 - Sahba Motallebi

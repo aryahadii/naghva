@@ -2,7 +2,7 @@
 url: https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=QLS2WYHdI2Y&format=json
 title: نوایی نوایی-Navayei Navaie- نوروز مبارک-Happy Norooz
 status: processed
-language: en
+language: mul
 tier: own
 about:
 - Sahba Motallebi

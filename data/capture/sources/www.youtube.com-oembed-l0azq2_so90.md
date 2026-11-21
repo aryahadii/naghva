@@ -2,7 +2,7 @@
 url: https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=l0aZQ2_so90&format=json
 title: آهنگ رقص، چهارمضراب اصفهان- صهبا مطلبی , Simply Dance, Sahba Motallebi
 status: processed
-language: en
+language: mul
 tier: own
 about:
 - Sahba Motallebi

@@ -2,7 +2,7 @@
 url: https://t.me/Sahbamusic/1043
 title: دستگاه ماهور، اجرای کامل درآمد، ردیف استاد شهنازی
 status: processed
-language: en
+language: fa
 tier: own
 about:
 - Sahba Motallebi

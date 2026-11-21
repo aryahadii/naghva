@@ -2,7 +2,7 @@
 url: https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=9YhXTRbeJKc&format=json
 title: قطعه نیاش، دعا برای طبیعتی که گرفتار آتش سوزی شده است، Niayesh- The Nature is burning in to the fire
 status: processed
-language: en
+language: mul
 tier: own
 about:
 - Sahba Motallebi

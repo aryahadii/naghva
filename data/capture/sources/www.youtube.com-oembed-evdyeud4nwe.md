@@ -2,7 +2,7 @@
 url: https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=eVdYeUd4nWE&format=json
 title: اشعار طاهره قره العین،بداهه و دکلمه،صهبا مطلبیSolace of the Eyes,Sahba Motallbei،Tahereh Qurratolayn
 status: processed
-language: en
+language: mul
 tier: own
 about:
 - Sahba Motallebi

@@ -2,7 +2,7 @@
 url: https://t.me/Sahbamusic/77
 title: 'سرخ روي آهنگساز صهبا مطلبي  ، خواننده: سينا سرلك'
 status: processed
-language: en
+language: fa
 tier: own
 about:
 - Sahba Motallebi

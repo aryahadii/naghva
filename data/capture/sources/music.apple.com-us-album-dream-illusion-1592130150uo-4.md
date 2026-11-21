@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/dream-illusion/1592130150?uo=4
 title: ‎Dream& Illusion - Album by Sahba Motallebi - Apple Music
 status: processed
 language: en
-tier: own
+tier: discography
 about:
 - Sahba Motallebi
 ---

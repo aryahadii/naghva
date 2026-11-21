@@ -2,7 +2,7 @@
 url: https://t.me/Sahbamusic/975
 title: دستگاه سه گاه، از ردیف دوره عالی استاد شهنازی، اجرای کامل گوشه فرود.
 status: processed
-language: en
+language: fa
 tier: own
 about:
 - Sahba Motallebi

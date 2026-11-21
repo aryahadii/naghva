@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/%DA%86%D9%87%D8%A7%D8%B1%D9%85%D8%B6%D8%B1
 title: ‎چهارمضراب ماهور (ماهور درویش خان) - Single - Album by Sahba Motallebi - Apple Music
 status: processed
 language: en
-tier: own
+tier: discography
 about:
 - Sahba Motallebi
 ---

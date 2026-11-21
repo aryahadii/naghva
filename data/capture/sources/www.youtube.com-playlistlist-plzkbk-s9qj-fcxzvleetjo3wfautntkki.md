@@ -3,7 +3,7 @@ url: https://www.youtube.com/playlist?list=PLZkBK-s9qJ-FCXzVLEetjo3WFAutntkKI
 title: Masterclass 3, Avaze Dashti- Radif by Ostad Aliakbar Khan Shahnazi- دوره عالی ردیف استاد علی اکبر خان شهنازی،
   آواز دشتی
 status: processed
-language: en
+language: mul
 tier: own
 about:
 - Sahba Motallebi

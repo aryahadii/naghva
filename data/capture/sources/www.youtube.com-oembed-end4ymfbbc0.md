@@ -2,7 +2,7 @@
 url: https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=end4YMFBbC0&format=json
 title: صهبا مطلبی و نغمه فرهمند،لیلی شیرین، Playmate ,Sahba Motallebi and Naghemeh Farahmand Chicago
 status: processed
-language: en
+language: mul
 tier: own
 about:
 - Sahba Motallebi

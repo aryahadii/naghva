@@ -3,7 +3,7 @@ url: https://www.youtube.com/playlist?list=PLZkBK-s9qJ-HZjv2DO4KMJWKOi7GJtBm4
 title: Radife Moghadamatiye Tar, Ketabe Sevvome Honarestan, Moosa Maroofi, Hossein Alizadeh (Tar Lesson Book Vll
   3, ردیف مقدماتی تار و سه تار، موسی معروفی
 status: processed
-language: en
+language: mul
 tier: own
 about:
 - Sahba Motallebi

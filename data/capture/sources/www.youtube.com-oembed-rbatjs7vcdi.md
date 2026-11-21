@@ -2,7 +2,7 @@
 url: https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=RbATJS7VCDI&format=json
 title: بداهه نوازی در آواز دشتی، صهبا مطلبی، Sahba Motallebi, live in concert @ New York City part 2
 status: processed
-language: en
+language: mul
 tier: own
 about:
 - Sahba Motallebi

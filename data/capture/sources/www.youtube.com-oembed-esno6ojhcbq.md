@@ -2,7 +2,7 @@
 url: https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=ESNo6ojhCBQ&format=json
 title: بداهه نوازی در آواز بیات اصفهان تقدیم به استاد فریبرز عزیزی، صهبا Special thanks to Fariborz Azizi
 status: processed
-language: en
+language: mul
 tier: own
 about:
 - Sahba Motallebi

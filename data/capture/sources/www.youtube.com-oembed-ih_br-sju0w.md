@@ -2,7 +2,7 @@
 url: https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=IH_bR-sJu0w&format=json
 title: وداع خسروپرویز و شبدیز، صهبا مطلبی
 status: processed
-language: en
+language: fa
 tier: own
 about:
 - Sahba Motallebi

@@ -3,7 +3,7 @@ url: https://t.me/Sahbamusic/738
 title: قطعه "حرمان" صهبا مطلبي، در آواز بيات اصفهان- اين قطعه همزمان با بازي هاي كودكانه فرزندانمان ليلي و شيرين
   ساخته شده است.
 status: processed
-language: en
+language: fa
 tier: own
 about:
 - Sahba Motallebi

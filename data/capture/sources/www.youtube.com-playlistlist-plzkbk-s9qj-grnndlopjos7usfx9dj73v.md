@@ -2,7 +2,7 @@
 url: https://www.youtube.com/playlist?list=PLZkBK-s9qJ-GRnndLOpjOS7uSfx9DJ73v
 title: Chaharmezrab-e Mahour, چهارمضراب ماهور
 status: processed
-language: en
+language: mul
 tier: own
 about:
 - Sahba Motallebi

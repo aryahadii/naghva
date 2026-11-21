@@ -2,7 +2,7 @@
 url: https://t.me/Sahbamusic/58
 title: صهبا مطلبي و پژمان حدادي به ياد استاد شهنازي. قسمت ٢
 status: processed
-language: en
+language: fa
 tier: own
 about:
 - Sahba Motallebi

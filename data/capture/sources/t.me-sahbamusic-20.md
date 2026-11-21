@@ -2,7 +2,7 @@
 url: https://t.me/Sahbamusic/20
 title: سرخ روي، صهبا مطلبي، آواز كارمينا اسكوبار و سينا سرلك
 status: processed
-language: en
+language: fa
 tier: own
 about:
 - Sahba Motallebi

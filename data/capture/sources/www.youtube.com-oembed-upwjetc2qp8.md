@@ -2,7 +2,7 @@
 url: https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=UPwJetC2qP8&format=json
 title: سعادت- دشتی- نوا، صهبا مطلبی، داریوش اسحاقی ،Bliss- -Dashti Nava،Sahba Motallebi & Daryoush Eshaghi
 status: processed
-language: en
+language: mul
 tier: own
 about:
 - Sahba Motallebi

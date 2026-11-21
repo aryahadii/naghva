@@ -2,7 +2,7 @@
 url: https://t.me/Sahbamusic/685
 title: قطعه "عقل و عشق" نهم دسامبر ٢٠١٩ 🌹 صهبا مطلبي
 status: processed
-language: en
+language: fa
 tier: own
 about:
 - Sahba Motallebi

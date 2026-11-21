@@ -2,7 +2,7 @@
 url: https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=yIeEg6drXP4&format=json
 title: گوشه چهارمضراب، آواز افشاری- Gousheh Chaharmezrab
 status: processed
-language: en
+language: mul
 tier: own
 about:
 - Sahba Motallebi

@@ -2,7 +2,7 @@
 url: https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=IPIPvkZQtUk&format=json
 title: عشق نهفت، دستگاه نوا، صهبا مطلبی ، Hidden Love- Nava، Sahba Motallebi
 status: processed
-language: en
+language: mul
 tier: own
 about:
 - Sahba Motallebi

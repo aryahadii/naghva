@@ -2,7 +2,7 @@
 url: https://www.youtube.com/playlist?list=PLZkBK-s9qJ-FTlo2kYQ5YvLlyweGU0al8
 title: Reng-e Rouz-e No, رنگ روز نو
 status: processed
-language: en
+language: mul
 tier: own
 about:
 - Sahba Motallebi

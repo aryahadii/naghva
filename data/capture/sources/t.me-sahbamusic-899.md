@@ -2,7 +2,7 @@
 url: https://t.me/Sahbamusic/899
 title: 'آواز دشتی، اجرای کامل گوشه چهارمضراب از ردیف دوره عالی استاد علی اکبر خان شهنازی. اجرا: صهبا مطلبی'
 status: processed
-language: en
+language: fa
 tier: own
 about:
 - Sahba Motallebi

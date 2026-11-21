@@ -2,7 +2,7 @@
 url: https://www.youtube.com/playlist?list=PLZkBK-s9qJ-Fu9_XW5s26NujwCyklfvFn
 title: Niyayesh Dar Nava- The secret between me and the Tar Vol 2- نیایش در نوا
 status: processed
-language: en
+language: mul
 tier: own
 about:
 - Sahba Motallebi

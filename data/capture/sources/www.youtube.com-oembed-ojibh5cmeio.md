@@ -2,7 +2,7 @@
 url: https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=oJIBH5CMeio&format=json
 title: بداهه نوازی در آواز بیات اصفهان، اوج، صهبا مطلبی و نغمه فرهمند، Esfahan,  Symphony Space, NYC, 2016
 status: processed
-language: en
+language: mul
 tier: own
 about:
 - Sahba Motallebi

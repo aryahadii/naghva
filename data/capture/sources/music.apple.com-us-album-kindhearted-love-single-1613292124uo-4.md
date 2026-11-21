@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/kindhearted-love-single/1613292124?uo=4
 title: ‎Kindhearted Love - Single - Album by Sahba Motallebi - Apple Music
 status: processed
 language: en
-tier: own
+tier: discography
 about:
 - Sahba Motallebi
 ---

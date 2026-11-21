@@ -2,7 +2,7 @@
 url: https://t.me/Sahbamusic/106
 title: روز معلم مبارک. تقديم به استاد عزيزم فريبرز عزيزي
 status: processed
-language: en
+language: fa
 tier: own
 about:
 - Sahba Motallebi

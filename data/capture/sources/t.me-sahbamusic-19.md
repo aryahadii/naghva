@@ -2,7 +2,7 @@
 url: https://t.me/Sahbamusic/19
 title: بداهه در آواز بيات أصفهان
 status: processed
-language: en
+language: fa
 tier: own
 about:
 - Sahba Motallebi

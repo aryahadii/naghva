@@ -2,7 +2,7 @@
 url: https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=ODjA4jbxLCM&format=json
 title: Sahba Motallebi solo Tar, Live in Atlanta, اجرای زنده تک نوازی تار، صهبا مطلبی در آتلانتا، ۲۰۲۴
 status: processed
-language: en
+language: mul
 tier: own
 about:
 - Sahba Motallebi

@@ -2,7 +2,7 @@
 url: https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=J912_Xg7fZs&format=json
 title: بداهه نوازی صهبا مطلبی در آواز دشتی، Sahba Motallebi live in concert- Improvisation in Avaze Dashti
 status: processed
-language: en
+language: mul
 tier: own
 about:
 - Sahba Motallebi

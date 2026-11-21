@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/solace-of-the-eyes/1600938896?uo=4
 title: ‎Solace of the Eyes - Album by Sahba Motallebi - Apple Music
 status: processed
 language: en
-tier: own
+tier: discography
 about:
 - Sahba Motallebi
 ---

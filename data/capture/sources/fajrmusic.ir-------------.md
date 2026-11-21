@@ -12,3 +12,11 @@ status: processed
 > آرش ملاکریمی
 
 Artist interview, biography or performance credits, read 2026-11-21.
+
+> با استفاده از کیبورد و سینتی‌سایز نواخت
+
+Artist interview, biography or performance credits, read 2026-11-21.
+
+> کنسرت مینیمال کیان پورتراب
+
+Artist interview, biography or performance credits, read 2026-11-21.

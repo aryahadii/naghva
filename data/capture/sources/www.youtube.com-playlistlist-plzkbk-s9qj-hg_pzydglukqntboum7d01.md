@@ -2,7 +2,7 @@
 url: https://www.youtube.com/playlist?list=PLZkBK-s9qJ-HG_PZYdGlUKqNtbOuM7d01
 title: The Farewell of Khosrow and Shabdiz, وداع خسرو و شبدیز
 status: processed
-language: en
+language: mul
 tier: own
 about:
 - Sahba Motallebi

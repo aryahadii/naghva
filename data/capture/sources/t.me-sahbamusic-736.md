@@ -2,7 +2,7 @@
 url: https://t.me/Sahbamusic/736
 title: قطعه "نوروزگاه" صهبا مطلبي، عيد نوروز بر همگان مبارك 🌹
 status: processed
-language: en
+language: fa
 tier: own
 about:
 - Sahba Motallebi

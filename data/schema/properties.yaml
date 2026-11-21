@@ -106,6 +106,8 @@ properties:
       - static.wixstatic.com
       - frauenstadtplan.koeln
       - www.eonmusic.co.uk
+      - tirgan.ca
+      - asianitinerary.com
       - candle-fog.com
       - www.salimworld.com
       - www.farhadmehrad.org
@@ -214,6 +216,8 @@ terms:
     - ney
     - kamancheh
     - producer
+    - compiler
+    - researcher
     - recording engineer
     - mixing engineer
     - mastering engineer
@@ -243,6 +247,8 @@ terms:
 # `contributor` only these.
 creation roles:
   - producer
+  - compiler
+  - researcher
   - recording engineer
   - mixing engineer
   - mastering engineer

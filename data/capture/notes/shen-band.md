@@ -60,7 +60,7 @@ The seven albums on the artist’s present discography are matched, track by tra
 - Baaz Ham Meegooyeem Aareh (Qgrm6gf) · https://music.apple.com/us/album/baaz-ham-meegooyeem-aareh/1500095417 · https://open.spotify.com/album/1c8paTjSEGekJsTkryOhCr · https://www.youtube.com/playlist?list=OLAK5uy_nvr5G9eaOocNsp5NYnwRBmPcOuqukJCsM
 - Baaz Ham Meegooyeem Aareh (Qdxgvxw) · https://music.apple.com/us/song/baaz-ham-meegooyeem-aareh/1500095423 · https://open.spotify.com/track/0SKtm6Gvrrwbuhb53YhyAq · https://www.youtube.com/watch?v=N6gt4Eosq9U
 - Emshab Biyaa (Qqayz4s) · https://music.apple.com/us/song/emshab-biyaa/1500095424 · https://open.spotify.com/track/0kNf3hDV4t2fQIOMK0HNHr · https://www.youtube.com/watch?v=PYlxqTvrDSg
-- Haftireh Sard (Qkrkz87) · https://music.apple.com/us/song/haftireh-sard/1500095425 · https://open.spotify.com/track/7tZTOBmuxgagh9KNjVUUT7 · https://www.youtube.com/watch?v=z2L_qGtD0QU · https://www.youtube.com/watch?v=RnvNvfzucWQ
+- Haftireh Sard (Qkrkz87) · https://music.apple.com/us/song/haftireh-sard/1500095425 · https://open.spotify.com/track/7tZTOBmuxgagh9KNjVUUT7 · https://www.youtube.com/watch?v=z2L_qGtD0QU
 - Donyaa Saaket Neshasteh (Qkswsgk) · https://music.apple.com/us/song/donyaa-saaket-neshasteh/1500095426 · https://open.spotify.com/track/6wqMCgX3pcodLu15Uy7cjY · https://www.youtube.com/watch?v=AMfBZYk7vr0
 - Khorshidee Ham Hast (Qc24ha5) · https://music.apple.com/us/song/khorshidee-ham-hast/1500095427 · https://open.spotify.com/track/5gl7WTa6E3AXYL40Moi2Qa · https://www.youtube.com/watch?v=5Jfc3BTMwlc
 - Mesleh Yek Koodak (Qnvmcc2) · https://music.apple.com/us/song/mesleh-yek-koodak/1500095428 · https://open.spotify.com/track/38673T0GoWrObGCnuWJSUs · https://www.youtube.com/watch?v=2wvOE9929zg
@@ -91,3 +91,7 @@ The seven albums on the artist’s present discography are matched, track by tra
 - Recluse (Not a Terrorist) (Qms2nyp)
 
 Hafteh 380 (p. 14) verifies two original Montreal videos at the end of 2015. Hashemi credits Namvar on violin and piano, JY Andre on drums and bass, and Jamal Tavassoli and Hamed Mirkamali on camera in his account of the re-recorded “Donyaa Saaket Neshasteh.” The studio director dates and credits have therefore been kept distinct from the stage recordings and alternate mixes. The contemporary report in issue 402 (p. 24) identifies a local preview before the planned tenth anniversary concert.
+
+- Haftireh Sard (live) (Qw2znby) · https://www.youtube.com/watch?v=RnvNvfzucWQ
+
+The artist’s recovered 2018 video archive labels the stage cuts “Haftireh Sard” and “Siyaah” and the unplugged “Meelarzam”; verified on the later artist-uploaded film images. The original 2017 “Recluse” page credits Hashemi’s singing and guitars, Kian Farshadi’s bass and Jean-Yves Andre’s drums. The band’s signed January 2015 biography names Reza Rashidi and Tommy Mack in sound, and H.S. Mirkamali and J. Tavasoli on video production. It dates a studio rerecording campaign. The older discography already listed a working edition of Alternates by 2015, while the current site dates the finished album to 2017.

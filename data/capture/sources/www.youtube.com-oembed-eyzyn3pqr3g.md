@@ -2,7 +2,7 @@
 url: https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=eYzyN3pQr3g&format=json
 title: 'Rebirth,Sahba Motallebi,TJ Troy dedicated to awakened heart, تولدی دوباره، تقدیم به قلوب بیدار شده '
 status: processed
-language: en
+language: mul
 tier: own
 about:
 - Sahba Motallebi

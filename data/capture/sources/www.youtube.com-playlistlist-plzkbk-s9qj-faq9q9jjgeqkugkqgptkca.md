@@ -2,7 +2,7 @@
 url: https://www.youtube.com/playlist?list=PLZkBK-s9qJ-FaQ9q9jJgeqKugKqgpTkCA
 title: Shahgah, شاهگاه
 status: processed
-language: en
+language: mul
 tier: own
 about:
 - Sahba Motallebi

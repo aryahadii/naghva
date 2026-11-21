@@ -2,7 +2,7 @@
 url: https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=q-p4DNsGWuU&format=json
 title: علیرضا قربانی، صهبا مطلبی، ارکستر ملی ایران، شعر:فریدون مشیریAlireza Ghorbani،Sahba Motallebi،Dashti
 status: processed
-language: en
+language: mul
 tier: own
 about:
 - Sahba Motallebi

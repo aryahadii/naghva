@@ -2,7 +2,7 @@
 url: https://t.me/Sahbamusic/56
 title: چرخ سبز ، تقديم به استاد حسين عليزاده، خواننده سینا سرلک
 status: processed
-language: en
+language: fa
 tier: own
 about:
 - Sahba Motallebi

@@ -2,7 +2,7 @@
 url: https://www.youtube.com/playlist?list=PLZkBK-s9qJ-Gp1cKzhyLyFdSe6xAT9oHG
 title: Radif e Mirza Abdollah, ردیف میرزاعبدلله
 status: processed
-language: en
+language: mul
 tier: own
 about:
 - Sahba Motallebi

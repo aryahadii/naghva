@@ -3,7 +3,7 @@ url: https://music-web.ucsd.edu/concerts/concert_programs/2023-24/1%20-%20Fall%2
 title: 'UC San Diego: Sahba Motallebi'
 status: processed
 language: en
-tier: own
+tier: other
 about:
 - Sahba Motallebi
 ---

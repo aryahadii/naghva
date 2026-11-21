@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/ancient-heritage-feat-pejman-hadadi/158655
 title: ‎Ancient Heritage (feat. Pejman Hadadi) - Album by Sahba Motallebi - Apple Music
 status: processed
 language: en
-tier: own
+tier: discography
 about:
 - Sahba Motallebi
 ---

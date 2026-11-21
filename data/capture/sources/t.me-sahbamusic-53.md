@@ -2,7 +2,7 @@
 url: https://t.me/Sahbamusic/53
 title: چهارمضراب بيات أصفهان. صهبا مطلبي و نغمه فرهمند
 status: processed
-language: en
+language: fa
 tier: own
 about:
 - Sahba Motallebi
