@@ -54,3 +54,5 @@ Montreal-based trio, founded in 2013. The verified Bandcamp group photograph sho
 - Crossed parallels, By Saeed Kamjoo (Qhv8ktq) · https://www.youtube.com/watch?v=9uq44NIG4n4
 - Tehran, by Saeed Kamjoo (Qqghb9h) · https://www.youtube.com/watch?v=tzuk-YAfNTI
 - Invisible Circle (by Ziya Tabassian) (Qc3xp5a) · https://www.youtube.com/watch?v=Mw2EGY28U2g
+
+The collaborator’s 35-minute Del Karún al Papaloapan upload bills only Al Golpe del Guatimé and its three native time-sampled stills show that group’s musicians. The 2019 Veracruz joint concert programme does not independently identify the upload as the same venue or performance. The 2024 Montreal Baroque Fandanguito credits Ziya individually.

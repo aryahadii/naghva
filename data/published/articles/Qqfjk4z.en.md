@@ -50,8 +50,18 @@ references:
     quote: partially recorded in Tehran and Paris
     accessed: 2026-11-21
     locator: Sessions for the self-titled album
+  move:
+    source: www.lemonde.fr-musiques-article-2016-04-28-manushan-le-chant-de-l-interdit-et-de-l-exil_4909956_1654986.html
+    quote: Partis de Téhéran en novembre 2015 avec un visa compétences et talents
+    locator: Original programme, liner notes or performer credit
+    accessed: '2026-11-21'
+  ivry:
+    source: www.lemonde.fr-musiques-article-2016-04-28-manushan-le-chant-de-l-interdit-et-de-l-exil_4909956_1654986.html
+    quote: leur installation dans une petite maison d’Ivry-sur-Seine
+    locator: Original programme, liner notes or performer credit
+    accessed: '2026-11-21'
 ---
 
 A shared interest in flamenco brought violinist and singer Aïda Nosrat together with guitarist Babak Amir Mobasher in Tehran. Before forming Manushan they played with Shahin Alvai in Ea. Manushan could be a duo or a quartet. Even as a duo the two could generate a drum part: at the virtual Brecon Jazz Festival, Mobasher opened “Swing Me to Your Song” on solo guitar and then struck the body of the instrument under Nosrat’s voice and violin.[^flamenco][^met][^duo][^brecon][^stage]
 
-*Beyond the Vision* appeared on the German label Dreyer Gaido. For *Swing Me to Your Song*, produced by Kayvan Jahanshahi, the group issued the CD under its own name. The later *Manushan* album, billed to Aïda & Babak, carried recordings from both Tehran and Paris. The two places can thus be heard on one record from the years when the musicians moved to France.[^beyond][^swing][^producer][^newcd][^voice]
+*Beyond the Vision* appeared on the German label Dreyer Gaido. For *Swing Me to Your Song*, produced by Kayvan Jahanshahi, the group issued the CD under its own name. The later *Manushan* album, billed to Aïda & Babak, carried recordings from both Tehran and Paris. The two places can thus be heard on one record from the years when the musicians moved to France.[^beyond][^swing][^producer][^newcd][^voice] Nosrat and Mobasher left Tehran for France on a skills-and-talents visa in November 2015 and made their home in Ivry-sur-Seine.[^move][^ivry]

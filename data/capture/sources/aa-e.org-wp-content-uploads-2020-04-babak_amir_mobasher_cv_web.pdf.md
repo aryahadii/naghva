@@ -17,3 +17,15 @@ Physical release history, read 2026-11-21.
 > CD Aida & Babak project Manushan
 
 Physical release history, read 2026-11-21.
+
+Original programme, liner notes or performer credit, read 2026-11-21.
+
+> Musicien (guitare, violoncelle)
+
+Original programme, liner notes or performer credit, read 2026-11-21.
+
+> concert avec Nader Mashayekhi & Tehran Chamber Orchestra
+
+Original programme, liner notes or performer credit, read 2026-11-21.
+
+> Die Bühne Im Hof, St.Pölten, Autriche

@@ -29,3 +29,7 @@ Original programme, liner notes or performer credit, read 2026-11-21.
 Original programme, liner notes or performer credit, read 2026-11-21.
 
 > Kamanché: Sina Danesh
+
+Original programme, liner notes or performer credit, read 2026-11-21.
+
+> an old Tajik song based on a poem by Hafez

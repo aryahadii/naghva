@@ -1,0 +1,35 @@
+id: Qggpk96
+type: release
+statements:
+  name:
+  - value:
+      text: Khomasho
+      language: en
+    references:
+    - &id001
+      source: soundcloud.com-aika-ensemble-aika-ensemble-khomasho
+      quote: Aïka Ensemble - Khomasho
+      accessed: '2026-11-21'
+      locator: Group-published SoundCloud recording
+  performer:
+  - value: Qpwmdfk
+    references:
+    - *id001
+  - value: Qpav8br
+    references:
+    - source: aa-e.org-en-artiste-mobasher-babak-amir-2
+      quote: founded the group Aika with singer Hura Mirshekari
+      accessed: '2026-11-21'
+      locator: Group founders
+  release date:
+  - value:
+      date: '2022-12-16'
+    references:
+    - source: soundcloud.com-aika-ensemble-aika-ensemble-khomasho
+      quote: '2022-12-16'
+      accessed: '2026-11-21'
+      locator: SoundCloud issue date
+  listen link:
+  - value: https://soundcloud.com/aika-ensemble/aika-ensemble-khomasho
+    references:
+    - *id001

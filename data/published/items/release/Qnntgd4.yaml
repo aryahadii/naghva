@@ -17,18 +17,14 @@ statements:
       quote: Persiennes D'Iran · Atine · 2020-11-06
       accessed: 2026-11-21
       locator: Digital issue and artist billing
-  - value: Qnbf3sx
-    references:
-    - source: atine.bandcamp.com-album-persiennes-diran
-      quote: 'Aïda Nosrat : Voix'
-      accessed: 2026-11-21
-      locator: Original CD credits
   - value: Qh3tqkn
     references:
     - source: atine.bandcamp.com-album-persiennes-diran
       quote: 'Sogol Seyedmirzaei : Târ'
-      accessed: 2026-11-21
-      locator: Original CD credits
+      locator: Original programme, liner notes or performer credit
+      accessed: '2026-11-21'
+    qualifiers:
+      role: tar
   listen link:
   - value: https://music.apple.com/us/song/interlude-t%C3%A2r/1535852115
     references:

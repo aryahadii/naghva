@@ -1,0 +1,17 @@
+id: Qdt7cnk
+type: release
+statements:
+  name:
+  - value:
+      text: Solo Tar Bayat e Esfahan (Auditorio Blas Galindo)
+      language: en
+    references:
+    - &id001
+      source: videoteca.cenart.gob.mx-canal-23-255759-2
+      quote: 8 00.28:41.027 --> 00.33:17.002 Solo Tar Bayat e Esfahan
+      accessed: '2026-11-21'
+      locator: Canal 23 broadcast cue 8
+  performer:
+  - value: Qcabd29
+    references:
+    - *id001

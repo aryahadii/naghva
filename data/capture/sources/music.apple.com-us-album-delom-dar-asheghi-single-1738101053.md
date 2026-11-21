@@ -25,3 +25,7 @@ Release heading, read 2026-11-21.
 > Delom Dar Asheghi
 
 Track listing, read 2026-11-21.
+
+> Delom Dar Asheghi - Single · Ehsan Matoori · Mohammad Laryan · Siriya Ensemble · 2024-03-26
+
+Artist and date on issue, read 2026-11-21.

@@ -41,3 +41,6 @@ The musicians’ own CD chronology lists Beyond the Vision on Dreyer Gaido in 20
 - We Fly With Butterflies (Qtybhcr)
 - Yalda (Paris concert) (Qars4wh)
 - Ârezou (Qt3826m)
+- Aïda & Babak Quartet "Manushan" -  Lâlâyi é Mahtâb (Live au Au Fil des Voix) (Qybaqw7)
+- Aïda & Babak Quartet "Manushan" - Kié Kié dar mizané ? (Live au Au Fil des Voix) (Qz88bvw)
+- Journée mondiale du réfugié : Jam session avec Refugees of rap, M, Naâman et 11 autres artistes (Qts8djf)

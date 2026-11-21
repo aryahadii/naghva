@@ -20,3 +20,5 @@ The original Atine album is distinguished from the Paris film for Farhang. Nosra
 - Retours (Q7vabj4)
 - Sâghi (Qq4wwh9)
 - Yâri (Qx3abr9)
+
+The Lille Opera concert programme identifies Sheida and Aref Qazvini as sources for the late-Qajar repertoire. The two instrumental interludes have track-specific soloists, and the Au Fil des Voix concert is credited to its full performing lineup. [Opera programme](https://www.opera-lille.fr/wp-content/uploads/2024/07/Programme-Persiennes-dIran.pdf)

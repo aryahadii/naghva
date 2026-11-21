@@ -39,3 +39,47 @@ statements:
       quote: Ava Rasti
       accessed: '2026-11-21'
       locator: Artist interview, biography or performance credits
+  image:
+  - value: https://i.scdn.co/image/ab6761610000e5ebe18f47c7299ae6bc17025e78
+    references:
+    - source: open.spotify.com-artist-4s2ibve1ad9bbmn3m0ljky
+      quote: https://i.scdn.co/image/ab6761610000e5ebe18f47c7299ae6bc17025e78
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: Ava Rasti, via Spotify
+        language: en
+  profile link:
+  - value: https://open.spotify.com/artist/4s2iBVE1aD9bbMN3M0ljKY
+    references:
+    - source: open.spotify.com-artist-4s2ibve1ad9bbmn3m0ljky
+      quote: Listen to Ava Rasti Songs | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/artist/ava-rasti/1485164701
+    references:
+    - source: music.apple.com-us-artist-ava-rasti-1485164701
+      quote: ‎Ava Rasti - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://avarasti.bandcamp.com/music
+    references:
+    - source: avarasti.bandcamp.com-music
+      quote: Music | Ava Rasti
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/avaarasti
+    references:
+    - source: soundcloud.com-avaarasti
+      quote: Stream Ava Rasti music | Listen to songs, albums, playlists for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  birth date:
+  - value:
+      date: '1996'
+    references:
+    - source: avarasti.bandcamp.com-music
+      quote: '1996'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits

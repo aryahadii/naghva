@@ -75,9 +75,14 @@ references:
     quote: Nadia Says is a music curator
     accessed: '2026-11-21'
     locator: Artist interview, biography or performance credits
+  founder:
+    source: www.kaltblut-magazine.com-in-conversation-with-ava-rasti
+    quote: I began playing the bass guitar and formed an underground girl band called Finches
+    accessed: '2026-11-21'
+    locator: Artist interview, biography or performance credits
 ---
 
-گروه زیرزمینی The Finches را زنان نوازندهٔ ایندی‌راک در تابستان ۲۰۱۵ در تهران تشکیل دادند.[^genre] نخستین خواننده و نوازندهٔ درامز در زمستان همان سال رفتند. در ۲۰۱۶ ژینا اردلان در گروه می‌خواند و گیتار می‌زد. به روایت اعضا، نخستین تک‌آهنگشان «Ocean» تابستان همان سال منتشر شد. اجراهای اولیه‌شان در فضاهای زیرزمینی تهران بود.[^start][^change][^ocean][^zhina][^stage]
+آوا راستی، نوازندهٔ گیتار بیس، از بنیان‌گذاران The Finches در تهران بود. این گروه زیرزمینی ایندی‌راک را زنان نوازنده در تابستان ۲۰۱۵ تشکیل دادند.[^founder][^genre] نخستین خواننده و نوازندهٔ درامز در زمستان همان سال رفتند. در ۲۰۱۶ ژینا اردلان در گروه می‌خواند و گیتار می‌زد. به روایت اعضا، نخستین تک‌آهنگشان «Ocean» تابستان همان سال منتشر شد. اجراهای اولیه‌شان در فضاهای زیرزمینی تهران بود.[^start][^change][^ocean][^zhina][^stage]
 
 ضبط نخستین آلبوم کوتاه گروه، [*Psychodelan*](#psychodelan-rs9)، در ۲۰۱۸ آغاز شد. بهار سال بعد، «Run run run» نخستین موزیک‌ویدئوی گروه شد. گزارش سال ۲۰۱۹ انجمن فرهنگی اتریش نام چهار نوازنده را برای کنسرت تهران ثبت کرده است: آوا راستی، عسل ملکی، تارا سعیدی و ژینا اردلان.[^lineup] پس از انتشار آلبوم، نوازندهٔ درامز گروه را ترک کرد و سایر اعضا به ساختن قطعه با ضرب‌های الکترونیک روی آوردند.[^video][^stage][^departure]
 

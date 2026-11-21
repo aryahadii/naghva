@@ -35,3 +35,12 @@ statements:
   - value: https://www.youtube.com/watch?v=AT5WL4JlA3A
     references:
     - *id001
+  contributor:
+  - value: Qqb9bnx
+    references:
+    - source: www.youtube.com-watch-v-v0bvjkoy8gk
+      quote: Cinco Puertas ..... Mehdi Moshtagh
+      accessed: '2026-11-21'
+      locator: Ten-work retrospective, original end-credit description
+    qualifiers:
+      role: composer

@@ -1,0 +1,64 @@
+id: Qknvcsg
+type: release
+statements:
+  name:
+  - value:
+      text: No One Knows How Wild The Wind Blows
+      language: en
+    references:
+    - source: avarasti.bandcamp.com-album-no-one-knows-how-wild-the-wind-blows
+      quote: No One Knows How Wild The Wind Blows | Ava Rasti
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qks2dfk
+    references:
+    - source: avarasti.bandcamp.com-album-no-one-knows-how-wild-the-wind-blows
+      quote: No One Knows How Wild The Wind Blows | Ava Rasti
+      accessed: '2026-11-21'
+      locator: Page title
+  release type:
+  - value: album
+    references:
+    - source: avarasti.bandcamp.com-album-no-one-knows-how-wild-the-wind-blows
+      quote: No One Knows How Wild The Wind Blows | Ava Rasti
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://avarasti.bandcamp.com/album/no-one-knows-how-wild-the-wind-blows
+    references:
+    - source: avarasti.bandcamp.com-album-no-one-knows-how-wild-the-wind-blows
+      quote: No One Knows How Wild The Wind Blows | Ava Rasti
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/album/30OF6Y7V6Yo9bDqQAoUqct
+    references:
+    - source: open.spotify.com-album-30of6y7v6yo9bdqqaouqct
+      quote: Listen to No One Knows How Wild The Wind Blows - Album by Ava Rasti | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/no-one-knows-how-wild-the-wind-blows/6791581124
+    references:
+    - source: music.apple.com-us-album-no-one-knows-how-wild-the-wind-blows-6791581124
+      quote: ‎No One Knows How Wild The Wind Blows - Album by Ava Rasti - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a2343669254_10.jpg
+    references:
+    - source: avarasti.bandcamp.com-album-no-one-knows-how-wild-the-wind-blows
+      quote: https://f4.bcbits.com/img/a2343669254_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original recording publisher
+        language: en
+  release date:
+  - value:
+      date: '2026-10-30'
+    references:
+    - source: avarasti.bandcamp.com-album-no-one-knows-how-wild-the-wind-blows
+      quote: released October 30, 2026
+      accessed: '2026-11-21'
+      locator: Published date

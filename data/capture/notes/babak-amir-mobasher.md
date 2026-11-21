@@ -41,3 +41,7 @@ The musicians’ own CD chronology lists Beyond the Vision on Dreyer Gaido in 20
 - We Fly With Butterflies (Qtybhcr)
 - Yalda (Paris concert) (Qars4wh)
 - Ârezou (Qt3826m)
+- Aïda & Babak Quartet "Manushan" -  Lâlâyi é Mahtâb (Live au Au Fil des Voix) (Qybaqw7)
+- Aïda & Babak Quartet "Manushan" - Kié Kié dar mizané ? (Live au Au Fil des Voix) (Qz88bvw)
+
+His original CV identifies cello alongside guitar and lists the May 2008 Austrian appearance with Nader Mashayekhi and the Tehran Chamber Orchestra. The November 2015 move to France is dated by the musicians’ April 2016 interview. The CV and the workshop biography differ on his year of birth.

@@ -1,0 +1,81 @@
+id: Qrsex5j
+type: release
+statements:
+  name:
+  - value:
+      text: I Remember
+      language: en
+    references:
+    - source: avarasti.bandcamp.com-track-i-remember
+      quote: I Remember | Ava Rasti
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qks2dfk
+    references:
+    - source: avarasti.bandcamp.com-track-i-remember
+      quote: I Remember | Ava Rasti
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://avarasti.bandcamp.com/track/i-remember
+    references:
+    - source: avarasti.bandcamp.com-track-i-remember
+      quote: I Remember | Ava Rasti
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/album/26pSbhVp0aop3ni96t3hv7
+    references:
+    - source: open.spotify.com-album-26psbhvp0aop3ni96t3hv7
+      quote: Listen to I Remember - Single by Ava Rasti | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1762015072
+    references:
+    - source: music.apple.com-us-song-1762015072
+      quote: ‎I Remember - Song with Lyrics by Ava Rasti - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1762009583
+    references:
+    - source: music.apple.com-us-song-1762009583
+      quote: ‎I Remember - Song with Lyrics by Ava Rasti - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/i-remember-single/1762009580
+    references:
+    - source: music.apple.com-us-album-i-remember-single-1762009580
+      quote: ‎I Remember - Single - Album by Ava Rasti - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/0VFqRM9L2lOXVDjWH8I0ss
+    references:
+    - source: open.spotify.com-track-0vfqrm9l2loxvdjwh8i0ss
+      quote: I Remember - song and lyrics by Ava Rasti | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/2xz2kEkABELedMoaXI88RV
+    references:
+    - source: open.spotify.com-track-2xz2kekabeledmoaxi88rv
+      quote: I Remember - song and lyrics by Ava Rasti | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a2499614857_10.jpg
+    references:
+    - source: avarasti.bandcamp.com-track-i-remember
+      quote: https://f4.bcbits.com/img/a2499614857_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original recording publisher
+        language: en
+  release date:
+  - value:
+      date: '2024-12-06'
+    references:
+    - source: avarasti.bandcamp.com-album-the-river
+      quote: released December 6, 2024
+      accessed: '2026-11-21'
+      locator: Published date

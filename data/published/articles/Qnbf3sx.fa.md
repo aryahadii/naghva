@@ -75,10 +75,30 @@ references:
     quote: France, Belgique, Pologne, Hongrie, Italie et Espagne
     accessed: 2026-11-21
     locator: Residency countries
+  move:
+    source: www.lemonde.fr-musiques-article-2016-04-28-manushan-le-chant-de-l-interdit-et-de-l-exil_4909956_1654986.html
+    quote: Partis de Téhéran en novembre 2015 avec un visa compétences et talents
+    locator: Original programme, liner notes or performer credit
+    accessed: '2026-11-21'
+  ivry:
+    source: www.lemonde.fr-musiques-article-2016-04-28-manushan-le-chant-de-l-interdit-et-de-l-exil_4909956_1654986.html
+    quote: leur installation dans une petite maison d’Ivry-sur-Seine
+    locator: Original programme, liner notes or performer credit
+    accessed: '2026-11-21'
+  emler:
+    source: labellabuissonne.bandcamp.com-album-no-solo
+    quote: ANDY EMLER .PIANO, COMPOSITIONS
+    locator: Original programme, liner notes or performer credit
+    accessed: '2026-11-21'
+  gold:
+    source: musicbase.net-no-solo
+    quote: Gold Timer featuring Aida Nosrat, Rhoda Scott
+    locator: Original programme, liner notes or performer credit
+    accessed: '2026-11-21'
 ---
 
-آیدا نصرت در ده‌سالگی ویولن را انتخاب کرد و از هفده‌سالگی در ارکستر سمفونیک تهران نواخت. آواز ایرانی را هم نزد غلامرضا رضایی آموخت. در مانوشان، گروهی که با بابک امیرمبشر راه انداخت، آواز و ویولن دو بخش یک اجرا بودند. در جشنوارهٔ جاز برکن از خواندن یک بند به تک‌نوازی ویولن رسید، در حالی که امیرمبشر با ضربه به بدنهٔ گیتار ریتم را نگه می‌داشت.[^violin][^orchestra][^teacher][^duo][^stage]
+آیدا نصرت در ده‌سالگی ویولن را انتخاب کرد و از هفده‌سالگی در ارکستر سمفونیک تهران نواخت. آواز ایرانی را هم نزد غلامرضا رضایی آموخت. در مانوشان، گروهی که با بابک امیرمبشر راه انداخت، آواز و ویولن دو بخش یک اجرا بودند. در جشنوارهٔ جاز برکن از خواندن یک بند به تک‌نوازی ویولن رسید، در حالی که امیرمبشر با ضربه به بدنهٔ گیتار ریتم را نگه می‌داشت.[^violin][^orchestra][^teacher][^duo][^stage] نصرت و مباشر در نوامبر ۲۰۱۵ با ویزای «مهارت‌ها و استعدادها» از تهران به فرانسه رفتند و در ایوری‌سورسن ساکن شدند.[^move][^ivry]
 
-نصرت برای گروه «سوال دیابی» بر سرآغاز نی‌نامهٔ مولانا آهنگ ساخت و خودش خواند. در گروه Atine صدایش کنار تار، قانون، تمبک و ویولا دا گامبا می‌نشیند. به گفتهٔ نصرت، گروه با دو نوازندهٔ ویولنسل تمرین کرد تا سرانجام صدای بم و پرده‌های جابه‌جاشدنیِ گامبا را پیدا کرد.[^nas][^sang][^tar][^qanun][^drum][^gamba][^celli][^strings]
+نصرت برای گروه «سوال دیابی» بر سرآغاز نی‌نامهٔ مولانا آهنگ ساخت و خودش خواند. در گروه Atine صدایش کنار تار، قانون، تمبک و ویولا دا گامبا می‌نشیند. به گفتهٔ نصرت، گروه با دو نوازندهٔ ویولنسل تمرین کرد تا سرانجام صدای بم و پرده‌های جابه‌جاشدنیِ گامبا را پیدا کرد.[^nas][^sang][^tar][^qanun][^drum][^gamba][^celli][^strings] در سال ۲۰۲۰ او و رودا اسکات در «Gold Timer» برای آلبوم «No Solo» اثر اندی املر، پیانیست فرانسوی، آواز خواندند.[^emler][^gold]
 
 برای آلبوم «Common Routes» همراه اولیویه کیکتف، نوازندهٔ گیتار، و آنتوان ژیرار، نوازندهٔ آکاردئون، سفر کرد. در شش کشور، از فرانسه و بلژیک تا مجارستان و اسپانیا، با نوازندگان محلی کار کردند و حاصل این دیدارها در ضبط‌های گروه راه یافت.[^trip][^countries]

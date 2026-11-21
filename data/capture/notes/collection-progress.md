@@ -138,15 +138,24 @@ The expansion started at revision fa6c29ca with 124 bilingual artist pages. The 
 | XEEN | Qb5hnjh | 9.2/10 | [Independent review](artist-page-scores.md) |
 | The Finches | Qnw83g7 | 9.2/10 | [Independent review](the-finches-independent-review.md) |
 | Stereotype | Q6g9xwf | 9.2/10 | [Independent review](stereotype-independent-review.md) |
-| Farshad Mohammadi | Qdqq7t4 | Pending | [Catalogue](farshad-mohammadi.md) |
+| Farshad Mohammadi | Qdqq7t4 | 9.2/10 | [Independent review](artist-page-scores.md) |
 | Barbad Project | Q4kxyfv | 9.2/10 | [Independent review](barbad-project-independent-review.md) |
 | Reza Mohsenipour | Q2pj5vj | 9.2/10 | [Independent review](reza-mohsenipour-independent-review.md) |
 | Ensamble Didar | Qcabd29 | Pending | [Catalogue](ensamble-didar.md) |
 | Meshcut | Qh6s4f5 | Pending | [Catalogue](meshcut.md) |
-| Salvaation | Q8v6j5h | Pending | [Catalogue](salvaation.md) |
+| Salvaation | Q8v6j5h | 9.2/10 | [Independent review](salvaation-independent-review.md) |
 | Manushan | Qqfjk4z | Pending | [Catalogue](manushan.md) |
 | Aïda Nosrat | Qnbf3sx | Pending | [Catalogue](aida-nosrat.md) |
 | Babak Amir Mobasher | Qp74mve | Pending | [Catalogue](babak-amir-mobasher.md) |
 | Atine | Qbtpw7v | Pending | [Catalogue](atine.md) |
+| Hura Mirshekari | Qpav8br | Pending | [Catalogue](hura-mirshekari.md) |
+| Aïka | Qpwmdfk | Pending | [Catalogue](aika-ensemble.md) |
+| Sogol Mirzaei | Qh3tqkn | Pending | [Catalogue](sogol-mirzaei.md) |
+| Chakâm | Qd4gwas | Pending | [Catalogue](ensemble-chakam.md) |
+| Rokh Quartet | Qn5vbwr | Pending | [Catalogue](rokh-quartet.md) |
+| Ava Rasti | Qks2dfk | Pending | [Catalogue](ava-rasti.md) |
+| Hami Hamoo | Qaxddrm | Pending | [Catalogue](hami-hamoo.md) |
+| Siriya Ensemble | Qxyqq7z | Pending | [Catalogue](siriya-ensemble.md) |
+| Mohammad Laryan | Qd43wbp | Pending | [Catalogue](mohammad-laryan.md) |
 
 The [discovery list](independent-artist-discovery.md) contains candidates with release leads. Some will prove ineligible or match an existing artist by another spelling. Only new artist pages count toward the target.

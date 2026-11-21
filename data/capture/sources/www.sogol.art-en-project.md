@@ -21,3 +21,7 @@ Original programme, liner notes or performer credit, read 2026-11-21.
 Original programme, liner notes or performer credit, read 2026-11-21.
 
 > Eleanna Pitsikaki
+
+Original programme, liner notes or performer credit, read 2026-11-21.
+
+> each member contributing their own compositions

@@ -1,0 +1,79 @@
+id: Qcgn2rr
+type: release
+statements:
+  name:
+  - value:
+      text: Lut's Calling
+      language: en
+    references:
+    - source: music.apple.com-us-album-luts-calling-feat-hura-mirshekari-single-1827992833
+      quote: Lut's Calling (feat. Hura Mirshekari)
+      accessed: '2026-11-21'
+      locator: Digital track 1
+  performer:
+  - value: Qpav8br
+    references:
+    - source: music.apple.com-us-album-luts-calling-feat-hura-mirshekari-single-1827992833
+      quote: Hura Mirshekari
+      accessed: '2026-11-21'
+      locator: Credited artist
+  - value: Qbrr4f2
+    references:
+    - source: music.apple.com-us-album-luts-calling-feat-hura-mirshekari-single-1827992833
+      quote: Crystal Sound Project
+      accessed: '2026-11-21'
+      locator: Original release artist
+  - value: Q3jdsht
+    references:
+    - source: enovae.bandcamp.com-track-luts-calling-feat-hura-mirshekari
+      quote: bilyana furnadzhieva - prepared piano
+      accessed: '2026-11-21'
+      locator: Performing personnel
+    qualifiers:
+      role: piano
+  - value: Qxch6yr
+    references:
+    - source: enovae.bandcamp.com-track-luts-calling-feat-hura-mirshekari
+      quote: viktor benev - kalimba, electronics, programming
+      accessed: '2026-11-21'
+      locator: Performing personnel
+    qualifiers:
+      role: electronics
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a7/1a/d6/a71ad652-bc00-b4d5-5cde-87086b254798/cover.jpg/1200x630wp-60.jpg
+    references:
+    - source: music.apple.com-us-album-luts-calling-feat-hura-mirshekari-single-1827992833
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a7/1a/d6/a71ad652-bc00-b4d5-5cde-87086b254798/cover.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Original edition artwork
+    qualifiers:
+      credit:
+        text: Apple Music, original distributor artwork
+        language: en
+  release date:
+  - value:
+      date: '2025-08-10'
+    references:
+    - source: music.apple.com-us-album-luts-calling-feat-hura-mirshekari-single-1827992833
+      quote: '2025-08-10'
+      accessed: '2026-11-21'
+      locator: Digital issue date
+  listen link:
+  - value: https://music.apple.com/us/song/luts-calling-feat-hura-mirshekari/1827992834
+    references:
+    - source: music.apple.com-us-album-luts-calling-feat-hura-mirshekari-single-1827992833
+      quote: https://music.apple.com/us/song/luts-calling-feat-hura-mirshekari/1827992834
+      accessed: '2026-11-21'
+      locator: Exact Apple song
+  - value: https://open.spotify.com/track/1HN5i3K273Ec50wNrmSZZX
+    references:
+    - source: open.spotify.com-embed-album-01ccetnnvn4ffoujnbto1f
+      quote: spotify:track:1HN5i3K273Ec50wNrmSZZX
+      accessed: '2026-11-21'
+      locator: Exact Spotify track
+  - value: https://enovae.bandcamp.com/track/luts-calling-feat-hura-mirshekari
+    references:
+    - source: enovae.bandcamp.com-track-luts-calling-feat-hura-mirshekari
+      quote: hura mirshekari - vocals
+      accessed: '2026-11-21'
+      locator: Original label personnel

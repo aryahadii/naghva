@@ -29,3 +29,7 @@ Original programme, liner notes or performer credit, read 2026-11-21.
 Original programme, liner notes or performer credit, read 2026-11-21.
 
 > Viole de gambe: Marie-Suzanne De Loye
+
+Original programme, liner notes or performer credit, read 2026-11-21.
+
+> 14 Octobre 2020 à Châteauroux

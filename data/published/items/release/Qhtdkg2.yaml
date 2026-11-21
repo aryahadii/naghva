@@ -15,6 +15,24 @@ statements:
   - value: Qcabd29
     references:
     - *id001
+  - value: Qecg827
+    references:
+    - source: www.youtube.com-watch-v-v0bvjkoy8gk
+      quote: Abbas Mandí ............... ...... Santur
+      accessed: '2026-11-21'
+      locator: Earlier cohort in 2011–2016 film credits
+    qualifiers:
+      role: santur
+  - value: Q4pdaft
+    references:
+    - source: www.youtube.com-watch-v-v0bvjkoy8gk
+      quote: Josafat Larios .................... Tombak y Daf
+      accessed: '2026-11-21'
+      locator: Earlier cohort in 2011–2016 film credits
+    qualifiers:
+      role:
+      - tombak
+      - daf
   cover art:
   - value: https://i.ytimg.com/vi/Tdn1kcxiC08/hqdefault.jpg
     references:

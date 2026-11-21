@@ -38,6 +38,18 @@ statements:
       quote: Mohammad Laryan
       accessed: 2026-11-21
       locator: Release artist
+  - value: Qxyqq7z
+    references:
+    - source: music.apple.com-us-album-delom-dar-asheghi-single-1738101053
+      quote: Delom Dar Asheghi - Single · Ehsan Matoori · Mohammad Laryan · Siriya Ensemble · 2024-03-26
+      accessed: 2026-11-21
+      locator: Artist and date on issue
+  - value: Qd43wbp
+    references:
+    - source: music.apple.com-us-album-delom-dar-asheghi-single-1738101053
+      quote: Delom Dar Asheghi - Single · Ehsan Matoori · Mohammad Laryan · Siriya Ensemble · 2024-03-26
+      accessed: 2026-11-21
+      locator: Artist and date on issue
   listen link:
   - value: https://music.apple.com/us/album/delom-dar-asheghi-single/1738101053
     references:
@@ -63,3 +75,16 @@ statements:
       quote: Delom Dar Asheghi ft. Siriya Ensemble
       accessed: 2026-11-21
       locator: Artist video title
+  - value: https://open.spotify.com/album/65HiOnibEgzuWrMZo28BFV
+    references:
+    - source: open.spotify.com-album-65hionibegzuwrmzo28bfv
+      quote: Delom Dar Asheghi
+      accessed: 2026-11-21
+      locator: Spotify album
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-delom-dar-asheghi-single-1738101053
+      quote: Delom Dar Asheghi
+      accessed: 2026-11-21
+      locator: Track 1

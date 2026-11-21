@@ -10,6 +10,14 @@ statements:
       quote: GOLD TIMER · Andy Emler, AÏDA NOSRAT, Rhoda Scott
       accessed: 2026-11-21
       locator: Spotify track billing
+  - value:
+      text: Gold timer
+      language: en
+    references:
+    - source: labellabuissonne.bandcamp.com-track-gold-timer
+      quote: Gold timer
+      locator: Original programme, liner notes or performer credit
+      accessed: '2026-11-21'
   performer:
   - value: Qnbf3sx
     references:
@@ -17,6 +25,24 @@ statements:
       quote: GOLD TIMER · Andy Emler, AÏDA NOSRAT, Rhoda Scott
       accessed: 2026-11-21
       locator: Spotify track billing
+    qualifiers:
+      role: vocals
+  - value: Q6fakpc
+    references:
+    - source: labellabuissonne.bandcamp.com-album-no-solo
+      quote: ANDY EMLER .PIANO, COMPOSITIONS
+      locator: Original programme, liner notes or performer credit
+      accessed: '2026-11-21'
+    qualifiers:
+      role: piano
+  - value: Qt3k8m5
+    references:
+    - source: labellabuissonne.bandcamp.com-album-no-solo
+      quote: RHODA SCOTT .VOICE
+      locator: Original programme, liner notes or performer credit
+      accessed: '2026-11-21'
+    qualifiers:
+      role: vocals
   listen link:
   - value: https://open.spotify.com/track/1y5AB485hBPOHhvh179wyS
     references:
@@ -24,3 +50,30 @@ statements:
       quote: GOLD TIMER · Andy Emler, AÏDA NOSRAT, Rhoda Scott
       accessed: 2026-11-21
       locator: Spotify track billing
+  - value: https://labellabuissonne.bandcamp.com/track/gold-timer
+    references:
+    - source: labellabuissonne.bandcamp.com-track-gold-timer
+      quote: Gold timer
+      locator: Original programme, liner notes or performer credit
+      accessed: '2026-11-21'
+  - value: https://music.apple.com/us/album/gold-timer-feat-aida-nosrat-rhoda-scott/1529961856?i=1529962118
+    references:
+    - source: itunes.apple.com-lookupid-1529961856-entity-song
+      quote: Gold Timer (feat. Aida Nosrat & Rhoda Scott)
+      locator: Original programme, liner notes or performer credit
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2020-08-28'
+    references:
+    - source: labellabuissonne.bandcamp.com-album-no-solo
+      quote: released August 28, 2020
+      locator: Original programme, liner notes or performer credit
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://f4.bcbits.com/img/a2297343084_5.jpg
+    references:
+    - source: labellabuissonne.bandcamp.com-track-gold-timer
+      quote: https://f4.bcbits.com/img/a2297343084_5.jpg
+      locator: Original programme, liner notes or performer credit
+      accessed: '2026-11-21'

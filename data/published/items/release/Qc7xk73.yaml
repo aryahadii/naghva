@@ -1,0 +1,38 @@
+id: Qc7xk73
+type: release
+statements:
+  name:
+  - value:
+      text: 1001 Frames
+      language: en
+    references:
+    - source: festival.vcmedia.org-2026-movies-1001-frames
+      quote: 1001 Frames
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  contributor:
+  - value: Qks2dfk
+    references:
+    - source: festival.vcmedia.org-2026-movies-1001-frames
+      quote: 'Composer: Ava Rasti'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: composer
+  performer:
+  - value: Q836f3n
+    references:
+    - source: festival.vcmedia.org-2026-movies-1001-frames
+      quote: Mahtab JURABCHI
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: vocals
+  - value: Qs6jn4f
+    references:
+    - source: festival.vcmedia.org-2026-movies-1001-frames
+      quote: Sardar SARMAST
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: trumpet

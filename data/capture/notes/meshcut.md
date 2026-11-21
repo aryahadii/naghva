@@ -72,3 +72,5 @@ All 31 uploads in the singer’s SoundCloud collection and the artist channel’
 - outofmyheadcover (Qcpfavs)
 - meshcutlaststandkwabscover (Qghpccm)
 - meshcutforthepastfewyears (Q43ggkz)
+
+The label credits spoken narration by Doc Holiday and Meshkat Meshcut Mosavat on the full Tales From Erygow (Q8shh4d), released 31 January 2024. The two track-specific store guest credits have original Bandcamp links. The other individual pages lack specific narrator assignments. [Original album credits](https://anetterecords.bandcamp.com/album/tales-from-erygow)

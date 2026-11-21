@@ -95,3 +95,7 @@ The original Atine album is distinguished from the Paris film for Farhang. Nosra
 - Yâri (Qx3abr9)
 - Zolf Porayshan (Qgmvq48)
 - Ârezou (Qt3826m)
+- Aïda & Babak Quartet "Manushan" -  Lâlâyi é Mahtâb (Live au Au Fil des Voix) (Qybaqw7)
+- Aïda & Babak Quartet "Manushan" - Kié Kié dar mizané ? (Live au Au Fil des Voix) (Qz88bvw)
+
+The original La Buissonne album No Solo (Qkb97k2) includes Aïda Nosrat’s voice. Gold Timer (Qwz6nrk) specifically features her and Rhoda Scott, with Andy Emler on piano. The label issued the record on 28 August 2020. Atine’s named tar and viola da gamba interludes have individual instrument credits. [Label disc](https://labellabuissonne.bandcamp.com/album/no-solo)

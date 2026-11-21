@@ -1,0 +1,26 @@
+id: Qas4fmr
+type: release
+statements:
+  name:
+  - value:
+      text: Ze Man Negaram (Didar 2011–2016)
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-v0bvjkoy8gk
+      quote: Ze Man Negaram ..... Mtro. Darvish Khan
+      accessed: '2026-11-21'
+      locator: Ten-work retrospective, original end-credit description
+  performer:
+  - value: Qcabd29
+    references:
+    - *id001
+  contributor:
+  - value: Q52hj9g
+    references:
+    - source: www.youtube.com-watch-v-v0bvjkoy8gk
+      quote: Ze Man Negaram ..... Mtro. Darvish Khan
+      accessed: '2026-11-21'
+      locator: Ten-work retrospective, original end-credit description
+    qualifiers:
+      role: composer

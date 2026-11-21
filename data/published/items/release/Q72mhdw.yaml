@@ -1,0 +1,35 @@
+id: Q72mhdw
+type: release
+statements:
+  name:
+  - value:
+      text: Hura Mirshkari & Yaya Minté – Afto (Live @ Café de la Danse, Paris, 2 Dec 2025)
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-gd3rq92yvnq
+      quote: Hura Mirshkari & Yaya Minté – Afto (Live @ Café de la Danse, Paris, 2 Dec 2025)
+      accessed: '2026-11-21'
+      locator: Performer or distributor original video
+  performer:
+  - value: Qpav8br
+    references:
+    - *id001
+  - value: Q9zke5v
+    references:
+    - *id001
+  listen link:
+  - value: https://www.youtube.com/watch?v=gd3rq92YvnQ
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/gd3rq92YvnQ/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-gd3rq92yvnq
+      quote: https://i.ytimg.com/vi/gd3rq92YvnQ/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video artwork
+    qualifiers:
+      credit:
+        text: HURA
+        language: en

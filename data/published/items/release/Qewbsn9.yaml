@@ -17,6 +17,16 @@ statements:
       quote: Sogol MIRZAEI-"Un jour à Téhéran"
       locator: Original programme, liner notes or performer credit
       accessed: '2026-11-21'
+    qualifiers:
+      role: setar
+  - value: Qh3tqkn
+    references:
+    - source: www.youtube.com-watchv-h3zpq49froq
+      quote: le târ et le sétâr
+      locator: Original programme, liner notes or performer credit
+      accessed: '2026-11-21'
+    qualifiers:
+      role: tar
   release date:
   - value:
       date: '2019-03-01'
@@ -39,3 +49,12 @@ statements:
       quote: Sogol MIRZAEI-"Un jour à Téhéran"
       locator: Original programme, liner notes or performer credit
       accessed: '2026-11-21'
+  contributor:
+  - value: Qvqjnyc
+    references:
+    - source: www.youtube.com-watchv-h3zpq49froq
+      quote: Gilles Sivilotto
+      locator: Original programme, liner notes or performer credit
+      accessed: '2026-11-21'
+    qualifiers:
+      role: composer

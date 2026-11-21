@@ -50,8 +50,18 @@ references:
     quote: partially recorded in Tehran and Paris
     accessed: 2026-11-21
     locator: Sessions for the self-titled album
+  move:
+    source: www.lemonde.fr-musiques-article-2016-04-28-manushan-le-chant-de-l-interdit-et-de-l-exil_4909956_1654986.html
+    quote: Partis de Téhéran en novembre 2015 avec un visa compétences et talents
+    locator: Original programme, liner notes or performer credit
+    accessed: '2026-11-21'
+  ivry:
+    source: www.lemonde.fr-musiques-article-2016-04-28-manushan-le-chant-de-l-interdit-et-de-l-exil_4909956_1654986.html
+    quote: leur installation dans une petite maison d’Ivry-sur-Seine
+    locator: Original programme, liner notes or performer credit
+    accessed: '2026-11-21'
 ---
 
 آیدا نصرت، خواننده و نوازندهٔ ویولن، و بابک امیرمبشر، گیتاریست، در تهران علاقهٔ مشترکی به فلامنکو داشتند. پیش از مانوشان همراه شاهین علوی در گروه «اِئا» می‌نواختند. مانوشان گاه چهار نفره و گاه دونفره روی صحنه می‌رفت. در اجرای اینترنتی جشنوارهٔ جاز برکن، امیرمبشر «می‌رقصم آوازت را» را با تک‌نوازی گیتار آغاز کرد و بعد با ضربه به بدنهٔ گیتار، آواز و ویولن نصرت را همراهی کرد.[^flamenco][^met][^duo][^brecon][^stage]
 
-نشر آلمانی درایر گایدو «آنسوی نگاه» را منتشر کرد. تهیه‌کنندهٔ «می‌رقصم آوازت را» کیوان جهانشاهی بود و سی‌دی با نام خود گروه منتشر شد. آلبوم بعدی، «مانوشان»، این بار با نام آیدا و بابک بیرون آمد. بخشی از آن در تهران ضبط شده بود و بخشی در پاریس؛ ضبط‌های دو سوی مهاجرت کنار هم روی یک آلبوم نشستند.[^beyond][^swing][^producer][^newcd][^voice]
+نشر آلمانی درایر گایدو «آنسوی نگاه» را منتشر کرد. تهیه‌کنندهٔ «می‌رقصم آوازت را» کیوان جهانشاهی بود و سی‌دی با نام خود گروه منتشر شد. آلبوم بعدی، «مانوشان»، این بار با نام آیدا و بابک بیرون آمد. بخشی از آن در تهران ضبط شده بود و بخشی در پاریس؛ ضبط‌های دو سوی مهاجرت کنار هم روی یک آلبوم نشستند.[^beyond][^swing][^producer][^newcd][^voice] نصرت و مباشر در نوامبر ۲۰۱۵ با ویزای «مهارت‌ها و استعدادها» از تهران به فرانسه رفتند و در ایوری‌سورسن ساکن شدند.[^move][^ivry]

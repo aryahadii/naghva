@@ -1,0 +1,38 @@
+id: Q2e2rm8
+type: release
+statements:
+  name:
+  - value:
+      text: Aïka Ensemble - Concert au Mucem 01/10/22
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-lujuvekzwsk
+      quote: Aïka Ensemble - Concert au Mucem 01/10/22
+      accessed: '2026-11-21'
+      locator: Performer or distributor original video
+  performer:
+  - value: Qpwmdfk
+    references:
+    - *id001
+  - value: Qpav8br
+    references:
+    - source: aa-e.org-en-artiste-mobasher-babak-amir-2
+      quote: founded the group Aika with singer Hura Mirshekari
+      accessed: '2026-11-21'
+      locator: Group founders
+  listen link:
+  - value: https://www.youtube.com/watch?v=LujuvEkZWsk
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/LujuvEkZWsk/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-lujuvekzwsk
+      quote: https://i.ytimg.com/vi/LujuvEkZWsk/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video artwork
+    qualifiers:
+      credit:
+        text: Elia Chalom
+        language: en

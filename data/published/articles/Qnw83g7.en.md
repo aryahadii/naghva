@@ -75,11 +75,16 @@ references:
     quote: Nadia Says is a music curator
     accessed: '2026-11-21'
     locator: Artist interview, biography or performance credits
+  founder:
+    source: www.kaltblut-magazine.com-in-conversation-with-ava-rasti
+    quote: I began playing the bass guitar and formed an underground girl band called Finches
+    accessed: '2026-11-21'
+    locator: Artist interview, biography or performance credits
 ---
 
-The Finches began as an all-female underground indie rock band in Tehran in summer 2015.[^genre] The first drummer and singer left that winter, and by 2016 Zhina Ardalan was singing and playing guitar. The band dates its debut single, “Ocean,” to the summer of that year. Its early shows took place in underground venues around Tehran.[^start][^change][^ocean][^zhina][^stage]
+Bassist Ava Rasti helped form The Finches in Tehran in summer 2015. The musicians played indie rock in the city’s underground scene as an all-female band.[^founder][^genre] The first drummer and singer left that winter, and by 2016 Zhina Ardalan was singing and playing guitar. The band dates its debut single, “Ocean,” to the summer of that year. Its early shows took place in underground venues around Tehran.[^start][^change][^ocean][^zhina][^stage]
 
-The musicians began recording their first EP, [*Psychodelan*](#psychodelan-rs9), in 2018. “Run run run” became their first music video the following spring. The Austrian Cultural Forum’s 2019 programme lists four musicians for their Tehran concert, Ava Rasti, Asal Maleki, Tara Saidi and Zhina Ardalan.[^lineup] When the drummer left after the EP, the remaining musicians began writing with electronic beats.[^video][^stage][^departure]
+The musicians began recording their first EP, [*Psychodelan*](#psychodelan-rs9), in 2018. “Run run run” became their first music video the following spring. The Austrian Cultural Forum’s 2019 programme lists Ava Rasti, Asal Maleki, Tara Saidi and Zhina Ardalan for the Tehran concert.[^lineup] When the drummer left after the EP, the remaining musicians began writing with electronic beats.[^video][^stage][^departure]
 
 Ardalan and Asal Maleki carried the band forward. The group’s SoundCloud preserves two versions of “Mundane,” including one with Meshcut and Eiman. On [*Shame*](#shame-c8j), released in April 2021, synthesizer entered the arrangements and the lyrics became more personal.[^members][^mundane][^record][^sound]
 

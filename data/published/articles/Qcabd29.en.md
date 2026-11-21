@@ -100,10 +100,20 @@ references:
     quote: sábado 24 y domingo 25 de junio
     accessed: '2026-11-21'
     locator: Advertised June 2017 programme
+  ownwork:
+    source: www.youtube.com-watch-v-v0bvjkoy8gk
+    quote: Cinco Puertas ..... Mehdi Moshtagh
+    accessed: '2026-11-21'
+    locator: Original musical credits
+  bidad:
+    source: www.youtube.com-watch-v-v0bvjkoy8gk
+    quote: Bidad ..... Mtro. Parviz Meshkatian
+    accessed: '2026-11-21'
+    locator: Original musical credits
 ---
 
 Ensamble Didar is an Iranian and Mexican ensemble founded in 2011 by Iranian setar player Mehdi Moshtagh to introduce Persian music to audiences in Mexico. At first he found it difficult to get concerts because few listeners knew the repertoire. The audience grew gradually. In 2015 the ensemble was invited to play at Mexico City’s Palacio de Bellas Artes, and performed at the Festival Internacional de la Cultura Maya.[^formed][^why][^member0][^students][^palacio][^maya]
 
-Moshtagh and Manuel Sauceverde both played setar. When singer Shekufeh Mohammadi joined them onstage, her voice was accompanied by the oud of Manuel Mejía Armijo, José Pablo Jiménez’s bowed kamancheh and the tombak and daf drums of Francisco Bringas. Moshtagh also played tar. They drew on the radif, the repertoire passed by ear from teacher to pupil, alongside more recent compositions and improvisations. Moshtagh’s films include Ali Akbar Shahnazi’s prelude in Shur and “Cinco Puertas.”[^member0][^member1][^member2][^member3][^member4][^member5][^radif][^approach][^shur][^puertas]
+Moshtagh and Manuel Sauceverde both played setar. When singer Shekufeh Mohammadi joined them onstage, her voice was accompanied by the oud of Manuel Mejía Armijo, José Pablo Jiménez’s bowed kamancheh and the tombak and daf drums of Francisco Bringas. Moshtagh also played tar. They drew on the radif, the repertoire passed by ear from teacher to pupil, alongside more recent compositions and improvisations. Moshtagh’s films include Ali Akbar Shahnazi’s prelude in Shur, Parviz Meshkatian’s “Bidad” and Moshtagh’s own “Cinco Puertas.”[^ownwork][^bidad][^member0][^member1][^member2][^member3][^member4][^member5][^radif][^approach][^shur][^puertas]
 
 In 2017 Mexico’s Centro Nacional de las Artes recorded the group at the Auditorio Blas Galindo. A setar prelude leads into a duet with tombak at the start of the broadcast. Only later does the voice enter, and the ensemble closes with “Delshodegan.” The centre also programmed Didar for two June concerts to close its world music series.[^concert][^set][^duet][^del][^june]

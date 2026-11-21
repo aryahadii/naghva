@@ -90,10 +90,32 @@ references:
     quote: Cheapskate (Acoustic Version)
     accessed: '2026-11-21'
     locator: Artist interview, biography or performance credits
+  dot:
+    source: anetterecords.bandcamp.com-album-tales-from-erygow
+    quote: Narration by Doc Holiday & Meshkat Meshcut Mosavat
+    accessed: '2026-11-21'
+    locator: Artist interview, biography or performance credits
+  climate:
+    source: anetterecords.bandcamp.com-album-tales-from-erygow
+    quote: climate fiction
+    accessed: '2026-11-21'
+    locator: Artist interview, biography or performance credits
+  track:
+    source: music.apple.com-us-song-1726240911
+    quote: ‎Entropy (feat. Meshcut) - Song with Lyrics by DOT - Apple Music
+    accessed: '2026-11-21'
+    locator: Page title
+  second:
+    source: anetterecords.bandcamp.com-track-shipwreckers-possible-futures-part-1
+    quote: Shipwreckers (Possible Futures Part 1) | DOT | ANETTE RECORDS
+    accessed: '2026-11-21'
+    locator: Page title
 ---
 
 مشکات مساوات با نام Meshcut می‌خواند، آهنگ می‌سازد و موسیقی تولید می‌کند. او در صحنهٔ زیرزمینی تهران شروع به کار کرد و اکنون در پاریس ساکن است. در [«Wasted»](#wasted-hp5) با Ash خواند و در دورهمی‌های هفتگی نوازندگان در خانه‌ای در تهران با اعضای آیندهٔ Stereotype آشنا شد. در دوران قرنطینهٔ ۲۰۲۰، مساوات، ژینا اردلان و عسل به ساختن موسیقی سینث‌ویو روی آوردند.[^name][^artist][^iran][^underground][^ash][^voice][^new]
 
 فعالیت Stereotype در استانبول و سپس در پاریس ادامه یافت. مساوات در کنار گروه، «Dream in a Dream» را در مجموعهٔ *زن، زندگی، آزادی* از نشر آپرانیک منتشر کرد و نسخه‌ای آکوستیک از «Cheapskate» را با مهرداد عزیزی ضبط کرد. در مارس ۲۰۲۴ نیز در مرکز فرهنگی پویا در پاریس، در جمع گروهی از نوازندگان ایرانی که برای بداهه‌نوازی کنار هم آمده بودند، آواز خواند.[^band][^guest][^video][^concert][^song]
+
+مساوات و داک هالیدی در آلبوم *Tales From Erygow* از DOT در ۲۰۲۴ راوی داستانی بودند که در آینده‌ای متأثر از تغییرات اقلیمی می‌گذرد. این تهیه‌کنندهٔ آلمانی داستان را بر پایهٔ موسیقی الکترونیک و جَز بنا کرد. نام مساوات در دو قطعهٔ «Entropy» و «Shipwreckers» هم آمده است.[^dot][^climate][^track][^second]
 
 مساوات در پاریس با کریستین گَن، تهیه‌کنندهٔ موسیقی، آشنا شد. حاصل همکاری آن‌ها نخستین آلبوم انفرادی مساوات، [*REBIRTH*](#rebirth-sec)، بود که در ۲۰۲۵ منتشر شد. گَن با نام Oui Future نیز موسیقی اجرا می‌کند. این دو گروه دارک‌ویو Salvaation را تشکیل دادند. در «LOOP»، قطعهٔ آغازین مجموعهٔ گروه، صدای مساوات روی موسیقی الکترونیک گَن شنیده می‌شود. مساوات در اقامت هنری جداگانه‌ای در مرکز La Générale پاریس، طرح یک آلبوم کوتاه برای آواز و پیانو را پیش برد.[^paris][^first][^album][^other][^loop][^res]

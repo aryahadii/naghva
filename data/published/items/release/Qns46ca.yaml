@@ -30,3 +30,12 @@ statements:
   - value: https://www.youtube.com/watch?v=Mf5XDDXMcRQ
     references:
     - *id001
+  contributor:
+  - value: Qtnz4n4
+    references:
+    - source: www.youtube.com-watch-v-v0bvjkoy8gk
+      quote: Bidad ..... Mtro. Parviz Meshkatian
+      accessed: '2026-11-21'
+      locator: Ten-work retrospective, original end-credit description
+    qualifiers:
+      role: composer

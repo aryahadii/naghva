@@ -21,3 +21,7 @@ Original programme, liner notes or performer credit, read 2026-11-21.
 Original programme, liner notes or performer credit, read 2026-11-21.
 
 > Ensemble Chakâm : Sogol Mirzaei (tar) from Iran, Christine Zayed (qanun) from Palestine and Marie-Suzanne de Loye (viola da gamba) from France
+
+Original programme, liner notes or performer credit, read 2026-11-21.
+
+> Manchester

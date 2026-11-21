@@ -37,3 +37,7 @@ Original programme, liner notes or performer credit, read 2026-11-21.
 Original programme, liner notes or performer credit, read 2026-11-21.
 
 > Saghar Khadem: Tombak
+
+Original programme, liner notes or performer credit, read 2026-11-21.
+
+> opening act for great maestro Kayhan Kalhor and Ali Bahrami fard

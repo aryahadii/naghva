@@ -17,18 +17,14 @@ statements:
       quote: Persiennes D'Iran · Atine · 2020-11-06
       accessed: 2026-11-21
       locator: Digital issue and artist billing
-  - value: Qnbf3sx
+  - value: Qyy8srd
     references:
     - source: atine.bandcamp.com-album-persiennes-diran
-      quote: 'Aïda Nosrat : Voix'
-      accessed: 2026-11-21
-      locator: Original CD credits
-  - value: Qh3tqkn
-    references:
-    - source: atine.bandcamp.com-album-persiennes-diran
-      quote: 'Sogol Seyedmirzaei : Târ'
-      accessed: 2026-11-21
-      locator: Original CD credits
+      quote: 'Marie-Suzane De Loye : Viole de gambe'
+      locator: Original programme, liner notes or performer credit
+      accessed: '2026-11-21'
+    qualifiers:
+      role: viola da gamba
   listen link:
   - value: https://music.apple.com/us/song/interlude-viole-de-gambe/1535852316
     references:

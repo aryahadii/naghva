@@ -286,3 +286,11 @@ Shen Band’s expanded 86-panel catalogue was also checked in this checkpoint. T
 ### XEEN and Stereotype
 
 At checkpoint 46, independent article and catalogue review scored each page 9.2/10. Compared Ardalan’s account, the Klangteppich performance and cassette excerpt, OneBeat and Fondation Fiminco, her five original Bandcamp items and the Stereotype interviews, EP credits, ARTE set and Berlin festival bill. The documented trio lineup and subsequent duo are distinguished. Both localized XEEN pages showed 52 recordings and 103 decoded images. Stereotype had 17 and 35. All local fragments resolved. Article and catalogue ready for both.
+
+### Farshad Mohammadi and The Finches
+
+Both scored 9.2/10 on checkpoint 47, with separate article and catalogue readiness confirmed. The updated Ealing passage names Rahmatollah Badiyi. The original Harmitone solos and their matching retail versions were checked. Farshad’s 79 panels and 159 images rendered in both languages. For The Finches the Austrian ministry’s 2019 programme verifies Ava Rasti, Asal Maleki, Tara Saidi and Zhina Ardalan, and both revised articles identify that concert lineup. The band’s radio-era single, later reissues and two EPs were independently compared. The Finches had 21 panels and 43 decoded images per language. Neither pair of pages had broken local fragments.
+
+### Salvaation
+
+9.1/10 at checkpoint 47. Original March 2026 interview, release announcement, band-issued LOOP video and the September edition confirm the two artists’ contributions and support the distinction from their earlier Teheran 69 project. Both localized pages had five recording panels and eleven decoded images. Article and catalogue ready.
