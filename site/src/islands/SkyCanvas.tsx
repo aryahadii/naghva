@@ -1,7 +1,7 @@
 import { useEffect, useRef } from 'preact/hooks';
 import type { Strings } from '../lib/i18n';
 import type { Lang } from '../lib/record';
-import { COMET_LIMIT, skyComet } from '../lib/sky-comet';
+import { COMET_LIMIT, connectionBend, skyComet } from '../lib/sky-comet';
 import { coastStep, gestureVelocity } from '../lib/sky-motion';
 import type { SkyStar } from '../lib/star-map';
 
@@ -289,10 +289,12 @@ function makeSky(canvas: HTMLCanvasElement, field: HTMLCanvasElement, trail: HTM
     if (!choices.length) return null;
     const edge = choices[Math.floor(Math.random() * choices.length)];
     previousEdge = key(edge);
-    const [i, j] = Math.random() < .5 ? edge : [edge[1], edge[0]];
-    const strong = i === selected || j === selected;
+    const strong = edge.includes(selected);
+    const forward = strong ? edge[0] === selected : Math.random() < .5;
+    const [i, j] = forward ? edge : [edge[1], edge[0]];
+    const bend = strong ? connectionBend(i, j) : 0;
     const warm = strong ? stars[selected].kind === 'artist' : stars[j].kind === 'artist';
-    return { key: previousEdge, from: points[i], to: points[j], highlighted: strong, colour: warm ? '#ffe1a6' : '#abfff3' };
+    return { key: previousEdge, bend, from: points[i], to: points[j], highlighted: strong, colour: warm ? '#ffe1a6' : '#abfff3' };
   });
 
   function paintField(ctx: CanvasRenderingContext2D, active: Set<number>) {
@@ -313,6 +315,7 @@ function makeSky(canvas: HTMLCanvasElement, field: HTMLCanvasElement, trail: HTM
     }
     paintedEdges.length = 0;
     function edge(i: number, j: number) {
+      if (i === selected || j === selected) return;
       paintedEdges.push([i, j]);
       ctx.moveTo(points[i].x, points[i].y);
       ctx.lineTo(points[j].x, points[j].y);
@@ -333,11 +336,27 @@ function makeSky(canvas: HTMLCanvasElement, field: HTMLCanvasElement, trail: HTM
     }
     ctx.stroke();
     if (selected >= 0) {
-      ctx.beginPath();
-      for (const j of active) edge(selected, j);
-      ctx.strokeStyle = stars[selected].kind === 'recording' ? 'rgba(101,241,236,.82)' : 'rgba(255,202,128,.8)';
-      ctx.lineWidth = 1;
-      ctx.stroke();
+      const from = points[selected];
+      const tint = (index: number) => stars[index].kind === 'artist' ? '255,201,133' : '112,230,223';
+      ctx.save();
+      ctx.lineWidth = 1.35;
+      ctx.lineCap = 'round';
+      for (const leaf of active) {
+        const to = points[leaf];
+        const dx = to.x - from.x, dy = to.y - from.y;
+        const bend = connectionBend(selected, leaf);
+        const gradient = ctx.createLinearGradient(from.x, from.y, to.x, to.y);
+        gradient.addColorStop(0, `rgba(${tint(selected)},.26)`);
+        gradient.addColorStop(.28, `rgba(${tint(selected)},.49)`);
+        gradient.addColorStop(1, `rgba(${tint(leaf)},.32)`);
+        ctx.strokeStyle = gradient;
+        ctx.beginPath();
+        ctx.moveTo(from.x, from.y);
+        ctx.quadraticCurveTo(from.x + dx / 2 - dy * bend, from.y + dy / 2 + dx * bend, to.x, to.y);
+        ctx.stroke();
+        paintedEdges.push([selected, leaf]);
+      }
+      ctx.restore();
     }
     // A phone fits the same sky into far fewer pixels. Resolve its fainter stars
     // as points of light and gradually spread their rays as the reader zooms.

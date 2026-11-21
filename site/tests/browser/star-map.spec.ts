@@ -112,7 +112,24 @@ test('a desktop trackpad pan stays on the sky as its direction changes at full e
 });
 
 test('long comet tails overlap on distinct credits without repainting the sky', async ({ page }) => {
-  await page.addInitScript(() => { Math.random = () => .25; });
+  await page.addInitScript(() => {
+    Math.random = () => .6;
+    // Capture the actual painted curves in logical map coordinates.
+    const curves: number[][] = [];
+    Object.assign(window, { creditCurves: curves });
+    const proto = CanvasRenderingContext2D.prototype;
+    const move = proto.moveTo, quadratic = proto.quadraticCurveTo;
+    const origins = new WeakMap<CanvasRenderingContext2D, number[]>();
+    proto.moveTo = function(x, y) {
+      origins.set(this, [x, y]);
+      move.call(this, x, y);
+    };
+    proto.quadraticCurveTo = function(cx, cy, x, y) {
+      const start = origins.get(this);
+      if (start) curves.push([...start, cx, cy, x, y]);
+      quadratic.call(this, cx, cy, x, y);
+    };
+  });
   await page.goto('/en/star-map/?star=Qn8jqk8');
   const viewport = page.locator('.sky-viewport');
   const inFlight = () => Array.from(document.querySelectorAll('.sky-comet')).flatMap(el => el.getAnimations()).length;
@@ -129,7 +146,15 @@ test('long comet tails overlap on distinct credits without repainting the sky', 
       const distance = Math.hypot(last.e - first.e, last.f - first.f);
       const width = parseFloat(trail.style.width);
       const key = [first, last].map(m => [Math.round(m.e + width), Math.round(m.f)].join(',')).sort().join('/');
-      return { key, distance, width, peak: Math.max(...frames.map(f => Number(f.opacity))) };
+      const curves = (window as Window & { creditCurves: number[][] }).creditCurves;
+      const height = parseFloat(trail.style.height);
+      const followsOutwardCurve = curves.some(([x, y, cx, cy, endX, endY]) => frames.every(frame => {
+        const t = frame.computedOffset, u = 1 - t;
+        const m = new DOMMatrix(String(frame.transform));
+        return Math.hypot(m.e + width - (u*u*x + 2*u*t*cx + t*t*endX),
+          m.f + height/2 - (u*u*y + 2*u*t*cy + t*t*endY)) < .05;
+      }));
+      return { key, distance, width, followsOutwardCurve, peak: Math.max(...frames.map(f => Number(f.opacity))) };
     });
     let repaints = 0;
     const contexts = Array.from(el.querySelectorAll('canvas'), c => c.getContext('2d')!);
@@ -144,6 +169,7 @@ test('long comet tails overlap on distinct credits without repainting the sky', 
   expect(new Set(result.starts).size).toBe(result.starts.length);
   expect(result.paths.some(p => p.peak > .5)).toBe(true);
   for (const path of result.paths) {
+    if (path.peak > .5) expect(path.followsOutwardCurve).toBe(true);
     expect(path.width).toBeCloseTo(Math.min(path.peak > .5 ? 100 : 64, path.distance * .62), 1);
   }
   await page.emulateMedia({ reducedMotion: 'reduce' });
