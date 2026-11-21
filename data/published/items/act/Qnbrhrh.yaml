@@ -13,3 +13,55 @@ statements:
     - source: music.apple.com-us-album-ba-raftanet-feat-mohsen-namjoo-single-1440985669
       quote: Ba Raftanet (feat. Mohsen Namjoo) - Single - Album by Eendo - Apple Music
       accessed: '2026-11-09'
+  - value:
+      text: ایندو
+      language: fa
+    references:
+    - source: www.radiozamaneh.com-781571
+      quote: ایندو
+      accessed: '2026-11-21'
+      locator: Persian band name
+  formation date:
+  - value:
+      date: '2009'
+    references:
+    - source: www.eendo.com-the-band
+      quote: Eendo was founded in 2009 by Ardalan Payvar and Shadi Yousefian
+      accessed: '2026-11-21'
+      locator: Original group biography
+  image:
+  - value: https://static.wixstatic.com/media/3b9305_b164698cbd6a4aa58e652452a8c249a1~mv2.jpg
+    qualifiers:
+      credit:
+        text: Eendo · official photo gallery
+        language: en
+    references:
+    - source: www.eendo.com-copy-of-videos
+      quote: https://static.wixstatic.com/media/3b9305_b164698cbd6a4aa58e652452a8c249a1~mv2.jpg
+      accessed: '2026-11-21'
+      locator: Duo’s gallery, street portrait
+  profile link:
+  - value: https://music.apple.com/us/artist/eendo/418276676
+    references:
+    - source: music.apple.com-us-artist-eendo-418276676
+      quote: ‎Eendo - Apple Music
+      accessed: '2026-11-21'
+      locator: Original artist profile
+  - value: https://open.spotify.com/artist/6jCwWmmC5b4fF2y0OOP6g8
+    references:
+    - source: open.spotify.com-embed-artist-6jcwwmmc5b4ff2y0oop6g8
+      quote: Eendo - Top tracks | Spotify
+      accessed: '2026-11-21'
+      locator: Original artist profile
+  - value: https://soundcloud.com/eendomusic
+    references:
+    - source: soundcloud.com-eendomusic-tracks
+      quote: Stream Eendo | Listen to music albums online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Original artist profile
+  - value: https://www.youtube.com/user/eendomusic
+    references:
+    - source: www.eendo.com-the-band
+      quote: https://www.youtube.com/user/eendomusic
+      accessed: '2026-11-21'
+      locator: YouTube channel linked by the band

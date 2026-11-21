@@ -15,3 +15,11 @@ Native performance, release credits or dated catalogue, read 2026-11-21.
 Native performance, release credits or dated catalogue, read 2026-11-21.
 
 > Afarin Nazarijou
+
+Artist, label, educator or performance documentation, read 2026-11-21.
+
+> to all the women composers and performers whose names have been forgotten
+
+Artist, label, educator or performance documentation, read 2026-11-21.
+
+> 2021-

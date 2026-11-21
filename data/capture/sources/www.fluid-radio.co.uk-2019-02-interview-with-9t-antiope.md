@@ -35,3 +35,19 @@ Artist interview, biography or performance credits, read 2026-11-21.
 > Working since 2014
 
 Artist interview, biography or performance credits, read 2026-11-21.
+
+> my mother is also a poet and an author
+
+Artist interview, biography or performance credits, read 2026-11-21.
+
+> two of my brothers (out of three) used to be in metal bands
+
+Artist interview, biography or performance credits, read 2026-11-21.
+
+> another friend playing at Camerata Orchestra who introduced me to Kayvan Mirhadi
+
+Artist interview, biography or performance credits, read 2026-11-21.
+
+> meeting them whilst joining the orchestra
+
+Artist interview, biography or performance credits, read 2026-11-21.

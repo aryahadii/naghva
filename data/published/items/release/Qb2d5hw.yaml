@@ -1,0 +1,60 @@
+id: Qb2d5hw
+type: release
+statements:
+  name:
+  - value:
+      text: Sarāb
+      language: en
+    references:
+    - source: music.apple.com-us-album-sar-c4-81b-1805200664
+      quote: Sarāb
+      accessed: 2026-11-21
+      locator: Album title
+  performer:
+  - value: Qjh2zkc
+    references:
+    - source: music.apple.com-us-album-sar-c4-81b-1805200664
+      quote: Sarāb
+      accessed: 2026-11-21
+      locator: Album title
+  listen link:
+  - value: https://music.apple.com/us/album/sar%C4%81b/1805200664
+    references:
+    - source: music.apple.com-us-album-sar-c4-81b-1805200664
+      quote: Sarāb
+      accessed: 2026-11-21
+      locator: Album title
+  - value: https://open.spotify.com/album/4aMqnAY9M1qmkXtOb1XGic
+    references:
+    - source: open.spotify.com-album-4amqnay9m1qmkxtob1xgic
+      quote: Sarāb
+      accessed: 2026-11-21
+      locator: Edition heading
+  - value: https://aidashahghasemi.bandcamp.com/album/sar-b-2
+    references:
+    - source: aidashahghasemi.bandcamp.com-album-sar-b-2
+      quote: Sarāb
+      accessed: 2026-11-21
+      locator: Artist issue heading
+  release date:
+  - value:
+      date: '2025-04-02'
+    references:
+    - source: music.apple.com-us-album-sar-c4-81b-1805200664
+      quote: '2025-04-02'
+      accessed: 2026-11-21
+      locator: Digital edition date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e8/a7/f0/e8a7f008-e445-efaa-6115-0e0594a6b787/199199392451.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-sar-c4-81b-1805200664
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e8/a7/f0/e8a7f008-e445-efaa-6115-0e0594a6b787/199199392451.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Native release artwork
+  release type:
+  - value: album
+    references:
+    - source: music.apple.com-us-album-sar-c4-81b-1805200664
+      quote: Sarāb
+      accessed: 2026-11-21
+      locator: Album title

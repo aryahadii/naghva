@@ -19,3 +19,15 @@ Native performance, release credits or dated catalogue, read 2026-11-21.
 Native performance, release credits or dated catalogue, read 2026-11-21.
 
 > Isabel Crespo Pardo (Voice
+
+Artist, label, educator or performance documentation, read 2026-11-21.
+
+> rehearsing weekly, listening together
+
+Artist, label, educator or performance documentation, read 2026-11-21.
+
+> they moved to different cities
+
+Artist, label, educator or performance documentation, read 2026-11-21.
+
+> original poems in Farsi and in Spanish

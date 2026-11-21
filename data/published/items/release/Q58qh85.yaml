@@ -1,0 +1,51 @@
+id: Q58qh85
+type: release
+statements:
+  name:
+  - value:
+      text: Nemidoonam Chera
+      language: en
+    references:
+    - source: music.apple.com-us-album-hamin-lahzeh-1164397044
+      quote: Nemidoonam Chera
+      accessed: '2026-11-21'
+      locator: Exact Apple track listing
+  performer:
+  - value: Qnbrhrh
+    references:
+    - source: music.apple.com-us-album-hamin-lahzeh-1164397044
+      quote: Eendo
+      accessed: '2026-11-21'
+      locator: Recording/featured artist
+  listen link:
+  - value: https://music.apple.com/us/song/nemidoonam-chera/1164397121
+    references:
+    - source: music.apple.com-us-album-hamin-lahzeh-1164397044
+      quote: https://music.apple.com/us/song/nemidoonam-chera/1164397121
+      accessed: '2026-11-21'
+      locator: Apple track link
+  - value: https://open.spotify.com/track/3y7yt7NaujF7Mp7ME7GsSE
+    references:
+    - source: open.spotify.com-embed-album-0cprjnxrkraurwpdysfdyf
+      quote: spotify:track:3y7yt7NaujF7Mp7ME7GsSE
+      accessed: '2026-11-21'
+      locator: Spotify track URI
+  release date:
+  - value:
+      date: '2016-11-12'
+    references:
+    - source: music.apple.com-us-album-hamin-lahzeh-1164397044
+      quote: '2016-11-12'
+      accessed: '2026-11-21'
+      locator: Digital release date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c9/87/18/c987183c-ead2-b61c-7762-383b14a3750b/190394546564.jpg/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Digital release via Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-hamin-lahzeh-1164397044
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c9/87/18/c987183c-ead2-b61c-7762-383b14a3750b/190394546564.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Label artwork

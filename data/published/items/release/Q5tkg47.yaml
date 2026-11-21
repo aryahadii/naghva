@@ -27,12 +27,10 @@ statements:
   - value: album
     references:
     - source: music.apple.com-us-album-kahrobaye-arezou-1625575397-99ea28df4b1d
-      quote: |-
-        Kahrobaye Arezou - Album by Ali Azimi - Apple Music
+      quote: Kahrobaye Arezou - Album by Ali Azimi - Apple Music
       accessed: '2026-10-19'
     - source: open.spotify.com-album-7etm0kfsagtaea24snwetc-980f0627e469
-      quote: |-
-        Listen to Kahrobaye Arezou - Album by Ali Azimi | Spotify
+      quote: Listen to Kahrobaye Arezou - Album by Ali Azimi | Spotify
       accessed: '2026-10-22'
   performer:
   - value: Qde2bbb
@@ -40,6 +38,12 @@ statements:
     - source: music.apple.com-us-album-kahrobaye-arezou-1625575397-99ea28df4b1d
       quote: Kahrobaye Arezou - Album by Ali Azimi - Apple Music
       accessed: '2026-10-19'
+  - value: Qnbrhrh
+    references:
+    - source: music.apple.com-us-album-sharike-jorm-feat-eendo-1625575397
+      quote: Eendo
+      accessed: '2026-11-21'
+      locator: Recording/featured artist
   listen link:
   - value: https://music.apple.com/us/album/kahrobaye-arezou/1625575397
     references:
@@ -51,6 +55,12 @@ statements:
     - source: open.spotify.com-album-7etm0kfsagtaea24snwetc-980f0627e469
       quote: Listen to Kahrobaye Arezou - Album by Ali Azimi | Spotify
       accessed: '2026-10-22'
+  - value: https://music.apple.com/us/album/sharike-jorm-feat-eendo/1625575397
+    references:
+    - source: music.apple.com-us-album-sharike-jorm-feat-eendo-1625575397
+      quote: Kahrobaye Arezou
+      accessed: '2026-11-21'
+      locator: Release title
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/99/e1/40/99e140f6-03c7-afa4-7a5d-62a4a484f9ba/artwork.jpg/1200x630wp-60.jpg
     qualifiers:

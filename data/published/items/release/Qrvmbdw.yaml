@@ -1,0 +1,64 @@
+id: Qrvmbdw
+type: release
+statements:
+  name:
+  - value:
+      text: Avaz e Bazgasht
+      language: en
+    references:
+    - source: music.apple.com-us-album-avaz-e-bazgasht-feat-eendo-single-1844210135
+      quote: Avaz e Bazgasht (feat. Eendo)
+      accessed: '2026-11-21'
+      locator: Exact Apple track listing
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-avaz-e-bazgasht-feat-eendo-single-1844210135
+      quote: Avaz e Bazgasht (feat. Eendo)
+      accessed: '2026-11-21'
+      locator: Exact Apple track listing
+  performer:
+  - value: Qnbrhrh
+    references:
+    - source: music.apple.com-us-album-avaz-e-bazgasht-feat-eendo-single-1844210135
+      quote: Eendo
+      accessed: '2026-11-21'
+      locator: Recording/featured artist
+  - value: Qz9w3hk
+    references:
+    - source: music.apple.com-us-album-avaz-e-bazgasht-feat-eendo-single-1844210135
+      quote: Avaz e Bazgasht (feat. Eendo) - Single
+      accessed: '2026-11-21'
+      locator: Release title
+  listen link:
+  - value: https://music.apple.com/us/song/avaz-e-bazgasht-feat-eendo/1844210136
+    references:
+    - source: music.apple.com-us-album-avaz-e-bazgasht-feat-eendo-single-1844210135
+      quote: https://music.apple.com/us/song/avaz-e-bazgasht-feat-eendo/1844210136
+      accessed: '2026-11-21'
+      locator: Apple track link
+  - value: https://open.spotify.com/track/4M3vds1ldKb6k7X2Mqh1ls
+    references:
+    - source: open.spotify.com-embed-album-4sxmfylincy0mxin3fejpw
+      quote: spotify:track:4M3vds1ldKb6k7X2Mqh1ls
+      accessed: '2026-11-21'
+      locator: Spotify track URI
+  release date:
+  - value:
+      date: '2025-10-07'
+    references:
+    - source: music.apple.com-us-album-avaz-e-bazgasht-feat-eendo-single-1844210135
+      quote: '2025-10-07'
+      accessed: '2026-11-21'
+      locator: Digital release date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/87/69/32/8769320a-daf2-3538-ab14-4067d0ea7626/artwork.jpg/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Digital release via Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-avaz-e-bazgasht-feat-eendo-single-1844210135
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/87/69/32/8769320a-daf2-3538-ab14-4067d0ea7626/artwork.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Label artwork

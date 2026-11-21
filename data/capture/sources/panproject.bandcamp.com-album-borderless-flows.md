@@ -27,3 +27,7 @@ Named recording, original credits or artist documentation, read 2026-11-21.
 Named recording, original credits or artist documentation, read 2026-11-21.
 
 > PAN Project
+
+Artist, label, educator or performance documentation, read 2026-11-21.
+
+> released October 22, 2024

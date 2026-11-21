@@ -20,3 +20,11 @@ Release artwork, read 2026-11-21.
 > 2019-04-20T17:44:44Z
 
 Artist interview, biography or performance credits, read 2026-11-21.
+
+> Girih: Iranian Sound Artists
+
+Artist interview, biography or performance credits, read 2026-11-21.
+
+> released August 17, 2018
+
+Artist interview, biography or performance credits, read 2026-11-21.

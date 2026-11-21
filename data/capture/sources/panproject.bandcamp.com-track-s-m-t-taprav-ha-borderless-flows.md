@@ -15,3 +15,11 @@ Named recording, original credits or artist documentation, read 2026-11-21.
 Named recording, original credits or artist documentation, read 2026-11-21.
 
 > Afarin Nazarijou, qanun
+
+Artist, label, educator or performance documentation, read 2026-11-21.
+
+> Deepak Paramashivan, Sarangi
+
+Artist, label, educator or performance documentation, read 2026-11-21.
+
+> Jeff Roberts, guqin

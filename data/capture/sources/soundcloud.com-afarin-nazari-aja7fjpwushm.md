@@ -23,3 +23,7 @@ Native performance, release credits or dated catalogue, read 2026-11-21.
 Native performance, release credits or dated catalogue, read 2026-11-21.
 
 > قانون: آفرین نظری‌جو
+
+Artist, label, educator or performance documentation, read 2026-11-21.
+
+> آهنگساز: اردوان کامکار

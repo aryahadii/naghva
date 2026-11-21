@@ -27,3 +27,19 @@ Named recording, original credits or artist documentation, read 2026-11-21.
 Named recording, original credits or artist documentation, read 2026-11-21.
 
 > Isabel Crespo Pardo
+
+Artist, label, educator or performance documentation, read 2026-11-21.
+
+> recorded May 26 & 27, 2021 at The Record Co. in Boston, MA
+
+Artist, label, educator or performance documentation, read 2026-11-21.
+
+> released June 30, 2023
+
+Artist, label, educator or performance documentation, read 2026-11-21.
+
+> Skyler Hill, electric guitar
+
+Artist, label, educator or performance documentation, read 2026-11-21.
+
+> Seajun Kwon, acoustic bass

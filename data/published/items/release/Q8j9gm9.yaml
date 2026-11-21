@@ -1,0 +1,53 @@
+id: Q8j9gm9
+type: release
+statements:
+  name:
+  - value:
+      text: Improvisation
+      language: en
+    references:
+    - source: emusicology.org-article-id-4625-download-pdf
+      quote: Improvisation
+      locator: Table 1, piece 3, page 68
+      accessed: '2026-11-21'
+  performer:
+  - value: Qg776ck
+    references:
+    - source: emusicology.org-article-id-4625-download-pdf
+      quote: Afarin Nazarijou
+      locator: Table 1, piece 3, page 68
+      accessed: '2026-11-21'
+    qualifiers:
+      role: qanun
+  - value: Q5w68j4
+    references:
+    - source: emusicology.org-article-id-4625-download-pdf
+      quote: Pardo, Zoh Amba,
+      locator: Table 1, piece 3, page 68
+      accessed: '2026-11-21'
+    qualifiers:
+      role: vocals
+  - value: Q92zhyh
+    references:
+    - source: emusicology.org-article-id-4625-download-pdf
+      quote: Zoh Amba
+      locator: Table 1, piece 3, page 68
+      accessed: '2026-11-21'
+    qualifiers:
+      role: flute
+  - value: Q49drgk
+    references:
+    - source: emusicology.org-article-id-4625-download-pdf
+      quote: Talia Rubenstein
+      locator: Table 1, piece 3, page 68
+      accessed: '2026-11-21'
+    qualifiers:
+      role: guitar
+  - value: Qg6jq35
+    references:
+    - source: emusicology.org-article-id-4625-download-pdf
+      quote: Anna Abandolo
+      locator: Table 1, piece 3, page 68
+      accessed: '2026-11-21'
+    qualifiers:
+      role: bass

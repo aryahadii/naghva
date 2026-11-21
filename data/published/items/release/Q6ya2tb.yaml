@@ -47,6 +47,18 @@ statements:
       quote: Stream Sarmasti featuring Eendo by Mahmood Schricker | Listen online for free on SoundCloud
       accessed: '2026-11-21'
       locator: Page title
+  - value: https://soundcloud.com/eendomusic/mahmood-schricker-eendo-sarmasti-m24
+    references:
+    - source: soundcloud.com-eendomusic-mahmood-schricker-eendo-sarmasti-m24
+      quote: Stream Sarmasti - Mahmood Schricker & Eendo by Eendo | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Original duo SoundCloud recording
+  - value: https://www.youtube.com/watch?v=FHXmmQIni8E
+    references:
+    - source: www.youtube.com-watch-v-fhxmmqini8e
+      quote: '"Sarmasti" - Mahmood Schricker + Eendo'
+      accessed: '2026-11-21'
+      locator: Original duo channel
   performer:
   - value: Qxkh2tz
     references:
@@ -110,3 +122,10 @@ statements:
       locator: Artist interview, biography or performance credits
     qualifiers:
       role: producer
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-sarmasti-single-1573126969
+      quote: Sarmasti
+      accessed: '2026-11-21'
+      locator: Exact Apple track listing

@@ -1,0 +1,51 @@
+id: Qgz73sy
+type: release
+statements:
+  name:
+  - value:
+      text: Sargardoon
+      language: en
+    references:
+    - source: music.apple.com-us-album-bord-o-baakht-429063264
+      quote: Sargardoon
+      accessed: '2026-11-21'
+      locator: Exact Apple track listing
+  performer:
+  - value: Qnbrhrh
+    references:
+    - source: music.apple.com-us-album-bord-o-baakht-429063264
+      quote: Eendo
+      accessed: '2026-11-21'
+      locator: Recording/featured artist
+  listen link:
+  - value: https://music.apple.com/us/song/sargardoon/429063300
+    references:
+    - source: music.apple.com-us-album-bord-o-baakht-429063264
+      quote: https://music.apple.com/us/song/sargardoon/429063300
+      accessed: '2026-11-21'
+      locator: Apple track link
+  - value: https://open.spotify.com/track/20qQJ1nXwaJwupvpxJ2rkR
+    references:
+    - source: open.spotify.com-embed-album-1vgqtx0g4uo3tsshsuihsh
+      quote: spotify:track:20qQJ1nXwaJwupvpxJ2rkR
+      accessed: '2026-11-21'
+      locator: Spotify track URI
+  release date:
+  - value:
+      date: '2011-04-01'
+    references:
+    - source: music.apple.com-us-album-bord-o-baakht-429063264
+      quote: '2011-04-01'
+      accessed: '2026-11-21'
+      locator: Digital release date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music/4c/a1/f1/mzi.fnmtnznb.jpg/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Digital release via Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-bord-o-baakht-429063264
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music/4c/a1/f1/mzi.fnmtnznb.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Label artwork

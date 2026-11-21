@@ -224,3 +224,7 @@ Independent review on 2026-11-21. **9.2/10** · Sources 1.9, prose 1.9, recordin
 ### Kasra Saboktakin
 
 Independent review on 2026-11-21. **9.2/10** · Sources 1.9, prose 1.9, recordings 2.6, images 1.0, gaps and reader experience 1.8. The final 64 panels in each language (English 268ba19b64cf, Persian d365601a7cea) include the twelve O-Hum album recordings supported by his interview, three filmed performances with Barad, his documentary score, and the original SoundCloud recordings. Verified Pallett's own bass credit on Dream Away With Me, the separately dated Istgah concert, Whispers in Crimson and the Keshaleh-Ha recording. All 97 images decoded in each language and local reference links resolved. Catalogue and article ready.
+
+### Avin Ahmadi
+
+Independent review on 2026-11-21. **9.2/10** · Sources 1.9, prose 1.9, recordings 2.6, images 1.0, gaps and reader experience 1.8. Checked the artist's four-title discography, original Qayeq concert, Austria's music information centre, the Roots Revival album and the separate Pashto concert with Simin Tander. The original ensemble uploader names Ahmadi as a guest oud player. Checked the NAWA presenter’s June 2026 announced livestream, which the venue explicitly withdrew after the event, and the October ORF calendar announcement. The revised page contains 52 panels with 77 decoded images per language and working local reference links (English f79a721c473b, Persian 79fa91c00917). Catalogue and article ready.

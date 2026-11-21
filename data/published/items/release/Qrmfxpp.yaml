@@ -1,0 +1,36 @@
+id: Qrmfxpp
+type: release
+statements:
+  name:
+  - value:
+      text: ± (teaser)
+      language: en
+    references:
+    - source: vimeo.com-537631017
+      quote: ±_ Ali Moini TEASER
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qyv32ms
+    references:
+    - source: latitudescontemporaines.com-en-latitudes-prod-c2-b1-2
+      quote: 'Music: 9T ANTIOPE'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  contributor:
+  - value: Qz5swxp
+    references:
+    - source: latitudescontemporaines.com-en-latitudes-prod-c2-b1-2
+      quote: 'Libretto: Sara Bigdeli Shamloo, based on orginal texts by Ali Moini'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: lyricist
+  release date:
+  - value:
+      date: '2021-04-16'
+    references:
+    - source: vimeo.com-537631017
+      quote: '2021-04-16 05:06:01'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits

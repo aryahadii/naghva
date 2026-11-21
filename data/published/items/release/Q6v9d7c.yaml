@@ -1,0 +1,66 @@
+id: Q6v9d7c
+type: release
+statements:
+  name:
+  - value:
+      text: Hanoozam ...
+      language: en
+    references:
+    - source: music.apple.com-us-album-hamin-lahzeh-1164397044
+      quote: Hanoozam ...
+      accessed: '2026-11-21'
+      locator: Exact Apple track listing
+  performer:
+  - value: Qnbrhrh
+    references:
+    - source: music.apple.com-us-album-hamin-lahzeh-1164397044
+      quote: Eendo
+      accessed: '2026-11-21'
+      locator: Recording/featured artist
+  - value: Qjhs66g
+    qualifiers:
+      role:
+      - drums
+    references:
+    - source: www.youtube.com-watch-v-q-a5bxozjue
+      quote: 'Yahya Alkhansa: Drums'
+      accessed: '2026-11-21'
+      locator: Original film credits
+  listen link:
+  - value: https://music.apple.com/us/song/hanoozam/1164397124
+    references:
+    - source: music.apple.com-us-album-hamin-lahzeh-1164397044
+      quote: https://music.apple.com/us/song/hanoozam/1164397124
+      accessed: '2026-11-21'
+      locator: Apple track link
+  - value: https://open.spotify.com/track/32y7kIFTYPbfVrLOluLX99
+    references:
+    - source: open.spotify.com-embed-album-0cprjnxrkraurwpdysfdyf
+      quote: spotify:track:32y7kIFTYPbfVrLOluLX99
+      accessed: '2026-11-21'
+      locator: Spotify track URI
+  - value: https://www.youtube.com/watch?v=q-A5BXOzJUE
+    references:
+    - source: www.youtube.com-watch-v-q-a5bxozjue
+      quote: Eendo – “Hanoozam …” “ … ایندو – “هنوزم
+      accessed: '2026-11-21'
+      locator: Original duo channel
+  release date:
+  - value:
+      date: '2016-11-12'
+    references:
+    - source: music.apple.com-us-album-hamin-lahzeh-1164397044
+      quote: '2016-11-12'
+      accessed: '2026-11-21'
+      locator: Digital release date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c9/87/18/c987183c-ead2-b61c-7762-383b14a3750b/190394546564.jpg/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Digital release via Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-hamin-lahzeh-1164397044
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c9/87/18/c987183c-ead2-b61c-7762-383b14a3750b/190394546564.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Label artwork

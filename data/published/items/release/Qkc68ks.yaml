@@ -1,0 +1,77 @@
+id: Qkc68ks
+type: release
+statements:
+  name:
+  - value:
+      text: Naale ye Shabgeer
+      language: en
+    references:
+    - source: music.apple.com-us-album-naale-ye-shabgeer-single-420537147
+      quote: Naale ye Shabgeer (Single)
+      accessed: '2026-11-21'
+      locator: Exact Apple track listing
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-naale-ye-shabgeer-single-420537147
+      quote: Naale ye Shabgeer (Single)
+      accessed: '2026-11-21'
+      locator: Exact Apple track listing
+  performer:
+  - value: Qnbrhrh
+    references:
+    - source: music.apple.com-us-album-naale-ye-shabgeer-single-420537147
+      quote: Eendo
+      accessed: '2026-11-21'
+      locator: Recording/featured artist
+  listen link:
+  - value: https://music.apple.com/us/song/naale-ye-shabgeer-single/420537386
+    references:
+    - source: music.apple.com-us-album-naale-ye-shabgeer-single-420537147
+      quote: https://music.apple.com/us/song/naale-ye-shabgeer-single/420537386
+      accessed: '2026-11-21'
+      locator: Apple track link
+  - value: https://open.spotify.com/track/0vYmDcnkBfeIzKB623x6rS
+    references:
+    - source: open.spotify.com-embed-album-4yxtgqobdrssdbwdwcpjao
+      quote: spotify:track:0vYmDcnkBfeIzKB623x6rS
+      accessed: '2026-11-21'
+      locator: Spotify track URI
+  - value: https://music.apple.com/us/song/naale-ye-shabgeer/429063308
+    references:
+    - source: music.apple.com-us-album-bord-o-baakht-429063264
+      quote: https://music.apple.com/us/song/naale-ye-shabgeer/429063308
+      accessed: '2026-11-21'
+      locator: Apple track link
+  - value: https://open.spotify.com/track/5jAA6ioaFVV1SBPa5Xy4je
+    references:
+    - source: open.spotify.com-embed-album-1vgqtx0g4uo3tsshsuihsh
+      quote: spotify:track:5jAA6ioaFVV1SBPa5Xy4je
+      accessed: '2026-11-21'
+      locator: Spotify track URI
+  release date:
+  - value:
+      date: '2011-02-11'
+    references:
+    - source: music.apple.com-us-album-naale-ye-shabgeer-single-420537147
+      quote: '2011-02-11'
+      accessed: '2026-11-21'
+      locator: Digital release date
+  - value:
+      date: '2011-04-01'
+    references:
+    - source: music.apple.com-us-album-bord-o-baakht-429063264
+      quote: '2011-04-01'
+      accessed: '2026-11-21'
+      locator: Digital release date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music/56/4c/bb/mzi.runlqqpx.jpg/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Digital release via Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-naale-ye-shabgeer-single-420537147
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music/56/4c/bb/mzi.runlqqpx.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Label artwork

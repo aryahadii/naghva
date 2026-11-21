@@ -92,6 +92,10 @@ The expansion started at revision fa6c29ca with 124 bilingual artist pages. The 
 | Hamsaz Ensemble | Qq46ncj | 9.1/10 | [Hamsaz Ensemble](hamsaz-ensemble-independent-review.md) |
 | Kasra Saboktakin | Qa6r74t | 9.2/10 | [Kasra Saboktakin](kasra-saboktakin-independent-review.md) |
 | Taraamoon | Qw4rq4q | 9.2/10 | [Taraamoon](taraamoon-independent-review.md) |
-| Avin Ahmadi | Qtcm49a | Pending | [Catalogue](avin-ahmadi.md) |
+| Avin Ahmadi | Qtcm49a | 9.2/10 | [Avin Ahmadi](artist-page-scores.md) |
+| Afarin Nazarijou | Qg776ck | Pending | [Catalogue](afarin-nazarijou.md) |
+| Sara Bigdeli Shamloo | Qz5swxp | Pending | [Catalogue](sara-bigdeli-shamloo.md) |
+| Aida Shahghasemi | Qjh2zkc | Pending | [Catalogue](aida-shahghasemi.md) |
+| Eendo | Qnbrhrh | Pending | [Catalogue](eendo.md) |
 
 The [discovery list](independent-artist-discovery.md) contains candidates with release leads. Some will prove ineligible or match an existing artist by another spelling. Only new artist pages count toward the target.

@@ -20,3 +20,7 @@ Release artwork, read 2026-11-21.
 > 2020-05-12T18:44:50Z
 
 Artist interview, biography or performance credits, read 2026-11-21.
+
+> The Golden Age Of Extremes Theatre
+
+Artist interview, biography or performance credits, read 2026-11-21.

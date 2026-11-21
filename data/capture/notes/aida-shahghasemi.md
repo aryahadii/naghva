@@ -1,0 +1,5 @@
+# Aida Shahghasemi
+
+The artist’s Bandcamp lists four full-length albums and five standalone entries. Her Spotify and Apple catalogues add the music for Ziba Rajabi’s *Belly Laugh at a Funeral*, other singles and collaborative releases. Her SoundCloud inventory returned 56 public uploads, including Persian-language performances absent from her principal albums. The early and album takes of “Stay” differ in duration. The independent 2015 recording titled «سراب» lasts more than five minutes and has its own kalimba credits; the track of the same name on her 2025 album is a different recording.
+
+Guest credits include Marjan Farsad, Moody Moussavi, Safir, Markéta Irglová, the different mixes with Pandhora and Holmes Ives, and recordings for Ananya Dance Theatre and Andrea Assaf. The albums and songs attributed on primary catalogues are the scope of this inventory. Her biography also documents two Glen Hansard albums and touring with Iron & Wine. Track-level attribution for those collaborations is under review. The portrait comes from Shahghasemi’s Spotify artist profile.

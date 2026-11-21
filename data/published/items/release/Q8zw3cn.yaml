@@ -1,0 +1,47 @@
+id: Q8zw3cn
+type: release
+statements:
+  name:
+  - value:
+      text: Stay (Experimental Link Music Nights)
+      language: en
+    references:
+    - source: music.apple.com-us-album-experimental-link-music-nights-ep-1502763692
+      quote: Stay
+      accessed: 2026-11-21
+      locator: Track title and credits
+  listen link:
+  - value: https://music.apple.com/us/song/stay/1502763695
+    references:
+    - source: music.apple.com-us-album-experimental-link-music-nights-ep-1502763692
+      quote: Stay
+      accessed: 2026-11-21
+      locator: Track title and credits
+  - value: https://soundcloud.com/aidashahghasemi/stay
+    references:
+    - source: soundcloud.com-aidashahghasemi-stay
+      quote: Stay
+      accessed: 2026-11-21
+      locator: Artist upload title
+  release date:
+  - value:
+      date: '2020-02-27'
+    references:
+    - source: music.apple.com-us-album-experimental-link-music-nights-ep-1502763692
+      quote: '2020-02-27'
+      accessed: 2026-11-21
+      locator: Digital edition date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/77/5d/3d/775d3d7d-22cf-075f-ca92-848d074c2ffa/194660903938.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-experimental-link-music-nights-ep-1502763692
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/77/5d/3d/775d3d7d-22cf-075f-ca92-848d074c2ffa/194660903938.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Native release artwork
+  performer:
+  - value: Qjh2zkc
+    references:
+    - source: music.apple.com-us-album-experimental-link-music-nights-ep-1502763692
+      quote: Stay
+      accessed: 2026-11-21
+      locator: Track title and credits

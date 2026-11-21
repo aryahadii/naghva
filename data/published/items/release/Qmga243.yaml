@@ -1,0 +1,37 @@
+id: Qmga243
+type: release
+statements:
+  name:
+  - value:
+      text: A trio, take two
+      language: en
+    references:
+    - source: lucy-little-m7ly.squarespace.com-listen-music
+      quote: A trio, take two
+      locator: Lucy Little’s portfolio, recorded in 2021
+      accessed: '2026-11-21'
+  performer:
+  - value: Qg776ck
+    references:
+    - source: lucy-little-m7ly.squarespace.com-listen-music
+      quote: with Afarin Nazijou (qanun) and Delfina Cheb (vocals)
+      locator: Lucy Little’s portfolio, recorded in 2021
+      accessed: '2026-11-21'
+    qualifiers:
+      role: qanun
+  - value: Qdawjbq
+    references:
+    - source: lucy-little-m7ly.squarespace.com-listen-music
+      quote: Lucy Little
+      locator: Lucy Little’s portfolio, recorded in 2021
+      accessed: '2026-11-21'
+    qualifiers:
+      role: violin
+  - value: Q5324md
+    references:
+    - source: lucy-little-m7ly.squarespace.com-listen-music
+      quote: with Afarin Nazijou (qanun) and Delfina Cheb (vocals)
+      locator: Lucy Little’s portfolio, recorded in 2021
+      accessed: '2026-11-21'
+    qualifiers:
+      role: vocals
