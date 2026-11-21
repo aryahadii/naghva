@@ -10,6 +10,14 @@ statements:
       quote: To Tomorrow
       locator: Original release, programme or musician credits
       accessed: '2026-11-21'
+  - value:
+      text: به فردا
+      language: fa
+    references:
+    - source: soundcloud.com-roham-sobhani-totomorrow
+      quote: به فردا
+      locator: Original release, programme or musician credits
+      accessed: '2026-11-21'
   release date:
   - value:
       date: '2025-09-14'
@@ -25,6 +33,8 @@ statements:
       quote: Roham Sobhani
       locator: Original release, programme or musician credits
       accessed: '2026-11-21'
+    qualifiers:
+      role: tar
   - value: Qpzdh9v
     references:
     - source: music.apple.com-us-album-to-tomorrow-single-1839799271
@@ -51,5 +61,11 @@ statements:
     references:
     - source: open.spotify.com-embed-album-2l6x6bxuarbecvaz5ldf27
       quote: spotify:track:6u8qfIdwrqmGVVLVxTLzl0
+      locator: Original release, programme or musician credits
+      accessed: '2026-11-21'
+  - value: https://soundcloud.com/roham-sobhani/totomorrow
+    references:
+    - source: soundcloud.com-roham-sobhani-totomorrow
+      quote: به فردا
       locator: Original release, programme or musician credits
       accessed: '2026-11-21'

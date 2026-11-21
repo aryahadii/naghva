@@ -10,6 +10,14 @@ statements:
       quote: Preposessing
       locator: Original release, programme or musician credits
       accessed: '2026-11-21'
+  - value:
+      text: لاوه لاوه
+      language: fa
+    references:
+    - source: soundcloud.com-roham-sobhani-ifzi3s5j9b7k
+      quote: لاوه لاوه
+      locator: Original release, programme or musician credits
+      accessed: '2026-11-21'
   release date:
   - value:
       date: '2018'
@@ -25,6 +33,8 @@ statements:
       quote: Roham Sobhani
       locator: Original release, programme or musician credits
       accessed: '2026-11-21'
+    qualifiers:
+      role: tar
   - value: Qpzdh9v
     references:
     - source: music.apple.com-us-album-desire-to-fly-1561322750
@@ -39,6 +49,30 @@ statements:
       quote: Zhouan Music Ensemble
       locator: Original release, programme or musician credits
       accessed: '2026-11-21'
+  - value: Q9vqpvp
+    references:
+    - source: soundcloud.com-roham-sobhani-ifzi3s5j9b7k
+      quote: 'همایون پشتدار: کمانچه'
+      locator: Original release, programme or musician credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: kamancheh
+  - value: Qrxrhm6
+    references:
+    - source: soundcloud.com-roham-sobhani-ifzi3s5j9b7k
+      quote: 'شهریار جعفری: عود'
+      locator: Original release, programme or musician credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: oud
+  - value: Q7ws2ng
+    references:
+    - source: soundcloud.com-roham-sobhani-ifzi3s5j9b7k
+      quote: 'فاضل ناجی: تمبک'
+      locator: Original release, programme or musician credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: tombak
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/d1/10/52/d1105249-a529-01ef-c514-afe365713132/195999780122.jpg/1200x630bb.jpg
     references:
@@ -51,5 +85,11 @@ statements:
     references:
     - source: music.apple.com-us-album-desire-to-fly-1561322750
       quote: Preposessing
+      locator: Original release, programme or musician credits
+      accessed: '2026-11-21'
+  - value: https://soundcloud.com/roham-sobhani/ifzi3s5j9b7k
+    references:
+    - source: soundcloud.com-roham-sobhani-ifzi3s5j9b7k
+      quote: لاوه لاوه
       locator: Original release, programme or musician credits
       accessed: '2026-11-21'

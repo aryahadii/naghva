@@ -1,0 +1,60 @@
+id: Qc2tsfd
+type: release
+statements:
+  name:
+  - value:
+      text: Abyss
+      language: en
+    references:
+    - source: kopirecs.bandcamp.com-track-abyss-feat-hesam-ohadi
+      quote: Abyss feat. Hesam Ohadi | ArtSaves, Hesam Ohadi | Kopi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qjjdrek
+    references:
+    - &id001
+      source: kopirecs.bandcamp.com-album-abyss
+      quote: 'Vocal & Lyrics: Hesam Ohadi'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: vocals
+  - value: Qw9zs9g
+    references:
+    - source: kopirecs.bandcamp.com-track-abyss-feat-hesam-ohadi
+      quote: ArtSaves
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://kopirecs.bandcamp.com/track/abyss-feat-hesam-ohadi
+    references:
+    - source: kopirecs.bandcamp.com-track-abyss-feat-hesam-ohadi
+      quote: Abyss feat. Hesam Ohadi | ArtSaves, Hesam Ohadi | Kopi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  contributor:
+  - value: Qjjdrek
+    references:
+    - *id001
+    qualifiers:
+      role: lyricist
+  cover art:
+  - value: https://f4.bcbits.com/img/a2867718112_10.jpg
+    references:
+    - source: kopirecs.bandcamp.com-track-abyss-feat-hesam-ohadi
+      quote: https://f4.bcbits.com/img/a2867718112_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Sadaf Azadehfar
+        language: en
+  release date:
+  - value:
+      date: '2025-01-08'
+    references:
+    - source: kopirecs.bandcamp.com-track-abyss-feat-hesam-ohadi
+      quote: released January 8, 2025
+      accessed: '2026-11-21'
+      locator: Published date

@@ -12,3 +12,11 @@ status: processed
 > نگاهی به آلبوم «گره» یا Spotty Surfaces
 
 Artist interview, biography or performance credits, read 2026-11-21.
+
+> نیما پورکریمی
+
+Artist interview, biography or performance credits, read 2026-11-21.
+
+> نگاهی به آلبوم «گره»
+
+Artist interview, biography or performance credits, read 2026-11-21.

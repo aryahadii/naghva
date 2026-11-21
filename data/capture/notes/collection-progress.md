@@ -112,9 +112,16 @@ The expansion started at revision fa6c29ca with 124 bilingual artist pages. The 
 | Niaz Nawab | Qb269ps | 9.2/10 | [Independent review](niaz-nawab-independent-review.md) |
 | Maryam Akhondy | Qs73vkf | 9.2/10 | [Independent review](artist-page-scores.md) |
 | Soheil Hosnavi | Q76q9jz | 9.2/10 | [Independent review](soheil-hosnavi-independent-review.md) |
-| Yadha Trio | Q4eqt65 | Pending | [Catalogue](yadha-trio.md) |
-| Idlefon | Qjjdrek | Pending | [Catalogue](idlefon.md) |
-| Farshid Arabi | Qk67gf5 | Pending | [Catalogue](farshid-arabi.md) |
+| Yadha Trio | Q4eqt65 | 9.2/10 | [Independent review](yadha-trio-independent-review.md) |
+| Idlefon | Qjjdrek | 8.7/10 | [Independent review](idlefon-independent-review.md) |
+| Farshid Arabi | Qk67gf5 | 8.8/10 | [Independent review](farshid-arabi-independent-review.md) |
 | Bahar Choir | Qs4s44j | Pending | [Catalogue](bahar-choir.md) |
+| Blurred Vision | Qqrzzag | Pending | [Catalogue](blurred-vision.md) |
+| Arash Fouladvand | Qb85b99 | Pending | [Catalogue](arash-fouladvand.md) |
+| Arezoo Banipour | Qpzdh9v | Pending | [Catalogue](arezoo-banipour.md) |
+| Zhouan Music Ensemble | Qtygce9 | Pending | [Catalogue](zhouan-music-ensemble.md) |
+| Sepp Osley | Qas33mb | Pending | [Catalogue](sepp-osley.md) |
+| Umchunga | Q9rnctv | Pending | [Catalogue](umchunga.md) |
+| Roham Sobhani | Qs5p4nt | Pending | [Catalogue](roham-sobhani.md) |
 
 The [discovery list](independent-artist-discovery.md) contains candidates with release leads. Some will prove ineligible or match an existing artist by another spelling. Only new artist pages count toward the target.

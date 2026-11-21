@@ -3,9 +3,10 @@ url: https://music.apple.com/us/album/ascension-single/6777222675
 title: ‎Ascension - Single - Album by Arezoo Banipour & Roham Sobhani - Apple Music
 status: processed
 language: en
-tier: own
+tier: discography
 about:
 - Arezoo Banipour
+- Zhouan Music Ensemble
 ---
 
 Original release, programme or musician credits, read 2026-11-21.

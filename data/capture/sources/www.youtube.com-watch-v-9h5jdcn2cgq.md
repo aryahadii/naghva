@@ -12,6 +12,7 @@ issued:
 about:
 - Qb23qew
 - Bahar Choir
+- Arash Fouladvand
 ---
 
 > 9. Âshéghânéhâ -  عاشقانه‌ها (Arash Fouladvand feat Nigina Amonqulova, Sara Naeini and Vahid Taj)

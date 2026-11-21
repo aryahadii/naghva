@@ -3,9 +3,10 @@ url: https://music.apple.com/us/album/a-wave-of-blood-ep/1627331624
 title: ‎A Wave of Blood - EP - Album by Haleh Seyfizadeh, Roham Sobhani & Hasan Sharghi - Apple Music
 status: processed
 language: en
-tier: own
+tier: discography
 about:
 - Arezoo Banipour
+- Zhouan Music Ensemble
 ---
 
 Original release, programme or musician credits, read 2026-11-21.

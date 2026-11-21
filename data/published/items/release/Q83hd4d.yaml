@@ -10,6 +10,14 @@ statements:
       quote: The Banner of Tresses
       locator: Artist, publisher, concert programme or original recording credits
       accessed: '2026-11-21'
+  - value:
+      text: بیرق گیسوان
+      language: fa
+    references:
+    - source: soundcloud.com-roham-sobhani-ey5svbrpzmzv
+      quote: بیرق گیسوان
+      locator: Original release, programme or musician credits
+      accessed: '2026-11-21'
   release date:
   - value:
       date: '2023-04-01'
@@ -41,6 +49,12 @@ statements:
       accessed: '2026-11-21'
     qualifiers:
       role: vocals
+  - value: Qtygce9
+    references:
+    - source: ir-women.com-19982
+      quote: هم‌نوازی گروه ژوان
+      locator: Original release, programme or musician credits
+      accessed: '2026-11-21'
   listen link:
   - value: https://t.me/soheilhosnavi/1024
     references:
@@ -65,6 +79,12 @@ statements:
     - source: open.spotify.com-embed-album-5klqahcwrjia0ee82tffic
       quote: The Banner of Tresses
       locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  - value: https://soundcloud.com/roham-sobhani/ey5svbrpzmzv
+    references:
+    - source: soundcloud.com-roham-sobhani-ey5svbrpzmzv
+      quote: بیرق گیسوان
+      locator: Original release, programme or musician credits
       accessed: '2026-11-21'
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/41/ec/1a/41ec1ad3-7bba-74cb-4564-36c8e10b6300/735910429916_cover.jpg/1200x630bb.jpg

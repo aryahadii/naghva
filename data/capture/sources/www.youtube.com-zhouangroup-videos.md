@@ -2,10 +2,11 @@
 url: https://www.youtube.com/@zhouangroup/videos
 title: jouan ensemble - YouTube
 status: processed
-language: en
+language: fa
 tier: own
 about:
 - Arezoo Banipour
+- Zhouan Music Ensemble
 ---
 
 Original release, programme or musician credits, read 2026-11-21.

@@ -10,6 +10,14 @@ statements:
       quote: To the Prisoner of the Cage
       locator: Original release, programme or musician credits
       accessed: '2026-11-21'
+  - value:
+      text: To the Prisoners of the Cage.به اسیران قفس
+      language: en
+    references:
+    - source: soundcloud.com-roham-sobhani-be-asiran-e-ghafas
+      quote: To the Prisoners of the Cage.به اسیران قفس
+      locator: Original release, programme or musician credits
+      accessed: '2026-11-21'
   release date:
   - value:
       date: '2022-01-06'
@@ -37,6 +45,12 @@ statements:
       quote: Haleh Seyfizadeh
       locator: Original release, programme or musician credits
       accessed: '2026-11-21'
+  - value: Qtygce9
+    references:
+    - source: soundcloud.com-roham-sobhani-be-asiran-e-ghafas
+      quote: گروه موسیقی ژوان
+      locator: Original release, programme or musician credits
+      accessed: '2026-11-21'
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ba/d9/0c/bad90ca0-bbe1-30fe-ef33-c5845bdc9192/752470074295_cover.jpg/1200x630bb.jpg
     references:
@@ -49,5 +63,17 @@ statements:
     references:
     - source: music.apple.com-us-album-rank-of-fire-1603849563
       quote: To the Prisoner of the Cage
+      locator: Original release, programme or musician credits
+      accessed: '2026-11-21'
+  - value: https://soundcloud.com/roham-sobhani/be-asiran-e-ghafas
+    references:
+    - source: soundcloud.com-roham-sobhani-be-asiran-e-ghafas
+      quote: To the Prisoners of the Cage.به اسیران قفس
+      locator: Original release, programme or musician credits
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/3dOQcRrveLA85HWcJPDBWE
+    references:
+    - source: open.spotify.com-embed-album-16vvxhwjsjbkk51elkv6bputm_source-generator
+      quote: spotify:track:3dOQcRrveLA85HWcJPDBWE
       locator: Original release, programme or musician credits
       accessed: '2026-11-21'

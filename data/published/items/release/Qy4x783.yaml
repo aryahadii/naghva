@@ -21,6 +21,12 @@ statements:
       quote: زنان سرزمینم - کر بهار و آرش فولادوند (Official)
       accessed: '2026-11-21'
       locator: Conductor’s original YouTube title
+  - value: https://t.me/ArashFouladvand/328
+    references:
+    - source: t.me-arashfouladvand-328
+      quote: '🎵 قطعه "زنان سرزمينم" روز جهانى زن بر شما عزيزان مبارك اجرای گروه کر بهار و اركستر پاريس شرقى شاعر، آهنگساز و رهبر ارکستر: آرش فولادوند از آلبوم: #راه_ابريشم ۲ پاریس 2017 🆔 @ArashFouladvan'
+      accessed: '2026-11-21'
+      locator: Artist’s original album and performance credit
   cover art:
   - value: https://i.ytimg.com/vi/aGnsPzVcFOw/hqdefault.jpg
     qualifiers:
@@ -45,3 +51,14 @@ statements:
       quote: زنان سرزمینم - کر بهار و آرش فولادوند (Official)
       accessed: '2026-11-21'
       locator: Conductor’s original YouTube title
+  contributor:
+  - value: Qb85b99
+    qualifiers:
+      role:
+      - composer
+      - lyricist
+    references:
+    - source: t.me-arashfouladvand-328
+      quote: '🎵 قطعه "زنان سرزمينم" روز جهانى زن بر شما عزيزان مبارك اجرای گروه کر بهار و اركستر پاريس شرقى شاعر، آهنگساز و رهبر ارکستر: آرش فولادوند از آلبوم: #راه_ابريشم ۲ پاریس 2017 🆔 @ArashFouladvan'
+      accessed: '2026-11-21'
+      locator: Artist’s original album and performance credit

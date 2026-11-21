@@ -3,9 +3,10 @@ url: https://music.apple.com/us/album/desire-to-fly/1561322750
 title: ‎Desire to Fly - Album by Roham Sobhani, Arezoo Banipour & Zhouan Music Ensemble - Apple Music
 status: processed
 language: en
-tier: own
+tier: discography
 about:
 - Arezoo Banipour
+- Zhouan Music Ensemble
 ---
 
 Original release, programme or musician credits, read 2026-11-21.
@@ -51,3 +52,7 @@ Original release, programme or musician credits, read 2026-11-21.
 Original release, programme or musician credits, read 2026-11-21.
 
 > Your Hair
+
+Original release, programme or musician credits, read 2026-11-21.
+
+> 2021-04-05

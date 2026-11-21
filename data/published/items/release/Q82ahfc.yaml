@@ -1,0 +1,28 @@
+id: Q82ahfc
+type: release
+statements:
+  name:
+  - value:
+      text: The Radiologist's Room
+      language: en
+    references:
+    - &id001
+      source: about.me-hesam.ohadi
+      quote: I made a soundtrack for Arash Radkia's animated short film "The Radiologist's Room" in 2009
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  release type:
+  - value: soundtrack
+    references:
+    - *id001
+  contributor:
+  - value: Qjjdrek
+    references:
+    - *id001
+    qualifiers:
+      role: composer
+  release date:
+  - value:
+      date: '2009'
+    references:
+    - *id001

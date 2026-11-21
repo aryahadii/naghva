@@ -2,10 +2,11 @@
 url: https://www.youtube.com/channel/UCwDQWhbQtaipbWOtzU2G58Q
 title: arezoo banipour - YouTube
 status: processed
-language: en
+language: fa
 tier: own
 about:
 - Arezoo Banipour
+- Zhouan Music Ensemble
 ---
 
 Original release, programme or musician credits, read 2026-11-21.

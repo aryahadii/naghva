@@ -36,6 +36,12 @@ statements:
       quote: ‎From - Song with Lyrics by Siavash Amini, Hessam Ohadi & Nima Pourkarimi - Apple Music
       accessed: '2026-11-21'
       locator: Page title
+  - value: https://open.spotify.com/track/6fcShHoHf3VV8kjY3aMRwa
+    references:
+    - source: open.spotify.com-track-6fcshhohf3vv8kjy3amrwa
+      quote: From - song and lyrics by Siavash Amini, Hessam Ohadi, Nima Pourkarimi | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/37/00/f4/3700f48e-96ff-598e-d8db-d38d2029b460/199066179871.jpg/600x600bb.webp
     references:

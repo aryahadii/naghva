@@ -10,6 +10,22 @@ statements:
       quote: Waiting
       locator: Original release, programme or musician credits
       accessed: '2026-11-21'
+  - value:
+      text: چشم به راه
+      language: fa
+    references:
+    - source: soundcloud.com-roham-sobhani-s8wfetjvgskj
+      quote: چشم به راه
+      locator: Original release, programme or musician credits
+      accessed: '2026-11-21'
+  - value:
+      text: تصنیفِ چشم به راه، در پلتفُرم‌های جهانی موسیقی، منتشر شد.
+      language: fa
+    references:
+    - source: t.me-s-jwangroupbefore-663
+      quote: تصنیفِ چشم به راه، در پلتفُرم‌های جهانی موسیقی، منتشر شد.
+      locator: Original release, programme or musician credits
+      accessed: '2026-11-21'
   release date:
   - value:
       date: '2021-11-18'
@@ -31,6 +47,8 @@ statements:
       quote: Roham Sobhani
       locator: Original release, programme or musician credits
       accessed: '2026-11-21'
+    qualifiers:
+      role: tar
   - value: Qtygce9
     references:
     - source: music.apple.com-us-album-waiting-single-1596527449
@@ -49,5 +67,23 @@ statements:
     references:
     - source: music.apple.com-us-album-waiting-single-1596527449
       quote: Waiting
+      locator: Original release, programme or musician credits
+      accessed: '2026-11-21'
+  - value: https://soundcloud.com/roham-sobhani/s8wfetjvgskj
+    references:
+    - source: soundcloud.com-roham-sobhani-s8wfetjvgskj
+      quote: چشم به راه
+      locator: Original release, programme or musician credits
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/2zNJEpV4tX8M1FdCfqwuJj
+    references:
+    - source: open.spotify.com-embed-album-1bcyjkf9hvnb1ffzs5zmb1utm_source-generator
+      quote: spotify:track:2zNJEpV4tX8M1FdCfqwuJj
+      locator: Original release, programme or musician credits
+      accessed: '2026-11-21'
+  - value: https://t.me/jwangroup/659
+    references:
+    - source: t.me-s-jwangroupbefore-663
+      quote: تصنیفِ چشم به راه، در پلتفُرم‌های جهانی موسیقی، منتشر شد.
       locator: Original release, programme or musician credits
       accessed: '2026-11-21'

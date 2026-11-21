@@ -3,9 +3,10 @@ url: https://music.apple.com/us/album/rank-of-fire/1603849563
 title: ‎Rank of Fire - Album by Roham Sobhani, Hasan Sharghi & Haleh Seyfizadeh - Apple Music
 status: processed
 language: en
-tier: own
+tier: discography
 about:
 - Arezoo Banipour
+- Zhouan Music Ensemble
 ---
 
 Original release, programme or musician credits, read 2026-11-21.

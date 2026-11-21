@@ -28,3 +28,7 @@ Unland’s track on the compilation, read 2026-11-21.
 Label identity, read 2026-11-21.
 
 > independent and artist-run record label based in Tehran, Iran
+
+> Artwork by Kino and Arash Akbari
+
+Artist interview, biography or performance credits, read 2026-11-21.

@@ -17,6 +17,41 @@ statements:
       quote: Farshid Arabi
       accessed: 2026-11-21
       locator: Album artist credit
+    - source: vimeo.com-118331386
+      quote: Vocal / Composer / Arrangment / Guitar Electric
+      accessed: 2026-11-21
+      locator: Original director’s credits
+    qualifiers:
+      role:
+      - vocals
+      - guitar
+  - value: Qnsrjc6
+    qualifiers:
+      role:
+      - drums
+    references:
+    - source: vimeo.com-118331386
+      quote: 'Nima Navapour: Drums'
+      accessed: 2026-11-21
+      locator: Original director’s credits
+  - value: Qjymnws
+    qualifiers:
+      role:
+      - guitar
+    references:
+    - source: vimeo.com-118331386
+      quote: 'Farzad Fakhredini: Guitar Electric'
+      accessed: 2026-11-21
+      locator: Original director’s credits
+  - value: Qc48gsb
+    qualifiers:
+      role:
+      - bass
+    references:
+    - source: vimeo.com-118331386
+      quote: 'Mohammad Nik: Bass'
+      accessed: 2026-11-21
+      locator: Original director’s credits
   listen link:
   - value: https://open.spotify.com/track/3YBJxuD1eUM85jiVJm3jHO
     references:
@@ -51,3 +86,23 @@ statements:
       quote: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/68/71/e6/6871e617-33d2-0ba8-a5bd-cdf314fd6a6c/cover.jpg/1200x630bb.jpg
       accessed: 2026-11-21
       locator: Album artwork
+  contributor:
+  - value: Qk67gf5
+    qualifiers:
+      role:
+      - composer
+      - arranger
+    references:
+    - source: vimeo.com-118331386
+      quote: Vocal / Composer / Arrangment / Guitar Electric
+      accessed: 2026-11-21
+      locator: Original director’s credits
+  - value: Qj2b7ez
+    qualifiers:
+      role:
+      - lyricist
+    references:
+    - source: vimeo.com-118331386
+      quote: 'Lyrics: Abbas Roshanzadeh'
+      accessed: 2026-11-21
+      locator: Original director’s credits

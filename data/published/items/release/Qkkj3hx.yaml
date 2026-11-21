@@ -1,0 +1,49 @@
+id: Qkkj3hx
+type: release
+statements:
+  name:
+  - value:
+      text: '1828'
+      language: en
+    references:
+    - &id001
+      source: flamingpines.bandcamp.com-track-1828
+      quote: 1828 | Siavash Amini + Umchunga | Flaming Pines
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Q9rnctv
+    references:
+    - *id001
+  - value: Q97bqaq
+    references:
+    - source: flamingpines.bandcamp.com-album-the-brightest-winter-sun
+      quote: All music by Siavash Amini and Umchunga
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://flamingpines.bandcamp.com/track/1828
+    references:
+    - source: flamingpines.bandcamp.com-track-1828
+      quote: 1828 | Siavash Amini + Umchunga | Flaming Pines
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a2812463504_10.jpg
+    references:
+    - source: flamingpines.bandcamp.com-track-1828
+      quote: https://f4.bcbits.com/img/a2812463504_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Kate Carr
+        language: en
+  release date:
+  - value:
+      date: '2018-08-31'
+    references:
+    - source: flamingpines.bandcamp.com-track-1828
+      quote: released August 31, 2018
+      accessed: '2026-11-21'
+      locator: Published date

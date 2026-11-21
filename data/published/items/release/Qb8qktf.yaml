@@ -1,0 +1,53 @@
+id: Qb8qktf
+type: release
+statements:
+  name:
+  - value:
+      text: Creatures of Comfort
+      language: en
+    references:
+    - source: hailstones-band.bandcamp.com-track-creatures-of-comfort
+      quote: Creatures of Comfort | Hailstones
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Q2e2223
+    references:
+    - source: hailstones-band.bandcamp.com-track-creatures-of-comfort
+      quote: Creatures of Comfort | Hailstones
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qjjdrek
+    references:
+    - source: www.sledisland.com-2025-hailstones
+      quote: solo endeavour of Idlefon’s Hesam Ohadi
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: vocals
+  listen link:
+  - value: https://hailstones-band.bandcamp.com/track/creatures-of-comfort
+    references:
+    - source: hailstones-band.bandcamp.com-track-creatures-of-comfort
+      quote: Creatures of Comfort | Hailstones
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a1709861733_10.jpg
+    references:
+    - source: hailstones-band.bandcamp.com-track-creatures-of-comfort
+      quote: https://f4.bcbits.com/img/a1709861733_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Wren Lovejoy, design by Amir B Ash
+        language: en
+  release date:
+  - value:
+      date: '2026-09-25'
+    references:
+    - source: hailstones-band.bandcamp.com-track-creatures-of-comfort
+      quote: released September 25, 2026
+      accessed: '2026-11-21'
+      locator: Published date

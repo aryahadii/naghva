@@ -1,0 +1,85 @@
+id: Qdga6ar
+type: release
+statements:
+  name:
+  - value:
+      text: A Day In The Life (2nd Half)
+      language: en
+    references:
+    - source: music.apple.com-us-album-a-day-in-the-life-2nd-half-single-1833278338
+      quote: A Day In The Life (2nd Half)
+      accessed: 2026-11-21
+      locator: Track title
+  performer:
+  - value: Qas33mb
+    references:
+    - source: music.apple.com-us-album-a-day-in-the-life-2nd-half-single-1833278338
+      quote: Sepp Osley
+      accessed: 2026-11-21
+      locator: Performer
+  listen link:
+  - value: https://music.apple.com/us/song/a-day-in-the-life-2nd-half/1833278339
+    references:
+    - source: music.apple.com-us-album-a-day-in-the-life-2nd-half-single-1833278338
+      quote: A Day In The Life (2nd Half)
+      accessed: 2026-11-21
+      locator: Track title
+  - value: https://open.spotify.com/track/1NZ4U0fTG2lhDcronfmOvT
+    references:
+    - source: open.spotify.com-album-12h7p9k9p9nfjdppn9n3d5
+      quote: Sepp Osley
+      accessed: 2026-11-21
+      locator: Spotify track billing
+  - value: https://music.apple.com/us/song/a-day-in-the-life-2nd-half/1822923729
+    references:
+    - source: music.apple.com-us-album-dear-john-collaborations-1822923714
+      quote: A Day In The Life (2nd Half)
+      accessed: 2026-11-21
+      locator: Track title
+  - value: https://open.spotify.com/track/73Jig1Rx3LiWg1yqaYbS0N
+    references:
+    - source: open.spotify.com-album-3ej7gesjtlhqhamkdf9hj6
+      quote: Sepp Osley
+      accessed: 2026-11-21
+      locator: Spotify track billing
+  - value: https://youtu.be/IT-xXYX3tGI
+    references:
+    - source: youtu.be-it-xxyx3tgi
+      quote: Sepp Osley - A Day In The Life (Beatles Cover) Official Video
+      accessed: 2026-11-21
+      locator: Artist channel, issued film title
+  release date:
+  - value:
+      date: '2025-09-04'
+    references:
+    - source: music.apple.com-us-album-a-day-in-the-life-2nd-half-single-1833278338
+      quote: '2025-09-04'
+      accessed: 2026-11-21
+      locator: Edition date
+  - value:
+      date: '2025-10-03'
+    references:
+    - source: music.apple.com-us-album-dear-john-collaborations-1822923714
+      quote: '2025-10-03'
+      accessed: 2026-11-21
+      locator: Edition date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1f/cb/13/1fcb1356-d4b6-c59d-b994-02de16b0bfe1/artwork.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-a-day-in-the-life-2nd-half-single-1833278338
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1f/cb/13/1fcb1356-d4b6-c59d-b994-02de16b0bfe1/artwork.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Edition artwork
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/88/80/41/888041fd-922a-c81d-e4d4-a15a75481a4e/artwork.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-dear-john-collaborations-1822923714
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/88/80/41/888041fd-922a-c81d-e4d4-a15a75481a4e/artwork.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Edition artwork
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-a-day-in-the-life-2nd-half-single-1833278338
+      quote: A Day In The Life (2nd Half)
+      accessed: 2026-11-21
+      locator: Track title

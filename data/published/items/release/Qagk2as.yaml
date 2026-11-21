@@ -1,0 +1,53 @@
+id: Qagk2as
+type: release
+statements:
+  name:
+  - value:
+      text: Haunting
+      language: en
+    references:
+    - source: herrspectre.bandcamp.com-track-haunting
+      quote: Haunting | Herr Spectre
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qjdvdjm
+    references:
+    - source: herrspectre.bandcamp.com-track-haunting
+      quote: Haunting | Herr Spectre
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qjjdrek
+    references:
+    - source: www.sledisland.com-2023-herr-spectre
+      quote: collaborative project between Iranian musicians Hesam Ohadi (Idlefon) and Zhina Ardalan (Xeen)
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: electronics
+  listen link:
+  - value: https://herrspectre.bandcamp.com/track/haunting
+    references:
+    - source: herrspectre.bandcamp.com-track-haunting
+      quote: Haunting | Herr Spectre
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a1999337107_10.jpg
+    references:
+    - source: herrspectre.bandcamp.com-track-haunting
+      quote: https://f4.bcbits.com/img/a1999337107_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original publisher artwork
+        language: en
+  release date:
+  - value:
+      date: '2025-09-20'
+    references:
+    - source: herrspectre.bandcamp.com-track-haunting
+      quote: released September 20, 2025
+      accessed: '2026-11-21'
+      locator: Published date

@@ -1,0 +1,51 @@
+id: Qrb66d5
+type: release
+statements:
+  name:
+  - value:
+      text: Photomat (PUSH sessions)
+      language: en
+    references:
+    - source: www.youtube.com-watch-v-choqnbhb9f0
+      quote: photomat
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qn4gh3f
+    references:
+    - source: www.youtube.com-watch-v-choqnbhb9f0
+      quote: photomat
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qjjdrek
+    references:
+    - source: about.me-hesam.ohadi
+      quote: member of the Post-Rock/ Electronic band Photomat
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Q9rnctv
+    references:
+    - source: unexplainedsoundsgroup.bandcamp.com-track-umchunga-turbulence-i
+      quote: one of two vocalists in the electronic/post-rock band Photomat
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: vocals
+  listen link:
+  - value: https://www.youtube.com/watch?v=choQNbhB9f0
+    references:
+    - source: www.youtube.com-watch-v-choqnbhb9f0
+      quote: photomat
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i.ytimg.com/vi/choQNbhB9f0/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-choqnbhb9f0
+      quote: https://i.ytimg.com/vi/choQNbhB9f0/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: PUSH sessions
+        language: en

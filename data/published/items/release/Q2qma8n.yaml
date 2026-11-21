@@ -10,6 +10,14 @@ statements:
       quote: Tidings of an Outcry
       locator: Original release, programme or musician credits
       accessed: '2026-11-21'
+  - value:
+      text: بشارت فریاد
+      language: fa
+    references:
+    - source: soundcloud.com-roham-sobhani-zhqixq4togxz
+      quote: بشارت فریاد
+      locator: Original release, programme or musician credits
+      accessed: '2026-11-21'
   release date:
   - value:
       date: '2021-08-12'
@@ -31,6 +39,8 @@ statements:
       quote: Roham Sobhani
       locator: Original release, programme or musician credits
       accessed: '2026-11-21'
+    qualifiers:
+      role: tar
   - value: Qtygce9
     references:
     - source: music.apple.com-us-album-tidings-of-an-outcry-single-1579225309
@@ -55,5 +65,11 @@ statements:
     references:
     - source: open.spotify.com-embed-album-686z5pf7dy0wwasdiy7ehy
       quote: spotify:track:780ZyEUuWUwtmT6yV3kftr
+      locator: Original release, programme or musician credits
+      accessed: '2026-11-21'
+  - value: https://soundcloud.com/roham-sobhani/zhqixq4togxz
+    references:
+    - source: soundcloud.com-roham-sobhani-zhqixq4togxz
+      quote: بشارت فریاد
       locator: Original release, programme or musician credits
       accessed: '2026-11-21'

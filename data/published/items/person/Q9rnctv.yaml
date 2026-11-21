@@ -3,10 +3,84 @@ type: person
 statements:
   name:
   - value:
+      text: Umchunga
+      language: en
+    references:
+    - source: www.nts.live-artists-142532-umchunga
+      quote: Umchunga is the musical project of Nima Pourkarimi
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value:
       text: Nima Pourkarimi
       language: en
     references:
-    - source: idlefon.bandcamp.com-track-pickers-of-empty-cocoons-with-nima-pourkarimi
+    - source: www.nts.live-artists-142532-umchunga
       quote: Nima Pourkarimi
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value:
+      text: نیما پورکریمی
+      language: fa
+    references:
+    - source: www.harmonytalk.com-5056---------
+      quote: نیما پورکریمی
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  image:
+  - value: https://f4.bcbits.com/img/0025057514_21.jpg
+    references:
+    - source: umchunga.bandcamp.com-music
+      quote: https://f4.bcbits.com/img/0025057514_21.jpg
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: Umchunga, via Bandcamp
+        language: en
+  profile link:
+  - value: https://umchunga.bandcamp.com/music
+    references:
+    - source: umchunga.bandcamp.com-music
+      quote: Music | Umchunga
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/umchunga
+    references:
+    - source: soundcloud.com-umchunga
+      quote: Stream Umchunga music | Listen to songs, albums, playlists for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/artist/umchunga/1491543345
+    references:
+    - source: music.apple.com-us-artist-umchunga-1491543345
+      quote: ‎Umchunga - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/artist/umchunga/1441063102
+    references:
+    - source: music.apple.com-us-artist-umchunga-1441063102
+      quote: ‎Umchunga - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  based in:
+  - value: Qhm6fzw
+    references:
+    - source: www.nts.live-artists-142532-umchunga
+      quote: based in Tehran
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  member of:
+  - value: Qn4gh3f
+    references:
+    - source: www.nts.live-artists-142532-umchunga
+      quote: one of two vocalists in the electronic/post-rock band Photomat
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: vocals
+  - value: Qdw74z9
+    references:
+    - source: about.me-hesam.ohadi
+      quote: Duo "Bitodes" with Nima Pourkarimi
       accessed: '2026-11-21'
       locator: Artist interview, biography or performance credits

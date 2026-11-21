@@ -10,6 +10,14 @@ statements:
       quote: Rank of Fire
       locator: Original release, programme or musician credits
       accessed: '2026-11-21'
+  - value:
+      text: Rank of Fire  مقام آتش
+      language: en
+    references:
+    - source: soundcloud.com-roham-sobhani-magham-e-atash
+      quote: Rank of Fire  مقام آتش
+      locator: Original release, programme or musician credits
+      accessed: '2026-11-21'
   release date:
   - value:
       date: '2022-01-06'
@@ -49,5 +57,17 @@ statements:
     references:
     - source: music.apple.com-us-album-rank-of-fire-1603849563
       quote: Rank of Fire
+      locator: Original release, programme or musician credits
+      accessed: '2026-11-21'
+  - value: https://soundcloud.com/roham-sobhani/magham-e-atash
+    references:
+    - source: soundcloud.com-roham-sobhani-magham-e-atash
+      quote: Rank of Fire  مقام آتش
+      locator: Original release, programme or musician credits
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/7J0czh5YADhSmEDX9Lqc0W
+    references:
+    - source: open.spotify.com-embed-album-16vvxhwjsjbkk51elkv6bputm_source-generator
+      quote: spotify:track:7J0czh5YADhSmEDX9Lqc0W
       locator: Original release, programme or musician credits
       accessed: '2026-11-21'

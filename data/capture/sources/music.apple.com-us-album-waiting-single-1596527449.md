@@ -3,9 +3,10 @@ url: https://music.apple.com/us/album/waiting-single/1596527449
 title: ‎Waiting - Single - Album by Hossein Baharbin, Roham Sobhani & Zhouan Music Ensemble - Apple Music
 status: processed
 language: en
-tier: own
+tier: discography
 about:
 - Arezoo Banipour
+- Zhouan Music Ensemble
 ---
 
 Original release, programme or musician credits, read 2026-11-21.

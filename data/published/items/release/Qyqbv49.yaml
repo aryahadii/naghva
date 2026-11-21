@@ -10,6 +10,14 @@ statements:
       quote: Red Flower
       locator: Original release, programme or musician credits
       accessed: '2026-11-21'
+  - value:
+      text: گُلِ سُرخ
+      language: fa
+    references:
+    - source: soundcloud.com-roham-sobhani-redflower
+      quote: گُلِ سُرخ
+      locator: Original release, programme or musician credits
+      accessed: '2026-11-21'
   release date:
   - value:
       date: '2026-08-29'
@@ -25,6 +33,8 @@ statements:
       quote: Roham Sobhani
       locator: Original release, programme or musician credits
       accessed: '2026-11-21'
+    qualifiers:
+      role: tar
   - value: Qpzdh9v
     references:
     - source: music.apple.com-us-album-red-flower-single-6806319727
@@ -51,5 +61,11 @@ statements:
     references:
     - source: open.spotify.com-embed-album-6fqxs9hrfazqckkg0kywcr
       quote: spotify:track:3uTYWrG5mGqo5fGgogQiVQ
+      locator: Original release, programme or musician credits
+      accessed: '2026-11-21'
+  - value: https://soundcloud.com/roham-sobhani/redflower
+    references:
+    - source: soundcloud.com-roham-sobhani-redflower
+      quote: گُلِ سُرخ
       locator: Original release, programme or musician credits
       accessed: '2026-11-21'

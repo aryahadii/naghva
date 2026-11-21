@@ -13,3 +13,7 @@ Programme introduction, read 2026-11-21.
 > گاردن پارتی در برف
 
 Stage music in the programme introduction, read 2026-11-21.
+
+> نوازنده گیتار الکتریک گروه قاسم افشار و بیژن خاوری شد
+
+Programme introduction, electric guitar in the two pop groups, read 2026-11-21.

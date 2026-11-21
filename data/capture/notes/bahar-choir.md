@@ -134,3 +134,9 @@ Two live concerts released as the 2024 Asheghaneha DVDs were filmed in Paris and
 - گروه کر بهار در لندن (Qfcztxv) · https://www.youtube.com/watch?v=bcObm4MBLds
 - Concert de la Chorale Bahar (le 5 et le 6 Juin 2015) کنسرت گروه کر بهار (Q8qj8a7) · https://www.youtube.com/watch?v=qanPtNaMJGQ
 - کنسرت آوای صلح، آوای همبستگی (Qzccc9g) · https://www.youtube.com/watch?v=xvBw_N37KqA
+
+- The 2019 film-festival programme credits MFreeth with the 13-minute documentary, Q6jwegp. The 2018, four-minute conductor upload Qv9s7mv is the shorter London documentary. The September 2019 Strata programme broadcasts a segment in a 28-minute programme. https://www.archaeologychannel.org/images/documents/filmfestival/2019/Video_Bar_at_the_Hotel_Eugene.pdf · https://www.archaeologychannel.org/video-guide/strata-portraits-of-humanity/2883-strata-september-2019
+
+- لاله‌های سرخ (Qyb7jf3) is explicitly identified by the conductor in the original Iranian-language credits for Bot-e Chin. https://t.me/ArashFouladvand/540
+
+- راه ابریشم ۲ (Qez4zcx) is explicitly identified by the conductor in the original Iranian-language credits for Zanane Sarzaminam. https://t.me/ArashFouladvand/328

@@ -3,9 +3,10 @@ url: https://music.apple.com/us/album/red-flower-single/6806319727
 title: ‎Red Flower - Single - Album by Roham Sobhani & Arezoo Banipour - Apple Music
 status: processed
 language: en
-tier: own
+tier: discography
 about:
 - Arezoo Banipour
+- Zhouan Music Ensemble
 ---
 
 Original release, programme or musician credits, read 2026-11-21.

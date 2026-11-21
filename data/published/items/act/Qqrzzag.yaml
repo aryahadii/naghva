@@ -1,0 +1,51 @@
+id: Qqrzzag
+type: act
+statements:
+  name:
+  - value:
+      text: Blurred Vision
+      language: en
+    references:
+    - source: open.spotify.com-artist-6mjvjq51mgscnwtpswsd0h
+      quote: Blurred Vision
+      accessed: 2026-11-21
+      locator: Artist name
+  formation date:
+  - value:
+      date: '2010'
+    references:
+    - source: sepposley.myshopify.com-collections-blurred-vision
+      quote: In 2010, Sepp Osley founded the band Blurred Vision
+      accessed: 2026-11-21
+      locator: Founder’s account
+  based in:
+  - value: Q89tspa
+    references:
+    - source: web.archive.org-web-20181009172154-https-blurredvisionmusic.com-about
+      quote: Based in London, UK.
+      accessed: 2026-11-21
+      locator: Band biography
+  profile link:
+  - value: https://open.spotify.com/artist/6Mjvjq51mGSCNwTpSWsD0H
+    references:
+    - source: open.spotify.com-artist-6mjvjq51mgscnwtpswsd0h
+      quote: Blurred Vision
+      accessed: 2026-11-21
+      locator: Artist name
+  - value: https://music.apple.com/us/artist/blurred-vision/250015651
+    references:
+    - source: music.apple.com-us-artist-blurred-vision-250015651
+      quote: Blurred Vision
+      accessed: 2026-11-21
+      locator: Album artist profile
+  image:
+  - value: https://www.eonmusic.co.uk/uploads/7/3/5/2/73527277/blurred-vision-judy-totton_orig.png
+    qualifiers:
+      credit:
+        text: Judy Totton, via eonmusic
+        language: en
+    references:
+    - source: www.eonmusic.co.uk-blurred-vision-terry-brown-ramblin-man-fair-eonmusic-interview-july-2016.html
+      quote: 'Photo: Judy Totton.'
+      accessed: 2026-11-21
+      locator: Photographer credit for the opening portrait of the trio

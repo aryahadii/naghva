@@ -85,9 +85,14 @@ references:
     quote: در این فکر بودم که سازم را بفروشم
     accessed: 2026-11-21
     locator: Mohammad Nik on hearing Penhan on cassette
+  pop:
+    source: youtu.be-6dwst5ndy1i
+    quote: نوازنده گیتار الکتریک گروه قاسم افشار و بیژن خاوری شد
+    accessed: 2026-11-21
+    locator: Programme introduction, electric guitar in the two pop groups
 ---
 
-Farshid Arabi sings and writes Persian-language metal. With his own band, he set ghazals by Rumi to electric guitar. What drew him to those poems, he said, was the rhythm of the verse and the protest he heard in Rumi’s words.[^roles][^band][^ghazal]
+Farshid Arabi sings and writes Persian-language metal. Before leading his own band, he played electric guitar in the pop groups of Ghasem Afshar and Bijan Khavari.[^pop] With his own band, he set ghazals by Rumi to electric guitar. What drew him to those poems, he said, was the rhythm of the verse and the protest he heard in Rumi’s words.[^roles][^band][^ghazal]
 
 ## Waiting for Penhan
 

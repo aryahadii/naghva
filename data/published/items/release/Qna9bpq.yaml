@@ -1,0 +1,65 @@
+id: Qna9bpq
+type: release
+statements:
+  name:
+  - value:
+      text: April 8th-Barrens
+      language: en
+    references:
+    - source: music.apple.com-us-song-622410614
+      quote: ‎April 8th-Barrens - Song with Lyrics by Photomat - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qn4gh3f
+    references:
+    - source: music.apple.com-us-song-622410614
+      quote: ‎April 8th-Barrens - Song with Lyrics by Photomat - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qjjdrek
+    references:
+    - source: about.me-hesam.ohadi
+      quote: member of the Post-Rock/ Electronic band Photomat
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Q9rnctv
+    references:
+    - source: unexplainedsoundsgroup.bandcamp.com-track-umchunga-turbulence-i
+      quote: one of two vocalists in the electronic/post-rock band Photomat
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: vocals
+  listen link:
+  - value: https://music.apple.com/us/song/622410614
+    references:
+    - source: music.apple.com-us-song-622410614
+      quote: ‎April 8th-Barrens - Song with Lyrics by Photomat - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/5YqqXxPk9XpmfyHdTCr7rI
+    references:
+    - source: open.spotify.com-track-5yqqxxpk9xpmfyhdtcr7ri
+      quote: April 8th-Barrens - song and lyrics by Photomat | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music/v4/26/d0/2e/26d02e28-0b32-6009-fb54-a8165c1ccb63/cover.jpg/600x600bb.webp
+    references:
+    - source: music.apple.com-us-song-622410614
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music/v4/26/d0/2e/26d02e28-0b32-6009-fb54-a8165c1ccb63/cover.jpg/600x600bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original publisher artwork
+        language: en
+  release date:
+  - value:
+      date: '2013-03-14'
+    references:
+    - source: music.apple.com-us-song-622410614
+      quote: March 14, 2013
+      accessed: '2026-11-21'
+      locator: Published date

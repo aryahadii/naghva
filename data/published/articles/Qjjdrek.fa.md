@@ -135,6 +135,71 @@ references:
     quote: natural beauty of their home province Alberta
     accessed: '2026-11-21'
     locator: Artist interview, biography or performance credits
+  short:
+    source: about.me-hesam.ohadi
+    quote: animated short film "The Radiologist's Room" in 2009
+    accessed: '2026-11-21'
+    locator: Artist interview, biography or performance credits
+  four:
+    source: about.me-hesam.ohadi
+    quote: I released 4 tracks on a split album
+    accessed: '2026-11-21'
+    locator: Artist interview, biography or performance credits
+  duo:
+    source: about.me-hesam.ohadi
+    quote: Duo "Bitodes" with Nima Pourkarimi
+    accessed: '2026-11-21'
+    locator: Artist interview, biography or performance credits
+  madrid:
+    source: about.me-hesam.ohadi
+    quote: Madrid-based label "Oido Records"
+    accessed: '2026-11-21'
+    locator: Artist interview, biography or performance credits
+  window:
+    source: music.apple.com-us-album-windowsill-622410222
+    quote: March 14, 2013
+    accessed: '2026-11-21'
+    locator: Artist interview, biography or performance credits
+  avshow:
+    source: montreal.mutek.org-en-artists-idlefon-amir-b-ash
+    quote: COLDSTREAM A/V
+    accessed: '2026-11-21'
+    locator: Artist interview, biography or performance credits
+  filmconcept:
+    source: montreal.mutek.org-en-artists-idlefon-amir-b-ash
+    quote: a short film made by Adam Curtis called Oh Dear
+    accessed: '2026-11-21'
+    locator: Artist interview, biography or performance credits
+  pop:
+    source: www.sledisland.com-2023-herr-spectre
+    quote: Ardalan’s distorted guitars and gloomy vocals
+    accessed: '2026-11-21'
+    locator: Artist interview, biography or performance credits
+  herrdate:
+    source: herrspectre.bandcamp.com-album-all-things-consoled
+    quote: released September 20, 2025
+    accessed: '2026-11-21'
+    locator: Artist interview, biography or performance credits
+  hailvoc:
+    source: www.sledisland.com-2025-hailstones
+    quote: Ohadi’s captivating vocals over keys
+    accessed: '2026-11-21'
+    locator: Artist interview, biography or performance credits
+  newband:
+    source: www.sledisland.com-2025-hailstones
+    quote: Beginning in 2023 as the solo endeavour
+    accessed: '2026-11-21'
+    locator: Artist interview, biography or performance credits
+  album26:
+    source: hailstones-band.bandcamp.com-album-the-weariness-of-hope
+    quote: released September 25, 2026
+    accessed: '2026-11-21'
+    locator: Artist interview, biography or performance credits
+  guestlyrics:
+    source: kopirecs.bandcamp.com-album-abyss
+    quote: 'Vocal & Lyrics: Hesam Ohadi'
+    accessed: '2026-11-21'
+    locator: Artist interview, biography or performance credits
 ---
 
 Idlefon نامی است که حسام اوحدی برای انتشار موسیقی خود به کار می‌برد. این موسیقی‌دان ایرانی‌کانادایی در ۱۹۸۷ در تهران به دنیا آمد و در کلگری زندگی می‌کند. پیش از آنکه در ۲۰۰۶ به ساخت موسیقی با رایانه روی بیاورد، درامز می‌زد. او از بنیان‌گذاران نشر تجربی بیت‌رات و جشنوارهٔ صت در تهران است.[^alias][^born][^city][^drum][^start][^collective]
@@ -143,8 +208,14 @@ Idlefon نامی است که حسام اوحدی برای انتشار موسی�
 
 اوحدی و سیاوش امینی در ۲۰۰۱ گروهی تشکیل دادند. چند سال بعد این دو همراه با نیما پورکریمی، که با نام Umchunga موسیقی منتشر می‌کند، کار با نرم‌افزارهای ضبط را آموختند و در خانه قطعه ساختند. چند اجرای خصوصی برگزار کردند و آلبومی مشترک به نام [*گره*](#spotty-surfaces-4wa) فراهم آوردند که ماه‌ریز در سال ۲۰۱۰ با عنوان انگلیسی *Spotty Surfaces* منتشر کرد. امینی و پورکریمی بعدتر هر کدام در قطعه‌ای از آلبوم [*Intensive Collectivity Known As City*](#intensive-collectivity-known-as-city-dsv) اوحدی، منتشرشده در ۲۰۱۴، حضور داشتند.[^first][^friend][^tools][^early][^pressed][^persian][^guests][^guests2][^solo]
 
+اوحدی در ۲۰۰۹ موسیقی انیمیشن کوتاه *The Radiologist’s Room* ساختهٔ آرش رادکیا را نوشت. چهار قطعه از آلبوم *گره* کار او بود. او و پورکریمی با نام Bitodes موسیقی تکنو می‌ساختند. اوحدی در گروه پست‌راک Photomat هم عضویت داشت. آلبوم این گروه، *Windowsill*، در ۲۰۱۳ از سوی نشر Oído Records در مادرید منتشر شد.[^short][^four][^duo][^madrid][^window]
+
 زندگی روزمره در تهران از سرچشمه‌های موسیقی الکترونیک اوحدی بود. نشر مستقل تیمپنیک آدیو در ۲۰۱۵ آلبوم *Submarine* را منتشر کرد. پس از مهاجرت به کلگری، طبیعت استان آلبرتا نیز به کارش راه پیدا کرد. در نوامبر ۲۰۲۱ آلبوم [*COLDSTREAM*](#coldstream-4t8) با طراحی جلد امیر بی. اش از نشر n5MD بیرون آمد.[^tehran][^ind][^sub][^city][^sound][^cover][^release][^label]
 
 ## صدا و اجرا
 
 اوحدی که پیش‌تر صدای پردازش‌شدهٔ انسان را در قطعه‌هایش به کار می‌برد، در اجرای زندهٔ *Aesthetics of Survival* به شعر و خواندن نقش پررنگ‌تری داد. رادیو CJSW در کلگری نیز در همکاری با بلک آیس از اجرای او فیلم گرفت. اوحدی با نام کینو مجسمه‌های متحرک و چیدمان‌های تعاملی هم می‌سازد.[^show][^voice][^radio][^visual][^sculpture]
+
+اوحدی و اش با الهام از فیلم کوتاه *Oh Dear* ساختهٔ آدام کرتیس، *COLDSTREAM* را به اجرایی صوتی‌تصویری برای جشنوارهٔ موتک تبدیل کردند. اوحدی در کلگری در گروه دونفرهٔ Herr Spectre، در کنار گیتار و آواز ژینا اردلان، بخش الکترونیک موسیقی را اجرا می‌کرد. این دو در ۲۰۲۵ *All Things Consoled* را منتشر کردند. اوحدی همان سال ترانهٔ «Abyss» از ArtSaves را نوشت و خواند.[^avshow][^filmconcept][^pop][^herrdate][^guestlyrics]
+
+اوحدی در ۲۰۲۳ پروژهٔ Hailstones را به‌تنهایی آغاز کرد. با پیوستن مهران احسانی، نوازندهٔ گیتار، و بو اسکِویز، نوازندهٔ گیتار باس، اوحدی آواز می‌خواند و کیبورد می‌نواخت. گروه در سپتامبر ۲۰۲۶ آلبوم *The Weariness of Hope* را منتشر کرد.[^newband][^hailvoc][^album26]
