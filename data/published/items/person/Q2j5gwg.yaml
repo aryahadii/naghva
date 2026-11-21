@@ -3,6 +3,13 @@ type: person
 statements:
   name:
   - value:
+      text: سهیل شایسته
+      language: fa
+    references:
+    - source: harmonytalk.com-18761
+      quote: به اتفاق سهیل شایسته
+      accessed: '2026-11-21'
+  - value:
       text: Soheil Shayesteh
       language: en
     references:
