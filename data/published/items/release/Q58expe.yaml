@@ -1,0 +1,32 @@
+id: Q58expe
+type: release
+statements:
+  name:
+  - value:
+      text: Cantiga de Santa María No.54
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-_tremawqvgo
+      quote: Cantiga de Santa María No.54
+      accessed: '2026-11-21'
+      locator: Music credited by musician or performance publisher
+  performer:
+  - value: Qqb9bnx
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/_tREmAwQVgo/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-_tremawqvgo
+      quote: https://i.ytimg.com/vi/_tREmAwQVgo/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video frame
+    qualifiers:
+      credit:
+        text: Mehdi Moshtagh
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=_tREmAwQVgo
+    references:
+    - *id001

@@ -1,0 +1,38 @@
+id: Qss3wbf
+type: release
+statements:
+  name:
+  - value:
+      text: Setar Mehdi Moshtagh & Majid Hesabi(Pishdaramad Nava) /پیش درآمد نوا، مهدی مشتاق و مجید حسابی
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-bslgaviuzga
+      quote: Setar Mehdi Moshtagh & Majid Hesabi(Pishdaramad Nava) /پیش درآمد نوا، مهدی مشتاق و مجید حسابی
+      accessed: '2026-11-21'
+      locator: Music credited by musician or performance publisher
+  performer:
+  - value: Qqb9bnx
+    references:
+    - *id001
+  - value: Qset3q2
+    references:
+    - source: www.youtube.com-watch-v-bslgaviuzga
+      quote: Majid Hesabi
+      accessed: '2026-11-21'
+      locator: Collaborator
+  cover art:
+  - value: https://i.ytimg.com/vi/bslGaViUZgA/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-bslgaviuzga
+      quote: https://i.ytimg.com/vi/bslGaViUZgA/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video frame
+    qualifiers:
+      credit:
+        text: Mehdi Moshtagh
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=bslGaViUZgA
+    references:
+    - *id001

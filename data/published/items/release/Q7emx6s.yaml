@@ -1,0 +1,32 @@
+id: Q7emx6s
+type: release
+statements:
+  name:
+  - value:
+      text: Daya Daya دایه دایه
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-d8tnj5k81uq
+      quote: Daya Daya دایه دایه
+      accessed: '2026-11-21'
+      locator: Music credited by musician or performance publisher
+  performer:
+  - value: Qqb9bnx
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/d8tNJ5k81uQ/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-d8tnj5k81uq
+      quote: https://i.ytimg.com/vi/d8tNJ5k81uQ/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video frame
+    qualifiers:
+      credit:
+        text: Mehdi Moshtagh
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=d8tNJ5k81uQ
+    references:
+    - *id001

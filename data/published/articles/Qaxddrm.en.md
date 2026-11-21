@@ -50,8 +50,13 @@ references:
     quote: HAMI HAMOO - Africa (official video)
     accessed: '2026-11-21'
     locator: Artist-issued video
+  bushehr:
+    source: www.accent-presse.com-wp-content-uploads-2026-02-afdv_2026_web_compressed.pdf
+    quote: Leur premier album, Siya, s’inspire de l’héritage musical des esclaves africains arrivés à Bushehr
+    accessed: 2026-11-21
+    locator: Hami Hamoo, festival programme
 ---
 
 Hami Hamoo takes its name from a Bushehri expression that percussionist Habib Meftah’s hometown uses for “more or less.” Meftah shares the singing with Moussa Koita, a guitarist from Bobo-Dioulasso in Burkina Faso who got his start with Victor Démé. The third musician, French saxophonist Michaël Havard, had explored the Ethiopian jazz of the 1960s and 1970s with Arat Kilo.[^name][^background][^trio][^afro]
 
-Each musician brought compositions to rehearsal for the three to rework together. On *Siya*, their first album for Accords Croisés, the tenor saxophone shares the foreground with electric guitar. Elsewhere the trio pairs calabashes with electronic percussion, and acoustic guitar with a distorted bass sound. “Africa” appeared as a single before the nine-track album and has its own filmed performance. The trio also made a video for “Sefar.”[^method][^sound][^first][^siya][^africasingle][^film]
+The starting point for *Siya* was the musical heritage of enslaved Africans brought to Meftah’s home port of Bushehr.[^bushehr] Each musician brought compositions to rehearsal for the three to rework together. On *Siya*, their first album for Accords Croisés, the tenor saxophone shares the foreground with electric guitar. Elsewhere the trio pairs calabashes with electronic percussion, and acoustic guitar with a distorted bass sound. “Africa” appeared as a single before the nine-track album and has its own filmed performance. The trio also made a video for “Sefar.”[^method][^sound][^first][^siya][^africasingle][^film]

@@ -1,0 +1,32 @@
+id: Q2hg2hx
+type: release
+statements:
+  name:
+  - value:
+      text: Persian Tradicional Music, Solo Setar Mehdi Moshtagh | تکنوازی سه تار مهدی مشتاق
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-qeu7j60mveq
+      quote: Persian Tradicional Music, Solo Setar Mehdi Moshtagh | تکنوازی سه تار مهدی مشتاق
+      accessed: '2026-11-21'
+      locator: Music credited by musician or performance publisher
+  performer:
+  - value: Qqb9bnx
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/qEu7j60mvEQ/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-qeu7j60mveq
+      quote: https://i.ytimg.com/vi/qEu7j60mvEQ/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video frame
+    qualifiers:
+      credit:
+        text: Mehdi Moshtagh
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=qEu7j60mvEQ
+    references:
+    - *id001

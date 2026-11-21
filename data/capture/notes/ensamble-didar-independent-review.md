@@ -1,0 +1,3 @@
+# Ensamble Didar independent review
+
+**9.2/10 on frozen build 139.** Mexico’s Canal 23 supplies specific performance, date, venue, personnel and a cue list for the 2017 concert. All 15 recorded sections are now individually findable. The separate 2011–16 ensemble film lists ten pieces and their composers or traditional arrangement, including Bidad, Khazan and Shahr Ashub. The two copies of the retrospective retain one record. Ensemble and director-only issues remain separated. Both languages rendered 31 panels and 29 decoded images, with working internal fragments and desktop/mobile widths. Sources, bilingual writing, catalogue, imagery and reader questions score 1.9, 1.8, 2.8, 0.9, 1.8. Article and catalogue ready.

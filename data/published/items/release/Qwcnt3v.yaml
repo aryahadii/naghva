@@ -1,0 +1,32 @@
+id: Qwcnt3v
+type: release
+statements:
+  name:
+  - value:
+      text: Setar Improvisación بیات اصفهان
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-wna_bf2zqu8
+      quote: Setar Improvisación بیات اصفهان
+      accessed: '2026-11-21'
+      locator: Music credited by musician or performance publisher
+  performer:
+  - value: Qqb9bnx
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/Wna_bf2Zqu8/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-wna_bf2zqu8
+      quote: https://i.ytimg.com/vi/Wna_bf2Zqu8/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video frame
+    qualifiers:
+      credit:
+        text: Mehdi Moshtagh
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=Wna_bf2Zqu8
+    references:
+    - *id001

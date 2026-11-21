@@ -1,0 +1,32 @@
+id: Q7eqgms
+type: release
+statements:
+  name:
+  - value:
+      text: Detras del oleaje I آنسوی امواج
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-hleqkbxhfbw
+      quote: Detras del oleaje I آنسوی امواج
+      accessed: '2026-11-21'
+      locator: Music credited by musician or performance publisher
+  performer:
+  - value: Qqb9bnx
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/hleQkBxhfbw/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-hleqkbxhfbw
+      quote: https://i.ytimg.com/vi/hleQkBxhfbw/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video frame
+    qualifiers:
+      credit:
+        text: Mehdi Moshtagh
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=hleQkBxhfbw
+    references:
+    - *id001

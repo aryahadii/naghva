@@ -1,0 +1,32 @@
+id: Qvnqkg6
+type: release
+statements:
+  name:
+  - value:
+      text: Part 1/4 – Shahr Ashub (Dastgāh Chahārgāh) | شهر آشوب چهارگاه (قسمت اول)
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-mxnyxdvge5i
+      quote: Part 1/4 – Shahr Ashub (Dastgāh Chahārgāh) | شهر آشوب چهارگاه (قسمت اول)
+      accessed: '2026-11-21'
+      locator: Music credited by musician or performance publisher
+  performer:
+  - value: Qqb9bnx
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/mXnyxdVGE5I/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-mxnyxdvge5i
+      quote: https://i.ytimg.com/vi/mXnyxdVGE5I/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video frame
+    qualifiers:
+      credit:
+        text: Mehdi Moshtagh
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=mXnyxdVGE5I
+    references:
+    - *id001

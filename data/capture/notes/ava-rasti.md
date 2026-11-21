@@ -60,3 +60,5 @@ Rasti was the founding bassist in The Finches, as she explains directly in her i
 - 1001frames (Qc7xk73)
 - thegreatyawnofhistory (Q6k8d4m)
 - sunshineexpress (Q3sytpe)
+
+Semibreve’s original film of the performance of The River for quartet in Braga (Qpz3b8m) premiered in October 2026. The festival’s 25 October 2025 performance date, four named string players and period of the film’s first release are distinct. Negar Ebnali’s 2024 film Decision (Tasmim) credits Rasti as composer (Q5j39kd). [Concert and film](https://www.thewire.co.uk/video/premiere-ava-rasti-s-the-river) · [Film press kit](https://www.esenstudios.com/film/Presskit/DECISION_PressKit.pdf)

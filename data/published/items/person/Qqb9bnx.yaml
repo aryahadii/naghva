@@ -11,6 +11,14 @@ statements:
       quote: Mehdi Moshtagh, setar y tar
       accessed: '2026-11-21'
       locator: Concert personnel
+  - value:
+      text: مهدی مشتاق
+      language: fa
+    references:
+    - source: www.youtube.com-watch-v-hjhkyi1bzkq
+      quote: مهدی مشتاق
+      accessed: '2026-11-21'
+      locator: Persian artist billing
   member of:
   - value: Qcabd29
     references:
@@ -19,3 +27,27 @@ statements:
       role:
       - setar
       - tar
+  image:
+  - value: https://i.ytimg.com/vi/F6ZqvH1QCKI/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-f6zqvh1qcki
+      quote: https://i.ytimg.com/vi/F6ZqvH1QCKI/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video frame
+    qualifiers:
+      credit:
+        text: Mehdi Moshtagh
+        language: en
+  profile link:
+  - value: https://open.spotify.com/artist/6ZamtZc147qP1mBvbpWUls
+    references:
+    - source: open.spotify.com-artist-6zamtzc147qp1mbvbpwuls
+      quote: Mehdi Moshtagh
+      accessed: '2026-11-21'
+      locator: Musician Spotify profile
+  - value: https://www.youtube.com/@MehdiMoshtagh
+    references:
+    - source: www.youtube.com-watch-v-f6zqvh1qcki
+      quote: https://www.youtube.com/@MehdiMoshtagh
+      accessed: '2026-11-21'
+      locator: Original YouTube channel

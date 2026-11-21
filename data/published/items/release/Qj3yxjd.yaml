@@ -1,0 +1,32 @@
+id: Qj3yxjd
+type: release
+statements:
+  name:
+  - value:
+      text: چهار مضراب دیدار استاد مسعود شعاری (Mehdi Moshtagh & Josafath Larios )
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-tw80r2qtzok
+      quote: چهار مضراب دیدار استاد مسعود شعاری (Mehdi Moshtagh & Josafath Larios )
+      accessed: '2026-11-21'
+      locator: Music credited by musician or performance publisher
+  performer:
+  - value: Qqb9bnx
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/tW80R2Qtzok/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-tw80r2qtzok
+      quote: https://i.ytimg.com/vi/tW80R2Qtzok/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video frame
+    qualifiers:
+      credit:
+        text: Mona Art
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=tW80R2Qtzok
+    references:
+    - *id001

@@ -1,0 +1,77 @@
+id: Qpz3b8m
+type: release
+statements:
+  name:
+  - value:
+      text: The River (live at Semibreve)
+      language: en
+    references:
+    - source: www.thewire.co.uk-video-premiere-ava-rasti-s-the-river
+      quote: The performance brought together Rasti and a string quartet
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qks2dfk
+    references:
+    - source: www.thewire.co.uk-video-premiere-ava-rasti-s-the-river
+      quote: The performance brought together Rasti and a string quartet
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Qajt85v
+    references:
+    - source: www.thewire.co.uk-video-premiere-ava-rasti-s-the-river
+      quote: Filipa Abreu
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: violin
+  - value: Q6vbq2c
+    references:
+    - source: www.thewire.co.uk-video-premiere-ava-rasti-s-the-river
+      quote: Vânia Oliveira
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: viola
+  - value: Q5j3f3m
+    references:
+    - source: www.thewire.co.uk-video-premiere-ava-rasti-s-the-river
+      quote: Tiago Mendes
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: cello
+  - value: Qh8sjsm
+    references:
+    - source: www.thewire.co.uk-video-premiere-ava-rasti-s-the-river
+      quote: Catarina Coelho
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: cello
+  release date:
+  - value:
+      date: 2026-10
+    references:
+    - source: www.thewire.co.uk-video-premiere-ava-rasti-s-the-river
+      quote: October 2026
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://www.youtube.com/watch?v=iFx8aQGmVDY
+    references:
+    - source: www.youtube.com-watch-v-ifx8aqgmvdy
+      quote: ○ˉ Semibreve 2025 — Ava Rasti performing The River
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i.ytimg.com/vi/iFx8aQGmVDY/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-ifx8aqgmvdy
+      quote: https://i.ytimg.com/vi/iFx8aQGmVDY/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: SEMIBREVE
+        language: en

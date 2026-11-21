@@ -1,0 +1,32 @@
+id: Qx48sas
+type: release
+statements:
+  name:
+  - value:
+      text: Bayat-e Tork | بیات ترک
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-hzoebbg3ql0
+      quote: Bayat-e Tork | بیات ترک
+      accessed: '2026-11-21'
+      locator: Music credited by musician or performance publisher
+  performer:
+  - value: Qqb9bnx
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/hZoEbBg3Ql0/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-hzoebbg3ql0
+      quote: https://i.ytimg.com/vi/hZoEbBg3Ql0/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video frame
+    qualifiers:
+      credit:
+        text: Mehdi Moshtagh
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=hZoEbBg3Ql0
+    references:
+    - *id001

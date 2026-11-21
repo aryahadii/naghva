@@ -1,0 +1,32 @@
+id: Qfdrqtx
+type: release
+statements:
+  name:
+  - value:
+      text: Mehdi Moshtagh & Francisco Bringas(نیشابورک و نهفت نوا)
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-shke6aos9fk
+      quote: Mehdi Moshtagh & Francisco Bringas(نیشابورک و نهفت نوا)
+      accessed: '2026-11-21'
+      locator: Music credited by musician or performance publisher
+  performer:
+  - value: Qqb9bnx
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/shKE6aos9fk/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-shke6aos9fk
+      quote: https://i.ytimg.com/vi/shKE6aos9fk/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video frame
+    qualifiers:
+      credit:
+        text: Mona Art
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=shKE6aos9fk
+    references:
+    - *id001

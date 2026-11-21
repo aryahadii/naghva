@@ -3,6 +3,14 @@ type: act
 statements:
   name:
   - value:
+      text: Rokh
+      language: en
+    references:
+    - source: www.sogol.art-albums-bostantchi
+      quote: Rokh
+      locator: Artist project and original album credit
+      accessed: '2026-11-21'
+  - value:
       text: رُخ
       language: fa
     references:
@@ -17,14 +25,6 @@ statements:
     - source: rokhquartet.art
       quote: Rokh Quartet
       locator: Original programme, liner notes or performer credit
-      accessed: '2026-11-21'
-  - value:
-      text: Rokh
-      language: en
-    references:
-    - source: www.sogol.art-albums-bostantchi
-      quote: Rokh
-      locator: Artist project and original album credit
       accessed: '2026-11-21'
   profile link:
   - value: https://www.youtube.com/channel/UCyIy0LalpzHdxnYdLy_3mgA

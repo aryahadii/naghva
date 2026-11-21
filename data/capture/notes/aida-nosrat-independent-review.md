@@ -1,0 +1,3 @@
+# Aïda Nosrat independent review
+
+**9.3/10 on frozen build 139.** The recording label and her own discography support Andy Emler’s No Solo and the guest performance Gold Timer. The original Atine and Sowal Diabi credits distinguish band arrangements, the two solo instrument pieces and Nosrat’s composition using Rumi’s words. Her interview describes leaving Iran, and the bilingual account traces how her voice and violin were used together, with the gambist and across the Common Routes collaborations. Both languages rendered 88 panels and 171 decoded images, with working internal fragments and desktop/mobile widths. Sources, bilingual writing, catalogue, imagery and reader questions score 1.9, 1.9, 2.7, 1.0, 1.8. Article and catalogue ready.

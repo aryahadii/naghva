@@ -1,0 +1,21 @@
+id: Qng762q
+type: release
+statements:
+  name:
+  - value:
+      text: Roozgar
+      language: en
+    references:
+    - &id001
+      source: www.eluniversal.com.mx-articulo-english-2015-06-7-mehdi-moshtagh-brings-radif-mexico
+      quote: In my second CD "Roozgar" I recorded my own compositions with two setars, an oud, a tombak and a singer.
+      accessed: '2026-11-21'
+      locator: Question 11
+  performer:
+  - value: Qqb9bnx
+    references:
+    - *id001
+  release type:
+  - value: album
+    references:
+    - *id001

@@ -20,6 +20,12 @@ statements:
   - value: Qcabd29
     references:
     - *id001
+  - value: Qqb9bnx
+    references:
+    - source: www.youtube.com-watch-v-oh7nfodjpa8
+      quote: Ensamble DIDAR - Reng Mahour | شهرآشوب ماهور
+      accessed: '2026-11-21'
+      locator: Music credited by musician or performance publisher
   cover art:
   - value: https://i.ytimg.com/vi/oH7NfODjPA8/hqdefault.jpg
     references:

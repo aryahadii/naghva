@@ -1,0 +1,32 @@
+id: Qda9jy9
+type: release
+statements:
+  name:
+  - value:
+      text: Abuata I ابوعطا
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-osoiywt__sq
+      quote: Abuata I ابوعطا
+      accessed: '2026-11-21'
+      locator: Music credited by musician or performance publisher
+  performer:
+  - value: Qqb9bnx
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/oSoIYwT__sQ/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-osoiywt__sq
+      quote: https://i.ytimg.com/vi/oSoIYwT__sQ/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video frame
+    qualifiers:
+      credit:
+        text: Mehdi Moshtagh
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=oSoIYwT__sQ
+    references:
+    - *id001

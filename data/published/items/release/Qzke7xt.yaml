@@ -1,0 +1,32 @@
+id: Qzke7xt
+type: release
+statements:
+  name:
+  - value:
+      text: Burnt City | Chahārgāh concert by Mehdi Moshtagh
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-ldxjwgmhbac
+      quote: Burnt City | Chahārgāh concert by Mehdi Moshtagh
+      accessed: '2026-11-21'
+      locator: Music credited by musician or performance publisher
+  performer:
+  - value: Qqb9bnx
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/LDXjWGMhbAc/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-ldxjwgmhbac
+      quote: https://i.ytimg.com/vi/LDXjWGMhbAc/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video frame
+    qualifiers:
+      credit:
+        text: Mehdi Moshtagh
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=LDXjWGMhbAc
+    references:
+    - *id001

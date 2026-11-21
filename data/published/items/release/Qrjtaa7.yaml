@@ -1,0 +1,32 @@
+id: Qrjtaa7
+type: release
+statements:
+  name:
+  - value:
+      text: Chiconcanario | Setar, Laúd y Danza
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-m67hcgwx0x0
+      quote: Chiconcanario | Setar, Laúd y Danza
+      accessed: '2026-11-21'
+      locator: Music credited by musician or performance publisher
+  performer:
+  - value: Qqb9bnx
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/m67HCGwx0x0/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-m67hcgwx0x0
+      quote: https://i.ytimg.com/vi/m67HCGwx0x0/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video frame
+    qualifiers:
+      credit:
+        text: Mehdi Moshtagh
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=m67HCGwx0x0
+    references:
+    - *id001

@@ -1,0 +1,3 @@
+# Hura Mirshekari independent review
+
+**9.2/10 on frozen build 139.** The agency portrait has a photographer credit and the documented birthplace disagreement remains explicit. The profile connects the Sistani language, visual art and her stage use of sand and a face cast. The December 2026 Paris music library programme identifies her former Aïka membership without supplying a departure date. Separate studio, compilation and stage credits preserve the distinctions between group and solo material. Both languages rendered 36 panels and 59 decoded images, with working internal fragments and desktop/mobile widths. Sources, bilingual writing, catalogue, imagery and reader questions score 1.9, 1.9, 2.7, 0.9, 1.8. Article and catalogue ready.

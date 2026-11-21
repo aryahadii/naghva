@@ -294,3 +294,7 @@ Both scored 9.2/10 on checkpoint 47, with separate article and catalogue readine
 ### Salvaation
 
 9.1/10 at checkpoint 47. Original March 2026 interview, release announcement, band-issued LOOP video and the September edition confirm the two artists’ contributions and support the distinction from their earlier Teheran 69 project. Both localized pages had five recording panels and eleven decoded images. Article and catalogue ready.
+
+### Ensamble Didar
+
+9.2/10 at checkpoint 48. Article and catalogue ready. Mexico’s arts ministry interview distinguishes the 2015 invitation, the separately recorded May 2017 set and the two later June appearances. The broadcaster’s cue sheet and the director’s retrospective establish individual concert selections, composers and the participating musicians. Both languages showed all 31 catalogue panels and 23 decoded images with working local fragments.

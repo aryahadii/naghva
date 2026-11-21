@@ -1,0 +1,32 @@
+id: Qk8psvs
+type: release
+statements:
+  name:
+  - value:
+      text: Mehdi Moshtagh_Manuel Mejia_Casilda Madrazo
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-wl_bhdzm_wu
+      quote: Mehdi Moshtagh_Manuel Mejia_Casilda Madrazo
+      accessed: '2026-11-21'
+      locator: Music credited by musician or performance publisher
+  performer:
+  - value: Qqb9bnx
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/WL_bhdZM_wU/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-wl_bhdzm_wu
+      quote: https://i.ytimg.com/vi/WL_bhdZM_wU/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video frame
+    qualifiers:
+      credit:
+        text: Mona Art
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=WL_bhdZM_wU
+    references:
+    - *id001

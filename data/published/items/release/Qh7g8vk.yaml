@@ -1,0 +1,32 @@
+id: Qh7g8vk
+type: release
+statements:
+  name:
+  - value:
+      text: TETLALLI, the place of stones | سنگستان
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-mfijhdgtrwq
+      quote: TETLALLI, the place of stones | سنگستان
+      accessed: '2026-11-21'
+      locator: Music credited by musician or performance publisher
+  performer:
+  - value: Qqb9bnx
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/MFijhdgtRWQ/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-mfijhdgtrwq
+      quote: https://i.ytimg.com/vi/MFijhdgtRWQ/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video frame
+    qualifiers:
+      credit:
+        text: Mehdi Moshtagh
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=MFijhdgtRWQ
+    references:
+    - *id001

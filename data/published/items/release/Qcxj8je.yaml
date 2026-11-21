@@ -1,0 +1,32 @@
+id: Qcxj8je
+type: release
+statements:
+  name:
+  - value:
+      text: صبا به یار عزیز | Saba be Yar-e Aziz
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-ry6i7czgqeo
+      quote: صبا به یار عزیز | Saba be Yar-e Aziz
+      accessed: '2026-11-21'
+      locator: Music credited by musician or performance publisher
+  performer:
+  - value: Qqb9bnx
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/RY6I7CzGqeo/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-ry6i7czgqeo
+      quote: https://i.ytimg.com/vi/RY6I7CzGqeo/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video frame
+    qualifiers:
+      credit:
+        text: Mehdi Moshtagh
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=RY6I7CzGqeo
+    references:
+    - *id001

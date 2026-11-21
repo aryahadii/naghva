@@ -36,6 +36,12 @@ statements:
       quote: ‎Mohammad Laryan - Apple Music
       accessed: 2026-11-21
       locator: Artist profile
+  - value: https://open.spotify.com/artist/43bEHJsdAJkuDgGPeMcWnO
+    references:
+    - source: open.spotify.com-artist-43behjsdajkudggpemcwno
+      quote: Listen to Mohammad Laryan Songs | Spotify
+      accessed: 2026-11-21
+      locator: Native artist profile
   member of:
   - value: Qxyqq7z
     qualifiers:

@@ -32,6 +32,20 @@ statements:
         Taheri · Reza Asgarzadeh · 2024-12-18
       accessed: 2026-11-21
       locator: Artist and date on issue
+  - value: https://open.spotify.com/track/6et791WgU19qTHwxdhWPDh
+    references:
+    - source: open.spotify.com-album-4ktoxmv0vd1gunqg4dcfjf
+      quote: Leyli & Shirin · Kariz Band, Hamze Taheri, Reza Asgarzadeh, Mohammad Laryan, bahar ferdowsi, Mehrdad
+        Wishki
+      accessed: 2026-11-21
+      locator: Artist and track
+  - value: https://open.spotify.com/album/4kTOXmv0Vd1GunQG4Dcfjf
+    references:
+    - source: open.spotify.com-album-4ktoxmv0vd1gunqg4dcfjf
+      quote: Leyli & Shirin · Kariz Band, Hamze Taheri, Reza Asgarzadeh, Mohammad Laryan, bahar ferdowsi, Mehrdad
+        Wishki
+      accessed: 2026-11-21
+      locator: Artist and track
   release date:
   - value:
       date: '2024-12-18'

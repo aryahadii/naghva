@@ -1,0 +1,32 @@
+id: Qk9986v
+type: release
+statements:
+  name:
+  - value:
+      text: Persian Setar Improvisation in Dashti | بداهه نوازی در آواز دشتی
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-hin-j1potec
+      quote: Persian Setar Improvisation in Dashti | بداهه نوازی در آواز دشتی
+      accessed: '2026-11-21'
+      locator: Music credited by musician or performance publisher
+  performer:
+  - value: Qqb9bnx
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/hiN-J1PotEc/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-hin-j1potec
+      quote: https://i.ytimg.com/vi/hiN-J1PotEc/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video frame
+    qualifiers:
+      credit:
+        text: Mehdi Moshtagh
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=hiN-J1PotEc
+    references:
+    - *id001

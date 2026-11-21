@@ -30,6 +30,18 @@ statements:
       quote: Jombeisa - Single · DJ Phellix · Seventh Soul · Mohammad Laryan · Ario Vibes · 2026-04-04
       accessed: 2026-11-21
       locator: Artist and date on issue
+  - value: https://open.spotify.com/track/3WiTmkL2hioleIFRZWUJ8x
+    references:
+    - source: open.spotify.com-album-2dayu5tqdnz0dqpc5preun
+      quote: Jombeisa · Seventh Soul, DJ Phellix, Mohammad Laryan, Ario Vibes
+      accessed: 2026-11-21
+      locator: Artist and track
+  - value: https://open.spotify.com/album/2DaYU5TQDnz0dQPc5pREun
+    references:
+    - source: open.spotify.com-album-2dayu5tqdnz0dqpc5preun
+      quote: Jombeisa · Seventh Soul, DJ Phellix, Mohammad Laryan, Ario Vibes
+      accessed: 2026-11-21
+      locator: Artist and track
   release date:
   - value:
       date: '2026-04-04'

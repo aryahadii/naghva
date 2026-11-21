@@ -1,0 +1,32 @@
+id: Qfrwnct
+type: release
+statements:
+  name:
+  - value:
+      text: Persian Tradicional Music, Solo Tar Mehdi Moshtagh | تکنوازی تار در دستگاه نوا
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-ryzgzgij0tm
+      quote: Persian Tradicional Music, Solo Tar Mehdi Moshtagh | تکنوازی تار در دستگاه نوا
+      accessed: '2026-11-21'
+      locator: Music credited by musician or performance publisher
+  performer:
+  - value: Qqb9bnx
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/rYZgzgIJ0tM/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-ryzgzgij0tm
+      quote: https://i.ytimg.com/vi/rYZgzgIJ0tM/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video frame
+    qualifiers:
+      credit:
+        text: Mehdi Moshtagh
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=rYZgzgIJ0tM
+    references:
+    - *id001

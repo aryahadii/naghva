@@ -141,21 +141,22 @@ The expansion started at revision fa6c29ca with 124 bilingual artist pages. The 
 | Farshad Mohammadi | Qdqq7t4 | 9.2/10 | [Independent review](artist-page-scores.md) |
 | Barbad Project | Q4kxyfv | 9.2/10 | [Independent review](barbad-project-independent-review.md) |
 | Reza Mohsenipour | Q2pj5vj | 9.2/10 | [Independent review](reza-mohsenipour-independent-review.md) |
-| Ensamble Didar | Qcabd29 | Pending | [Catalogue](ensamble-didar.md) |
-| Meshcut | Qh6s4f5 | Pending | [Catalogue](meshcut.md) |
+| Ensamble Didar | Qcabd29 | 9.2/10 | [Independent review](ensamble-didar-independent-review.md) |
+| Meshcut | Qh6s4f5 | 9.2/10 | [Independent review](meshcut-independent-review.md) |
 | Salvaation | Q8v6j5h | 9.2/10 | [Independent review](salvaation-independent-review.md) |
-| Manushan | Qqfjk4z | Pending | [Catalogue](manushan.md) |
-| Aïda Nosrat | Qnbf3sx | Pending | [Catalogue](aida-nosrat.md) |
-| Babak Amir Mobasher | Qp74mve | Pending | [Catalogue](babak-amir-mobasher.md) |
+| Manushan | Qqfjk4z | 9.2/10 | [Independent review](manushan-independent-review.md) |
+| Aïda Nosrat | Qnbf3sx | 9.3/10 | [Independent review](aida-nosrat-independent-review.md) |
+| Babak Amir Mobasher | Qp74mve | 9.2/10 | [Independent review](babak-amir-mobasher-independent-review.md) |
 | Atine | Qbtpw7v | Pending | [Catalogue](atine.md) |
-| Hura Mirshekari | Qpav8br | Pending | [Catalogue](hura-mirshekari.md) |
-| Aïka | Qpwmdfk | Pending | [Catalogue](aika-ensemble.md) |
-| Sogol Mirzaei | Qh3tqkn | Pending | [Catalogue](sogol-mirzaei.md) |
-| Chakâm | Qd4gwas | Pending | [Catalogue](ensemble-chakam.md) |
-| Rokh Quartet | Qn5vbwr | Pending | [Catalogue](rokh-quartet.md) |
+| Hura Mirshekari | Qpav8br | 9.2/10 | [Independent review](hura-mirshekari-independent-review.md) |
+| Aïka | Qpwmdfk | 9.1/10 | [Independent review](aika-ensemble-independent-review.md) |
+| Sogol Mirzaei | Qh3tqkn | 9.3/10 | [Independent review](sogol-mirzaei-independent-review.md) |
+| Chakâm | Qd4gwas | 9.2/10 | [Independent review](ensemble-chakam-independent-review.md) |
+| Rokh Quartet | Qn5vbwr | 9.2/10 | [Independent review](rokh-quartet-independent-review.md) |
 | Ava Rasti | Qks2dfk | Pending | [Catalogue](ava-rasti.md) |
 | Hami Hamoo | Qaxddrm | Pending | [Catalogue](hami-hamoo.md) |
 | Siriya Ensemble | Qxyqq7z | Pending | [Catalogue](siriya-ensemble.md) |
 | Mohammad Laryan | Qd43wbp | Pending | [Catalogue](mohammad-laryan.md) |
+| Mehdi Moshtagh | Qqb9bnx | Pending | [Catalogue](mehdi-moshtagh.md) |
 
 The [discovery list](independent-artist-discovery.md) contains candidates with release leads. Some will prove ineligible or match an existing artist by another spelling. Only new artist pages count toward the target.

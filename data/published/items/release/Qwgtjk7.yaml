@@ -1,0 +1,50 @@
+id: Qwgtjk7
+type: release
+statements:
+  name:
+  - value:
+      text: Tarde y Lejos Música Clásica Persa
+      language: en
+    references:
+    - &id001
+      source: music.apple.com-us-album-tarde-y-lejos-m-c3-basica-cl-c3-a1sica-persa-1500954006
+      quote: Tarde y Lejos Música Clásica Persa
+      accessed: '2026-11-21'
+      locator: Original digital album
+  performer:
+  - value: Qqb9bnx
+    references:
+    - *id001
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/16/17/aa/1617aa38-cff3-f9db-2729-1ad6f4e26ea8/0.jpg/1200x630wp-60.jpg
+    references:
+    - source: music.apple.com-us-album-tarde-y-lejos-m-c3-basica-cl-c3-a1sica-persa-1500954006
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/16/17/aa/1617aa38-cff3-f9db-2729-1ad6f4e26ea8/0.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Digital artwork
+    qualifiers:
+      credit:
+        text: Apple Music, original edition artwork
+        language: en
+  release type:
+  - value: album
+    references:
+    - *id001
+  release date:
+  - value:
+      date: '2016-06-15'
+    references:
+    - source: music.apple.com-us-album-tarde-y-lejos-m-c3-basica-cl-c3-a1sica-persa-1500954006
+      quote: '2016-06-15'
+      accessed: '2026-11-21'
+      locator: Original digital issue
+  listen link:
+  - value: https://open.spotify.com/album/4psu3BZpvkx6TGeUlawG0L
+    references:
+    - source: open.spotify.com-embed-album-4psu3bzpvkx6tgeulawg0l
+      quote: Tarde y Lejos Música Clásica Persa
+      accessed: '2026-11-21'
+      locator: Original Spotify album
+  - value: https://music.apple.com/us/album/tarde-y-lejos-m%C3%BAsica-cl%C3%A1sica-persa/1500954006
+    references:
+    - *id001

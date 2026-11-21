@@ -112,12 +112,27 @@ references:
     quote: theatre adaptation of Kafka's The Trial
     accessed: '2026-11-21'
     locator: Artist interview, biography or performance credits
+  braga:
+    source: www.thewire.co.uk-video-premiere-ava-rasti-s-the-river
+    quote: first presented on 25 October 2025
+    accessed: '2026-11-21'
+    locator: Artist interview, biography or performance credits
+  quartet:
+    source: www.thewire.co.uk-video-premiere-ava-rasti-s-the-river
+    quote: The performance brought together Rasti and a string quartet
+    accessed: '2026-11-21'
+    locator: Artist interview, biography or performance credits
+  filmdate:
+    source: www.thewire.co.uk-video-premiere-ava-rasti-s-the-river
+    quote: October 2026
+    accessed: '2026-11-21'
+    locator: Artist interview, biography or performance credits
 ---
 آوا راستی پیانیست، نوازندهٔ گیتار بیس و آهنگساز ایرانی ساکن برلین است. او در تهران از بنیان‌گذاران گروه زیرزمینی راک The Finches بود و از ۲۰۱۵ تا ۲۰۲۰ در گروه بیس می‌زد. وقتی کار انفرادی را آغاز کرد، دوباره سراغ موسیقی کلاسیک رفت که در تمام سال‌های فعالیتش در گروه شنیده بود. در گروه سه‌نفرهٔ «کماکان» به همراه مهدی ساکی نیز بیس و سازهای الکترونیک نواخته است.[^piano][^berlin][^formation][^five][^solo][^kamakan]
 
 راستی برای [*Ginestra*](#ginestra-hm6) از آثار باخ، سیبلیوس، بتهوون و مالر نمونه‌برداری کرد. هنگام ساختن این قطعه‌ها جنبش «زن، زندگی، آزادی» در ایران را در ذهن داشت. نام آلبوم را از گلی گرفت که بر دامنهٔ آتشفشان دوام می‌آورد و برای او نشانهٔ بازسازی پس از ویرانی بود. این اثر و آلبوم *The Living Room* هر دو در ۲۰۲۳ منتشر شدند.[^sample][^flower][^protest][^room]
 
-در اقامت هنری فابریکا در ترویزو، راستی با دوستانش به کنار رود پیاوه می‌رفت. بعدها فهمید که در جنگ‌های ناپلئونی و جنگ جهانی اول در آنجا نبردهایی رخ داده است. فاصلهٔ میان خاطرهٔ آرامش کنار رود و آنچه دربارهٔ تاریخش فهمید، ایدهٔ آلبوم [*The River*](#the-river-yb4) را به او داد.[^river][^history][^treviso]
+در اقامت هنری فابریکا در ترویزو، راستی با دوستانش به کنار رود پیاوه می‌رفت. بعدها فهمید که در جنگ‌های ناپلئونی و جنگ جهانی اول در آنجا نبردهایی رخ داده است. فاصلهٔ میان خاطرهٔ آرامش کنار رود و آنچه دربارهٔ تاریخش فهمید، ایدهٔ آلبوم [*The River*](#the-river-yb4) را به او داد.[^river][^history][^treviso] در اکتبر ۲۰۲۵ در شهر براگا، *The River* را با همراهی یک ویولن، یک ویولا و دو ویولنسل اجرا کرد. این برنامه سفارشی از جشنوارهٔ سمی‌برو بود و فیلم اجرا یک سال بعد به نمایش درآمد.[^braga][^quartet][^filmdate]
 
 راستی برای *Double Life* و فیلم *هزار و یک فریم* ساختهٔ مهرنوش علیا هم موسیقی نوشته است. در موسیقی متن *A Butterfly Fly From Each Fingertip* مهدی ساکی قطعهٔ «Butterflies Hugging Each Other» را خواند. آلبوم هشت‌قطعه‌ای *No One Knows How Wild the Wind Blows* در اکتبر ۲۰۲۶ منتشر شد.[^double][^film][^saki][^later]
 

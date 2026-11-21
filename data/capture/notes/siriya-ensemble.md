@@ -28,3 +28,5 @@ Apple Music and Spotify editions were compared by identifier and track order. Co
 - [LIVE] Siriya Ensemble x Makan Ashgvari live improvisation performance (Qy2jj34)
 - [Recording Sketch] "The Slipped Poem" | Siriya Ensemble (Qtnf8zh)
 - صدام مال تو (Qdjtmrf)
+- گروه سیریا از نگاه دوربین مخاطبان فستیوال کوچه Siriya Band at Koochech Festival from your camera. (Qyvx5ga)
+- کنسرت گروه سیریا در دبی، سالن دیجیتال آرت دبی (تودا) -  siriya ensemble in TODA of Dubai (Q2556a2)
