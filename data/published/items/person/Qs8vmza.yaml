@@ -10,3 +10,11 @@ statements:
       quote: Ferran Rico
       locator: Artist, publisher and recording credits
       accessed: '2026-11-21'
+  - value:
+      text: ferrran
+      language: en
+    references:
+    - source: open.spotify.com-embed-album-4crf9snfmfsdzkkk6jpvu4
+      quote: ferrran
+      locator: Native performance, published credits, date or time code
+      accessed: '2026-11-21'

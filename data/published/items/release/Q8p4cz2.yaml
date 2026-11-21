@@ -1,0 +1,63 @@
+id: Q8p4cz2
+type: release
+statements:
+  name:
+  - value:
+      text: Potk
+      language: en
+    references:
+    - source: music.apple.com-us-album-potk-single-6799449112
+      quote: Potk
+      accessed: 2026-11-21
+      locator: Edition or recording title
+    - source: play.radiojavan.com-song-shervin-hajipour-potk
+      quote: Potk
+      accessed: 2026-11-21
+      locator: Native Radio Javan edition
+  performer:
+  - value: Qjeb9e9
+    references:
+    - source: music.apple.com-us-album-potk-single-6799449112
+      quote: Shervin Hajipour
+      accessed: 2026-11-21
+      locator: Digital credits
+  listen link:
+  - value: https://music.apple.com/us/song/potk/6799449113
+    references:
+    - source: music.apple.com-us-album-potk-single-6799449112
+      quote: Potk
+      accessed: 2026-11-21
+      locator: Edition or recording title
+  - value: https://open.spotify.com/track/5YJYRD7dymbfzgQBqVLt9Q
+    references:
+    - source: open.spotify.com-album-5w67qzdqf8jgpkvxsv0pm2
+      quote: Potk
+      accessed: 2026-11-21
+      locator: Published recording
+  - value: https://youtu.be/jKXJ7QM9M4c
+    references:
+    - source: youtu.be-jkxj7qm9m4c
+      quote: Shervin - Potk (New Song 2026) شروین پتک
+      accessed: 2026-11-21
+      locator: Official channel, recording title
+  - value: https://soundcloud.com/shervinine/potk
+    references:
+    - source: soundcloud.com-shervinine
+      quote: Potk
+      accessed: 2026-11-21
+      locator: Artist’s published tracks
+  release date:
+  - value:
+      date: '2026-08-08'
+    references:
+    - source: music.apple.com-us-album-potk-single-6799449112
+      quote: '2026-08-08'
+      accessed: 2026-11-21
+      locator: Digital edition date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/57/1c/bf/571cbffc-8987-9a7d-9cb6-7a9bbcd96193/8721554174505.png/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-potk-single-6799449112
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/57/1c/bf/571cbffc-8987-9a7d-9cb6-7a9bbcd96193/8721554174505.png/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Digital edition artwork

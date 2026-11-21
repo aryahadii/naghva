@@ -1,0 +1,63 @@
+id: Qj6gv69
+type: release
+statements:
+  name:
+  - value:
+      text: لیوا
+      language: fa
+    references:
+    - source: beeptunes.com-album-3409505
+      quote: لیوا
+      accessed: '2026-11-21'
+      locator: Domestic tracklist, position 1
+  - value:
+      text: Leyva
+      language: en
+    references:
+    - source: music.apple.com-us-album-barad-1749089800
+      quote: Leyva
+      accessed: '2026-11-21'
+      locator: Original album, track 1
+  performer:
+  - value: Qs2nwh3
+    references:
+    - source: music.apple.com-us-album-barad-1749089800
+      quote: Leyva
+      accessed: '2026-11-21'
+      locator: Original album, track 1
+  listen link:
+  - value: https://music.apple.com/us/song/leyva/1749089805
+    references:
+    - source: music.apple.com-us-album-barad-1749089800
+      quote: https://music.apple.com/us/song/leyva/1749089805
+      accessed: '2026-11-21'
+      locator: Exact Apple song URL
+  - value: https://open.spotify.com/track/64jg1DRQBTW5xNHC2oP8MW
+    references:
+    - source: open.spotify.com-embed-album-5qoqykgy9ot7ihvfz73emw
+      quote: spotify:track:64jg1DRQBTW5xNHC2oP8MW
+      accessed: '2026-11-21'
+      locator: Exact Spotify song ID
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/54/da/92/54da92f0-5f3c-f861-c822-2b97e6636d60/198391761713.jpg/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Hermes Records via Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-barad-1749089800
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/54/da/92/54da92f0-5f3c-f861-c822-2b97e6636d60/198391761713.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Original album cover in label feed
+  release date:
+  - value:
+      date: '2003'
+    references:
+    - source: hermes-barad-personnel-booklet
+      quote: Digitally recorded in Summer 2003, Tehran
+      accessed: '2026-11-21'
+      locator: Original recording credit
+    - source: music.apple.com-us-album-barad-1749089800
+      quote: '2003-01-01'
+      accessed: '2026-11-21'
+      locator: Apple assigns January 1 to issue year, original sleeve dates recording to summer

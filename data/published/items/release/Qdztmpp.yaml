@@ -1,0 +1,65 @@
+id: Qdztmpp
+type: release
+statements:
+  name:
+  - value:
+      text: Shabooneh
+      language: en
+    references:
+    - source: music.apple.com-us-album-shabooneh-single-1805231060
+      quote: Shabooneh
+      accessed: 2026-11-21
+      locator: Edition or recording title
+    - source: play.radiojavan.com-song-shervin-hajipour-shabooneh
+      quote: Shabooneh
+      accessed: 2026-11-21
+      locator: Native Radio Javan edition
+  - value:
+      text: شبونه
+      language: fa
+    references:
+    - source: youtu.be-gyf4fe302tk
+      quote: Shervin - Shabooneh | شروین - شبونه
+      accessed: 2026-11-21
+      locator: Official channel, recording title
+  performer:
+  - value: Qjeb9e9
+    references:
+    - source: music.apple.com-us-album-shabooneh-single-1805231060
+      quote: Shervin Hajipour
+      accessed: 2026-11-21
+      locator: Digital credits
+  listen link:
+  - value: https://music.apple.com/us/song/shabooneh/1805231061
+    references:
+    - source: music.apple.com-us-album-shabooneh-single-1805231060
+      quote: Shabooneh
+      accessed: 2026-11-21
+      locator: Edition or recording title
+  - value: https://open.spotify.com/track/0uFLDonjnI4A26cyjdSusr
+    references:
+    - source: open.spotify.com-album-6sarelpidohoitswukkgfr
+      quote: Shabooneh
+      accessed: 2026-11-21
+      locator: Published recording
+  - value: https://youtu.be/GYf4fe302tk
+    references:
+    - source: youtu.be-gyf4fe302tk
+      quote: Shervin - Shabooneh | شروین - شبونه
+      accessed: 2026-11-21
+      locator: Official channel, recording title
+  release date:
+  - value:
+      date: '2024-08-16'
+    references:
+    - source: music.apple.com-us-album-shabooneh-single-1805231060
+      quote: '2024-08-16'
+      accessed: 2026-11-21
+      locator: Digital edition date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6f/c8/94/6fc894c1-54df-c8af-0cb8-60e8c5186dc6/4056813822342.png/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-shabooneh-single-1805231060
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6f/c8/94/6fc894c1-54df-c8af-0cb8-60e8c5186dc6/4056813822342.png/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Digital edition artwork

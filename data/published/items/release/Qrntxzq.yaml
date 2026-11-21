@@ -1,0 +1,60 @@
+id: Qrntxzq
+type: release
+statements:
+  name:
+  - value:
+      text: Sene De Qalmaz (Lonely I am)
+      language: en
+    references:
+    - source: music.apple.com-us-song-sene-de-qalmaz-lonely-i-am-1441636239
+      quote: ‎Sene De Qalmaz (Lonely I am) - Song with Lyrics by Ooldouz Pouri - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qkmhqgm
+    references:
+    - source: music.apple.com-us-song-sene-de-qalmaz-lonely-i-am-1441636239
+      quote: ‎Sene De Qalmaz (Lonely I am) - Song with Lyrics by Ooldouz Pouri - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+    qualifiers:
+      role: vocals
+  listen link:
+  - value: https://music.apple.com/us/song/sene-de-qalmaz-lonely-i-am/1441636239
+    references:
+    - source: music.apple.com-us-song-sene-de-qalmaz-lonely-i-am-1441636239
+      quote: ‎Sene De Qalmaz (Lonely I am) - Song with Lyrics by Ooldouz Pouri - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/4xmEZz5X5TinEmCT2tC0Jr
+    references:
+    - source: open.spotify.com-track-4xmezz5x5tinemct2tc0jr
+      quote: Sene de qalmaz (Lonely I am) - song and lyrics by Ooldouz Pouri | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2018-11-23'
+    references:
+    - source: www.kkv.no-en-music-waiting-for-the-dawn-3
+      quote: 23.11.2018
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  published by:
+  - value: Qtcvdjj
+    references:
+    - source: www.kkv.no-en-music-waiting-for-the-dawn-3
+      quote: KKV label
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/97/f7/17/97f717d4-7924-50ff-19f7-e1b7953019a9/cover.jpg/600x600bb.webp
+    references:
+    - source: music.apple.com-us-song-sene-de-qalmaz-lonely-i-am-1441636239
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/97/f7/17/97f717d4-7924-50ff-19f7-e1b7953019a9/cover.jpg/600x600bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Kirkelig Kulturverksted, via Apple Music
+        language: en

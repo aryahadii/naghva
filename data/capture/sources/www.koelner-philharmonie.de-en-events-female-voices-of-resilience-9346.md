@@ -15,3 +15,7 @@ Ensemble history, festival programme or institutional recording, read 2026-11-21
 Ensemble history, festival programme or institutional recording, read 2026-11-21.
 
 > Inner Unity Ensemble Gürzenich-Orchester Köln Juya Shin conductor Yalda Yazdani artistic direction
+
+Artist interview, original issue, research or performance programme, read 2026-11-21.
+
+> Mahya Hamedi vocals

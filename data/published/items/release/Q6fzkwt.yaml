@@ -1,0 +1,41 @@
+id: Q6fzkwt
+type: release
+statements:
+  name:
+  - value:
+      text: Zakhm
+      language: en
+    references:
+    - source: music.apple.com-us-album-zakhm-1805233664
+      quote: Zakhm
+      accessed: 2026-11-21
+      locator: Apple digital catalogue, track title
+  performer:
+  - value: Qjeb9e9
+    references:
+    - source: music.apple.com-us-album-zakhm-1805233664
+      quote: Zakhm
+      accessed: 2026-11-21
+      locator: Apple digital catalogue, track title
+  listen link:
+  - value: https://music.apple.com/us/album/zakhm/1805233664?i=1805233665
+    references:
+    - source: music.apple.com-us-album-zakhm-1805233664
+      quote: Zakhm
+      accessed: 2026-11-21
+      locator: Apple digital catalogue, track title
+  release date:
+  - value:
+      date: '2021-11-03'
+    references:
+    - source: music.apple.com-us-album-zakhm-1805233664
+      quote: '2021-11-03'
+      accessed: 2026-11-21
+      locator: Digital issue date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/89/cf/91/89cf9145-b418-c531-577a-a4fc136756b2/4056813502534.png/100x100bb.jpg
+    references:
+    - source: music.apple.com-us-album-zakhm-1805233664
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/89/cf/91/89cf9145-b418-c531-577a-a4fc136756b2/4056813502534.png/100x100bb.jpg
+      accessed: 2026-11-21
+      locator: Digital sleeve

@@ -1,0 +1,59 @@
+id: Q7j3m4b
+type: release
+statements:
+  name:
+  - value:
+      text: Farar Kon
+      language: en
+    references:
+    - source: open.spotify.com-album-4yhlmta0elkksalgglmcds
+      quote: Farar Kon
+      accessed: 2026-11-21
+      locator: Published recording
+  listen link:
+  - value: https://open.spotify.com/track/6ntiMNJdScFmijcmLK4rMk
+    references:
+    - source: open.spotify.com-album-4yhlmta0elkksalgglmcds
+      quote: Farar Kon
+      accessed: 2026-11-21
+      locator: Published recording
+  - value: https://music.apple.com/us/album/farar-kon-feat-shervin-hajipour/1818067602?i=1818067608
+    references:
+    - source: music.apple.com-us-album-farar-kon-feat-shervin-hajipour-1818067602
+      quote: Farar Kon (feat. Shervin Hajipour)
+      accessed: 2026-11-21
+      locator: Apple digital catalogue, track title
+  performer:
+  - value: Qa8fbc3
+    references:
+    - source: open.spotify.com-album-4yhlmta0elkksalgglmcds
+      quote: Nik Reich, Jaro Messerschmidt, Shervin Hajipour
+      accessed: 2026-11-21
+      locator: Native Spotify track billing
+  - value: Qjtxgh3
+    references:
+    - source: open.spotify.com-album-4yhlmta0elkksalgglmcds
+      quote: Nik Reich, Jaro Messerschmidt, Shervin Hajipour
+      accessed: 2026-11-21
+      locator: Native Spotify track billing
+  - value: Qjeb9e9
+    references:
+    - source: open.spotify.com-album-4yhlmta0elkksalgglmcds
+      quote: Nik Reich, Jaro Messerschmidt, Shervin Hajipour
+      accessed: 2026-11-21
+      locator: Native Spotify track billing
+  release date:
+  - value:
+      date: '2025-06-01'
+    references:
+    - source: music.apple.com-us-album-farar-kon-feat-shervin-hajipour-1818067602
+      quote: '2025-06-01'
+      accessed: 2026-11-21
+      locator: Digital issue date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4d/d1/62/4dd16228-c72a-d678-8005-5c75dfd503cd/artwork.jpg/100x100bb.jpg
+    references:
+    - source: music.apple.com-us-album-farar-kon-feat-shervin-hajipour-1818067602
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4d/d1/62/4dd16228-c72a-d678-8005-5c75dfd503cd/artwork.jpg/100x100bb.jpg
+      accessed: 2026-11-21
+      locator: Digital sleeve

@@ -47,3 +47,7 @@ Ensemble history, festival programme or institutional recording, read 2026-11-21
 Ensemble history, festival programme or institutional recording, read 2026-11-21.
 
 > In March 2025, the ensemble presented Female Voices United at Duisburg Philharmonie
+
+Musician, broadcaster, artist or recording credits, read 2026-11-21.
+
+> Mahya Hamedi Composer | Vocalist | Pianist

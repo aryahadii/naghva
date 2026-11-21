@@ -99,6 +99,8 @@ properties:
       - bcbits.com
       - ytimg.com
       - yt3.googleusercontent.com
+      # Archived images still require original artist, label or organizer provenance.
+      - web.archive.org
       - upload.wikimedia.org
       - static.wixstatic.com
       - www.farhadmehrad.org

@@ -13,10 +13,38 @@ statements:
   performer:
   - value: Q3ytwxm
     references:
-    - source: music.apple.com-us-album-deng-single-1494549070
-      quote: Mahya Hamedi
-      locator: Artist, publisher and recording credits
+    - source: www.zeitgenoessische-oper.de-produktionen-femalevoiceofiran-film
+      quote: Song composed and arranged by Mahya Hamedi – Voice, Piano
+      locator: Musician, broadcaster, artist or recording credits
       accessed: '2026-11-21'
+    qualifiers:
+      role:
+      - vocals
+      - piano
+  - value: Qfs95yd
+    references:
+    - source: www.zeitgenoessische-oper.de-produktionen-femalevoiceofiran-film
+      quote: Darius Azar – Double Bass
+      locator: Musician, broadcaster, artist or recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: double bass
+  - value: Qgay8m3
+    references:
+    - source: www.zeitgenoessische-oper.de-produktionen-femalevoiceofiran-film
+      quote: Bahar Badiei Tabar – Oud
+      locator: Musician, broadcaster, artist or recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: oud
+  - value: Qym8dd4
+    references:
+    - source: www.zeitgenoessische-oper.de-produktionen-femalevoiceofiran-film
+      quote: Ideen Shafaee – Percussions
+      locator: Musician, broadcaster, artist or recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: percussion
   release type:
   - value: single
     references:
@@ -80,3 +108,26 @@ statements:
       quote: Deng
       locator: Artist, publisher and recording credits
       accessed: '2026-11-21'
+  - value: https://www.youtube.com/watch?v=4F4bY5YXQto
+    references:
+    - source: www.youtube.com-watchv-4f4by5yxqto
+      quote: دِنگ  - Deng
+      locator: Native performance, published credits, date or time code
+      accessed: '2026-11-21'
+  contributor:
+  - value: Q3ytwxm
+    references:
+    - source: www.zeitgenoessische-oper.de-produktionen-femalevoiceofiran-film
+      quote: Song composed and arranged by Mahya Hamedi – Voice, Piano
+      locator: Musician, broadcaster, artist or recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: composer
+  - value: Qrjejam
+    references:
+    - source: www.zeitgenoessische-oper.de-produktionen-femalevoiceofiran-film
+      quote: Lyrics by Amir Talebi
+      locator: Musician, broadcaster, artist or recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: lyricist

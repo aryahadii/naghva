@@ -74,6 +74,10 @@ The expansion started at revision fa6c29ca with 124 bilingual artist pages. The 
 | The Muckers | Qvfz6ey | 9.2/10 | [The Muckers](the-muckers-independent-review.md) |
 | Neda Mohamadpour | Qbb46yz | 9.2/10 | [Neda Mohamadpour](artist-page-scores.md) |
 | Inner Unity Ensemble | Qnhpew3 | 9.2/10 | [Inner Unity Ensemble](inner-unity-ensemble-review.md) |
-| Bahar Atish | Qr4berk | Pending | [Catalogue](bahar-atish.md) |
+| Bahar Atish | Qr4berk | 9.2/10 | [Bahar Atish](bahar-atish-independent-review.md) |
+| Barad | Qs2nwh3 | 9.2/10 | [Barad](artist-page-scores.md) |
+| Ooldouz Pouri | Qkmhqgm | 8.8/10 | [Ooldouz Pouri](ooldouz-pouri-review.md) |
+| Mahya Hamedi | Q3ytwxm | Pending | [Catalogue](mahya-hamedi.md) |
+| Shervin Hajipour | Qjeb9e9 | Pending | [Catalogue](shervin-hajipour.md) |
 
 The [discovery list](independent-artist-discovery.md) contains candidates with release leads. Some will prove ineligible or match an existing artist by another spelling. Only new artist pages count toward the target.

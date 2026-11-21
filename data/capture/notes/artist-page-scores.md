@@ -200,3 +200,7 @@ Independent review on 2026-11-21. **9.2/10** · Sources 1.9, prose 1.9, recordin
 ### Neda Mohamadpour
 
 Independent review on 2026-11-21. **9.2/10** · Sources 1.9, prose 1.9, recordings 2.6, images 1.0, gaps and reader experience 1.8. Both 27-panel pages (English 135adfe7c5ab and Persian fc48cf663cf3) contain the Tranzac session with Caju Collective and distinguish its advertised vinyl edition from a confirmed release. The artist’s native upload of “Bahare Delneshin” is catalogued, and the Local Dish seven-inch with Cheshmak has two separately identified sides. The credited album, personal archives, collaborator’s singles and broadcaster’s hour were checked. All 53 main-content images decoded per locale and local fragments resolved. Article and catalogue ready.
+
+### Barad
+
+Independent review on 2026-11-21. **9.2/10** · Sources 1.9, prose 1.9, recordings 2.6, images 1.0, gaps and reader experience 1.8. The English and Persian pages (bc001cd07b58 and 584fd801623b) both contain 10 release panels and show the four musicians in the photograph recovered from the label’s Farabi Hall announcement. All 21 page images decoded and every footnote resolved. The musicians’ published recollections explain the band name and the work of adapting Mahmoodi’s regional melodies. Original sleeve information verifies eight recordings and credits that current platform metadata omits. The member discography and the international compilation establish the recording identities. No attributable Farabi Hall film could be secured. Catalogue and article ready.

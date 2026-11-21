@@ -27,3 +27,27 @@ Music or festival film credits, read 2026-11-21.
 Music or festival film credits, read 2026-11-21.
 
 > (2020)
+
+Musician, broadcaster, artist or recording credits, read 2026-11-21.
+
+> Song composed and arranged by Mahya Hamedi – Voice, Piano
+
+Musician, broadcaster, artist or recording credits, read 2026-11-21.
+
+> Darius Azar – Double Bass
+
+Musician, broadcaster, artist or recording credits, read 2026-11-21.
+
+> Bahar Badiei Tabar – Oud
+
+Musician, broadcaster, artist or recording credits, read 2026-11-21.
+
+> Ideen Shafaee – Percussions
+
+Musician, broadcaster, artist or recording credits, read 2026-11-21.
+
+> Lyrics by Amir Talebi
+
+Artist interview, original issue, research or performance programme, read 2026-11-21.
+
+> Song composed and arranged by Mahya Hamedi – Voice, Piano, Lyrics by Amir Talebi

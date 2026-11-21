@@ -23,3 +23,7 @@ Artist, publisher and recording credits, read 2026-11-21.
 Artist, publisher and recording credits, read 2026-11-21.
 
 > 2019-03-23
+
+Artist interview, original issue, research or performance programme, read 2026-11-21.
+
+> March 23, 2019
