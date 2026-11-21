@@ -65,7 +65,7 @@ function hollowHalo(colour: string) {
 }
 
 /** The camera lives in map coordinates, so resizing never changes which region is in view. */
-function makeSky(canvas: HTMLCanvasElement, stars: SkyStar[], lang: Lang, choose: (id: string) => void) {
+function makeSky(canvas: HTMLCanvasElement, field: HTMLCanvasElement, stars: SkyStar[], lang: Lang, choose: (id: string) => void) {
   const ctx = canvas.getContext('2d');
   if (!ctx) return;
   const lookup = new Map(stars.map((s, i) => [s.id, i]));
@@ -180,6 +180,9 @@ function makeSky(canvas: HTMLCanvasElement, stars: SkyStar[], lang: Lang, choose
       motion = null;
       zoom(target / scale, anchor);
       if (home) centre = { x: 0.5, y: 0.5 };
+    } else if (motion?.kind === 'zoom') {
+      // New wheel ticks retarget the running animation without resetting its frame clock.
+      motion = { kind: 'zoom', target, anchor, home };
     } else begin({ kind: 'zoom', target, anchor, home });
   }
   function advance(now: number) {
@@ -258,13 +261,13 @@ function makeSky(canvas: HTMLCanvasElement, stars: SkyStar[], lang: Lang, choose
   const canvasFont = getComputedStyle(canvas).fontFamily;
   const standardFont = '12px ' + canvasFont;
   const activeFont = '600 14px ' + canvasFont;
-  function draw(now: number) {
-    frame = 0;
-    advance(now);
-    if (!ctx || !w || !h) return;
-    ctx.setTransform(ratio, 0, 0, ratio, 0, 0);
-    ctx.clearRect(0, 0, w, h);
-    points = stars.map(project);
+  // Keep an overscanned raster of the field. While the camera stays inside it,
+  // pan/zoom costs one image composite; label placement and hit testing stay live.
+  const fieldContext = field.getContext('2d')!;
+  const overscan = 80;
+  let cache: { centre: Point; scale: number; selected: number; hovered: number } | null = null;
+
+  function paintField(ctx: CanvasRenderingContext2D, active: Set<number>) {
     if (scale < 2.5) {
       ctx.save();
       ctx.globalAlpha = Math.min(1, (2.5 - scale) / 1.5) * (selected < 0 ? .85 : .45);
@@ -280,8 +283,6 @@ function makeSky(canvas: HTMLCanvasElement, stars: SkyStar[], lang: Lang, choose
       }
       ctx.restore();
     }
-    labels = [];
-    const active = selected < 0 ? new Set<number>() : new Set(neighbours[selected]);
     function edge(i: number, j: number) {
       if (!ctx) return;
       ctx.moveTo(points[i].x, points[i].y);
@@ -297,7 +298,7 @@ function makeSky(canvas: HTMLCanvasElement, stars: SkyStar[], lang: Lang, choose
       const reach = Math.min(w, h) * 0.43;
       for (let i = 0; i < points.length; i++) {
         const { x, y } = points[i];
-        if (x < -reach || x > w + reach || y < -reach || y > h + reach) continue;
+        if (x < -reach - overscan || x > w + reach + overscan || y < -reach - overscan || y > h + reach + overscan) continue;
         for (const j of neighbours[i]) if (j > i && distance(points[i], points[j]) < reach) edge(i, j);
       }
     }
@@ -317,7 +318,7 @@ function makeSky(canvas: HTMLCanvasElement, stars: SkyStar[], lang: Lang, choose
     function mark(i: number) {
       if (!ctx) return;
       const { x, y } = points[i];
-      if (x < -12 || x > w + 12 || y < -12 || y > h + 12) return;
+      if (x < -30 - overscan || x > w + 30 + overscan || y < -30 - overscan || y > h + 30 + overscan) return;
       const artist = stars[i].kind === 'artist';
       const highlighted = i === selected || i === hovered;
       const palette = artist ? GOLD : JADE;
@@ -352,6 +353,33 @@ function makeSky(canvas: HTMLCanvasElement, stars: SkyStar[], lang: Lang, choose
     for (const [i, star] of stars.entries()) if (star.kind === 'artist') mark(i);
     if (hovered >= 0) mark(hovered);
     if (selected >= 0) mark(selected);
+  }
+
+  function draw(now: number) {
+    frame = 0;
+    advance(now);
+    if (!ctx || !w || !h) return;
+    ctx.setTransform(ratio, 0, 0, ratio, 0, 0);
+    ctx.clearRect(0, 0, w, h);
+    points = stars.map(project);
+    labels = [];
+    const active = new Set(selected >= 0 ? neighbours[selected] : []);
+    let magnification = cache ? scale / cache.scale : 1;
+    const origin = cache ? project(cache.centre) : { x: w / 2, y: h / 2 };
+    let left = origin.x - (w / 2 + overscan) * magnification;
+    let top = origin.y - (h / 2 + overscan) * magnification;
+    const fieldWidth = field.width / ratio, fieldHeight = field.height / ratio;
+    if (!cache || hovered !== cache.hovered || selected !== cache.selected ||
+        magnification < .88 || magnification > 1.14 || (scale === 1 && cache.scale !== 1) ||
+        left > 0 || top > 0 || left + fieldWidth * magnification < w || top + fieldHeight * magnification < h) {
+      fieldContext.setTransform(ratio, 0, 0, ratio, overscan * ratio, overscan * ratio);
+      fieldContext.clearRect(-overscan, -overscan, fieldWidth, fieldHeight);
+      paintField(fieldContext, active);
+      cache = { centre: { ...centre }, scale, selected, hovered };
+      left = top = -overscan;
+      magnification = 1;
+    }
+    field.style.transform = `translate3d(${left}px, ${top}px, 0) scale(${magnification})`;
 
     ctx.direction = lang === 'fa' ? 'rtl' : 'ltr';
     ctx.textAlign = 'center';
@@ -409,6 +437,11 @@ function makeSky(canvas: HTMLCanvasElement, stars: SkyStar[], lang: Lang, choose
     ratio = Math.min(devicePixelRatio || 1, 2);
     canvas.width = Math.round(w * ratio);
     canvas.height = Math.round(h * ratio);
+    field.width = Math.ceil((w + overscan * 2) * ratio);
+    field.height = Math.ceil((h + overscan * 2) * ratio);
+    field.style.width = `${field.width / ratio}px`;
+    field.style.height = `${field.height / ratio}px`;
+    cache = null;
     schedule();
   }
   const local = (e: MouseEvent) => {
@@ -456,8 +489,8 @@ function makeSky(canvas: HTMLCanvasElement, stars: SkyStar[], lang: Lang, choose
       return;
     }
     const other = [...pointers.entries()].find(([id]) => e.pointerId !== id)?.[1];
-    pointers.set(e.pointerId, p);
     if (!moved && distance(down, p) < 4) return;
+    pointers.set(e.pointerId, p);
     moved = true;
     hovered = -1;
     canvas.style.cursor = 'grabbing';
@@ -513,17 +546,27 @@ function makeSky(canvas: HTMLCanvasElement, stars: SkyStar[], lang: Lang, choose
       gestureScale = e.scale;
     }
   }
+  let lastWheelTime = -Infinity;
+  let steppedWheel = false;
   function wheel(e: WheelEvent) {
     if (gestureScale) { e.preventDefault(); return; }
+    hovered = -1;
     const at = local(e);
-    if (e.ctrlKey || e.metaKey) {
+    // Chrome can send mouse detents as 100/120-pixel steps. Classify the
+    // burst once so a fast trackpad swipe never changes mode halfway through.
+    if (e.timeStamp - lastWheelTime > 160) {
+      const magnitude = Math.abs(e.deltaY);
+      steppedWheel = !e.deltaX && (magnitude === 100 || magnitude === 120);
+    }
+    lastWheelTime = e.timeStamp;
+    if (e.deltaMode !== WheelEvent.DOM_DELTA_PIXEL || steppedWheel) {
+      e.preventDefault();
+      easeZoom(Math.exp(-Math.sign(e.deltaY) * .18), at);
+    } else if (e.ctrlKey || e.metaKey) {
       e.preventDefault();
       motion = null;
       zoom(Math.exp(-clamp(e.deltaY, -120, 120) * .01), at);
-    } else if (e.deltaMode !== WheelEvent.DOM_DELTA_PIXEL) {
-      e.preventDefault();
-      easeZoom(Math.exp(-Math.sign(e.deltaY) * .18), at);
-    } else if (scale > 1 || Math.abs(e.deltaX) > Math.abs(e.deltaY)) {
+    } else {
       // The OS already sends the inertial tail for two-finger trackpad scrolling.
       e.preventDefault();
       motion = null;
@@ -598,12 +641,13 @@ function makeSky(canvas: HTMLCanvasElement, stars: SkyStar[], lang: Lang, choose
 
 export default function SkyCanvas({ stars, selected, onSelect, lang, words, resetKey }: Props) {
   const canvas = useRef<HTMLCanvasElement>(null);
+  const field = useRef<HTMLCanvasElement>(null);
   const sky = useRef<ReturnType<typeof makeSky>>(undefined);
   const choose = useRef(onSelect);
   choose.current = onSelect;
   useEffect(() => {
-    if (!canvas.current) return;
-    sky.current = makeSky(canvas.current, stars, lang, (id) => choose.current(id));
+    if (!canvas.current || !field.current) return;
+    sky.current = makeSky(canvas.current, field.current, stars, lang, (id) => choose.current(id));
     return () => {
       sky.current?.dispose();
       sky.current = undefined;
@@ -618,6 +662,7 @@ export default function SkyCanvas({ stars, selected, onSelect, lang, words, rese
 
   return (
     <div class="sky-viewport">
+      <canvas ref={field} class="sky-field" aria-hidden="true" />
       <canvas
         ref={canvas}
         class="sky-canvas"

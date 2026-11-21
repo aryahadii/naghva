@@ -17,6 +17,7 @@ html[lang=fa] .atlas-intro h1 { font-weight: 700; line-height: 1.4; letter-spaci
 .atlas-find svg { width:17px; fill:none; stroke:currentColor; stroke-width:1.6 }
 .global-sky { position:relative; margin-inline:calc(0px - var(--gutter)) }
 .sky-viewport { position:relative; height:clamp(410px,59vh,760px); overflow:hidden }
+.sky-field { position:absolute; top:0; left:0; transform-origin:0 0; pointer-events:none }
 .sky-canvas { display:block; position:absolute; inset:0; width:100%; height:100%; touch-action:none; cursor:grab }
 .sky-canvas:active { cursor:grabbing }
 .sky-canvas:focus-visible { outline:2px solid var(--gold); outline-offset:-3px }

@@ -7,16 +7,18 @@ test('the whole sky is drawn at once, stays mounted while exploring, and fits ag
   const chart = page.locator('canvas.sky-canvas');
   const stars: SkyStar[] = JSON.parse((await page.locator('#sky-catalogue').textContent())!);
   await expect(chart).toHaveAttribute('data-star-count', String(stars.length));
-  // Sample the canvas itself (its painted garden background is a separate layer).
+  // Sample the painted field through its compositor transform.
   // Every data coordinate, including isolated artists and recordings, must have ink at full extent.
   const visible = () => chart.evaluate((canvas: HTMLCanvasElement, data) => {
     const box = canvas.getBoundingClientRect();
     const pad = Math.min(38, Math.min(box.width, box.height) * .085);
-    const pixels = canvas.getContext('2d')!.getImageData(0, 0, canvas.width, canvas.height).data;
+    const field = canvas.parentElement!.querySelector<HTMLCanvasElement>('.sky-field')!;
+    const bounds = field.getBoundingClientRect();
+    const pixels = field.getContext('2d')!.getImageData(0, 0, field.width, field.height).data;
     return data.filter(({x, y}) => {
-      const col = Math.floor((pad + x * (box.width - 2 * pad)) * canvas.width / box.width);
-      const row = Math.floor((pad + y * (box.height - 2 * pad)) * canvas.height / box.height);
-      return pixels[(row * canvas.width + col) * 4 + 3] > 0;
+      const col = Math.floor((box.left - bounds.left + pad + x * (box.width - 2 * pad)) * field.width / bounds.width);
+      const row = Math.floor((box.top - bounds.top + pad + y * (box.height - 2 * pad)) * field.height / bounds.height);
+      return pixels[(row * field.width + col) * 4 + 3] > 0;
     }).length;
   }, stars);
   await expect.poll(visible).toBe(stars.length);
@@ -91,4 +93,20 @@ test('a released drag coasts, can be caught, and respects reduced motion', async
   const resting = await image();
   await page.clock.runFor(160);
   expect(await image() === resting).toBe(true);
+});
+
+test('a desktop trackpad pan stays on the sky as its direction changes at full extent', async ({ page }) => {
+  await page.goto('/en/star-map/');
+  const chart = page.locator('canvas.sky-canvas');
+  await chart.scrollIntoViewIfNeeded();
+  await chart.hover({position:{x:160,y:150}});
+  const pageTop = await page.evaluate(() => scrollY);
+  const prior = await chart.evaluate((el: HTMLCanvasElement) => el.toDataURL());
+  // Start mostly vertical, turn horizontally, then finish with a vertical inertial tail.
+  for (const [dx, dy] of [[1, 9], [3, 8], [6, 4], [8, 2], [1, 5], [0, 3]]) {
+    await page.mouse.wheel(dx, dy);
+  }
+  await page.evaluate(() => new Promise<void>(resolve => requestAnimationFrame(() => requestAnimationFrame(() => resolve()))));
+  expect(await page.evaluate(() => scrollY)).toBe(pageTop);
+  expect(await chart.evaluate((el: HTMLCanvasElement, initial) => el.toDataURL() !== initial, prior)).toBe(true);
 });
