@@ -1,0 +1,45 @@
+id: Q5fc9rc
+type: release
+statements:
+  name:
+  - value:
+      text: fallinallos
+      language: en
+    references:
+    - source: soundcloud.com-hadi-bastani-fallinallos
+      quote: fallinallos
+      accessed: '2026-11-21'
+      locator: Recording heading
+  performer:
+  - value: Qyt2364
+    references:
+    - source: soundcloud.com-hadi-bastani-fallinallos
+      quote: Stream fallinallos by Hadi Bastani | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://soundcloud.com/hadi-bastani/fallinallos
+    references:
+    - source: soundcloud.com-hadi-bastani-fallinallos
+      quote: Stream fallinallos by Hadi Bastani | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-000230045826-6vdxnd-large.jpg
+    references:
+    - source: soundcloud.com-hadi-bastani-fallinallos
+      quote: https://i1.sndcdn.com/artworks-000230045826-6vdxnd-large.jpg
+      accessed: '2026-11-21'
+      locator: SoundCloud artwork metadata
+    qualifiers:
+      credit:
+        text: Hadi Bastani on SoundCloud
+        language: en
+  release date:
+  - value:
+      date: '2017-06-22'
+    references:
+    - source: soundcloud.com-hadi-bastani-fallinallos
+      quote: '2017-06-22T00:00:00Z'
+      accessed: '2026-11-21'
+      locator: SoundCloud release or upload timestamp

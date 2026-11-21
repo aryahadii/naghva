@@ -9,3 +9,7 @@ status: processed
 > founded in 2005 by the Iranian-born sisters Melody and Safoura Safavi
 
 Introduction, read 2026-11-21.
+
+> Songs are written in Farsi by Melody, who lives in New York.
+
+Introduction and interview, read 2026-11-21.

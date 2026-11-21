@@ -86,6 +86,31 @@ references:
     quote: Skansen · Hos Liljonkvast
     accessed: 2026-11-21
     locator: EP track listing
+  las:
+    source: piadelnorte.com-works-2-lasnortenas.html
+    quote: Safoura Safavi - vocals, sound design, cajon, composition
+    accessed: 2026-11-21
+    locator: Creative team
+  ray:
+    source: piadelnorte.com-works-2-lasnortenas.html
+    quote: Raya del sol - the Ray of Sun
+    accessed: 2026-11-21
+    locator: Production title
+  team:
+    source: piadelnorte.com-works-2-lasnortenas.html
+    quote: Bettina Flater - guitar, vocals, composition
+    accessed: 2026-11-21
+    locator: Creative team
+  dance:
+    source: piadelnorte.com-works-2-lasnortenas.html
+    quote: Pia "del Norte" Pohjakallio - dance, palmas, choreography
+    accessed: 2026-11-21
+    locator: Creative team
+  hour:
+    source: piadelnorte.com-works-2-lasnortenas.html
+    quote: 60 min
+    accessed: 2026-11-21
+    locator: Duration
 ---
 
 Safoura Safavi was born in Tehran. In 1987 her family fled Iran and settled in Krokom in northern Sweden.[^city][^born] In her performing arts degree project, she recalled how she wrote “Many Questions,” her first song. She would begin with the words, then play her twelve-string guitar until she found chords and a melody that fitted them.[^old][^strings] When she started writing with her older sister Melody, the words and music changed hands. Safoura brought the tunes and Melody wrote lyrics for them. Their band became [Abjeez](/en/abjeez-ny2/).[^group]
@@ -97,3 +122,5 @@ Safavi went to Seville to study flamenco at the Fundación Cristina Heeren. She 
 For Dockteatern Tittut’s adaptation of Astrid Lindgren’s *I Skymningslandet*, Safavi composed music to be heard alongside puppetry and mime. Four pieces from the production were released in 2025, including “Skansen” and “Hos Liljonkvast.”[^puppet][^commission][^ep][^cuts]
 
 Safavi also sings and plays bass in SASA, the trio she founded in 2023 with guitarist and keyboard player David Douhan and drummer Marcus Bouquelon. The three had first played together in POLIZEI, a band devoted to songs by The Police.[^sasa][^trio][^cover]
+
+With Las Norteñas she brings her flamenco singing to the stage alongside Bettina Flater’s guitar and Pia del Norte’s dancing. For their hour-long *Raya del sol* she also composed music, designed the sound and played cajón.[^ray][^las][^team][^dance][^hour]

@@ -1,5 +1,6 @@
 ---
 url: https://www.shadi-fathi.com/galerie-videos/
+archive: https://web.archive.org/web/20260711142040/https://www.shadi-fathi.com/galerie-videos/
 title: Galerie vidéos – Shadi Fathi
 status: processed
 language: fr

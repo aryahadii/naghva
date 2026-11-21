@@ -1,5 +1,6 @@
 ---
 url: https://www.shadi-fathi.com/azadi/
+archive: https://web.archive.org/web/20260413195237/https://www.shadi-fathi.com/azadi/
 title: Azadi – Shadi Fathi
 status: processed
 language: fr

@@ -1,0 +1,45 @@
+id: Q7esced
+type: release
+statements:
+  name:
+  - value:
+      text: 777 to
+      language: en
+    references:
+    - source: soundcloud.com-hadi-bastani-777-to-nowhere
+      quote: 777 to
+      accessed: '2026-11-21'
+      locator: Recording heading
+  performer:
+  - value: Qyt2364
+    references:
+    - source: soundcloud.com-hadi-bastani-777-to-nowhere
+      quote: Stream 777 to by Hadi Bastani | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://soundcloud.com/hadi-bastani/777-to-nowhere
+    references:
+    - source: soundcloud.com-hadi-bastani-777-to-nowhere
+      quote: Stream 777 to by Hadi Bastani | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-000075040611-nu2g3g-large.jpg
+    references:
+    - source: soundcloud.com-hadi-bastani-777-to-nowhere
+      quote: https://i1.sndcdn.com/artworks-000075040611-nu2g3g-large.jpg
+      accessed: '2026-11-21'
+      locator: SoundCloud artwork metadata
+    qualifiers:
+      credit:
+        text: Hadi Bastani on SoundCloud
+        language: en
+  release date:
+  - value:
+      date: '2014-03-30'
+    references:
+    - source: soundcloud.com-hadi-bastani-777-to-nowhere
+      quote: '2014-03-30T12:41:41Z'
+      accessed: '2026-11-21'
+      locator: SoundCloud release or upload timestamp

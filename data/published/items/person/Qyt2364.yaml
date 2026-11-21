@@ -17,3 +17,37 @@ statements:
     references:
     - *id001
     editorial: true
+  profile link:
+  - value: https://soundcloud.com/hadi-bastani
+    references:
+    - source: soundcloud.com-hadi-bastani
+      quote: Stream Hadi Bastani music | Listen to songs, albums, playlists for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/artist/2RXGoJJnI7hBHW1U7VtCJ4
+    references:
+    - source: open.spotify.com-artist-2rxgojjni7hbhw1u7vtcj4
+      quote: Listen to Hadi Bastani Songs | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/artist/hadi-bastani/1441063095
+    references:
+    - source: music.apple.com-us-artist-hadi-bastani-1441063095
+      quote: ‎Hadi Bastani - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  image:
+  - value: https://i1.sndcdn.com/avatars-000319834804-e4n7fy-t500x500.jpg
+    references:
+    - source: soundcloud.com-hadi-bastani
+      quote: https://i1.sndcdn.com/avatars-000319834804-e4n7fy-t500x500.jpg
+      accessed: '2026-11-21'
+      locator: Artist profile photograph
+    - source: norient.com-buhre-bastani-listening-heart-what-i-do
+      quote: Hadi Bastani (photo by the artist).
+      accessed: '2026-11-21'
+      locator: Portrait caption
+    qualifiers:
+      credit:
+        text: Hadi Bastani, via SoundCloud and Norient
+        language: en

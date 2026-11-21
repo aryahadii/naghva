@@ -1,0 +1,45 @@
+id: Qzs4ss8
+type: release
+statements:
+  name:
+  - value:
+      text: Ornamental Descend
+      language: en
+    references:
+    - source: zabtesote.bandcamp.com-track-ornamental-descend
+      quote: Ornamental Descend
+      accessed: '2026-11-21'
+      locator: Recording heading
+  performer:
+  - value: Qyt2364
+    references:
+    - source: zabtesote.bandcamp.com-track-ornamental-descend
+      quote: Ornamental Descend | Hadi Bastani | Zabte Sote
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://zabtesote.bandcamp.com/track/ornamental-descend
+    references:
+    - source: zabtesote.bandcamp.com-track-ornamental-descend
+      quote: Ornamental Descend | Hadi Bastani | Zabte Sote
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a0511040605_10.jpg
+    references:
+    - source: zabtesote.bandcamp.com-track-ornamental-descend
+      quote: https://f4.bcbits.com/img/a0511040605_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Bandcamp · Zabte Sote
+        language: en
+  release date:
+  - value:
+      date: '2018-08-17'
+    references:
+    - source: zabtesote.bandcamp.com-track-ornamental-descend
+      quote: released August 17, 2018
+      accessed: '2026-11-21'
+      locator: Published date

@@ -1,0 +1,59 @@
+id: Qgje3eq
+type: release
+statements:
+  name:
+  - value:
+      text: Marde Man
+      language: en
+    references:
+    - source: music.apple.com-us-album-melode-360-1515690135
+      quote: Marde Man
+      accessed: 2026-11-21
+      locator: Track listing, 3
+  performer:
+  - value: Q8dkfyg
+    references:
+    - source: music.apple.com-us-album-melode-360-1515690135
+      quote: Melode
+      accessed: 2026-11-21
+      locator: Artist heading
+  listen link:
+  - value: https://music.apple.com/us/song/marde-man/1515690150
+    references:
+    - source: music.apple.com-us-album-melode-360-1515690135
+      quote: Marde Man
+      accessed: 2026-11-21
+      locator: Track listing, 3
+  - value: https://music.apple.com/us/song/marde-man/1517272837
+    references:
+    - source: music.apple.com-us-album-melode-360-1517272173
+      quote: Marde Man
+      accessed: 2026-11-21
+      locator: Track listing, 3
+  - value: https://open.spotify.com/track/1FeKLLZArGzqCGiBdLzAEI
+    references:
+    - source: open.spotify.com-album-45y7dbf8qqicndy2uijs0g
+      quote: Marde Man
+      accessed: 2026-11-21
+      locator: Track listing
+  - value: https://soundcloud.com/theofficialmelode/marde-man
+    references:
+    - source: soundcloud.com-theofficialmelode-marde-man
+      quote: Marde Man
+      accessed: 2026-11-21
+      locator: SoundCloud title on Melody Safavi’s official account
+  release date:
+  - value:
+      date: '2020-06-06'
+    references:
+    - source: music.apple.com-us-album-melode-360-1515690135
+      quote: '2020-06-06'
+      accessed: 2026-11-21
+      locator: Release date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/2f/71/84/2f718494-ffed-73eb-024b-b92fadb1f35f/859739523461_cover.jpg/632x632bb-60.jpg
+    references:
+    - source: music.apple.com-us-album-melode-360-1515690135
+      quote: Melode 360
+      accessed: 2026-11-21
+      locator: Album heading

@@ -116,6 +116,11 @@ references:
     quote: Electronics, flute and voice by Maryam Sirvan
     accessed: '2026-11-21'
     locator: Release credits
+  demoulin:
+    source: juliendemoulin.bandcamp.com-album-everything-forgotten-everything-remembered
+    quote: Vocals on 7 by Maryam Sirvan (recorded and mixed by Milad Bagheri)
+    accessed: '2026-11-21'
+    locator: Album credits, track 7
 ---
 
 میلاد باقری آهنگساز و هنرمند صدای ایرانی، متولد ۱۹۸۴ است. در سال ۲۰۱۰ همراه مریم سیروان گروه دونفرهٔ موسیقی الکترونیک NUM را در شمال ایران تشکیل داد. برای آلبوم شخصی [«Galoba»](#galoba-rzk) از عبارت‌های کوتاه آوازی استفاده کرد که خودش در گرجستان ضبط کرده بود. بعدها برای اجراهای گروه، نرم‌افزاری ساخت که صدا را به تصویر متحرک تبدیل می‌کند.[^born][^duo][^idea][^phrases][^v]
@@ -126,7 +131,7 @@ references:
 
 باقری چند طرح اولیه را به سرپرست کنسرت نشان داد و او هم باقری را به کلیسای جامع سامتاویسی دعوت کرد. از نزدیک به دو ساعت ضبط در این دو محل، پنج عبارت آوازی را برای آلبوم «Galoba» انتخاب کرد. نام آلبوم در زبان گرجی به معنی «سرود» است. مریم سیروان هم در ضبط صداهای محیطی آلبوم سهم داشت. نشر فلگ دی آن را در اکتبر ۲۰۲۰ منتشر کرد.[^share][^church][^phrases][^title][^maryam][^edition][^date]
 
-در آلبوم [«Memory Machine»](/fa/num-m4s/#memory-machine-hce) گروه NUM، سیروان آواز خواند و فلوت نواخت و باقری با صداهای الکترونیک کار کرد و مسئول مهندسی صدا بود. مسترینگ نخستین آلبوم شخصی سیروان، [«Untamed Terror»](/fa/maryam-sirvan-6zb/#untamed-terror-59b)، را هم باقری انجام داد. هر دو در میکس آلبوم [«From Here to Eternity»](https://kylebobbydunn.bandcamp.com/album/from-here-to-eternity) اثر کایل بابی دان همکاری داشتند.[^pair][^sound][^master][^fink]
+در آلبوم [«Memory Machine»](/fa/num-m4s/#memory-machine-hce) گروه NUM، سیروان آواز خواند و فلوت نواخت و باقری با صداهای الکترونیک کار کرد و مسئول مهندسی صدا بود. مسترینگ نخستین آلبوم شخصی سیروان، [«Untamed Terror»](/fa/maryam-sirvan-6zb/#untamed-terror-59b)، را هم باقری انجام داد. هر دو در میکس آلبوم [«From Here to Eternity»](https://kylebobbydunn.bandcamp.com/album/from-here-to-eternity) اثر کایل بابی دان همکاری داشتند.[^pair][^sound][^master][^fink] در قطعهٔ [«Dissolving in Silence»](/fa/maryam-sirvan-6zb/#dissolving-in-silence-av4) اثر ژولین دومولن، باقری صدای سیروان را ضبط و میکس کرد.[^demoulin]
 
 ## صدا و تصویر متحرک
 

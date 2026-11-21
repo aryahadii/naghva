@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/artist/7wlMKkqDOwWHsXpL56aMRt
+archive: https://web.archive.org/web/20250123225747/https://open.spotify.com/artist/7wlMKkqDOwWHsXpL56aMRt
 title: Listen to Shadi Fathi Songs | Spotify
 status: processed
 language: en

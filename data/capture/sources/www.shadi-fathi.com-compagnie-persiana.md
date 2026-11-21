@@ -1,5 +1,6 @@
 ---
 url: https://www.shadi-fathi.com/compagnie-persiana/
+archive: https://web.archive.org/web/20260611221410/https://www.shadi-fathi.com/compagnie-persiana/
 title: Compagnie Persiana – Shadi Fathi
 status: processed
 language: fr

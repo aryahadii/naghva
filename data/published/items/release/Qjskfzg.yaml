@@ -49,3 +49,9 @@ statements:
       quote: Be a Lover as They Are (feat. Shadi Fathi & Artyom Minasyan)
       accessed: '2026-11-21'
       locator: Album track title and billing
+  - value: https://www.youtube.com/watch?v=dr9II3u3a3E
+    references:
+    - source: www.shadi-fathi.com-galerie-videos
+      quote: dr9II3u3a3E
+      accessed: '2026-11-21'
+      locator: Artist embeds this specific YouTube video

@@ -29,3 +29,7 @@ SASA, read 2026-11-21.
 > Safoura Safavi’s bass and vocals, David Douhan’s guitars and keys, and Marcus Bouquelon’s driving drums
 
 SASA, read 2026-11-21.
+
+> One summer day on a beach in central Stockholm, Safoura Safavi, David Douhan, and Marcus Bouquelon crossed paths and discovered a shared love for the music of The Police.
+
+SASA, formation and personnel, read 2026-11-21.

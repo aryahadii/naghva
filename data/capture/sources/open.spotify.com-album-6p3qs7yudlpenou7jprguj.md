@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/6P3qS7yUDlPEnoU7JprgUj
+archive: https://web.archive.org/web/20220802070250/https://open.spotify.com/album/6P3qS7yUDlPEnoU7JprgUj
 title: Listen to Âwât - Album by Shadi Fathi | Spotify
 status: processed
 language: en

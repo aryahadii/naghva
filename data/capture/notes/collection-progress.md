@@ -17,10 +17,14 @@ The expansion started at revision fa6c29ca with 124 bilingual artist pages. The 
 | Eishan Ensemble | Qhebfsp | 9.3/10 | [Eishan Ensemble](artist-page-scores.md) |
 | Maryam Sirvan | Q6zbcxw | 9.2/10 | [Maryam Sirvan](maryam-sirvan-review.md) |
 | NUM | Qm4skc3 | 9.1/10 | [NUM](num-review.md) |
-| Abjeez | Qny2s3x | 8.0/10, revised catalogue awaiting review | [Abjeez](abjeez-independent-review.md) |
-| Milad Bagheri | Qj24qcs | Pending | Independent review requested |
-| Vazesh | Q597kk9 | Pending | [Catalogue and open questions](vazesh.md) |
-| Shadi Fathi | Qfxqgvv | Pending | [Catalogue and open questions](shadi-fathi.md) |
-| Safoura Safavi | Q8w88jv | Pending | [Catalogue and open questions](safoura-safavi.md) |
+| Abjeez | Qny2s3x | 9.1/10 | [Abjeez](abjeez-independent-review.md) |
+| Milad Bagheri | Qj24qcs | 8.4/10, revisions in review | [Milad Bagheri](milad-bagheri-review.md) |
+| Vazesh | Q597kk9 | 9.2/10 | [Vazesh](artist-page-scores.md) |
+| Shadi Fathi | Qfxqgvv | 8.0/10, revisions in review | [Shadi Fathi](shadi-fathi-review.md) |
+| Safoura Safavi | Q8w88jv | 7.8/10, revisions in review | [Safoura Safavi](safoura-safavi-independent-review.md) |
+| SASA | Qgzg2y9 | Pending | [Catalogue](sasa.md) |
+| Hysterrae | Qkvdrbs | Pending | [Catalogue](hysterrae.md) |
+| Melody Safavi | Q8dkfyg | Pending | [Catalogue](melody-safavi.md) |
+| Hadi Bastani | Qyt2364 | Pending | Independent review requested |
 
 The [discovery list](independent-artist-discovery.md) contains candidates with release leads. Some will prove ineligible or match an existing artist by another spelling. Only new artist pages count toward the target.

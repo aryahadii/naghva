@@ -1,0 +1,46 @@
+id: Qgzg2y9
+type: act
+statements:
+  name:
+  - value:
+      text: SASA
+      language: en
+    references:
+    - source: safoura.com-artist
+      quote: She founded her band SASA in 2023
+      accessed: 2026-11-21
+      locator: SASA, formation and personnel
+  formation date:
+  - value:
+      date: '2023'
+    references:
+    - source: safoura.com-artist
+      quote: She founded her band SASA in 2023
+      accessed: 2026-11-21
+      locator: SASA, formation and personnel
+  image:
+  - value: https://i.ytimg.com/vi/9WRQs3_ApEo/hqdefault.jpg
+    references:
+    - source: youtu.be-9wrqs3_apeo
+      quote: Safoura Safavi singing in front of the group during the Selam performance.
+      accessed: 2026-11-21
+      locator: Organizer’s photograph on the film
+  profile link:
+  - value: https://music.apple.com/us/artist/sasa/1711503622
+    references:
+    - source: music.apple.com-us-artist-sasa-1711503622
+      quote: SASA
+      accessed: 2026-11-21
+      locator: Artist heading
+  - value: https://www.youtube.com/@safoura
+    references:
+    - source: www.youtube.com-safoura
+      quote: SASA
+      accessed: 2026-11-21
+      locator: Official channel name
+  - value: https://open.spotify.com/artist/0vQz8FDK1Cle8hOshxczFT
+    references:
+    - source: open.spotify.com-artist-0vqz8fdk1cle8hoshxczft
+      quote: SASA
+      accessed: 2026-11-21
+      locator: Artist heading

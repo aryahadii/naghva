@@ -116,6 +116,11 @@ references:
     quote: Electronics, flute and voice by Maryam Sirvan
     accessed: '2026-11-21'
     locator: Release credits
+  demoulin:
+    source: juliendemoulin.bandcamp.com-album-everything-forgotten-everything-remembered
+    quote: Vocals on 7 by Maryam Sirvan (recorded and mixed by Milad Bagheri)
+    accessed: '2026-11-21'
+    locator: Album credits, track 7
 ---
 
 Milad Bagheri is an Iranian composer and sound artist born in 1984. He and Maryam Sirvan formed the electronic duo NUM in northern Iran in 2010. For his solo album [*Galoba*](#galoba-rzk), he used short phrases from recordings he made of Georgian singing. He later built software for NUM that turns the sound of a performance into moving images.[^born][^duo][^idea][^phrases][^v]
@@ -126,7 +131,7 @@ Bagheri studied electrical engineering at Guilan University and music technology
 
 When Bagheri showed the sketches to the concert supervisor, she invited him to Samtavisi Cathedral. Five phrases from nearly two hours of recordings at the two venues went into *Galoba*, whose title means “chant” in Georgian. Sirvan contributed field recordings. Flag Day Recordings released the album in October 2020.[^share][^church][^phrases][^title][^maryam][^edition][^date]
 
-On NUM's [*Memory Machine*](/en/num-m4s/#memory-machine-hce), Sirvan played flute and sang, while Bagheri handled electronics and sound engineering. He also mastered her debut solo album, [*Untamed Terror*](/en/maryam-sirvan-6zb/#untamed-terror-59b). Both musicians helped mix Kyle Bobby Dunn’s [*From Here to Eternity*](https://kylebobbydunn.bandcamp.com/album/from-here-to-eternity).[^pair][^sound][^master][^fink]
+On NUM's [*Memory Machine*](/en/num-m4s/#memory-machine-hce), Sirvan played flute and sang, while Bagheri handled electronics and sound engineering. He also mastered her debut solo album, [*Untamed Terror*](/en/maryam-sirvan-6zb/#untamed-terror-59b). Both musicians helped mix Kyle Bobby Dunn’s [*From Here to Eternity*](https://kylebobbydunn.bandcamp.com/album/from-here-to-eternity).[^pair][^sound][^master][^fink] On Julien Demoulin’s [“Dissolving in Silence”](/en/maryam-sirvan-6zb/#dissolving-in-silence-av4), Bagheri recorded and mixed Sirvan’s vocals.[^demoulin]
 
 ## Sound and moving images
 

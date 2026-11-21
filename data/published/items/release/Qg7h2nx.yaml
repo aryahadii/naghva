@@ -1,0 +1,69 @@
+id: Qg7h2nx
+type: release
+statements:
+  name:
+  - value:
+      text: TWO - Part 2
+      language: en
+    references:
+    - source: noise-a-noise.bandcamp.com-track-02-two-part-2
+      quote: TWO - Part 2
+      accessed: '2026-11-21'
+      locator: Recording heading
+  performer:
+  - value: Qyt2364
+    references:
+    - source: noise-a-noise.bandcamp.com-track-02-two-part-2
+      quote: 02 - TWO - Part 2 | Hadi Bastani and Yalda Zamani | Noise à Noise
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qrtebcw
+    references:
+    - source: www.hadibastani.com-two
+      quote: Hadi Bastani and Yalda Zamani
+      accessed: '2026-11-21'
+      locator: Recording credits
+  listen link:
+  - value: https://noise-a-noise.bandcamp.com/track/02-two-part-2
+    references:
+    - source: noise-a-noise.bandcamp.com-track-02-two-part-2
+      quote: 02 - TWO - Part 2 | Hadi Bastani and Yalda Zamani | Noise à Noise
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/klangteppich-performance-pt-2/1661982439
+    references:
+    - source: music.apple.com-us-song-klangteppich-performance-pt-2-1661982439
+      quote: ‎Klangteppich Performance, Pt, 2 - Song with Lyrics by Hadi Bastani & Yalda Zamani - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/5py1JIJhXabcGd4jglPq21
+    references:
+    - source: open.spotify.com-track-5py1jijhxabcgd4jglpq21
+      quote: Klangteppich Performance, Pt, 2 - song and lyrics by Hadi Bastani, Yalda Zamani | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://www.youtube.com/watch?v=MkBg7fkTN_s
+    references:
+    - source: www.youtube.com-watch-v-mkbg7fktn_s
+      quote: Klangteppich Performance, Pt, 2 - YouTube
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a4037011693_10.jpg
+    references:
+    - source: noise-a-noise.bandcamp.com-track-02-two-part-2
+      quote: https://f4.bcbits.com/img/a4037011693_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Bandcamp · Noise à Noise
+        language: en
+  release date:
+  - value:
+      date: '2022-08-11'
+    references:
+    - source: noise-a-noise.bandcamp.com-track-02-two-part-2
+      quote: released August 11, 2022
+      accessed: '2026-11-21'
+      locator: Published date

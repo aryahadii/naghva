@@ -55,6 +55,12 @@ statements:
       quote: ASAYESH
       accessed: '2026-11-21'
       locator: Spotify track list
+  - value: https://www.youtube.com/watch?v=nYkgr3WKMKw
+    references:
+    - source: www.shadi-fathi.com-galerie-videos
+      quote: nYkgr3WKMKw
+      accessed: '2026-11-21'
+      locator: Artist embeds this specific YouTube video
   published by:
   - value: Qvdbcbn
     references:

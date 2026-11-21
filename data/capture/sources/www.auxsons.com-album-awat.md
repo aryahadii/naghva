@@ -1,5 +1,6 @@
 ---
 url: https://www.auxsons.com/album/awat/
+archive: https://web.archive.org/web/20260513074426/https://www.auxsons.com/album/awat/
 title: 'Âwât - #AuxSons'
 status: processed
 language: fr

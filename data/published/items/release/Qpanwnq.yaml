@@ -1,0 +1,61 @@
+id: Qpanwnq
+type: release
+statements:
+  name:
+  - value:
+      text: Kali Sultana
+      language: en
+    references:
+    - source: open.spotify.com-album-5tirrszipxhyeqlokjc4yz
+      quote: Kali Sultana
+      accessed: '2026-11-21'
+      locator: Album name
+  performer:
+  - value: Qfxqgvv
+    references:
+    - source: www.odoensemble.com-en-shadi-fathi
+      quote: Kali Sultana - The shadow of the ghazal / Titi Robin.
+      accessed: '2026-11-21'
+      locator: Discography
+    qualifiers:
+      role:
+      - daf
+  - value: Qty3fnx
+    references:
+    - source: open.spotify.com-album-5tirrszipxhyeqlokjc4yz
+      quote: Titi Robin
+      accessed: '2026-11-21'
+      locator: Album artist
+  release date:
+  - value:
+      date: '2008-11-03'
+    references:
+    - source: open.spotify.com-album-5tirrszipxhyeqlokjc4yz
+      quote: '2008-11-03'
+      accessed: '2026-11-21'
+      locator: Release metadata
+  listen link:
+  - value: https://open.spotify.com/album/5tIrRSzIPXhYEQLOkjc4yZ
+    references:
+    - source: open.spotify.com-album-5tirrszipxhyeqlokjc4yz
+      quote: Kali Sultana
+      accessed: '2026-11-21'
+      locator: Album name
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d0000b273344711febed35e4b6a08c7f0
+    references:
+    - source: open.spotify.com-album-5tirrszipxhyeqlokjc4yz
+      quote: https://i.scdn.co/image/ab67616d0000b273344711febed35e4b6a08c7f0
+      accessed: '2026-11-21'
+      locator: Spotify album cover
+    qualifiers:
+      credit:
+        text: Titi Robin · Spotify
+        language: en
+  release type:
+  - value: album
+    references:
+    - source: open.spotify.com-album-5tirrszipxhyeqlokjc4yz
+      quote: Kali Sultana
+      accessed: '2026-11-21'
+      locator: Album name

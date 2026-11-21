@@ -1,5 +1,6 @@
 ---
 url: https://www.nice-premium.com/buda-musique-or-the-exemplary-case-of-a-20-year-old-label/
+archive: https://web.archive.org/web/20260520201821/https://www.nice-premium.com/buda-musique-or-the-exemplary-case-of-a-20-year-old-label/
 title: Buda Musique or the exemplary case of a 20-year-old label! - Nice Premium EN
 status: processed
 language: en

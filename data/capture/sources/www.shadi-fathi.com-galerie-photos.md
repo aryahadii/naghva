@@ -1,5 +1,6 @@
 ---
 url: https://www.shadi-fathi.com/galerie-photos/
+archive: https://web.archive.org/web/20260711140853/https://www.shadi-fathi.com/galerie-photos/
 title: Galerie photos – Shadi Fathi
 status: processed
 language: fr

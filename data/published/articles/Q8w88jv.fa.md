@@ -86,6 +86,31 @@ references:
     quote: Skansen · Hos Liljonkvast
     accessed: 2026-11-21
     locator: EP track listing
+  las:
+    source: piadelnorte.com-works-2-lasnortenas.html
+    quote: Safoura Safavi - vocals, sound design, cajon, composition
+    accessed: 2026-11-21
+    locator: Creative team
+  ray:
+    source: piadelnorte.com-works-2-lasnortenas.html
+    quote: Raya del sol - the Ray of Sun
+    accessed: 2026-11-21
+    locator: Production title
+  team:
+    source: piadelnorte.com-works-2-lasnortenas.html
+    quote: Bettina Flater - guitar, vocals, composition
+    accessed: 2026-11-21
+    locator: Creative team
+  dance:
+    source: piadelnorte.com-works-2-lasnortenas.html
+    quote: Pia "del Norte" Pohjakallio - dance, palmas, choreography
+    accessed: 2026-11-21
+    locator: Creative team
+  hour:
+    source: piadelnorte.com-works-2-lasnortenas.html
+    quote: 60 min
+    accessed: 2026-11-21
+    locator: Duration
 ---
 
 صفورا صفوی در تهران به دنیا آمد. خانواده‌اش در سال ۱۹۸۷ از ایران گریختند و در کروکوم در شمال سوئد ساکن شدند.[^city][^born] صفوی در نوشته‌ای برای دورهٔ کارشناسی ارشدش به یاد می‌آورد که اولین ترانه‌اش، «Many Questions»، را چطور ساخت. اول شعر را می‌نوشت و بعد آن‌قدر با گیتار دوازده‌سیمش می‌زد تا آکورد و ملودی مناسب آن کلمات را پیدا کند.[^old][^strings] وقتی با خواهر بزرگ‌ترش ملودی به ترانه‌سازی نشست، ترتیب کار عوض شد. این بار صفورا آهنگ می‌ساخت و ملودی روی آن شعر می‌گذاشت. حاصل آن همکاری گروه [آبجیز](/fa/abjeez-ny2/) بود.[^group]
@@ -97,3 +122,5 @@ references:
 برای اجرای عروسکی تئاتر تیتوت از داستان *I Skymningslandet* نوشتهٔ آسترید لیندگرن، صفوی موسیقی‌ای ساخت که در کنار بازی عروسک‌ها و پانتومیم اجرا می‌شد. چهار قطعه از موسیقی این نمایش، از جمله «Skansen» و «Hos Liljonkvast»، در سال ۲۰۲۵ منتشر شد.[^puppet][^commission][^ep][^cuts]
 
 صفوی در گروه سه‌نفرهٔ ساسا می‌خواند و گیتار باس می‌زند. او، داوید دوهان، نوازندهٔ گیتار و کیبورد، و مارکوس بوکلون، نوازندهٔ درامز، پیش از تشکیل ساسا در سال ۲۰۲۳ هم با هم ساز می‌زدند. گروه قبلی‌شان، POLIZEI، آهنگ‌های گروه بریتانیایی پلیس را بازخوانی می‌کرد.[^sasa][^trio][^cover]
+
+صفوی در گروه لاس نورتنیاس آواز فلامنکو را کنار گیتار بتینا فلاتر و رقص پیا دل نورته به صحنه برد. در اجرای یک‌ساعتهٔ «Raya del sol» آهنگ‌سازی و طراحی صدا را هم بر عهده داشت و کاخُن می‌نواخت.[^ray][^las][^team][^dance][^hour]
