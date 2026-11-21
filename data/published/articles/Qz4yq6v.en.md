@@ -30,32 +30,29 @@ references:
     quote: |-
       Napichideh (2013) نه‌پیچیده by B-band|بی‌بند
     accessed: '2026-10-19'
-  catalog-2019:
-    source: b-bandmusic.com-music
-    quote: |-
-      Avarez Janebi (2019) عوارض جانبی by B-band|بی بند
-    accessed: '2026-10-19'
-  vigen:
-    source: b-bandmusic.com-music
-    quote: |-
-      Vigen | ویگن by B-band|بی‌بند
-    accessed: '2026-10-19'
-  ay-ai:
-    source: b-bandmusic.com-music
-    quote: |-
-      AY-AI | اِی وای، اِی آی by B-band | بی‌ بند
-    accessed: '2026-10-19'
   catalog-2017:
     source: b-bandmusic.com-music
     quote: |-
       Donbalehdar (2017) دنباله‌دار by B-band|بی‌بند
     accessed: '2026-10-19'
+  roles:
+    source: b-bandmusic.com-b-band-7489916a3436
+    quote: |-
+      Kasra Ebrahimi: Drums, Recordings, Mixing
+      Hamed Hamidzadeh: Bass
+      Behzad Khiavchi: Vocals,Guitars, Synths, Lyrics
+    accessed: '2026-11-21'
+  online:
+    source: b-bandmusic.com-b-band-7489916a3436
+    quote: |-
+      they have been in close touch with their loyal fan base through social media, and have released their songs online using digital distribution platforms
+    accessed: '2026-11-21'
 ---
 
-B-band is an Iranian alternative rock band formed in Tehran in 2009. Its Persian lyrics accompany music that draws on rock, grunge, electronic sounds and Persian folklore.[^origin][^sound]
+B-band is an alternative rock group formed in Tehran in 2009. Three friends combined Persian lyrics and folk influences with grunge and electronic music. Even after moving to different countries, they continued making records together.[^origin][^sound][^distance]
 
-## Work and collaboration
+## From Tehran to working at a distance
 
-The band describes its later work as a long-distance collaboration among friends who moved to different countries.[^distance] Its record [Donbalehdar](#donbalehdar-3y8) (To Be Continued) consists of two four-track EPs, according to a February 2017 beehype profile.[^record]
+Behzad Khiavchi wrote lyrics, sang and played guitar and synthesizers. Hamed Hamidzadeh played bass, and Kasra Ebrahimi played drums and handled recording and mixing.[^roles] Their early records included [*Nemishnavam Sedato*](#nemishnavam-sedato-2vt) in 2012 and [*Napichideh*](#napichideh-wqn) the following year.[^catalog-2012][^catalog-2013]
 
-The band’s own catalogue dates [Nemishnavam Sedato](#nemishnavam-sedato-2vt) to 2012, [Napichideh](#napichideh-wqn) to 2013, Donbalehdar to 2017 and [Avarez Janebi](#avarez-janebi-w27) to 2019. It also presents Vigen and AY-AI without displaying release dates alongside those titles.[^catalog-2012][^catalog-2013][^catalog-2017][^catalog-2019][^vigen][^ay-ai]
+In 2017 they released [*Donbalehdar*](#donbalehdar-3y8), meaning “to be continued,” as two four-song EPs.[^catalog-2017][^record] As the friends came to live farther apart, they played fewer shows. They shared new music online and kept in touch with listeners through social media.[^distance][^online]
