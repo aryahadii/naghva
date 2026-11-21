@@ -48,6 +48,18 @@ async function upload(folder) {
 async function fromBucket() {
   const r2 = await bucket();
   if (!r2) return null;
+  try {
+    return await readBucket(r2);
+  } catch (error) {
+    // A refused or unreachable bucket stops only a deploy; any other build
+    // carries on as if it had no key.
+    if (required) throw error;
+    console.warn(`fonts: ${error.message}`);
+    return null;
+  }
+}
+
+async function readBucket(r2) {
   const missing = [];
   for (const name of Object.keys(files)) if (!(await r2.has(key(name)))) missing.push(key(name));
   if (missing.length) {
@@ -85,7 +97,7 @@ async function fetchFonts() {
     const target = join(dir, name);
     if (await exists(target)) continue;
     await copyFile(join(vazirmatn, `vazirmatn-arabic-${weight}-normal.woff2`), target);
-    console.log(`fonts: ${name} is Vazirmatn (no R2 key or NAGHVA_FONTS_URL for the licensed font)`);
+    console.log(`fonts: ${name} is Vazirmatn (the licensed font was not available to this build)`);
   }
 }
 
