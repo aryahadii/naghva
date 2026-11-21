@@ -17,6 +17,14 @@ statements:
       quote: Grimace | 9T Antiope
       accessed: '2026-11-21'
       locator: Page title
+  - value: Qz5swxp
+    references:
+    - source: 9tantiope.bandcamp.com-album-grimace
+      quote: 'Vocals & Lyrics: Sara Bigdeli Shamloo'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: vocals
   contributor:
   - value: Qgncp5r
     references:

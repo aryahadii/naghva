@@ -1,0 +1,69 @@
+id: Qqkgj67
+type: release
+statements:
+  name:
+  - value:
+      text: Charkheshe Rangha (feat. Saeed Dehghan & SarrSew)
+      language: en
+    references:
+    - source: music.apple.com-us-song-1797094640
+      quote: ‎Charkheshe Rangha (feat. Saeed Dehghan & SarrSew) - Song with Lyrics by Ali Sorena - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qz5swxp
+    references:
+    - source: music.apple.com-us-song-1797094640
+      quote: ‎Charkheshe Rangha (feat. Saeed Dehghan & SarrSew) - Song with Lyrics by Ali Sorena - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qhnnxeg
+    references:
+    - source: music.apple.com-us-song-1797094640
+      quote: Ali Sorena
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Qv6n353
+    references:
+    - source: music.apple.com-us-song-1797094640
+      quote: Saeed Dehghan
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://music.apple.com/us/song/1797094640
+    references:
+    - source: music.apple.com-us-song-1797094640
+      quote: ‎Charkheshe Rangha (feat. Saeed Dehghan & SarrSew) - Song with Lyrics by Ali Sorena - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/1tAzCpFqdNRLzMgKkGTwGx
+    references:
+    - source: open.spotify.com-track-1tazcpfqdnrlzmgkkgtwgx
+      quote: Charkheshe Rangha - song and lyrics by Ali Sorena, Saeed Dehghan, SarrSew | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://www.youtube.com/watch?v=K7XxcliuDY4
+    references:
+    - source: www.youtube.com-watch-v-k7xxcliudy4
+      quote: Ali Sorena - Charkheshe Ranghaa  Ft. SarrSew (Official Visualizer)
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b3/33/28/b3332852-23e3-3a80-5262-e19aa6cb26eb/674053325221_cover.jpg/600x600bb.webp
+    references:
+    - source: music.apple.com-us-song-1797094640
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b3/33/28/b3332852-23e3-3a80-5262-e19aa6cb26eb/674053325221_cover.jpg/600x600bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original digital edition
+        language: en
+  release date:
+  - value:
+      date: '2025-02-20'
+    references:
+    - source: music.apple.com-us-song-1797094640
+      quote: February 20, 2025
+      accessed: '2026-11-21'
+      locator: Published date

@@ -216,3 +216,11 @@ Independent review on 2026-11-21. **9.2/10** · Sources 1.9, prose 1.9, recordin
 ### Salim Ghazi Saeedi
 
 Independent review on 2026-11-21. **9.2/10** · Sources 1.9, prose 1.9, recordings 2.6, images 1.0, gaps and reader experience 1.8. The 129-panel pages (English 22e83cc7e287, Persian c76b31eaef3b) distinguish the original Arashk and solo catalogue, SoundCloud demos, Bouban’s co-composition, the documented music and sound editing work for Mehr Theater, and the artist’s migration to Australia. Compared the native joint Bandcamp issue and Arashk’s original nine-song Yell musician table. The latter identifies five guitar solos and the separate bass solo. Each language loaded 259 main-content images and all local fragment links resolved. Catalogue and article ready.
+
+### Negar Bouban
+
+Independent review on 2026-11-21. **9.2/10** · Sources 1.9, prose 1.9, recordings 2.6, images 1.0, gaps and reader experience 1.8. Both updated pages (English e77681dd69c2, Persian 46d7d9be2961) have 124 recording panels and 221 decoded images per language. Checked the exact April 2024 and 2025 Tamburi Mundi concert films and the Freiburg Filmforum's Heim.Statt programme, alongside the five original solo albums and collaborative catalogue. Three soundtrack and collaboration albums were reconciled with Movahed's copies, and her fourth named album credit, Barefoot in Paradise, was confirmed. The contribution to those albums does not establish the oud player for each individual soundtrack excerpt. Both languages distinguish the first sung performance from its concert rearrangement. All local fragment links resolve. Catalogue and article ready.
+
+### Kasra Saboktakin
+
+Independent review on 2026-11-21. **9.2/10** · Sources 1.9, prose 1.9, recordings 2.6, images 1.0, gaps and reader experience 1.8. The final 64 panels in each language (English 268ba19b64cf, Persian d365601a7cea) include the twelve O-Hum album recordings supported by his interview, three filmed performances with Barad, his documentary score, and the original SoundCloud recordings. Verified Pallett's own bass credit on Dream Away With Me, the separately dated Istgah concert, Whispers in Crimson and the Keshaleh-Ha recording. All 97 images decoded in each language and local reference links resolved. Catalogue and article ready.

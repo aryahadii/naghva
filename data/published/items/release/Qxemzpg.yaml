@@ -17,6 +17,14 @@ statements:
       quote: Bādbān | Taraamoon | Low-Zi Records
       accessed: '2026-11-21'
       locator: Page title
+  - value: Qz5swxp
+    references:
+    - source: lowzirecords.bandcamp.com-album-b-db-n
+      quote: Vocals/Lyrics of Taraamoon by Sara Bigdeli Shamloo
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: vocals
   contributor:
   - value: Qgncp5r
     references:
@@ -31,6 +39,24 @@ statements:
     references:
     - source: lowzirecords.bandcamp.com-track-dast-s-kaboos-x-taraamoon
       quote: Dastās (Kaboos x Taraamoon) | Taraamoon | Low-Zi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1560450116
+    references:
+    - source: music.apple.com-us-song-1560450116
+      quote: ‎Dastās (feat. Kaboos) - Song with Lyrics by Taraamoon - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/43UvTok85nRGcr5helCdjd
+    references:
+    - source: open.spotify.com-track-43uvtok85nrgcr5helcdjd
+      quote: Dastās - song and lyrics by Taraamoon, Kaboos | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/taraamoon/04-dasta-s-kaboos-x-taraamoon
+    references:
+    - source: soundcloud.com-taraamoon-04-dasta-s-kaboos-x-taraamoon
+      quote: Stream Dastās (Kaboos X Taraamoon) by TARAAMOON • ْتَرامون | Listen online for free on SoundCloud
       accessed: '2026-11-21'
       locator: Page title
   release date:

@@ -17,6 +17,14 @@ statements:
       quote: Bādbān | Taraamoon | Low-Zi Records
       accessed: '2026-11-21'
       locator: Page title
+  - value: Qz5swxp
+    references:
+    - source: lowzirecords.bandcamp.com-album-b-db-n
+      quote: Vocals/Lyrics of Taraamoon by Sara Bigdeli Shamloo
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: vocals
   contributor:
   - value: Qgncp5r
     references:
@@ -31,6 +39,24 @@ statements:
     references:
     - source: lowzirecords.bandcamp.com-track-nebr-s-roody-x-taraamoon
       quote: Nebrās (Roody x Taraamoon) | Taraamoon | Low-Zi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1560450119
+    references:
+    - source: music.apple.com-us-song-1560450119
+      quote: ‎Nebrās (feat. Roody) - Song with Lyrics by Taraamoon - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/4yLh03zTKy1lUhwk3VDDkc
+    references:
+    - source: open.spotify.com-track-4ylh03ztky1luhwk3vddkc
+      quote: Nebrās - song and lyrics by Taraamoon, Roody | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/taraamoon/07-nebra-s-roody-x-taraamoon
+    references:
+    - source: soundcloud.com-taraamoon-07-nebra-s-roody-x-taraamoon
+      quote: Stream Nebrās (Roody X Taraamoon) by TARAAMOON • ْتَرامون | Listen online for free on SoundCloud
       accessed: '2026-11-21'
       locator: Page title
   release date:

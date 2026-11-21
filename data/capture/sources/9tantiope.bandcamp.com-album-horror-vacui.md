@@ -28,3 +28,11 @@ Published date, read 2026-11-21.
 > https://f4.bcbits.com/img/a1845036927_10.jpg
 
 Release artwork, read 2026-11-21.
+
+> Songs written and performed by Sara Bigdeli Shamloo
+
+Artist interview, biography or performance credits, read 2026-11-21.
+
+> 9T Antiope
+
+Artist interview, biography or performance credits, read 2026-11-21.

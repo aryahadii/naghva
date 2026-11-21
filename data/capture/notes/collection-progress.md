@@ -86,10 +86,12 @@ The expansion started at revision fa6c29ca with 124 bilingual artist pages. The 
 | Zambra Collective | Qv446d6 | 9.2/10 | [Zambra Collective](zambra-collective-independent-review.md) |
 | Shiraz Ensemble | Q87wshb | 9.2/10 | [Shiraz Ensemble](shiraz-ensemble-independent-review.md) |
 | Bahar Badiei | Qgay8m3 | 9.2/10 | [Bahar Badiei](bahar-badiei-independent-review.md) |
-| Nima Aghiani | Qgncp5r | Pending | [Catalogue](nima-aghiani.md) |
-| Negar Bouban | Qtqjb47 | Pending | [Catalogue](negar-bouban.md) |
-| Bahar Movahed | Qwxqpwd | 8.8/10 | [Bahar Movahed](bahar-movahed-independent-review.md) |
-| Hamsaz Ensemble | Qq46ncj | Pending | [Catalogue](hamsaz-ensemble.md) |
-| Kasra Saboktakin | Qa6r74t | Pending | [Catalogue](kasra-saboktakin.md) |
+| Nima Aghiani | Qgncp5r | 9.2/10 | [Nima Aghiani](nima-aghiani-independent-review.md) |
+| Negar Bouban | Qtqjb47 | 9.2/10 | [Negar Bouban](artist-page-scores.md) |
+| Bahar Movahed | Qwxqpwd | 9.2/10 | [Bahar Movahed](bahar-movahed-independent-review.md) |
+| Hamsaz Ensemble | Qq46ncj | 9.1/10 | [Hamsaz Ensemble](hamsaz-ensemble-independent-review.md) |
+| Kasra Saboktakin | Qa6r74t | 9.2/10 | [Kasra Saboktakin](kasra-saboktakin-independent-review.md) |
+| Taraamoon | Qw4rq4q | 9.2/10 | [Taraamoon](taraamoon-independent-review.md) |
+| Avin Ahmadi | Qtcm49a | Pending | [Catalogue](avin-ahmadi.md) |
 
 The [discovery list](independent-artist-discovery.md) contains candidates with release leads. Some will prove ineligible or match an existing artist by another spelling. Only new artist pages count toward the target.

@@ -48,3 +48,5 @@ The California-based singer from Tehran issued her Kurdish recordings through Tr
 - اپرای عاشورا (Qns286w)
 
 Three shared album credits are consolidated with Negar Bouban’s catalogue. Movahed dates her Mandoo soundtrack work to 2009; the commercial album and Bouban’s discography identify the issue in 2012.
+
+Hamsaz Ensemble's subsequent page adds Axiom Photo’s 130-second film of its 2015 historical concert. The named personnel include Movahed on vocals. It is distinct from the 2017 stage film and rehearsal.

@@ -23,3 +23,15 @@ Native performance, published credits, date or time code, read 2026-11-21.
 Native performance, published credits, date or time code, read 2026-11-21.
 
 > Avāz Dornā (Northern Khorāsān music)         ( آواز درنا (موسیقی شمال خراسان
+
+Named recording, original credits or artist documentation, read 2026-11-21.
+
+> آفرین نظری‌جو
+
+Native performance, release credits or dated catalogue, read 2026-11-21.
+
+> 2021-09-22
+
+Native performance, release credits or dated catalogue, read 2026-11-21.
+
+> Arrangement and Qanun: Afarin Nazarijou

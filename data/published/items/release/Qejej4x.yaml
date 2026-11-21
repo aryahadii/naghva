@@ -1,0 +1,81 @@
+id: Qejej4x
+type: release
+statements:
+  name:
+  - value:
+      text: شیزان
+      language: fa
+    references:
+    - source: lowzirecords.bandcamp.com-track--
+      quote: شیزان | Taraamoon | Low-Zi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qw4rq4q
+    references:
+    - source: lowzirecords.bandcamp.com-track--
+      quote: Taraamoon
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  release date:
+  - value:
+      date: '2020-04-25'
+    references:
+    - source: lowzirecords.bandcamp.com-track--
+      quote: released April 25, 2020
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a1444042801_10.jpg
+    references:
+    - source: lowzirecords.bandcamp.com-track--
+      quote: https://f4.bcbits.com/img/a1444042801_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Low-Zi Records
+        language: en
+  listen link:
+  - value: https://lowzirecords.bandcamp.com/track/-
+    references:
+    - source: lowzirecords.bandcamp.com-track--
+      quote: شیزان | Taraamoon | Low-Zi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1510206423
+    references:
+    - source: music.apple.com-us-song-1510206423
+      quote: ‎شیزان - Song with Lyrics by Taraamoon - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/%D8%B4%DB%8C%D8%B2%D8%A7%D9%86/1510206413
+    references:
+    - source: music.apple.com-us-album-d8-b4-db-8c-d8-b2-d8-a7-d9-86-1510206413
+      quote: ‎شیزان - Single - Album by Taraamoon - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/taraamoon/shezan
+    references:
+    - source: soundcloud.com-taraamoon-shezan
+      quote: Stream Shezān | شیزان by TARAAMOON • ْتَرامون | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/album/5JlCBgKh8aIltNAevxrYjB
+    references:
+    - source: open.spotify.com-album-5jlcbgkh8ailtnaevxryjb
+      quote: Listen to شیزان - Single by Taraamoon | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/5xTcmTt8FHWu5JHDWwxPbf
+    references:
+    - source: open.spotify.com-track-5xtcmtt8fhwu5jhdwwxpbf
+      quote: شیزان - song and lyrics by Taraamoon | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://t.me/Taraamoon/7
+    references:
+    - source: t.me-taraamoon-7
+      quote: 'Telegram: View @Taraamoon'
+      accessed: '2026-11-21'
+      locator: Page title

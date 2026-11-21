@@ -18,6 +18,14 @@ statements:
       quote: Bādbān | Taraamoon | Low-Zi Records
       accessed: '2026-11-21'
       locator: Page title
+  - value: Qz5swxp
+    references:
+    - source: lowzirecords.bandcamp.com-album-b-db-n
+      quote: Vocals/Lyrics of Taraamoon by Sara Bigdeli Shamloo
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: vocals
   contributor:
   - value: Qgncp5r
     references:
@@ -32,6 +40,24 @@ statements:
     references:
     - source: lowzirecords.bandcamp.com-album-b-db-n
       quote: Bādbān | Taraamoon | Low-Zi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/ma-d-feat-veda/1560450112
+    references:
+    - source: music.apple.com-us-album-ma-d-feat-veda-1560450112
+      quote: ‎Bādbān - Album by Taraamoon - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/album/72QfUoPK7tG9xnmQQspk04
+    references:
+    - source: open.spotify.com-album-72qfuopk7tg9xnmqqspk04
+      quote: Listen to Bādbān - Album by Taraamoon | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/taraamoon/sets/badban
+    references:
+    - source: soundcloud.com-taraamoon-sets-badban
+      quote: Stream TARAAMOON • ْتَرامون | Listen to Bādbān playlist online for free on SoundCloud
       accessed: '2026-11-21'
       locator: Page title
   release type:

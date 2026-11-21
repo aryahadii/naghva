@@ -17,6 +17,14 @@ statements:
       quote: Bādbān | Taraamoon | Low-Zi Records
       accessed: '2026-11-21'
       locator: Page title
+  - value: Qz5swxp
+    references:
+    - source: lowzirecords.bandcamp.com-album-b-db-n
+      quote: Vocals/Lyrics of Taraamoon by Sara Bigdeli Shamloo
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: vocals
   contributor:
   - value: Qgncp5r
     references:
@@ -31,6 +39,24 @@ statements:
     references:
     - source: lowzirecords.bandcamp.com-track-dayjoor-daygard-x-taraamoon
       quote: Dayjoor (Daygard x Taraamoon) | Taraamoon | Low-Zi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1560450114
+    references:
+    - source: music.apple.com-us-song-1560450114
+      quote: ‎Dayjoor (feat. Daygard) - Song with Lyrics by Taraamoon - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/3ifees52c1eBoR3wMeD0B9
+    references:
+    - source: open.spotify.com-track-3ifees52c1ebor3wmed0b9
+      quote: Dayjoor - song and lyrics by Taraamoon, Daygard | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/taraamoon/02-dayjoor-daygard-x-taraamoon
+    references:
+    - source: soundcloud.com-taraamoon-02-dayjoor-daygard-x-taraamoon
+      quote: Stream Dayjoor (Daygard x Taraamoon) by TARAAMOON • ْتَرامون | Listen online for free on SoundCloud
       accessed: '2026-11-21'
       locator: Page title
   release date:

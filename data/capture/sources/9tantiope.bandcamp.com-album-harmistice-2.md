@@ -24,3 +24,11 @@ Published date, read 2026-11-21.
 > https://f4.bcbits.com/img/a3445776915_10.jpg
 
 Release artwork, read 2026-11-21.
+
+> Voice and Lyrics by Sara Bigdeli Shamloo
+
+Artist interview, biography or performance credits, read 2026-11-21.
+
+> 9T Antiope
+
+Artist interview, biography or performance credits, read 2026-11-21.

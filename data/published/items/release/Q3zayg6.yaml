@@ -22,9 +22,11 @@ statements:
   - value: Qg776ck
     references:
     - source: www.youtube.com-watchv-lnn6ciipfzm
-      quote: Afarin Nazarijou
-      locator: Native performance, published credits, date or time code
+      quote: 'Arrangement and Qanun: Afarin Nazarijou'
+      locator: Native performance, release credits or dated catalogue
       accessed: '2026-11-21'
+    qualifiers:
+      role: qanun
   listen link:
   - value: https://www.youtube.com/watch?v=LNn6cIiPFZM
     references:
@@ -51,3 +53,12 @@ statements:
       quote: '2021-09-22T19:41:43-07:00'
       locator: Native performance, published credits, date or time code
       accessed: '2026-11-21'
+  contributor:
+  - value: Qg776ck
+    references:
+    - source: www.youtube.com-watchv-lnn6ciipfzm
+      quote: 'Arrangement and Qanun: Afarin Nazarijou'
+      locator: Native performance, release credits or dated catalogue
+      accessed: '2026-11-21'
+    qualifiers:
+      role: arranger

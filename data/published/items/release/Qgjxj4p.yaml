@@ -17,6 +17,14 @@ statements:
       quote: Bādbān | Taraamoon | Low-Zi Records
       accessed: '2026-11-21'
       locator: Page title
+  - value: Qz5swxp
+    references:
+    - source: lowzirecords.bandcamp.com-album-b-db-n
+      quote: Vocals/Lyrics of Taraamoon by Sara Bigdeli Shamloo
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: vocals
   contributor:
   - value: Qgncp5r
     references:
@@ -31,6 +39,24 @@ statements:
     references:
     - source: lowzirecords.bandcamp.com-track-eskeleh
       quote: Eskeleh | Taraamoon | Low-Zi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1560450120
+    references:
+    - source: music.apple.com-us-song-1560450120
+      quote: ‎Eskeleh - Song with Lyrics by Taraamoon - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/66OUkyHJfHkt3hWPBeaCNy
+    references:
+    - source: open.spotify.com-track-66oukyhjfhkt3hwpbeacny
+      quote: Eskeleh - song and lyrics by Taraamoon | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/taraamoon/08-eskeleh
+    references:
+    - source: soundcloud.com-taraamoon-08-eskeleh
+      quote: Stream Eskeleh by TARAAMOON • ْتَرامون | Listen online for free on SoundCloud
       accessed: '2026-11-21'
       locator: Page title
   release date:

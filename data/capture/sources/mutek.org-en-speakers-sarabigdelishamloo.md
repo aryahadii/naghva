@@ -12,3 +12,11 @@ status: processed
 > “Migrain Sq.” concert in “Veranos de la Villa” music festival - Madrid (2013)
 
 Artist interview, biography or performance credits, read 2026-11-21.
+
+> Born in Tehran, 1991
+
+Artist interview, biography or performance credits, read 2026-11-21.
+
+> she became the vocalist of "Migrain Sq."
+
+Artist interview, biography or performance credits, read 2026-11-21.

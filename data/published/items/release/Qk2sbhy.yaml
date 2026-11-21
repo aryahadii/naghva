@@ -1,0 +1,43 @@
+id: Qk2sbhy
+type: release
+statements:
+  name:
+  - value:
+      text: Wronka
+      language: en
+    references:
+    - source: open.spotify.com-track-6jpjz4s5fy4td25pzxn0gs
+      quote: Wronka - song and lyrics by SarrSew | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qz5swxp
+    references:
+    - source: open.spotify.com-track-6jpjz4s5fy4td25pzxn0gs
+      quote: Wronka - song and lyrics by SarrSew | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://open.spotify.com/track/6jPjZ4s5Fy4tD25pZxN0GS
+    references:
+    - source: open.spotify.com-track-6jpjz4s5fy4td25pzxn0gs
+      quote: Wronka - song and lyrics by SarrSew | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://apranikrecords.bandcamp.com/track/sarrsew-wronka
+    references:
+    - source: apranikrecords.bandcamp.com-track-sarrsew-wronka
+      quote: SarrSew - Wronka | Apranik Records
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d0000b273e9217b28a93420ceb1c60030
+    references:
+    - source: open.spotify.com-track-6jpjz4s5fy4td25pzxn0gs
+      quote: https://i.scdn.co/image/ab67616d0000b273e9217b28a93420ceb1c60030
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original digital edition
+        language: en
