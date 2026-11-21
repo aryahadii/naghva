@@ -48,16 +48,12 @@ references:
     accessed: '2026-10-19'
 ---
 
-Tara Salahi is a singer. According to the biography accompanying Cadence episode 19, she was born on 28 Ordibehesht 1376 and began singing lessons at six, when she was introduced to classical music and opera.[^bio][^classical]
+Tara Salahi is a singer born in 1997. She began with classical music and opera and made her first single, “Pas Chi Shod,” with Mehrad Hidden when she was sixteen.[^bio][^classical][^early]
 
-## Training and early collaborations
+## From opera to her first single
 
-The same account says she studied with Sara Naeini at twelve to explore a different style. It identifies her first single as Pas Chi Shod with مهراد هیدن.[^training][^early]
+Salahi was six when she began singing lessons with Hasmik Karapetian, who introduced her to classical music and opera. At twelve she wanted to try another style and began studying with [Sara Naeini](/en/sara-naeini-b23/).[^classical][^training] After “Pas Chi Shod,” she appeared as a guest on Hidden’s [“Arezoo”](#arezoo-feat-arash-dara-tara-salahi-xk8), alongside Arash Dara.[^early][^arezoo]
 
-## Recordings and performance
+## Booseh
 
-Her recordings include Booseh, with HEEN and [Nima Ramezan](/en/nima-ramezan-3cs/), and Zalem, released under her own name.[^booseh][^zalem] On Cadence, Salahi performed Booseh and an unreleased song accompanied by نامی جمشیدی. The programme description does not name the unreleased song or connect it to a later recording.[^session]
-
-## Featured recordings
-
-Salahi appears as a guest artist alongside Arash Dara on Mehrad Hidden’s Arezoo. She also features on RiaKokni’s Jaane Shirin.[^arezoo][^jaane]
+In 2024 Salahi released [“Booseh”](#booseh-single-xfp) with HEEN and [Nima Ramezan](/en/nima-ramezan-3cs/). She sang it on the music programme *Cadence*, where Nami Jamshidi accompanied her on that song and an unreleased piece.[^booseh][^session] The following year she released [“Zalem”](#zalem-single-4ed) under her own name and was a guest on RiaKokni’s [“Jaane Shirin”](#jaane-shirin-feat-tara-salahi-single-swd).[^zalem][^jaane]
