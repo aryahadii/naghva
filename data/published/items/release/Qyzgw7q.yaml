@@ -1,0 +1,23 @@
+id: Qyzgw7q
+type: release
+statements:
+  name:
+  - value:
+      text: NOOR
+      language: en
+    references:
+    - &id001
+      source: hooshyarkhayam.com-about-ed83731e418d
+      quote: a single track "NOOR" (Persian for "Light") by Soheil Mokhberi and Hooshyar Khayam
+      accessed: '2026-11-21'
+  performer:
+  - value: Q88zhb5
+    references:
+    - *id001
+  - value: Qsr6hr2
+    references:
+    - *id001
+  release type:
+  - value: single
+    references:
+    - *id001

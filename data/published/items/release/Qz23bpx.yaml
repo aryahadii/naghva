@@ -1,0 +1,47 @@
+id: Qz23bpx
+type: release
+statements:
+  name:
+  - value:
+      text: Thousand Acacias
+      language: en
+    references:
+    - &id001
+      source: hooshyarkhayam.com-discography
+      quote: 'Thousand Acacias
+
+        2010'
+      accessed: '2026-11-21'
+  performer:
+  - value: Qsr6hr2
+    references:
+    - source: music.apple.com-us-album-1567836554
+      quote: Listen to Thousand Acacias by Hooshyar Khayam
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2010'
+    references:
+    - *id001
+  listen link:
+  - value: https://music.apple.com/us/album/thousand-acacias/1567836554
+    references:
+    - source: music.apple.com-us-album-1567836554
+      quote: Listen to Thousand Acacias by Hooshyar Khayam
+      accessed: '2026-11-21'
+    - source: music.apple.com-us-album-1567836554
+      quote: '"datePublished":"2018-06-12"'
+      accessed: '2026-11-21'
+    - source: hooshyarkhayam.com-discography
+      quote: Hermes Records 2010, Tehran Records 2018
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ec/14/0a/ec140a3a-bfe2-7899-5c81-f0a03090db17/196006626129.jpg/632x632bb.webp
+    references:
+    - source: music.apple.com-us-album-1567836554
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ec/14/0a/ec140a3a-bfe2-7899-5c81-f0a03090db17/196006626129.jpg/632x632bb.webp
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en
