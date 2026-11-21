@@ -18,3 +18,9 @@ status: processed
 > He immigrated to the United States six years ago to "explore a new world," he says.
 
 Read 2026-11-14.
+
+Answers on the age he began playing and his family, 8 October 2011 interview. Read 2026-11-21.
+
+> I started at the age of seven.
+
+> My mother was the first one who taught me the technical aspect of traditional music and how to sing.
