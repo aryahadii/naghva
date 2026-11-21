@@ -1,0 +1,40 @@
+id: Qafzcpz
+type: release
+statements:
+  name:
+  - value:
+      text: Six
+      language: en
+    references:
+    - source: music.apple.com-us-album-525783940
+      quote: Listen to Six by Farzad Golpayegani
+      accessed: '2026-11-21'
+  performer:
+  - value: Qhxtgjj
+    references:
+    - source: music.apple.com-us-album-525783940
+      quote: Listen to Six by Farzad Golpayegani
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2012-05-01'
+    references:
+    - source: music.apple.com-us-album-525783940
+      quote: '"datePublished":"2012-05-01"'
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://music.apple.com/us/album/six/525783940
+    references:
+    - source: music.apple.com-us-album-525783940
+      quote: Listen to Six by Farzad Golpayegani
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music/v4/02/43/03/0243035d-a9f1-bb8e-9ac4-a57987bfc1d3/885767035546.jpg/600x600bb.webp
+    references:
+    - source: music.apple.com-us-album-525783940
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music/v4/02/43/03/0243035d-a9f1-bb8e-9ac4-a57987bfc1d3/885767035546.jpg/600x600bb.webp
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en
