@@ -65,3 +65,22 @@ statements:
       quote: '2023-09-10'
       accessed: 2026-11-21
       locator: Digital edition release date
+  contributor:
+  - value: Qevmv7f
+    qualifiers:
+      role:
+      - composer
+    references:
+    - source: www.bbc.com-persian-articles-c3gw3lppvevo
+      quote: ملودی این ترانه را جامین با برداشت آزادی از ترانه «بابا کرم» در چهارگاه موسیقی سنتی، ساخته است
+      accessed: 2026-11-21
+      locator: ساخت ملودی چشم
+  - value: Q2fdqjp
+    qualifiers:
+      role:
+      - lyricist
+    references:
+    - source: www.bbc.com-persian-articles-c3gw3lppvevo
+      quote: شعر «چشم»‌ را سروده
+      accessed: 2026-11-21
+      locator: سراینده

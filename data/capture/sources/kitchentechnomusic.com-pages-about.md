@@ -6,6 +6,7 @@ tier: own
 language: en
 about:
 - Natch Nadjafi
+- Hana Sabri
 status: processed
 ---
 
@@ -28,3 +29,11 @@ The collective’s origin, read 2026-11-21.
 > founded by Natch Nadjafi and Hana Sabri in 2023.
 
 Original label bio, read 2026-11-21.
+
+> founded by Natch Nadjafi and Hana Sabri in 2023
+
+Founding year, read 2026-11-21.
+
+> an aerial dance show combined with a techno party
+
+EXHALE in Austin, read 2026-11-21.

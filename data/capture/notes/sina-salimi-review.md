@@ -14,3 +14,5 @@ The studio, guest catalogue, Link Music Lab and credited Barzin recordings are r
 | Total | **8.6/10** |
 
 Catalogue needs repair and rendered reassessment. Both articles are readable. Pending significant additions are identified above.
+
+The subsequent independent reassessment in [Artist page scores](artist-page-scores.md) records the completed SoundCloud and Hafez repairs and a final 9.2/10. The first-pass findings above are retained as the review history.

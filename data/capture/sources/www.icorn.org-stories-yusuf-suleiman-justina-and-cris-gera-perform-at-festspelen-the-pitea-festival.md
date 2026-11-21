@@ -26,3 +26,7 @@ Festival dates, read 2026-11-21.
 > addresses women’s rights and broader social issues in Iran
 
 Lyrics, read 2026-11-21.
+
+> fellow Iranian artist Jamin
+
+Festival billing, read 2026-11-21.

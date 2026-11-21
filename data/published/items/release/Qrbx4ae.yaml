@@ -44,13 +44,19 @@ statements:
       quote: Sad Metr Zire Ab
       accessed: 2026-11-21
       locator: Apple recording name and billing
+  - value: https://youtu.be/KoLl6Y0yweg
+    references:
+    - source: youtu.be-koll6y0yweg
+      quote: Jamin X Justina - Sad Metr Zire Ab | OFFICIAL TRACK جامین و جاستینا - صد متر زیر آب
+      accessed: 2026-11-21
+      locator: Jamin artist channel
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2a/50/28/2a50284f-5ef7-acbc-90f9-48b91daf50fd/cover.jpg/1200x630bb.jpg
     references:
     - source: music.apple.com-us-album-sad-metr-zire-ab-single-1715276182
       quote: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2a/50/28/2a50284f-5ef7-acbc-90f9-48b91daf50fd/cover.jpg/1200x630bb.jpg
       accessed: 2026-11-21
-      locator: Apple edition artwork
+      locator: Edition artwork
   release date:
   - value:
       date: '2023-11-07'

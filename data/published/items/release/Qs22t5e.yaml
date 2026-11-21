@@ -1,0 +1,72 @@
+id: Qs22t5e
+type: release
+statements:
+  name:
+  - value:
+      text: بداهه خوانی
+      language: fa
+    references:
+    - source: music.apple.com-us-album-1780787342
+      quote: بداهه خوانی
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+  performer:
+  - value: Qncx8nb
+    references:
+    - source: music.apple.com-us-album-1780787342
+      quote: Samin Ghorbani
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: vocals
+  release date:
+  - value:
+      date: '2024-11-18'
+    references:
+    - source: music.apple.com-us-album-1780787342
+      quote: '2024-11-18'
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/32/58/33/3258331e-0811-9ac3-0523-fa1eba178326/cover.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-1780787342
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/32/58/33/3258331e-0811-9ac3-0523-fa1eba178326/cover.jpg/1200x630bb.jpg
+      locator: Edition artwork
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Apple Music · بداهه خوانی
+        language: en
+  release type:
+  - value: ep
+    references:
+    - source: music.apple.com-us-album-1780787342
+      quote: بداهه خوانی - EP
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://music.apple.com/us/album/%D8%A8%D8%AF%D8%A7%D9%87%D9%87-%D8%AE%D9%88%D8%A7%D9%86%DB%8C-ep/1780787342
+    references:
+    - source: music.apple.com-us-album-1780787342
+      quote: بداهه خوانی - EP
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/album/7zhdVb7EnUYLAdeTg3BRwy
+    references:
+    - source: open.spotify.com-embed-album-7zhdvb7enuyladetg3brwy
+      quote: بداهه خوانی
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+  - value: https://music.apple.com/us/song/%D8%A8%D8%AF%D8%A7%D9%87%D9%87-%D8%AE%D9%88%D8%A7%D9%86%DB%8C/1780787345
+    references:
+    - source: music.apple.com-us-album-1780787342
+      quote: بداهه خوانی
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/7bF9OtmkwQ08ggTxOqbAGY
+    references:
+    - source: open.spotify.com-embed-album-7zhdvb7enuyladetg3brwy
+      quote: بداهه خوانی
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'

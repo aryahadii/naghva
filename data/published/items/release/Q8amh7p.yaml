@@ -6,7 +6,8 @@ statements:
       text: Dastgamachine - Mahmood Schricker, Caleb Klager, Neonlichter - (live at Revival)
       language: en
     references:
-    - source: www.youtube.com-watch-v-txbhpbllpza
+    - &id001
+      source: www.youtube.com-watch-v-txbhpbllpza
       quote: Dastgamachine - Mahmood Schricker, Caleb Klager, Neonlichter - (live at Revival)
       accessed: '2026-11-21'
       locator: Recording title or artist credit
@@ -24,6 +25,9 @@ statements:
       quote: Dastgamachine - Mahmood Schricker, Caleb Klager, Neonlichter - (live at Revival)
       accessed: '2026-11-21'
       locator: Page title
+  - value: Q5b7pz5
+    references:
+    - *id001
   cover art:
   - value: https://i.ytimg.com/vi/txbHPBLLPZA/hqdefault.jpg
     references:

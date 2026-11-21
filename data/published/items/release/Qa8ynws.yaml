@@ -36,6 +36,12 @@ statements:
       quote: Rokhsat
       accessed: 2026-11-21
       locator: Native recording title
+  - value: https://youtu.be/m4qucOH_B18
+    references:
+    - source: youtu.be-m4qucoh_b18
+      quote: Jamin feat. Justina - Rokhsat | Cypher جامین و جاستینا - رخصت
+      accessed: 2026-11-21
+      locator: Jamin artist channel
   release date:
   - value:
       date: '2024-12-05'
@@ -50,4 +56,4 @@ statements:
     - source: music.apple.com-us-album-rokhsat-single-1783614932
       quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/dd/ac/1c/ddac1cd4-3ef3-a519-d2ef-d339d1417bf7/cover.jpg/1200x630bb.jpg
       accessed: 2026-11-21
-      locator: Apple edition artwork
+      locator: Edition artwork

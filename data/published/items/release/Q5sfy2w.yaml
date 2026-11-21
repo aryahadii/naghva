@@ -1,0 +1,66 @@
+id: Q5sfy2w
+type: release
+statements:
+  name:
+  - value:
+      text: Mona in Berlin
+      language: az
+    references:
+    - source: music.apple.com-us-album-1585429967
+      quote: Mona in Berlin
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+  performer:
+  - value: Qncx8nb
+    references:
+    - source: music.apple.com-us-album-1585429967
+      quote: Samin Ghorbani
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: vocals
+  - value: Q7kqp7e
+    references:
+    - source: music.apple.com-us-album-1585429967
+      quote: Carlos Libedinsky
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2021-09-17'
+    references:
+    - source: music.apple.com-us-album-1585429967
+      quote: '2021-09-17'
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c1/f9/7c/c1f97c7f-0f3e-5551-0e97-df1d63636c5d/196292414738.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-1585429967
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c1/f9/7c/c1f97c7f-0f3e-5551-0e97-df1d63636c5d/196292414738.jpg/1200x630bb.jpg
+      locator: Edition artwork
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Apple Music · Mona in Berlin
+        language: en
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-1585429967
+      quote: Mona in Berlin - Single
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://music.apple.com/us/album/mona-in-berlin-single/1585429967
+    references:
+    - source: music.apple.com-us-album-1585429967
+      quote: Mona in Berlin - Single
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/album/1Udf3WGmlR5t5egNAk0y4F
+    references:
+    - source: open.spotify.com-embed-album-1udf3wgmlr5t5egnak0y4f
+      quote: Mona in Berlin
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'

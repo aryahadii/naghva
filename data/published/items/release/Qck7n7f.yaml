@@ -38,6 +38,12 @@ statements:
       quote: Justina - Darim Miaym | OFFICIAL TRACK جاستینا - داریم میایم
       accessed: 2026-11-21
       locator: Artist channel video title
+  - value: https://youtu.be/G3HY_L7T5JU
+    references:
+    - source: youtu.be-g3hy_l7t5ju
+      quote: Justina - Darim Miaym | OFFICIAL MUSIC VIDEO جاستینا - داریم میاییم
+      accessed: 2026-11-21
+      locator: Jamin artist channel
   cover art:
   - value: https://i.ytimg.com/vi/dcVf0f88O30/hqdefault.jpg
     references:
@@ -45,3 +51,13 @@ statements:
       quote: Justina - Darim Miaym | OFFICIAL MUSIC VIDEO جاستینا - داریم میایم
       accessed: 2026-11-21
       locator: Artist channel video title
+  contributor:
+  - value: Qevmv7f
+    qualifiers:
+      role:
+      - producer
+    references:
+    - source: youtu.be-dcvf0f88o30
+      quote: 'Music Producer: Jamin @Jaamiiin'
+      accessed: 2026-11-21
+      locator: Production credit

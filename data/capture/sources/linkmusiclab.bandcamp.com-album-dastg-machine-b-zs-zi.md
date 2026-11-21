@@ -52,3 +52,11 @@ Recording title or artist credit, read 2026-11-21.
 > Jason Rule
 
 Recording title or artist credit, read 2026-11-21.
+
+> a raw excerpt of Zolfonoon
+
+Artist interview, biography or performance credits, read 2026-11-21.
+
+> Caleb dons his Wavemap alias to rework it
+
+Artist interview, biography or performance credits, read 2026-11-21.

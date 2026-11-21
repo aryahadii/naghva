@@ -36,3 +36,15 @@ Artist interview, biography or performance credits, read 2026-11-21.
 > Caleb Klager - synthetic sound
 
 Artist interview, biography or performance credits, read 2026-11-21.
+
+> the Toronto trio
+
+Artist interview, biography or performance credits, read 2026-11-21.
+
+> The rest of the tracks are mastered but not mixed due to stereo recordings at live events.
+
+Artist interview, biography or performance credits, read 2026-11-21.
+
+> Mani Bayat - Mixed and produced "Dar Sobh".
+
+Artist interview, biography or performance credits, read 2026-11-21.

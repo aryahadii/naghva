@@ -1,0 +1,72 @@
+id: Qc65tjt
+type: release
+statements:
+  name:
+  - value:
+      text: مثنوی افشاری
+      language: fa
+    references:
+    - source: music.apple.com-us-album-1780787821
+      quote: مثنوی افشاری
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+  performer:
+  - value: Qncx8nb
+    references:
+    - source: music.apple.com-us-album-1780787821
+      quote: Samin Ghorbani
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: vocals
+  release date:
+  - value:
+      date: '2024-11-18'
+    references:
+    - source: music.apple.com-us-album-1780787821
+      quote: '2024-11-18'
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ff/06/54/ff0654c9-4b1a-80be-7b9e-0bebab3ac552/cover.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-1780787821
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ff/06/54/ff0654c9-4b1a-80be-7b9e-0bebab3ac552/cover.jpg/1200x630bb.jpg
+      locator: Edition artwork
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Apple Music · مثنوی افشاری
+        language: en
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-1780787821
+      quote: مثنوی افشاری - Single
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://music.apple.com/us/album/%D9%85%D8%AB%D9%86%D9%88%DB%8C-%D8%A7%D9%81%D8%B4%D8%A7%D8%B1%DB%8C-single/1780787821
+    references:
+    - source: music.apple.com-us-album-1780787821
+      quote: مثنوی افشاری - Single
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/album/4xqt8BASwvFiopbZBGwfCb
+    references:
+    - source: open.spotify.com-embed-album-4xqt8baswvfiopbzbgwfcb
+      quote: مثنوی افشاری
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+  - value: https://music.apple.com/us/song/%D9%85%D8%AB%D9%86%D9%88%DB%8C-%D8%A7%D9%81%D8%B4%D8%A7%D8%B1%DB%8C/1780787830
+    references:
+    - source: music.apple.com-us-album-1780787821
+      quote: مثنوی افشاری
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/1LlSzCnspYQ15JQY3RLWsP
+    references:
+    - source: open.spotify.com-embed-album-4xqt8baswvfiopbzbgwfcb
+      quote: مثنوی افشاری
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'

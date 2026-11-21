@@ -59,12 +59,16 @@ The expansion started at revision fa6c29ca with 124 bilingual artist pages. The 
 | Cyminology | Qsyrehn | 9.2/10 | [Cyminology](cyminology-independent-review.md) |
 | Unland | Qs2xmxr | 9.3/10 | [Unland](unland-review.md) |
 | Cymin Samawatie | Qnessyd | 9.2/10 | [Cymin Samawatie](cymin-samawatie-independent-review.md) |
-| Mahmood Schricker | Qxkh2tz | Pending | [Catalogue](mahmood-schricker.md) |
+| Mahmood Schricker | Qxkh2tz | 9.2/10 | [Mahmood Schricker](artist-page-scores.md) |
 | The Casualty Process | Qmdmc89 | 9.2/10 | [The Casualty Process](artist-page-scores.md) |
-| Trickster Orchestra | Q6jjfq6 | 8.0/10 | [Trickster Orchestra](artist-page-scores.md) |
-| Nazanin Noori | Qk45pkn | 8.6/10 | [Nazanin Noori](nazanin-noori-review.md) |
-| Cinna Peyghamy | Q4q92dh | Pending | [Catalogue](cinna-peyghamy.md) |
-| Natch Nadjafi | Qxxp9ab | Pending | [Catalogue](natch-nadjafi.md) |
-| Justina | Q2fdqjp | Pending | [Catalogue](justina.md) |
+| Trickster Orchestra | Q6jjfq6 | 9.2/10 | [Trickster Orchestra](artist-page-scores.md) |
+| Nazanin Noori | Qk45pkn | 9.2/10 | [Nazanin Noori](nazanin-noori-review.md) |
+| Cinna Peyghamy | Q4q92dh | 9.2/10 | [Cinna Peyghamy](cinna-peyghamy-review.md) |
+| Natch Nadjafi | Qxxp9ab | 9.2/10 | [Natch Nadjafi](natch-nadjafi-independent-review.md) |
+| Justina | Q2fdqjp | 8.6/10 | [Justina](justina-independent-review.md) |
+| Hana Sabri | Q2ehc6a | Pending | [Catalogue](hana-sabri.md) |
+| Jamin | Qevmv7f | Pending | [Catalogue](jamin.md) |
+| Samin Ghorbani | Qncx8nb | Pending | [Catalogue](samin-ghorbani.md) |
+| Dastgâmachine | Q5b7pz5 | Pending | [Catalogue](dastgamachine.md) |
 
 The [discovery list](independent-artist-discovery.md) contains candidates with release leads. Some will prove ineligible or match an existing artist by another spelling. Only new artist pages count toward the target.

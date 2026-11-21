@@ -1,0 +1,72 @@
+id: Qx9nrw9
+type: release
+statements:
+  name:
+  - value:
+      text: آواز شوشتری
+      language: fa
+    references:
+    - source: music.apple.com-us-album-1780787807
+      quote: آواز شوشتری
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+  performer:
+  - value: Qncx8nb
+    references:
+    - source: music.apple.com-us-album-1780787807
+      quote: Samin Ghorbani
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: vocals
+  release date:
+  - value:
+      date: '2024-11-18'
+    references:
+    - source: music.apple.com-us-album-1780787807
+      quote: '2024-11-18'
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5d/2f/3d/5d2f3d80-c95d-8968-c7cb-bc88167f858d/cover.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-1780787807
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5d/2f/3d/5d2f3d80-c95d-8968-c7cb-bc88167f858d/cover.jpg/1200x630bb.jpg
+      locator: Edition artwork
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Apple Music · آواز شوشتری
+        language: en
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-1780787807
+      quote: آواز شوشتری - Single
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://music.apple.com/us/album/%D8%A2%D9%88%D8%A7%D8%B2-%D8%B4%D9%88%D8%B4%D8%AA%D8%B1%DB%8C-single/1780787807
+    references:
+    - source: music.apple.com-us-album-1780787807
+      quote: آواز شوشتری - Single
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/album/3a28x6XTtM8p9vWzz1Nzki
+    references:
+    - source: open.spotify.com-embed-album-3a28x6xttm8p9vwzz1nzki
+      quote: آواز شوشتری
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+  - value: https://music.apple.com/us/song/%D8%A2%D9%88%D8%A7%D8%B2-%D8%B4%D9%88%D8%B4%D8%AA%D8%B1%DB%8C/1780788079
+    references:
+    - source: music.apple.com-us-album-1780787807
+      quote: آواز شوشتری
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/5Q7reJLdrVbc992sYBHrM8
+    references:
+    - source: open.spotify.com-embed-album-3a28x6xttm8p9vwzz1nzki
+      quote: آواز شوشتری
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'

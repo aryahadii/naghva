@@ -1,0 +1,47 @@
+id: Q2hmydk
+type: release
+statements:
+  name:
+  - value:
+      text: Shirin · The Female Voice of Iran
+      language: en
+    references:
+    - source: www.zeitgenoessische-oper.de-produktionen-femalevoiceofiran-film
+      quote: Shirin Azerbaijani Lullaby
+      locator: Music or festival film credits
+      accessed: '2026-11-21'
+  performer:
+  - value: Qncx8nb
+    references:
+    - source: www.zeitgenoessische-oper.de-produktionen-femalevoiceofiran-film
+      quote: Azerbaijani Lullaby, Samin Ghorbani – Voice
+      locator: Music or festival film credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: vocals
+  release date:
+  - value:
+      date: '2020'
+    references:
+    - source: www.zeitgenoessische-oper.de-produktionen-femalevoiceofiran-film
+      quote: (2020)
+      locator: Music or festival film credits
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://www.youtube.com/watch?v=sQD3Mav3vas
+    references:
+    - source: www.youtube.com-oembed-sqd3mav3vas
+      quote: The Female Voice of Iran
+      locator: Music or festival film credits
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://i.ytimg.com/vi/sQD3Mav3vas/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-sqd3mav3vas
+      quote: https://i.ytimg.com/vi/sQD3Mav3vas/hqdefault.jpg
+      locator: Film or video image
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: CrossGeneration Media
+        language: en

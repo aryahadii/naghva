@@ -18,6 +18,14 @@ statements:
       quote: Justina - Ghabl o Ba'd | OFFICIAL TRACK جاستینا - قبل و بعد
       accessed: 2026-11-21
       locator: Artist channel video title
+  - value:
+      text: Ghablo Bad
+      language: en
+    references:
+    - source: play.radiojavan.com-album-justina-mosht--ep
+      quote: Ghablo Bad
+      accessed: 2026-11-21
+      locator: Mosht track list
   performer:
   - value: Q2fdqjp
     references:
@@ -39,3 +47,11 @@ statements:
       quote: Justina - Ghabl o Ba'd | OFFICIAL TRACK جاستینا - قبل و بعد
       accessed: 2026-11-21
       locator: Artist channel video title
+  release date:
+  - value:
+      date: '2014-04-20'
+    references:
+    - source: play.radiojavan.com-album-justina-mosht--ep
+      quote: Apr 20, 2014
+      accessed: 2026-11-21
+      locator: Issue date

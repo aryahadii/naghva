@@ -6,6 +6,7 @@ tier: own
 language: en
 about:
 - Natch Nadjafi
+- Hana Sabri
 status: processed
 ---
 
@@ -20,3 +21,7 @@ Release date, read 2026-11-21.
 > https://i1.sndcdn.com/artworks-jHHgzQQwVdciQM2z-nK1LFA-large.png
 
 Original release image, read 2026-11-21.
+
+> Hana Sabri b2b Natch Nadjafi
+
+Original tape title, read 2026-11-21.

@@ -42,13 +42,19 @@ statements:
       quote: Noosh
       accessed: 2026-11-21
       locator: Native recording title
+  - value: https://youtu.be/Fkl1TKpDGbI
+    references:
+    - source: youtu.be-fkl1tkpdgbi
+      quote: Jamin x Justina - Noosh | OFFICIAL AUDIO جامین و جاستینا - نوش
+      accessed: 2026-11-21
+      locator: Jamin artist channel
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/15/62/1115621f-1157-bc51-ad86-9f440922bea2/cover.jpg/1200x630bb.jpg
     references:
     - source: music.apple.com-us-album-noosh-single-1816558177
       quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/15/62/1115621f-1157-bc51-ad86-9f440922bea2/cover.jpg/1200x630bb.jpg
       accessed: 2026-11-21
-      locator: Apple edition artwork
+      locator: Edition artwork
   release date:
   - value:
       date: '2025-05-25'

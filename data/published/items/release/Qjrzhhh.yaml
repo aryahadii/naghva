@@ -42,13 +42,19 @@ statements:
       quote: Scenario
       accessed: 2026-11-21
       locator: Native recording title
+  - value: https://youtu.be/f12GOx89QwI
+    references:
+    - source: youtu.be-f12gox89qwi
+      quote: Jamin ft. Justina - Scenario | OFFICIAL TRACK
+      accessed: 2026-11-21
+      locator: Jamin artist channel
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/df/02/35df0271-2dec-b72c-4e2c-74b72d57041f/cover.jpg/1200x630bb.jpg
     references:
     - source: music.apple.com-us-album-scenario-feat-justina-single-1768086544
       quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/df/02/35df0271-2dec-b72c-4e2c-74b72d57041f/cover.jpg/1200x630bb.jpg
       accessed: 2026-11-21
-      locator: Apple edition artwork
+      locator: Edition artwork
   release date:
   - value:
       date: '2024-09-12'

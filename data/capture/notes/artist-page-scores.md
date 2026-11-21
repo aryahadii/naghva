@@ -176,3 +176,15 @@ Independent review on 2026-11-21. **9.2/10** · Sources 1.9, prose 1.9, recordin
 ### Trickster Orchestra
 
 First independent review on 2026-11-21. **8.0/10** · Sources 1.8, prose 1.6, recordings 2.0, images 1.0, gaps and reader experience 1.6. The 27-panel English and Persian pages (5531edc2871c and 234cd96ccd5e) decoded all 27 images with intact fragment links. The 2026 WDR set lists multiple recorded works beyond the present entries. The orchestra's own Linktree links a second album with Pantopia Music. The pre-renaming ensemble is documented on its original 2013 performance film. Article and catalogue await reconciliation.
+
+### Mahmood Schricker
+
+Independent review on 2026-11-21. **9.2/10** · Sources 1.9, prose 1.9, recordings 2.6, images 1.0, gaps and reader experience 1.8. The 124-panel English and Persian pages (bcb2c7a4e6e5 and b480a0db3ec5) each decoded all 243 images and all fragments resolved. Farhang confirms the separate Through the Breeze score, including no defensible publication year. The Radio Dreams distributor explicitly credits the original film music. Cinna Peyghamy's label credits the setar sample on the specific Divân track. His personal catalogue and the ensemble and label issues preserve these distinctions. Catalogue and article ready.
+
+### Trickster Orchestra, second independent review
+
+Independent review on 2026-11-21. **9.2/10** · Sources 1.9, prose 1.9, recordings 2.7, images 0.9, gaps and reader experience 1.8. Both 40-panel pages (English f12b236ecbea and Persian ccb4e94846e5) include all four Pantopia performances, the programme album, and the eight newly reconciled WDR selections. The August 2013 Heimathafen recording and 2018 renaming support the opening chronology. Pantopia’s own programme distinguishes unguided from conducted improvisation. All 27 available images decoded and no fragment was broken. Catalogue and article ready.
+
+### Natch Nadjafi
+
+Independent review on 2026-11-21. **9.2/10** · Sources 1.9, prose 1.9, recordings 2.6, images 1.0, gaps and reader experience 1.8. Both 64-panel pages (English 6b526665870b and Persian 5a84930e58a8) decoded all 91 images in the main content and contain working fragments. The early interview and original band releases substantiate his musical development and experience with Amini. The contemporary Kitchen Techno sources verify the Austin collaboration with Hana Sabri and dedicated mixes. Commercial promotional use in connection with Desert Dancer is documented as unresolved at composition level. Catalogue and article ready.
