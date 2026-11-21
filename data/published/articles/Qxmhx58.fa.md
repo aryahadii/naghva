@@ -111,6 +111,52 @@ references:
     quote: Parçalarını kendi plak şirketi Sahba Records etiketiyle yayımlayan Marie
     accessed: '2026-11-21'
     locator: Original single premiere
+  early:
+    source: www.underdusken.no-musikk-radio-revolt---ny-musikk-pa-spillelistene-146419
+    quote: Marie Sahba, tidligere kjent som Marie Denise, er ute med sin første singel under nytt navn, «Black Veil».
+    locator: January 2017 radio introduction
+    accessed: '2026-11-21'
+  selfprod:
+    source: primstaven.shop-marie-sahba-pa-primstaven-avlyst
+    quote: «Take Me Back» som også var den første låta hun produserte selv
+    locator: Production history
+    accessed: '2026-11-21'
+  live:
+    source: www.undertheradarmag.com-media-limbo_live_video
+    quote: stripped-down live video for her new single “Limbo.”
+    locator: 27 January 2015, performance and original single
+    accessed: '2026-11-21'
+  mix:
+    source: www.undertheradarmag.com-news-premiere_marie_denise_tronheim_calling_edition
+    quote: singer/songwriter Marie Denise made us a mix that she calls Some Norwegian Love For The Norwegian Cold.
+    locator: 23 January 2015, introduction
+    accessed: '2026-11-21'
+  king:
+    source: www.qobuz.com-us-en-album-1992-denim-baby-king-george-viii-th97wb8923mla
+    quote: Marie Denise Aune Sahba, Composer
+    locator: Track 1 credits
+    accessed: '2026-11-21'
+  biff:
+    source: www.biff.no-f-norsk-musikkvideo-2024-5585
+    quote: 'Regissør: Çağla Çağlar, Emre Köktaş | Produsent: Marie Sahba'
+    locator: A Billion Years Too Soon, programme credits
+    accessed: '2026-11-21'
+  mother:
+    source: special.azertag.az-en-xeber-4430763
+    quote: Sahba lost her mother in 2025
+    locator: Nothing Lasts Forever, origin
+    accessed: '2026-11-21'
+  newguest:
+    source: special.azertag.az-en-xeber-4430763
+    quote: the santur, played by acclaimed Norwegian-Iranian composer and musician Javid Afsari Rad
+    locator: Recording credit
+    accessed: '2026-11-21'
+  production:
+    source: special.azertag.az-en-xeber-4430763
+    quote: Marie Sahba wrote the song and also produced it together with her longtime musical collaborator Martin
+      Vinje.
+    locator: Songwriting and production
+    accessed: '2026-11-21'
 ---
 
 Marie Sahba ترانه‌سرا و آهنگساز موسیقی الکترونیک است. در تروندهایم نروژ به دنیا آمد. پدرش آذربایجانیِ اهل ایران و مادرش نروژی بود. به انگلیسی و ترکی آذربایجانی می‌خواند. خاطره‌هایی که پدرش از ارومیه و استانبول تعریف می‌کرد به ترانه‌هایش راه یافتند، از مجموعهٔ کوتاه «[Azeri Baby](#azeri-baby-cd7)» تا نخستین آلبومش، «[A Billion Years Too Soon](#a-billion-years-too-soon-83f)».[^roots][^dj][^words][^story][^ded][^album][^questions]
@@ -119,10 +165,12 @@ Marie Sahba ترانه‌سرا و آهنگساز موسیقی الکترونی�
 
 حدود هشت سال داشت که پشت پیانو می‌نشست و با زمزمه کردن ملودی می‌ساخت. در دبیرستان پیانوی کلاسیک خواند و بعد به سراغ آواز رفت. در خانه کنار پدرش اجرای خواننده‌های آذربایجانی و ترک را از تلویزیون تماشا می‌کرد و پای خاطرات او از شهرهایی که در آن‌ها زندگی کرده بود می‌نشست.[^piano][^study][^home][^story]
 
-نخستین تک‌آهنگش «Take Me Back» در سال ۲۰۱۹ منتشر شد. نخستین مجموعهٔ کوتاهش «Out of Control» را هم همان سال با نشر خودش، Sahba Records، بیرون داد. هنگام ساختن «Azeri Baby» در سال ۲۰۲۱ پدرش را از دست داد و آن مجموعه را به او تقدیم کرد. جاوید افسری راد، نوازندهٔ ایرانی سنتور، در قطعهٔ اول آن، «Sevirem»، همراهی‌اش کرد.[^debut][^label][^own][^father][^ded][^guest]
+در سال ۲۰۱۵ با نام Marie Denise از اجرای «Limbo» با گروهش فیلم گرفت و برای جشنوارهٔ Trondheim Calling مجموعه‌ای از موسیقی هنرمندان نروژی گرد آورد.[^live][^mix] در سال ۲۰۱۷ «Black Veil» را منتشر کرد، نخستین تک‌آهنگی که روی آن نام Marie Sahba آمده بود. دو سال بعد، برای نخستین بار تهیه‌کنندگی یکی از ترانه‌هایش، «Take Me Back»، را خودش بر عهده گرفت.[^early][^selfprod] نخستین مجموعهٔ کوتاهش «Out of Control» را هم همان سال با نشر خودش، Sahba Records، بیرون داد. در سال ۲۰۲۰ یکی از آهنگسازان «[1992 Denim/Baby](https://music.apple.com/us/song/1992-denim-baby/1530605469)» برای King George VIII بود.[^king] هنگام ساختن «Azeri Baby» در سال ۲۰۲۱ پدرش را از دست داد و آن مجموعه را به او تقدیم کرد. جاوید افسری راد، نوازندهٔ ایرانی سنتور، در قطعهٔ اول آن، «Sevirem»، همراهی‌اش کرد.[^debut][^label][^own][^father][^ded][^guest]
 
 ## استانبول و دریاچهٔ ارومیه
 
-یک سال پس از مرگ پدرش، روی پل گالاتای استانبول قدم می‌زد. با خودش فکر کرد پدرش وقتی در هجده‌سالگی از ایران به این شهر آمده بود، در کنار آب چه حس‌وحالی داشت. ترانهٔ «A Billion Years Too Soon» را با همین پرسش نوشت. برای ساخت موزیک‌ویدئوی آن هم در استانبول با امره کوکتاش، کارگردان ترک، همکاری کرد.[^bridge][^questions][^fatherage][^shoot]
+یک سال پس از مرگ پدرش، روی پل گالاتای استانبول قدم می‌زد. با خودش فکر کرد پدرش وقتی در هجده‌سالگی از ایران به این شهر آمده بود، در کنار آب چه حس‌وحالی داشت. ترانهٔ «A Billion Years Too Soon» را با همین پرسش نوشت. برای ساخت موزیک‌ویدئوی آن به استانبول بازگشت و خودش تهیه‌کنندگی آن را بر عهده گرفت. جشنوارهٔ بین‌المللی فیلم برگن در سال ۲۰۲۴ این ویدئو را به کارگردانی چاغلا چاغلار و امره کوکتاش نمایش داد.[^biff][^bridge][^questions][^fatherage][^shoot]
 
 آلبوم را با مارتین وینیه نوشت و تهیه کرد. در قطعهٔ «[Orumiyeh](#orumiyeh-rrt)» صدای ضربان قلب را گنجاند تا اندوهش از آب رفتن دریاچه را به گوش شنونده برساند. آلبوم در فوریهٔ ۲۰۲۴ منتشر شد. همان سال در نروژ و ترکیه تور داشت و در استانبول، آنکارا، آدانا، باتمان و دیاربکر روی صحنه رفت.[^vinje][^lake][^beat][^album][^tour]
+
+پس از مرگ مادرش در سال ۲۰۲۵، ترانهٔ «Nothing Lasts Forever» را نوشت. این بار هم خودش و وینیه تهیه‌کننده بودند و افسری راد سنتور نواخت. تک‌آهنگ در سپتامبر ۲۰۲۶ منتشر شد.[^mother][^newguest][^production]

@@ -1,0 +1,7 @@
+# Independent review of Marie Sahba
+
+The first rendered bilingual pages had 93 recording panels and 193 decoded images per locale. The English desktop and Persian mobile widths matched the 1,280 and 390 pixel viewports, and no local recording fragments failed. All twenty entries from NRK P3 Urørt map to titles or versions already represented here. The original label and album sessions are clearly differentiated.
+
+An earlier recording career contradicts the supposed absolute 2019 debut. Under the name Marie Denise the artist released a 2015 live performance of Limbo and prepared the published Trondheim Calling mixtape Some Norwegian Love for the Norwegian Cold. She performed at Trondheim Calling in 2015. Radio Revolt identifies Black Veil as her first single under the Marie Sahba name, in 2017. The label’s more recent biography calls Take Me Back her debut. Sofar Sounds also published a separate live performance of A Billion Years Too Soon in Ankara. Initial score 8.2/10, comprising sources 1.6/2, article 1.6/2, catalogue 2.4/3, images 0.9/1 and reader experience 1.7/2. Article and catalogue await reconciliation.
+
+[2015 live Limbo recording](https://www.undertheradarmag.com/media/limbo_live_video) · [2017 single and earlier name](https://www.underdusken.no/musikk/radio-revolt---ny-musikk-pa-spillelistene/146419) · [Sofar Ankara performance](https://www.youtube.com/watch?v=S7-oo19P1Uc) · [NRK P3 Urørt artist repertoire](https://urort.p3.no/artist/marie-sahba)

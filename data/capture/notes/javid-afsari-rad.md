@@ -150,3 +150,5 @@ Apple listings were searched for Javid, his ensemble and his other named groups,
 - Lille Måltrost · https://music.apple.com/us/song/lille-ma-ltrost/6809807222 · https://open.spotify.com/track/5hkiQ4XbdRz0bkK3u5g59A
 - Resirkulerte Rim og Regler · https://music.apple.com/us/album/resirkulerte-rim-og-regler/1649563483 · https://open.spotify.com/album/60gfwSXosLn4ra8x6cVuV7
 - Lille måltrost – persisk · No verified public full-length link
+
+The AZERTAC interview on Marie Sahba’s September 2026 single Nothing Lasts Forever credits Afsari Rad on santur. This additional performance was reconciled during her article review and appears on both artists’ pages.

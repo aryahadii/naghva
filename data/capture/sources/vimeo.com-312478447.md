@@ -24,3 +24,15 @@ Artist, venue or original production credits, read 2026-11-21.
 > Concept, Composition, Artistic Direction
 
 Artist, venue or original production credits, read 2026-11-21.
+
+> Erzählungen aus der Lagune – Deutsche Oper Berlin - Amen Feizabadi (Documentation)
+
+Page title, read 2026-11-21.
+
+> Concept, Composition, Artistic Direction Amen Feizabadi
+
+Published credits, read 2026-11-21.
+
+> Live electronics Amen Feizabadi
+
+Published credits, read 2026-11-21.

@@ -104,3 +104,15 @@ Independent review on 2026-11-21. **8.4/10** · Sources 1.9, prose 1.8, recordin
 ### Haale, second independent review on 2026-11-21
 
 **8.9/10** · Sources 1.9, prose 1.9, recordings 2.5, images 0.9, gaps and reader experience 1.7. English and Persian hashes are `2895dc4fbde2` and `7cc39acd5f78`. Both pages have 48 recordings and 20 sources. All 75 images decoded per language and all fragment links resolved. The newly sourced article connects the instrument maker’s dotar, her purchase of a setar, and her return to the Persian songs she heard as a child. Filmed songs from Le Poisson Rouge and the MacDowell benefit are present. The author’s description explicitly identifies the omitted New York Public Library performance of Rumi on Dancing as sung in Persian and then recited in English. Her Konya excerpt is described as a presentation. Article ready, catalogue needs the NYPL item.
+
+### Haale, third independent review on 2026-11-21
+
+**9.1/10** · Sources 1.9, prose 1.9, recordings 2.6, images 0.9, gaps and reader experience 1.8. English and Persian hashes are `6f7f37c73ace` and `2e83a42b9042`. The omitted NYPL recording now resolves to the artist’s own film, which identifies the Persian singing and English recitation. Both pages have 49 recording panels and 21 sources. All 77 images per language decoded and all internal fragments resolved. Article and catalogue ready for the documented musical recordings. Some separately posted lectures and question-and-answer sessions remain outside the catalogue.
+
+## Amen Feizabadi · Qd5zat9
+
+Independent review on 2026-11-21. **8.2/10** · Sources 1.9, prose 1.9, recordings 1.8, images 0.9, gaps and reader experience 1.7. English and Persian hashes are `57b57f160942` and `dcecc33cfdd7`. Both pages have one recording, thirteen sources, three decoded images and working internal fragments. The articles describe the early use of archival phone recordings, the two-stage work in Tehran and Berlin and the creation of Deep Siesta. Primary production credits establish that he played live electronics on the filmed Erzählungen aus der Lagune and Collective Opus 135 performances. Add the two musician credits and corresponding recording panels. The Vimeo originals can remain linked in prose under the listening-host rules. Catalogue requires repair.
+
+### Amen Feizabadi, second independent review on 2026-11-21
+
+**9.1/10** · Sources 1.9, prose 1.9, recordings 2.6, images 0.9, gaps and reader experience 1.8. English and Persian page hashes are `cd393521e6f1` and `31b4b947adf6`. Each page has three recording panels. The artist’s Laguna film and the label’s Berlin film credit him with live electronics. The composer credits for the Banat production, the film with Justina and the solo flute piece are distinct from his own performances. All three images decoded in each language and all internal fragments resolved. The November 2024 TCS performance is documented as an event; no public recording was verified. Catalogue and article ready.

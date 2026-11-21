@@ -145,6 +145,36 @@ references:
     quote: WERGO Release 2026
     accessed: '2026-11-21'
     locator: Artist, venue or original production credits
+  live-lagune:
+    source: vimeo.com-312478447
+    quote: Live electronics Amen Feizabadi
+    accessed: '2026-11-21'
+    locator: Published credits
+  live-opus:
+    source: vimeo.com-648065384
+    quote: Amen Feizabadi, Live Electronics
+    accessed: '2026-11-21'
+    locator: Published credits
+  homafilm:
+    source: ag-kurzfilm.de-index.php-film-4478-lang-en-node-katalog_suche
+    quote: Justina, Amen Feizabadi
+    accessed: '2026-11-21'
+    locator: Published credits
+  flutist:
+    source: t.me-s-iranflutehome-before-152
+    quote: با نوازندگی فلوت کوشیار شاهرودی
+    accessed: '2026-11-21'
+    locator: Published credits
+  flute-work:
+    source: t.me-s-iranflutehome-before-152
+    quote: در پنج پرده
+    accessed: '2026-11-21'
+    locator: Published credits
+  banat:
+    source: vimeo.com-675397937
+    quote: Amen Feizabadi, composer, artistic direction
+    accessed: '2026-11-21'
+    locator: Published credits
 ---
 
 آمین فیض‌آبادی آهنگساز و فیلمساز ایرانی‌آلمانی است. در سال ۱۹۸۳ در تهران به دنیا آمد، در کودکی سه‌تار آموخت و پیش از آنکه به آهنگسازی روی بیاورد فلوت خواند. در آثار تئاتر موسیقی‌اش صداهای ضبط‌شده و تصاویر متحرک کنار خوانندگان و نوازندگان روی صحنه قرار می‌گیرند.[^job][^country][^birth][^lute][^flute][^strings][^toranj]
@@ -153,10 +183,10 @@ references:
 
 فیض‌آبادی سه‌تار را شنیداری یاد گرفت. در دانشگاه هنر تهران موسیقی ایرانی خواند و ساز اصلی‌اش فلوت بود. سپس در دانشگاه هنر فولک‌وانگ در شهر اِسن آهنگسازی آموخت. نخستین قطعهٔ فهرست آثارش، [«Telling a Story (Dancing Toranj II)»](https://vimeo.com/44208927)، را در سال‌های ۲۰۱۰ و ۲۰۱۱ برای پنج فلوت، دو صدا و سه‌تار نوشت. در این اثر از صدا و تصویری استفاده کرد که معترضان در ایران با گوشی‌هایشان ضبط کرده بودند.[^lute][^flute][^essen][^first][^earlydate][^toranj][^phone]
 
-در سال ۲۰۱۸ آهنگسازی و کارگردانی هنری [«فاصله‌ی کانونی»](https://vimeo.com/312478447) را به عهده گرفت. اثر را برای دو صحنه طراحی کرده بود؛ در سپتامبر در تئاتر مستقل تهران و در نوامبر در دویچه اُپر برلین به اجرا درآمد. در [«Collective, Op. 135»](https://vimeo.com/731742708) کوارتت زهی سونار را با آواز، بازیگری، ویدیوی زنده، رقص و زبان اشاره همراه کرد. موسیقی این نمایش از آخرین کوارتت زهی کامل بتهوون و یکی از آثار ناتمام او مایه می‌گرفت. الهام کردا متن را نوشته بود.[^idea][^lag][^cities][^year18][^ber][^strings][^quartet][^beethoven][^text]
+در سال ۲۰۱۸ آهنگسازی و کارگردانی هنری [«فاصله‌ی کانونی»](https://vimeo.com/312478447) را به عهده گرفت. اثر را برای دو صحنه طراحی کرده بود؛ در سپتامبر در تئاتر مستقل تهران و در نوامبر در دویچه اُپر برلین به اجرا درآمد. در [«Collective, Op. 135»](https://vimeo.com/731742708) کوارتت زهی سونار را با آواز، بازیگری، ویدیوی زنده، رقص و زبان اشاره همراه کرد. موسیقی این نمایش از آخرین کوارتت زهی کامل بتهوون و یکی از آثار ناتمام او مایه می‌گرفت. الهام کردا متن را نوشته بود. فیض‌آبادی در هر دو نمایش اجرای زندهٔ بخش الکترونیک را به عهده داشت.[^live-lagune][^live-opus][^idea][^lag][^cities][^year18][^ber][^strings][^quartet][^beethoven][^text]
 
 ## صداهای اپرای «Deep Siesta»
 
 فیض‌آبادی در سال ۲۰۲۳، در دورهٔ اقامت هنری در آکادمی فرهنگی تارابیا، با دیلک مایاتورک، نویسنده، آشنا شد. اپرای مجلسی آن دو، [«Deep Siesta»](/fa/yalda-zamani-rte/#feizabadi-deep-siesta-eine-kammerhoroper-in-drei-akten-mit-prolog-wc9)، داستان دو موجود مصنوعی به نام‌های اوک و مانی است که دنیای انسان‌ها را کشف می‌کنند. زبان متن مایاتورک از آلمانی به فارسی تغییر می‌کند. در کنار آنسامبل، صدای ضبط‌شدهٔ گروه کُر پسران مؤسسهٔ موسیقی ودا در تهران به رهبری سودابه سالم نیز شنیده می‌شود. ضبط این اثر به رهبری یلدا زمانی در سال ۲۰۲۶ در نشر وِرگو منتشر شد.[^meet][^opera][^ai][^story][^lang][^choir][^conduct][^label]
 
-فیض‌آبادی بیرون از صحنهٔ تئاتر هم موسیقی ضبط کرده است. او هنرمند مهمانِ آنکیدو داراش در قطعهٔ [«Colors for Being Quarantined»](#colors-for-being-quarantined-2zv) بود که در مه ۲۰۲۴ منتشر شد.[^colors][^colordate]
+فیض‌آبادی بیرون از صحنهٔ تئاتر هم موسیقی ضبط کرده است. او هنرمند مهمانِ آنکیدو داراش در قطعهٔ [«Colors for Being Quarantined»](#colors-for-being-quarantined-2zv) بود که در مه ۲۰۲۴ منتشر شد.[^colors][^colordate] فیض‌آبادی [«در پنج پرده»](https://www.aparat.com/v/BqD1v) را برای فلوت سولو نوشت و کوشیار شاهرودی آن را نواخت. او همچنین یکی از آهنگسازان [«Unified Voices of Banat»](https://vimeo.com/675397937) بود و موسیقی فیلم «سکوت هما» را همراه با جاستینا ساخت.[^flutist][^flute-work][^banat][^homafilm]

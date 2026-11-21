@@ -105,3 +105,7 @@ The photographed person on the official biography was visually checked; the page
 - Dancing Alone - Marie Sahba (Vocal Video) · https://www.youtube.com/watch?v=EWsweUGz9s4
 - Marie Sahba - Dancing Alone (Lyric Video) · https://www.youtube.com/watch?v=83TRondoaQU
 - Marie Sahba - Take Me Back (Lyric Video) · https://www.youtube.com/watch?v=LdUudIrPADc
+
+## Early material and independent corrections
+
+Radio Revolt's January 2017 embed and Spotify's own track page identify Black Veil as the first single under the name Marie Sahba. Her former name was Marie Denise. Under the Radar issued her 2015 festival mix on Mixcloud and documented her band's live video for Limbo on Vimeo. The original Vimeo address now returns 404. Release panels preserve the documented recordings, and the corresponding source pages carry the embeds. The 2019 Take Me Back was the first song Sahba produced herself. Sofar's Ankara recording of A Billion Years Too Soon is separate from the artist's upload of Dancing Alone. King George VIII's 1992 Denim/Baby credits her as co-composer. Bergen’s 2024 festival programme identifies both directors and the artist as producer. The 2026 Nothing Lasts Forever single features Javid Afsari Rad on santur. The Mert Harmankaya remix retains only its own Spotify track. A national radio playlist supplied 20 already represented titles.

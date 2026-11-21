@@ -29,11 +29,13 @@ The expansion started at revision fa6c29ca with 124 bilingual artist pages. The 
 | Fared Shafinury | Qbqnmbj | 9.1/10 | [Fared Shafinury](fared-shafinury-independent-review.md) |
 | Javid Afsari Rad | Qz9hcyk | 9.2/10 | [Javid Afsari Rad](javid-afsari-rad-review.md) |
 | Yalda Zamani | Qrtebcw | 9.2/10 | [Yalda Zamani](yalda-zamani-review.md) |
-| Hamed Sadeghi | Qmgbz4h | 8.6/10 | [Hamed Sadeghi](hamed-sadeghi-independent-review.md) |
-| Haale | Qfvcggy | 8.9/10 | [Haale](artist-page-scores.md) |
+| Hamed Sadeghi | Qmgbz4h | 9.2/10 | [Hamed Sadeghi](hamed-sadeghi-independent-review.md) |
+| Haale | Qfvcggy | 9.1/10 | [Haale](artist-page-scores.md) |
 | The Mast | Qfwn5xw | 9.2/10 | [The Mast](artist-page-scores.md) |
-| Badieh | Qndvgwn | Pending | [Catalogue and open questions](badieh.md) |
-| Amen Feizabadi | Qd5zat9 | Pending | Independent review in progress |
-| Marie Sahba | Qxmhx58 | Pending | Independent review in progress |
+| Badieh | Qndvgwn | 9.1/10 | [Badieh](badieh-independent-review.md) |
+| Amen Feizabadi | Qd5zat9 | 9.1/10 | [Amen Feizabadi](artist-page-scores.md) |
+| Marie Sahba | Qxmhx58 | 8.4/10 | [Marie Sahba](marie-sahba-review.md) |
+| Ehsan Matoori | Qwh5yn8 | Pending | [Catalogue and open questions](ehsan-matoori.md) |
+| This Tale of Ours | Qrtfk67 | Pending | [Catalogue and open questions](this-tale-of-ours.md) |
 
 The [discovery list](independent-artist-discovery.md) contains candidates with release leads. Some will prove ineligible or match an existing artist by another spelling. Only new artist pages count toward the target.

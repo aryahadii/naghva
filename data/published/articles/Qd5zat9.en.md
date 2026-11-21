@@ -145,6 +145,36 @@ references:
     quote: WERGO Release 2026
     accessed: '2026-11-21'
     locator: Artist, venue or original production credits
+  live-lagune:
+    source: vimeo.com-312478447
+    quote: Live electronics Amen Feizabadi
+    accessed: '2026-11-21'
+    locator: Published credits
+  live-opus:
+    source: vimeo.com-648065384
+    quote: Amen Feizabadi, Live Electronics
+    accessed: '2026-11-21'
+    locator: Published credits
+  homafilm:
+    source: ag-kurzfilm.de-index.php-film-4478-lang-en-node-katalog_suche
+    quote: Justina, Amen Feizabadi
+    accessed: '2026-11-21'
+    locator: Published credits
+  flutist:
+    source: t.me-s-iranflutehome-before-152
+    quote: با نوازندگی فلوت کوشیار شاهرودی
+    accessed: '2026-11-21'
+    locator: Published credits
+  flute-work:
+    source: t.me-s-iranflutehome-before-152
+    quote: در پنج پرده
+    accessed: '2026-11-21'
+    locator: Published credits
+  banat:
+    source: vimeo.com-675397937
+    quote: Amen Feizabadi, composer, artistic direction
+    accessed: '2026-11-21'
+    locator: Published credits
 ---
 
 Amen Feizabadi is an Iranian-German composer and filmmaker. Born in Tehran in 1983, he learned the setar as a child and studied flute before moving into composition. His music theatre brings recorded voices and moving images into the same performance as singers and instrumentalists.[^job][^country][^birth][^lute][^flute][^strings][^toranj]
@@ -153,10 +183,10 @@ Amen Feizabadi is an Iranian-German composer and filmmaker. Born in Tehran in 19
 
 Feizabadi learned the setar by ear. At the University of Art in Tehran he studied Iranian music with flute as his main instrument, then studied composition at the Folkwang University of the Arts in Essen. For the first piece in his catalogue, [*Telling a Story (Dancing Toranj II)*](https://vimeo.com/44208927), he wrote for five flutes, two voices and setar. The 2010–11 work incorporated images and voices recorded on phones by demonstrators in Iran.[^lute][^flute][^essen][^first][^earlydate][^toranj][^phone]
 
-In 2018 he composed and directed the music for [*Erzählungen aus der Lagune*](https://vimeo.com/312478447), presented in Iran as *Fāsele-ye Kānuni*. He conceived it for two stages, Tehran’s Independent Theatre in September and the Deutsche Oper Berlin in November. For [*Collective, Op. 135*](https://vimeo.com/731742708), he brought the Sonar Quartet together with singing, acting, live video, dance and sign language. The music drew on Beethoven’s last completed string quartet and an unfinished work. Elham Korda wrote the text.[^idea][^lag][^cities][^year18][^ber][^strings][^quartet][^beethoven][^text]
+In 2018 he composed and directed the music for [*Erzählungen aus der Lagune*](https://vimeo.com/312478447), presented in Iran as *Fāsele-ye Kānuni*. He conceived it for two stages, Tehran’s Independent Theatre in September and the Deutsche Oper Berlin in November. For [*Collective, Op. 135*](https://vimeo.com/731742708), he brought the Sonar Quartet together with singing, acting, live video, dance and sign language. The music drew on Beethoven’s last completed string quartet and an unfinished work. Elham Korda wrote the text. Feizabadi played live electronics in both productions.[^live-lagune][^live-opus][^idea][^lag][^cities][^year18][^ber][^strings][^quartet][^beethoven][^text]
 
 ## Voices in Deep Siesta
 
 During a residency at the Tarabya Cultural Academy in 2023, Feizabadi met writer Dilek Mayatürk. Their chamber opera [*Deep Siesta*](/en/yalda-zamani-rte/#feizabadi-deep-siesta-eine-kammerhoroper-in-drei-akten-mit-prolog-wc9) follows two artificial beings, Ök and Mani, as they discover the human world. Mayatürk's libretto shifts from German to Persian. Recordings of the boys’ choir directed by Soudabeh Salem at Tehran’s Veda Music Institute are heard alongside the ensemble. Yalda Zamani conducted the recording, released by Wergo in 2026.[^meet][^opera][^ai][^story][^lang][^choir][^conduct][^label]
 
-Feizabadi has also recorded outside the theatre. Ankido Darash featured him on [“Colors for Being Quarantined”](#colors-for-being-quarantined-2zv), released in May 2024.[^colors][^colordate]
+Feizabadi has also recorded outside the theatre. Ankido Darash featured him on [“Colors for Being Quarantined”](#colors-for-being-quarantined-2zv), released in May 2024.[^colors][^colordate] He also wrote [a piece for solo flute](https://www.aparat.com/v/BqD1v) performed by Koushyar Shahroudi, co-composed [*Unified Voices of Banat*](https://vimeo.com/675397937), and shared the film score for *Silence of Homa* with Justina.[^flutist][^flute-work][^banat][^homafilm]

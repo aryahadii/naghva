@@ -1,0 +1,47 @@
+id: Qzwe4nq
+type: release
+statements:
+  name:
+  - value:
+      text: Clamor
+      language: en
+    references:
+    - source: music.apple.com-us-album-clamor-single-1463610875
+      quote: Clamor
+      accessed: 2026-11-21
+      locator: Track listing
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/a4/3d/49/a43d49a2-0b25-21e9-075c-47cf0032e234/859732399674_cover.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-clamor-single-1463610875
+      quote: Clamor - Single
+      accessed: 2026-11-21
+      locator: Release heading
+  release date:
+  - value:
+      date: '2019-05-24'
+    references:
+    - source: music.apple.com-us-album-clamor-single-1463610875
+      quote: '2019-05-24'
+      accessed: 2026-11-21
+      locator: Edition release date
+  performer:
+  - value: Qwh5yn8
+    references:
+    - source: music.apple.com-us-album-clamor-single-1463610875
+      quote: Ehsan Matoori
+      accessed: 2026-11-21
+      locator: Release artist
+  listen link:
+  - value: https://music.apple.com/us/album/clamor-single/1463610875
+    references:
+    - source: music.apple.com-us-album-clamor-single-1463610875
+      quote: Clamor
+      accessed: 2026-11-21
+      locator: Track listing
+  - value: https://music.apple.com/us/song/clamor/1463610883
+    references:
+    - source: music.apple.com-us-album-clamor-single-1463610875
+      quote: Clamor
+      accessed: 2026-11-21
+      locator: Track listing

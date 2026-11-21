@@ -1,0 +1,47 @@
+id: Qkg867v
+type: release
+statements:
+  name:
+  - value:
+      text: Wanderlust
+      language: en
+    references:
+    - source: music.apple.com-us-album-wanderlust-single-1418707516
+      quote: Wanderlust
+      accessed: 2026-11-21
+      locator: Track listing
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/73/82/35/7382358b-78ae-286c-28ec-26d83ec59c75/859727868468_cover.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-wanderlust-single-1418707516
+      quote: Wanderlust - Single
+      accessed: 2026-11-21
+      locator: Release heading
+  release date:
+  - value:
+      date: '2018-08-08'
+    references:
+    - source: music.apple.com-us-album-wanderlust-single-1418707516
+      quote: '2018-08-08'
+      accessed: 2026-11-21
+      locator: Edition release date
+  performer:
+  - value: Qwh5yn8
+    references:
+    - source: music.apple.com-us-album-wanderlust-single-1418707516
+      quote: Ehsan Matoori
+      accessed: 2026-11-21
+      locator: Release artist
+  listen link:
+  - value: https://music.apple.com/us/album/wanderlust-single/1418707516
+    references:
+    - source: music.apple.com-us-album-wanderlust-single-1418707516
+      quote: Wanderlust
+      accessed: 2026-11-21
+      locator: Track listing
+  - value: https://music.apple.com/us/song/wanderlust/1418707519
+    references:
+    - source: music.apple.com-us-album-wanderlust-single-1418707516
+      quote: Wanderlust
+      accessed: 2026-11-21
+      locator: Track listing

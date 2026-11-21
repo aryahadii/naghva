@@ -16,3 +16,11 @@ Artist, venue or original production credits, read 2026-11-21.
 > Some of the video and voice recordings of demonstrators in Iran
 
 Artist, venue or original production credits, read 2026-11-21.
+
+> Telling a story
+
+Published credits, read 2026-11-21.
+
+> conception and composition: Amen Feizabadi
+
+Published credits, read 2026-11-21.

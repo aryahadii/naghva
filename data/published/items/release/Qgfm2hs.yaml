@@ -1,0 +1,41 @@
+id: Qgfm2hs
+type: release
+statements:
+  name:
+  - value:
+      text: Our Sorrow
+      language: en
+    references:
+    - source: music.apple.com-us-album-our-sorrow-1727139986
+      quote: Our Sorrow
+      accessed: 2026-11-21
+      locator: Release heading
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/95/67/f9/9567f9be-b0dc-3049-c2e5-e65c7277febf/5019396296428.png/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-our-sorrow-1727139986
+      quote: Our Sorrow
+      accessed: 2026-11-21
+      locator: Release heading
+  release date:
+  - value:
+      date: '2024-04-12'
+    references:
+    - source: music.apple.com-us-album-our-sorrow-1727139986
+      quote: '2024-04-12'
+      accessed: 2026-11-21
+      locator: Edition release date
+  performer:
+  - value: Qwh5yn8
+    references:
+    - source: music.apple.com-us-album-our-sorrow-1727139986
+      quote: Ehsan Matoori
+      accessed: 2026-11-21
+      locator: Release artist
+  listen link:
+  - value: https://music.apple.com/us/album/our-sorrow/1727139986
+    references:
+    - source: music.apple.com-us-album-our-sorrow-1727139986
+      quote: Our Sorrow
+      accessed: 2026-11-21
+      locator: Release heading
