@@ -1,0 +1,41 @@
+id: Qttwmjb
+type: release
+statements:
+  name:
+  - value:
+      text: Rumi Ensemble
+      language: en
+    references:
+    - source: www.youtube.com-oembed-bc7zqdznbv8
+      quote: Rumi Ensemble
+      accessed: '2026-11-21'
+      locator: Official performance upload
+  performer:
+  - value: Qz9hcyk
+    references:
+    - source: www.youtube.com-oembed-bc7zqdznbv8
+      quote: Rumi Ensemble
+      accessed: '2026-11-21'
+      locator: Official performance upload
+    - source: www.youtube.com-oembed-bc7zqdznbv8
+      quote: Javid Concerts
+      accessed: '2026-11-21'
+      locator: Artist channel
+  listen link:
+  - value: https://www.youtube.com/watch?v=Bc7zQDZNBv8
+    references:
+    - source: www.youtube.com-oembed-bc7zqdznbv8
+      quote: Rumi Ensemble
+      accessed: '2026-11-21'
+      locator: Official performance upload
+  cover art:
+  - value: https://i.ytimg.com/vi/Bc7zQDZNBv8/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-bc7zqdznbv8
+      quote: https://i.ytimg.com/vi/Bc7zQDZNBv8/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: YouTube thumbnail
+    qualifiers:
+      credit:
+        text: Javid Concerts · YouTube
+        language: en

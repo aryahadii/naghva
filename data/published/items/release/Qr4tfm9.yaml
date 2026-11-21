@@ -1,0 +1,47 @@
+id: Qr4tfm9
+type: release
+statements:
+  name:
+  - value:
+      text: To Freedom
+      language: en
+    references:
+    - source: music.apple.com-us-album-to-freedom-single-1670328450
+      quote: To Freedom - Single
+      accessed: 2026-11-21
+      locator: Album heading
+  performer:
+  - value: Qbqnmbj
+    references:
+    - source: music.apple.com-us-album-to-freedom-single-1670328450
+      quote: Fared Shafinury
+      accessed: 2026-11-21
+      locator: Album artist
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1b/68/7d/1b687d66-22ba-9403-c94e-61b597d5edb4/198015504078.jpg/632x632bb-60.jpg
+    references:
+    - source: music.apple.com-us-album-to-freedom-single-1670328450
+      quote: To Freedom - Single
+      accessed: 2026-11-21
+      locator: Album heading
+  release date:
+  - value:
+      date: '2023-01-27'
+    references:
+    - source: music.apple.com-us-album-to-freedom-single-1670328450
+      quote: '2023-01-27'
+      accessed: 2026-11-21
+      locator: Release date
+  listen link:
+  - value: https://music.apple.com/us/album/to-freedom-single/1670328450
+    references:
+    - source: music.apple.com-us-album-to-freedom-single-1670328450
+      quote: To Freedom - Single
+      accessed: 2026-11-21
+      locator: Album heading
+  - value: https://music.apple.com/us/song/to-freedom/1670328451
+    references:
+    - source: music.apple.com-us-album-to-freedom-single-1670328450
+      quote: To Freedom
+      accessed: 2026-11-21
+      locator: Track listing

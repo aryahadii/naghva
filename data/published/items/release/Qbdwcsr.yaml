@@ -1,0 +1,53 @@
+id: Qbdwcsr
+type: release
+statements:
+  name:
+  - value:
+      text: Dancing in the Dark
+      language: en
+    references:
+    - source: music.apple.com-us-album-into-the-night-1190680897
+      quote: Dancing in the Dark
+      accessed: 2026-11-21
+      locator: Track listing
+  performer:
+  - value: Qbqnmbj
+    references:
+    - source: music.apple.com-us-album-into-the-night-1190680897
+      quote: Fared Shafinury
+      accessed: 2026-11-21
+      locator: Album artist
+  release date:
+  - value:
+      date: '2017-01-01'
+    references:
+    - source: music.apple.com-us-album-into-the-night-1190680897
+      quote: '2017-01-01'
+      accessed: 2026-11-21
+      locator: Release date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/d1/93/4d/d1934de5-368b-dfcb-7f98-92ee11c2e503/825479951123.jpg/632x632bb-60.jpg
+    references:
+    - source: music.apple.com-us-album-into-the-night-1190680897
+      quote: Into the Night
+      accessed: 2026-11-21
+      locator: Album heading
+  listen link:
+  - value: https://music.apple.com/us/song/dancing-in-the-dark/1190681149
+    references:
+    - source: music.apple.com-us-album-into-the-night-1190680897
+      quote: Dancing in the Dark
+      accessed: 2026-11-21
+      locator: Track listing
+  - value: https://open.spotify.com/track/74VWFejkxH0MktzA2zZ3Tf
+    references:
+    - source: open.spotify.com-album-736cqvnlnrn9647fzdrmay
+      quote: Dancing in the Dark
+      accessed: 2026-11-21
+      locator: Track listing
+  - value: https://www.youtube.com/watch?v=WckRCiAT7-A
+    references:
+    - source: www.youtube.com-channel-ucbjlolu63tvpoovx2wufdbg-videos
+      quote: DANCING IN THE DARK - Rumi Springsteen cover - Music Video
+      accessed: 2026-11-21
+      locator: Original channel, WckRCiAT7-A

@@ -1,0 +1,57 @@
+id: Qaegk2z
+type: release
+statements:
+  name:
+  - value:
+      text: Ghazal
+      language: en
+    references:
+    - source: open.spotify.com-album-6ea5qy5kzcfbv4apxazfrr
+      quote: Ghazal
+      accessed: '2026-11-21'
+      locator: Track 7
+  performer:
+  - value: Qepzbpa
+    references:
+    - source: etniskmusikklubb.no-produkt-where-the-music-traditions-from-baluchistan-persia-and-india-meet
+      quote: Javid Afsari Rad – Santor
+      accessed: '2026-11-21'
+      locator: Recording personnel
+  - value: Qz9hcyk
+    references:
+    - source: etniskmusikklubb.no-produkt-where-the-music-traditions-from-baluchistan-persia-and-india-meet
+      quote: Javid Afsari Rad – Santor
+      accessed: '2026-11-21'
+      locator: Recording personnel
+  release date:
+  - value:
+      date: '2001'
+    references:
+    - source: open.spotify.com-album-6ea5qy5kzcfbv4apxazfrr
+      quote: '2001'
+      accessed: '2026-11-21'
+      locator: Original release
+  listen link:
+  - value: https://open.spotify.com/track/6iQbDVME7gIaKONPjIj4N8
+    references:
+    - source: open.spotify.com-album-6ea5qy5kzcfbv4apxazfrr
+      quote: Ghazal
+      accessed: '2026-11-21'
+      locator: Track 7
+  - value: https://music.apple.com/us/song/ghazal/1442843515
+    references:
+    - source: music.apple.com-us-album-karvan-1442843302
+      quote: Ghazal
+      accessed: '2026-11-21'
+      locator: Track 7
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d0000b273afa1b2956d8c6e4554784d11
+    references:
+    - source: open.spotify.com-album-6ea5qy5kzcfbv4apxazfrr
+      quote: https://i.scdn.co/image/ab67616d0000b273afa1b2956d8c6e4554784d11
+      accessed: '2026-11-21'
+      locator: Spotify release artwork
+    qualifiers:
+      credit:
+        text: Karvan · Spotify
+        language: en

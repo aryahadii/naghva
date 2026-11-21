@@ -26,5 +26,7 @@ The expansion started at revision fa6c29ca with 124 bilingual artist pages. The 
 | Hysterrae | Qkvdrbs | 9.2/10 | [Hysterrae](artist-page-scores.md) |
 | Melody Safavi | Q8dkfyg | 9.1/10 | [Melody Safavi](melody-safavi-review.md) |
 | Hadi Bastani | Qyt2364 | 9.2/10 | [Hadi Bastani](hadi-bastani-review.md) |
+| Fared Shafinury | Qbqnmbj | Pending | [Catalogue and open questions](fared-shafinury.md) |
+| Javid Afsari Rad | Qz9hcyk | Pending | Guest recordings under review |
 
 The [discovery list](independent-artist-discovery.md) contains candidates with release leads. Some will prove ineligible or match an existing artist by another spelling. Only new artist pages count toward the target.
