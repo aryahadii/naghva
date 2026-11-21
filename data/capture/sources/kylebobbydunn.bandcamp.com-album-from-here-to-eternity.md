@@ -1,5 +1,6 @@
 ---
 url: https://kylebobbydunn.bandcamp.com/album/from-here-to-eternity
+archive: "https://web.archive.org/web/20260519174040/https://kylebobbydunn.bandcamp.com/album/from-here-to-eternity"
 title: From Here To Eternity | kyle bobby dunn
 kind: web page
 language: en

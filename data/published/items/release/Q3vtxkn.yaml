@@ -1,0 +1,64 @@
+id: Q3vtxkn
+type: release
+statements:
+  name:
+  - value:
+      text: Golafshân
+      language: en
+    references:
+    - source: music.apple.com-us-album-nemid-c3-a2nam-1376582733
+      quote: Golafshân
+      accessed: '2026-11-21'
+      locator: Album track title and billing
+  performer:
+  - value: Qfxqgvv
+    references:
+    - source: music.apple.com-us-album-nemid-c3-a2nam-1376582733
+      quote: Shadi Fathi
+      accessed: '2026-11-21'
+      locator: Co-billed album artist
+  - value: Qpgy7yb
+    references:
+    - source: music.apple.com-us-album-nemid-c3-a2nam-1376582733
+      quote: Bijan Chemirani
+      accessed: '2026-11-21'
+      locator: Co-billed album artist
+  release date:
+  - value:
+      date: '2018-05-18'
+    references:
+    - source: music.apple.com-us-album-nemid-c3-a2nam-1376582733
+      quote: '2018-05-18'
+      accessed: '2026-11-21'
+      locator: Release metadata
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/98/41/49/9841490c-57f7-aad3-19b9-d5317f2e219c/cover.jpg/632x632bb-60.jpg
+    references:
+    - source: music.apple.com-us-album-nemid-c3-a2nam-1376582733
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/98/41/49/9841490c-57f7-aad3-19b9-d5317f2e219c/cover.jpg/632x632bb-60.jpg
+      accessed: '2026-11-21'
+      locator: Album image
+    qualifiers:
+      credit:
+        text: Apple Music · Delâshena
+        language: en
+  listen link:
+  - value: https://music.apple.com/us/song/golafsh%C3%A2n/1376583946
+    references:
+    - source: music.apple.com-us-album-nemid-c3-a2nam-1376582733
+      quote: Golafshân
+      accessed: '2026-11-21'
+      locator: Album track title and billing
+  - value: https://open.spotify.com/track/2KWznqhdYQkdWtXxdxZoee
+    references:
+    - source: open.spotify.com-album-7cnfjol3gz6mbvtmpz2owh
+      quote: Golafshân
+      accessed: '2026-11-21'
+      locator: Spotify track list
+  published by:
+  - value: Qvdbcbn
+    references:
+    - source: music.apple.com-us-album-nemid-c3-a2nam-1376582733
+      quote: Buda Musique
+      accessed: '2026-11-21'
+      locator: Record label

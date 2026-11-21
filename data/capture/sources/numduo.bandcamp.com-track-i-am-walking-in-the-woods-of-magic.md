@@ -1,5 +1,6 @@
 ---
 url: https://numduo.bandcamp.com/track/i-am-walking-in-the-woods-of-magic
+archive: "https://web.archive.org/web/20250528050423/https://numduo.bandcamp.com/track/i-am-walking-in-the-woods-of-magic"
 title: I Am Walking in the Woods of Magic | NUM
 kind: web page
 language: en

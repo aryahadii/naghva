@@ -96,6 +96,26 @@ references:
     quote: New Music Edmonton (Edmonton, Canada), and Sled Island (Calgary, Canada)
     accessed: '2026-11-21'
     locator: Artist account or release credits
+  master:
+    source: numduo.bandcamp.com-album-untamed-terror
+    quote: Mastering by Milad Bagheri
+    accessed: '2026-11-21'
+    locator: Solo album credits
+  fink:
+    source: kylebobbydunn.bandcamp.com-album-from-here-to-eternity
+    quote: 'Additional mixing engineers: Milad Bagheri avec Maryam Sirvan'
+    accessed: '2026-11-21'
+    locator: Additional recording credits
+  pair:
+    source: numduo.bandcamp.com-album-memory-machine
+    quote: Electronics and sound engineering by Milad Bagheri
+    accessed: '2026-11-21'
+    locator: Release credits
+  sound:
+    source: numduo.bandcamp.com-album-memory-machine
+    quote: Electronics, flute and voice by Maryam Sirvan
+    accessed: '2026-11-21'
+    locator: Release credits
 ---
 
 میلاد باقری آهنگساز و هنرمند صدای ایرانی، متولد ۱۹۸۴ است. در سال ۲۰۱۰ همراه مریم سیروان گروه دونفرهٔ موسیقی الکترونیک NUM را در شمال ایران تشکیل داد. برای آلبوم شخصی [«Galoba»](#galoba-rzk) از عبارت‌های کوتاه آوازی استفاده کرد که خودش در گرجستان ضبط کرده بود. بعدها برای اجراهای گروه، نرم‌افزاری ساخت که صدا را به تصویر متحرک تبدیل می‌کند.[^born][^duo][^idea][^phrases][^v]
@@ -105,6 +125,8 @@ references:
 باقری در دانشگاه گیلان مهندسی برق و در کنسرواتوار دولتی تفلیس فناوری موسیقی خواند. حوالی کریسمس ۲۰۱۹ مسئول ضبط کنسرت سرودهای کریسمس و آوازهای مذهبی گرجی در کنسرواتوار بود. وقتی دوباره به ضبط گوش کرد، آرامشی که در آوازها پیدا کرد او را به ساخت قطعه‌هایی از این صداها ترغیب کرد.[^schools][^idea][^soothe][^share]
 
 باقری چند طرح اولیه را به سرپرست کنسرت نشان داد و او هم باقری را به کلیسای جامع سامتاویسی دعوت کرد. از نزدیک به دو ساعت ضبط در این دو محل، پنج عبارت آوازی را برای آلبوم «Galoba» انتخاب کرد. نام آلبوم در زبان گرجی به معنی «سرود» است. مریم سیروان هم در ضبط صداهای محیطی آلبوم سهم داشت. نشر فلگ دی آن را در اکتبر ۲۰۲۰ منتشر کرد.[^share][^church][^phrases][^title][^maryam][^edition][^date]
+
+در آلبوم [«Memory Machine»](/fa/num-m4s/#memory-machine-hce) گروه NUM، سیروان آواز خواند و فلوت نواخت و باقری با صداهای الکترونیک کار کرد و مسئول مهندسی صدا بود. مسترینگ نخستین آلبوم شخصی سیروان، [«Untamed Terror»](/fa/maryam-sirvan-6zb/#untamed-terror-59b)، را هم باقری انجام داد. هر دو در میکس آلبوم [«From Here to Eternity»](https://kylebobbydunn.bandcamp.com/album/from-here-to-eternity) اثر کایل بابی دان همکاری داشتند.[^pair][^sound][^master][^fink]
 
 ## صدا و تصویر متحرک
 

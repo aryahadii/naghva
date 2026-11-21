@@ -1,5 +1,6 @@
 ---
 url: https://maryamsirvan.bandcamp.com/track/mass-for-the-living
+archive: "https://web.archive.org/web/20250606082854/https://maryamsirvan.bandcamp.com/track/mass-for-the-living"
 title: Mass for the Living | Maryam Sirvan
 kind: web page
 language: en

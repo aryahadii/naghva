@@ -1,5 +1,6 @@
 ---
 url: https://news.ubisoft.com/de-de/article/1sGD0IGZhAOrFz20ObHskz/how-prince-of-persia-the-lost-crowns-soundtrack-found-its-voices
+archive: "https://web.archive.org/web/20251123071832/https://news.ubisoft.com/de-de/article/1sGD0IGZhAOrFz20ObHskz/how-prince-of-persia-the-lost-crowns-soundtrack-found-its-voices"
 title: 'How Prince of Persia: The Lost Crown’s Soundtrack Found its Voices'
 kind: web page
 language: en

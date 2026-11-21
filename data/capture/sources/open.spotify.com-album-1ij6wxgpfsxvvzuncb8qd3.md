@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/1Ij6WXgpFSXvVzUNCb8QD3
+archive: "https://web.archive.org/web/20251010014430/https://open.spotify.com/album/1Ij6WXgpFSXvVzUNCb8QD3"
 title: Listen to Walk - Single by Mentrix | Spotify
 kind: web page
 language: en

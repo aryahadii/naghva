@@ -50,6 +50,13 @@ statements:
       quote: released May 22, 2016
       accessed: '2026-11-21'
       locator: Published date
+  - value:
+      date: '2016-04-12'
+    references:
+    - source: ymgrecords.bandcamp.com-album-engareh
+      quote: released April 12, 2016
+      accessed: '2026-11-21'
+      locator: Compilation issue date
   cover art:
   - value: https://f4.bcbits.com/img/a2419612337_10.jpg
     references:

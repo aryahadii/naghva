@@ -1,5 +1,6 @@
 ---
 url: https://numduo.bandcamp.com/track/night-begins
+archive: "https://web.archive.org/web/20260206090426/https://numduo.bandcamp.com/track/night-begins"
 title: Night Begins | NUM
 kind: web page
 language: en

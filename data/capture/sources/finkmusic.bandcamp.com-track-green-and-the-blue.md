@@ -1,5 +1,6 @@
 ---
 url: https://finkmusic.bandcamp.com/track/green-and-the-blue
+archive: "https://web.archive.org/web/20261104100857/https://finkmusic.bandcamp.com/track/green-and-the-blue"
 title: Green and the Blue | Fink
 kind: web page
 language: en

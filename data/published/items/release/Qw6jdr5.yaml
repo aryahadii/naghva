@@ -1,0 +1,41 @@
+id: Qw6jdr5
+type: release
+statements:
+  name:
+  - value:
+      text: Extrai de Awât (Shadi & Bijan)
+      language: fr
+    references:
+    - source: www.shadi-fathi.com-galerie-videos
+      quote: Extrai de Awât (Shadi & Bijan)
+      accessed: '2026-11-21'
+      locator: Artist video gallery title
+  performer:
+  - value: Qfxqgvv
+    references:
+    - source: www.shadi-fathi.com-galerie-videos
+      quote: Extrai de Awât (Shadi & Bijan)
+      accessed: '2026-11-21'
+      locator: Artist video gallery title
+    - source: www.odoensemble.com-en-shadi-fathi
+      quote: Shadi Fathi
+      accessed: '2026-11-21'
+      locator: Artist heading
+  listen link:
+  - value: https://www.youtube.com/watch?v=nYkgr3WKMKw
+    references:
+    - source: www.shadi-fathi.com-galerie-videos
+      quote: nYkgr3WKMKw
+      accessed: '2026-11-21'
+      locator: Artist embeds this specific YouTube video
+  cover art:
+  - value: https://i.ytimg.com/vi/nYkgr3WKMKw/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-nykgr3wkmkw
+      quote: https://i.ytimg.com/vi/nYkgr3WKMKw/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Official thumbnail returned by YouTube for this video
+    qualifiers:
+      credit:
+        text: Shadi Fathi - Topic · YouTube
+        language: en

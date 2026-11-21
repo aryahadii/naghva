@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/track/02GyXBjdGq4VASPOQHLzmu
+archive: "https://web.archive.org/web/20211226165429/https://open.spotify.com/track/02GyXBjdGq4VASPOQHLzmu"
 title: Longing - song and lyrics by Mentrix | Spotify
 kind: web page
 language: en

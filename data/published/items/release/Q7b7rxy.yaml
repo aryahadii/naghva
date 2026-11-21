@@ -1,0 +1,41 @@
+id: Q7b7rxy
+type: release
+statements:
+  name:
+  - value:
+      text: Shadi Fathi
+      language: fr
+    references:
+    - source: www.shadi-fathi.com-galerie-videos
+      quote: Shadi Fathi
+      accessed: '2026-11-21'
+      locator: Artist video gallery title
+  performer:
+  - value: Qfxqgvv
+    references:
+    - source: www.shadi-fathi.com-galerie-videos
+      quote: Shadi Fathi
+      accessed: '2026-11-21'
+      locator: Artist video gallery title
+    - source: www.odoensemble.com-en-shadi-fathi
+      quote: Shadi Fathi
+      accessed: '2026-11-21'
+      locator: Artist heading
+  listen link:
+  - value: https://www.youtube.com/watch?v=wnNiI6nEzwo
+    references:
+    - source: www.shadi-fathi.com-galerie-videos
+      quote: wnNiI6nEzwo
+      accessed: '2026-11-21'
+      locator: Artist embeds this specific YouTube video
+  cover art:
+  - value: https://i.ytimg.com/vi/wnNiI6nEzwo/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-wnnii6nezwo
+      quote: https://i.ytimg.com/vi/wnNiI6nEzwo/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Official thumbnail returned by YouTube for this video
+    qualifiers:
+      credit:
+        text: Shadi Fathi · YouTube
+        language: en

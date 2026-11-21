@@ -1,5 +1,6 @@
 ---
 url: https://maryamsirvan.bandcamp.com/track/everywheres-gone-black
+archive: "https://web.archive.org/web/20250608233705/https://maryamsirvan.bandcamp.com/track/everywheres-gone-black"
 title: Everywhere's Gone Black | Maryam Sirvan
 kind: web page
 language: en

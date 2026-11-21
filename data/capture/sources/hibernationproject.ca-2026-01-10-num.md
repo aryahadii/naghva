@@ -1,5 +1,6 @@
 ---
 url: https://hibernationproject.ca/2026/01/10/num/
+archive: "https://web.archive.org/web/20260110225242/https://hibernationproject.ca/2026/01/10/num/"
 title: NUM – THE HIBERNATION PROJECT
 kind: web page
 language: en

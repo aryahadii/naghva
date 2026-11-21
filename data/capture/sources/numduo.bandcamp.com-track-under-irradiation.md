@@ -1,5 +1,6 @@
 ---
 url: https://numduo.bandcamp.com/track/under-irradiation
+archive: "https://web.archive.org/web/20220208000356/https://numduo.bandcamp.com/track/under-irradiation"
 title: Under Irradiation | NUM
 kind: web page
 language: en

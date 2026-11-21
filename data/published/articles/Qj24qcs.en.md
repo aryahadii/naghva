@@ -96,6 +96,26 @@ references:
     quote: New Music Edmonton (Edmonton, Canada), and Sled Island (Calgary, Canada)
     accessed: '2026-11-21'
     locator: Artist account or release credits
+  master:
+    source: numduo.bandcamp.com-album-untamed-terror
+    quote: Mastering by Milad Bagheri
+    accessed: '2026-11-21'
+    locator: Solo album credits
+  fink:
+    source: kylebobbydunn.bandcamp.com-album-from-here-to-eternity
+    quote: 'Additional mixing engineers: Milad Bagheri avec Maryam Sirvan'
+    accessed: '2026-11-21'
+    locator: Additional recording credits
+  pair:
+    source: numduo.bandcamp.com-album-memory-machine
+    quote: Electronics and sound engineering by Milad Bagheri
+    accessed: '2026-11-21'
+    locator: Release credits
+  sound:
+    source: numduo.bandcamp.com-album-memory-machine
+    quote: Electronics, flute and voice by Maryam Sirvan
+    accessed: '2026-11-21'
+    locator: Release credits
 ---
 
 Milad Bagheri is an Iranian composer and sound artist born in 1984. He and Maryam Sirvan formed the electronic duo NUM in northern Iran in 2010. For his solo album [*Galoba*](#galoba-rzk), he used short phrases from recordings he made of Georgian singing. He later built software for NUM that turns the sound of a performance into moving images.[^born][^duo][^idea][^phrases][^v]
@@ -105,6 +125,8 @@ Milad Bagheri is an Iranian composer and sound artist born in 1984. He and Marya
 Bagheri studied electrical engineering at Guilan University and music technology at the Tbilisi State Conservatoire. Around Christmas 2019 he recorded a concert of Georgian carols and chants at the conservatoire. Listening back, he found the singing so calming that he began sketching compositions from the recordings.[^schools][^idea][^soothe][^share]
 
 When Bagheri showed the sketches to the concert supervisor, she invited him to Samtavisi Cathedral. Five phrases from nearly two hours of recordings at the two venues went into *Galoba*, whose title means “chant” in Georgian. Sirvan contributed field recordings. Flag Day Recordings released the album in October 2020.[^share][^church][^phrases][^title][^maryam][^edition][^date]
+
+On NUM's [*Memory Machine*](/en/num-m4s/#memory-machine-hce), Sirvan played flute and sang, while Bagheri handled electronics and sound engineering. He also mastered her debut solo album, [*Untamed Terror*](/en/maryam-sirvan-6zb/#untamed-terror-59b). Both musicians helped mix Kyle Bobby Dunn’s [*From Here to Eternity*](https://kylebobbydunn.bandcamp.com/album/from-here-to-eternity).[^pair][^sound][^master][^fink]
 
 ## Sound and moving images
 

@@ -13,11 +13,14 @@ The expansion started at revision fa6c29ca with 124 bilingual artist pages. The 
 | Temp-Illusion | Q8tq6bc | 9.2/10 | [Temp-Illusion](temp-illusion-review.md) |
 | ZÖJ | Qk5bhh3 | 9.1/10 | [ZÖJ](zoj-review.md) |
 | Ahoora | Qkb4887 | 9.0/10 | [Ahoora](artist-page-scores.md) |
-| Babak Rajabi | Qzhgpkw | 7.6/10, revised catalogue awaiting review | [Babak Rajabi](babak-rajabi-review.md) |
+| Babak Rajabi | Qzhgpkw | 9.0/10 | [Babak Rajabi](babak-rajabi-review.md) |
 | Eishan Ensemble | Qhebfsp | 9.3/10 | [Eishan Ensemble](artist-page-scores.md) |
 | Maryam Sirvan | Q6zbcxw | 9.2/10 | [Maryam Sirvan](maryam-sirvan-review.md) |
 | NUM | Qm4skc3 | 9.1/10 | [NUM](num-review.md) |
-| Abjeez | Qny2s3x | Pending | [Catalogue and open questions](abjeez.md) |
+| Abjeez | Qny2s3x | 8.0/10, revised catalogue awaiting review | [Abjeez](abjeez-independent-review.md) |
 | Milad Bagheri | Qj24qcs | Pending | Independent review requested |
+| Vazesh | Q597kk9 | Pending | [Catalogue and open questions](vazesh.md) |
+| Shadi Fathi | Qfxqgvv | Pending | [Catalogue and open questions](shadi-fathi.md) |
+| Safoura Safavi | Q8w88jv | Pending | [Catalogue and open questions](safoura-safavi.md) |
 
 The [discovery list](independent-artist-discovery.md) contains candidates with release leads. Some will prove ineligible or match an existing artist by another spelling. Only new artist pages count toward the target.

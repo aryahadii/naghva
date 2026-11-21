@@ -1,5 +1,6 @@
 ---
 url: https://histaminetapes.bandcamp.com/album/vacant-shade-ht007
+archive: "https://web.archive.org/web/20231225030052/https://histaminetapes.bandcamp.com/album/vacant-shade-ht007"
 title: Vacant Shade (HT007) | NUM | Histamine Tapes
 kind: web page
 language: en

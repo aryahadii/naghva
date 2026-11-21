@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=7qNIkiTxfEs
+archive: "https://web.archive.org/web/20250626110948/https://www.youtube.com/watch?v=7qNIkiTxfEs"
 title: MENTRIX - WALK - YouTube
 kind: web page
 language: en

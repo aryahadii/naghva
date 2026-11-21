@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/0bjR6scUcAcX9HugIMU9GJ
+archive: "https://web.archive.org/web/20230112104001/https://open.spotify.com/album/0bjR6scUcAcX9HugIMU9GJ"
 title: Listen to My Enemy, My Love - Album by Mentrix | Spotify
 kind: web page
 language: en

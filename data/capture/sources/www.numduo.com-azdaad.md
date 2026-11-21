@@ -1,5 +1,6 @@
 ---
 url: https://www.numduo.com/azdaad
+archive: "https://web.archive.org/web/20260810010311/https://www.numduo.com/azdaad"
 title: Azdaad | NUM
 kind: web page
 language: en

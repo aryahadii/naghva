@@ -1,0 +1,41 @@
+id: Qpbm3hd
+type: release
+statements:
+  name:
+  - value:
+      text: Shadi Fathi & Artyom Minasyan
+      language: fr
+    references:
+    - source: www.shadi-fathi.com-galerie-videos
+      quote: Shadi Fathi & Artyom Minasyan
+      accessed: '2026-11-21'
+      locator: Artist video gallery title
+  performer:
+  - value: Qfxqgvv
+    references:
+    - source: www.shadi-fathi.com-galerie-videos
+      quote: Shadi Fathi & Artyom Minasyan
+      accessed: '2026-11-21'
+      locator: Artist video gallery title
+    - source: www.odoensemble.com-en-shadi-fathi
+      quote: Shadi Fathi
+      accessed: '2026-11-21'
+      locator: Artist heading
+  listen link:
+  - value: https://www.youtube.com/watch?v=dr9II3u3a3E
+    references:
+    - source: www.shadi-fathi.com-galerie-videos
+      quote: dr9II3u3a3E
+      accessed: '2026-11-21'
+      locator: Artist embeds this specific YouTube video
+  cover art:
+  - value: https://i.ytimg.com/vi/dr9II3u3a3E/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-dr9ii3u3a3e
+      quote: https://i.ytimg.com/vi/dr9II3u3a3E/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Official thumbnail returned by YouTube for this video
+    qualifiers:
+      credit:
+        text: Madjid Khaladj - Topic · YouTube
+        language: en

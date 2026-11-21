@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/5FfSsdtFsdZbXKaZV4rA2t
+archive: "https://web.archive.org/web/20261120174108/https://open.spotify.com/album/5FfSsdtFsdZbXKaZV4rA2t"
 title: 'Listen to Prince of Persia: The Lost Crown - Mask of Darkness (Original Game Soundtrack) - EP by Mentrix | Spotify'
 kind: web page
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://maryamsirvan.bandcamp.com/track/departure
+archive: "https://web.archive.org/web/20250608233734/https://maryamsirvan.bandcamp.com/track/departure"
 title: Departure | Maryam Sirvan
 kind: web page
 language: en

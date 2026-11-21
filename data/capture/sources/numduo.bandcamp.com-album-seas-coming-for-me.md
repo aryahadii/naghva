@@ -1,5 +1,6 @@
 ---
 url: https://numduo.bandcamp.com/album/seas-coming-for-me
+archive: "https://web.archive.org/web/20260430210353/https://numduo.bandcamp.com/album/seas-coming-for-me"
 title: Seas Coming for Me | NUM
 kind: web page
 language: en

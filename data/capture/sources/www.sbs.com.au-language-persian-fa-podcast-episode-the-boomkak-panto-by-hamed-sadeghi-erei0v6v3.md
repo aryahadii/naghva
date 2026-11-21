@@ -6,6 +6,7 @@ tier: journalism
 language: fa
 about:
 - Eishan Ensemble
+- Vazesh
 status: processed
 ---
 
@@ -16,3 +17,7 @@ Artist biography, read 2026-11-21.
 > حامد صادقی متولد ایران
 
 Artist biography, read 2026-11-21.
+
+> "وزش" (Vazesh)
+
+Persian interview, read 2026-11-21.

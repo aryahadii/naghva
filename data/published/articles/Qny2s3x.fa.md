@@ -63,9 +63,41 @@ references:
     quote: Since the band began, we’ve lived on two different continents
     accessed: 2026-11-21
     locator: Second paragraph
+  festival:
+    source: tribecafilm.com-news-512c0c041c7d76d9a90004ce-press-release-2007-short
+    quote: EDDEAA, directed by Saman Arbabi (Iran/Sweden) – International Premiere.
+    accessed: 2026-11-21
+    locator: The 2007 programme, EDDEAA
+  early:
+    source: t.me-abjeezofficial-97
+    quote: Eddeaa from Abjeez debut album “Hameh” (2006)
+    accessed: 2026-11-21
+    locator: Video caption
+  remix:
+    source: safoura.com-artist
+    quote: WHO’S YO’ DADDY  (REMIX ALBUM) – 2007
+    accessed: 2026-11-21
+    locator: Abjeez discography
+  next:
+    source: abjeez.com-music
+    quote: REGGAE April 21, 2009
+    accessed: 2026-11-21
+    locator: Perfectly Displaced, date under album heading
+  paasho:
+    source: abjeez.com-music
+    quote: June 16, 2017
+    accessed: 2026-11-21
+    locator: Paa Sho!, date under album heading
+  tracklist:
+    source: music.apple.com-us-album-paa-sho-1250275961
+    quote: Estadium · Crossing Borders
+    accessed: 2026-11-21
+    locator: Apple Music track listing, tracks six and seven
 ---
 
 آبجیز از ترانه‌هایی شروع شد که دو خواهر در اتاقشان می‌ساختند. صفورا صفوی آهنگ می‌زد و ملودی صفوی روی آن شعر می‌گذاشت. دو خواهر که در ایران به دنیا آمده بودند، در سال ۲۰۰۵ در سوئد گروهشان را تشکیل دادند و اسمش را از کلمهٔ «آبجی» گرفتند.[^write][^birth][^sister]
+
+به گفتهٔ خواهرها، نخستین آلبومشان «همه» در سال ۲۰۰۶ منتشر شد. سامان اربابی برای یکی از ترانه‌های این آلبوم، «ادعا»، فیلم کوتاهی ساخت که در سال ۲۰۰۷ به جشنوارهٔ ترایبکا در نیویورک راه یافت. همان سال گروه آلبوم ریمیکس *Who’s Yo’ Daddy?* را هم منتشر کرد.[^early][^festival][^remix] آلبوم *Perfectly Displaced* در سال ۲۰۰۹ به بازار آمد. هشت سال بعد، «رد شدن از مرزها» و «استادیوم» هر دو در آلبوم «پا شو!» جای گرفتند.[^next][^paasho][^tracklist]
 
 ## ترانه‌ای برای عبور از مرز
 

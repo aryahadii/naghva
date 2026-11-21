@@ -1,5 +1,6 @@
 ---
 url: https://www.numduo.com/shed
+archive: "https://web.archive.org/web/20260810020952/https://www.numduo.com/shed"
 title: SHED | NUM
 kind: web page
 language: en

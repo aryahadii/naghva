@@ -17,6 +17,16 @@ statements:
       quote: Mirrored | NUM
       accessed: '2026-11-21'
       locator: Page title
+  - value: Q6zbcxw
+    references:
+    - &id001
+      source: www.numduo.com-mirrored
+      quote: composed and performed by Milad Bagheri and Maryam Sirvan (NUM) in early 2017 in Iran.
+      accessed: '2026-11-21'
+      locator: Work description
+  - value: Qj24qcs
+    references:
+    - *id001
   release date:
   - value:
       date: '2017'
@@ -25,3 +35,14 @@ statements:
       quote: '2017'
       accessed: '2026-11-21'
       locator: Performance or exhibition date
+  contributor:
+  - value: Q6zbcxw
+    references:
+    - *id001
+    qualifiers:
+      role: composer
+  - value: Qj24qcs
+    references:
+    - *id001
+    qualifiers:
+      role: composer

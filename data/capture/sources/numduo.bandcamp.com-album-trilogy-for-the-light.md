@@ -1,5 +1,6 @@
 ---
 url: https://numduo.bandcamp.com/album/trilogy-for-the-light
+archive: "https://web.archive.org/web/20230721014535/https://numduo.bandcamp.com/album/trilogy-for-the-light"
 title: Trilogy for the Light | NUM
 kind: web page
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://maryamsirvan.bandcamp.com/
+archive: "https://web.archive.org/web/20250606082720/https://maryamsirvan.bandcamp.com/"
 title: Music | Maryam Sirvan
 kind: web page
 language: en

@@ -6,9 +6,14 @@ tier: other
 language: en
 about:
 - Eishan Ensemble
+- Vazesh
 status: processed
 ---
 
 > Project Masnavi Eishan Ensemble Earshift Music / The Planet Company
 
 Nominees for Best World Music Album, read 2026-11-21.
+
+> The Sacred Key Vazesh Earshift Music / The Planet Company
+
+2021 Best Jazz Album nominees, read 2026-11-21.

@@ -1,0 +1,41 @@
+id: Q69ksep
+type: release
+statements:
+  name:
+  - value:
+      text: Trio Sorga
+      language: fr
+    references:
+    - source: www.shadi-fathi.com-galerie-videos
+      quote: Trio Sorga
+      accessed: '2026-11-21'
+      locator: Artist video gallery title
+  performer:
+  - value: Qfxqgvv
+    references:
+    - source: www.shadi-fathi.com-galerie-videos
+      quote: Trio Sorga
+      accessed: '2026-11-21'
+      locator: Artist video gallery title
+    - source: www.odoensemble.com-en-shadi-fathi
+      quote: Shadi Fathi
+      accessed: '2026-11-21'
+      locator: Artist heading
+  listen link:
+  - value: https://www.youtube.com/watch?v=mmPFbk7vuHE
+    references:
+    - source: www.shadi-fathi.com-galerie-videos
+      quote: mmPFbk7vuHE
+      accessed: '2026-11-21'
+      locator: Artist embeds this specific YouTube video
+  cover art:
+  - value: https://i.ytimg.com/vi/mmPFbk7vuHE/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-mmpfbk7vuhe
+      quote: https://i.ytimg.com/vi/mmPFbk7vuHE/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Official thumbnail returned by YouTube for this video
+    qualifiers:
+      credit:
+        text: Sh Fathi · YouTube
+        language: en

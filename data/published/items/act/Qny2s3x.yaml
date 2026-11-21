@@ -47,3 +47,15 @@ statements:
       quote: Abjeez
       accessed: 2026-11-21
       locator: Artist heading
+  - value: https://www.youtube.com/@Abjeez
+    references:
+    - source: www.youtube.com-abjeez
+      quote: ABJEEZ
+      accessed: 2026-11-21
+      locator: Channel heading
+  - value: https://t.me/abjeezofficial
+    references:
+    - source: t.me-abjeezofficial
+      quote: ABJEEZ-آبجيز- Official Page
+      accessed: 2026-11-21
+      locator: Channel title

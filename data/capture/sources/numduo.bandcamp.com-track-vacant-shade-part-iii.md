@@ -1,5 +1,6 @@
 ---
 url: https://numduo.bandcamp.com/track/vacant-shade-part-iii
+archive: "https://web.archive.org/web/20230721014657/https://numduo.bandcamp.com/track/vacant-shade-part-iii"
 title: Vacant Shade - Part III | NUM
 kind: web page
 language: en

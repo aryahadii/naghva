@@ -1,5 +1,6 @@
 ---
 url: https://numduo.bandcamp.com/track/departure
+archive: "https://web.archive.org/web/20230721014820/https://numduo.bandcamp.com/track/departure"
 title: Departure | Maryam Sirvan | NUM
 kind: web page
 language: en

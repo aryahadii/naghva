@@ -25,3 +25,26 @@ statements:
       quote: founded in 2005 by the Iranian-born sisters Melody and Safoura Safavi
       accessed: 2026-11-21
       locator: Introduction
+  image:
+  - value: https://upload.wikimedia.org/wikipedia/commons/9/90/Safoura_Safavi.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original
+    qualifiers:
+      credit:
+        text: David Douhan
+        language: en
+      license: https://creativecommons.org/licenses/by-sa/4.0/
+    references:
+    - source: commons.wikimedia.org-wiki-file-safoura_safavi.jpg
+      quote: 'Photo by: David Douhan'
+      accessed: 2026-11-21
+      locator: File description
+    - source: commons.wikimedia.org-wiki-file-safoura_safavi.jpg
+      quote: Creative Commons Attribution-Share Alike 4.0 International
+      accessed: 2026-11-21
+      locator: Licensing
+  profile link:
+  - value: https://music.apple.com/us/artist/safoura-safavi/510084858
+    references:
+    - source: music.apple.com-us-artist-safoura-safavi-510084858
+      quote: Safoura Safavi
+      accessed: 2026-11-21
+      locator: Artist heading

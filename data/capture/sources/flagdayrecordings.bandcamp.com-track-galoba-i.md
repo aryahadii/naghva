@@ -1,5 +1,6 @@
 ---
 url: https://flagdayrecordings.bandcamp.com/track/galoba-i
+archive: "https://web.archive.org/web/20261020150809/https://flagdayrecordings.bandcamp.com/track/galoba-i"
 title: Galoba I | Milad Bagheri | Flag Day Recordings
 kind: web page
 language: en

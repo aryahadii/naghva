@@ -63,9 +63,41 @@ references:
     quote: Since the band began, we’ve lived on two different continents
     accessed: 2026-11-21
     locator: Second paragraph
+  festival:
+    source: tribecafilm.com-news-512c0c041c7d76d9a90004ce-press-release-2007-short
+    quote: EDDEAA, directed by Saman Arbabi (Iran/Sweden) – International Premiere.
+    accessed: 2026-11-21
+    locator: The 2007 programme, EDDEAA
+  early:
+    source: t.me-abjeezofficial-97
+    quote: Eddeaa from Abjeez debut album “Hameh” (2006)
+    accessed: 2026-11-21
+    locator: Video caption
+  remix:
+    source: safoura.com-artist
+    quote: WHO’S YO’ DADDY  (REMIX ALBUM) – 2007
+    accessed: 2026-11-21
+    locator: Abjeez discography
+  next:
+    source: abjeez.com-music
+    quote: REGGAE April 21, 2009
+    accessed: 2026-11-21
+    locator: Perfectly Displaced, date under album heading
+  paasho:
+    source: abjeez.com-music
+    quote: June 16, 2017
+    accessed: 2026-11-21
+    locator: Paa Sho!, date under album heading
+  tracklist:
+    source: music.apple.com-us-album-paa-sho-1250275961
+    quote: Estadium · Crossing Borders
+    accessed: 2026-11-21
+    locator: Apple Music track listing, tracks six and seven
 ---
 
 Abjeez began with two sisters writing songs in their bedroom. Safoura Safavi would come up with a melody and Melody Safavi would fit words to it. Born in Iran, they formed the band in Sweden in 2005 and named it after *abjee*, a familiar Persian word for a sister.[^write][^birth][^sister]
+
+The sisters date their debut album, *Hameh*, to 2006. One of its songs, “Eddeaa,” travelled with a short film directed by Saman Arbabi. The Tribeca Film Festival chose it for its 2007 programme in New York, the same year Abjeez released the remix album *Who’s Yo’ Daddy?*.[^early][^festival][^remix] *Perfectly Displaced* followed in 2009. Eight years later the sisters released *Paa Sho!*, the album that brought “Crossing Borders” and “Estadium” together.[^next][^paasho][^tracklist]
 
 ## Writing across borders
 
