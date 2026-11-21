@@ -20,3 +20,7 @@ Release artwork, read 2026-11-21.
 > released January 20, 2023
 
 Published date, read 2026-11-21.
+
+> WOMAN, LIFE, FREEDOM
+
+Artist interview, biography or performance credits, read 2026-11-21.

@@ -16,3 +16,7 @@ Original programme, liner notes or performer credit, read 2026-11-21.
 Original programme, liner notes or performer credit, read 2026-11-21.
 
 > Roma - "CONT(ANIMA)ZIONE" ENSAMBLE IN CONCERTO - Beppe Capozza, Fulvio Maras, Hamid & Reza Mohsenipour
+
+Original programme, liner notes or performer credit, read 2026-11-21.
+
+> Beppe Capozza, Fulvio Maras, Hamid & Reza Mohsenipour

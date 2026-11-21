@@ -65,10 +65,32 @@ references:
     quote: '''Zigoorat'' live in Studio 5'
     accessed: 2026-11-21
     locator: Name of the performance
+  teach:
+    source: www.lavozdegalicia.es-noticia-sociedad-2018-03-08-primera-gaiteira-irani-elige-ourense-formarse-crear-escuela-pais-0003_201803g8p30992.htm
+    quote: para poder exportarlo a su país y enseñar a otras jóvenes
+    accessed: 2026-11-21
+    locator: 2018 interview on her purpose in studying
+  glas:
+    source: pipinglive.co.uk-pdfs-programme-2022.pdf
+    quote: Join Liana Sharifian, Iran’s first professional female piper and the Lian Music Band
+    accessed: 2026-11-21
+    locator: Programme for Iranian piping
+  film:
+    source: youtu.be-4al-7e_v22k
+    quote: Liana Sharifian (Iranian Bagpiper) Feature @ World Pipe Band Championships 2022
+    accessed: 2026-11-21
+    locator: TRADtv recording
+  solo:
+    source: t.me-liana_sharifian-23
+    quote: Liana Sharifian - Zahr
+    accessed: 2026-11-21
+    locator: Original solo release from the musician
 ---
 
 لیانا شریفیان شانزده سال داشت که نی‌انبان را پیش پدرش، محسن شریفیان، شروع کرد. در گفت‌وگو با انجمن نی‌انبان بریتانیا توضیح داده که ساز ایرانی را میان دو بازو می‌گیرد. نوازنده باید هم‌زمان بدمد، به انبان فشار بیاورد و انگشت‌گذاری کند. یک بار پیش از اجرا ساز را گرم کرده بود، اما وقتی روی صحنه رفت از قمیش‌های خیس صدایی درنیامد.[^piper][^age][^hands][^reeds]
 
-شریفیان در اورنسه، در شمال‌غرب اسپانیا، پیش مارکو فوکسو گایتا آموخت و دیپلم نوازندگی این ساز را گرفت. بعدها در کنسرواتوار دونکرک فرانسه به هنرجویان نی‌انبان ایرانی را معرفی کرد. در ترجمهٔ «رازهای نی‌انبان گالیسیایی» هم دو سنت را کنار هم گذاشت؛ مقایسهٔ اصطلاحات موسیقی ایران و اسپانیا را در پاورقی‌ها آورد تا از متن نویسنده جدا بماند.[^school][^teacher][^master][^book][^notes]
+شریفیان نوزده‌ساله بود که به اورنسه در شمال‌غرب اسپانیا رفت. می‌خواست آنچه می‌آموزد به زنان جوان دیگری در ایران هم یاد بدهد.[^teach] آنجا پیش مارکو فوکسو گایتا آموخت و دیپلم نوازندگی این ساز را گرفت. بعدها در کنسرواتوار دونکرک فرانسه به هنرجویان نی‌انبان ایرانی را معرفی کرد. در ترجمهٔ «رازهای نی‌انبان گالیسیایی» هم دو سنت را کنار هم گذاشت؛ مقایسهٔ اصطلاحات موسیقی ایران و اسپانیا را در پاورقی‌ها آورد تا از متن نویسنده جدا بماند.[^school][^teacher][^master][^book][^notes]
 
 در تنظیم تازهٔ «Boondan Boondan» از گروه هندی ماتی بانی، صدای نی‌انبان را شریفیان نواخته است. در استودیوی رادیو پی‌بی‌اس ملبورن هم برای اجرای «زیگورات» با گروه لیان، پدرش، آکا صفوی و ویلیام بارتن همراه شد.[^boondan][^pbs][^singer][^title]
+
+در برنامهٔ جشنوارهٔ نی‌انبان گلاسگو در ۲۰۲۲ نام او کنار گروه لیان آمده است. همان سال شبکهٔ TRADtv هم گزارشی از نوازندگی‌اش ضبط کرد. در دسامبر ۲۰۲۵ تک‌آهنگ «زهر» را به نام خودش منتشر کرد.[^glas][^film][^solo]

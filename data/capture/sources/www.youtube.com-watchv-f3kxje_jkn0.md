@@ -40,3 +40,11 @@ Original programme, liner notes or performer credit, read 2026-11-21.
 Original programme, liner notes or performer credit, read 2026-11-21.
 
 > Arrangiatori
+
+Original programme, liner notes or performer credit, read 2026-11-21.
+
+> Compositrice, autrice, arpa e voce
+
+Original programme, liner notes or performer credit, read 2026-11-21.
+
+> i vincitori per la nostra categoria

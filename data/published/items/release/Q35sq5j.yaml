@@ -17,11 +17,41 @@ statements:
       quote: «زندگی» Life
       locator: Original programme, liner notes or performer credit
       accessed: '2026-11-21'
+  - value: Q3sgmvw
+    references:
+    - source: www.youtube.com-watchv-kejgasyrwqg
+      quote: 'flute: Hamid Mohssenipour'
+      locator: Original programme, liner notes or performer credit
+      accessed: '2026-11-21'
+    qualifiers:
+      role: flute
+  - value: Qv5cgc3
+    references:
+    - source: www.youtube.com-watchv-kejgasyrwqg
+      quote: 'Vocal: Ghazal Rad'
+      locator: Original programme, liner notes or performer credit
+      accessed: '2026-11-21'
+    qualifiers:
+      role: vocals
+  - value: Q8wsr9s
+    references:
+    - source: www.youtube.com-watchv-kejgasyrwqg
+      quote: 'Piano and Electronic sound: Piero Antolini'
+      locator: Original programme, liner notes or performer credit
+      accessed: '2026-11-21'
+    qualifiers:
+      role: piano
   listen link:
   - value: https://www.youtube.com/watch?v=nfRabI58ruo
     references:
     - source: www.youtube.com-oembed-nfrabi58ruo
       quote: «زندگی» Life
+      locator: Original programme, liner notes or performer credit
+      accessed: '2026-11-21'
+  - value: https://www.youtube.com/watch?v=kEJgaSYRwQg
+    references:
+    - source: www.youtube.com-watchv-kejgasyrwqg
+      quote: Barbad Projects
       locator: Original programme, liner notes or performer credit
       accessed: '2026-11-21'
   cover art:
@@ -39,3 +69,12 @@ statements:
       quote: '2025-11-11'
       locator: Original programme, liner notes or performer credit
       accessed: '2026-11-21'
+  contributor:
+  - value: Q3sgmvw
+    references:
+    - source: www.youtube.com-watchv-kejgasyrwqg
+      quote: 'Composer: Hamid Mohssenipour'
+      locator: Original programme, liner notes or performer credit
+      accessed: '2026-11-21'
+    qualifiers:
+      role: composer

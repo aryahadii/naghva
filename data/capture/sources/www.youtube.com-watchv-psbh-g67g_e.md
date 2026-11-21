@@ -16,3 +16,7 @@ Original programme, liner notes or performer credit, read 2026-11-21.
 Original programme, liner notes or performer credit, read 2026-11-21.
 
 > Tàr: Reza Mohsenipour
+
+Original programme, liner notes or performer credit, read 2026-11-21.
+
+> این قطعه را در آخرین روزهایی که ایران بودم

@@ -65,10 +65,32 @@ references:
     quote: '''Zigoorat'' live in Studio 5'
     accessed: 2026-11-21
     locator: Name of the performance
+  teach:
+    source: www.lavozdegalicia.es-noticia-sociedad-2018-03-08-primera-gaiteira-irani-elige-ourense-formarse-crear-escuela-pais-0003_201803g8p30992.htm
+    quote: para poder exportarlo a su país y enseñar a otras jóvenes
+    accessed: 2026-11-21
+    locator: 2018 interview on her purpose in studying
+  glas:
+    source: pipinglive.co.uk-pdfs-programme-2022.pdf
+    quote: Join Liana Sharifian, Iran’s first professional female piper and the Lian Music Band
+    accessed: 2026-11-21
+    locator: Programme for Iranian piping
+  film:
+    source: youtu.be-4al-7e_v22k
+    quote: Liana Sharifian (Iranian Bagpiper) Feature @ World Pipe Band Championships 2022
+    accessed: 2026-11-21
+    locator: TRADtv recording
+  solo:
+    source: t.me-liana_sharifian-23
+    quote: Liana Sharifian - Zahr
+    accessed: 2026-11-21
+    locator: Original solo release from the musician
 ---
 
 Liana Sharifian was sixteen when she began learning the ney-anban from her father, Mohsen Sharifian. She holds the Iranian bagpipe between both arms. As she explained to the Bagpipe Society, the player has to keep blowing, squeezing the bag and fingering the chanter in balance. Once, after warming up for a performance, she stepped onstage and found the wet reeds would make no sound.[^piper][^age][^hands][^reeds]
 
-In Ourense she studied the Galician gaita with Marco Foxo and earned a diploma. Later, while teaching a masterclass at the conservatoire in Dunkerque, she introduced students to the Iranian instrument. Another way she taught the two traditions side by side was on paper. For her Persian translation of a book on the Galician bagpipe, she kept her own comparisons between Iranian and Spanish terms in the footnotes.[^school][^teacher][^master][^book][^notes]
+At nineteen she went to Ourense hoping to bring what she learned back to young women in Iran.[^teach] There she studied the Galician gaita with Marco Foxo and earned a diploma. Later, while teaching a masterclass at the conservatoire in Dunkerque, she introduced students to the Iranian instrument. Another way she taught the two traditions side by side was on paper. For her Persian translation of a book on the Galician bagpipe, she kept her own comparisons between Iranian and Spanish terms in the footnotes.[^school][^teacher][^master][^book][^notes]
 
 On Maati Baani’s new arrangement of “Boondan Boondan,” her part is the ney-anban. In Melbourne she joined her father’s Lian Band and singer Aka Safavi in the PBS radio studio for “Zigoorat,” with William Barton.[^boondan][^pbs][^singer][^title]
+
+In 2022 Glasgow’s Piping Live! programme billed her with Lian Music Band. TRADtv also filmed a feature on her playing that year. In December 2025 she released the single “Zahr” under her own name.[^glas][^film][^solo]

@@ -12,3 +12,15 @@ status: processed
 > Stream Mundane (featuring Meshcut, Eiman) by The Finches | Listen online for free on SoundCloud
 
 Page title, read 2026-11-21.
+
+> Mundane (featuring Meshcut, Eiman)
+
+Artist interview, biography or performance credits, read 2026-11-21.
+
+> Meshcut
+
+Artist interview, biography or performance credits, read 2026-11-21.
+
+> Eiman
+
+Artist interview, biography or performance credits, read 2026-11-21.

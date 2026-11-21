@@ -24,3 +24,7 @@ Original programme, liner notes or performer credit, read 2026-11-21.
 Original programme, liner notes or performer credit, read 2026-11-21.
 
 > Electronic Sounds: Piero Antolini
+
+Original programme, liner notes or performer credit, read 2026-11-21.
+
+> Carna & Violin: Rashid Shabanian

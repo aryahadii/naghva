@@ -16,3 +16,11 @@ Artist interview, biography or performance credits, read 2026-11-21.
 > Meshcut, vocalist and synthesizer player
 
 Artist interview, biography or performance credits, read 2026-11-21.
+
+> underground music scene of Tehran
+
+Artist interview, biography or performance credits, read 2026-11-21.
+
+> Meshcut, vocalist and synthesizer player, and Xeen, producing and playing the electronics
+
+Artist interview, biography or performance credits, read 2026-11-21.

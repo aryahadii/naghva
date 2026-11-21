@@ -17,6 +17,18 @@ statements:
       quote: Zamaneh (feat. Maryam Akhondy)
       accessed: 2026-11-21
       locator: Native title
+  - value: https://music.apple.com/us/song/zamaneh-feat-maryam-akhondy/1766961955
+    references:
+    - source: music.apple.com-us-album-hafez-ensemble-feat-maryam-akhondy-1766961728
+      quote: Zamaneh (feat. Maryam Akhondy)
+      accessed: 2026-11-21
+      locator: Native track 3
+  - value: https://open.spotify.com/track/1fw5gdHLfNttbXfsfRy24k
+    references:
+    - source: open.spotify.com-album-6owv0aqy1ubaidf3igonte
+      quote: Zamaneh · Farshad Mohammadi, Holger Falk, Maryam Akhondy
+      accessed: 2026-11-21
+      locator: Track title and performers
   release date:
   - value:
       date: '2006-11-15'

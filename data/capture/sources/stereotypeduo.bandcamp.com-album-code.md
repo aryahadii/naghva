@@ -24,3 +24,19 @@ Release artwork, read 2026-11-21.
 > released May 3, 2024
 
 Published date, read 2026-11-21.
+
+> from Tehran to Istanbul to Paris
+
+Artist interview, biography or performance credits, read 2026-11-21.
+
+> between electronic rock and synthwave
+
+Artist interview, biography or performance credits, read 2026-11-21.
+
+> written and composed by Meshcut and XEEN
+
+Artist interview, biography or performance credits, read 2026-11-21.
+
+> Mix by @shahin_entezami
+
+Artist interview, biography or performance credits, read 2026-11-21.

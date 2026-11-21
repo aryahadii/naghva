@@ -12,3 +12,15 @@ about:
 Original programme, liner notes or performer credit, read 2026-11-21.
 
 > Reza Mohsenipour
+
+Original programme, liner notes or performer credit, read 2026-11-21.
+
+> the Santa Cecilia Conservatory in Rome and La Sapienza University in Rome
+
+Original programme, liner notes or performer credit, read 2026-11-21.
+
+> He performed with the Tehran Symphony and the Iranian Television Orchestra
+
+Original programme, liner notes or performer credit, read 2026-11-21.
+
+> Persian Music and Spiritual Health

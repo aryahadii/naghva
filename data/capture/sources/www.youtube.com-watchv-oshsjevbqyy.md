@@ -16,3 +16,7 @@ Original programme, liner notes or performer credit, read 2026-11-21.
 Original programme, liner notes or performer credit, read 2026-11-21.
 
 > رضا محسنی پور متولد ۱۳۵۵ تهران
+
+Original programme, liner notes or performer credit, read 2026-11-21.
+
+> فوق لیسانس دانشگاه هنر

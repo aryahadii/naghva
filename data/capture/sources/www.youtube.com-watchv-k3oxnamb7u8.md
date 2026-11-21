@@ -24,3 +24,7 @@ Original programme, liner notes or performer credit, read 2026-11-21.
 Original programme, liner notes or performer credit, read 2026-11-21.
 
 > Golshifteh Farahani
+
+Original programme, liner notes or performer credit, read 2026-11-21.
+
+> 20 years have passed and not even exile has divided us.

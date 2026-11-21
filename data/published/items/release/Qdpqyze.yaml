@@ -17,6 +17,18 @@ statements:
       quote: Menat-e Khak (feat. Maryam Akhondy)
       accessed: 2026-11-21
       locator: Native title
+  - value: https://music.apple.com/us/song/menat-e-khak-feat-maryam-akhondy/1766961732
+    references:
+    - source: music.apple.com-us-album-hafez-ensemble-feat-maryam-akhondy-1766961728
+      quote: Menat-e Khak (feat. Maryam Akhondy)
+      accessed: 2026-11-21
+      locator: Native track 1
+  - value: https://open.spotify.com/track/5Y6z4knYjyOvkmqdBduX15
+    references:
+    - source: open.spotify.com-album-6owv0aqy1ubaidf3igonte
+      quote: Menat-e Khak · Farshad Mohammadi, Holger Falk, Maryam Akhondy
+      accessed: 2026-11-21
+      locator: Track title and performers
   release date:
   - value:
       date: '2006-11-15'

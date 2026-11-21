@@ -20,3 +20,7 @@ Artist interview, biography or performance credits, read 2026-11-21.
 > Iranian musicians Meshcut and Xeen
 
 Artist interview, biography or performance credits, read 2026-11-21.
+
+> produced and recorded during the covid-19 lockdown
+
+Artist interview, biography or performance credits, read 2026-11-21.

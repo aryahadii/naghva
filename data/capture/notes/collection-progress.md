@@ -130,10 +130,16 @@ The expansion started at revision fa6c29ca with 124 bilingual artist pages. The 
 | Hailstones | Q2e2223 | 9.2/10 | [Independent review](artist-page-scores.md) |
 | Shen Band | Qavhs3y | 9.3/10 | [Independent review](artist-page-scores.md) |
 | Sahba Motallebi | Qyw49hh | 9.3/10 | [Independent review](sahba-motallebi-independent-review.md) |
-| ArtSaves | Qw9zs9g | Pending | [Catalogue](artsaves.md) |
-| Mohsen Sharifian | Qa744p5 | Pending | [Catalogue](mohsen-sharifian.md) |
-| Lian Music Band | Qdgssxh | Pending | [Catalogue](lian-music-band.md) |
+| ArtSaves | Qw9zs9g | 9.2/10 | [Independent review](artsaves-independent-review.md) |
+| Mohsen Sharifian | Qa744p5 | 9.2/10 | [Independent review](mohsen-sharifian-independent-review.md) |
+| Lian Music Band | Qdgssxh | 9.2/10 | [Independent review](lian-music-band-independent-review.md) |
 | Regard Persan | Q9cyea8 | Pending | [Catalogue](regard-persan.md) |
 | Liana Sharifian | Qwk3rke | Pending | [Catalogue](liana-sharifian.md) |
+| XEEN | Qb5hnjh | Pending | [Catalogue](xeen.md) |
+| The Finches | Qnw83g7 | Pending | [Catalogue](the-finches.md) |
+| Stereotype | Q6g9xwf | Pending | [Catalogue](stereotype.md) |
+| Farshad Mohammadi | Qdqq7t4 | Pending | [Catalogue](farshad-mohammadi.md) |
+| Barbad Project | Q4kxyfv | Pending | [Catalogue](barbad-project.md) |
+| Reza Mohsenipour | Q2pj5vj | Pending | [Catalogue](reza-mohsenipour.md) |
 
 The [discovery list](independent-artist-discovery.md) contains candidates with release leads. Some will prove ineligible or match an existing artist by another spelling. Only new artist pages count toward the target.

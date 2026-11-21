@@ -1,0 +1,65 @@
+id: Qgcfbhd
+type: release
+statements:
+  name:
+  - value:
+      text: 'UWS Global #35 Tehran: Beshknow'
+      language: en
+    references:
+    - source: www.youtube.com-watch-v-qbsv3qmm4dk
+      quote: 'UWS Global #35 Tehran: Beshknow'
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://www.youtube.com/watch?v=QbSv3QMM4Dk
+    references:
+    - source: www.youtube.com-watch-v-qbsv3qmm4dk
+      quote: 'UWS Global #35 Tehran: Beshknow'
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2020-06-03'
+    references:
+    - source: www.youtube.com-watch-v-qbsv3qmm4dk
+      quote: '2020-06-03'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  cover art:
+  - value: https://i.ytimg.com/vi/QbSv3QMM4Dk/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-qbsv3qmm4dk
+      quote: https://i.ytimg.com/vi/QbSv3QMM4Dk/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: ARTE Concert
+        language: en
+  performer:
+  - value: Q6g9xwf
+    references:
+    - source: www.youtube.com-watch-v-qbsv3qmm4dk
+      quote: Stereotype 21:45 - 22:30
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Qb5hnjh
+    references:
+    - source: 30m-records.com-stereotype
+      quote: Xeen, producing and playing the electronics
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: electronics
+  - value: Qh6s4f5
+    references:
+    - source: 30m-records.com-stereotype
+      quote: Meshcut, vocalist and synthesizer player
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Q8tq6bc
+    references:
+    - source: www.youtube.com-watch-v-qbsv3qmm4dk
+      quote: Temp-Illusion 21:00 - 21:45
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits

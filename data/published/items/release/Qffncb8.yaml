@@ -17,6 +17,18 @@ statements:
       quote: Razyaneh (feat. Maryam Akhondy)
       accessed: 2026-11-21
       locator: Native title
+  - value: https://music.apple.com/us/song/razyaneh-feat-maryam-akhondy/1766961950
+    references:
+    - source: music.apple.com-us-album-hafez-ensemble-feat-maryam-akhondy-1766961728
+      quote: Razyaneh (feat. Maryam Akhondy)
+      accessed: 2026-11-21
+      locator: Native track 2
+  - value: https://open.spotify.com/track/5aSE7b0IoiR96kanBCpxmE
+    references:
+    - source: open.spotify.com-album-6owv0aqy1ubaidf3igonte
+      quote: Razyaneh · Farshad Mohammadi, Holger Falk, Maryam Akhondy
+      accessed: 2026-11-21
+      locator: Track title and performers
   release date:
   - value:
       date: '2006-11-15'

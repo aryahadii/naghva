@@ -10,3 +10,41 @@ statements:
       quote: Stereotype
       accessed: '2026-11-21'
       locator: Artist interview, biography or performance credits
+  formation date:
+  - value:
+      date: '2020'
+    references:
+    - source: 1beat.org-people-xeen
+      quote: When the pandemic began in 2020
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  profile link:
+  - value: https://open.spotify.com/artist/4qUcd392VRtnH3qgakU4ib?si=0CQlunVQRdOhBzT5-MSboQ
+    references:
+    - source: open.spotify.com-artist-4qucd392vrtnh3qgaku4ib-si-0cqlunvqrdohbzt5-msboq
+      quote: Listen to Stereotype Songs | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/artist/stereotype/1524524030
+    references:
+    - source: music.apple.com-us-artist-stereotype-1524524030
+      quote: ‎Stereotype - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://stereotypeduo.bandcamp.com/music
+    references:
+    - source: stereotypeduo.bandcamp.com-music
+      quote: Music | Stereotype
+      accessed: '2026-11-21'
+      locator: Page title
+  image:
+  - value: https://i.scdn.co/image/ab6761610000e5eb1519e79d49c3a47ed81c4c84
+    references:
+    - source: open.spotify.com-artist-4qucd392vrtnh3qgaku4ib-si-0cqlunvqrdohbzt5-msboq
+      quote: https://i.scdn.co/image/ab6761610000e5eb1519e79d49c3a47ed81c4c84
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: Stereotype, via Spotify
+        language: en

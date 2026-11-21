@@ -20,3 +20,7 @@ Release artwork, read 2026-11-21.
 > released August 7, 2021
 
 Published date, read 2026-11-21.
+
+> taken from the opening moments
+
+Artist interview, biography or performance credits, read 2026-11-21.

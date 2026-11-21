@@ -20,3 +20,11 @@ Artist interview, biography or performance credits, read 2026-11-21.
 > Klangteppich III Festival – Boeykens and Xeen - Berlin Istanbul - aNoise
 
 Page title, read 2026-11-21.
+
+> Boeykens/Berlin – tuba
+
+Artist interview, biography or performance credits, read 2026-11-21.
+
+> Xeen/Istanbul – electronics
+
+Artist interview, biography or performance credits, read 2026-11-21.

@@ -31,3 +31,5 @@ Her own channel independently confirms the Zahr single, the earlier collaboratio
 - جناب خان (Q2dgy8n)
 - Gaita in Galicia (Qhbjqpm)
 - گفتگو و اجرای نی‌انبان برای هفدانگ (Q64ded7)
+
+The 2022 Glasgow programme and broadcaster’s separately titled feature are documented independently. [Programme](https://pipinglive.co.uk/pdfs/programme-2022.pdf) · [TRADtv film](https://youtu.be/4al-7E_V22k)

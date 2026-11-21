@@ -17,6 +17,18 @@ statements:
       quote: Hafez Ensemble (feat. Maryam Akhondy)
       accessed: 2026-11-21
       locator: Native title
+  - value: https://music.apple.com/us/album/hafez-ensemble-feat-maryam-akhondy/1766961728
+    references:
+    - source: music.apple.com-us-album-hafez-ensemble-feat-maryam-akhondy-1766961728
+      quote: Hafez Ensemble (feat. Maryam Akhondy) · Farshad Mohammadi · Holger Falk · 2006-11-15
+      accessed: 2026-11-21
+      locator: Digital edition, date and artist billing
+  - value: https://open.spotify.com/album/6oWv0Aqy1uBaiDf3igoNTe
+    references:
+    - source: open.spotify.com-album-6owv0aqy1ubaidf3igonte
+      quote: Hafez Ensemble · Farshad Mohammadi
+      accessed: 2026-11-21
+      locator: Spotify native issue
   release date:
   - value:
       date: '2006-11-15'
