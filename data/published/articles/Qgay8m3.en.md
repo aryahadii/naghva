@@ -130,11 +130,26 @@ references:
     quote: duo compositions commissioned by M³
     locator: Artist interview, recording credits or commissioning programme
     accessed: '2026-11-21'
+  concert:
+    source: www.berklee.edu-events-bahar-badieitabar-virtual-concert
+    quote: August 11, 2020
+    locator: College concert announcement and original recording
+    accessed: '2026-11-21'
+  full:
+    source: www.youtube.com-watchv-ralluvtc3lu
+    quote: 'Watch Bahar''s full concert here: https://www.instagram.com/tv/CDxK2Vihcp_/'
+    locator: College concert announcement and original recording
+    accessed: '2026-11-21'
+  arr:
+    source: www.youtube.com-watchv-ralluvtc3lu
+    quote: The song was arranged by Eunike Tanzil
+    locator: College concert announcement and original recording
+    accessed: '2026-11-21'
 ---
 
 Bahar Badiei is an oud player and composer from Tehran who lives in Brooklyn. At twelve she entered the Tehran Music School, where she learned to read music and took up the oud. Her teacher Siavash Roshan encouraged her to write for the instrument as well as play it. At sixteen and seventeen she won first prize at Iran’s National Youth Music Festival. In 2017 she began studying oud at the University of Tehran.[^orig][^age][^conserv][^mentor][^wins][^uni]
 
-Listening to Tunisian oudist Anouar Brahem led her to bassist Dave Holland and drummer Jack DeJohnette. She wanted to study in a setting where she could explore those sounds and travelled to China to audition for Berklee, which offered her a Presidential Scholarship.[^jazz][^bass][^china][^scholar] For a 2022 Berklee session with [Mahya Hamedi](/en/mahya-hamedi-3yt/), she paired her composition “Blossom” with Qolamhossein Bigjekhani’s “Reng-e Afshari.”[^two][^reng][^guest][^date]
+Listening to Tunisian oudist Anouar Brahem led her to bassist Dave Holland and drummer Jack DeJohnette. She wanted to study in a setting where she could explore those sounds and travelled to China to audition for Berklee, which offered her a Presidential Scholarship.[^jazz][^bass][^china][^scholar] On August 11, 2020, she played a [virtual concert for Berklee](https://www.instagram.com/tv/CDxK2Vihcp_/). The college released her “Negah,” arranged by Eunike Tanzil, as a separate film.[^concert][^full][^arr] For a 2022 Berklee session with [Mahya Hamedi](/en/mahya-hamedi-3yt/), she paired her composition “Blossom” with Qolamhossein Bigjekhani’s “Reng-e Afshari.”[^two][^reng][^guest][^date]
 
 At the Berklee Global Jazz Institute, Badiei studied how the oud had fallen out of use in Iran and wrote arrangements in which it could move between the melody and the rhythm section. This became her 2025 master’s project, *Embraced by the Flowing Water*. She brought the title composition to the Detroit Jazz Festival with [Zambra Collective](/en/zambra-collective-v44/).[^thesis][^role][^masters][^det]
 

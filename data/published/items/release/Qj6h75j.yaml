@@ -1,0 +1,62 @@
+id: Qj6h75j
+type: release
+statements:
+  name:
+  - value:
+      text: Atashe To
+      language: en
+    references:
+    - source: open.spotify.com-embed-album-7jgfv3mjfjkpurw7xtqgvf
+      quote: Atashe To
+      accessed: '2026-11-21'
+      locator: Named song in selected recording
+  performer:
+  - value: Q6v5vrx
+    references:
+    - source: open.spotify.com-embed-album-7jgfv3mjfjkpurw7xtqgvf
+      quote: Atashe To
+      accessed: '2026-11-21'
+      locator: Named song in selected recording
+  - value: Qa6r74t
+    qualifiers:
+      role:
+      - bass
+    references:
+    - source: news.gooya.com-culture-archives-2005-12-041224print.php
+      quote: تنها کسی که در تمام قطعات همکاری داشت، کسری سبکتکین بود که بیس لاین همه‌ی قطعات را زد.
+      accessed: '2026-11-21'
+      locator: Contemporary interview on Aloodeh
+  listen link:
+  - value: https://open.spotify.com/track/3VYw51WSVh7H4UbgI4QNb2
+    references:
+    - source: open.spotify.com-embed-album-7jgfv3mjfjkpurw7xtqgvf
+      quote: spotify:track:3VYw51WSVh7H4UbgI4QNb2
+      accessed: '2026-11-21'
+      locator: Original song URI
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/be/da/f4/bedaf40c-08aa-38f5-851a-10ea68e3e7b4/205581.jpg/296x296bb.webp
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-aloodeh-923252641-74407e100901
+      quote: 'Listen to Aloodeh by O-Hum on Apple Music. 2005. 12 Songs. Duration: 51 minutes.'
+      accessed: '2026-10-19'
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/be/da/f4/bedaf40c-08aa-38f5-851a-10ea68e3e7b4/205581.jpg/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Digital distributor artwork
+        language: en
+    references:
+    - source: music.apple.com-us-album-aloodeh-923252641
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/be/da/f4/bedaf40c-08aa-38f5-851a-10ea68e3e7b4/205581.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Original release image
+  release date:
+  - value:
+      date: '2005-12-09'
+    references:
+    - source: music.apple.com-us-album-aloodeh-923252641-74407e100901
+      quote: '"datePublished":"2005-12-09"'
+      accessed: '2026-10-19'

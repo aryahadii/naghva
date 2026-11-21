@@ -20,3 +20,7 @@ Published date, read 2026-11-21.
 > https://f4.bcbits.com/img/a0303318687_10.jpg
 
 Release artwork, read 2026-11-21.
+
+> in-between full consciousness and deep sleep.
+
+Artist interview, biography or performance credits, read 2026-11-21.

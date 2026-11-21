@@ -32,3 +32,7 @@ Published date, read 2026-11-21.
 > https://f4.bcbits.com/img/a0052073679_10.jpg
 
 Release artwork, read 2026-11-21.
+
+> The world of Kandoo consists of six smaller hives
+
+Artist interview, biography or performance credits, read 2026-11-21.

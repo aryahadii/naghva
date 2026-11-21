@@ -1,0 +1,40 @@
+id: Qjnf2p9
+type: release
+statements:
+  name:
+  - value:
+      text: Simple One
+      language: en
+    references:
+    - source: www.carolinethon.de-js_albums-eurasians-unity
+      quote: Simple One (2:31)
+      accessed: 2026-11-21
+      locator: Recorded piece
+  contributor:
+  - value: Qtqjb47
+    qualifiers:
+      role: composer
+      credited as:
+        text: theme
+        language: en
+    references:
+    - source: www.carolinethon.de-js_albums-eurasians-unity
+      quote: 3 Simple One-theme Negar Bouban
+      accessed: 2026-11-21
+      locator: Track 3, melodic theme
+  - value: Q734mjd
+    qualifiers:
+      role: arranger
+    references:
+    - source: www.carolinethon.de-js_albums-eurasians-unity
+      quote: '(comp/ arr: Tamara Lukasheva)'
+      accessed: 2026-11-21
+      locator: Composition and arrangement for track 3
+  - value: Q734mjd
+    qualifiers:
+      role: composer
+    references:
+    - source: www.carolinethon.de-js_albums-eurasians-unity
+      quote: '(comp/ arr: Tamara Lukasheva)'
+      accessed: 2026-11-21
+      locator: Composition and arrangement for track 3

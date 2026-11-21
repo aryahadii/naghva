@@ -1,0 +1,66 @@
+id: Q5gcwsh
+type: release
+statements:
+  name:
+  - value:
+      text: On Fire
+      language: en
+    references:
+    - source: www.negarbouban.com-onfire
+      quote: On Fire
+      accessed: 2026-11-21
+      locator: Album title
+  performer:
+  - value: Qtqjb47
+    references:
+    - source: www.negarbouban.com-onfire
+      quote: On Fire
+      accessed: 2026-11-21
+      locator: Album title
+  release type:
+  - value: album
+    references:
+    - source: www.negarbouban.com-onfire
+      quote: On Fire
+      accessed: 2026-11-21
+      locator: Album title
+  listen link:
+  - value: https://www.youtube.com/playlist?list=OLAK5uy_ksK_Z7BRetM-aO8pIcpjYq8mDmY5F_Z2I
+    references:
+    - source: www.negarbouban.com-onfire
+      quote: On Fire
+      accessed: 2026-11-21
+      locator: Album title
+  - value: https://music.youtube.com/playlist?list=OLAK5uy_nxMNAMTcHArGStmLJoXKbgn5ZinxmzMYA
+    references:
+    - source: www.negarbouban.com-onfire
+      quote: On Fire
+      accessed: 2026-11-21
+      locator: Album title
+  - value: https://open.spotify.com/album/3OyFbJ01WwQw2lD31iytqC?autoplay=true
+    references:
+    - source: www.negarbouban.com-onfire
+      quote: On Fire
+      accessed: 2026-11-21
+      locator: Album title
+  - value: https://music.apple.com/us/album/on-fire/1396963283
+    references:
+    - source: www.negarbouban.com-onfire
+      quote: On Fire
+      accessed: 2026-11-21
+      locator: Album title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/3a/66/80/3a66808c-cfe2-b56b-d350-7d5a16b83a08/192914294061.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-the-death-of-me-1396963283
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/3a/66/80/3a66808c-cfe2-b56b-d350-7d5a16b83a08/192914294061.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Digital artwork
+  release date:
+  - value:
+      date: '2018-04-30'
+    references:
+    - source: music.apple.com-us-album-the-death-of-me-1396963283
+      quote: '2018-04-30'
+      accessed: 2026-11-21
+      locator: Digital edition date

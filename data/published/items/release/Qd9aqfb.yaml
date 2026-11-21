@@ -1,0 +1,89 @@
+id: Qd9aqfb
+type: release
+statements:
+  name:
+  - value:
+      text: Bifarda
+      language: en
+    references:
+    - source: open.spotify.com-embed-track-187ajbygicr5bfv5tyiaqk
+      quote: Bifarda
+      accessed: '2026-11-21'
+      locator: Original Spotify recording or album
+  release type:
+  - value: single
+    references:
+    - source: open.spotify.com-embed-track-187ajbygicr5bfv5tyiaqk
+      quote: Bifarda
+      accessed: '2026-11-21'
+      locator: Original Spotify recording or album
+  performer:
+  - value: Qxs89jd
+    references:
+    - source: open.spotify.com-embed-track-187ajbygicr5bfv5tyiaqk
+      quote: Bifarda
+      accessed: '2026-11-21'
+      locator: Original Spotify recording or album
+  - value: Qa6r74t
+    qualifiers:
+      role:
+      - bass
+    references:
+    - source: kasrasaboktakin.com-music
+      quote: https://open.spotify.com/track/187AjbYGiCr5Bfv5TYiAQk
+      accessed: '2026-11-21'
+      locator: Record linked by bassist in his own portfolio
+  listen link:
+  - value: https://open.spotify.com/track/187AjbYGiCr5Bfv5TYiAQk
+    references:
+    - source: open.spotify.com-embed-track-187ajbygicr5bfv5tyiaqk
+      quote: Bifarda
+      accessed: '2026-11-21'
+      locator: Original Spotify recording or album
+  - value: https://music.apple.com/us/song/bifarda/1813201692
+    references:
+    - source: music.apple.com-us-album-bifarda-1813201691
+      quote: Bifarda - Single
+      accessed: '2026-11-21'
+      locator: Apple issue
+  - value: https://soundcloud.com/kass-bass/kian_pourtorab_bifarda
+    references:
+    - source: soundcloud.com-kass-bass-kian_pourtorab_bifarda
+      quote: Stream Kian_Pourtorab_Bifarda by Kasra Saboktakin | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Bassist’s original SoundCloud upload
+  - value: https://www.youtube.com/watch?v=VFmv8GttsuY
+    references:
+    - source: youtu.be-vfmv8gttsuy-si-kptgakhhpahd5lfw
+      quote: Bifarda
+      accessed: '2026-11-21'
+      locator: Original distribution or artist recording
+  release date:
+  - value:
+      date: '2025-05-12'
+    references:
+    - source: open.spotify.com-embed-track-187ajbygicr5bfv5tyiaqk
+      quote: '2025-05-12'
+      accessed: '2026-11-21'
+      locator: Digital issue date
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d0000b27395ae887d288386c3a437fbbc
+    qualifiers:
+      credit:
+        text: Digital distributor artwork
+        language: en
+    references:
+    - source: open.spotify.com-track-187ajbygicr5bfv5tyiaqk
+      quote: https://i.scdn.co/image/ab67616d0000b27395ae887d288386c3a437fbbc
+      accessed: '2026-11-21'
+      locator: Original release image
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bb/95/d7/bb95d726-e885-a688-b539-b7344cc1af2f/artwork.jpg/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Digital distributor artwork
+        language: en
+    references:
+    - source: music.apple.com-us-album-bifarda-1813201691
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bb/95/d7/bb95d726-e885-a688-b539-b7344cc1af2f/artwork.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Original release image

@@ -1,0 +1,89 @@
+id: Qqqntdd
+type: release
+statements:
+  name:
+  - value:
+      text: Now or Never
+      language: en
+    references:
+    - source: open.spotify.com-embed-track-5dvhgjovla6amvmjvxh36w
+      quote: Now or Never
+      accessed: '2026-11-21'
+      locator: Original Spotify recording or album
+  release type:
+  - value: single
+    references:
+    - source: open.spotify.com-embed-track-5dvhgjovla6amvmjvxh36w
+      quote: Now or Never
+      accessed: '2026-11-21'
+      locator: Original Spotify recording or album
+  performer:
+  - value: Qwmja27
+    references:
+    - source: open.spotify.com-embed-track-5dvhgjovla6amvmjvxh36w
+      quote: Now or Never
+      accessed: '2026-11-21'
+      locator: Original Spotify recording or album
+  - value: Qa6r74t
+    qualifiers:
+      role:
+      - bass
+    references:
+    - source: kasrasaboktakin.com-music
+      quote: https://open.spotify.com/track/5DvhGJOVla6amVMjVXh36w
+      accessed: '2026-11-21'
+      locator: Record linked by bassist in his own portfolio
+  listen link:
+  - value: https://open.spotify.com/track/5DvhGJOVla6amVMjVXh36w
+    references:
+    - source: open.spotify.com-embed-track-5dvhgjovla6amvmjvxh36w
+      quote: Now or Never
+      accessed: '2026-11-21'
+      locator: Original Spotify recording or album
+  - value: https://music.apple.com/us/song/now-or-never/1832611099
+    references:
+    - source: music.apple.com-us-album-now-or-never-1832611098
+      quote: Now or Never - Single
+      accessed: '2026-11-21'
+      locator: Apple issue
+  - value: https://soundcloud.com/kass-bass/now-or-never
+    references:
+    - source: soundcloud.com-kass-bass-now-or-never
+      quote: Stream Now or Never by Kasra Saboktakin | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Bassist’s original SoundCloud upload
+  - value: https://www.youtube.com/watch?v=YgN6qONu9iI
+    references:
+    - source: youtu.be-ygn6qonu9ii-si-nod8zltnlx796rf1
+      quote: Now or Never
+      accessed: '2026-11-21'
+      locator: Original distribution or artist recording
+  release date:
+  - value:
+      date: '2025-08-16'
+    references:
+    - source: open.spotify.com-embed-track-5dvhgjovla6amvmjvxh36w
+      quote: '2025-08-16'
+      accessed: '2026-11-21'
+      locator: Digital issue date
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d0000b273394e062fd01a4683601552e4
+    qualifiers:
+      credit:
+        text: Digital distributor artwork
+        language: en
+    references:
+    - source: open.spotify.com-track-5dvhgjovla6amvmjvxh36w
+      quote: https://i.scdn.co/image/ab67616d0000b273394e062fd01a4683601552e4
+      accessed: '2026-11-21'
+      locator: Original release image
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/d4/93/abd493e8-3236-50ef-fb76-9a56cd01ed2b/199800394072.jpg/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Digital distributor artwork
+        language: en
+    references:
+    - source: music.apple.com-us-album-now-or-never-1832611098
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/d4/93/abd493e8-3236-50ef-fb76-9a56cd01ed2b/199800394072.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Original release image

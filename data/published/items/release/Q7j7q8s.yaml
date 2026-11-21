@@ -25,6 +25,21 @@ statements:
       quote: Holler
       accessed: '2026-11-21'
       locator: Original album, track 6
+  - value: Qa6r74t
+    qualifiers:
+      role:
+      - bass
+    references:
+    - source: www.youtube.com-watch-v-askjodpiw9w
+      quote: Barad - Holler
+      accessed: '2026-11-21'
+      locator: Native YouTube recording
+  - value: Qjwhj2t
+    references:
+    - source: www.youtube.com-watch-v-askjodpiw9w
+      quote: Barad - Holler
+      accessed: '2026-11-21'
+      locator: Native YouTube recording
   listen link:
   - value: https://music.apple.com/us/song/holler/1749090375
     references:
@@ -38,6 +53,12 @@ statements:
       quote: spotify:track:5tCBNWQx5lDx14qBXwDo2H
       accessed: '2026-11-21'
       locator: Exact Spotify song ID
+  - value: https://www.youtube.com/watch?v=ASkjoDPiw9w
+    references:
+    - source: www.youtube.com-watch-v-askjodpiw9w
+      quote: Barad - Holler
+      accessed: '2026-11-21'
+      locator: Native YouTube recording
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/54/da/92/54da92f0-5f3c-f861-c822-2b97e6636d60/198391761713.jpg/1200x630wp-60.jpg
     qualifiers:

@@ -1,0 +1,83 @@
+id: Q8zkzaz
+type: release
+statements:
+  name:
+  - value:
+      text: Asir
+      language: en
+    references:
+    - source: open.spotify.com-embed-track-4f5sds4u4dzrehozr7hriq
+      quote: Asir
+      accessed: '2026-11-21'
+      locator: Original Spotify recording or album
+  release type:
+  - value: single
+    references:
+    - source: open.spotify.com-embed-track-4f5sds4u4dzrehozr7hriq
+      quote: Asir
+      accessed: '2026-11-21'
+      locator: Original Spotify recording or album
+  performer:
+  - value: Qnjntqs
+    references:
+    - source: open.spotify.com-embed-track-4f5sds4u4dzrehozr7hriq
+      quote: Asir
+      accessed: '2026-11-21'
+      locator: Original Spotify recording or album
+  - value: Qa6r74t
+    qualifiers:
+      role:
+      - bass
+    references:
+    - source: kasrasaboktakin.com-music
+      quote: https://open.spotify.com/track/4f5sdS4u4dZREHOzR7HRiQ
+      accessed: '2026-11-21'
+      locator: Record linked by bassist in his own portfolio
+  listen link:
+  - value: https://open.spotify.com/track/4f5sdS4u4dZREHOzR7HRiQ
+    references:
+    - source: open.spotify.com-embed-track-4f5sds4u4dzrehozr7hriq
+      quote: Asir
+      accessed: '2026-11-21'
+      locator: Original Spotify recording or album
+  - value: https://music.apple.com/us/song/asir/1800001035
+    references:
+    - source: music.apple.com-us-album-asir-1800001026
+      quote: Asir - Single
+      accessed: '2026-11-21'
+      locator: Apple issue
+  - value: https://www.youtube.com/watch?v=6a81fFq9txk
+    references:
+    - source: youtu.be-6a81ffq9txk-si-u02xj0_yjdutahnp
+      quote: میلاد درخشانی (اسیر) | Milad Derakhshani Captive
+      accessed: '2026-11-21'
+      locator: Original distribution or artist recording
+  release date:
+  - value:
+      date: '2025-03-02'
+    references:
+    - source: open.spotify.com-embed-track-4f5sds4u4dzrehozr7hriq
+      quote: '2025-03-02'
+      accessed: '2026-11-21'
+      locator: Digital issue date
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d0000b27322aeb2779227582541e93427
+    qualifiers:
+      credit:
+        text: Digital distributor artwork
+        language: en
+    references:
+    - source: open.spotify.com-track-4f5sds4u4dzrehozr7hriq
+      quote: https://i.scdn.co/image/ab67616d0000b27322aeb2779227582541e93427
+      accessed: '2026-11-21'
+      locator: Original release image
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bc/75/4d/bc754d02-daac-6ccf-7cd9-37ac49c59b9d/199066952511.jpg/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Digital distributor artwork
+        language: en
+    references:
+    - source: music.apple.com-us-album-asir-1800001026
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bc/75/4d/bc754d02-daac-6ccf-7cd9-37ac49c59b9d/199066952511.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Original release image

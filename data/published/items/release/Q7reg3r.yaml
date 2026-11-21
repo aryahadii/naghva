@@ -1,0 +1,59 @@
+id: Q7reg3r
+type: release
+statements:
+  name:
+  - value:
+      text: Invocation
+      language: en
+    references:
+    - source: music.apple.com-us-album-cyclic-556857258
+      quote: Invocation
+      accessed: 2026-11-21
+      locator: Native digital track order
+  performer:
+  - value: Qtqjb47
+    references:
+    - source: music.apple.com-us-album-cyclic-556857258
+      quote: Invocation
+      accessed: 2026-11-21
+      locator: Native digital track order
+  listen link:
+  - value: https://music.apple.com/us/song/invocation/556857265
+    references:
+    - source: music.apple.com-us-album-cyclic-556857258
+      quote: Invocation
+      accessed: 2026-11-21
+      locator: Native digital track order
+  - value: https://negarbouban.bandcamp.com/track/invocation
+    references:
+    - source: negarbouban.bandcamp.com-album-through
+      quote: Invocation
+      accessed: 2026-11-21
+      locator: Bandcamp track
+  - value: https://open.spotify.com/track/1tFhjzcWnOcqawQ39eUfSm
+    references:
+    - source: open.spotify.com-album-0ilxzr5yti2qeddt83objg
+      quote: Invocation
+      accessed: 2026-11-21
+      locator: Spotify track billing
+  - value: https://youtu.be/jCy0VN81HBA
+    references:
+    - source: youtu.be-jcy0vn81hba
+      quote: Invocation
+      accessed: 2026-11-21
+      locator: Track in artist-linked playlist
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music/v4/33/70/f6/3370f663-5d57-d3d2-483a-f4d21fc516f3/700261879659.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-cyclic-556857258
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music/v4/33/70/f6/3370f663-5d57-d3d2-483a-f4d21fc516f3/700261879659.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Digital artwork
+  release date:
+  - value:
+      date: '2012-08-23'
+    references:
+    - source: music.apple.com-us-album-cyclic-556857258
+      quote: '2012-08-23'
+      accessed: 2026-11-21
+      locator: Digital edition date

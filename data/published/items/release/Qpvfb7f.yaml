@@ -1,0 +1,67 @@
+id: Qpvfb7f
+type: release
+statements:
+  name:
+  - value:
+      text: Unutterable
+      language: en
+    references:
+    - source: music.apple.com-us-album-continu-355461063
+      quote: Unutterable (Nagoftani)
+      accessed: 2026-11-21
+      locator: Native digital track order
+  - value:
+      text: ناگفتنی
+      language: fa
+    references:
+    - source: negarbouban.bandcamp.com-album-continu
+      quote: Unutterable (ناگفتنی)
+      accessed: 2026-11-21
+      locator: Bandcamp track
+  performer:
+  - value: Qtqjb47
+    references:
+    - source: music.apple.com-us-album-continu-355461063
+      quote: Unutterable (Nagoftani)
+      accessed: 2026-11-21
+      locator: Native digital track order
+  listen link:
+  - value: https://music.apple.com/us/song/unutterable-nagoftani/355461087
+    references:
+    - source: music.apple.com-us-album-continu-355461063
+      quote: Unutterable (Nagoftani)
+      accessed: 2026-11-21
+      locator: Native digital track order
+  - value: https://negarbouban.bandcamp.com/track/unutterable
+    references:
+    - source: negarbouban.bandcamp.com-album-continu
+      quote: Unutterable (ناگفتنی)
+      accessed: 2026-11-21
+      locator: Bandcamp track
+  - value: https://open.spotify.com/track/3gpd0flg28fujYL8Zjep5r
+    references:
+    - source: open.spotify.com-album-7kkujleygxm7dwczgalo9d
+      quote: Indicible
+      accessed: 2026-11-21
+      locator: Spotify track billing
+  - value: https://youtu.be/gYaWttddb8Y
+    references:
+    - source: youtu.be-gyawttddb8y
+      quote: Indicible
+      accessed: 2026-11-21
+      locator: Track in artist-linked playlist
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music/65/cb/0b/mzi.cbvhqwhg.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-continu-355461063
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music/65/cb/0b/mzi.cbvhqwhg.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Digital artwork
+  release date:
+  - value:
+      date: '2010-01-12'
+    references:
+    - source: music.apple.com-us-album-continu-355461063
+      quote: '2010-01-12'
+      accessed: 2026-11-21
+      locator: Digital edition date

@@ -2,7 +2,7 @@
 
 The artist signs her newer works Bahar Badiei, earlier records Badieitabar, and her Farsi upload بدیعی‌تبار. The same oud player, photographed on her own channel, performs with Zambra Collective, Shiraz Ensemble and the Global Jazz Messengers. Nine personal uploads, institutional concert films and individual time-coded music works were matched. Badiei’s own August 2025 interview describes independently producing her debut album; no issued solo LP could be securely matched to it. SoundCloud, Telegram, Spotify and Apple under both spellings were checked for other releases. Dançâ del Aire credits oud at album level only; none of the eight Bandcamp track pages names its oud player separately. Five of six Ethan Klotz tracks identify her role. Phonemes Requiem credits her among the choral voices without naming a solo track. The M³ programme calls her co-composer of Whispers of the Earth, without specifying an instrument. Native community films and original institutional programmes cover separately recorded performances. The November M³ film programme does not offer an unrestricted permanent stream.
 
-46 directly attributable recording panels.
+47 directly attributable recording panels.
 
 - A Thousand Canary Fall Silent In My Throat — for oud, kamancheh, santour, tombak, and electronics (Q3g46bw) · [www.youtube.com](https://www.youtube.com/watch?v=mnsaUdfw_gI)
 - A room , Devon Gates | ZAMBRA | Live at Detroit Jazz Festival (Qmhsapk) · [www.youtube.com](https://www.youtube.com/watch?v=rDrXWe15OYM)
@@ -50,3 +50,5 @@ The artist signs her newer works Bahar Badiei, earlier records Badieitabar, and 
 - When Moses Left Town (Qv35w6e) · [ethanklotz.bandcamp.com](https://ethanklotz.bandcamp.com/track/when-moses-left-town) · [music.apple.com](https://music.apple.com/us/song/when-moses-left-town/1845241542)
 - Whispers of the Earth (Qa3wd9n)
 - بداهه نوازی در آواز ابوعطا      An improvisation in Avaz Abu’ata (Qghn2px) · [www.youtube.com](https://www.youtube.com/watch?v=poi7q3j79c8)
+
+- Berklee concert August 2020 (Qymrs5b) · original concert film linked from the Berklee excerpt. The full IGTV issue is cited in both articles.

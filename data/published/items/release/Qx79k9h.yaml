@@ -1,0 +1,52 @@
+id: Qx79k9h
+type: release
+statements:
+  name:
+  - value:
+      text: E'terafat E 45 Zarbi
+      language: en
+    references:
+    - source: open.spotify.com-embed-playlist-6uf2bvt6kopxs1fztqe3eh
+      quote: E'terafat E 45 Zarbi
+      accessed: '2026-11-21'
+      locator: Named song in selected recording
+  performer:
+  - value: Qt6wjbg
+    references:
+    - source: open.spotify.com-embed-playlist-6uf2bvt6kopxs1fztqe3eh
+      quote: E'terafat E 45 Zarbi
+      accessed: '2026-11-21'
+      locator: Named song in selected recording
+  - value: Qa6r74t
+    qualifiers:
+      role:
+      - bass
+    references:
+    - source: kasrasaboktakin.com-epk
+      quote: A collection of my recordings with New-York Based Visionary artist Mohsen Namjoo
+      accessed: '2026-11-21'
+      locator: Artist-authored playlist
+  listen link:
+  - value: https://open.spotify.com/track/0rFf0vYMEXgOm0NRgjXaMA
+    references:
+    - source: open.spotify.com-embed-playlist-6uf2bvt6kopxs1fztqe3eh
+      quote: spotify:track:0rFf0vYMEXgOm0NRgjXaMA
+      accessed: '2026-11-21'
+      locator: Original song URI
+  - value: https://soundcloud.com/kass-bass/45-beat-confessions
+    references:
+    - source: soundcloud.com-kass-bass-45-beat-confessions
+      quote: Stream 45 Beat Confessions by Kasra Saboktakin | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Bassist’s original SoundCloud upload
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-cyqwfO9NKDSC8CWY-3eFbfg-large.png
+    qualifiers:
+      credit:
+        text: Kasra Saboktakin on SoundCloud
+        language: en
+    references:
+    - source: soundcloud.com-kass-bass-45-beat-confessions
+      quote: https://i1.sndcdn.com/artworks-cyqwfO9NKDSC8CWY-3eFbfg-large.png
+      accessed: '2026-11-21'
+      locator: Original upload image

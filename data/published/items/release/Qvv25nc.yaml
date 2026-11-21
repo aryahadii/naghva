@@ -1,0 +1,77 @@
+id: Qvv25nc
+type: release
+statements:
+  name:
+  - value:
+      text: Hamin Lahzeh
+      language: en
+    references:
+    - source: open.spotify.com-embed-album-0cprjnxrkraurwpdysfdyf
+      quote: Hamin Lahzeh
+      accessed: '2026-11-21'
+      locator: Original Spotify recording or album
+  release type:
+  - value: album
+    references:
+    - source: open.spotify.com-embed-album-0cprjnxrkraurwpdysfdyf
+      quote: Hamin Lahzeh
+      accessed: '2026-11-21'
+      locator: Original Spotify recording or album
+  performer:
+  - value: Qnbrhrh
+    references:
+    - source: open.spotify.com-embed-album-0cprjnxrkraurwpdysfdyf
+      quote: Hamin Lahzeh
+      accessed: '2026-11-21'
+      locator: Original Spotify recording or album
+  - value: Qa6r74t
+    qualifiers:
+      role:
+      - bass
+    references:
+    - source: kasrasaboktakin.com-music
+      quote: https://open.spotify.com/album/0cPRjNXrkraURwPdYSFdyf
+      accessed: '2026-11-21'
+      locator: Record linked by bassist in his own portfolio
+  listen link:
+  - value: https://open.spotify.com/album/0cPRjNXrkraURwPdYSFdyf
+    references:
+    - source: open.spotify.com-embed-album-0cprjnxrkraurwpdysfdyf
+      quote: Hamin Lahzeh
+      accessed: '2026-11-21'
+      locator: Original Spotify recording or album
+  - value: https://music.apple.com/us/album/hamin-lahzeh/1164397044
+    references:
+    - source: music.apple.com-us-album-hamin-lahzeh-1164397044
+      quote: Hamin Lahzeh
+      accessed: '2026-11-21'
+      locator: Apple issue
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d0000b27367c19009c19c274a8af4b2aa
+    qualifiers:
+      credit:
+        text: Digital distributor artwork
+        language: en
+    references:
+    - source: open.spotify.com-album-0cprjnxrkraurwpdysfdyf
+      quote: https://i.scdn.co/image/ab67616d0000b27367c19009c19c274a8af4b2aa
+      accessed: '2026-11-21'
+      locator: Original release image
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c9/87/18/c987183c-ead2-b61c-7762-383b14a3750b/190394546564.jpg/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Digital distributor artwork
+        language: en
+    references:
+    - source: music.apple.com-us-album-hamin-lahzeh-1164397044
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c9/87/18/c987183c-ead2-b61c-7762-383b14a3750b/190394546564.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Original release image
+  release date:
+  - value:
+      date: '2016-11-12'
+    references:
+    - source: music.apple.com-us-album-hamin-lahzeh-1164397044
+      quote: '2016-11-12'
+      accessed: '2026-11-21'
+      locator: Digital issue date

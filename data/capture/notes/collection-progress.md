@@ -81,10 +81,15 @@ The expansion started at revision fa6c29ca with 124 bilingual artist pages. The 
 | Shervin Hajipour | Qjeb9e9 | 9.2/10 | [Shervin Hajipour](artist-page-scores.md) |
 | Cheshmak | Qm3fd5c | 9.2/10 | [Cheshmak](cheshmak-independent-review.md) |
 | Psychic Bloom | Qzfcfre | 9.2/10 | [Psychic Bloom](psychic-bloom-independent-review.md) |
-| Pouya Mahmoodi | Qjwhj2t | Pending | [Catalogue](pouya-mahmoodi.md) |
-| Salim Ghazi Saeedi | Qp3beww | Pending | [Catalogue](salim-ghazi-saeedi.md) |
-| Zambra Collective | Qv446d6 | 9.1/10 | [Zambra Collective](zambra-collective-independent-review.md) |
-| Shiraz Ensemble | Q87wshb | Pending | [Catalogue](shiraz-ensemble.md) |
-| Bahar Badiei | Qgay8m3 | Pending | [Catalogue](bahar-badiei.md) |
+| Pouya Mahmoodi | Qjwhj2t | 9.2/10 | [Pouya Mahmoodi](artist-page-scores.md) |
+| Salim Ghazi Saeedi | Qp3beww | 9.2/10 | [Salim Ghazi Saeedi](artist-page-scores.md) |
+| Zambra Collective | Qv446d6 | 9.2/10 | [Zambra Collective](zambra-collective-independent-review.md) |
+| Shiraz Ensemble | Q87wshb | 9.2/10 | [Shiraz Ensemble](shiraz-ensemble-independent-review.md) |
+| Bahar Badiei | Qgay8m3 | 9.2/10 | [Bahar Badiei](bahar-badiei-independent-review.md) |
+| Nima Aghiani | Qgncp5r | Pending | [Catalogue](nima-aghiani.md) |
+| Negar Bouban | Qtqjb47 | Pending | [Catalogue](negar-bouban.md) |
+| Bahar Movahed | Qwxqpwd | 8.8/10 | [Bahar Movahed](bahar-movahed-independent-review.md) |
+| Hamsaz Ensemble | Qq46ncj | Pending | [Catalogue](hamsaz-ensemble.md) |
+| Kasra Saboktakin | Qa6r74t | Pending | [Catalogue](kasra-saboktakin.md) |
 
 The [discovery list](independent-artist-discovery.md) contains candidates with release leads. Some will prove ineligible or match an existing artist by another spelling. Only new artist pages count toward the target.

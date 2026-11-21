@@ -130,11 +130,26 @@ references:
     quote: duo compositions commissioned by M³
     locator: Artist interview, recording credits or commissioning programme
     accessed: '2026-11-21'
+  concert:
+    source: www.berklee.edu-events-bahar-badieitabar-virtual-concert
+    quote: August 11, 2020
+    locator: College concert announcement and original recording
+    accessed: '2026-11-21'
+  full:
+    source: www.youtube.com-watchv-ralluvtc3lu
+    quote: 'Watch Bahar''s full concert here: https://www.instagram.com/tv/CDxK2Vihcp_/'
+    locator: College concert announcement and original recording
+    accessed: '2026-11-21'
+  arr:
+    source: www.youtube.com-watchv-ralluvtc3lu
+    quote: The song was arranged by Eunike Tanzil
+    locator: College concert announcement and original recording
+    accessed: '2026-11-21'
 ---
 
 بهار بدیعی‌تبار، عودنواز و آهنگ‌ساز اهل تهران، در بروکلین زندگی می‌کند. دوازده‌ساله بود که وارد هنرستان موسیقی تهران شد و نت‌خوانی و عودنوازی را فراگرفت. استادش سیاوش روشن او را تشویق کرد که برای سازش آهنگ هم بسازد. بدیعی‌تبار در شانزده و هفده‌سالگی دو سال پیاپی در جشنوارهٔ ملی موسیقی جوان مقام نخست را گرفت و در ۲۰۱۷ تحصیل در رشتهٔ نوازندگی عود را در دانشگاه تهران آغاز کرد.[^orig][^age][^conserv][^mentor][^wins][^uni]
 
-با شنیدن کارهای انور براهم، عودنواز تونسی، با موسیقی دیو هالند، نوازندهٔ کنترباس، و جک دی‌جانِت، نوازندهٔ درامز، آشنا شد. می‌خواست در فضایی درس بخواند که بتواند چنین صداهایی را هم تجربه کند. برای آزمون حضوری کالج موسیقی برکلی به چین رفت و با بورس تحصیلی وارد کالج شد.[^jazz][^bass][^china][^scholar] در ۲۰۲۲، با همراهی [محیا حامدی](/fa/mahya-hamedi-3yt/)، قطعهٔ خودش «Blossom» و «رنگ افشاری» ساختهٔ غلامحسین بیگجه‌خانی را برای برکلی اجرا کرد.[^two][^reng][^guest][^date]
+با شنیدن کارهای انور براهم، عودنواز تونسی، با موسیقی دیو هالند، نوازندهٔ کنترباس، و جک دی‌جانِت، نوازندهٔ درامز، آشنا شد. می‌خواست در فضایی درس بخواند که بتواند چنین صداهایی را هم تجربه کند. برای آزمون حضوری کالج موسیقی برکلی به چین رفت و با بورس تحصیلی وارد کالج شد.[^jazz][^bass][^china][^scholar] در ۱۱ اوت ۲۰۲۰ [کنسرتی آنلاین برای برکلی](https://www.instagram.com/tv/CDxK2Vihcp_/) اجرا کرد. کالج فیلم اجرای قطعهٔ او «نگاه» با تنظیم یونیکه تانزیل را جداگانه منتشر کرد.[^concert][^full][^arr] در ۲۰۲۲، با همراهی [محیا حامدی](/fa/mahya-hamedi-3yt/)، قطعهٔ خودش «Blossom» و «رنگ افشاری» ساختهٔ غلامحسین بیگجه‌خانی را برای برکلی اجرا کرد.[^two][^reng][^guest][^date]
 
 بدیعی‌تبار در مؤسسهٔ جاز برکلی تاریخ کم‌رنگ شدن عود در ایران را بررسی کرد و در تنظیم‌هایش به این ساز هم نقش ملودی و هم نقش همراهی ریتمیک داد. این پژوهش پروژهٔ کارشناسی ارشدش در ۲۰۲۵ شد و عنوان «Embraced by the Flowing Water» گرفت. قطعه‌ای را که به همین نام ساخته بود با [گروه زامبرا](/fa/zambra-collective-v44/) در جشنوارهٔ جاز دیترویت اجرا کرد.[^thesis][^role][^masters][^det]
 

@@ -25,6 +25,21 @@ statements:
       quote: Leyva
       accessed: '2026-11-21'
       locator: Original album, track 1
+  - value: Qa6r74t
+    qualifiers:
+      role:
+      - bass
+    references:
+    - source: soundcloud.com-kass-bass-barad-leyva
+      quote: Stream Barad-Leyva by Kasra Saboktakin | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Bassist’s original SoundCloud upload
+  - value: Qjwhj2t
+    references:
+    - source: www.youtube.com-watch-v-gdfvcnhyvy0
+      quote: BARAD- Leyva
+      accessed: '2026-11-21'
+      locator: Native YouTube recording
   listen link:
   - value: https://music.apple.com/us/song/leyva/1749089805
     references:
@@ -38,6 +53,18 @@ statements:
       quote: spotify:track:64jg1DRQBTW5xNHC2oP8MW
       accessed: '2026-11-21'
       locator: Exact Spotify song ID
+  - value: https://soundcloud.com/kass-bass/barad-leyva
+    references:
+    - source: soundcloud.com-kass-bass-barad-leyva
+      quote: Stream Barad-Leyva by Kasra Saboktakin | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Bassist’s original SoundCloud upload
+  - value: https://www.youtube.com/watch?v=gDfvCnhyVy0
+    references:
+    - source: www.youtube.com-watch-v-gdfvcnhyvy0
+      quote: BARAD- Leyva
+      accessed: '2026-11-21'
+      locator: Native YouTube recording
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/54/da/92/54da92f0-5f3c-f861-c822-2b97e6636d60/198391761713.jpg/1200x630wp-60.jpg
     qualifiers:

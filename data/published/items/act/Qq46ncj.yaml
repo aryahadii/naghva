@@ -10,6 +10,14 @@ statements:
       quote: Hamsaz Ensemble was founded by Iranian composer and tar virtuoso Ali Samadpour in 2010.
       accessed: '2026-11-21'
       locator: Rehearsal programme
+  - value:
+      text: گروه همساز
+      language: fa
+    references:
+    - source: www.youtube.com-watchv-oqvdc3nbq40
+      quote: گروه همساز
+      locator: Original performance film, presenter or archive
+      accessed: '2026-11-21'
   formation date:
   - value:
       date: '2010'
@@ -18,3 +26,14 @@ statements:
       quote: Hamsaz Ensemble was founded by Iranian composer and tar virtuoso Ali Samadpour in 2010.
       accessed: '2026-11-21'
       locator: Rehearsal programme
+  image:
+  - value: https://i.ytimg.com/vi/oqVdc3NBq40/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-oqvdc3nbq40
+      quote: https://i.ytimg.com/vi/oqVdc3NBq40/hqdefault.jpg
+      locator: Original performance film, presenter or archive
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Bahar Movahed · Hamsaz Ensemble on stage at Town Hall Seattle
+        language: en

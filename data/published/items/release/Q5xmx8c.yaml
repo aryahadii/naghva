@@ -84,6 +84,12 @@ statements:
       quote: Payam Yousefi
       accessed: '2026-11-21'
       locator: Artist publishing channel
+  - value: https://www.youtube.com/watch?v=yaIc1oWi-W8
+    references:
+    - source: www.youtube.com-oembed-yaic1owi-w8
+      quote: 'Bahar Movahed, Ali Samadpour & Hamsaz Ensemble:  "Ba Man Sanama"'
+      locator: Original recording, artist or presenter
+      accessed: '2026-11-21'
   cover art:
   - value: https://i.ytimg.com/vi/BmqvTVieVfw/hqdefault.jpg
     qualifiers:

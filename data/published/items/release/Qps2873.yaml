@@ -1,0 +1,83 @@
+id: Qps2873
+type: release
+statements:
+  name:
+  - value:
+      text: Jest
+      language: en
+    references:
+    - source: music.apple.com-us-album-together-yet-alone-feat-navid-dehghan-6805656230uo-4
+      quote: Jest (feat. Navid Dehghan)
+      locator: Artist discography, original sound recording or label
+      accessed: '2026-11-21'
+  performer:
+  - value: Qwxqpwd
+    references:
+    - source: baharmovahed.bandcamp.com-album-together-yet-alone
+      quote: Vocals Bahar Movahed
+      locator: Artist discography, original sound recording or label
+      accessed: '2026-11-21'
+    qualifiers:
+      role: vocals
+  release date:
+  - value:
+      date: '2026-05-13'
+    references:
+    - source: music.apple.com-us-album-jest-feat-navid-dehghan-single-6804275025uo-4
+      quote: '2026-05-13'
+      locator: Artist discography, original sound recording or label
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://f4.bcbits.com/img/a4173758754_10.jpg
+    references:
+    - source: baharmovahed.bandcamp.com-album-together-yet-alone
+      quote: https://f4.bcbits.com/img/a4173758754_10.jpg
+      locator: Artist discography, original sound recording or label
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Bahar Movahed · release artwork
+        language: en
+  listen link:
+  - value: https://music.apple.com/us/song/jest-feat-navid-dehghan/6805656239
+    references:
+    - source: music.apple.com-us-album-together-yet-alone-feat-navid-dehghan-6805656230uo-4
+      quote: Jest (feat. Navid Dehghan)
+      locator: Artist discography, original sound recording or label
+      accessed: '2026-11-21'
+  - value: https://baharmovahed.bandcamp.com/track/jest
+    references:
+    - source: baharmovahed.bandcamp.com-track-jest
+      quote: Jest
+      locator: Artist discography, original sound recording or label
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/79MHE4VkTBcvN9w4pzUTAS
+    references:
+    - source: open.spotify.com-embed-album-1hpckvcabsk3i25wob05lg
+      quote: Jest
+      locator: Artist discography, original sound recording or label
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/2jmYuwBpDmO7JuPsQRzHVA
+    references:
+    - source: open.spotify.com-embed-album-25rw5byute3ejuvk4v1xvx
+      quote: Jest
+      locator: Artist discography, original sound recording or label
+      accessed: '2026-11-21'
+  - value: https://music.apple.com/us/album/jest-feat-navid-dehghan-single/6804275025
+    references:
+    - source: music.apple.com-us-album-jest-feat-navid-dehghan-single-6804275025uo-4
+      quote: Jest (feat. Navid Dehghan) - Single
+      locator: Artist discography, original sound recording or label
+      accessed: '2026-11-21'
+  - value: https://music.apple.com/us/song/jest-feat-navid-dehghan/6804275027
+    references:
+    - source: music.apple.com-us-album-jest-feat-navid-dehghan-single-6804275025uo-4
+      quote: Jest (feat. Navid Dehghan)
+      locator: Artist discography, original sound recording or label
+      accessed: '2026-11-21'
+  - value: https://www.youtube.com/watch?v=X1RoKR3ZtsU
+    references:
+    - source: www.youtube.com-oembed-x1rokr3ztsu
+      quote: Jest (شوخی)
+      locator: Original recording, artist or presenter
+      accessed: '2026-11-21'

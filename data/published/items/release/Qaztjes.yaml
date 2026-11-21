@@ -1,0 +1,35 @@
+id: Qaztjes
+type: release
+statements:
+  name:
+  - value:
+      text: Mashno
+      language: en
+    references:
+    - source: open.spotify.com-embed-playlist-6uf2bvt6kopxs1fztqe3eh
+      quote: Mashno
+      accessed: '2026-11-21'
+      locator: Named song in selected recording
+  performer:
+  - value: Qt6wjbg
+    references:
+    - source: open.spotify.com-embed-playlist-6uf2bvt6kopxs1fztqe3eh
+      quote: Mashno
+      accessed: '2026-11-21'
+      locator: Named song in selected recording
+  - value: Qa6r74t
+    qualifiers:
+      role:
+      - bass
+    references:
+    - source: kasrasaboktakin.com-epk
+      quote: A collection of my recordings with New-York Based Visionary artist Mohsen Namjoo
+      accessed: '2026-11-21'
+      locator: Artist-authored playlist
+  listen link:
+  - value: https://open.spotify.com/track/58iYZYEDdNlVU7eTcH7K4D
+    references:
+    - source: open.spotify.com-embed-playlist-6uf2bvt6kopxs1fztqe3eh
+      quote: spotify:track:58iYZYEDdNlVU7eTcH7K4D
+      accessed: '2026-11-21'
+      locator: Original song URI

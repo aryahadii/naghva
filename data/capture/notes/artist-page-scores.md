@@ -208,3 +208,11 @@ Independent review on 2026-11-21. **9.2/10** · Sources 1.9, prose 1.9, recordin
 ### Shervin Hajipour
 
 Independent review on 2026-11-21. **9.2/10** · Sources 1.9, prose 1.9, recordings 2.6, images 1.0, gaps and reader experience 1.8. Both pages (English f2738e3375d4, Persian 03494a4744f5) show 92 panels. All 185 main-content images decoded in each language and every fragment resolved. BBC Persian’s film and interview, the original Persian-language television theme, the Filmnet credit, institutional award coverage and his own full performances establish the chronology beyond “Baraye.” The supported platform inventory distinguishes studio recordings from published unplugged and freestyle performances, duplicate Apple issues and soundtrack recordings. The public Telegram address supplied no accessible archive. Catalogue and article ready.
+
+### Pouya Mahmoodi
+
+Independent review on 2026-11-21. **9.2/10** · Sources 1.9, prose 1.9, recordings 2.6, images 1.0, gaps and reader experience 1.8. The 52 panels and 101 decoded images in each language (English f7f9c800a09d, Persian d17dcb21a905) include the two Gate of Tehran performances and ten individually credited Jens Sevom recordings. The Rira sleeve, source for the Meera concert, original Saffron Moon videos, Babylon Bar compilation and documented founding of Faryaad resolve the earlier gaps. The complete native SoundCloud catalogue and live recordings were reconciled. The disagreements about his birth year and uncertain per-track allocation on Rira are recorded in the source note. All local fragments resolved. Article and catalogue ready.
+
+### Salim Ghazi Saeedi
+
+Independent review on 2026-11-21. **9.2/10** · Sources 1.9, prose 1.9, recordings 2.6, images 1.0, gaps and reader experience 1.8. The 129-panel pages (English 22e83cc7e287, Persian c76b31eaef3b) distinguish the original Arashk and solo catalogue, SoundCloud demos, Bouban’s co-composition, the documented music and sound editing work for Mehr Theater, and the artist’s migration to Australia. Compared the native joint Bandcamp issue and Arashk’s original nine-song Yell musician table. The latter identifies five guitar solos and the separate bass solo. Each language loaded 259 main-content images and all local fragment links resolved. Catalogue and article ready.

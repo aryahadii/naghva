@@ -1,0 +1,89 @@
+id: Qc6tt4a
+type: release
+statements:
+  name:
+  - value:
+      text: I Cry with You
+      language: en
+    references:
+    - source: open.spotify.com-embed-track-7tti0oesmypnp1b4hjxqox
+      quote: I Cry with You
+      accessed: '2026-11-21'
+      locator: Original Spotify recording or album
+  release type:
+  - value: single
+    references:
+    - source: open.spotify.com-embed-track-7tti0oesmypnp1b4hjxqox
+      quote: I Cry with You
+      accessed: '2026-11-21'
+      locator: Original Spotify recording or album
+  performer:
+  - value: Qwmja27
+    references:
+    - source: open.spotify.com-embed-track-7tti0oesmypnp1b4hjxqox
+      quote: I Cry with You
+      accessed: '2026-11-21'
+      locator: Original Spotify recording or album
+  - value: Qa6r74t
+    qualifiers:
+      role:
+      - bass
+    references:
+    - source: kasrasaboktakin.com-music
+      quote: https://open.spotify.com/track/7ttI0OESMYpNp1B4hjxQOX
+      accessed: '2026-11-21'
+      locator: Record linked by bassist in his own portfolio
+  listen link:
+  - value: https://open.spotify.com/track/7ttI0OESMYpNp1B4hjxQOX
+    references:
+    - source: open.spotify.com-embed-track-7tti0oesmypnp1b4hjxqox
+      quote: I Cry with You
+      accessed: '2026-11-21'
+      locator: Original Spotify recording or album
+  - value: https://music.apple.com/us/song/i-cry-with-you/1815137895
+    references:
+    - source: music.apple.com-us-album-i-cry-with-you-1815137894
+      quote: I Cry with You - Single
+      accessed: '2026-11-21'
+      locator: Apple issue
+  - value: https://soundcloud.com/kass-bass/i-cry-with-you
+    references:
+    - source: soundcloud.com-kass-bass-i-cry-with-you
+      quote: Stream I Cry with You by Kasra Saboktakin | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Bassist’s original SoundCloud upload
+  - value: https://www.youtube.com/watch?v=dPQMm1dZY_U
+    references:
+    - source: youtu.be-dpqmm1dzy_u-si-_tny2jnyclu0kjem
+      quote: I Cry with You
+      accessed: '2026-11-21'
+      locator: Original distribution or artist recording
+  release date:
+  - value:
+      date: '2025-05-31'
+    references:
+    - source: open.spotify.com-embed-track-7tti0oesmypnp1b4hjxqox
+      quote: '2025-05-31'
+      accessed: '2026-11-21'
+      locator: Digital issue date
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d0000b273868cb57dce091ac278c1f2eb
+    qualifiers:
+      credit:
+        text: Digital distributor artwork
+        language: en
+    references:
+    - source: open.spotify.com-track-7tti0oesmypnp1b4hjxqox
+      quote: https://i.scdn.co/image/ab67616d0000b273868cb57dce091ac278c1f2eb
+      accessed: '2026-11-21'
+      locator: Original release image
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5b/7a/f3/5b7af3e7-02d6-b13a-fea4-c59193014ccc/199199735272.jpg/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Digital distributor artwork
+        language: en
+    references:
+    - source: music.apple.com-us-album-i-cry-with-you-1815137894
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5b/7a/f3/5b7af3e7-02d6-b13a-fea4-c59193014ccc/199199735272.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Original release image

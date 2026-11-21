@@ -1,0 +1,45 @@
+id: Qkjq2n9
+type: release
+statements:
+  name:
+  - value:
+      text: Man Anam Ke Rostam Bovad Pahlavan (trailer)
+      language: en
+    references:
+    - source: vimeo.com-195175485
+      quote: Ali Moini _ Man Anam Ke Rostam Bovad Pahlavan _ Trailer
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qyv32ms
+    references:
+    - &id001
+      source: www.tarumba.pt-2018-en-programme-fimfa-man-anam-ke-rostam-bovad-pahlavan
+      quote: 'Composition and live music: Sarah Bigdeli Shamloo & Nima Aghiani (9T Antiope)'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Qgncp5r
+    references:
+    - *id001
+  - value: Qz5swxp
+    references:
+    - *id001
+  contributor:
+  - value: Qgncp5r
+    references:
+    - *id001
+    qualifiers:
+      role: composer
+  - value: Qz5swxp
+    references:
+    - *id001
+    qualifiers:
+      role: composer
+  release date:
+  - value:
+      date: '2016-12-11'
+    references:
+    - source: vimeo.com-195175485
+      quote: '2016-12-11 07:49:36'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits

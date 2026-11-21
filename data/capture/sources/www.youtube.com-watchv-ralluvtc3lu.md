@@ -19,3 +19,11 @@ Original performer credits, programme or film, read 2026-11-21.
 Original performer credits, programme or film, read 2026-11-21.
 
 > Nikolai Mishchenko on keys
+
+College concert announcement and original recording, read 2026-11-21.
+
+> Watch Bahar's full concert here: https://www.instagram.com/tv/CDxK2Vihcp_/
+
+College concert announcement and original recording, read 2026-11-21.
+
+> The song was arranged by Eunike Tanzil
