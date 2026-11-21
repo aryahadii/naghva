@@ -1,0 +1,41 @@
+id: Q993rta
+type: release
+statements:
+  name:
+  - value:
+      text: Gezelle
+      language: en
+    references:
+    - &id001
+      source: ticketsphoenixcentralpark.squarespace.com-films-v-maryam-rahmani-gezelle
+      quote: Maryam Rahmani, David Moran, and Sebastian Collen come together in this episode of Live at Phoenix to perform "Gezelle"
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  performer:
+  - value: Qtwtxvd
+    references:
+    - *id001
+  - value: Qfqjna5
+    references:
+    - *id001
+  - value: Qss73r7
+    references:
+    - *id001
+  listen link:
+  - value: https://www.youtube.com/watch?v=AVeRilDpjjg
+    references:
+    - source: ticketsphoenixcentralpark.squarespace.com-films-v-maryam-rahmani-gezelle
+      quote: AVeRilDpjjg
+      accessed: '2026-11-21'
+      locator: Embedded film by Phoenix Central Park
+  cover art:
+  - value: https://i.ytimg.com/vi/AVeRilDpjjg/hqdefault.jpg
+    references:
+    - source: ticketsphoenixcentralpark.squarespace.com-films-v-maryam-rahmani-gezelle
+      quote: AVeRilDpjjg
+      accessed: '2026-11-21'
+      locator: Thumbnail of the venue’s embedded concert film
+    qualifiers:
+      credit:
+        text: Phoenix Central Park
+        language: en

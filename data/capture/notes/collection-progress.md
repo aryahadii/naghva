@@ -34,8 +34,13 @@ The expansion started at revision fa6c29ca with 124 bilingual artist pages. The 
 | The Mast | Qfwn5xw | 9.2/10 | [The Mast](artist-page-scores.md) |
 | Badieh | Qndvgwn | 9.1/10 | [Badieh](badieh-independent-review.md) |
 | Amen Feizabadi | Qd5zat9 | 9.1/10 | [Amen Feizabadi](artist-page-scores.md) |
-| Marie Sahba | Qxmhx58 | 8.4/10 | [Marie Sahba](marie-sahba-review.md) |
-| Ehsan Matoori | Qwh5yn8 | Pending | [Catalogue and open questions](ehsan-matoori.md) |
-| This Tale of Ours | Qrtfk67 | Pending | [Catalogue and open questions](this-tale-of-ours.md) |
+| Marie Sahba | Qxmhx58 | 9.2/10 | [Marie Sahba](marie-sahba-review.md) |
+| Ehsan Matoori | Qwh5yn8 | 9.2/10 | [Ehsan Matoori](ehsan-matoori-independent-review.md) |
+| This Tale of Ours | Qrtfk67 | 9.1/10 | [This Tale of Ours](artist-page-scores.md) |
+| Rite of Strings | Qtaawg8 | 9.2/10 | [Rite of Strings](artist-page-scores.md) |
+| Maryam Rahmani | Qtwtxvd | 8.4/10 | [Maryam Rahmani](maryam-rahmani-review.md) |
+| Araz Salek | Qzqvz5q | 8.4/10 | [Araz Salek](araz-salek-independent-review.md) |
+| Borderless Band | Qhzc5js | 8.4/10 | [Borderless Band](artist-page-scores.md) |
+| HJirok | Qjb6dqs | Pending | Independent review in progress |
 
 The [discovery list](independent-artist-discovery.md) contains candidates with release leads. Some will prove ineligible or match an existing artist by another spelling. Only new artist pages count toward the target.

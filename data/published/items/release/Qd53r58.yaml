@@ -1,0 +1,51 @@
+id: Qd53r58
+type: release
+statements:
+  name:
+  - value:
+      text: Frau Fisch
+      language: en
+    references:
+    - source: music.apple.com-us-album-frau-fisch-6829872014
+      quote: Frau Fisch
+      locator: Track 5
+      accessed: '2026-11-21'
+  performer:
+  - value: Qnrm3kw
+    references:
+    - source: itunes.apple.com-lookupid-1480747950-entity-song-limit-200
+      quote: Frau Fisch
+      locator: Artist-matched song lookup
+      accessed: '2026-11-21'
+  - value: Q8msgab
+    references:
+    - source: music.apple.com-us-album-frau-fisch-6829872014
+      quote: ILYICH
+      locator: Primary or credited recording artist
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2024-02-29'
+    references:
+    - source: music.apple.com-us-album-frau-fisch-6829872014
+      quote: '2024-02-29'
+      locator: Original edition date
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/c4/74/2dc474f8-07db-be75-ebf7-6c376a62b8ce/885000907050.png/632x632bb-60.jpg
+    references:
+    - source: music.apple.com-us-album-frau-fisch-6829872014
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/c4/74/2dc474f8-07db-be75-ebf7-6c376a62b8ce/885000907050.png/632x632bb-60.jpg
+      locator: Release art
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: afterlife · Apple Music
+        language: en
+  listen link:
+  - value: https://music.apple.com/us/song/frau-fisch/6829872019
+    references:
+    - source: music.apple.com-us-album-frau-fisch-6829872014
+      quote: Frau Fisch
+      locator: Track 5
+      accessed: '2026-11-21'

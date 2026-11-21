@@ -116,3 +116,23 @@ Independent review on 2026-11-21. **8.2/10** · Sources 1.9, prose 1.9, recordin
 ### Amen Feizabadi, second independent review on 2026-11-21
 
 **9.1/10** · Sources 1.9, prose 1.9, recordings 2.6, images 0.9, gaps and reader experience 1.8. English and Persian page hashes are `cd393521e6f1` and `31b4b947adf6`. Each page has three recording panels. The artist’s Laguna film and the label’s Berlin film credit him with live electronics. The composer credits for the Banat production, the film with Justina and the solo flute piece are distinct from his own performances. All three images decoded in each language and all internal fragments resolved. The November 2024 TCS performance is documented as an event; no public recording was verified. Catalogue and article ready.
+
+## This Tale of Ours · Qrtfk67
+
+Independent review on 2026-11-21. **8.8/10** · Sources 1.9, prose 1.7, recordings 2.5, images 1.0, gaps and reader experience 1.7. English and Persian page hashes are `d8bfe9034f8b` and `b8c9930ea963`. The original quartet and later bassist are clearly distinguished. Both pages have seven full or multipart concert recordings, fifteen decoded images and working fragment links. All six formal release-platform searches are documented. The primary concert recorder Mechanical Forest Sound identifies two published Eastminster performances, “Little Black Dog + Neveser 14” and “Synkathistos”. The general concert titles on this page do not convey that repertoire. Bring the song-level evidence into the article and ledger, and check eligibility of the two audio records. The Aga Khan Museum also documents its June 2022 quartet performance. The attribution of the 2012 project date to the musicians is justified by conflicting sources.
+
+### This Tale of Ours, second independent review on 2026-11-21
+
+**9.1/10** · Sources 1.9, prose 1.9, recordings 2.5, images 1.0, gaps and reader experience 1.8. English and Persian page hashes are `afd438708f47` and `73bfca5cdf8a`. Both pages now identify the Eastminster medley and separate Synkathistos performance, and document the Aga Khan Museum concert. The seven original artist- or presenter-authorized recordings are distinguished from the separate audience tape. All 15 images per language and all fragment links passed. Article and catalogue ready.
+
+## Rite of Strings · Qtaawg8
+
+Independent review on 2026-11-21. **8.8/10** · Sources 1.9, prose 1.7, recordings 2.5, images 1.0, gaps and reader experience 1.7. English and Persian page hashes are `485967e628ab` and `a96a32165990`. Both have ten recording panels (the nine tracks and album), twenty-one decoded images and working fragment links. The co-director and the presenter confirm the three music videos, the guest clarinet and the two-day recording session. The identity of the earlier Xur film is still unresolved in the capture note. The article places the quartet in Long Island City for its album but does not identify the record label or its public stage performance. Matoori’s own calendar and the venue independently document the September 30 launch at Joe’s Pub. Bright Shiny Things released the album; Bandcamp credits Sheed Records as publisher. Check Xur’s separate performers and add the live context.
+
+### Rite of Strings, second independent review on 2026-11-21
+
+**9.2/10** · Sources 1.9, prose 1.8, recordings 2.7, images 1.0, gaps and reader experience 1.8. English and Persian hashes are `da63876a4937` and `5f54019c1460`. The second single Xur is dated from the bandleader's film, the Bassam Saba dedication is sourced, and the music publisher and releasing label are distinguished. The New York launch is presented as booked. Each language has eleven panels, twenty-three decoded images and working fragment links. Article and catalogue ready.
+
+## Borderless Band · Qhzc5js
+
+Independent review on 2026-11-21. **8.4/10** · Sources 1.8, prose 1.8, recordings 2.2, images 1.0, gaps and reader experience 1.6. English and Persian hashes are `743280361789` and `9ab7319336af`. The thirteen panels distinguish the Berkeley concert numbers from the studio items and the later live single. All 27 images per language and local fragments passed. Kourosh Babaei’s published biography lists an album titled Borderless in 2018, and the original 2018 fundraiser documents what was then titled Dust & the Moon. Tirgan's 2023 programme also describes a Canadian band under the same name with Babaei and Fariba Davody that it dates to 2018. Verify the record and describe the relationship to the Canadian group to the extent sources allow.

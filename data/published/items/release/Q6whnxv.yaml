@@ -1,0 +1,45 @@
+id: Q6whnxv
+type: release
+statements:
+  name:
+  - value:
+      text: Yara Mi
+      language: en
+    references:
+    - source: music.apple.com-us-album-yara-mi-1514849611
+      quote: Yara Mi
+      locator: Track 8
+      accessed: '2026-11-21'
+  performer:
+  - value: Qnrm3kw
+    references:
+    - source: itunes.apple.com-lookupid-1514815890-entity-song-limit-200
+      quote: Yara Mi
+      locator: Artist-matched song lookup
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2020-05-22'
+    references:
+    - source: music.apple.com-us-album-yara-mi-1514849611
+      quote: '2020-05-22'
+      locator: Original edition date
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/f4/5c/b3/f45cb374-1caf-69a7-0218-836427b6ceff/cover.jpg/632x632bb-60.jpg
+    references:
+    - source: music.apple.com-us-album-yara-mi-1514849611
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/f4/5c/b3/f45cb374-1caf-69a7-0218-836427b6ceff/cover.jpg/632x632bb-60.jpg
+      locator: Release art
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Vengê Royî-2 · Apple Music
+        language: en
+  listen link:
+  - value: https://music.apple.com/us/song/yara-mi/1514850009
+    references:
+    - source: music.apple.com-us-album-yara-mi-1514849611
+      quote: Yara Mi
+      locator: Track 8
+      accessed: '2026-11-21'

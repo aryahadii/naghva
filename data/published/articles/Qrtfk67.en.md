@@ -75,10 +75,30 @@ references:
     quote: Michael K. Harrist, New York based musician, educator, and bassist
     accessed: '2026-11-21'
     locator: Bassist on this date
+  records-program:
+    source: mechanicalforestsound.blogspot.com-2018-07-recording-this-tale-of-ours-quartet.html
+    quote: 'Songs: Little Black Dog + Neveser 14 / Synkathistos'
+    accessed: '2026-11-21'
+    locator: Contemporary report and field recordings of two sets at Eastminster
+  museum2022-date:
+    source: agakhanmuseum.org-annual-report-2022
+    quote: This Tale of Ours
+    accessed: '2026-11-21'
+    locator: Annual report, performance programme entry for June 3
+  museum2022-day:
+    source: agakhanmuseum.org-annual-report-2022
+    quote: June 3
+    accessed: '2026-11-21'
+    locator: Date printed directly below the ensemble name in the 2022 programme
+  museum2022-players:
+    source: agakhanmuseum.org-annual-report-2022
+    quote: Pedram Khavarzamini and tar player Araz Salek. They play original and existing compositions,
+    accessed: '2026-11-21'
+    locator: 2022 programme, original lineup
 ---
 
 This Tale of Ours brings together two musicians from Iran who settled in Toronto, tar player Araz Salek and tombak player Pedram Khavarzamini, with two musicians based in Crete, Ross Daly and lyra player Kelly Thoma. The quartet takes its name from a poem by Rumi. Its members arrange older pieces, write their own and improvise, drawing on the modal traditions of Iran, the former Ottoman Empire and the Balkans.[^ethno-place][^ethno-origins][^ethno-rumi][^ethno-practice][^trio-repertoire][^vx6tfl0yvdvy-daly]
 
 Salek visited the Labyrinth workshop in the Cretan village of Houdetsi in 2011. The four musicians date the start of their project to 2012. In February 2013, the Iranian Association at the University of Toronto presented [the quartet in concert](#this-tale-of-ours-part-one-txh). The group recalls audiences of 300 to 400 at its Toronto concerts in 2013 and 2016.[^interview-visit][^ethno-year][^vq9bdwfhv0oq-concert][^vq9bdwfhv0oq-presenter][^ethno-audience]
 
-At [Eastminster United Church](#labyrinth-ontario-2018-this-tale-of-ours-nkk) in Toronto in May 2018, Daly played rabab, lyra and tarhu alongside Thoma’s lyra, Salek’s plucked tar and Khavarzamini’s tombak. Tzvetanka Varimezova joined the four for another Toronto concert in June 2019. A [June 2024 performance](#this-tale-of-ours-at-the-western-and-world-symposium-part-1-4ke) at the Western and World symposium brought a different sound to the quartet. New York bassist Michael K. Harrist played with Salek, Thoma and Daly.[^vx6tfl0yvdvy-session][^vx6tfl0yvdvy-daly][^calendar-guest][^vesv9hurp8fy-event][^vesv9hurp8fy-harrist]
+At [Eastminster United Church](#labyrinth-ontario-2018-this-tale-of-ours-nkk) in Toronto in May 2018, Daly played rabab, lyra and tarhu alongside Thoma’s lyra, Salek’s plucked tar and Khavarzamini’s tombak. Their two sets included “Little Black Dog” paired with “Neveser 14”, and a separate performance of “Synkathistos”.[^records-program] Tzvetanka Varimezova joined the four for another Toronto concert in June 2019. The original four played Toronto’s Aga Khan Museum on June 3, 2022.[^museum2022-date][^museum2022-day][^museum2022-players] A [June 2024 performance](#this-tale-of-ours-at-the-western-and-world-symposium-part-1-4ke) at the Western and World symposium brought a different sound to the quartet. New York bassist Michael K. Harrist played with Salek, Thoma and Daly.[^vx6tfl0yvdvy-session][^vx6tfl0yvdvy-daly][^calendar-guest][^vesv9hurp8fy-event][^vesv9hurp8fy-harrist]

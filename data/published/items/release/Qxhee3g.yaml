@@ -11,6 +11,12 @@ statements:
       accessed: 2026-11-21
       locator: Album heading
   performer:
+  - value: Qtaawg8
+    references:
+    - source: riteofstrings.bandcamp.com-album-dust-and-the-moon
+      quote: Rite of Strings
+      accessed: 2026-11-21
+      locator: Release artist
   - value: Qwh5yn8
     references:
     - source: www.brightshiny.ninja-useless-information-dust-and-the-moon-revuelto-radio-jfdm3
@@ -24,3 +30,30 @@ statements:
       quote: Dust and the Moon
       accessed: 2026-11-21
       locator: Album heading
+  - value: https://riteofstrings.bandcamp.com/album/dust-and-the-moon
+    references:
+    - source: riteofstrings.bandcamp.com-album-dust-and-the-moon
+      quote: Rite of Strings
+      accessed: 2026-11-21
+      locator: Release artist
+  - value: https://music.apple.com/us/album/dust-and-the-moon/6786852818
+    references:
+    - source: music.apple.com-us-album-dust-and-the-moon-6786852818
+      quote: Rite of Strings
+      accessed: 2026-11-21
+      locator: Album artist
+  release date:
+  - value:
+      date: '2026-08-28'
+    references:
+    - source: riteofstrings.bandcamp.com-album-dust-and-the-moon
+      quote: released August 28, 2026
+      accessed: 2026-11-21
+      locator: Bandcamp issue date
+  cover art:
+  - value: https://f4.bcbits.com/img/a0010157421_10.jpg
+    references:
+    - source: riteofstrings.bandcamp.com-album-dust-and-the-moon
+      quote: https://f4.bcbits.com/img/a0010157421_10.jpg
+      accessed: 2026-11-21
+      locator: Album cover on release page

@@ -1,0 +1,73 @@
+id: Q34je8z
+type: release
+statements:
+  name:
+  - value:
+      text: 'Persian Classical Music:  A trio in Mahur'
+      language: en
+    references:
+    - source: www.youtube.com-watch-v-kxn7gdcpc68
+      quote: 'Persian Classical Music:  A trio in Mahur'
+      accessed: '2026-11-21'
+      locator: YouTube oEmbed title
+  listen link:
+  - value: https://www.youtube.com/watch?v=Kxn7GDCpc68
+    references:
+    - source: www.youtube.com-watch-v-kxn7gdcpc68
+      quote: 'Persian Classical Music:  A trio in Mahur'
+      accessed: '2026-11-21'
+      locator: YouTube oEmbed title
+    - source: www.youtube.com-watch-v-kxn7gdcpc68
+      quote: Araz Salek
+      accessed: '2026-11-21'
+      locator: Official issuing channel
+  cover art:
+  - value: https://i.ytimg.com/vi/Kxn7GDCpc68/hqdefault.jpg
+    qualifiers:
+      credit:
+        text: Araz Salek on YouTube
+        language: en
+    references:
+    - source: www.youtube.com-watch-v-kxn7gdcpc68
+      quote: https://i.ytimg.com/vi/Kxn7GDCpc68/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: YouTube oEmbed thumbnail
+    - source: www.youtube.com-watch-v-kxn7gdcpc68
+      quote: Araz Salek
+      accessed: '2026-11-21'
+      locator: Official issuing channel
+  performer:
+  - value: Qzqvz5q
+    references:
+    - source: www.youtube.com-watch-v-kxn7gdcpc68
+      quote: 'Persian Classical Music:  A trio in Mahur'
+      accessed: '2026-11-21'
+      locator: YouTube oEmbed title
+    - source: www.youtube.com-watch-v-kxn7gdcpc68
+      quote: Araz Salek
+      accessed: '2026-11-21'
+      locator: Official issuing channel
+  - value: Q5rnjaz
+    qualifiers:
+      role: tombak
+    references:
+    - source: www.youtube.com-watch-v-kxn7gdcpc68
+      quote: Pedram Khavarzamini
+      accessed: '2026-11-21'
+      locator: Credited musician
+  - value: Qtax9zg
+    qualifiers:
+      role: kamancheh
+    references:
+    - source: www.youtube.com-watch-v-kxn7gdcpc68
+      quote: Alireza Mehdizade
+      accessed: '2026-11-21'
+      locator: Credited musician
+  release date:
+  - value:
+      date: '2025-09-30'
+    references:
+    - source: www.youtube.com-watch-v-kxn7gdcpc68
+      quote: '2025-09-30'
+      accessed: '2026-11-21'
+      locator: Video publication date

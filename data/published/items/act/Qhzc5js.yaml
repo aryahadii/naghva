@@ -1,0 +1,31 @@
+id: Qhzc5js
+type: act
+statements:
+  name:
+  - value:
+      text: Borderless Band
+      language: en
+    references:
+    - source: ehsanmatoori.com-projects-borderless-band
+      quote: The Borderless Band, brainchild of Iranian santoorist and composer Ehsan Matoori
+      accessed: 2026-11-21
+      locator: Ensemble biography
+  - value:
+      text: گروه بدون مرز
+      language: fa
+    references:
+    - source: tirgan2023.tirgan.ca-event-borderless-band
+      quote: گروه بدون مرز
+      accessed: 2026-11-21
+      locator: Musician or presenter’s original account
+  image:
+  - value: https://i.ytimg.com/vi/zwvkA5gCuyo/maxresdefault.jpg
+    qualifiers:
+      credit:
+        text: Ehsan Matoori, official concert film
+        language: en
+    references:
+    - source: youtu.be-zwvka5gcuyo
+      quote: https://i.ytimg.com/vi/zwvkA5gCuyo/maxresdefault.jpg
+      accessed: 2026-11-21
+      locator: Original full concert video thumbnail

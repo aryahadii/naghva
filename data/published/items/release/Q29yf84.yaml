@@ -11,6 +11,12 @@ statements:
       accessed: 2026-11-21
       locator: Rite of Strings album sequence
   performer:
+  - value: Qtaawg8
+    references:
+    - source: riteofstrings.bandcamp.com-album-dust-and-the-moon
+      quote: Rite of Strings
+      accessed: 2026-11-21
+      locator: Release artist
   - value: Qwh5yn8
     references:
     - source: www.brightshiny.ninja-useless-information-dust-and-the-moon-revuelto-radio-jfdm3
@@ -24,3 +30,36 @@ statements:
       quote: Lunar Transit (Arr. for Santoor, Violin, Bass, and Drums by Edward Perez)
       accessed: 2026-11-21
       locator: Rite of Strings album sequence
+  - value: https://riteofstrings.bandcamp.com/track/lunar-transit-arr-for-santoor-violin-bass-and-drums-by-edward-perez
+    references:
+    - source: riteofstrings.bandcamp.com-album-dust-and-the-moon
+      quote: Lunar Transit (arr. for Santoor, Violin, Bass, and Drums by Edward Perez)
+      accessed: 2026-11-21
+      locator: Track 2
+  - value: https://music.apple.com/us/song/lunar-transit-arr-for-santoor-violin-bass-and-drums/6786852824
+    references:
+    - source: music.apple.com-us-album-dust-and-the-moon-6786852818
+      quote: Lunar Transit (Arr. for Santoor, Violin, Bass, and Drums by Edward Perez)
+      accessed: 2026-11-21
+      locator: Track 2
+  - value: https://soundcloud.com/riteofstrings/lunar-transit-arr-for-santoor
+    references:
+    - source: soundcloud.com-riteofstrings-lunar-transit-arr-for-santoor
+      quote: https://soundcloud.com/riteofstrings/lunar-transit-arr-for-santoor
+      accessed: 2026-11-21
+      locator: Album track permalink
+  release date:
+  - value:
+      date: '2026-08-28'
+    references:
+    - source: riteofstrings.bandcamp.com-album-dust-and-the-moon
+      quote: released August 28, 2026
+      accessed: 2026-11-21
+      locator: Bandcamp issue date
+  cover art:
+  - value: https://f4.bcbits.com/img/a0010157421_10.jpg
+    references:
+    - source: riteofstrings.bandcamp.com-album-dust-and-the-moon
+      quote: https://f4.bcbits.com/img/a0010157421_10.jpg
+      accessed: 2026-11-21
+      locator: Album cover on release page

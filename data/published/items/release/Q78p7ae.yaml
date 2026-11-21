@@ -1,0 +1,149 @@
+id: Q78p7ae
+type: release
+statements:
+  name:
+  - value:
+      text: Peripheries of Nahavand
+      language: en
+    references:
+    - source: arazsalek.bandcamp.com-album-peripheries-of-nahavand
+      quote: Peripheries of Nahavand
+      accessed: '2026-11-21'
+      locator: Bandcamp album title
+  release type:
+  - value: album
+    references:
+    - source: arazsalek.bandcamp.com-album-peripheries-of-nahavand
+      quote: Peripheries of Nahavand
+      accessed: '2026-11-21'
+      locator: Bandcamp album title
+  release date:
+  - value:
+      date: '2025-04-11'
+    references:
+    - source: music.apple.com-us-album-peripheries-of-nahavand-feat-efr-c3-a9n-l-c3-b3pez-1793087383
+      quote: '2025-04-11'
+      accessed: '2026-11-21'
+      locator: Edition release date
+  cover art:
+  - value: https://f4.bcbits.com/img/a0188332014_10.jpg
+    qualifiers:
+      credit:
+        text: Bandcamp edition artwork
+        language: en
+    references:
+    - source: arazsalek.bandcamp.com-album-peripheries-of-nahavand
+      quote: https://f4.bcbits.com/img/a0188332014_10.jpg
+      accessed: '2026-11-21'
+      locator: Edition artwork, full-size Bandcamp original
+  listen link:
+  - value: https://arazsalek.bandcamp.com/album/peripheries-of-nahavand
+    references:
+    - source: arazsalek.bandcamp.com-album-peripheries-of-nahavand
+      quote: Peripheries of Nahavand | Araz Salek
+      accessed: '2026-11-21'
+      locator: Publisher page title
+  - value: https://efrenlopez.bandcamp.com/album/peripheries-of-nahavand-full-6-track-album-2025
+    references:
+    - source: efrenlopez.bandcamp.com-album-peripheries-of-nahavand-full-6-track-album-2025
+      quote: Peripheries of Nahavand (full 6-​track album) [2025] | Araz Salek | Efrén López
+      accessed: '2026-11-21'
+      locator: Publisher page title
+  - value: https://music.apple.com/us/album/peripheries-of-nahavand-feat-efr%C3%A9n-l%C3%B3pez/1793087383
+    references:
+    - source: music.apple.com-us-album-peripheries-of-nahavand-feat-efr-c3-a9n-l-c3-b3pez-1793087383
+      quote: ‎Peripheries of Nahavand (feat. Efrén López) - Album by Araz Salek - Apple Music
+      accessed: '2026-11-21'
+      locator: Publisher page title
+  - value: https://open.spotify.com/album/4VauLYoGO9WA2P0hzOtYsC
+    references:
+    - source: open.spotify.com-album-4vaulyogo9wa2p0hzotysc
+      quote: Peripheries of Nahavand - Araz Salek | Spotify
+      accessed: '2026-11-21'
+      locator: Publisher page title
+  performer:
+  - value: Qzqvz5q
+    qualifiers:
+      role: tar
+    references:
+    - source: arazsalek.bandcamp.com-album-peripheries-of-nahavand
+      quote: Araz Salek
+      accessed: '2026-11-21'
+      locator: Album personnel
+  - value: Qtqwf7n
+    qualifiers:
+      role: oud
+    references:
+    - source: arazsalek.bandcamp.com-album-peripheries-of-nahavand
+      quote: Efrén López
+      accessed: '2026-11-21'
+      locator: Album personnel
+  - value: Q79rhd9
+    qualifiers:
+      role: vocals
+    references:
+    - source: arazsalek.bandcamp.com-album-peripheries-of-nahavand
+      quote: Asare Shekarchi
+      accessed: '2026-11-21'
+      locator: Album personnel
+  - value: Qcvf546
+    qualifiers:
+      role: santur
+    references:
+    - source: arazsalek.bandcamp.com-album-peripheries-of-nahavand
+      quote: Aria Mohafez
+      accessed: '2026-11-21'
+      locator: Album personnel
+  - value: Qwz6x8y
+    qualifiers:
+      role: strings
+    references:
+    - source: arazsalek.bandcamp.com-album-peripheries-of-nahavand
+      quote: Derya Türkan
+      accessed: '2026-11-21'
+      locator: Album personnel
+  - value: Qxwemnb
+    qualifiers:
+      role: ney
+    references:
+    - source: arazsalek.bandcamp.com-album-peripheries-of-nahavand
+      quote: Houshmand Ebadi
+      accessed: '2026-11-21'
+      locator: Album personnel
+  - value: Q5rnjaz
+    qualifiers:
+      role: tombak
+    references:
+    - source: arazsalek.bandcamp.com-album-peripheries-of-nahavand
+      quote: Pedram Khavarzamini
+      accessed: '2026-11-21'
+      locator: Album personnel
+  contributor:
+  - value: Qzqvz5q
+    qualifiers:
+      role:
+      - composer
+      - arranger
+    references:
+    - source: arazsalek.bandcamp.com-album-peripheries-of-nahavand
+      quote: 'Araz Salek: composition, tar, arrangement'
+      accessed: '2026-11-21'
+      locator: Liner credits
+  - value: Qtqwf7n
+    qualifiers:
+      role:
+      - arranger
+      - mixing engineer
+      - mastering engineer
+    references:
+    - source: arazsalek.bandcamp.com-album-peripheries-of-nahavand
+      quote: arrangement, mix and master
+      accessed: '2026-11-21'
+      locator: López’s production credit
+  published by:
+  - value: Qwc9v9d
+    references:
+    - source: arazsalek.bandcamp.com-album-peripheries-of-nahavand
+      quote: Worlds Within Worlds
+      accessed: '2026-11-21'
+      locator: Bandcamp label header

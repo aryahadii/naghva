@@ -1,0 +1,61 @@
+id: Qnrm3kw
+type: person
+statements:
+  name:
+  - value:
+      text: Hani Mojtahedy
+      language: en
+    references:
+    - source: www.hanimojtahedy.com-biography
+      quote: Hani Mojtahedy
+      locator: Official name
+      accessed: '2026-11-21'
+  - value:
+      text: هانی مجتهدی
+      language: fa
+    references:
+    - source: jinhaagency1.com-fa-nawyn-rwz-tranhy-amrwz-dmkrasy-30773
+      quote: هانی مجتهدی
+      locator: Persian-language report
+      accessed: '2026-11-21'
+  image:
+  - value: https://static.wixstatic.com/media/47358a_ce2cbcff69b04aa2af831ed5c9f0f5fe~mv2_d_5760_3840_s_4_2.jpg/v1/fill/w_600,h_400,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/6H1A7375%202.jpg
+    references:
+    - source: www.hanimojtahedy.com-biography
+      quote: https://static.wixstatic.com/media/47358a_ce2cbcff69b04aa2af831ed5c9f0f5fe~mv2_d_5760_3840_s_4_2.jpg/v1/fill/w_600,h_400,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/6H1A7375%202.jpg
+      locator: Original artist or recording image
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Hani Mojtahedy · official biography
+        language: en
+  member of:
+  - value: Qjb6dqs
+    references:
+    - source: hjirok.bandcamp.com-album-hjirok
+      quote: Vocals by Hani Mojtahedy.
+      locator: Album credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role:
+      - vocals
+      - producer
+  profile link:
+  - value: https://open.spotify.com/artist/4u6WezeJnoWI28umFSAU1M
+    references:
+    - source: open.spotify.com-artist-4u6wezejnowi28umfsau1m
+      quote: Hani Mojtahedy
+      locator: Artist listing
+      accessed: '2026-11-21'
+  - value: https://www.youtube.com/channel/UCYk3oxx4mX5VQJGrYPyXDaQ
+    references:
+    - source: www.hanimojtahedy.com
+      quote: https://www.youtube.com/channel/UCYk3oxx4mX5VQJGrYPyXDaQ
+      locator: Artist site
+      accessed: '2026-11-21'
+  - value: https://t.me/hani_mojtahedi
+    references:
+    - source: t.me-s-hani_mojtahedi
+      quote: '@hani_mojtahedi'
+      locator: Official channel
+      accessed: '2026-11-21'

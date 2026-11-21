@@ -9,3 +9,7 @@ status: processed
 > composer Ehsan Matoori, who plays the santur
 
 Label identifies the ensemble’s santoor player, read 2026-11-21.
+
+> September 30 at Joe’s Pub in New York
+
+New York launch, read 2026-11-21.

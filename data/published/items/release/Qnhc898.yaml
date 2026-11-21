@@ -1,0 +1,98 @@
+id: Qnhc898
+type: release
+statements:
+  name:
+  - value:
+      text: Goshāyesh 11 & 15
+      language: en
+    references:
+    - source: arazsalek.bandcamp.com-track-gosh-yesh-11-15
+      quote: Goshāyesh 11 & 15 | Araz Salek
+      accessed: '2026-11-21'
+      locator: Publisher page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a0188332014_10.jpg
+    qualifiers:
+      credit:
+        text: Bandcamp edition artwork
+        language: en
+    references:
+    - source: arazsalek.bandcamp.com-album-peripheries-of-nahavand
+      quote: https://f4.bcbits.com/img/a0188332014_10.jpg
+      accessed: '2026-11-21'
+      locator: Edition artwork, full-size Bandcamp original
+  release date:
+  - value:
+      date: '2025-04-11'
+    references:
+    - source: music.apple.com-us-album-peripheries-of-nahavand-feat-efr-c3-a9n-l-c3-b3pez-1793087383
+      quote: '2025-04-11'
+      accessed: '2026-11-21'
+      locator: Edition release date
+  listen link:
+  - value: https://arazsalek.bandcamp.com/track/gosh-yesh-11-15
+    references:
+    - source: arazsalek.bandcamp.com-track-gosh-yesh-11-15
+      quote: Goshāyesh 11 & 15 | Araz Salek
+      accessed: '2026-11-21'
+      locator: Publisher page title
+  - value: https://efrenlopez.bandcamp.com/track/gosh-yesh-11-15
+    references:
+    - source: efrenlopez.bandcamp.com-track-gosh-yesh-11-15
+      quote: Goshāyesh 11 & 15 | Araz Salek | Efrén López
+      accessed: '2026-11-21'
+      locator: Publisher page title
+  - value: https://music.apple.com/us/song/gosh%C3%A2yesh-11-15-feat-efr%C3%A9n-l%C3%B3pez-aria-mohafez/1793087386
+    references:
+    - source: music.apple.com-us-album-peripheries-of-nahavand-feat-efr-c3-a9n-l-c3-b3pez-1793087383
+      quote: Goshâyesh 11 & 15 (feat. Efrén López & Aria Mohafez)
+      accessed: '2026-11-21'
+      locator: Apple Music track list
+  - value: https://open.spotify.com/track/4yjduU9yMQLukPq0OdV5ik
+    references:
+    - source: open.spotify.com-album-4vaulyogo9wa2p0hzotysc
+      quote: Goshâyesh 11 & 15
+      accessed: '2026-11-21'
+      locator: Spotify track list
+  performer:
+  - value: Qzqvz5q
+    qualifiers:
+      role: tar
+    references:
+    - source: efrenlopez.bandcamp.com-track-gosh-yesh-11-15
+      quote: 'ARAZ SALEK:'
+      accessed: '2026-11-21'
+      locator: Track-specific musician and instrument
+  - value: Qtqwf7n
+    qualifiers:
+      role: oud
+    references:
+    - source: efrenlopez.bandcamp.com-track-gosh-yesh-11-15
+      quote: 'EFRÉN LÓPEZ:'
+      accessed: '2026-11-21'
+      locator: Track-specific musician and instrument
+  - value: Qcvf546
+    qualifiers:
+      role: santur
+    references:
+    - source: efrenlopez.bandcamp.com-track-gosh-yesh-11-15
+      quote: 'ARIA MOHAFEZ:'
+      accessed: '2026-11-21'
+      locator: Track-specific musician and instrument
+  - value: Q5rnjaz
+    qualifiers:
+      role: tombak
+    references:
+    - source: efrenlopez.bandcamp.com-track-gosh-yesh-11-15
+      quote: 'PEDRAM KHAVARZAMINI:'
+      accessed: '2026-11-21'
+      locator: Track-specific musician and instrument
+  contributor:
+  - value: Qzqvz5q
+    qualifiers:
+      role: composer
+    references:
+    - source: efrenlopez.bandcamp.com-track-gosh-yesh-11-15
+      quote: 'COMPOSITION: ARAZ SALEK'
+      accessed: '2026-11-21'
+      locator: Track composition

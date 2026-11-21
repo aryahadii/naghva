@@ -65,12 +65,29 @@ references:
     quote: 'Lyrics: Fereydoon Moshiri'
     accessed: 2026-11-21
     locator: Poet
+  university:
+    source: www.brightshiny.ninja-artists-ehsan-matoori-guzo
+    quote: one of the founding members of the University of Isfahan’s music ensemble Navid-e Bahar in 1999
+    accessed: 2026-11-21
+    locator: University ensemble
+  borderless:
+    source: ehsanmatoori.com-projects-borderless-band
+    quote: on behalf of all those artists banned from crossing American borders.
+    accessed: 2026-11-21
+    locator: Inaugural concert recollection
+  sf:
+    source: ehsanmatoori.com-projects-borderless-band
+    quote: San Francisco’s Freight and Salvage theater
+    accessed: 2026-11-21
+    locator: Summer 2019 performance
 ---
 
-Ehsan Matoori was nine when he began playing the santoor. He went on to study the radif, the repertory passed between players and singers, with Parviz Meshkatian and Pashang Kamkar. In 2013 he moved from Iran to the United States.[^age][^training][^move]
+Ehsan Matoori was nine when he began playing the santoor. He went on to study the radif, the repertory passed between players and singers, with Parviz Meshkatian and Pashang Kamkar. In 1999 he helped found Navid-e Bahar, the music ensemble at the University of Isfahan.[^university] In 2013 he moved from Iran to the United States.[^age][^training][^move]
 
 ## Writing for two voices
 
-The first album under his name was *Phantasm*, recorded with singer Mohsen Namjoo and released in 2019.[^album] For “Nostalgia,” on the 2021 album *The Voices and Bridges*, Matoori brought together the voices of Alireza Ghorbani and American singer Celia Woodsmith. He traced the piece to a video he had seen of Syrian women and men drowning in the Mediterranean.[^voices][^singers][^singer2][^song]
+The first album under his name was *Phantasm*, recorded with singer Mohsen Namjoo and released in 2019.[^album] That summer his Borderless Band played at Freight and Salvage in the San Francisco Bay Area. The musicians dedicated the concert to artists who could not cross the US border.[^sf][^borderless]
+
+For “Nostalgia,” on the 2021 album *The Voices and Bridges*, Matoori brought together the voices of Alireza Ghorbani and American singer Celia Woodsmith. He traced the piece to a video he had seen of Syrian women and men drowning in the Mediterranean.[^voices][^singers][^singer2][^song]
 
 Two singers are also at the centre of his three-part stage work *Voices Unveiled*, Maliheh Moradi and Mina Deris.[^trio][^two] In “Darya-b,” Deris sings a poem by Fereydoon Moshiri. Matoori describes the woman in the song returning to the shore each day to ask the sea to look after the son she lost in its waters.[^shore][^mothersong][^poet]

@@ -75,10 +75,30 @@ references:
     quote: Michael K. Harrist, New York based musician, educator, and bassist
     accessed: '2026-11-21'
     locator: Bassist on this date
+  records-program:
+    source: mechanicalforestsound.blogspot.com-2018-07-recording-this-tale-of-ours-quartet.html
+    quote: 'Songs: Little Black Dog + Neveser 14 / Synkathistos'
+    accessed: '2026-11-21'
+    locator: Contemporary report and field recordings of two sets at Eastminster
+  museum2022-date:
+    source: agakhanmuseum.org-annual-report-2022
+    quote: This Tale of Ours
+    accessed: '2026-11-21'
+    locator: Annual report, performance programme entry for June 3
+  museum2022-day:
+    source: agakhanmuseum.org-annual-report-2022
+    quote: June 3
+    accessed: '2026-11-21'
+    locator: Date printed directly below the ensemble name in the 2022 programme
+  museum2022-players:
+    source: agakhanmuseum.org-annual-report-2022
+    quote: Pedram Khavarzamini and tar player Araz Salek. They play original and existing compositions,
+    accessed: '2026-11-21'
+    locator: 2022 programme, original lineup
 ---
 
 در گروه «This Tale of Ours» دو نوازندهٔ ایرانی ساکن تورنتو، آراز سالک (تار) و پدرام خاورزمینی (تنبک)، با دو نوازندهٔ ساکن کرت، راس دیلی و کلی توما، هم‌نوا شدند. توما لیرای کرتی می‌نوازد. اعضای گروه نامشان را از شعری از مولوی گرفته‌اند. در اجراهایشان قطعه‌های قدیمی را تنظیم می‌کنند، ساخته‌های خودشان را می‌نوازند و بداهه‌نوازی می‌کنند. موسیقی مقامی ایران، سرزمین‌های عثمانی و بالکان بخشی از کارمایهٔ گروه است.[^ethno-place][^ethno-origins][^ethno-rumi][^ethno-practice][^trio-repertoire][^vx6tfl0yvdvy-daly]
 
 سالک در سال ۲۰۱۱ به کارگاه موسیقی لابیرینت در روستای هودتسی در جزیرهٔ کرت رفت. چهار نوازنده آغاز کار گروهشان را سال ۲۰۱۲ می‌دانند. در فوریهٔ ۲۰۱۳ انجمن ایرانیان دانشگاه تورنتو [کنسرت گروه](#this-tale-of-ours-part-one-txh) را برگزار کرد. به گفتهٔ اعضا، در کنسرت‌های سال‌های ۲۰۱۳ و ۲۰۱۶ آن‌ها در تورنتو هر بار ۳۰۰ تا ۴۰۰ نفر در میان تماشاگران بودند.[^interview-visit][^ethno-year][^vq9bdwfhv0oq-concert][^vq9bdwfhv0oq-presenter][^ethno-audience]
 
-در [کنسرت کلیسای ایست‌مینستر](#labyrinth-ontario-2018-this-tale-of-ours-nkk) در تورنتو در مهٔ ۲۰۱۸، دیلی رباب، لیرا و تارهُو نواخت و توما با لیرا، سالک با تار و خاورزمینی با تنبک همراهی‌اش کردند. در ژوئن ۲۰۱۹ تسوتانکا واریمزووا هم در کنار این چهار نفر در تورنتو روی صحنه رفت. ترکیب گروه در [اجرای ژوئن ۲۰۲۴](#this-tale-of-ours-at-the-western-and-world-symposium-part-1-4ke) در همایش «Western and World» تغییر کرد. این بار مایکل کی. هریست، نوازندهٔ باس ساکن نیویورک، همراه سالک، توما و دیلی بود.[^vx6tfl0yvdvy-session][^vx6tfl0yvdvy-daly][^calendar-guest][^vesv9hurp8fy-event][^vesv9hurp8fy-harrist]
+در [کنسرت کلیسای ایست‌مینستر](#labyrinth-ontario-2018-this-tale-of-ours-nkk) در تورنتو در مهٔ ۲۰۱۸، دیلی رباب، لیرا و تارهُو نواخت و توما با لیرا، سالک با تار و خاورزمینی با تنبک همراهی‌اش کردند. در دو بخش کنسرت، «Little Black Dog» را همراه «Neveser 14» نواختند و «Synkathistos» را هم جداگانه اجرا کردند.[^records-program] در ژوئن ۲۰۱۹ تسوتانکا واریمزووا هم در کنار این چهار نفر در تورنتو روی صحنه رفت. چهار عضو اصلی در ۳ ژوئن ۲۰۲۲ در موزهٔ آقاخان در تورنتو نیز کنسرت دادند.[^museum2022-date][^museum2022-day][^museum2022-players] ترکیب گروه در [اجرای ژوئن ۲۰۲۴](#this-tale-of-ours-at-the-western-and-world-symposium-part-1-4ke) در همایش «Western and World» تغییر کرد. این بار مایکل کی. هریست، نوازندهٔ باس ساکن نیویورک، همراه سالک، توما و دیلی بود.[^vx6tfl0yvdvy-session][^vx6tfl0yvdvy-daly][^calendar-guest][^vesv9hurp8fy-event][^vesv9hurp8fy-harrist]

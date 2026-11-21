@@ -1,0 +1,98 @@
+id: Q7qrqv5
+type: release
+statements:
+  name:
+  - value:
+      text: Ghazal
+      language: en
+    references:
+    - source: arazsalek.bandcamp.com-track-ghazal
+      quote: Ghazal | Araz Salek
+      accessed: '2026-11-21'
+      locator: Publisher page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a0188332014_10.jpg
+    qualifiers:
+      credit:
+        text: Bandcamp edition artwork
+        language: en
+    references:
+    - source: arazsalek.bandcamp.com-album-peripheries-of-nahavand
+      quote: https://f4.bcbits.com/img/a0188332014_10.jpg
+      accessed: '2026-11-21'
+      locator: Edition artwork, full-size Bandcamp original
+  release date:
+  - value:
+      date: '2025-04-11'
+    references:
+    - source: music.apple.com-us-album-peripheries-of-nahavand-feat-efr-c3-a9n-l-c3-b3pez-1793087383
+      quote: '2025-04-11'
+      accessed: '2026-11-21'
+      locator: Edition release date
+  listen link:
+  - value: https://arazsalek.bandcamp.com/track/ghazal
+    references:
+    - source: arazsalek.bandcamp.com-track-ghazal
+      quote: Ghazal | Araz Salek
+      accessed: '2026-11-21'
+      locator: Publisher page title
+  - value: https://efrenlopez.bandcamp.com/track/ghazal
+    references:
+    - source: efrenlopez.bandcamp.com-track-ghazal
+      quote: Ghazal | Araz Salek | Efrén López
+      accessed: '2026-11-21'
+      locator: Publisher page title
+  - value: https://music.apple.com/us/song/ghazal-feat-asare-shekarchi-efr%C3%A9n-l%C3%B3pez-aria-mohafez/1793087647
+    references:
+    - source: music.apple.com-us-album-peripheries-of-nahavand-feat-efr-c3-a9n-l-c3-b3pez-1793087383
+      quote: Ghazal (feat. Asare Shekarchi, Efrén López, Aria Mohafez & Houshmand Ebadi)
+      accessed: '2026-11-21'
+      locator: Apple Music track list
+  - value: https://open.spotify.com/track/1FBLoi8MDtdEHkRGjVdZep
+    references:
+    - source: open.spotify.com-album-4vaulyogo9wa2p0hzotysc
+      quote: Ghazal
+      accessed: '2026-11-21'
+      locator: Spotify track list
+  performer:
+  - value: Q79rhd9
+    qualifiers:
+      role: vocals
+    references:
+    - source: efrenlopez.bandcamp.com-track-ghazal
+      quote: 'ASARE SHEKARCHI:'
+      accessed: '2026-11-21'
+      locator: Track-specific musician and instrument
+  - value: Qcvf546
+    qualifiers:
+      role: santur
+    references:
+    - source: efrenlopez.bandcamp.com-track-ghazal
+      quote: 'ARIA MOHAFEZ:'
+      accessed: '2026-11-21'
+      locator: Track-specific musician and instrument
+  - value: Qxwemnb
+    qualifiers:
+      role: ney
+    references:
+    - source: efrenlopez.bandcamp.com-track-ghazal
+      quote: 'HOUSHMAND EBADI:'
+      accessed: '2026-11-21'
+      locator: Track-specific musician and instrument
+  contributor:
+  - value: Qzqvz5q
+    qualifiers:
+      role: arranger
+    references:
+    - source: efrenlopez.bandcamp.com-track-ghazal
+      quote: 'ĀVĀZ STRUCTURE: ARAZ SALEK'
+      accessed: '2026-11-21'
+      locator: Avaz structure
+  - value: Q9v5vsf
+    qualifiers:
+      role: lyricist
+    references:
+    - source: efrenlopez.bandcamp.com-track-ghazal
+      quote: 'LYRICS: HĀFEZ'
+      accessed: '2026-11-21'
+      locator: Poem

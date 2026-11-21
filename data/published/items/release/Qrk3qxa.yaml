@@ -1,0 +1,57 @@
+id: Qrk3qxa
+type: release
+statements:
+  name:
+  - value:
+      text: Goman (Remix)
+      language: en
+    references:
+    - source: music.apple.com-us-album-goman-remix-6811013458
+      quote: Goman (Remix)
+      locator: Track 2
+      accessed: '2026-11-21'
+  performer:
+  - value: Qnrm3kw
+    references:
+    - source: itunes.apple.com-lookupid-1459043758-entity-song-limit-200
+      quote: Goman (Remix)
+      locator: Artist-matched song lookup
+      accessed: '2026-11-21'
+  - value: Q7yfgnj
+    references:
+    - source: music.apple.com-us-album-goman-remix-6811013458
+      quote: Acid Pauli
+      locator: Primary or credited recording artist
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2026-11-20'
+    references:
+    - source: music.apple.com-us-album-goman-remix-6811013458
+      quote: '2026-11-20'
+      locator: Original edition date
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7d/8d/19/7d8d1954-9396-469e-7551-b17d4cccbacd/cover.jpg/632x632bb-60.jpg
+    references:
+    - source: music.apple.com-us-album-goman-remix-6811013458
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7d/8d/19/7d8d1954-9396-469e-7551-b17d4cccbacd/cover.jpg/632x632bb-60.jpg
+      locator: Release art
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Mystic Meltdown · Apple Music
+        language: en
+  listen link:
+  - value: https://music.apple.com/us/song/goman-remix/6811013466
+    references:
+    - source: music.apple.com-us-album-goman-remix-6811013458
+      quote: Goman (Remix)
+      locator: Track 2
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/22YxzmOiBwyQyeccuuUYxz
+    references:
+    - source: open.spotify.com-album-4mfkasrzy4ralihjgmzso2
+      quote: Goman - Remix
+      locator: Matched Spotify track
+      accessed: '2026-11-21'

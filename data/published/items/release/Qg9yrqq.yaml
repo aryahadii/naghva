@@ -1,0 +1,57 @@
+id: Qg9yrqq
+type: release
+statements:
+  name:
+  - value:
+      text: Montgolfier
+      language: en
+    references:
+    - source: slowmango.bandcamp.com-track-montgolfier-2
+      quote: Montgolfier
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  performer:
+  - value: Q786dch
+    references:
+    - source: slowmango.bandcamp.com-track-montgolfier-2
+      quote: Written & Performed by Slowmango
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Qtwtxvd
+    references:
+    - source: slowmango.bandcamp.com-track-montgolfier-2
+      quote: Santour - Maryam Rahmani
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://slowmango.bandcamp.com/track/montgolfier-2
+    references:
+    - source: slowmango.bandcamp.com-track-montgolfier-2
+      quote: Montgolfier | Slowmango
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://slowmango.bandcamp.com/track/montgolfier
+    references:
+    - source: slowmango.bandcamp.com-track-montgolfier
+      quote: Montgolfier | Slowmango
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2023-06-23'
+    references:
+    - source: slowmango.bandcamp.com-track-montgolfier-2
+      quote: released June 23, 2023
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a3020444575_10.jpg
+    references:
+    - source: slowmango.bandcamp.com-track-montgolfier-2
+      quote: https://f4.bcbits.com/img/a3020444575_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Emmaline Zanelli x The Bait Fridge
+        language: en

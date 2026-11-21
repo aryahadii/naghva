@@ -1,0 +1,51 @@
+id: Qxvskrt
+type: release
+statements:
+  name:
+  - value:
+      text: Like Rain - Live in Studio
+      language: en
+    references:
+    - source: music.apple.com-us-album-mother-ocean-live-in-studio-1660458473
+      quote: Like Rain - Live in Studio
+      locator: Track 1
+      accessed: '2026-11-21'
+  performer:
+  - value: Qnrm3kw
+    references:
+    - source: music.apple.com-us-album-mother-ocean-live-in-studio-1660458473
+      quote: Hani Mojtahedy
+      locator: Track or album performer
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2022-12-18'
+    references:
+    - source: music.apple.com-us-album-mother-ocean-live-in-studio-1660458473
+      quote: '2022-12-18'
+      locator: Original edition date
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/38/e5/f8/38e5f88f-3832-06a5-80a4-0c3ee71a397d/055120202155.png/632x632bb-60.jpg
+    references:
+    - source: music.apple.com-us-album-mother-ocean-live-in-studio-1660458473
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/38/e5/f8/38e5f88f-3832-06a5-80a4-0c3ee71a397d/055120202155.png/632x632bb-60.jpg
+      locator: Release art
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Mang Project Live · Apple Music
+        language: en
+  listen link:
+  - value: https://music.apple.com/us/song/like-rain-live-in-studio/1660458474
+    references:
+    - source: music.apple.com-us-album-mother-ocean-live-in-studio-1660458473
+      quote: Like Rain - Live in Studio
+      locator: Track 1
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/7k5PLgJWXoC6ONudBjBO5v
+    references:
+    - source: open.spotify.com-album-49xg2b0dxi7touovtoy438
+      quote: Like Rain - Live in Studio
+      locator: Matched Spotify track
+      accessed: '2026-11-21'

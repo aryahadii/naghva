@@ -1,0 +1,65 @@
+id: Qn9ewth
+type: release
+statements:
+  name:
+  - value:
+      text: Meselek
+      language: en
+    references:
+    - source: hjirok.bandcamp.com-album-hjirok
+      quote: Meselek
+      locator: Album track 6
+      accessed: '2026-11-21'
+  performer:
+  - value: Qjb6dqs
+    references:
+    - source: hjirok.bandcamp.com-album-hjirok
+      quote: HJirok
+      locator: Release artist
+      accessed: '2026-11-21'
+  - value: Qnrm3kw
+    references:
+    - source: hjirok.bandcamp.com-album-hjirok
+      quote: Vocals by Hani Mojtahedy.
+      locator: Album credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: vocals
+  release date:
+  - value:
+      date: '2024-03-08'
+    references:
+    - source: hjirok.bandcamp.com-album-hjirok
+      quote: released March 8, 2024
+      locator: Original issue
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://f4.bcbits.com/img/a1974953409_10.jpg
+    references:
+    - source: hjirok.bandcamp.com-album-hjirok
+      quote: https://f4.bcbits.com/img/a1974953409_10.jpg
+      locator: Original artist or recording image
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Siamand Mohammadi · Hjirok
+        language: en
+  listen link:
+  - value: https://hjirok.bandcamp.com/track/meselek
+    references:
+    - source: hjirok.bandcamp.com-album-hjirok
+      quote: Meselek
+      locator: Album track 6
+      accessed: '2026-11-21'
+  - value: https://music.apple.com/us/song/meselek/1730807959
+    references:
+    - source: music.apple.com-us-album-meselek-1730807622
+      quote: Meselek
+      locator: Streaming track
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/5eXeKwzliHDcV1cr9TAICP
+    references:
+    - source: open.spotify.com-album-5etebmb4eiox7glbi04pfk
+      quote: Meselek
+      locator: Streaming track
+      accessed: '2026-11-21'

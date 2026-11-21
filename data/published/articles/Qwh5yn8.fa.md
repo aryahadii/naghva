@@ -65,12 +65,29 @@ references:
     quote: 'Lyrics: Fereydoon Moshiri'
     accessed: 2026-11-21
     locator: Poet
+  university:
+    source: www.brightshiny.ninja-artists-ehsan-matoori-guzo
+    quote: one of the founding members of the University of Isfahan’s music ensemble Navid-e Bahar in 1999
+    accessed: 2026-11-21
+    locator: University ensemble
+  borderless:
+    source: ehsanmatoori.com-projects-borderless-band
+    quote: on behalf of all those artists banned from crossing American borders.
+    accessed: 2026-11-21
+    locator: Inaugural concert recollection
+  sf:
+    source: ehsanmatoori.com-projects-borderless-band
+    quote: San Francisco’s Freight and Salvage theater
+    accessed: 2026-11-21
+    locator: Summer 2019 performance
 ---
 
-احسان مطوری از نه‌سالگی سنتور می‌زند. بعدها ردیف سازی و آوازی را نزد پرویز مشکاتیان و پشنگ کامکار آموخت. در سال ۲۰۱۳ از ایران به آمریکا رفت.[^age][^training][^move]
+احسان مطوری از نه‌سالگی سنتور می‌زند. بعدها ردیف سازی و آوازی را نزد پرویز مشکاتیان و پشنگ کامکار آموخت. در سال ۱۹۹۹ از پایه‌گذاران گروه موسیقی «نوید بهار» در دانشگاه اصفهان بود.[^university] در سال ۲۰۱۳ از ایران به آمریکا رفت.[^age][^training][^move]
 
 ## آهنگ‌سازی برای دو صدا
 
-نخستین آلبوم مطوری حاصل همکاری او با محسن نامجو بود و در سال ۲۰۱۹ با نام *Phantasm* منتشر شد.[^album] در قطعهٔ «نوستالژی» از آلبوم *The Voices and Bridges* که در سال ۲۰۲۱ منتشر شد، علیرضا قربانی و سلیا وودسمیت، خوانندهٔ آمریکایی، کنار هم می‌خوانند. مطوری گفته جرقهٔ این قطعه را تماشای فیلمی زد که غرق شدن زنان و مردان سوری در مدیترانه را نشان می‌داد.[^voices][^singers][^singer2][^song]
+نخستین آلبوم مطوری حاصل همکاری او با محسن نامجو بود و در سال ۲۰۱۹ با نام *Phantasm* منتشر شد.[^album] همان تابستان با گروه «بوردرلس» در سالن فرِیت اند سَلویج در منطقهٔ خلیج سان‌فرانسیسکو روی صحنه رفت. گروه آن کنسرت را به هنرمندانی تقدیم کرد که اجازهٔ ورود به آمریکا را نداشتند.[^sf][^borderless]
+
+در قطعهٔ «نوستالژی» از آلبوم *The Voices and Bridges* که در سال ۲۰۲۱ منتشر شد، علیرضا قربانی و سلیا وودسمیت، خوانندهٔ آمریکایی، کنار هم می‌خوانند. مطوری گفته جرقهٔ این قطعه را تماشای فیلمی زد که غرق شدن زنان و مردان سوری در مدیترانه را نشان می‌داد.[^voices][^singers][^singer2][^song]
 
 در اثر صحنه‌ای سه‌بخشی *Voices Unveiled* هم دو خواننده حضور دارند، ملیحه مرادی و مینا دریس.[^trio][^two] در قطعهٔ «دریاب»، دریس شعری از فریدون مشیری می‌خواند. مطوری در توضیح قطعه از مادری می‌گوید که هر روز به ساحل برمی‌گردد و از دریا می‌خواهد مراقب پسری باشد که در آب از دست داده است.[^shore][^mothersong][^poet]

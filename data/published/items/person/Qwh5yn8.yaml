@@ -61,3 +61,20 @@ statements:
       quote: Ehsan Matoori
       accessed: 2026-11-21
       locator: Official artist profile
+  member of:
+  - value: Qtaawg8
+    qualifiers:
+      role: santur
+    references:
+    - source: riteofstrings.bandcamp.com-album-dust-and-the-moon
+      quote: Ehsan Matoori on Persian santoor
+      accessed: 2026-11-21
+      locator: Personnel statement
+  - value: Qhzc5js
+    qualifiers:
+      role: santur
+    references:
+    - source: ehsanmatoori.com-projects-borderless-band
+      quote: Matoori (santoor)
+      accessed: 2026-11-21
+      locator: Band personnel

@@ -17,3 +17,7 @@ Performance or composition credit, read 2026-11-21.
 > 2023-03-12
 
 Video publication date, read 2026-11-21.
+
+> Music by: Ehsan Matoori, Ali Montazeri
+
+Publisher’s credit, read 2026-11-21.

@@ -1,0 +1,73 @@
+id: Qaj2z7y
+type: release
+statements:
+  name:
+  - value:
+      text: 'Naser Masoudi''s Alla TiTi: A lullaby'
+      language: en
+    references:
+    - source: www.youtube.com-watch-v-w6dvrq5u4tm
+      quote: 'Naser Masoudi''s Alla TiTi: A lullaby'
+      accessed: '2026-11-21'
+      locator: YouTube oEmbed title
+  listen link:
+  - value: https://www.youtube.com/watch?v=W6dVRq5u4tM
+    references:
+    - source: www.youtube.com-watch-v-w6dvrq5u4tm
+      quote: 'Naser Masoudi''s Alla TiTi: A lullaby'
+      accessed: '2026-11-21'
+      locator: YouTube oEmbed title
+    - source: www.youtube.com-watch-v-w6dvrq5u4tm
+      quote: Araz Salek
+      accessed: '2026-11-21'
+      locator: Official issuing channel
+  cover art:
+  - value: https://i.ytimg.com/vi/W6dVRq5u4tM/hqdefault.jpg
+    qualifiers:
+      credit:
+        text: Araz Salek on YouTube
+        language: en
+    references:
+    - source: www.youtube.com-watch-v-w6dvrq5u4tm
+      quote: https://i.ytimg.com/vi/W6dVRq5u4tM/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: YouTube oEmbed thumbnail
+    - source: www.youtube.com-watch-v-w6dvrq5u4tm
+      quote: Araz Salek
+      accessed: '2026-11-21'
+      locator: Official issuing channel
+  performer:
+  - value: Qzqvz5q
+    references:
+    - source: www.youtube.com-watch-v-w6dvrq5u4tm
+      quote: 'Naser Masoudi''s Alla TiTi: A lullaby'
+      accessed: '2026-11-21'
+      locator: YouTube oEmbed title
+    - source: www.youtube.com-watch-v-w6dvrq5u4tm
+      quote: Araz Salek
+      accessed: '2026-11-21'
+      locator: Official issuing channel
+  - value: Q5rnjaz
+    qualifiers:
+      role: tombak
+    references:
+    - source: www.youtube.com-watch-v-w6dvrq5u4tm
+      quote: Pedram Khavarzamini
+      accessed: '2026-11-21'
+      locator: Credited musician
+  - value: Q344sba
+    qualifiers:
+      role: vocals
+    references:
+    - source: www.youtube.com-watch-v-w6dvrq5u4tm
+      quote: Naser Masoudi
+      accessed: '2026-11-21'
+      locator: Credited musician
+  release date:
+  - value:
+      date: '2015-12-19'
+    references:
+    - source: www.youtube.com-watch-v-w6dvrq5u4tm
+      quote: '2015-12-19'
+      accessed: '2026-11-21'
+      locator: Video publication date

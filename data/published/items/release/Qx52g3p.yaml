@@ -11,6 +11,12 @@ statements:
       accessed: 2026-11-21
       locator: Rite of Strings album sequence
   performer:
+  - value: Qtaawg8
+    references:
+    - source: riteofstrings.bandcamp.com-album-dust-and-the-moon
+      quote: Rite of Strings
+      accessed: 2026-11-21
+      locator: Release artist
   - value: Qwh5yn8
     references:
     - source: www.brightshiny.ninja-useless-information-dust-and-the-moon-revuelto-radio-jfdm3
@@ -24,3 +30,36 @@ statements:
       quote: Sorood-e Tanhaie (Arr. for Santoor, Violin, Bass, and Drums by Ehsan Matoori and Edward Perez)
       accessed: 2026-11-21
       locator: Rite of Strings album sequence
+  - value: https://riteofstrings.bandcamp.com/track/sorood-e-tanhaie-arr-for-santoor-violin-bass-and-drums-by-ehsan-matoori-and-edward-perez
+    references:
+    - source: riteofstrings.bandcamp.com-album-dust-and-the-moon
+      quote: Sorood-e Tanhaie (arr. for Santoor, Violin, Bass, and Drums by Ehsan Matoori and Edward Perez)
+      accessed: 2026-11-21
+      locator: Track 3
+  - value: https://music.apple.com/us/song/sorood-e-tanhaie-arr-for-santoor-violin-bass-and/6786852834
+    references:
+    - source: music.apple.com-us-album-dust-and-the-moon-6786852818
+      quote: Sorood-e Tanhaie (Arr. for Santoor, Violin, Bass, and Drums by Ehsan Matoori and Edward Perez)
+      accessed: 2026-11-21
+      locator: Track 3
+  - value: https://soundcloud.com/riteofstrings/sorood-e-tanhaie-arr-for
+    references:
+    - source: soundcloud.com-riteofstrings-sorood-e-tanhaie-arr-for
+      quote: https://soundcloud.com/riteofstrings/sorood-e-tanhaie-arr-for
+      accessed: 2026-11-21
+      locator: Album track permalink
+  release date:
+  - value:
+      date: '2026-08-28'
+    references:
+    - source: riteofstrings.bandcamp.com-album-dust-and-the-moon
+      quote: released August 28, 2026
+      accessed: 2026-11-21
+      locator: Bandcamp issue date
+  cover art:
+  - value: https://f4.bcbits.com/img/a0010157421_10.jpg
+    references:
+    - source: riteofstrings.bandcamp.com-album-dust-and-the-moon
+      quote: https://f4.bcbits.com/img/a0010157421_10.jpg
+      accessed: 2026-11-21
+      locator: Album cover on release page

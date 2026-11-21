@@ -11,6 +11,12 @@ statements:
       accessed: 2026-11-21
       locator: Rite of Strings album sequence
   performer:
+  - value: Qtaawg8
+    references:
+    - source: riteofstrings.bandcamp.com-album-dust-and-the-moon
+      quote: Rite of Strings
+      accessed: 2026-11-21
+      locator: Release artist
   - value: Qwh5yn8
     references:
     - source: www.brightshiny.ninja-useless-information-dust-and-the-moon-revuelto-radio-jfdm3
@@ -24,3 +30,42 @@ statements:
       quote: Qeshm (Arr. for Santoor, Violin, Bass, Drums, and Clarinet by Ehsan Matoori)
       accessed: 2026-11-21
       locator: Rite of Strings album sequence
+  - value: https://riteofstrings.bandcamp.com/track/qeshm-arr-for-santoor-violin-bass-drums-and-clarinet-by-ehsan-matoori
+    references:
+    - source: riteofstrings.bandcamp.com-album-dust-and-the-moon
+      quote: Qeshm (arr. for Santoor, Violin, Bass, Drums, and Clarinet by Ehsan Matoori)
+      accessed: 2026-11-21
+      locator: Track 4
+  - value: https://music.apple.com/us/song/qeshm-arr-for-santoor-violin-bass-drums-and-clarinet/6786853375
+    references:
+    - source: music.apple.com-us-album-dust-and-the-moon-6786852818
+      quote: Qeshm (Arr. for Santoor, Violin, Bass, Drums, and Clarinet by Ehsan Matoori) [feat. Ismail Lumanovski]
+      accessed: 2026-11-21
+      locator: Track 4
+  - value: https://soundcloud.com/riteofstrings/qeshm-arr-for-santoor-violin
+    references:
+    - source: soundcloud.com-riteofstrings-qeshm-arr-for-santoor-violin
+      quote: https://soundcloud.com/riteofstrings/qeshm-arr-for-santoor-violin
+      accessed: 2026-11-21
+      locator: Album track permalink
+  - value: https://www.youtube.com/watch?v=at1ynFy46H0
+    references:
+    - source: ehsanmatoori.com-projects-rite-of-strings
+      quote: QESHM by RITE OF STRINGS feat. Ismail Lumanovski | Official Music Video - Farhang Performances
+      accessed: 2026-11-21
+      locator: Official music film embedded on the ensemble page
+  release date:
+  - value:
+      date: '2026-08-28'
+    references:
+    - source: riteofstrings.bandcamp.com-album-dust-and-the-moon
+      quote: released August 28, 2026
+      accessed: 2026-11-21
+      locator: Bandcamp issue date
+  cover art:
+  - value: https://f4.bcbits.com/img/a0010157421_10.jpg
+    references:
+    - source: riteofstrings.bandcamp.com-album-dust-and-the-moon
+      quote: https://f4.bcbits.com/img/a0010157421_10.jpg
+      accessed: 2026-11-21
+      locator: Album cover on release page

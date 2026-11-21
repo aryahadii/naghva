@@ -13,7 +13,8 @@ statements:
   performer:
   - value: Qmgbz4h
     references:
-    - source: www.youtube.com-watch-v-fz1hhlbkx5y
+    - &id001
+      source: www.youtube.com-watch-v-fz1hhlbkx5y
       quote: Hamed Sadeghi
       accessed: '2026-11-21'
       locator: Publishing channel
@@ -21,6 +22,9 @@ statements:
       quote: Hamed Sadeghi, Maryam Rahmani, Hilary Kleinig, Dylan Paul
       accessed: '2026-11-21'
       locator: YouTube oEmbed title
+  - value: Qtwtxvd
+    references:
+    - *id001
   listen link:
   - value: https://www.youtube.com/watch?v=FZ1HhLbkX5Y
     references:

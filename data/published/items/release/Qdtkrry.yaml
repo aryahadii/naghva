@@ -1,0 +1,65 @@
+id: Qdtkrry
+type: release
+statements:
+  name:
+  - value:
+      text: Passaporte
+      language: en
+    references:
+    - source: hjirok.bandcamp.com-track-passaporte
+      quote: Passaporte
+      locator: Original single
+      accessed: '2026-11-21'
+  performer:
+  - value: Qjb6dqs
+    references:
+    - source: hjirok.bandcamp.com-track-passaporte
+      quote: Passaporte
+      locator: Original single
+      accessed: '2026-11-21'
+  - value: Qnrm3kw
+    references:
+    - source: hjirok.bandcamp.com-track-passaporte
+      quote: Vocals by Hani Mojtahedy.
+      locator: Single credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: vocals
+  release date:
+  - value:
+      date: '2025-01-09'
+    references:
+    - source: hjirok.bandcamp.com-track-passaporte
+      quote: released January 9, 2025
+      locator: Issue date
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://f4.bcbits.com/img/a0771006452_10.jpg
+    references:
+    - source: hjirok.bandcamp.com-track-passaporte
+      quote: https://f4.bcbits.com/img/a0771006452_10.jpg
+      locator: Original artist or recording image
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Janett Andrejewski · Passaporte
+        language: en
+  listen link:
+  - value: https://hjirok.bandcamp.com/track/passaporte
+    references:
+    - source: hjirok.bandcamp.com-track-passaporte
+      quote: Passaporte
+      locator: Original single
+      accessed: '2026-11-21'
+  - value: https://www.youtube.com/watch?v=9z444ONpS58
+    references:
+    - source: www.youtube.com-oembed-9z444onps58
+      quote: HJirok — Passaporte (Official Video)
+      locator: Issued music video or master
+      accessed: '2026-11-21'
+  - value: https://www.youtube.com/watch?v=hZCeapFyLbE
+    references:
+    - source: www.youtube.com-oembed-hzceapfylbe
+      quote: Passaporte
+      locator: Issued music video or master
+      accessed: '2026-11-21'

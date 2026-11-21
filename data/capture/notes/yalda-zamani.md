@@ -5,3 +5,5 @@ The artist’s two streaming profiles, her website’s five embedded SoundCloud 
 The portrait on her site is Neda Navaee’s studio photograph, selected after visual comparison with the other images. The first image on her home page is an overhead ensemble photograph. Music Biennale Zagreb records the conductor’s first encounter with Schubert’s Fifth, and the Paris Conservatoire confirms upbringing, origin and the Paris ensemble work.
 
 Review added HRT’s 29 May 2021 Zagreb performances of Cendo, Majurec and Magalhães, Kosecka’s Saqar filmed in Zurich, and Philharmonie de Paris’s separately chaptered Hensel rehearsal and concert excerpt. ORF already called Zamani Elbe’s founder in 2022. Elbe itself dates its Elbphilharmonie concert debut to 12 December 2023. The article uses the verifiable concert date and leaves the formal foundation date open.
+
+The Zagreb broadcast of Matko Brekalo’s Gaul was identified separately from the other works in the concert and has a dedicated recording panel.

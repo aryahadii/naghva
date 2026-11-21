@@ -1,0 +1,114 @@
+id: Qxaznrh
+type: release
+statements:
+  name:
+  - value:
+      text: Āshenā
+      language: en
+    references:
+    - source: arazsalek.bandcamp.com-track-shen
+      quote: Āshenā | Araz Salek
+      accessed: '2026-11-21'
+      locator: Publisher page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a0188332014_10.jpg
+    qualifiers:
+      credit:
+        text: Bandcamp edition artwork
+        language: en
+    references:
+    - source: arazsalek.bandcamp.com-album-peripheries-of-nahavand
+      quote: https://f4.bcbits.com/img/a0188332014_10.jpg
+      accessed: '2026-11-21'
+      locator: Edition artwork, full-size Bandcamp original
+  release date:
+  - value:
+      date: '2025-04-11'
+    references:
+    - source: music.apple.com-us-album-peripheries-of-nahavand-feat-efr-c3-a9n-l-c3-b3pez-1793087383
+      quote: '2025-04-11'
+      accessed: '2026-11-21'
+      locator: Edition release date
+  listen link:
+  - value: https://arazsalek.bandcamp.com/track/shen
+    references:
+    - source: arazsalek.bandcamp.com-track-shen
+      quote: Āshenā | Araz Salek
+      accessed: '2026-11-21'
+      locator: Publisher page title
+  - value: https://efrenlopez.bandcamp.com/track/shen
+    references:
+    - source: efrenlopez.bandcamp.com-track-shen
+      quote: Âshenâ | Araz Salek | Efrén López
+      accessed: '2026-11-21'
+      locator: Publisher page title
+  - value: https://music.apple.com/us/song/%C3%A2shen%C3%A2-feat-asare-shekarchi-efr%C3%A9n-l%C3%B3pez-pedram-khavarzamini/1793087635
+    references:
+    - source: music.apple.com-us-album-peripheries-of-nahavand-feat-efr-c3-a9n-l-c3-b3pez-1793087383
+      quote: Âshenâ (feat. Asare Shekarchi, Efrén López & Pedram Khavarzamini)
+      accessed: '2026-11-21'
+      locator: Apple Music track list
+  - value: https://open.spotify.com/track/12mPVJQB68OTubeKXxKki5
+    references:
+    - source: open.spotify.com-album-4vaulyogo9wa2p0hzotysc
+      quote: Âshenâ
+      accessed: '2026-11-21'
+      locator: Spotify track list
+  performer:
+  - value: Qzqvz5q
+    qualifiers:
+      role: tar
+    references:
+    - source: efrenlopez.bandcamp.com-track-shen
+      quote: 'ARAZ SALEK:'
+      accessed: '2026-11-21'
+      locator: Track-specific musician and instrument
+  - value: Qtqwf7n
+    qualifiers:
+      role: fretless guitar
+    references:
+    - source: efrenlopez.bandcamp.com-track-shen
+      quote: 'EFRÉN LÓPEZ:'
+      accessed: '2026-11-21'
+      locator: Track-specific musician and instrument
+  - value: Q79rhd9
+    qualifiers:
+      role: vocals
+    references:
+    - source: efrenlopez.bandcamp.com-track-shen
+      quote: 'ASARE SHEKARCHI:'
+      accessed: '2026-11-21'
+      locator: Track-specific musician and instrument
+  - value: Qwz6x8y
+    qualifiers:
+      role: strings
+    references:
+    - source: efrenlopez.bandcamp.com-track-shen
+      quote: 'DERYA TÜRKAN:'
+      accessed: '2026-11-21'
+      locator: Track-specific musician and instrument
+  - value: Q5rnjaz
+    qualifiers:
+      role: tombak
+    references:
+    - source: efrenlopez.bandcamp.com-track-shen
+      quote: 'PEDRAM KHAVARZAMINI:'
+      accessed: '2026-11-21'
+      locator: Track-specific musician and instrument
+  contributor:
+  - value: Qw9ze3k
+    qualifiers:
+      role: composer
+    references:
+    - source: efrenlopez.bandcamp.com-track-shen
+      quote: 'Composition: Vecdi Seyhun'
+      accessed: '2026-11-21'
+      locator: Composition credit
+  - value: Qzqvz5q
+    qualifiers:
+      role: lyricist
+    references:
+    - source: efrenlopez.bandcamp.com-track-shen
+      quote: 'ARAZ SALEK: TAR, FARSI LYRICS'
+      accessed: '2026-11-21'
+      locator: Persian lyrics
