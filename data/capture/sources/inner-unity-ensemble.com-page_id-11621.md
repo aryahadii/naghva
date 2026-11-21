@@ -35,3 +35,15 @@ Ensemble, venue, recording or project credits, read 2026-11-21.
 Ensemble, venue, recording or project credits, read 2026-11-21.
 
 > Koray B. Sari
+
+Ensemble history, festival programme or institutional recording, read 2026-11-21.
+
+> modal and microtonal concepts from Iranian Radif and Arabic and Turkish Maqam traditions with harmonic approaches drawn from European classical music and jazz
+
+Ensemble history, festival programme or institutional recording, read 2026-11-21.
+
+> The ensemble presented its first performance at the Duisburg Philharmonie in February 2023, together with the Iranian-Azerbaijani singer Samin Ghorbani.
+
+Ensemble history, festival programme or institutional recording, read 2026-11-21.
+
+> In March 2025, the ensemble presented Female Voices United at Duisburg Philharmonie

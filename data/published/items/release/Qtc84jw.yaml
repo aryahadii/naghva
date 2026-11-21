@@ -1,0 +1,59 @@
+id: Qtc84jw
+type: release
+statements:
+  name:
+  - value:
+      text: another_stand
+      language: en
+    references:
+    - source: music.apple.com-us-album-re-droid-ep-1780883829
+      quote: another_stand (feat. Bahar Atish)
+      accessed: 2026-11-21
+      locator: Edition or recording title
+  performer:
+  - value: Q5bwf2e
+    references:
+    - source: music.apple.com-us-album-re-droid-ep-1780883829
+      quote: Sam Solino
+      accessed: 2026-11-21
+      locator: Digital credits
+  - value: Qr4berk
+    references:
+    - source: music.apple.com-us-album-re-droid-ep-1780883829
+      quote: Bahar Atish
+      accessed: 2026-11-21
+      locator: Digital credits
+  - value: Qevmv7f
+    references:
+    - source: open.spotify.com-album-2eous4s4e6qbbhu4703fgh
+      quote: Sam Solino, Jamin, Bahar Atish
+      accessed: 2026-11-21
+      locator: Native Spotify track billing
+  listen link:
+  - value: https://music.apple.com/us/song/another-stand-feat-bahar-atish/1780884173
+    references:
+    - source: music.apple.com-us-album-re-droid-ep-1780883829
+      quote: another_stand (feat. Bahar Atish)
+      accessed: 2026-11-21
+      locator: Edition or recording title
+  - value: https://open.spotify.com/track/5lL2uUqGhlVwVMBOBMJNnl
+    references:
+    - source: open.spotify.com-album-2eous4s4e6qbbhu4703fgh
+      quote: another_stand
+      accessed: 2026-11-21
+      locator: Published recording
+  release date:
+  - value:
+      date: '2023-12-12'
+    references:
+    - source: music.apple.com-us-album-re-droid-ep-1780883829
+      quote: '2023-12-12'
+      accessed: 2026-11-21
+      locator: Digital edition date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/45/0d/ff/450dff3c-7b6d-bb84-9249-98c475cd54b9/15715.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-re-droid-ep-1780883829
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/45/0d/ff/450dff3c-7b6d-bb84-9249-98c475cd54b9/15715.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Digital edition artwork

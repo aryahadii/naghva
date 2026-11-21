@@ -11,3 +11,7 @@ about:
 Ensemble, venue, recording or project credits, read 2026-11-21.
 
 > Duisburger Philharmoniker präsentieren Inner Unity Ensemble "Qara Qile"
+
+Ensemble history, festival programme or institutional recording, read 2026-11-21.
+
+> Qara Qile

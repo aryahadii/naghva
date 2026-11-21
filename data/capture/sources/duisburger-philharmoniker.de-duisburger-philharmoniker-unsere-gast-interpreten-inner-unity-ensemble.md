@@ -11,3 +11,11 @@ about:
 Ensemble, venue, recording or project credits, read 2026-11-21.
 
 > Inner Unity Ensemble
+
+Ensemble history, festival programme or institutional recording, read 2026-11-21.
+
+> founded and curated by Ethnomusicologist, Yalda Yazdani and Mahan Mirarab, Musical director and Guitar player
+
+Ensemble history, festival programme or institutional recording, read 2026-11-21.
+
+> His great sense of rhythm allows him to alternate roles as a cellist or bassist within the ensemble.

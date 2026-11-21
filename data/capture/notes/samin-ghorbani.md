@@ -8,6 +8,8 @@ Her original YouTube channel returned eleven uploads. Ten can be attributed to h
 - ALL AT THE SAME TIME ALL · Qz69deh
 - ASEMAN-OLD SONG (feat. SAMIN GHORBANI) · Qtd294g · https://music.apple.com/us/song/aseman-old-song-feat-samin-ghorbani/1715579477 · https://open.spotify.com/track/2NrTmPOKkG0yN4Y89799TO
 - AVAZ MOKHALEF (feat. SAMIN GHORBANI) · Qh3gkb4 · https://music.apple.com/us/song/avaz-mokhalef-feat-samin-ghorbani/1715579481 · https://open.spotify.com/track/1cht2HiEB65bie7ZvgYt8b
+- Aksam Mahnisi · Duisburg · Q5zazs8 · https://www.youtube.com/watch?v=_RuUi_4rT6I
+- Az Khun Javanan Vatan · Duisburg · Q6r3ea6 · https://www.youtube.com/watch?v=914y_OYsbHM
 - Azadi cafe · Qt5mvb4 · https://asgeirasgeirsson.bandcamp.com/track/azadi-cafe · https://music.apple.com/us/song/azadi-cafe/1536935210 · https://open.spotify.com/track/1CFZUrEcHn1GepyHAspXwq
 - Azerbaycan maralı · Villa Elisabeth · Qez4nwh · https://www.youtube.com/watch?v=VqyuXPA-Upw&t=665s
 - BE YEK NEGAH (feat. SAMIN GHORBANI) · Q22qsec · https://music.apple.com/us/song/be-yek-negah-feat-samin-ghorbani/1715579484 · https://open.spotify.com/track/2uGi2xDbdI7RkfHxX2XnIW
@@ -31,6 +33,8 @@ Her original YouTube channel returned eleven uploads. Ten can be attributed to h
 - IF THERE IS GOD NO ONE WILL BE DAMNED / A HOLLOW SONG SUSPENDED · Q2qgzcs
 - Ilkbahar · Qer2mhc · https://www.youtube.com/watch?v=oXzvANXEpR4
 - Improvisation · Samin Ghorbani & Kavosh Sohrabian · Villa Elisabeth · Qja9j54 · https://www.youtube.com/watch?v=VqyuXPA-Upw&t=1642s
+- Inner Unity Ensemble & Sakina Teyna · Nowruz Festival · Qahj9n7
+- Inner Unity Ensemble & Samin Ghorbani · Duisburg · Qw8rf35 · https://www.youtube.com/watch?v=N1ybLVFl4D4
 - Khojasteh (feat. Samin Ghorbani & Parisa Pouladian) [Female] · Qhwfyhy · https://music.apple.com/us/song/khojasteh-feat-samin-ghorbani-parisa-pouladian-female/1868166025 · https://open.spotify.com/track/6Fo38DzYFS8KSh9AR25kRP
 - Kor Arab Mahinisi · Qbq7bng · https://music.apple.com/us/song/kor-arab-mahinisi/1624421541 · https://open.spotify.com/track/4QqnCU6jhSpUfbA1jBNUnA · https://www.youtube.com/watch?v=9K4Xc4bzNdY
 - Kör Arab Mahinisi · Duisburg · Qyq7svt · https://www.youtube.com/watch?v=3obqXJlTuw4
@@ -51,6 +55,7 @@ Her original YouTube channel returned eleven uploads. Ten can be attributed to h
 - Persian path · Qw2s6sy · https://asgeirasgeirsson.bandcamp.com/album/persian-path · https://music.apple.com/us/album/persian-path-icelandic-folksongs-vol-3/1536934738 · https://open.spotify.com/album/6yeREedrDtUmdW0iD975gy
 - Pıçıldaşın Ləpələr · Qna4dj3 · https://music.apple.com/us/album/p%C4%B1%C3%A7%C4%B1lda%C5%9F%C4%B1n-l%C9%99p%C9%99l%C9%99r-single/1780787998 · https://open.spotify.com/album/4Tg18Gg0WznGbk7SpL2Le1 · https://music.apple.com/us/song/p%C4%B1%C3%A7%C4%B1lda%C5%9F%C4%B1n-l%C9%99p%C9%99l%C9%99r/1780788001 · https://open.spotify.com/track/12cG57K2ofmMz9TPYNm6Lk
 - Qal Sana Qurban · Qt33c2y · https://music.apple.com/us/song/qal-sana-qurban/1624421536 · https://open.spotify.com/track/29crSbgymXPwS0LkDiXyfD
+- Qara Gile · Duisburg · Qg9pdy3 · https://www.youtube.com/watch?v=Xcgu_ikVJfc · https://www.youtube.com/watch?v=QFyiDgolHK8
 - Qaraciyər · Qkqeppm · https://music.apple.com/us/album/qaraciy%C9%99r-single/1780577490 · https://open.spotify.com/album/5OU50diNojwnrKr81jV9rk · https://music.apple.com/us/song/qaraciy%C9%99r/1780577493 · https://open.spotify.com/track/5VFb2e2MlHWaMdJXeh6p4N
 - Rohab (feat. Samin Ghorbani & Ramtin Nazarijou) [Female] · Qr2a5rs · https://music.apple.com/us/song/rohab-feat-samin-ghorbani-ramtin-nazarijou-female/1868166032 · https://open.spotify.com/track/59SepiRVH7fP83OQ3qVTcH
 - SORATGAR (OLD SONG) (feat. SAMIN GHORBANI) · Q9mw3d5 · https://music.apple.com/us/song/soratgar-old-song-feat-samin-ghorbani/1715579486 · https://open.spotify.com/track/1vHXribtrKs1KyvsXLFpmy
@@ -58,6 +63,7 @@ Her original YouTube channel returned eleven uploads. Ten can be attributed to h
 - Samin Ghorbani · Konsert · Qnm7zxr · https://www.youtube.com/watch?v=JdzzMZc7ojE
 - San manim yarımsan · Villa Elisabeth · Qgf5v3r · https://www.youtube.com/watch?v=VqyuXPA-Upw&t=1466s
 - Saz va Avaz . Samin ghorbani · Q33dy3e · https://www.youtube.com/watch?v=dobe3TxT46E
+- Shahrashoob · Duisburg · Qnwhfqa · https://www.youtube.com/watch?v=vZl4nONPe0I · https://www.youtube.com/watch?v=nlxc6FTTypc
 - Shirin · The Female Voice of Iran · Q2hmydk · https://www.youtube.com/watch?v=sQD3Mav3vas
 - Takht-e Taghdis (feat. Samin Ghorbani & Saba Alizadeh) [Female] · Qk946ap · https://music.apple.com/us/song/takht-e-taghdis-feat-samin-ghorbani-saba-alizadeh-female/1868166034 · https://open.spotify.com/track/63ocBFCFBPAdnwgC09vzPf
 - The Dastgahs of Persian Music: Dastgah-e Nava (Female) · Q25s6ha · https://music.apple.com/us/album/the-dastgahs-of-persian-music-dastgah-e-nava-female/1868165829 · https://open.spotify.com/album/5lmtIwON77isZZkuO0Uzcp
@@ -77,7 +83,7 @@ Her original YouTube channel returned eleven uploads. Ten can be attributed to h
 - دیلبر · Qbbyebe · https://music.apple.com/us/album/%D8%AF%DB%8C%D9%84%D8%A8%D8%B1-single/1780790727 · https://open.spotify.com/album/3Arw8GBwmr121gOMSee62E · https://music.apple.com/us/song/%D8%AF%DB%8C%D9%84%D8%A8%D8%B1/1780790732 · https://open.spotify.com/track/5VuMcxtnf53JZ7qX2ba3cD
 - دیوانه · اجرای زنده · Qgacjg2 · https://t.me/Motrebedel/35
 - روزهای خوب · Qtr97rh
-- صورتگر · Qymgq8c
+- صورتگر · Qymgq8c · https://music.apple.com/us/album/souratgar/1482848323
 - عاشق شیدا · Qwmb5xk · https://music.apple.com/us/album/%D8%B9%D8%A7%D8%B4%D9%82-%D8%B4%DB%8C%D8%AF%D8%A7-single/1780789327 · https://open.spotify.com/album/77sZyF5uxpHZVhHQiwLKvT · https://music.apple.com/us/song/%D8%B9%D8%A7%D8%B4%D9%82-%D8%B4%DB%8C%D8%AF%D8%A7/1780789573 · https://open.spotify.com/track/4QUnS3P5Qk0lGAHFIPY3Y7
 - عید است و پیش  از صبحدم مژده به خمار آمده  بر چرخ دوش از جام جم یک نیمه دیدار آمده   #ثمین_قربانی · Q2wmcy4 · https://www.youtube.com/watch?v=6aviB3Qu7Zc
 - مثنوی افشاری · Qc65tjt · https://music.apple.com/us/album/%D9%85%D8%AB%D9%86%D9%88%DB%8C-%D8%A7%D9%81%D8%B4%D8%A7%D8%B1%DB%8C-single/1780787821 · https://open.spotify.com/album/4xqt8BASwvFiopbZBGwfCb · https://music.apple.com/us/song/%D9%85%D8%AB%D9%86%D9%88%DB%8C-%D8%A7%D9%81%D8%B4%D8%A7%D8%B1%DB%8C/1780787830 · https://open.spotify.com/track/1LlSzCnspYQ15JQY3RLWsP

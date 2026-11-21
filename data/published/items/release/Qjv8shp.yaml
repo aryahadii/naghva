@@ -1,0 +1,53 @@
+id: Qjv8shp
+type: release
+statements:
+  name:
+  - value:
+      text: Blue Venus
+      language: en
+    references:
+    - source: music.apple.com-us-album-blue-venus-single-1756443111
+      quote: Blue Venus
+      accessed: 2026-11-21
+      locator: Edition or recording title
+  performer:
+  - value: Qr4berk
+    references:
+    - source: music.apple.com-us-album-blue-venus-single-1756443111
+      quote: Bahar Atish
+      accessed: 2026-11-21
+      locator: Digital credits
+  listen link:
+  - value: https://music.apple.com/us/song/blue-venus/1756443112
+    references:
+    - source: music.apple.com-us-album-blue-venus-single-1756443111
+      quote: Blue Venus
+      accessed: 2026-11-21
+      locator: Edition or recording title
+  - value: https://open.spotify.com/track/33eOMy0yXMr1M6PgDCuAe3
+    references:
+    - source: open.spotify.com-album-3gblwnv4y3af2oi1cppy8u
+      quote: Blue Venus
+      accessed: 2026-11-21
+      locator: Published recording
+  - value: https://youtu.be/XobFdhSLqOY
+    references:
+    - source: youtu.be-xobfdhslqoy
+      quote: Baharatish  | Blue Venus OFFICIAL TRACK | ونوس آبی
+      accessed: 2026-11-21
+      locator: Title and bill on artist’s channel
+  release date:
+  - value:
+      date: '2024-07-08'
+    references:
+    - source: music.apple.com-us-album-blue-venus-single-1756443111
+      quote: '2024-07-08'
+      accessed: 2026-11-21
+      locator: Digital edition date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c3/4a/22/c34a22f6-39d8-c039-0240-b8f845957f81/artwork.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-blue-venus-single-1756443111
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c3/4a/22/c34a22f6-39d8-c039-0240-b8f845957f81/artwork.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Digital edition artwork

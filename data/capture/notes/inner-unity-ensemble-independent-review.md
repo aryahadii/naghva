@@ -1,0 +1,3 @@
+# Inner Unity Ensemble independent review
+
+**9.2/10, catalogue and article ready.** Evidence 1.9, article 1.8, catalogue 2.7, imagery 0.9, reading 1.9. Duisburg’s programme verifies both founders and Ghorbani’s billing, and the Zurich presenter documents the distinct full concert. The ensemble’s fourteen uploads encompass individual songs, a promo and the three Vienna documents. The Gürzenich programme confirms the September concert in Cologne. Krems festival materials document a concert without a confirmed recording. Both localized pages render 15 recording panels and 35 decoded images. The page fits desktop English and 390-pixel Persian, and all local fragment links resolve. Render fingerprints 5bebc749b25b / 08dc79c0819f.

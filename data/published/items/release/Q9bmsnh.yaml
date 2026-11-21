@@ -1,0 +1,64 @@
+id: Q9bmsnh
+type: release
+statements:
+  name:
+  - value:
+      text: Aşk ile
+      language: en
+    references:
+    - source: music.apple.com-us-album-a-c5-9fk-ile-feat-pavle-zvekic-ep-1807688730
+      quote: Aşk ile (feat. Pavle Zvekic) - EP
+      locator: Artist, publisher and recording credits
+      accessed: '2026-11-21'
+  performer:
+  - value: Q3k94ek
+    references:
+    - source: music.apple.com-us-album-a-c5-9fk-ile-feat-pavle-zvekic-ep-1807688730
+      quote: Bariş Kadem
+      locator: Artist, publisher and recording credits
+      accessed: '2026-11-21'
+  - value: Q3ytwxm
+    references:
+    - source: open.spotify.com-embed-album-6tph99nn62ivabqg9e22vc
+      quote: Mahya Hamedi
+      locator: Artist, publisher and recording credits
+      accessed: '2026-11-21'
+  release type:
+  - value: ep
+    references:
+    - source: music.apple.com-us-album-a-c5-9fk-ile-feat-pavle-zvekic-ep-1807688730
+      quote: Aşk ile (feat. Pavle Zvekic) - EP
+      locator: Artist, publisher and recording credits
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/53/42/41534292-1a33-7beb-c203-c82a78ae3da9/artwork.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-a-c5-9fk-ile-feat-pavle-zvekic-ep-1807688730
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/53/42/41534292-1a33-7beb-c203-c82a78ae3da9/artwork.jpg/1200x630bb.jpg
+      locator: Artist, publisher and recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Aşk ile · Apple Music
+        language: en
+  release date:
+  - value:
+      date: '2025-04-11'
+    references:
+    - source: music.apple.com-us-album-a-c5-9fk-ile-feat-pavle-zvekic-ep-1807688730
+      quote: '2025-04-11'
+      locator: Artist, publisher and recording credits
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://music.apple.com/us/album/a%C5%9Fk-ile-feat-pavle-zvekic-ep/1807688730
+    references:
+    - source: music.apple.com-us-album-a-c5-9fk-ile-feat-pavle-zvekic-ep-1807688730
+      quote: Aşk ile (feat. Pavle Zvekic) - EP
+      locator: Artist, publisher and recording credits
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/album/6TpH99NN62IvAbqG9E22Vc
+    references:
+    - source: open.spotify.com-embed-album-6tph99nn62ivabqg9e22vc
+      quote: Aşk ile
+      locator: Artist, publisher and recording credits
+      accessed: '2026-11-21'

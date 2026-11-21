@@ -39,3 +39,11 @@ Ensemble, venue, recording or project credits, read 2026-11-21.
 Ensemble, venue, recording or project credits, read 2026-11-21.
 
 > Inner Unity Ensemble & Sakina Teyna
+
+Ensemble history, festival programme or institutional recording, read 2026-11-21.
+
+> Sakina Teyna, a Kurdish-Alevi singer from Varto in Turkey
+
+Ensemble history, festival programme or institutional recording, read 2026-11-21.
+
+> Samin Ghorbani Vocals Sakina Teyna Vocals

@@ -1,0 +1,9 @@
+# Bahar Atish
+
+Bahar Dehkordi’s account in Persian documents her teenage entry into Tehran’s underground hip-hop scene, the move to theatre, and the role of her father in her return to writing music. The Norwegian concert coverage and Radio Zamaneh’s review of *Shekaf* provide independent testimony about her performances and the sound of her recordings. Several native digital editions carry Bahar Atish’s own phonogram credit, including *Fargasht*. The earlier original year and the rights year printed on reissues are distinguished in the edition sources. The Spotify portrait belongs to the same artist profile as the Persian releases.
+
+The catalogue includes both four-track parts of *Zahre Aghrab*, the studio and two live versions of *Ma Vaystadim*, and collaborations issued under the names of other musicians. Two different rappers use the name Bahar on German and Iranian issues. Only the verified Iranian performer’s works are included. The claim that *Az Jense Paeiz* was made before the 2022 protests comes from her own account.
+
+[First-person account](https://www.radiozamaneh.com/806162/) · [Review of Shekaf](https://www.radiozamaneh.com/806519/) · [Norwegian performance](https://www.utrop.no/nyheter/386457/) · [Apple Music](https://music.apple.com/us/artist/bahar-atish/1524726037) · [Spotify](https://open.spotify.com/artist/4lwhBgoy6wDm285dzskqkl)
+
+The original YouTube channel offered 82 public videos at capture. Alongside the music programmes were interviews, podcasts, trailers and a series introducing other women rappers. The catalogue includes the separately billed acoustic, piano, freestyle and concert versions, early collaborations, *Moarefi*, *Be Farda* and the public performance of *Alone Whale*. [Artist’s video archive](https://www.youtube.com/@baharatish/videos)

@@ -20,13 +20,15 @@ The 2011 Tehran group and later New York lineup share the guitarist billed in 20
 - So Far Away (GUM & Ginoli Remix) · https://music.apple.com/us/album/so-far-away-gum-ginoli-remix-single/1550696465 · https://music.apple.com/us/song/so-far-away-gum-ginoli-remix/1550696740 · https://soundcloud.com/themuckers/so-far-away-gum-ginoli-remix
 - Suffocation · https://music.apple.com/us/album/suffocation-single/1696979871 · https://music.apple.com/us/song/suffocation/1696979929 · https://soundcloud.com/themuckers/suffocation
 - Trouble Every Day · https://themuckersband.bandcamp.com/track/trouble-every-day
-- Attitude · 
-- Shoot Me Again · 
-- Tush (ZZ Top Cover) · 
+- Attitude
+- Shoot Me Again
+- Tush (ZZ Top Cover)
 - Suspended (Live in Brooklyn) · https://www.youtube.com/watch?v=DJEtp6d7zfw
 - Live at Paste Studio NYC · https://www.youtube.com/watch?v=osd8yPN2Ufc
 - Suspended for a Long Time (Live at Paste Studio) · https://www.youtube.com/watch?v=osd8yPN2Ufc&t=71s
 - Memories (Live at Paste Studio) · https://www.youtube.com/watch?v=osd8yPN2Ufc&t=473s
 - This Town Will Drag Us Down (Live at Paste Studio) · https://www.youtube.com/watch?v=osd8yPN2Ufc&t=978s
 - It's Better Without You (Live at Paste Studio) · https://www.youtube.com/watch?v=osd8yPN2Ufc&t=1391s
-- World Cafe Session · 
+- World Cafe Session
+
+Radio Wave interviewed the guitarist in 2012 about singing in English and reaching listeners through iTunes. The XPN playlist and presenter separately identify two performed World Cafe songs, which now have their own credits, and the September 2022 Rockefeller Plaza performance is attested by audience footage. Its fan-uploaded still and player do not qualify for publication. The band’s original Zappa cover includes their NAACP Legal Defense Fund pledge.

@@ -17,3 +17,11 @@ Digital edition release date, read 2026-11-21.
 > https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0a/ad/83/0aad83bb-dedf-9300-02a4-c8446f8e8aab/cover.jpg/1200x630bb.jpg
 
 Apple edition artwork, read 2026-11-21.
+
+> Justina
+
+Digital credits, read 2026-11-21.
+
+> Bahar Atish
+
+Digital credits, read 2026-11-21.

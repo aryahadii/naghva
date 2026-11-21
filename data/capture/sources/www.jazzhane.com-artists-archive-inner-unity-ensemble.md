@@ -11,3 +11,7 @@ about:
 Ensemble, venue, recording or project credits, read 2026-11-21.
 
 > 17.03.2024
+
+Ensemble history, festival programme or institutional recording, read 2026-11-21.
+
+> At Nowruz 2024 they played with Sakina Teyna.

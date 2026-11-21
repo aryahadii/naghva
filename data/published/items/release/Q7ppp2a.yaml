@@ -44,6 +44,18 @@ statements:
       quote: Radical
       accessed: 2026-11-21
       locator: Apple recording name and billing
+  - value: https://open.spotify.com/track/2vsTBkgfYCy5lGJ186QhqD
+    references:
+    - source: open.spotify.com-album-4hqibvdlrspiacvmsxsubu
+      quote: Radical
+      accessed: 2026-11-21
+      locator: Published recording
+  - value: https://youtu.be/ZQ6wS1JBzww
+    references:
+    - source: youtu.be-zq6ws1jbzww
+      quote: Justina feat Bahar Atish Radical  | OFFICIAL TRACK | جاستینا و بهار آتیش | رادیکال
+      accessed: 2026-11-21
+      locator: Title and bill on artist’s channel
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0a/ad/83/0aad83bb-dedf-9300-02a4-c8446f8e8aab/cover.jpg/1200x630bb.jpg
     references:

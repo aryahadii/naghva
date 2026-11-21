@@ -66,12 +66,14 @@ The expansion started at revision fa6c29ca with 124 bilingual artist pages. The 
 | Cinna Peyghamy | Q4q92dh | 9.2/10 | [Cinna Peyghamy](cinna-peyghamy-review.md) |
 | Natch Nadjafi | Qxxp9ab | 9.2/10 | [Natch Nadjafi](natch-nadjafi-independent-review.md) |
 | Justina | Q2fdqjp | 9.2/10 | [Justina](justina-independent-review.md) |
-| Hana Sabri | Q2ehc6a | Pending | [Catalogue](hana-sabri.md) |
+| Hana Sabri | Q2ehc6a | 9.2/10 | [Hana Sabri](artist-page-scores.md) |
 | Jamin | Qevmv7f | 9.2/10 | [Jamin](jamin-review.md) |
-| Samin Ghorbani | Qncx8nb | 8.5/10 | [Samin Ghorbani](samin-ghorbani-independent-review.md) |
+| Samin Ghorbani | Qncx8nb | 9.2/10 | [Samin Ghorbani](samin-ghorbani-review.md) |
 | Dastgâmachine | Q5b7pz5 | 9.2/10 | [Dastgâmachine](dastgamachine-review.md) |
-| Faravaz | Qgxh3d9 | Pending | [Catalogue](faravaz.md) |
-| The Muckers | Qvfz6ey | Pending | [Catalogue](the-muckers.md) |
-| Neda Mohamadpour | Qbb46yz | Pending | [Catalogue](neda-mohamadpour.md) |
+| Faravaz | Qgxh3d9 | 9.2/10 | [Faravaz](faravaz-review.md) |
+| The Muckers | Qvfz6ey | 9.2/10 | [The Muckers](the-muckers-independent-review.md) |
+| Neda Mohamadpour | Qbb46yz | 9.2/10 | [Neda Mohamadpour](artist-page-scores.md) |
+| Inner Unity Ensemble | Qnhpew3 | 9.2/10 | [Inner Unity Ensemble](inner-unity-ensemble-review.md) |
+| Bahar Atish | Qr4berk | Pending | [Catalogue](bahar-atish.md) |
 
 The [discovery list](independent-artist-discovery.md) contains candidates with release leads. Some will prove ineligible or match an existing artist by another spelling. Only new artist pages count toward the target.

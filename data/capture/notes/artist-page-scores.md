@@ -192,3 +192,11 @@ Independent review on 2026-11-21. **9.2/10** · Sources 1.9, prose 1.9, recordin
 ### Dastgâmachine
 
 Independent review on 2026-11-21. **9.2/10** · Sources 1.9, prose 1.9, recordings 2.6, images 1.0, gaps and reader experience 1.8. The 13-panel English and Persian pages (447e0fb3c779 and bd28f1f8f481) each decoded 27 main-content images with intact fragments. The first label EP specifies its editing and mastering history, and its native release date resolves the month disagreement with the presenter. The label and Wavelength separately establish the festival single and the musician who delivered the vocal sample. The two concert films identify the ensemble; other dates on the turntablist's concert listing do not establish additional issued recordings. Article and catalogue ready.
+
+### Hana Sabri
+
+Independent review on 2026-11-21. **9.2/10** · Sources 1.9, prose 1.9, recordings 2.6, images 1.0, gaps and reader experience 1.8. The 20-panel pages (English 5818c47d33d2 and Persian c0a76a7feec6) decoded 39 images each and all local fragments resolved. The four personal SoundCloud mixes and sixteen publisher recordings span solo and collaborative sets. Blue Lapis Light’s December 2024 programme credits her choreography on pages 17 and 19 and establishes continued aerial work alongside DJing. The early Exhale concert billing supports the Kitchen Techno timeline. Catalogue and article ready.
+
+### Neda Mohamadpour
+
+Independent review on 2026-11-21. **9.2/10** · Sources 1.9, prose 1.9, recordings 2.6, images 1.0, gaps and reader experience 1.8. Both 27-panel pages (English 135adfe7c5ab and Persian fc48cf663cf3) contain the Tranzac session with Caju Collective and distinguish its advertised vinyl edition from a confirmed release. The artist’s native upload of “Bahare Delneshin” is catalogued, and the Local Dish seven-inch with Cheshmak has two separately identified sides. The credited album, personal archives, collaborator’s singles and broadcaster’s hour were checked. All 53 main-content images decoded per locale and local fragments resolved. Article and catalogue ready.

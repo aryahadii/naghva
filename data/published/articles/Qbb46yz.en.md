@@ -115,6 +115,16 @@ references:
     quote: supports emerging and newcomer musicians
     accessed: '2026-11-21'
     locator: Artist interview, biography or performance credits
+  caju:
+    source: tranzac.org-events-caju-collective-2026-06-13
+    quote: Neda will be joined by Caju Collective’s house band in a live set recorded and cut to limited 7" vinyl.
+    accessed: '2026-11-21'
+    locator: Artist interview, biography or performance credits
+  jun:
+    source: tranzac.org-events-caju-collective-2026-06-13
+    quote: June 13, 2026
+    accessed: '2026-11-21'
+    locator: Artist interview, biography or performance credits
 ---
 
 Neda Mohamadpour is a singer from Tehran who performs Persian folk music in Toronto. She studied singing with Simin Ghanem and Malihe Moradi. In Iran she worked with independent musicians, though she did not have the opportunity to sing onstage. In January 2022 she moved to Toronto, where she began learning setar.[^birth][^study][^moradi][^early][^move]
@@ -127,4 +137,4 @@ For [*Where the Rain Is Stored*](#where-the-rain-is-stored-8jq), Mohamadpour san
 
 ## Radio and live electronics
 
-In January 2026 Mohamadpour presented an hour of Iranian protest songs for Worldwide FM. At the Small World Centre she also sang with electronic percussionist Cinna Peyghamy and electric-setar player Mahmood Schricker. Their October 2026 EP includes the live “Dorna,” on which Peyghamy processed her voice and Schricker’s playing. In Toronto she also co-leads Small World Music’s programme for emerging and newcomer musicians.[^radio][^radiodate][^dorna][^live][^released][^incubate][^new]
+In January 2026 Mohamadpour presented an hour of Iranian protest songs for Worldwide FM. In June, Tranzac announced a Toronto session with Caju Collective’s house band for a limited seven-inch record.[^caju][^jun] At the Small World Centre she also sang with electronic percussionist Cinna Peyghamy and electric-setar player Mahmood Schricker. Their October 2026 EP includes the live “Dorna,” on which Peyghamy processed her voice and Schricker’s playing. In Toronto she also co-leads Small World Music’s programme for emerging and newcomer musicians.[^radio][^radiodate][^dorna][^live][^released][^incubate][^new]
