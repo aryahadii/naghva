@@ -1,0 +1,37 @@
+id: Qttqjbb
+type: release
+statements:
+  name:
+  - value:
+      text: All Is Calm (Asoudeh)
+      language: en
+    references:
+    - &id001
+      source: music.apple.com-us-album-300309670
+      quote: Listen to All Is Calm (Asoudeh) by Hamed Nikpay
+      accessed: '2026-11-21'
+  performer:
+  - value: Q58fwhs
+    references:
+    - *id001
+  release date:
+  - value:
+      date: '2008-11-06'
+    references:
+    - source: music.apple.com-us-album-300309670
+      quote: '"datePublished":"2008-11-06"'
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://music.apple.com/us/album/all-is-calm-asoudeh/300309670
+    references:
+    - *id001
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music/da/0c/1b/mzi.msvveefj.jpg/600x600bb.webp
+    references:
+    - source: music.apple.com-us-album-300309670
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music/da/0c/1b/mzi.msvveefj.jpg/600x600bb.webp
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en
