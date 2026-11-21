@@ -25,19 +25,22 @@ references:
     quote: |-
       علی زندوکیلی، محسن شریفیان، مهدی ساکی، رضا کولغانی و... از دیگر چهره‌هایی بودند که در مقاطع مختلف با دارکوب همکاری کرده‌اند.
     accessed: '2026-10-19'
-  catalogue:
-    source: music.apple.com-us-album-darkoob-1862595003-e73febf2bc5d
+  percussion:
+    source: tasnimnews.ir-1383459-dee518db37cf
     quote: |-
-      Listen to Darkoob by Darkoob Band on Apple Music. 2009. 10 Songs. Duration: 48 minutes.
-    accessed: '2026-10-19'
+      حضور محمدرضا گلزار به عنوان نوازنده پرکاشن در ابتدای فعالیت‌های دارکوب به شدت مورد توجه رسانه‌ها و مخاطبان قرار گرفت
+    accessed: '2026-11-21'
+  concert:
+    source: tasnimnews.ir-1383459-dee518db37cf
+    quote: |-
+      لغو نخستین کنسرت گروه در تهران
+    accessed: '2026-11-21'
 ---
 
-[Darkoob](#darkoob-kxd) is an ensemble that began in 1386 in the Solar Hijri calendar, according to Tasnim’s tenth-anniversary report. It names همایون نصیری, دارا دارایی, امید حاجیلی, بابک بروجردی and حبیب مفتاح بوشهر in its initial group.[^origin]
+Darkoob is an Iranian ensemble led by Homayoun Nasiri. It began in 2007–08 with musicians including [Dara Daraei](/en/dara-daraee-cm9/), Omid Hajili and [Habib Meftah](/en/habib-meftah-49p/). Early on, percussionist Mohammad Reza Golzar’s involvement brought the group to the attention of audiences and the press.[^origin][^lineup][^percussion]
 
-## Ensemble and collaborators
+## The early albums
 
-The personnel changed over time. The anniversary report identifies Nasiri as leader and names Hajili, آرش پژندمقدم, مسعود همایونی, Daraei and آرین ملیکیان in the core line-up of that period.[^lineup] It also names علی زندوکیلی, محسن شریفیان, Mehdi Saki and Reza Koolaghani as collaborators at different points.[^guests]
+The group’s first concert in Tehran was cancelled. Its [self-titled debut](#darkoob-kxd) reached the Iranian market in the summer of 2010. Two more albums followed, [*Leiva*](#leiva-darkoob-2-qdv) in 2013 and [*Nokoob*](#nokoob-b3d) in 2015.[^concert][^debut][^albums]
 
-## Albums
-
-Tasnim dates the self-titled debut to Mordad 1389, Leiva to Shahrivar 1392 and [Nokoob](#nokoob-b3d) to Shahrivar 1394.[^debut][^albums] Apple Music’s current Darkoob edition instead carries a 2009 date, which differs from the original release date given by Tasnim.[^catalogue]
+By the time the musicians marked their tenth anniversary, Nasiri, Hajili and Daraei were still playing in the ensemble. Other musicians had worked with the group over the years, including [Reza Koolaghani](/en/reza-koolaghani-kwr/).[^lineup][^guests]
