@@ -3,6 +3,13 @@ type: person
 statements:
   name:
   - value:
+      text: پویا احصایی
+      language: fa
+    references:
+    - source: asrkhabar.com-fa-news-9204
+      quote: پویا احصایی به عنوان طراح موسیقی
+      accessed: '2026-11-21'
+  - value:
       text: Pouya Ehsaei
       language: en
     references:
