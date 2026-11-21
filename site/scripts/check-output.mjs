@@ -5,18 +5,19 @@
 //   node scripts/check-output.mjs [dist]
 
 import { existsSync, readdirSync, readFileSync, statSync } from 'node:fs';
-import { join, relative } from 'node:path';
+import { join, relative, resolve as resolvePath } from 'node:path';
 import sharp from 'sharp';
 import { buildIdentity } from './deployment.mjs';
 
 const dist = process.argv[2] ?? 'dist';
 const problems = [];
 const pages = new Map();
-const record = JSON.parse(readFileSync(process.env.NAGHVA_RECORD ?? 'generated/record.json', 'utf8'));
+const publishedRecord = 'generated/record.json';
+const recordPath = process.env.NAGHVA_RECORD ?? publishedRecord;
+const record = JSON.parse(readFileSync(recordPath, 'utf8'));
 // The example build can run before or after the published build. Never leave
 // its fictional catalogue at the path used by the ordinary site and tests.
-const publishedRecord = 'generated/record.json';
-if (record.examples && existsSync(publishedRecord) && JSON.parse(readFileSync(publishedRecord, 'utf8')).examples) {
+if (record.examples && resolvePath(recordPath) === resolvePath(publishedRecord)) {
   problems.push('the example build overwrote the published record');
 }
 const performs = (role) => record.roles[role] === 'performance';
