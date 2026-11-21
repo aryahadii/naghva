@@ -1,6 +1,10 @@
 import { expect, test } from '@playwright/test';
 import type { SkyStar } from '../../src/lib/star-map';
 
+declare global {
+  interface Window { creditCurves: number[][] }
+}
+
 test('the whole sky is drawn at once, stays mounted while exploring, and fits again after zoom', async ({ page }) => {
   await page.setViewportSize({ width: 390, height: 844 });
   await page.goto('/en/star-map/');
@@ -22,6 +26,11 @@ test('the whole sky is drawn at once, stays mounted while exploring, and fits ag
     }).length;
   }, stars);
   await expect.poll(visible).toBe(stars.length);
+  const glints = page.locator('.sky-glints i:visible');
+  await expect(glints).toHaveCount(8);
+  await expect(glints.first()).toHaveCSS('animation-name', 'sky-glimmer');
+  await page.emulateMedia({ reducedMotion: 'reduce' });
+  await expect(glints.first()).toHaveCSS('animation-name', 'none');
   await page.getByRole('button', { name: 'Zoom in' }).click();
   await expect.poll(visible).toBeLessThan(stars.length);
   await page.getByRole('button', { name: 'Fit all stars' }).click();
@@ -116,7 +125,7 @@ test('long comet tails overlap on distinct credits without repainting the sky', 
     Math.random = () => .6;
     // Capture the actual painted curves in logical map coordinates.
     const curves: number[][] = [];
-    Object.assign(window, { creditCurves: curves });
+    window.creditCurves = curves;
     const proto = CanvasRenderingContext2D.prototype;
     const move = proto.moveTo, quadratic = proto.quadraticCurveTo;
     const origins = new WeakMap<CanvasRenderingContext2D, number[]>();
@@ -146,7 +155,7 @@ test('long comet tails overlap on distinct credits without repainting the sky', 
       const distance = Math.hypot(last.e - first.e, last.f - first.f);
       const width = parseFloat(trail.style.width);
       const key = [first, last].map(m => [Math.round(m.e + width), Math.round(m.f)].join(',')).sort().join('/');
-      const curves = (window as Window & { creditCurves: number[][] }).creditCurves;
+      const curves = window.creditCurves;
       const height = parseFloat(trail.style.height);
       const followsOutwardCurve = curves.some(([x, y, cx, cy, endX, endY]) => frames.every(frame => {
         const t = frame.computedOffset, u = 1 - t;

@@ -80,3 +80,15 @@ html[lang=fa] .atlas-intro h1 { font-weight: 700; line-height: 1.4; letter-spaci
 @media(max-width:380px) { .sky-legend { max-width:55% } }
 .sky-comet { position:absolute; left:0; top:0; pointer-events:none; opacity:0; transform-origin:100% 50%; border-radius:999px; background:linear-gradient(90deg,transparent,currentColor) }
 .sky-comet::after { content:''; position:absolute; right:0; top:50%; width:2px; height:2px; transform:translateY(-50%); border-radius:50%; background:#f5fff8; box-shadow:0 0 3px currentColor }
+
+.sky-glints { position:absolute; left:0; top:0; transform-origin:0 0; pointer-events:none }
+.sky-glints i { position:absolute; width:16px; height:16px; margin:-8px; opacity:0; border-radius:50%;
+  background:radial-gradient(circle,#fff 0 4%,currentColor 8%,transparent 55%);
+  animation:sky-glimmer 6s ease-in-out infinite }
+.sky-glints i::after { content:''; position:absolute; inset:1px;
+  background:currentColor; clip-path:polygon(50% 0,55% 44%,92% 50%,55% 55%,50% 100%,45% 55%,8% 50%,45% 44%) }
+@keyframes sky-glimmer {
+  0%,58%,100% { opacity:0; transform:scale(.55) }
+  78% { opacity:.82; transform:scale(1.08) }
+}
+@media (prefers-reduced-motion:reduce) { .sky-glints i { animation:none } }

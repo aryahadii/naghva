@@ -66,7 +66,7 @@ function hollowHalo(colour: string) {
 }
 
 /** The camera lives in map coordinates, so resizing never changes which region is in view. */
-function makeSky(canvas: HTMLCanvasElement, field: HTMLCanvasElement, trail: HTMLElement, stars: SkyStar[], lang: Lang, choose: (id: string) => void) {
+function makeSky(canvas: HTMLCanvasElement, field: HTMLCanvasElement, glints: HTMLElement, trail: HTMLElement, stars: SkyStar[], lang: Lang, choose: (id: string) => void) {
   const ctx = canvas.getContext('2d');
   if (!ctx) return;
   const lookup = new Map(stars.map((s, i) => [s.id, i]));
@@ -248,15 +248,41 @@ function makeSky(canvas: HTMLCanvasElement, field: HTMLCanvasElement, trail: HTM
     const glow = sprite.getContext('2d')!;
     const gradient = glow.createRadialGradient(24, 24, 0, 24, 24, 24);
     gradient.addColorStop(0, 'rgba(255,255,248,.96)');
-    gradient.addColorStop(.16, `rgba(${rgb},.68)`);
-    gradient.addColorStop(.48, `rgba(${rgb},.20)`);
+    gradient.addColorStop(.1, 'rgba(255,248,227,.87)');
+    gradient.addColorStop(.23, `rgba(${rgb},.36)`);
+    gradient.addColorStop(.48, `rgba(${rgb},.09)`);
     gradient.addColorStop(1, `rgba(${rgb},0)`);
     glow.fillStyle = gradient;
     glow.fillRect(0, 0, 48, 48);
     return sprite;
   }
-  const amberHalo = haloSprite('255,155,65');
-  const cyanHalo = haloSprite('50,227,245');
+  const amberHalo = haloSprite('248,183,125');
+  const cyanHalo = haloSprite('98,199,237');
+  // Stable exposure gives the same stars their character in both languages.
+  const radiance = stars.map(star => {
+    let hash = 2166136261;
+    for (const char of star.id) hash = Math.imul(hash ^ char.charCodeAt(0), 16777619);
+    return ((hash >>> 0) / 4294967296) ** 2;
+  });
+  const glintStars = stars.flatMap((_, i) => radiance[i] > .98 || landmarks.has(i) ? [i] : []);
+  const glintSlots = Array.from(glints.children) as HTMLElement[];
+  function placeGlints(active: Set<number>) {
+    const candidates = selected >= 0 ? [selected, ...active] : glintStars;
+    const visible = candidates.filter(i => {
+      const { x, y } = points[i];
+      return x >= -12 && x <= w + 12 && y >= -12 && y <= h + 12;
+    });
+    const count = Math.min(visible.length, glintSlots.length, w < 600 ? 8 : 16);
+    glintSlots.forEach((slot, k) => {
+      slot.hidden = k >= count;
+      if (slot.hidden) return;
+      const i = visible[Math.floor(k * visible.length / count)];
+      const { x, y } = points[i];
+      slot.style.left = x + overscan + 'px';
+      slot.style.top = y + overscan + 'px';
+      slot.style.color = stars[i].kind === 'artist' ? '#ffd598' : '#a6efff';
+    });
+  }
   const landmarkIds = [...landmarks];
   const hollows = [
     { anchor: landmarkIds[0], image: hollowHalo('126,121,248'), radius: .21, angle: -.4 },
@@ -310,6 +336,18 @@ function makeSky(canvas: HTMLCanvasElement, field: HTMLCanvasElement, trail: HTM
         ctx.rotate(hollow.angle);
         ctx.drawImage(hollow.image, -r, -r * .64, 2 * r, 1.28 * r);
         ctx.restore();
+      }
+      ctx.restore();
+    }
+    // Diffuse light accumulates around dense parts of the catalogue, tracing its arms.
+    if (scale < 4) {
+      ctx.save();
+      ctx.globalAlpha = (1 - scale / 4) * (selected < 0 ? .13 : .045);
+      const mist = Math.min(w, h) * .059 * Math.sqrt(scale);
+      for (let i = 0; i < stars.length; i += 5) {
+        const { x, y } = points[i];
+        if (x + mist < -overscan || x - mist > w + overscan || y + mist < -overscan || y - mist > h + overscan) continue;
+        ctx.drawImage(stars[i].kind === 'artist' ? amberHalo : cyanHalo, x - mist, y - mist, mist * 2, mist * 2);
       }
       ctx.restore();
     }
@@ -372,13 +410,14 @@ function makeSky(canvas: HTMLCanvasElement, field: HTMLCanvasElement, trail: HTM
       const palette = artist ? GOLD : JADE;
       const accent = palette[i % palette.length];
       const lit = highlighted || active.has(i);
-      const variation = 0.86 + ((i * 7) % 11) / 28;
+      const light = radiance[i];
+      const variation = .74 + light * 1.05;
       const baseRadius = artist ? (stars[i].href ? 4.5 : 2.25) : 1.25;
       const r = highlighted ? 7 : lit ? 3.3 : baseRadius * markScale * variation;
-      ctx.globalAlpha = selected < 0 || lit ? 1 : artist ? 0.4 : 0.34;
+      ctx.globalAlpha = lit ? 1 : (.44 + .56 * Math.sqrt(light)) * (selected < 0 ? 1 : .48);
       ctx.fillStyle = accent;
-      if (lit || (artist ? stars[i].href : i % 7 === 0)) {
-        const halo = r * (highlighted ? 3.4 : 2.7);
+      if (lit || light > .64 || (artist && stars[i].href)) {
+        const halo = r * (highlighted ? 4 : 2.6 + light);
         ctx.drawImage(artist ? amberHalo : cyanHalo, x - halo, y - halo, 2 * halo, 2 * halo);
       }
       if (artist || highlighted) {
@@ -386,6 +425,12 @@ function makeSky(canvas: HTMLCanvasElement, field: HTMLCanvasElement, trail: HTM
       } else {
         ctx.beginPath();
         ctx.arc(x, y, r, 0, 2 * Math.PI);
+        ctx.fill();
+      }
+      if (lit || light > .58 || (artist && stars[i].href)) {
+        ctx.fillStyle = artist ? '#fff3d7' : '#e8fffc';
+        ctx.beginPath();
+        ctx.arc(x, y, Math.max(.55, r * (artist ? .39 : .54)), 0, 2 * Math.PI);
         ctx.fill();
       }
       if (highlighted) {
@@ -423,11 +468,14 @@ function makeSky(canvas: HTMLCanvasElement, field: HTMLCanvasElement, trail: HTM
       fieldContext.setTransform(ratio, 0, 0, ratio, overscan * ratio, overscan * ratio);
       fieldContext.clearRect(-overscan, -overscan, fieldWidth, fieldHeight);
       paintField(fieldContext, active);
+      placeGlints(active);
       cache = { centre: { ...centre }, scale, selected, hovered };
       left = top = -overscan;
       magnification = 1;
     }
     field.style.transform = `translate3d(${left}px, ${top}px, 0) scale(${magnification})`;
+
+    glints.style.transform = field.style.transform;
 
     ctx.direction = lang === 'fa' ? 'rtl' : 'ltr';
     ctx.textAlign = 'center';
@@ -692,13 +740,14 @@ function makeSky(canvas: HTMLCanvasElement, field: HTMLCanvasElement, trail: HTM
 export default function SkyCanvas({ stars, selected, onSelect, lang, words, resetKey }: Props) {
   const canvas = useRef<HTMLCanvasElement>(null);
   const field = useRef<HTMLCanvasElement>(null);
+  const glints = useRef<HTMLSpanElement>(null);
   const trail = useRef<HTMLSpanElement>(null);
   const sky = useRef<ReturnType<typeof makeSky>>(undefined);
   const choose = useRef(onSelect);
   choose.current = onSelect;
   useEffect(() => {
-    if (!canvas.current || !field.current || !trail.current) return;
-    sky.current = makeSky(canvas.current, field.current, trail.current, stars, lang, (id) => choose.current(id));
+    if (!canvas.current || !field.current || !glints.current || !trail.current) return;
+    sky.current = makeSky(canvas.current, field.current, glints.current, trail.current, stars, lang, (id) => choose.current(id));
     return () => {
       sky.current?.dispose();
       sky.current = undefined;
@@ -714,6 +763,12 @@ export default function SkyCanvas({ stars, selected, onSelect, lang, words, rese
   return (
     <div class="sky-viewport">
       <canvas ref={field} class="sky-field" aria-hidden="true" />
+      <span ref={glints} class="sky-glints" aria-hidden="true">
+        {Array.from({ length: 16 }, (_, i) => <i key={i} hidden style={{
+          animationDuration: (4.7 + (i * 13 % 37) / 10) + 's',
+          animationDelay: -(i * 1.73) + 's',
+        }} />)}
+      </span>
       <span ref={trail} aria-hidden="true">
         {Array.from({ length: COMET_LIMIT }, (_, i) => <span key={i} class="sky-comet" />)}
       </span>
