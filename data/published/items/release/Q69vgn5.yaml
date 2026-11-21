@@ -1,0 +1,41 @@
+id: Q69vgn5
+type: release
+statements:
+  name:
+  - value:
+      text: for420s [b-sides]
+      language: en
+    references:
+    - &id001
+      source: tarxun.bandcamp.com-album-for420s-b-sides
+      quote: for420s [b-sides]
+      accessed: '2026-11-21'
+  performer:
+  - value: Q55bvv7
+    references:
+    - &id002
+      source: tarxun.bandcamp.com-album-for420s-b-sides
+      quote: tarxun
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2023-04-20'
+    references:
+    - source: tarxun.bandcamp.com-album-for420s-b-sides
+      quote: 20 Apr 2023 00:00:00 GMT
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://tarxun.bandcamp.com/album/for420s-b-sides
+    references:
+    - *id001
+    - *id002
+  cover art:
+  - value: https://f4.bcbits.com/img/a3112587999_10.jpg
+    references:
+    - source: tarxun.bandcamp.com-album-for420s-b-sides
+      quote: https://f4.bcbits.com/img/a3112587999_10.jpg
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: tarxun, Bandcamp
+        language: en
