@@ -1,5 +1,6 @@
 ---
 url: https://noise-a-noise.bandcamp.com/track/01-hadi-bastani-voice-parasite
+archive: "https://web.archive.org/web/20260215135229/https://noise-a-noise.bandcamp.com/track/01-hadi-bastani-voice-parasite"
 title: 01 - Hadi Bastani - Voice Parasite | Various Artists | Noise à Noise
 kind: web page
 language: en

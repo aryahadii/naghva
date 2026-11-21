@@ -17,3 +17,11 @@ Melode 360, musical arrangements, read 2026-11-21.
 > In June 2020, I released my first solo album Titled Melode 360
 
 Solo album introduction, read 2026-11-21.
+
+> independent artists and musicians from Iran
+
+After her debut album, read 2026-11-21.
+
+> we’ve already released six singles, and we’re now working on two new EPs
+
+Number of singles and works in progress, read 2026-11-21.

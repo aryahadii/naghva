@@ -1,5 +1,6 @@
 ---
 url: https://flamingpines.bandcamp.com/track/sarcian-sinemass
+archive: "https://web.archive.org/web/20240519045036/https://flamingpines.bandcamp.com/track/sarcian-sinemass"
 title: sarcian sinemass | Hadi Bastani | Flaming Pines
 kind: web page
 language: en

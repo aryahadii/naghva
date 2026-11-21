@@ -1,5 +1,6 @@
 ---
 url: https://quillsthatwhisper.bandcamp.com/album/etude-ikologique
+archive: "https://web.archive.org/web/20220506195245/https://quillsthatwhisper.bandcamp.com/album/etude-ikologique"
 title: Etude Ikologique | Hadi Bastani | Quills That Whisper
 kind: web page
 language: en

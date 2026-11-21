@@ -17,6 +17,22 @@ statements:
       quote: Melode
       accessed: 2026-11-21
       locator: Artist heading
+  - value: Qwqrsct
+    qualifiers:
+      role: bass
+    references:
+    - source: melodysafavi.com
+      quote: 'Electric Bass: SugarRay Napunyi'
+      accessed: 2026-11-21
+      locator: 'Community: recording credits'
+  - value: Qq4ewx8
+    qualifiers:
+      role: guitar
+    references:
+    - source: melodysafavi.com
+      quote: 'Guitars: Kaj Szyskiewicz'
+      accessed: 2026-11-21
+      locator: 'Community: recording credits'
   listen link:
   - value: https://music.apple.com/us/song/community/1515690137
     references:
@@ -63,3 +79,12 @@ statements:
       quote: Melode 360
       accessed: 2026-11-21
       locator: Album heading
+  contributor:
+  - value: Qejssa2
+    qualifiers:
+      role: mixing engineer
+    references:
+    - source: melodysafavi.com
+      quote: 'Music & Mix: Robin Cochrane'
+      accessed: 2026-11-21
+      locator: 'Community: recording credits'

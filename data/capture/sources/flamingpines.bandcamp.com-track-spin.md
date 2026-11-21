@@ -1,5 +1,6 @@
 ---
 url: https://flamingpines.bandcamp.com/track/spin
+archive: "https://web.archive.org/web/20240519045103/https://flamingpines.bandcamp.com/track/spin"
 title: SPIN | Hadi Bastani | Flaming Pines
 kind: web page
 language: en

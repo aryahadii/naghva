@@ -18,13 +18,13 @@ The expansion started at revision fa6c29ca with 124 bilingual artist pages. The 
 | Maryam Sirvan | Q6zbcxw | 9.2/10 | [Maryam Sirvan](maryam-sirvan-review.md) |
 | NUM | Qm4skc3 | 9.1/10 | [NUM](num-review.md) |
 | Abjeez | Qny2s3x | 9.1/10 | [Abjeez](abjeez-independent-review.md) |
-| Milad Bagheri | Qj24qcs | 8.4/10, revisions in review | [Milad Bagheri](milad-bagheri-review.md) |
+| Milad Bagheri | Qj24qcs | 9.2/10 | [Milad Bagheri](milad-bagheri-review.md) |
 | Vazesh | Q597kk9 | 9.2/10 | [Vazesh](artist-page-scores.md) |
-| Shadi Fathi | Qfxqgvv | 8.0/10, revisions in review | [Shadi Fathi](shadi-fathi-review.md) |
-| Safoura Safavi | Q8w88jv | 7.8/10, revisions in review | [Safoura Safavi](safoura-safavi-independent-review.md) |
-| SASA | Qgzg2y9 | Pending | [Catalogue](sasa.md) |
-| Hysterrae | Qkvdrbs | Pending | [Catalogue](hysterrae.md) |
-| Melody Safavi | Q8dkfyg | Pending | [Catalogue](melody-safavi.md) |
-| Hadi Bastani | Qyt2364 | Pending | Independent review requested |
+| Shadi Fathi | Qfxqgvv | 9.2/10 | [Shadi Fathi](shadi-fathi-review.md) |
+| Safoura Safavi | Q8w88jv | 9.1/10 | [Safoura Safavi](safoura-safavi-independent-review.md) |
+| SASA | Qgzg2y9 | 9.2/10 | [SASA](sasa-independent-review.md) |
+| Hysterrae | Qkvdrbs | 9.2/10 | [Hysterrae](artist-page-scores.md) |
+| Melody Safavi | Q8dkfyg | 9.1/10 | [Melody Safavi](melody-safavi-review.md) |
+| Hadi Bastani | Qyt2364 | 9.2/10 | [Hadi Bastani](hadi-bastani-review.md) |
 
 The [discovery list](independent-artist-discovery.md) contains candidates with release leads. Some will prove ineligible or match an existing artist by another spelling. Only new artist pages count toward the target.

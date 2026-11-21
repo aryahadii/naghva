@@ -1,5 +1,6 @@
 ---
 url: https://www.gre.ac.uk/people/rep/las/hadi-bastani
+archive: "https://web.archive.org/web/20260618135928/https://www.gre.ac.uk/people/rep/las/hadi-bastani"
 title: Hadi Bastani | People | University of Greenwich
 kind: web page
 language: en

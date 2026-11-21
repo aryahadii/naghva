@@ -1,5 +1,6 @@
 ---
 url: https://room40.bandcamp.com/track/digitalsea
+archive: "https://web.archive.org/web/20250423224355/https://room40.bandcamp.com/track/digitalsea"
 title: DIGITALSEA | Hadi Bastani | Room40
 kind: web page
 language: en

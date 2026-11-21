@@ -13,3 +13,7 @@ Account biography, read 2026-11-21.
 > Melody stands outdoors, wearing a headscarf and looking towards the camera.
 
 Artist profile photograph, read 2026-11-21.
+
+> https://i1.sndcdn.com/avatars-JNyDTU3ZQ5lNaZ5J-olh9OA-t500x500.jpg
+
+Artist profile image URL, og:image metadata, read 2026-11-21.

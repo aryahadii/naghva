@@ -38,9 +38,9 @@ statements:
   - value: https://i1.sndcdn.com/avatars-JNyDTU3ZQ5lNaZ5J-olh9OA-t500x500.jpg
     references:
     - source: soundcloud.com-theofficialmelode
-      quote: Melody stands outdoors, wearing a headscarf and looking towards the camera.
+      quote: https://i1.sndcdn.com/avatars-JNyDTU3ZQ5lNaZ5J-olh9OA-t500x500.jpg
       accessed: 2026-11-21
-      locator: Artist profile photograph
+      locator: Artist profile image URL, og:image metadata
   profile link:
   - value: https://soundcloud.com/theofficialmelode
     references:

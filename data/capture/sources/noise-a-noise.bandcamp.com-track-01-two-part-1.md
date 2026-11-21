@@ -1,5 +1,6 @@
 ---
 url: https://noise-a-noise.bandcamp.com/track/01-two-part-1
+archive: "https://web.archive.org/web/20230716113413/https://noise-a-noise.bandcamp.com/track/01-two-part-1"
 title: 01 - TWO - Part 1 | Hadi Bastani and Yalda Zamani | Noise à Noise
 kind: web page
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/hadi-bastani
+archive: "https://web.archive.org/web/20251020232250/https://soundcloud.com/hadi-bastani"
 title: Stream Hadi Bastani music | Listen to songs, albums, playlists for free on SoundCloud
 kind: web page
 language: en

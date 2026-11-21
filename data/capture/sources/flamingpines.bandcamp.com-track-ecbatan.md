@@ -1,5 +1,6 @@
 ---
 url: https://flamingpines.bandcamp.com/track/ecbatan
+archive: "https://web.archive.org/web/20240519045206/https://flamingpines.bandcamp.com/track/ecbatan"
 title: ecbatan | Hadi Bastani | Flaming Pines
 kind: web page
 language: en

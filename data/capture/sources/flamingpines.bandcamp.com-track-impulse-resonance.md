@@ -1,5 +1,6 @@
 ---
 url: https://flamingpines.bandcamp.com/track/impulse-resonance
+archive: "https://web.archive.org/web/20240519045159/https://flamingpines.bandcamp.com/track/impulse-resonance"
 title: impulse | resonance | Hadi Bastani | Flaming Pines
 kind: web page
 language: en

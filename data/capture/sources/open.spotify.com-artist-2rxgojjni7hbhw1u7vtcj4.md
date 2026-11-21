@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/artist/2RXGoJJnI7hBHW1U7VtCJ4
+archive: "https://web.archive.org/web/20191229185749/https://open.spotify.com/artist/2RXGoJJnI7hBHW1U7VtCJ4"
 title: Listen to Hadi Bastani Songs | Spotify
 kind: web page
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://room40.bandcamp.com/track/darkdarknight
+archive: "https://web.archive.org/web/20250423224355/https://room40.bandcamp.com/track/darkdarknight"
 title: DARKDARKNIGHT | Hadi Bastani | Room40
 kind: web page
 language: en

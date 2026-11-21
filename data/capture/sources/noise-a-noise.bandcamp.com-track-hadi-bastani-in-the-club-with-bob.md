@@ -1,5 +1,6 @@
 ---
 url: https://noise-a-noise.bandcamp.com/track/hadi-bastani-in-the-club-with-bob
+archive: "https://web.archive.org/web/20240616214229/https://noise-a-noise.bandcamp.com/track/hadi-bastani-in-the-club-with-bob"
 title: Hadi Bastani - In The Club With Bob | Various Artists | Noise à Noise
 kind: web page
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://flamingpines.bandcamp.com/track/interference
+archive: "https://web.archive.org/web/20240519045115/https://flamingpines.bandcamp.com/track/interference"
 title: INTERFERENCE | Hadi Bastani | Flaming Pines
 kind: web page
 language: en

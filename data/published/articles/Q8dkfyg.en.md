@@ -60,6 +60,16 @@ references:
     quote: 'Produced & Engineered by: Moni Safikhani'
     accessed: 2026-11-21
     locator: Production credits
+  iran:
+    source: melodysafavi.com-www-melodysafavi-com
+    quote: independent artists and musicians from Iran
+    accessed: 2026-11-21
+    locator: After her debut album
+  six:
+    source: melodysafavi.com-www-melodysafavi-com
+    quote: we’ve already released six singles, and we’re now working on two new EPs
+    accessed: 2026-11-21
+    locator: Number of singles and works in progress
 ---
 
 Melody Safavi writes and sings in Persian. From her home in New York she wrote lyrics for [Abjeez](/en/abjeez-ny2/), the band she started with her sister Safoura. When the Green Movement demonstrations began in Iran in 2009, she wrote the words to “Biyaa” just after the second mass protest. In an interview the following year she recalled that the band shared the song on YouTube as news of the attacks on demonstrators was coming in.[^ab][^biyaa]
@@ -68,4 +78,4 @@ Melody Safavi writes and sings in Persian. From her home in New York she wrote l
 
 For her solo recordings she took a name her family had long used for her, MELODE. On *Melode 360*, released in June 2020, she wrote about the life of an Iranian woman in New York. She made the record with percussionist Robin Cochrane and musicians in Sweden, singing Persian words over reggae and African dancehall rhythms.[^family][^alias][^album][^us][^drum][^reggae]
 
-On “Dele Man” Safavi wrote both the tune and the words and sang the lead. Babak Akhoondi played electric guitar and Moni Safikhani produced and engineered the recording.[^heart][^ak][^moni] In “Bedehkaar” she turned to the problem of trying to get by without work while the bills keep coming. The words and the guitar give debt the character of a persistent, dark joke.[^debt]
+After making the album with musicians in Sweden, Safavi began recording with independent musicians from Iran. By her account they had released six singles together and were working on two EPs.[^iran][^six] On “Dele Man” Safavi wrote both the tune and the words and sang the lead. Babak Akhoondi played electric guitar and Moni Safikhani produced and engineered the recording.[^heart][^ak][^moni] In “Bedehkaar” she turned to the problem of trying to get by without work while the bills keep coming. The words and the guitar give debt the character of a persistent, dark joke.[^debt]

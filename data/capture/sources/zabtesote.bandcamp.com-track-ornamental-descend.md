@@ -1,5 +1,6 @@
 ---
 url: https://zabtesote.bandcamp.com/track/ornamental-descend
+archive: "https://web.archive.org/web/20240911032357/https://zabtesote.bandcamp.com/track/ornamental-descend"
 title: Ornamental Descend | Hadi Bastani | Zabte Sote
 kind: web page
 language: en

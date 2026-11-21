@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/hadi-bastani/freshair
+archive: "https://web.archive.org/web/20250920185904/https://soundcloud.com/hadi-bastani/freshair"
 title: Stream Freshair by Hadi Bastani | Listen online for free on SoundCloud
 kind: web page
 language: en
