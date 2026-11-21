@@ -15,24 +15,32 @@ references:
     quote: |-
       آرش که اسم «ضربی» رو برای فعالیت هنریش انتخاب کرده، از مسیر پر فراز و نشیبش از هنرستان موسیقی تا استودیوهای مستقل و شکل گیری گروه نینجاهای بدشانس میگه.
     accessed: '2026-10-19'
-  rad:
-    source: music.apple.com-us-album-rad-single-1688642600-5be622d83fb3
+  first:
+    source: madeiniranrecords.bandcamp.com-album-tehran-kabul-7a9d7b7530af
     quote: |-
-      Listen to Rad - Single by Arash Zarabi & Soundrom on Apple Music. 2023. 1 Song. Duration: 2 minutes.
+      The first studio album of Unlucky Ninjas is a tale of a journey, a musical journey between Iranian and Afghan cultures which has formed in collaboration with Soraya Husaini and her father Ibrahim Husaini.
+    accessed: '2026-10-19'
+  first-date:
+    source: madeiniranrecords.bandcamp.com-album-tehran-kabul-7a9d7b7530af
+    quote: |-
+      released November 22, 2021
     accessed: '2026-10-19'
   zendeh:
     source: music.apple.com-us-album-zendeh-khani-vol-1-ep-1654507912-2bd45ad181bb
     quote: |-
       Listen to Zendeh Khani Vol.1 - EP by Daygard, Motreb & Arash Zarabi on Apple Music. 2022. 4 Songs. Duration: 17 minutes.
     accessed: '2026-10-19'
+  rad:
+    source: music.apple.com-us-album-rad-single-1688642600-5be622d83fb3
+    quote: |-
+      Listen to Rad - Single by Arash Zarabi & Soundrom on Apple Music. 2023. 1 Song. Duration: 2 minutes.
+    accessed: '2026-10-19'
 ---
 
-آرش ضرابی آهنگساز، نوازندهٔ کنترباس، اجراگر و آهنگساز فیلم است. طبق زندگی‌نامهٔ پروژهٔ «دفتر آواز جادهٔ ابریشم»، او فعالیت موسیقایی خود را با نوازندگی کنترباس در ارکسترهایی از جمله ارکستر سمفونیک تهران، ارکستر ملی ایران و ارکستر ایران و اتریش آغاز کرد.[^career]
+آرش ضرابی آهنگساز و نوازندهٔ بیس ساکن تهران است و برای فیلم هم موسیقی می‌سازد. او کارش را با نوازندگی کنترباس در ارکستر آغاز کرد و بعدها گروه [نینجاهای بدشانس](/fa/unlucky-ninjas-9pp/) را تشکیل داد. «ضربی» نامی است که برای فعالیت هنری خود انتخاب کرده است.[^career][^ninjas][^name]
 
-## از ارکستر تا پروژه‌های مستقل
+## از ارکستر تا نینجاهای بدشانس
 
-همان زندگی‌نامه از تجربه‌های او با جَز، فولک، سول و موسیقی آلترناتیو می‌گوید.[^career] معرفی برنامهٔ گوشگیر او را بنیان‌گذار گروه «نینجاهای بدشانس» می‌داند و به فعالیت او با نام هنری «ضربی» نیز اشاره می‌کند.[^ninjas][^name]
+ضرابی در ارکستر سمفونیک تهران و ارکستر ملی ایران کنترباس نواخت. بعدها در موسیقی‌اش از جز، فولک و سول هم استفاده کرد.[^career] در سال ۱۴۰۰ نینجاهای بدشانس نخستین آلبوم استودیویی‌شان، «[تهران‌ـ‌کابل](/fa/unlucky-ninjas-9pp/#tehran-kabul-q6f)»، را با ثریا حسینی و پدرش ابراهیم ساختند. موسیقی این آلبوم برگرفته از فرهنگ ایران و افغانستان است.[^first][^first-date]
 
-## آثار منتشرشده
-
-ضرابی در تک‌آهنگ Rad با Soundrom و در ای‌پی Zendeh Khani Vol.1 با Daygard و Motreb همکاری کرده است. اپل موزیک تاریخ این دو اثر را به‌ترتیب ۲۰۲۳ و ۲۰۲۲ درج کرده است.[^rad][^zendeh]
+ضرابی بیرون از گروه نیز با Daygard و Motreb در ای‌پی «[Zendeh Khani Vol.1](#zendeh-khani-vol-1-ep-vs4)» در سال ۲۰۲۲ و با Soundrom در تک‌آهنگ «[Rad](#rad-single-2n4)» در سال ۲۰۲۳ همکاری کرد.[^zendeh][^rad]
