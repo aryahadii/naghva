@@ -12,3 +12,11 @@ status: processed
 > Stream Steady Dive by photomatband | Listen online for free on SoundCloud
 
 Page title, read 2026-11-21.
+
+> 2012-11-30
+
+Artist interview, biography or performance credits, read 2026-11-21.
+
+> From our upcoming album "Windowsill"
+
+Artist interview, biography or performance credits, read 2026-11-21.

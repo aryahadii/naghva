@@ -51,6 +51,12 @@ statements:
       quote: Listen to Windowsill - Album by Photomat | Spotify
       accessed: '2026-11-21'
       locator: Page title
+  - value: https://open.spotify.com/album/6puOa3ILp0rSNCUGuE4YLQ
+    references:
+    - source: open.spotify.com-album-6puoa3ilp0rsncugue4ylq
+      quote: Listen to Windowsill - Album by Photomat | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music/v4/26/d0/2e/26d02e28-0b32-6009-fb54-a8165c1ccb63/cover.jpg/632x632bb.webp
     references:

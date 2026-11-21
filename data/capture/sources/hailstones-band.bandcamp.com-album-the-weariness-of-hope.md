@@ -20,3 +20,23 @@ Release artwork, read 2026-11-21.
 > released September 25, 2026
 
 Published date, read 2026-11-21.
+
+> Nuri Bilge Ceylan’s About Dry Grasses
+
+Artist interview, biography or performance credits, read 2026-11-21.
+
+> Across six songs
+
+Artist interview, biography or performance credits, read 2026-11-21.
+
+> Vocals recorded by Pat Palardy at Public Lunch Studios
+
+Artist interview, biography or performance credits, read 2026-11-21.
+
+> Additional mixing and mastering by Shahin Entezami
+
+Artist interview, biography or performance credits, read 2026-11-21.
+
+> https://f4.bcbits.com/img/0046175266_21.jpg
+
+Artist interview, biography or performance credits, read 2026-11-21.

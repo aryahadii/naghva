@@ -10,3 +10,41 @@ statements:
       quote: Babak Bouban
       accessed: 2026-11-21
       locator: Recording artist
+  - value:
+      text: بابک بوبان
+      language: fa
+    references:
+    - source: beeptunes.com-artist-3403799
+      quote: بابک بوبان
+      accessed: 2026-11-21
+      locator: Artist name
+  image:
+  - value: https://candle-fog.com/wp-content/uploads/2017/06/Babak-Bouban.jpg
+    qualifiers:
+      credit:
+        text: Candle & Fog Publishing
+        language: en
+    references:
+    - source: candle-fog.com-babak-bouban
+      quote: https://candle-fog.com/wp-content/uploads/2017/06/Babak-Bouban.jpg
+      accessed: 2026-11-21
+      locator: Portrait on the publisher’s author page
+  profile link:
+  - value: https://open.spotify.com/artist/3zZ0DWSFfkvtXvaYHcpP6Z
+    references:
+    - source: open.spotify.com-artist-3zz0dwsffkvtxvayhcpp6z
+      quote: Babak Bouban
+      accessed: 2026-11-21
+      locator: Spotify artist profile
+  - value: https://music.apple.com/us/artist/babak-bouban/555205515
+    references:
+    - source: music.apple.com-us-artist-babak-bouban-555205515
+      quote: Babak Bouban
+      accessed: 2026-11-21
+      locator: Apple Music artist profile
+  - value: https://t.me/babakbouban
+    references:
+    - source: t.me-babakbouban-294
+      quote: '@babakbouban'
+      accessed: 2026-11-21
+      locator: Artist’s own archive

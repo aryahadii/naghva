@@ -48,3 +48,7 @@ Artist interview, biography or performance credits, read 2026-11-21.
 > Duo "Bitodes" with Nima Pourkarimi focusing on various styles of Techno
 
 Artist interview, biography or performance credits, read 2026-11-21.
+
+> Post-Rock/ Electronic band Photomat
+
+Artist interview, biography or performance credits, read 2026-11-21.

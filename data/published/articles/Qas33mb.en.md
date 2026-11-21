@@ -85,6 +85,31 @@ references:
     quote: Dear John (2020) – Sepp Osley featuring Nick Van Eede
     accessed: 2026-11-21
     locator: Original concert version
+  found:
+    source: bob-harris-2020.squarespace.com-bobs-events-3rd-annual-dear-john-concert-for-war-child-hosted-by-bob-harris
+    quote: founded the 'Dear John' Concert in aid of War Child UK
+    accessed: 2026-11-21
+    locator: Host programme or concert report
+  joint:
+    source: bob-harris-2020.squarespace.com-bobs-events-3rd-annual-dear-john-concert-for-war-child-hosted-by-bob-harris
+    quote: Mollie Marriott have organised and produced
+    accessed: 2026-11-21
+    locator: Host programme or concert report
+  bridge:
+    source: bob-harris-2020.squarespace.com-bobs-events-3rd-annual-dear-john-concert-for-war-child-hosted-by-bob-harris
+    quote: Under The Bridge in Chelsea
+    accessed: 2026-11-21
+    locator: Host programme or concert report
+  remote:
+    source: bob-harris-2020.squarespace.com-bobs-events-3rd-annual-dear-john-concert-for-war-child-hosted-by-bob-harris
+    quote: live performances and appearances from guest artists around the world
+    accessed: 2026-11-21
+    locator: Host programme or concert report
+  break:
+    source: www.musicistoblame.co.uk-2021-10-another-90-minutes-of-astral-projection.html
+    quote: lead break in the middle.
+    accessed: 2026-11-21
+    locator: Host programme or concert report
 ---
 
 Sepp Osley was born in Iran during the Iran–Iraq war and moved with his family to Canada. His first glimpse of a rock concert came through the railings of a Toronto amusement park. He was seven or eight and barely spoke English. Years later his older brother told him that the band they had stopped to hear was INXS.[^birth][^move][^rails][^inxs]
@@ -93,4 +118,4 @@ With his brother Sohl on bass, Osley founded Blurred Vision. When he ended the b
 
 ## Two versions of Dear John
 
-Osley first carried “Dear John” into the 2020 concert for War Child UK, where he sang it with Van Eede. For the 2025 version he invited Peter Frampton to play guitar and Mollie Marriott to sing. Drummer Jake Bradford Sharp arranged a string quartet for the recording. Both performances are on *Dear John (Collaborations)*, alongside songs by Lennon and the Beatles. Osley’s own edition has seventeen tracks, four more than the streaming album.[^benefit][^nick][^solo][^strings][^count][^stream]
+Osley founded the *Dear John* benefit for War Child UK in 2019. At the 2020 edition he sang the title song with Van Eede.[^found][^nick] In 2021 Osley and Marriott produced a broadcast that combined performances from Under the Bridge in Chelsea with guest recordings from around the world. When Jo Harman sang “Jealous Guy” in London, Osley stepped forward for the guitar break.[^joint][^bridge][^remote][^break] For the 2025 version he invited Peter Frampton to play guitar and Mollie Marriott to sing. Drummer Jake Bradford Sharp arranged a string quartet for the recording. Both performances are on *Dear John (Collaborations)*, alongside songs by Lennon and the Beatles. Osley’s own edition has seventeen tracks, four more than the streaming album.[^benefit][^nick][^solo][^strings][^count][^stream]

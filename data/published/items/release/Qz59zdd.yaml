@@ -1,0 +1,51 @@
+id: Qz59zdd
+type: release
+statements:
+  name:
+  - value:
+      text: Cannibal Song (live)
+      language: en
+    references:
+    - source: we-are-hailstones.com-videos
+      quote: Hailstones - Cannibal Song
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  performer:
+  - value: Q2e2223
+    references:
+    - source: www.youtube.com-watch-v-qrhhvper2fi
+      quote: Hailstones - Cannibal Song
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qjjdrek
+    references:
+    - source: www.sledisland.com-2025-hailstones
+      quote: Beginning in 2023 as the solo endeavour of Idlefon’s Hesam Ohadi
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  release date:
+  - value:
+      date: 2023-10
+    references:
+    - source: we-are-hailstones.com-videos
+      quote: October 2023
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://www.youtube.com/watch?v=qRHHvper2fI
+    references:
+    - source: www.youtube.com-watch-v-qrhhvper2fi
+      quote: Hailstones - Cannibal Song
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i.ytimg.com/vi/qRHHvper2fI/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-qrhhvper2fi
+      quote: https://i.ytimg.com/vi/qRHHvper2fI/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: Hailstones
+        language: en

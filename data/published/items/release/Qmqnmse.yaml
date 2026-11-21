@@ -30,6 +30,12 @@ statements:
       quote: The Earth (feat. Negar Bouban)
       accessed: 2026-11-21
       locator: Native catalogue
+  - value: https://open.spotify.com/track/07Z0IUg9UCehO6EL5BKaYS
+    references:
+    - source: open.spotify.com-album-04qnnz9l14etmnkad1sfeu
+      quote: The Earth
+      accessed: 2026-11-21
+      locator: Spotify album or track title
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/45/ff/b5/45ffb5aa-ce34-74db-ee34-48ddcd5928b6/829982195562.jpg/1200x630bb.jpg
     references:

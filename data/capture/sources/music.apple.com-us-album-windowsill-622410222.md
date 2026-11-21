@@ -20,3 +20,7 @@ Release artwork, read 2026-11-21.
 > March 14, 2013
 
 Published date, read 2026-11-21.
+
+> 8 songs, 42 minutes
+
+Artist interview, biography or performance credits, read 2026-11-21.

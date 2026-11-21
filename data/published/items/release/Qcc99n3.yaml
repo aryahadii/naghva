@@ -1,0 +1,40 @@
+id: Qcc99n3
+type: release
+statements:
+  name:
+  - value:
+      text: ماخ اولا
+      language: fa
+    references:
+    - source: beeptunes.com-album-73923970
+      quote: ماخ اولا
+      accessed: 2026-11-21
+      locator: Original track list
+  performer:
+  - value: Qaxspbb
+    qualifiers:
+      role:
+      - vocals
+    references:
+    - source: beeptunes.com-album-73923970
+      quote: خوانندگی و آهنگسازی آن را بابک بوبان انجام داده است
+      accessed: 2026-11-21
+      locator: Performer and composer
+  contributor:
+  - value: Qaxspbb
+    qualifiers:
+      role:
+      - composer
+    references:
+    - source: beeptunes.com-album-73923970
+      quote: خوانندگی و آهنگسازی آن را بابک بوبان انجام داده است
+      accessed: 2026-11-21
+      locator: Performer and composer
+  release date:
+  - value:
+      date: '2015'
+    references:
+    - source: www.negarbouban.com-resources-pdf-negar_bouban_cv-may_2026.pdf
+      quote: '2015.'
+      accessed: 2026-11-21
+      locator: Release year in Sing entry, pages 8–10

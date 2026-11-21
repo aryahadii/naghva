@@ -44,6 +44,12 @@ statements:
       quote: Bliss in Disguise - song and lyrics by Photomat | Spotify
       accessed: '2026-11-21'
       locator: Page title
+  - value: https://open.spotify.com/track/5eIj5tIcTIqAS7CxnACwv6
+    references:
+    - source: open.spotify.com-track-5eij5tictiqas7cxnacwv6
+      quote: Bliss in Disguise - song and lyrics by Photomat | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music/v4/26/d0/2e/26d02e28-0b32-6009-fb54-a8165c1ccb63/cover.jpg/600x600bb.webp
     references:

@@ -1,0 +1,51 @@
+id: Q53h3ca
+type: release
+statements:
+  name:
+  - value:
+      text: Beautiful
+      language: en
+    references:
+    - source: music.apple.com-us-album-stoic-81634471
+      quote: Beautiful
+      accessed: '2026-11-21'
+      locator: Original interview, programme or release metadata
+  performer:
+  - value: Qst5f86
+    references:
+    - source: music.apple.com-us-album-stoic-81634471
+      quote: Soul Nidus
+      accessed: '2026-11-21'
+      locator: Original interview, programme or release metadata
+  release date:
+  - value:
+      date: '2005-08-31'
+    references:
+    - source: music.apple.com-us-album-stoic-81634471
+      quote: '2005-08-31'
+      accessed: '2026-11-21'
+      locator: Original interview, programme or release metadata
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music/y2005/m10/d01/h21/mzi.qhhzogoz.tif/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Soul Nidus digital edition via Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-stoic-81634471
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music/y2005/m10/d01/h21/mzi.qhhzogoz.tif/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Original interview, programme or release metadata
+  listen link:
+  - value: https://music.apple.com/us/song/beautiful/81634453
+    references:
+    - source: music.apple.com-us-album-stoic-81634471
+      quote: https://music.apple.com/us/song/beautiful/81634453
+      accessed: '2026-11-21'
+      locator: Original interview, programme or release metadata
+  - value: https://open.spotify.com/track/0XBqBwxkHQwAx8jEXjophv
+    references:
+    - source: open.spotify.com-embed-album-5s9a4o9higzwxpaukhogn3
+      quote: spotify:track:0XBqBwxkHQwAx8jEXjophv
+      accessed: '2026-11-21'
+      locator: Original interview, programme or release metadata

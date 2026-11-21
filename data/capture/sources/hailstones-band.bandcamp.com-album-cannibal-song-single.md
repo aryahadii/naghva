@@ -12,3 +12,7 @@ status: processed
 > Cannibal Song (Single) | Hailstones
 
 Page title, read 2026-11-21.
+
+> released November 9, 2025
+
+Artist interview, biography or performance credits, read 2026-11-21.

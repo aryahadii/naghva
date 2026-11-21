@@ -85,12 +85,44 @@ references:
     quote: Inspired by the call of the collared dove
     accessed: 2026-11-21
     locator: Osley on writing the melody
+  toronto:
+    source: iranian-com-blurred-vision-silent-rain
+    quote: started playing together in 1996 and two years later they started the band
+    accessed: '2026-11-21'
+    locator: 2003 interview and recordings
+  founding:
+    source: iranian-com-blurred-vision-silent-rain
+    quote: Blurred Vision's debut album is entitled Silent Rain
+    accessed: '2026-11-21'
+    locator: 2003 interview and recordings
+  rain:
+    source: iranian-com-blurred-vision-silent-rain
+    quote: Each of the eight tracks on Silent Rain
+    accessed: '2026-11-21'
+    locator: 2003 interview and recordings
+  cuban:
+    source: iranian-com-blurred-vision-silent-rain
+    quote: recorded in collaboration with the Cuban band Valentin Y Dos Del Caribe
+    accessed: '2026-11-21'
+    locator: 2003 interview and recordings
+  rhythm:
+    source: iranian-com-blurred-vision-silent-rain
+    quote: Richard Moore, a classically trained percussionist
+    accessed: '2026-11-21'
+    locator: 2003 interview and recordings
+  sold:
+    source: iranian-com-blurred-vision-silent-rain
+    quote: available exclusively through the band's website
+    accessed: '2026-11-21'
+    locator: 2003 interview and recordings
 ---
 
-گروه راک Blurred Vision را دو برادر ایرانی، سپ و سول، در کانادا راه انداختند. در یکی از اجراهایشان، به نشانهٔ همراهی با اعتراض‌های ۱۳۸۸ ایران، ترجیع‌بند «Another Brick in the Wall» پینک فلوید را عوض کردند و خواندند «هی آیت‌الله، دست از سر این بچه‌ها بردار». سپ تعریف کرده که پیش از انتشار، ضبط را برای راجر واترز فرستادند. واترز از کارشان استقبال کرد و بابک پیامی برای ترانه ویدئویی ساخت که در فوریهٔ ۲۰۱۰ منتشر شد.[^brothers][^line][^green][^debut][^video][^year]
+سپ و سول آزلی، دو برادر ایرانی، در سال ۱۹۹۶ در تورنتو با هم شروع به نواختن کردند و دو سال بعد گروه راک Blurred Vision را تشکیل دادند. هنگام ضبط آلبوم «Silent Rain» ریچارد مور، نوازندهٔ سازهای کوبه‌ای، به آن‌ها پیوست. در سال ۲۰۰۳ گروه این آلبوم هشت‌قطعه‌ای را از طریق وب‌سایت خودش می‌فروخت. در قطعهٔ «Amistad de Fuego» گروه کوبایی «Valentin Y Dos Del Caribe» همراهشان نواخت.[^toronto][^founding][^rhythm][^rain][^sold][^cuban]
+
+در یکی از اجراهایشان، به نشانهٔ همراهی با اعتراض‌های ۱۳۸۸ ایران، ترجیع‌بند «Another Brick in the Wall» پینک فلوید را عوض کردند و خواندند «هی آیت‌الله، دست از سر این بچه‌ها بردار». سپ تعریف کرده که پیش از انتشار، ضبط را برای راجر واترز فرستادند. واترز از کارشان استقبال کرد و بابک پیامی برای ترانه ویدئویی ساخت که در فوریهٔ ۲۰۱۰ منتشر شد.[^brothers][^line][^green][^debut][^video][^year]
 
 ## از ویدئو تا گروه سه‌نفره
 
-دو برادر هنوز نوازندهٔ درامز نداشتند. تری براون، تهیه‌کنندهٔ موسیقی، آن‌ها را با بن رایلی آشنا کرد. رایلی پشت درامز نشست، سپ خواند و گیتار زد و سول باس نواخت. در سال ۲۰۱۲ آلبوم کوتاه شش‌قطعه‌ای «Democracy» را با برچسب موسیقی خودشان منتشر کردند.[^early] این سه نفر آلبوم «Organized Insanity» را ضبط کردند که شرکت چری رد در سال ۲۰۱۵ منتشر کرد. چهار ترانهٔ آلبوم، از جمله «The Keeper» و «Promise»، برای فیلم «Manhattan Undying» دوباره میکس شدند. در آلبوم موسیقی فیلم می‌توان قطعه‌هایی را هم شنید که گروه برای فیلم نوشته بود و به نسخهٔ نهایی راه پیدا نکردند.[^ben][^trio][^deb][^sound][^songs][^bonus]
+دو برادر برای ترکیب جدید گروه به نوازندهٔ درامز نیاز داشتند. تری براون، تهیه‌کنندهٔ موسیقی، آن‌ها را با بن رایلی آشنا کرد. رایلی پشت درامز نشست، سپ خواند و گیتار زد و سول باس نواخت. در سال ۲۰۱۲ آلبوم کوتاه شش‌قطعه‌ای «Democracy» را با برچسب موسیقی خودشان منتشر کردند.[^early] این سه نفر آلبوم «Organized Insanity» را ضبط کردند که شرکت چری رد در سال ۲۰۱۵ منتشر کرد. چهار ترانهٔ آلبوم، از جمله «The Keeper» و «Promise»، برای فیلم «Manhattan Undying» دوباره میکس شدند. در آلبوم موسیقی فیلم می‌توان قطعه‌هایی را هم شنید که گروه برای فیلم نوشته بود و به نسخهٔ نهایی راه پیدا نکردند.[^ben][^trio][^deb][^sound][^songs][^bonus]
 
 در سال ۲۰۱۸ بنتلی لوی نوازندهٔ باس گروه شد و جیک بردفورد شارپ جای رایلی را پشت درامز گرفت. سپ ملودی تک‌آهنگ «Magdalena» را از آواز یک قمری گرفت.[^dove] دو سال بعد، گروه در کنسرت خیریهٔ «Dear John» به نفع کودکان جنگ‌زده، خوانندگان را در اجرای ترانه‌هایی از جان لنون و بیتلز همراهی کرد. سپ در سال ۲۰۲۳ به کار گروه پایان داد و از آن پس آثارش را به نام خودش منتشر کرد.[^new][^benefit][^end]

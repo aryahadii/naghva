@@ -85,6 +85,31 @@ references:
     quote: Dear John (2020) – Sepp Osley featuring Nick Van Eede
     accessed: 2026-11-21
     locator: Original concert version
+  found:
+    source: bob-harris-2020.squarespace.com-bobs-events-3rd-annual-dear-john-concert-for-war-child-hosted-by-bob-harris
+    quote: founded the 'Dear John' Concert in aid of War Child UK
+    accessed: 2026-11-21
+    locator: Host programme or concert report
+  joint:
+    source: bob-harris-2020.squarespace.com-bobs-events-3rd-annual-dear-john-concert-for-war-child-hosted-by-bob-harris
+    quote: Mollie Marriott have organised and produced
+    accessed: 2026-11-21
+    locator: Host programme or concert report
+  bridge:
+    source: bob-harris-2020.squarespace.com-bobs-events-3rd-annual-dear-john-concert-for-war-child-hosted-by-bob-harris
+    quote: Under The Bridge in Chelsea
+    accessed: 2026-11-21
+    locator: Host programme or concert report
+  remote:
+    source: bob-harris-2020.squarespace.com-bobs-events-3rd-annual-dear-john-concert-for-war-child-hosted-by-bob-harris
+    quote: live performances and appearances from guest artists around the world
+    accessed: 2026-11-21
+    locator: Host programme or concert report
+  break:
+    source: www.musicistoblame.co.uk-2021-10-another-90-minutes-of-astral-projection.html
+    quote: lead break in the middle.
+    accessed: 2026-11-21
+    locator: Host programme or concert report
 ---
 
 سپ آزلی در سال‌های جنگ ایران و عراق در ایران به دنیا آمد و در کودکی همراه خانواده‌اش به کانادا رفت. اولین کنسرت راک زندگی‌اش را از پشت نرده‌های یک شهربازی در تورنتو دید. هفت یا هشت سال داشت و هنوز چندان انگلیسی نمی‌دانست. سال‌ها بعد، برادر بزرگ‌ترش به او گفت گروهی که آن روز برای شنیدنش ایستاده بودند INXS بوده است.[^birth][^move][^rails][^inxs]
@@ -93,4 +118,4 @@ references:
 
 ## دو اجرا از «Dear John»
 
-آزلی در کنسرت خیریهٔ سال ۲۰۲۰ به نفع کودکان جنگ‌زده، «Dear John» را با ون اید خواند. در نسخهٔ ۲۰۲۵ پیتر فرامپتون گیتار زد، مالی مَریِت آواز خواند و جیک بردفورد شارپ برای کوارتت زهی تنظیم نوشت. هر دو اجرای «Dear John» در مجموعهٔ «Dear John (Collaborations)» در کنار ترانه‌هایی از لنون و بیتلز منتشر شدند. نسخه‌ای که آزلی از فروشگاه خودش عرضه کرد هفده قطعه دارد، چهار قطعه بیشتر از نسخهٔ پلتفرم‌های پخش.[^benefit][^nick][^solo][^strings][^count][^stream]
+آزلی در سال ۲۰۱۹ مجموعه‌کنسرت‌های «Dear John» را به نفع کودکان جنگ‌زده راه انداخت. در دومین دوره، در سال ۲۰۲۰، ترانهٔ هم‌نام کنسرت را با ون اید خواند.[^found][^nick] در سال ۲۰۲۱ آزلی و مَریِت برنامه‌ای تهیه کردند که اجراهای سالن «Under the Bridge» در محلهٔ چلسی لندن را کنار ضبط‌های مهمانانی از کشورهای دیگر می‌گذاشت. در اجرای «Jealous Guy» با صدای جو هارمن در لندن، آزلی تک‌نوازی گیتار میانهٔ ترانه را بر عهده داشت.[^joint][^bridge][^remote][^break] در نسخهٔ ۲۰۲۵ پیتر فرامپتون گیتار زد، مالی مَریِت آواز خواند و جیک بردفورد شارپ برای کوارتت زهی تنظیم نوشت. هر دو اجرای «Dear John» در مجموعهٔ «Dear John (Collaborations)» در کنار ترانه‌هایی از لنون و بیتلز منتشر شدند. نسخه‌ای که آزلی از فروشگاه خودش عرضه کرد هفده قطعه دارد، چهار قطعه بیشتر از نسخهٔ پلتفرم‌های پخش.[^benefit][^nick][^solo][^strings][^count][^stream]

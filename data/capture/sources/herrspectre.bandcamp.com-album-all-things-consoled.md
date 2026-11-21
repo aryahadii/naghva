@@ -24,3 +24,11 @@ Release artwork, read 2026-11-21.
 > released September 20, 2025
 
 Published date, read 2026-11-21.
+
+> Beginning
+
+Artist interview, biography or performance credits, read 2026-11-21.
+
+> Fakeout
+
+Artist interview, biography or performance credits, read 2026-11-21.

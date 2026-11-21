@@ -1,0 +1,21 @@
+id: Q95ytjm
+type: person
+statements:
+  name:
+  - value:
+      text: Jill Shannon
+      language: en
+    references:
+    - source: we-are-hailstones.com-about
+      quote: Jill Shannon
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  member of:
+  - value: Q2e2223
+    references:
+    - source: we-are-hailstones.com-about
+      quote: Jill Shannon
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: bass

@@ -50,6 +50,12 @@ statements:
       quote: Stream Steady Dive by photomatband | Listen online for free on SoundCloud
       accessed: '2026-11-21'
       locator: Page title
+  - value: https://open.spotify.com/track/4SMqVESxWNAVhqvtuq0ArT
+    references:
+    - source: open.spotify.com-track-4smqvesxwnavhqvtuq0art
+      quote: Steady Dive - song and lyrics by Photomat | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music/v4/26/d0/2e/26d02e28-0b32-6009-fb54-a8165c1ccb63/cover.jpg/600x600bb.webp
     references:

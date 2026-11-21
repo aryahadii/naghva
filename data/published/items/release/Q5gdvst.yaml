@@ -25,11 +25,47 @@ statements:
       locator: Artist interview, biography or performance credits
     qualifiers:
       role: vocals
+  - value: Qvpd8m3
+    references:
+    - source: we-are-hailstones.com-about
+      quote: Mehraun Ehsani
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: guitar
+  - value: Q95ytjm
+    references:
+    - source: we-are-hailstones.com-about
+      quote: Jill Shannon
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: bass
+  - value: Qjd5bhp
+    references:
+    - source: we-are-hailstones.com-about
+      quote: Matt Doherty
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: drums
   listen link:
   - value: https://hailstones-band.bandcamp.com/track/an-angel-named-georgia
     references:
     - source: hailstones-band.bandcamp.com-track-an-angel-named-georgia
       quote: An Angel Named Georgia | Hailstones
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/6809045844
+    references:
+    - source: music.apple.com-us-song-6809045844
+      quote: ‎An Angel Named Georgia - Song with Lyrics by Hailstones - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/6YTpYu64hxnraOOUI35ByS
+    references:
+    - source: open.spotify.com-track-6ytpyu64hxnraooui35bys
+      quote: An Angel Named Georgia - song and lyrics by Hailstones | Spotify
       accessed: '2026-11-21'
       locator: Page title
   cover art:
@@ -51,3 +87,18 @@ statements:
       quote: released September 25, 2026
       accessed: '2026-11-21'
       locator: Published date
+  contributor:
+  - value: Qtwwfrd
+    references:
+    - &id001
+      source: hailstones-band.bandcamp.com-album-the-weariness-of-hope
+      quote: Additional mixing and mastering by Shahin Entezami
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: mixing engineer
+  - value: Qtwwfrd
+    references:
+    - *id001
+    qualifiers:
+      role: mastering engineer
