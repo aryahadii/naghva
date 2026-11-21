@@ -30,14 +30,30 @@ references:
     quote: |-
       Pop - Released by Shahryar Masrour on May 21, 2016
     accessed: '2026-10-19'
+  death:
+    source: t.me-musicema-17333
+    quote: |-
+      در سن ۶۱ سالگی
+      در بیمارستان شهدای تجریش درگذشت
+    accessed: '2026-11-21'
+  death-date:
+    source: t.me-musicema-17333
+    quote: |-
+      شهریار مسرور
+      امروز صبح
+      ۱۵ بهمن ۱۴۰۳
+    accessed: '2026-11-21'
+  singer:
+    source: www.musicema.com-node-388653
+    quote: |-
+      بلوزخوانِ کهنه کار
+    accessed: '2026-11-21'
 ---
 
-Shahryar Masrour's work brings blues and country influences into Iranian music. A 2009 RFE/RL article describes these influences through the album it calls *Sometimes*.[^music]
+Shahryar Masrour was an Iranian singer and guitarist who brought blues and country into his recordings. He made music for film and played on [Mohsen Namjoo](/en/mohsen-namjoo-t6w/)’s album [*Toranj*](/en/mohsen-namjoo-t6w/#toranj-b8x). He died in 2025 at the age of 61.[^singer][^music][^namjoo][^death][^death-date]
 
-## Guitar on Toranj
+## Film music and Toranj
 
-In a 2007 interview, Mohsen Namjoo recalled meeting Masrour while preparing the *Toranj* CD and credited him with playing guitar on “زلف بر باد.”[^namjoo]
+In the early 2000s Masrour made a cassette of music for the filmmaker Davoudnejad’s *Behesht az An-e To*. Namjoo recalled meeting him in the studio in 2007 while preparing *Toranj* for release. Masrour played guitar on the final recording of “Zolf bar Bad.”[^namjoo]
 
-## Some Times and The Habit
-
-Apple Music lists *[Some Times](#some-times-2qj)* with seven songs and a date of 2007, while the RFE/RL account refers to a 2008 album. The original release date remains uncertain.[^catalog][^music] The recording copyright for his later single *[The Habit](#the-habit-as3)* is held in Masrour’s name and dated 2016; Qobuz also identifies him as its publisher.[^habit][^self]
+On his own seven-song album [*Some Times*](#some-times-2qj), released in 2007 or 2008, Masrour drew on blues and country. In 2016 he put out the single [“The Habit”](#the-habit-as3) himself.[^music][^catalog][^habit][^self]
