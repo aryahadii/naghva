@@ -169,11 +169,6 @@ references:
     quote: |-
       Shahin Najafi is an Iranian rapper who has lived in Germany since 2005. His songs are known to be critical of socio-political developments in his home country. His latest song, "Naghi", which was named after the tenth imam in Shia Islam, has caused a stir in Iran. The lyrics call on him in a sarcastic and almost obscene way to come back to life and end the catastrophic status quo in Iran. Iran's 92-year-old Grand Ayatollah Safi Golpaygani said: "If the song contains any insults or indecency towards Imam Naghi, then it is blasphemy, and God knows what to do." The Iranian press interpreted the statement as a fatwa against Najafi. But a theologian in Tehran on Thursday, 10 May, put the comment into context: "The grand ayatollah has not issued a fatwa. He was answering a question about the defamation of a Shia saint ... "
     accessed: '2026-11-09'
-  makarem:
-    source: en.wikipedia.org-wiki-shahin_najafi-90d9d4902367
-    quote: |-
-      Grand Ayatollah Naser Makarem-Shirazi, a "source of emulation" for many Shia Muslims, also issued a fatwa declaring Najafi guilty of apostasy.
-    accessed: '2026-11-09'
   rahenikan:
     source: en.wikipedia.org-wiki-shahin_najafi-90d9d4902367
     quote: |-
@@ -245,12 +240,6 @@ references:
       December 8, 2013
       1 song, 4 minutes
       ℗ 2013 Shahin Najafi
-    accessed: '2026-11-06'
-  shaabanarrangement:
-    source: music.apple.com-us-album-shaaban-single-777531580
-    quote: |-
-      LYRIC&MUSIC: SHAHIN NAJAFI
-      ARRANGEMENT: MAJID KAZEMI
     accessed: '2026-11-06'
   character:
     source: beehy.pe-shahin-najafi-shaaban-iran-2fcf3efd80d3
@@ -536,59 +525,14 @@ references:
       8 songs, 58 minutes
       ℗ 2024 The Shah
     accessed: '2026-11-06'
-  fereydoon:
-    source: music.apple.com-us-album-fereydoon-feat-shahin-najafi-single-1840084663
+  fa-born:
+    source: fa.wikipedia.org-wiki-shahin-najafi
     quote: |-
-      September 7, 2025
-    accessed: '2026-11-09'
-  fereydoon-name:
-    source: music.apple.com-us-album-fereydoon-feat-shahin-najafi-single-1840084663
-    quote: |-
-      Fereydoon (feat. Shahin Najafi) - Single - Album by Ramin Sokouty - Apple Music
-    accessed: '2026-11-09'
-  javid:
-    source: music.apple.com-us-album-javid-shah-single-1871909919
-    quote: |-
-      January 22, 2026
-    accessed: '2026-11-09'
-  javid-name:
-    source: music.apple.com-us-album-javid-shah-single-1871909919
-    quote: |-
-      Javid Shah - Single - Album by Shahin Najafi & Ramin Sokouty - Apple Music
-    accessed: '2026-11-09'
-  shahrah:
-    source: music.apple.com-us-album-shahrah-single-6768099026
-    quote: |-
-      May 15, 2026
-    accessed: '2026-11-09'
-  shahrah-name:
-    source: music.apple.com-us-album-shahrah-single-6768099026
-    quote: |-
-      Shahrah - Single - Album by Ebi & Shahin Najafi - Apple Music
-    accessed: '2026-11-09'
-  dashi:
-    source: music.apple.com-us-album-dashi-single-6795318995
-    quote: |-
-      July 31, 2026
-    accessed: '2026-11-09'
-  dashi-name:
-    source: music.apple.com-us-album-dashi-single-6795318995
-    quote: |-
-      Dashi - Single - Album by Shahin Najafi & Erfan - Apple Music
-    accessed: '2026-11-09'
-  grave:
-    source: music.apple.com-us-album-grave-single-6800676266
-    quote: |-
-      August 16, 2026
-    accessed: '2026-11-09'
-  grave-name:
-    source: music.apple.com-us-album-grave-single-6800676266
-    quote: |-
-      Grave - Single - Album by Shahin Najafi - Apple Music
+      مرتضی نجفی‌پور مقدّم در ۱۹ شهریور ۱۳۵۹ در بندر انزلی زاده شد. او آخرین فرزند خانواده از بین هشت فرزند است.
     accessed: '2026-11-09'
 ---
 
-Shahin Najafi, born Morteza Najafipour Moghadam in Bandar-e Anzali in 1980, is an Iranian singer, songwriter, guitarist and poet.[^name-wk][^beginnings] He left Iran for Germany in 2004 or 2005.[^ssrc-early][^germany] His music has ranged from rap and rock to Gilaki jazz fusion and ensemble composition, and he also makes electronic music as The Shah.[^meta][^sacred][^electronic] His 2012 song [“Naghi”](#naghi-gez) led a grand ayatollah to declare him an apostate and a website to offer $100,000 for his killing, and he went into hiding under German police protection.[^ssrc-judgment][^ssrc-apostate]
+Shahin Najafi, born Morteza Najafipour Moghadam in Bandar-e Anzali in 1980, is an Iranian singer, songwriter, guitarist and poet.[^name-wk][^beginnings][^fa-born] He left Iran for Germany in 2004 or 2005.[^ssrc-early][^germany] His music has ranged from rap and rock to Gilaki jazz fusion and ensemble composition, and he also makes electronic music as The Shah.[^meta][^sacred][^electronic] His 2012 song [“Naghi”](#naghi-gez) drew death threats. After a website offered $100,000 for his killing, he went into hiding under German police protection.[^ssrc-judgment][^threatreport]
 
 ## Early life
 
@@ -606,13 +550,13 @@ After the 2009 election protests he released a single, “Neda,” in July 2009,
 
 *[Hich Hich Hich](#hich-hich-hich-99f)* came out in February 2012.[^hich][^hich-name] Fatemeh Ekhtesari, one of the poets who worked on it, was later sentenced in Iran to eleven and a half years in prison and 99 lashes, a sentence Persian Wikipedia links to her work with him.[^ekhtesari] He released “Naghi” the same year. It grew out of a satirical Facebook meme that attributed made-up sayings to Ali al-Naqi, the tenth Shia imam. Although no fan of hip-hop culture, he chose rap as the “simple, direct and strong musical language” of the piece. Its verses mock popular pieties and do not spare secular activists in exile either.[^ssrc-songs][^naghiorigin] He said the imam was only a pretext. An earlier song of his had been about the twelfth imam, who is meant to return and redeem the world; in this one the narrator, disappointed in him, asks the tenth imam to save society.[^qa-excuse][^qa-pretext]
 
-In April 2012 Grand Ayatollah Lotfollah Safi Golpaygani issued a judgment against him, and the website Shia-Online offered a $100,000 bounty for his killing.[^ssrc-judgment][^threatreport] Safi had said that if the song insulted the imam, it was blasphemy. The Iranian press read this as a fatwa, though a theologian in Tehran said no fatwa had been issued.[^qa-intro] Safi declared Najafi an apostate, a crime that many classical jurists held to be punishable by death, and Grand Ayatollah Naser Makarem-Shirazi also declared him guilty of apostasy.[^ssrc-apostate][^makarem] In June forty authors of the religious publisher Rah-e Nikan promised their royalties to whoever killed him.[^rahenikan] Najafi went into hiding under the protection of the German police.[^ssrc-judgment] He denied meaning to insult anyone. He said he had expected political consequences but had not thought he would anger the government so much, and that it was now presenting the song as an attack on believers. “We will continue with our work,” he said.[^naghi][^qa-ramifications][^qa-continue]
+Grand Ayatollah Lotfollah Safi Golpaygani said that insulting the imam would be blasphemy. Iranian newspapers understood his answer as a fatwa against Najafi, while a theologian in Tehran said it was a response to a general question. A later account interpreted it as a declaration of apostasy.[^qa-intro][^ssrc-apostate] The website Shia-Online offered $100,000 for Najafi’s killing.[^threatreport] In June forty authors of the religious publisher Rah-e Nikan promised their royalties to whoever killed him.[^rahenikan] Najafi went into hiding under the protection of the German police.[^ssrc-judgment] He denied meaning to insult anyone. He said he had expected political consequences but had not thought he would anger the government so much, and that it was now presenting the song as an attack on believers. “We will continue with our work,” he said.[^naghi][^qa-ramifications][^qa-continue]
 
 That autumn he toured the United States, quoting Nietzsche and Adorno to English-speaking audiences. The tour included a talk at the University of California, Berkeley on 30 September and concerts there on 16 November and at UC San Diego on 18 November.[^ssrc-tour][^ustour]
 
 ## Albums and songs
 
-*[Tramadol](#tramadol-3t2)* followed in October 2013, the EP *[1414](#1414-7zh)* in April 2014 and *[Sade](#sade-f24)* in May 2015.[^tramadol][^tramadol-name][^ep1414][^ep1414-name][^sade][^sade-name] For “[Sha'aban](#shaaban-5p5)”, released in 2013 and arranged by Majid Kazemi, he created an imagined worker. He explained that Sha'aban was not an actual individual but stood for the poverty of workers in Iran and elsewhere.[^shaabancredits][^shaabanarrangement][^character][^subject]
+*[Tramadol](#tramadol-3t2)* followed in October 2013, the EP *[1414](#1414-7zh)* in April 2014 and *[Sade](#sade-f24)* in May 2015.[^tramadol][^tramadol-name][^ep1414][^ep1414-name][^sade][^sade-name] For “[Sha'aban](#shaaban-5p5)”, released in 2013, he created an imagined worker. He explained that Sha'aban was not an actual individual but stood for the poverty of workers in Iran and elsewhere.[^shaabancredits][^character][^subject]
 
 In 2017, when he released *[Radikal](#radikal-gkk)* and “[Blue](#blue-z27)”, Najafi described a shift in his priorities: he wanted music to move beyond spoken language, with words no longer taking precedence. Gilaki and flamenco had interested him since his early work in Iran. He still heard lullabies in Gilaki and was concerned about the language’s disappearance. In “Blue” he brought together his own text, Hafez and Quranic material. He said he wanted to keep changing, and felt that controversy around his social and political subjects had obscured his experiments with form.[^radikaldate][^bluedate][^form][^gilaki][^lullaby][^blue][^change]
 
@@ -630,4 +574,4 @@ He kept releasing singles, among them “[Aman](#aman-sys)” with [Hamed Nikpay
 
 During the protests that followed the death of Mahsa Amini, he released “[Hashtadia](#hashtadia-yq2)” (“The 80s”), named for what Iranians call Generation Z. A critic wrote that his words let loose “like machine gun fire,” using a flood of Persian curses to say how the Islamic Republic made him feel.[^hashtadia-date][^hashtadia-date-name][^hashtadia] “[Sobhe Entegham](#sobhe-entegham-twr)” followed that December.[^sobhe][^sobhe-name] In June 2023 he gave a rare Los Angeles performance at California Plaza.[^gp-concert][^gp-rare]
 
-By 2024 he was releasing electronic music under the name The Shah, describing an approach that combined Persian sounds with Middle Eastern and Afrobeat influences. That September he released *[Semen](#semen-4bz)* with Hand.[^electronic][^semen][^semendate] He went on recording with other singers: “[Fereydoon](#fereydoon-mp3)” and “[Javid Shah](#javid-shah-jyc)” with Ramin Sokouty, “[Shahrah](#shahrah-zbe)” with Ebi in May 2026 and “[Dashi](#dashi-7r4)” with Erfan in July 2026. His single “[Grave](#grave-jzz)” came out in August 2026.[^fereydoon][^fereydoon-name][^javid][^javid-name][^shahrah][^shahrah-name][^dashi][^dashi-name][^grave][^grave-name]
+By 2024 he was releasing electronic music under the name The Shah, describing an approach that combined Persian sounds with Middle Eastern and Afrobeat influences. That September he released *[Semen](#semen-4bz)* with Hand.[^electronic][^semen][^semendate]
