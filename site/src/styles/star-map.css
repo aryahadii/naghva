@@ -78,3 +78,5 @@ html[lang=fa] .atlas-intro h1 { font-weight: 700; line-height: 1.4; letter-spaci
 .sky-selection-link bdi { overflow:hidden; text-overflow:ellipsis; white-space:nowrap }
 .sky-selection-link span:last-child { color:var(--gold) }
 @media(max-width:380px) { .sky-legend { max-width:55% } }
+.sky-comet { position:absolute; left:0; top:0; pointer-events:none; opacity:0; transform-origin:100% 50%; border-radius:999px; background:linear-gradient(90deg,transparent,currentColor) }
+.sky-comet::after { content:''; position:absolute; right:0; top:50%; width:2px; height:2px; transform:translateY(-50%); border-radius:50%; background:#f5fff8; box-shadow:0 0 3px currentColor }

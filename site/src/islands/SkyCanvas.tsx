@@ -1,6 +1,7 @@
 import { useEffect, useRef } from 'preact/hooks';
 import type { Strings } from '../lib/i18n';
 import type { Lang } from '../lib/record';
+import { skyComet } from '../lib/sky-comet';
 import { coastStep, gestureVelocity } from '../lib/sky-motion';
 import type { SkyStar } from '../lib/star-map';
 
@@ -65,7 +66,7 @@ function hollowHalo(colour: string) {
 }
 
 /** The camera lives in map coordinates, so resizing never changes which region is in view. */
-function makeSky(canvas: HTMLCanvasElement, field: HTMLCanvasElement, stars: SkyStar[], lang: Lang, choose: (id: string) => void) {
+function makeSky(canvas: HTMLCanvasElement, field: HTMLCanvasElement, trail: HTMLElement, stars: SkyStar[], lang: Lang, choose: (id: string) => void) {
   const ctx = canvas.getContext('2d');
   if (!ctx) return;
   const lookup = new Map(stars.map((s, i) => [s.id, i]));
@@ -148,6 +149,7 @@ function makeSky(canvas: HTMLCanvasElement, field: HTMLCanvasElement, stars: Sky
     if (!frame) frame = requestAnimationFrame(draw);
   }
   function zoom(factor: number, at: Point = { x: w / 2, y: h / 2 }) {
+    comet.interrupt();
     const next = clamp(scale * factor, 1, MAX_ZOOM);
     centre.x += ((at.x - w / 2) / spanX()) * (1 / scale - 1 / next);
     centre.y += ((at.y - h / 2) / spanY()) * (1 / scale - 1 / next);
@@ -164,6 +166,7 @@ function makeSky(canvas: HTMLCanvasElement, field: HTMLCanvasElement, stars: Sky
   let gestureAnchor: Point = { x: 0, y: 0 };
 
   function pan(dx: number, dy: number) {
+    comet.interrupt();
     centre.x -= dx / (spanX() * scale);
     centre.y -= dy / (spanY() * scale);
     constrain();
@@ -214,6 +217,7 @@ function makeSky(canvas: HTMLCanvasElement, field: HTMLCanvasElement, stars: Sky
     if (Math.hypot(motion.x, motion.y) < .012 && Math.abs(motion.z) < .00003) motion = null;
   }
   function fit(animated = false) {
+    comet.interrupt();
     hovered = -1;
     if (animated) { easeZoom(1, undefined, true); return; }
     motion = null;
@@ -222,6 +226,7 @@ function makeSky(canvas: HTMLCanvasElement, field: HTMLCanvasElement, stars: Sky
     schedule();
   }
   function select(id: string | null) {
+    comet.interrupt();
     motion = null;
     selected = id === null ? -1 : (lookup.get(id) ?? -1);
     hovered = -1;
@@ -267,6 +272,29 @@ function makeSky(canvas: HTMLCanvasElement, field: HTMLCanvasElement, stars: Sky
   const overscan = 80;
   let cache: { centre: Point; scale: number; selected: number; hovered: number } | null = null;
 
+  // Choose only from edges actually painted at this zoom. Pick at launch time,
+  // so a resting view has no animation loop and camera movement cannot leave a stale trail.
+  const paintedEdges: [number, number][] = [];
+  let previousEdge = '';
+  const comet = skyComet(trail, () => {
+    if (motion || pointers.size || frame) return null;
+    const inside = (p: Point) => p.x >= 0 && p.y >= 0 && p.x <= w && p.y <= h;
+    const visible = paintedEdges.filter(([i, j]) =>
+      inside(points[i]) && inside(points[j]) && distance(points[i], points[j]) >= 12);
+    const highlighted = visible.filter(([i, j]) => i === selected || j === selected);
+    const pool = highlighted.length && Math.random() < .75 ? highlighted : visible;
+    const key = ([i,j]: [number, number]) => i < j ? i + '/' + j : j + '/' + i;
+    const other = pool.filter(edge => key(edge) !== previousEdge);
+    const choices = other.length ? other : pool;
+    if (!choices.length) return null;
+    const edge = choices[Math.floor(Math.random() * choices.length)];
+    previousEdge = key(edge);
+    const [i, j] = Math.random() < .5 ? edge : [edge[1], edge[0]];
+    const strong = i === selected || j === selected;
+    const warm = strong ? stars[selected].kind === 'artist' : stars[j].kind === 'artist';
+    return { from: points[i], to: points[j], highlighted: strong, colour: warm ? '#ffe1a6' : '#abfff3' };
+  });
+
   function paintField(ctx: CanvasRenderingContext2D, active: Set<number>) {
     if (scale < 2.5) {
       ctx.save();
@@ -283,8 +311,9 @@ function makeSky(canvas: HTMLCanvasElement, field: HTMLCanvasElement, stars: Sky
       }
       ctx.restore();
     }
+    paintedEdges.length = 0;
     function edge(i: number, j: number) {
-      if (!ctx) return;
+      paintedEdges.push([i, j]);
       ctx.moveTo(points[i].x, points[i].y);
       ctx.lineTo(points[j].x, points[j].y);
     }
@@ -431,6 +460,7 @@ function makeSky(canvas: HTMLCanvasElement, field: HTMLCanvasElement, stars: Sky
   }
 
   function resize() {
+    comet.interrupt();
     const box = canvas.getBoundingClientRect();
     w = box.width;
     h = box.height;
@@ -624,6 +654,7 @@ function makeSky(canvas: HTMLCanvasElement, field: HTMLCanvasElement, stars: Sky
     select,
     dispose() {
       for (const event of gestureEvents) canvas.removeEventListener(event, safariPinch);
+      comet.dispose();
       observer.disconnect();
       cancelAnimationFrame(frame);
       document.fonts.removeEventListener('loadingdone', schedule);
@@ -642,12 +673,13 @@ function makeSky(canvas: HTMLCanvasElement, field: HTMLCanvasElement, stars: Sky
 export default function SkyCanvas({ stars, selected, onSelect, lang, words, resetKey }: Props) {
   const canvas = useRef<HTMLCanvasElement>(null);
   const field = useRef<HTMLCanvasElement>(null);
+  const trail = useRef<HTMLSpanElement>(null);
   const sky = useRef<ReturnType<typeof makeSky>>(undefined);
   const choose = useRef(onSelect);
   choose.current = onSelect;
   useEffect(() => {
-    if (!canvas.current || !field.current) return;
-    sky.current = makeSky(canvas.current, field.current, stars, lang, (id) => choose.current(id));
+    if (!canvas.current || !field.current || !trail.current) return;
+    sky.current = makeSky(canvas.current, field.current, trail.current, stars, lang, (id) => choose.current(id));
     return () => {
       sky.current?.dispose();
       sky.current = undefined;
@@ -663,6 +695,7 @@ export default function SkyCanvas({ stars, selected, onSelect, lang, words, rese
   return (
     <div class="sky-viewport">
       <canvas ref={field} class="sky-field" aria-hidden="true" />
+      <span ref={trail} class="sky-comet" aria-hidden="true" />
       <canvas
         ref={canvas}
         class="sky-canvas"
