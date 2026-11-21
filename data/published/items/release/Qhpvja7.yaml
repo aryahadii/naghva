@@ -1,0 +1,41 @@
+id: Qhpvja7
+type: release
+statements:
+  name:
+  - value:
+      text: A4.K/she آچار کشی
+      language: en
+    references:
+    - &id001
+      source: tarxun.bandcamp.com-album-a4-k-she
+      quote: A4.K/she آچار کشی
+      accessed: '2026-11-21'
+  performer:
+  - value: Q55bvv7
+    references:
+    - &id002
+      source: tarxun.bandcamp.com-album-a4-k-she
+      quote: tarxun
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2024-04-19'
+    references:
+    - source: tarxun.bandcamp.com-album-a4-k-she
+      quote: 19 Apr 2024 00:00:00 GMT
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://tarxun.bandcamp.com/album/a4-k-she
+    references:
+    - *id001
+    - *id002
+  cover art:
+  - value: https://f4.bcbits.com/img/a0285530315_10.jpg
+    references:
+    - source: tarxun.bandcamp.com-album-a4-k-she
+      quote: https://f4.bcbits.com/img/a0285530315_10.jpg
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: tarxun, Bandcamp
+        language: en
