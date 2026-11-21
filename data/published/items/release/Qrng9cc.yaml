@@ -1,0 +1,43 @@
+id: Qrng9cc
+type: release
+statements:
+  name:
+  - value:
+      text: Grimace
+      language: en
+    references:
+    - source: 9tantiope.bandcamp.com-album-grimace
+      quote: Grimace
+      accessed: '2026-11-21'
+  performer:
+  - value: Qyv32ms
+    references:
+    - source: 9tantiope.bandcamp.com-album-grimace
+      quote: 9T Antiope
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2019-09-09'
+    references:
+    - source: 9tantiope.bandcamp.com-album-grimace
+      quote: 09 Sep 2019 00:00:00 GMT
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://9tantiope.bandcamp.com/album/grimace
+    references:
+    - source: 9tantiope.bandcamp.com-album-grimace
+      quote: Grimace
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://f4.bcbits.com/img/a1346749402_10.jpg
+    references:
+    - source: 9tantiope.bandcamp.com-album-grimace
+      quote: https://f4.bcbits.com/img/a1346749402_10.jpg
+      accessed: '2026-11-21'
+    - source: 9tantiope.bandcamp.com-album-grimace
+      quote: Artwork by øjeRum
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: øjeRum
+        language: en
