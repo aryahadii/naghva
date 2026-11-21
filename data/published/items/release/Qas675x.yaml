@@ -1,0 +1,40 @@
+id: Qas675x
+type: release
+statements:
+  name:
+  - value:
+      text: Five
+      language: en
+    references:
+    - source: music.apple.com-us-album-546104116
+      quote: Listen to Five by Farzad Golpayegani
+      accessed: '2026-11-21'
+  performer:
+  - value: Qhxtgjj
+    references:
+    - source: music.apple.com-us-album-546104116
+      quote: Listen to Five by Farzad Golpayegani
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: 2011-06
+    references:
+    - source: www.farzadonline.com-music-bcae77017495
+      quote: Five released in June 2011.
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://music.apple.com/us/album/five/546104116
+    references:
+    - source: music.apple.com-us-album-546104116
+      quote: Listen to Five by Farzad Golpayegani
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music/v4/14/6b/6e/146b6e82-935c-4257-4da0-67aa4088ea59/881034797568.jpg/600x600bb.webp
+    references:
+    - source: music.apple.com-us-album-546104116
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music/v4/14/6b/6e/146b6e82-935c-4257-4da0-67aa4088ea59/881034797568.jpg/600x600bb.webp
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en
