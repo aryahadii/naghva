@@ -15,11 +15,6 @@ references:
     quote: |-
       Originally released on Somehow Recordings in January of 2012, this second edition of "Land" has been remastered and is co-released with "Land Remixes".
     accessed: '2026-10-19'
-  date:
-    source: inneroceanrecords.bandcamp.com-album-porya-hatami-land-47c8602b066c
-    quote: |-
-      released July 30, 2013
-    accessed: '2026-10-19'
   credit:
     source: inneroceanrecords.bandcamp.com-album-porya-hatami-land-47c8602b066c
     quote: |-
@@ -30,12 +25,42 @@ references:
     quote: |-
       In 2014, Hatami started working with Berlin-based Uwe Zahn (Arovane), and so far, they released 6 albums together.
     accessed: '2026-10-19'
+  patch:
+    source: lineimprint.bandcamp.com-album-monads
+    quote: |-
+      The pieces on monads are single layered synth patches manipulated and recorded in real time.
+    accessed: '2026-11-21'
+  sanandaj:
+    source: lineimprint.bandcamp.com-album-monads
+    quote: |-
+      all sounds created by Porya Hatami 2014-2015 in Sanandaj.
+    accessed: '2026-11-21'
+  monads-date:
+    source: lineimprint.bandcamp.com-album-monads
+    quote: |-
+      07 Apr 2017 00:00:00 GMT
+    accessed: '2026-11-21'
+  both:
+    source: timereleasedsound.bandcamp.com-album-kaziwa
+    quote: |-
+      All tracks written and produced by Porya Hatami and Uwe Zahn - Iran / Germany 2016
+    accessed: '2026-11-21'
+  kaziwa:
+    source: timereleasedsound.bandcamp.com-album-kaziwa
+    quote: |-
+      Kaziwa
+    accessed: '2026-11-21'
+  kaziwa-date:
+    source: timereleasedsound.bandcamp.com-album-kaziwa
+    quote: |-
+      31 Jul 2016 00:00:00 GMT
+    accessed: '2026-11-21'
 ---
 
-Porya Hatami، زادهٔ ۱۹۸۱، هنرمند تجربی صدا و ساکن سنندج است. در آهنگسازی او، صداهای محیطی و ضبط میدانی در کنار منابع آکوستیک و الکترونیکِ پردازش‌شده قرار می‌گیرند.[^bio][^practice]
+پوریا حاتمی، زادهٔ ۱۹۸۱، هنرمند تجربی صدا و ساکن سنندج است. در بعضی قطعه‌ها صدای محیط را ضبط می‌کند و با صداهایی که به روش الکترونیک می‌سازد یا تغییر می‌دهد درمی‌آمیزد. گاهی هم فقط با سینتی‌سایزر کار می‌کند و هنگام ضبط به صدای آن شکل می‌دهد.[^bio][^practice][^patch][^sanandaj]
 
-## Land و همکاری‌ها
+## از «Land» تا «Monads»
 
-بنا بر توضیح همراه *Land*، این اثر نخست در ژانویهٔ ۲۰۱۲ توسط Somehow Recordings منتشر شد. Inner Ocean نسخهٔ دوم آن را با مسترینگ تازه و همراه با *Land Remixes* عرضه کرده و تاریخ انتشار این نسخه را ۳۰ ژوئیهٔ ۲۰۱۳ نوشته است. Hatami تهیه‌کنندهٔ موسیقی این اثر است.[^land][^date][^credit]
+حاتمی آلبوم [«Land»](#land-bzx) را خودش تهیه کرد و ناشر آن، Somehow Recordings، در ژانویهٔ ۲۰۱۲ آن را منتشر کرد.[^land][^credit] دو سال بعد همکاری با اووه زان، موسیقی‌دان ساکن برلین با نام هنری Arovane، را آغاز کرد. آن‌ها همهٔ قطعات آلبوم مشترکشان [«Kaziwa»](#kaziwa-gtk) را با هم ساختند و تهیه کردند. آلبوم در مرداد ۱۳۹۵ منتشر شد.[^collab][^both][^kaziwa][^kaziwa-date]
 
-زندگی‌نامهٔ هنرمند آغاز همکاری او با Uwe Zahn، با نام Arovane، را سال ۲۰۱۴ می‌داند و از شش آلبوم مشترک در زمان نگارش همان متن یاد می‌کند.[^collab]
+حاتمی برای آلبوم [«Monads»](#monads-jhr) راه دیگری در پیش گرفت. در سال‌های ۲۰۱۴ و ۲۰۱۵ در سنندج برای هر قطعه تنها با یک تنظیم سینتی‌سایزر کار کرد و هم‌زمان با ضبط، صدای آن را تغییر داد. آلبوم در فروردین ۱۳۹۶ منتشر شد.[^patch][^sanandaj][^monads-date]
