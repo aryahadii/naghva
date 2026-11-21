@@ -1,0 +1,57 @@
+id: Q2zvfs5
+type: release
+statements:
+  name:
+  - value:
+      text: Colors for Being Quarantined
+      language: en
+    references:
+    - source: music.apple.com-us-album-colors-for-being-quarantined-feat-amen-feizabadi-1745240511-i-1745240512
+      quote: Colors for Being Quarantined
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  performer:
+  - value: Qpdnn4t
+    references:
+    - source: music.apple.com-us-album-colors-for-being-quarantined-feat-amen-feizabadi-1745240511-i-1745240512
+      quote: ‎Colors for Being Quarantined (feat. Amen Feizabadi) - Song with Lyrics by Ankido Darash - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qd5zat9
+    references:
+    - source: music.apple.com-us-album-colors-for-being-quarantined-feat-amen-feizabadi-1745240511-i-1745240512
+      quote: ‎Colors for Being Quarantined (feat. Amen Feizabadi) - Song with Lyrics by Ankido Darash - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://music.apple.com/us/album/colors-for-being-quarantined-feat-amen-feizabadi/1745240511?i=1745240512
+    references:
+    - source: music.apple.com-us-album-colors-for-being-quarantined-feat-amen-feizabadi-1745240511-i-1745240512
+      quote: ‎Colors for Being Quarantined (feat. Amen Feizabadi) - Song with Lyrics by Ankido Darash - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/1ol1ndxc2eezDXfeufjOsu
+    references:
+    - source: open.spotify.com-track-1ol1ndxc2eezdxfeufjosu
+      quote: Colors for Being Quarantined - song and lyrics by Ankido Darash, Amen Feizabadi | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2024-05-05'
+    references:
+    - source: music.apple.com-us-album-colors-for-being-quarantined-feat-amen-feizabadi-ep-1745240511
+      quote: May 5, 2024
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b7/bb/f0/b7bbf001-cfad-bb00-f9b9-d36a76210ec6/artwork.jpg/632x632bb.webp
+    references:
+    - source: music.apple.com-us-album-colors-for-being-quarantined-feat-amen-feizabadi-ep-1745240511
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b7/bb/f0/b7bbf001-cfad-bb00-f9b9-d36a76210ec6/artwork.jpg/632x632bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Ankido Darash, via Apple Music
+        language: en

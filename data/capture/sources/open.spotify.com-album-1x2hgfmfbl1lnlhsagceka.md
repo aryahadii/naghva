@@ -16,3 +16,23 @@ Release cover, read 2026-11-21.
 Track 1, read 2026-11-21.
 
 > Sevirem
+
+Album title, read 2026-11-21.
+
+> AZERI BABY
+
+Track 2, read 2026-11-21.
+
+> Azeri Baby
+
+Track 3, read 2026-11-21.
+
+> Fall Apart
+
+Track 4, read 2026-11-21.
+
+> Never Got To Know You
+
+Track 5, read 2026-11-21.
+
+> Hush

@@ -1,0 +1,37 @@
+id: Qa93q23
+type: release
+statements:
+  name:
+  - value:
+      text: Marie Sahba - Fall Apart (Oslo Sessions)
+      language: en
+    references:
+    - source: www.youtube.com-oembed-1hk5ehl31ze
+      quote: Marie Sahba - Fall Apart (Oslo Sessions)
+      locator: Official artist upload
+      accessed: '2026-11-21'
+  performer:
+  - value: Qxmhx58
+    references:
+    - source: www.mariesahba.com-about
+      quote: Marie Sahba
+      locator: Artist name
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://i.ytimg.com/vi/1Hk5eHL31ZE/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-1hk5ehl31ze
+      quote: https://i.ytimg.com/vi/1Hk5eHL31ZE/hqdefault.jpg
+      locator: Original YouTube artwork
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Marie Sahba · YouTube
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=1Hk5eHL31ZE
+    references:
+    - source: www.youtube.com-oembed-1hk5ehl31ze
+      quote: Marie Sahba - Fall Apart (Oslo Sessions)
+      locator: Official artist upload
+      accessed: '2026-11-21'

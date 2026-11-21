@@ -1,0 +1,65 @@
+id: Qndvgwn
+type: act
+statements:
+  name:
+  - value:
+      text: Badieh
+      language: en
+    references:
+    - source: badieh.bandcamp.com-music
+      quote: Music | Badieh
+      accessed: '2026-11-21'
+      locator: Artist profile
+  - value:
+      text: بادیه
+      language: fa
+    references:
+    - source: www.sbs.com.au-language-persian-fa-podcast-episode-badieh-a-musical-journey-from-spain-to-afghanistan-iran-and-finally-to-australia-y96dboubo
+      quote: گروه موسیقی «بادیه» (Badieh)
+      accessed: '2026-11-21'
+      locator: SBS Persian interview
+  formation date:
+  - value:
+      date: '2018'
+    references:
+    - source: gulbenkian.pt-musica-en-agenda-badieh-samin-ghorbani
+      quote: Created in 2018 by the Iranian musician Mohamad Miraghazadeh and Spanish musician Michel Gasco
+      accessed: '2026-11-21'
+      locator: Concert programme
+  based in:
+  - value: Qthab26
+    references:
+    - source: badieh.bandcamp.com-music
+      quote: Mashhad, Iran
+      accessed: '2026-11-21'
+      locator: Group location
+  profile link:
+  - value: https://badieh.bandcamp.com/music
+    references:
+    - source: badieh.bandcamp.com-music
+      quote: Music | Badieh
+      accessed: '2026-11-21'
+      locator: Artist profile
+  - value: https://open.spotify.com/artist/4qeOxfRiZSacaM2ZazrqP0
+    references:
+    - source: open.spotify.com-artist-4qeoxfrizsacam2zazrqp0
+      quote: Listen to Badieh Songs | Spotify
+      accessed: '2026-11-21'
+      locator: Artist profile
+  - value: https://music.apple.com/us/artist/badieh/1540097293
+    references:
+    - source: music.apple.com-us-artist-badieh-1540097293
+      quote: ‎Badieh - Apple Music
+      accessed: '2026-11-21'
+      locator: Artist profile
+  image:
+  - value: https://f4.bcbits.com/img/0022347054_10.jpg
+    qualifiers:
+      credit:
+        text: Group portrait published by Badieh on Bandcamp
+        language: en
+    references:
+    - source: badieh.bandcamp.com-music
+      quote: https://f4.bcbits.com/img/0022347054_10.jpg
+      accessed: '2026-11-21'
+      locator: Bandcamp artist portrait

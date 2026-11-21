@@ -1,0 +1,78 @@
+id: Qt2krk8
+type: release
+statements:
+  name:
+  - value:
+      text: Setar Intro
+      language: en
+    references:
+    - source: badieh.bandcamp.com-track-setar-intro
+      quote: Setar Intro | Badieh
+      accessed: '2026-11-21'
+      locator: Bandcamp original track
+  performer:
+  - value: Qndvgwn
+    references:
+    - source: badieh.bandcamp.com-track-setar-intro
+      quote: Setar Intro | Badieh
+      accessed: '2026-11-21'
+      locator: Bandcamp original track
+  contributor:
+  - value: Q9sx4z9
+    qualifiers:
+      role: arranger
+    references:
+    - source: badieh.bandcamp.com-album-badieh-ii
+      quote: Arrangements by Michel Gasco and Mohammad Miraghazadeh
+      accessed: '2026-11-21'
+      locator: Group arrangers
+  - value: Q2dapj7
+    qualifiers:
+      role: arranger
+    references:
+    - source: badieh.bandcamp.com-album-badieh-ii
+      quote: Arrangements by Michel Gasco and Mohammad Miraghazadeh
+      accessed: '2026-11-21'
+      locator: Group arrangers
+  listen link:
+  - value: https://badieh.bandcamp.com/track/setar-intro
+    references:
+    - source: badieh.bandcamp.com-track-setar-intro
+      quote: Setar Intro | Badieh
+      accessed: '2026-11-21'
+      locator: Bandcamp original track
+  - value: https://open.spotify.com/track/2BMj8fk0LqV7L5bwdpZo4V
+    references:
+    - source: open.spotify.com-album-69wskiqieic62c8zvie1li
+      quote: Setar Intro
+      accessed: '2026-11-21'
+      locator: Spotify track 4
+  - value: https://music.apple.com/us/song/setar-intro-feat-michel-gasco/1711031324
+    references:
+    - source: music.apple.com-us-album-badieh-ii-feat-michel-gasco-1711030988
+      quote: Setar Intro (feat. Michel Gasco)
+      accessed: '2026-11-21'
+      locator: Apple Music track 4
+  release date:
+  - value:
+      date: '2023-11-15'
+    references:
+    - source: badieh.bandcamp.com-album-badieh-ii
+      quote: released November 15, 2023
+      accessed: '2026-11-21'
+      locator: Original Bandcamp release
+  cover art:
+  - value: https://f4.bcbits.com/img/a3782939504_10.jpg
+    qualifiers:
+      credit:
+        text: Painting by Afghan artists Nazir Rahguzar & Sosan Mahmoodi
+        language: en
+    references:
+    - source: badieh.bandcamp.com-album-badieh-ii
+      quote: https://f4.bcbits.com/img/a3782939504_10.jpg
+      accessed: '2026-11-21'
+      locator: Original cover artwork
+    - source: badieh.bandcamp.com-album-badieh-ii
+      quote: 'Artwork: Painting by Afghan artists Nazir Rahguzar & Sosan Mahmoodi'
+      accessed: '2026-11-21'
+      locator: Cover art credit

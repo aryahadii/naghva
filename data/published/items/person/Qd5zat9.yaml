@@ -10,3 +10,52 @@ statements:
       quote: Amen Feizabadi
       accessed: '2026-11-21'
       locator: Artist interview, biography or performance credits
+  - value:
+      text: آمین فیض‌آبادی
+      language: fa
+    references:
+    - source: rokh.in-news-47696-------------------------
+      quote: آمین فیض‌آبادی
+      accessed: '2026-11-21'
+      locator: Artist, venue or original production credits
+  birth date:
+  - value:
+      date: '1983'
+    references:
+    - &id001
+      source: kulturakademie-tarabya.de-en-artists-amen-feizabadi
+      quote: Born in 1983 in Tehran, he currently lives and works in Berlin.
+      accessed: '2026-11-21'
+      locator: Artist, venue or original production credits
+  birthplace:
+  - value: Qhm6fzw
+    references:
+    - *id001
+  based in:
+  - value: Qnpdnwq
+    references:
+    - *id001
+  profile link:
+  - value: https://open.spotify.com/artist/14iWaUxwI3uTD6H4t4HSUV
+    references:
+    - source: open.spotify.com-artist-14iwauxwi3utd6h4t4hsuv
+      quote: Listen to Amen Feizabadi Songs | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/artist/amen-feizabadi/1650319699?uo=4
+    references:
+    - source: music.apple.com-us-artist-amen-feizabadi-1650319699-uo-4
+      quote: ‎Amen Feizabadi - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  image:
+  - value: https://i.scdn.co/image/ab6761610000e5ebd61cf21155ac8da26ab82ad9
+    references:
+    - source: open.spotify.com-artist-14iwauxwi3utd6h4t4hsuv
+      quote: https://i.scdn.co/image/ab6761610000e5ebd61cf21155ac8da26ab82ad9
+      accessed: '2026-11-21'
+      locator: Artist photograph
+    qualifiers:
+      credit:
+        text: Amen Feizabadi on Spotify
+        language: en

@@ -1,0 +1,69 @@
+id: Qmfemj8
+type: release
+statements:
+  name:
+  - value:
+      text: Ride
+      language: en
+    references:
+    - source: music.apple.com-us-album-ride-single-1889832076
+      quote: Ride
+      locator: Track 1
+      accessed: '2026-11-21'
+  performer:
+  - value: Q26x4j9
+    references:
+    - source: music.apple.com-us-album-ride-single-1889832076
+      quote: Blakhol
+      locator: Primary release artist
+      accessed: '2026-11-21'
+  - value: Qxmhx58
+    references:
+    - source: music.apple.com-us-album-ride-single-1889832076
+      quote: Marie Sahba
+      locator: Primary release artist
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2025-04-25'
+    references:
+    - source: music.apple.com-us-album-ride-single-1889832076
+      quote: '2025-04-25'
+      locator: Edition date
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/82/0f/33/820f338e-2fc5-0b4e-715e-5d06b2337013/820200897787.jpg/632x632bb-60.jpg
+    references:
+    - source: music.apple.com-us-album-ride-single-1889832076
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/82/0f/33/820f338e-2fc5-0b4e-715e-5d06b2337013/820200897787.jpg/632x632bb-60.jpg
+      locator: Apple Music release artwork
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Ride · Apple Music
+        language: en
+  listen link:
+  - value: https://music.apple.com/us/song/ride/1889832079
+    references:
+    - source: music.apple.com-us-album-ride-single-1889832076
+      quote: Ride
+      locator: Track 1
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/0Wd32fs3kC4lFcPCIEImLO
+    references:
+    - source: open.spotify.com-album-61hcnep4lrnp5swwak75x5
+      quote: Ride
+      locator: Track 1
+      accessed: '2026-11-21'
+  - value: https://music.apple.com/us/song/ride/1888548101
+    references:
+    - source: music.apple.com-us-album-passage-ep-1888548090
+      quote: Ride
+      locator: Track 2
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/3SnaxfOtFQSCzQu7yWGLh9
+    references:
+    - source: open.spotify.com-album-5nognhly8hroosyj1vdxin
+      quote: Ride
+      locator: Track 2
+      accessed: '2026-11-21'

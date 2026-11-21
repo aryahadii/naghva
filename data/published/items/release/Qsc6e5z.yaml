@@ -67,3 +67,9 @@ statements:
       quote: Trump
       accessed: 2026-11-21
       locator: Track 2
+  - value: https://www.youtube.com/watch?v=36TT34Qq_Qo
+    references:
+    - source: youtu.be-36tt34qq_qo
+      quote: The Mast - Trump/Occupy
+      accessed: 2026-11-21
+      locator: Publisher video title

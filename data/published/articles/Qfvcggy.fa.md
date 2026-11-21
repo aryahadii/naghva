@@ -70,11 +70,23 @@ references:
     quote: Neda's name means the call or the voice in Farsi.
     accessed: 2026-11-21
     locator: Artist note
+  dotar:
+    source: www.jambase.com-article-haale-living-in-another-place
+    quote: I pulled the dotar down from the wall and started playing.
+    accessed: 2026-11-21
+    locator: Gafori on her visit to an instrument maker in France
+  returning:
+    source: www.jambase.com-article-haale-living-in-another-place
+    quote: I started singing some of the songs I’d heard growing up
+    accessed: 2026-11-21
+    locator: Gafori on returning to New York
 ---
 
 هاله غفوری خواننده و گیتاریست ایرانی‌تبار اهل نیویورک است که با نام «هاله» موسیقی منتشر کرده است. در گفت‌وگو با رادیو فردا برای وصف آهنگ‌هایش واژهٔ «کولاژ» را به کار برد. می‌گفت فرهنگ ایرانی در نیویورک تکه‌تکه به او رسیده بود و می‌خواست در آهنگ‌هایش هم این حس باقی بماند.[^who][^origin][^credit][^collage][^pieces]
 
 ## از شعر فارسی تا صحنهٔ نیویورک
+
+غفوری در سفری به فرانسه مهمان یک سازساز بود. دوتاری را از دیوار خانهٔ او برداشت و شروع کرد به نواختن. وقتی به نیویورک برگشت، سه‌تاری خرید و کم‌کم آوازهای فارسی‌ای را که از کودکی به یاد داشت وارد اجراهایش کرد.[^dotar][^returning]
 
 در یکی از اجراهای گروه راک هاله در لینکلن سنتر نیویورک، شاهرخ مشکین‌قلم با همراهی گروه رقصید.[^stage] هاله در ژانویهٔ ۲۰۰۷ دو آلبوم کوتاه *Morning* و *Paratrooper* را منتشر کرد. برای نخستین آلبوم بلندش، *No Ceiling*، با مت کیلمر، نوازندهٔ سازهای کوبه‌ای و تهیه‌کننده، کار کرد. آلبوم در مارس ۲۰۰۸ منتشر شد.[^eps][^debut][^debutdate]
 

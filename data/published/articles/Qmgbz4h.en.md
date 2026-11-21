@@ -180,13 +180,23 @@ references:
     quote: Hamed's reworking of a reng from the Persian Homāyoun mode
     accessed: '2026-11-21'
     locator: Opening track
+  joy-radio:
+    source: joy.org.au-bentnotes-2025-09-hameds-east-west-fusion
+    quote: Hamed Sadeghi asked his mother for a TAR when he was 14 years of age, after hearing it played on the radio
+    accessed: '2026-11-21'
+    locator: Interview with Bent Notes, JOY 94.9
+  joy-career:
+    source: joy.org.au-bentnotes-2025-09-hameds-east-west-fusion
+    quote: He decided that Music was to be his career when 18 years of age
+    accessed: '2026-11-21'
+    locator: Interview with Bent Notes, JOY 94.9
 ---
 
 Hamed Sadeghi is an Iranian-born tar player and composer based in Sydney. He founded [Eishan Ensemble](/en/eishan-ensemble-heb/) and plays in the improvising trio [Vazesh](/en/vazesh-597/). Alongside his ensemble work he has recorded solo tar, written music for theatre and film, and composed for groups ranging from a piano duet to an octet.[^about-born][^about-group][^about-trio][^about-scores][^bc-harmony-write][^own-comfortable-octet][^own-a-prelude-to-silence-radif]
 
 ## From Tehran to Sydney
 
-Sadeghi studied music performance in Tehran in 2007 and toured Iran with traditional groups including Ayeneh Ensemble. He collected compositions by the Iranian tar master Ali Akbar Khan Shahnazi and published them in a book for other players. Between 2011 and 2013 he toured Malaysia, Indonesia and Singapore. He completed a master’s degree in sound engineering in Malaysia in 2013 and moved to Australia the following year.[^shahbaz-tehran][^shahbaz-iran][^shahbaz-iranact][^belvoir-author][^belvoir-book][^shahbaz-asia][^shahbaz-degree][^sp-move]
+At fourteen, Sadeghi heard the tar on the radio and asked his mother for one. By eighteen he had decided to make music his career.[^joy-radio][^joy-career] Sadeghi studied music performance in Tehran in 2007 and toured Iran with traditional groups including Ayeneh Ensemble. He collected compositions by the Iranian tar master Ali Akbar Khan Shahnazi and published them in a book for other players. Between 2011 and 2013 he toured Malaysia, Indonesia and Singapore. He completed a master’s degree in sound engineering in Malaysia in 2013 and moved to Australia the following year.[^shahbaz-tehran][^shahbaz-iran][^shahbaz-iranact][^belvoir-author][^belvoir-book][^shahbaz-asia][^shahbaz-degree][^sp-move]
 
 After hearing a duet by pianist David Hush in 2017, Sadeghi asked him for composition lessons. Touring cut the lessons short, but Hush went on to write five duets for them. On their 2019 album [*Harmony*](#harmony-gbg), the tar answers the piano in successive solos. On [*Meditation on Wind*](#meditation-on-wind-j3d), released in 2021, they also play together on five pieces. Sadeghi contributed “Prison,” a solo piece in the Persian classical tradition. His theatre work in this period included a score with Michael Askill for William Zappa’s *The Iliad Out Loud*, nominated at the 2019 Sydney Theatre Awards.[^bc-harmony-learn][^bc-harmony-tour][^bc-harmony-write][^bc-harmony-date][^bc-meditation-date][^bc-meditation-duet][^bc-meditation-five][^bc-meditation-prison][^about-theatre]
 

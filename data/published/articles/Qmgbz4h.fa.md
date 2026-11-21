@@ -185,13 +185,23 @@ references:
     quote: Hamed's reworking of a reng from the Persian Homāyoun mode
     accessed: '2026-11-21'
     locator: Opening track
+  joy-radio:
+    source: joy.org.au-bentnotes-2025-09-hameds-east-west-fusion
+    quote: Hamed Sadeghi asked his mother for a TAR when he was 14 years of age, after hearing it played on the radio
+    accessed: '2026-11-21'
+    locator: Interview with Bent Notes, JOY 94.9
+  joy-career:
+    source: joy.org.au-bentnotes-2025-09-hameds-east-west-fusion
+    quote: He decided that Music was to be his career when 18 years of age
+    accessed: '2026-11-21'
+    locator: Interview with Bent Notes, JOY 94.9
 ---
 
 حامد صادقی آهنگساز و نوازندهٔ تار، زادهٔ ایران و ساکن سیدنی است. او [گروه ایشان](/fa/eishan-ensemble-heb/) را بنیان گذاشت و در [تریوی وزش](/fa/vazesh-597/) بداهه‌نوازی می‌کند. در کنار کار با این دو گروه، تکنوازی‌هایش را ضبط کرده، برای سینما و تئاتر موسیقی نوشته و برای ترکیب‌هایی از دونوازی تار و پیانو تا گروهی هشت‌نفره قطعه ساخته است.[^farsi-identity][^about-born][^about-group][^about-trio][^about-scores][^bc-harmony-write][^own-comfortable-octet][^own-a-prelude-to-silence-radif]
 
 ## از تهران تا سیدنی
 
-صادقی در سال ۲۰۰۷ در تهران نوازندگی خواند و با گروه‌های موسیقی ایرانی، از جمله گروه آینه، در ایران به اجرای برنامه پرداخت. او قطعات علی‌اکبرخان شهنازی را گرد آورد و در کتابی برای نوازندگان تار منتشر کرد. از ۲۰۱۱ تا ۲۰۱۳ در مالزی، اندونزی و سنگاپور کنسرت داد. در ۲۰۱۳ کارشناسی ارشد مهندسی صدا را در مالزی به پایان رساند و سال بعد به استرالیا رفت.[^shahbaz-tehran][^shahbaz-iran][^shahbaz-iranact][^belvoir-author][^belvoir-book][^shahbaz-asia][^shahbaz-degree][^sp-move]
+صادقی چهارده‌ساله بود که صدای تار را از رادیو شنید و از مادرش خواست برایش تار بگیرد. در هجده‌سالگی تصمیم گرفت موسیقی را به‌عنوان حرفه‌اش دنبال کند.[^joy-radio][^joy-career] صادقی در سال ۲۰۰۷ در تهران نوازندگی خواند و با گروه‌های موسیقی ایرانی، از جمله گروه آینه، در ایران به اجرای برنامه پرداخت. او قطعات علی‌اکبرخان شهنازی را گرد آورد و در کتابی برای نوازندگان تار منتشر کرد. از ۲۰۱۱ تا ۲۰۱۳ در مالزی، اندونزی و سنگاپور کنسرت داد. در ۲۰۱۳ کارشناسی ارشد مهندسی صدا را در مالزی به پایان رساند و سال بعد به استرالیا رفت.[^shahbaz-tehran][^shahbaz-iran][^shahbaz-iranact][^belvoir-author][^belvoir-book][^shahbaz-asia][^shahbaz-degree][^sp-move]
 
 صادقی در ۲۰۱۷ پس از شنیدن دونوازی‌ای ساختهٔ دیوید هاش، پیانیست، از او خواست به او آهنگسازی درس بدهد. سفرهای صادقی برای اجرای کنسرت فرصت ادامهٔ درس‌ها را نداد، اما هاش برایشان پنج دونوازی نوشت. در آلبوم [«Harmony»](#harmony-gbg) که در ۲۰۱۹ منتشر شد، تکنوازی تار به تکنوازی پیانو پاسخ می‌دهد. در آلبوم بعدی، [«Meditation on Wind»](#meditation-on-wind-j3d)، در ۲۰۲۱، در پنج قطعه نیز هم‌زمان می‌نوازند. «Prison» ساختهٔ صادقی، تکنوازی‌ای در موسیقی کلاسیک ایرانی است. در همین سال‌ها او و مایکل اَسکیل برای اجرای «ایلیاد» به کارگردانی ویلیام زاپا موسیقی نوشتند. این اثر در ۲۰۱۹ نامزد جایزهٔ تئاتر سیدنی شد.[^bc-harmony-learn][^bc-harmony-tour][^bc-harmony-write][^bc-harmony-date][^bc-meditation-date][^bc-meditation-duet][^bc-meditation-five][^bc-meditation-prison][^about-theatre]
 

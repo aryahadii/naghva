@@ -60,12 +60,22 @@ references:
     quote: Matt would usually start it off with part of a track
     accessed: 2026-11-21
     locator: Gafori on writing for Pleasure Island
+  first:
+    source: themast.bandcamp.com-album-wild-poppies
+    quote: released June 21, 2011
+    accessed: 2026-11-21
+    locator: Album release date
+  second:
+    source: themast.bandcamp.com-album-pleasure-island
+    quote: released January 28, 2014
+    accessed: 2026-11-21
+    locator: Album release date
 ---
 
 The Mast began with a meeting on a New York pier. Singer and guitarist Haleh Gafori heard percussionist Matt Kilmer at a party there, took his card and called him for a show in San Francisco. They spent their first tours playing a set built around electric guitar, voice and percussion.[^meet][^call][^early]
 
 ## From two players to electronic arrangements
 
-On *Wild Poppies* Gafori played electric guitar and sang. Kilmer played frame drums, djembe, floor tom and cymbals. The two wrote the songs and recorded, produced and mixed the album themselves.[^credit][^drums][^band][^self]
+On their 2011 album *Wild Poppies*, Gafori played electric guitar and sang. Kilmer played frame drums, djembe, floor tom and cymbals. The two wrote the songs and recorded, produced and mixed the album themselves.[^credit][^drums][^band][^self][^first]
 
-Kilmer had also been making electronic tracks. He asked Gafori to sing over some of them, and they tried the results in front of their concert audiences. By the time of *Pleasure Island*, a track could start with a passage Kilmer had made and a line of melody or words from Gafori in response.[^change][^sets][^method] The change in equipment still left room for things struck by hand. Kilmer described using a balafon and clay udu drums, while Gafori could change the rhythm and texture of her voice on stage with filters and delay.[^wood][^voice]
+Kilmer had also been making electronic tracks. He asked Gafori to sing over some of them, and they tried the results in front of their concert audiences. By the time they released *Pleasure Island* in 2014, a track could start with a passage Kilmer had made and a line of melody or words from Gafori in response.[^change][^sets][^method][^second] The change in equipment still left room for things struck by hand. Kilmer described using a balafon and clay udu drums, while Gafori could change the rhythm and texture of her voice on stage with filters and delay.[^wood][^voice]

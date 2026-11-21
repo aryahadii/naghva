@@ -26,11 +26,14 @@ The expansion started at revision fa6c29ca with 124 bilingual artist pages. The 
 | Hysterrae | Qkvdrbs | 9.2/10 | [Hysterrae](artist-page-scores.md) |
 | Melody Safavi | Q8dkfyg | 9.1/10 | [Melody Safavi](melody-safavi-review.md) |
 | Hadi Bastani | Qyt2364 | 9.2/10 | [Hadi Bastani](hadi-bastani-review.md) |
-| Fared Shafinury | Qbqnmbj | 8.1/10 | [First review, revisions awaiting reassessment](fared-shafinury-independent-review.md) |
+| Fared Shafinury | Qbqnmbj | 9.1/10 | [Fared Shafinury](fared-shafinury-independent-review.md) |
 | Javid Afsari Rad | Qz9hcyk | 9.2/10 | [Javid Afsari Rad](javid-afsari-rad-review.md) |
-| Yalda Zamani | Qrtebcw | Pending | [Catalogue and open questions](yalda-zamani.md) |
-| Hamed Sadeghi | Qmgbz4h | Pending | [Catalogue and open questions](hamed-sadeghi.md) |
-| Haale | Qfvcggy | Pending | [Catalogue and open questions](haale.md) |
-| The Mast | Qfwn5xw | Pending | [Catalogue and open questions](the-mast.md) |
+| Yalda Zamani | Qrtebcw | 9.2/10 | [Yalda Zamani](yalda-zamani-review.md) |
+| Hamed Sadeghi | Qmgbz4h | 8.6/10 | [Hamed Sadeghi](hamed-sadeghi-independent-review.md) |
+| Haale | Qfvcggy | 8.9/10 | [Haale](artist-page-scores.md) |
+| The Mast | Qfwn5xw | 9.2/10 | [The Mast](artist-page-scores.md) |
+| Badieh | Qndvgwn | Pending | [Catalogue and open questions](badieh.md) |
+| Amen Feizabadi | Qd5zat9 | Pending | Independent review in progress |
+| Marie Sahba | Qxmhx58 | Pending | Independent review in progress |
 
 The [discovery list](independent-artist-discovery.md) contains candidates with release leads. Some will prove ineligible or match an existing artist by another spelling. Only new artist pages count toward the target.

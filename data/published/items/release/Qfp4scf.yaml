@@ -1,0 +1,37 @@
+id: Qfp4scf
+type: release
+statements:
+  name:
+  - value:
+      text: WORLD SKI CHAMPIONSHIP | NORWAY | MARIE SAHBA
+      language: en
+    references:
+    - source: www.youtube.com-oembed-8srciii_1rm
+      quote: WORLD SKI CHAMPIONSHIP | NORWAY | MARIE SAHBA
+      locator: Official artist upload
+      accessed: '2026-11-21'
+  performer:
+  - value: Qxmhx58
+    references:
+    - source: www.mariesahba.com-about
+      quote: Marie Sahba
+      locator: Artist name
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://i.ytimg.com/vi/8SRCiIi_1RM/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-8srciii_1rm
+      quote: https://i.ytimg.com/vi/8SRCiIi_1RM/hqdefault.jpg
+      locator: Original YouTube artwork
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Marie Sahba · YouTube
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=8SRCiIi_1RM
+    references:
+    - source: www.youtube.com-oembed-8srciii_1rm
+      quote: WORLD SKI CHAMPIONSHIP | NORWAY | MARIE SAHBA
+      locator: Official artist upload
+      accessed: '2026-11-21'

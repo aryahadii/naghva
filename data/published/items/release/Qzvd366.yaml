@@ -1,0 +1,87 @@
+id: Qzvd366
+type: release
+statements:
+  name:
+  - value:
+      text: Over & Over (Acoustic)
+      language: en
+    references:
+    - source: music.apple.com-us-album-over-over-single-1728116022
+      quote: Over & Over (Acoustic)
+      locator: Track 2
+      accessed: '2026-11-21'
+  performer:
+  - value: Qxmhx58
+    references:
+    - source: music.apple.com-us-album-over-over-single-1728116022
+      quote: Marie Sahba
+      locator: Primary release artist
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2023-09-22'
+    references:
+    - source: music.apple.com-us-album-over-over-single-1728116022
+      quote: '2023-09-22'
+      locator: Edition date
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/97/aa/02/97aa026f-5751-7689-86d6-05b09ceb2602/197190908084.jpg/632x632bb-60.jpg
+    references:
+    - source: music.apple.com-us-album-over-over-single-1728116022
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/97/aa/02/97aa026f-5751-7689-86d6-05b09ceb2602/197190908084.jpg/632x632bb-60.jpg
+      locator: Apple Music release artwork
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Over & Over · Apple Music
+        language: en
+  listen link:
+  - value: https://music.apple.com/us/song/over-over-acoustic/1728116421
+    references:
+    - source: music.apple.com-us-album-over-over-single-1728116022
+      quote: Over & Over (Acoustic)
+      locator: Track 2
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/0Pd2Z3QnZwV2MUdocKhy7W
+    references:
+    - source: open.spotify.com-album-5budq2wwhyvmanhn5ri4y2
+      quote: Over & Over - Acoustic
+      locator: Track 2
+      accessed: '2026-11-21'
+  - value: https://music.apple.com/us/song/over-over-acoustic/1753127549
+    references:
+    - source: music.apple.com-us-album-a-billion-years-too-soon-deluxe-1753125704
+      quote: Over & Over (Acoustic)
+      locator: Track 12
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/0wnD1FUj0XlZNsGD5GOMe5
+    references:
+    - source: open.spotify.com-album-368omyrjn8cs2liqzyqpzv
+      quote: Over & Over - Acoustic
+      locator: Track 12
+      accessed: '2026-11-21'
+  - value: https://mariesahba.bandcamp.com/track/over-over-acoustic
+    references:
+    - source: mariesahba.bandcamp.com-album-a-billion-years-too-soon-deluxe
+      quote: Over & Over - Acoustic
+      locator: Bandcamp track
+      accessed: '2026-11-21'
+  - value: https://soundcloud.com/mariesahba/over-over-acoustic-1
+    references:
+    - source: soundcloud.com-mariesahba-over-over-acoustic-1
+      quote: Over & Over (Acoustic)
+      locator: Original SoundCloud upload
+      accessed: '2026-11-21'
+  - value: https://soundcloud.com/mariesahba/over-over-acoustic
+    references:
+    - source: soundcloud.com-mariesahba-over-over-acoustic
+      quote: Over & Over - Acoustic
+      locator: Original SoundCloud upload
+      accessed: '2026-11-21'
+  - value: https://www.youtube.com/watch?v=hH-5MSBoEPE
+    references:
+    - source: www.youtube.com-oembed-hh-5msboepe
+      quote: Marie Sahba - Over & Over (Acoustic)
+      locator: Official artist upload
+      accessed: '2026-11-21'

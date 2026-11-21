@@ -1,0 +1,63 @@
+id: Qanbnfk
+type: release
+statements:
+  name:
+  - value:
+      text: Nothing Lasts Forever
+      language: en
+    references:
+    - source: music.apple.com-us-album-nothing-lasts-forever-single-6809946919
+      quote: Nothing Lasts Forever
+      locator: Track 1
+      accessed: '2026-11-21'
+  performer:
+  - value: Qxmhx58
+    references:
+    - source: music.apple.com-us-album-nothing-lasts-forever-single-6809946919
+      quote: Marie Sahba
+      locator: Primary release artist
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2026-09-25'
+    references:
+    - source: music.apple.com-us-album-nothing-lasts-forever-single-6809946919
+      quote: '2026-09-25'
+      locator: Edition date
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b3/6b/7f/b36b7f5d-8aa6-9b06-b090-27b43b13c064/artwork.jpg/632x632bb-60.jpg
+    references:
+    - source: music.apple.com-us-album-nothing-lasts-forever-single-6809946919
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b3/6b/7f/b36b7f5d-8aa6-9b06-b090-27b43b13c064/artwork.jpg/632x632bb-60.jpg
+      locator: Apple Music release artwork
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Nothing Lasts Forever · Apple Music
+        language: en
+  listen link:
+  - value: https://music.apple.com/us/song/nothing-lasts-forever/6809946920
+    references:
+    - source: music.apple.com-us-album-nothing-lasts-forever-single-6809946919
+      quote: Nothing Lasts Forever
+      locator: Track 1
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/3WakhyL5rwNS9wzXWpiiyE
+    references:
+    - source: open.spotify.com-album-1gdntovjhajijgu6rznhzm
+      quote: Nothing Lasts Forever
+      locator: Track 1
+      accessed: '2026-11-21'
+  - value: https://soundcloud.com/mariesahba/nothing-lasts-forever-1
+    references:
+    - source: soundcloud.com-mariesahba-nothing-lasts-forever-1
+      quote: Nothing Lasts Forever
+      locator: Original SoundCloud upload
+      accessed: '2026-11-21'
+  - value: https://www.youtube.com/watch?v=8snwqXunBYg
+    references:
+    - source: www.youtube.com-oembed-8snwqxunbyg
+      quote: Marie Sahba - Nothing Lasts Forever
+      locator: Official artist upload
+      accessed: '2026-11-21'

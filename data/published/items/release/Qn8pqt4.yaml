@@ -1,0 +1,37 @@
+id: Qn8pqt4
+type: release
+statements:
+  name:
+  - value:
+      text: Take Me Back - Marie Sahba (Vocal Video)
+      language: en
+    references:
+    - source: www.youtube.com-oembed-y8sbmctfinm
+      quote: Take Me Back - Marie Sahba (Vocal Video)
+      locator: Official artist upload
+      accessed: '2026-11-21'
+  performer:
+  - value: Qxmhx58
+    references:
+    - source: www.mariesahba.com-about
+      quote: Marie Sahba
+      locator: Artist name
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://i.ytimg.com/vi/Y8sBmcTfiNM/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-y8sbmctfinm
+      quote: https://i.ytimg.com/vi/Y8sBmcTfiNM/hqdefault.jpg
+      locator: Original YouTube artwork
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Marie Sahba · YouTube
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=Y8sBmcTfiNM
+    references:
+    - source: www.youtube.com-oembed-y8sbmctfinm
+      quote: Take Me Back - Marie Sahba (Vocal Video)
+      locator: Official artist upload
+      accessed: '2026-11-21'

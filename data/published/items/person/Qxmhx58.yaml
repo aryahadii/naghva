@@ -6,7 +6,41 @@ statements:
       text: Marie Sahba
       language: en
     references:
-    - source: itunes.apple.com-lookupid-257020069-entity-song-limit-200
+    - source: www.mariesahba.com-about
       quote: Marie Sahba
+      locator: Artist name
       accessed: '2026-11-21'
-      locator: Track-level credit
+  profile link:
+  - value: https://open.spotify.com/artist/0IxirvoD2iQmUBur4ezBvU
+    references:
+    - source: open.spotify.com-artist-0ixirvod2iqmubur4ezbvu
+      quote: Marie Sahba
+      locator: Artist profile
+      accessed: '2026-11-21'
+  - value: https://soundcloud.com/mariesahba
+    references:
+    - source: www.mariesahba.com-about
+      quote: https://soundcloud.com/mariesahba
+      locator: Official artist social links
+      accessed: '2026-11-21'
+  - value: https://www.youtube.com/@mariesahba
+    references:
+    - source: www.mariesahba.com-about
+      quote: https://www.youtube.com/@mariesahba
+      locator: Official artist social links
+      accessed: '2026-11-21'
+  image:
+  - value: https://images.squarespace-cdn.com/content/v1/66609e634cc5f038c1a25711/0885e904-7aec-4cac-86ff-9c93ddc70e09/Press+photo+2+-+format+story+-+Marie+Sahba+-+Credits+Emre+K%C3%B6kta%C5%9F.jpg
+    references:
+    - source: www.mariesahba.com-about
+      quote: https://images.squarespace-cdn.com/content/v1/66609e634cc5f038c1a25711/0885e904-7aec-4cac-86ff-9c93ddc70e09/Press+photo+2+-+format+story+-+Marie+Sahba+-+Credits+Emre+K%C3%B6kta%C5%9F.jpg
+      locator: Artist portrait with Emre Köktaş credit in the original filename
+      accessed: '2026-11-21'
+    - source: www.mariesahba.com-about
+      quote: Photo by Emre Köktaş
+      locator: Printed photograph credit
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Emre Köktaş
+        language: en

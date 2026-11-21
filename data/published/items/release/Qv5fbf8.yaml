@@ -51,3 +51,9 @@ statements:
       quote: 1 - EP
       accessed: 2026-11-21
       locator: Album heading
+  - value: https://www.youtube.com/watch?v=kaJpx_2z3aw
+    references:
+    - source: youtu.be-kajpx_2z3aw
+      quote: The Mast - 1 (Full Album)
+      accessed: 2026-11-21
+      locator: Publisher video title

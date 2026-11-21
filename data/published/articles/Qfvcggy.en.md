@@ -70,11 +70,23 @@ references:
     quote: Neda's name means the call or the voice in Farsi.
     accessed: 2026-11-21
     locator: Artist note
+  dotar:
+    source: www.jambase.com-article-haale-living-in-another-place
+    quote: I pulled the dotar down from the wall and started playing.
+    accessed: 2026-11-21
+    locator: Gafori on her visit to an instrument maker in France
+  returning:
+    source: www.jambase.com-article-haale-living-in-another-place
+    quote: I started singing some of the songs I’d heard growing up
+    accessed: 2026-11-21
+    locator: Gafori on returning to New York
 ---
 
 Haleh Liza Gafori, who recorded as Haale, is a New York singer and guitarist of Iranian descent. She once told Radio Farda that the word she used for her songs was *collage*. Growing up in New York, she had come to know Iranian culture in pieces, and she wanted the songs to preserve something of that experience.[^who][^origin][^credit][^collage][^pieces]
 
 ## From Persian poems to a New York stage
+
+While staying with an instrument maker in France, Gafori took a dotar down from his wall and began to play. Back in New York she bought a setar. Little by little, songs she had heard in Persian as a child found their way into her shows.[^dotar][^returning]
 
 In one of her Lincoln Center concerts, the dancer Shahrokh Moshkin Ghalam joined her rock band on stage.[^stage] In January 2007 she released two EPs, *Morning* and *Paratrooper*. For her first full-length record, *No Ceiling*, she worked with the percussionist and producer Matt Kilmer. It came out in March 2008.[^eps][^debut][^debutdate]
 
