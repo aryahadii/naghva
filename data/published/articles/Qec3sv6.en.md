@@ -27,10 +27,8 @@ references:
     accessed: '2026-10-20'
 ---
 
-Comment Band is an Iranian alternative rock group formed in Tehran by [Kian Pourtorab](/en/kian-pourtorab-xs8/) and [Nima Ramezan](/en/nima-ramezan-3cs/) in 1386 of the Solar Hijri calendar. Its documented lineup also includes Bardia Amiri on drums and [Arin Keshishi](/en/arin-keshishi-ged/) on bass, with Pourtorab singing and writing lyrics and Ramezan playing electric guitar.[^history]
+Comment Band is an alternative rock group from Tehran. Singer and songwriter [Kian Pourtorab](/en/kian-pourtorab-xs8/) and guitarist [Nima Ramezan](/en/nima-ramezan-3cs/) formed it in 2007–08. They began by recording Pourtorab’s songs and released their first two albums online.[^history][^early]
 
-## From the early recordings to Slipped Away
+## From online releases to Slipped Away
 
-The band's first album, [میرم بالاتر](#i-go-higher-92b), circulated in 1388, followed by [دایره‌ها](#circles-xht) in 1390. Cadence describes both as releases distributed online, before [رفته از دست](#slipped-away-kjt) became its third album.[^early] The first album appears as [I Go Higher](#i-go-higher-92b) in Apple's catalogue; the band's Bandcamp also carries its early recordings.[^first][^circles]
-
-Apple lists [Slipped Away](#slipped-away-kjt) in 2014.[^later] The earlier dates reported in Persian accounts and the later platform dates are retained separately rather than treating a digital listing as the original release date.[^early][^first][^circles]
+Drummer Bardia Amiri joined first, followed by bassist [Arin Keshishi](/en/arin-keshishi-ged/) and keyboard player Ashkan Abrun. The band released [*I Go Higher*](#i-go-higher-92b) in 2009–10 and [*Circles*](#circles-xht) in 2011–12.[^history][^early][^first][^circles] For their third album, [*Slipped Away*](#slipped-away-kjt), they obtained a release permit from Iran’s Ministry of Culture and Islamic Guidance. It came out in 2014.[^early][^later]
