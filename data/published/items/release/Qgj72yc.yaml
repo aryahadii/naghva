@@ -1,0 +1,40 @@
+id: Qgj72yc
+type: release
+statements:
+  name:
+  - value:
+      text: Esfandyar Maghmoom - Single
+      language: en
+    references: &id002
+    - &id001
+      source: music.apple.com-us-album-1519910611
+      quote: Listen to Esfandyar Maghmoom - Single by Abdi Behravanfar
+      accessed: '2026-11-21'
+  performer:
+  - value: Qzgbsrs
+    references:
+    - *id001
+  release date:
+  - value:
+      date: '2020-06-23'
+    references:
+    - source: music.apple.com-us-album-1519910611
+      quote: '"datePublished":"2020-06-23"'
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://music.apple.com/us/album/esfandyar-maghmoom-single/1519910611
+    references:
+    - *id001
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/26/3d/9b/263d9b30-7cb7-cbc0-e3da-e16f52cb7891/artwork.jpg/632x632bb.webp
+    references:
+    - source: music.apple.com-us-album-1519910611
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/26/3d/9b/263d9b30-7cb7-cbc0-e3da-e16f52cb7891/artwork.jpg/632x632bb.webp
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en
+  release type:
+  - value: single
+    references: *id002

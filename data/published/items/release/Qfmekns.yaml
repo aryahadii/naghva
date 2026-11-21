@@ -1,0 +1,41 @@
+id: Qfmekns
+type: release
+statements:
+  name:
+  - value:
+      text: Diaspora Cocktail
+      language: en
+    references:
+    - &id001
+      source: sepehr.bandcamp.com-album-diaspora-cocktail
+      quote: Diaspora Cocktail
+      accessed: '2026-11-21'
+  performer:
+  - value: Q99by47
+    references:
+    - &id002
+      source: sepehr.bandcamp.com-album-diaspora-cocktail
+      quote: Sepehr
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2023-04-25'
+    references:
+    - source: sepehr.bandcamp.com-album-diaspora-cocktail
+      quote: 25 Apr 2023 14:31:13 GMT
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://sepehr.bandcamp.com/album/diaspora-cocktail
+    references:
+    - *id001
+    - *id002
+  cover art:
+  - value: https://f4.bcbits.com/img/a0300347463_10.jpg
+    references:
+    - source: sepehr.bandcamp.com-album-diaspora-cocktail
+      quote: https://f4.bcbits.com/img/a0300347463_10.jpg
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Sepehr, Bandcamp
+        language: en

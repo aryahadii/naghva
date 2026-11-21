@@ -25,19 +25,32 @@ references:
     quote: |-
       Meera was never a "fusion rock" band. We are working on Persian alternative music and we will keep to that course.
     accessed: '2026-10-19'
-  enhanced:
+  event:
     source: tehranavenue.com-article.php-id-16
     quote: |-
-      We have attempted to do many things that is a “first” for Iran and part of this is indeed to have two excellent full video clips in the overseas package providing an Enhanced CD.
-    accessed: '2026-10-19'
+      گروه آلترناتيو راک ميرا، در ۲۱ ارديبهشت‌ماه امسال مراسمى براى اعلام انتشار اولين آلبومش ترتيب داد.
+    accessed: '2026-11-21'
+  venues:
+    source: openaccess.city.ac.uk-nooshin-underground-overground
+    quote: |-
+      Meera (Farhang Hall, Tehran, September 2002 and Harekat Hall, 23–25 February 2003
+    accessed: '2026-11-21'
+  abroad:
+    source: openaccess.city.ac.uk-nooshin-underground-overground
+    quote: |-
+      Gienne Records, an Iranian-Australian partnership, is overseeing worldwide distribution
+    accessed: '2026-11-21'
+  billboards:
+    source: openaccess.city.ac.uk-nooshin-underground-overground
+    quote: |-
+      The large advertizing billboards in Tehran in the summer of 2004
+    accessed: '2026-11-21'
 ---
 
-Meera در ۱۹۹۶ در تهران به‌دست گیتاریست Babek Akhoondi و خواننده Farzam Rahimi شکل گرفت؛ این تاریخ در مدخل آلمانی ویکی‌پدیا ثبت شده است.[^formation]
+میرا گروه آلترناتیو راکی بود که بابک آخوندی، گیتاریست، و فرزام رحیمی، خواننده، در سال ۱۹۹۶ در تهران تشکیل دادند. آن‌ها در اوایل دههٔ ۱۳۸۰ در تهران کنسرت دادند. نخستین آلبومشان، «میرا»، در سال ۲۰۰۴ در ایران و خارج از ایران منتشر شد.[^formation][^approach][^venues][^album][^abroad]
 
-## آلبوم و ضبط‌ها
+## اجرا و ضبط در تهران
 
-به نوشتهٔ همان مدخل، Gienne Records نخستین آلبوم گروه را با نام Meera در سال ۲۰۰۴ در ایران و استرالیا منتشر کرد.[^album] طبق توضیحات [cloud & butterfly](#cloud-butterfly-wnj) در حساب Farzam Rahimi، دارا دارایی باس، Babak Akhoundi گیتار و Pouya Nikpour کیبورد و پیانو می‌نوازند. Pouya Nikpour همخوانی می‌کند، Rahimi خواننده است و Kassra Ebrahimi درامز و برنامه‌ریزی پرکاشن را بر عهده دارد.[^credits] ضبط، میکس و مسترینگ این قطعه به Studio Bamahang در تهران، در فاصلهٔ ۲۰۰۰ تا ۲۰۰۳، نسبت داده شده است.[^recording]
+گروه در سال ۱۳۸۱ در تالار فرهنگ و در زمستان همان سال در تالار حرکت روی صحنه رفت.[^venues] در همان دوره قطعهٔ [«Cloud & Butterfly»](#cloud-butterfly-wnj) را در استودیوی بَماهنگ تهران ضبط کردند. رحیمی خواند، آخوندی گیتار زد و [دارا دارایی](/fa/dara-daraee-cm9/) بیس نواخت.[^credits][^recording] رحیمی موسیقی گروهش را آلترناتیو فارسی می‌دانست.[^approach][^event]
 
-Farzam Rahimi در گفت‌وگوی ژوئن ۲۰۰۴ تهران اونیو، برچسب «فیوژن راک» را برای گروه رد کرد و مسیر آن را موسیقی آلترناتیو فارسی نامید.[^approach]
-
-تهیه‌کنندهٔ گروه در همان گفت‌وگو توضیح داد که نسخهٔ خارج از ایران آلبوم دو موزیک‌ویدئو را در قالب Enhanced CD در بر دارد.[^enhanced]
+در سال ۲۰۰۴ شرکت ایرانی‌استرالیایی Gienne Records پخش جهانی آلبوم «میرا» را آغاز کرد. تابستان همان سال در تهران، شهری که گروه در آن شکل گرفته بود، بیلبوردهای بزرگ آلبوم را تبلیغ می‌کردند.[^abroad][^billboards][^album]

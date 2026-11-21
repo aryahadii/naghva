@@ -3,6 +3,13 @@ type: person
 statements:
   name:
   - value:
+      text: هوشیار خیام
+      language: fa
+    references:
+    - source: imsmusicology.org-composers-hooshyar-khayam
+      quote: هوشیار خیام
+      accessed: '2026-11-21'
+  - value:
       text: Hooshyar Khayam
       language: en
     references:

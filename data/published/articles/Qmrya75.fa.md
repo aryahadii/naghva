@@ -26,10 +26,37 @@ references:
       Mastered by Lawrence English at Room40
       Published by Soft Recordings
     accessed: '2026-10-19'
+  sounds:
+    source: arashakbari.bandcamp.com-album-amnestic-continuum
+    quote: |-
+      Using data-sonification to create musical compositions and soundscapes
+    accessed: '2026-11-21'
+  sculpture:
+    source: arashakbari.bandcamp.com-album-amnestic-continuum
+    quote: |-
+      data-visualization techniques to generate data sculpture
+    accessed: '2026-11-21'
+  poems:
+    source: arashakbari.bandcamp.com-album-amnestic-continuum
+    quote: |-
+      poetic interpretations in written word by Chris Doherty-Ingram
+    accessed: '2026-11-21'
+  purpose:
+    source: arashakbari.bandcamp.com-album-amnestic-continuum
+    quote: |-
+      the context and subjects behind these sequences of numbers
+    accessed: '2026-11-21'
+  year:
+    source: arashakbari.bandcamp.com-album-amnestic-continuum
+    quote: |-
+      17 Nov 2022 00:00:00 GMT
+    accessed: '2026-11-21'
 ---
 
-Arash Akbari، با نام دیگر Odepth، موسیقی‌دان، تهیه‌کننده و هنرمند رسانه‌های نو است که بنا بر معرفی سال ۲۰۱۴ در تهران زندگی می‌کرد. او گیتار الکتریک، صداهای آکوستیک، ضبط محیطی و سنتز دیجیتال را در موسیقی امبینت، درون، نویز و تجربی به کار می‌گیرد.[^bio] تصویرهای ثابت و مولد و چیدمان‌های تعاملی شنیداری‌ـ‌دیداری نیز بخشی از فعالیت او هستند.[^visuals]
+آرش اکبری، با نام دیگر Odepth، موسیقی‌دان، تهیه‌کننده و هنرمند تجسمی است که در دههٔ ۱۳۹۰ در تهران کار می‌کرد. او در موسیقی امبینت خود از گیتار الکتریک، صداهای ضبط‌شده در محیط و صداهای ساخته‌شده با سینتی‌سایزر استفاده می‌کند. او چیدمان‌های تعاملی با صدا و تصویر هم می‌سازد.[^bio][^visuals]
 
-## Cracked Echoes
+## از ضبط صدا تا موسیقی با داده‌ها
 
-*[Cracked Echoes](#cracked-echoes-sbk)* در بندکمپ خود هنرمند عرضه شده است.[^album] در این صفحه، تاریخ انتشار اثر ۹ نوامبر ۲۰۱۴ آمده است. Akbari آهنگسازی، اجرا، تهیه‌کنندگی و طراحی هنری آن را بر عهده داشته، Lawrence English آن را در Room40 مستر کرده و Soft Recordings ناشر آن است.[^credits]
+اکبری در سال ۲۰۱۴ آلبوم [«Cracked Echoes»](#cracked-echoes-sbk) را ساخت، نواخت و تهیه کرد. تصویر جلد هم کار خودش بود. لارنس انگلیش مسترینگ آلبوم را انجام داد و Soft Recordings آن را منتشر کرد.[^album][^credits]
+
+اکبری در آلبوم [«Amnestic Continuum»](#amnestic-continuum-xgh) که در آبان ۱۴۰۱ منتشر شد، داده‌های عددی را به صدا تبدیل کرد. با نمایش تصویری داده‌ها پیکره‌هایی هم ساخت و کریس دوهرتی‌ اینگرام برداشت خودش را به شعر نوشت. اکبری می‌خواست مخاطب به معنای اعداد و زندگی‌هایی که پشت آن‌هاست فکر کند.[^year][^sounds][^sculpture][^poems][^purpose]

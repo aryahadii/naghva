@@ -33,53 +33,21 @@ references:
       Jelle van Eerd: Bass
       Erik Oexman: Drums / Percussion
     accessed: '2026-10-19'
-  release2:
-    source: music.apple.com-us-album-amsterdam-single-1162581354-28d027e067d9
-    quote: |-
-      Listen to Amsterdam - Single by Faarjam on Apple Music. 2016. 1 Song. Duration: 3 minutes.
-    accessed: '2026-10-19'
-  release3:
-    source: music.apple.com-us-album-amme-single-1168320678-dc1d4886a871
-    quote: |-
-      Listen to Amme - Single by Faarjam on Apple Music. 2016. 1 Song. Duration: 4 minutes.
-    accessed: '2026-10-19'
-  release4:
-    source: music.apple.com-us-album-fathe-bagh-single-1560759828-fe9dabf27d43
-    quote: |-
-      Listen to Fathe Bagh - Single by Faarjam on Apple Music. 2021. 1 Song. Duration: 5 minutes.
-    accessed: '2026-10-19'
-  release5:
-    source: music.apple.com-us-album-sabze-lajani-single-1613747555-fb3f805fd0c8
-    quote: |-
-      Listen to Sabze Lajani - Single by Faarjam on Apple Music. 2022. 1 Song. Duration: 3 minutes.
-    accessed: '2026-10-19'
-  release6:
-    source: music.apple.com-us-album-ghasedak-single-1315559428-b008dadda309
-    quote: |-
-      Listen to Ghasedak - Single by Faarjam on Apple Music. 2017. 1 Song. Duration: 2 minutes.
-    accessed: '2026-10-19'
-  release7:
-    source: music.apple.com-us-album-awar-e-rang-ep-719428148-b0c395438864
-    quote: |-
-      Listen to Awar E Rang - EP by Faarjam on Apple Music. 2013. 5 Songs. Duration: 15 minutes.
-    accessed: '2026-10-19'
   release8:
     source: music.apple.com-us-album-koala-ep-1269564777-f2ebdeb3e526
     quote: |-
       Listen to Koala - EP by Faarjam on Apple Music. 2017. 5 Songs. Duration: 16 minutes.
     accessed: '2026-10-19'
+  edition-release7:
+    source: music.apple.com-us-album-awar-e-rang-ep-719428148-b0c395438864
+    quote: 'Listen to Awar E Rang - EP by Faarjam on Apple Music. 2013. 5 Songs. Duration: 15 minutes.'
+    accessed: '2026-11-21'
 ---
 
-Faarjam گروهی پاپ و راک در هلند است که بنا بر گزارش سال ۲۰۱۷ بی‌هایپ، در آرنهم و پیرامون خواننده و گیتاریست ایرانی، Massoud Faarjam Saidi، در سال ۲۰۱۳ شکل گرفت. همان سال نخستین ای‌پی گروه، Awar E Rang، منتشر شد.[^band]
+فرجام گروه پاپ‌راکی است که در سال ۲۰۱۳ در شهر آرنهم هلند شکل گرفت. فرجام سعیدی، خواننده و گیتاریست ایرانی، چند سالی بود که روی شعر فارسی کار می‌کرد. او این کار را با نوازندگانی هلندی ادامه داد و گروه همان سال نخستین ای‌پی خود، [«Awar E Rang»](#awar-e-rang-ep-w7e)، را منتشر کرد.[^band][^early][^poetry][^edition-release7]
 
-## شکل‌گیری
+## از شعر تا تشکیل گروه
 
-خوانندهٔ گروه در ایران به دنیا آمد و در هلند بزرگ شد. طبق همان گزارش، او از سال ۲۰۰۳ با گروه‌های مختلف آواز می‌خواند و گیتار می‌نواخت و در سال ۲۰۰۹ به پروژه‌های شخصی با تکیه بر شعر فارسی، به‌ویژه شعرهای حسین پناهی، پرداخت. این مسیر به تشکیل گروه Faarjam انجامید.[^early][^poetry]
+سعیدی در ایران به دنیا آمد و در هلند بزرگ شد. از سال ۲۰۰۳ در چند گروه آواز خواند و گیتار زد. در سال ۲۰۰۹ به‌تنهایی کار روی شعرهای فارسی، به‌ویژه شعرهای حسین پناهی، را آغاز کرد. گروه فرجام در آرنهم از دل همین کار شکل گرفت.[^early][^poetry][^band]
 
-## Koala
-
-Koala در حساب رسمی فرجام سعیدی عرضه شده است. در دو قطعهٔ Ba Chashmanam و Mordad، آواز، گیتار و افکت‌ها را Faarjam اجرا می‌کند و نوازندگان دیگر با گیتار الکتریک، کیبورد، ترومپت، باس، درامز و پرکاشن همراهی‌اش می‌کنند.[^koala][^players]
-
-## انتشارها
-
-اپل موزیک تک‌آهنگ‌های Amsterdam،[^release2] Amme،[^release3] Fathe Bagh،[^release4] Sabze Lajani[^release5] و Ghasedak[^release6] و ای‌پی‌های Awar E Rang[^release7] و Koala[^release8] را از گروه عرضه می‌کند.
+در مرداد ۱۳۹۶ گروه ای‌پی پنج‌قطعه‌ای [«کوالا»](#koala-px6) را منتشر کرد که با قطعهٔ هم‌نامش آغاز می‌شود.[^band][^release8][^koala] در دو قطعهٔ «Ba Chashmanam» و «Mordad» سعیدی خواند و گیتار زد. در کنار گیتار الکتریک، بیس و درامز، کیبورد و ترومپت هم او را همراهی می‌کردند.[^players]

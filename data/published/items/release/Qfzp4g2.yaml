@@ -1,0 +1,37 @@
+id: Qfzp4g2
+type: release
+statements:
+  name:
+  - value:
+      text: Ejaze
+      language: en
+    references:
+    - &id001
+      source: music.apple.com-us-album-1562009074
+      quote: Listen to Ejaze by Abdi Behravanfar
+      accessed: '2026-11-21'
+  performer:
+  - value: Qzgbsrs
+    references:
+    - *id001
+  release date:
+  - value:
+      date: '2021-04-04'
+    references:
+    - source: music.apple.com-us-album-1562009074
+      quote: '"datePublished":"2021-04-04"'
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://music.apple.com/us/album/ejaze/1562009074
+    references:
+    - *id001
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a9/13/f3/a913f38c-317d-79e4-f646-5e065f42c717/artwork.jpg/632x632bb.webp
+    references:
+    - source: music.apple.com-us-album-1562009074
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a9/13/f3/a913f38c-317d-79e4-f646-5e065f42c717/artwork.jpg/632x632bb.webp
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en

@@ -275,56 +275,6 @@ references:
     quote: |-
       2023: Desolateville
     accessed: '2026-10-19'
-  toro:
-    source: music.apple.com-us-album-to-ro-mikham-single-1354832816
-    quote: |-
-      February 28, 2018
-    accessed: '2026-11-09'
-  toro-name:
-    source: music.apple.com-us-album-to-ro-mikham-single-1354832816
-    quote: |-
-      To Ro Mikham - Single - Album by Kiosk - Apple Music
-    accessed: '2026-11-09'
-  mj:
-    source: music.apple.com-us-album-michael-jackson-passed-away-single-1519945464
-    quote: |-
-      June 16, 2020
-    accessed: '2026-11-09'
-  mj-name:
-    source: music.apple.com-us-album-michael-jackson-passed-away-single-1519945464
-    quote: |-
-      Michael Jackson Passed Away - Single - Album by Kiosk - Apple Music
-    accessed: '2026-11-09'
-  mah:
-    source: music.apple.com-us-album-mah-single-1525448042
-    quote: |-
-      July 27, 2020
-    accessed: '2026-11-09'
-  mah-name:
-    source: music.apple.com-us-album-mah-single-1525448042
-    quote: |-
-      Mah - Single - Album by Kiosk - Apple Music
-    accessed: '2026-11-09'
-  mottaham:
-    source: music.apple.com-us-album-mottaham-feat-houman-javid-single-1658938996
-    quote: |-
-      December 5, 2022
-    accessed: '2026-11-09'
-  mottaham-name:
-    source: music.apple.com-us-album-mottaham-feat-houman-javid-single-1658938996
-    quote: |-
-      Mottaham (feat. Houman Javid) - Single - Album by Kiosk - Apple Music
-    accessed: '2026-11-09'
-  daro:
-    source: music.apple.com-us-album-daro-va-kon-single-1712969750
-    quote: |-
-      November 1, 2023
-    accessed: '2026-11-09'
-  daro-name:
-    source: music.apple.com-us-album-daro-va-kon-single-1712969750
-    quote: |-
-      Daro Va Kon - Single - Album by Kiosk - Apple Music
-    accessed: '2026-11-09'
   yh:
     source: ca.news.yahoo.com-15-essential-iranian-protest-songs-192952439.html
     quote: |-
@@ -344,11 +294,6 @@ references:
     source: en.wikipedia.org-wiki-kiosk_-band
     quote: |-
       Documentary: "Kiosk, A Generation Destroyed By Madness" by director Ala Mohseni, produced by Maziar Bahari
-    accessed: '2026-11-09'
-  wkb-tour:
-    source: en.wikipedia.org-wiki-kiosk_-band
-    quote: |-
-      Kiosk has toured extensively throughout countries including the US, Canada, the UK, the Netherlands, France, Germany, Italy, Sweden, Norway, Lebanon, and Australia.
     accessed: '2026-11-09'
 ---
 
@@ -382,8 +327,8 @@ According to Persian Wikipedia, Ardalan Payvar, a member of the band, left Kiosk
 
 [*Sweet Destiny*](#sweet-destiny-pjc), titled *پایان شیرین* in Persian, grew from Sobhani’s long-held wish to make a musical film.[^sweet-title][^sweet-work] In August 2021, he said the band had spent about four years working on the album with limited resources.[^sweet-work] During that period, they had gone without releasing an album while concentrating on the project.[^sweet-focus] Persian Wikipedia describes its story as the last moments of a man sent to his execution with a deaf and mute messenger, though no one knows his crime, and says the album is dedicated to the families of people who were executed.[^fa-sweet][^fa-dedic] *Sweet Destiny* was released in 2021; [*Desolateville*](#desolateville-cep) followed in 2023.[^recent][^latest]
 
-## Singles and screen
+## Music for film and protest
 
-Between albums Kiosk released singles, among them [“To Ro Mikham”](#to-ro-mikham-grr) in 2018, [“Michael Jackson Passed Away”](#michael-jackson-passed-away-rcy) and [“Mah”](#mah-74t) in 2020, [“Mottaham”](#mottaham-frc) with Houman Javid in December 2022 and [“Daro Va Kon”](#daro-va-kon-6fv) in November 2023.[^toro][^toro-name][^mj][^mj-name][^mah][^mah-name][^mottaham][^mottaham-name][^daro][^daro-name] During the 2022 protests, the band worked with about twenty singers on “Zan Zendegi Azadi,” a song built around the slogan “Woman, Life, Freedom.”[^yh]
+During the 2022 protests, the band worked with about twenty singers on “Zan Zendegi Azadi,” a song built around the slogan “Woman, Life, Freedom.”[^yh]
 
-Kiosk’s songs have been used in *A Girl Walks Home Alone at Night* and in the Iran episode of Anthony Bourdain’s *Parts Unknown*. The band is also the subject of the documentary *Kiosk, A Generation Destroyed By Madness*.[^wkb-girl][^wkb-bourdain][^wkb-doc] It has toured the United States, Canada, the United Kingdom, several European countries, Lebanon and Australia.[^wkb-tour] Its members include Ali Kamali on bass, Sobhani and Shahrouz Molaei on drums.[^profile]
+Kiosk’s songs have been used in *A Girl Walks Home Alone at Night* and in the Iran episode of Anthony Bourdain’s *Parts Unknown*. The band is also the subject of the documentary *Kiosk, A Generation Destroyed By Madness*.[^wkb-girl][^wkb-bourdain][^wkb-doc]

@@ -1,0 +1,41 @@
+id: Qxt9wt5
+type: release
+statements:
+  name:
+  - value:
+      text: O.O.Orifice
+      language: en
+    references:
+    - &id001
+      source: rojinsharafi.bandcamp.com-album-o-o-orifice
+      quote: O.O.Orifice
+      accessed: '2026-11-21'
+  performer:
+  - value: Q5vptv5
+    references:
+    - &id002
+      source: rojinsharafi.bandcamp.com-album-o-o-orifice
+      quote: Rojin Sharafi
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2024-11-15'
+    references:
+    - source: rojinsharafi.bandcamp.com-album-o-o-orifice
+      quote: 15 Nov 2024 00:00:00 GMT
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://rojinsharafi.bandcamp.com/album/o-o-orifice
+    references:
+    - *id001
+    - *id002
+  cover art:
+  - value: https://f4.bcbits.com/img/a0915129058_10.jpg
+    references:
+    - source: rojinsharafi.bandcamp.com-album-o-o-orifice
+      quote: https://f4.bcbits.com/img/a0915129058_10.jpg
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Rojin Sharafi, Bandcamp
+        language: en

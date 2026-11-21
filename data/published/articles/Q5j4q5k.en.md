@@ -188,11 +188,11 @@ At the Vienna Conservatory, she began with classical singing but found that she 
 
 ## Ensembles in Vienna
 
-In spring 2011 Shahyar began working with the guitarist Mahan Mirarab in Choub. She also sang with Sormeh, whose self-titled album came out in 2013. With Mirarab and percussionist Shayan Fathi she formed Sehrang; they made the album *[Dar Lahze](#dar-lahze-qfs)*.[^sarg-0][^sarg-1][^sarg-2][^lotus-1][^lotus-2][^lotus-3][^sehrang][^dar-lahze]
+In spring 2011 Shahyar began working with the guitarist [Mahan Mirarab](/en/mahan-mirarab-7hs/) in Choub. She also sang with Sormeh, whose [self-titled album](#sormeh-cjp) came out in 2013. With Mirarab and percussionist Shayan Fathi she formed Sehrang; they made the album *[Dar Lahze](#dar-lahze-qfs)*.[^sarg-0][^sarg-1][^sarg-2][^lotus-1][^lotus-2][^lotus-3][^sehrang][^dar-lahze]
 
 Her work with Mirarab continued in Golnar & Mahan, joined by percussionist Amir Wahba. They released *[Derakht](#derakht-m6d)* in 2017.[^derakht] These collaborations developed alongside her solo practice, in which she accompanied herself and made her own choices about songs and arrangements.[^jazzhalo-2][^tear-credits]
 
-During the pandemic in 2020, Shahyar co-founded WE:Shape with composer Rojin Sharafi and conductor Yalda Zamani. The platform sought better working conditions for freelance musicians and a more inclusive music industry.[^db-1][^db-2][^mdw-6][^mdw-7][^mdw-8][^colleagues]
+During the pandemic in 2020, Shahyar co-founded WE:Shape with composer [Rojin Sharafi](/en/rojin-sharafi-5vp/) and conductor Yalda Zamani. The platform sought better working conditions for freelance musicians and a more inclusive music industry.[^db-1][^db-2][^mdw-6][^mdw-7][^mdw-8][^colleagues]
 
 ## Songs under her own name
 
@@ -200,4 +200,4 @@ In 2022 Shahyar sang the leading role in *Negar* at Deutsche Oper Berlin, her fi
 
 For these songs she began at the piano or guitar, wrote the music first and added lyrics afterwards. “Ode to Trust” uses kell, a vocal cry; in “Maman Djan”, her grandmother becomes a figure for the lives of women of her generation, symbolised by the mythical bird Simurgh.[^mica-0][^mica-1][^mica-2][^mica-3][^qantara-0][^qantara-1][^qantara-2][^qantara-3]
 
-She also recorded “Tell My Mother She Has No Daughter Anymore” live at Porgy & Bess in Vienna in 2022, arranging it with Mirarab.[^protest][^protest-arrangement]
+She also recorded [“Tell My Mother She Has No Daughter Anymore”](#به-مادرم-بگویید-دیگر-دختر-ندارد-ssx) live at Porgy & Bess in Vienna in 2022, arranging it with Mirarab.[^protest][^protest-arrangement]

@@ -30,12 +30,32 @@ references:
     quote: |-
       Listen to Lotus by Kaveh Afagh on Apple Music. 2019. 9 Songs. Duration: 27 minutes.
     accessed: '2026-10-20'
+  split:
+    source: ufdcimages.uflib.ufl.edu-uf-e0-04-75-68-00001-goli_s.pdf-f1a892b9e56d
+    quote: |-
+      Kaveh Afagh left the band in 2013 to pursue his individual musical career and was replaced by Pedram Azad.
+    accessed: '2026-11-21'
+  study:
+    source: ufdcimages.uflib.ufl.edu-uf-e0-04-75-68-00001-goli_s.pdf-f1a892b9e56d
+    quote: |-
+      The Ways, a rock band of four musicians, was formed in Mashhad in 2005.
+    accessed: '2026-10-19'
+  members:
+    source: ufdcimages.uflib.ufl.edu-uf-e0-04-75-68-00001-goli_s.pdf-f1a892b9e56d
+    quote: |-
+      Alireza Pourreza (founder of the band and keyboard player), Kaveh Afagh (lead guitarist and vocalist), Hamed Ghannad (bass player and vocalist), and Iman Mohammadi (drummer and main lyricist)
+    accessed: '2026-10-19'
+  stress:
+    source: ufdcimages.uflib.ufl.edu-uf-e0-04-75-68-00001-goli_s.pdf-f1a892b9e56d
+    quote: |-
+      Stress, their first album released online on their official website and Facebook fan page in 2010, includes eleven songs
+    accessed: '2026-10-19'
 ---
 
-کاوه آفاق خوانندهٔ راک ایرانی است که بخشی از مسیر کاری او با گروه د ویز و بخشی با ضبط‌هایی به نام خودش پیوند دارد.[^interview][^departure]
+کاوه آفاق خواننده و گیتاریست راک ایرانی است. او از اعضای نخستین [دِ وِیز](/fa/the-ways-sxy/) بود که در سال ۲۰۰۵ در مشهد شکل گرفت. در گروه آواز می‌خواند و گیتار لید می‌زد تا اینکه در سال ۲۰۱۳ جدا شد و با نام خودش کار را ادامه داد.[^interview][^study][^members][^split]
 
-## راک و ترانه‌نویسی برای مخاطب عمومی
+## از دِ وِیز تا کار انفرادی
 
-آفاق در گفت‌وگو با هنرآنلاین گفته است که همواره قصد ساخت موسیقی برای مخاطب عمومی را داشته و تغییر در استقبال از آثارش را بیشتر ناشی از تغییر سلیقهٔ شنوندگان می‌داند تا کنار گذاشتن راک.[^direction] او در همان گفت‌وگو دربارهٔ جدایی از د ویز و شیوهٔ همکاری با اعضای گروه صحبت کرده است.[^departure]
+آفاق با دِ وِیز آلبوم [«استرس»](/fa/the-ways-sxy/#stress-f3j) را ضبط کرد. اعضای گروه آن را در سال ۲۰۱۰ در اینترنت منتشر کردند. آفاق بعدها گفت که به‌دلیل اختلاف در گروه از آن جدا شده است. می‌خواست همچنان با نوازندگان دیگر کار کند، بی‌آنکه حرف آخر همیشه با خودش باشد.[^members][^stress][^departure]
 
-در فهرست آثار انفرادی او، [Ba Ghors Ha Miraghsad](#ba-ghors-ha-miraghsad-7ap)، [The Shawl](#the-shawl-acw) و [Lotus](#lotus-tex) با تاریخ‌های ۲۰۱۶، ۲۰۱۸ و ۲۰۱۹ در اپل موزیک آمده‌اند.[^pills][^shawl][^lotus] این ضبط‌ها در کنار ارتباط مستند او با د ویز قرار می‌گیرند.
+آفاق در سال ۲۰۱۶ آلبوم [«با قرص‌ها می‌رقصد»](#ba-ghors-ha-miraghsad-7ap) و در ۲۰۱۸ [«شال»](#the-shawl-acw) را منتشر کرد. می‌گفت از ابتدا می‌خواسته موسیقی پرمخاطب بسازد و به نظرش آنچه تغییر کرده سلیقهٔ شنوندگان است که نسبت به ده سال پیش بیشتر به راک گوش می‌دهند. آلبوم [«لوتوس»](#lotus-tex) در سال ۲۰۱۹ منتشر شد.[^pills][^shawl][^direction][^lotus]

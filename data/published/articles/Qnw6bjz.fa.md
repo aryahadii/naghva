@@ -26,12 +26,32 @@ references:
     quote: |-
       Released  May 17, 2012
     accessed: '2026-10-20'
+  tour:
+    source: www.rferl.org-a-episode_3_talking_to_free_keys_and_kiosk-2209798.html-89c19aec0403
+    quote: |-
+      two band members were prevented from going because they had not done the two years of military service required in Iran.
+    accessed: '2026-11-21'
+  britain:
+    source: www.rferl.org-a-episode_3_talking_to_free_keys_and_kiosk-2209798.html-89c19aec0403
+    quote: |-
+      The only band member who made it to Britain was the bassist, Arya, who eventually left the band.
+    accessed: '2026-11-21'
+  report:
+    source: www.rferl.org-a-episode_3_talking_to_free_keys_and_kiosk-2209798.html-89c19aec0403
+    quote: |-
+      November 03, 2010
+    accessed: '2026-11-21'
+  session:
+    source: freemusicarchive.org-music-free_keys-live_at_wfmu_on_underwater_theme_park_may_17th_2012_1277-d1017d8ec5ff
+    quote: |-
+      Live at WFMU on Underwater Theme Park May 17th 2012
+    accessed: '2026-11-21'
 ---
 
-Free Keys گروهی راک از صحنهٔ موسیقی زیرزمینی تهران است که در فیلم «کسی از گربه‌های ایرانی خبر نداره» حضور داشت.[^tehran] در معرفی هم‌زمان با گفت‌وگوی رادیو فردا، آغاز فعالیت گروه سال ۲۰۰۷ ذکر شده است. این گزارش از ترکیب اولیهٔ خواننده، نوازندهٔ درامز و نوازندهٔ بیس و تغییر اعضا پس از خروج نوازندهٔ بیس از ایران می‌گوید.[^lineup]
+فری کیز گروه راکی بود که در سال ۲۰۰۷ در تهران شکل گرفت. پویا خواننده بود، آرش درامز می‌زد و آریا بیس می‌نواخت. گروه در فیلم «کسی از گربه‌های ایرانی خبر نداره» ساختهٔ بهمن قبادی دربارهٔ موسیقی‌دانان تهران در سال ۲۰۰۹ ظاهر شد و بعدها به بروکلین رفت.[^lineup][^tehran][^live]
 
-## ضبط‌ها و مهاجرت به بروکلین
+## سفری که ناتمام ماند
 
-در آن گفت‌وگو، Dream Mechanics آلبومی در دست ساخت معرفی شده بود؛ این خبر به‌عنوان برنامهٔ گروه حفظ شده و به‌تنهایی مدرک انتشار آلبوم محسوب نمی‌شود.[^plans] معرفی بعدی WFMU از انتقال گروه از تهران به بروکلین خبر می‌دهد.[^live]
+در سال ۲۰۰۸ این سه نفر می‌خواستند برای اجرای کنسرت به بریتانیا بروند. دو نفرشان هنوز خدمت سربازی را تمام نکرده بودند و نتوانستند از ایران خارج شوند. فقط آریا به بریتانیا رسید و سرانجام از گروه جدا شد. در تهران آمون برای خوانندگی و گیتار و علی برای نوازندگی بیس به گروه پیوستند.[^tour][^britain][^lineup] در سال ۲۰۱۰ اعضای گروه مشغول ساخت آلبومی بودند که می‌خواستند نامش را «Dream Mechanics» بگذارند.[^plans][^report]
 
-آرشیو Free Music Archive یک اجرا از گروه را با نام [Live at WFMU on Underwater Theme Park May 17th 2012](#live-at-wfmu-on-underwater-theme-park-may-17th-2012-k2w) و تاریخ انتشار ۱۷ مهٔ ۲۰۱۲ نگهداری می‌کند.[^date]
+نوازندگان گروه به بروکلین رفتند تا بتوانند بدون ترس از بازداشت روی صحنه بروند. در اردیبهشت ۱۳۹۱ در برنامهٔ رادیویی «Underwater Theme Park» اجرا کردند. [ضبط اجرای آن‌ها در WFMU](#live-at-wfmu-on-underwater-theme-park-may-17th-2012-k2w) همان ماه منتشر شد.[^live][^session][^date]

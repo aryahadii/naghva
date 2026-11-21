@@ -385,7 +385,7 @@ references:
     accessed: '2026-11-09'
 ---
 
-Hichkas is the stage name of Soroush Lashkari, an Iranian rapper born in Tehran on 9 May 1985.[^born] Often called the godfather of Iranian rap, he founded one of Iran’s first rap groups, 021, and in 2005 or 2006 released [*Jangale Asphalt*](#jangale-asphalt-3aq), a debut that set hip-hop beats against classical Iranian instruments.[^godfather][^021][^debut-sound][^debut-channel][^debut-catalogue] He left Iran in 2010, soon after releasing [“A Good Day Will Come”](#a-good-day-will-come-sf3), and has lived in London since.[^ye-rooze][^route] From there he released his second album, [*Mojaz*](#mojaz-mes), in 2020, and a series of protest songs.[^mojaz-meta][^bezan-plane]
+Hichkas is the stage name of Soroush Lashkari, an Iranian rapper born in Tehran on 9 May 1985.[^born] He founded one of Iran’s first rap groups, 021, and in 2005 or 2006 released [*Jangale Asphalt*](#jangale-asphalt-3aq), a debut that set hip-hop beats against classical Iranian instruments.[^godfather][^021][^debut-sound][^debut-channel][^debut-catalogue] He left Iran in 2010, soon after releasing [“A Good Day Will Come”](#a-good-day-will-come-sf3), and has lived in London since.[^ye-rooze][^route] From there he released his second album, [*Mojaz*](#mojaz-mes), in 2020, and a series of protest songs.[^mojaz-meta][^bezan-plane]
 
 ## Early life
 

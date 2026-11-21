@@ -1,0 +1,41 @@
+id: Qf58qyq
+type: release
+statements:
+  name:
+  - value:
+      text: KARIZ
+      language: en
+    references:
+    - &id001
+      source: rojinsharafi.bandcamp.com-album-kariz
+      quote: KARIZ
+      accessed: '2026-11-21'
+  performer:
+  - value: Q5vptv5
+    references:
+    - &id002
+      source: rojinsharafi.bandcamp.com-album-kariz
+      quote: Rojin Sharafi
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2021-11-05'
+    references:
+    - source: rojinsharafi.bandcamp.com-album-kariz
+      quote: 05 Nov 2021 00:00:00 GMT
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://rojinsharafi.bandcamp.com/album/kariz
+    references:
+    - *id001
+    - *id002
+  cover art:
+  - value: https://f4.bcbits.com/img/a3508575126_10.jpg
+    references:
+    - source: rojinsharafi.bandcamp.com-album-kariz
+      quote: https://f4.bcbits.com/img/a3508575126_10.jpg
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Rojin Sharafi, Bandcamp
+        language: en

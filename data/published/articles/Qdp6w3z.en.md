@@ -94,7 +94,7 @@ references:
     accessed: '2026-10-22'
 ---
 
-Peyman Salimi is a singer-songwriter, guitarist and music producer of Persian and Italian heritage. His work spans solo songwriting and the Florence indie-rock band The Allophones.[^bio][^band]
+Peyman Salimi is a singer-songwriter, guitarist and producer of Persian and Italian heritage. He founded the indie-rock band The Allophones in Florence, where it won the T-Rumors contest in 2011. After nine years with the band, Salimi returned to recording under his own name. On [*Won Now*](#won-now-2f7), he included songs in Persian for the first time.[^bio][^band][^won]
 
 ## Guitar studies and The Allophones
 

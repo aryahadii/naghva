@@ -272,7 +272,7 @@ references:
     accessed: '2026-10-23'
 ---
 
-Kourosh Yaghmaei, born in 1946, is an Iranian rock singer, guitarist and composer.[^born][^first-work] His 1973 hit “Gole Yakh” was a turning point for him and for Iranian rock.[^brothers][^gole-yakh-year] After the 1979 revolution he spent at least 25 years barred from working, yet he chose to stay in Iran.[^banned-25][^stay] Reissues by Now-Again Records brought his 1970s songs to listeners abroad, and the same label released his later albums.[^brink][^reissues][^now-again][^rebel-date]
+Kourosh Yaghmaei, born in 1946, is an Iranian rock singer, guitarist and composer.[^born][^first-work] His ballad [“Gole Yakh”](#gole-yakh-ks3) became a hit in 1973. BBC Persian later described the release of the album of the same name as a turning point for Yaghmaei and for Iranian rock.[^brothers][^gole-yakh-year] After the 1979 revolution he spent at least 25 years barred from working, yet he chose to stay in Iran.[^banned-25][^stay] Reissues by Now-Again Records brought his 1970s songs to listeners abroad, and the same label released his later albums.[^brink][^reissues][^now-again][^rebel-date]
 
 ## Early life
 

@@ -15,11 +15,6 @@ references:
     quote: |-
       Shahin Najafi was born in 1980 in Bandar-e Anzali, a small town in northern Iran. As a teenager, he fell in love with the plaintive melodies of Quranic recitation and devoted himself to the art for four years. Kicked out of college before completing a degree in Islamic sociology, Najafi served in the military, where intimate familiarity with the struggles of his fellow soldiers—most of whom were working class and poor—shook his religious faith and stirred his political consciousness. After playing in an instrumental pop group and singing in a Gypsy Kings cover band, Najafi began to write his own songs, which soon drew the attention of the authorities. Escaping a sentence of three years in prison and 100 lashes for his politically subversive lyrics, he fled to Germany in 2004.
     accessed: '2026-11-09'
-  fa-germany:
-    source: fa.wikipedia.org-wiki-shahin-najafi
-    quote: |-
-      شاهین نجفی در سال ۱۳۸۴ به کشور آلمان مهاجرت کرد. او نخست سرپرست گروهی به‌نام اینان شد و سپس به گروه تپش ۲۰۱۲ پیوست و فعالیت می‌کرد.
-    accessed: '2026-11-09'
   meta:
     source: t.me-shahinnajafimusic-1434
     quote: |-
@@ -179,11 +174,6 @@ references:
     quote: |-
       Shahin Najafi is an Iranian rapper who has lived in Germany since 2005. His songs are known to be critical of socio-political developments in his home country. His latest song, "Naghi", which was named after the tenth imam in Shia Islam, has caused a stir in Iran. The lyrics call on him in a sarcastic and almost obscene way to come back to life and end the catastrophic status quo in Iran. Iran's 92-year-old Grand Ayatollah Safi Golpaygani said: "If the song contains any insults or indecency towards Imam Naghi, then it is blasphemy, and God knows what to do." The Iranian press interpreted the statement as a fatwa against Najafi. But a theologian in Tehran on Thursday, 10 May, put the comment into context: "The grand ayatollah has not issued a fatwa. He was answering a question about the defamation of a Shia saint ... "
     accessed: '2026-11-09'
-  makarem:
-    source: en.wikipedia.org-wiki-shahin_najafi-90d9d4902367
-    quote: |-
-      Grand Ayatollah Naser Makarem-Shirazi, a "source of emulation" for many Shia Muslims, also issued a fatwa declaring Najafi guilty of apostasy.
-    accessed: '2026-11-09'
   rahenikan:
     source: en.wikipedia.org-wiki-shahin_najafi-90d9d4902367
     quote: |-
@@ -255,12 +245,6 @@ references:
       December 8, 2013
       1 song, 4 minutes
       ℗ 2013 Shahin Najafi
-    accessed: '2026-11-06'
-  shaabanarrangement:
-    source: music.apple.com-us-album-shaaban-single-777531580
-    quote: |-
-      LYRIC&MUSIC: SHAHIN NAJAFI
-      ARRANGEMENT: MAJID KAZEMI
     accessed: '2026-11-06'
   character:
     source: beehy.pe-shahin-najafi-shaaban-iran-2fcf3efd80d3
@@ -546,59 +530,9 @@ references:
       8 songs, 58 minutes
       ℗ 2024 The Shah
     accessed: '2026-11-06'
-  fereydoon:
-    source: music.apple.com-us-album-fereydoon-feat-shahin-najafi-single-1840084663
-    quote: |-
-      September 7, 2025
-    accessed: '2026-11-09'
-  fereydoon-name:
-    source: music.apple.com-us-album-fereydoon-feat-shahin-najafi-single-1840084663
-    quote: |-
-      Fereydoon (feat. Shahin Najafi) - Single - Album by Ramin Sokouty - Apple Music
-    accessed: '2026-11-09'
-  javid:
-    source: music.apple.com-us-album-javid-shah-single-1871909919
-    quote: |-
-      January 22, 2026
-    accessed: '2026-11-09'
-  javid-name:
-    source: music.apple.com-us-album-javid-shah-single-1871909919
-    quote: |-
-      Javid Shah - Single - Album by Shahin Najafi & Ramin Sokouty - Apple Music
-    accessed: '2026-11-09'
-  shahrah:
-    source: music.apple.com-us-album-shahrah-single-6768099026
-    quote: |-
-      May 15, 2026
-    accessed: '2026-11-09'
-  shahrah-name:
-    source: music.apple.com-us-album-shahrah-single-6768099026
-    quote: |-
-      Shahrah - Single - Album by Ebi & Shahin Najafi - Apple Music
-    accessed: '2026-11-09'
-  dashi:
-    source: music.apple.com-us-album-dashi-single-6795318995
-    quote: |-
-      July 31, 2026
-    accessed: '2026-11-09'
-  dashi-name:
-    source: music.apple.com-us-album-dashi-single-6795318995
-    quote: |-
-      Dashi - Single - Album by Shahin Najafi & Erfan - Apple Music
-    accessed: '2026-11-09'
-  grave:
-    source: music.apple.com-us-album-grave-single-6800676266
-    quote: |-
-      August 16, 2026
-    accessed: '2026-11-09'
-  grave-name:
-    source: music.apple.com-us-album-grave-single-6800676266
-    quote: |-
-      Grave - Single - Album by Shahin Najafi - Apple Music
-    accessed: '2026-11-09'
 ---
 
-شاهین نجفی، با نام اصلی مرتضی نجفی‌پور مقدم، خواننده، ترانه‌سرا، نوازندهٔ گیتار و شاعر ایرانی است که در ۱۹ شهریور ۱۳۵۹ در بندر انزلی به دنیا آمد.[^name-wk][^fa-born] او در ۲۰۰۴ یا ۲۰۰۵ میلادی به آلمان رفت.[^ssrc-early][^fa-germany] کارش از رپ و راک تا جز تلفیقی با مایه‌های گیلکی و آهنگسازی برای گروه سازها را در بر می‌گیرد و با نام «دِ شاه» موسیقی الکترونیک هم می‌سازد.[^meta][^sacred][^electronic] ترانهٔ «[نقی](#naghi-gez)» در ۲۰۱۲ میلادی باعث شد یک مرجع تقلید او را مرتد بخواند و وب‌سایتی برای کشتنش صد هزار دلار جایزه بگذارد؛ او با حفاظت پلیس آلمان پنهان شد.[^ssrc-judgment][^ssrc-apostate]
+شاهین نجفی، با نام اصلی مرتضی نجفی‌پور مقدم، خواننده، ترانه‌سرا، نوازندهٔ گیتار و شاعر ایرانی است که در ۱۹ شهریور ۱۳۵۹ در بندر انزلی به دنیا آمد.[^name-wk][^beginnings][^fa-born] او در ۲۰۰۴ یا ۲۰۰۵ میلادی به آلمان رفت.[^ssrc-early][^germany] کارش از رپ و راک تا جز تلفیقی با مایه‌های گیلکی و آهنگسازی برای گروه سازها را در بر می‌گیرد و با نام «دِ شاه» موسیقی الکترونیک هم می‌سازد.[^meta][^sacred][^electronic] ترانهٔ «[نقی](#naghi-gez)» در ۲۰۱۲ میلادی تهدیدهای جانی به دنبال داشت. وب‌سایتی برای کشتن نجفی صد هزار دلار جایزه گذاشت و او با حفاظت پلیس آلمان پنهان شد.[^ssrc-judgment][^threatreport]
 
 ## کودکی و جوانی
 
@@ -616,13 +550,13 @@ references:
 
 «[هیچ هیچ هیچ](#hich-hich-hich-99f)» در ۹ اسفند ۱۳۹۰ منتشر شد.[^hich][^hich-name] فاطمه اختصاری، یکی از شاعران همکار او در این آلبوم، بعدها در ایران به یازده سال و نیم زندان و ۹۹ ضربه شلاق محکوم شد؛ حکمی که در ویکی‌پدیای فارسی به همکاری‌اش با نجفی نسبت داده شده است.[^ekhtesari] نجفی «نقی» را در ۲۰۱۲ میلادی منتشر کرد. این ترانه از یک کارزار طنز فیس‌بوکی برخاست که سخنانی ساختگی را به علی‌النقی، امام دهم شیعیان، نسبت می‌داد. او با آنکه دلبستهٔ فرهنگ هیپ‌هاپ نبود، رپ را برگزید، چون آن را زبان موسیقایی ساده، مستقیم و نیرومندی برای این قطعه می‌دانست. ترانه دینداری‌های رایج را به سخره می‌گیرد و از فعالان سکولارِ دور از وطن هم نمی‌گذرد.[^ssrc-songs][^naghiorigin] به گفتهٔ خودش، امام تنها بهانه بود. یکی از ترانه‌های پیشینش دربارهٔ امام دوازدهم بود که قرار است بازگردد و جهان را نجات دهد؛ در این ترانه، راوی که از او ناامید شده، از امام دهم می‌خواهد جامعه را نجات دهد.[^qa-excuse][^qa-pretext]
 
-در بهار ۱۳۹۱ آیت‌الله لطف‌الله صافی گلپایگانی حکمی دربارهٔ او صادر کرد و وب‌سایت شیعه‌آنلاین برای کشتن او صد هزار دلار جایزه گذاشت.[^ssrc-judgment][^threatreport] صافی گفته بود اگر ترانه به امام اهانت کرده باشد، کفر است. مطبوعات ایران این سخن را فتوا تعبیر کردند، اما یک الهی‌دان در تهران گفت فتوایی صادر نشده است.[^qa-intro] صافی نجفی را مرتد خواند؛ جرمی که به نظر بسیاری از فقیهان کلاسیک مجازاتش مرگ است. آیت‌الله ناصر مکارم شیرازی هم او را مرتد اعلام کرد.[^ssrc-apostate][^makarem] اندکی بعد چهل نویسندهٔ انتشارات مذهبی «راه نیکان» وعده دادند حق‌التألیف کتاب‌هایشان را به کسی بدهند که او را بکشد.[^rahenikan] نجفی با حفاظت پلیس آلمان پنهان شد.[^ssrc-judgment] او قصد توهین را رد کرد. گفت انتظار پیامدهای سیاسی را داشته، اما فکر نمی‌کرده حکومت تا این اندازه برآشفته شود، و حالا حکومت ترانه را حمله‌ای به مؤمنان جلوه می‌دهد. افزود که به کارشان ادامه خواهند داد.[^naghi][^qa-ramifications][^qa-continue]
+آیت‌الله لطف‌الله صافی گلپایگانی گفته بود اگر ترانه به امام اهانت کرده باشد، کفر است. مطبوعات ایران این پاسخ را فتوایی علیه نجفی تعبیر کردند، اما یک الهی‌دان در تهران گفت صافی به پرسشی کلی پاسخ داده است. در روایتی متأخرتر، سخن صافی حکم ارتداد نجفی دانسته شد.[^qa-intro][^ssrc-apostate] وب‌سایت شیعه‌آنلاین برای کشتن نجفی صد هزار دلار جایزه گذاشت.[^threatreport] اندکی بعد چهل نویسندهٔ انتشارات مذهبی «راه نیکان» وعده دادند حق‌التألیف کتاب‌هایشان را به کسی بدهند که او را بکشد.[^rahenikan] نجفی با حفاظت پلیس آلمان پنهان شد.[^ssrc-judgment] او قصد توهین را رد کرد. گفت انتظار پیامدهای سیاسی را داشته، اما فکر نمی‌کرده حکومت تا این اندازه برآشفته شود، و حالا حکومت ترانه را حمله‌ای به مؤمنان جلوه می‌دهد. افزود که به کارشان ادامه خواهند داد.[^naghi][^qa-ramifications][^qa-continue]
 
 در پاییز همان سال در آمریکا تور گذاشت و برای شنوندگان انگلیسی‌زبان از نیچه و آدورنو نقل قول آورد. در این تور، ۹ مهر در دانشگاه کالیفرنیا، برکلی، سخنرانی کرد و ۲۶ آبان در همان دانشگاه و ۲۸ آبان ۱۳۹۱ در دانشگاه کالیفرنیا، سن‌دیگو، کنسرت داد.[^ssrc-tour][^ustour]
 
 ## آلبوم‌ها و ترانه‌ها
 
-پس از آن «[ترامادول](#tramadol-3t2)» را در ۱۵ مهر ۱۳۹۲، ای‌پی «[۱۴۱۴](#1414-7zh)» را در ۲۵ فروردین ۱۳۹۳ و «[ساده](#sade-f24)» را در ۱۱ اردیبهشت ۱۳۹۴ منتشر کرد.[^tramadol][^tramadol-name][^ep1414][^ep1414-name][^sade][^sade-name] در «[شعبان](#shaaban-5p5)»، که در سال ۱۳۹۲ با تنظیم مجید کاظمی منتشر شد، کارگری خیالی را تصویر کرد. او توضیح داد که شعبان فردی واقعی نیست، اما فقر کارگران در ایران و جاهای دیگر را نمایندگی می‌کند.[^shaabancredits][^shaabanarrangement][^character][^subject]
+پس از آن «[ترامادول](#tramadol-3t2)» را در ۱۵ مهر ۱۳۹۲، ای‌پی «[۱۴۱۴](#1414-7zh)» را در ۲۵ فروردین ۱۳۹۳ و «[ساده](#sade-f24)» را در ۱۱ اردیبهشت ۱۳۹۴ منتشر کرد.[^tramadol][^tramadol-name][^ep1414][^ep1414-name][^sade][^sade-name] در «[شعبان](#shaaban-5p5)»، که در سال ۱۳۹۲ منتشر شد، کارگری خیالی را تصویر کرد. او توضیح داد که شعبان فردی واقعی نیست، اما فقر کارگران در ایران و جاهای دیگر را نمایندگی می‌کند.[^shaabancredits][^character][^subject]
 
 در سال ۱۳۹۶، هم‌زمان با انتشار «[رادیکال](#radikal-gkk)» و «[آبی](#blue-z27)»، از تغییر اولویت‌هایش گفت: می‌خواست با موسیقی از زبان گفتاری فراتر برود و دیگر شعر را در اولویت نمی‌گذاشت. گیلکی و فلامنکو از آغاز کار در ایران برایش اهمیت داشتند؛ هنوز لالایی را به گیلکی در گوش داشت و نگران از میان رفتن این زبان بود. در «آبی»، متن خود را کنار شعر حافظ و بخش‌هایی از قرآن گذاشت. او بر ادامهٔ تجربه و تغییر تأکید می‌کرد و می‌گفت جنجال‌های اجتماعی و سیاسی پیرامون آثارش، تجربه‌های او در فرم را به حاشیه برده‌اند.[^radikaldate][^bluedate][^form][^gilaki][^lullaby][^blue][^change]
 
@@ -640,4 +574,4 @@ references:
 
 در جریان اعتراض‌هایی که پس از مرگ مهسا امینی درگرفت، «[هشتادیا](#hashtadia-yq2)» را منتشر کرد؛ نامی که ایرانیان به نسل زد می‌دهند. منتقدی نوشت واژه‌های او مثل رگبار مسلسل رها می‌شوند و او با سیلی از دشنام‌های فارسی می‌گوید جمهوری اسلامی چه حسی به او داده است.[^hashtadia-date][^hashtadia-date-name][^hashtadia] «[صبح انتقام](#sobhe-entegham-twr)» در ۳۰ آذر ۱۴۰۱ منتشر شد.[^sobhe][^sobhe-name] در خرداد ۱۴۰۲ در کالیفرنیا پلازا اجرایی کم‌یاب در لس‌آنجلس داشت.[^gp-concert][^gp-rare]
 
-تا سال ۱۴۰۳ با نام «دِ شاه» موسیقی الکترونیک منتشر می‌کرد و رویکردش را ترکیب صداهای ایرانی با تأثیرهایی از موسیقی خاورمیانه و افروبیت توصیف می‌کرد. در مهر همان سال آلبوم «[Semen](#semen-4bz)» را با همکاری «Hand» منتشر کرد.[^electronic][^semen][^semendate] همکاری با خوانندگان دیگر را ادامه داد: «[فریدون](#fereydoon-mp3)» و «[جاوید شاه](#javid-shah-jyc)» با رامین سکوتی، «[شاهراه](#shahrah-zbe)» با ابی در ۲۵ اردیبهشت ۱۴۰۵ و «[داشی](#dashi-7r4)» با عرفان در ۹ مرداد ۱۴۰۵. تک‌آهنگ «[Grave](#grave-jzz)» او در ۲۵ مرداد ۱۴۰۵ منتشر شد.[^fereydoon][^fereydoon-name][^javid][^javid-name][^shahrah][^shahrah-name][^dashi][^dashi-name][^grave][^grave-name]
+تا سال ۱۴۰۳ با نام «دِ شاه» موسیقی الکترونیک منتشر می‌کرد و رویکردش را ترکیب صداهای ایرانی با تأثیرهایی از موسیقی خاورمیانه و افروبیت توصیف می‌کرد. در مهر همان سال آلبوم «[Semen](#semen-4bz)» را با همکاری «Hand» منتشر کرد.[^electronic][^semen][^semendate]

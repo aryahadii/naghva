@@ -95,14 +95,6 @@ references:
     source: www.youtube.com-watch-v-_jrbp7qrxd8
     quote: 'Music : Habib Meftah & Pouya Mahmoodi'
     accessed: '2026-10-22'
-  falfaali-apple:
-    source: music.apple.com-us-album-falfaali-feat-pouya-mahmoodi-single-1527126169
-    quote: '"datePublished":"2020-07-17"'
-    accessed: '2026-10-22'
-  falfaali-bandcamp:
-    source: habibmeftah.bandcamp.com-track-falfaali
-    quote: released October 10, 2020
-    accessed: '2026-10-22'
   ep:
     source: habibmeftah.bandcamp.com-album-unbalanced
     quote: NEW EP by Habib Meftah
@@ -139,9 +131,13 @@ references:
     source: soundcloud.com-habib-boushehri-habib-meftah-1000-farsang-ft-rouzbeh-esfand
     quote: 'Lyrics : Salam Riazy'
     accessed: '2026-10-22'
+  edition-falfaali-bandcamp:
+    source: habibmeftah.bandcamp.com-track-falfaali
+    quote: FALFAALI by HABIB MEFTAH - POUYA MAHMOODI
+    accessed: '2026-11-21'
 ---
 
-حبیب مفتاح نوازندهٔ سازهای کوبه‌ای اهل بوشهر است که موسیقی جنوب ایران را در قالب‌هایی امروزی به کار می‌گیرد. او موسیقی‌اش را موسیقی محلیِ دست‌ساز می‌داند، حتی وقتی تغییر صدای سازها شنونده را به یاد موسیقی الکترونیک می‌اندازد.[^origin][^handmade] نام کاملش Habib Meftah Boushehri است؛ در گفت‌وگویی در سال ۲۰۱۹ توضیح داده که نام هنری‌اش را کوتاه کرده، اما پسوند بوشهری همچنان در گذرنامه‌اش هست.[^name][^origin]
+حبیب مفتاح نوازندهٔ سازهای کوبه‌ای اهل بوشهر است که موسیقی جنوب ایران را در قالب‌هایی امروزی به کار می‌گیرد. او موسیقی‌اش را موسیقی محلیِ دست‌ساز می‌داند، حتی وقتی تغییر صدای سازها شنونده را به یاد موسیقی الکترونیک می‌اندازد.[^origin][^handmade] نام کاملش حبیب مفتاح بوشهری است؛ در گفت‌وگویی در سال ۲۰۱۹ توضیح داده که نام هنری‌اش را کوتاه کرده، اما پسوند بوشهری همچنان در گذرنامه‌اش هست.[^name][^origin]
 
 ## یادگیری در بوشهر
 
@@ -149,9 +145,9 @@ references:
 
 ## فرانسه و تجربه‌های گروهی
 
-مفتاح در بیست‌وسه‌سالگی، پس از دعوت گروه رقص Montalvo-Hervieu، همراه با نوازندهٔ نی‌انبان Saeid Shanbehzadeh برای همکاری در یک پروژهٔ رقص به فرانسه رفت.[^france] او نخستین آلبوم انفرادی‌اش، *Deyzangeroo*، را متعلق به سال ۲۰۰۵ می‌داند.[^first]
+مفتاح در بیست‌وسه‌سالگی، پس از دعوت گروه رقص Montalvo-Hervieu، همراه با نوازندهٔ نی‌انبان سعید شنبه‌زاده برای همکاری در یک پروژهٔ رقص به فرانسه رفت.[^france] او نخستین آلبوم انفرادی‌اش، *Deyzangeroo*، را متعلق به سال ۲۰۰۵ می‌داند.[^first]
 
-در کنار فعالیت انفرادی، او در سال ۲۰۰۶ همراه با Reza Abaee، Hamid Saeedi و Henrik Nagi گروه [Gabgoo](/fa/gabgoo-253/) را شکل داد.[^gabgoo] مفتاح همچنین از اعضای ترکیب آغازین [دارکوب](/fa/darkoob-band-7aj/) در سال ۱۳۸۶ بود.[^darkoob]
+در کنار فعالیت انفرادی، او در سال ۲۰۰۶ همراه با رضا آبایی، [حمید سعیدی](/fa/hamid-saeedi-zen/) و هنریک ناگی گروه [Gabgoo](/fa/gabgoo-253/) را شکل داد.[^gabgoo] مفتاح همچنین از اعضای ترکیب آغازین [دارکوب](/fa/darkoob-band-7aj/) در سال ۱۳۸۶ بود.[^darkoob]
 
 ## Shibaali؛ خاطره و صدا
 
@@ -161,6 +157,6 @@ references:
 
 ## ترانه‌ها و همکاران
 
-مفتاح و Pouya Mahmoodi در [*FALFAALI*](#falfaali-vbh) ملودی قدیمی موسیقی محلی بوشهر را مبنا قرار دادند؛ شعر از Mohammad Laryan است و گیتار الکتریک میکروتونال را Pouya Mahmoodi می‌نوازد.[^falfaali] در توضیحات ویدئوی رسمی، ساخت موسیقی به نام هر دو ثبت شده است. اپل موزیک تاریخ تک‌آهنگ را ژوئیهٔ ۲۰۲۰ و نسخهٔ بندکمپ مفتاح آن را اکتبر همان سال ثبت کرده‌اند.[^falfaali-music][^falfaali-apple][^falfaali-bandcamp]
+مفتاح و پویا محمودی در [*FALFAALI*](#falfaali-vbh) ملودی قدیمی موسیقی محلی بوشهر را مبنا قرار دادند؛ شعر از محمد لاریان است و گیتار الکتریک میکروتونال را پویا محمودی می‌نوازد.[^falfaali][^falfaali-music][^edition-falfaali-bandcamp]
 
-ای‌پی سه‌قطعه‌ای [*Unbalanced*](#unbalanced-8ab) در اکتبر ۲۰۲۱، با موسیقی مفتاح، شعر Mohammad Laryan و تهیه‌کنندگی Valentin Mussou منتشر شد.[^ep][^ep-date][^ep-credits] در ژانویهٔ ۲۰۲۵ نیز مفتاح و Rouzbeh Esfand قطعهٔ [*1000 FARSANG*](#1000-farsang-qn2) را با شعر Salam Riazy منتشر کردند.[^1000][^1000-date][^1000-lyrics]
+ای‌پی سه‌قطعه‌ای [*Unbalanced*](#unbalanced-8ab) در اکتبر ۲۰۲۱، با موسیقی مفتاح، شعر محمد لاریان و تهیه‌کنندگی Valentin Mussou منتشر شد.[^ep][^ep-date][^ep-credits] در ژانویهٔ ۲۰۲۵ نیز مفتاح و Rouzbeh Esfand قطعهٔ [*1000 FARSANG*](#1000-farsang-qn2) را با شعر Salam Riazy منتشر کردند.[^1000][^1000-date][^1000-lyrics]

@@ -30,11 +30,6 @@ references:
     quote: |-
       اجرای ۲۹ آبان در رشت، نخستین قرار ملاقات ما بود. و آنچه در آن دیدارِ شورانگیز رفت، نه موسیقی بود و نه ترانه! هیچ نبود جز روایت صادقِ شُوان
     accessed: '2026-10-22'
-  shovan-release:
-    source: t.me-jumamusic-65
-    quote: |-
-      • انتشار از: نشر ساخت ایران
-    accessed: '2026-10-22'
   shovan-stories:
     source: t.me-jumamusic-66
     quote: |-
@@ -55,21 +50,6 @@ references:
     quote: |-
       released January 24, 2022
     accessed: '2026-10-19'
-  adaptations:
-    source: t.me-jumamusic-71
-    quote: |-
-      آهنگ: برگرفته از قطعه‌ی سلطان قلبها اثر انوشیروان روحانی
-    accessed: '2026-10-22'
-  poet:
-    source: t.me-jumamusic-94
-    quote: |-
-      شعر: رمضان پورطاهر (دهه‌ی ۵۰)
-    accessed: '2026-10-22'
-  monsefi:
-    source: t.me-jumamusic-94
-    quote: |-
-      آهنگ: براساس ترانه‌ی آدمِ پوچ از ابراهیم منصفی و در یاد او
-    accessed: '2026-10-22'
   okhan-account:
     source: t.me-jumamusic-195
     quote: |-
@@ -85,21 +65,6 @@ references:
     quote: |-
       تاریخ انتشار: دهم مهرماه ۱۴۰۳
     accessed: '2026-10-22'
-  okhan-release:
-    source: t.me-jumamusic-198-fe9bc21c52a6
-    quote: |-
-      منتشر شد! اوخان | OKHAN
-    accessed: '2026-10-22'
-  okhan-format:
-    source: t.me-jumamusic-208
-    quote: |-
-      حاوی ۱۰ ترانه/ روایت (MP3) به همراهِ دفترچه‌ اوخان: یادداشت جوما و متن دو زبانه‌ روایتها (PDF)
-    accessed: '2026-10-19'
-  okhan-meaning:
-    source: t.me-jumamusic-169
-    quote: |-
-      در زبان گیلکی "اوخان" یعنی پژواک. بازتابِ صدا...
-    accessed: '2026-10-19'
   okhan-subject:
     source: t.me-jumamusic-169
     quote: |-
@@ -140,26 +105,22 @@ references:
     quote: |-
       تنظیم و گیتار: سامان ایوبی
     accessed: '2026-10-22'
+  edition-okhan-release:
+    source: t.me-jumamusic-198-fe9bc21c52a6
+    quote: منتشر شد! اوخان | OKHAN
+    accessed: '2026-11-21'
 ---
 
-Juma is a music project built around research into Gilan’s popular songs, combining songs with stories about their poets and origins. Researcher, journalist and singer امین حق‌ره from Bandar Anzali began the project in 1399 of the Solar Hijri calendar; its performances focus on guitar and voice.[^research][^storytelling]
+Juma is a project devoted to the popular songs of Gilan in northern Iran. Its founder, امین حق‌ره, a singer and journalist from Bandar Anzali, accompanies the songs on guitar and tells the stories of the people who wrote them. He began sharing the project publicly in November 2020.[^research][^storytelling][^launch]
 
-## An idea, then a public beginning
+## Beginnings in Gilan
 
-Owrsi traces the project’s spark to a humid summer night in Bandar Anzali in 1378, and says it became more serious in the late 1380s when Juma performed «از موی سیاه تو» among people at a rehabilitation centre in Gilan. These are earlier stages in the project’s development; Juma dates its public beginning to 24 Aban 1399, with the release of «یعنی که دِ پاییزه».[^idea][^revival][^launch]
+The idea took shape in Bandar Anzali in the summer of 1999. Late in the following decade, the project took on new life with a performance of «از موی سیاه تو» for residents of a rehabilitation centre in Gilan. When Juma began releasing them publicly in 2020, it also arranged a first meeting with listeners in Rasht to tell the songs’ stories.[^idea][^revival][^launch][^live]
 
-Juma recalls its first gathering with an audience in Rasht as an evening of stories about songs, their poets and earlier generations.[^live]
+Over the course of a year Juma shared eight songs and their stories for free. In 2022 they appeared together on [*Shovan*](#shovan-ytr). A booklet for the CD included the Gilaki lyrics, Persian translations and summaries of the stories.[^shovan-stories][^shovan-issues][^shovan-date][^shovan-cd]
 
-## Songs as stories, and music remade
+## Recovering songs
 
-[Shovan](#shovan-ytr) shows the project’s early form: each of its eight tracks carries an accompanying story. Juma says the songs and their narratives first appeared gradually and free through its own channels over a year. Juma dates the digital and cassette edition with Made in Iran to Esfand 1400, while the label catalogue gives 24 January 2022. Juma also prepared a limited CD edition with a booklet containing the Gilaki lyrics, Persian translations and story summaries.[^shovan-stories][^shovan-issues][^shovan-release][^shovan-date][^shovan-cd]
+For [*Okhan*](#okhan-kge), released in 2024, Juma explored songs from Gilan during the Second World War and the years of occupation. Where a recording of singer Fahimeh Akbar survived, Juma could sing the song again in a new arrangement. For others, the project drew on written documents and fragments of sound. Where only the words survived, Juma wrote new music.[^okhan-account][^okhan-methods][^okhan-subject][^okhan-date][^edition-okhan-release]
 
-Some standalone recordings also make that relationship with earlier music audible. [«دُرفَک»](#درفک-fxf) draws its music from «سلطان قلبها» by انوشیروان روحانی. For [«نایه آفتو»](#نایه-آفتو-آفتاب-نمی-آید-a57), Juma performs a poem by رمضان پورطاهر over music based on «آدمِ پوچ» by [ابراهیم منصفی](/en/ebrahim-monsefi-qjv/), in his memory.[^adaptations][^poet][^monsefi]
-
-With [Okhan](#okhan-kge), the project moved among reconstruction, re-performance and new composition. In its own account, Juma returned to songs in the book Okhan, associated with جهانگیرخان سرتیپ‌پور and فهیمه اکبر, as well as other unheard material. It distinguishes three approaches: newly arranged re-performances of songs surviving in low-quality recordings of Akbar; reconstructions based on surviving audio and written documents; and new music composed by Juma for poems or songs without surviving evidence of a melody. Juma says Okhan is a Gilaki word for echo and sets the narratives in Gilan during the Second World War and the occupation years 1320–1325. Okhan was released on 10 Mehr 1403 (1 October 2024) as ten songs or narratives with notes and a bilingual text booklet.[^okhan-account][^okhan-methods][^okhan-meaning][^okhan-subject][^okhan-date][^okhan-release][^okhan-format]
-
-## A harbour in dew and fog
-
-Juma describes Shurum as a word used in Bandar Anzali with two meanings: dew, the tear-like wetness on flowers and trees before sunrise, and fog so thick that even the sea disappears from view. Fishers, the account says, hope the sea will be generous after such fog. Juma says the album grew from this interplay of dew and fog, as musical narratives from the harbour, born among tears, fire and mist.[^shurum-word][^shurum-fog][^shurum-intent]
-
-[Shurum](#shurum-phy)’s digital edition was released on 19 Tir 1405 (10 July 2026): eight songs or narratives with a booklet of notes and bilingual texts. The release credits Juma with music and performance, and سامان ایوبی with arrangement and guitar.[^shurum-release][^shurum-date][^shurum-format][^shurum-arrangement]
+In 2026 Juma released [*Shurum*](#shurum-phy), eight musical stories inspired by Bandar Anzali. In the port, the title can mean dew on the trees before sunrise or fog thick enough to hide the sea. Saman Ayoubi arranged the music and played guitar.[^shurum-word][^shurum-fog][^shurum-intent][^shurum-release][^shurum-date][^shurum-format][^shurum-arrangement]

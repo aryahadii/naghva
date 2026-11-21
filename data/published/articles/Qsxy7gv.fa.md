@@ -24,14 +24,34 @@ references:
       Mix and Mastering : Arash Pakzad
       Cover: Jamal Dehghan poor
     accessed: '2026-10-19'
+  students:
+    source: ufdcimages.uflib.ufl.edu-uf-e0-04-75-68-00001-goli_s.pdf-f1a892b9e56d
+    quote: |-
+      The Ways’ members met during their undergraduate years at university.
+    accessed: '2026-11-21'
+  empire:
+    source: ufdcimages.uflib.ufl.edu-uf-e0-04-75-68-00001-goli_s.pdf-f1a892b9e56d
+    quote: |-
+      After Ershād rejected their request for an official permit, The Ways’ members began producing underground music under the name Empire, which was later changed to The Ways.
+    accessed: '2026-11-21'
+  split:
+    source: ufdcimages.uflib.ufl.edu-uf-e0-04-75-68-00001-goli_s.pdf-f1a892b9e56d
+    quote: |-
+      Kaveh Afagh left the band in 2013 to pursue his individual musical career and was replaced by Pedram Azad.
+    accessed: '2026-11-21'
+  remote:
+    source: ufdcimages.uflib.ufl.edu-uf-e0-04-75-68-00001-goli_s.pdf-f1a892b9e56d
+    quote: |-
+      Alireza Pourreza and Hamed Ghannad moved to North America and continue their musical cooperation with the band remotely.
+    accessed: '2026-11-21'
 ---
 
-The Ways گروه راک اهل مشهد است. پژوهش Shabnam Goli در سال ۲۰۱۴ ترکیب اولیهٔ چهار نفره را چنین معرفی می‌کند: Alireza Pourreza نوازندهٔ کیبورد، Kaveh Afagh نوازندهٔ گیتار و خواننده، Hamed Ghannad نوازندهٔ باس و خواننده و Iman Mohammadi نوازندهٔ درام و ترانه‌نویس.[^study][^members]
+دِ وِیز گروه راکی است که در سال ۲۰۰۵ در مشهد شکل گرفت. چهار عضو نخست آن در دورهٔ دانشجویی با هم آشنا شدند. پس از آنکه وزارت ارشاد با درخواست مجوزشان موافقت نکرد، با نام Empire به‌صورت زیرزمینی موسیقی ساختند و بعدها نام The Ways را برگزیدند. در سال ۲۰۱۰ نخستین آلبومشان را از راه اینترنت به دست شنوندگان رساندند.[^study][^students][^empire][^stress]
 
-## Stress
+## ضبط در مشهد
 
-گلی نخستین آلبوم گروه، *[Stress](#stress-f3j)*، را مجموعه‌ای یازده‌قطعه‌ای توصیف می‌کند که در سال ۲۰۱۰ از وب‌سایت و صفحهٔ فیس‌بوک خود گروه منتشر شد.[^stress]
+علیرضا پوررضا، نوازندهٔ کیبورد، گروه را راه انداخت. [کاوه آفاق](/fa/kaveh-afagh-syb/) آواز می‌خواند و گیتار لید می‌زد، حامد قناد می‌خواند و بیس می‌نواخت و ایمان محمدی، درامر گروه، بیشتر شعرها را می‌نوشت. گروه یازده قطعهٔ آلبوم [«استرس»](#stress-f3j) را در وب‌سایت و صفحهٔ فیس‌بوک خودش منتشر کرد.[^members][^stress]
 
-## پرسه
+## همکاری از راه دور
 
-موسیقی و کلام «پرسه» را Ghannad نوشته است. طبق اطلاعات انتشار در حساب خود گروه، تنظیم اثر را Pedram Azad، نوازندگی گیتار را Servin Radfar و میکس و مسترینگ را Arash Pakzad انجام داده‌اند.[^parseh]
+در سال ۲۰۱۳ آفاق برای ادامهٔ کار انفرادی از گروه جدا شد و پدرام آزاد جایش را گرفت. پوررضا و قناد پس از مهاجرت به آمریکای شمالی از راه دور با گروه کار کردند.[^split][^remote] در قطعهٔ [«پرسه»](#parseh-krm) آهنگ و کلام را قناد نوشت و آزاد آن را تنظیم کرد.[^parseh]

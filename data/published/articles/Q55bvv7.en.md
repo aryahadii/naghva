@@ -30,12 +30,22 @@ references:
     quote: |-
       درود بر آزادی آزادی آزادی آزادی آزادی آزادی آزادی آزادی آزادی آزادی آزادی آزادی
     accessed: '2026-10-19'
+  rotterdam:
+    source: tarxun.bandcamp.com-album-ashoob-live-in-rotterdam
+    quote: |-
+      Performed and recorded live on 17.12.22 in WORM, Rotterdam
+    accessed: '2026-11-21'
+  live-date:
+    source: tarxun.bandcamp.com-album-ashoob-live-in-rotterdam
+    quote: |-
+      17 Feb 2023 00:00:00 GMT
+    accessed: '2026-11-21'
 ---
 
-Tarxun, identified as Farshad Xadjehnassiri by Kaaitheater, is an Iranian sound artist and urban researcher based in Berlin. They studied architecture at Azad University in Tehran and Sound Studies at Berlin University of the Arts.[^bio][^study]
+Tarxun is an Iranian sound artist and urban researcher based in Berlin. They studied architecture in Tehran and sound studies in Berlin. Their installations have been exhibited in both cities.[^bio][^study][^works]
 
-## Installations and releases
+## From installations to live recordings
 
-Kaaitheater's biography records installations at TADAEX in Tehran in 2016, GAPS programmes in London, Tehran and Turin, and Virtual AMOUR during Berlin Art Week 2019.[^works]
+Tarxun exhibited installations at TADAEX in Tehran in 2016 and at Virtual AMOUR during Berlin Art Week in 2019.[^works] In September 2022 they released “[Liberty or Death](#liberty-or-death-hrt).” Its Persian text opens with a salute to freedom and repeats the word *azadi*, or freedom.[^album][^date][^text]
 
-Tarxun released *Liberty or Death* on September 30, 2022. Its accompanying Persian text opens with a salute to freedom, then repeats the word for freedom.[^album][^date][^text]
+That December Tarxun performed at WORM in Rotterdam. In February 2023 they released the recording as *[Ashoob; Live in Rotterdam](#ashoob-live-in-rotterdam-d7b)*.[^rotterdam][^live-date]

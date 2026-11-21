@@ -31,48 +31,15 @@ references:
     quote: |-
       Listen to Mikeshaniam - Single by Makhoola on Apple Music. 2025. 1 Song. Duration: 6 minutes.
     accessed: '2026-10-19'
-  catalogue2:
-    source: music.apple.com-us-album-az-talar-haye-zire-ab-single-1774403318-fde1e9b05a24
+  rasht:
+    source: 7sobh.com-d8-a8-d8-ae-d8-b4--d9-81-d8-b1-d9-87-d9-86-da-af-db-8c-46-40552942--d8-a7-d9-85-d8-b6-d8-a7-db-8c--19a02de91a35
     quote: |-
-      Listen to Az Talar Haye Zire Ab - Single by Makhoola on Apple Music. 2024. 1 Song. Duration: 4 minutes.
-    accessed: '2026-10-19'
-  catalogue3:
-    source: music.apple.com-us-album-akharinha-single-1747586608-d1b6250fca63
-    quote: |-
-      Listen to Akharinha - Single by Makhoola on Apple Music. 2024. 1 Song. Duration: 5 minutes.
-    accessed: '2026-10-19'
-  catalogue4:
-    source: music.apple.com-us-album-canada-single-1739581110-7702df78978f
-    quote: |-
-      Listen to Canada - Single by Makhoola on Apple Music. 2024. 1 Song. Duration: 4 minutes.
-    accessed: '2026-10-19'
-  catalogue5:
-    source: music.apple.com-us-album-raaz-single-1728009485-d4782a7ea1f6
-    quote: |-
-      Listen to Raaz - Single by Makhoola on Apple Music. 2024. 1 Song. Duration: 4 minutes.
-    accessed: '2026-10-19'
-  catalogue6:
-    source: music.apple.com-us-album-nemikaham-single-1723051066-6196c0d93a89
-    quote: |-
-      Listen to Nemikaham - Single by Makhoola on Apple Music. 2024. 1 Song. Duration: 2 minutes.
-    accessed: '2026-10-19'
-  catalogue7:
-    source: music.apple.com-us-album-darvag-single-1715126900-21565756a544
-    quote: |-
-      Listen to Darvag - Single by Makhoola on Apple Music. 2023. 1 Song. Duration: 5 minutes.
-    accessed: '2026-10-19'
+      مودی اول ووکالیست و لیدگیتاریست (تک نوازی گیتار) گروه ماخولا بود اما از این گروه رشتی مدتی بعد جدا شد.
+    accessed: '2026-11-21'
 ---
 
-ماخولا گروهی آلترناتیو راک است که در معرفی منتشرشده در کانال خود، آغاز فعالیتش را سال ۱۳۹۲ می‌داند. گروه در همان متن بر تفاوت سلیقه‌های اعضا و پیگیری ایده‌های مختلف، بدون پایبندی به یک رنگ و شیوهٔ ثابت، تأکید می‌کند.[^beginnings][^approach]
+ماخولا گروه آلترناتیو راکی از رشت است که در سال ۱۳۹۲ آغاز به کار کرد. [مودی موسوی](/fa/moody-moussavi-v5y/) در سال‌های نخست در گروه می‌خواند و گیتار لید می‌زد. موسوی بعدها از گروه جدا شد. ماخولا در سال ۲۰۲۱ آلبوم نه‌قطعه‌ای [«The Rooster»](#the-rooster-q8z) را منتشر کرد.[^beginnings][^rasht][^rooster]
 
-## شعر و ترکیب گروه
+## آهنگسازی روی شعر
 
-قطعهٔ «می‌کشانی‌ام» بر شعری از فروغ فرخزاد ساخته شده است. در این ضبط، امیر بال‌افشان می‌خواند و گیتار می‌نوازد؛ آرش منصف گیتار، سینا گل‌نقره باس، نیما علیزاده سینتی‌سایزر و روزبه اسماعیلی درامز می‌نوازند.[^poetry]
-
-## آثار
-
-آلبوم [The Rooster](#the-rooster-q8z) در اپل موزیک با نام Makhoola و تاریخ ۲۰۲۱ عرضه شده است.[^rooster]
-
-## تک‌آهنگ‌ها
-
-از تک‌آهنگ‌های گروه در اپل موزیک می‌توان به Mikeshaniam،[^catalogue0] Az Talar Haye Zire Ab،[^catalogue2] Akharinha،[^catalogue3] Canada،[^catalogue4] Raaz،[^catalogue5] Nemikaham[^catalogue6] و Darvag اشاره کرد.[^catalogue7]
+نوازندگان ماخولا می‌گویند سبک هر کار را بسته به ایده‌ای که می‌خواهند اجرا کنند انتخاب می‌کنند. در تک‌آهنگ [«می‌کشانی‌ام»](#mikeshaniam-single-7re) در سال ۲۰۲۵ روی شعری از فروغ فرخزاد موسیقی ساختند. امیر بال‌افشان آواز خواند و گیتار زد. گیتار دوم و سینتی‌سایزر همراه با بیس و درامز او را همراهی کردند.[^approach][^poetry][^catalogue0]

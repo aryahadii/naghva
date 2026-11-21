@@ -21,3 +21,19 @@ tier: own
 > Khayam founded his own label "Tehran Records" in 2015 to produce and promote the contemporary music of Iran.
 
 > The label worked actively between the years 2015 to 2020
+
+Tehran Records, last paragraph, read 2026-11-21.
+
+> a single track "NOOR" (Persian for "Light") by Soheil Mokhberi and Hooshyar Khayam
+
+Childhood.
+
+> He grew up in Tehran at the time of the Iran-Iraq War
+
+Tehran Records section.
+
+> Prior to establishing his own label, Khayam worked with Hermes Records alongside a few other publications on solo and collaborative albums.
+
+> The last publication of Tehran Records was a single track "NOOR" (Persian for "Light") by Soheil Mokhberi and Hooshyar Khayam accompanied by a video by Dariush Gorgvand, that was released as a lament to the 176 passengers who lost their lives on that flight.
+
+> The label seized its activity after the shooting of the Ukrainian passenger Flight 752 on January 8, 2020.

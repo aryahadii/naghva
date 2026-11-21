@@ -152,6 +152,16 @@ references:
     quote: 'Listen to Rameshgar (feat. Hamed Hamidzadeh, Mehrdad Mcy & Farid Farzianpour) by Golsa & Taha Mazaheri
       on Apple Music. 2026. 7 Songs. Duration: 32 minutes.'
     accessed: '2026-10-19'
+  voice:
+    source: soundcloud.com-golsarz-ey-la-morovvat-3-3fdc2f842aab
+    quote: 'Songwriting & Vocal: Golsa'
+    accessed: '2026-10-21'
+    locator: Ey La Morovvat (album track)
+  guitar:
+    source: soundcloud.com-golsarz-ey-la-morovvat-3-3fdc2f842aab
+    quote: 'Guitar & Arrangement: Taha Mazaheri'
+    accessed: '2026-10-21'
+    locator: Ey La Morovvat (album track)
 ---
 
 طاها مظاهری نوازندهٔ گیتار، آهنگساز و تهیه‌کنندهٔ موسیقی اهل تهران است. او با [گلسا](/fa/golsa-h74/) ترانه‌هایی با حال‌وهوای پاپ و جَز ساخته است و در پروژهٔ شخصی‌اش از آکوردهای سنگین گیتار با افکت فاز استفاده می‌کند.[^biography][^scene]
@@ -166,4 +176,4 @@ references:
 
 طاها در آبان ۱۴۰۳ مجموعهٔ کوتاه [«اسیر باد»](#asire-baad-79y) را منتشر کرد؛ اثری پنج‌قطعه‌ای که با Barzee و Pouya Shomali ساخته بود.[^asire][^tracks][^asire-project-credit] او در هر قطعه با مهمان متفاوتی همکاری کرد؛ از جمله Ashh Nm در «زهر».[^tracks] طاها در [اجرای دونفرهٔ CaveRoom](#ashh-nm-taha-mazaheri-live-at-caveroom-n4k) هم کنار Ashh Nm گیتار نواخت.[^caveroom][^caveroom-role]
 
-طاها در تیر ۱۴۰۵ در گروه همراه [کینگ رام](/fa/king-raam-z9w/) گیتار می‌زد.[^session][^session-date] همکاری او با گلسا در همان سال با انتشار مجموعهٔ هفت‌قطعه‌ای [«رامشگر»](#rameshgar-feat-hamed-hamidzadeh-mehrdad-mcy-farid-farzianpour-92e) ادامه یافت.[^rameshgar]
+طاها در تیر ۱۴۰۵ در گروه همراه [کینگ رام](/fa/king-raam-z9w/) گیتار می‌زد.[^session][^session-date] همکاری او با گلسا در همان سال با انتشار مجموعهٔ هفت‌قطعه‌ای [«رامشگر»](#rameshgar-feat-hamed-hamidzadeh-mehrdad-mcy-farid-farzianpour-92e) ادامه یافت.[^rameshgar] در «ای لامروت» گلسا ترانه را نوشت و خواند. مظاهری آن را تنظیم کرد و گیتار زد.[^voice][^guitar]

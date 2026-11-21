@@ -1,0 +1,40 @@
+id: Qtpc3kk
+type: release
+statements:
+  name:
+  - value:
+      text: One
+      language: en
+    references:
+    - source: music.apple.com-us-album-942318730
+      quote: Listen to One by Farzad Golpayegani
+      accessed: '2026-11-21'
+  performer:
+  - value: Qhxtgjj
+    references:
+    - source: music.apple.com-us-album-942318730
+      quote: Listen to One by Farzad Golpayegani
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2004'
+    references:
+    - source: www.farzadonline.com-music-bcae77017495
+      quote: it faced many problems for distribution and had two years of latency and finally was released in 2004.
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://music.apple.com/us/album/one/942318730
+    references:
+    - source: music.apple.com-us-album-942318730
+      quote: Listen to One by Farzad Golpayegani
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/a1/fa/58/a1fa58a3-2990-d5e4-110e-c15a6172da6b/889211178360.jpg/632x632bb.webp
+    references:
+    - source: music.apple.com-us-album-942318730
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/a1/fa/58/a1fa58a3-2990-d5e4-110e-c15a6172da6b/889211178360.jpg/632x632bb.webp
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en

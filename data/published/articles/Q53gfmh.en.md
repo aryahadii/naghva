@@ -105,6 +105,11 @@ references:
     source: hypernova.bandcamp.com-album-exit-strategy-ep-89daa65e35cc
     quote: released August 17, 2011
     accessed: '2026-10-19'
+  early-ep:
+    source: www.thenationalnews.com-arts-culture-music-criminal-records-iranian-rock-comes-to-new-york-1.442834
+    quote: |-
+      The band's 2006 EP, Who Says You Can't Rock In Iran?
+    accessed: '2026-11-13'
 ---
 
 Hypernova is an Iranian rock band that emerged from Tehran’s underground scene in the early 2000s and moved to the United States in 2007. Its members included the singer and guitarist [Raam](/en/king-raam-z9w/), guitarist Kodi, bassist Jam and drummer Kami. The group released [*Through the Chaos*](#through-the-chaos-3kg) in 2010 and the live studio EP [*Exit Strategy*](#exit-strategy-ep-c66) the following year.[^g-origins][^p-arrival][^n-members][^p-release][^date]
@@ -113,7 +118,7 @@ Hypernova is an Iranian rock band that emerged from Tehran’s underground scene
 
 Raam and Kami met during military service and began playing together in 2000; other musicians joined them later. The band played at underground parties in villas outside the city.[^g-origins][^g-venues] They tried singing in Persian but chose English, which Raam felt better suited their music.[^b-language]
 
-By March 2007 they had released [*Who Says You Can’t Rock in Iran?*](#who-says-you-cant-rock-in-iran-ev9).[^f-ep] Their opportunity to play at South by Southwest led them to seek US visas. What they expected to be a two-week visit became a much longer stay.[^g-visa][^g-short-visit] After a period in Los Angeles, they moved to New York and were living in Brooklyn by 2009.[^g-brooklyn]
+In 2006 they released the EP [*Who Says You Can’t Rock in Iran?*](#who-says-you-cant-rock-in-iran-ev9).[^early-ep][^f-ep] Their opportunity to play at South by Southwest led them to seek US visas. What they expected to be a two-week visit became a much longer stay.[^g-visa][^g-short-visit] After a period in Los Angeles, they moved to New York and were living in Brooklyn by 2009.[^g-brooklyn]
 
 ## Developing their sound
 

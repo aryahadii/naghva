@@ -1,0 +1,41 @@
+id: Qz95ppw
+type: release
+statements:
+  name:
+  - value:
+      text: Zangaar
+      language: en
+    references:
+    - &id001
+      source: rojinsharafi.bandcamp.com-album-zangaar
+      quote: Zangaar
+      accessed: '2026-11-21'
+  performer:
+  - value: Q5vptv5
+    references:
+    - &id002
+      source: rojinsharafi.bandcamp.com-album-zangaar
+      quote: Rojin Sharafi
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2020-10-30'
+    references:
+    - source: rojinsharafi.bandcamp.com-album-zangaar
+      quote: 30 Oct 2020 00:00:00 GMT
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://rojinsharafi.bandcamp.com/album/zangaar
+    references:
+    - *id001
+    - *id002
+  cover art:
+  - value: https://f4.bcbits.com/img/a4087881665_10.jpg
+    references:
+    - source: rojinsharafi.bandcamp.com-album-zangaar
+      quote: https://f4.bcbits.com/img/a4087881665_10.jpg
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Rojin Sharafi, Bandcamp
+        language: en

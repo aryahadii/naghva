@@ -23,12 +23,62 @@ references:
       در سال 1386 دومین آلبوم گروه سرخس با عنوان مرداد 85 به بازار آمد. این آلبوم به طور زنده در استودیو آفتاب عاَلمتاب ضبط و به وسیله شرکت بمآهنگ منتشر شد.
     accessed: '2026-10-19'
     locator: فصل نهم، بخش سرخس (OEBPS/Text/Section0015.xhtml)
+  moon:
+    source: music.apple.com-us-album-rooye-mah-ghadam-gozashtim-single-1686853536
+    quote: |-
+      Rooye Mah Ghadam Gozashtim - Single
+      Sarakhs
+    accessed: '2026-11-21'
+  why:
+    source: music.apple.com-us-album-be-man-begoo-chera-single-1707718463
+    quote: |-
+      Be Man Begoo Chera? - Single
+      Sarakhs
+    accessed: '2026-11-21'
+  early:
+    source: iranian.com-main-music-sarakhs
+    quote: |-
+      The first album “Az Khak” was recorded in BAM studio during 1999-2000 but never released officially.
+    accessed: '2026-11-21'
+  returning:
+    source: www.radiozamaneh.com-808423
+    quote: |-
+      از ۱۴۰۰ تاکنون پس از ۱۵ سال سکوت با گروه سرخس نیز فعالیت تازه‌ی خود را آغاز کرده است.
+    accessed: '2026-11-21'
+  titles:
+    source: www.radiozamaneh.com-808423
+    quote: |-
+      «روی ماه قدم گذاشتیم» و «به من بگو چرا؟»
+    accessed: '2026-11-21'
+  single-dates-moon:
+    source: music.apple.com-us-album-rooye-mah-ghadam-gozashtim-single-1686853536
+    quote: |-
+      May 4, 2023 1 song, 5 minutes ℗ 2023 Sarakhsmusic
+    accessed: '2026-11-21'
+  single-dates-why:
+    source: music.apple.com-us-album-be-man-begoo-chera-single-1707718463
+    quote: |-
+      September 23, 2023 1 Song, 3 minutes ℗ 2023 Sarakhsmusic
+    accessed: '2026-11-21'
+  second-date:
+    source: music.apple.com-us-album-mordad-85-260060516-32eab34be330
+    quote: |-
+      Mordad 85
+      Sarakhs
+      Rock · 2007
+      Preview
+      July 6, 2007
+      10 songs, 30 minutes
+      ℗ 2007 Bamahang Productions
+    accessed: '2026-10-19'
 ---
 
-سرخس گروه آلترناتیو راک ایرانی است. معرفی ساندکلاد گروه می‌گوید سرخس در سال ۱۹۹۸ در تهران شکل گرفت و Behzad Khiavchi، Yuri Akop و Peter Akop اعضای آن هستند.[^band]
+سرخس گروه آلترناتیو راکی است که در نیمهٔ دوم دههٔ ۱۳۷۰ در تهران شکل گرفت. بهزاد خیاوچی، خوانندهٔ گروه، همراه دو برادر، یوری آکوپ نوازندهٔ درامز و پیتر آکوپ نوازندهٔ باس، آن را راه انداخت.[^band][^book-formation] نخستین آلبومشان دست‌به‌دست گشت و برای آلبوم دوم در استودیو زنده نواختند.[^first-album][^mordad]
 
-ابراهیم نبوی در «آوازهای زیرزمین» سال شکل‌گیری را ۱۳۷۸ می‌داند؛ این تاریخ با سال ۱۹۹۸ در معرفی خود گروه یکسان نیست.[^book-formation]
+## دو آلبوم نخست
 
-به روایت نبوی، نخستین آلبوم گروه، «[از خاک](#از-خاک-6p7)»، میان ۱۳۷۸ و ۱۳۸۰ در استودیو بم ضبط شد و بدون انتشار رسمی دست‌به‌دست و سپس در اینترنت پخش شد.[^first-album]
+اعضای گروه نخستین آلبومشان، [«از خاک»](#az-khak-6p7)، را حدود سال ۱۳۷۹ در استودیو بم ضبط کردند. این آلبوم ابتدا در محافل زیرزمینی دست‌به‌دست شد و بعدها در اینترنت پخش شد.[^early][^first-album] آلبوم دومشان، [«مرداد ۸۵»](#mordad-85-weh)، را بم‌آهنگ در سال ۱۳۸۶ منتشر کرد.[^mordad][^second-date]
 
-نبوی «مرداد 85» را دومین آلبوم گروه معرفی می‌کند که در ۱۳۸۶ منتشر شد؛ ضبط آن به‌صورت زنده در استودیو آفتاب عاَلمتاب و انتشارش به‌وسیلهٔ بمآهنگ انجام شد.[^mordad]
+## بازگشت به سرخس
+
+خیاوچی پس از وقفه‌ای طولانی، سال ۱۴۰۰ کار با سرخس را از سر گرفت.[^returning] گروه در سال ۱۴۰۲ دو تک‌آهنگ منتشر کرد، [«روی ماه قدم گذاشتیم»](#rooye-mah-ghadam-gozashtim-mej) و [«به من بگو چرا؟»](#be-man-begoo-chera-qje).[^moon][^why][^titles][^single-dates-moon][^single-dates-why]
