@@ -1,0 +1,20 @@
+id: Qz8ef8k
+type: release
+statements:
+  name:
+  - value:
+      text: Magnetic Service (Extended Version)
+      language: en
+    references:
+    - &id001
+      source: ars.electronica.art-panic-en-view-dancing-plague-23138ddb450c810887b4f4510d4dd9e5
+      quote: Magnetic Service (Extended Version) by Azu Tiwaline featuring Cinna Peyghamy
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  performer:
+  - value: Q4q92dh
+    references:
+    - *id001
+  - value: Q8k4r2t
+    references:
+    - *id001

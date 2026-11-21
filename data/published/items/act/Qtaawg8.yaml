@@ -1,0 +1,32 @@
+id: Qtaawg8
+type: act
+statements:
+  name:
+  - value:
+      text: Rite of Strings
+      language: en
+    references:
+    - source: riteofstrings.bandcamp.com-album-dust-and-the-moon
+      quote: Rite of Strings
+      accessed: 2026-11-21
+      locator: Release artist
+  image:
+  - value: https://f4.bcbits.com/img/0045950205_10.jpg
+    references:
+    - source: riteofstrings.bandcamp.com-album-dust-and-the-moon
+      quote: https://f4.bcbits.com/img/0045950205_10.jpg
+      accessed: 2026-11-21
+      locator: Official group photograph on release page
+  profile link:
+  - value: https://riteofstrings.bandcamp.com/
+    references:
+    - source: riteofstrings.bandcamp.com-album-dust-and-the-moon
+      quote: Rite of Strings
+      accessed: 2026-11-21
+      locator: Release artist
+  - value: https://music.apple.com/us/artist/rite-of-strings/6786852819
+    references:
+    - source: music.apple.com-us-album-dust-and-the-moon-6786852818
+      quote: Rite of Strings
+      accessed: 2026-11-21
+      locator: Album artist

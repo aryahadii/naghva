@@ -1,0 +1,78 @@
+id: Q82bkyg
+type: release
+statements:
+  name:
+  - value:
+      text: I'm Sorry (Confessions of an Eremophobic)
+      language: en
+    references:
+    - source: music.apple.com-us-album-looking-back-facing-forward-395720185
+      quote: I'm Sorry (Confessions of an Eremophobic)
+      accessed: '2026-11-21'
+      locator: Original interview, programme or release metadata
+  performer:
+  - value: Qst5f86
+    references:
+    - source: music.apple.com-us-album-looking-back-facing-forward-395720185
+      quote: Soul Nidus
+      accessed: '2026-11-21'
+      locator: Original interview, programme or release metadata
+  release date:
+  - value:
+      date: '2010-10-10'
+    references:
+    - source: music.apple.com-us-album-looking-back-facing-forward-395720185
+      quote: '2010-10-10'
+      accessed: '2026-11-21'
+      locator: Original interview, programme or release metadata
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music/18/a1/12/mzi.wgbaajdf.jpg/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Soul Nidus digital edition via Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-looking-back-facing-forward-395720185
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music/18/a1/12/mzi.wgbaajdf.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Original interview, programme or release metadata
+  listen link:
+  - value: https://music.apple.com/us/song/im-sorry-confessions-of-an-eremophobic/395720288
+    references:
+    - source: music.apple.com-us-album-looking-back-facing-forward-395720185
+      quote: https://music.apple.com/us/song/im-sorry-confessions-of-an-eremophobic/395720288
+      accessed: '2026-11-21'
+      locator: Original interview, programme or release metadata
+  - value: https://open.spotify.com/track/2QY897VBA9b9AaQO9sns1W
+    references:
+    - source: open.spotify.com-embed-album-1jcmwnz66xifvkqakxsa2v
+      quote: spotify:track:2QY897VBA9b9AaQO9sns1W
+      accessed: '2026-11-21'
+      locator: Original interview, programme or release metadata
+  - value: https://soundcloud.com/soulnidus/soulnidus-im-sorry-free
+    references:
+    - source: soundcloud.com-soulnidus-soulnidus-im-sorry-free
+      quote: Stream SOULNIDUS - I'M SORRY by SOULNIDUS | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Original interview, programme or release metadata
+  - value: https://www.youtube.com/watch?v=uQCZ0XzwdDE
+    references:
+    - source: www.youtube.com-watch-v-uqcz0xzwdde
+      quote: SOULNIDUS - I'M SORRY
+      accessed: '2026-11-21'
+      locator: Original group channel
+  contributor:
+  - value: Qrvfxn4
+    references:
+    - source: soundcloud.com-soulnidus-soulnidus-im-sorry-free
+      quote: Words and Music by Ehsan Ashrafi
+      accessed: '2026-11-21'
+    qualifiers:
+      role: composer
+  - value: Qrvfxn4
+    references:
+    - source: soundcloud.com-soulnidus-soulnidus-im-sorry-free
+      quote: Words and Music by Ehsan Ashrafi
+      accessed: '2026-11-21'
+    qualifiers:
+      role: lyricist

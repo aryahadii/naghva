@@ -1,0 +1,57 @@
+id: Qr3kkf8
+type: release
+statements:
+  name:
+  - value:
+      text: Kimia
+      language: en
+    references:
+    - source: mahmoodschricker.bandcamp.com-track-kimia
+      quote: Kimia
+      accessed: '2026-11-21'
+      locator: Recording title or artist credit
+  listen link:
+  - value: https://mahmoodschricker.bandcamp.com/track/kimia
+    references:
+    - source: mahmoodschricker.bandcamp.com-track-kimia
+      quote: Kimia | Mahmood Schricker
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/5ylYoee2mCEdkEuXlYphId
+    references:
+    - source: open.spotify.com-track-5ylyoee2mcedkeuxlyphid
+      quote: Kimia - song and lyrics by Mahmood Schricker | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/kimia/527406252
+    references:
+    - source: music.apple.com-us-song-kimia-527406252
+      quote: ‎Kimia - Song with Lyrics by Mahmood Schricker - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qxkh2tz
+    references:
+    - source: mahmoodschricker.bandcamp.com-track-kimia
+      quote: Kimia | Mahmood Schricker
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a4109838730_10.jpg
+    references:
+    - source: mahmoodschricker.bandcamp.com-track-kimia
+      quote: https://f4.bcbits.com/img/a4109838730_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Ahmadreza Schricker
+        language: en
+  release date:
+  - value:
+      date: '2012-04-09'
+    references:
+    - source: mahmoodschricker.bandcamp.com-album-null
+      quote: released April 9, 2012
+      accessed: '2026-11-21'
+      locator: Published date

@@ -1,0 +1,39 @@
+id: Qctxgmy
+type: release
+statements:
+  name:
+  - value:
+      text: Sari Gelin
+      language: en
+    references:
+    - source: www.youtube.com-watch-v-l25pmg_n6gy
+      quote: Sari Gelin
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qkmhqgm
+    references:
+    - source: www.youtube.com-watch-v-l25pmg_n6gy
+      quote: Sari Gelin
+      accessed: '2026-11-21'
+      locator: Page title
+    qualifiers:
+      role: vocals
+  listen link:
+  - value: https://www.youtube.com/watch?v=L25PMg_n6gY
+    references:
+    - source: www.youtube.com-watch-v-l25pmg_n6gy
+      quote: Sari Gelin
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i.ytimg.com/vi/L25PMg_n6gY/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-l25pmg_n6gy
+      quote: https://i.ytimg.com/vi/L25PMg_n6gY/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: ooldouz pouri
+        language: en

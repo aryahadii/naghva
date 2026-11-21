@@ -1,0 +1,54 @@
+id: Qxjgapq
+type: release
+statements:
+  name:
+  - value:
+      text: Winter in Quebec
+      language: en
+    references:
+    - source: music.apple.com-us-album-invisible-1483041196
+      quote: Winter in Quebec
+      accessed: '2026-11-21'
+      locator: Track 1
+  release date:
+  - value:
+      date: '2019-10-11'
+    references:
+    - source: music.apple.com-us-album-invisible-1483041196
+      quote: '2019-10-11'
+      accessed: '2026-11-21'
+      locator: Issue date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/52/8b/44/528b4464-db68-b5fd-1f33-4bf6edbc1edb/753070791179.jpg/1200x630wp-60.jpg
+    references:
+    - source: music.apple.com-us-album-invisible-1483041196
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/52/8b/44/528b4464-db68-b5fd-1f33-4bf6edbc1edb/753070791179.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Original digital cover
+    qualifiers:
+      credit:
+        text: Apple Music, original edition artwork
+        language: en
+  performer:
+  - value: Q9cyea8
+    references:
+    - source: music.apple.com-us-album-invisible-1483041196
+      quote: Regard Persan
+      accessed: '2026-11-21'
+      locator: Named ensemble
+  listen link:
+  - value: https://music.apple.com/us/song/winter-in-quebec/1483041197
+    references:
+    - source: music.apple.com-us-album-invisible-1483041196
+      quote: https://music.apple.com/us/song/winter-in-quebec/1483041197
+      accessed: '2026-11-21'
+      locator: Exact Apple recording
+  contributor:
+  - value: Q9n4spa
+    references:
+    - source: hafteh.ca-uploads-mag-issue-554-web.pdf
+      quote: «زمستان در کبک» آهنگی است از پوریا پورناظری
+      accessed: '2026-11-21'
+      locator: Page 17, album programme
+    qualifiers:
+      role: composer

@@ -1,0 +1,54 @@
+id: Qdkyh9n
+type: release
+statements:
+  name:
+  - value:
+      text: Love and Revolution
+      language: en
+    references:
+    - source: music.apple.com-us-album-love-and-revolution-ep-1705319841
+      quote: Love and Revolution - EP
+      accessed: 2026-11-21
+      locator: Release title
+  performer:
+  - value: Qas33mb
+    references:
+    - source: music.apple.com-us-album-love-and-revolution-ep-1705319841
+      quote: Sepp Osley
+      accessed: 2026-11-21
+      locator: Performer
+  release type:
+  - value: ep
+    references:
+    - source: music.apple.com-us-album-love-and-revolution-ep-1705319841
+      quote: Love and Revolution - EP
+      accessed: 2026-11-21
+      locator: Release title
+  listen link:
+  - value: https://music.apple.com/us/album/love-and-revolution-ep/1705319841
+    references:
+    - source: music.apple.com-us-album-love-and-revolution-ep-1705319841
+      quote: Love and Revolution - EP
+      accessed: 2026-11-21
+      locator: Release title
+  - value: https://open.spotify.com/album/0vWoWVa6KvgRxGaA1csH85
+    references:
+    - source: open.spotify.com-album-0vwowva6kvgrxgaa1csh85
+      quote: Love And Revolution
+      accessed: 2026-11-21
+      locator: Album title
+  release date:
+  - value:
+      date: '2023-10-06'
+    references:
+    - source: music.apple.com-us-album-love-and-revolution-ep-1705319841
+      quote: '2023-10-06'
+      accessed: 2026-11-21
+      locator: Release date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/07/40/77/07407729-8c03-33f2-d7c0-14576c500774/artwork.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-love-and-revolution-ep-1705319841
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/07/40/77/07407729-8c03-33f2-d7c0-14576c500774/artwork.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Cover image

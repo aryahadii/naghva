@@ -1,0 +1,69 @@
+id: Qzfz6ap
+type: release
+statements:
+  name:
+  - value:
+      text: Sonar
+      language: en
+    references:
+    - source: xeen.bandcamp.com-track-sonar
+      quote: Sonar | XEEN
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qb5hnjh
+    references:
+    - source: xeen.bandcamp.com-track-sonar
+      quote: Sonar | XEEN
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://xeen.bandcamp.com/track/sonar
+    references:
+    - source: xeen.bandcamp.com-track-sonar
+      quote: Sonar | XEEN
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/album/3lAyv7yQBT3ykBDoHZOAWF
+    references:
+    - source: open.spotify.com-album-3layv7yqbt3ykbdohzoawf
+      quote: Listen to Sonar - Single by Xeen | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/2HDABKQlpKAzYYltN0SCpU
+    references:
+    - source: open.spotify.com-track-2hdabkqlpkazyyltn0scpu
+      quote: Sonar - song and lyrics by Xeen | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1504455183
+    references:
+    - source: music.apple.com-us-song-1504455183
+      quote: ‎Sonar - Song with Lyrics by Xeen - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/xe_en/sonar
+    references:
+    - source: soundcloud.com-xe_en-sonar
+      quote: Stream Sonar by XEEN | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a3747507557_10.jpg
+    references:
+    - source: xeen.bandcamp.com-track-sonar
+      quote: https://f4.bcbits.com/img/a3747507557_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Publisher artwork
+        language: en
+  release date:
+  - value:
+      date: '2020-04-12'
+    references:
+    - source: xeen.bandcamp.com-track-sonar
+      quote: released April 12, 2020
+      accessed: '2026-11-21'
+      locator: Published date

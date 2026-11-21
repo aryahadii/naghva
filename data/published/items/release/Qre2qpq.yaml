@@ -1,0 +1,47 @@
+id: Qre2qpq
+type: release
+statements:
+  name:
+  - value:
+      text: Shir hamaalot
+      language: en
+    references:
+    - source: open.spotify.com-album-1td8taxcct6afmmlvg7kbb
+      quote: Shir hamaalot
+      accessed: 2026-11-21
+      locator: Edition or recording title
+  performer:
+  - value: Qnessyd
+    references:
+    - source: open.spotify.com-album-1td8taxcct6afmmlvg7kbb
+      quote: Cymin Samawatie, Trickster Orchestra
+      accessed: 2026-11-21
+      locator: Billed artists on the recording
+  - value: Q6jjfq6
+    references:
+    - source: open.spotify.com-album-1td8taxcct6afmmlvg7kbb
+      quote: Cymin Samawatie, Trickster Orchestra
+      accessed: 2026-11-21
+      locator: Billed artists on the recording
+  release date:
+  - value:
+      date: '2021-03-26'
+    references:
+    - source: open.spotify.com-album-1td8taxcct6afmmlvg7kbb
+      quote: '2021-03-26'
+      accessed: 2026-11-21
+      locator: Edition date
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d0000b2738b9d73544c0934085443cfb9
+    references:
+    - source: open.spotify.com-album-1td8taxcct6afmmlvg7kbb
+      quote: https://i.scdn.co/image/ab67616d0000b2738b9d73544c0934085443cfb9
+      accessed: 2026-11-21
+      locator: Edition cover
+  listen link:
+  - value: https://open.spotify.com/track/4USu4OoFyKqwoU8eh6Dzep
+    references:
+    - source: open.spotify.com-album-1td8taxcct6afmmlvg7kbb
+      quote: Shir hamaalot
+      accessed: 2026-11-21
+      locator: Edition or recording title

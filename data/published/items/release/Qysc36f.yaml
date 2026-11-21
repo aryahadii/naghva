@@ -1,0 +1,51 @@
+id: Qysc36f
+type: release
+statements:
+  name:
+  - value:
+      text: I Can Take It
+      language: en
+    references:
+    - source: music.apple.com-us-album-stay-ep-1702218254
+      quote: I Can Take It
+      accessed: '2026-11-21'
+      locator: Track 1
+  performer:
+  - value: Qxxp9ab
+    references:
+    - source: music.apple.com-us-album-stay-ep-1702218254
+      quote: I Can Take It
+      accessed: '2026-11-21'
+      locator: Track 1
+  listen link:
+  - value: https://music.apple.com/us/song/i-can-take-it/1702218406
+    references:
+    - source: music.apple.com-us-album-stay-ep-1702218254
+      quote: https://music.apple.com/us/song/i-can-take-it/1702218406
+      accessed: '2026-11-21'
+      locator: Canonical song URL
+  - value: https://open.spotify.com/track/1YzkIdUaLWzwXuoFWZBNtF
+    references:
+    - source: open.spotify.com-embed-album-1ixhgyk0qfvcyni2ls9xlz
+      quote: spotify:track:1YzkIdUaLWzwXuoFWZBNtF
+      accessed: '2026-11-21'
+      locator: Spotify exact track identifier
+  release date:
+  - value:
+      date: '2023-09-15'
+    references:
+    - source: music.apple.com-us-album-stay-ep-1702218254
+      quote: '2023-09-15'
+      accessed: '2026-11-21'
+      locator: Release date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/23/9a/97/239a9749-2f6d-21a9-6a58-1e77e64ef950/cover.jpg/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Natch Nadjafi on Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-stay-ep-1702218254
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/23/9a/97/239a9749-2f6d-21a9-6a58-1e77e64ef950/cover.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Original release image

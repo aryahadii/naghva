@@ -9,3 +9,55 @@ statements:
     - source: www.honaronline.ir-d8-a8-d8-ae-d8-b4--d9-85-d9-88-d8-b3-db-8c-d9-82-db-8c-5-159504--da-af-d8-b1-d9-88-d9-87--d-14b5fffbc707
       quote: کاوه صالحی (گیتار)، مهیار طهماسبی (ویلنسل) و امید نعمتی (خواننده) اعضای اصلی گروه موسیقی پالت در کنار ماکان اشگواری (خواننده قطعه «این ماجرا»)، امین طاهری (درامز)، کسری سبکتگین (باس) و سردار سرمست (کیبورد) در آلبوم «نصف‌النهار مبدأ» این گروه را همراهی کرده‌اند.
       accessed: '2026-11-06'
+  - value:
+      text: Kasra Saboktakin
+      language: en
+    references:
+    - source: hermes-barad-personnel-booklet
+      quote: Kasra Saboktakin
+      accessed: '2026-11-21'
+      locator: List of musicians in the original Hermes booklet
+  - value:
+      text: کسری سبکتکین
+      language: fa
+    references:
+    - source: hermes-barad-personnel-booklet
+      quote: کسری سبکتکین
+      accessed: '2026-11-21'
+      locator: List of musicians in the original Hermes booklet
+  member of:
+  - value: Qs2nwh3
+    qualifiers:
+      role:
+      - bass
+      - guitar
+      - vocals
+    references:
+    - source: hermes-barad-personnel-booklet
+      quote: Kasra Saboktakin
+      accessed: '2026-11-21'
+      locator: List of musicians in the original Hermes booklet
+  image:
+  - value: https://images.zoogletools.com/s:bzglfiles/u/1199765/3c73a08274ddd6ff711c3fa356cbdc530a3cf7c0/original/img-7691.jpg/!!/b%3AW1siZXh0cmFjdCIseyJsZWZ0IjowLCJ0b3AiOjE5OSwid2lkdGgiOjQzNDMsImhlaWdodCI6MzI1N31dLFsicmVzaXplIiwzMzBdLFsibWF4Il0sWyJ3ZSJdXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg
+    qualifiers:
+      credit:
+        text: Kasra Saboktakin · artist press kit
+        language: en
+    references:
+    - source: kasrasaboktakin.com-epk
+      quote: //images.zoogletools.com/s:bzglfiles/u/1199765/3c73a08274ddd6ff711c3fa356cbdc530a3cf7c0/original/img-7691.jpg/!!/b%3AW1siZXh0cmFjdCIseyJsZWZ0IjowLCJ0b3AiOjE5OSwid2lkdGgiOjQzNDMsImhlaWdodCI6MzI1N31dLFsicmVzaXplIiwzMzBdLFsibWF4Il0sWyJ3ZSJdXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg
+      accessed: '2026-11-21'
+      locator: Seattle 2017 artist press photograph
+  profile link:
+  - value: https://www.youtube.com/@kasrabass
+    references:
+    - source: www.youtube.com-kasrabass-videos
+      quote: Kasra Saboktakin - YouTube
+      accessed: '2026-11-21'
+      locator: Artist’s video channel
+  - value: https://soundcloud.com/kass-bass
+    references:
+    - source: soundcloud.com-kass-bass-tracks
+      quote: Stream Kasra Saboktakin | Listen to music albums online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Artist’s sound portfolio

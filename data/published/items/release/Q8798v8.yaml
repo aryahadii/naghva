@@ -1,0 +1,57 @@
+id: Q8798v8
+type: release
+statements:
+  name:
+  - value:
+      text: Neest
+      language: en
+    references:
+    - source: soundcloud.com-negar-bouban-neest
+      quote: Neest نیست
+      accessed: 2026-11-21
+      locator: Artist’s own upload title
+  performer:
+  - value: Qtqjb47
+    references:
+    - source: soundcloud.com-negar-bouban-neest
+      quote: Neest نیست
+      accessed: 2026-11-21
+      locator: Artist’s own upload title
+  - value: Qaxspbb
+    qualifiers:
+      role: vocals
+    references:
+    - source: soundcloud.com-negar-bouban-neest
+      quote: 'Babak Bouban: vocals'
+      accessed: 2026-11-21
+      locator: Track personnel
+  - value: Qqaf55n
+    qualifiers:
+      role: kamancheh
+    references:
+    - source: soundcloud.com-negar-bouban-neest
+      quote: 'Samer Habibi: Alto-Kamancheh'
+      accessed: 2026-11-21
+      locator: Track personnel
+  - value: Qrzxsrn
+    qualifiers:
+      role: percussion
+    references:
+    - source: soundcloud.com-negar-bouban-neest
+      quote: 'Behnam Masoumi: Dayereh'
+      accessed: 2026-11-21
+      locator: Track personnel
+  listen link:
+  - value: https://soundcloud.com/negar-bouban/neest
+    references:
+    - source: soundcloud.com-negar-bouban-neest
+      quote: Neest نیست
+      accessed: 2026-11-21
+      locator: Artist’s own upload title
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-000601966255-qn6u4e-t500x500.jpg
+    references:
+    - source: soundcloud.com-negar-bouban-neest
+      quote: https://i1.sndcdn.com/artworks-000601966255-qn6u4e-t500x500.jpg
+      accessed: 2026-11-21
+      locator: Upload artwork

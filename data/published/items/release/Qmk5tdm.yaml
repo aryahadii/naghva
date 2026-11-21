@@ -1,0 +1,32 @@
+id: Qmk5tdm
+type: release
+statements:
+  name:
+  - value:
+      text: Setar, Kereshmeh Lang, Mehdi Moshtagh & Morteza Ghasemi | کرشمه لَنگ، مهدی مشتاق و مرتضی قاسمی
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-_us_f0yinus
+      quote: Setar, Kereshmeh Lang, Mehdi Moshtagh & Morteza Ghasemi | کرشمه لَنگ، مهدی مشتاق و مرتضی قاسمی
+      accessed: '2026-11-21'
+      locator: Music credited by musician or performance publisher
+  performer:
+  - value: Qqb9bnx
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/_uS_f0yINUs/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-_us_f0yinus
+      quote: https://i.ytimg.com/vi/_uS_f0yINUs/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video frame
+    qualifiers:
+      credit:
+        text: Mehdi Moshtagh
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=_uS_f0yINUs
+    references:
+    - *id001

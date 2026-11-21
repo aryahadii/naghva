@@ -99,8 +99,31 @@ properties:
       - bcbits.com
       - ytimg.com
       - yt3.googleusercontent.com
+      # Archived images still require original artist, label or organizer provenance.
+      - web.archive.org
+      - www.maisondesculturesdumonde.org
+      - contemporaryiranian.com
       - upload.wikimedia.org
       - static.wixstatic.com
+      - frauenstadtplan.koeln
+      - www.eonmusic.co.uk
+      - bagpipesociety.org.uk
+      - aa-e.org
+      - themarkaz.org
+      - music-mdc.com
+      - rokhquartet.art
+      - khoobo.com
+      - gdb.rferl.org
+      - rostammirlashari.com
+      - impro.usercontent.one
+      - trap.no
+      - padik.se
+      - i.guim.co.uk
+      - cdn.prod.website-files.com
+      - tirgan.ca
+      - asianitinerary.com
+      - candle-fog.com
+      - www.salimworld.com
       - www.farhadmehrad.org
       - images.zoogletools.com
       - images.ctfassets.net
@@ -186,8 +209,10 @@ terms:
     - oud
     - double bass
     - synthesizer
+    - electronics
     - violin
     - viola
+    - viola da gamba
     - cello
     - strings
     - flute
@@ -197,13 +222,19 @@ terms:
     - trumpet
     - trombone
     - santur
+    - qanun
     - setar
+    - divan
     - tar
     - daf
     - tombak
+    - tabla
     - ney
     - kamancheh
     - producer
+    - musical director
+    - compiler
+    - researcher
     - recording engineer
     - mixing engineer
     - mastering engineer
@@ -233,6 +264,9 @@ terms:
 # `contributor` only these.
 creation roles:
   - producer
+  - musical director
+  - compiler
+  - researcher
   - recording engineer
   - mixing engineer
   - mastering engineer

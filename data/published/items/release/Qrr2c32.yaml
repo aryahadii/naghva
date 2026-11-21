@@ -1,0 +1,75 @@
+id: Qrr2c32
+type: release
+statements:
+  name:
+  - value:
+      text: Had | حَدْ
+      language: en
+    references:
+    - source: lowzirecords.bandcamp.com-track-had
+      quote: Had | حَدْ | Taraamoon | Low-Zi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qw4rq4q
+    references:
+    - source: lowzirecords.bandcamp.com-track-had
+      quote: Taraamoon
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  release date:
+  - value:
+      date: '2024-06-02'
+    references:
+    - source: lowzirecords.bandcamp.com-track-had
+      quote: released June 2, 2024
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a0706912337_10.jpg
+    references:
+    - source: lowzirecords.bandcamp.com-track-had
+      quote: https://f4.bcbits.com/img/a0706912337_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Low-Zi Records
+        language: en
+  listen link:
+  - value: https://lowzirecords.bandcamp.com/track/had
+    references:
+    - source: lowzirecords.bandcamp.com-track-had
+      quote: Had | حَدْ | Taraamoon | Low-Zi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1754096118
+    references:
+    - source: music.apple.com-us-song-1754096118
+      quote: ‎Had - Song with Lyrics by Taraamoon - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/had/1754096117
+    references:
+    - source: music.apple.com-us-album-had-1754096117
+      quote: ‎Had - Single - Album by Taraamoon - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/taraamoon/had
+    references:
+    - source: soundcloud.com-taraamoon-had
+      quote: Stream Had | حَدْ by TARAAMOON • ْتَرامون | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/album/0xOxbp5QxlRVk5OgIZrecZ
+    references:
+    - source: open.spotify.com-album-0xoxbp5qxlrvk5ogizrecz
+      quote: Listen to Had - Single by Taraamoon | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/6RDxtRbfUTDvMpRM4dNCtJ
+    references:
+    - source: open.spotify.com-track-6rdxtrbfutdvmprm4dnctj
+      quote: Had - song and lyrics by Taraamoon | Spotify
+      accessed: '2026-11-21'
+      locator: Page title

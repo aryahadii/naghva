@@ -1,0 +1,53 @@
+id: Qxt8ktv
+type: release
+statements:
+  name:
+  - value:
+      text: Santur & Cello 🎻
+      language: en
+    references:
+    - source: www.youtube.com-oembed-ztqgyng7jl8
+      quote: Santur & Cello 🎻
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2026-07-15'
+    references:
+    - source: www.youtube.com-watchv-ztqgyng7jl8
+      quote: '2026-07-15'
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://i.ytimg.com/vi/ztQGyNg7jl8/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-ztqgyng7jl8
+      quote: https://i.ytimg.com/vi/ztQGyNg7jl8/hqdefault.jpg
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Soheil Hosnavi · original performance
+        language: en
+  performer:
+  - value: Q76q9jz
+    references:
+    - source: www.youtube.com-oembed-ztqgyng7jl8
+      quote: Soheil Hosnavi
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: santur
+  listen link:
+  - value: https://www.youtube.com/watch?v=ztQGyNg7jl8
+    references:
+    - source: www.youtube.com-oembed-ztqgyng7jl8
+      quote: Santur & Cello 🎻
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  - value: https://t.me/soheilhosnavi/1146
+    references:
+    - source: t.me-soheilhosnavi-1146
+      quote: A virtual duet with cellist miriamksmithcello
+      locator: Artist channel, original post 1146
+      accessed: '2026-11-21'

@@ -1,0 +1,61 @@
+id: Qsqq327
+type: release
+statements:
+  name:
+  - value:
+      text: Two Ships
+      language: en
+    references:
+    - source: temp-illusion.bandcamp.com-track-two-ships
+      quote: Two Ships
+      accessed: '2026-11-21'
+      locator: Track heading
+  performer:
+  - value: Q8tq6bc
+    references:
+    - source: temp-illusion.bandcamp.com-track-two-ships
+      quote: Two Ships | Temp-Illusion
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2020-03-06'
+    references:
+    - source: temp-illusion.bandcamp.com-track-two-ships
+      quote: released March 6, 2020
+      accessed: '2026-11-21'
+      locator: Release credits
+  listen link:
+  - value: https://temp-illusion.bandcamp.com/track/two-ships
+    references:
+    - source: temp-illusion.bandcamp.com-track-two-ships
+      quote: Two Ships | Temp-Illusion
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/two-ships/1499797076
+    references:
+    - source: music.apple.com-us-song-two-ships-1499797076
+      quote: ‎Two Ships - Song with Lyrics by Temp-Illusion - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/71mvINfsuneyMcd8a2LGsp
+    references:
+    - source: open.spotify.com-track-71mvinfsuneymcd8a2lgsp
+      quote: Two Ships - song and lyrics by Temp-Illusion | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a0785385112_10.jpg
+    references:
+    - source: temp-illusion.bandcamp.com-track-two-ships
+      quote: https://f4.bcbits.com/img/a0785385112_10.jpg
+      accessed: '2026-11-21'
+      locator: Full artwork linked on the track page
+    - source: temp-illusion.bandcamp.com-album-pend
+      quote: Amir B. Ash
+      accessed: '2026-11-21'
+      locator: Release credits
+    qualifiers:
+      credit:
+        text: Amir B. Ash
+        language: en

@@ -1,0 +1,61 @@
+id: Qyj7czk
+type: release
+statements:
+  name:
+  - value:
+      text: Soorate Majazi (2013 video)
+      language: en
+    references:
+    - source: play.radiojavan.com-video-faravaz-soorate-majazi
+      quote: Soorate Majazi
+      accessed: 2026-11-21
+      locator: Radio Javan release
+  performer:
+  - value: Qgxh3d9
+    references:
+    - source: play.radiojavan.com-video-faravaz-soorate-majazi
+      quote: Faravaz
+      accessed: 2026-11-21
+      locator: Vocal credit
+  - value: Qszhkzs
+    qualifiers:
+      role:
+      - guitar
+    references:
+    - source: youtu.be-bflb5lrf4po
+      quote: guitar:Arash sal
+      accessed: 2026-11-21
+      locator: Original film credits
+  - value: Qym8dd4
+    qualifiers:
+      role:
+      - percussion
+    references:
+    - source: youtu.be-bflb5lrf4po
+      quote: cajon:Ideen Shafaee
+      accessed: 2026-11-21
+      locator: Original film credits
+  - value: Qwja84a
+    qualifiers:
+      role:
+      - cello
+    references:
+    - source: youtu.be-bflb5lrf4po
+      quote: cello:Omid Hamedani
+      accessed: 2026-11-21
+      locator: Original film credits
+  release date:
+  - value:
+      date: '2013-01-26'
+    references:
+    - source: play.radiojavan.com-video-faravaz-soorate-majazi
+      quote: Jan 26, 2013
+      accessed: 2026-11-21
+      locator: Original issue date
+  listen link:
+  - value: https://youtu.be/bFLB5lrF4po
+    references:
+    - source: youtu.be-bflb5lrf4po
+      quote: 'VOCAL : FarAvaz Farvardin'
+      accessed: 2026-11-21
+      locator: Artist’s recording

@@ -1,0 +1,49 @@
+id: Qanp473
+type: release
+statements:
+  name:
+  - value:
+      text: Song of Netherland
+      language: en
+    references:
+    - source: www.youtube.com-watchv-j-fmqab7ecy
+      quote: Song of Netherland
+      accessed: '2026-11-21'
+      locator: Official upload title
+  performer:
+  - value: Qzhgpkw
+    references:
+    - source: www.youtube.com-watchv-j-fmqab7ecy
+      quote: Song of Netherland
+      accessed: '2026-11-21'
+      locator: Official upload title
+    - source: www.youtube.com-watchv-j-fmqab7ecy
+      quote: Babak Rajabi
+      accessed: '2026-11-21'
+      locator: Uploading artist
+  listen link:
+  - value: https://www.youtube.com/watch?v=J-FMQaB7EcY
+    references:
+    - source: www.youtube.com-watchv-j-fmqab7ecy
+      quote: Song of Netherland
+      accessed: '2026-11-21'
+      locator: Official upload title
+  release date:
+  - value:
+      date: '2020-08-16'
+    references:
+    - source: www.youtube.com-watchv-j-fmqab7ecy
+      quote: '20200816'
+      accessed: '2026-11-21'
+      locator: Video publication date, YYYYMMDD
+  cover art:
+  - value: https://i.ytimg.com/vi/J-FMQaB7EcY/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watchv-j-fmqab7ecy
+      quote: https://i.ytimg.com/vi/J-FMQaB7EcY/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Release image URL
+    qualifiers:
+      credit:
+        text: Babak Rajabi · YouTube
+        language: en

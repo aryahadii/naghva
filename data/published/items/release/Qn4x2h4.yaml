@@ -1,0 +1,37 @@
+id: Qn4x2h4
+type: release
+statements:
+  name:
+  - value:
+      text: Harpreet Bansal Band, ("Kalavati")
+      language: en
+    references:
+    - source: www.youtube.com-oembed-ajuxigks4ug
+      quote: Harpreet Bansal Band, ("Kalavati")
+      accessed: '2026-11-21'
+      locator: Video title
+  performer:
+  - value: Qgxsmyz
+    references:
+    - source: www.bansalmusic.com-project-bansal-band
+      quote: ajuxiGKs4Ug
+      accessed: '2026-11-21'
+      locator: Original performance clip in the presenter’s page
+  listen link:
+  - value: https://www.youtube.com/watch?v=ajuxiGKs4Ug
+    references:
+    - source: www.bansalmusic.com-project-bansal-band
+      quote: ajuxiGKs4Ug
+      accessed: '2026-11-21'
+      locator: Original performance clip in the presenter’s page
+  cover art:
+  - value: https://i.ytimg.com/vi/ajuxiGKs4Ug/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-ajuxigks4ug
+      quote: https://i.ytimg.com/vi/ajuxiGKs4Ug/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: YouTube thumbnail
+    qualifiers:
+      credit:
+        text: Bansal Band · YouTube
+        language: en

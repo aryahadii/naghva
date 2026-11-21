@@ -1,0 +1,21 @@
+id: Qzgjdgp
+type: person
+statements:
+  name:
+  - value:
+      text: Francisco Bringas
+      language: en
+    references:
+    - &id001
+      source: videoteca.cenart.gob.mx-direccion-de-educacion-a-distancia-mw-20138
+      quote: Francisco Bringas, tombak y daf
+      accessed: '2026-11-21'
+      locator: Concert personnel
+  member of:
+  - value: Qcabd29
+    references:
+    - *id001
+    qualifiers:
+      role:
+      - tombak
+      - daf

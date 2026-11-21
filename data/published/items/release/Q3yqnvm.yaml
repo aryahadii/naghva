@@ -1,0 +1,45 @@
+id: Q3yqnvm
+type: release
+statements:
+  name:
+  - value:
+      text: Lift
+      language: en
+    references:
+    - source: soundcloud.com-hadi-bastani-lift
+      quote: Lift
+      accessed: '2026-11-21'
+      locator: Recording heading
+  performer:
+  - value: Qyt2364
+    references:
+    - source: soundcloud.com-hadi-bastani-lift
+      quote: Stream Lift by Hadi Bastani | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://soundcloud.com/hadi-bastani/lift
+    references:
+    - source: soundcloud.com-hadi-bastani-lift
+      quote: Stream Lift by Hadi Bastani | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-O1kp8sBakkk1KMhK-MD74ug-large.jpg
+    references:
+    - source: soundcloud.com-hadi-bastani-lift
+      quote: https://i1.sndcdn.com/artworks-O1kp8sBakkk1KMhK-MD74ug-large.jpg
+      accessed: '2026-11-21'
+      locator: SoundCloud artwork metadata
+    qualifiers:
+      credit:
+        text: Hadi Bastani on SoundCloud
+        language: en
+  release date:
+  - value:
+      date: '2023-06-02'
+    references:
+    - source: soundcloud.com-hadi-bastani-lift
+      quote: '2023-06-02T09:46:28Z'
+      accessed: '2026-11-21'
+      locator: SoundCloud release or upload timestamp

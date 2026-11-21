@@ -1,0 +1,47 @@
+id: Qbqnmbj
+type: person
+statements:
+  name:
+  - value:
+      text: Fared Shafinury
+      language: en
+    references:
+    - source: faredshafinury.com
+      quote: Fared Shafinury is a critically-acclaimed, award-winning composer, vocalist, lyricist, Persian setar
+        virtuoso and multi-instrumentalist.
+      accessed: 2026-11-21
+      locator: Biography
+  - value:
+      text: فرید شفیع نوری
+      language: fa
+    references:
+    - source: ir.voanews.com-a-us-iran-singer-music-fared-3681797.html
+      quote: فرید شفیع نوری
+      accessed: 2026-11-21
+      locator: عنوان گفتگو
+  image:
+  - value: https://i1.sndcdn.com/avatars-000130077604-q6qzk5-t500x500.jpg
+    references:
+    - source: soundcloud.com-fared-shafinury-tracks
+      quote: https://i1.sndcdn.com/avatars-000130077604-q6qzk5-t500x500.jpg
+      accessed: 2026-11-21
+      locator: Artist og:image metadata
+  profile link:
+  - value: https://soundcloud.com/fared-shafinury
+    references:
+    - source: soundcloud.com-fared-shafinury-tracks
+      quote: https://i1.sndcdn.com/avatars-000130077604-q6qzk5-t500x500.jpg
+      accessed: 2026-11-21
+      locator: Artist og:image metadata
+  - value: https://www.youtube.com/channel/UCBJLoLu63tVPoOVX2WufdBg
+    references:
+    - source: www.youtube.com-channel-ucbjlolu63tvpoovx2wufdbg
+      quote: Fared Shafinury
+      accessed: 2026-11-21
+      locator: Channel title
+  - value: https://music.apple.com/us/artist/fared-shafinury/471973946
+    references:
+    - source: music.apple.com-us-artist-fared-shafinury-471973946
+      quote: Fared Shafinury
+      accessed: 2026-11-21
+      locator: Artist heading

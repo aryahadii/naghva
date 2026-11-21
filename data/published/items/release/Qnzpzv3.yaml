@@ -1,0 +1,59 @@
+id: Qnzpzv3
+type: release
+statements:
+  name:
+  - value:
+      text: Cafe Tape
+      language: en
+    references:
+    - source: music.apple.com-us-album-cafe-tape-single-1716553472
+      quote: Cafe Tape
+      accessed: 2026-11-21
+      locator: Track listing
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/44/5c/91/445c9101-7e77-998a-e9ec-b6aa34dbc840/198026426215.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-cafe-tape-single-1716553472
+      quote: Cafe Tape - Single
+      accessed: 2026-11-21
+      locator: Release heading
+  release date:
+  - value:
+      date: '2023-11-17'
+    references:
+    - source: music.apple.com-us-album-cafe-tape-single-1716553472
+      quote: '2023-11-17'
+      accessed: 2026-11-21
+      locator: Edition release date
+  performer:
+  - value: Qwh5yn8
+    references:
+    - source: music.apple.com-us-album-cafe-tape-single-1716553472
+      quote: Ehsan Matoori
+      accessed: 2026-11-21
+      locator: Release artist
+  - value: Qvyxk27
+    references:
+    - source: music.apple.com-us-album-cafe-tape-single-1716553472
+      quote: Shahin Yousefzamani
+      accessed: 2026-11-21
+      locator: Release artist
+  listen link:
+  - value: https://music.apple.com/us/album/cafe-tape-single/1716553472
+    references:
+    - source: music.apple.com-us-album-cafe-tape-single-1716553472
+      quote: Cafe Tape
+      accessed: 2026-11-21
+      locator: Track listing
+  - value: https://music.apple.com/us/song/cafe-tape/1716553473
+    references:
+    - source: music.apple.com-us-album-cafe-tape-single-1716553472
+      quote: Cafe Tape
+      accessed: 2026-11-21
+      locator: Track listing
+  - value: https://soundcloud.com/ehsan-matoori/cafe-tape-1
+    references:
+    - source: soundcloud.com-ehsan-matoori-cafe-tape-1
+      quote: Cafe Tape
+      accessed: 2026-11-21
+      locator: Recording on the Ehsan Matoori profile

@@ -1,0 +1,32 @@
+id: Qa458q9
+type: release
+statements:
+  name:
+  - value:
+      text: Improvisation in Nava on Persian Setar | بداهه نوازی در دستگاه نوا
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-yiur9gvbu9k
+      quote: Improvisation in Nava on Persian Setar | بداهه نوازی در دستگاه نوا
+      accessed: '2026-11-21'
+      locator: Music credited by musician or performance publisher
+  performer:
+  - value: Qqb9bnx
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/YIUR9GVbU9k/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-yiur9gvbu9k
+      quote: https://i.ytimg.com/vi/YIUR9GVbU9k/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video frame
+    qualifiers:
+      credit:
+        text: Mehdi Moshtagh
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=YIUR9GVbU9k
+    references:
+    - *id001

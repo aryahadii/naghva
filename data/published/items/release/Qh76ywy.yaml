@@ -1,0 +1,65 @@
+id: Qh76ywy
+type: release
+statements:
+  name:
+  - value:
+      text: Na, gehts gut?
+      language: en
+    references:
+    - source: music.apple.com-us-album-1674978087
+      quote: Na, gehts gut? (feat. Michael Kümper & Cymin Samawatie)
+      accessed: 2026-11-21
+      locator: Album or recording title
+  performer:
+  - value: Qcyah7b
+    references:
+    - source: music.apple.com-us-album-1674978087
+      quote: Till Brönner
+      accessed: 2026-11-21
+      locator: Soundtrack artist
+  - value: Qykrr5j
+    references:
+    - source: music.apple.com-us-album-1674978087
+      quote: Arne Schumann
+      accessed: 2026-11-21
+      locator: Soundtrack artist
+  - value: Q9nqz4j
+    references:
+    - source: music.apple.com-us-album-1674978087
+      quote: Josef Bach
+      accessed: 2026-11-21
+      locator: Soundtrack artist
+  - value: Qnessyd
+    references:
+    - source: music.apple.com-us-album-1674978087
+      quote: Na, gehts gut? (feat. Michael Kümper & Cymin Samawatie)
+      accessed: 2026-11-21
+      locator: Featured performers
+  release date:
+  - value:
+      date: '2023-02-24'
+    references:
+    - source: music.apple.com-us-album-1674978087
+      quote: '2023-02-24'
+      accessed: 2026-11-21
+      locator: Edition date
+  listen link:
+  - value: https://music.apple.com/us/song/na-gehts-gut-feat-michael-k%C3%BCmper-cymin-samawatie/1674979604
+    references:
+    - source: music.apple.com-us-album-1674978087
+      quote: Na, gehts gut? (feat. Michael Kümper & Cymin Samawatie)
+      accessed: 2026-11-21
+      locator: Album or recording title
+  - value: https://open.spotify.com/track/5aqyggCMvZ0OsCcDEiBRFP
+    references:
+    - source: open.spotify.com-album-0afacgfrohp5zqzeqbid4v
+      quote: Na, gehts gut?
+      accessed: 2026-11-21
+      locator: Edition or recording title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/73/14/29/73142904-f93e-290c-6974-d70297d2dc64/4066004448060_3000.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-1674978087
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/73/14/29/73142904-f93e-290c-6974-d70297d2dc64/4066004448060_3000.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Release artwork

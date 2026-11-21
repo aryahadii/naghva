@@ -1,0 +1,143 @@
+id: Qmhy4nt
+type: release
+statements:
+  name:
+  - value:
+      text: Dream
+      language: en
+    references:
+    - source: music.apple.com-us-album-dream-1707611244
+      quote: Dream
+      accessed: '2026-11-21'
+      locator: Release heading
+  - value:
+      text: رویا
+      language: fa
+    references:
+    - source: www.radiozamaneh.com-853250
+      quote: آلبوم «رویا»
+      accessed: '2026-11-21'
+      locator: Biography
+  performer:
+  - value: Qj92kqa
+    references:
+    - source: music.apple.com-us-album-dream-1707611244
+      quote: Mitra Sumara
+      accessed: '2026-11-21'
+      locator: Album artist
+  - value: Qmamhhe
+    references:
+    - source: mitrasumara.bandcamp.com-album-dream
+      quote: 'Vocals: Yvette Massoudi'
+      accessed: '2026-11-21'
+      locator: Album credits
+    qualifiers:
+      role:
+      - vocals
+  - value: Qjhs66g
+    references:
+    - source: mitrasumara.bandcamp.com-album-dream
+      quote: 'Drums: Yahya Alkhansa'
+      accessed: '2026-11-21'
+      locator: Album credits
+    qualifiers:
+      role:
+      - drums
+  - value: Qnyxwjt
+    references:
+    - source: mitrasumara.bandcamp.com-album-dream
+      quote: 'Bass: Ben Rubin'
+      accessed: '2026-11-21'
+      locator: Album credits
+    qualifiers:
+      role:
+      - bass
+  - value: Qfm7jns
+    references:
+    - source: mitrasumara.bandcamp.com-album-dream
+      quote: 'Keyboards: Jack Gruber'
+      accessed: '2026-11-21'
+      locator: Album credits
+    qualifiers:
+      role:
+      - keyboards
+  - value: Qf8xjsy
+    references:
+    - source: mitrasumara.bandcamp.com-album-dream
+      quote: 'Trombone: Salmak Khaledi'
+      accessed: '2026-11-21'
+      locator: Album credits
+    qualifiers:
+      role:
+      - trombone
+  published by:
+  - value: Qc2pf59
+    references:
+    - source: music.apple.com-us-album-dream-1707611244
+      quote: Persian Cardinal Recordings
+      accessed: '2026-11-21'
+      locator: Phonographic copyright line
+  release date:
+  - value:
+      date: '2023-11-10'
+    references:
+    - source: music.apple.com-us-album-dream-1707611244
+      quote: '2023-11-10'
+      accessed: '2026-11-21'
+      locator: Release metadata
+  release type:
+  - value: album
+    references:
+    - source: music.apple.com-us-album-dream-1707611244
+      quote: Album
+      accessed: '2026-11-21'
+      locator: Album information
+  listen link:
+  - value: https://music.apple.com/us/album/dream/1707611244
+    references:
+    - source: music.apple.com-us-album-dream-1707611244
+      quote: Dream
+      accessed: '2026-11-21'
+      locator: Release heading
+  - value: https://open.spotify.com/album/2tyaIwQzorU3am6C1F47i7
+    references:
+    - source: open.spotify.com-album-2tyaiwqzoru3am6c1f47i7
+      quote: Dream
+      accessed: '2026-11-21'
+      locator: Release heading
+  - value: https://mitrasumara.bandcamp.com/album/dream
+    references:
+    - source: mitrasumara.bandcamp.com-album-dream
+      quote: Dream
+      accessed: '2026-11-21'
+      locator: Bandcamp album title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e2/f1/dd/e2f1dda0-5bc8-9c01-b8bc-7bffeb91a14d/881626004951_cover.jpg/632x632bb-60.jpg
+    references:
+    - source: music.apple.com-us-album-dream-1707611244
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e2/f1/dd/e2f1dda0-5bc8-9c01-b8bc-7bffeb91a14d/881626004951_cover.jpg/632x632bb-60.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork image
+    qualifiers:
+      credit:
+        text: Persian Cardinal Recordings, via Apple Music
+        language: en
+  contributor:
+  - value: Qf8xjsy
+    references:
+    - source: mitrasumara.bandcamp.com-album-dream
+      quote: Produced by Salmak Khaledi and Yvette Massoudi
+      accessed: '2026-11-21'
+      locator: Album credits
+    qualifiers:
+      role:
+      - producer
+  - value: Qmamhhe
+    references:
+    - source: mitrasumara.bandcamp.com-album-dream
+      quote: Produced by Salmak Khaledi and Yvette Massoudi
+      accessed: '2026-11-21'
+      locator: Album credits
+    qualifiers:
+      role:
+      - producer

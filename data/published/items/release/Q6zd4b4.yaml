@@ -1,0 +1,47 @@
+id: Q6zd4b4
+type: release
+statements:
+  name:
+  - value:
+      text: Leyla
+      language: en
+    references:
+    - source: youtu.be-emwbiuyqggy
+      quote: Jamin - Leyla | OFFICIAL TRACK جامین - لیلا
+      accessed: 2026-11-21
+      locator: Jamin artist channel
+  listen link:
+  - value: https://youtu.be/EMWBIUyQGGY
+    references:
+    - source: youtu.be-emwbiuyqggy
+      quote: Jamin - Leyla | OFFICIAL TRACK جامین - لیلا
+      accessed: 2026-11-21
+      locator: Jamin artist channel
+  - value: https://music.apple.com/us/song/leyla/1671510880
+    references:
+    - source: music.apple.com-us-album-leyla-single-1671510861
+      quote: Leyla
+      accessed: 2026-11-21
+      locator: Track title
+  performer:
+  - value: Qevmv7f
+    references:
+    - source: youtu.be-emwbiuyqggy
+      quote: Jamin - Leyla | OFFICIAL TRACK جامین - لیلا
+      accessed: 2026-11-21
+      locator: Jamin artist channel
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/cc/e4/bf/cce4bf00-be1c-0323-fbb7-b28b35c3d75a/cover.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-leyla-single-1671510861
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/cc/e4/bf/cce4bf00-be1c-0323-fbb7-b28b35c3d75a/cover.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Edition artwork
+  release date:
+  - value:
+      date: '2023-03-15'
+    references:
+    - source: music.apple.com-us-album-leyla-single-1671510861
+      quote: '2023-03-15'
+      accessed: 2026-11-21
+      locator: Digital release date

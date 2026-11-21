@@ -1,0 +1,32 @@
+id: Qgqfkq6
+type: release
+statements:
+  name:
+  - value:
+      text: Naghib Shanbehzadeh - 60 second darbuka challenge 2014
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-cg4lrzz0yui
+      quote: Naghib Shanbehzadeh - 60 second darbuka challenge 2014
+      accessed: '2026-11-21'
+      locator: Artist-published performance film
+  performer:
+  - value: Qvhrrm8
+    references:
+    - *id001
+  listen link:
+  - value: https://www.youtube.com/watch?v=cg4lRzZ0YUI
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/cg4lRzZ0YUI/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-cg4lrzz0yui
+      quote: https://i.ytimg.com/vi/cg4lRzZ0YUI/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original film frame
+    qualifiers:
+      credit:
+        text: naghib shanbehzadeh
+        language: en

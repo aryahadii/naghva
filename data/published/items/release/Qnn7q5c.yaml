@@ -1,0 +1,32 @@
+id: Qnn7q5c
+type: release
+statements:
+  name:
+  - value:
+      text: Part 4/12 – Shahr Ashub (Dastgāh Shur) | شهر آشوب دستگاه شور (قسمت چهارم)
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-tdlenvlce0g
+      quote: Part 4/12 – Shahr Ashub (Dastgāh Shur) | شهر آشوب دستگاه شور (قسمت چهارم)
+      accessed: '2026-11-21'
+      locator: Music credited by musician or performance publisher
+  performer:
+  - value: Qqb9bnx
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/TdLEnVlCE0g/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-tdlenvlce0g
+      quote: https://i.ytimg.com/vi/TdLEnVlCE0g/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video frame
+    qualifiers:
+      credit:
+        text: Mehdi Moshtagh
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=TdLEnVlCE0g
+    references:
+    - *id001

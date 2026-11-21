@@ -1,0 +1,57 @@
+id: Q5dsfwa
+type: release
+statements:
+  name:
+  - value:
+      text: This Strange Life
+      language: en
+    references:
+    - source: avarasti.bandcamp.com-track-this-strange-life
+      quote: This Strange Life | Ava Rasti
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qks2dfk
+    references:
+    - source: avarasti.bandcamp.com-track-this-strange-life
+      quote: This Strange Life | Ava Rasti
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://avarasti.bandcamp.com/track/this-strange-life
+    references:
+    - source: avarasti.bandcamp.com-track-this-strange-life
+      quote: This Strange Life | Ava Rasti
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/6791581150
+    references:
+    - source: music.apple.com-us-song-6791581150
+      quote: ‎This Strange Life - Song with Lyrics by Ava Rasti - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/3AWpaHpSGN5rr5eXxnOAw8
+    references:
+    - source: open.spotify.com-track-3awpahpsgn5rr5exxnoaw8
+      quote: This Strange Life - song and lyrics by Ava Rasti | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a2343669254_10.jpg
+    references:
+    - source: avarasti.bandcamp.com-track-this-strange-life
+      quote: https://f4.bcbits.com/img/a2343669254_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original recording publisher
+        language: en
+  release date:
+  - value:
+      date: '2026-10-30'
+    references:
+    - source: avarasti.bandcamp.com-album-no-one-knows-how-wild-the-wind-blows
+      quote: released October 30, 2026
+      accessed: '2026-11-21'
+      locator: Published date

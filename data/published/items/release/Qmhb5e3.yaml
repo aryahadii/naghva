@@ -1,0 +1,57 @@
+id: Qmhb5e3
+type: release
+statements:
+  name:
+  - value:
+      text: Shahnaz
+      language: en
+    references:
+    - source: linkmusiclab.bandcamp.com-track-shahnaz-2
+      quote: Shahnaz
+      accessed: '2026-11-21'
+      locator: Recording title or artist credit
+  listen link:
+  - value: https://linkmusiclab.bandcamp.com/track/shahnaz-2
+    references:
+    - source: linkmusiclab.bandcamp.com-track-shahnaz-2
+      quote: Shahnaz | Mahmood Schricker, Caleb Klager, Neonlichter | Link Music Lab Records
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/linkmusiclab/03-dastgamachine-shahnaz-3
+    references:
+    - source: soundcloud.com-linkmusiclab-03-dastgamachine-shahnaz-3
+      quote: Stream Dastgâmachine - Shahnaz by Link Music Lab | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qxkh2tz
+    references:
+    - source: linkmusiclab.bandcamp.com-track-shahnaz-2
+      quote: Shahnaz | Mahmood Schricker, Caleb Klager, Neonlichter | Link Music Lab Records
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Q5b7pz5
+    references:
+    - source: linkmusiclab.bandcamp.com-album-dastg-machine-tapestry
+      quote: Dastgâmachine - Tapestry | Mahmood Schricker, Caleb Klager, Neonlichter | Link Music Lab Records
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a3106234588_10.jpg
+    references:
+    - source: linkmusiclab.bandcamp.com-track-shahnaz-2
+      quote: https://f4.bcbits.com/img/a3106234588_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Link Music Lab Records
+        language: en
+  release date:
+  - value:
+      date: '2025-01-30'
+    references:
+    - source: linkmusiclab.bandcamp.com-album-dastg-machine-tapestry
+      quote: released January 30, 2025
+      accessed: '2026-11-21'
+      locator: Published date

@@ -1,0 +1,68 @@
+id: Qmfvbm7
+type: release
+statements:
+  name:
+  - value:
+      text: For I wasn't steel
+      language: en
+    references:
+    - source: flamingpines.bandcamp.com-track-for-i-wasnt-steel
+      quote: For I wasn't steel | Pouya Pour-Amin | Flaming Pines
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qr62rq7
+    references:
+    - source: flamingpines.bandcamp.com-album-prison-episodes
+      quote: 'E.Doublebass : Pouya Pour-Amin'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: double bass
+  contributor:
+  - value: Qr62rq7
+    references:
+    - source: flamingpines.bandcamp.com-album-prison-episodes
+      quote: All music composed by Pouya Pour-Amin
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: composer
+  listen link:
+  - value: https://flamingpines.bandcamp.com/track/for-i-wasnt-steel
+    references:
+    - source: flamingpines.bandcamp.com-track-for-i-wasnt-steel
+      quote: For I wasn't steel | Pouya Pour-Amin | Flaming Pines
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1530055729
+    references:
+    - source: music.apple.com-us-song-1530055729
+      quote: ‎For I Wasn't Steel - Song with Lyrics by Pouya Pour-Amin - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/4jukNZntVjeszWQcAtMsr4
+    references:
+    - source: open.spotify.com-track-4juknzntvjeszwqcatmsr4
+      quote: For I Wasn't Steel - song and lyrics by Pouya Pour-Amin | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a1256544936_10.jpg
+    references:
+    - source: flamingpines.bandcamp.com-track-for-i-wasnt-steel
+      quote: https://f4.bcbits.com/img/a1256544936_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original artist or label edition
+        language: en
+  release date:
+  - value:
+      date: '2019-06-26'
+    references:
+    - source: flamingpines.bandcamp.com-album-prison-episodes
+      quote: released June 26, 2019
+      accessed: '2026-11-21'
+      locator: Published date

@@ -1,0 +1,72 @@
+id: Q7xbfhh
+type: release
+statements:
+  name:
+  - value:
+      text: چاره ریم کردیت به دل
+      language: fa
+    references:
+    - source: music.apple.com-us-album-1780789677
+      quote: چاره ریم کردیت به دل
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+  performer:
+  - value: Qncx8nb
+    references:
+    - source: music.apple.com-us-album-1780789677
+      quote: Samin Ghorbani
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: vocals
+  release date:
+  - value:
+      date: '2024-11-18'
+    references:
+    - source: music.apple.com-us-album-1780789677
+      quote: '2024-11-18'
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/c4/3b/d5c43b98-030e-4df6-a018-36d5a2149843/cover.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-1780789677
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/c4/3b/d5c43b98-030e-4df6-a018-36d5a2149843/cover.jpg/1200x630bb.jpg
+      locator: Edition artwork
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Apple Music · چاره ریم کردیت به دل
+        language: en
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-1780789677
+      quote: چاره ریم کردیت به دل - Single
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://music.apple.com/us/album/%DA%86%D8%A7%D8%B1%D9%87-%D8%B1%DB%8C%D9%85-%DA%A9%D8%B1%D8%AF%DB%8C%D8%AA-%D8%A8%D9%87-%D8%AF%D9%84-single/1780789677
+    references:
+    - source: music.apple.com-us-album-1780789677
+      quote: چاره ریم کردیت به دل - Single
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/album/0jIrC9VWqc7zNorY1OAq2x
+    references:
+    - source: open.spotify.com-embed-album-0jirc9vwqc7znory1oaq2x
+      quote: چاره ریم کردیت به دل
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+  - value: https://music.apple.com/us/song/%DA%86%D8%A7%D8%B1%D9%87-%D8%B1%DB%8C%D9%85-%DA%A9%D8%B1%D8%AF%DB%8C%D8%AA-%D8%A8%D9%87-%D8%AF%D9%84/1780789680
+    references:
+    - source: music.apple.com-us-album-1780789677
+      quote: چاره ریم کردیت به دل
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/1x6xSJ0VVFpJ5kaIQgZBzz
+    references:
+    - source: open.spotify.com-embed-album-0jirc9vwqc7znory1oaq2x
+      quote: چاره ریم کردیت به دل
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'

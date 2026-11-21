@@ -1,0 +1,55 @@
+id: Q4b5g93
+type: release
+statements:
+  name:
+  - value:
+      text: Marz
+      language: en
+    references:
+    - source: youtu.be-lhpjfuctkbq
+      quote: Justina - Marz | OFFICIAL TRACK جاستینا - مرز
+      accessed: 2026-11-21
+      locator: Artist channel video title
+  - value:
+      text: مرز
+      language: fa
+    references:
+    - source: youtu.be-lhpjfuctkbq
+      quote: Justina - Marz | OFFICIAL TRACK جاستینا - مرز
+      accessed: 2026-11-21
+      locator: Artist channel video title
+  performer:
+  - value: Q2fdqjp
+    references:
+    - source: youtu.be-lhpjfuctkbq
+      quote: Justina - Marz | OFFICIAL TRACK جاستینا - مرز
+      accessed: 2026-11-21
+      locator: Artist channel video title
+  listen link:
+  - value: https://youtu.be/lHPJFuctKBQ
+    references:
+    - source: youtu.be-lhpjfuctkbq
+      quote: Justina - Marz | OFFICIAL TRACK جاستینا - مرز
+      accessed: 2026-11-21
+      locator: Artist channel video title
+  - value: https://music.apple.com/us/song/marz/1691060525
+    references:
+    - source: music.apple.com-us-album-marz-single-1691060383
+      quote: Marz
+      accessed: 2026-11-21
+      locator: Apple recording name and billing
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e1/02/8b/e1028b94-5fa5-b33f-e5ef-29dd7ad81fd6/cover.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-marz-single-1691060383
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e1/02/8b/e1028b94-5fa5-b33f-e5ef-29dd7ad81fd6/cover.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Apple edition artwork
+  release date:
+  - value:
+      date: '2019-10-03'
+    references:
+    - source: music.apple.com-us-album-marz-single-1691060383
+      quote: '2019-10-03'
+      accessed: 2026-11-21
+      locator: Digital edition release date

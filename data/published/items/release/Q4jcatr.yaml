@@ -1,0 +1,57 @@
+id: Q4jcatr
+type: release
+statements:
+  name:
+  - value:
+      text: Route
+      language: en
+    references:
+    - source: avarasti.bandcamp.com-track-route
+      quote: Route | Ava Rasti
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qks2dfk
+    references:
+    - source: avarasti.bandcamp.com-track-route
+      quote: Route | Ava Rasti
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://avarasti.bandcamp.com/track/route
+    references:
+    - source: avarasti.bandcamp.com-track-route
+      quote: Route | Ava Rasti
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://tcsberlin.bandcamp.com/track/a2-ava-rasti-route
+    references:
+    - source: tcsberlin.bandcamp.com-track-a2-ava-rasti-route
+      quote: a2. Ava Rasti -Route | Various Artists | Tehran Contemporary Sounds
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/avaarasti/route
+    references:
+    - source: soundcloud.com-avaarasti-route
+      quote: Stream Route by Ava Rasti | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a0638861072_10.jpg
+    references:
+    - source: avarasti.bandcamp.com-track-route
+      quote: https://f4.bcbits.com/img/a0638861072_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original recording publisher
+        language: en
+  release date:
+  - value:
+      date: '2023-06-29'
+    references:
+    - source: avarasti.bandcamp.com-track-route
+      quote: released June 29, 2023
+      accessed: '2026-11-21'
+      locator: Published date

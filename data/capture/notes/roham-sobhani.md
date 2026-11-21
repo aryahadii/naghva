@@ -1,0 +1,136 @@
+# Roham Sobhani
+
+His two contemporaneous interviews and the broadcaster’s feature establish his musical training, the different dedications of the Sanandaj and Bukan concerts, later compositions, and the circumstances in which The Cage Which Traps You was written. His SoundCloud photograph was inspected visually. All 19 Apple editions, 36 self-published SoundCloud uploads, 86 YouTube ensemble-channel uploads, and 1,038 accessible posts on the centre’s Telegram were examined. The Spotify edition lookups include the shared artist releases. His interview, teaching and literary translation broadcasts are part of the sources. Group performances, mixed-personnel recordings and composer-only albums are indexed according to the named credits. No attributable Bandcamp profile was located. The date of first publication and track lists of the three early non-streaming albums in the Deutsche Welle report could not be corroborated.
+
+130 directly credited recording and release panels.
+
+- A Wave of Blood (Qc2gzvk) · https://music.apple.com/us/song/a-wave-of-blood/1627331625 · https://soundcloud.com/roham-sobhani/mowj-e-khoon · https://t.me/jwangroup/20 · https://t.me/jwangroup/56 · https://t.me/jwangroup/142 · https://t.me/jwangroup/182 · https://t.me/jwangroup/323 · https://t.me/jwangroup/809 · https://open.spotify.com/track/3ovNtqBTpoUTtmsVdM64yy
+- A Wave of Blood (Qhwcjsh) · https://music.apple.com/us/album/a-wave-of-blood-ep/1627331624 · https://open.spotify.com/album/1ynAGLjB4LCw8ROdIGfkgC
+- Al-Nahit (Q63gs4w) · https://music.apple.com/us/song/al-nahit/1808057047 · https://open.spotify.com/track/7yy2brJ5GGC5bhSIOKQXZP · https://soundcloud.com/roham-sobhani/alnahit
+- Arise, Its a New Day (Q65kd7w) · https://music.apple.com/us/song/arise-its-a-new-day/1561322757 · https://soundcloud.com/roham-sobhani/v2yg2mhmfnmz
+- Ascension (Qmsrnnt) · https://music.apple.com/us/song/ascension/6777222676 · https://open.spotify.com/track/2GV6DOq6292hNrH89URS6M · https://soundcloud.com/roham-sobhani/ascension · https://t.me/jwangroup/893
+- Call of Hafiz (Qmfcnyt) · https://music.apple.com/us/song/call-of-hafiz/1603849565 · https://soundcloud.com/roham-sobhani/nedaye-hafez · https://open.spotify.com/track/4MEJnaK1Ja9o9EozCTfk3b
+- Chahar Mezrab-e-Araq چهارمضراب عراق (Q52eszs) · https://soundcloud.com/roham-sobhani/chahar-mezrab-e-aragh
+- Chests Full of Stars (Qrxqwdh) · https://music.apple.com/us/song/chests-full-of-stars/6782248770 · https://open.spotify.com/track/2CYTji5phNffVCA8u7dIWX · https://soundcloud.com/roham-sobhani/stars
+- Delbar-e-Ayyar دلبر عیار (Qs2n6vs) · https://soundcloud.com/roham-sobhani/delbar-e-ayyar · https://soundcloud.com/roham-sobhani/ytnvhpmose15
+- Departure (Qadnhay) · https://music.apple.com/us/song/departure/1855437402 · https://open.spotify.com/track/26H8xS5RwkcrFCK0jskYuD · https://soundcloud.com/roham-sobhani/departure
+- Desire to Fly (Qavbeqz) · https://music.apple.com/us/album/desire-to-fly/1561322750
+- Desire to Fly (Qxm85fj) · https://music.apple.com/us/song/desire-to-fly/1561322754 · https://soundcloud.com/roham-sobhani/ik6aditloa2f · https://t.me/jwangroup/670 · https://t.me/jwangroup/703 · https://t.me/jwangroup/400
+- Exquisite (Q77j22k) · https://music.apple.com/us/song/exquisite/1561322753 · https://soundcloud.com/roham-sobhani/ectmengcg6pw
+- Galawej - kurdish music - گەلاوێژ -رهام سبحانی - حسین صفامنش (Qtsmpfa) · https://soundcloud.com/roham-sobhani/galawej-kurdish-music
+- Hidden iIn The Folds of The Mist (Qb7tzhf) · https://music.apple.com/us/song/hidden-iin-the-folds-of-the-mist/6777216971 · https://open.spotify.com/track/0BkthFdeu70iR8IVLmKy0T · https://soundcloud.com/roham-sobhani/mist
+- Mercurial Soulmate (Qec278v) · https://music.apple.com/us/song/mercurial-soulmate/1561322751 · https://t.me/jwangroup/466
+- Nahoft (Qgjma2v) · https://music.apple.com/us/song/nahoft/1603849721 · https://open.spotify.com/track/5OQ2Z3AZ77WA0NPJF19DtF
+- Passionate (Qe8m357) · https://music.apple.com/us/song/passionate/1807972990 · https://open.spotify.com/track/4BcVcFgHXZwrFeROMFUMcm · https://soundcloud.com/roham-sobhani/passionate
+- Preposessing (Qkmf4te) · https://music.apple.com/us/song/preposessing/1561322755 · https://soundcloud.com/roham-sobhani/ifzi3s5j9b7k
+- Rank of Fire (Qd26kzf) · https://music.apple.com/us/song/rank-of-fire/1603849722 · https://soundcloud.com/roham-sobhani/magham-e-atash · https://open.spotify.com/track/7J0czh5YADhSmEDX9Lqc0W
+- Rank of Fire (Qs9hv6z) · https://music.apple.com/us/album/rank-of-fire/1603849563 · https://open.spotify.com/album/16vVxHwjSjbkK51ELkv6bp
+- Red Flower (Qyqbv49) · https://music.apple.com/us/song/red-flower/6806319728 · https://open.spotify.com/track/3uTYWrG5mGqo5fGgogQiVQ · https://soundcloud.com/roham-sobhani/redflower
+- Spring (Q5y96k5) · https://music.apple.com/us/song/spring/1833803316 · https://open.spotify.com/track/3Cl0A5JkWQB5Y20M5b3Q34 · https://soundcloud.com/roham-sobhani/spring · https://t.me/jwangroup/920
+- Tar Solo (Qky3zbe) · https://music.apple.com/us/song/tar-solo/1603849717 · https://open.spotify.com/track/33X4fSGoPhhJM0hfDGTrRb
+- The Banner of Tresses (Q83hd4d) · https://t.me/soheilhosnavi/1024 · https://soundcloud.com/zangrecordz/the-banner-of-tresses-arezoo-banipour-roham-sobhani · https://music.apple.com/us/song/the-banner-of-tresses/1680407947 · https://open.spotify.com/track/1iEwyYbfg95HScFLQEb1pc · https://soundcloud.com/roham-sobhani/ey5svbrpzmzv
+- The Cage Which Traps You (Qna3bgh) · https://music.apple.com/us/song/the-cage-which-traps-you/1570947154 · https://open.spotify.com/track/7g3ZpKYbeIZGktKTeOns67 · https://soundcloud.com/roham-sobhani/zendan-e-ghafas-09-master-mp3 · https://t.me/jwangroup/577
+- The Fall (Q7q2zyp) · https://music.apple.com/us/song/the-fall/1561322756 · https://soundcloud.com/roham-sobhani/yijj9pdty4nf
+- The Forgotten Stories (Q2nkm5w) · https://music.apple.com/us/song/the-forgotten-stories/1780193291 · https://open.spotify.com/track/1f8mBW5rSt2DUy3FyytuaJ · https://soundcloud.com/roham-sobhani/theforgottenstories
+- The Retribution of Injustice (Qmxbna6) · https://music.apple.com/us/song/the-retribution-of-injustice/1611179897 · https://open.spotify.com/track/7EKH24sjI7UjrlBSForoIC · https://soundcloud.com/roham-sobhani/keyfar-e-bidad
+- Tidings of an Outcry (Q2qma8n) · https://music.apple.com/us/song/tidings-of-an-outcry/1579225310 · https://open.spotify.com/track/780ZyEUuWUwtmT6yV3kftr · https://soundcloud.com/roham-sobhani/zhqixq4togxz
+- Tidings of an Outcry (Qbz94g5) · https://music.apple.com/us/album/tidings-of-an-outcry-single/1579225309
+- To Tomorrow (Qa92ey9) · https://music.apple.com/us/song/to-tomorrow/1839799272 · https://open.spotify.com/track/6u8qfIdwrqmGVVLVxTLzl0 · https://soundcloud.com/roham-sobhani/totomorrow
+- To the Prisoner of the Cage (Q3jhd3q) · https://music.apple.com/us/song/to-the-prisoner-of-the-cage/1603849718 · https://soundcloud.com/roham-sobhani/be-asiran-e-ghafas · https://open.spotify.com/track/3dOQcRrveLA85HWcJPDBWE
+- Vocal and Orchestra (Q32rref) · https://music.apple.com/us/song/vocal-and-orchestra/1603849719 · https://open.spotify.com/track/5Pn1BB4bhYiHz7wQtVL3CM
+- Waiting (Q2e6sc5) · https://music.apple.com/us/song/waiting/1596527450 · https://soundcloud.com/roham-sobhani/s8wfetjvgskj · https://open.spotify.com/track/2zNJEpV4tX8M1FdCfqwuJj · https://t.me/jwangroup/659
+- We Stand Until the End (Qtfd2je) · https://music.apple.com/us/song/we-stand-until-the-end/1817131129 · https://open.spotify.com/track/1nugWgphssuMdDqk4PuynX · https://soundcloud.com/roham-sobhani/westand
+- Your Hair (Qbrk7gf) · https://music.apple.com/us/song/your-hair/1561322758 · https://soundcloud.com/roham-sobhani/bqgxxewld92i
+- gelawej - گه لاوێژ - رهام سبحانی - حسین صفامنش (Q4awajg) · https://www.youtube.com/watch?v=vw9nTYya6CY
+- roham sobhani kurdish music باڵا به رز (Qek4yqq) · https://www.youtube.com/watch?v=SOsh14k3snM
+- sodaye vatan سودای وطن (Qmvataz) · https://soundcloud.com/roham-sobhani/sodaye-vatan
+- آتش‌به‌جان (Qfx77pd) · https://www.youtube.com/watch?v=4IKducPjJbE · https://t.me/jwangroup/937
+- ئاموزا گیان  - رهام سبحانی - حسین صفامنش - roham sobhani - hossein safamanesh (Q7853vk) · https://www.youtube.com/watch?v=MRTtSVcnKT8
+- اجرای سرود ملی آلمان در مراسم روز اتحاد ملی آلمان - گروه ژوان - رهام سبحانی (Qhk3gwn) · https://www.youtube.com/watch?v=RyKUkKzLYEE
+- اسیران قفس - رهام سبحانی asirane ghafas - roham sobhani (Qk8xtt8) · https://www.youtube.com/watch?v=6HGmWWzj_2w
+- الحياة حلوه - عود - رهام سبحانی (Qmfbj9c) · https://www.youtube.com/watch?v=RfhnpDTzLoU
+- بازی بێریان - رهام سبحانی - حسین صفامنش roham sobhani & hosein safamanesh (Q9a6zcg) · https://www.youtube.com/watch?v=K9dRzpM3YOc
+- بانگ میهن - bang-e- mihan -رهام سبحانی (Qce3rg7) · https://soundcloud.com/roham-sobhani/bang-e-mihan
+- بخش هایی از بداهه نوازی تار در دستگاه راست پنجگاه (Qfb7jkp) · https://t.me/jwangroup/193
+- بخشی از اُورتور قطعه‌ی دق باب البیت(ودیع الصافی) (Qswktbk) · https://t.me/jwangroup/551
+- بداهه نوازی بیات ترک - رهام سبحانی roham sobhani (Qa6bech) · https://www.youtube.com/watch?v=qXA9xGZEfRM
+- بداهه نوازی تار - راست پنجگاه - رهام سبحانی roham sobhani - tar (Q3sfk4m) · https://www.youtube.com/watch?v=qcRHoSE5m9s
+- بداهه نوازی تار - رهام سبحانی (Q6p9mvx) · https://www.youtube.com/watch?v=5xrnkHNVVeA
+- بداهه نوازی تار - رهام سبحانی (Qkw6h4z) · https://www.youtube.com/watch?v=2T4FG-UTW4w
+- بداهه نوازی تار - رهام سبحانی -roham sobhani (Qm7vh8j) · https://www.youtube.com/watch?v=GcmKiHTFsEE
+- بداهه نوازی تار - سه گاه - رهام سبحانی (Q74d4t2) · https://www.youtube.com/watch?v=KdKSECSqEB0
+- بداهه نوازی تار در آواز ابوعطا (Qnnwytv) · https://t.me/jwangroup/198
+- بداهه نوازی تار در آواز بیات ترک  - رهام سبحانی roham sobhani (Qtqw8b6) · https://www.youtube.com/watch?v=O6fyc1m-tPg
+- بداهه نوازی تار در دستگاه سه گاه - رهام سبحانی (Qzx4dkb) · https://www.youtube.com/watch?v=ly02Sn7PPxg
+- بداهه نوازی تار در دستگاه شور - رهام سبحانی (Q3w34f4) · https://www.youtube.com/watch?v=s3yLsg8fN-A
+- بداهه نوازی تار در مایه ی بیات ترک - رهام سبحانی (Qc2pbs2) · https://t.me/jwangroup/148
+- بداهه نوازی تار در نغمه ی دشتی - رهام سبحانی (Qkqwkjj) · https://t.me/jwangroup/145 · https://t.me/jwangroup/178
+- بداهه نوازی در آواز بیات ترک - رهام سبحانی (Qyn6zt2) · https://www.youtube.com/watch?v=V4E4zNiup0w
+- بداهه نوازی در دستگاه چهارگاه - رهام سبحانی (Q9b6gez) · https://www.youtube.com/watch?v=MJALp55-uOo
+- بداهه نوازی در دستگاه چهارگاه - رهام سبحانی (Qer7yxm) · https://www.youtube.com/watch?v=tWEUQfezAHw
+- بداهه نوازی در نغمه ی ابوعطا - رهام سبحانی (Q5phqck) · https://www.youtube.com/watch?v=JQ6cRSRkr9o
+- بداهه نوازی سه تار - رهام سبحانی (Qf854fe) · https://www.youtube.com/watch?v=Wr8KSoRNj_4
+- بداهه نوازی سه تار در آواز ابوعطا - رهام سبحانی roham sobhani - setar (Qnda3yj) · https://www.youtube.com/watch?v=1RkT5A3hxmk
+- بداهه نوازی عود - رهام سبحانی - roham sobhani - oud (Q8bh7kw) · https://www.youtube.com/watch?v=ZEhJwXxWmrg
+- بداهه نوازی عود - رهام سبحانی- نسخه ی کامل (Q3kr5pw) · https://t.me/jwangroup/173
+- بداهه‌نوازی (Qh6gqe9) · https://soundcloud.com/roham-sobhani/bedahe-navazi-setar
+- بداهه‌نوازی (Qvt8j74) · https://t.me/jwangroup/1043
+- بداهه‌نوازی در نغمه‌ی ابوعطا. (Q369w6a) · https://t.me/jwangroup/484
+- بداهه‌نوازی سه‌تار در دستگاه همایون (Qbcftcs) · https://t.me/jwangroup/528
+- بداهه‌نوازی سه‌گاه (Qp4t6ht) · https://soundcloud.com/roham-sobhani/bedahe-segah-tar
+- برای فلسطین (Qnxaskd) · https://t.me/jwangroup/868
+- برای ژینا (Qy6kwxp) · https://t.me/jwangroup/883 · https://t.me/jwangroup/964
+- بزرگداشت سعدی - مرکب نوازی - رهام سبحانی (Qjz258n) · https://www.youtube.com/watch?v=hIxkOZDTzbk
+- بشارت فریاد - رهام سبحانی - هاله سیفی زاده (Qfq3wns) · https://www.youtube.com/watch?v=nLoM0EocCcY
+- به فردا (Qvskwrx) · https://www.youtube.com/watch?v=rGHzrr08EVU · https://t.me/jwangroup/922
+- بیات شیراز. رهام سبحانی. فروردین ۱۴۰۰ (Qsjrrty) · https://t.me/jwangroup/538
+- تصنیف ایران - کنسرت ژوان در کارلسروهه آلمان - 17 سپتامبر 2016 (Qvvj4q9) · https://www.youtube.com/watch?v=Pi5Rzk4muAk
+- تصنیف خواب خوش - رهام سبحانی - هاله سیفی زاده - حسن شرقی (Q8zthxv) · https://www.youtube.com/watch?v=r5HOdEAhosw
+- تصنیف ندای حافظ - رهام سبحانی (Qmvcvp5) · https://www.youtube.com/watch?v=6GIT1Ur8oSo
+- تصنیف هزاردستان-آرزو بنی پور-رهام سبحانی (Qg246g4) · https://www.youtube.com/watch?v=_CMAhqgSIpk · https://www.youtube.com/watch?v=kcE-EoTq1vU
+- تقاسیم عود (Qjanczz) · https://t.me/jwangroup/547
+- تقاسیم عود، مقام نهاوند (Q7tjccn) · https://t.me/jwangroup/1078
+- تقدیم به خوزستان - رهام سبحانی (Q3stej5) · https://www.youtube.com/watch?v=JQXYCiIzZfw
+- تکنوازی عود - رهام سبحانی (Qb5h43s) · https://t.me/jwangroup/143
+- جه ژنی به هاران - کنسرت ژوان در زاربروکن آلمان - 26 سپتامبر 2016 (Qtw4k8v) · https://www.youtube.com/watch?v=LSAmzhsvurU
+- در زنجیر - کنسرت زاربروکن آلمان . 26 سپتامبر 2016 - رهام سبحانی (Qwj5btv) · https://www.youtube.com/watch?v=Xr2bIxi3MJ0
+- دردی‌ست غیرِ مُردن (Qdj9t27) · https://t.me/jwangroup/1051
+- دل انگیزان - استاد پرویز مشکاتیان - رهام سبحانی (Qasb6h3) · https://www.youtube.com/watch?v=OrDmWGoSQlU
+- دلبر عیار - آهنگساز : رهام سبحانی (Qhnbrtx) · https://www.youtube.com/watch?v=jjD_TcwQoz8
+- رزم مشترک (Qby4ydy) · https://t.me/jwangroup/729
+- رهام سبحانی بداهه نوازی ( roham sobhani ) (Qjk32tm) · https://www.youtube.com/watch?v=TskW3QOCmIg
+- زندان قفس (Q4xn67e) · https://www.youtube.com/watch?v=nftBKmCHhXQ · https://www.youtube.com/watch?v=EEY4rlTB3zU
+- ساز و آواز - بداهه - رهام سبحانی و حسن شرقی .کنسرت ماربورگ آلمان -29 سپتامبر 2016 (Qqddykm) · https://www.youtube.com/watch?v=3MneQKuiNT0
+- ساز و آواز ابوعطا - رهام سبحانی و حسن شرقی - roham sobhani & hasan sharghi (Q49mv2h) · https://www.youtube.com/watch?v=81q7utpdFxM
+- سراوان - رهام سبحانی (Q3cwn6q) · https://www.youtube.com/watch?v=JPbJ1DDUgXw
+- سماع آوا .ساخته ی استاد پرویز مشکاتیان . تار: رهام سبحانی (Qhqzv4f) · https://t.me/jwangroup/191
+- سودای وطن - کنسرت زاربروکن آلمان 26 سپتامبر 2016 - گروه ژوان (Q4fem6n) · https://www.youtube.com/watch?v=4a9-nhNxsqQ
+- سۆزت دامێ - کنسرت هامبورگ 10 سپتامبر 2016 - گروه ژوان - رهام سبحانی (Qnksmn7) · https://www.youtube.com/watch?v=K5sAVULtHxs
+- عاشقی زار - کنسرت ساربروکن - 26 سپتامبر 2016 (Qdt7933) · https://www.youtube.com/watch?v=ajmA-ABWjuA
+- فسانه (Q9h6cr8)
+- فُرات - رهام سبحانی - عود (Qq74j47) · https://www.youtube.com/watch?v=ZQ-LirPjogA
+- قطعه 《ضربی نوا》 (Qndjx2h) · https://t.me/jwangroup/196
+- قیام - رهام سبحانی - حسن شرقی - هوشنگ ابتهاج - roham sobhani - hassan sharghi (Q8ng28e) · https://www.youtube.com/watch?v=JF_1NSKXKcE
+- مقام آتش - رهام سبحانی - هاله سیفی زاده - حسن شرقی (Qdet463) · https://www.youtube.com/watch?v=GmBgREzAFx8
+- مقام آتش - رهام سبحانی - هاله سیفی زاده - حسن شرقی roham sobhani & hasan sharghi (Q4k6nsm) · https://www.youtube.com/watch?v=T0gmAULujKw
+- موج خون - رهام سبحانی - حسن شرقی - هاله سیفی زاده moje khoon - roham sobhani (Q3n6jtf) · https://www.youtube.com/watch?v=FS4j2leTAws
+- موسیقی در قرنطینه - بخش اول (Q8sae5r) · https://www.youtube.com/watch?v=ak2IXQtcKhw
+- موسیقی در قرنطینه - بخش دوم (Qpxyqty) · https://www.youtube.com/watch?v=gBRDPGoyxTI
+- موسیقی در قرنطینه - بخش سوم (Qe6hs7c) · https://www.youtube.com/watch?v=PJJVs-8HXUM
+- ندای حافظ - رهام سبحانی - هاله سیفی زاده - حسن شرقی (Qektry5) · https://www.youtube.com/watch?v=y9ePQQe8-6I
+- ندای حافظ - رهام سبحانی - هاله سیفی زاده - حسن شرقی (Qsfhcs7) · https://www.youtube.com/watch?v=iQuwvA64-84
+- نمادِ زندگی (Qbgfvcp) · https://soundcloud.com/roham-sobhani/parvaz
+- پیر میخانه (Qm6ge6j)
+- کنسرت آنلاین - رهام سبحانی - آرزو بنی پور - بخش اول (Q5a54r4) · https://www.youtube.com/watch?v=MT4G1XwpUAY
+- کنسرت آنلاین - رهام سبحانی - آرزو بنی پور - بخش دوم (Qsrc9c9) · https://www.youtube.com/watch?v=JxTrY1sEym8
+- کنسرت زاربروکن . سپتامبر 2016 . په پو له ی ئازادی (Qzg8kpt) · https://www.youtube.com/watch?v=LI0VY30LC3A
+- کنسرت سنندج - رهام سبحانی - حسین صفامنش roham sobhani - hosein safamanesh (Qnqedtv) · https://www.youtube.com/watch?v=u0S3YscII6c
+- کنسرت شهر کارلسروهه آلمان - 17 سپتامبر 2016 - گروه ژوان - بخش پایانی (Q9axsy6) · https://www.youtube.com/watch?v=03Ddp6w0vaQ
+- کنسرت گروه ژوان . 26 سپتامبر 2016 - شهر ساربروکن آلمان (Q2cyev5) · https://www.youtube.com/watch?v=5k_5eNVfb6o
+- کیفر بیداد - رهام سبحانی keyfare bidad - roham sobhani & hossein alishapour (Qym6h5h) · https://www.youtube.com/watch?v=RgbJHeSt03I
+- گفت‌وگوی دل (Qek4z3x)
+- گُلِ مینا (Q4nc8nz) · https://www.youtube.com/watch?v=yLDYY743QJw · https://t.me/jwangroup/882
+- یاد یار - رهام سبحانی - گروه ژوان (Q3j654m) · https://www.youtube.com/watch?v=CEdjgvd-PkU
+- یادگار خون سرو - رهام سبحانی - حسن شرقی (Qj2xh2e) · https://soundcloud.com/roham-sobhani/yadegar-e-khoon-e-sarv · https://t.me/jwangroup/175
+- یادگار خون سرو - رهام سبحانی - حسن شرقی - roham sobhani - hassan sharghi (Q2rbrwv) · https://www.youtube.com/watch?v=C6UVH1dT7ow
+- یادگار خون سرو - کنسرت هامبورگ - 10 سپتامبر 2016 - سالن Johannes-Brahms-Platz (Qynvbrc) · https://www.youtube.com/watch?v=rNZJ3CfPdyM

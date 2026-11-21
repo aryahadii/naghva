@@ -1,0 +1,64 @@
+id: Qc8jhc7
+type: release
+statements:
+  name:
+  - value:
+      text: Shame
+      language: en
+    references:
+    - source: finchesband.bandcamp.com-album-shame
+      quote: Shame | The Finches
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qnw83g7
+    references:
+    - source: finchesband.bandcamp.com-album-shame
+      quote: Shame | The Finches
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qb5hnjh
+    references:
+    - source: www.zhinardalan.com
+      quote: vocalist and rhythm guitarist of The Finches
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  release type:
+  - value: ep
+    references:
+    - source: finchesband.bandcamp.com-album-shame
+      quote: Shame | The Finches
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://finchesband.bandcamp.com/album/shame
+    references:
+    - source: finchesband.bandcamp.com-album-shame
+      quote: Shame | The Finches
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/album/4WkhTUdN6rM1nlikE201ck
+    references:
+    - source: open.spotify.com-album-4wkhtudn6rm1nlike201ck
+      quote: Listen to Shame - EP by The Finches | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a0242389445_10.jpg
+    references:
+    - source: finchesband.bandcamp.com-album-shame
+      quote: https://f4.bcbits.com/img/a0242389445_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Publisher artwork
+        language: en
+  release date:
+  - value:
+      date: '2021-04-16'
+    references:
+    - source: finchesband.bandcamp.com-album-shame
+      quote: released April 16, 2021
+      accessed: '2026-11-21'
+      locator: Published date

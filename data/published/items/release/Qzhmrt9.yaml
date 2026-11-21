@@ -1,0 +1,57 @@
+id: Qzhmrt9
+type: release
+statements:
+  name:
+  - value:
+      text: Hole (feat. Meshcut)
+      language: en
+    references:
+    - source: music.apple.com-us-song-1820419699
+      quote: ‎Hole (feat. Meshcut) - Song with Lyrics by Amin & Tara - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qh6s4f5
+    references:
+    - source: music.apple.com-us-song-1820419699
+      quote: ‎Hole (feat. Meshcut) - Song with Lyrics by Amin & Tara - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qf42sm2
+    references:
+    - source: open.spotify.com-track-3uxh9p5yp0wppsh3atzqed
+      quote: Amin & Tara
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://music.apple.com/us/song/1820419699
+    references:
+    - source: music.apple.com-us-song-1820419699
+      quote: ‎Hole (feat. Meshcut) - Song with Lyrics by Amin & Tara - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/3UxH9P5Yp0WpPSh3ATzQeD
+    references:
+    - source: open.spotify.com-track-3uxh9p5yp0wppsh3atzqed
+      quote: Hole - song and lyrics by Amin & Tara, Meshcut | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/56/16/8b/56168b67-c81f-08ea-5059-631139735a4d/artwork.jpg/600x600bb.webp
+    references:
+    - source: music.apple.com-us-song-1820419699
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/56/16/8b/56168b67-c81f-08ea-5059-631139735a4d/artwork.jpg/600x600bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original recording artwork
+        language: en
+  release date:
+  - value:
+      date: '2025-06-22'
+    references:
+    - source: music.apple.com-us-song-1820419699
+      quote: June 22, 2025
+      accessed: '2026-11-21'
+      locator: Published date

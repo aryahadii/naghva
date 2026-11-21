@@ -1,0 +1,35 @@
+id: Qk8m44x
+type: release
+statements:
+  name:
+  - value:
+      text: Palpalossi
+      language: en
+    references:
+    - &id001
+      source: soundcloud.com-aika-ensemble-aika-ensemble-palpalossi-de
+      quote: Aïka Ensemble - Palpalossi
+      accessed: '2026-11-21'
+      locator: Group-published SoundCloud recording
+  performer:
+  - value: Qpwmdfk
+    references:
+    - *id001
+  - value: Qpav8br
+    references:
+    - source: aa-e.org-en-artiste-mobasher-babak-amir-2
+      quote: founded the group Aika with singer Hura Mirshekari
+      accessed: '2026-11-21'
+      locator: Group founders
+  release date:
+  - value:
+      date: '2022-12-16'
+    references:
+    - source: soundcloud.com-aika-ensemble-aika-ensemble-palpalossi-de
+      quote: '2022-12-16'
+      accessed: '2026-11-21'
+      locator: SoundCloud issue date
+  listen link:
+  - value: https://soundcloud.com/aika-ensemble/aika-ensemble-palpalossi-de
+    references:
+    - *id001

@@ -1,0 +1,37 @@
+id: Qc6995d
+type: release
+statements:
+  listen link:
+  - value: https://www.youtube.com/watch?v=Nzz_-5QXaCo
+    references:
+    - source: www.youtube.com-watch-v-nzz_-5qxaco
+      quote: '"Iraj" -- A Tribute to Iraj Karimi [1953 - Sep 2, 2015]'
+      accessed: '2026-11-21'
+      locator: Page title
+  name:
+  - value:
+      text: Iraj
+      language: en
+    references:
+    - source: www.youtube.com-watch-v-nzz_-5qxaco
+      quote: Iraj
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  performer:
+  - value: Qt5sbqz
+    references:
+    - source: www.youtube.com-watch-v-nzz_-5qxaco
+      quote: '"Iraj" -- A Tribute to Iraj Karimi [1953 - Sep 2, 2015]'
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i.ytimg.com/vi/Nzz_-5QXaCo/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-nzz_-5qxaco
+      quote: https://i.ytimg.com/vi/Nzz_-5QXaCo/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: Sina Salimi
+        language: en

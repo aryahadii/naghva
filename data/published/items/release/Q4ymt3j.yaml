@@ -1,0 +1,21 @@
+id: Q4ymt3j
+type: release
+statements:
+  name:
+  - value:
+      text: Ear 5
+      language: en
+    references:
+    - &id001
+      source: about.me-hesam.ohadi
+      quote: released a track in "Ear 5", a compilation CD released on Mahriz Records
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  performer:
+  - value: Qjjdrek
+    references:
+    - *id001
+  release type:
+  - value: compilation
+    references:
+    - *id001

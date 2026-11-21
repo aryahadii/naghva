@@ -1,0 +1,78 @@
+id: Qqktayk
+type: release
+statements:
+  name:
+  - value:
+      text: Bluets
+      language: en
+    references:
+    - source: fuulab.bandcamp.com-album-bluets
+      quote: Bluets
+      locator: Edition title
+      accessed: '2026-11-21'
+  performer:
+  - value: Q9aspca
+    references:
+    - source: fuulab.bandcamp.com-album-bluets
+      quote: Bass Clarinet by Shabnam Parvaresh
+      locator: Performer credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: bass clarinet
+  - value: Qs7am59
+    references:
+    - source: fuulab.bandcamp.com-album-bluets
+      quote: Ah! Kosmos
+      locator: Billed artist
+      accessed: '2026-11-21'
+  - value: Qtx94tx
+    references:
+    - source: fuulab.bandcamp.com-album-bluets
+      quote: Büşra Kayıkçı
+      locator: Artist and pianist
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2022-11-11'
+    references:
+    - source: fuulab.bandcamp.com-album-bluets
+      quote: 11 Nov 2022 00:00:00 GMT
+      locator: First digital issue
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://fuulab.bandcamp.com/album/bluets
+    references:
+    - source: fuulab.bandcamp.com-album-bluets
+      quote: Bluets
+      locator: Edition title
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/album/4UbJLIs5ao4GRVrBEmZkqP
+    references:
+    - source: open.spotify.com-album-4ubjlis5ao4grvrbemzkqp
+      quote: Bluets
+      locator: Album title
+      accessed: '2026-11-21'
+  - value: https://music.apple.com/us/album/1650389140
+    references:
+    - source: music.apple.com-us-album-1650389140
+      quote: Bluets
+      locator: Album title
+      accessed: '2026-11-21'
+  release type:
+  - value: album
+    references:
+    - source: fuulab.bandcamp.com-album-bluets
+      quote: Bluets
+      locator: Edition title
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://f4.bcbits.com/img/a3537160586_10.jpg
+    references:
+    - source: fuulab.bandcamp.com-album-bluets
+      quote: https://f4.bcbits.com/img/a3537160586_10.jpg
+      locator: Edition artwork
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: FUU · release artwork
+        language: en

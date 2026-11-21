@@ -1,0 +1,41 @@
+id: Qm9qvm9
+type: release
+statements:
+  name:
+  - value:
+      text: Françoise Atlan & Shadi Fathi
+      language: fr
+    references:
+    - source: www.shadi-fathi.com-galerie-videos
+      quote: Françoise Atlan & Shadi Fathi
+      accessed: '2026-11-21'
+      locator: Artist video gallery title
+  performer:
+  - value: Qfxqgvv
+    references:
+    - source: www.shadi-fathi.com-galerie-videos
+      quote: Françoise Atlan & Shadi Fathi
+      accessed: '2026-11-21'
+      locator: Artist video gallery title
+    - source: www.odoensemble.com-en-shadi-fathi
+      quote: Shadi Fathi
+      accessed: '2026-11-21'
+      locator: Artist heading
+  listen link:
+  - value: https://www.youtube.com/watch?v=z7Ehu5yOWUk
+    references:
+    - source: www.shadi-fathi.com-galerie-videos
+      quote: z7Ehu5yOWUk
+      accessed: '2026-11-21'
+      locator: Artist embeds this specific YouTube video
+  cover art:
+  - value: https://i.ytimg.com/vi/z7Ehu5yOWUk/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-z7ehu5yowuk
+      quote: https://i.ytimg.com/vi/z7Ehu5yOWUk/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Official thumbnail returned by YouTube for this video
+    qualifiers:
+      credit:
+        text: Shadi Fathi · YouTube
+        language: en

@@ -1,0 +1,69 @@
+id: Qjhmkyp
+type: release
+statements:
+  listen link:
+  - value: https://sinasalimi.bandcamp.com/track/of-nightmares-and-dreams-feat-mahnaz-rad-remastered
+    references:
+    - source: sinasalimi.bandcamp.com-track-of-nightmares-and-dreams-feat-mahnaz-rad-remastered
+      quote: Of Nightmares and Dreams (feat. Mahnaz Rad) - Remastered | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/of-nightmares-and-dreams/1740290335
+    references:
+    - source: music.apple.com-us-song-of-nightmares-and-dreams-1740290335
+      quote: ‎Of Nightmares and Dreams - Song with Lyrics by Sina Salimi - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/0lY6UCpk3JOFkl4uOYy9Mm
+    references:
+    - source: open.spotify.com-track-0ly6ucpk3jofkl4uoyy9mm
+      quote: Of Nightmares and Dreams - song and lyrics by Sina Salimi | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/sinasalimi/of-nightmares-and-dreams-feat
+    references:
+    - source: soundcloud.com-sinasalimi-of-nightmares-and-dreams-feat
+      quote: Stream Of Nightmares and Dreams (feat. Mahnaz Rad) - Remastered by Sina  Salimi | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  name:
+  - value:
+      text: Of Nightmares and Dreams (feat. Mahnaz Rad) - Remastered
+      language: en
+    references:
+    - source: sinasalimi.bandcamp.com-track-of-nightmares-and-dreams-feat-mahnaz-rad-remastered
+      quote: Of Nightmares and Dreams (feat. Mahnaz Rad) - Remastered
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  performer:
+  - value: Qt5sbqz
+    references:
+    - source: sinasalimi.bandcamp.com-track-of-nightmares-and-dreams-feat-mahnaz-rad-remastered
+      quote: Of Nightmares and Dreams (feat. Mahnaz Rad) - Remastered | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Q6y6d6b
+    references:
+    - source: sinasalimi.bandcamp.com-album-ten-songs-for-my-motherland
+      quote: 'Mahnaz Rad: vocals [1, 2, 5, 8, 9, 10]'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  release date:
+  - value:
+      date: '2023-09-05'
+    references:
+    - source: music.apple.com-us-song-of-nightmares-and-dreams-1740290335
+      quote: September 5, 2023
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a1239151173_10.jpg
+    references:
+    - source: sinasalimi.bandcamp.com-track-of-nightmares-and-dreams-feat-mahnaz-rad-remastered
+      quote: https://f4.bcbits.com/img/a1239151173_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Sina Salimi on Bandcamp
+        language: en

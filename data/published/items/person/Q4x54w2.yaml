@@ -1,0 +1,29 @@
+id: Q4x54w2
+type: person
+statements:
+  name:
+  - value:
+      text: Soheil Avakh
+      language: en
+    references:
+    - source: artamene-official.com-2021-11-23-artamene-iran-sign-with-wormholedeath-announce-ziggurat
+      quote: Soheil Avakh/Vocal
+      accessed: 2026-11-21
+      locator: Release or concert personnel
+  - value:
+      text: سهیل آوخ
+      language: fa
+    references:
+    - source: artamene-official.com-2018-11-26
+      quote: سهیل آوخ
+      accessed: 2026-11-21
+      locator: نوازندگان کنسرت
+  member of:
+  - value: Qq8jt69
+    qualifiers:
+      role: vocals
+    references:
+    - source: artamene-official.com-2021-11-23-artamene-iran-sign-with-wormholedeath-announce-ziggurat
+      quote: Soheil Avakh/Vocal
+      accessed: 2026-11-21
+      locator: Release or concert personnel

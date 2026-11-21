@@ -1,0 +1,51 @@
+id: Q22wm4r
+type: release
+statements:
+  name:
+  - value:
+      text: NUM - Here in the Lighthouse
+      language: en
+    references:
+    - source: www.youtube.com-watch-v-a_b2iy5gv_a
+      quote: NUM - Here in the Lighthouse
+      accessed: '2026-11-21'
+      locator: Recording title
+  performer:
+  - value: Qm4skc3
+    references:
+    - source: www.youtube.com-watch-v-a_b2iy5gv_a
+      quote: NUM - Here in the Lighthouse - YouTube
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://www.youtube.com/watch?v=a_B2IY5Gv_A
+    references:
+    - source: www.youtube.com-watch-v-a_b2iy5gv_a
+      quote: NUM - Here in the Lighthouse - YouTube
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/nummusic/here-in-the-lighthouse
+    references:
+    - source: soundcloud.com-nummusic-here-in-the-lighthouse
+      quote: Stream Here,In The Lighthouse by NUM | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2019-09-01'
+    references:
+    - source: www.youtube.com-watch-v-a_b2iy5gv_a
+      quote: '2019-09-01T13:46:44-07:00'
+      accessed: '2026-11-21'
+      locator: Video publication date
+  cover art:
+  - value: https://i.ytimg.com/vi/a_B2IY5Gv_A/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-a_b2iy5gv_a
+      quote: https://i.ytimg.com/vi/a_B2IY5Gv_A/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Official YouTube video
+        language: en

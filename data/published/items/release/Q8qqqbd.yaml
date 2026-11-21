@@ -1,0 +1,53 @@
+id: Q8qqqbd
+type: release
+statements:
+  name:
+  - value:
+      text: Yek Gole Saye Chaman
+      language: en
+    references:
+    - source: music.apple.com-us-album-berlin-2004-live-319924076
+      quote: Yek Gole Saye Chaman
+      accessed: 2026-11-21
+      locator: Album or track heading
+  listen link:
+  - value: https://music.apple.com/us/song/yek-gole-saye-chaman/319924120
+    references:
+    - source: music.apple.com-us-album-berlin-2004-live-319924076
+      quote: Yek Gole Saye Chaman
+      accessed: 2026-11-21
+      locator: Album or track heading
+  - value: https://open.spotify.com/track/5o4ICezmooRK0TzSIQNVkw
+    references:
+    - source: open.spotify.com-album-0yqpdgizbdh1jbxemdndrh
+      quote: Yek Gole Saye Chaman
+      accessed: 2026-11-21
+      locator: Native recording title
+  - value: https://youtu.be/mZ-wKdf9OTI
+    references:
+    - source: youtu.be-mz-wkdf9oti
+      quote: Yek Gole Saye Chaman, Iran Folk Song, یک گل سایه چمن
+      accessed: 2026-11-21
+      locator: Artist film heading
+  release date:
+  - value:
+      date: '2009-05-27'
+    references:
+    - source: music.apple.com-us-album-berlin-2004-live-319924076
+      quote: '2009-05-27'
+      accessed: 2026-11-21
+      locator: Digital publication date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music/d7/96/4a/mzi.ojomatux.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-berlin-2004-live-319924076
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music/d7/96/4a/mzi.ojomatux.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Native artwork
+  performer:
+  - value: Qxyr3j2
+    references:
+    - source: music.apple.com-us-album-berlin-2004-live-319924076
+      quote: Darya Dadvar
+      accessed: 2026-11-21
+      locator: Edition artist

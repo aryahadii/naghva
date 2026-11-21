@@ -1,0 +1,66 @@
+id: Qmf32kg
+type: release
+statements:
+  name:
+  - value:
+      text: Through the opposite condition
+      language: en
+    references:
+    - source: kopirecs.bandcamp.com-track-through-the-opposite-condition
+      quote: Through the opposite condition | ArtSaves | Kopi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qw9zs9g
+    references:
+    - source: kopirecs.bandcamp.com-album-decay
+      quote: ArtSaves
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://kopirecs.bandcamp.com/track/through-the-opposite-condition
+    references:
+    - source: kopirecs.bandcamp.com-track-through-the-opposite-condition
+      quote: Through the opposite condition | ArtSaves | Kopi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1634135070
+    references:
+    - source: music.apple.com-us-song-1634135070
+      quote: ‎Through the Opposite Condition - Song with Lyrics by ArtSaves - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/46dTlAMl00Zom2b65XNwyT
+    references:
+    - source: open.spotify.com-track-46dtlaml00zom2b65xnwyt
+      quote: Through the opposite condition - song and lyrics by ArtSaves | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a3351843825_10.jpg
+    references:
+    - source: kopirecs.bandcamp.com-track-through-the-opposite-condition
+      quote: https://f4.bcbits.com/img/a3351843825_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Sepehr Givtaj, geometric designs by Amirhosein Amini
+        language: en
+  release date:
+  - value:
+      date: '2022-08-26'
+    references:
+    - source: kopirecs.bandcamp.com-track-through-the-opposite-condition
+      quote: released August 26, 2022
+      accessed: '2026-11-21'
+      locator: Published date
+  contributor:
+  - value: Qgncp5r
+    references:
+    - source: kopirecs.bandcamp.com-album-decay
+      quote: Nima Aghiani
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: mastering engineer

@@ -1,0 +1,55 @@
+id: Qvhrrm8
+type: person
+statements:
+  name:
+  - value:
+      text: Naghib Shanbehzadeh
+      language: en
+    references:
+    - source: open.spotify.com-artist-20qfzhxnc5iudbcsyxz0ag
+      quote: Naghib Shanbehzadeh
+      accessed: 2026-11-21
+      locator: Artist or ensemble billing
+  image:
+  - value: https://i.scdn.co/image/ab6761610000e5eb5857d58ec0d3309f92f23f18
+    qualifiers:
+      credit:
+        text: Naghib Shanbehzadeh / Spotify
+        language: en
+    references:
+    - source: open.spotify.com-artist-20qfzhxnc5iudbcsyxz0ag
+      quote: https://i.scdn.co/image/ab6761610000e5eb5857d58ec0d3309f92f23f18
+      accessed: 2026-11-21
+      locator: Original credited artist photograph
+  profile link:
+  - value: https://open.spotify.com/artist/20QfzHxNc5iuDBCSYXZ0AG
+    references:
+    - source: open.spotify.com-artist-20qfzhxnc5iudbcsyxz0ag
+      quote: Listen to Naghib Shanbehzadeh Songs | Spotify
+      accessed: 2026-11-21
+      locator: Verified catalog identity
+  - value: https://music.apple.com/us/artist/naghib-shanbehzadeh/910546060
+    references:
+    - source: music.apple.com-us-artist-naghib-shanbehzadeh-910546060
+      quote: ‎Naghib Shanbehzadeh - Apple Music
+      accessed: 2026-11-21
+      locator: Verified catalog identity
+  - value: https://www.youtube.com/@naghib1372
+    references:
+    - source: www.youtube.com-watch-v-lzkrtuogjro
+      quote: https://www.youtube.com/@naghib1372
+      accessed: '2026-11-21'
+      locator: Artist-published channel
+  - value: https://soundcloud.com/nag-1-1
+    references:
+    - source: soundcloud.com-nag-1-1
+      quote: Naghib Shanbehzadeh
+      accessed: '2026-11-21'
+      locator: Original musician account
+  member of:
+  - value: Qdtxp3v
+    references:
+    - source: www.womex.com-virtual-shanbehzadeh
+      quote: Naghib Shanbehzadeh
+      accessed: 2026-11-21
+      locator: Ensemble roster

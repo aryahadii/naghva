@@ -1,0 +1,38 @@
+id: Qs73vkf
+type: person
+statements:
+  name:
+  - value:
+      text: Maryam Akhondy
+      language: en
+    references:
+    - source: music.apple.com-de-artist-maryam-akhondy-160024592
+      quote: Maryam Akhondy
+      accessed: 2026-11-21
+      locator: Native performer profile
+  - value:
+      text: مریم آخوندی
+      language: fa
+    references:
+    - source: www.radiofarda.com-a-f35_akhondi_brabad-2035858.html
+      quote: مریم آخوندی
+      accessed: 2026-11-21
+      locator: Persian interview heading
+  profile link:
+  - value: https://music.apple.com/de/artist/maryam-akhondy/160024592
+    references:
+    - source: music.apple.com-de-artist-maryam-akhondy-160024592
+      quote: Maryam Akhondy
+      accessed: 2026-11-21
+      locator: Apple Music artist
+  image:
+  - value: https://frauenstadtplan.koeln/wp-content/uploads/2023/07/Akhondy-Maryam3_copy_Bernd-G-Schmitz-784x1024.jpg
+    qualifiers:
+      credit:
+        text: Bernd G. Schmitz, 2008, via Kölner Frauen*Stadtplan
+        language: en
+    references:
+    - source: frauenstadtplan.koeln-maryam-akhondy
+      quote: M.A. mit Rahmentrommel 2008, © Bernd G. Schmitz
+      accessed: 2026-11-21
+      locator: Photographer and date on the Cologne women’s history project

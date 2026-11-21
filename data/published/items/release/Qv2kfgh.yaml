@@ -1,0 +1,47 @@
+id: Qv2kfgh
+type: release
+statements:
+  name:
+  - value:
+      text: Kham
+      language: en
+    references:
+    - source: music.apple.com-us-album-zahre-aghrab-ep-1735974499
+      quote: Kham
+      accessed: 2026-11-21
+      locator: Edition or recording title
+  performer:
+  - value: Qr4berk
+    references:
+    - source: music.apple.com-us-album-zahre-aghrab-ep-1735974499
+      quote: Bahar Atish
+      accessed: 2026-11-21
+      locator: Digital credits
+  listen link:
+  - value: https://music.apple.com/us/song/kham/1735974500
+    references:
+    - source: music.apple.com-us-album-zahre-aghrab-ep-1735974499
+      quote: Kham
+      accessed: 2026-11-21
+      locator: Edition or recording title
+  - value: https://youtu.be/Dty444Wg-Tk
+    references:
+    - source: youtu.be-dty444wg-tk
+      quote: Bahar Atish - Kham I Zahre Aghrab Album ( بهار آتیش - خام )
+      accessed: 2026-11-21
+      locator: Title and bill on artist’s channel
+  release date:
+  - value:
+      date: '2023-07-30'
+    references:
+    - source: music.apple.com-us-album-zahre-aghrab-ep-1735974499
+      quote: '2023-07-30'
+      accessed: 2026-11-21
+      locator: Digital edition date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/1f/1c/df/1f1cdf40-9b46-a137-6382-a52230c92e7c/artwork.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-zahre-aghrab-ep-1735974499
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/1f/1c/df/1f1cdf40-9b46-a137-6382-a52230c92e7c/artwork.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Digital edition artwork

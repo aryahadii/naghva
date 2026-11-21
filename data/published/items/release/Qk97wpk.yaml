@@ -1,0 +1,32 @@
+id: Qk97wpk
+type: release
+statements:
+  name:
+  - value:
+      text: Naghib Shanbehzadeh - Dammam
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-iujgzvibe8g
+      quote: Naghib Shanbehzadeh - Dammam
+      accessed: '2026-11-21'
+      locator: Artist-published performance film
+  performer:
+  - value: Qvhrrm8
+    references:
+    - *id001
+  listen link:
+  - value: https://www.youtube.com/watch?v=iujGzViBe8g
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/iujGzViBe8g/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-iujgzvibe8g
+      quote: https://i.ytimg.com/vi/iujGzViBe8g/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original film frame
+    qualifiers:
+      credit:
+        text: naghib shanbehzadeh
+        language: en

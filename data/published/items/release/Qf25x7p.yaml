@@ -1,0 +1,32 @@
+id: Qf25x7p
+type: release
+statements:
+  name:
+  - value:
+      text: مولانا | Molana
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-zx9ndqjb-aw
+      quote: مولانا | Molana
+      accessed: '2026-11-21'
+      locator: Performer or distributor original video
+  performer:
+  - value: Qpav8br
+    references:
+    - *id001
+  listen link:
+  - value: https://www.youtube.com/watch?v=zx9NdqJB-Aw
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/zx9NdqJB-Aw/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-zx9ndqjb-aw
+      quote: https://i.ytimg.com/vi/zx9NdqJB-Aw/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video artwork
+    qualifiers:
+      credit:
+        text: HURA
+        language: en

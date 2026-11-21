@@ -1,0 +1,3 @@
+# Inner Unity Ensemble independent review
+
+9.2/10. Sources 1.9, prose 1.9, catalogue 2.7, images 0.9, gaps 1.8. Both rendered versions contain 15 panels, 35 decoded images and working fragment links. Checked the 2023 Duisburg programme, the distinct Zürich performance, the group channel, the 2025 P&B programme and the original venue’s final lineup for Female Voices United. An early season brochure promoted seven singers; the concert-specific bill lists five and is corroborated by the presenter’s later programme advertising the recording. The association announced plans for a debut record. Neither its announcement nor the presenter’s advance publicity proves a commercial album was released.

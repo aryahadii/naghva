@@ -1,0 +1,49 @@
+id: Qcgswcg
+type: release
+statements:
+  name:
+  - value:
+      text: حمّام بازی       babak rajabi
+      language: fa
+    references:
+    - source: www.youtube.com-watchv-hcqpjvy5yiq
+      quote: حمّام بازی       babak rajabi
+      accessed: '2026-11-21'
+      locator: Official upload title
+  performer:
+  - value: Qzhgpkw
+    references:
+    - source: www.youtube.com-watchv-hcqpjvy5yiq
+      quote: حمّام بازی       babak rajabi
+      accessed: '2026-11-21'
+      locator: Official upload title
+    - source: www.youtube.com-watchv-hcqpjvy5yiq
+      quote: Babak Rajabi
+      accessed: '2026-11-21'
+      locator: Uploading artist
+  listen link:
+  - value: https://www.youtube.com/watch?v=HcqPJVy5YIQ
+    references:
+    - source: www.youtube.com-watchv-hcqpjvy5yiq
+      quote: حمّام بازی       babak rajabi
+      accessed: '2026-11-21'
+      locator: Official upload title
+  release date:
+  - value:
+      date: '2015-02-16'
+    references:
+    - source: www.youtube.com-watchv-hcqpjvy5yiq
+      quote: '20150216'
+      accessed: '2026-11-21'
+      locator: Video publication date, YYYYMMDD
+  cover art:
+  - value: https://i.ytimg.com/vi/HcqPJVy5YIQ/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watchv-hcqpjvy5yiq
+      quote: https://i.ytimg.com/vi/HcqPJVy5YIQ/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Release image URL
+    qualifiers:
+      credit:
+        text: Babak Rajabi · YouTube
+        language: en

@@ -1,0 +1,58 @@
+id: Q4ds66h
+type: release
+statements:
+  name:
+  - value:
+      text: Compilation (World - Traditional)
+      language: en
+    references:
+    - source: open.spotify.com-album-1qvia4obm7j5jvpel1oxoc
+      quote: Listen to Compilation (World - Traditional) - Compilation by Various Artists | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qepzbpa
+    references:
+    - source: open.spotify.com-album-1qvia4obm7j5jvpel1oxoc
+      quote: Karvan
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  release date:
+  - value:
+      date: '2005'
+    references:
+    - source: open.spotify.com-album-1qvia4obm7j5jvpel1oxoc
+      quote: '2005'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://open.spotify.com/album/1qVia4obm7j5JVPEl1oxoC
+    references:
+    - source: open.spotify.com-album-1qvia4obm7j5jvpel1oxoc
+      quote: Listen to Compilation (World - Traditional) - Compilation by Various Artists | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/compilation-world-traditional/1499400957
+    references:
+    - source: music.apple.com-us-album-compilation-world-traditional-1499400957
+      quote: ‎Compilation (World - Traditional) - Album by Various Artists - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d0000b27357c4fd0a601176bd7aa3cf2b
+    references:
+    - source: open.spotify.com-album-1qvia4obm7j5jvpel1oxoc
+      quote: https://i.scdn.co/image/ab67616d0000b27357c4fd0a601176bd7aa3cf2b
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Etnisk Musikklubb compilation artwork
+        language: en
+  release type:
+  - value: compilation
+    references:
+    - source: open.spotify.com-album-1qvia4obm7j5jvpel1oxoc
+      quote: Listen to Compilation (World - Traditional) - Compilation by Various Artists | Spotify
+      accessed: '2026-11-21'
+      locator: Page title

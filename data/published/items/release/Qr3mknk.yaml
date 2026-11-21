@@ -1,0 +1,54 @@
+id: Qr3mknk
+type: release
+statements:
+  name:
+  - value:
+      text: Magdalena (single)
+      language: en
+    references:
+    - source: music.apple.com-us-album-magdalena-single-1462321963
+      quote: Magdalena
+      accessed: 2026-11-21
+      locator: Track title
+  performer:
+  - value: Qqrzzag
+    references:
+    - source: music.apple.com-us-album-magdalena-single-1462321963
+      quote: Blurred Vision
+      accessed: 2026-11-21
+      locator: Album billing
+  release date:
+  - value:
+      date: '2019-05-10'
+    references:
+    - source: music.apple.com-us-album-magdalena-single-1462321963
+      quote: '2019-05-10'
+      accessed: 2026-11-21
+      locator: Edition date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/e0/e5/04/e0e50441-be8c-7738-a4ad-637bc294dbfd/5059033441644_cover.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-magdalena-single-1462321963
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/e0/e5/04/e0e50441-be8c-7738-a4ad-637bc294dbfd/5059033441644_cover.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Edition cover
+  listen link:
+  - value: https://music.apple.com/us/song/magdalena/1462322369
+    references:
+    - source: music.apple.com-us-album-magdalena-single-1462321963
+      quote: Magdalena
+      accessed: 2026-11-21
+      locator: Track title
+  - value: https://open.spotify.com/track/3rxIMI7SOkxubZ9eIcM218
+    references:
+    - source: open.spotify.com-album-15yfuabnjvj2phuq58003i
+      quote: Magdalena
+      accessed: 2026-11-21
+      locator: Spotify edition
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-magdalena-single-1462321963
+      quote: Magdalena
+      accessed: 2026-11-21
+      locator: Track title

@@ -1,0 +1,65 @@
+id: Qkyksxn
+type: release
+statements:
+  name:
+  - value:
+      text: Reach for you
+      language: en
+    references:
+    - source: stereotypeduo.bandcamp.com-track-reach-for-you
+      quote: Reach for you | Stereotype
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Q6g9xwf
+    references:
+    - source: stereotypeduo.bandcamp.com-track-reach-for-you
+      quote: Reach for you | Stereotype
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qb5hnjh
+    references:
+    - source: 30m-records.com-stereotype
+      quote: Xeen, producing and playing the electronics
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: electronics
+  - value: Qh6s4f5
+    references:
+    - source: 30m-records.com-stereotype
+      quote: Meshcut, vocalist and synthesizer player
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://stereotypeduo.bandcamp.com/track/reach-for-you
+    references:
+    - source: stereotypeduo.bandcamp.com-track-reach-for-you
+      quote: Reach for you | Stereotype
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1550989874
+    references:
+    - source: music.apple.com-us-song-1550989874
+      quote: ‎Reach For You - Song with Lyrics by Stereotype - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a1378237384_10.jpg
+    references:
+    - source: stereotypeduo.bandcamp.com-track-reach-for-you
+      quote: https://f4.bcbits.com/img/a1378237384_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Publisher artwork
+        language: en
+  release date:
+  - value:
+      date: '2021-02-15'
+    references:
+    - source: stereotypeduo.bandcamp.com-album-foil
+      quote: released February 15, 2021
+      accessed: '2026-11-21'
+      locator: Published date

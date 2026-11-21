@@ -1,0 +1,72 @@
+id: Qdmx6a2
+type: release
+statements:
+  name:
+  - value:
+      text: Shahmirzadi
+      language: en
+    references:
+    - source: music.apple.com-us-album-shahmirzadi-single-1125812491uo-4
+      quote: Shahmirzadi
+      locator: Original group issue, artist identity or exact streaming edition
+      accessed: '2026-11-21'
+  performer:
+  - value: Qstq3nj
+    references:
+    - source: music.apple.com-us-album-shahmirzadi-single-1125812491uo-4
+      quote: Ajam
+      locator: Original group issue, artist identity or exact streaming edition
+      accessed: '2026-11-21'
+  - value: Qfrhed4
+    references:
+    - source: ajammusic.com-about-ajam-ajam-family
+      quote: MirKazem Jaffari (vocals
+      locator: Band’s published track credits and original album notes
+      accessed: '2026-11-21'
+    qualifiers:
+      role: vocals
+  release date:
+  - value:
+      date: '2012-10-07'
+    references:
+    - source: music.apple.com-us-album-shahmirzadi-single-1125812491uo-4
+      quote: '2012-10-07'
+      locator: Original group issue, artist identity or exact streaming edition
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music18/v4/b5/cc/1a/b5cc1aba-791e-cb09-5a1c-87b5464b49bb/190394281250.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-shahmirzadi-single-1125812491uo-4
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music18/v4/b5/cc/1a/b5cc1aba-791e-cb09-5a1c-87b5464b49bb/190394281250.jpg/1200x630bb.jpg
+      locator: Original group issue, artist identity or exact streaming edition
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Ajam · Shahmirzadi - Single
+        language: en
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-shahmirzadi-single-1125812491uo-4
+      quote: Shahmirzadi
+      locator: Original group issue, artist identity or exact streaming edition
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://open.spotify.com/track/3Bj03Sc8QFpx827Vdwn8WB
+    references:
+    - source: open.spotify.com-embed-album-7ta9eigdcap5lhdcghemsm
+      quote: Shahmirzadi
+      locator: Original group issue, artist identity or exact streaming edition
+      accessed: '2026-11-21'
+  - value: https://music.apple.com/us/song/shahmirzadi/1125812492
+    references:
+    - source: music.apple.com-us-album-shahmirzadi-single-1125812491uo-4
+      quote: Shahmirzadi
+      locator: Original group issue, artist identity or exact streaming edition
+      accessed: '2026-11-21'
+  - value: https://soundcloud.com/ajamband/shahmirzadi
+    references:
+    - source: soundcloud.com-ajamband-shahmirzadi
+      quote: Shahmirzadi / شهمیرزادی
+      locator: Original band, named recording or film credit
+      accessed: '2026-11-21'

@@ -1,0 +1,63 @@
+id: Qr7rw9p
+type: release
+statements:
+  listen link:
+  - value: https://sinasalimi.bandcamp.com/track/children-of-the-sun
+    references:
+    - source: sinasalimi.bandcamp.com-track-children-of-the-sun
+      quote: Children of the Sun | Sina Salimi (feat. Mahnaz Rad) | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/children-of-the-sun-single/1702640845
+    references:
+    - source: music.apple.com-us-album-children-of-the-sun-single-1702640845
+      quote: ‎Children of the Sun - Single - Album by Sina Salimi - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/children-of-the-sun/1702640848
+    references:
+    - source: music.apple.com-us-song-children-of-the-sun-1702640848
+      quote: ‎Children of the Sun - Song with Lyrics by Sina Salimi - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/sinasalimi/children-of-the-sun
+    references:
+    - source: soundcloud.com-sinasalimi-children-of-the-sun
+      quote: Stream Children of the Sun - فرزندانِ آفتاب (ft. Mahnaz Rad) by Sina  Salimi | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  name:
+  - value:
+      text: Children of the Sun
+      language: en
+    references:
+    - source: sinasalimi.bandcamp.com-track-children-of-the-sun
+      quote: Children of the Sun
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  performer:
+  - value: Qt5sbqz
+    references:
+    - source: sinasalimi.bandcamp.com-track-children-of-the-sun
+      quote: Children of the Sun | Sina Salimi (feat. Mahnaz Rad) | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2023-01-01'
+    references:
+    - source: sinasalimi.bandcamp.com-track-children-of-the-sun
+      quote: released January 1, 2023
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a4029302386_10.jpg
+    references:
+    - source: sinasalimi.bandcamp.com-track-children-of-the-sun
+      quote: https://f4.bcbits.com/img/a4029302386_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Sina Salimi
+        language: en

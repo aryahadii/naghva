@@ -1,0 +1,27 @@
+id: Q3vq6kj
+type: release
+statements:
+  name:
+  - value:
+      text: LABOUR-Family-Ndiaye-Rose_Grand-National-Theater-Dakar-2022
+      language: en
+    references:
+    - source: vimeo.com-api-oembed.jsonurl-https-vimeo.com-1152632274
+      quote: LABOUR-Family-Ndiaye-Rose_Grand-National-Theater-Dakar-2022
+      locator: Artist or presenter video title
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2026-01-08'
+    references:
+    - source: vimeo.com-api-oembed.jsonurl-https-vimeo.com-1152632274
+      quote: '2026-01-08 13:18:27'
+      locator: Date the filmed excerpt was published
+      accessed: '2026-11-21'
+  performer:
+  - value: Qwqf8en
+    references:
+    - source: studio-labour.com-etu-ker-gui
+      quote: Performance by LABOUR & the Familie Doudou N’Diaye Rose at the Grand National Theatre of Dakar
+      locator: Artists and venue
+      accessed: '2026-11-21'

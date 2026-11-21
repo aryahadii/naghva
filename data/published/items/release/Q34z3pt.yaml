@@ -1,0 +1,43 @@
+id: Q34z3pt
+type: release
+statements:
+  name:
+  - value:
+      text: Jazzfest Berlin
+      language: en
+    references:
+    - source: youtu.be-eqrw5cz9cjw
+      quote: Jazzfest Berlin
+      accessed: 2026-11-21
+      locator: Film title
+  release date:
+  - value:
+      date: '2016-06-19'
+    references:
+    - source: youtu.be-eqrw5cz9cjw
+      quote: '20160619'
+      accessed: 2026-11-21
+      locator: Video publication date
+  listen link:
+  - value: https://youtu.be/EQrW5cZ9cjw
+    references:
+    - source: youtu.be-eqrw5cz9cjw
+      quote: Jazzfest Berlin
+      accessed: 2026-11-21
+      locator: Film title
+  performer:
+  - value: Q6jjfq6
+    references:
+    - source: youtu.be-eqrw5cz9cjw
+      quote: Jazzfest Berlin
+      accessed: 2026-11-21
+      locator: Film title
+  - value: Qnessyd
+    qualifiers:
+      role:
+      - vocals
+    references:
+    - source: youtu.be-eqrw5cz9cjw
+      quote: Cymin Samawatie vocals, composition
+      accessed: 2026-11-21
+      locator: Performance credit

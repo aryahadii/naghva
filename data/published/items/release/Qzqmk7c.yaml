@@ -1,0 +1,89 @@
+id: Qzqmk7c
+type: release
+statements:
+  name:
+  - value:
+      text: Jin Bo Chie
+      language: en
+    references:
+    - source: hjirok.bandcamp.com-album-hjirok
+      quote: Jin Bo Chie
+      locator: Album track 4
+      accessed: '2026-11-21'
+  performer:
+  - value: Qjb6dqs
+    references:
+    - source: hjirok.bandcamp.com-album-hjirok
+      quote: HJirok
+      locator: Release artist
+      accessed: '2026-11-21'
+  - value: Qnrm3kw
+    references:
+    - source: hjirok.bandcamp.com-album-hjirok
+      quote: Vocals by Hani Mojtahedy.
+      locator: Album credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: vocals
+  release date:
+  - value:
+      date: '2023-12-06'
+    references:
+    - source: music.apple.com-us-album-jin-bo-chie-1719690580
+      quote: '2023-12-06'
+      locator: Issue date
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://f4.bcbits.com/img/a1974953409_10.jpg
+    references:
+    - source: hjirok.bandcamp.com-album-hjirok
+      quote: https://f4.bcbits.com/img/a1974953409_10.jpg
+      locator: Original artist or recording image
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Siamand Mohammadi · Hjirok
+        language: en
+  listen link:
+  - value: https://hjirok.bandcamp.com/track/jin-bo-chie
+    references:
+    - source: hjirok.bandcamp.com-album-hjirok
+      quote: Jin Bo Chie
+      locator: Album track 4
+      accessed: '2026-11-21'
+  - value: https://music.apple.com/us/song/jin-bo-chie/1719690582
+    references:
+    - source: music.apple.com-us-album-jin-bo-chie-1719690580
+      quote: Jin Bo Chie
+      locator: Streaming track
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/1qYPb93LjffSHyzIu7ehvC
+    references:
+    - source: open.spotify.com-album-3vjuxidh5527rvb5kd4mj0
+      quote: Jin Bo Chie
+      locator: Streaming track
+      accessed: '2026-11-21'
+  - value: https://music.apple.com/us/song/jin-bo-chie/1721903446
+    references:
+    - source: music.apple.com-us-album-jin-bo-chie-1721903441
+      quote: Jin Bo Chie
+      locator: Streaming track
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/5UKuVT6WZGHCztgDsQSQXS
+    references:
+    - source: open.spotify.com-album-1g7vohrnjlhtovxjemfbrp
+      quote: Jin Bo Chie
+      locator: Streaming track
+      accessed: '2026-11-21'
+  - value: https://music.apple.com/us/song/jin-bo-chie/1730807957
+    references:
+    - source: music.apple.com-us-album-meselek-1730807622
+      quote: Jin Bo Chie
+      locator: Streaming track
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/17Qb1BGMsv33uXVrzkA7rh
+    references:
+    - source: open.spotify.com-album-5etebmb4eiox7glbi04pfk
+      quote: Jin Bo Chie
+      locator: Streaming track
+      accessed: '2026-11-21'

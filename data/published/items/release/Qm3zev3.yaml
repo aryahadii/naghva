@@ -1,0 +1,54 @@
+id: Qm3zev3
+type: release
+statements:
+  name:
+  - value:
+      text: TIME
+      language: en
+    references:
+    - source: soundcloud.com-arshia-samsaminia-time
+      quote: TIME
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://soundcloud.com/arshia-samsaminia/time
+    references:
+    - source: soundcloud.com-arshia-samsaminia-time
+      quote: Stream TIME by Arshia.Samsaminia | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  contributor:
+  - value: Qfvnnnd
+    references:
+    - source: soundcloud.com-arshia-samsaminia-time
+      quote: Arshia Samsaminia
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: composer
+  performer:
+  - value: Qmnpywv
+    references:
+    - source: www.youtube.com-watch-v-2eka8spo4bc
+      quote: Arshia Samsaminia -Time , Space and Illusion- Sound of Stockholm 2017 -  Persson-Meitzner Duo
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2017-12-08'
+    references:
+    - source: soundcloud.com-arshia-samsaminia-time
+      quote: '2017-12-08T17:19:24Z'
+      accessed: '2026-11-21'
+      locator: Date published on SoundCloud
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-000266910410-6p5mao-large.jpg
+    references:
+    - source: soundcloud.com-arshia-samsaminia-time
+      quote: https://i1.sndcdn.com/artworks-000266910410-6p5mao-large.jpg
+      accessed: '2026-11-21'
+      locator: SoundCloud recording artwork
+    qualifiers:
+      credit:
+        text: Arshia Samsaminia on SoundCloud
+        language: en

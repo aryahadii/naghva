@@ -1,0 +1,57 @@
+id: Q9dtwf8
+type: release
+statements:
+  name:
+  - value:
+      text: Dashtestani
+      language: en
+    references:
+    - source: music.apple.com-us-song-dashtestani-6831738480
+      quote: ‎Dashtestani - Song with Lyrics by Neda Mohamadpour - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qbb46yz
+    references:
+    - source: music.apple.com-us-song-dashtestani-6831738480
+      quote: ‎Dashtestani - Song with Lyrics by Neda Mohamadpour - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://music.apple.com/us/song/dashtestani/6831738480
+    references:
+    - source: music.apple.com-us-song-dashtestani-6831738480
+      quote: ‎Dashtestani - Song with Lyrics by Neda Mohamadpour - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/0tOGWnDCEoR8xKr7EzBFkC
+    references:
+    - source: open.spotify.com-track-0togwndceor8xkr7ezbfkc
+      quote: Dashtestani - song and lyrics by Neda Mohamadpour | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://linkmusiclab.bandcamp.com/track/dashtestani
+    references:
+    - source: linkmusiclab.bandcamp.com-track-dashtestani
+      quote: Dashtestani | Neda Mohamadpour | Link Music Lab Records
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a2744874959_10.jpg
+    references:
+    - source: linkmusiclab.bandcamp.com-track-dashtestani
+      quote: https://f4.bcbits.com/img/a2744874959_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Link Music Lab Records
+        language: en
+  release date:
+  - value:
+      date: '2026-10-01'
+    references:
+    - source: linkmusiclab.bandcamp.com-album-the-past-is-particle-the-future-is-wave
+      quote: released October 1, 2026
+      accessed: '2026-11-21'
+      locator: Published date

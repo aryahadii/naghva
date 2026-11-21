@@ -1,0 +1,55 @@
+id: Qdjj5a5
+type: release
+statements:
+  name:
+  - value:
+      text: Enghelab
+      language: en
+    references:
+    - source: youtu.be-r34-wybqffm
+      quote: Justina - Enghelab | OFFICIAL TRACK جاستینا - انقلاب
+      accessed: 2026-11-21
+      locator: Artist channel video title
+  - value:
+      text: انقلاب
+      language: fa
+    references:
+    - source: youtu.be-r34-wybqffm
+      quote: Justina - Enghelab | OFFICIAL TRACK جاستینا - انقلاب
+      accessed: 2026-11-21
+      locator: Artist channel video title
+  performer:
+  - value: Q2fdqjp
+    references:
+    - source: youtu.be-r34-wybqffm
+      quote: Justina - Enghelab | OFFICIAL TRACK جاستینا - انقلاب
+      accessed: 2026-11-21
+      locator: Artist channel video title
+  listen link:
+  - value: https://youtu.be/r34-wYbQFFM
+    references:
+    - source: youtu.be-r34-wybqffm
+      quote: Justina - Enghelab | OFFICIAL TRACK جاستینا - انقلاب
+      accessed: 2026-11-21
+      locator: Artist channel video title
+  - value: https://music.apple.com/us/song/enghelab/1687935627
+    references:
+    - source: music.apple.com-us-album-enghelab-single-1687935625
+      quote: Enghelab
+      accessed: 2026-11-21
+      locator: Apple recording name and billing
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/fe/f5/18/fef51820-73e3-c540-9acd-6e9ac7beebe5/cover.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-enghelab-single-1687935625
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/fe/f5/18/fef51820-73e3-c540-9acd-6e9ac7beebe5/cover.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Apple edition artwork
+  release date:
+  - value:
+      date: '2023-03-25'
+    references:
+    - source: music.apple.com-us-album-enghelab-single-1687935625
+      quote: '2023-03-25'
+      accessed: 2026-11-21
+      locator: Digital edition release date

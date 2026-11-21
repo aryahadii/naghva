@@ -1,0 +1,38 @@
+id: Qwavtmx
+type: release
+statements:
+  name:
+  - value:
+      text: saeid shanbehzadeh & habib meftah boushehri in babelle heureuse 8
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-m6pg4_jits8
+      quote: saeid shanbehzadeh & habib meftah boushehri in babelle heureuse 8
+      accessed: '2026-11-21'
+      locator: Artist-published performance film
+  performer:
+  - value: Qyd93n9
+    references:
+    - *id001
+  - value: Q49prrc
+    references:
+    - source: www.youtube.com-watch-v-m6pg4_jits8
+      quote: habib meftah
+      accessed: '2026-11-21'
+      locator: Original film title billing
+  listen link:
+  - value: https://www.youtube.com/watch?v=M6PG4_jItS8
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/M6PG4_jItS8/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-m6pg4_jits8
+      quote: https://i.ytimg.com/vi/M6PG4_jItS8/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original film frame
+    qualifiers:
+      credit:
+        text: saeid shanbehzadeh
+        language: en

@@ -1,0 +1,79 @@
+id: Qqrjw2n
+type: release
+statements:
+  name:
+  - value:
+      text: Phoenix
+      language: en
+    references:
+    - source: music.apple.com-us-album-phoenix-1443139639
+      quote: Phoenix
+      accessed: 2026-11-21
+      locator: Edition or track name
+  performer:
+  - value: Qsyrehn
+    references:
+    - source: music.apple.com-us-album-phoenix-1443139639
+      quote: Cyminology
+      accessed: 2026-11-21
+      locator: Billed artist
+  - value: Qnessyd
+    qualifiers:
+      role:
+      - vocals
+    references:
+    - source: ecmrecords.com-artists-cyminology
+      quote: Cymin Samawatie
+      accessed: 2026-11-21
+      locator: Quartet vocalist
+  - value: Qc388ys
+    qualifiers:
+      role:
+      - viola
+    references:
+    - source: ecmrecords.com-artists-cyminology
+      quote: violist Martin Stegner, who has been a frequent collaborator with Cyminology since 2011
+      accessed: 2026-11-21
+      locator: First studio appearance on Phoenix
+  published by:
+  - value: Qvhg2w2
+    references:
+    - source: music.apple.com-us-album-phoenix-1443139639
+      quote: ECM Records GmbH
+      accessed: 2026-11-21
+      locator: Phonogram credit
+  release date:
+  - value:
+      date: '2015-02-20'
+    references:
+    - source: music.apple.com-us-album-phoenix-1443139639
+      quote: '2015-02-20'
+      accessed: 2026-11-21
+      locator: Native edition date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/85/2c/fb/852cfb4b-17b7-019d-111d-44ca99d0b85d/00602547091505.rgb.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-phoenix-1443139639
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/85/2c/fb/852cfb4b-17b7-019d-111d-44ca99d0b85d/00602547091505.rgb.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Native cover art
+  listen link:
+  - value: https://music.apple.com/us/album/phoenix/1443139639
+    references:
+    - source: music.apple.com-us-album-phoenix-1443139639
+      quote: Phoenix
+      accessed: 2026-11-21
+      locator: Edition or track name
+  - value: https://open.spotify.com/album/7ijlHruJveSV4I3nNzpQmQ
+    references:
+    - source: open.spotify.com-album-7ijlhrujvesv4i3nnzpqmq
+      quote: Phoenix
+      accessed: 2026-11-21
+      locator: Native track or edition
+  release type:
+  - value: album
+    references:
+    - source: music.apple.com-us-album-phoenix-1443139639
+      quote: Phoenix
+      accessed: 2026-11-21
+      locator: Edition title

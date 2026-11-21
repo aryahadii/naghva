@@ -1,0 +1,45 @@
+id: Qw75nv4
+type: release
+statements:
+  listen link:
+  - value: https://sinasalimi.bandcamp.com/track/a-song-for-zhina-mahsa
+    references:
+    - source: sinasalimi.bandcamp.com-track-a-song-for-zhina-mahsa
+      quote: A Song for Zhina_Mahsa | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  name:
+  - value:
+      text: A Song for Zhina_Mahsa
+      language: en
+    references:
+    - source: sinasalimi.bandcamp.com-track-a-song-for-zhina-mahsa
+      quote: A Song for Zhina_Mahsa
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  performer:
+  - value: Qt5sbqz
+    references:
+    - source: sinasalimi.bandcamp.com-track-a-song-for-zhina-mahsa
+      quote: A Song for Zhina_Mahsa | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2022-10-12'
+    references:
+    - source: sinasalimi.bandcamp.com-track-a-song-for-zhina-mahsa
+      quote: released October 12, 2022
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a3618874612_10.jpg
+    references:
+    - source: sinasalimi.bandcamp.com-track-a-song-for-zhina-mahsa
+      quote: https://f4.bcbits.com/img/a3618874612_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Sina Salimi
+        language: en

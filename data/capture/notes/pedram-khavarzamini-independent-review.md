@@ -1,0 +1,7 @@
+# Independent review of Pedram Khavarzamini
+
+Build 56 rendered 116 recording panels and 229 decoded images per language; desktop English and mobile Persian fitted their viewports and the article’s local release links resolved. The artist’s original study, the Varashan group, the dual years of Koutah and its nine-piece contents, and the remote recording of his part for Jon Balke’s Hafla were checked against the named sources. Kelly Thoma lists him on both Anamkhara (2009) and 7FISH (2014). Siavash Imani credits him on the independent recording of دور. The original presenter of the Jan-e Hazin album launch has published a separate film with Kiarash Davoudi. These were absent from this first render. Initial score **8.5/10** (sources 1.8, article 1.8, catalogue 2.2, imagery 0.9, reader experience 1.8). Article ready. Catalogue pending.
+
+[Kelly Thoma’s discography](https://www.kellythoma.com/discography.php) · [Siavash Imani](https://soundcloud.com/siavashimanitar/okylxrtlwj71) · [Jan-e Hazin performance](https://www.youtube.com/watch?v=EaurmcF94eE)
+
+Build 60 contains 121 recording panels and 239 decoded images per locale. I checked the two albums in Kelly Thoma’s discography, the co-performer’s دور upload, the Jan-e Hazin album and the separately issued launch film. Ross Daly’s additional credited album was also included. All article release anchors resolved in mobile Persian and desktop English. Final independent score **9.2/10** (sources 1.9, article 1.8, catalogue 2.7, imagery 0.9, reader experience 1.9). Article and catalogue ready.

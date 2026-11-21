@@ -1,0 +1,78 @@
+id: Qexqa59
+type: release
+statements:
+  name:
+  - value:
+      text: Siwan
+      language: en
+    references:
+    - source: open.spotify.com-album-6zpxjckkfzrinm5r685ir3
+      quote: Siwan
+      accessed: '2026-11-21'
+      locator: Spotify edition title
+  release type:
+  - value: album
+    references:
+    - source: open.spotify.com-album-6zpxjckkfzrinm5r685ir3
+      quote: Siwan
+      accessed: '2026-11-21'
+      locator: Spotify edition title
+  listen link:
+  - value: https://music.apple.com/us/album/siwan/1442860175
+    references:
+    - source: music.apple.com-us-album-siwan-1442860175
+      quote: ‎Siwan - Album by Jon Balke, Amina Alaoui & Jon Hassell - Apple Music
+      accessed: '2026-11-21'
+      locator: Edition title
+  - value: https://open.spotify.com/album/6zpxjckkFZRINm5R685Ir3
+    references:
+    - source: open.spotify.com-album-6zpxjckkfzrinm5r685ir3
+      quote: Siwan
+      accessed: '2026-11-21'
+      locator: Spotify edition title
+  performer:
+  - value: Q5rnjaz
+    qualifiers:
+      role: tombak
+    references:
+    - source: ecmrecords.com-product-siwan-jon-balke-amina-alaoui-jon-hassell-kheir-eddine-mkachiche-bjarte-eike
+      quote: Pedram Khavar Zamini Zarb
+      accessed: '2026-11-21'
+      locator: Original ECM personnel
+  - value: Qd36sav
+    references:
+    - source: music.apple.com-us-album-siwan-1442860175
+      quote: Jon Balke
+      accessed: '2026-11-21'
+      locator: Album headline billing
+  - value: Qgcqp2g
+    references:
+    - source: music.apple.com-us-album-siwan-1442860175
+      quote: Amina Alaoui
+      accessed: '2026-11-21'
+      locator: Album headline billing
+  - value: Qrand6a
+    references:
+    - source: music.apple.com-us-album-siwan-1442860175
+      quote: Jon Hassell
+      accessed: '2026-11-21'
+      locator: Album headline billing
+  release date:
+  - value:
+      date: '2009-05-22'
+    references:
+    - source: music.apple.com-us-album-siwan-1442860175
+      quote: '2009-05-22'
+      accessed: '2026-11-21'
+      locator: Apple Music edition issue date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/d1/9d/c3/d19dc307-1fff-36da-d2e1-8caccc2f56d5/00602517801516.rgb.jpg/1200x630bb.jpg
+    qualifiers:
+      credit:
+        text: Apple Music edition artwork
+        language: en
+    references:
+    - source: music.apple.com-us-album-siwan-1442860175
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/d1/9d/c3/d19dc307-1fff-36da-d2e1-8caccc2f56d5/00602517801516.rgb.jpg/1200x630bb.jpg
+      accessed: '2026-11-21'
+      locator: Apple Music edition artwork

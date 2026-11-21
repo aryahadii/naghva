@@ -1,0 +1,72 @@
+id: Q3pg67q
+type: release
+statements:
+  name:
+  - value:
+      text: Si Pareh
+      language: en
+    references:
+    - source: music.apple.com-us-album-mehr-275174365
+      quote: Si Pareh
+      accessed: '2026-11-21'
+      locator: Release and track listing
+  performer:
+  - value: Qjwhj2t
+    references:
+    - source: music.apple.com-us-album-mehr-275174365
+      quote: Pouya Mahmoodi
+      accessed: '2026-11-21'
+      locator: Artist billing
+  - value: Qxmrceh
+    qualifiers:
+      role:
+      - drums
+    references:
+    - source: www.youtube.com-watch-v-ew2ovaelzq8
+      quote: Pouya Mahmoodi ft. Billy Cobham - Si Pareh
+      accessed: '2026-11-21'
+      locator: Label upload title
+  listen link:
+  - value: https://music.apple.com/us/song/si-pareh/275174380
+    references:
+    - source: music.apple.com-us-album-mehr-275174365
+      quote: https://music.apple.com/us/song/si-pareh/275174380
+      accessed: '2026-11-21'
+      locator: Distributor permalink
+  - value: https://open.spotify.com/track/3sKZrRGWqalDNuf8oNonrF
+    references:
+    - source: open.spotify.com-embed-album-1vkhwhksoafdons5mhxmgt
+      quote: spotify:track:3sKZrRGWqalDNuf8oNonrF
+      accessed: '2026-11-21'
+      locator: Original Spotify tracklist
+  - value: https://soundcloud.com/pouyamahmoodi/si-pareh
+    references:
+    - source: soundcloud.com-pouyamahmoodi-si-pareh
+      quote: Stream Si Pareh by Pouya Mahmoodi | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Named SoundCloud recording
+  - value: https://www.youtube.com/watch?v=eW2oVAElZQ8
+    references:
+    - source: www.youtube.com-watch-v-ew2ovaelzq8
+      quote: Pouya Mahmoodi ft. Billy Cobham - Si Pareh
+      accessed: '2026-11-21'
+      locator: Label upload title
+  release date:
+  - value:
+      date: '2008-02-19'
+    references:
+    - source: music.apple.com-us-album-mehr-275174365
+      quote: '2008-02-19'
+      accessed: '2026-11-21'
+      locator: Original issue date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music/31/05/9f/mzi.crkpqkxn.jpg/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Distributor artwork via Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-mehr-275174365
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music/31/05/9f/mzi.crkpqkxn.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Digital cover artwork

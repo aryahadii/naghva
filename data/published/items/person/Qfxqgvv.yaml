@@ -1,0 +1,83 @@
+id: Qfxqgvv
+type: person
+statements:
+  name:
+  - value:
+      text: شادی فتحی
+      language: fa
+    references:
+    - source: iranianfrance.com-tag
+      quote: شادی فتحی
+      accessed: '2026-11-21'
+      locator: اعلام کنسرت مارسی
+  - value:
+      text: Shadi Fathi
+      language: en
+    references:
+    - source: www.odoensemble.com-en-shadi-fathi
+      quote: Shadi Fathi
+      accessed: '2026-11-21'
+      locator: Artist heading
+  birth date:
+  - value:
+      date: '1977'
+    references:
+    - source: www.odoensemble.com-en-shadi-fathi
+      quote: Born in 1977 in Tehran, from a Kurdish family
+      accessed: '2026-11-21'
+      locator: Artist biography
+  life event:
+  - value:
+      text: Shadi Fathi trained in setar with Ostad Dariush Tala'i
+      language: en
+    references:
+    - source: www.odoensemble.com-en-shadi-fathi
+      quote: Shadi Fathi trained in setar with Ostad Dariush Tala'i
+      accessed: '2026-11-21'
+      locator: Artist biography
+  - value:
+      text: She became a concert soloist at the age of fifteen.
+      language: en
+    references:
+    - source: www.odoensemble.com-en-shadi-fathi
+      quote: She became a concert soloist at the age of fifteen.
+      accessed: '2026-11-21'
+      locator: Artist biography
+  - value:
+      text: In 2002, she moved to France and joined many projects (music, dance, theatre)
+      language: en
+    references:
+    - source: www.odoensemble.com-en-shadi-fathi
+      quote: In 2002, she moved to France and joined many projects (music, dance, theatre)
+      accessed: '2026-11-21'
+      locator: Artist biography
+  image:
+  - value: https://static.wixstatic.com/media/f82383_ceae78d7ee2d4f5d995c68213d5960f6~mv2_d_2570_1710_s_2.jpg
+    references:
+    - source: www.odoensemble.com-en-shadi-fathi
+      quote: https://static.wixstatic.com/media/f82383_ceae78d7ee2d4f5d995c68213d5960f6~mv2_d_2570_1710_s_2.jpg
+      accessed: '2026-11-21'
+      locator: Original photograph on the ensemble’s Shadi Fathi biography
+    qualifiers:
+      credit:
+        text: ODO Ensemble
+        language: en
+  profile link:
+  - value: https://open.spotify.com/artist/7wlMKkqDOwWHsXpL56aMRt
+    references:
+    - source: open.spotify.com-artist-7wlmkkqdowwhsxpl56amrt
+      quote: Shadi Fathi
+      accessed: '2026-11-21'
+      locator: Artist page
+  member of:
+  - value: Qkvdrbs
+    qualifiers:
+      role:
+      - setar
+      - tar
+      - daf
+    references:
+    - source: hysterrae.bandcamp.com-album-hysterrae
+      quote: 'Shadi Fathi: setar, tar, daf'
+      accessed: '2026-11-21'
+      locator: Debut album personnel

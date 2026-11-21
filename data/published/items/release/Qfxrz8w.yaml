@@ -1,0 +1,64 @@
+id: Qfxrz8w
+type: release
+statements:
+  name:
+  - value:
+      text: Pishdaramad Abu Ata, By Ostad Ali Asghar Bahari
+      language: en
+    references:
+    - source: www.youtube.com-watch-v-tw3kosgnbzw
+      quote: Pishdaramad Abu Ata, By Ostad Ali Asghar Bahari
+      accessed: '2026-11-21'
+      locator: YouTube oEmbed title
+  performer:
+  - value: Q57cj49
+    qualifiers:
+      role: kamancheh
+    references:
+    - source: www.youtube.com-watch-v-tw3kosgnbzw
+      quote: Pishdaramad Abu Ata, By Ostad Ali Asghar Bahari
+      accessed: '2026-11-21'
+      locator: YouTube oEmbed title
+  release date:
+  - value:
+      date: '2021-03-05'
+    references:
+    - source: www.youtube.com-watch-v-tw3kosgnbzw
+      quote: '2021-03-05'
+      accessed: '2026-11-21'
+      locator: Official artist YouTube feed upload date
+  listen link:
+  - value: https://www.youtube.com/watch?v=tw3KoSgnBZw
+    references:
+    - source: www.youtube.com-watch-v-tw3kosgnbzw
+      quote: Pishdaramad Abu Ata, By Ostad Ali Asghar Bahari
+      accessed: '2026-11-21'
+      locator: YouTube oEmbed title
+    - source: www.youtube.com-watch-v-tw3kosgnbzw
+      quote: Payam Yousefi
+      accessed: '2026-11-21'
+      locator: Artist publishing channel
+  cover art:
+  - value: https://i.ytimg.com/vi/tw3KoSgnBZw/hqdefault.jpg
+    qualifiers:
+      credit:
+        text: Payam Yousefi on YouTube
+        language: en
+    references:
+    - source: www.youtube.com-watch-v-tw3kosgnbzw
+      quote: https://i.ytimg.com/vi/tw3KoSgnBZw/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Native thumbnail
+    - source: www.youtube.com-watch-v-tw3kosgnbzw
+      quote: Payam Yousefi
+      accessed: '2026-11-21'
+      locator: Artist publishing channel
+  contributor:
+  - value: Q755pfs
+    qualifiers:
+      role: composer
+    references:
+    - source: www.youtube.com-watch-v-tw3kosgnbzw
+      quote: By Ostad Ali Asghar Bahari
+      accessed: '2026-11-21'
+      locator: Composition or arrangement credit

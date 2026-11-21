@@ -1,0 +1,49 @@
+id: Qma7763
+type: release
+statements:
+  name:
+  - value:
+      text: Nakoone نکونه
+      language: fa
+    references:
+    - source: www.youtube.com-watchv-i6ccazqnsp0
+      quote: Nakoone نکونه
+      accessed: '2026-11-21'
+      locator: Official upload title
+  performer:
+  - value: Qzhgpkw
+    references:
+    - source: www.youtube.com-watchv-i6ccazqnsp0
+      quote: Nakoone نکونه
+      accessed: '2026-11-21'
+      locator: Official upload title
+    - source: www.youtube.com-watchv-i6ccazqnsp0
+      quote: Babak Rajabi
+      accessed: '2026-11-21'
+      locator: Uploading artist
+  listen link:
+  - value: https://www.youtube.com/watch?v=i6cCaZqnsp0
+    references:
+    - source: www.youtube.com-watchv-i6ccazqnsp0
+      quote: Nakoone نکونه
+      accessed: '2026-11-21'
+      locator: Official upload title
+  release date:
+  - value:
+      date: '2026-09-01'
+    references:
+    - source: www.youtube.com-watchv-i6ccazqnsp0
+      quote: '20260901'
+      accessed: '2026-11-21'
+      locator: Video publication date, YYYYMMDD
+  cover art:
+  - value: https://i.ytimg.com/vi/i6cCaZqnsp0/maxresdefault.jpg
+    references:
+    - source: www.youtube.com-watchv-i6ccazqnsp0
+      quote: https://i.ytimg.com/vi/i6cCaZqnsp0/maxresdefault.jpg
+      accessed: '2026-11-21'
+      locator: Release image URL
+    qualifiers:
+      credit:
+        text: Babak Rajabi · YouTube
+        language: en

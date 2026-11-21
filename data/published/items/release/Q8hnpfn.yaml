@@ -1,0 +1,54 @@
+id: Q8hnpfn
+type: release
+statements:
+  name:
+  - value:
+      text: Shab Bood Zemestan Bood (Live in Glasgow)
+      language: en
+    references:
+    - source: www.youtube.com-watchv-kh6el8ywrnu
+      quote: Shab Bood Zemestan Bood (Live in Glasgow)
+      accessed: '2026-11-21'
+      locator: Video title, channel and description
+  performer:
+  - value: Q38h8s7
+    references:
+    - source: www.youtube.com-watchv-kh6el8ywrnu
+      quote: Farzane Zamen
+      accessed: '2026-11-21'
+      locator: Video title, channel and description
+  - value: Qchaxxz
+    references:
+    - source: www.youtube.com-watchv-kh6el8ywrnu
+      quote: 'Percussions: Erick Mauricia'
+      accessed: '2026-11-21'
+      locator: Video description, musicians
+    qualifiers:
+      role:
+      - percussion
+  listen link:
+  - value: https://www.youtube.com/watch?v=kh6eL8yWrNU
+    references:
+    - source: www.youtube.com-watchv-kh6el8ywrnu
+      quote: Shab Bood Zemestan Bood (Live in Glasgow)
+      accessed: '2026-11-21'
+      locator: Video title, channel and description
+  cover art:
+  - value: https://i.ytimg.com/vi_webp/kh6eL8yWrNU/maxresdefault.webp
+    references:
+    - source: www.youtube.com-watchv-kh6el8ywrnu
+      quote: https://i.ytimg.com/vi_webp/kh6eL8yWrNU/maxresdefault.webp
+      accessed: '2026-11-21'
+      locator: Video thumbnail URL, YouTube metadata
+    qualifiers:
+      credit:
+        text: Farzane Zamen, via YouTube
+        language: en
+  release date:
+  - value:
+      date: '2019-09-10'
+    references:
+    - source: www.youtube.com-watchv-kh6el8ywrnu
+      quote: '20190910'
+      accessed: '2026-11-21'
+      locator: Video upload date (YouTube metadata, YYYYMMDD)

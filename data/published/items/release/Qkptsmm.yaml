@@ -1,0 +1,32 @@
+id: Qkptsmm
+type: release
+statements:
+  name:
+  - value:
+      text: Shen Band (live video)13 songs/chansons in/dans 6 minutes گروه شن - ۱۳ آهنگ در ۶ دقیقه
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-ssgv8kjiewu
+      quote: Shen Band (live video)13 songs/chansons in/dans 6 minutes گروه شن - ۱۳ آهنگ در ۶ دقیقه
+      accessed: '2026-11-21'
+      locator: Artist-published video
+  performer:
+  - value: Qavhs3y
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/sSgV8kJIEWU/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-ssgv8kjiewu
+      quote: https://i.ytimg.com/vi/sSgV8kJIEWU/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original channel photo
+    qualifiers:
+      credit:
+        text: Shen Band, original YouTube film
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=sSgV8kJIEWU
+    references:
+    - *id001

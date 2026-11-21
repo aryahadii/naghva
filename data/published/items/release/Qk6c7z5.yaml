@@ -1,0 +1,35 @@
+id: Qk6c7z5
+type: release
+statements:
+  name:
+  - value:
+      text: Variaciones para el Aguanieves (T.Islas). Son Jarocho. Regard Persan y Al Golpe del Guatimé
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-kae-ai4ak0s
+      quote: Variaciones para el Aguanieves (T.Islas). Son Jarocho. Regard Persan y Al Golpe del Guatimé
+      accessed: '2026-11-21'
+      locator: Performer or presenter film title
+  performer:
+  - value: Q9cyea8
+    references:
+    - *id001
+  - value: Q5mzpnt
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/KaE-Ai4AK0s/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCN_9gOGt1q2FYBg_Twlr9n9H36jA
+    references:
+    - source: www.youtube.com-watch-v-kae-ai4ak0s
+      quote: https://i.ytimg.com/vi/KaE-Ai4AK0s/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCN_9gOGt1q2FYBg_Twlr9n9H36jA
+      accessed: '2026-11-21'
+      locator: Original video image
+    qualifiers:
+      credit:
+        text: José Ángel Gutiérrez
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=KaE-Ai4AK0s
+    references:
+    - *id001

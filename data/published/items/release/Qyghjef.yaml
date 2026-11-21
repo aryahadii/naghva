@@ -1,0 +1,45 @@
+id: Qyghjef
+type: release
+statements:
+  name:
+  - value:
+      text: Dari Mached دری مچد
+      language: en
+    references:
+    - source: soundcloud.com-babackrajabi-dari-mached
+      quote: Dari Mached دری مچد
+      accessed: '2026-11-21'
+      locator: Title on artist’s SoundCloud upload
+  performer:
+  - value: Qzhgpkw
+    references:
+    - source: soundcloud.com-babackrajabi-dari-mached
+      quote: Babak Rajabi
+      accessed: '2026-11-21'
+      locator: Artist profile name
+  release date:
+  - value:
+      date: '2016-12-14'
+    references:
+    - source: soundcloud.com-babackrajabi-dari-mached
+      quote: '2016-12-14'
+      accessed: '2026-11-21'
+      locator: SoundCloud upload date
+  listen link:
+  - value: https://soundcloud.com/babackrajabi/dari-mached
+    references:
+    - source: soundcloud.com-babackrajabi-dari-mached
+      quote: Dari Mached دری مچد
+      accessed: '2026-11-21'
+      locator: Title on artist’s SoundCloud upload
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-000198332812-ts56kx-large.jpg
+    references:
+    - source: soundcloud.com-babackrajabi-dari-mached
+      quote: https://i1.sndcdn.com/artworks-000198332812-ts56kx-large.jpg
+      accessed: '2026-11-21'
+      locator: Artist-uploaded track artwork URL
+    qualifiers:
+      credit:
+        text: Babak Rajabi · SoundCloud
+        language: en

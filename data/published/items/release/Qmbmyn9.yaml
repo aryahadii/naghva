@@ -1,0 +1,72 @@
+id: Qmbmyn9
+type: release
+statements:
+  name:
+  - value:
+      text: Tehran
+      language: en
+    references:
+    - source: music.apple.com-us-album-tehran-single-1727335184
+      quote: Tehran
+      accessed: 2026-11-21
+      locator: Individual track
+  performer:
+  - value: Qvhrrm8
+    references:
+    - source: open.spotify.com-album-22mqcscow2jlkjnm9xpt44
+      quote: Tehran · Naghib Shanbehzadeh
+      accessed: 2026-11-21
+      locator: Track 1
+  listen link:
+  - value: https://music.apple.com/us/song/tehran/1727335372
+    references:
+    - source: music.apple.com-us-album-tehran-single-1727335184
+      quote: Tehran
+      accessed: 2026-11-21
+      locator: Individual track
+  - value: https://open.spotify.com/track/5IAQViK6Ag3AE4kONRchmg
+    references:
+    - source: open.spotify.com-album-22mqcscow2jlkjnm9xpt44
+      quote: Tehran · Naghib Shanbehzadeh
+      accessed: 2026-11-21
+      locator: Spotify record
+  - value: https://music.apple.com/us/album/tehran-single/1727335184
+    references:
+    - source: music.apple.com-us-album-tehran-single-1727335184
+      quote: Tehran - Single · Naghib Shanbehzadeh · 2024-01-24
+      accessed: 2026-11-21
+      locator: Album billing and date
+  - value: https://open.spotify.com/album/22MqCscoW2JlkjnM9Xpt44
+    references:
+    - source: open.spotify.com-album-22mqcscow2jlkjnm9xpt44
+      quote: Tehran · Naghib Shanbehzadeh
+      accessed: 2026-11-21
+      locator: Spotify record
+  - value: https://soundcloud.com/nag-1-1/tehran
+    references:
+    - source: soundcloud.com-nag-1-1-tehran
+      quote: Tehran
+      accessed: '2026-11-21'
+      locator: Artist’s SoundCloud recording
+  release date:
+  - value:
+      date: '2024-01-24'
+    references:
+    - source: music.apple.com-us-album-tehran-single-1727335184
+      quote: Tehran
+      accessed: 2026-11-21
+      locator: Individual track
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-tehran-single-1727335184
+      quote: Tehran
+      accessed: 2026-11-21
+      locator: Individual track
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a9/03/41/a9034181-ef82-e8b8-66bb-33706fc1d62c/859783287319_cover.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-tehran-single-1727335184
+      quote: Tehran
+      accessed: 2026-11-21
+      locator: Individual track

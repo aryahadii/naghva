@@ -1,0 +1,22 @@
+id: Q8yqyvz
+type: person
+statements:
+  name:
+  - value:
+      text: Emir Mohseni
+      language: en
+    references:
+    - source: themuckersband.bandcamp.com-album-endeavor
+      quote: Emir Mohseni
+      accessed: '2026-11-21'
+      locator: Singer and guitarist under later spelling
+  member of:
+  - value: Qvfz6ey
+    qualifiers:
+      role:
+      - guitar
+    references:
+    - source: iranian.com-main-music-muckers.html
+      quote: Amir Mohsseni (Guitars)
+      accessed: '2026-11-21'
+      locator: Lineup credit

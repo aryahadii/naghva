@@ -1,0 +1,60 @@
+id: Qjx8qpk
+type: release
+statements:
+  name:
+  - value:
+      text: Caspian
+      language: en
+    references:
+    - source: zojduet.bandcamp.com-album-give-water-to-birds
+      quote: Caspian
+      accessed: '2026-11-21'
+      locator: Track 1 of Give Water To Birds
+  performer:
+  - value: Qk5bhh3
+    references:
+    - source: zojduet.bandcamp.com-track-caspian
+      quote: Caspian | ZÖJ
+      accessed: '2026-11-21'
+      locator: Track page title
+  release date:
+  - value:
+      date: '2025-06-20'
+    references:
+    - source: zojduet.bandcamp.com-album-give-water-to-birds
+      quote: released June 20, 2025
+      accessed: '2026-11-21'
+      locator: Release credits, publication date
+  cover art:
+  - value: https://f4.bcbits.com/img/a0649060478_10.jpg
+    qualifiers:
+      credit:
+        text: ZÖJ, via Bandcamp
+        language: en
+    references:
+    - source: zojduet.bandcamp.com-album-give-water-to-birds
+      quote: https://f4.bcbits.com/img/a0649060478_10.jpg
+      accessed: '2026-11-21'
+      locator: Full-sized album artwork
+  listen link:
+  - value: https://zojduet.bandcamp.com/track/caspian
+    references:
+    - source: zojduet.bandcamp.com-track-caspian
+      quote: Caspian | ZÖJ
+      accessed: '2026-11-21'
+      locator: Track page title
+  - value: https://open.spotify.com/track/0sacQ0gcHn31JLRyK7kP8H
+    references:
+    - source: open.spotify.com-album-6tc3htmm7t17nitdrg5ndm
+      quote: Caspian
+      accessed: '2026-11-21'
+      locator: Track 1 in the Spotify album player
+  contributor:
+  - value: Q3ndfcy
+    qualifiers:
+      role: lyricist
+    references:
+    - source: zojduet.bandcamp.com-track-caspian
+      quote: Poetry by Siavash Kasraie
+      accessed: '2026-11-21'
+      locator: Poet named with the song text

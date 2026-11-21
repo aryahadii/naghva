@@ -1,0 +1,72 @@
+id: Qcq6f98
+type: release
+statements:
+  name:
+  - value:
+      text: Continu
+      language: en
+    references:
+    - source: www.negarbouban.com-continu
+      quote: Continu
+      accessed: 2026-11-21
+      locator: Album title
+  performer:
+  - value: Qtqjb47
+    references:
+    - source: www.negarbouban.com-continu
+      quote: Continu
+      accessed: 2026-11-21
+      locator: Album title
+  release type:
+  - value: album
+    references:
+    - source: www.negarbouban.com-continu
+      quote: Continu
+      accessed: 2026-11-21
+      locator: Album title
+  listen link:
+  - value: https://www.youtube.com/playlist?list=OLAK5uy_ls1fvLcXRtgcC9ZbNFWBglAHQbw7E5Y5I
+    references:
+    - source: www.negarbouban.com-continu
+      quote: Continu
+      accessed: 2026-11-21
+      locator: Album title
+  - value: https://music.youtube.com/playlist?list=OLAK5uy_kJQRyP2u-4s4SOPxM5r0Xska8ivJVVlOg&si=8rxYR6puQwvKENEv
+    references:
+    - source: www.negarbouban.com-continu
+      quote: Continu
+      accessed: 2026-11-21
+      locator: Album title
+  - value: https://open.spotify.com/album/7KkuJLEygxm7dwcZGAlo9d?autoplay=true
+    references:
+    - source: www.negarbouban.com-continu
+      quote: Continu
+      accessed: 2026-11-21
+      locator: Album title
+  - value: https://negarbouban.bandcamp.com/album/continu
+    references:
+    - source: www.negarbouban.com-continu
+      quote: Continu
+      accessed: 2026-11-21
+      locator: Album title
+  - value: https://music.apple.com/us/album/continu/355461063
+    references:
+    - source: music.apple.com-us-album-continu-355461063
+      quote: Continu
+      accessed: 2026-11-21
+      locator: Native digital track order
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music/65/cb/0b/mzi.cbvhqwhg.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-continu-355461063
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music/65/cb/0b/mzi.cbvhqwhg.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Digital artwork
+  release date:
+  - value:
+      date: '2010-01-12'
+    references:
+    - source: music.apple.com-us-album-continu-355461063
+      quote: '2010-01-12'
+      accessed: 2026-11-21
+      locator: Digital edition date

@@ -1,0 +1,45 @@
+id: Qg5e42x
+type: release
+statements:
+  name:
+  - value:
+      text: Begoo Begoo · Los Angeles
+      language: en
+    references:
+    - source: www.sociarts.com-artist_events-1158-begoo-begoo-special-performance-mohsen-namjoo-los-angeles.html
+      quote: Begoo Begoo
+      accessed: '2026-11-21'
+      locator: Presenter's concert programme
+  performer:
+  - value: Qa6r74t
+    qualifiers:
+      role:
+      - bass
+    references:
+    - source: www.sociarts.com-artist_events-1158-begoo-begoo-special-performance-mohsen-namjoo-los-angeles.html
+      quote: Kasra Saboktakin on Bass
+      accessed: '2026-11-21'
+      locator: Original concert lineup
+  - value: Qt6wjbg
+    references:
+    - source: www.sociarts.com-artist_events-1158-begoo-begoo-special-performance-mohsen-namjoo-los-angeles.html
+      quote: Begoo Begoo
+      accessed: '2026-11-21'
+      locator: Presenter's concert programme
+  - value: Qk7a7gf
+    qualifiers:
+      role:
+      - percussion
+    references:
+    - source: www.sociarts.com-artist_events-1158-begoo-begoo-special-performance-mohsen-namjoo-los-angeles.html
+      quote: Greg Ellis
+      accessed: '2026-11-21'
+      locator: Named guest percussionist
+  release date:
+  - value:
+      date: '2012-09-16'
+    references:
+    - source: www.sociarts.com-artist_events-1158-begoo-begoo-special-performance-mohsen-namjoo-los-angeles.html
+      quote: September 16, 2012
+      accessed: '2026-11-21'
+      locator: Concert date

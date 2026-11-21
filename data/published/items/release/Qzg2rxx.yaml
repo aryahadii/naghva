@@ -1,0 +1,55 @@
+id: Qzg2rxx
+type: release
+statements:
+  name:
+  - value:
+      text: Va Tan
+      language: en
+    references:
+    - source: youtu.be-5eo9tqc9dzg
+      quote: Justina - Va Tan | OFFICIAL TRACK جاستینا - وتن
+      accessed: 2026-11-21
+      locator: Artist channel video title
+  - value:
+      text: وتن
+      language: fa
+    references:
+    - source: youtu.be-5eo9tqc9dzg
+      quote: Justina - Va Tan | OFFICIAL TRACK جاستینا - وتن
+      accessed: 2026-11-21
+      locator: Artist channel video title
+  performer:
+  - value: Q2fdqjp
+    references:
+    - source: youtu.be-5eo9tqc9dzg
+      quote: Justina - Va Tan | OFFICIAL TRACK جاستینا - وتن
+      accessed: 2026-11-21
+      locator: Artist channel video title
+  listen link:
+  - value: https://youtu.be/5eO9tQc9Dzg
+    references:
+    - source: youtu.be-5eo9tqc9dzg
+      quote: Justina - Va Tan | OFFICIAL TRACK جاستینا - وتن
+      accessed: 2026-11-21
+      locator: Artist channel video title
+  - value: https://music.apple.com/us/song/va-tan/1687932065
+    references:
+    - source: music.apple.com-us-album-va-tan-single-1687932064
+      quote: Va Tan
+      accessed: 2026-11-21
+      locator: Apple recording name and billing
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/77/2f/64/772f644a-5790-8540-84a9-59ec06b88894/cover.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-va-tan-single-1687932064
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/77/2f/64/772f644a-5790-8540-84a9-59ec06b88894/cover.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Apple edition artwork
+  release date:
+  - value:
+      date: '2023-05-18'
+    references:
+    - source: music.apple.com-us-album-va-tan-single-1687932064
+      quote: '2023-05-18'
+      accessed: 2026-11-21
+      locator: Digital edition release date

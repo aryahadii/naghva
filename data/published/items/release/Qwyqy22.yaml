@@ -1,0 +1,56 @@
+id: Qwyqy22
+type: release
+statements:
+  name:
+  - value:
+      text: '# 1'
+      language: en
+    references:
+    - source: vascotrilla.bandcamp.com-track-1
+      quote: '# 1 | Ehsan Sadigh/ Soheil Peyghambari / Vasco Trilla / Roozbeh Fadavi | Vasco Trilla'
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Q3waxf2
+    references:
+    - source: vascotrilla.bandcamp.com-album-sadigh-peyghambari-trilla-fadavi
+      quote: Soheil Peyghambari-bass clarinet, soprano sax
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: clarinet
+  contributor:
+  - value: Q3waxf2
+    references:
+    - source: vascotrilla.bandcamp.com-album-sadigh-peyghambari-trilla-fadavi
+      quote: recorded and mixed by Soheil Peyghambari
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: mixing engineer
+  listen link:
+  - value: https://vascotrilla.bandcamp.com/track/1
+    references:
+    - source: vascotrilla.bandcamp.com-track-1
+      quote: '# 1 | Ehsan Sadigh/ Soheil Peyghambari / Vasco Trilla / Roozbeh Fadavi | Vasco Trilla'
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a0036572834_10.jpg
+    references:
+    - source: vascotrilla.bandcamp.com-track-1
+      quote: https://f4.bcbits.com/img/a0036572834_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Soheil Peyghambari on Bandcamp
+        language: en
+  release date:
+  - value:
+      date: '2018-08-11'
+    references:
+    - source: vascotrilla.bandcamp.com-album-sadigh-peyghambari-trilla-fadavi
+      quote: released August 11, 2018
+      accessed: '2026-11-21'
+      locator: Published date

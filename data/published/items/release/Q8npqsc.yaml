@@ -1,0 +1,57 @@
+id: Q8npqsc
+type: release
+statements:
+  name:
+  - value:
+      text: Mahsa Vahdat & Shadi Fathi - Les Suds, à Arles 2026
+      language: fr
+    references:
+    - source: suds-arles.com-ecoutervoir-video-1122-mahsa-vahdat-shadi-fathi-les-suds-a-arles-2026
+      quote: Mahsa Vahdat & Shadi Fathi - Les Suds, à Arles 2026
+      accessed: '2026-11-21'
+      locator: Concert film title
+  performer:
+  - value: Qfxqgvv
+    references:
+    - source: suds-arles.com-ecoutervoir-video-1122-mahsa-vahdat-shadi-fathi-les-suds-a-arles-2026
+      quote: la voix saisissante de Mahsa et le setâr virtuose de Shadi
+      accessed: '2026-11-21'
+      locator: Performer credits
+    qualifiers:
+      role:
+      - setar
+  - value: Qp2mk6b
+    references:
+    - source: suds-arles.com-ecoutervoir-video-1122-mahsa-vahdat-shadi-fathi-les-suds-a-arles-2026
+      quote: la voix saisissante de Mahsa et le setâr virtuose de Shadi
+      accessed: '2026-11-21'
+      locator: Performer credits
+    qualifiers:
+      role:
+      - vocals
+  release date:
+  - value:
+      date: '2026'
+    references:
+    - source: suds-arles.com-ecoutervoir-video-1122-mahsa-vahdat-shadi-fathi-les-suds-a-arles-2026
+      quote: 'Année : 2026'
+      accessed: '2026-11-21'
+      locator: Video year
+  listen link:
+  - value: https://www.youtube.com/watch?v=H7rQkmOb6Zk
+    references:
+    - source: suds-arles.com-ecoutervoir-video-1122-mahsa-vahdat-shadi-fathi-les-suds-a-arles-2026
+      quote: https://www.youtube.com/embed/H7rQkmOb6Zk
+      accessed: '2026-11-21'
+      locator: Concert film
+  cover art:
+  - value: https://i.ytimg.com/vi/H7rQkmOb6Zk/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-h7rqkmob6zk
+      quote: https://i.ytimg.com/vi/H7rQkmOb6Zk/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Festival film thumbnail
+    qualifiers:
+      credit:
+        text: Festival Les Suds, à Arles · YouTube
+        language: en

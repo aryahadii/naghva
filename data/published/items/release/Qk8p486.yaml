@@ -1,0 +1,73 @@
+id: Qk8p486
+type: release
+statements:
+  name:
+  - value:
+      text: Ageh Beh Man Bood
+      language: en
+    references:
+    - source: music.apple.com-us-album-nemidaanand-1523604397
+      quote: Ageh Beh Man Bood
+      accessed: '2026-11-21'
+      locator: Digital edition track 3
+  release date:
+  - value:
+      date: '2008'
+    references:
+    - source: musishen.com
+      quote: '2008'
+      accessed: '2026-11-21'
+      locator: Artist discography, Nemidaanand
+  performer:
+  - value: Qavhs3y
+    references:
+    - source: music.apple.com-us-album-nemidaanand-1523604397
+      quote: Shen Band
+      accessed: '2026-11-21'
+      locator: Release billing
+  - value: Qec6smv
+    references:
+    - &id001
+      source: musishen.com
+      quote: write, compose, arrange, perform and produce seven collections
+      accessed: '2026-11-21'
+      locator: Artist biography, dated catalogue or interview
+  contributor:
+  - value: Qec6smv
+    references:
+    - *id001
+    qualifiers:
+      role:
+      - composer
+      - arranger
+      - producer
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e5/98/da/e598dab2-019a-87a2-ca8a-274f23585717/195079871627.jpg/1200x630wp-60.jpg
+    references:
+    - source: music.apple.com-us-album-nemidaanand-1523604397
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e5/98/da/e598dab2-019a-87a2-ca8a-274f23585717/195079871627.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Original release cover
+    qualifiers:
+      credit:
+        text: Shen Band, Apple Music edition artwork
+        language: en
+  listen link:
+  - value: https://music.apple.com/us/song/ageh-beh-man-bood/1523604400
+    references:
+    - source: music.apple.com-us-album-nemidaanand-1523604397
+      quote: https://music.apple.com/us/song/ageh-beh-man-bood/1523604400
+      accessed: '2026-11-21'
+      locator: Apple Music exact song
+  - value: https://open.spotify.com/track/54xGTwwjtI5KcVmz1INx9k
+    references:
+    - source: open.spotify.com-embed-album-0bpzlzu5gdwsvskamvbhzc
+      quote: spotify:track:54xGTwwjtI5KcVmz1INx9k
+      accessed: '2026-11-21'
+      locator: Spotify exact song
+  - value: https://www.youtube.com/watch?v=YdWCyvZPL-Q
+    references:
+    - source: www.youtube.com-playlist-list-olak5uy_l5ghlhmmb4phtf9g-yytgqb8tqlurxli0
+      quote: YdWCyvZPL-Q
+      accessed: '2026-11-21'
+      locator: Official album track 3

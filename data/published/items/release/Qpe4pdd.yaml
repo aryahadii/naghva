@@ -1,0 +1,100 @@
+id: Qpe4pdd
+type: release
+statements:
+  name:
+  - value:
+      text: Jahane Man
+      language: en
+    references:
+    - source: open.spotify.com-embed-album-5cr3z2zoernpjefra1xkna
+      quote: Jahane Man
+      accessed: '2026-11-21'
+      locator: Spotify track 1
+  release type:
+  - value: single
+    references:
+    - source: open.spotify.com-embed-album-5cr3z2zoernpjefra1xkna
+      quote: Jahane Man
+      accessed: '2026-11-21'
+      locator: Spotify track 1
+  listen link:
+  - value: https://open.spotify.com/track/4iRCvaLkLHfiKx23JqXEb6
+    references:
+    - source: open.spotify.com-embed-album-5cr3z2zoernpjefra1xkna
+      quote: spotify:track:4iRCvaLkLHfiKx23JqXEb6
+      accessed: '2026-11-21'
+      locator: Native track URI
+  - value: https://open.spotify.com/album/5cR3z2zoeRNPJEfrA1xkNa
+    references:
+    - source: open.spotify.com-embed-album-5cr3z2zoernpjefra1xkna
+      quote: Jahane Man
+      accessed: '2026-11-21'
+      locator: Spotify album
+  - value: https://www.youtube.com/watch?v=dABQAQ7pIO8
+    references:
+    - source: www.youtube.com-watch-v-dabqaq7pio8
+      quote: '''Jahane Man'' - Niaz Nawab & Erwin Khachikian'
+      accessed: '2026-11-21'
+      locator: Original video
+  - value: https://music.apple.com/us/album/jahane-man/1517655856
+    references:
+    - source: music.apple.com-us-album-jahane-man-1517655856
+      quote: Jahane Man - Single
+      accessed: '2026-11-21'
+      locator: Digital single
+  - value: https://music.apple.com/us/song/jahane-man/1517655858
+    references:
+    - source: music.apple.com-us-album-jahane-man-1517655856
+      quote: https://music.apple.com/us/song/jahane-man/1517655858
+      accessed: '2026-11-21'
+      locator: Exact track permalink
+  - value: https://www.youtube.com/watch?v=lIkAnYiJCu8
+    references:
+    - source: www.youtube.com-watch-v-likanyijcu8
+      quote: '''Jahane Man'' - Niaz Nawab & Erwin khachikian'
+      accessed: '2026-11-21'
+      locator: Artist video
+  - value: https://t.me/niaznawab/198
+    references:
+    - source: t.me-niaznawab-198
+      quote: '‘Jahane Man’ Niaz & Erwin Written by: Niaz Nawab Erwin Khachikian Kamyar Nasiri Nicolas Nami Music V'
+      accessed: '2026-11-21'
+      locator: Artist’s original performance caption
+  performer:
+  - value: Qy88zyz
+    references:
+    - source: open.spotify.com-embed-album-5cr3z2zoernpjefra1xkna
+      quote: Erwin Khachikian
+      accessed: '2026-11-21'
+      locator: Spotify track billing
+  - value: Qb269ps
+    references:
+    - source: open.spotify.com-embed-album-5cr3z2zoernpjefra1xkna
+      quote: Niaz Nawab
+      accessed: '2026-11-21'
+      locator: Track billing
+  - value: Qzjh64j
+    references:
+    - source: t.me-niaznawab-198
+      quote: '‘Jahane Man’ Niaz & Erwin Written by: Niaz Nawab Erwin Khachikian Kamyar Nasiri Nicolas Nami Music V'
+      accessed: '2026-11-21'
+      locator: Artist’s original performance caption
+  release date:
+  - value:
+      date: '2020-05-01'
+    references:
+    - source: www.youtube.com-watch-v-dabqaq7pio8
+      quote: '2020-05-01'
+      accessed: '2026-11-21'
+      locator: Original video date
+  cover art:
+  - value: https://i.ytimg.com/vi/dABQAQ7pIO8/maxresdefault.jpg
+    qualifiers:
+      credit:
+        text: Karmandan | Erwin Khachikian –  اروین خاچیکیان
+        language: en
+    references:
+    - source: www.youtube.com-watch-v-dabqaq7pio8
+      quote: https://i.ytimg.com/vi/dABQAQ7pIO8/maxresdefault.jpg
+      accessed: '2026-11-21'
+      locator: Official or featured video image

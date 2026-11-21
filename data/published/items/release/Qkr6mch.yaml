@@ -1,0 +1,71 @@
+id: Qkr6mch
+type: release
+statements:
+  name:
+  - value:
+      text: Pt III
+      language: en
+    references:
+    - source: ehsansadigh.bandcamp.com-track-pt-iii
+      quote: Pt III | Ehsan Sadigh/Alexander Kranabetter/Soheil Peyghambari/Rouzbeh Fadavi | Ehsan Sadigh
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Q3waxf2
+    references:
+    - &id001
+      source: ehsansadigh.bandcamp.com-album-impromptu-and-friends-ii
+      quote: 'Soheil Peyghambari: Sax Soprano, Clarinet bass'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: clarinet
+  - value: Q3waxf2
+    references:
+    - *id001
+    qualifiers:
+      role: saxophone
+  - value: Qskzvdk
+    references:
+    - source: ehsansadigh.bandcamp.com-album-impromptu-and-friends-ii
+      quote: Ehsan Sadigh
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Qr2rtgh
+    references:
+    - source: ehsansadigh.bandcamp.com-album-impromptu-and-friends-ii
+      quote: Alexander Kranabetter
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Qpj6wcz
+    references:
+    - source: ehsansadigh.bandcamp.com-album-impromptu-and-friends-ii
+      quote: Rouzbeh Fadavi
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://ehsansadigh.bandcamp.com/track/pt-iii
+    references:
+    - source: ehsansadigh.bandcamp.com-track-pt-iii
+      quote: Pt III | Ehsan Sadigh/Alexander Kranabetter/Soheil Peyghambari/Rouzbeh Fadavi | Ehsan Sadigh
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2023-06-07'
+    references:
+    - source: ehsansadigh.bandcamp.com-album-impromptu-and-friends-ii
+      quote: released June 7, 2023
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a0848720080_10.jpg
+    references:
+    - source: ehsansadigh.bandcamp.com-track-pt-iii
+      quote: https://f4.bcbits.com/img/a0848720080_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Ehsan Sadigh
+        language: en

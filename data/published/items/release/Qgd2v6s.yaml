@@ -1,0 +1,47 @@
+id: Qgd2v6s
+type: release
+statements:
+  name:
+  - value:
+      text: Hymn
+      language: en
+    references:
+    - source: music.apple.com-us-album-fever-555205510
+      quote: Hymn
+      accessed: 2026-11-21
+      locator: Original digital title
+  performer:
+  - value: Qaxspbb
+    references:
+    - source: music.apple.com-us-album-fever-555205510
+      quote: Babak Bouban
+      accessed: 2026-11-21
+      locator: Music artist named in edition
+  listen link:
+  - value: https://music.apple.com/us/song/hymn/555205519
+    references:
+    - source: music.apple.com-us-album-fever-555205510
+      quote: Hymn
+      accessed: 2026-11-21
+      locator: Original digital title
+  - value: https://open.spotify.com/track/2Ti198IuI1Wz45qsXJHPgy
+    references:
+    - source: open.spotify.com-album-3tppprq26p3pl5pihdeckh
+      quote: Hymn
+      accessed: 2026-11-21
+      locator: Spotify album or track title
+  release date:
+  - value:
+      date: '2011-07-01'
+    references:
+    - source: music.apple.com-us-album-fever-555205510
+      quote: '2011-07-01'
+      accessed: 2026-11-21
+      locator: Digital edition date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music/v4/6f/55/1f/6f551fe0-3cc2-9acc-02bc-ff202a6700ff/088907208286.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-fever-555205510
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music/v4/6f/55/1f/6f551fe0-3cc2-9acc-02bc-ff202a6700ff/088907208286.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Cover artwork

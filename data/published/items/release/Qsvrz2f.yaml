@@ -1,0 +1,63 @@
+id: Qsvrz2f
+type: release
+statements:
+  listen link:
+  - value: https://sinasalimi.bandcamp.com/track/not-easy-to-part-with-you
+    references:
+    - source: sinasalimi.bandcamp.com-track-not-easy-to-part-with-you
+      quote: Not Easy to Part with You | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/not-easy-to-part-with-you/1889276996
+    references:
+    - source: music.apple.com-us-song-not-easy-to-part-with-you-1889276996
+      quote: ‎Not Easy to Part with You - Song with Lyrics by Sina Salimi - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/6XEIoSTLcV38RKlouUrDry
+    references:
+    - source: open.spotify.com-track-6xeiostlcv38rklouurdry
+      quote: Not Easy to Part with You - song and lyrics by Sina Salimi | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/sinasalimi/not-easy-to-part-with-you
+    references:
+    - source: soundcloud.com-sinasalimi-not-easy-to-part-with-you
+      quote: Stream Not Easy to Part with You by Sina  Salimi | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  name:
+  - value:
+      text: Not Easy to Part with You
+      language: en
+    references:
+    - source: sinasalimi.bandcamp.com-track-not-easy-to-part-with-you
+      quote: Not Easy to Part with You
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  performer:
+  - value: Qt5sbqz
+    references:
+    - source: sinasalimi.bandcamp.com-track-not-easy-to-part-with-you
+      quote: Not Easy to Part with You | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2026-03-20'
+    references:
+    - source: sinasalimi.bandcamp.com-album-travellers-musicians-and-other-stories
+      quote: released March 20, 2026
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a2498350153_10.jpg
+    references:
+    - source: sinasalimi.bandcamp.com-track-not-easy-to-part-with-you
+      quote: https://f4.bcbits.com/img/a2498350153_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Pegah Mian
+        language: en

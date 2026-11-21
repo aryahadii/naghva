@@ -1,0 +1,73 @@
+id: Q2q83t7
+type: release
+statements:
+  name:
+  - value:
+      text: Āvāz
+      language: en
+    references:
+    - source: arazsalek.bandcamp.com-track-v-z
+      quote: Āvāz | Araz Salek
+      accessed: '2026-11-21'
+      locator: Publisher page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a0188332014_10.jpg
+    qualifiers:
+      credit:
+        text: Bandcamp edition artwork
+        language: en
+    references:
+    - source: arazsalek.bandcamp.com-album-peripheries-of-nahavand
+      quote: https://f4.bcbits.com/img/a0188332014_10.jpg
+      accessed: '2026-11-21'
+      locator: Edition artwork, full-size Bandcamp original
+  release date:
+  - value:
+      date: '2025-04-11'
+    references:
+    - source: music.apple.com-us-album-peripheries-of-nahavand-feat-efr-c3-a9n-l-c3-b3pez-1793087383
+      quote: '2025-04-11'
+      accessed: '2026-11-21'
+      locator: Edition release date
+  listen link:
+  - value: https://arazsalek.bandcamp.com/track/v-z
+    references:
+    - source: arazsalek.bandcamp.com-track-v-z
+      quote: Āvāz | Araz Salek
+      accessed: '2026-11-21'
+      locator: Publisher page title
+  - value: https://efrenlopez.bandcamp.com/track/v-z
+    references:
+    - source: efrenlopez.bandcamp.com-track-v-z
+      quote: Āvāz | Araz Salek | Efrén López
+      accessed: '2026-11-21'
+      locator: Publisher page title
+  - value: https://music.apple.com/us/song/%C3%A2v%C3%A2z-feat-efr%C3%A9n-l%C3%B3pez/1793087632
+    references:
+    - source: music.apple.com-us-album-peripheries-of-nahavand-feat-efr-c3-a9n-l-c3-b3pez-1793087383
+      quote: Âvâz (feat. Efrén López)
+      accessed: '2026-11-21'
+      locator: Apple Music track list
+  - value: https://open.spotify.com/track/3yUqUBk2TjkE1ydzS49HKd
+    references:
+    - source: open.spotify.com-album-4vaulyogo9wa2p0hzotysc
+      quote: Âvâz
+      accessed: '2026-11-21'
+      locator: Spotify track list
+  performer:
+  - value: Qzqvz5q
+    qualifiers:
+      role: tar
+    references:
+    - source: efrenlopez.bandcamp.com-track-v-z
+      quote: 'ARAZ SALEK:'
+      accessed: '2026-11-21'
+      locator: Track-specific musician and instrument
+  - value: Qtqwf7n
+    qualifiers:
+      role: oud
+    references:
+    - source: efrenlopez.bandcamp.com-track-v-z
+      quote: 'EFRÉN LÓPEZ:'
+      accessed: '2026-11-21'
+      locator: Track-specific musician and instrument

@@ -1,0 +1,71 @@
+id: Qdmza4z
+type: release
+statements:
+  name:
+  - value:
+      text: Bimeye Omr
+      language: en
+    references:
+    - source: music.apple.com-us-album-bimeye-omr-single-1616857100
+      quote: Bimeye Omr
+      accessed: 2026-11-21
+      locator: Edition or recording title
+    - source: play.radiojavan.com-song-shervin-hajipour-bimeye-omr
+      quote: Bimeye Omr
+      accessed: 2026-11-21
+      locator: Native Radio Javan edition
+  - value:
+      text: بیمه عمر
+      language: fa
+    references:
+    - source: youtu.be-dievy42ybny
+      quote: Shervin - Bimeye Omr | شروین - بیمه عمر
+      accessed: 2026-11-21
+      locator: Official channel, recording title
+  performer:
+  - value: Qjeb9e9
+    references:
+    - source: music.apple.com-us-album-bimeye-omr-single-1616857100
+      quote: Shervin Hajipour
+      accessed: 2026-11-21
+      locator: Digital credits
+  listen link:
+  - value: https://music.apple.com/us/song/bimeye-omr/1616857107
+    references:
+    - source: music.apple.com-us-album-bimeye-omr-single-1616857100
+      quote: Bimeye Omr
+      accessed: 2026-11-21
+      locator: Edition or recording title
+  - value: https://open.spotify.com/track/4tjnVRTKSDLhVt9PAqCuep
+    references:
+    - source: open.spotify.com-album-3pzlyenim9ctwtrrypvbad
+      quote: Bimeye Omr
+      accessed: 2026-11-21
+      locator: Published recording
+  - value: https://youtu.be/DieVy42yBNY
+    references:
+    - source: youtu.be-dievy42ybny
+      quote: Shervin - Bimeye Omr | شروین - بیمه عمر
+      accessed: 2026-11-21
+      locator: Official channel, recording title
+  - value: https://music.apple.com/us/album/bimeye-omr/1805232106?i=1805232107
+    references:
+    - source: music.apple.com-us-album-bimeye-omr-1805232106
+      quote: Bimeye Omr
+      accessed: 2026-11-21
+      locator: Apple digital catalogue, track title
+  release date:
+  - value:
+      date: '2022-03-15'
+    references:
+    - source: music.apple.com-us-album-bimeye-omr-single-1616857100
+      quote: '2022-03-15'
+      accessed: 2026-11-21
+      locator: Digital edition date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/2f/89/29/2f892908-aa4f-79c2-cb4c-6dd663bd17a4/5063011385592_cover.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-bimeye-omr-single-1616857100
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/2f/89/29/2f892908-aa4f-79c2-cb4c-6dd663bd17a4/5063011385592_cover.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Digital edition artwork

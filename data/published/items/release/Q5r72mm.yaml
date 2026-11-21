@@ -1,0 +1,51 @@
+id: Q5r72mm
+type: release
+statements:
+  name:
+  - value:
+      text: Antmill N
+      language: en
+    references:
+    - source: music.apple.com-us-song-1462328825
+      quote: ‎Antmill N - Song with Lyrics by Idlefon - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qjjdrek
+    references:
+    - source: music.apple.com-us-song-1462328825
+      quote: ‎Antmill N - Song with Lyrics by Idlefon - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://music.apple.com/us/song/1462328825
+    references:
+    - source: music.apple.com-us-song-1462328825
+      quote: ‎Antmill N - Song with Lyrics by Idlefon - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://zabtesote.bandcamp.com/track/antmill-n
+    references:
+    - source: zabtesote.bandcamp.com-track-antmill-n
+      quote: Antmill N | Idlefon | Zabte Sote
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4c/dc/a3/4cdca39b-7365-1cea-3ec7-7191c081335a/634457913851.png/600x600bb.webp
+    references:
+    - source: music.apple.com-us-song-1462328825
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4c/dc/a3/4cdca39b-7365-1cea-3ec7-7191c081335a/634457913851.png/600x600bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original publisher artwork
+        language: en
+  release date:
+  - value:
+      date: '2018-11-15'
+    references:
+    - source: music.apple.com-us-song-1462328825
+      quote: November 15, 2018
+      accessed: '2026-11-21'
+      locator: Published date

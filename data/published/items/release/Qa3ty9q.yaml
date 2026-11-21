@@ -1,0 +1,24 @@
+id: Qa3ty9q
+type: release
+statements:
+  name:
+  - value:
+      text: گروه سعید شنبه‌زاده در برنامهٔ نوروزی جم
+      language: en
+    references:
+    - &id001
+      source: t.me-saeidshanbehzadeh-539
+      quote: گروه سعيد شنبه زاده برنامه نوروزي تلويزيون جم ، محمود بردك نيا نوازنده
+      accessed: '2026-11-21'
+      locator: Artist’s caption to recording
+  performer:
+  - value: Qyd93n9
+    references:
+    - *id001
+  - value: Qdtxp3v
+    references:
+    - *id001
+  listen link:
+  - value: https://t.me/saeidshanbehzadeh/539
+    references:
+    - *id001

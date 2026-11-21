@@ -1,0 +1,32 @@
+id: Q8t4hk5
+type: release
+statements:
+  name:
+  - value:
+      text: Naghib Shanbehzadeh solo Darbuka - Night in Vienna
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-ol-cgl1tzgy
+      quote: Naghib Shanbehzadeh solo Darbuka - Night in Vienna
+      accessed: '2026-11-21'
+      locator: Artist-published performance film
+  performer:
+  - value: Qvhrrm8
+    references:
+    - *id001
+  listen link:
+  - value: https://www.youtube.com/watch?v=Ol-cgL1tZGY
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/Ol-cgL1tZGY/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-ol-cgl1tzgy
+      quote: https://i.ytimg.com/vi/Ol-cgL1tZGY/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original film frame
+    qualifiers:
+      credit:
+        text: naghib shanbehzadeh
+        language: en

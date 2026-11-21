@@ -1,0 +1,57 @@
+id: Qhxynfa
+type: release
+statements:
+  name:
+  - value:
+      text: To comfort a shadow
+      language: en
+    references:
+    - source: zojduet.bandcamp.com-album-return
+      quote: To comfort a shadow
+      accessed: '2026-11-21'
+      locator: Track 1 of Return
+  performer:
+  - value: Qk5bhh3
+    references:
+    - source: zojduet.bandcamp.com-track-to-comfort-a-shadow
+      quote: To comfort a shadow | ZÖJ
+      accessed: '2026-11-21'
+      locator: Track page title
+  release date:
+  - value:
+      date: '2022-05-28'
+    references:
+    - source: zojduet.bandcamp.com-album-return
+      quote: released May 28, 2022
+      accessed: '2026-11-21'
+      locator: Release credits, publication date
+  cover art:
+  - value: https://f4.bcbits.com/img/a4241886900_10.jpg
+    qualifiers:
+      credit:
+        text: ZÖJ, via Bandcamp
+        language: en
+    references:
+    - source: zojduet.bandcamp.com-album-return
+      quote: https://f4.bcbits.com/img/a4241886900_10.jpg
+      accessed: '2026-11-21'
+      locator: Full-sized album artwork
+  listen link:
+  - value: https://zojduet.bandcamp.com/track/to-comfort-a-shadow
+    references:
+    - source: zojduet.bandcamp.com-track-to-comfort-a-shadow
+      quote: To comfort a shadow | ZÖJ
+      accessed: '2026-11-21'
+      locator: Track page title
+  - value: https://open.spotify.com/track/1uDcdyYoyP5tCDJDKJOdj8
+    references:
+    - source: open.spotify.com-album-6hpexhdebzt8puyknbvvi2
+      quote: To comfort a shadow
+      accessed: '2026-11-21'
+      locator: Track 1 in the Spotify album player
+  - value: https://music.apple.com/au/album/to-comfort-a-shadow/1644115173?i=1644115174
+    references:
+    - source: music.apple.com-au-album-return-ep-1644115173
+      quote: To Comfort a Shadow
+      accessed: '2026-11-21'
+      locator: Album track list, track 1

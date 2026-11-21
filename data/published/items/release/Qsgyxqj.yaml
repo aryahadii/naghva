@@ -1,0 +1,57 @@
+id: Qsgyxqj
+type: release
+statements:
+  name:
+  - value:
+      text: Teardrop
+      language: en
+    references:
+    - source: avarasti.bandcamp.com-track-teardrop
+      quote: Teardrop | Ava Rasti
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qks2dfk
+    references:
+    - source: avarasti.bandcamp.com-track-teardrop
+      quote: Teardrop | Ava Rasti
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://avarasti.bandcamp.com/track/teardrop
+    references:
+    - source: avarasti.bandcamp.com-track-teardrop
+      quote: Teardrop | Ava Rasti
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1762014843
+    references:
+    - source: music.apple.com-us-song-1762014843
+      quote: ‎Teardrop - Song with Lyrics by Ava Rasti - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/2rvMVYBr9axGTT29MlUXKs
+    references:
+    - source: open.spotify.com-track-2rvmvybr9axgtt29mluxks
+      quote: Teardrop - song and lyrics by Ava Rasti | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a2499614857_10.jpg
+    references:
+    - source: avarasti.bandcamp.com-track-teardrop
+      quote: https://f4.bcbits.com/img/a2499614857_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original recording publisher
+        language: en
+  release date:
+  - value:
+      date: '2024-12-06'
+    references:
+    - source: avarasti.bandcamp.com-album-the-river
+      quote: released December 6, 2024
+      accessed: '2026-11-21'
+      locator: Published date

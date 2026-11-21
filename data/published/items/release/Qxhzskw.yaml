@@ -1,0 +1,67 @@
+id: Qxhzskw
+type: release
+statements:
+  name:
+  - value:
+      text: From Here To Eternity
+      language: en
+    references:
+    - source: kylebobbydunn.bandcamp.com-album-from-here-to-eternity
+      quote: From Here To Eternity
+      accessed: '2026-11-21'
+      locator: Recording title
+  performer:
+  - value: Q4dp7z7
+    references:
+    - source: kylebobbydunn.bandcamp.com-album-from-here-to-eternity
+      quote: From Here To Eternity | kyle bobby dunn
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://kylebobbydunn.bandcamp.com/album/from-here-to-eternity
+    references:
+    - source: kylebobbydunn.bandcamp.com-album-from-here-to-eternity
+      quote: From Here To Eternity | kyle bobby dunn
+      accessed: '2026-11-21'
+      locator: Page title
+  contributor:
+  - value: Q6zbcxw
+    references:
+    - &id001
+      source: kylebobbydunn.bandcamp.com-album-from-here-to-eternity
+      quote: 'Additional mixing engineers: Milad Bagheri avec Maryam Sirvan'
+      accessed: '2026-11-21'
+      locator: Additional recording credits
+    qualifiers:
+      role: mixing engineer
+  - value: Qj24qcs
+    references:
+    - *id001
+    qualifiers:
+      role: mixing engineer
+  release type:
+  - value: album
+    references:
+    - source: kylebobbydunn.bandcamp.com-album-from-here-to-eternity
+      quote: From Here To Eternity | kyle bobby dunn
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2019-04-29'
+    references:
+    - source: kylebobbydunn.bandcamp.com-album-from-here-to-eternity
+      quote: released April 29, 2019
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a2504357060_10.jpg
+    references:
+    - source: kylebobbydunn.bandcamp.com-album-from-here-to-eternity
+      quote: https://f4.bcbits.com/img/a2504357060_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Bandcamp release artwork
+        language: en

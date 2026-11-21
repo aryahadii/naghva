@@ -1,0 +1,55 @@
+id: Q76vqcq
+type: release
+statements:
+  name:
+  - value:
+      text: Existence
+      language: en
+    references:
+    - source: open.spotify.com-track-3i8jbhgnzvowwk5mvjd4nc
+      quote: Existence
+      accessed: '2026-11-21'
+      locator: Recording title or artist credit
+  listen link:
+  - value: https://open.spotify.com/track/3I8jBHgnzVOWwK5mVJd4Nc
+    references:
+    - source: open.spotify.com-track-3i8jbhgnzvowwk5mvjd4nc
+      quote: Existence - song and lyrics by Mahmood Schricker | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/mahmood-schricker/mahmood-schricker-existence-feat-naghmeh-farahmand-demetrios-petsalakis
+    references:
+    - source: soundcloud.com-mahmood-schricker-mahmood-schricker-existence-feat-naghmeh-farahmand-demetrios-petsalakis
+      quote: Stream Existence - Experimental Link Music Night - Toronto by Mahmood Schricker | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/linkmusiclab/mahmood-schricker-existence
+    references:
+    - source: soundcloud.com-linkmusiclab-mahmood-schricker-existence
+      quote: Stream Mahmood Schricker - Existence by Link Music Lab | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://www.youtube.com/watch?v=9JV71-Do_Os
+    references:
+    - source: www.youtube.com-watch-v-9jv71-do_os
+      quote: Mahmood Schricker - Existence -  Live (Experimental Link Music Nights)
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qxkh2tz
+    references:
+    - source: open.spotify.com-track-3i8jbhgnzvowwk5mvjd4nc
+      quote: Existence - song and lyrics by Mahmood Schricker | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-LPEZaECu0H5JILZ4-QDH9EQ-t500x500.jpg
+    references:
+    - source: soundcloud.com-mahmood-schricker-mahmood-schricker-existence-feat-naghmeh-farahmand-demetrios-petsalakis
+      quote: https://i1.sndcdn.com/artworks-LPEZaECu0H5JILZ4-QDH9EQ-t500x500.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Mahmood Schricker on SoundCloud
+        language: en

@@ -7,30 +7,26 @@ statements:
       language: en
     references:
     - source: music.apple.com-us-album-tehran-smile-994269923-87b7909a518d
-      quote: |-
-        Listen to Tehran, Smile! by Pallett on Apple Music. 2015. 12 Songs. Duration: 57 minutes.
+      quote: 'Listen to Tehran, Smile! by Pallett on Apple Music. 2015. 12 Songs. Duration: 57 minutes.'
       accessed: '2026-10-19'
   release date:
   - value:
       date: '2015-05-16'
     references:
     - source: music.apple.com-us-album-tehran-smile-994269923-87b7909a518d
-      quote: |-
-        "datePublished":"2015-05-16"
+      quote: '"datePublished":"2015-05-16"'
       accessed: '2026-10-19'
   performer:
   - value: Qq5328q
     references:
     - source: music.apple.com-us-album-tehran-smile-994269923-87b7909a518d
-      quote: |-
-        Listen to Tehran, Smile! by Pallett on Apple Music. 2015. 12 Songs. Duration: 57 minutes.
+      quote: 'Listen to Tehran, Smile! by Pallett on Apple Music. 2015. 12 Songs. Duration: 57 minutes.'
       accessed: '2026-10-19'
   listen link:
   - value: https://music.apple.com/us/album/tehran-smile/994269923
     references:
     - source: music.apple.com-us-album-tehran-smile-994269923-87b7909a518d
-      quote: |-
-        Listen to Tehran, Smile! by Pallett on Apple Music. 2015. 12 Songs. Duration: 57 minutes.
+      quote: 'Listen to Tehran, Smile! by Pallett on Apple Music. 2015. 12 Songs. Duration: 57 minutes.'
       accessed: '2026-10-19'
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music1/v4/10/98/ce/1098ce22-dd5d-449f-9b70-d75a60316587/889845076995.jpg/296x296bb.webp
@@ -40,6 +36,14 @@ statements:
         language: en
     references:
     - source: music.apple.com-us-album-tehran-smile-994269923-87b7909a518d
-      quote: |-
-        Listen to Tehran, Smile! by Pallett on Apple Music. 2015. 12 Songs. Duration: 57 minutes.
+      quote: 'Listen to Tehran, Smile! by Pallett on Apple Music. 2015. 12 Songs. Duration: 57 minutes.'
       accessed: '2026-10-19'
+  contributor:
+  - value: Qzchcs8
+    references:
+    - source: www.rouzbehesfand.com-contact-1
+      quote: producing three albums
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: producer

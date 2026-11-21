@@ -1,0 +1,83 @@
+id: Qc75mbq
+type: release
+statements:
+  name:
+  - value:
+      text: I Will Grow
+      language: en
+    references:
+    - source: open.spotify.com-embed-track-3f7w8loctck73aerzjohdb
+      quote: I Will Grow
+      accessed: '2026-11-21'
+      locator: Original Spotify recording or album
+  release type:
+  - value: single
+    references:
+    - source: open.spotify.com-embed-track-3f7w8loctck73aerzjohdb
+      quote: I Will Grow
+      accessed: '2026-11-21'
+      locator: Original Spotify recording or album
+  performer:
+  - value: Qwmja27
+    references:
+    - source: open.spotify.com-embed-track-3f7w8loctck73aerzjohdb
+      quote: I Will Grow
+      accessed: '2026-11-21'
+      locator: Original Spotify recording or album
+  - value: Qa6r74t
+    qualifiers:
+      role:
+      - bass
+    references:
+    - source: kasrasaboktakin.com-music
+      quote: https://open.spotify.com/track/3f7w8LoCtck73AeRzJoHDb
+      accessed: '2026-11-21'
+      locator: Record linked by bassist in his own portfolio
+  listen link:
+  - value: https://open.spotify.com/track/3f7w8LoCtck73AeRzJoHDb
+    references:
+    - source: open.spotify.com-embed-track-3f7w8loctck73aerzjohdb
+      quote: I Will Grow
+      accessed: '2026-11-21'
+      locator: Original Spotify recording or album
+  - value: https://music.apple.com/us/song/i-will-grow/1807198838
+    references:
+    - source: music.apple.com-us-album-i-will-grow-1807198837
+      quote: I Will Grow - Single
+      accessed: '2026-11-21'
+      locator: Apple issue
+  - value: https://www.youtube.com/watch?v=CWYDiiDg3M0
+    references:
+    - source: youtu.be-cwydiidg3m0-si-rpk1wlihjjfu9ld3
+      quote: I Will Grow
+      accessed: '2026-11-21'
+      locator: Original distribution or artist recording
+  release date:
+  - value:
+      date: '2025-04-09'
+    references:
+    - source: open.spotify.com-embed-track-3f7w8loctck73aerzjohdb
+      quote: '2025-04-09'
+      accessed: '2026-11-21'
+      locator: Digital issue date
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d0000b2730633e77413ab9843642670fa
+    qualifiers:
+      credit:
+        text: Digital distributor artwork
+        language: en
+    references:
+    - source: open.spotify.com-track-3f7w8loctck73aerzjohdb
+      quote: https://i.scdn.co/image/ab67616d0000b2730633e77413ab9843642670fa
+      accessed: '2026-11-21'
+      locator: Original release image
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4c/f5/ab/4cf5ab2d-d156-d834-b9de-7e6440d3b366/199199435523.jpg/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Digital distributor artwork
+        language: en
+    references:
+    - source: music.apple.com-us-album-i-will-grow-1807198837
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4c/f5/ab/4cf5ab2d-d156-d834-b9de-7e6440d3b366/199199435523.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Original release image

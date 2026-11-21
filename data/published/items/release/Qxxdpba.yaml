@@ -1,0 +1,38 @@
+id: Qxxdpba
+type: release
+statements:
+  name:
+  - value:
+      text: Lucha Compartida, Setar Mehdi Moshtagh y Majid Hesabi /رزم مشترک ،مهدی مشتاق و مجید حسابی
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-xxzv_fmpf8w
+      quote: Lucha Compartida, Setar Mehdi Moshtagh y Majid Hesabi /رزم مشترک ،مهدی مشتاق و مجید حسابی
+      accessed: '2026-11-21'
+      locator: Music credited by musician or performance publisher
+  performer:
+  - value: Qqb9bnx
+    references:
+    - *id001
+  - value: Qset3q2
+    references:
+    - source: www.youtube.com-watch-v-xxzv_fmpf8w
+      quote: Majid Hesabi
+      accessed: '2026-11-21'
+      locator: Collaborator
+  cover art:
+  - value: https://i.ytimg.com/vi/XxzV_FmpF8w/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-xxzv_fmpf8w
+      quote: https://i.ytimg.com/vi/XxzV_FmpF8w/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video frame
+    qualifiers:
+      credit:
+        text: Mehdi Moshtagh
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=XxzV_FmpF8w
+    references:
+    - *id001

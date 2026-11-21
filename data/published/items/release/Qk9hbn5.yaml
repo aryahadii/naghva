@@ -1,0 +1,59 @@
+id: Qk9hbn5
+type: release
+statements:
+  name:
+  - value:
+      text: Rainbow Painting
+      language: en
+    references:
+    - source: ethanklotz.bandcamp.com-track-rainbow-painting
+      quote: Rainbow Painting
+      locator: Artist, native recording or label documentation
+      accessed: '2026-11-21'
+  performer:
+  - value: Qgay8m3
+    references:
+    - source: ethanklotz.bandcamp.com-album-fragments-of-the-heart
+      quote: Bahar Badieitabar - Oud (1,2,5,6) Voice (4)
+      locator: Artist, native recording or label documentation
+      accessed: '2026-11-21'
+    qualifiers:
+      role: oud
+  - value: Q99nmey
+    references:
+    - source: ethanklotz.bandcamp.com-album-fragments-of-the-heart
+      quote: Ethan Klotz
+      locator: Artist, native recording or label documentation
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2025-10-07'
+    references:
+    - source: music.apple.com-us-album-fragments-of-the-heart-1845241536
+      quote: '2025-10-07'
+      locator: Artist, native recording or label documentation
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://f4.bcbits.com/img/a4148312237_10.jpg
+    references:
+    - source: ethanklotz.bandcamp.com-album-fragments-of-the-heart
+      quote: https://f4.bcbits.com/img/a4148312237_10.jpg
+      locator: Artist, native recording or label documentation
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Ethan Klotz · Fragments of The Heart
+        language: en
+  listen link:
+  - value: https://ethanklotz.bandcamp.com/track/rainbow-painting
+    references:
+    - source: ethanklotz.bandcamp.com-track-rainbow-painting
+      quote: Rainbow Painting
+      locator: Artist, native recording or label documentation
+      accessed: '2026-11-21'
+  - value: https://music.apple.com/us/song/rainbow-painting/1845241539
+    references:
+    - source: music.apple.com-us-album-fragments-of-the-heart-1845241536
+      quote: Rainbow Painting
+      locator: Artist, native recording or label documentation
+      accessed: '2026-11-21'

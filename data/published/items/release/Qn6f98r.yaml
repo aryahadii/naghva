@@ -1,0 +1,59 @@
+id: Qn6f98r
+type: release
+statements:
+  name:
+  - value:
+      text: Saravaz
+      language: en
+    references:
+    - source: open.spotify.com-album-3lglfncnrbdkxe3aur4zwf
+      quote: Saravaz
+      accessed: '2026-11-21'
+      locator: Spotify track listing
+  performer:
+  - value: Q5rnjaz
+    qualifiers:
+      role: tombak
+    references:
+    - source: music.apple.com-us-album-so-faraway-ep-1771053704
+      quote: Pedram Khavarzamini
+      accessed: '2026-11-21'
+      locator: Artist or track-specific guest billing
+  - value: Qmkhy5b
+    references:
+    - source: music.apple.com-us-album-so-faraway-ep-1771053704
+      quote: Siavash Imani
+      accessed: '2026-11-21'
+      locator: Album headline billing
+  listen link:
+  - value: https://music.apple.com/us/song/saravaz/1771053706
+    references:
+    - source: music.apple.com-us-album-so-faraway-ep-1771053704
+      quote: Saravaz
+      accessed: '2026-11-21'
+      locator: Apple Music track listing
+  - value: https://open.spotify.com/track/2CedB65MCmggOwEDWc7lga
+    references:
+    - source: open.spotify.com-album-3lglfncnrbdkxe3aur4zwf
+      quote: Saravaz
+      accessed: '2026-11-21'
+      locator: Spotify track listing
+  release date:
+  - value:
+      date: '2024-03-13'
+    references:
+    - source: music.apple.com-us-album-so-faraway-ep-1771053704
+      quote: '2024-03-13'
+      accessed: '2026-11-21'
+      locator: Apple Music edition issue date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/a0/e7/41a0e7cf-149b-6428-2504-8d5df3450589/0759675966004.jpg/1200x630bb.jpg
+    qualifiers:
+      credit:
+        text: Apple Music edition artwork
+        language: en
+    references:
+    - source: music.apple.com-us-album-so-faraway-ep-1771053704
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/a0/e7/41a0e7cf-149b-6428-2504-8d5df3450589/0759675966004.jpg/1200x630bb.jpg
+      accessed: '2026-11-21'
+      locator: Apple Music edition artwork

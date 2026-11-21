@@ -1,0 +1,51 @@
+id: Q782xaw
+type: release
+statements:
+  name:
+  - value:
+      text: La Nesque
+      language: en
+    references:
+    - source: cinnapey.bandcamp.com-track-la-nesque
+      quote: La Nesque
+      accessed: '2026-11-21'
+      locator: Recording title or artist credit
+  performer:
+  - value: Q4q92dh
+    references:
+    - source: cinnapey.bandcamp.com-track-la-nesque
+      quote: La Nesque | Cinna Peyghamy
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://cinnapey.bandcamp.com/track/la-nesque
+    references:
+    - source: cinnapey.bandcamp.com-track-la-nesque
+      quote: La Nesque | Cinna Peyghamy
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/la-nesque/1884372781
+    references:
+    - source: music.apple.com-us-song-la-nesque-1884372781
+      quote: ‎La Nesque - Song with Lyrics by Cinna Peyghamy - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a2848951206_10.jpg
+    references:
+    - source: cinnapey.bandcamp.com-track-la-nesque
+      quote: https://f4.bcbits.com/img/a2848951206_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Cinna Peyghamy on Bandcamp
+        language: en
+  release date:
+  - value:
+      date: '2026-06-05'
+    references:
+    - source: cinnapey.bandcamp.com-album-music-for-tombak-synth
+      quote: released June 5, 2026
+      accessed: '2026-11-21'
+      locator: Published date

@@ -1,0 +1,21 @@
+id: Q4gnbj4
+type: person
+statements:
+  name:
+  - value:
+      text: Andi Toma
+      language: en
+    references:
+    - source: hjirok.bandcamp.com-album-hjirok
+      quote: Produced by Andi Toma.
+      locator: Album credits
+      accessed: '2026-11-21'
+  member of:
+  - value: Qjb6dqs
+    references:
+    - source: hjirok.bandcamp.com-album-hjirok
+      quote: Produced by Andi Toma.
+      locator: Album credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: producer

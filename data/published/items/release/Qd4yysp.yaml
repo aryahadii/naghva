@@ -1,0 +1,80 @@
+id: Qd4yysp
+type: release
+statements:
+  name:
+  - value:
+      text: سروخرامان
+      language: fa
+    references:
+    - source: music.apple.com-us-album-d8-b3-d8-b1-d9-88-d8-ae-d8-b1-d8-a7-d9-85-d8-a7-d9-86-6829241570
+      quote: سروخرامان
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
+  performer:
+  - value: Qje5fct
+    references:
+    - source: music.apple.com-us-album-d8-b3-d8-b1-d9-88-d8-ae-d8-b1-d8-a7-d9-85-d8-a7-d9-86-6829241570
+      quote: Zanyar Hesami
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
+  - value: Qw94q76
+    references:
+    - source: www.youtube.com-watchv-vz-livnqh6o
+      quote: Sadolah Nasiri
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
+    qualifiers:
+      role: vocals
+  release date:
+  - value:
+      date: '2026-10-31'
+    references:
+    - source: music.apple.com-us-album-d8-b3-d8-b1-d9-88-d8-ae-d8-b1-d8-a7-d9-85-d8-a7-d9-86-6829241570
+      quote: '2026-10-31'
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b8/2c/01/b82c013c-4c1c-b255-817e-4d306bf03aa2/7333596673642.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-d8-b3-d8-b1-d9-88-d8-ae-d8-b1-d8-a7-d9-85-d8-a7-d9-86-6829241570
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b8/2c/01/b82c013c-4c1c-b255-817e-4d306bf03aa2/7333596673642.jpg/1200x630bb.jpg
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: سروخرامان - Single
+        language: en
+  listen link:
+  - value: https://music.apple.com/us/song/%D8%B3%D8%B1%D9%88%D8%AE%D8%B1%D8%A7%D9%85%D8%A7%D9%86/6829241572
+    references:
+    - source: music.apple.com-us-album-d8-b3-d8-b1-d9-88-d8-ae-d8-b1-d8-a7-d9-85-d8-a7-d9-86-6829241570
+      quote: سروخرامان
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/46awRfkYFRvuWn3odPlM7z
+    references:
+    - source: open.spotify.com-embed-album-0yw2tbdblo0cvoo8uikpht
+      quote: سروخرامان
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
+  - value: https://music.apple.com/us/album/%D8%B3%D8%B1%D9%88%D8%AE%D8%B1%D8%A7%D9%85%D8%A7%D9%86-single/6829241570
+    references:
+    - source: music.apple.com-us-album-d8-b3-d8-b1-d9-88-d8-ae-d8-b1-d8-a7-d9-85-d8-a7-d9-86-6829241570
+      quote: سروخرامان - Single
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
+  - value: https://www.youtube.com/watch?v=vz-LIvnQH6o
+    references:
+    - source: www.youtube.com-oembed-vz-livnqh6o
+      quote: Sarve Khraman | سرو خرامان — سعدالله نصیری و زانیار حسامی
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
+  contributor:
+  - value: Qje5fct
+    references:
+    - source: www.youtube.com-watchv-vz-livnqh6o
+      quote: 'آهنگسازی و تنظیم: زانیار حسامی | Music & Arrangement: Zanyar Hesami'
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
+    qualifiers:
+      role: composer

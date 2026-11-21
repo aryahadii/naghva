@@ -1,0 +1,53 @@
+id: Qy9a36m
+type: release
+statements:
+  name:
+  - value:
+      text: Fridays
+      language: en
+    references:
+    - source: music.apple.com-us-album-the-death-of-me-1396963283
+      quote: Fridays
+      accessed: 2026-11-21
+      locator: Native digital track order
+  performer:
+  - value: Qtqjb47
+    references:
+    - source: music.apple.com-us-album-the-death-of-me-1396963283
+      quote: Fridays
+      accessed: 2026-11-21
+      locator: Native digital track order
+  listen link:
+  - value: https://music.apple.com/us/song/fridays/1396963288
+    references:
+    - source: music.apple.com-us-album-the-death-of-me-1396963283
+      quote: Fridays
+      accessed: 2026-11-21
+      locator: Native digital track order
+  - value: https://open.spotify.com/track/0ppFrx1tz4LR9Zh2MTsBEf
+    references:
+    - source: open.spotify.com-album-3oyfbj01wwqw2ld31iytqc
+      quote: Fridays
+      accessed: 2026-11-21
+      locator: Spotify track billing
+  - value: https://youtu.be/h40hVDUYmqA
+    references:
+    - source: youtu.be-h40hvduymqa
+      quote: Fridays
+      accessed: 2026-11-21
+      locator: Track in artist-linked playlist
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/3a/66/80/3a66808c-cfe2-b56b-d350-7d5a16b83a08/192914294061.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-the-death-of-me-1396963283
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/3a/66/80/3a66808c-cfe2-b56b-d350-7d5a16b83a08/192914294061.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Digital artwork
+  release date:
+  - value:
+      date: '2018-04-30'
+    references:
+    - source: music.apple.com-us-album-the-death-of-me-1396963283
+      quote: '2018-04-30'
+      accessed: 2026-11-21
+      locator: Digital edition date

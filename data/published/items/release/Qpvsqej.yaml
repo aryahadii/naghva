@@ -1,0 +1,53 @@
+id: Qpvsqej
+type: release
+statements:
+  name:
+  - value:
+      text: religion 1
+      language: en
+    references:
+    - source: janklare.bandcamp.com-album-count
+      quote: religion 1
+      locator: Track 4
+      accessed: '2026-11-21'
+  performer:
+  - value: Q9aspca
+    references:
+    - source: janklare.bandcamp.com-album-count
+      quote: Shabnam Parvaresh - cl
+      locator: Original personnel credit
+      accessed: '2026-11-21'
+    qualifiers:
+      role: clarinet
+  - value: Qjcw3pp
+    references:
+    - source: janklare.bandcamp.com-album-count
+      quote: KIND
+      locator: Billed musician or ensemble
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2025-05-11'
+    references:
+    - source: janklare.bandcamp.com-album-count
+      quote: 11 May 2025 00:00:00 GMT
+      locator: Original publication date
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://f4.bcbits.com/img/a1774476536_10.jpg
+    references:
+    - source: janklare.bandcamp.com-album-count
+      quote: https://f4.bcbits.com/img/a1774476536_10.jpg
+      locator: Portrait or cover art on the artist or publisher page
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Jan Klare · release artwork
+        language: en
+  listen link:
+  - value: https://janklare.bandcamp.com/track/religion-1
+    references:
+    - source: janklare.bandcamp.com-album-count
+      quote: religion 1
+      locator: Track 4
+      accessed: '2026-11-21'

@@ -1,0 +1,55 @@
+id: Qj8kpz9
+type: release
+statements:
+  name:
+  - value:
+      text: The Rain
+      language: en
+    references:
+    - source: music.apple.com-us-song-658672762
+      quote: ‎The Rain - Song with Lyrics by Kaveh HamedanianKeyvan Mirhadi, Ramin Mazaheri, Pouya Pour Amin, Aria Yektakhah, Farid
+        Mollanouri, Ali Barzegar & Kaveh Faraji - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qr62rq7
+    references:
+    - source: music.apple.com-us-song-658672762
+      quote: ‎The Rain - Song with Lyrics by Kaveh HamedanianKeyvan Mirhadi, Ramin Mazaheri, Pouya Pour Amin, Aria Yektakhah, Farid
+        Mollanouri, Ali Barzegar & Kaveh Faraji - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://music.apple.com/us/song/658672762
+    references:
+    - source: music.apple.com-us-song-658672762
+      quote: ‎The Rain - Song with Lyrics by Kaveh HamedanianKeyvan Mirhadi, Ramin Mazaheri, Pouya Pour Amin, Aria Yektakhah, Farid
+        Mollanouri, Ali Barzegar & Kaveh Faraji - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/4TkRcjLqD7KgLWgfREvMIc
+    references:
+    - source: open.spotify.com-track-4tkrcjlqd7kglwgfrevmic
+      quote: The Rain - song and lyrics by Kaveh HamedanianKeyvan Mirhadi, Ramin Mazaheri, Pouya Pour Amin, Aria Yektakhah, Farid Mollanouri,
+        Ali Barzegar, Kaveh Faraji | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music/v4/02/c6/60/02c660ec-21b2-6496-ee2a-d7e35efa50a3/888002518873.jpg/600x600bb.webp
+    references:
+    - source: music.apple.com-us-song-658672762
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music/v4/02/c6/60/02c660ec-21b2-6496-ee2a-d7e35efa50a3/888002518873.jpg/600x600bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original artist or label edition
+        language: en
+  release date:
+  - value:
+      date: '2013-05-23'
+    references:
+    - source: music.apple.com-us-song-658672762
+      quote: May 23, 2013
+      accessed: '2026-11-21'
+      locator: Published date

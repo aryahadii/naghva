@@ -195,9 +195,21 @@ export function releasesOf(record: SiteRecord, artist: Item): Item[] {
   return (artist.releases ?? []).map((id) => record.items[id]).filter((x): x is Item => Boolean(x)).sort(byReleaseDate);
 }
 
+/** The catalogue includes work the artist wrote, arranged or produced. */
+export function catalogueReleasesOf(record: SiteRecord, artist: Item): Item[] {
+  const ids = new Set(artist.releases ?? []);
+  for (const credit of artist.incoming) {
+    if (credit.property !== 'contributor') continue;
+    const release = record.items[credit.item];
+    if (release?.type === 'release' && best(release.statements.contributor).some((s) => s.value === artist.id)) {
+      ids.add(release.id);
+    }
+  }
+  return [...ids].map((id) => record.items[id]).filter((item): item is Item => Boolean(item)).sort(byReleaseDate);
+}
+
 /** Include historical panels without adding them to the artist's recordings. */
-export function panelReleasesOf(record: SiteRecord, artist: Item): Item[] {
-  const releases = releasesOf(record, artist);
+export function panelReleasesOf(record: SiteRecord, artist: Item, releases = catalogueReleasesOf(record, artist)): Item[] {
   const ids = new Set(releases.map((release) => release.id));
   for (const [releaseId, artistId] of Object.entries(record.panelHosts ?? {})) {
     const release = record.items[releaseId];

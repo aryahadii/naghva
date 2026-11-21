@@ -1,0 +1,50 @@
+id: Qdqq7t4
+type: person
+statements:
+  name:
+  - value:
+      text: Farshad Mohammadi
+      language: en
+    references:
+    - source: music.apple.com-de-album-hafez-ensemble-feat-maryam-akhondy-1766961728
+      quote: Farshad Mohammadi
+      accessed: 2026-11-21
+      locator: Edition or track billing
+  - value:
+      text: فرشاد محمدی
+      language: fa
+    references:
+    - source: kayhan.london-1399-06-02-208705
+      quote: فرشاد محمدی، موسیقیدان، آهنگساز و نوازنده سنتور
+      accessed: 2026-11-21
+      locator: Interview introduction
+  profile link:
+  - value: https://open.spotify.com/artist/6xD98WbTr1HDuY5XP92w9w
+    references:
+    - source: open.spotify.com-artist-6xd98wbtr1hduy5xp92w9w
+      quote: Listen to Farshad Mohammadi Songs | Spotify
+      accessed: 2026-11-21
+      locator: Native artist profile
+  - value: https://music.apple.com/us/artist/farshad-mohammadi/1629826635
+    references:
+    - source: music.apple.com-us-artist-farshad-mohammadi-1629826635
+      quote: ‎Farshad Mohammadi - Apple Music
+      accessed: 2026-11-21
+      locator: Native artist profile
+  - value: https://www.youtube.com/@TheFarshadMohammadi
+    references:
+    - source: www.youtube.com-thefarshadmohammadi
+      quote: Farshad Mohammadi - YouTube
+      accessed: 2026-11-21
+      locator: Native artist profile
+  image:
+  - value: https://i.scdn.co/image/ab6761610000e5eb6c32e95d6d615cb0e731bfe3
+    qualifiers:
+      credit:
+        text: Farshad Mohammadi via Spotify
+        language: en
+    references:
+    - source: open.spotify.com-artist-6xd98wbtr1hduy5xp92w9w
+      quote: https://i.scdn.co/image/ab6761610000e5eb6c32e95d6d615cb0e731bfe3
+      accessed: 2026-11-21
+      locator: Photographic portrait on artist profile

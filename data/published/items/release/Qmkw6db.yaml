@@ -1,0 +1,52 @@
+id: Qmkw6db
+type: release
+statements:
+  name:
+  - value:
+      text: FARCE
+      language: en
+    references:
+    - source: enmossed.bandcamp.com-album-farce
+      quote: FARCE
+      locator: Artist, publisher or presenter credits
+      accessed: '2026-11-21'
+  performer:
+  - value: Qk45pkn
+    references:
+    - source: enmossed.bandcamp.com-album-farce
+      quote: Nazanin Noori
+      locator: Artist, publisher or presenter credits
+      accessed: '2026-11-21'
+  release type:
+  - value: album
+    references:
+    - source: enmossed.bandcamp.com-album-farce
+      quote: FARCE
+      locator: Artist, publisher or presenter credits
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2020-08-25'
+    references:
+    - source: enmossed.bandcamp.com-album-farce
+      quote: released August 25, 2020
+      locator: Artist, publisher or presenter credits
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://f4.bcbits.com/img/a2651009444_10.jpg
+    references:
+    - source: enmossed.bandcamp.com-album-farce
+      quote: https://f4.bcbits.com/img/a2651009444_10.jpg
+      locator: Artist, publisher or presenter credits
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: enmossed
+        language: en
+  listen link:
+  - value: https://enmossed.bandcamp.com/album/farce
+    references:
+    - source: enmossed.bandcamp.com-album-farce
+      quote: FARCE
+      locator: Artist, publisher or presenter credits
+      accessed: '2026-11-21'

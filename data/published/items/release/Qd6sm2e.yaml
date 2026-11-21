@@ -1,0 +1,64 @@
+id: Qd6sm2e
+type: release
+statements:
+  name:
+  - value:
+      text: Street
+      language: en
+    references:
+    - source: open.spotify.com-album-33gf4gepvebxk4sdohmwuc
+      quote: Listen to Street - Single by Eishan Ensemble | Spotify
+      accessed: '2026-11-21'
+      locator: Single or compilation heading
+  performer:
+  - value: Qhebfsp
+    references:
+    - source: open.spotify.com-album-33gf4gepvebxk4sdohmwuc
+      quote: Eishan Ensemble
+      accessed: '2026-11-21'
+      locator: Track artist
+  release date:
+  - value:
+      date: '2020-04-30'
+    references:
+    - source: open.spotify.com-album-33gf4gepvebxk4sdohmwuc
+      quote: '2020-04-30'
+      accessed: '2026-11-21'
+      locator: Release date metadata
+  listen link:
+  - value: https://open.spotify.com/album/33gf4GEpveBXK4sdoHmWuC
+    references:
+    - source: open.spotify.com-album-33gf4gepvebxk4sdohmwuc
+      quote: Listen to Street - Single by Eishan Ensemble | Spotify
+      accessed: '2026-11-21'
+      locator: Single or compilation heading
+  - value: https://open.spotify.com/track/3YSqOOdojupGmvHz0Y6jjL
+    references:
+    - source: open.spotify.com-album-33gf4gepvebxk4sdohmwuc
+      quote: Street
+      accessed: '2026-11-21'
+      locator: Track 1
+  - value: https://www.youtube.com/playlist?list=OLAK5uy_mA6jfcTlaX4d8vGQHWegXh9ld7P4UHAss
+    references:
+    - source: www.youtube.com-playlist-list-olak5uy_ma6jfctlax4d8vgqhwegxh9ld7p4uhass
+      quote: Street
+      accessed: '2026-11-21'
+      locator: YouTube release playlist
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d0000b27348c3beb2f463d29ce9745a2c
+    qualifiers:
+      credit:
+        text: Spotify edition artwork
+        language: en
+    references:
+    - source: open.spotify.com-album-33gf4gepvebxk4sdohmwuc
+      quote: https://i.scdn.co/image/ab67616d0000b27348c3beb2f463d29ce9745a2c
+      accessed: '2026-11-21'
+      locator: Spotify edition artwork
+  release type:
+  - value: single
+    references:
+    - source: open.spotify.com-album-33gf4gepvebxk4sdohmwuc
+      quote: Listen to Street - Single by Eishan Ensemble | Spotify
+      accessed: '2026-11-21'
+      locator: Single or compilation heading

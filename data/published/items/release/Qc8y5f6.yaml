@@ -1,0 +1,51 @@
+id: Qc8y5f6
+type: release
+statements:
+  name:
+  - value:
+      text: Ghayegh o Nameh (Remix)
+      language: en
+    references:
+    - source: music.apple.com-us-album-karmandan-401059007
+      quote: Ghayegh o Nameh (Remix)
+      accessed: '2026-11-21'
+      locator: Track 9
+  performer:
+  - value: Qzjh64j
+    references:
+    - source: music.apple.com-us-album-karmandan-401059007
+      quote: Karmandan
+      accessed: '2026-11-21'
+      locator: Billed project
+  listen link:
+  - value: https://music.apple.com/us/song/ghayegh-o-nameh-remix/401059040
+    references:
+    - source: music.apple.com-us-album-karmandan-401059007
+      quote: https://music.apple.com/us/song/ghayegh-o-nameh-remix/401059040
+      accessed: '2026-11-21'
+      locator: Exact track link
+  - value: https://open.spotify.com/track/1TSBeWO3mQN9kKRGIy1ihR
+    references:
+    - source: open.spotify.com-embed-album-4ndlxlknowugzlhbu55xzg
+      quote: spotify:track:1TSBeWO3mQN9kKRGIy1ihR
+      accessed: '2026-11-21'
+      locator: Exact Spotify track URI
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music/15/77/a0/mzi.wbcvfaqm.jpg/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Digital issue via Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-karmandan-401059007
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music/15/77/a0/mzi.wbcvfaqm.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Original digital artwork
+  release date:
+  - value:
+      date: '2010-11-01'
+    references:
+    - source: music.apple.com-us-album-karmandan-401059007
+      quote: '2010-11-01'
+      accessed: '2026-11-21'
+      locator: Digital issue date

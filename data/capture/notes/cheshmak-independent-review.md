@@ -1,0 +1,3 @@
+# Cheshmak independent review
+
+9.2/10. Sources 1.9, prose 1.9, catalogue 2.8, images 0.9, gaps 1.7. The musicians’ early Nostalgie albums retain their individual billing while the subsequent Local Dish releases, Friendly Rich collaboration and publisher’s Gooshgir performance identify the trio. Independent English and Persian searches checked Abad Art House, the interview versus the performance-only edit, Qame Feraq, the Berlin presenter and the physical single. The source note distinguishes the workshop and southern concert films and the provenance of the group image. Each language renders all 28 panels and 63 decoded images with intact article anchors. English at 1280 pixels and Persian at 390 pixels fit their viewports.

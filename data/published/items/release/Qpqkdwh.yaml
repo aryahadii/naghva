@@ -1,0 +1,90 @@
+id: Qpqkdwh
+type: release
+statements:
+  name:
+  - value:
+      text: Malmö Live 2014
+      language: en
+    references:
+    - source: music.apple.com-us-album-malm-c3-b6-live-2014-1134734634
+      quote: Malmö Live 2014
+      accessed: 2026-11-21
+      locator: Album or track heading
+  listen link:
+  - value: https://music.apple.com/us/album/malm%C3%B6-live-2014/1134734634
+    references:
+    - source: music.apple.com-us-album-malm-c3-b6-live-2014-1134734634
+      quote: Malmö Live 2014
+      accessed: 2026-11-21
+      locator: Album or track heading
+  - value: https://open.spotify.com/album/2oDjQyRWSOTbVcY2s4JarV
+    references:
+    - source: open.spotify.com-album-2odjqyrwsotbvcy2s4jarv
+      quote: Malmö Live 2014
+      accessed: 2026-11-21
+      locator: Spotify release title
+  release date:
+  - value:
+      date: '2016-06-01'
+    references:
+    - source: music.apple.com-us-album-malm-c3-b6-live-2014-1134734634
+      quote: '2016-06-01'
+      accessed: 2026-11-21
+      locator: Digital publication date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music20/v4/f7/33/03/f73303c2-3b4e-1ece-1f5f-2d767c0fae5d/888295454377.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-malm-c3-b6-live-2014-1134734634
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music20/v4/f7/33/03/f73303c2-3b4e-1ece-1f5f-2d767c0fae5d/888295454377.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Native artwork
+  release type:
+  - value: live album
+    references:
+    - source: music.apple.com-us-album-malm-c3-b6-live-2014-1134734634
+      quote: Malmö Live 2014
+      accessed: 2026-11-21
+      locator: Album or track heading
+  performer:
+  - value: Qxyr3j2
+    references:
+    - source: music.apple.com-us-album-malm-c3-b6-live-2014-1134734634
+      quote: Darya Dadvar
+      accessed: 2026-11-21
+      locator: Edition artist
+  - value: Qqjc9cz
+    qualifiers:
+      role:
+      - piano
+    references:
+    - source: www.leilasoldevilarenault.com-discography
+      quote: Jacy Desmond, piano
+      accessed: 2026-11-21
+      locator: Malmö Live 2014 personnel
+  - value: Qw85g82
+    qualifiers:
+      role:
+      - percussion
+    references:
+    - source: www.leilasoldevilarenault.com-discography
+      quote: Steve Shehan, percussion
+      accessed: 2026-11-21
+      locator: Malmö Live 2014 personnel
+  - value: Qkj5x58
+    qualifiers:
+      role:
+      - flute
+    references:
+    - source: www.leilasoldevilarenault.com-discography
+      quote: Susan Mc Cathy, flûte
+      accessed: 2026-11-21
+      locator: Malmö Live 2014 personnel
+  - value: Q27jek5
+    qualifiers:
+      role:
+      - double bass
+    references:
+    - source: www.leilasoldevilarenault.com-discography
+      quote: Leïla Soldevila, double bas
+      accessed: 2026-11-21
+      locator: Malmö Live 2014 personnel

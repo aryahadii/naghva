@@ -1,0 +1,63 @@
+id: Q5vrahs
+type: release
+statements:
+  name:
+  - value:
+      text: Greguería (feat. Siavash Amini & Idlefon)
+      language: en
+    references:
+    - source: music.apple.com-us-song-1518410411
+      quote: ‎Greguería (feat. Siavash Amini & Idlefon) - Song with Lyrics by SaffronKeira - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qjjdrek
+    references:
+    - source: music.apple.com-us-song-1518410411
+      quote: ‎Greguería (feat. Siavash Amini & Idlefon) - Song with Lyrics by SaffronKeira - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Q97bqaq
+    references:
+    - source: music.apple.com-us-song-1518410411
+      quote: Siavash Amini
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Qk8dmc4
+    references:
+    - source: music.apple.com-us-song-1518410411
+      quote: SaffronKeira
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://music.apple.com/us/song/1518410411
+    references:
+    - source: music.apple.com-us-song-1518410411
+      quote: ‎Greguería (feat. Siavash Amini & Idlefon) - Song with Lyrics by SaffronKeira - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/6V3ZWxyanhaz4I4w3nUuix
+    references:
+    - source: open.spotify.com-track-6v3zwxyanhaz4i4w3nuuix
+      quote: Greguería - song and lyrics by SaffronKeira, Siavash Amini, Idlefon | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/ef/15/6d/ef156d3e-6f06-2540-49ee-be50063f417c/4024572875022.jpg/600x600bb.webp
+    references:
+    - source: music.apple.com-us-song-1518410411
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/ef/15/6d/ef156d3e-6f06-2540-49ee-be50063f417c/4024572875022.jpg/600x600bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original publisher artwork
+        language: en
+  release date:
+  - value:
+      date: '2015-11-26'
+    references:
+    - source: music.apple.com-us-song-1518410411
+      quote: November 26, 2015
+      accessed: '2026-11-21'
+      locator: Published date

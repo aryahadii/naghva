@@ -1,0 +1,47 @@
+id: Qmg3bwf
+type: release
+statements:
+  name:
+  - value:
+      text: Az Jense Paeiz
+      language: en
+    references:
+    - source: music.apple.com-us-album-az-jense-paeiz-single-1564757729
+      quote: Az Jense Paeiz
+      accessed: 2026-11-21
+      locator: Edition or recording title
+  performer:
+  - value: Qr4berk
+    references:
+    - source: music.apple.com-us-album-az-jense-paeiz-single-1564757729
+      quote: Bahar Atish
+      accessed: 2026-11-21
+      locator: Digital credits
+  listen link:
+  - value: https://music.apple.com/us/song/az-jense-paeiz/1564757732
+    references:
+    - source: music.apple.com-us-album-az-jense-paeiz-single-1564757729
+      quote: Az Jense Paeiz
+      accessed: 2026-11-21
+      locator: Edition or recording title
+  - value: https://youtu.be/ri6BuS4H0Ok
+    references:
+    - source: youtu.be-ri6bus4h0ok
+      quote: Bahar - Az Jense Paeiz (Original Mix)
+      accessed: 2026-11-21
+      locator: Title and bill on artist’s channel
+  release date:
+  - value:
+      date: '2021-04-25'
+    references:
+    - source: music.apple.com-us-album-az-jense-paeiz-single-1564757729
+      quote: '2021-04-25'
+      accessed: 2026-11-21
+      locator: Digital edition date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/96/35/84/963584ac-95c2-59f3-da8f-5e29e5f6fe74/cover.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-az-jense-paeiz-single-1564757729
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/96/35/84/963584ac-95c2-59f3-da8f-5e29e5f6fe74/cover.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Digital edition artwork

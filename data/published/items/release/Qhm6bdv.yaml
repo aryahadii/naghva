@@ -1,0 +1,81 @@
+id: Qhm6bdv
+type: release
+statements:
+  name:
+  - value:
+      text: Ginestra
+      language: en
+    references:
+    - source: flamingpines.bandcamp.com-album-ginestra
+      quote: Ginestra | Ava Rasti | Flaming Pines
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qks2dfk
+    references:
+    - source: flamingpines.bandcamp.com-album-ginestra
+      quote: Ginestra | Ava Rasti | Flaming Pines
+      accessed: '2026-11-21'
+      locator: Page title
+  release type:
+  - value: album
+    references:
+    - source: flamingpines.bandcamp.com-album-ginestra
+      quote: Ginestra | Ava Rasti | Flaming Pines
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://flamingpines.bandcamp.com/album/ginestra
+    references:
+    - source: flamingpines.bandcamp.com-album-ginestra
+      quote: Ginestra | Ava Rasti | Flaming Pines
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/album/2fAf4lbF5wbsLB1uf7PqgE
+    references:
+    - source: open.spotify.com-album-2faf4lbf5wbslb1uf7pqge
+      quote: Listen to Ginestra - Album by Ava Rasti | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/ginestra/1701483687
+    references:
+    - source: music.apple.com-us-album-ginestra-1701483687
+      quote: ‎Ginestra - Album by Ava Rasti - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  contributor:
+  - value: Qgncp5r
+    references:
+    - source: flamingpines.bandcamp.com-album-ginestra
+      quote: Mastered by Nima Aghiani
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: mastering engineer
+  - value: Q9rnctv
+    references:
+    - source: flamingpines.bandcamp.com-album-ginestra
+      quote: Mixed by Nima Pourkarimi
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: mixing engineer
+  cover art:
+  - value: https://f4.bcbits.com/img/a4254894153_10.jpg
+    references:
+    - source: flamingpines.bandcamp.com-album-ginestra
+      quote: https://f4.bcbits.com/img/a4254894153_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Alberto Papparotto
+        language: en
+  release date:
+  - value:
+      date: '2023-07-28'
+    references:
+    - source: flamingpines.bandcamp.com-album-ginestra
+      quote: released July 28, 2023
+      accessed: '2026-11-21'
+      locator: Published date

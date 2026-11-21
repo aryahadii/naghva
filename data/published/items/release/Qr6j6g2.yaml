@@ -1,0 +1,75 @@
+id: Qr6j6g2
+type: release
+statements:
+  name:
+  - value:
+      text: Hummingbird
+      language: en
+    references:
+    - source: themast.bandcamp.com-album-wild-poppies
+      quote: Hummingbird
+      accessed: 2026-11-21
+      locator: Track listing
+  performer:
+  - value: Qfwn5xw
+    references:
+    - source: themast.bandcamp.com-album-wild-poppies
+      quote: The Mast
+      accessed: 2026-11-21
+      locator: Release artist
+  - value: Qfvcggy
+    qualifiers:
+      role: vocals
+    references:
+    - source: themast.bandcamp.com-album-wild-poppies
+      quote: Haale - vocals and electric guitar
+      accessed: 2026-11-21
+      locator: Group personnel
+  - value: Qa9qz8f
+    qualifiers:
+      role: drums
+    references:
+    - source: themast.bandcamp.com-album-wild-poppies
+      quote: Matt Kilmer - frame drums, djembe, bass drum, floor tom, cymbals
+      accessed: 2026-11-21
+      locator: Group personnel
+  release date:
+  - value:
+      date: '2011-06-21'
+    references:
+    - source: themast.bandcamp.com-album-wild-poppies
+      quote: released June 21, 2011
+      accessed: 2026-11-21
+      locator: Release date
+  cover art:
+  - value: https://f4.bcbits.com/img/a0701737205_2.jpg
+    references:
+    - source: themast.bandcamp.com-album-wild-poppies
+      quote: Wild Poppies
+      accessed: 2026-11-21
+      locator: Release heading
+  listen link:
+  - value: https://themast.bandcamp.com/track/hummingbird
+    references:
+    - source: themast.bandcamp.com-album-wild-poppies
+      quote: Hummingbird
+      accessed: 2026-11-21
+      locator: Track listing
+  - value: https://open.spotify.com/track/1gh2PBrozFFx6TfmqVJig3
+    references:
+    - source: open.spotify.com-album-1fszue8hhtpb6x5ydilyib
+      quote: Hummingbird
+      accessed: 2026-11-21
+      locator: Track 8
+  - value: https://music.apple.com/us/song/hummingbird/438328686
+    references:
+    - source: music.apple.com-us-album-wild-poppies-438328557
+      quote: Hummingbird
+      accessed: 2026-11-21
+      locator: Track 8
+  - value: https://www.youtube.com/watch?v=tgRt5y0zuBM
+    references:
+    - source: youtu.be-tgrt5y0zubm
+      quote: The Mast - Hummingbird (HalehLiza & Matt Kilmer)
+      accessed: 2026-11-21
+      locator: Publisher video title

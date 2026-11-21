@@ -1,0 +1,63 @@
+id: Qy9yq97
+type: release
+statements:
+  name:
+  - value:
+      text: Halgheh
+      language: en
+    references:
+    - source: music.apple.com-us-album-mehr-275174365
+      quote: Halgheh
+      accessed: '2026-11-21'
+      locator: Release and track listing
+  performer:
+  - value: Qjwhj2t
+    references:
+    - source: music.apple.com-us-album-mehr-275174365
+      quote: Pouya Mahmoodi
+      accessed: '2026-11-21'
+      locator: Artist billing
+  listen link:
+  - value: https://music.apple.com/us/song/halgheh/275174444
+    references:
+    - source: music.apple.com-us-album-mehr-275174365
+      quote: https://music.apple.com/us/song/halgheh/275174444
+      accessed: '2026-11-21'
+      locator: Distributor permalink
+  - value: https://open.spotify.com/track/5N2u79Q12eJFrWryWk9lEq
+    references:
+    - source: open.spotify.com-embed-album-1vkhwhksoafdons5mhxmgt
+      quote: spotify:track:5N2u79Q12eJFrWryWk9lEq
+      accessed: '2026-11-21'
+      locator: Original Spotify tracklist
+  - value: https://soundcloud.com/pouyamahmoodi/halgheh
+    references:
+    - source: soundcloud.com-pouyamahmoodi-halgheh
+      quote: Stream Halgheh by Pouya Mahmoodi | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Named SoundCloud recording
+  - value: https://www.youtube.com/watch?v=PnHC2Tqoey8
+    references:
+    - source: www.youtube.com-watch-v-pnhc2tqoey8
+      quote: Pouya Mahmoodi - Halgheh
+      accessed: '2026-11-21'
+      locator: Label upload title
+  release date:
+  - value:
+      date: '2008-02-19'
+    references:
+    - source: music.apple.com-us-album-mehr-275174365
+      quote: '2008-02-19'
+      accessed: '2026-11-21'
+      locator: Original issue date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music/31/05/9f/mzi.crkpqkxn.jpg/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Distributor artwork via Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-mehr-275174365
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music/31/05/9f/mzi.crkpqkxn.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Digital cover artwork

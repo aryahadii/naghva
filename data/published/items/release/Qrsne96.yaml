@@ -1,0 +1,55 @@
+id: Qrsne96
+type: release
+statements:
+  name:
+  - value:
+      text: اولین آهنگ کنسرت طنز بابک رجبی در اصفهان
+      language: fa
+    references:
+    - source: www.youtube.com-watchv-hhcmvqad-1g
+      quote: اولین آهنگ کنسرت طنز بابک رجبی در اصفهان
+      accessed: '2026-11-21'
+      locator: Official upload title
+  performer:
+  - value: Qzhgpkw
+    references:
+    - source: www.youtube.com-watchv-hhcmvqad-1g
+      quote: اولین آهنگ کنسرت طنز بابک رجبی در اصفهان
+      accessed: '2026-11-21'
+      locator: Official upload title
+    - source: www.youtube.com-watchv-hhcmvqad-1g
+      quote: Babak Rajabi
+      accessed: '2026-11-21'
+      locator: Uploading artist
+  listen link:
+  - value: https://www.youtube.com/watch?v=HhCMvqAd-1g
+    references:
+    - source: www.youtube.com-watchv-hhcmvqad-1g
+      quote: اولین آهنگ کنسرت طنز بابک رجبی در اصفهان
+      accessed: '2026-11-21'
+      locator: Official upload title
+  - value: https://t.me/babakrajabii/568
+    references:
+    - source: t.me-babakrajabii-568
+      quote: مردمِ پاکار
+      accessed: '2026-11-21'
+      locator: Native upload caption identifying the recording
+  release date:
+  - value:
+      date: '2022-07-13'
+    references:
+    - source: www.youtube.com-watchv-hhcmvqad-1g
+      quote: '20220713'
+      accessed: '2026-11-21'
+      locator: Video publication date, YYYYMMDD
+  cover art:
+  - value: https://i.ytimg.com/vi/HhCMvqAd-1g/maxresdefault.jpg
+    references:
+    - source: www.youtube.com-watchv-hhcmvqad-1g
+      quote: https://i.ytimg.com/vi/HhCMvqAd-1g/maxresdefault.jpg
+      accessed: '2026-11-21'
+      locator: Release image URL
+    qualifiers:
+      credit:
+        text: Babak Rajabi · YouTube
+        language: en

@@ -1,0 +1,81 @@
+id: Qwdhap5
+type: release
+statements:
+  name:
+  - value:
+      text: Şin
+      language: en
+    references:
+    - source: music.apple.com-us-song-1831440077
+      quote: ‎Şin - Song with Lyrics by Rouzbeh Esfand, Feria Arianejad & Ebrahim Alavi - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qzchcs8
+    references:
+    - source: music.apple.com-us-song-1831440077
+      quote: ‎Şin - Song with Lyrics by Rouzbeh Esfand, Feria Arianejad & Ebrahim Alavi - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qnp4bmk
+    references:
+    - source: music.apple.com-us-album-c5-9fin-1831440076
+      quote: Feria Arianejad
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Qwhz4b2
+    references:
+    - source: music.apple.com-us-album-c5-9fin-1831440076
+      quote: Ebrahim Alavi
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://music.apple.com/us/song/1831440077
+    references:
+    - source: music.apple.com-us-song-1831440077
+      quote: ‎Şin - Song with Lyrics by Rouzbeh Esfand, Feria Arianejad & Ebrahim Alavi - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/%C5%9Fin/1831440076
+    references:
+    - source: music.apple.com-us-album-c5-9fin-1831440076
+      quote: ‎Şin - Single - Album by Rouzbeh Esfand, Feria Arianejad & Ebrahim Alavi - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/album/64GlFgCTORxA4soGwoXTQO
+    references:
+    - source: open.spotify.com-album-64glfgctorxa4sogwoxtqo
+      quote: Listen to Şin - Single by Rouzbeh Esfand | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/5dFZLkYJckp28vr3ywpIyq
+    references:
+    - source: open.spotify.com-track-5dfzlkyjckp28vr3ywpiyq
+      quote: Şin - song and lyrics by Rouzbeh Esfand, Feria Arianejad, Ebrahim Alavi | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/rouzbeh-esfandarmaz/sin
+    references:
+    - source: soundcloud.com-rouzbeh-esfandarmaz-sin
+      quote: Stream Şîn (شین) by Rouzbeh Esfand | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2019-10-15'
+    references:
+    - source: music.apple.com-us-song-1831440077
+      quote: October 15, 2019
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2c/b2/c2/2cb2c238-cd0b-7205-ede8-b133a557ea18/7300345594114.jpg/600x600bb.webp
+    references:
+    - source: music.apple.com-us-song-1831440077
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2c/b2/c2/2cb2c238-cd0b-7205-ede8-b133a557ea18/7300345594114.jpg/600x600bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original publisher artwork
+        language: en

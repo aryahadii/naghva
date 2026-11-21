@@ -1,0 +1,96 @@
+id: Qyj4nqh
+type: release
+statements:
+  name:
+  - value:
+      text: Leyla Dar Vakon
+      language: en
+    references:
+    - source: badieh.bandcamp.com-track-leyla-dar-vakon
+      quote: Leyla Dar Vakon | Badieh
+      accessed: '2026-11-21'
+      locator: Bandcamp original track
+  performer:
+  - value: Qndvgwn
+    references:
+    - source: badieh.bandcamp.com-track-leyla-dar-vakon
+      quote: Leyla Dar Vakon | Badieh
+      accessed: '2026-11-21'
+      locator: Bandcamp original track
+  - value: Q8prmeq
+    qualifiers:
+      role: tombak
+    references:
+    - source: badieh.bandcamp.com-album-badieh
+      quote: Arash Asadi - Tombak on tracks 2 and 6
+      accessed: '2026-11-21'
+      locator: Record personnel and track assignments
+  contributor:
+  - value: Q9sx4z9
+    qualifiers:
+      role: arranger
+    references:
+    - source: badieh.bandcamp.com-album-badieh
+      quote: Arrangments by Michel Gasco and Mohammad Miraghazadeh
+      accessed: '2026-11-21'
+      locator: Group arrangers
+  - value: Q2dapj7
+    qualifiers:
+      role: arranger
+    references:
+    - source: badieh.bandcamp.com-album-badieh
+      quote: Arrangments by Michel Gasco and Mohammad Miraghazadeh
+      accessed: '2026-11-21'
+      locator: Group arrangers
+  listen link:
+  - value: https://badieh.bandcamp.com/track/leyla-dar-vakon
+    references:
+    - source: badieh.bandcamp.com-track-leyla-dar-vakon
+      quote: Leyla Dar Vakon | Badieh
+      accessed: '2026-11-21'
+      locator: Bandcamp original track
+  - value: https://open.spotify.com/track/3Sy9HTe7WaAZutrd9EZCJh
+    references:
+    - source: open.spotify.com-album-7cwnrpkma0ojnc78o4ohuw
+      quote: Leyla Dar Vakon
+      accessed: '2026-11-21'
+      locator: Spotify track 2
+  - value: https://music.apple.com/us/song/leyla-dar-vakon/1573736423
+    references:
+    - source: music.apple.com-us-album-badieh-ep-1573736418
+      quote: Leyla Dar Vakon
+      accessed: '2026-11-21'
+      locator: Apple Music track 2
+  - value: https://www.youtube.com/watch?v=BgsZIRFk81U
+    references:
+    - source: www.youtube.com-watch-v-bgszirfk81u
+      quote: Badieh - Leyla Dar Vakon (official video)
+      accessed: '2026-11-21'
+      locator: Native YouTube video title
+    - source: www.youtube.com-watch-v-bgszirfk81u
+      quote: Worlds Within Worlds
+      accessed: '2026-11-21'
+      locator: Publisher channel
+  release date:
+  - value:
+      date: '2021-08-08'
+    references:
+    - source: badieh.bandcamp.com-album-badieh
+      quote: released August 8, 2021
+      accessed: '2026-11-21'
+      locator: Original Bandcamp release
+  cover art:
+  - value: https://f4.bcbits.com/img/a1826543000_10.jpg
+    qualifiers:
+      credit:
+        text: a painting by Iranian artist Samira Toosi
+        language: en
+    references:
+    - source: badieh.bandcamp.com-album-badieh
+      quote: https://f4.bcbits.com/img/a1826543000_10.jpg
+      accessed: '2026-11-21'
+      locator: Original cover artwork
+    - source: badieh.bandcamp.com-album-badieh
+      quote: 'Artwork: a painting by Iranian artist Samira Toosi'
+      accessed: '2026-11-21'
+      locator: Cover art credit

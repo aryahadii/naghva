@@ -1,0 +1,57 @@
+id: Q69g6k7
+type: release
+statements:
+  name:
+  - value:
+      text: SPIN
+      language: en
+    references:
+    - source: flamingpines.bandcamp.com-track-spin
+      quote: SPIN
+      accessed: '2026-11-21'
+      locator: Recording heading
+  performer:
+  - value: Qyt2364
+    references:
+    - source: flamingpines.bandcamp.com-track-spin
+      quote: SPIN | Hadi Bastani | Flaming Pines
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://flamingpines.bandcamp.com/track/spin
+    references:
+    - source: flamingpines.bandcamp.com-track-spin
+      quote: SPIN | Hadi Bastani | Flaming Pines
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/spin/1527077653
+    references:
+    - source: music.apple.com-us-song-spin-1527077653
+      quote: ‎Spin - Song with Lyrics by Hadi Bastani - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/7qp6YCC0NO9YT5cvn9yk6M
+    references:
+    - source: open.spotify.com-track-7qp6ycc0no9yt5cvn9yk6m
+      quote: Spin - song and lyrics by Hadi Bastani | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a3000533728_10.jpg
+    references:
+    - source: flamingpines.bandcamp.com-track-spin
+      quote: https://f4.bcbits.com/img/a3000533728_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Bandcamp · Flaming Pines
+        language: en
+  release date:
+  - value:
+      date: '2020-06-05'
+    references:
+    - source: flamingpines.bandcamp.com-track-spin
+      quote: released June 5, 2020
+      accessed: '2026-11-21'
+      locator: Published date

@@ -1,0 +1,32 @@
+id: Qd464g2
+type: release
+statements:
+  name:
+  - value:
+      text: Shen Band - (نسخه کوتاه)  گروه شن - نه نه نه
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-zkmssyayfkm
+      quote: Shen Band - (نسخه کوتاه)  گروه شن - نه نه نه
+      accessed: '2026-11-21'
+      locator: Artist-published video
+  performer:
+  - value: Qavhs3y
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/ZKmsSYAYFkM/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-zkmssyayfkm
+      quote: https://i.ytimg.com/vi/ZKmsSYAYFkM/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original channel photo
+    qualifiers:
+      credit:
+        text: Shen Band, original YouTube film
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=ZKmsSYAYFkM
+    references:
+    - *id001

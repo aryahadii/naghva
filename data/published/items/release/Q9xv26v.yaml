@@ -1,0 +1,51 @@
+id: Q9xv26v
+type: release
+statements:
+  name:
+  - value:
+      text: Magic
+      language: en
+    references:
+    - source: soundcloud.com-meshcut-magic
+      quote: Stream Magic by Meshcut | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qh6s4f5
+    references:
+    - source: soundcloud.com-meshcut-magic
+      quote: Stream Magic by Meshcut | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://soundcloud.com/meshcut/magic
+    references:
+    - source: soundcloud.com-meshcut-magic
+      quote: Stream Magic by Meshcut | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://www.youtube.com/watch?v=delpajwfbYc
+    references:
+    - source: www.youtube.com-watch-v-delpajwfbyc
+      quote: Magic
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-000257993087-75gw63-t500x500.jpg
+    references:
+    - source: soundcloud.com-meshcut-magic
+      quote: https://i1.sndcdn.com/artworks-000257993087-75gw63-t500x500.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original recording artwork
+        language: en
+  release date:
+  - value:
+      date: '2017-11-18'
+    references:
+    - source: soundcloud.com-meshcut-magic
+      quote: '2017-11-18T08:27:17Z'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits

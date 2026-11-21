@@ -1,0 +1,69 @@
+id: Qvgf2sp
+type: release
+statements:
+  name:
+  - value:
+      text: زَهازْ
+      language: fa
+    references:
+    - source: lowzirecords.bandcamp.com-track---2
+      quote: زَهازْ | Taraamoon | Low-Zi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qw4rq4q
+    references:
+    - source: lowzirecords.bandcamp.com-track---2
+      quote: Taraamoon
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  release date:
+  - value:
+      date: '2020-07-17'
+    references:
+    - source: lowzirecords.bandcamp.com-track---2
+      quote: released July 17, 2020
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a2669526183_10.jpg
+    references:
+    - source: lowzirecords.bandcamp.com-track---2
+      quote: https://f4.bcbits.com/img/a2669526183_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Low-Zi Records
+        language: en
+  listen link:
+  - value: https://lowzirecords.bandcamp.com/track/--2
+    references:
+    - source: lowzirecords.bandcamp.com-track---2
+      quote: زَهازْ | Taraamoon | Low-Zi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1522680074
+    references:
+    - source: music.apple.com-us-song-1522680074
+      quote: ‎زَهاز - Song with Lyrics by Taraamoon - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/%D8%B2-%D9%87%D8%A7%D8%B2/1522680072
+    references:
+    - source: music.apple.com-us-album-d8-b2--d9-87-d8-a7-d8-b2-1522680072
+      quote: ‎زَهاز - Single - Album by Taraamoon - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/taraamoon/zahaz
+    references:
+    - source: soundcloud.com-taraamoon-zahaz
+      quote: Stream Zahāz | زَهازْ by TARAAMOON • ْتَرامون | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://t.me/Taraamoon/22
+    references:
+    - source: t.me-taraamoon-22
+      quote: 'Telegram: View @Taraamoon'
+      accessed: '2026-11-21'
+      locator: Page title

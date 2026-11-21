@@ -1,0 +1,63 @@
+id: Qnmt5wp
+type: release
+statements:
+  name:
+  - value:
+      text: Equilibrium
+      language: en
+    references:
+    - source: kopirecs.bandcamp.com-track-equilibrium
+      quote: Equilibrium | ArtSaves | Kopi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qw9zs9g
+    references:
+    - source: kopirecs.bandcamp.com-album-seuil
+      quote: ArtSaves
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://kopirecs.bandcamp.com/track/equilibrium
+    references:
+    - source: kopirecs.bandcamp.com-track-equilibrium
+      quote: Equilibrium | ArtSaves | Kopi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1203765123
+    references:
+    - source: music.apple.com-us-song-1203765123
+      quote: ‎Equilibrium - Song with Lyrics by ArtSaves - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/4fQkwcYU0xXs9rpVgUM3Kl
+    references:
+    - source: open.spotify.com-track-4fqkwcyu0xxs9rpvgum3kl
+      quote: Equilibrium - song and lyrics by ArtSaves | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/artsvs/equilibrium
+    references:
+    - source: soundcloud.com-artsvs-equilibrium
+      quote: Stream Equilibrium by ArtSaves | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a0203714075_10.jpg
+    references:
+    - source: kopirecs.bandcamp.com-track-equilibrium
+      quote: https://f4.bcbits.com/img/a0203714075_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Saina Heshmati and Arash Mollakarimi
+        language: en
+  release date:
+  - value:
+      date: '2016-03-22'
+    references:
+    - source: kopirecs.bandcamp.com-track-equilibrium
+      quote: released March 22, 2016
+      accessed: '2026-11-21'
+      locator: Published date

@@ -1,0 +1,73 @@
+id: Q5qv3bh
+type: release
+statements:
+  name:
+  - value:
+      text: Rangin-Kamaanhaayeh Sepid O Siyaah
+      language: en
+    references:
+    - source: music.apple.com-us-album-naamareehaa-the-invisible-s-1529196430
+      quote: Rangin-Kamaanhaayeh Sepid O Siyaah
+      accessed: '2026-11-21'
+      locator: Digital edition track 4
+  release date:
+  - value:
+      date: '2010'
+    references:
+    - source: musishen.com
+      quote: '2010'
+      accessed: '2026-11-21'
+      locator: 'Artist discography, Naamareehaa: The Invisible(S)'
+  performer:
+  - value: Qavhs3y
+    references:
+    - source: music.apple.com-us-album-naamareehaa-the-invisible-s-1529196430
+      quote: Shen Band
+      accessed: '2026-11-21'
+      locator: Release billing
+  - value: Qec6smv
+    references:
+    - &id001
+      source: musishen.com
+      quote: write, compose, arrange, perform and produce seven collections
+      accessed: '2026-11-21'
+      locator: Artist biography, dated catalogue or interview
+  contributor:
+  - value: Qec6smv
+    references:
+    - *id001
+    qualifiers:
+      role:
+      - composer
+      - arranger
+      - producer
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/2b/93/98/2b93985f-a93c-1942-1d16-a6899423ac46/195448263169.jpg/1200x630wp-60.jpg
+    references:
+    - source: music.apple.com-us-album-naamareehaa-the-invisible-s-1529196430
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/2b/93/98/2b93985f-a93c-1942-1d16-a6899423ac46/195448263169.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Original release cover
+    qualifiers:
+      credit:
+        text: Shen Band, Apple Music edition artwork
+        language: en
+  listen link:
+  - value: https://music.apple.com/us/song/rangin-kamaanhaayeh-sepid-o-siyaah/1529196434
+    references:
+    - source: music.apple.com-us-album-naamareehaa-the-invisible-s-1529196430
+      quote: https://music.apple.com/us/song/rangin-kamaanhaayeh-sepid-o-siyaah/1529196434
+      accessed: '2026-11-21'
+      locator: Apple Music exact song
+  - value: https://open.spotify.com/track/3uLwGnKBP97QrLg69rLPRd
+    references:
+    - source: open.spotify.com-embed-album-2ddpjzergwd0tdiyexpwn9
+      quote: spotify:track:3uLwGnKBP97QrLg69rLPRd
+      accessed: '2026-11-21'
+      locator: Spotify exact song
+  - value: https://www.youtube.com/watch?v=tjNnASg_En0
+    references:
+    - source: www.youtube.com-playlist-list-olak5uy_lyegkbvw7hk0lvxk1f8phuo7bzrqkdsbm
+      quote: tjNnASg_En0
+      accessed: '2026-11-21'
+      locator: Official album track 4

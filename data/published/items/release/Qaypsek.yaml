@@ -1,0 +1,64 @@
+id: Qaypsek
+type: release
+statements:
+  name:
+  - value:
+      text: SEUIL Remixes
+      language: en
+    references:
+    - source: kopirecs.bandcamp.com-album-seuil-remixes
+      quote: SEUIL Remixes | ArtSaves | Kopi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qw9zs9g
+    references:
+    - source: kopirecs.bandcamp.com-album-seuil-remixes
+      quote: ArtSaves
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  release type:
+  - value: album
+    references:
+    - source: kopirecs.bandcamp.com-album-seuil-remixes
+      quote: SEUIL Remixes | ArtSaves | Kopi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://kopirecs.bandcamp.com/album/seuil-remixes
+    references:
+    - source: kopirecs.bandcamp.com-album-seuil-remixes
+      quote: SEUIL Remixes | ArtSaves | Kopi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/seuil-remixes/1266163491
+    references:
+    - source: music.apple.com-us-album-seuil-remixes-1266163491
+      quote: ‎Seuil Remixes - Album by ArtSaves - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/album/4wOnljZ70IllW5VB9D7Tng
+    references:
+    - source: open.spotify.com-album-4wonljz70illw5vb9d7tng
+      quote: Listen to Seuil Remixes - Album by ArtSaves | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a3260999261_10.jpg
+    references:
+    - source: kopirecs.bandcamp.com-album-seuil-remixes
+      quote: https://f4.bcbits.com/img/a3260999261_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Saina Heshmati, Amir Amini and Parnian Ghorbani
+        language: en
+  release date:
+  - value:
+      date: '2017-07-30'
+    references:
+    - source: kopirecs.bandcamp.com-album-seuil-remixes
+      quote: released July 30, 2017
+      accessed: '2026-11-21'
+      locator: Published date

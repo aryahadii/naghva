@@ -1,0 +1,64 @@
+id: Qmcxdkm
+type: release
+statements:
+  name:
+  - value:
+      text: Suffocation
+      language: en
+    references:
+    - source: music.apple.com-us-album-suffocation-single-1696979871
+      quote: Suffocation - Single
+      accessed: '2026-11-21'
+      locator: Official digital issue
+  performer:
+  - value: Qvfz6ey
+    references:
+    - source: music.apple.com-us-album-suffocation-single-1696979871
+      quote: Suffocation - Single
+      accessed: '2026-11-21'
+      locator: Official digital issue
+  listen link:
+  - value: https://music.apple.com/us/album/suffocation-single/1696979871
+    references:
+    - source: music.apple.com-us-album-suffocation-single-1696979871
+      quote: Suffocation - Single
+      accessed: '2026-11-21'
+      locator: Official digital issue
+  - value: https://music.apple.com/us/song/suffocation/1696979929
+    references:
+    - source: music.apple.com-us-album-suffocation-single-1696979871
+      quote: https://music.apple.com/us/song/suffocation/1696979929
+      accessed: '2026-11-21'
+      locator: Unique Apple song URL
+  - value: https://soundcloud.com/themuckers/suffocation
+    references:
+    - source: soundcloud.com-themuckers-suffocation
+      quote: Suffocation
+      accessed: '2026-11-21'
+      locator: SoundCloud track
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-suffocation-single-1696979871
+      quote: Suffocation - Single
+      accessed: '2026-11-21'
+      locator: Official digital issue
+  release date:
+  - value:
+      date: '2023-08-09'
+    references:
+    - source: music.apple.com-us-album-suffocation-single-1696979871
+      quote: '2023-08-09'
+      accessed: '2026-11-21'
+      locator: Original release or upload date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/05/bd/74/05bd748c-2e0a-a5b0-ab0c-ed418d7b1c61/197189320910.jpg/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: The Muckers on Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-suffocation-single-1696979871
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/05/bd/74/05bd748c-2e0a-a5b0-ab0c-ed418d7b1c61/197189320910.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Original cover

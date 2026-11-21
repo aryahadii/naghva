@@ -1,0 +1,44 @@
+id: Qbpprwy
+type: release
+statements:
+  name:
+  - value:
+      text: Koutah
+      language: en
+    references:
+    - source: tombaknetwork.z19.web.core.windows.net-artists-khavar_zamani_pedram.htm
+      quote: Koutah
+      accessed: '2026-11-21'
+      locator: Historical discography
+  release type:
+  - value: album
+    references:
+    - source: tombaknetwork.z19.web.core.windows.net-artists-khavar_zamani_pedram.htm
+      quote: Koutah
+      accessed: '2026-11-21'
+      locator: Historical discography
+  performer:
+  - value: Q5rnjaz
+    qualifiers:
+      role: tombak
+    references:
+    - source: tombaknetwork.z19.web.core.windows.net-artists-khavar_zamani_pedram.htm
+      quote: Koutah
+      accessed: '2026-11-21'
+      locator: Historical discography
+  - value: Qhan5xv
+    qualifiers:
+      role: tombak
+    references:
+    - source: labyrinthmusic.gr-en-pedram-khavarzamini
+      quote: the percussionist Hamid Ghambary
+      accessed: '2026-11-21'
+      locator: Koutah collaborator
+  release date:
+  - value:
+      date: '1999'
+    references:
+    - source: tombaknetwork.z19.web.core.windows.net-artists-khavar_zamani_pedram.htm
+      quote: '1999'
+      accessed: '2026-11-21'
+      locator: Original discography release year

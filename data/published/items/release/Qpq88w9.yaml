@@ -1,0 +1,47 @@
+id: Qpq88w9
+type: release
+statements:
+  name:
+  - value:
+      text: Sarzamine Man
+      language: en
+    references:
+    - source: music.apple.com-us-album-toronto-live-2008-334005768
+      quote: Sarzamine Man
+      accessed: 2026-11-21
+      locator: Album or track heading
+  listen link:
+  - value: https://music.apple.com/us/song/sarzamine-man/334006663
+    references:
+    - source: music.apple.com-us-album-toronto-live-2008-334005768
+      quote: Sarzamine Man
+      accessed: 2026-11-21
+      locator: Album or track heading
+  - value: https://open.spotify.com/track/365jVDUTjmZicBp26AzYMi
+    references:
+    - source: open.spotify.com-album-0he7puui1meymh5g0uht1v
+      quote: Sarzamine Man
+      accessed: 2026-11-21
+      locator: Native recording title
+  release date:
+  - value:
+      date: '2008-01-01'
+    references:
+    - source: music.apple.com-us-album-toronto-live-2008-334005768
+      quote: '2008-01-01'
+      accessed: 2026-11-21
+      locator: Digital publication date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music/95/3d/09/mzi.ftesvnib.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-toronto-live-2008-334005768
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music/95/3d/09/mzi.ftesvnib.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Native artwork
+  performer:
+  - value: Qxyr3j2
+    references:
+    - source: music.apple.com-us-album-toronto-live-2008-334005768
+      quote: Darya Dadvar
+      accessed: 2026-11-21
+      locator: Edition artist

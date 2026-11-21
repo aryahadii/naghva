@@ -1,0 +1,63 @@
+id: Qwd6nvj
+type: release
+statements:
+  name:
+  - value:
+      text: Galaxia
+      language: en
+    references:
+    - source: kopirecs.bandcamp.com-track-galaxia
+      quote: Galaxia | ArtSaves | Kopi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qw9zs9g
+    references:
+    - source: kopirecs.bandcamp.com-album-seuil
+      quote: ArtSaves
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://kopirecs.bandcamp.com/track/galaxia
+    references:
+    - source: kopirecs.bandcamp.com-track-galaxia
+      quote: Galaxia | ArtSaves | Kopi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1203765129
+    references:
+    - source: music.apple.com-us-song-1203765129
+      quote: ‎Galaxia - Song with Lyrics by ArtSaves - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/0RJDoSFSPdiMJIVMu6Gcmf
+    references:
+    - source: open.spotify.com-track-0rjdosfspdimjivmu6gcmf
+      quote: Galaxia - song and lyrics by ArtSaves | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/artsvs/galaxia
+    references:
+    - source: soundcloud.com-artsvs-galaxia
+      quote: Stream Galaxia by ArtSaves | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a0203714075_10.jpg
+    references:
+    - source: kopirecs.bandcamp.com-track-galaxia
+      quote: https://f4.bcbits.com/img/a0203714075_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Saina Heshmati and Arash Mollakarimi
+        language: en
+  release date:
+  - value:
+      date: '2016-03-22'
+    references:
+    - source: kopirecs.bandcamp.com-track-galaxia
+      quote: released March 22, 2016
+      accessed: '2026-11-21'
+      locator: Published date

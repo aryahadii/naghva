@@ -1,0 +1,65 @@
+id: Qhne4rn
+type: release
+statements:
+  name:
+  - value:
+      text: Hamin Lahzeh
+      language: en
+    references:
+    - source: music.apple.com-us-album-hamin-lahzeh-1164397044
+      quote: Hamin Lahzeh
+      accessed: '2026-11-21'
+      locator: Exact Apple track listing
+  - value:
+      text: همین لحظه
+      language: fa
+    references:
+    - source: soundcloud.com-eendomusic-eendo-hamin-lahzeh
+      quote: همین لحظه
+      accessed: '2026-11-21'
+      locator: Artist’s Persian title
+  performer:
+  - value: Qnbrhrh
+    references:
+    - source: music.apple.com-us-album-hamin-lahzeh-1164397044
+      quote: Eendo
+      accessed: '2026-11-21'
+      locator: Recording/featured artist
+  listen link:
+  - value: https://music.apple.com/us/song/hamin-lahzeh/1164397132
+    references:
+    - source: music.apple.com-us-album-hamin-lahzeh-1164397044
+      quote: https://music.apple.com/us/song/hamin-lahzeh/1164397132
+      accessed: '2026-11-21'
+      locator: Apple track link
+  - value: https://open.spotify.com/track/3ybnusIkI5PrnCqStAY9eX
+    references:
+    - source: open.spotify.com-embed-album-0cprjnxrkraurwpdysfdyf
+      quote: spotify:track:3ybnusIkI5PrnCqStAY9eX
+      accessed: '2026-11-21'
+      locator: Spotify track URI
+  - value: https://soundcloud.com/eendomusic/eendo-hamin-lahzeh
+    references:
+    - source: soundcloud.com-eendomusic-eendo-hamin-lahzeh
+      quote: Stream Hamin Lahzeh  |  همین لحظه by Eendo | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Original duo SoundCloud recording
+  release date:
+  - value:
+      date: '2016-11-12'
+    references:
+    - source: music.apple.com-us-album-hamin-lahzeh-1164397044
+      quote: '2016-11-12'
+      accessed: '2026-11-21'
+      locator: Digital release date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c9/87/18/c987183c-ead2-b61c-7762-383b14a3750b/190394546564.jpg/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Digital release via Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-hamin-lahzeh-1164397044
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c9/87/18/c987183c-ead2-b61c-7762-383b14a3750b/190394546564.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Label artwork

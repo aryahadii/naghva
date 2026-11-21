@@ -1,0 +1,63 @@
+id: Q47xhj9
+type: release
+statements:
+  listen link:
+  - value: https://sinasalimi.bandcamp.com/track/a-song-on-the-horizon
+    references:
+    - source: sinasalimi.bandcamp.com-track-a-song-on-the-horizon
+      quote: A Song on the Horizon | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/a-song-on-the-horizon/1889276992
+    references:
+    - source: music.apple.com-us-song-a-song-on-the-horizon-1889276992
+      quote: ‎A Song on the Horizon - Song with Lyrics by Sina Salimi - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/4ByqVo6Luv5r3QuwNmvQDz
+    references:
+    - source: open.spotify.com-track-4byqvo6luv5r3quwnmvqdz
+      quote: A Song on the Horizon - song and lyrics by Sina Salimi | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/sinasalimi/a-song-on-the-horizon
+    references:
+    - source: soundcloud.com-sinasalimi-a-song-on-the-horizon
+      quote: Stream A Song on the Horizon by Sina  Salimi | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  name:
+  - value:
+      text: A Song on the Horizon
+      language: en
+    references:
+    - source: sinasalimi.bandcamp.com-track-a-song-on-the-horizon
+      quote: A Song on the Horizon
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  performer:
+  - value: Qt5sbqz
+    references:
+    - source: sinasalimi.bandcamp.com-track-a-song-on-the-horizon
+      quote: A Song on the Horizon | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2026-03-20'
+    references:
+    - source: sinasalimi.bandcamp.com-album-travellers-musicians-and-other-stories
+      quote: released March 20, 2026
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a2498350153_10.jpg
+    references:
+    - source: sinasalimi.bandcamp.com-track-a-song-on-the-horizon
+      quote: https://f4.bcbits.com/img/a2498350153_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Pegah Mian
+        language: en

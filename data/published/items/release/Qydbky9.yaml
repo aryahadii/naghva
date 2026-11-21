@@ -1,0 +1,45 @@
+id: Qydbky9
+type: release
+statements:
+  name:
+  - value:
+      text: Destroy All The Feelings
+      language: en
+    references:
+    - source: mediaartscommittee.bandcamp.com-track-destroy-all-the-feelings
+      quote: Destroy All The Feelings
+      accessed: '2026-11-21'
+      locator: Recording title
+  performer:
+  - value: Q6zbcxw
+    references:
+    - source: mediaartscommittee.bandcamp.com-track-destroy-all-the-feelings
+      quote: Destroy All The Feelings | Maryam Sirvan | mediaartscommittee
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://mediaartscommittee.bandcamp.com/track/destroy-all-the-feelings
+    references:
+    - source: mediaartscommittee.bandcamp.com-track-destroy-all-the-feelings
+      quote: Destroy All The Feelings | Maryam Sirvan | mediaartscommittee
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2024-07-10'
+    references:
+    - source: mediaartscommittee.bandcamp.com-track-destroy-all-the-feelings
+      quote: released July 10, 2024
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a4012540262_10.jpg
+    references:
+    - source: mediaartscommittee.bandcamp.com-track-destroy-all-the-feelings
+      quote: https://f4.bcbits.com/img/a4012540262_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Bandcamp · Media Arts Committee
+        language: en

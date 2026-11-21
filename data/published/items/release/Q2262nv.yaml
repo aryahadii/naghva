@@ -1,0 +1,60 @@
+id: Q2262nv
+type: release
+statements:
+  name:
+  - value:
+      text: زبان نگاه
+      language: fa
+    references:
+    - source: t.me-kiyarashdavoudi-4
+      quote: 'بخشی از تصنیف" زبان نگاه " بر روی شعری از حضرت سایه آواز:منصور جمعه زاده سنتور:کیارش داودی تمبک:علی مظفری ضبط '
+      accessed: '2026-11-21'
+      locator: Artist caption and performance context
+  performer:
+  - value: Qyrsg2f
+    qualifiers:
+      role: santur
+    references:
+    - source: t.me-kiyarashdavoudi-4
+      quote: 'بخشی از تصنیف" زبان نگاه " بر روی شعری از حضرت سایه آواز:منصور جمعه زاده سنتور:کیارش داودی تمبک:علی مظفری ضبط '
+      accessed: '2026-11-21'
+      locator: Artist caption and performance context
+    - source: t.me-kiyarashdavoudi-4
+      quote: کیارش داودی | KiyarashDavoudi
+      accessed: '2026-11-21'
+      locator: Artist publishing channel
+  - value: Qwq89ny
+    qualifiers:
+      role: vocals
+    references:
+    - source: t.me-kiyarashdavoudi-4
+      quote: بخشی از تصنیف" زبان نگاه " بر روی شعری از حضرت سایه آواز:منصور جمعه زاده سنتور:کیارش داودی تمبک:علی مظفری ضبط در استدیو سروش @kiyarash_davoudi
+      accessed: '2026-11-21'
+      locator: Performer lineup
+  - value: Qskdqe8
+    qualifiers:
+      role: tombak
+    references:
+    - source: t.me-kiyarashdavoudi-4
+      quote: بخشی از تصنیف" زبان نگاه " بر روی شعری از حضرت سایه آواز:منصور جمعه زاده سنتور:کیارش داودی تمبک:علی مظفری ضبط در استدیو سروش @kiyarash_davoudi
+      accessed: '2026-11-21'
+      locator: Performer lineup
+  listen link:
+  - value: https://t.me/kiyarashdavoudi/4
+    references:
+    - source: t.me-kiyarashdavoudi-4
+      quote: 'بخشی از تصنیف" زبان نگاه " بر روی شعری از حضرت سایه آواز:منصور جمعه زاده سنتور:کیارش داودی تمبک:علی مظفری ضبط '
+      accessed: '2026-11-21'
+      locator: Artist caption and performance context
+    - source: t.me-kiyarashdavoudi-4
+      quote: کیارش داودی | KiyarashDavoudi
+      accessed: '2026-11-21'
+      locator: Artist publishing channel
+  release date:
+  - value:
+      date: '2017-06-05'
+    references:
+    - source: t.me-kiyarashdavoudi-4
+      quote: '2017-06-05'
+      accessed: '2026-11-21'
+      locator: Artist channel publication date

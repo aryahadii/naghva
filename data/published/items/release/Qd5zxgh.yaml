@@ -1,0 +1,53 @@
+id: Qd5zxgh
+type: release
+statements:
+  name:
+  - value:
+      text: Jina
+      language: en
+    references:
+    - source: music.apple.com-us-album-jina-single-1706953161
+      quote: Jina
+      accessed: 2026-11-21
+      locator: Track title and credits
+  listen link:
+  - value: https://music.apple.com/us/song/jina/1706953162
+    references:
+    - source: music.apple.com-us-album-jina-single-1706953161
+      quote: Jina
+      accessed: 2026-11-21
+      locator: Track title and credits
+  - value: https://open.spotify.com/track/3AGzVUkhkmRwqjAWvzcUOt
+    references:
+    - source: open.spotify.com-album-7qfmw0fsevhw9p195kj57l
+      quote: Aida Shahghasemi
+      accessed: 2026-11-21
+      locator: Spotify native track billing
+  - value: https://soundcloud.com/aidashahghasemi/jina
+    references:
+    - source: soundcloud.com-aidashahghasemi-jina
+      quote: Jina
+      accessed: 2026-11-21
+      locator: Artist upload title
+  release date:
+  - value:
+      date: '2023-09-09'
+    references:
+    - source: music.apple.com-us-album-jina-single-1706953161
+      quote: '2023-09-09'
+      accessed: 2026-11-21
+      locator: Digital edition date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e9/56/ed/e956ed37-4031-937a-83da-66434d663439/198026023292.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-jina-single-1706953161
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e9/56/ed/e956ed37-4031-937a-83da-66434d663439/198026023292.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Native release artwork
+  performer:
+  - value: Qjh2zkc
+    references:
+    - source: music.apple.com-us-album-jina-single-1706953161
+      quote: Jina
+      accessed: 2026-11-21
+      locator: Track title and credits

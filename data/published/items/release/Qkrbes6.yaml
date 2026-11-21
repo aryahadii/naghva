@@ -1,0 +1,45 @@
+id: Qkrbes6
+type: release
+statements:
+  name:
+  - value:
+      text: l'Omniprésence de la Nostalgie
+      language: en
+    references:
+    - source: soundcloud.com-hadi-bastani-lomnipre-sence-de-la-nostalgie
+      quote: l'Omniprésence de la Nostalgie
+      accessed: '2026-11-21'
+      locator: Recording heading
+  performer:
+  - value: Qyt2364
+    references:
+    - source: soundcloud.com-hadi-bastani-lomnipre-sence-de-la-nostalgie
+      quote: Stream l'Omniprésence de la Nostalgie by Hadi Bastani | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://soundcloud.com/hadi-bastani/lomnipre-sence-de-la-nostalgie
+    references:
+    - source: soundcloud.com-hadi-bastani-lomnipre-sence-de-la-nostalgie
+      quote: Stream l'Omniprésence de la Nostalgie by Hadi Bastani | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-000080633101-mbjaq6-large.jpg
+    references:
+    - source: soundcloud.com-hadi-bastani-lomnipre-sence-de-la-nostalgie
+      quote: https://i1.sndcdn.com/artworks-000080633101-mbjaq6-large.jpg
+      accessed: '2026-11-21'
+      locator: SoundCloud artwork metadata
+    qualifiers:
+      credit:
+        text: Hadi Bastani on SoundCloud
+        language: en
+  release date:
+  - value:
+      date: '2014-05-27'
+    references:
+    - source: soundcloud.com-hadi-bastani-lomnipre-sence-de-la-nostalgie
+      quote: '2014-05-27T12:58:05Z'
+      accessed: '2026-11-21'
+      locator: SoundCloud release or upload timestamp

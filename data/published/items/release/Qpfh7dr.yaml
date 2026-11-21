@@ -1,0 +1,35 @@
+id: Qpfh7dr
+type: release
+statements:
+  name:
+  - value:
+      text: Dokhtar Boro Bala. Saeid & Naghib Shanbehzadeh at Opera De lille دختر برو بالا
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-f5if2uk3sag
+      quote: Dokhtar Boro Bala. Saeid & Naghib Shanbehzadeh at Opera De lille دختر برو بالا
+      accessed: '2026-11-21'
+      locator: Artist-published performance film
+  performer:
+  - value: Qyd93n9
+    references:
+    - *id001
+  - value: Qvhrrm8
+    references:
+    - *id001
+  listen link:
+  - value: https://www.youtube.com/watch?v=f5if2uK3sag
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/f5if2uK3sag/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-f5if2uk3sag
+      quote: https://i.ytimg.com/vi/f5if2uK3sag/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original film frame
+    qualifiers:
+      credit:
+        text: saeid shanbehzadeh
+        language: en

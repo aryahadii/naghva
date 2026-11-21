@@ -1,0 +1,53 @@
+id: Q5cnd7w
+type: release
+statements:
+  name:
+  - value:
+      text: Mühsal Snippet
+      language: en
+    references:
+    - source: soundcloud.com-unlandmusic-muhsal-snippet
+      quote: Mühsal Snippet
+      locator: Native uploaded recording
+      accessed: '2026-11-21'
+  performer:
+  - value: Qs2xmxr
+    references:
+    - source: soundcloud.com-unlandmusic-muhsal-snippet
+      quote: Mühsal Snippet
+      locator: Native uploaded recording
+      accessed: '2026-11-21'
+  - value: Q9aspca
+    references:
+    - source: unland.bandcamp.com-album-unland
+      quote: clarinetist Shabnam Pavaresh
+      locator: Group membership
+      accessed: '2026-11-21'
+    qualifiers:
+      role: clarinet
+  release date:
+  - value:
+      date: '2016-05-14'
+    references:
+    - source: soundcloud.com-unlandmusic-muhsal-snippet
+      quote: '2016-05-14T09:28:14Z'
+      locator: Public upload date
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://soundcloud.com/unlandmusic/muhsal-snippet
+    references:
+    - source: soundcloud.com-unlandmusic-muhsal-snippet
+      quote: Mühsal Snippet
+      locator: Native uploaded recording
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-000162789458-exbxgp-large.jpg
+    references:
+    - source: soundcloud.com-unlandmusic-muhsal-snippet
+      quote: https://i1.sndcdn.com/artworks-000162789458-exbxgp-large.jpg
+      locator: Edition artwork
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Unland · upload artwork
+        language: en

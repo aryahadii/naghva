@@ -1,0 +1,26 @@
+---
+url: https://lowzirecords.bandcamp.com/track/atiq
+title: Atiq | عَتیقْ | Taraamoon | Low-Zi Records
+kind: web page
+language: en
+tier: own
+about:
+- Taraamoon
+status: processed
+---
+
+> Atiq | عَتیقْ | Taraamoon | Low-Zi Records
+
+Page title, read 2026-11-21.
+
+> Taraamoon
+
+Artist interview, biography or performance credits, read 2026-11-21.
+
+> released May 16, 2023
+
+Published date, read 2026-11-21.
+
+> https://f4.bcbits.com/img/a3506055560_10.jpg
+
+Release artwork, read 2026-11-21.

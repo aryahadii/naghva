@@ -1,0 +1,57 @@
+id: Qyw9j5m
+type: release
+statements:
+  name:
+  - value:
+      text: Lucid Dream
+      language: en
+    references:
+    - source: music.apple.com-us-song-1794396142
+      quote: ‎Lucid Dream - Song with Lyrics by Ava Rasti - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qks2dfk
+    references:
+    - source: music.apple.com-us-song-1794396142
+      quote: ‎Lucid Dream - Song with Lyrics by Ava Rasti - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://music.apple.com/us/song/1794396142
+    references:
+    - source: music.apple.com-us-song-1794396142
+      quote: ‎Lucid Dream - Song with Lyrics by Ava Rasti - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/6kLR32bgbolfX4Od5rY2QA
+    references:
+    - source: open.spotify.com-track-6klr32bgbolfx4od5ry2qa
+      quote: Lucid Dream - song and lyrics by Ava Rasti | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://heliosmusic.bandcamp.com/track/lucid-dream
+    references:
+    - source: heliosmusic.bandcamp.com-track-lucid-dream
+      quote: Lucid Dream | Ava Rasti | Keith Kenniff + Hollie Kenniff
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d3/e4/bc/d3e4bcd5-872c-b08c-02d4-03f2fcfa594d/067003172059.png/600x600bb.webp
+    references:
+    - source: music.apple.com-us-song-1794396142
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d3/e4/bc/d3e4bcd5-872c-b08c-02d4-03f2fcfa594d/067003172059.png/600x600bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original recording publisher
+        language: en
+  release date:
+  - value:
+      date: '2025-02-07'
+    references:
+    - source: music.apple.com-us-song-1794396142
+      quote: February 7, 2025
+      accessed: '2026-11-21'
+      locator: Published date

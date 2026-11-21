@@ -1,0 +1,72 @@
+id: Qs9k6kk
+type: release
+statements:
+  name:
+  - value:
+      text: In Eternity
+      language: en
+    references:
+    - source: music.apple.com-us-song-in-eternity-1502379780
+      quote: In Eternity
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  contributor:
+  - value: Qfvnnnd
+    references:
+    - source: music.apple.com-us-song-in-eternity-1502379780
+      quote: Arshia Samsaminia
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: composer
+  performer:
+  - value: Qbvwzd7
+    references:
+    - source: music.apple.com-us-song-in-eternity-1502379780
+      quote: Maxim Novikov
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Qyzera6
+    references:
+    - source: music.apple.com-us-song-in-eternity-1502379780
+      quote: Polina Osetinskaya
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://music.apple.com/us/song/in-eternity/1502379780
+    references:
+    - source: music.apple.com-us-song-in-eternity-1502379780
+      quote: ‎In Eternity - Song with Lyrics by Maxim Novikov & Polina Osetinskaya - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/in-eternity-single/1502379777
+    references:
+    - source: music.apple.com-us-album-in-eternity-single-1502379777
+      quote: ‎In Eternity - Single - Album by Maxim Novikov & Polina Osetinskaya - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/02aaxX67Qw8Zl6oTcSUrrP
+    references:
+    - source: open.spotify.com-track-02aaxx67qw8zl6otcsurrp
+      quote: In Eternity - song and lyrics by Arshia Samsaminia, Maxim Novikov, Polina Osetinskaya | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/d4/ee/8f/d4ee8f84-4dfe-d11a-3fed-7d7e6016fc49/195079013133.jpg/600x600bb.webp
+    references:
+    - source: music.apple.com-us-song-in-eternity-1502379780
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/d4/ee/8f/d4ee8f84-4dfe-d11a-3fed-7d7e6016fc49/195079013133.jpg/600x600bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Maxim Novikov, Polina Osetinskaya on Apple Music
+        language: en
+  release date:
+  - value:
+      date: '2018-08-08'
+    references:
+    - source: music.apple.com-us-song-in-eternity-1502379780
+      quote: August 8, 2018
+      accessed: '2026-11-21'
+      locator: Published date

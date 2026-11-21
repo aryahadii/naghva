@@ -1,0 +1,83 @@
+id: Q3cvsr7
+type: release
+statements:
+  name:
+  - value:
+      text: Together Yet Alone
+      language: en
+    references:
+    - source: music.apple.com-us-album-together-yet-alone-feat-navid-dehghan-6805656230uo-4
+      quote: Together Yet Alone (feat. Navid Dehghan)
+      locator: Artist discography, original sound recording or label
+      accessed: '2026-11-21'
+  performer:
+  - value: Qwxqpwd
+    references:
+    - source: baharmovahed.bandcamp.com-album-together-yet-alone
+      quote: Vocals Bahar Movahed
+      locator: Artist discography, original sound recording or label
+      accessed: '2026-11-21'
+    qualifiers:
+      role: vocals
+  release date:
+  - value:
+      date: '2026-04-20'
+    references:
+    - source: music.apple.com-us-album-together-yet-alone-feat-navid-dehghan-single-6804474694uo-4
+      quote: '2026-04-20'
+      locator: Artist discography, original sound recording or label
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://f4.bcbits.com/img/a4173758754_10.jpg
+    references:
+    - source: baharmovahed.bandcamp.com-album-together-yet-alone
+      quote: https://f4.bcbits.com/img/a4173758754_10.jpg
+      locator: Artist discography, original sound recording or label
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Bahar Movahed · release artwork
+        language: en
+  listen link:
+  - value: https://music.apple.com/us/song/together-yet-alone-feat-navid-dehghan/6805656237
+    references:
+    - source: music.apple.com-us-album-together-yet-alone-feat-navid-dehghan-6805656230uo-4
+      quote: Together Yet Alone (feat. Navid Dehghan)
+      locator: Artist discography, original sound recording or label
+      accessed: '2026-11-21'
+  - value: https://baharmovahed.bandcamp.com/track/together-yet-alone
+    references:
+    - source: baharmovahed.bandcamp.com-track-together-yet-alone
+      quote: Together Yet Alone
+      locator: Artist discography, original sound recording or label
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/3FPPAp1xv8wjnAiLGt8tGC
+    references:
+    - source: open.spotify.com-embed-album-1hpckvcabsk3i25wob05lg
+      quote: Together Yet Alone
+      locator: Artist discography, original sound recording or label
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/2lqHLtpwZghARlmnRci7od
+    references:
+    - source: open.spotify.com-embed-album-25rw5byute3ejuvk4v1xvx
+      quote: Together Yet Alone
+      locator: Artist discography, original sound recording or label
+      accessed: '2026-11-21'
+  - value: https://music.apple.com/us/album/together-yet-alone-feat-navid-dehghan-single/6804474694
+    references:
+    - source: music.apple.com-us-album-together-yet-alone-feat-navid-dehghan-single-6804474694uo-4
+      quote: Together Yet Alone (feat. Navid Dehghan) - Single
+      locator: Artist discography, original sound recording or label
+      accessed: '2026-11-21'
+  - value: https://music.apple.com/us/song/together-yet-alone-feat-navid-dehghan/6804474995
+    references:
+    - source: music.apple.com-us-album-together-yet-alone-feat-navid-dehghan-single-6804474694uo-4
+      quote: Together Yet Alone (feat. Navid Dehghan)
+      locator: Artist discography, original sound recording or label
+      accessed: '2026-11-21'
+  - value: https://www.youtube.com/watch?v=n5ds5ZRakAo
+    references:
+    - source: www.youtube.com-oembed-n5ds5zrakao
+      quote: Together Yet Alone_ Bahar Movahed, Navid Dehghan
+      locator: Original recording, artist or presenter
+      accessed: '2026-11-21'

@@ -1,0 +1,54 @@
+id: Q5xahh6
+type: release
+statements:
+  name:
+  - value:
+      text: Who's Yo' Daddy?
+      language: en
+    references:
+    - source: music.apple.com-us-album-whos-yo-daddy-264972246
+      quote: Who's Yo' Daddy? · Abjeez
+      accessed: 2026-11-21
+      locator: Album title and artist on Apple Music
+  performer:
+  - value: Qny2s3x
+    references:
+    - source: music.apple.com-us-album-whos-yo-daddy-264972246
+      quote: Who's Yo' Daddy? · Abjeez
+      accessed: 2026-11-21
+      locator: Album title and artist on Apple Music
+  listen link:
+  - value: https://music.apple.com/us/album/whos-yo-daddy/264972246
+    references:
+    - source: music.apple.com-us-album-whos-yo-daddy-264972246
+      quote: Who's Yo' Daddy? · Abjeez
+      accessed: 2026-11-21
+      locator: Album title and artist on Apple Music
+  - value: https://open.spotify.com/album/0aFjZANp5Wk7yCcPoBcIj8
+    references:
+    - source: open.spotify.com-album-0afjzanp5wk7yccpobcij8
+      quote: Who's Yo' Daddy?
+      accessed: 2026-11-21
+      locator: Album heading
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music/74/72/ef/mzi.yzmfvdbd.tif/600x600bb-60.jpg
+    references:
+    - source: music.apple.com-us-album-whos-yo-daddy-264972246
+      quote: Who's Yo' Daddy? · Abjeez
+      accessed: 2026-11-21
+      locator: Album title and artist on Apple Music
+  release date:
+  - value:
+      date: '2007-05-25'
+    references:
+    - source: music.apple.com-us-album-whos-yo-daddy-264972246
+      quote: '2007-05-25'
+      accessed: 2026-11-21
+      locator: MusicAlbum datePublished
+  release type:
+  - value: album
+    references:
+    - source: music.apple.com-us-album-whos-yo-daddy-264972246
+      quote: Who's Yo' Daddy? · Abjeez
+      accessed: 2026-11-21
+      locator: Album title and artist on Apple Music

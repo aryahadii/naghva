@@ -1,0 +1,47 @@
+id: Qcxcsqk
+type: release
+statements:
+  name:
+  - value:
+      text: Soulmate
+      language: en
+    references:
+    - source: open.spotify.com-album-0sshysvo4o4jodbilaijm8
+      quote: Soulmate
+      accessed: 2026-11-21
+      locator: Track title
+  performer:
+  - value: Qk67gf5
+    references:
+    - source: open.spotify.com-album-0sshysvo4o4jodbilaijm8
+      quote: Farshid Arabi
+      accessed: 2026-11-21
+      locator: Album artist credit
+  listen link:
+  - value: https://open.spotify.com/track/3on0zJsE60xFc2K8nSEMc9
+    references:
+    - source: open.spotify.com-album-0sshysvo4o4jodbilaijm8
+      quote: Soulmate
+      accessed: 2026-11-21
+      locator: Track title
+  - value: https://music.apple.com/us/song/soulmate/1810997942
+    references:
+    - source: music.apple.com-us-album-faded-calendar-1810997935
+      quote: Soulmate
+      accessed: 2026-11-21
+      locator: Native title
+  release date:
+  - value:
+      date: '2025-05-01'
+    references:
+    - source: music.apple.com-us-album-faded-calendar-1810997935
+      quote: '2025-05-01'
+      accessed: 2026-11-21
+      locator: Storefront release date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/87/62/d0876247-aecd-f6b9-c52b-e27e1295d10d/199199580506.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-faded-calendar-1810997935
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/87/62/d0876247-aecd-f6b9-c52b-e27e1295d10d/199199580506.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Album artwork

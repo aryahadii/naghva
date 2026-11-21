@@ -1,0 +1,72 @@
+id: Q8esqnd
+type: release
+statements:
+  name:
+  - value:
+      text: مرا عشقت چنان آزار کرده
+      language: fa
+    references:
+    - source: music.apple.com-us-album-1780787310
+      quote: مرا عشقت چنان آزار کرده
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+  performer:
+  - value: Qncx8nb
+    references:
+    - source: music.apple.com-us-album-1780787310
+      quote: Samin Ghorbani
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: vocals
+  release date:
+  - value:
+      date: '2024-11-18'
+    references:
+    - source: music.apple.com-us-album-1780787310
+      quote: '2024-11-18'
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/24/5a/cb245a66-9734-64a3-aebe-012c49a4c286/cover.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-1780787310
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/24/5a/cb245a66-9734-64a3-aebe-012c49a4c286/cover.jpg/1200x630bb.jpg
+      locator: Edition artwork
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Apple Music · مرا عشقت چنان آزار کرده
+        language: en
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-1780787310
+      quote: مرا عشقت چنان آزار کرده - Single
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://music.apple.com/us/album/%D9%85%D8%B1%D8%A7-%D8%B9%D8%B4%D9%82%D8%AA-%DA%86%D9%86%D8%A7%D9%86-%D8%A2%D8%B2%D8%A7%D8%B1-%DA%A9%D8%B1%D8%AF%D9%87-single/1780787310
+    references:
+    - source: music.apple.com-us-album-1780787310
+      quote: مرا عشقت چنان آزار کرده - Single
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/album/1ylBiQDYchUitTDQuDpTNG
+    references:
+    - source: open.spotify.com-embed-album-1ylbiqdychuittdqudptng
+      quote: مرا عشقت چنان آزار کرده
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+  - value: https://music.apple.com/us/song/%D9%85%D8%B1%D8%A7-%D8%B9%D8%B4%D9%82%D8%AA-%DA%86%D9%86%D8%A7%D9%86-%D8%A2%D8%B2%D8%A7%D8%B1-%DA%A9%D8%B1%D8%AF%D9%87/1780787312
+    references:
+    - source: music.apple.com-us-album-1780787310
+      quote: مرا عشقت چنان آزار کرده
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/4rc9AZfMg4DNCD20yeR9Su
+    references:
+    - source: open.spotify.com-embed-album-1ylbiqdychuittdqudptng
+      quote: مرا عشقت چنان آزار کرده
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'

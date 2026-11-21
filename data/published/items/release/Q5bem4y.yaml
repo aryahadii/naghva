@@ -1,0 +1,39 @@
+id: Q5bem4y
+type: release
+statements:
+  name:
+  - value:
+      text: Whith Aref (Live)
+      language: en
+    references:
+    - source: open.spotify.com-album-3l9vpvy5iifhbnuspsnjt2
+      quote: Whith Aref - Live
+      accessed: 2026-11-21
+      locator: Spotify track billing
+  performer:
+  - value: Qtqjb47
+    references:
+    - source: open.spotify.com-album-3l9vpvy5iifhbnuspsnjt2
+      quote: Whith Aref - Live
+      accessed: 2026-11-21
+      locator: Spotify track billing
+  listen link:
+  - value: https://open.spotify.com/track/24olua3fLrvicbRy803xsO
+    references:
+    - source: open.spotify.com-album-3l9vpvy5iifhbnuspsnjt2
+      quote: Whith Aref - Live
+      accessed: 2026-11-21
+      locator: Spotify track billing
+  - value: https://youtu.be/dvIjvjusZ1A
+    references:
+    - source: youtu.be-dvijvjusz1a
+      quote: With Aref
+      accessed: 2026-11-21
+      locator: Track in artist-linked playlist
+  cover art:
+  - value: https://i.ytimg.com/vi/dvIjvjusZ1A/hqdefault.jpg
+    references:
+    - source: youtu.be-dvijvjusz1a
+      quote: With Aref
+      accessed: 2026-11-21
+      locator: Track in artist-linked playlist

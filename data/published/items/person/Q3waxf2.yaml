@@ -7,14 +7,74 @@ statements:
       language: en
     references:
     - source: soundcloud.com-makan-ashgvari-bi-saropa-makan-ashgvari-c54cf37147cd
-      quote: |-
-        Peter Soleimanipour plays bass clarinet, Soheil Peyghambari plays Clarinet, and Makan Ashgvari plays piano and sings.
+      quote: Peter Soleimanipour plays bass clarinet, Soheil Peyghambari plays Clarinet, and Makan Ashgvari plays piano and sings.
       accessed: '2026-10-23'
   - value:
       text: سهیل پیغمبری
       language: fa
     references:
     - source: rooziato.com-201612523-far-album-65163bfa87ec
-      quote: |-
-        در این آلبوم «ماکان اشگواری» می‌خواند، «امیر صارمی» گیتار می‌نوازد، «سردار سرمست» نوازنده پیانو الکتریک است، «سهیل پیغمبری» کلارینت نواز و «بردیا کیارس» نوازنده ویولن آلتو و ویولن هستند. همچنین «کریستف رضاعی» تنظیم سازهای زهی را در این آلبوم به عهده دارد.
+      quote: در این آلبوم «ماکان اشگواری» می‌خواند، «امیر صارمی» گیتار می‌نوازد، «سردار سرمست» نوازنده پیانو الکتریک است، «سهیل پیغمبری»
+        کلارینت نواز و «بردیا کیارس» نوازنده ویولن آلتو و ویولن هستند. همچنین «کریستف رضاعی» تنظیم سازهای زهی را در این آلبوم به عهده
+        دارد.
       accessed: '2026-11-06'
+  member of:
+  - value: Qh8f5qv
+    qualifiers:
+      start time:
+        date: '2016'
+    references:
+    - source: kviff.com-summer-with-hope-press-notes
+      quote: He is a member of the Iranian Progressive Jazz group "Quartet Diminished" since 2016.
+      accessed: '2026-11-21'
+      locator: Soheil Peyghambari, Music
+  profile link:
+  - value: https://music.apple.com/us/artist/soheil-peyghambari/586956766
+    references:
+    - source: music.apple.com-us-artist-soheil-peyghambari-586956766
+      quote: ‎Soheil Peyghambari - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/artist/17Aqz54dYHPvkakEN0GOoW
+    references:
+    - source: open.spotify.com-artist-17aqz54dyhpvkaken0goow
+      quote: Listen to Soheil Peyghambari Songs | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/soheil-peyghambari
+    references:
+    - source: soundcloud.com-soheil-peyghambari
+      quote: Stream Soheil Peyghambari music | Listen to songs, albums, playlists for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soheilpeyghambari.bandcamp.com/music
+    references:
+    - source: soheilpeyghambari.bandcamp.com-music
+      quote: Music | Soheil Peyghambari
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://www.youtube.com/@soheilpeyghambari2035
+    references:
+    - source: www.youtube.com-soheilpeyghambari2035
+      quote: Soheil Peyghambari - YouTube
+      accessed: '2026-11-21'
+      locator: Page title
+  image:
+  - value: https://i.scdn.co/image/ab6761610000e5ebc36003b4354639820c7f4db5
+    references:
+    - source: open.spotify.com-artist-17aqz54dyhpvkaken0goow
+      quote: https://i.scdn.co/image/ab6761610000e5ebc36003b4354639820c7f4db5
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: Soheil Peyghambari on Spotify
+        language: en
+  birth date:
+  - value:
+      date: '1985'
+    references:
+    - source: www.kviff.com-en-programme-film-59-37638-presskit-1.pdf
+      quote: Soheil Peyghambari (1985, Iran)
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits

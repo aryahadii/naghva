@@ -1,0 +1,54 @@
+id: Q9cxf8z
+type: release
+statements:
+  name:
+  - value:
+      text: Dear John (Collaborations)
+      language: en
+    references:
+    - source: music.apple.com-us-album-dear-john-collaborations-1822923714
+      quote: Dear John (Collaborations)
+      accessed: 2026-11-21
+      locator: Release title
+  performer:
+  - value: Qas33mb
+    references:
+    - source: music.apple.com-us-album-dear-john-collaborations-1822923714
+      quote: Sepp Osley
+      accessed: 2026-11-21
+      locator: Performer
+  release type:
+  - value: album
+    references:
+    - source: music.apple.com-us-album-dear-john-collaborations-1822923714
+      quote: Dear John (Collaborations)
+      accessed: 2026-11-21
+      locator: Release title
+  listen link:
+  - value: https://music.apple.com/us/album/dear-john-collaborations/1822923714
+    references:
+    - source: music.apple.com-us-album-dear-john-collaborations-1822923714
+      quote: Dear John (Collaborations)
+      accessed: 2026-11-21
+      locator: Release title
+  - value: https://open.spotify.com/album/3eJ7gesJTLHqhAMkDF9Hj6
+    references:
+    - source: open.spotify.com-album-3ej7gesjtlhqhamkdf9hj6
+      quote: Dear John (Collaborations)
+      accessed: 2026-11-21
+      locator: Album title
+  release date:
+  - value:
+      date: '2025-10-03'
+    references:
+    - source: music.apple.com-us-album-dear-john-collaborations-1822923714
+      quote: '2025-10-03'
+      accessed: 2026-11-21
+      locator: Release date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/88/80/41/888041fd-922a-c81d-e4d4-a15a75481a4e/artwork.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-dear-john-collaborations-1822923714
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/88/80/41/888041fd-922a-c81d-e4d4-a15a75481a4e/artwork.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Cover image

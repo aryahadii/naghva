@@ -7,6 +7,82 @@ statements:
       language: en
     references:
     - source: music.apple.com-us-album-silent-city-feat-mohsen-namjoo-single-478377911
-      quote: |-
-        Silent City (feat. Mohsen Namjoo) - Single - Album by Mahmood Schricker - Apple Music
+      quote: Silent City (feat. Mohsen Namjoo) - Single - Album by Mahmood Schricker - Apple Music
       accessed: '2026-11-09'
+  - value:
+      text: محمود شریکر
+      language: fa
+    references:
+    - source: www.gooshe.net-d9-85-d8-ad-d9-85-d9-88-d8-af--d8-b4-d8-b1-db-8c-da-a9-d8-b1
+      quote: محمود شریکر
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  based in:
+  - value: Q9yx7ys
+    references:
+    - source: mahmoodschricker.bandcamp.com-music
+      quote: Toronto, Ontario
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  image:
+  - value: https://i.scdn.co/image/ab6761610000e5eb775c18966370f66aa1c08983
+    references:
+    - source: open.spotify.com-artist-0jbre49bsheezckhe5qsxl
+      quote: https://i.scdn.co/image/ab6761610000e5eb775c18966370f66aa1c08983
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: Mahmood Schricker on Spotify
+        language: en
+  profile link:
+  - value: https://music.apple.com/us/artist/mahmood-schricker/478377938
+    references:
+    - source: music.apple.com-us-artist-mahmood-schricker-478377938
+      quote: ‎Mahmood Schricker - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/artist/mahmood-schricker/1468791583
+    references:
+    - source: music.apple.com-us-artist-mahmood-schricker-1468791583
+      quote: ‎Mahmood Schricker - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/artist/0jBRE49bshEEZCKHE5qsXl
+    references:
+    - source: open.spotify.com-artist-0jbre49bsheezckhe5qsxl
+      quote: Listen to Mahmood Schricker Songs | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/mahmood-schricker
+    references:
+    - source: soundcloud.com-mahmood-schricker
+      quote: Stream Mahmood Schricker music | Listen to songs, albums, playlists for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://mahmoodschricker.bandcamp.com
+    references:
+    - source: mahmoodschricker.bandcamp.com-music
+      quote: Music | Mahmood Schricker
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://www.youtube.com/@Moodyschricker
+    references:
+    - source: www.youtube.com-channel-uc5q8r0na5ghxute6odmvvgw-videos
+      quote: Mahmood Schricker - YouTube
+      accessed: '2026-11-21'
+      locator: Page title
+  birthplace:
+  - value: Qhm6fzw
+    references:
+    - source: ra.co-dj-mahmoodschricker-biography
+      quote: Born in Tehran to Iranian and Austrian heritage
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  member of:
+  - value: Q5b7pz5
+    references:
+    - source: www.wavelengthmusic.ca-zine-dastgamachine-guest-playlist-4-wavelength
+      quote: Mahmood Schricker (electric setar), Caleb Klager (electronics), and Jason Rule (turntables)
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits

@@ -1,0 +1,73 @@
+id: Qjkf43r
+type: release
+statements:
+  name:
+  - value:
+      text: Mirage
+      language: en
+    references:
+    - source: open.spotify.com-embed-track-64ih74ppjl5f4bezbnduls
+      quote: Mirage
+      accessed: '2026-11-21'
+      locator: Original Spotify recording or album
+  release type:
+  - value: single
+    references:
+    - source: open.spotify.com-embed-track-64ih74ppjl5f4bezbnduls
+      quote: Mirage
+      accessed: '2026-11-21'
+      locator: Original Spotify recording or album
+  performer:
+  - value: Qwmja27
+    references:
+    - source: open.spotify.com-embed-track-64ih74ppjl5f4bezbnduls
+      quote: Mirage
+      accessed: '2026-11-21'
+      locator: Original Spotify recording or album
+  - value: Qa6r74t
+    qualifiers:
+      role:
+      - bass
+    references:
+    - source: kasrasaboktakin.com-music
+      quote: Mirage
+      accessed: '2026-11-21'
+      locator: Artist audio selection
+  listen link:
+  - value: https://open.spotify.com/track/64IH74PPJl5f4BeZBNdUls
+    references:
+    - source: open.spotify.com-embed-track-64ih74ppjl5f4bezbnduls
+      quote: Mirage
+      accessed: '2026-11-21'
+      locator: Original Spotify recording or album
+  - value: https://soundcloud.com/kass-bass/mirage
+    references:
+    - source: soundcloud.com-kass-bass-mirage
+      quote: Stream Mirage by Kasra Saboktakin | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Bassist’s original SoundCloud upload
+  - value: https://www.youtube.com/watch?v=UaNU52rDEiM
+    references:
+    - source: youtu.be-uanu52rdeim-si-qr03ivmbpo0rn2al
+      quote: Mirage
+      accessed: '2026-11-21'
+      locator: Original distribution or artist recording
+  release date:
+  - value:
+      date: '2026-01-09'
+    references:
+    - source: open.spotify.com-embed-track-64ih74ppjl5f4bezbnduls
+      quote: '2026-01-09'
+      accessed: '2026-11-21'
+      locator: Digital issue date
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-f6mV514T2JpycWB7-YOSLPg-large.png
+    qualifiers:
+      credit:
+        text: Kasra Saboktakin on SoundCloud
+        language: en
+    references:
+    - source: soundcloud.com-kass-bass-mirage
+      quote: https://i1.sndcdn.com/artworks-f6mV514T2JpycWB7-YOSLPg-large.png
+      accessed: '2026-11-21'
+      locator: Original upload image

@@ -1,0 +1,63 @@
+id: Q9m2e2r
+type: release
+statements:
+  name:
+  - value:
+      text: Darya (Studio 13)
+      language: en
+    references:
+    - source: www.youtube.com-watch-v-ek3txqipuli
+      quote: Niaz & Erwin - Darya live at Studio13
+      accessed: '2026-11-21'
+      locator: Artist video
+  performer:
+  - value: Qb269ps
+    references:
+    - source: www.youtube.com-watch-v-ek3txqipuli
+      quote: Niaz & Erwin - Darya live at Studio13
+      accessed: '2026-11-21'
+      locator: Artist video
+  - value: Qy88zyz
+    references:
+    - source: www.youtube.com-watch-v-ek3txqipuli
+      quote: Niaz & Erwin - Darya live at Studio13
+      accessed: '2026-11-21'
+      locator: Artist video
+  - value: Qzjh64j
+    references:
+    - source: t.me-niaznawab-167
+      quote: نیاز و اروین در برنامه استودیو ۱۳ Niaz & Erwin Studio13 @NiazNawab @OfficialStudio13 @Karmandan
+      accessed: '2026-11-21'
+      locator: Artist’s original performance caption
+  listen link:
+  - value: https://www.youtube.com/watch?v=EK3TxQiPULI
+    references:
+    - source: www.youtube.com-watch-v-ek3txqipuli
+      quote: Niaz & Erwin - Darya live at Studio13
+      accessed: '2026-11-21'
+      locator: Artist video
+  - value: https://t.me/niaznawab/167
+    references:
+    - source: t.me-niaznawab-167
+      quote: نیاز و اروین در برنامه استودیو ۱۳ Niaz & Erwin Studio13 @NiazNawab @OfficialStudio13 @Karmandan
+      accessed: '2026-11-21'
+      locator: Artist’s original performance caption
+  cover art:
+  - value: https://i.ytimg.com/vi/EK3TxQiPULI/hqdefault.jpg
+    qualifiers:
+      credit:
+        text: Niaz Nawab
+        language: en
+    references:
+    - source: www.youtube.com-watch-v-ek3txqipuli
+      quote: https://i.ytimg.com/vi/EK3TxQiPULI/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video artwork
+  release date:
+  - value:
+      date: '2019-04-25'
+    references:
+    - source: www.youtube.com-watch-v-ek3txqipuli
+      quote: '2019-04-25'
+      accessed: '2026-11-21'
+      locator: Video publication

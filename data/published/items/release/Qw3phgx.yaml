@@ -1,0 +1,57 @@
+id: Qw3phgx
+type: release
+statements:
+  name:
+  - value:
+      text: Losing My Mind (Mixed)
+      language: en
+    references:
+    - source: music.apple.com-us-song-1723547447
+      quote: ‎Losing My Mind (Mixed) - Song with Lyrics by Meshcut & Astrø - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qh6s4f5
+    references:
+    - source: music.apple.com-us-song-1723547447
+      quote: ‎Losing My Mind (Mixed) - Song with Lyrics by Meshcut & Astrø - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qs2dtez
+    references:
+    - source: open.spotify.com-track-5oces4asouzmgd93i39a8w
+      quote: Astrø
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://music.apple.com/us/song/1723547447
+    references:
+    - source: music.apple.com-us-song-1723547447
+      quote: ‎Losing My Mind (Mixed) - Song with Lyrics by Meshcut & Astrø - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/5OCes4AsOUZMGd93i39A8W
+    references:
+    - source: open.spotify.com-track-5oces4asouzmgd93i39a8w
+      quote: Losing My Mind - Mixed - song and lyrics by Meshcut, Astrø | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c1/d6/c0/c1d6c08f-7344-b05e-fa15-67099d58be99/00_Cover_Art.jpg/600x600bb.webp
+    references:
+    - source: music.apple.com-us-song-1723547447
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c1/d6/c0/c1d6c08f-7344-b05e-fa15-67099d58be99/00_Cover_Art.jpg/600x600bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original recording artwork
+        language: en
+  release date:
+  - value:
+      date: '2023-12-29'
+    references:
+    - source: music.apple.com-us-song-1723547447
+      quote: December 29, 2023
+      accessed: '2026-11-21'
+      locator: Published date

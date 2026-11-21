@@ -1,0 +1,37 @@
+id: Qswg4ph
+type: release
+statements:
+  name:
+  - value:
+      text: javid afsari
+      language: en
+    references:
+    - source: www.youtube.com-oembed-1_suquzlcey
+      quote: javid afsari
+      accessed: '2026-11-21'
+      locator: Video title
+  performer:
+  - value: Qz9hcyk
+    references:
+    - source: iranian.com-main-2008-call-love-zarbang.html
+      quote: 1_suquzLCEY
+      accessed: '2026-11-21'
+      locator: Original performance clip in the presenter’s page
+  listen link:
+  - value: https://www.youtube.com/watch?v=1_suquzLCEY
+    references:
+    - source: iranian.com-main-2008-call-love-zarbang.html
+      quote: 1_suquzLCEY
+      accessed: '2026-11-21'
+      locator: Original performance clip in the presenter’s page
+  cover art:
+  - value: https://i.ytimg.com/vi/1_suquzLCEY/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-1_suquzlcey
+      quote: https://i.ytimg.com/vi/1_suquzLCEY/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: YouTube thumbnail
+    qualifiers:
+      credit:
+        text: iranianazade .madrid · YouTube
+        language: en

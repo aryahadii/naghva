@@ -1,0 +1,57 @@
+id: Qrzdnd4
+type: release
+statements:
+  name:
+  - value:
+      text: Eruption
+      language: en
+    references:
+    - source: avarasti.bandcamp.com-track-eruption
+      quote: Eruption | Ava Rasti
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qks2dfk
+    references:
+    - source: avarasti.bandcamp.com-track-eruption
+      quote: Eruption | Ava Rasti
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://avarasti.bandcamp.com/track/eruption
+    references:
+    - source: avarasti.bandcamp.com-track-eruption
+      quote: Eruption | Ava Rasti
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1567886883
+    references:
+    - source: music.apple.com-us-song-1567886883
+      quote: ‎Eruption - Song with Lyrics by Ava Rasti - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/avaarasti/eruption
+    references:
+    - source: soundcloud.com-avaarasti-eruption
+      quote: Stream Eruption by Ava Rasti | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a4183138951_10.jpg
+    references:
+    - source: avarasti.bandcamp.com-track-eruption
+      quote: https://f4.bcbits.com/img/a4183138951_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original recording publisher
+        language: en
+  release date:
+  - value:
+      date: '2021-05-29'
+    references:
+    - source: avarasti.bandcamp.com-album-the-moment-2
+      quote: released May 29, 2021
+      accessed: '2026-11-21'
+      locator: Published date

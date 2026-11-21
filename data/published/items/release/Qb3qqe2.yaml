@@ -1,0 +1,62 @@
+id: Qb3qqe2
+type: release
+statements:
+  name:
+  - value:
+      text: Telophase
+      language: en
+    references:
+    - source: eileanrec.bandcamp.com-track-telophase
+      quote: Telophase | 9T Antiope | eilean rec.
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qz5swxp
+    references:
+    - source: eileanrec.bandcamp.com-album-isthmus
+      quote: 'Vocals & Lyrics: Sara Bigdeli Shamloo'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: vocals
+  - value: Qyv32ms
+    references:
+    - source: eileanrec.bandcamp.com-album-isthmus
+      quote: 9T Antiope
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  contributor:
+  - value: Qgncp5r
+    references:
+    - source: eileanrec.bandcamp.com-album-isthmus
+      quote: 'Composer: Nima Aghiani'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: composer
+  listen link:
+  - value: https://eileanrec.bandcamp.com/track/telophase
+    references:
+    - source: eileanrec.bandcamp.com-track-telophase
+      quote: Telophase | 9T Antiope | eilean rec.
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a0523311939_10.jpg
+    references:
+    - source: eileanrec.bandcamp.com-track-telophase
+      quote: https://f4.bcbits.com/img/a0523311939_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original digital edition
+        language: en
+  release date:
+  - value:
+      date: '2017-03-03'
+    references:
+    - source: eileanrec.bandcamp.com-album-isthmus
+      quote: released March 3, 2017
+      accessed: '2026-11-21'
+      locator: Published date

@@ -1,0 +1,72 @@
+id: Qwp96gf
+type: release
+statements:
+  name:
+  - value:
+      text: Daşti təsnifi
+      language: az
+    references:
+    - source: music.apple.com-us-album-1780787860
+      quote: Daşti təsnifi
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+  performer:
+  - value: Qncx8nb
+    references:
+    - source: music.apple.com-us-album-1780787860
+      quote: Samin Ghorbani
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: vocals
+  release date:
+  - value:
+      date: '2024-11-18'
+    references:
+    - source: music.apple.com-us-album-1780787860
+      quote: '2024-11-18'
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4f/11/d4/4f11d4de-e352-85f5-e9b3-adda1f5c453a/cover.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-1780787860
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4f/11/d4/4f11d4de-e352-85f5-e9b3-adda1f5c453a/cover.jpg/1200x630bb.jpg
+      locator: Edition artwork
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Apple Music · Daşti təsnifi
+        language: en
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-1780787860
+      quote: Daşti təsnifi - Single
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://music.apple.com/us/album/da%C5%9Fti-t%C9%99snifi-single/1780787860
+    references:
+    - source: music.apple.com-us-album-1780787860
+      quote: Daşti təsnifi - Single
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/album/3J1B3Apssem78HFXpBwdxt
+    references:
+    - source: open.spotify.com-embed-album-3j1b3apssem78hfxpbwdxt
+      quote: Daşti təsnifi
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+  - value: https://music.apple.com/us/song/da%C5%9Fti-t%C9%99snifi/1780787863
+    references:
+    - source: music.apple.com-us-album-1780787860
+      quote: Daşti təsnifi
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/1dgDGlR8KWIBwipKOEhtq5
+    references:
+    - source: open.spotify.com-embed-album-3j1b3apssem78hfxpbwdxt
+      quote: Daşti təsnifi
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'

@@ -7,17 +7,25 @@ statements:
       language: en
     references:
     - source: sanammaroufkhani.bandcamp.com-track-beneath-the-wooden-roof-live-recorded-at-sargfabrik-vienna
-      quote: |-
-        released October 17, 2026
+      quote: 'released October 17, 2026
+
         Sanam Maroufkhani : Lyrics, composition, vocal
+
         Avin Ahmadi : composition, oud, vocal
+
         Reza Tavakoli : composition, piano
+
         Kristian Lind : double bass
+
         András Dés: percussion
+
         Robin Gillard : Recording engineer
+
         Reza Tavakoli : Mixing engineer
+
         Cover Art : Sarah Savalanpour
-        Produced by : Salam Festival, Sanam Maroufkhani, Avin Ahmadi, Reza Tavakoli
+
+        Produced by : Salam Festival, Sanam Maroufkhani, Avin Ahmadi, Reza Tavakoli'
       accessed: '2026-10-19'
   - value:
       text: آوین احمدی
@@ -30,3 +38,33 @@ statements:
         Reza Tavakoli : Mixing engineer \nCover Art : Sarah Savalanpour\nProduced by : Salam Festival, Sanam Maroufkhani,\
         \ Avin Ahmadi, Reza Tavakoli"
       accessed: '2026-10-21'
+  image:
+  - value: https://i.scdn.co/image/ab6761610000e5ebc013bc3af5a9b1266055cdfb
+    qualifiers:
+      credit:
+        text: Avin Ahmadi, Spotify artist profile
+        language: en
+    references:
+    - source: open.spotify.com-artist-21nqan74spxulqfysosp0n
+      quote: https://i.scdn.co/image/ab6761610000e5ebc013bc3af5a9b1266055cdfb
+      accessed: 2026-11-21
+      locator: Native artist portrait
+  profile link:
+  - value: https://open.spotify.com/artist/21nQAN74SPxULQfYSOSP0n
+    references:
+    - source: open.spotify.com-artist-21nqan74spxulqfysosp0n
+      quote: Avin Ahmadi
+      accessed: 2026-11-21
+      locator: Artist profile
+  - value: https://music.apple.com/us/artist/avin-ahmadi/1692394945
+    references:
+    - source: music.apple.com-us-artist-avin-ahmadi-1692394945
+      quote: Avin Ahmadi
+      accessed: 2026-11-21
+      locator: Artist profile
+  - value: https://avinahmadi.bandcamp.com/music
+    references:
+    - source: avinahmadi.bandcamp.com-music
+      quote: Avin Ahmadi
+      accessed: 2026-11-21
+      locator: Artist profile

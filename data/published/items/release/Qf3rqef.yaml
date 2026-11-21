@@ -1,0 +1,80 @@
+id: Qf3rqef
+type: release
+statements:
+  name:
+  - value:
+      text: Jivana
+      language: en
+    references:
+    - source: music.apple.com-us-album-jivana-6826159344
+      quote: Jivana
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
+  performer:
+  - value: Qje5fct
+    references:
+    - source: music.apple.com-us-album-jivana-6826159344
+      quote: Zanyar Hesami
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2026-10-23'
+    references:
+    - source: music.apple.com-us-album-jivana-6826159344
+      quote: '2026-10-23'
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/13/ae/2d13ae3e-6135-92dc-f380-0900589aabfc/7333596496067.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-jivana-6826159344
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/13/ae/2d13ae3e-6135-92dc-f380-0900589aabfc/7333596496067.jpg/1200x630bb.jpg
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Jivana - Single
+        language: en
+  listen link:
+  - value: https://music.apple.com/us/song/jivana/6826159563
+    references:
+    - source: music.apple.com-us-album-jivana-6826159344
+      quote: Jivana
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/3jUoEBS8MGlkpaT7fIqyIk
+    references:
+    - source: open.spotify.com-embed-album-2manazitfwj5prmffhwyle
+      quote: Jivana
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
+  - value: https://music.apple.com/us/album/jivana-single/6826159344
+    references:
+    - source: music.apple.com-us-album-jivana-6826159344
+      quote: Jivana - Single
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
+  - value: https://www.youtube.com/watch?v=vY8KzIoSDGI
+    references:
+    - source: www.youtube.com-oembed-vy8kziosdgi
+      quote: Jivana
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
+  contributor:
+  - value: Qkv6y8a
+    references:
+    - source: www.youtube.com-watchv-vy8kziosdgi
+      quote: Amanj Azarmi
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
+    qualifiers:
+      role: arranger
+  - value: Qje5fct
+    references:
+    - source: www.youtube.com-watchv-vy8kziosdgi
+      quote: Zanyar Hesami
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
+    qualifiers:
+      role: songwriter

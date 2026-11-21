@@ -1,0 +1,89 @@
+id: Qv2jf4p
+type: release
+statements:
+  name:
+  - value:
+      text: Darya
+      language: en
+    references:
+    - source: music.apple.com-us-album-darya-feat-habib-meftah-live-single-1493509476
+      quote: Darya (feat. Habib Meftah) [Live]
+      accessed: '2026-11-21'
+      locator: Release and track listing
+  performer:
+  - value: Qckkkx8
+    references:
+    - source: music.apple.com-us-album-darya-feat-habib-meftah-live-single-1493509476
+      quote: 'Listen to Darya (feat. Habib Meftah) [Live] - Single by Naghmeh Sharifi & Pouya Mahmoodi on Apple Music. 2019. 1 Song. Duration: 2 minutes.'
+      accessed: '2026-11-21'
+      locator: Distributor release billing
+  - value: Qjwhj2t
+    references:
+    - source: music.apple.com-us-album-darya-feat-habib-meftah-live-single-1493509476
+      quote: Pouya Mahmoodi
+      accessed: '2026-11-21'
+      locator: Artist billing
+    qualifiers:
+      role:
+      - guitar
+  - value: Q49prrc
+    references:
+    - source: music.apple.com-us-album-darya-feat-habib-meftah-live-single-1493509476
+      quote: Darya (feat. Habib Meftah) [Live]
+      accessed: '2026-11-21'
+      locator: Release and track listing
+  listen link:
+  - value: https://music.apple.com/us/song/darya-feat-habib-meftah-live/1493509479
+    references:
+    - source: music.apple.com-us-album-darya-feat-habib-meftah-live-single-1493509476
+      quote: https://music.apple.com/us/song/darya-feat-habib-meftah-live/1493509479
+      accessed: '2026-11-21'
+      locator: Distributor permalink
+  - value: https://open.spotify.com/track/7w4S0L5NqmDFAL3Xf226BP
+    references:
+    - source: open.spotify.com-embed-track-7w4s0l5nqmdfal3xf226bp
+      quote: Darya
+      accessed: '2026-11-21'
+      locator: Spotify track title
+  - value: https://naghmehs.bandcamp.com/track/darya
+    references:
+    - source: naghmehs.bandcamp.com-track-darya
+      quote: Darya ⁄ دریا
+      accessed: '2026-11-21'
+      locator: Vocalist’s original issue
+  release date:
+  - value:
+      date: '2019-12-20'
+    references:
+    - source: music.apple.com-us-album-darya-feat-habib-meftah-live-single-1493509476
+      quote: '2019-12-20'
+      accessed: '2026-11-21'
+      locator: Original issue date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/36/96/70/3696705b-0fd0-66b0-61d9-7cb9f4d829bb/7321170056011.png/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Distributor artwork via Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-darya-feat-habib-meftah-live-single-1493509476
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/36/96/70/3696705b-0fd0-66b0-61d9-7cb9f4d829bb/7321170056011.png/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Digital cover artwork
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-darya-feat-habib-meftah-live-single-1493509476
+      quote: 'Listen to Darya (feat. Habib Meftah) [Live] - Single by Naghmeh Sharifi & Pouya Mahmoodi on Apple Music. 2019. 1 Song. Duration: 2 minutes.'
+      accessed: '2026-11-21'
+      locator: Distributor release billing
+  contributor:
+  - value: Qjwhj2t
+    qualifiers:
+      role:
+      - composer
+    references:
+    - source: naghmehs.bandcamp.com-track-darya
+      quote: 'Guitar and Composition: Pouya Mahmoodi'
+      accessed: '2026-11-21'
+      locator: Original recording credits

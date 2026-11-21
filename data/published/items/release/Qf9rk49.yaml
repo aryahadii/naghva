@@ -1,0 +1,47 @@
+id: Qf9rk49
+type: release
+statements:
+  name:
+  - value:
+      text: Khazane Ghesseha
+      language: en
+    references:
+    - source: open.spotify.com-album-4tnwmk56ay54lnvefssh56
+      quote: Khazane Ghesseha
+      accessed: 2026-11-21
+      locator: Track title
+  performer:
+  - value: Qk67gf5
+    references:
+    - source: open.spotify.com-album-4tnwmk56ay54lnvefssh56
+      quote: Farshid Arabi
+      accessed: 2026-11-21
+      locator: Album artist credit
+  listen link:
+  - value: https://open.spotify.com/track/242IXbDBVadqYdaZl6yoXL
+    references:
+    - source: open.spotify.com-album-4tnwmk56ay54lnvefssh56
+      quote: Khazane Ghesseha
+      accessed: 2026-11-21
+      locator: Track title
+  - value: https://music.apple.com/us/song/khazane-ghesseha/1727054684
+    references:
+    - source: music.apple.com-us-album-penhan-1727054680
+      quote: Khazane Ghesseha
+      accessed: 2026-11-21
+      locator: Native title
+  release date:
+  - value:
+      date: '2003-01-18'
+    references:
+    - source: music.apple.com-us-album-penhan-1727054680
+      quote: '2003-01-18'
+      accessed: 2026-11-21
+      locator: Storefront release date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e1/cb/97/e1cb97eb-82fa-b413-2acd-b383335aa53e/198500048131.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-penhan-1727054680
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e1/cb/97/e1cb97eb-82fa-b413-2acd-b383335aa53e/198500048131.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Album artwork

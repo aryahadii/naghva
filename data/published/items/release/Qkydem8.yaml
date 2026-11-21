@@ -1,0 +1,45 @@
+id: Qkydem8
+type: release
+statements:
+  name:
+  - value:
+      text: Zahirig Baho, Zahirig Ballok Ordok, Mélodie Shervandi "Balach", Zahirig Kordi
+      language: en
+    references:
+    - source: open.spotify.com-track-52ruks85zwvcppzid64yub
+      quote: Zahirig Baho, Zahirig Ballok Ordok, Mélodie Shervandi "Balach", Zahirig Kordi - song and lyrics by Abdorahmân Surizehi,
+        Rahimbakhsh Zangeshâhi | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qnn5esv
+    references:
+    - source: open.spotify.com-track-52ruks85zwvcppzid64yub
+      quote: Abdorahmân Surizehi
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Qjzzdkk
+    references:
+    - source: open.spotify.com-track-52ruks85zwvcppzid64yub
+      quote: Rahimbakhsh Zangeshâhi
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://open.spotify.com/track/52RuKs85zWvCppziD64yUB
+    references:
+    - source: open.spotify.com-track-52ruks85zwvcppzid64yub
+      quote: Zahirig Baho, Zahirig Ballok Ordok, Mélodie Shervandi "Balach", Zahirig Kordi - song and lyrics by Abdorahmân Surizehi,
+        Rahimbakhsh Zangeshâhi | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d0000b273c5659276702fae605261f370
+    references:
+    - source: open.spotify.com-album-3sllsmztynd1zhxha5cjwz
+      quote: https://i.scdn.co/image/ab67616d0000b273c5659276702fae605261f370
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original publisher artwork
+        language: en

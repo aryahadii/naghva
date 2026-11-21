@@ -1,0 +1,21 @@
+id: Qcze68j
+type: person
+statements:
+  name:
+  - value:
+      text: Mike Block
+      language: en
+    references:
+    - source: ehsanmatoori.com-projects-borderless-band
+      quote: Mike Block (cello)
+      accessed: 2026-11-21
+      locator: Band personnel
+  member of:
+  - value: Qhzc5js
+    qualifiers:
+      role: cello
+    references:
+    - source: ehsanmatoori.com-projects-borderless-band
+      quote: Mike Block (cello)
+      accessed: 2026-11-21
+      locator: Band personnel

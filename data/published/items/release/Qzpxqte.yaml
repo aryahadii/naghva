@@ -1,0 +1,57 @@
+id: Qzpxqte
+type: release
+statements:
+  name:
+  - value:
+      text: Chaharpareh
+      language: en
+    references:
+    - source: music.apple.com-us-album-lalehzar-1458051999
+      quote: Chaharpareh
+      accessed: '2026-11-21'
+      locator: Track 10
+  performer:
+  - value: Qz9hcyk
+    references:
+    - source: music.apple.com-us-album-lalehzar-1458051999
+      quote: Javid Afsari Rad
+      accessed: '2026-11-21'
+      locator: Album billing
+  release date:
+  - value:
+      date: '2017-08-31'
+    references:
+    - source: music.apple.com-us-album-lalehzar-1458051999
+      quote: '2017-08-31'
+      accessed: '2026-11-21'
+      locator: Digital edition release
+  listen link:
+  - value: https://music.apple.com/us/song/chaharpareh/1458052167
+    references:
+    - source: music.apple.com-us-album-lalehzar-1458051999
+      quote: Chaharpareh
+      accessed: '2026-11-21'
+      locator: Track 10
+  - value: https://open.spotify.com/track/7MxwulKGtSAiHoCSpY4NXg
+    references:
+    - source: open.spotify.com-album-0qffkyveidl8waqx2gadp9
+      quote: Chaharpareh
+      accessed: '2026-11-21'
+      locator: Track 10
+  - value: https://javidasfarirad.bandcamp.com/track/chaharpareeh
+    references:
+    - source: javidasfarirad.bandcamp.com-album-lahlezar
+      quote: Chaharpareeh
+      accessed: '2026-11-21'
+      locator: Bandcamp track 10
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/1e/b0/a5/1eb0a5a4-23af-d4d9-8529-a15d8a2b5514/193483310435.jpg/632x632bb-60.jpg
+    references:
+    - source: music.apple.com-us-album-lalehzar-1458051999
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/1e/b0/a5/1eb0a5a4-23af-d4d9-8529-a15d8a2b5514/193483310435.jpg/632x632bb-60.jpg
+      accessed: '2026-11-21'
+      locator: Apple album cover
+    qualifiers:
+      credit:
+        text: Lalehzar · Apple Music
+        language: en

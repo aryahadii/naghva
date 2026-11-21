@@ -1,0 +1,48 @@
+id: Qfbvapp
+type: release
+statements:
+  name:
+  - value:
+      text: Phoenix
+      language: en
+    references:
+    - source: www.youtube.com-oembed-weyc9gqr2he
+      quote: سيمرغ / Phoenix by Hani Mojtahedy/ Damir Bacikin
+      locator: Original performance credit
+      accessed: '2026-11-21'
+  performer:
+  - value: Qnrm3kw
+    references:
+    - source: www.youtube.com-oembed-weyc9gqr2he
+      quote: سيمرغ / Phoenix by Hani Mojtahedy/ Damir Bacikin
+      locator: Original performance credit
+      accessed: '2026-11-21'
+    qualifiers:
+      role: vocals
+  cover art:
+  - value: https://i.ytimg.com/vi/WEYC9GqR2HE/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-weyc9gqr2he
+      quote: https://i.ytimg.com/vi/WEYC9GqR2HE/hqdefault.jpg
+      locator: Original video thumbnail
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Babylon ORCHESTRA · YouTube
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=WEYC9GqR2HE
+    references:
+    - source: www.youtube.com-oembed-weyc9gqr2he
+      quote: سيمرغ / Phoenix by Hani Mojtahedy/ Damir Bacikin
+      locator: Original performance credit
+      accessed: '2026-11-21'
+  contributor:
+  - value: Qgygnhh
+    references:
+    - source: www.youtube.com-watchv-weyc9gqr2he
+      quote: Damir Composes a moving piece of music
+      locator: Babylon ORCHESTRA credits the composer
+      accessed: '2026-11-21'
+    qualifiers:
+      role: composer

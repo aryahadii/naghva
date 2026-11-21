@@ -1,0 +1,55 @@
+id: Q2628hk
+type: release
+statements:
+  name:
+  - value:
+      text: Dance with me موسیقی تیتراز فیلم جهان با من برقص
+      language: fa
+    references:
+    - source: www.youtube.com-watchv-29lddjpzo8q
+      quote: Dance with me موسیقی تیتراز فیلم جهان با من برقص
+      accessed: '2026-11-21'
+      locator: Official upload title
+  performer:
+  - value: Qzhgpkw
+    references:
+    - source: www.youtube.com-watchv-29lddjpzo8q
+      quote: Dance with me موسیقی تیتراز فیلم جهان با من برقص
+      accessed: '2026-11-21'
+      locator: Official upload title
+    - source: www.youtube.com-watchv-29lddjpzo8q
+      quote: Babak Rajabi
+      accessed: '2026-11-21'
+      locator: Uploading artist
+  listen link:
+  - value: https://www.youtube.com/watch?v=29lddJpZO8Q
+    references:
+    - source: www.youtube.com-watchv-29lddjpzo8q
+      quote: Dance with me موسیقی تیتراز فیلم جهان با من برقص
+      accessed: '2026-11-21'
+      locator: Official upload title
+  - value: https://t.me/babakrajabii/274
+    references:
+    - source: t.me-babakrajabii-274
+      quote: تیتراژ فیلم "جهان با من برقص"
+      accessed: '2026-11-21'
+      locator: Native upload caption identifying the recording
+  release date:
+  - value:
+      date: '2020-08-26'
+    references:
+    - source: www.youtube.com-watchv-29lddjpzo8q
+      quote: '20200826'
+      accessed: '2026-11-21'
+      locator: Video publication date, YYYYMMDD
+  cover art:
+  - value: https://i.ytimg.com/vi/29lddJpZO8Q/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watchv-29lddjpzo8q
+      quote: https://i.ytimg.com/vi/29lddJpZO8Q/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Release image URL
+    qualifiers:
+      credit:
+        text: Babak Rajabi · YouTube
+        language: en

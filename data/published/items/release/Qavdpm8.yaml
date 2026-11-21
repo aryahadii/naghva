@@ -1,0 +1,43 @@
+id: Qavdpm8
+type: release
+statements:
+  name:
+  - value:
+      text: HomeSeq - Cinna Peyghamy Rework
+      language: en
+    references:
+    - source: open.spotify.com-track-6f0gef2gkr5viix9jmamhr
+      quote: HomeSeq - Cinna Peyghamy Rework
+      accessed: '2026-11-21'
+      locator: Recording title or artist credit
+  performer:
+  - value: Q4q92dh
+    references:
+    - source: open.spotify.com-track-6f0gef2gkr5viix9jmamhr
+      quote: HomeSeq - Cinna Peyghamy Rework - song and lyrics by CCTemple, Cinna Peyghamy | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://open.spotify.com/track/6f0gEf2gKR5VIiX9jMamHR
+    references:
+    - source: open.spotify.com-track-6f0gef2gkr5viix9jmamhr
+      quote: HomeSeq - Cinna Peyghamy Rework - song and lyrics by CCTemple, Cinna Peyghamy | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/4u38zbuuxJKuy09HN9A7LM
+    references:
+    - source: open.spotify.com-track-4u38zbuuxjkuy09hn9a7lm
+      quote: HomeSeq - Cinna Peyghamy Rework - song and lyrics by CCTemple, Cinna Peyghamy | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d0000b27376eb3da63199e90f11ce0489
+    references:
+    - source: open.spotify.com-track-6f0gef2gkr5viix9jmamhr
+      quote: https://i.scdn.co/image/ab67616d0000b27376eb3da63199e90f11ce0489
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Spotify
+        language: en

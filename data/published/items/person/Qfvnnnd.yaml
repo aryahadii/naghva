@@ -1,0 +1,75 @@
+id: Qfvnnnd
+type: person
+statements:
+  name:
+  - value:
+      text: Arshia Samsaminia
+      language: en
+    references:
+    - source: 2020.tiemf.com-project-sixth-day
+      quote: Arshia Samsaminia
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value:
+      text: ارشیا صمصامی‌نیا
+      language: fa
+    references:
+    - source: anoise.org-fa-artists-arshia-samsaminia
+      quote: ارشیا صمصامی‌نیا
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  birth date:
+  - value:
+      date: '1989'
+    references:
+    - &id001
+      source: norient.com-asamsaminia
+      quote: was born in Tehran in 1989.
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  birthplace:
+  - value: Qhm6fzw
+    references:
+    - *id001
+  profile link:
+  - value: https://soundcloud.com/arshia-samsaminia
+    references:
+    - source: soundcloud.com-arshia-samsaminia
+      quote: Stream Arshia.Samsaminia music | Listen to songs, albums, playlists for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/artist/arshia-samsaminia/1502379778
+    references:
+    - source: music.apple.com-us-artist-arshia-samsaminia-1502379778
+      quote: ‎Arshia Samsaminia - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://www.youtube.com/@arshiasamsaminia8772
+    references:
+    - source: www.youtube.com-arshiasamsaminia8772-videos
+      quote: Arshia Samsaminia - YouTube
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://arshiasamsaminia.bandcamp.com
+    references:
+    - source: arshiasamsaminia.bandcamp.com-album-4our
+      quote: 4our | Arshia Samsaminia
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/artist/6v6Zer58VOpgTRy3L7HqnN
+    references:
+    - source: open.spotify.com-artist-6v6zer58vopgtry3l7hqnn
+      quote: Listen to Arshia Samsaminia Songs | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  image:
+  - value: https://i1.sndcdn.com/avatars-guC5FWYFRy7U953X-xlfOeQ-large.jpg
+    references:
+    - source: soundcloud.com-arshia-samsaminia
+      quote: https://i1.sndcdn.com/avatars-guC5FWYFRy7U953X-xlfOeQ-large.jpg
+      accessed: '2026-11-21'
+      locator: Portrait on the composer’s SoundCloud account
+    qualifiers:
+      credit:
+        text: Arshia Samsaminia on SoundCloud
+        language: en

@@ -1,0 +1,47 @@
+id: Q45rd5b
+type: release
+statements:
+  name:
+  - value:
+      text: تک‌نوازی سه‌گاه
+      language: fa
+    references:
+    - source: www.youtube.com-oembed-sewagosndnw
+      quote: 'تک‌نوازی سه‌گاه '
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2025-09-17'
+    references:
+    - source: www.youtube.com-watchv-sewagosndnw
+      quote: '2025-09-17'
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://i.ytimg.com/vi/SeWAGOSnDnw/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-sewagosndnw
+      quote: https://i.ytimg.com/vi/SeWAGOSnDnw/hqdefault.jpg
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Soheil Hosnavi · original performance
+        language: en
+  performer:
+  - value: Q76q9jz
+    references:
+    - source: www.youtube.com-oembed-sewagosndnw
+      quote: Soheil Hosnavi
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: santur
+  listen link:
+  - value: https://www.youtube.com/watch?v=SeWAGOSnDnw
+    references:
+    - source: www.youtube.com-oembed-sewagosndnw
+      quote: 'تک‌نوازی سه‌گاه '
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'

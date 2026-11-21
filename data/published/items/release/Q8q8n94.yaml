@@ -1,0 +1,43 @@
+id: Q8q8n94
+type: release
+statements:
+  name:
+  - value:
+      text: Good morning machete
+      language: en
+    references:
+    - source: open.spotify.com-track-0vofyxeowh88jxes4awjf0
+      quote: Good morning machete
+      accessed: '2026-11-21'
+      locator: Recording title or artist credit
+  performer:
+  - value: Q4q92dh
+    references:
+    - source: open.spotify.com-track-0vofyxeowh88jxes4awjf0
+      quote: Good morning machete - song and lyrics by Saint Abdullah, Eomac, Cinna Peyghamy | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Q6zz69k
+    references:
+    - source: open.spotify.com-track-0vofyxeowh88jxes4awjf0
+      quote: Eomac
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://open.spotify.com/track/0vofyXEoWh88Jxes4aWJF0
+    references:
+    - source: open.spotify.com-track-0vofyxeowh88jxes4awjf0
+      quote: Good morning machete - song and lyrics by Saint Abdullah, Eomac, Cinna Peyghamy | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d0000b2736728068d87e16c65a127984b
+    references:
+    - source: open.spotify.com-track-0vofyxeowh88jxes4awjf0
+      quote: https://i.scdn.co/image/ab67616d0000b2736728068d87e16c65a127984b
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Spotify
+        language: en

@@ -1,0 +1,61 @@
+id: Qnd348g
+type: release
+statements:
+  name:
+  - value:
+      text: Epigraph (feat. Soheil Peyghambari, Mohammad Azmand, Ideen Shafaee & Mohammad Alizadeh)
+      language: en
+    references:
+    - source: music.apple.com-us-song-1744459088
+      quote: ‎Epigraph (feat. Soheil Peyghambari, Mohammad Azmand, Ideen Shafaee & Mohammad Alizadeh) - Song with Lyrics by Pooya Eshghinejad
+        - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Q3waxf2
+    references:
+    - source: music.apple.com-us-song-1744459088
+      quote: ‎Epigraph (feat. Soheil Peyghambari, Mohammad Azmand, Ideen Shafaee & Mohammad Alizadeh) - Song with Lyrics by Pooya Eshghinejad
+        - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qkgjnjf
+    references:
+    - source: music.apple.com-us-song-1744459088
+      quote: Pooya Eshghinejad
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://music.apple.com/us/song/1744459088
+    references:
+    - source: music.apple.com-us-song-1744459088
+      quote: ‎Epigraph (feat. Soheil Peyghambari, Mohammad Azmand, Ideen Shafaee & Mohammad Alizadeh) - Song with Lyrics by Pooya Eshghinejad
+        - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/0oRAr6wPOotwZA4WFlZAI1
+    references:
+    - source: open.spotify.com-track-0orar6wpootwza4wflzai1
+      quote: Epigraph - song and lyrics by Pooya Eshghinejad, Soheil Peyghambari, Mohammad Azmand, Ideen Shafaee, Mohammad Alizadeh
+        | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/82/3a/c5/823ac5fe-527d-e3ae-bda4-b02dd9221066/198500779226.jpg/600x600bb.webp
+    references:
+    - source: music.apple.com-us-song-1744459088
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/82/3a/c5/823ac5fe-527d-e3ae-bda4-b02dd9221066/198500779226.jpg/600x600bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Soheil Peyghambari on Apple Music
+        language: en
+  release date:
+  - value:
+      date: '2024-05-03'
+    references:
+    - source: music.apple.com-us-song-1744459088
+      quote: May 3, 2024
+      accessed: '2026-11-21'
+      locator: Published date

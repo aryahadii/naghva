@@ -1,0 +1,51 @@
+id: Q6tppbn
+type: release
+statements:
+  name:
+  - value:
+      text: Engar
+      language: en
+    references:
+    - source: music.apple.com-us-album-karmandan-401059007
+      quote: Engar
+      accessed: '2026-11-21'
+      locator: Track 5
+  performer:
+  - value: Qzjh64j
+    references:
+    - source: music.apple.com-us-album-karmandan-401059007
+      quote: Karmandan
+      accessed: '2026-11-21'
+      locator: Billed project
+  listen link:
+  - value: https://music.apple.com/us/song/engar/401059030
+    references:
+    - source: music.apple.com-us-album-karmandan-401059007
+      quote: https://music.apple.com/us/song/engar/401059030
+      accessed: '2026-11-21'
+      locator: Exact track link
+  - value: https://open.spotify.com/track/1TDi14Als4hAVM545aGia0
+    references:
+    - source: open.spotify.com-embed-album-4ndlxlknowugzlhbu55xzg
+      quote: spotify:track:1TDi14Als4hAVM545aGia0
+      accessed: '2026-11-21'
+      locator: Exact Spotify track URI
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music/15/77/a0/mzi.wbcvfaqm.jpg/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Digital issue via Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-karmandan-401059007
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music/15/77/a0/mzi.wbcvfaqm.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Original digital artwork
+  release date:
+  - value:
+      date: '2010-11-01'
+    references:
+    - source: music.apple.com-us-album-karmandan-401059007
+      quote: '2010-11-01'
+      accessed: '2026-11-21'
+      locator: Digital issue date

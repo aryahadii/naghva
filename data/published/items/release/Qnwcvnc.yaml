@@ -1,0 +1,85 @@
+id: Qnwcvnc
+type: release
+statements:
+  name:
+  - value:
+      text: Dear John (feat. Cutting Crew)
+      language: en
+    references:
+    - source: music.apple.com-us-album-dear-john-collaborations-1822923714
+      quote: Dear John (feat. Cutting Crew)
+      accessed: 2026-11-21
+      locator: Track title
+  performer:
+  - value: Qas33mb
+    references:
+    - source: music.apple.com-us-album-dear-john-collaborations-1822923714
+      quote: Sepp Osley
+      accessed: 2026-11-21
+      locator: Performer
+  - value: Q39vf7h
+    references:
+    - source: open.spotify.com-album-3ej7gesjtlhqhamkdf9hj6
+      quote: Sepp Osley, Cutting Crew
+      accessed: 2026-11-21
+      locator: Spotify track billing
+  listen link:
+  - value: https://music.apple.com/us/song/dear-john-feat-cutting-crew/1822923728
+    references:
+    - source: music.apple.com-us-album-dear-john-collaborations-1822923714
+      quote: Dear John (feat. Cutting Crew)
+      accessed: 2026-11-21
+      locator: Track title
+  - value: https://open.spotify.com/track/1BuRIGlkzIkzjsHT0D76HU
+    references:
+    - source: open.spotify.com-album-3ej7gesjtlhqhamkdf9hj6
+      quote: Sepp Osley, Cutting Crew
+      accessed: 2026-11-21
+      locator: Spotify track billing
+  - value: https://music.apple.com/us/song/dear-john-feat-cutting-crew/1822022849
+    references:
+    - source: music.apple.com-us-album-dear-john-feat-cutting-crew-single-1822022848
+      quote: Dear John (feat. Cutting Crew)
+      accessed: 2026-11-21
+      locator: Track title
+  - value: https://open.spotify.com/track/64obIwenRHjy539CE4DCRA
+    references:
+    - source: open.spotify.com-album-6gbom6bhc3cirtsdjczlb5
+      quote: Sepp Osley, Cutting Crew
+      accessed: 2026-11-21
+      locator: Spotify track billing
+  release date:
+  - value:
+      date: '2025-10-03'
+    references:
+    - source: music.apple.com-us-album-dear-john-collaborations-1822923714
+      quote: '2025-10-03'
+      accessed: 2026-11-21
+      locator: Edition date
+  - value:
+      date: '2025-08-08'
+    references:
+    - source: music.apple.com-us-album-dear-john-feat-cutting-crew-single-1822022848
+      quote: '2025-08-08'
+      accessed: 2026-11-21
+      locator: Edition date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/88/80/41/888041fd-922a-c81d-e4d4-a15a75481a4e/artwork.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-dear-john-collaborations-1822923714
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/88/80/41/888041fd-922a-c81d-e4d4-a15a75481a4e/artwork.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Edition artwork
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/26/b9/9a/26b99a83-04fa-fb98-08a6-670f774eba04/artwork.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-dear-john-feat-cutting-crew-single-1822022848
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/26/b9/9a/26b99a83-04fa-fb98-08a6-670f774eba04/artwork.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Edition artwork
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-dear-john-feat-cutting-crew-single-1822022848
+      quote: Dear John (feat. Cutting Crew)
+      accessed: 2026-11-21
+      locator: Track title

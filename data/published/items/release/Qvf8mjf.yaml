@@ -1,0 +1,57 @@
+id: Qvf8mjf
+type: release
+statements:
+  name:
+  - value:
+      text: The Inversion
+      language: en
+    references:
+    - source: music.apple.com-us-song-1593067238
+      quote: ‎The Inversion - Song with Lyrics by Soheil Peyghambari - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Q3waxf2
+    references:
+    - source: music.apple.com-us-song-1593067238
+      quote: ‎The Inversion - Song with Lyrics by Soheil Peyghambari - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://music.apple.com/us/song/1593067238
+    references:
+    - source: music.apple.com-us-song-1593067238
+      quote: ‎The Inversion - Song with Lyrics by Soheil Peyghambari - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/6CdWOwLU1bSSiDlqBMCpmb
+    references:
+    - source: open.spotify.com-track-6cdwowlu1bssidlqbmcpmb
+      quote: The Inversion - song and lyrics by Soheil Peyghambari | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://www.youtube.com/watch?v=l30yuUS1k1Q
+    references:
+    - source: www.youtube.com-watch-v-l30yuus1k1q
+      quote: The Inversion
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/74/3c/c9/743cc992-50dc-c84d-aee5-cad2735a656b/cover.jpg/600x600bb.webp
+    references:
+    - source: music.apple.com-us-song-1593067238
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/74/3c/c9/743cc992-50dc-c84d-aee5-cad2735a656b/cover.jpg/600x600bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Soheil Peyghambari on Apple Music
+        language: en
+  release date:
+  - value:
+      date: '2021-11-12'
+    references:
+    - source: music.apple.com-us-song-1593067238
+      quote: November 12, 2021
+      accessed: '2026-11-21'
+      locator: Published date

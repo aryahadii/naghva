@@ -1,0 +1,46 @@
+id: Qtfv43e
+type: release
+statements:
+  name:
+  - value:
+      text: Dawn · Brooklyn premiere
+      language: en
+    references:
+    - source: oxingalemusic.com-2024-04-03-dawn
+      quote: Dawn
+      locator: Publisher, artist or ensemble recording credits
+      accessed: '2026-11-21'
+  performer:
+  - value: Q3ytwxm
+    references:
+    - source: oxingalemusic.com-2024-04-03-dawn
+      quote: by vocalist Mahya Hamedi and pianist Ava Nazar.
+      locator: Publisher, artist or ensemble recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: vocals
+  - value: Qgarjmm
+    references:
+    - source: oxingalemusic.com-2024-04-03-dawn
+      quote: by vocalist Mahya Hamedi and pianist Ava Nazar.
+      locator: Publisher, artist or ensemble recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: piano
+  release date:
+  - value:
+      date: '2024-01-20'
+    references:
+    - source: oxingalemusic.com-2024-04-03-dawn
+      quote: First performed January, 20, 2024
+      locator: Publisher, artist or ensemble recording credits
+      accessed: '2026-11-21'
+  contributor:
+  - value: Q9vh3ek
+    references:
+    - source: oxingalemusic.com-2024-04-03-dawn
+      quote: By Niloufar Nourbakhsh
+      locator: Publisher, artist or ensemble recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: composer

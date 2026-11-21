@@ -1,0 +1,32 @@
+id: Qq98279
+type: release
+statements:
+  name:
+  - value:
+      text: SETAR, REBELIÓN, Mehdi Moshtagh | شورش، مهدی مشتاق
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-vkn1aaibtmk
+      quote: SETAR, REBELIÓN, Mehdi Moshtagh | شورش، مهدی مشتاق
+      accessed: '2026-11-21'
+      locator: Music credited by musician or performance publisher
+  performer:
+  - value: Qqb9bnx
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/Vkn1aAIbtMk/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-vkn1aaibtmk
+      quote: https://i.ytimg.com/vi/Vkn1aAIbtMk/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video frame
+    qualifiers:
+      credit:
+        text: Mehdi Moshtagh
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=Vkn1aAIbtMk
+    references:
+    - *id001

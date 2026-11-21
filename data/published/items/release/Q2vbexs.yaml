@@ -1,0 +1,35 @@
+id: Q2vbexs
+type: release
+statements:
+  name:
+  - value:
+      text: shanbehzadeh ensemble dance .mp4
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-13x-ssvimbo
+      quote: shanbehzadeh ensemble dance .mp4
+      accessed: '2026-11-21'
+      locator: Artist-published performance film
+  performer:
+  - value: Qyd93n9
+    references:
+    - *id001
+  - value: Qdtxp3v
+    references:
+    - *id001
+  listen link:
+  - value: https://www.youtube.com/watch?v=13x-ssvIMBo
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/13x-ssvIMBo/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-13x-ssvimbo
+      quote: https://i.ytimg.com/vi/13x-ssvIMBo/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original film frame
+    qualifiers:
+      credit:
+        text: saeid shanbehzadeh
+        language: en

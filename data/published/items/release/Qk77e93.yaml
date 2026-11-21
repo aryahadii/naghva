@@ -1,0 +1,53 @@
+id: Qk77e93
+type: release
+statements:
+  name:
+  - value:
+      text: Oftan O Khizan
+      language: en
+    references:
+    - source: music.apple.com-us-album-kooye-rendan-1814967695
+      quote: Oftan O Khizan (feat. Morteza Momenian)
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  performer:
+  - value: Q76q9jz
+    references:
+    - source: music.apple.com-us-album-kooye-rendan-1814967695
+      quote: Soheil Hosnavi
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: santur
+  release date:
+  - value:
+      date: '2025-04-25'
+    references:
+    - source: music.apple.com-us-album-kooye-rendan-1814967695
+      quote: '2025-04-25'
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/65/0f/7e/650f7eff-c88b-edbf-7783-09dad9556a11/199199641023.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-kooye-rendan-1814967695
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/65/0f/7e/650f7eff-c88b-edbf-7783-09dad9556a11/199199641023.jpg/1200x630bb.jpg
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Kooye Rendan
+        language: en
+  listen link:
+  - value: https://music.apple.com/us/song/oftan-o-khizan-feat-morteza-momenian/1814967704
+    references:
+    - source: music.apple.com-us-album-kooye-rendan-1814967695
+      quote: Oftan O Khizan (feat. Morteza Momenian)
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/3OkR6bdbFmM64Hw4bjYnBR
+    references:
+    - source: open.spotify.com-embed-album-5vzzv1h6pr2ngnrx4lwyw1
+      quote: Oftan O Khizan
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'

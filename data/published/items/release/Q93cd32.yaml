@@ -1,0 +1,62 @@
+id: Q93cd32
+type: release
+statements:
+  name:
+  - value:
+      text: First Name
+      language: en
+    references:
+    - source: www.youtube.com-watch-v-qtrfpiguojy
+      quote: نام کوچک - علی عظیمی / Ali Azimi - First Name
+      accessed: '2026-11-21'
+      locator: Original film title
+  - value:
+      text: نام کوچک
+      language: fa
+    references:
+    - source: www.youtube.com-watch-v-qtrfpiguojy
+      quote: نام کوچک
+      accessed: '2026-11-21'
+      locator: Persian title
+  performer:
+  - value: Qde2bbb
+    references:
+    - source: www.youtube.com-watch-v-qtrfpiguojy
+      quote: نام کوچک - علی عظیمی / Ali Azimi - First Name
+      accessed: '2026-11-21'
+      locator: Original film title
+  - value: Qjwhj2t
+    qualifiers:
+      role:
+      - guitar
+    references:
+    - source: www.youtube.com-watch-v-qtrfpiguojy
+      quote: 'Guitar: Pouya Mahmoodi'
+      accessed: '2026-11-21'
+      locator: Azimi’s original guitar credit
+  listen link:
+  - value: https://www.youtube.com/watch?v=QTRfpiGUOJY
+    references:
+    - source: www.youtube.com-watch-v-qtrfpiguojy
+      quote: نام کوچک - علی عظیمی / Ali Azimi - First Name
+      accessed: '2026-11-21'
+      locator: Original film title
+  cover art:
+  - value: https://i.ytimg.com/vi/QTRfpiGUOJY/maxresdefault.jpg
+    qualifiers:
+      credit:
+        text: Ali Azimi on YouTube
+        language: en
+    references:
+    - source: www.youtube.com-watch-v-qtrfpiguojy
+      quote: https://i.ytimg.com/vi/QTRfpiGUOJY/maxresdefault.jpg
+      accessed: '2026-11-21'
+      locator: Publisher’s original thumbnail
+  release date:
+  - value:
+      date: '2019-10-05'
+    references:
+    - source: www.youtube.com-watch-v-qtrfpiguojy
+      quote: '2019-10-05'
+      accessed: '2026-11-21'
+      locator: Film publication

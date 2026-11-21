@@ -1,0 +1,75 @@
+id: Q3svszg
+type: release
+statements:
+  name:
+  - value:
+      text: I would want it all
+      language: en
+    references:
+    - source: music.apple.com-us-song-6815697981
+      quote: ‎I would want it all - Song with Lyrics by Meshcut - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qh6s4f5
+    references:
+    - source: music.apple.com-us-song-6815697981
+      quote: ‎I would want it all - Song with Lyrics by Meshcut - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Q8v6j5h
+    references:
+    - source: open.spotify.com-track-3ztvch7ynnpkpq6r5w6wnn
+      quote: I would want it all - song and lyrics by SALVAATION, Meshcut, OUI FUTURE | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qdfencm
+    references:
+    - source: open.spotify.com-album-4ijti5i78qclzpxrv3sxoz
+      quote: OUI FUTURE
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://music.apple.com/us/song/6815697981
+    references:
+    - source: music.apple.com-us-song-6815697981
+      quote: ‎I would want it all - Song with Lyrics by Meshcut - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/7MJ1G3OwXiJ0ma1XWZ38OO
+    references:
+    - source: open.spotify.com-track-7mj1g3owxij0ma1xwz38oo
+      quote: I would want it all - song and lyrics by Meshcut | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/meshcut/i-would-want-it-all-5
+    references:
+    - source: soundcloud.com-meshcut-i-would-want-it-all-5
+      quote: Stream I would want it all by Meshcut | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/3ZtvCh7YNnpkPQ6R5W6wnN
+    references:
+    - source: open.spotify.com-track-3ztvch7ynnpkpq6r5w6wnn
+      quote: I would want it all - song and lyrics by SALVAATION, Meshcut, OUI FUTURE | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c1/9e/db/c19edba9-0b84-e9dd-ee7c-08621472a009/artwork.jpg/600x600bb.webp
+    references:
+    - source: music.apple.com-us-song-6815697981
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c1/9e/db/c19edba9-0b84-e9dd-ee7c-08621472a009/artwork.jpg/600x600bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original recording artwork
+        language: en
+  release date:
+  - value:
+      date: '2026-03-18'
+    references:
+    - source: open.spotify.com-album-4ijti5i78qclzpxrv3sxoz
+      quote: '2026-03-18'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits

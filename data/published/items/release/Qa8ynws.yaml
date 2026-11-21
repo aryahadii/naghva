@@ -1,0 +1,59 @@
+id: Qa8ynws
+type: release
+statements:
+  name:
+  - value:
+      text: Rokhsat
+      language: en
+    references:
+    - source: music.apple.com-us-album-rokhsat-single-1783614932
+      quote: Rokhsat
+      accessed: 2026-11-21
+      locator: Apple recording name and billing
+  performer:
+  - value: Q2fdqjp
+    references:
+    - source: music.apple.com-us-album-rokhsat-single-1783614932
+      quote: Rokhsat
+      accessed: 2026-11-21
+      locator: Apple recording name and billing
+  - value: Qevmv7f
+    references:
+    - source: music.apple.com-us-album-rokhsat-single-1783614932
+      quote: Rokhsat
+      accessed: 2026-11-21
+      locator: Apple recording name and billing
+  listen link:
+  - value: https://music.apple.com/us/song/rokhsat/1783614933
+    references:
+    - source: music.apple.com-us-album-rokhsat-single-1783614932
+      quote: Rokhsat
+      accessed: 2026-11-21
+      locator: Apple recording name and billing
+  - value: https://open.spotify.com/track/37WfO2SUbl9mBzqqNWlI2w
+    references:
+    - source: open.spotify.com-album-5viobpxmhgogbx7qfrtnxe
+      quote: Rokhsat
+      accessed: 2026-11-21
+      locator: Native recording title
+  - value: https://youtu.be/m4qucOH_B18
+    references:
+    - source: youtu.be-m4qucoh_b18
+      quote: Jamin feat. Justina - Rokhsat | Cypher جامین و جاستینا - رخصت
+      accessed: 2026-11-21
+      locator: Jamin artist channel
+  release date:
+  - value:
+      date: '2024-12-05'
+    references:
+    - source: music.apple.com-us-album-rokhsat-single-1783614932
+      quote: '2024-12-05'
+      accessed: 2026-11-21
+      locator: Digital edition release date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/dd/ac/1c/ddac1cd4-3ef3-a519-d2ef-d339d1417bf7/cover.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-rokhsat-single-1783614932
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/dd/ac/1c/ddac1cd4-3ef3-a519-d2ef-d339d1417bf7/cover.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Edition artwork

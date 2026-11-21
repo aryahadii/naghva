@@ -1,0 +1,17 @@
+id: Qwc638r
+type: release
+statements:
+  name:
+  - value:
+      text: COLDSTREAM A/V
+      language: en
+    references:
+    - &id001
+      source: montreal.mutek.org-en-artists-idlefon-amir-b-ash
+      quote: Idlefon + Amir B. Ash IR — COLDSTREAM A/V
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  performer:
+  - value: Qjjdrek
+    references:
+    - *id001

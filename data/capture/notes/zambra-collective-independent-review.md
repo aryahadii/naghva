@@ -1,0 +1,3 @@
+# Zambra Collective independent review
+
+9.2/10. Sources 1.9, prose 1.9, catalogue 2.8, images 0.9, gaps 1.7. The band’s calendar, Boston presenter and Detroit Jazz Festival programme corroborate the pre-Detroit shows, the quintet and clarinet guest, and the Songs for Our Mothers commission. Both articles now explain the dedication and the contrasting traditions behind it, including sardana and Indian boat songs. The three verified films identify all five performers. The ensemble cites individually released tracks on its listening page; these retain their original billing. Three panels, thirteen decoded images and working article anchors appear in each language.

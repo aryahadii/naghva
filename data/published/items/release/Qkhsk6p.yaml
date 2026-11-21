@@ -1,0 +1,45 @@
+id: Qkhsk6p
+type: release
+statements:
+  name:
+  - value:
+      text: Contemporary Persian Poetry and Music · Excerpt 01
+      language: en
+    references:
+    - source: www.youtube.com-oembed-lq5nyy8v_ju
+      quote: Contemporary Persian Poetry and Music (excerpt 01)
+      locator: Publisher, artist or ensemble recording credits
+      accessed: '2026-11-21'
+  performer:
+  - value: Q3ytwxm
+    references:
+    - source: www.shirazensemble.com-videos
+      quote: Mahya Hamedi, Voice
+      locator: Publisher, artist or ensemble recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: vocals
+  - value: Q87wshb
+    references:
+    - source: www.shirazensemble.com-videos
+      quote: Shiraz Ensemble
+      locator: Publisher, artist or ensemble recording credits
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://www.youtube.com/watch?v=lq5NYY8V_JU
+    references:
+    - source: www.youtube.com-oembed-lq5nyy8v_ju
+      quote: Contemporary Persian Poetry and Music (excerpt 01)
+      locator: Publisher, artist or ensemble recording credits
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://i.ytimg.com/vi/lq5NYY8V_JU/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-lq5nyy8v_ju
+      quote: https://i.ytimg.com/vi/lq5NYY8V_JU/hqdefault.jpg
+      locator: Publisher, artist or ensemble recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Shiraz Ensemble
+        language: en

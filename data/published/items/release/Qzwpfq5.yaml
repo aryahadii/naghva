@@ -1,0 +1,45 @@
+id: Qzwpfq5
+type: release
+statements:
+  name:
+  - value:
+      text: Ay Adamha
+      language: en
+    references:
+    - source: www.youtube.com-watch-v-8lc93bibvny
+      quote: '"Ay Adamha" - Niaz Nawab with HamidReaza Javdan'
+      accessed: '2026-11-21'
+      locator: Artist video
+  performer:
+  - value: Qb269ps
+    references:
+    - source: www.youtube.com-watch-v-8lc93bibvny
+      quote: '"Ay Adamha" - Niaz Nawab with HamidReaza Javdan'
+      accessed: '2026-11-21'
+      locator: Artist video
+  listen link:
+  - value: https://www.youtube.com/watch?v=8lc93BiBvnY
+    references:
+    - source: www.youtube.com-watch-v-8lc93bibvny
+      quote: '"Ay Adamha" - Niaz Nawab with HamidReaza Javdan'
+      accessed: '2026-11-21'
+      locator: Artist video
+  cover art:
+  - value: https://i.ytimg.com/vi/8lc93BiBvnY/maxresdefault.jpg
+    qualifiers:
+      credit:
+        text: Niaz Nawab
+        language: en
+    references:
+    - source: www.youtube.com-watch-v-8lc93bibvny
+      quote: https://i.ytimg.com/vi/8lc93BiBvnY/maxresdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video artwork
+  release date:
+  - value:
+      date: '2023-05-25'
+    references:
+    - source: www.youtube.com-watch-v-8lc93bibvny
+      quote: '2023-05-25'
+      accessed: '2026-11-21'
+      locator: Video publication

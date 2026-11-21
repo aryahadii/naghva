@@ -1,0 +1,70 @@
+id: Q4d6gpn
+type: release
+statements:
+  name:
+  - value:
+      text: Towards the North
+      language: en
+    references:
+    - source: eishanensemble.bandcamp.com-track-towards-the-north
+      quote: Towards the North
+      accessed: '2026-11-21'
+      locator: Track heading
+  performer:
+  - value: Qhebfsp
+    references:
+    - source: eishanensemble.bandcamp.com-track-towards-the-north
+      quote: Towards the North | Eishan Ensemble
+      accessed: '2026-11-21'
+      locator: Track and performer
+  release date:
+  - value:
+      date: '2025-05-09'
+    references:
+    - source: eishanensemble.bandcamp.com-album-northern-rhapsody
+      quote: released May 9, 2025
+      accessed: '2026-11-21'
+      locator: Release date
+  cover art:
+  - value: https://f4.bcbits.com/img/a3474275919_10.jpg
+    qualifiers:
+      credit:
+        text: PHOTOS & DESIGN by Laura Pleifer
+        language: en
+    references:
+    - source: eishanensemble.bandcamp.com-album-northern-rhapsody
+      quote: https://f4.bcbits.com/img/a3474275919_10.jpg
+      accessed: '2026-11-21'
+      locator: Album cover
+    - source: eishanensemble.bandcamp.com-album-northern-rhapsody
+      quote: PHOTOS & DESIGN by Laura Pleifer
+      accessed: '2026-11-21'
+      locator: Cover credit
+  listen link:
+  - value: https://eishanensemble.bandcamp.com/track/towards-the-north
+    references:
+    - source: eishanensemble.bandcamp.com-track-towards-the-north
+      quote: Towards the North | Eishan Ensemble
+      accessed: '2026-11-21'
+      locator: Track and performer
+  - value: https://open.spotify.com/track/29TQ6R2FQYgQUGuQfhEmPW
+    references:
+    - source: open.spotify.com-album-4pzfvv5eoxjgiu1t05pfwf
+      quote: Towards the north
+      accessed: '2026-11-21'
+      locator: Spotify album track 4
+  - value: https://music.apple.com/us/album/towards-the-north/1808721230?i=1808721654
+    references:
+    - source: music.apple.com-us-album-northern-rhapsody-1808721230
+      quote: Towards the north
+      accessed: '2026-11-21'
+      locator: Apple Music track 4
+  contributor:
+  - value: Qmgbz4h
+    qualifiers:
+      role: composer
+    references:
+    - source: eishanensemble.bandcamp.com-album-northern-rhapsody
+      quote: COMPOSER Hamed Sadeghi
+      accessed: '2026-11-21'
+      locator: Composer credit

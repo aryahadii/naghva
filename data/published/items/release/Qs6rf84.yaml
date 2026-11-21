@@ -1,0 +1,32 @@
+id: Qs6rf84
+type: release
+statements:
+  name:
+  - value:
+      text: 'Reng Azari, Setar | رنگ آذری، سه‌تار '
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-qc4ohlzvahg
+      quote: 'Reng Azari, Setar | رنگ آذری، سه‌تار '
+      accessed: '2026-11-21'
+      locator: Music credited by musician or performance publisher
+  performer:
+  - value: Qqb9bnx
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/qc4oHLZVAHg/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-qc4ohlzvahg
+      quote: https://i.ytimg.com/vi/qc4oHLZVAHg/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video frame
+    qualifiers:
+      credit:
+        text: Mehdi Moshtagh
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=qc4oHLZVAHg
+    references:
+    - *id001

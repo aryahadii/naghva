@@ -1,0 +1,76 @@
+id: Qfbmbc3
+type: release
+statements:
+  name:
+  - value:
+      text: The Lasso
+      language: en
+    references:
+    - source: maryamrahmani.bandcamp.com-track-the-lasso
+      quote: The Lasso
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  performer:
+  - value: Qtwtxvd
+    references:
+    - source: maryamrahmani.bandcamp.com-track-the-lasso
+      quote: The Lasso | Maryam Rahmani
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qfqjna5
+    references:
+    - source: maryamrahmani.bandcamp.com-album-kamand
+      quote: David Moran - cello on 3, 4, 5 and 8
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Qq95fvt
+    references:
+    - source: maryamrahmani.bandcamp.com-album-kamand
+      quote: Gustavo Quintino - double bass on 3 and 8
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://maryamrahmani.bandcamp.com/track/the-lasso
+    references:
+    - source: maryamrahmani.bandcamp.com-track-the-lasso
+      quote: The Lasso | Maryam Rahmani
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/the-lasso/1832657062
+    references:
+    - source: music.apple.com-us-song-the-lasso-1832657062
+      quote: ‎The Lasso - Song with Lyrics by Maryam Rahmani - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/0pjXPeTvO2EJMlf6LG2l5y
+    references:
+    - source: open.spotify.com-track-0pjxpetvo2ejmlf6lg2l5y
+      quote: The Lasso - song and lyrics by Maryam Rahmani | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2025-08-22'
+    references:
+    - source: maryamrahmani.bandcamp.com-album-kamand
+      quote: released August 22, 2025
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a1069223098_10.jpg
+    references:
+    - source: maryamrahmani.bandcamp.com-track-the-lasso
+      quote: https://f4.bcbits.com/img/a1069223098_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Kaspar Schmidt Mumm / Music in Exile
+        language: en
+  published by:
+  - value: Qarpnwr
+    references:
+    - source: maryamrahmani.bandcamp.com-album-kamand
+      quote: Music in Exile
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits

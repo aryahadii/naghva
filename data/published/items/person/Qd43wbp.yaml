@@ -1,0 +1,54 @@
+id: Qd43wbp
+type: person
+statements:
+  name:
+  - value:
+      text: Mohammad Laryan
+      language: en
+    references:
+    - source: music.apple.com-us-artist-mohammad-laryan-1508150970
+      quote: ‎Mohammad Laryan - Apple Music
+      accessed: 2026-11-21
+      locator: Native profile
+  - value:
+      text: محمد لاریان
+      language: fa
+    references:
+    - source: t.me-siriyaensemble-220
+      quote: 'خواننده و ترانه سرا: محمد لاریان'
+      accessed: 2026-11-21
+      locator: Original group post 220
+  image:
+  - value: https://khoobo.com/wp-content/uploads/2022/07/Mize-Dotayi-16-1024x803.jpg
+    qualifiers:
+      credit:
+        text: A Table for Two, original CD booklet (via Khoobo)
+        language: en
+    references:
+    - source: khoobo.com-siriya-ensemble-a-table-for-two
+      quote: https://khoobo.com/wp-content/uploads/2022/07/Mize-Dotayi-16-1024x803.jpg
+      accessed: 2026-11-21
+      locator: Issued artist photograph
+  profile link:
+  - value: https://music.apple.com/us/artist/mohammad-laryan/1508150970
+    references:
+    - source: music.apple.com-us-artist-mohammad-laryan-1508150970
+      quote: ‎Mohammad Laryan - Apple Music
+      accessed: 2026-11-21
+      locator: Artist profile
+  - value: https://open.spotify.com/artist/43bEHJsdAJkuDgGPeMcWnO
+    references:
+    - source: open.spotify.com-artist-43behjsdajkudggpemcwno
+      quote: Listen to Mohammad Laryan Songs | Spotify
+      accessed: 2026-11-21
+      locator: Native artist profile
+  member of:
+  - value: Qxyqq7z
+    qualifiers:
+      role:
+      - vocals
+    references:
+    - source: themiracletheatre.com-events-siriya-ensemble
+      quote: Mohammad Laryan, Behrouz Sharifian, and Mehdi Monfared joined
+      accessed: 2026-11-21
+      locator: Personnel changes around 2017

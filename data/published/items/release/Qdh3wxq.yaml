@@ -1,0 +1,51 @@
+id: Qdh3wxq
+type: release
+statements:
+  name:
+  - value:
+      text: Bikhabar
+      language: en
+    references:
+    - source: music.apple.com-us-album-hafez-1076395652
+      quote: Bikhabar
+      accessed: '2026-11-21'
+      locator: Release track 2
+  listen link:
+  - value: https://music.apple.com/us/song/bikhabar/1076395657
+    references:
+    - source: music.apple.com-us-album-hafez-1076395652
+      quote: https://music.apple.com/us/song/bikhabar/1076395657
+      accessed: '2026-11-21'
+      locator: Exact Apple track
+  - value: https://open.spotify.com/track/4g5h1J9GUCh2Fwhdl40I10
+    references:
+    - source: open.spotify.com-embed-album-34xcqlxnnugecfy0lcqqga
+      quote: spotify:track:4g5h1J9GUCh2Fwhdl40I10
+      accessed: '2026-11-21'
+      locator: Exact Spotify track
+  performer:
+  - value: Qb269ps
+    references:
+    - source: music.apple.com-us-album-hafez-1076395652
+      quote: Hafez
+      accessed: '2026-11-21'
+      locator: Native edition title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9d/b8/03/9db80326-ecb9-a12b-5343-aa8f67428613/638865015947.jpg/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Apple Music release artwork
+        language: en
+    references:
+    - source: music.apple.com-us-album-hafez-1076395652
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9d/b8/03/9db80326-ecb9-a12b-5343-aa8f67428613/638865015947.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Release cover
+  release date:
+  - value:
+      date: '2016-01-17'
+    references:
+    - source: music.apple.com-us-album-hafez-1076395652
+      quote: '2016-01-17'
+      accessed: '2026-11-21'
+      locator: Release date

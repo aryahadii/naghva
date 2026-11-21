@@ -1,0 +1,43 @@
+id: Q38kj7h
+type: release
+statements:
+  name:
+  - value:
+      text: The Beginnng
+      language: en
+    references:
+    - source: www.youtube.com-watch-v-sbh3plx2jlc
+      quote: The Beginnng
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qnw83g7
+    references:
+    - source: www.youtube.com-watch-v-sbh3plx2jlc
+      quote: The Beginnng
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qb5hnjh
+    references:
+    - source: www.zhinardalan.com
+      quote: vocalist and rhythm guitarist of The Finches
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://www.youtube.com/watch?v=SbH3plX2Jlc
+    references:
+    - source: www.youtube.com-watch-v-sbh3plx2jlc
+      quote: The Beginnng
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i.ytimg.com/vi/SbH3plX2Jlc/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-sbh3plx2jlc
+      quote: https://i.ytimg.com/vi/SbH3plX2Jlc/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: The Finches
+        language: en

@@ -13,8 +13,7 @@ statements:
   - value: album
     references:
     - source: music.apple.com-us-album-asheghane-ha-live-1778056291
-      quote: |-
-        Asheghane Ha (Live) - Album by Arash Fouladvand, Orchestre Philharmonique de Paris-Est & Bahar Choir Group - Apple Music
+      quote: Asheghane Ha (Live) - Album by Arash Fouladvand, Orchestre Philharmonique de Paris-Est & Bahar Choir Group - Apple Music
       accessed: '2026-11-08'
   listen link:
   - value: https://music.apple.com/us/album/asheghane-ha-live/1778056291
@@ -78,6 +77,18 @@ statements:
     - source: music.apple.com-us-song-asheghane-ha-live-1778056301
       quote: Asheghane Ha (Live) - Song with Lyrics by Arash Fouladvand, Vahid Taj, Sara Naeini, Orchestre Philharmonique de Paris-Est, Bahar Choir Group & Nigina Amonqulova - Apple Music
       accessed: '2026-11-08'
+  - value: Qs4s44j
+    references:
+    - source: music.apple.com-us-album-asheghane-ha-live-1778056291
+      quote: Bahar Choir Group
+      accessed: '2026-11-21'
+      locator: Group history, interview or original programme
+  - value: Qtk427w
+    references:
+    - source: music.apple.com-us-album-asheghane-ha-live-1778056291
+      quote: Asheghane Ha (Live)
+      accessed: '2026-11-21'
+      locator: Group history, interview or original programme
   release date:
   - value:
       date: '2024-11-09'

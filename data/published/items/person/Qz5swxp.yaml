@@ -7,13 +7,99 @@ statements:
       language: en
     references:
     - source: archive2013-2020.ctm-festival.de-archive-festival-editions-ctm-2017-fearangerlove-artists-0-9-9t-antiope-a033795156f3
-      quote: |-
-        9T Antiope is the Iranian duo of Sara Bigdeli Shamloo and Nima Aghiani. They combine acoustic instrumentation with voice and atmospheric electronics to bring alien and often-contradictory cultural worlds to light.
+      quote: 9T Antiope is the Iranian duo of Sara Bigdeli Shamloo and Nima Aghiani. They combine acoustic instrumentation with voice
+        and atmospheric electronics to bring alien and often-contradictory cultural worlds to light.
       accessed: '2026-10-19'
+  - value:
+      text: سارا بیگدلی شاملو
+      language: fa
+    references:
+    - source: soundcloud.com-sara-bigdeli-shamloo
+      quote: سارا بیگدلی شاملو
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value:
+      text: SarrSew
+      language: en
+    references:
+    - source: linktr.ee-sarrsew
+      quote: 'SarrSew : سَرسو'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value:
+      text: سَرسو
+      language: fa
+    references:
+    - source: linktr.ee-sarrsew
+      quote: 'SarrSew : سَرسو'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
   member of:
   - value: Qyv32ms
     references:
     - source: archive2013-2020.ctm-festival.de-archive-festival-editions-ctm-2017-fearangerlove-artists-0-9-9t-antiope-a033795156f3
-      quote: |-
-        9T Antiope is the Iranian duo of Sara Bigdeli Shamloo and Nima Aghiani. They combine acoustic instrumentation with voice and atmospheric electronics to bring alien and often-contradictory cultural worlds to light.
+      quote: 9T Antiope is the Iranian duo of Sara Bigdeli Shamloo and Nima Aghiani. They combine acoustic instrumentation with voice
+        and atmospheric electronics to bring alien and often-contradictory cultural worlds to light.
       accessed: '2026-10-19'
+  - value: Qw4rq4q
+    references:
+    - source: soundcloud.com-taraamoon
+      quote: پروژه‌ی مشترک "سارا بیگدلی شاملو" و "نیما عقیانی"
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Qbkmbta
+    references:
+    - source: mutek.org-en-speakers-sarabigdelishamloo
+      quote: she became the vocalist of "Migrain Sq."
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  birth date:
+  - value:
+      date: '1991'
+    references:
+    - &id001
+      source: mutek.org-en-speakers-sarabigdelishamloo
+      quote: Born in Tehran, 1991
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  birthplace:
+  - value: Qhm6fzw
+    references:
+    - *id001
+  based in:
+  - value: Qyhck8a
+    references:
+    - source: www.sledisland.com-2023-sarrsew
+      quote: Paris-based vocalist
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  profile link:
+  - value: https://music.apple.com/us/artist/sarrsew/1441062998
+    references:
+    - source: music.apple.com-us-artist-sarrsew-1441062998
+      quote: ‎SarrSew - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/artist/0lPgsSI5z7mMPeyZYjGFav
+    references:
+    - source: open.spotify.com-artist-0lpgssi5z7mmpeyzyjgfav
+      quote: Listen to SarrSew Songs | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/sara-bigdeli-shamloo
+    references:
+    - source: soundcloud.com-sara-bigdeli-shamloo
+      quote: Stream SarrSew music | Listen to songs, albums, playlists for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  image:
+  - value: https://i.scdn.co/image/ab6761610000e5eb66023f6432da49fd94768c0a
+    references:
+    - source: open.spotify.com-artist-0lpgssi5z7mmpeyzyjgfav
+      quote: https://i.scdn.co/image/ab6761610000e5eb66023f6432da49fd94768c0a
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: SarrSew on Spotify
+        language: en

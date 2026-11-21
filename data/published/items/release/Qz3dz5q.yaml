@@ -1,0 +1,63 @@
+id: Qz3dz5q
+type: release
+statements:
+  name:
+  - value:
+      text: Neruption
+      language: en
+    references:
+    - source: cinnapey.bandcamp.com-track-neruption-2
+      quote: Neruption
+      accessed: '2026-11-21'
+      locator: Recording title or artist credit
+  performer:
+  - value: Q4q92dh
+    references:
+    - source: cinnapey.bandcamp.com-track-neruption-2
+      quote: Neruption | Cinna Peyghamy
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://cinnapey.bandcamp.com/track/neruption-2
+    references:
+    - source: cinnapey.bandcamp.com-track-neruption-2
+      quote: Neruption | Cinna Peyghamy
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/neruption/1719051759
+    references:
+    - source: music.apple.com-us-song-neruption-1719051759
+      quote: ‎Neruption - Song with Lyrics by Cinna Peyghamy - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/6TBW8cR0azr8taZ5VO9VQk
+    references:
+    - source: open.spotify.com-track-6tbw8cr0azr8taz5vo9vqk
+      quote: Neruption - song and lyrics by Cinna Peyghamy | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/cikkun/neruption
+    references:
+    - source: soundcloud.com-cikkun-neruption
+      quote: Stream Neruption by Cinna Peyghamy | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a2621984663_10.jpg
+    references:
+    - source: cinnapey.bandcamp.com-track-neruption-2
+      quote: https://f4.bcbits.com/img/a2621984663_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Cinna Peyghamy on Bandcamp
+        language: en
+  release date:
+  - value:
+      date: '2017-05-08'
+    references:
+    - source: cinnapey.bandcamp.com-album-gamut
+      quote: released May 8, 2017
+      accessed: '2026-11-21'
+      locator: Published date

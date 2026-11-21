@@ -1,0 +1,45 @@
+id: Qwjc8js
+type: release
+statements:
+  name:
+  - value:
+      text: A Drowning
+      language: en
+    references:
+    - source: soundcloud.com-casualtyprocess-a-drowning-htda-remake
+      quote: A Drowning
+      accessed: '2026-11-21'
+      locator: Artist SoundCloud upload
+  performer:
+  - value: Qmdmc89
+    references:
+    - source: soundcloud.com-casualtyprocess-a-drowning-htda-remake
+      quote: A Drowning
+      accessed: '2026-11-21'
+      locator: Artist SoundCloud upload
+  release date:
+  - value:
+      date: '2011-07-31'
+    references:
+    - source: soundcloud.com-casualtyprocess-a-drowning-htda-remake
+      quote: '2011-07-31'
+      accessed: '2026-11-21'
+      locator: Native upload date
+  listen link:
+  - value: https://soundcloud.com/casualtyprocess/a-drowning-htda-remake
+    references:
+    - source: soundcloud.com-casualtyprocess-a-drowning-htda-remake
+      quote: A Drowning
+      accessed: '2026-11-21'
+      locator: Artist SoundCloud upload
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-000028025126-k548y9-large.jpg
+    qualifiers:
+      credit:
+        text: Casualty Process on SoundCloud
+        language: en
+    references:
+    - source: soundcloud.com-casualtyprocess-a-drowning-htda-remake
+      quote: https://i1.sndcdn.com/artworks-000028025126-k548y9-large.jpg
+      accessed: '2026-11-21'
+      locator: SoundCloud recording art

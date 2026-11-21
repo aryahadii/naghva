@@ -1,0 +1,77 @@
+id: Qw4rq4q
+type: act
+statements:
+  name:
+  - value:
+      text: Taraamoon
+      language: en
+    references:
+    - source: kainkollektiv.de-kainensemble-pelagie-alima
+      quote: Taraamoon
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value:
+      text: تَرامونْ
+      language: fa
+    references:
+    - source: soundcloud.com-taraamoon
+      quote: تَرامونْ
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  image:
+  - value: https://f4.bcbits.com/img/0024726426_21.jpg
+    references:
+    - source: 9tantiope.bandcamp.com
+      quote: Music | 9T Antiope
+      accessed: '2026-10-19'
+    - source: 9tantiope.bandcamp.com
+      quote: https://f4.bcbits.com/img/0024726426_21.jpg
+      accessed: '2026-10-19'
+    - source: www.emruzfestival.org-virtual-series-2020
+      quote: A second duo she has recently created with Nima Aghiani in 2020
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: Sara Bigdeli Shamloo and Nima Aghiani, from their 9T Antiope artist profile
+        language: en
+  formation date:
+  - value:
+      date: '2020'
+    references:
+    - source: www.emruzfestival.org-virtual-series-2020
+      quote: A second duo she has recently created with Nima Aghiani in 2020
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  based in:
+  - value: Qyhck8a
+    references:
+    - source: www.slugmag.com-music-interviews-music-interviews-unity-out-of-wreckage-interview-taraamoon
+      quote: Based in Paris
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  profile link:
+  - value: https://music.apple.com/us/artist/1510206419
+    references:
+    - source: music.apple.com-us-artist-1510206419
+      quote: ‎Taraamoon - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/artist/5hTZmtwT0gJJG6s1cRYDdY
+    references:
+    - source: open.spotify.com-artist-5htzmtwt0gjjg6s1cryddy
+      quote: Listen to Taraamoon Songs | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/taraamoon
+    references:
+    - source: soundcloud.com-taraamoon
+      quote: Stream TARAAMOON • ْتَرامون music | Listen to songs, albums, playlists for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://t.me/s/Taraamoon
+    references:
+    - source: t.me-s-taraamoon
+      quote: TARAAMOON • تَرامون – Telegram
+      accessed: '2026-11-21'
+      locator: Page title

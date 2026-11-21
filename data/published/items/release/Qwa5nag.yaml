@@ -1,0 +1,17 @@
+id: Qwa5nag
+type: release
+statements:
+  name:
+  - value:
+      text: Roya-e Shur Kamancheh, setar y tombak (Auditorio Blas Galindo)
+      language: en
+    references:
+    - &id001
+      source: videoteca.cenart.gob.mx-canal-23-255759-2
+      quote: 5 00.15:57.023 --> 00.19:58.015 Roya-e Shur Kamancheh, setar y tombak
+      accessed: '2026-11-21'
+      locator: Canal 23 broadcast cue 5
+  performer:
+  - value: Qcabd29
+    references:
+    - *id001

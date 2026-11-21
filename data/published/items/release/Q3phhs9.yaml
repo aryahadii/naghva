@@ -1,0 +1,29 @@
+id: Q3phhs9
+type: release
+statements:
+  name:
+  - value:
+      text: Lullaby and Down the Quod
+      language: en
+    references:
+    - &id001
+      source: safemuse.org-2025-06-20-pouya-pour-amin-an-artists-journey-from-fear-to-freedom
+      quote: Lullaby and Down the Quod
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  performer:
+  - value: Qr62rq7
+    references:
+    - *id001
+  release type:
+  - value: album
+    references:
+    - *id001
+  release date:
+  - value:
+      date: '2015'
+    references:
+    - source: safemuse.org-2025-06-20-pouya-pour-amin-an-artists-journey-from-fear-to-freedom
+      quote: In 2015, Pouya released his first album
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits

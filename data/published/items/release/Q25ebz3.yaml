@@ -1,0 +1,52 @@
+id: Q25ebz3
+type: release
+statements:
+  name:
+  - value:
+      text: Reng Mahour
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-oh7nfodjpa8
+      quote: Ensamble DIDAR - Reng Mahour | شهرآشوب ماهور
+      accessed: '2026-11-21'
+      locator: Original video title
+  - value:
+      text: شهرآشوب ماهور
+      language: fa
+    references:
+    - *id001
+  performer:
+  - value: Qcabd29
+    references:
+    - *id001
+  - value: Qqb9bnx
+    references:
+    - source: www.youtube.com-watch-v-oh7nfodjpa8
+      quote: Ensamble DIDAR - Reng Mahour | شهرآشوب ماهور
+      accessed: '2026-11-21'
+      locator: Music credited by musician or performance publisher
+  cover art:
+  - value: https://i.ytimg.com/vi/oH7NfODjPA8/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-oh7nfodjpa8
+      quote: https://i.ytimg.com/vi/oH7NfODjPA8/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original publisher image
+    qualifiers:
+      credit:
+        text: Mehdi Moshtagh
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=oH7NfODjPA8
+    references:
+    - *id001
+  contributor:
+  - value: Qj3y9w3
+    references:
+    - source: www.youtube.com-watch-v-v0bvjkoy8gk
+      quote: Shahr Ashub ...... Versión del Mtro. Musa Ma´rufí
+      accessed: '2026-11-21'
+      locator: Ten-work retrospective, original end-credit description
+    qualifiers:
+      role: arranger

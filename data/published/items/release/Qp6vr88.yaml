@@ -1,0 +1,43 @@
+id: Qp6vr88
+type: release
+statements:
+  name:
+  - value:
+      text: Raz o Niaz
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-_fzowsotygw
+      quote: Ensamble Didar, Raz o Niaz | راز و نیاز
+      accessed: '2026-11-21'
+      locator: Original video title
+  - value:
+      text: راز و نیاز
+      language: fa
+    references:
+    - *id001
+  performer:
+  - value: Qcabd29
+    references:
+    - *id001
+  - value: Qqb9bnx
+    references:
+    - source: www.youtube.com-watch-v-_fzowsotygw
+      quote: Ensamble Didar, Raz o Niaz | راز و نیاز
+      accessed: '2026-11-21'
+      locator: Music credited by musician or performance publisher
+  cover art:
+  - value: https://i.ytimg.com/vi/_FZowsOtyGw/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-_fzowsotygw
+      quote: https://i.ytimg.com/vi/_FZowsOtyGw/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original publisher image
+    qualifiers:
+      credit:
+        text: Mehdi Moshtagh
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=_FZowsOtyGw
+    references:
+    - *id001

@@ -1,0 +1,62 @@
+id: Qpnycfb
+type: release
+statements:
+  name:
+  - value:
+      text: Unceasing Lamentations
+      language: en
+    references:
+    - source: lowen.bandcamp.com-album-unceasing-lamentations
+      quote: Unceasing Lamentations
+      accessed: 2026-11-21
+      locator: Edition title
+  performer:
+  - value: Qr7sft5
+    references:
+    - source: lowen.bandcamp.com-album-unceasing-lamentations
+      quote: Lowen
+      accessed: 2026-11-21
+      locator: Artist credit
+  - value: Qnsexjj
+    qualifiers:
+      role:
+      - vocals
+    references:
+    - source: lowen.bandcamp.com-album-unceasing-lamentations
+      quote: Vocals, daf and shruti box by Nina Saeidi
+      accessed: 2026-11-21
+      locator: Live instruments
+  release date:
+  - value:
+      date: '2021-06-04'
+    references:
+    - source: lowen.bandcamp.com-album-unceasing-lamentations
+      quote: released June 4, 2021
+      accessed: 2026-11-21
+      locator: Release details
+  cover art:
+  - value: https://f4.bcbits.com/img/a0572754247_10.jpg
+    references:
+    - source: lowen.bandcamp.com-album-unceasing-lamentations
+      quote: https://f4.bcbits.com/img/a0572754247_10.jpg
+      accessed: 2026-11-21
+      locator: Release artwork
+  listen link:
+  - value: https://lowen.bandcamp.com/album/unceasing-lamentations
+    references:
+    - source: lowen.bandcamp.com-album-unceasing-lamentations
+      quote: Unceasing Lamentations
+      accessed: 2026-11-21
+      locator: Edition title
+  - value: https://music.apple.com/us/album/unceasing-lamentations-ep/1562173050
+    references:
+    - source: music.apple.com-us-album-unceasing-lamentations-ep-1562173050
+      quote: Unceasing Lamentations - EP
+      accessed: 2026-11-21
+      locator: Apple edition or track
+  - value: https://open.spotify.com/album/6dx9aj24qasDt6x4LvTQ6u
+    references:
+    - source: open.spotify.com-album-6dx9aj24qasdt6x4lvtq6u
+      quote: Unceasing Lamentations
+      accessed: 2026-11-21
+      locator: Release title

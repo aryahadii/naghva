@@ -1,0 +1,76 @@
+id: Qp95bta
+type: release
+statements:
+  name:
+  - value:
+      text: Arezoo Daram
+      language: en
+    references:
+    - source: music.apple.com-us-album-arezoo-daram-feat-saro-khachikian-single-1850843575
+      quote: Arezoo Daram (feat. Saro Khachikian)
+      accessed: '2026-11-21'
+      locator: Track 1
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-arezoo-daram-feat-saro-khachikian-single-1850843575
+      quote: Arezoo Daram (feat. Saro Khachikian)
+      accessed: '2026-11-21'
+      locator: Track 1
+  listen link:
+  - value: https://music.apple.com/us/song/arezoo-daram-feat-saro-khachikian/1850843577
+    references:
+    - source: music.apple.com-us-album-arezoo-daram-feat-saro-khachikian-single-1850843575
+      quote: https://music.apple.com/us/song/arezoo-daram-feat-saro-khachikian/1850843577
+      accessed: '2026-11-21'
+      locator: Exact Apple track
+  - value: https://music.apple.com/us/album/arezoo-daram-feat-saro-khachikian-single/1850843575
+    references:
+    - source: music.apple.com-us-album-arezoo-daram-feat-saro-khachikian-single-1850843575
+      quote: Arezoo Daram (feat. Saro Khachikian) - Single
+      accessed: '2026-11-21'
+      locator: Digital edition
+  - value: https://open.spotify.com/track/1acjOavH7OCj5udbySqZyA
+    references:
+    - source: open.spotify.com-embed-album-6bp71cmheauensuqhzhgp2
+      quote: spotify:track:1acjOavH7OCj5udbySqZyA
+      accessed: '2026-11-21'
+      locator: Native track URI
+  - value: https://open.spotify.com/album/6bP71cmhEAUeNsuQHzHgp2
+    references:
+    - source: open.spotify.com-embed-album-6bp71cmheauensuqhzhgp2
+      quote: Arezoo Daram
+      accessed: '2026-11-21'
+      locator: Spotify album
+  performer:
+  - value: Qy88zyz
+    references:
+    - source: music.apple.com-us-album-arezoo-daram-feat-saro-khachikian-single-1850843575
+      quote: Erwin Khachikian
+      accessed: '2026-11-21'
+      locator: Artist credit
+  - value: Qvfqy8q
+    references:
+    - source: music.apple.com-us-album-arezoo-daram-feat-saro-khachikian-single-1850843575
+      quote: Arezoo Daram (feat. Saro Khachikian)
+      accessed: '2026-11-21'
+      locator: Track 1
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a1/a8/13/a1a813ce-757c-e3e3-932f-ddbf81257aa6/199800929649.jpg/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Digital artwork via Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-arezoo-daram-feat-saro-khachikian-single-1850843575
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a1/a8/13/a1a813ce-757c-e3e3-932f-ddbf81257aa6/199800929649.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Edition artwork
+  release date:
+  - value:
+      date: '2025-11-25'
+    references:
+    - source: music.apple.com-us-album-arezoo-daram-feat-saro-khachikian-single-1850843575
+      quote: '2025-11-25'
+      accessed: '2026-11-21'
+      locator: Issue date

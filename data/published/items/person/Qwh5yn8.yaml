@@ -29,3 +29,52 @@ statements:
     - source: pccsd.org-music-concerts-and-plays
       quote: MOHSEN NAMJOO LIVE IN SAN DIEGO New Album Release In Collaboration with Ehsan Matoori
       accessed: '2026-10-23'
+  image:
+  - value: https://f4.bcbits.com/img/0020918020_10.jpg
+    references:
+    - source: ehsanmatoori.bandcamp.com-album-the-voices-and-bridges
+      quote: https://f4.bcbits.com/img/0020918020_10.jpg
+      accessed: 2026-11-21
+      locator: Artist profile photograph beside release, seated with santoor
+  profile link:
+  - value: https://music.apple.com/us/artist/ehsan-matoori/1368060433
+    references:
+    - source: music.apple.com-us-artist-ehsan-matoori-1368060433
+      quote: Ehsan Matoori
+      accessed: 2026-11-21
+      locator: Artist heading
+  - value: https://open.spotify.com/artist/644jAtbhNKKrDRijNSR84f
+    references:
+    - source: open.spotify.com-artist-644jatbhnkkrdrijnsr84f
+      quote: Ehsan Matoori
+      accessed: 2026-11-21
+      locator: Artist heading
+  - value: https://ehsanmatoori.bandcamp.com/music
+    references:
+    - source: ehsanmatoori.bandcamp.com-music
+      quote: Ehsan Matoori
+      accessed: 2026-11-21
+      locator: Artist heading
+  - value: https://soundcloud.com/ehsan-matoori
+    references:
+    - source: soundcloud.com-ehsan-matoori
+      quote: Ehsan Matoori
+      accessed: 2026-11-21
+      locator: Official artist profile
+  member of:
+  - value: Qtaawg8
+    qualifiers:
+      role: santur
+    references:
+    - source: riteofstrings.bandcamp.com-album-dust-and-the-moon
+      quote: Ehsan Matoori on Persian santoor
+      accessed: 2026-11-21
+      locator: Personnel statement
+  - value: Qhzc5js
+    qualifiers:
+      role: santur
+    references:
+    - source: ehsanmatoori.com-projects-borderless-band
+      quote: Matoori (santoor)
+      accessed: 2026-11-21
+      locator: Band personnel

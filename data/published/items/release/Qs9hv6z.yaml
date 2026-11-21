@@ -20,30 +20,39 @@ statements:
   - value: ep
     references:
     - source: open.spotify.com-haleh-16vvxhwjsjbkk51elkv6bp
-      quote: |-
-        Listen to Rank Of Fire - EP by Roham Sobhani | Spotify
+      quote: Listen to Rank Of Fire - EP by Roham Sobhani | Spotify
       accessed: '2026-11-06'
+  - value: album
+    references:
+    - source: music.apple.com-us-album-rank-of-fire-1603849563
+      quote: Rank of Fire
+      locator: Original release, programme or musician credits
+      accessed: '2026-11-21'
   performer:
   - value: Qs5p4nt
     references:
     - source: music.apple.com-haleh-1603849563
-      quote: 'Listen to Rank of Fire by Roham Sobhani, Hasan Sharghi & Haleh Seyfizadeh on Apple Music. 2022. 6 Songs. Duration: 44 minutes.'
+      quote: 'Listen to Rank of Fire by Roham Sobhani, Hasan Sharghi & Haleh Seyfizadeh on Apple Music. 2022. 6
+        Songs. Duration: 44 minutes.'
       accessed: '2026-11-06'
   - value: Q994qv8
     references:
     - source: music.apple.com-haleh-1603849563
-      quote: 'Listen to Rank of Fire by Roham Sobhani, Hasan Sharghi & Haleh Seyfizadeh on Apple Music. 2022. 6 Songs. Duration: 44 minutes.'
+      quote: 'Listen to Rank of Fire by Roham Sobhani, Hasan Sharghi & Haleh Seyfizadeh on Apple Music. 2022. 6
+        Songs. Duration: 44 minutes.'
       accessed: '2026-11-06'
   - value: Qwdtzsq
     references:
     - source: music.apple.com-haleh-1603849563
-      quote: 'Listen to Rank of Fire by Roham Sobhani, Hasan Sharghi & Haleh Seyfizadeh on Apple Music. 2022. 6 Songs. Duration: 44 minutes.'
+      quote: 'Listen to Rank of Fire by Roham Sobhani, Hasan Sharghi & Haleh Seyfizadeh on Apple Music. 2022. 6
+        Songs. Duration: 44 minutes.'
       accessed: '2026-11-06'
   listen link:
   - value: https://music.apple.com/us/album/rank-of-fire/1603849563
     references:
     - source: music.apple.com-haleh-1603849563
-      quote: 'Listen to Rank of Fire by Roham Sobhani, Hasan Sharghi & Haleh Seyfizadeh on Apple Music. 2022. 6 Songs. Duration: 44 minutes.'
+      quote: 'Listen to Rank of Fire by Roham Sobhani, Hasan Sharghi & Haleh Seyfizadeh on Apple Music. 2022. 6
+        Songs. Duration: 44 minutes.'
       accessed: '2026-11-06'
   - value: https://open.spotify.com/album/16vVxHwjSjbkK51ELkv6bp
     references:

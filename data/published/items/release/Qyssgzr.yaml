@@ -1,0 +1,32 @@
+id: Qyssgzr
+type: release
+statements:
+  name:
+  - value:
+      text: Darbuka Solo - Naghib Shanbehzadeh
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-yy9s3bni3na
+      quote: Darbuka Solo - Naghib Shanbehzadeh
+      accessed: '2026-11-21'
+      locator: Artist-published performance film
+  performer:
+  - value: Qvhrrm8
+    references:
+    - *id001
+  listen link:
+  - value: https://www.youtube.com/watch?v=YY9s3Bni3NA
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/YY9s3Bni3NA/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-yy9s3bni3na
+      quote: https://i.ytimg.com/vi/YY9s3Bni3NA/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original film frame
+    qualifiers:
+      credit:
+        text: naghib shanbehzadeh
+        language: en

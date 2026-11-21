@@ -1,0 +1,53 @@
+id: Qsssawn
+type: release
+statements:
+  name:
+  - value:
+      text: Flame Scream
+      language: en
+    references:
+    - source: music.apple.com-us-album-flame-scream-single-1511491153
+      quote: Flame Scream
+      accessed: 2026-11-21
+      locator: Track listing
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/ff/9d/ba/ff9dba77-d14b-c714-171b-3c463fdffd70/859738997010_cover.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-flame-scream-single-1511491153
+      quote: Flame Scream - Single
+      accessed: 2026-11-21
+      locator: Release heading
+  release date:
+  - value:
+      date: '2020-05-06'
+    references:
+    - source: music.apple.com-us-album-flame-scream-single-1511491153
+      quote: '2020-05-06'
+      accessed: 2026-11-21
+      locator: Edition release date
+  performer:
+  - value: Qwh5yn8
+    references:
+    - source: music.apple.com-us-album-flame-scream-single-1511491153
+      quote: Ehsan Matoori
+      accessed: 2026-11-21
+      locator: Release artist
+  - value: Q3v55f7
+    references:
+    - source: music.apple.com-us-album-flame-scream-single-1511491153
+      quote: Kourosh Babaei
+      accessed: 2026-11-21
+      locator: Release artist
+  listen link:
+  - value: https://music.apple.com/us/album/flame-scream-single/1511491153
+    references:
+    - source: music.apple.com-us-album-flame-scream-single-1511491153
+      quote: Flame Scream
+      accessed: 2026-11-21
+      locator: Track listing
+  - value: https://music.apple.com/us/song/flame-scream/1511491155
+    references:
+    - source: music.apple.com-us-album-flame-scream-single-1511491153
+      quote: Flame Scream
+      accessed: 2026-11-21
+      locator: Track listing

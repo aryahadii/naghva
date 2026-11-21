@@ -1,0 +1,41 @@
+id: Qbkga5b
+type: release
+statements:
+  name:
+  - value:
+      text: Iris
+      language: en
+    references:
+    - source: open.spotify.com-album-0czorwllsuspmtyhfggtyj
+      quote: Iris
+      accessed: '2026-11-21'
+      locator: Spotify edition title
+  release type:
+  - value: album
+    references:
+    - source: open.spotify.com-album-0czorwllsuspmtyhfggtyj
+      quote: Iris
+      accessed: '2026-11-21'
+      locator: Spotify edition title
+  listen link:
+  - value: https://open.spotify.com/album/0czoRWLlSUspMTYhfggTyj
+    references:
+    - source: open.spotify.com-album-0czorwllsuspmtyhfggtyj
+      quote: Iris
+      accessed: '2026-11-21'
+      locator: Spotify edition title
+  performer:
+  - value: Q5rnjaz
+    qualifiers:
+      role: tombak
+    references:
+    - source: labyrinthmusic.gr-en-pedram-khavarzamini
+      quote: Iris
+      accessed: '2026-11-21'
+      locator: Recorded work with Ross Daly
+  - value: Qd759z9
+    references:
+    - source: labyrinthmusic.gr-en-pedram-khavarzamini
+      quote: Ross Daly
+      accessed: '2026-11-21'
+      locator: Recorded with Ross Daly

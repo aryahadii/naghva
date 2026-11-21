@@ -1,0 +1,69 @@
+id: Qvpcxac
+type: release
+statements:
+  name:
+  - value:
+      text: Cheapskate
+      language: en
+    references:
+    - source: music.apple.com-us-song-1691951676
+      quote: ‎Cheapskate - Song with Lyrics by Mehrdad Azizi & Meshcut - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qh6s4f5
+    references:
+    - source: music.apple.com-us-song-1691951676
+      quote: ‎Cheapskate - Song with Lyrics by Mehrdad Azizi & Meshcut - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qk6fpk9
+    references:
+    - source: open.spotify.com-track-4p8ymuy7okgylqteglxppm
+      quote: Mehrdad Azizi
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://music.apple.com/us/song/1691951676
+    references:
+    - source: music.apple.com-us-song-1691951676
+      quote: ‎Cheapskate - Song with Lyrics by Mehrdad Azizi & Meshcut - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/4p8YMuY7OkGYlqtegLxPpM
+    references:
+    - source: open.spotify.com-track-4p8ymuy7okgylqteglxppm
+      quote: Cheapskate - song and lyrics by Mehrdad Azizi, Meshcut | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/meshcut/3a1a3a44-fd18-4ba0-98f3-a91d9297592b
+    references:
+    - source: soundcloud.com-meshcut-3a1a3a44-fd18-4ba0-98f3-a91d9297592b
+      quote: Stream Cheapskate by Meshcut | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/meshcut/30355ad0-ac34-4258-bf0e-fc04d267a49e
+    references:
+    - source: soundcloud.com-meshcut-30355ad0-ac34-4258-bf0e-fc04d267a49e
+      quote: Stream Cheapskate by Meshcut | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/86/a1/59/86a1590e-f7ee-f1ee-ebca-5dd849f015e1/5063341734435_cover.jpg/600x600bb.webp
+    references:
+    - source: music.apple.com-us-song-1691951676
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/86/a1/59/86a1590e-f7ee-f1ee-ebca-5dd849f015e1/5063341734435_cover.jpg/600x600bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original recording artwork
+        language: en
+  release date:
+  - value:
+      date: '2023-06-16'
+    references:
+    - source: music.apple.com-us-song-1691951676
+      quote: June 16, 2023
+      accessed: '2026-11-21'
+      locator: Published date

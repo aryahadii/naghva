@@ -1,0 +1,62 @@
+id: Qhtdkg2
+type: release
+statements:
+  name:
+  - value:
+      text: Ensamble Didar 2011–2016
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-tdn1kcxic08
+      quote: Ensamble Didar, Música Clásica Persa en México
+      accessed: '2026-11-21'
+      locator: Original video title
+  performer:
+  - value: Qcabd29
+    references:
+    - *id001
+  - value: Qecg827
+    references:
+    - source: www.youtube.com-watch-v-v0bvjkoy8gk
+      quote: Abbas Mandí ............... ...... Santur
+      accessed: '2026-11-21'
+      locator: Earlier cohort in 2011–2016 film credits
+    qualifiers:
+      role: santur
+  - value: Q4pdaft
+    references:
+    - source: www.youtube.com-watch-v-v0bvjkoy8gk
+      quote: Josafat Larios .................... Tombak y Daf
+      accessed: '2026-11-21'
+      locator: Earlier cohort in 2011–2016 film credits
+    qualifiers:
+      role:
+      - tombak
+      - daf
+  - value: Qqb9bnx
+    references:
+    - source: www.youtube.com-watch-v-tdn1kcxic08
+      quote: Ensamble Didar, Música Clásica Persa en México
+      accessed: '2026-11-21'
+      locator: Music credited by musician or performance publisher
+  cover art:
+  - value: https://i.ytimg.com/vi/Tdn1kcxiC08/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-tdn1kcxic08
+      quote: https://i.ytimg.com/vi/Tdn1kcxiC08/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original publisher image
+    qualifiers:
+      credit:
+        text: Mehdi Moshtagh
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=Tdn1kcxiC08
+    references:
+    - *id001
+  - value: https://www.youtube.com/watch?v=V0BVjKOy8Gk
+    references:
+    - source: www.youtube.com-watch-v-v0bvjkoy8gk
+      quote: Ensamble Didar 2011-2016
+      accessed: '2026-11-21'
+      locator: Original video title

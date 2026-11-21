@@ -1,0 +1,32 @@
+id: Q652xgn
+type: release
+statements:
+  name:
+  - value:
+      text: Shen Band - Quarantine Blues گروه شن
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-svv3vl_rxwo
+      quote: Shen Band - Quarantine Blues گروه شن
+      accessed: '2026-11-21'
+      locator: Artist-published video
+  performer:
+  - value: Qavhs3y
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/SVv3vl_rXwo/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-svv3vl_rxwo
+      quote: https://i.ytimg.com/vi/SVv3vl_rXwo/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original channel photo
+    qualifiers:
+      credit:
+        text: Shen Band, original YouTube film
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=SVv3vl_rXwo
+    references:
+    - *id001

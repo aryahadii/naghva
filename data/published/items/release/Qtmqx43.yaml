@@ -1,0 +1,61 @@
+id: Qtmqx43
+type: release
+statements:
+  name:
+  - value:
+      text: Z Bent
+      language: en
+    references:
+    - source: open.spotify.com-album-5wnw44qixpps7bii0yqmi6
+      quote: Z Bent
+      accessed: '2026-11-21'
+      locator: EP heading and five-track listing
+  performer:
+  - value: Q38h8s7
+    references:
+    - source: safemuse.org-portfolio-items-3345
+      quote: Z Bent, Farzane Zamen’s new EP
+      accessed: '2026-11-21'
+      locator: Z Bent
+  - value: Q4aznst
+    references:
+    - source: safemuse.org-portfolio-items-3345
+      quote: Egyptian performer and singer Habiba Makhlouf.
+      accessed: '2026-11-21'
+      locator: Production credits
+    qualifiers:
+      role:
+      - vocals
+  listen link:
+  - value: https://open.spotify.com/album/5WnW44QixppS7biI0yQmi6
+    references:
+    - source: open.spotify.com-album-5wnw44qixpps7bii0yqmi6
+      quote: Z Bent
+      accessed: '2026-11-21'
+      locator: EP heading and five-track listing
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d00001e02e4843021213c0795c6bfed02
+    references:
+    - source: open.spotify.com-album-5wnw44qixpps7bii0yqmi6
+      quote: https://i.scdn.co/image/ab67616d00001e02e4843021213c0795c6bfed02
+      accessed: '2026-11-21'
+      locator: Album artwork image on release page
+    qualifiers:
+      credit:
+        text: LIDIO – SafeMUSE Sounds, via Spotify
+        language: en
+  release date:
+  - value:
+      date: '2018'
+    references:
+    - source: open.spotify.com-album-5wnw44qixpps7bii0yqmi6
+      quote: '2018'
+      accessed: '2026-11-21'
+      locator: EP heading and five-track listing
+  release type:
+  - value: ep
+    references:
+    - source: safemuse.org-portfolio-items-3345
+      quote: Z Bent, Farzane Zamen’s new EP
+      accessed: '2026-11-21'
+      locator: Z Bent

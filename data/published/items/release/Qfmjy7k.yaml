@@ -1,0 +1,59 @@
+id: Qfmjy7k
+type: release
+statements:
+  name:
+  - value:
+      text: Cannibal Song (single)
+      language: en
+    references:
+    - source: hailstones-band.bandcamp.com-track-cannibal-song
+      quote: Cannibal Song | Hailstones
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Q2e2223
+    references:
+    - source: hailstones-band.bandcamp.com-track-cannibal-song
+      quote: Cannibal Song | Hailstones
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qjjdrek
+    references:
+    - source: www.sledisland.com-2025-hailstones
+      quote: solo endeavour of Idlefon’s Hesam Ohadi
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: vocals
+  listen link:
+  - value: https://hailstones-band.bandcamp.com/track/cannibal-song
+    references:
+    - source: hailstones-band.bandcamp.com-track-cannibal-song
+      quote: Cannibal Song | Hailstones
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://hailstones-band.bandcamp.com/album/cannibal-song-single
+    references:
+    - source: hailstones-band.bandcamp.com-album-cannibal-song-single
+      quote: Cannibal Song (Single) | Hailstones
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a1742597467_10.jpg
+    references:
+    - source: hailstones-band.bandcamp.com-track-cannibal-song
+      quote: https://f4.bcbits.com/img/a1742597467_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original publisher artwork
+        language: en
+  release date:
+  - value:
+      date: '2025-11-09'
+    references:
+    - source: hailstones-band.bandcamp.com-track-cannibal-song
+      quote: released November 9, 2025
+      accessed: '2026-11-21'
+      locator: Published date

@@ -1,0 +1,53 @@
+id: Qj3pvgs
+type: release
+statements:
+  name:
+  - value:
+      text: Santur & Qanun
+      language: en
+    references:
+    - source: www.youtube.com-oembed-bj1yawnww5y
+      quote: Santur & Qanun
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2026-08-14'
+    references:
+    - source: www.youtube.com-watchv-bj1yawnww5y
+      quote: '2026-08-14'
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://i.ytimg.com/vi/Bj1Yawnww5Y/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-bj1yawnww5y
+      quote: https://i.ytimg.com/vi/Bj1Yawnww5Y/hqdefault.jpg
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Soheil Hosnavi · original performance
+        language: en
+  performer:
+  - value: Q76q9jz
+    references:
+    - source: www.youtube.com-oembed-bj1yawnww5y
+      quote: Soheil Hosnavi
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: santur
+  listen link:
+  - value: https://www.youtube.com/watch?v=Bj1Yawnww5Y
+    references:
+    - source: www.youtube.com-oembed-bj1yawnww5y
+      quote: Santur & Qanun
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  - value: https://t.me/soheilhosnavi/1153
+    references:
+    - source: t.me-soheilhosnavi-1153
+      quote: Virtual duet with mertdemircioglu
+      locator: Artist channel, original post 1153
+      accessed: '2026-11-21'

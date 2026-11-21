@@ -1,0 +1,63 @@
+id: Qwr4xre
+type: release
+statements:
+  name:
+  - value:
+      text: The Sphere of Further
+      language: en
+    references:
+    - source: music.apple.com-us-song-1722900583
+      quote: ‎The Sphere of Further - Song with Lyrics by Kevin Kastning & Soheil Peyghambari - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Q3waxf2
+    references:
+    - source: music.apple.com-us-song-1722900583
+      quote: ‎The Sphere of Further - Song with Lyrics by Kevin Kastning & Soheil Peyghambari - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qyz8dqk
+    references:
+    - source: music.apple.com-us-song-1722900583
+      quote: Kevin Kastning
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://music.apple.com/us/song/1722900583
+    references:
+    - source: music.apple.com-us-song-1722900583
+      quote: ‎The Sphere of Further - Song with Lyrics by Kevin Kastning & Soheil Peyghambari - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/7Ekf483EChdO65eKzUy5b1
+    references:
+    - source: open.spotify.com-track-7ekf483echdo65ekzuy5b1
+      quote: The Sphere of Further - song and lyrics by Kevin Kastning, Soheil Peyghambari | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://www.youtube.com/watch?v=VntkPcNs84s
+    references:
+    - source: www.youtube.com-watch-v-vntkpcns84s
+      quote: The Sphere of Further
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/da/32/67/da3267f9-7de3-79ef-d187-4c8135c21533/artwork.jpg/600x600bb.webp
+    references:
+    - source: music.apple.com-us-song-1722900583
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/da/32/67/da3267f9-7de3-79ef-d187-4c8135c21533/artwork.jpg/600x600bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Soheil Peyghambari on Apple Music
+        language: en
+  release date:
+  - value:
+      date: '2024-01-23'
+    references:
+    - source: music.apple.com-us-song-1722900583
+      quote: January 23, 2024
+      accessed: '2026-11-21'
+      locator: Published date

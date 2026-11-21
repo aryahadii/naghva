@@ -1,0 +1,57 @@
+id: Qn5rwy5
+type: release
+statements:
+  name:
+  - value:
+      text: Of Loving You
+      language: en
+    references:
+    - source: music.apple.com-us-album-it-takes-time-ep-1035662555
+      quote: Of Loving You
+      accessed: '2026-11-21'
+      locator: Apple track
+  performer:
+  - value: Qmdmc89
+    references:
+    - source: music.apple.com-us-album-it-takes-time-ep-1035662555
+      quote: Of Loving You
+      accessed: '2026-11-21'
+      locator: Apple track
+  cover art:
+  - value: https://f4.bcbits.com/img/a3206007910_10.jpg
+    qualifiers:
+      credit:
+        text: Casualty Process on Bandcamp
+        language: en
+    references:
+    - source: casualtyprocess.bandcamp.com-album-it-takes-time
+      quote: https://f4.bcbits.com/img/a3206007910_10.jpg
+      accessed: '2026-11-21'
+      locator: Native art of this edition
+  release date:
+  - value:
+      date: '2015-08-26'
+    references:
+    - source: casualtyprocess.bandcamp.com-album-it-takes-time
+      quote: released August 26, 2015
+      accessed: '2026-11-21'
+      locator: Original issue
+  listen link:
+  - value: https://casualtyprocess.bandcamp.com/track/of-loving-you
+    references:
+    - source: casualtyprocess.bandcamp.com-track-of-loving-you
+      quote: Of Loving You | Casualty Process
+      accessed: '2026-11-21'
+      locator: Original page heading
+  - value: https://music.apple.com/us/song/of-loving-you/1035662701
+    references:
+    - source: music.apple.com-us-album-it-takes-time-ep-1035662555
+      quote: Of Loving You
+      accessed: '2026-11-21'
+      locator: Apple track
+  - value: https://soundcloud.com/casualtyprocess/04-of-loving-you-1
+    references:
+    - source: soundcloud.com-casualtyprocess-04-of-loving-you-1
+      quote: 04 Of Loving You
+      accessed: '2026-11-21'
+      locator: Artist SoundCloud upload

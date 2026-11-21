@@ -1,0 +1,55 @@
+id: Qajd9k4
+type: release
+statements:
+  name:
+  - value:
+      text: Side A
+      language: en
+    references:
+    - source: temp-illusion.bandcamp.com-track-side-a
+      quote: Side A
+      accessed: '2026-11-21'
+      locator: Track heading
+  performer:
+  - value: Q8tq6bc
+    references:
+    - source: temp-illusion.bandcamp.com-track-side-a
+      quote: Side A | Temp-Illusion
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2019-02-15'
+    references:
+    - source: temp-illusion.bandcamp.com-track-side-a
+      quote: released February 15, 2019
+      accessed: '2026-11-21'
+      locator: Release credits
+  listen link:
+  - value: https://temp-illusion.bandcamp.com/track/side-a
+    references:
+    - source: temp-illusion.bandcamp.com-track-side-a
+      quote: Side A | Temp-Illusion
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/side-a/1464654384
+    references:
+    - source: music.apple.com-us-song-side-a-1464654384
+      quote: ‎Side A - Song with Lyrics by Temp-Illusion - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a3010295758_10.jpg
+    references:
+    - source: temp-illusion.bandcamp.com-track-side-a
+      quote: https://f4.bcbits.com/img/a3010295758_10.jpg
+      accessed: '2026-11-21'
+      locator: Full artwork linked on the track page
+    - source: temp-illusion.bandcamp.com-album-autolected
+      quote: Arash Akbari
+      accessed: '2026-11-21'
+      locator: Release credits
+    qualifiers:
+      credit:
+        text: Arash Akbari
+        language: en

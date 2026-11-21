@@ -1,0 +1,35 @@
+# Liana Sharifian
+
+Her own channel independently confirms the Zahr single, the earlier collaboration with Habib Meftah and her guest performance with Maati Baani. The two Spotify profiles divide the solo single and the Marco Foxo recording. Both were checked against the original releases. The two Zech videos are the excerpt and complete clip, and the two Langarud uploads identify the same concert. No older digital master was attributed on the basis of a title alone. Untitled early clips and a comparison or practice demonstration on her video channel are not assigned recording titles. The recording date of the first Vahdat Hall performance is open. Her own clip was already online in 2018.
+
+[Artist’s archive](https://t.me/liana_sharifian) · [Original video channel](https://www.youtube.com/channel/UCseN4E02N4WnGjFGyLRfMRw) · [Bagpipe Society interview](https://www.bagpipesociety.org.uk/articles/2022/chanter/autumn/in-the-bag/) · [PBS studio](https://www.pbsfm.org.au/news/watch-lian-band-william-barton-studio-5-live)
+
+- Studio 5 Live (Qewck9e)
+- Zahr (Qkph43v)
+- Romance de Martín García (Qzasyqf)
+- زِچ (Qrx7c3r)
+- Boondan Boondan (Nomad Songs) (Q3qrxty)
+- قطعه گاليسيايي (Qfygr9f)
+- کوراب (Qtat9ww)
+- گُذار (Qzregv5)
+- Toronto concert with Lian (Qbde7ts)
+- Ney-anban chanter with oud (Qwqkw5b)
+- First International Bagpipe Festival, Kish (Qp6hn3y)
+- Ney-anban in Sri Lanka (Qqrjdh8)
+- Live in Karaj (Qbgas87)
+- Christmas concert in Spain (Qqv2v2m)
+- Pandeireta and gaita in Galicia (Qw2faqx)
+- همخوانان آوا در لنگرود (Q3y8pj3)
+- Galician music on Iranian and Galician bagpipes (Q6j5gy3)
+- اولین اجرا در تالار وحدت (Qrg5pqj)
+- Gaita duet at the bagpipe school (Qhy9yxd)
+- موسیقی کردی در پاوه (Qkeafem)
+- کلیپ خلخال (Qedmfpq)
+- Ourense bagpipe festival (Qm8whgk)
+- کنسرت چابهار (Q8vbzwn)
+- Pandeireta (Q9hsb6w)
+- جناب خان (Q2dgy8n)
+- Gaita in Galicia (Qhbjqpm)
+- گفتگو و اجرای نی‌انبان برای هفدانگ (Q64ded7)
+
+The 2022 Glasgow programme and broadcaster’s separately titled feature are documented independently. [Programme](https://pipinglive.co.uk/pdfs/programme-2022.pdf) · [TRADtv film](https://youtu.be/4al-7E_V22k)

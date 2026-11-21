@@ -1,0 +1,63 @@
+id: Q8dbk49
+type: release
+statements:
+  name:
+  - value:
+      text: HOME
+      language: en
+    references:
+    - source: avarasti.bandcamp.com-track-home
+      quote: HOME | Ava Rasti
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qks2dfk
+    references:
+    - source: avarasti.bandcamp.com-track-home
+      quote: HOME | Ava Rasti
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://avarasti.bandcamp.com/track/home
+    references:
+    - source: avarasti.bandcamp.com-track-home
+      quote: HOME | Ava Rasti
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1543696605
+    references:
+    - source: music.apple.com-us-song-1543696605
+      quote: ‎Home - Song with Lyrics by Ava Rasti - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/home-single/1543696603
+    references:
+    - source: music.apple.com-us-album-home-single-1543696603
+      quote: ‎Home - Single - Album by Ava Rasti - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/avaarasti/home
+    references:
+    - source: soundcloud.com-avaarasti-home
+      quote: Stream HOME by Ava Rasti | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a2374426645_10.jpg
+    references:
+    - source: avarasti.bandcamp.com-track-home
+      quote: https://f4.bcbits.com/img/a2374426645_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original recording publisher
+        language: en
+  release date:
+  - value:
+      date: '2021-01-01'
+    references:
+    - source: avarasti.bandcamp.com-track-home
+      quote: released January 1, 2021
+      accessed: '2026-11-21'
+      locator: Published date

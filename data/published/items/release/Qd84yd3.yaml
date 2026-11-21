@@ -1,0 +1,33 @@
+id: Qd84yd3
+type: release
+statements:
+  name:
+  - value:
+      text: Migzaram
+      language: en
+    references:
+    - source: play.radiojavan.com-song-alborz-migzaram--ft-justina
+      quote: Migzaram (Ft Justina)
+      accessed: 2026-11-21
+      locator: Track title and guest credit
+  performer:
+  - value: Q2tjpez
+    references:
+    - source: play.radiojavan.com-song-alborz-migzaram--ft-justina
+      quote: Alborz
+      accessed: 2026-11-21
+      locator: Billed artist
+  - value: Q2fdqjp
+    references:
+    - source: play.radiojavan.com-song-alborz-migzaram--ft-justina
+      quote: Migzaram (Ft Justina)
+      accessed: 2026-11-21
+      locator: Track title and guest credit
+  release date:
+  - value:
+      date: '2017-04-27'
+    references:
+    - source: play.radiojavan.com-song-alborz-migzaram--ft-justina
+      quote: Apr 27, 2017
+      accessed: 2026-11-21
+      locator: Issue date

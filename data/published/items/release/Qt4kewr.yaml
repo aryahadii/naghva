@@ -1,0 +1,51 @@
+id: Qt4kewr
+type: release
+statements:
+  name:
+  - value:
+      text: TOORAN
+      language: en
+    references:
+    - source: natchnadjafi.bandcamp.com-track-tooran
+      quote: TOORAN
+      accessed: '2026-11-21'
+      locator: Artist or label issue
+  performer:
+  - value: Qxxp9ab
+    references:
+    - source: natchnadjafi.bandcamp.com-track-tooran
+      quote: TOORAN
+      accessed: '2026-11-21'
+      locator: Artist or label issue
+  listen link:
+  - value: https://natchnadjafi.bandcamp.com/track/tooran
+    references:
+    - source: natchnadjafi.bandcamp.com-track-tooran
+      quote: TOORAN
+      accessed: '2026-11-21'
+      locator: Artist or label issue
+  - value: https://soundcloud.com/natchnadjafi/tooran
+    references:
+    - source: soundcloud.com-natchnadjafi-tooran
+      quote: TOORAN
+      accessed: '2026-11-21'
+      locator: Uploader’s original title
+  release date:
+  - value:
+      date: '2025-03-07'
+    references:
+    - source: natchnadjafi.bandcamp.com-track-tooran
+      quote: 07 Mar 2025 00:00:00 GMT
+      accessed: '2026-11-21'
+      locator: Release date
+  cover art:
+  - value: https://f4.bcbits.com/img/a2200250759_10.jpg
+    qualifiers:
+      credit:
+        text: Natch Nadjafi via Bandcamp
+        language: en
+    references:
+    - source: natchnadjafi.bandcamp.com-track-tooran
+      quote: https://f4.bcbits.com/img/a2200250759_10.jpg
+      accessed: '2026-11-21'
+      locator: Original release image

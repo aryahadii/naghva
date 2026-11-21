@@ -1,0 +1,49 @@
+id: Qd3y3de
+type: release
+statements:
+  name:
+  - value:
+      text: مژه‌بارون
+      language: fa
+    references:
+    - source: www.youtube.com-watchv-na51oauubrm
+      quote: مژه‌بارون
+      accessed: '2026-11-21'
+      locator: Official upload title
+  performer:
+  - value: Qzhgpkw
+    references:
+    - source: www.youtube.com-watchv-na51oauubrm
+      quote: مژه‌بارون
+      accessed: '2026-11-21'
+      locator: Official upload title
+    - source: www.youtube.com-watchv-na51oauubrm
+      quote: Babak Rajabi
+      accessed: '2026-11-21'
+      locator: Uploading artist
+  listen link:
+  - value: https://www.youtube.com/watch?v=NA51OAuUbrM
+    references:
+    - source: www.youtube.com-watchv-na51oauubrm
+      quote: مژه‌بارون
+      accessed: '2026-11-21'
+      locator: Official upload title
+  release date:
+  - value:
+      date: '2023-10-11'
+    references:
+    - source: www.youtube.com-watchv-na51oauubrm
+      quote: '20231011'
+      accessed: '2026-11-21'
+      locator: Video publication date, YYYYMMDD
+  cover art:
+  - value: https://i.ytimg.com/vi/NA51OAuUbrM/maxresdefault.jpg
+    references:
+    - source: www.youtube.com-watchv-na51oauubrm
+      quote: https://i.ytimg.com/vi/NA51OAuUbrM/maxresdefault.jpg
+      accessed: '2026-11-21'
+      locator: Release image URL
+    qualifiers:
+      credit:
+        text: Babak Rajabi · YouTube
+        language: en

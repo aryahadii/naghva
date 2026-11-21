@@ -1,0 +1,31 @@
+id: Q2p8d8k
+type: release
+statements:
+  name:
+  - value:
+      text: CyTor
+      language: en
+    references:
+    - &id001
+      source: vimeo.com-100518761
+      quote: Umchunga&tegh - CyTor
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Q9rnctv
+    references:
+    - *id001
+  - value: Qtwwfrd
+    references:
+    - source: vimeo.com-100518761
+      quote: Shahin Entezami a.k.a Tegh
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  release date:
+  - value:
+      date: '2014-07-11'
+    references:
+    - source: vimeo.com-100518761
+      quote: '2014-07-11 11:35:31'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits

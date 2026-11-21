@@ -1,0 +1,71 @@
+id: Qkk255z
+type: release
+statements:
+  name:
+  - value:
+      text: Helelyos
+      language: en
+    references:
+    - source: music.apple.com-us-album-tahdig-1386951010
+      quote: Helelyos
+      accessed: '2026-11-21'
+      locator: Album track listing
+  - value:
+      text: هللیوس
+      language: fa
+    references:
+    - source: www.youtube.com-watchv--mj0drrd8sw
+      quote: هللیوس
+      accessed: '2026-11-21'
+      locator: Video title
+  performer:
+  - value: Qj92kqa
+    references:
+    - source: music.apple.com-us-album-tahdig-1386951010
+      quote: Mitra Sumara
+      accessed: '2026-11-21'
+      locator: Album artist
+  release date:
+  - value:
+      date: '2018-06-08'
+    references:
+    - source: music.apple.com-us-album-tahdig-1386951010
+      quote: '2018-06-08'
+      accessed: '2026-11-21'
+      locator: Release metadata
+  listen link:
+  - value: https://music.apple.com/us/song/helelyos/1386951679
+    references:
+    - source: music.apple.com-us-album-tahdig-1386951010
+      quote: Helelyos
+      accessed: '2026-11-21'
+      locator: Album track listing
+  - value: https://open.spotify.com/track/1Qc84oCY8WZFQkyxY8bnZQ
+    references:
+    - source: open.spotify.com-album-0kx975wwn6lvxzf9asmtcg
+      quote: Helelyos
+      accessed: '2026-11-21'
+      locator: Album track listing
+  - value: https://www.youtube.com/watch?v=-MJ0dRrD8Sw
+    references:
+    - source: www.youtube.com-watchv--mj0drrd8sw
+      quote: Mitra Sumara  - Helelyos  هللیوس  (Official Video)
+      accessed: '2026-11-21'
+      locator: Official video title
+  - value: https://soundcloud.com/user-802749082/mitra-sumara-helelyos
+    references:
+    - source: soundcloud.com-user-802749082-tracks
+      quote: Mitra Sumara "Helelyos"
+      accessed: '2026-11-21'
+      locator: Label upload heading
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/3f/0b/a0/3f0ba064-ba5a-c2a1-9993-bb98cff9bb29/881626517369_cover.jpg/632x632bb-60.jpg
+    references:
+    - source: music.apple.com-us-album-tahdig-1386951010
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/3f/0b/a0/3f0ba064-ba5a-c2a1-9993-bb98cff9bb29/881626517369_cover.jpg/632x632bb-60.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork image
+    qualifiers:
+      credit:
+        text: Persian Cardinal Recordings, via Apple Music
+        language: en

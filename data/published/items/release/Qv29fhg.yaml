@@ -1,0 +1,60 @@
+id: Qv29fhg
+type: release
+statements:
+  name:
+  - value:
+      text: Livremente
+      language: en
+    references:
+    - source: ikatarensemble.bandcamp.com-album-livremente
+      quote: Livremente
+      locator: Edition title
+      accessed: '2026-11-21'
+  performer:
+  - value: Q9aspca
+    references:
+    - source: ikatarensemble.bandcamp.com-album-livremente
+      quote: 'Shabnam Parvaresh: clarinet, bass clarinet'
+      locator: Performer credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: clarinet
+  - value: Q39e2pf
+    references:
+    - source: ikatarensemble.bandcamp.com-album-livremente
+      quote: IKATAR
+      locator: Billed artist
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2020-01-01'
+    references:
+    - source: ikatarensemble.bandcamp.com-album-livremente
+      quote: 01 Jan 2020 00:00:00 GMT
+      locator: First digital issue
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://ikatarensemble.bandcamp.com/album/livremente
+    references:
+    - source: ikatarensemble.bandcamp.com-album-livremente
+      quote: Livremente
+      locator: Edition title
+      accessed: '2026-11-21'
+  release type:
+  - value: album
+    references:
+    - source: ikatarensemble.bandcamp.com-album-livremente
+      quote: Livremente
+      locator: Edition title
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://f4.bcbits.com/img/a0207077013_10.jpg
+    references:
+    - source: ikatarensemble.bandcamp.com-album-livremente
+      quote: https://f4.bcbits.com/img/a0207077013_10.jpg
+      locator: Edition artwork
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Ikatar Ensemble · release artwork
+        language: en

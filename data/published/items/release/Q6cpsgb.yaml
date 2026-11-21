@@ -1,0 +1,72 @@
+id: Q6cpsgb
+type: release
+statements:
+  name:
+  - value:
+      text: Zolfonoon (Wavemap Remix)
+      language: en
+    references:
+    - source: linkmusiclab.bandcamp.com-track-zolfonoon-wavemap-remix
+      quote: Zolfonoon (Wavemap Remix)
+      accessed: '2026-11-21'
+      locator: Recording title or artist credit
+  listen link:
+  - value: https://linkmusiclab.bandcamp.com/track/zolfonoon-wavemap-remix
+    references:
+    - source: linkmusiclab.bandcamp.com-track-zolfonoon-wavemap-remix
+      quote: Zolfonoon (Wavemap Remix) | Mahmood Schricker, Caleb Klager, Jason Rule, Raf Reza | Link Music Lab Records
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/linkmusiclab/zolfonoon-wavemap-remix-4
+    references:
+    - source: soundcloud.com-linkmusiclab-zolfonoon-wavemap-remix-4
+      quote: Stream Zolfonoon (Wavemap Remix) by Link Music Lab | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qxkh2tz
+    references:
+    - source: linkmusiclab.bandcamp.com-track-zolfonoon-wavemap-remix
+      quote: Zolfonoon (Wavemap Remix) | Mahmood Schricker, Caleb Klager, Jason Rule, Raf Reza | Link Music Lab Records
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qt5sbqz
+    references:
+    - source: linkmusiclab.bandcamp.com-album-dastg-machine-b-zs-zi
+      quote: Sina Salimi - Vocals and Lyrics on Zolfonoon tracks
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Q5b7pz5
+    references:
+    - source: linkmusiclab.bandcamp.com-album-dastg-machine-b-zs-zi
+      quote: DASTGÂMACHINE — BÂZSÂZI | Mahmood Schricker, Caleb Klager, Jason Rule, Raf Reza | Link Music Lab Records
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a2946259498_10.jpg
+    references:
+    - source: linkmusiclab.bandcamp.com-track-zolfonoon-wavemap-remix
+      quote: https://f4.bcbits.com/img/a2946259498_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Link Music Lab Records
+        language: en
+  release date:
+  - value:
+      date: '2026-01-23'
+    references:
+    - source: linkmusiclab.bandcamp.com-album-dastg-machine-b-zs-zi
+      quote: released January 23, 2026
+      accessed: '2026-11-21'
+      locator: Published date
+  contributor:
+  - value: Qt5sbqz
+    references:
+    - source: linkmusiclab.bandcamp.com-track-zolfonoon-wavemap-remix
+      quote: Sina Salimi - Vocals and Lyrics
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: lyricist

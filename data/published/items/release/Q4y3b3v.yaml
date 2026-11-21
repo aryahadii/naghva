@@ -1,0 +1,39 @@
+id: Q4y3b3v
+type: release
+statements:
+  name:
+  - value:
+      text: A Musical Allusion (Live)
+      language: en
+    references:
+    - source: open.spotify.com-album-3l9vpvy5iifhbnuspsnjt2
+      quote: A Musical Allusion - Live
+      accessed: 2026-11-21
+      locator: Spotify track billing
+  performer:
+  - value: Qtqjb47
+    references:
+    - source: open.spotify.com-album-3l9vpvy5iifhbnuspsnjt2
+      quote: A Musical Allusion - Live
+      accessed: 2026-11-21
+      locator: Spotify track billing
+  listen link:
+  - value: https://open.spotify.com/track/4W4gH9Tuwc7oUjQPvhtXc8
+    references:
+    - source: open.spotify.com-album-3l9vpvy5iifhbnuspsnjt2
+      quote: A Musical Allusion - Live
+      accessed: 2026-11-21
+      locator: Spotify track billing
+  - value: https://youtu.be/2pEHJLziAR4
+    references:
+    - source: youtu.be-2pehjlziar4
+      quote: A Musical Allusion
+      accessed: 2026-11-21
+      locator: Track in artist-linked playlist
+  cover art:
+  - value: https://i.ytimg.com/vi/2pEHJLziAR4/hqdefault.jpg
+    references:
+    - source: youtu.be-2pehjlziar4
+      quote: A Musical Allusion
+      accessed: 2026-11-21
+      locator: Track in artist-linked playlist

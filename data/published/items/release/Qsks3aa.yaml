@@ -1,0 +1,66 @@
+id: Qsks3aa
+type: release
+statements:
+  name:
+  - value:
+      text: Killer Whale
+      language: en
+    references:
+    - source: kopirecs.bandcamp.com-track-killer-whale
+      quote: Killer Whale | ArtSaves | Kopi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qw9zs9g
+    references:
+    - source: kopirecs.bandcamp.com-album-home-is-where-the-hatred-is
+      quote: ArtSaves
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://kopirecs.bandcamp.com/track/killer-whale
+    references:
+    - source: kopirecs.bandcamp.com-track-killer-whale
+      quote: Killer Whale | ArtSaves | Kopi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1712269780
+    references:
+    - source: music.apple.com-us-song-1712269780
+      quote: ‎Killer Whale - Song with Lyrics by ArtSaves - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/6974L1UUepa1sfmSjuBRrd
+    references:
+    - source: open.spotify.com-track-6974l1uuepa1sfmsjubrrd
+      quote: Killer Whale - song and lyrics by ArtSaves | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a2951724458_10.jpg
+    references:
+    - source: kopirecs.bandcamp.com-track-killer-whale
+      quote: https://f4.bcbits.com/img/a2951724458_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original publisher artwork
+        language: en
+  release date:
+  - value:
+      date: '2023-10-20'
+    references:
+    - source: kopirecs.bandcamp.com-track-killer-whale
+      quote: released October 20, 2023
+      accessed: '2026-11-21'
+      locator: Published date
+  contributor:
+  - value: Qgncp5r
+    references:
+    - source: kopirecs.bandcamp.com-album-home-is-where-the-hatred-is
+      quote: Nima Aghiani
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: mastering engineer

@@ -1,0 +1,69 @@
+id: Qsxrfrg
+type: release
+statements:
+  name:
+  - value:
+      text: Syzygys
+      language: en
+    references:
+    - source: unperceivedrecords.bandcamp.com-album-syzygys
+      quote: Syzygys | 9T Antiope | Unperceived Records
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qz5swxp
+    references:
+    - source: unperceivedrecords.bandcamp.com-album-syzygys
+      quote: 'Sara Bigdeli Shamloo: Vocals, Lyrics'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: vocals
+  - value: Qyv32ms
+    references:
+    - source: unperceivedrecords.bandcamp.com-album-syzygys
+      quote: 9T Antiope
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  contributor:
+  - value: Qgncp5r
+    references:
+    - source: unperceivedrecords.bandcamp.com-album-syzygys
+      quote: 'Nima Aghiani: Composer, Producer'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: composer
+  release type:
+  - value: album
+    references:
+    - source: unperceivedrecords.bandcamp.com-album-syzygys
+      quote: Syzygys | 9T Antiope | Unperceived Records
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://unperceivedrecords.bandcamp.com/album/syzygys
+    references:
+    - source: unperceivedrecords.bandcamp.com-album-syzygys
+      quote: Syzygys | 9T Antiope | Unperceived Records
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a4089790769_10.jpg
+    references:
+    - source: unperceivedrecords.bandcamp.com-album-syzygys
+      quote: https://f4.bcbits.com/img/a4089790769_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original digital edition
+        language: en
+  release date:
+  - value:
+      date: '2015-12-11'
+    references:
+    - source: unperceivedrecords.bandcamp.com-album-syzygys
+      quote: released December 11, 2015
+      accessed: '2026-11-21'
+      locator: Published date

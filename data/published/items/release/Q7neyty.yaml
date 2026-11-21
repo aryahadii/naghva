@@ -1,0 +1,54 @@
+id: Q7neyty
+type: release
+statements:
+  name:
+  - value:
+      text: Sing (Revolution Rock Mix)
+      language: en
+    references:
+    - source: music.apple.com-us-album-sing-revolution-rock-mix-single-1736546586
+      quote: Sing (Revolution Rock Mix)
+      accessed: 2026-11-21
+      locator: Track title
+  performer:
+  - value: Qas33mb
+    references:
+    - source: music.apple.com-us-album-sing-revolution-rock-mix-single-1736546586
+      quote: Sepp Osley
+      accessed: 2026-11-21
+      locator: Performer
+  listen link:
+  - value: https://music.apple.com/us/song/sing-revolution-rock-mix/1736546587
+    references:
+    - source: music.apple.com-us-album-sing-revolution-rock-mix-single-1736546586
+      quote: Sing (Revolution Rock Mix)
+      accessed: 2026-11-21
+      locator: Track title
+  - value: https://open.spotify.com/track/21Yhd5FoKBsCowCImEUOH1
+    references:
+    - source: open.spotify.com-album-5add0qj71duf4b4actthuh
+      quote: Sepp Osley
+      accessed: 2026-11-21
+      locator: Spotify track billing
+  release date:
+  - value:
+      date: '2024-04-17'
+    references:
+    - source: music.apple.com-us-album-sing-revolution-rock-mix-single-1736546586
+      quote: '2024-04-17'
+      accessed: 2026-11-21
+      locator: Edition date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b6/99/8f/b6998f62-502b-3068-886c-97cd0e3a9bce/artwork.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-sing-revolution-rock-mix-single-1736546586
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b6/99/8f/b6998f62-502b-3068-886c-97cd0e3a9bce/artwork.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Edition artwork
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-sing-revolution-rock-mix-single-1736546586
+      quote: Sing (Revolution Rock Mix)
+      accessed: 2026-11-21
+      locator: Track title

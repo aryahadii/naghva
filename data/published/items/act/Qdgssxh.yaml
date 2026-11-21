@@ -1,0 +1,79 @@
+id: Qdgssxh
+type: act
+statements:
+  name:
+  - value:
+      text: Lian Music Band
+      language: en
+    references:
+    - source: open.spotify.com-artist-4shftqb3r6swplne0gqytp
+      quote: Listen to Lian Music Band Songs | Spotify
+      accessed: 2026-11-21
+      locator: Native artist page
+  - value:
+      text: گروه لیان
+      language: fa
+    references:
+    - source: morwaridlian.blogfa.com
+      quote: گروه موسیقی مروارید لیان
+      accessed: 2026-11-21
+      locator: Archive masthead
+  - value:
+      text: گروه موسیقی مروارید لیان
+      language: fa
+    references:
+    - source: morwaridlian.blogfa.com
+      quote: گروه موسیقی مروارید لیان
+      accessed: 2026-11-21
+      locator: Archive masthead
+  image:
+  - value: https://asianitinerary.com/wp-content/uploads/2013/07/P6303230-770x514.jpg
+    qualifiers:
+      credit:
+        text: Asian Itinerary
+        language: en
+    references:
+    - source: asianitinerary.com-mohsen-sharifian-and-the-lian-band
+      quote: https://asianitinerary.com/wp-content/uploads/2013/07/P6303230-770x514.jpg
+      accessed: 2026-11-21
+      locator: Image on the festival or concert page
+  profile link:
+  - value: https://open.spotify.com/artist/4shFTQb3R6sWPLnE0GQYTP
+    references:
+    - source: open.spotify.com-artist-4shftqb3r6swplne0gqytp
+      quote: Listen to Lian Music Band Songs | Spotify
+      accessed: 2026-11-21
+      locator: Native artist page
+  - value: https://open.spotify.com/artist/1FVE5qGooHgDJ5AFeYXPrc
+    references:
+    - source: open.spotify.com-artist-1fve5qgoohgdj5afeyxprc
+      quote: Listen to Lian Pearl Folk Music Band Songs | Spotify
+      accessed: 2026-11-21
+      locator: Native artist page
+  - value: https://music.apple.com/us/artist/lian-music-band/678233850
+    references:
+    - source: music.apple.com-us-artist-lian-music-band-678233850
+      quote: ‎Lian Music Band - Apple Music
+      accessed: 2026-11-21
+      locator: Native artist page
+  - value: https://music.apple.com/us/artist/854472410
+    references:
+    - source: music.apple.com-us-artist-854472410
+      quote: ‎Lian Pearl Folk Music Band - Apple Music
+      accessed: 2026-11-21
+      locator: Native artist page
+  - value: https://www.youtube.com/channel/UCbYbOYHJ_7rmiOTiZ-Rr3-g
+    references:
+    - source: www.youtube.com-channel-ucbyboyhj_7rmiotiz-rr3-g
+      quote: Welcome to the Lian Music Official Channel which takes you to the music and culture of the south of
+        Iran, by the Persian Gulf.
+      accessed: 2026-11-21
+      locator: Channel self-identification
+  formation date:
+  - value:
+      date: '1993'
+    references:
+    - source: tirgan.ca-nowruz2021-artist-guest-mohsen-sharifian
+      quote: founding the Boushehr Lian Music Group in 1993
+      accessed: 2026-11-21
+      locator: Formation

@@ -1,0 +1,85 @@
+id: Qymgq8c
+type: release
+statements:
+  name:
+  - value:
+      text: صورتگر
+      language: fa
+    references:
+    - source: khoobo.com-salar-aghili-amin-tarokh-ali-pajooheshgar-the-idol-maker
+      quote: آلبوم صورتگر
+      locator: Release, album credits or performance programme
+      accessed: '2026-11-21'
+  - value:
+      text: Souratgar
+      language: en
+    references:
+    - source: music.apple.com-us-album-souratgar-1482848323
+      quote: Souratgar
+      locator: Original release billing and reproduced booklet
+      accessed: '2026-11-21'
+  performer:
+  - value: Qncx8nb
+    references:
+    - source: khoobo.com-salar-aghili-amin-tarokh-ali-pajooheshgar-the-idol-maker
+      quote: 'همخوان: ثمین قربانی، آزاد میرزاپور'
+      locator: Release, album credits or performance programme
+      accessed: '2026-11-21'
+    qualifiers:
+      role: backing vocals
+  - value: Qkyepkz
+    references:
+    - source: khoobo.com-salar-aghili-amin-tarokh-ali-pajooheshgar-the-idol-maker
+      quote: 'خواننده: سالار عقیلی'
+      locator: Original release billing and reproduced booklet
+      accessed: '2026-11-21'
+    qualifiers:
+      role: vocals
+  release type:
+  - value: album
+    references:
+    - source: khoobo.com-salar-aghili-amin-tarokh-ali-pajooheshgar-the-idol-maker
+      quote: آلبوم صورتگر
+      locator: Release, album credits or performance programme
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://music.apple.com/us/album/souratgar/1482848323
+    references:
+    - source: music.apple.com-us-album-souratgar-1482848323
+      quote: Souratgar
+      locator: Original release billing and reproduced booklet
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/album/6L8lZMqFVfkiYwa3kloNO0
+    references:
+    - source: open.spotify.com-embed-album-6l8lzmqfvfkiywa3klono0
+      quote: Souratgar
+      locator: Album, musician, ensemble or native recording credits
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/a9/4d/b0/a94db026-6a10-3c89-dd9f-df44f6425c9a/194171902970.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-souratgar-1482848323
+      quote: Souratgar
+      locator: Original release billing and reproduced booklet
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Souratgar · Apple Music
+        language: en
+  release date:
+  - value:
+      date: '2018'
+    references:
+    - source: khoobo.com-salar-aghili-amin-tarokh-ali-pajooheshgar-the-idol-maker
+      quote: در تیر ۱۳۹۷ منتشر شد
+      locator: Original release billing and reproduced booklet
+      accessed: '2026-11-21'
+  contributor:
+  - value: Qqhfffj
+    references:
+    - source: khoobo.com-salar-aghili-amin-tarokh-ali-pajooheshgar-the-idol-maker
+      quote: 'آهنگساز و تنظیم کننده: علی پژوهشگر'
+      locator: Original release billing and reproduced booklet
+      accessed: '2026-11-21'
+    qualifiers:
+      role: composer

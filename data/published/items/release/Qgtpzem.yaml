@@ -1,0 +1,57 @@
+id: Qgtpzem
+type: release
+statements:
+  name:
+  - value:
+      text: Blowing Flow (Cinna Peyghamy Remix)
+      language: en
+    references:
+    - source: azutiwaline.bandcamp.com-track-a2-blowing-flow-cinna-peyghamy-remix
+      quote: Blowing Flow (Cinna Peyghamy Remix)
+      accessed: '2026-11-21'
+      locator: Recording title or artist credit
+  performer:
+  - value: Q4q92dh
+    references:
+    - source: azutiwaline.bandcamp.com-track-a2-blowing-flow-cinna-peyghamy-remix
+      quote: A2 - Blowing Flow (Cinna Peyghamy Remix) | Azu Tiwaline
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Q8k4r2t
+    references:
+    - source: open.spotify.com-track-6s7ftxj9yn2v3lixgfar5o
+      quote: Azu Tiwaline
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://azutiwaline.bandcamp.com/track/a2-blowing-flow-cinna-peyghamy-remix
+    references:
+    - source: azutiwaline.bandcamp.com-track-a2-blowing-flow-cinna-peyghamy-remix
+      quote: A2 - Blowing Flow (Cinna Peyghamy Remix) | Azu Tiwaline
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/6s7fTxj9yN2V3lIxgfaR5O
+    references:
+    - source: open.spotify.com-track-6s7ftxj9yn2v3lixgfar5o
+      quote: Blowing Flow - Cinna Peyghamy Rework - song and lyrics by Azu Tiwaline, Cinna Peyghamy | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a1515043300_10.jpg
+    references:
+    - source: azutiwaline.bandcamp.com-track-a2-blowing-flow-cinna-peyghamy-remix
+      quote: https://f4.bcbits.com/img/a1515043300_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Azu Tiwaline on Bandcamp
+        language: en
+  release date:
+  - value:
+      date: '2024-10-18'
+    references:
+    - source: azutiwaline.bandcamp.com-album-the-fifth-dream-remixes
+      quote: released October 18, 2024
+      accessed: '2026-11-21'
+      locator: Published date

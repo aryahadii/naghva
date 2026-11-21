@@ -1,0 +1,61 @@
+id: Q79ed6x
+type: release
+statements:
+  name:
+  - value:
+      text: Samsaminia
+      language: en
+    references:
+    - source: siloportem.bandcamp.com-album-samsaminia
+      quote: Samsaminia
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  performer:
+  - value: Qrews4g
+    references:
+    - source: siloportem.bandcamp.com-album-samsaminia
+      quote: 'Si Young: Loops, FX, mixing and mastering'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  contributor:
+  - value: Qfvnnnd
+    references:
+    - source: siloportem.bandcamp.com-album-samsaminia
+      quote: using his music in our improvisations
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: original composer
+  release date:
+  - value:
+      date: '2020-06-16'
+    references:
+    - source: siloportem.bandcamp.com-album-samsaminia
+      quote: released June 16, 2020
+      accessed: '2026-11-21'
+      locator: Published date
+  release type:
+  - value: album
+    references:
+    - source: siloportem.bandcamp.com-album-samsaminia
+      quote: Samsaminia | silo portem
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://siloportem.bandcamp.com/album/samsaminia
+    references:
+    - source: siloportem.bandcamp.com-album-samsaminia
+      quote: Samsaminia | silo portem
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a0430902608_10.jpg
+    references:
+    - source: siloportem.bandcamp.com-album-samsaminia
+      quote: https://f4.bcbits.com/img/a0430902608_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: silo portem
+        language: en

@@ -1,0 +1,73 @@
+id: Qdbgjen
+type: release
+statements:
+  name:
+  - value:
+      text: Meelarzam
+      language: en
+    references:
+    - source: music.apple.com-us-album-alternates-1538865326
+      quote: Meelarzam
+      accessed: '2026-11-21'
+      locator: Digital edition track 4
+  release date:
+  - value:
+      date: '2017'
+    references:
+    - source: musishen.com
+      quote: '2017'
+      accessed: '2026-11-21'
+      locator: Artist discography, Alternates
+  performer:
+  - value: Qavhs3y
+    references:
+    - source: music.apple.com-us-album-alternates-1538865326
+      quote: Shen Band
+      accessed: '2026-11-21'
+      locator: Release billing
+  - value: Qec6smv
+    references:
+    - &id001
+      source: musishen.com
+      quote: write, compose, arrange, perform and produce seven collections
+      accessed: '2026-11-21'
+      locator: Artist biography, dated catalogue or interview
+  contributor:
+  - value: Qec6smv
+    references:
+    - *id001
+    qualifiers:
+      role:
+      - composer
+      - arranger
+      - producer
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/00/38/bf/0038bf8d-bf1d-33f5-4658-31c7b3fd1c01/195448701180.jpg/1200x630wp-60.jpg
+    references:
+    - source: music.apple.com-us-album-alternates-1538865326
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/00/38/bf/0038bf8d-bf1d-33f5-4658-31c7b3fd1c01/195448701180.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Original release cover
+    qualifiers:
+      credit:
+        text: Shen Band, Apple Music edition artwork
+        language: en
+  listen link:
+  - value: https://music.apple.com/us/song/meelarzam/1538865330
+    references:
+    - source: music.apple.com-us-album-alternates-1538865326
+      quote: https://music.apple.com/us/song/meelarzam/1538865330
+      accessed: '2026-11-21'
+      locator: Apple Music exact song
+  - value: https://open.spotify.com/track/1yZiZPfyh3wgGvEdl6LNO3
+    references:
+    - source: open.spotify.com-embed-album-6ilrbdwttnrmxuvg9r3w7m
+      quote: spotify:track:1yZiZPfyh3wgGvEdl6LNO3
+      accessed: '2026-11-21'
+      locator: Spotify exact song
+  - value: https://www.youtube.com/watch?v=SRYpygOmSN4
+    references:
+    - source: www.youtube.com-playlist-list-olak5uy_nxqpktjk-5_1sumre80n0hdaj9a_zowrs
+      quote: SRYpygOmSN4
+      accessed: '2026-11-21'
+      locator: Official album track 4

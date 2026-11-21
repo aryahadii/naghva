@@ -1,0 +1,51 @@
+id: Qtn266d
+type: release
+statements:
+  name:
+  - value:
+      text: تنبور دالاهو
+      language: fa
+    references:
+    - source: beeptunes.com-album-573313176
+      quote: تنبور دالاهو
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
+  performer:
+  - value: Qje5fct
+    references:
+    - source: khoobo.com-farid-isaei-tanbur-of-dalahoo
+      quote: زانیار حسامی به عنوان نوازنده دف
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
+    qualifiers:
+      role: daf
+  - value: Q69r6rv
+    references:
+    - source: beeptunes.com-album-573313176
+      quote: 'نوازندگان: فرید عیسائی'
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
+  release type:
+  - value: album
+    references:
+    - source: beeptunes.com-album-573313176
+      quote: تنبور دالاهو
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
+  contributor:
+  - value: Q69r6rv
+    references:
+    - source: beeptunes.com-album-573313176
+      quote: 'آهنگساز: فرید عیسائی'
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
+    qualifiers:
+      role: composer
+  release date:
+  - value:
+      date: '2022'
+    references:
+    - source: beeptunes.com-album-573313176
+      quote: اسفند ۱۴۰۰
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'

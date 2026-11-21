@@ -1,0 +1,69 @@
+id: Qt5sbqz
+type: person
+statements:
+  name:
+  - value:
+      text: Sina Salimi
+      language: en
+    references:
+    - source: music.apple.com-us-album-travellers-musicians-and-other-stories-1889276824
+      quote: Sina Salimi
+      accessed: '2026-11-21'
+      locator: Album headline billing
+  - value:
+      text: سینا سلیمی
+      language: fa
+    references:
+    - source: sinasalimi.bandcamp.com-track-last-day-of-the-fall
+      quote: سینا سلیمی
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  based in:
+  - value: Q9yx7ys
+    references:
+    - source: tammuz.tirgan.ca-event-sina-salimi-band
+      quote: Sina Salimi is a Toronto-based singer-songwriter
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  image:
+  - value: https://i.scdn.co/image/ab6761610000e5eb682189948cc4cbd3e5c74019
+    references:
+    - source: open.spotify.com-artist-47i5djo1ngs5mvq2mxvesg
+      quote: https://i.scdn.co/image/ab6761610000e5eb682189948cc4cbd3e5c74019
+      accessed: '2026-11-21'
+      locator: Artist profile image verified against the Tammuz festival portrait
+    qualifiers:
+      credit:
+        text: Sina Salimi on Spotify
+        language: en
+  profile link:
+  - value: https://open.spotify.com/artist/47I5djO1Ngs5MvQ2MXveSg
+    references:
+    - source: open.spotify.com-artist-47i5djo1ngs5mvq2mxvesg
+      quote: Listen to Sina Salimi Songs | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/artist/sina-salimi/751555718
+    references:
+    - source: music.apple.com-us-artist-sina-salimi-751555718
+      quote: ‎Sina Salimi - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://sinasalimi.bandcamp.com
+    references:
+    - source: sinasalimi.bandcamp.com-music
+      quote: Music | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://www.youtube.com/@SinaSalimi
+    references:
+    - source: www.youtube.com-sinasalimi-videos
+      quote: Sina Salimi - YouTube
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/sinasalimi
+    references:
+    - source: soundcloud.com-sinasalimi
+      quote: Stream Sina  Salimi | Listen to music albums online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title

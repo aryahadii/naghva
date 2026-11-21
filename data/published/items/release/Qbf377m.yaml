@@ -1,0 +1,137 @@
+id: Qbf377m
+type: release
+statements:
+  name:
+  - value:
+      text: Hysterrae
+      language: en
+    references:
+    - source: open.spotify.com-album-4sspanzikpwdtogseleb0c
+      quote: Hysterrae
+      accessed: '2026-11-21'
+      locator: Spotify heading
+    - source: music.apple.com-us-album-hysterrae-1718788312
+      quote: Hysterrae
+      accessed: '2026-11-21'
+      locator: Apple Music edition
+  performer:
+  - value: Qkvdrbs
+    references:
+    - source: music.apple.com-us-album-hysterrae-1718788312
+      quote: Hysterrae
+      accessed: '2026-11-21'
+      locator: Artist billing
+  - value: Qckz2zd
+    qualifiers:
+      role: vocals
+    references:
+    - source: hysterrae.bandcamp.com-album-hysterrae
+      quote: 'Irene Lungo: vocals'
+      accessed: '2026-11-21'
+      locator: Debut album personnel
+  - value: Qcky5s2
+    qualifiers:
+      role:
+      - vocals
+      - flute
+    references:
+    - source: hysterrae.bandcamp.com-album-hysterrae
+      quote: 'Cinzia Marzo: vocals, flute'
+      accessed: '2026-11-21'
+      locator: Debut album personnel
+  - value: Q8vbytd
+    qualifiers:
+      role:
+      - vocals
+      - percussion
+    references:
+    - source: hysterrae.bandcamp.com-album-hysterrae
+      quote: 'Silvia Gallone: frame drums, qraqeb, percussions, vocals, scacciapensieri'
+      accessed: '2026-11-21'
+      locator: Debut album personnel
+  - value: Qfxqgvv
+    qualifiers:
+      role:
+      - setar
+      - tar
+      - daf
+    references:
+    - source: hysterrae.bandcamp.com-album-hysterrae
+      quote: 'Shadi Fathi: setar, tar, daf'
+      accessed: '2026-11-21'
+      locator: Debut album personnel
+  - value: Qndaebe
+    qualifiers:
+      role: synthesizer
+    references:
+    - source: hysterrae.bandcamp.com-album-hysterrae
+      quote: 'Emanuele Flandoli: electronic music production, synths, programming'
+      accessed: '2026-11-21'
+      locator: Debut album personnel
+  listen link:
+  - value: https://hysterrae.bandcamp.com/album/hysterrae
+    references:
+    - source: hysterrae.bandcamp.com-album-hysterrae
+      quote: Hysterrae | Hysterrae
+      accessed: '2026-11-21'
+      locator: Bandcamp album heading
+  - value: https://music.apple.com/us/album/hysterrae/1718788312
+    references:
+    - source: music.apple.com-us-album-hysterrae-1718788312
+      quote: Hysterrae
+      accessed: '2026-11-21'
+      locator: Apple Music edition
+  - value: https://open.spotify.com/album/4ssPAnZIKPWdtogseleB0c
+    references:
+    - source: open.spotify.com-album-4sspanzikpwdtogseleb0c
+      quote: Hysterrae
+      accessed: '2026-11-21'
+      locator: Spotify heading
+  release date:
+  - value:
+      date: '2023-12-11'
+    references:
+    - source: music.apple.com-us-album-hysterrae-1718788312
+      quote: '2023-12-11'
+      accessed: '2026-11-21'
+      locator: Catalogue release date
+  release type:
+  - value: album
+    references:
+    - source: music.apple.com-us-album-hysterrae-1718788312
+      quote: Hysterrae
+      accessed: '2026-11-21'
+      locator: Apple Music edition
+  cover art:
+  - value: https://f4.bcbits.com/img/a2794796731_10.jpg
+    qualifiers:
+      credit:
+        text: Cosimo Brunetti, graphic design
+        language: en
+    references:
+    - source: hysterrae.bandcamp.com-album-hysterrae
+      quote: https://f4.bcbits.com/img/a2794796731_10.jpg
+      accessed: '2026-11-21'
+      locator: Bandcamp album art
+    - source: hysterrae.bandcamp.com-album-hysterrae
+      quote: Graphic design by Cosimo Brunetti
+      accessed: '2026-11-21'
+      locator: Album cover design
+  published by:
+  - value: Qhj54jc
+    references:
+    - source: hysterrae.bandcamp.com-album-hysterrae
+      quote: Produced by Linfa Records - Italy
+      accessed: '2026-11-21'
+      locator: Album label
+  contributor:
+  - value: Qndaebe
+    qualifiers:
+      role:
+      - producer
+      - recording engineer
+    references:
+    - source: hysterrae.bandcamp.com-album-hysterrae
+      quote: Produced and recorded by Emanuele Flandoli at Linfa Studio (Lecce - Italy)
+      accessed: '2026-11-21'
+      locator: Album production credits

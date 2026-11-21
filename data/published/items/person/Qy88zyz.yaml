@@ -7,6 +7,66 @@ statements:
       language: en
     references:
     - source: music.apple.com-us-album-ghesse-e-zirzamin-feat-erwin-khachikian-arad-aria-arian-1605485928
-      quote: |-
-        Ghesse E Zirzamin (feat. Erwin Khachikian, Arad Aria & Arian Naeini) - Single - Album by Yas - Apple Music
+      quote: Ghesse E Zirzamin (feat. Erwin Khachikian, Arad Aria & Arian Naeini) - Single - Album by Yas - Apple Music
       accessed: '2026-11-09'
+  - value:
+      text: اروین خاچیکیان
+      language: fa
+    references:
+    - source: kayhan.london-1397-04-10-119651
+      quote: اروین خاچیکیان
+      accessed: '2026-11-21'
+      locator: Interview heading
+  member of:
+  - value: Qzjh64j
+    references:
+    - source: www.erwinsmusic.com-about
+      quote: KARMANDAN is Erwin Khachikian's solo music project, founded in 2010.
+      accessed: '2026-11-21'
+      locator: Artist biography
+  image:
+  - value: https://images.zoogletools.com/s:bzglfiles/u/60271/7d615b2187d16c21f7940140e53c4782a3e65d7d/original/photo-armond-red.jpg/!!/b%3AW1sicmVzaXplIiwxODAwXSxbIm1heCJdLFsid2UiXV0%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg
+    qualifiers:
+      credit:
+        text: Erwin Khachikian, official website
+        language: en
+    references:
+    - source: www.erwinsmusic.com-about
+      quote: //images.zoogletools.com/s:bzglfiles/u/60271/7d615b2187d16c21f7940140e53c4782a3e65d7d/original/photo-armond-red.jpg/!!/b%3AW1sicmVzaXplIiwxODAwXSxbIm1heCJdLFsid2UiXV0%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg
+      accessed: '2026-11-21'
+      locator: Artist-published portrait
+  birthplace:
+  - value: Qhm6fzw
+    references:
+    - source: zhmagazine.com-erwin-khachikian
+      quote: born in Tehran in 1973 to an Armenian family
+      accessed: '2026-11-21'
+      locator: Interview introduction
+  birth date:
+  - value:
+      date: '1973'
+    references:
+    - source: zhmagazine.com-erwin-khachikian
+      quote: born in Tehran in 1973 to an Armenian family
+      accessed: '2026-11-21'
+      locator: Interview introduction
+  based in:
+  - value: Qf5dpty
+    references:
+    - source: www.erwinsmusic.com-about
+      quote: Los Angeles-based musician
+      accessed: '2026-11-21'
+      locator: Artist biography
+  profile link:
+  - value: https://open.spotify.com/artist/30MkkmLsFUoUiX3jMDIDXh
+    references:
+    - source: open.spotify.com-artist-30mkkmlsfuouix3jmdidxh
+      quote: Listen to Erwin Khachikian Songs | Spotify
+      accessed: '2026-11-21'
+      locator: Artist profile
+  - value: https://music.apple.com/us/artist/erwin-khachikian/1035287392
+    references:
+    - source: music.apple.com-us-artist-erwin-khachikian-1035287392
+      quote: ‎Erwin Khachikian - Apple Music
+      accessed: '2026-11-21'
+      locator: Artist profile

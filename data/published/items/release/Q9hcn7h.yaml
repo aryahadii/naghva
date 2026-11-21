@@ -1,0 +1,54 @@
+id: Q9hcn7h
+type: release
+statements:
+  name:
+  - value:
+      text: Butterfly
+      language: en
+    references:
+    - source: music.apple.com-us-album-butterfly-ep-1883654775
+      quote: Butterfly - EP
+      accessed: 2026-11-21
+      locator: Edition or recording title
+  performer:
+  - value: Qgxh3d9
+    references:
+    - source: music.apple.com-us-album-butterfly-ep-1883654775
+      quote: Faravaz
+      accessed: 2026-11-21
+      locator: Digital credits
+  listen link:
+  - value: https://music.apple.com/us/album/butterfly-ep/1883654775
+    references:
+    - source: music.apple.com-us-album-butterfly-ep-1883654775
+      quote: Butterfly - EP
+      accessed: 2026-11-21
+      locator: Edition or recording title
+  - value: https://open.spotify.com/album/4A7OuXp5Lb5WxiTH1rwRaV
+    references:
+    - source: open.spotify.com-album-4a7ouxp5lb5wxith1rwrav
+      quote: Butterfly
+      accessed: 2026-11-21
+      locator: Album heading
+  release date:
+  - value:
+      date: '2026-03-20'
+    references:
+    - source: music.apple.com-us-album-butterfly-ep-1883654775
+      quote: '2026-03-20'
+      accessed: 2026-11-21
+      locator: Digital edition date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/76/4d/10/764d10f7-938a-9221-ee7d-4e6bace08382/820200387530.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-butterfly-ep-1883654775
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/76/4d/10/764d10f7-938a-9221-ee7d-4e6bace08382/820200387530.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Digital edition artwork
+  release type:
+  - value: ep
+    references:
+    - source: music.apple.com-us-album-butterfly-ep-1883654775
+      quote: Butterfly - EP
+      accessed: 2026-11-21
+      locator: Edition or recording title

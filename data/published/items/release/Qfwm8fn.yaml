@@ -1,0 +1,64 @@
+id: Qfwm8fn
+type: release
+statements:
+  name:
+  - value:
+      text: Susa (live)
+      language: en
+    references:
+    - source: music.apple.com-us-album-susa-6811038940
+      quote: Susa (live)
+      accessed: '2026-11-21'
+      locator: Track 2
+  performer:
+  - value: Qnq7naw
+    references:
+    - source: music.apple.com-us-album-susa-6811038940
+      quote: Javid Afsari Rad Ensemble
+      accessed: '2026-11-21'
+      locator: Album billing
+  - value: Qz7b7wx
+    references:
+    - source: music.apple.com-us-album-susa-6811038940
+      quote: Vahid Taj
+      accessed: '2026-11-21'
+      locator: Album billing
+  - value: Qz9hcyk
+    references:
+    - source: jazzlandrec.com-lahlezar-javid-afsari-rad
+      quote: the main focus now is on instrumental music and therefore the name of the ensemble changed to Javid Afsari
+        Rad Ensemble
+      accessed: '2026-11-21'
+      locator: Composer’s account
+  release date:
+  - value:
+      date: '2026-09-18'
+    references:
+    - source: music.apple.com-us-album-susa-6811038940
+      quote: '2026-09-18'
+      accessed: '2026-11-21'
+      locator: Digital edition release
+  listen link:
+  - value: https://music.apple.com/us/song/susa-live/6811038944
+    references:
+    - source: music.apple.com-us-album-susa-6811038940
+      quote: Susa (live)
+      accessed: '2026-11-21'
+      locator: Track 2
+  - value: https://open.spotify.com/track/0ySiND2TmPJJwn95DlQv3u
+    references:
+    - source: open.spotify.com-album-21wedvtgh4pkcgsvjelgdt
+      quote: Susa (live)
+      accessed: '2026-11-21'
+      locator: Track 2
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b6/40/f5/b640f50e-6e3b-31b5-74a6-0074dfa5acef/885288540963.jpg/632x632bb-60.jpg
+    references:
+    - source: music.apple.com-us-album-susa-6811038940
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b6/40/f5/b640f50e-6e3b-31b5-74a6-0074dfa5acef/885288540963.jpg/632x632bb-60.jpg
+      accessed: '2026-11-21'
+      locator: Apple album cover
+    qualifiers:
+      credit:
+        text: Susa · Apple Music
+        language: en

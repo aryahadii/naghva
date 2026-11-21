@@ -1,0 +1,59 @@
+id: Q658f76
+type: release
+statements:
+  name:
+  - value:
+      text: Во мне
+      language: en
+    references:
+    - source: music.apple.com-us-album-d0-b2-d0-be--d0-bc-d0-bd-d0-b5-feat-erwin-khachikian-1683866905
+      quote: Во мне (feat. Erwin Khachikian)
+      accessed: '2026-11-21'
+      locator: Track 10
+  listen link:
+  - value: https://music.apple.com/us/song/%D0%B2%D0%BE-%D0%BC%D0%BD%D0%B5-feat-erwin-khachikian/1683867962
+    references:
+    - source: music.apple.com-us-album-d0-b2-d0-be--d0-bc-d0-bd-d0-b5-feat-erwin-khachikian-1683866905
+      quote: https://music.apple.com/us/song/%D0%B2%D0%BE-%D0%BC%D0%BD%D0%B5-feat-erwin-khachikian/1683867962
+      accessed: '2026-11-21'
+      locator: Exact Apple track
+  - value: https://www.youtube.com/watch?v=DkRC1bGb134
+    references:
+    - source: www.youtube.com-watch-v-dkrc1bgb134
+      quote: Во мне (feat. Erwin Khachikian)
+      accessed: '2026-11-21'
+      locator: Label’s original Russian version
+  performer:
+  - value: Qn6yb6e
+    references:
+    - source: music.apple.com-us-album-d0-b2-d0-be--d0-bc-d0-bd-d0-b5-feat-erwin-khachikian-1683866905
+      quote: Сделай громче!
+      accessed: '2026-11-21'
+      locator: Digital edition
+  - value: Qy88zyz
+    qualifiers:
+      role: keyboards
+    references:
+    - source: www.youtube.com-watch-v-dkrc1bgb134
+      quote: Во мне (feat. Erwin Khachikian)
+      accessed: '2026-11-21'
+      locator: Label’s original Russian version
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c6/6d/bf/c66dbfd7-7789-c783-d20c-b9a7c1cb38a2/cover.jpg/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Digital artwork via Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-d0-b2-d0-be--d0-bc-d0-bd-d0-b5-feat-erwin-khachikian-1683866905
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c6/6d/bf/c66dbfd7-7789-c783-d20c-b9a7c1cb38a2/cover.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Edition artwork
+  release date:
+  - value:
+      date: '2010-11-20'
+    references:
+    - source: music.apple.com-us-album-d0-b2-d0-be--d0-bc-d0-bd-d0-b5-feat-erwin-khachikian-1683866905
+      quote: '2010-11-20'
+      accessed: '2026-11-21'
+      locator: Issue date

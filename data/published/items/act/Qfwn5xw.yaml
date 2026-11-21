@@ -1,0 +1,44 @@
+id: Qfwn5xw
+type: act
+statements:
+  name:
+  - value:
+      text: The Mast
+      language: en
+    references:
+    - source: themast.bandcamp.com-album-wild-poppies
+      quote: All songs by The Mast
+      accessed: 2026-11-21
+      locator: Production credits
+  image:
+  - value: https://f4.bcbits.com/img/0004896054_10.jpg
+    references:
+    - source: themast.bandcamp.com-album-wild-poppies
+      quote: https://f4.bcbits.com/img/0004896054_10.jpg
+      accessed: 2026-11-21
+      locator: Bandcamp artist photograph URL
+  profile link:
+  - value: https://themast.bandcamp.com/music
+    references:
+    - source: themast.bandcamp.com-music
+      quote: The Mast
+      accessed: 2026-11-21
+      locator: Artist heading
+  - value: https://music.apple.com/us/artist/the-mast/438328560
+    references:
+    - source: music.apple.com-us-artist-the-mast-438328560
+      quote: The Mast
+      accessed: 2026-11-21
+      locator: Artist heading
+  - value: https://open.spotify.com/artist/2q0U2jDJNzvY99uXqz7XIo
+    references:
+    - source: open.spotify.com-artist-2q0u2jdjnzvy99uxqz7xio
+      quote: The Mast
+      accessed: 2026-11-21
+      locator: Official artist heading
+  - value: https://soundcloud.com/themastmusic
+    references:
+    - source: soundcloud.com-themastmusic
+      quote: The Mast
+      accessed: 2026-11-21
+      locator: Official artist heading

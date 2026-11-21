@@ -1,0 +1,72 @@
+id: Qfcj4t4
+type: release
+statements:
+  name:
+  - value:
+      text: Norooze Soltoon
+      language: en
+    references:
+    - source: music.apple.com-us-album-norooze-soltoon-single-1559458304uo-4
+      quote: Norooze Soltoon
+      locator: Original group issue, artist identity or exact streaming edition
+      accessed: '2026-11-21'
+  performer:
+  - value: Qstq3nj
+    references:
+    - source: music.apple.com-us-album-norooze-soltoon-single-1559458304uo-4
+      quote: Ajam
+      locator: Original group issue, artist identity or exact streaming edition
+      accessed: '2026-11-21'
+  - value: Qvp2b3f
+    references:
+    - source: www.youtube.com-watchv-gahe-kpu4fe
+      quote: Sara Fotros
+      locator: Original band, named recording or film credit
+      accessed: '2026-11-21'
+    qualifiers:
+      role: tombak
+  release date:
+  - value:
+      date: '2021-03-07'
+    references:
+    - source: music.apple.com-us-album-norooze-soltoon-single-1559458304uo-4
+      quote: '2021-03-07'
+      locator: Original group issue, artist identity or exact streaming edition
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/db/8e/71/db8e712f-12b2-b13d-6f7a-214099e4bd7d/195999752570.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-norooze-soltoon-single-1559458304uo-4
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/db/8e/71/db8e712f-12b2-b13d-6f7a-214099e4bd7d/195999752570.jpg/1200x630bb.jpg
+      locator: Original group issue, artist identity or exact streaming edition
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Ajam · Norooze Soltoon - Single
+        language: en
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-norooze-soltoon-single-1559458304uo-4
+      quote: Norooze Soltoon
+      locator: Original group issue, artist identity or exact streaming edition
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://open.spotify.com/track/2Tq4aD5OOmbf5OkOOBuNY5
+    references:
+    - source: open.spotify.com-embed-album-5qcykqqvodfflknul9zrii
+      quote: Norooze Soltoon
+      locator: Original group issue, artist identity or exact streaming edition
+      accessed: '2026-11-21'
+  - value: https://music.apple.com/us/song/norooze-soltoon/1559458305
+    references:
+    - source: music.apple.com-us-album-norooze-soltoon-single-1559458304uo-4
+      quote: Norooze Soltoon
+      locator: Original group issue, artist identity or exact streaming edition
+      accessed: '2026-11-21'
+  - value: https://www.youtube.com/watch?v=GahE-kPu4FE
+    references:
+    - source: www.youtube.com-oembed-gahe-kpu4fe
+      quote: Ajam - Norooze Soltoon / ۱۴۰۰ عجم - نوروز سلطون
+      locator: Original band, named recording or film credit
+      accessed: '2026-11-21'

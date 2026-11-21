@@ -1,0 +1,43 @@
+id: Q7gxh9c
+type: release
+statements:
+  name:
+  - value:
+      text: Cheshmak · Abad Art House, Qeshm
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-ykyyqzuslem
+      quote: Cheshmak – Live World Fusion Performance at Abad Art House
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qm3fd5c
+    references:
+    - *id001
+  release date:
+  - value:
+      date: '2025-08-13'
+    references:
+    - source: www.youtube.com-watch-v-ykyyqzuslem
+      quote: '2025-08-13T09:35:48-07:00'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://www.youtube.com/watch?v=YKYYQZuSlEM
+    references:
+    - source: www.youtube.com-watch-v-ykyyqzuslem
+      quote: Cheshmak – Live World Fusion Performance at Abad Art House
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i.ytimg.com/vi/YKYYQZuSlEM/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-ykyyqzuslem
+      quote: https://i.ytimg.com/vi/YKYYQZuSlEM/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: Dami Jabren دمي جبرن
+        language: en

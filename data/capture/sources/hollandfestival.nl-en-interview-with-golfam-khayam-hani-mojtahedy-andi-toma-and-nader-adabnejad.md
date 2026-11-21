@@ -51,3 +51,11 @@ Locator: same section, first part of Khayam’s answer immediately preceding the
 > Born and raised in Tehran, where she still resides, she studied in Europe and the United States.
 
 Locator: introduction. The subject of this sentence is Golfam Khayam. Read 2026-11-14.
+
+Making Forbidden Echoes, read 2026-11-21.
+
+> Calling out from Iraqi Kurdistan in a gorge that constitutes the border with Iran, Kurdish singer Hani Mojtahedy received echoes from the other side.
+
+Echoes recording, read 2026-11-21.
+
+> recordings made of it by Andi Toma were the starting point

@@ -1,0 +1,58 @@
+id: Qcwn959
+type: release
+statements:
+  name:
+  - value:
+      text: Leaving Here - Single
+      language: en
+    references:
+    - source: music.apple.com-us-album-leaving-here-single-1687051601
+      quote: Leaving Here - Single
+      accessed: '2026-11-21'
+      locator: Original digital issue
+  performer:
+  - value: Qxxp9ab
+    references:
+    - source: music.apple.com-us-album-leaving-here-single-1687051601
+      quote: Leaving Here - Single
+      accessed: '2026-11-21'
+      locator: Original digital issue
+  listen link:
+  - value: https://music.apple.com/us/album/leaving-here-single/1687051601
+    references:
+    - source: music.apple.com-us-album-leaving-here-single-1687051601
+      quote: Leaving Here - Single
+      accessed: '2026-11-21'
+      locator: Original digital issue
+  - value: https://open.spotify.com/album/5Tc0Djmq2KGnQzo90CBhOs
+    references:
+    - source: open.spotify.com-embed-album-5tc0djmq2kgnqzo90cbhos
+      quote: Leaving Here
+      accessed: '2026-11-21'
+      locator: Spotify original album
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-leaving-here-single-1687051601
+      quote: Leaving Here - Single
+      accessed: '2026-11-21'
+      locator: Original digital issue
+  release date:
+  - value:
+      date: '2023-06-02'
+    references:
+    - source: music.apple.com-us-album-leaving-here-single-1687051601
+      quote: '2023-06-02'
+      accessed: '2026-11-21'
+      locator: Release date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/37/2a/21/372a2119-c590-9e6d-350c-320a072f2446/4065328227214.png/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Natch Nadjafi on Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-leaving-here-single-1687051601
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/37/2a/21/372a2119-c590-9e6d-350c-320a072f2446/4065328227214.png/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Original release image

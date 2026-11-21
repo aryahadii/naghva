@@ -1,0 +1,39 @@
+id: Q5fcsvb
+type: release
+statements:
+  name:
+  - value:
+      text: One Hundred Narratives, One Narrative
+      language: en
+    references:
+    - source: www.youtube.com-watch-v-v9dtexbodfs
+      quote: صد روایت، یک روایت
+      accessed: '2026-11-21'
+      locator: Page title
+  contributor:
+  - value: Qr62rq7
+    references:
+    - source: pouyapouramin.no-videodetails-22
+      quote: 'Composer / Sound Designer: Pouya Pour-Amin'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: composer
+  listen link:
+  - value: https://www.youtube.com/watch?v=V9dTeXboDfs
+    references:
+    - source: www.youtube.com-watch-v-v9dtexbodfs
+      quote: صد روایت، یک روایت
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i.ytimg.com/vi/V9dTeXboDfs/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-v9dtexbodfs
+      quote: https://i.ytimg.com/vi/V9dTeXboDfs/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: 100revayat, 1revayat صد روایت، یک روایت
+        language: en

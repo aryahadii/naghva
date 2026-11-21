@@ -1,0 +1,59 @@
+id: Qtvp7re
+type: release
+statements:
+  name:
+  - value:
+      text: Quitapenas
+      language: en
+    references:
+    - &id001
+      source: music.apple.com-us-album-quitapenas-676974657
+      quote: Quitapenas
+      accessed: '2026-11-21'
+      locator: Original digital album
+  performer:
+  - value: Qmv2rb6
+    references:
+    - source: music.apple.com-us-album-quitapenas-676974657
+      quote: Egiptanos
+      accessed: '2026-11-21'
+      locator: Original lead billing
+  - value: Qqb9bnx
+    references:
+    - source: www.eluniversal.com.mx-articulo-english-2015-06-7-mehdi-moshtagh-brings-radif-mexico
+      quote: In Mexico I played in "Quitapenas"
+      accessed: '2026-11-21'
+      locator: Question 11
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/e5/57/98/e55798c0-2795-ca0c-87e1-3490d3b856fd/888002757371.jpg/1200x630wp-60.jpg
+    references:
+    - source: music.apple.com-us-album-quitapenas-676974657
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/e5/57/98/e55798c0-2795-ca0c-87e1-3490d3b856fd/888002757371.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Digital artwork
+    qualifiers:
+      credit:
+        text: Apple Music, original edition artwork
+        language: en
+  release type:
+  - value: album
+    references:
+    - *id001
+  release date:
+  - value:
+      date: '2013-09-29'
+    references:
+    - source: music.apple.com-us-album-quitapenas-676974657
+      quote: '2013-09-29'
+      accessed: '2026-11-21'
+      locator: Original digital issue
+  listen link:
+  - value: https://open.spotify.com/album/2IQjkO6sJQLk5FgdZ5y8VY
+    references:
+    - source: open.spotify.com-embed-album-2iqjko6sjqlk5fgdz5y8vy
+      quote: Quitapenas
+      accessed: '2026-11-21'
+      locator: Original Spotify album
+  - value: https://music.apple.com/us/album/quitapenas/676974657
+    references:
+    - *id001

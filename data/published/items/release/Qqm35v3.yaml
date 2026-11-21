@@ -1,0 +1,32 @@
+id: Qqm35v3
+type: release
+statements:
+  name:
+  - value:
+      text: Setar, Shahr Ashub Shur (Full Version) | شهر آشوب دستگاه شور (کامل)
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-dtboqlxe2e4
+      quote: Setar, Shahr Ashub Shur (Full Version) | شهر آشوب دستگاه شور (کامل)
+      accessed: '2026-11-21'
+      locator: Music credited by musician or performance publisher
+  performer:
+  - value: Qqb9bnx
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/DTBOQLXe2E4/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-dtboqlxe2e4
+      quote: https://i.ytimg.com/vi/DTBOQLXe2E4/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video frame
+    qualifiers:
+      credit:
+        text: Mehdi Moshtagh
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=DTBOQLXe2E4
+    references:
+    - *id001

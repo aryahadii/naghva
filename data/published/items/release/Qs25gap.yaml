@@ -1,0 +1,41 @@
+id: Qs25gap
+type: release
+statements:
+  name:
+  - value:
+      text: Shiraz
+      language: en
+    references:
+    - source: youtu.be-ak_qisxfnka
+      quote: Shiraz
+      accessed: 2026-11-21
+      locator: Artist video title
+  performer:
+  - value: Qwh5yn8
+    references:
+    - source: youtu.be-ak_qisxfnka
+      quote: '#ehsanmatoori #shiraz #santoor'
+      accessed: 2026-11-21
+      locator: Performance or composition credit
+  release date:
+  - value:
+      date: '2023-05-06'
+    references:
+    - source: youtu.be-ak_qisxfnka
+      quote: '2023-05-06'
+      accessed: 2026-11-21
+      locator: Video publication date
+  listen link:
+  - value: https://www.youtube.com/watch?v=ak_qIsxfnkA
+    references:
+    - source: youtu.be-ak_qisxfnka
+      quote: Shiraz
+      accessed: 2026-11-21
+      locator: Artist video title
+  cover art:
+  - value: https://i.ytimg.com/vi/ak_qIsxfnkA/hqdefault.jpg
+    references:
+    - source: youtu.be-ak_qisxfnka
+      quote: Shiraz
+      accessed: 2026-11-21
+      locator: Artist video title

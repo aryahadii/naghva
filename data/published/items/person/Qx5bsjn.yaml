@@ -1,0 +1,19 @@
+id: Qx5bsjn
+type: person
+statements:
+  name:
+  - value:
+      text: رضا رضایی
+      language: fa
+    references:
+    - &id001
+      source: shen-band-archive-review
+      quote: سعید مرادزاده« صدای دوم و گیتاریست»، بابک نامور« ویلون و پیانو»، رضا رضایی« گیتار باس» و علی سلیم شیرازی «دستگاه جاز» اعضای گروه شن هستند.
+      accessed: '2026-11-21'
+      locator: Artist archive or eyewitness account
+  member of:
+  - value: Qavhs3y
+    references:
+    - *id001
+    qualifiers:
+      role: bass

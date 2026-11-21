@@ -13,12 +13,10 @@ statements:
   - value: album
     references:
     - source: music.apple.com-us-album-oula-1745532527-1c8c0f63b6de
-      quote: |-
-        Oula - Album by Mohsen Namjoo
+      quote: Oula - Album by Mohsen Namjoo
       accessed: '2026-10-23'
     - source: open.spotify.com-album-79hzmrgiuwsmsrs6jueyix
-      quote: |-
-        Listen to Oula - Album by Mohsen Namjoo | Spotify
+      quote: Listen to Oula - Album by Mohsen Namjoo | Spotify
       accessed: '2026-11-03'
   performer:
   - value: Qt6wjbg
@@ -26,6 +24,15 @@ statements:
     - source: music.apple.com-us-album-oula-1745532527-1c8c0f63b6de
       quote: Mohsen Namjoo
       accessed: '2026-10-23'
+  - value: Qa6r74t
+    qualifiers:
+      role:
+      - bass
+    references:
+    - source: kasrasaboktakin.com-music
+      quote: https://open.spotify.com/album/79HzMRGIuwSMsrS6jUeyIx
+      accessed: '2026-11-21'
+      locator: Record linked by bassist in his own portfolio
   release date:
   - value:
       date: '2024'
@@ -62,8 +69,7 @@ statements:
   - value: https://open.spotify.com/album/79HzMRGIuwSMsrS6jUeyIx
     references:
     - source: open.spotify.com-album-79hzmrgiuwsmsrs6jueyix
-      quote: |-
-        Listen to Oula - Album by Mohsen Namjoo | Spotify
+      quote: Listen to Oula - Album by Mohsen Namjoo | Spotify
       accessed: '2026-11-03'
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b3/98/49/b39849a7-61fa-27bf-a14d-4b52ffa7c690/198500863246.jpg/600x600bf-60.jpg
@@ -75,3 +81,13 @@ statements:
     - source: music.apple.com-us-album-oula-1745532527-1c8c0f63b6de
       quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b3/98/49/b39849a7-61fa-27bf-a14d-4b52ffa7c690/198500863246.jpg/600x600bf-60.jpg
       accessed: '2026-10-23'
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b3/98/49/b39849a7-61fa-27bf-a14d-4b52ffa7c690/198500863246.jpg/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Digital distributor artwork
+        language: en
+    references:
+    - source: music.apple.com-us-album-oula-1745532527
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b3/98/49/b39849a7-61fa-27bf-a14d-4b52ffa7c690/198500863246.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Original release image

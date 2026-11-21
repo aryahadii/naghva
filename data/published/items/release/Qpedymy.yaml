@@ -1,0 +1,47 @@
+id: Qpedymy
+type: release
+statements:
+  name:
+  - value:
+      text: Karma
+      language: en
+    references:
+    - source: youtu.be-pkarjsvp4ys
+      quote: Shervin - Karma (Audio)
+      accessed: 2026-11-21
+      locator: Official channel, recording title
+  performer:
+  - value: Qjeb9e9
+    references:
+    - source: youtu.be-pkarjsvp4ys
+      quote: Shervin - Karma (Audio)
+      accessed: 2026-11-21
+      locator: Official channel, recording title
+  listen link:
+  - value: https://youtu.be/pKaRJSvp4ys
+    references:
+    - source: youtu.be-pkarjsvp4ys
+      quote: Shervin - Karma (Audio)
+      accessed: 2026-11-21
+      locator: Official channel, recording title
+  - value: https://music.apple.com/us/album/karma/1805233646?i=1805233647
+    references:
+    - source: music.apple.com-us-album-karma-1805233646
+      quote: Karma
+      accessed: 2026-11-21
+      locator: Apple digital catalogue, track title
+  cover art:
+  - value: https://i.ytimg.com/vi/pKaRJSvp4ys/hqdefault.jpg
+    references:
+    - source: youtu.be-pkarjsvp4ys
+      quote: Shervin - Karma (Audio)
+      accessed: 2026-11-21
+      locator: Official channel, recording title
+  release date:
+  - value:
+      date: '2020-08-09'
+    references:
+    - source: music.apple.com-us-album-karma-1805233646
+      quote: '2020-08-09'
+      accessed: 2026-11-21
+      locator: Digital issue date

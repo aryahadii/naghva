@@ -1,0 +1,63 @@
+id: Qafcdpn
+type: release
+statements:
+  name:
+  - value:
+      text: I, Hypernormal
+      language: en
+    references:
+    - source: n5md.bandcamp.com-track-i-hypernormal
+      quote: I, Hypernormal | Idlefon | n5MD
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qjjdrek
+    references:
+    - source: n5md.bandcamp.com-track-i-hypernormal
+      quote: I, Hypernormal | Idlefon | n5MD
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://n5md.bandcamp.com/track/i-hypernormal
+    references:
+    - source: n5md.bandcamp.com-track-i-hypernormal
+      quote: I, Hypernormal | Idlefon | n5MD
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1583929080
+    references:
+    - source: music.apple.com-us-song-1583929080
+      quote: ‎I, Hypernormal - Song with Lyrics by Idlefon - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/3RESe8LMxldOwidItJ73TZ
+    references:
+    - source: open.spotify.com-track-3rese8lmxldowiditj73tz
+      quote: I, Hypernormal - song and lyrics by Idlefon | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://www.youtube.com/watch?v=cASnvtAFf5s
+    references:
+    - source: www.youtube.com-watch-v-casnvtaff5s
+      quote: I, Hypernormal
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a0503333306_10.jpg
+    references:
+    - source: n5md.bandcamp.com-track-i-hypernormal
+      quote: https://f4.bcbits.com/img/a0503333306_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Amir B Ash
+        language: en
+  release date:
+  - value:
+      date: '2021-11-12'
+    references:
+    - source: n5md.bandcamp.com-album-coldstream
+      quote: released November 12, 2021
+      accessed: '2026-11-21'
+      locator: Published date

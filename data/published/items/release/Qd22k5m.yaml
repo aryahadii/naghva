@@ -1,0 +1,59 @@
+id: Qd22k5m
+type: release
+statements:
+  name:
+  - value:
+      text: Takht-E Poulad
+      language: en
+    references:
+    - source: music.apple.com-us-album-takht-e-poulad-1678469351
+      quote: Takht-E Poulad
+      accessed: '2026-11-21'
+      locator: Track title
+  - value:
+      text: Takht-e Poulad
+      language: en
+    references:
+    - source: soundcloud.com-babackrajabi-takht-e-poulad
+      quote: Takht-e Poulad
+      accessed: '2026-11-21'
+      locator: Title on artist’s SoundCloud upload
+  performer:
+  - value: Qzhgpkw
+    references:
+    - source: music.apple.com-us-album-takht-e-poulad-1678469351
+      quote: Babak Rajabi
+      accessed: '2026-11-21'
+      locator: Artist billing
+  release date:
+  - value:
+      date: '2023-03-22'
+    references:
+    - source: music.apple.com-us-album-takht-e-poulad-1678469351
+      quote: '2023-03-22'
+      accessed: '2026-11-21'
+      locator: Release metadata
+  listen link:
+  - value: https://music.apple.com/us/song/takht-e-poulad/1678469353
+    references:
+    - source: music.apple.com-us-album-takht-e-poulad-1678469351
+      quote: Takht-E Poulad
+      accessed: '2026-11-21'
+      locator: Track title
+  - value: https://soundcloud.com/babackrajabi/takht-e-poulad
+    references:
+    - source: soundcloud.com-babackrajabi-takht-e-poulad
+      quote: Takht-e Poulad
+      accessed: '2026-11-21'
+      locator: Title on artist’s SoundCloud upload
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/90/50/2a/90502a6c-6456-aa71-b50a-fd0eb6d9da56/artwork.jpg/632x632bb-60.jpg
+    references:
+    - source: music.apple.com-us-album-takht-e-poulad-1678469351
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/90/50/2a/90502a6c-6456-aa71-b50a-fd0eb6d9da56/artwork.jpg/632x632bb-60.jpg
+      accessed: '2026-11-21'
+      locator: Release image URL
+    qualifiers:
+      credit:
+        text: Apple Music · Takht-E Poulad - Single
+        language: en

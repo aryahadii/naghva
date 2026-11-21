@@ -1,0 +1,55 @@
+id: Qcymwq7
+type: release
+statements:
+  name:
+  - value:
+      text: 'Payam Yousef : Kamanche Chahargah'
+      language: en
+    references:
+    - source: www.youtube.com-watch-v-axu0xijbajy
+      quote: 'Payam Yousef : Kamanche Chahargah'
+      accessed: '2026-11-21'
+      locator: YouTube oEmbed title
+  performer:
+  - value: Q57cj49
+    qualifiers:
+      role: kamancheh
+    references:
+    - source: www.youtube.com-watch-v-axu0xijbajy
+      quote: 'Payam Yousef : Kamanche Chahargah'
+      accessed: '2026-11-21'
+      locator: YouTube oEmbed title
+  release date:
+  - value:
+      date: '2011-05-27'
+    references:
+    - source: www.youtube.com-watch-v-axu0xijbajy
+      quote: '2011-05-27'
+      accessed: '2026-11-21'
+      locator: Official artist YouTube feed upload date
+  listen link:
+  - value: https://www.youtube.com/watch?v=aXu0XIjbAJY
+    references:
+    - source: www.youtube.com-watch-v-axu0xijbajy
+      quote: 'Payam Yousef : Kamanche Chahargah'
+      accessed: '2026-11-21'
+      locator: YouTube oEmbed title
+    - source: www.youtube.com-watch-v-axu0xijbajy
+      quote: Payam Yousefi
+      accessed: '2026-11-21'
+      locator: Artist publishing channel
+  cover art:
+  - value: https://i.ytimg.com/vi/aXu0XIjbAJY/hqdefault.jpg
+    qualifiers:
+      credit:
+        text: Payam Yousefi on YouTube
+        language: en
+    references:
+    - source: www.youtube.com-watch-v-axu0xijbajy
+      quote: https://i.ytimg.com/vi/aXu0XIjbAJY/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Native thumbnail
+    - source: www.youtube.com-watch-v-axu0xijbajy
+      quote: Payam Yousefi
+      accessed: '2026-11-21'
+      locator: Artist publishing channel

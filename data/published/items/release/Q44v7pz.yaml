@@ -1,0 +1,72 @@
+id: Q44v7pz
+type: release
+statements:
+  name:
+  - value:
+      text: Za
+      language: en
+    references:
+    - source: safir.bandcamp.com-track-za
+      quote: Za | Safir, Nima Aghiani | Safir
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qgncp5r
+    references:
+    - source: safir.bandcamp.com-album-kandoo
+      quote: Kandoo | Safir, Nima Aghiani | Safir
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qm7wprz
+    references:
+    - source: safir.bandcamp.com-album-kandoo
+      quote: 'Rapper, Songwriter: Safir'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  contributor:
+  - value: Qgncp5r
+    references:
+    - source: safir.bandcamp.com-album-kandoo
+      quote: 'Music Producer, Mix & Mastering: Nima Aghiani'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: producer
+  listen link:
+  - value: https://safir.bandcamp.com/track/za
+    references:
+    - source: safir.bandcamp.com-track-za
+      quote: Za | Safir, Nima Aghiani | Safir
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/za/1719365619
+    references:
+    - source: music.apple.com-us-song-za-1719365619
+      quote: ‎Za - Song with Lyrics by Safir & Nima Aghiani - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/4tAj44BkwqGovSTV4suFoX
+    references:
+    - source: open.spotify.com-track-4taj44bkwqgovstv4sufox
+      quote: Za - song and lyrics by Safir, Nima Aghiani | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2023-12-10'
+    references:
+    - source: safir.bandcamp.com-album-kandoo
+      quote: released December 10, 2023
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a0052073679_10.jpg
+    references:
+    - source: safir.bandcamp.com-track-za
+      quote: https://f4.bcbits.com/img/a0052073679_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Safir
+        language: en

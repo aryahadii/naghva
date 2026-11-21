@@ -1,0 +1,61 @@
+id: Qenc64z
+type: release
+statements:
+  name:
+  - value:
+      text: Istgah · Tehran concert
+      language: en
+    references:
+    - source: honaronline.ir-133060-istgah
+      quote: پروژه موسیقی "ایستگاه"
+      accessed: '2026-11-21'
+      locator: Composer interview heading
+  - value:
+      text: ایستگاه؛ اجرای تهران
+      language: fa
+    references:
+    - source: honaronline.ir-133060-istgah
+      quote: پروژه موسیقی "ایستگاه"
+      accessed: '2026-11-21'
+      locator: Composer interview heading
+  performer:
+  - value: Qa6r74t
+    qualifiers:
+      role:
+      - bass
+    references:
+    - source: honaronline.ir-133060-istgah
+      quote: کسری سبکتکین (نوازنده گیتار باس)
+      accessed: '2026-11-21'
+      locator: Alizadeh’s concert lineup
+  - value: Qnharha
+    qualifiers:
+      role:
+      - vocals
+    references:
+    - source: honaronline.ir-133060-istgah
+      quote: صدای امید نعمتی
+      accessed: '2026-11-21'
+      locator: Composer’s vocal casting
+  contributor:
+  - value: Qhtzxdk
+    qualifiers:
+      role:
+      - composer
+    references:
+    - source: honaronline.ir-133060-istgah
+      quote: مهیار علیزاده آهنگساز
+      accessed: '2026-11-21'
+      locator: Composer interview
+  release date:
+  - value:
+      date: 2019-04
+    references:
+    - source: honaronline.ir-133060-istgah
+      quote: '2019-04-10'
+      accessed: '2026-11-21'
+      locator: Original announcement date
+    - source: honaronline.ir-133060-istgah
+      quote: 8 و 9 اردیبهشت‌ماه
+      accessed: '2026-11-21'
+      locator: Scheduled performances

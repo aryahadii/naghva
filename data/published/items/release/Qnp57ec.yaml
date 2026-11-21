@@ -1,0 +1,36 @@
+id: Qnp57ec
+type: release
+statements:
+  name:
+  - value:
+      text: I Am My Body
+      language: en
+    references:
+    - source: open.spotify.com-album-1noovgnnafeiryhdsmglnj
+      quote: I Am My Body
+      accessed: 2026-11-21
+      locator: Track heading
+  listen link:
+  - value: https://open.spotify.com/track/2zYupsnAt6olxkN51MpY04
+    references:
+    - source: open.spotify.com-album-1noovgnnafeiryhdsmglnj
+      quote: /kry
+      accessed: 2026-11-21
+      locator: Track billing
+  performer:
+  - value: Q349g6b
+    references:
+    - source: open.spotify.com-album-1noovgnnafeiryhdsmglnj
+      quote: /kry
+      accessed: 2026-11-21
+      locator: Track billing
+  - value: Qyy9hf9
+    qualifiers:
+      role:
+      - clarinet
+      - electronics
+    references:
+    - source: www.freifeldtontraeger.com-kry
+      quote: Mona Matbou Riahi - Clarinet/fx
+      accessed: 2026-11-21
+      locator: Trio personnel

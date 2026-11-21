@@ -1,0 +1,94 @@
+id: Qtpd3zv
+type: release
+statements:
+  name:
+  - value:
+      text: 5-Chin O Choruk
+      language: en
+    references:
+    - source: music.apple.com-us-album-5-chin-o-choruk-1553677822
+      quote: 5-Chin O Choruk
+      accessed: '2026-11-21'
+      locator: Track title
+  - value:
+      text: Chin o churuk
+      language: en
+    references:
+    - source: babakrajabi.bandcamp.com-album-humour-et-joie-tanz-o-tarab
+      quote: Chin o churuk
+      accessed: '2026-11-21'
+      locator: Artist release or track heading
+  - value:
+      text: 5- Chin O Churouk چین و چروک
+      language: en
+    references:
+    - source: soundcloud.com-babackrajabi-5-chin-o-churouk
+      quote: 5- Chin O Churouk چین و چروک
+      accessed: '2026-11-21'
+      locator: Title on artist’s SoundCloud upload
+  performer:
+  - value: Qzhgpkw
+    references:
+    - source: music.apple.com-us-album-5-chin-o-choruk-1553677822
+      quote: Babak Rajabi
+      accessed: '2026-11-21'
+      locator: Artist billing
+    - source: babakrajabi.bandcamp.com-album-humour-et-joie-tanz-o-tarab
+      quote: Babak RAJABI
+      accessed: '2026-11-21'
+      locator: Artist billing
+  release date:
+  - value:
+      date: '2021-02-14'
+    references:
+    - source: music.apple.com-us-album-5-chin-o-choruk-1553677822
+      quote: '2021-02-14'
+      accessed: '2026-11-21'
+      locator: Release metadata
+  - value:
+      date: '2021-02-19'
+    references:
+    - source: babakrajabi.bandcamp.com-album-humour-et-joie-tanz-o-tarab
+      quote: 19 Feb 2021 00:00:00 GMT
+      accessed: '2026-11-21'
+      locator: Bandcamp release metadata
+  listen link:
+  - value: https://music.apple.com/us/song/5-chin-o-choruk/1553677828
+    references:
+    - source: music.apple.com-us-album-5-chin-o-choruk-1553677822
+      quote: 5-Chin O Choruk
+      accessed: '2026-11-21'
+      locator: Track title
+  - value: https://babakrajabi.bandcamp.com/track/chin-o-churuk
+    references:
+    - source: babakrajabi.bandcamp.com-album-humour-et-joie-tanz-o-tarab
+      quote: Chin o churuk
+      accessed: '2026-11-21'
+      locator: Artist release or track heading
+  - value: https://soundcloud.com/babackrajabi/5-chin-o-churouk
+    references:
+    - source: soundcloud.com-babackrajabi-5-chin-o-churouk
+      quote: 5- Chin O Churouk چین و چروک
+      accessed: '2026-11-21'
+      locator: Title on artist’s SoundCloud upload
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3a/81/2c/3a812c10-e381-cf87-7225-e28e93bc346c/artwork.jpg/632x632bb-60.jpg
+    references:
+    - source: music.apple.com-us-album-5-chin-o-choruk-1553677822
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3a/81/2c/3a812c10-e381-cf87-7225-e28e93bc346c/artwork.jpg/632x632bb-60.jpg
+      accessed: '2026-11-21'
+      locator: Release image URL
+    qualifiers:
+      credit:
+        text: Apple Music · Tanz o Tarab - EP
+        language: en
+  - value: https://f4.bcbits.com/img/a2648068721_10.jpg
+    references:
+    - source: babakrajabi.bandcamp.com-album-humour-et-joie-tanz-o-tarab
+      quote: https://f4.bcbits.com/img/a2648068721_10.jpg
+      accessed: '2026-11-21'
+      locator: Release image URL
+    qualifiers:
+      credit:
+        text: Babak Rajabi · Bandcamp
+        language: en

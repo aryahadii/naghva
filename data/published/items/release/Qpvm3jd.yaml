@@ -1,0 +1,38 @@
+id: Qpvm3jd
+type: release
+statements:
+  name:
+  - value:
+      text: دوضربی بیات ترک صبا I Zarbi de Bayât Tork
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-cbobcmejgky
+      quote: دوضربی بیات ترک صبا I Zarbi de Bayât Tork
+      accessed: '2026-11-21'
+      locator: Music credited by musician or performance publisher
+  performer:
+  - value: Qqb9bnx
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/cbobCMejGKY/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-cbobcmejgky
+      quote: https://i.ytimg.com/vi/cbobCMejGKY/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video frame
+    qualifiers:
+      credit:
+        text: Mehdi Moshtagh
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=cbobCMejGKY
+    references:
+    - *id001
+  contributor:
+  - value: Qatxt85
+    references:
+    - *id001
+    qualifiers:
+      role: composer

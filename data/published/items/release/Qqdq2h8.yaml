@@ -1,0 +1,37 @@
+id: Qqdq2h8
+type: release
+statements:
+  name:
+  - value:
+      text: Il n'y a que le bazar qui reste
+      language: en
+    references:
+    - source: www.youtube.com-watch-v-mbuc0n0fune
+      quote: Il n'y a que le bazar qui reste
+      accessed: '2026-11-21'
+      locator: Recording title or artist credit
+  performer:
+  - value: Q4q92dh
+    references:
+    - source: www.youtube.com-watch-v-mbuc0n0fune
+      quote: Cinna Peyghamy - Il n'y a que le bazar qui reste
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://www.youtube.com/watch?v=MBUc0N0fUnE
+    references:
+    - source: www.youtube.com-watch-v-mbuc0n0fune
+      quote: Cinna Peyghamy - Il n'y a que le bazar qui reste
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i.ytimg.com/vi/MBUc0N0fUnE/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-mbuc0n0fune
+      quote: https://i.ytimg.com/vi/MBUc0N0fUnE/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: Cinna Peyghamy
+        language: en

@@ -1,0 +1,72 @@
+id: Q947g9h
+type: release
+statements:
+  name:
+  - value:
+      text: مجنون
+      language: fa
+    references:
+    - source: music.apple.com-us-album-1780577873
+      quote: مجنون
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+  performer:
+  - value: Qncx8nb
+    references:
+    - source: music.apple.com-us-album-1780577873
+      quote: Samin Ghorbani
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: vocals
+  release date:
+  - value:
+      date: '2024-11-18'
+    references:
+    - source: music.apple.com-us-album-1780577873
+      quote: '2024-11-18'
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e0/85/4b/e0854bc4-ab69-4db0-2eb7-05e40c2ccce2/cover.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-1780577873
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e0/85/4b/e0854bc4-ab69-4db0-2eb7-05e40c2ccce2/cover.jpg/1200x630bb.jpg
+      locator: Edition artwork
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Apple Music · مجنون
+        language: en
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-1780577873
+      quote: مجنون - Single
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://music.apple.com/us/album/%D9%85%D8%AC%D9%86%D9%88%D9%86-single/1780577873
+    references:
+    - source: music.apple.com-us-album-1780577873
+      quote: مجنون - Single
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/album/4u6TTSWKxjBdXnVJLt2YF7
+    references:
+    - source: open.spotify.com-embed-album-4u6ttswkxjbdxnvjlt2yf7
+      quote: مجنون
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+  - value: https://music.apple.com/us/song/%D9%85%D8%AC%D9%86%D9%88%D9%86/1780578050
+    references:
+    - source: music.apple.com-us-album-1780577873
+      quote: مجنون
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/3zE16ZfStAq4pPKTDkohyi
+    references:
+    - source: open.spotify.com-embed-album-4u6ttswkxjbdxnvjlt2yf7
+      quote: مجنون
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'

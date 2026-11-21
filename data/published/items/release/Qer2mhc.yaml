@@ -1,0 +1,53 @@
+id: Qer2mhc
+type: release
+statements:
+  name:
+  - value:
+      text: Ilkbahar
+      language: en
+    references:
+    - source: www.youtube.com-watchv-oxzvanxepr4
+      quote: Samin Ghorbani • Ilkbahar • Female Voice of Iran
+      locator: Music or festival film credits
+      accessed: '2026-11-21'
+  performer:
+  - value: Qncx8nb
+    references:
+    - source: www.zeitgenoessische-oper.de-produktionen-femalevoiceofiran-film
+      quote: Samin Ghorbani – Voice
+      locator: Music or festival film credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: vocals
+  - value: Q7kqp7e
+    references:
+    - source: www.zeitgenoessische-oper.de-produktionen-femalevoiceofiran-film
+      quote: Carlos Libedinsky – Bandoneon
+      locator: Music or festival film credits
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2018-11-23'
+    references:
+    - source: www.youtube.com-watchv-oxzvanxepr4
+      quote: '2018-11-23T10:27:51-08:00'
+      locator: Music or festival film credits
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://www.youtube.com/watch?v=oXzvANXEpR4
+    references:
+    - source: www.youtube.com-oembed-oxzvanxepr4
+      quote: Samin Ghorbani • Ilkbahar • Female Voice of Iran
+      locator: Music or festival film credits
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://i.ytimg.com/vi/oXzvANXEpR4/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-oxzvanxepr4
+      quote: https://i.ytimg.com/vi/oXzvANXEpR4/hqdefault.jpg
+      locator: Film or video image
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: CrossGeneration Media
+        language: en

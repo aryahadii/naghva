@@ -1,0 +1,60 @@
+id: Qk62bdx
+type: release
+statements:
+  name:
+  - value:
+      text: Oyun
+      language: en
+    references:
+    - source: music.apple.com-us-album-temas-1814324990
+      quote: Oyun (feat. Angelika Niescier)
+      accessed: 2026-11-21
+      locator: Album or recording title
+  performer:
+  - value: Qnessyd
+    references:
+    - source: music.apple.com-us-album-temas-1814324990
+      quote: Cymin Samawatie
+      accessed: 2026-11-21
+      locator: Artist credit
+  - value: Qnj368h
+    references:
+    - source: music.apple.com-us-album-temas-1814324990
+      quote: Oyun (feat. Angelika Niescier)
+      accessed: 2026-11-21
+      locator: Album or recording title
+  release date:
+  - value:
+      date: '2025-06-13'
+    references:
+    - source: music.apple.com-us-album-temas-1814324990
+      quote: '2025-06-13'
+      accessed: 2026-11-21
+      locator: Edition date
+  listen link:
+  - value: https://music.apple.com/us/song/oyun-feat-angelika-niescier/1814325224
+    references:
+    - source: music.apple.com-us-album-temas-1814324990
+      quote: Oyun (feat. Angelika Niescier)
+      accessed: 2026-11-21
+      locator: Album or recording title
+  - value: https://open.spotify.com/track/1xG7PZNBWEI5Sj4cILGStf
+    references:
+    - source: open.spotify.com-album-0m2acbyzowxjz99sppku2i
+      quote: Oyun
+      accessed: 2026-11-21
+      locator: Edition or recording title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ae/32/ac/ae32ac72-f2f9-394d-280f-70f514763424/199350614927.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-temas-1814324990
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ae/32/ac/ae32ac72-f2f9-394d-280f-70f514763424/199350614927.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Release artwork
+  published by:
+  - value: Qshdw4c
+    references:
+    - source: music.apple.com-us-album-temas-1814324990
+      quote: iKi Muzik
+      accessed: 2026-11-21
+      locator: Phonogram credit

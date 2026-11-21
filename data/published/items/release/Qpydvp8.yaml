@@ -1,0 +1,63 @@
+id: Qpydvp8
+type: release
+statements:
+  name:
+  - value:
+      text: Shaw
+      language: en
+    references:
+    - source: music.apple.com-us-album-shaw-1480748094
+      quote: Shaw
+      locator: Track 1
+      accessed: '2026-11-21'
+  performer:
+  - value: Qnrm3kw
+    references:
+    - source: music.apple.com-us-album-shaw-1480748094
+      quote: Hani Mojtahedy
+      locator: Track or album performer
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2019-09-19'
+    references:
+    - source: music.apple.com-us-album-shaw-1480748094
+      quote: '2019-09-19'
+      locator: Original edition date
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/5a/42/dc/5a42dc3e-1c36-3151-5bc2-11db8d35721d/628810720248.png/632x632bb-60.jpg
+    references:
+    - source: music.apple.com-us-album-shaw-1480748094
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/5a/42/dc/5a42dc3e-1c36-3151-5bc2-11db8d35721d/628810720248.png/632x632bb-60.jpg
+      locator: Release art
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Shaw · Apple Music
+        language: en
+  listen link:
+  - value: https://music.apple.com/us/song/shaw/1480748095
+    references:
+    - source: music.apple.com-us-album-shaw-1480748094
+      quote: Shaw
+      locator: Track 1
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/3rL2ScRitMj13EXA5l9IFv
+    references:
+    - source: open.spotify.com-album-1dt6fv12mejyh0saabzsny
+      quote: Shaw
+      locator: Matched Spotify track
+      accessed: '2026-11-21'
+  - value: https://www.youtube.com/watch?v=oUvIF8ZrARA
+    references:
+    - source: www.youtube.com-oembed-ouvif8zrara
+      quote: Hani Mojtahedy - Shaw (Prod. By @5iamand )
+      locator: Original upload or video selected by artist channel
+      accessed: '2026-11-21'
+  - value: https://t.me/hani_mojtahedi/116
+    references:
+    - source: t.me-s-hani_mojtahedibefore-134
+      quote: https://m.youtube.com/watch?v=oUvIF8ZrARA
+      locator: Channel post 116 links this performance
+      accessed: '2026-11-21'

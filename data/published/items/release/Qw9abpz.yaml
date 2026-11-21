@@ -1,0 +1,58 @@
+id: Qw9abpz
+type: release
+statements:
+  name:
+  - value:
+      text: You Never Know - Single
+      language: en
+    references:
+    - source: music.apple.com-us-album-you-never-know-single-1707989017
+      quote: You Never Know - Single
+      accessed: '2026-11-21'
+      locator: Original digital issue
+  performer:
+  - value: Qxxp9ab
+    references:
+    - source: music.apple.com-us-album-you-never-know-single-1707989017
+      quote: You Never Know - Single
+      accessed: '2026-11-21'
+      locator: Original digital issue
+  listen link:
+  - value: https://music.apple.com/us/album/you-never-know-single/1707989017
+    references:
+    - source: music.apple.com-us-album-you-never-know-single-1707989017
+      quote: You Never Know - Single
+      accessed: '2026-11-21'
+      locator: Original digital issue
+  - value: https://open.spotify.com/album/6zc6I1Z6hujWNW4voE6Sfx
+    references:
+    - source: open.spotify.com-embed-album-6zc6i1z6hujwnw4voe6sfx
+      quote: You Never Know
+      accessed: '2026-11-21'
+      locator: Spotify original album
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-you-never-know-single-1707989017
+      quote: You Never Know - Single
+      accessed: '2026-11-21'
+      locator: Original digital issue
+  release date:
+  - value:
+      date: '2023-10-13'
+    references:
+    - source: music.apple.com-us-album-you-never-know-single-1707989017
+      quote: '2023-10-13'
+      accessed: '2026-11-21'
+      locator: Release date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/55/f4/94/55f4948c-d262-54ac-b01e-02a477fc4455/4065328289793.png/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Natch Nadjafi on Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-you-never-know-single-1707989017
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/55/f4/94/55f4948c-d262-54ac-b01e-02a477fc4455/4065328289793.png/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Original release image

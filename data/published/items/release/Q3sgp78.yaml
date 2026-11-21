@@ -1,0 +1,53 @@
+id: Q3sgp78
+type: release
+statements:
+  name:
+  - value:
+      text: Live at Brisbane Festival
+      language: en
+    references:
+    - source: www.youtube.com-watch-v-f7vkha1-bgg
+      quote: Live at Brisbane Festival
+      accessed: '2026-11-21'
+      locator: Video title
+  performer:
+  - value: Qhebfsp
+    references:
+    - source: www.youtube.com-watch-v-f7vkha1-bgg
+      quote: Eishan
+      accessed: '2026-11-21'
+      locator: Title or published description
+  listen link:
+  - value: https://www.youtube.com/watch?v=f7vKHa1-BGg
+    references:
+    - source: www.youtube.com-watch-v-f7vkha1-bgg
+      quote: Live at Brisbane Festival
+      accessed: '2026-11-21'
+      locator: Video title
+    - source: www.youtube.com-watch-v-f7vkha1-bgg
+      quote: Hamed Sadeghi
+      accessed: '2026-11-21'
+      locator: Publishing channel
+  release date:
+  - value:
+      date: '2025-10-12'
+    references:
+    - source: www.youtube.com-watch-v-f7vkha1-bgg
+      quote: '2025-10-12T11:41:13-07:00'
+      accessed: '2026-11-21'
+      locator: Upload date
+  cover art:
+  - value: https://i.ytimg.com/vi/f7vKHa1-BGg/maxresdefault.jpg
+    qualifiers:
+      credit:
+        text: Hamed Sadeghi on YouTube
+        language: en
+    references:
+    - source: www.youtube.com-watch-v-f7vkha1-bgg
+      quote: https://i.ytimg.com/vi/f7vKHa1-BGg/maxresdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video thumbnail
+    - source: www.youtube.com-watch-v-f7vkha1-bgg
+      quote: Hamed Sadeghi
+      accessed: '2026-11-21'
+      locator: Publishing channel

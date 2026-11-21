@@ -1,0 +1,73 @@
+id: Qh354en
+type: release
+statements:
+  listen link:
+  - value: https://sinasalimi.bandcamp.com/track/a-tale-told-again
+    references:
+    - source: sinasalimi.bandcamp.com-track-a-tale-told-again
+      quote: A Tale Told Again | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/a-tale-told-again/751555754
+    references:
+    - source: music.apple.com-us-song-a-tale-told-again-751555754
+      quote: ‎A Tale Told Again - Song with Lyrics by Sina Salimi - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/0eBUbXN8GFyl8y6kxDUoGr
+    references:
+    - source: open.spotify.com-track-0ebubxn8gfyl8y6kxduogr
+      quote: A Tale Told Again - song and lyrics by Sina Salimi | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://www.youtube.com/watch?v=voLTpqqRo7o
+    references:
+    - source: www.youtube.com-watch-v-voltpqqro7o
+      quote: Sina Salimi - A Tale Told Again
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/sinasalimi/06-track-06
+    references:
+    - source: soundcloud.com-sinasalimi-06-track-06
+      quote: Stream داستانی نه تازه - A Tale Told Again by Sina  Salimi | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  name:
+  - value:
+      text: A Tale Told Again
+      language: en
+    references:
+    - source: sinasalimi.bandcamp.com-track-a-tale-told-again
+      quote: A Tale Told Again
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  performer:
+  - value: Qt5sbqz
+    references:
+    - source: sinasalimi.bandcamp.com-track-a-tale-told-again
+      quote: A Tale Told Again | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2013-11-02'
+    references:
+    - source: sinasalimi.bandcamp.com-album-perhaps-there
+      quote: released November 2, 2013
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a0117575761_10.jpg
+    references:
+    - source: sinasalimi.bandcamp.com-track-a-tale-told-again
+      quote: https://f4.bcbits.com/img/a0117575761_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    - source: sinasalimi.bandcamp.com-album-perhaps-there
+      quote: 'Album Design: KAJART'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: KAJART
+        language: en

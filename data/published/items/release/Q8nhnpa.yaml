@@ -1,0 +1,63 @@
+id: Q8nhnpa
+type: release
+statements:
+  name:
+  - value:
+      text: 1992 Denim/Baby
+      language: en
+    references:
+    - source: music.apple.com-us-album-1992-denim-baby-1530605219
+      quote: 1992 Denim/Baby
+      locator: Track title
+      accessed: '2026-11-21'
+  performer:
+  - value: Q73z6p3
+    references:
+    - source: music.apple.com-us-album-1992-denim-baby-1530605219
+      quote: King George VIII
+      locator: Original release artist
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2020-09-25'
+    references:
+    - source: music.apple.com-us-album-1992-denim-baby-1530605219
+      quote: '2020-09-25'
+      locator: Release date
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/39/cf/00/39cf00c0-982b-9cd9-5651-c61da11118f3/195497147236.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-1992-denim-baby-1530605219
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/39/cf/00/39cf00c0-982b-9cd9-5651-c61da11118f3/195497147236.jpg/1200x630bb.jpg
+      locator: Image for this recording
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: 1992 Denim/Baby · Apple Music
+        language: en
+  listen link:
+  - value: https://music.apple.com/us/song/1992-denim-baby/1530605469
+    references:
+    - source: music.apple.com-us-album-1992-denim-baby-1530605219
+      quote: 1992 Denim/Baby
+      locator: Track title
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/1uyoeYUoIgltQJCyHi1gtP
+    references:
+    - source: open.spotify.com-track-1uyoeyuoigltqjcyhi1gtp
+      quote: 1992 Denim/Baby
+      locator: Track title
+      accessed: '2026-11-21'
+  contributor:
+  - value: Qxmhx58
+    references:
+    - source: www.qobuz.com-us-en-album-1992-denim-baby-king-george-viii-th97wb8923mla
+      quote: Marie Denise Aune Sahba, Composer
+      locator: Track 1 credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: composer
+      credited as:
+        text: Marie Denise Aune Sahba
+        language: en

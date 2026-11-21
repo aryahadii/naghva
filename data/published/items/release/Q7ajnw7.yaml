@@ -1,0 +1,53 @@
+id: Q7ajnw7
+type: release
+statements:
+  name:
+  - value:
+      text: Marge Khamoosh
+      language: en
+    references:
+    - source: open.spotify.com-album-7i075ps0yiu4czu4maogkp
+      quote: Marge Khamoosh
+      accessed: 2026-11-21
+      locator: Track title
+  performer:
+  - value: Qk67gf5
+    references:
+    - source: open.spotify.com-album-7i075ps0yiu4czu4maogkp
+      quote: Farshid Arabi
+      accessed: 2026-11-21
+      locator: Album artist credit
+  listen link:
+  - value: https://open.spotify.com/track/5sVvj8nseJ9f5BLATg5llO
+    references:
+    - source: open.spotify.com-album-7i075ps0yiu4czu4maogkp
+      quote: Marge Khamoosh
+      accessed: 2026-11-21
+      locator: Track title
+  - value: https://music.apple.com/us/song/marge-khamoosh/1722790152
+    references:
+    - source: music.apple.com-us-album-marge-khamoosh-1722790148
+      quote: Marge Khamoosh
+      accessed: 2026-11-21
+      locator: Native title
+  - value: https://youtu.be/WvSRqoG3anU
+    references:
+    - source: youtu.be-wvsrqog3anu
+      quote: Marge Khamoosh
+      accessed: 2026-11-21
+      locator: Publisher upload
+  release date:
+  - value:
+      date: '2017-07-08'
+    references:
+    - source: music.apple.com-us-album-marge-khamoosh-1722790148
+      quote: '2017-07-08'
+      accessed: 2026-11-21
+      locator: Storefront release date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d8/e4/cc/d8e4cce6-0542-c7ef-d1cf-9788913d9baa/198026853639.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-marge-khamoosh-1722790148
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d8/e4/cc/d8e4cce6-0542-c7ef-d1cf-9788913d9baa/198026853639.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Album artwork

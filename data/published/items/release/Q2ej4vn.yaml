@@ -1,0 +1,49 @@
+id: Q2ej4vn
+type: release
+statements:
+  name:
+  - value:
+      text: contes de Perse au festival d'Avignon
+      language: fr
+    references:
+    - source: www.youtube.com-watchv-6nlhwpiwgss
+      quote: contes de Perse au festival d'Avignon
+      accessed: '2026-11-21'
+      locator: Official upload title
+  performer:
+  - value: Qzhgpkw
+    references:
+    - source: www.youtube.com-watchv-6nlhwpiwgss
+      quote: contes de Perse au festival d'Avignon
+      accessed: '2026-11-21'
+      locator: Official upload title
+    - source: www.youtube.com-watchv-6nlhwpiwgss
+      quote: Babak Rajabi
+      accessed: '2026-11-21'
+      locator: Uploading artist
+  listen link:
+  - value: https://www.youtube.com/watch?v=6NlhwpiwgSs
+    references:
+    - source: www.youtube.com-watchv-6nlhwpiwgss
+      quote: contes de Perse au festival d'Avignon
+      accessed: '2026-11-21'
+      locator: Official upload title
+  release date:
+  - value:
+      date: '2024-06-08'
+    references:
+    - source: www.youtube.com-watchv-6nlhwpiwgss
+      quote: '20240608'
+      accessed: '2026-11-21'
+      locator: Video publication date, YYYYMMDD
+  cover art:
+  - value: https://i.ytimg.com/vi/6NlhwpiwgSs/maxresdefault.jpg
+    references:
+    - source: www.youtube.com-watchv-6nlhwpiwgss
+      quote: https://i.ytimg.com/vi/6NlhwpiwgSs/maxresdefault.jpg
+      accessed: '2026-11-21'
+      locator: Release image URL
+    qualifiers:
+      credit:
+        text: Babak Rajabi · YouTube
+        language: en

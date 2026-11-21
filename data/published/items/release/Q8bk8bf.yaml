@@ -1,0 +1,63 @@
+id: Q8bk8bf
+type: release
+statements:
+  name:
+  - value:
+      text: I Can't Go Without You
+      language: en
+    references:
+    - source: music.apple.com-us-album-endeavor-1531973256
+      quote: I Can't Go Without You
+      accessed: '2026-11-21'
+      locator: Original edition track 1
+  performer:
+  - value: Qvfz6ey
+    references:
+    - source: music.apple.com-us-album-endeavor-1531973256
+      quote: I Can't Go Without You
+      accessed: '2026-11-21'
+      locator: Original edition track 1
+  listen link:
+  - value: https://music.apple.com/us/song/i-cant-go-without-you/1531973258
+    references:
+    - source: music.apple.com-us-album-endeavor-1531973256
+      quote: https://music.apple.com/us/song/i-cant-go-without-you/1531973258
+      accessed: '2026-11-21'
+      locator: Unique Apple song URL
+  - value: https://themuckersband.bandcamp.com/track/i-cant-go-without-you
+    references:
+    - source: themuckersband.bandcamp.com-track-i-cant-go-without-you
+      quote: I Can't Go Without You
+      accessed: '2026-11-21'
+      locator: Original artist issue
+  - value: https://soundcloud.com/themuckers/i-cant-go-without-you
+    references:
+    - source: soundcloud.com-themuckers-i-cant-go-without-you
+      quote: I Can't Go Without You
+      accessed: '2026-11-21'
+      locator: SoundCloud track
+  - value: https://open.spotify.com/track/1psZBkHWIBDxC7acbzUx0s
+    references:
+    - source: open.spotify.com-embed-album-65szqpn5uhbpscpdxzculv
+      quote: spotify:track:1psZBkHWIBDxC7acbzUx0s
+      accessed: '2026-11-21'
+      locator: Spotify native track identifier
+  release date:
+  - value:
+      date: '2021-02-26'
+    references:
+    - source: music.apple.com-us-album-endeavor-1531973256
+      quote: '2021-02-26'
+      accessed: '2026-11-21'
+      locator: Original release or upload date
+  cover art:
+  - value: https://f4.bcbits.com/img/a2953404952_10.jpg
+    qualifiers:
+      credit:
+        text: The Muckers on Bandcamp
+        language: en
+    references:
+    - source: themuckersband.bandcamp.com-track-i-cant-go-without-you
+      quote: https://f4.bcbits.com/img/a2953404952_10.jpg
+      accessed: '2026-11-21'
+      locator: Original cover

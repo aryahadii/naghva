@@ -1,0 +1,53 @@
+id: Qmmdcpr
+type: release
+statements:
+  name:
+  - value:
+      text: La Cloche Vide
+      language: en
+    references:
+    - source: music.apple.com-us-album-the-voices-and-bridges-1563830946
+      quote: La Cloche Vide
+      accessed: 2026-11-21
+      locator: Track listing
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/54/bb/9f/54bb9fb4-53d1-12a1-9469-aac39322f908/738715292273.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-the-voices-and-bridges-1563830946
+      quote: The Voices and Bridges
+      accessed: 2026-11-21
+      locator: Release heading
+  release date:
+  - value:
+      date: '2021-07-16'
+    references:
+    - source: music.apple.com-us-album-the-voices-and-bridges-1563830946
+      quote: '2021-07-16'
+      accessed: 2026-11-21
+      locator: Edition release date
+  performer:
+  - value: Qwh5yn8
+    references:
+    - source: music.apple.com-us-album-the-voices-and-bridges-1563830946
+      quote: Ehsan Matoori
+      accessed: 2026-11-21
+      locator: Release artist
+  listen link:
+  - value: https://music.apple.com/us/song/la-cloche-vide/1563830952
+    references:
+    - source: music.apple.com-us-album-the-voices-and-bridges-1563830946
+      quote: La Cloche Vide
+      accessed: 2026-11-21
+      locator: Track listing
+  - value: https://ehsanmatoori.bandcamp.com/track/la-cloche-vide
+    references:
+    - source: ehsanmatoori.bandcamp.com-album-the-voices-and-bridges
+      quote: La Cloche Vide
+      accessed: 2026-11-21
+      locator: Album track listing
+  - value: https://soundcloud.com/ehsan-matoori/la-cloche-vide
+    references:
+    - source: soundcloud.com-ehsan-matoori-la-cloche-vide
+      quote: La Cloche Vide
+      accessed: 2026-11-21
+      locator: Recording on the Ehsan Matoori profile

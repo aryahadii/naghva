@@ -1,0 +1,67 @@
+id: Q6sf7zd
+type: release
+statements:
+  name:
+  - value:
+      text: Hypolimnion
+      language: en
+    references:
+    - source: vazesh.bandcamp.com-track-hypolimnion
+      quote: Hypolimnion
+      accessed: '2026-11-21'
+      locator: Track name
+  performer:
+  - value: Q597kk9
+    references:
+    - source: vazesh.bandcamp.com-track-hypolimnion
+      quote: Hypolimnion | Vazesh
+      accessed: '2026-11-21'
+      locator: Bandcamp title
+  listen link:
+  - value: https://vazesh.bandcamp.com/track/hypolimnion
+    references:
+    - source: vazesh.bandcamp.com-track-hypolimnion
+      quote: Hypolimnion | Vazesh
+      accessed: '2026-11-21'
+      locator: Bandcamp title
+  - value: https://music.apple.com/us/song/hypolimnion-feat-jeremy-rose-hamed-sadeghi-lloyd-swanton/1573854778
+    references:
+    - source: music.apple.com-us-album-the-sacred-key-feat-jeremy-rose-hamed-sadeghi-lloyd-swanton-1573854774
+      quote: Hypolimnion (feat. Jeremy Rose, Hamed Sadeghi & Lloyd Swanton)
+      accessed: '2026-11-21'
+      locator: Album track 1
+  - value: https://open.spotify.com/track/3Bi1baCtb16Rsv3aFJWQNE
+    references:
+    - source: open.spotify.com-album-1ovhykx7efdcc4o8hnvtxd
+      quote: Hypolimnion
+      accessed: '2026-11-21'
+      locator: Album track 1
+  - value: https://www.youtube.com/watch?v=cv62sih4zFg
+    references:
+    - source: www.youtube.com-playlist-list-olak5uy_mktqds40upeuierniulhfs6n71cmaigt0
+      quote: Hypolimnion
+      accessed: '2026-11-21'
+      locator: YouTube track list
+  cover art:
+  - value: https://f4.bcbits.com/img/a3550990946_10.jpg
+    qualifiers:
+      credit:
+        text: Hojjat Hamidi, photography
+        language: en
+    references:
+    - source: vazesh.bandcamp.com-album-the-sacred-key
+      quote: https://f4.bcbits.com/img/a3550990946_10.jpg
+      accessed: '2026-11-21'
+      locator: Full-size album artwork
+    - source: vazesh.bandcamp.com-album-the-sacred-key
+      quote: Photograph by Hojjat Hamidi
+      accessed: '2026-11-21'
+      locator: Cover photograph
+  release date:
+  - value:
+      date: '2021-07-25'
+    references:
+    - source: vazesh.bandcamp.com-album-the-sacred-key
+      quote: released July 25, 2021
+      accessed: '2026-11-21'
+      locator: Bandcamp date

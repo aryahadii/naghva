@@ -1,0 +1,39 @@
+id: Q7yt6pg
+type: release
+statements:
+  name:
+  - value:
+      text: Heyf by ooldouz pouri
+      language: en
+    references:
+    - source: www.youtube.com-watch-v-pcyfnr4-qx4
+      quote: Heyf by ooldouz pouri
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qkmhqgm
+    references:
+    - source: www.youtube.com-watch-v-pcyfnr4-qx4
+      quote: Heyf by ooldouz pouri
+      accessed: '2026-11-21'
+      locator: Page title
+    qualifiers:
+      role: vocals
+  listen link:
+  - value: https://www.youtube.com/watch?v=PcyFnR4-QX4
+    references:
+    - source: www.youtube.com-watch-v-pcyfnr4-qx4
+      quote: Heyf by ooldouz pouri
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i.ytimg.com/vi/PcyFnR4-QX4/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-pcyfnr4-qx4
+      quote: https://i.ytimg.com/vi/PcyFnR4-QX4/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: ooldouz pouri
+        language: en

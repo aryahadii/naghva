@@ -1,0 +1,61 @@
+id: Qny2s3x
+type: act
+statements:
+  name:
+  - value:
+      text: Abjeez
+      language: en
+    references:
+    - source: kayhanlife.com-culture-stage-meet-iranian-swedish-pop-band-abjeez
+      quote: founded in 2005 by the Iranian-born sisters Melody and Safoura Safavi
+      accessed: 2026-11-21
+      locator: Introduction
+  - value:
+      text: آبجیز
+      language: fa
+    references:
+    - source: www.sverigesradio.se-artikel-6636512
+      quote: خبر ممنوعیت سفر ایرانی‌ها به آمریکا باعث شده تا ملودی صفوی که شعرهای گروه آبجیز را می‌نویسد، به یاد
+        سختی‌های رد شدن از مرزها برای ایرانی‌ها بیفتد
+      accessed: 2026-11-21
+      locator: گزارش رادیو سوئد
+  formation date:
+  - value:
+      date: '2005'
+    references:
+    - source: kayhanlife.com-culture-stage-meet-iranian-swedish-pop-band-abjeez
+      quote: founded in 2005 by the Iranian-born sisters Melody and Safoura Safavi
+      accessed: 2026-11-21
+      locator: Introduction
+  image:
+  - value: https://i.scdn.co/image/ab6761610000e5ebc0851354236c8c510ffdd480
+    references:
+    - source: open.spotify.com-artist-28kq0k3qhthwwfevnkk5qd
+      quote: https://i.scdn.co/image/ab6761610000e5ebc0851354236c8c510ffdd480
+      accessed: 2026-11-21
+      locator: Artist profile image URL, og:image metadata
+  profile link:
+  - value: https://open.spotify.com/artist/28KQ0K3QhthwwfeVnkK5Qd
+    references:
+    - source: open.spotify.com-artist-28kq0k3qhthwwfevnkk5qd
+      quote: Two women side by side, both facing the camera.
+      accessed: 2026-11-21
+      locator: Artist profile photograph
+  - value: https://music.apple.com/us/artist/abjeez/213543613
+    references:
+    - source: music.apple.com-us-artist-abjeez-213543613
+      quote: Abjeez
+      accessed: 2026-11-21
+      locator: Artist heading
+  - value: https://www.youtube.com/@Abjeez
+    references:
+    - source: www.youtube.com-abjeez
+      quote: ABJEEZ
+      accessed: 2026-11-21
+      locator: Channel heading
+  - value: https://t.me/abjeezofficial
+    references:
+    - source: t.me-abjeezofficial
+      quote: ABJEEZ-آبجيز- Official Page
+      accessed: 2026-11-21
+      locator: Channel title

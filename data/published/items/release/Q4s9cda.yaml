@@ -1,0 +1,53 @@
+id: Q4s9cda
+type: release
+statements:
+  name:
+  - value:
+      text: Shiraz Ensemble · Philadelphia
+      language: en
+    references:
+    - source: www.youtube.com-oembed-a1i403ycciy
+      quote: March 29,2024 with Shiraz Ensemble and Mahya Hamedi.
+      locator: Musician, broadcaster, artist or recording credits
+      accessed: '2026-11-21'
+  performer:
+  - value: Q3ytwxm
+    references:
+    - source: www.youtube.com-oembed-a1i403ycciy
+      quote: March 29,2024 with Shiraz Ensemble and Mahya Hamedi.
+      locator: Musician, broadcaster, artist or recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: vocals
+  - value: Q87wshb
+    references:
+    - source: www.youtube.com-oembed-a1i403ycciy
+      quote: March 29,2024 with Shiraz Ensemble and Mahya Hamedi.
+      locator: Musician, broadcaster, artist or recording credits
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://www.youtube.com/watch?v=a1i403ycCIY
+    references:
+    - source: www.youtube.com-oembed-a1i403ycciy
+      quote: March 29,2024 with Shiraz Ensemble and Mahya Hamedi.
+      locator: Musician, broadcaster, artist or recording credits
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://i.ytimg.com/vi/a1i403ycCIY/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-a1i403ycciy
+      quote: https://i.ytimg.com/vi/a1i403ycCIY/hqdefault.jpg
+      locator: Musician, broadcaster, artist or recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Sina Homaee
+        language: en
+  release date:
+  - value:
+      date: '2026-03-12'
+    references:
+    - source: www.youtube.com-watchv-a1i403ycciy
+      quote: '2026-03-12T09:44:00-07:00'
+      locator: Native performance, published credits, date or time code
+      accessed: '2026-11-21'

@@ -1,0 +1,70 @@
+id: Qnprgrr
+type: release
+statements:
+  name:
+  - value:
+      text: Portal
+      language: en
+    references:
+    - source: music.apple.com-us-album-portal-single-1826432681
+      quote: Portal
+      accessed: '2026-11-21'
+      locator: Release and track listing
+  performer:
+  - value: Qf3hzjj
+    references:
+    - source: music.apple.com-us-album-portal-single-1826432681
+      quote: 'Listen to Portal - Single by Saffron Moon on Apple Music. 2025. 1 Song. Duration: 5 minutes.'
+      accessed: '2026-11-21'
+      locator: Distributor release billing
+  - value: Qjwhj2t
+    references:
+    - source: www.youtube.com-watch-v-ustryayopiw
+      quote: Saffron Moon - Portal
+      accessed: '2026-11-21'
+      locator: Label upload title
+  - value: Qf9fpj6
+    references:
+    - source: www.youtube.com-watch-v-ustryayopiw
+      quote: 'Saffron Moon: Pouya Mahmoodi & Hamed Derakhshan'
+      accessed: '2026-11-21'
+      locator: Duo personnel
+  listen link:
+  - value: https://music.apple.com/us/song/portal/1826432683
+    references:
+    - source: music.apple.com-us-album-portal-single-1826432681
+      quote: https://music.apple.com/us/song/portal/1826432683
+      accessed: '2026-11-21'
+      locator: Distributor permalink
+  - value: https://www.youtube.com/watch?v=UStRyAYoPiw
+    references:
+    - source: www.youtube.com-watch-v-ustryayopiw
+      quote: Saffron Moon - Portal
+      accessed: '2026-11-21'
+      locator: Label upload title
+  release date:
+  - value:
+      date: '2025-06-30'
+    references:
+    - source: music.apple.com-us-album-portal-single-1826432681
+      quote: '2025-06-30'
+      accessed: '2026-11-21'
+      locator: Original issue date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a7/eb/f6/a7ebf616-33ee-a79e-7381-f2d634419984/199538135770.jpg/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Distributor artwork via Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-portal-single-1826432681
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a7/eb/f6/a7ebf616-33ee-a79e-7381-f2d634419984/199538135770.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Digital cover artwork
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-portal-single-1826432681
+      quote: 'Listen to Portal - Single by Saffron Moon on Apple Music. 2025. 1 Song. Duration: 5 minutes.'
+      accessed: '2026-11-21'
+      locator: Distributor release billing

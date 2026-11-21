@@ -1,0 +1,57 @@
+id: Q5ypehw
+type: release
+statements:
+  name:
+  - value:
+      text: HERESHECOMES
+      language: en
+    references:
+    - source: room40.bandcamp.com-track-hereshecomes
+      quote: HERESHECOMES
+      accessed: '2026-11-21'
+      locator: Recording heading
+  performer:
+  - value: Qyt2364
+    references:
+    - source: room40.bandcamp.com-track-hereshecomes
+      quote: HERESHECOMES | Hadi Bastani | Room40
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://room40.bandcamp.com/track/hereshecomes
+    references:
+    - source: room40.bandcamp.com-track-hereshecomes
+      quote: HERESHECOMES | Hadi Bastani | Room40
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/hereshecomes/1597050757
+    references:
+    - source: music.apple.com-us-song-hereshecomes-1597050757
+      quote: ‎HERESHECOMES - Song with Lyrics by Hadi Bastani - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/7argYFYUqg4LVVLgl7x04S
+    references:
+    - source: open.spotify.com-track-7argyfyuqg4lvvlgl7x04s
+      quote: HERESHECOMES - song and lyrics by Hadi Bastani | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a1603169790_10.jpg
+    references:
+    - source: room40.bandcamp.com-track-hereshecomes
+      quote: https://f4.bcbits.com/img/a1603169790_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Bandcamp · Room40
+        language: en
+  release date:
+  - value:
+      date: '2021-12-03'
+    references:
+    - source: room40.bandcamp.com-track-hereshecomes
+      quote: released December 3, 2021
+      accessed: '2026-11-21'
+      locator: Published date

@@ -1,0 +1,41 @@
+id: Q838c9j
+type: release
+statements:
+  name:
+  - value:
+      text: Vatanam (Live)
+      language: en
+    references:
+    - source: music.apple.com-us-album-vatanam-live-single-1875433132
+      quote: Vatanam (Live)
+      accessed: 2026-11-21
+      locator: Album or track heading
+  listen link:
+  - value: https://music.apple.com/us/song/vatanam-live/1875433133
+    references:
+    - source: music.apple.com-us-album-vatanam-live-single-1875433132
+      quote: Vatanam (Live)
+      accessed: 2026-11-21
+      locator: Album or track heading
+  release date:
+  - value:
+      date: '2026-02-02'
+    references:
+    - source: music.apple.com-us-album-vatanam-live-single-1875433132
+      quote: '2026-02-02'
+      accessed: 2026-11-21
+      locator: Digital publication date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/58/ef/db/58efdb02-6ed2-9759-19f3-4d4fc4b35139/199900728012.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-vatanam-live-single-1875433132
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/58/ef/db/58efdb02-6ed2-9759-19f3-4d4fc4b35139/199900728012.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Native artwork
+  performer:
+  - value: Qxyr3j2
+    references:
+    - source: music.apple.com-us-album-vatanam-live-single-1875433132
+      quote: Darya Dadvar
+      accessed: 2026-11-21
+      locator: Edition artist

@@ -1,0 +1,17 @@
+id: Qekpqmc
+type: release
+statements:
+  name:
+  - value:
+      text: Harvayeh (Auditorio Blas Galindo)
+      language: en
+    references:
+    - &id001
+      source: videoteca.cenart.gob.mx-canal-23-255759-2
+      quote: 6 00.19:58.015 --> 00.24:53.009 Harvayeh
+      accessed: '2026-11-21'
+      locator: Canal 23 broadcast cue 6
+  performer:
+  - value: Qcabd29
+    references:
+    - *id001

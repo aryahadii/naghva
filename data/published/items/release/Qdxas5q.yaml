@@ -1,0 +1,45 @@
+id: Qdxas5q
+type: release
+statements:
+  name:
+  - value:
+      text: Ping Pong پینگ پونگ
+      language: en
+    references:
+    - source: soundcloud.com-babackrajabi-ping-pong
+      quote: Ping Pong پینگ پونگ
+      accessed: '2026-11-21'
+      locator: Title on artist’s SoundCloud upload
+  performer:
+  - value: Qzhgpkw
+    references:
+    - source: soundcloud.com-babackrajabi-ping-pong
+      quote: Babak Rajabi
+      accessed: '2026-11-21'
+      locator: Artist profile name
+  release date:
+  - value:
+      date: '2023-06-02'
+    references:
+    - source: soundcloud.com-babackrajabi-ping-pong
+      quote: '2023-06-02'
+      accessed: '2026-11-21'
+      locator: SoundCloud upload date
+  listen link:
+  - value: https://soundcloud.com/babackrajabi/ping-pong
+    references:
+    - source: soundcloud.com-babackrajabi-ping-pong
+      quote: Ping Pong پینگ پونگ
+      accessed: '2026-11-21'
+      locator: Title on artist’s SoundCloud upload
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-pivMhBoc2oD4j0KM-PLogog-large.jpg
+    references:
+    - source: soundcloud.com-babackrajabi-ping-pong
+      quote: https://i1.sndcdn.com/artworks-pivMhBoc2oD4j0KM-PLogog-large.jpg
+      accessed: '2026-11-21'
+      locator: Artist-uploaded track artwork URL
+    qualifiers:
+      credit:
+        text: Babak Rajabi · SoundCloud
+        language: en

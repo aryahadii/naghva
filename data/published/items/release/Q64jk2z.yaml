@@ -1,0 +1,41 @@
+id: Q64jk2z
+type: release
+statements:
+  name:
+  - value:
+      text: The Joy of Your Kisses
+      language: en
+    references:
+    - source: www.youtube.com-oembed-u37cfq5ntu4
+      quote: The Joy of Your Kisses
+      accessed: '2026-11-21'
+      locator: Official upload name
+  performer:
+  - value: Qfxqgvv
+    references:
+    - source: www.youtube.com-oembed-u37cfq5ntu4
+      quote: The Joy of Your Kisses
+      accessed: '2026-11-21'
+      locator: Official upload name
+    - source: www.youtube.com-oembed-u37cfq5ntu4
+      quote: Shadi Fathi
+      accessed: '2026-11-21'
+      locator: Official artist channel
+  listen link:
+  - value: https://www.youtube.com/watch?v=U37CfQ5nTu4
+    references:
+    - source: www.youtube.com-oembed-u37cfq5ntu4
+      quote: The Joy of Your Kisses
+      accessed: '2026-11-21'
+      locator: Official upload name
+  cover art:
+  - value: https://i.ytimg.com/vi/U37CfQ5nTu4/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-u37cfq5ntu4
+      quote: https://i.ytimg.com/vi/U37CfQ5nTu4/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Artist-selected YouTube thumbnail
+    qualifiers:
+      credit:
+        text: Shadi Fathi · YouTube
+        language: en

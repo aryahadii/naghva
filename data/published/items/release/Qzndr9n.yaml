@@ -1,0 +1,94 @@
+id: Qzndr9n
+type: release
+statements:
+  name:
+  - value:
+      text: Bisheh Habib
+      language: en
+    references:
+    - source: music.apple.com-us-album-bisheh-habib-1542772881
+      quote: Bisheh Habib
+      accessed: '2026-11-21'
+      locator: Track title
+  - value:
+      text: Bisheh Habib بیشه حبیب
+      language: en
+    references:
+    - source: babakrajabi.bandcamp.com-track-bisheh-habib
+      quote: Bisheh Habib بیشه حبیب
+      accessed: '2026-11-21'
+      locator: Artist release or track heading
+  - value:
+      text: Bishe Habib بیشه حبیب
+      language: en
+    references:
+    - source: soundcloud.com-babackrajabi-bishe-habib
+      quote: Bishe Habib بیشه حبیب
+      accessed: '2026-11-21'
+      locator: Title on artist’s SoundCloud upload
+  performer:
+  - value: Qzhgpkw
+    references:
+    - source: music.apple.com-us-album-bisheh-habib-1542772881
+      quote: Babak Rajabi
+      accessed: '2026-11-21'
+      locator: Artist billing
+    - source: babakrajabi.bandcamp.com-track-bisheh-habib
+      quote: Babak Rajabi Official
+      accessed: '2026-11-21'
+      locator: Artist billing
+  release date:
+  - value:
+      date: '2020-11-28'
+    references:
+    - source: music.apple.com-us-album-bisheh-habib-1542772881
+      quote: '2020-11-28'
+      accessed: '2026-11-21'
+      locator: Release metadata
+  - value:
+      date: '2020-11-30'
+    references:
+    - source: babakrajabi.bandcamp.com-track-bisheh-habib
+      quote: 30 Nov 2020 00:00:00 GMT
+      accessed: '2026-11-21'
+      locator: Bandcamp release metadata
+  listen link:
+  - value: https://music.apple.com/us/song/bisheh-habib/1542772882
+    references:
+    - source: music.apple.com-us-album-bisheh-habib-1542772881
+      quote: Bisheh Habib
+      accessed: '2026-11-21'
+      locator: Track title
+  - value: https://babakrajabi.bandcamp.com/track/bisheh-habib
+    references:
+    - source: babakrajabi.bandcamp.com-track-bisheh-habib
+      quote: Bisheh Habib بیشه حبیب
+      accessed: '2026-11-21'
+      locator: Artist release or track heading
+  - value: https://soundcloud.com/babackrajabi/bishe-habib
+    references:
+    - source: soundcloud.com-babackrajabi-bishe-habib
+      quote: Bishe Habib بیشه حبیب
+      accessed: '2026-11-21'
+      locator: Title on artist’s SoundCloud upload
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b9/bf/ea/b9bfeaf9-840b-9762-98fe-1cc5220e998a/artwork.jpg/632x632bb-60.jpg
+    references:
+    - source: music.apple.com-us-album-bisheh-habib-1542772881
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b9/bf/ea/b9bfeaf9-840b-9762-98fe-1cc5220e998a/artwork.jpg/632x632bb-60.jpg
+      accessed: '2026-11-21'
+      locator: Release image URL
+    qualifiers:
+      credit:
+        text: Apple Music · Bisheh Habib - Single
+        language: en
+  - value: https://f4.bcbits.com/img/a2003491980_10.jpg
+    references:
+    - source: babakrajabi.bandcamp.com-track-bisheh-habib
+      quote: https://f4.bcbits.com/img/a2003491980_10.jpg
+      accessed: '2026-11-21'
+      locator: Release image URL
+    qualifiers:
+      credit:
+        text: Babak Rajabi · Bandcamp
+        language: en

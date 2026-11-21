@@ -1,0 +1,61 @@
+id: Qewdr3p
+type: release
+statements:
+  name:
+  - value:
+      text: Suicide in B Minor
+      language: en
+    references:
+    - source: whispersincrimsonmetal.bandcamp.com-album-suicide-in-b-minor
+      quote: Suicide in B Minor
+      accessed: '2026-11-21'
+      locator: Original album title
+  release type:
+  - value: album
+    references:
+    - source: whispersincrimsonmetal.bandcamp.com-album-suicide-in-b-minor
+      quote: Suicide in B Minor
+      accessed: '2026-11-21'
+      locator: Original album title
+  performer:
+  - value: Qey58yg
+    references:
+    - source: whispersincrimsonmetal.bandcamp.com-album-suicide-in-b-minor
+      quote: Whispers in Crimson
+      accessed: '2026-11-21'
+      locator: Original band album
+  - value: Qa6r74t
+    qualifiers:
+      role:
+      - bass
+    references:
+    - source: whispersincrimsonmetal.bandcamp.com-album-suicide-in-b-minor
+      quote: Kasra Saboktakin Bass on 3
+      accessed: '2026-11-21'
+      locator: Original member track assignments
+  listen link:
+  - value: https://whispersincrimsonmetal.bandcamp.com/album/suicide-in-b-minor
+    references:
+    - source: whispersincrimsonmetal.bandcamp.com-album-suicide-in-b-minor
+      quote: Suicide in B Minor
+      accessed: '2026-11-21'
+      locator: Original album title
+  cover art:
+  - value: https://f4.bcbits.com/img/a2269055160_5.jpg
+    qualifiers:
+      credit:
+        text: Whispers in Crimson on Bandcamp
+        language: en
+    references:
+    - source: whispersincrimsonmetal.bandcamp.com-album-suicide-in-b-minor
+      quote: https://f4.bcbits.com/img/a2269055160_5.jpg
+      accessed: '2026-11-21'
+      locator: Artwork issued by the band
+  release date:
+  - value:
+      date: '2014-06-26'
+    references:
+    - source: whispersincrimsonmetal.bandcamp.com-album-suicide-in-b-minor
+      quote: 26 Jun 2014 00:00:00 GMT
+      accessed: '2026-11-21'
+      locator: Original issue date

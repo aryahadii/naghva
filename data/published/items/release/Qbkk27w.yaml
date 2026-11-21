@@ -1,0 +1,48 @@
+id: Qbkk27w
+type: release
+statements:
+  name:
+  - value:
+      text: The Seed That Dreamed Of Its Own Creation
+      language: en
+    references:
+    - source: open.spotify.com-album-5xgngvekhipb8bh7zoxamn
+      quote: The Seed That Dreamed Of Its Own Creation
+      accessed: 2026-11-21
+      locator: Release title
+  performer:
+  - value: Qr7sft5
+    references:
+    - source: open.spotify.com-album-5xgngvekhipb8bh7zoxamn
+      quote: Lowen
+      accessed: 2026-11-21
+      locator: Artist
+  release date:
+  - value:
+      date: '2024-07-05'
+    references:
+    - source: open.spotify.com-album-5xgngvekhipb8bh7zoxamn
+      quote: '2024-07-05'
+      accessed: 2026-11-21
+      locator: Release date metadata
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d0000b2736749cccb91363c5b9ca74c7b
+    references:
+    - source: open.spotify.com-album-5xgngvekhipb8bh7zoxamn
+      quote: https://i.scdn.co/image/ab67616d0000b2736749cccb91363c5b9ca74c7b
+      accessed: 2026-11-21
+      locator: Release image
+  release type:
+  - value: single
+    references:
+    - source: open.spotify.com-album-5xgngvekhipb8bh7zoxamn
+      quote: Single
+      accessed: 2026-11-21
+      locator: Spotify edition type
+  listen link:
+  - value: https://open.spotify.com/album/5xGngVEkhiPb8bh7zOxaMN
+    references:
+    - source: open.spotify.com-album-5xgngvekhipb8bh7zoxamn
+      quote: The Seed That Dreamed Of Its Own Creation
+      accessed: 2026-11-21
+      locator: Release title

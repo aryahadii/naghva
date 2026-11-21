@@ -1,0 +1,39 @@
+id: Qzsxhaw
+type: release
+statements:
+  name:
+  - value:
+      text: A Persian Perfect Circle
+      language: en
+    references:
+    - source: www.youtube.com-watch-v-b0unxrh6c1k
+      quote: A Persian Perfect Circle , Pouya Pour-Amin
+      accessed: '2026-11-21'
+      locator: Page title
+  contributor:
+  - value: Qr62rq7
+    references:
+    - source: iranian.com-main-music-pouya-pour-amin.html
+      quote: Composed by Pouya Pour-Amin, Camerata Tehran Orchestra, conducted by Kayvan Mirhadi
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: composer
+  listen link:
+  - value: https://www.youtube.com/watch?v=B0UnXRH6c1k
+    references:
+    - source: www.youtube.com-watch-v-b0unxrh6c1k
+      quote: A Persian Perfect Circle , Pouya Pour-Amin
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i.ytimg.com/vi/B0UnXRH6c1k/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-b0unxrh6c1k
+      quote: https://i.ytimg.com/vi/B0UnXRH6c1k/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: Pouya Pour-Amin
+        language: en

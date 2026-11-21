@@ -1,0 +1,68 @@
+id: Qmh4ety
+type: release
+statements:
+  name:
+  - value:
+      text: Playmates
+      language: en
+    references:
+    - source: soundcloud.com-sahba-motallebi-playmates
+      quote: Playmates
+      locator: Original programme, artist or edition credits
+      accessed: '2026-11-21'
+  performer:
+  - value: Qyw49hh
+    references:
+    - source: soundcloud.com-sahba-motallebi-playmates
+      quote: Sahba Motallebi
+      locator: Original programme, artist or edition credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: tar
+  - value: Qtn9d3t
+    references:
+    - source: soundcloud.com-sahba-motallebi-playmates
+      quote: Pejman Hadadi
+      locator: Original programme, artist or edition credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: percussion
+  - value: Qgew7eb
+    references:
+    - source: soundcloud.com-sahba-motallebi-playmates
+      quote: Mehdi Bagheri
+      locator: Original programme, artist or edition credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: kamancheh
+  release date:
+  - value:
+      date: '2021-07-20'
+    references:
+    - source: soundcloud.com-sahba-motallebi-playmates
+      quote: '2021-07-20'
+      locator: Original programme, artist or edition credits
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://soundcloud.com/sahba-motallebi/playmates
+    references:
+    - source: soundcloud.com-sahba-motallebi-playmates
+      quote: Playmates
+      locator: Original programme, artist or edition credits
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-UFbRZJ8L44IeECma-bh1ntw-large.jpg
+    references:
+    - source: soundcloud.com-sahba-motallebi-playmates
+      quote: https://i1.sndcdn.com/artworks-UFbRZJ8L44IeECma-bh1ntw-large.jpg
+      locator: Original programme, artist or edition credits
+      accessed: '2026-11-21'
+  contributor:
+  - value: Qyw49hh
+    references:
+    - source: soundcloud.com-sahba-motallebi-playmates
+      quote: 'Compose: Sahba Motallebi'
+      locator: Original programme, artist or edition credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: composer

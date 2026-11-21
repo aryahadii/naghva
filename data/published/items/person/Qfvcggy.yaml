@@ -1,0 +1,53 @@
+id: Qfvcggy
+type: person
+statements:
+  name:
+  - value:
+      text: Haale
+      language: en
+    references:
+    - source: themast.bandcamp.com-album-wild-poppies
+      quote: Haale - vocals and electric guitar
+      accessed: 2026-11-21
+      locator: Group personnel
+  - value:
+      text: Haleh Liza Gafori
+      language: en
+    references:
+    - source: www.halehliza.com-about
+      quote: Haleh Liza Gafori
+      accessed: 2026-11-21
+      locator: Opening biography
+  - value:
+      text: هاله غفوری
+      language: fa
+    references:
+    - source: www.radiofarda.com-a-274183.html
+      quote: هاله غفوری
+      accessed: 2026-11-21
+      locator: عنوان و معرفی خواننده
+  member of:
+  - value: Qfwn5xw
+    references:
+    - source: themast.bandcamp.com-album-wild-poppies
+      quote: Haale - vocals and electric guitar
+      accessed: 2026-11-21
+      locator: Group personnel
+  image:
+  - value: https://images.squarespace-cdn.com/content/v1/586e8f9303596eec32dc4710/da7b4850-3df8-426d-ac0b-1c390b86a3f0/HalehLizaGafori-PortraitByIsabelaSabino.jpg
+    qualifiers:
+      credit:
+        text: Isabela Sabino
+        language: en
+    references:
+    - source: www.halehliza.com-about
+      quote: https://images.squarespace-cdn.com/content/v1/586e8f9303596eec32dc4710/da7b4850-3df8-426d-ac0b-1c390b86a3f0/HalehLizaGafori-PortraitByIsabelaSabino.jpg
+      accessed: 2026-11-21
+      locator: Portrait file, named photographer in filename
+  profile link:
+  - value: https://music.apple.com/us/artist/haale/213597728
+    references:
+    - source: music.apple.com-us-artist-haale-213597728
+      quote: Haale
+      accessed: 2026-11-21
+      locator: Artist heading

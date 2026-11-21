@@ -1,0 +1,57 @@
+id: Qk8drfk
+type: release
+statements:
+  name:
+  - value:
+      text: Self
+      language: en
+    references:
+    - source: avarasti.bandcamp.com-track-self
+      quote: Self | Ava Rasti & Mona Matbou Riahi | Ava Rasti
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qks2dfk
+    references:
+    - source: avarasti.bandcamp.com-track-self
+      quote: Self | Ava Rasti & Mona Matbou Riahi | Ava Rasti
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qyy9hf9
+    references:
+    - source: avarasti.bandcamp.com-track-self
+      quote: Mona Matbou Riahi
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://avarasti.bandcamp.com/track/self
+    references:
+    - source: avarasti.bandcamp.com-track-self
+      quote: Self | Ava Rasti & Mona Matbou Riahi | Ava Rasti
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/avaarasti/self
+    references:
+    - source: soundcloud.com-avaarasti-self
+      quote: Stream Self by Ava Rasti | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a3177290983_10.jpg
+    references:
+    - source: avarasti.bandcamp.com-track-self
+      quote: https://f4.bcbits.com/img/a3177290983_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original recording publisher
+        language: en
+  release date:
+  - value:
+      date: '2020-12-08'
+    references:
+    - source: avarasti.bandcamp.com-track-self
+      quote: released December 8, 2020
+      accessed: '2026-11-21'
+      locator: Published date

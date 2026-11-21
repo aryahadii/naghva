@@ -1,0 +1,49 @@
+id: Qnmsd4t
+type: release
+statements:
+  name:
+  - value:
+      text: The Rush (Official Video)
+      language: en
+    references:
+    - source: youtube.com-watch-nvd6tyga4xq
+      quote: Langtunes   The Rush (Official Video)
+      accessed: '2026-11-21'
+      locator: Video title
+  performer:
+  - value: Qg4z85j
+    references:
+    - source: youtube.com-watch-nvd6tyga4xq
+      quote: Langtunes   The Rush (Official Video)
+      accessed: '2026-11-21'
+      locator: Video title
+    - source: youtube.com-watch-nvd6tyga4xq
+      quote: TheLangtunes
+      accessed: '2026-11-21'
+      locator: Channel name
+  listen link:
+  - value: https://www.youtube.com/watch?v=NvD6tyga4XQ
+    references:
+    - source: youtube.com-watch-nvd6tyga4xq
+      quote: Langtunes   The Rush (Official Video)
+      accessed: '2026-11-21'
+      locator: Video title
+  release date:
+  - value:
+      date: '2015-09-03'
+    references:
+    - source: youtube.com-watch-nvd6tyga4xq
+      quote: '2015-09-03T13:18:43-07:00'
+      accessed: '2026-11-21'
+      locator: Upload date
+  cover art:
+  - value: https://i.ytimg.com/vi/NvD6tyga4XQ/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGAgYChgMA8=&rs=AOn4CLBg7Xyl6uUiQ5AbSAtEPikeRAISUw
+    qualifiers:
+      credit:
+        text: Langtunes, video thumbnail on YouTube
+        language: en
+    references:
+    - source: youtube.com-watch-nvd6tyga4xq
+      quote: https://i.ytimg.com/vi/NvD6tyga4XQ/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGAgYChgMA8=&rs=AOn4CLBg7Xyl6uUiQ5AbSAtEPikeRAISUw
+      locator: Thumbnail published with this video in the artist channel’s page metadata
+      accessed: '2026-11-21'

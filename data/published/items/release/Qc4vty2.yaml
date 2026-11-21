@@ -1,0 +1,32 @@
+id: Qc4vty2
+type: release
+statements:
+  name:
+  - value:
+      text: Afro-Iranian jazz. موسیقی ایرانی افریقایی سعید شنبه زاده ساکسفون Saeid Shanbehzadeh Sax
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-jcniivxpk9c
+      quote: Afro-Iranian jazz. موسیقی ایرانی افریقایی سعید شنبه زاده ساکسفون Saeid Shanbehzadeh Sax
+      accessed: '2026-11-21'
+      locator: Artist-published performance film
+  performer:
+  - value: Qyd93n9
+    references:
+    - *id001
+  listen link:
+  - value: https://www.youtube.com/watch?v=jCNiIVXPK9c
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/jCNiIVXPK9c/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-jcniivxpk9c
+      quote: https://i.ytimg.com/vi/jCNiIVXPK9c/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original film frame
+    qualifiers:
+      credit:
+        text: saeid shanbehzadeh
+        language: en

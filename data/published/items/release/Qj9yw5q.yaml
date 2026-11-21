@@ -1,0 +1,168 @@
+id: Qj9yw5q
+type: release
+statements:
+  name:
+  - value:
+      text: باراد
+      language: fa
+    references:
+    - source: beeptunes.com-album-3409505
+      quote: گروه باراد
+      accessed: '2026-11-21'
+      locator: Official domestic distributor artist billing
+  - value:
+      text: Barad
+      language: en
+    references:
+    - source: music.apple.com-us-album-barad-1749089800
+      quote: Barad
+      accessed: '2026-11-21'
+      locator: Album and artist billing
+  performer:
+  - value: Qs2nwh3
+    references:
+    - source: music.apple.com-us-album-barad-1749089800
+      quote: Barad
+      accessed: '2026-11-21'
+      locator: Album and artist billing
+  - value: Qjwhj2t
+    qualifiers:
+      role:
+      - vocals
+      - guitar
+    references:
+    - source: hermes-barad-personnel-booklet
+      quote: Pouya Mahmoodi
+      accessed: '2026-11-21'
+      locator: List of musicians in the original Hermes booklet
+    - source: hermes-barad-personnel-booklet
+      quote: Vocals, Classical Guitar,
+      accessed: '2026-11-21'
+      locator: List of musicians in the original Hermes booklet
+  - value: Qa6r74t
+    qualifiers:
+      role:
+      - bass
+      - guitar
+      - vocals
+    references:
+    - source: hermes-barad-personnel-booklet
+      quote: Kasra Saboktakin
+      accessed: '2026-11-21'
+      locator: List of musicians in the original Hermes booklet
+    - source: hermes-barad-personnel-booklet
+      quote: Bass Guitar, Acoustic Guitar,
+      accessed: '2026-11-21'
+      locator: List of musicians in the original Hermes booklet
+  - value: Qwy682e
+    qualifiers:
+      role: guitar
+    references:
+    - source: hermes-barad-personnel-booklet
+      quote: Aydin Naeeni
+      accessed: '2026-11-21'
+      locator: List of musicians in the original Hermes booklet
+    - source: hermes-barad-personnel-booklet
+      quote: Acoustic Guitar, Electric Guitar
+      accessed: '2026-11-21'
+      locator: List of musicians in the original Hermes booklet
+  - value: Q9qz3fm
+    qualifiers:
+      role: drums
+    references:
+    - source: hermes-barad-personnel-booklet
+      quote: Arash Pajand Moghadam
+      accessed: '2026-11-21'
+      locator: List of musicians in the original Hermes booklet
+    - source: hermes-barad-personnel-booklet
+      quote: Drums
+      accessed: '2026-11-21'
+      locator: List of musicians in the original Hermes booklet
+  - value: Q2hsgfw
+    qualifiers:
+      role: vocals
+    references:
+    - source: hermes-barad-personnel-booklet
+      quote: Christophe Rezai
+      accessed: '2026-11-21'
+      locator: List of musicians in the original Hermes booklet
+    - source: hermes-barad-personnel-booklet
+      quote: Backing Vocals
+      accessed: '2026-11-21'
+      locator: List of musicians in the original Hermes booklet
+  - value: Q2smqnv
+    qualifiers:
+      role: vocals
+    references:
+    - source: hermes-barad-personnel-booklet
+      quote: Reza Asgarzadeh
+      accessed: '2026-11-21'
+      locator: List of musicians in the original Hermes booklet
+    - source: hermes-barad-personnel-booklet
+      quote: Backing Vocals
+      accessed: '2026-11-21'
+      locator: List of musicians in the original Hermes booklet
+  - value: Qvn9apm
+    qualifiers:
+      role: percussion
+    references:
+    - source: hermes-barad-personnel-booklet
+      quote: Ali Rahimi
+      accessed: '2026-11-21'
+      locator: List of musicians in the original Hermes booklet
+    - source: hermes-barad-personnel-booklet
+      quote: Percussion
+      accessed: '2026-11-21'
+      locator: List of musicians in the original Hermes booklet
+  release date:
+  - value:
+      date: '2003'
+    references:
+    - source: hermes-barad-personnel-booklet
+      quote: Digitally recorded in Summer 2003, Tehran
+      accessed: '2026-11-21'
+      locator: Original recording credit
+    - source: music.apple.com-us-album-barad-1749089800
+      quote: '2003-01-01'
+      accessed: '2026-11-21'
+      locator: Apple assigns January 1 to issue year, original sleeve dates recording to summer
+  release type:
+  - value: album
+    references:
+    - source: music.apple.com-us-album-barad-1749089800
+      quote: Barad
+      accessed: '2026-11-21'
+      locator: Album and artist billing
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/54/da/92/54da92f0-5f3c-f861-c822-2b97e6636d60/198391761713.jpg/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Hermes Records via Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-barad-1749089800
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/54/da/92/54da92f0-5f3c-f861-c822-2b97e6636d60/198391761713.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Original album cover in label feed
+  listen link:
+  - value: https://music.apple.com/us/album/barad/1749089800
+    references:
+    - source: music.apple.com-us-album-barad-1749089800
+      quote: Barad
+      accessed: '2026-11-21'
+      locator: Album and artist billing
+  - value: https://open.spotify.com/album/5QoQYkGY9OT7IhVFZ73EMw
+    references:
+    - source: open.spotify.com-embed-album-5qoqykgy9ot7ihvfz73emw
+      quote: Barad
+      accessed: '2026-11-21'
+      locator: Official album selected by bassist
+  contributor:
+  - value: Qsdeh9x
+    qualifiers:
+      role: producer
+    references:
+    - source: hermes-barad-personnel-booklet
+      quote: 'Producer: Ramin Sadighi'
+      accessed: '2026-11-21'
+      locator: Original production credit

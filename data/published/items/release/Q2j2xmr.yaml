@@ -1,0 +1,51 @@
+id: Q2j2xmr
+type: release
+statements:
+  name:
+  - value:
+      text: Headless
+      language: en
+    references:
+    - source: flamingpines.bandcamp.com-track-headless-idlefon-with-kamyar-behbahani
+      quote: Headless - Idlefon (with Kamyar Behbahani) | Compilation of Iranian experimental music | Flaming Pines
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qjjdrek
+    references:
+    - source: flamingpines.bandcamp.com-track-headless-idlefon-with-kamyar-behbahani
+      quote: Idlefon (with Kamyar Behbahani)
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Qbwed6w
+    references:
+    - source: flamingpines.bandcamp.com-track-headless-idlefon-with-kamyar-behbahani
+      quote: Kamyar Behbahani
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://flamingpines.bandcamp.com/track/headless-idlefon-with-kamyar-behbahani
+    references:
+    - source: flamingpines.bandcamp.com-track-headless-idlefon-with-kamyar-behbahani
+      quote: Headless - Idlefon (with Kamyar Behbahani) | Compilation of Iranian experimental music | Flaming Pines
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a3621154516_10.jpg
+    references:
+    - source: flamingpines.bandcamp.com-track-headless-idlefon-with-kamyar-behbahani
+      quote: https://f4.bcbits.com/img/a3621154516_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original publisher artwork
+        language: en
+  release date:
+  - value:
+      date: '2016-02-08'
+    references:
+    - source: flamingpines.bandcamp.com-track-headless-idlefon-with-kamyar-behbahani
+      quote: released February 8, 2016
+      accessed: '2026-11-21'
+      locator: Published date

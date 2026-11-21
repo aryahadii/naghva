@@ -1,0 +1,51 @@
+id: Q2zjqsd
+type: release
+statements:
+  name:
+  - value:
+      text: Urn
+      language: en
+    references:
+    - source: apranikrecords.bandcamp.com-track-xeen-urn
+      quote: XEEN - Urn | Apranik Records
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qb5hnjh
+    references:
+    - source: apranikrecords.bandcamp.com-track-xeen-urn
+      quote: XEEN - Urn | Apranik Records
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://apranikrecords.bandcamp.com/track/xeen-urn
+    references:
+    - source: apranikrecords.bandcamp.com-track-xeen-urn
+      quote: XEEN - Urn | Apranik Records
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/7siAjUcMVNigV4atd4WjwE
+    references:
+    - source: open.spotify.com-track-7siajucmvnigv4atd4wjwe
+      quote: Urn - song and lyrics by Xeen | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a4098125969_10.jpg
+    references:
+    - source: apranikrecords.bandcamp.com-track-xeen-urn
+      quote: https://f4.bcbits.com/img/a4098125969_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Publisher artwork
+        language: en
+  release date:
+  - value:
+      date: '2023-01-20'
+    references:
+    - source: apranikrecords.bandcamp.com-track-xeen-urn
+      quote: released January 20, 2023
+      accessed: '2026-11-21'
+      locator: Published date

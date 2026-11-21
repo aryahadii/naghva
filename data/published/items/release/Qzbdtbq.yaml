@@ -1,0 +1,49 @@
+id: Qzbdtbq
+type: release
+statements:
+  name:
+  - value:
+      text: Bishe Habib بیشه حبیب
+      language: fa
+    references:
+    - source: www.youtube.com-watchv-grmn4gtvylo
+      quote: Bishe Habib بیشه حبیب
+      accessed: '2026-11-21'
+      locator: Official upload title
+  performer:
+  - value: Qzhgpkw
+    references:
+    - source: www.youtube.com-watchv-grmn4gtvylo
+      quote: Bishe Habib بیشه حبیب
+      accessed: '2026-11-21'
+      locator: Official upload title
+    - source: www.youtube.com-watchv-grmn4gtvylo
+      quote: Babak Rajabi
+      accessed: '2026-11-21'
+      locator: Uploading artist
+  listen link:
+  - value: https://www.youtube.com/watch?v=grMN4gtVYLo
+    references:
+    - source: www.youtube.com-watchv-grmn4gtvylo
+      quote: Bishe Habib بیشه حبیب
+      accessed: '2026-11-21'
+      locator: Official upload title
+  release date:
+  - value:
+      date: '2021-01-27'
+    references:
+    - source: www.youtube.com-watchv-grmn4gtvylo
+      quote: '20210127'
+      accessed: '2026-11-21'
+      locator: Video publication date, YYYYMMDD
+  cover art:
+  - value: https://i.ytimg.com/vi/grMN4gtVYLo/maxresdefault.jpg
+    references:
+    - source: www.youtube.com-watchv-grmn4gtvylo
+      quote: https://i.ytimg.com/vi/grMN4gtVYLo/maxresdefault.jpg
+      accessed: '2026-11-21'
+      locator: Release image URL
+    qualifiers:
+      credit:
+        text: Babak Rajabi · YouTube
+        language: en

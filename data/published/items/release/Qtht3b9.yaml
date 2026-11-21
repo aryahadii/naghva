@@ -1,0 +1,66 @@
+id: Qtht3b9
+type: release
+statements:
+  name:
+  - value:
+      text: Rasm-e Sheydayi
+      language: en
+    references:
+    - source: open.spotify.com-album-149t4rta05r4xxornvxzsj
+      quote: Rasm-e Sheydayi
+      accessed: '2026-11-21'
+      locator: Spotify edition title
+  release type:
+  - value: album
+    references:
+    - source: open.spotify.com-album-149t4rta05r4xxornvxzsj
+      quote: Rasm-e Sheydayi
+      accessed: '2026-11-21'
+      locator: Spotify edition title
+  listen link:
+  - value: https://music.apple.com/us/album/sheydayi-feat-pedram-khavarzamini/1853913337
+    references:
+    - source: music.apple.com-us-album-sheydayi-feat-pedram-khavarzamini-1853913337
+      quote: ‎Rasm-e Sheydayi - Album by Ali-Akbar Faza'eli - Apple Music
+      accessed: '2026-11-21'
+      locator: Edition title
+  - value: https://open.spotify.com/album/149T4RtA05r4xXORnVXzSj
+    references:
+    - source: open.spotify.com-album-149t4rta05r4xxornvxzsj
+      quote: Rasm-e Sheydayi
+      accessed: '2026-11-21'
+      locator: Spotify edition title
+  performer:
+  - value: Q5rnjaz
+    qualifiers:
+      role: tombak
+    references:
+    - source: music.apple.com-us-album-sheydayi-feat-pedram-khavarzamini-1853913337
+      quote: Pedram Khavarzamini
+      accessed: '2026-11-21'
+      locator: Artist or track-specific guest billing
+  - value: Qnsghj2
+    references:
+    - source: music.apple.com-us-album-sheydayi-feat-pedram-khavarzamini-1853913337
+      quote: Ali-Akbar Faza'eli
+      accessed: '2026-11-21'
+      locator: Album headline billing
+  release date:
+  - value:
+      date: '2025-05-15'
+    references:
+    - source: music.apple.com-us-album-sheydayi-feat-pedram-khavarzamini-1853913337
+      quote: '2025-05-15'
+      accessed: '2026-11-21'
+      locator: Apple Music edition issue date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5a/52/15/5a521506-91e6-29ad-779d-04ca97eae7d4/199900026415.jpg/1200x630bb.jpg
+    qualifiers:
+      credit:
+        text: Apple Music edition artwork
+        language: en
+    references:
+    - source: music.apple.com-us-album-sheydayi-feat-pedram-khavarzamini-1853913337
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5a/52/15/5a521506-91e6-29ad-779d-04ca97eae7d4/199900026415.jpg/1200x630bb.jpg
+      accessed: '2026-11-21'
+      locator: Apple Music edition artwork

@@ -1,0 +1,7 @@
+# Artamene
+
+The group’s press announcement describes a licence to Wormholedeath. Apple names the band as recording copyright owner. The 2022 studio album and eight tracks were reconciled against Apple Music and Spotify, alongside the separate Mayhem single. The musicians also describe a Bandcamp preorder on their own website. Their linked official Bandcamp address did not return a playable catalogue when checked. A different Iranian account named Artamene lists an orchestral/film-scoring track, Supernova, without a demonstrated connection to the band.
+
+The twenty uploads under the musicians’ YouTube channel include original films, covers, a separate Persian Rockstar performance, interviews and trailers. The rehearsal footage for Shining Black is a different recording from the finished album. The Spotify group photograph was visually checked. In their interview the brothers date their start to 2016. Their formal biography identifies 2017 as the year of registration. The older Persian concert programme and later record announcement document a change of bassist.
+
+[Band biography](https://artamene-official.com/biography/) · [Concert dates](https://artamene-official.com/all-events/) · [Release and lineup](https://artamene-official.com/2021/11/23/artamene-iran-sign-with-wormholedeath-announce-ziggurat/) · [Album edition](https://music.apple.com/us/album/ziggurat/1590193684) · [Artist channel](https://www.youtube.com/channel/UCJeNNtMjpZrCmUzBPu6A87w/videos)

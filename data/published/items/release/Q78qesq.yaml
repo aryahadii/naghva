@@ -1,0 +1,70 @@
+id: Q78qesq
+type: release
+statements:
+  name:
+  - value:
+      text: Return to Shiraz
+      language: en
+    references:
+    - source: eishanensemble.bandcamp.com-track-return-to-shiraz
+      quote: Return to Shiraz
+      accessed: '2026-11-21'
+      locator: Track heading
+  performer:
+  - value: Qhebfsp
+    references:
+    - source: eishanensemble.bandcamp.com-track-return-to-shiraz
+      quote: Return to Shiraz | Eishan Ensemble
+      accessed: '2026-11-21'
+      locator: Track and performer
+  release date:
+  - value:
+      date: '2025-05-09'
+    references:
+    - source: eishanensemble.bandcamp.com-album-northern-rhapsody
+      quote: released May 9, 2025
+      accessed: '2026-11-21'
+      locator: Release date
+  cover art:
+  - value: https://f4.bcbits.com/img/a3474275919_10.jpg
+    qualifiers:
+      credit:
+        text: PHOTOS & DESIGN by Laura Pleifer
+        language: en
+    references:
+    - source: eishanensemble.bandcamp.com-album-northern-rhapsody
+      quote: https://f4.bcbits.com/img/a3474275919_10.jpg
+      accessed: '2026-11-21'
+      locator: Album cover
+    - source: eishanensemble.bandcamp.com-album-northern-rhapsody
+      quote: PHOTOS & DESIGN by Laura Pleifer
+      accessed: '2026-11-21'
+      locator: Cover credit
+  listen link:
+  - value: https://eishanensemble.bandcamp.com/track/return-to-shiraz
+    references:
+    - source: eishanensemble.bandcamp.com-track-return-to-shiraz
+      quote: Return to Shiraz | Eishan Ensemble
+      accessed: '2026-11-21'
+      locator: Track and performer
+  - value: https://open.spotify.com/track/54332eAx9dTlzUPiiFhIuz
+    references:
+    - source: open.spotify.com-album-4pzfvv5eoxjgiu1t05pfwf
+      quote: Return to Shiraz
+      accessed: '2026-11-21'
+      locator: Spotify album track 7
+  - value: https://music.apple.com/us/album/return-to-shiraz/1808721230?i=1808721675
+    references:
+    - source: music.apple.com-us-album-northern-rhapsody-1808721230
+      quote: Return to Shiraz
+      accessed: '2026-11-21'
+      locator: Apple Music track 7
+  contributor:
+  - value: Qmgbz4h
+    qualifiers:
+      role: composer
+    references:
+    - source: eishanensemble.bandcamp.com-album-northern-rhapsody
+      quote: COMPOSER Hamed Sadeghi
+      accessed: '2026-11-21'
+      locator: Composer credit

@@ -1,0 +1,74 @@
+id: Qthty2v
+type: release
+statements:
+  name:
+  - value:
+      text: Lalaee (Lullaby)
+      language: en
+    references:
+    - source: esfand.bandcamp.com-track-lalaee-lullaby
+      quote: Lalaee (Lullaby) | Esfand
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qt394nr
+    references:
+    - source: esfand.bandcamp.com-album-piltan
+      quote: Piltan | Esfand
+      accessed: '2026-11-21'
+      locator: Page title
+  contributor:
+  - value: Qzchcs8
+    references:
+    - source: esfand.bandcamp.com-album-piltan
+      quote: All tracks composed, produced and mixed by Esfand
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: producer
+  - value: Qs7pdbm
+    references:
+    - source: esfand.bandcamp.com-album-piltan
+      quote: All tracks composed, produced and mixed by Esfand
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: producer
+  listen link:
+  - value: https://esfand.bandcamp.com/track/lalaee-lullaby
+    references:
+    - source: esfand.bandcamp.com-track-lalaee-lullaby
+      quote: Lalaee (Lullaby) | Esfand
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1742161243
+    references:
+    - source: music.apple.com-us-song-1742161243
+      quote: ‎Lalaee - Song with Lyrics by Esfand - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/2zNlpfJGrcARJUMssrcNTk
+    references:
+    - source: open.spotify.com-track-2znlpfjgrcarjumssrcntk
+      quote: Lalaee (Lullaby) - song and lyrics by Esfand | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a4217892434_10.jpg
+    references:
+    - source: esfand.bandcamp.com-album-piltan
+      quote: https://f4.bcbits.com/img/a4217892434_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original label artwork
+        language: en
+  release date:
+  - value:
+      date: '2024-06-14'
+    references:
+    - source: esfand.bandcamp.com-album-piltan
+      quote: released June 14, 2024
+      accessed: '2026-11-21'
+      locator: Published date

@@ -1,0 +1,84 @@
+id: Qmvvp6c
+type: release
+statements:
+  name:
+  - value:
+      text: Live at BBC Persian (Part 1)
+      language: en
+    references:
+    - source: youtu.be-6d40olttcbo
+      quote: Justina - Live at BBC Persian | 1st Part ملاقات با جاستینا در تفلیس - بلور بنفش | بخش اول
+      accessed: 2026-11-21
+      locator: Artist channel video title
+  - value:
+      text: بلور بنفش
+      language: fa
+    references:
+    - source: youtu.be-6d40olttcbo
+      quote: Justina - Live at BBC Persian | 1st Part ملاقات با جاستینا در تفلیس - بلور بنفش | بخش اول
+      accessed: 2026-11-21
+      locator: Artist channel video title
+  performer:
+  - value: Q2fdqjp
+    references:
+    - source: youtu.be-6d40olttcbo
+      quote: Justina - Live at BBC Persian | 1st Part ملاقات با جاستینا در تفلیس - بلور بنفش | بخش اول
+      accessed: 2026-11-21
+      locator: Artist channel video title
+  listen link:
+  - value: https://youtu.be/6d40olttCBo
+    references:
+    - source: youtu.be-6d40olttcbo
+      quote: Justina - Live at BBC Persian | 1st Part ملاقات با جاستینا در تفلیس - بلور بنفش | بخش اول
+      accessed: 2026-11-21
+      locator: Artist channel video title
+  - value: https://youtu.be/r4IgxIzZmL8
+    references:
+    - source: youtu.be-r4igxizzml8
+      quote: 'میکس و تنظیم الکترونیک : جامین'
+      accessed: 2026-11-21
+      locator: Original BBC credits
+  cover art:
+  - value: https://i.ytimg.com/vi/6d40olttCBo/hqdefault.jpg
+    references:
+    - source: youtu.be-6d40olttcbo
+      quote: Justina - Live at BBC Persian | 1st Part ملاقات با جاستینا در تفلیس - بلور بنفش | بخش اول
+      accessed: 2026-11-21
+      locator: Artist channel video title
+  contributor:
+  - value: Qevmv7f
+    qualifiers:
+      role:
+      - mixing engineer
+      - arranger
+    references:
+    - source: youtu.be-r4igxizzml8
+      quote: 'میکس و تنظیم الکترونیک : جامین'
+      accessed: 2026-11-21
+      locator: Original BBC credits
+  - value: Qevmv7f
+    qualifiers:
+      role:
+      - composer
+    references:
+    - source: youtu.be-r4igxizzml8
+      quote: 'شعر و آهنگ : جاستینا ، جامین'
+      accessed: 2026-11-21
+      locator: شعر و آهنگ
+  - value: Q2fdqjp
+    qualifiers:
+      role:
+      - composer
+    references:
+    - source: youtu.be-r4igxizzml8
+      quote: 'شعر و آهنگ : جاستینا ، جامین'
+      accessed: 2026-11-21
+      locator: شعر و آهنگ
+  release date:
+  - value:
+      date: '2019-10-04'
+    references:
+    - source: youtu.be-r4igxizzml8
+      quote: '20191004'
+      accessed: 2026-11-21
+      locator: Publication date

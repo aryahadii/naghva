@@ -1,0 +1,32 @@
+id: Qxqazk8
+type: release
+statements:
+  name:
+  - value:
+      text: Un Perro Andaluz | سگ اندلسی
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-of28x6q0giy
+      quote: Un Perro Andaluz | سگ اندلسی
+      accessed: '2026-11-21'
+      locator: Music credited by musician or performance publisher
+  performer:
+  - value: Qqb9bnx
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/of28X6Q0gIY/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-of28x6q0giy
+      quote: https://i.ytimg.com/vi/of28X6Q0gIY/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video frame
+    qualifiers:
+      credit:
+        text: Mehdi Moshtagh
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=of28X6Q0gIY
+    references:
+    - *id001

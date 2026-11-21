@@ -1,0 +1,30 @@
+id: Qjmnmtk
+type: release
+statements:
+  name:
+  - value:
+      text: Folksongs of Azarbaijan
+      language: en
+    references:
+    - &id002
+      source: www.glasgowwestend.co.uk-folksongs-of-azarbaijan-farzane-zamen-album-launch
+      quote: Folksongs of Azarbaijan – Farzane Zamen album launch
+      accessed: '2026-11-21'
+      locator: Event heading
+  performer:
+  - value: Q38h8s7
+    references:
+    - &id001
+      source: migrantwomenpress.com-2023-04-28-i-feel-like-i-exist-more-here-in-conversation-with-the-singer-farzane-zamen
+      quote: Farzane Zamen album’s launch at Glasgow Women’s Library, April 2023
+      accessed: '2026-11-21'
+      locator: Album launch photograph and final answer
+  release date:
+  - value:
+      date: '2023'
+    references:
+    - *id001
+  release type:
+  - value: album
+    references:
+    - *id002

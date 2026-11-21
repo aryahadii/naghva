@@ -1,0 +1,41 @@
+id: Qfbjd4b
+type: release
+statements:
+  name:
+  - value:
+      text: L'immobile voyage - Trio (I)
+      language: fr
+    references:
+    - source: www.shadi-fathi.com-galerie-videos
+      quote: L'immobile voyage - Trio (I)
+      accessed: '2026-11-21'
+      locator: Artist video gallery title
+  performer:
+  - value: Qfxqgvv
+    references:
+    - source: www.shadi-fathi.com-galerie-videos
+      quote: L'immobile voyage - Trio (I)
+      accessed: '2026-11-21'
+      locator: Artist video gallery title
+    - source: www.odoensemble.com-en-shadi-fathi
+      quote: Shadi Fathi
+      accessed: '2026-11-21'
+      locator: Artist heading
+  listen link:
+  - value: https://www.youtube.com/watch?v=LEFFZKDouMU
+    references:
+    - source: www.shadi-fathi.com-galerie-videos
+      quote: LEFFZKDouMU
+      accessed: '2026-11-21'
+      locator: Artist embeds this specific YouTube video
+  cover art:
+  - value: https://i.ytimg.com/vi/LEFFZKDouMU/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-leffzkdoumu
+      quote: https://i.ytimg.com/vi/LEFFZKDouMU/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Official thumbnail returned by YouTube for this video
+    qualifiers:
+      credit:
+        text: zoomalluresud · YouTube
+        language: en

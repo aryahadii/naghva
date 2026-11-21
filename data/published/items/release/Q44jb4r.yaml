@@ -1,0 +1,59 @@
+id: Q44jb4r
+type: release
+statements:
+  name:
+  - value:
+      text: Lie Lie Lie (Live) (Edmonton)
+      language: en
+    references:
+    - source: music.apple.com-us-album-live-in-edmonton-1597063200
+      quote: Lie Lie Lie (Live)
+      accessed: '2026-11-21'
+      locator: Concert track 4
+  listen link:
+  - value: https://music.apple.com/us/song/lie-lie-lie-live/1597063204
+    references:
+    - source: music.apple.com-us-album-live-in-edmonton-1597063200
+      quote: https://music.apple.com/us/song/lie-lie-lie-live/1597063204
+      accessed: '2026-11-21'
+      locator: Track link
+  performer:
+  - value: Qy88zyz
+    qualifiers:
+      role: keyboards
+    references:
+    - source: www.erwinsmusic.com-about
+      quote: member of Serj Tankian and the F.C.C.
+      accessed: '2026-11-21'
+      locator: Keyboard player and musical director
+  - value: Qfe2j74
+    references:
+    - source: music.apple.com-us-album-live-in-edmonton-1597063200
+      quote: Lie Lie Lie (Live)
+      accessed: '2026-11-21'
+      locator: Concert track 4
+  - value: Qy36w2e
+    references:
+    - source: serjtankian.com-pages-serj-tankian-the-f-c-c-live-in-leeds
+      quote: The F.C.C.
+      accessed: '2026-11-21'
+      locator: Official concert release
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a7/7b/8e/a77b8e7e-91d2-74d6-674a-27fe49e46df5/artwork.jpg/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Digital artwork via Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-live-in-edmonton-1597063200
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a7/7b/8e/a77b8e7e-91d2-74d6-674a-27fe49e46df5/artwork.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Original digital artwork
+  release date:
+  - value:
+      date: '2021-11-29'
+    references:
+    - source: music.apple.com-us-album-live-in-edmonton-1597063200
+      quote: '2021-11-29'
+      accessed: '2026-11-21'
+      locator: Digital release

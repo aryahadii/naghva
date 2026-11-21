@@ -1,0 +1,36 @@
+id: Q7b3bqy
+type: release
+statements:
+  name:
+  - value:
+      text: 'JIN JIYAN AZADÎ: Voices for Iran'
+      language: en
+    references:
+    - &id001
+      source: 909connection.bandcamp.com-album-jin-jiyan-azad-voices-for-iran
+      quote: 'JIN JIYAN AZADÎ: Voices for Iran'
+      accessed: '2026-11-21'
+      locator: Original compilation title
+  performer:
+  - value: Qpav8br
+    references:
+    - source: 909connection.bandcamp.com-album-jin-jiyan-azad-voices-for-iran
+      quote: Flugen feat. Hura Mirshekari
+      accessed: '2026-11-21'
+      locator: Compilation track 5
+  release type:
+  - value: compilation
+    references:
+    - *id001
+  listen link:
+  - value: https://909connection.bandcamp.com/album/jin-jiyan-azad-voices-for-iran
+    references:
+    - *id001
+  release date:
+  - value:
+      date: '2023-07-04'
+    references:
+    - source: 909connection.bandcamp.com-track-mashaal
+      quote: released July 4, 2023
+      accessed: '2026-11-21'
+      locator: Issue date

@@ -1,0 +1,43 @@
+id: Qsm4wj9
+type: release
+statements:
+  name:
+  - value:
+      text: Cheshmak · Sambook
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-okwfhcgr1ja
+      quote: live performance from Cheshmak
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qm3fd5c
+    references:
+    - *id001
+  release date:
+  - value:
+      date: '2024-12-22'
+    references:
+    - source: www.youtube.com-watch-v-okwfhcgr1ja
+      quote: '2024-12-22T09:23:02-08:00'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://www.youtube.com/watch?v=oKWfHCgR1JA
+    references:
+    - source: www.youtube.com-watch-v-okwfhcgr1ja
+      quote: live performance from Cheshmak
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i.ytimg.com/vi/oKWfHCgR1JA/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-okwfhcgr1ja
+      quote: https://i.ytimg.com/vi/oKWfHCgR1JA/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: Dami Jabren دمي جبرن
+        language: en

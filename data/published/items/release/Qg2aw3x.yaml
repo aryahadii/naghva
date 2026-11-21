@@ -1,0 +1,51 @@
+id: Qg2aw3x
+type: release
+statements:
+  name:
+  - value:
+      text: Gheseye Zirzamin
+      language: en
+    references:
+    - source: music.apple.com-us-album-gheseye-zirzamin-feat-y-a-s-404218373
+      quote: Gheseye Zirzamin (feat. Y.A.S)
+      accessed: '2026-11-21'
+      locator: Track 1
+  listen link:
+  - value: https://music.apple.com/us/song/gheseye-zirzamin-feat-y-a-s/404218387
+    references:
+    - source: music.apple.com-us-album-gheseye-zirzamin-feat-y-a-s-404218373
+      quote: https://music.apple.com/us/song/gheseye-zirzamin-feat-y-a-s/404218387
+      accessed: '2026-11-21'
+      locator: Exact Apple track
+  - value: https://open.spotify.com/track/2IRWZz9wIOiHFvdGQFaC3k
+    references:
+    - source: open.spotify.com-embed-album-2szivdo7xrrojfghuusjq3
+      quote: spotify:track:2IRWZz9wIOiHFvdGQFaC3k
+      accessed: '2026-11-21'
+      locator: Native track URI
+  performer:
+  - value: Qy88zyz
+    references:
+    - source: music.apple.com-us-album-gheseye-zirzamin-feat-y-a-s-404218373
+      quote: Erwin Khachikian
+      accessed: '2026-11-21'
+      locator: Opening song credit
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music/a6/ea/43/mzi.wtqyamaa.jpg/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Digital artwork via Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-gheseye-zirzamin-feat-y-a-s-404218373
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music/a6/ea/43/mzi.wtqyamaa.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Edition artwork
+  release date:
+  - value:
+      date: '2010-11-13'
+    references:
+    - source: music.apple.com-us-album-gheseye-zirzamin-feat-y-a-s-404218373
+      quote: '2010-11-13'
+      accessed: '2026-11-21'
+      locator: Issue date

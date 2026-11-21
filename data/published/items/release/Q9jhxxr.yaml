@@ -1,0 +1,51 @@
+id: Q9jhxxr
+type: release
+statements:
+  name:
+  - value:
+      text: Galoba IV
+      language: en
+    references:
+    - source: numduo.bandcamp.com-track-galoba-iv
+      quote: Galoba IV
+      accessed: '2026-11-21'
+      locator: Recording title
+  performer:
+  - value: Qj24qcs
+    references:
+    - source: numduo.bandcamp.com-track-galoba-iv
+      quote: Galoba IV | Milad Bagheri | NUM
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://numduo.bandcamp.com/track/galoba-iv
+    references:
+    - source: numduo.bandcamp.com-track-galoba-iv
+      quote: Galoba IV | Milad Bagheri | NUM
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://flagdayrecordings.bandcamp.com/track/galoba-iv
+    references:
+    - source: flagdayrecordings.bandcamp.com-track-galoba-iv
+      quote: Galoba IV | Milad Bagheri | Flag Day Recordings
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2020-10-23'
+    references:
+    - source: numduo.bandcamp.com-album-galoba
+      quote: released October 23, 2020
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a4068365322_10.jpg
+    references:
+    - source: numduo.bandcamp.com-album-galoba
+      quote: https://f4.bcbits.com/img/a4068365322_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Bandcamp · Milad Bagheri
+        language: en

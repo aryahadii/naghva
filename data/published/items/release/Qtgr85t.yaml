@@ -7,22 +7,21 @@ statements:
       language: en
     references:
     - source: soundcloud.com-moodymoussavi-oryan-4ca39634ad2f
-      quote: |-
-        Oryan (ft. Aida Shahghasemi)
+      quote: Oryan (ft. Aida Shahghasemi)
       accessed: '2026-11-06'
   - value:
       text: عریان (با آیدا شاه‌قاسمی)
       language: fa
     references:
     - source: soundcloud.com-moodymoussavi-oryan-4ca39634ad2f
-      quote: |-
-        Oryan (ft. Aida Shahghasemi)
+      quote: Oryan (ft. Aida Shahghasemi)
       accessed: '2026-11-06'
   performer:
   - value: Qv5ybzr
     references:
     - source: music.apple.com-us-album-oryan-1683120685-fa11a55d1c8a
-      quote: '"byArtist":[{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/moody-moussavi/1556901633","name":"Moody Moussavi"}]'
+      quote: '"byArtist":[{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/moody-moussavi/1556901633","name":"Moody
+        Moussavi"}]'
       accessed: '2026-11-06'
   - value: Qv5ybzr
     references:
@@ -55,8 +54,7 @@ statements:
       quote: 'Aida Shahghasemi: Featuring Artist (Oryan)'
       accessed: '2026-11-06'
     - source: open.spotify.com-track-5bjcs3jrn0n7gzmnw5ujgn-884b2142a93e
-      quote: |-
-        Moody Moussavi, Aida Shahghasemi · Oryan · Song · 2023
+      quote: Moody Moussavi, Aida Shahghasemi · Oryan · Song · 2023
       accessed: '2026-11-06'
   contributor:
   - value: Qv5ybzr
@@ -78,8 +76,7 @@ statements:
   - value: Q6mptyz
     references:
     - source: soundcloud.com-moodymoussavi-oryan-4ca39634ad2f
-      quote: |-
-        All lyrics excerpted from Baba Taher Oryan's poetry
+      quote: All lyrics excerpted from Baba Taher Oryan's poetry
       accessed: '2026-11-06'
     qualifiers:
       role:
@@ -95,27 +92,23 @@ statements:
   - value: https://soundcloud.com/moodymoussavi/oryan
     references:
     - source: soundcloud.com-moodymoussavi-oryan-4ca39634ad2f
-      quote: |-
-        Oryan (ft. Aida Shahghasemi)
+      quote: Oryan (ft. Aida Shahghasemi)
       accessed: '2026-11-06'
   - value: https://music.apple.com/us/song/oryan-feat-aida-shahghasemi/1683120688
     references:
     - source: music.apple.com-us-song-oryan-feat-aida-shahghasemi-1683120688-b2bef2f3be63
-      quote: |-
-        ‎Oryan (feat. Aida Shahghasemi) - Song with Lyrics by Moody Moussavi - Apple Music
+      quote: ‎Oryan (feat. Aida Shahghasemi) - Song with Lyrics by Moody Moussavi - Apple Music
       accessed: '2026-11-06'
   - value: https://open.spotify.com/track/5bJCs3Jrn0n7GZMNW5UjGN
     references:
     - source: open.spotify.com-track-5bjcs3jrn0n7gzmnw5ujgn-884b2142a93e
-      quote: |-
-        Oryan
+      quote: Oryan
       accessed: '2026-11-06'
   cover art:
   - value: https://i1.sndcdn.com/artworks-lydYbqHCFTIoUxzg-EAn9fw-t500x500.jpg
     references:
     - source: soundcloud.com-moodymoussavi-oryan-4ca39634ad2f
-      quote: |-
-        https://i1.sndcdn.com/artworks-lydYbqHCFTIoUxzg-EAn9fw-t500x500.jpg
+      quote: https://i1.sndcdn.com/artworks-lydYbqHCFTIoUxzg-EAn9fw-t500x500.jpg
       accessed: '2026-11-06'
     - source: soundcloud.com-moodymoussavi-oryan-4ca39634ad2f
       quote: 'No One Noise : Cover Artist, Graphic Designer'
@@ -124,3 +117,9 @@ statements:
       credit:
         text: No One Noise
         language: en
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7f/cf/2e/7fcf2e7f-ab63-9038-962a-b541d6d07eab/732138915511_cover.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-oryan-1683120685
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7f/cf/2e/7fcf2e7f-ab63-9038-962a-b541d6d07eab/732138915511_cover.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Native release artwork

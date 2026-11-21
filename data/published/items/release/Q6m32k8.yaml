@@ -1,0 +1,65 @@
+id: Q6m32k8
+type: release
+statements:
+  name:
+  - value:
+      text: Ahoo Khanoom
+      language: en
+    references:
+    - source: music.apple.com-us-album-ahoo-khanoom-1618959189
+      quote: Ahoo Khanoom
+      accessed: '2026-11-21'
+      locator: Track title
+  - value:
+      text: آهو خانوم
+      language: fa
+    references:
+    - source: soundcloud.com-babackrajabi-lug0kwyynlum
+      quote: آهو خانوم
+      accessed: '2026-11-21'
+      locator: Title on artist’s SoundCloud upload
+  performer:
+  - value: Qzhgpkw
+    references:
+    - source: music.apple.com-us-album-ahoo-khanoom-1618959189
+      quote: Babak Rajabi
+      accessed: '2026-11-21'
+      locator: Artist billing
+  release date:
+  - value:
+      date: '2022-04-12'
+    references:
+    - source: music.apple.com-us-album-ahoo-khanoom-1618959189
+      quote: '2022-04-12'
+      accessed: '2026-11-21'
+      locator: Release metadata
+  listen link:
+  - value: https://music.apple.com/us/song/ahoo-khanoom/1618959190
+    references:
+    - source: music.apple.com-us-album-ahoo-khanoom-1618959189
+      quote: Ahoo Khanoom
+      accessed: '2026-11-21'
+      locator: Track title
+  - value: https://open.spotify.com/track/3fgz1TN7kjFvRyWVq8kE95
+    references:
+    - source: open.spotify.com-album-5hsgykx7fowp2yehwexgut
+      quote: Ahoo Khanoom
+      accessed: '2026-11-21'
+      locator: Spotify track listing
+  - value: https://soundcloud.com/babackrajabi/lug0kwyynlum
+    references:
+    - source: soundcloud.com-babackrajabi-lug0kwyynlum
+      quote: آهو خانوم
+      accessed: '2026-11-21'
+      locator: Title on artist’s SoundCloud upload
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/94/d5/a3/94d5a378-9239-ed49-7b6e-7acb63f5e050/artwork.jpg/632x632bb-60.jpg
+    references:
+    - source: music.apple.com-us-album-ahoo-khanoom-1618959189
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/94/d5/a3/94d5a378-9239-ed49-7b6e-7acb63f5e050/artwork.jpg/632x632bb-60.jpg
+      accessed: '2026-11-21'
+      locator: Release image URL
+    qualifiers:
+      credit:
+        text: Apple Music · Ahoo Khanoom - Single
+        language: en

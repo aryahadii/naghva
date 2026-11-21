@@ -1,0 +1,59 @@
+id: Qks8nqx
+type: release
+statements:
+  name:
+  - value:
+      text: سه‌ضربی اصفهان
+      language: fa
+    references:
+    - source: www.youtube.com-oembed-h1oh1gv1sd0
+      quote: سه‌ضربی اصفهان
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2024-03-31'
+    references:
+    - source: www.youtube.com-watchv-h1oh1gv1sd0
+      quote: '2024-03-31'
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://i.ytimg.com/vi/H1oH1gV1sD0/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-h1oh1gv1sd0
+      quote: https://i.ytimg.com/vi/H1oH1gV1sD0/hqdefault.jpg
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Soheil Hosnavi · original performance
+        language: en
+  performer:
+  - value: Q76q9jz
+    references:
+    - source: www.youtube.com-oembed-h1oh1gv1sd0
+      quote: Soheil Hosnavi
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: santur
+  - value: Q4eqt65
+    references:
+    - source: t.me-s-soheilhosnavibefore-879
+      quote: Yadha-Trio-3zarbi-Esfahan
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://www.youtube.com/watch?v=H1oH1gV1sD0
+    references:
+    - source: www.youtube.com-oembed-h1oh1gv1sd0
+      quote: سه‌ضربی اصفهان
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  - value: https://t.me/soheilhosnavi/868
+    references:
+    - source: t.me-soheilhosnavi-868
+      quote: سه‌ضربی اصفهان
+      locator: Artist channel, original post 868
+      accessed: '2026-11-21'

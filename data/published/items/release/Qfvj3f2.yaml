@@ -1,0 +1,68 @@
+id: Qfvj3f2
+type: release
+statements:
+  name:
+  - value:
+      text: If all wasn't steel (third episode)
+      language: en
+    references:
+    - source: flamingpines.bandcamp.com-track-if-all-wasnt-steel-third-episode
+      quote: If all wasn't steel (third episode) | Pouya Pour-Amin | Flaming Pines
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qr62rq7
+    references:
+    - source: flamingpines.bandcamp.com-album-prison-episodes
+      quote: 'E.Doublebass : Pouya Pour-Amin'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: double bass
+  contributor:
+  - value: Qr62rq7
+    references:
+    - source: flamingpines.bandcamp.com-album-prison-episodes
+      quote: All music composed by Pouya Pour-Amin
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: composer
+  listen link:
+  - value: https://flamingpines.bandcamp.com/track/if-all-wasnt-steel-third-episode
+    references:
+    - source: flamingpines.bandcamp.com-track-if-all-wasnt-steel-third-episode
+      quote: If all wasn't steel (third episode) | Pouya Pour-Amin | Flaming Pines
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1530055725
+    references:
+    - source: music.apple.com-us-song-1530055725
+      quote: ‎If All Wasn't Steel (Third Episode) - Song with Lyrics by Pouya Pour-Amin - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/06ZWDzE4kQNkfvrnNVuzAk
+    references:
+    - source: open.spotify.com-track-06zwdze4kqnkfvrnnvuzak
+      quote: If All Wasn't Steel (Third Episode) - song and lyrics by Pouya Pour-Amin | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a1256544936_10.jpg
+    references:
+    - source: flamingpines.bandcamp.com-track-if-all-wasnt-steel-third-episode
+      quote: https://f4.bcbits.com/img/a1256544936_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original artist or label edition
+        language: en
+  release date:
+  - value:
+      date: '2019-06-26'
+    references:
+    - source: flamingpines.bandcamp.com-album-prison-episodes
+      quote: released June 26, 2019
+      accessed: '2026-11-21'
+      locator: Published date

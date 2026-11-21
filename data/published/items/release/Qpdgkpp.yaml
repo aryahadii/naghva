@@ -1,0 +1,61 @@
+id: Qpdgkpp
+type: release
+statements:
+  name:
+  - value:
+      text: Fayez Khâni
+      language: en
+    references:
+    - &id001
+      source: music.apple.com-us-album-jazz-music-from-south-iran-465372011
+      quote: Fayez Khâni
+      accessed: '2026-11-21'
+      locator: Original track
+  performer:
+  - value: Qdtxp3v
+    references:
+    - *id001
+  - value: Qyd93n9
+    references:
+    - *id001
+  - value: Qvhrrm8
+    references:
+    - *id001
+  - value: Qarvpxn
+    references:
+    - *id001
+  listen link:
+  - value: https://music.apple.com/us/song/fayez-kh%C3%A2ni/465372079
+    references:
+    - *id001
+  - value: https://open.spotify.com/track/5KvOE9bYnMzz7rmZUsHKl5
+    references:
+    - source: open.spotify.com-embed-album-0ksatdo2no7zn9g0zxry6s
+      quote: Fayez Khâni
+      accessed: '2026-11-21'
+      locator: Matching Spotify edition
+  - value: https://soundcloud.com/saeid-shanbehzadeh/03-fa-yez-kha-ni
+    references:
+    - source: soundcloud.com-saeid-shanbehzadeh-03-fa-yez-kha-ni
+      quote: Fâyez Khâni
+      accessed: '2026-11-21'
+      locator: Artist’s SoundCloud recording
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music/61/d9/97/mzi.zmmocoxh.jpg/1200x630wp-60.jpg
+    references:
+    - source: music.apple.com-us-album-jazz-music-from-south-iran-465372011
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music/61/d9/97/mzi.zmmocoxh.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Original issue artwork
+    qualifiers:
+      credit:
+        text: Apple Music, original edition artwork
+        language: en
+  release date:
+  - value:
+      date: '2011-06-20'
+    references:
+    - source: music.apple.com-us-album-jazz-music-from-south-iran-465372011
+      quote: '2011-06-20'
+      accessed: '2026-11-21'
+      locator: Digital edition date

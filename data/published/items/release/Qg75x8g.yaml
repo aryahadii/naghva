@@ -1,0 +1,32 @@
+id: Qg75x8g
+type: release
+statements:
+  name:
+  - value:
+      text: El modo Mahour, Mehdi Moshtagh | بداهه نوازی در دستگاه ماهور(عراق)، مهدی مشتاق
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-l89smggmbdq
+      quote: El modo Mahour, Mehdi Moshtagh | بداهه نوازی در دستگاه ماهور(عراق)، مهدی مشتاق
+      accessed: '2026-11-21'
+      locator: Music credited by musician or performance publisher
+  performer:
+  - value: Qqb9bnx
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/L89smggmBdQ/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-l89smggmbdq
+      quote: https://i.ytimg.com/vi/L89smggmBdQ/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video frame
+    qualifiers:
+      credit:
+        text: Mehdi Moshtagh
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=L89smggmBdQ
+    references:
+    - *id001

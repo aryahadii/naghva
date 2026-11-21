@@ -1,0 +1,69 @@
+id: Qzps22s
+type: release
+statements:
+  name:
+  - value:
+      text: Puria part 1 and part 2
+      language: en
+    references:
+    - source: music.apple.com-us-album-prayers-ep-6766858584
+      quote: Puria part 1 and part 2
+      accessed: '2026-11-21'
+      locator: Track 1
+  performer:
+  - value: Q39ae6e
+    references:
+    - source: music.apple.com-us-album-prayers-ep-6766858584
+      quote: Pandit Hariprasad Chaurasia
+      accessed: '2026-11-21'
+      locator: Album billing
+  - value: Qz9hcyk
+    references:
+    - source: music.apple.com-us-album-prayers-ep-6766858584
+      quote: Javid Afsari Rad
+      accessed: '2026-11-21'
+      locator: Album billing
+  - value: Qr9ys8a
+    references:
+    - source: music.apple.com-us-album-prayers-ep-6766858584
+      quote: Bendik Hofseth
+      accessed: '2026-11-21'
+      locator: Album billing
+  - value: Q888qn6
+    references:
+    - source: music.apple.com-us-album-prayers-ep-6766858584
+      quote: Rohini Sahajpal
+      accessed: '2026-11-21'
+      locator: Album billing
+  release date:
+  - value:
+      date: '2026-05-15'
+    references:
+    - source: music.apple.com-us-album-prayers-ep-6766858584
+      quote: '2026-05-15'
+      accessed: '2026-11-21'
+      locator: Digital edition release
+  listen link:
+  - value: https://music.apple.com/us/song/puria-part-1-and-part-2/6766858710
+    references:
+    - source: music.apple.com-us-album-prayers-ep-6766858584
+      quote: Puria part 1 and part 2
+      accessed: '2026-11-21'
+      locator: Track 1
+  - value: https://open.spotify.com/track/0TIXun5iW9vr1w91qXDgph
+    references:
+    - source: open.spotify.com-album-05mbtsyxe1i70sbuzkuwdf
+      quote: Puria part 1 and part 2
+      accessed: '2026-11-21'
+      locator: Track 1
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3d/69/97/3d69976d-bce9-ec77-7b37-8fe3d2414fa0/820233159036.jpg/632x632bb-60.jpg
+    references:
+    - source: music.apple.com-us-album-prayers-ep-6766858584
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3d/69/97/3d69976d-bce9-ec77-7b37-8fe3d2414fa0/820233159036.jpg/632x632bb-60.jpg
+      accessed: '2026-11-21'
+      locator: Apple album cover
+    qualifiers:
+      credit:
+        text: Prayers - EP · Apple Music
+        language: en

@@ -1,0 +1,57 @@
+id: Qrdk4wm
+type: release
+statements:
+  name:
+  - value:
+      text: impulse | resonance
+      language: en
+    references:
+    - source: flamingpines.bandcamp.com-track-impulse-resonance
+      quote: impulse | resonance
+      accessed: '2026-11-21'
+      locator: Recording heading
+  performer:
+  - value: Qyt2364
+    references:
+    - source: flamingpines.bandcamp.com-track-impulse-resonance
+      quote: impulse | resonance | Hadi Bastani | Flaming Pines
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://flamingpines.bandcamp.com/track/impulse-resonance
+    references:
+    - source: flamingpines.bandcamp.com-track-impulse-resonance
+      quote: impulse | resonance | Hadi Bastani | Flaming Pines
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/impulse-resonance/1527077655
+    references:
+    - source: music.apple.com-us-song-impulse-resonance-1527077655
+      quote: ‎Impulse  Resonance - Song with Lyrics by Hadi Bastani - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/1uUzCIdoNbgmtCKlTefuuD
+    references:
+    - source: open.spotify.com-track-1uuzcidonbgmtckltefuud
+      quote: Impulse | Resonance - song and lyrics by Hadi Bastani | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a3000533728_10.jpg
+    references:
+    - source: flamingpines.bandcamp.com-track-impulse-resonance
+      quote: https://f4.bcbits.com/img/a3000533728_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Bandcamp · Flaming Pines
+        language: en
+  release date:
+  - value:
+      date: '2020-06-05'
+    references:
+    - source: flamingpines.bandcamp.com-track-impulse-resonance
+      quote: released June 5, 2020
+      accessed: '2026-11-21'
+      locator: Published date

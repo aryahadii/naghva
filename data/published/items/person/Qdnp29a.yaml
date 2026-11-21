@@ -1,0 +1,29 @@
+id: Qdnp29a
+type: person
+statements:
+  name:
+  - value:
+      text: Ali Karimi
+      language: en
+    references:
+    - source: artamene-official.com-2021-11-23-artamene-iran-sign-with-wormholedeath-announce-ziggurat
+      quote: Ali Karimi/Rhythm Guitar
+      accessed: 2026-11-21
+      locator: Release or concert personnel
+  - value:
+      text: علی کریمی
+      language: fa
+    references:
+    - source: artamene-official.com-2018-11-26
+      quote: علی کریمی
+      accessed: 2026-11-21
+      locator: نوازندگان کنسرت
+  member of:
+  - value: Qq8jt69
+    qualifiers:
+      role: guitar
+    references:
+    - source: artamene-official.com-2021-11-23-artamene-iran-sign-with-wormholedeath-announce-ziggurat
+      quote: Ali Karimi/Rhythm Guitar
+      accessed: 2026-11-21
+      locator: Release or concert personnel

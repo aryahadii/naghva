@@ -1,0 +1,47 @@
+id: Qfrccrf
+type: release
+statements:
+  name:
+  - value:
+      text: Mahni Ensemble 5
+      language: en
+    references:
+    - source: www.youtube.com-watch-v-qz5f4eccyzm
+      quote: Mahni Ensemble 5
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qkmhqgm
+    references:
+    - source: agakhanmuseum.org-bio-padideh-ahrarnejad-trio
+      quote: Padideh Ahrarnejad, Ooldouz Pouri, and Ali Massoudi
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: vocals
+  release date:
+  - value:
+      date: '2023-07-09'
+    references:
+    - source: www.youtube.com-watch-v-qz5f4eccyzm
+      quote: '2023-07-09T10:12:18-07:00'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://www.youtube.com/watch?v=QZ5F4ECCYZM
+    references:
+    - source: www.youtube.com-watch-v-qz5f4eccyzm
+      quote: Mahni Ensemble 5
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i.ytimg.com/vi/QZ5F4ECCYZM/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-qz5f4eccyzm
+      quote: https://i.ytimg.com/vi/QZ5F4ECCYZM/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: Ali Massoudi
+        language: en

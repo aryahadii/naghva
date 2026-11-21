@@ -1,0 +1,37 @@
+id: Q7c6g75
+type: release
+statements:
+  name:
+  - value:
+      text: Marie Sahba - Over & Over (Oslo Sessions)
+      language: en
+    references:
+    - source: www.youtube.com-oembed-y8e9-dimytk
+      quote: Marie Sahba - Over & Over (Oslo Sessions)
+      locator: Official artist upload
+      accessed: '2026-11-21'
+  performer:
+  - value: Qxmhx58
+    references:
+    - source: www.mariesahba.com-about
+      quote: Marie Sahba
+      locator: Artist name
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://i.ytimg.com/vi/y8e9-DImytk/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-y8e9-dimytk
+      quote: https://i.ytimg.com/vi/y8e9-DImytk/hqdefault.jpg
+      locator: Original YouTube artwork
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Marie Sahba · YouTube
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=y8e9-DImytk
+    references:
+    - source: www.youtube.com-oembed-y8e9-dimytk
+      quote: Marie Sahba - Over & Over (Oslo Sessions)
+      locator: Official artist upload
+      accessed: '2026-11-21'
