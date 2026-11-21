@@ -9,12 +9,14 @@ statements:
     - source: temp-illusion.bandcamp.com-track-longing-for-rain
       quote: Longing For Rain
       accessed: '2026-11-21'
+      locator: Release heading
   performer:
   - value: Q8tq6bc
     references:
     - source: temp-illusion.bandcamp.com-track-longing-for-rain
       quote: Longing For Rain | Temp-Illusion
       accessed: '2026-11-21'
+      locator: Page title
   release date:
   - value:
       date: '2026-05-16'
@@ -22,26 +24,31 @@ statements:
     - source: temp-illusion.bandcamp.com-track-longing-for-rain
       quote: released May 16, 2026
       accessed: '2026-11-21'
+      locator: Release credits
   listen link:
   - value: https://temp-illusion.bandcamp.com/track/longing-for-rain
     references:
     - source: temp-illusion.bandcamp.com-track-longing-for-rain
       quote: Longing For Rain | Temp-Illusion
       accessed: '2026-11-21'
+      locator: Page title
   - value: https://soundcloud.com/temp-illusion/longing-for-rain
     references:
     - source: soundcloud.com-temp-illusion-longing-for-rain
       quote: Stream Longing For Rain by Temp-Illusion | Listen online for free on SoundCloud
       accessed: '2026-11-21'
+      locator: Page title
   cover art:
   - value: https://f4.bcbits.com/img/a3573607464_10.jpg
     references:
     - source: temp-illusion.bandcamp.com-track-longing-for-rain
       quote: https://f4.bcbits.com/img/a3573607464_10.jpg
       accessed: '2026-11-21'
+      locator: Full cover image linked from release page
     - source: temp-illusion.bandcamp.com-track-longing-for-rain
       quote: Behrang Najafi
       accessed: '2026-11-21'
+      locator: Release credits
     qualifiers:
       credit:
         text: Behrang Najafi
@@ -52,6 +59,7 @@ statements:
     - source: temp-illusion.bandcamp.com-track-longing-for-rain
       quote: Mastered by Shahin Entezami
       accessed: '2026-11-21'
+      locator: Release credits
     qualifiers:
       role:
       - mastering engineer

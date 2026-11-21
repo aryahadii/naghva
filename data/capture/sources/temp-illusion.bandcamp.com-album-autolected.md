@@ -1,5 +1,6 @@
 ---
 url: https://temp-illusion.bandcamp.com/album/autolected
+archive: "https://web.archive.org/web/20240601205140/https://temp-illusion.bandcamp.com/album/autolected"
 title: Autolected | Temp-Illusion
 kind: web page
 language: en

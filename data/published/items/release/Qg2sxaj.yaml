@@ -6,8 +6,7 @@ statements:
       text: Roze Zard
       language: en
     references:
-    - &id001
-      source: soundcloud.com-farzanezamen-roze-zard
+    - source: soundcloud.com-farzanezamen-roze-zard
       quote: Roze Zard
       accessed: '2026-11-21'
       locator: Track heading and account
@@ -21,8 +20,26 @@ statements:
   listen link:
   - value: https://soundcloud.com/farzanezamen/roze-zard
     references:
-    - *id001
+    - source: soundcloud.com-farzanezamen-roze-zard
+      quote: Roze Zard
+      accessed: '2026-11-21'
+      locator: Track heading and account
   cover art:
-  - value: https://i1.sndcdn.com/artworks-000171952818-i8q7wy-large.jpg
+  - value: https://i1.sndcdn.com/artworks-000171952818-i8q7wy-t500x500.jpg
     references:
-    - *id001
+    - source: soundcloud.com-farzanezamen-roze-zard
+      quote: https://i1.sndcdn.com/artworks-000171952818-i8q7wy-t500x500.jpg
+      accessed: '2026-11-21'
+      locator: Track artwork in Open Graph image metadata
+    qualifiers:
+      credit:
+        text: Farzane Zamen, via SoundCloud
+        language: en
+  release date:
+  - value:
+      date: '2016'
+    references:
+    - source: soundcloud.com-farzanezamen-roze-zard
+      quote: '2016-07-18T05:28:58Z'
+      accessed: '2026-11-21'
+      locator: Publication timestamp on this upload

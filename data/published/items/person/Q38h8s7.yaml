@@ -14,8 +14,7 @@ statements:
       text: Farzane Zamen
       language: en
     references:
-    - &id001
-      source: farzanezamen.wixsite.com-music
+    - source: farzanezamen.wixsite.com-music
       quote: Farzane Zamen is an Iranian singer-songwriter and music producer based in Glasgow-Scotland.
       accessed: '2026-11-21'
       locator: Biography beside photograph G 19.jpg
@@ -55,7 +54,14 @@ statements:
   image:
   - value: https://static.wixstatic.com/media/55004c_45138e0f6f1d47f888f80bceafa46c09~mv2.jpg
     references:
-    - *id001
+    - source: farzanezamen.wixsite.com-music
+      quote: Farzane Zamen is an Iranian singer-songwriter and music producer based in Glasgow-Scotland.
+      accessed: '2026-11-21'
+      locator: Biography beside photograph G 19.jpg
+    - source: farzanezamen.wixsite.com-music
+      quote: https://static.wixstatic.com/media/55004c_45138e0f6f1d47f888f80bceafa46c09~mv2.jpg
+      accessed: '2026-11-21'
+      locator: G 19.jpg, original Wix-hosted photograph beside the biography
     qualifiers:
       credit:
         text: Farzane Zamen (artist website)

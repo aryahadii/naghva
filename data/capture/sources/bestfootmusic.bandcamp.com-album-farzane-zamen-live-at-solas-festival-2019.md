@@ -1,5 +1,6 @@
 ---
 url: https://bestfootmusic.bandcamp.com/album/farzane-zamen-live-at-solas-festival-2019
+archive: https://web.archive.org/web/20220723145515/https://bestfootmusic.bandcamp.com/album/farzane-zamen-live-at-solas-festival-2019
 title: 'Farzane Zamen: Live at Solas Festival 2019'
 kind: music catalogue
 tier: own
@@ -28,3 +29,7 @@ Album heading, tracks and credits. Read 2026-11-21.
 > Azerbaijani folk song 01
 
 > Azerbaijani folk song 02
+
+Full-size album cover link. Read 2026-11-21.
+
+> https://f4.bcbits.com/img/a0344140370_10.jpg

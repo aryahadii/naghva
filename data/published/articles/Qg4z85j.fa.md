@@ -115,6 +115,21 @@ references:
     quote: On stage, the two bands work astonishingly well together, reported project manager Elmaz Almiraslani after the concert in Leipzig.
     accessed: '2026-11-21'
     locator: Open to musical exchange
+  touring:
+    source: behroozmoosavi.com-projects
+    quote: Joined by two other musicians, Sam Eyvaz and Garen Abnous, the band have toured and played concerts widely across Europe between the years 2011 and 2017
+    locator: Langtunes, touring paragraph
+    accessed: '2026-11-21'
+  third:
+    source: gigmit.com-langtunes
+    quote: In 2014 they self released an EP called "The Story Of Us"
+    accessed: '2026-11-21'
+    locator: Short Info
+  signed:
+    source: gigmit.com-langtunes
+    quote: which resulted for them to be signed by the Nuernberger Indie label, Parvenue.
+    accessed: '2026-11-21'
+    locator: Short Info
 ---
 
 لنگتونز گروه راک ایرانی بود که از ۲۰۰۹ تا ۲۰۱۷ فعالیت می‌کرد. بهروز موسوی و کامیار کرامتی کارشان را در تهران آغاز کردند و نخستین آثار گروه را خودشان منتشر کردند. لنگتونز برای ضبط نخستین آلبومش، [«Teherantor»](#teherantor-wka)، به آلمان رفت و بعدها همراه گروه اسرائیلی Ramzailech در آلمان تور مشترکی برگزار کرد.[^founders][^fa][^years][^demos][^record][^joint]
@@ -123,10 +138,12 @@ references:
 
 موسوی و کرامتی در آغاز آهنگ‌های دیگران را می‌نواختند. بعد از یک اجرای زیرزمینی در زمستان ۲۰۰۹ تصمیم گرفتند آهنگ‌های خودشان را بسازند. گارن آبنوس و بهنام بیابانگردی به آن‌ها پیوستند و این چهار نفر در ۲۰۱۰ نخستین آهنگ‌هایشان را با هم منتشر کردند. موسوی می‌خواند و گیتار می‌زد و آبنوس بیس و سینتی‌سایزر می‌نواخت.[^covers][^own][^four][^roles]
 
-وقتی جای برودی، عکاس، به دیدن گروه رفت، اعضای لنگتونز در آپارتمانی زیرزمینی تمرین می‌کردند که به استودیو تبدیل شده بود. معمولاً ساعت یازده صبح را برای تمرین انتخاب می‌کردند تا همسایه‌ها متوجه سروصدا نشوند و به پلیس خبر ندهند.[^room][^hour][^neighbours]
+وقتی جای برودی، عکاس، به دیدن گروه رفت، اعضای لنگتونز در زیرزمین خانهٔ یکی از دوستانشان تمرین می‌کردند که به استودیو تبدیل شده بود. معمولاً ساعت یازده صبح را برای تمرین انتخاب می‌کردند تا همسایه‌ها متوجه سروصدا نشوند و به پلیس خبر ندهند.[^room][^hour][^neighbours]
 
 ## از تهران تا جشنواره‌های اروپا
 
-گروه در سال ۲۰۱۱ در استانبول اجرا کرد و بعد دو سی‌دی دمو را با هزینهٔ خودش منتشر کرد. در ۲۰۱۲، پس از انتشار [«Sentimental Disasters»](#sentimental-disasters-wan)، برای اجرای چند کنسرت به آلمان و ترکیه رفتند. موسیقی‌شان را در اینترنت پخش می‌کردند و برای برگزارکنندگان جشنواره‌ها سی‌دی می‌فرستادند. سال بعد که [«The Bright Ages»](#the-bright-ages-4s3) را منتشر کردند، از تهران با کمک آشنایانشان در فیس‌بوک یک تور سه‌ماهه در اروپا ترتیب دادند.[^istanbul][^demos][^dates][^demosent][^facebook]
+گروه در سال ۲۰۱۱ در استانبول اجرا کرد و بعد دو سی‌دی دمو را خودش منتشر کرد. در ۲۰۱۲، پس از انتشار [«Sentimental Disasters»](#sentimental-disasters-wan)، برای اجرای چند کنسرت به آلمان و ترکیه رفتند. موسیقی‌شان را در اینترنت پخش می‌کردند و برای برگزارکنندگان جشنواره‌ها سی‌دی می‌فرستادند. سال بعد که [«The Bright Ages»](#the-bright-ages-4s3) را منتشر کردند، از تهران با کمک آشنایانشان در فیس‌بوک یک تور سه‌ماهه در اروپا ترتیب دادند.[^istanbul][^demos][^dates][^demosent][^facebook]
 
-لنگتونز آلبوم «Teherantor» را در آلمان ضبط کرد و شرکت پارونو رکوردز آن را در دسامبر ۲۰۱۴ منتشر کرد. اواخر همان سال در نورنبرگ با نوازندگان Ramzailech آشنا شدند. دو گروه برای تأمین هزینهٔ یک تور مشترک در آلمان از مردم کمک خواستند. این تور که «دست دادن پنهانی» نام داشت، در نوامبر ۲۰۱۵ از لایپزیگ آغاز شد.[^record][^lp][^issued][^met][^funding][^handshake][^joint][^leipzig]
+در سال ۲۰۱۴، لنگتونز مینی‌آلبوم [«The Story Of Us»](#the-story-of-us-vcz) را منتشر کرد و برای معرفی آن دوباره در اروپا به سفر رفت. پس از این تور با شرکت پارونو رکوردز قرارداد بستند.[^third][^signed] لنگتونز آلبوم «Teherantor» را در آلمان ضبط کرد و شرکت پارونو رکوردز آن را در دسامبر ۲۰۱۴ منتشر کرد. اواخر همان سال در نورنبرگ با نوازندگان Ramzailech آشنا شدند. دو گروه برای تأمین هزینهٔ یک تور مشترک در آلمان از مردم کمک خواستند. این تور که «دست دادن پنهانی» نام داشت، در نوامبر ۲۰۱۵ از لایپزیگ آغاز شد.[^record][^lp][^issued][^met][^funding][^handshake][^joint][^leipzig]
+
+لنگتونز تا سال ۲۰۱۷ در جشنواره‌ها و باشگاه‌های موسیقی اروپا روی صحنه می‌رفت. سام ایواز و گارن آبنوس هم در این سفرها با گروه می‌نواختند.[^touring]

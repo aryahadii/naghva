@@ -9,12 +9,14 @@ statements:
     - source: temp-illusion.bandcamp.com-album-failsafe
       quote: failsafe
       accessed: '2026-11-21'
+      locator: Release heading
   performer:
   - value: Q8tq6bc
     references:
     - source: temp-illusion.bandcamp.com-album-failsafe
       quote: failsafe | Temp-Illusion
       accessed: '2026-11-21'
+      locator: Page title
   release date:
   - value:
       date: '2023-09-01'
@@ -22,31 +24,37 @@ statements:
     - source: temp-illusion.bandcamp.com-album-failsafe
       quote: released September 1, 2023
       accessed: '2026-11-21'
+      locator: Release credits
   listen link:
   - value: https://temp-illusion.bandcamp.com/album/failsafe
     references:
     - source: temp-illusion.bandcamp.com-album-failsafe
       quote: failsafe | Temp-Illusion
       accessed: '2026-11-21'
+      locator: Page title
   - value: https://music.apple.com/us/album/failsafe/1702236772
     references:
     - source: music.apple.com-us-album-failsafe-1702236772
       quote: ‎Failsafe - Album by Temp-Illusion - Apple Music
       accessed: '2026-11-21'
+      locator: Page title
   - value: https://open.spotify.com/album/1JAOCPD9X4qJKKOm7FQXSY
     references:
     - source: open.spotify.com-album-1jaocpd9x4qjkkom7fqxsy
       quote: Listen to failsafe - Album by Temp-Illusion | Spotify
       accessed: '2026-11-21'
+      locator: Page title
   cover art:
   - value: https://f4.bcbits.com/img/a0811811932_10.jpg
     references:
     - source: temp-illusion.bandcamp.com-album-failsafe
       quote: https://f4.bcbits.com/img/a0811811932_10.jpg
       accessed: '2026-11-21'
+      locator: Full cover image linked from release page
     - source: temp-illusion.bandcamp.com-album-failsafe
       quote: GENG PTP
       accessed: '2026-11-21'
+      locator: Release credits
     qualifiers:
       credit:
         text: GENG PTP
@@ -57,12 +65,14 @@ statements:
     - source: insomniafestival.no-artist-temp-illusion
       quote: “Failsafe” on PTP.
       accessed: '2026-11-21'
+      locator: 2025 biography
   contributor:
   - value: Q8tq6bc
     references:
     - source: temp-illusion.bandcamp.com-album-failsafe
       quote: 'written, produced, mixed: Temp-Illusion'
       accessed: '2026-11-21'
+      locator: Release credits
     qualifiers:
       role:
       - producer
@@ -74,3 +84,4 @@ statements:
     - source: music.apple.com-us-album-failsafe-1702236772
       quote: ‎Failsafe - Album by Temp-Illusion - Apple Music
       accessed: '2026-11-21'
+      locator: Page title

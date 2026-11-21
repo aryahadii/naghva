@@ -115,6 +115,21 @@ references:
     quote: On stage, the two bands work astonishingly well together, reported project manager Elmaz Almiraslani after the concert in Leipzig.
     accessed: '2026-11-21'
     locator: Open to musical exchange
+  touring:
+    source: behroozmoosavi.com-projects
+    quote: Joined by two other musicians, Sam Eyvaz and Garen Abnous, the band have toured and played concerts widely across Europe between the years 2011 and 2017
+    locator: Langtunes, touring paragraph
+    accessed: '2026-11-21'
+  third:
+    source: gigmit.com-langtunes
+    quote: In 2014 they self released an EP called "The Story Of Us"
+    accessed: '2026-11-21'
+    locator: Short Info
+  signed:
+    source: gigmit.com-langtunes
+    quote: which resulted for them to be signed by the Nuernberger Indie label, Parvenue.
+    accessed: '2026-11-21'
+    locator: Short Info
 ---
 
 Langtunes were an Iranian rock band active from 2009 to 2017. Behrooz Moosavi and Kamyar Keramati began playing together in Tehran, where the band released its own early recordings. They went on to record their debut album, [*Teherantor*](#teherantor-wka), in Germany and toured there with the Israeli band Ramzailech.[^founders][^fa][^years][^demos][^record][^joint]
@@ -127,6 +142,8 @@ Photographer Jai Brodie visited the band at a basement flat that had been turned
 
 ## From Tehran to the festival circuit
 
-After playing in Istanbul in 2011, the band put out two demo CDs themselves. They took [*Sentimental Disasters*](#sentimental-disasters-wan) to Germany and Turkey in 2012. They circulated their music online and sent discs to festival organisers. When [*The Bright Ages*](#the-bright-ages-4s3) came out the following year, they arranged a three-month European tour from Tehran through contacts they had made on Facebook.[^istanbul][^demos][^dates][^demosent][^facebook]
+After playing in Istanbul in 2011, the band put out two demo CDs themselves. In 2012 they followed [*Sentimental Disasters*](#sentimental-disasters-wan) with a short tour of Germany and Turkey. They circulated their music online and sent discs to festival organisers. When [*The Bright Ages*](#the-bright-ages-4s3) came out the following year, they arranged a three-month European tour from Tehran through contacts they had made on Facebook.[^istanbul][^demos][^dates][^demosent][^facebook]
 
-In Germany they recorded *Teherantor*, which Parvenue Records released in December 2014. Late that year they met the musicians of Ramzailech in Nuremberg. The two bands organised a crowdfunding campaign for a joint German tour they called The Secret Handshake and opened it in Leipzig in November 2015.[^record][^lp][^issued][^met][^funding][^handshake][^joint][^leipzig]
+They signed with Parvenue Records after another European tour in support of their 2014 EP [*The Story Of Us*](#the-story-of-us-vcz).[^third][^signed] In Germany they recorded *Teherantor*, which Parvenue Records released in December 2014. Late that year they met the musicians of Ramzailech in Nuremberg. The two bands organised a crowdfunding campaign for a joint German tour they called The Secret Handshake and opened it in Leipzig in November 2015.[^record][^lp][^issued][^met][^funding][^handshake][^joint][^leipzig]
+
+Langtunes kept playing European festivals and clubs until 2017. Sam Eyvaz and Garen Abnous were part of the touring band.[^touring]

@@ -14,3 +14,11 @@ Track heading and account. Read 2026-11-21.
 > Kash Mishod
 
 > Farzane Zamen
+
+Publication timestamp on this upload. Read 2026-11-21.
+
+> 2014-03-12T17:39:39Z
+
+Track artwork in Open Graph image metadata. Read 2026-11-21.
+
+> https://i1.sndcdn.com/artworks-000073331744-q2vq6w-t500x500.jpg

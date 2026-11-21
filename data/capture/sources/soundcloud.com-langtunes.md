@@ -7,6 +7,7 @@ tier: own
 about:
 - Langtunes
 status: processed
+archive: https://web.archive.org/web/20261031112937/https://soundcloud.com/langtunes
 ---
 
 > formed Langtunes in 2009 basically as a cover band.

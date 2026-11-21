@@ -1,0 +1,38 @@
+id: Qbeth28
+type: release
+statements:
+  name:
+  - value:
+      text: Speedy Monks, Live @ Nürnberg.Pop, Germany, 25.11.14
+      language: en
+    references:
+    - source: youtube.com-watch-4uexalbzkai
+      quote: Langtunes - Speedy Monks, Live @ Nürnberg.Pop, Germany, 25.11.14
+      accessed: '2026-11-21'
+      locator: Video title
+  performer:
+  - value: Qg4z85j
+    references:
+    - source: youtube.com-watch-4uexalbzkai
+      quote: Langtunes - Speedy Monks, Live @ Nürnberg.Pop, Germany, 25.11.14
+      accessed: '2026-11-21'
+      locator: Video title
+    - source: youtube.com-watch-4uexalbzkai
+      quote: TheLangtunes
+      accessed: '2026-11-21'
+      locator: Channel name
+  listen link:
+  - value: https://www.youtube.com/watch?v=4UExAlbzkAI
+    references:
+    - source: youtube.com-watch-4uexalbzkai
+      quote: Langtunes - Speedy Monks, Live @ Nürnberg.Pop, Germany, 25.11.14
+      accessed: '2026-11-21'
+      locator: Video title
+  release date:
+  - value:
+      date: '2015-02-19'
+    references:
+    - source: youtube.com-watch-4uexalbzkai
+      quote: '2015-02-19T01:49:08-08:00'
+      accessed: '2026-11-21'
+      locator: Upload date

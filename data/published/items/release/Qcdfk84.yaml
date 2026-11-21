@@ -6,8 +6,7 @@ statements:
       text: It was a cold night in winter (Solas Festival 2019)
       language: en
     references:
-    - &id001
-      source: bestfootmusic.bandcamp.com-album-farzane-zamen-live-at-solas-festival-2019
+    - source: bestfootmusic.bandcamp.com-album-farzane-zamen-live-at-solas-festival-2019
       quote: It was a cold night in winter
       accessed: '2026-11-21'
       locator: Album heading, tracks and credits
@@ -21,11 +20,18 @@ statements:
   listen link:
   - value: https://bestfootmusic.bandcamp.com/track/it-was-a-cold-night-in-winter
     references:
-    - *id001
+    - source: bestfootmusic.bandcamp.com-album-farzane-zamen-live-at-solas-festival-2019
+      quote: It was a cold night in winter
+      accessed: '2026-11-21'
+      locator: Album heading, tracks and credits
   cover art:
   - value: https://f4.bcbits.com/img/a0344140370_10.jpg
     references:
     - source: bestfootmusic.bandcamp.com-album-farzane-zamen-live-at-solas-festival-2019
-      quote: 'Farzane Zamen: Live at Solas Festival 2019'
+      quote: https://f4.bcbits.com/img/a0344140370_10.jpg
       accessed: '2026-11-21'
-      locator: Album heading, tracks and credits
+      locator: Full-size album cover link
+    qualifiers:
+      credit:
+        text: Best Foot Music
+        language: en

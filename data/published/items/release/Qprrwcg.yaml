@@ -6,8 +6,7 @@ statements:
       text: To Mesle Barf
       language: en
     references:
-    - &id001
-      source: soundcloud.com-farzanezamen-to-mesle-barf
+    - source: soundcloud.com-farzanezamen-to-mesle-barf
       quote: To Mesle Barf
       accessed: '2026-11-21'
       locator: Track heading and account
@@ -21,8 +20,32 @@ statements:
   listen link:
   - value: https://soundcloud.com/farzanezamen/to-mesle-barf
     references:
-    - *id001
-  cover art:
-  - value: https://i1.sndcdn.com/artworks-000133313796-x3uc00-large.jpg
+    - source: soundcloud.com-farzanezamen-to-mesle-barf
+      quote: To Mesle Barf
+      accessed: '2026-11-21'
+      locator: Track heading and account
+  - value: https://www.youtube.com/watch?v=wtTjg7OuM_w
     references:
-    - *id001
+    - source: www.youtube.com-watchv-wttjg7oum_w
+      quote: Farzane Zamen -To Mesle Barf
+      accessed: '2026-11-21'
+      locator: Video title, channel and description
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-000133313796-x3uc00-t500x500.jpg
+    references:
+    - source: soundcloud.com-farzanezamen-to-mesle-barf
+      quote: https://i1.sndcdn.com/artworks-000133313796-x3uc00-t500x500.jpg
+      accessed: '2026-11-21'
+      locator: Track artwork in Open Graph image metadata
+    qualifiers:
+      credit:
+        text: Farzane Zamen, via SoundCloud
+        language: en
+  release date:
+  - value:
+      date: '2015'
+    references:
+    - source: soundcloud.com-farzanezamen-to-mesle-barf
+      quote: '2015-10-20T06:48:32Z'
+      accessed: '2026-11-21'
+      locator: Publication timestamp on this upload

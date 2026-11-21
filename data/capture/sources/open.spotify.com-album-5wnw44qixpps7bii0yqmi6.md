@@ -24,3 +24,7 @@ EP heading and five-track listing. Read 2026-11-21.
 > Fake Love
 
 > Forbidden Voices
+
+Album artwork image on release page. Read 2026-11-21.
+
+> https://i.scdn.co/image/ab67616d00001e02e4843021213c0795c6bfed02

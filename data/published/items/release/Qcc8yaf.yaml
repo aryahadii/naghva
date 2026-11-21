@@ -1,0 +1,45 @@
+id: Qcc8yaf
+type: release
+statements:
+  name:
+  - value:
+      text: No Beats, No Romance
+      language: en
+    references:
+    - source: soundcloud.com-langtunes-langtunes-no-beats-no-romance
+      quote: Stream No Beats, No Romance by Langtunes | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Track page title
+  performer:
+  - value: Qg4z85j
+    references:
+    - source: soundcloud.com-langtunes-langtunes-no-beats-no-romance
+      quote: Stream No Beats, No Romance by Langtunes | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Track page title
+  release date:
+  - value:
+      date: '2011-08-16'
+    references:
+    - source: soundcloud.com-langtunes-langtunes-no-beats-no-romance
+      quote: '2011-08-16T22:38:36Z'
+      accessed: '2026-11-21'
+      locator: Published timestamp
+  listen link:
+  - value: https://soundcloud.com/langtunes/langtunes-no-beats-no-romance
+    references:
+    - source: soundcloud.com-langtunes-langtunes-no-beats-no-romance
+      quote: Stream No Beats, No Romance by Langtunes | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Track page title
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-000010482916-731ngo-t500x500.jpg
+    qualifiers:
+      credit:
+        text: Langtunes, via SoundCloud
+        language: en
+    references:
+    - source: soundcloud.com-langtunes-langtunes-no-beats-no-romance
+      quote: https://i1.sndcdn.com/artworks-000010482916-731ngo-t500x500.jpg
+      accessed: '2026-11-21'
+      locator: Artist-supplied track artwork in page metadata

@@ -9,12 +9,14 @@ statements:
     - source: temp-illusion.bandcamp.com-album-autolected
       quote: Autolected
       accessed: '2026-11-21'
+      locator: Release heading
   performer:
   - value: Q8tq6bc
     references:
     - source: temp-illusion.bandcamp.com-album-autolected
       quote: Autolected | Temp-Illusion
       accessed: '2026-11-21'
+      locator: Page title
   release date:
   - value:
       date: '2019-02-15'
@@ -22,26 +24,31 @@ statements:
     - source: temp-illusion.bandcamp.com-album-autolected
       quote: released February 15, 2019
       accessed: '2026-11-21'
+      locator: Release credits
   listen link:
   - value: https://temp-illusion.bandcamp.com/album/autolected
     references:
     - source: temp-illusion.bandcamp.com-album-autolected
       quote: Autolected | Temp-Illusion
       accessed: '2026-11-21'
+      locator: Page title
   - value: https://music.apple.com/us/album/autolected/1464654383
     references:
     - source: music.apple.com-us-album-autolected-1464654383
       quote: ‎Autolected - Album by Temp-Illusion - Apple Music
       accessed: '2026-11-21'
+      locator: Page title
   cover art:
   - value: https://f4.bcbits.com/img/a3010295758_10.jpg
     references:
     - source: temp-illusion.bandcamp.com-album-autolected
       quote: https://f4.bcbits.com/img/a3010295758_10.jpg
       accessed: '2026-11-21'
+      locator: Full cover image linked from release page
     - source: temp-illusion.bandcamp.com-album-autolected
       quote: Arash Akbari
       accessed: '2026-11-21'
+      locator: Release credits
     qualifiers:
       credit:
         text: Arash Akbari
@@ -52,12 +59,14 @@ statements:
     - source: montreal.mutek.org-en-artists-temp-illusion-amir-b-ash
       quote: “Autolected '' and “Pend '' on Zabte Sote label
       accessed: '2026-11-21'
+      locator: Artist biography
   contributor:
   - value: Qtwwfrd
     references:
     - source: temp-illusion.bandcamp.com-album-autolected
       quote: Composed and produced by Shahin Entezami / Behrang Najafi
       accessed: '2026-11-21'
+      locator: Release credits
     qualifiers:
       role:
       - composer
@@ -67,6 +76,7 @@ statements:
     - source: temp-illusion.bandcamp.com-album-autolected
       quote: Composed and produced by Shahin Entezami / Behrang Najafi
       accessed: '2026-11-21'
+      locator: Release credits
     qualifiers:
       role:
       - composer
@@ -76,6 +86,7 @@ statements:
     - source: temp-illusion.bandcamp.com-album-autolected
       quote: Mastered by Stephen Bishop
       accessed: '2026-11-21'
+      locator: Release credits
     qualifiers:
       role:
       - mastering engineer
@@ -85,6 +96,8 @@ statements:
     - source: temp-illusion.bandcamp.com-album-autolected
       quote: Recordings are taken from SETxCTM performance in Tehran - 27th July 2018
       accessed: '2026-11-21'
+      locator: About
     - source: temp-illusion.bandcamp.com-album-autolected
       quote: Digital Album
       accessed: '2026-11-21'
+      locator: Download format

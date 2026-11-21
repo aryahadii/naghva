@@ -1,0 +1,61 @@
+id: Q2gydck
+type: release
+statements:
+  name:
+  - value:
+      text: Construction Of Insomnia
+      language: en
+    references:
+    - source: temp-illusion.bandcamp.com-track-construction-of-insomnia
+      quote: Construction Of Insomnia
+      accessed: '2026-11-21'
+      locator: Track heading
+  performer:
+  - value: Q8tq6bc
+    references:
+    - source: temp-illusion.bandcamp.com-track-construction-of-insomnia
+      quote: Construction Of Insomnia | Temp-Illusion
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2020-03-06'
+    references:
+    - source: temp-illusion.bandcamp.com-track-construction-of-insomnia
+      quote: released March 6, 2020
+      accessed: '2026-11-21'
+      locator: Release credits
+  listen link:
+  - value: https://temp-illusion.bandcamp.com/track/construction-of-insomnia
+    references:
+    - source: temp-illusion.bandcamp.com-track-construction-of-insomnia
+      quote: Construction Of Insomnia | Temp-Illusion
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/construction-of-insomnia/1499797074
+    references:
+    - source: music.apple.com-us-song-construction-of-insomnia-1499797074
+      quote: ‎Construction of Insomnia - Song with Lyrics by Temp-Illusion - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/0ITel5JLDOYuEwWdlj8Xdj
+    references:
+    - source: open.spotify.com-track-0itel5jldoyuewwdlj8xdj
+      quote: Construction Of Insomnia - song and lyrics by Temp-Illusion | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a0785385112_10.jpg
+    references:
+    - source: temp-illusion.bandcamp.com-track-construction-of-insomnia
+      quote: https://f4.bcbits.com/img/a0785385112_10.jpg
+      accessed: '2026-11-21'
+      locator: Full artwork linked on the track page
+    - source: temp-illusion.bandcamp.com-album-pend
+      quote: Amir B. Ash
+      accessed: '2026-11-21'
+      locator: Release credits
+    qualifiers:
+      credit:
+        text: Amir B. Ash
+        language: en

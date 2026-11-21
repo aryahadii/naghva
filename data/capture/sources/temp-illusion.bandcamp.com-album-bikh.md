@@ -1,5 +1,6 @@
 ---
 url: https://temp-illusion.bandcamp.com/album/bikh
+archive: "https://web.archive.org/web/20251230222351/https://temp-illusion.bandcamp.com/album/bikh"
 title: BIKH | Temp-Illusion
 kind: web page
 language: en

@@ -1,0 +1,52 @@
+id: Q368czx
+type: release
+statements:
+  name:
+  - value:
+      text: Macabre
+      language: en
+    references:
+    - source: zabtesote.bandcamp.com-track-macabre-2
+      quote: Temp-Illusion - Macabre
+      accessed: '2026-11-21'
+      locator: Track heading
+  performer:
+  - value: Q8tq6bc
+    references:
+    - source: zabtesote.bandcamp.com-track-macabre-2
+      quote: Macabre | Temp-Illusion | Zabte Sote
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2018-08-17'
+    references:
+    - source: zabtesote.bandcamp.com-track-macabre-2
+      quote: released August 17, 2018
+      accessed: '2026-11-21'
+      locator: Release credits
+  listen link:
+  - value: https://zabtesote.bandcamp.com/track/macabre-2
+    references:
+    - source: zabtesote.bandcamp.com-track-macabre-2
+      quote: Macabre | Temp-Illusion | Zabte Sote
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a4150637133_10.jpg
+    references:
+    - source: zabtesote.bandcamp.com-track-macabre-2
+      quote: https://f4.bcbits.com/img/a4150637133_10.jpg
+      accessed: '2026-11-21'
+      locator: Full artwork linked on the track page
+    qualifiers:
+      credit:
+        text: Zabte Sote
+        language: en
+  published by:
+  - value: Qgz8y9m
+    references:
+    - source: zabtesote.bandcamp.com-track-macabre-2
+      quote: Macabre | Temp-Illusion | Zabte Sote
+      accessed: '2026-11-21'
+      locator: Page title

@@ -1,0 +1,45 @@
+id: Qrhn9rp
+type: release
+statements:
+  name:
+  - value:
+      text: The Rush
+      language: en
+    references:
+    - source: soundcloud.com-langtunes-the-rush
+      quote: Stream The Rush by Langtunes | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Track page title
+  performer:
+  - value: Qg4z85j
+    references:
+    - source: soundcloud.com-langtunes-the-rush
+      quote: Stream The Rush by Langtunes | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Track page title
+  release date:
+  - value:
+      date: '2013-12-16'
+    references:
+    - source: soundcloud.com-langtunes-the-rush
+      quote: '2013-12-16T21:08:49Z'
+      accessed: '2026-11-21'
+      locator: Published timestamp
+  listen link:
+  - value: https://soundcloud.com/langtunes/the-rush
+    references:
+    - source: soundcloud.com-langtunes-the-rush
+      quote: Stream The Rush by Langtunes | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Track page title
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-000065526140-jnltgy-t500x500.jpg
+    qualifiers:
+      credit:
+        text: Langtunes, via SoundCloud
+        language: en
+    references:
+    - source: soundcloud.com-langtunes-the-rush
+      quote: https://i1.sndcdn.com/artworks-000065526140-jnltgy-t500x500.jpg
+      accessed: '2026-11-21'
+      locator: Artist-supplied track artwork in page metadata

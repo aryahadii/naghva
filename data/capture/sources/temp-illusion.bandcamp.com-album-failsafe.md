@@ -1,5 +1,6 @@
 ---
 url: https://temp-illusion.bandcamp.com/album/failsafe
+archive: "https://web.archive.org/web/20250922143639/https://temp-illusion.bandcamp.com/album/failsafe"
 title: failsafe | Temp-Illusion
 kind: web page
 language: en

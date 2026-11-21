@@ -7,6 +7,7 @@ tier: journalism
 about:
 - Langtunes
 status: processed
+archive: https://web.archive.org/web/20260813002411/https://www.deutschlandfunkkultur.de/langtunes-verbotener-indie-rock-aus-dem-iran-100.html
 ---
 
 > nach Deutschland gereist, um hier ihr Debütalbum "Teherantor" aufzunehmen

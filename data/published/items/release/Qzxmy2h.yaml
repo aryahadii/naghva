@@ -1,0 +1,49 @@
+id: Qzxmy2h
+type: release
+statements:
+  name:
+  - value:
+      text: Speedy Monks
+      language: en
+    references:
+    - source: soundcloud.com-langtunes-speedy-monks
+      quote: Stream Speedy Monks by Langtunes | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Track page title
+  performer:
+  - value: Qg4z85j
+    references:
+    - source: soundcloud.com-langtunes-speedy-monks
+      quote: Stream Speedy Monks by Langtunes | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Track page title
+  release date:
+  - value:
+      date: '2014-05-24'
+    references:
+    - source: soundcloud.com-langtunes-speedy-monks
+      quote: '2014-05-24T13:34:02Z'
+      accessed: '2026-11-21'
+      locator: Published timestamp
+  listen link:
+  - value: https://soundcloud.com/langtunes/speedy-monks
+    references:
+    - source: soundcloud.com-langtunes-speedy-monks
+      quote: Stream Speedy Monks by Langtunes | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Track page title
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-000080363534-jzhnx3-t500x500.jpg
+    qualifiers:
+      credit:
+        text: Farshad Kh N
+        language: en
+    references:
+    - source: soundcloud.com-langtunes-speedy-monks
+      quote: https://i1.sndcdn.com/artworks-000080363534-jzhnx3-t500x500.jpg
+      accessed: '2026-11-21'
+      locator: Artist-supplied track artwork in page metadata
+    - source: soundcloud.com-langtunes-speedy-monks
+      quote: 'Artwork: Farshad Kh N'
+      accessed: '2026-11-21'
+      locator: Artwork credit in the description

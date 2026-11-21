@@ -9,12 +9,14 @@ statements:
     - source: temp-illusion.bandcamp.com-album-pend-reworks
       quote: PEND [Reworks]
       accessed: '2026-11-21'
+      locator: Release heading
   performer:
   - value: Q8tq6bc
     references:
     - source: temp-illusion.bandcamp.com-album-pend-reworks
       quote: PEND [Reworks] | Temp-Illusion
       accessed: '2026-11-21'
+      locator: Page title
   release date:
   - value:
       date: '2021-09-24'
@@ -22,26 +24,31 @@ statements:
     - source: temp-illusion.bandcamp.com-album-pend-reworks
       quote: released September 24, 2021
       accessed: '2026-11-21'
+      locator: Release credits
   listen link:
   - value: https://temp-illusion.bandcamp.com/album/pend-reworks
     references:
     - source: temp-illusion.bandcamp.com-album-pend-reworks
       quote: PEND [Reworks] | Temp-Illusion
       accessed: '2026-11-21'
+      locator: Page title
   - value: https://music.apple.com/us/album/pend-reworks/1585821592
     references:
     - source: music.apple.com-us-album-pend-reworks-1585821592
       quote: ‎Pend (Reworks) - Album by Temp-Illusion - Apple Music
       accessed: '2026-11-21'
+      locator: Page title
   cover art:
   - value: https://f4.bcbits.com/img/a2607880486_10.jpg
     references:
     - source: temp-illusion.bandcamp.com-album-pend-reworks
       quote: https://f4.bcbits.com/img/a2607880486_10.jpg
       accessed: '2026-11-21'
+      locator: Full cover image linked from release page
     - source: temp-illusion.bandcamp.com-album-pend-reworks
       quote: Amir B. Ashrafzadeh
       accessed: '2026-11-21'
+      locator: Release credits
     qualifiers:
       credit:
         text: Amir B. Ashrafzadeh
@@ -52,12 +59,14 @@ statements:
     - source: insomniafestival.no-artist-temp-illusion
       quote: a remix album “Pend [reworks]” on Opal Tapes|Zabte Sote
       accessed: '2026-11-21'
+      locator: 2025 biography
   contributor:
   - value: Qtwwfrd
     references:
     - source: temp-illusion.bandcamp.com-album-pend-reworks
       quote: Composed and produced by Shahin Entezami / Behrang Najafi
       accessed: '2026-11-21'
+      locator: Release credits
     qualifiers:
       role:
       - composer
@@ -67,6 +76,7 @@ statements:
     - source: temp-illusion.bandcamp.com-album-pend-reworks
       quote: Composed and produced by Shahin Entezami / Behrang Najafi
       accessed: '2026-11-21'
+      locator: Release credits
     qualifiers:
       role:
       - composer
@@ -76,6 +86,7 @@ statements:
     - source: temp-illusion.bandcamp.com-album-pend-reworks
       quote: Mastering by Nima Aghiani
       accessed: '2026-11-21'
+      locator: Release credits
     qualifiers:
       role:
       - mastering engineer

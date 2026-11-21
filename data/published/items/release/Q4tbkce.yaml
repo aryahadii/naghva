@@ -1,0 +1,45 @@
+id: Q4tbkce
+type: release
+statements:
+  name:
+  - value:
+      text: برای نوروز ۱۴۰۰
+      language: fa
+    references:
+    - source: www.youtube.com-watchv-jbkg5afxsfq
+      quote: برای نوروز ۱۴۰۰
+      accessed: '2026-11-21'
+      locator: Video title, channel and description
+  performer:
+  - value: Q38h8s7
+    references:
+    - source: www.youtube.com-watchv-jbkg5afxsfq
+      quote: Farzane Zamen
+      accessed: '2026-11-21'
+      locator: Video title, channel and description
+  listen link:
+  - value: https://www.youtube.com/watch?v=jbkg5afXSfQ
+    references:
+    - source: www.youtube.com-watchv-jbkg5afxsfq
+      quote: برای نوروز ۱۴۰۰
+      accessed: '2026-11-21'
+      locator: Video title, channel and description
+  cover art:
+  - value: https://i.ytimg.com/vi/jbkg5afXSfQ/maxresdefault.jpg
+    references:
+    - source: www.youtube.com-watchv-jbkg5afxsfq
+      quote: https://i.ytimg.com/vi/jbkg5afXSfQ/maxresdefault.jpg
+      accessed: '2026-11-21'
+      locator: Video thumbnail URL, YouTube metadata
+    qualifiers:
+      credit:
+        text: Farzane Zamen, via YouTube
+        language: en
+  release date:
+  - value:
+      date: '2021-03-25'
+    references:
+    - source: www.youtube.com-watchv-jbkg5afxsfq
+      quote: '20210325'
+      accessed: '2026-11-21'
+      locator: Video upload date (YouTube metadata, YYYYMMDD)

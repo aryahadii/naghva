@@ -1,5 +1,6 @@
 ---
 url: https://temp-illusion.bandcamp.com/album/pend
+archive: "https://web.archive.org/web/20240601205101/https://temp-illusion.bandcamp.com/album/pend"
 title: PEND | Temp-Illusion
 kind: web page
 language: en

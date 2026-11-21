@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/farzanezamen/forbidden-voices
+archive: https://web.archive.org/web/20230426162433/https://soundcloud.com/farzanezamen/forbidden-voices
 title: Forbidden Voices
 kind: music catalogue
 tier: own
@@ -14,3 +15,11 @@ Track heading and account. Read 2026-11-21.
 > Forbidden Voices
 
 > Farzane Zamen
+
+Publication timestamp on this upload. Read 2026-11-21.
+
+> 2018-05-18T17:17:15Z
+
+Track artwork in Open Graph image metadata. Read 2026-11-21.
+
+> https://i1.sndcdn.com/artworks-000349893072-fmev0l-t500x500.jpg

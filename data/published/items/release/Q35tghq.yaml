@@ -6,8 +6,7 @@ statements:
       text: Dance With Us
       language: en
     references:
-    - &id001
-      source: soundcloud.com-farzanezamen-dance-with-us
+    - source: soundcloud.com-farzanezamen-dance-with-us
       quote: Dance With Us
       accessed: '2026-11-21'
       locator: Track heading and account
@@ -21,7 +20,10 @@ statements:
   listen link:
   - value: https://soundcloud.com/farzanezamen/dance-with-us
     references:
-    - *id001
+    - source: soundcloud.com-farzanezamen-dance-with-us
+      quote: Dance With Us
+      accessed: '2026-11-21'
+      locator: Track heading and account
   - value: https://open.spotify.com/track/0Qu8SlhY7LqBW5C4NxdTgr
     references:
     - source: open.spotify.com-album-5wnw44qixpps7bii0yqmi6
@@ -29,6 +31,13 @@ statements:
       accessed: '2026-11-21'
       locator: EP heading and five-track listing
   cover art:
-  - value: https://i1.sndcdn.com/artworks-000349893090-kwsmxh-large.jpg
+  - value: https://i1.sndcdn.com/artworks-000349893090-kwsmxh-t500x500.jpg
     references:
-    - *id001
+    - source: soundcloud.com-farzanezamen-dance-with-us
+      quote: https://i1.sndcdn.com/artworks-000349893090-kwsmxh-t500x500.jpg
+      accessed: '2026-11-21'
+      locator: Track artwork in Open Graph image metadata
+    qualifiers:
+      credit:
+        text: Farzane Zamen, via SoundCloud
+        language: en

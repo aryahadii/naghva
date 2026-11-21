@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/farzanezamen/tracks
+archive: https://web.archive.org/web/20230426162434/https://soundcloud.com/farzanezamen/tracks
 title: Farzane Zamen’s tracks
 kind: music catalogue
 tier: own

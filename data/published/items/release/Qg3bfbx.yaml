@@ -9,12 +9,14 @@ statements:
     - source: temp-illusion.bandcamp.com-album-vittrine
       quote: Vittrine
       accessed: '2026-11-21'
+      locator: Release heading
   performer:
   - value: Q8tq6bc
     references:
     - source: temp-illusion.bandcamp.com-album-vittrine
       quote: Vittrine | Temp-Illusion
       accessed: '2026-11-21'
+      locator: Page title
   release date:
   - value:
       date: '2026-09-15'
@@ -22,31 +24,37 @@ statements:
     - source: temp-illusion.bandcamp.com-album-vittrine
       quote: released September 15, 2026
       accessed: '2026-11-21'
+      locator: Release credits
   listen link:
   - value: https://temp-illusion.bandcamp.com/album/vittrine
     references:
     - source: temp-illusion.bandcamp.com-album-vittrine
       quote: Vittrine | Temp-Illusion
       accessed: '2026-11-21'
+      locator: Page title
   - value: https://music.apple.com/us/album/vittrine-ep/6812451891
     references:
     - source: music.apple.com-us-album-vittrine-ep-6812451891
       quote: ‎Vittrine - EP - Album by Temp-Illusion - Apple Music
       accessed: '2026-11-21'
+      locator: Page title
   - value: https://open.spotify.com/album/3zQz9MdhdqkOyPgRDnIvOD
     references:
     - source: open.spotify.com-album-3zqz9mdhdqkoypgrdnivod
       quote: Listen to Vittrine - EP by Temp-Illusion | Spotify
       accessed: '2026-11-21'
+      locator: Page title
   cover art:
   - value: https://f4.bcbits.com/img/a2541378858_10.jpg
     references:
     - source: temp-illusion.bandcamp.com-album-vittrine
       quote: https://f4.bcbits.com/img/a2541378858_10.jpg
       accessed: '2026-11-21'
+      locator: Full cover image linked from release page
     - source: temp-illusion.bandcamp.com-album-vittrine
       quote: lil.evian
       accessed: '2026-11-21'
+      locator: Release credits
     qualifiers:
       credit:
         text: lil.evian
@@ -57,12 +65,14 @@ statements:
     - source: temp-illusion.bandcamp.com-album-vittrine
       quote: 2026 Paradoxe Club
       accessed: '2026-11-21'
+      locator: Release credits
   contributor:
   - value: Q8tq6bc
     references:
     - source: temp-illusion.bandcamp.com-album-vittrine
       quote: Written and produced by Temp-Illusion
       accessed: '2026-11-21'
+      locator: Release credits
     qualifiers:
       role:
       - producer
@@ -73,3 +83,4 @@ statements:
     - source: music.apple.com-us-album-vittrine-ep-6812451891
       quote: ‎Vittrine - EP - Album by Temp-Illusion - Apple Music
       accessed: '2026-11-21'
+      locator: Page title

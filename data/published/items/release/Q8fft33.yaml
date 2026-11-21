@@ -6,8 +6,7 @@ statements:
       text: Maadar
       language: en
     references:
-    - &id001
-      source: soundcloud.com-farzanezamen-maadar
+    - source: soundcloud.com-farzanezamen-maadar
       quote: Farzane Zamen - Maadar
       accessed: '2026-11-21'
       locator: Track heading and account
@@ -21,8 +20,26 @@ statements:
   listen link:
   - value: https://soundcloud.com/farzanezamen/maadar
     references:
-    - *id001
+    - source: soundcloud.com-farzanezamen-maadar
+      quote: Farzane Zamen - Maadar
+      accessed: '2026-11-21'
+      locator: Track heading and account
   cover art:
-  - value: https://i1.sndcdn.com/artworks-6XsDtToWO9NvcgD0-NUrf9A-large.jpg
+  - value: https://i1.sndcdn.com/artworks-6XsDtToWO9NvcgD0-NUrf9A-t500x500.jpg
     references:
-    - *id001
+    - source: soundcloud.com-farzanezamen-maadar
+      quote: https://i1.sndcdn.com/artworks-6XsDtToWO9NvcgD0-NUrf9A-t500x500.jpg
+      accessed: '2026-11-21'
+      locator: Track artwork in Open Graph image metadata
+    qualifiers:
+      credit:
+        text: Farzane Zamen, via SoundCloud
+        language: en
+  release date:
+  - value:
+      date: '2022'
+    references:
+    - source: soundcloud.com-farzanezamen-maadar
+      quote: '2022-02-22T17:23:58Z'
+      accessed: '2026-11-21'
+      locator: Publication timestamp on this upload

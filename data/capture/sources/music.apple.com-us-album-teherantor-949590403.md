@@ -24,3 +24,39 @@ Square album cover in the picture element, read 2026-11-21.
 > ℗ 2014 PARVENUE RECORDS
 
 Album copyright, read 2026-11-21.
+
+> The Beginning
+
+Track 1 in album catalogue data, read 2026-11-21.
+
+> Tale of the Weary Heads
+
+Track 2 in album catalogue data, read 2026-11-21.
+
+> The Rush
+
+Track 3 in album catalogue data, read 2026-11-21.
+
+> One Day You Will
+
+Track 4 in album catalogue data, read 2026-11-21.
+
+> Teherantor
+
+Track 5 in album catalogue data, read 2026-11-21.
+
+> Stars In Your Eyes
+
+Track 6 in album catalogue data, read 2026-11-21.
+
+> Transparent Thoughts
+
+Track 7 in album catalogue data, read 2026-11-21.
+
+> Speedy Monks
+
+Track 8 in album catalogue data, read 2026-11-21.
+
+> Estatic Dilemma
+
+Track 9 in album catalogue data, read 2026-11-21.
