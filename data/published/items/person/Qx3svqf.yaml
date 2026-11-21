@@ -3,6 +3,13 @@ type: person
 statements:
   name:
   - value:
+      text: یاس
+      language: fa
+    references:
+    - source: fa.wikipedia.org-wiki-yas-singer
+      quote: یاسر بختیاری با نام هنری یاس، در ۳۰ خرداد ۱۳۶۱ متولد شد.
+      accessed: '2026-11-21'
+  - value:
       text: Yas
       language: en
     references:
