@@ -32,6 +32,18 @@ statements:
       quote: Flock
       accessed: 2026-11-21
       locator: Track 3
+  - value: https://music.apple.com/us/song/flock/274511976
+    references:
+    - source: music.apple.com-us-album-ahoora-274511856
+      quote: Flock
+      accessed: '2026-11-21'
+      locator: Album track 3
+  - value: https://open.spotify.com/track/2NFDsevmupCtHNcK4ol7e0
+    references:
+    - source: open.spotify.com-embed-album-6zjllqzjqkdpnpdopomtd8
+      quote: Flock
+      accessed: '2026-11-21'
+      locator: Album track 3
   cover art:
   - value: https://f4.bcbits.com/img/a3952380516_2.jpg
     references:

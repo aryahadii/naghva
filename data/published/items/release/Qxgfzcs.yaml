@@ -32,6 +32,18 @@ statements:
       quote: The Journeyman
       accessed: 2026-11-21
       locator: Track 6
+  - value: https://music.apple.com/us/song/the-journeyman/6800489041
+    references:
+    - source: music.apple.com-us-album-all-in-blood-with-you-6800488764
+      quote: The Journeyman
+      accessed: '2026-11-21'
+      locator: Album track 6
+  - value: https://open.spotify.com/track/29V4QyNmyGCD4J0EYDJLRu
+    references:
+    - source: open.spotify.com-embed-album-04f7ydjdrsosxh0kgzayhn
+      quote: The Journeyman
+      accessed: '2026-11-21'
+      locator: Album track 6
   cover art:
   - value: https://f4.bcbits.com/img/a3394950586_2.jpg
     references:

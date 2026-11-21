@@ -30,6 +30,12 @@ statements:
       quote: ‎Breathe Again - Song with Lyrics by NUM - Apple Music
       accessed: '2026-11-21'
       locator: Page title
+  - value: https://open.spotify.com/track/1YgZS3YuXiU0EhIkjRkod9
+    references:
+    - source: open.spotify.com-track-1ygzs3yuxiu0ehikjrkod9
+      quote: Breathe Again - song and lyrics by NUM | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
   release date:
   - value:
       date: '2025-12-18'

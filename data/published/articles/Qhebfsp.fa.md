@@ -155,6 +155,16 @@ references:
     quote: Return to Shiraz
     accessed: '2026-11-21'
     locator: Track heading
+  apra-work:
+    source: www.apraamcos.com.au-about-supporting-the-industry-awards-art-music-awards-2026
+    quote: Eishan Ensemble (Hamed Sadeghi, Michael Avgenicos, Max Alduca and Adem Yilmaz)
+    accessed: '2026-11-21'
+    locator: 'Work of the Year: Jazz & Improvised Music, Finalists, Northern Rhapsody'
+  apra-category:
+    source: www.apraamcos.com.au-about-supporting-the-industry-awards-art-music-awards-2026
+    quote: 'Work of the Year: Jazz & Improvised Music'
+    accessed: '2026-11-21'
+    locator: 'Work of the Year: Jazz & Improvised Music, Finalists, Northern Rhapsody'
 ---
 
 گروه ایرانی‌استرالیایی ایشان در سال ۲۰۱۶ در سیدنی شکل گرفت. حامد صادقی، آهنگساز و نوازندهٔ تارِ زادهٔ ایران، سرپرست گروه است. اعضای ایشان بیشتر ساخته‌های صادقی را می‌نوازند و در اجرای آن‌ها بداهه‌پردازی می‌کنند. در ترکیب چهارنفرهٔ گروه، مایکل آوگنیکوس با ساکسوفون، آدم ییلماز با سازهای کوبه‌ای و ماکسیمیلیان آلدوکا با کنترباس، تار صادقی را همراهی می‌کنند.[^blue-year][^formation-scope][^sbsaria-ham][^blue-leader][^blue-pieces][^own-core]
@@ -169,4 +179,4 @@ references:
 
 صادقی برای [«پروژه مثنوی»](#project-masnavi-wac) از شعر مولانا الهام گرفت. مارچلو مایو در این آلبوم آکاردئون نواخت. برای صادقی، باز و بسته شدن دمِ آکاردئون ضربان قلب را تداعی می‌کرد و او را به یاد عشق در شعر مولانا می‌انداخت. گروه این اثر را در مه ۲۰۲۱ در تالار اپرای سیدنی برای نخستین بار روی صحنه برد. در همان سال، این آلبوم نامزد جایزهٔ آریا در بخش بهترین آلبوم موسیقی ملل شد.[^premiere-rumi][^sbs-mas][^premiere-accordion][^bc-project-masnavi-performermarcello][^premiere-dates][^own-aria][^aria-nominee]
 
-سفرهای گروه برای اجرای کنسرت در نواحی گوناگون نیو ساوت ولز در شکل‌گیری آلبوم [«Northern Rhapsody»](#northern-rhapsody-dp7) در سال ۲۰۲۵ نقش داشت. صادقی می‌گفت برای یافتن سکوتی که در این نواحی تجربه کرده بود، در تهران باید راهی کوه می‌شد. قطعهٔ «Tehran» آغازگر آلبوم است و «Return to Shiraz» آخرین قطعهٔ آن.[^bc-northern-rhapsody-regional][^bc-northern-rhapsody-quiet][^bc-northern-rhapsody-date][^track-tehran-title][^track-return-to-shiraz-title]
+سفرهای گروه برای اجرای کنسرت در نواحی گوناگون نیو ساوت ولز در شکل‌گیری آلبوم [«Northern Rhapsody»](#northern-rhapsody-dp7) در سال ۲۰۲۵ نقش داشت. صادقی می‌گفت برای یافتن سکوتی که در این نواحی تجربه کرده بود، در تهران باید راهی کوه می‌شد. قطعهٔ «Tehran» آغازگر آلبوم است و «Return to Shiraz» آخرین قطعهٔ آن.[^bc-northern-rhapsody-regional][^bc-northern-rhapsody-quiet][^bc-northern-rhapsody-date][^track-tehran-title][^track-return-to-shiraz-title] در سال ۲۰۲۶ این اثر در بخش جاز و موسیقی بداههٔ جوایز موسیقی هنری استرالیا به مرحلهٔ نهایی رسید.[^apra-work][^apra-category]

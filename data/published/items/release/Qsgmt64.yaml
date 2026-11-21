@@ -56,3 +56,20 @@ statements:
       credit:
         text: Bandcamp · NUM
         language: en
+  contributor:
+  - value: Qj24qcs
+    references:
+    - source: numduo.bandcamp.com-album-false-awakening
+      quote: 'Milad Bagheri: Composer, Audio Engineering, Electronics'
+      accessed: '2026-11-21'
+      locator: Album credits
+    qualifiers:
+      role: composer
+  - value: Q6zbcxw
+    references:
+    - source: numduo.bandcamp.com-album-false-awakening
+      quote: 'Maryam Sirvan: Composer, Voice, Text, Electric Guitar, Field Recordings, Electronics'
+      accessed: '2026-11-21'
+      locator: Album credits
+    qualifiers:
+      role: composer

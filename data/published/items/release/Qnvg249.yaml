@@ -50,6 +50,18 @@ statements:
       quote: Ahoora
       accessed: 2026-11-21
       locator: Release heading
+  - value: https://music.apple.com/us/album/ahoora/274511856
+    references:
+    - source: music.apple.com-us-album-ahoora-274511856
+      quote: Ahoora - Album by Ahoora - Apple Music
+      accessed: '2026-11-21'
+      locator: Album page title
+  - value: https://open.spotify.com/album/6zjLLqZJQKDPnPdOPomtd8
+    references:
+    - source: open.spotify.com-embed-album-6zjllqzjqkdpnpdopomtd8
+      quote: Ahoora
+      accessed: '2026-11-21'
+      locator: Album heading
   cover art:
   - value: https://f4.bcbits.com/img/a3952380516_2.jpg
     references:

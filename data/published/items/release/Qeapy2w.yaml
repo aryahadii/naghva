@@ -30,6 +30,12 @@ statements:
       quote: ‎Old Machine - Song with Lyrics by NUM - Apple Music
       accessed: '2026-11-21'
       locator: Page title
+  - value: https://open.spotify.com/track/4u3uD6rNDYwqGbaR0DFuDu
+    references:
+    - source: open.spotify.com-track-4u3ud6rndywqgbar0dfudu
+      quote: Old Machine - song and lyrics by NUM | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
   release date:
   - value:
       date: '2025-12-18'

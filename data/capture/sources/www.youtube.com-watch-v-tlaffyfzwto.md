@@ -17,3 +17,11 @@ Recording title, read 2026-11-21.
 > NUM - Run Till You Die ( Live at DIVExFabrika ) - YouTube
 
 Page title, read 2026-11-21.
+
+> 2018-03-17T05:21:44-07:00
+
+Video publication date, read 2026-11-21.
+
+> https://i.ytimg.com/vi/tLaFFYFzwTo/maxresdefault.jpg
+
+Release artwork, read 2026-11-21.

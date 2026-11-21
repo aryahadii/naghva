@@ -62,3 +62,12 @@ statements:
       credit:
         text: Bandcamp · Maryam Sirvan
         language: en
+  contributor:
+  - value: Qj24qcs
+    references:
+    - source: numduo.bandcamp.com-album-songs-of-an-empty-room
+      quote: Additional engineering by Milad Bagheri
+      accessed: '2026-11-21'
+      locator: Album credits
+    qualifiers:
+      role: recording engineer

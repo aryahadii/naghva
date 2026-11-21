@@ -18,6 +18,14 @@ statements:
       quote: Esme kouchik
       accessed: '2026-11-21'
       locator: Artist release or track heading
+  - value:
+      text: Esme kouchik   اسم کوچیک
+      language: en
+    references:
+    - source: soundcloud.com-babackrajabi-esme-kouchik
+      quote: Esme kouchik   اسم کوچیک
+      accessed: '2026-11-21'
+      locator: Title on artist’s SoundCloud upload
   performer:
   - value: Qzhgpkw
     references:
@@ -63,6 +71,12 @@ statements:
       quote: Esme kouchik
       accessed: '2026-11-21'
       locator: Artist tracks page
+  - value: https://soundcloud.com/babackrajabi/esme-kouchik
+    references:
+    - source: soundcloud.com-babackrajabi-esme-kouchik
+      quote: Esme kouchik   اسم کوچیک
+      accessed: '2026-11-21'
+      locator: Title on artist’s SoundCloud upload
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7e/0d/4e/7e0d4ecb-be55-35b7-59b8-4c2877a82c61/artwork.jpg/632x632bb-60.jpg
     references:

@@ -18,6 +18,14 @@ statements:
       quote: Havas e panjganeh
       accessed: '2026-11-21'
       locator: Artist release or track heading
+  - value:
+      text: 6- Havas E Panjganeh حواس پنجگانه
+      language: en
+    references:
+    - source: soundcloud.com-babackrajabi-6-havas-e-panjganeh
+      quote: 6- Havas E Panjganeh حواس پنجگانه
+      accessed: '2026-11-21'
+      locator: Title on artist’s SoundCloud upload
   performer:
   - value: Qzhgpkw
     references:
@@ -57,6 +65,12 @@ statements:
       quote: Havas e panjganeh
       accessed: '2026-11-21'
       locator: Artist release or track heading
+  - value: https://soundcloud.com/babackrajabi/6-havas-e-panjganeh
+    references:
+    - source: soundcloud.com-babackrajabi-6-havas-e-panjganeh
+      quote: 6- Havas E Panjganeh حواس پنجگانه
+      accessed: '2026-11-21'
+      locator: Title on artist’s SoundCloud upload
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3a/81/2c/3a812c10-e381-cf87-7225-e28e93bc346c/artwork.jpg/632x632bb-60.jpg
     references:

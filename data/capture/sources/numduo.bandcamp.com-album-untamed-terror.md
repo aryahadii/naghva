@@ -14,6 +14,10 @@ status: processed
 
 Page title, read 2026-11-21.
 
+> Mastering by Milad Bagheri
+
+Album credits, read 2026-11-21.
+
 > Her debut album 'Untamed Terror'
 
 Artist account or release credits, read 2026-11-21.

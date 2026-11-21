@@ -80,6 +80,31 @@ references:
     quote: released July 10, 2024
     accessed: '2026-11-21'
     locator: Artist account or release credits
+  walk:
+    source: flamingpines.bandcamp.com-album-trans-placed
+    quote: Built from soundwalks, field recordings and electronics
+    accessed: '2026-11-21'
+    locator: Artist account or release credits
+  door:
+    source: flamingpines.bandcamp.com-album-trans-placed
+    quote: trans.placed starts with the simple act of opening a door.
+    accessed: '2026-11-21'
+    locator: Artist account or release credits
+  partner:
+    source: flamingpines.bandcamp.com-album-trans-placed
+    quote: By Hadi Bastani and Maryam Sirvan.
+    accessed: '2026-11-21'
+    locator: Release credits
+  towns:
+    source: cello-ray-r4ee.squarespace.com-radio-production
+    quote: original field recordings in Tbilisi and Berlin
+    accessed: '2026-11-21'
+    locator: Artist account or release credits
+  broadcast:
+    source: cello-ray-r4ee.squarespace.com-radio-production
+    quote: was broadcast on Deutschlandfunk Kultur throughout January 2022.
+    accessed: '2026-11-21'
+    locator: Artist account or release credits
 ---
 
 Maryam Sirvan is an Iranian composer, singer and sound artist born in 1986. A member of the electronic duo NUM since 2010, she also records under her own name. On her second solo album, [*Songs of an Empty Room*](#songs-of-an-empty-room-kn2), she built the music from just her voice and an electric guitar.[^bio][^duo][^second][^limited]
@@ -92,4 +117,4 @@ On NUM's *Memory Machine* she played flute, sang and worked with electronics. Sh
 
 ## Recording in Tbilisi
 
-Between 2019 and 2021 Sirvan recorded [*Feast On My Body*](#feast-on-my-body-rx3) in NUM’s studio in Tbilisi. She took the album title from words she had written for its closing track. Flag Day Recordings issued it in September 2021. In 2024 the Media Arts Committee released her piece [“Destroy All The Feelings”](#destroy-all-the-feelings-ydb) on its compilation *The Cracks are Showing*.[^record][^title][^label][^date][^media][^comp]
+Between 2019 and 2021 Sirvan recorded [*Feast On My Body*](#feast-on-my-body-rx3) in NUM’s studio in Tbilisi. She took the album title from words she had written for its closing track. Flag Day Recordings issued it in September 2021. In 2022 she and Hadi Bastani brought field recordings from Berlin and Tbilisi together in *trans.placed*. The sound of a door opening introduces their study of how a room changes what a listener hears. Deutschlandfunk Kultur broadcast the work that January.[^walk][^door][^partner][^towns][^broadcast] In 2024 the Media Arts Committee released her piece [“Destroy All The Feelings”](#destroy-all-the-feelings-ydb) on its compilation *The Cracks are Showing*.[^record][^title][^label][^date][^media][^comp]

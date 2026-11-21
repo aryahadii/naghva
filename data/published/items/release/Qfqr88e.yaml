@@ -30,6 +30,12 @@ statements:
       quote: ‎Is This The End? - Song with Lyrics by NUM - Apple Music
       accessed: '2026-11-21'
       locator: Page title
+  - value: https://open.spotify.com/track/4FT4rpJjYzjT0rX2RifV8F
+    references:
+    - source: open.spotify.com-track-4ft4rpjjyzjt0rx2rifv8f
+      quote: Is This The End? - song and lyrics by NUM | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
   release date:
   - value:
       date: '2025-12-18'

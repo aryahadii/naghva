@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=Jq6KLKyeE-g
+archive: https://web.archive.org/web/20230626163942/https://www.youtube.com/watch?v=Jq6KLKyeE-g
 title: کروناخوانی
 status: processed
 language: fa

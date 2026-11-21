@@ -1,0 +1,45 @@
+id: Qbcndzs
+type: release
+statements:
+  name:
+  - value:
+      text: The Man Living Inside
+      language: en
+    references:
+    - source: soundcloud.com-nummusic-the-man-living-inside
+      quote: The Man Living Inside
+      accessed: '2026-11-21'
+      locator: Recording title
+  performer:
+  - value: Qm4skc3
+    references:
+    - source: soundcloud.com-nummusic-the-man-living-inside
+      quote: Stream The Man Living Inside by NUM | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://soundcloud.com/nummusic/the-man-living-inside
+    references:
+    - source: soundcloud.com-nummusic-the-man-living-inside
+      quote: Stream The Man Living Inside by NUM | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2014-07-14'
+    references:
+    - source: soundcloud.com-nummusic-the-man-living-inside
+      quote: '2014-07-14T17:15:17Z'
+      accessed: '2026-11-21'
+      locator: SoundCloud release or upload date
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-000085158819-uv19ho-t500x500.jpg
+    references:
+    - source: soundcloud.com-nummusic-the-man-living-inside
+      quote: https://i1.sndcdn.com/artworks-000085158819-uv19ho-t500x500.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: NUM on SoundCloud
+        language: en

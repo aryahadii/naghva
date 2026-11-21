@@ -36,6 +36,12 @@ statements:
       quote: ‎Submerged - Song with Lyrics by NUM - Apple Music
       accessed: '2026-11-21'
       locator: Page title
+  - value: https://open.spotify.com/track/30APMaqBS8D3ZTKBYTtq71
+    references:
+    - source: open.spotify.com-track-30apmaqbs8d3ztkbyttq71
+      quote: Submerged - song and lyrics by NUM | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
   release date:
   - value:
       date: '2025-12-18'

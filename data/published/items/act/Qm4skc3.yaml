@@ -69,3 +69,9 @@ statements:
       quote: ‎NUM - Apple Music
       accessed: '2026-11-21'
       locator: Page title
+  - value: https://open.spotify.com/artist/1Xh5vSS8ij9LooUczHp137
+    references:
+    - source: open.spotify.com-artist-1xh5vss8ij9loouczhp137
+      quote: Listen to NUM Songs | Spotify
+      accessed: '2026-11-21'
+      locator: Page title

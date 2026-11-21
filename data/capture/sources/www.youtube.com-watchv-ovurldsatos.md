@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=oVURldSaTOs
+archive: https://web.archive.org/web/20220922175825/https://www.youtube.com/watch?v=oVURldSaTOs&feature=youtu.be
 title: Khale souske Babak Rajabiخاله سوسکه
 status: processed
 language: fa

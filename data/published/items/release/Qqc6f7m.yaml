@@ -1,0 +1,45 @@
+id: Qqc6f7m
+type: release
+statements:
+  name:
+  - value:
+      text: Babapakaram باباپکرم
+      language: en
+    references:
+    - source: soundcloud.com-babackrajabi-babapakaram
+      quote: Babapakaram باباپکرم
+      accessed: '2026-11-21'
+      locator: Title on artist’s SoundCloud upload
+  performer:
+  - value: Qzhgpkw
+    references:
+    - source: soundcloud.com-babackrajabi-babapakaram
+      quote: Babak Rajabi
+      accessed: '2026-11-21'
+      locator: Artist profile name
+  release date:
+  - value:
+      date: '2023-07-24'
+    references:
+    - source: soundcloud.com-babackrajabi-babapakaram
+      quote: '2023-07-24'
+      accessed: '2026-11-21'
+      locator: SoundCloud upload date
+  listen link:
+  - value: https://soundcloud.com/babackrajabi/babapakaram
+    references:
+    - source: soundcloud.com-babackrajabi-babapakaram
+      quote: Babapakaram باباپکرم
+      accessed: '2026-11-21'
+      locator: Title on artist’s SoundCloud upload
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-ZoM5AHqWZinikBxQ-dqaS3A-large.jpg
+    references:
+    - source: soundcloud.com-babackrajabi-babapakaram
+      quote: https://i1.sndcdn.com/artworks-ZoM5AHqWZinikBxQ-dqaS3A-large.jpg
+      accessed: '2026-11-21'
+      locator: Artist-uploaded track artwork URL
+    qualifiers:
+      credit:
+        text: Babak Rajabi · SoundCloud
+        language: en

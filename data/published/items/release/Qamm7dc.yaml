@@ -1,0 +1,27 @@
+id: Qamm7dc
+type: release
+statements:
+  name:
+  - value:
+      text: Mirrored
+      language: en
+    references:
+    - source: www.numduo.com-mirrored
+      quote: Mirrored
+      accessed: '2026-11-21'
+      locator: Recording title
+  performer:
+  - value: Qm4skc3
+    references:
+    - source: www.numduo.com-mirrored
+      quote: Mirrored | NUM
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2017'
+    references:
+    - source: www.numduo.com-mirrored
+      quote: '2017'
+      accessed: '2026-11-21'
+      locator: Performance or exhibition date

@@ -1,0 +1,65 @@
+id: Qzqh5ye
+type: release
+statements:
+  name:
+  - value:
+      text: Parcham
+      language: en
+    references:
+    - source: music.apple.com-us-album-parcham-single-701254991
+      quote: Parcham - Single · Abjeez
+      accessed: 2026-11-21
+      locator: Album title and artist on Apple Music
+  performer:
+  - value: Qny2s3x
+    references:
+    - source: music.apple.com-us-album-parcham-single-701254991
+      quote: Parcham - Single · Abjeez
+      accessed: 2026-11-21
+      locator: Album title and artist on Apple Music
+  listen link:
+  - value: https://music.apple.com/us/album/parcham-single/701254991
+    references:
+    - source: music.apple.com-us-album-parcham-single-701254991
+      quote: Parcham - Single · Abjeez
+      accessed: 2026-11-21
+      locator: Album title and artist on Apple Music
+  - value: https://music.apple.com/us/song/parcham/701255058
+    references:
+    - source: music.apple.com-us-album-parcham-single-701254991
+      quote: Parcham
+      accessed: 2026-11-21
+      locator: Apple Music track listing
+  - value: https://open.spotify.com/album/0Xnske9WLrPC4zU7JPL6rm
+    references:
+    - source: open.spotify.com-album-0xnske9wlrpc4zu7jpl6rm
+      quote: Parcham
+      accessed: 2026-11-21
+      locator: Album heading
+  - value: https://open.spotify.com/track/2v24x299GWOiGYTTStTqQM
+    references:
+    - source: open.spotify.com-album-0xnske9wlrpc4zu7jpl6rm
+      quote: Parcham · Abjeez
+      accessed: 2026-11-21
+      locator: Spotify track title and performer
+  - value: https://www.youtube.com/watch?v=yUnpPw0NdWk
+    references:
+    - source: www.youtube.com-abjeez-videos
+      quote: ABJEEZ - Parcham (Flag) | Official Music Video (2013)
+      accessed: 2026-11-21
+      locator: Videos, upload yUnpPw0NdWk
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music/v4/34/a3/b9/34a3b96b-afdc-f686-e42b-f2fb1a1c5c0c/888174128405.jpg/632x632bb-60.jpg
+    references:
+    - source: music.apple.com-us-album-parcham-single-701254991
+      quote: Parcham - Single · Abjeez
+      accessed: 2026-11-21
+      locator: Album title and artist on Apple Music
+  release date:
+  - value:
+      date: '2013-06-07'
+    references:
+    - source: music.apple.com-us-album-parcham-single-701254991
+      quote: '2013-06-07'
+      accessed: 2026-11-21
+      locator: MusicAlbum datePublished

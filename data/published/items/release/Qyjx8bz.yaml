@@ -32,6 +32,18 @@ statements:
       quote: The Child of Volcano
       accessed: 2026-11-21
       locator: Track 4
+  - value: https://music.apple.com/us/song/the-child-of-volcano/274512041
+    references:
+    - source: music.apple.com-us-album-ahoora-274511856
+      quote: The Child of Volcano
+      accessed: '2026-11-21'
+      locator: Album track 4
+  - value: https://open.spotify.com/track/1LKe1cAlEdbAJvp1ukhiak
+    references:
+    - source: open.spotify.com-embed-album-6zjllqzjqkdpnpdopomtd8
+      quote: The Child of Volcano
+      accessed: '2026-11-21'
+      locator: Album track 4
   cover art:
   - value: https://f4.bcbits.com/img/a3952380516_2.jpg
     references:

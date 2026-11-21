@@ -10,6 +10,14 @@ statements:
       quote: Range Ghali
       accessed: '2026-11-21'
       locator: Track title
+  - value:
+      text: رنگ قالی- Range ghali
+      language: en
+    references:
+    - source: soundcloud.com-babackrajabi-c2mcydbm65qe
+      quote: رنگ قالی- Range ghali
+      accessed: '2026-11-21'
+      locator: Title on artist’s SoundCloud upload
   performer:
   - value: Qzhgpkw
     references:
@@ -32,6 +40,12 @@ statements:
       quote: Range Ghali
       accessed: '2026-11-21'
       locator: Track title
+  - value: https://soundcloud.com/babackrajabi/c2mcydbm65qe
+    references:
+    - source: soundcloud.com-babackrajabi-c2mcydbm65qe
+      quote: رنگ قالی- Range ghali
+      accessed: '2026-11-21'
+      locator: Title on artist’s SoundCloud upload
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ef/f1/d8/eff1d868-a74a-be26-56ea-9b6f6973ddb0/artwork.jpg/632x632bb-60.jpg
     references:

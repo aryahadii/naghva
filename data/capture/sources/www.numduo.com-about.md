@@ -25,3 +25,19 @@ Milad Bagheri biography, read 2026-11-21.
 > Since 2021, they have been based in Calgary
 
 Duo biography, read 2026-11-21.
+
+> https://static.wixstatic.com/media/314fcf_c9672fbc36674cda9174fde59461b66c~mv2.jpg
+
+Named artist biography, full source photograph, read 2026-11-21.
+
+> https://static.wixstatic.com/media/314fcf_b545f8192bac43a189d4a75c62ebafa4~mv2.jpg
+
+Named artist biography, full source photograph, read 2026-11-21.
+
+> a Bachelor of Arts in Music Technology from Tbilisi State Conservatory (Republic of Georgia), and a Bachelor of Science in Electrical Engineering from Guilan University (Iran).
+
+Artist account or release credits, read 2026-11-21.
+
+> a Master of Music in Sonic Arts from the University of Calgary (Canada)
+
+Artist account or release credits, read 2026-11-21.

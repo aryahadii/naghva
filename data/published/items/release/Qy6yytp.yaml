@@ -10,6 +10,14 @@ statements:
       quote: Lover Killer عاشق کُش
       accessed: '2026-11-21'
       locator: Track title
+  - value:
+      text: Lover Killer عاشق کش
+      language: en
+    references:
+    - source: soundcloud.com-babackrajabi-ashegh-kosh
+      quote: Lover Killer عاشق کش
+      accessed: '2026-11-21'
+      locator: Title on artist’s SoundCloud upload
   performer:
   - value: Qzhgpkw
     references:
@@ -32,6 +40,12 @@ statements:
       quote: Lover Killer عاشق کُش
       accessed: '2026-11-21'
       locator: Track title
+  - value: https://soundcloud.com/babackrajabi/ashegh-kosh
+    references:
+    - source: soundcloud.com-babackrajabi-ashegh-kosh
+      quote: Lover Killer عاشق کش
+      accessed: '2026-11-21'
+      locator: Title on artist’s SoundCloud upload
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8f/6e/0a/8f6e0aaa-e81c-f768-34f3-171ea00eb9e2/artwork.jpg/632x632bb-60.jpg
     references:

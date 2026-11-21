@@ -32,6 +32,18 @@ statements:
       quote: We Were Here
       accessed: 2026-11-21
       locator: Track 9
+  - value: https://music.apple.com/us/song/we-were-here/6778950379
+    references:
+    - source: music.apple.com-us-album-we-were-here-tehran-2011-6778950119
+      quote: We Were Here
+      accessed: '2026-11-21'
+      locator: Album track 9
+  - value: https://open.spotify.com/track/56fDOYEfUpHCxn0EE0QaG9
+    references:
+    - source: open.spotify.com-embed-album-2ms80qqr4idhio5chencwe
+      quote: We Were Here
+      accessed: '2026-11-21'
+      locator: Album track 9
   cover art:
   - value: https://f4.bcbits.com/img/a3880250788_2.jpg
     references:

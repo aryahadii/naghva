@@ -24,6 +24,12 @@ statements:
       quote: I Am Walking in the Woods of Magic | NUM
       accessed: '2026-11-21'
       locator: Page title
+  - value: https://syrphe.bandcamp.com/track/i-am-walking-in-the-woods-of-magic
+    references:
+    - source: syrphe.bandcamp.com-track-i-am-walking-in-the-woods-of-magic
+      quote: I Am Walking In The Woods Of Magic | NUM | Syrphe
+      accessed: '2026-11-21'
+      locator: Page title
   release date:
   - value:
       date: '2017-05-22'

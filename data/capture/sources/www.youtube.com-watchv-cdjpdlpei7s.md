@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=CDjPdLpeI7s
+archive: https://web.archive.org/web/20230313030953/https://www.youtube.com/watch?v=CDjPdLpeI7s&feature=youtu.be
 title: صدای در عشق
 status: processed
 language: fa

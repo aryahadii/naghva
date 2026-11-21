@@ -17,11 +17,29 @@ statements:
       quote: Isolated Room | NUM
       accessed: '2026-11-21'
       locator: Page title
+  - value: Q6zbcxw
+    references:
+    - source: ymgrecords.bandcamp.com-track-isolated-room
+      quote: Isolated Room | Milad Bagheri, Maryam Sirvan | YMG Records
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qj24qcs
+    references:
+    - source: ymgrecords.bandcamp.com-track-isolated-room
+      quote: Isolated Room | Milad Bagheri, Maryam Sirvan | YMG Records
+      accessed: '2026-11-21'
+      locator: Page title
   listen link:
   - value: https://numduo.bandcamp.com/track/isolated-room
     references:
     - source: numduo.bandcamp.com-track-isolated-room
       quote: Isolated Room | NUM
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://ymgrecords.bandcamp.com/track/isolated-room
+    references:
+    - source: ymgrecords.bandcamp.com-track-isolated-room
+      quote: Isolated Room | Milad Bagheri, Maryam Sirvan | YMG Records
       accessed: '2026-11-21'
       locator: Page title
   release date:

@@ -25,3 +25,11 @@ Published date, read 2026-11-21.
 > https://f4.bcbits.com/img/a0474819846_10.jpg
 
 Release artwork, read 2026-11-21.
+
+> Milad Bagheri : composer,electronics,sound engineering
+
+Album credits, read 2026-11-21.
+
+> Maryam Sirvan: composer,electronics,electric guitar,vocals
+
+Album credits, read 2026-11-21.

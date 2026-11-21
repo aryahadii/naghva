@@ -32,6 +32,18 @@ statements:
       quote: Future Caravan
       accessed: 2026-11-21
       locator: Track 3
+  - value: https://music.apple.com/us/song/future-caravan/6778950372
+    references:
+    - source: music.apple.com-us-album-we-were-here-tehran-2011-6778950119
+      quote: Future Caravan
+      accessed: '2026-11-21'
+      locator: Album track 3
+  - value: https://open.spotify.com/track/2eA4uYtz669zIUWuBS6SeQ
+    references:
+    - source: open.spotify.com-embed-album-2ms80qqr4idhio5chencwe
+      quote: Future Caravan
+      accessed: '2026-11-21'
+      locator: Album track 3
   cover art:
   - value: https://f4.bcbits.com/img/a3880250788_2.jpg
     references:

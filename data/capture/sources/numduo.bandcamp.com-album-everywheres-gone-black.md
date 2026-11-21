@@ -13,3 +13,7 @@ status: processed
 > Everywhere's Gone Black | Maryam Sirvan | NUM
 
 Page title, read 2026-11-21.
+
+> Mixing/mastering and production by Milad Bagheri
+
+Album credits, read 2026-11-21.

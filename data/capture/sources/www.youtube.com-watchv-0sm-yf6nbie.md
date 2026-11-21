@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=0SM-Yf6nBIE
+archive: https://web.archive.org/web/20230926045905/https://www.youtube.com/watch?v=0SM-Yf6nBIE
 title: Bibin karada Iranian song by Babak Rajabi
 status: processed
 language: en

@@ -24,3 +24,22 @@ statements:
       quote: NUM - Weird Fishes (Radiohead cover) - YouTube
       accessed: '2026-11-21'
       locator: Page title
+  release date:
+  - value:
+      date: '2018-03-17'
+    references:
+    - source: www.youtube.com-watch-v-aaqfe-a5pjo
+      quote: '2018-03-17T05:41:16-07:00'
+      accessed: '2026-11-21'
+      locator: Video publication date
+  cover art:
+  - value: https://i.ytimg.com/vi/AaQFE-A5PJo/maxresdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-aaqfe-a5pjo
+      quote: https://i.ytimg.com/vi/AaQFE-A5PJo/maxresdefault.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Official YouTube video
+        language: en

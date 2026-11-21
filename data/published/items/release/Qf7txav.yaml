@@ -1,0 +1,47 @@
+id: Qf7txav
+type: release
+statements:
+  name:
+  - value:
+      text: Aayneh Reflex
+      language: en
+    references:
+    - source: music.apple.com-us-album-whos-yo-daddy-264972246
+      quote: Aayneh Reflex
+      accessed: 2026-11-21
+      locator: Apple Music track listing
+  performer:
+  - value: Qny2s3x
+    references:
+    - source: music.apple.com-us-album-whos-yo-daddy-264972246
+      quote: Who's Yo' Daddy? · Abjeez
+      accessed: 2026-11-21
+      locator: Album title and artist on Apple Music
+  listen link:
+  - value: https://music.apple.com/us/song/aayneh-reflex/264972294
+    references:
+    - source: music.apple.com-us-album-whos-yo-daddy-264972246
+      quote: Aayneh Reflex
+      accessed: 2026-11-21
+      locator: Apple Music track listing
+  - value: https://open.spotify.com/track/3OuS7IhLdcPvWJ6Le853s8
+    references:
+    - source: open.spotify.com-album-0afjzanp5wk7yccpobcij8
+      quote: Aayneh Reflex · Abjeez
+      accessed: 2026-11-21
+      locator: Spotify track title and performer
+  release date:
+  - value:
+      date: '2007-05-25'
+    references:
+    - source: music.apple.com-us-album-whos-yo-daddy-264972246
+      quote: '2007-05-25'
+      accessed: 2026-11-21
+      locator: MusicAlbum datePublished
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music/74/72/ef/mzi.yzmfvdbd.tif/600x600bb-60.jpg
+    references:
+    - source: music.apple.com-us-album-whos-yo-daddy-264972246
+      quote: Who's Yo' Daddy? · Abjeez
+      accessed: 2026-11-21
+      locator: Album title and artist on Apple Music

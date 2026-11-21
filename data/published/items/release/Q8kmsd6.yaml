@@ -30,3 +30,22 @@ statements:
       quote: NUM - live at CJSW Radio's "That's Noise?" - YouTube
       accessed: '2026-11-21'
       locator: Page title
+  release date:
+  - value:
+      date: '2026-05-24'
+    references:
+    - source: soundcloud.com-nummusic-num-live-at-cjsw-radios-thats
+      quote: '2026-05-24T01:37:06Z'
+      accessed: '2026-11-21'
+      locator: SoundCloud release or upload date
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-kDCVC30mHVgs3JL3-K1NAeQ-t500x500.jpg
+    references:
+    - source: soundcloud.com-nummusic-num-live-at-cjsw-radios-thats
+      quote: https://i1.sndcdn.com/artworks-kDCVC30mHVgs3JL3-K1NAeQ-t500x500.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: NUM on SoundCloud
+        language: en

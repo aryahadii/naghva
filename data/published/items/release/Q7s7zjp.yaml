@@ -32,6 +32,18 @@ statements:
       quote: A History of Extinction
       accessed: 2026-11-21
       locator: Track 3
+  - value: https://music.apple.com/us/song/a-history-of-extinction/6800489038
+    references:
+    - source: music.apple.com-us-album-all-in-blood-with-you-6800488764
+      quote: A History Of Extinction
+      accessed: '2026-11-21'
+      locator: Album track 3
+  - value: https://open.spotify.com/track/6I9A1vluMro8dBjAxuGlx1
+    references:
+    - source: open.spotify.com-embed-album-04f7ydjdrsosxh0kgzayhn
+      quote: A History Of Extinction
+      accessed: '2026-11-21'
+      locator: Album track 3
   cover art:
   - value: https://f4.bcbits.com/img/a3394950586_2.jpg
     references:

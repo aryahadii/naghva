@@ -100,6 +100,11 @@ references:
     quote: '20260901'
     accessed: '2026-11-21'
     locator: Upload date, YYYYMMDD
+  audio:
+    source: soundcloud.com-babackrajabi-nakoone
+    quote: '2025-12-22'
+    accessed: '2026-11-21'
+    locator: SoundCloud publication date
 ---
 
 Babak Rajabi is an Iranian songwriter who sings and plays tar and setar. In his native Isfahan he brought the sounds of local trades into concerts with his group Nojan. After moving to France he recorded *[Tanz o Tarab](#tanz-o-tarab-sfj)*, singing satirical verses in his Isfahani accent.[^born][^instrument][^nojan][^craft][^accent][^released]
@@ -114,4 +119,4 @@ Both *Dar Emtedâd é Asvât* and *[The Land of Song](#the-land-of-song-x2e)* re
 
 At the University of Strasbourg Rajabi studied music education. He taught children to make instruments from drinking glasses and plastic straws. With the group Espersan, whose album *Hezar Bisheh* appeared in France, he sang classical Persian poetry and set Charles Baudelaire’s “Le Mort joyeux” to music.[^strasbourg][^teaching][^espersan][^poems][^baudelaire]
 
-In September 2026 Rajabi shared “Nakoone”, the last song he wrote in Paris before moving back to Isfahan. He played, sang, arranged and recorded it at home.[^return][^home][^lastdate]
+In December 2025 Rajabi released “Nakoone”, the last song he wrote in Paris before moving back to Isfahan. He published the music video in September 2026. He played, sang, arranged and recorded it at home.[^return][^home][^audio][^lastdate]

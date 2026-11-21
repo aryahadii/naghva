@@ -17,6 +17,17 @@ statements:
     references:
     - *id001
     editorial: true
+  image:
+  - value: https://static.wixstatic.com/media/314fcf_b545f8192bac43a189d4a75c62ebafa4~mv2.jpg
+    references:
+    - source: www.numduo.com-about
+      quote: https://static.wixstatic.com/media/314fcf_b545f8192bac43a189d4a75c62ebafa4~mv2.jpg
+      accessed: '2026-11-21'
+      locator: Named artist biography, full source photograph
+    qualifiers:
+      credit:
+        text: Milad Bagheri · NUM
+        language: en
   birth date:
   - value:
       date: '1984'

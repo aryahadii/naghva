@@ -17,6 +17,14 @@ statements:
       quote: Memory Machine | NUM
       accessed: '2026-11-21'
       locator: Page title
+  - value: Q6zbcxw
+    references:
+    - source: numduo.bandcamp.com-album-memory-machine
+      quote: Electronics, flute and voice by Maryam Sirvan
+      accessed: '2026-11-21'
+      locator: Album credits
+    qualifiers:
+      role: flute
   listen link:
   - value: https://numduo.bandcamp.com/album/memory-machine
     references:
@@ -56,3 +64,12 @@ statements:
       credit:
         text: Bandcamp · NUM
         language: en
+  contributor:
+  - value: Qj24qcs
+    references:
+    - source: numduo.bandcamp.com-album-memory-machine
+      quote: Electronics and sound engineering by Milad Bagheri
+      accessed: '2026-11-21'
+      locator: Album credits
+    qualifiers:
+      role: recording engineer

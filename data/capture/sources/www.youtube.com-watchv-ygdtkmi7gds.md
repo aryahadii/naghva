@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=ygDtKmi7Gds
+archive: https://web.archive.org/web/20230424125126/https://www.youtube.com/watch?v=ygDtKmi7Gds
 title: Mon petit lapin
 status: processed
 language: en

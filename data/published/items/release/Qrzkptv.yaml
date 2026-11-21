@@ -56,3 +56,12 @@ statements:
       credit:
         text: Bandcamp · Milad Bagheri
         language: en
+  contributor:
+  - value: Q6zbcxw
+    references:
+    - source: numduo.bandcamp.com-album-galoba
+      quote: Additional field recordings by Maryam Sirvan
+      accessed: '2026-11-21'
+      locator: Album credits
+    qualifiers:
+      role: recording engineer

@@ -26,6 +26,10 @@ Published date, read 2026-11-21.
 
 Release artwork, read 2026-11-21.
 
+> Electronics and sound engineering by Milad Bagheri
+
+Album credits, read 2026-11-21.
+
 > Electronics, flute and voice by Maryam Sirvan
 
-Artist account or release credits, read 2026-11-21.
+Album credits, read 2026-11-21.

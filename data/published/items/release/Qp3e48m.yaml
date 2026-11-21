@@ -1,0 +1,45 @@
+id: Qp3e48m
+type: release
+statements:
+  name:
+  - value:
+      text: Ploton's Kiss ماچ افلاطونی
+      language: en
+    references:
+    - source: soundcloud.com-babackrajabi-plotons-kiss
+      quote: Ploton's Kiss ماچ افلاطونی
+      accessed: '2026-11-21'
+      locator: Title on artist’s SoundCloud upload
+  performer:
+  - value: Qzhgpkw
+    references:
+    - source: soundcloud.com-babackrajabi-plotons-kiss
+      quote: Babak Rajabi
+      accessed: '2026-11-21'
+      locator: Artist profile name
+  release date:
+  - value:
+      date: '2023-12-28'
+    references:
+    - source: soundcloud.com-babackrajabi-plotons-kiss
+      quote: '2023-12-28'
+      accessed: '2026-11-21'
+      locator: SoundCloud upload date
+  listen link:
+  - value: https://soundcloud.com/babackrajabi/plotons-kiss
+    references:
+    - source: soundcloud.com-babackrajabi-plotons-kiss
+      quote: Ploton's Kiss ماچ افلاطونی
+      accessed: '2026-11-21'
+      locator: Title on artist’s SoundCloud upload
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-wqVB2Q8Ks1AplDtQ-rbhflA-large.jpg
+    references:
+    - source: soundcloud.com-babackrajabi-plotons-kiss
+      quote: https://i1.sndcdn.com/artworks-wqVB2Q8Ks1AplDtQ-rbhflA-large.jpg
+      accessed: '2026-11-21'
+      locator: Artist-uploaded track artwork URL
+    qualifiers:
+      credit:
+        text: Babak Rajabi · SoundCloud
+        language: en

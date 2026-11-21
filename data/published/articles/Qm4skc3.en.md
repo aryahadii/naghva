@@ -80,6 +80,36 @@ references:
     quote: released December 18, 2025
     accessed: '2026-11-21'
     locator: Artist account or release credits
+  instrument:
+    source: www.numduo.com-azdaad
+    quote: SounDice is a multi-rhythmic pattern generator developed by Bagheri
+    accessed: '2026-11-21'
+    locator: Artist account or release credits
+  image-sound:
+    source: www.numduo.com-azdaad
+    quote: the mixed audio goes through a generative video engine, created by Bagheri, to be translated into images.
+    accessed: '2026-11-21'
+    locator: Artist account or release credits
+  az-date:
+    source: www.numduo.com-azdaad
+    quote: NUM performed AZDAAD at New Music Edmonton (Edmonton, Canada), and Sled Island (Calgary, Canada) in summer 2022.
+    accessed: '2026-11-21'
+    locator: Artist account or release credits
+  sea-dream:
+    source: numduo.bandcamp.com-album-seas-coming-for-me
+    quote: Inspired by Maryam Sirvan’s recurring nightmares of being engulfed by a raging sea
+    accessed: '2026-11-21'
+    locator: Artist account or release credits
+  sites:
+    source: numduo.bandcamp.com-album-seas-coming-for-me
+    quote: NUM’s personal studio in Calgary and the National Music Centre’s Studio Bell.
+    accessed: '2026-11-21'
+    locator: Artist account or release credits
+  synth:
+    source: numduo.bandcamp.com-album-seas-coming-for-me
+    quote: Studio Bell’s unique collection of historic electronic instruments.
+    accessed: '2026-11-21'
+    locator: Artist account or release credits
   studio:
     source: hibernationproject.ca-2026-01-10-num
     quote: This album was recorded at the National Music Centre with support from Calgary Arts Development.
@@ -97,4 +127,6 @@ Bagheri recalled that Rasht had no venue for the music they wanted to play. In 2
 
 ## Recording in Calgary
 
-Funding for Bagheri's master's studies brought the two to Calgary in 2021. At the National Music Centre they recorded with Jeremy Brown, who played alto saxophone and flute. Calgary Arts Development helped fund the recording. The duo issued *Seas Coming for Me* themselves in December 2025.[^fund][^city][^studio][^wind][^date][^issued]
+Funding for Bagheri's master's studies brought the two to Calgary in 2021. For their 2022 performance *AZDAAD*, Bagheri designed a system that generated rhythmic patterns and turned the sound they played into moving images. They performed the piece in Edmonton and Calgary.[^instrument][^image-sound][^az-date]
+
+A dream in which a raging sea repeatedly engulfed Sirvan gave them the idea for *Seas Coming for Me*. They recorded in their own studio and at the National Music Centre’s Studio Bell, where they could use its collection of historical electronic instruments. Jeremy Brown played alto saxophone and flute. Calgary Arts Development helped fund the recording. The duo issued *Seas Coming for Me* themselves in December 2025.[^fund][^city][^sea-dream][^sites][^synth][^studio][^wind][^date][^issued]

@@ -145,6 +145,16 @@ references:
     quote: Return to Shiraz
     accessed: '2026-11-21'
     locator: Track heading
+  apra-work:
+    source: www.apraamcos.com.au-about-supporting-the-industry-awards-art-music-awards-2026
+    quote: Eishan Ensemble (Hamed Sadeghi, Michael Avgenicos, Max Alduca and Adem Yilmaz)
+    accessed: '2026-11-21'
+    locator: 'Work of the Year: Jazz & Improvised Music, Finalists, Northern Rhapsody'
+  apra-category:
+    source: www.apraamcos.com.au-about-supporting-the-industry-awards-art-music-awards-2026
+    quote: 'Work of the Year: Jazz & Improvised Music'
+    accessed: '2026-11-21'
+    locator: 'Work of the Year: Jazz & Improvised Music, Finalists, Northern Rhapsody'
 ---
 
 Eishan Ensemble are a Persian-Australian group in Sydney led by Iranian-born composer and tar player Hamed Sadeghi. Formed in 2016, the group plays his compositions and leaves space for improvisation. The core quartet puts the tar alongside Michael Avgenicos’s saxophone, Adem Yilmaz’s percussion and Maximillian Alduca’s double bass.[^blue-year][^formation-scope][^premiere-birth][^blue-leader][^blue-pieces][^own-core]
@@ -159,4 +169,4 @@ On [*Afternoon Tea at Six*](#afternoon-tea-at-six-b74) in 2020, the group made r
 
 Rumi’s *Masnavi* was the starting point for [*Project Masnavi*](#project-masnavi-wac). Marcello Maio joined on accordion. Sadeghi heard a heartbeat in the opening and closing of the bellows, which reminded him of the love in Rumi’s poetry. The ensemble premiered the project at the Sydney Opera House in May 2021. That year the album received an ARIA nomination for Best World Music Album.[^premiere-rumi][^premiere-accordion][^bc-project-masnavi-performermarcello][^premiere-dates][^own-aria][^aria-nominee]
 
-Touring regional New South Wales helped shape [*Northern Rhapsody*](#northern-rhapsody-dp7) in 2025. Sadeghi contrasted the quiet he found there with Tehran, where he said he had to go into the mountains to find it. “Tehran” opens the album and “Return to Shiraz” closes it.[^bc-northern-rhapsody-regional][^bc-northern-rhapsody-quiet][^bc-northern-rhapsody-date][^track-tehran-title][^track-return-to-shiraz-title]
+Touring regional New South Wales helped shape [*Northern Rhapsody*](#northern-rhapsody-dp7) in 2025. Sadeghi contrasted the quiet he found there with Tehran, where he said he had to go into the mountains to find it. “Tehran” opens the album and “Return to Shiraz” closes it.[^bc-northern-rhapsody-regional][^bc-northern-rhapsody-quiet][^bc-northern-rhapsody-date][^track-tehran-title][^track-return-to-shiraz-title] In 2026 the work was a finalist in the Art Music Awards category for jazz and improvised music.[^apra-work][^apra-category]

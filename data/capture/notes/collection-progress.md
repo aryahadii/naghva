@@ -12,10 +12,12 @@ The expansion started at revision fa6c29ca with 124 bilingual artist pages. The 
 | Quartet Diminished | Qh8f5qv | 9.1/10 | [Quartet Diminished](artist-page-scores.md) |
 | Temp-Illusion | Q8tq6bc | 9.2/10 | [Temp-Illusion](temp-illusion-review.md) |
 | ZÖJ | Qk5bhh3 | 9.1/10 | [ZÖJ](zoj-review.md) |
-| Ahoora | Qkb4887 | 7.7/10, revisions in progress | [Catalogue and open questions](ahoora.md) |
-| Babak Rajabi | Qzhgpkw | Pending | Independent review requested |
-| Eishan Ensemble | Qhebfsp | Pending | [Catalogue and open questions](eishan-ensemble.md) |
-| Maryam Sirvan | Q6zbcxw | Pending | Independent review requested |
-| NUM | Qm4skc3 | Pending | Independent review requested |
+| Ahoora | Qkb4887 | 9.0/10 | [Ahoora](artist-page-scores.md) |
+| Babak Rajabi | Qzhgpkw | 7.6/10, revised catalogue awaiting review | [Babak Rajabi](babak-rajabi-review.md) |
+| Eishan Ensemble | Qhebfsp | 9.3/10 | [Eishan Ensemble](artist-page-scores.md) |
+| Maryam Sirvan | Q6zbcxw | 9.2/10 | [Maryam Sirvan](maryam-sirvan-review.md) |
+| NUM | Qm4skc3 | 9.1/10 | [NUM](num-review.md) |
+| Abjeez | Qny2s3x | Pending | [Catalogue and open questions](abjeez.md) |
+| Milad Bagheri | Qj24qcs | Pending | Independent review requested |
 
 The [discovery list](independent-artist-discovery.md) contains candidates with release leads. Some will prove ineligible or match an existing artist by another spelling. Only new artist pages count toward the target.

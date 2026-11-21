@@ -1,5 +1,6 @@
 ---
 url: https://babakrajabi.bandcamp.com/track/esme-kouchik
+archive: https://web.archive.org/web/20230414212310/https://babakrajabi.bandcamp.com/track/esme-kouchik
 title: Esme kouchik | Babak RAJABI | Babak Rajabi Official
 status: processed
 language: en

@@ -1,0 +1,19 @@
+id: Qyt2364
+type: person
+statements:
+  name:
+  - value:
+      text: Hadi Bastani
+      language: en
+    references:
+    - &id001
+      source: flamingpines.bandcamp.com-album-trans-placed
+      quote: By Hadi Bastani and Maryam Sirvan.
+      accessed: '2026-11-21'
+      locator: Release credits
+  - value:
+      text: هادی باستانی
+      language: fa
+    references:
+    - *id001
+    editorial: true

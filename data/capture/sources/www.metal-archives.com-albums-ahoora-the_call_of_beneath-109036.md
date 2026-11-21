@@ -33,3 +33,35 @@ Release date, read 2026-11-21.
 > Ahoora
 
 Band heading, read 2026-11-21.
+
+> In a Word Sin
+
+Demo track 1., read 2026-11-21.
+
+> The Last Talk
+
+Demo track 2., read 2026-11-21.
+
+> When the Light Comes Down
+
+Demo track 3., read 2026-11-21.
+
+> City of Dead
+
+Demo track 4., read 2026-11-21.
+
+> Gods of War
+
+Demo track 5., read 2026-11-21.
+
+> Immortality
+
+Demo track 6., read 2026-11-21.
+
+> Flock
+
+Demo track 7., read 2026-11-21.
+
+> The Coming Curse
+
+Demo track 8., read 2026-11-21.

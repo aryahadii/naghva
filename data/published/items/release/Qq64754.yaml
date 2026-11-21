@@ -24,3 +24,22 @@ statements:
       quote: NUM- Live a/v show - YouTube
       accessed: '2026-11-21'
       locator: Page title
+  release date:
+  - value:
+      date: '2018-11-04'
+    references:
+    - source: www.youtube.com-watch-v-mcluwutaenu
+      quote: '2018-11-04T08:46:35-08:00'
+      accessed: '2026-11-21'
+      locator: Video publication date
+  cover art:
+  - value: https://i.ytimg.com/vi/mcluwuTaEnU/maxresdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-mcluwutaenu
+      quote: https://i.ytimg.com/vi/mcluwuTaEnU/maxresdefault.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Official YouTube video
+        language: en

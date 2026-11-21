@@ -1,0 +1,27 @@
+id: Qvczabb
+type: release
+statements:
+  name:
+  - value:
+      text: The Echoic Memoire of the Two
+      language: en
+    references:
+    - source: www.numduo.com-the-echoic-memoire
+      quote: The Echoic Memoire of the Two
+      accessed: '2026-11-21'
+      locator: Recording title
+  performer:
+  - value: Qm4skc3
+    references:
+    - source: www.numduo.com-the-echoic-memoire
+      quote: The Echoic Memoire of the Two | NUM
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2025'
+    references:
+    - source: www.numduo.com-the-echoic-memoire
+      quote: '2025'
+      accessed: '2026-11-21'
+      locator: Performance or exhibition date

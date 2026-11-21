@@ -24,3 +24,22 @@ statements:
       quote: Stream I'm Wide Open to You (Live) by NUM | Listen online for free on SoundCloud
       accessed: '2026-11-21'
       locator: Page title
+  release date:
+  - value:
+      date: '2018-07-03'
+    references:
+    - source: soundcloud.com-nummusic-im-wide-open-to-you
+      quote: '2018-07-03T19:13:35Z'
+      accessed: '2026-11-21'
+      locator: SoundCloud release or upload date
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-000368254884-oo7si9-t500x500.jpg
+    references:
+    - source: soundcloud.com-nummusic-im-wide-open-to-you
+      quote: https://i1.sndcdn.com/artworks-000368254884-oo7si9-t500x500.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: NUM on SoundCloud
+        language: en

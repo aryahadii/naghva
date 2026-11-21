@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=Htye7k_i13g
+archive: https://web.archive.org/web/20251026121752/https://www.youtube.com/watch?v=Htye7k_i13g
 title: 'کاری متفاوت در موسیقی ایرانی- لباسخوانی: (3) آستین خ.ASTIN'
 status: processed
 language: fa

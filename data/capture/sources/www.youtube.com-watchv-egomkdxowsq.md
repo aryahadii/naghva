@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=EgOmkDxoWSQ
+archive: https://web.archive.org/web/20230413173431/https://www.youtube.com/watch?v=EgOmkDxoWSQ
 title: '''Je me suis fait tout petit'' Georges Brassens traversant l''Iran'
 status: processed
 language: en

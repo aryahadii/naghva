@@ -30,6 +30,12 @@ statements:
       quote: ‎Seas Coming for Me - Album by NUM - Apple Music
       accessed: '2026-11-21'
       locator: Page title
+  - value: https://open.spotify.com/album/1UzcaIVFLCsFsbQIR1l5Cn
+    references:
+    - source: open.spotify.com-album-1uzcaivflcsfsbqir1l5cn
+      quote: Listen to Seas Coming for Me - Album by NUM | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
   release type:
   - value: album
     references:
@@ -56,3 +62,20 @@ statements:
       credit:
         text: Bandcamp · NUM
         language: en
+  contributor:
+  - value: Qj24qcs
+    references:
+    - source: numduo.bandcamp.com-album-seas-coming-for-me
+      quote: 'Milad Bagheri: Composer, electronics, recording, mixing, mastering, words'
+      accessed: '2026-11-21'
+      locator: Album credits
+    qualifiers:
+      role: composer
+  - value: Q6zbcxw
+    references:
+    - source: numduo.bandcamp.com-album-seas-coming-for-me
+      quote: 'Maryam Sirvan: Composer, electronics, recording, voice, words'
+      accessed: '2026-11-21'
+      locator: Album credits
+    qualifiers:
+      role: composer

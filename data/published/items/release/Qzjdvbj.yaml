@@ -50,6 +50,18 @@ statements:
       quote: 'We Were Here: Tehran 2011'
       accessed: 2026-11-21
       locator: Release heading
+  - value: https://music.apple.com/us/album/we-were-here-tehran-2011/6778950119
+    references:
+    - source: music.apple.com-us-album-we-were-here-tehran-2011-6778950119
+      quote: 'We Were Here: Tehran 2011 - Album by Ahoora - Apple Music'
+      accessed: '2026-11-21'
+      locator: Album page title
+  - value: https://open.spotify.com/album/2ms80QQR4IdhIO5cHenCwE
+    references:
+    - source: open.spotify.com-embed-album-2ms80qqr4idhio5chencwe
+      quote: 'We Were Here: Tehran 2011'
+      accessed: '2026-11-21'
+      locator: Album heading
   cover art:
   - value: https://f4.bcbits.com/img/a3880250788_2.jpg
     references:

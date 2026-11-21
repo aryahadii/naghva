@@ -80,6 +80,36 @@ references:
     quote: released December 18, 2025
     accessed: '2026-11-21'
     locator: Artist account or release credits
+  instrument:
+    source: www.numduo.com-azdaad
+    quote: SounDice is a multi-rhythmic pattern generator developed by Bagheri
+    accessed: '2026-11-21'
+    locator: Artist account or release credits
+  image-sound:
+    source: www.numduo.com-azdaad
+    quote: the mixed audio goes through a generative video engine, created by Bagheri, to be translated into images.
+    accessed: '2026-11-21'
+    locator: Artist account or release credits
+  az-date:
+    source: www.numduo.com-azdaad
+    quote: NUM performed AZDAAD at New Music Edmonton (Edmonton, Canada), and Sled Island (Calgary, Canada) in summer 2022.
+    accessed: '2026-11-21'
+    locator: Artist account or release credits
+  sea-dream:
+    source: numduo.bandcamp.com-album-seas-coming-for-me
+    quote: Inspired by Maryam Sirvan’s recurring nightmares of being engulfed by a raging sea
+    accessed: '2026-11-21'
+    locator: Artist account or release credits
+  sites:
+    source: numduo.bandcamp.com-album-seas-coming-for-me
+    quote: NUM’s personal studio in Calgary and the National Music Centre’s Studio Bell.
+    accessed: '2026-11-21'
+    locator: Artist account or release credits
+  synth:
+    source: numduo.bandcamp.com-album-seas-coming-for-me
+    quote: Studio Bell’s unique collection of historic electronic instruments.
+    accessed: '2026-11-21'
+    locator: Artist account or release credits
   studio:
     source: hibernationproject.ca-2026-01-10-num
     quote: This album was recorded at the National Music Centre with support from Calgary Arts Development.
@@ -97,4 +127,6 @@ NUM گروه دونفرهٔ موسیقی الکترونیک است که مریم
 
 ## ضبط در کلگری
 
-باقری برای دورهٔ کارشناسی ارشد در کلگری کمک‌هزینهٔ تحصیلی گرفت و هر دو در سال ۲۰۲۱ به این شهر رفتند. در مرکز ملی موسیقی کانادا با جرمی براون ضبط کردند که در این اجرا ساکسوفون آلتو و فلوت می‌نواخت. سازمان توسعهٔ هنر کلگری در تأمین هزینهٔ ضبط سهیم بود. گروه آلبوم «Seas Coming for Me» را در دسامبر ۲۰۲۵ منتشر کرد.[^fund][^city][^studio][^wind][^date][^issued]
+باقری برای دورهٔ کارشناسی ارشد در کلگری کمک‌هزینهٔ تحصیلی گرفت و هر دو در سال ۲۰۲۱ به این شهر رفتند. برای اجرای «AZDAAD» در سال ۲۰۲۲، باقری سامانه‌ای طراحی کرد که الگوهای ریتمیک می‌ساخت و صدای اجرای گروه را به تصویر متحرک تبدیل می‌کرد. این اثر را در ادمونتون و کلگری اجرا کردند.[^instrument][^image-sound][^az-date]
+
+کابوسی که در آن دریای طوفانی بارها سیروان را در خود فرو می‌برد، ایدهٔ «Seas Coming for Me» را به آن‌ها داد. در استودیوی خودشان و در استودیو بل مرکز ملی موسیقی کانادا ضبط کردند. آنجا به مجموعه‌ای از سازهای الکترونیک قدیمی دسترسی داشتند. جرمی براون هم ساکسوفون آلتو و فلوت نواخت. سازمان توسعهٔ هنر کلگری در تأمین هزینهٔ ضبط سهیم بود. گروه آلبوم «Seas Coming for Me» را در دسامبر ۲۰۲۵ منتشر کرد.[^fund][^city][^sea-dream][^sites][^synth][^studio][^wind][^date][^issued]

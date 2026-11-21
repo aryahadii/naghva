@@ -32,6 +32,18 @@ statements:
       quote: The Departed
       accessed: 2026-11-21
       locator: Track 5
+  - value: https://music.apple.com/us/song/the-departed/6800489040
+    references:
+    - source: music.apple.com-us-album-all-in-blood-with-you-6800488764
+      quote: The Departed
+      accessed: '2026-11-21'
+      locator: Album track 5
+  - value: https://open.spotify.com/track/2JaqSCmgLIDyETYZAzj8px
+    references:
+    - source: open.spotify.com-embed-album-04f7ydjdrsosxh0kgzayhn
+      quote: The Departed
+      accessed: '2026-11-21'
+      locator: Album track 5
   cover art:
   - value: https://f4.bcbits.com/img/a3394950586_2.jpg
     references:

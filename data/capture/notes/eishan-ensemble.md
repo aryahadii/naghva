@@ -42,6 +42,8 @@ The artist’s Bandcamp, Apple Music and Spotify entries were reconciled by titl
 - Expressive Orient · https://eishanensemble.bandcamp.com/track/expressive-orient · https://open.spotify.com/track/7E6LQccFjBtlgB2OJkoKc9 · https://music.apple.com/us/album/expressive-orient/1808721230?i=1808721667
 - Return to Shiraz · https://eishanensemble.bandcamp.com/track/return-to-shiraz · https://open.spotify.com/track/54332eAx9dTlzUPiiFhIuz · https://music.apple.com/us/album/return-to-shiraz/1808721230?i=1808721675
 
+## Concert and rehearsal videos
+
 - Eishan Ensemble (Live @ Bird's Basement, 2024) · https://www.youtube.com/watch?v=eYp9d1J-QhM
 - Live at Brisbane Festival · https://www.youtube.com/watch?v=f7vKHa1-BGg
 - Eishan  Ensemble Rehearsal · https://www.youtube.com/watch?v=0l80Aj0jD34
@@ -61,3 +63,5 @@ The artist’s Bandcamp, Apple Music and Spotify entries were reconciled by titl
 - Music Masala Vol. 4 · 2025-06-06 · https://open.spotify.com/album/09qXK5Fo31ZOCNks7J9Mfk
 
 The four-album artist discography is complete through Northern Rhapsody. Spotify credits the group and Radio 4EB on the Music Masala recording. The release dates distinguish the singles Street, Signs and By the Mountain from their album editions. Bandcamp prints “Aflak” and “Fate is Contradictory” where Spotify uses “Alfak” and “Life is Contradictory” on the corresponding tracks of Project Masnavi. The group photograph was visually checked against its own Bandcamp page. Each full-length record credits its artwork or photographer. The bandleader’s YouTube channel also contains his solo work and unrelated ensembles. The introductory short, studio documentary and highlight reel are not complete performances. YouTube’s artist releases tab independently lists two albums and two singles. SoundCloud and Telegram searches under the English and Persian names have yet to identify a group-managed catalogue.
+
+Phoenix Central Park’s three 2020 films include the Black and White / Signs / Street set, the Afternoon Tea at Six arrangement with Sonya Holowell and Jeremy Rose, and A Dialogue for Tar and Guitar with Damian Wright. The presenter supplies titles, embedded video IDs and individual film thumbnails. The bandleader’s SoundCloud contains seven uploads. Its Nim Dong is the 6:37 album take and explicitly identifies Eishan. Reconciliation is a tar and piano duet with Anna McDonnald. The three Hafez recitations and two uncredited short works have no confirmed ensemble billing.

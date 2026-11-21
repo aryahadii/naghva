@@ -24,3 +24,22 @@ statements:
       quote: NUM – Inside the Circuitry | Live Session at Studio Bell, National Music Centre (May 2025) - YouTube
       accessed: '2026-11-21'
       locator: Page title
+  release date:
+  - value:
+      date: '2025-09-04'
+    references:
+    - source: www.youtube.com-watch-v-5zzrmvb_crq
+      quote: '2025-09-04T12:33:17-07:00'
+      accessed: '2026-11-21'
+      locator: Video publication date
+  cover art:
+  - value: https://i.ytimg.com/vi/5ZZrMvB_crQ/maxresdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-5zzrmvb_crq
+      quote: https://i.ytimg.com/vi/5ZZrMvB_crQ/maxresdefault.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Official YouTube video
+        language: en

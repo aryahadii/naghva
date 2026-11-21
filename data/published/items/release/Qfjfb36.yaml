@@ -50,6 +50,18 @@ statements:
       quote: All In Blood With You
       accessed: 2026-11-21
       locator: Release heading
+  - value: https://music.apple.com/us/album/all-in-blood-with-you/6800488764
+    references:
+    - source: music.apple.com-us-album-all-in-blood-with-you-6800488764
+      quote: All In Blood With You - Album by Ahoora - Apple Music
+      accessed: '2026-11-21'
+      locator: Album page title
+  - value: https://open.spotify.com/album/04f7YDJDrsosxh0kGzAYHN
+    references:
+    - source: open.spotify.com-embed-album-04f7ydjdrsosxh0kgzayhn
+      quote: All In Blood With You
+      accessed: '2026-11-21'
+      locator: Album heading
   cover art:
   - value: https://f4.bcbits.com/img/a3394950586_2.jpg
     references:

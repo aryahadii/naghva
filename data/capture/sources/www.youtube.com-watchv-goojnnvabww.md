@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=gooJNNVABWw
+archive: https://web.archive.org/web/20250330131112/https://www.youtube.com/watch?v=gooJNNVABWw
 title: Contes de perse à Paris
 status: processed
 language: en

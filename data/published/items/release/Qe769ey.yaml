@@ -32,6 +32,18 @@ statements:
       quote: Prayer For A Sleeping City
       accessed: 2026-11-21
       locator: Track 2
+  - value: https://music.apple.com/us/song/prayer-for-a-sleeping-city/6778950370
+    references:
+    - source: music.apple.com-us-album-we-were-here-tehran-2011-6778950119
+      quote: Prayer for a Sleeping City
+      accessed: '2026-11-21'
+      locator: Album track 2
+  - value: https://open.spotify.com/track/24XLUJiOV2enCfoJXSnCNt
+    references:
+    - source: open.spotify.com-embed-album-2ms80qqr4idhio5chencwe
+      quote: Prayer for a Sleeping City
+      accessed: '2026-11-21'
+      locator: Album track 2
   cover art:
   - value: https://f4.bcbits.com/img/a3880250788_2.jpg
     references:

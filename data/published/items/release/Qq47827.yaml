@@ -1,0 +1,45 @@
+id: Qq47827
+type: release
+statements:
+  name:
+  - value:
+      text: Dance with me موسیقی تیتراژ فیلم جهان با من برقص
+      language: en
+    references:
+    - source: soundcloud.com-babackrajabi-danse-with-me
+      quote: Dance with me موسیقی تیتراژ فیلم جهان با من برقص
+      accessed: '2026-11-21'
+      locator: Title on artist’s SoundCloud upload
+  performer:
+  - value: Qzhgpkw
+    references:
+    - source: soundcloud.com-babackrajabi-danse-with-me
+      quote: Babak Rajabi
+      accessed: '2026-11-21'
+      locator: Artist profile name
+  release date:
+  - value:
+      date: '2020-01-22'
+    references:
+    - source: soundcloud.com-babackrajabi-danse-with-me
+      quote: '2020-01-22'
+      accessed: '2026-11-21'
+      locator: SoundCloud upload date
+  listen link:
+  - value: https://soundcloud.com/babackrajabi/danse-with-me
+    references:
+    - source: soundcloud.com-babackrajabi-danse-with-me
+      quote: Dance with me موسیقی تیتراژ فیلم جهان با من برقص
+      accessed: '2026-11-21'
+      locator: Title on artist’s SoundCloud upload
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-000672219424-smdua9-large.jpg
+    references:
+    - source: soundcloud.com-babackrajabi-danse-with-me
+      quote: https://i1.sndcdn.com/artworks-000672219424-smdua9-large.jpg
+      accessed: '2026-11-21'
+      locator: Artist-uploaded track artwork URL
+    qualifiers:
+      credit:
+        text: Babak Rajabi · SoundCloud
+        language: en

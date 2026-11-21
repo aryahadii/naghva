@@ -10,6 +10,14 @@ statements:
       quote: Esfahan
       accessed: '2026-11-21'
       locator: Track title
+  - value:
+      text: Esfahan اصفهان
+      language: en
+    references:
+    - source: soundcloud.com-babackrajabi-esfahan
+      quote: Esfahan اصفهان
+      accessed: '2026-11-21'
+      locator: Title on artist’s SoundCloud upload
   performer:
   - value: Qzhgpkw
     references:
@@ -38,6 +46,12 @@ statements:
       quote: Esfahan
       accessed: '2026-11-21'
       locator: Spotify track listing
+  - value: https://soundcloud.com/babackrajabi/esfahan
+    references:
+    - source: soundcloud.com-babackrajabi-esfahan
+      quote: Esfahan اصفهان
+      accessed: '2026-11-21'
+      locator: Title on artist’s SoundCloud upload
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/9b/58/1d/9b581ded-7eec-25c2-54a2-5ac2432d8c2d/5059366230601_cover.jpg/632x632bb-60.jpg
     references:

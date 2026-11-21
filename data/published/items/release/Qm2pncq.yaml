@@ -32,6 +32,18 @@ statements:
       quote: Partenza
       accessed: 2026-11-21
       locator: Track 7
+  - value: https://music.apple.com/us/song/partenza/6778950377
+    references:
+    - source: music.apple.com-us-album-we-were-here-tehran-2011-6778950119
+      quote: Partenza
+      accessed: '2026-11-21'
+      locator: Album track 7
+  - value: https://open.spotify.com/track/3fMWtTWk2WW2sloXLesfcP
+    references:
+    - source: open.spotify.com-embed-album-2ms80qqr4idhio5chencwe
+      quote: Partenza
+      accessed: '2026-11-21'
+      locator: Album track 7
   cover art:
   - value: https://f4.bcbits.com/img/a3880250788_2.jpg
     references:

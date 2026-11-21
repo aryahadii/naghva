@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=54jthVIG7og
+archive: https://web.archive.org/web/20230316041816/https://www.youtube.com/watch?v=54jthVIG7og
 title: 'کاری متفاوت در موسیقی ایرانی - لباسخوانی: (1) ویترین VITRIN'
 status: processed
 language: fa

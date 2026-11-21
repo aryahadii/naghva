@@ -32,6 +32,18 @@ statements:
       quote: Ahoora
       accessed: 2026-11-21
       locator: Track 6
+  - value: https://music.apple.com/us/song/ahoora-instrumental/274512051
+    references:
+    - source: music.apple.com-us-album-ahoora-274511856
+      quote: Ahoora (Instrumental)
+      accessed: '2026-11-21'
+      locator: Album track 6
+  - value: https://open.spotify.com/track/6em0eA4vfDalgDjc7c96n7
+    references:
+    - source: open.spotify.com-embed-album-6zjllqzjqkdpnpdopomtd8
+      quote: Ahoora (Instrumental)
+      accessed: '2026-11-21'
+      locator: Album track 6
   cover art:
   - value: https://f4.bcbits.com/img/a3952380516_2.jpg
     references:

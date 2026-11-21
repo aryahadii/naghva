@@ -32,6 +32,18 @@ statements:
       quote: Between Maybe & Never
       accessed: 2026-11-21
       locator: Track 4
+  - value: https://music.apple.com/us/song/between-maybe-and-never/6800489039
+    references:
+    - source: music.apple.com-us-album-all-in-blood-with-you-6800488764
+      quote: Between Maybe And Never
+      accessed: '2026-11-21'
+      locator: Album track 4
+  - value: https://open.spotify.com/track/1wbl4m7za3nhjDo0m0iRgp
+    references:
+    - source: open.spotify.com-embed-album-04f7ydjdrsosxh0kgzayhn
+      quote: Between Maybe And Never
+      accessed: '2026-11-21'
+      locator: Album track 4
   cover art:
   - value: https://f4.bcbits.com/img/a3394950586_2.jpg
     references:

@@ -30,6 +30,12 @@ statements:
       quote: ‎Intro (I'm Dreaming of a Sea) - Song with Lyrics by NUM - Apple Music
       accessed: '2026-11-21'
       locator: Page title
+  - value: https://open.spotify.com/track/3ZpsXwqdtbbDl2x4o59xZn
+    references:
+    - source: open.spotify.com-track-3zpsxwqdtbbdl2x4o59xzn
+      quote: Intro (I'm Dreaming of a Sea) - song and lyrics by NUM | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
   release date:
   - value:
       date: '2025-12-18'

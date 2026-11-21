@@ -56,3 +56,20 @@ statements:
       credit:
         text: Bandcamp · NUM
         language: en
+  contributor:
+  - value: Qj24qcs
+    references:
+    - source: numduo.bandcamp.com-album-vacant-shade
+      quote: 'Milad Bagheri : composer,electronics,sound engineering'
+      accessed: '2026-11-21'
+      locator: Album credits
+    qualifiers:
+      role: composer
+  - value: Q6zbcxw
+    references:
+    - source: numduo.bandcamp.com-album-vacant-shade
+      quote: 'Maryam Sirvan: composer,electronics,electric guitar,vocals'
+      accessed: '2026-11-21'
+      locator: Album credits
+    qualifiers:
+      role: composer

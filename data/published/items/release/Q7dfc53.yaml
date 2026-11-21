@@ -30,6 +30,12 @@ statements:
       quote: ‎The Gate - Song with Lyrics by NUM - Apple Music
       accessed: '2026-11-21'
       locator: Page title
+  - value: https://open.spotify.com/track/3F2MMrpPkSPvEflScKI5Gw
+    references:
+    - source: open.spotify.com-track-3f2mmrppkspveflscki5gw
+      quote: The Gate - song and lyrics by NUM | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
   release date:
   - value:
       date: '2025-12-18'

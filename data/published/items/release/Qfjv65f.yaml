@@ -1,0 +1,45 @@
+id: Qfjv65f
+type: release
+statements:
+  name:
+  - value:
+      text: Spiral Spin
+      language: en
+    references:
+    - source: tcfsr.bandcamp.com-track-spiral-spin
+      quote: Spiral Spin
+      accessed: '2026-11-21'
+      locator: Release heading
+  performer:
+  - value: Qm4skc3
+    references:
+    - source: tcfsr.bandcamp.com-track-spiral-spin
+      quote: Spiral Spin | NUM | The Committee for Sonic Research
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://tcfsr.bandcamp.com/track/spiral-spin
+    references:
+    - source: tcfsr.bandcamp.com-track-spiral-spin
+      quote: Spiral Spin | NUM | The Committee for Sonic Research
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2018-05-01'
+    references:
+    - source: tcfsr.bandcamp.com-track-spiral-spin
+      quote: released May 1, 2018
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a2823545956_10.jpg
+    references:
+    - source: tcfsr.bandcamp.com-track-spiral-spin
+      quote: https://f4.bcbits.com/img/a2823545956_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: The Committee for Sonic Research
+        language: en

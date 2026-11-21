@@ -80,6 +80,31 @@ references:
     quote: released July 10, 2024
     accessed: '2026-11-21'
     locator: Artist account or release credits
+  walk:
+    source: flamingpines.bandcamp.com-album-trans-placed
+    quote: Built from soundwalks, field recordings and electronics
+    accessed: '2026-11-21'
+    locator: Artist account or release credits
+  door:
+    source: flamingpines.bandcamp.com-album-trans-placed
+    quote: trans.placed starts with the simple act of opening a door.
+    accessed: '2026-11-21'
+    locator: Artist account or release credits
+  partner:
+    source: flamingpines.bandcamp.com-album-trans-placed
+    quote: By Hadi Bastani and Maryam Sirvan.
+    accessed: '2026-11-21'
+    locator: Release credits
+  towns:
+    source: cello-ray-r4ee.squarespace.com-radio-production
+    quote: original field recordings in Tbilisi and Berlin
+    accessed: '2026-11-21'
+    locator: Artist account or release credits
+  broadcast:
+    source: cello-ray-r4ee.squarespace.com-radio-production
+    quote: was broadcast on Deutschlandfunk Kultur throughout January 2022.
+    accessed: '2026-11-21'
+    locator: Artist account or release credits
 ---
 
 مریم سیروان آهنگساز، خواننده و هنرمند صدای ایرانی، متولد ۱۹۸۶ است. از سال ۲۰۱۰ عضو گروه دونفرهٔ موسیقی الکترونیک NUM است و با نام خودش هم آثاری منتشر کرده است. برای دومین آلبوم شخصی‌اش، [«Songs of an Empty Room»](#songs-of-an-empty-room-kn2)، تمام صداهای موسیقی را از آواز خودش و یک گیتار الکتریک گرفت.[^bio][^duo][^second][^limited]
@@ -92,4 +117,4 @@ references:
 
 ## ضبط در تفلیس
 
-سیروان بین سال‌های ۲۰۱۹ و ۲۰۲۱ آلبوم [«Feast On My Body»](#feast-on-my-body-rx3) را در استودیوی گروه NUM در تفلیس ضبط کرد. نام آلبوم را از بخشی از شعر قطعهٔ پایانی گرفت که خودش نوشته بود. نشر فلگ دی این آلبوم را در سپتامبر ۲۰۲۱ منتشر کرد. در سال ۲۰۲۴ قطعهٔ [«Destroy All The Feelings»](#destroy-all-the-feelings-ydb) از سیروان در مجموعهٔ «The Cracks are Showing» به انتخاب کمیتهٔ هنرهای رسانه‌ای منتشر شد.[^record][^title][^label][^date][^media][^comp]
+سیروان بین سال‌های ۲۰۱۹ و ۲۰۲۱ آلبوم [«Feast On My Body»](#feast-on-my-body-rx3) را در استودیوی گروه NUM در تفلیس ضبط کرد. نام آلبوم را از بخشی از شعر قطعهٔ پایانی گرفت که خودش نوشته بود. نشر فلگ دی این آلبوم را در سپتامبر ۲۰۲۱ منتشر کرد. در سال ۲۰۲۲ سیروان و هادی باستانی صداهای ضبط‌شده در برلین و تفلیس را در قطعهٔ «trans.placed» کنار هم گذاشتند. اثر با صدای باز شدن یک در شروع می‌شود و به این می‌پردازد که وقتی از بیرون به اتاقی می‌رویم، آنچه می‌شنویم چطور عوض می‌شود. رادیو دویچلندفونک کولتور کار را در ژانویهٔ همان سال پخش کرد.[^walk][^door][^partner][^towns][^broadcast] در سال ۲۰۲۴ قطعهٔ [«Destroy All The Feelings»](#destroy-all-the-feelings-ydb) از سیروان در مجموعهٔ «The Cracks are Showing» به انتخاب کمیتهٔ هنرهای رسانه‌ای منتشر شد.[^record][^title][^label][^date][^media][^comp]
