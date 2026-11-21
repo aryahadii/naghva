@@ -65,10 +65,40 @@ references:
     quote: the emotional depth and clarity of its sonic world
     accessed: '2026-11-21'
     locator: How the artist explains her selection
+  bill-july:
+    source: ra.co-events-1727094
+    quote: Sat, Jul 22, 2023
+    accessed: '2026-11-21'
+    locator: Promoter’s dated programme
+  bill-venue:
+    source: ra.co-events-1727094
+    quote: Indra’s Awarehouse
+    accessed: '2026-11-21'
+    locator: Named Austin venue
+  old-brooklyn:
+    source: kitchentechnomusic.com-pages-about-v1
+    quote: Before moving to Austin, they had already begun creating their own events in Brooklyn.
+    accessed: '2026-11-21'
+    locator: Cofounders’ account
+  old-pandemic:
+    source: kitchentechnomusic.com-pages-about-v1
+    quote: During the pandemic, they relocated to Austin
+    accessed: '2026-11-21'
+    locator: Cofounders’ account
+  dance-snow:
+    source: bluelapislight-holidaze-december-15-2024
+    quote: 'Choreography: Hana Sabri & Silks III'
+    accessed: '2026-11-21'
+    locator: Page 17, Snow Queen
+  dance-come:
+    source: bluelapislight-holidaze-december-15-2024
+    quote: 'Choreography: Hana Sabri & Silks IV'
+    accessed: '2026-11-21'
+    locator: Page 19, O Come, O Come Emmanuel
 ---
 
-هانا صبری پیش از آنکه دی‌جی شود، فلوت می‌نواخت و رقصندهٔ حرفه‌ای رقص هوایی بود. او در ایران با [ناچ نجفی](/fa/natch-nadjafi-xxp/) آشنا شد و بعد در نیویورک به او پیوست. آن‌ها در آستین برنامه‌ای به نام «Exhale» اجرا کردند که هم نمایش رقص هوایی بود و هم مهمانی تکنو. در سال ۲۰۲۳ «کیچن تکنو» را بنیان گذاشتند. صبری هم به‌تنهایی اجرا می‌کند و هم با نجفی؛ در اجراهای دونفره به نوبت قطعهٔ بعدی را برای جمع انتخاب می‌کنند.[^kt1760329827-flute][^kt1760329827-aerial][^about-iran][^about-ny][^about-exhale][^about-founded][^kt2285869139-duo]
+هانا صبری پیش از آنکه دی‌جی شود، فلوت می‌نواخت و رقصندهٔ حرفه‌ای رقص هوایی بود. او در ایران با [ناچ نجفی](/fa/natch-nadjafi-xxp/) آشنا شد و بعد در نیویورک به او پیوست. آن‌ها در بروکلین برنامه برگزار می‌کردند و در دورهٔ همه‌گیری به آستین رفتند. در سال ۲۰۲۳ «کیچن تکنو» را بنیان گذاشتند. این جمع ۲۲ ژوئیهٔ همان سال در سالن «Indra’s Awarehouse» برنامهٔ «Exhale» را برگزار کرد، شبی برای رقص هوایی و تکنو.[^old-brooklyn][^old-pandemic][^bill-july][^bill-venue] صبری هم به‌تنهایی اجرا می‌کند و هم با نجفی؛ در اجراهای دونفره به نوبت قطعهٔ بعدی را برای جمع انتخاب می‌کنند.[^kt1760329827-flute][^kt1760329827-aerial][^about-iran][^about-ny][^about-exhale][^about-founded][^kt2285869139-duo]
 
-صبری در یادداشت نخستین میکس «Techno Tales» می‌نویسد که ضربهٔ کیک‌درام را در سینه‌اش حس می‌کند. از اجراهایش در نقاط مختلف آستین صدا ضبط کرده است. در سپتامبر ۲۰۲۴ در «The Tunnels» اجرا داشت. در مهٔ ۲۰۲۵ هم در «Nocturne»، مهمانی رقصی که در فضایی متروک در آستین برپا شد، مجموعه‌ای از قطعه‌های تکنو با ضرب‌های جهنده را میکس کرد.[^sc1672861230-own][^kt1915343351-show][^sc2123295852-place]
+صبری در یادداشت نخستین میکس «Techno Tales» می‌نویسد که ضربهٔ کیک‌درام را در سینه‌اش حس می‌کند. از اجراهایش در نقاط مختلف آستین صدا ضبط کرده است. در سپتامبر ۲۰۲۴ در «The Tunnels» اجرا داشت. در دسامبر همان سال صبری با دو کلاس رقص هوایی با پارچه برای نمایش گروه «بلو لاپیس لایت» طراحی رقص کرد. قطعه‌های آن‌ها «Snow Queen» و «O Come, O Come Emmanuel» بودند.[^dance-snow][^dance-come] در مهٔ ۲۰۲۵ هم در «Nocturne»، مهمانی رقصی که در فضایی متروک در آستین برپا شد، مجموعه‌ای از قطعه‌های تکنو با ضرب‌های جهنده را میکس کرد.[^sc1672861230-own][^kt1915343351-show][^sc2123295852-place]
 
 در رادیوی کیچن تکنو گاهی همهٔ قطعه‌های یک برنامه را از میان آثار یک ناشر انتخاب می‌کند. برای اولین قسمت از مجموعهٔ شماره‌دار رادیو سراغ «Mutual Rytm» رفت. در قسمت نهم نوبت به ناشر بلژیکی «Token Records» رسید که بسیاری از هنرمندان محبوبش با آن کار می‌کنند. صبری می‌گوید شفافیت صدا و عمق احساس در این ضبط‌هاست که او را به آثار این ناشر جذب می‌کند.[^kt1906363418-radio][^kt2184430631-taste][^kt2184430631-why]

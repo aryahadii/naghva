@@ -1,0 +1,21 @@
+id: Q3b2yaj
+type: person
+statements:
+  name:
+  - value:
+      text: Sakina Teyna
+      language: en
+    references:
+    - source: moods.ch-en-streaming-inner-unity-ensemble-sakina-teyna-2024-03-17filter-human
+      quote: Sakina Teyna Vocals
+      locator: Ensemble, venue, recording or project credits
+      accessed: '2026-11-21'
+  member of:
+  - value: Qnhpew3
+    references:
+    - source: inner-unity-ensemble.com-page_id-11621
+      quote: Sakina Teyna
+      locator: Ensemble, venue, recording or project credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: vocals

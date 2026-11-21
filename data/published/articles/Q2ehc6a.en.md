@@ -65,10 +65,40 @@ references:
     quote: the emotional depth and clarity of its sonic world
     accessed: '2026-11-21'
     locator: How the artist explains her selection
+  bill-july:
+    source: ra.co-events-1727094
+    quote: Sat, Jul 22, 2023
+    accessed: '2026-11-21'
+    locator: Promoter’s dated programme
+  bill-venue:
+    source: ra.co-events-1727094
+    quote: Indra’s Awarehouse
+    accessed: '2026-11-21'
+    locator: Named Austin venue
+  old-brooklyn:
+    source: kitchentechnomusic.com-pages-about-v1
+    quote: Before moving to Austin, they had already begun creating their own events in Brooklyn.
+    accessed: '2026-11-21'
+    locator: Cofounders’ account
+  old-pandemic:
+    source: kitchentechnomusic.com-pages-about-v1
+    quote: During the pandemic, they relocated to Austin
+    accessed: '2026-11-21'
+    locator: Cofounders’ account
+  dance-snow:
+    source: bluelapislight-holidaze-december-15-2024
+    quote: 'Choreography: Hana Sabri & Silks III'
+    accessed: '2026-11-21'
+    locator: Page 17, Snow Queen
+  dance-come:
+    source: bluelapislight-holidaze-december-15-2024
+    quote: 'Choreography: Hana Sabri & Silks IV'
+    accessed: '2026-11-21'
+    locator: Page 19, O Come, O Come Emmanuel
 ---
 
-Hana Sabri played flute and worked as an aerial dancer before she took up DJing. She met [Natch Nadjafi](/en/natch-nadjafi-xxp/) in Iran, then joined him in New York. The two brought dance and techno together in Austin for *Exhale*, an aerial show that doubled as a party. In 2023 they founded Kitchen Techno. Alongside her solo sets, Sabri and Nadjafi play back to back, taking turns choosing what the room hears next.[^kt1760329827-flute][^kt1760329827-aerial][^about-iran][^about-ny][^about-exhale][^about-founded][^kt2285869139-duo]
+Hana Sabri played flute and worked as an aerial dancer before she took up DJing. She met [Natch Nadjafi](/en/natch-nadjafi-xxp/) in Iran, then joined him in New York. They organised events in Brooklyn, then moved to Austin during the pandemic. In 2023 they founded Kitchen Techno. On July 22 the collective presented *Exhale*, a night of aerial dance and techno at Indra’s Awarehouse.[^old-brooklyn][^old-pandemic][^bill-july][^bill-venue] Alongside her solo sets, Sabri and Nadjafi play back to back, taking turns choosing what the room hears next.[^kt1760329827-flute][^kt1760329827-aerial][^about-iran][^about-ny][^about-exhale][^about-founded][^kt2285869139-duo]
 
-In the notes to her first *Techno Tales* mix, Sabri describes the sound of the kick drum passing through her chest. Her live recordings follow her through Austin’s dance spaces. She played The Tunnels in September 2024. In May 2025 she recorded a set of raw, bouncy techno at *Nocturne*, a rave in an abandoned space in the city.[^sc1672861230-own][^kt1915343351-show][^sc2123295852-place]
+In the notes to her first *Techno Tales* mix, Sabri describes the sound of the kick drum passing through her chest. Her live recordings follow her through Austin’s dance spaces. She played The Tunnels in September 2024. That December she choreographed “Snow Queen” and “O Come, O Come Emmanuel” with two aerial-silks classes for Blue Lapis Light.[^dance-snow][^dance-come] In May 2025 she recorded a set of raw, bouncy techno at *Nocturne*, a rave in an abandoned space in the city.[^sc1672861230-own][^kt1915343351-show][^sc2123295852-place]
 
 On Kitchen Techno Radio she can spend a whole set inside one record label’s catalogue. The first numbered programme featured Mutual Rytm. For the ninth she chose the Belgian label Token Records, where many of her favourite artists release music. She traces her attachment to the records to the clarity of their sound and the feeling they carry.[^kt1906363418-radio][^kt2184430631-taste][^kt2184430631-why]

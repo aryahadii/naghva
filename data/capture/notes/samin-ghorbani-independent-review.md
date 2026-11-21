@@ -1,0 +1,7 @@
+# Samin Ghorbani independent review
+
+Build 75 provisional **8.5/10** (sources 1.9, writing 1.8, catalogue 2.0, imagery 0.9, reading 1.9). Article ready. Catalogue needs verified guest performances. The pages each have 77 panels and 153 decoded images with working anchors and no horizontal overflow. Frozen hashes 35fcb6b1c00b and 96ed6b622212.
+
+The Icelandic guitarist Ásgeir Ásgeirsson credits her for vocals on track eight, “Azadi Cafe,” from Persian Path. The composer restricts her credit to that track. A conference workshop biography and the Duisburg Philharmonic programme both credit Hossein Soleimani’s album Good Days. Persian material identifies her co-vocalist as Amir Rafati and a native recording identifies their “Monajat.” A separate Mordad 1393 Saye Sar concert recording names both singers in “Divaneh.” The physical issue of Ali Pajooheshgar’s Sooratgar credits her backing vocals alongside Azad Mirzapour. These works extend her Iranian and international recording history.
+
+[Ásgeirsson’s original album](https://asgeirasgeirsson.bandcamp.com/album/persian-path) · [University programme](https://www.forschungsforumpopulaeremusik.de/wp-content/uploads/Abstracts_GFPM-2023-2.pdf) · [Iranian studio excerpt](https://t.me/kamanchehir/1501) · [Separate 1393 live excerpt](https://t.me/Motrebedel/35) · [Sooratgar sleeve scans](https://khoobo.com/salar-aghili-amin-tarokh-ali-pajooheshgar-the-idol-maker/)

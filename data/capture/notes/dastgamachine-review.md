@@ -1,0 +1,3 @@
+# Dastgâmachine independent review
+
+9.2/10. Sources 1.9, prose 1.9, catalogue 2.7, images 0.9, gaps 1.8. Both rendered pages have 13 panels, 33 decoded images, and matching concert and EP anchors. Confirmed the two live films separately against the original issues; the quartet of residency pieces and later remixes have distinct titles and credits. Rechecked the label Bandcamp and the concert host, who names the three members and their instruments. Later two-person concerts are accurately separated from the trio. Resident Advisor links a SoundCloud account called Tapestry; its ten originals are by a Connecticut gospel-jazz group. They do not belong to the Toronto ensemble.

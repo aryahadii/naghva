@@ -36,3 +36,11 @@ Artist interview, biography or performance credits, read 2026-11-21.
 > Mahmood Schricker: Electric Setar
 
 Artist interview, biography or performance credits, read 2026-11-21.
+
+> routes Mahmoud’s setar improvisations and Neda’s vulnerable meditations
+
+Artist interview, biography or performance credits, read 2026-11-21.
+
+> Experimental Link Series at Small World Centre in Toronto
+
+Artist interview, biography or performance credits, read 2026-11-21.

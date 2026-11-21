@@ -1,0 +1,88 @@
+id: Qw88bxf
+type: release
+statements:
+  name:
+  - value:
+      text: Roll the Dice
+      language: en
+    references:
+    - source: music.apple.com-us-album-roll-the-dice-single-1497604893
+      quote: Roll the Dice - Single
+      accessed: '2026-11-21'
+      locator: Official digital issue
+  performer:
+  - value: Qvfz6ey
+    references:
+    - source: music.apple.com-us-album-roll-the-dice-single-1497604893
+      quote: Roll the Dice - Single
+      accessed: '2026-11-21'
+      locator: Official digital issue
+  listen link:
+  - value: https://music.apple.com/us/album/roll-the-dice-single/1497604893
+    references:
+    - source: music.apple.com-us-album-roll-the-dice-single-1497604893
+      quote: Roll the Dice - Single
+      accessed: '2026-11-21'
+      locator: Official digital issue
+  - value: https://music.apple.com/us/song/roll-the-dice/1497605080
+    references:
+    - source: music.apple.com-us-album-roll-the-dice-single-1497604893
+      quote: https://music.apple.com/us/song/roll-the-dice/1497605080
+      accessed: '2026-11-21'
+      locator: Unique Apple song URL
+  - value: https://music.apple.com/us/song/roll-the-dice/1531973260
+    references:
+    - source: music.apple.com-us-album-endeavor-1531973256
+      quote: https://music.apple.com/us/song/roll-the-dice/1531973260
+      accessed: '2026-11-21'
+      locator: Unique Apple song URL
+  - value: https://themuckersband.bandcamp.com/track/roll-the-dice
+    references:
+    - source: themuckersband.bandcamp.com-track-roll-the-dice
+      quote: Roll The Dice
+      accessed: '2026-11-21'
+      locator: Original artist issue
+  - value: https://themuckersband.bandcamp.com/track/roll-the-dice-2
+    references:
+    - source: themuckersband.bandcamp.com-track-roll-the-dice-2
+      quote: Roll The Dice
+      accessed: '2026-11-21'
+      locator: Original artist issue
+  - value: https://soundcloud.com/themuckers/roll-the-dice
+    references:
+    - source: soundcloud.com-themuckers-roll-the-dice
+      quote: Roll the Dice
+      accessed: '2026-11-21'
+      locator: SoundCloud track
+  - value: https://open.spotify.com/track/1SummSMLVCHGQYftaBX51L
+    references:
+    - source: open.spotify.com-embed-album-65szqpn5uhbpscpdxzculv
+      quote: spotify:track:1SummSMLVCHGQYftaBX51L
+      accessed: '2026-11-21'
+      locator: Spotify native track identifier
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-roll-the-dice-single-1497604893
+      quote: Roll the Dice - Single
+      accessed: '2026-11-21'
+      locator: Official digital issue
+  release date:
+  - value:
+      date: '2020-02-28'
+    references:
+    - source: music.apple.com-us-album-roll-the-dice-single-1497604893
+      quote: '2020-02-28'
+      accessed: '2026-11-21'
+      locator: Original release or upload date
+  cover art:
+  - value: https://f4.bcbits.com/img/a3371052433_10.jpg
+    qualifiers:
+      credit:
+        text: The Muckers on Bandcamp
+        language: en
+    references:
+    - source: themuckersband.bandcamp.com-track-roll-the-dice
+      quote: https://f4.bcbits.com/img/a3371052433_10.jpg
+      accessed: '2026-11-21'
+      locator: Original cover

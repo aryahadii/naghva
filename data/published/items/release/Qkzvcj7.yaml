@@ -1,0 +1,60 @@
+id: Qkzvcj7
+type: release
+statements:
+  name:
+  - value:
+      text: Real World
+      language: en
+    references:
+    - source: music.apple.com-us-album-azadi-1811985676
+      quote: Real World
+      accessed: 2026-11-21
+      locator: Edition or recording title
+  performer:
+  - value: Qgxh3d9
+    references:
+    - source: music.apple.com-us-album-azadi-1811985676
+      quote: Faravaz
+      accessed: 2026-11-21
+      locator: Digital credits
+  listen link:
+  - value: https://music.apple.com/us/song/real-world/1811986290
+    references:
+    - source: music.apple.com-us-album-azadi-1811985676
+      quote: Real World
+      accessed: 2026-11-21
+      locator: Edition or recording title
+  - value: https://faravaz.bandcamp.com/track/real-world
+    references:
+    - source: faravaz.bandcamp.com-album-azadi-album
+      quote: Real World
+      accessed: 2026-11-21
+      locator: Artist’s Bandcamp catalogue
+  - value: https://open.spotify.com/track/1A5rP35W0yc0CItPRwGjT7
+    references:
+    - source: open.spotify.com-album-1y72zlc763hlylsh5mbkyl
+      quote: Real World
+      accessed: 2026-11-21
+      locator: Published recording
+  release date:
+  - value:
+      date: '2025-05-09'
+    references:
+    - source: music.apple.com-us-album-azadi-1811985676
+      quote: '2025-05-09'
+      accessed: 2026-11-21
+      locator: Digital edition date
+  - value:
+      date: '2025-05-11'
+    references:
+    - source: faravaz.bandcamp.com-album-azadi-album
+      quote: 11 May 2025 00:00:00 GMT
+      accessed: 2026-11-21
+      locator: Artist release date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e6/77/60/e6776080-6ae7-2f26-4d68-596b660c3cc7/199350433146.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-azadi-1811985676
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e6/77/60/e6776080-6ae7-2f26-4d68-596b660c3cc7/199350433146.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Digital edition artwork

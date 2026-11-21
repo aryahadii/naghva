@@ -188,3 +188,7 @@ Independent review on 2026-11-21. **9.2/10** · Sources 1.9, prose 1.9, recordin
 ### Natch Nadjafi
 
 Independent review on 2026-11-21. **9.2/10** · Sources 1.9, prose 1.9, recordings 2.6, images 1.0, gaps and reader experience 1.8. Both 64-panel pages (English 6b526665870b and Persian 5a84930e58a8) decoded all 91 images in the main content and contain working fragments. The early interview and original band releases substantiate his musical development and experience with Amini. The contemporary Kitchen Techno sources verify the Austin collaboration with Hana Sabri and dedicated mixes. Commercial promotional use in connection with Desert Dancer is documented as unresolved at composition level. Catalogue and article ready.
+
+### Dastgâmachine
+
+Independent review on 2026-11-21. **9.2/10** · Sources 1.9, prose 1.9, recordings 2.6, images 1.0, gaps and reader experience 1.8. The 13-panel English and Persian pages (447e0fb3c779 and bd28f1f8f481) each decoded 27 main-content images with intact fragments. The first label EP specifies its editing and mastering history, and its native release date resolves the month disagreement with the presenter. The label and Wavelength separately establish the festival single and the musician who delivered the vocal sample. The two concert films identify the ensemble; other dates on the turntablist's concert listing do not establish additional issued recordings. Article and catalogue ready.

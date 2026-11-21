@@ -10,3 +10,49 @@ statements:
       quote: Justina X Faravaz - Fatva | LIVE جاستینا و فرآواز - فتوا |‌ اجرای زنده
       accessed: 2026-11-21
       locator: Artist channel video title
+  - value:
+      text: فرآواز
+      language: fa
+    references:
+    - source: faravaz-farvardin.com-biography
+      quote: '#فرآواز'
+      accessed: 2026-11-21
+      locator: Artist’s Persian name
+  image:
+  - value: https://i.scdn.co/image/ab6761610000e5ebaec9e09933fb15a6106dd52a
+    qualifiers:
+      credit:
+        text: Faravaz, Spotify artist profile
+        language: en
+    references:
+    - source: open.spotify.com-artist-1wfqmpf5bxjnmx8bnvobyb
+      quote: https://i.scdn.co/image/ab6761610000e5ebaec9e09933fb15a6106dd52a
+      accessed: 2026-11-21
+      locator: Spotify portrait
+  profile link:
+  - value: https://faravaz.bandcamp.com/music
+    references:
+    - source: faravaz.bandcamp.com-music
+      quote: Faravaz
+      accessed: 2026-11-21
+      locator: Music profile
+  - value: https://open.spotify.com/artist/1WFQMPF5bxJNmx8BNVobYB
+    references:
+    - source: open.spotify.com-artist-1wfqmpf5bxjnmx8bnvobyb
+      quote: Faravaz
+      accessed: 2026-11-21
+      locator: Music profile
+  - value: https://music.apple.com/us/artist/faravaz/1183047798
+    references:
+    - source: music.apple.com-us-artist-faravaz-1183047798
+      quote: Faravaz
+      accessed: 2026-11-21
+      locator: Music profile
+  birth date:
+  - value:
+      date: '1990'
+    references:
+    - source: faravaz-farvardin.com-biography
+      quote: Faravaz Farvardin was born in 1990 in Tehran.
+      accessed: 2026-11-21
+      locator: born

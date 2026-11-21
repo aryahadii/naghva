@@ -1,0 +1,57 @@
+id: Qrhhepk
+type: release
+statements:
+  name:
+  - value:
+      text: Memories
+      language: en
+    references:
+    - source: music.apple.com-us-album-its-better-without-you-single-1441114249
+      quote: Memories
+      accessed: '2026-11-21'
+      locator: Original edition track 2
+  performer:
+  - value: Qvfz6ey
+    references:
+    - source: music.apple.com-us-album-its-better-without-you-single-1441114249
+      quote: Memories
+      accessed: '2026-11-21'
+      locator: Original edition track 2
+  listen link:
+  - value: https://music.apple.com/us/song/memories/1441114257
+    references:
+    - source: music.apple.com-us-album-its-better-without-you-single-1441114249
+      quote: https://music.apple.com/us/song/memories/1441114257
+      accessed: '2026-11-21'
+      locator: Unique Apple song URL
+  - value: https://themuckersband.bandcamp.com/track/memories
+    references:
+    - source: themuckersband.bandcamp.com-track-memories
+      quote: Memories
+      accessed: '2026-11-21'
+      locator: Original artist issue
+  - value: https://soundcloud.com/themuckers/memories
+    references:
+    - source: soundcloud.com-themuckers-memories
+      quote: Memories
+      accessed: '2026-11-21'
+      locator: SoundCloud track
+  release date:
+  - value:
+      date: '2018-11-16'
+    references:
+    - source: music.apple.com-us-album-its-better-without-you-single-1441114249
+      quote: '2018-11-16'
+      accessed: '2026-11-21'
+      locator: Original release or upload date
+  cover art:
+  - value: https://f4.bcbits.com/img/a2843086599_10.jpg
+    qualifiers:
+      credit:
+        text: The Muckers on Bandcamp
+        language: en
+    references:
+    - source: themuckersband.bandcamp.com-track-memories
+      quote: https://f4.bcbits.com/img/a2843086599_10.jpg
+      accessed: '2026-11-21'
+      locator: Original cover

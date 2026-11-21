@@ -1,0 +1,82 @@
+id: Qmv27vk
+type: release
+statements:
+  name:
+  - value:
+      text: So Far Away
+      language: en
+    references:
+    - source: music.apple.com-us-album-endeavor-1531973256
+      quote: So Far Away
+      accessed: '2026-11-21'
+      locator: Original edition track 7
+  performer:
+  - value: Qvfz6ey
+    references:
+    - source: music.apple.com-us-album-endeavor-1531973256
+      quote: So Far Away
+      accessed: '2026-11-21'
+      locator: Original edition track 7
+  listen link:
+  - value: https://music.apple.com/us/song/so-far-away/1531973272
+    references:
+    - source: music.apple.com-us-album-endeavor-1531973256
+      quote: https://music.apple.com/us/song/so-far-away/1531973272
+      accessed: '2026-11-21'
+      locator: Unique Apple song URL
+  - value: https://music.apple.com/us/album/so-far-away-single/1550239240
+    references:
+    - source: music.apple.com-us-album-so-far-away-single-1550239240
+      quote: So Far Away - Single
+      accessed: '2026-11-21'
+      locator: Official digital issue
+  - value: https://music.apple.com/us/song/so-far-away/1550239244
+    references:
+    - source: music.apple.com-us-album-so-far-away-single-1550239240
+      quote: https://music.apple.com/us/song/so-far-away/1550239244
+      accessed: '2026-11-21'
+      locator: Unique Apple song URL
+  - value: https://themuckersband.bandcamp.com/track/so-far-away
+    references:
+    - source: themuckersband.bandcamp.com-track-so-far-away
+      quote: So Far Away
+      accessed: '2026-11-21'
+      locator: Original artist issue
+  - value: https://soundcloud.com/themuckers/so-far-away
+    references:
+    - source: soundcloud.com-themuckers-so-far-away
+      quote: So Far Away
+      accessed: '2026-11-21'
+      locator: SoundCloud track
+  - value: https://open.spotify.com/track/5JXhOKxzLixnrhKZw5NtNB
+    references:
+    - source: open.spotify.com-embed-album-65szqpn5uhbpscpdxzculv
+      quote: spotify:track:5JXhOKxzLixnrhKZw5NtNB
+      accessed: '2026-11-21'
+      locator: Spotify native track identifier
+  release date:
+  - value:
+      date: '2021-02-05'
+    references:
+    - source: music.apple.com-us-album-so-far-away-single-1550239240
+      quote: '2021-02-05'
+      accessed: '2026-11-21'
+      locator: Original release or upload date
+  cover art:
+  - value: https://f4.bcbits.com/img/a2953404952_10.jpg
+    qualifiers:
+      credit:
+        text: The Muckers on Bandcamp
+        language: en
+    references:
+    - source: themuckersband.bandcamp.com-track-so-far-away
+      quote: https://f4.bcbits.com/img/a2953404952_10.jpg
+      accessed: '2026-11-21'
+      locator: Original cover
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-so-far-away-single-1550239240
+      quote: So Far Away - Single
+      accessed: '2026-11-21'
+      locator: Official digital issue

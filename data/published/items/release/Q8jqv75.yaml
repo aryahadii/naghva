@@ -1,0 +1,88 @@
+id: Q8jqv75
+type: release
+statements:
+  name:
+  - value:
+      text: Where the Rain Is Stored
+      language: en
+    references:
+    - &id001
+      source: linkmusiclab.bandcamp.com-album-where-the-rain-is-stored-experimental-link-009
+      quote: Where the Rain Is Stored - Experimental Link 009 | Neda Mohamadpour, Mehdi Rostami, Isa Farah, Dhaivat Jani | Link Music
+        Lab Records
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qbb46yz
+    references:
+    - source: linkmusiclab.bandcamp.com-album-where-the-rain-is-stored-experimental-link-009
+      quote: Neda Mohamadpour - vocals
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Qbvyfsg
+    references:
+    - source: linkmusiclab.bandcamp.com-album-where-the-rain-is-stored-experimental-link-009
+      quote: Mehdi Rostami
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: setar
+  - value: Qr4c34x
+    references:
+    - source: linkmusiclab.bandcamp.com-album-where-the-rain-is-stored-experimental-link-009
+      quote: Isa Farah
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: cello
+  - value: Q7a9kjg
+    references:
+    - source: linkmusiclab.bandcamp.com-album-where-the-rain-is-stored-experimental-link-009
+      quote: Dhaivat Jani
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: percussion
+  release type:
+  - value: album
+    references:
+    - *id001
+  release date:
+  - value:
+      date: '2025-09-29'
+    references:
+    - source: linkmusiclab.bandcamp.com-album-where-the-rain-is-stored-experimental-link-009
+      quote: released September 29, 2025
+      accessed: '2026-11-21'
+      locator: Published date
+  listen link:
+  - value: https://linkmusiclab.bandcamp.com/album/where-the-rain-is-stored-experimental-link-009
+    references:
+    - source: linkmusiclab.bandcamp.com-album-where-the-rain-is-stored-experimental-link-009
+      quote: Where the Rain Is Stored - Experimental Link 009 | Neda Mohamadpour, Mehdi Rostami, Isa Farah, Dhaivat Jani | Link Music
+        Lab Records
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/distance-and-delay/1843269751
+    references:
+    - source: music.apple.com-us-album-distance-and-delay-1843269751
+      quote: ‎Where the Rain Is Stored - Album by Various Artists - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/album/35NmHXnQcVfVkNwV1WYlAg
+    references:
+    - source: open.spotify.com-album-35nmhxnqcvfvknwv1wylag
+      quote: Listen to Where the Rain Is Stored - Compilation by Various Artists | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a3780940417_10.jpg
+    references:
+    - source: linkmusiclab.bandcamp.com-album-where-the-rain-is-stored-experimental-link-009
+      quote: https://f4.bcbits.com/img/a3780940417_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Link Music Lab Records
+        language: en

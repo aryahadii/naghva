@@ -166,14 +166,36 @@ references:
     quote: ALL AT THE SAME TIME ALL
     locator: Artist, publisher or presenter credits
     accessed: '2026-11-21'
+  vaak:
+    source: www.vaakrecords.com-events-the-trembling-land-vahid-taremi-rouzbeh-esfand-and-samin-ghorbani
+    quote: A new work by Vahid Taremi, with arrangements by Rouzbeh Esfand and vocals by Samin Ghorbani.
+    locator: Release, album credits or performance programme
+    accessed: '2026-11-21'
+  ldn:
+    source: www.vaakrecords.com-events-the-trembling-land-vahid-taremi-rouzbeh-esfand-and-samin-ghorbani
+    quote: Sunday 15 November 2026
+    locator: Release, album credits or performance programme
+    accessed: '2026-11-21'
+  azadi:
+    source: asgeirasgeirsson.bandcamp.com-track-azadi-cafe
+    quote: This song is a original vocal composition with no lyrics
+    locator: Release, album credits or performance programme
+    accessed: '2026-11-21'
+  duet:
+    source: asgeirasgeirsson.bandcamp.com-track-azadi-cafe
+    quote: 'Egill Ólafsson: vocal'
+    locator: Release, album credits or performance programme
+    accessed: '2026-11-21'
 ---
 
 Samin Ghorbani sings both Persian classical music and Azerbaijani folk songs. Born in Tehran in 1985, she learned the Azerbaijani of Ardabil through her family. Her father began teaching her music when she was eight. She went on to study the *radif*, the repertoire at the heart of Persian classical music, with the singer Parisa. She also learned setar and worked with ensembles including Nastar and Ronak.[^birth][^father][^roots][^both][^parisa][^band]
 
 At the 2018 *Female Voice of Iran* festival in Berlin, Ghorbani sang the Azerbaijani folk song “Uja daglar başinda.” Later in the same concert she and ney player Kavosh Sohrabian improvised on lines by Saadi. The following November, in Iran, she recorded Sohrabian’s song “Perplexity.” Part of that performance can be heard in the documentary *The Female Voice of Iran*.[^2018][^songs][^improv][^ney][^iran][^poet][^film]
 
+In 2020, on Icelandic guitarist Ásgeir Ásgeirsson’s “Azadi Cafe,” Ghorbani shared the vocals with Egill Ólafsson. The two sang without words.[^azadi][^duet]
+
 ## A song recorded with friends
 
 The album *Don’t Go Far Away* began at a gathering of friends in 1397 (2018–19). Ghorbani, Siamak Jahangiri and Farzad Fazli recorded a selection of Azerbaijani songs. The album had yet to come out when she posted “Kor Arab Mahinisi” on her own channel in 2021. Naghme Saz Avaz released it in 2022. In February 2023 she sang the same piece in Duisburg with the Inner Unity Ensemble, this time with clarinettist Shabnam Parvaresh among the musicians.[^take][^delay][^foot][^col][^issue][^inner][^session][^reed]
 
-Later in 2023 a German government scholarship took Ghorbani to Berlin. She had sung with Pouria Akhavass for Hossein Alizadeh’s film score *Atabay*. On Alizadeh’s 2026 recording of the dastgah of Nava, listeners can follow her voice from the opening *daramad* to the *masnavi* with Ali Boustan and Ramtin Nazarijou. Alizadeh also provided a connection to Dutch pianist Rembrandt Frerichs. Their concert recording from the Netherlands pairs Ghorbani’s voice with his piano and harmonium.[^move][^when][^atabay][^score][^nava][^dar][^mas][^pers][^duo][^harm] For [Nazanin Noori](/en/nazanin-noori-k45/)’s installation *All at the Same Time All*, she sang verses in Persian.[^work][^noori]
+Later in 2023 a German government scholarship took Ghorbani to Berlin. She had sung with Pouria Akhavass for Hossein Alizadeh’s film score *Atabay*. On Alizadeh’s 2026 recording of the dastgah of Nava, listeners can follow her voice from the opening *daramad* to the *masnavi* with Ali Boustan and Ramtin Nazarijou. Alizadeh also provided a connection to Dutch pianist Rembrandt Frerichs. Their concert recording from the Netherlands pairs Ghorbani’s voice with his piano and harmonium.[^move][^when][^atabay][^score][^nava][^dar][^mas][^pers][^duo][^harm] For [Nazanin Noori](/en/nazanin-noori-k45/)’s installation *All at the Same Time All*, she sang verses in Persian.[^work][^noori] For the London Jazz Festival in November 2026, Vaak Records billed her as the voice of *The Trembling Land*, written by Vahid Taremi and arranged by Rouzbeh Esfand.[^vaak][^ldn]

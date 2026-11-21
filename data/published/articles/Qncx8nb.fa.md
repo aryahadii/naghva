@@ -171,14 +171,36 @@ references:
     quote: ALL AT THE SAME TIME ALL
     locator: Artist, publisher or presenter credits
     accessed: '2026-11-21'
+  vaak:
+    source: www.vaakrecords.com-events-the-trembling-land-vahid-taremi-rouzbeh-esfand-and-samin-ghorbani
+    quote: A new work by Vahid Taremi, with arrangements by Rouzbeh Esfand and vocals by Samin Ghorbani.
+    locator: Release, album credits or performance programme
+    accessed: '2026-11-21'
+  ldn:
+    source: www.vaakrecords.com-events-the-trembling-land-vahid-taremi-rouzbeh-esfand-and-samin-ghorbani
+    quote: Sunday 15 November 2026
+    locator: Release, album credits or performance programme
+    accessed: '2026-11-21'
+  azadi:
+    source: asgeirasgeirsson.bandcamp.com-track-azadi-cafe
+    quote: This song is a original vocal composition with no lyrics
+    locator: Release, album credits or performance programme
+    accessed: '2026-11-21'
+  duet:
+    source: asgeirasgeirsson.bandcamp.com-track-azadi-cafe
+    quote: 'Egill Ólafsson: vocal'
+    locator: Release, album credits or performance programme
+    accessed: '2026-11-21'
 ---
 
 ثمین قربانی هم آواز دستگاهی می‌خواند و هم ترانه‌های محلی آذربایجانی. در ۱۳۶۴ در تهران به دنیا آمد و به‌واسطهٔ خانواده‌اش ترکی اردبیلی را یاد گرفت. هشت‌ساله بود که آموزش موسیقی را نزد پدرش آغاز کرد. بعدها ردیف آواز را از پریسا آموخت، سه‌تار زد و با گروه‌هایی چون نستار و همنوازان روناک همکاری کرد.[^birth][^birthfa][^father][^roots][^both][^parisa][^band]
 
 در جشنوارهٔ «صدای زنان ایران» در سال ۲۰۱۸ در برلین، قربانی ترانهٔ محلی «اوجا داغلار باشیندا» را خواند. در بخش دیگری از همان کنسرت، با نی کاوش سهرابیان روی شعری از سعدی بداهه خواند. در نوامبر سال بعد در ایران «پریشانی» را ضبط کرد که شعر و آهنگش از سهرابیان بود. بخشی از این اجرا در فیلم مستند «صدای زنان ایران» به گوش می‌رسد.[^2018][^songs][^improv][^ney][^iran][^poet][^film]
 
+در سال ۲۰۲۰ در قطعهٔ «کافه آزادی» از آسگیر آسگیرسون، گیتاریست ایسلندی، قربانی و اگیل اولافسون آواز را دوصدایی و بی‌کلام خواندند.[^azadi][^duet]
+
 ## ضبط در یک دورهمی
 
 آلبوم «به دوردست‌ها مرو» در سال ۱۳۹۷ از یک همنشینی دوستانه شکل گرفت. قربانی همراه سیامک جهانگیری و فرزاد فضلی مجموعه‌ای از قطعات آذربایجانی را ضبط کرد. در سال ۲۰۲۱ که «کور عربین ماهنیسی» را در کانال خودش گذاشت، آلبوم هنوز منتشر نشده بود. «نغمه‌ساز آواز» آن را در ۲۰۲۲ منتشر کرد. در فوریهٔ ۲۰۲۳ قربانی همین قطعه را در دویسبورگ با گروه *Inner Unity* خواند. این بار شبنم پرورش هم با کلارینت همراهی‌اش می‌کرد.[^take][^delay][^foot][^col][^issue][^inner][^session][^reed]
 
-قربانی در ادامهٔ سال ۲۰۲۳ با بورسیهٔ دولتی آلمان به برلین رفت. پیش‌تر همراه پوریا اخواص برای موسیقی فیلم «آتابای» ساختهٔ حسین علیزاده خوانده بود. در ضبط دستگاه نوا به روایت علیزاده که در ۲۰۲۶ منتشر شد، صدای او را می‌توان از درآمد تا مثنوی شنید. در مثنوی، علی بوستان و رامتین نظری‌جو همراهش هستند. دوستی با علیزاده وجه مشترک قربانی و رامبرانت فریریکس، پیانیست هلندی، هم بود. در ضبط کنسرتشان در هلند، فریریکس آواز قربانی را با پیانو و هارمونیوم همراهی می‌کند.[^move][^when][^atabay][^score][^nava][^dar][^mas][^pers][^duo][^harm] در چیدمان «همه، هم‌زمان، همه» ساختهٔ [نازنین نوری](/fa/nazanin-noori-k45/) هم اشعار را به فارسی خواند.[^work][^noori]
+قربانی در ادامهٔ سال ۲۰۲۳ با بورسیهٔ دولتی آلمان به برلین رفت. پیش‌تر همراه پوریا اخواص برای موسیقی فیلم «آتابای» ساختهٔ حسین علیزاده خوانده بود. در ضبط دستگاه نوا به روایت علیزاده که در ۲۰۲۶ منتشر شد، صدای او را می‌توان از درآمد تا مثنوی شنید. در مثنوی، علی بوستان و رامتین نظری‌جو همراهش هستند. دوستی با علیزاده وجه مشترک قربانی و رامبرانت فریریکس، پیانیست هلندی، هم بود. در ضبط کنسرتشان در هلند، فریریکس آواز قربانی را با پیانو و هارمونیوم همراهی می‌کند.[^move][^when][^atabay][^score][^nava][^dar][^mas][^pers][^duo][^harm] در چیدمان «همه، هم‌زمان، همه» ساختهٔ [نازنین نوری](/fa/nazanin-noori-k45/) هم اشعار را به فارسی خواند.[^work][^noori] واک رکوردز در برنامهٔ جشنوارهٔ جاز لندن در نوامبر ۲۰۲۶ نیز او را خوانندهٔ «زمین لرزان»، ساختهٔ وحید طارمی با تنظیم روزبه اسفند، معرفی کرد.[^vaak][^ldn]

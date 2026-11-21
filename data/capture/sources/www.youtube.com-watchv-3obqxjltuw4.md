@@ -35,3 +35,27 @@ Artist, presenter, film or recording credits, read 2026-11-21.
 Artist, presenter, film or recording credits, read 2026-11-21.
 
 > Concert recording is from February 5, 2023, Mercator Hall Philharmonic, Duisburg Philharmonic.
+
+Ensemble, venue, recording or project credits, read 2026-11-21.
+
+> Musical Director and Guitar Player, Mahan Mirarab
+
+Ensemble, venue, recording or project credits, read 2026-11-21.
+
+> UYGUR VURAL, Cellist
+
+Ensemble, venue, recording or project credits, read 2026-11-21.
+
+> VALENTINA BELLANOVA, Ney player
+
+Ensemble, venue, recording or project credits, read 2026-11-21.
+
+> KIMIA BANI, Percussionist
+
+Ensemble, venue, recording or project credits, read 2026-11-21.
+
+> KORAY B SARY, Baglama player
+
+Ensemble, venue, recording or project credits, read 2026-11-21.
+
+> Concert recording is from February 5, 2023

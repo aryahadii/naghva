@@ -1,0 +1,97 @@
+id: Qw68zq7
+type: release
+statements:
+  name:
+  - value:
+      text: Taxi Driver
+      language: en
+    references:
+    - source: music.apple.com-us-album-taxi-driver-ep-1806308885
+      quote: Taxi Driver
+      accessed: 2026-11-21
+      locator: Edition or recording title
+  performer:
+  - value: Qgxh3d9
+    references:
+    - source: music.apple.com-us-album-taxi-driver-ep-1806308885
+      quote: Faravaz
+      accessed: 2026-11-21
+      locator: Digital credits
+  listen link:
+  - value: https://music.apple.com/us/song/taxi-driver/1806308888
+    references:
+    - source: music.apple.com-us-album-taxi-driver-ep-1806308885
+      quote: Taxi Driver
+      accessed: 2026-11-21
+      locator: Edition or recording title
+  - value: https://music.apple.com/us/song/taxi-driver/1811986139
+    references:
+    - source: music.apple.com-us-album-azadi-1811985676
+      quote: Taxi Driver
+      accessed: 2026-11-21
+      locator: Edition or recording title
+  - value: https://faravaz.bandcamp.com/track/taxi-driver
+    references:
+    - source: faravaz.bandcamp.com-album-azadi-album
+      quote: Taxi Driver
+      accessed: 2026-11-21
+      locator: Artist’s Bandcamp catalogue
+  - value: https://open.spotify.com/track/3tz1btPNPKmnzQI8VFOVaM
+    references:
+    - source: open.spotify.com-album-1y72zlc763hlylsh5mbkyl
+      quote: Taxi Driver
+      accessed: 2026-11-21
+      locator: Published recording
+  - value: https://open.spotify.com/track/3lBON7VxT8fRrHXc1JA357
+    references:
+    - source: open.spotify.com-album-5debanjlmgm6dpjdqkir9s
+      quote: Taxi Driver
+      accessed: 2026-11-21
+      locator: Published recording
+  - value: https://youtu.be/l0MI-hvNtCk
+    references:
+    - source: youtu.be-l0mi-hvntck
+      quote: Faravaz - Taxi Driver (Official Music Video)
+      accessed: 2026-11-21
+      locator: Artist’s original channel
+  - value: https://youtu.be/DFpnRZPM-0Y
+    references:
+    - source: youtu.be-dfpnrzpm-0y
+      quote: Faravaz - Taxi Driver (Official Music video)
+      accessed: 2026-11-21
+      locator: Artist’s original channel
+  release date:
+  - value:
+      date: '2025-04-11'
+    references:
+    - source: music.apple.com-us-album-taxi-driver-ep-1806308885
+      quote: '2025-04-11'
+      accessed: 2026-11-21
+      locator: Digital edition date
+  - value:
+      date: '2025-05-09'
+    references:
+    - source: music.apple.com-us-album-azadi-1811985676
+      quote: '2025-05-09'
+      accessed: 2026-11-21
+      locator: Digital edition date
+  - value:
+      date: '2025-05-11'
+    references:
+    - source: faravaz.bandcamp.com-album-azadi-album
+      quote: 11 May 2025 00:00:00 GMT
+      accessed: 2026-11-21
+      locator: Artist release date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4a/47/36/4a4736f8-b617-8f5c-0b5c-c6fb0c04f9dd/199350272974.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-taxi-driver-ep-1806308885
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4a/47/36/4a4736f8-b617-8f5c-0b5c-c6fb0c04f9dd/199350272974.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Digital edition artwork
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e6/77/60/e6776080-6ae7-2f26-4d68-596b660c3cc7/199350433146.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-azadi-1811985676
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e6/77/60/e6776080-6ae7-2f26-4d68-596b660c3cc7/199350433146.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Digital edition artwork

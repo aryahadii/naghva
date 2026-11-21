@@ -1,0 +1,54 @@
+id: Q49ez42
+type: release
+statements:
+  name:
+  - value:
+      text: Habibi
+      language: en
+    references:
+    - source: music.apple.com-us-album-habibi-single-1798224971
+      quote: Habibi - Single
+      accessed: 2026-11-21
+      locator: Edition or recording title
+  performer:
+  - value: Qgxh3d9
+    references:
+    - source: music.apple.com-us-album-habibi-single-1798224971
+      quote: Faravaz
+      accessed: 2026-11-21
+      locator: Digital credits
+  listen link:
+  - value: https://music.apple.com/us/album/habibi-single/1798224971
+    references:
+    - source: music.apple.com-us-album-habibi-single-1798224971
+      quote: Habibi - Single
+      accessed: 2026-11-21
+      locator: Edition or recording title
+  - value: https://open.spotify.com/album/3gvxhwNCeis76Mv4dzUcFG
+    references:
+    - source: open.spotify.com-album-3gvxhwnceis76mv4dzucfg
+      quote: Habibi
+      accessed: 2026-11-21
+      locator: Album heading
+  release date:
+  - value:
+      date: '2025-03-07'
+    references:
+    - source: music.apple.com-us-album-habibi-single-1798224971
+      quote: '2025-03-07'
+      accessed: 2026-11-21
+      locator: Digital edition date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3a/7b/c1/3a7bc17e-3bcf-6c5b-fdbd-f8a570f76dce/199066926642.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-habibi-single-1798224971
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3a/7b/c1/3a7bc17e-3bcf-6c5b-fdbd-f8a570f76dce/199066926642.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Digital edition artwork
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-habibi-single-1798224971
+      quote: Habibi - Single
+      accessed: 2026-11-21
+      locator: Edition or recording title

@@ -44,6 +44,24 @@ statements:
       quote: Justina - Fatva (feat. Faravaz) [Right to sing for women] | OFFICIAL MUSIC VIDEO
       accessed: 2026-11-21
       locator: Artist channel video title
+  - value: https://music.apple.com/us/song/fatva-feat-justina/1516785835
+    references:
+    - source: music.apple.com-us-album-fatva-feat-justina-single-1516785833
+      quote: Fatva (feat. Justina)
+      accessed: 2026-11-21
+      locator: Edition or recording title
+  - value: https://youtu.be/B3J_s4rBONs
+    references:
+    - source: youtu.be-b3j_s4rbons
+      quote: Faravaz ft. Justina - Fatva
+      accessed: 2026-11-21
+      locator: Artist’s original channel
+  - value: https://open.spotify.com/track/74IG2Y6s7VwfV2VZBiygUb
+    references:
+    - source: open.spotify.com-embed-track-74ig2y6s7vwfv2vzbiygub
+      quote: Fatva
+      accessed: 2026-11-21
+      locator: Artist website’s embedded recording
   cover art:
   - value: https://i.ytimg.com/vi/c9GsqTGu9d8/hqdefault.jpg
     references:
@@ -51,3 +69,17 @@ statements:
       quote: Justina - Fatva (feat. Faravaz) | OFFICIAL TRACK جاستینا و فرآواز - فتوا
       accessed: 2026-11-21
       locator: Artist channel video title
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/21/1a/e5/211ae571-709b-8080-adca-5d81067f0dac/7321170138977.png/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-fatva-feat-justina-single-1516785833
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/21/1a/e5/211ae571-709b-8080-adca-5d81067f0dac/7321170138977.png/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Digital edition artwork
+  release date:
+  - value:
+      date: '2020-05-29'
+    references:
+    - source: music.apple.com-us-album-fatva-feat-justina-single-1516785833
+      quote: '2020-05-29'
+      accessed: 2026-11-21
+      locator: Digital edition date
