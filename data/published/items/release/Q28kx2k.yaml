@@ -1,0 +1,41 @@
+id: Q28kx2k
+type: release
+statements:
+  name:
+  - value:
+      text: trix:sfnx
+      language: en
+    references:
+    - &id001
+      source: tarxun.bandcamp.com-album-trix-sfnx
+      quote: trix:sfnx
+      accessed: '2026-11-21'
+  performer:
+  - value: Q55bvv7
+    references:
+    - &id002
+      source: tarxun.bandcamp.com-album-trix-sfnx
+      quote: tarxun
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2023-04-07'
+    references:
+    - source: tarxun.bandcamp.com-album-trix-sfnx
+      quote: 07 Apr 2023 00:00:00 GMT
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://tarxun.bandcamp.com/album/trix-sfnx
+    references:
+    - *id001
+    - *id002
+  cover art:
+  - value: https://f4.bcbits.com/img/a1461312501_10.jpg
+    references:
+    - source: tarxun.bandcamp.com-album-trix-sfnx
+      quote: https://f4.bcbits.com/img/a1461312501_10.jpg
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: tarxun, Bandcamp
+        language: en
