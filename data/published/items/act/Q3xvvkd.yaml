@@ -3,6 +3,13 @@ type: act
 statements:
   name:
   - value:
+      text: تارانتیست
+      language: fa
+    references:
+    - source: ir.voanews.com-a-6818454
+      quote: آرش رهبری، خواننده و لیدر گروه موسیقی «تارانتیست»
+      accessed: '2026-11-21'
+  - value:
       text: TarantisT
       language: en
     references:
