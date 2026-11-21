@@ -1,0 +1,41 @@
+id: Qnb7sxm
+type: release
+statements:
+  name:
+  - value:
+      text: God of Rakhsh
+      language: en
+    references:
+    - &id001
+      source: hooshyarkhayam.com-discography
+      quote: 'God of Rakhsh
+
+        2018'
+      accessed: '2026-11-21'
+  performer:
+  - value: Qsr6hr2
+    references:
+    - source: music.apple.com-us-album-1567836927
+      quote: Listen to God of Rakhsh by Hooshyar Khayam
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2018'
+    references:
+    - *id001
+  listen link:
+  - value: https://music.apple.com/us/album/god-of-rakhsh/1567836927
+    references:
+    - source: music.apple.com-us-album-1567836927
+      quote: Listen to God of Rakhsh by Hooshyar Khayam
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/25/3b/63/253b637f-d05c-154d-b939-1f14aec6f231/196006626006.jpg/632x632bb.webp
+    references:
+    - source: music.apple.com-us-album-1567836927
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/25/3b/63/253b637f-d05c-154d-b939-1f14aec6f231/196006626006.jpg/632x632bb.webp
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en

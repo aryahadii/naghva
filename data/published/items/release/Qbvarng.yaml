@@ -1,0 +1,58 @@
+id: Qbvarng
+type: release
+statements:
+  name:
+  - value:
+      text: All of You
+      language: en
+    references:
+    - &id001
+      source: hooshyarkhayam.com-discography
+      quote: 'All of You
+
+        2010'
+      accessed: '2026-11-21'
+  performer:
+  - value: Qsr6hr2
+    references:
+    - source: music.apple.com-us-album-1567838124
+      quote: Listen to All of You by Hooshyar Khayam & Amir Eslami
+      accessed: '2026-11-21'
+  - value: Qj9w2wj
+    references:
+    - source: music.apple.com-us-album-1567838124
+      quote: Listen to All of You by Hooshyar Khayam & Amir Eslami
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2010'
+    references:
+    - *id001
+  - value:
+      date: '2011'
+    references:
+    - source: hooshyarkhayam.com-biography
+      quote: “All of You” (Hermes Records 2011)
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://music.apple.com/us/album/all-of-you/1567838124
+    references:
+    - source: music.apple.com-us-album-1567838124
+      quote: Listen to All of You by Hooshyar Khayam & Amir Eslami
+      accessed: '2026-11-21'
+    - source: music.apple.com-us-album-1567838124
+      quote: '"datePublished":"2019-06-23"'
+      accessed: '2026-11-21'
+    - source: hooshyarkhayam.com-discography
+      quote: 2010 Hermes Records, 2019 Tehran Records
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b7/29/71/b72971c7-11f0-1d73-0f96-53573296b8dd/196006625375.jpg/632x632bb.webp
+    references:
+    - source: music.apple.com-us-album-1567838124
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b7/29/71/b72971c7-11f0-1d73-0f96-53573296b8dd/196006625375.jpg/632x632bb.webp
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en

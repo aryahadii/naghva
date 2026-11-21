@@ -12,3 +12,7 @@ status: processed
 > when he left Tehran, the capital of Iran, in early 2020, he relocated to Ottawa.
 
 Read 2026-11-14.
+
+> who has taught at Carleton University and been its artist in residence.
+
+Teaching in Ottawa, read 2026-11-21.
