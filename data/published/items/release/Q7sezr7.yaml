@@ -1,0 +1,56 @@
+id: Q7sezr7
+type: release
+statements:
+  name:
+  - value:
+      text: Radio Dreams (Official Film Score)
+      language: en
+    references:
+    - &id001
+      source: mahmoodschricker.bandcamp.com-album-radio-dreams-official-film-score
+      quote: Radio Dreams (Official Film Score)
+      accessed: '2026-11-21'
+      locator: Recording title or artist credit
+  listen link:
+  - value: https://mahmoodschricker.bandcamp.com/album/radio-dreams-official-film-score
+    references:
+    - source: mahmoodschricker.bandcamp.com-album-radio-dreams-official-film-score
+      quote: Radio Dreams (Official Film Score) | Mahmood Schricker
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/radio-dreams-ep/1525500043
+    references:
+    - source: music.apple.com-us-album-radio-dreams-ep-1525500043
+      quote: ‎Radio Dreams - EP - Album by Mahmood Schricker - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qxkh2tz
+    references:
+    - source: mahmoodschricker.bandcamp.com-album-radio-dreams-official-film-score
+      quote: Radio Dreams (Official Film Score) | Mahmood Schricker
+      accessed: '2026-11-21'
+      locator: Page title
+  release type:
+  - value: album
+    references:
+    - *id001
+  cover art:
+  - value: https://f4.bcbits.com/img/a3832824935_10.jpg
+    references:
+    - source: mahmoodschricker.bandcamp.com-album-radio-dreams-official-film-score
+      quote: https://f4.bcbits.com/img/a3832824935_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Mahmood Schricker on Bandcamp
+        language: en
+  release date:
+  - value:
+      date: '2020-07-14'
+    references:
+    - source: music.apple.com-us-album-radio-dreams-ep-1525500043
+      quote: July 14, 2020
+      accessed: '2026-11-21'
+      locator: Published date

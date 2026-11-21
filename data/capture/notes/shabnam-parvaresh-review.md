@@ -14,3 +14,5 @@ The personal account for moving cities and the festival’s dates differ and the
 | Total | **8.5/10** |
 
 Catalogue needs repair and rendered reassessment. Both articles are readable. Pending significant additions are identified above.
+
+The next build added Livremente, The Ascendent Love of Two Birds, Bluets, Von Korf and the Sheen broadcast. Both pages now render 102 panels and 195 decoded images. The artist's Beyond Music portfolio lists five songs. Only Midday Prayer was then present. Sent the four original issue/share pages for Outside In, Grace of a God, Dance of Improvise and L'addio di Anna to the author for repair. [Beyond Music artist portfolio](https://www.beyondmusic.org/artist/797)

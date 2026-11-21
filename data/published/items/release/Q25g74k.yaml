@@ -8,6 +8,24 @@ statements:
       quote: Zolfonoon (Live at Revival) - song and lyrics by Dastgamachine, Sina Salimi | Spotify
       accessed: '2026-11-21'
       locator: Page title
+  - value: https://linkmusiclab.bandcamp.com/track/zolfonoon-live-at-revival
+    references:
+    - source: linkmusiclab.bandcamp.com-track-zolfonoon-live-at-revival
+      quote: Zolfonoon (Live at Revival) | Mahmood Schricker, Caleb Klager, Jason Rule, Raf Reza | Link Music Lab Records
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/mahmood-schricker/zolfonoon-live-at-revival
+    references:
+    - source: soundcloud.com-mahmood-schricker-zolfonoon-live-at-revival
+      quote: Stream Zolfonoon (Live at Revival) by Mahmood Schricker | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/linkmusiclab/zolfonoon-live-at-revival-1
+    references:
+    - source: soundcloud.com-linkmusiclab-zolfonoon-live-at-revival-1
+      quote: Stream Zolfonoon (Live at Revival) by Link Music Lab | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
   name:
   - value:
       text: Zolfonoon (Live at Revival)
@@ -24,3 +42,28 @@ statements:
       quote: Zolfonoon (Live at Revival) - song and lyrics by Dastgamachine, Sina Salimi | Spotify
       accessed: '2026-11-21'
       locator: Page title
+  - value: Qxkh2tz
+    references:
+    - source: linkmusiclab.bandcamp.com-track-zolfonoon-live-at-revival
+      quote: Zolfonoon (Live at Revival) | Mahmood Schricker, Caleb Klager, Jason Rule, Raf Reza | Link Music Lab Records
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a2946259498_10.jpg
+    references:
+    - source: linkmusiclab.bandcamp.com-track-zolfonoon-live-at-revival
+      quote: https://f4.bcbits.com/img/a2946259498_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Link Music Lab Records
+        language: en
+  release date:
+  - value:
+      date: '2026-01-23'
+    references:
+    - source: linkmusiclab.bandcamp.com-album-dastg-machine-b-zs-zi
+      quote: released January 23, 2026
+      accessed: '2026-11-21'
+      locator: Published date

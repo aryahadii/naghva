@@ -53,10 +53,12 @@ The expansion started at revision fa6c29ca with 124 bilingual artist pages. The 
 | Payam Yousefi | Q57cj49 | 9.1/10 | [Payam Yousefi](artist-page-scores.md) |
 | Nina Saeidi | Qnsexjj | 9.1/10 | [Nina Saeidi](artist-page-scores.md) |
 | Sina Salimi | Qt5sbqz | 9.2/10 | [Sina Salimi](artist-page-scores.md) |
-| Kiyarash Davoudi | Qyrsg2f | 8.2/10 | [Kiyarash Davoudi](kiyarash-davoudi-independent-review.md) |
+| Kiyarash Davoudi | Qyrsg2f | 9.2/10 | [Kiyarash Davoudi](kiyarash-davoudi-independent-review.md) |
 | Shabnam Parvaresh | Q9aspca | 8.5/10 | [Shabnam Parvaresh](shabnam-parvaresh-review.md) |
-| Sheen Trio | Qy7eg4c | 8.7/10 | [Sheen Trio](sheen-trio-review.md) |
-| Cyminology | Qsyrehn | 8.5/10 | [Cyminology](cyminology-independent-review.md) |
-| Unland | Qs2xmxr | Pending | [Catalogue](unland.md) |
+| Sheen Trio | Qy7eg4c | 9.2/10 | [Sheen Trio](sheen-trio-review.md) |
+| Cyminology | Qsyrehn | 9.2/10 | [Cyminology](cyminology-independent-review.md) |
+| Unland | Qs2xmxr | 8.5/10 | [Unland](unland-review.md) |
+| Cymin Samawatie | Qnessyd | Pending | [Catalogue](cymin-samawatie.md) |
+| Mahmood Schricker | Qxkh2tz | Pending | [Catalogue](mahmood-schricker.md) |
 
 The [discovery list](independent-artist-discovery.md) contains candidates with release leads. Some will prove ineligible or match an existing artist by another spelling. Only new artist pages count toward the target.

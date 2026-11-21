@@ -19,7 +19,7 @@ The trio issued its first release itself. A contemporary reviewer heard and desc
 - Scene 4 · Qmysbgt · https://unland.bandcamp.com/track/scene-4 · https://soundcloud.com/unlandmusic/unland-scene-4
 - Die Ruhe nach dem Sturm · Qdsare8 · https://unland.bandcamp.com/album/die-ruhe-nach-dem-sturm · https://www.youtube.com/watch?v=c1emuoxhYxw · https://midirarecords.bandcamp.com/album/die-ruhe-nach-dem-sturm
 - Mühsal · Qt43sqv · https://unland.bandcamp.com/track/m-hsal · https://midirarecords.bandcamp.com/track/m-hsal
-- Verwüstung · Q7dwgaq · https://unland.bandcamp.com/track/verw-stung · https://midirarecords.bandcamp.com/track/verw-stung
+- Verwüstung · Q7dwgaq · https://unland.bandcamp.com/track/verw-stung · https://midirarecords.bandcamp.com/track/verw-stung · https://midirarecords.bandcamp.com/track/verw-stung-2
 - Elegie · Qwzy2pw · https://unland.bandcamp.com/track/elegie · https://midirarecords.bandcamp.com/track/elegie
 - Die Ruhe nach dem Sturm · Qeqwkzc · https://unland.bandcamp.com/track/die-ruhe-nach-dem-sturm · https://midirarecords.bandcamp.com/track/die-ruhe-nach-dem-sturm
 - Unland - Dunkle Manie Live · Qqex8xh · https://www.youtube.com/watch?v=fOSciV_o7Fk
@@ -29,3 +29,6 @@ The trio issued its first release itself. A contemporary reviewer heard and desc
 - Die Ruhe Nach Dem Sturm Snippet · Q9r63fp · https://soundcloud.com/unlandmusic/die-ruhe-nach-dem-sturm-snippet
 - Scene 2 · Q37khps · 
 - Die Ruhe nach dem Sturm - Zenjungle Remix (previously unreleased) · Q7w9yxy · https://midirarecords.bandcamp.com/track/die-ruhe-nach-dem-sturm-zenjungle-remix-previously-unreleased
+- Dunkle Manie · Qeb4dfg · https://bitrotrecords.bandcamp.com/track/dunkle-manie
+- Kollektive 1 · Q63gk8z · https://bitrotrecords.bandcamp.com/album/kollektive-1
+- MMXVI · Qkfnjkr · https://midirarecords.bandcamp.com/album/mmxvi

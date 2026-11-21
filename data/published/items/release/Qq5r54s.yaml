@@ -14,6 +14,32 @@ statements:
       quote: Zolfonoon Mystry (Moody Style) - Moody Mix - song and lyrics by Mahmood Schricker, Sina Salimi | Spotify
       accessed: '2026-11-21'
       locator: Page title
+  - value: https://mahmoodschricker.bandcamp.com/track/zolfonoon-mystry-moody-style
+    references:
+    - source: mahmoodschricker.bandcamp.com-track-zolfonoon-mystry-moody-style
+      quote: Zolfonoon Mystry (Moody Style) | Mahmood Schricker and Michael Red | Mahmood Schricker
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://linkmusiclab.bandcamp.com/track/zolfonoon-mystry-moody-style
+    references:
+    - source: linkmusiclab.bandcamp.com-track-zolfonoon-mystry-moody-style
+      quote: Zolfonoon Mystry (Moody Style) | Mahmood Schricker, Michael Red | Link Music Lab Records
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/mahmood-schricker/mahmood-schricker-feat-sina-salimi-zolfonoon-mystry-moody-style
+    references:
+    - source: soundcloud.com-mahmood-schricker-mahmood-schricker-feat-sina-salimi-zolfonoon-mystry-moody-style
+      quote: Stream Mahmood Schricker Feat. Sina Salimi - Zolfonoon Mystry (Moody Style) by Mahmood Schricker | Listen online for free
+        on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/linkmusiclab/mahmood-schricker-feat-sina
+    references:
+    - source: soundcloud.com-linkmusiclab-mahmood-schricker-feat-sina
+      quote: Stream Mahmood Schricker feat Sina Salimi - Zolfonoon Mystry (Moody Style) by Link Music Lab | Listen online for free on
+        SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
   name:
   - value:
       text: Zolfonoon Mystry (Moody Style) [feat. Sina Salimi] [Moody Mix]

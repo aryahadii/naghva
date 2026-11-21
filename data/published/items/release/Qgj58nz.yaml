@@ -1,0 +1,57 @@
+id: Qgj58nz
+type: release
+statements:
+  name:
+  - value:
+      text: Taherzadeh
+      language: en
+    references:
+    - source: mahmoodschricker.bandcamp.com-track-taherzadeh
+      quote: Taherzadeh
+      accessed: '2026-11-21'
+      locator: Recording title or artist credit
+  listen link:
+  - value: https://mahmoodschricker.bandcamp.com/track/taherzadeh
+    references:
+    - source: mahmoodschricker.bandcamp.com-track-taherzadeh
+      quote: Taherzadeh | Mahmood Schricker
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/taherzadeh/1498324703
+    references:
+    - source: music.apple.com-us-song-taherzadeh-1498324703
+      quote: ‎Taherzadeh - Song with Lyrics by Mahmood Schricker - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/mahmood-schricker/taherzadeh
+    references:
+    - source: soundcloud.com-mahmood-schricker-taherzadeh
+      quote: Stream Taherzadeh by Mahmood Schricker | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qxkh2tz
+    references:
+    - source: mahmoodschricker.bandcamp.com-track-taherzadeh
+      quote: Taherzadeh | Mahmood Schricker
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a1158683686_10.jpg
+    references:
+    - source: mahmoodschricker.bandcamp.com-track-taherzadeh
+      quote: https://f4.bcbits.com/img/a1158683686_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Mahmood Schricker on Bandcamp
+        language: en
+  release date:
+  - value:
+      date: '2020-02-04'
+    references:
+    - source: music.apple.com-us-song-taherzadeh-1498324703
+      quote: February 4, 2020
+      accessed: '2026-11-21'
+      locator: Published date

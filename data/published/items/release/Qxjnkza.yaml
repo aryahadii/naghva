@@ -1,0 +1,75 @@
+id: Qxjnkza
+type: release
+statements:
+  name:
+  - value:
+      text: Niagara
+      language: en
+    references:
+    - source: open.spotify.com-track-4udyk7upgusa8jz1bibalv
+      quote: Niagara
+      accessed: '2026-11-21'
+      locator: Recording title or artist credit
+  listen link:
+  - value: https://open.spotify.com/track/4UdYK7uPgUsa8JZ1bibAlv
+    references:
+    - source: open.spotify.com-track-4udyk7upgusa8jz1bibalv
+      quote: Niagara - song and lyrics by Alireza Mortazavi, Mahmood Schricker | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/niagara/1718859074
+    references:
+    - source: music.apple.com-us-song-niagara-1718859074
+      quote: ‎Niagara - Song with Lyrics by Alireza Mortazavi & Mahmood Schricker - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/mahmood-schricker/alireza-mortazavi-and-mahmood-schricker-niagara
+    references:
+    - source: soundcloud.com-mahmood-schricker-alireza-mortazavi-and-mahmood-schricker-niagara
+      quote: Stream Alireza Mortazavi and Mahmood Schricker - Niagara by Mahmood Schricker | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://www.youtube.com/watch?v=ey3eEQQKnHs
+    references:
+    - source: www.youtube.com-watch-v-ey3eeqqknhs
+      quote: Alireza Mortazavi and Mahmood Schricker - Niagara
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/niagara-ep/1718859073
+    references:
+    - source: music.apple.com-us-album-niagara-ep-1718859073
+      quote: ‎Niagara - EP - Album by Alireza Mortazavi & Mahmood Schricker - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qxkh2tz
+    references:
+    - source: open.spotify.com-track-4udyk7upgusa8jz1bibalv
+      quote: Niagara - song and lyrics by Alireza Mortazavi, Mahmood Schricker | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qhbszv6
+    references:
+    - source: music.apple.com-us-album-niagara-ep-1718859073
+      quote: Alireza Mortazavi
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/db/ac/68/dbac6897-04d9-31f6-92c8-b59b5d73e2fd/198026540836.jpg/600x600bb.webp
+    references:
+    - source: music.apple.com-us-song-niagara-1718859074
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/db/ac/68/dbac6897-04d9-31f6-92c8-b59b5d73e2fd/198026540836.jpg/600x600bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Mahmood Schricker on Apple Music
+        language: en
+  release date:
+  - value:
+      date: '2023-08-24'
+    references:
+    - source: music.apple.com-us-song-niagara-1718859074
+      quote: August 24, 2023
+      accessed: '2026-11-21'
+      locator: Published date

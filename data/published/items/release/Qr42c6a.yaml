@@ -1,0 +1,63 @@
+id: Qr42c6a
+type: release
+statements:
+  name:
+  - value:
+      text: Hamoon
+      language: en
+    references:
+    - source: mahmoodschricker.bandcamp.com-track-hamoon
+      quote: Hamoon
+      accessed: '2026-11-21'
+      locator: Recording title or artist credit
+  listen link:
+  - value: https://mahmoodschricker.bandcamp.com/track/hamoon
+    references:
+    - source: mahmoodschricker.bandcamp.com-track-hamoon
+      quote: Hamoon | Mahmood Schricker
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/7dY3BKgfh8Wz1Edd7G2olj
+    references:
+    - source: open.spotify.com-track-7dy3bkgfh8wz1edd7g2olj
+      quote: Hamoon - song and lyrics by Mahmood Schricker | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/hamoon/1434795701
+    references:
+    - source: music.apple.com-us-song-hamoon-1434795701
+      quote: ‎Hamoon - Song with Lyrics by Mahmood Schricker - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/mahmood-schricker/hamoon
+    references:
+    - source: soundcloud.com-mahmood-schricker-hamoon
+      quote: Stream Hamoon by Mahmood Schricker | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qxkh2tz
+    references:
+    - source: mahmoodschricker.bandcamp.com-track-hamoon
+      quote: Hamoon | Mahmood Schricker
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a0759663291_10.jpg
+    references:
+    - source: mahmoodschricker.bandcamp.com-track-hamoon
+      quote: https://f4.bcbits.com/img/a0759663291_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Mahmood Schricker on Bandcamp
+        language: en
+  release date:
+  - value:
+      date: '2018-09-01'
+    references:
+    - source: music.apple.com-us-song-hamoon-1434795701
+      quote: September 1, 2018
+      accessed: '2026-11-21'
+      locator: Published date

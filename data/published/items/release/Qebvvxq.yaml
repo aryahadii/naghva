@@ -1,0 +1,57 @@
+id: Qebvvxq
+type: release
+statements:
+  name:
+  - value:
+      text: Concrete on Paper (feat. Mohammad Talani)
+      language: en
+    references:
+    - source: music.apple.com-us-album-concrete-on-paper-feat-mohammad-talani-single-1787951289
+      quote: Concrete on Paper (feat. Mohammad Talani)
+      accessed: '2026-11-21'
+      locator: Recording title or artist credit
+  listen link:
+  - value: https://music.apple.com/us/album/concrete-on-paper-feat-mohammad-talani-single/1787951289
+    references:
+    - source: music.apple.com-us-album-concrete-on-paper-feat-mohammad-talani-single-1787951289
+      quote: ‎Concrete on Paper (feat. Mohammad Talani) - Single - Album by Mahmood Schricker - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/concrete-on-paper-feat-mohammad-talani/1787951290
+    references:
+    - source: music.apple.com-us-song-concrete-on-paper-feat-mohammad-talani-1787951290
+      quote: ‎Concrete on Paper (feat. Mohammad Talani) - Song with Lyrics by Mahmood Schricker - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/mahmood-schricker/concrete-on-paper-featuring-mohammad-talani
+    references:
+    - source: soundcloud.com-mahmood-schricker-concrete-on-paper-featuring-mohammad-talani
+      quote: Stream Concrete on Paper featuring Mohammad Talani by Mahmood Schricker | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qxkh2tz
+    references:
+    - source: music.apple.com-us-album-concrete-on-paper-feat-mohammad-talani-single-1787951289
+      quote: ‎Concrete on Paper (feat. Mohammad Talani) - Single - Album by Mahmood Schricker - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8e/45/c3/8e45c338-f80a-051a-186e-acd8e12eab79/198999612424.jpg/632x632bb.webp
+    references:
+    - source: music.apple.com-us-album-concrete-on-paper-feat-mohammad-talani-single-1787951289
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8e/45/c3/8e45c338-f80a-051a-186e-acd8e12eab79/198999612424.jpg/632x632bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Mahmood Schricker on Apple Music
+        language: en
+  release date:
+  - value:
+      date: '2016-06-20'
+    references:
+    - source: music.apple.com-us-album-concrete-on-paper-feat-mohammad-talani-single-1787951289
+      quote: June 20, 2016
+      accessed: '2026-11-21'
+      locator: Published date

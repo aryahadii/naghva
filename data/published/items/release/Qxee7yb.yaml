@@ -1,0 +1,80 @@
+id: Qxee7yb
+type: release
+statements:
+  name:
+  - value:
+      text: Fremont - Original Soundtrack
+      language: en
+    references:
+    - &id001
+      source: mahmoodschricker.bandcamp.com-album-fremont-original-soundtrack
+      quote: Fremont - Original Soundtrack
+      accessed: '2026-11-21'
+      locator: Recording title or artist credit
+  listen link:
+  - value: https://mahmoodschricker.bandcamp.com/album/fremont-original-soundtrack
+    references:
+    - source: mahmoodschricker.bandcamp.com-album-fremont-original-soundtrack
+      quote: Fremont - Original Soundtrack | Mahmood Schricker
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://linkmusiclab.bandcamp.com/album/fremont-original-soundtrack
+    references:
+    - source: linkmusiclab.bandcamp.com-album-fremont-original-soundtrack
+      quote: Fremont - Original Soundtrack | Mahmood Schricker, Leandro Joaquim, Scott Peterson | Link Music Lab Records
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/fremont-original-soundtrack/1715536871
+    references:
+    - source: music.apple.com-us-album-fremont-original-soundtrack-1715536871
+      quote: ‎Fremont (Original Soundtrack) - Album by Mahmood Schricker, Leandro Joaquim & Scott Peterson - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/album/3JvbUSCxc4Zfem4zjPBn7e
+    references:
+    - source: open.spotify.com-album-3jvbuscxc4zfem4zjpbn7e
+      quote: Listen to Fremont (Original Soundtrack) - Album by Mahmood Schricker | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qxkh2tz
+    references:
+    - source: mahmoodschricker.bandcamp.com-album-fremont-original-soundtrack
+      quote: Fremont - Original Soundtrack | Mahmood Schricker
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qmqrqbc
+    references:
+    - source: music.apple.com-us-album-fremont-original-soundtrack-1715536871
+      quote: Leandro Joaquim
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Q5573hc
+    references:
+    - source: music.apple.com-us-album-fremont-original-soundtrack-1715536871
+      quote: Scott Peterson
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  release type:
+  - value: album
+    references:
+    - *id001
+  cover art:
+  - value: https://f4.bcbits.com/img/a3807362954_10.jpg
+    references:
+    - source: mahmoodschricker.bandcamp.com-album-fremont-original-soundtrack
+      quote: https://f4.bcbits.com/img/a3807362954_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Mahmood Schricker on Bandcamp
+        language: en
+  release date:
+  - value:
+      date: '2023-10-28'
+    references:
+    - source: music.apple.com-us-album-fremont-original-soundtrack-1715536871
+      quote: October 28, 2023
+      accessed: '2026-11-21'
+      locator: Published date

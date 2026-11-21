@@ -1,0 +1,62 @@
+id: Qzntkdk
+type: release
+statements:
+  name:
+  - value:
+      text: Dar Golestaneh Synthesized
+      language: en
+    references:
+    - &id001
+      source: linkmusiclab.bandcamp.com-album-dar-golestaneh-synthesized
+      quote: Dar Golestaneh Synthesized
+      accessed: '2026-11-21'
+      locator: Recording title or artist credit
+  listen link:
+  - value: https://linkmusiclab.bandcamp.com/album/dar-golestaneh-synthesized
+    references:
+    - source: linkmusiclab.bandcamp.com-album-dar-golestaneh-synthesized
+      quote: Dar Golestaneh Synthesized | Kiimia Koochakzadeh-Yazdi, Mahmood Schricker | Link Music Lab Records
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/dar-golestaneh-synthesized-ep/6771177482
+    references:
+    - source: music.apple.com-us-album-dar-golestaneh-synthesized-ep-6771177482
+      quote: ‎Dar Golestaneh Synthesized - EP - Album by Kimia Koochakzadeh-Yazdi & Mahmood Schricker - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qxkh2tz
+    references:
+    - source: linkmusiclab.bandcamp.com-album-dar-golestaneh-synthesized
+      quote: Dar Golestaneh Synthesized | Kiimia Koochakzadeh-Yazdi, Mahmood Schricker | Link Music Lab Records
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qn7gbmk
+    references:
+    - source: music.apple.com-us-album-dar-golestaneh-synthesized-ep-6771177482
+      quote: Kimia Koochakzadeh-Yazdi
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  release type:
+  - value: album
+    references:
+    - *id001
+  cover art:
+  - value: https://f4.bcbits.com/img/a0329668607_10.jpg
+    references:
+    - source: linkmusiclab.bandcamp.com-album-dar-golestaneh-synthesized
+      quote: https://f4.bcbits.com/img/a0329668607_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Laleh Zandi
+        language: en
+  release date:
+  - value:
+      date: '2026-05-11'
+    references:
+    - source: music.apple.com-us-album-dar-golestaneh-synthesized-ep-6771177482
+      quote: May 11, 2026
+      accessed: '2026-11-21'
+      locator: Published date

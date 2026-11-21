@@ -1,0 +1,37 @@
+id: Qjcsgeq
+type: release
+statements:
+  name:
+  - value:
+      text: Sal
+      language: en
+    references:
+    - source: soundcloud.com-mahmood-schricker-sal
+      quote: Sal
+      accessed: '2026-11-21'
+      locator: Recording title or artist credit
+  listen link:
+  - value: https://soundcloud.com/mahmood-schricker/sal
+    references:
+    - source: soundcloud.com-mahmood-schricker-sal
+      quote: Stream Sal by Mahmood Schricker | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qxkh2tz
+    references:
+    - source: soundcloud.com-mahmood-schricker-sal
+      quote: Stream Sal by Mahmood Schricker | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-000105555394-6itjkx-t500x500.jpg
+    references:
+    - source: soundcloud.com-mahmood-schricker-sal
+      quote: https://i1.sndcdn.com/artworks-000105555394-6itjkx-t500x500.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Mahmood Schricker on SoundCloud
+        language: en

@@ -1,0 +1,51 @@
+id: Qang3sf
+type: release
+statements:
+  name:
+  - value:
+      text: Lonely City - Radio Edit
+      language: en
+    references:
+    - source: open.spotify.com-track-4g58qttbac4dikasejkyuy
+      quote: Lonely City - Radio Edit
+      accessed: '2026-11-21'
+      locator: Recording title or artist credit
+  listen link:
+  - value: https://open.spotify.com/track/4g58qtTBac4dIKASEJKYUY
+    references:
+    - source: open.spotify.com-track-4g58qttbac4dikasejkyuy
+      quote: Lonely City - Radio Edit - song and lyrics by Bahramji, Mahmood Schricker | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/lonely-city-radio-edit/1522136600
+    references:
+    - source: music.apple.com-us-song-lonely-city-radio-edit-1522136600
+      quote: ‎Lonely City (Radio Edit) - Song with Lyrics by Bahramji & Mahmood Schricker - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qxkh2tz
+    references:
+    - source: open.spotify.com-track-4g58qttbac4dikasejkyuy
+      quote: Lonely City - Radio Edit - song and lyrics by Bahramji, Mahmood Schricker | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/75/95/ec/7595ecc4-7581-decf-4490-01b4ac884fd9/00_Cover_Art.jpg/600x600bb.webp
+    references:
+    - source: music.apple.com-us-song-lonely-city-radio-edit-1522136600
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/75/95/ec/7595ecc4-7581-decf-4490-01b4ac884fd9/00_Cover_Art.jpg/600x600bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Mahmood Schricker on Apple Music
+        language: en
+  release date:
+  - value:
+      date: '2020-08-08'
+    references:
+    - source: music.apple.com-us-song-lonely-city-radio-edit-1522136600
+      quote: August 8, 2020
+      accessed: '2026-11-21'
+      locator: Published date

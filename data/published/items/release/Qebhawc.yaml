@@ -8,6 +8,24 @@ statements:
       quote: ‎Mount Dilaudid - EP - Album by Mahmood Schricker, Michael Red & Sina Salimi - Apple Music
       accessed: '2026-11-21'
       locator: Page title
+  - value: https://mahmoodschricker.bandcamp.com/album/mount-dilaudid
+    references:
+    - source: mahmoodschricker.bandcamp.com-album-mount-dilaudid
+      quote: Mount Dilaudid | Mahmood Schricker and Michael Red | Mahmood Schricker
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://linkmusiclab.bandcamp.com/album/mount-dilaudid
+    references:
+    - source: linkmusiclab.bandcamp.com-album-mount-dilaudid
+      quote: Mount Dilaudid | Mahmood Schricker, Michael Red | Link Music Lab Records
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/album/0BqCV2oNCeAvFzGSXEIdBL
+    references:
+    - source: open.spotify.com-album-0bqcv2onceavfzgsxeidbl
+      quote: Listen to Mount Dilaudid - EP by Mahmood Schricker | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
   name:
   - value:
       text: Mount Dilaudid

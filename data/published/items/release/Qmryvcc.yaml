@@ -1,0 +1,69 @@
+id: Qmryvcc
+type: release
+statements:
+  name:
+  - value:
+      text: The Past Is Particle The Future Is Wave
+      language: en
+    references:
+    - &id001
+      source: linkmusiclab.bandcamp.com-album-the-past-is-particle-the-future-is-wave
+      quote: The Past Is Particle The Future Is Wave
+      accessed: '2026-11-21'
+      locator: Recording title or artist credit
+  listen link:
+  - value: https://linkmusiclab.bandcamp.com/album/the-past-is-particle-the-future-is-wave
+    references:
+    - source: linkmusiclab.bandcamp.com-album-the-past-is-particle-the-future-is-wave
+      quote: The Past Is Particle The Future Is Wave | Cinna Peyghamy, Neda Mohamadpour, Mahmood Schricker | Link Music Lab Records
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/the-past-is-particle-the-future-is-wave-ep/6831738477
+    references:
+    - source: music.apple.com-us-album-the-past-is-particle-the-future-is-wave-ep-6831738477
+      quote: ‎The Past Is Particle, The Future Is Wave - EP - Album by Cinna Peyghamy, Mahmood Schricker & Neda Mohamadpour - Apple
+        Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qxkh2tz
+    references:
+    - source: linkmusiclab.bandcamp.com-album-the-past-is-particle-the-future-is-wave
+      quote: The Past Is Particle The Future Is Wave | Cinna Peyghamy, Neda Mohamadpour, Mahmood Schricker | Link Music Lab Records
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Q4q92dh
+    references:
+    - source: music.apple.com-us-album-the-past-is-particle-the-future-is-wave-ep-6831738477
+      quote: Cinna Peyghamy
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Qbb46yz
+    references:
+    - source: music.apple.com-us-album-the-past-is-particle-the-future-is-wave-ep-6831738477
+      quote: Neda Mohamadpour
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  release type:
+  - value: album
+    references:
+    - *id001
+  cover art:
+  - value: https://f4.bcbits.com/img/a2744874959_10.jpg
+    references:
+    - source: linkmusiclab.bandcamp.com-album-the-past-is-particle-the-future-is-wave
+      quote: https://f4.bcbits.com/img/a2744874959_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Link Music Lab Records
+        language: en
+  release date:
+  - value:
+      date: '2026-10-01'
+    references:
+    - source: linkmusiclab.bandcamp.com-album-the-past-is-particle-the-future-is-wave
+      quote: released October 1, 2026
+      accessed: '2026-11-21'
+      locator: Published date

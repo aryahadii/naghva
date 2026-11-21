@@ -1,0 +1,75 @@
+id: Qcymtrt
+type: release
+statements:
+  name:
+  - value:
+      text: Susan's Hunt
+      language: en
+    references:
+    - source: mahmoodschricker.bandcamp.com-track-susans-hunt
+      quote: Susan's Hunt
+      accessed: '2026-11-21'
+      locator: Recording title or artist credit
+  listen link:
+  - value: https://mahmoodschricker.bandcamp.com/track/susans-hunt
+    references:
+    - source: mahmoodschricker.bandcamp.com-track-susans-hunt
+      quote: Susan's Hunt | Mahmood Schricker
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/susans-hunt-single/1560069833
+    references:
+    - source: music.apple.com-us-album-susans-hunt-single-1560069833
+      quote: ‎Susan's Hunt - Single - Album by Mahmood Schricker - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/album/5VNe9UXIUvtBhozC5ii5Yo
+    references:
+    - source: open.spotify.com-album-5vne9uxiuvtbhozc5ii5yo
+      quote: Listen to Susan's Hunt - Single by Mahmood Schricker | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/0fbEgY0Ksy8onhojZ8y2Rv
+    references:
+    - source: open.spotify.com-track-0fbegy0ksy8onhojz8y2rv
+      quote: Susan's Hunt - song and lyrics by Mahmood Schricker | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/susans-hunt/1560069834
+    references:
+    - source: music.apple.com-us-song-susans-hunt-1560069834
+      quote: ‎Susan's Hunt - Song with Lyrics by Mahmood Schricker - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/mahmood-schricker/soosans-hunt
+    references:
+    - source: soundcloud.com-mahmood-schricker-soosans-hunt
+      quote: Stream Susan's Hunt by Mahmood Schricker | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qxkh2tz
+    references:
+    - source: mahmoodschricker.bandcamp.com-track-susans-hunt
+      quote: Susan's Hunt | Mahmood Schricker
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a0539638935_10.jpg
+    references:
+    - source: mahmoodschricker.bandcamp.com-track-susans-hunt
+      quote: https://f4.bcbits.com/img/a0539638935_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Mahmood Schricker on Bandcamp
+        language: en
+  release date:
+  - value:
+      date: '2021-03-12'
+    references:
+    - source: music.apple.com-us-album-susans-hunt-single-1560069833
+      quote: March 12, 2021
+      accessed: '2026-11-21'
+      locator: Published date

@@ -1,0 +1,63 @@
+id: Qxwhr5f
+type: release
+statements:
+  name:
+  - value:
+      text: Fish-purr
+      language: en
+    references:
+    - source: linkmusiclab.bandcamp.com-track-fish-purr
+      quote: Fish-purr
+      accessed: '2026-11-21'
+      locator: Recording title or artist credit
+  listen link:
+  - value: https://linkmusiclab.bandcamp.com/track/fish-purr
+    references:
+    - source: linkmusiclab.bandcamp.com-track-fish-purr
+      quote: Fish-purr | Kimia Koochakzasdeh-Yazdi, Mahmood Schricker | Link Music Lab Records
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/6EURVjkahciPUdRjsICl2Q
+    references:
+    - source: open.spotify.com-track-6eurvjkahcipudrjsicl2q
+      quote: Fish-purr - song and lyrics by Kimia Koochakzadeh-Yazdi, Mahmood Schricker | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/fish-purr/6771177484
+    references:
+    - source: music.apple.com-us-song-fish-purr-6771177484
+      quote: ‎Fish - Purr - Song with Lyrics by Kimia Koochakzadeh-Yazdi & Mahmood Schricker - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/linkmusiclab/fish-purr-2
+    references:
+    - source: soundcloud.com-linkmusiclab-fish-purr-2
+      quote: Stream Fish-purr by Link Music Lab | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qxkh2tz
+    references:
+    - source: linkmusiclab.bandcamp.com-track-fish-purr
+      quote: Fish-purr | Kimia Koochakzasdeh-Yazdi, Mahmood Schricker | Link Music Lab Records
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a0329668607_10.jpg
+    references:
+    - source: linkmusiclab.bandcamp.com-track-fish-purr
+      quote: https://f4.bcbits.com/img/a0329668607_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Laleh Zandi
+        language: en
+  release date:
+  - value:
+      date: '2026-05-11'
+    references:
+    - source: music.apple.com-us-song-fish-purr-6771177484
+      quote: May 11, 2026
+      accessed: '2026-11-21'
+      locator: Published date

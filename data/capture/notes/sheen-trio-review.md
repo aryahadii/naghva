@@ -14,3 +14,7 @@ Read the two original album editions, interview passages, quartet personnel and 
 | Total | **8.7/10** |
 
 Catalogue needs repair and rendered reassessment. Both articles are readable. Pending significant additions are identified above.
+
+## Rendered reassessment
+
+English 43b1335595e869, Persian b5d7200337f7c9. Both complete pages display the 30 October 2026 Deutschlandfunk Kultur radio concert, 24 panels, 53 decoded images, and intact anchors. The official Morgenland archive and guest musician additionally document their 2024 expanded-lineup appearance, without establishing a separate releasable recording. Source evidence 1.9/2, prose 1.9/2, recordings 2.6/3, images 1/1, gaps and reader experience 1.8/2. **9.2/10. Both articles and catalogue ready.**

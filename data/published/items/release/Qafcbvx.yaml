@@ -14,6 +14,32 @@ statements:
       quote: Zolfonoon Mystry - song and lyrics by Mahmood Schricker, Michael Red, Sina Salimi | Spotify
       accessed: '2026-11-21'
       locator: Page title
+  - value: https://mahmoodschricker.bandcamp.com/track/zolfonoon-mystry
+    references:
+    - source: mahmoodschricker.bandcamp.com-track-zolfonoon-mystry
+      quote: Zolfonoon Mystry | Mahmood Schricker and Michael Red | Mahmood Schricker
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://linkmusiclab.bandcamp.com/track/zolfonoon-mystry
+    references:
+    - source: linkmusiclab.bandcamp.com-track-zolfonoon-mystry
+      quote: Zolfonoon Mystry | Mahmood Schricker, Michael Red, Sina Salimi | Link Music Lab Records
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/mahmood-schricker/zolfonoon-mystry
+    references:
+    - source: soundcloud.com-mahmood-schricker-zolfonoon-mystry
+      quote: Stream Mahmood Schricker & Michael Red feat Sina Salimi – Zolfonoon Mystry by Mahmood Schricker | Listen online for free
+        on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/linkmusiclab/mahmood-schricker-michael-2
+    references:
+    - source: soundcloud.com-linkmusiclab-mahmood-schricker-michael-2
+      quote: Stream Mahmood Schricker & Michael Red feat Sina Salimi - Zolfonoon Mystry by Link Music Lab | Listen online for free on
+        SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
   name:
   - value:
       text: Zolfonoon Mystry (feat. Sina Salimi)

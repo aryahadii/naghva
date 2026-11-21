@@ -56,9 +56,19 @@ references:
     quote: Zenjungle Remix
     locator: Midira’s remix credit
     accessed: '2026-11-21'
+  bitrot:
+    source: bitrotrecords.bandcamp.com-album-kollektive-1
+    quote: independent and artist-run record label based in Tehran, Iran
+    locator: Label identity
+    accessed: '2026-11-21'
+  dunkle:
+    source: bitrotrecords.bandcamp.com-album-kollektive-1
+    quote: Dunkle Manie
+    locator: 2015 compilation track
+    accessed: '2026-11-21'
 ---
 
-Unland began by recording four improvisations in January 2014. Shabnam Parvaresh played clarinet, Jonas Meyer played piano and Christian Grothe played guitar. Meyer and Grothe also worked with electronics. During a performance the musicians could reshape the sound of a note while someone else was still playing it. Listeners can hear the three at work in the filmed session “Dunkle Manie.”[^first][^players][^clar][^process][^live]
+Unland began by recording four improvisations in January 2014. Shabnam Parvaresh played clarinet, Jonas Meyer played piano and Christian Grothe played guitar. Meyer and Grothe also worked with electronics. During a performance the musicians could reshape the sound of a note while someone else was still playing it. Listeners can hear the three at work in the filmed session “Dunkle Manie.”[^first][^players][^clar][^process][^live] In 2015 the Tehran artist-run label Bitrot included “Dunkle Manie” on its first Kollektive compilation.[^bitrot][^dunkle]
 
 The first record carried the group’s own name. Its pieces were numbered as scenes. A reviewer described “Scene 2” when the record appeared in 2014. Today the trio’s digital edition goes from “Scene 1” straight to “Scene 3.” Two years later, the German label Midira issued the debut on CD as part of the deluxe edition of Unland’s second record, [*Die Ruhe nach dem Sturm*](#die-ruhe-nach-dem-sturm-dsa).[^scene][^digital][^disc][^second]
 

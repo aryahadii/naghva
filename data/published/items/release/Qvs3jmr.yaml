@@ -1,0 +1,81 @@
+id: Qvs3jmr
+type: release
+statements:
+  name:
+  - value:
+      text: Maku
+      language: en
+    references:
+    - source: mahmoodschricker.bandcamp.com-track-maku-2
+      quote: Maku
+      accessed: '2026-11-21'
+      locator: Recording title or artist credit
+  listen link:
+  - value: https://mahmoodschricker.bandcamp.com/track/maku-2
+    references:
+    - source: mahmoodschricker.bandcamp.com-track-maku-2
+      quote: Maku | Mahmood Schricker
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://mahmoodschricker.bandcamp.com/track/maku
+    references:
+    - source: mahmoodschricker.bandcamp.com-track-maku
+      quote: Maku | Mahmood Schricker
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/maku-single/1000036713
+    references:
+    - source: music.apple.com-us-album-maku-single-1000036713
+      quote: ‎Maku - Single - Album by Mahmood Schricker - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/32EMWTIjqXC15eAJOO5WVy
+    references:
+    - source: open.spotify.com-track-32emwtijqxc15eajoo5wvy
+      quote: Maku - song and lyrics by Mahmood Schricker | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/maku/1000036807
+    references:
+    - source: music.apple.com-us-song-maku-1000036807
+      quote: ‎Maku - Song with Lyrics by Mahmood Schricker - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/maku/1434795368
+    references:
+    - source: music.apple.com-us-song-maku-1434795368
+      quote: ‎Maku - Song with Lyrics by Mahmood Schricker - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/mahmood-schricker/maku-final
+    references:
+    - source: soundcloud.com-mahmood-schricker-maku-final
+      quote: Stream MAKU by Mahmood Schricker | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qxkh2tz
+    references:
+    - source: mahmoodschricker.bandcamp.com-track-maku-2
+      quote: Maku | Mahmood Schricker
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a0759663291_10.jpg
+    references:
+    - source: mahmoodschricker.bandcamp.com-track-maku-2
+      quote: https://f4.bcbits.com/img/a0759663291_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Mahmood Schricker on Bandcamp
+        language: en
+  release date:
+  - value:
+      date: '2014-09-14'
+    references:
+    - source: mahmoodschricker.bandcamp.com-track-maku
+      quote: released September 14, 2014
+      accessed: '2026-11-21'
+      locator: Published date

@@ -20,6 +20,18 @@ statements:
       quote: Shadows featuring Sina Salimi | Mahmood Schricker
       accessed: '2026-11-21'
       locator: Page title
+  - value: https://soundcloud.com/mahmood-schricker/shadows-featuring-sina-salimi
+    references:
+    - source: soundcloud.com-mahmood-schricker-shadows-featuring-sina-salimi
+      quote: Stream Shadows featuring Sina Salimi by Mahmood Schricker | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://www.youtube.com/watch?v=RLYp3wamHiA
+    references:
+    - source: www.youtube.com-watch-v-rlyp3wamhia
+      quote: Mahmood Schricker and Sina Salimi - Shadows
+      accessed: '2026-11-21'
+      locator: Page title
   name:
   - value:
       text: Shadows

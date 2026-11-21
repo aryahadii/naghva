@@ -25,3 +25,7 @@ Shakibaai and Saburi, read 2026-11-21.
 > post-election protests on the streets of Tehran
 
 Songs written in 2009, read 2026-11-21.
+
+> as a child spent part of each year in Iran
+
+Childhood, read 2026-11-21.

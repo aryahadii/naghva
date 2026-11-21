@@ -56,9 +56,19 @@ references:
     quote: Zenjungle Remix
     locator: Midira’s remix credit
     accessed: '2026-11-21'
+  bitrot:
+    source: bitrotrecords.bandcamp.com-album-kollektive-1
+    quote: independent and artist-run record label based in Tehran, Iran
+    locator: Label identity
+    accessed: '2026-11-21'
+  dunkle:
+    source: bitrotrecords.bandcamp.com-album-kollektive-1
+    quote: Dunkle Manie
+    locator: 2015 compilation track
+    accessed: '2026-11-21'
 ---
 
-کار گروه اونلاند با ضبط چهار بداهه در ژانویهٔ ۲۰۱۴ آغاز شد. شبنم پرورش کلارینت می‌نواخت، یوناس مایر پیانو و کریستیان گروته گیتار. مایر و گروته با ابزار الکترونیک هم کار می‌کردند. نوازندگان می‌توانستند همان لحظه که صدایی از ساز درمی‌آمد آن را تغییر بدهند. در فیلم اجرای زندهٔ «Dunkle Manie» می‌توان هر سه نوازنده را هنگام کار دید و شنید.[^first][^players][^clar][^process][^live]
+کار گروه اونلاند با ضبط چهار بداهه در ژانویهٔ ۲۰۱۴ آغاز شد. شبنم پرورش کلارینت می‌نواخت، یوناس مایر پیانو و کریستیان گروته گیتار. مایر و گروته با ابزار الکترونیک هم کار می‌کردند. نوازندگان می‌توانستند همان لحظه که صدایی از ساز درمی‌آمد آن را تغییر بدهند. در فیلم اجرای زندهٔ «Dunkle Manie» می‌توان هر سه نوازنده را هنگام کار دید و شنید.[^first][^players][^clar][^process][^live] در سال ۲۰۱۵ نشر مستقل بیت‌رات که هنرمندان در تهران اداره‌اش می‌کنند، قطعهٔ «Dunkle Manie» را در نخستین مجموعهٔ *Kollektive* منتشر کرد.[^bitrot][^dunkle]
 
 نخستین ضبط به نام خود گروه منتشر شد و قطعه‌های آن را مانند صحنه‌های یک نمایش شماره گذاشتند. در نقدی که سال ۲۰۱۴ منتشر شد، نویسنده از «صحنهٔ دوم» هم نوشته است. در نسخهٔ دیجیتالی که خود گروه عرضه می‌کند، پس از «صحنهٔ اول» مستقیماً «صحنهٔ سوم» می‌آید. دو سال بعد، ناشر آلمانی میدیرا نسخهٔ سی‌دی این ضبط را همراه با نسخهٔ ویژهٔ اثر دوم اونلاند، «آرامش پس از طوفان» ([*Die Ruhe nach dem Sturm*](#die-ruhe-nach-dem-sturm-dsa))، منتشر کرد.[^scene][^digital][^disc][^second]
 

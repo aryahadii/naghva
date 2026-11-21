@@ -28,3 +28,7 @@ Release artwork, read 2026-11-21.
 > Mahmood Schricker
 
 Artist interview, biography or performance credits, read 2026-11-21.
+
+> Sina Salimi
+
+Artist interview, biography or performance credits, read 2026-11-21.
