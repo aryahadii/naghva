@@ -268,3 +268,11 @@ Independent review on 2026-11-21. **9.2/10** · Sources 1.9, prose 1.8, recordin
 ### Sepp Osley
 
 Independent review on 2026-11-21. **9.2/10** · Sources 1.9, prose 1.8, recordings 2.7, images 1.0, gaps and reader experience 1.8. The original presenter and a contemporary concert account establish the 2019 origin, the 2021 broadcast’s international contributions, and Osley’s guitar performance alongside Jo Harman. The 2025 Dear John recording with a string arrangement and the two editions’ track counts are distinguishable. Both languages in build 133 had 25 panels, 45 decoded images and working fragment links. Article and catalogue ready.
+
+### Shen Band
+
+Independent review on 2026-11-21. **9.3/10** · Sources 1.9, prose 1.9, recordings 2.7, images 1.0, gaps and reader experience 1.8. Three contemporary issues of Montreal’s Hafteh document Hashemi’s choice of Persian lyrics, his reason for declining a SXSW approach, two Montreal films and the public rehearsal. The group’s later billing and Hashemi’s own account of adopting musiSHEN keep the early recording project and stage musicians distinguishable. The seven official albums and independent 2011 compilation each have their own published references. Both languages at checkpoint 43 contained 85 recording panels and 167 decoded images. Every local reference resolved. Article and catalogue ready.
+
+### Soul Nidus
+
+Independent review on 2026-11-21. **9.2/10** · Sources 1.9, prose 1.8, recordings 2.7, images 1.0, gaps and reader experience 1.8. The original Tirgan programme, Auliffe’s research and the group’s interview establish the Toronto trio and the brothers’ later work. ColdplayCorner explicitly commissioned its own acoustic “Song of Hope.” The digital label credits on *Lonely Sessions* distinguish the brothers’ joint composition of “In the Name of Love” from Ehsan’s writing of the four other songs. The radio session, concert takes and separately uploaded rehearsals remain distinguishable. Both languages at checkpoint 43 contained 67 recording panels and 133 decoded images. Every local reference resolved. Article and catalogue ready.

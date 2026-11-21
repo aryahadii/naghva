@@ -116,19 +116,19 @@ The expansion started at revision fa6c29ca with 124 bilingual artist pages. The 
 | Idlefon | Qjjdrek | 9.3/10 | [Independent review](idlefon-independent-review.md) |
 | Farshid Arabi | Qk67gf5 | 9.2/10 | [Independent review](farshid-arabi-independent-review.md) |
 | Bahar Choir | Qs4s44j | 9.2/10 | [Independent review](artist-page-scores.md) |
-| Blurred Vision | Qqrzzag | Pending | [Catalogue](blurred-vision.md) |
+| Blurred Vision | Qqrzzag | 9.2/10 | [Independent review](blurred-vision-independent-review.md) |
 | Arash Fouladvand | Qb85b99 | 9.2/10 | [Independent review](arash-fouladvand-independent-review.md) |
 | Arezoo Banipour | Qpzdh9v | 9.2/10 | [Independent review](arezoo-banipour-independent-review.md) |
 | Zhouan Music Ensemble | Qtygce9 | 9.2/10 | [Independent review](zhouan-music-ensemble-independent-review.md) |
-| Sepp Osley | Qas33mb | Pending | [Catalogue](sepp-osley.md) |
+| Sepp Osley | Qas33mb | 9.2/10 | [Independent review](sepp-osley-independent-review.md) |
 | Umchunga | Q9rnctv | 9.2/10 | [Independent review](umchunga-independent-review.md) |
 | Roham Sobhani | Qs5p4nt | 9.2/10 | [Independent review](roham-sobhani-independent-review.md) |
 | Soul Nidus | Qst5f86 | 9.2/10 | [Independent review](soul-nidus-independent-review.md) |
 | Photomat | Qn4gh3f | 9.2/10 | [Independent review](photomat-independent-review.md) |
-| Babak Bouban | Qaxspbb | Pending | [Catalogue](babak-bouban.md) |
+| Babak Bouban | Qaxspbb | 9.2/10 | [Independent review](babak-bouban-independent-review.md) |
 | Herr Spectre | Qjdvdjm | 9.2/10 | [Independent review](herr-spectre-independent-review.md) |
 | Hailstones | Q2e2223 | 9.2/10 | [Independent review](artist-page-scores.md) |
-| Shen Band | Qavhs3y | Pending | [Catalogue](shen-band.md) |
-| Sahba Motallebi | Qyw49hh | Pending | [Catalogue](sahba-motallebi.md) |
+| Shen Band | Qavhs3y | 9.3/10 | [Independent review](artist-page-scores.md) |
+| Sahba Motallebi | Qyw49hh | 9.3/10 | [Independent review](sahba-motallebi-independent-review.md) |
 
 The [discovery list](independent-artist-discovery.md) contains candidates with release leads. Some will prove ineligible or match an existing artist by another spelling. Only new artist pages count toward the target.

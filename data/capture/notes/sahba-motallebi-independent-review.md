@@ -1,0 +1,5 @@
+# Sahba Motallebi, independent review
+
+**9.3/10.** Sources 1.9/2, writing 1.9/2, catalogue 2.7/3, imagery 1/1, reader questions and gaps 1.8/2.
+
+The institutional concert archive, Persian interview and credited recordings trace the musician’s early setar and tar studies through teaching and orchestral performance in Iran to her later solo and ensemble work. The Smithsonian's dated Nowruz recording and Motallebi’s description of composing “Birth” are represented. Comparable guest examples include the 2020 Kronos expanded “Salam Aleykom”, the Mahoor collection and independent 2018 versus 2022 Fandango editions. The 2019 Musical Instrument Museum duet with Rahim AlHaj survives on the artist’s own channel. The narrative distinguishes the award-winning Latin jazz project from Motallebi’s individual recordings and acknowledges her continuing educational work. In build 134 each localized page rendered 302 audio/video panels, 403 decoded images and 549 distinct external URLs. All internal fragments resolved and desktop/mobile layouts fit.
