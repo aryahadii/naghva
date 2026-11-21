@@ -73,15 +73,18 @@ statements:
       quote: Rafic
       accessed: '2026-11-08'
   cover art:
-  - value: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1e/f9/2f/1ef92f04-0a06-23e6-1b10-5a7c15afeb93/4011725583026_cover.jpg/1200x630wp-60.jpg
-    references:
-    - source: music.apple.com-us-album-rafic-single-1577260562
-      quote: ‎Rafic - Single - Album by Damahi - Apple Music
-      accessed: '2026-11-08'
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1e/f9/2f/1ef92f04-0a06-23e6-1b10-5a7c15afeb93/4011725583026_cover.jpg/296x296bb.webp
     qualifiers:
       credit:
         text: Apple Music
         language: en
+    references:
+    - source: music.apple.com-us-album-rafic-single-1577260562
+      quote: 'Listen to Rafic - Single by Damahi on Apple Music. 2021. 1 Song. Duration: 5 minutes.'
+      accessed: '2026-10-19'
+    - source: music.apple.com-us-album-rafic-single-1577260562
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1e/f9/2f/1ef92f04-0a06-23e6-1b10-5a7c15afeb93/4011725583026_cover.jpg/296x296bb.webp
+      accessed: '2026-11-21'
   performer:
   - value: Qep6nz6
     references:
