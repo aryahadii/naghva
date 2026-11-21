@@ -3,6 +3,13 @@ type: act
 statements:
   name:
   - value:
+      text: یلو داگز
+      language: fa
+    references:
+    - source: asrkhabar.com-fa-news-29242
+      quote: گروه «یلو داگز»
+      accessed: '2026-11-21'
+  - value:
       text: The Yellow Dogs
       language: en
     references:
