@@ -41,6 +41,29 @@ function sparkle(ctx: CanvasRenderingContext2D, point: Point, r: number) {
   ctx.fill();
 }
 
+/** An open band of light with a dark centre. Feather one side so it reads
+ * as atmospheric haze rather than a boundary around a set of records. */
+function hollowHalo(colour: string) {
+  const sprite = document.createElement('canvas');
+  sprite.width = sprite.height = 192;
+  const paint = sprite.getContext('2d')!;
+  const radius = sprite.width / 2;
+  const band = paint.createRadialGradient(radius, radius, 0, radius, radius, radius);
+  for (const [stop, alpha] of [[0, 0], [.42, 0], [.61, .12], [.72, .24], [.83, .1], [1, 0]]) {
+    band.addColorStop(stop, `rgba(${colour},${alpha})`);
+  }
+  paint.fillStyle = band;
+  paint.fillRect(0, 0, sprite.width, sprite.height);
+  const fade = paint.createLinearGradient(0, sprite.height, sprite.width, 0);
+  fade.addColorStop(0, 'transparent');
+  fade.addColorStop(.36, 'rgba(0,0,0,.13)');
+  fade.addColorStop(.9, 'black');
+  paint.globalCompositeOperation = 'destination-in';
+  paint.fillStyle = fade;
+  paint.fillRect(0, 0, sprite.width, sprite.height);
+  return sprite;
+}
+
 /** The camera lives in map coordinates, so resizing never changes which region is in view. */
 function makeSky(canvas: HTMLCanvasElement, stars: SkyStar[], lang: Lang, choose: (id: string) => void) {
   const ctx = canvas.getContext('2d');
@@ -226,6 +249,12 @@ function makeSky(canvas: HTMLCanvasElement, stars: SkyStar[], lang: Lang, choose
   }
   const amberHalo = haloSprite('255,155,65');
   const cyanHalo = haloSprite('50,227,245');
+  const landmarkIds = [...landmarks];
+  const hollows = [
+    { anchor: landmarkIds[0], image: hollowHalo('126,121,248'), radius: .21, angle: -.4 },
+    { anchor: landmarkIds[1], image: hollowHalo('51,210,217'), radius: .14, angle: -.72 },
+    { anchor: landmarkIds[2], image: hollowHalo('236,150,108'), radius: .12, angle: .28 },
+  ];
   const canvasFont = getComputedStyle(canvas).fontFamily;
   const standardFont = '12px ' + canvasFont;
   const activeFont = '600 14px ' + canvasFont;
@@ -236,6 +265,21 @@ function makeSky(canvas: HTMLCanvasElement, stars: SkyStar[], lang: Lang, choose
     ctx.setTransform(ratio, 0, 0, ratio, 0, 0);
     ctx.clearRect(0, 0, w, h);
     points = stars.map(project);
+    if (scale < 2.5) {
+      ctx.save();
+      ctx.globalAlpha = Math.min(1, (2.5 - scale) / 1.5) * (selected < 0 ? .85 : .45);
+      for (const hollow of hollows) {
+        const anchor = points[hollow.anchor];
+        if (!anchor) continue;
+        const r = Math.min(w, h) * hollow.radius * scale;
+        ctx.save();
+        ctx.translate(anchor.x, anchor.y);
+        ctx.rotate(hollow.angle);
+        ctx.drawImage(hollow.image, -r, -r * .64, 2 * r, 1.28 * r);
+        ctx.restore();
+      }
+      ctx.restore();
+    }
     labels = [];
     const active = selected < 0 ? new Set<number>() : new Set(neighbours[selected]);
     function edge(i: number, j: number) {
