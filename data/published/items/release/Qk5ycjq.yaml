@@ -1,0 +1,26 @@
+id: Qk5ycjq
+type: release
+statements:
+  name:
+  - value:
+      text: Overture in C major
+      language: en
+    references:
+    - &id001
+      source: philharmoniedeparis.fr-en-live-concert-1165024-la-maestra
+      quote: 'Yalda Zamani : Ouverture en do majeur (extrait)'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    editorial: true
+  performer:
+  - value: Qrtebcw
+    references:
+    - *id001
+  release date:
+  - value:
+      date: '2024-03-14'
+    references:
+    - source: philharmoniedeparis.fr-en-live-concert-1165024-la-maestra
+      quote: Recorded the March 14, 2024
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits

@@ -1,0 +1,65 @@
+id: Q3x4n7t
+type: release
+statements:
+  name:
+  - value:
+      text: So Right
+      language: en
+    references:
+    - source: themast.bandcamp.com-album-pleasure-island
+      quote: So Right
+      accessed: 2026-11-21
+      locator: Track listing
+  performer:
+  - value: Qfwn5xw
+    references:
+    - source: themast.bandcamp.com-album-pleasure-island
+      quote: The Mast
+      accessed: 2026-11-21
+      locator: Release artist
+  release date:
+  - value:
+      date: '2014-01-28'
+    references:
+    - source: themast.bandcamp.com-album-pleasure-island
+      quote: released January 28, 2014
+      accessed: 2026-11-21
+      locator: Release date
+  cover art:
+  - value: https://f4.bcbits.com/img/a2926326288_2.jpg
+    references:
+    - source: themast.bandcamp.com-album-pleasure-island
+      quote: Pleasure Island
+      accessed: 2026-11-21
+      locator: Release heading
+  listen link:
+  - value: https://themast.bandcamp.com/track/so-right
+    references:
+    - source: themast.bandcamp.com-album-pleasure-island
+      quote: So Right
+      accessed: 2026-11-21
+      locator: Track listing
+  - value: https://open.spotify.com/track/6OdVx5khgylMiQJJTfvasJ
+    references:
+    - source: open.spotify.com-album-3f5iwoloxn70l8nuxnkmn7
+      quote: So Right
+      accessed: 2026-11-21
+      locator: Track 3
+  - value: https://music.apple.com/us/song/so-right/797158017
+    references:
+    - source: music.apple.com-us-album-pleasure-island-797158012
+      quote: So Right
+      accessed: 2026-11-21
+      locator: Track 3
+  - value: https://soundcloud.com/themastmusic/so-right
+    references:
+    - source: soundcloud.com-themastmusic-so-right
+      quote: So Right
+      accessed: 2026-11-21
+      locator: SoundCloud track heading under The Mast
+  - value: https://www.youtube.com/watch?v=tsAoQfvV0Fo
+    references:
+    - source: delicious-audio.com-the-masts-gear-and-creative-process
+      quote: So Right
+      accessed: 2026-11-21
+      locator: Artist interview, music video links

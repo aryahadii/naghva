@@ -1,0 +1,9 @@
+# Independent review of Fared Shafinury
+
+The first English and Persian render contained 49 recordings apiece. Playwright inspected the English page at 1,280 pixels and the Persian page at 390 pixels. The page stayed within both viewports and local panel links resolved. Both versions give the listener a memorable connection between childhood Persian pop and poetry. The lead currently omits the musician’s identity, instrument and work, while the body omits the group he formed in Texas and the second album.
+
+The artist’s website identifies Tehranosaurus, Seh-da and the Setar/Sitar Project. The Houston Press dates the six-member group to 2008. The Chai and Conversation host identifies him as the composer of the podcast theme and dates Into the Night to late 2016; Apple dates the digital edition to 1 January 2017. The Amazon-native catalogue identifies two omissions, Through the Veil and Birds of a Feather (Barra and Govinda). The Getty has two distinct videos of the June 2022 concert. Radio Javan credits his group on Yare Dabestani. A historical New York Vimeo performance, In the Path of Love, remains indexed but the current player does not resolve.
+
+First score 8.1/10. Sources and claims 1.8/2, article 1.4/2, catalogue 2.3/3, image 0.9/1, gaps and reader experience 1.7/2. Article and catalogue await the ongoing repair.
+
+[Houston performance and band formation](https://www.houstonpress.com/arts/fared-shafinury-and-tehranosaurus-persian-music-at-the-houston-grand-opera-6392806/) · [Artist speaking about music and language](https://www.chaiandconversation.com/2017/interview-fared-shafinury-musician) · [Getty first part](https://www.youtube.com/watch?v=aCMKhBV4PsI) · [Getty second part](https://www.youtube.com/watch?v=JIPzYecWyUc) · [Guest catalogue](https://music.amazon.in/artists/B005VUD13M/fared-shafinury) · [Radio Javan](https://play.radiojavan.com/video/fared-shafinury-tehranosaurus-yare-dabestani)

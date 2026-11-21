@@ -162,6 +162,56 @@ references:
     quote: The other musicians in the group have roots from India, Ivory Coast, Senegal and Morocco.
     accessed: '2026-11-21'
     locator: ComboNations lineup
+  dast:
+    source: www.radiofarda.com-a-f4_javid_afsarinia_music_works_oslo_orcestra-24405335.html
+    quote: «دست افشان» نام قطعه پر تحرک و هيجانی بدون کلام بود
+    accessed: '2026-11-21'
+    locator: قطعهٔ آغازین کنسرت
+  concert:
+    source: www.radiofarda.com-a-f4_javid_afsarinia_music_works_oslo_orcestra-24405335.html
+    quote: «ماه در چاه» عنوان مجموعه اين آثار بود
+    accessed: '2026-11-21'
+    locator: گزارش اجرای اسلو
+  vocal:
+    source: www.radiofarda.com-a-f4_javid_afsarinia_music_works_oslo_orcestra-24405335.html
+    quote: با صدای سالار عقيلی خواننده موسيقی سنتی ايرانی
+    accessed: '2026-11-21'
+    locator: خوانندهٔ برنامه
+  man:
+    source: kortfilmfestivalen.no-film-the-manchador
+    quote: 'Musikk: Javid Afsari Rad'
+    accessed: '2026-11-21'
+    locator: Credited composer
+  anne:
+    source: kortfilmfestivalen.no-wp-content-uploads-2020-10-kff-arkiv-2009.pdf
+    quote: 'Musikk/Music: Anne Hytta, Javid Afsari Rad'
+    accessed: '2026-11-21'
+    locator: Pages 68–69, Dette er min stemme
+  short:
+    source: kortfilmfestivalen.no-wp-content-uploads-2020-10-kff-arkiv-2009.pdf
+    quote: This is My Voice
+    accessed: '2026-11-21'
+    locator: Pages 68–69, Dette er min stemme
+  house:
+    source: cineuropa.org-en-interview-320949
+    quote: Iranian pieces played by Javid Afsari Rad
+    accessed: '2026-11-21'
+    locator: Director discussing the score
+  titlehouse:
+    source: cineuropa.org-en-interview-320949
+    quote: House of Norway
+    accessed: '2026-11-21'
+    locator: Film title
+  filmdate:
+    source: kortfilmfestivalen.no-film-the-manchador
+    quote: 'År: 2019'
+    accessed: '2026-11-21'
+    locator: Film year
+  director:
+    source: kortfilmfestivalen.no-film-the-manchador
+    quote: 'Regi: Kaveh Tehrani'
+    accessed: '2026-11-21'
+    locator: Film director
 ---
 
 Javid Afsari Rad is an Iranian composer and santur player from Isfahan. Based in Oslo since 1986, he has written both for the Norwegian Radio Orchestra and for ensembles he founded there. In ComboNations he composed for musicians from India, West Africa, Iran and Morocco. With Rumi Ensemble he set Persian poetry to music for an Iranian singer and Norwegian strings.[^name][^born][^oslo][^santur][^osc][^combo][^comborole][^roots][^theme][^salar][^strings]
@@ -172,8 +222,12 @@ At sixteen Afsari Rad studied the santur and the radif, the repertoire of Persia
 
 For his solo album [*Afarinesh*](#afarinesh-8j9), released in 2009, Afsari Rad dedicated the opening piece, “Mehvaré Eshqh” (Axis of Love), to the people of Afghanistan. He based another piece, “Soz O Godaz” (Flames), on an Azerbaijani folk melody.[^orig][^ded][^axis][^flames]
 
+In Oslo in 2011, the Norwegian Radio Orchestra played his suite *Mah dar Chah*. Afsari Rad played santur and Salar Aghili sang. The concert opened with the instrumental “Dast Afshan”.[^concert][^vocal][^dast]
+
 ## An ensemble changes its name
 
 Afsari Rad formed Rumi Ensemble in 2007. On the group's first album, [*In the Footprints of Rumi*](#in-the-footprints-of-rumi-tkg), released in 2011, Salar Aghili sang verses by Rumi. When Afsari Rad began writing more instrumental pieces, he renamed the group the Javid Afsari Rad Ensemble. For [*Lalehzar*](#lalehzar-yr8) he drew on the dance rhythms of eighteenth-century Baroque suites for “Choopi”, “Baran” and “Baroque Fantasi”. The title track recalls the Arabic-influenced music once played on Tehran's Lalehzar Street.[^rum][^rumdate][^theme][^salar][^rename][^baroque][^move][^street]
 
 His Norwegian World Orchestra brought a classical string quartet together with musicians from Iran, Morocco, India, Ivory Coast and Senegal. Afsari Rad composed, arranged and played santur in the group. They released [*Bigah*](#bigah-487) in 2025. The following year his own ensemble released *Susa* with the singer Vahid Taj.[^now][^orchestrarole][^instr][^titlebig][^big][^susa][^taj]
+
+For film he worked both as a composer and as a player. He shared the music credit with Anne Hytta on the 2009 documentary *This is My Voice*. In Jan Vardøen’s *House of Norway* he played Iranian pieces on santur. He composed the music for Kaveh Tehrani’s short film *The Manchador* in 2019.[^anne][^short][^house][^titlehouse][^man][^filmdate][^director]

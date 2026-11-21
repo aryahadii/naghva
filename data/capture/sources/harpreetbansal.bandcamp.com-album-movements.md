@@ -1,5 +1,6 @@
 ---
 url: https://harpreetbansal.bandcamp.com/album/movements
+archive: https://web.archive.org/web/20251104190947/https://harpreetbansal.bandcamp.com/album/movements
 title: Movements | Harpreet Bansal Band | Harpreet Bansal
 status: processed
 language: en

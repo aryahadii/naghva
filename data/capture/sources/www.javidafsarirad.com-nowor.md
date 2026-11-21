@@ -1,5 +1,6 @@
 ---
 url: https://www.javidafsarirad.com/nowor
+archive: https://web.archive.org/web/20200425211712/http://www.javidafsarirad.com/nowor
 title: Nowor — Javid Afsari Rad
 status: processed
 language: en

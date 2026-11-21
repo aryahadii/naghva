@@ -1,0 +1,45 @@
+id: Q4fhqvz
+type: release
+statements:
+  name:
+  - value:
+      text: Hybrid Gaits
+      language: en
+    references:
+    - source: open.spotify.com-track-1ims0e3gvxt3icg7xwq6tm
+      quote: Hybrid Gaits
+      accessed: '2026-11-21'
+      locator: Recording title
+  performer:
+  - value: Qrtebcw
+    references:
+    - source: open.spotify.com-track-1ims0e3gvxt3icg7xwq6tm
+      quote: Hybrid Gaits - song and lyrics by Stefan Keller, Ensemble Ascolta, Yalda Zamani | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://open.spotify.com/track/1ims0e3GVXT3iCG7XWQ6TM
+    references:
+    - source: open.spotify.com-track-1ims0e3gvxt3icg7xwq6tm
+      quote: Hybrid Gaits - song and lyrics by Stefan Keller, Ensemble Ascolta, Yalda Zamani | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2023'
+    references:
+    - source: open.spotify.com-album-5kr699cmghrwb1o3nvlust
+      quote: '2023'
+      accessed: '2026-11-21'
+      locator: Album date
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d0000b273e46de5c3bd48c6d007903535
+    references:
+    - source: open.spotify.com-track-1ims0e3gvxt3icg7xwq6tm
+      quote: https://i.scdn.co/image/ab67616d0000b273e46de5c3bd48c6d007903535
+      accessed: '2026-11-21'
+      locator: Official video thumbnail or release image
+    qualifiers:
+      credit:
+        text: Spotify release artwork
+        language: en

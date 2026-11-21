@@ -1,5 +1,6 @@
 ---
 url: https://www.bansalmusic.com/project/bansal-band
+archive: https://web.archive.org/web/20260813183551/https://www.bansalmusic.com/project/bansal-band
 title: Harpreet Bansal Band | bansalmusic.com
 status: processed
 language: en

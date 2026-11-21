@@ -1,5 +1,6 @@
 ---
 url: https://www.javidafsarirad.com/combonations
+archive: https://web.archive.org/web/20260722224857/http://www.javidafsarirad.com/combonations/
 title: ComboNations — Javid Afsari Rad
 status: processed
 language: en

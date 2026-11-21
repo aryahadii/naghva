@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/06Puc4Md7btY4dbBJXVwhJ
+archive: https://web.archive.org/web/20250519131125/https://open.spotify.com/album/06Puc4Md7btY4dbBJXVwhJ
 title: Listen to Samaya - Album by Harpreet Bansal | Spotify
 status: processed
 language: en

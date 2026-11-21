@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/54pMfx3riripSE2WBGYhO9
+archive: https://web.archive.org/web/20190817061005/https://open.spotify.com/album/54pMfx3riripSE2WBGYhO9
 title: Listen to In the Footprints of Rumi - Album by Rumi ensemble | Spotify
 status: processed
 language: en

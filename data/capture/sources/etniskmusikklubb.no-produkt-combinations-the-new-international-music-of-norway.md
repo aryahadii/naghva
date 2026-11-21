@@ -1,5 +1,6 @@
 ---
 url: https://etniskmusikklubb.no/produkt/combinations-the-new-international-music-of-norway/
+archive: https://web.archive.org/web/20260613122117/https://etniskmusikklubb.no/produkt/combinations-the-new-international-music-of-norway/
 title: combiNATIONS (The New International Music Of Norway) – Etnisk Musikklubb
 status: processed
 language: en

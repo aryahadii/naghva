@@ -2,7 +2,7 @@
 url: https://hihmtilvekst.wordpress.com/2009/12/02/tilvekst-musikk-hh-biblioteket-november-2009/
 title: 'Tilvekst musikk, HH-biblioteket november 2009 | Høgskolen i Hedmark: Bibliotekets tilvekstblogg'
 status: processed
-language: en
+language: 'no'
 tier: own
 about:
 - Javid Afsari Rad

@@ -1,5 +1,6 @@
 ---
 url: https://iranian.com/main/2008/call-love-zarbang.html
+archive: https://web.archive.org/web/20260516214643/http://iranian.com/main/2008/call-love-zarbang.html
 title: A call to love with Zarbang | Iranian.com
 status: processed
 language: en

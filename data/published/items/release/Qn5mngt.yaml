@@ -1,0 +1,72 @@
+id: Qn5mngt
+type: release
+statements:
+  name:
+  - value:
+      text: The Joy of Solitude
+      language: en
+    references:
+    - source: hamedsadeghi.bandcamp.com-track-the-joy-of-solitude
+      quote: The Joy of Solitude | Hamed Sadeghi
+      accessed: '2026-11-21'
+      locator: Bandcamp song heading
+  performer:
+  - value: Qmgbz4h
+    qualifiers:
+      role: tar
+    references:
+    - source: hamedsadeghi.bandcamp.com-album-empty-voices
+      quote: Hamed Sadeghi, Persian tar
+      accessed: '2026-11-21'
+      locator: Album personnel
+  listen link:
+  - value: https://hamedsadeghi.bandcamp.com/track/the-joy-of-solitude
+    references:
+    - source: hamedsadeghi.bandcamp.com-track-the-joy-of-solitude
+      quote: The Joy of Solitude | Hamed Sadeghi
+      accessed: '2026-11-21'
+      locator: Bandcamp song heading
+  - value: https://open.spotify.com/track/6dq8JaUzmNnaLJx6SKPmzB
+    references:
+    - source: open.spotify.com-album-5vfqc5yockjdrdhsggfegx
+      quote: The Joy of Solitude
+      accessed: '2026-11-21'
+      locator: Spotify track 6
+  - value: https://music.apple.com/us/song/the-joy-of-solitude/1734752406
+    references:
+    - source: music.apple.com-us-album-empty-voices-1734752398
+      quote: The Joy of Solitude
+      accessed: '2026-11-21'
+      locator: Apple Music track 6
+  release date:
+  - value:
+      date: '2024-06-14'
+    references:
+    - source: hamedsadeghi.bandcamp.com-album-empty-voices
+      quote: released June 14, 2024
+      accessed: '2026-11-21'
+      locator: Release credits
+  cover art:
+  - value: https://f4.bcbits.com/img/a0428035064_10.jpg
+    qualifiers:
+      credit:
+        text: Shima Sadeghi, photography
+        language: en
+    references:
+    - source: hamedsadeghi.bandcamp.com-album-empty-voices
+      quote: https://f4.bcbits.com/img/a0428035064_10.jpg
+      accessed: '2026-11-21'
+      locator: Bandcamp original album image
+    - source: hamedsadeghi.bandcamp.com-album-empty-voices
+      quote: Photo by Shima Sadeghi
+      accessed: '2026-11-21'
+      locator: Cover credit
+  contributor:
+  - value: Qmgbz4h
+    qualifiers:
+      role: composer
+    references:
+    - source: hamedsadeghi.bandcamp.com-album-empty-voices
+      quote: 'Composer: Hamed Sadeghi'
+      accessed: '2026-11-21'
+      locator: Writing credit

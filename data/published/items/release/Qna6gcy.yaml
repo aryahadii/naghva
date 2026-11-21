@@ -1,0 +1,45 @@
+id: Qna6gcy
+type: release
+statements:
+  name:
+  - value:
+      text: After Spring
+      language: en
+    references:
+    - source: www.youtube.com-watch-v-lvzhyzdyn0s
+      quote: After Spring
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  performer:
+  - value: Qrtebcw
+    references:
+    - source: www.youtube.com-watch-v-lvzhyzdyn0s
+      quote: 'Michelle Agnes Magalhaes: After Spring | Yalda Zamani · Croatian Radiotelevision Symphony Orchestra - YouTube'
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://www.youtube.com/watch?v=LVzHYZDYn0s
+    references:
+    - source: www.youtube.com-watch-v-lvzhyzdyn0s
+      quote: 'Michelle Agnes Magalhaes: After Spring | Yalda Zamani · Croatian Radiotelevision Symphony Orchestra - YouTube'
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2021-05-29'
+    references:
+    - source: glazba.hrt.hr-simfonijski-orkestar-novosti-simfonijski-orkestar-hrt-a-i-mbz-raznolikost-suvremenog-orkestralnog-stvaralastva-1956250
+      quote: 29. svibnja 2021.
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  cover art:
+  - value: https://i.ytimg.com/vi/LVzHYZDYn0s/maxresdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-lvzhyzdyn0s
+      quote: https://i.ytimg.com/vi/LVzHYZDYn0s/maxresdefault.jpg
+      accessed: '2026-11-21'
+      locator: Official video thumbnail or release image
+    qualifiers:
+      credit:
+        text: Performance image from the published video
+        language: en

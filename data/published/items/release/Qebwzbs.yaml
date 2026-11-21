@@ -1,0 +1,59 @@
+id: Qebwzbs
+type: release
+statements:
+  name:
+  - value:
+      text: 1b
+      language: en
+    references:
+    - source: themast.bandcamp.com-album-1
+      quote: 1b
+      accessed: 2026-11-21
+      locator: Track listing
+  performer:
+  - value: Qfwn5xw
+    references:
+    - source: themast.bandcamp.com-album-1
+      quote: The Mast
+      accessed: 2026-11-21
+      locator: Release artist
+  release date:
+  - value:
+      date: '2015-04-20'
+    references:
+    - source: themast.bandcamp.com-album-1
+      quote: released April 20, 2015
+      accessed: 2026-11-21
+      locator: Release date
+  cover art:
+  - value: https://f4.bcbits.com/img/a3234590678_2.jpg
+    references:
+    - source: themast.bandcamp.com-album-1
+      quote: '1'
+      accessed: 2026-11-21
+      locator: Release heading
+  listen link:
+  - value: https://themast.bandcamp.com/track/1b
+    references:
+    - source: themast.bandcamp.com-album-1
+      quote: 1b
+      accessed: 2026-11-21
+      locator: Track listing
+  - value: https://open.spotify.com/track/18tYYvgCKF38unADQBzwWv
+    references:
+    - source: open.spotify.com-album-2ijhnxg3bjngidjwpfeb9j
+      quote: 1b
+      accessed: 2026-11-21
+      locator: Track 2
+  - value: https://music.apple.com/us/song/1b/983421256
+    references:
+    - source: music.apple.com-us-album-1-ep-983421090
+      quote: 1B
+      accessed: 2026-11-21
+      locator: Track 2
+  - value: https://soundcloud.com/themastmusic/1b
+    references:
+    - source: soundcloud.com-themastmusic-1b
+      quote: 1b
+      accessed: 2026-11-21
+      locator: SoundCloud track heading under The Mast

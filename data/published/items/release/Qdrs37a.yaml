@@ -1,0 +1,82 @@
+id: Qdrs37a
+type: release
+statements:
+  name:
+  - value:
+      text: Before the Shore
+      language: en
+    references:
+    - source: hamedsadeghi.bandcamp.com-track-before-the-shore
+      quote: Before the Shore | Hamed Sadeghi
+      accessed: '2026-11-21'
+      locator: Bandcamp song heading
+  performer:
+  - value: Qmgbz4h
+    qualifiers:
+      role: tar
+    references:
+    - source: hamedsadeghi.bandcamp.com-album-comfortable
+      quote: Hamed Sadeghi, Persian tar
+      accessed: '2026-11-21'
+      locator: Album personnel
+  - value: Qfjxs3e
+    qualifiers:
+      role: double bass
+    references:
+    - source: hamedsadeghi.bandcamp.com-album-comfortable
+      quote: Lloyd Swanton, double bass
+      accessed: '2026-11-21'
+      locator: Album personnel
+  listen link:
+  - value: https://hamedsadeghi.bandcamp.com/track/before-the-shore
+    references:
+    - source: hamedsadeghi.bandcamp.com-track-before-the-shore
+      quote: Before the Shore | Hamed Sadeghi
+      accessed: '2026-11-21'
+      locator: Bandcamp song heading
+  - value: https://open.spotify.com/track/30Qlbk0Ke4gvDlhekKRSZk
+    references:
+    - source: open.spotify.com-album-01erqignsrpkiyl71mfjga
+      quote: Before the Shore
+      accessed: '2026-11-21'
+      locator: Spotify track 5
+  - value: https://music.apple.com/us/song/before-the-shore-feat-lloyd-swanton/6802438850
+    references:
+    - source: music.apple.com-us-album-comfortable-6802438513
+      quote: Before the Shore (feat. Lloyd Swanton)
+      accessed: '2026-11-21'
+      locator: Apple Music track 5
+  release date:
+  - value:
+      date: '2026-09-05'
+    references:
+    - source: hamedsadeghi.bandcamp.com-album-comfortable
+      quote: released September 5, 2026
+      accessed: '2026-11-21'
+      locator: Release credits
+  cover art:
+  - value: https://f4.bcbits.com/img/a0912250874_10.jpg
+    qualifiers:
+      credit:
+        text: Amir Behroozi, cover photograph
+        language: en
+    references:
+    - source: hamedsadeghi.bandcamp.com-album-comfortable
+      quote: https://f4.bcbits.com/img/a0912250874_10.jpg
+      accessed: '2026-11-21'
+      locator: Bandcamp original album image
+    - source: hamedsadeghi.bandcamp.com-album-comfortable
+      quote: Cover photo by Amir Behroozi
+      accessed: '2026-11-21'
+      locator: Cover credit
+  contributor:
+  - value: Qmgbz4h
+    qualifiers:
+      role:
+      - composer
+      - arranger
+    references:
+    - source: hamedsadeghi.bandcamp.com-album-comfortable
+      quote: Composition and arrangement by Hamed Sadeghi
+      accessed: '2026-11-21'
+      locator: Writing credit

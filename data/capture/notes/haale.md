@@ -1,0 +1,3 @@
+# Haale (Haleh Liza Gafori)
+
+Three solo Apple releases, twenty studio tracks, three compilation appearances and the eight-piece 7 December 2008 WFMU session are documented. Morning and Paratrooper were self-released on Darya Records, per the Apple artist biography and release-level credits. The 2008 album was issued by Channel A. The later group The Mast is maintained separately and explicitly connects the vocalist via its own release notes. The radio station’s archive prints “Flaoting Down”; its stage recording is listed under the documented studio spelling. The official contemporary biography publishes her portrait and names Isabela Sabino in its filename. Additional service reconciliation and independent scoring are underway.

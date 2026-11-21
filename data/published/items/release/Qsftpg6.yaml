@@ -1,0 +1,41 @@
+id: Qsftpg6
+type: release
+statements:
+  name:
+  - value:
+      text: Hamed Sadeghi, Maryam Rahmani, Hilary Kleinig, Dylan Paul
+      language: en
+    references:
+    - source: www.youtube.com-watch-v-fz1hhlbkx5y
+      quote: Hamed Sadeghi, Maryam Rahmani, Hilary Kleinig, Dylan Paul
+      accessed: '2026-11-21'
+      locator: YouTube oEmbed title
+  performer:
+  - value: Qmgbz4h
+    references:
+    - source: www.youtube.com-watch-v-fz1hhlbkx5y
+      quote: Hamed Sadeghi
+      accessed: '2026-11-21'
+      locator: Publishing channel
+    - source: www.youtube.com-watch-v-fz1hhlbkx5y
+      quote: Hamed Sadeghi, Maryam Rahmani, Hilary Kleinig, Dylan Paul
+      accessed: '2026-11-21'
+      locator: YouTube oEmbed title
+  listen link:
+  - value: https://www.youtube.com/watch?v=FZ1HhLbkX5Y
+    references:
+    - source: www.youtube.com-watch-v-fz1hhlbkx5y
+      quote: Hamed Sadeghi, Maryam Rahmani, Hilary Kleinig, Dylan Paul
+      accessed: '2026-11-21'
+      locator: YouTube oEmbed title
+  cover art:
+  - value: https://i.ytimg.com/vi/FZ1HhLbkX5Y/hqdefault.jpg
+    qualifiers:
+      credit:
+        text: Hamed Sadeghi on YouTube
+        language: en
+    references:
+    - source: www.youtube.com-watch-v-fz1hhlbkx5y
+      quote: https://i.ytimg.com/vi/FZ1HhLbkX5Y/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Native YouTube thumbnail

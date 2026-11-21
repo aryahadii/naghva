@@ -1,0 +1,66 @@
+id: Qfrpvry
+type: release
+statements:
+  name:
+  - value:
+      text: A Prelude To Silence
+      language: en
+    references:
+    - source: hamedsadeghi.bandcamp.com-album-a-prelude-to-silence
+      quote: A Prelude To Silence
+      accessed: '2026-11-21'
+      locator: Album name
+  performer:
+  - value: Qmgbz4h
+    qualifiers:
+      role: tar
+    references:
+    - source: hamedsadeghi.bandcamp.com-album-a-prelude-to-silence
+      quote: Hamed Sadeghi, Tar
+      accessed: '2026-11-21'
+      locator: Album personnel
+  listen link:
+  - value: https://hamedsadeghi.bandcamp.com/album/a-prelude-to-silence
+    references:
+    - source: hamedsadeghi.bandcamp.com-album-a-prelude-to-silence
+      quote: A Prelude To Silence | Hamed Sadeghi
+      accessed: '2026-11-21'
+      locator: Album heading
+  - value: https://open.spotify.com/album/2OnBUZ1yaGtvyaqmbER2op
+    references:
+    - source: open.spotify.com-album-2onbuz1yagtvyaqmber2op
+      quote: A Prelude to Silence
+      accessed: '2026-11-21'
+      locator: Spotify edition title
+  - value: https://music.apple.com/us/album/a-prelude-to-silence/1677187033
+    references:
+    - source: music.apple.com-us-album-a-prelude-to-silence-1677187033
+      quote: A Prelude to Silence
+      accessed: '2026-11-21'
+      locator: Apple Music edition title
+  release date:
+  - value:
+      date: '2023-03-12'
+    references:
+    - source: hamedsadeghi.bandcamp.com-album-a-prelude-to-silence
+      quote: released March 12, 2023
+      accessed: '2026-11-21'
+      locator: Release credits
+  release type:
+  - value: album
+    references:
+    - source: hamedsadeghi.bandcamp.com-album-a-prelude-to-silence
+      quote: A Prelude To Silence | Hamed Sadeghi
+      accessed: '2026-11-21'
+      locator: Album heading
+  cover art:
+  - value: https://f4.bcbits.com/img/a0267997230_10.jpg
+    qualifiers:
+      credit:
+        text: Artwork published on the artist’s Bandcamp
+        language: en
+    references:
+    - source: hamedsadeghi.bandcamp.com-album-a-prelude-to-silence
+      quote: https://f4.bcbits.com/img/a0267997230_10.jpg
+      accessed: '2026-11-21'
+      locator: Bandcamp original album image

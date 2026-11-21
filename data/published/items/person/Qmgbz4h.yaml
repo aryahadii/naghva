@@ -35,3 +35,59 @@ statements:
       quote: Hamed Sadeghi, tar, Jeremy Rose, saxophone and bass clarinet, Lloyd Swanton, double bass
       accessed: '2026-11-21'
       locator: Album credits
+  birthplace:
+  - value: Qthab26
+    references:
+    - source: www.hamedsadeghi.com-about
+      quote: Born in Iran and now based on Gadigal land (Sydney)
+      accessed: '2026-11-21'
+      locator: Biography
+  based in:
+  - value: Qdtffef
+    references:
+    - source: open.spotify.com-artist-0s1dftmwuxjes6przxw8wy
+      quote: migrating to Australia in 2014
+      accessed: '2026-11-21'
+      locator: Artist biography
+  image:
+  - value: https://f4.bcbits.com/img/0044130856_10.jpg
+    qualifiers:
+      credit:
+        text: Artist portrait published by Hamed Sadeghi on Bandcamp
+        language: en
+    references:
+    - source: hamedsadeghi.bandcamp.com-music
+      quote: https://f4.bcbits.com/img/0044130856_10.jpg
+      accessed: '2026-11-21'
+      locator: Artist portrait shown on Bandcamp
+  profile link:
+  - value: https://hamedsadeghi.bandcamp.com/music
+    references:
+    - source: hamedsadeghi.bandcamp.com-music
+      quote: Music | Hamed Sadeghi
+      accessed: '2026-11-21'
+      locator: Profile heading
+  - value: https://open.spotify.com/artist/0S1DFtmwuxjES6pRzXW8wy
+    references:
+    - source: open.spotify.com-artist-0s1dftmwuxjes6przxw8wy
+      quote: Listen to Hamed Sadeghi Songs | Spotify
+      accessed: '2026-11-21'
+      locator: Profile heading
+  - value: https://music.apple.com/us/artist/hamed-sadeghi/1457552597
+    references:
+    - source: music.apple.com-us-artist-hamed-sadeghi-1457552597
+      quote: ‎Hamed Sadeghi - Apple Music
+      accessed: '2026-11-21'
+      locator: Profile heading
+  - value: https://soundcloud.com/hamed-sadeghi-2
+    references:
+    - source: soundcloud.com-hamed-sadeghi-2
+      quote: Stream Hamed Sadeghi music | Listen to songs, albums, playlists for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Profile heading
+  - value: https://www.youtube.com/channel/UCF0gKf0lIl34je8cYhH-XdA/videos
+    references:
+    - source: www.youtube.com-channel-ucf0gkf0lil34je8cyhh-xda-videos
+      quote: Hamed Sadeghi - YouTube
+      accessed: '2026-11-21'
+      locator: Profile heading

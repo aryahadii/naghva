@@ -1,0 +1,152 @@
+# Javid Afsari Rad
+
+The 2009 solo record Afarinesh is documented by Store norske leksikon and the original Jazzland producer. Its ten tracks have identical durations in the Apple and Spotify editions called *Creation* and *Afarinesh*. They share one set of ten records with separate titles and exact links. The 2014 Afarinesh edition is phonographically credited to Javid himself. For Lalehzar, the ten titles, sequence and durations reconcile the Bandcamp issue as Lahlezar and the two other services. The credited musician's own account distinguishes his ensemble's 2007 founding from the 2011 original Rumi album confirmed by the ta:lik booklet. His current home page dates the first issue to 2007. The reference work and original issue document distinguish the concert and album years.
+
+The label’s Karvan CD and its Spotify and Apple issues share ten tracks. The two named percussion solos retain the ensemble billing. Grappa names him in Aurora Borealis’s original Harpa personnel under the alternate spelling Djavid Afzari Rad. Finland’s national catalogue dates it to 1997. Apple dates its streaming issue to 1999. The thirteen tracks retain the original group billing. The 1998 compilation *combiNATIONS* is distinct from ComboNations’ self-titled first record. The university library identifies the personnel on Golestan. Its album credit does not establish an individual performance on every track. The Iranian *Eastern Caravan* issue credits Javid and a matching six-player lineup but the catalogue does not establish identical masters. The Persian interview independently names Parvaz in 2003. The streaming catalogue attributes a record of that title to Vida Afsari-Rad, with no direct work-by-work corroboration of Javid's role. Its links have not been attached.
+
+Mahoor’s three [original](https://t.me/mahoorinstitute/3088) [Telegram](https://t.me/mahoorinstitute/3170) [excerpts](https://t.me/mahoorinstitute/3171) identify the Iranian editions and label. No personal Telegram discography or confirmed musician-hosted SoundCloud catalogue surfaced under the Persian and English names. Bandcamp has the artist under the spelling Javid Asfari Rad, plus Harpreet Bansal’s credits on Samaya and Movements. Chandra is credited to the trio before the santur and bass joined. The official site links the two artist-run YouTube channels, which together contain four performances. The broadcaster and interview pages supplied further authenticated concert footage. The music network's link to the 2008 Oslo concert video identifies the artist. Separately identified fan uploads do not establish original editions.
+
+Apple listings were searched for Javid, his ensemble and his other named groups, including Rumi Ensemble, ComboNations, Karvan, Zarbang and Harpreet Bansal Band. His artist ID also identified the specific Gitar, Azeri Baby and Trall i farta tracks listed in Spotify’s guest section. These matched by title, version, artist and sequence. A different Golestan artist on Apple releases unrelated albums. The named composed-only works retain their authorship roles. Film sources attest the score for The Manchador, shared music credit with Anne Hytta on This Is My Voice, and the santur performances on House of Norway. No standalone score albums were identified. The 2005 puppetry commission belongs to the stage.
+
+## Music links
+
+- Afarinesh · https://music.apple.com/us/album/afarinesh/1449787858 · https://open.spotify.com/album/65EB9ESE5rmeR4uMJGvFJU · https://music.apple.com/us/album/creation/1715327163 · https://open.spotify.com/album/5yZmusd9GKlx3kXXKLmC50
+- Mehvaré Eshqh Axis of Love · https://music.apple.com/us/song/mehvar%C3%A9-eshqh-axis-of-love/1449787859 · https://open.spotify.com/track/5VxLUK4CKBGffgY2UNNwLv · https://music.apple.com/us/song/mehvare-eshqh/1715327175 · https://open.spotify.com/track/45tqBLlViivlRpX1mYCFQD
+- Nahalé Arezo Plant of Wishes · https://music.apple.com/us/song/nahal%C3%A9-arezo-plant-of-wishes/1449787861 · https://open.spotify.com/track/68LlLZ3TvBJmwsMBFJTZJ8 · https://music.apple.com/us/song/nahale-arezo/1715327428 · https://open.spotify.com/track/0NZtkL13fRRhpxZa9HlvgE
+- Soz O Godaz Flames · https://music.apple.com/us/song/soz-o-godaz-flames/1449787862 · https://open.spotify.com/track/2RuDlbbLSxOCCSVgWcjSkL · https://music.apple.com/us/song/soozo-godaz/1715327438 · https://open.spotify.com/track/0u8HTC5brdRdPuorYDn1Ca
+- Amvaj Waves · https://music.apple.com/us/song/amvaj-waves/1449787863 · https://open.spotify.com/track/5GbYGpqGr6n1gWEzJtaFmQ · https://music.apple.com/us/song/amvaj/1715327607 · https://open.spotify.com/track/6grrTbuicBSEBmMpkGPa2k
+- Baran Rain · https://music.apple.com/us/song/baran-rain/1449787865 · https://open.spotify.com/track/0A6LlAvmAI6TSiqApXuML8 · https://music.apple.com/us/song/baran/1715327617 · https://open.spotify.com/track/4zcH5E6CjikH2KuQplvH7Y
+- Sarnevesht Destiny · https://music.apple.com/us/song/sarnevesht-destiny/1449787867 · https://open.spotify.com/track/0ARSFu75AdpfBaCaovzoZI · https://music.apple.com/us/song/sarnevesht/1715327625 · https://open.spotify.com/track/3XbJAD3CbaI7qp5iJD3sfH
+- Afarinesh Creation · https://music.apple.com/us/song/afarinesh-creation/1449787868 · https://open.spotify.com/track/3YgdW41ejB9nvynDc4TYpM · https://music.apple.com/us/song/afarinesh/1715327786 · https://open.spotify.com/track/0JnAdeJhB9H5RbhAEhMklN
+- Parvanehvar Like a Butterfly · https://music.apple.com/us/song/parvanehvar-like-a-butterfly/1449787869 · https://open.spotify.com/track/6T1wnM0yhvyUUJKkUzavUw · https://music.apple.com/us/song/parvanehvar/1715327794 · https://open.spotify.com/track/47tEfnmxFD0C4bAYJKeTf8
+- Goshayesh Revelation · https://music.apple.com/us/song/goshayesh-revelation/1449787870 · https://open.spotify.com/track/2EGj3wIqc07iBkomBlM1qe · https://music.apple.com/us/song/goshayesh/1715327800 · https://open.spotify.com/track/5jca8oWRx7ysXnCz1bVVIA
+- Zende Shodam I Am Alive · https://music.apple.com/us/song/zende-shodam-i-am-alive/1449787876 · https://open.spotify.com/track/5z0AZGyzL3qspxtB6SHKlA · https://music.apple.com/us/song/zende-shodam/1715328080 · https://open.spotify.com/track/4EaA55vzIiQuBjRYWb2DVN
+- Lalehzar · https://music.apple.com/us/album/lalehzar/1458051999 · https://open.spotify.com/album/0QffkYVeidl8waqx2GAdP9 · https://javidasfarirad.bandcamp.com/album/lahlezar
+- Bahar · https://music.apple.com/us/song/bahar/1458052000 · https://open.spotify.com/track/1X1YPsv67ngZ3lZ89g7eS4 · https://javidasfarirad.bandcamp.com/track/bahar
+- Lalehzar · https://music.apple.com/us/song/lalehzar/1458052003 · https://open.spotify.com/track/1Dylqg9qQ1C4juMuSNHJdJ · https://javidasfarirad.bandcamp.com/track/lahlezar
+- Choopi · https://music.apple.com/us/song/choopi/1458052004 · https://open.spotify.com/track/6tL9kNIAKFf9tjvxwDvkj0 · https://javidasfarirad.bandcamp.com/track/choopi
+- Lama Bada Yatathana · https://music.apple.com/us/song/lama-bada-yatathana/1458052006 · https://open.spotify.com/track/0TLBOwZ1sLQ92FzbfIRB6w · https://javidasfarirad.bandcamp.com/track/lama-bada-yatathana
+- Kurdi · https://music.apple.com/us/song/kurdi/1458052007 · https://open.spotify.com/track/5Cpo1zW8o9HeRs5G1PcwLW · https://javidasfarirad.bandcamp.com/track/kurdi
+- Baran · https://music.apple.com/us/song/baran/1458052009 · https://open.spotify.com/track/2PeYWjJTO9G6wMBXr5MleP · https://javidasfarirad.bandcamp.com/track/baran
+- Baroque Fantasi · https://music.apple.com/us/song/baroque-fantasi/1458052010 · https://open.spotify.com/track/6oWUWmASJocqezOclcFqL4 · https://javidasfarirad.bandcamp.com/track/baroque-fantasi
+- Ahoo · https://music.apple.com/us/song/ahoo/1458052011 · https://open.spotify.com/track/6bYt5yGYHMx2B9XBH8ahsz · https://javidasfarirad.bandcamp.com/track/ahoo-based-on-an-sephardic-song
+- Banafsheh · https://music.apple.com/us/song/banafsheh/1458052015 · https://open.spotify.com/track/4fubDTh8QJ2NxiFbc5hacA · https://javidasfarirad.bandcamp.com/track/banafsheh
+- Chaharpareh · https://music.apple.com/us/song/chaharpareh/1458052167 · https://open.spotify.com/track/7MxwulKGtSAiHoCSpY4NXg · https://javidasfarirad.bandcamp.com/track/chaharpareeh
+- Prayers - EP · https://music.apple.com/us/album/prayers-ep/6766858584 · https://open.spotify.com/album/05mbtSyxe1I70sbUZkUWDF
+- Puria part 1 and part 2 · https://music.apple.com/us/song/puria-part-1-and-part-2/6766858710 · https://open.spotify.com/track/0TIXun5iW9vr1w91qXDgph
+- Oasis · https://music.apple.com/us/song/oasis/6766858714 · https://open.spotify.com/track/5kiZ87p00NgtEB62PF3R9S
+- Prayers I · https://music.apple.com/us/song/prayers-i/6766858716 · https://open.spotify.com/track/0ZzBBmL4e64AyK4DtweuIL
+- Prayers II · https://music.apple.com/us/song/prayers-ii/6766858719 · https://open.spotify.com/track/2YrUkZuAsKeQPVl4PFU3Vj
+- Bigah · https://music.apple.com/us/album/bigah/1859682009 · https://open.spotify.com/album/5I8GIb6hzFEnBlqpcRgHGx
+- Zangooleh - Introduction · https://music.apple.com/us/song/zangooleh-introduction/1859682014 · https://open.spotify.com/track/7gqDAmXiheApLcZmkd4BWZ
+- Bigah · https://music.apple.com/us/song/bigah/1859682016 · https://open.spotify.com/track/61Bv3LTBmLDedksEgETPWq
+- Prelude · https://music.apple.com/us/song/prelude/1859682018 · https://open.spotify.com/track/5vbsT5MeU3K8gyQ9WPzYoC
+- Mokhalef · https://music.apple.com/us/song/mokhalef/1859682021 · https://open.spotify.com/track/7pkekjslaMdR50WFjPTUyj
+- Home · https://music.apple.com/us/song/home/1859682417 · https://open.spotify.com/track/0PhlvLjTNHkHS4rMRyPRQe
+- Reng Segah · https://music.apple.com/us/song/reng-segah/1859682429 · https://open.spotify.com/track/6wASelus5ZAzPon8KrTtxG
+- Chant of Earth · https://music.apple.com/us/song/chant-of-earth/1859682439 · https://open.spotify.com/track/4yIiQXJIgAu6gObDykam5y
+- Ey Sareban · https://music.apple.com/us/song/ey-sareban/1859682443 · https://open.spotify.com/track/3UmyhpLadh7dFPOLyvStF7
+- Susa · https://music.apple.com/us/album/susa/6811038940 · https://open.spotify.com/album/21WedvtGH4pkCGsvjElGDT
+- Havakhah · https://music.apple.com/us/song/havakhah/6811038941 · https://open.spotify.com/track/2r5r8ytYk5Q1N8gyTVe6Np
+- Susa (live) · https://music.apple.com/us/song/susa-live/6811038944 · https://open.spotify.com/track/0ySiND2TmPJJwn95DlQv3u
+- Baran · https://music.apple.com/us/song/baran/6811038946 · https://open.spotify.com/track/2i33iUd4aqOeOeubiHtxY0
+- Delband · https://music.apple.com/us/song/delband/6811038948 · https://open.spotify.com/track/0OnkkX3BTrcF2WxLk0ZUnl
+- Torke Shirazi · https://music.apple.com/us/song/torke-shirazi/6811038949 · https://open.spotify.com/track/02gEJ1V2w1lDKUhebPwYDV
+- Chaharpareh · https://music.apple.com/us/song/chaharpareh/6811038955 · https://open.spotify.com/track/77oAkwADarb7svN1Afsy19
+- Alma · https://music.apple.com/us/song/alma/6811038958 · https://open.spotify.com/track/6mNcLV4xoJiwvvLVIw0gU4
+- Mobarak · https://music.apple.com/us/song/mobarak/6811038963 · https://open.spotify.com/track/3xECF37cgDi8LaxglT9Nw0
+- In the Footprints of RUMI · https://music.apple.com/us/album/in-the-footprints-of-rumi/485327100 · https://open.spotify.com/album/54pMfx3riripSE2WBGYhO9
+- Masnavi · https://music.apple.com/us/song/masnavi/485327108 · https://open.spotify.com/track/2Y7LqzV3SMCRBb8QAMoouL
+- Rumi · https://music.apple.com/us/song/rumi/485328073 · https://open.spotify.com/track/2mjvcenqMfNZTqOisEI8R2
+- Eshtiagh · https://music.apple.com/us/song/eshtiagh/485328074 · https://open.spotify.com/track/1id8i2IsC2yKwBPaP4QJdH
+- Ey Ashegan · https://music.apple.com/us/song/ey-ashegan/485328075 · https://open.spotify.com/track/5eCek9EzWe5KRIEbrGbW93
+- Jané Ashegh · https://music.apple.com/us/song/jan%C3%A9-ashegh/485328076 · https://open.spotify.com/track/0m99Ls9RKsIUqw9aLlx6ZM
+- Avaz · https://music.apple.com/us/song/avaz/485328077 · https://open.spotify.com/track/0PMbjrb3G146uzwL9kwLLR
+- Roz o Shab · https://music.apple.com/us/song/roz-o-shab/485328078 · https://open.spotify.com/track/08ZXWtHBpPsh10FeUt6irZ
+- Bayate Rajé · https://music.apple.com/us/song/bayate-raj%C3%A9/485328079 · https://open.spotify.com/track/2WJHNjbZ3cMVpfpn45Iq7e
+- Deldare Man · https://music.apple.com/us/song/deldare-man/485328080 · https://open.spotify.com/track/0Xbeej6Sf08J61Ellbat9v
+- Lezgi · https://music.apple.com/us/song/lezgi/485328081 · https://open.spotify.com/track/1SsZFbeS50bGzp1SkFEIvg
+- Dunya · https://music.apple.com/us/album/dunya/1794386998 · https://open.spotify.com/album/7v2i80ADoVntbkzTviqL1A
+- Dolo · https://music.apple.com/us/song/dolo/1794387000 · https://open.spotify.com/track/68pq1QCCO9U916tGdOKcjt
+- Sparkle · https://music.apple.com/us/song/sparkle/1794387001 · https://open.spotify.com/track/1C0hs6ccwOmQN0Vw1D7F6J
+- Ezeyakom · https://music.apple.com/us/song/ezeyakom/1794387002 · https://open.spotify.com/track/6HjtZzcMVbRfnV1QCvSQBd
+- Damma · https://music.apple.com/us/song/damma/1794387004 · https://open.spotify.com/track/3sX5RDFmKf4aNkiY0AOJzF
+- Ya llah o ya nabina · https://music.apple.com/us/song/ya-llah-o-ya-nabina/1794387006 · https://open.spotify.com/track/6lHYxh8K36AkqA5UG8p1K9
+- Rast · https://music.apple.com/us/song/rast/1794387009 · https://open.spotify.com/track/2ma2fbTY6qek55Td3qTh2z
+- Movements · https://music.apple.com/us/album/movements/1528328452 · https://open.spotify.com/album/0kHEzir6Q6C980xF5hdbG9 · https://harpreetbansal.bandcamp.com/album/movements
+- Cirrus · https://music.apple.com/us/song/cirrus/1528328457 · https://open.spotify.com/track/7hpVFnDVbkFp6KyATKnuBl · https://harpreetbansal.bandcamp.com/track/cirrus
+- Brahmya · https://music.apple.com/us/song/brahmya/1528328459 · https://open.spotify.com/track/4z6rqnGQ0yLUzKj4XZafzx · https://harpreetbansal.bandcamp.com/track/brahmya
+- Lajpat Nagar · https://music.apple.com/us/song/lajpat-nagar/1528328462 · https://open.spotify.com/track/4JAm8IgbWUC11hfP50NmgR · https://harpreetbansal.bandcamp.com/track/lajpat-nagar
+- Walk in/Walk out · https://music.apple.com/us/song/walk-in-walk-out/1528328465 · https://open.spotify.com/track/3RV4jh1MK5QnBwtKb13qdP · https://harpreetbansal.bandcamp.com/track/walk-in-walk-out-i
+- Walk in/Walk out II · https://music.apple.com/us/song/walk-in-walk-out-ii/1528328676 · https://open.spotify.com/track/4t79GZSit9yVq6jz3uGxWO · https://harpreetbansal.bandcamp.com/track/walk-in-walk-out-ii
+- Walk in/Walk out III · https://music.apple.com/us/song/walk-in-walk-out-iii/1528328678 · https://open.spotify.com/track/46FKqZq7Y1kGpNRKRAKM8p · https://harpreetbansal.bandcamp.com/track/walk-in-walk-out-iii
+- Aspects of Om · https://music.apple.com/us/song/aspects-of-om/1528328679 · https://open.spotify.com/track/1FIHz6Qt8Sk00lK72maAHx · https://harpreetbansal.bandcamp.com/track/aspects-of-om
+- ComboNations · https://www.youtube.com/watch?v=OwilWTsX8Us
+- Javid Afsari Rad Ensemble · https://www.youtube.com/watch?v=E46p3PybM0A
+- Rumi Ensemble · https://www.youtube.com/watch?v=Bc7zQDZNBv8
+- Javid Afsari Rad Ensemble with Håkon Kornstad · https://www.youtube.com/watch?v=oaG3hp_nLoU
+- Harpa · https://open.spotify.com/album/4pX3k6iVInK8NXnQ8DpOOI · https://music.apple.com/us/album/harpa/1794700107
+- Ei Gamol Vise · https://open.spotify.com/track/4HBzCWYcRYf2hvfvZMLHzW · https://music.apple.com/us/song/ei-gamol-vise/1794700111
+- De Två Systrarne · https://open.spotify.com/track/4N3ilTQq02M0h2vH6ZL9og · https://music.apple.com/us/song/de-tv%C3%A5-systrarne/1794700113
+- Binnorie · https://open.spotify.com/track/39WTY444PhmYMqWqqDaxh8 · https://music.apple.com/us/song/binnorie/1794700114
+- Den Underbara Fiolen · https://open.spotify.com/track/43g3g9l31PGxg0PIpcBKag · https://music.apple.com/us/song/den-underbara-fiolen/1794700117
+- Søstrene · https://open.spotify.com/track/4sEiVVTrkBLodYsbkfBTnf · https://music.apple.com/us/song/s%C3%B8strene/1794700119
+- Harpan · https://open.spotify.com/track/1kPbmoH4mNsczC5l7vTx6b · https://music.apple.com/us/song/harpan/1794700120
+- Kvædi Um Tvær Systur · https://open.spotify.com/track/7FEIHMmhFzB0c91T9ujhUW · https://music.apple.com/us/song/kv%C3%A6di-um-tv%C3%A6r-systur/1794700125
+- De Talende Strænge · https://open.spotify.com/track/4FOjiADy3nS695C1OzbUS5 · https://music.apple.com/us/song/de-talende-str%C3%A6nge/1794700126
+- Hòrpeslotten · https://open.spotify.com/track/2la3t5hTE2QAIaQYAsLE1z · https://music.apple.com/us/song/h%C3%B2rpeslotten/1794700128
+- De To Søstre · https://open.spotify.com/track/2KCPyIQ1w15eF51SG9WOyu · https://music.apple.com/us/song/de-to-s%C3%B8stre/1794700282
+- Hørpu Rìma · https://open.spotify.com/track/5WZlbwnuFBp1Y0buwVO6iA · https://music.apple.com/us/song/h%C3%B8rpu-r%C3%ACma/1794700284
+- The Miller And The King's Daughter · https://open.spotify.com/track/4IXR54KPwj9xG11ztw8O3l · https://music.apple.com/us/song/the-miller-and-the-kings-daughter/1794700287
+- Gullharpa · https://open.spotify.com/track/7Mx7gIH2zecT53297SzNk0 · https://music.apple.com/us/song/gullharpa/1794700291
+- Karvan · https://open.spotify.com/album/6eA5QY5KZcFbV4aPXazfRr · https://music.apple.com/us/album/karvan/1442843302
+- Shervandi · https://open.spotify.com/track/4MGKujuvFFIAbrqJaFcbBn · https://music.apple.com/us/song/shervandi/1442843307
+- Kordi Zahirig · https://open.spotify.com/track/6NjJk0hh6XHCxw8UJekKmw · https://music.apple.com/us/song/kordi-zahirig/1442843317
+- Damali - Leyro (Baluchi Trance Music) · https://open.spotify.com/track/2rU9EpQp34LcpTJbnO39tS · https://music.apple.com/us/song/damali-leyro-baluchi-trance-music/1442843503
+- Dastgah Nava · https://open.spotify.com/track/6CmlfTy5NHZDv66PMUOcm3 · https://music.apple.com/us/song/dastgah-nava/1442843506
+- Damali (Baluchi Trance Music) · https://open.spotify.com/track/5KokuVy4AiMGArCQzxpK4e · https://music.apple.com/us/song/damali-baluchi-trance-music/1442843508
+- Karvan · https://open.spotify.com/track/6z9g5q8s6j8wNg1WNnP80n · https://music.apple.com/us/song/karvan/1442843512
+- Ghazal · https://open.spotify.com/track/6iQbDVME7gIaKONPjIj4N8 · https://music.apple.com/us/song/ghazal/1442843515
+- Tabla Solo · https://open.spotify.com/track/0KKiqKPEHVaXdzzO5PHsSS · https://music.apple.com/us/song/tabla-solo/1442843517
+- Tombak Solo · https://open.spotify.com/track/720Mgqh6z8kQGHd9scq2fy · https://music.apple.com/us/song/tombak-solo/1442843525
+- South Indian Folk Melody · https://open.spotify.com/track/3pyTfaBrgfryfWf4jLb8Q6 · https://music.apple.com/us/song/south-indian-folk-melody/1442843527
+- Samaya · https://open.spotify.com/album/06Puc4Md7btY4dbBJXVwhJ · https://music.apple.com/us/album/samaya/1449787938 · https://harpreetbansal.bandcamp.com/album/samaya
+- Jog · https://open.spotify.com/track/70Pd1Otd1oAYi3aNlEyNct · https://music.apple.com/us/song/jog/1449787939 · https://harpreetbansal.bandcamp.com/track/jog
+- Lalit · https://open.spotify.com/track/6iw1HSmZSF8l7QyeR81Q6n · https://music.apple.com/us/song/lalit/1449787941 · https://harpreetbansal.bandcamp.com/track/lalit
+- Bageshri · https://open.spotify.com/track/2ThDTRclfIMeRFY9DGJTsK · https://music.apple.com/us/song/bageshri/1449788156 · https://harpreetbansal.bandcamp.com/track/bageshri
+- Marwa · https://open.spotify.com/track/2M9fea1mqrZtwTZJ7rMtiI · https://music.apple.com/us/song/marwa/1449788158 · https://harpreetbansal.bandcamp.com/track/marwa
+- Main Khayal Hoon · https://open.spotify.com/track/3aLVpQLrxHY3FCNqofaQmT · https://music.apple.com/us/song/main-khayal-hoon/1449788159 · https://harpreetbansal.bandcamp.com/track/main-khayal-hoon
+- Yamanihans · https://open.spotify.com/track/20XBP4S3BawckGkUUSmi1p · https://music.apple.com/us/song/yamanihans/1449788161 · https://harpreetbansal.bandcamp.com/track/yamanihans
+- Golestan · No verified public full-length link
+- Ghazal · No verified public full-length link
+- combiNATIONS (The New International Music Of Norway) · No verified public full-length link
+- Combonations · No verified public full-length link
+- Zarbang: Persian and Middle Eastern Percussion · https://open.spotify.com/album/1UWUahqg9ClQddI48ln04f · https://music.apple.com/us/album/persian-and-middle-eastern-percussion/595485319
+- Zarbi-e-Raast (Arr. Zarbang) · https://open.spotify.com/track/0f2Snqa0j1nOB2lH43gA8J · https://music.apple.com/us/song/zarbi-e-raast/595485321
+- Circle in 7 · https://open.spotify.com/track/1RigEuCkXOoHEtItGDr3uV · https://music.apple.com/us/song/circle-in-seven/595485325
+- Dream Song · https://open.spotify.com/track/4iarYv5Jt68rFb8Xeu1dgS · https://music.apple.com/us/song/dream-song/595485326
+- Cycle of Fire (Arr. Zarbang) · https://open.spotify.com/track/6JDAWDMq0Yq6fp2iqLL18M · https://music.apple.com/us/song/cycle-of-fire/595485327
+- Cycling Feast · https://open.spotify.com/track/4Ltth6n4XMgLTO3j9SjwBf · https://music.apple.com/us/song/cycling-feast/595485328
+- Call to Love · https://music.apple.com/us/album/call-to-love/1749089143
+- Abode of the Heart · https://music.apple.com/us/song/abode-of-the-heart/1749089703
+- Face to Face · https://music.apple.com/us/song/face-to-face/1749089709
+- Call to Love · https://music.apple.com/us/song/call-to-love/1749089710
+- Harpreet Bansal Band, ("Kalavati") · https://www.youtube.com/watch?v=ajuxiGKs4Ug
+- Harpreet Bansal Band at the Norwegian Grammy Awards 2019 · https://www.youtube.com/watch?v=QsGRrF98jLs
+- javid afsari · https://www.youtube.com/watch?v=1_suquzLCEY
+- Zarbang - Circle in Seven · https://www.youtube.com/watch?v=BADylHh8Neg
+- Ensemble Zarbang Part III · https://www.youtube.com/watch?v=XDTIiRCbxXo
+- کاروان شرق · https://t.me/mahoorinstitute/3088
+- نغمه‌ی خوابگرد · https://t.me/mahoorinstitute/3170
+- رنگینه · https://t.me/mahoorinstitute/3171
+- پرواز · No verified public full-length link
+- The Manchador · No verified public full-length link
+- This is My Voice · No verified public full-length link
+- House of Norway · No verified public full-length link
+- بلور بنفش: کنسرت جاوید افسری راد وارکستر موسیقی ملل نروژ - قسمت اول · https://www.youtube.com/watch?v=bjo4mWr--Ww
+- بلور بنفش: کنسرت جاوید افسری راد وارکستر موسیقی ملل نروژ - قسمت دوم · https://www.youtube.com/watch?v=eTMvj5pf2FU
+- Sevirem (feat. Javid Afsari Rad) · https://music.apple.com/us/song/sevirem-feat-javid-afsari-rad/1649747804 · https://open.spotify.com/track/0RdAKTLmTVNhSxxymM4Zu3
+- Tamil (feat. Javid Afsari Rad) · https://music.apple.com/us/song/tamil-feat-javid-afsari-rad/1449782662 · https://open.spotify.com/track/0spfJx2sipBCP1OHCjmJ6j
+- Lille Måltrost · https://music.apple.com/us/song/lille-ma-ltrost/6809807222 · https://open.spotify.com/track/5hkiQ4XbdRz0bkK3u5g59A
+- Resirkulerte Rim og Regler · https://music.apple.com/us/album/resirkulerte-rim-og-regler/1649563483 · https://open.spotify.com/album/60gfwSXosLn4ra8x6cVuV7
+- Lille måltrost – persisk · No verified public full-length link

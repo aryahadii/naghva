@@ -1,5 +1,6 @@
 ---
 url: https://harpreetbansal.bandcamp.com/album/samaya
+archive: https://web.archive.org/web/20231201070032/https://harpreetbansal.bandcamp.com/album/samaya
 title: Samaya | Harpreet Bansal
 status: processed
 language: en

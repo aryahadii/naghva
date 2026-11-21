@@ -1,0 +1,59 @@
+id: Qpxk266
+type: release
+statements:
+  name:
+  - value:
+      text: Gift Of Healing
+      language: en
+    references:
+    - source: hamedsadeghi.bandcamp.com-track-gift-of-healing
+      quote: Gift Of Healing | Hamed Sadeghi
+      accessed: '2026-11-21'
+      locator: Bandcamp song heading
+  performer:
+  - value: Qmgbz4h
+    qualifiers:
+      role: tar
+    references:
+    - source: hamedsadeghi.bandcamp.com-album-a-prelude-to-silence
+      quote: Hamed Sadeghi, Tar
+      accessed: '2026-11-21'
+      locator: Album personnel
+  listen link:
+  - value: https://hamedsadeghi.bandcamp.com/track/gift-of-healing
+    references:
+    - source: hamedsadeghi.bandcamp.com-track-gift-of-healing
+      quote: Gift Of Healing | Hamed Sadeghi
+      accessed: '2026-11-21'
+      locator: Bandcamp song heading
+  - value: https://open.spotify.com/track/0DlZCD26MUJvp9YjcBJTf7
+    references:
+    - source: open.spotify.com-album-2onbuz1yagtvyaqmber2op
+      quote: Gift of Healing
+      accessed: '2026-11-21'
+      locator: Spotify track 6
+  - value: https://music.apple.com/us/song/gift-of-healing/1677187189
+    references:
+    - source: music.apple.com-us-album-a-prelude-to-silence-1677187033
+      quote: Gift of Healing
+      accessed: '2026-11-21'
+      locator: Apple Music track 6
+  release date:
+  - value:
+      date: '2023-03-12'
+    references:
+    - source: hamedsadeghi.bandcamp.com-album-a-prelude-to-silence
+      quote: released March 12, 2023
+      accessed: '2026-11-21'
+      locator: Release credits
+  cover art:
+  - value: https://f4.bcbits.com/img/a0267997230_10.jpg
+    qualifiers:
+      credit:
+        text: Artwork published on the artist’s Bandcamp
+        language: en
+    references:
+    - source: hamedsadeghi.bandcamp.com-album-a-prelude-to-silence
+      quote: https://f4.bcbits.com/img/a0267997230_10.jpg
+      accessed: '2026-11-21'
+      locator: Bandcamp original album image

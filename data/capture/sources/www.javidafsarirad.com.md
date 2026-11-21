@@ -1,5 +1,6 @@
 ---
 url: https://www.javidafsarirad.com/
+archive: https://web.archive.org/web/20250409182821/http://www.javidafsarirad.com/
 title: Javid Afsari Rad
 status: processed
 language: en

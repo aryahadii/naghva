@@ -1,0 +1,57 @@
+id: Qem4hnf
+type: release
+statements:
+  name:
+  - value:
+      text: Sevirem (feat. Javid Afsari Rad)
+      language: en
+    references:
+    - source: music.apple.com-us-album-sevirem-feat-javid-afsari-rad-1649747803
+      quote: Sevirem (feat. Javid Afsari Rad)
+      accessed: '2026-11-21'
+      locator: Featured track
+  performer:
+  - value: Qz9hcyk
+    references:
+    - source: itunes.apple.com-lookupid-257020069-entity-song-limit-200
+      quote: Sevirem (feat. Javid Afsari Rad)
+      accessed: '2026-11-21'
+      locator: Track-level credit
+  - value: Qxmhx58
+    references:
+    - source: itunes.apple.com-lookupid-257020069-entity-song-limit-200
+      quote: Marie Sahba
+      accessed: '2026-11-21'
+      locator: Track-level credit
+  listen link:
+  - value: https://music.apple.com/us/song/sevirem-feat-javid-afsari-rad/1649747804
+    references:
+    - source: music.apple.com-us-album-sevirem-feat-javid-afsari-rad-1649747803
+      quote: Sevirem (feat. Javid Afsari Rad)
+      accessed: '2026-11-21'
+      locator: Featured track
+  - value: https://open.spotify.com/track/0RdAKTLmTVNhSxxymM4Zu3
+    references:
+    - source: open.spotify.com-album-1x2hgfmfbl1lnlhsagceka
+      quote: Sevirem
+      accessed: '2026-11-21'
+      locator: Track 1
+  release date:
+  - value:
+      date: '2022-10-25'
+    references:
+    - source: music.apple.com-us-album-sevirem-feat-javid-afsari-rad-1649747803
+      quote: '2022-10-25'
+      accessed: '2026-11-21'
+      locator: Release date
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d0000b2739471d74ec68751da94745349
+    references:
+    - source: open.spotify.com-album-1x2hgfmfbl1lnlhsagceka
+      quote: https://i.scdn.co/image/ab67616d0000b2739471d74ec68751da94745349
+      accessed: '2026-11-21'
+      locator: Release cover
+    qualifiers:
+      credit:
+        text: AZERI BABY · Spotify
+        language: en

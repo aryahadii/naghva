@@ -1,5 +1,6 @@
 ---
 url: https://snl.no/Javid_Afsari_Rad
+archive: https://web.archive.org/web/20241216025636/https://snl.no/Javid_Afsari_Rad
 title: Javid Afsari Rad – Store norske leksikon
 status: processed
 language: 'no'

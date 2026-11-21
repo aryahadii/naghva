@@ -162,6 +162,56 @@ references:
     quote: The other musicians in the group have roots from India, Ivory Coast, Senegal and Morocco.
     accessed: '2026-11-21'
     locator: ComboNations lineup
+  dast:
+    source: www.radiofarda.com-a-f4_javid_afsarinia_music_works_oslo_orcestra-24405335.html
+    quote: «دست افشان» نام قطعه پر تحرک و هيجانی بدون کلام بود
+    accessed: '2026-11-21'
+    locator: قطعهٔ آغازین کنسرت
+  concert:
+    source: www.radiofarda.com-a-f4_javid_afsarinia_music_works_oslo_orcestra-24405335.html
+    quote: «ماه در چاه» عنوان مجموعه اين آثار بود
+    accessed: '2026-11-21'
+    locator: گزارش اجرای اسلو
+  vocal:
+    source: www.radiofarda.com-a-f4_javid_afsarinia_music_works_oslo_orcestra-24405335.html
+    quote: با صدای سالار عقيلی خواننده موسيقی سنتی ايرانی
+    accessed: '2026-11-21'
+    locator: خوانندهٔ برنامه
+  man:
+    source: kortfilmfestivalen.no-film-the-manchador
+    quote: 'Musikk: Javid Afsari Rad'
+    accessed: '2026-11-21'
+    locator: Credited composer
+  anne:
+    source: kortfilmfestivalen.no-wp-content-uploads-2020-10-kff-arkiv-2009.pdf
+    quote: 'Musikk/Music: Anne Hytta, Javid Afsari Rad'
+    accessed: '2026-11-21'
+    locator: Pages 68–69, Dette er min stemme
+  short:
+    source: kortfilmfestivalen.no-wp-content-uploads-2020-10-kff-arkiv-2009.pdf
+    quote: This is My Voice
+    accessed: '2026-11-21'
+    locator: Pages 68–69, Dette er min stemme
+  house:
+    source: cineuropa.org-en-interview-320949
+    quote: Iranian pieces played by Javid Afsari Rad
+    accessed: '2026-11-21'
+    locator: Director discussing the score
+  titlehouse:
+    source: cineuropa.org-en-interview-320949
+    quote: House of Norway
+    accessed: '2026-11-21'
+    locator: Film title
+  filmdate:
+    source: kortfilmfestivalen.no-film-the-manchador
+    quote: 'År: 2019'
+    accessed: '2026-11-21'
+    locator: Film year
+  director:
+    source: kortfilmfestivalen.no-film-the-manchador
+    quote: 'Regi: Kaveh Tehrani'
+    accessed: '2026-11-21'
+    locator: Film director
 ---
 
 جاوید افسری راد آهنگساز و نوازندهٔ سنتور اهل اصفهان است. از سال ۱۹۸۶ در اسلو زندگی می‌کند. هم برای ارکستر رادیوی نروژ آهنگ ساخته و هم برای گروه‌هایی که خودش در اسلو به راه انداخته است. در گروه «ComboNations» برای نوازندگانی از هند، غرب آفریقا، ایران و مراکش موسیقی نوشت. در گروه «مولانا»، شعر فارسی را برای آواز و همراهی سازهای زهی نروژی آهنگ‌سازی کرد.[^farsi][^born][^oslo][^santur][^osc][^combo][^comborole][^roots][^theme][^salar][^strings]
@@ -172,8 +222,12 @@ references:
 
 آلبوم تک‌نوازی [«آفرینش»](#afarinesh-8j9) در سال ۲۰۰۹ منتشر شد. افسری راد قطعهٔ آغازین آن، «محور عشق»، را به مردم افغانستان تقدیم کرد. قطعهٔ «سوز و گداز» را بر اساس یک نغمهٔ محلی آذربایجانی ساخت.[^orig][^ded][^axis][^flames]
 
+در سال ۲۰۱۱ ارکستر رادیوی نروژ در اسلو مجموعهٔ «ماه در چاه» را با سنتورنوازی افسری راد و آواز سالار عقیلی اجرا کرد. کنسرت با قطعهٔ بی‌کلام «دست‌افشان» آغاز شد.[^concert][^vocal][^dast]
+
 ## تغییر نام گروه مولانا
 
 افسری راد گروه مولانا را در سال ۲۰۰۷ تشکیل داد. در [نخستین آلبوم گروه](#in-the-footprints-of-rumi-tkg) که در سال ۲۰۱۱ منتشر شد، سالار عقیلی شعرهای مولانا را خواند. با بیشتر شدن قطعه‌های بی‌کلام، افسری راد نام خودش را روی گروه گذاشت. در آلبوم [«لاله‌زار»](#lalehzar-yr8)، برای ساختن قطعه‌های «چوپی»، «باران» و «فانتزی باروک» از ریتم رقص‌های باروک قرن هجدهم الهام گرفت. قطعهٔ «لاله‌زار» یادآور موسیقی متأثر از آهنگ‌های عربی است که دههٔ ۱۹۷۰ در خیابان لاله‌زار تهران شنیده می‌شد.[^rum][^rumdate][^theme][^salar][^rename][^baroque][^move][^street]
 
 افسری راد در «ارکستر جهانی نروژ» یک کوارتت زهی کلاسیک را با نوازندگانی از ایران، مراکش، هند، ساحل عاج و سنگال همراه کرد. در این گروه سنتور می‌زد و آهنگ‌سازی و تنظیم را بر عهده داشت. آلبوم [«Bigah»](#bigah-487) را در سال ۲۰۲۵ منتشر کردند. یک سال بعد گروه جاوید افسری راد آلبوم «Susa» را با آواز وحید تاج منتشر کرد.[^now][^orchestrarole][^instr][^titlebig][^big][^susa][^taj]
+
+افسری راد برای فیلم هم آهنگ ساخته و هم نوازندگی کرده است. در مستند «This is My Voice» در سال ۲۰۰۹، نام او و آنه هیتا کنار هم به‌عنوان سازندگان موسیقی آمده است. در فیلم «House of Norway» به کارگردانی یان واردوئن قطعه‌های ایرانی را با سنتور نواخت و موسیقی فیلم کوتاه «مردچادر» ساختهٔ کاوه تهرانی را در سال ۲۰۱۹ ساخت.[^anne][^short][^house][^titlehouse][^man][^filmdate][^director]

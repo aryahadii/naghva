@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/65EB9ESE5rmeR4uMJGvFJU
+archive: https://web.archive.org/web/20190819100355/https://open.spotify.com/album/65EB9ESE5rmeR4uMJGvFJU
 title: Listen to Afarinesh - Album by Javid Afsari Rad | Spotify
 status: processed
 language: en

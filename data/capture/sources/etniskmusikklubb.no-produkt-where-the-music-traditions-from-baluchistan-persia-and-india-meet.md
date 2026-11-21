@@ -1,5 +1,6 @@
 ---
 url: https://etniskmusikklubb.no/produkt/where-the-music-traditions-from-baluchistan-persia-and-india-meet/
+archive: https://web.archive.org/web/20260515020019/https://etniskmusikklubb.no/produkt/where-the-music-traditions-from-baluchistan-persia-and-india-meet/
 title: Where The Music Traditions From Baluchistan, Persia And India Meet – Etnisk Musikklubb
 status: processed
 language: en

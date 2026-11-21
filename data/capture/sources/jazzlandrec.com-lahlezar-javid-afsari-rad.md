@@ -1,5 +1,6 @@
 ---
 url: https://jazzlandrec.com/lahlezar-javid-afsari-rad
+archive: https://web.archive.org/web/20231002153925/https://jazzlandrec.com/lahlezar-javid-afsari-rad
 title: Lahlezar - Javid Afsari Rad | Jazzlandrec
 status: processed
 language: en
