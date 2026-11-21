@@ -1,0 +1,13 @@
+---
+url: https://www.youtube.com/watch?v=2cN-xLGWE1s
+title: Ajam - Bayram
+status: processed
+language: en
+tier: own
+about:
+- Sara Fotros
+---
+
+Original band, named recording or film credit, read 2026-11-21.
+
+> سارا فطرس

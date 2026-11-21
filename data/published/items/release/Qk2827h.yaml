@@ -23,6 +23,84 @@ statements:
       quote: Ajam
       locator: Original release, musician interview or performance credits
       accessed: '2026-11-21'
+  - value: Qthkjge
+    references:
+    - source: ajammusic.com-ajam-discography-rag-o-risheh-roots-and-veins
+      quote: Jamal Mohammadi (Vocals and Kamānche)
+      locator: Band’s published track credits and original album notes
+      accessed: '2026-11-21'
+    qualifiers:
+      role:
+      - vocals
+      - kamancheh
+  - value: Qqme5nk
+    references:
+    - source: ajammusic.com-ajam-discography-rag-o-risheh-roots-and-veins
+      quote: Kamal Mohammadi (Vocals)
+      locator: Band’s published track credits and original album notes
+      accessed: '2026-11-21'
+    qualifiers:
+      role: vocals
+  - value: Qkde49h
+    references:
+    - source: ajammusic.com-ajam-discography-rag-o-risheh-roots-and-veins
+      quote: Ebad Mohammadi (Vocals)
+      locator: Band’s published track credits and original album notes
+      accessed: '2026-11-21'
+    qualifiers:
+      role: vocals
+  - value: Q526d3x
+    references:
+    - source: ajammusic.com-ajam-discography-rag-o-risheh-roots-and-veins
+      quote: Narges Mohammadi (Backing Vocals)
+      locator: Band’s published track credits and original album notes
+      accessed: '2026-11-21'
+    qualifiers:
+      role: backing vocals
+  - value: Qgrevrs
+    references:
+    - source: ajammusic.com-ajam-discography-rag-o-risheh-roots-and-veins
+      quote: MirHamzeh Mohammadi (Backing Vocals)
+      locator: Band’s published track credits and original album notes
+      accessed: '2026-11-21'
+    qualifiers:
+      role: backing vocals
+  - value: Qdx8hee
+    references:
+    - source: ajammusic.com-ajam-discography-rag-o-risheh-roots-and-veins
+      quote: Jamileh Mohammadi (Backing Vocals)
+      locator: Band’s published track credits and original album notes
+      accessed: '2026-11-21'
+    qualifiers:
+      role: backing vocals
+  - value: Qdvd9b3
+    references:
+    - source: ajammusic.com-ajam-discography-rag-o-risheh-roots-and-veins
+      quote: Mohammad Mohammadi ( Lalevā – Shepherd’s Reed)
+      locator: Band’s published track credits and original album notes
+      accessed: '2026-11-21'
+  - value: Qh8j8rj
+    references:
+    - source: ajammusic.com-ajam-discography-rag-o-risheh-roots-and-veins
+      quote: Ali Mohammadi ( Dosar Kotan – Double headed clay drums)
+      locator: Band’s published track credits and original album notes
+      accessed: '2026-11-21'
+    qualifiers:
+      role: drums
+  - value: Qfgh7bb
+    references:
+    - source: ajammusic.com-about-ajam-ajam-family
+      quote: Jamal Mohammadi and the Kayer Ensemble on a track featured on their 2016 album
+      locator: Band’s published track credits and original album notes
+      accessed: '2026-11-21'
+  - value: Q57p54f
+    references:
+    - source: ajammusic.com-about-ajam-ajam-family
+      quote: includes vocals from Abolhassan Khoshru
+      locator: Band’s published track credits and original album notes
+      accessed: '2026-11-21'
+    qualifiers:
+      role: vocals
   release date:
   - value:
       date: '2016-03-13'
@@ -54,4 +132,28 @@ statements:
     - source: www.youtube.com-oembed-sd7oi9dpam8
       quote: Tayyebeh Jan
       locator: Original release, musician interview or performance credits
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/0HM3YDi9hD6WcAd17BGwah
+    references:
+    - source: open.spotify.com-embed-album-3weco6eefiedth4auu0ij2
+      quote: Tayyebeh Jan
+      locator: Original group issue, artist identity or exact streaming edition
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/7aiZLcueo0tMqVdJ5LOcir
+    references:
+    - source: open.spotify.com-embed-album-0dcdul9mfty06f0gjnuq5u
+      quote: Tayyebeh Jan
+      locator: Original group issue, artist identity or exact streaming edition
+      accessed: '2026-11-21'
+  - value: https://music.apple.com/us/song/tayyebeh-jan/1727012988
+    references:
+    - source: music.apple.com-us-album-1727012213
+      quote: Tayyebeh Jan
+      locator: Original group issue, artist identity or exact streaming edition
+      accessed: '2026-11-21'
+  - value: https://www.youtube.com/watch?v=pAGJIsna4AM
+    references:
+    - source: www.youtube.com-oembed-pagjisna4am
+      quote: Ajam ft Kayer Ensemble and Abolhassan Khoshru - Tayyebeh Jan [Official Video] / عجم - طیبه جان
+      locator: Original band, named recording or film credit
       accessed: '2026-11-21'

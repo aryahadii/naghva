@@ -50,6 +50,12 @@ statements:
       quote: Love Story - song and lyrics by Migrain Sq. | Spotify
       accessed: '2026-11-21'
       locator: Page title
+  - value: https://open.spotify.com/track/57GVQbK7cVD6MMXRi49KT4
+    references:
+    - source: open.spotify.com-track-57gvqbk7cvd6mmxri49kt4
+      quote: Love Story - song and lyrics by Migrain Sq. | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
   release date:
   - value:
       date: '2011-08-17'

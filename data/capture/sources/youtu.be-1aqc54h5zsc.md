@@ -69,3 +69,11 @@ DW timestamped concert programme, read 2026-11-21.
 > (2:08:25) The Power of Silence, comprovisation by Cymin Samawatie
 
 DW timestamped concert programme, read 2026-11-21.
+
+> The Sound of Freedom | An audio-visual concert with musicians from Afghanistan, Iran and Germany
+
+Concert title, read 2026-11-21.
+
+> 2023-09-15
+
+Original issue date, read 2026-11-21.

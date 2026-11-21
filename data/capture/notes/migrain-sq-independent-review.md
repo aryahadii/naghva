@@ -1,0 +1,3 @@
+# Migrain Sq. independent review
+
+9.2/10. Sources 1.9, prose 1.9, catalogue 2.8, images 0.9, gaps 1.7. Hadi Bastani’s published founder interview and the band’s Spanish interview make it possible to separate the early Tehran group from the later recording and touring lineups. The Spanish-issued album, the original director’s “History” film, and the Madrid festival programme agree on the relevant credits. No additional issued album was corroborated in the Iranian and Spanish recording searches. The revised English desktop and Persian mobile renders each have 11 panels, 27 decoded images and intact listening links.

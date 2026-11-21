@@ -1,0 +1,54 @@
+id: Q8wycpx
+type: release
+statements:
+  name:
+  - value:
+      text: Dobareh (Live in Vancouver)
+      language: en
+    references:
+    - source: www.youtube.com-watch-v-kvwmbkbfxf0
+      quote: '''Dobare'' by Erwin Khachikian live in Vancouver'
+      accessed: '2026-11-21'
+      locator: Original artist-channel video
+  listen link:
+  - value: https://www.youtube.com/watch?v=kvwMbkbfXf0
+    references:
+    - source: www.youtube.com-watch-v-kvwmbkbfxf0
+      quote: '''Dobare'' by Erwin Khachikian live in Vancouver'
+      accessed: '2026-11-21'
+      locator: Original artist-channel video
+  performer:
+  - value: Qzjh64j
+    references:
+    - source: www.youtube.com-watch-v-kvwmbkbfxf0
+      quote: '''Dobare'' by Erwin Khachikian live in Vancouver'
+      accessed: '2026-11-21'
+      locator: Original artist-channel video
+  contributor:
+  - value: Qy88zyz
+    qualifiers:
+      role: composer
+    references:
+    - source: www.youtube.com-watch-v-kvwmbkbfxf0
+      quote: Music by Erwin Khachikian
+      accessed: '2026-11-21'
+      locator: Artist-published credits
+  release date:
+  - value:
+      date: '2019-11-01'
+    references:
+    - source: www.youtube.com-watch-v-kvwmbkbfxf0
+      quote: '2019-11-01'
+      accessed: '2026-11-21'
+      locator: Artist video publication date
+  cover art:
+  - value: https://i.ytimg.com/vi/kvwMbkbfXf0/maxresdefault.jpg
+    qualifiers:
+      credit:
+        text: Karmandan on YouTube
+        language: en
+    references:
+    - source: www.youtube.com-watch-v-kvwmbkbfxf0
+      quote: https://i.ytimg.com/vi/kvwMbkbfXf0/maxresdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video artwork

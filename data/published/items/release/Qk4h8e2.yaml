@@ -1,0 +1,41 @@
+id: Qk4h8e2
+type: release
+statements:
+  name:
+  - value:
+      text: What can you mach
+      language: en
+    references:
+    - source: db.musicaustria.at-en-node-200984
+      quote: 'Track 10: What Can You Mach; Track 15: Adio Querida (beide mit Sormeh)'
+      accessed: 2026-11-21
+      locator: Individual recording and orchestra credits
+  performer:
+  - value: Qyy9hf9
+    references:
+    - source: db.musicaustria.at-en-node-200984
+      quote: 'Track 10: What Can You Mach; Track 15: Adio Querida (beide mit Sormeh)'
+      accessed: 2026-11-21
+      locator: Individual recording and orchestra credits
+  listen link:
+  - value: https://music.apple.com/at/song/what-can-you-mach/1080389074
+    references:
+    - source: db.musicaustria.at-en-node-200984
+      quote: 'Track 10: What Can You Mach; Track 15: Adio Querida (beide mit Sormeh)'
+      accessed: 2026-11-21
+      locator: Individual recording and orchestra credits
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/16/e6/9f/16e69f1c-1650-69e7-c8a5-fc51d5b1fa8c/gmc065.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-at-album-radio-vienna-sounds-from-the-21st-century-1080388323
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/16/e6/9f/16e69f1c-1650-69e7-c8a5-fc51d5b1fa8c/gmc065.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Native album artwork
+  release date:
+  - value:
+      date: '2016-02-05'
+    references:
+    - source: music.apple.com-at-album-radio-vienna-sounds-from-the-21st-century-1080388323
+      quote: '2016-02-05'
+      accessed: 2026-11-21
+      locator: Edition release date

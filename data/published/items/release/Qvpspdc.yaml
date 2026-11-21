@@ -1,0 +1,62 @@
+id: Qvpspdc
+type: release
+statements:
+  name:
+  - value:
+      text: Baroon (Live in Armenia)
+      language: en
+    references:
+    - source: www.youtube.com-watch-v-im_bnefv19k
+      quote: '''Baroon'' by Karmandan | Erwin Khachikian | کارمندان | اروین خاچیکیان'
+      accessed: '2026-11-21'
+      locator: Original artist-channel video
+  listen link:
+  - value: https://www.youtube.com/watch?v=IM_BnEfV19k
+    references:
+    - source: www.youtube.com-watch-v-im_bnefv19k
+      quote: '''Baroon'' by Karmandan | Erwin Khachikian | کارمندان | اروین خاچیکیان'
+      accessed: '2026-11-21'
+      locator: Original artist-channel video
+  performer:
+  - value: Qzjh64j
+    references:
+    - source: www.youtube.com-watch-v-im_bnefv19k
+      quote: '''Baroon'' by Karmandan | Erwin Khachikian | کارمندان | اروین خاچیکیان'
+      accessed: '2026-11-21'
+      locator: Original artist-channel video
+  contributor:
+  - value: Qy88zyz
+    qualifiers:
+      role: composer
+    references:
+    - source: www.youtube.com-watch-v-im_bnefv19k
+      quote: Music by Erwin Khachikian
+      accessed: '2026-11-21'
+      locator: Artist-published credits
+  - value: Qfby23f
+    qualifiers:
+      role: lyricist
+    references:
+    - source: www.youtube.com-watch-v-im_bnefv19k
+      quote: Lyrics by Yaghma Golroue
+      accessed: '2026-11-21'
+      locator: Artist-published credits
+  release date:
+  - value:
+      date: '2017-09-26'
+    references:
+    - source: www.youtube.com-watch-v-im_bnefv19k
+      quote: '2017-09-26'
+      accessed: '2026-11-21'
+      locator: Artist video publication date
+  cover art:
+  - value: https://i.ytimg.com/vi/IM_BnEfV19k/maxresdefault.jpg
+    qualifiers:
+      credit:
+        text: Karmandan on YouTube
+        language: en
+    references:
+    - source: www.youtube.com-watch-v-im_bnefv19k
+      quote: https://i.ytimg.com/vi/IM_BnEfV19k/maxresdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video artwork

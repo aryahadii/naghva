@@ -145,6 +145,26 @@ references:
     quote: there has never been an ending to Migrain Sq.
     accessed: '2026-11-21'
     locator: Artist interview, biography or performance credits
+  polish:
+    source: pouyapouramin.no-future-2026-8-21-2cc.pdf
+    quote: 2013 Polish Chair — Oido Records, Madrid, Spain — Album release with Migrain Blvd.
+    accessed: '2026-11-21'
+    locator: Artist interview, biography or performance credits
+  filmnew:
+    source: pouyapouramin.no-future-2026-8-21-2cc.pdf
+    quote: Por un Puñado de Besos, Spain — Track by Migrain Sq. featured in the film
+    accessed: '2026-11-21'
+    locator: Artist interview, biography or performance credits
+  songfilm:
+    source: open.spotify.com-track-57gvqbk7cvd6mmxri49kt4
+    quote: Love Story - song and lyrics by Migrain Sq. | Spotify
+    accessed: '2026-11-21'
+    locator: Page title
+  soundtrack:
+    source: open.spotify.com-album-0t40ocebzytqkj2hrbvilo
+    quote: Listen to Por un Puñado de Besos - Compilation by Various Artists | Spotify
+    accessed: '2026-11-21'
+    locator: Page title
 ---
 
 Migrain Sq. is an Iranian group whose members have worked in rock, electronic music and pop. In Tehran, an early lineup played rock covers and improvised with tape. Guitarist Pouya Pour-Amin later formed a trio with [Sara Bigdeli Shamloo](/en/sara-bigdeli-shamloo-z5s/) and [Nima Aghiani](/en/nima-aghiani-gnc/). Their album [*Madame Buttercry*](#madame-buttercry-pe5) came out on the independent Madrid label Oído Records in 2012.[^roots][^glass][^tapes][^next][^act][^label][^disc]
@@ -157,4 +177,4 @@ By 2011 Shamloo was singing with Pour-Amin and Aghiani. The group had recorded *
 
 ## Madrid and the later Persian songs
 
-Oído issued *Madame Buttercry* on CD. On 18 July 2013 the group played Madrid’s Teatro Circo Price during Veranos de la Villa, opening for Fanfarlo with keyboard player Olka Hedayat in the lineup. Their repertoire included Federico García Lorca’s “La canción que nunca diré,” which Shamloo sang in Ahmad Shamlou’s Persian translation. In 2018 the trio released “Habāk,” with Persian lyrics by Shamloo. The musicians described the song as an experiment in what Iranian pop could sound like.[^disc][^cd][^madrid][^date][^festival][^keys][^last][^lorca][^trans][^habak][^year][^pop] In 2019 they said they meant to keep working together.[^continue]
+Oído issued *Madame Buttercry* on CD. On 18 July 2013 the group played Madrid’s Teatro Circo Price during Veranos de la Villa, opening for Fanfarlo with keyboard player Olka Hedayat in the lineup. Their earlier recording *Polish Chair* came out on Oído in 2013 under the name Migrain Blvd. “Love Story” also appeared on the soundtrack to the Spanish film *Por un puñado de besos*.[^polish][^filmnew][^songfilm][^soundtrack] Their repertoire included Federico García Lorca’s “La canción que nunca diré,” which Shamloo sang in Ahmad Shamlou’s Persian translation. In 2018 the trio released “Habāk,” with Persian lyrics by Shamloo. The musicians described the song as an experiment in what Iranian pop could sound like.[^disc][^cd][^madrid][^date][^festival][^keys][^last][^lorca][^trans][^habak][^year][^pop] In 2019 they said they meant to keep working together.[^continue]

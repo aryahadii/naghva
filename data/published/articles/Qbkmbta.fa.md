@@ -145,6 +145,26 @@ references:
     quote: there has never been an ending to Migrain Sq.
     accessed: '2026-11-21'
     locator: Artist interview, biography or performance credits
+  polish:
+    source: pouyapouramin.no-future-2026-8-21-2cc.pdf
+    quote: 2013 Polish Chair — Oido Records, Madrid, Spain — Album release with Migrain Blvd.
+    accessed: '2026-11-21'
+    locator: Artist interview, biography or performance credits
+  filmnew:
+    source: pouyapouramin.no-future-2026-8-21-2cc.pdf
+    quote: Por un Puñado de Besos, Spain — Track by Migrain Sq. featured in the film
+    accessed: '2026-11-21'
+    locator: Artist interview, biography or performance credits
+  songfilm:
+    source: open.spotify.com-track-57gvqbk7cvd6mmxri49kt4
+    quote: Love Story - song and lyrics by Migrain Sq. | Spotify
+    accessed: '2026-11-21'
+    locator: Page title
+  soundtrack:
+    source: open.spotify.com-album-0t40ocebzytqkj2hrbvilo
+    quote: Listen to Por un Puñado de Besos - Compilation by Various Artists | Spotify
+    accessed: '2026-11-21'
+    locator: Page title
 ---
 
 گروه ایرانی Migrain Sq. در طول فعالیتش از راک به موسیقی الکترونیک و پاپ رسیده است. اعضای اولیهٔ گروه در تهران قطعات راک را بازنوازی می‌کردند و با نوارهای ضبط‌شده بداهه می‌نواختند. پویا پورامین، گیتاریست گروه، بعدتر با [سارا بیگدلی شاملو](/fa/sara-bigdeli-shamloo-z5s/) و [نیما عقیانی](/fa/nima-aghiani-gnc/) ترکیب سه‌نفرهٔ گروه را شکل داد. در سال ۲۰۱۲ نشر مستقل اوئیدو در مادرید آلبوم [*Madame Buttercry*](#madame-buttercry-pe5) را از این گروه منتشر کرد.[^roots][^glass][^tapes][^next][^act][^label][^disc]
@@ -157,4 +177,4 @@ references:
 
 ## مادرید و ترانه‌های فارسی
 
-نشر اوئیدو *Madame Buttercry* را روی سی‌دی منتشر کرد. گروه در ۱۸ ژوئیهٔ ۲۰۱۳ در جشنوارهٔ تابستانی مادرید، با همراهی اُلکا هدایت نوازندهٔ کیبورد، پیش از گروه فنفارلو در تئاتر سیرکو پرایس روی صحنه رفت. یکی از قطعاتشان بر اساس شعر «ترانه‌ای که نخواهم سرود من هرگز» اثر فدریکو گارسیا لورکا بود که شاملو ترجمهٔ فارسی احمد شاملو را می‌خواند. در سال ۲۰۱۸ هم گروه سه‌نفره «هباک» را با شعر فارسی سارا بیگدلی شاملو منتشر کرد. اعضای گروه می‌گفتند با این قطعه در پی یافتن صدایی تازه برای موسیقی پاپ ایرانی بوده‌اند.[^disc][^cd][^madrid][^date][^festival][^keys][^last][^lorca][^trans][^habak][^year][^pop] در سال ۲۰۱۹ هم گفتند که بنا دارند کارشان را با هم ادامه دهند.[^continue]
+نشر اوئیدو *Madame Buttercry* را روی سی‌دی منتشر کرد. گروه در ۱۸ ژوئیهٔ ۲۰۱۳ در جشنوارهٔ تابستانی مادرید، با همراهی اُلکا هدایت نوازندهٔ کیبورد، پیش از گروه فنفارلو در تئاتر سیرکو پرایس روی صحنه رفت. ضبط قدیمی‌تر گروه، *Polish Chair*، در ۲۰۱۳ با نام Migrain Blvd. از نشر اوئیدو منتشر شد. قطعهٔ «Love Story» نیز در موسیقی متن فیلم اسپانیایی *Por un puñado de besos* به کار رفت.[^polish][^filmnew][^songfilm][^soundtrack] یکی از قطعاتشان بر اساس شعر «ترانه‌ای که نخواهم سرود من هرگز» اثر فدریکو گارسیا لورکا بود که شاملو ترجمهٔ فارسی احمد شاملو را می‌خواند. در سال ۲۰۱۸ هم گروه سه‌نفره «هباک» را با شعر فارسی سارا بیگدلی شاملو منتشر کرد. اعضای گروه می‌گفتند با این قطعه در پی یافتن صدایی تازه برای موسیقی پاپ ایرانی بوده‌اند.[^disc][^cd][^madrid][^date][^festival][^keys][^last][^lorca][^trans][^habak][^year][^pop] در سال ۲۰۱۹ هم گفتند که بنا دارند کارشان را با هم ادامه دهند.[^continue]

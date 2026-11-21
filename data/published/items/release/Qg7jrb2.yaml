@@ -1,0 +1,43 @@
+id: Qg7jrb2
+type: release
+statements:
+  name:
+  - value:
+      text: /kry
+      language: en
+    references:
+    - source: open.spotify.com-album-1noovgnnafeiryhdsmglnj
+      quote: /kry
+      accessed: 2026-11-21
+      locator: Spotify issue title
+  release type:
+  - value: album
+    references:
+    - source: open.spotify.com-album-1noovgnnafeiryhdsmglnj
+      quote: /kry
+      accessed: 2026-11-21
+      locator: Spotify issue title
+  performer:
+  - value: Qyy9hf9
+    qualifiers:
+      role:
+      - clarinet
+      - electronics
+    references:
+    - source: www.freifeldtontraeger.com-kry
+      quote: Mona Matbou Riahi - Clarinet/fx
+      accessed: 2026-11-21
+      locator: Label musician credits
+  - value: Q349g6b
+    references:
+    - source: open.spotify.com-album-1noovgnnafeiryhdsmglnj
+      quote: /kry
+      accessed: 2026-11-21
+      locator: Spotify issue title
+  listen link:
+  - value: https://open.spotify.com/album/1NoOvgnnafeirYHdsmgLNJ
+    references:
+    - source: open.spotify.com-album-1noovgnnafeiryhdsmglnj
+      quote: /kry
+      accessed: 2026-11-21
+      locator: Spotify issue title

@@ -1,0 +1,53 @@
+id: Qqtfzy3
+type: release
+statements:
+  name:
+  - value:
+      text: Parlando
+      language: en
+    references:
+    - source: music.apple.com-at-album-narrante-1444130926
+      quote: Parlando
+      accessed: 2026-11-21
+      locator: Track listing
+  listen link:
+  - value: https://music.apple.com/at/song/parlando/1444131357
+    references:
+    - source: music.apple.com-at-album-narrante-1444130926
+      quote: Parlando
+      accessed: 2026-11-21
+      locator: Track listing
+  - value: https://open.spotify.com/track/6l3ZxoIvktag8JgoAGiEPs
+    references:
+    - source: open.spotify.com-album-2secgb9rnrqgd07clymlgu
+      quote: Golfam Khayam, Mona Matbou Riahi
+      accessed: 2026-11-21
+      locator: Track billing
+  release date:
+  - value:
+      date: '2016-05-20'
+    references:
+    - source: music.apple.com-at-album-narrante-1444130926
+      quote: '2016-05-20'
+      accessed: 2026-11-21
+      locator: Digital issue date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/ed/f0/23/edf02320-23d9-80fd-088a-f6d09449f920/00602547794437.rgb.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-at-album-narrante-1444130926
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/ed/f0/23/edf02320-23d9-80fd-088a-f6d09449f920/00602547794437.rgb.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Release artwork
+  performer:
+  - value: Qyy9hf9
+    references:
+    - source: music.apple.com-at-album-narrante-1444130926
+      quote: Golfam Khayam & Mona Matbou Riahi
+      accessed: 2026-11-21
+      locator: Apple track artist billing
+  - value: Qranggn
+    references:
+    - source: music.apple.com-at-album-narrante-1444130926
+      quote: Golfam Khayam & Mona Matbou Riahi
+      accessed: 2026-11-21
+      locator: Apple track artist billing

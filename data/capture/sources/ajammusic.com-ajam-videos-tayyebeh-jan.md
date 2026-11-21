@@ -19,3 +19,7 @@ Musician interview, original recording credits or presenter programme, read 2026
 Musician interview, original recording credits or presenter programme, read 2026-11-21.
 
 > The structure of the track is laid down in London
+
+Band, label, native recording or original artist interview, read 2026-11-21.
+
+> Abolhassan Khoshru

@@ -1,0 +1,89 @@
+id: Qdne8ac
+type: release
+statements:
+  name:
+  - value:
+      text: Gole Iran
+      language: en
+    references:
+    - source: music.apple.com-us-album-rag-o-risheh-1112020536uo-4
+      quote: Gole Iran
+      locator: Original group issue, artist identity or exact streaming edition
+      accessed: '2026-11-21'
+  performer:
+  - value: Qstq3nj
+    references:
+    - source: music.apple.com-us-album-rag-o-risheh-1112020536uo-4
+      quote: Ajam
+      locator: Original group issue, artist identity or exact streaming edition
+      accessed: '2026-11-21'
+  - value: Qvp2b3f
+    references:
+    - source: www.youtube.com-watchv-ton4zc4y8ic
+      quote: سارا فطرس
+      locator: Original band, named recording or film credit
+      accessed: '2026-11-21'
+    qualifiers:
+      role: tombak
+  release date:
+  - value:
+      date: '2016-03-13'
+    references:
+    - source: music.apple.com-us-album-rag-o-risheh-1112020536uo-4
+      quote: '2016-03-13'
+      locator: Original group issue, artist identity or exact streaming edition
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music20/v4/2c/28/e9/2c28e93a-1a06-276f-2022-608b7f345ddb/190394516994.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-rag-o-risheh-1112020536uo-4
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music20/v4/2c/28/e9/2c28e93a-1a06-276f-2022-608b7f345ddb/190394516994.jpg/1200x630bb.jpg
+      locator: Original group issue, artist identity or exact streaming edition
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Ajam · Rag O Risheh
+        language: en
+  listen link:
+  - value: https://open.spotify.com/track/666d7ZImKlYv8iplhL9vQB
+    references:
+    - source: open.spotify.com-embed-album-3weco6eefiedth4auu0ij2
+      quote: Gole Iran
+      locator: Original group issue, artist identity or exact streaming edition
+      accessed: '2026-11-21'
+  - value: https://music.apple.com/us/song/gole-iran/1112020546
+    references:
+    - source: music.apple.com-us-album-rag-o-risheh-1112020536uo-4
+      quote: Gole Iran
+      locator: Original group issue, artist identity or exact streaming edition
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/78QZGU8prNj9v1rJ7ePHoU
+    references:
+    - source: open.spotify.com-embed-album-0dcdul9mfty06f0gjnuq5u
+      quote: Gole Iran
+      locator: Original group issue, artist identity or exact streaming edition
+      accessed: '2026-11-21'
+  - value: https://music.apple.com/us/song/gole-iran/1727012480
+    references:
+    - source: music.apple.com-us-album-1727012213
+      quote: Gole Iran
+      locator: Original group issue, artist identity or exact streaming edition
+      accessed: '2026-11-21'
+  - value: https://www.youtube.com/watch?v=TOn4ZC4y8ic
+    references:
+    - source: www.youtube.com-oembed-ton4zc4y8ic
+      quote: Ajam - Gole Iran [OFFICIAL MUSIC VIDEO] / عجم - گل ایران
+      locator: Original band, named recording or film credit
+      accessed: '2026-11-21'
+  - value: https://www.youtube.com/watch?v=C3qhoRaqNcY
+    references:
+    - source: www.youtube.com-oembed-c3qhoraqncy
+      quote: Ajam - Gole Iran (World Cup 2014) (عجم - گل ایران (جام جهانی ۲۰۱۴
+      locator: Original band, named recording or film credit
+      accessed: '2026-11-21'
+  - value: https://soundcloud.com/ajamband/gole-iran
+    references:
+    - source: soundcloud.com-ajamband-gole-iran
+      quote: Gole Iran (World Cup 2014) / عجم - گل ایران
+      locator: Original band, named recording or film credit
+      accessed: '2026-11-21'

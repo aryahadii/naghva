@@ -65,10 +65,20 @@ references:
     quote: Alevi Festival with Zagros Daf Ensemble, 7th June
     locator: Musician interview, original recording credits or presenter programme
     accessed: '2026-11-21'
+  concertfilm:
+    source: www.youtube.com-watchv-hwcdvilm5j0
+    quote: at SOAS, University of London
+    locator: Original filmmaker or musician, item-specific title, date and performers
+    accessed: '2026-11-21'
+  concertissue:
+    source: www.youtube.com-watchv-hwcdvilm5j0
+    quote: '2025-03-19T03:05:02-07:00'
+    locator: Original filmmaker or musician, item-specific title, date and performers
+    accessed: '2026-11-21'
 ---
 
 Zagros Daf Ensemble grew out of the work of two percussion teachers in London, Sara Fotros and Zanyar Hesami. They brought their students together to write and play rhythmic pieces drawing on Persian and Kurdish music. Fotros’s ensemble biography dates the founding to 2023, while a concert programme for Hesami gives 2024. By December 2024 the players had released a recording of Hesami’s composition “Tan Tan-e Ra.”[^formed][^dates][^students][^tan][^tdate]
 
-At SOAS University of London on March 16, 2025, the frame drums accompanied Hesami on saz, the long-necked lute also called bağlama. A film of the performance lets listeners hear the solo instrument over the ensemble rhythm. That August the founders released “Daf û Dîlan,” a piece they created together, with an arrangement by Hesami.[^soas][^date][^saz][^dilan][^ddate]
+At SOAS University of London on March 16, 2025, the frame drums accompanied Hesami on saz, the long-necked lute also called bağlama. A film of the performance lets listeners hear the solo instrument over the ensemble rhythm. That August the founders released “Daf û Dîlan,” a piece they created together, with an arrangement by Hesami.[^soas][^date][^saz][^dilan][^ddate] At the same Nowruz festival they also performed “Morde Bodam,” a piece by Hesami filmed by percussionist Elizabeth Nott.[^concertfilm][^concertissue]
 
 The players also work with other percussionists in London. At the 37th Day-Mer Culture and Arts Festival, Fotros and Hesami joined the host Day-Mer Daf Group with the Zagros drummers. Percussionist Elizabeth Nott also lists a performance with Zagros at the Alevi Festival in June.[^day][^names][^nott]

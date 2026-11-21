@@ -1,0 +1,58 @@
+id: Q96h8gn
+type: release
+statements:
+  name:
+  - value:
+      text: Karmandan
+      language: en
+    references:
+    - source: music.apple.com-us-album-karmandan-401059007
+      quote: Karmandan
+      accessed: '2026-11-21'
+      locator: Album title
+  release type:
+  - value: album
+    references:
+    - source: music.apple.com-us-album-karmandan-401059007
+      quote: Karmandan
+      accessed: '2026-11-21'
+      locator: Album title
+  listen link:
+  - value: https://music.apple.com/us/album/karmandan/401059007
+    references:
+    - source: music.apple.com-us-album-karmandan-401059007
+      quote: Karmandan
+      accessed: '2026-11-21'
+      locator: Album title
+  - value: https://open.spotify.com/album/4NDlxLkNoWugzLhbu55XzG
+    references:
+    - source: open.spotify.com-embed-album-4ndlxlknowugzlhbu55xzg
+      quote: Karmandan
+      accessed: '2026-11-21'
+      locator: Album title
+  performer:
+  - value: Qzjh64j
+    references:
+    - source: music.apple.com-us-album-karmandan-401059007
+      quote: Karmandan
+      accessed: '2026-11-21'
+      locator: Billed project
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music/15/77/a0/mzi.wbcvfaqm.jpg/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Digital issue via Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-karmandan-401059007
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music/15/77/a0/mzi.wbcvfaqm.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Original digital artwork
+  release date:
+  - value:
+      date: '2010-11-01'
+    references:
+    - source: music.apple.com-us-album-karmandan-401059007
+      quote: '2010-11-01'
+      accessed: '2026-11-21'
+      locator: Digital issue date

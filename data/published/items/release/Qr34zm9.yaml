@@ -1,0 +1,60 @@
+id: Qr34zm9
+type: release
+statements:
+  name:
+  - value:
+      text: LAM O BE
+      language: en
+    references:
+    - source: soundcloud.com-karmandan-lam-o-be
+      quote: LAM O BE
+      accessed: '2026-11-21'
+      locator: Artist upload
+  listen link:
+  - value: https://soundcloud.com/karmandan/lam-o-be
+    references:
+    - source: soundcloud.com-karmandan-lam-o-be
+      quote: LAM O BE
+      accessed: '2026-11-21'
+      locator: Artist upload
+  - value: https://www.youtube.com/watch?v=uZuSn9JU-cE
+    references:
+    - source: www.youtube.com-watch-v-uzusn9ju-ce
+      quote: Saman Abedi 'Lam O Be'
+      accessed: '2026-11-21'
+      locator: Original artist-channel video
+  performer:
+  - value: Q3v7pm6
+    references:
+    - source: soundcloud.com-karmandan-lam-o-be
+      quote: 'Song and music by: Saman Abedi'
+      accessed: '2026-11-21'
+      locator: Artist credits
+  contributor:
+  - value: Qy88zyz
+    qualifiers:
+      role: arranger
+    references:
+    - source: soundcloud.com-karmandan-lam-o-be
+      quote: 'Arrangement: Erwin Khachikian'
+      accessed: '2026-11-21'
+      locator: Artist credits
+  release date:
+  - value:
+      date: '2015-11-12'
+    references:
+    - source: soundcloud.com-karmandan-lam-o-be
+      quote: '2015-11-12'
+      accessed: '2026-11-21'
+      locator: SoundCloud publication date
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-000135898988-vmjj6v-large.jpg
+    qualifiers:
+      credit:
+        text: Karmandan on SoundCloud
+        language: en
+    references:
+    - source: soundcloud.com-karmandan-lam-o-be
+      quote: https://i1.sndcdn.com/artworks-000135898988-vmjj6v-large.jpg
+      accessed: '2026-11-21'
+      locator: Artist upload artwork

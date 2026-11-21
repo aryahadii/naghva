@@ -1,0 +1,58 @@
+id: Qvcc2gy
+type: release
+statements:
+  name:
+  - value:
+      text: Gozargah
+      language: en
+    references:
+    - source: music.apple.com-us-album-gozargah-1350948051
+      quote: Gozargah
+      accessed: '2026-11-21'
+      locator: Album title
+  release type:
+  - value: album
+    references:
+    - source: music.apple.com-us-album-gozargah-1350948051
+      quote: Gozargah
+      accessed: '2026-11-21'
+      locator: Album title
+  listen link:
+  - value: https://music.apple.com/us/album/gozargah/1350948051
+    references:
+    - source: music.apple.com-us-album-gozargah-1350948051
+      quote: Gozargah
+      accessed: '2026-11-21'
+      locator: Album title
+  - value: https://open.spotify.com/album/6H1glHj5Q8W9XqLeFhfm9Z
+    references:
+    - source: open.spotify.com-embed-album-6h1glhj5q8w9xqlefhfm9z
+      quote: Gozargah
+      accessed: '2026-11-21'
+      locator: Album title
+  performer:
+  - value: Qzjh64j
+    references:
+    - source: music.apple.com-us-album-gozargah-1350948051
+      quote: Karmandan
+      accessed: '2026-11-21'
+      locator: Billed project
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/79/94/de/7994de2d-74cb-f7f6-4fd3-5bf66e72c3d0/191924932437.jpg/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Digital issue via Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-gozargah-1350948051
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/79/94/de/7994de2d-74cb-f7f6-4fd3-5bf66e72c3d0/191924932437.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Original digital artwork
+  release date:
+  - value:
+      date: '2018-02-20'
+    references:
+    - source: music.apple.com-us-album-gozargah-1350948051
+      quote: '2018-02-20'
+      accessed: '2026-11-21'
+      locator: Digital issue date

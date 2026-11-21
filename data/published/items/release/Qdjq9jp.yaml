@@ -1,0 +1,66 @@
+id: Qdjq9jp
+type: release
+statements:
+  name:
+  - value:
+      text: Mozahem
+      language: en
+    references:
+    - source: music.apple.com-us-album-karmandan-401059007
+      quote: Mozahem
+      accessed: '2026-11-21'
+      locator: Track 1
+  performer:
+  - value: Qzjh64j
+    references:
+    - source: music.apple.com-us-album-karmandan-401059007
+      quote: Karmandan
+      accessed: '2026-11-21'
+      locator: Billed project
+  listen link:
+  - value: https://music.apple.com/us/song/mozahem/401059025
+    references:
+    - source: music.apple.com-us-album-karmandan-401059007
+      quote: https://music.apple.com/us/song/mozahem/401059025
+      accessed: '2026-11-21'
+      locator: Exact track link
+  - value: https://open.spotify.com/track/2OduejIh3zw6kPuCDnvG3U
+    references:
+    - source: open.spotify.com-embed-album-4ndlxlknowugzlhbu55xzg
+      quote: spotify:track:2OduejIh3zw6kPuCDnvG3U
+      accessed: '2026-11-21'
+      locator: Exact Spotify track URI
+  - value: https://www.youtube.com/watch?v=XMoSb8esDtQ
+    references:
+    - source: www.youtube.com-watch-v-xmosb8esdtq
+      quote: '''Mozahem'' Karmandan | Erwin Khachikian | کارمندان | اروین خاچیکیان'
+      accessed: '2026-11-21'
+      locator: Original artist-channel video
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music/15/77/a0/mzi.wbcvfaqm.jpg/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Digital issue via Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-karmandan-401059007
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music/15/77/a0/mzi.wbcvfaqm.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Original digital artwork
+  release date:
+  - value:
+      date: '2010-11-01'
+    references:
+    - source: music.apple.com-us-album-karmandan-401059007
+      quote: '2010-11-01'
+      accessed: '2026-11-21'
+      locator: Digital issue date
+  contributor:
+  - value: Qy88zyz
+    qualifiers:
+      role: composer
+    references:
+    - source: www.youtube.com-watch-v-xmosb8esdtq
+      quote: Music by Erwin Khachikian
+      accessed: '2026-11-21'
+      locator: Artist-published credits

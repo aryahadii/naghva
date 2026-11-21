@@ -15,3 +15,33 @@ statements:
   - value: Qbkmbta
     references:
     - *id001
+  release date:
+  - value:
+      date: '2013'
+    references:
+    - &id002
+      source: pouyapouramin.no-future-2026-8-21-2cc.pdf
+      quote: 2013 Polish Chair — Oido Records, Madrid, Spain — Album release with Migrain Blvd.
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  release type:
+  - value: album
+    references:
+    - *id002
+  contributor:
+  - value: Qr62rq7
+    references:
+    - source: pouyapouramin.no-future-2026-8-21-2cc.pdf
+      quote: Polish Chair (recording and mixing)
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: recording engineer
+  - value: Qr62rq7
+    references:
+    - source: pouyapouramin.no-future-2026-8-21-2cc.pdf
+      quote: Polish Chair (recording and mixing)
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: mixing engineer

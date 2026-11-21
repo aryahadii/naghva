@@ -8,5 +8,61 @@ statements:
     references:
     - source: ajammusic.com-about-ajam-ajam-family
       quote: Ajam
-      locator: Original release, musician interview or performance credits
+      locator: Original group issue, artist identity or exact streaming edition
+      accessed: '2026-11-21'
+  - value:
+      text: عجم
+      language: fa
+    references:
+    - source: www.youtube.com-watchv-vgcaryrsjf8
+      quote: عجم
+      locator: Original group issue, artist identity or exact streaming edition
+      accessed: '2026-11-21'
+  based in:
+  - value: Q89tspa
+    references:
+    - source: ajammusic.com-about-ajam
+      quote: London based band
+      locator: Original group issue, artist identity or exact streaming edition
+      accessed: '2026-11-21'
+  image:
+  - value: https://i.ytimg.com/vi/AzUKLHln-jI/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-azuklhln-ji
+      quote: https://i.ytimg.com/vi/AzUKLHln-jI/hqdefault.jpg
+      locator: Original group issue, artist identity or exact streaming edition
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Ajam · Kölner Philharmonie concert
+        language: en
+  logo:
+  - value: https://yt3.googleusercontent.com/ytc/AIdro_mDbKQBNLY8x1e6rMIGBiy1Micx8GbYskMcJl2Iadb-hHs=s900-c-k-c0x00ffffff-no-rj
+    references:
+    - source: www.youtube.com-channel-ucawavffl3c_hwkbmveomvtg
+      quote: https://yt3.googleusercontent.com/ytc/AIdro_mDbKQBNLY8x1e6rMIGBiy1Micx8GbYskMcJl2Iadb-hHs=s900-c-k-c0x00ffffff-no-rj
+      locator: Original group issue, artist identity or exact streaming edition
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Ajam · official band logo
+        language: en
+  profile link:
+  - value: https://www.youtube.com/channel/UCAwaVFFL3c_hwkbMvEoMVtg
+    references:
+    - source: www.youtube.com-channel-ucawavffl3c_hwkbmveomvtg
+      quote: https://www.youtube.com/channel/UCAwaVFFL3c_hwkbMvEoMVtg
+      locator: Original group issue, artist identity or exact streaming edition
+      accessed: '2026-11-21'
+  - value: https://soundcloud.com/ajamband
+    references:
+    - source: ajammusic.com
+      quote: https://soundcloud.com/ajamband
+      locator: Original group issue, artist identity or exact streaming edition
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/artist/2LpU4CzFTK4IiZDNQOGWOC
+    references:
+    - source: open.spotify.com-embed-artist-2lpu4czftk4iizdnqogwoc
+      quote: Ajam
+      locator: Original group issue, artist identity or exact streaming edition
       accessed: '2026-11-21'

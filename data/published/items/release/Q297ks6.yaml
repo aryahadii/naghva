@@ -1,0 +1,45 @@
+id: Q297ks6
+type: release
+statements:
+  name:
+  - value:
+      text: A motive with no name
+      language: en
+    references:
+    - source: soundcloud.com-pannulus-motive
+      quote: Stream A motive with no name by Pannulus | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qr62rq7
+    references:
+    - source: soundcloud.com-pannulus-motive
+      quote: Stream A motive with no name by Pannulus | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://soundcloud.com/pannulus/motive
+    references:
+    - source: soundcloud.com-pannulus-motive
+      quote: Stream A motive with no name by Pannulus | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i1.sndcdn.com/avatars-000061459748-lpcuay-t500x500.jpg
+    references:
+    - source: soundcloud.com-pannulus-motive
+      quote: https://i1.sndcdn.com/avatars-000061459748-lpcuay-t500x500.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original artist or label edition
+        language: en
+  release date:
+  - value:
+      date: '2013-03-03'
+    references:
+    - source: soundcloud.com-pannulus-motive
+      quote: '2013-03-03T22:10:37Z'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits

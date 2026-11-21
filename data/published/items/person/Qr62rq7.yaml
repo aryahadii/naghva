@@ -10,6 +10,14 @@ statements:
       quote: Pouya Pour-Amin
       accessed: '2026-11-21'
       locator: Artist interview, biography or performance credits
+  - value:
+      text: پویا پورامین
+      language: fa
+    references:
+    - source: eternal-winter.github.io
+      quote: پویا پورامین
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
   member of:
   - value: Qbkmbta
     references:
@@ -17,3 +25,52 @@ statements:
       quote: Pouya Pour-Amin
       accessed: '2026-11-21'
       locator: Artist interview, biography or performance credits
+  birthplace:
+  - value: Qhm6fzw
+    references:
+    - &id001
+      source: safemuse.org-2025-06-20-pouya-pour-amin-an-artists-journey-from-fear-to-freedom
+      quote: Born in Tehran in 1983
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  birth date:
+  - value:
+      date: '1983'
+    references:
+    - *id001
+  profile link:
+  - value: https://soundcloud.com/pannulus
+    references:
+    - source: soundcloud.com-pannulus
+      quote: Stream Pannulus music | Listen to songs, albums, playlists for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/artist/17HJ39158ZPXfeLcQ9cN62
+    references:
+    - source: open.spotify.com-artist-17hj39158zpxfelcq9cn62
+      quote: Listen to Pouya Pour-Amin Songs | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/artist/2KA19OwaguI3OtGScH9hYu
+    references:
+    - source: open.spotify.com-artist-2ka19owagui3otgsch9hyu
+      quote: Listen to Pouya Pour Amin Songs | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/artist/pouya-pouramin/905693128
+    references:
+    - source: music.apple.com-us-artist-pouya-pouramin-905693128
+      quote: ‎Pouya Pouramin - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  image:
+  - value: https://i1.sndcdn.com/avatars-000061459748-lpcuay-t500x500.jpg
+    references:
+    - source: soundcloud.com-pannulus
+      quote: https://i1.sndcdn.com/avatars-000061459748-lpcuay-t500x500.jpg
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: Pouya Pour-Amin, Pannulus on SoundCloud
+        language: en

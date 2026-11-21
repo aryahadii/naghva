@@ -1,0 +1,105 @@
+id: Qqhdynn
+type: release
+statements:
+  name:
+  - value:
+      text: Mano Donya
+      language: en
+    references:
+    - source: music.apple.com-us-album-mano-donya-feat-rana-mansour-single-1035287387
+      quote: Mano Donya (feat. Rana Mansour)
+      accessed: '2026-11-21'
+      locator: Track 1
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-mano-donya-feat-rana-mansour-single-1035287387
+      quote: Mano Donya (feat. Rana Mansour)
+      accessed: '2026-11-21'
+      locator: Track 1
+  performer:
+  - value: Qzjh64j
+    references:
+    - source: music.apple.com-us-album-mano-donya-feat-rana-mansour-single-1035287387
+      quote: Karmandan
+      accessed: '2026-11-21'
+      locator: Billed project
+  - value: Qby3whb
+    references:
+    - source: music.apple.com-us-album-mano-donya-feat-rana-mansour-single-1035287387
+      quote: Mano Donya (feat. Rana Mansour)
+      accessed: '2026-11-21'
+      locator: Track 1
+  listen link:
+  - value: https://music.apple.com/us/song/mano-donya-feat-rana-mansour/1035287391
+    references:
+    - source: music.apple.com-us-album-mano-donya-feat-rana-mansour-single-1035287387
+      quote: https://music.apple.com/us/song/mano-donya-feat-rana-mansour/1035287391
+      accessed: '2026-11-21'
+      locator: Exact track link
+  - value: https://open.spotify.com/track/6MsMKCHL9koos7UF2ccX66
+    references:
+    - source: open.spotify.com-embed-album-4rzivzmdsmdhaiwvxdlejt
+      quote: spotify:track:6MsMKCHL9koos7UF2ccX66
+      accessed: '2026-11-21'
+      locator: Exact Spotify track URI
+  - value: https://music.apple.com/us/album/mano-donya-feat-rana-mansour-single/1035287387
+    references:
+    - source: music.apple.com-us-album-mano-donya-feat-rana-mansour-single-1035287387
+      quote: Mano Donya (feat. Rana Mansour) - Single
+      accessed: '2026-11-21'
+      locator: Album title
+  - value: https://open.spotify.com/album/4rzIVzmDSMdhaIwvxDlEjt
+    references:
+    - source: open.spotify.com-embed-album-4rzivzmdsmdhaiwvxdlejt
+      quote: Mano Donya (feat. Rana Mansour)
+      accessed: '2026-11-21'
+      locator: Single title
+  - value: https://soundcloud.com/karmandan/mano-donya-ft-rana-mansour
+    references:
+    - source: soundcloud.com-karmandan-mano-donya-ft-rana-mansour
+      quote: Mano Donya (Ft Rana Mansour)
+      accessed: '2026-11-21'
+      locator: Artist upload
+  - value: https://www.youtube.com/watch?v=5biFFaGr9Yk
+    references:
+    - source: www.youtube.com-watch-v-5biffagr9yk
+      quote: '''Mano Donya'' Karmandan | Erwin Khachikian | کارمندان | اروین خاچیکیان I رنا منصور'
+      accessed: '2026-11-21'
+      locator: Original artist-channel video
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music20/v4/b9/5c/29/b95c2961-5f20-1716-72fc-967bb963e66a/mzm.ofzuotdh.jpg/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Digital issue via Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-mano-donya-feat-rana-mansour-single-1035287387
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music20/v4/b9/5c/29/b95c2961-5f20-1716-72fc-967bb963e66a/mzm.ofzuotdh.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Original digital artwork
+  release date:
+  - value:
+      date: '2014-11-12'
+    references:
+    - source: music.apple.com-us-album-mano-donya-feat-rana-mansour-single-1035287387
+      quote: '2014-11-12'
+      accessed: '2026-11-21'
+      locator: Digital issue date
+  contributor:
+  - value: Qy88zyz
+    qualifiers:
+      role: composer
+    references:
+    - source: www.youtube.com-watch-v-5biffagr9yk
+      quote: Music by Erwin Khachikian
+      accessed: '2026-11-21'
+      locator: Artist-published credits
+  - value: Qngnwhs
+    qualifiers:
+      role: lyricist
+    references:
+    - source: www.youtube.com-watch-v-5biffagr9yk
+      quote: Lyrics by Omid Oliae
+      accessed: '2026-11-21'
+      locator: Artist-published credits

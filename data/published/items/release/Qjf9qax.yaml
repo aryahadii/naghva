@@ -23,6 +23,12 @@ statements:
       quote: 'Carte Blanche: Until We Meet Again'
       accessed: 2026-11-21
       locator: Release title
+  - value: https://hideoutrecordsat.bandcamp.com/album/carte-blanche-until-we-meet-again
+    references:
+    - source: hideoutrecordsat.bandcamp.com-album-carte-blanche-until-we-meet-again
+      quote: 'Carte Blanche: Until We Meet Again'
+      accessed: 2026-11-21
+      locator: Album title
   release date:
   - value:
       date: '2025-11-28'
@@ -38,6 +44,12 @@ statements:
       quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/79/fa/ab/79faab53-8078-2f4a-69b6-e791098995e9/0788792256170.png/1200x630bb.jpg
       accessed: 2026-11-21
       locator: Edition artwork
+  - value: https://f4.bcbits.com/img/a1586604228_5.jpg
+    references:
+    - source: hideoutrecordsat.bandcamp.com-album-carte-blanche-until-we-meet-again
+      quote: https://f4.bcbits.com/img/a1586604228_5.jpg
+      accessed: 2026-11-21
+      locator: Release artwork
   release type:
   - value: album
     references:
@@ -58,3 +70,9 @@ statements:
       quote: Lorenz Widauer
       accessed: 2026-11-21
       locator: Edition artist billing
+  - value: Qyy9hf9
+    references:
+    - source: www.monamatbouriahi.com-discography
+      quote: 'Carte Blanche: Until We Meet Again – Avin Ahmadi & Lorenz Widauer'
+      accessed: 2026-11-21
+      locator: Artist-selected discography

@@ -1,0 +1,74 @@
+id: Qx878se
+type: release
+statements:
+  name:
+  - value:
+      text: Pelastiki
+      language: en
+    references:
+    - source: music.apple.com-us-album-karmandan-401059007
+      quote: Pelastiki
+      accessed: '2026-11-21'
+      locator: Track 8
+  performer:
+  - value: Qzjh64j
+    references:
+    - source: music.apple.com-us-album-karmandan-401059007
+      quote: Karmandan
+      accessed: '2026-11-21'
+      locator: Billed project
+  listen link:
+  - value: https://music.apple.com/us/song/pelastiki/401059039
+    references:
+    - source: music.apple.com-us-album-karmandan-401059007
+      quote: https://music.apple.com/us/song/pelastiki/401059039
+      accessed: '2026-11-21'
+      locator: Exact track link
+  - value: https://open.spotify.com/track/1cJx2XGDwgKkWfC5V9q95p
+    references:
+    - source: open.spotify.com-embed-album-4ndlxlknowugzlhbu55xzg
+      quote: spotify:track:1cJx2XGDwgKkWfC5V9q95p
+      accessed: '2026-11-21'
+      locator: Exact Spotify track URI
+  - value: https://www.youtube.com/watch?v=OE8evzgTF08
+    references:
+    - source: www.youtube.com-watch-v-oe8evzgtf08
+      quote: Karmandan - 'Pelastiki'
+      accessed: '2026-11-21'
+      locator: Original artist-channel video
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music/15/77/a0/mzi.wbcvfaqm.jpg/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Digital issue via Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-karmandan-401059007
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music/15/77/a0/mzi.wbcvfaqm.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Original digital artwork
+  release date:
+  - value:
+      date: '2010-11-01'
+    references:
+    - source: music.apple.com-us-album-karmandan-401059007
+      quote: '2010-11-01'
+      accessed: '2026-11-21'
+      locator: Digital issue date
+  contributor:
+  - value: Qy88zyz
+    qualifiers:
+      role: producer
+    references:
+    - source: www.youtube.com-watch-v-oe8evzgtf08
+      quote: Produced by Erwin Khachikian
+      accessed: '2026-11-21'
+      locator: Artist-published credits
+  - value: Qngnwhs
+    qualifiers:
+      role: lyricist
+    references:
+    - source: www.youtube.com-watch-v-oe8evzgtf08
+      quote: Lyrics by Omid Oliae
+      accessed: '2026-11-21'
+      locator: Artist-published credits

@@ -28,6 +28,36 @@ statements:
       quote: Ajam
       locator: Original release, musician interview or performance credits
       accessed: '2026-11-21'
+  - value: Qy69pg7
+    references:
+    - source: ajammusic.com-ajam-discography-rag-o-risheh-roots-and-veins
+      quote: Kaveh Sarvarian (Ney and Tombak)
+      locator: Band’s published track credits and original album notes
+      accessed: '2026-11-21'
+    qualifiers:
+      role:
+      - ney
+      - tombak
+  - value: Q5n9cng
+    references:
+    - source: ajammusic.com-ajam-discography-rag-o-risheh-roots-and-veins
+      quote: Soroush Omoumi (Drums and Percussions)
+      locator: Band’s published track credits and original album notes
+      accessed: '2026-11-21'
+    qualifiers:
+      role:
+      - drums
+      - percussion
+  - value: Qqwhjzd
+    references:
+    - source: ajammusic.com-ajam-discography-rag-o-risheh-roots-and-veins
+      quote: Arsam Babaei (Kamalin, Kamancheh, and Percussions)
+      locator: Band’s published track credits and original album notes
+      accessed: '2026-11-21'
+    qualifiers:
+      role:
+      - kamancheh
+      - percussion
   release date:
   - value:
       date: '2016-03-13'
@@ -61,3 +91,60 @@ statements:
       quote: Rag O Risheh
       locator: Original release, musician interview or performance credits
       accessed: '2026-11-21'
+  - value: https://open.spotify.com/album/3WecO6eefiedTH4auu0IJ2
+    references:
+    - source: open.spotify.com-embed-album-3weco6eefiedth4auu0ij2
+      quote: Rag O Risheh
+      locator: Original group issue, artist identity or exact streaming edition
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/album/0DCdUL9mfTY06F0GjNUq5U
+    references:
+    - source: open.spotify.com-embed-album-0dcdul9mfty06f0gjnuq5u
+      quote: Rag o Risheh
+      locator: Original group issue, artist identity or exact streaming edition
+      accessed: '2026-11-21'
+  - value: https://music.apple.com/us/album/rag-o-risheh/1727012213
+    references:
+    - source: music.apple.com-us-album-1727012213
+      quote: Rag o Risheh
+      locator: Original group issue, artist identity or exact streaming edition
+      accessed: '2026-11-21'
+  contributor:
+  - value: Q97wcx7
+    references:
+    - source: ajammusic.com-ajam-discography-rag-o-risheh-roots-and-veins
+      quote: Nariman Akrami and Amin Ajami executed the production
+      locator: Band’s published track credits and original album notes
+      accessed: '2026-11-21'
+    - source: ajammusic.com-ajam-discography-rag-o-risheh-roots-and-veins
+      quote: The mixing of the album was carried out Nariman Akrami
+      locator: Band’s published track credits and original album notes
+      accessed: '2026-11-21'
+    qualifiers:
+      role:
+      - producer
+      - mixing engineer
+  - value: Qvewqms
+    references:
+    - source: ajammusic.com-ajam-discography-rag-o-risheh-roots-and-veins
+      quote: Nariman Akrami and Amin Ajami executed the production
+      locator: Band’s published track credits and original album notes
+      accessed: '2026-11-21'
+    qualifiers:
+      role: producer
+  - value: Q2rftvy
+    references:
+    - source: ajammusic.com-ajam-discography-rag-o-risheh-roots-and-veins
+      quote: mixing by Tom Sullivan
+      locator: Band’s published track credits and original album notes
+      accessed: '2026-11-21'
+    qualifiers:
+      role: mixing engineer
+  - value: Qb2nxdc
+    references:
+    - source: ajammusic.com-ajam-discography-rag-o-risheh-roots-and-veins
+      quote: the seasoned engineer Ramin Mazaheri
+      locator: Band’s published track credits and original album notes
+      accessed: '2026-11-21'
+    qualifiers:
+      role: mastering engineer

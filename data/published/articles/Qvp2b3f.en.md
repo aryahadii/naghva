@@ -135,13 +135,23 @@ references:
     quote: سارا فطرس(دف، بندیر)
     locator: Musician interview, original recording credits or presenter programme
     accessed: '2026-11-21'
+  concertfilm:
+    source: www.youtube.com-watchv-_pt5qy6555a
+    quote: recorded in Belfast City 2024 at The Duncairn Arts Centre
+    locator: Original filmmaker or musician, item-specific title, date and performers
+    accessed: '2026-11-21'
+  concertissue:
+    source: www.youtube.com-watchv-_pt5qy6555a
+    quote: '2025-05-13T16:59:38-07:00'
+    locator: Original filmmaker or musician, item-specific title, date and performers
+    accessed: '2026-11-21'
 ---
 
 Sara Fotros plays the daf, a large frame drum. She was seventeen or eighteen when she took up the tombak. A year later, hearing a daf in her father’s car drew her to the instrument: one drum could produce both the deep and the sharp sounds that had caught her ear. The rhythms of Kurdish dance became a point of departure for her playing.[^start][^tomb][^first][^sound][^kurd]
 
 Fotros studied electrical engineering in Iran and began teaching daf in Isfahan in 2000. In 2008 she won the solo daf competition at the Nava-ye Rahmat Festival in Sanandaj. She went to Britain in 2011 intending to study sound engineering, then chose a college course in music and music technology. She settled in London.[^study][^isf][^award][^move][^tech][^city]
 
-With the band Ajam, Fotros helped arrange the percussion. She played daf for the band’s BBC World Service session and played daf, tombak and dayereh on its 2016 album *Rag o Risheh*. On “Tayyebeh Jan,” the musicians worked across two places: members of the Mohammadi family recorded in Ghaemshahr, while Fotros and other members of Ajam helped shape the track in London.[^group][^bbc][^iran][^credit][^field][^london][^tay]
+With the band Ajam, Fotros helped arrange the percussion. She played daf for the band’s BBC World Service session and played daf, tombak and dayereh on its 2016 album *Rag o Risheh*. On “Tayyebeh Jan,” the musicians worked across two places: members of the Mohammadi family recorded in Ghaemshahr, while Fotros and other members of Ajam helped shape the track in London.[^group][^bbc][^iran][^credit][^field][^london][^tay] In Belfast in 2024 she joined musicians playing Irish, Kurdish and Persian music at the Duncairn Arts Centre. Beyond Skin issued the concert film the following May.[^concertfilm][^concertissue]
 
 Fotros and Zanyar Hesami brought their students together in the [Zagros Daf Ensemble](/en/zagros-daf-ensemble-h6s/), writing rhythmic pieces for the group to perform. Fotros also founded Daf Zan with Iranian and Turkish women percussionists. In a London session filmed in May 2026, she led Daf Zan as Anna Ruya Ayyildiz led the dancers in whirling.[^formed][^students][^dz][^dance][^whirl][^when]
 

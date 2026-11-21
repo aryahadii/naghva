@@ -1,0 +1,13 @@
+---
+url: https://www.youtube.com/watch?v=HmIFJXLnO1w
+title: عجم و محمد اطهری - حرفهای مردم (کالسکه) | Ajam ft Mohammad Athari - Harfhaye Mardom
+status: processed
+language: en
+tier: own
+about:
+- Sara Fotros
+---
+
+Original band, named recording or film credit, read 2026-11-21.
+
+> 2025-10-15T11:30:06-07:00

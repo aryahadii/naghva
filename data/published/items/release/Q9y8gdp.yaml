@@ -1,0 +1,62 @@
+id: Q9y8gdp
+type: release
+statements:
+  name:
+  - value:
+      text: Yeraz (Live at the Puppet Theater)
+      language: en
+    references:
+    - source: www.youtube.com-watch-v-qchul9dfxgs
+      quote: '''Yeraz'' KARMANDAN and Guest Vocalist Mane Tonoyan'
+      accessed: '2026-11-21'
+      locator: Original artist-channel video
+  listen link:
+  - value: https://www.youtube.com/watch?v=qchul9dFxgs
+    references:
+    - source: www.youtube.com-watch-v-qchul9dfxgs
+      quote: '''Yeraz'' KARMANDAN and Guest Vocalist Mane Tonoyan'
+      accessed: '2026-11-21'
+      locator: Original artist-channel video
+  performer:
+  - value: Qzjh64j
+    references:
+    - source: www.youtube.com-watch-v-qchul9dfxgs
+      quote: '''Yeraz'' KARMANDAN and Guest Vocalist Mane Tonoyan'
+      accessed: '2026-11-21'
+      locator: Original artist-channel video
+  - value: Qd9b29z
+    qualifiers:
+      role: vocals
+    references:
+    - source: www.youtube.com-watch-v-qchul9dfxgs
+      quote: '''Yeraz'' KARMANDAN and Guest Vocalist Mane Tonoyan'
+      accessed: '2026-11-21'
+      locator: Original artist-channel video
+  contributor:
+  - value: Qy88zyz
+    qualifiers:
+      role: arranger
+    references:
+    - source: www.youtube.com-watch-v-qchul9dfxgs
+      quote: Arranged by Erwin Khachikian
+      accessed: '2026-11-21'
+      locator: Artist-published credits
+  release date:
+  - value:
+      date: '2017-09-23'
+    references:
+    - source: www.youtube.com-watch-v-qchul9dfxgs
+      quote: '2017-09-23'
+      accessed: '2026-11-21'
+      locator: Artist video publication date
+  cover art:
+  - value: https://i.ytimg.com/vi/qchul9dFxgs/maxresdefault.jpg
+    qualifiers:
+      credit:
+        text: Karmandan on YouTube
+        language: en
+    references:
+    - source: www.youtube.com-watch-v-qchul9dfxgs
+      quote: https://i.ytimg.com/vi/qchul9dFxgs/maxresdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video artwork

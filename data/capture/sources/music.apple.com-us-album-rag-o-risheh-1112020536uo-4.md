@@ -19,3 +19,67 @@ Original release, musician interview or performance credits, read 2026-11-21.
 Original release, musician interview or performance credits, read 2026-11-21.
 
 > Tayyebeh Jan
+
+Original group issue, artist identity or exact streaming edition, read 2026-11-21.
+
+> 2016-03-13
+
+Original group issue, artist identity or exact streaming edition, read 2026-11-21.
+
+> Ajam
+
+Original group issue, artist identity or exact streaming edition, read 2026-11-21.
+
+> Pishdaramade Pahlevani
+
+Original group issue, artist identity or exact streaming edition, read 2026-11-21.
+
+> Bahre Taveele Ajami
+
+Original group issue, artist identity or exact streaming edition, read 2026-11-21.
+
+> Sanam Bia
+
+Original group issue, artist identity or exact streaming edition, read 2026-11-21.
+
+> Zarbye Simorgh
+
+Original group issue, artist identity or exact streaming edition, read 2026-11-21.
+
+> Gole Iran
+
+Original group issue, artist identity or exact streaming edition, read 2026-11-21.
+
+> Pishdaramade Tamana
+
+Original group issue, artist identity or exact streaming edition, read 2026-11-21.
+
+> Madarane Sarzamin
+
+Original group issue, artist identity or exact streaming edition, read 2026-11-21.
+
+> Ajam Balasi
+
+Original group issue, artist identity or exact streaming edition, read 2026-11-21.
+
+> Eghvagar
+
+Original group issue, artist identity or exact streaming edition, read 2026-11-21.
+
+> Zarbye Dehkordi
+
+Original group issue, artist identity or exact streaming edition, read 2026-11-21.
+
+> Kordi Khaneh
+
+Original group issue, artist identity or exact streaming edition, read 2026-11-21.
+
+> Gheyrat
+
+Original group issue, artist identity or exact streaming edition, read 2026-11-21.
+
+> Kharabat
+
+Original group issue, artist identity or exact streaming edition, read 2026-11-21.
+
+> Zoghalchi

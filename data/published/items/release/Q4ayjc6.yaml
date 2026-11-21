@@ -1,0 +1,51 @@
+id: Q4ayjc6
+type: release
+statements:
+  name:
+  - value:
+      text: Untitled
+      language: en
+    references:
+    - source: zabtesote.bandcamp.com-track-untitled
+      quote: Untitled | Pouya Pour-Amin | Zabte Sote
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qr62rq7
+    references:
+    - source: zabtesote.bandcamp.com-track-untitled
+      quote: Untitled | Pouya Pour-Amin | Zabte Sote
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://zabtesote.bandcamp.com/track/untitled
+    references:
+    - source: zabtesote.bandcamp.com-track-untitled
+      quote: Untitled | Pouya Pour-Amin | Zabte Sote
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1728759708
+    references:
+    - source: music.apple.com-us-song-1728759708
+      quote: ‎Untitled - Song with Lyrics by Pouya Pouramin - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a0511040605_10.jpg
+    references:
+    - source: zabtesote.bandcamp.com-track-untitled
+      quote: https://f4.bcbits.com/img/a0511040605_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original artist or label edition
+        language: en
+  release date:
+  - value:
+      date: '2018-08-17'
+    references:
+    - source: zabtesote.bandcamp.com-track-untitled
+      quote: released August 17, 2018
+      accessed: '2026-11-21'
+      locator: Published date
