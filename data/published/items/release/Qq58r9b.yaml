@@ -1,0 +1,68 @@
+id: Qq58r9b
+type: release
+statements:
+  name:
+  - value:
+      text: Isthmus
+      language: en
+    references:
+    - source: 9tantiope.bandcamp.com-album-isthmus
+      quote: Isthmus
+      accessed: '2026-11-21'
+  performer:
+  - value: Qyv32ms
+    references:
+    - source: 9tantiope.bandcamp.com-album-isthmus
+      quote: 9T Antiope
+      accessed: '2026-11-21'
+  - value: Qz5swxp
+    qualifiers:
+      role:
+      - vocals
+    references:
+    - source: 9tantiope.bandcamp.com-album-isthmus
+      quote: 'Vocals & Lyrics: Sara Bigdeli Shamloo'
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2017-03-03'
+    references:
+    - source: 9tantiope.bandcamp.com-album-isthmus
+      quote: 03 Mar 2017 00:00:00 GMT
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://9tantiope.bandcamp.com/album/isthmus
+    references:
+    - source: 9tantiope.bandcamp.com-album-isthmus
+      quote: Isthmus
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://f4.bcbits.com/img/a0330926641_10.jpg
+    references:
+    - source: 9tantiope.bandcamp.com-album-isthmus
+      quote: https://f4.bcbits.com/img/a0330926641_10.jpg
+      accessed: '2026-11-21'
+    - source: 9tantiope.bandcamp.com-album-isthmus
+      quote: Artwork by Jonathan Smith
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Jonathan Smith
+        language: en
+  contributor:
+  - value: Qz5swxp
+    qualifiers:
+      role:
+      - lyricist
+    references:
+    - source: 9tantiope.bandcamp.com-album-isthmus
+      quote: 'Vocals & Lyrics: Sara Bigdeli Shamloo'
+      accessed: '2026-11-21'
+  - value: Qgncp5r
+    qualifiers:
+      role:
+      - composer
+    references:
+    - source: 9tantiope.bandcamp.com-album-isthmus
+      quote: 'Composer: Nima Aghiani'
+      accessed: '2026-11-21'
