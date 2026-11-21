@@ -209,37 +209,9 @@ references:
     source: soundcloud.com-jillizwillizofficial-profile
     quote: '2025-11-02T16:48:50Z'
     accessed: '2026-11-09'
-  iran-khube-date:
-    source: music.apple.com-track-iran
-    quote: '"datePublished":"2025-12-02"'
-    accessed: '2026-11-09'
-  taarif-date:
-    source: soundcloud.com-jillizwillizofficial-profile
-    quote: '2026-08-18T12:03:05Z'
-    accessed: '2026-11-09'
-  ou-date:
-    source: music.apple.com-us-album-ou-biayad-single-6825250259
-    quote: '"datePublished":"2026-10-26"'
-    accessed: '2026-11-09'
   jaye-credits:
     source: soundcloud.com-jillizwillizofficial-jaye-to-mimiram-2a8cd2921908
     quote: 'شعر، وکال و گیتار الکتریک: آرین شریعت گیتار بیس: نوید غالب ترومبون: سپهر عباسی ترومپت: ماهان محمدی درامز: صالح خان محمدی تنظیم: جیلیز ویلیز'
-    accessed: '2026-11-09'
-  ou-credits:
-    source: soundcloud.com-jillizwillizofficial-ou-biayad
-    quote: 'شعر، وکال، گیتار الکتریک: آرین شریعت'
-    accessed: '2026-11-09'
-  ou-bass:
-    source: soundcloud.com-jillizwillizofficial-ou-biayad
-    quote: 'گیتار بیس: نوید غالب'
-    accessed: '2026-11-09'
-  ou-trumpet:
-    source: soundcloud.com-jillizwillizofficial-ou-biayad
-    quote: 'ترومپت: ماهان محمدی'
-    accessed: '2026-11-09'
-  ou-drums:
-    source: soundcloud.com-jillizwillizofficial-ou-biayad
-    quote: 'درامز: صالح خان محمدی'
     accessed: '2026-11-09'
   no-singing:
     source: shows.acast.com-cozornershow-episodes-corner-43-mohammad-arian-shariat-0fcd4c30067f
@@ -308,14 +280,6 @@ references:
     source: soundcloud.com-danakol-oddi
     quote: Hip-hop & Rap
     accessed: '2026-11-03'
-  dedication-fa:
-    source: soundcloud.com-arian-shariat-nemidoonan-engar-to-rafti-for-6a5c7e060cc6
-    quote: «به یاد سروش خزایی؛ جانِ عزیزی که جنگ، در ۱۱ اسفند ۱۴۰۴، از ما گرفت.»
-    accessed: '2026-11-03'
-  recent-date:
-    source: music.apple.com-us-album-nemidoonan-engar-to-rafti-single-6815705753-9d2c2639e98a
-    quote: September 25, 2026
-    accessed: '2026-11-03'
   recent:
     source: soundcloud.com-arian-shariat-nemidoonan-engar-to-rafti-for-6a5c7e060cc6
     quote: 'Lyrics & Vocals: Arian Shariat
@@ -328,17 +292,17 @@ references:
 
       Production: Arian Shariat, Mohammad Shariat'
     accessed: '2026-11-03'
-  baghale:
-    source: soundcloud.com-arian-shariat-baghale-man-ft-taha-mazaheri-c245f5dde144
-    quote: "Baghale Man (Rian Feat. Taha Mazaheri)\n\nProducer and Songwriter  : Taha Mazaheri \nVocals : Arian Shariat \n\nBacking Vocals : Golsa"
-    accessed: '2026-11-03'
-  baghale-date:
-    source: music.apple.com-us-album-baghale-man-single-6820913170-bcb65d002ad6
-    quote: October 11, 2026
+  edition-recent-date:
+    source: music.apple.com-us-album-nemidoonan-engar-to-rafti-single-6815705753-9d2c2639e98a
+    quote: September 25, 2026
+    accessed: '2026-11-21'
+  beginnings:
+    source: riansounds.com-65fe56a4189a
+    quote: His professional music journey began with Jetpack in 2017, and has since expanded into the solo project Rian, the Persian alternative/fusion band Jilliz Williz, and different collaborations as a songwriter and producer.
     accessed: '2026-11-03'
 ---
 
-«آرین» نام پروژهٔ شخصی آرین شریعت (زادهٔ ۱۳۷۷ در تهران)، خواننده، ترانه‌سرا و تهیه‌کنندهٔ موسیقی است. او کارش را با خوانندگی و ترانه‌نویسی در گروه [جت‌پک](/fa/jetpack-py9/)، در کنار برادر بزرگ‌ترش محمد، آغاز کرد و همراه سپهر عباسی، نوازندهٔ ترومبون، گروه جیلیز ویلیز را بنیان گذاشت. در نخستین آلبومکش، [«پاک‌کن»](#pakkon-ceg)، که اسفند ۱۴۰۲ منتشر شد، نوازندگان هر دو گروه در ترانه‌هایی با مایه‌های جز و هیپ‌هاپ همراهی‌اش کردند.[^identity][^persian-years][^outside][^jilliz][^debut][^pakkon][^pakkon-circle]
+«آرین» نام پروژهٔ شخصی آرین شریعت (زادهٔ ۱۳۷۷ در تهران)، خواننده، ترانه‌سرا و تهیه‌کنندهٔ موسیقی است. او کارش را با خوانندگی و ترانه‌نویسی در گروه [جت‌پک](/fa/jetpack-py9/)، در کنار برادر بزرگ‌ترش محمد، آغاز کرد و همراه سپهر عباسی، نوازندهٔ ترومبون، گروه [جیلیز ویلیز](/fa/jilliz-williz-6an/) را بنیان گذاشت. در نخستین آلبومکش، [«پاک‌کن»](#pakkon-ceg)، که اسفند ۱۴۰۲ منتشر شد، برادرش و عباسی در ترانه‌هایی با مایه‌های جز و هیپ‌هاپ همراهی‌اش کردند.[^identity][^persian-years][^beginnings][^outside][^jilliz][^debut][^pakkon][^pakkon-circle][^credits][^piano][^sound]
 
 ## کودکی و جوانی
 
@@ -348,22 +312,22 @@ references:
 
 ## جت‌پک و نخستین آهنگ‌ها
 
-جت‌پک، که سال ۱۳۹۶ شکل گرفت، نخستین کار مشترک دو برادر بود. آرین نخستین ترانهٔ انگلیسی‌اش را برای این گروه در تاکسی خطی میدان صنعت به رسالت نوشت، و گروه میدانی برای ترانه‌نویسی‌اش شد.[^persian-years][^brothers][^taxi][^outlet] کم‌کم به پروژه‌ای از آنِ خود نیاز پیدا کرد و وقتی ایده‌هایش در ساخت و تولید دیگر در فضای گروه جا نمی‌گرفت، آن‌ها را با نام «آرین» پی گرفت.[^own-project][^outside][^solo] نخستین قطعه‌های شخصی‌اش اوایل ۲۰۲۰ در ساندکلاد منتشر شد: ابتدا [«Be my love (Gorillaz LoFi Remix)»](#be-my-love-gorillaz-lofi-remix-dyb) در بهمن ۱۳۹۸ و کمی بعد در همان ماه [«Free churro»](#free-churro-xyz) و [«Humans are social animals»](#humans-are-social-animals-yr6).[^sc-gorillaz][^sc-churro][^sc-humans]
+جت‌پک، که سال ۱۳۹۶ شکل گرفت، نخستین کار مشترک دو برادر بود. آرین نخستین ترانهٔ انگلیسی‌اش را برای این گروه در تاکسی خطی میدان صنعت به رسالت نوشت، و گروه میدانی برای ترانه‌نویسی‌اش شد.[^persian-years][^beginnings][^brothers][^taxi][^outlet] کم‌کم به پروژه‌ای از آنِ خود نیاز پیدا کرد و وقتی ایده‌هایش در ساخت و تولید دیگر در فضای گروه جا نمی‌گرفت، آن‌ها را با نام «آرین» پی گرفت.[^own-project][^outside][^solo] نخستین قطعه‌های شخصی‌اش اوایل ۲۰۲۰ در ساندکلاد منتشر شد: ابتدا [«Be my love (Gorillaz LoFi Remix)»](#be-my-love-gorillaz-lofi-remix-dyb) در بهمن ۱۳۹۸ و کمی بعد در همان ماه [«Free churro»](#free-churro-xyz) و [«Humans are social animals»](#humans-are-social-animals-yr6).[^sc-gorillaz][^sc-churro][^sc-humans]
 
 به گفتهٔ خودش، در ماه‌های نخست همه‌گیری کرونا افسردگی و اضطراب شدیدی را از سر گذراند و ابتدا وضعیتش را اختلال دوقطبی تشخیص دادند؛ تشخیصی که بعدها نادرست از آب درآمد. [«Bipolar»](#bipolar-c8k)، که آذر ۱۳۹۹ منتشر شد، در همین دوره شکل گرفت؛ او این ترانه را خداحافظی با خودِ پیش از بحرانش خوانده است.[^bipolar-story][^bipolar-farewell][^bipolar-date] پس از آن [«Barf»](#barf-kv4) در خرداد ۱۴۰۰ بیرون آمد و در شهریور همان سال [بازخوانی «Miracles»](#miracles-the-d-cover-ft-farshid-khalili-far-23z) از گروه The Dø را با فرشید خلیلی‌فر در ساندکلاد گذاشت.[^barf][^miracles][^miracles-title] بعضی از این تجربه‌ها خانگی بود؛ از جمله [«On A Fair Trade»](#on-a-fair-trade-vbd) که آن را با گاراژبند روی آیفون ضبط و در دی ۱۴۰۱ منتشر کرد.[^experiment][^fair-trade-date]
 
 ## پاک‌کن
 
-فروردین ۱۴۰۲ [«Serat»](#serat-ft-sharyar-cqz) را با شهریار، خواننده، و تیر همان سال [«Almost»](#almost-ft-mahan-mohammadi-nnv) را با ماهان محمدی، نوازندهٔ ترومپت، منتشر کرد.[^serat][^serat-title][^almost] آرین در تیر ۱۴۰۲ تک‌آهنگ [«نقطه‌ی سیاه»](#noghteye-siah-62w) را بیرون داد. این قطعه بعدتر در «پاک‌کن» جا گرفت؛ آلبومکی چهارقطعه‌ای که نشر ساخت ایران اسفند همان سال منتشر کرد. آرین ترانه‌ها را خودش خواند و تهیه کرد و نوازندگان هر دو گروهش، از جمله عباسی با ترومبون و ماهان محمدی با ترومپت، همراهی‌اش کردند؛ از محمد هم خواست پیانو بزند.[^first-single][^pakkon][^pakkon-tracks][^pakkon-circle][^credits][^piano] علی عشقی در نقدی برای بیهایپ، در این اثر چرخشی از الکتروپاپ و فانکِ جت‌پک به سوی جزهاپِ لوفای شنید که با سازهای بادی پررنگ و تک‌نوازی‌های میکروتونال ترومپت همراه شده است.[^sound]
+فروردین ۱۴۰۲ [«Serat»](#serat-ft-sharyar-cqz) را با شهریار، خواننده، و تیر همان سال [«Almost»](#almost-ft-mahan-mohammadi-nnv) را با ماهان محمدی، نوازندهٔ ترومپت، منتشر کرد.[^serat][^serat-title][^almost] آرین در تیر ۱۴۰۲ تک‌آهنگ [«نقطه‌ی سیاه»](#noghteye-siah-62w) را بیرون داد. این قطعه بعدتر در «پاک‌کن» جا گرفت؛ آلبومکی چهارقطعه‌ای که نشر ساخت ایران اسفند همان سال منتشر کرد. آرین ترانه‌ها را خودش خواند و تهیه کرد و عباسی با ترومبون و ماهان محمدی با ترومپت همراهی‌اش کردند؛ از محمد هم خواست پیانو بزند.[^first-single][^pakkon][^pakkon-tracks][^pakkon-circle][^credits][^piano] علی عشقی در نقدی برای بیهایپ، در این اثر چرخشی از الکتروپاپ و فانکِ جت‌پک به سوی جزهاپِ لوفای شنید که با سازهای بادی پررنگ و تک‌نوازی‌های میکروتونال ترومپت همراه شده است.[^sound]
 
 «نقطه‌ی سیاه» و ترانهٔ «پاک‌کن» از دو زاویهٔ متفاوت به جدایی نگاه می‌کنند. برگزارکنندگان اجرای تصویری او در «در ما نگاه، در ما شنو»، «نقطه‌ی سیاه» را ترانه‌ای دربارهٔ ترس از دست دادن معشوق دانسته‌اند: راوی حاضر است به اندازهٔ نقطه‌ای سیاه کوچک شود تا کنار کسی بماند که دوستش دارد. در «پاک‌کن» این دل‌بستگی جایش را به رها کردن و دوست داشتنِ خود می‌دهد.[^black-spot-theme][^eraser-theme] او در مارس ۲۰۲۵ این دو قطعه را همراه «Bipolar» در استودیو درمانگاه اجرا کرد.[^darmanegah-songs][^darmanegah-date]
 
 ## جیلیز ویلیز
 
-آرین در سال ۲۰۲۵ گروه جیلیز ویلیز را با سپهر عباسی بنیان گذاشت. در این گروه می‌خواند و گیتار می‌زند؛ اعضا ترانه‌ها را با هم تنظیم می‌کنند و بخش بزرگی از موسیقی‌شان از دل بداهه‌نوازی برمی‌آید.[^jilliz-2025][^jilliz][^improv] انتشار تک‌آهنگ‌های گروه با [«جای تو میمیرم»](#jaye-to-mimiram-nwr) در آبان ۱۴۰۴ و [«ایران خوبه»](#iran-khube-y2t) در آذر همان سال آغاز شد و با [«تعریف کن»](#taarif-kon-9ym) در مرداد ۱۴۰۵ و [«او بیاید»](#ou-biayad-97x) در آبان همان سال ادامه یافت. ترانه‌ها را آرین می‌نویسد و می‌خواند؛ نوید غالب گیتار بیس، عباسی ترومبون، محمدی ترومپت و صالح خان‌محمدی درامز می‌نوازند.[^jaye-date][^iran-khube-date][^taarif-date][^ou-date][^jaye-credits][^ou-credits][^ou-bass][^ou-trumpet][^ou-drums]
+آرین در سال ۲۰۲۵ گروه جیلیز ویلیز را با سپهر عباسی بنیان گذاشت. در این گروه می‌خواند و گیتار می‌زند؛ اعضا ترانه‌ها را با هم تنظیم می‌کنند و بخش بزرگی از موسیقی‌شان از دل بداهه‌نوازی برمی‌آید.[^jilliz-2025][^jilliz][^improv] در تک‌آهنگ [«جای تو میمیرم»](#jaye-to-mimiram-nwr) که در آبان ۱۴۰۴ منتشر شد، شریعت ترانهٔ خودش را خواند و همراه با سازهای بادی، بیس و درامز گیتار الکتریک زد.[^jaye-credits][^jaye-date]
 
 ## سال‌های بعد
 
 حدود سال ۱۴۰۲ عارضه‌ای عصبی گلویش را دچار دردی مدام کرد؛ هنگام خواندن صدایش می‌شکست و مدتی نتوانست بخواند. این اتفاق وادارش کرد به هویتی که یکسره بر خوانندگی بنا کرده بود دوباره فکر کند، و به گفتهٔ خودش کمک کرد در موسیقی و تهیه‌کنندگی پخته‌تر شود.[^no-singing][^voice-change] با [مونیکی](/fa/monicki-jfb/) [«رخت تن دلبر»](#rakhte-tane-delbar-myg) را در آبان ۱۴۰۳ و [«معشوق جان»](#maashoogh-e-jan-j55) را در بهمن همان سال خواند.[^rakhte][^rakhte-title][^maashoogh][^maashoogh-title] او بهمن ۱۴۰۳ [«Zireh Aab»](#zireh-aab-x36) را برای بیبی‌دراگون و مرداد ۱۴۰۴ [«Chizi Bede»](#chizi-bede-bkg) را برای سارا حیدری تهیه کرد.[^zireh][^zireh-producer][^chizi][^chizi-writer][^chizi-producer] [«دختر قوچانی»](#dokhtar-qouchani-feat-behzad-danesh-kaf) را هم با بهار فردوسی نوشت و برای صدای او تهیه کرد، و تهیه‌کنندهٔ چند قطعهٔ هیپ‌هاپ با داناکل، از جمله [«Oddi»](#oddi-mxk) و [«Eftezoza»](#eftezoza-29j)، بود.[^bahar][^danakol-oddi][^danakol-eftezoza][^danakol-genre]
 
-سال ۱۴۰۵ [«نمیدونن انگار تو رفتی»](#nemidoonan-engar-to-rafti-5km) را به یاد سروش خزایی منتشر کرد. ترانه را خودش نوشت و خواند و با محمد تهیه‌اش کرد؛ عباسی و محمدی دوباره سازهای بادی را نواختند و طاها مظاهری گیتار زد.[^dedication-fa][^recent-date][^recent] در [«بغل من»](#baghale-man-npg)، که مهر همان سال بیرون آمد، ترانه‌ای از مظاهری را با هم‌خوانی [گلسا](/fa/golsa-h74/) خواند.[^baghale][^baghale-date]
+سال ۱۴۰۵ [«نمیدونن انگار تو رفتی»](#nemidoonan-engar-to-rafti-5km) را به یاد سروش خزایی منتشر کرد. ترانه را خودش نوشت و خواند و با برادرش محمد تهیه کرد.[^recent][^edition-recent-date]
