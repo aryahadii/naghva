@@ -1,0 +1,41 @@
+id: Qprv848
+type: release
+statements:
+  name:
+  - value:
+      text: Eden's Desire (Vinyl Only)
+      language: en
+    references:
+    - &id001
+      source: sepehr.bandcamp.com-album-edens-desire-vinyl-only
+      quote: Eden's Desire (Vinyl Only)
+      accessed: '2026-11-21'
+  performer:
+  - value: Q99by47
+    references:
+    - &id002
+      source: sepehr.bandcamp.com-album-edens-desire-vinyl-only
+      quote: Sepehr
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2024-10-02'
+    references:
+    - source: sepehr.bandcamp.com-album-edens-desire-vinyl-only
+      quote: 02 Oct 2024 00:00:00 GMT
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://sepehr.bandcamp.com/album/edens-desire-vinyl-only
+    references:
+    - *id001
+    - *id002
+  cover art:
+  - value: https://f4.bcbits.com/img/a2345277895_10.jpg
+    references:
+    - source: sepehr.bandcamp.com-album-edens-desire-vinyl-only
+      quote: https://f4.bcbits.com/img/a2345277895_10.jpg
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Sepehr, Bandcamp
+        language: en

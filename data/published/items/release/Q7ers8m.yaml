@@ -1,0 +1,41 @@
+id: Q7ers8m
+type: release
+statements:
+  name:
+  - value:
+      text: Pomegranate Skies
+      language: en
+    references:
+    - &id001
+      source: sepehr.bandcamp.com-album-pomegranate-skies
+      quote: Pomegranate Skies
+      accessed: '2026-11-21'
+  performer:
+  - value: Q99by47
+    references:
+    - &id002
+      source: sepehr.bandcamp.com-album-pomegranate-skies
+      quote: Sepehr
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2023-10-27'
+    references:
+    - source: sepehr.bandcamp.com-album-pomegranate-skies
+      quote: 27 Oct 2023 00:00:00 GMT
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://sepehr.bandcamp.com/album/pomegranate-skies
+    references:
+    - *id001
+    - *id002
+  cover art:
+  - value: https://f4.bcbits.com/img/a3498395325_10.jpg
+    references:
+    - source: sepehr.bandcamp.com-album-pomegranate-skies
+      quote: https://f4.bcbits.com/img/a3498395325_10.jpg
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Sepehr, Bandcamp
+        language: en

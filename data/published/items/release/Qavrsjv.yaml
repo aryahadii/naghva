@@ -1,0 +1,41 @@
+id: Qavrsjv
+type: release
+statements:
+  name:
+  - value:
+      text: Body Mechanics
+      language: en
+    references:
+    - &id001
+      source: sepehr.bandcamp.com-album-body-mechanics
+      quote: Body Mechanics
+      accessed: '2026-11-21'
+  performer:
+  - value: Q99by47
+    references:
+    - &id002
+      source: sepehr.bandcamp.com-album-body-mechanics
+      quote: Sepehr
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2018-11-16'
+    references:
+    - source: sepehr.bandcamp.com-album-body-mechanics
+      quote: 16 Nov 2018 00:00:00 GMT
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://sepehr.bandcamp.com/album/body-mechanics
+    references:
+    - *id001
+    - *id002
+  cover art:
+  - value: https://f4.bcbits.com/img/a2884887965_10.jpg
+    references:
+    - source: sepehr.bandcamp.com-album-body-mechanics
+      quote: https://f4.bcbits.com/img/a2884887965_10.jpg
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Sepehr, Bandcamp
+        language: en
