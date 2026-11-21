@@ -61,3 +61,33 @@ statements:
       quote: Dame Sobh (feat. Hani Mojtahedy)
       locator: Track 1
       accessed: '2026-11-21'
+  - value: https://t.me/hani_mojtahedi/99
+    references:
+    - source: t.me-s-hani_mojtahedi-99
+      quote: hani mojtahedy Dame Sobh
+      locator: Artist channel, native recording 99
+      accessed: '2026-11-21'
+  - value: https://altorient.bandcamp.com/track/ipek-ipekcioglu-dame-sobh-feat-hani-mojtahedy-original-mix
+    references:
+    - source: altorient.bandcamp.com-album-stories-of-the-past
+      quote: Ipek Ipekcioglu - Dame Sobh feat. Hani Mojtahedy (Original Mix)
+      locator: Artist or label track
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/3k5QzY6EbSuiv8r7s32Lbi
+    references:
+    - source: open.spotify.com-track-3k5qzy6ebsuiv8r7s32lbi
+      quote: Dame Sobh
+      locator: Matched release and credited artists
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/1RGUGCSodpjADgYZ6QNiel
+    references:
+    - source: open.spotify.com-track-1rgugcsodpjadgyz6qniel
+      quote: Dame Sobh
+      locator: Matched release and credited artists
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/0e9030USW9YNfGQllfM9l8
+    references:
+    - source: open.spotify.com-track-0e9030usw9ynfgqllfm9l8
+      quote: Dame Sobh
+      locator: Matched release and credited artists
+      accessed: '2026-11-21'

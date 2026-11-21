@@ -1,0 +1,60 @@
+id: Q9a29xt
+type: release
+statements:
+  name:
+  - value:
+      text: Gravity II
+      language: en
+    references:
+    - source: soundcloud.com-arshia-samsaminia-gravity-ii
+      quote: Gravity II
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://soundcloud.com/arshia-samsaminia/gravity-ii
+    references:
+    - source: soundcloud.com-arshia-samsaminia-gravity-ii
+      quote: Stream Gravity II by Arshia.Samsaminia | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://www.youtube.com/watch?v=1ibH_mwj3rM
+    references:
+    - source: www.youtube.com-oembed-url-https
+      quote: Arshia Samsaminia — Gravity II [w/ score]
+      accessed: '2026-11-21'
+      locator: Page title
+  contributor:
+  - value: Qfvnnnd
+    references:
+    - source: soundcloud.com-arshia-samsaminia-gravity-ii
+      quote: Arshia Samsaminia
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: composer
+  performer:
+  - value: Qt63tfw
+    references:
+    - source: soundcloud.com-arshia-samsaminia-gravity-ii
+      quote: Ricardo Descalzo
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  release date:
+  - value:
+      date: '2019-01-10'
+    references:
+    - source: soundcloud.com-arshia-samsaminia-gravity-ii
+      quote: '2019-01-10T07:19:50Z'
+      accessed: '2026-11-21'
+      locator: Date published on SoundCloud
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-000469689546-tizdlk-large.jpg
+    references:
+    - source: soundcloud.com-arshia-samsaminia-gravity-ii
+      quote: https://i1.sndcdn.com/artworks-000469689546-tizdlk-large.jpg
+      accessed: '2026-11-21'
+      locator: SoundCloud recording artwork
+    qualifiers:
+      credit:
+        text: Arshia Samsaminia on SoundCloud
+        language: en

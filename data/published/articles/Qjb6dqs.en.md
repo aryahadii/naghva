@@ -91,12 +91,36 @@ references:
     quote: released January 9, 2025
     locator: Single release date
     accessed: '2026-11-21'
+  origin:
+    source: acudmachtneu.de-events-1941-hani-mojtahedy-andi-toma-hjirok
+    quote: Originally planned as a one-time performance for the Haus der Kulturen der Welt
+    locator: Origin of the collaboration
+    accessed: '2026-11-21'
+  first:
+    source: archiv.hkw.de-en-programm-projekte-veranstaltung-p_186694.php
+    quote: Forbidden Echoes
+    locator: Original performance programme
+    accessed: '2026-11-21'
+  year:
+    source: acudmachtneu.de-events-1941-hani-mojtahedy-andi-toma-hjirok
+    quote: Oct. 21 and 22, 2021
+    locator: Initial presentation
+    accessed: '2026-11-21'
+  works:
+    source: spore-initiative.org-en-programming-participate-wasserspiegel-water-bodies
+    quote: Mojtahedy's video and sound works, HJirok - The Mother of O and The Earth
+    locator: Artist and installation titles
+    accessed: '2026-11-21'
 ---
 
 HJirok is a musical project by Kurdish singer Hani Mojtahedy, from Iran, and Andi Toma, a producer with the German electronic group Mouse on Mars. Mojtahedy imagined HJirok as a maternal water spirit living beneath the waterfalls of the Zagros Mountains. She gave the character a voice as streams were drying up in the Kurdish region.[^pair][^producer][^character][^water]
+
+The two had planned a single collaboration for Berlin’s Haus der Kulturen der Welt. They performed *Forbidden Echoes* there in October 2021 and continued working together.[^origin][^first][^year]
 
 In her grandfather’s house in Sanandaj, Mojtahedy heard the rhythms of Sufi ceremonies. Years later, in Erbil in Iraqi Kurdistan, she and Toma recorded three percussionists, Hadi Alizadeh, Jawad Salkhordeh and Serdar Saydan, playing rhythms she remembered. Ali Choolaei played setar. The pair also recorded the wind and animals in the Valley of Figs. They continued working on these sounds in Berlin. Mojtahedy said she wanted to use her own voice as another rhythm.[^root][^record][^erbil][^wind][^studio][^rhythm]
 
 In March 2024 the pair released *[Hjirok](#hjirok-25b)* through Altin Village & Mine. Mojtahedy sings in Kurdish and Persian. The closing piece, “[Tehran](#tehran-432)”, draws on the poetry of Jalal Malaksha and pays tribute to the Woman, Life, Freedom movement. The album received an annual German Record Critics’ Award that year.[^date][^label][^langs][^tehran][^award]
 
 The children Mojtahedy met at a bazaar in Duhok inspired “[Passaporte](#passaporte-dtk)”. She understood their wish for a passport as a wish to travel wherever they chose. The single came out in January 2025.[^market][^wishes][^pdate]
+
+Mojtahedy also worked with the character in her own video and sound installation *HJirok – The Mother of O*. Berlin’s Spore Initiative showed it alongside her work *The Earth*.[^works]

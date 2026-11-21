@@ -30,6 +30,12 @@ statements:
       quote: Hypercolour Miscellaneous | Slowmango
       accessed: '2026-11-21'
       locator: Page title
+  - value: https://music.apple.com/us/album/hypercolour-miscellaneous/1693209678
+    references:
+    - source: music.apple.com-us-album-hypercolour-miscellaneous-1693209678
+      quote: ‎Hypercolour Miscellaneous - Album by Slowmango - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
   release date:
   - value:
       date: '2023-07-07'

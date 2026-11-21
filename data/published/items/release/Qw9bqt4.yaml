@@ -1,0 +1,54 @@
+id: Qw9bqt4
+type: release
+statements:
+  name:
+  - value:
+      text: Illusion
+      language: en
+    references:
+    - source: soundcloud.com-arshia-samsaminia-illusion
+      quote: Illusion
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://soundcloud.com/arshia-samsaminia/illusion
+    references:
+    - source: soundcloud.com-arshia-samsaminia-illusion
+      quote: Stream Illusion by Arshia.Samsaminia | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  contributor:
+  - value: Qfvnnnd
+    references:
+    - source: soundcloud.com-arshia-samsaminia-illusion
+      quote: Arshia Samsaminia
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: composer
+  performer:
+  - value: Qmnpywv
+    references:
+    - source: www.youtube.com-oembed-url-https
+      quote: Arshia Samsaminia -Time , Space and Illusion- Sound of Stockholm 2017 -  Persson-Meitzner Duo
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2017-12-08'
+    references:
+    - source: soundcloud.com-arshia-samsaminia-illusion
+      quote: '2017-12-08T17:19:22Z'
+      accessed: '2026-11-21'
+      locator: Date published on SoundCloud
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-000266910407-gm1a23-large.jpg
+    references:
+    - source: soundcloud.com-arshia-samsaminia-illusion
+      quote: https://i1.sndcdn.com/artworks-000266910407-gm1a23-large.jpg
+      accessed: '2026-11-21'
+      locator: SoundCloud recording artwork
+    qualifiers:
+      credit:
+        text: Arshia Samsaminia on SoundCloud
+        language: en

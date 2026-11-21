@@ -49,3 +49,15 @@ statements:
       quote: nine-sum sorcery B (feat. Hani Mojtahedy)
       locator: Track 2
       accessed: '2026-11-21'
+  - value: https://studio-labour.bandcamp.com/track/nine-sum-sorcery-side-b
+    references:
+    - source: studio-labour.bandcamp.com-album-nine-sum-sorcery
+      quote: nine-sum sorcery side B
+      locator: Artist or label track
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/2nRFCgUOpYOi5IyDSCtwuQ
+    references:
+    - source: open.spotify.com-track-2nrfcguopyoi5iydsctwuq
+      quote: nine-sum sorcery B
+      locator: Matched release and credited artists
+      accessed: '2026-11-21'

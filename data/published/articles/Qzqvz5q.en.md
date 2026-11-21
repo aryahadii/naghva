@@ -100,6 +100,21 @@ references:
     quote: 'Composition: ROSS DALY / ARAZ SALEK'
     accessed: '2026-11-21'
     locator: Co-written final piece
+  afshari:
+    source: www.youtube.com-watch-v-gavmacnmlw8
+    quote: 13:29 Tar solo by Araz Salek
+    accessed: '2026-11-21'
+    locator: Afshari programme, first half
+  afsharibefore:
+    source: www.youtube.com-watch-v-gavmacnmlw8
+    quote: 07:10 Tasnif-e Parastu by Habibollah Badiei (1933-1992)
+    accessed: '2026-11-21'
+    locator: Afshari programme, first half
+  afshariafter:
+    source: www.youtube.com-watch-v-gavmacnmlw8
+    quote: 16:11 Zarbi for Labyrinth Ensemble by Aria Mohafez (1983)
+    accessed: '2026-11-21'
+    locator: Afshari programme, first half
 ---
 
 Araz Salek learned the tar in Tehran and brought it into the improvised music scene in Toronto. His first album, [*Birth*](#birth-tqg), was a solo performance in Dashti. On [*Peripheries of Nahavand*](#peripheries-of-nahavand-78p), he played with tombak player Pedram Khavarzamini and multi-instrumentalist Efrén López, revisiting two phrases he had heard as a schoolboy.[^own-birth][^own-debut][^sv0nfxxwvxzk4-modal][^periph-player1][^periph-player6][^periph-themes][^interview-gest]
@@ -109,6 +124,8 @@ Born in 1980, Salek began tar lessons at eight with Tofigh Iranparvar. He went o
 ## Toronto and Crete
 
 Salek visited the Labyrinth workshop in the village of Houdetsi on Crete in 2011. The following year he began playing with Khavarzamini, Ross Daly and Kelly Thoma in [This Tale of Ours](/en/this-tale-of-ours-rtf/). He established the Toronto branch of Labyrinth in 2017. Another collaboration grew out of a concert with Adam Rudolph’s GO Organic Orchestra in 2016. Two years later, the musicians brought the Dastgah Project to Toronto’s Music Gallery, giving improvisers short phrases that used the Iranian koron, a quarter-tone inflection.[^interview-visit][^own-quartet][^interview-ontario][^interview-improv][^interview-project]
+
+In a concert with santur player Aria Mohafez, Salek took a tar solo in the Afshari section. The presenter’s film places it between a song by Habibollah Badiei and a piece Mohafez wrote for the ensemble.[^afsharibefore][^afshari][^afshariafter]
 
 ## Peripheries of Nahavand
 

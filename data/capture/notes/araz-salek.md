@@ -24,3 +24,38 @@ Seven quartet performance panels credit this artist individually and are shared 
 - Araz and Pedram duet - Modal Music in the Parks · https://www.youtube.com/watch?v=ps-gqZ9-N8U
 - CMC Presents : Roa Lee and Araz Salek · https://www.youtube.com/watch?v=TwToYXwFqjA
 - Pocket Performance:  Araz Salek (tar) and Pedram Khavarzamini (tonbak) · https://www.youtube.com/watch?v=pE_QyQnPwE4
+
+## Ensemble and duo performance archive
+
+Ontario’s native YouTube RSS catalogue and ten published playlists were reconciled with concert credits and Salek’s own programme. The two identically named Acem Bûselik uploads remain separate listening links in one record. The November 2021 Lamia Yared clips and the Güzin Değişmez show do not credit Salek in their official descriptions. He advertised a different November 2022 Yared appearance. No automatic attribution was applied. The Madrid duet is from Christos Barbas’s channel.
+
+- The Labyrinth Ensemble with Efrén López: Şin û zer · https://www.youtube.com/watch?v=_MTnvlHW-5M
+- The Labyrinth Ensemble with Efrén López: A.A.A.A.A.A.A. · https://www.youtube.com/watch?v=3q2wkpfsQeQ
+- The Labyrinth Ensemble with Efrén López: Taş, kağıt, makas · https://www.youtube.com/watch?v=JjhXbrohdVo
+- The Labyrinth Ensemble with Efrén López: Rosetta · https://www.youtube.com/watch?v=Ct7jAqBZHxY
+- The Labyrinth Ensemble with Efrén López: Imeres siopis · https://www.youtube.com/watch?v=3V8AqzCJGss
+- The Labyrinth Ensemble with Efrén López: Hoqvetvs · https://www.youtube.com/watch?v=LBvqIYsObtA
+- The Labyrinth Ensemble with Efrén López: Khronokrator · https://www.youtube.com/watch?v=PKEhgvKUWL0
+- The Labyrinth Ensemble with Efrén López: Aralık · https://www.youtube.com/watch?v=XFhTzBE3Oec
+- The Labyrinth Ensemble with Efrén López: Asbe Sanghi · https://www.youtube.com/watch?v=fPpAfsantRc
+- The Labyrinth Ensemble with Efrén López: Mavra Froudia · https://www.youtube.com/watch?v=d0Vu9aeGHd0
+- Presented by Debaser: The Labyrinth Ensemble with Ross Daly and Kelly Thoma in Ottawa (Part 3) · https://www.youtube.com/watch?v=JOu7eVbP9p8
+- Presented by Debaser: The Labyrinth Ensemble with Ross Daly and Kelly Thoma in Ottawa (Part 2) · https://www.youtube.com/watch?v=2-08Xw9z-fo
+- Presented by Debaser: The Labyrinth Ensemble with Ross Daly and Kelly Thoma in Ottawa (Part 1) · https://www.youtube.com/watch?v=p2eAtkVsJdA
+- The Labyrinth Ensemble with Ross Daly and Kelly Thoma: Hüseyni Reng 2 · https://www.youtube.com/watch?v=9ZBVty2BMCo
+- Labyrinth Ensemble with Evgenios Voulgaris (Part 1) · https://www.youtube.com/watch?v=dEar2bUQe3A
+- Labyrinth Ensemble with Evgenios Voulgaris (Part 2) · https://www.youtube.com/watch?v=BE7ESPDrJyw
+- The Labyrinth Ensemble with Ross Daly and Kelly Thoma: Hüseyni Reng 1 · https://www.youtube.com/watch?v=U_vDY-W6rfU
+- The Labyrinth Ensemble with Ross Daly and Kelly Thoma: Aylin · https://www.youtube.com/watch?v=LcgM4pc_ft0
+- The Labyrinth Ensemble with Ross Daly and Kelly Thoma: Dusk and Hicaz Saz Semâi · https://www.youtube.com/watch?v=Va1wOU2byO8
+- The Labyrinth Ensemble with Ross Daly and Kelly Thoma: Simurgh and Shade · https://www.youtube.com/watch?v=xBJg8HifN2k
+- The Labyrinth Ensemble with Ross Daly and Kelly Thoma: Kürdili Hicazkâr Peşrev and Saz Semâi · https://www.youtube.com/watch?v=eCH0Rxk-vrA
+- The Labyrinth Ensemble with Ross Daly and Kelly Thoma: Acem Bûselik Saz Semâi · https://www.youtube.com/watch?v=QSmD1_EKq-w
+- The Labyrinth Ensemble with Ross Daly and Kelly Thoma: Acem Bûselik Saz Semâi · https://www.youtube.com/watch?v=-fuirGVf4zg
+- The Labyrinth Ensemble with Ross Daly and Kelly Thoma: Acalypha · https://www.youtube.com/watch?v=kG9j8fdPAoc
+- Labyrinth Ensemble with Maliheh Moradi (Part 2) · https://www.youtube.com/watch?v=pP3xf0P26kY
+- Labyrinth Ensemble with Maliheh Moradi (Part 1) · https://www.youtube.com/watch?v=wxW0Qn8QgiQ
+- Labyrinth Ensemble with Maliheh Moradi (Encore) · https://www.youtube.com/watch?v=Q-_NFVKC-GU
+- Labyrinth Ensemble with Âriâ Mohâfez (Part 2) · https://www.youtube.com/watch?v=0se9uGwrrMY
+- Labyrinth Ensemble with Âriâ Mohâfez (Part 1) · https://www.youtube.com/watch?v=GAvMacnMlw8
+- Araz Salek & Christos Barbas - Live in Madrid · https://www.youtube.com/watch?v=mDbVXM3wPKk

@@ -100,6 +100,21 @@ references:
     quote: 'Composition: ROSS DALY / ARAZ SALEK'
     accessed: '2026-11-21'
     locator: Co-written final piece
+  afshari:
+    source: www.youtube.com-watch-v-gavmacnmlw8
+    quote: 13:29 Tar solo by Araz Salek
+    accessed: '2026-11-21'
+    locator: Afshari programme, first half
+  afsharibefore:
+    source: www.youtube.com-watch-v-gavmacnmlw8
+    quote: 07:10 Tasnif-e Parastu by Habibollah Badiei (1933-1992)
+    accessed: '2026-11-21'
+    locator: Afshari programme, first half
+  afshariafter:
+    source: www.youtube.com-watch-v-gavmacnmlw8
+    quote: 16:11 Zarbi for Labyrinth Ensemble by Aria Mohafez (1983)
+    accessed: '2026-11-21'
+    locator: Afshari programme, first half
 ---
 
 آراز سالک تار را در تهران آموخت و در تورنتو با بداهه‌نوازان موسیقی معاصر هم‌نوا شد. نخستین آلبومش، [«Birth»](#birth-tqg)، تک‌نوازی تار در آواز دشتی است. در آلبوم [«Peripheries of Nahavand»](#peripheries-of-nahavand-78p)، پدرام خاورزمینی با تنبک و افرن لوپز با چند ساز همراهش بودند. دو جملهٔ ملودیک این آلبوم از دوران مدرسه در گوش سالک مانده بود.[^own-birth][^own-debut][^sv0nfxxwvxzk4-modal][^periph-player1][^periph-player6][^periph-themes][^interview-gest]
@@ -109,6 +124,8 @@ references:
 ## میان تورنتو و کرت
 
 سالک در ۲۰۱۱ در کارگاه موسیقی لابیرینت در روستای هودتسی در جزیرهٔ کرت شرکت کرد. از سال بعد با خاورزمینی، راس دیلی و کلی توما در [گروه «This Tale of Ours»](/fa/this-tale-of-ours-rtf/) نواخت. او در ۲۰۱۷ شعبهٔ تورنتوی لابیرینت را راه انداخت. در ۲۰۱۶ نیز در تورنتو با ارکستر «GO Organic» به رهبری آدام رودولف روی صحنه رفت. دو سال بعد، در «پروژهٔ دستگاه» در تالار میوزیک گالری تورنتو، این دو برای بداهه‌نوازان گروه جمله‌های کوتاهی با نت‌های کُرُن‌دار در نظر گرفتند.[^interview-visit][^own-quartet][^interview-ontario][^interview-improv][^interview-project]
+
+در کنسرتی با آریا محافظ، نوازندهٔ سنتور، سالک در بخش افشاری تار نواخت. در فیلم کنسرت، تک‌نوازی او میان تصنیفی از حبیب‌الله بدیعی و قطعه‌ای از محافظ برای گروه آمده است.[^afsharibefore][^afshari][^afshariafter]
 
 ## نهاوند
 

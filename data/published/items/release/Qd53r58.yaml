@@ -49,3 +49,15 @@ statements:
       quote: Frau Fisch
       locator: Track 5
       accessed: '2026-11-21'
+  - value: https://ilyich.bandcamp.com/track/frau-fisch-with-hani-mojtahedy-2
+    references:
+    - source: ilyich.bandcamp.com-album-afterlife-2
+      quote: Frau Fisch, with Hani Mojtahedy
+      locator: Artist or label track
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/2ovZ3V2mMv23HBm3b8Pyzm
+    references:
+    - source: open.spotify.com-track-2ovz3v2mmv23hbm3b8pyzm
+      quote: Frau Fisch
+      locator: Matched release and credited artists
+      accessed: '2026-11-21'

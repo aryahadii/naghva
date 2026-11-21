@@ -110,6 +110,11 @@ references:
     quote: Maryam Rahmani, David Moran, and Sebastian Collen come together in this episode of Live at Phoenix to perform "Gezelle"
     accessed: '2026-11-21'
     locator: Artist interview, biography or performance credits
+  womad:
+    source: www.womadelaide.com.au-lineup-season-2026-maryam-rahmani
+    quote: Zoo Stage 4
+    accessed: '2026-11-21'
+    locator: Scheduled stage, Saturday of WOMADelaide 2026
 ---
 
 مریم رحمانی نوازندهٔ سنتور، خواننده و آهنگساز ایرانی ساکن آدلاید است. پس از مهاجرت به استرالیا در سال ۲۰۱۹، یادگیری رقص فلامنکو را آغاز کرد. بعدها مربی رقصش در ضبط آلبوم [«کمند»](#kamand-jv7) همراهش شد؛ آلبومی که در آن ریتم‌های فلامنکو کنار موسیقی برگرفته از شعر فارسی و رپرتوار کلاسیک ایران شنیده می‌شوند.[^who][^move][^dance][^teacher][^rhythms][^poets]
@@ -124,4 +129,4 @@ references:
 
 در آدلاید رقص فلامنکو راه تازه‌ای برای شناخت ریتم پیش پای رحمانی گذاشت. از مربی‌اش، روزالی کوکیارو، دعوت کرد تا برای آلبوم «کمند» همراه او بداهه‌نوازی کند. حاصل همکاری آن دو را می‌توان در قطعه‌های «Encanto» و «چهارگاه» شنید. آلبوم در منطقهٔ تپه‌های آدلاید ضبط شد و در اوت ۲۰۲۵ به انتشار رسید.[^dance][^teacher][^rhythms][^studio][^modern]
 
-رحمانی در ژوئیهٔ ۲۰۲۵ در برلین برای [یک برنامهٔ رادیویی](#santur-bath-fq6) تک‌نوازی کرد. در آلبوم [«Santur & Kamancheh for Electronics»](#santur-kamancheh-for-electronics-qje) که در ژانویهٔ ۲۰۲۶ منتشر شد، سنتور و کمانچه نواخت و با دیوید اِسِر همکاری کرد. میکروفون‌های تماسی و حسگرهایی که مستقیم به سازها متصل شده بودند، علاوه بر نت‌ها ارتعاش بدنهٔ سازها را هم می‌گرفتند. اِسِر این صداها را با ضبط‌های میدانی درآمیخت.[^radio][^duo][^attach][^vibes][^field][^year]
+رحمانی در ژوئیهٔ ۲۰۲۵ در برلین برای [یک برنامهٔ رادیویی](#santur-bath-fq6) تک‌نوازی کرد. در آلبوم [«Santur & Kamancheh for Electronics»](#santur-kamancheh-for-electronics-qje) که در ژانویهٔ ۲۰۲۶ منتشر شد، سنتور و کمانچه نواخت و با دیوید اِسِر همکاری کرد. میکروفون‌های تماسی و حسگرهایی که مستقیم به سازها متصل شده بودند، علاوه بر نت‌ها ارتعاش بدنهٔ سازها را هم می‌گرفتند. اِسِر این صداها را با ضبط‌های میدانی درآمیخت.[^radio][^duo][^attach][^vibes][^field][^year] در برنامهٔ جشنوارهٔ WOMADelaide در سال ۲۰۲۶ نام رحمانی برای اجرا در صحنهٔ زو آمده بود.[^womad]

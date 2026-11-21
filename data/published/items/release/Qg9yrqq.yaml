@@ -36,6 +36,24 @@ statements:
       quote: Montgolfier | Slowmango
       accessed: '2026-11-21'
       locator: Page title
+  - value: https://open.spotify.com/album/0mUhOgfMWDoqizWbEottIc
+    references:
+    - source: open.spotify.com-album-0muhogfmwdoqizwbeottic
+      quote: Listen to Montgolfier - Single by Slowmango | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/montgolfier-single/1686121312
+    references:
+    - source: music.apple.com-us-album-montgolfier-single-1686121312
+      quote: ‎Montgolfier - Single - Album by Slowmango - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/0hm4v9yDIOFL6jAxwQ2ted
+    references:
+    - source: open.spotify.com-track-0hm4v9ydiofl6jaxwq2ted
+      quote: Montgolfier - song and lyrics by Slowmango | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
   release date:
   - value:
       date: '2023-06-23'

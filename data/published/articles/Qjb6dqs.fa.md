@@ -91,12 +91,36 @@ references:
     quote: released January 9, 2025
     locator: Single release date
     accessed: '2026-11-21'
+  origin:
+    source: acudmachtneu.de-events-1941-hani-mojtahedy-andi-toma-hjirok
+    quote: Originally planned as a one-time performance for the Haus der Kulturen der Welt
+    locator: Origin of the collaboration
+    accessed: '2026-11-21'
+  first:
+    source: archiv.hkw.de-en-programm-projekte-veranstaltung-p_186694.php
+    quote: Forbidden Echoes
+    locator: Original performance programme
+    accessed: '2026-11-21'
+  year:
+    source: acudmachtneu.de-events-1941-hani-mojtahedy-andi-toma-hjirok
+    quote: Oct. 21 and 22, 2021
+    locator: Initial presentation
+    accessed: '2026-11-21'
+  works:
+    source: spore-initiative.org-en-programming-participate-wasserspiegel-water-bodies
+    quote: Mojtahedy's video and sound works, HJirok - The Mother of O and The Earth
+    locator: Artist and installation titles
+    accessed: '2026-11-21'
 ---
 
 HJirok پروژهٔ موسیقی هانی مجتهدی، خوانندهٔ کرد اهل ایران، و اندی توما، تهیه‌کنندهٔ گروه موسیقی الکترونیک آلمانی Mouse on Mars است. مجتهدی شخصیتی مادرانه را تصور کرد که زیر آبشارهای زاگرس زندگی می‌کند و نگهبان آب است. وقتی جویبارهای کردستان رو به خشکی رفتند، او به این شخصیت صدا بخشید.[^pair][^producer][^character][^water]
+
+بنا بود همکاری مجتهدی و توما به یک اجرا برای خانهٔ فرهنگ‌های جهان در برلین محدود باشد. در اکتبر ۲۰۲۱ «Forbidden Echoes» را آنجا اجرا کردند و پس از آن همکاری‌شان را ادامه دادند.[^origin][^first][^year]
 
 مجتهدی در خانهٔ پدربزرگش در سنندج با ریتم‌های مراسم درویشان آشنا شده بود. سال‌ها بعد در اربیل کردستان عراق، او و توما صدای سه نوازندهٔ سازهای کوبه‌ای، هادی علیزاده، جواد سالخورده و سردار سایدان، را هنگام نواختن همان ریتم‌ها ضبط کردند. علی چولایی سه‌تار نواخت. آن دو در درهٔ انجیرها صدای باد و جانوران را هم ضبط کردند و در برلین روی این صداها کار کردند. مجتهدی می‌گفت می‌خواست از صدای خودش هم برای ساختن ریتم استفاده کند.[^root][^record][^erbil][^wind][^studio][^rhythm]
 
 در مارس ۲۰۲۴ نشر Altin Village & Mine آلبوم «[Hjirok](#hjirok-25b)» را منتشر کرد. مجتهدی در این آلبوم به کردی و فارسی می‌خواند. قطعهٔ پایانی، «[Tehran](#tehran-432)»، از شعر جلال ملکشاه مایه می‌گیرد و ادای احترامی است به جنبش زن، زندگی، آزادی. آلبوم همان سال یکی از جایزه‌های سالانهٔ منتقدان موسیقی آلمان را گرفت.[^date][^label][^langs][^tehran][^award]
 
 کودکانی که مجتهدی در بازاری در دهوک دید الهام‌بخش ترانهٔ «[Passaporte](#passaporte-dtk)» شدند. به گفتهٔ او، آرزوی داشتن گذرنامه برای آن بچه‌ها یعنی بتوانند آزادانه به هرجا که خواستند سفر کنند. این تک‌آهنگ در ژانویهٔ ۲۰۲۵ منتشر شد.[^market][^wishes][^pdate]
+
+مجتهدی این شخصیت را در چیدمان ویدئویی و صوتی خودش، «HJirok – The Mother of O»، هم به کار گرفت. مؤسسهٔ Spore در برلین آن را در کنار اثر دیگرش، «The Earth»، به نمایش گذاشت.[^works]

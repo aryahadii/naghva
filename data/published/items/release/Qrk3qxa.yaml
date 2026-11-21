@@ -55,3 +55,9 @@ statements:
       quote: Goman - Remix
       locator: Matched Spotify track
       accessed: '2026-11-21'
+  - value: https://acidpauli.bandcamp.com/track/goman-remix
+    references:
+    - source: acidpauli.bandcamp.com-album-mystic-meltdown-2
+      quote: Goman (Remix)
+      locator: Artist or label track
+      accessed: '2026-11-21'

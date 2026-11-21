@@ -100,3 +100,7 @@ Languages, read 2026-11-21.
 Release imprint, read 2026-11-21.
 
 > 2024 HJirok under exclusive license to Altin Village & Mine
+
+Roles, read 2026-11-21.
+
+> Produced by Andi Toma. Co-produced by Hani Mojtahedy. Vocals by Hani Mojtahedy.

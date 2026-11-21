@@ -1,0 +1,47 @@
+id: Qak5pc7
+type: release
+statements:
+  name:
+  - value:
+      text: Shining Black
+      language: en
+    references:
+    - source: music.apple.com-us-album-ziggurat-1590193684
+      quote: Shining Black
+      accessed: 2026-11-21
+      locator: Track listing
+  performer:
+  - value: Qq8jt69
+    references:
+    - source: artamene-official.com-2021-11-23-artamene-iran-sign-with-wormholedeath-announce-ziggurat
+      quote: ARTAMENE
+      accessed: 2026-11-21
+      locator: Band name
+  release date:
+  - value:
+      date: '2022-01-21'
+    references:
+    - source: music.apple.com-us-album-ziggurat-1590193684
+      quote: '2022-01-21'
+      accessed: 2026-11-21
+      locator: Release date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f3/8b/70/f38b705f-db00-cbd9-65cf-fa9bd044da06/196292601763.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-ziggurat-1590193684
+      quote: Ziggurat
+      accessed: 2026-11-21
+      locator: Edition title
+  listen link:
+  - value: https://music.apple.com/us/song/shining-black/1590194100
+    references:
+    - source: music.apple.com-us-album-ziggurat-1590193684
+      quote: Shining Black
+      accessed: 2026-11-21
+      locator: Track listing
+  - value: https://open.spotify.com/track/2YaRSRuZnpsrbyZb93FACq
+    references:
+    - source: open.spotify.com-artist-568sweies0xf7754udvxpy
+      quote: Shining Black
+      accessed: 2026-11-21
+      locator: Recording title

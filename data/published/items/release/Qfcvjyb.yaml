@@ -1,0 +1,53 @@
+id: Qfcvjyb
+type: release
+statements:
+  name:
+  - value:
+      text: Araz Salek & Christos Barbas - Live in Madrid
+      language: en
+    references:
+    - source: www.youtube.com-watch-v-mdbvxm3wpkk
+      quote: Araz Salek & Christos Barbas - Live in Madrid
+      accessed: '2026-11-21'
+      locator: Official YouTube oEmbed title
+  performer:
+  - value: Qzqvz5q
+    qualifiers:
+      role: tar
+    references:
+    - source: www.youtube.com-watch-v-mdbvxm3wpkk
+      quote: Araz Salek & Christos Barbas - Live in Madrid
+      accessed: '2026-11-21'
+      locator: Official YouTube oEmbed title
+  - value: Qjtv7gw
+    references:
+    - source: www.youtube.com-watch-v-mdbvxm3wpkk
+      quote: Araz Salek & Christos Barbas - Live in Madrid
+      accessed: '2026-11-21'
+      locator: Official YouTube oEmbed title
+  listen link:
+  - value: https://www.youtube.com/watch?v=mDbVXM3wPKk
+    references:
+    - source: www.youtube.com-watch-v-mdbvxm3wpkk
+      quote: Araz Salek & Christos Barbas - Live in Madrid
+      accessed: '2026-11-21'
+      locator: Official YouTube oEmbed title
+    - source: www.youtube.com-watch-v-mdbvxm3wpkk
+      quote: Christos Barbas
+      accessed: '2026-11-21'
+      locator: Publisher of the performance
+  cover art:
+  - value: https://i.ytimg.com/vi/mDbVXM3wPKk/hqdefault.jpg
+    qualifiers:
+      credit:
+        text: Christos Barbas on YouTube
+        language: en
+    references:
+    - source: www.youtube.com-watch-v-mdbvxm3wpkk
+      quote: https://i.ytimg.com/vi/mDbVXM3wPKk/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Publisher-supplied thumbnail
+    - source: www.youtube.com-watch-v-mdbvxm3wpkk
+      quote: Christos Barbas
+      accessed: '2026-11-21'
+      locator: Publisher of the performance

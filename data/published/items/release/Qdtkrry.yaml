@@ -63,3 +63,9 @@ statements:
       quote: Passaporte
       locator: Issued music video or master
       accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/0wP1g0xEnMOGZIaJlf00OM
+    references:
+    - source: open.spotify.com-track-0wp1g0xenmogziajlf00om
+      quote: Passaporte
+      locator: Matched release and credited artists
+      accessed: '2026-11-21'

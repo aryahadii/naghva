@@ -136,3 +136,7 @@ Independent review on 2026-11-21. **8.8/10** · Sources 1.9, prose 1.7, recordin
 ## Borderless Band · Qhzc5js
 
 Independent review on 2026-11-21. **8.4/10** · Sources 1.8, prose 1.8, recordings 2.2, images 1.0, gaps and reader experience 1.6. English and Persian hashes are `743280361789` and `9ab7319336af`. The thirteen panels distinguish the Berkeley concert numbers from the studio items and the later live single. All 27 images per language and local fragments passed. Kourosh Babaei’s published biography lists an album titled Borderless in 2018, and the original 2018 fundraiser documents what was then titled Dust & the Moon. Tirgan's 2023 programme also describes a Canadian band under the same name with Babaei and Fariba Davody that it dates to 2018. Verify the record and describe the relationship to the Canadian group to the extent sources allow.
+
+### Borderless Band, second independent review on 2026-11-21
+
+**9.2/10** · Sources 1.9, prose 1.9, recordings 2.6, images 1.0, gaps and reader experience 1.8. English and Persian hashes are `0762f705bb85` and `92cfb5e3909d`. Twenty panels now include the Canadian performances and Babaei’s Bani Adam documentation. Both pages identify Fariba Davody in the Tirgan lineup and distinguish the 2018 independently funded recording project from the album in Babaei's discography. All 41 images decoded in each language and all fragments resolved. Neither the early album track list nor its relation to the proposed album has been verified. Article and catalogue ready within these documented limits.

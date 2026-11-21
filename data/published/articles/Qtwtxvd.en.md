@@ -110,6 +110,11 @@ references:
     quote: Maryam Rahmani, David Moran, and Sebastian Collen come together in this episode of Live at Phoenix to perform "Gezelle"
     accessed: '2026-11-21'
     locator: Artist interview, biography or performance credits
+  womad:
+    source: www.womadelaide.com.au-lineup-season-2026-maryam-rahmani
+    quote: Zoo Stage 4
+    accessed: '2026-11-21'
+    locator: Scheduled stage, Saturday of WOMADelaide 2026
 ---
 
 Maryam Rahmani is an Iranian-born santur player, singer and composer based in Adelaide. After moving to Australia in 2019 she took up flamenco dancing. Her teacher later joined her on [*Kamand*](#kamand-jv7), a recording that brings flamenco rhythms into music drawn from Persian poetry and the classical repertoire.[^who][^move][^dance][^teacher][^rhythms][^poets]
@@ -124,4 +129,4 @@ Rahmani played santur on Slowmango’s single “Montgolfier”, released in Jun
 
 In Adelaide, dancing flamenco gave Rahmani another way to think about rhythm. She invited her teacher Rosalie Cocchiaro to improvise with her on *Kamand*. Their collaboration can be heard on “Encanto” and “Chahargah”. Recorded in the Adelaide Hills, the album came out in August 2025.[^dance][^teacher][^rhythms][^studio][^modern]
 
-Rahmani also played a [solo radio session in Berlin](#santur-bath-fq6) in July 2025. On [*Santur & Kamancheh for Electronics*](#santur-kamancheh-for-electronics-qje), released in January 2026, she played the santur and the bowed kamancheh with David Esser. Contact microphones and sensors attached directly to the instruments picked up vibrations from their bodies as well as their notes. Esser wove these sounds together with field recordings.[^radio][^duo][^attach][^vibes][^field][^year]
+Rahmani also played a [solo radio session in Berlin](#santur-bath-fq6) in July 2025. On [*Santur & Kamancheh for Electronics*](#santur-kamancheh-for-electronics-qje), released in January 2026, she played the santur and the bowed kamancheh with David Esser. Contact microphones and sensors attached directly to the instruments picked up vibrations from their bodies as well as their notes. Esser wove these sounds together with field recordings.[^radio][^duo][^attach][^vibes][^field][^year] The 2026 WOMADelaide programme billed Rahmani on the festival’s Zoo Stage.[^womad]

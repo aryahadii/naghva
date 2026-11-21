@@ -1,0 +1,109 @@
+# Hani Mojtahedy
+
+The original site, Musicboard Berlin and Holland Festival document an Iranian Kurdish vocalist who founded Vian. The date of her move differs between Kurdish-language reporting and the musician's own page. Both the artist and the Berlin residency give 2004, which the profile attributes to the artist. The concert organizer and artist interview corroborate the making of Forbidden Echoes, distinct from the later HJirok album. HJirok releases also credit her documented vocals.
+
+Research included 35 Apple release pages across three artist identities, 20 Spotify album pages, all 15 videos on the current official channel, three on the former “hani official” account, 17 from the Hanî channel promoted by the artist’s Telegram, and 148 publicly returned Telegram messages. Posts identifying music were reconciled to their specific recordings. A few videos on the latter account feature different performers; no credit was transferred. Several Telegram posts are visually or textually untitled and were not assigned speculative song titles. Platform-specific guests include a LABOUR two-sided LP, ILYICH’s Frau Fisch, Acid Pauli's Goman remix, Ipek Ipekcioglu’s Dame Sobh with DJ mix, and the Czech National Symphony Orchestra performance to which her original site links as Peshmerga. The 2026 Goman Remix is a single guest performance on Mystic Meltdown; the entire compilation is not hers. Matched artist or label Bandcamp editions, SoundCloud’s station broadcast, and exact Telegram asset URLs are recorded in the items.
+
+A Kurdish catalogue lists the Cinderella album and eleven titles. Apple distributes the title song separately as Cindrella. Jenyar's Moon corresponds to the five English titles on the Mang Project Live studio session. The Dayk lists differ: Jenyar adds Chawerwani and Gulbarin. The artist captions her Telegram Bimsharewe with Dayk, while Jenyar lists it on Cinderella. The recording is represented without imposing a disputed album placement. No reliable release date or authorized streaming URLs were verified for all early tracks. The album and item-specific account sources preserve these limits.
+
+## Work inventory
+
+- Hjirok · https://hjirok.bandcamp.com/album/hjirok · https://music.apple.com/us/album/hjirok/1730807622 · https://open.spotify.com/album/5ETeBMb4EIOX7glBI04PfK
+- Sanandaj · https://hjirok.bandcamp.com/track/sanandaj · https://music.apple.com/us/song/sanandaj/1730807623 · https://open.spotify.com/track/79Uy4BomqTUYmDn9tgEXw9
+- Hjirok Rock · https://hjirok.bandcamp.com/track/hjirok-rock · https://music.apple.com/us/song/hjirok-rock/1730807625 · https://open.spotify.com/track/3w8jEtxWIw0fzDSX18Mma3
+- Yahu · https://hjirok.bandcamp.com/track/yahu · https://music.apple.com/us/song/yahu/1730807626 · https://open.spotify.com/track/1T92ckOk9RE30KBlvkepcq
+- Jin Bo Chie · https://hjirok.bandcamp.com/track/jin-bo-chie · https://music.apple.com/us/song/jin-bo-chie/1719690582 · https://open.spotify.com/track/1qYPb93LjffSHyzIu7ehvC · https://music.apple.com/us/song/jin-bo-chie/1721903446 · https://open.spotify.com/track/5UKuVT6WZGHCztgDsQSQXS · https://music.apple.com/us/song/jin-bo-chie/1730807957 · https://open.spotify.com/track/17Qb1BGMsv33uXVrzkA7rh
+- Maly Men · https://hjirok.bandcamp.com/track/maly-men · https://music.apple.com/us/song/maly-men/1721903442 · https://open.spotify.com/track/3FGjgSSmCg3vybNG30LsJu · https://music.apple.com/us/song/maly-men/1730807958 · https://open.spotify.com/track/4LBBtcsUMlgKekdER7ZK1w · https://www.youtube.com/watch?v=qoMQKvOga6M
+- Meselek · https://hjirok.bandcamp.com/track/meselek · https://music.apple.com/us/song/meselek/1730807959 · https://open.spotify.com/track/5eXeKwzliHDcV1cr9TAICP · https://soundcloud.com/inverted-audio/hjirok-meselek-altin-village-mine · https://www.youtube.com/watch?v=Ro5UoHQ1z-c
+- Goman · https://hjirok.bandcamp.com/track/goman · https://music.apple.com/us/song/goman/1730807960 · https://open.spotify.com/track/2ptPRy5HSN67HynD1cXqCV
+- Tehran · https://hjirok.bandcamp.com/track/tehran · https://music.apple.com/us/song/tehran/1730807961 · https://open.spotify.com/track/7bLs6WcoWRjHbEp2DGs5j2
+- Passaporte · https://hjirok.bandcamp.com/track/passaporte · https://www.youtube.com/watch?v=9z444ONpS58 · https://www.youtube.com/watch?v=hZCeapFyLbE
+- Cindrella · https://music.apple.com/us/song/cindrella/1789574534 · https://open.spotify.com/track/5Xcwfnt2vh3ijVkR8UhHnr · https://www.youtube.com/watch?v=jCpo4FzRifc
+- Dayk · https://music.apple.com/us/album/dayk/1598931350 · https://open.spotify.com/album/3siAGP2brNxe3NnEjx7nAV
+- Diltengi · https://music.apple.com/us/song/diltengi/1598931352 · https://open.spotify.com/track/25y4RBXYGXeFcp7uvVNpqz
+- Yar · https://music.apple.com/us/song/yar/1598931353 · https://open.spotify.com/track/0Gld3SgTR2QE9FLcDnZKVz
+- Jinim Jinm · https://music.apple.com/us/song/jinim-jinm/1598931354 · https://open.spotify.com/track/1LysXP8FimdAduWDD19FpO
+- Wayadi Salan · https://music.apple.com/us/song/wayadi-salan/1598931355 · https://open.spotify.com/track/3K2V8SF0J0NrLoBfZViiv5
+- Kurdistan · https://music.apple.com/us/song/kurdistan/1598931356 · https://open.spotify.com/track/1Q1QHPgcGtfsL7er5I7JET
+- Pekawe · https://music.apple.com/us/song/pekawe/1598931357 · https://open.spotify.com/track/14GMn8l84A1WJmaphV7jMX
+- Xoshewisti · https://music.apple.com/us/song/xoshewisti/1598931358 · https://open.spotify.com/track/7afYSpDHaOo4u5Yj3NpKad
+- Pelistank · https://music.apple.com/us/song/pelistank/1598931359 · https://open.spotify.com/track/7tO3BJH79cXcKhh5ngABBD
+- Geramawe · https://music.apple.com/us/song/geramawe/1598931360 · https://open.spotify.com/track/3aPI4y09EwXR1T5ovGvf84 · https://www.youtube.com/watch?v=PQHZBCxFiog
+- Live At The BBC · https://music.apple.com/us/album/live-at-the-bbc-ep/1847875375 · https://open.spotify.com/album/7m89J7oa7QxtN3J4xtg8CD
+- Deltangi - Live · https://music.apple.com/us/song/deltangi-live/1847875376 · https://open.spotify.com/track/00wzEgf88LyqAA3Q7PMjJT
+- Ashiyane - Live · https://music.apple.com/us/song/ashiyane-live/1847875377 · https://open.spotify.com/track/5HGKsbkH9VLe2Kq48E84GC
+- Pekawe - Live · https://music.apple.com/us/song/pekawe-live/1847875378 · https://open.spotify.com/track/5Aq0m7ZsigNYC4jcAy8w2z
+- Xoshewisti - Live · https://music.apple.com/us/song/xoshewisti-live/1847875679 · https://open.spotify.com/track/6dOTya3Mrv2o3hKodhGaAv
+- Dame Sobh (feat. Hani Mojtahedy) · https://music.apple.com/us/song/dame-sobh-feat-hani-mojtahedy/1737493201 · https://music.apple.com/us/song/dame-sobh-feat-hani-mojtahedy/1751832378 · https://music.apple.com/us/song/dame-sobh-feat-hani-mojtahedy/1744528921 · https://t.me/hani_mojtahedi/99 · https://altorient.bandcamp.com/track/ipek-ipekcioglu-dame-sobh-feat-hani-mojtahedy-original-mix
+- Shaw · https://music.apple.com/us/song/shaw/1480748095 · https://open.spotify.com/track/3rL2ScRitMj13EXA5l9IFv · https://www.youtube.com/watch?v=oUvIF8ZrARA · https://t.me/hani_mojtahedi/116
+- Skala · https://music.apple.com/us/song/skala/1485757196 · https://open.spotify.com/track/6unpFxHvTkpofZ83UDycbg · https://www.youtube.com/watch?v=-DKw7Jn7Xe4 · https://t.me/hani_mojtahedi/134
+- Yara Mi · https://music.apple.com/us/song/yara-mi/1514850009
+- Lalai (feat. Hani Mojtahedy & Shahram Mohamadi) · https://music.apple.com/us/song/lalai-feat-hani-mojtahedy-shahram-mohamadi/1522089264 · https://t.me/hani_mojtahedi/163
+- Nour (feat. Hani Mojtahedy) · https://music.apple.com/us/song/nour-feat-hani-mojtahedy/1518108560 · https://music.apple.com/us/song/nour-feat-hani-mojtahedy/1541155656 · https://music.apple.com/us/song/nour-feat-hani-mojtahedy/1518104132
+- nine-sum sorcery feat. Hani Mojtahedy · https://music.apple.com/us/album/nine-sum-sorcery-feat-hani-mojtahedy/1738234571 · https://studio-labour.bandcamp.com/album/nine-sum-sorcery
+- nine-sum sorcery a (feat. Hani Mojtahedy) · https://music.apple.com/us/song/nine-sum-sorcery-a-feat-hani-mojtahedy/1738234744 · https://studio-labour.bandcamp.com/track/nine-sum-sorcery-side-a
+- nine-sum sorcery B (feat. Hani Mojtahedy) · https://music.apple.com/us/song/nine-sum-sorcery-b-feat-hani-mojtahedy/1738234879 · https://studio-labour.bandcamp.com/track/nine-sum-sorcery-side-b
+- Teniyayi · https://music.apple.com/us/song/teniyayi/1562925444 · https://open.spotify.com/track/6jPCcWzQ9OAhWjHkLhY96n
+- Gulbarin (feat. Hani Mojtahedy) · https://music.apple.com/us/song/gulbarin-feat-hani-mojtahedy/1565289087
+- Jin Jiyan Azadi · https://music.apple.com/us/song/jin-jiyan-azadi/1659929907 · https://open.spotify.com/track/0bvIrDyhmCBPFTYyOEqkdZ · https://www.youtube.com/watch?v=9Wnhl7KK4XA
+- Mang Project Live · https://music.apple.com/us/album/mang-project-live/1660458473 · https://open.spotify.com/album/49XG2B0DXi7ToUOvTOY438
+- Like Rain - Live in Studio · https://music.apple.com/us/song/like-rain-live-in-studio/1660458474 · https://open.spotify.com/track/7k5PLgJWXoC6ONudBjBO5v
+- Longing - Live in Studio · https://music.apple.com/us/song/longing-live-in-studio/1660458476 · https://open.spotify.com/track/7l7voLDoZnPg19Qr8B20HX
+- Mother Ocean - Live in Studio · https://music.apple.com/us/song/mother-ocean-live-in-studio/1660458477 · https://open.spotify.com/track/3G9JQ7D2A6vwdWNbWyutfP
+- Wind - Live in Studio · https://music.apple.com/us/song/wind-live-in-studio/1660458478 · https://open.spotify.com/track/22PAyQJCTrXAjWb4lstURl
+- Moon - Live in Studio · https://music.apple.com/us/song/moon-live-in-studio/1660458479 · https://open.spotify.com/track/1rc9XexSBKILvr2lqbsxIY
+- Dame Sobh (feat. Hani Mojtahedy) [Mixed] [Mixed] · https://music.apple.com/us/song/dame-sobh-feat-hani-mojtahedy-mixed-mixed/1676394505
+- Ruhi Hetaw · https://music.apple.com/us/song/ruhi-hetaw/1699222050 · https://open.spotify.com/track/238IAT9Xr7Hr0jw0vjHd6O · https://www.youtube.com/watch?v=v8VzQeK8wSc · https://t.me/hani_mojtahedi/219
+- Ruhi Hetaw (Remix) · https://music.apple.com/us/song/ruhi-hetaw-remix/1700320753 · https://open.spotify.com/track/5h05yDO1bSqNXpcbuWcXP8 · https://www.youtube.com/watch?v=HG-Fkr_xu94
+- Asheqi · https://music.apple.com/us/song/asheqi/1714685303 · https://open.spotify.com/track/6tPauX7twYGf1WpFc5jegK · https://www.youtube.com/watch?v=7yGV-YzeyMg
+- Frau Fisch · https://music.apple.com/us/song/frau-fisch/6829872019 · https://ilyich.bandcamp.com/track/frau-fisch-with-hani-mojtahedy-2
+- Newroz · https://music.apple.com/us/song/newroz/1737027132 · https://open.spotify.com/track/5G99AB5WiPoDjP3E2ShG5b · https://www.youtube.com/watch?v=8T4ZUWHCN7M
+- Mirage (feat. Hani Mojtahedy) · https://music.apple.com/us/song/mirage-feat-hani-mojtahedy/1755562875
+- IMPROVISATION (feat. HANI MOJTAHEDY) · https://music.apple.com/us/song/improvisation-feat-hani-mojtahedy/1791252114
+- Gardoon · https://music.apple.com/us/song/gardoon/1853119712 · https://open.spotify.com/track/4IMoJkrENmmY5iXPBZQP0A · https://www.youtube.com/watch?v=OITjoepG7is
+- Asheqi (feat. Hani Mojtahedy & Ferhad Mensuri) · https://music.apple.com/us/song/asheqi-feat-hani-mojtahedy-ferhad-mensuri/1854834002
+- Zindegânî · https://music.apple.com/us/song/zindeg%C3%A2n%C3%AE/1855416553 · https://open.spotify.com/track/5SXd5AhozWUpLexcr7rvw9 · https://www.youtube.com/watch?v=7B61RKS72T8
+- Ashyane · https://music.apple.com/us/song/ashyane/1892578235 · https://open.spotify.com/track/5WyhQ6EtyQM9cp1u3P871m
+- Nishtiman · https://music.apple.com/us/song/nishtiman/6781708395 · https://open.spotify.com/track/74wa2SORu4Br67jZzQ7t6A · https://www.youtube.com/watch?v=kgn5EYMnx7c
+- Goman (Remix) · https://music.apple.com/us/song/goman-remix/6811013466 · https://open.spotify.com/track/22YxzmOiBwyQyeccuuUYxz · https://acidpauli.bandcamp.com/track/goman-remix
+- Hani mojtahedy - pêkawa هانى مجتهيدى ـ پێکەوە · https://www.youtube.com/watch?v=aJPVSrML3ZE · https://t.me/hani_mojtahedi/47
+- Hani-Democracy · https://www.youtube.com/watch?v=ia3jVP4l_os
+- هانى مجتهدى گنجشكك اشى ماشى در كنسرت Gonjeshkake ashi mashi Hani band live konsert · https://www.youtube.com/watch?v=KGsZ7-dK6Ng · https://t.me/hani_mojtahedi/53
+- Hani Mojtahedy - çon ne nalê هانی موجتهیدی چون نەناڵێ · https://www.youtube.com/watch?v=yGAB8dhXoiU · https://t.me/hani_mojtahedi/170
+- هانى مجتهيدى - له فيلمى بێ نشتیمان Hani mojtahedy - in Landless film · https://www.youtube.com/watch?v=d-JrezgIWX4 · https://t.me/hani_mojtahedi/190
+- Hani mojtahedy - Sengî Hewaran in Berlin هانی مجتهیدی ـ سەنگی هەواران لە برلین · https://www.youtube.com/watch?v=MLL3ted9_5k · https://t.me/hani_mojtahedi/48
+- Hani Mojtahedy - Teniyayi (Live Version) · https://www.youtube.com/watch?v=4W_UVyGDsf4 · https://t.me/hani_mojtahedi/178
+- Hani Mojtahedy - Hjirok هانى مجتهدى - هژيروك · https://www.youtube.com/watch?v=1SIy9CNIaIc · https://t.me/hani_mojtahedi/215
+- Hani Mojtahedy - MANG Project (Live in studio) · https://www.youtube.com/watch?v=CSHU0DKCynA
+- Hani Mojtahedy - çamsyaw gyan Remex · https://www.youtube.com/watch?v=cpOAb70gePU · https://t.me/hani_mojtahedi/169
+- Hani mojtahedy - hasti xnkawهانى مجتهدى - هه ستى خنكاو · https://www.youtube.com/watch?v=CA16ZCqLMqo · https://t.me/hani_mojtahedi/194
+- Hani-Mirage · https://www.youtube.com/watch?v=hW69XdZl5mE
+- hani mojtahedy - kolan ba kolan هانی مجتهدی - کولان بە کولان · https://www.youtube.com/watch?v=cwj9Yy6h_GI · https://t.me/hani_mojtahedi/162
+- Hani Mojtahedy(ft. Majid Kazemi)-An Improvisation · https://www.youtube.com/watch?v=fvccLPhJLa4
+- Future East Festival | Hani Mojtahedy · https://soundcloud.com/refugeworldwide/future-east-festival-hani
+- HJirok - The Mother of O · 
+- The Earth · 
+- Azadi · https://t.me/hani_mojtahedi/91
+- Peshmerga · https://www.youtube.com/watch?v=sZxRH8ZSkkI
+- Aşîyanê (Kurdisches Filmfestival) · https://t.me/hani_mojtahedi/100
+- Yady Salan (Kurdisches Filmfestival) · https://t.me/hani_mojtahedi/101
+- Displaced/Replaced · https://t.me/hani_mojtahedi/97
+- Together (Pekewe) · https://t.me/hani_mojtahedi/158
+- Cinderella · 
+- Sangi Hawaran · 
+- Besse · 
+- Tenagem · 
+- Shew Ta Beyani · 
+- 1&2 · 
+- Emshew · 
+- Hey Wax · 
+- Bimsharewe · https://t.me/hani_mojtahedi/96
+- Chon · 
+- Bizir · 
+- Na Bo Sutan · 
+- Chawerwani · 
+- Gulbarin · 
+- Çendî Geram Le Şaran · https://www.youtube.com/watch?v=i3YYWRpesHo
+- Hani mojtahedy singing Persian with Babylon orchestra هانى مجتهدى - ترانه فارسى · https://www.youtube.com/watch?v=6IiaGCObQLM
+- Hani Mojtahedy newroz concert in slemani · https://www.youtube.com/watch?v=q1Ksq1Y4AG4
+- Hani mojtahedy هاني مجتهدى - قرديلەی لەیلا قاسمم · https://www.youtube.com/watch?v=01NB2-RBc8k

@@ -43,3 +43,9 @@ statements:
       quote: Yara Mi
       locator: Track 8
       accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/64FeBoxaufJzMs8yRjLgpx
+    references:
+    - source: open.spotify.com-track-64feboxaufjzms8yrjlgpx
+      quote: Yara Mi
+      locator: Matched release and credited artists
+      accessed: '2026-11-21'

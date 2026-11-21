@@ -49,3 +49,9 @@ statements:
       quote: Cindrella
       locator: Matched Spotify track
       accessed: '2026-11-21'
+  - value: https://www.youtube.com/watch?v=jCpo4FzRifc
+    references:
+    - source: www.youtube.com-oembed-jcpo4fzrifc
+      quote: Hanî - Cinderella  هانی - ساندریلا
+      locator: Archived Hani channel upload
+      accessed: '2026-11-21'

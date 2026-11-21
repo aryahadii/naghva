@@ -61,3 +61,21 @@ statements:
       quote: Nour (feat. Hani Mojtahedy)
       locator: Track 1
       accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/1H1lKC2G94HJ0qtSTlS8We
+    references:
+    - source: open.spotify.com-track-1h1lkc2g94hj0qtstls8we
+      quote: Nour
+      locator: Matched release and credited artists
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/5S6ABji3DUqg8XtHPti5Yi
+    references:
+    - source: open.spotify.com-track-5s6abji3duqg8xthpti5yi
+      quote: Nour
+      locator: Matched release and credited artists
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/1VqDh3YYyLa70LaXknTKsl
+    references:
+    - source: open.spotify.com-track-1vqdh3yyyla70laxkntksl
+      quote: Nour
+      locator: Matched release and credited artists
+      accessed: '2026-11-21'
