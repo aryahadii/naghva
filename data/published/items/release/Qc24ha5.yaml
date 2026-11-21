@@ -1,0 +1,73 @@
+id: Qc24ha5
+type: release
+statements:
+  name:
+  - value:
+      text: Khorshidee Ham Hast
+      language: en
+    references:
+    - source: music.apple.com-us-album-baaz-ham-meegooyeem-aareh-1500095417
+      quote: Khorshidee Ham Hast
+      accessed: '2026-11-21'
+      locator: Digital edition track 5
+  release date:
+  - value:
+      date: '2009'
+    references:
+    - source: musishen.com
+      quote: '2009'
+      accessed: '2026-11-21'
+      locator: Artist discography, Baaz Ham Meegooyeem Aareh
+  performer:
+  - value: Qavhs3y
+    references:
+    - source: music.apple.com-us-album-baaz-ham-meegooyeem-aareh-1500095417
+      quote: Shen Band
+      accessed: '2026-11-21'
+      locator: Release billing
+  - value: Qec6smv
+    references:
+    - &id001
+      source: musishen.com
+      quote: write, compose, arrange, perform and produce seven collections
+      accessed: '2026-11-21'
+      locator: Artist biography, dated catalogue or interview
+  contributor:
+  - value: Qec6smv
+    references:
+    - *id001
+    qualifiers:
+      role:
+      - composer
+      - arranger
+      - producer
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/c5/b5/e6/c5b5e68d-4821-299b-65fc-67bd8e2e915e/194660069580.jpg/1200x630wp-60.jpg
+    references:
+    - source: music.apple.com-us-album-baaz-ham-meegooyeem-aareh-1500095417
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/c5/b5/e6/c5b5e68d-4821-299b-65fc-67bd8e2e915e/194660069580.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Original release cover
+    qualifiers:
+      credit:
+        text: Shen Band, Apple Music edition artwork
+        language: en
+  listen link:
+  - value: https://music.apple.com/us/song/khorshidee-ham-hast/1500095427
+    references:
+    - source: music.apple.com-us-album-baaz-ham-meegooyeem-aareh-1500095417
+      quote: https://music.apple.com/us/song/khorshidee-ham-hast/1500095427
+      accessed: '2026-11-21'
+      locator: Apple Music exact song
+  - value: https://open.spotify.com/track/5gl7WTa6E3AXYL40Moi2Qa
+    references:
+    - source: open.spotify.com-embed-album-1c8patjsegekjstkryohcr
+      quote: spotify:track:5gl7WTa6E3AXYL40Moi2Qa
+      accessed: '2026-11-21'
+      locator: Spotify exact song
+  - value: https://www.youtube.com/watch?v=5Jfc3BTMwlc
+    references:
+    - source: www.youtube.com-playlist-list-olak5uy_nvr5g9eaoocnsp5nynwrbmpcouqukjcsm
+      quote: 5Jfc3BTMwlc
+      accessed: '2026-11-21'
+      locator: Official album track 5

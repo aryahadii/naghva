@@ -110,12 +110,44 @@ references:
     quote: lead break in the middle.
     accessed: 2026-11-21
     locator: Host programme or concert report
+  bare:
+    source: iranian-com-blurred-vision-silent-rain
+    quote: a guitar, sans strings
+    accessed: 2026-11-21
+    locator: Early guitar lessons and vocals
+  finger:
+    source: iranian-com-blurred-vision-silent-rain
+    quote: carefully observe the guitarist's finger positioning
+    accessed: 2026-11-21
+    locator: Early guitar lessons and vocals
+  borrow:
+    source: iranian-com-blurred-vision-silent-rain
+    quote: borrow friends or family to sing their songs
+    accessed: 2026-11-21
+    locator: Early guitar lessons and vocals
+  lead:
+    source: iranian-com-blurred-vision-silent-rain
+    quote: I wanted to perfect my instrument before singing.
+    accessed: 2026-11-21
+    locator: Early guitar lessons and vocals
+  earlysingle:
+    source: musomuso.com-news-dear-john-release-official-anthem-by-blurred-vision-amp-mollie-marriott-featuring-peter-frampton
+    quote: Blurred Vision & Mollie Marriott featuring Peter Frampton
+    accessed: 2026-11-21
+    locator: Original single billing
+  issued:
+    source: musomuso.com-news-dear-john-release-official-anthem-by-blurred-vision-amp-mollie-marriott-featuring-peter-frampton
+    quote: October 5, 2021
+    accessed: 2026-11-21
+    locator: Release announcement
 ---
 
 Sepp Osley was born in Iran during the Iran–Iraq war and moved with his family to Canada. His first glimpse of a rock concert came through the railings of a Toronto amusement park. He was seven or eight and barely spoke English. Years later his older brother told him that the band they had stopped to hear was INXS.[^birth][^move][^rails][^inxs]
+
+Before he had strings on his guitar, Osley learned his way around its neck by copying the hand positions he saw in rock videos. When he and his brother began writing together, they asked friends and family to sing. Osley said he wanted to learn the instrument properly before taking the microphone himself.[^bare][^finger][^borrow][^lead]
 
 With his brother Sohl on bass, Osley founded Blurred Vision. When he ended the band in 2023, he kept one of its songs in his live set. His first solo EP, *Love and Revolution*, includes a London performance of their Pink Floyd adaptation “Hey Ayatollah Leave Those Kids Alone”. On “Warmaker” he brought together Nick Van Eede of Cutting Crew and Russian singer Boris Grebenshikov. The following year he released “Sing”, a song celebrating the women who led the protests in Iran.[^band][^end][^debut][^live][^warm][^boris][^sing]
 
 ## Two versions of Dear John
 
-Osley founded the *Dear John* benefit for War Child UK in 2019. At the 2020 edition he sang the title song with Van Eede.[^found][^nick] In 2021 Osley and Marriott produced a broadcast that combined performances from Under the Bridge in Chelsea with guest recordings from around the world. When Jo Harman sang “Jealous Guy” in London, Osley stepped forward for the guitar break.[^joint][^bridge][^remote][^break] For the 2025 version he invited Peter Frampton to play guitar and Mollie Marriott to sing. Drummer Jake Bradford Sharp arranged a string quartet for the recording. Both performances are on *Dear John (Collaborations)*, alongside songs by Lennon and the Beatles. Osley’s own edition has seventeen tracks, four more than the streaming album.[^benefit][^nick][^solo][^strings][^count][^stream]
+Osley founded the *Dear John* benefit for War Child UK in 2019. At the 2020 edition he sang the title song with Van Eede.[^found][^nick] In 2021 Osley and Mollie Marriott produced a broadcast that combined performances from Under the Bridge in Chelsea with guest recordings from around the world. When Jo Harman sang “Jealous Guy” in London, Osley stepped forward for the guitar break.[^joint][^bridge][^remote][^break] Blurred Vision and Marriott also released a charity single with Peter Frampton in October 2021.[^earlysingle][^issued] The 2025 album credits Frampton on guitar, Marriott on vocals and Jake Bradford Sharp with the string quartet arrangement. Their track and Osley’s 2020 duet with Van Eede are on *Dear John (Collaborations)*, alongside songs by Lennon and the Beatles. Osley’s own edition has seventeen tracks, four more than the streaming album.[^benefit][^nick][^solo][^strings][^count][^stream]

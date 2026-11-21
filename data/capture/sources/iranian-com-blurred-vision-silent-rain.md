@@ -30,3 +30,19 @@ status: processed
 > Each of the eight tracks on Silent Rain
 
 > available exclusively through the band's website
+
+> a guitar, sans strings
+
+Sepp on guitar and singing, September 2003 interview.
+
+> carefully observe the guitarist's finger positioning
+
+Sepp on guitar and singing, September 2003 interview.
+
+> borrow friends or family to sing their songs
+
+Sepp on guitar and singing, September 2003 interview.
+
+> I wanted to perfect my instrument before singing.
+
+Sepp on guitar and singing, September 2003 interview.

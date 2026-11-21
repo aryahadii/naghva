@@ -110,12 +110,44 @@ references:
     quote: lead break in the middle.
     accessed: 2026-11-21
     locator: Host programme or concert report
+  bare:
+    source: iranian-com-blurred-vision-silent-rain
+    quote: a guitar, sans strings
+    accessed: 2026-11-21
+    locator: Early guitar lessons and vocals
+  finger:
+    source: iranian-com-blurred-vision-silent-rain
+    quote: carefully observe the guitarist's finger positioning
+    accessed: 2026-11-21
+    locator: Early guitar lessons and vocals
+  borrow:
+    source: iranian-com-blurred-vision-silent-rain
+    quote: borrow friends or family to sing their songs
+    accessed: 2026-11-21
+    locator: Early guitar lessons and vocals
+  lead:
+    source: iranian-com-blurred-vision-silent-rain
+    quote: I wanted to perfect my instrument before singing.
+    accessed: 2026-11-21
+    locator: Early guitar lessons and vocals
+  earlysingle:
+    source: musomuso.com-news-dear-john-release-official-anthem-by-blurred-vision-amp-mollie-marriott-featuring-peter-frampton
+    quote: Blurred Vision & Mollie Marriott featuring Peter Frampton
+    accessed: 2026-11-21
+    locator: Original single billing
+  issued:
+    source: musomuso.com-news-dear-john-release-official-anthem-by-blurred-vision-amp-mollie-marriott-featuring-peter-frampton
+    quote: October 5, 2021
+    accessed: 2026-11-21
+    locator: Release announcement
 ---
 
 سپ آزلی در سال‌های جنگ ایران و عراق در ایران به دنیا آمد و در کودکی همراه خانواده‌اش به کانادا رفت. اولین کنسرت راک زندگی‌اش را از پشت نرده‌های یک شهربازی در تورنتو دید. هفت یا هشت سال داشت و هنوز چندان انگلیسی نمی‌دانست. سال‌ها بعد، برادر بزرگ‌ترش به او گفت گروهی که آن روز برای شنیدنش ایستاده بودند INXS بوده است.[^birth][^move][^rails][^inxs]
+
+آزلی پیش از آنکه روی گیتارش سیم بیندازد، دست نوازنده‌ها را در ویدئوهای راک نگاه می‌کرد و جای انگشتانشان را روی دستهٔ ساز پیدا می‌کرد. وقتی با برادرش آهنگ می‌ساخت، اوایل از دوستان و بستگانشان می‌خواستند ترانه‌ها را بخوانند. خودش گفته است می‌خواست اول گیتار را خوب یاد بگیرد و بعد خوانندگی را هم بر عهده بگیرد.[^bare][^finger][^borrow][^lead]
 
 آزلی همراه برادرش سول، نوازندهٔ باس، گروه Blurred Vision را راه انداخت. وقتی در سال ۲۰۲۳ به فعالیت گروه پایان داد، یکی از ترانه‌های قدیمی‌شان را در برنامهٔ اجراهایش نگه داشت. در نخستین آلبوم کوتاهش «Love and Revolution» می‌توان اجرای لندنِ بازخوانی گروه از پینک فلوید، «Hey Ayatollah Leave Those Kids Alone»، را شنید. در «Warmaker» نیک ون اید از گروه Cutting Crew و بوریس گربنشیکوف، خوانندهٔ روس، با او هم‌خوانی کردند. آزلی سال بعد «Sing» را در ستایش زنانی منتشر کرد که پیشگام اعتراض‌های ایران بودند.[^band][^end][^debut][^live][^warm][^boris][^sing]
 
 ## دو اجرا از «Dear John»
 
-آزلی در سال ۲۰۱۹ مجموعه‌کنسرت‌های «Dear John» را به نفع کودکان جنگ‌زده راه انداخت. در دومین دوره، در سال ۲۰۲۰، ترانهٔ هم‌نام کنسرت را با ون اید خواند.[^found][^nick] در سال ۲۰۲۱ آزلی و مَریِت برنامه‌ای تهیه کردند که اجراهای سالن «Under the Bridge» در محلهٔ چلسی لندن را کنار ضبط‌های مهمانانی از کشورهای دیگر می‌گذاشت. در اجرای «Jealous Guy» با صدای جو هارمن در لندن، آزلی تک‌نوازی گیتار میانهٔ ترانه را بر عهده داشت.[^joint][^bridge][^remote][^break] در نسخهٔ ۲۰۲۵ پیتر فرامپتون گیتار زد، مالی مَریِت آواز خواند و جیک بردفورد شارپ برای کوارتت زهی تنظیم نوشت. هر دو اجرای «Dear John» در مجموعهٔ «Dear John (Collaborations)» در کنار ترانه‌هایی از لنون و بیتلز منتشر شدند. نسخه‌ای که آزلی از فروشگاه خودش عرضه کرد هفده قطعه دارد، چهار قطعه بیشتر از نسخهٔ پلتفرم‌های پخش.[^benefit][^nick][^solo][^strings][^count][^stream]
+آزلی در سال ۲۰۱۹ مجموعه‌کنسرت‌های «Dear John» را به نفع کودکان جنگ‌زده راه انداخت. در دومین دوره، در سال ۲۰۲۰، ترانهٔ هم‌نام کنسرت را با ون اید خواند.[^found][^nick] در سال ۲۰۲۱ آزلی و مالی مَریِت برنامه‌ای تهیه کردند که اجراهای سالن «Under the Bridge» در محلهٔ چلسی لندن را کنار ضبط‌های مهمانانی از کشورهای دیگر می‌گذاشت. در اجرای «Jealous Guy» با صدای جو هارمن در لندن، آزلی تک‌نوازی گیتار میانهٔ ترانه را بر عهده داشت.[^joint][^bridge][^remote][^break] در اکتبر ۲۰۲۱ گروه Blurred Vision و مَریِت تک‌آهنگی خیریه با همراهی پیتر فرامپتون منتشر کردند.[^earlysingle][^issued] در آلبوم سال ۲۰۲۵ نام فرامپتون برای گیتار، مَریِت برای آواز و جیک بردفورد شارپ برای تنظیم کوارتت زهی آمده است. این قطعه و اجرای مشترک آزلی و ون اید در سال ۲۰۲۰، در مجموعهٔ «Dear John (Collaborations)» در کنار ترانه‌هایی از لنون و بیتلز منتشر شدند. نسخه‌ای که آزلی از فروشگاه خودش عرضه کرد هفده قطعه دارد، چهار قطعه بیشتر از نسخهٔ پلتفرم‌های پخش.[^benefit][^nick][^solo][^strings][^count][^stream]

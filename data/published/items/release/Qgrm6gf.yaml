@@ -1,0 +1,83 @@
+id: Qgrm6gf
+type: release
+statements:
+  name:
+  - value:
+      text: Baaz Ham Meegooyeem Aareh
+      language: en
+    references:
+    - &id002
+      source: music.apple.com-us-album-baaz-ham-meegooyeem-aareh-1500095417
+      quote: Baaz Ham Meegooyeem Aareh
+      accessed: '2026-11-21'
+      locator: Distributor album title
+  - value:
+      text: باز هم می‌گوییم آره
+      language: fa
+    references:
+    - source: musishen.com
+      quote: باز هم می‌گوییم آره
+      accessed: '2026-11-21'
+      locator: Original Persian album title
+  release date:
+  - value:
+      date: '2009'
+    references:
+    - source: musishen.com
+      quote: '2009'
+      accessed: '2026-11-21'
+      locator: Artist discography, Baaz Ham Meegooyeem Aareh
+  performer:
+  - value: Qavhs3y
+    references:
+    - source: music.apple.com-us-album-baaz-ham-meegooyeem-aareh-1500095417
+      quote: Shen Band
+      accessed: '2026-11-21'
+      locator: Release billing
+  - value: Qec6smv
+    references:
+    - &id001
+      source: musishen.com
+      quote: write, compose, arrange, perform and produce seven collections
+      accessed: '2026-11-21'
+      locator: Artist biography, dated catalogue or interview
+  contributor:
+  - value: Qec6smv
+    references:
+    - *id001
+    qualifiers:
+      role:
+      - composer
+      - arranger
+      - producer
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/c5/b5/e6/c5b5e68d-4821-299b-65fc-67bd8e2e915e/194660069580.jpg/1200x630wp-60.jpg
+    references:
+    - source: music.apple.com-us-album-baaz-ham-meegooyeem-aareh-1500095417
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/c5/b5/e6/c5b5e68d-4821-299b-65fc-67bd8e2e915e/194660069580.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Original release cover
+    qualifiers:
+      credit:
+        text: Shen Band, Apple Music edition artwork
+        language: en
+  release type:
+  - value: album
+    references:
+    - *id002
+  listen link:
+  - value: https://music.apple.com/us/album/baaz-ham-meegooyeem-aareh/1500095417
+    references:
+    - *id002
+  - value: https://open.spotify.com/album/1c8paTjSEGekJsTkryOhCr
+    references:
+    - source: open.spotify.com-embed-album-1c8patjsegekjstkryohcr
+      quote: Baaz Ham Meegooyeem Aareh
+      accessed: '2026-11-21'
+      locator: Spotify album
+  - value: https://www.youtube.com/playlist?list=OLAK5uy_nvr5G9eaOocNsp5NYnwRBmPcOuqukJCsM
+    references:
+    - source: www.youtube.com-playlist-list-olak5uy_nvr5g9eaoocnsp5nynwrbmpcouqukjcsm
+      quote: Baaz Ham Meegooyeem Aareh
+      accessed: '2026-11-21'
+      locator: Official digital album playlist

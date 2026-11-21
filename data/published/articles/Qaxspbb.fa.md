@@ -80,6 +80,31 @@ references:
     quote: سنتور هشت‌خرکِ سه‌سیم از نتایج آن است
     accessed: 2026-11-21
     locator: Instrument design
+  song:
+    source: iroon.com-irtn-music-908
+    quote: 'موسیقی: بابک بوبان/ شعر: فرخ تمیمی'
+    accessed: 2026-11-21
+    locator: Separate original composition and poem credits
+  stage:
+    source: khaharanedarya.blogfa.com-1395-06-2
+    quote: یک قطعه عود و آواز با عنوان « روزی هزار بار » از بابک بوبان
+    accessed: 2026-11-21
+    locator: Concert piece and guest composer
+  voice:
+    source: rhythmitica.com-irans-leading-oud-player
+    quote: I asked him to come on stage to sing while I played the oud
+    accessed: 2026-11-21
+    locator: voice
+  orig:
+    source: rhythmitica.com-irans-leading-oud-player
+    quote: On the original recording (done years prior to the concert) I had the singing part myself.
+    accessed: 2026-11-21
+    locator: firstvoice
+  show:
+    source: www.negarbouban.com-taleforetold
+    quote: of a live stage-performance in Tehran, 2014.
+    accessed: 2026-11-21
+    locator: live
 ---
 
 بابک بوبان در ۱۳۵۰ در تهران به دنیا آمد. هنوز ده سالش نشده بود که پیش فرامرز پایور سنتور می‌آموخت. بوبان نوشته است که پایور پا‌به‌پای او پیش می‌رفت و درس‌ها را به خط خودش برایش می‌نوشت. اسم این دست‌نویس‌ها را گذاشته بود «ردیف بابک». چند سال بعد همان درس‌ها با عنوان «ردیف ابتدایی» منتشر شدند.[^birth][^pupil][^notes][^radif][^printed]
@@ -89,3 +114,5 @@ references:
 بوبان زبان‌شناسی خواند و برای یاد گرفتن تصنیف‌سازی پیش محمدرضا شجریان رفت. در آلبوم «بخوان» روی پنج شعر نیما یوشیج آهنگ گذاشت و خودش آن‌ها را خواند. سرور زره‌گر قطعه‌ها را برای تک‌نوازان سازهای بادی و گروه زهی تنظیم کرد. در «کار شب‌پا نه هنوزست تمام» ترکیب کوچک‌تر است. بابک آهنگ ساخت، خواند و سنتور زد. نگار بوبان هم آواز خواند و عود نواخت.[^studies][^shaj][^farsi][^strings][^role][^negar]
 
 در «سترون» که برای شنوندگان نوجوان ساخت، الگوی قصه‌گویی بخشی‌ها را به کار گرفت و داستان را با آواز و سنتور پیش برد. صدایش از راه دیگری هم به گوش نوجوانان رسید. برنامه‌های «کنسرت برای کودکان و نوجوانان» لئونارد برنستاین را به فارسی برگرداند و روایت کرد. در کنار این کارها، دربارهٔ کوک و ساختمان سنتور هم تحقیق کرد و سنتوری هشت‌خرک با سه سیم در هر ردیف ساخت.[^barren][^santur][^lecture][^name][^new]
+
+بابک قطعهٔ «روزی هزار بار» را برای عود و آواز روی شعری از فرخ تمیمی نوشت. در ضبط اولیه نگار آن را خواند. در کنسرت دی‌ماه ۱۳۹۲ در نیاوران، بابک آواز خواند و نگار عود زد. اجرای آن شب در مجموعهٔ صوتی و تصویری «داستانی نه تازه» منتشر شد.[^song][^stage][^voice][^orig][^show]

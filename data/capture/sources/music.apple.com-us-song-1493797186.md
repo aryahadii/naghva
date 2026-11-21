@@ -1,0 +1,14 @@
+---
+url: https://music.apple.com/us/song/1493797186
+title: ‎Pascal - Song with Lyrics by ArtSaves - Apple Music
+kind: web page
+language: en
+tier: discography
+about:
+- ArtSaves
+status: processed
+---
+
+> ‎Pascal - Song with Lyrics by ArtSaves - Apple Music
+
+Page title, read 2026-11-21.

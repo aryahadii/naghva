@@ -1,0 +1,63 @@
+id: Qs599f8
+type: release
+statements:
+  name:
+  - value:
+      text: GEt it
+      language: en
+    references:
+    - source: kopirecs.bandcamp.com-track-get-it
+      quote: GEt it | ArtSaves | Kopi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qw9zs9g
+    references:
+    - source: kopirecs.bandcamp.com-album-unref
+      quote: ArtSaves
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://kopirecs.bandcamp.com/track/get-it
+    references:
+    - source: kopirecs.bandcamp.com-track-get-it
+      quote: GEt it | ArtSaves | Kopi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1404205965
+    references:
+    - source: music.apple.com-us-song-1404205965
+      quote: ‎Get It - Song with Lyrics by ArtSaves - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/1BuiJ66h3SDEot5fINWJOA
+    references:
+    - source: open.spotify.com-track-1buij66h3sdeot5finwjoa
+      quote: GEt it - song and lyrics by ArtSaves | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/artsvs/get-it-1
+    references:
+    - source: soundcloud.com-artsvs-get-it-1
+      quote: Stream GEt it by ArtSaves | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a0263382756_10.jpg
+    references:
+    - source: kopirecs.bandcamp.com-track-get-it
+      quote: https://f4.bcbits.com/img/a0263382756_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Parnian Ghorbani
+        language: en
+  release date:
+  - value:
+      date: '2018-07-02'
+    references:
+    - source: kopirecs.bandcamp.com-track-get-it
+      quote: released July 2, 2018
+      accessed: '2026-11-21'
+      locator: Published date

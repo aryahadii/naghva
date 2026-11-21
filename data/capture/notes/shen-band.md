@@ -1,0 +1,93 @@
+# Shen Band / musiSHEN
+
+Hashemi’s artist site describes a single-author Montreal recording project and identifies the new billing introduced in October 2026. The 2017 interview names the concert lineup. The portrait is the artist at his microphone with an electric guitar on the group’s own live film, visually checked against the original 2017 portrait. The current Spotify profile shows a wordmark. The unrelated Jerusalem band, another Shen, was excluded.
+
+The seven albums on the artist’s present discography are matched, track by track, across Apple Music, Spotify and the official artist-linked YouTube album playlists. Dates use the artist’s original chronology instead of the later digital delivery. Alternative arrangements on the 2017 collection retain their own recordings. The 39 uploads on the artist channel were inspected. The interview, behind-the-scenes shoot and concert-review programme are contextual sources. Edited music videos or performances that cannot be securely identified as the exact album version are held separately. The contemporary reviewer identifies a 2011 compilation whose Apple ID 453524668 is now retired. The 2017 interview documents the English single, but both original video URLs in that article no longer return a video identity. The artist site does not link a SoundCloud, Telegram or Bandcamp catalogue; title and artist searches have not verified one.
+
+- Alternates (Q54a67m) · https://music.apple.com/us/album/alternates/1538865326 · https://open.spotify.com/album/6IlrBdWttNRMxuvG9R3w7m · https://www.youtube.com/playlist?list=OLAK5uy_nXQpkTjk-5_1sumRE80N0HdAj9a_zoWRs
+- Emshab Biyaa (Qwtmt9w) · https://music.apple.com/us/song/emshab-biyaa/1538865327 · https://open.spotify.com/track/7uV60RSh8EB1UIcnDwVnED · https://www.youtube.com/watch?v=t9VwoZ2zcr8
+- Ye Joreh Shirin Ye Joreh Sam (Qzhc5ed) · https://music.apple.com/us/song/ye-joreh-shirin-ye-joreh-sam/1538865328 · https://open.spotify.com/track/4FPG2PcN4zHJN4MJ8I6zMk · https://www.youtube.com/watch?v=3EojrfXL7HQ
+- Ageh Beh Man Bood (Q4d8amq) · https://music.apple.com/us/song/ageh-beh-man-bood/1538865329 · https://open.spotify.com/track/1C0LWaKQKwqEKZL27QIuxz · https://www.youtube.com/watch?v=cocliHcWlmI
+- Meelarzam (Qdbgjen) · https://music.apple.com/us/song/meelarzam/1538865330 · https://open.spotify.com/track/1yZiZPfyh3wgGvEdl6LNO3 · https://www.youtube.com/watch?v=SRYpygOmSN4
+- Nemidaanand (Qzyfxeg) · https://music.apple.com/us/song/nemidaanand/1538865331 · https://open.spotify.com/track/5urMdz0aD16305NhXYPPkD · https://www.youtube.com/watch?v=j3UEtN-q0pY
+- Naabaalegh (Qzkbgj3) · https://music.apple.com/us/song/naabaalegh/1538865332 · https://open.spotify.com/track/6ucaBMeqpoawyWihZkCXU4 · https://www.youtube.com/watch?v=MKOj7XiWRl4
+- Sooyeh Aarezoohaa (Qwf5bc7) · https://music.apple.com/us/song/sooyeh-aarezoohaa/1538865333 · https://open.spotify.com/track/3u0QTNmkxHV7Gt5cvvsTxH · https://www.youtube.com/watch?v=fkCBZ-5dtoA
+- Siyaah (Qqytmva) · https://music.apple.com/us/song/siyaah/1538865334 · https://open.spotify.com/track/4VJxgoLYmtWIcOrCtsNwau · https://www.youtube.com/watch?v=gj8D0-iYWrU
+- Naamareehaa: The Invisible(S) (Qrc6q8m) · https://music.apple.com/us/album/naamareehaa-the-invisible-s/1529196430 · https://open.spotify.com/album/2ddPjzerGWd0tDiyeXpWN9 · https://www.youtube.com/playlist?list=OLAK5uy_lyEGKBvW7hk0LVXK1f8PhuO7BZRqkdSBM
+- Naamareehaa 1 (Qaqh62m) · https://music.apple.com/us/song/naamareehaa-1/1529196431 · https://open.spotify.com/track/1yk07KIvsCs1FO8lshFZmm · https://www.youtube.com/watch?v=AhHERmX4Ir8
+- Aaghaazeh Fasli Taazeh (Qzet646) · https://music.apple.com/us/song/aaghaazeh-fasli-taazeh/1529196432 · https://open.spotify.com/track/2T4MJYXgZMqcfV6iUDurGj · https://www.youtube.com/watch?v=A1ZN7wFXoKI · https://www.youtube.com/watch?v=8dWuZDmpxek
+- Shaayad In Zarabaat (Q5tgd4a) · https://music.apple.com/us/song/shaayad-in-zarabaat/1529196433 · https://open.spotify.com/track/4KHpTbXs72P9XuUX7FsfiL · https://www.youtube.com/watch?v=HM6xdAF1b34
+- Rangin-Kamaanhaayeh Sepid O Siyaah (Q5qv3bh) · https://music.apple.com/us/song/rangin-kamaanhaayeh-sepid-o-siyaah/1529196434 · https://open.spotify.com/track/3uLwGnKBP97QrLg69rLPRd · https://www.youtube.com/watch?v=tjNnASg_En0
+- Door Sho (Qrj3zc6) · https://music.apple.com/us/song/door-sho/1529196435 · https://open.spotify.com/track/1pqLAmSTqdTHyQOPFRRdTK · https://www.youtube.com/watch?v=AqizEU2uVA8
+- Mikhaanam Hamisheh Hamisheh (Qq8qzat) · https://music.apple.com/us/song/mikhaanam-hamisheh-hamisheh/1529196436 · https://open.spotify.com/track/4tmx9m0Mxg8AoOzo3msI1W · https://www.youtube.com/watch?v=Jocbd3IvvXY
+- Baed Az Faryaadhaa (Q6m6my8) · https://music.apple.com/us/song/baed-az-faryaadhaa/1529196437 · https://open.spotify.com/track/6z2PSjTUTxTanVrwJA3UuM · https://www.youtube.com/watch?v=CCYesHMlM_I
+- Naamareehaa 2 (Instrumental) (Qsqhp5s) · https://music.apple.com/us/song/naamareehaa-2-instrumental/1529196438 · https://open.spotify.com/track/2kxmwh5UyZYtzSoQ5w4LmZ · https://www.youtube.com/watch?v=8DbkKcLSHpY
+- Nemidaanand (Qdwb6dm) · https://music.apple.com/us/album/nemidaanand/1523604397 · https://open.spotify.com/album/0bPZLZu5GDwsvsKAMvBHzC · https://www.youtube.com/playlist?list=OLAK5uy_l5GhLhmMb4pHTf9G-YyTGqb8tqlURxli0
+- Meelarzam (Qers7ax) · https://music.apple.com/us/song/meelarzam/1523604398 · https://open.spotify.com/track/4Mps2JGrSgYIQEG0TIVJ8m · https://www.youtube.com/watch?v=fS9QuZn-Qz0
+- Lahzeyee (Q9ehh6w) · https://music.apple.com/us/song/lahzeyee/1523604399 · https://open.spotify.com/track/6CITqu8bP2EGwytBULflA4 · https://www.youtube.com/watch?v=WpUWzFEfIgg
+- Ageh Beh Man Bood (Qk8p486) · https://music.apple.com/us/song/ageh-beh-man-bood/1523604400 · https://open.spotify.com/track/54xGTwwjtI5KcVmz1INx9k · https://www.youtube.com/watch?v=YdWCyvZPL-Q
+- Abadiyat Kameh (Qvezzdr) · https://music.apple.com/us/song/abadiyat-kameh/1523604401 · https://open.spotify.com/track/0BS3jF6KzqOC63lQY0qn30 · https://www.youtube.com/watch?v=rqm4_Zbz_ck · https://www.youtube.com/watch?v=gHyucmS89X0
+- Peydaa (Qsmrds8) · https://music.apple.com/us/song/peydaa/1523604402 · https://open.spotify.com/track/3Wh83EcJlJfdzvkRVYAtrb · https://www.youtube.com/watch?v=-ekK4WOjF9A
+- Beegharaar (Q6hb72x) · https://music.apple.com/us/song/beegharaar/1523604403 · https://open.spotify.com/track/2DDywcqRzGIF5NK5wyuTVh · https://www.youtube.com/watch?v=A0sKCaIzZ6o · https://www.youtube.com/watch?v=D3wEXujRVcQ
+- Nemidaanand (Qaj7vam) · https://music.apple.com/us/song/nemidaanand/1523604404 · https://open.spotify.com/track/59ZBQjYXu4tMaoGfvPoxnt · https://www.youtube.com/watch?v=KII1RQhx_50
+- Sooyeh Aarezoohaa (Qhbhs27) · https://music.apple.com/us/song/sooyeh-aarezoohaa/1523604405 · https://open.spotify.com/track/4XQI1vBhGorLgRLHnKmCZa · https://www.youtube.com/watch?v=D9mCb8Mg3PE
+- Baavarhaa (Qmw8gf2) · https://music.apple.com/us/album/baavarhaa/1520575104 · https://open.spotify.com/album/4lAknAJ9u9BIwgwonuLZ9p · https://www.youtube.com/playlist?list=OLAK5uy_mkg65DROfNZeBa3kF6QfdZTNQfjwx95Ek
+- Roozhaayeh Man (Q2ahw2v) · https://music.apple.com/us/song/roozhaayeh-man/1520575105 · https://open.spotify.com/track/6owvjjUGVFz3vPoTXdZWNs · https://www.youtube.com/watch?v=Cpl3rkBezw0
+- Goleh Eshgheh Maa (Qfpn8eg) · https://music.apple.com/us/song/goleh-eshgheh-maa/1520575106 · https://open.spotify.com/track/0BPcxVnJI9NWv5Bx55LrIV · https://www.youtube.com/watch?v=mXvxIdDflQg
+- Tanhaa Begeryam Tanhaa Bebaaram (Qwxnz3t) · https://music.apple.com/us/song/tanhaa-begeryam-tanhaa-bebaaram/1520575107 · https://open.spotify.com/track/2JYri4yKKM9ZzzeYQ77vvK · https://www.youtube.com/watch?v=lV6q1nZVk00
+- Donbaaleh Javaab (Q9cvb8z) · https://music.apple.com/us/song/donbaaleh-javaab/1520575108 · https://open.spotify.com/track/1NJ1PwRmHbZqELLLAJ4kDS · https://www.youtube.com/watch?v=UIs_ttmLbhM
+- Naabaalegh (Q6awh63) · https://music.apple.com/us/song/naabaalegh/1520575109 · https://open.spotify.com/track/6ECzv29ZSfl27btxPYx0y3 · https://www.youtube.com/watch?v=wMuKyC-8IJU · https://www.youtube.com/watch?v=A0AxL5hkOWE
+- Shostoshoo (Q6trkcd) · https://music.apple.com/us/song/shostoshoo/1520575110 · https://open.spotify.com/track/26pFkNktADl4X8Srw8Aryi · https://www.youtube.com/watch?v=5V1tF1XKEwA
+- Na Na Na (Qav8wm7) · https://music.apple.com/us/song/na-na-na/1520575111 · https://open.spotify.com/track/1hOxm53dxj7G1CVavUj8xX · https://www.youtube.com/watch?v=PqwN5MfJOWc
+- Keh Bood Keh Goft (Qd3j7r4) · https://music.apple.com/us/song/keh-bood-keh-goft/1520575112 · https://open.spotify.com/track/2EeDVNVAtgAZSmQjHcpWrp · https://www.youtube.com/watch?v=FlV10U6Ks_U
+- Beedaleelhaa (Qga54rd) · https://music.apple.com/us/song/beedaleelhaa/1520575113 · https://open.spotify.com/track/6qaaOO6t7491QSlwFqhDSJ · https://www.youtube.com/watch?v=ME1ehR1x5VE
+- I'm Here (Q5c5evk) · https://music.apple.com/us/album/im-here/1509703091 · https://open.spotify.com/album/3jwua6xwA5giJcRbLg54J3 · https://www.youtube.com/playlist?list=OLAK5uy_mIsWYJWCiOjco1G7fq7tFMBYf0GdKZfPI
+- Ba'ed Az Toe (Qfsdez5) · https://music.apple.com/us/song/baed-az-toe/1509703092 · https://open.spotify.com/track/6b99jixerskoeHHjZvDPfv · https://www.youtube.com/watch?v=0mk2mOWv-Fg · https://www.youtube.com/watch?v=j4rSagJNa04
+- Man Hanooz Hamoonam (Q4578kh) · https://music.apple.com/us/song/man-hanooz-hamoonam/1509703093 · https://open.spotify.com/track/55s3OtDa9XzrcOUpDZSKXZ · https://www.youtube.com/watch?v=TAX2qBDd_fc
+- Shekastanihaa (Q7gm8cd) · https://music.apple.com/us/song/shekastanihaa/1509703094 · https://open.spotify.com/track/7eFuz5F3ffDO2CTSRApQEA · https://www.youtube.com/watch?v=FOEobUevQlc
+- Man Injaam / Donyaa Saaket Neshasteh (Qtke9ak) · https://music.apple.com/us/song/man-injaam-donyaa-saaket-neshasteh/1509703095 · https://open.spotify.com/track/64i0xQsxkC2uOd7nevunek · https://www.youtube.com/watch?v=vR4_VRjXS4s
+- Ghesmat Joon (Qjsd544) · https://music.apple.com/us/song/ghesmat-joon/1509703096 · https://open.spotify.com/track/1MBDuYMoUMU1WLHVvH4pfl · https://www.youtube.com/watch?v=mu-AfMlaUy0
+- Aahang-Ar (Qtxgsqr) · https://music.apple.com/us/song/aahang-ar/1509703097 · https://open.spotify.com/track/16DFEDXYKT1Q5uf7mhD6Lc · https://www.youtube.com/watch?v=0BL9RMxcokU
+- Daaneshmandeh Divaaneh Dar Aazmaayeshgaah (Qywfjhc) · https://music.apple.com/us/song/daaneshmandeh-divaaneh-dar-aazmaayeshgaah/1509703098 · https://open.spotify.com/track/1T5Lg7aQmw0ZBm4hy10buj · https://www.youtube.com/watch?v=Ws4IFl2jpAU
+- Joz Aan Keh Ma Raa Intor Saakhteh (Q82b3mw) · https://music.apple.com/us/album/joz-aan-keh-ma-raa-intor-saakhteh/1501964341 · https://open.spotify.com/album/6pJ0ybOh6V2RXJEeoyCO52 · https://www.youtube.com/playlist?list=OLAK5uy_nAGiE4Vn5lXUppAKvhWgU9opVyQ_q8y9Q
+- Ye Joreh Shirin Ye Joreh Sam (Q5cczk4) · https://music.apple.com/us/song/ye-joreh-shirin-ye-joreh-sam/1501964342 · https://open.spotify.com/track/3Ki3pfvjM4PeCoUJOGiuPK · https://www.youtube.com/watch?v=bq9yUuaFbwc
+- Toe Raa Khaastan (Qrt587r) · https://music.apple.com/us/song/toe-raa-khaastan/1501964343 · https://open.spotify.com/track/6aXn4ScxM47rHOSM0YJFIx · https://www.youtube.com/watch?v=V7zcptBOQeg · https://www.youtube.com/watch?v=XNiNXp6xiIE
+- Raghs Zooraki Raghs (Qaen3mr) · https://music.apple.com/us/song/raghs-zooraki-raghs/1501964344 · https://open.spotify.com/track/5EJxmrXHq60Qc5HX6298Vr · https://www.youtube.com/watch?v=EaxzPVAPDFE
+- Joz Aan Keh Ma Raa Intor Saakhteh (Q5mpbt4) · https://music.apple.com/us/song/joz-aan-keh-ma-raa-intor-saakhteh/1501964345 · https://open.spotify.com/track/3m1x5gedxGpUjoJ7jyV32N · https://www.youtube.com/watch?v=pn4vf1ADcok
+- Shansi Chand Taa Kish (Qwv2fx7) · https://music.apple.com/us/song/shansi-chand-taa-kish/1501964526 · https://open.spotify.com/track/4zDv5ncITaRnkkC2hmCJjK · https://www.youtube.com/watch?v=mGi42wNx7Uw · https://www.youtube.com/watch?v=c7nPMTrAAN4
+- Yek Adad Gheychee (Qpnxfyj) · https://music.apple.com/us/song/yek-adad-gheychee/1501964527 · https://open.spotify.com/track/15htgfdRMpNQMVZDTvlrna · https://www.youtube.com/watch?v=10SwAIz53iE
+- Manam Sabz O Sepid O Sorkh (Qcqp38p) · https://music.apple.com/us/song/manam-sabz-o-sepid-o-sorkh/1501964528 · https://open.spotify.com/track/0KcDHoemXYd4GBQlakdA1J · https://www.youtube.com/watch?v=ShWK3XBKnQw
+- Baaz Ham Meegooyeem Aareh (Qgrm6gf) · https://music.apple.com/us/album/baaz-ham-meegooyeem-aareh/1500095417 · https://open.spotify.com/album/1c8paTjSEGekJsTkryOhCr · https://www.youtube.com/playlist?list=OLAK5uy_nvr5G9eaOocNsp5NYnwRBmPcOuqukJCsM
+- Baaz Ham Meegooyeem Aareh (Qdxgvxw) · https://music.apple.com/us/song/baaz-ham-meegooyeem-aareh/1500095423 · https://open.spotify.com/track/0SKtm6Gvrrwbuhb53YhyAq · https://www.youtube.com/watch?v=N6gt4Eosq9U
+- Emshab Biyaa (Qqayz4s) · https://music.apple.com/us/song/emshab-biyaa/1500095424 · https://open.spotify.com/track/0kNf3hDV4t2fQIOMK0HNHr · https://www.youtube.com/watch?v=PYlxqTvrDSg
+- Haftireh Sard (Qkrkz87) · https://music.apple.com/us/song/haftireh-sard/1500095425 · https://open.spotify.com/track/7tZTOBmuxgagh9KNjVUUT7 · https://www.youtube.com/watch?v=z2L_qGtD0QU · https://www.youtube.com/watch?v=RnvNvfzucWQ
+- Donyaa Saaket Neshasteh (Qkswsgk) · https://music.apple.com/us/song/donyaa-saaket-neshasteh/1500095426 · https://open.spotify.com/track/6wqMCgX3pcodLu15Uy7cjY · https://www.youtube.com/watch?v=AMfBZYk7vr0
+- Khorshidee Ham Hast (Qc24ha5) · https://music.apple.com/us/song/khorshidee-ham-hast/1500095427 · https://open.spotify.com/track/5gl7WTa6E3AXYL40Moi2Qa · https://www.youtube.com/watch?v=5Jfc3BTMwlc
+- Mesleh Yek Koodak (Qnvmcc2) · https://music.apple.com/us/song/mesleh-yek-koodak/1500095428 · https://open.spotify.com/track/38673T0GoWrObGCnuWJSUs · https://www.youtube.com/watch?v=2wvOE9929zg
+- Beeshtar Az In Faraamoosh (Qkz2kxa) · https://music.apple.com/us/song/beeshtar-az-in-faraamoosh/1500095429 · https://open.spotify.com/track/7wMh517RJ7Mw7SY1O1mQ93 · https://www.youtube.com/watch?v=cAjyjix7xzg
+- Aasheghaa Penhoonan (Qgnvgtt) · https://music.apple.com/us/song/aasheghaa-penhoonan/1500095430 · https://open.spotify.com/track/7tveMWSrLiFLNoxkxpQESy · https://www.youtube.com/watch?v=E06R2idEq6I
+- Shen Band - Rehearsal in B Sharp - گروه شن - تمرین در استودیو (Qz5r2ea) · https://www.youtube.com/watch?v=Quf7qJtKBss
+- Shen Band - گروه شن - آهنگ-ر(نسخه کوتاه) (Qfktcm6) · https://www.youtube.com/watch?v=CpEvyR5xjgo
+- Shen Band - "group practice"  - (?) -  "گروه شن - تمرین "گروهی (Q4ex88y) · https://www.youtube.com/watch?v=JEvaiM1TwgY
+- Shen Band - And the world sits idly by - دنیا ساکت نشسته (Q2pegtk) · https://www.youtube.com/watch?v=BMLx58oE8Gk
+- Shen Band - Fragile (cover) - گروه شن (Qzbebpp) · https://www.youtube.com/watch?v=CFOgHZ0PQjg
+- Shen Band - گروه شن - خورشیدی هم هست (نسخه کوتاه) (Qc7j94y) · https://www.youtube.com/watch?v=NyIlwH87Z0A
+- Shen Band - (نسخه کوتاه)  گروه شن - نه نه نه (Qd464g2) · https://www.youtube.com/watch?v=ZKmsSYAYFkM
+- Shen Band - گروه شن - شاید این ضربات (Qr5fh3r) · https://www.youtube.com/watch?v=_xtIt-kW89Y
+- Shen Band - گروه شن - آسیب پذیر (Qmwy5m4) · https://www.youtube.com/watch?v=HxkJjdD8rG0
+- Shen Band - گروه شن - سیاه (Qq7vtmc) · https://www.youtube.com/watch?v=5k1jxlMo77E
+- Shen Band - گروه شن - امشب بیا (Qjtg882) · https://www.youtube.com/watch?v=lBitQtOUvnY
+- Shen Band - گروه شن - میلرزم (Qffghwr) · https://www.youtube.com/watch?v=r9JBo94DcS4
+- Shen Band - گروه شن - یک جرعه شیرین یک جرعه سم (Qy84698) · https://www.youtube.com/watch?v=5IoSLvzNHqY
+- Shen Band - Quarantine Blues گروه شن (Q652xgn) · https://www.youtube.com/watch?v=SVv3vl_rXwo
+- Shen Band "live" - The Invisible(s) نامرئی ها (Qqw65nh) · https://www.youtube.com/watch?v=NGdh9UkCudY
+- Shen Band (live video)13 songs/chansons in/dans 6 minutes گروه شن - ۱۳ آهنگ در ۶ دقیقه (Qkptsmm) · https://www.youtube.com/watch?v=sSgV8kJIEWU
+- Shen Band "live" -The world sits idly by گروه شن - دنیا ساکت نشسته (Qv7cr27) · https://www.youtube.com/watch?v=dY73p0jQba4
+- Shen Band "live" - For one fleeting moment گروه شن - لحظه ای (Q7mq58n) · https://www.youtube.com/watch?v=o3C9VDqPQ3Y
+- Shen Band - گروه شن - شاید این ضربات (Q5swtqa) · https://www.youtube.com/watch?v=hQ-ih1hATg0
+- Shen Band "unplugged" - More than this no more گروه شن - بیشتر از این فراموش (Qb6dvnj) · https://www.youtube.com/watch?v=RLOQzmBXQeg
+- Shen Band "unplugged" - The world sits idly by گروه شن - دنیا ساکت نشسته (Qesage5) · https://www.youtube.com/watch?v=xW3RQDLeV4M
+- The Best of Shen 2006–2011: Songs of Love and Protest (Qh8fsy2)
+- Recluse (Not a Terrorist) (Qms2nyp)
+
+Hafteh 380 (p. 14) verifies two original Montreal videos at the end of 2015. Hashemi credits Namvar on violin and piano, JY Andre on drums and bass, and Jamal Tavassoli and Hamed Mirkamali on camera in his account of the re-recorded “Donyaa Saaket Neshasteh.” The studio director dates and credits have therefore been kept distinct from the stage recordings and alternate mixes. The contemporary report in issue 402 (p. 24) identifies a local preview before the planned tenth anniversary concert.

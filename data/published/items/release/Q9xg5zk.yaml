@@ -17,6 +17,15 @@ statements:
       quote: A Thousand Times - Live
       accessed: 2026-11-21
       locator: Spotify track billing
+  - value: Qaxspbb
+    qualifiers:
+      role:
+      - vocals
+    references:
+    - source: rhythmitica.com-irans-leading-oud-player
+      quote: I asked him to come on stage to sing while I played the oud
+      accessed: 2026-11-21
+      locator: voice
   listen link:
   - value: https://open.spotify.com/track/6lItqPd7kLyGjXxsVa15GV
     references:
@@ -37,3 +46,13 @@ statements:
       quote: A Thousand Times
       accessed: 2026-11-21
       locator: Track in artist-linked playlist
+  contributor:
+  - value: Qaxspbb
+    qualifiers:
+      role:
+      - composer
+    references:
+    - source: iroon.com-irtn-music-908
+      quote: 'موسیقی: بابک بوبان/ شعر: فرخ تمیمی'
+      accessed: 2026-11-21
+      locator: Separate original composition and poem credits

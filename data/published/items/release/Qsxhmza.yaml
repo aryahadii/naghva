@@ -1,0 +1,66 @@
+id: Qsxhmza
+type: release
+statements:
+  name:
+  - value:
+      text: Akhvān اخوان
+      language: en
+    references:
+    - source: kopirecs.bandcamp.com-track-akhv-n
+      quote: Akhvān اخوان | ArtSaves | Kopi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qw9zs9g
+    references:
+    - source: kopirecs.bandcamp.com-album-molehead
+      quote: ArtSaves
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://kopirecs.bandcamp.com/track/akhv-n
+    references:
+    - source: kopirecs.bandcamp.com-track-akhv-n
+      quote: Akhvān اخوان | ArtSaves | Kopi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1804076767
+    references:
+    - source: music.apple.com-us-song-1804076767
+      quote: ‎Akhvān اخوان - Song with Lyrics by ArtSaves - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/6h4mmFfRK7XvHogIEzouAJ
+    references:
+    - source: open.spotify.com-track-6h4mmffrk7xvhogiezouaj
+      quote: Akhvān اخوان - song and lyrics by ArtSaves | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a3914570668_10.jpg
+    references:
+    - source: kopirecs.bandcamp.com-track-akhv-n
+      quote: https://f4.bcbits.com/img/a3914570668_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original publisher artwork
+        language: en
+  release date:
+  - value:
+      date: '2025-03-14'
+    references:
+    - source: kopirecs.bandcamp.com-track-akhv-n
+      quote: released March 14, 2025
+      accessed: '2026-11-21'
+      locator: Published date
+  contributor:
+  - value: Qtwwfrd
+    references:
+    - source: kopirecs.bandcamp.com-album-molehead
+      quote: Shahin Entezami
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: mastering engineer

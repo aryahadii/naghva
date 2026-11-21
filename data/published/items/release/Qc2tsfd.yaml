@@ -33,12 +33,32 @@ statements:
       quote: Abyss feat. Hesam Ohadi | ArtSaves, Hesam Ohadi | Kopi Records
       accessed: '2026-11-21'
       locator: Page title
+  - value: https://music.apple.com/us/song/1789493660
+    references:
+    - source: music.apple.com-us-song-1789493660
+      quote: ‎Abyss (feat. Hesam Ohadi) - Song with Lyrics by ArtSaves - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/7uqVbyp0Uf4wmkjJQpo4xo
+    references:
+    - source: open.spotify.com-track-7uqvbyp0uf4wmkjjqpo4xo
+      quote: Abyss - song and lyrics by ArtSaves, Hesam Ohadi | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
   contributor:
   - value: Qjjdrek
     references:
     - *id001
     qualifiers:
       role: lyricist
+  - value: Qtwwfrd
+    references:
+    - source: kopirecs.bandcamp.com-album-abyss
+      quote: Shahin Entezami
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: mastering engineer
   cover art:
   - value: https://f4.bcbits.com/img/a2867718112_10.jpg
     references:

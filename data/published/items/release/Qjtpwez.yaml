@@ -17,11 +17,35 @@ statements:
       quote: Back to the Sun - Idlefon Rework | ArtSaves | Kopi Records
       accessed: '2026-11-21'
       locator: Page title
+  - value: Qw9zs9g
+    references:
+    - source: kopirecs.bandcamp.com-album-seuil-remixes
+      quote: ArtSaves
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
   listen link:
   - value: https://kopirecs.bandcamp.com/track/back-to-the-sun-idlefon-rework
     references:
     - source: kopirecs.bandcamp.com-track-back-to-the-sun-idlefon-rework
       quote: Back to the Sun - Idlefon Rework | ArtSaves | Kopi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1266163510
+    references:
+    - source: music.apple.com-us-song-1266163510
+      quote: ‎Back to the Sun (Idlefon Rework) - Song with Lyrics by ArtSaves - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/6LuOHKRWwyq6wZRvYz5Ie6
+    references:
+    - source: open.spotify.com-track-6luohkrwwyq6wzrvyz5ie6
+      quote: Back to the Sun (Idlefon Rework) - song and lyrics by ArtSaves | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/artsvs/back-to-the-sun-idlefon-rework
+    references:
+    - source: soundcloud.com-artsvs-back-to-the-sun-idlefon-rework
+      quote: Stream Back to the Sun - Idlefon Rework by ArtSaves | Listen online for free on SoundCloud
       accessed: '2026-11-21'
       locator: Page title
   cover art:

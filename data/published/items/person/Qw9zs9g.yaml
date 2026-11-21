@@ -6,7 +6,60 @@ statements:
       text: ArtSaves
       language: en
     references:
-    - source: kopirecs.bandcamp.com-track-abyss-feat-hesam-ohadi
-      quote: ArtSaves
+    - source: montreal.mutek.org-en-artists-artsaves
+      quote: ArtSaves | MUTEK Montréal
+      accessed: '2026-11-21'
+      locator: Page title
+  - value:
+      text: Arash Mollakarimi
+      language: en
+    references:
+    - source: kopirecs.bandcamp.com-album-bore
+      quote: Arash Mollakarimi
       accessed: '2026-11-21'
       locator: Artist interview, biography or performance credits
+  - value:
+      text: آرش ملاکریمی
+      language: fa
+    references:
+    - source: fajrmusic.ir-------------
+      quote: آرش ملاکریمی
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  image:
+  - value: https://i.scdn.co/image/ab6761610000e5eb34f6df7d3afaacda0f803124
+    references:
+    - source: open.spotify.com-artist-4g4ktfffcdymlsq9casmhr
+      quote: https://i.scdn.co/image/ab6761610000e5eb34f6df7d3afaacda0f803124
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: ArtSaves, via Spotify
+        language: en
+  birthplace:
+  - value: Qhm6fzw
+    references:
+    - source: daily.redbullmusicacademy.com-2018-03-rbma-2018-participants
+      quote: Born and raised in Tehran
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  profile link:
+  - value: https://open.spotify.com/artist/4g4KtfFfCDYMLsQ9caSmHr
+    references:
+    - source: open.spotify.com-artist-4g4ktfffcdymlsq9casmhr
+      quote: Listen to ArtSaves Songs | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/artist/artsaves/1101283089
+    references:
+    - source: music.apple.com-us-artist-artsaves-1101283089
+      quote: ‎ArtSaves - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/artsvs
+    references:
+    - source: soundcloud.com-artsvs
+      quote: Stream ArtSaves music | Listen to songs, albums, playlists for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title

@@ -256,3 +256,15 @@ Independent review on 2026-11-21. **9.2/10** · Sources 1.9, prose 1.8, recordin
 ### Bahar Choir
 
 Independent review on 2026-11-21. **9.2/10** · Sources 1.9, prose 1.8, recordings 2.7, images 1.0, gaps and reader experience 1.8. The founder’s teaching circle, formal Paris ensemble, London rehearsals and later Amsterdam branch are distinguishable. The source programmes substantiate the soloists and the distinct Paris and London recordings. The short director’s cut and the film-festival catalogue document the London singers’ Rudaki rehearsal. The conductor’s original archive identifies the Iranian physical issue of The Silk Road. The two distributor profiles’ performances, with and without adult choir participation, are distinguished individually. Both versions in frozen build 132 had 137 catalogue panels, 267 decoded images and working reference links. English 3bbea5897519, Persian e12a0f4cc002. Article and catalogue ready.
+
+### Photomat
+
+Independent review on 2026-11-21. **9.2/10** · Sources 1.9, prose 1.8, recordings 2.7, images 1.0, gaps and reader experience 1.8. The 2012 Paris programme and the group’s November SoundCloud note place “Night” and “Steady Dive” before the dated Oído edition. The collaborator’s booklet corroborates the bassist’s role. The contemporary demos, album and PUSH film retain separate identities. Both languages in build 133 had 12 panels, 25 decoded images and working fragment links. Article and catalogue ready.
+
+### Hailstones
+
+Independent review on 2026-11-21. **9.2/10** · Sources 1.9, prose 1.8, recordings 2.7, images 1.0, gaps and reader experience 1.8. Sled Island’s 2023 guide names the original trio, documents Ohadi’s transition to acoustic writing for piano and voice, and bills the band at King Eddy. The later band photograph and personnel, 2023 concert film, 2025 single, two festival cuts and six-track LP have original supporting evidence. Both languages in build 133 had 11 panels, 23 decoded images and working fragment links. Article and catalogue ready.
+
+### Sepp Osley
+
+Independent review on 2026-11-21. **9.2/10** · Sources 1.9, prose 1.8, recordings 2.7, images 1.0, gaps and reader experience 1.8. The original presenter and a contemporary concert account establish the 2019 origin, the 2021 broadcast’s international contributions, and Osley’s guitar performance alongside Jo Harman. The 2025 Dear John recording with a string arrangement and the two editions’ track counts are distinguishable. Both languages in build 133 had 25 panels, 45 decoded images and working fragment links. Article and catalogue ready.

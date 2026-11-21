@@ -72,3 +72,5 @@ Two brothers from Iran are named in the band interview, artist site and 2008 Tor
 - Song of Hope (ColdplayCorner acoustic session) (Qnj86vm) · https://www.youtube.com/watch?v=0ykjvvWNEtc
 
 The interview host commissioned its own acoustic recording of “Song of Hope.” The soundtrack upload and app editions of “Round N Round” and “I’m Sorry” match in duration, titles and the group’s own descriptions. Both original SoundCloud credits specify Ehsan Ashrafi as composer and lyricist.
+
+The label-supplied Qobuz credits on the first Lonely Sessions volume name both brothers as composers of “In the Name of Love” and Ehsan alone on tracks 1, 3, 4 and 5.

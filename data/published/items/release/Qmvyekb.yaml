@@ -1,0 +1,57 @@
+id: Qmvyekb
+type: release
+statements:
+  name:
+  - value:
+      text: God's Guest
+      language: en
+    references:
+    - source: kopirecs.bandcamp.com-track-gods-guest
+      quote: God's Guest | ArtSaves | Kopi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qw9zs9g
+    references:
+    - source: kopirecs.bandcamp.com-album-empty-sounds-2
+      quote: ArtSaves
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://kopirecs.bandcamp.com/track/gods-guest
+    references:
+    - source: kopirecs.bandcamp.com-track-gods-guest
+      quote: God's Guest | ArtSaves | Kopi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1540583610
+    references:
+    - source: music.apple.com-us-song-1540583610
+      quote: ‎God's Guest - Song with Lyrics by ArtSaves - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/5nKcasiyVBnu0qHvCoC26t
+    references:
+    - source: open.spotify.com-track-5nkcasiyvbnu0qhvcoc26t
+      quote: God's Guest - song and lyrics by ArtSaves | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a4078633169_10.jpg
+    references:
+    - source: kopirecs.bandcamp.com-track-gods-guest
+      quote: https://f4.bcbits.com/img/a4078633169_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Amirhosein Amini and Hossein Daraei
+        language: en
+  release date:
+  - value:
+      date: '2020-11-09'
+    references:
+    - source: kopirecs.bandcamp.com-track-gods-guest
+      quote: released November 9, 2020
+      accessed: '2026-11-21'
+      locator: Published date

@@ -17,6 +17,15 @@ statements:
       quote: A Tale, Foretold
       accessed: 2026-11-21
       locator: Album title
+  - value: Qaxspbb
+    qualifiers:
+      role:
+      - vocals
+    references:
+    - source: rhythmitica.com-irans-leading-oud-player
+      quote: I asked him to come on stage to sing while I played the oud
+      accessed: 2026-11-21
+      locator: voice
   release type:
   - value: live album
     references:

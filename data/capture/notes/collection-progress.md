@@ -123,10 +123,12 @@ The expansion started at revision fa6c29ca with 124 bilingual artist pages. The 
 | Sepp Osley | Qas33mb | Pending | [Catalogue](sepp-osley.md) |
 | Umchunga | Q9rnctv | 9.2/10 | [Independent review](umchunga-independent-review.md) |
 | Roham Sobhani | Qs5p4nt | 9.2/10 | [Independent review](roham-sobhani-independent-review.md) |
-| Soul Nidus | Qst5f86 | Pending | [Catalogue](soul-nidus.md) |
-| Photomat | Qn4gh3f | Pending | [Catalogue](photomat.md) |
+| Soul Nidus | Qst5f86 | 9.2/10 | [Independent review](soul-nidus-independent-review.md) |
+| Photomat | Qn4gh3f | 9.2/10 | [Independent review](photomat-independent-review.md) |
 | Babak Bouban | Qaxspbb | Pending | [Catalogue](babak-bouban.md) |
-| Herr Spectre | Qjdvdjm | Pending | [Catalogue](herr-spectre.md) |
-| Hailstones | Q2e2223 | Pending | [Catalogue](hailstones.md) |
+| Herr Spectre | Qjdvdjm | 9.2/10 | [Independent review](herr-spectre-independent-review.md) |
+| Hailstones | Q2e2223 | 9.2/10 | [Independent review](artist-page-scores.md) |
+| Shen Band | Qavhs3y | Pending | [Catalogue](shen-band.md) |
+| Sahba Motallebi | Qyw49hh | Pending | [Catalogue](sahba-motallebi.md) |
 
 The [discovery list](independent-artist-discovery.md) contains candidates with release leads. Some will prove ineligible or match an existing artist by another spelling. Only new artist pages count toward the target.

@@ -1,0 +1,63 @@
+id: Qbc5m35
+type: release
+statements:
+  name:
+  - value:
+      text: Kopi
+      language: en
+    references:
+    - source: kopirecs.bandcamp.com-track-kopi
+      quote: Kopi | ArtSaves | Kopi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qw9zs9g
+    references:
+    - source: kopirecs.bandcamp.com-album-unref
+      quote: ArtSaves
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://kopirecs.bandcamp.com/track/kopi
+    references:
+    - source: kopirecs.bandcamp.com-track-kopi
+      quote: Kopi | ArtSaves | Kopi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1404205964
+    references:
+    - source: music.apple.com-us-song-1404205964
+      quote: ‎Kopi - Song with Lyrics by ArtSaves - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/70wek9QXoqmQmZANE3kIVM
+    references:
+    - source: open.spotify.com-track-70wek9qxoqmqmzane3kivm
+      quote: Kopi - song and lyrics by ArtSaves | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/artsvs/kopi
+    references:
+    - source: soundcloud.com-artsvs-kopi
+      quote: Stream Kopi by ArtSaves | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a0263382756_10.jpg
+    references:
+    - source: kopirecs.bandcamp.com-track-kopi
+      quote: https://f4.bcbits.com/img/a0263382756_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Parnian Ghorbani
+        language: en
+  release date:
+  - value:
+      date: '2018-07-02'
+    references:
+    - source: kopirecs.bandcamp.com-track-kopi
+      quote: released July 2, 2018
+      accessed: '2026-11-21'
+      locator: Published date

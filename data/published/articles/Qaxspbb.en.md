@@ -80,6 +80,31 @@ references:
     quote: سنتور هشت‌خرکِ سه‌سیم از نتایج آن است
     accessed: 2026-11-21
     locator: Instrument design
+  song:
+    source: iroon.com-irtn-music-908
+    quote: 'موسیقی: بابک بوبان/ شعر: فرخ تمیمی'
+    accessed: 2026-11-21
+    locator: Separate original composition and poem credits
+  stage:
+    source: khaharanedarya.blogfa.com-1395-06-2
+    quote: یک قطعه عود و آواز با عنوان « روزی هزار بار » از بابک بوبان
+    accessed: 2026-11-21
+    locator: Concert piece and guest composer
+  voice:
+    source: rhythmitica.com-irans-leading-oud-player
+    quote: I asked him to come on stage to sing while I played the oud
+    accessed: 2026-11-21
+    locator: voice
+  orig:
+    source: rhythmitica.com-irans-leading-oud-player
+    quote: On the original recording (done years prior to the concert) I had the singing part myself.
+    accessed: 2026-11-21
+    locator: firstvoice
+  show:
+    source: www.negarbouban.com-taleforetold
+    quote: of a live stage-performance in Tehran, 2014.
+    accessed: 2026-11-21
+    locator: live
 ---
 
 Babak Bouban was born in Tehran in 1971. He began santur lessons with Faramarz Payvar before he was ten. As the lessons progressed, Payvar wrote them out by hand for his young pupil and called the collection “Babak’s radif”. Bouban later recalled that those pages went into print as Payvar’s introductory radif.[^birth][^pupil][^notes][^radif][^printed]
@@ -89,3 +114,5 @@ Babak Bouban was born in Tehran in 1971. He began santur lessons with Faramarz P
 Bouban studied linguistics and learned the craft of setting verse to music with Mohammad Reza Shajarian. For *Sing* he chose five poems by Nima Yushij. Bouban sang them himself, with Sarvar Zarehgar arranging for solo winds and strings. On *The Sentinel* the sound comes from a much smaller ensemble. Babak composed the music, sang and played santur, while Negar Bouban sang and played oud.[^studies][^shaj][^farsi][^strings][^role][^negar]
 
 In *Barren*, a musical story for young listeners, Bouban used the example of the bakhshis, musicians who tell stories through speech and song. He supplied both the voice and the santur. Another generation of young listeners heard him as the Persian translator and speaking voice of Leonard Bernstein’s *Young People’s Concerts*. His work on the instrument itself led to a three-string-per-course santur with eight bridges.[^barren][^santur][^lecture][^name][^new]
+
+Babak wrote “A Thousand Times” for voice and oud. Negar sang on the original recording. At her 2014 Niavaran concert he took the vocal line, with Negar on oud. That performance was released on the CD and DVD *A Tale, Foretold*.[^song][^stage][^voice][^orig][^show]
