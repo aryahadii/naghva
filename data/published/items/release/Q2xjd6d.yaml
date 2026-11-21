@@ -1,0 +1,69 @@
+id: Q2xjd6d
+type: release
+statements:
+  name:
+  - value:
+      text: Scape III - Inamabilis Sciurus
+      language: en
+    references:
+    - source: music.apple.com-us-song-1537950096
+      quote: ‎Scape III - Inamabilis Sciurus - Song with Lyrics by Stefan Levin, Hans Nyman & Soheil Peyghambari - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Q3waxf2
+    references:
+    - source: music.apple.com-us-song-1537950096
+      quote: ‎Scape III - Inamabilis Sciurus - Song with Lyrics by Stefan Levin, Hans Nyman & Soheil Peyghambari - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Q32rvjg
+    references:
+    - source: music.apple.com-us-song-1537950096
+      quote: Stefan Levin
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Qzhpen3
+    references:
+    - source: music.apple.com-us-song-1537950096
+      quote: Hans Nyman
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://music.apple.com/us/song/1537950096
+    references:
+    - source: music.apple.com-us-song-1537950096
+      quote: ‎Scape III - Inamabilis Sciurus - Song with Lyrics by Stefan Levin, Hans Nyman & Soheil Peyghambari - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/321JfrXIpfk4IIyxrzOAxz
+    references:
+    - source: open.spotify.com-track-321jfrxipfk4iiyxrzoaxz
+      quote: Scape III - Inamabilis Sciurus - song and lyrics by Stefan Levin, Hans Nyman, Soheil Peyghambari | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://www.youtube.com/watch?v=tl4RPtcnZLM
+    references:
+    - source: www.youtube.com-watch-v-tl4rptcnzlm
+      quote: Scape III - Inamabilis Sciurus
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/0c/41/ee/0c41ee23-d0e7-46d5-165b-9be9e3dc3076/cover.jpg/600x600bb.webp
+    references:
+    - source: music.apple.com-us-song-1537950096
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/0c/41/ee/0c41ee23-d0e7-46d5-165b-9be9e3dc3076/cover.jpg/600x600bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Soheil Peyghambari on Apple Music
+        language: en
+  release date:
+  - value:
+      date: '2020-11-13'
+    references:
+    - source: music.apple.com-us-song-1537950096
+      quote: November 13, 2020
+      accessed: '2026-11-21'
+      locator: Published date

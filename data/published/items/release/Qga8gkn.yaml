@@ -1,0 +1,63 @@
+id: Qga8gkn
+type: release
+statements:
+  name:
+  - value:
+      text: The Revelation
+      language: en
+    references:
+    - source: music.apple.com-us-song-916829006
+      quote: ‎The Revelation - Song with Lyrics by Soheil Peyghambari - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Q3waxf2
+    references:
+    - source: music.apple.com-us-song-916829006
+      quote: ‎The Revelation - Song with Lyrics by Soheil Peyghambari - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://music.apple.com/us/song/916829006
+    references:
+    - source: music.apple.com-us-song-916829006
+      quote: ‎The Revelation - Song with Lyrics by Soheil Peyghambari - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/intimate-sentiments/the-revelation-soheil-peyghambari
+    references:
+    - source: soundcloud.com-intimate-sentiments-the-revelation-soheil-peyghambari
+      quote: Stream The Revelation |Soheil Peyghambari by Intimate-Sentiments | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/6hTWVdhpvT6vNxA89cUkoJ
+    references:
+    - source: open.spotify.com-track-6htwvdhpvt6vnxa89cukoj
+      quote: The Revelation - song and lyrics by Soheil Peyghambari | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://www.youtube.com/watch?v=VkbvASwv754
+    references:
+    - source: www.youtube.com-watch-v-vkbvaswv754
+      quote: The Revelation
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/9c/bc/95/9cbc95a1-e2bd-6bbf-aba7-24a188aedf9b/889211010363.jpg/600x600bb.webp
+    references:
+    - source: music.apple.com-us-song-916829006
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/9c/bc/95/9cbc95a1-e2bd-6bbf-aba7-24a188aedf9b/889211010363.jpg/600x600bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Soheil Peyghambari on Apple Music
+        language: en
+  release date:
+  - value:
+      date: '2014-08-05'
+    references:
+    - source: music.apple.com-us-song-916829006
+      quote: August 5, 2014
+      accessed: '2026-11-21'
+      locator: Published date

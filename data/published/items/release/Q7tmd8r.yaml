@@ -1,0 +1,47 @@
+id: Q7tmd8r
+type: release
+statements:
+  name:
+  - value:
+      text: Ay Gharib Maro
+      language: en
+    references:
+    - source: www.youtube.com-oembed-t0vtgzkcwla
+      quote: Ay Gharib Maro
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
+  contributor:
+  - value: Qje5fct
+    references:
+    - source: www.youtube.com-watchv-t0vtgzkcwla
+      quote: 'Music: Zanyar Hesami'
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
+    qualifiers:
+      role: composer
+  release date:
+  - value:
+      date: '2024-09-02'
+    references:
+    - source: www.youtube.com-watchv-t0vtgzkcwla
+      quote: '2024-09-02'
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://i.ytimg.com/vi/t0VTgzKCWLA/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-t0vtgzkcwla
+      quote: https://i.ytimg.com/vi/t0VTgzKCWLA/hqdefault.jpg
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Zanyar Hesami · performance film
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=t0VTgzKCWLA
+    references:
+    - source: www.youtube.com-oembed-t0vtgzkcwla
+      quote: Ay Gharib Maro
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'

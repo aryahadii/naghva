@@ -6,6 +6,7 @@ tier: discography
 language: en
 about:
 - Pouya Mahmoodi
+- Erwin Khachikian
 status: processed
 ---
 
@@ -32,3 +33,11 @@ Distributor permalink, read 2026-11-21.
 > Pouya Mahmoodi
 
 Artist billing, read 2026-11-21.
+
+> Hezbe Bad (feat. Pouya Mahmoodi) - Single
+
+Digital edition, read 2026-11-21.
+
+> Erwin Khachikian
+
+Artist credit, read 2026-11-21.

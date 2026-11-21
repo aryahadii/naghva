@@ -1,0 +1,63 @@
+id: Qmke3pd
+type: release
+statements:
+  name:
+  - value:
+      text: Tanha Sho
+      language: en
+    references:
+    - source: www.youtube.com-watch-v-hisz2pk-3ks
+      quote: Tanha Sho - Niaz Nawab - تنها شو
+      accessed: '2026-11-21'
+      locator: Artist video
+  performer:
+  - value: Qb269ps
+    references:
+    - source: www.youtube.com-watch-v-hisz2pk-3ks
+      quote: Tanha Sho - Niaz Nawab - تنها شو
+      accessed: '2026-11-21'
+      locator: Artist video
+  - value: Qy88zyz
+    references:
+    - source: www.youtube.com-watch-v-hisz2pk-3ks
+      quote: Tanha Sho - Niaz Nawab - تنها شو
+      accessed: '2026-11-21'
+      locator: Artist video
+  listen link:
+  - value: https://www.youtube.com/watch?v=hISz2PK-3Ks
+    references:
+    - source: www.youtube.com-watch-v-hisz2pk-3ks
+      quote: Tanha Sho - Niaz Nawab - تنها شو
+      accessed: '2026-11-21'
+      locator: Artist video
+  - value: https://open.spotify.com/track/7scxgDPQvVbhs8clHW4yyL
+    references:
+    - source: open.spotify.com-embed-album-7fsrnne869yvtxn8i3i0yw
+      quote: spotify:track:7scxgDPQvVbhs8clHW4yyL
+      accessed: '2026-11-21'
+      locator: Exact Spotify track
+  - value: https://open.spotify.com/album/7fsRnnE869YVtXN8i3i0YW
+    references:
+    - source: open.spotify.com-embed-album-7fsrnne869yvtxn8i3i0yw
+      quote: Tanha Sho
+      accessed: '2026-11-21'
+      locator: Spotify track listing
+  cover art:
+  - value: https://i.ytimg.com/vi/hISz2PK-3Ks/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGHIgSyg2MA8=&rs=AOn4CLBdOzkFt8OsJWHiuYua42TjCOajFQ
+    qualifiers:
+      credit:
+        text: Niaz Nawab
+        language: en
+    references:
+    - source: www.youtube.com-watch-v-hisz2pk-3ks
+      quote: https://i.ytimg.com/vi/hISz2PK-3Ks/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGHIgSyg2MA8=&rs=AOn4CLBdOzkFt8OsJWHiuYua42TjCOajFQ
+      accessed: '2026-11-21'
+      locator: Original video artwork
+  release date:
+  - value:
+      date: '2021-02-21'
+    references:
+    - source: www.youtube.com-watch-v-hisz2pk-3ks
+      quote: '2021-02-21'
+      accessed: '2026-11-21'
+      locator: Video publication

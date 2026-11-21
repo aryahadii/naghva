@@ -5,7 +5,8 @@ status: processed
 language: en
 tier: own
 about:
-- Sara Fotros
+- Zagros Daf Ensemble
+- Zanyar Hesami
 ---
 
 Original release, musician interview or performance credits, read 2026-11-21.
@@ -31,3 +32,11 @@ Musician interview, original recording credits or presenter programme, read 2026
 Musician interview, original recording credits or presenter programme, read 2026-11-21.
 
 > accompanied by the rhythmic beats of the Zagros Daf Ensemble
+
+Original recording, artist credit or presenter programme, read 2026-11-21.
+
+> Zagros Daf Ensemble was founded by Sara Fotros and Zanyar Hesami with the aim of sharing the beauty of Kurdish and Persian percussion traditions through the art of Daf playing.
+
+Original recording, artist credit or presenter programme, read 2026-11-21.
+
+> 2025-03-17

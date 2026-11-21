@@ -6,6 +6,7 @@ tier: discography
 language: en
 about:
 - Karmandan
+- Erwin Khachikian
 status: processed
 ---
 
@@ -48,3 +49,43 @@ Exact Spotify track URI, read 2026-11-21.
 > spotify:track:5lQ2zDdGY3Z14rn7wlb1x1
 
 Exact Spotify track URI, read 2026-11-21.
+
+> Erwin Khachikian
+
+Spotify track billing, read 2026-11-21.
+
+> Karmandan
+
+Track billing, read 2026-11-21.
+
+> Dobareh
+
+Spotify track 2, read 2026-11-21.
+
+> Engar
+
+Spotify track 3, read 2026-11-21.
+
+> Piano
+
+Spotify track 4, read 2026-11-21.
+
+> Baroon
+
+Spotify track 5, read 2026-11-21.
+
+> Maghze Por Jib Khali
+
+Spotify track 6, read 2026-11-21.
+
+> Baroon (Down Tempo)
+
+Spotify track 7, read 2026-11-21.
+
+> Razi Nemisham
+
+Spotify track 8, read 2026-11-21.
+
+> Bridge
+
+Spotify track 9, read 2026-11-21.

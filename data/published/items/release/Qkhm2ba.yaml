@@ -1,0 +1,80 @@
+id: Qkhm2ba
+type: release
+statements:
+  name:
+  - value:
+      text: Danamirkê
+      language: en
+    references:
+    - source: music.apple.com-us-album-danamirk-c3-aa-6835417570
+      quote: Danamirkê
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
+  performer:
+  - value: Qje5fct
+    references:
+    - source: music.apple.com-us-album-danamirk-c3-aa-6835417570
+      quote: Zanyar Hesami
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2026-11-16'
+    references:
+    - source: music.apple.com-us-album-danamirk-c3-aa-6835417570
+      quote: '2026-11-16'
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3b/f0/75/3bf07579-8df0-dede-1cb4-249cce0df266/7333596971250.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-danamirk-c3-aa-6835417570
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3b/f0/75/3bf07579-8df0-dede-1cb4-249cce0df266/7333596971250.jpg/1200x630bb.jpg
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Danamirkê - Single
+        language: en
+  listen link:
+  - value: https://music.apple.com/us/song/danamirk%C3%AA/6835417573
+    references:
+    - source: music.apple.com-us-album-danamirk-c3-aa-6835417570
+      quote: Danamirkê
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/6NiESL77r20pZ5NJAeII4q
+    references:
+    - source: open.spotify.com-embed-album-3jjvnwcpkxqur32xs8fvo8
+      quote: Danamirkê
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
+  - value: https://music.apple.com/us/album/danamirk%C3%AA-single/6835417570
+    references:
+    - source: music.apple.com-us-album-danamirk-c3-aa-6835417570
+      quote: Danamirkê - Single
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
+  - value: https://www.youtube.com/watch?v=VTLppWiQxxM
+    references:
+    - source: www.youtube.com-oembed-vtlppwiqxxm
+      quote: Zanyar Hesami – Danamirkê | Kurdish Song
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
+  contributor:
+  - value: Qn6pgk3
+    references:
+    - source: www.youtube.com-watchv-vtlppwiqxxm
+      quote: Jalal Malekshah
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
+    qualifiers:
+      role: lyricist
+  - value: Qje5fct
+    references:
+    - source: www.youtube.com-watchv-vtlppwiqxxm
+      quote: Zanyar Hesami
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
+    qualifiers:
+      role: composer

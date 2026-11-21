@@ -1,0 +1,61 @@
+id: Q59brkn
+type: release
+statements:
+  name:
+  - value:
+      text: Intoxicated Wine
+      language: en
+    references:
+    - source: music.apple.com-us-album-the-banquet-of-companions-1545849433
+      quote: Intoxicated Wine
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  performer:
+  - value: Q76q9jz
+    references:
+    - source: music.apple.com-us-album-the-banquet-of-companions-1545849433
+      quote: Soheil Hosnavi
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: santur
+  - value: Q6g3eya
+    references:
+    - source: music.apple.com-us-album-the-banquet-of-companions-1545849433
+      quote: Shayan Riyahi
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: percussion
+  release date:
+  - value:
+      date: '2018-02-09'
+    references:
+    - source: music.apple.com-us-album-the-banquet-of-companions-1545849433
+      quote: '2018-02-09'
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/41/31/d7/4131d744-8487-6e7d-5964-85a7ffa6b08b/195999024349.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-the-banquet-of-companions-1545849433
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/41/31/d7/4131d744-8487-6e7d-5964-85a7ffa6b08b/195999024349.jpg/1200x630bb.jpg
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: The Banquet of Companions
+        language: en
+  listen link:
+  - value: https://music.apple.com/us/song/intoxicated-wine/1545849438
+    references:
+    - source: music.apple.com-us-album-the-banquet-of-companions-1545849433
+      quote: Intoxicated Wine
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/2J6oOxcW7UwyiaViIU07Mb
+    references:
+    - source: open.spotify.com-embed-album-7o5fhk6j63wcrgimj9uphj
+      quote: Intoxicated Wine
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'

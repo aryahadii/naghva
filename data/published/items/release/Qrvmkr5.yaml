@@ -1,0 +1,63 @@
+id: Qrvmkr5
+type: release
+statements:
+  name:
+  - value:
+      text: Perduring Toward Obsidian Transferal
+      language: en
+    references:
+    - source: music.apple.com-us-song-1560909867
+      quote: ‎Perduring Toward Obsidian Transferal - Song with Lyrics by Kevin Kastning & Soheil Peyghambari - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Q3waxf2
+    references:
+    - source: music.apple.com-us-song-1560909867
+      quote: ‎Perduring Toward Obsidian Transferal - Song with Lyrics by Kevin Kastning & Soheil Peyghambari - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qyz8dqk
+    references:
+    - source: music.apple.com-us-song-1560909867
+      quote: Kevin Kastning
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://music.apple.com/us/song/1560909867
+    references:
+    - source: music.apple.com-us-song-1560909867
+      quote: ‎Perduring Toward Obsidian Transferal - Song with Lyrics by Kevin Kastning & Soheil Peyghambari - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/2HjWF8bz5WRf1lpHsm8FSs
+    references:
+    - source: open.spotify.com-track-2hjwf8bz5wrf1lphsm8fss
+      quote: Perduring toward obsidian transferal - song and lyrics by Kevin Kastning, Soheil Peyghambari | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://www.youtube.com/watch?v=BPWjpe4AGrs
+    references:
+    - source: www.youtube.com-watch-v-bpwjpe4agrs
+      quote: Perduring toward obsidian transferal
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ee/ec/42/eeec4279-1d24-fcf5-0906-94b4385b93fa/artwork.jpg/600x600bb.webp
+    references:
+    - source: music.apple.com-us-song-1560909867
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ee/ec/42/eeec4279-1d24-fcf5-0906-94b4385b93fa/artwork.jpg/600x600bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Soheil Peyghambari on Apple Music
+        language: en
+  release date:
+  - value:
+      date: '2021-05-04'
+    references:
+    - source: music.apple.com-us-song-1560909867
+      quote: May 4, 2021
+      accessed: '2026-11-21'
+      locator: Published date

@@ -1,0 +1,53 @@
+id: Q8ntxah
+type: release
+statements:
+  name:
+  - value:
+      text: همراهی سنتور با آواز همایون شجریان
+      language: fa
+    references:
+    - source: www.youtube.com-oembed-hhwgzyagx84
+      quote: 'همراهی سنتور با آواز همایون شجریان '
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2026-06-25'
+    references:
+    - source: www.youtube.com-watchv-hhwgzyagx84
+      quote: '2026-06-25'
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://i.ytimg.com/vi/HHWgzyaGX84/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-hhwgzyagx84
+      quote: https://i.ytimg.com/vi/HHWgzyaGX84/hqdefault.jpg
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Soheil Hosnavi · original performance
+        language: en
+  performer:
+  - value: Q76q9jz
+    references:
+    - source: www.youtube.com-oembed-hhwgzyagx84
+      quote: Soheil Hosnavi
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: santur
+  listen link:
+  - value: https://www.youtube.com/watch?v=HHWgzyaGX84
+    references:
+    - source: www.youtube.com-oembed-hhwgzyagx84
+      quote: 'همراهی سنتور با آواز همایون شجریان '
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  - value: https://t.me/soheilhosnavi/1143
+    references:
+    - source: t.me-soheilhosnavi-1143
+      quote: ای دل چنان بنال که آن ماه نازنین
+      locator: Artist channel, original post 1143
+      accessed: '2026-11-21'

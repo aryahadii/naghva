@@ -6,6 +6,8 @@ language: en
 tier: own
 about:
 - Sara Fotros
+- Zagros Daf Ensemble
+- Zanyar Hesami
 ---
 
 Original release, musician interview or performance credits, read 2026-11-21.
@@ -47,3 +49,7 @@ Musician interview, original recording credits or presenter programme, read 2026
 Musician interview, original recording credits or presenter programme, read 2026-11-21.
 
 > In 2023, she co-founded the Zagros Daf Ensemble with Zanyar Hesami
+
+Original recording, artist credit or presenter programme, read 2026-11-21.
+
+> co-founded the Zagros Daf Ensemble with Zanyar Hesami

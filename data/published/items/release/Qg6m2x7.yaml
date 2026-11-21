@@ -1,0 +1,53 @@
+id: Qg6m2x7
+type: release
+statements:
+  name:
+  - value:
+      text: Santur & Oud
+      language: en
+    references:
+    - source: www.youtube.com-oembed-fuq2uqr7dy8
+      quote: 'Santur & Oud '
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2026-08-05'
+    references:
+    - source: www.youtube.com-watchv-fuq2uqr7dy8
+      quote: '2026-08-05'
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://i.ytimg.com/vi/fUq2uqR7DY8/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-fuq2uqr7dy8
+      quote: https://i.ytimg.com/vi/fUq2uqR7DY8/hqdefault.jpg
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Soheil Hosnavi · original performance
+        language: en
+  performer:
+  - value: Q76q9jz
+    references:
+    - source: www.youtube.com-oembed-fuq2uqr7dy8
+      quote: Soheil Hosnavi
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: santur
+  listen link:
+  - value: https://www.youtube.com/watch?v=fUq2uqR7DY8
+    references:
+    - source: www.youtube.com-oembed-fuq2uqr7dy8
+      quote: 'Santur & Oud '
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  - value: https://t.me/soheilhosnavi/1150
+    references:
+    - source: t.me-soheilhosnavi-1150
+      quote: Virtual duet with a musician friend
+      locator: Artist channel, original post 1150
+      accessed: '2026-11-21'

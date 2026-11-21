@@ -98,11 +98,18 @@ The expansion started at revision fa6c29ca with 124 bilingual artist pages. The 
 | Aida Shahghasemi | Qjh2zkc | 9.2/10 | [Aida Shahghasemi](aida-shahghasemi-independent-review.md) |
 | Eendo | Qnbrhrh | 9.2/10 | [Eendo](eendo-independent-review.md) |
 | Migrain Sq. | Qbkmbta | 9.2/10 | [Migrain Sq.](migrain-sq-independent-review.md) |
-| Sara Fotros | Qvp2b3f | Pending | [Catalogue](sara-fotros.md) |
-| Zagros Daf Ensemble | Qh6sdaj | 9.1/10 | [Zagros Daf Ensemble](zagros-daf-ensemble-independent-review.md) |
-| Mona Matbou Riahi | Qyy9hf9 | Pending | [Catalogue](mona-matbou-riahi.md) |
-| Ajam | Qstq3nj | Pending | [Catalogue](ajam.md) |
-| Karmandan | Qzjh64j | Pending | [Catalogue](karmandan.md) |
-| Pouya Pour-Amin | Qr62rq7 | Pending | [Catalogue](pouya-pour-amin.md) |
+| Sara Fotros | Qvp2b3f | 9.2/10 | [Sara Fotros](sara-fotros-independent-review.md) |
+| Zagros Daf Ensemble | Qh6sdaj | 9.2/10 | [Zagros Daf Ensemble](zagros-daf-ensemble-independent-review.md) |
+| Mona Matbou Riahi | Qyy9hf9 | 9.3/10 | [Mona Matbou Riahi](artist-page-scores.md) |
+| Ajam | Qstq3nj | 9.3/10 | [Ajam](ajam-independent-review.md) |
+| Karmandan | Qzjh64j | 9.2/10 | [Karmandan](artist-page-scores.md) |
+| Pouya Pour-Amin | Qr62rq7 | 9.2/10 | [Pouya Pour-Amin](pouya-pour-amin-independent-review.md) |
+| Darya Dadvar | Qxyr3j2 | 9.2/10 | [Darya Dadvar](darya-dadvar-independent-review.md) |
+| Zanyar Hesami | Qje5fct | 9.2/10 | [Zanyar Hesami](zanyar-hesami-independent-review.md) |
+| Erwin Khachikian | Qy88zyz | 9.2/10 | [Erwin Khachikian](artist-page-scores.md) |
+| Sejar Percussion Band | Qnff8wt | 9.1/10 | [Sejar Percussion Band](sejar-percussion-band-independent-review.md) |
+| Soheil Peyghambari | Q3waxf2 | Pending | [Catalogue](soheil-peyghambari.md) |
+| Niaz Nawab | Qb269ps | Pending | [Catalogue](niaz-nawab.md) |
+| Maryam Akhondy | Qs73vkf | Pending | [Catalogue](maryam-akhondy.md) |
 
 The [discovery list](independent-artist-discovery.md) contains candidates with release leads. Some will prove ineligible or match an existing artist by another spelling. Only new artist pages count toward the target.

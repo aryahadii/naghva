@@ -1,0 +1,64 @@
+id: Q8nqpjp
+type: release
+statements:
+  name:
+  - value:
+      text: L'ombre de Dieu (The Shadow of God)
+      language: en
+    references:
+    - source: music.apple.com-us-song-1593067149
+      quote: ‎L'ombre de Dieu (The Shadow of God) - Song with Lyrics by Soheil Peyghambari - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Q3waxf2
+    references:
+    - source: music.apple.com-us-song-1593067149
+      quote: ‎L'ombre de Dieu (The Shadow of God) - Song with Lyrics by Soheil Peyghambari - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://music.apple.com/us/song/1593067149
+    references:
+    - source: music.apple.com-us-song-1593067149
+      quote: ‎L'ombre de Dieu (The Shadow of God) - Song with Lyrics by Soheil Peyghambari - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/soheil-peyghambari/lombre-de-dieu-the-shadow-of-god
+    references:
+    - source: soundcloud.com-soheil-peyghambari-lombre-de-dieu-the-shadow-of-god
+      quote: Stream L'ombre de Dieu (The shadow of God-From the album"Dysphoria") by Soheil Peyghambari | Listen online for free on
+        SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://www.youtube.com/watch?v=-HUqcK5x6wk
+    references:
+    - source: www.youtube.com-watch-v--huqck5x6wk
+      quote: L'ombre de Dieu (The Shadow of God)
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/3RjXD9kj9j0DdLN7SchTVI
+    references:
+    - source: open.spotify.com-track-3rjxd9kj9j0ddln7schtvi
+      quote: L'ombre de Dieu - The Shadow of God - song and lyrics by Soheil Peyghambari | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/74/3c/c9/743cc992-50dc-c84d-aee5-cad2735a656b/cover.jpg/600x600bb.webp
+    references:
+    - source: music.apple.com-us-song-1593067149
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/74/3c/c9/743cc992-50dc-c84d-aee5-cad2735a656b/cover.jpg/600x600bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Soheil Peyghambari on Apple Music
+        language: en
+  release date:
+  - value:
+      date: '2021-11-12'
+    references:
+    - source: music.apple.com-us-song-1593067149
+      quote: November 12, 2021
+      accessed: '2026-11-21'
+      locator: Published date

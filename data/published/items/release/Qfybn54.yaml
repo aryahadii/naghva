@@ -17,6 +17,12 @@ statements:
       quote: Karmandan
       accessed: '2026-11-21'
       locator: Billed project
+  - value: Qy88zyz
+    references:
+    - source: music.apple.com-us-album-gozargah-1350948051
+      quote: Erwin Khachikian
+      accessed: '2026-11-21'
+      locator: Artist credit
   listen link:
   - value: https://music.apple.com/us/song/baroon/1350948060
     references:
@@ -60,6 +66,12 @@ statements:
       quote: Baroon
       accessed: '2026-11-21'
       locator: Artist upload
+  - value: https://www.youtube.com/watch?v=G8pL44SSsoI
+    references:
+    - source: www.youtube.com-watch-v-g8pl44sssoi
+      quote: Karmandan - Baroon (Official Video)
+      accessed: '2026-11-21'
+      locator: Original video
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/79/94/de/7994de2d-74cb-f7f6-4fd3-5bf66e72c3d0/191924932437.jpg/1200x630wp-60.jpg
     qualifiers:

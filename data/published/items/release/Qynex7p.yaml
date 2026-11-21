@@ -1,0 +1,53 @@
+id: Qynex7p
+type: release
+statements:
+  name:
+  - value:
+      text: Inside
+      language: en
+    references:
+    - source: music.apple.com-us-album-behind-a-mask-1095757201
+      quote: Inside
+      accessed: '2026-11-21'
+      locator: Track 10
+  listen link:
+  - value: https://music.apple.com/us/song/inside/1095757883
+    references:
+    - source: music.apple.com-us-album-behind-a-mask-1095757201
+      quote: https://music.apple.com/us/song/inside/1095757883
+      accessed: '2026-11-21'
+      locator: Exact Apple track
+  performer:
+  - value: Qn6yb6e
+    references:
+    - source: music.apple.com-us-album-behind-a-mask-1095757201
+      quote: Behind a Mask
+      accessed: '2026-11-21'
+      locator: Digital edition
+  - value: Qy88zyz
+    qualifiers:
+      role: keyboards
+    references:
+    - source: noisecreep.com-louna-fight-club-exclusive-lyric-video-premiere
+      quote: Erwin Khachikian
+      accessed: '2026-11-21'
+      locator: Louna on the English album guest
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/49/44/3d/49443d4e-cefc-b8b6-db02-45581af064fe/190374224222.jpg/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Digital artwork via Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-behind-a-mask-1095757201
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/49/44/3d/49443d4e-cefc-b8b6-db02-45581af064fe/190374224222.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Edition artwork
+  release date:
+  - value:
+      date: '2014-10-13'
+    references:
+    - source: music.apple.com-us-album-behind-a-mask-1095757201
+      quote: '2014-10-13'
+      accessed: '2026-11-21'
+      locator: Issue date

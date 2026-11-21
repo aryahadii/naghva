@@ -1,0 +1,47 @@
+id: Q5t8we6
+type: release
+statements:
+  name:
+  - value:
+      text: بداهه‌‌ای در راست‌پنجگاه سل
+      language: fa
+    references:
+    - source: www.youtube.com-oembed-aqoqh6xvafe
+      quote: بداهه‌‌ای در راست‌پنجگاه سل
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2024-04-13'
+    references:
+    - source: www.youtube.com-watchv-aqoqh6xvafe
+      quote: '2024-04-13'
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://i.ytimg.com/vi/aqOQH6XVAfE/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-aqoqh6xvafe
+      quote: https://i.ytimg.com/vi/aqOQH6XVAfE/hqdefault.jpg
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Soheil Hosnavi · original performance
+        language: en
+  performer:
+  - value: Q76q9jz
+    references:
+    - source: www.youtube.com-oembed-aqoqh6xvafe
+      quote: Soheil Hosnavi
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: santur
+  listen link:
+  - value: https://www.youtube.com/watch?v=aqOQH6XVAfE
+    references:
+    - source: www.youtube.com-oembed-aqoqh6xvafe
+      quote: بداهه‌‌ای در راست‌پنجگاه سل
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'

@@ -6,9 +6,14 @@ tier: journalism
 language: fa
 about:
 - Karmandan
+- Erwin Khachikian
 status: processed
 ---
 
 > کارمندان
 
 Persian name, read 2026-11-21.
+
+> اروین خاچیکیان
+
+Interview heading, read 2026-11-21.

@@ -1,0 +1,76 @@
+id: Qep7ka9
+type: release
+statements:
+  name:
+  - value:
+      text: Delam Khast
+      language: en
+    references:
+    - source: music.apple.com-us-album-delam-khast-single-1720459626
+      quote: Delam Khast
+      accessed: '2026-11-21'
+      locator: Track 1
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-delam-khast-single-1720459626
+      quote: Delam Khast
+      accessed: '2026-11-21'
+      locator: Track 1
+  listen link:
+  - value: https://music.apple.com/us/song/delam-khast/1720459627
+    references:
+    - source: music.apple.com-us-album-delam-khast-single-1720459626
+      quote: https://music.apple.com/us/song/delam-khast/1720459627
+      accessed: '2026-11-21'
+      locator: Exact Apple track
+  - value: https://music.apple.com/us/album/delam-khast-single/1720459626
+    references:
+    - source: music.apple.com-us-album-delam-khast-single-1720459626
+      quote: Delam Khast - Single
+      accessed: '2026-11-21'
+      locator: Digital edition
+  - value: https://open.spotify.com/track/4wMY8z7zC7DbxNiW2kn1mM
+    references:
+    - source: open.spotify.com-embed-album-28esvk7yt51kpbtgwzimeg
+      quote: spotify:track:4wMY8z7zC7DbxNiW2kn1mM
+      accessed: '2026-11-21'
+      locator: Native track URI
+  - value: https://open.spotify.com/album/28esVK7yt51kpbtgWzIMEg
+    references:
+    - source: open.spotify.com-embed-album-28esvk7yt51kpbtgwzimeg
+      quote: Delam Khast
+      accessed: '2026-11-21'
+      locator: Spotify album
+  performer:
+  - value: Q4kz4kv
+    references:
+    - source: music.apple.com-us-album-delam-khast-single-1720459626
+      quote: Delam Khast - Single
+      accessed: '2026-11-21'
+      locator: Digital edition
+  - value: Qy88zyz
+    references:
+    - source: music.apple.com-us-album-delam-khast-single-1720459626
+      quote: Erwin Khachikian
+      accessed: '2026-11-21'
+      locator: Artist credit
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1d/50/1a/1d501a52-04b7-3987-c592-d0e5b7c1eab4/198026709318.jpg/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Digital artwork via Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-delam-khast-single-1720459626
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1d/50/1a/1d501a52-04b7-3987-c592-d0e5b7c1eab4/198026709318.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Edition artwork
+  release date:
+  - value:
+      date: '2023-12-19'
+    references:
+    - source: music.apple.com-us-album-delam-khast-single-1720459626
+      quote: '2023-12-19'
+      accessed: '2026-11-21'
+      locator: Issue date

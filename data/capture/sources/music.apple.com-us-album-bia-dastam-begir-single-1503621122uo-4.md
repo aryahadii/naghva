@@ -6,7 +6,7 @@ status: processed
 language: en
 tier: own
 about:
-- Sara Fotros
+- Ajam
 ---
 
 Original group issue, artist identity or exact streaming edition, read 2026-11-21.

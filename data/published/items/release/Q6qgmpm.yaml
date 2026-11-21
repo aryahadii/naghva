@@ -30,6 +30,24 @@ statements:
       quote: https://music.apple.com/us/song/hezbe-bad-feat-pouya-mahmoodi/1779378453
       accessed: '2026-11-21'
       locator: Distributor permalink
+  - value: https://music.apple.com/us/album/hezbe-bad-feat-pouya-mahmoodi-single/1779378452
+    references:
+    - source: music.apple.com-us-album-hezbe-bad-feat-pouya-mahmoodi-single-1779378452
+      quote: Hezbe Bad (feat. Pouya Mahmoodi) - Single
+      accessed: '2026-11-21'
+      locator: Digital edition
+  - value: https://open.spotify.com/track/1lRDtcZSApOCE5OtG2PmSZ
+    references:
+    - source: open.spotify.com-embed-album-7aha3p88gy1rnhiajrit7b
+      quote: spotify:track:1lRDtcZSApOCE5OtG2PmSZ
+      accessed: '2026-11-21'
+      locator: Native track URI
+  - value: https://open.spotify.com/album/7aha3P88gy1RNhIAJrIT7B
+    references:
+    - source: open.spotify.com-embed-album-7aha3p88gy1rnhiajrit7b
+      quote: Hezbe Bad
+      accessed: '2026-11-21'
+      locator: Spotify album
   release date:
   - value:
       date: '2024-11-28'

@@ -120,6 +120,51 @@ references:
     quote: '2025:YOYO : Mohammadreza Maygani /'
     accessed: 2026-11-21
     locator: Film and year
+  trans:
+    source: www.monamatbouriahi.com-about
+    quote: Mona Matbou Riahi (Klarinette, musikalische Leitung)
+    accessed: 2026-11-21
+    locator: Project and film credits
+  coll:
+    source: www.monamatbouriahi.com-about
+    quote: Music Scapes Kollektiv.
+    accessed: 2026-11-21
+    locator: Project and film credits
+  transname:
+    source: www.monamatbouriahi.com-about
+    quote: Trans:Track
+    accessed: 2026-11-21
+    locator: Project and film credits
+  movie:
+    source: www.monamatbouriahi.com-about
+    quote: Legendary Iranian filmmaker/ Narrante/ Cannes Film Frstival
+    accessed: 2026-11-21
+    locator: Project and film credits
+  frames:
+    source: www.monamatbouriahi.com-about
+    quote: 24 frames
+    accessed: 2026-11-21
+    locator: Project and film credits
+  abbas:
+    source: www.monamatbouriahi.com-about
+    quote: Abbas Kiarostami-
+    accessed: 2026-11-21
+    locator: Project and film credits
+  friend:
+    source: www.monamatbouriahi.com-about
+    quote: '2024: Friend: Rana Safiyari'
+    accessed: 2026-11-21
+    locator: Project and film credits
+  spotted:
+    source: www.monamatbouriahi.com-about
+    quote: Spotted Yellow
+    accessed: 2026-11-21
+    locator: Project and film credits
+  sarmad:
+    source: www.monamatbouriahi.com-about
+    quote: Baran Sarmad- Nominations
+    accessed: 2026-11-21
+    locator: Project and film credits
 ---
 
 Mona Matbou Riahi is a clarinettist, composer and improviser born in Tehran in 1990. She studied at the music conservatory in Tehran before moving to Vienna at seventeen to attend the University of Music and Performing Arts. In the Naqsh Duo, her clarinet has a single partner, Golfam Khayam’s guitar. The two recorded *Narrante* for ECM in 2016.[^birth][^school][^uni][^naqsh][^narr]
@@ -133,3 +178,5 @@ In 2019 drummer Alexander Yannilos needed an ensemble for his brother, who was s
 On *Playground*, Matbou Riahi works with clarinet and electronics on her own. She recorded the album at Château Rouge in Vienna in 2021, and Small Forms released it the following May. Two short pieces near the end, “Emerge” and “Memories,” also appear in the soundtrack to *Orthodontics*. Alongside her work as a performer, she took on the artistic direction of the DE/semble jazz festival in Vienna in 2023.[^material][^place][^date][^film][^eight][^nine][^festival]
 
 For theater.nuu’s *Ottos Mops*, Matbou Riahi wrote the music and developed and performed the piece with Emmy Steiner. She also composed for the screen with bassist Manu Mayr. Their score for Mohammadreza Maygani’s *YOYO* was heard at the film’s Locarno premiere in 2025.[^stage][^music][^yoyo][^year]
+
+Her filmography also lists Baran Sarmad’s *Spotted Yellow* and Rana Safiyari’s *Friend*. Abbas Kiarostami used music from *Narrante* in *24 Frames*. In 2025 she played clarinet and directed the music for the Music Scapes collective’s *Trans:Track*.[^spotted][^sarmad][^friend][^movie][^frames][^abbas][^trans][^coll][^transname]

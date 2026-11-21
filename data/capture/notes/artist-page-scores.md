@@ -236,3 +236,15 @@ Independent review on 2026-11-21. **9.2/10** · Sources 1.9, prose 1.9, recordin
 ### Migrain Sq.
 
 Independent review on 2026-11-21. **9.1/10** · Sources 1.9, prose 1.9, recordings 2.5, images 1.0, gaps and reader experience 1.8. Checked the group's own account of Polish Chair, its original album and director Ahmad Kiarostami’s separate History credits. The group recording has a dedicated catalogue panel. Contemporary coverage, the Madrid programme and the later interview confirm the move from early covers through the Madrid performance and the renewed Persian-language work. Pour-Amin’s CV subsequently confirmed a 2013 Oído album under Migrain Blvd., with recording and mixing by Pour-Amin. Its track list remains unresolved. The 11-panel pages (English 8f74f522eef4, Persian e80d1fc717b0) loaded all 21 images each and all local reference fragments resolved. Article and catalogue ready.
+
+### Karmandan
+
+Independent review on 2026-11-21. **9.2/10** · Sources 1.9, prose 1.9, recordings 2.6, images 1.0, gaps and reader experience 1.8. The Armenian reporter’s account of the Yerevan concert explains the suitcase of costumes and rotating musicians. Tirgan’s original archive and the singers’ contemporary uploads establish the two Canadian festival appearances, the performance of Badeh and the TabestoonFest recording. Two studio album performances of Engar retain their separate dates and edition links. The 43-panel English and Persian pages (e37241dd463b and 96ee93b4bf9e) loaded 85 images each and all local references resolved. Article and catalogue ready.
+
+### Mona Matbou Riahi
+
+Independent review on 2026-11-21. **9.3/10** · Sources 1.9, prose 1.9, recordings 2.7, images 1.0, gaps and reader experience 1.8. The Subran booklet distinguishes ensemble clarinet credits from the three jointly composed tracks. The original theatre and festival programmes support her separate activities writing the music for Ottos Mops, co-composing YOYO, directing Trans:Track and conducting her own music in Bonn. The score recordings on Playground and the reuse of Narrante in 24 Frames remain distinguishable. Checked the solo, duo and institutional release sources against the two 101-panel pages (English 69410a0f83d5 and Persian d16f36fcda3e). Each loaded 143 images and all internal anchors worked. Article and catalogue ready.
+
+### Erwin Khachikian
+
+Independent review on 2026-11-21. **9.2/10** · Sources 1.9, prose 1.9, recordings 2.6, images 1.0, gaps and reader experience 1.8. The contemporary band interviews establish Slow Motion Reign’s earlier EP and separate 2006 full-length. Tankian’s official label confirms the F.C.C. Edmonton and Leeds live albums, and the Lie Lie Live track credits distinguish those performances from other versions on the EP. Farhang’s concert and recording archives describe his 2023 production and musical direction. The English and Persian 115-panel pages (e85a58ef6958 and d56d8d96f156) loaded all 227 images each and every local reference worked. The album-level Ghomeshi credits and Karmandan’s shared records retain their respective sources. Article and catalogue ready.

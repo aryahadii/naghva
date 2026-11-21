@@ -1,0 +1,47 @@
+id: Qkhnvdt
+type: release
+statements:
+  name:
+  - value:
+      text: دونوازی سنتور و دف
+      language: fa
+    references:
+    - source: www.youtube.com-oembed-zp7fnune16e
+      quote: 'دونوازی سنتور و دف '
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2026-05-30'
+    references:
+    - source: www.youtube.com-watchv-zp7fnune16e
+      quote: '2026-05-30'
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://i.ytimg.com/vi/zP7fnUne16E/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-zp7fnune16e
+      quote: https://i.ytimg.com/vi/zP7fnUne16E/hqdefault.jpg
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Soheil Hosnavi · original performance
+        language: en
+  performer:
+  - value: Q76q9jz
+    references:
+    - source: www.youtube.com-oembed-zp7fnune16e
+      quote: Soheil Hosnavi
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: santur
+  listen link:
+  - value: https://www.youtube.com/watch?v=zP7fnUne16E
+    references:
+    - source: www.youtube.com-oembed-zp7fnune16e
+      quote: 'دونوازی سنتور و دف '
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'

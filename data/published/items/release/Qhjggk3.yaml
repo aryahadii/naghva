@@ -1,0 +1,59 @@
+id: Qhjggk3
+type: release
+statements:
+  name:
+  - value:
+      text: پاییز 🍂
+      language: fa
+    references:
+    - source: www.youtube.com-oembed-rpl-bheu2w4
+      quote: پاییز 🍂
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2024-03-31'
+    references:
+    - source: www.youtube.com-watchv-rpl-bheu2w4
+      quote: '2024-03-31'
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://i.ytimg.com/vi/RPl-bhEU2w4/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-rpl-bheu2w4
+      quote: https://i.ytimg.com/vi/RPl-bhEU2w4/hqdefault.jpg
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Soheil Hosnavi · original performance
+        language: en
+  performer:
+  - value: Q76q9jz
+    references:
+    - source: www.youtube.com-oembed-rpl-bheu2w4
+      quote: Soheil Hosnavi
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: santur
+  listen link:
+  - value: https://www.youtube.com/watch?v=RPl-bhEU2w4
+    references:
+    - source: www.youtube.com-oembed-rpl-bheu2w4
+      quote: پاییز 🍂
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  - value: https://t.me/soheilhosnavi/887
+    references:
+    - source: t.me-soheilhosnavi-887
+      quote: پاییز.mp4
+      locator: Artist channel, original post 887
+      accessed: '2026-11-21'
+  - value: https://t.me/soheilhosnavi/893
+    references:
+    - source: t.me-soheilhosnavi-893
+      quote: پاییز
+      locator: Artist channel, original post 893
+      accessed: '2026-11-21'

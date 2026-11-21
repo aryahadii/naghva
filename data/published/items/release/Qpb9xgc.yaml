@@ -17,6 +17,30 @@ statements:
       quote: Adamak - Karmandan | Erwin Khachikian | کارمندان | اروین خاچیکیان
       accessed: '2026-11-21'
       locator: Original artist-channel video
+  - value: https://music.apple.com/us/song/adamak/1726637901
+    references:
+    - source: music.apple.com-us-album-adamak-single-1726637900
+      quote: https://music.apple.com/us/song/adamak/1726637901
+      accessed: '2026-11-21'
+      locator: Exact Apple track
+  - value: https://music.apple.com/us/album/adamak-single/1726637900
+    references:
+    - source: music.apple.com-us-album-adamak-single-1726637900
+      quote: Adamak - Single
+      accessed: '2026-11-21'
+      locator: Digital edition
+  - value: https://open.spotify.com/track/3Pemr4ZnnqbRjwHh2hbkQo
+    references:
+    - source: open.spotify.com-embed-album-0fzkavvlswd3svael6ekd7
+      quote: spotify:track:3Pemr4ZnnqbRjwHh2hbkQo
+      accessed: '2026-11-21'
+      locator: Native track URI
+  - value: https://open.spotify.com/album/0fZKaVVlSwD3SVaEl6ekd7
+    references:
+    - source: open.spotify.com-embed-album-0fzkavvlswd3svael6ekd7
+      quote: Adamak
+      accessed: '2026-11-21'
+      locator: Spotify album
   performer:
   - value: Qzjh64j
     references:
@@ -24,6 +48,12 @@ statements:
       quote: Adamak - Karmandan | Erwin Khachikian | کارمندان | اروین خاچیکیان
       accessed: '2026-11-21'
       locator: Original artist-channel video
+  - value: Qy88zyz
+    references:
+    - source: music.apple.com-us-album-adamak-single-1726637900
+      quote: Erwin Khachikian
+      accessed: '2026-11-21'
+      locator: Artist credit
   release date:
   - value:
       date: '2024-02-19'
@@ -32,6 +62,13 @@ statements:
       quote: '2024-02-19'
       accessed: '2026-11-21'
       locator: Artist video publication date
+  - value:
+      date: '2024-02-07'
+    references:
+    - source: music.apple.com-us-album-adamak-single-1726637900
+      quote: '2024-02-07'
+      accessed: '2026-11-21'
+      locator: Issue date
   cover art:
   - value: https://i.ytimg.com/vi/SxPY8pDoPEs/maxresdefault.jpg
     qualifiers:
@@ -43,3 +80,10 @@ statements:
       quote: https://i.ytimg.com/vi/SxPY8pDoPEs/maxresdefault.jpg
       accessed: '2026-11-21'
       locator: Original video artwork
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-adamak-single-1726637900
+      quote: Adamak
+      accessed: '2026-11-21'
+      locator: Track 1

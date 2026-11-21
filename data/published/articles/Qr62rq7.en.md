@@ -140,15 +140,50 @@ references:
     quote: working in theatre is also another way for me to fulfil my need for expression
     accessed: '2026-11-21'
     locator: Artist interview, biography or performance credits
+  circle:
+    source: iranian.com-main-music-pouya-pour-amin.html
+    quote: Composed by Pouya Pour-Amin, Camerata Tehran Orchestra, conducted by Kayvan Mirhadi
+    accessed: '2026-11-21'
+    locator: Artist interview, biography or performance credits
+  show:
+    source: anchor.fm-s-211d23a8-podcast-rss
+    quote: دست کست، یک پادکست در مورد «دست» هست که توسط من شاهین خلیل‌پور و هم‌دستم پویا پورامین تولید و اجرا می‌شود.
+    accessed: '2026-11-21'
+    locator: Artist interview, biography or performance credits
+  music:
+    source: anchor.fm-s-211d23a8-podcast-rss
+    quote: 'ضبط و موسیقی: پویا پورامین'
+    accessed: '2026-11-21'
+    locator: Artist interview, biography or performance credits
+  edit:
+    source: anchor.fm-s-211d23a8-podcast-rss
+    quote: 'ادیت و موسیقی: پویا پورامین'
+    accessed: '2026-11-21'
+    locator: Artist interview, biography or performance credits
+  drama:
+    source: anchor.fm-s-211d23a8-podcast-rss
+    quote: 'بازیگران: فریبا جدیکار – مژده دایی – فراز سرابی – پویا پورامین – شاهین خلیل‌پور'
+    accessed: '2026-11-21'
+    locator: Artist interview, biography or performance credits
+  filmcrew:
+    source: defcapp.ir-movie-2412
+    quote: پویا پورامین صدابردار پویا پورامین صداگذار
+    accessed: '2026-11-21'
+    locator: Artist interview, biography or performance credits
+  filmname:
+    source: defcapp.ir-movie-2412
+    quote: عوامل نشانه‌ها
+    accessed: '2026-11-21'
+    locator: Artist interview, biography or performance credits
 ---
 
 Pouya Pour-Amin is an Iranian composer and double bassist based in Oslo. In Tehran he played in Kayvan Mirhadi’s Camerata Orchestra and in the band [Migrain Sq.](/en/migrain-sq-bkm/). His album [*Prison Episodes*](#prison-episodes-f8t) follows the experience of political imprisonment through seven pieces for strings, trumpet and electronics. He later wrote and directed a stage version in Norway.[^home][^period][^trio][^shape][^credits][^horn][^bow][^director]
 
 ## Playing bass in Tehran
 
-Born in Tehran in 1983, Pour-Amin played guitar before discovering the double bass at the Tehran Conservatory. It was the low register that drew him to it. Between 2004 and 2014 he played with Camerata, where Mirhadi conducted his first compositions and he met [Sara Bigdeli Shamloo](/en/sara-bigdeli-shamloo-z5s/) and [Nima Aghiani](/en/nima-aghiani-gnc/), his bandmates in Migrain Sq. He also played bass on Soheil Peyghambari’s *Gamaaneh* and Siavash Amini’s [*TAR*](#tar-exk).[^birth][^bass][^period][^teacher][^friends][^trio][^gama][^tar]
+Born in Tehran in 1983, Pour-Amin played guitar before discovering the double bass at the Tehran Conservatory. It was the low register that drew him to it. Between 2004 and 2014 he played with Camerata, where Mirhadi conducted his first compositions and he met [Sara Bigdeli Shamloo](/en/sara-bigdeli-shamloo-z5s/) and [Nima Aghiani](/en/nima-aghiani-gnc/), his bandmates in Migrain Sq. He also played bass on Soheil Peyghambari’s *Gamaaneh* and Siavash Amini’s [*TAR*](#tar-exk).[^birth][^bass][^period][^teacher][^friends][^trio][^gama][^tar] In a film of a concert in Aix-en-Provence, Mirhadi conducts Camerata in Pour-Amin’s [“A Persian Perfect Circle”](#a-persian-perfect-circle-zsx).[^circle]
 
-Pour-Amin said he turned to theatre because there were things he wanted to express that music alone could not convey. His stage scores include Amir Reza Koohestani’s *Timeloss* and Hassan Madjooni’s *Three Sisters*. He also composed for Maryam Ashrafi’s documentary *Eternal Sentinel*.[^design][^timeloss][^theatre][^doc]
+Pour-Amin said he turned to theatre because there were things he wanted to express that music alone could not convey. His stage scores include Amir Reza Koohestani’s *Timeloss* and Hassan Madjooni’s *Three Sisters*. He also composed for Maryam Ashrafi’s documentary *Eternal Sentinel*.[^design][^timeloss][^theatre][^doc] On the short film *Neshaneha* he recorded and designed the sound. In 2020 he and Shahin Khalilpour started *Dast Cast*, a Persian podcast about meanings of the word for “hand.” Pour-Amin supplied music, recorded and edited episodes, and acted in radio plays within the programme.[^filmname][^filmcrew][^show][^music][^edit][^drama]
 
 ## From a recording to a stage work
 

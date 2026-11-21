@@ -120,6 +120,51 @@ references:
     quote: '2025:YOYO : Mohammadreza Maygani /'
     accessed: 2026-11-21
     locator: Film and year
+  trans:
+    source: www.monamatbouriahi.com-about
+    quote: Mona Matbou Riahi (Klarinette, musikalische Leitung)
+    accessed: 2026-11-21
+    locator: Project and film credits
+  coll:
+    source: www.monamatbouriahi.com-about
+    quote: Music Scapes Kollektiv.
+    accessed: 2026-11-21
+    locator: Project and film credits
+  transname:
+    source: www.monamatbouriahi.com-about
+    quote: Trans:Track
+    accessed: 2026-11-21
+    locator: Project and film credits
+  movie:
+    source: www.monamatbouriahi.com-about
+    quote: Legendary Iranian filmmaker/ Narrante/ Cannes Film Frstival
+    accessed: 2026-11-21
+    locator: Project and film credits
+  frames:
+    source: www.monamatbouriahi.com-about
+    quote: 24 frames
+    accessed: 2026-11-21
+    locator: Project and film credits
+  abbas:
+    source: www.monamatbouriahi.com-about
+    quote: Abbas Kiarostami-
+    accessed: 2026-11-21
+    locator: Project and film credits
+  friend:
+    source: www.monamatbouriahi.com-about
+    quote: '2024: Friend: Rana Safiyari'
+    accessed: 2026-11-21
+    locator: Project and film credits
+  spotted:
+    source: www.monamatbouriahi.com-about
+    quote: Spotted Yellow
+    accessed: 2026-11-21
+    locator: Project and film credits
+  sarmad:
+    source: www.monamatbouriahi.com-about
+    quote: Baran Sarmad- Nominations
+    accessed: 2026-11-21
+    locator: Project and film credits
 ---
 
 مونا مطبوع ریاحی، نوازندهٔ کلارینت، آهنگساز و بداهه‌نواز، سال ۱۹۹۰ در تهران به دنیا آمد. در هنرستان موسیقی تهران درس خواند و هفده‌ساله بود که برای ادامهٔ تحصیل در دانشگاه موسیقی و هنرهای نمایشی به وین رفت. در دونوازی «نقش»، هم‌نواز او گلفام خیام، نوازندهٔ گیتار، است. آلبوم «Narrante» حاصل همکاری این دو در سال ۲۰۱۶ با نشر ای‌سی‌ام بود.[^birth][^school][^uni][^naqsh][^narr]
@@ -133,3 +178,5 @@ references:
 مطبوع ریاحی در آلبوم «Playground» به‌تنهایی با کلارینت و صداهای الکترونیک کار کرد. ضبط آلبوم در سال ۲۰۲۱ در استودیوی شاتو روژ وین انجام شد و نشر اسمال فورمز آن را در مه سال بعد منتشر کرد. دو قطعه از بخش پایانی آلبوم، «Emerge» و «Memories»، در موسیقی فیلم «ارتودنسی» هم شنیده می‌شوند. مطبوع ریاحی در کنار نوازندگی، سال ۲۰۲۳ مدیریت هنری جشنوارهٔ جَز «DE/semble» را در وین بر عهده گرفت.[^material][^place][^date][^film][^eight][^nine][^festival]
 
 در نمایش «Ottos Mops» از گروه theater.nuu، مطبوع ریاحی هم موسیقی را نوشت و هم همراه امی اشتاینر نمایش را شکل داد و اجرا کرد. برای فیلم «YOYO» ساختهٔ محمدرضا میقانی، او و مانو مایر مشترکاً موسیقی ساختند. فیلم در سال ۲۰۲۵ در جشنوارهٔ لوکارنو برای نخستین بار به نمایش درآمد.[^stage][^music][^yoyo][^year]
+
+در کارنامهٔ سینمایی او فیلم‌های «Spotted Yellow» از باران سرمد و «Friend» از رعنا صفیاری هم آمده‌اند. عباس کیارستمی در «۲۴ فریم» از موسیقی آلبوم «Narrante» استفاده کرد. مطبوع ریاحی در سال ۲۰۲۵ در پروژهٔ «Trans:Track» از گروه Music Scapes، هم کلارینت نواخت و هم سرپرستی موسیقی را به عهده داشت.[^spotted][^sarmad][^friend][^movie][^frames][^abbas][^trans][^coll][^transname]

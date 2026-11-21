@@ -25,6 +25,13 @@ statements:
       quote: Quartet Diminished
       accessed: 2026-11-21
       locator: Release artist
+  - value: Q3waxf2
+    references:
+    - source: music.apple.com-us-song-1777140754
+      quote: ‎Allegro Per Il Ré (feat. Tony Levin, Markus Reuter, Ehsan Sadigh, Mazyar Younesi, Rouzbeh Fadavi & Soheil Peyghambari)
+        - Song with Lyrics by Quartet Diminished - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
   listen link:
   - value: https://quartetdiminished.bandcamp.com/track/allegro-per-il-r-feats-tony-levin-markus-reuter
     references:
@@ -35,8 +42,7 @@ statements:
   - value: https://music.apple.com/us/song/allegro-per-il-r%C3%A9-feat-tony-levin-markus-reuter/1777140754
     references:
     - source: music.apple.com-us-album-deerand-feat-markus-reuter-ehsan-sadigh-mazyar-younesi-1777140747
-      quote: Allegro Per Il Ré (feat. Tony Levin, Markus Reuter, Ehsan Sadigh, Mazyar Younesi, Rouzbeh Fadavi &
-        Soheil Peyghambari)
+      quote: Allegro Per Il Ré (feat. Tony Levin, Markus Reuter, Ehsan Sadigh, Mazyar Younesi, Rouzbeh Fadavi & Soheil Peyghambari)
       accessed: '2026-11-21'
       locator: Album track 7
   - value: https://open.spotify.com/track/2narM2RyOPkbKQuAoD96in
@@ -45,6 +51,13 @@ statements:
       quote: Allegro Per Il Ré
       accessed: '2026-11-21'
       locator: Album track 7
+  - value: https://music.apple.com/us/song/1777140754
+    references:
+    - source: music.apple.com-us-song-1777140754
+      quote: ‎Allegro Per Il Ré (feat. Tony Levin, Markus Reuter, Ehsan Sadigh, Mazyar Younesi, Rouzbeh Fadavi & Soheil Peyghambari)
+        - Song with Lyrics by Quartet Diminished - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
   cover art:
   - value: https://f4.bcbits.com/img/a0364494878_2.jpg
     references:

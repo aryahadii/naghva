@@ -1,0 +1,63 @@
+id: Qykhkw5
+type: release
+statements:
+  name:
+  - value:
+      text: Je Veux (Vancouver)
+      language: en
+    references:
+    - source: www.youtube.com-watch-v-_mwv9enjm-s
+      quote: Je Veux (Cover Zaz) by Niaz Nawab
+      accessed: '2026-11-21'
+      locator: Artist video
+  performer:
+  - value: Qb269ps
+    references:
+    - source: www.youtube.com-watch-v-_mwv9enjm-s
+      quote: Je Veux (Cover Zaz) by Niaz Nawab
+      accessed: '2026-11-21'
+      locator: Artist video
+  - value: Qy88zyz
+    references:
+    - source: www.youtube.com-watch-v-_mwv9enjm-s
+      quote: Je Veux (Cover Zaz) by Niaz Nawab
+      accessed: '2026-11-21'
+      locator: Artist video
+  - value: Qzjh64j
+    references:
+    - source: t.me-niaznawab-184
+      quote: « Je Veux » cover ZAZ Niaz Nawab With Erwin Khachikian and KARMANDAN Live in Vancouver. @NiazNawab
+      accessed: '2026-11-21'
+      locator: Artist’s original performance caption
+  listen link:
+  - value: https://www.youtube.com/watch?v=_mWV9ENJM-s
+    references:
+    - source: www.youtube.com-watch-v-_mwv9enjm-s
+      quote: Je Veux (Cover Zaz) by Niaz Nawab
+      accessed: '2026-11-21'
+      locator: Artist video
+  - value: https://t.me/niaznawab/184
+    references:
+    - source: t.me-niaznawab-184
+      quote: « Je Veux » cover ZAZ Niaz Nawab With Erwin Khachikian and KARMANDAN Live in Vancouver. @NiazNawab
+      accessed: '2026-11-21'
+      locator: Artist’s original performance caption
+  cover art:
+  - value: https://i.ytimg.com/vi/_mWV9ENJM-s/maxresdefault.jpg
+    qualifiers:
+      credit:
+        text: Niaz Nawab
+        language: en
+    references:
+    - source: www.youtube.com-watch-v-_mwv9enjm-s
+      quote: https://i.ytimg.com/vi/_mWV9ENJM-s/maxresdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video artwork
+  release date:
+  - value:
+      date: '2019-11-09'
+    references:
+    - source: www.youtube.com-watch-v-_mwv9enjm-s
+      quote: '2019-11-09'
+      accessed: '2026-11-21'
+      locator: Video publication

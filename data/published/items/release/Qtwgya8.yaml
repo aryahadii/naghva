@@ -1,0 +1,53 @@
+id: Qtwgya8
+type: release
+statements:
+  name:
+  - value:
+      text: Santur & Cajon
+      language: en
+    references:
+    - source: www.youtube.com-oembed-7qymly3hd4w
+      quote: Santur & Cajon
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2026-07-06'
+    references:
+    - source: www.youtube.com-watchv-7qymly3hd4w
+      quote: '2026-07-06'
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://i.ytimg.com/vi/7QyMLY3hD4w/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-7qymly3hd4w
+      quote: https://i.ytimg.com/vi/7QyMLY3hD4w/hqdefault.jpg
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Soheil Hosnavi · original performance
+        language: en
+  performer:
+  - value: Q76q9jz
+    references:
+    - source: www.youtube.com-oembed-7qymly3hd4w
+      quote: Soheil Hosnavi
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: santur
+  listen link:
+  - value: https://www.youtube.com/watch?v=7QyMLY3hD4w
+    references:
+    - source: www.youtube.com-oembed-7qymly3hd4w
+      quote: Santur & Cajon
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  - value: https://t.me/soheilhosnavi/1144
+    references:
+    - source: t.me-soheilhosnavi-1144
+      quote: Virtual duet with my artist friend linalquintero
+      locator: Artist channel, original post 1144
+      accessed: '2026-11-21'

@@ -1,0 +1,63 @@
+id: Q89qtgx
+type: release
+statements:
+  name:
+  - value:
+      text: The Labyrinth of Surroundings
+      language: en
+    references:
+    - source: music.apple.com-us-song-916829110
+      quote: ‎The Labyrinth of Surroundings - Song with Lyrics by Soheil Peyghambari - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Q3waxf2
+    references:
+    - source: music.apple.com-us-song-916829110
+      quote: ‎The Labyrinth of Surroundings - Song with Lyrics by Soheil Peyghambari - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://music.apple.com/us/song/916829110
+    references:
+    - source: music.apple.com-us-song-916829110
+      quote: ‎The Labyrinth of Surroundings - Song with Lyrics by Soheil Peyghambari - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/soheil-peyghambari/the-labyrinth-of-surroundings
+    references:
+    - source: soundcloud.com-soheil-peyghambari-the-labyrinth-of-surroundings
+      quote: Stream The Labyrinth of Surroundings | نُه توی پیرامون by Soheil Peyghambari | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/6m0eYqJXCWvgF6OVxNj85p
+    references:
+    - source: open.spotify.com-track-6m0eyqjxcwvgf6ovxnj85p
+      quote: The Labyrinth of Surroundings - song and lyrics by Soheil Peyghambari | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://www.youtube.com/watch?v=aCgIT_Hkkio
+    references:
+    - source: www.youtube.com-watch-v-acgit_hkkio
+      quote: The Labyrinth of Surroundings
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/9c/bc/95/9cbc95a1-e2bd-6bbf-aba7-24a188aedf9b/889211010363.jpg/600x600bb.webp
+    references:
+    - source: music.apple.com-us-song-916829110
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/9c/bc/95/9cbc95a1-e2bd-6bbf-aba7-24a188aedf9b/889211010363.jpg/600x600bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Soheil Peyghambari on Apple Music
+        language: en
+  release date:
+  - value:
+      date: '2014-08-05'
+    references:
+    - source: music.apple.com-us-song-916829110
+      quote: August 5, 2014
+      accessed: '2026-11-21'
+      locator: Published date

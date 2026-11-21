@@ -1,0 +1,58 @@
+id: Qyj2s6p
+type: release
+statements:
+  name:
+  - value:
+      text: Dysphoria
+      language: en
+    references:
+    - source: music.apple.com-us-album-dysphoria-1593066799
+      quote: ‎Dysphoria - Album by Soheil Peyghambari - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  release type:
+  - value: album
+    references:
+    - source: music.apple.com-us-album-dysphoria-1593066799
+      quote: ‎Dysphoria - Album by Soheil Peyghambari - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Q3waxf2
+    references:
+    - source: music.apple.com-us-album-dysphoria-1593066799
+      quote: ‎Dysphoria - Album by Soheil Peyghambari - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://music.apple.com/us/album/dysphoria/1593066799
+    references:
+    - source: music.apple.com-us-album-dysphoria-1593066799
+      quote: ‎Dysphoria - Album by Soheil Peyghambari - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/album/3zZQnZudADrsbWDct1a0na
+    references:
+    - source: open.spotify.com-album-3zzqnzudadrsbwdct1a0na
+      quote: Listen to Dysphoria - Album by Soheil Peyghambari | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/74/3c/c9/743cc992-50dc-c84d-aee5-cad2735a656b/cover.jpg/632x632bb.webp
+    references:
+    - source: music.apple.com-us-album-dysphoria-1593066799
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/74/3c/c9/743cc992-50dc-c84d-aee5-cad2735a656b/cover.jpg/632x632bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Soheil Peyghambari on Apple Music
+        language: en
+  release date:
+  - value:
+      date: '2021-11-12'
+    references:
+    - source: music.apple.com-us-album-dysphoria-1593066799
+      quote: November 12, 2021
+      accessed: '2026-11-21'
+      locator: Published date

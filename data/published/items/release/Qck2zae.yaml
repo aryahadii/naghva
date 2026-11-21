@@ -1,0 +1,76 @@
+id: Qck2zae
+type: release
+statements:
+  name:
+  - value:
+      text: Range Farda
+      language: en
+    references:
+    - source: open.spotify.com-embed-album-0jjcmo3tvwshsqp91yenn6
+      quote: Range Farda
+      accessed: '2026-11-21'
+      locator: Spotify track 1
+  release type:
+  - value: single
+    references:
+    - source: open.spotify.com-embed-album-0jjcmo3tvwshsqp91yenn6
+      quote: Range Farda
+      accessed: '2026-11-21'
+      locator: Spotify track 1
+  listen link:
+  - value: https://open.spotify.com/track/4TG5frOMaT7daBqAiTd8IC
+    references:
+    - source: open.spotify.com-embed-album-0jjcmo3tvwshsqp91yenn6
+      quote: spotify:track:4TG5frOMaT7daBqAiTd8IC
+      accessed: '2026-11-21'
+      locator: Native track URI
+  - value: https://open.spotify.com/album/0JJcMo3TVWSHSQP91yeNN6
+    references:
+    - source: open.spotify.com-embed-album-0jjcmo3tvwshsqp91yenn6
+      quote: Range Farda
+      accessed: '2026-11-21'
+      locator: Spotify album
+  - value: https://music.apple.com/us/album/range-farda/1702749257
+    references:
+    - source: music.apple.com-us-album-range-farda-1702749257
+      quote: Range Farda - Single
+      accessed: '2026-11-21'
+      locator: Digital single
+  - value: https://music.apple.com/us/song/range-farda/1702749259
+    references:
+    - source: music.apple.com-us-album-range-farda-1702749257
+      quote: https://music.apple.com/us/song/range-farda/1702749259
+      accessed: '2026-11-21'
+      locator: Exact track permalink
+  performer:
+  - value: Qy88zyz
+    references:
+    - source: open.spotify.com-embed-album-0jjcmo3tvwshsqp91yenn6
+      quote: Erwin Khachikian
+      accessed: '2026-11-21'
+      locator: Spotify track billing
+  - value: Q4kz4kv
+    references:
+    - source: open.spotify.com-embed-album-0jjcmo3tvwshsqp91yenn6
+      quote: Shug One
+      accessed: '2026-11-21'
+      locator: Track billing
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/92/8d/87/928d87db-7ce5-b5c6-615c-1c528386f406/198025819308.jpg/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Digital artwork via Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-range-farda-1702749257
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/92/8d/87/928d87db-7ce5-b5c6-615c-1c528386f406/198025819308.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Single artwork
+  release date:
+  - value:
+      date: '2023-08-17'
+    references:
+    - source: music.apple.com-us-album-range-farda-1702749257
+      quote: '2023-08-17'
+      accessed: '2026-11-21'
+      locator: Digital issue date

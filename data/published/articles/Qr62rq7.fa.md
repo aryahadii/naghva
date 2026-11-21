@@ -140,15 +140,50 @@ references:
     quote: working in theatre is also another way for me to fulfil my need for expression
     accessed: '2026-11-21'
     locator: Artist interview, biography or performance credits
+  circle:
+    source: iranian.com-main-music-pouya-pour-amin.html
+    quote: Composed by Pouya Pour-Amin, Camerata Tehran Orchestra, conducted by Kayvan Mirhadi
+    accessed: '2026-11-21'
+    locator: Artist interview, biography or performance credits
+  show:
+    source: anchor.fm-s-211d23a8-podcast-rss
+    quote: دست کست، یک پادکست در مورد «دست» هست که توسط من شاهین خلیل‌پور و هم‌دستم پویا پورامین تولید و اجرا می‌شود.
+    accessed: '2026-11-21'
+    locator: Artist interview, biography or performance credits
+  music:
+    source: anchor.fm-s-211d23a8-podcast-rss
+    quote: 'ضبط و موسیقی: پویا پورامین'
+    accessed: '2026-11-21'
+    locator: Artist interview, biography or performance credits
+  edit:
+    source: anchor.fm-s-211d23a8-podcast-rss
+    quote: 'ادیت و موسیقی: پویا پورامین'
+    accessed: '2026-11-21'
+    locator: Artist interview, biography or performance credits
+  drama:
+    source: anchor.fm-s-211d23a8-podcast-rss
+    quote: 'بازیگران: فریبا جدیکار – مژده دایی – فراز سرابی – پویا پورامین – شاهین خلیل‌پور'
+    accessed: '2026-11-21'
+    locator: Artist interview, biography or performance credits
+  filmcrew:
+    source: defcapp.ir-movie-2412
+    quote: پویا پورامین صدابردار پویا پورامین صداگذار
+    accessed: '2026-11-21'
+    locator: Artist interview, biography or performance credits
+  filmname:
+    source: defcapp.ir-movie-2412
+    quote: عوامل نشانه‌ها
+    accessed: '2026-11-21'
+    locator: Artist interview, biography or performance credits
 ---
 
 پویا پورامین آهنگ‌ساز و نوازندهٔ کنترباس ایرانی ساکن اسلو است. در تهران با ارکستر کامراتا به رهبری کیوان میرهادی و گروه [میگرن](/fa/migrain-sq-bkm/) ساز می‌زد. در آلبوم [*Prison Episodes*](#prison-episodes-f8t)، تجربهٔ زندان سیاسی را در هفت قطعه برای سازهای زهی، ترومپت و موسیقی الکترونیک روایت کرد. بعدها نسخه‌ای صحنه‌ای از همین اثر را در نروژ نوشت و کارگردانی کرد.[^home][^period][^trio][^shape][^credits][^horn][^bow][^director]
 
 ## کنترباس در تهران
 
-پورامین در سال ۱۹۸۳ در تهران به دنیا آمد. گیتار می‌زد و در کنسرواتوار تهران با کنترباس آشنا شد. می‌گوید صدای بم ساز بود که او را به نواختنش علاقه‌مند کرد. از ۲۰۰۴ تا ۲۰۱۴ عضو ارکستر کامراتا بود. میرهادی نخستین ساخته‌هایش را با همین ارکستر اجرا کرد. آنجا با [سارا بیگدلی شاملو](/fa/sara-bigdeli-shamloo-z5s/) و [نیما عقیانی](/fa/nima-aghiani-gnc/) آشنا شد که در گروه میگرن هم با او همکار بودند. پورامین در *گمانه* اثر سهیل پیغمبری و در آلبوم [*TAR*](#tar-exk) اثر سیاوش امینی نیز کنترباس نواخت.[^birth][^bass][^period][^teacher][^friends][^trio][^gama][^tar]
+پورامین در سال ۱۹۸۳ در تهران به دنیا آمد. گیتار می‌زد و در کنسرواتوار تهران با کنترباس آشنا شد. می‌گوید صدای بم ساز بود که او را به نواختنش علاقه‌مند کرد. از ۲۰۰۴ تا ۲۰۱۴ عضو ارکستر کامراتا بود. میرهادی نخستین ساخته‌هایش را با همین ارکستر اجرا کرد. آنجا با [سارا بیگدلی شاملو](/fa/sara-bigdeli-shamloo-z5s/) و [نیما عقیانی](/fa/nima-aghiani-gnc/) آشنا شد که در گروه میگرن هم با او همکار بودند. پورامین در *گمانه* اثر سهیل پیغمبری و در آلبوم [*TAR*](#tar-exk) اثر سیاوش امینی نیز کنترباس نواخت.[^birth][^bass][^period][^teacher][^friends][^trio][^gama][^tar] در فیلمی از کنسرت ارکستر در اکس‌آن‌پرووانس، میرهادی اجرای قطعهٔ [«A Persian Perfect Circle»](#a-persian-perfect-circle-zsx) ساختهٔ پورامین را رهبری می‌کند.[^circle]
 
-پورامین می‌گوید به تئاتر روی آورد تا بتواند از چیزهایی بگوید که موسیقی به‌تنهایی برای بیانشان کافی نبود. از موسیقی‌هایی که برای صحنه نوشته می‌توان به *تایم‌لوس* به کارگردانی امیررضا کوهستانی و *سه خواهر* به کارگردانی حسن معجونی اشاره کرد. موسیقی مستند *Eternal Sentinel* ساختهٔ مریم اشرفی نیز از اوست.[^design][^timeloss][^theatre][^doc]
+پورامین می‌گوید به تئاتر روی آورد تا بتواند از چیزهایی بگوید که موسیقی به‌تنهایی برای بیانشان کافی نبود. از موسیقی‌هایی که برای صحنه نوشته می‌توان به *تایم‌لوس* به کارگردانی امیررضا کوهستانی و *سه خواهر* به کارگردانی حسن معجونی اشاره کرد. موسیقی مستند *Eternal Sentinel* ساختهٔ مریم اشرفی نیز از اوست.[^design][^timeloss][^theatre][^doc] در فیلم کوتاه *نشانه‌ها* کار صدابرداری و صداگذاری را بر عهده داشت. در سال ۲۰۲۰ او و شاهین خلیل‌پور «دست‌کست» را راه انداختند؛ پادکستی دربارهٔ معناها و کاربردهای واژهٔ دست. پورامین موسیقی، ضبط و تدوین قسمت‌هایی از برنامه را بر عهده داشت و در نمایش‌های رادیویی آن نیز بازی کرد.[^filmname][^filmcrew][^show][^music][^edit][^drama]
 
 ## از آلبوم تا صحنه
 

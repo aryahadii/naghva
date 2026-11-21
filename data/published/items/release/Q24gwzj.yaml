@@ -1,0 +1,47 @@
+id: Q24gwzj
+type: release
+statements:
+  name:
+  - value:
+      text: Möhit IA
+      language: en
+    references:
+    - source: mohittrio.bandcamp.com-track-m-hit-ia
+      quote: Möhit IA | Reviriego / Peyghambari / Trilla
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Q3waxf2
+    references:
+    - source: mohittrio.bandcamp.com-album-m-hit
+      quote: SOHEIL PEYGHAMBARI - clarinet
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: clarinet
+  listen link:
+  - value: https://mohittrio.bandcamp.com/track/m-hit-ia
+    references:
+    - source: mohittrio.bandcamp.com-track-m-hit-ia
+      quote: Möhit IA | Reviriego / Peyghambari / Trilla
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a2476306533_10.jpg
+    references:
+    - source: mohittrio.bandcamp.com-track-m-hit-ia
+      quote: https://f4.bcbits.com/img/a2476306533_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Soheil Peyghambari on Bandcamp
+        language: en
+  release date:
+  - value:
+      date: '2020-12-18'
+    references:
+    - source: mohittrio.bandcamp.com-album-m-hit
+      quote: released December 18, 2020
+      accessed: '2026-11-21'
+      locator: Published date

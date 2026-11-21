@@ -1,0 +1,53 @@
+id: Qgfpgte
+type: release
+statements:
+  name:
+  - value:
+      text: Santur, Bass & Baqlama
+      language: en
+    references:
+    - source: www.youtube.com-oembed-7fxuiqpf2be
+      quote: Santur, Bass & Baqlama
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2026-11-20'
+    references:
+    - source: www.youtube.com-watchv-7fxuiqpf2be
+      quote: '2026-11-20'
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://i.ytimg.com/vi/7fxUiqPF2bE/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-7fxuiqpf2be
+      quote: https://i.ytimg.com/vi/7fxUiqPF2bE/hqdefault.jpg
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Soheil Hosnavi · original performance
+        language: en
+  performer:
+  - value: Q76q9jz
+    references:
+    - source: www.youtube.com-oembed-7fxuiqpf2be
+      quote: Soheil Hosnavi
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: santur
+  listen link:
+  - value: https://www.youtube.com/watch?v=7fxUiqPF2bE
+    references:
+    - source: www.youtube.com-oembed-7fxuiqpf2be
+      quote: Santur, Bass & Baqlama
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  - value: https://t.me/soheilhosnavi/1174
+    references:
+    - source: t.me-soheilhosnavi-1174
+      quote: Virtual Trio Collaboration with
+      locator: Artist channel, original post 1174
+      accessed: '2026-11-21'

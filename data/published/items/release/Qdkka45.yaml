@@ -1,0 +1,76 @@
+id: Qdkka45
+type: release
+statements:
+  name:
+  - value:
+      text: Afyoon
+      language: en
+    references:
+    - source: music.apple.com-us-album-afyoon-single-6829077133
+      quote: Afyoon
+      accessed: '2026-11-21'
+      locator: Track 1
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-afyoon-single-6829077133
+      quote: Afyoon
+      accessed: '2026-11-21'
+      locator: Track 1
+  listen link:
+  - value: https://music.apple.com/us/song/afyoon/6829077134
+    references:
+    - source: music.apple.com-us-album-afyoon-single-6829077133
+      quote: https://music.apple.com/us/song/afyoon/6829077134
+      accessed: '2026-11-21'
+      locator: Exact Apple track
+  - value: https://music.apple.com/us/album/afyoon-single/6829077133
+    references:
+    - source: music.apple.com-us-album-afyoon-single-6829077133
+      quote: Afyoon - Single
+      accessed: '2026-11-21'
+      locator: Digital edition
+  - value: https://open.spotify.com/track/4dnRm9t87bcLRrLaKojkFb
+    references:
+    - source: open.spotify.com-embed-album-5xkkoqdsrgzhltjbxunal7
+      quote: spotify:track:4dnRm9t87bcLRrLaKojkFb
+      accessed: '2026-11-21'
+      locator: Native track URI
+  - value: https://open.spotify.com/album/5xKKoQdsrgzHltjBxunAL7
+    references:
+    - source: open.spotify.com-embed-album-5xkkoqdsrgzhltjbxunal7
+      quote: Afyoon
+      accessed: '2026-11-21'
+      locator: Spotify album
+  performer:
+  - value: Q4kz4kv
+    references:
+    - source: music.apple.com-us-album-afyoon-single-6829077133
+      quote: Afyoon - Single
+      accessed: '2026-11-21'
+      locator: Digital edition
+  - value: Qy88zyz
+    references:
+    - source: music.apple.com-us-album-afyoon-single-6829077133
+      quote: Erwin Khachikian
+      accessed: '2026-11-21'
+      locator: Artist credit
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/70/9a/ed/709aed61-3a37-e63d-a9cd-cab3943af2b8/885000825279.png/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Digital artwork via Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-afyoon-single-6829077133
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/70/9a/ed/709aed61-3a37-e63d-a9cd-cab3943af2b8/885000825279.png/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Edition artwork
+  release date:
+  - value:
+      date: '2026-11-18'
+    references:
+    - source: music.apple.com-us-album-afyoon-single-6829077133
+      quote: '2026-11-18'
+      accessed: '2026-11-21'
+      locator: Issue date

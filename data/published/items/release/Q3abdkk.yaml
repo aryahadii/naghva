@@ -1,0 +1,57 @@
+id: Q3abdkk
+type: release
+statements:
+  name:
+  - value:
+      text: Orientation (Eastern Star)
+      language: en
+    references:
+    - source: music.apple.com-us-song-916829114
+      quote: ‎Orientation (Eastern Star) - Song with Lyrics by Soheil Peyghambari - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Q3waxf2
+    references:
+    - source: music.apple.com-us-song-916829114
+      quote: ‎Orientation (Eastern Star) - Song with Lyrics by Soheil Peyghambari - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://music.apple.com/us/song/916829114
+    references:
+    - source: music.apple.com-us-song-916829114
+      quote: ‎Orientation (Eastern Star) - Song with Lyrics by Soheil Peyghambari - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/0WmnXqcK7dVOCnEpvlovKA
+    references:
+    - source: open.spotify.com-track-0wmnxqck7dvocnepvlovka
+      quote: Orientation (Eastern Star) - song and lyrics by Soheil Peyghambari | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://www.youtube.com/watch?v=lEc6JUYc7lE
+    references:
+    - source: www.youtube.com-watch-v-lec6juyc7le
+      quote: Orientation (Eastern Star)
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/9c/bc/95/9cbc95a1-e2bd-6bbf-aba7-24a188aedf9b/889211010363.jpg/600x600bb.webp
+    references:
+    - source: music.apple.com-us-song-916829114
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/9c/bc/95/9cbc95a1-e2bd-6bbf-aba7-24a188aedf9b/889211010363.jpg/600x600bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Soheil Peyghambari on Apple Music
+        language: en
+  release date:
+  - value:
+      date: '2014-08-05'
+    references:
+    - source: music.apple.com-us-song-916829114
+      quote: August 5, 2014
+      accessed: '2026-11-21'
+      locator: Published date

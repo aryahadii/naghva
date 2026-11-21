@@ -25,6 +25,13 @@ statements:
       quote: Quartet Diminished
       accessed: 2026-11-21
       locator: Release artist
+  - value: Q3waxf2
+    references:
+    - source: music.apple.com-us-song-1777140751
+      quote: ‎Deerand, Pt. 4 (feat. Markus Reuter, Ehsan Sadigh, Mazyar Younesi, Rouzbeh Fadavi & Soheil Peyghambari) - Song with Lyrics
+        by Quartet Diminished - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
   listen link:
   - value: https://quartetdiminished.bandcamp.com/track/deerand-pt-iv-feats-markus-reuter
     references:
@@ -44,6 +51,13 @@ statements:
       quote: Deerand, Pt. 4
       accessed: '2026-11-21'
       locator: Album track 4
+  - value: https://music.apple.com/us/song/1777140751
+    references:
+    - source: music.apple.com-us-song-1777140751
+      quote: ‎Deerand, Pt. 4 (feat. Markus Reuter, Ehsan Sadigh, Mazyar Younesi, Rouzbeh Fadavi & Soheil Peyghambari) - Song with Lyrics
+        by Quartet Diminished - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
   cover art:
   - value: https://f4.bcbits.com/img/a0364494878_2.jpg
     references:

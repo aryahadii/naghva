@@ -6,6 +6,8 @@ language: en
 tier: own
 about:
 - Sara Fotros
+- Zagros Daf Ensemble
+- Zanyar Hesami
 ---
 
 Original release, musician interview or performance credits, read 2026-11-21.
@@ -31,3 +33,7 @@ Musician interview, original recording credits or presenter programme, read 2026
 Musician interview, original recording credits or presenter programme, read 2026-11-21.
 
 > 2025-08-28
+
+Original recording, artist credit or presenter programme, read 2026-11-21.
+
+> Daf û Dîlan – A new music video by Zagros Daf Ensemble, arranged by Zanyar Hesami and created by Sara Fotros & Zanyar Hesami.

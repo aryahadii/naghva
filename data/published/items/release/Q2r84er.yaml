@@ -17,6 +17,18 @@ statements:
       quote: '''Rafto Gozasht'' live by Niaz and Erwin with KARMANDAN'
       accessed: '2026-11-21'
       locator: Original artist-channel video
+  - value: https://www.youtube.com/watch?v=JjgCsXMTICc
+    references:
+    - source: www.youtube.com-watch-v-jjgcsxmticc
+      quote: Rafto Gozasht ManotoTV
+      accessed: '2026-11-21'
+      locator: Artist video
+  - value: https://t.me/niaznawab/161
+    references:
+    - source: t.me-niaznawab-161
+      quote: '‏ ‘Rafto Gozasht’ Music and Words by Niaz Nawab Arranged by Erwin Khachikian Performed by Karmandan '
+      accessed: '2026-11-21'
+      locator: Artist’s original performance caption
   performer:
   - value: Qzjh64j
     references:
@@ -30,6 +42,12 @@ statements:
       quote: '''Rafto Gozasht'' live by Niaz and Erwin with KARMANDAN'
       accessed: '2026-11-21'
       locator: Original artist-channel video
+  - value: Qy88zyz
+    references:
+    - source: www.youtube.com-watch-v-wafyeusccmy
+      quote: '''Rafto Gozasht'' live by Niaz and Erwin with KARMANDAN'
+      accessed: '2026-11-21'
+      locator: Original video
   release date:
   - value:
       date: '2019-02-15'

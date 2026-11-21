@@ -1,0 +1,53 @@
+id: Q43dcjk
+type: release
+statements:
+  name:
+  - value:
+      text: Santur & Handpan
+      language: en
+    references:
+    - source: www.youtube.com-oembed-qxxhw0nxr3c
+      quote: Santur & Handpan
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2026-08-12'
+    references:
+    - source: www.youtube.com-watchv-qxxhw0nxr3c
+      quote: '2026-08-12'
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://i.ytimg.com/vi/qxXHW0nXR3c/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-qxxhw0nxr3c
+      quote: https://i.ytimg.com/vi/qxXHW0nXR3c/hqdefault.jpg
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Soheil Hosnavi · original performance
+        language: en
+  performer:
+  - value: Q76q9jz
+    references:
+    - source: www.youtube.com-oembed-qxxhw0nxr3c
+      quote: Soheil Hosnavi
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: santur
+  listen link:
+  - value: https://www.youtube.com/watch?v=qxXHW0nXR3c
+    references:
+    - source: www.youtube.com-oembed-qxxhw0nxr3c
+      quote: Santur & Handpan
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  - value: https://t.me/soheilhosnavi/1152
+    references:
+    - source: t.me-soheilhosnavi-1152
+      quote: Virtual duet with golsa nazari the handpan player from Shiraz
+      locator: Artist channel, original post 1152
+      accessed: '2026-11-21'

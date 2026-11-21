@@ -1,0 +1,63 @@
+id: Q9z3jbg
+type: release
+statements:
+  name:
+  - value:
+      text: Dlovan
+      language: en
+    references:
+    - source: music.apple.com-us-album-dlovan-1582836479
+      quote: Dlovan
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
+  performer:
+  - value: Qje5fct
+    references:
+    - source: music.apple.com-us-album-dlovan-1582836479
+      quote: Zanyar Hesami
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
+  - value: Q84yrfx
+    references:
+    - source: music.apple.com-us-album-dlovan-1582836479
+      quote: Nelia Safaei
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2021-09-06'
+    references:
+    - source: music.apple.com-us-album-dlovan-1582836479
+      quote: '2021-09-06'
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f7/ff/23/f7ff2387-0300-453f-9a9a-b19e02d02553/689690356798_cover.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-dlovan-1582836479
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f7/ff/23/f7ff2387-0300-453f-9a9a-b19e02d02553/689690356798_cover.jpg/1200x630bb.jpg
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Dlovan - Single
+        language: en
+  listen link:
+  - value: https://music.apple.com/us/song/dlovan/1582836480
+    references:
+    - source: music.apple.com-us-album-dlovan-1582836479
+      quote: Dlovan
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/5Tls9yzUBkCKJ3xDZfT4rL
+    references:
+    - source: open.spotify.com-embed-album-3dzjmkrxrxrgmnd3tzrftg
+      quote: Dlovan
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
+  - value: https://music.apple.com/us/album/dlovan-single/1582836479
+    references:
+    - source: music.apple.com-us-album-dlovan-1582836479
+      quote: Dlovan - Single
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'

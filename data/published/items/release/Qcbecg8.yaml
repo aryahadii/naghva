@@ -1,0 +1,59 @@
+id: Qcbecg8
+type: release
+statements:
+  name:
+  - value:
+      text: Ghasedak
+      language: en
+    references:
+    - source: music.apple.com-us-album-ghasedak-single-1820842376
+      quote: Ghasedak
+      accessed: 2026-11-21
+      locator: Album or track heading
+  listen link:
+  - value: https://music.apple.com/us/song/ghasedak/1820842377
+    references:
+    - source: music.apple.com-us-album-ghasedak-single-1820842376
+      quote: Ghasedak
+      accessed: 2026-11-21
+      locator: Album or track heading
+  - value: https://open.spotify.com/track/1OqHnXhCWBFxeatK3ZWQN5
+    references:
+    - source: open.spotify.com-album-30tjpv1st47us64us2g3o7
+      quote: Ghasedak
+      accessed: 2026-11-21
+      locator: Native recording title
+  - value: https://youtu.be/7JnApvjh760
+    references:
+    - source: youtu.be-7jnapvjh760
+      quote: Ghasedak (Cover) – Pardis for Children feat. Darya Dadvar | قاصدک
+      accessed: 2026-11-21
+      locator: Artist film heading
+  release date:
+  - value:
+      date: '2025-07-15'
+    references:
+    - source: music.apple.com-us-album-ghasedak-single-1820842376
+      quote: '2025-07-15'
+      accessed: 2026-11-21
+      locator: Digital publication date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/b0/f7/5db0f7c5-6141-b571-5e1c-60b8f56a2cb5/artwork.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-ghasedak-single-1820842376
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/b0/f7/5db0f7c5-6141-b571-5e1c-60b8f56a2cb5/artwork.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Native artwork
+  performer:
+  - value: Qxyr3j2
+    references:
+    - source: music.apple.com-us-album-ghasedak-single-1820842376
+      quote: Darya Dadvar
+      accessed: 2026-11-21
+      locator: Edition artist
+  - value: Qbqt92a
+    references:
+    - source: music.apple.com-us-album-ghasedak-single-1820842376
+      quote: Pardis for Children
+      accessed: 2026-11-21
+      locator: Edition artist

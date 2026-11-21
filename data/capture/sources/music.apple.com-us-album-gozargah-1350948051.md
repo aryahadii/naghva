@@ -6,6 +6,7 @@ tier: discography
 language: en
 about:
 - Karmandan
+- Erwin Khachikian
 status: processed
 ---
 
@@ -96,3 +97,7 @@ Track 9, read 2026-11-21.
 > https://music.apple.com/us/song/bridge/1350948064
 
 Exact track link, read 2026-11-21.
+
+> Erwin Khachikian
+
+Artist credit, read 2026-11-21.

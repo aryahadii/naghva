@@ -1,0 +1,91 @@
+# Niaz Nawab
+
+Reconciled the fourteen Apple releases on the artist page, seventeen relevant Spotify product editions, thirty-six artist video uploads, and 150 visible Telegram posts. The artist soundcloud.com/niaz-nawab account currently returns no tracks. The nine-track Hafez, the duo’s five-track Terminal 1, and the live choir album Baraye Zendegi are separate recordings. Named versions from the Persian theatre, Strasbourg, BBC, Tirgan and Canadian concerts retain separate titles. The official biography dates Hafez to 2016; the artist interview associates its release with the 2017 concert tour, and the Apple issue is dated 2016. The interview described her Shamlou cycle Lab as a forthcoming work; no standalone issue under that title could be corroborated. Cover and portrait provenance are cited on each record. The official biography credits the portrait to Danish Saroee.
+
+- Baraye Zendegi (Qn53gty) · https://music.apple.com/us/album/baraye-zendegi/1831324055 · https://open.spotify.com/album/6OVtLoY1cx3XlGnYpPwKdC
+- Neshane To (Live) (Qwmd96n) · https://music.apple.com/us/song/neshane-to-live/1831324056 · https://open.spotify.com/track/5zTev3BpBrocgMenlPcNab
+- Ey Sharghie Ghamgin (Live) (Q7vvq5k) · https://music.apple.com/us/song/ey-sharghie-ghamgin-live/1831324057 · https://open.spotify.com/track/7MKFwcftXizQePUUR0Aa4e
+- Hagh (Live) (Qxj2g54) · https://music.apple.com/us/song/hagh-live/1831324058 · https://open.spotify.com/track/5ZDxI453u34xwo8ILXypXD
+- Resid An Shah (Live) (Qm6bqgx) · https://music.apple.com/us/song/resid-an-shah-live/1831324059 · https://open.spotify.com/track/6pYD07PluGZHMQ6XTHm7Aa
+- Bia Bia (Live) (Qydvv2z) · https://music.apple.com/us/song/bia-bia-live/1831324060 · https://open.spotify.com/track/1JmunTDCviBIFr1b9Yj0OM
+- Gole Sorkh (Live) (Qy2faa6) · https://music.apple.com/us/song/gole-sorkh-live/1831324061 · https://open.spotify.com/track/0GFlJ1jdHifaXF1G93z4eg
+- Bavar (Live) [feat. Hanieh Ayat & Mehran Behzadmehr] (Q6amvwt) · https://music.apple.com/us/song/bavar-live-feat-hanieh-ayat-mehran-behzadmehr/1831324062 · https://open.spotify.com/track/5Fnd7ojcOgNRijT5FqOR5F
+- Ye Pariye Naz (Live) (Q6arkct) · https://music.apple.com/us/song/ye-pariye-naz-live/1831324063 · https://open.spotify.com/track/3oM6MT8FcwfgkT8Q8eQsrl
+- Simorgh (Live) (Qarsr5y) · https://music.apple.com/us/song/simorgh-live/1831324064 · https://open.spotify.com/track/7t4eaUhyoiAb28KpukGruN
+- Hafez (Qcpxqrw) · https://music.apple.com/us/album/hafez/1076395652 · https://open.spotify.com/album/34XcqlxnNUgEcfy0lCQqgA
+- Bâdeh (Q6q7xds) · https://music.apple.com/us/song/b%C3%A2deh/1076395656 · https://open.spotify.com/track/5XJKHxJ9FmIGNa2ST8NEU1 · https://www.youtube.com/watch?v=AAAEeaO8uKw
+- Bikhabar (Qdh3wxq) · https://music.apple.com/us/song/bikhabar/1076395657 · https://open.spotify.com/track/4g5h1J9GUCh2Fwhdl40I10
+- Bol Bol (Q4r39w6) · https://music.apple.com/us/song/bol-bol/1076395658 · https://open.spotify.com/track/4jx2NVCvd64yDbM03cUq4s · https://www.youtube.com/watch?v=T92kDbi7llA
+- Dariyâ (Qm2mqym) · https://music.apple.com/us/song/dariy%C3%A2/1076395659 · https://open.spotify.com/track/2HP07sKpL7gyWjeMoq0PcX · https://www.youtube.com/watch?v=ekD6_l4zi88 · https://t.me/niaznawab/130
+- Hekâyat (Qxvsz7w) · https://music.apple.com/us/song/hek%C3%A2yat/1076396741 · https://open.spotify.com/track/14eqgk1zSvvEUbxBaR5JW4 · https://www.youtube.com/watch?v=IYOvK5a-GuI · https://t.me/niaznawab/140
+- Hagh (Qr3vc5k) · https://music.apple.com/us/song/hagh/1076396742 · https://open.spotify.com/track/7FXmqzPUNYcPswV1KvlKnc · https://www.youtube.com/watch?v=ET4D-_Nmzno · https://t.me/niaznawab/129
+- Naghsh-e To (Qy4tpwx) · https://music.apple.com/us/song/naghsh-e-to/1076396743 · https://open.spotify.com/track/0vDuuKp0ODBP3r9xeHuLo4
+- Sâghi (Qj396yj) · https://music.apple.com/us/song/s%C3%A2ghi/1076396744 · https://open.spotify.com/track/2u0ccfmUhZTmeBFZ3X48lK · https://www.youtube.com/watch?v=eX4U2D9uiSk
+- Zamâneh (Qh5n5n6) · https://music.apple.com/us/song/zam%C3%A2neh/1076396745 · https://open.spotify.com/track/2VX1mS0Gxjdep0XeisZ1NO · https://www.youtube.com/watch?v=LXB0VLTYdIE · https://t.me/niaznawab/174
+- Charkhidim (Qctt5wd) · https://music.apple.com/us/song/charkhidim-feat-niaz-nawab/1445382856 · https://music.apple.com/us/album/charkhidim-feat-niaz-nawab/1445382855 · https://music.apple.com/us/song/charkhidim/1455191042 · https://open.spotify.com/track/6yI3TUVaTVG1q7NgXhnRWh · https://open.spotify.com/album/5tnz8L54Z8hG6UAZGK9JeD · https://open.spotify.com/track/79TpV2iJ3hLjSkNrFbxNHx · https://www.youtube.com/watch?v=QCrg2DH13OA · https://music.apple.com/us/album/charkhidim-feat-niaz-nawab-single/1445382855 · https://t.me/niaznawab/154 · https://t.me/niaznawab/155
+- Simorgh (Qbz2j4v) · https://music.apple.com/us/song/simorgh/1575018098 · https://music.apple.com/us/album/simorgh-single/1575018097 · https://open.spotify.com/track/0up9M90S08HKVHfZbiLAut · https://open.spotify.com/album/5Sl4eWEVhIhDjvAwLLAKG4
+- شادی (Qwrn346) · https://music.apple.com/us/song/%D8%B4%D8%A7%D8%AF%DB%8C/1703870684 · https://music.apple.com/us/album/%D8%B4%D8%A7%D8%AF%DB%8C-single/1703870672 · https://open.spotify.com/track/1cWNmH2S6KRCjoIoDghE9Q · https://open.spotify.com/album/3NuKFhbhRtACxAQTGT8ymD
+- Faryade Javdan (Live) [feat. Niaz Nawab & Bahar Choir] (Qgk54aa) · https://music.apple.com/us/song/faryade-javdan-live-feat-niaz-nawab-bahar-choir/1878815102 · https://music.apple.com/us/album/faryade-javdan-live-feat-niaz-nawab-bahar-choir-single/1878815101 · https://open.spotify.com/track/64dXeflOw8FTl4rqHrvRFF · https://open.spotify.com/album/1EjCTEjCJJYeMg0R5JE31c
+- Darya (Rock) (Qxmh7bd) · https://music.apple.com/us/song/darya-rock/1447539226 · https://music.apple.com/us/album/darya-rock/1447539225 · https://open.spotify.com/track/4y9j1rfBkVUWtGTeM5Fvwr · https://open.spotify.com/album/6z2ybt2KvTgpYCWnnl7zkI
+- Terminal 1 (Q8mwfwz) · https://music.apple.com/us/album/darya/1455191037 · https://open.spotify.com/album/5ULR2wOwSBDUTSEfYlYVBg
+- Rafto Gozasht (Q5dcc4e) · https://music.apple.com/us/song/rafto-gozasht/1455191038 · https://open.spotify.com/track/0rlFrgeIRhpdyw0Zt5YB1a
+- Darya (Qqxq477) · https://music.apple.com/us/song/darya/1455191039 · https://open.spotify.com/track/65tZWCBFLNDFzQi8rtgd3B
+- Maghze Por Jib Khali (Terminal 1) (Qgsqy49) · https://music.apple.com/us/song/maghze-por-jib-khali/1455191040 · https://open.spotify.com/track/6mVdi76mRrJbqM1Uu50TI6
+- Badeh (Qmbshan) · https://music.apple.com/us/song/badeh/1455191041 · https://open.spotify.com/track/13Di5P7zSFY575yO9NbGGJ
+- Adame Tanha (Qvmvk2z) · https://music.apple.com/us/song/adame-tanha/1603928221 · https://music.apple.com/us/album/adame-tanha/1603928220 · https://open.spotify.com/track/2NILVkYl5dtwxxr1DMmI1I · https://open.spotify.com/album/6GwvzXe1n9JtiJ1Q0c6INb · https://www.youtube.com/watch?v=y6gWov0u5Vk · https://music.apple.com/us/album/adame-tanha-single/1603928220
+- Kahroba (Qctscah) · https://music.apple.com/us/song/kahroba/1729632155 · https://music.apple.com/us/album/kahroba-single/1729632153 · https://open.spotify.com/track/4ffCcggUhPvVwywaQYJVg3 · https://open.spotify.com/album/6O2X6uqRkMrBLbGQawqBEJ
+- دریا (Q9danhe) · https://music.apple.com/us/song/%D8%AF%D8%B1%DB%8C%D8%A7/1703847543 · https://music.apple.com/us/album/%D8%AF%D8%B1%DB%8C%D8%A7-single/1703847529 · https://open.spotify.com/track/0zusF0Bbxbj6Pr2THR4apP · https://open.spotify.com/album/35EQSwjCeFBP8KGLeBwDQb
+- Ye Pariye Naz (Qtjspba) · https://music.apple.com/us/song/ye-pariye-naz/1608487358 · https://music.apple.com/us/album/ye-pariye-naz-single/1608487357 · https://open.spotify.com/track/1AvqmHvp1lj04WcC6rFehm · https://open.spotify.com/album/0lGgs8E5WjwV4CTuEEI1gc
+- Avazeh Khan Nah Avaz (Q8tyst8) · https://music.apple.com/us/song/avazeh-khan-nah-avaz/1554640291 · https://music.apple.com/us/album/avazeh-khan-nah-avaz/1554640290 · https://music.apple.com/us/album/avazeh-khan-nah-avaz-single/1554640290 · https://open.spotify.com/track/7DJhL1OYihZwGUchuuJe5A · https://open.spotify.com/album/2xxuuUXVAVHMErEgHBqMgR
+- Eve (Qdrg5y8) · https://music.apple.com/us/song/eve-feat-niaz-nawab-maziyar-khavajin/1165023350 · https://music.apple.com/us/album/eve-feat-niaz-nawab-maziyar-khavajin-single/1165023298 · https://open.spotify.com/track/2VnqUcrDCVRA6RFymyPLid · https://open.spotify.com/album/3joEotZlUHlBplqqAgeRkQ
+- Absence (Qtdba3z) · https://www.youtube.com/watch?v=zYlGcwEsakE · https://t.me/niaznawab/238
+- Hagh (with Bahar Choir) (Qq2tg35) · https://www.youtube.com/watch?v=VgcQVB33iOw
+- Ey Sharghie Ghamgin (with Bahar Choir) (Q6mqz7s) · https://www.youtube.com/watch?v=-3f0iwEVppg
+- Zamaneh (BBC Yalda) (Qczscpr) · https://www.youtube.com/watch?v=mecwk995Mmo · https://t.me/niaznawab/231
+- Ye Pariye Naz (BBC Persian) (Qv4chac) · https://www.youtube.com/watch?v=Rwqckn8RNAM · https://t.me/niaznawab/228
+- Darya (BBC Persian) (Qv5kw6y) · https://www.youtube.com/watch?v=-a4mJVgQ6I0 · https://t.me/niaznawab/227
+- Niaz Nawab and Hamidreza Javdan (MBC Persia) (Qd5rf9q) · https://www.youtube.com/watch?v=b1j7eTMwnK8
+- Ay Adamha (Qzwpfq5) · https://www.youtube.com/watch?v=8lc93BiBvnY
+- Simorgh (MBC Persia) (Qvcj9w2) · https://www.youtube.com/watch?v=r4Q4s_X6938
+- Darya (Paris Philharmonic Orchestra) (Qys9tkr) · https://www.youtube.com/watch?v=Y7Odx3h11Ng · https://t.me/niaznawab/75 · https://t.me/niaznawab/122
+- Simorgh (Los Angeles) (Qjq7rdd) · https://www.youtube.com/watch?v=FBXSutXjs-o · https://t.me/niaznawab/211
+- Tanha Sho (Qmke3pd) · https://www.youtube.com/watch?v=hISz2PK-3Ks · https://open.spotify.com/track/7scxgDPQvVbhs8clHW4yyL · https://open.spotify.com/album/7fsRnnE869YVtXN8i3i0YW
+- Jahane Man (Qpe4pdd) · https://open.spotify.com/track/4iRCvaLkLHfiKx23JqXEb6 · https://open.spotify.com/album/5cR3z2zoeRNPJEfrA1xkNa · https://www.youtube.com/watch?v=dABQAQ7pIO8 · https://music.apple.com/us/album/jahane-man/1517655856 · https://music.apple.com/us/song/jahane-man/1517655858 · https://www.youtube.com/watch?v=lIkAnYiJCu8 · https://t.me/niaznawab/198
+- Ye Pariye Naz (Chandshanbeh Ba Sina) (Q6dncwr) · https://www.youtube.com/watch?v=GBQNn3-dvXQ · https://t.me/niaznawab/188
+- Jahane Man (Chandshanbeh Ba Sina) (Qw94z4y) · https://www.youtube.com/watch?v=e7GdqKlDAsk · https://t.me/niaznawab/186
+- Je Veux (Vancouver) (Qykhkw5) · https://www.youtube.com/watch?v=_mWV9ENJM-s · https://t.me/niaznawab/184
+- Ye Pariye Naz (Vancouver) (Qykq86g) · https://www.youtube.com/watch?v=csoPinHtibM · https://t.me/niaznawab/183
+- Jahane Man (Live in Vancouver) (Qr34bn7) · https://www.youtube.com/watch?v=5YWmJnG_fxs · https://t.me/niaznawab/182
+- Darya (Studio 13) (Q9m2e2r) · https://www.youtube.com/watch?v=EK3TxQiPULI · https://t.me/niaznawab/167
+- Garun Garune (Live) (Q6ptesp) · https://www.youtube.com/watch?v=RPA6BkzaDgI · https://www.youtube.com/watch?v=SbEYAdD7gMc · https://t.me/niaznawab/166
+- Toronto Medley with Rana Farhan and Erwin Khachikian (Qxgfbp2) · https://www.youtube.com/watch?v=dnJp3fbQiKY · https://t.me/niaznawab/163
+- Rafto Gozasht (Live at Manoto) (Q2r84er) · https://www.youtube.com/watch?v=wAfYeUSCcMY · https://www.youtube.com/watch?v=JjgCsXMTICc · https://t.me/niaznawab/161
+- Darya (Rock) (Qvz736e) · https://www.youtube.com/watch?v=jgwC46SpijU · https://www.youtube.com/watch?v=fVySQcitTV8 · https://t.me/niaznawab/159
+- Badeh (Live Duet) (Q7bfhwk) · https://www.youtube.com/watch?v=teB2Z-JLmUk · https://www.youtube.com/watch?v=Hmh1HT2C6_g · https://t.me/niaznawab/146
+- Concert Persane (Four-Hand Tombak) (Qcap2me) · https://www.youtube.com/watch?v=yzFXAQ8c1ao
+- Hommage à Amy Winehouse (Qwhr5yd) · https://www.youtube.com/watch?v=ojGn6aEgFrE
+- Hezaro Yek Shab (Qpf53tb) · https://www.youtube.com/watch?v=z2_UQ5s0t2g
+- The Valley Of Love (Qfd8esx) · https://open.spotify.com/track/5RVOmZhDgvRD9bwkOsgg5e
+- Hekayat (Arghanoon Theatre) (Qxrzv4x) · https://t.me/niaznawab/29
+- Mah (Choir and Piano Rehearsal) (Q4255mw) · https://t.me/niaznawab/39
+- Shadi (Paris, 2017) (Q4r23r2) · https://t.me/niaznawab/103
+- Naghshe To (Sina Tila and Maryam Kavian) (Qv3amgb) · https://t.me/niaznawab/120
+- Badeh (Strasbourg) (Q3r6b6b) · https://t.me/niaznawab/121
+- Badeh (Artist Channel, 2018) (Qe8yft2) · https://t.me/niaznawab/125
+- Saghi (Artist Channel, 2018) (Qzf4ff5) · https://t.me/niaznawab/127
+- Je Veux (Artist Channel) (Qzv8x62) · https://t.me/niaznawab/137
+- Naghshe To (Arash Fouladvand and Sina Tila) (Qn8sn86) · https://t.me/niaznawab/141
+- La Bohème (Q3qjhtw) · https://t.me/niaznawab/142
+- Solfeggietto (Qa6y36e) · https://t.me/niaznawab/143
+- Poetry from Iran and France (Qmg6fe7) · https://t.me/niaznawab/144
+- Adame Tanha (Excerpt) (Qvhdj6m) · https://t.me/niaznawab/148
+- Je l’aime à mourir (Qhdd5q7) · https://t.me/niaznawab/149
+- All of Me (Qt5dpxv) · https://t.me/niaznawab/151
+- Dernière danse (Qmw4ygc) · https://t.me/niaznawab/168
+- Nocturne in C-Sharp Minor (Q5me96g) · https://t.me/niaznawab/175
+- Eldfesten (Stockholm Highlights) (Qqb3mfk) · https://t.me/niaznawab/178
+- Badeh (Tirgan, 2020) (Qkqw26f) · https://t.me/niaznawab/195
+- Donnez Donnez (Tirgan, 2020) (Q6frxtx) · https://www.youtube.com/watch?v=z4qMopdTP8s · https://t.me/niaznawab/199
+- Avazeh Khan (Live at Chaharshanbeh Souri) (Q69qfqa) · https://t.me/niaznawab/206
+
+The two artist reposts of the 2018 Darya (Rock) music video match the jointly credited studio single. They share Qvz736e. The concert production’s separate 2023 Los Angeles Hagh has its own panel Qv8e4ws · https://www.youtube.com/watch?v=Yelgl2I-3ds

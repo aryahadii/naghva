@@ -17,6 +17,12 @@ statements:
       quote: Zagros Percussion Band
       locator: Original release, musician interview or performance credits
       accessed: '2026-11-21'
+  - value: Qje5fct
+    references:
+    - source: music.apple.com-us-album-d8-aa--d9-86--d8-aa--d9-86--d8-b1-d8-a7-6826182882
+      quote: Zanyar Hesami
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
   release date:
   - value:
       date: '2024-12-16'
@@ -42,6 +48,24 @@ statements:
     - source: www.youtube.com-oembed-njrailmuavo
       quote: Tan Tan-e Ra. تْنْ تَنِ را
       locator: Original release, musician interview or performance credits
+      accessed: '2026-11-21'
+  - value: https://music.apple.com/us/song/%D8%AA-%D9%86-%D8%AA-%D9%86-%D8%B1%D8%A7/6826182884
+    references:
+    - source: music.apple.com-us-album-d8-aa--d9-86--d8-aa--d9-86--d8-b1-d8-a7-6826182882
+      quote: تَنْ تَنِ را
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/12Eqw39iirc1S9YCei6G9P
+    references:
+    - source: open.spotify.com-embed-album-4ws3tnvuv0jlyiehavbdf8
+      quote: تَنْ تَنِ را
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
+  - value: https://music.apple.com/us/album/%D8%AA-%D9%86-%D8%AA-%D9%86-%D8%B1%D8%A7-single/6826182882
+    references:
+    - source: music.apple.com-us-album-d8-aa--d9-86--d8-aa--d9-86--d8-b1-d8-a7-6826182882
+      quote: تَنْ تَنِ را - Single
+      locator: Original recording, artist credit or presenter programme
       accessed: '2026-11-21'
   contributor:
   - value: Qje5fct

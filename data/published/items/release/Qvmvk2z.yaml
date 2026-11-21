@@ -1,0 +1,88 @@
+id: Qvmvk2z
+type: release
+statements:
+  name:
+  - value:
+      text: Adame Tanha
+      language: en
+    references:
+    - source: music.apple.com-us-album-adame-tanha-1603928220
+      quote: Adame Tanha
+      accessed: '2026-11-21'
+      locator: Track 1
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-adame-tanha-1603928220
+      quote: Adame Tanha
+      accessed: '2026-11-21'
+      locator: Track 1
+  listen link:
+  - value: https://music.apple.com/us/song/adame-tanha/1603928221
+    references:
+    - source: music.apple.com-us-album-adame-tanha-1603928220
+      quote: https://music.apple.com/us/song/adame-tanha/1603928221
+      accessed: '2026-11-21'
+      locator: Exact Apple track
+  - value: https://music.apple.com/us/album/adame-tanha/1603928220
+    references:
+    - source: music.apple.com-us-album-adame-tanha-1603928220
+      quote: Adame Tanha - Single
+      accessed: '2026-11-21'
+      locator: Digital edition
+  - value: https://open.spotify.com/track/2NILVkYl5dtwxxr1DMmI1I
+    references:
+    - source: open.spotify.com-embed-album-6gwvzxe1n9jtij1q0c6inb
+      quote: spotify:track:2NILVkYl5dtwxxr1DMmI1I
+      accessed: '2026-11-21'
+      locator: Native track URI
+  - value: https://open.spotify.com/album/6GwvzXe1n9JtiJ1Q0c6INb
+    references:
+    - source: open.spotify.com-embed-album-6gwvzxe1n9jtij1q0c6inb
+      quote: Adame Tanha
+      accessed: '2026-11-21'
+      locator: Spotify album
+  - value: https://www.youtube.com/watch?v=y6gWov0u5Vk
+    references:
+    - source: www.youtube.com-watch-v-y6gwov0u5vk
+      quote: Niaz & Erwin - Adame Tanha (Official Video) نیاز نواب , اروین خاچیکیان
+      accessed: '2026-11-21'
+      locator: Original video
+  - value: https://music.apple.com/us/album/adame-tanha-single/1603928220
+    references:
+    - source: music.apple.com-us-album-adame-tanha-single-1603928220
+      quote: Adame Tanha - Single
+      accessed: '2026-11-21'
+      locator: Native edition title
+  performer:
+  - value: Qb269ps
+    references:
+    - source: music.apple.com-us-album-adame-tanha-1603928220
+      quote: Adame Tanha - Single
+      accessed: '2026-11-21'
+      locator: Digital edition
+  - value: Qy88zyz
+    references:
+    - source: music.apple.com-us-album-adame-tanha-1603928220
+      quote: Erwin Khachikian
+      accessed: '2026-11-21'
+      locator: Artist credit
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/54/fe/3654fe82-c812-e07e-41bd-f5ef94ee4439/198002662859.jpg/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Digital artwork via Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-adame-tanha-1603928220
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/54/fe/3654fe82-c812-e07e-41bd-f5ef94ee4439/198002662859.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Edition artwork
+  release date:
+  - value:
+      date: '2022-01-26'
+    references:
+    - source: music.apple.com-us-album-adame-tanha-1603928220
+      quote: '2022-01-26'
+      accessed: '2026-11-21'
+      locator: Issue date

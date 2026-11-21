@@ -38,3 +38,11 @@ Album track 6, read 2026-11-21.
 > Allegro Per Il Ré (feat. Tony Levin, Markus Reuter, Ehsan Sadigh, Mazyar Younesi, Rouzbeh Fadavi & Soheil Peyghambari)
 
 Album track 7, read 2026-11-21.
+
+> ‎Deerand (feat. Markus Reuter, Ehsan Sadigh, Mazyar Younesi, Soheil Peyghambari & Rouzbeh Fadavi) - Album by Quartet Diminished - Apple Music
+
+Page title, read 2026-11-21.
+
+> Quartet Diminished
+
+Artist interview, biography or performance credits, read 2026-11-21.

@@ -1,0 +1,63 @@
+id: Qagdtgt
+type: release
+statements:
+  name:
+  - value:
+      text: Les souvenirs de demain (feat. Leila Soldevila) [Memories of tomorrow]
+      language: en
+    references:
+    - source: music.apple.com-us-song-1593067007
+      quote: ‎Les souvenirs de demain (feat. Leila Soldevila) [Memories of tomorrow] - Song with Lyrics by Soheil Peyghambari - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Q3waxf2
+    references:
+    - source: music.apple.com-us-song-1593067007
+      quote: ‎Les souvenirs de demain (feat. Leila Soldevila) [Memories of tomorrow] - Song with Lyrics by Soheil Peyghambari - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://music.apple.com/us/song/1593067007
+    references:
+    - source: music.apple.com-us-song-1593067007
+      quote: ‎Les souvenirs de demain (feat. Leila Soldevila) [Memories of tomorrow] - Song with Lyrics by Soheil Peyghambari - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/soheil-peyghambari/les-souvenirs-de-demain
+    references:
+    - source: soundcloud.com-soheil-peyghambari-les-souvenirs-de-demain
+      quote: Stream Les souvenirs de demain(From the album"Dysphoria") by Soheil Peyghambari | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://www.youtube.com/watch?v=SlOpzDMMmcQ
+    references:
+    - source: www.youtube.com-watch-v-slopzdmmmcq
+      quote: Les souvenirs de demain (feat. Leila Soldevila) [Memories of tomorrow]
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/0B2Mq6nQFyrhQTny1fvMoZ
+    references:
+    - source: open.spotify.com-track-0b2mq6nqfyrhqtny1fvmoz
+      quote: Les souvenirs de demain - Memories of tomorrow - song and lyrics by Soheil Peyghambari, Leila Soldevila | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/74/3c/c9/743cc992-50dc-c84d-aee5-cad2735a656b/cover.jpg/600x600bb.webp
+    references:
+    - source: music.apple.com-us-song-1593067007
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/74/3c/c9/743cc992-50dc-c84d-aee5-cad2735a656b/cover.jpg/600x600bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Soheil Peyghambari on Apple Music
+        language: en
+  release date:
+  - value:
+      date: '2021-11-12'
+    references:
+    - source: music.apple.com-us-song-1593067007
+      quote: November 12, 2021
+      accessed: '2026-11-21'
+      locator: Published date

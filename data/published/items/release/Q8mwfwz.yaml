@@ -1,0 +1,64 @@
+id: Q8mwfwz
+type: release
+statements:
+  name:
+  - value:
+      text: Terminal 1
+      language: en
+    references:
+    - source: music.apple.com-us-album-darya-1455191037
+      quote: Terminal 1 - EP
+      accessed: '2026-11-21'
+      locator: Native edition title
+  release type:
+  - value: ep
+    references:
+    - source: music.apple.com-us-album-darya-1455191037
+      quote: Terminal 1 - EP
+      accessed: '2026-11-21'
+      locator: Native edition title
+  listen link:
+  - value: https://music.apple.com/us/album/darya/1455191037
+    references:
+    - source: music.apple.com-us-album-darya-1455191037
+      quote: Terminal 1 - EP
+      accessed: '2026-11-21'
+      locator: Native edition title
+  - value: https://open.spotify.com/album/5ULR2wOwSBDUTSEfYlYVBg
+    references:
+    - source: open.spotify.com-embed-album-5ulr2wowsbdutsefylyvbg
+      quote: Terminal 1 - EP
+      accessed: '2026-11-21'
+      locator: Release heading
+  performer:
+  - value: Qy88zyz
+    references:
+    - source: music.apple.com-us-album-darya-1455191037
+      quote: Terminal 1 - EP
+      accessed: '2026-11-21'
+      locator: Native edition title
+  - value: Qb269ps
+    references:
+    - source: music.apple.com-us-album-darya-1455191037
+      quote: Terminal 1 - EP
+      accessed: '2026-11-21'
+      locator: Native edition title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/52/c9/b1/52c9b1f9-d293-2240-21a8-6c54788988c4/193428789500.jpg/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Apple Music release artwork
+        language: en
+    references:
+    - source: music.apple.com-us-album-darya-1455191037
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/52/c9/b1/52c9b1f9-d293-2240-21a8-6c54788988c4/193428789500.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Release cover
+  release date:
+  - value:
+      date: '2019-02-15'
+    references:
+    - source: music.apple.com-us-album-darya-1455191037
+      quote: '2019-02-15'
+      accessed: '2026-11-21'
+      locator: Release date

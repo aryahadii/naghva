@@ -1,0 +1,3 @@
+# Ajam independent review
+
+**9.3/10** after the requested repairs. Sources 2.0, prose 1.9, catalogue 2.7, images 0.9, gaps 1.8. Compared the band's regional fieldwork and named performers with the original album liner notes and the Kayer collaboration. Reconciled the 2012 eyewitness account of the Egyptian concerts. Both revised languages render the account of the Cairo programme, the musicians who recorded Tayyebeh Jan and Saeed Naghdi's named credits. The original live image identifies the band. All 98 panels rendered, all 203 images decoded per locale, and all local article anchors resolve. Neither a group release on an unrelated A-Jam page nor membership alone establishes attribution.

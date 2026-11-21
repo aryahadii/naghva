@@ -1,0 +1,63 @@
+id: Qwmd96n
+type: release
+statements:
+  name:
+  - value:
+      text: Neshane To (Live)
+      language: en
+    references:
+    - source: music.apple.com-us-album-baraye-zendegi-1831324055
+      quote: Neshane To (Live)
+      accessed: '2026-11-21'
+      locator: Release track 1
+  listen link:
+  - value: https://music.apple.com/us/song/neshane-to-live/1831324056
+    references:
+    - source: music.apple.com-us-album-baraye-zendegi-1831324055
+      quote: https://music.apple.com/us/song/neshane-to-live/1831324056
+      accessed: '2026-11-21'
+      locator: Exact Apple track
+  - value: https://open.spotify.com/track/5zTev3BpBrocgMenlPcNab
+    references:
+    - source: open.spotify.com-embed-album-6ovtloy1cx3xlgnyppwkdc
+      quote: spotify:track:5zTev3BpBrocgMenlPcNab
+      accessed: '2026-11-21'
+      locator: Exact Spotify track
+  performer:
+  - value: Qb85b99
+    references:
+    - source: music.apple.com-us-album-baraye-zendegi-1831324055
+      quote: Baraye Zendegi
+      accessed: '2026-11-21'
+      locator: Native edition title
+  - value: Qb269ps
+    references:
+    - source: music.apple.com-us-album-baraye-zendegi-1831324055
+      quote: Baraye Zendegi
+      accessed: '2026-11-21'
+      locator: Native edition title
+  - value: Qs4s44j
+    references:
+    - source: music.apple.com-us-album-baraye-zendegi-1831324055
+      quote: Baraye Zendegi
+      accessed: '2026-11-21'
+      locator: Native edition title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/31/22/95/31229503-695e-60d1-f23e-7c9c8f07f77a/199800355769.jpg/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Apple Music release artwork
+        language: en
+    references:
+    - source: music.apple.com-us-album-baraye-zendegi-1831324055
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/31/22/95/31229503-695e-60d1-f23e-7c9c8f07f77a/199800355769.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Release cover
+  release date:
+  - value:
+      date: '2025-08-07'
+    references:
+    - source: music.apple.com-us-album-baraye-zendegi-1831324055
+      quote: '2025-08-07'
+      accessed: '2026-11-21'
+      locator: Release date
