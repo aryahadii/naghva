@@ -1,0 +1,37 @@
+id: Qec7d42
+type: release
+statements:
+  name:
+  - value:
+      text: Damnoosh
+      language: en
+    references:
+    - &id001
+      source: music.apple.com-us-album-6820980533
+      quote: Listen to Damnoosh by Navid Arbabian
+      accessed: '2026-11-21'
+  performer:
+  - value: Q7bcnr5
+    references:
+    - *id001
+  release date:
+  - value:
+      date: '2024-09-06'
+    references:
+    - source: music.apple.com-us-album-6820980533
+      quote: '"datePublished":"2024-09-06"'
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://music.apple.com/us/album/damnoosh/6820980533
+    references:
+    - *id001
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/b1/f0/2db1f0a7-bc55-edc8-e5a3-9b2c018f88d0/artwork.jpg/632x632bb.webp
+    references:
+    - source: music.apple.com-us-album-6820980533
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/b1/f0/2db1f0a7-bc55-edc8-e5a3-9b2c018f88d0/artwork.jpg/632x632bb.webp
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en
