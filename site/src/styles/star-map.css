@@ -3,7 +3,7 @@
 .atlas-intro h1 { font: 460 clamp(40px,5.3vw,74px)/1.07 var(--serif); letter-spacing: -.045em }
 html[lang=fa] .atlas-intro h1 { font-weight: 700; line-height: 1.4; letter-spacing: 0 }
 .atlas-intro p { margin-top: 7px; max-width: min(65ch,85%); color: var(--ivory-2); text-wrap: pretty }
-.atlas { --gold:#f0c99b; --aqua:#98d5cd }
+.atlas { --gold:#ffcd84; --aqua:#75f6df }
 .atlas-toolbar { display:flex; align-items:center; justify-content:space-between; gap:14px; min-height:48px; padding-block:2px }
 .sky-legend { display:flex; align-items:center; gap:clamp(12px,2vw,28px); font-size:14px; color:var(--ivory-2) }
 .sky-legend span { display:inline-flex; align-items:center; gap:6px }
@@ -15,8 +15,7 @@ html[lang=fa] .atlas-intro h1 { font-weight: 700; line-height: 1.4; letter-spaci
 .atlas-find,.atlas-modes button,.sky-zoom button,.clear-star,.more-stars { display:inline-flex; align-items:center; justify-content:center; min-height:44px; font-size:14px; color:var(--ivory) }
 .atlas-find { gap:8px; padding-inline:4px; color:var(--coral-hi); text-decoration:underline; text-decoration-color:#ad7c6e; text-underline-offset:5px }
 .atlas-find svg { width:17px; fill:none; stroke:currentColor; stroke-width:1.6 }
-.global-sky { position:relative; isolation:isolate; margin-inline:calc(0px - var(--gutter)); background:radial-gradient(ellipse at 44% 52%,#30324b 0%,#212738 37%,transparent 70%),radial-gradient(ellipse at 68% 54%,#262940 0%,transparent 58%) }
-.global-sky::before { content:''; z-index:-1; position:absolute; inset:0; background:var(--sky-garden) center 69%/cover; opacity:.42; mask-image:linear-gradient(to bottom,transparent 20%,#0002 48%,#000a 74%,#000 86%,transparent 100%),linear-gradient(to right,transparent,#000 13%,#000 87%,transparent); mask-composite:intersect }
+.global-sky { position:relative; margin-inline:calc(0px - var(--gutter)) }
 .sky-viewport { position:relative; height:clamp(410px,59vh,760px); overflow:hidden }
 .sky-canvas { display:block; position:absolute; inset:0; width:100%; height:100%; touch-action:none; cursor:grab }
 .sky-canvas:active { cursor:grabbing }

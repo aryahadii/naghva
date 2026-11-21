@@ -52,3 +52,43 @@ test('a recording can be found by name, traced to an artist and revisited in Per
   await expect(page).toHaveURL(new RegExp('/fa/star-map/\\?star=' + work.id));
   await expect(page.locator('.star-kind')).toHaveText('اثر');
 });
+
+test('a released drag coasts, can be caught, and respects reduced motion', async ({ page }) => {
+  await page.clock.install();
+  await page.goto('/en/star-map/');
+  const chart = page.locator('canvas.sky-canvas');
+  await expect(chart).toBeVisible();
+  await chart.scrollIntoViewIfNeeded();
+  const box = (await chart.boundingBox())!;
+  const x = Math.round(box.x + box.width / 2);
+  const y = Math.round(box.y + box.height / 2);
+  const image = () => chart.evaluate((el: HTMLCanvasElement) => el.toDataURL());
+
+  async function drag() {
+    await page.mouse.move(x, y);
+    await page.mouse.down();
+    for (let i = 1; i <= 5; i++) {
+      await page.clock.runFor(16);
+      await page.mouse.move(x + i * 6, y);
+    }
+    await page.mouse.up();
+    await page.clock.runFor(20);
+  }
+
+  await drag();
+  const released = await image();
+  await page.clock.runFor(80);
+  expect(await image() === released).toBe(false);
+  await page.mouse.down();
+  await page.clock.runFor(32);
+  const caught = await image();
+  await page.clock.runFor(200);
+  expect(await image() === caught).toBe(true);
+  await page.mouse.up();
+
+  await page.emulateMedia({ reducedMotion: 'reduce' });
+  await drag();
+  const resting = await image();
+  await page.clock.runFor(160);
+  expect(await image() === resting).toBe(true);
+});

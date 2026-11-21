@@ -1,6 +1,7 @@
 import { useEffect, useRef } from 'preact/hooks';
 import type { Strings } from '../lib/i18n';
 import type { Lang } from '../lib/record';
+import { coastStep, gestureVelocity } from '../lib/sky-motion';
 import type { SkyStar } from '../lib/star-map';
 
 interface Props {
@@ -20,8 +21,8 @@ type Label = {
   height: number;
   index: number;
 };
-const GOLD = ['#fad398', '#e8b575', '#ffdeae', '#f5c891'];
-const JADE = ['#a2d6d3', '#82b7bf', '#b4dcd6', '#92bacc'];
+const GOLD = ['#ffd08a', '#ffac63', '#fff0b2', '#ffc276'];
+const JADE = ['#75f6df', '#4cd9e8', '#acfff2', '#72caff'];
 const MAX_ZOOM = 20;
 const clamp = (n: number, min: number, max: number) => Math.min(max, Math.max(min, n));
 const middle = (a: Point, b: Point): Point => ({
@@ -114,8 +115,7 @@ function makeSky(canvas: HTMLCanvasElement, stars: SkyStar[], lang: Lang, choose
   });
   function constrain() {
     // The edge of the atlas can always be moved away from the screen edge.
-    const slack = 0.08 * (1 - 1 / scale);
-    const reach = 0.5 / scale - slack;
+    const reach = 0.25 / scale;
     centre = {
       x: clamp(centre.x, reach, 1 - reach),
       y: clamp(centre.y, reach, 1 - reach),
@@ -132,13 +132,71 @@ function makeSky(canvas: HTMLCanvasElement, stars: SkyStar[], lang: Lang, choose
     constrain();
     schedule();
   }
-  function fit() {
-    centre = { x: 0.5, y: 0.5 };
-    scale = 1;
+  const reducedMotion = matchMedia('(prefers-reduced-motion: reduce)');
+  const velocity = gestureVelocity();
+  type Motion = { kind: 'glide'; x: number; y: number; z: number; anchor: Point }
+    | { kind: 'zoom'; target: number; anchor: Point; home: boolean };
+  let motion: Motion | null = null;
+  let lastFrame = 0;
+  let gestureAnchor: Point = { x: 0, y: 0 };
+
+  function pan(dx: number, dy: number) {
+    centre.x -= dx / (spanX() * scale);
+    centre.y -= dy / (spanY() * scale);
+    constrain();
+  }
+  function begin(next: Motion) {
+    motion = next;
+    lastFrame = performance.now();
+    schedule();
+  }
+  function easeZoom(factor: number, anchor = { x: w / 2, y: h / 2 }, home = false) {
+    const base = motion?.kind === 'zoom' ? motion.target : scale;
+    const target = home ? 1 : clamp(base * factor, 1, MAX_ZOOM);
+    if (reducedMotion.matches) {
+      motion = null;
+      zoom(target / scale, anchor);
+      if (home) centre = { x: 0.5, y: 0.5 };
+    } else begin({ kind: 'zoom', target, anchor, home });
+  }
+  function advance(now: number) {
+    if (!motion) return;
+    const elapsed = Math.max(0, now - lastFrame);
+    lastFrame = now;
+    if (motion.kind === 'zoom') {
+      const fraction = reducedMotion.matches ? 1 : -Math.expm1(-elapsed / 65);
+      const remaining = Math.log(motion.target / scale);
+      const close = Math.abs(remaining) < .001 && (!motion.home || distance(centre, { x: .5, y: .5 }) < .0005);
+      zoom(Math.exp(remaining * (close ? 1 : fraction)), motion.anchor);
+      if (motion.home) {
+        centre.x += (.5 - centre.x) * (close ? 1 : fraction);
+        centre.y += (.5 - centre.y) * (close ? 1 : fraction);
+      }
+      if (close || fraction === 1) motion = null;
+      return;
+    }
+    if (reducedMotion.matches || elapsed > 150) { motion = null; return; }
+    const lateral = coastStep(elapsed, 240), pinch = coastStep(elapsed, 110);
+    const beforeScale = scale;
+    zoom(Math.exp(motion.z * pinch.travel), motion.anchor);
+    if (scale === beforeScale && elapsed > 0) motion.z = 0;
+    const { x: oldX, y: oldY } = centre;
+    pan(motion.x * lateral.travel, motion.y * lateral.travel);
+    motion.x = centre.x === oldX && elapsed > 0 ? 0 : motion.x * lateral.decay;
+    motion.y = centre.y === oldY && elapsed > 0 ? 0 : motion.y * lateral.decay;
+    motion.z *= pinch.decay;
+    if (Math.hypot(motion.x, motion.y) < .012 && Math.abs(motion.z) < .00003) motion = null;
+  }
+  function fit(animated = false) {
     hovered = -1;
+    if (animated) { easeZoom(1, undefined, true); return; }
+    motion = null;
+    centre = { x: .5, y: .5 };
+    scale = 1;
     schedule();
   }
   function select(id: string | null) {
+    motion = null;
     selected = id === null ? -1 : (lookup.get(id) ?? -1);
     hovered = -1;
     if (selected >= 0) {
@@ -152,23 +210,28 @@ function makeSky(canvas: HTMLCanvasElement, stars: SkyStar[], lang: Lang, choose
     schedule();
   }
 
-  // A single small sprite supplies the soft bloom around featured and active stars.
-  const bloom = document.createElement('canvas');
-  bloom.width = bloom.height = 36;
-  const glow = bloom.getContext('2d');
-  if (glow) {
-    const gradient = glow.createRadialGradient(18, 18, 0, 18, 18, 18);
-    gradient.addColorStop(0, 'rgba(255,227,187,.8)');
-    gradient.addColorStop(0.23, 'rgba(249,203,147,.28)');
-    gradient.addColorStop(1, 'rgba(249,203,147,0)');
+  // Cache the light falloff once per colour so a moving sky needs no per-star blur.
+  function haloSprite(rgb: string) {
+    const sprite = document.createElement('canvas');
+    sprite.width = sprite.height = 48;
+    const glow = sprite.getContext('2d')!;
+    const gradient = glow.createRadialGradient(24, 24, 0, 24, 24, 24);
+    gradient.addColorStop(0, 'rgba(255,255,248,.96)');
+    gradient.addColorStop(.16, `rgba(${rgb},.68)`);
+    gradient.addColorStop(.48, `rgba(${rgb},.20)`);
+    gradient.addColorStop(1, `rgba(${rgb},0)`);
     glow.fillStyle = gradient;
-    glow.fillRect(0, 0, 36, 36);
+    glow.fillRect(0, 0, 48, 48);
+    return sprite;
   }
+  const amberHalo = haloSprite('255,155,65');
+  const cyanHalo = haloSprite('50,227,245');
   const canvasFont = getComputedStyle(canvas).fontFamily;
   const standardFont = '12px ' + canvasFont;
   const activeFont = '600 14px ' + canvasFont;
-  function draw() {
+  function draw(now: number) {
     frame = 0;
+    advance(now);
     if (!ctx || !w || !h) return;
     ctx.setTransform(ratio, 0, 0, ratio, 0, 0);
     ctx.clearRect(0, 0, w, h);
@@ -181,7 +244,7 @@ function makeSky(canvas: HTMLCanvasElement, stars: SkyStar[], lang: Lang, choose
       ctx.lineTo(points[j].x, points[j].y);
     }
     ctx.beginPath();
-    ctx.strokeStyle = selected >= 0 ? 'rgba(213,185,147,.1)' : 'rgba(221,198,166,.3)';
+    ctx.strokeStyle = selected >= 0 ? 'rgba(137,199,208,.1)' : 'rgba(143,210,217,.33)';
     ctx.lineWidth = 0.72;
     if (scale < 3.5) {
       for (const [i, j] of links) edge(i, j);
@@ -198,7 +261,7 @@ function makeSky(canvas: HTMLCanvasElement, stars: SkyStar[], lang: Lang, choose
     if (selected >= 0) {
       ctx.beginPath();
       for (const j of active) edge(selected, j);
-      ctx.strokeStyle = 'rgba(241,208,159,.78)';
+      ctx.strokeStyle = stars[selected].kind === 'recording' ? 'rgba(101,241,236,.82)' : 'rgba(255,202,128,.8)';
       ctx.lineWidth = 1;
       ctx.stroke();
     }
@@ -221,11 +284,11 @@ function makeSky(canvas: HTMLCanvasElement, stars: SkyStar[], lang: Lang, choose
       const r = highlighted ? 7 : lit ? 3.3 : baseRadius * markScale * variation;
       ctx.globalAlpha = selected < 0 || lit ? 1 : artist ? 0.4 : 0.34;
       ctx.fillStyle = accent;
+      if (lit || (artist ? stars[i].href : i % 7 === 0)) {
+        const halo = r * (highlighted ? 3.4 : 2.7);
+        ctx.drawImage(artist ? amberHalo : cyanHalo, x - halo, y - halo, 2 * halo, 2 * halo);
+      }
       if (artist || highlighted) {
-        if (highlighted || (stars[i].href && artist)) {
-          const halo = r * 2.3;
-          ctx.drawImage(bloom, x - halo, y - halo, 2 * halo, 2 * halo);
-        }
         sparkle(ctx, points[i], r);
       } else {
         ctx.beginPath();
@@ -233,7 +296,7 @@ function makeSky(canvas: HTMLCanvasElement, stars: SkyStar[], lang: Lang, choose
         ctx.fill();
       }
       if (highlighted) {
-        ctx.strokeStyle = i === selected ? '#fff0cf' : accent;
+        ctx.strokeStyle = accent;
         ctx.lineWidth = 1.2;
         ctx.beginPath();
         ctx.arc(x, y, 11.5, 0, 2 * Math.PI);
@@ -329,8 +392,10 @@ function makeSky(canvas: HTMLCanvasElement, stars: SkyStar[], lang: Lang, choose
     const p = local(e);
     if (!pointers.size) {
       down = p;
-      moved = false;
+      moved = motion !== null;
     } else moved = true;
+    motion = null;
+    velocity.start(e.timeStamp);
     pointers.set(e.pointerId, p);
     canvas.setPointerCapture(e.pointerId);
   }
@@ -352,20 +417,31 @@ function makeSky(canvas: HTMLCanvasElement, stars: SkyStar[], lang: Lang, choose
     moved = true;
     hovered = -1;
     canvas.style.cursor = 'grabbing';
+    let logScale = 0;
     let from = last,
       to = p;
     if (other) {
       from = middle(last, other);
       to = middle(p, other);
-      zoom(distance(p, other) / Math.max(1, distance(last, other)), from);
+      const previousScale = scale;
+      zoom(Math.max(1, distance(p, other)) / Math.max(1, distance(last, other)), from);
+      logScale = Math.log(scale / previousScale);
     }
-    centre.x -= (to.x - from.x) / (spanX() * scale);
-    centre.y -= (to.y - from.y) / (spanY() * scale);
-    constrain();
+    pan(to.x - from.x, to.y - from.y);
+    gestureAnchor = to;
+    velocity.move(e.timeStamp, to.x - from.x, to.y - from.y, logScale);
     schedule();
   }
   function pointerEnd(e: PointerEvent) {
     if (!pointers.delete(e.pointerId)) return;
+    if (e.type !== 'pointerup') velocity.start(e.timeStamp);
+    if (moved && !pointers.size && e.type === 'pointerup' && !reducedMotion.matches) {
+      const speed = velocity.release(e.timeStamp);
+      if (Math.hypot(speed.x, speed.y) > .04 || Math.abs(speed.z) > .00015) {
+        begin({ kind: 'glide', x: clamp(speed.x, -3, 3), y: clamp(speed.y, -3, 3),
+          z: clamp(speed.z, -.004, .004), anchor: gestureAnchor });
+      }
+    }
     if (!moved && e.type === 'pointerup') {
       const i = hit(local(e), e.pointerType === 'mouse' ? 12 : 19);
       if (i >= 0) choose(stars[i].id);
@@ -376,16 +452,44 @@ function makeSky(canvas: HTMLCanvasElement, stars: SkyStar[], lang: Lang, choose
     hovered = -1;
     schedule();
   }
-  function wheel(e: WheelEvent) {
-    const pixels =
-      e.deltaY * (e.deltaMode === WheelEvent.DOM_DELTA_LINE ? 16 : e.deltaMode === WheelEvent.DOM_DELTA_PAGE ? h : 1);
-    if (!pixels || (scale === 1 && pixels > 0) || (scale === MAX_ZOOM && pixels < 0)) return;
+  // Safari on macOS reports trackpad pinches through gesture events.
+  // Direct touch has its own pointer stream and must only be applied once.
+  type WebKitGesture = MouseEvent & { scale: number };
+  let gestureScale = 0;
+  function safariPinch(event: Event) {
+    const e = event as WebKitGesture;
+    if (pointers.size || !Number.isFinite(e.scale)) return;
     e.preventDefault();
-    zoom(Math.exp(-clamp(pixels, -240, 240) * 0.004), local(e));
+    if (e.type === 'gesturestart') {
+      motion = null;
+      gestureScale = e.scale;
+    } else if (e.type === 'gestureend') gestureScale = 0;
+    else if (gestureScale && e.scale > 0) {
+      zoom(e.scale / gestureScale, local(e));
+      gestureScale = e.scale;
+    }
+  }
+  function wheel(e: WheelEvent) {
+    if (gestureScale) { e.preventDefault(); return; }
+    const at = local(e);
+    if (e.ctrlKey || e.metaKey) {
+      e.preventDefault();
+      motion = null;
+      zoom(Math.exp(-clamp(e.deltaY, -120, 120) * .01), at);
+    } else if (e.deltaMode !== WheelEvent.DOM_DELTA_PIXEL) {
+      e.preventDefault();
+      easeZoom(Math.exp(-Math.sign(e.deltaY) * .18), at);
+    } else if (scale > 1 || Math.abs(e.deltaX) > Math.abs(e.deltaY)) {
+      // The OS already sends the inertial tail for two-finger trackpad scrolling.
+      e.preventDefault();
+      motion = null;
+      pan(-e.deltaX, -e.deltaY);
+      schedule();
+    }
   }
   function keyboard(e: KeyboardEvent) {
-    if (e.key === '+' || e.key === '=' || e.key === '-') zoom(e.key === '-' ? 1 / 1.5 : 1.5);
-    else if (e.key === 'Home') fit();
+    if (e.key === '+' || e.key === '=' || e.key === '-') easeZoom(e.key === '-' ? 1 / 1.5 : 1.5);
+    else if (e.key === 'Home') fit(true);
     else if (e.key === 'Enter' || e.key === ' ') {
       const nearest = hit({ x: w / 2, y: h / 2 }, Infinity);
       const i = hovered >= 0 ? hovered : selected >= 0 ? selected : nearest;
@@ -413,6 +517,8 @@ function makeSky(canvas: HTMLCanvasElement, stars: SkyStar[], lang: Lang, choose
     e.preventDefault();
   }
 
+  const gestureEvents = ['gesturestart', 'gesturechange', 'gestureend'];
+  for (const event of gestureEvents) canvas.addEventListener(event, safariPinch, { passive: false });
   canvas.addEventListener('pointerdown', pointerDown);
   canvas.addEventListener('pointermove', pointerMove);
   canvas.addEventListener('pointerup', pointerEnd);
@@ -426,10 +532,11 @@ function makeSky(canvas: HTMLCanvasElement, stars: SkyStar[], lang: Lang, choose
   document.fonts.addEventListener('loadingdone', schedule);
   resize();
   return {
-    zoom,
+    zoom: easeZoom,
     fit,
     select,
     dispose() {
+      for (const event of gestureEvents) canvas.removeEventListener(event, safariPinch);
       observer.disconnect();
       cancelAnimationFrame(frame);
       document.fonts.removeEventListener('loadingdone', schedule);
@@ -490,7 +597,7 @@ export default function SkyCanvas({ stars, selected, onSelect, lang, words, rese
         >
           −
         </button>
-        <button type="button" onClick={() => sky.current?.fit()} aria-label={words.fit} title={words.fit}>
+        <button type="button" onClick={() => sky.current?.fit(true)} aria-label={words.fit} title={words.fit}>
           <svg
             aria-hidden="true"
             viewBox="0 0 20 20"

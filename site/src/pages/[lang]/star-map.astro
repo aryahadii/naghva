@@ -1,7 +1,5 @@
 ---
 import { createHash } from 'node:crypto';
-import { getImage } from 'astro:assets';
-import garden from '../../assets/art/night-garden.png';
 import Page from '../../layouts/Page.astro';
 import StarMap from '../../islands/StarMap';
 import { strings } from '../../lib/i18n';
@@ -17,10 +15,9 @@ const stars = buildStarMap(loadRecord(), lang);
 const catalogue = JSON.stringify(stars).replace(/</g, '\\u003c');
 const fingerprint = createHash('sha256').update(catalogue).digest('hex').slice(0, 16);
 const artistCount = stars.filter(star => star.kind === 'artist').length;
-const backdrop = await getImage({ src: garden, width: 980, format: 'webp', quality: 76 });
 ---
 <Page lang={lang} title={`${words.title} | ${t.siteName}`} description={words.description} section="star-map" path="star-map/">
-  <main class="wrap star-map" id="content" data-catalogue={fingerprint} style={`--sky-garden: url("${backdrop.src}")`}>
+  <main class="wrap star-map" id="content" data-catalogue={fingerprint}>
     <div class="atlas-intro">
       <h1>{words.title}</h1>
       <p>{words.description}</p>
