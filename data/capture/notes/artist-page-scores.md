@@ -140,3 +140,7 @@ Independent review on 2026-11-21. **8.4/10** · Sources 1.8, prose 1.8, recordin
 ### Borderless Band, second independent review on 2026-11-21
 
 **9.2/10** · Sources 1.9, prose 1.9, recordings 2.6, images 1.0, gaps and reader experience 1.8. English and Persian hashes are `0762f705bb85` and `92cfb5e3909d`. Twenty panels now include the Canadian performances and Babaei’s Bani Adam documentation. Both pages identify Fariba Davody in the Tirgan lineup and distinguish the 2018 independently funded recording project from the album in Babaei's discography. All 41 images decoded in each language and all fragments resolved. Neither the early album track list nor its relation to the proposed album has been verified. Article and catalogue ready within these documented limits.
+
+## Kourosh Babaei · Q3v55f7
+
+Independent review on 2026-11-21. **8.5/10** · Sources 1.9, prose 1.8, recordings 2.2, images 1.0, gaps and reader experience 1.6. English and Persian hashes are b7d7b29ea06d and d4db0097071f. Each language rendered 141 recording panels, 275 decoded images and functional fragments. Both articles explain the shahkaman score and Kamanyar support. His early credited albums and the different Kerman concert recording need reconciliation. Darkoob’s bandleader names him on Liwa, and Ehsan Matoori’s liner notes identify his kamancheh on tracks one and three. Article ready, catalogue needs repair.

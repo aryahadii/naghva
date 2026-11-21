@@ -59,3 +59,5 @@ Ontario’s native YouTube RSS catalogue and ten published playlists were reconc
 - Labyrinth Ensemble with Âriâ Mohâfez (Part 2) · https://www.youtube.com/watch?v=0se9uGwrrMY
 - Labyrinth Ensemble with Âriâ Mohâfez (Part 1) · https://www.youtube.com/watch?v=GAvMacnMlw8
 - Araz Salek & Christos Barbas - Live in Madrid · https://www.youtube.com/watch?v=mDbVXM3wPKk
+
+The original credits on Ross Daly’s The Other Side identify Salek as the tar player. The album and its three native listening options are linked alongside the record of Pedram Khavarzamini’s guest tombak.

@@ -20,7 +20,7 @@ statements:
       locator: Page title
   - value: https://www.youtube.com/watch?v=n-T7S-BzR2k
     references:
-    - source: www.youtube.com-oembed-url-https
+    - source: www.youtube.com-watch-v-n-t7s-bzr2k
       quote: Arshia Samsaminia - SoundScapeS - Solo Accordion 2017
       accessed: '2026-11-21'
       locator: Page title

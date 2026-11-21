@@ -45,3 +45,47 @@ Composer discography, read 2026-11-21.
 > 2022 Album: Eastern Memory
 
 Composer discography, read 2026-11-21.
+
+> Afshari Morakab
+
+Selected recording projects, read 2026-11-21.
+
+> Concert 76
+
+Selected recording projects, read 2026-11-21.
+
+> Colaberation with Aref Band Parviz Meshkatina and Hamid Reza Nourbakhsh
+
+Selected recording projects, read 2026-11-21.
+
+> Colaberation with Payvar Band Ostad Framarz Payvar and Ali Rostamian
+
+Selected recording projects, read 2026-11-21.
+
+> Arghavan
+
+Selected recording projects, read 2026-11-21.
+
+> Sorosh Bahar
+
+Selected recording projects, read 2026-11-21.
+
+> Colaberation with Payvar Band Ostad Framarz Payvar and Bahram Bajelan
+
+Selected recording projects, read 2026-11-21.
+
+> Vatane Man
+
+Selected recording projects, read 2026-11-21.
+
+> Colaberation with Aref Band Parviz Meshkatian and Iraj Bastami
+
+Selected recording projects, read 2026-11-21.
+
+> Ofoghe Mehr
+
+Selected recording projects, read 2026-11-21.
+
+> Colaberation with Aref Band Parviz Meshkatian and Iraj Bastami project with, Azita Hamidi
+
+Selected recording projects, read 2026-11-21.

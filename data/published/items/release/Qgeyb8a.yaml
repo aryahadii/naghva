@@ -20,7 +20,7 @@ statements:
       locator: Page title
   - value: https://www.youtube.com/watch?v=HyIlxchS4W0
     references:
-    - source: www.youtube.com-oembed-url-https
+    - source: www.youtube.com-watch-v-hyilxchs4w0
       quote: Arshia Samsaminia - Gaudeamus Muziekweek-Basklarinet Festijn 2018 [W/ Score]
       accessed: '2026-11-21'
       locator: Page title

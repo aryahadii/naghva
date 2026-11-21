@@ -103,3 +103,19 @@ test('release panels show writing and production credits in their own row, with 
   }
   assert.ok(checked > 0);
 });
+
+test('a contributor can browse a recording on their page with the original performer billing', () => {
+  const composer = published.items.Qfvnnnd;
+  const credit = composer.incoming.find((entry) => entry.property === 'contributor' &&
+    !composer.releases.includes(entry.item));
+  assert.ok(credit);
+  for (const lang of ['en', 'fa']) {
+    const view = artistView(published, composer, lang);
+    const panels = view.releases.filter((panel) => panel.item.id === credit.item);
+    assert.equal(panels.length, 1);
+    const graph = artistJsonLd(published, composer, lang, new URL('https://example.org'))['@graph'];
+    const album = graph.find((node) => node.url?.endsWith('#' + panels[0].anchor));
+    assert.ok(album);
+    assert.ok(album.byArtist.every((performer) => performer['@id'] !== graph[0]['@id']));
+  }
+});

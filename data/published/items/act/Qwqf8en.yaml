@@ -10,3 +10,33 @@ statements:
       quote: LABOUR
       locator: Primary or credited recording artist
       accessed: '2026-11-21'
+  profile link:
+  - value: https://open.spotify.com/artist/7JKGENPLlNWqBwV1pKQA8v
+    references:
+    - source: open.spotify.com-artist-7jkgenpllnwqbwv1pkqa8v
+      quote: LABOUR
+      locator: Artist profile
+      accessed: '2026-11-21'
+  - value: https://music.apple.com/us/artist/labour/2468143
+    references:
+    - source: music.apple.com-us-artist-labour-2468143
+      quote: LABOUR
+      locator: Artist profile
+      accessed: '2026-11-21'
+  - value: https://studio-labour.bandcamp.com/music
+    references:
+    - source: studio-labour.bandcamp.com-music
+      quote: studio LABOUR
+      locator: Artist profile
+      accessed: '2026-11-21'
+  image:
+  - value: https://i.scdn.co/image/ab6761610000e5ebfff8d09c7ddcc51ead7321b4
+    references:
+    - source: open.spotify.com-artist-7jkgenpllnwqbwv1pkqa8v
+      quote: https://i.scdn.co/image/ab6761610000e5ebfff8d09c7ddcc51ead7321b4
+      locator: Image supplied with the artist or recording
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: LABOUR · Spotify artist portrait
+        language: en

@@ -20,7 +20,7 @@ statements:
       locator: Page title
   - value: https://www.youtube.com/watch?v=FabkuS1tRUM
     references:
-    - source: www.youtube.com-oembed-url-https
+    - source: www.youtube.com-watch-v-fabkus1trum
       quote: Arshia Samsaminia - Constructive Imaginary II - Trio SÆITENWIND - Unerhörte Musik 2021, Berlin
       accessed: '2026-11-21'
       locator: Page title

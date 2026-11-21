@@ -19,7 +19,7 @@ statements:
       locator: Page title
   - value: https://www.youtube.com/watch?v=Bj9XA0-5DtQ
     references:
-    - source: www.youtube.com-oembed-url-https
+    - source: www.youtube.com-watch-v-bj9xa0-5dtq
       quote: Arshia Samsaminia - MicroMoments III - Collettivo_21 - Crossroads 2021 - Mozarteum University
       accessed: '2026-11-21'
       locator: Page title

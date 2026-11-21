@@ -20,7 +20,7 @@ statements:
       locator: Page title
   - value: https://www.youtube.com/watch?v=x0-gl1CQHPc
     references:
-    - source: www.youtube.com-oembed-url-https
+    - source: www.youtube.com-watch-v-x0-gl1cqhpc
       quote: 'Arshia Samsaminia: "Inside the twisted mind of the Mr. Sophistication" (2019) // K!ART Ensemble//HD'
       accessed: '2026-11-21'
       locator: Page title

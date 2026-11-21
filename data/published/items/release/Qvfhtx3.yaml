@@ -19,7 +19,7 @@ statements:
       locator: Page title
   - value: https://www.youtube.com/watch?v=LGiE7qru3-A
     references:
-    - source: www.youtube.com-oembed-url-https
+    - source: www.youtube.com-watch-v-lgie7qru3-a
       quote: Arshia Samsaminia - Gavesht II (Micro-Moments II) - Klangforum Wien/PPCM - 2019
       accessed: '2026-11-21'
       locator: Page title

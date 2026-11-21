@@ -19,7 +19,7 @@ statements:
       locator: Page title
   - value: https://www.youtube.com/watch?v=G36p4sKDQIk
     references:
-    - source: www.youtube.com-oembed-url-https
+    - source: www.youtube.com-watch-v-g36p4skdqik
       quote: Arshia Samsaminia - Blackout (2016 - Nivak Ensemble)
       accessed: '2026-11-21'
       locator: Page title

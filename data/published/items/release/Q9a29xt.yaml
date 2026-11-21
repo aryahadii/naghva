@@ -19,7 +19,7 @@ statements:
       locator: Page title
   - value: https://www.youtube.com/watch?v=1ibH_mwj3rM
     references:
-    - source: www.youtube.com-oembed-url-https
+    - source: www.youtube.com-watch-v-1ibh_mwj3rm
       quote: Arshia Samsaminia — Gravity II [w/ score]
       accessed: '2026-11-21'
       locator: Page title

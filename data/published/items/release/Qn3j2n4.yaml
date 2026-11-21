@@ -10,6 +10,14 @@ statements:
       quote: nine-sum sorcery B (feat. Hani Mojtahedy)
       locator: Track 2
       accessed: '2026-11-21'
+  - value:
+      text: nine-sum sorcery side B
+      language: en
+    references:
+    - source: studio-labour.bandcamp.com-album-nine-sum-sorcery
+      quote: nine-sum sorcery side B
+      locator: Title on the release
+      accessed: '2026-11-21'
   performer:
   - value: Qnrm3kw
     references:
@@ -42,6 +50,16 @@ statements:
       credit:
         text: nine-sum sorcery feat. Hani Mojtahedy · Apple Music
         language: en
+  - value: https://f4.bcbits.com/img/a3957665728_10.jpg
+    references:
+    - source: studio-labour.bandcamp.com-album-nine-sum-sorcery
+      quote: https://f4.bcbits.com/img/a3957665728_10.jpg
+      locator: Image supplied with the artist or recording
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Recording artwork · studio LABOUR
+        language: en
   listen link:
   - value: https://music.apple.com/us/song/nine-sum-sorcery-b-feat-hani-mojtahedy/1738234879
     references:
@@ -60,4 +78,10 @@ statements:
     - source: open.spotify.com-track-2nrfcguopyoi5iydsctwuq
       quote: nine-sum sorcery B
       locator: Matched release and credited artists
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/626uKe0v4RLa2urV6Zz34J
+    references:
+    - source: open.spotify.com-album-34qmei2akltcyhidlx5kq4
+      quote: nine-sum sorcery B
+      locator: Streaming track
       accessed: '2026-11-21'

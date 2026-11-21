@@ -32,7 +32,7 @@ statements:
       locator: Page title
   - value: https://www.youtube.com/watch?v=g9Ega87HR3w
     references:
-    - source: www.youtube.com-oembed-url-https
+    - source: www.youtube.com-watch-v-g9ega87hr3w
       quote: Arshia Samsaminia - The Cure (Shifā) - Collegium Novum Zürich 2022
       accessed: '2026-11-21'
       locator: Page title

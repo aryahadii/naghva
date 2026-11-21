@@ -47,6 +47,13 @@ statements:
       locator: Album headline billing
   release date:
   - value:
+      date: '2025-11-16'
+    references:
+    - source: t.me-kiyarashdavoudi-345
+      quote: آلبوم جان حزین در تاریخ ۲۵ آبان ماه ۱۴۰۴، به صورت رسمی در تالار رودکی رونمایی و منتشر شد.
+      accessed: '2026-11-21'
+      locator: Davoudi’s report following the Tehran launch
+  - value:
       date: '2025-11-22'
     references:
     - source: music.apple.com-us-album-jane-hazin-1858465428

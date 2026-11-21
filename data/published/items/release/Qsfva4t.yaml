@@ -42,7 +42,7 @@ statements:
       locator: Page title
   - value: https://www.youtube.com/watch?v=QQaPfF4WiXw
     references:
-    - source: www.youtube.com-oembed-url-https
+    - source: www.youtube.com-watch-v-qqapff4wixw
       quote: Freq.Exp (Klangteppich IV Excerpts)
       accessed: '2026-11-21'
       locator: Page title

@@ -10,6 +10,14 @@ statements:
       quote: Jane Hazin
       accessed: '2026-11-21'
       locator: Spotify track listing
+  - value:
+      text: جانِ حزین
+      language: fa
+    references:
+    - source: t.me-kiyarashdavoudi-209
+      quote: جان ِ حزین
+      accessed: '2026-11-21'
+      locator: Santur and tombak recording of the title work
   performer:
   - value: Q5rnjaz
     qualifiers:
@@ -38,7 +46,30 @@ statements:
       quote: Jane Hazin
       accessed: '2026-11-21'
       locator: Spotify track listing
+  - value: https://www.youtube.com/watch?v=opAnJ5PHRAk
+    references:
+    - source: www.youtube.com-watch-v-opanj5phrak
+      quote: 'جانِ حزین منتشر شد. #تنبک: #پدرام_خاورزمینی #سنتور: #کیارش_داودی'
+      accessed: '2026-11-21'
+      locator: Artist’s native video title
+    - source: www.youtube.com-watch-v-opanj5phrak
+      quote: kiyarash davoudi
+      accessed: '2026-11-21'
+      locator: Publisher
+  - value: https://t.me/kiyarashdavoudi/210
+    references:
+    - source: t.me-kiyarashdavoudi-210
+      quote: جان ِ حزین منتشر شد.
+      accessed: '2026-11-21'
+      locator: Music video in the composer’s Telegram feed
   release date:
+  - value:
+      date: '2023-10-24'
+    references:
+    - source: t.me-kiyarashdavoudi-209
+      quote: دوم آبان‌ماه هزار و چهارصد و دو
+      accessed: '2026-11-21'
+      locator: Date of the original single announcement
   - value:
       date: '2025-11-22'
     references:

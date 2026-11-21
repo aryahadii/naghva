@@ -1,0 +1,45 @@
+id: Q46tbye
+type: release
+statements:
+  name:
+  - value:
+      text: Confessions Vol.1
+      language: en
+    references:
+    - &id002
+      source: arshiasamsaminia.bandcamp.com-album-confessions-vol-1
+      quote: Confessions Vol.1
+      accessed: '2026-11-21'
+      locator: Earlier three-track Bandcamp edition, indexed labels and album credits
+  contributor:
+  - value: Qfvnnnd
+    references:
+    - source: arshiasamsaminia.bandcamp.com-album-confessions-vol-1
+      quote: contemporary composed compositions by Arshia Samsaminia
+      accessed: '2026-11-21'
+      locator: Earlier three-track Bandcamp edition, indexed labels and album credits
+    qualifiers:
+      role: composer
+  release date:
+  - value:
+      date: '2016-08-23'
+    references:
+    - source: arshiasamsaminia.bandcamp.com-album-confessions-vol-1
+      quote: released August 23, 2016
+      accessed: '2026-11-21'
+      locator: Earlier three-track Bandcamp edition, indexed labels and album credits
+  performer:
+  - value: Qrs4xcb
+    references:
+    - &id001
+      source: arshiasamsaminia.bandcamp.com-album-confessions-vol-1
+      quote: Stockholm Saxophone Quartet (Sweden), Alexander Stachowski (Accordion)
+      accessed: '2026-11-21'
+      locator: Earlier three-track Bandcamp edition, indexed labels and album credits
+  - value: Qwhf8j8
+    references:
+    - *id001
+  release type:
+  - value: album
+    references:
+    - *id002

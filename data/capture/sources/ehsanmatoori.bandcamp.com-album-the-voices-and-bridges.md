@@ -53,3 +53,7 @@ Album track listing, read 2026-11-21.
 > Jete Nahi Dibo
 
 Album track listing, read 2026-11-21.
+
+> KOUROSH BABAEI, KAMANCHEH (1,3)
+
+Track musician credits, tracks 1 and 3, read 2026-11-21.

@@ -102,3 +102,12 @@ The primary teacher interview and original 2015 university publication document 
 - Intro Saba · https://music.apple.com/us/song/intro-saba/1442841834 · https://open.spotify.com/track/18YnIfwHOGBIB1uvoqiU3b
 - Saba · https://music.apple.com/us/song/saba/1442841846 · https://open.spotify.com/track/1d4B49PPP2gmnXxYGoMA3t
 - Iris · https://open.spotify.com/album/0czoRWLlSUspMTYhfggTyj
+
+The title performance of Jan-e Hazin was published in 2023, two years before its parent album. Davoudi’s Telegram expressly states an album launch and publication at Roudaki Hall on 25 Aban 1404 (16 November 2025), six days ahead of the November 22 international storefront. A further concert film, native SoundCloud performance recorded in fall 2016 and the following album appearances were added.
+
+Both Kelly Thoma album credits are from her discography. The guest appearances on Ross Daly’s The Other Side were verified against the CD personnel printed by Thoma, including Araz Salek on tar. Individual tracks were not assigned from album-level credits.
+- Anamkhara · https://kellythoma.bandcamp.com/album/anamkhara · https://music.apple.com/us/album/anamkhara/587749476 · https://open.spotify.com/album/0e7ct6CwNQsJvAXehRSQ5t
+- 7Fish · https://kellythoma.bandcamp.com/album/7fish · https://music.apple.com/us/album/7-fish/954964695 · https://open.spotify.com/album/5EBvRqjfNFmCDumLQBKRVj
+- the other side · https://rossdaly.bandcamp.com/album/the-other-side · https://music.apple.com/us/album/the-other-side/923004864 · https://open.spotify.com/album/0BELDQsar6LqiV3gHXnTU4
+- دور · https://soundcloud.com/siavashimanitar/okylxrtlwj71
+- آئین رونمایی از آلبوم جان حزین · https://www.youtube.com/watch?v=EaurmcF94eE

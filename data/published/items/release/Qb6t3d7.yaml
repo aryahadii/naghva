@@ -10,6 +10,14 @@ statements:
       quote: nine-sum sorcery feat. Hani Mojtahedy
       locator: Edition title
       accessed: '2026-11-21'
+  - value:
+      text: nine-sum sorcery
+      language: en
+    references:
+    - source: studio-labour.bandcamp.com-album-nine-sum-sorcery
+      quote: nine-sum sorcery
+      locator: Publisher edition
+      accessed: '2026-11-21'
   performer:
   - value: Qnrm3kw
     references:
@@ -41,6 +49,16 @@ statements:
     qualifiers:
       credit:
         text: nine-sum sorcery feat. Hani Mojtahedy · Apple Music
+        language: en
+  - value: https://f4.bcbits.com/img/a3957665728_10.jpg
+    references:
+    - source: studio-labour.bandcamp.com-album-nine-sum-sorcery
+      quote: https://f4.bcbits.com/img/a3957665728_10.jpg
+      locator: Image supplied with the artist or recording
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Recording artwork · studio LABOUR
         language: en
   release type:
   - value: album
