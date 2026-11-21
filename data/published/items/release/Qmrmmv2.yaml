@@ -1,0 +1,57 @@
+id: Qmrmmv2
+type: release
+statements:
+  name:
+  - value:
+      text: Submerged
+      language: en
+    references:
+    - source: numduo.bandcamp.com-track-submerged
+      quote: Submerged
+      accessed: '2026-11-21'
+      locator: Recording title
+  performer:
+  - value: Qm4skc3
+    references:
+    - source: numduo.bandcamp.com-track-submerged
+      quote: Submerged | NUM
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://numduo.bandcamp.com/track/submerged
+    references:
+    - source: numduo.bandcamp.com-track-submerged
+      quote: Submerged | NUM
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/nummusic/submerged
+    references:
+    - source: soundcloud.com-nummusic-submerged
+      quote: Stream Submerged by NUM | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/submerged/1861996751
+    references:
+    - source: music.apple.com-us-song-submerged-1861996751
+      quote: ‎Submerged - Song with Lyrics by NUM - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2025-12-18'
+    references:
+    - source: numduo.bandcamp.com-album-seas-coming-for-me
+      quote: released December 18, 2025
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a0329851628_10.jpg
+    references:
+    - source: numduo.bandcamp.com-album-seas-coming-for-me
+      quote: https://f4.bcbits.com/img/a0329851628_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Bandcamp · NUM
+        language: en

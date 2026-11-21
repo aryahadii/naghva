@@ -1,0 +1,49 @@
+id: Qfqxgn9
+type: release
+statements:
+  name:
+  - value:
+      text: مرغ سکوت  babak rajabi
+      language: fa
+    references:
+    - source: www.youtube.com-watchv-ij4uahd94xe
+      quote: مرغ سکوت  babak rajabi
+      accessed: '2026-11-21'
+      locator: Official upload title
+  performer:
+  - value: Qzhgpkw
+    references:
+    - source: www.youtube.com-watchv-ij4uahd94xe
+      quote: مرغ سکوت  babak rajabi
+      accessed: '2026-11-21'
+      locator: Official upload title
+    - source: www.youtube.com-watchv-ij4uahd94xe
+      quote: Babak Rajabi
+      accessed: '2026-11-21'
+      locator: Uploading artist
+  listen link:
+  - value: https://www.youtube.com/watch?v=IJ4UAHd94xE
+    references:
+    - source: www.youtube.com-watchv-ij4uahd94xe
+      quote: مرغ سکوت  babak rajabi
+      accessed: '2026-11-21'
+      locator: Official upload title
+  release date:
+  - value:
+      date: '2014-11-04'
+    references:
+    - source: www.youtube.com-watchv-ij4uahd94xe
+      quote: '20141104'
+      accessed: '2026-11-21'
+      locator: Video publication date, YYYYMMDD
+  cover art:
+  - value: https://i.ytimg.com/vi/IJ4UAHd94xE/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watchv-ij4uahd94xe
+      quote: https://i.ytimg.com/vi/IJ4UAHd94xE/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Release image URL
+    qualifiers:
+      credit:
+        text: Babak Rajabi · YouTube
+        language: en

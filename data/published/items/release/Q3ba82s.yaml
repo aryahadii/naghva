@@ -1,0 +1,64 @@
+id: Q3ba82s
+type: release
+statements:
+  name:
+  - value:
+      text: Signs
+      language: en
+    references:
+    - source: open.spotify.com-album-7tomw5y2cnwpcxzfjxr0gu
+      quote: Listen to Signs - Single by Eishan Ensemble | Spotify
+      accessed: '2026-11-21'
+      locator: Single or compilation heading
+  performer:
+  - value: Qhebfsp
+    references:
+    - source: open.spotify.com-album-7tomw5y2cnwpcxzfjxr0gu
+      quote: Eishan Ensemble
+      accessed: '2026-11-21'
+      locator: Track artist
+  release date:
+  - value:
+      date: '2020-03-19'
+    references:
+    - source: open.spotify.com-album-7tomw5y2cnwpcxzfjxr0gu
+      quote: '2020-03-19'
+      accessed: '2026-11-21'
+      locator: Release date metadata
+  listen link:
+  - value: https://open.spotify.com/album/7tOmw5Y2CnWPcXzFJxR0gu
+    references:
+    - source: open.spotify.com-album-7tomw5y2cnwpcxzfjxr0gu
+      quote: Listen to Signs - Single by Eishan Ensemble | Spotify
+      accessed: '2026-11-21'
+      locator: Single or compilation heading
+  - value: https://open.spotify.com/track/02vIyaMo3a0nYCdonQ190z
+    references:
+    - source: open.spotify.com-album-7tomw5y2cnwpcxzfjxr0gu
+      quote: Signs
+      accessed: '2026-11-21'
+      locator: Track 1
+  - value: https://www.youtube.com/playlist?list=OLAK5uy_koXSMs3klvxw095-2kpESpthO4oNEqRa0
+    references:
+    - source: www.youtube.com-playlist-list-olak5uy_koxsms3klvxw095-2kpesptho4oneqra0
+      quote: Signs
+      accessed: '2026-11-21'
+      locator: YouTube release playlist
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d0000b273888d9ac13b3032761f6060c3
+    qualifiers:
+      credit:
+        text: Spotify edition artwork
+        language: en
+    references:
+    - source: open.spotify.com-album-7tomw5y2cnwpcxzfjxr0gu
+      quote: https://i.scdn.co/image/ab67616d0000b273888d9ac13b3032761f6060c3
+      accessed: '2026-11-21'
+      locator: Spotify edition artwork
+  release type:
+  - value: single
+    references:
+    - source: open.spotify.com-album-7tomw5y2cnwpcxzfjxr0gu
+      quote: Listen to Signs - Single by Eishan Ensemble | Spotify
+      accessed: '2026-11-21'
+      locator: Single or compilation heading

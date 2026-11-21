@@ -1,0 +1,49 @@
+id: Qjynv7w
+type: release
+statements:
+  name:
+  - value:
+      text: ترمینال کاوه
+      language: fa
+    references:
+    - source: www.youtube.com-watchv-5oluzldgqrk
+      quote: ترمینال کاوه
+      accessed: '2026-11-21'
+      locator: Official upload title
+  performer:
+  - value: Qzhgpkw
+    references:
+    - source: www.youtube.com-watchv-5oluzldgqrk
+      quote: ترمینال کاوه
+      accessed: '2026-11-21'
+      locator: Official upload title
+    - source: www.youtube.com-watchv-5oluzldgqrk
+      quote: Babak Rajabi
+      accessed: '2026-11-21'
+      locator: Uploading artist
+  listen link:
+  - value: https://www.youtube.com/watch?v=5OlUZldgQrk
+    references:
+    - source: www.youtube.com-watchv-5oluzldgqrk
+      quote: ترمینال کاوه
+      accessed: '2026-11-21'
+      locator: Official upload title
+  release date:
+  - value:
+      date: '2023-09-26'
+    references:
+    - source: www.youtube.com-watchv-5oluzldgqrk
+      quote: '20230926'
+      accessed: '2026-11-21'
+      locator: Video publication date, YYYYMMDD
+  cover art:
+  - value: https://i.ytimg.com/vi/5OlUZldgQrk/maxresdefault.jpg
+    references:
+    - source: www.youtube.com-watchv-5oluzldgqrk
+      quote: https://i.ytimg.com/vi/5OlUZldgQrk/maxresdefault.jpg
+      accessed: '2026-11-21'
+      locator: Release image URL
+    qualifiers:
+      credit:
+        text: Babak Rajabi · YouTube
+        language: en

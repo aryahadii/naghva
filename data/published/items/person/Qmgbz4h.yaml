@@ -1,0 +1,29 @@
+id: Qmgbz4h
+type: person
+statements:
+  name:
+  - value:
+      text: Hamed Sadeghi
+      language: en
+    references:
+    - source: www.bluemountainstheatre.com.au-what-s-on-past-events-2020-events-eishan-ensemble
+      quote: Led by acclaimed Persian-Australian tar player and composer, Hamed Sadeghi
+      accessed: '2026-11-21'
+      locator: Artist biography
+  - value:
+      text: حامد صادقی
+      language: fa
+    references:
+    - source: www.sbs.com.au-language-persian-fa-podcast-episode-the-boomkak-panto-by-hamed-sadeghi-erei0v6v3
+      quote: حامد صادقی متولد ایران
+      accessed: '2026-11-21'
+      locator: Artist biography
+  member of:
+  - value: Qhebfsp
+    qualifiers:
+      role: tar
+    references:
+    - source: www.bluemountainstheatre.com.au-what-s-on-past-events-2020-events-eishan-ensemble
+      quote: Led by acclaimed Persian-Australian tar player and composer, Hamed Sadeghi
+      accessed: '2026-11-21'
+      locator: Artist biography

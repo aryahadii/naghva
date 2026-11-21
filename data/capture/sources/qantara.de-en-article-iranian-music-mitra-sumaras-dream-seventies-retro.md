@@ -1,5 +1,6 @@
 ---
 url: https://qantara.de/en/article/iranian-music-mitra-sumaras-dream-seventies-retro
+archive: https://web.archive.org/web/20260807104220/https://qantara.de/en/article/iranian-music-mitra-sumaras-dream-seventies-retro
 title: 'Iranian music: Iran pre-Islamic revolution: pop divas and dance tracks | Qantara.de'
 status: processed
 language: en

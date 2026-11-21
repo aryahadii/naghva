@@ -1,0 +1,51 @@
+id: Qc5xsyz
+type: release
+statements:
+  name:
+  - value:
+      text: Watching Myself from the Corner
+      language: en
+    references:
+    - source: numduo.bandcamp.com-track-watching-myself-from-the-corner
+      quote: Watching Myself from the Corner
+      accessed: '2026-11-21'
+      locator: Recording title
+  performer:
+  - value: Qm4skc3
+    references:
+    - source: numduo.bandcamp.com-track-watching-myself-from-the-corner
+      quote: Watching Myself from the Corner | NUM
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://numduo.bandcamp.com/track/watching-myself-from-the-corner
+    references:
+    - source: numduo.bandcamp.com-track-watching-myself-from-the-corner
+      quote: Watching Myself from the Corner | NUM
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://pitp.bandcamp.com/track/watching-myself-from-the-corner
+    references:
+    - source: pitp.bandcamp.com-track-watching-myself-from-the-corner
+      quote: Watching Myself from the Corner | NUM | Past Inside the Present
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2019-04-30'
+    references:
+    - source: numduo.bandcamp.com-album-false-awakening
+      quote: released April 30, 2019
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a1696685196_10.jpg
+    references:
+    - source: numduo.bandcamp.com-album-false-awakening
+      quote: https://f4.bcbits.com/img/a1696685196_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Bandcamp · NUM
+        language: en

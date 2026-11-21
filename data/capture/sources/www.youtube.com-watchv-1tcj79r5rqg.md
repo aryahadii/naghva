@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=1tcj79r5Rqg
+archive: https://web.archive.org/web/20221220095342/https://www.youtube.com/watch?v=1tcj79r5Rqg
 title: Mitra Sumara "Kofriam" live
 status: processed
 language: en

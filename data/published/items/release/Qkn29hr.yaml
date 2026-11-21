@@ -1,0 +1,64 @@
+id: Qkn29hr
+type: release
+statements:
+  name:
+  - value:
+      text: Songs of an Empty Room
+      language: en
+    references:
+    - source: maryamsirvan.bandcamp.com-album-songs-of-an-empty-room
+      quote: Songs of an Empty Room
+      accessed: '2026-11-21'
+      locator: Recording title
+  performer:
+  - value: Q6zbcxw
+    references:
+    - source: maryamsirvan.bandcamp.com-album-songs-of-an-empty-room
+      quote: Songs of an Empty Room | Maryam Sirvan
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://maryamsirvan.bandcamp.com/album/songs-of-an-empty-room
+    references:
+    - source: maryamsirvan.bandcamp.com-album-songs-of-an-empty-room
+      quote: Songs of an Empty Room | Maryam Sirvan
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://numduo.bandcamp.com/album/songs-of-an-empty-room
+    references:
+    - source: numduo.bandcamp.com-album-songs-of-an-empty-room
+      quote: Songs of an Empty Room | Maryam Sirvan | NUM
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://pitp.bandcamp.com/album/songs-of-an-empty-room
+    references:
+    - source: pitp.bandcamp.com-album-songs-of-an-empty-room
+      quote: Songs of an Empty Room | Maryam Sirvan | Past Inside the Present
+      accessed: '2026-11-21'
+      locator: Page title
+  release type:
+  - value: album
+    references:
+    - source: maryamsirvan.bandcamp.com-album-songs-of-an-empty-room
+      quote: Songs of an Empty Room | Maryam Sirvan
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2019-05-24'
+    references:
+    - source: maryamsirvan.bandcamp.com-album-songs-of-an-empty-room
+      quote: released May 24, 2019
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a4021987732_10.jpg
+    references:
+    - source: maryamsirvan.bandcamp.com-album-songs-of-an-empty-room
+      quote: https://f4.bcbits.com/img/a4021987732_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Bandcamp · Maryam Sirvan
+        language: en

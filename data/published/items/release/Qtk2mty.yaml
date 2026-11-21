@@ -1,0 +1,49 @@
+id: Qtk2mty
+type: release
+statements:
+  name:
+  - value:
+      text: Out of Mind Walls
+      language: en
+    references:
+    - source: ahoora.bandcamp.com-album-all-in-blood-with-you
+      quote: Out of Mind Walls
+      accessed: 2026-11-21
+      locator: Track 2
+  release date:
+  - value:
+      date: '2007-09-30'
+    references:
+    - source: ahoora.bandcamp.com-album-all-in-blood-with-you
+      quote: released September 30, 2007
+      accessed: 2026-11-21
+      locator: Release date
+  performer:
+  - value: Qkb4887
+    references:
+    - source: ahoora.bandcamp.com-album-all-in-blood-with-you
+      quote: Ahoora
+      accessed: 2026-11-21
+      locator: Release artist
+  listen link:
+  - value: https://ahoora.bandcamp.com/track/out-of-mind-walls
+    references:
+    - source: ahoora.bandcamp.com-album-all-in-blood-with-you
+      quote: Out of Mind Walls
+      accessed: 2026-11-21
+      locator: Track 2
+  cover art:
+  - value: https://f4.bcbits.com/img/a3394950586_2.jpg
+    references:
+    - source: ahoora.bandcamp.com-album-all-in-blood-with-you
+      quote: All In Blood With You
+      accessed: 2026-11-21
+      locator: Release heading
+    - source: ahoora.bandcamp.com-album-all-in-blood-with-you
+      quote: 'Artwork: Alireza Saeidan'
+      accessed: 2026-11-21
+      locator: Artwork credits
+    qualifiers:
+      credit:
+        text: Alireza Saeidan
+        language: en

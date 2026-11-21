@@ -1,0 +1,45 @@
+id: Qwpynhb
+type: release
+statements:
+  name:
+  - value:
+      text: Man Zanam Emshab
+      language: en
+    references:
+    - source: music.apple.com-us-album-man-zanam-emshab-1686456802
+      quote: Man Zanam Emshab
+      accessed: '2026-11-21'
+      locator: Track title
+  performer:
+  - value: Qzhgpkw
+    references:
+    - source: music.apple.com-us-album-man-zanam-emshab-1686456802
+      quote: Babak Rajabi
+      accessed: '2026-11-21'
+      locator: Artist billing
+  release date:
+  - value:
+      date: '2023-05-02'
+    references:
+    - source: music.apple.com-us-album-man-zanam-emshab-1686456802
+      quote: '2023-05-02'
+      accessed: '2026-11-21'
+      locator: Release metadata
+  listen link:
+  - value: https://music.apple.com/us/song/man-zanam-emshab/1686456803
+    references:
+    - source: music.apple.com-us-album-man-zanam-emshab-1686456802
+      quote: Man Zanam Emshab
+      accessed: '2026-11-21'
+      locator: Track title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/38/7a/16/387a16e9-0ddd-2103-6c41-7644ec82c1e2/artwork.jpg/632x632bb-60.jpg
+    references:
+    - source: music.apple.com-us-album-man-zanam-emshab-1686456802
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/38/7a/16/387a16e9-0ddd-2103-6c41-7644ec82c1e2/artwork.jpg/632x632bb-60.jpg
+      accessed: '2026-11-21'
+      locator: Release image URL
+    qualifiers:
+      credit:
+        text: Apple Music · Man Zanam Emshab - Single
+        language: en

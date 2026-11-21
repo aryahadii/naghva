@@ -1,0 +1,45 @@
+id: Qhpbkds
+type: release
+statements:
+  name:
+  - value:
+      text: Range Ghali
+      language: en
+    references:
+    - source: music.apple.com-us-album-range-ghali-1730738192
+      quote: Range Ghali
+      accessed: '2026-11-21'
+      locator: Track title
+  performer:
+  - value: Qzhgpkw
+    references:
+    - source: music.apple.com-us-album-range-ghali-1730738192
+      quote: Babak Rajabi
+      accessed: '2026-11-21'
+      locator: Artist billing
+  release date:
+  - value:
+      date: '2024-02-07'
+    references:
+    - source: music.apple.com-us-album-range-ghali-1730738192
+      quote: '2024-02-07'
+      accessed: '2026-11-21'
+      locator: Release metadata
+  listen link:
+  - value: https://music.apple.com/us/song/range-ghali/1730738193
+    references:
+    - source: music.apple.com-us-album-range-ghali-1730738192
+      quote: Range Ghali
+      accessed: '2026-11-21'
+      locator: Track title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ef/f1/d8/eff1d868-a74a-be26-56ea-9b6f6973ddb0/artwork.jpg/632x632bb-60.jpg
+    references:
+    - source: music.apple.com-us-album-range-ghali-1730738192
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ef/f1/d8/eff1d868-a74a-be26-56ea-9b6f6973ddb0/artwork.jpg/632x632bb-60.jpg
+      accessed: '2026-11-21'
+      locator: Release image URL
+    qualifiers:
+      credit:
+        text: Apple Music · Range Ghali - Single
+        language: en

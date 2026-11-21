@@ -1,0 +1,35 @@
+id: Qj24qcs
+type: person
+statements:
+  name:
+  - value:
+      text: Milad Bagheri
+      language: en
+    references:
+    - &id001
+      source: www.numduo.com-about
+      quote: Milad Bagheri (b. 1984) is an Iranian music technologist, sound artist, and composer based in Calgary, Canada.
+      accessed: '2026-11-21'
+      locator: Milad Bagheri biography
+  - value:
+      text: میلاد باقری
+      language: fa
+    references:
+    - *id001
+    editorial: true
+  birth date:
+  - value:
+      date: '1984'
+    references:
+    - *id001
+  member of:
+  - value: Qm4skc3
+    references:
+    - source: www.numduo.com-about
+      quote: Maryam Sirvan and Milad Bagheri in 2010, originally from northern Iran.
+      accessed: '2026-11-21'
+      locator: Duo biography
+  based in:
+  - value: Qdxbpzd
+    references:
+    - *id001

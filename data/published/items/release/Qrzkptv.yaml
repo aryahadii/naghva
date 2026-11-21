@@ -1,0 +1,58 @@
+id: Qrzkptv
+type: release
+statements:
+  name:
+  - value:
+      text: Galoba / გალობა
+      language: en
+    references:
+    - source: numduo.bandcamp.com-album-galoba
+      quote: Galoba / გალობა
+      accessed: '2026-11-21'
+      locator: Recording title
+  performer:
+  - value: Qj24qcs
+    references:
+    - source: numduo.bandcamp.com-album-galoba
+      quote: Galoba / გალობა | Milad Bagheri | NUM
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://numduo.bandcamp.com/album/galoba
+    references:
+    - source: numduo.bandcamp.com-album-galoba
+      quote: Galoba / გალობა | Milad Bagheri | NUM
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://flagdayrecordings.bandcamp.com/album/galoba
+    references:
+    - source: flagdayrecordings.bandcamp.com-album-galoba
+      quote: Galoba | Milad Bagheri | Flag Day Recordings
+      accessed: '2026-11-21'
+      locator: Page title
+  release type:
+  - value: album
+    references:
+    - source: numduo.bandcamp.com-album-galoba
+      quote: Galoba / გალობა | Milad Bagheri | NUM
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2020-10-23'
+    references:
+    - source: numduo.bandcamp.com-album-galoba
+      quote: released October 23, 2020
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a4068365322_10.jpg
+    references:
+    - source: numduo.bandcamp.com-album-galoba
+      quote: https://f4.bcbits.com/img/a4068365322_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Bandcamp · Milad Bagheri
+        language: en

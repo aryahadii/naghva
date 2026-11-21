@@ -1,0 +1,45 @@
+id: Qtwdj4v
+type: release
+statements:
+  name:
+  - value:
+      text: Tinted With Sore
+      language: en
+    references:
+    - source: zabtesote.bandcamp.com-track-tinted-with-sore
+      quote: Tinted With Sore
+      accessed: '2026-11-21'
+      locator: Recording title
+  performer:
+  - value: Qm4skc3
+    references:
+    - source: zabtesote.bandcamp.com-track-tinted-with-sore
+      quote: Tinted With Sore | NUM | Zabte Sote
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://zabtesote.bandcamp.com/track/tinted-with-sore
+    references:
+    - source: zabtesote.bandcamp.com-track-tinted-with-sore
+      quote: Tinted With Sore | NUM | Zabte Sote
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2018-08-17'
+    references:
+    - source: zabtesote.bandcamp.com-track-tinted-with-sore
+      quote: released August 17, 2018
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a0511040605_10.jpg
+    references:
+    - source: zabtesote.bandcamp.com-track-tinted-with-sore
+      quote: https://f4.bcbits.com/img/a0511040605_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Bandcamp · NUM
+        language: en

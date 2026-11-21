@@ -1,0 +1,45 @@
+id: Qsm5eh5
+type: release
+statements:
+  name:
+  - value:
+      text: Badbadak
+      language: en
+    references:
+    - source: music.apple.com-us-album-badbadak-1686929915
+      quote: Badbadak
+      accessed: '2026-11-21'
+      locator: Track title
+  performer:
+  - value: Qzhgpkw
+    references:
+    - source: music.apple.com-us-album-badbadak-1686929915
+      quote: Babak Rajabi
+      accessed: '2026-11-21'
+      locator: Artist billing
+  release date:
+  - value:
+      date: '2023-05-08'
+    references:
+    - source: music.apple.com-us-album-badbadak-1686929915
+      quote: '2023-05-08'
+      accessed: '2026-11-21'
+      locator: Release metadata
+  listen link:
+  - value: https://music.apple.com/us/song/badbadak/1686929916
+    references:
+    - source: music.apple.com-us-album-badbadak-1686929915
+      quote: Badbadak
+      accessed: '2026-11-21'
+      locator: Track title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/99/da/bf/99dabf3e-5c92-36a7-a715-fd373973c860/artwork.jpg/632x632bb-60.jpg
+    references:
+    - source: music.apple.com-us-album-badbadak-1686929915
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/99/da/bf/99dabf3e-5c92-36a7-a715-fd373973c860/artwork.jpg/632x632bb-60.jpg
+      accessed: '2026-11-21'
+      locator: Release image URL
+    qualifiers:
+      credit:
+        text: Apple Music · Badbadak - Single
+        language: en

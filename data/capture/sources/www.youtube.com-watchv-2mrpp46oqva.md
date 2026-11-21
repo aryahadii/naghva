@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=2mrPp46OQVA
+archive: https://web.archive.org/web/20250214142331/https://www.youtube.com/watch?v=2mrPp46OQVA
 title: Mitra Sumara - Shekare Ahoo شکار اهو (official video)
 status: processed
 language: en

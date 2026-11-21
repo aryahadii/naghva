@@ -1,0 +1,49 @@
+id: Qg7b76z
+type: release
+statements:
+  name:
+  - value:
+      text: من زنم امشب Je suis une femme
+      language: fa
+    references:
+    - source: www.youtube.com-watchv-9upggiavz8y
+      quote: من زنم امشب Je suis une femme
+      accessed: '2026-11-21'
+      locator: Official upload title
+  performer:
+  - value: Qzhgpkw
+    references:
+    - source: www.youtube.com-watchv-9upggiavz8y
+      quote: من زنم امشب Je suis une femme
+      accessed: '2026-11-21'
+      locator: Official upload title
+    - source: www.youtube.com-watchv-9upggiavz8y
+      quote: Babak Rajabi
+      accessed: '2026-11-21'
+      locator: Uploading artist
+  listen link:
+  - value: https://www.youtube.com/watch?v=9UPGGiaVZ8Y
+    references:
+    - source: www.youtube.com-watchv-9upggiavz8y
+      quote: من زنم امشب Je suis une femme
+      accessed: '2026-11-21'
+      locator: Official upload title
+  release date:
+  - value:
+      date: '2022-12-05'
+    references:
+    - source: www.youtube.com-watchv-9upggiavz8y
+      quote: '20221205'
+      accessed: '2026-11-21'
+      locator: Video publication date, YYYYMMDD
+  cover art:
+  - value: https://i.ytimg.com/vi/9UPGGiaVZ8Y/maxresdefault.jpg
+    references:
+    - source: www.youtube.com-watchv-9upggiavz8y
+      quote: https://i.ytimg.com/vi/9UPGGiaVZ8Y/maxresdefault.jpg
+      accessed: '2026-11-21'
+      locator: Release image URL
+    qualifiers:
+      credit:
+        text: Babak Rajabi · YouTube
+        language: en

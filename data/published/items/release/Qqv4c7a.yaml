@@ -1,0 +1,45 @@
+id: Qqv4c7a
+type: release
+statements:
+  name:
+  - value:
+      text: Vacant Shade - Part I
+      language: en
+    references:
+    - source: numduo.bandcamp.com-track-vacant-shade-part-i
+      quote: Vacant Shade - Part I
+      accessed: '2026-11-21'
+      locator: Recording title
+  performer:
+  - value: Qm4skc3
+    references:
+    - source: numduo.bandcamp.com-track-vacant-shade-part-i
+      quote: Vacant Shade - Part I | NUM
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://numduo.bandcamp.com/track/vacant-shade-part-i
+    references:
+    - source: numduo.bandcamp.com-track-vacant-shade-part-i
+      quote: Vacant Shade - Part I | NUM
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2018-04-24'
+    references:
+    - source: numduo.bandcamp.com-album-vacant-shade
+      quote: released April 24, 2018
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a0474819846_10.jpg
+    references:
+    - source: numduo.bandcamp.com-album-vacant-shade
+      quote: https://f4.bcbits.com/img/a0474819846_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Bandcamp · NUM
+        language: en

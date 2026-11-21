@@ -1,0 +1,45 @@
+id: Qnjphfp
+type: release
+statements:
+  name:
+  - value:
+      text: I Am Walking in the Woods of Magic
+      language: en
+    references:
+    - source: numduo.bandcamp.com-track-i-am-walking-in-the-woods-of-magic
+      quote: I Am Walking in the Woods of Magic
+      accessed: '2026-11-21'
+      locator: Recording title
+  performer:
+  - value: Qm4skc3
+    references:
+    - source: numduo.bandcamp.com-track-i-am-walking-in-the-woods-of-magic
+      quote: I Am Walking in the Woods of Magic | NUM
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://numduo.bandcamp.com/track/i-am-walking-in-the-woods-of-magic
+    references:
+    - source: numduo.bandcamp.com-track-i-am-walking-in-the-woods-of-magic
+      quote: I Am Walking in the Woods of Magic | NUM
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2017-05-22'
+    references:
+    - source: numduo.bandcamp.com-track-i-am-walking-in-the-woods-of-magic
+      quote: released May 22, 2017
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a0493055990_10.jpg
+    references:
+    - source: numduo.bandcamp.com-track-i-am-walking-in-the-woods-of-magic
+      quote: https://f4.bcbits.com/img/a0493055990_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Bandcamp · NUM
+        language: en

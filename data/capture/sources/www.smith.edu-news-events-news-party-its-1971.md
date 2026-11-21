@@ -1,5 +1,6 @@
 ---
 url: https://www.smith.edu/news-events/news/party-its-1971
+archive: https://web.archive.org/web/20260507181837/https://www.smith.edu/news-events/news/party-its-1971
 title: Party Like It’s 1971
 status: processed
 language: en

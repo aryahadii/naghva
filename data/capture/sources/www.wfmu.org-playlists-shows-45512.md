@@ -1,5 +1,6 @@
 ---
 url: https://www.wfmu.org/playlists/shows/45512
+archive: https://web.archive.org/web/20170510064630/http://wfmu.org/playlists/shows/45512
 title: TSP Saturday June 9, 2012 / Mitra Sumara
 status: processed
 language: en

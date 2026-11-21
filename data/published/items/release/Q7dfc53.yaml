@@ -1,0 +1,51 @@
+id: Q7dfc53
+type: release
+statements:
+  name:
+  - value:
+      text: The Gate
+      language: en
+    references:
+    - source: numduo.bandcamp.com-track-the-gate
+      quote: The Gate
+      accessed: '2026-11-21'
+      locator: Recording title
+  performer:
+  - value: Qm4skc3
+    references:
+    - source: numduo.bandcamp.com-track-the-gate
+      quote: The Gate | NUM
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://numduo.bandcamp.com/track/the-gate
+    references:
+    - source: numduo.bandcamp.com-track-the-gate
+      quote: The Gate | NUM
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/the-gate/1861996755
+    references:
+    - source: music.apple.com-us-song-the-gate-1861996755
+      quote: ‎The Gate - Song with Lyrics by NUM - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2025-12-18'
+    references:
+    - source: numduo.bandcamp.com-album-seas-coming-for-me
+      quote: released December 18, 2025
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a0329851628_10.jpg
+    references:
+    - source: numduo.bandcamp.com-album-seas-coming-for-me
+      quote: https://f4.bcbits.com/img/a0329851628_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Bandcamp · NUM
+        language: en

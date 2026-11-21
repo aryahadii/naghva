@@ -1,0 +1,57 @@
+id: Qz77d64
+type: release
+statements:
+  name:
+  - value:
+      text: White Room
+      language: en
+    references:
+    - source: maryamsirvan.bandcamp.com-track-white-room
+      quote: White Room
+      accessed: '2026-11-21'
+      locator: Recording title
+  performer:
+  - value: Q6zbcxw
+    references:
+    - source: maryamsirvan.bandcamp.com-track-white-room
+      quote: White Room | Maryam Sirvan
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://maryamsirvan.bandcamp.com/track/white-room
+    references:
+    - source: maryamsirvan.bandcamp.com-track-white-room
+      quote: White Room | Maryam Sirvan
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://numduo.bandcamp.com/track/white-room
+    references:
+    - source: numduo.bandcamp.com-track-white-room
+      quote: White Room | Maryam Sirvan | NUM
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://pitp.bandcamp.com/track/white-room
+    references:
+    - source: pitp.bandcamp.com-track-white-room
+      quote: White Room | Maryam Sirvan | Past Inside the Present
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2019-05-24'
+    references:
+    - source: maryamsirvan.bandcamp.com-album-songs-of-an-empty-room
+      quote: released May 24, 2019
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a4021987732_10.jpg
+    references:
+    - source: maryamsirvan.bandcamp.com-album-songs-of-an-empty-room
+      quote: https://f4.bcbits.com/img/a4021987732_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Bandcamp · Maryam Sirvan
+        language: en

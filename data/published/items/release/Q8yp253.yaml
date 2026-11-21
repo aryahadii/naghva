@@ -1,0 +1,58 @@
+id: Q8yp253
+type: release
+statements:
+  name:
+  - value:
+      text: Seas Coming for Me
+      language: en
+    references:
+    - source: numduo.bandcamp.com-album-seas-coming-for-me
+      quote: Seas Coming for Me
+      accessed: '2026-11-21'
+      locator: Recording title
+  performer:
+  - value: Qm4skc3
+    references:
+    - source: numduo.bandcamp.com-album-seas-coming-for-me
+      quote: Seas Coming for Me | NUM
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://numduo.bandcamp.com/album/seas-coming-for-me
+    references:
+    - source: numduo.bandcamp.com-album-seas-coming-for-me
+      quote: Seas Coming for Me | NUM
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/seas-coming-for-me/1861996748
+    references:
+    - source: music.apple.com-us-album-seas-coming-for-me-1861996748
+      quote: ‎Seas Coming for Me - Album by NUM - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  release type:
+  - value: album
+    references:
+    - source: numduo.bandcamp.com-album-seas-coming-for-me
+      quote: Seas Coming for Me | NUM
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2025-12-18'
+    references:
+    - source: numduo.bandcamp.com-album-seas-coming-for-me
+      quote: released December 18, 2025
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a0329851628_10.jpg
+    references:
+    - source: numduo.bandcamp.com-album-seas-coming-for-me
+      quote: https://f4.bcbits.com/img/a0329851628_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Bandcamp · NUM
+        language: en

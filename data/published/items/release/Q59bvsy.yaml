@@ -1,0 +1,64 @@
+id: Q59bvsy
+type: release
+statements:
+  name:
+  - value:
+      text: Untamed Terror
+      language: en
+    references:
+    - source: maryamsirvan.bandcamp.com-album-untamed-terror-2
+      quote: Untamed Terror
+      accessed: '2026-11-21'
+      locator: Recording title
+  performer:
+  - value: Q6zbcxw
+    references:
+    - source: maryamsirvan.bandcamp.com-album-untamed-terror-2
+      quote: Untamed Terror | Maryam Sirvan
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://maryamsirvan.bandcamp.com/album/untamed-terror-2
+    references:
+    - source: maryamsirvan.bandcamp.com-album-untamed-terror-2
+      quote: Untamed Terror | Maryam Sirvan
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://numduo.bandcamp.com/album/untamed-terror
+    references:
+    - source: numduo.bandcamp.com-album-untamed-terror
+      quote: Untamed Terror | Maryam Sirvan | NUM
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://tcfsr.bandcamp.com/album/untamed-terror
+    references:
+    - source: tcfsr.bandcamp.com-album-untamed-terror
+      quote: Untamed Terror | Maryam Sirvan | The Committee for Sonic Research
+      accessed: '2026-11-21'
+      locator: Page title
+  release type:
+  - value: album
+    references:
+    - source: maryamsirvan.bandcamp.com-album-untamed-terror-2
+      quote: Untamed Terror | Maryam Sirvan
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2018-05-13'
+    references:
+    - source: maryamsirvan.bandcamp.com-album-untamed-terror-2
+      quote: released May 13, 2018
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a4161774183_10.jpg
+    references:
+    - source: maryamsirvan.bandcamp.com-album-untamed-terror-2
+      quote: https://f4.bcbits.com/img/a4161774183_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Bandcamp · Maryam Sirvan
+        language: en

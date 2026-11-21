@@ -1,5 +1,6 @@
 ---
 url: https://www.radiozamaneh.com/853250/
+archive: https://web.archive.org/web/20251111124601/https://www.radiozamaneh.com/853250/
 title: 'بازآفرینی نوستالژی: آلبوم «رویا» و احیای موسیقی ایرانی در پاسخ به سانسور'
 status: processed
 language: fa

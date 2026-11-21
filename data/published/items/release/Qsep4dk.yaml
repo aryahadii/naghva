@@ -1,0 +1,51 @@
+id: Qsep4dk
+type: release
+statements:
+  name:
+  - value:
+      text: Esfahan
+      language: en
+    references:
+    - source: music.apple.com-us-album-esfahan-1485213439
+      quote: Esfahan
+      accessed: '2026-11-21'
+      locator: Track title
+  performer:
+  - value: Qzhgpkw
+    references:
+    - source: music.apple.com-us-album-esfahan-1485213439
+      quote: Babak Rajabi
+      accessed: '2026-11-21'
+      locator: Artist billing
+  release date:
+  - value:
+      date: '2019-10-19'
+    references:
+    - source: music.apple.com-us-album-esfahan-1485213439
+      quote: '2019-10-19'
+      accessed: '2026-11-21'
+      locator: Release metadata
+  listen link:
+  - value: https://music.apple.com/us/song/esfahan/1485213442
+    references:
+    - source: music.apple.com-us-album-esfahan-1485213439
+      quote: Esfahan
+      accessed: '2026-11-21'
+      locator: Track title
+  - value: https://open.spotify.com/track/5WVqVdYwH7UW8pdINmWuon
+    references:
+    - source: open.spotify.com-album-0uhxhuc6lmezjjgemd03el
+      quote: Esfahan
+      accessed: '2026-11-21'
+      locator: Spotify track listing
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/9b/58/1d/9b581ded-7eec-25c2-54a2-5ac2432d8c2d/5059366230601_cover.jpg/632x632bb-60.jpg
+    references:
+    - source: music.apple.com-us-album-esfahan-1485213439
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/9b/58/1d/9b581ded-7eec-25c2-54a2-5ac2432d8c2d/5059366230601_cover.jpg/632x632bb-60.jpg
+      accessed: '2026-11-21'
+      locator: Release image URL
+    qualifiers:
+      credit:
+        text: Apple Music · Esfahan - Single
+        language: en

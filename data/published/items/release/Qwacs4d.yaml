@@ -1,0 +1,122 @@
+id: Qwacs4d
+type: release
+statements:
+  name:
+  - value:
+      text: Project Masnavi
+      language: en
+    references:
+    - source: eishanensemble.bandcamp.com-album-project-masnavi
+      quote: Project Masnavi
+      accessed: '2026-11-21'
+      locator: Album heading
+  performer:
+  - value: Qhebfsp
+    references:
+    - source: eishanensemble.bandcamp.com-album-project-masnavi
+      quote: Project Masnavi | Eishan Ensemble
+      accessed: '2026-11-21'
+      locator: Album and performer
+  - value: Qr3yewp
+    references:
+    - source: eishanensemble.bandcamp.com-album-project-masnavi
+      quote: Maximillian Farrell Alduca, Double Bass
+      accessed: '2026-11-21'
+      locator: Album performance credits
+  - value: Qfb7hwv
+    references:
+    - source: eishanensemble.bandcamp.com-album-project-masnavi
+      quote: Alexander Inman-Hislop, Drums
+      accessed: '2026-11-21'
+      locator: Album performance credits
+  - value: Qsvnxj5
+    references:
+    - source: eishanensemble.bandcamp.com-album-project-masnavi
+      quote: Marcello Maio, Accordion
+      accessed: '2026-11-21'
+      locator: Album performance credits
+  - value: Qmgbz4h
+    references:
+    - source: eishanensemble.bandcamp.com-album-project-masnavi
+      quote: Hamed Sadeghi, Tar
+      accessed: '2026-11-21'
+      locator: Album performance credits
+  - value: Qs3h77n
+    references:
+    - source: eishanensemble.bandcamp.com-album-project-masnavi
+      quote: Michael Avgenicos, Saxophone
+      accessed: '2026-11-21'
+      locator: Album performance credits
+  release type:
+  - value: album
+    references:
+    - source: eishanensemble.bandcamp.com-album-project-masnavi
+      quote: Project Masnavi | Eishan Ensemble
+      accessed: '2026-11-21'
+      locator: Album and performer
+  release date:
+  - value:
+      date: '2021-05-07'
+    references:
+    - source: eishanensemble.bandcamp.com-album-project-masnavi
+      quote: released May 7, 2021
+      accessed: '2026-11-21'
+      locator: Release date
+  listen link:
+  - value: https://eishanensemble.bandcamp.com/album/project-masnavi
+    references:
+    - source: eishanensemble.bandcamp.com-album-project-masnavi
+      quote: Project Masnavi | Eishan Ensemble
+      accessed: '2026-11-21'
+      locator: Album and performer
+  - value: https://music.apple.com/us/album/project-masnavi/1566059993
+    references:
+    - source: music.apple.com-us-album-project-masnavi-1566059993
+      quote: ‎Project Masnavi - Album by Eishan Ensemble - Apple Music
+      accessed: '2026-11-21'
+      locator: Apple Music album
+  - value: https://open.spotify.com/album/7EVygwy3LI1qcOTlpwRD32
+    references:
+    - source: open.spotify.com-album-7evygwy3li1qcotlpwrd32
+      quote: Project Masnavi
+      accessed: '2026-11-21'
+      locator: Spotify player album
+  cover art:
+  - value: https://f4.bcbits.com/img/a1507087778_10.jpg
+    qualifiers:
+      credit:
+        text: Cover photo, Hossein Fatemi
+        language: en
+    references:
+    - source: eishanensemble.bandcamp.com-album-project-masnavi
+      quote: https://f4.bcbits.com/img/a1507087778_10.jpg
+      accessed: '2026-11-21'
+      locator: Album cover
+    - source: eishanensemble.bandcamp.com-album-project-masnavi
+      quote: Cover photo, Hossein Fatemi
+      accessed: '2026-11-21'
+      locator: Cover credit
+  contributor:
+  - value: Qmgbz4h
+    qualifiers:
+      role: composer
+    references:
+    - source: eishanensemble.bandcamp.com-album-project-masnavi
+      quote: Compositions. Hamed Sadeghi
+      accessed: '2026-11-21'
+      locator: Composer credit
+  - value: Qh9ybcq
+    qualifiers:
+      role: mixing engineer
+    references:
+    - source: eishanensemble.bandcamp.com-album-project-masnavi
+      quote: Mixed and mastering, Richard Lake
+      accessed: '2026-11-21'
+      locator: Album production credits
+  published by:
+  - value: Qrnztmk
+    references:
+    - source: eishanensemble.bandcamp.com-album-project-masnavi
+      quote: Released on Earshift Music 2021
+      accessed: '2026-11-21'
+      locator: Label credit

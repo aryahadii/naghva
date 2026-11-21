@@ -15,3 +15,9 @@ Reviewed by the bands research agent on 2026-11-21. The English build at `/en/te
 - Tehran Contemporary Sounds lists the duo on both releases. [First compilation](https://tcsberlin.bandcamp.com/album/tcs-various-artists) · [Subdive on the second compilation](https://tcsberlin.bandcamp.com/album/tcs-various-artists-2)
 - Zabte Sote lists “Macabre” on the fourth volume of Girih. [Label catalogue](https://zabtesote.bandcamp.com/album/girih-iranian-sound-artists-vol-iv)
 - Shaytoon includes “Lethal Corrosion” on its compilation. [Label catalogue](https://shaytoonrecords.bandcamp.com/album/sounds-from-the-iranian-ultraverse)
+
+## Independent review after repairs, 2026-11-21
+
+**9.2/10.** Sources and claims 1.9/2, prose 1.9/2, recordings and services 2.7/3, images 0.9/1, gaps and reader experience 1.8/2.
+
+The 52 recording panels now include the label compilation appearances, Blausch’s version of “Tauri,” the five uploads on the duo’s SoundCloud, and the audiovisual collaboration “Caustic Surfaces.” Checked the statements against 127 cited pages across the group and its related records. Both articles explain the collaboration with Amir. The Persian text now locates the duo’s meeting in Tehran and gives the corrected release date. Both browser views decoded all 99 image elements and resolved every in-page link. Three early SoundCloud uploads have no artwork on the host. Further radio appearances without a playable archive remain difficult to reconcile.

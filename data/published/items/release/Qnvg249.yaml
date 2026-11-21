@@ -1,0 +1,74 @@
+id: Qnvg249
+type: release
+statements:
+  name:
+  - value:
+      text: Ahoora
+      language: en
+    references:
+    - source: ahoora.bandcamp.com-album-ahoora
+      quote: Ahoora
+      accessed: 2026-11-21
+      locator: Release heading
+  release date:
+  - value:
+      date: '2006-02-13'
+    references:
+    - source: ahoora.bandcamp.com-album-ahoora
+      quote: released February 13, 2006
+      accessed: 2026-11-21
+      locator: Release date
+  performer:
+  - value: Qkb4887
+    references:
+    - source: ahoora.bandcamp.com-album-ahoora
+      quote: Ahoora
+      accessed: 2026-11-21
+      locator: Release artist
+  - value: Qysypxr
+    references:
+    - source: ahoora.bandcamp.com-album-ahoora
+      quote: Ashkan Hadavand – Lead Vocals
+      accessed: 2026-11-21
+      locator: Musician credits
+  - value: Qtbnyx4
+    references:
+    - source: ahoora.bandcamp.com-album-ahoora
+      quote: Milad Tangshir – Guitars, Backing Vocals
+      accessed: 2026-11-21
+      locator: Musician credits
+  - value: Qhg8mwn
+    references:
+    - source: ahoora.bandcamp.com-album-ahoora
+      quote: Mamy Baei – Bass
+      accessed: 2026-11-21
+      locator: Musician credits
+  listen link:
+  - value: https://ahoora.bandcamp.com/album/ahoora
+    references:
+    - source: ahoora.bandcamp.com-album-ahoora
+      quote: Ahoora
+      accessed: 2026-11-21
+      locator: Release heading
+  cover art:
+  - value: https://f4.bcbits.com/img/a3952380516_2.jpg
+    references:
+    - source: ahoora.bandcamp.com-album-ahoora
+      quote: Ahoora
+      accessed: 2026-11-21
+      locator: Release heading
+    - source: ahoora.bandcamp.com-album-ahoora
+      quote: Album Cover - Zdzisław Beksiński
+      accessed: 2026-11-21
+      locator: Artwork credits
+    qualifiers:
+      credit:
+        text: Zdzisław Beksiński
+        language: en
+  release type:
+  - value: album
+    references:
+    - source: ahoora.bandcamp.com-album-ahoora
+      quote: Digital Album
+      accessed: 2026-11-21
+      locator: Format

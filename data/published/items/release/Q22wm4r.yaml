@@ -1,0 +1,26 @@
+id: Q22wm4r
+type: release
+statements:
+  name:
+  - value:
+      text: NUM - Here in the Lighthouse
+      language: en
+    references:
+    - source: www.youtube.com-watch-v-a_b2iy5gv_a
+      quote: NUM - Here in the Lighthouse
+      accessed: '2026-11-21'
+      locator: Recording title
+  performer:
+  - value: Qm4skc3
+    references:
+    - source: www.youtube.com-watch-v-a_b2iy5gv_a
+      quote: NUM - Here in the Lighthouse - YouTube
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://www.youtube.com/watch?v=a_B2IY5Gv_A
+    references:
+    - source: www.youtube.com-watch-v-a_b2iy5gv_a
+      quote: NUM - Here in the Lighthouse - YouTube
+      accessed: '2026-11-21'
+      locator: Page title

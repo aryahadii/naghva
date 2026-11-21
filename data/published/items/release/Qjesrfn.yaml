@@ -1,0 +1,45 @@
+id: Qjesrfn
+type: release
+statements:
+  name:
+  - value:
+      text: Iransara
+      language: en
+    references:
+    - source: music.apple.com-us-album-iransara-1685800247
+      quote: Iransara
+      accessed: '2026-11-21'
+      locator: Track title
+  performer:
+  - value: Qzhgpkw
+    references:
+    - source: music.apple.com-us-album-iransara-1685800247
+      quote: Babak Rajabi
+      accessed: '2026-11-21'
+      locator: Artist billing
+  release date:
+  - value:
+      date: '2023-05-02'
+    references:
+    - source: music.apple.com-us-album-iransara-1685800247
+      quote: '2023-05-02'
+      accessed: '2026-11-21'
+      locator: Release metadata
+  listen link:
+  - value: https://music.apple.com/us/song/iransara/1685800248
+    references:
+    - source: music.apple.com-us-album-iransara-1685800247
+      quote: Iransara
+      accessed: '2026-11-21'
+      locator: Track title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/96/08/40/960840d8-3a2b-12ff-671a-7c5c04efb7f2/artwork.jpg/632x632bb-60.jpg
+    references:
+    - source: music.apple.com-us-album-iransara-1685800247
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/96/08/40/960840d8-3a2b-12ff-671a-7c5c04efb7f2/artwork.jpg/632x632bb-60.jpg
+      accessed: '2026-11-21'
+      locator: Release image URL
+    qualifiers:
+      credit:
+        text: Apple Music · Iransara - Single
+        language: en

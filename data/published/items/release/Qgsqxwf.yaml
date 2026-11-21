@@ -1,0 +1,49 @@
+id: Qgsqxwf
+type: release
+statements:
+  name:
+  - value:
+      text: میشل فوکو گفت، چی گفت؟
+      language: fa
+    references:
+    - source: www.youtube.com-watchv-r6rrvx-tgxs
+      quote: میشل فوکو گفت، چی گفت؟
+      accessed: '2026-11-21'
+      locator: Official upload title
+  performer:
+  - value: Qzhgpkw
+    references:
+    - source: www.youtube.com-watchv-r6rrvx-tgxs
+      quote: میشل فوکو گفت، چی گفت؟
+      accessed: '2026-11-21'
+      locator: Official upload title
+    - source: www.youtube.com-watchv-r6rrvx-tgxs
+      quote: Babak Rajabi
+      accessed: '2026-11-21'
+      locator: Uploading artist
+  listen link:
+  - value: https://www.youtube.com/watch?v=R6rRvx-TgXs
+    references:
+    - source: www.youtube.com-watchv-r6rrvx-tgxs
+      quote: میشل فوکو گفت، چی گفت؟
+      accessed: '2026-11-21'
+      locator: Official upload title
+  release date:
+  - value:
+      date: '2023-07-15'
+    references:
+    - source: www.youtube.com-watchv-r6rrvx-tgxs
+      quote: '20230715'
+      accessed: '2026-11-21'
+      locator: Video publication date, YYYYMMDD
+  cover art:
+  - value: https://i.ytimg.com/vi/R6rRvx-TgXs/maxresdefault.jpg
+    references:
+    - source: www.youtube.com-watchv-r6rrvx-tgxs
+      quote: https://i.ytimg.com/vi/R6rRvx-TgXs/maxresdefault.jpg
+      accessed: '2026-11-21'
+      locator: Release image URL
+    qualifiers:
+      credit:
+        text: Babak Rajabi · YouTube
+        language: en

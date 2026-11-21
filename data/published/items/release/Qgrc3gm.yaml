@@ -1,0 +1,41 @@
+id: Qgrc3gm
+type: release
+statements:
+  name:
+  - value:
+      text: Out of the Past
+      language: en
+    references:
+    - source: ahoora.bandcamp.com-album-awkward-diary
+      quote: Out of the Past
+      accessed: 2026-11-21
+      locator: Track 11
+  release date:
+  - value:
+      date: '2010-03-02'
+    references:
+    - source: ahoora.bandcamp.com-album-awkward-diary
+      quote: released March 2, 2010
+      accessed: 2026-11-21
+      locator: Release date
+  performer:
+  - value: Qkb4887
+    references:
+    - source: ahoora.bandcamp.com-album-awkward-diary
+      quote: Ahoora
+      accessed: 2026-11-21
+      locator: Release artist
+  listen link:
+  - value: https://ahoora.bandcamp.com/track/out-of-the-past
+    references:
+    - source: ahoora.bandcamp.com-album-awkward-diary
+      quote: Out of the Past
+      accessed: 2026-11-21
+      locator: Track 11
+  cover art:
+  - value: https://f4.bcbits.com/img/a2794496661_2.jpg
+    references:
+    - source: ahoora.bandcamp.com-album-awkward-diary
+      quote: Awkward Diary
+      accessed: 2026-11-21
+      locator: Release heading

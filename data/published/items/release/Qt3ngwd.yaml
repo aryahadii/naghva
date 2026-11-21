@@ -1,0 +1,49 @@
+id: Qt3ngwd
+type: release
+statements:
+  name:
+  - value:
+      text: Beyond The Reasonable Doubt of a Lunatic
+      language: en
+    references:
+    - source: ahoora.bandcamp.com-album-ahoora
+      quote: Beyond The Reasonable Doubt of a Lunatic
+      accessed: 2026-11-21
+      locator: Track 2
+  release date:
+  - value:
+      date: '2006-02-13'
+    references:
+    - source: ahoora.bandcamp.com-album-ahoora
+      quote: released February 13, 2006
+      accessed: 2026-11-21
+      locator: Release date
+  performer:
+  - value: Qkb4887
+    references:
+    - source: ahoora.bandcamp.com-album-ahoora
+      quote: Ahoora
+      accessed: 2026-11-21
+      locator: Release artist
+  listen link:
+  - value: https://ahoora.bandcamp.com/track/beyond-the-reasonable-doubt-of-a-lunatic
+    references:
+    - source: ahoora.bandcamp.com-album-ahoora
+      quote: Beyond The Reasonable Doubt of a Lunatic
+      accessed: 2026-11-21
+      locator: Track 2
+  cover art:
+  - value: https://f4.bcbits.com/img/a3952380516_2.jpg
+    references:
+    - source: ahoora.bandcamp.com-album-ahoora
+      quote: Ahoora
+      accessed: 2026-11-21
+      locator: Release heading
+    - source: ahoora.bandcamp.com-album-ahoora
+      quote: Album Cover - Zdzisław Beksiński
+      accessed: 2026-11-21
+      locator: Artwork credits
+    qualifiers:
+      credit:
+        text: Zdzisław Beksiński
+        language: en

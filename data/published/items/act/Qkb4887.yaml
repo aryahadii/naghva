@@ -1,0 +1,54 @@
+id: Qkb4887
+type: act
+statements:
+  name:
+  - value:
+      text: Ahoora
+      language: en
+    references:
+    - source: ahoora.bandcamp.com-music
+      quote: Official page for the Iranian Metal/Post-Rock band, Ahoora.
+      accessed: 2026-11-21
+      locator: Artist biography
+  - value:
+      text: اهورا
+      language: fa
+    references:
+    - source: www.radiofarda.com-amp-276008.html
+      quote: گروه اهورا
+      accessed: 2026-11-21
+      locator: Programme summary
+  formation date:
+  - value:
+      date: '2001'
+    references:
+    - source: skylight.gr-index.php-2009-08-05-ahoorathrash-metal-from-iran
+      quote: we were formed late 2001 in Tehran, Iran.
+      accessed: 2026-11-21
+      locator: Interview with Milad
+  life event:
+  - value:
+      text: we were formed late 2001 in Tehran, Iran.
+      language: en
+    qualifiers:
+      point in time:
+        date: '2001'
+    references:
+    - source: skylight.gr-index.php-2009-08-05-ahoorathrash-metal-from-iran
+      quote: we were formed late 2001 in Tehran, Iran.
+      accessed: 2026-11-21
+      locator: Interview with Milad
+  profile link:
+  - value: https://ahoora.bandcamp.com/music
+    references:
+    - source: ahoora.bandcamp.com-music
+      quote: Official page for the Iranian Metal/Post-Rock band, Ahoora.
+      accessed: 2026-11-21
+      locator: Artist biography
+  image:
+  - value: https://f4.bcbits.com/img/0040422977_10.jpg
+    references:
+    - source: ahoora.bandcamp.com-music
+      quote: Ahoora image
+      accessed: 2026-11-21
+      locator: Band photograph alt text

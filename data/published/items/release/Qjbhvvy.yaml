@@ -1,0 +1,49 @@
+id: Qjbhvvy
+type: release
+statements:
+  name:
+  - value:
+      text: هنو هه
+      language: fa
+    references:
+    - source: www.youtube.com-watchv-gted8sxbnme
+      quote: هنو هه
+      accessed: '2026-11-21'
+      locator: Official upload title
+  performer:
+  - value: Qzhgpkw
+    references:
+    - source: www.youtube.com-watchv-gted8sxbnme
+      quote: هنو هه
+      accessed: '2026-11-21'
+      locator: Official upload title
+    - source: www.youtube.com-watchv-gted8sxbnme
+      quote: Babak Rajabi
+      accessed: '2026-11-21'
+      locator: Uploading artist
+  listen link:
+  - value: https://www.youtube.com/watch?v=GTED8sXBnME
+    references:
+    - source: www.youtube.com-watchv-gted8sxbnme
+      quote: هنو هه
+      accessed: '2026-11-21'
+      locator: Official upload title
+  release date:
+  - value:
+      date: '2026-04-25'
+    references:
+    - source: www.youtube.com-watchv-gted8sxbnme
+      quote: '20260425'
+      accessed: '2026-11-21'
+      locator: Video publication date, YYYYMMDD
+  cover art:
+  - value: https://i.ytimg.com/vi/GTED8sXBnME/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watchv-gted8sxbnme
+      quote: https://i.ytimg.com/vi/GTED8sXBnME/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Release image URL
+    qualifiers:
+      credit:
+        text: Babak Rajabi · YouTube
+        language: en

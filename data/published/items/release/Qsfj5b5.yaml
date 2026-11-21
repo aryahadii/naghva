@@ -1,0 +1,99 @@
+id: Qsfj5b5
+type: release
+statements:
+  name:
+  - value:
+      text: Tanz o Tarab
+      language: en
+    references:
+    - source: music.apple.com-us-album-5-chin-o-choruk-1553677822
+      quote: Tanz o Tarab
+      accessed: '2026-11-21'
+      locator: Album heading
+  - value:
+      text: Humour et Joie - Tanz o TArab
+      language: en
+    references:
+    - source: babakrajabi.bandcamp.com-album-humour-et-joie-tanz-o-tarab
+      quote: Humour et Joie - Tanz o TArab
+      accessed: '2026-11-21'
+      locator: Artist release or track heading
+  - value:
+      text: طنز و طرب
+      language: fa
+    references:
+    - source: kayhan.london-1401-03-13-287005
+      quote: آلبوم «لباس‌خوانی» و «طنز و طرب»
+      accessed: '2026-11-21'
+      locator: Interview with Babak Rajabi
+  performer:
+  - value: Qzhgpkw
+    references:
+    - source: music.apple.com-us-album-5-chin-o-choruk-1553677822
+      quote: Babak Rajabi
+      accessed: '2026-11-21'
+      locator: Artist billing
+    - source: babakrajabi.bandcamp.com-album-humour-et-joie-tanz-o-tarab
+      quote: Babak RAJABI
+      accessed: '2026-11-21'
+      locator: Artist billing
+  release date:
+  - value:
+      date: '2021-02-14'
+    references:
+    - source: music.apple.com-us-album-5-chin-o-choruk-1553677822
+      quote: '2021-02-14'
+      accessed: '2026-11-21'
+      locator: Release metadata
+  - value:
+      date: '2021-02-19'
+    references:
+    - source: babakrajabi.bandcamp.com-album-humour-et-joie-tanz-o-tarab
+      quote: 19 Feb 2021 00:00:00 GMT
+      accessed: '2026-11-21'
+      locator: Bandcamp release metadata
+  listen link:
+  - value: https://music.apple.com/us/album/5-chin-o-choruk/1553677822
+    references:
+    - source: music.apple.com-us-album-5-chin-o-choruk-1553677822
+      quote: Tanz o Tarab
+      accessed: '2026-11-21'
+      locator: Album heading
+  - value: https://babakrajabi.bandcamp.com/album/humour-et-joie-tanz-o-tarab
+    references:
+    - source: babakrajabi.bandcamp.com-album-humour-et-joie-tanz-o-tarab
+      quote: Humour et Joie - Tanz o TArab
+      accessed: '2026-11-21'
+      locator: Artist release or track heading
+  release type:
+  - value: ep
+    references:
+    - source: music.apple.com-us-album-5-chin-o-choruk-1553677822
+      quote: EP
+      accessed: '2026-11-21'
+      locator: Release type
+    - source: babakrajabi.bandcamp.com-album-humour-et-joie-tanz-o-tarab
+      quote: '6'
+      accessed: '2026-11-21'
+      locator: Six-track release
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3a/81/2c/3a812c10-e381-cf87-7225-e28e93bc346c/artwork.jpg/632x632bb-60.jpg
+    references:
+    - source: music.apple.com-us-album-5-chin-o-choruk-1553677822
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3a/81/2c/3a812c10-e381-cf87-7225-e28e93bc346c/artwork.jpg/632x632bb-60.jpg
+      accessed: '2026-11-21'
+      locator: Release image URL
+    qualifiers:
+      credit:
+        text: Apple Music · Tanz o Tarab
+        language: en
+  - value: https://f4.bcbits.com/img/a2648068721_10.jpg
+    references:
+    - source: babakrajabi.bandcamp.com-album-humour-et-joie-tanz-o-tarab
+      quote: https://f4.bcbits.com/img/a2648068721_10.jpg
+      accessed: '2026-11-21'
+      locator: Release image URL
+    qualifiers:
+      credit:
+        text: Babak Rajabi · Bandcamp
+        language: en

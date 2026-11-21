@@ -1,0 +1,51 @@
+id: Qeapy2w
+type: release
+statements:
+  name:
+  - value:
+      text: Old Machine
+      language: en
+    references:
+    - source: numduo.bandcamp.com-track-old-machine
+      quote: Old Machine
+      accessed: '2026-11-21'
+      locator: Recording title
+  performer:
+  - value: Qm4skc3
+    references:
+    - source: numduo.bandcamp.com-track-old-machine
+      quote: Old Machine | NUM
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://numduo.bandcamp.com/track/old-machine
+    references:
+    - source: numduo.bandcamp.com-track-old-machine
+      quote: Old Machine | NUM
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/old-machine/1861996757
+    references:
+    - source: music.apple.com-us-song-old-machine-1861996757
+      quote: ‎Old Machine - Song with Lyrics by NUM - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2025-12-18'
+    references:
+    - source: numduo.bandcamp.com-album-seas-coming-for-me
+      quote: released December 18, 2025
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a0329851628_10.jpg
+    references:
+    - source: numduo.bandcamp.com-album-seas-coming-for-me
+      quote: https://f4.bcbits.com/img/a0329851628_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Bandcamp · NUM
+        language: en

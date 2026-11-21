@@ -1,5 +1,6 @@
 ---
 url: https://www.mitrasumara.com/bio/
+archive: https://web.archive.org/web/20241005224707/https://www.mitrasumara.com/bio
 title: Bio — MITRA SUMARA
 status: processed
 language: en

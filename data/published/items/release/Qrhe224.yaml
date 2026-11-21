@@ -1,0 +1,49 @@
+id: Qrhe224
+type: release
+statements:
+  name:
+  - value:
+      text: La berceuse bilingue لالایی پدرانه
+      language: fa
+    references:
+    - source: www.youtube.com-watchv-zy9xkd3sdxo
+      quote: La berceuse bilingue لالایی پدرانه
+      accessed: '2026-11-21'
+      locator: Official upload title
+  performer:
+  - value: Qzhgpkw
+    references:
+    - source: www.youtube.com-watchv-zy9xkd3sdxo
+      quote: La berceuse bilingue لالایی پدرانه
+      accessed: '2026-11-21'
+      locator: Official upload title
+    - source: www.youtube.com-watchv-zy9xkd3sdxo
+      quote: Babak Rajabi
+      accessed: '2026-11-21'
+      locator: Uploading artist
+  listen link:
+  - value: https://www.youtube.com/watch?v=zy9XkD3sDxo
+    references:
+    - source: www.youtube.com-watchv-zy9xkd3sdxo
+      quote: La berceuse bilingue لالایی پدرانه
+      accessed: '2026-11-21'
+      locator: Official upload title
+  release date:
+  - value:
+      date: '2023-12-01'
+    references:
+    - source: www.youtube.com-watchv-zy9xkd3sdxo
+      quote: '20231201'
+      accessed: '2026-11-21'
+      locator: Video publication date, YYYYMMDD
+  cover art:
+  - value: https://i.ytimg.com/vi/zy9XkD3sDxo/maxresdefault.jpg
+    references:
+    - source: www.youtube.com-watchv-zy9xkd3sdxo
+      quote: https://i.ytimg.com/vi/zy9XkD3sDxo/maxresdefault.jpg
+      accessed: '2026-11-21'
+      locator: Release image URL
+    qualifiers:
+      credit:
+        text: Babak Rajabi · YouTube
+        language: en

@@ -1,0 +1,49 @@
+id: Qax3s55
+type: release
+statements:
+  name:
+  - value:
+      text: Mauvaise réputation version iranienne
+      language: fr
+    references:
+    - source: www.youtube.com-watchv-sklqxuynpdm
+      quote: Mauvaise réputation version iranienne
+      accessed: '2026-11-21'
+      locator: Official upload title
+  performer:
+  - value: Qzhgpkw
+    references:
+    - source: www.youtube.com-watchv-sklqxuynpdm
+      quote: Mauvaise réputation version iranienne
+      accessed: '2026-11-21'
+      locator: Official upload title
+    - source: www.youtube.com-watchv-sklqxuynpdm
+      quote: Babak Rajabi
+      accessed: '2026-11-21'
+      locator: Uploading artist
+  listen link:
+  - value: https://www.youtube.com/watch?v=sklqxUYNpDM
+    references:
+    - source: www.youtube.com-watchv-sklqxuynpdm
+      quote: Mauvaise réputation version iranienne
+      accessed: '2026-11-21'
+      locator: Official upload title
+  release date:
+  - value:
+      date: '2022-08-23'
+    references:
+    - source: www.youtube.com-watchv-sklqxuynpdm
+      quote: '20220823'
+      accessed: '2026-11-21'
+      locator: Video publication date, YYYYMMDD
+  cover art:
+  - value: https://i.ytimg.com/vi_webp/sklqxUYNpDM/maxresdefault.webp
+    references:
+    - source: www.youtube.com-watchv-sklqxuynpdm
+      quote: https://i.ytimg.com/vi_webp/sklqxUYNpDM/maxresdefault.webp
+      accessed: '2026-11-21'
+      locator: Release image URL
+    qualifiers:
+      credit:
+        text: Babak Rajabi · YouTube
+        language: en
