@@ -15,3 +15,15 @@ kind: web page
 > Free Keys started in 2007 with Pooya on vocals, Arash on drums, and Arya playing bass. After Arya left, Amon joined on guitar and vocals, and Ali joined as the new bassist.
 
 > They are now working on their next album, "Dream Mechanics," which is set for release later this year.
+
+The band’s proposed 2008 UK tour, read 2026-11-21.
+
+> two band members were prevented from going because they had not done the two years of military service required in Iran.
+
+The 2008 tour.
+
+> The only band member who made it to Britain was the bassist, Arya, who eventually left the band.
+
+Publication date.
+
+> November 03, 2010

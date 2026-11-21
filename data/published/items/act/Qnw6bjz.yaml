@@ -3,6 +3,13 @@ type: act
 statements:
   name:
   - value:
+      text: فری کیز
+      language: fa
+    references:
+    - source: asrkhabar.com-fa-news-29242
+      quote: گروه موسیقی راک به نام «فری کیز»
+      accessed: '2026-11-21'
+  - value:
       text: Free Keys
       language: en
     references:

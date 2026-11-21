@@ -26,12 +26,32 @@ references:
     quote: |-
       Released  May 17, 2012
     accessed: '2026-10-20'
+  tour:
+    source: www.rferl.org-a-episode_3_talking_to_free_keys_and_kiosk-2209798.html-89c19aec0403
+    quote: |-
+      two band members were prevented from going because they had not done the two years of military service required in Iran.
+    accessed: '2026-11-21'
+  britain:
+    source: www.rferl.org-a-episode_3_talking_to_free_keys_and_kiosk-2209798.html-89c19aec0403
+    quote: |-
+      The only band member who made it to Britain was the bassist, Arya, who eventually left the band.
+    accessed: '2026-11-21'
+  report:
+    source: www.rferl.org-a-episode_3_talking_to_free_keys_and_kiosk-2209798.html-89c19aec0403
+    quote: |-
+      November 03, 2010
+    accessed: '2026-11-21'
+  session:
+    source: freemusicarchive.org-music-free_keys-live_at_wfmu_on_underwater_theme_park_may_17th_2012_1277-d1017d8ec5ff
+    quote: |-
+      Live at WFMU on Underwater Theme Park May 17th 2012
+    accessed: '2026-11-21'
 ---
 
-Free Keys is a rock band that emerged from Tehran's underground music scene and appeared in No One Knows About Persian Cats.[^tehran] A contemporary Radio Farda interview dates its beginning to 2007, with Pooya on vocals, Arash on drums and Arya on bass. After Arya left, the account names Amon on guitar and vocals and Ali on bass.[^lineup]
+Free Keys was a rock band formed in Tehran in 2007 by singer Pooya, drummer Arash and bassist Arya. The group appeared in Bahman Ghobadi’s 2009 film *No One Knows About Persian Cats*, about musicians in Tehran, and later moved to Brooklyn.[^lineup][^tehran][^live]
 
-## Recordings and the move to Brooklyn
+## An interrupted tour
 
-The interview discussed Dream Mechanics as a forthcoming album. That announcement is retained as a plan rather than proof of release.[^plans] A later WFMU introduction describes the band's move from Tehran to Brooklyn.[^live]
+In 2008 the three musicians hoped to tour Britain, but two of them could not leave Iran because they had yet to complete their military service. Arya alone reached Britain and eventually left the band. In Tehran, Amon joined on guitar and vocals and Ali took over on bass.[^tour][^britain][^lineup] By 2010 they were working on an album they intended to call *Dream Mechanics*.[^plans][^report]
 
-Free Music Archive preserves a WFMU session under the title [Live at WFMU on Underwater Theme Park May 17th 2012](#live-at-wfmu-on-underwater-theme-park-may-17th-2012-k2w), with a release date of May 17, 2012.[^date]
+The musicians went to Brooklyn so they could play without fear of arrest. In May 2012 they played on the radio show *Underwater Theme Park*. A [recording of their WFMU session](#live-at-wfmu-on-underwater-theme-park-may-17th-2012-k2w) came out that month.[^live][^session][^date]
