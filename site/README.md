@@ -232,12 +232,14 @@ Run `npm ci` on setup or when the package lock changes.
 - `npm run dev` derives the record and starts Astro; editing `data/` derives
   it again.
 - `npm run dev:examples` does the same from `data/examples`, with a banner
-  saying the data is fictional.
+  saying the data is fictional. Example commands use `generated/examples.json`
+  so a published-record build or dev server can still read `generated/record.json`.
 - `npm run build` writes the site to `site/dist/`; `npm run preview` serves
   it.
 - `npm run build:examples` writes the fictional site to `site/dist-examples/`.
 - `npm run test:browser` tests the built production site in Chromium. Install
-  the browser once with `npx playwright install chromium`.
+  the browser once with `npx playwright install chromium`. Set `NAGHVA_TEST_PORT`
+  to an available port when another checkout is using the default of 4322.
 
 Every pull request runs the derive tests, `astro check`, the build, and a
 check of the output: every page has its title, description, canonical address

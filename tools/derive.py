@@ -439,11 +439,15 @@ def timeline(items):
             if values:
                 add("event", item_id, performers, values[0], values[1:])
         for s in best(st.get("member of", [])):
+            if s["value"] not in items:
+                continue
             qualifiers = s.get("qualifiers", {})
             for key, kind in (("start time", "joined"), ("end time", "left")):
                 for value in qualifiers.get(key, [])[:1]:
                     add(kind, item_id, [s["value"]], value)
         for s in best(st.get("life event", [])):
+            if s["value"] in ds.SPECIAL_VALUES:
+                continue
             qualifiers = s.get("qualifiers", {})
             people = [v for v in qualifiers.get("with", []) if v in items]
             for value in qualifiers.get("point in time", [])[:1]:

@@ -1,5 +1,6 @@
 import { spawn } from 'node:child_process';
 import { writeFile } from 'node:fs/promises';
+import { resolve as resolvePath } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import type { AstroIntegration } from 'astro';
 import { loadRecord } from '../src/lib/record';
@@ -16,10 +17,11 @@ export default function record(): AstroIntegration {
       'astro:server:setup': ({ server, logger }) => {
         const root = process.env.NAGHVA_DATA ?? '../data';
         const data = fileURLToPath(new URL(root.endsWith('/') ? root : root + '/', new URL('../', import.meta.url)));
+        const out = resolvePath(process.env.NAGHVA_RECORD ?? 'generated/record.json');
         server.watcher.add(data);
         const regeneration = regenerator(
           () => new Promise<boolean>((resolve) => {
-            const run = spawn('python3', ['tools/derive.py', '--root', data], { cwd: repo, stdio: 'inherit' });
+            const run = spawn('python3', ['tools/derive.py', '--root', data, '--out', out], { cwd: repo, stdio: 'inherit' });
             run.once('error', () => resolve(false));
             run.once('close', (code) => resolve(code === 0));
           }),

@@ -186,7 +186,7 @@ def _check_role_kinds(where, data, registry, report):
     for prop, wanted in ROLE_KIND_OF.items():
         for n, st in enumerate(data["statements"].get(prop, []), 1):
             for role in ds.as_list((st.get("qualifiers") or {}).get("role", [])):
-                if kinds.get(role, wanted) != wanted:
+                if isinstance(role, str) and kinds.get(role, wanted) != wanted:
                     report.error("%s: %s[%d]" % (where, prop, n),
                                  "`%s` is a %s role; it belongs under %s" % (
                                      role, kinds[role], "contributor" if prop == "performer" else "performer"))
@@ -404,6 +404,9 @@ def validate(root, report):
     article_schema = ds.schema_validator(schemas, "article.schema.json")
 
     store = ds.load_store(root)
+    if not any((store.root / folder).is_dir() for folder in
+               ("capture/sources", "published/items", "published/articles")):
+        report.error(store.root, "no capture/sources, published/items or published/articles directory")
     for problem in store.problems:
         report.errors.append(problem)
 
