@@ -13,3 +13,7 @@ Publisher’s credited role, read 2026-11-21.
 > موسیقی جزیره‌ی کیش
 
 CD or multimedia issue, read 2026-11-21.
+
+> آوازهای صید مروارید، مراسم زار، موسیقی عروسی، موسیقی زنان
+
+Publisher’s credits and description, read 2026-11-21.

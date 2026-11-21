@@ -60,6 +60,21 @@ references:
     quote: Barton and Aunty Delmae only topped and tailed
     accessed: 2026-11-21
     locator: Concert sequence
+  dvd:
+    source: morwaridlian.blogfa.com-post-352
+    quote: به سرپرستي محسن شريفيان و خوانندگي آكا صفوي
+    accessed: 2026-11-21
+    locator: Concert DVD with named performers
+  concert:
+    source: morwaridlian.blogfa.com-post-352
+    quote: كنسرت سال 90 گروه «ليان»
+    accessed: 2026-11-21
+    locator: Concert year
+  honar:
+    source: newsmedia.tasnimnews.ir-fa-news-1394-05-06-812127
+    quote: توسط شرکت «هنر اول» روانه بازار موسیقی کشور شده است
+    accessed: 2026-11-21
+    locator: Report on the issued concert film
 ---
 
 Lian began in Bushehr in 1993. Its founder, ney-anban player Mohsen Sharifian, kept a public archive under the longer name *Morvarid-e Lian*. The archive lists releases that circulated on cassette in Iran, including *Liana* and *Shap*, and identifies Soroush as the original publisher of *Mouj*.[^founded][^instruments][^group][^cassette][^second][^wave]
@@ -67,3 +82,5 @@ Lian began in Bushehr in 1993. Its founder, ney-anban player Mohsen Sharifian, k
 At the Rainforest World Music Festival in Kuching in 2013, the sound came from several kinds of drum. Hossein Sangsar and Mahmoud Bardaknia played dammam, with Bardaknia doubling on dayere. Morteza Palizdan played zarb and timpo. Roohollah Safavi sang, Hadi Manoochehri danced, and Sharifian switched between the bagged ney-anban and the paired reeds of the ney-jofti.[^lineup][^reed][^voice]
 
 The group recorded *Luka* with Sharifian. A later collaboration brought a different wind instrument into its concert programme. On the Australian tour *From Harbour to Harbour 2*, William Barton played didgeridoo and his mother, Aunty Delmae Barton, sang. They joined Lian at the opening and close of the Sydney performance.[^luka][^sydney][^sessions]
+
+Two of Lian’s concerts circulated on disc. The group advertised a DVD of its 1390 concert with Aka Safavi on vocals. A later concert film reached Iranian shops through Honar Aval in 1394.[^dvd][^concert][^honar]

@@ -231,3 +231,5 @@ Mahoor identifies the field research, recording and compilation work separately 
 - کلنجار (Qayvvcr)
 - یزله (Qhxhf2d)
 - یک چند به کودکی (Qjz2qt9)
+
+The group’s own DVD announcement identifies the 1390 concert and credits Aka Safavi on vocals (Qjjg89g). A later concert film reached shops through Honar Aval in 1394 (Q9f956m). Full disc programme and copy-specific track divisions remain open. [Early release](https://morwaridlian.blogfa.com/post/352) · [Later release](https://newsmedia.tasnimnews.ir/fa/news/1394/05/06/812127/)

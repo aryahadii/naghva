@@ -1,0 +1,51 @@
+id: Qhwprex
+type: release
+statements:
+  name:
+  - value:
+      text: Berliner Traum
+      language: en
+    references:
+    - source: xeen.bandcamp.com-track-berliner-traum
+      quote: Berliner Traum | XEEN
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qb5hnjh
+    references:
+    - source: xeen.bandcamp.com-track-berliner-traum
+      quote: Berliner Traum | XEEN
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://xeen.bandcamp.com/track/berliner-traum
+    references:
+    - source: xeen.bandcamp.com-track-berliner-traum
+      quote: Berliner Traum | XEEN
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/xe_en/berliner-traum
+    references:
+    - source: soundcloud.com-xe_en-berliner-traum
+      quote: Stream Berliner Traum by XEEN | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a0095414880_10.jpg
+    references:
+    - source: xeen.bandcamp.com-track-berliner-traum
+      quote: https://f4.bcbits.com/img/a0095414880_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Publisher artwork
+        language: en
+  release date:
+  - value:
+      date: '2020-11-11'
+    references:
+    - source: xeen.bandcamp.com-track-berliner-traum
+      quote: released November 11, 2020
+      accessed: '2026-11-21'
+      locator: Published date

@@ -3,6 +3,14 @@ type: person
 statements:
   name:
   - value:
+      text: XEEN
+      language: en
+    references:
+    - source: www.zhinardalan.com
+      quote: XEEN
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value:
       text: Zhina Ardalan
       language: en
     references:
@@ -15,5 +23,60 @@ statements:
     references:
     - source: www.sledisland.com-2023-herr-spectre
       quote: Ardalan’s distorted guitars and gloomy vocals subtly complement the electronics that Ohadi produces
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Qnw83g7
+    references:
+    - source: www.zhinardalan.com-the-finches
+      quote: Zhina Ardalan aka Xeen
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Q6g9xwf
+    references:
+    - source: www.zhinardalan.com-stereotype
+      quote: Iranian musicians Meshcut and Xeen
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  image:
+  - value: https://i.scdn.co/image/ab6761610000e5eb953d0a4e53b714728bcbc2da
+    references:
+    - source: open.spotify.com-artist-1cvauvs0pzoubfrsk6igh7
+      quote: https://i.scdn.co/image/ab6761610000e5eb953d0a4e53b714728bcbc2da
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: XEEN, via Spotify
+        language: en
+  profile link:
+  - value: https://open.spotify.com/artist/1CvAuvS0PzoUBfRsk6iGh7
+    references:
+    - source: open.spotify.com-artist-1cvauvs0pzoubfrsk6igh7
+      quote: Listen to Xeen Songs | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/artist/xeen/1492251601
+    references:
+    - source: music.apple.com-us-artist-xeen-1492251601
+      quote: ‎Xeen - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/xe_en
+    references:
+    - source: soundcloud.com-xe_en
+      quote: Stream XEEN music | Listen to songs, albums, playlists for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://xeen.bandcamp.com/music
+    references:
+    - source: xeen.bandcamp.com-music
+      quote: Music | XEEN
+      accessed: '2026-11-21'
+      locator: Page title
+  birthplace:
+  - value: Qhm6fzw
+    references:
+    - source: 1beat.org-people-xeen
+      quote: Tehran-born
       accessed: '2026-11-21'
       locator: Artist interview, biography or performance credits

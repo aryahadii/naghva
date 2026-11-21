@@ -9,3 +9,7 @@ status: processed
 > پژوهش و گردآوری: محسن شریفیان
 
 Publisher’s credited role, read 2026-11-21.
+
+> نی مه آواز دریانوردان پارسی
+
+Publisher’s credits and description, read 2026-11-21.

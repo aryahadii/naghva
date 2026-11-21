@@ -17,6 +17,16 @@ statements:
       quote: Sahbamusic
       locator: Original programme, artist or edition credits
       accessed: '2026-11-21'
+    qualifiers:
+      role: tar
+  - value: Q4h7cgm
+    references:
+    - source: www.youtube.com-watchv-ypuqh9e91f0
+      quote: 'Vocal: Sina Sarlak'
+      locator: Original programme, artist or edition credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: vocals
   listen link:
   - value: https://www.youtube.com/watch?v=yPUqh9E91F0
     references:
@@ -45,9 +55,9 @@ statements:
       accessed: '2026-11-21'
   release date:
   - value:
-      date: '2017-05-02'
+      date: '2014-06-28'
     references:
-    - source: t.me-sahbamusic-109
-      quote: '2017-05-02'
+    - source: www.youtube.com-watchv-ypuqh9e91f0
+      quote: '2014-06-28'
       locator: Original programme, artist or edition credits
       accessed: '2026-11-21'

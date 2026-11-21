@@ -1,0 +1,32 @@
+id: Qb4mc32
+type: release
+statements:
+  name:
+  - value:
+      text: Pournazeri - Voyage (Mécénat Musica 64.1 Regard Persan) Classical Music Video
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-6t51qjuukkk
+      quote: Pournazeri - Voyage (Mécénat Musica 64.1 Regard Persan) Classical Music Video
+      accessed: '2026-11-21'
+      locator: Performer or presenter film title
+  performer:
+  - value: Q9cyea8
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/6T51qjuUKKk/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-6t51qjuukkk
+      quote: https://i.ytimg.com/vi/6T51qjuUKKk/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video image
+    qualifiers:
+      credit:
+        text: Mécénat Musica Vidéoclips
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=6T51qjuUKKk
+    references:
+    - *id001

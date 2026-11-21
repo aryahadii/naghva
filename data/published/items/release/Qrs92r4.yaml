@@ -1,0 +1,50 @@
+id: Qrs92r4
+type: release
+statements:
+  name:
+  - value:
+      text: Psychodelan
+      language: en
+    references:
+    - source: open.spotify.com-album-2zj9p1ddqjwc0enjvpoyvl
+      quote: Listen to Psychodelan - EP by The Finches | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qnw83g7
+    references:
+    - source: open.spotify.com-album-2zj9p1ddqjwc0enjvpoyvl
+      quote: Listen to Psychodelan - EP by The Finches | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qb5hnjh
+    references:
+    - source: www.zhinardalan.com
+      quote: vocalist and rhythm guitarist of The Finches
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  release type:
+  - value: ep
+    references:
+    - source: open.spotify.com-album-2zj9p1ddqjwc0enjvpoyvl
+      quote: Listen to Psychodelan - EP by The Finches | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://open.spotify.com/album/2ZJ9p1ddqJWC0enJvPoyvL
+    references:
+    - source: open.spotify.com-album-2zj9p1ddqjwc0enjvpoyvl
+      quote: Listen to Psychodelan - EP by The Finches | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d0000b27384640c0bdfbb75b29267c6a0
+    references:
+    - source: open.spotify.com-album-2zj9p1ddqjwc0enjvpoyvl
+      quote: https://i.scdn.co/image/ab67616d0000b27384640c0bdfbb75b29267c6a0
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Publisher artwork
+        language: en

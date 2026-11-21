@@ -133,5 +133,7 @@ The expansion started at revision fa6c29ca with 124 bilingual artist pages. The 
 | ArtSaves | Qw9zs9g | Pending | [Catalogue](artsaves.md) |
 | Mohsen Sharifian | Qa744p5 | Pending | [Catalogue](mohsen-sharifian.md) |
 | Lian Music Band | Qdgssxh | Pending | [Catalogue](lian-music-band.md) |
+| Regard Persan | Q9cyea8 | Pending | [Catalogue](regard-persan.md) |
+| Liana Sharifian | Qwk3rke | Pending | [Catalogue](liana-sharifian.md) |
 
 The [discovery list](independent-artist-discovery.md) contains candidates with release leads. Some will prove ineligible or match an existing artist by another spelling. Only new artist pages count toward the target.

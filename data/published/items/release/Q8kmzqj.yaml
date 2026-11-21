@@ -1,0 +1,57 @@
+id: Q8kmzqj
+type: release
+statements:
+  name:
+  - value:
+      text: Maze (feat. Meshcut)
+      language: en
+    references:
+    - source: xeen.bandcamp.com-track-maze-feat-meshcut
+      quote: Maze (feat. Meshcut) | XEEN
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qb5hnjh
+    references:
+    - source: xeen.bandcamp.com-track-maze-feat-meshcut
+      quote: Maze (feat. Meshcut) | XEEN
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qh6s4f5
+    references:
+    - source: xeen.bandcamp.com-track-maze-feat-meshcut
+      quote: Meshcut
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://xeen.bandcamp.com/track/maze-feat-meshcut
+    references:
+    - source: xeen.bandcamp.com-track-maze-feat-meshcut
+      quote: Maze (feat. Meshcut) | XEEN
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/xe_en/maze
+    references:
+    - source: soundcloud.com-xe_en-maze
+      quote: Stream Maze (feat. Meshcut) by XEEN | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a3605612181_10.jpg
+    references:
+    - source: xeen.bandcamp.com-track-maze-feat-meshcut
+      quote: https://f4.bcbits.com/img/a3605612181_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Publisher artwork
+        language: en
+  release date:
+  - value:
+      date: '2020-02-02'
+    references:
+    - source: xeen.bandcamp.com-track-maze-feat-meshcut
+      quote: released February 2, 2020
+      accessed: '2026-11-21'
+      locator: Published date

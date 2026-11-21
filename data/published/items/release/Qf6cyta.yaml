@@ -1,0 +1,69 @@
+id: Qf6cyta
+type: release
+statements:
+  name:
+  - value:
+      text: Dawn
+      language: en
+    references:
+    - source: finchesband.bandcamp.com-track-dawn
+      quote: Dawn | The Finches
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qnw83g7
+    references:
+    - source: finchesband.bandcamp.com-track-dawn
+      quote: Dawn | The Finches
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qb5hnjh
+    references:
+    - source: www.zhinardalan.com
+      quote: vocalist and rhythm guitarist of The Finches
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://finchesband.bandcamp.com/track/dawn
+    references:
+    - source: finchesband.bandcamp.com-track-dawn
+      quote: Dawn | The Finches
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/6nts2J3q1tnuyMY0CVylrt
+    references:
+    - source: open.spotify.com-track-6nts2j3q1tnuymy0cvylrt
+      quote: DAWN - song and lyrics by The Finches | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1561361431
+    references:
+    - source: music.apple.com-us-song-1561361431
+      quote: ‎Dawn - Song with Lyrics by The Finches - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/thefinchesband/dawn
+    references:
+    - source: soundcloud.com-thefinchesband-dawn
+      quote: Stream Dawn by The Finches | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a0242389445_10.jpg
+    references:
+    - source: finchesband.bandcamp.com-track-dawn
+      quote: https://f4.bcbits.com/img/a0242389445_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Publisher artwork
+        language: en
+  release date:
+  - value:
+      date: '2021-04-16'
+    references:
+    - source: finchesband.bandcamp.com-album-shame
+      quote: released April 16, 2021
+      accessed: '2026-11-21'
+      locator: Published date

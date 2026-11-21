@@ -1,0 +1,57 @@
+id: Qa9vfv5
+type: release
+statements:
+  name:
+  - value:
+      text: Amme (Amnesia)
+      language: en
+    references:
+    - source: open.spotify.com-track-1wtgdhdpzsq4qwvaekjbcj
+      quote: Amme (Amnesia) - song and lyrics by The Finches | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qnw83g7
+    references:
+    - source: open.spotify.com-track-1wtgdhdpzsq4qwvaekjbcj
+      quote: Amme (Amnesia) - song and lyrics by The Finches | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qb5hnjh
+    references:
+    - source: www.zhinardalan.com
+      quote: vocalist and rhythm guitarist of The Finches
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://open.spotify.com/track/1WTgDhDpzSQ4qWvAEKjbCj
+    references:
+    - source: open.spotify.com-track-1wtgdhdpzsq4qwvaekjbcj
+      quote: Amme (Amnesia) - song and lyrics by The Finches | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1485164704
+    references:
+    - source: music.apple.com-us-song-1485164704
+      quote: ‎Amme (Amnesia) - Song with Lyrics by The Finches - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d0000b27384640c0bdfbb75b29267c6a0
+    references:
+    - source: open.spotify.com-track-1wtgdhdpzsq4qwvaekjbcj
+      quote: https://i.scdn.co/image/ab67616d0000b27384640c0bdfbb75b29267c6a0
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Publisher artwork
+        language: en
+  release date:
+  - value:
+      date: '2019-10-27'
+    references:
+    - source: music.apple.com-us-song-1485164704
+      quote: October 27, 2019
+      accessed: '2026-11-21'
+      locator: Published date

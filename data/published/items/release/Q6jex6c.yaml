@@ -1,0 +1,57 @@
+id: Q6jex6c
+type: release
+statements:
+  name:
+  - value:
+      text: Amme (Live Version)
+      language: en
+    references:
+    - source: finchesband.bandcamp.com-track-amme-live-version
+      quote: Amme (Live Version) | The Finches
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qnw83g7
+    references:
+    - source: finchesband.bandcamp.com-track-amme-live-version
+      quote: Amme (Live Version) | The Finches
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qb5hnjh
+    references:
+    - source: www.zhinardalan.com
+      quote: vocalist and rhythm guitarist of The Finches
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://finchesband.bandcamp.com/track/amme-live-version
+    references:
+    - source: finchesband.bandcamp.com-track-amme-live-version
+      quote: Amme (Live Version) | The Finches
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/thefinchesband/amme-live-version
+    references:
+    - source: soundcloud.com-thefinchesband-amme-live-version
+      quote: Stream Amme (Live Version) by The Finches | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a0846902083_10.jpg
+    references:
+    - source: finchesband.bandcamp.com-track-amme-live-version
+      quote: https://f4.bcbits.com/img/a0846902083_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Publisher artwork
+        language: en
+  release date:
+  - value:
+      date: '2019-09-25'
+    references:
+    - source: finchesband.bandcamp.com-track-amme-live-version
+      quote: released September 25, 2019
+      accessed: '2026-11-21'
+      locator: Published date

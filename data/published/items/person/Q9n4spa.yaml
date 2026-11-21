@@ -1,0 +1,25 @@
+id: Q9n4spa
+type: person
+statements:
+  name:
+  - value:
+      text: Pooria Pournazeri
+      language: en
+    references:
+    - &id001
+      source: tirgan.ca-b-tirgan2017-event-regard-persan-rumi-canada
+      quote: 'Pooria Pournazeri: Tanbour'
+      accessed: '2026-11-21'
+      locator: Instrument and musician
+  - value:
+      text: پوریا پورناظری
+      language: fa
+    references:
+    - source: hafteh.ca-uploads-mag-issue-554-web.pdf
+      quote: پوریا پورناظری
+      accessed: '2026-11-21'
+      locator: Page 17, album programme
+  member of:
+  - value: Q9cyea8
+    references:
+    - *id001
