@@ -158,7 +158,7 @@ references:
     accessed: '2026-11-13'
 ---
 
-Ali Azimi is an Iranian singer, songwriter and guitarist from Tehran, based in London. After studying and working in engineering, he made music with Radio Tehran and then formed a new band for his solo recordings. His songs combine Persian words with rock and draw on his experience of changing careers, migration and relationships.[^origin][^band-roles][^change][^songs][^solo-transition][^concept]
+Ali Azimi is an Iranian singer, songwriter and guitarist from Tehran, based in London. After studying and working in engineering, he formed [Radio Tehran](/en/radio-tehran-q8m/) with old friends and later started a new band for his solo recordings. His decision to leave engineering found its way into songs for both bands.[^origin][^band-roles][^change][^visit][^songs][^solo-transition]
 
 ## Engineering and Radio Tehran
 
