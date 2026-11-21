@@ -1,0 +1,52 @@
+id: Qdwbtp3
+type: release
+statements:
+  name:
+  - value:
+      text: Shalamroud
+      language: en
+    references:
+    - &id001
+      source: music.apple.com-us-album-1515822940
+      quote: Listen to Shalamroud by Abdi Behravanfar
+      accessed: '2026-11-21'
+  - value:
+      text: شلمرود
+      language: fa
+    references:
+    - source: kayhan.london-1396-11-29-105479
+      quote: اولین آلبوم او در سال ٢٠٠٨ با عنوان «شلمرود» عرضه شد
+      accessed: '2026-11-21'
+  performer:
+  - value: Qzgbsrs
+    references:
+    - *id001
+  release date:
+  - value:
+      date: '2008-05-09'
+    references:
+    - source: music.apple.com-us-album-1515822940
+      quote: '"datePublished":"2008-05-09"'
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://music.apple.com/us/album/shalamroud/1515822940
+    references:
+    - *id001
+  - value: https://abdibehravanfarmud.bandcamp.com/album/shalamroud
+    references:
+    - source: abdibehravanfarmud.bandcamp.com-album-shalamroud
+      quote: Shalamroud
+      accessed: '2026-11-21'
+    - source: abdibehravanfarmud.bandcamp.com-album-shalamroud
+      quote: 30 Oct 2020 00:00:00 GMT
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://f4.bcbits.com/img/a1216738603_10.jpg
+    references:
+    - source: abdibehravanfarmud.bandcamp.com-album-shalamroud
+      quote: https://f4.bcbits.com/img/a1216738603_10.jpg
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Abdi Behravanfar/MUD, Bandcamp
+        language: en
