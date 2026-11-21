@@ -1,0 +1,63 @@
+id: Q8gdmdf
+type: release
+statements:
+  name:
+  - value:
+      text: Khak Shah
+      language: en
+    references:
+    - source: cinnapey.bandcamp.com-track-khak-shah
+      quote: Khak Shah
+      accessed: '2026-11-21'
+      locator: Recording title or artist credit
+  performer:
+  - value: Q4q92dh
+    references:
+    - source: cinnapey.bandcamp.com-track-khak-shah
+      quote: Khak Shah | Cinna Peyghamy
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://cinnapey.bandcamp.com/track/khak-shah
+    references:
+    - source: cinnapey.bandcamp.com-track-khak-shah
+      quote: Khak Shah | Cinna Peyghamy
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/khak-shah/1732426115
+    references:
+    - source: music.apple.com-us-song-khak-shah-1732426115
+      quote: ‎Khak Shah - Song with Lyrics by Cinna Peyghamy - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/1sqFJy5GnC7TClYtjTpyti
+    references:
+    - source: open.spotify.com-track-1sqfjy5gnc7tclytjtpyti
+      quote: Khak Shah - song and lyrics by Cinna Peyghamy | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/cikkun/03-cinna-peyghamy-khak-shah
+    references:
+    - source: soundcloud.com-cikkun-03-cinna-peyghamy-khak-shah
+      quote: Stream Khak Shah by Cinna Peyghamy | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a0820108881_10.jpg
+    references:
+    - source: cinnapey.bandcamp.com-track-khak-shah
+      quote: https://f4.bcbits.com/img/a0820108881_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Tongwei
+        language: en
+  release date:
+  - value:
+      date: '2023-11-15'
+    references:
+    - source: cinnapey.bandcamp.com-album-the-skin-in-between
+      quote: released November 15, 2023
+      accessed: '2026-11-21'
+      locator: Published date

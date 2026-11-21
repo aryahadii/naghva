@@ -145,6 +145,16 @@ references:
     quote: compose the soundtrack of the movie “Radio Dreams”
     accessed: '2026-11-21'
     locator: Artist interview, biography or performance credits
+  divan:
+    source: cinnapey.bandcamp.com-album-music-for-tombak-synth
+    quote: Setar sample on B3 by Mahmood Schricker
+    accessed: '2026-11-21'
+    locator: Artist interview, biography or performance credits
+  issue:
+    source: cinnapey.bandcamp.com-album-music-for-tombak-synth
+    quote: released June 5, 2026
+    accessed: '2026-11-21'
+    locator: Artist interview, biography or performance credits
 ---
 
 محمود شریکر نوازندهٔ ایرانی سه‌تار الکتریک و بنیان‌گذار «لینک میوزیک لب» در تورنتو است. در تهران در خانواده‌ای ایرانی‌اتریشی به دنیا آمد، در شانزده‌سالگی به کانادا رفت و پس از تحصیل در رشتهٔ قوم‌موسیقی‌شناسی در دانشگاه یورک کار روی آثار مستقل خود را آغاز کرد. می‌خواست صدای آرام سه‌تار در کنار ضرب‌های موسیقی الکترونیک هم شنیده شود. برای همین با بهراد گرگانی، سازندهٔ ساز، روی ساخت سه‌تار الکتریک کار کرد.[^birth][^iran][^tor][^link][^york][^sound][^pitch]
@@ -158,3 +168,5 @@ references:
 ## دستگاه‌ماشین و اجراهای تورنتو
 
 در اوت ۲۰۲۳ سه‌نفرهٔ «دستگاه‌ماشین» هنوز نامی نداشت که شریکر با کیلب کلاگر و جیسون رول، دو نوازندهٔ الکترونیک گروه، نخستین کنسرتشان را اجرا کرد. گروه بخشی از اجراهایش در تپستری، در محلهٔ کنزینگتون مارکت تورنتو، را ضبط کرد و گزیده‌ای از آن‌ها را در ژانویهٔ ۲۰۲۵ منتشر کرد. در مه ۲۰۲۶ نیز شریکر و کیمیا کوچک‌زاده یزدی اثر مشترک «Dar Golestaneh Synthesized» را منتشر کردند که سه‌تار شریکر و صداهای الکترونیک کوچک‌زاده یزدی را کنار هم می‌گذارد.[^debutshow][^caleb][^jr][^record][^triod][^kim][^duo][^may]
+
+در قطعهٔ «دیوان» از آلبوم «Music for Tombak & Synth» سینا پیغامی که در سال ۲۰۲۶ منتشر شد، از صدای ضبط‌شدهٔ سه‌تار شریکر استفاده شده است.[^divan][^issue]

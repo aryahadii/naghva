@@ -27,3 +27,20 @@ statements:
       quote: 03 / 2025
       locator: Artist, publisher or presenter credits
       accessed: '2026-11-21'
+  performer:
+  - value: Qncx8nb
+    references:
+    - source: www.nazaninnoori.com-theurgencyofitall
+      quote: Iranian classical singer Samin Ghorbani recites
+      locator: Credits for this edition, role or concert
+      accessed: '2026-11-21'
+    qualifiers:
+      role: vocals
+  - value: Qcs2e52
+    references:
+    - source: www.nazaninnoori.com-theurgencyofitall
+      quote: voice of vocalist Rupert Enticknap
+      locator: Credits for this edition, role or concert
+      accessed: '2026-11-21'
+    qualifiers:
+      role: vocals

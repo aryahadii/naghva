@@ -1,0 +1,37 @@
+id: Qy2nj8k
+type: release
+statements:
+  name:
+  - value:
+      text: xiv - pavo
+      language: en
+    references:
+    - source: open.spotify.com-track-3uxc828zemzcx4ieb4bmrh
+      quote: xiv - pavo
+      accessed: '2026-11-21'
+      locator: Recording title or artist credit
+  performer:
+  - value: Q4q92dh
+    references:
+    - source: open.spotify.com-track-3uxc828zemzcx4ieb4bmrh
+      quote: xiv - pavo - song and lyrics by Rosso Polare, Cinna Peyghamy | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://open.spotify.com/track/3uxc828zEMzcx4ieb4bmrh
+    references:
+    - source: open.spotify.com-track-3uxc828zemzcx4ieb4bmrh
+      quote: xiv - pavo - song and lyrics by Rosso Polare, Cinna Peyghamy | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d0000b27344858099554e1b8c65bea915
+    references:
+    - source: open.spotify.com-track-3uxc828zemzcx4ieb4bmrh
+      quote: https://i.scdn.co/image/ab67616d0000b27344858099554e1b8c65bea915
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Spotify
+        language: en

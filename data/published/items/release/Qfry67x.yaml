@@ -1,0 +1,35 @@
+id: Qfry67x
+type: release
+statements:
+  name:
+  - value:
+      text: POV:theconcertisin10daysandyouhad6monthstothinkaboutapropertitle
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-e2ooa664o-u
+      quote: POV:theconcertisin10daysandyouhad6monthstothinkaboutapropertitle
+      accessed: '2026-11-21'
+      locator: Recording title or artist credit
+  performer:
+  - value: Q4q92dh
+    references:
+    - *id001
+  listen link:
+  - value: https://www.youtube.com/watch?v=e2oOA664O-U
+    references:
+    - source: www.youtube.com-watch-v-e2ooa664o-u
+      quote: POV:theconcertisin10daysandyouhad6monthstothinkaboutapropertitle
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i.ytimg.com/vi/e2oOA664O-U/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-e2ooa664o-u
+      quote: https://i.ytimg.com/vi/e2oOA664O-U/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: Cinna Peyghamy
+        language: en

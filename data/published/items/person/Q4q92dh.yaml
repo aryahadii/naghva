@@ -10,3 +10,87 @@ statements:
       quote: Cinna Peyghamy
       accessed: '2026-11-21'
       locator: Recording title or artist credit
+  - value:
+      text: سینا پیغامی
+      language: fa
+    references:
+    - source: iranianmusicarchive.org-events-concert-late-night-jazz-cinna-peyghamy-relaxed-performance
+      quote: سینا پیغامی
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value:
+      text: Cikkun
+      language: en
+    references:
+    - source: cinnapey.bandcamp.com-album-gamut
+      quote: Music, mix & mastering by Cikkun (Cinna Peyghamy)
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  birth date:
+  - value:
+      date: '1995'
+    references:
+    - &id001
+      source: www.festivaldemarseille.com-en-cinna-peyghamy
+      quote: Born in Paris in 1995 of Iranian parents
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  birthplace:
+  - value: Qyhck8a
+    references:
+    - *id001
+  based in:
+  - value: Qyhck8a
+    references:
+    - source: cinnapey.bandcamp.com-music
+      quote: Paris, France
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  image:
+  - value: https://i.scdn.co/image/ab6761610000e5eb0c417a004450678b453bb14b
+    references:
+    - source: open.spotify.com-artist-6ft3nrrmf4vlboj7yngg0o
+      quote: https://i.scdn.co/image/ab6761610000e5eb0c417a004450678b453bb14b
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: Cinna Peyghamy on Spotify
+        language: en
+  profile link:
+  - value: https://music.apple.com/us/artist/cinna-peyghamy/1308404239
+    references:
+    - source: music.apple.com-us-artist-cinna-peyghamy-1308404239
+      quote: ‎Cinna Peyghamy - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/artist/6fT3NRrmf4vlBOJ7ynGg0O
+    references:
+    - source: open.spotify.com-artist-6ft3nrrmf4vlboj7yngg0o
+      quote: Listen to Cinna Peyghamy Songs | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/artist/6tTCXoOEgtuZfZREaEp8q0
+    references:
+    - source: open.spotify.com-artist-6ttcxooegtuzfzreaep8q0
+      quote: Listen to Cikkun Songs | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/cikkun
+    references:
+    - source: soundcloud.com-cikkun
+      quote: Stream Cinna Peyghamy music | Listen to songs, albums, playlists for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://cinnapey.bandcamp.com
+    references:
+    - source: cinnapey.bandcamp.com-music
+      quote: Music | Cinna Peyghamy
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://www.youtube.com/@cinnapeyghamy9056
+    references:
+    - source: www.youtube.com-cinnapeyghamy9056-videos
+      quote: Cinna Peyghamy - YouTube
+      accessed: '2026-11-21'
+      locator: Page title

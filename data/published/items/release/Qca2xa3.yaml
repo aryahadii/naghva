@@ -17,6 +17,26 @@ statements:
       quote: 'Live Performance: The Casualty Process at TEDxLaf'
       accessed: '2026-11-21'
       locator: YouTube oEmbed title
+  - value: Qxxp9ab
+    qualifiers:
+      role:
+      - guitar
+      - vocals
+    references:
+    - source: www.youtube.com-watch-v-yosgwbo40-q
+      quote: Natch Nadjafi on guitar, vocals, and guitar.
+      accessed: '2026-11-21'
+      locator: TEDx speaker/artist description
+  - value: Qp9j392
+    qualifiers:
+      role:
+      - guitar
+      - vocals
+    references:
+    - source: www.youtube.com-watch-v-yosgwbo40-q
+      quote: singer and guitarist Shayan Amini
+      accessed: '2026-11-21'
+      locator: TEDx performing lineup
   listen link:
   - value: https://www.youtube.com/watch?v=yOSgwbO40-Q
     references:

@@ -146,6 +146,21 @@ references:
     quote: She received the ars viva Prize for Visual Arts in 2026
     locator: Biography, programme, interview or artist’s work list
     accessed: '2026-11-21'
+  version:
+    source: www.nazaninnoori.com-theurgencyofitall
+    quote: She has reworked the entire piece.
+    locator: Radio version and separate 2021 live performance
+    accessed: '2026-11-21'
+  dates:
+    source: www.nazaninnoori.com-ambienthardcoreinternational
+    quote: 21.11.2022 Sound Scenario for Mutant Radio, Tbilisi
+    locator: Radio performance
+    accessed: '2026-11-21'
+  mutant:
+    source: soundcloud.com-mutantradio-nazanin-noori-female
+    quote: Nazanin Noori [Female Resistance Curated by Spaced Apart]
+    locator: Programme title
+    accessed: '2026-11-21'
 ---
 
 نازنین نوری برای سینتی‌سایزر ماژولار و آواز موسیقی می‌سازد. این هنرمند ایرانی در سال ۱۹۹۱ در ویسبادن به دنیا آمد. در فرانکفورت تئاتر، سینما و رسانه خواند و در برلین ساکن شد. از سال ۲۰۱۶ برای تئاتر و فیلم آهنگ ساخت. در نمایش شنیداری «سوسک» نوشتهٔ جمیله شاهین، موسیقی، طراحی لباس و کارگردانی را بر عهده گرفت. بعدها برای نخستین آلبومش هم از یک داستان شروع کرد، گرچه قرار نبود شنونده کلمات آن را بشنود.[^instrument][^born][^iran][^study][^early][^play][^first][^farce]
@@ -154,7 +169,7 @@ references:
 
 ## از رادیو تا نمایشگاه
 
-نوری از ۲۰۱۹ تا ۲۰۲۱ برای برنامهٔ ماهانهٔ *Pomp* آنچه را «سناریوهای صوتی» می‌نامید کنار هم می‌چید. در ۲۰۲۱ که برنامهٔ *Ambient Hardcore* را در رادیو Refuge Worldwide برلین شروع کرد، میکس‌هایش را نمایش شنیداری توصیف کرد. در «حال» که همان سال برای نخستین بار در برلین اجرا شد، صداهای ممتد سینتی‌سایزر ماژولار را با نمونه‌هایی از سرودها و ذکرهای صوفیان درآمیخت. رادیو دویچلندفونک کولتور این اثر را در دسامبر ۲۰۲۲ پخش کرد.[^series][^pompdates][^radio][^prem][^synth][^broadcast]
+نوری از ۲۰۱۹ تا ۲۰۲۱ برای برنامهٔ ماهانهٔ *Pomp* آنچه را «سناریوهای صوتی» می‌نامید کنار هم می‌چید. در ۲۰۲۱ که برنامهٔ *Ambient Hardcore* را در رادیو Refuge Worldwide برلین شروع کرد، میکس‌هایش را نمایش شنیداری توصیف کرد. در «حال» که همان سال برای نخستین بار در برلین اجرا شد، صداهای ممتد سینتی‌سایزر ماژولار را با نمونه‌هایی از سرودها و ذکرهای صوفیان درآمیخت. نوری برای پخش رادیویی روی قطعه دوباره کار کرد و دویچلندفونک کولتور نسخهٔ تازه را در دسامبر ۲۰۲۲ پخش کرد.[^series][^pompdates][^radio][^prem][^synth][^broadcast][^version] یک ماه پیش از آن، رادیو میوتنت تفلیس میکس نوری را در برنامهٔ «مقاومت زنان» پخش کرده بود.[^dates][^mutant]
 
 تماشای اعتراض‌های پس از مرگ ژینا امینی از دور، به نخستین نمایشگاه انفرادی نوری شکل داد. در *The Echo of Protest Is Distant to the Protest* که در ۲۰۲۴ در برلین برپا شد، نوری با مجسمه و نوشته صحنه‌ای بی‌بازیگر ترتیب داد. موسیقی نیم‌ساعتهٔ سینتی‌سایزر از چهار کانال دور مخاطب پخش می‌شد.[^solo][^protest][^room][^four]
 

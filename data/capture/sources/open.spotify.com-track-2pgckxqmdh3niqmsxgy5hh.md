@@ -12,3 +12,11 @@ status: processed
 > Dorna - Live - song and lyrics by Cinna Peyghamy, Mahmood Schricker, Neda Mohamadpour | Spotify
 
 Page title, read 2026-11-21.
+
+> Mahmood Schricker
+
+Artist interview, biography or performance credits, read 2026-11-21.
+
+> Neda Mohamadpour
+
+Artist interview, biography or performance credits, read 2026-11-21.

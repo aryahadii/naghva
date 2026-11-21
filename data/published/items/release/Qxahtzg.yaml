@@ -1,0 +1,43 @@
+id: Qxahtzg
+type: release
+statements:
+  name:
+  - value:
+      text: VĪS - Cinna Peyghamy Reinterpretation
+      language: en
+    references:
+    - source: open.spotify.com-track-3eqnewmt5cu5fdmcx7x5jj
+      quote: VĪS - Cinna Peyghamy Reinterpretation
+      accessed: '2026-11-21'
+      locator: Recording title or artist credit
+  performer:
+  - value: Q4q92dh
+    references:
+    - source: open.spotify.com-track-3eqnewmt5cu5fdmcx7x5jj
+      quote: VĪS - Cinna Peyghamy Reinterpretation - song and lyrics by David August, Cinna Peyghamy | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qkq4x48
+    references:
+    - source: open.spotify.com-track-3eqnewmt5cu5fdmcx7x5jj
+      quote: David August
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://open.spotify.com/track/3eqnewmT5cu5FdMCX7x5jj
+    references:
+    - source: open.spotify.com-track-3eqnewmt5cu5fdmcx7x5jj
+      quote: VĪS - Cinna Peyghamy Reinterpretation - song and lyrics by David August, Cinna Peyghamy | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d0000b2739ece1978165730b50def4589
+    references:
+    - source: open.spotify.com-track-3eqnewmt5cu5fdmcx7x5jj
+      quote: https://i.scdn.co/image/ab67616d0000b2739ece1978165730b50def4589
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Spotify
+        language: en

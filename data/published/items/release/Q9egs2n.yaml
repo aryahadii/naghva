@@ -1,0 +1,57 @@
+id: Q9egs2n
+type: release
+statements:
+  name:
+  - value:
+      text: Tinad
+      language: en
+    references:
+    - source: music.apple.com-us-album-structura-l-ep-6818258616
+      quote: Tinad
+      accessed: '2026-11-21'
+      locator: Track 2
+  performer:
+  - value: Qxxp9ab
+    references:
+    - source: music.apple.com-us-album-structura-l-ep-6818258616
+      quote: Tinad
+      accessed: '2026-11-21'
+      locator: Track 2
+  listen link:
+  - value: https://music.apple.com/us/song/tinad/6818258618
+    references:
+    - source: music.apple.com-us-album-structura-l-ep-6818258616
+      quote: https://music.apple.com/us/song/tinad/6818258618
+      accessed: '2026-11-21'
+      locator: Canonical song URL
+  - value: https://kitchentechnomusic.bandcamp.com/track/tinad
+    references:
+    - source: kitchentechnomusic.bandcamp.com-track-tinad
+      quote: Tinad
+      accessed: '2026-11-21'
+      locator: Artist or label issue
+  - value: https://soundcloud.com/kitchentechnomusic/kt001-02-natch-nadjafi-tinad-2
+    references:
+    - source: soundcloud.com-kitchentechnomusic-kt001-02-natch-nadjafi-tinad-2
+      quote: 02 - Natch Nadjafi - Tinad
+      accessed: '2026-11-21'
+      locator: Uploader’s original title
+  release date:
+  - value:
+      date: '2026-10-04'
+    references:
+    - source: kitchentechnomusic.bandcamp.com-track-tinad
+      quote: 04 Oct 2026 00:00:00 GMT
+      accessed: '2026-11-21'
+      locator: Release date
+  cover art:
+  - value: https://f4.bcbits.com/img/a1417162864_10.jpg
+    qualifiers:
+      credit:
+        text: Natch Nadjafi via Bandcamp
+        language: en
+    references:
+    - source: kitchentechnomusic.bandcamp.com-track-tinad
+      quote: https://f4.bcbits.com/img/a1417162864_10.jpg
+      accessed: '2026-11-21'
+      locator: Original release image

@@ -319,3 +319,39 @@ Biography, programme, interview or artist’s work list, read 2026-11-21.
 Biography, programme, interview or artist’s work list, read 2026-11-21.
 
 > The text is installed across two rooms, each accompanied by its own sound composition.
+
+Credits for this edition, role or concert, read 2026-11-21.
+
+> Azin Zahedi, Nazanin Noori and Shabnam Parvaresh perform as a trio
+
+Credits for this edition, role or concert, read 2026-11-21.
+
+> Nazanin Noori performed 'HAAL' at the ICC Berlin
+
+Credits for this edition, role or concert, read 2026-11-21.
+
+> Nazanin Noori’s sound and video installation 'SCRATCHING THE SURFACE OF A DAMNED SPOT IS AN ACT OF INTERROGATION'
+
+Credits for this edition, role or concert, read 2026-11-21.
+
+> Iranian classical singer Samin Ghorbani recites
+
+Credits for this edition, role or concert, read 2026-11-21.
+
+> voice of vocalist Rupert Enticknap
+
+Credits for this edition, role or concert, read 2026-11-21.
+
+> a classical Iranian singer, Samin Ghorbani
+
+Credits for this edition, role or concert, read 2026-11-21.
+
+> two spoken-word performers, Kate Strong and Noori herself
+
+Credits for this edition, role or concert, read 2026-11-21.
+
+> two drummers, Andrea Belfi and Ludwig Wandinger
+
+Radio version and separate 2021 live performance, read 2026-11-21.
+
+> She has reworked the entire piece.

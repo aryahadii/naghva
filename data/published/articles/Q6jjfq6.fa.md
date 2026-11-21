@@ -56,9 +56,29 @@ references:
     quote: '20201015'
     accessed: 2026-11-21
     locator: Film publication date
+  pantopia:
+    source: pantopia-music.org-album-unsettling-sounds
+    quote: Khat“ (angeleitete Improvisation des Trickster Orchestra)
+    accessed: 2026-11-21
+    locator: Timestamped music programme
+  raaz:
+    source: pantopia-music.org-album-unsettling-sounds
+    quote: Raaz” (freie Improvisation des Trickster Orchestra)
+    accessed: 2026-11-21
+    locator: Timestamped music programme
+  rename:
+    source: miz.org-de-institutionen-trickster-orchestra-i33518
+    quote: seit 2018 Trickster Orchestra
+    accessed: 2026-11-21
+    locator: Historie
+  ramadan:
+    source: youtu.be-kplpv838xti
+    quote: Aufnahme vom 07. August 2013, 20:00 Uhr
+    accessed: 2026-11-21
+    locator: Date of 2013 concert in Heimathafen Neukölln
 ---
 
-ارکستر تریکستر در سال ۲۰۱۳ در برلین شکل گرفت. سیمین سماواتی، آهنگساز و خوانندهٔ ایرانی‌آلمانی، کتان باتی، نوازندهٔ درامز، و فیلیپ گایسلر آن را بنیان گذاشتند. گروه در آغاز با نام «دیوان قاره‌ها» روی صحنه می‌رفت. نزدیک به چهل نوازنده و خواننده با ارکستر همکاری دارند و ترکیب آن برای هر برنامه تغییر می‌کند.[^formation][^former][^players]
+ارکستر تریکستر در سال ۲۰۱۳ در برلین شکل گرفت. سیمین سماواتی، آهنگساز و خوانندهٔ ایرانی‌آلمانی، کتان باتی، نوازندهٔ درامز، و فیلیپ گایسلر آن را بنیان گذاشتند. گروه در اوت ۲۰۱۳ با نام «دیوان قاره‌ها» در سالن هایمات‌هافن نوی‌کلن روی صحنه رفت و در سال ۲۰۱۸ نام تریکستر را برگزید.[^ramadan][^rename] نزدیک به چهل نوازنده و خواننده با ارکستر همکاری دارند و ترکیب آن برای هر برنامه تغییر می‌کند.[^formation][^former][^players]
 
 ## موسیقی و روایت
 
@@ -67,3 +87,5 @@ references:
 در فیلم *Vom Bleiben* در سال ۲۰۲۰، نوازندگان تریکستر و اپرای کمیک برلین از ترک خانه و زندگی در جایی تازه گفتند. بعضی از زندگی خودشان و بعضی از پدر و مادر یا پدربزرگ و مادربزرگشان روایت کردند. صدای کوتو، قانون و توبا این روایت‌ها را همراهی می‌کرد.[^voices][^family][^sounds][^film]
 
 نخستین آلبوم استودیویی ارکستر در سال ۲۰۲۱ با برچسب ای‌سی‌ام منتشر شد. یک سال بعد، جایزهٔ جاز آلمان در بخش بهترین گروه بزرگ به این ارکستر رسید.[^album][^prize]
+
+در آلبوم *Unsettling Sounds* که پانتوپیا منتشر کرد، سماواتی و باتی دربارهٔ شیوهٔ بداهه‌نوازی گروه گفت‌وگو می‌کنند. در «Raaz» نوازندگان آزادانه بداهه می‌نوازند و در «Khat» رهبر گروه مسیر بداهه‌نوازی را هدایت می‌کند.[^pantopia][^raaz]

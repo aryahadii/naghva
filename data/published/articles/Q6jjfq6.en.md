@@ -56,9 +56,29 @@ references:
     quote: '20201015'
     accessed: 2026-11-21
     locator: Film publication date
+  pantopia:
+    source: pantopia-music.org-album-unsettling-sounds
+    quote: Khat“ (angeleitete Improvisation des Trickster Orchestra)
+    accessed: 2026-11-21
+    locator: Timestamped music programme
+  raaz:
+    source: pantopia-music.org-album-unsettling-sounds
+    quote: Raaz” (freie Improvisation des Trickster Orchestra)
+    accessed: 2026-11-21
+    locator: Timestamped music programme
+  rename:
+    source: miz.org-de-institutionen-trickster-orchestra-i33518
+    quote: seit 2018 Trickster Orchestra
+    accessed: 2026-11-21
+    locator: Historie
+  ramadan:
+    source: youtu.be-kplpv838xti
+    quote: Aufnahme vom 07. August 2013, 20:00 Uhr
+    accessed: 2026-11-21
+    locator: Date of 2013 concert in Heimathafen Neukölln
 ---
 
-Trickster Orchestra is a Berlin ensemble founded in 2013 by German-Iranian singer and composer Cymin Samawatie, drummer Ketan Bhatti and Philip Geisler. It first performed under the name Divan der Kontinente. Its line-up changes with the piece, drawing on a collective of some forty musicians and singers.[^formation][^former][^players]
+Trickster Orchestra is a Berlin ensemble founded in 2013 by German-Iranian singer and composer Cymin Samawatie, drummer Ketan Bhatti and Philip Geisler. Under its first name, Divan der Kontinente, it played at Heimathafen Neukölln in August 2013. It took the name Trickster Orchestra in 2018.[^ramadan][^rename] Its line-up changes with the piece, drawing on a collective of some forty musicians and singers.[^formation][^former][^players]
  
 ## Music and spoken word
 
@@ -67,3 +87,5 @@ For *Disturbing the Universal*, Samawatie and Bhatti travelled with curator Elis
 In the 2020 film *Vom Bleiben*, players from the orchestra and Berlin’s Komische Oper spoke about leaving home and settling elsewhere. Some told their own stories, others those of their parents or grandparents. The sounds of the koto, kanun and tuba accompanied the telling.[^voices][^family][^sounds][^film]
 
 The orchestra released its first studio album on ECM in 2021. The following year it received the German Jazz Prize for best large ensemble.[^album][^prize]
+
+On the Pantopia album *Unsettling Sounds*, Samawatie and Bhatti explain how the players improvise together. The listener hears the difference between *Raaz*, which they play freely, and *Khat*, in which a director guides the improvisation.[^pantopia][^raaz]

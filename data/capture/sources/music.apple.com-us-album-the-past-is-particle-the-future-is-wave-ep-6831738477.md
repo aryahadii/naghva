@@ -24,3 +24,7 @@ Recording title or artist credit, read 2026-11-21.
 > Neda Mohamadpour
 
 Recording title or artist credit, read 2026-11-21.
+
+> Mahmood Schricker
+
+Artist interview, biography or performance credits, read 2026-11-21.

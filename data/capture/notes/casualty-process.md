@@ -20,15 +20,15 @@ The Spectrum programme explicitly reports the change of name after Afsharian lef
 - A Drowning · https://soundcloud.com/casualtyprocess/a-drowning-htda-remake
 - Night/Lust/Vacancy · https://www.youtube.com/watch?v=hON_Tabu7cM
 - Live Performance: The Casualty Process at TEDxLaf · https://www.youtube.com/watch?v=yOSgwbO40-Q
-- [RE]action · 
-- [RE]ACTION · 
-- Autotomy · 
-- Happened To Me · 
-- Morning · 
-- My Clothes On Other Bodies · 
-- Time-Out · 
-- Change The Path · 
-- War Of The Others · 
-- Lost Waves · 
-- I`Ve Got No Keyword To Find You · 
+- [RE]action
+- [RE]ACTION
+- Autotomy
+- Happened To Me
+- Morning
+- My Clothes On Other Bodies
+- Time-Out
+- Change The Path
+- War Of The Others
+- Lost Waves
+- I`Ve Got No Keyword To Find You
 - 33RPM - Voices of the Revolution · https://33rpmvoices.bandcamp.com/album/33rpm-voices-of-the-revolution

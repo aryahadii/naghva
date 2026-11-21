@@ -1,0 +1,64 @@
+id: Qx9jwpv
+type: release
+statements:
+  name:
+  - value:
+      text: Glare - Single
+      language: en
+    references:
+    - source: music.apple.com-us-album-glare-single-1698018221
+      quote: Glare - Single
+      accessed: '2026-11-21'
+      locator: Original digital issue
+  performer:
+  - value: Qxxp9ab
+    references:
+    - source: music.apple.com-us-album-glare-single-1698018221
+      quote: Glare - Single
+      accessed: '2026-11-21'
+      locator: Original digital issue
+  listen link:
+  - value: https://music.apple.com/us/album/glare-single/1698018221
+    references:
+    - source: music.apple.com-us-album-glare-single-1698018221
+      quote: Glare - Single
+      accessed: '2026-11-21'
+      locator: Original digital issue
+  - value: https://soundkleckserecords.bandcamp.com/album/glare
+    references:
+    - source: soundkleckserecords.bandcamp.com-album-glare
+      quote: Glare
+      accessed: '2026-11-21'
+      locator: Artist or label issue
+  - value: https://open.spotify.com/album/4rKcEfl0oY6xLjYpKQIrJn
+    references:
+    - source: open.spotify.com-embed-album-4rkcefl0oy6xljypkqirjn
+      quote: Glare
+      accessed: '2026-11-21'
+      locator: Spotify original album
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-glare-single-1698018221
+      quote: Glare - Single
+      accessed: '2026-11-21'
+      locator: Original digital issue
+  release date:
+  - value:
+      date: '2023-08-25'
+    references:
+    - source: soundkleckserecords.bandcamp.com-album-glare
+      quote: 25 Aug 2023 00:00:00 GMT
+      accessed: '2026-11-21'
+      locator: Release date
+  cover art:
+  - value: https://f4.bcbits.com/img/a0636845433_10.jpg
+    qualifiers:
+      credit:
+        text: Natch Nadjafi via Bandcamp
+        language: en
+    references:
+    - source: soundkleckserecords.bandcamp.com-album-glare
+      quote: https://f4.bcbits.com/img/a0636845433_10.jpg
+      accessed: '2026-11-21'
+      locator: Original release image

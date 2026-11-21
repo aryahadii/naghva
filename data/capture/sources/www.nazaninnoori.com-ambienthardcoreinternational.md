@@ -43,3 +43,19 @@ Artist broadcast and score chronology, read 2026-11-21.
 Artist broadcast and score chronology, read 2026-11-21.
 
 > 18.07.2021 Sound Scenario for Edited Arts
+
+Credits for this edition, role or concert, read 2026-11-21.
+
+> 30.10.2022 Doom Jazz Improvisation
+
+Credits for this edition, role or concert, read 2026-11-21.
+
+> 10.10.2021 Sound Performance / Live-Set
+
+Credits for this edition, role or concert, read 2026-11-21.
+
+> 13.12.2025 Theaterpremiere 'Paul und Paula' (Composition)
+
+Radio performance, read 2026-11-21.
+
+> 21.11.2022 Sound Scenario for Mutant Radio, Tbilisi

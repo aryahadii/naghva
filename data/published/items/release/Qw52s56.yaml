@@ -1,0 +1,24 @@
+id: Qw52s56
+type: release
+statements:
+  name:
+  - value:
+      text: Cinna Peyghamy at Gaswerk Music Days
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-zlst7fhzwbw
+      quote: CINNA PEYGHAMY @ Gaswerk Music Days | LIVE FROM BERLIN - YouTube
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Q4q92dh
+    references:
+    - *id001
+  listen link:
+  - value: https://www.youtube.com/watch?v=ZLst7fHZwBw
+    references:
+    - source: www.youtube.com-watch-v-zlst7fhzwbw
+      quote: CINNA PEYGHAMY @ Gaswerk Music Days | LIVE FROM BERLIN - YouTube
+      accessed: '2026-11-21'
+      locator: Page title

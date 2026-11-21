@@ -1,0 +1,71 @@
+id: Qn5rknm
+type: release
+statements:
+  name:
+  - value:
+      text: Zur زور
+      language: en
+    references:
+    - source: cinnapey.bandcamp.com-track-zur
+      quote: Zur زور
+      accessed: '2026-11-21'
+      locator: Recording title or artist credit
+  - value:
+      text: زور
+      language: fa
+    references:
+    - source: cinnapey.bandcamp.com-track-zur
+      quote: زور
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  performer:
+  - value: Q4q92dh
+    references:
+    - source: cinnapey.bandcamp.com-track-zur
+      quote: Zur زور | Cinna Peyghamy
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://cinnapey.bandcamp.com/track/zur
+    references:
+    - source: cinnapey.bandcamp.com-track-zur
+      quote: Zur زور | Cinna Peyghamy
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/zur-%D8%B2%D9%88%D8%B1-single/1892424114
+    references:
+    - source: music.apple.com-us-album-zur--d8-b2-d9-88-d8-b1-single-1892424114
+      quote: ‎Zur زور - Single - Album by Cinna Peyghamy - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/zur-%D8%B2%D9%88%D8%B1/1884372778
+    references:
+    - source: music.apple.com-us-song-zur--d8-b2-d9-88-d8-b1-1884372778
+      quote: ‎Zur زور - Song with Lyrics by Cinna Peyghamy - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/zur-%D8%B2%D9%88%D8%B1/1892424115
+    references:
+    - source: music.apple.com-us-song-zur--d8-b2-d9-88-d8-b1-1892424115
+      quote: ‎Zur زور - Song with Lyrics by Cinna Peyghamy - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a2848951206_10.jpg
+    references:
+    - source: cinnapey.bandcamp.com-track-zur
+      quote: https://f4.bcbits.com/img/a2848951206_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Cinna Peyghamy on Bandcamp
+        language: en
+  release date:
+  - value:
+      date: '2026-04-21'
+    references:
+    - source: music.apple.com-us-album-zur--d8-b2-d9-88-d8-b1-single-1892424114
+      quote: April 21, 2026
+      accessed: '2026-11-21'
+      locator: Published date

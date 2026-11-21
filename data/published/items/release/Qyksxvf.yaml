@@ -1,0 +1,63 @@
+id: Qyksxvf
+type: release
+statements:
+  name:
+  - value:
+      text: Sympathetic Fillings
+      language: en
+    references:
+    - source: cinnapey.bandcamp.com-track-sympathetic-fillings
+      quote: Sympathetic Fillings
+      accessed: '2026-11-21'
+      locator: Recording title or artist credit
+  performer:
+  - value: Q4q92dh
+    references:
+    - source: cinnapey.bandcamp.com-track-sympathetic-fillings
+      quote: Sympathetic Fillings | Cinna Peyghamy
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://cinnapey.bandcamp.com/track/sympathetic-fillings
+    references:
+    - source: cinnapey.bandcamp.com-track-sympathetic-fillings
+      quote: Sympathetic Fillings | Cinna Peyghamy
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/sympathetic-fillings/1732426854
+    references:
+    - source: music.apple.com-us-song-sympathetic-fillings-1732426854
+      quote: ‎Sympathetic Fillings - Song with Lyrics by Cinna Peyghamy - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/5wmL8oor7TMx8XOQLDOiOm
+    references:
+    - source: open.spotify.com-track-5wml8oor7tmx8xoqldoiom
+      quote: Sympathetic Fillings - song and lyrics by Cinna Peyghamy | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/cikkun/04-cinna-peyghamy-sympathetic
+    references:
+    - source: soundcloud.com-cikkun-04-cinna-peyghamy-sympathetic
+      quote: Stream Sympathetic Fillings by Cinna Peyghamy | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a0820108881_10.jpg
+    references:
+    - source: cinnapey.bandcamp.com-track-sympathetic-fillings
+      quote: https://f4.bcbits.com/img/a0820108881_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Tongwei
+        language: en
+  release date:
+  - value:
+      date: '2023-11-15'
+    references:
+    - source: cinnapey.bandcamp.com-album-the-skin-in-between
+      quote: released November 15, 2023
+      accessed: '2026-11-21'
+      locator: Published date

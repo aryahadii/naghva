@@ -1,0 +1,63 @@
+id: Q6jw7pr
+type: release
+statements:
+  name:
+  - value:
+      text: La Ballade Des Meules
+      language: en
+    references:
+    - source: cinnapey.bandcamp.com-track-la-ballade-des-meules-2
+      quote: La Ballade Des Meules
+      accessed: '2026-11-21'
+      locator: Recording title or artist credit
+  performer:
+  - value: Q4q92dh
+    references:
+    - source: cinnapey.bandcamp.com-track-la-ballade-des-meules-2
+      quote: La Ballade Des Meules | Cinna Peyghamy
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://cinnapey.bandcamp.com/track/la-ballade-des-meules-2
+    references:
+    - source: cinnapey.bandcamp.com-track-la-ballade-des-meules-2
+      quote: La Ballade Des Meules | Cinna Peyghamy
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/la-ballade-des-meules/1719051192
+    references:
+    - source: music.apple.com-us-song-la-ballade-des-meules-1719051192
+      quote: ‎La ballade des meules - Song with Lyrics by Cinna Peyghamy - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/7AdveR6Zl93BWKG8opBbQS
+    references:
+    - source: open.spotify.com-track-7adver6zl93bwkg8opbbqs
+      quote: La ballade des meules - song and lyrics by Cinna Peyghamy | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/cikkun/la-ballade-des-meules
+    references:
+    - source: soundcloud.com-cikkun-la-ballade-des-meules
+      quote: Stream La Ballade Des Meules by Cinna Peyghamy | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a2621984663_10.jpg
+    references:
+    - source: cinnapey.bandcamp.com-track-la-ballade-des-meules-2
+      quote: https://f4.bcbits.com/img/a2621984663_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Cinna Peyghamy on Bandcamp
+        language: en
+  release date:
+  - value:
+      date: '2017-05-08'
+    references:
+    - source: cinnapey.bandcamp.com-album-gamut
+      quote: released May 8, 2017
+      accessed: '2026-11-21'
+      locator: Published date

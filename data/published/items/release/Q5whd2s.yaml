@@ -1,0 +1,46 @@
+id: Q5whd2s
+type: release
+statements:
+  name:
+  - value:
+      text: Azu Tiwaline & Cinna Peyghamy - Live at Babel Music XP (Extracts)
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-nw_5w5w11es
+      quote: Azu Tiwaline & Cinna Peyghamy - Live at Babel Music XP (Extracts) - YouTube
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Q4q92dh
+    references:
+    - *id001
+  - value: Q8k4r2t
+    references:
+    - *id001
+  listen link:
+  - value: https://www.youtube.com/watch?v=nw_5W5W11Es
+    references:
+    - source: www.youtube.com-watch-v-nw_5w5w11es
+      quote: Azu Tiwaline & Cinna Peyghamy - Live at Babel Music XP (Extracts) - YouTube
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i.ytimg.com/vi/nw_5W5W11Es/maxresdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-nw_5w5w11es
+      quote: https://i.ytimg.com/vi/nw_5W5W11Es/maxresdefault.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Azu Tiwaline
+        language: en
+  release date:
+  - value:
+      date: '2024-06-06'
+    references:
+    - source: www.youtube.com-watch-v-nw_5w5w11es
+      quote: '2024-06-06'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits

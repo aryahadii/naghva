@@ -6,6 +6,7 @@ tier: journalism
 language: en
 about:
 - The Casualty Process
+- Natch Nadjafi
 status: processed
 ---
 
@@ -28,3 +29,7 @@ The 2007 show, read 2026-11-21.
 > From Iran, through Skype, the band members watched an American band perform their songs.
 
 Musicians on the Brooklyn concert, read 2026-11-21.
+
+> their applications for U.S. travel visas were denied.
+
+Reason the band missed SXSW in 2009, read 2026-11-21.

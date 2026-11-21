@@ -35,3 +35,40 @@ statements:
       quote: 06 / 2026
       locator: Artist, publisher or presenter credits
       accessed: '2026-11-21'
+  performer:
+  - value: Qncx8nb
+    references:
+    - source: www.nazaninnoori.com-theurgencyofitall
+      quote: a classical Iranian singer, Samin Ghorbani
+      locator: Credits for this edition, role or concert
+      accessed: '2026-11-21'
+    qualifiers:
+      role: vocals
+  - value: Qsrd34r
+    references:
+    - source: www.nazaninnoori.com-theurgencyofitall
+      quote: two spoken-word performers, Kate Strong and Noori herself
+      locator: Credits for this edition, role or concert
+      accessed: '2026-11-21'
+  - value: Qk45pkn
+    references:
+    - source: www.nazaninnoori.com-theurgencyofitall
+      quote: two spoken-word performers, Kate Strong and Noori herself
+      locator: Credits for this edition, role or concert
+      accessed: '2026-11-21'
+  - value: Qpsykn6
+    references:
+    - source: www.nazaninnoori.com-theurgencyofitall
+      quote: two drummers, Andrea Belfi and Ludwig Wandinger
+      locator: Credits for this edition, role or concert
+      accessed: '2026-11-21'
+    qualifiers:
+      role: drums
+  - value: Qd8v3v4
+    references:
+    - source: www.nazaninnoori.com-theurgencyofitall
+      quote: two drummers, Andrea Belfi and Ludwig Wandinger
+      locator: Credits for this edition, role or concert
+      accessed: '2026-11-21'
+    qualifiers:
+      role: drums

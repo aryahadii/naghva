@@ -145,6 +145,16 @@ references:
     quote: compose the soundtrack of the movie “Radio Dreams”
     accessed: '2026-11-21'
     locator: Artist interview, biography or performance credits
+  divan:
+    source: cinnapey.bandcamp.com-album-music-for-tombak-synth
+    quote: Setar sample on B3 by Mahmood Schricker
+    accessed: '2026-11-21'
+    locator: Artist interview, biography or performance credits
+  issue:
+    source: cinnapey.bandcamp.com-album-music-for-tombak-synth
+    quote: released June 5, 2026
+    accessed: '2026-11-21'
+    locator: Artist interview, biography or performance credits
 ---
 
 Mahmood Schricker is an Iranian musician who plays electric setar and founded Link Music Lab in Toronto. Born in Tehran to a family of Iranian and Austrian heritage, he moved to Canada at sixteen and began making solo records after studying ethnomusicology at York University. He wanted the quiet sound of the setar to carry alongside electronic beats. He worked with instrument maker Behrad Gorgani on an electric setar that could do that.[^birth][^iran][^tor][^link][^york][^sound][^pitch]
@@ -158,3 +168,5 @@ Schricker composed the music for *Radio Dreams* and for Mohsen Emami’s short f
 ## Dastgâmachine and the Toronto sessions
 
 In August 2023, before the trio Dastgâmachine had a name, Schricker played its first concert with electronic musicians Caleb Klager and Jason Rule. The group recorded part of its residency at Tapestry in Toronto’s Kensington Market and released excerpts in January 2025. In May 2026, Schricker and Kimia Koochakzadeh-Yazdi released *Dar Golestaneh Synthesized*, pairing his setar with her electronics.[^debutshow][^caleb][^jr][^record][^triod][^kim][^duo][^may]
+
+On Cinna Peyghamy’s 2026 album *Music for Tombak & Synth*, “Divân” uses a sample of Schricker playing setar.[^divan][^issue]

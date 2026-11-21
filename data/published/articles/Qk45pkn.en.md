@@ -146,6 +146,21 @@ references:
     quote: She received the ars viva Prize for Visual Arts in 2026
     locator: Biography, programme, interview or artist’s work list
     accessed: '2026-11-21'
+  version:
+    source: www.nazaninnoori.com-theurgencyofitall
+    quote: She has reworked the entire piece.
+    locator: Radio version and separate 2021 live performance
+    accessed: '2026-11-21'
+  dates:
+    source: www.nazaninnoori.com-ambienthardcoreinternational
+    quote: 21.11.2022 Sound Scenario for Mutant Radio, Tbilisi
+    locator: Radio performance
+    accessed: '2026-11-21'
+  mutant:
+    source: soundcloud.com-mutantradio-nazanin-noori-female
+    quote: Nazanin Noori [Female Resistance Curated by Spaced Apart]
+    locator: Programme title
+    accessed: '2026-11-21'
 ---
 
 Nazanin Noori writes for modular synthesizer and voice. An Iranian artist born in Wiesbaden in 1991, she studied theatre, film and media in Frankfurt before making Berlin her home. In 2016 she began composing for theatre and film. For Cemile Sahin’s audio play *The Cockroach*, she took charge of the music, costumes and direction. On her first album she kept working from a script, even though no one would hear its words.[^instrument][^born][^iran][^study][^early][^play][^first][^farce]
@@ -154,7 +169,7 @@ The script for *Farce*, released by enmossed in 2020, imagines two groups of peo
 
 ## From the radio to the gallery
 
-For *Pomp*, her monthly radio series from 2019 to 2021, Noori assembled what she called sound scenarios. When she started *Ambient Hardcore* on Berlin’s Refuge Worldwide in 2021, she described her mixes as audio drama. In *Haal*, first performed in Berlin that year, she drew sustained notes from her modular synthesizer and mixed them with recorded Sufi hymns and chants. Deutschlandfunk Kultur broadcast the work in December 2022.[^series][^pompdates][^radio][^prem][^synth][^broadcast]
+For *Pomp*, her monthly radio series from 2019 to 2021, Noori assembled what she called sound scenarios. When she started *Ambient Hardcore* on Berlin’s Refuge Worldwide in 2021, she described her mixes as audio drama. In *Haal*, first performed in Berlin that year, she drew sustained notes from her modular synthesizer and mixed them with recorded Sufi hymns and chants. She reworked the piece for Deutschlandfunk Kultur, which broadcast it in December 2022.[^series][^pompdates][^radio][^prem][^synth][^broadcast][^version] The previous month her mix for Mutant Radio in Tbilisi aired in its *Female Resistance* programme.[^dates][^mutant]
 
 Watching the protests that followed Jina Amini’s death from abroad shaped Noori’s first solo exhibition, *The Echo of Protest Is Distant to the Protest*, in Berlin in 2024. She used sculpture and text to set a scene without actors. A half-hour synthesizer score played through four channels around the audience.[^solo][^protest][^room][^four]
 

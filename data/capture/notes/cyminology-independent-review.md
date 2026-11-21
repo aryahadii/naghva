@@ -9,3 +9,5 @@ Build 68 contains the distinct museum commission and the earlier all-English liv
 An additional repertoire check reopened the catalogue. The producer's native description of the 18 March 2017 Female Voice of Iran performance explicitly bills Samawatie with Cyminology, Tobias Backhaus and Martin Stegner and identifies As ney, Che gune ast, Aaftaab and Baraaye to. Its video title omits the quartet name. The 9.2 verdict above is suspended pending the group/individual credits and these four distinct versions. Revised **8.8/10** (sources 1.9, article 1.8, catalogue 2.3, imagery 0.9, reader experience 1.9).
 
 [Producer's concert film](https://www.youtube.com/watch?v=LBokTew1k6I)
+
+Build 70 adds the full March 2017 performance and four distinct concert renditions to both artist catalogues. It preserves the booklet and the original quartet alongside the five musicians in the live lineup. Final hashes 1999719e1e33 and 70c8e6a4db1f. Both languages show 71 panels and 99 decoded images. Final **9.2/10** (sources 1.9, article 1.8, catalogue 2.7, imagery 0.9, reader experience 1.9). Catalogue and article ready.

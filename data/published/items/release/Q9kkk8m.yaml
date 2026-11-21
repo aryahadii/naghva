@@ -1,0 +1,61 @@
+id: Q9kkk8m
+type: release
+statements:
+  name:
+  - value:
+      text: Miraghsam
+      language: en
+    references:
+    - source: youtu.be-wlup_zey134
+      quote: Justina - Miraghsam | OFFICIAL TRACK جاستینا - میرقصم
+      accessed: 2026-11-21
+      locator: Artist channel video title
+  - value:
+      text: میرقصم
+      language: fa
+    references:
+    - source: youtu.be-wlup_zey134
+      quote: Justina - Miraghsam | OFFICIAL TRACK جاستینا - میرقصم
+      accessed: 2026-11-21
+      locator: Artist channel video title
+  performer:
+  - value: Q2fdqjp
+    references:
+    - source: youtu.be-wlup_zey134
+      quote: Justina - Miraghsam | OFFICIAL TRACK جاستینا - میرقصم
+      accessed: 2026-11-21
+      locator: Artist channel video title
+  listen link:
+  - value: https://youtu.be/Wlup_zeY134
+    references:
+    - source: youtu.be-wlup_zey134
+      quote: Justina - Miraghsam | OFFICIAL TRACK جاستینا - میرقصم
+      accessed: 2026-11-21
+      locator: Artist channel video title
+  - value: https://youtu.be/gjJpQO4zgaU
+    references:
+    - source: youtu.be-gjjpqo4zgau
+      quote: Justina - Miraghsam | OFFICIAL MUSIC VIDEO جاستینا - میرقصم
+      accessed: 2026-11-21
+      locator: Artist channel video title
+  - value: https://music.apple.com/us/song/miraghsam/1691052232
+    references:
+    - source: music.apple.com-us-album-miraghsam-single-1691052229
+      quote: Miraghsam
+      accessed: 2026-11-21
+      locator: Apple recording name and billing
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1a/d2/94/1ad2948f-5e4f-0eac-710e-78e221af4fae/cover.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-miraghsam-single-1691052229
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1a/d2/94/1ad2948f-5e4f-0eac-710e-78e221af4fae/cover.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Apple edition artwork
+  release date:
+  - value:
+      date: '2019-04-01'
+    references:
+    - source: music.apple.com-us-album-miraghsam-single-1691052229
+      quote: '2019-04-01'
+      accessed: 2026-11-21
+      locator: Digital edition release date

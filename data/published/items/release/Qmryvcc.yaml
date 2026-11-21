@@ -25,6 +25,12 @@ statements:
         Music
       accessed: '2026-11-21'
       locator: Page title
+  - value: https://open.spotify.com/album/1WEMbrZjS8MrmAkf5GQKIi
+    references:
+    - source: open.spotify.com-album-1wembrzjs8mrmakf5gqkii
+      quote: Listen to The Past Is Particle, The Future Is Wave - EP by Cinna Peyghamy | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
   performer:
   - value: Qxkh2tz
     references:

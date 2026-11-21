@@ -168,3 +168,11 @@ Independent review on 2026-11-21. **8.7/10** · Sources 1.9, prose 1.8, recordin
 ### Sina Salimi, second independent review on 2026-11-21
 
 **9.2/10** · Sources 1.9, prose 1.9, recordings 2.6, images 1.0, gaps and reader experience 1.8. English and Persian hashes are 5e743aa52f13 and a9f89b746d21. The 84-panel builds include the Shahrema Archive concert and the native SoundCloud discography. The improved article describes the making of Inner Scripts and identifies the advertised Reading Hafez for My Mother taping. Both versions decoded 167 images each and contain working fragments. Article and catalogue ready.
+
+### The Casualty Process
+
+Independent review on 2026-11-21. **9.2/10** · Sources 1.9, prose 1.9, recordings 2.6, images 1.0, gaps and reader experience 1.8. The 31-panel English and Persian pages (2e81a08fafeb and 23eed8d6fce7) each decoded all 41 images and contain working fragment links. The Plastic Wave archive and contemporary Iranian catalogue support the continuity of the project. The 2015 Spectrum eyewitness account confirms the temporary return of Shayan Amini alongside Austin Dacey. Iranian.com's original embed identifies the B-Sides performance of On the Ground as distinct from the EP. The source note records ambiguity about the original album's issue date and the later announced So Gone. Catalogue and article ready.
+
+### Trickster Orchestra
+
+First independent review on 2026-11-21. **8.0/10** · Sources 1.8, prose 1.6, recordings 2.0, images 1.0, gaps and reader experience 1.6. The 27-panel English and Persian pages (5531edc2871c and 234cd96ccd5e) decoded all 27 images with intact fragment links. The 2026 WDR set lists multiple recorded works beyond the present entries. The orchestra's own Linktree links a second album with Pantopia Music. The pre-renaming ensemble is documented on its original 2013 performance film. Article and catalogue await reconciliation.

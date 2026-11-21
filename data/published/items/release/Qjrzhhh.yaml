@@ -1,0 +1,59 @@
+id: Qjrzhhh
+type: release
+statements:
+  name:
+  - value:
+      text: Scenario
+      language: en
+    references:
+    - source: youtu.be-odzfnlxz1pa
+      quote: Scenario jamin ft (Justina)
+      accessed: 2026-11-21
+      locator: Artist channel video title
+  performer:
+  - value: Q2fdqjp
+    references:
+    - source: youtu.be-odzfnlxz1pa
+      quote: Scenario jamin ft (Justina)
+      accessed: 2026-11-21
+      locator: Artist channel video title
+  - value: Qevmv7f
+    references:
+    - source: youtu.be-odzfnlxz1pa
+      quote: Scenario jamin ft (Justina)
+      accessed: 2026-11-21
+      locator: Artist channel video title
+  listen link:
+  - value: https://youtu.be/oDzFnlXZ1pA
+    references:
+    - source: youtu.be-odzfnlxz1pa
+      quote: Scenario jamin ft (Justina)
+      accessed: 2026-11-21
+      locator: Artist channel video title
+  - value: https://music.apple.com/us/song/scenario-feat-justina/1768086546
+    references:
+    - source: music.apple.com-us-album-scenario-feat-justina-single-1768086544
+      quote: Scenario (feat. Justina)
+      accessed: 2026-11-21
+      locator: Apple recording name and billing
+  - value: https://open.spotify.com/track/3FkQ7YgKpB4KUBHLieMRUE
+    references:
+    - source: open.spotify.com-album-24snpjauzcxzcmek9gnygp
+      quote: Scenario
+      accessed: 2026-11-21
+      locator: Native recording title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/df/02/35df0271-2dec-b72c-4e2c-74b72d57041f/cover.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-scenario-feat-justina-single-1768086544
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/df/02/35df0271-2dec-b72c-4e2c-74b72d57041f/cover.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Apple edition artwork
+  release date:
+  - value:
+      date: '2024-09-12'
+    references:
+    - source: music.apple.com-us-album-scenario-feat-justina-single-1768086544
+      quote: '2024-09-12'
+      accessed: 2026-11-21
+      locator: Digital edition release date
