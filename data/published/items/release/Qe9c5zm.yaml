@@ -1,0 +1,69 @@
+id: Qe9c5zm
+type: release
+statements:
+  name:
+  - value:
+      text: A Lament for The Living
+      language: en
+    references:
+    - source: music.apple.com-us-song-1831393101
+      quote: ‎A Lament for The Living - Song with Lyrics by Rouzbeh Esfand - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qzchcs8
+    references:
+    - source: music.apple.com-us-song-1831393101
+      quote: ‎A Lament for The Living - Song with Lyrics by Rouzbeh Esfand - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://music.apple.com/us/song/1831393101
+    references:
+    - source: music.apple.com-us-song-1831393101
+      quote: ‎A Lament for The Living - Song with Lyrics by Rouzbeh Esfand - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/a-lament-for-the-living/1831393100
+    references:
+    - source: music.apple.com-us-album-a-lament-for-the-living-1831393100
+      quote: ‎A Lament for The Living - Single - Album by Rouzbeh Esfand - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/album/0v7JN2Iao3rmo7jcukODIH
+    references:
+    - source: open.spotify.com-album-0v7jn2iao3rmo7jcukodih
+      quote: Listen to A Lament for The Living - Single by Rouzbeh Esfand | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/47xil6Zr0zATEo1AMAGsrY
+    references:
+    - source: open.spotify.com-track-47xil6zr0zateo1amagsry
+      quote: A Lament for The Living - song and lyrics by Rouzbeh Esfand | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/rouzbeh-esfandarmaz/a-lament-for-the-living-feat-julie-hasfjord
+    references:
+    - source: soundcloud.com-rouzbeh-esfandarmaz-a-lament-for-the-living-feat-julie-hasfjord
+      quote: Stream A Lament For The Living (feat. Julie Hasfjord) by Rouzbeh Esfand | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2024-04-12'
+    references:
+    - source: music.apple.com-us-song-1831393101
+      quote: April 12, 2024
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a8/9d/1b/a89d1b14-a6e9-46a8-6159-3a34c31854b3/7300345593155.jpg/600x600bb.webp
+    references:
+    - source: music.apple.com-us-song-1831393101
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a8/9d/1b/a89d1b14-a6e9-46a8-6159-3a34c31854b3/7300345593155.jpg/600x600bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original publisher artwork
+        language: en

@@ -1,0 +1,58 @@
+id: Qa252ab
+type: release
+statements:
+  name:
+  - value:
+      text: For LA, Vol. 2 (Nettwerk edition)
+      language: en
+    references:
+    - source: music.apple.com-us-album-1794395618
+      quote: ‎For La, Vol. 2 - Album by Various Artists - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  release type:
+  - value: compilation
+    references:
+    - source: open.spotify.com-album-6r2x0ov55rusfp4yixpnwt
+      quote: Listen to For LA, Vol. 2 - Compilation by Various Artists | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qks2dfk
+    references:
+    - source: music.apple.com-us-album-1794395618
+      quote: Ava Rasti
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://music.apple.com/us/album/1794395618
+    references:
+    - source: music.apple.com-us-album-1794395618
+      quote: ‎For La, Vol. 2 - Album by Various Artists - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/album/6r2x0oV55RUsFP4yIXpnWT
+    references:
+    - source: open.spotify.com-album-6r2x0ov55rusfp4yixpnwt
+      quote: Listen to For LA, Vol. 2 - Compilation by Various Artists | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d0000b273b614356014e5417e396b3044
+    references:
+    - source: open.spotify.com-album-6r2x0ov55rusfp4yixpnwt
+      quote: https://i.scdn.co/image/ab67616d0000b273b614356014e5417e396b3044
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Publisher artwork
+        language: en
+  release date:
+  - value:
+      date: '2025-02-07'
+    references:
+    - source: music.apple.com-us-album-1794395618
+      quote: February 7, 2025
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits

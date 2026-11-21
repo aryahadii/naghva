@@ -1,0 +1,66 @@
+id: Q5hzxp6
+type: release
+statements:
+  name:
+  - value:
+      text: Durent
+      language: en
+    references:
+    - source: music.apple.com-us-album-durent-single-1812789061
+      quote: Durent
+      accessed: 2026-11-21
+      locator: Individual track
+  performer:
+  - value: Qzcqddt
+    references:
+    - source: open.spotify.com-album-5qulilprdhg7emqhbf3cqy
+      quote: Durent · Rostam Mirlashari
+      accessed: 2026-11-21
+      locator: Track 1
+  listen link:
+  - value: https://music.apple.com/us/song/durent/1812789062
+    references:
+    - source: music.apple.com-us-album-durent-single-1812789061
+      quote: Durent
+      accessed: 2026-11-21
+      locator: Individual track
+  - value: https://open.spotify.com/track/1M4pb4VKozuMw6gm9co5A3
+    references:
+    - source: open.spotify.com-album-5qulilprdhg7emqhbf3cqy
+      quote: Durent · Rostam Mirlashari
+      accessed: 2026-11-21
+      locator: Spotify record
+  - value: https://music.apple.com/us/album/durent-single/1812789061
+    references:
+    - source: music.apple.com-us-album-durent-single-1812789061
+      quote: Durent - Single · Rostam Mirlashari · 2025-05-10
+      accessed: 2026-11-21
+      locator: Album billing and date
+  - value: https://open.spotify.com/album/5QuLIlPRDhg7eMQHBf3cqY
+    references:
+    - source: open.spotify.com-album-5qulilprdhg7emqhbf3cqy
+      quote: Durent · Rostam Mirlashari
+      accessed: 2026-11-21
+      locator: Spotify record
+  release date:
+  - value:
+      date: '2025-05-10'
+    references:
+    - source: music.apple.com-us-album-durent-single-1812789061
+      quote: Durent
+      accessed: 2026-11-21
+      locator: Individual track
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-durent-single-1812789061
+      quote: Durent
+      accessed: 2026-11-21
+      locator: Individual track
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ee/bf/2d/eebf2d11-ff60-0b0e-887d-00a1b9863430/artwork.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-durent-single-1812789061
+      quote: Durent
+      accessed: 2026-11-21
+      locator: Individual track

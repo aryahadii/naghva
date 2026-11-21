@@ -1,0 +1,63 @@
+id: Qx735n5
+type: release
+statements:
+  name:
+  - value:
+      text: Where The Light Remembers
+      language: en
+    references:
+    - source: music.apple.com-us-song-1831132138
+      quote: ‎Where The Light Remembers - Song with Lyrics by Rouzbeh Esfand - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qzchcs8
+    references:
+    - source: music.apple.com-us-song-1831132138
+      quote: ‎Where The Light Remembers - Song with Lyrics by Rouzbeh Esfand - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://music.apple.com/us/song/1831132138
+    references:
+    - source: music.apple.com-us-song-1831132138
+      quote: ‎Where The Light Remembers - Song with Lyrics by Rouzbeh Esfand - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/where-the-light-remembers/1831132137
+    references:
+    - source: music.apple.com-us-album-where-the-light-remembers-1831132137
+      quote: ‎Where The Light Remembers - Single - Album by Rouzbeh Esfand - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/album/6avVIMsxNzt25BpUFeOyR8
+    references:
+    - source: open.spotify.com-album-6avvimsxnzt25bpufeoyr8
+      quote: Listen to Where The Light Remembers - Single by Rouzbeh Esfand | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/5fXEoitSz5TcnDxUQpEopL
+    references:
+    - source: open.spotify.com-track-5fxeoitsz5tcndxuqpeopl
+      quote: Where The Light Remembers - song and lyrics by Rouzbeh Esfand | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2025-08-31'
+    references:
+    - source: music.apple.com-us-song-1831132138
+      quote: August 31, 2025
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/80/b5/11/80b51150-d8a8-a92b-0291-bc75ce125aca/7300345577384.jpg/600x600bb.webp
+    references:
+    - source: music.apple.com-us-song-1831132138
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/80/b5/11/80b51150-d8a8-a92b-0291-bc75ce125aca/7300345577384.jpg/600x600bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original publisher artwork
+        language: en

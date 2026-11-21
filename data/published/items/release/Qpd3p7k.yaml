@@ -1,0 +1,112 @@
+id: Qpd3p7k
+type: release
+statements:
+  name:
+  - value:
+      text: Hélé
+      language: en
+    references:
+    - source: esfand.bandcamp.com-track-h-l
+      quote: Hélé | Esfand
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qt394nr
+    references:
+    - source: esfand.bandcamp.com-album-h-l
+      quote: Hélé | Esfand
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Q49prrc
+    references:
+    - source: esfand.bandcamp.com-album-h-l
+      quote: Percussions on Hélé by Habib Meftah
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: percussion
+  contributor:
+  - value: Qzchcs8
+    references:
+    - source: esfand.bandcamp.com-album-h-l
+      quote: All tracks produced by Rouzbeh Esfandarmaz and Patrick Stewart
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: producer
+  - value: Qs7pdbm
+    references:
+    - source: esfand.bandcamp.com-album-h-l
+      quote: All tracks produced by Rouzbeh Esfandarmaz and Patrick Stewart
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: producer
+  listen link:
+  - value: https://esfand.bandcamp.com/track/h-l
+    references:
+    - source: esfand.bandcamp.com-track-h-l
+      quote: Hélé | Esfand
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/h%C3%A9l%C3%A9-feat-habib-meftah/1607985790
+    references:
+    - source: music.apple.com-us-album-h-c3-a9l-c3-a9-feat-habib-meftah-1607985790
+      quote: ‎Hélé (feat. Habib Meftah) - Single - Album by Esfand - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1607985791
+    references:
+    - source: music.apple.com-us-song-1607985791
+      quote: ‎Hélé (feat. Habib Meftah) - Song with Lyrics by Esfand - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1607571716
+    references:
+    - source: music.apple.com-us-song-1607571716
+      quote: ‎Hélé (feat. Habib Meftah) - Song with Lyrics by Esfand - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/album/1Vf7Nl4po0xTsA9pLT7XXs
+    references:
+    - source: open.spotify.com-album-1vf7nl4po0xtsa9plt7xxs
+      quote: Listen to Hélé - Single by Esfand | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/0gJU4kTmKXRUyMT3dyJHfb
+    references:
+    - source: open.spotify.com-track-0gju4ktmkxruymt3dyjhfb
+      quote: Hélé - song and lyrics by Esfand, Habib Meftah | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/6vD8jpgKTtg2W0Gjf5mvAE
+    references:
+    - source: open.spotify.com-track-6vd8jpgkttg2w0gjf5mvae
+      quote: Hélé - song and lyrics by Esfand, Habib Meftah | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://www.youtube.com/watch?v=ixKGdWJ3Mc8
+    references:
+    - source: www.youtube.com-watch-v-ixkgdwj3mc8
+      quote: Esfand - Hélé
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a1125361212_10.jpg
+    references:
+    - source: esfand.bandcamp.com-album-h-l
+      quote: https://f4.bcbits.com/img/a1125361212_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original label artwork
+        language: en
+  release date:
+  - value:
+      date: '2022-03-04'
+    references:
+    - source: esfand.bandcamp.com-album-h-l
+      quote: released March 4, 2022
+      accessed: '2026-11-21'
+      locator: Published date

@@ -1,0 +1,74 @@
+id: Qdtembx
+type: release
+statements:
+  name:
+  - value:
+      text: Gilava
+      language: en
+    references:
+    - source: esfand.bandcamp.com-track-gilava
+      quote: Gilava | Esfand
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qt394nr
+    references:
+    - source: esfand.bandcamp.com-album-h-l
+      quote: Hélé | Esfand
+      accessed: '2026-11-21'
+      locator: Page title
+  contributor:
+  - value: Qzchcs8
+    references:
+    - source: esfand.bandcamp.com-album-h-l
+      quote: All tracks produced by Rouzbeh Esfandarmaz and Patrick Stewart
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: producer
+  - value: Qs7pdbm
+    references:
+    - source: esfand.bandcamp.com-album-h-l
+      quote: All tracks produced by Rouzbeh Esfandarmaz and Patrick Stewart
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: producer
+  listen link:
+  - value: https://esfand.bandcamp.com/track/gilava
+    references:
+    - source: esfand.bandcamp.com-track-gilava
+      quote: Gilava | Esfand
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1607571718
+    references:
+    - source: music.apple.com-us-song-1607571718
+      quote: ‎Gilava - Song with Lyrics by Esfand - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/5vaqBHlWpMBR8YS0x8y7zm
+    references:
+    - source: open.spotify.com-track-5vaqbhlwpmbr8ys0x8y7zm
+      quote: Gilava - song and lyrics by Esfand | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a1125361212_10.jpg
+    references:
+    - source: esfand.bandcamp.com-album-h-l
+      quote: https://f4.bcbits.com/img/a1125361212_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original label artwork
+        language: en
+  release date:
+  - value:
+      date: '2022-03-04'
+    references:
+    - source: esfand.bandcamp.com-album-h-l
+      quote: released March 4, 2022
+      accessed: '2026-11-21'
+      locator: Published date

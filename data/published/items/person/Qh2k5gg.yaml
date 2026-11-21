@@ -10,10 +10,39 @@ statements:
       quote: Sanaz Sattarzadeh
       accessed: '2026-11-21'
       locator: Album headline billing
+  - value:
+      text: ساناز ستّارزاده
+      language: fa
+    references:
+    - source: t.me-mahoorinstitute-3650embed-1
+      quote: ساناز ستّارزاده
+      locator: Original programme, liner notes or performer credit
+      accessed: '2026-11-21'
   member of:
   - value: Qn5vbwr
     references:
     - source: rokhquartet.art
       quote: Sanaz Sattarzadeh
+      locator: Original programme, liner notes or performer credit
+      accessed: '2026-11-21'
+  - value: Qvnj2sh
+    references:
+    - source: www.sarkhat.com-fa-group-hcfdoc
+      quote: ساناز ستارزاده
+      locator: Original programme, liner notes or performer credit
+      accessed: '2026-11-21'
+  image:
+  - value: https://rokhquartet.art/wp-content/uploads/2025/02/Site-sanaz.png
+    references:
+    - source: rokhquartet.art
+      quote: https://rokhquartet.art/wp-content/uploads/2025/02/Site-sanaz.png
+      locator: Original programme, liner notes or performer credit
+      accessed: '2026-11-21'
+  birth date:
+  - value:
+      date: '1984'
+    references:
+    - source: rokhquartet.art
+      quote: Born in 1984 in Tehran
       locator: Original programme, liner notes or performer credit
       accessed: '2026-11-21'

@@ -1,0 +1,64 @@
+id: Q9jpey2
+type: release
+statements:
+  name:
+  - value:
+      text: 'Avâz-E Afshâri: Pishdarâmad'
+      language: en
+    references:
+    - &id001
+      source: music.apple.com-us-album-iran-music-of-the-qajar-era-848988435
+      quote: 'Avâz-E Afshâri: Pishdarâmad'
+      accessed: '2026-11-21'
+      locator: Original track and guests
+  performer:
+  - value: Qewdtv2
+    references:
+    - source: music.apple.com-us-album-iran-music-of-the-qajar-era-848988435
+      quote: Ensemble Delgosha
+      accessed: '2026-11-21'
+      locator: Artist credit
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music/v4/94/e2/d5/94e2d599-6cb6-a06f-bbb4-0bb0ee43da45/cover.jpg/1200x630wp-60.jpg
+    references:
+    - source: music.apple.com-us-album-iran-music-of-the-qajar-era-848988435
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music/v4/94/e2/d5/94e2d599-6cb6-a06f-bbb4-0bb0ee43da45/cover.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Original digital cover
+    qualifiers:
+      credit:
+        text: INEDIT / Maison des Cultures du Monde
+        language: en
+  release date:
+  - value:
+      date: '2014-05-12'
+    references:
+    - source: music.apple.com-us-album-iran-music-of-the-qajar-era-848988435
+      quote: '2014-05-12'
+      accessed: '2026-11-21'
+      locator: First digital issue
+  listen link:
+  - value: https://music.apple.com/us/song/av%C3%A2z-e-afsh%C3%A2ri-pishdar%C3%A2mad/848988538
+    references:
+    - *id001
+  - value: https://open.spotify.com/track/1aZy5qGSk0HqocQlM46Xyl
+    references:
+    - source: open.spotify.com-embed-album-3fpiw5hxltwwqfy1gw6hjs
+      quote: 'Avâz-E Afshâri: Pishdarâmad'
+      accessed: '2026-11-21'
+      locator: Original Spotify track
+  - value: https://www.youtube.com/watch?v=p_El6XtC-M8
+    references:
+    - source: www.youtube.com-watch-v-p_el6xtc-m8
+      quote: 'Avâz-E Afshâri: Pishdarâmad'
+      accessed: '2026-11-21'
+      locator: Original YouTube digital master
+  contributor:
+  - value: Q3br2x3
+    references:
+    - source: qobuz-delgosha-iran-qajar-era
+      quote: Reza Mahjoubi, Composer
+      locator: Original edition credits, track 1
+      accessed: '2026-11-21'
+    qualifiers:
+      role: composer

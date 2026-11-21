@@ -1,0 +1,74 @@
+id: Qgyf2gv
+type: release
+statements:
+  name:
+  - value:
+      text: Dagger Dance
+      language: en
+    references:
+    - source: esfand.bandcamp.com-track-dagger-dance
+      quote: Dagger Dance | Esfand
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qt394nr
+    references:
+    - source: esfand.bandcamp.com-album-h-l
+      quote: Hélé | Esfand
+      accessed: '2026-11-21'
+      locator: Page title
+  contributor:
+  - value: Qzchcs8
+    references:
+    - source: esfand.bandcamp.com-album-h-l
+      quote: All tracks produced by Rouzbeh Esfandarmaz and Patrick Stewart
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: producer
+  - value: Qs7pdbm
+    references:
+    - source: esfand.bandcamp.com-album-h-l
+      quote: All tracks produced by Rouzbeh Esfandarmaz and Patrick Stewart
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: producer
+  listen link:
+  - value: https://esfand.bandcamp.com/track/dagger-dance
+    references:
+    - source: esfand.bandcamp.com-track-dagger-dance
+      quote: Dagger Dance | Esfand
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1607571717
+    references:
+    - source: music.apple.com-us-song-1607571717
+      quote: ‎Dagger Dance - Song with Lyrics by Esfand - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/30jSUFNLYbze2god1ENmz7
+    references:
+    - source: open.spotify.com-track-30jsufnlybze2god1enmz7
+      quote: Dagger Dance - song and lyrics by Esfand | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a1125361212_10.jpg
+    references:
+    - source: esfand.bandcamp.com-album-h-l
+      quote: https://f4.bcbits.com/img/a1125361212_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original label artwork
+        language: en
+  release date:
+  - value:
+      date: '2022-03-04'
+    references:
+    - source: esfand.bandcamp.com-album-h-l
+      quote: released March 4, 2022
+      accessed: '2026-11-21'
+      locator: Published date

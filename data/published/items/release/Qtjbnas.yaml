@@ -1,0 +1,43 @@
+id: Qtjbnas
+type: release
+statements:
+  name:
+  - value:
+      text: Pantea Alvandipour (Iran)
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-qtd_8a4u0as
+      quote: Pantea Alvandipour (Iran)
+      accessed: '2026-11-21'
+      locator: Original festival film
+  performer:
+  - value: Qewdtv2
+    references:
+    - source: ensemble-delgosha-paris
+      quote: Avec l'ensemble Delgosha
+      accessed: '2026-11-21'
+      locator: Presenter billing
+  - value: Qdbm253
+    references:
+    - source: ensemble-delgosha-paris
+      quote: Pantea Alvandipour
+      accessed: '2026-11-21'
+      locator: Original musician credit
+    qualifiers:
+      role: vocals
+  listen link:
+  - value: https://www.youtube.com/watch?v=QTD_8a4u0As
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/QTD_8a4u0As/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-qtd_8a4u0as
+      quote: https://i.ytimg.com/vi/QTD_8a4u0As/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original presenter video
+    qualifiers:
+      credit:
+        text: Maison des Cultures du Monde
+        language: en

@@ -7,37 +7,33 @@ statements:
       language: en
     references:
     - source: habibmeftah.bandcamp.com-track-1000-farsang
-      quote: |-
-        1000 FARSANG by HABIB MEFTAH AND ROUZBEH ESFAND
+      quote: 1000 FARSANG by HABIB MEFTAH AND ROUZBEH ESFAND
       accessed: '2026-10-19'
   release date:
   - value:
       date: '2025-01-14'
     references:
     - source: habibmeftah.bandcamp.com-track-1000-farsang
-      quote: |-
-        released January 14, 2025
+      quote: released January 14, 2025
       accessed: '2026-10-19'
   release type:
   - value: single
     references:
     - source: music.apple.com-us-album-1000-farsang-feat-rouzbeh-esfand-single-1793180307
-      quote: |-
-        Listen to 1000 Farsang (feat. ROUZBEH ESFAND) - Single by Habib Meftah on Apple Music. 2025. 1 Song. Duration: 3 minutes.
+      quote: 'Listen to 1000 Farsang (feat. ROUZBEH ESFAND) - Single by Habib Meftah on Apple Music. 2025. 1 Song. Duration: 3 minutes.'
       accessed: '2026-10-22'
   performer:
   - value: Q49prrc
     references:
     - source: habibmeftah.bandcamp.com-track-1000-farsang
-      quote: |-
-        1000 FARSANG by HABIB MEFTAH AND ROUZBEH ESFAND
+      quote: 1000 FARSANG by HABIB MEFTAH AND ROUZBEH ESFAND
       accessed: '2026-10-19'
-  - value: Q4nfpbq
+  - value: Qzchcs8
     references:
-    - source: habibmeftah.bandcamp.com-track-1000-farsang
-      quote: |-
-        1000 FARSANG by HABIB MEFTAH AND ROUZBEH ESFAND
-      accessed: '2026-10-19'
+    - source: music.apple.com-us-song-1793180308
+      quote: ‎1000 Farsang (feat. Rouzbeh Esfand) - Song with Lyrics by Habib Meftah - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
   contributor:
   - value: Qhpynb6
     references:
@@ -51,8 +47,7 @@ statements:
   - value: https://habibmeftah.bandcamp.com/track/1000-farsang
     references:
     - source: habibmeftah.bandcamp.com-track-1000-farsang
-      quote: |-
-        1000 FARSANG by HABIB MEFTAH AND ROUZBEH ESFAND
+      quote: 1000 FARSANG by HABIB MEFTAH AND ROUZBEH ESFAND
       accessed: '2026-10-19'
   - value: https://music.apple.com/us/album/1000-farsang-feat-rouzbeh-esfand-single/1793180307
     references:
@@ -62,15 +57,25 @@ statements:
   - value: https://open.spotify.com/track/4FJQ1CPeancCjLnnhQzm4Y
     references:
     - source: open.spotify.com-track-4fjq1cpeanccjlnnhqzm4y
-      quote: |-
-        1000 Farsang
+      quote: 1000 Farsang
       accessed: '2026-10-22'
   - value: https://soundcloud.com/habib-boushehri/habib-meftah-1000-farsang-ft-rouzbeh-esfand
     references:
     - source: soundcloud.com-habib-boushehri-habib-meftah-1000-farsang-ft-rouzbeh-esfand
-      quote: |-
-        1000 Farsang - Habib Meftah (Ft. Rouzbeh Esfand)
+      quote: 1000 Farsang - Habib Meftah (Ft. Rouzbeh Esfand)
       accessed: '2026-10-22'
+  - value: https://music.apple.com/us/song/1793180308
+    references:
+    - source: music.apple.com-us-song-1793180308
+      quote: ‎1000 Farsang (feat. Rouzbeh Esfand) - Song with Lyrics by Habib Meftah - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/1000-farsang-feat-rouzbeh-esfand/1793180307
+    references:
+    - source: music.apple.com-us-album-1000-farsang-feat-rouzbeh-esfand-1793180307
+      quote: ‎1000 Farsang (feat. ROUZBEH ESFAND) - Single - Album by Habib Meftah - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
   cover art:
   - value: https://f4.bcbits.com/img/a3456972124_5.jpg
     qualifiers:
@@ -79,6 +84,5 @@ statements:
         language: en
     references:
     - source: habibmeftah.bandcamp.com-track-1000-farsang
-      quote: |-
-        1000 FARSANG by HABIB MEFTAH AND ROUZBEH ESFAND
+      quote: 1000 FARSANG by HABIB MEFTAH AND ROUZBEH ESFAND
       accessed: '2026-10-19'

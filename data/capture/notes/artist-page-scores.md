@@ -298,3 +298,11 @@ Both scored 9.2/10 on checkpoint 47, with separate article and catalogue readine
 ### Ensamble Didar
 
 9.2/10 at checkpoint 48. Article and catalogue ready. Mexico’s arts ministry interview distinguishes the 2015 invitation, the separately recorded May 2017 set and the two later June appearances. The broadcaster’s cue sheet and the director’s retrospective establish individual concert selections, composers and the participating musicians. Both languages showed all 31 catalogue panels and 23 decoded images with working local fragments.
+
+### Hami Hamoo
+
+9.1/10 at checkpoint 50. Article and catalogue ready. Au Fil des Voix’s programme supplies the trio’s reason for turning to Bushehr’s musical history, giving the listener a connection between the three musicians and their first album. Verified the nine album pieces, prerelease single and separate label performances, along with artist billing in both digital stores. The two pages each showed 13 panels and 23 decoded images. Local fragments worked.
+
+### Ava Rasti and Mehdi Moshtagh
+
+Both passed at 9.3/10 on checkpoint 51. Article and catalogue ready. Rasti’s 68 panels distinguish the original 31-track Los Angeles benefit from the label’s later edition and retain her artist-named compilation tracks, Semibreve quartet film and festival-documented screen credits. All 129 images decoded per language. Moshtagh’s 186 panels distinguish the Foro 81 radio recording from the other Ajedrez Mundo performance and now include the 2026 CENART anniversary film, the filmmaker’s confirmed setar role and the documented Delgoshá ensemble in Mexico. All 365 images decoded per language. Both pairs of pages had working local links.

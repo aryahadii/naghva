@@ -1,0 +1,59 @@
+id: Qspwxmc
+type: release
+statements:
+  name:
+  - value:
+      text: Bigah
+      language: en
+    references:
+    - source: soundcloud.com-rouzbeh-esfandarmaz-3h0i7unpb1ul
+      quote: Stream بی‌گاه - با همراهی گروه تریوله by Rouzbeh Esfand | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qzchcs8
+    references:
+    - source: soundcloud.com-rouzbeh-esfandarmaz-3h0i7unpb1ul
+      quote: Stream بی‌گاه - با همراهی گروه تریوله by Rouzbeh Esfand | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qzchcs8
+    references:
+    - source: soundcloud.com-rouzbeh-esfandarmaz-3h0i7unpb1ul
+      quote: 'کلارینت: روزبه اسفندارمز'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: clarinet
+  listen link:
+  - value: https://soundcloud.com/rouzbeh-esfandarmaz/3h0i7unpb1ul
+    references:
+    - source: soundcloud.com-rouzbeh-esfandarmaz-3h0i7unpb1ul
+      quote: Stream بی‌گاه - با همراهی گروه تریوله by Rouzbeh Esfand | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/album/2j5uXSBe5CcpztHStoIlOI
+    references:
+    - source: open.spotify.com-album-2j5uxsbe5ccpzthstoiloi
+      quote: Listen to Bigah - Single by Triolet Band | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-000678318577-yuj9vx-t500x500.jpg
+    references:
+    - source: soundcloud.com-rouzbeh-esfandarmaz-3h0i7unpb1ul
+      quote: https://i1.sndcdn.com/artworks-000678318577-yuj9vx-t500x500.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original publisher artwork
+        language: en
+  release date:
+  - value:
+      date: '2020-02-01'
+    references:
+    - source: soundcloud.com-rouzbeh-esfandarmaz-3h0i7unpb1ul
+      quote: '2020-02-01'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits

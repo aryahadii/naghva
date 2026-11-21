@@ -38,3 +38,5 @@ The agency identifies its artist portrait as Alexandre Katchkaev. Kayhan reports
 - Yar (Qe74k6a) · https://music.apple.com/us/song/yar/1888643554 · https://open.spotify.com/track/6IhcPsNWo46zv7jxYWU5Tk · https://www.youtube.com/watch?v=Dh_PPww8_eU
 - Lut's Calling (Qcgn2rr) · https://music.apple.com/us/song/luts-calling-feat-hura-mirshekari/1827992834 · https://open.spotify.com/track/1HN5i3K273Ec50wNrmSZZX · https://enovae.bandcamp.com/track/luts-calling-feat-hura-mirshekari
 - JIN JIYAN AZADÎ: Voices for Iran (Q7b3bqy) · https://909connection.bandcamp.com/album/jin-jiyan-azad-voices-for-iran
+
+The agency also links a private listening copy of her album. Its public address did not expose the playlist, and its private share token is omitted. The group’s original nine public uploads and the singer’s public recordings are inventoried separately.

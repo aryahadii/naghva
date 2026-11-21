@@ -30,6 +30,12 @@ statements:
       quote: Lucid Dream - song and lyrics by Ava Rasti | Spotify
       accessed: '2026-11-21'
       locator: Page title
+  - value: https://heliosmusic.bandcamp.com/track/lucid-dream
+    references:
+    - source: heliosmusic.bandcamp.com-track-lucid-dream
+      quote: Lucid Dream | Ava Rasti | Keith Kenniff + Hollie Kenniff
+      accessed: '2026-11-21'
+      locator: Page title
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d3/e4/bc/d3e4bcd5-872c-b08c-02d4-03f2fcfa594d/067003172059.png/600x600bb.webp
     references:

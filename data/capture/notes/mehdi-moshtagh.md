@@ -177,3 +177,5 @@ The performer’s 159-upload original archive, earlier Mona Art publications, th
 - Setar:Mehdi Moshtagh,Djembe:Francisco bringas (Qrvc82s) · https://www.youtube.com/watch?v=n8sgeKhLGlI
 - Mehdi Moshtagh & Majid Hesabi ,مهدی مشتاق & مجید حسابی (Q473ekg) · https://www.youtube.com/watch?v=nWgqJXqV_hw
 - La Ciudad Quemada (Intersecciones) (Qebgscj) ·
+
+The presenter published the anniversary concert (Qs99da6). Radio Educación’s 2015 programme carries the separate Ajedrez Mundo performance by the three musicians at Foro 81 (Q9f83z3). The Zacatecas festival credits him as founder of Ensamble Delgoshá in Mexico, which the Chamber of Deputies dates to 2015. The same name was used by separate ensembles in Tehran and Europe.

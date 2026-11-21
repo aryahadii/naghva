@@ -1,0 +1,49 @@
+id: Qgkmwbq
+type: release
+statements:
+  name:
+  - value:
+      text: Ghazal
+      language: en
+    references:
+    - source: open.spotify.com-track-6iqbdvme7giakonpjij4n8
+      quote: Ghazal - song and lyrics by Karvan | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qepzbpa
+    references:
+    - source: open.spotify.com-track-6iqbdvme7giakonpjij4n8
+      quote: Ghazal - song and lyrics by Karvan | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qnn5esv
+    references:
+    - source: audio.urcm.net-musica-de-baluchistan-de-un-pueblo
+      quote: Abdulrahman Surizehi & Javid Afsari Rad - Ghazal
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Qz9hcyk
+    references:
+    - source: audio.urcm.net-musica-de-baluchistan-de-un-pueblo
+      quote: Abdulrahman Surizehi & Javid Afsari Rad - Ghazal
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://open.spotify.com/track/6iQbDVME7gIaKONPjIj4N8
+    references:
+    - source: open.spotify.com-track-6iqbdvme7giakonpjij4n8
+      quote: Ghazal - song and lyrics by Karvan | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d0000b273afa1b2956d8c6e4554784d11
+    references:
+    - source: open.spotify.com-album-6ea5qy5kzcfbv4apxazfrr
+      quote: https://i.scdn.co/image/ab67616d0000b273afa1b2956d8c6e4554784d11
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original publisher artwork
+        language: en

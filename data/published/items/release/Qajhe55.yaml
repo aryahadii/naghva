@@ -1,0 +1,82 @@
+id: Qajhe55
+type: release
+statements:
+  name:
+  - value:
+      text: Without Foot, Without Head (feat. Misagh Moradi)
+      language: en
+    references:
+    - source: esfand.bandcamp.com-track-without-foot-without-head-feat-misagh-moradi
+      quote: Without Foot, Without Head (feat. Misagh Moradi) | Esfand
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qt394nr
+    references:
+    - source: esfand.bandcamp.com-album-piltan
+      quote: Piltan | Esfand
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Q5asbfm
+    references:
+    - source: esfand.bandcamp.com-album-piltan
+      quote: London singer Misagh Moradi
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: vocals
+  contributor:
+  - value: Qzchcs8
+    references:
+    - source: esfand.bandcamp.com-album-piltan
+      quote: All tracks composed, produced and mixed by Esfand
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: producer
+  - value: Qs7pdbm
+    references:
+    - source: esfand.bandcamp.com-album-piltan
+      quote: All tracks composed, produced and mixed by Esfand
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: producer
+  listen link:
+  - value: https://esfand.bandcamp.com/track/without-foot-without-head-feat-misagh-moradi
+    references:
+    - source: esfand.bandcamp.com-track-without-foot-without-head-feat-misagh-moradi
+      quote: Without Foot, Without Head (feat. Misagh Moradi) | Esfand
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1742161231
+    references:
+    - source: music.apple.com-us-song-1742161231
+      quote: ‎Without Foot, Without Head - Song with Lyrics by Esfand & Misagh Moradi - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/3zArQEi8HEYMBgNZm60EZH
+    references:
+    - source: open.spotify.com-track-3zarqei8heymbgnzm60ezh
+      quote: Without Foot, Without Head - song and lyrics by Esfand, Misagh Moradi | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a4217892434_10.jpg
+    references:
+    - source: esfand.bandcamp.com-album-piltan
+      quote: https://f4.bcbits.com/img/a4217892434_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original label artwork
+        language: en
+  release date:
+  - value:
+      date: '2024-06-14'
+    references:
+    - source: esfand.bandcamp.com-album-piltan
+      quote: released June 14, 2024
+      accessed: '2026-11-21'
+      locator: Published date

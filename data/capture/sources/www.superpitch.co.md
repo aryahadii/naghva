@@ -1,0 +1,19 @@
+---
+url: https://www.superpitch.co/?album=supiwm_6025
+title: SUPIWM_6025 ‹ SuperPitch ©
+tier: own
+language: en
+status: processed
+---
+
+> Bandari, Sheki or Choupi
+
+Regional rhythms, read 2026-11-21.
+
+> dynamic handclaps
+
+Sound of the solo album, read 2026-11-21.
+
+> 30/09/2024
+
+SuperPitch World Map release, read 2026-11-21.

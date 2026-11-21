@@ -48,3 +48,7 @@ Artist interview, biography or performance credits, read 2026-11-21.
 > last month of the Persian calendar
 
 Artist interview, biography or performance credits, read 2026-11-21.
+
+> his fellow university mate Patrick Stewart
+
+Artist interview, biography or performance credits, read 2026-11-21.

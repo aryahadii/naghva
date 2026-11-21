@@ -53,3 +53,7 @@ Track 10, read 2026-11-21.
 > Mashough-E-Dolachang · Siriya Ensemble, Mohammad Laryan, Mahdi Heydari Monfared, Behrooz Sharifian Motlagh, Mahdi Naseri, Moein Pakbaz, Amirhossein Mahini
 
 Track 11, read 2026-11-21.
+
+> A Table for Two · Various Artists
+
+Spotify record, read 2026-11-21.

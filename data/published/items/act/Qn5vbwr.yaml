@@ -3,6 +3,14 @@ type: act
 statements:
   name:
   - value:
+      text: Rokh Quartet
+      language: en
+    references:
+    - source: rokhquartet.art
+      quote: Rokh Quartet
+      locator: Original programme, liner notes or performer credit
+      accessed: '2026-11-21'
+  - value:
       text: Rokh
       language: en
     references:
@@ -16,14 +24,6 @@ statements:
     references:
     - source: rokhquartet.art
       quote: رُخ
-      locator: Original programme, liner notes or performer credit
-      accessed: '2026-11-21'
-  - value:
-      text: Rokh Quartet
-      language: en
-    references:
-    - source: rokhquartet.art
-      quote: Rokh Quartet
       locator: Original programme, liner notes or performer credit
       accessed: '2026-11-21'
   profile link:

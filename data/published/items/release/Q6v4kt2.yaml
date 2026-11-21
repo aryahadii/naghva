@@ -1,0 +1,58 @@
+id: Q6v4kt2
+type: release
+statements:
+  name:
+  - value:
+      text: The Calling Of The Land
+      language: en
+    references:
+    - source: music.apple.com-us-album-evening-feat-ary-werthein-1869586313
+      quote: ‎The Calling Of The Land (feat. Ary Werthein) - Album by Rouzbeh Esfand - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qzchcs8
+    references:
+    - source: music.apple.com-us-album-evening-feat-ary-werthein-1869586313
+      quote: ‎The Calling Of The Land (feat. Ary Werthein) - Album by Rouzbeh Esfand - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  release type:
+  - value: album
+    references:
+    - source: music.apple.com-us-album-evening-feat-ary-werthein-1869586313
+      quote: ‎The Calling Of The Land (feat. Ary Werthein) - Album by Rouzbeh Esfand - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://music.apple.com/us/album/evening-feat-ary-werthein/1869586313
+    references:
+    - source: music.apple.com-us-album-evening-feat-ary-werthein-1869586313
+      quote: ‎The Calling Of The Land (feat. Ary Werthein) - Album by Rouzbeh Esfand - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/album/1OxeO3dCyt8QseD5hfKbD1
+    references:
+    - source: open.spotify.com-album-1oxeo3dcyt8qsed5hfkbd1
+      quote: Listen to The Calling Of The Land - Album by Rouzbeh Esfand | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2026-01-12'
+    references:
+    - source: music.apple.com-us-album-evening-feat-ary-werthein-1869586313
+      quote: January 12, 2026
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/3e/31/af3e311c-1623-7db9-caaa-b5cbb80d2f71/7300348114166.jpg/632x632bb.webp
+    references:
+    - source: music.apple.com-us-album-evening-feat-ary-werthein-1869586313
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/3e/31/af3e311c-1623-7db9-caaa-b5cbb80d2f71/7300348114166.jpg/632x632bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original publisher artwork
+        language: en

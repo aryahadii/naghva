@@ -10,10 +10,39 @@ statements:
       quote: Sina Danesh
       locator: Original programme, liner notes or performer credit
       accessed: '2026-11-21'
+  - value:
+      text: سینا دانش
+      language: fa
+    references:
+    - source: t.me-mahoorinstitute-3650embed-1
+      quote: سینا دانش
+      locator: Original programme, liner notes or performer credit
+      accessed: '2026-11-21'
   member of:
   - value: Qn5vbwr
     references:
     - source: rokhquartet.art
       quote: Sina Danesh
+      locator: Original programme, liner notes or performer credit
+      accessed: '2026-11-21'
+  - value: Qvnj2sh
+    references:
+    - source: www.sarkhat.com-fa-group-hcfdoc
+      quote: سینا دانش
+      locator: Original programme, liner notes or performer credit
+      accessed: '2026-11-21'
+  image:
+  - value: https://rokhquartet.art/wp-content/uploads/2025/02/Site-Sina.jpg
+    references:
+    - source: rokhquartet.art
+      quote: https://rokhquartet.art/wp-content/uploads/2025/02/Site-Sina.jpg
+      locator: Original programme, liner notes or performer credit
+      accessed: '2026-11-21'
+  birth date:
+  - value:
+      date: '1987'
+    references:
+    - source: labyrinthmusic.gr-en-sina-danesh
+      quote: born in 1987 in Qa’em-Shahr
       locator: Original programme, liner notes or performer credit
       accessed: '2026-11-21'

@@ -1,0 +1,66 @@
+id: Qeg4xjx
+type: release
+statements:
+  name:
+  - value:
+      text: Sia
+      language: en
+    references:
+    - source: music.apple.com-us-album-sia-single-1820955843
+      quote: Sia
+      accessed: 2026-11-21
+      locator: Individual track
+  performer:
+  - value: Qvhrrm8
+    references:
+    - source: open.spotify.com-album-5brsjiswnlfwb1rwiqeqck
+      quote: Sia · Naghib Shanbehzadeh
+      accessed: 2026-11-21
+      locator: Track 1
+  listen link:
+  - value: https://music.apple.com/us/song/sia/1820955845
+    references:
+    - source: music.apple.com-us-album-sia-single-1820955843
+      quote: Sia
+      accessed: 2026-11-21
+      locator: Individual track
+  - value: https://open.spotify.com/track/7fQFb56q0aM8H1d9WBqBBq
+    references:
+    - source: open.spotify.com-album-5brsjiswnlfwb1rwiqeqck
+      quote: Sia · Naghib Shanbehzadeh
+      accessed: 2026-11-21
+      locator: Spotify record
+  - value: https://music.apple.com/us/album/sia-single/1820955843
+    references:
+    - source: music.apple.com-us-album-sia-single-1820955843
+      quote: Sia - Single · Naghib Shanbehzadeh · 2025-06-20
+      accessed: 2026-11-21
+      locator: Album billing and date
+  - value: https://open.spotify.com/album/5BrsJIswNlFwb1RwIqEQcK
+    references:
+    - source: open.spotify.com-album-5brsjiswnlfwb1rwiqeqck
+      quote: Sia · Naghib Shanbehzadeh
+      accessed: 2026-11-21
+      locator: Spotify record
+  release date:
+  - value:
+      date: '2025-06-20'
+    references:
+    - source: music.apple.com-us-album-sia-single-1820955843
+      quote: Sia
+      accessed: 2026-11-21
+      locator: Individual track
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-sia-single-1820955843
+      quote: Sia
+      accessed: 2026-11-21
+      locator: Individual track
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/29/a2/25/29a2258a-3eff-8d0e-9345-d3a383980626/859709038339_cover.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-sia-single-1820955843
+      quote: Sia
+      accessed: 2026-11-21
+      locator: Individual track

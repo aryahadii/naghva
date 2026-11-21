@@ -1,0 +1,39 @@
+id: Qmve3gq
+type: release
+statements:
+  name:
+  - value:
+      text: I Am
+      language: en
+    references:
+    - source: music.apple.com-us-album-i-am-ep-1625618945
+      quote: I Am
+      accessed: 2026-11-21
+      locator: Individual track
+  performer:
+  - value: Qvhrrm8
+    references:
+    - source: open.spotify.com-album-7hrcvixbhpl6t00fkvh1ey
+      quote: I Am · Naghib Shanbehzadeh
+      accessed: 2026-11-21
+      locator: Track 3
+  listen link:
+  - value: https://music.apple.com/us/song/i-am/1625619254
+    references:
+    - source: music.apple.com-us-album-i-am-ep-1625618945
+      quote: I Am
+      accessed: 2026-11-21
+      locator: Individual track
+  - value: https://open.spotify.com/track/3TAYL3WbTpWq8Hv4ergh7j
+    references:
+    - source: open.spotify.com-album-7hrcvixbhpl6t00fkvh1ey
+      quote: I Am · Naghib Shanbehzadeh
+      accessed: 2026-11-21
+      locator: Spotify record
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ac/52/16/ac5216c5-1c38-1361-01a4-652df12d1cef/859762392294_cover.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-i-am-ep-1625618945
+      quote: I Am
+      accessed: 2026-11-21
+      locator: Individual track
