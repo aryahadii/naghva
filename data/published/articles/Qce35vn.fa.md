@@ -20,12 +20,31 @@ references:
     quote: |-
       Although I used many modern sound-processing techniques, I did so only to expand on the frequency range of my natural instruments.
     accessed: '2026-10-19'
+  niyaz:
+    source: www.niyazmusic.com-bio-2e52c31a9a2c
+    quote: |-
+      Founded in 2004 by Iranian born, Indian raised vocalist/ composer Azam Ali, and Iranian multi-instrumentalist/ composer Loga R. Torkian, Niyaz has created a 21st century global trance tradition by seamlessly blending medieval Sufi poetry and ancient folk songs from their native Iran and its surrounding countries in the Persian Gulf, with rich acoustic instrumentation and state-of-the-art modern electronics.
+    accessed: '2026-10-19'
+  move:
+    source: chaoscontrol.com-loga-ramin-torkian-niyaz-interview
+    quote: |-
+      In 2009, Azam and I decided to move to Montreal from Los Angeles.
+    accessed: '2026-11-13'
+  recording:
+    source: music.apple.com-loga-mehraab
+    quote: |-
+      Mehraab
+      Loga Ramin Torkian
+      Worldwide · 2012
+    accessed: '2026-10-19'
 ---
 
-لوگا رامین ترکیان آهنگساز و نوازندهٔ چند ساز، زادهٔ ایران و از بنیان‌گذاران نیاز و Axiom of Choice است. او Axiom of Choice را در سال ۱۹۹۲ همراه با خواننده Mamak Khadem بنیان گذاشت. این گروه با تکیه بر ردیف موسیقی ایرانی، ساختارهای تازه‌ای در آهنگسازی به کار گرفت.[^identity][^ensemble]
+لوگا رامین ترکیان آهنگساز و نوازندهٔ چند ساز، زادهٔ ایران است. در دههٔ ۱۹۹۰ با گروه Axiom of Choice بر پایهٔ ردیف موسیقی ایرانی آهنگ می‌ساخت. بعدها با [اعظم علی](/fa/azam-ali-m7d/)، خواننده و آهنگساز، گروه [نیاز](/fa/niyaz-9bb/) را راه انداخت. آن‌ها ترانه‌های محلی و شعر صوفیانه را با سازهای آکوستیک و موسیقی الکترونیک همراه کردند.[^identity][^ensemble][^niyaz]
 
-## Mehraab
+## از Axiom of Choice تا نیاز
 
-آلبوم انفرادی او، *[Mehraab](#mehraab-p4s)*، با آواز Khosro Ansari، خوانندهٔ موسیقی کلاسیک ایرانی، از ملودی‌ها و شعر ایرانی بهره می‌گیرد. در معرفی ناشر، ترکیان صدا، ملودی‌های آوازی و انتخاب شعر Ansari را بخش جدایی‌ناپذیر آلبوم می‌داند.[^voice]
+ترکیان در سال ۱۹۹۲ با [مامک خادم](/fa/mamak-khadem-3wp/)، خواننده، گروه Axiom of Choice را تشکیل داد و در این گروه با تکیه بر ردیف قطعات تازه‌ای ساخت.[^ensemble] او و اعظم علی در سال ۲۰۰۴ گروه نیاز را بنیاد گذاشتند. بخشی از موسیقی‌شان از ترانه‌های محلی ایران و دیگر کشورهای پیرامون خلیج فارس می‌آمد. در سال ۲۰۰۹ تصمیم گرفتند از لس‌آنجلس به مونترال بروند.[^niyaz][^move]
 
-ترکیان می‌گوید از روش‌های جدید پردازش صدا برای گسترش محدودهٔ فرکانسی سازهای آکوستیک خود استفاده کرده است.[^processing]
+## محراب
+
+ترکیان برای آلبوم انفرادی [«محراب»](#mehraab-p4s) با خسرو انصاری، خوانندهٔ آواز ایرانی، کار کرد. انصاری شعرها را انتخاب کرد و به ملودی‌های آوازی شکل داد. ترکیان هم صدای سازهای آکوستیک خود را پردازش کرد تا دامنهٔ فرکانسی آن‌ها را گسترش دهد.[^voice][^processing][^recording]
