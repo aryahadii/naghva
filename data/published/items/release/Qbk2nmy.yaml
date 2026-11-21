@@ -1,0 +1,41 @@
+id: Qbk2nmy
+type: release
+statements:
+  name:
+  - value:
+      text: Fool's Ovation
+      language: en
+    references:
+    - &id001
+      source: sepehr.bandcamp.com-album-fools-ovation
+      quote: Fool's Ovation
+      accessed: '2026-11-21'
+  performer:
+  - value: Q99by47
+    references:
+    - &id002
+      source: sepehr.bandcamp.com-album-fools-ovation
+      quote: Sepehr
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2026-06-12'
+    references:
+    - source: sepehr.bandcamp.com-album-fools-ovation
+      quote: 12 Jun 2026 00:00:00 GMT
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://sepehr.bandcamp.com/album/fools-ovation
+    references:
+    - *id001
+    - *id002
+  cover art:
+  - value: https://f4.bcbits.com/img/a2811038883_10.jpg
+    references:
+    - source: sepehr.bandcamp.com-album-fools-ovation
+      quote: https://f4.bcbits.com/img/a2811038883_10.jpg
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Sepehr, Bandcamp
+        language: en

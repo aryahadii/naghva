@@ -1,0 +1,41 @@
+id: Qv74vph
+type: release
+statements:
+  name:
+  - value:
+      text: Crown Jewel
+      language: en
+    references:
+    - &id001
+      source: sepehr.bandcamp.com-album-crown-jewel
+      quote: Crown Jewel
+      accessed: '2026-11-21'
+  performer:
+  - value: Q99by47
+    references:
+    - &id002
+      source: sepehr.bandcamp.com-album-crown-jewel
+      quote: Sepehr
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2020-12-11'
+    references:
+    - source: sepehr.bandcamp.com-album-crown-jewel
+      quote: 11 Dec 2020 00:00:00 GMT
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://sepehr.bandcamp.com/album/crown-jewel
+    references:
+    - *id001
+    - *id002
+  cover art:
+  - value: https://f4.bcbits.com/img/a2724946387_10.jpg
+    references:
+    - source: sepehr.bandcamp.com-album-crown-jewel
+      quote: https://f4.bcbits.com/img/a2724946387_10.jpg
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Sepehr, Bandcamp
+        language: en
