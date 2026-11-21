@@ -1,0 +1,41 @@
+id: Q6qgey9
+type: release
+statements:
+  name:
+  - value:
+      text: Cybernetic EP
+      language: en
+    references:
+    - &id001
+      source: sepehr.bandcamp.com-album-cybernetic-ep
+      quote: Cybernetic EP
+      accessed: '2026-11-21'
+  performer:
+  - value: Q99by47
+    references:
+    - &id002
+      source: sepehr.bandcamp.com-album-cybernetic-ep
+      quote: Sepehr
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2019-03-08'
+    references:
+    - source: sepehr.bandcamp.com-album-cybernetic-ep
+      quote: 08 Mar 2019 00:00:00 GMT
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://sepehr.bandcamp.com/album/cybernetic-ep
+    references:
+    - *id001
+    - *id002
+  cover art:
+  - value: https://f4.bcbits.com/img/a3806555372_10.jpg
+    references:
+    - source: sepehr.bandcamp.com-album-cybernetic-ep
+      quote: https://f4.bcbits.com/img/a3806555372_10.jpg
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Sepehr, Bandcamp
+        language: en

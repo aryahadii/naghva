@@ -1,0 +1,41 @@
+id: Qksg6cw
+type: release
+statements:
+  name:
+  - value:
+      text: Survivalism
+      language: en
+    references:
+    - &id001
+      source: sepehr.bandcamp.com-album-survivalism
+      quote: Survivalism
+      accessed: '2026-11-21'
+  performer:
+  - value: Q99by47
+    references:
+    - &id002
+      source: sepehr.bandcamp.com-album-survivalism
+      quote: Sepehr
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2021-10-07'
+    references:
+    - source: sepehr.bandcamp.com-album-survivalism
+      quote: 07 Oct 2021 00:00:00 GMT
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://sepehr.bandcamp.com/album/survivalism
+    references:
+    - *id001
+    - *id002
+  cover art:
+  - value: https://f4.bcbits.com/img/a0071887302_10.jpg
+    references:
+    - source: sepehr.bandcamp.com-album-survivalism
+      quote: https://f4.bcbits.com/img/a0071887302_10.jpg
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Sepehr, Bandcamp
+        language: en
