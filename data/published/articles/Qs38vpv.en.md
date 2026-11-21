@@ -25,19 +25,32 @@ references:
     quote: |-
       Meera was never a "fusion rock" band. We are working on Persian alternative music and we will keep to that course.
     accessed: '2026-10-19'
-  enhanced:
+  event:
     source: tehranavenue.com-article.php-id-16
     quote: |-
-      We have attempted to do many things that is a “first” for Iran and part of this is indeed to have two excellent full video clips in the overseas package providing an Enhanced CD.
-    accessed: '2026-10-19'
+      گروه آلترناتيو راک ميرا، در ۲۱ ارديبهشت‌ماه امسال مراسمى براى اعلام انتشار اولين آلبومش ترتيب داد.
+    accessed: '2026-11-21'
+  venues:
+    source: openaccess.city.ac.uk-nooshin-underground-overground
+    quote: |-
+      Meera (Farhang Hall, Tehran, September 2002 and Harekat Hall, 23–25 February 2003
+    accessed: '2026-11-21'
+  abroad:
+    source: openaccess.city.ac.uk-nooshin-underground-overground
+    quote: |-
+      Gienne Records, an Iranian-Australian partnership, is overseeing worldwide distribution
+    accessed: '2026-11-21'
+  billboards:
+    source: openaccess.city.ac.uk-nooshin-underground-overground
+    quote: |-
+      The large advertizing billboards in Tehran in the summer of 2004
+    accessed: '2026-11-21'
 ---
 
-Meera was founded in Tehran in 1996 by guitarist Babek Akhoondi and singer Farzam Rahimi, according to its German Wikipedia entry.[^formation]
+Meera was an alternative rock band formed in Tehran in 1996 by guitarist Babak Akhoundi and singer Farzam Rahimi. They played concerts in Tehran in the early 2000s. Their debut album, *Meera*, reached listeners both inside and outside Iran in 2004.[^formation][^approach][^venues][^album][^abroad]
 
-## Recordings
+## Playing and recording in Tehran
 
-That entry dates the self-titled debut to 2004, released by Gienne Records in Iran and Australia.[^album] Rahimi's upload of [cloud & butterfly](#cloud-butterfly-wnj) credits Dara Daraee on bass, Babak Akhoundi on guitars, Pouya Nikpour on keyboards, piano and backing vocals, Rahimi on vocals, and Kassra Ebrahimi on drums and percussion programming.[^credits] Recording, mixing and mastering are attributed to Studio Bamahang in Tehran during 2000–2003.[^recording]
+The group played at Farhang Hall in 2002 and at Harekat Hall in 2003.[^venues] Around the same period they worked on [“Cloud & Butterfly”](#cloud-butterfly-wnj) at Bamahang Studio in Tehran. Rahimi sang, Akhoundi played guitar and [Dara Daraee](/en/dara-daraee-cm9/) played bass.[^credits][^recording] Rahimi described the music they were making as Persian alternative rock.[^approach][^event]
 
-In a June 2004 Tehran Avenue interview, Farzam Rahimi rejected the label “fusion rock” and described Meera’s direction as Persian alternative music.[^approach]
-
-In the same interview, the band’s producer described an overseas Enhanced CD edition with two complete music videos.[^enhanced]
+In 2004 the Iranian-Australian label Gienne Records distributed the first album internationally. That summer billboards in Tehran advertised the album in the band’s home city.[^abroad][^billboards][^album]
