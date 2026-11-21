@@ -1,0 +1,57 @@
+id: Qafcbvx
+type: release
+statements:
+  listen link:
+  - value: https://music.apple.com/us/song/zolfonoon-mystry-feat-sina-salimi/1605671275
+    references:
+    - source: music.apple.com-us-song-zolfonoon-mystry-feat-sina-salimi-1605671275
+      quote: ‎Zolfonoon Mystry (feat. Sina Salimi) - Song with Lyrics by Mahmood Schricker & Michael Red - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/1DYn6eAtvgvvqoiSLT53lO
+    references:
+    - source: open.spotify.com-track-1dyn6eatvgvvqoislt53lo
+      quote: Zolfonoon Mystry - song and lyrics by Mahmood Schricker, Michael Red, Sina Salimi | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  name:
+  - value:
+      text: Zolfonoon Mystry (feat. Sina Salimi)
+      language: en
+    references:
+    - source: music.apple.com-us-song-zolfonoon-mystry-feat-sina-salimi-1605671275
+      quote: Zolfonoon Mystry (feat. Sina Salimi)
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  performer:
+  - value: Qt5sbqz
+    references:
+    - source: music.apple.com-us-song-zolfonoon-mystry-feat-sina-salimi-1605671275
+      quote: ‎Zolfonoon Mystry (feat. Sina Salimi) - Song with Lyrics by Mahmood Schricker & Michael Red - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qxkh2tz
+    references:
+    - source: music.apple.com-us-song-zolfonoon-mystry-feat-sina-salimi-1605671275
+      quote: Mahmood Schricker
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  release date:
+  - value:
+      date: '2022-02-05'
+    references:
+    - source: music.apple.com-us-song-zolfonoon-mystry-feat-sina-salimi-1605671275
+      quote: February 5, 2022
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8e/73/86/8e7386ec-e0c0-453d-ae0d-7d30ade9763e/00_Cover_Art.jpg/600x600bb.webp
+    references:
+    - source: music.apple.com-us-song-zolfonoon-mystry-feat-sina-salimi-1605671275
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8e/73/86/8e7386ec-e0c0-453d-ae0d-7d30ade9763e/00_Cover_Art.jpg/600x600bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Sina Salimi on Apple Music
+        language: en

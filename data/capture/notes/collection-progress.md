@@ -47,10 +47,14 @@ The expansion started at revision fa6c29ca with 124 bilingual artist pages. The 
 | Kourosh Babaei | Q3v55f7 | 9.1/10 | [Kourosh Babaei](artist-page-scores.md) |
 | Arshia Samsaminia | Qfvnnnd | 9.2/10 | [Arshia Samsaminia](arshia-samsaminia-review.md) |
 | Pedram Khavarzamini | Q5rnjaz | 9.2/10 | [Pedram Khavarzamini](pedram-khavarzamini-independent-review.md) |
-| LABOUR | Qwqf8en | 8.8/10 | [LABOUR](labour-independent-review.md) |
-| Farahnaz Hatam | Qweqy4v | 8.3/10 | [Farahnaz Hatam](farahnaz-hatam-independent-review.md) |
-| Lowen | Qr7sft5 | Pending | [Catalogue](lowen.md) |
-| Payam Yousefi | Q57cj49 | Pending | Independent review in progress |
+| LABOUR | Qwqf8en | 9.2/10 | [LABOUR](labour-independent-review.md) |
+| Farahnaz Hatam | Qweqy4v | 9.1/10 | [Farahnaz Hatam](farahnaz-hatam-independent-review.md) |
+| Lowen | Qr7sft5 | 8.6/10 | [Lowen](lowen-review.md) |
+| Payam Yousefi | Q57cj49 | 9.1/10 | [Payam Yousefi](artist-page-scores.md) |
 | Nina Saeidi | Qnsexjj | Pending | [Catalogue](nina-saeidi.md) |
+| Sina Salimi | Qt5sbqz | Pending | [Catalogue](sina-salimi.md) |
+| Kiyarash Davoudi | Qyrsg2f | Pending | [Catalogue](kiyarash-davoudi.md) |
+| Shabnam Parvaresh | Q9aspca | Pending | Independent review in progress |
+| Sheen Trio | Qy7eg4c | Pending | Independent review in progress |
 
 The [discovery list](independent-artist-discovery.md) contains candidates with release leads. Some will prove ineligible or match an existing artist by another spelling. Only new artist pages count toward the target.

@@ -1,0 +1,75 @@
+id: Q3kgjzs
+type: release
+statements:
+  listen link:
+  - value: https://sinasalimi.bandcamp.com/track/a-song-for-khodanoor-and-in-praise-of-water-remastered
+    references:
+    - source: sinasalimi.bandcamp.com-track-a-song-for-khodanoor-and-in-praise-of-water-remastered
+      quote: A Song for Khodanoor (And in praise of water) - Remastered | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/a-song-for-khodanoor-and-in-praise-of-water/1740289936
+    references:
+    - source: music.apple.com-us-song-a-song-for-khodanoor-and-in-praise-of-water-1740289936
+      quote: ‎A Song for Khodanoor (And in praise of water) - Song with Lyrics by Sina Salimi - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/09UlBIFNaj3T4CZR7fn57D
+    references:
+    - source: open.spotify.com-track-09ulbifnaj3t4czr7fn57d
+      quote: A Song for Khodanoor (And in praise of water) - song and lyrics by Sina Salimi | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  name:
+  - value:
+      text: A Song for Khodanoor (And in praise of water) - Remastered
+      language: en
+    references:
+    - source: sinasalimi.bandcamp.com-track-a-song-for-khodanoor-and-in-praise-of-water-remastered
+      quote: A Song for Khodanoor (And in praise of water) - Remastered
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  performer:
+  - value: Qt5sbqz
+    references:
+    - source: sinasalimi.bandcamp.com-track-a-song-for-khodanoor-and-in-praise-of-water-remastered
+      quote: A Song for Khodanoor (And in praise of water) - Remastered | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Q6y6d6b
+    references:
+    - source: sinasalimi.bandcamp.com-album-ten-songs-for-my-motherland
+      quote: 'Mahnaz Rad: vocals [1, 2, 5, 8, 9, 10]'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Qvyzytv
+    references:
+    - source: sinasalimi.bandcamp.com-album-ten-songs-for-my-motherland
+      quote: 'Darren Wall: upright bass [2, 8, 9]'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Q9e78h7
+    references:
+    - source: sinasalimi.bandcamp.com-album-ten-songs-for-my-motherland
+      quote: 'Gonzalo Cardenas: accordion [9]'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  release date:
+  - value:
+      date: '2024-01-15'
+    references:
+    - source: sinasalimi.bandcamp.com-album-ten-songs-for-my-motherland
+      quote: released January 15, 2024
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a1239151173_10.jpg
+    references:
+    - source: sinasalimi.bandcamp.com-track-a-song-for-khodanoor-and-in-praise-of-water-remastered
+      quote: https://f4.bcbits.com/img/a1239151173_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Sina Salimi on Bandcamp
+        language: en

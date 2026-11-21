@@ -38,6 +38,22 @@ statements:
       quote: Char Mezrabe Nava
       accessed: '2026-11-21'
       locator: Spotify track listing
+  - value: https://www.youtube.com/watch?v=uvILK4THF4E
+    references:
+    - source: www.youtube.com-watch-v-uvilk4thf4e
+      quote: چهارمضراب نوا به یاد استاد فرامرز پایور/تمبک:پدرام خاورزمینی، آهنگساز و سنتور:کیارش داودی
+      accessed: '2026-11-21'
+      locator: Native YouTube title
+    - source: www.youtube.com-watch-v-uvilk4thf4e
+      quote: kiyarash davoudi
+      accessed: '2026-11-21'
+      locator: Original uploader
+  - value: https://soundcloud.com/kiyarashdavoudi/char-mezrabe-nava
+    references:
+    - source: soundcloud.com-kiyarashdavoudi-char-mezrabe-nava
+      quote: Char Mezrabe Nava
+      accessed: '2026-11-21'
+      locator: Artist SoundCloud recording title
   release date:
   - value:
       date: '2025-11-22'

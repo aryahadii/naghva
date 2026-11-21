@@ -1,0 +1,61 @@
+id: Qjmk79d
+type: release
+statements:
+  listen link:
+  - value: https://sinasalimi.bandcamp.com/track/not-so-long-ago
+    references:
+    - source: sinasalimi.bandcamp.com-track-not-so-long-ago
+      quote: Not So Long Ago | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/not-so-long-ago/1544199165
+    references:
+    - source: music.apple.com-us-song-not-so-long-ago-1544199165
+      quote: ‎Not so Long Ago - Song with Lyrics by Sina Salimi - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/6tiT37a1zdZhn3b8QOsszC
+    references:
+    - source: open.spotify.com-track-6tit37a1zdzhn3b8qosszc
+      quote: Not so Long Ago - song and lyrics by Sina Salimi | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  name:
+  - value:
+      text: Not So Long Ago
+      language: en
+    references:
+    - source: sinasalimi.bandcamp.com-track-not-so-long-ago
+      quote: Not So Long Ago
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  performer:
+  - value: Qt5sbqz
+    references:
+    - source: sinasalimi.bandcamp.com-track-not-so-long-ago
+      quote: Not So Long Ago | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2020-12-21'
+    references:
+    - source: sinasalimi.bandcamp.com-album-all-of-our-tomorrows
+      quote: released December 21, 2020
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a0734454998_10.jpg
+    references:
+    - source: sinasalimi.bandcamp.com-track-not-so-long-ago
+      quote: https://f4.bcbits.com/img/a0734454998_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    - source: sinasalimi.bandcamp.com-album-all-of-our-tomorrows
+      quote: Design & Layout by Vahid Fazel
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: Vahid Fazel
+        language: en

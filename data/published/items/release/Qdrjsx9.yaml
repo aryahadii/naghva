@@ -1,0 +1,81 @@
+id: Qdrjsx9
+type: release
+statements:
+  name:
+  - value:
+      text: Rudy the Spider
+      language: en
+    references:
+    - source: sheentrio.bandcamp.com-album-gozar
+      quote: Rudy the Spider
+      locator: Track 3
+      accessed: '2026-11-21'
+  performer:
+  - value: Qy7eg4c
+    references:
+    - source: sheentrio.bandcamp.com-album-gozar
+      quote: Gozar
+      locator: Album title
+      accessed: '2026-11-21'
+  - value: Q9aspca
+    references:
+    - source: sheentrio.bandcamp.com-album-gozar
+      quote: Shabnam Parvaresh - Bass Clarinet, Flute, FX
+      locator: Original trio lineup
+      accessed: '2026-11-21'
+    qualifiers:
+      role: bass clarinet
+  - value: Qdwrvpn
+    references:
+    - source: sheentrio.bandcamp.com-album-gozar
+      quote: Ula Martyn-Ellis - Guitar
+      locator: Original trio lineup
+      accessed: '2026-11-21'
+    qualifiers:
+      role: guitar
+  - value: Qneswfb
+    references:
+    - source: sheentrio.bandcamp.com-album-gozar
+      quote: Philipp Buck - Drums
+      locator: Original trio lineup
+      accessed: '2026-11-21'
+    qualifiers:
+      role: drums
+  release date:
+  - value:
+      date: '2023-05-05'
+    references:
+    - source: sheentrio.bandcamp.com-album-gozar
+      quote: 05 May 2023 00:00:00 GMT
+      locator: Original publication date
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://f4.bcbits.com/img/a2539238943_10.jpg
+    references:
+    - source: sheentrio.bandcamp.com-album-gozar
+      quote: https://f4.bcbits.com/img/a2539238943_10.jpg
+      locator: Portrait or cover art on the artist or publisher page
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Sheen Trio · release artwork
+        language: en
+  listen link:
+  - value: https://sheentrio.bandcamp.com/track/rudy-the-spider
+    references:
+    - source: sheentrio.bandcamp.com-album-gozar
+      quote: Rudy the Spider
+      locator: Track 3
+      accessed: '2026-11-21'
+  - value: https://music.apple.com/us/song/rudy-the-spider-feat-shabnam-parvaresh-ula-martyn/1676065318
+    references:
+    - source: music.apple.com-us-album-1676065307
+      quote: Rudy the Spider (feat. Shabnam Parvaresh, Ula Martyn-Ellis & Philipp Buck)
+      locator: Streaming track 3
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/258Cy9N9zAYWAfUbtzvgTZ
+    references:
+    - source: open.spotify.com-album-1vk6kha1bmavyea8fqxuw0
+      quote: Rudy the Spider
+      locator: Track on corresponding streaming edition
+      accessed: '2026-11-21'

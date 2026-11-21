@@ -1,0 +1,83 @@
+id: Qwrw3km
+type: release
+statements:
+  listen link:
+  - value: https://sinasalimi.bandcamp.com/track/flight-of-a-bird
+    references:
+    - source: sinasalimi.bandcamp.com-track-flight-of-a-bird
+      quote: Flight of a Bird - پروازِ پرنده | Sina Salimi (feat. Mahnaz Rad) | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/flight-of-a-bird-single/1692831459
+    references:
+    - source: music.apple.com-us-album-flight-of-a-bird-single-1692831459
+      quote: ‎Flight of a Bird - Single - Album by Sina Salimi - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/flight-of-a-bird/1692831460
+    references:
+    - source: music.apple.com-us-song-flight-of-a-bird-1692831460
+      quote: ‎Flight of a Bird - Song with Lyrics by Sina Salimi - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/album/6hDPN42odDcLrDwkJR2RD2
+    references:
+    - source: open.spotify.com-album-6hdpn42oddclrdwkjr2rd2
+      quote: Listen to Flight of a Bird - Single by Sina Salimi | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/3GsIVts2xZTI7PgHPZIEIj
+    references:
+    - source: open.spotify.com-track-3gsivts2xzti7pghpzieij
+      quote: Flight of a Bird - song and lyrics by Sina Salimi | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://www.youtube.com/watch?v=eND0RKtPhR0
+    references:
+    - source: www.youtube.com-watch-v-end0rktphr0
+      quote: Flight of a Bird (ft. Mahnaz Rad)   ----  پرواز پرنده
+      accessed: '2026-11-21'
+      locator: Page title
+  name:
+  - value:
+      text: Flight of a Bird
+      language: en
+    references:
+    - source: sinasalimi.bandcamp.com-track-flight-of-a-bird
+      quote: Flight of a Bird
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value:
+      text: پروازِ پرنده
+      language: fa
+    references:
+    - source: sinasalimi.bandcamp.com-track-flight-of-a-bird
+      quote: پروازِ پرنده
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  performer:
+  - value: Qt5sbqz
+    references:
+    - source: sinasalimi.bandcamp.com-track-flight-of-a-bird
+      quote: Flight of a Bird - پروازِ پرنده | Sina Salimi (feat. Mahnaz Rad) | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2023-02-08'
+    references:
+    - source: sinasalimi.bandcamp.com-track-flight-of-a-bird
+      quote: released February 8, 2023
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a3695466348_10.jpg
+    references:
+    - source: sinasalimi.bandcamp.com-track-flight-of-a-bird
+      quote: https://f4.bcbits.com/img/a3695466348_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Sina Salimi
+        language: en

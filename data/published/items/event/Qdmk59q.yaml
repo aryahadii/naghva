@@ -1,0 +1,33 @@
+id: Qdmk59q
+type: event
+statements:
+  name:
+  - value:
+      text: Lowen at The Black Heart
+      language: en
+    references:
+    - source: echoesanddust.com-2024-10-lowen-the-black-heart
+      quote: Lowen at The Black Heart
+      accessed: 2026-11-21
+      locator: Concert billing
+  event date:
+  - value:
+      date: '2024-10-11'
+    references:
+    - source: echoesanddust.com-2024-10-lowen-the-black-heart
+      quote: October 11, 2024
+      accessed: 2026-11-21
+      locator: Date of the concert
+  performer:
+  - value: Qr7sft5
+    references:
+    - source: echoesanddust.com-2024-10-lowen-the-black-heart
+      quote: Lowen at The Black Heart
+      accessed: 2026-11-21
+      locator: Concert billing
+  - value: Qnsexjj
+    references:
+    - source: echoesanddust.com-2024-10-lowen-the-black-heart
+      quote: the perfect complement to, and mirroring of, Nina’s vocal style
+      accessed: 2026-11-21
+      locator: Guest cellist and voice

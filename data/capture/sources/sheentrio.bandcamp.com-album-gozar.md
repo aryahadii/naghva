@@ -76,3 +76,27 @@ Track 9, read 2026-11-21.
 Track 10, read 2026-11-21.
 
 > Pendulum
+
+Original edition, read 2026-11-21.
+
+> GOZAR the Sheen Trio’s debut album is released by BERTHOLD records on May 5th 2023
+
+Parvaresh on the opening piece, read 2026-11-21.
+
+> then the electricity would get cut off and you’d have to start again
+
+Parvaresh on the closing piece, read 2026-11-21.
+
+> The pendulum was not regular, which is why I wrote this piece in five.
+
+Parvaresh’s recollection, read 2026-11-21.
+
+> My parents listened to Ella Fitzgerald and John Coltrane
+
+Early instruments, read 2026-11-21.
+
+> first the flute and then the clarinet
+
+Track-level composition credit, read 2026-11-21.
+
+> Flashback is the most Iranian composition that I wrote.

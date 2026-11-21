@@ -1,0 +1,75 @@
+id: Q4z4tpw
+type: release
+statements:
+  listen link:
+  - value: https://sinasalimi.bandcamp.com/track/a-song-for-zhina-remastered
+    references:
+    - source: sinasalimi.bandcamp.com-track-a-song-for-zhina-remastered
+      quote: A Song for Zhina - Remastered | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/a-song-for-zhina/1740289194
+    references:
+    - source: music.apple.com-us-song-a-song-for-zhina-1740289194
+      quote: ‎A Song for Zhina - Song with Lyrics by Sina Salimi - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/2aV4YfFfybFtIai6K1CPpv
+    references:
+    - source: open.spotify.com-track-2av4yfffybftiai6k1cppv
+      quote: A Song for Zhina - song and lyrics by Sina Salimi | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  name:
+  - value:
+      text: A Song for Zhina - Remastered
+      language: en
+    references:
+    - source: sinasalimi.bandcamp.com-track-a-song-for-zhina-remastered
+      quote: A Song for Zhina - Remastered
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  performer:
+  - value: Qt5sbqz
+    references:
+    - source: sinasalimi.bandcamp.com-track-a-song-for-zhina-remastered
+      quote: A Song for Zhina - Remastered | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Q6y6d6b
+    references:
+    - source: sinasalimi.bandcamp.com-album-ten-songs-for-my-motherland
+      quote: 'Mahnaz Rad: vocals [1, 2, 5, 8, 9, 10]'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Qfde282
+    references:
+    - source: sinasalimi.bandcamp.com-album-ten-songs-for-my-motherland
+      quote: 'Raha Javanfar: violin / vocals [1]'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Qyvgnrd
+    references:
+    - source: sinasalimi.bandcamp.com-album-ten-songs-for-my-motherland
+      quote: 'Ali Kamali: bass [1, 5]'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  release date:
+  - value:
+      date: '2024-01-15'
+    references:
+    - source: sinasalimi.bandcamp.com-album-ten-songs-for-my-motherland
+      quote: released January 15, 2024
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a1239151173_10.jpg
+    references:
+    - source: sinasalimi.bandcamp.com-track-a-song-for-zhina-remastered
+      quote: https://f4.bcbits.com/img/a1239151173_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Sina Salimi on Bandcamp
+        language: en

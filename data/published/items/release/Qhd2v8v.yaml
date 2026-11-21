@@ -1,0 +1,83 @@
+id: Qhd2v8v
+type: release
+statements:
+  listen link:
+  - value: https://sinasalimi.bandcamp.com/track/of-nightmares-and-dreams-feat-mahnaz-rad
+    references:
+    - source: sinasalimi.bandcamp.com-track-of-nightmares-and-dreams-feat-mahnaz-rad
+      quote: Of Nightmares and Dreams (feat. Mahnaz Rad) - کابوس‌ها و رویاها | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/of-nightmares-and-dreams-single/1706039945
+    references:
+    - source: music.apple.com-us-album-of-nightmares-and-dreams-single-1706039945
+      quote: ‎Of Nightmares and Dreams - Single - Album by Sina Salimi - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/of-nightmares-and-dreams/1706039946
+    references:
+    - source: music.apple.com-us-song-of-nightmares-and-dreams-1706039946
+      quote: ‎Of Nightmares and Dreams - Song with Lyrics by Sina Salimi - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/album/4jov29NgzrNijI5OpgQGrv
+    references:
+    - source: open.spotify.com-album-4jov29ngzrniji5opgqgrv
+      quote: Listen to Of Nightmares and Dreams - Single by Sina Salimi | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/4GNytsNCmeszOljup0uEs7
+    references:
+    - source: open.spotify.com-track-4gnytsncmeszoljup0ues7
+      quote: Of Nightmares and Dreams - song and lyrics by Sina Salimi | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://www.youtube.com/watch?v=DxOS5CUYt4M
+    references:
+    - source: www.youtube.com-watch-v-dxos5cuyt4m
+      quote: __Of Nightmares and Dreams (ft. Mahnaz Rad) - کابوس‌ها و رویاها
+      accessed: '2026-11-21'
+      locator: Page title
+  name:
+  - value:
+      text: Of Nightmares and Dreams (feat. Mahnaz Rad)
+      language: en
+    references:
+    - source: sinasalimi.bandcamp.com-track-of-nightmares-and-dreams-feat-mahnaz-rad
+      quote: Of Nightmares and Dreams (feat. Mahnaz Rad)
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value:
+      text: کابوس‌ها و رویاها
+      language: fa
+    references:
+    - source: sinasalimi.bandcamp.com-track-of-nightmares-and-dreams-feat-mahnaz-rad
+      quote: کابوس‌ها و رویاها
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  performer:
+  - value: Qt5sbqz
+    references:
+    - source: sinasalimi.bandcamp.com-track-of-nightmares-and-dreams-feat-mahnaz-rad
+      quote: Of Nightmares and Dreams (feat. Mahnaz Rad) - کابوس‌ها و رویاها | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2023-09-05'
+    references:
+    - source: music.apple.com-us-album-of-nightmares-and-dreams-single-1706039945
+      quote: September 5, 2023
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a1938602077_10.jpg
+    references:
+    - source: sinasalimi.bandcamp.com-track-of-nightmares-and-dreams-feat-mahnaz-rad
+      quote: https://f4.bcbits.com/img/a1938602077_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Sina Salimi
+        language: en

@@ -70,6 +70,27 @@ references:
     quote: a passage from Ishtar's Descent to the Netherworld
     accessed: 2026-11-21
     locator: Adaptations
+  kuro:
+    source: therazorsedge.rocks-2023-11-live-review-damnation-festival
+    quote: Nina added her Middle East style vocals to great effect to a track that will appear on their new album
+      called ‘I Am Forever’
+    accessed: 2026-11-21
+    locator: Eyewitness to Kurokuma’s performance
+  cam:
+    source: echoesanddust.com-2024-10-lowen-the-black-heart
+    quote: October 11, 2024
+    accessed: 2026-11-21
+    locator: Date of the concert
+  cello:
+    source: echoesanddust.com-2024-10-lowen-the-black-heart
+    quote: the perfect complement to, and mirroring of, Nina’s vocal style
+    accessed: 2026-11-21
+    locator: Guest cellist and voice
+  guestartist:
+    source: echoesanddust.com-2024-10-lowen-the-black-heart
+    quote: Arianna Mahsayeh
+    accessed: 2026-11-21
+    locator: Guest cellist
 ---
 
 نینا سعیدی، خواننده و نوازندهٔ بریتانیاییِ ایرانی‌تبار، در سال ۲۰۱۷ همراه شِم لوکاس گروه متال لوئن را در لندن پایه گذاشت. پدر و مادرش پس از انقلاب ایران در بریتانیا پناه گرفته بودند. سعیدی در نوجوانی با شنیدن صدای سرژ تانکیان و ملودی‌های خاورمیانه‌ای گروه سیستم آو ا داون، بخشی از موسیقی آشنای خود را در متال پیدا کرد. در لوئن با تحریر می‌خواند و در نخستین آلبوم گروه، *A Crypt in the Stars*، ترانه‌ها را خودش نوشته و خوانده است.[^home][^serj][^identity][^band][^vocal][^lyric]
@@ -77,6 +98,8 @@ references:
 ## از لوح سومری تا لالایی فارسی
 
 سعیدی برای اجرایی آکوستیک در سالن گرین دور استورِ برایتون، سطرهایی از یک لوح سومری را برای قطعهٔ *The Exalted One Who Walketh* تنظیم کرد. این اجرای سه‌قطعه‌ای را با «لالایی مادر» به زبان فارسی به پایان برد. در سال ۲۰۲۱ برای گروه میستراس هم خواند؛ صدای او در قطعهٔ *Cheragheh Zolmezalem* از آلبوم *Empires Vanquished and Dismantled* شنیده می‌شود.[^place][^tablets][^lull][^my]
+
+سعیدی در سال ۲۰۲۳ در جشنوارهٔ دمنیشن با گروه کوروکوما روی صحنه رفت و *I Am Forever* را خواند. در اکتبر ۲۰۲۴، در مراسم انتشار آلبوم لوئن در سالن بلک هارتِ کَمدن لندن، قطعهٔ *May Your Ghost Drink Pure Water* را با همراهی آریانا مسیح، نوازندهٔ مهمان ویلنسل، اجرا کرد.[^kuro][^cam][^cello][^guestartist]
 
 ## همکاری با Wyatt E.
 

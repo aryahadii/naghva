@@ -1,0 +1,65 @@
+id: Qkxxz6s
+type: release
+statements:
+  listen link:
+  - value: https://sinasalimi.bandcamp.com/track/the-law-of-butterflies
+    references:
+    - source: sinasalimi.bandcamp.com-track-the-law-of-butterflies
+      quote: The Law of Butterflies - قانونِ پروانه‌ها | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/the-law-of-butterflies-single/1692372891
+    references:
+    - source: music.apple.com-us-album-the-law-of-butterflies-single-1692372891
+      quote: ‎The Law of Butterflies - Single - Album by Sina Salimi - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/the-law-of-butterflies/1692372907
+    references:
+    - source: music.apple.com-us-song-the-law-of-butterflies-1692372907
+      quote: ‎The Law of Butterflies - Song with Lyrics by Sina Salimi - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  name:
+  - value:
+      text: The Law of Butterflies
+      language: en
+    references:
+    - source: sinasalimi.bandcamp.com-track-the-law-of-butterflies
+      quote: The Law of Butterflies
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value:
+      text: قانونِ پروانه‌ها
+      language: fa
+    references:
+    - source: sinasalimi.bandcamp.com-track-the-law-of-butterflies
+      quote: قانونِ پروانه‌ها
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  performer:
+  - value: Qt5sbqz
+    references:
+    - source: sinasalimi.bandcamp.com-track-the-law-of-butterflies
+      quote: The Law of Butterflies - قانونِ پروانه‌ها | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2023-03-22'
+    references:
+    - source: sinasalimi.bandcamp.com-track-the-law-of-butterflies
+      quote: released March 22, 2023
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a4225330533_10.jpg
+    references:
+    - source: sinasalimi.bandcamp.com-track-the-law-of-butterflies
+      quote: https://f4.bcbits.com/img/a4225330533_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Sina Salimi
+        language: en

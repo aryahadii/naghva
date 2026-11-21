@@ -148,3 +148,15 @@ Independent review on 2026-11-21. **8.5/10** · Sources 1.9, prose 1.8, recordin
 ### Kourosh Babaei, second independent review on 2026-11-21
 
 **9.1/10** · Sources 1.9, prose 1.8, recordings 2.6, images 1.0, gaps and reader experience 1.8. The two rendered pages contain 153 panels, 285 decoded images apiece and working local fragments. English and Persian hashes are 9e64e72a3e69 and 256016107f5a. His six earlier Aref and Payvar albums, the archival Kerman performance, the two credited Ehsan Matoori tracks, and the Liwa, Shurafarin and Ân Trio albums now have distinct evidence. Credits stay at album level where no track list names the player. The musician reports participating in more than 150 albums. His publicly named discography documents a subset. Article and catalogue ready within that limit.
+
+## Payam Yousefi · Q57cj49
+
+Independent review on 2026-11-21. **9.1/10** · Sources 1.9, prose 1.9, recordings 2.5, images 1.0, gaps and reader experience 1.8. Both rendered pages contain 26 panels and 49 decoded images, with working local fragments. English and Persian hashes are ceb1dce69b16 and 81e5a3298e66. The artist’s stated 2010 concert is now identified as Variations on Pish Zanguleh Gusheh. Whether his later Chahargah video documents the same performance remains open. The two reported Dashti improvisations retain their different instrumentation, locations and circumstances. The namesake santoor player has been independently distinguished. Article and catalogue ready.
+
+## Nina Saeidi · Qnsexjj
+
+Independent review on 2026-11-21. **8.6/10** · Sources 1.9, prose 1.9, recordings 2.2, images 1.0, gaps and reader experience 1.6. English and Persian hashes are 7e22443d1892 and d7b499f1161d. Both 19-panel builds have 39 decoded images and functional anchors. The article covers her specific vocal work in Lowen, Mystras and Wyatt E. The spoken-word Legend of Kay Kavus edition and the distinct playable preview are credited. The 2023 Kurokuma guest performance and specific additional Lowen songs need tracking. Article and catalogue await these points.
+
+## Sina Salimi · Qt5sbqz
+
+Independent review on 2026-11-21. **8.7/10** · Sources 1.9, prose 1.8, recordings 2.4, images 1.0, gaps and reader experience 1.6. English and Persian hashes are 46f85c4a68bb and c4148f4b7e14. Both 83-panel pages have 163 decoded images and functional fragments. The Barzin session is credited at the level of its available personnel list. His 2020 and 2026 releases are documented in detail, including the different releases of ten remastered songs. Shahrema Archive documents a separate concert with the Saba ensemble. Two original projects, Inner Scripts with Mahnaz Rad and Reading Hafez for My Mother, are documented by Toronto’s presenters. Catalogue and article await their reconciliation.

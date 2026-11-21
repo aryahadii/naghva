@@ -1,0 +1,61 @@
+id: Qww6vd5
+type: release
+statements:
+  listen link:
+  - value: https://sinasalimi.bandcamp.com/track/song-of-seasons
+    references:
+    - source: sinasalimi.bandcamp.com-track-song-of-seasons
+      quote: Song of Seasons | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/song-of-seasons/1544199167
+    references:
+    - source: music.apple.com-us-song-song-of-seasons-1544199167
+      quote: ‎Song of Seasons - Song with Lyrics by Sina Salimi - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/1kDdnb2TPr6GmpPyNLXw4G
+    references:
+    - source: open.spotify.com-track-1kddnb2tpr6gmppynlxw4g
+      quote: Song of Seasons - song and lyrics by Sina Salimi | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  name:
+  - value:
+      text: Song of Seasons
+      language: en
+    references:
+    - source: sinasalimi.bandcamp.com-track-song-of-seasons
+      quote: Song of Seasons
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  performer:
+  - value: Qt5sbqz
+    references:
+    - source: sinasalimi.bandcamp.com-track-song-of-seasons
+      quote: Song of Seasons | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2020-12-21'
+    references:
+    - source: sinasalimi.bandcamp.com-album-all-of-our-tomorrows
+      quote: released December 21, 2020
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a0734454998_10.jpg
+    references:
+    - source: sinasalimi.bandcamp.com-track-song-of-seasons
+      quote: https://f4.bcbits.com/img/a0734454998_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    - source: sinasalimi.bandcamp.com-album-all-of-our-tomorrows
+      quote: Design & Layout by Vahid Fazel
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: Vahid Fazel
+        language: en

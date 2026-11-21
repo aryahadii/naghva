@@ -1,0 +1,67 @@
+id: Q46nn3q
+type: release
+statements:
+  listen link:
+  - value: https://sinasalimi.bandcamp.com/track/around-sunsets
+    references:
+    - source: sinasalimi.bandcamp.com-track-around-sunsets
+      quote: Around Sunsets | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/around-sunsets/751555751
+    references:
+    - source: music.apple.com-us-song-around-sunsets-751555751
+      quote: ‎Around Sunsets - Song with Lyrics by Sina Salimi - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/2j3amr5XtkQoamyct9Lv5i
+    references:
+    - source: open.spotify.com-track-2j3amr5xtkqoamyct9lv5i
+      quote: Around Sunsets - song and lyrics by Sina Salimi | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  name:
+  - value:
+      text: Around Sunsets
+      language: en
+    references:
+    - source: sinasalimi.bandcamp.com-track-around-sunsets
+      quote: Around Sunsets
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  performer:
+  - value: Qt5sbqz
+    references:
+    - source: sinasalimi.bandcamp.com-track-around-sunsets
+      quote: Around Sunsets | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Q628mag
+    references:
+    - source: sinasalimi.bandcamp.com-album-perhaps-there
+      quote: 'Violin (Track #7) ......................... Raha J'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  release date:
+  - value:
+      date: '2013-11-02'
+    references:
+    - source: sinasalimi.bandcamp.com-album-perhaps-there
+      quote: released November 2, 2013
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a0117575761_10.jpg
+    references:
+    - source: sinasalimi.bandcamp.com-track-around-sunsets
+      quote: https://f4.bcbits.com/img/a0117575761_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    - source: sinasalimi.bandcamp.com-album-perhaps-there
+      quote: 'Album Design: KAJART'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: KAJART
+        language: en

@@ -1,0 +1,61 @@
+id: Q23vd4h
+type: release
+statements:
+  listen link:
+  - value: https://sinasalimi.bandcamp.com/track/but-you-and-i
+    references:
+    - source: sinasalimi.bandcamp.com-track-but-you-and-i
+      quote: But You And I | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/but-you-and-i/751555755
+    references:
+    - source: music.apple.com-us-song-but-you-and-i-751555755
+      quote: ‎But You and I - Song with Lyrics by Sina Salimi - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/413DRAJVQWZRmhakLIR5sT
+    references:
+    - source: open.spotify.com-track-413drajvqwzrmhaklir5st
+      quote: But You and I - song and lyrics by Sina Salimi | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  name:
+  - value:
+      text: But You And I
+      language: en
+    references:
+    - source: sinasalimi.bandcamp.com-track-but-you-and-i
+      quote: But You And I
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  performer:
+  - value: Qt5sbqz
+    references:
+    - source: sinasalimi.bandcamp.com-track-but-you-and-i
+      quote: But You And I | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2013-11-02'
+    references:
+    - source: sinasalimi.bandcamp.com-album-perhaps-there
+      quote: released November 2, 2013
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a0117575761_10.jpg
+    references:
+    - source: sinasalimi.bandcamp.com-track-but-you-and-i
+      quote: https://f4.bcbits.com/img/a0117575761_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    - source: sinasalimi.bandcamp.com-album-perhaps-there
+      quote: 'Album Design: KAJART'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: KAJART
+        language: en

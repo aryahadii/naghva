@@ -38,6 +38,12 @@ statements:
       quote: Pish Daramade Aboata
       accessed: '2026-11-21'
       locator: Spotify track listing
+  - value: https://soundcloud.com/kiyarashdavoudi/pish-daramade-aboata
+    references:
+    - source: soundcloud.com-kiyarashdavoudi-pish-daramade-aboata
+      quote: Pish Daramade Aboata
+      accessed: '2026-11-21'
+      locator: Artist SoundCloud recording title
   release date:
   - value:
       date: '2025-11-22'

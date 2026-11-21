@@ -1,0 +1,63 @@
+id: Qvvaw4h
+type: release
+statements:
+  listen link:
+  - value: https://sinasalimi.bandcamp.com/track/the-law-of-butterflies-remastered
+    references:
+    - source: sinasalimi.bandcamp.com-track-the-law-of-butterflies-remastered
+      quote: The Law of Butterflies - Remastered | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/the-law-of-butterflies/1740289913
+    references:
+    - source: music.apple.com-us-song-the-law-of-butterflies-1740289913
+      quote: ‎The Law of Butterflies - Song with Lyrics by Sina Salimi - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/4OZY3yQwBGLJqJhVDr4urO
+    references:
+    - source: open.spotify.com-track-4ozy3yqwbgljqjhvdr4uro
+      quote: The Law of Butterflies - song and lyrics by Sina Salimi | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  name:
+  - value:
+      text: The Law of Butterflies - Remastered
+      language: en
+    references:
+    - source: sinasalimi.bandcamp.com-track-the-law-of-butterflies-remastered
+      quote: The Law of Butterflies - Remastered
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  performer:
+  - value: Qt5sbqz
+    references:
+    - source: sinasalimi.bandcamp.com-track-the-law-of-butterflies-remastered
+      quote: The Law of Butterflies - Remastered | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qnex5ss
+    references:
+    - source: sinasalimi.bandcamp.com-album-ten-songs-for-my-motherland
+      quote: 'Memo Andres: acoustic guitar [7]'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  release date:
+  - value:
+      date: '2024-01-15'
+    references:
+    - source: sinasalimi.bandcamp.com-album-ten-songs-for-my-motherland
+      quote: released January 15, 2024
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a1239151173_10.jpg
+    references:
+    - source: sinasalimi.bandcamp.com-track-the-law-of-butterflies-remastered
+      quote: https://f4.bcbits.com/img/a1239151173_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Sina Salimi on Bandcamp
+        language: en

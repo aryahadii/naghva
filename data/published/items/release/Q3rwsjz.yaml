@@ -1,0 +1,73 @@
+id: Q3rwsjz
+type: release
+statements:
+  listen link:
+  - value: https://sinasalimi.bandcamp.com/track/young-soldier
+    references:
+    - source: sinasalimi.bandcamp.com-track-young-soldier
+      quote: Young Soldier | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/young-soldier/751555739
+    references:
+    - source: music.apple.com-us-song-young-soldier-751555739
+      quote: ‎Young Soldier - Song with Lyrics by Sina Salimi - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/0avhPCJq5e65MdfKtXhNej
+    references:
+    - source: open.spotify.com-track-0avhpcjq5e65mdfktxhnej
+      quote: Young Soldier - song and lyrics by Sina Salimi | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://www.youtube.com/watch?v=PBk8xoSqIKQ
+    references:
+    - source: www.youtube.com-watch-v-pbk8xosqikq
+      quote: Sina Salimi - Young Soldier
+      accessed: '2026-11-21'
+      locator: Page title
+  name:
+  - value:
+      text: Young Soldier
+      language: en
+    references:
+    - source: sinasalimi.bandcamp.com-track-young-soldier
+      quote: Young Soldier
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  performer:
+  - value: Qt5sbqz
+    references:
+    - source: sinasalimi.bandcamp.com-track-young-soldier
+      quote: Young Soldier | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qxyynn6
+    references:
+    - source: sinasalimi.bandcamp.com-album-perhaps-there
+      quote: 'Accordion (Tracks #1,5,6,9) ...... Robbie Grunwald'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  release date:
+  - value:
+      date: '2013-11-02'
+    references:
+    - source: sinasalimi.bandcamp.com-album-perhaps-there
+      quote: released November 2, 2013
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a0117575761_10.jpg
+    references:
+    - source: sinasalimi.bandcamp.com-track-young-soldier
+      quote: https://f4.bcbits.com/img/a0117575761_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    - source: sinasalimi.bandcamp.com-album-perhaps-there
+      quote: 'Album Design: KAJART'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: KAJART
+        language: en

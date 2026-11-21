@@ -1,0 +1,67 @@
+id: Q9ncgk5
+type: release
+statements:
+  listen link:
+  - value: https://sinasalimi.bandcamp.com/track/tribe-girl
+    references:
+    - source: sinasalimi.bandcamp.com-track-tribe-girl
+      quote: Tribe Girl | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/tribe-girl/751555753
+    references:
+    - source: music.apple.com-us-song-tribe-girl-751555753
+      quote: ‎Tribe Girl - Song with Lyrics by Sina Salimi - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/5vMAr4xpFucM5DcQBJLgJF
+    references:
+    - source: open.spotify.com-track-5vmar4xpfucm5dcqbjlgjf
+      quote: Tribe Girl - song and lyrics by Sina Salimi | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  name:
+  - value:
+      text: Tribe Girl
+      language: en
+    references:
+    - source: sinasalimi.bandcamp.com-track-tribe-girl
+      quote: Tribe Girl
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  performer:
+  - value: Qt5sbqz
+    references:
+    - source: sinasalimi.bandcamp.com-track-tribe-girl
+      quote: Tribe Girl | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qxyynn6
+    references:
+    - source: sinasalimi.bandcamp.com-album-perhaps-there
+      quote: 'Accordion (Tracks #1,5,6,9) ...... Robbie Grunwald'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  release date:
+  - value:
+      date: '2013-11-02'
+    references:
+    - source: sinasalimi.bandcamp.com-album-perhaps-there
+      quote: released November 2, 2013
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a0117575761_10.jpg
+    references:
+    - source: sinasalimi.bandcamp.com-track-tribe-girl
+      quote: https://f4.bcbits.com/img/a0117575761_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    - source: sinasalimi.bandcamp.com-album-perhaps-there
+      quote: 'Album Design: KAJART'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: KAJART
+        language: en

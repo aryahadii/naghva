@@ -1,0 +1,55 @@
+id: Q3jhkhj
+type: release
+statements:
+  name:
+  - value:
+      text: Insect, Parvaresh/Raffel
+      language: en
+    references:
+    - source: www.youtube.com-oembed-qbfz_o5foc4
+      quote: Insect, Parvaresh/Raffel
+      locator: Native video title and attribution
+      accessed: '2026-11-21'
+  performer:
+  - value: Q9aspca
+    references:
+    - source: sheentrio.bandcamp.com-album-gozar
+      quote: Shabnam Parvaresh - Bass Clarinet, Flute, FX
+      locator: Trio performance credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: bass clarinet
+  - value: Q3kbj26
+    references:
+    - source: www.youtube.com-watchv-qbfz_o5foc4
+      quote: 'Joachim Raffel: Piano'
+      locator: Live player
+      accessed: '2026-11-21'
+    qualifiers:
+      role: piano
+  release date:
+  - value:
+      date: '2023-07-18'
+    references:
+    - source: www.youtube.com-watchv-qbfz_o5foc4
+      quote: '2023-07-18T02:37:04-07:00'
+      locator: Public upload date
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://www.youtube.com/watch?v=QBfZ_o5Foc4
+    references:
+    - source: www.youtube.com-oembed-qbfz_o5foc4
+      quote: Insect, Parvaresh/Raffel
+      locator: Native video title and attribution
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://i.ytimg.com/vi/QBfZ_o5Foc4/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-qbfz_o5foc4
+      quote: https://i.ytimg.com/vi/QBfZ_o5Foc4/hqdefault.jpg
+      locator: Original video image
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Shabnam Parvaresh · video still
+        language: en

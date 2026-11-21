@@ -1,0 +1,53 @@
+id: Qywy6as
+type: release
+statements:
+  name:
+  - value:
+      text: Sheen Trio - Collapse · Mühle der Freundschaft
+      language: en
+    references:
+    - source: www.youtube.com-oembed-zswel8qwrvg
+      quote: Sheen Trio - Collapse
+      locator: Native video title and attribution
+      accessed: '2026-11-21'
+  performer:
+  - value: Q9aspca
+    references:
+    - source: sheentrio.bandcamp.com-album-gozar
+      quote: Shabnam Parvaresh - Bass Clarinet, Flute, FX
+      locator: Trio performance credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: bass clarinet
+  - value: Qy7eg4c
+    references:
+    - source: www.youtube.com-oembed-zswel8qwrvg
+      quote: Sheen Trio - Collapse
+      locator: Native video title and attribution
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2025-01-08'
+    references:
+    - source: www.youtube.com-watchv-zswel8qwrvg
+      quote: '2025-01-08T10:42:29-08:00'
+      locator: Public upload date
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://www.youtube.com/watch?v=zswEL8QwrVg
+    references:
+    - source: www.youtube.com-oembed-zswel8qwrvg
+      quote: Sheen Trio - Collapse
+      locator: Native video title and attribution
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://i.ytimg.com/vi/zswEL8QwrVg/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-zswel8qwrvg
+      quote: https://i.ytimg.com/vi/zswEL8QwrVg/hqdefault.jpg
+      locator: Original video image
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Sheen Trio · video still
+        language: en

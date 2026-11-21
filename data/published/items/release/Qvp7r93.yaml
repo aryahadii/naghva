@@ -1,0 +1,69 @@
+id: Qvp7r93
+type: release
+statements:
+  listen link:
+  - value: https://sinasalimi.bandcamp.com/track/from-here-to-your-arms
+    references:
+    - source: sinasalimi.bandcamp.com-track-from-here-to-your-arms
+      quote: From Here to Your Arms | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/from-here-to-your-arms/1889276833
+    references:
+    - source: music.apple.com-us-song-from-here-to-your-arms-1889276833
+      quote: ‎From Here to Your Arms - Song with Lyrics by Sina Salimi - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/4dgB12FvC8eWXJClpksITb
+    references:
+    - source: open.spotify.com-track-4dgb12fvc8ewxjclpksitb
+      quote: From Here to Your Arms - song and lyrics by Sina Salimi | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  name:
+  - value:
+      text: From Here to Your Arms
+      language: en
+    references:
+    - source: sinasalimi.bandcamp.com-track-from-here-to-your-arms
+      quote: From Here to Your Arms
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  performer:
+  - value: Qt5sbqz
+    references:
+    - source: sinasalimi.bandcamp.com-track-from-here-to-your-arms
+      quote: From Here to Your Arms | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Q9e78h7
+    references:
+    - source: sinasalimi.bandcamp.com-album-travellers-musicians-and-other-stories
+      quote: Gonzalo Cardenas………….....accordion [tracks 1, 4, 7, 11, 16, 17, 20, 22]
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Q8p455p
+    references:
+    - source: sinasalimi.bandcamp.com-album-travellers-musicians-and-other-stories
+      quote: Charlotte McAfee-Brunner…....trombone [tracks 1, 5, 12, 14, 17, 20]‎
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  release date:
+  - value:
+      date: '2026-03-20'
+    references:
+    - source: sinasalimi.bandcamp.com-album-travellers-musicians-and-other-stories
+      quote: released March 20, 2026
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a2498350153_10.jpg
+    references:
+    - source: sinasalimi.bandcamp.com-track-from-here-to-your-arms
+      quote: https://f4.bcbits.com/img/a2498350153_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Pegah Mian
+        language: en

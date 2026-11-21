@@ -1,0 +1,57 @@
+id: Qwzy2pw
+type: release
+statements:
+  name:
+  - value:
+      text: Elegie
+      language: en
+    references:
+    - source: unland.bandcamp.com-album-die-ruhe-nach-dem-sturm
+      quote: Elegie
+      locator: Track 3
+      accessed: '2026-11-21'
+  performer:
+  - value: Q9aspca
+    references:
+    - source: unland.bandcamp.com-album-unland
+      quote: clarinetist Shabnam Pavaresh
+      locator: Original trio membership
+      accessed: '2026-11-21'
+    - source: www.shabnamparvaresh.com-discography
+      quote: UNLAND-Die ruhe nach dem Sturm
+      locator: Artist discography
+      accessed: '2026-11-21'
+    qualifiers:
+      role: clarinet
+  - value: Qs2xmxr
+    references:
+    - source: unland.bandcamp.com-album-die-ruhe-nach-dem-sturm
+      quote: Unland
+      locator: Billed musician or ensemble
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2016-04-15'
+    references:
+    - source: unland.bandcamp.com-album-die-ruhe-nach-dem-sturm
+      quote: 15 Apr 2016 00:00:00 GMT
+      locator: Original publication date
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://f4.bcbits.com/img/a0043729222_10.jpg
+    references:
+    - source: unland.bandcamp.com-album-die-ruhe-nach-dem-sturm
+      quote: https://f4.bcbits.com/img/a0043729222_10.jpg
+      locator: Portrait or cover art on the artist or publisher page
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Unland · release artwork
+        language: en
+  listen link:
+  - value: https://unland.bandcamp.com/track/elegie
+    references:
+    - source: unland.bandcamp.com-album-die-ruhe-nach-dem-sturm
+      quote: Elegie
+      locator: Track 3
+      accessed: '2026-11-21'

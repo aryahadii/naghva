@@ -1,0 +1,53 @@
+id: Qqex8xh
+type: release
+statements:
+  name:
+  - value:
+      text: Unland - Dunkle Manie Live
+      language: en
+    references:
+    - source: www.youtube.com-oembed-fosciv_o7fk
+      quote: Unland - Dunkle Manie Live
+      locator: Native video title and attribution
+      accessed: '2026-11-21'
+  performer:
+  - value: Q9aspca
+    references:
+    - source: unland.bandcamp.com-album-unland
+      quote: clarinetist Shabnam Pavaresh
+      locator: Performing lineup
+      accessed: '2026-11-21'
+    qualifiers:
+      role: clarinet
+  - value: Qs2xmxr
+    references:
+    - source: www.youtube.com-oembed-fosciv_o7fk
+      quote: Unland - Dunkle Manie Live
+      locator: Native video title and attribution
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2015-12-04'
+    references:
+    - source: www.youtube.com-watchv-fosciv_o7fk
+      quote: '2015-12-04T07:40:33-08:00'
+      locator: Public upload date
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://www.youtube.com/watch?v=fOSciV_o7Fk
+    references:
+    - source: www.youtube.com-oembed-fosciv_o7fk
+      quote: Unland - Dunkle Manie Live
+      locator: Native video title and attribution
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://i.ytimg.com/vi/fOSciV_o7Fk/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-fosciv_o7fk
+      quote: https://i.ytimg.com/vi/fOSciV_o7Fk/hqdefault.jpg
+      locator: Original video image
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Unland · video still
+        language: en

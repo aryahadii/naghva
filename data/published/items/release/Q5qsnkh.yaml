@@ -1,0 +1,81 @@
+id: Q5qsnkh
+type: release
+statements:
+  listen link:
+  - value: https://sinasalimi.bandcamp.com/track/flight-of-a-bird-feat-mahnaz-rad-remastered
+    references:
+    - source: sinasalimi.bandcamp.com-track-flight-of-a-bird-feat-mahnaz-rad-remastered
+      quote: Flight of a Bird (feat. Mahnaz Rad) - Remastered | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/flight-of-a-bird/1740289665
+    references:
+    - source: music.apple.com-us-song-flight-of-a-bird-1740289665
+      quote: ‎Flight of a Bird - Song with Lyrics by Sina Salimi - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/358F9e8kTEWVffQ9AP2inz
+    references:
+    - source: open.spotify.com-track-358f9e8ktewvffq9ap2inz
+      quote: Flight of a Bird - song and lyrics by Sina Salimi | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  name:
+  - value:
+      text: Flight of a Bird (feat. Mahnaz Rad) - Remastered
+      language: en
+    references:
+    - source: sinasalimi.bandcamp.com-track-flight-of-a-bird-feat-mahnaz-rad-remastered
+      quote: Flight of a Bird (feat. Mahnaz Rad) - Remastered
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  performer:
+  - value: Qt5sbqz
+    references:
+    - source: sinasalimi.bandcamp.com-track-flight-of-a-bird-feat-mahnaz-rad-remastered
+      quote: Flight of a Bird (feat. Mahnaz Rad) - Remastered | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Q6y6d6b
+    references:
+    - source: sinasalimi.bandcamp.com-album-ten-songs-for-my-motherland
+      quote: 'Mahnaz Rad: vocals [1, 2, 5, 8, 9, 10]'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Qmvbr8r
+    references:
+    - source: sinasalimi.bandcamp.com-album-ten-songs-for-my-motherland
+      quote: 'Shahrouz Molaei: drums [5]'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Qyvgnrd
+    references:
+    - source: sinasalimi.bandcamp.com-album-ten-songs-for-my-motherland
+      quote: 'Ali Kamali: bass [1, 5]'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Q66mt9v
+    references:
+    - source: sinasalimi.bandcamp.com-album-ten-songs-for-my-motherland
+      quote: 'Mohammad Talani: electric guitar [5]'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  release date:
+  - value:
+      date: '2024-01-15'
+    references:
+    - source: sinasalimi.bandcamp.com-album-ten-songs-for-my-motherland
+      quote: released January 15, 2024
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a1239151173_10.jpg
+    references:
+    - source: sinasalimi.bandcamp.com-track-flight-of-a-bird-feat-mahnaz-rad-remastered
+      quote: https://f4.bcbits.com/img/a1239151173_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Sina Salimi on Bandcamp
+        language: en

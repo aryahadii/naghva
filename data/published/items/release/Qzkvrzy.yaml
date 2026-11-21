@@ -1,0 +1,61 @@
+id: Qzkvrzy
+type: release
+statements:
+  listen link:
+  - value: https://sinasalimi.bandcamp.com/track/time-always-passes-by
+    references:
+    - source: sinasalimi.bandcamp.com-track-time-always-passes-by
+      quote: Time Always Passes By | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/time-always-passes-by/1544199164
+    references:
+    - source: music.apple.com-us-song-time-always-passes-by-1544199164
+      quote: ‎Time Always Passes By - Song with Lyrics by Sina Salimi - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/3u3y9dJI0adLqw2bY1zJfx
+    references:
+    - source: open.spotify.com-track-3u3y9dji0adlqw2by1zjfx
+      quote: Time Always Passes By - song and lyrics by Sina Salimi | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  name:
+  - value:
+      text: Time Always Passes By
+      language: en
+    references:
+    - source: sinasalimi.bandcamp.com-track-time-always-passes-by
+      quote: Time Always Passes By
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  performer:
+  - value: Qt5sbqz
+    references:
+    - source: sinasalimi.bandcamp.com-track-time-always-passes-by
+      quote: Time Always Passes By | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2020-12-21'
+    references:
+    - source: sinasalimi.bandcamp.com-album-all-of-our-tomorrows
+      quote: released December 21, 2020
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a0734454998_10.jpg
+    references:
+    - source: sinasalimi.bandcamp.com-track-time-always-passes-by
+      quote: https://f4.bcbits.com/img/a0734454998_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    - source: sinasalimi.bandcamp.com-album-all-of-our-tomorrows
+      quote: Design & Layout by Vahid Fazel
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: Vahid Fazel
+        language: en

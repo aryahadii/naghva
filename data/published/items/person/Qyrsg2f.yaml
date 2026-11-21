@@ -6,7 +6,62 @@ statements:
       text: Kiyarash Davoudi
       language: en
     references:
-    - source: music.apple.com-us-album-vafaye-to-feat-pedram-khavarzamini-ali-ghanbari-single-1740799689
+    - source: music.apple.com-us-artist-kiyarash-davoudi-1721576335
       quote: Kiyarash Davoudi
       accessed: '2026-11-21'
-      locator: Album headline billing
+      locator: Distributed artist name
+  - value:
+      text: کیارش داودی
+      language: fa
+    references:
+    - source: www.harmonytalk.com-128571
+      quote: کیارش داودی
+      accessed: '2026-11-21'
+      locator: Critic’s account of the debut
+  image:
+  - value: https://i.scdn.co/image/ab6761610000e5ebd9abf16d3cb9b4b8e3c7c489
+    qualifiers:
+      credit:
+        text: Kiyarash Davoudi on Spotify
+        language: en
+    references:
+    - source: open.spotify.com-artist-7c3f4arc7nveidsqdmbpa4
+      quote: https://i.scdn.co/image/ab6761610000e5ebd9abf16d3cb9b4b8e3c7c489
+      accessed: '2026-11-21'
+      locator: Native Spotify profile photograph
+  profile link:
+  - value: https://music.apple.com/us/artist/kiyarash-davoudi/1721576335
+    references:
+    - source: music.apple.com-us-artist-kiyarash-davoudi-1721576335
+      quote: ‎Kiyarash Davoudi - Apple Music
+      accessed: '2026-11-21'
+      locator: Original page heading
+  - value: https://open.spotify.com/artist/7C3f4aRc7nvEIDSqdMbpa4
+    references:
+    - source: open.spotify.com-artist-7c3f4arc7nveidsqdmbpa4
+      quote: Listen to Kiyarash Davoudi Songs | Spotify
+      accessed: '2026-11-21'
+      locator: Original page heading
+  - value: https://www.youtube.com/channel/UChE53Ne1P3SoMyx63w_wzSQ
+    references:
+    - source: www.youtube.com-channel-uche53ne1p3somyx63w_wzsq-videos
+      quote: kiyarash davoudi - YouTube
+      accessed: '2026-11-21'
+      locator: Original page heading
+  - value: https://soundcloud.com/kiyarashdavoudi
+    references:
+    - source: soundcloud.com-kiyarashdavoudi-tracks
+      quote: Stream Kiyarash Davoudi | Listen to music albums online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Artist profile
+  member of:
+  - value: Qy4rh86
+    references:
+    - source: www.youtube.com-watch-v-5amq9mffkbs
+      quote: اجرای همنوازان وداد
+      accessed: '2026-11-21'
+      locator: Ensemble performance credit
+    - source: www.youtube.com-watch-v-5amq9mffkbs
+      quote: 'آلبوم فریاد هجران منتشر شد | آهنگساز: کیارش داودی | خواننده: منصور جمعه‌زاده | اجرا: همنوازان وداد'
+      accessed: '2026-11-21'
+      locator: Native YouTube title

@@ -1,0 +1,83 @@
+id: Qyfhxs5
+type: release
+statements:
+  listen link:
+  - value: https://sinasalimi.bandcamp.com/track/you-will-not-die
+    references:
+    - source: sinasalimi.bandcamp.com-track-you-will-not-die
+      quote: You Will Not Die - تو نمی‌میری | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/you-will-not-die-single/1706059717
+    references:
+    - source: music.apple.com-us-album-you-will-not-die-single-1706059717
+      quote: ‎You Will Not Die - Single - Album by Sina Salimi - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/you-will-not-die/1706059721
+    references:
+    - source: music.apple.com-us-song-you-will-not-die-1706059721
+      quote: ‎You Will Not Die - Song with Lyrics by Sina Salimi - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/album/5nWn4K5PnRlnXAoRc5JKqR
+    references:
+    - source: open.spotify.com-album-5nwn4k5pnrlnxaorc5jkqr
+      quote: Listen to You Will Not Die - Single by Sina Salimi | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/4D2oL9VqDWDBES19Bdhdrr
+    references:
+    - source: open.spotify.com-track-4d2ol9vqdwdbes19bdhdrr
+      quote: You Will Not Die - song and lyrics by Sina Salimi | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://www.youtube.com/watch?v=XUEciPvnbhc
+    references:
+    - source: www.youtube.com-watch-v-xuecipvnbhc
+      quote: You Will Not Die - تو نمی‌میری
+      accessed: '2026-11-21'
+      locator: Page title
+  name:
+  - value:
+      text: You Will Not Die
+      language: en
+    references:
+    - source: sinasalimi.bandcamp.com-track-you-will-not-die
+      quote: You Will Not Die
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value:
+      text: تو نمی‌میری
+      language: fa
+    references:
+    - source: sinasalimi.bandcamp.com-track-you-will-not-die
+      quote: تو نمی‌میری
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  performer:
+  - value: Qt5sbqz
+    references:
+    - source: sinasalimi.bandcamp.com-track-you-will-not-die
+      quote: You Will Not Die - تو نمی‌میری | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2023-09-06'
+    references:
+    - source: music.apple.com-us-album-you-will-not-die-single-1706059717
+      quote: September 6, 2023
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a3399886930_10.jpg
+    references:
+    - source: sinasalimi.bandcamp.com-track-you-will-not-die
+      quote: https://f4.bcbits.com/img/a3399886930_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Sina Salimi
+        language: en

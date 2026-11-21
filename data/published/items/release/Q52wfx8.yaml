@@ -1,0 +1,108 @@
+id: Q52wfx8
+type: release
+statements:
+  listen link:
+  - value: https://sinasalimi.bandcamp.com/album/perhaps-there
+    references:
+    - source: sinasalimi.bandcamp.com-album-perhaps-there
+      quote: Perhaps There... | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/perhaps-there%C3%B6/751555629
+    references:
+    - source: music.apple.com-us-album-perhaps-there-c3-b6-751555629
+      quote: ‎Perhaps ThereÖ - Album by Sina Salimi - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/album/2eCUTio4ZPACBYed1sNpie
+    references:
+    - source: open.spotify.com-album-2ecutio4zpacbyed1snpie
+      quote: Listen to Perhaps There... - Album by Sina Salimi | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  name:
+  - value:
+      text: Perhaps There...
+      language: en
+    references:
+    - &id001
+      source: sinasalimi.bandcamp.com-album-perhaps-there
+      quote: Perhaps There...
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  performer:
+  - value: Qt5sbqz
+    references:
+    - source: sinasalimi.bandcamp.com-album-perhaps-there
+      quote: Perhaps There... | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qvyzytv
+    references:
+    - source: sinasalimi.bandcamp.com-album-perhaps-there
+      quote: 'Upright Bass: Darren Wall'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Qmvbr8r
+    references:
+    - source: sinasalimi.bandcamp.com-album-perhaps-there
+      quote: 'Drums: Shahrouz Molaei'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Qxyynn6
+    references:
+    - source: sinasalimi.bandcamp.com-album-perhaps-there
+      quote: 'Accordion (Tracks #1,5,6,9) ...... Robbie Grunwald'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Qyvgnrd
+    references:
+    - source: sinasalimi.bandcamp.com-album-perhaps-there
+      quote: 'Electric Guitar (Track #4) ........... Ali Kamali'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Q628mag
+    references:
+    - source: sinasalimi.bandcamp.com-album-perhaps-there
+      quote: 'Violin (Track #7) ......................... Raha J'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Qt6yz62
+    references:
+    - source: sinasalimi.bandcamp.com-album-perhaps-there
+      quote: 'Cello (Track #8) ......................... Mahsa Ghasemi'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Q48fdve
+    references:
+    - source: sinasalimi.bandcamp.com-album-perhaps-there
+      quote: 'Oud & Guitar (Track #4&10) ...... Babak Amini'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  release type:
+  - value: album
+    references:
+    - *id001
+  release date:
+  - value:
+      date: '2013-11-02'
+    references:
+    - source: sinasalimi.bandcamp.com-album-perhaps-there
+      quote: released November 2, 2013
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a0117575761_10.jpg
+    references:
+    - source: sinasalimi.bandcamp.com-album-perhaps-there
+      quote: https://f4.bcbits.com/img/a0117575761_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    - source: sinasalimi.bandcamp.com-album-perhaps-there
+      quote: 'Album Design: KAJART'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: KAJART
+        language: en

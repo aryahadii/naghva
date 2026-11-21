@@ -6,6 +6,7 @@ tier: discography
 language: en
 about:
 - Pedram Khavarzamini
+- Kiyarash Davoudi
 status: processed
 ---
 
@@ -16,3 +17,7 @@ Spotify edition title, read 2026-11-21.
 > Vafaye To
 
 Spotify track listing, read 2026-11-21.
+
+> Vafaye To - Kiyarash Davoudi | Spotify
+
+Original page heading, read 2026-11-21.

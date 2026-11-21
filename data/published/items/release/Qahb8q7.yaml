@@ -1,0 +1,71 @@
+id: Qahb8q7
+type: release
+statements:
+  listen link:
+  - value: https://sinasalimi.bandcamp.com/track/a-song-for-khodanoor-and-in-praise-of-water
+    references:
+    - source: sinasalimi.bandcamp.com-track-a-song-for-khodanoor-and-in-praise-of-water
+      quote: A Song for Khodanoor (And in praise of water) - ترانه‌ای برای خدانور (و در ستایش آب) | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/a-song-for-khodanoor-and-in-praise-of-water-single/1694408168
+    references:
+    - source: music.apple.com-us-album-a-song-for-khodanoor-and-in-praise-of-water-single-1694408168
+      quote: ‎A Song for Khodanoor (And in praise of water) - Single - Album by Sina Salimi - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/a-song-for-khodanoor-and-in-praise-of-water/1694408174
+    references:
+    - source: music.apple.com-us-song-a-song-for-khodanoor-and-in-praise-of-water-1694408174
+      quote: ‎A Song for Khodanoor (And in praise of water) - Song with Lyrics by Sina Salimi - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://www.youtube.com/watch?v=PlqO5lfh5ds
+    references:
+    - source: www.youtube.com-watch-v-plqo5lfh5ds
+      quote: A Song for Khodanoor (And in praise of water) -     ترانه‌ای برای خدانور (و در ستایش آب)
+      accessed: '2026-11-21'
+      locator: Page title
+  name:
+  - value:
+      text: A Song for Khodanoor (And in praise of water)
+      language: en
+    references:
+    - source: sinasalimi.bandcamp.com-track-a-song-for-khodanoor-and-in-praise-of-water
+      quote: A Song for Khodanoor (And in praise of water)
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value:
+      text: ترانه‌ای برای خدانور (و در ستایش آب)
+      language: fa
+    references:
+    - source: sinasalimi.bandcamp.com-track-a-song-for-khodanoor-and-in-praise-of-water
+      quote: ترانه‌ای برای خدانور (و در ستایش آب)
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  performer:
+  - value: Qt5sbqz
+    references:
+    - source: sinasalimi.bandcamp.com-track-a-song-for-khodanoor-and-in-praise-of-water
+      quote: A Song for Khodanoor (And in praise of water) - ترانه‌ای برای خدانور (و در ستایش آب) | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2023-06-20'
+    references:
+    - source: music.apple.com-us-album-a-song-for-khodanoor-and-in-praise-of-water-single-1694408168
+      quote: June 20, 2023
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a2030917385_10.jpg
+    references:
+    - source: sinasalimi.bandcamp.com-track-a-song-for-khodanoor-and-in-praise-of-water
+      quote: https://f4.bcbits.com/img/a2030917385_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Sina Salimi
+        language: en

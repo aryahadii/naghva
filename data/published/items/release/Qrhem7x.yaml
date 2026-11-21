@@ -1,0 +1,53 @@
+id: Qrhem7x
+type: release
+statements:
+  name:
+  - value:
+      text: Demut
+      language: en
+    references:
+    - source: unland.bandcamp.com-album-betrachtungen
+      quote: Demut
+      locator: Track 5
+      accessed: '2026-11-21'
+  performer:
+  - value: Q9aspca
+    references:
+    - source: unland.bandcamp.com-album-betrachtungen
+      quote: Shabnam Parvaresh - Clarinet
+      locator: Original personnel credit
+      accessed: '2026-11-21'
+    qualifiers:
+      role: clarinet
+  - value: Qs2xmxr
+    references:
+    - source: unland.bandcamp.com-album-betrachtungen
+      quote: Unland
+      locator: Billed musician or ensemble
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2018-11-01'
+    references:
+    - source: unland.bandcamp.com-album-betrachtungen
+      quote: 01 Nov 2018 00:00:00 GMT
+      locator: Original publication date
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://f4.bcbits.com/img/a3364744611_10.jpg
+    references:
+    - source: unland.bandcamp.com-album-betrachtungen
+      quote: https://f4.bcbits.com/img/a3364744611_10.jpg
+      locator: Portrait or cover art on the artist or publisher page
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Unland · release artwork
+        language: en
+  listen link:
+  - value: https://unland.bandcamp.com/track/demut
+    references:
+    - source: unland.bandcamp.com-album-betrachtungen
+      quote: Demut
+      locator: Track 5
+      accessed: '2026-11-21'

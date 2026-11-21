@@ -1,0 +1,69 @@
+id: Qrrdvgk
+type: release
+statements:
+  listen link:
+  - value: https://sinasalimi.bandcamp.com/track/ballad-of-tara
+    references:
+    - source: sinasalimi.bandcamp.com-track-ballad-of-tara
+      quote: Ballad of Tara | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/ballad-of-tara/1889276984
+    references:
+    - source: music.apple.com-us-song-ballad-of-tara-1889276984
+      quote: ‎Ballad of Tara - Song with Lyrics by Sina Salimi - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/5H6HKfy6fJdld9AYlo0Xtz
+    references:
+    - source: open.spotify.com-track-5h6hkfy6fjdld9aylo0xtz
+      quote: Ballad of Tara - song and lyrics by Sina Salimi | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  name:
+  - value:
+      text: Ballad of Tara
+      language: en
+    references:
+    - source: sinasalimi.bandcamp.com-track-ballad-of-tara
+      quote: Ballad of Tara
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  performer:
+  - value: Qt5sbqz
+    references:
+    - source: sinasalimi.bandcamp.com-track-ballad-of-tara
+      quote: Ballad of Tara | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qk5shyb
+    references:
+    - source: sinasalimi.bandcamp.com-album-travellers-musicians-and-other-stories
+      quote: Andrew Kay..............................bass clarinet [tracks 1, 10, 13,19]
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Qfde282
+    references:
+    - source: sinasalimi.bandcamp.com-album-travellers-musicians-and-other-stories
+      quote: Raha Javanfar………………....violin [track 18, 19, 20]‎
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  release date:
+  - value:
+      date: '2026-03-20'
+    references:
+    - source: sinasalimi.bandcamp.com-album-travellers-musicians-and-other-stories
+      quote: released March 20, 2026
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a2498350153_10.jpg
+    references:
+    - source: sinasalimi.bandcamp.com-track-ballad-of-tara
+      quote: https://f4.bcbits.com/img/a2498350153_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Pegah Mian
+        language: en

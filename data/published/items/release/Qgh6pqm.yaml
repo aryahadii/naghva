@@ -1,0 +1,67 @@
+id: Qgh6pqm
+type: release
+statements:
+  listen link:
+  - value: https://sinasalimi.bandcamp.com/track/clouds-of-oblivion
+    references:
+    - source: sinasalimi.bandcamp.com-track-clouds-of-oblivion
+      quote: Clouds of Oblivion | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/clouds-of-oblivion/1544199163
+    references:
+    - source: music.apple.com-us-song-clouds-of-oblivion-1544199163
+      quote: ‎Clouds of Oblivion - Song with Lyrics by Sina Salimi - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/2xC4uTAiPbW1CtAug9empJ
+    references:
+    - source: open.spotify.com-track-2xc4utaipbw1ctaug9empj
+      quote: Clouds of Oblivion - song and lyrics by Sina Salimi | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://www.youtube.com/watch?v=1jER-Jf6z4k
+    references:
+    - source: www.youtube.com-watch-v-1jer-jf6z4k
+      quote: Sina Salimi - Clouds of Oblivion / ابرهای بیهوشی - سینا سلیمی
+      accessed: '2026-11-21'
+      locator: Page title
+  name:
+  - value:
+      text: Clouds of Oblivion
+      language: en
+    references:
+    - source: sinasalimi.bandcamp.com-track-clouds-of-oblivion
+      quote: Clouds of Oblivion
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  performer:
+  - value: Qt5sbqz
+    references:
+    - source: sinasalimi.bandcamp.com-track-clouds-of-oblivion
+      quote: Clouds of Oblivion | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2020-12-21'
+    references:
+    - source: sinasalimi.bandcamp.com-album-all-of-our-tomorrows
+      quote: released December 21, 2020
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a0734454998_10.jpg
+    references:
+    - source: sinasalimi.bandcamp.com-track-clouds-of-oblivion
+      quote: https://f4.bcbits.com/img/a0734454998_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    - source: sinasalimi.bandcamp.com-album-all-of-our-tomorrows
+      quote: Design & Layout by Vahid Fazel
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: Vahid Fazel
+        language: en

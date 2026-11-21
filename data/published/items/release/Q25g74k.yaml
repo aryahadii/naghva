@@ -1,0 +1,26 @@
+id: Q25g74k
+type: release
+statements:
+  listen link:
+  - value: https://open.spotify.com/track/5o8DQHtcDYdy1aqIbl3Aa7
+    references:
+    - source: open.spotify.com-track-5o8dqhtcdydy1aqibl3aa7
+      quote: Zolfonoon (Live at Revival) - song and lyrics by Dastgamachine, Sina Salimi | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  name:
+  - value:
+      text: Zolfonoon (Live at Revival)
+      language: en
+    references:
+    - source: open.spotify.com-track-5o8dqhtcdydy1aqibl3aa7
+      quote: Zolfonoon (Live at Revival)
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  performer:
+  - value: Qt5sbqz
+    references:
+    - source: open.spotify.com-track-5o8dqhtcdydy1aqibl3aa7
+      quote: Zolfonoon (Live at Revival) - song and lyrics by Dastgamachine, Sina Salimi | Spotify
+      accessed: '2026-11-21'
+      locator: Page title

@@ -1,0 +1,63 @@
+id: Qaahst4
+type: release
+statements:
+  listen link:
+  - value: https://sinasalimi.bandcamp.com/track/early-morning
+    references:
+    - source: sinasalimi.bandcamp.com-track-early-morning
+      quote: Early Morning | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/early-morning/1889276832
+    references:
+    - source: music.apple.com-us-song-early-morning-1889276832
+      quote: ‎Early Morning - Song with Lyrics by Sina Salimi - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/4BSz8unQrGqV7Iol0HrfyS
+    references:
+    - source: open.spotify.com-track-4bsz8unqrgqv7iol0hrfys
+      quote: Early Morning - song and lyrics by Sina Salimi | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  name:
+  - value:
+      text: Early Morning
+      language: en
+    references:
+    - source: sinasalimi.bandcamp.com-track-early-morning
+      quote: Early Morning
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  performer:
+  - value: Qt5sbqz
+    references:
+    - source: sinasalimi.bandcamp.com-track-early-morning
+      quote: Early Morning | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Q9vs55j
+    references:
+    - source: sinasalimi.bandcamp.com-album-travellers-musicians-and-other-stories
+      quote: Michael Louis Johnson.............flugelhorn [tracks 14, 15]
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  release date:
+  - value:
+      date: '2026-03-20'
+    references:
+    - source: sinasalimi.bandcamp.com-album-travellers-musicians-and-other-stories
+      quote: released March 20, 2026
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a2498350153_10.jpg
+    references:
+    - source: sinasalimi.bandcamp.com-track-early-morning
+      quote: https://f4.bcbits.com/img/a2498350153_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Pegah Mian
+        language: en

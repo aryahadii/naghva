@@ -38,6 +38,12 @@ statements:
       quote: Yadmane 93
       accessed: '2026-11-21'
       locator: Spotify track listing
+  - value: https://soundcloud.com/kiyarashdavoudi/yadmane-93
+    references:
+    - source: soundcloud.com-kiyarashdavoudi-yadmane-93
+      quote: Yadmane 93
+      accessed: '2026-11-21'
+      locator: Artist SoundCloud recording title
   release date:
   - value:
       date: '2025-11-22'

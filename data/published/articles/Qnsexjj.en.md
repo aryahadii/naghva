@@ -70,6 +70,27 @@ references:
     quote: a passage from Ishtar's Descent to the Netherworld
     accessed: 2026-11-21
     locator: Adaptations
+  kuro:
+    source: therazorsedge.rocks-2023-11-live-review-damnation-festival
+    quote: Nina added her Middle East style vocals to great effect to a track that will appear on their new album
+      called ‘I Am Forever’
+    accessed: 2026-11-21
+    locator: Eyewitness to Kurokuma’s performance
+  cam:
+    source: echoesanddust.com-2024-10-lowen-the-black-heart
+    quote: October 11, 2024
+    accessed: 2026-11-21
+    locator: Date of the concert
+  cello:
+    source: echoesanddust.com-2024-10-lowen-the-black-heart
+    quote: the perfect complement to, and mirroring of, Nina’s vocal style
+    accessed: 2026-11-21
+    locator: Guest cellist and voice
+  guestartist:
+    source: echoesanddust.com-2024-10-lowen-the-black-heart
+    quote: Arianna Mahsayeh
+    accessed: 2026-11-21
+    locator: Guest cellist
 ---
 
 Nina Saeidi is a British-Iranian singer and instrumentalist who co-founded the London metal band Lowen in 2017. Her parents had sought asylum in Britain after the Iranian revolution. As a young listener she heard something familiar in the Middle Eastern melodies and singing of System of a Down. In Lowen she uses the ornamented vocal technique of Persian tahrir. She wrote and sang the lyrics on the band’s debut, *A Crypt in the Stars*.[^home][^serj][^identity][^band][^vocal][^lyric]
@@ -77,6 +98,8 @@ Nina Saeidi is a British-Iranian singer and instrumentalist who co-founded the L
 ## Singing from a tablet
 
 For an acoustic set at the Green Door Store in Brighton, Saeidi arranged lines from a Sumerian tablet for the song *The Exalted One Who Walketh*. She closed the three-song set in Persian with *Lalae Madar*, an Iranian lullaby. In 2021 her voice also appeared on *Cheragheh Zolmezalem (Oppression’s Fire)* by Mystras.[^place][^tablets][^lull][^my]
+
+In 2023 Saeidi joined Kurokuma onstage at Damnation Festival to sing *I Am Forever*. At Lowen’s London album launch in October 2024, she performed *May Your Ghost Drink Pure Water* with guest cellist Arianna Mahsayeh at the Black Heart in Camden.[^kuro][^cam][^cello][^guestartist]
 
 ## Writing for Wyatt E.
 

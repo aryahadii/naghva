@@ -1,0 +1,57 @@
+id: Qryzfc6
+type: release
+statements:
+  listen link:
+  - value: https://sinasalimi.bandcamp.com/track/like-the-gypsies-feat-mahnaz-rad
+    references:
+    - source: sinasalimi.bandcamp.com-track-like-the-gypsies-feat-mahnaz-rad
+      quote: Like the Gypsies (feat. Mahnaz Rad) | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/like-the-gypsies/1889276993
+    references:
+    - source: music.apple.com-us-song-like-the-gypsies-1889276993
+      quote: ‎Like the Gypsies - Song with Lyrics by Sina Salimi - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/29jW3CcPZNeUZ1DrCMFKMu
+    references:
+    - source: open.spotify.com-track-29jw3ccpzneuz1drcmfkmu
+      quote: Like the Gypsies - song and lyrics by Sina Salimi | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  name:
+  - value:
+      text: Like the Gypsies (feat. Mahnaz Rad)
+      language: en
+    references:
+    - source: sinasalimi.bandcamp.com-track-like-the-gypsies-feat-mahnaz-rad
+      quote: Like the Gypsies (feat. Mahnaz Rad)
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  performer:
+  - value: Qt5sbqz
+    references:
+    - source: sinasalimi.bandcamp.com-track-like-the-gypsies-feat-mahnaz-rad
+      quote: Like the Gypsies (feat. Mahnaz Rad) | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2026-03-20'
+    references:
+    - source: sinasalimi.bandcamp.com-album-travellers-musicians-and-other-stories
+      quote: released March 20, 2026
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a2498350153_10.jpg
+    references:
+    - source: sinasalimi.bandcamp.com-track-like-the-gypsies-feat-mahnaz-rad
+      quote: https://f4.bcbits.com/img/a2498350153_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Pegah Mian
+        language: en

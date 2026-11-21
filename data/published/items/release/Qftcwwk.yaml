@@ -1,0 +1,105 @@
+id: Qftcwwk
+type: release
+statements:
+  listen link:
+  - value: https://sinasalimi.bandcamp.com/track/on-the-road
+    references:
+    - source: sinasalimi.bandcamp.com-track-on-the-road
+      quote: On the Road | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://sinasalimi.bandcamp.com/track/on-the-road-2
+    references:
+    - source: sinasalimi.bandcamp.com-track-on-the-road-2
+      quote: On the Road | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/on-the-road/1889276825
+    references:
+    - source: music.apple.com-us-song-on-the-road-1889276825
+      quote: ‎On the Road - Song with Lyrics by Sina Salimi - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/5n8guWd4b6vtHXsTxlpgFZ
+    references:
+    - source: open.spotify.com-track-5n8guwd4b6vthxstxlpgfz
+      quote: On the Road - song and lyrics by Sina Salimi | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://www.youtube.com/watch?v=aDQ34dJnp78
+    references:
+    - source: www.youtube.com-watch-v-adq34djnp78
+      quote: On the Road -- در سفر  [with English subtitles]
+      accessed: '2026-11-21'
+      locator: Page title
+  name:
+  - value:
+      text: On the Road
+      language: en
+    references:
+    - source: sinasalimi.bandcamp.com-track-on-the-road
+      quote: On the Road
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  performer:
+  - value: Qt5sbqz
+    references:
+    - source: sinasalimi.bandcamp.com-track-on-the-road
+      quote: On the Road | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qk5shyb
+    references:
+    - source: sinasalimi.bandcamp.com-album-travellers-musicians-and-other-stories
+      quote: Andrew Kay..............................bass clarinet [tracks 1, 10, 13,19]
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Q9e78h7
+    references:
+    - source: sinasalimi.bandcamp.com-album-travellers-musicians-and-other-stories
+      quote: Gonzalo Cardenas………….....accordion [tracks 1, 4, 7, 11, 16, 17, 20, 22]
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Q8p455p
+    references:
+    - source: sinasalimi.bandcamp.com-album-travellers-musicians-and-other-stories
+      quote: Charlotte McAfee-Brunner…....trombone [tracks 1, 5, 12, 14, 17, 20]‎
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Qvyzytv
+    references:
+    - source: sinasalimi.bandcamp.com-track-on-the-road
+      quote: Darren Wall
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Q6y6d6b
+    references:
+    - source: sinasalimi.bandcamp.com-track-on-the-road
+      quote: Mahnaz Rad
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Q7a9kjg
+    references:
+    - source: sinasalimi.bandcamp.com-track-on-the-road
+      quote: Dhaivat jani
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  release date:
+  - value:
+      date: '2025-12-02'
+    references:
+    - source: sinasalimi.bandcamp.com-track-on-the-road
+      quote: released December 2, 2025
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a4186923715_10.jpg
+    references:
+    - source: sinasalimi.bandcamp.com-track-on-the-road
+      quote: https://f4.bcbits.com/img/a4186923715_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Sina Salimi
+        language: en
