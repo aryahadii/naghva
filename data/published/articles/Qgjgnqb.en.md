@@ -17,24 +17,41 @@ references:
     quote: |-
       For the first time in years, the original lineup—Sohrab Mohebbi (vocals and guitar), Salmak Khaledi (trombone), Sardar Sarmast (piano), and Yahya Alkhansa (drums)—will reunite on stage to deliver an unforgettable performance.
     accessed: '2026-10-19'
-  identity:
-    source: www.youtube.com-watch-v-02dygov4_xg-2d27f4f2b5de
-    quote: |-
-      آرین کشیشی، امیر دارابی، مهیار علیزاده، سردار سرمست
-    accessed: '2026-10-19'
   wild:
     source: soundcloud.com-makan-ashgvari-wild-is-the-wind-6a137dbd9cbc
     quote: |-
       Sardar Sarmast plays the piano and Makan Ashgvari sings. Saba studio, Tehran, spring of 2012
     accessed: '2026-10-19'
+  rhythm:
+    source: meidaan.com-archive-11774-346dc6a15b39
+    quote: |-
+      حالا همینو می‌تونی با درام بزنی جای تنبک؟ زدم.
+    accessed: '2026-10-23'
+  songcreation:
+    source: meidaan.com-archive-11774-346dc6a15b39
+    quote: |-
+      یعنی من یه چیز زدم سهراب خوند، سردار هم الکی یه چیزایی رو پیانو زد و یه دفعه آهنگ درست شد.
+    accessed: '2026-10-23'
+  moment:
+    source: meidaan.com-archive-11774-346dc6a15b39
+    quote: |-
+      کل آهنگ در لحظه ساخته شد.
+    accessed: '2026-10-23'
+  yahyaidentity:
+    source: meidaan.com-archive-11774-346dc6a15b39
+    quote: |-
+      یحیی الخنسا نوازنده‌ی درام و یکی از اعضای گروه ۱۲۷ است
+    accessed: '2026-10-23'
 ---
 
-Sardar Sarmast is a pianist and a member of 127’s original line-up. The promoter’s reunion announcement names him alongside Sohrab Mohebbi, Salmak Khaledi and Yahya Alkhansa.[^identity][^band]
+Sardar Sarmast is a pianist who played in the original lineup of [127](/en/127-2n5/). In Tehran he recorded with the singer [Makan Ashgvari](/en/makan-ashgvari-n8j/) and later made solo recordings of jazz standards at home.[^band][^wild][^standards]
 
-## Work with Makan Ashgvari
+## With 127
 
-Sarmast plays piano and [Makan Ashgvari](/en/makan-ashgvari-n8j/) sings on a live cover of Amy Winehouse’s Back to Black, recorded at Saba Studio in spring 2012.[^duo] The pair also recorded *Wild is the wind* at the same studio that spring.[^wild]
+Drummer Yahya Alkhansa recalled how one of 127’s songs came together. He played a tombak rhythm on his drum kit, Sohrab Mohebbi began to sing and Sarmast improvised on piano. They made the song on the spot.[^band][^yahyaidentity][^rhythm][^songcreation][^moment]
 
-## Jazz standards
+## At Saba Studio and at home
 
-Qame Feraq’s QF-020 record pairs Sarmast’s performances of The Nearness Of You and Georgia On My Mind. According to the label, he recorded the two performances in his living room in spring 2021. It does not give a release date.[^standards]
+In the spring of 2012, Sarmast and Ashgvari recorded at Saba Studio in Tehran. Sarmast accompanied Ashgvari on piano for a live cover of Amy Winehouse’s [“Back to Black”](#back-to-black-amy-winehouse-cover-by-sardar-sarmast-makan-ashgvari-mgw). They also recorded [“Wild Is the Wind”](#wild-is-the-wind-sardar-sarmast-makan-ashgvari-8zm) there that spring.[^duo][^wild]
+
+In spring 2021, Sarmast recorded “The Nearness of You” and “Georgia on My Mind” in his living room. Qame Feraq issued the two performances on opposite sides of [a record](#qf-020-sardar-sarmast-handcut-45-rpm-record-r2t).[^standards]

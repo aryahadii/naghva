@@ -17,24 +17,41 @@ references:
     quote: |-
       For the first time in years, the original lineup—Sohrab Mohebbi (vocals and guitar), Salmak Khaledi (trombone), Sardar Sarmast (piano), and Yahya Alkhansa (drums)—will reunite on stage to deliver an unforgettable performance.
     accessed: '2026-10-19'
-  identity:
-    source: www.youtube.com-watch-v-02dygov4_xg-2d27f4f2b5de
-    quote: |-
-      آرین کشیشی، امیر دارابی، مهیار علیزاده، سردار سرمست
-    accessed: '2026-10-19'
   wild:
     source: soundcloud.com-makan-ashgvari-wild-is-the-wind-6a137dbd9cbc
     quote: |-
       Sardar Sarmast plays the piano and Makan Ashgvari sings. Saba studio, Tehran, spring of 2012
     accessed: '2026-10-19'
+  rhythm:
+    source: meidaan.com-archive-11774-346dc6a15b39
+    quote: |-
+      حالا همینو می‌تونی با درام بزنی جای تنبک؟ زدم.
+    accessed: '2026-10-23'
+  songcreation:
+    source: meidaan.com-archive-11774-346dc6a15b39
+    quote: |-
+      یعنی من یه چیز زدم سهراب خوند، سردار هم الکی یه چیزایی رو پیانو زد و یه دفعه آهنگ درست شد.
+    accessed: '2026-10-23'
+  moment:
+    source: meidaan.com-archive-11774-346dc6a15b39
+    quote: |-
+      کل آهنگ در لحظه ساخته شد.
+    accessed: '2026-10-23'
+  yahyaidentity:
+    source: meidaan.com-archive-11774-346dc6a15b39
+    quote: |-
+      یحیی الخنسا نوازنده‌ی درام و یکی از اعضای گروه ۱۲۷ است
+    accessed: '2026-10-23'
 ---
 
-سردار سرمست نوازندهٔ پیانو و از اعضای ترکیب اولیهٔ گروه ۱۲۷ است. برگزارکنندهٔ کنسرت بازگشت گروه در معرفی ترکیب اولیه از او نام می‌برد.[^identity][^band]
+سردار سرمست نوازندهٔ پیانو و از اعضای نخستین گروه [۱۲۷](/fa/127-2n5/) است. او در تهران با [ماکان اشگواری](/fa/makan-ashgvari-n8j/)، خواننده، موسیقی ضبط کرد و بعدها در خانه دو قطعه از رپرتوار جَز را نواخت و ضبط کرد.[^band][^wild][^standards]
 
-## همکاری با ماکان اشگواری
+## با گروه ۱۲۷
 
-در ضبط زندهٔ Back to Black در استودیو صبا در بهار ۲۰۱۲، سرمست پیانو می‌نوازد و ماکان اشگواری می‌خواند. توضیح هنرمند این اجرا را بازخوانی اثر ایمی واینهاوس می‌نامد.[^duo] آن دو در همان بهار، *Wild is the wind* را نیز در استودیو صبا ضبط کردند.[^wild]
+یحیی الخنسا، درامر ۱۲۷، به یاد می‌آورد که یکی از آهنگ‌های گروه چطور ساخته شد. خودش ریتمی را که با تنبک می‌زد روی درامز نواخت، سهراب محبی خواند و سرمست پشت پیانو بداهه نواخت. آهنگ همان‌جا شکل گرفت.[^band][^yahyaidentity][^rhythm][^songcreation][^moment]
 
-## اجرای استانداردهای جَز
+## از استودیو صبا تا ضبط در خانه
 
-صفحهٔ *QF-020* از ناشر Qame Feraq شامل اجرای سرمست از دو قطعهٔ *The Nearness Of You* و *Georgia On My Mind* است. طبق توضیح ناشر، این دو اجرا در بهار ۲۰۲۱ در اتاق نشیمن هنرمند ضبط شدند. تاریخ انتشار صفحه در این توضیح نیامده است.[^standards]
+بهار ۱۳۹۱ سرمست و اشگواری در استودیو صبای تهران [«Back to Black»](#back-to-black-amy-winehouse-cover-by-sardar-sarmast-makan-ashgvari-mgw) از ایمی واینهاوس را زنده ضبط کردند. سرمست پیانو می‌نواخت و اشگواری می‌خواند. همان بهار [«Wild Is the Wind»](#wild-is-the-wind-sardar-sarmast-makan-ashgvari-8zm) را هم در استودیو صبا ضبط کردند.[^duo][^wild]
+
+بهار ۱۴۰۰ سرمست «The Nearness of You» و «Georgia on My Mind» را در اتاق نشیمن خانه‌اش ضبط کرد. غم فراق این دو اجرا را روی دو سوی [یک صفحه](#qf-020-sardar-sarmast-handcut-45-rpm-record-r2t) منتشر کرد.[^standards]
