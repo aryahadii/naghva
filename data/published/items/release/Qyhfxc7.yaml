@@ -1,0 +1,43 @@
+id: Qyhfxc7
+type: release
+statements:
+  name:
+  - value:
+      text: Nahayat Kojast
+      language: en
+    references:
+    - &id001
+      source: soundcloud.com-farzanezamen-nahayat-kojast
+      quote: Farzane Zamen - Nahayat Kojast
+      accessed: '2026-11-21'
+      locator: Track heading and account
+  performer:
+  - value: Q38h8s7
+    references:
+    - source: soundcloud.com-farzanezamen-nahayat-kojast
+      quote: Farzane Zamen
+      accessed: '2026-11-21'
+      locator: Track heading and account
+  listen link:
+  - value: https://soundcloud.com/farzanezamen/nahayat-kojast
+    references:
+    - *id001
+  - value: https://music.apple.com/us/album/nahayat-kojast-single/1745888661
+    references:
+    - &id002
+      source: music.apple.com-us-album-nahayat-kojast-single-1745888661
+      quote: Nahayat Kojast - Single
+      accessed: '2026-11-21'
+      locator: Release heading and date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9b/54/6d/9b546d6f-6795-df98-c6f8-f5497dff2630/615d7dc6-c2b8-4b6b-98e6-39d81e4242ee.jpg/632x632bb-60.jpg
+    references:
+    - *id002
+  release date:
+  - value:
+      date: '2013-01-01'
+    references:
+    - source: music.apple.com-us-album-nahayat-kojast-single-1745888661
+      quote: January 1, 2013
+      accessed: '2026-11-21'
+      locator: Release heading and date

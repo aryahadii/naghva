@@ -1,0 +1,28 @@
+id: Qq2ayya
+type: release
+statements:
+  name:
+  - value:
+      text: Acoustic Cold Tonight
+      language: en
+    references:
+    - &id001
+      source: soundcloud.com-farzanezamen-cold1
+      quote: Farzane Zamen - Acoustic Cold Tonight
+      accessed: '2026-11-21'
+      locator: Track heading and account
+  performer:
+  - value: Q38h8s7
+    references:
+    - source: soundcloud.com-farzanezamen-cold1
+      quote: Farzane Zamen
+      accessed: '2026-11-21'
+      locator: Track heading and account
+  listen link:
+  - value: https://soundcloud.com/farzanezamen/cold1
+    references:
+    - *id001
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-000031407686-faqxvw-large.jpg
+    references:
+    - *id001

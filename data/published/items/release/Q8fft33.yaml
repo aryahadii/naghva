@@ -1,0 +1,28 @@
+id: Q8fft33
+type: release
+statements:
+  name:
+  - value:
+      text: Maadar
+      language: en
+    references:
+    - &id001
+      source: soundcloud.com-farzanezamen-maadar
+      quote: Farzane Zamen - Maadar
+      accessed: '2026-11-21'
+      locator: Track heading and account
+  performer:
+  - value: Q38h8s7
+    references:
+    - source: soundcloud.com-farzanezamen-maadar
+      quote: Farzane Zamen
+      accessed: '2026-11-21'
+      locator: Track heading and account
+  listen link:
+  - value: https://soundcloud.com/farzanezamen/maadar
+    references:
+    - *id001
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-6XsDtToWO9NvcgD0-NUrf9A-large.jpg
+    references:
+    - *id001

@@ -1,0 +1,132 @@
+id: Qg4z85j
+type: act
+statements:
+  name:
+  - value:
+      text: Langtunes
+      language: en
+    references:
+    - source: behroozmoosavi.com-projects
+      quote: Langtunes was formed in 2009 by the producer/performer duo Behrooz Moosavi and Kamyar Keramati in the underground scene of Tehran.
+      accessed: '2026-11-21'
+      locator: Langtunes, opening sentence
+  - value:
+      text: لنگتونز
+      language: fa
+    references:
+    - source: melliun.org-iran-76552
+      quote: گروه “لنگتونز” (Langtunes) از گروه‌های زیر زمینی موسیقی راک در ایران است
+      accessed: '2026-11-21'
+      locator: Opening report
+  based in:
+  - value: Qhm6fzw
+    references:
+    - source: behroozmoosavi.com-projects
+      quote: Langtunes was formed in 2009 by the producer/performer duo Behrooz Moosavi and Kamyar Keramati in the underground scene of Tehran.
+      accessed: '2026-11-21'
+      locator: Langtunes, opening sentence
+  formation date:
+  - value:
+      date: '2009'
+    references:
+    - source: behroozmoosavi.com-projects
+      quote: Langtunes was formed in 2009 by the producer/performer duo Behrooz Moosavi and Kamyar Keramati in the underground scene of Tehran.
+      accessed: '2026-11-21'
+      locator: Langtunes, opening sentence
+  profile link:
+  - value: https://www.youtube.com/user/TheLangtunes
+    references:
+    - source: behroozmoosavi.com-projects
+      quote: https://www.youtube.com/user/TheLangtunes
+      accessed: '2026-11-21'
+      locator: Langtunes, YouTube link
+  - value: https://soundcloud.com/langtunes
+    references:
+    - source: behroozmoosavi.com-projects
+      quote: https://soundcloud.com/langtunes
+      accessed: '2026-11-21'
+      locator: Langtunes, SoundCloud link
+  - value: https://langtunes.bandcamp.com/music
+    references:
+    - source: langtunes.bandcamp.com-music
+      quote: Langtunes Tehran, Iran
+      accessed: '2026-11-21'
+      locator: Artist identity and location
+  image:
+  - value: https://i1.sndcdn.com/avatars-000061630384-0ybxu7-t500x500.jpg
+    qualifiers:
+      credit:
+        text: Langtunes, via SoundCloud
+        language: en
+    references:
+    - source: soundcloud.com-langtunes
+      quote: https://i1.sndcdn.com/avatars-000061630384-0ybxu7-t500x500.jpg
+      accessed: '2026-11-21'
+      locator: Open Graph profile image of the group in performance
+  life event:
+  - value:
+      text: After an underground performance in the winter of 2009 they decided to move on and started to work on their own music.
+      language: en
+    qualifiers:
+      point in time:
+        date: '2009'
+    references:
+    - source: soundcloud.com-langtunes
+      quote: After an underground performance in the winter of 2009 they decided to move on and started to work on their own music.
+      accessed: '2026-11-21'
+      locator: Artist biography, opening
+  - value:
+      text: '2010: They came to a full line up with Garen Abnous and Behnam Biabangardi and Released 4 songs.'
+      language: en
+    qualifiers:
+      point in time:
+        date: '2010'
+    references:
+    - source: langtunes.bandcamp.com-music
+      quote: '2010: They came to a full line up with Garen Abnous and Behnam Biabangardi and Released 4 songs.'
+      accessed: '2026-11-21'
+      locator: Artist biography, 2010
+  - value:
+      text: '2011: They went on a Tour in Istanbul and released another single.'
+      language: en
+    qualifiers:
+      point in time:
+        date: '2011'
+    references:
+    - source: langtunes.bandcamp.com-music
+      quote: '2011: They went on a Tour in Istanbul and released another single.'
+      accessed: '2026-11-21'
+      locator: Artist biography, 2011
+  - value:
+      text: Released their first demo cd called "Sentimental Disasters"
+      language: en
+    qualifiers:
+      point in time:
+        date: '2012'
+    references:
+    - source: langtunes.bandcamp.com-music
+      quote: Released their first demo cd called "Sentimental Disasters"
+      accessed: '2026-11-21'
+      locator: Artist biography, 2012
+  - value:
+      text: an LP album (Teherantor) through German Parvenue records in 2014.
+      language: en
+    qualifiers:
+      point in time:
+        date: '2014'
+    references:
+    - source: behroozmoosavi.com-projects
+      quote: an LP album (Teherantor) through German Parvenue records in 2014.
+      accessed: '2026-11-21'
+      locator: Langtunes, second sentence
+  - value:
+      text: Together with the Israeli band Ramzailech, Langtunes recently launched an exceptional concert tour, starting in Leipzig
+      language: en
+    qualifiers:
+      point in time:
+        date: '2015'
+    references:
+    - source: qantara.de-ar-node-33344
+      quote: Together with the Israeli band Ramzailech, Langtunes recently launched an exceptional concert tour, starting in Leipzig
+      accessed: '2026-11-21'
+      locator: Opening report, 25 November 2015

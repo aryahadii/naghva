@@ -1,0 +1,89 @@
+---
+references:
+  duo:
+    source: temp-illusion.bandcamp.com
+    quote: An Iranian electronic duo formed in 2011 by Shahin Entezami and Behrang Najafi.
+    accessed: '2026-11-21'
+  paris:
+    source: insomniafestival.no-artist-temp-illusion
+    quote: Temp-Illusion is an Iranian electronic duo, recently based in Paris, formed in 2011 by Shahin Entezami and Behrang Najafi.
+    accessed: '2026-11-21'
+  punk:
+    source: modernismunbound.com-articles-interview-temp-illusion
+    quote: I was into punk rock as a teenager and played guitar and drums in some local bands.
+    accessed: '2026-11-21'
+  beats:
+    source: modernismunbound.com-articles-interview-temp-illusion
+    quote: I started writing lyrics, making some beats and producing music with the computer.
+    accessed: '2026-11-21'
+  meeting:
+    source: modernismunbound.com-articles-interview-temp-illusion
+    quote: We met through a mutual friend
+    accessed: '2026-11-21'
+  first:
+    source: modernismunbound.com-articles-interview-temp-illusion
+    quote: we did our first live set at Tadaex03 in 2013.
+    accessed: '2026-11-21'
+  visual:
+    source: montreal.mutek.org-en-artists-temp-illusion-amir-b-ash
+    quote: in collaboration with Tehran-based visual artists, Alless and Nylaa for TADAEX03 festival.
+    accessed: '2026-11-21'
+  live:
+    source: temp-illusion.bandcamp.com-album-autolected
+    quote: Recordings are taken from SETxCTM performance in Tehran - 27th July 2018
+    accessed: '2026-11-21'
+  debut:
+    source: modernismunbound.com-articles-interview-temp-illusion
+    quote: whose debut album Autolected recently was released by Zabte Sote
+    accessed: '2026-11-21'
+  debutdate:
+    source: temp-illusion.bandcamp.com-album-autolected
+    quote: released February 15, 2019
+    accessed: '2026-11-21'
+  fear:
+    source: temp-illusion.bandcamp.com-album-pend
+    quote: the news about the probability of an impending war go through our eyes and ears as audio and visual signals
+    accessed: '2026-11-21'
+  stress:
+    source: temp-illusion.bandcamp.com-album-pend
+    quote: create stress and fear, which travel through the body.
+    accessed: '2026-11-21'
+  sessions:
+    source: temp-illusion.bandcamp.com-album-failsafe
+    quote: jam sessions and experiments that took place between 2020 and 2022
+    accessed: '2026-11-21'
+  failsafedate:
+    source: temp-illusion.bandcamp.com-album-failsafe
+    quote: released September 1, 2023
+    accessed: '2026-11-21'
+  club:
+    source: temp-illusion.bandcamp.com-album-bikh
+    quote: during an Illegal Tapes party at Le Sample.
+    accessed: '2026-11-21'
+  ask:
+    source: temp-illusion.bandcamp.com-album-bikh
+    quote: We asked them for a project right after, without a second thought.
+    accessed: '2026-11-21'
+  bikh:
+    source: temp-illusion.bandcamp.com-album-bikh
+    quote: released October 24, 2025
+    accessed: '2026-11-21'
+  vittrine:
+    source: temp-illusion.bandcamp.com-album-vittrine
+    quote: released September 15, 2026
+    accessed: '2026-11-21'
+---
+
+Shahin Entezami and Behrang Najafi formed the Iranian electronic duo Temp-Illusion in 2011. They played their first set together in Tehran, and a recording of a later Tehran performance became their debut album, *[Autolected](#autolected-r8g)*. By 2025 they were based in Paris.[^duo][^first][^visual][^live][^debut][^paris]
+
+## Playing together in Tehran
+
+As a teenager, Najafi played drums and guitar in local punk bands. Entezami came to electronic music through hip-hop, writing lyrics and making beats on a computer. A mutual friend introduced them. In 2013 they played their first set at the TADAEX festival with two Tehran visual artists, Alless and Nylaa.[^punk][^beats][^meeting][^first][^visual]
+
+In July 2018 the duo played at SET×CTM in Tehran. Zabte Sote released their recording of the set as *Autolected* in 2019. For their next album, *[PEND](#pend-2ze)*, the two turned to a fear they knew from everyday life in Iran. They described how simply hearing news of a possible war could put their bodies under stress.[^live][^debut][^debutdate][^fear][^stress]
+
+## From rehearsals to records
+
+Between 2020 and 2022 Entezami and Najafi improvised and experimented together. Those sessions grew into *[failsafe](#failsafe-ywr)*, released in 2023.[^sessions][^failsafedate]
+
+A live set brought them their next collaboration in Paris. After hearing them at an Illegal Tapes party at Le Sample, the people behind the label Paradoxe Club approached them about making a record. The result was *[BIKH](#bikh-7q3)* in 2025. They released *[Vittrine](#vittrine-g3b)* on the same label the following year.[^paris][^club][^ask][^bikh][^vittrine]

@@ -1,0 +1,34 @@
+id: Qeqa4d3
+type: release
+statements:
+  name:
+  - value:
+      text: Hero
+      language: en
+    references:
+    - &id001
+      source: soundcloud.com-farzanezamen-hero
+      quote: Hero
+      accessed: '2026-11-21'
+      locator: Track heading and account
+  performer:
+  - value: Q38h8s7
+    references:
+    - source: soundcloud.com-farzanezamen-hero
+      quote: Farzane Zamen
+      accessed: '2026-11-21'
+      locator: Track heading and account
+  listen link:
+  - value: https://soundcloud.com/farzanezamen/hero
+    references:
+    - *id001
+  - value: https://open.spotify.com/track/7EDfgpAMPj9CdIwcVrLoAs
+    references:
+    - source: open.spotify.com-album-5wnw44qixpps7bii0yqmi6
+      quote: Hero
+      accessed: '2026-11-21'
+      locator: EP heading and five-track listing
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-000349893114-m4vn8x-large.jpg
+    references:
+    - *id001

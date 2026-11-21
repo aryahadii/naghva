@@ -1,0 +1,28 @@
+id: Q72d9ah
+type: release
+statements:
+  name:
+  - value:
+      text: Yeki Bood Yeki Nabood
+      language: en
+    references:
+    - &id001
+      source: soundcloud.com-farzanezamen-yeki-bood-yeki-nabood
+      quote: Yeki Bood Yeki Nabood
+      accessed: '2026-11-21'
+      locator: Track heading and account
+  performer:
+  - value: Q38h8s7
+    references:
+    - source: soundcloud.com-farzanezamen-yeki-bood-yeki-nabood
+      quote: Farzane Zamen
+      accessed: '2026-11-21'
+      locator: Track heading and account
+  listen link:
+  - value: https://soundcloud.com/farzanezamen/yeki-bood-yeki-nabood
+    references:
+    - *id001
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-000071121270-41xfrh-large.jpg
+    references:
+    - *id001

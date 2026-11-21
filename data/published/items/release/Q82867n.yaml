@@ -1,0 +1,28 @@
+id: Q82867n
+type: release
+statements:
+  name:
+  - value:
+      text: Chand Ghadam Be Sobh
+      language: en
+    references:
+    - &id001
+      source: soundcloud.com-farzanezamen-sobh
+      quote: Chand Ghadam Be Sobh
+      accessed: '2026-11-21'
+      locator: Track heading and account
+  performer:
+  - value: Q38h8s7
+    references:
+    - source: soundcloud.com-farzanezamen-sobh
+      quote: Farzane Zamen
+      accessed: '2026-11-21'
+      locator: Track heading and account
+  listen link:
+  - value: https://soundcloud.com/farzanezamen/sobh
+    references:
+    - *id001
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-000128489961-qxfg8g-large.jpg
+    references:
+    - *id001

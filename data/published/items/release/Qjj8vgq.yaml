@@ -1,0 +1,28 @@
+id: Qjj8vgq
+type: release
+statements:
+  name:
+  - value:
+      text: Rooze Paeezi (Hamid Farahani Remix)
+      language: en
+    references:
+    - &id001
+      source: soundcloud.com-farzanezamen-farzanezamen-rp-remix
+      quote: Farzane Zamen - Rooze Paeezi (Hamid Farahani Remix)
+      accessed: '2026-11-21'
+      locator: Track heading and account
+  performer:
+  - value: Q38h8s7
+    references:
+    - source: soundcloud.com-farzanezamen-farzanezamen-rp-remix
+      quote: Farzane Zamen
+      accessed: '2026-11-21'
+      locator: Track heading and account
+  listen link:
+  - value: https://soundcloud.com/farzanezamen/farzanezamen-rp-remix
+    references:
+    - *id001
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-000033635122-p4ma5m-large.jpg
+    references:
+    - *id001

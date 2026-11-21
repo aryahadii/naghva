@@ -1,0 +1,31 @@
+id: Qwan94w
+type: release
+statements:
+  name:
+  - value:
+      text: Sentimental Disasters
+      language: en
+    references:
+    - source: langtunes.bandcamp.com-music
+      quote: Released their first demo cd called "Sentimental Disasters"
+      accessed: '2026-11-21'
+      locator: Artist biography, 2012
+  performer:
+  - value: Qg4z85j
+    references:
+    - source: soundcloud.com-langtunes
+      quote: '"Sentimental Disasters" in 2012 was followed by a short tour in Germany and Istanbul and in 2013, "The Bright Ages" was followed by a 3 months European tour.'
+      accessed: '2026-11-21'
+      locator: Artist biography, demo recordings
+    - source: soundcloud.com-langtunes
+      quote: recorded and self-released two demo CDs.
+      accessed: '2026-11-21'
+      locator: Artist biography, demo recordings
+  release date:
+  - value:
+      date: '2012'
+    references:
+    - source: soundcloud.com-langtunes
+      quote: '"Sentimental Disasters" in 2012 was followed by a short tour in Germany and Istanbul and in 2013, "The Bright Ages" was followed by a 3 months European tour.'
+      accessed: '2026-11-21'
+      locator: Artist biography, demo recordings

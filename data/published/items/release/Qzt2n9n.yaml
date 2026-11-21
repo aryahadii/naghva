@@ -1,0 +1,40 @@
+id: Qzt2n9n
+type: release
+statements:
+  name:
+  - value:
+      text: 'Farzane Zamen: Live at Solas Festival 2019'
+      language: en
+    references:
+    - &id001
+      source: bestfootmusic.bandcamp.com-album-farzane-zamen-live-at-solas-festival-2019
+      quote: 'Farzane Zamen: Live at Solas Festival 2019'
+      accessed: '2026-11-21'
+      locator: Album heading, tracks and credits
+  performer:
+  - value: Q38h8s7
+    references:
+    - source: bestfootmusic.bandcamp.com-album-farzane-zamen-live-at-solas-festival-2019
+      quote: Farzane Zamen
+      accessed: '2026-11-21'
+      locator: Album heading, tracks and credits
+  listen link:
+  - value: https://bestfootmusic.bandcamp.com/album/farzane-zamen-live-at-solas-festival-2019
+    references:
+    - *id001
+  cover art:
+  - value: https://f4.bcbits.com/img/a0344140370_10.jpg
+    references:
+    - *id001
+  release date:
+  - value:
+      date: '2019-07-02'
+    references:
+    - source: bestfootmusic.bandcamp.com-album-farzane-zamen-live-at-solas-festival-2019
+      quote: released July 2, 2019
+      accessed: '2026-11-21'
+      locator: Album heading, tracks and credits
+  release type:
+  - value: live album
+    references:
+    - *id001

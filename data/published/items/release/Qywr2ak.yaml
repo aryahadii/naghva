@@ -1,0 +1,76 @@
+id: Qywr2ak
+type: release
+statements:
+  name:
+  - value:
+      text: failsafe
+      language: en
+    references:
+    - source: temp-illusion.bandcamp.com-album-failsafe
+      quote: failsafe
+      accessed: '2026-11-21'
+  performer:
+  - value: Q8tq6bc
+    references:
+    - source: temp-illusion.bandcamp.com-album-failsafe
+      quote: failsafe | Temp-Illusion
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2023-09-01'
+    references:
+    - source: temp-illusion.bandcamp.com-album-failsafe
+      quote: released September 1, 2023
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://temp-illusion.bandcamp.com/album/failsafe
+    references:
+    - source: temp-illusion.bandcamp.com-album-failsafe
+      quote: failsafe | Temp-Illusion
+      accessed: '2026-11-21'
+  - value: https://music.apple.com/us/album/failsafe/1702236772
+    references:
+    - source: music.apple.com-us-album-failsafe-1702236772
+      quote: ‎Failsafe - Album by Temp-Illusion - Apple Music
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/album/1JAOCPD9X4qJKKOm7FQXSY
+    references:
+    - source: open.spotify.com-album-1jaocpd9x4qjkkom7fqxsy
+      quote: Listen to failsafe - Album by Temp-Illusion | Spotify
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://f4.bcbits.com/img/a0811811932_10.jpg
+    references:
+    - source: temp-illusion.bandcamp.com-album-failsafe
+      quote: https://f4.bcbits.com/img/a0811811932_10.jpg
+      accessed: '2026-11-21'
+    - source: temp-illusion.bandcamp.com-album-failsafe
+      quote: GENG PTP
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: GENG PTP
+        language: en
+  published by:
+  - value: Qmsewr5
+    references:
+    - source: insomniafestival.no-artist-temp-illusion
+      quote: “Failsafe” on PTP.
+      accessed: '2026-11-21'
+  contributor:
+  - value: Q8tq6bc
+    references:
+    - source: temp-illusion.bandcamp.com-album-failsafe
+      quote: 'written, produced, mixed: Temp-Illusion'
+      accessed: '2026-11-21'
+    qualifiers:
+      role:
+      - producer
+      - composer
+      - mixing engineer
+  release type:
+  - value: album
+    references:
+    - source: music.apple.com-us-album-failsafe-1702236772
+      quote: ‎Failsafe - Album by Temp-Illusion - Apple Music
+      accessed: '2026-11-21'

@@ -1,0 +1,31 @@
+id: Qwdyy5r
+type: release
+statements:
+  name:
+  - value:
+      text: You look like snow (Solas Festival 2019)
+      language: en
+    references:
+    - &id001
+      source: bestfootmusic.bandcamp.com-album-farzane-zamen-live-at-solas-festival-2019
+      quote: You look like snow
+      accessed: '2026-11-21'
+      locator: Album heading, tracks and credits
+  performer:
+  - value: Q38h8s7
+    references:
+    - source: bestfootmusic.bandcamp.com-album-farzane-zamen-live-at-solas-festival-2019
+      quote: Farzane Zamen
+      accessed: '2026-11-21'
+      locator: Album heading, tracks and credits
+  listen link:
+  - value: https://bestfootmusic.bandcamp.com/track/you-look-like-snow
+    references:
+    - *id001
+  cover art:
+  - value: https://f4.bcbits.com/img/a0344140370_10.jpg
+    references:
+    - source: bestfootmusic.bandcamp.com-album-farzane-zamen-live-at-solas-festival-2019
+      quote: 'Farzane Zamen: Live at Solas Festival 2019'
+      accessed: '2026-11-21'
+      locator: Album heading, tracks and credits

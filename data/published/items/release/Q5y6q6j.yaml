@@ -1,0 +1,28 @@
+id: Q5y6q6j
+type: release
+statements:
+  name:
+  - value:
+      text: Rooze Paeezi
+      language: en
+    references:
+    - &id001
+      source: soundcloud.com-farzanezamen-rooze-paeezi
+      quote: Rooze Paeezi
+      accessed: '2026-11-21'
+      locator: Track heading and account
+  performer:
+  - value: Q38h8s7
+    references:
+    - source: soundcloud.com-farzanezamen-rooze-paeezi
+      quote: Farzane Zamen
+      accessed: '2026-11-21'
+      locator: Track heading and account
+  listen link:
+  - value: https://soundcloud.com/farzanezamen/rooze-paeezi
+    references:
+    - *id001
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-000091924164-f2k737-large.jpg
+    references:
+    - *id001

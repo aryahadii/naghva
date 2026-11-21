@@ -1,0 +1,28 @@
+id: Qys79xs
+type: release
+statements:
+  name:
+  - value:
+      text: Khodahafez
+      language: en
+    references:
+    - &id001
+      source: soundcloud.com-farzanezamen-khodahafezmp3
+      quote: Farzane Zamen - Khodahafez
+      accessed: '2026-11-21'
+      locator: Track heading and account
+  performer:
+  - value: Q38h8s7
+    references:
+    - source: soundcloud.com-farzanezamen-khodahafezmp3
+      quote: Farzane Zamen
+      accessed: '2026-11-21'
+      locator: Track heading and account
+  listen link:
+  - value: https://soundcloud.com/farzanezamen/khodahafezmp3
+    references:
+    - *id001
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-000035220901-x2n3cu-large.jpg
+    references:
+    - *id001

@@ -1,0 +1,29 @@
+id: Qjkj92y
+type: person
+statements:
+  name:
+  - value:
+      text: Behrooz Moosavi
+      language: en
+    references:
+    - source: behroozmoosavi.com-projects
+      quote: Langtunes was formed in 2009 by the producer/performer duo Behrooz Moosavi and Kamyar Keramati in the underground scene of Tehran.
+      accessed: '2026-11-21'
+      locator: Langtunes, opening sentence
+  member of:
+  - value: Qg4z85j
+    qualifiers:
+      role: vocals
+    references:
+    - source: backstagepro.de-langtunes
+      quote: Behrooz Moosavi Sänger, Gitarrist garen abnous Bassist, Synthesizerspieler
+      accessed: '2026-11-21'
+      locator: Line-up
+  - value: Qg4z85j
+    qualifiers:
+      role: guitar
+    references:
+    - source: backstagepro.de-langtunes
+      quote: Behrooz Moosavi Sänger, Gitarrist garen abnous Bassist, Synthesizerspieler
+      accessed: '2026-11-21'
+      locator: Line-up
