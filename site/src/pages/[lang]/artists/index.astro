@@ -1,7 +1,7 @@
 ---
 import Page from '../../../layouts/Page.astro';
 import ArtistCard from '../../../components/ArtistCard.astro';
-import { artistPages, LANGS, loadRecord, nameOf, type Lang } from '../../../lib/record';
+import { artistPages, LANGS, loadRecord, nameOf, url, type Lang } from '../../../lib/record';
 import { fold } from '../../../lib/search';
 import { fill, num, strings } from '../../../lib/i18n';
 import '../../../styles/discovery.css';
@@ -13,6 +13,7 @@ const artists = artistPages(loadRecord()).sort((a, b) => fold(nameOf(a, lang).te
 <Page lang={lang} title={`${t.browse.artists} — ${t.siteName}`} description={t.browse.directoryDescription} path="artists/" section="directory">
   <main class="wrap discovery artist-directory" id="content">
     <h1>{t.browse.artists}</h1>
+    <a class="pill" href={url(lang, 'star-map')}>✧ {t.starMap.nav}</a>
     <div class="directory-tools">
       <div class="directory-filter-heading">
         <label class="needs-js" for="directory-query">{t.browse.filterArtists}</label>

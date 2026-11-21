@@ -247,6 +247,7 @@ const half = (id: string) => (PAIRS.some((pair) => pair.includes(id) && pair.eve
           <p class="fig-label">{T('Most connected', 'بیشترین همکاری')}</p>
           <ul class="net-chips">{ranked.filter((x: any) => x.page).slice(0, 8).map((x: any) => <li><button type="button" data-pick={x.id}>{label(x.id)}</button></li>)}</ul>
         </div>
+        <a class="text-link" href={url(lang, 'star-map')}>{strings(lang).starMap.title}</a>
         <div class="net-full" role="dialog" aria-modal="true" aria-labelledby="nf-title" hidden>
           <div class="nf-bar">
             <p class="nf-title" id="nf-title">{T('Who works with whom?', 'چه کسانی با هم کار می‌کنند؟')}</p>

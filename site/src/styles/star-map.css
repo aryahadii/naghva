@@ -1,0 +1,105 @@
+.star-map { margin-block: clamp(20px,2.8vw,40px) 5rem }
+.atlas-intro { max-width: 680px; margin-block-end: 22px }
+.atlas-intro h1 { font: 460 clamp(44px,6vw,84px)/1.05 var(--serif); letter-spacing: -.046em }
+html[lang=fa] .atlas-intro h1 { font-weight: 700; line-height: 1.5; letter-spacing: 0 }
+.atlas-intro p { color: var(--ivory-2); margin-top: 8px; max-width: 56ch; text-wrap: pretty }
+.atlas { --gold: #e6bc87; --starlight: #ffe3b0; border: 1px solid #4a4441; border-radius: 18px; overflow: hidden; background: #1c2028 }
+.atlas-toolbar { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding: 11px 18px; background: #20232b; border-bottom: 1px solid #464245 }
+.atlas-find,.atlas-modes button,.sky-surprise { display: inline-flex; align-items: center; justify-content: center; gap: 8px; min-height: 42px; padding: 0 14px; font-size: 14px; border-radius: 24px }
+.atlas-find { background: #31343c; color: var(--ivory) }
+.atlas-find svg { width: 17px; fill: none; stroke: currentColor; stroke-width: 1.6 }
+.atlas-modes { display: flex; border-radius: 24px; background: #13171e; padding: 3px }
+.atlas-modes button { color: var(--ivory-2); min-height: 36px }
+.atlas-modes button[aria-pressed=true] { background: #414048; color: var(--starlight) }
+.atlas-body { display: grid; grid-template-columns: minmax(0,2fr) minmax(265px,.86fr) }
+.sky { isolation: isolate; position: relative; min-height: 490px; display: flex; flex-direction: column; background: radial-gradient(ellipse at 44% 46%,#303c60 0%,#222d48 39%,#171e31 77%,#151b2b); overflow: hidden }
+.sky::before { content:''; position: absolute; inset: 0; pointer-events:none; background: var(--sky-garden) center bottom / cover no-repeat; opacity:.50; mask-image: linear-gradient(transparent 24%, #0005 55%, black 100%) }
+.sky-dial,.sky-lines { position: absolute; inset: 0; width: 100%; height: 100%; pointer-events: none }
+.sky-dial { color: rgb(220 179 133 / .36) }
+.sky-lines line { vector-effect: non-scaling-stroke; stroke: #e6bc87; opacity:.68; stroke-width: 1 }
+.sky-node { position: absolute; width: 29%; display: flex; flex-direction: column; align-items: center; text-align: center; transform: translate(-50%,-16px); color: var(--starlight); text-decoration: none; min-height: 46px; line-height: 1.18 }
+.star-symbol { width: 32px; height: 32px; flex: none; filter: drop-shadow(0 0 7px rgb(255 216 153 / .7)); transition: scale .16s ease }
+.sky-node:hover .star-symbol,.sky-node:focus-visible .star-symbol { scale: 1.18 }
+.sky-node bdi { font-size: 14px; color: #f8eee2; text-shadow: 0 1px 4px #131629, 0 0 8px #141729, 0 0 4px #141729; text-wrap: balance; overflow-wrap: anywhere }
+.sky-centre { transform: translate(-50%,-30px); color: #f3b185 }
+.star-sun { width: 60px; height: 60px }
+.sky-centre bdi { font: 500 clamp(19px,2.2vw,31px)/1.12 var(--serif); color:#fff0d9 }
+.sky-surprise { color: #fff1da; background: #191d28eb; border:1px solid #79716b; font-size: 13px }
+.sky-surprise span { color: var(--gold); font-size:20px }
+.atlas-panel { padding: clamp(20px,2.3vw,34px); min-width: 0; background: linear-gradient(145deg,#252730,#1c2028 60%) }
+.atlas-kind { font-size:13px; color:var(--gold) }
+.atlas-kind span { margin-inline-end:4px }
+.atlas-identity h2 { font: 500 clamp(30px,3vw,44px)/1.05 var(--serif); letter-spacing:-.025em; margin-block: 13px 2px; overflow-wrap: anywhere }
+html[lang=fa] .atlas-identity h2 { line-height:1.4; letter-spacing:0 }
+.atlas-alternate,.atlas-empty { color:var(--ivory-2); font-size:15px }
+.atlas-profile { display:inline-flex; align-items:center; gap:8px; min-height:44px; color:var(--coral-hi); font-size:14px; text-underline-offset:4px }
+.atlas-list-title { border-top:1px solid var(--line); margin-top:14px; padding-top:18px; display:flex; align-items:baseline; gap:8px }
+.atlas-list-title h3 { font:600 15px/1.4 var(--sans) }
+.atlas-list-title span,.atlas-pagination span { font-size:13px; color:var(--ivory-2) }
+.atlas-list,.atlas-picker ul { list-style:none; padding:0; margin:0 }
+.atlas-list li { display:flex; gap:10px; align-items:baseline; padding:8px 0; font-size:15px; line-height:1.35 }
+.list-star { color:var(--gold) }
+.atlas-list li div { min-width:0; overflow-wrap:anywhere }
+.atlas-list li button,.atlas-list li a { text-align:start; text-decoration:none }
+.atlas-list small { display:block; margin-top:3px; font-size:12px; color:#d6c9bd }
+.atlas-list small a { text-decoration: underline; text-underline-offset: 2px }
+.atlas-list button:hover,.atlas-list a:hover { color:var(--starlight); text-decoration:underline }
+.atlas-pagination { display:flex; align-items:center; gap:5px; margin-inline-start:auto }
+.atlas-pagination span { margin-inline-end:auto }
+.atlas-pagination button,.picker-heading button { border-radius:100%; min-width:42px; min-height:42px; background:var(--wash); font-size:22px }
+.atlas-pagination button:disabled { opacity:.28; cursor:default }
+.atlas-picker { color:var(--ivory); width:min(440px, calc(100vw - 32px)); padding:22px; border:1px solid #575055; border-radius:18px; background:#242731; max-height:78dvh }
+.atlas-picker::backdrop { background:#10121bd9 }
+.picker-heading { display:flex; justify-content:space-between; align-items:center }
+.picker-heading h2 { font:500 28px/1.4 var(--serif) }
+.atlas-picker input { margin-block:14px 8px; width:100%; border-radius:9px; border:1px solid #766c68; background:#171c27; padding:10px; font-size:16px }
+.atlas-picker ul { overflow:auto; max-height:45dvh; overscroll-behavior:contain }
+.atlas-picker li button { width:100%; display:flex; justify-content:space-between; align-items:center; gap:12px; padding:10px 4px; min-height:44px; text-align:start; border-bottom:1px solid var(--line) }
+.atlas-picker small { color:var(--ivory-2) }
+@media(max-width:760px) {
+  .atlas-body { grid-template-columns:1fr }
+  .sky { min-height:0; aspect-ratio:1.12; }
+  .sky-node bdi { font-size:12px }
+  .sky-centre bdi { font-size:19px }
+  .atlas-panel { padding:18px 20px }
+  .atlas-toolbar { padding:8px; gap:4px }
+  .atlas-find,.atlas-modes button { font-size:13px; padding-inline:10px }
+  .sky-surprise { min-height:36px; inset-inline-start:10px; bottom:8px }
+}
+@media(max-width:440px) {
+  .sky { aspect-ratio:.89 }
+  .atlas-intro p { font-size:15px }
+}
+@media(prefers-reduced-motion:reduce) { .star-symbol { transition:none } }
+
+.sky-chart { position: relative; flex: 1; min-height: 0 }
+.sky-hint { position:absolute; inset-block-start:15px; inset-inline-start:20px; font-size:13px; color:#dcd0bd }
+.sky-controls { position:relative; display:flex; align-items:center; justify-content:space-between; gap:8px; padding:8px 14px; background:linear-gradient(transparent,#121722a6) }
+.atlas-pagination { background:#171d2aef; color:var(--ivory); border:1px solid #79716b; border-radius:24px; padding-inline-start:12px }
+.atlas-pagination span { white-space:nowrap; color:var(--ivory) }
+.atlas-pagination button { min-width:38px; min-height:40px; background:none }
+.atlas-pagination button:hover:enabled { color:var(--starlight); background:var(--wash) }
+.sky-recordings .satellite { color:#a5ddd5 }
+.sky-recordings .satellite .star-symbol { transform:rotate(45deg) }
+.sky-recordings .sky-lines line { stroke:#b2d8cc }
+.sky-node bdi { display:-webkit-box; -webkit-box-orient:vertical; -webkit-line-clamp:2; overflow:hidden }
+.sky-node.unlinked { opacity:.72 }
+@media(prefers-reduced-motion:no-preference) {
+  .satellite,.sky-lines { animation:star-appear .3s ease-out }
+  @keyframes star-appear { from { opacity:.15 } to { opacity:1 } }
+}
+@media(max-width:760px) {
+  .sky-hint { inset-inline-start:12px; inset-block-start:9px; font-size:12px }
+  .sky-controls { padding:5px; gap:3px }
+  .sky-surprise { font-size:12px; padding-inline:9px; gap:4px; min-height:42px }
+  .atlas-pagination { gap:0; padding-inline-start:7px }
+  .atlas-pagination span { font-size:11px }
+  .atlas-pagination button { min-width:33px }
+  body:has(.star-map) .corner-branch { width:86px; opacity:.56; top:132px }
+}
+@media(max-width:380px) {
+  .sky-controls { flex-wrap:wrap }
+  .sky { aspect-ratio:.78 }
+  .sky-surprise { padding-inline:6px }
+  .atlas-pagination button { min-width:28px }
+}
