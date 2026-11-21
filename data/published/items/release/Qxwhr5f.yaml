@@ -42,6 +42,18 @@ statements:
       quote: Fish-purr | Kimia Koochakzasdeh-Yazdi, Mahmood Schricker | Link Music Lab Records
       accessed: '2026-11-21'
       locator: Page title
+    - source: linkmusiclab.bandcamp.com-track-fish-purr
+      quote: Mahmood Schricker - setar
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: setar
+  - value: Qn7gbmk
+    references:
+    - source: linkmusiclab.bandcamp.com-track-fish-purr
+      quote: Kimia Koochakzadeh-Yazdi - Electronics
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
   cover art:
   - value: https://f4.bcbits.com/img/a0329668607_10.jpg
     references:

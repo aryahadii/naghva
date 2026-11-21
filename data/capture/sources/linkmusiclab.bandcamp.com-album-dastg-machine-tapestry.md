@@ -28,3 +28,11 @@ Release artwork, read 2026-11-21.
 > live excerpts of their riotous Infinite Jest residency at Tapestry in Kensington Market
 
 Artist interview, biography or performance credits, read 2026-11-21.
+
+> Mahmood Schricker - electric Setar
+
+Artist interview, biography or performance credits, read 2026-11-21.
+
+> Caleb Klager - synthetic sound
+
+Artist interview, biography or performance credits, read 2026-11-21.

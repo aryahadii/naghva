@@ -1,0 +1,24 @@
+id: Qxxp9ab
+type: person
+statements:
+  name:
+  - value:
+      text: Natch Nadjafi
+      language: en
+    references:
+    - source: chris-cochrane.squarespace.com-gigs2-2015-3-3-music-freedom-day-at-spectrum
+      quote: Natch Nadjafi on guitar, keyboard, MIDI controller, and vocals
+      accessed: '2026-11-21'
+      locator: Performing lineup
+  member of:
+  - value: Qmdmc89
+    qualifiers:
+      role:
+      - guitar
+      - keyboards
+      - vocals
+    references:
+    - source: chris-cochrane.squarespace.com-gigs2-2015-3-3-music-freedom-day-at-spectrum
+      quote: Natch Nadjafi on guitar, keyboard, MIDI controller, and vocals
+      accessed: '2026-11-21'
+      locator: Performing lineup

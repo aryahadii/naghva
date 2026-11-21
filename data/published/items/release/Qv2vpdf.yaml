@@ -54,24 +54,36 @@ statements:
       quote: Mahmood Schricker
       accessed: '2026-11-21'
       locator: Artist interview, biography or performance credits
+    - source: mahmoodschricker.bandcamp.com-track-shadows-featuring-sina-salimi
+      quote: Mahmood Schricker- Composition, Setar
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: setar
   - value: Qfy6wcj
     references:
     - source: mahmoodschricker.bandcamp.com-track-shadows-featuring-sina-salimi
       quote: Reza Moghaddas- Bass
       accessed: '2026-11-21'
       locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: bass
   - value: Qgaw5k8
     references:
     - source: mahmoodschricker.bandcamp.com-track-shadows-featuring-sina-salimi
       quote: Demetrios Petsalakis- Guitar
       accessed: '2026-11-21'
       locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: guitar
   - value: Qdnawcx
     references:
     - source: mahmoodschricker.bandcamp.com-track-shadows-featuring-sina-salimi
       quote: Morgan Doctor- Percussion
       accessed: '2026-11-21'
       locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: percussion
   - value: Qhyea7e
     references:
     - source: mahmoodschricker.bandcamp.com-track-shadows-featuring-sina-salimi
@@ -97,3 +109,12 @@ statements:
       credit:
         text: Mahmood Schricker on Bandcamp
         language: en
+  contributor:
+  - value: Qt5sbqz
+    references:
+    - source: mahmoodschricker.bandcamp.com-track-shadows-featuring-sina-salimi
+      quote: Sina Salimi- Lyrics, Vocals, Santur
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: lyricist

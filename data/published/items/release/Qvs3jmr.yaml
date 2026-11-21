@@ -60,6 +60,28 @@ statements:
       quote: Maku | Mahmood Schricker
       accessed: '2026-11-21'
       locator: Page title
+    - source: mahmoodschricker.bandcamp.com-track-maku
+      quote: Setar- Mahmood Schricker
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: setar
+  - value: Qfy6wcj
+    references:
+    - source: mahmoodschricker.bandcamp.com-track-maku
+      quote: Bass, Keys- Reza Moghaddas
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: bass
+  - value: Qdnawcx
+    references:
+    - source: mahmoodschricker.bandcamp.com-track-maku
+      quote: Percussion- Morgan Doctor
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: percussion
   cover art:
   - value: https://f4.bcbits.com/img/a0759663291_10.jpg
     references:

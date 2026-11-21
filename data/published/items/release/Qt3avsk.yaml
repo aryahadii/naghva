@@ -48,6 +48,26 @@ statements:
       quote: Original Theme (Rez Version) | Mahmood Schricker
       accessed: '2026-11-21'
       locator: Page title
+    - source: linkmusiclab.bandcamp.com-track-original-theme-rez-version
+      quote: Setar and composition - Mahmood Schricker
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: setar
+  - value: Qmqrqbc
+    references:
+    - source: linkmusiclab.bandcamp.com-track-original-theme-rez-version
+      quote: Baritone Horn - Leandro Joaquim
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Q5573hc
+    references:
+    - source: linkmusiclab.bandcamp.com-track-original-theme-rez-version
+      quote: Upright Bass - Scott Peterson
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: double bass
   cover art:
   - value: https://f4.bcbits.com/img/a3807362954_10.jpg
     references:

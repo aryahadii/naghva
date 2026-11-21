@@ -25,6 +25,24 @@ statements:
       quote: DASTGÂMACHINE — BÂZSÂZI | Mahmood Schricker, Caleb Klager, Jason Rule, Raf Reza | Link Music Lab Records
       accessed: '2026-11-21'
       locator: Page title
+    - source: linkmusiclab.bandcamp.com-album-dastg-machine-b-zs-zi
+      quote: Mahmood Schricker - setar
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: setar
+  - value: Q3d5477
+    references:
+    - source: linkmusiclab.bandcamp.com-album-dastg-machine-b-zs-zi
+      quote: Caleb Klager - electronics
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Q5mj37y
+    references:
+    - source: linkmusiclab.bandcamp.com-album-dastg-machine-b-zs-zi
+      quote: Jason Rule - textures
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
   release type:
   - value: album
     references:
@@ -48,3 +66,12 @@ statements:
       quote: released January 23, 2026
       accessed: '2026-11-21'
       locator: Published date
+  contributor:
+  - value: Qt5sbqz
+    references:
+    - source: linkmusiclab.bandcamp.com-album-dastg-machine-b-zs-zi
+      quote: Sina Salimi - Vocals and Lyrics on Zolfonoon tracks
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: lyricist

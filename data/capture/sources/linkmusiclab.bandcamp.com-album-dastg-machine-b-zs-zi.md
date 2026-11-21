@@ -40,3 +40,15 @@ Artist interview, biography or performance credits, read 2026-11-21.
 > Jason Rule - textures
 
 Artist interview, biography or performance credits, read 2026-11-21.
+
+> Mahmood Schricker - setar
+
+Artist interview, biography or performance credits, read 2026-11-21.
+
+> Caleb Klager
+
+Recording title or artist credit, read 2026-11-21.
+
+> Jason Rule
+
+Recording title or artist credit, read 2026-11-21.

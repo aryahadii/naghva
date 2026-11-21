@@ -48,6 +48,18 @@ statements:
       quote: Original Theme | Mahmood Schricker
       accessed: '2026-11-21'
       locator: Page title
+    - source: linkmusiclab.bandcamp.com-track-original-theme
+      quote: Setar and composition - Mahmood Schricker
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: setar
+  - value: Qmqrqbc
+    references:
+    - source: linkmusiclab.bandcamp.com-track-original-theme
+      quote: Baritone Horn - Leandro Joaquim
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
   cover art:
   - value: https://f4.bcbits.com/img/a3807362954_10.jpg
     references:

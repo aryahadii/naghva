@@ -1,0 +1,45 @@
+id: Qdq368q
+type: release
+statements:
+  name:
+  - value:
+      text: Back on My Feet
+      language: en
+    references:
+    - source: soundcloud.com-casualtyprocess-back-on-my-feet-1
+      quote: Back on My Feet
+      accessed: '2026-11-21'
+      locator: Artist SoundCloud upload
+  performer:
+  - value: Qmdmc89
+    references:
+    - source: soundcloud.com-casualtyprocess-back-on-my-feet-1
+      quote: Back on My Feet
+      accessed: '2026-11-21'
+      locator: Artist SoundCloud upload
+  release date:
+  - value:
+      date: '2013-06-20'
+    references:
+    - source: soundcloud.com-casualtyprocess-back-on-my-feet-1
+      quote: '2013-06-20'
+      accessed: '2026-11-21'
+      locator: Native upload date
+  listen link:
+  - value: https://soundcloud.com/casualtyprocess/back-on-my-feet-1
+    references:
+    - source: soundcloud.com-casualtyprocess-back-on-my-feet-1
+      quote: Back on My Feet
+      accessed: '2026-11-21'
+      locator: Artist SoundCloud upload
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-000051056263-xnx4rp-large.jpg
+    qualifiers:
+      credit:
+        text: Casualty Process on SoundCloud
+        language: en
+    references:
+    - source: soundcloud.com-casualtyprocess-back-on-my-feet-1
+      quote: https://i1.sndcdn.com/artworks-000051056263-xnx4rp-large.jpg
+      accessed: '2026-11-21'
+      locator: SoundCloud recording art

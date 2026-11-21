@@ -32,18 +32,36 @@ statements:
       quote: The Past Is Particle The Future Is Wave | Cinna Peyghamy, Neda Mohamadpour, Mahmood Schricker | Link Music Lab Records
       accessed: '2026-11-21'
       locator: Page title
+    - source: linkmusiclab.bandcamp.com-album-the-past-is-particle-the-future-is-wave
+      quote: 'Mahmood Schricker: Electric Setar'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: setar
   - value: Q4q92dh
     references:
     - source: music.apple.com-us-album-the-past-is-particle-the-future-is-wave-ep-6831738477
       quote: Cinna Peyghamy
       accessed: '2026-11-21'
       locator: Artist interview, biography or performance credits
+    - source: linkmusiclab.bandcamp.com-album-the-past-is-particle-the-future-is-wave
+      quote: 'Cinna Peyghamy: Tombak and Modular Synth'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: tombak
   - value: Qbb46yz
     references:
     - source: music.apple.com-us-album-the-past-is-particle-the-future-is-wave-ep-6831738477
       quote: Neda Mohamadpour
       accessed: '2026-11-21'
       locator: Artist interview, biography or performance credits
+    - source: linkmusiclab.bandcamp.com-album-the-past-is-particle-the-future-is-wave
+      quote: 'Neda Mohamadpour: Vocals/avaz'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: vocals
   release type:
   - value: album
     references:

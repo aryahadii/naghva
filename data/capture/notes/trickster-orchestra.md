@@ -1,0 +1,7 @@
+# Trickster Orchestra
+
+The orchestra issued concert and project films on its own channel, including its Jazzfest Berlin and Ramadan programmes. Singer and composer Cymin Samawatie, born to Iranian parents in Germany, cofounded the ensemble with Ketan Bhatti and Philip Geisler in 2013. The Jazzfest film identifies its earlier performing name, Divan der Kontinente. Its thumbnail shows the singers and musicians on stage.
+
+The catalogue includes the ECM edition and its studio tracks with Apple Music and Spotify links, the orchestral performance films, and seven original audio recordings from the orchestra’s own media archive. Dates in that archive identify the concert, recording or broadcast year. Performance and studio versions are retained when their sessions differ. The presenter’s and the orchestra’s copies of the 2020 Outernational film share a panel. The arranger, interview and trailer material is distinguished from recorded works. In Bonn the Campus Project Orchestra included members from four ensembles. Its twelve musical programme segments carry the festival ensemble billing.
+
+[Ensemble history](https://tricksterorchestra.de/orchestra/) · [Original recordings](https://tricksterorchestra.de/media/) · [Neuköllner Oper](https://www.neukoellneroper.de/en/artist/trickster-orchestra/) · [Concert film with Komische Oper Berlin](https://tricksterorchestra.de/en/projects/vom-bleiben-en/)

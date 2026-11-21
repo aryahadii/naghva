@@ -54,12 +54,26 @@ statements:
       quote: Sarmasti featuring Eendo | Mahmood Schricker
       accessed: '2026-11-21'
       locator: Page title
+    - source: mahmoodschricker.bandcamp.com-track-sarmasti-featuring-eendo
+      quote: 'Music, setar: Mahmood Schricker @mahmoodschricker'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: setar
   - value: Qnbrhrh
     references:
     - source: music.apple.com-us-album-sarmasti-single-1573126969
       quote: Eendo
       accessed: '2026-11-21'
       locator: Artist interview, biography or performance credits
+  - value: Qqb8n5j
+    references:
+    - source: mahmoodschricker.bandcamp.com-track-sarmasti-featuring-eendo
+      quote: 'Vocals: Shadi Yousefian @eendo'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: vocals
   cover art:
   - value: https://f4.bcbits.com/img/a0160268386_10.jpg
     references:
@@ -79,3 +93,20 @@ statements:
       quote: released June 16, 2021
       accessed: '2026-11-21'
       locator: Published date
+  contributor:
+  - value: Qt5sbqz
+    references:
+    - source: mahmoodschricker.bandcamp.com-track-sarmasti-featuring-eendo
+      quote: 'Lyrics: Sina Salimi @sina.salimi.songs'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: lyricist
+  - value: Qy86y2y
+    references:
+    - source: mahmoodschricker.bandcamp.com-track-sarmasti-featuring-eendo
+      quote: 'Arrangement, Production & Mixing: Ardalan Payvar @ardalanpayvar @eendo'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: producer

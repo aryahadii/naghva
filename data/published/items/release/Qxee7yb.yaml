@@ -43,18 +43,36 @@ statements:
       quote: Fremont - Original Soundtrack | Mahmood Schricker
       accessed: '2026-11-21'
       locator: Page title
+    - source: linkmusiclab.bandcamp.com-album-fremont-original-soundtrack
+      quote: 'Mahmood Schricker: composer, electric setar'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: setar
   - value: Qmqrqbc
     references:
     - source: music.apple.com-us-album-fremont-original-soundtrack-1715536871
       quote: Leandro Joaquim
       accessed: '2026-11-21'
       locator: Artist interview, biography or performance credits
+    - source: linkmusiclab.bandcamp.com-album-fremont-original-soundtrack
+      quote: 'Leandro Joaquim: trumpet'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: trumpet
   - value: Q5573hc
     references:
     - source: music.apple.com-us-album-fremont-original-soundtrack-1715536871
       quote: Scott Peterson
       accessed: '2026-11-21'
       locator: Artist interview, biography or performance credits
+    - source: linkmusiclab.bandcamp.com-album-fremont-original-soundtrack
+      quote: 'Scott Peterson: Contrabass'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: double bass
   release type:
   - value: album
     references:

@@ -25,6 +25,18 @@ statements:
       quote: Dastgâmachine - Tapestry | Mahmood Schricker, Caleb Klager, Neonlichter | Link Music Lab Records
       accessed: '2026-11-21'
       locator: Page title
+    - source: linkmusiclab.bandcamp.com-album-dastg-machine-tapestry
+      quote: Mahmood Schricker - electric Setar
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: setar
+  - value: Q3d5477
+    references:
+    - source: linkmusiclab.bandcamp.com-album-dastg-machine-tapestry
+      quote: Caleb Klager - synthetic sound
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
   release type:
   - value: album
     references:

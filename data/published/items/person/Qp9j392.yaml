@@ -1,0 +1,24 @@
+id: Qp9j392
+type: person
+statements:
+  name:
+  - value:
+      text: Shayan Amini
+      language: en
+    references:
+    - source: chris-cochrane.squarespace.com-gigs2-2015-3-3-music-freedom-day-at-spectrum
+      quote: Shayan Amini on guitar, bass, and vocals
+      accessed: '2026-11-21'
+      locator: Performing lineup
+  member of:
+  - value: Qmdmc89
+    qualifiers:
+      role:
+      - guitar
+      - bass
+      - vocals
+    references:
+    - source: chris-cochrane.squarespace.com-gigs2-2015-3-3-music-freedom-day-at-spectrum
+      quote: Shayan Amini on guitar, bass, and vocals
+      accessed: '2026-11-21'
+      locator: Performing lineup

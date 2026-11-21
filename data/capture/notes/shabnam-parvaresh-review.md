@@ -16,3 +16,7 @@ The personal account for moving cities and the festival’s dates differ and the
 Catalogue needs repair and rendered reassessment. Both articles are readable. Pending significant additions are identified above.
 
 The next build added Livremente, The Ascendent Love of Two Birds, Bluets, Von Korf and the Sheen broadcast. Both pages now render 102 panels and 195 decoded images. The artist's Beyond Music portfolio lists five songs. Only Midday Prayer was then present. Sent the four original issue/share pages for Outside In, Grace of a God, Dance of Improvise and L'addio di Anna to the author for repair. [Beyond Music artist portfolio](https://www.beyondmusic.org/artist/797)
+
+## Build 69 reassessment
+
+English 1ba393be65064a and Persian 14b1f7cc5b7e4f. All five Beyond Music artist-portfolio recordings are present, including the original lineup on the already existing L'addio di Anna. Earlier album and Berlin radio repairs remain visible. Both pages show 105 panels with 195 decoded images and working article links. No separate release listing is warranted for the co-organized festival appearance with Sofia Labropoulou absent a specific recording. Sources 1.9/2, prose 1.9/2, recordings 2.6/3, images 1/1 and gaps 1.8/2. **9.2/10. Catalogue and articles ready.**

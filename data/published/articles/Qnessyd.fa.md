@@ -31,10 +31,10 @@ references:
     accessed: 2026-11-21
     locator: Quartet
   orchestra:
-    source: www.berlinerfestspiele.de-en-artist-5fd4f6c7-8b10-4df0-9612-0e4034be3e4f-cymin-samawatie
-    quote: In 2013, together with Ketan Bhatti, she founded the Trickster Orchestra
+    source: tricksterorchestra.de-orchestra
+    quote: Das Trickster Orchestra wurde 2013 von Cymin Samawatie, Ketan Bhatti und Philip Geisler gegründet.
     accessed: 2026-11-21
-    locator: Founding the orchestra
+    locator: Gründung
   scores:
     source: www.beethovenfest.de-en-magazine-how-to-find-a-common-voice-88
     quote: There is no score
@@ -82,7 +82,7 @@ references:
 
 ## رهبری بداهه‌نوازی
 
-در سال ۲۰۱۳ سماواتی و کتان باتی، نوازندهٔ درامز سیمینولوژی، ارکستر تریکستر را بنیان گذاشتند. یکی از شیوه‌های سماواتی برای کار با این جمع، هدایت بداهه‌نوازی با اشارهٔ دست بود. در تمرین‌های جشنوارهٔ بتهوون ۲۰۲۳ در شهر براگا، نوازندگان ارکستر کنار هنرجویان انستیتوی ملی موسیقی افغانستان، ارکستر ملی جوانان آلمان و آکادمی بارنبویم‌ـ‌سعید ساز می‌زدند. نت مکتوبی در کار نبود. مثلاً وقتی سماواتی دست‌هایش را آرام بالا می‌برد، به نوازندگان اشاره می‌کرد که صدا را زیرتر یا بلندتر کنند.[^orchestra][^scores][^pitch][^students]
+در سال ۲۰۱۳ سماواتی همراه با فیلیپ گایسلر و کتان باتی، نوازندهٔ درامز سیمینولوژی، ارکستر تریکستر را بنیان گذاشت. یکی از شیوه‌های سماواتی برای کار با این جمع، هدایت بداهه‌نوازی با اشارهٔ دست بود. در تمرین‌های جشنوارهٔ بتهوون ۲۰۲۳ در شهر براگا، نوازندگان ارکستر کنار هنرجویان انستیتوی ملی موسیقی افغانستان، ارکستر ملی جوانان آلمان و آکادمی بارنبویم‌ـ‌سعید ساز می‌زدند. نت مکتوبی در کار نبود. مثلاً وقتی سماواتی دست‌هایش را آرام بالا می‌برد، به نوازندگان اشاره می‌کرد که صدا را زیرتر یا بلندتر کنند.[^orchestra][^scores][^pitch][^students]
 
 ## دونوازی‌های استانبول
 

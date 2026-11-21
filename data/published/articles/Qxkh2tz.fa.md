@@ -125,15 +125,35 @@ references:
     quote: released May 25, 2026
     accessed: '2026-11-21'
     locator: Artist interview, biography or performance credits
+  birth:
+    source: ra.co-dj-mahmoodschricker-biography
+    quote: Born in Tehran to Iranian and Austrian heritage
+    accessed: '2026-11-21'
+    locator: Artist interview, biography or performance credits
+  scores:
+    source: farhang.org-farhang-performances-mahmood-schricker
+    quote: compositions for films (Radio Dreams, Through the Breeze)
+    accessed: '2026-11-21'
+    locator: Artist interview, biography or performance credits
+  breeze:
+    source: ra.co-dj-mahmoodschricker-biography
+    quote: Through the Breeze – short film by Mohsen Emami
+    accessed: '2026-11-21'
+    locator: Artist interview, biography or performance credits
+  radio:
+    source: www.nimadehghani.net-el-muerte
+    quote: compose the soundtrack of the movie “Radio Dreams”
+    accessed: '2026-11-21'
+    locator: Artist interview, biography or performance credits
 ---
 
-محمود شریکر نوازندهٔ ایرانی سه‌تار الکتریک و بنیان‌گذار «لینک میوزیک لب» در تورنتو است. در شانزده‌سالگی به کانادا رفت و پس از تحصیل در رشتهٔ قوم‌موسیقی‌شناسی در دانشگاه یورک کار روی آثار مستقل خود را آغاز کرد. می‌خواست صدای آرام سه‌تار در کنار ضرب‌های موسیقی الکترونیک هم شنیده شود. برای همین با بهراد گرگانی، سازندهٔ ساز، روی ساخت سه‌تار الکتریک کار کرد.[^iran][^tor][^link][^york][^sound][^pitch]
+محمود شریکر نوازندهٔ ایرانی سه‌تار الکتریک و بنیان‌گذار «لینک میوزیک لب» در تورنتو است. در تهران در خانواده‌ای ایرانی‌اتریشی به دنیا آمد، در شانزده‌سالگی به کانادا رفت و پس از تحصیل در رشتهٔ قوم‌موسیقی‌شناسی در دانشگاه یورک کار روی آثار مستقل خود را آغاز کرد. می‌خواست صدای آرام سه‌تار در کنار ضرب‌های موسیقی الکترونیک هم شنیده شود. برای همین با بهراد گرگانی، سازندهٔ ساز، روی ساخت سه‌تار الکتریک کار کرد.[^birth][^iran][^tor][^link][^york][^sound][^pitch]
 
 ## از سه‌تار تا موسیقی فیلم
 
 شریکر در همهٔ قطعه‌های آلبوم [«نول»](#null-scr) که در سال ۲۰۱۲ منتشر شد سه‌تار زد. ملودی‌ها را هم خودش ساخت، جز «دوب داوامی» که تصنیفی قدیمی بود و با صدای محسن نامجو ضبط شد. در اجرای صحنه‌ای دومین آلبومش «اِل موئرته» (۲۰۱۸)، شریکر سه‌تار الکتریک می‌زد و با ابزار الکترونیک کار می‌کرد و نیما دهقانی تصویرها را هم‌ضرب با موسیقی تغییر می‌داد. شریکر برای اجرای قطعهٔ «سبز در سبز» داریوش طلایی در بنیاد فرهنگ از آرشهٔ الکترونیک و افکت تأخیر معکوس استفاده کرد.[^debut][^melody][^nam][^mu][^stage][^perform][^far]
 
-شریکر موسیقی فیلم «فریمونت» را ساخت و در ضبط آن سه‌تار الکتریک نواخت. لئاندرو ژواکیم ترومپت زد و اسکات پیترسون کنترباس. آلبوم موسیقی فیلم در نوامبر ۲۰۲۳ منتشر شد.[^fr][^tp][^db][^date]
+شریکر موسیقی فیلم «رادیو دریمز» و فیلم کوتاه «Through the Breeze» ساختهٔ محسن امامی را نوشت.[^radio][^scores][^breeze] او سپس موسیقی فیلم «فریمونت» را ساخت و در ضبط آن سه‌تار الکتریک نواخت. لئاندرو ژواکیم ترومپت زد و اسکات پیترسون کنترباس. آلبوم موسیقی فیلم در نوامبر ۲۰۲۳ منتشر شد.[^fr][^tp][^db][^date]
 
 ## دستگاه‌ماشین و اجراهای تورنتو
 

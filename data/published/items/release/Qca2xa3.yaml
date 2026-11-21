@@ -1,0 +1,49 @@
+id: Qca2xa3
+type: release
+statements:
+  name:
+  - value:
+      text: 'Live Performance: The Casualty Process at TEDxLaf'
+      language: en
+    references:
+    - source: www.youtube.com-watch-v-yosgwbo40-q
+      quote: 'Live Performance: The Casualty Process at TEDxLaf'
+      accessed: '2026-11-21'
+      locator: YouTube oEmbed title
+  performer:
+  - value: Qmdmc89
+    references:
+    - source: www.youtube.com-watch-v-yosgwbo40-q
+      quote: 'Live Performance: The Casualty Process at TEDxLaf'
+      accessed: '2026-11-21'
+      locator: YouTube oEmbed title
+  listen link:
+  - value: https://www.youtube.com/watch?v=yOSgwbO40-Q
+    references:
+    - source: www.youtube.com-watch-v-yosgwbo40-q
+      quote: 'Live Performance: The Casualty Process at TEDxLaf'
+      accessed: '2026-11-21'
+      locator: YouTube oEmbed title
+  cover art:
+  - value: https://i.ytimg.com/vi/yOSgwbO40-Q/hqdefault.jpg
+    qualifiers:
+      credit:
+        text: TEDx Talks on YouTube
+        language: en
+    references:
+    - source: www.youtube.com-watch-v-yosgwbo40-q
+      quote: https://i.ytimg.com/vi/yOSgwbO40-Q/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Native YouTube thumbnail
+    - source: www.youtube.com-watch-v-yosgwbo40-q
+      quote: TEDx Talks
+      accessed: '2026-11-21'
+      locator: Uploader
+  release date:
+  - value:
+      date: '2012-03-03'
+    references:
+    - source: news.lafayette.edu-2012-02-24-students-host-second-annual-tedxlaf-conference-focusing-on-global-citizenship
+      quote: Saturday, March 3
+      accessed: '2026-11-21'
+      locator: Concert date, 2012 programme

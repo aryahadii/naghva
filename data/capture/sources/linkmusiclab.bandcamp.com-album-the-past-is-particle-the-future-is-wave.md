@@ -24,3 +24,15 @@ Published date, read 2026-11-21.
 > https://f4.bcbits.com/img/a2744874959_10.jpg
 
 Release artwork, read 2026-11-21.
+
+> Cinna Peyghamy: Tombak and Modular Synth
+
+Artist interview, biography or performance credits, read 2026-11-21.
+
+> Neda Mohamadpour: Vocals/avaz
+
+Artist interview, biography or performance credits, read 2026-11-21.
+
+> Mahmood Schricker: Electric Setar
+
+Artist interview, biography or performance credits, read 2026-11-21.

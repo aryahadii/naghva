@@ -20,3 +20,11 @@ Page title, read 2026-11-21.
 > https://f4.bcbits.com/img/a0329668607_10.jpg
 
 Release artwork, read 2026-11-21.
+
+> Kimia Koochakzadeh-Yazdi - Electronics
+
+Artist interview, biography or performance credits, read 2026-11-21.
+
+> Mahmood Schricker - setar
+
+Artist interview, biography or performance credits, read 2026-11-21.

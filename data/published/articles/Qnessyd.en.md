@@ -31,10 +31,10 @@ references:
     accessed: 2026-11-21
     locator: Quartet
   orchestra:
-    source: www.berlinerfestspiele.de-en-artist-5fd4f6c7-8b10-4df0-9612-0e4034be3e4f-cymin-samawatie
-    quote: In 2013, together with Ketan Bhatti, she founded the Trickster Orchestra
+    source: tricksterorchestra.de-orchestra
+    quote: Das Trickster Orchestra wurde 2013 von Cymin Samawatie, Ketan Bhatti und Philip Geisler gegründet.
     accessed: 2026-11-21
-    locator: Founding the orchestra
+    locator: Gründung
   scores:
     source: www.beethovenfest.de-en-magazine-how-to-find-a-common-voice-88
     quote: There is no score
@@ -82,7 +82,7 @@ Cymin Samawatie is a German-Iranian singer, pianist, composer and conductor. Bor
 
 ## Conducting an improvisation
 
-In 2013 Samawatie and Cyminology drummer Ketan Bhatti founded the Trickster Orchestra. One way she worked with the ensemble was to conduct an improvisation through gesture. At rehearsals in Braga for the 2023 Beethovenfest, the orchestra played alongside students from Afghanistan’s National Institute of Music, the German National Youth Orchestra and the Barenboim-Said Academy. The players had no written score. Raising her hands slowly could ask them to play higher or louder.[^orchestra][^scores][^pitch][^students]
+In 2013 Samawatie, Cyminology drummer Ketan Bhatti and Philip Geisler founded the Trickster Orchestra. One way she worked with the ensemble was to conduct an improvisation through gesture. At rehearsals in Braga for the 2023 Beethovenfest, the orchestra played alongside students from Afghanistan’s National Institute of Music, the German National Youth Orchestra and the Barenboim-Said Academy. The players had no written score. Raising her hands slowly could ask them to play higher or louder.[^orchestra][^scores][^pitch][^students]
 
 ## Duets in Istanbul
 

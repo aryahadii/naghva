@@ -5,3 +5,7 @@ The English and Persian render showed 65 recording panels and 99 decoded images 
 [Museum recording](https://www.smb.museum/en/museums-institutions/humboldt-forum/online-offers/detail/concert-series-mschatta-lounge-cyminology-mschatta-fassade/) · [Group agency biography](https://www.proton-berlin.de/kuenstler/Cyminology-Biography) · [Pianist’s tours](https://www.benejahnel.de/en/news_en.html) · [Samawatie on the first recording](https://www.washingtonpost.com/express/wp/2009/05/14/cyminology/)
 
 Build 68 contains the distinct museum commission and the earlier all-English live tape, and recognizes Backhaus in the performance lineup. I checked both revised articles, 66 panels and 99 decoded images in each locale. Content fits the desktop English and mobile Persian viewports. Both article fragment inventories passed. Final **9.2/10** (sources 1.9, article 1.8, catalogue 2.7, imagery 0.9, reader experience 1.9). Catalogue and article ready.
+
+An additional repertoire check reopened the catalogue. The producer's native description of the 18 March 2017 Female Voice of Iran performance explicitly bills Samawatie with Cyminology, Tobias Backhaus and Martin Stegner and identifies As ney, Che gune ast, Aaftaab and Baraaye to. Its video title omits the quartet name. The 9.2 verdict above is suspended pending the group/individual credits and these four distinct versions. Revised **8.8/10** (sources 1.9, article 1.8, catalogue 2.3, imagery 0.9, reader experience 1.9).
+
+[Producer's concert film](https://www.youtube.com/watch?v=LBokTew1k6I)

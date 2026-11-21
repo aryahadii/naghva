@@ -125,15 +125,35 @@ references:
     quote: released May 25, 2026
     accessed: '2026-11-21'
     locator: Artist interview, biography or performance credits
+  birth:
+    source: ra.co-dj-mahmoodschricker-biography
+    quote: Born in Tehran to Iranian and Austrian heritage
+    accessed: '2026-11-21'
+    locator: Artist interview, biography or performance credits
+  scores:
+    source: farhang.org-farhang-performances-mahmood-schricker
+    quote: compositions for films (Radio Dreams, Through the Breeze)
+    accessed: '2026-11-21'
+    locator: Artist interview, biography or performance credits
+  breeze:
+    source: ra.co-dj-mahmoodschricker-biography
+    quote: Through the Breeze – short film by Mohsen Emami
+    accessed: '2026-11-21'
+    locator: Artist interview, biography or performance credits
+  radio:
+    source: www.nimadehghani.net-el-muerte
+    quote: compose the soundtrack of the movie “Radio Dreams”
+    accessed: '2026-11-21'
+    locator: Artist interview, biography or performance credits
 ---
 
-Mahmood Schricker is an Iranian musician who plays electric setar and founded Link Music Lab in Toronto. He moved to Canada at sixteen and began making solo records after studying ethnomusicology at York University. He wanted the quiet sound of the setar to carry alongside electronic beats. He worked with instrument maker Behrad Gorgani on an electric setar that could do that.[^iran][^tor][^link][^york][^sound][^pitch]
+Mahmood Schricker is an Iranian musician who plays electric setar and founded Link Music Lab in Toronto. Born in Tehran to a family of Iranian and Austrian heritage, he moved to Canada at sixteen and began making solo records after studying ethnomusicology at York University. He wanted the quiet sound of the setar to carry alongside electronic beats. He worked with instrument maker Behrad Gorgani on an electric setar that could do that.[^birth][^iran][^tor][^link][^york][^sound][^pitch]
 
 ## From the setar to the screen
 
 Schricker played setar throughout his 2012 album [*Null*](#null-scr). He wrote the melodies himself apart from “Dub Davami,” an older tasnif sung with Mohsen Namjoo. Onstage with the music of his second album, *El Muerte* (2018), he played electric setar and electronics while Nima Dehghani controlled the images in time with the music. In a performance of Dariush Talai’s “Sabz Dar Sabz” for the Farhang Foundation, Schricker used an electronic bow and a reverse delay.[^debut][^melody][^nam][^mu][^stage][^perform][^far]
 
-Schricker composed the score for *Fremont* and played electric setar on the soundtrack. Leandro Joaquim played trumpet and Scott Peterson double bass. The recording appeared in November 2023.[^fr][^tp][^db][^date]
+Schricker composed the music for *Radio Dreams* and for Mohsen Emami’s short film *Through the Breeze*.[^radio][^scores][^breeze] He went on to compose the score for *Fremont* and played electric setar on the soundtrack. Leandro Joaquim played trumpet and Scott Peterson double bass. The recording appeared in November 2023.[^fr][^tp][^db][^date]
 
 ## Dastgâmachine and the Toronto sessions
 

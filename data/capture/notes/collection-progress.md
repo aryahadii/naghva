@@ -54,11 +54,14 @@ The expansion started at revision fa6c29ca with 124 bilingual artist pages. The 
 | Nina Saeidi | Qnsexjj | 9.1/10 | [Nina Saeidi](artist-page-scores.md) |
 | Sina Salimi | Qt5sbqz | 9.2/10 | [Sina Salimi](artist-page-scores.md) |
 | Kiyarash Davoudi | Qyrsg2f | 9.2/10 | [Kiyarash Davoudi](kiyarash-davoudi-independent-review.md) |
-| Shabnam Parvaresh | Q9aspca | 8.5/10 | [Shabnam Parvaresh](shabnam-parvaresh-review.md) |
+| Shabnam Parvaresh | Q9aspca | 9.2/10 | [Shabnam Parvaresh](shabnam-parvaresh-review.md) |
 | Sheen Trio | Qy7eg4c | 9.2/10 | [Sheen Trio](sheen-trio-review.md) |
-| Cyminology | Qsyrehn | 9.2/10 | [Cyminology](cyminology-independent-review.md) |
-| Unland | Qs2xmxr | 8.5/10 | [Unland](unland-review.md) |
+| Cyminology | Qsyrehn | 8.8/10 | [Cyminology](cyminology-independent-review.md) |
+| Unland | Qs2xmxr | 9.3/10 | [Unland](unland-review.md) |
 | Cymin Samawatie | Qnessyd | Pending | [Catalogue](cymin-samawatie.md) |
 | Mahmood Schricker | Qxkh2tz | Pending | [Catalogue](mahmood-schricker.md) |
+| The Casualty Process | Qmdmc89 | Pending | [Catalogue](casualty-process.md) |
+| Trickster Orchestra | Q6jjfq6 | Pending | [Catalogue](trickster-orchestra.md) |
+| Nazanin Noori | Qk45pkn | Pending | [Article](../../published/articles/Qk45pkn.en.md) |
 
 The [discovery list](independent-artist-discovery.md) contains candidates with release leads. Some will prove ineligible or match an existing artist by another spelling. Only new artist pages count toward the target.
