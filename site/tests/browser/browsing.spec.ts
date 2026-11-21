@@ -168,7 +168,7 @@ for (const lang of ['en', 'fa']) {
 }
 
 test('quick search shows a few suggestions and a working all-results link', async ({ page }) => {
-  await page.goto('/en/'); await page.locator('astro-island:not([ssr])').waitFor();
+  await page.goto('/en/'); await page.locator('astro-island:not([ssr])').first().waitFor();
   await page.getByRole('combobox').fill('a');
   const options = page.locator('.search-panel [role=option]');
   await expect(options.first()).toBeVisible();

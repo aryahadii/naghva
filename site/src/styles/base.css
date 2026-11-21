@@ -72,8 +72,9 @@ html[dir=rtl] .corner-art .wrap { transform: scaleX(-1) }
 .search-panel { position: absolute; top: calc(100% + 8px); inset-inline: 0; z-index: 40; min-width: min(340px, calc(100vw - 2 * var(--gutter))); max-height: min(480px, var(--search-available-height, 60dvh)); overflow-y: auto; overscroll-behavior-y: contain; padding: 6px; border-radius: 18px; background: var(--night); box-shadow: 0 0 0 1px rgb(247 243 232 / .07), 0 30px 70px -20px rgb(0 0 0 / .85) }
 .header-end .search-panel { inset-inline: 0 auto; width: max(100%, min(340px, calc(100vw - 2 * var(--gutter)))); min-width: 0; max-width: calc(100vw - 2 * var(--gutter)) }
 .search-panel ul { margin: 0; padding: 0; list-style: none }
-.search-panel a { display: grid; grid-template-columns: minmax(0, 1fr) fit-content(42%); align-items: baseline; gap: 2px 12px; padding: 10px 14px; border-radius: 12px; text-decoration: none }
-.search-panel [aria-selected=true] a { background: rgb(247 243 232 / .08) }
+.search-panel :is(a, .search-option) { display: grid; grid-template-columns: minmax(0, 1fr) fit-content(42%); align-items: baseline; gap: 2px 12px; padding: 10px 14px; border-radius: 12px; text-decoration: none }
+.search-panel [aria-selected=true] :is(a, .search-option) { background: rgb(247 243 232 / .08) }
+.search-option { width: 100%; text-align: start }
 .search-name, .search-alt, .search-kind { min-width: 0; overflow-wrap: anywhere }
 .search-name { justify-self: start; font-size: 16px; color: var(--ivory) }
 .search-alt { grid-column: 1; justify-self: start; font-size: 13px; color: var(--ivory-3) }

@@ -14,6 +14,21 @@
   "contribute": "Contribute",
   "github": "Naghva on GitHub",
   "examples": "These pages show fictional example data.",
+  "starMap": {
+    "open": "Open the star map",
+    "onMap": "On the star map",
+    "mapLabel": "Sky of artists and recordings",
+    "keyboardHelp": "Use the arrow keys to select nearby stars, + or − to zoom, and Home to fit the sky.",
+    "close": "Close",
+    "zoomIn": "Zoom in",
+    "zoomOut": "Zoom out",
+    "fit": "Fit all stars",
+    "random": "Random artist",
+    "recordings": { "one": "{count} recording", "other": "{count} recordings" },
+    "members": { "one": "{count} member", "other": "{count} members" },
+    "groups": { "one": "{count} group", "other": "{count} groups" },
+    "artists": { "one": "{count} artist", "other": "{count} artists" }
+  },
   "browse": {
     "artists": "Artists",
     "allArtists": "Browse all artists",

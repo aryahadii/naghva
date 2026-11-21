@@ -174,7 +174,7 @@ for (const scenario of ['missing configuration', 'preview', 'preview canonical',
     if (scenario === 'GPC') await page.addInitScript(() => Object.defineProperty(navigator, 'globalPrivacyControl', { value: true }));
     const origin = scenario === 'preview' ? 'https://preview.example' : scenario === 'localhost' ? 'http://127.0.0.1:4322' : site;
     await page.goto(`${origin}/en/`);
-    await page.locator('astro-island:not([ssr])').waitFor();
+    await page.locator('astro-island:not([ssr])').first().waitFor();
     await page.getByRole('combobox').fill('sanam maroufkhani');
     await expect(page.locator('.search-panel a').first()).toBeVisible();
     await page.waitForTimeout(1000);
@@ -188,7 +188,7 @@ test('blocked ingestion does not interrupt searching or navigation', async ({ pa
   await page.route(`${ingestion}/**`, (route) => { blocked++; return route.abort(); });
   await page.goto(`${site}/en/`);
   await expect.poll(() => blocked).toBeGreaterThan(0);
-  await page.locator('astro-island:not([ssr])').waitFor();
+  await page.locator('astro-island:not([ssr])').first().waitFor();
   await page.getByRole('combobox').fill('sanam maroufkhani');
   await page.locator('.search-panel a').first().click();
   await expect(page).toHaveURL(`${site}/en/sanam-maroufkhani-a84/`);
