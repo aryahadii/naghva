@@ -20,6 +20,12 @@ statements:
       quote: Last Day of the Fall - song and lyrics by Sina Salimi | Spotify
       accessed: '2026-11-21'
       locator: Page title
+  - value: https://soundcloud.com/sinasalimi/last-day-of-the-fall
+    references:
+    - source: soundcloud.com-sinasalimi-last-day-of-the-fall
+      quote: Stream Last Day of the Fall -  آخرین روزِ پاییز by Sina  Salimi | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
   name:
   - value:
       text: Last Day of the Fall

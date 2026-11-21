@@ -32,6 +32,12 @@ statements:
       quote: We Will Take Back Our Names - song and lyrics by Sina Salimi | Spotify
       accessed: '2026-11-21'
       locator: Page title
+  - value: https://soundcloud.com/sinasalimi/we-will-take-our-names
+    references:
+    - source: soundcloud.com-sinasalimi-we-will-take-our-names
+      quote: Stream We Will Take Back Our Names by Sina  Salimi | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
   name:
   - value:
       text: We Will Take Back Our Names

@@ -1,0 +1,54 @@
+id: Qamrnce
+type: release
+statements:
+  name:
+  - value:
+      text: Owas
+      language: en
+    references:
+    - source: music.apple.com-us-album-per-se-feat-cymin-samawatie-benedikt-jahnel-ralf-schwarz-1194421929
+      quote: Owas
+      accessed: 2026-11-21
+      locator: Edition or track name
+  performer:
+  - value: Qsyrehn
+    references:
+    - source: music.apple.com-us-album-per-se-feat-cymin-samawatie-benedikt-jahnel-ralf-schwarz-1194421929
+      quote: Cyminology
+      accessed: 2026-11-21
+      locator: Billed artist
+  published by:
+  - value: Qym5599
+    references:
+    - source: music.apple.com-us-album-per-se-feat-cymin-samawatie-benedikt-jahnel-ralf-schwarz-1194421929
+      quote: Double Moon Records
+      accessed: 2026-11-21
+      locator: Phonogram credit
+  release date:
+  - value:
+      date: '2005-05-09'
+    references:
+    - source: music.apple.com-us-album-per-se-feat-cymin-samawatie-benedikt-jahnel-ralf-schwarz-1194421929
+      quote: '2005-05-09'
+      accessed: 2026-11-21
+      locator: Native edition date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/a5/99/92/a5999226-06d5-f4ff-05f2-693b9f0a166b/608917104325.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-per-se-feat-cymin-samawatie-benedikt-jahnel-ralf-schwarz-1194421929
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/a5/99/92/a5999226-06d5-f4ff-05f2-693b9f0a166b/608917104325.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Native cover art
+  listen link:
+  - value: https://music.apple.com/us/song/owas/1194422390
+    references:
+    - source: music.apple.com-us-album-per-se-feat-cymin-samawatie-benedikt-jahnel-ralf-schwarz-1194421929
+      quote: Owas
+      accessed: 2026-11-21
+      locator: Edition or track name
+  - value: https://open.spotify.com/track/1PRd1pbvZC1DW6QJoc11D8
+    references:
+    - source: open.spotify.com-album-5z9t1cdr41jpevixbosusg
+      quote: Owas
+      accessed: 2026-11-21
+      locator: Native track or edition

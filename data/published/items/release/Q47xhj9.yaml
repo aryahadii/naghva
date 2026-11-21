@@ -20,6 +20,12 @@ statements:
       quote: A Song on the Horizon - song and lyrics by Sina Salimi | Spotify
       accessed: '2026-11-21'
       locator: Page title
+  - value: https://soundcloud.com/sinasalimi/a-song-on-the-horizon
+    references:
+    - source: soundcloud.com-sinasalimi-a-song-on-the-horizon
+      quote: Stream A Song on the Horizon by Sina  Salimi | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
   name:
   - value:
       text: A Song on the Horizon

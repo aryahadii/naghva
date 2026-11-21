@@ -57,3 +57,9 @@ statements:
       quote: Flicker
       locator: Track on corresponding streaming edition
       accessed: '2026-11-21'
+  - value: https://music.apple.com/us/song/flicker/1540763483
+    references:
+    - source: music.apple.com-us-album-1540763190
+      quote: Flicker
+      locator: Streaming track
+      accessed: '2026-11-21'

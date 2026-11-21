@@ -20,6 +20,12 @@ statements:
       quote: Dance of the Gypsies - song and lyrics by Sina Salimi | Spotify
       accessed: '2026-11-21'
       locator: Page title
+  - value: https://soundcloud.com/sinasalimi/dance-of-the-gypsies
+    references:
+    - source: soundcloud.com-sinasalimi-dance-of-the-gypsies
+      quote: Stream Dance of the Gypsies by Sina  Salimi | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
   name:
   - value:
       text: Dance of the Gypsies

@@ -38,6 +38,12 @@ statements:
       quote: '"Scorched" [A Poem by Saeid Nouri] -- سوخته"  [شعری از سعید نوری]"'
       accessed: '2026-11-21'
       locator: Page title
+  - value: https://soundcloud.com/sinasalimi/scorched-a-poem-by-saeid-noori
+    references:
+    - source: soundcloud.com-sinasalimi-scorched-a-poem-by-saeid-noori
+      quote: Stream "Scorched" [A Poem by Saeid Nouri] -  [شعری از سعید نوری] "سوخته" by Sina  Salimi | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
   name:
   - value:
       text: Scorched [A Poem by Saeid Nouri]

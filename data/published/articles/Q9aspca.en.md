@@ -71,11 +71,16 @@ references:
     quote: a founding member of the Morgenland Chamber Orchestra
     locator: Earlier relationship to the festival
     accessed: '2026-11-21'
+  owntrio:
+    source: www.shabnamparvaresh.com-home
+    quote: In 2020, she founded the Sheen Trio
+    locator: Founder’s biography
+    accessed: '2026-11-21'
 ---
 
 Shabnam Parvaresh played clarinet in the Tehran Symphony Orchestra while studying visual art in the city. At home she heard Ella Fitzgerald and John Coltrane on her parents’ records. She learned flute first, then clarinet. In her own account, she moved to Germany in 2014 to study jazz clarinet in Osnabrück.[^roots][^record][^flute][^move][^jazz]
 
-In the trio Unland she improvised with pianist Jonas Meyer and guitarist Christian Grothe. Both players processed sound electronically. For *Rising Red*, her duo album with Joachim Raffel, her bass clarinet played against the sound of prepared piano and Indian harmonium. The two musicians produced the album themselves. Parvaresh also photographed and designed its cover.[^group][^players][^red][^piano][^art]
+In the trio Unland she improvised with pianist Jonas Meyer and guitarist Christian Grothe. Both players processed sound electronically. For [*Rising Red*](#rising-red-nen), her duo album with Joachim Raffel, her bass clarinet played against the sound of prepared piano and Indian harmonium. The two musicians produced the album themselves. Parvaresh also photographed and designed its cover.[^group][^players][^red][^piano][^art] She founded the Sheen Trio in 2020, returning to memories of Tehran in the music she wrote for its debut album.[^owntrio]
 
 ## From the clarinet to the screen
 

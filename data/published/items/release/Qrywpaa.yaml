@@ -20,6 +20,12 @@ statements:
       quote: ‎Voiceless Songs - Song with Lyrics by Sina Salimi - Apple Music
       accessed: '2026-11-21'
       locator: Page title
+  - value: https://soundcloud.com/sinasalimi/voiceless-songs
+    references:
+    - source: soundcloud.com-sinasalimi-voiceless-songs
+      quote: Stream Voiceless Songs - ترانه‌هایِ بی‌صدا by Sina  Salimi | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
   name:
   - value:
       text: Voiceless Songs

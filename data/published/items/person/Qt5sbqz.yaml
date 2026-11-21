@@ -61,3 +61,9 @@ statements:
       quote: Sina Salimi - YouTube
       accessed: '2026-11-21'
       locator: Page title
+  - value: https://soundcloud.com/sinasalimi
+    references:
+    - source: soundcloud.com-sinasalimi
+      quote: Stream Sina  Salimi | Listen to music albums online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title

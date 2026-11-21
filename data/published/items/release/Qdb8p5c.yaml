@@ -20,6 +20,12 @@ statements:
       quote: Neighbours in the Dark - song and lyrics by Sina Salimi | Spotify
       accessed: '2026-11-21'
       locator: Page title
+  - value: https://soundcloud.com/sinasalimi/neighbours-in-the-dark
+    references:
+    - source: soundcloud.com-sinasalimi-neighbours-in-the-dark
+      quote: Stream Neighbours in the Dark by Sina  Salimi | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
   name:
   - value:
       text: Neighbours in the Dark

@@ -20,6 +20,12 @@ statements:
       quote: Not so Long Ago - song and lyrics by Sina Salimi | Spotify
       accessed: '2026-11-21'
       locator: Page title
+  - value: https://soundcloud.com/sinasalimi/not-so-long-ago
+    references:
+    - source: soundcloud.com-sinasalimi-not-so-long-ago
+      quote: Stream Not So Long Ago - روزگاری نه چندان دور by Sina  Salimi | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
   name:
   - value:
       text: Not So Long Ago

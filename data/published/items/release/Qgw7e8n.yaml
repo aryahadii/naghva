@@ -57,6 +57,12 @@ statements:
       quote: Stars at Eye-Height
       locator: Streaming album
       accessed: '2026-11-21'
+  - value: https://music.apple.com/us/album/1210767308
+    references:
+    - source: music.apple.com-us-album-1210767308
+      quote: Stars At Eye-Height
+      locator: Album title
+      accessed: '2026-11-21'
   release type:
   - value: album
     references:

@@ -20,6 +20,12 @@ statements:
       quote: A Desire Named Train - song and lyrics by Sina Salimi | Spotify
       accessed: '2026-11-21'
       locator: Page title
+  - value: https://soundcloud.com/sinasalimi/a-desire-named-train-1
+    references:
+    - source: soundcloud.com-sinasalimi-a-desire-named-train-1
+      quote: Stream هوسی به نام قطار - A Desire Named Train by Sina  Salimi | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
   name:
   - value:
       text: A Desire Named Train

@@ -63,6 +63,7 @@ The official channel linked the seven-track album playlist as well as Beeptunes 
 - Edameh Sazo Avaz · https://soundcloud.com/kiyarashdavoudi/edameh-sazo-avaz
 - Avaze Mokhalef (In Memory of Maestro Parviz Meshkatian) · https://soundcloud.com/kiyarashdavoudi/avaze-mokhalef-in-memory-of
 - Gham-e Yar · https://soundcloud.com/kiyarashdavoudi/gham-e-yar
+- Vafaye To (feat. Pedram Khavarzamini & Ali Ghanbari) · https://soundcloud.com/kiyarashdavoudi/vafaye-to-feat-pedram
 - Yademan 95 (In memory of maestro Mohammadreza Lotfi) · https://soundcloud.com/kiyarashdavoudi/yademan-95-in-memory-of
 - In memory of maestro Mohammadreza Shajarian · https://soundcloud.com/kiyarashdavoudi/in-memory-of-maestro
 - Nedaye Shab · https://soundcloud.com/kiyarashdavoudi/nedaye-shab
@@ -75,3 +76,47 @@ The official channel linked the seven-track album playlist as well as Beeptunes 
 - دانلود آلبوم انگاره فراق · https://beeptunes.com/album/512780574
 - دانلود آهنگ چهار مضراب ابوعطا · https://beeptunes.com/track/572779548/%DA%86%D9%87%D8%A7%D8%B1-%D9%85%D8%B6%D8%B1%D8%A7%D8%A8-%D8%A7%D8%A8%D9%88%D8%B9%D8%B7%D8%A7
 - دانلود آلبوم فریاد هجران · https://beeptunes.com/album/603829813/%D9%81%D8%B1%DB%8C%D8%A7%D8%AF-%D9%87%D8%AC%D8%B1%D8%A7%D9%86
+
+## Telegram performance archive
+
+The artist’s early native documents, filmed practice, private improvisations, Rudaki Hall appearances and conservatory ensemble recordings were distinguished from uploads featuring mentors or students, documentary/teaching footage and later duplicates of the public releases. Date fields reflect the original post, while the captions establish when the actual performances took place.
+
+- 190 · طرحی بر درآمد سه‌گاه و شکسته‌مویه · https://t.me/kiyarashdavoudi/190
+- 4 · زبان نگاه · https://t.me/kiyarashdavoudi/4
+- 8 · آواز بیداد · https://t.me/kiyarashdavoudi/8
+- 19 · چهارمضراب حجاز · https://t.me/kiyarashdavoudi/19
+- 25 · اجرای بهمن ماه ۹۵ در تالار رودکی · https://t.me/kiyarashdavoudi/25
+- 27 · آواز ابوعطا(یتیمک) · https://t.me/kiyarashdavoudi/27
+- 37 · باز عشق · https://t.me/kiyarashdavoudi/37
+- 41 · ضربی بیداد · https://t.me/kiyarashdavoudi/41
+- 43 · آن روزها · https://t.me/kiyarashdavoudi/43
+- 52 · یاد یاران خوش است · https://t.me/kiyarashdavoudi/52
+- 55 · آواز بیات ترک · https://t.me/kiyarashdavoudi/55
+- 56 · چهارمضراب ابوعطا · https://t.me/kiyarashdavoudi/56
+- 59 · شاه ختایی · https://t.me/kiyarashdavoudi/59
+- 60 · شکسته در بیات ترک · https://t.me/kiyarashdavoudi/60
+- 61 · بداهه نوازی بر اساس یک مقام خراسانی · https://t.me/kiyarashdavoudi/61
+- 62 · بیات راجع · https://t.me/kiyarashdavoudi/62
+- 65 · چهارمضراب دشتی · https://t.me/kiyarashdavoudi/65
+- 72 · ساز و آواز · https://t.me/kiyarashdavoudi/72
+- 86 · کردبیات · https://t.me/kiyarashdavoudi/86
+- 113 · چهارمضراب بیداد همراه با آواز · https://t.me/kiyarashdavoudi/113
+- 122 · درآمد نوا · https://t.me/kiyarashdavoudi/122
+- 127 · چهارمضراب ابوعطا · https://t.me/kiyarashdavoudi/127
+- 133 · خرامان · https://t.me/kiyarashdavoudi/133
+- 134 · خجسته در اصفهان · https://t.me/kiyarashdavoudi/134
+- 151 · پیش درآمد شوشتری · https://t.me/kiyarashdavoudi/151
+- 248 · بی تو · https://t.me/kiyarashdavoudi/248
+- 182 · سرکش اثر استاد پرویز مشکاتیان نوازنده‌ سنتور کیارش داودی sarkesh a piece by master Parviz meshkatian · https://t.me/kiyarashdavoudi/182
+- 184 · A piece in AbouAta by Kiyarash Davoudi in memory of Jalil Shahnaz / پیش‌درآمد ابوعطا اثر کیارش داودی · https://t.me/kiyarashdavoudi/184
+- 188 · In memory of maestro Mohammadreza Shajarian · https://t.me/kiyarashdavoudi/188
+- 204 · Avaze Mokhalef (In Memory of Maestro Parviz Meshkatian) · https://t.me/kiyarashdavoudi/204
+- 210 · Jane Hazin · https://t.me/kiyarashdavoudi/210
+- 216 · Try Until Your Last Breath · https://t.me/kiyarashdavoudi/216
+- 223 · Vafaye To · https://t.me/kiyarashdavoudi/223
+- 227 · بداهه‌ای کوتاه! · https://t.me/kiyarashdavoudi/227
+- 231 · The Scream of Sepration · https://t.me/kiyarashdavoudi/231
+- 239 · Char Mezrabe Nava · https://t.me/kiyarashdavoudi/239
+- 345 · آئین رونمایی از آلبوم جان حزین · https://t.me/kiyarashdavoudi/345
+- 387 · Blood Drop · https://t.me/kiyarashdavoudi/387
+- 79 · Engare Feragh · https://t.me/kiyarashdavoudi/79

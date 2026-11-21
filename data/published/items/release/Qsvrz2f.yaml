@@ -20,6 +20,12 @@ statements:
       quote: Not Easy to Part with You - song and lyrics by Sina Salimi | Spotify
       accessed: '2026-11-21'
       locator: Page title
+  - value: https://soundcloud.com/sinasalimi/not-easy-to-part-with-you
+    references:
+    - source: soundcloud.com-sinasalimi-not-easy-to-part-with-you
+      quote: Stream Not Easy to Part with You by Sina  Salimi | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
   name:
   - value:
       text: Not Easy to Part with You

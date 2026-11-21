@@ -20,6 +20,12 @@ statements:
       quote: I Came to Your Dream - song and lyrics by Sina Salimi | Spotify
       accessed: '2026-11-21'
       locator: Page title
+  - value: https://soundcloud.com/sinasalimi/i-came-to-your-dream
+    references:
+    - source: soundcloud.com-sinasalimi-i-came-to-your-dream
+      quote: Stream I Came To Your Dream - اومدم به خواب تو by Sina  Salimi | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
   name:
   - value:
       text: I Came to Your Dream

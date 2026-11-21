@@ -20,6 +20,12 @@ statements:
       quote: Like a Lighthouse - song and lyrics by Sina Salimi | Spotify
       accessed: '2026-11-21'
       locator: Page title
+  - value: https://soundcloud.com/sinasalimi/like-a-lighthouse
+    references:
+    - source: soundcloud.com-sinasalimi-like-a-lighthouse
+      quote: Stream Like a Lighthouse by Sina  Salimi | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
   name:
   - value:
       text: Like a Lighthouse

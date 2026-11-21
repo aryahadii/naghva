@@ -1,0 +1,22 @@
+id: Qnessyd
+type: person
+statements:
+  name:
+  - value:
+      text: Cymin Samawatie
+      language: en
+    references:
+    - source: ecmrecords.com-artists-cyminology
+      quote: Cymin Samawatie
+      accessed: 2026-11-21
+      locator: Quartet members
+  member of:
+  - value: Qsyrehn
+    qualifiers:
+      role:
+      - vocals
+    references:
+    - source: ecmrecords.com-artists-cyminology
+      quote: Cymin Samawatie
+      accessed: 2026-11-21
+      locator: Quartet members

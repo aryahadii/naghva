@@ -20,6 +20,12 @@ statements:
       quote: Endless Nowruz - song and lyrics by Sina Salimi | Spotify
       accessed: '2026-11-21'
       locator: Page title
+  - value: https://soundcloud.com/sinasalimi/endless-nowruz-remastered
+    references:
+    - source: soundcloud.com-sinasalimi-endless-nowruz-remastered
+      quote: Stream Endless Nowruz - Remastered by Sina  Salimi | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
   name:
   - value:
       text: Endless Nowruz - Remastered

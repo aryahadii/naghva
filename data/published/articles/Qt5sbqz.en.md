@@ -135,6 +135,46 @@ references:
     quote: The second verse of the song is a poem by the 13th century Persian poet, Saadi.
     accessed: '2026-11-21'
     locator: Artist interview, biography or performance credits
+  inner0:
+    source: iran.ca-events-ontario-toronto-concerts-inner-scripts-act-2-by-sina-salimi-mahnaz-rad
+    quote: creative collaboration between Sina Salimi and vocalist Mahnaz Rad
+    accessed: '2026-11-21'
+    locator: Artist interview, biography or performance credits
+  inner1:
+    source: iran.ca-events-ontario-toronto-concerts-inner-scripts-act-2-by-sina-salimi-mahnaz-rad
+    quote: shot, edited, and narrated by Sina
+    accessed: '2026-11-21'
+    locator: Artist interview, biography or performance credits
+  inner2:
+    source: iran.ca-events-ontario-toronto-concerts-inner-scripts-act-2-by-sina-salimi-mahnaz-rad
+    quote: The English translations of the Persian lyrics are incorporated into the visuals
+    accessed: '2026-11-21'
+    locator: Artist interview, biography or performance credits
+  hproj0:
+    source: iran.ca-events-ontario-toronto-concerts-reading-hafez-for-my-mother-live-recording
+    quote: ۹۳ بیت از اشعار حافظ
+    accessed: '2026-11-21'
+    locator: Artist interview, biography or performance credits
+  hproj1:
+    source: iran.ca-events-ontario-toronto-concerts-reading-hafez-for-my-mother-live-recording
+    quote: این برنامه دومین و آخرین ضبط زنده پروژه
+    accessed: '2026-11-21'
+    locator: Artist interview, biography or performance credits
+  hproj2:
+    source: iran.ca-events-ontario-toronto-concerts-reading-hafez-for-my-mother-live-recording
+    quote: ترجمه انگلیسی اشعار برای مخاطبان خوانده می‌شود
+    accessed: '2026-11-21'
+    locator: Artist interview, biography or performance credits
+  hproj3:
+    source: iran.ca-events-ontario-toronto-concerts-reading-hafez-for-my-mother-live-recording
+    quote: July 19, 2026, 8:00 pm
+    accessed: '2026-11-21'
+    locator: Artist interview, biography or performance credits
+  hproj4:
+    source: iran.ca-events-ontario-toronto-concerts-reading-hafez-for-my-mother-live-recording
+    quote: Pamenar، تورنتو
+    accessed: '2026-11-21'
+    locator: Artist interview, biography or performance credits
 ---
 
 Sina Salimi is an Iranian Canadian songwriter, singer and santur player based in Toronto. He moved to Canada at fourteen and a half, already drawn to Persian poetry and the santur. Three decades later he was still writing his songs in Persian.[^who][^tor][^age][^love][^language]
@@ -150,3 +190,7 @@ In summer 2018 Salimi joined songwriter Barzin on santur for a live recording at
 Between September 2022 and September 2023 Salimi worked on the collection *Ten Songs for My Motherland*. Mahnaz Rad contributed to six of the songs. Salimi dedicated the collection to Niloofar Hamedi and Elaheh Mohammadi.[^tt][^six][^ded]
 
 For [*Travellers, Musicians and Other Stories*](#travellers-musicians-and-other-stories-vz2), released in March 2026, sixteen musicians played nineteen instruments. The twenty-two songs form a seventy-one-minute story drawn from Salimi’s experiences. Its words come from different times. One song borrows from Bahram Bayzaei’s 1979 film *Ballad of Tara*, another brings together verses from four poems by Hafez, and a third includes a verse by Saadi.[^ndate][^ncount][^nlen][^tara][^hafez][^saadi]
+
+Salimi and vocalist Mahnaz Rad connected the songs in their project *Inner Scripts* with short films. Salimi shot, edited and narrated them, and the English translations of the Persian lyrics appeared on screen.[^inner0][^inner1][^inner2]
+
+For *Reading Hafez for My Mother*, Salimi set ninety-three couplets by Hafez to music. Toronto’s Café Pamenar advertised a second and final live recording for July 19, 2026, with English translations read between the pieces.[^hproj0][^hproj1][^hproj2][^hproj3][^hproj4]

@@ -20,6 +20,12 @@ statements:
       quote: Like the Gypsies - song and lyrics by Sina Salimi | Spotify
       accessed: '2026-11-21'
       locator: Page title
+  - value: https://soundcloud.com/sinasalimi/like-the-gypsies-feat-mahnaz
+    references:
+    - source: soundcloud.com-sinasalimi-like-the-gypsies-feat-mahnaz
+      quote: Stream Like the Gypsies (feat. Mahnaz Rad) by Sina  Salimi | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
   name:
   - value:
       text: Like the Gypsies (feat. Mahnaz Rad)

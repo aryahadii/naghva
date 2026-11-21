@@ -1,0 +1,44 @@
+id: Qsyrehn
+type: act
+statements:
+  name:
+  - value:
+      text: Cyminology
+      language: en
+    references:
+    - source: ecmrecords.com-artists-cyminology
+      quote: Cyminology
+      accessed: 2026-11-21
+      locator: Group name
+  formation date:
+  - value:
+      date: '2002'
+    references:
+    - source: ecmrecords.com-artists-cyminology
+      quote: founded by Cymin Samawatie in 2002
+      accessed: 2026-11-21
+      locator: Foundation in Berlin
+  image:
+  - value: https://i.ytimg.com/vi/NSuKh9d8wuQ/hqdefault.jpg
+    qualifiers:
+      credit:
+        text: ECM Records, As Ney film
+        language: en
+    references:
+    - source: youtu.be-nsukh9d8wuq
+      quote: 'Cyminology: As Ney (Album EPK) | ECM Records'
+      accessed: 2026-11-21
+      locator: Group playing in ECM’s film
+  profile link:
+  - value: https://open.spotify.com/artist/4faFmgGzHxLfZC8feIbJ8p
+    references:
+    - source: open.spotify.com-artist-4fafmggzhxlfzc8feibj8p
+      quote: Cyminology
+      accessed: 2026-11-21
+      locator: Spotify artist heading
+  - value: https://music.apple.com/us/artist/cyminology/117905638
+    references:
+    - source: music.apple.com-us-artist-cyminology-117905638
+      quote: Cyminology
+      accessed: 2026-11-21
+      locator: Apple Music heading

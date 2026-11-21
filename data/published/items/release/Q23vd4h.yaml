@@ -20,6 +20,12 @@ statements:
       quote: But You and I - song and lyrics by Sina Salimi | Spotify
       accessed: '2026-11-21'
       locator: Page title
+  - value: https://soundcloud.com/sinasalimi/but-you-and-i-1
+    references:
+    - source: soundcloud.com-sinasalimi-but-you-and-i-1
+      quote: Stream اما من و تو - But You and I by Sina  Salimi | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
   name:
   - value:
       text: But You And I

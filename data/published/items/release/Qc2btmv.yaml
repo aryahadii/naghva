@@ -56,6 +56,12 @@ statements:
       quote: Trapezoid - song and lyrics by Sina Salimi | Spotify
       accessed: '2026-11-21'
       locator: Page title
+  - value: https://soundcloud.com/sinasalimi/trapezoid
+    references:
+    - source: soundcloud.com-sinasalimi-trapezoid
+      quote: Stream Trapezoid by Sina  Salimi | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
   release date:
   - value:
       date: '2026-03-20'

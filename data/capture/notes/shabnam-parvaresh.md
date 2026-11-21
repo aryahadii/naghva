@@ -1,0 +1,107 @@
+# Shabnam Parvaresh
+
+Her site and the Berliner Festspiele date the move to Germany to 2014; the Morgenland Festival dates it to 2013. The article attributes the year to her own account. Her dated appointment, 2026–2028, is independently confirmed by the festival. The apple catalogue splits her name across two profiles; Spotify splits it across three. Reconciled items include her original duo, both Sheen albums, her previous trio Unland, the fully credited quintet on Flicker, KIND, and the original Alina recording. Henning Neidhardt’s six-track film soundtrack only credits her on two individual songs. Tabeah’s album also specifies two; IKATAR names The Ascendent Love of Two Birds. Von Korf identifies two tracks without naming them. The individual Bluets track pages do not specify which tracks carry bass clarinet. Album-only credit is retained where necessary. Also checked the beyond-music collaboration with Sofia Labropoulou, the Ula Martyn-Ellis duo Cocoon, Sasha Shlain’s guest credit and Klangteppich Wired (existing item). Her original site lists Chiara Raimondi Octett 2024 without providing an issue title or track listing. The university programme proves the 2022 live lineup, not a public issue of that performance. Five original artist video uploads plus the group channels and label/presenter programmes were checked. No independent Telegram recording was identified.
+
+## Recording inventory
+
+- Gozar · Q5qheym · https://sheentrio.bandcamp.com/album/gozar · https://music.apple.com/us/album/gozar-feat-shabnam-parvaresh-ula-martyn-ellis-philipp-buck/1676065307 · https://open.spotify.com/album/1vK6kHA1BmavYEa8FqxuW0
+- 5 Days 8 Hours and 35 Minutes · Qkza4x2 · https://sheentrio.bandcamp.com/track/5-days-8-hours-and-35-minutes · https://music.apple.com/us/song/5-days-8-hours-and-35-minutes-feat-shabnam-parvaresh/1676065311 · https://open.spotify.com/track/1Ot70mk5XhnVVb1nMgZwu5 · https://open.spotify.com/track/5xqB2bASJYtN4cCe9ounWb · https://music.apple.com/us/song/5-days-8-hours-and-35-minutes-feat-shabnam-parvaresh/1676086174
+- Flashback · Q3cbpz2 · https://sheentrio.bandcamp.com/track/flashback · https://music.apple.com/us/song/flashback-feat-shabnam-parvaresh-ula-martyn-ellis-philipp/1676065313 · https://open.spotify.com/track/5JgeL1oxx6EdudOWOQZ09C
+- Rudy the Spider · Qdrjsx9 · https://sheentrio.bandcamp.com/track/rudy-the-spider · https://music.apple.com/us/song/rudy-the-spider-feat-shabnam-parvaresh-ula-martyn/1676065318 · https://open.spotify.com/track/258Cy9N9zAYWAfUbtzvgTZ
+- Fragment · Qkktsps · https://sheentrio.bandcamp.com/track/fragment · https://music.apple.com/us/song/fragment-feat-shabnam-parvaresh-ula-martyn-ellis-philipp/1676065320 · https://open.spotify.com/track/5YqynnTY9LArDvZCB4EX9H
+- Gozar · Qcjhnz5 · https://sheentrio.bandcamp.com/track/gozar · https://music.apple.com/us/song/gozar-the-passage-feat-shabnam-parvaresh-ula-martyn/1676065324 · https://open.spotify.com/track/0w0NrDdz8CvniozHOg7AZl
+- Katsuobushi · Qfefdp3 · https://sheentrio.bandcamp.com/track/katsuobushi · https://music.apple.com/us/song/katsuobushi-feat-shabnam-parvaresh-ula-martyn-ellis/1676065326 · https://open.spotify.com/track/4DaEgzXGFslxAWxSpCumOv
+- Terminal C · Qrjp4st · https://sheentrio.bandcamp.com/track/terminal-c · https://music.apple.com/us/song/terminal-c-feat-shabnam-parvaresh-ula-martyn-ellis/1676065328 · https://open.spotify.com/track/4IOxj7XDC95UxS3FEkKSLg · https://open.spotify.com/track/6pIBBXkv0RPcrYzvGRhJUU · https://music.apple.com/us/song/terminal-c-feat-shabnam-parvaresh-ula-martyn-ellis/1676086499 · https://www.youtube.com/watch?v=FL_866SATpo
+- Liquid Summer · Qm5ayp7 · https://sheentrio.bandcamp.com/track/liquid-summer · https://music.apple.com/us/song/liquid-summer-feat-shabnam-parvaresh-ula-martyn-ellis/1676065331 · https://open.spotify.com/track/2P0QT1IffKwAEaFwcmryIw
+- Collapse · Q7kgy29 · https://sheentrio.bandcamp.com/track/collapse · https://music.apple.com/us/song/collapse-feat-shabnam-parvaresh-ula-martyn-ellis-philipp/1676065334 · https://open.spotify.com/track/76VRQPl4NFELl3vO4ON0Mn
+- Pendulum · Qd5hnx2 · https://sheentrio.bandcamp.com/track/pendulum · https://music.apple.com/us/song/avang-pendulum-feat-shabnam-parvaresh-ula-martyn-ellis/1676065335 · https://open.spotify.com/track/0Y6GUYWQ5OevPcUGpzQ19x
+- Transitory · Qnvtckw · https://sheentrio1.bandcamp.com/album/transitory · https://music.apple.com/us/album/transitory/1847584426 · https://open.spotify.com/album/0zdZSCKp1H7RWO7m1TaowX · https://www.youtube.com/watch?v=ov-2UxHa2BQ
+- Transitory · Q4v63qt · https://sheentrio1.bandcamp.com/track/transitory-2 · https://music.apple.com/us/song/transitory/1847584432 · https://open.spotify.com/track/5ymaME3osxF4bBju5CGQZp · https://open.spotify.com/track/1Y5wQT2thkPPCJawoykGZU
+- Cocoon · Qe3bbrt · https://sheentrio1.bandcamp.com/track/cocoon · https://music.apple.com/us/song/cocoon/1847584435 · https://open.spotify.com/track/6kn4FOTLe8eIY4HHIHIemk · https://www.youtube.com/watch?v=e2FwAih8lxY
+- Night Express · Qb8apry · https://sheentrio1.bandcamp.com/track/night-express · https://music.apple.com/us/song/night-express/1847584440 · https://open.spotify.com/track/4gq6sEOywiWuMtLD8IPhSz
+- Maroggia · Qm6hexp · https://sheentrio1.bandcamp.com/track/maroggia-2 · https://music.apple.com/us/song/maroggia/1847584445 · https://open.spotify.com/track/578XvlH8JfdPTEzYkPglyL · https://open.spotify.com/track/6EAhHC0geVh1DWTP3CgQgN
+- Soy Lake City · Qxa2h7s · https://sheentrio1.bandcamp.com/track/soy-lake-city · https://music.apple.com/us/song/soy-lake-city/1847584508 · https://open.spotify.com/track/6Jzxi2cTeQZVMjcysJXQEi
+- Tangled in a Dream · Q35kf87 · https://sheentrio1.bandcamp.com/track/tangled-in-a-dream · https://music.apple.com/us/song/tangled-in-your-dream/1847584513 · https://open.spotify.com/track/5VrI4TImjoJtw9lIMnBTw9
+- Sorna's Revival · Qsjmr5a · https://sheentrio1.bandcamp.com/track/sornas-revival · https://music.apple.com/us/song/sornas-revival/1847584517 · https://open.spotify.com/track/2t0hj6pbM1jIxY4kTX859R
+- Unexpected Rock · Qkrsa8h · https://sheentrio1.bandcamp.com/track/unexpected-rock · https://music.apple.com/us/song/unexpected-rock/1847584521 · https://open.spotify.com/track/6Jv4n0aNnkh2ssGUb3xiWt
+- Rising Red · Qnen6a3 · https://shabnamparvaresh.bandcamp.com/album/rising-red · https://music.apple.com/us/album/rising-red/1713579712 · https://open.spotify.com/album/2EuOQyhOnSogPl3jXAhdx6
+- Plainte Ayotl · Q576hw3 · https://shabnamparvaresh.bandcamp.com/track/plainte-ayotl · https://music.apple.com/us/song/plainte-ayotl/1713579716 · https://open.spotify.com/track/0PKZ5SWpLOr1AiN7wEkzSJ
+- Geisha Skeleton · Qkvjst5 · https://shabnamparvaresh.bandcamp.com/track/geisha-skeleton · https://music.apple.com/us/song/geisha-skeleton/1713579725 · https://open.spotify.com/track/7v6PhkG1uBUIikkabtXXhF
+- Forbearance · Q85pskt · https://shabnamparvaresh.bandcamp.com/track/forbearance · https://music.apple.com/us/song/forbearance/1713579728 · https://open.spotify.com/track/2Arg1okbkO8lBOauc0PbP3
+- Marche Triomphale · Q34yqgq · https://shabnamparvaresh.bandcamp.com/track/marche-triomphale · https://music.apple.com/us/song/marche-triomphale/1713579729 · https://open.spotify.com/track/0y9FbJAVMNTrYVgL7Bhe2Y
+- Rising Red · Qyea3s3 · https://shabnamparvaresh.bandcamp.com/track/rising-red · https://music.apple.com/us/song/rising-red/1713579736 · https://open.spotify.com/track/182YICWHRkJyRXr45dTU70
+- Doom · Q82ftjn · https://shabnamparvaresh.bandcamp.com/track/doom · https://music.apple.com/us/song/doom/1713580129 · https://open.spotify.com/track/54uHb7JVfnHp8CJuUgsFxq
+- Miracle · Qc4f44k · https://shabnamparvaresh.bandcamp.com/track/miracle · https://music.apple.com/us/song/miracle/1713580131 · https://open.spotify.com/track/5MAIK9eKQWVm13Mqq5sqJq
+- Parable · Qsefyas · https://shabnamparvaresh.bandcamp.com/track/parable · https://music.apple.com/us/song/parable/1713580147 · https://open.spotify.com/track/7eIYU55rRXzCs5Twc49Pfl
+- Insect · Qqnwncg · https://shabnamparvaresh.bandcamp.com/track/insect · https://music.apple.com/us/song/insect/1713580154 · https://open.spotify.com/track/34VmTDcv3TYlsp6SjYBAXt
+- Short Story · Q3jey7k · https://shabnamparvaresh.bandcamp.com/track/short-story · https://music.apple.com/us/song/short-story/1713580490 · https://open.spotify.com/track/4v8ta9cMUq3WXap35EyXvI
+- Gyro´s Tale · Q2csvzq · https://shabnamparvaresh.bandcamp.com/track/gyro-s-tale · https://music.apple.com/us/song/gyros-tale/1713580493 · https://open.spotify.com/track/35G0N1ohQ0S3CPo9ZvJ6fy · https://open.spotify.com/track/6UEdzIZ4IGNbpueGPXIU2s
+- Betrachtungen · Qdm3r52 · https://unland.bandcamp.com/album/betrachtungen
+- Walking Eyesfolded · Q3ngxj9 · https://unland.bandcamp.com/track/walking-eyesfolded · https://soundcloud.com/unlandmusic/walking-eyesfolded
+- Playground · Qnqmk6r · https://unland.bandcamp.com/track/playground · https://soundcloud.com/unlandmusic/playground
+- Betrachtung · Q2j7axn · https://unland.bandcamp.com/track/betrachtung · https://soundcloud.com/unlandmusic/betrachtung-1
+- Tagtraum · Q2sg9mg · https://unland.bandcamp.com/track/tagtraum · https://soundcloud.com/unlandmusic/tagtraum
+- Demut · Qrhem7x · https://unland.bandcamp.com/track/demut · https://soundcloud.com/unlandmusic/demut
+- Melting Universe · Qqfa2ex · https://unland.bandcamp.com/track/melting-universe · https://soundcloud.com/unlandmusic/melting-universe
+- Emerging Land · Qhx64ad · https://unland.bandcamp.com/track/emerging-land · https://soundcloud.com/unlandmusic/emerging-land
+- Broken Boxes · Q5qjjmg · https://unland.bandcamp.com/track/broken-boxes · https://soundcloud.com/unlandmusic/broken-boxes
+- Unland · Qzd4np7 · https://unland.bandcamp.com/album/unland
+- Scene 1 · Qg6vy25 · https://unland.bandcamp.com/track/scene-1 · https://soundcloud.com/unlandmusic/unland-scene-1
+- Scene 3 · Q5nwdcv · https://unland.bandcamp.com/track/scene-3 · https://www.youtube.com/watch?v=o1gZeCVLwLc · https://soundcloud.com/unlandmusic/unland-scene-3
+- Scene 4 · Qmysbgt · https://unland.bandcamp.com/track/scene-4 · https://soundcloud.com/unlandmusic/unland-scene-4
+- Die Ruhe nach dem Sturm · Qdsare8 · https://unland.bandcamp.com/album/die-ruhe-nach-dem-sturm · https://www.youtube.com/watch?v=c1emuoxhYxw · https://midirarecords.bandcamp.com/album/die-ruhe-nach-dem-sturm
+- Mühsal · Qt43sqv · https://unland.bandcamp.com/track/m-hsal · https://midirarecords.bandcamp.com/track/m-hsal
+- Verwüstung · Q7dwgaq · https://unland.bandcamp.com/track/verw-stung · https://midirarecords.bandcamp.com/track/verw-stung
+- Elegie · Qwzy2pw · https://unland.bandcamp.com/track/elegie · https://midirarecords.bandcamp.com/track/elegie
+- Die Ruhe nach dem Sturm · Qeqwkzc · https://unland.bandcamp.com/track/die-ruhe-nach-dem-sturm · https://midirarecords.bandcamp.com/track/die-ruhe-nach-dem-sturm
+- Flicker · Qejpq94 · https://lukasschwegmann.bandcamp.com/album/flicker · https://open.spotify.com/album/1TYAA5cd9EwPLVQN7luRuQ · https://music.apple.com/us/album/1540763190
+- Sticking to the Principle · Qad7kfc · https://lukasschwegmann.bandcamp.com/track/sticking-to-the-principle · https://open.spotify.com/track/0rQFvjOiSeo40va44S3tEl · https://music.apple.com/us/song/sticking-to-the-principle/1540763195
+- Quasimodo · Qpch3nd · https://lukasschwegmann.bandcamp.com/track/quasimodo · https://open.spotify.com/track/6mjTYJnPbVXqXYcOo3JNgy · https://music.apple.com/us/song/quasimodo/1540763475
+- Fata Morgana · Q5y8z4v · https://lukasschwegmann.bandcamp.com/track/fata-morgana · https://open.spotify.com/track/1TyhH87pih7ScdLZPrWShp · https://music.apple.com/us/song/fata-morgana/1540763482
+- Flicker · Qpsdy3d · https://lukasschwegmann.bandcamp.com/track/flicker · https://open.spotify.com/track/0sDPpCOCriObmlzfvZMBnJ · https://music.apple.com/us/song/flicker/1540763483
+- Midnight Mood · Qnr4633 · https://lukasschwegmann.bandcamp.com/track/midnight-mood · https://open.spotify.com/track/2vLSXsOVfYB8Ly0LR4Cw4n · https://music.apple.com/us/song/midnight-mood/1540763485
+- Two Cherry Trees · Q63838z · https://lukasschwegmann.bandcamp.com/track/two-cherry-trees · https://open.spotify.com/track/2pE8zjY0kREiuexY6OgKaT · https://music.apple.com/us/song/two-cherry-trees/1540763486
+- Count · Q8kkt5h · https://janklare.bandcamp.com/album/count
+- 12 hands - no brain · Q7esbkk · https://janklare.bandcamp.com/track/12-hands-no-brain
+- 6 exits · Q5d66vn · https://janklare.bandcamp.com/track/6-exits
+- 3 birds - 1 tree · Q39ewe7 · https://janklare.bandcamp.com/track/3-birds-1-tree
+- religion 1 · Qpvsqej · https://janklare.bandcamp.com/track/religion-1
+- 4 cars - 1 wheel · Qbz6zr8 · https://janklare.bandcamp.com/track/4-cars-1-wheel
+- 4 bots - 1 zero · Qqsbndn · https://janklare.bandcamp.com/track/4-bots-1-zero
+- 4 fingers · Qekdnkm · https://janklare.bandcamp.com/track/4-fingers
+- 4 bees - 1 blossom · Qncvw7t · https://janklare.bandcamp.com/track/4-bees-1-blossom
+- Stars at Eye-Height (2017) · Qgw7e8n · https://tabeah.bandcamp.com/album/stars-at-eye-height-2017 · https://open.spotify.com/album/243Vn7JUu4WiD0VuQ7rXCh · https://music.apple.com/us/album/1210767308
+- Just For Now · Qjngz5m · https://tabeah.bandcamp.com/track/just-for-now · https://open.spotify.com/track/4ldr3VzI3iUV9XiXQPITUN · https://music.apple.com/us/song/just-for-now/1210767651
+- The End · Qyhbbjd · https://tabeah.bandcamp.com/track/the-end · https://open.spotify.com/track/3w6Q93Au0UtzbFGi7vzV4P · https://music.apple.com/us/song/the-end/1210767652
+- Memos Of Memory (OST) · Q2g9jx2 · https://henningneidhardt.bandcamp.com/album/memos-of-memory-ost-2 · https://music.apple.com/us/album/memos-of-memory-ost-ep/1774426726 · https://open.spotify.com/album/4jymOuIkrLlDRF7iwX3EpL
+- Neither Hot Nor Cold · Qdwnwaf · https://henningneidhardt.bandcamp.com/track/neither-hot-nor-cold · https://music.apple.com/us/song/neither-hot-nor-cold-feat-shabnam-parvaresh-qin-tang/1774426727 · https://open.spotify.com/track/6JB0HmDuAAYO0E69lIJyT0
+- Too Close to be Gone, Yet Time Seems Difficult · Q8vryhe · https://henningneidhardt.bandcamp.com/track/too-close-to-be-gone-yet-time-seems-difficult · https://music.apple.com/us/song/too-close-to-be-gone-yet-time-seems-difficult-feat/1774427089 · https://open.spotify.com/track/6kFt1sTOegiw8dxA0Z2JBW
+- Cocoon · Qnsrjvm · https://music.apple.com/us/song/cocoon-feat-shabnam-parvaresh/6791675798 · https://open.spotify.com/track/0mHUPpJ8kevj8kLIBzhy9j
+- L'addio di Anna · Q9gk48q · https://music.apple.com/us/song/laddio-di-anna-feat-lukas-gasser-andr%C3%A9-pousaz-shabnam/1616859857 · https://open.spotify.com/track/5JBTnDyKQ8e8NkAyOmN61S
+- Midday Prayer · Qghypsa · https://music.apple.com/us/song/midday-prayer-feat-sofia-labropoulou-mamak-khadem-shabnam/1623182534 · https://open.spotify.com/track/5pOYEE1Jwl4S8OUjbx9pcX
+- Sheen Trio - Collapse · Mühle der Freundschaft · Qywy6as · https://www.youtube.com/watch?v=zswEL8QwrVg
+- Sheen Trio-Tangled in your dream · Mühle der Freundschaft · Qkz9pa9 · https://www.youtube.com/watch?v=w8YUWXarQOQ
+- Die Konferenz der Vögel · Q97thk3 · https://www.youtube.com/watch?v=Hue_CKecWJA
+- "White Flag" Multimedia performance by Shabnam Parvaresh at GranRex Locarno, Switzerland · Q2knvsh · https://www.youtube.com/watch?v=sE6qr9PdGGo
+- Insect, Parvaresh/Raffel · Q3jhkhj · https://www.youtube.com/watch?v=QBfZ_o5Foc4
+- ORBIT, Duo Shabnam Parvaresh-Felix Wirsing · Q996c46 · https://www.youtube.com/watch?v=G1fT4Aosh50
+- Through the Window, Duo for 2 Bass Clarinets, Shabnam Parvaresh · Qv6bdzp · https://www.youtube.com/watch?v=GHG3cAMcQpo
+- Unland - Dunkle Manie Live · Qqex8xh · https://www.youtube.com/watch?v=fOSciV_o7Fk
+- SHEEN TRIO @ JAZZEXZESS / House of Music | LIVE FROM BERLIN · Qnh3gsp · https://www.youtube.com/watch?v=FI7B6AWZhl0
+- World of Improvisation · Qdws9cw · 
+- Dept Brake · Qvewrd5 · 
+- Quite Quitting · Qejbn7q · 
+- Dance Community Of Trees · Qhbvtn8 · 
+- Psalm I · Q89tkve · 
+- Psalm II · Qg3dhs3 · 
+- Cognitive Dissonance · Qxgcvgh · 
+- Shoot Out the Light and Drink me Now · Qsaaezw · https://vonkorf.bandcamp.com/album/shoot-out-the-light-and-drink-me-now · https://open.spotify.com/album/2OI0aShVRgwJyI3elVFJD3 · https://music.apple.com/us/album/1627733185
+- Livremente · Qv29fhg · https://ikatarensemble.bandcamp.com/album/livremente
+- The Ascendent Love Of Two Birds · Qsvfwy6 · https://ikatarensemble.bandcamp.com/track/the-ascendent-love-of-two-birds
+- Bluets · Qqktayk · https://fuulab.bandcamp.com/album/bluets · https://open.spotify.com/album/4UbJLIs5ao4GRVrBEmZkqP · https://music.apple.com/us/album/1650389140
+- Jazzfest Berlin · Deutschlandfunk Kultur · Qzcb8wz · 
+- Mühsal Snippet · Q5cnd7w · https://soundcloud.com/unlandmusic/muhsal-snippet
+- Verwüstung Snippet · Qk222py · https://soundcloud.com/unlandmusic/verwustung-snippet
+- Aporie Snippet · Qzv8wda · https://soundcloud.com/unlandmusic/aporie-snippet
+- Die Ruhe Nach Dem Sturm Snippet · Q9r63fp · https://soundcloud.com/unlandmusic/die-ruhe-nach-dem-sturm-snippet
+- Scene 2 · Q37khps · 

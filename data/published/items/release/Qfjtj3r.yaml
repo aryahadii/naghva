@@ -20,6 +20,12 @@ statements:
       quote: Next Time We Meet - song and lyrics by Sina Salimi | Spotify
       accessed: '2026-11-21'
       locator: Page title
+  - value: https://soundcloud.com/sinasalimi/next-time-we-meet
+    references:
+    - source: soundcloud.com-sinasalimi-next-time-we-meet
+      quote: Stream Next Time We Meet - قرار بعدی ما by Sina  Salimi | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
   name:
   - value:
       text: Next Time We Meet

@@ -160,3 +160,11 @@ Independent review on 2026-11-21. **8.6/10** · Sources 1.9, prose 1.9, recordin
 ## Sina Salimi · Qt5sbqz
 
 Independent review on 2026-11-21. **8.7/10** · Sources 1.9, prose 1.8, recordings 2.4, images 1.0, gaps and reader experience 1.6. English and Persian hashes are 46f85c4a68bb and c4148f4b7e14. Both 83-panel pages have 163 decoded images and functional fragments. The Barzin session is credited at the level of its available personnel list. His 2020 and 2026 releases are documented in detail, including the different releases of ten remastered songs. Shahrema Archive documents a separate concert with the Saba ensemble. Two original projects, Inner Scripts with Mahnaz Rad and Reading Hafez for My Mother, are documented by Toronto’s presenters. Catalogue and article await their reconciliation.
+
+### Nina Saeidi, second independent review on 2026-11-21
+
+**9.1/10** · Sources 1.9, prose 1.9, recordings 2.5, images 1.0, gaps and reader experience 1.8. English and Persian hashes are fc101c40a6f4 and 38d787cd076a. Both pages now have twenty recording panels and 41 decoded images with working fragments. The additional studio vocal is on the proper Najang Bah Divhayeh Mazandaran recording. The Camden and Damnation stage appearances remain independently evidenced. The later Wyatt E. release is dated as announced. Article and catalogue ready.
+
+### Sina Salimi, second independent review on 2026-11-21
+
+**9.2/10** · Sources 1.9, prose 1.9, recordings 2.6, images 1.0, gaps and reader experience 1.8. English and Persian hashes are 5e743aa52f13 and a9f89b746d21. The 84-panel builds include the Shahrema Archive concert and the native SoundCloud discography. The improved article describes the making of Inner Scripts and identifies the advertised Reading Hafez for My Mother taping. Both versions decoded 167 images each and contain working fragments. Article and catalogue ready.

@@ -12,3 +12,7 @@ about:
 Public upload date, read 2026-11-21.
 
 > 2015-12-04T07:40:33-08:00
+
+Dunkle Manie documentation, read 2026-11-21.
+
+> in a live session

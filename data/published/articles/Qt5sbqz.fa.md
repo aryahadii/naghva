@@ -135,6 +135,46 @@ references:
     quote: The second verse of the song is a poem by the 13th century Persian poet, Saadi.
     accessed: '2026-11-21'
     locator: Artist interview, biography or performance credits
+  inner0:
+    source: iran.ca-events-ontario-toronto-concerts-inner-scripts-act-2-by-sina-salimi-mahnaz-rad
+    quote: creative collaboration between Sina Salimi and vocalist Mahnaz Rad
+    accessed: '2026-11-21'
+    locator: Artist interview, biography or performance credits
+  inner1:
+    source: iran.ca-events-ontario-toronto-concerts-inner-scripts-act-2-by-sina-salimi-mahnaz-rad
+    quote: shot, edited, and narrated by Sina
+    accessed: '2026-11-21'
+    locator: Artist interview, biography or performance credits
+  inner2:
+    source: iran.ca-events-ontario-toronto-concerts-inner-scripts-act-2-by-sina-salimi-mahnaz-rad
+    quote: The English translations of the Persian lyrics are incorporated into the visuals
+    accessed: '2026-11-21'
+    locator: Artist interview, biography or performance credits
+  hproj0:
+    source: iran.ca-events-ontario-toronto-concerts-reading-hafez-for-my-mother-live-recording
+    quote: ۹۳ بیت از اشعار حافظ
+    accessed: '2026-11-21'
+    locator: Artist interview, biography or performance credits
+  hproj1:
+    source: iran.ca-events-ontario-toronto-concerts-reading-hafez-for-my-mother-live-recording
+    quote: این برنامه دومین و آخرین ضبط زنده پروژه
+    accessed: '2026-11-21'
+    locator: Artist interview, biography or performance credits
+  hproj2:
+    source: iran.ca-events-ontario-toronto-concerts-reading-hafez-for-my-mother-live-recording
+    quote: ترجمه انگلیسی اشعار برای مخاطبان خوانده می‌شود
+    accessed: '2026-11-21'
+    locator: Artist interview, biography or performance credits
+  hproj3:
+    source: iran.ca-events-ontario-toronto-concerts-reading-hafez-for-my-mother-live-recording
+    quote: July 19, 2026, 8:00 pm
+    accessed: '2026-11-21'
+    locator: Artist interview, biography or performance credits
+  hproj4:
+    source: iran.ca-events-ontario-toronto-concerts-reading-hafez-for-my-mother-live-recording
+    quote: Pamenar، تورنتو
+    accessed: '2026-11-21'
+    locator: Artist interview, biography or performance credits
 ---
 
 سینا سلیمی ترانه‌سرا، خواننده و نوازندهٔ سنتور ایرانی‌کانادایی ساکن تورنتو است. وقتی در چهارده‌ونیم‌سالگی به کانادا رفت، به شعر فارسی و سنتور دل بسته بود. سه دهه بعد هم ترانه‌هایش را به فارسی می‌نوشت.[^who][^tor][^age][^love][^language]
@@ -150,3 +190,7 @@ references:
 سلیمی از سپتامبر ۲۰۲۲ تا سپتامبر ۲۰۲۳ روی مجموعهٔ «ده ترانه برای سرزمین مادری‌ام» کار کرد. مهناز راد در شش قطعهٔ آن همکاری داشت. سلیمی این مجموعه را به نیلوفر حامدی و الهه محمدی تقدیم کرد.[^tt][^six][^ded]
 
 برای آلبوم [«Travellers, Musicians and Other Stories»](#travellers-musicians-and-other-stories-vz2) که در مارس ۲۰۲۶ منتشر شد، شانزده موسیقی‌دان نوزده ساز نواختند. بیست‌ودو قطعهٔ آلبوم داستانی هفتادویک‌دقیقه‌ای بر اساس تجربه‌های زندگی سلیمی می‌سازند. کلام ترانه‌ها به دوره‌های گوناگون برمی‌گردد. در یکی از آن‌ها کلماتی از فیلم «چریکهٔ تارا» اثر بهرام بیضایی آمده، دیگری بیت‌هایی از چهار شعر حافظ را کنار هم گذاشته است و در قطعه‌ای دیگر نیز شعری از سعدی می‌آید.[^ndate][^ncount][^nlen][^tara][^hafez][^saadi]
+
+سلیمی و مهناز راد در پروژهٔ «Inner Scripts» ترانه‌هایشان را با فیلم‌های کوتاه به هم پیوند دادند. سلیمی این فیلم‌ها را گرفت، تدوین کرد و متن آن‌ها را خواند. ترجمهٔ انگلیسی ترانه‌های فارسی هم بخشی از تصاویر بود.[^inner0][^inner1][^inner2]
+
+برای برنامهٔ «Reading Hafez for My Mother»، سلیمی روی ۹۳ بیت حافظ موسیقی گذاشت. کافهٔ پامنار تورنتو برای ۱۹ ژوئیهٔ ۲۰۲۶ دومین و آخرین ضبط زندهٔ این برنامه را اعلام کرد. قرار بود میان قطعه‌ها ترجمهٔ انگلیسی شعرها را بخوانند.[^hproj0][^hproj1][^hproj2][^hproj3][^hproj4]

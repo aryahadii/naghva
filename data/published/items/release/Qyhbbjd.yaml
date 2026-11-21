@@ -57,3 +57,9 @@ statements:
       quote: The End
       locator: Track on corresponding streaming edition
       accessed: '2026-11-21'
+  - value: https://music.apple.com/us/song/the-end/1210767652
+    references:
+    - source: music.apple.com-us-album-1210767308
+      quote: The End
+      locator: Streaming track
+      accessed: '2026-11-21'

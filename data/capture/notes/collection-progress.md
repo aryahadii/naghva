@@ -49,12 +49,14 @@ The expansion started at revision fa6c29ca with 124 bilingual artist pages. The 
 | Pedram Khavarzamini | Q5rnjaz | 9.2/10 | [Pedram Khavarzamini](pedram-khavarzamini-independent-review.md) |
 | LABOUR | Qwqf8en | 9.2/10 | [LABOUR](labour-independent-review.md) |
 | Farahnaz Hatam | Qweqy4v | 9.1/10 | [Farahnaz Hatam](farahnaz-hatam-independent-review.md) |
-| Lowen | Qr7sft5 | 8.6/10 | [Lowen](lowen-review.md) |
+| Lowen | Qr7sft5 | 9.2/10 | [Lowen](lowen-review.md) |
 | Payam Yousefi | Q57cj49 | 9.1/10 | [Payam Yousefi](artist-page-scores.md) |
-| Nina Saeidi | Qnsexjj | Pending | [Catalogue](nina-saeidi.md) |
-| Sina Salimi | Qt5sbqz | Pending | [Catalogue](sina-salimi.md) |
-| Kiyarash Davoudi | Qyrsg2f | Pending | [Catalogue](kiyarash-davoudi.md) |
-| Shabnam Parvaresh | Q9aspca | Pending | Independent review in progress |
-| Sheen Trio | Qy7eg4c | Pending | Independent review in progress |
+| Nina Saeidi | Qnsexjj | 9.1/10 | [Nina Saeidi](artist-page-scores.md) |
+| Sina Salimi | Qt5sbqz | 9.2/10 | [Sina Salimi](artist-page-scores.md) |
+| Kiyarash Davoudi | Qyrsg2f | 8.2/10 | [Kiyarash Davoudi](kiyarash-davoudi-independent-review.md) |
+| Shabnam Parvaresh | Q9aspca | 8.5/10 | [Shabnam Parvaresh](shabnam-parvaresh-review.md) |
+| Sheen Trio | Qy7eg4c | 8.7/10 | [Sheen Trio](sheen-trio-review.md) |
+| Cyminology | Qsyrehn | 8.5/10 | [Cyminology](cyminology-independent-review.md) |
+| Unland | Qs2xmxr | Pending | [Catalogue](unland.md) |
 
 The [discovery list](independent-artist-discovery.md) contains candidates with release leads. Some will prove ineligible or match an existing artist by another spelling. Only new artist pages count toward the target.

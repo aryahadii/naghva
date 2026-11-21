@@ -20,6 +20,12 @@ statements:
       quote: A Good Day to Live - song and lyrics by Sina Salimi | Spotify
       accessed: '2026-11-21'
       locator: Page title
+  - value: https://soundcloud.com/sinasalimi/a-good-day-to-live
+    references:
+    - source: soundcloud.com-sinasalimi-a-good-day-to-live
+      quote: Stream A Good Day to Live by Sina  Salimi | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
   name:
   - value:
       text: A Good Day to Live

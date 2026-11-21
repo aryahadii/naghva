@@ -20,6 +20,12 @@ statements:
       quote: The Girl with Orange Hair - song and lyrics by Sina Salimi | Spotify
       accessed: '2026-11-21'
       locator: Page title
+  - value: https://soundcloud.com/sinasalimi/the-girl-with-orange-hair
+    references:
+    - source: soundcloud.com-sinasalimi-the-girl-with-orange-hair
+      quote: Stream The Girl with Orange Hair by Sina  Salimi | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
   name:
   - value:
       text: The Girl with orange Hair

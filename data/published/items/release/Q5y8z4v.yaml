@@ -57,3 +57,9 @@ statements:
       quote: Fata Morgana
       locator: Track on corresponding streaming edition
       accessed: '2026-11-21'
+  - value: https://music.apple.com/us/song/fata-morgana/1540763482
+    references:
+    - source: music.apple.com-us-album-1540763190
+      quote: Fata Morgana
+      locator: Streaming track
+      accessed: '2026-11-21'

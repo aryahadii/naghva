@@ -57,3 +57,9 @@ statements:
       quote: Just for Now
       locator: Track on corresponding streaming edition
       accessed: '2026-11-21'
+  - value: https://music.apple.com/us/song/just-for-now/1210767651
+    references:
+    - source: music.apple.com-us-album-1210767308
+      quote: Just For Now
+      locator: Streaming track
+      accessed: '2026-11-21'

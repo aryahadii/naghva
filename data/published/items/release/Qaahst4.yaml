@@ -20,6 +20,12 @@ statements:
       quote: Early Morning - song and lyrics by Sina Salimi | Spotify
       accessed: '2026-11-21'
       locator: Page title
+  - value: https://soundcloud.com/sinasalimi/early-morning
+    references:
+    - source: soundcloud.com-sinasalimi-early-morning
+      quote: Stream Early Morning by Sina  Salimi | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
   name:
   - value:
       text: Early Morning

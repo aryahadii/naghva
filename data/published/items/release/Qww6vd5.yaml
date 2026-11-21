@@ -20,6 +20,12 @@ statements:
       quote: Song of Seasons - song and lyrics by Sina Salimi | Spotify
       accessed: '2026-11-21'
       locator: Page title
+  - value: https://soundcloud.com/sinasalimi/song-of-seasons
+    references:
+    - source: soundcloud.com-sinasalimi-song-of-seasons
+      quote: Stream Song Of Seasons - ترانه‌یِ فصل‌ها by Sina  Salimi | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
   name:
   - value:
       text: Song of Seasons

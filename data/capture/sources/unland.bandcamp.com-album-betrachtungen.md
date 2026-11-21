@@ -64,3 +64,19 @@ Track 8, read 2026-11-21.
 Unland lineup, read 2026-11-21.
 
 > Jonas Meyer - Piano, Electronics Christian Grothe - Guitar, Electronics
+
+Trio personnel, read 2026-11-21.
+
+> Jonas Meyer - Piano, Electronics
+
+Trio personnel, read 2026-11-21.
+
+> Christian Grothe - Guitar, Electronics
+
+Trio personnel, read 2026-11-21.
+
+> Shabnam Parvaresh - Clarinet Jonas Meyer - Piano, Electronics Christian Grothe - Guitar, Electronics, Additional Recordings
+
+Third release, read 2026-11-21.
+
+> released November 1, 2018

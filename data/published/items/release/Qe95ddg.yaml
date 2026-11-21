@@ -20,6 +20,12 @@ statements:
       quote: Invisible Moon - song and lyrics by Sina Salimi | Spotify
       accessed: '2026-11-21'
       locator: Page title
+  - value: https://soundcloud.com/sinasalimi/the-invisible-moon
+    references:
+    - source: soundcloud.com-sinasalimi-the-invisible-moon
+      quote: Stream Invisible Moon by Sina  Salimi | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
   name:
   - value:
       text: Invisible Moon

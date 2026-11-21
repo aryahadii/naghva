@@ -20,6 +20,12 @@ statements:
       quote: Tribe Girl - song and lyrics by Sina Salimi | Spotify
       accessed: '2026-11-21'
       locator: Page title
+  - value: https://soundcloud.com/sinasalimi/tribe-girl-1
+    references:
+    - source: soundcloud.com-sinasalimi-tribe-girl-1
+      quote: Stream دختر ایل - Tribe Girl by Sina  Salimi | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
   name:
   - value:
       text: Tribe Girl

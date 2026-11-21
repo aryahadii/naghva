@@ -1,0 +1,44 @@
+id: Qsewwfq
+type: release
+statements:
+  name:
+  - value:
+      text: اجرای بهمن ماه ۹۵ در تالار رودکی
+      language: fa
+    references:
+    - source: t.me-kiyarashdavoudi-25
+      quote: بخشِ کوتاهی از اجرای بهمن ماه ۹۵ در تالار رودکی @kiyarash_davoudi
+      accessed: '2026-11-21'
+      locator: Artist caption and performance context
+  performer:
+  - value: Qyrsg2f
+    qualifiers:
+      role: santur
+    references:
+    - source: t.me-kiyarashdavoudi-25
+      quote: بخشِ کوتاهی از اجرای بهمن ماه ۹۵ در تالار رودکی @kiyarash_davoudi
+      accessed: '2026-11-21'
+      locator: Artist caption and performance context
+    - source: t.me-kiyarashdavoudi-25
+      quote: کیارش داودی | KiyarashDavoudi
+      accessed: '2026-11-21'
+      locator: Artist publishing channel
+  listen link:
+  - value: https://t.me/kiyarashdavoudi/25
+    references:
+    - source: t.me-kiyarashdavoudi-25
+      quote: بخشِ کوتاهی از اجرای بهمن ماه ۹۵ در تالار رودکی @kiyarash_davoudi
+      accessed: '2026-11-21'
+      locator: Artist caption and performance context
+    - source: t.me-kiyarashdavoudi-25
+      quote: کیارش داودی | KiyarashDavoudi
+      accessed: '2026-11-21'
+      locator: Artist publishing channel
+  release date:
+  - value:
+      date: '2017-09-02'
+    references:
+    - source: t.me-kiyarashdavoudi-25
+      quote: '2017-09-02'
+      accessed: '2026-11-21'
+      locator: Artist channel publication date

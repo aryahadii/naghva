@@ -57,6 +57,12 @@ statements:
       quote: Two Cherry Trees
       locator: Track on corresponding streaming edition
       accessed: '2026-11-21'
+  - value: https://music.apple.com/us/song/two-cherry-trees/1540763486
+    references:
+    - source: music.apple.com-us-album-1540763190
+      quote: Two Cherry Trees
+      locator: Streaming track
+      accessed: '2026-11-21'
   contributor:
   - value: Q9aspca
     references:

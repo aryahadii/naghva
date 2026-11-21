@@ -1,0 +1,44 @@
+id: Qhy8xs8
+type: release
+statements:
+  name:
+  - value:
+      text: شاه ختایی
+      language: fa
+    references:
+    - source: t.me-kiyarashdavoudi-59
+      quote: گوشه «شاه ختایی»یا «هُدی(حُدی)»  در دستگاه سه گاه با برداشتی از روایت استاد صبا @kiyarash_davoudi
+      accessed: '2026-11-21'
+      locator: Artist caption and performance context
+  performer:
+  - value: Qyrsg2f
+    qualifiers:
+      role: santur
+    references:
+    - source: t.me-kiyarashdavoudi-59
+      quote: گوشه «شاه ختایی»یا «هُدی(حُدی)»  در دستگاه سه گاه با برداشتی از روایت استاد صبا @kiyarash_davoudi
+      accessed: '2026-11-21'
+      locator: Artist caption and performance context
+    - source: t.me-kiyarashdavoudi-59
+      quote: کیارش داودی | KiyarashDavoudi
+      accessed: '2026-11-21'
+      locator: Artist publishing channel
+  listen link:
+  - value: https://t.me/kiyarashdavoudi/59
+    references:
+    - source: t.me-kiyarashdavoudi-59
+      quote: گوشه «شاه ختایی»یا «هُدی(حُدی)»  در دستگاه سه گاه با برداشتی از روایت استاد صبا @kiyarash_davoudi
+      accessed: '2026-11-21'
+      locator: Artist caption and performance context
+    - source: t.me-kiyarashdavoudi-59
+      quote: کیارش داودی | KiyarashDavoudi
+      accessed: '2026-11-21'
+      locator: Artist publishing channel
+  release date:
+  - value:
+      date: '2017-09-17'
+    references:
+    - source: t.me-kiyarashdavoudi-59
+      quote: '2017-09-17'
+      accessed: '2026-11-21'
+      locator: Artist channel publication date

@@ -1,0 +1,44 @@
+id: Qcrfpdv
+type: release
+statements:
+  name:
+  - value:
+      text: چهارمضراب ابوعطا
+      language: fa
+    references:
+    - source: t.me-kiyarashdavoudi-56
+      quote: بخشی از چهارمضراب ابوعطا اثر استاد علیزاده که در آلبوم راز نو با ساز تنبور اجرا شده... تنظیم برای سنتور از بند
+      accessed: '2026-11-21'
+      locator: Artist caption and performance context
+  performer:
+  - value: Qyrsg2f
+    qualifiers:
+      role: santur
+    references:
+    - source: t.me-kiyarashdavoudi-56
+      quote: بخشی از چهارمضراب ابوعطا اثر استاد علیزاده که در آلبوم راز نو با ساز تنبور اجرا شده... تنظیم برای سنتور از بند
+      accessed: '2026-11-21'
+      locator: Artist caption and performance context
+    - source: t.me-kiyarashdavoudi-56
+      quote: کیارش داودی | KiyarashDavoudi
+      accessed: '2026-11-21'
+      locator: Artist publishing channel
+  listen link:
+  - value: https://t.me/kiyarashdavoudi/56
+    references:
+    - source: t.me-kiyarashdavoudi-56
+      quote: بخشی از چهارمضراب ابوعطا اثر استاد علیزاده که در آلبوم راز نو با ساز تنبور اجرا شده... تنظیم برای سنتور از بند
+      accessed: '2026-11-21'
+      locator: Artist caption and performance context
+    - source: t.me-kiyarashdavoudi-56
+      quote: کیارش داودی | KiyarashDavoudi
+      accessed: '2026-11-21'
+      locator: Artist publishing channel
+  release date:
+  - value:
+      date: '2017-09-12'
+    references:
+    - source: t.me-kiyarashdavoudi-56
+      quote: '2017-09-12'
+      accessed: '2026-11-21'
+      locator: Artist channel publication date

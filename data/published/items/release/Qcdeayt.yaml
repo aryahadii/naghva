@@ -20,6 +20,12 @@ statements:
       quote: Legends of Loneliness - song and lyrics by Sina Salimi | Spotify
       accessed: '2026-11-21'
       locator: Page title
+  - value: https://soundcloud.com/sinasalimi/legends-of-loneliness
+    references:
+    - source: soundcloud.com-sinasalimi-legends-of-loneliness
+      quote: Stream Legends of Loneliness by Sina  Salimi | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
   name:
   - value:
       text: Legends of Loneliness

@@ -38,6 +38,12 @@ statements:
       quote: Flight of a Bird (ft. Mahnaz Rad)   ----  پرواز پرنده
       accessed: '2026-11-21'
       locator: Page title
+  - value: https://soundcloud.com/sinasalimi/flight-of-a-bird
+    references:
+    - source: soundcloud.com-sinasalimi-flight-of-a-bird
+      quote: Stream Flight of a Bird - پروازِ پرنده by Sina  Salimi | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
   name:
   - value:
       text: Flight of a Bird

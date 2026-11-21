@@ -20,6 +20,12 @@ statements:
       quote: Flight of a Bird - song and lyrics by Sina Salimi | Spotify
       accessed: '2026-11-21'
       locator: Page title
+  - value: https://soundcloud.com/sinasalimi/flight-of-a-bird-feat-mahnaz
+    references:
+    - source: soundcloud.com-sinasalimi-flight-of-a-bird-feat-mahnaz
+      quote: Stream Flight of a Bird (feat. Mahnaz Rad) - Remastered by Sina  Salimi | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
   name:
   - value:
       text: Flight of a Bird (feat. Mahnaz Rad) - Remastered

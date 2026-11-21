@@ -57,6 +57,12 @@ statements:
       quote: Flicker
       locator: Streaming album
       accessed: '2026-11-21'
+  - value: https://music.apple.com/us/album/1540763190
+    references:
+    - source: music.apple.com-us-album-1540763190
+      quote: Flicker
+      locator: Album title
+      accessed: '2026-11-21'
   release type:
   - value: album
     references:

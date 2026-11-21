@@ -20,6 +20,12 @@ statements:
       quote: Around Sunsets - song and lyrics by Sina Salimi | Spotify
       accessed: '2026-11-21'
       locator: Page title
+  - value: https://soundcloud.com/sinasalimi/around-sunset-1
+    references:
+    - source: soundcloud.com-sinasalimi-around-sunset-1
+      quote: Stream دم غروب ها - Around Sunset by Sina  Salimi | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
   name:
   - value:
       text: Around Sunsets

@@ -12,3 +12,7 @@ Build 62, 21 November 2026, independent catalogue and bilingual editorial review
 | Total | 8.6/10 | Catalogue and article need repair and rendered reassessment. |
 
 [Bloodstock's 2025 concert](https://www.youtube.com/watch?v=Ll0ytpVcIio) · [Zero Tolerance covermount](https://www.ztmag.com/news/listen-to-the-whole-of-issue-085s-covermount-cd-online/) · [Loneravn Records compilation](https://loneravnrecords.bandcamp.com/album/stop-war-in-ukraine-open-charity-compilation-by-path-of-doom-radio) · [Desertfest's performer biography](https://www.desertfest.co.uk/band/lowen-2/)
+
+## Build 66 reassessment
+
+Both pages passed after repair. English digest 33b3c1eeb2341e, Persian 813e9ec5bcb5c9. Thirty panels and all 65 images decoded in each locale. The Bloodstock recording, both physical compilations, the charity edition’s original Bandcamp track and the contemporary Download performance now appear. Exact chapter and track links work. The original publisher’s covermount audio player is cited. No official standalone upload was established for its compilation take. Sources 1.9/2, prose 1.9/2, recordings 2.6/3, images 1/1, gaps 1.8/2. **9.2/10. Catalogue and articles ready.**

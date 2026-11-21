@@ -10,3 +10,33 @@ statements:
       quote: Unland
       locator: Billed musician or ensemble
       accessed: '2026-11-21'
+  image:
+  - value: https://f4.bcbits.com/img/0012488859_21.jpg
+    references:
+    - source: unland.bandcamp.com-music
+      quote: https://f4.bcbits.com/img/0012488859_21.jpg
+      locator: Edition artwork
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Unland · artist portrait
+        language: en
+  profile link:
+  - value: https://unland.bandcamp.com/music
+    references:
+    - source: unland.bandcamp.com-music
+      quote: Unland
+      locator: Artist profile
+      accessed: '2026-11-21'
+  - value: https://soundcloud.com/unlandmusic
+    references:
+    - source: soundcloud.com-unlandmusic
+      quote: Unland
+      locator: Artist profile
+      accessed: '2026-11-21'
+  - value: https://www.youtube.com/channel/UC4RR_bX-4xPh1-6bOeMCrmA/videos
+    references:
+    - source: www.youtube.com-channel-uc4rr_bx-4xph1-6boemcrma-videos
+      quote: Unland
+      locator: Artist profile
+      accessed: '2026-11-21'

@@ -20,6 +20,12 @@ statements:
       quote: From Here to Your Arms - song and lyrics by Sina Salimi | Spotify
       accessed: '2026-11-21'
       locator: Page title
+  - value: https://soundcloud.com/sinasalimi/from-here-to-your-arms
+    references:
+    - source: soundcloud.com-sinasalimi-from-here-to-your-arms
+      quote: Stream From Here to Your Arms by Sina  Salimi | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
   name:
   - value:
       text: From Here to Your Arms

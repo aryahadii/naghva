@@ -20,6 +20,12 @@ statements:
       quote: My Way - Part I - song and lyrics by Sina Salimi | Spotify
       accessed: '2026-11-21'
       locator: Page title
+  - value: https://soundcloud.com/sinasalimi/my-way-part-i
+    references:
+    - source: soundcloud.com-sinasalimi-my-way-part-i
+      quote: Stream My Way - Part I - راه من -قسمت اول by Sina  Salimi | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
   name:
   - value:
       text: My Way - Part I

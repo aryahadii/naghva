@@ -20,6 +20,12 @@ statements:
       quote: Saadi at Five in the Morning - song and lyrics by Sina Salimi | Spotify
       accessed: '2026-11-21'
       locator: Page title
+  - value: https://soundcloud.com/sinasalimi/saadi-at-five-in-the-morning
+    references:
+    - source: soundcloud.com-sinasalimi-saadi-at-five-in-the-morning
+      quote: Stream Saadi at Five in the Morning by Sina  Salimi | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
   name:
   - value:
       text: Saadi at Five in the Morning
