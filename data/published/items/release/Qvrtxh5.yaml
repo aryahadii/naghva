@@ -1,0 +1,87 @@
+id: Qvrtxh5
+type: release
+statements:
+  name:
+  - value:
+      text: Coldstream
+      language: en
+    references:
+    - source: n5md.bandcamp.com-track-coldstream
+      quote: Coldstream | Idlefon | n5MD
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qjjdrek
+    references:
+    - source: n5md.bandcamp.com-track-coldstream
+      quote: Coldstream | Idlefon | n5MD
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://n5md.bandcamp.com/track/coldstream
+    references:
+    - source: n5md.bandcamp.com-track-coldstream
+      quote: Coldstream | Idlefon | n5MD
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/coldstream-single/1580787778
+    references:
+    - source: music.apple.com-us-album-coldstream-single-1580787778
+      quote: ‎Coldstream - Single - Album by Idlefon - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1583929060
+    references:
+    - source: music.apple.com-us-song-1583929060
+      quote: ‎Coldstream - Song with Lyrics by Idlefon - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/album/6dVe3cIcs9zK7XJlg2y1EI
+    references:
+    - source: open.spotify.com-album-6dve3cics9zk7xjlg2y1ei
+      quote: Listen to Coldstream - Single by Idlefon | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/45HANl2XbkaeO9LnwJBNv8
+    references:
+    - source: open.spotify.com-track-45hanl2xbkaeo9lnwjbnv8
+      quote: Coldstream - song and lyrics by Idlefon | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/3Odj2lwjGyTFPEmSbuKKAz
+    references:
+    - source: open.spotify.com-track-3odj2lwjgytfpemsbukkaz
+      quote: Coldstream - song and lyrics by Idlefon | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://www.youtube.com/watch?v=aVzau38p800
+    references:
+    - source: www.youtube.com-watch-v-avzau38p800
+      quote: Coldstream
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://www.youtube.com/watch?v=9dv0WBVxw2Y
+    references:
+    - source: www.youtube.com-watch-v-9dv0wbvxw2y
+      quote: Coldstream
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a0503333306_10.jpg
+    references:
+    - source: n5md.bandcamp.com-track-coldstream
+      quote: https://f4.bcbits.com/img/a0503333306_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Amir B Ash
+        language: en
+  release date:
+  - value:
+      date: '2021-11-12'
+    references:
+    - source: n5md.bandcamp.com-album-coldstream
+      quote: released November 12, 2021
+      accessed: '2026-11-21'
+      locator: Published date

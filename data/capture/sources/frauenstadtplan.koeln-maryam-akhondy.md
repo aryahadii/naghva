@@ -53,3 +53,15 @@ brass, read 2026-11-21.
 > M.A. mit Rahmentrommel 2008, © Bernd G. Schmitz
 
 Photographer and date on the Cologne women’s history project, read 2026-11-21.
+
+> „Unwaghta (Damals)“
+
+Original album title, read 2026-11-21.
+
+> 2021 veröffentlichte Maryam Akhondy die
+
+Publication year, read 2026-11-21.
+
+> mit alten iranischen Küchenliedern und Gassenhauern
+
+Songs on the 2021 album, read 2026-11-21.

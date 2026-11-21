@@ -105,9 +105,14 @@ references:
     quote: '2012 – 2013: Radio France, Cultural Branch'
     accessed: '2026-11-21'
     locator: Artist CV
+  roles:
+    source: www.nawabniaz.com-biographie
+    quote: multi-instrumental musician, singer, songwriter, composer, and music teacher
+    accessed: '2026-11-21'
+    locator: Professional roles
 ---
 
-Niaz Nawab’s mother, Shirin Yahaghi, started her on the piano. At ten she was studying classical violin at the Tehran Conservatory. After high school she moved to France to study piano at the École Normale de Musique de Paris and continued with Jacqueline Bourgès-Maunoury at the Créteil Conservatory. She settled in Paris.[^en-mother][^en-shirin][^bio-violin][^bio-paris][^bio-teacher][^bio-creteil][^bio-home]
+Niaz Nawab is a Tehran-born singer, songwriter and pianist based in Paris. Her mother, Shirin Yahaghi, gave her her first piano lessons.[^roles][^bio-home] At ten she was studying classical violin at the Tehran Conservatory. After high school she moved to France to study piano at the École Normale de Musique de Paris and continued with Jacqueline Bourgès-Maunoury at the Créteil Conservatory.[^en-mother][^en-shirin][^bio-violin][^bio-paris][^bio-teacher][^bio-creteil][^bio-home]
 
 In 2012 and 2013 she composed for Radio France’s cultural programmes.[^radio][^radio-years] She produced her 2012 song “Rafto Gozasht” herself. For her first album, *Hafez*, she set the poet’s words to music across nine tracks. She performed “Hekayat” at Tehran’s Arghanoon Theatre with Hajir Farahmand. For the 2017 concerts in Paris and London she sang the whole album with the Orchestre Philharmonique de Paris-Est and the Bahar Choir. The filmed performances later aired on television.[^farhang-raft][^bio-hafez][^tehran][^en-stage][^en-cities][^philh][^en-tv]
 

@@ -1,0 +1,63 @@
+id: Q4pfy79
+type: release
+statements:
+  name:
+  - value:
+      text: Wreck
+      language: en
+    references:
+    - source: n5md.bandcamp.com-track-wreck
+      quote: Wreck | Idlefon | n5MD
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qjjdrek
+    references:
+    - source: n5md.bandcamp.com-track-wreck
+      quote: Wreck | Idlefon | n5MD
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://n5md.bandcamp.com/track/wreck
+    references:
+    - source: n5md.bandcamp.com-track-wreck
+      quote: Wreck | Idlefon | n5MD
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1583929068
+    references:
+    - source: music.apple.com-us-song-1583929068
+      quote: ‎Wreck - Song with Lyrics by Idlefon - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/4eAzfAH7dFsAX7arhfIstT
+    references:
+    - source: open.spotify.com-track-4eazfah7dfsax7arhfistt
+      quote: Wreck - song and lyrics by Idlefon | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://www.youtube.com/watch?v=nc1ZODh_ZZs
+    references:
+    - source: www.youtube.com-watch-v-nc1zodh_zzs
+      quote: Wreck
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a0503333306_10.jpg
+    references:
+    - source: n5md.bandcamp.com-track-wreck
+      quote: https://f4.bcbits.com/img/a0503333306_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Amir B Ash
+        language: en
+  release date:
+  - value:
+      date: '2021-11-12'
+    references:
+    - source: n5md.bandcamp.com-album-coldstream
+      quote: released November 12, 2021
+      accessed: '2026-11-21'
+      locator: Published date

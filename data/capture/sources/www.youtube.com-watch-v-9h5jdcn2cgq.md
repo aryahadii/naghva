@@ -1,16 +1,17 @@
 ---
 url: https://www.youtube.com/watch?v=9H5jDcN2cGQ
-archive: "https://web.archive.org/web/20260211103426/https://www.youtube.com/watch?si=pZhmDLwIAkcL-qSU%0A&v=9H5jDcN2cGQ"
-title: "9. Âshéghânéhâ -  عاشقانه‌ها (Arash Fouladvand feat Nigina Amonqulova, Sara Naeini and Vahid Taj)"
+archive: https://web.archive.org/web/20260211103426/https://www.youtube.com/watch?si=pZhmDLwIAkcL-qSU%0A&v=9H5jDcN2cGQ
+title: 9. Âshéghânéhâ -  عاشقانه‌ها (Arash Fouladvand feat Nigina Amonqulova, Sara Naeini and Vahid Taj)
 status: processed
 kind: youtube video
 language: mul
 tier: discography
-publisher: "Arash Fouladvand"
+publisher: Arash Fouladvand
 issued:
   date: '2024-12-20'
 about:
 - Qb23qew
+- Bahar Choir
 ---
 
 > 9. Âshéghânéhâ -  عاشقانه‌ها (Arash Fouladvand feat Nigina Amonqulova, Sara Naeini and Vahid Taj)
@@ -70,3 +71,7 @@ about:
 > از قد و بالای اوست عشق که بالا گرفت
 
 Video title, upload date from the watch page metadata, channel name (channel UCKDyuA_yZPcoj7ewohEyN9g) and description lines, read 2026-11-08.
+
+> https://i.ytimg.com/vi/9H5jDcN2cGQ/hqdefault.jpg
+
+Original publisher thumbnail, read 2026-11-21.

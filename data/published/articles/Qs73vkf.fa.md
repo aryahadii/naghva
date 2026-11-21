@@ -100,6 +100,41 @@ references:
     quote: stellvertretend für alle Frauen im Iran
     accessed: 2026-11-21
     locator: dedicate
+  andaruni:
+    source: www.albakultur.de-download-alba-aof_programmheft_exil_20.02.2017.pdf
+    quote: 1997 die Gründung des persischen Musiktheater-Ensembles
+    accessed: 2026-11-21
+    locator: Ensemble formation, artist biography
+  festival:
+    source: www.albakultur.de-download-alba-aof_programmheft_exil_20.02.2017.pdf
+    quote: Andaruni zum 4. Iranischen Theaterfestival in Köln
+    accessed: 2026-11-21
+    locator: Ensemble continuation
+  unwaghta:
+    source: frauenstadtplan.koeln-maryam-akhondy
+    quote: 2021 veröffentlichte Maryam Akhondy die
+    accessed: 2026-11-21
+    locator: Publication year
+  kitchen:
+    source: frauenstadtplan.koeln-maryam-akhondy
+    quote: mit alten iranischen Küchenliedern und Gassenhauern
+    accessed: 2026-11-21
+    locator: Songs on the 2021 album
+  albumtitle:
+    source: frauenstadtplan.koeln-maryam-akhondy
+    quote: „Unwaghta (Damals)“
+    accessed: 2026-11-21
+    locator: Album title
+  choiryear:
+    source: www.albakultur.de-download-alba-aof_programmheft_exil_20.02.2017.pdf
+    quote: 2001 gründete die
+    accessed: 2026-11-21
+    locator: Foundation year in concert programme
+  choirname:
+    source: www.albakultur.de-download-alba-aof_programmheft_exil_20.02.2017.pdf
+    quote: Sängerin das persische Frauen-Vokalensemble Banu
+    accessed: 2026-11-21
+    locator: Ensemble named on following line
 ---
 
 مریم آخوندی، خواننده و سرپرست گروه موسیقی، در تهران بزرگ شد و در کلن زندگی می‌کند. هجده‌ساله بود که آموزش موسیقی را نزد اسماعیل مهرتاش، کارگردان تئاتر و معلم موسیقی، پی گرفت. بعدها هم‌زمان با تحصیل در رشتهٔ تئاتر، در مرکز چاووش نزد نصرالله ناصح‌پور آواز ایرانی آموخت. سال ۱۹۸۶ از ایران رفت.[^teh][^koln][^age][^lessons][^theatre][^chavosh][^naseh][^move]
@@ -108,7 +143,9 @@ references:
 
 آخوندی در سال ۱۹۸۹ گروه باربد را تشکیل داد. برای آلبوم «سرمست» سراغ شعرهایی از خیام و حافظ رفت که موضوعشان شراب بود. در گفت‌وگو با رادیو فردا گفته است که آهنگسازی این قطعه‌ها را همراه مسیح مدنی و نریمان حجتی انجام داد.[^barbad][^barbadname][^themes][^compose]
 
-گروه کر زنان «بانو» در سال ۲۰۰۰ با مجموعهٔ دیگری از ترانه‌ها شکل گرفت. آخوندی سال‌ها لالایی‌ها و ترانه‌هایی را گرد آورده بود که زنان هنگام کار، در عروسی یا در سوگ می‌خواندند. این ترانه‌ها را برای هم‌خوانی تنظیم کرد تا آوازهایی که اغلب در خانه خوانده می‌شدند با صدای جمع به صحنه بیایند.[^banu][^gather][^weddings]
+آرشیو تاریخ زنان کلن سال شکل‌گیری گروه کر زنان «بانو» را ۲۰۰۰ می‌داند. در دفترچهٔ یکی از کنسرت‌های آخوندی، سال ۲۰۰۱ آمده است.[^banu][^choiryear][^choirname] آخوندی سال‌ها لالایی‌ها و ترانه‌هایی را گرد آورده بود که زنان هنگام کار، در عروسی یا در سوگ می‌خواندند. این ترانه‌ها را برای هم‌خوانی تنظیم کرد تا آوازهایی که اغلب در خانه خوانده می‌شدند با صدای جمع به صحنه بیایند.[^banu][^gather][^weddings]
+
+آخوندی پیش از تشکیل «بانو»، در سال ۱۹۹۷ گروه تئاتر موسیقایی «اندرونی» را برای جشنوارهٔ تئاتر ایرانی کلن راه انداخت. ترانه‌هایی که بیرون از سالن کنسرت شنیده بود همچنان در کارش ماندند. در سال ۲۰۲۱ آلبوم «اون‌وقتا» را منتشر کرد و برای آن سراغ آوازهایی رفت که از جوانی به یاد داشت، از ترانه‌های آشپزخانه گرفته تا آوازهای کوچه و بازار.[^andaruni][^festival][^unwaghta][^albumtitle][^kitchen]
 
 ## هم‌خوانی با نوازندگان کلن
 

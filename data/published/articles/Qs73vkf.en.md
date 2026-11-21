@@ -100,6 +100,41 @@ references:
     quote: stellvertretend für alle Frauen im Iran
     accessed: 2026-11-21
     locator: dedicate
+  andaruni:
+    source: www.albakultur.de-download-alba-aof_programmheft_exil_20.02.2017.pdf
+    quote: 1997 die Gründung des persischen Musiktheater-Ensembles
+    accessed: 2026-11-21
+    locator: Ensemble formation, artist biography
+  festival:
+    source: www.albakultur.de-download-alba-aof_programmheft_exil_20.02.2017.pdf
+    quote: Andaruni zum 4. Iranischen Theaterfestival in Köln
+    accessed: 2026-11-21
+    locator: Ensemble continuation
+  unwaghta:
+    source: frauenstadtplan.koeln-maryam-akhondy
+    quote: 2021 veröffentlichte Maryam Akhondy die
+    accessed: 2026-11-21
+    locator: Publication year
+  kitchen:
+    source: frauenstadtplan.koeln-maryam-akhondy
+    quote: mit alten iranischen Küchenliedern und Gassenhauern
+    accessed: 2026-11-21
+    locator: Songs on the 2021 album
+  albumtitle:
+    source: frauenstadtplan.koeln-maryam-akhondy
+    quote: „Unwaghta (Damals)“
+    accessed: 2026-11-21
+    locator: Album title
+  choiryear:
+    source: www.albakultur.de-download-alba-aof_programmheft_exil_20.02.2017.pdf
+    quote: 2001 gründete die
+    accessed: 2026-11-21
+    locator: Foundation year in concert programme
+  choirname:
+    source: www.albakultur.de-download-alba-aof_programmheft_exil_20.02.2017.pdf
+    quote: Sängerin das persische Frauen-Vokalensemble Banu
+    accessed: 2026-11-21
+    locator: Ensemble named on following line
 ---
 
 Maryam Akhondy is a singer and ensemble leader who grew up in Tehran and lives in Cologne. At eighteen she began working with Esmail Mehrtash, a theatre director and music teacher. Later, while studying theatre, she also went to Tehran’s Chavosh music centre for lessons in classical Persian singing with Nasrollah Nasehpour. She left Iran in 1986.[^teh][^koln][^age][^lessons][^theatre][^chavosh][^naseh][^move]
@@ -108,7 +143,9 @@ Maryam Akhondy is a singer and ensemble leader who grew up in Tehran and lives i
 
 Akhondy founded the Barbad ensemble in 1989. For its album *Sarmast*, she chose poems about wine by Khayyam and Hafez. As she told Radio Farda, she composed the settings with Masih Madani and Nariman Hojati.[^barbad][^barbadname][^themes][^compose]
 
-The women’s choir Banu began in 2000 with a different repertoire. Akhondy spent years gathering songs sung at work, at weddings, to soothe children or to mourn. She then arranged them for a choir, allowing a group of voices to carry songs often sung at home.[^banu][^gather][^weddings]
+Cologne’s women’s history archive dates the founding of Banu, Akhondy’s women’s choir, to 2000. A later concert programme gives 2001.[^banu][^choiryear][^choirname] Akhondy spent years gathering songs sung at work, at weddings, to soothe children or to mourn. She then arranged them for a choir, allowing a group of voices to carry songs often sung at home.[^banu][^gather][^weddings]
+
+Before Banu, Akhondy founded Andaruni, a Persian music-theatre ensemble, for Cologne’s Iranian theatre festival in 1997. Songs heard outside the concert hall stayed in her repertoire. In 2021 she released *Unwaghta (Damals)*, returning to Iranian kitchen songs and street tunes she had known in her youth.[^andaruni][^festival][^unwaghta][^albumtitle][^kitchen]
 
 ## Playing with Cologne musicians
 

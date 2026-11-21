@@ -1,0 +1,55 @@
+id: Qa92ey9
+type: release
+statements:
+  name:
+  - value:
+      text: To Tomorrow
+      language: en
+    references:
+    - source: music.apple.com-us-album-to-tomorrow-single-1839799271
+      quote: To Tomorrow
+      locator: Original release, programme or musician credits
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2025-09-14'
+    references:
+    - source: music.apple.com-us-album-to-tomorrow-single-1839799271
+      quote: '2025-09-14'
+      locator: Original release, programme or musician credits
+      accessed: '2026-11-21'
+  performer:
+  - value: Qs5p4nt
+    references:
+    - source: music.apple.com-us-album-to-tomorrow-single-1839799271
+      quote: Roham Sobhani
+      locator: Original release, programme or musician credits
+      accessed: '2026-11-21'
+  - value: Qpzdh9v
+    references:
+    - source: music.apple.com-us-album-to-tomorrow-single-1839799271
+      quote: Arezoo Banipour
+      locator: Original release, programme or musician credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: vocals
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e1/5a/b8/e15ab898-719e-ee8c-3b3d-589c083e81b8/199348856117_cover.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-to-tomorrow-single-1839799271
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e1/5a/b8/e15ab898-719e-ee8c-3b3d-589c083e81b8/199348856117_cover.jpg/1200x630bb.jpg
+      locator: Original release, programme or musician credits
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://music.apple.com/us/song/to-tomorrow/1839799272
+    references:
+    - source: music.apple.com-us-album-to-tomorrow-single-1839799271
+      quote: To Tomorrow
+      locator: Original release, programme or musician credits
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/6u8qfIdwrqmGVVLVxTLzl0
+    references:
+    - source: open.spotify.com-embed-album-2l6x6bxuarbecvaz5ldf27
+      quote: spotify:track:6u8qfIdwrqmGVVLVxTLzl0
+      locator: Original release, programme or musician credits
+      accessed: '2026-11-21'

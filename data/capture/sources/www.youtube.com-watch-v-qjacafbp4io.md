@@ -1,16 +1,17 @@
 ---
 url: https://www.youtube.com/watch?v=QJACAfbp4io
-archive: "https://web.archive.org/web/20251009235721/https://www.youtube.com/watch?v=QJACAfbp4io"
-title: "7. Shâdi -  شادی (Arash Fouladvand feat Sara Naeini) at UNESCO"
+archive: https://web.archive.org/web/20251009235721/https://www.youtube.com/watch?v=QJACAfbp4io
+title: 7. Shâdi -  شادی (Arash Fouladvand feat Sara Naeini) at UNESCO
 status: processed
 kind: youtube video
 language: mul
 tier: discography
-publisher: "Arash Fouladvand"
+publisher: Arash Fouladvand
 issued:
   date: '2024-12-20'
 about:
 - Qb23qew
+- Bahar Choir
 ---
 
 > 7. Shâdi -  شادی (Arash Fouladvand feat Sara Naeini) at UNESCO
@@ -70,3 +71,7 @@ about:
 > امیر گوی و چوگانم چو دل میدان من باشد(*
 
 Video title, upload date from the watch page metadata, channel name (channel UCKDyuA_yZPcoj7ewohEyN9g) and description lines, read 2026-11-08.
+
+> https://i.ytimg.com/vi/QJACAfbp4io/hqdefault.jpg
+
+Original publisher thumbnail, read 2026-11-21.

@@ -1,0 +1,64 @@
+id: Qakf9wg
+type: release
+statements:
+  name:
+  - value:
+      text: Sing Me a Song
+      language: en
+    references:
+    - source: aazarine.bandcamp.com-album-sing-me-a-song
+      quote: Sing Me a Song | Arshid Azarine
+      accessed: '2026-11-21'
+      locator: Album title
+  release type:
+  - value: album
+    references:
+    - source: aazarine.bandcamp.com-album-sing-me-a-song
+      quote: Sing Me a Song | Arshid Azarine
+      accessed: '2026-11-21'
+      locator: Album title
+  listen link:
+  - value: https://aazarine.bandcamp.com/album/sing-me-a-song
+    references:
+    - source: aazarine.bandcamp.com-album-sing-me-a-song
+      quote: Sing Me a Song | Arshid Azarine
+      accessed: '2026-11-21'
+      locator: Album title
+  - value: https://open.spotify.com/album/65lTsJLA6erSViTILr9bi1
+    references:
+    - source: aazarine.bandcamp.com-album-sing-me-a-song
+      quote: Sing Me a Song | Arshid Azarine
+      accessed: '2026-11-21'
+      locator: Album title
+  performer:
+  - value: Qb269ps
+    references:
+    - source: aazarine.bandcamp.com-track-the-valley-of-love
+      quote: Featuring Niaz Nawab
+      accessed: '2026-11-21'
+      locator: Bandcamp guest
+  - value: Q3wqbqc
+    references:
+    - source: aazarine.bandcamp.com-album-sing-me-a-song
+      quote: Sing Me a Song | Arshid Azarine
+      accessed: '2026-11-21'
+      locator: Album title
+  cover art:
+  - value: https://f4.bcbits.com/img/a3087239833_10.jpg
+    qualifiers:
+      credit:
+        text: Arshid Azarine on Bandcamp
+        language: en
+    references:
+    - source: aazarine.bandcamp.com-album-sing-me-a-song
+      quote: https://f4.bcbits.com/img/a3087239833_10.jpg
+      accessed: '2026-11-21'
+      locator: Original artwork
+  release date:
+  - value:
+      date: '2019-06-28'
+    references:
+    - source: aazarine.bandcamp.com-album-sing-me-a-song
+      quote: released June 28, 2019
+      accessed: '2026-11-21'
+      locator: Bandcamp release

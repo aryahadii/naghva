@@ -34,3 +34,20 @@ statements:
       quote: تکـ‌نوازی سنتــور در شـب های موسـیقی فـرشته
       locator: Artist channel, original post 686
       accessed: '2026-11-21'
+  - value: https://www.youtube.com/watch?v=HJiuLYvVv2E
+    references:
+    - source: www.youtube.com-oembed-hjiulyvvv2e
+      quote: اجرای سهیل حسنوی در شب های موسیقی فرشته | sohil hosnavi performance
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://i.ytimg.com/vi/HJiuLYvVv2E/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-hjiulyvvv2e
+      quote: https://i.ytimg.com/vi/HJiuLYvVv2E/hqdefault.jpg
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Cadence Music Magazine
+        language: en

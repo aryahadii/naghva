@@ -1,0 +1,57 @@
+id: Q5wj9vf
+type: release
+statements:
+  name:
+  - value:
+      text: Nights
+      language: en
+    references:
+    - source: music.apple.com-us-song-1804725119
+      quote: ‎Nights - Song with Lyrics by Siavash Amini, Hessam Ohadi & Nima Pourkarimi - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qjjdrek
+    references:
+    - source: music.apple.com-us-song-1804725119
+      quote: ‎Nights - Song with Lyrics by Siavash Amini, Hessam Ohadi & Nima Pourkarimi - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Q97bqaq
+    references:
+    - source: music.apple.com-us-song-1804725119
+      quote: Siavash Amini
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Q9rnctv
+    references:
+    - source: music.apple.com-us-song-1804725119
+      quote: Nima Pourkarimi
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://music.apple.com/us/song/1804725119
+    references:
+    - source: music.apple.com-us-song-1804725119
+      quote: ‎Nights - Song with Lyrics by Siavash Amini, Hessam Ohadi & Nima Pourkarimi - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/37/00/f4/3700f48e-96ff-598e-d8db-d38d2029b460/199066179871.jpg/600x600bb.webp
+    references:
+    - source: music.apple.com-us-song-1804725119
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/37/00/f4/3700f48e-96ff-598e-d8db-d38d2029b460/199066179871.jpg/600x600bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original publisher artwork
+        language: en
+  release date:
+  - value:
+      date: '2012-10-03'
+    references:
+    - source: music.apple.com-us-song-1804725119
+      quote: October 3, 2012
+      accessed: '2026-11-21'
+      locator: Published date

@@ -6,6 +6,7 @@ tier: discography
 language: en
 about:
 - Niaz Nawab
+- Bahar Choir
 status: processed
 ---
 
@@ -32,3 +33,11 @@ Release track 1, read 2026-11-21.
 > https://music.apple.com/us/song/faryade-javdan-live-feat-niaz-nawab-bahar-choir/1878815102
 
 Exact Apple track, read 2026-11-21.
+
+> Bahar Choir
+
+Group history, interview or original programme, read 2026-11-21.
+
+> Arash Fouladvand
+
+Group history, interview or original programme, read 2026-11-21.

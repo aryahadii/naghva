@@ -6,6 +6,7 @@ tier: discography
 language: en
 about:
 - Niaz Nawab
+- Bahar Choir
 status: processed
 ---
 
@@ -100,3 +101,7 @@ Exact Apple track, read 2026-11-21.
 > Bahar Choir
 
 Album billing, read 2026-11-21.
+
+> Arash Fouladvand
+
+Group history, interview or original programme, read 2026-11-21.

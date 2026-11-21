@@ -6,6 +6,7 @@ language: en
 tier: own
 about:
 - Zanyar Hesami
+- Soheil Hosnavi
 ---
 
 Original recording, artist credit or presenter programme, read 2026-11-21.

@@ -6,6 +6,7 @@ tier: discography
 language: en
 about:
 - Niaz Nawab
+- Bahar Choir
 status: processed
 ---
 

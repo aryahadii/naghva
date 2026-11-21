@@ -1,0 +1,54 @@
+id: Qmd3cg5
+type: release
+statements:
+  name:
+  - value:
+      text: Bitter Almonds
+      language: en
+    references:
+    - source: open.spotify.com-album-6fpaxvf3erfhttecn2qdmc
+      quote: Bitter Almonds
+      accessed: 2026-11-21
+      locator: Album title
+  performer:
+  - value: Qk67gf5
+    references:
+    - source: open.spotify.com-album-6fpaxvf3erfhttecn2qdmc
+      quote: Farshid Arabi
+      accessed: 2026-11-21
+      locator: Album artist credit
+  listen link:
+  - value: https://open.spotify.com/album/6FpAxvF3ERFhTtECN2qDmC
+    references:
+    - source: open.spotify.com-album-6fpaxvf3erfhttecn2qdmc
+      quote: Bitter Almonds
+      accessed: 2026-11-21
+      locator: Album title
+  - value: https://music.apple.com/us/album/bitter-almonds/1848792844
+    references:
+    - source: music.apple.com-us-album-bitter-almonds-1848792844
+      quote: Bitter Almonds
+      accessed: 2026-11-21
+      locator: Native title
+  release type:
+  - value: album
+    references:
+    - source: open.spotify.com-album-6fpaxvf3erfhttecn2qdmc
+      quote: Bitter Almonds
+      accessed: 2026-11-21
+      locator: Album title
+  release date:
+  - value:
+      date: '2025-10-25'
+    references:
+    - source: music.apple.com-us-album-bitter-almonds-1848792844
+      quote: '2025-10-25'
+      accessed: 2026-11-21
+      locator: Storefront release date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/90/58/92/9058927d-9bc8-bdee-3738-d006da6c3369/199811388824_cover.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-bitter-almonds-1848792844
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/90/58/92/9058927d-9bc8-bdee-3738-d006da6c3369/199811388824_cover.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Album artwork

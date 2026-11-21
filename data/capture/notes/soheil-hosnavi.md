@@ -1,0 +1,186 @@
+# Soheil Hosnavi
+
+The original commercial catalogue contains seven editions with 56 tracks, including the sixteen joint tracks on the Memories trio album, four personal albums and two singles. Matched both services by track order, titles, and artist billing. Turbulence and its nine tracks reuse Zanyar Hesami’s existing item IDs. The physical Bozme Harifan launch and the 2015 domestic release are witnessed in Iranian music press. The artist identifies three other traditional albums under guest credits. Studio guest entries without per-track information remain at album level, with the specifically documented Nowruze Saba performance distinct. The label’s Banner of Tresses master was matched across Spotify, Apple, SoundCloud and Telegram.
+
+Checked all 43 uploads on his own YouTube video page. Potentially attributable items were cross-checked against 592 distinct publicly returned Telegram posts through #1174, including 175 native media items. The master/duet/rehearsal/alternate performances were matched or distinguished using performer, source event, duration and original upload description. Album-launch documentaries, sheets, broadcasts without music and posts containing another performer’s work received no standalone performance credit. The source images for Telegram clips lacking an eligible, independent image URL are left empty. The original artist portrait is the native channel profile photograph. No artist-issued Bandcamp release was verified.
+
+178 attributed recordings, works and original editions.
+
+- "باده‌ی مَست" (Qts8ckz) · https://t.me/soheilhosnavi/725
+- "خوشه چین" (Q3yh73z) · https://t.me/soheilhosnavi/684
+- "ضرب اصول" (Qmaj9m3) · https://t.me/soheilhosnavi/736
+- #یک_دقیقه_چهار_نت (Qrkgh49) · https://t.me/soheilhosnavi/733
+- 97,8,4==Kodaky=Kalhooor++++++ (Qx5aej2) · https://t.me/soheilhosnavi/704
+- Bacchic (feat. Saman Ehteshami, Zanyar Hesami, Reza Darbandi, Mesbah Ghamsari, Siavash Kamkar, Soheil Mokhberi & Homayoun Nasiri) (Qfcpwzd) · https://music.apple.com/us/song/bacchic-feat-saman-ehteshami-zanyar-hesami-reza-darbandi/1527338797 · https://open.spotify.com/track/6HE6ZLdBB42f32uPJGFXI8
+- Bar Dargahe Sahebgharan (Q7gpsk4) · https://music.apple.com/us/song/bar-dargahe-sahebgharan-feat-morteza-momenian/1814967706 · https://open.spotify.com/track/3Dc05d1KDArKOUAb3RArjJ
+- Basteye Daam (Qg5dqgj) · https://t.me/soheilhosnavi/1027
+- Be Yade Saba (Qh9pab4) · https://music.apple.com/us/song/be-yade-saba/1814967698 · https://open.spotify.com/track/00w6Qnu8EF2PNaDe0vbzKp
+- Bedahe Avazi (Bayat E Tork) (Qn35877) · https://music.apple.com/us/song/bedahe-avazi-bayat-e-tork/1735452144 · https://open.spotify.com/track/4M83dZwbaClFtTAHibL7Rf
+- Bedahe Avazi (Dashti) (Qn2gvdd) · https://music.apple.com/us/song/bedahe-avazi-dashti/1735452152 · https://open.spotify.com/track/3HP4dBc1jmjxG12XNlCoZq
+- Bedahe Avazi (Esfahan) (Qch9q45) · https://music.apple.com/us/song/bedahe-avazi-esfahan/1735452140 · https://open.spotify.com/track/7KU1yOcGBBDkTK0JbFc917
+- Bedahe Avazi (Segah Shushtari) (Qmt4es3) · https://music.apple.com/us/song/bedahe-avazi-segah-shushtari/1735452148 · https://open.spotify.com/track/1ySQstnRTHvr0dZsl5zN78
+- Border (Qc3jxhk) · https://music.apple.com/us/song/border/1619009705 · https://open.spotify.com/track/3I6PTVT3Pk7LygtV7c120x
+- Circle of Sama' (Qzqjj6s) · https://music.apple.com/us/song/circle-of-sama/1545849434 · https://open.spotify.com/track/4XzYD3dAPAjfrLIHv1YC8e
+- Dashtestani (Qk6v7v7) · https://music.apple.com/us/song/dashtestani/1619009947 · https://open.spotify.com/track/2uODcyMTL6DHNg1u1PxJyc
+- Degar Bareh (Q954evm) · https://t.me/soheilhosnavi/543
+- Depth of Imagination (feat. Saman Ehteshami, Zanyar Hesami, Reza Darbandi, Mesbah Ghamsari, Siavash Kamkar, Soheil Mokhberi & Homayoun Nasiri) (Qgnnsr6) · https://music.apple.com/us/song/depth-of-imagination-feat-saman-ehteshami-zanyar/1527338798 · https://open.spotify.com/track/18cy162SvSb7cqRXLyLhwP
+- Desert's Night (Qvcjwnm) · https://music.apple.com/us/song/deserts-night/1545849439 · https://open.spotify.com/track/2p51Q0sfcOkDWPoKNceT8R
+- Destiny (feat. Saman Ehteshami, Zanyar Hesami, Reza Darbandi, Mesbah Ghamsari, Siavash Kamkar, Soheil Mokhberi & Homayoun Nasiri) (Qwej8cc) · https://music.apple.com/us/song/destiny-feat-saman-ehteshami-zanyar-hesami-reza-darbandi/1527338801 · https://open.spotify.com/track/58VuVMcwuj0RNMfYa3ZTPk
+- Distressed Crowd (Qkvspdt) · https://music.apple.com/us/song/distressed-crowd/1545849441 · https://open.spotify.com/track/0uSiZjtpeZXjH8u4LMAUdD · https://t.me/soheilhosnavi/455 · https://t.me/soheilhosnavi/456 · https://t.me/soheilhosnavi/607
+- Do Not Stay Alone (Q9qkks4) · https://music.apple.com/us/song/do-not-stay-alone/1619009700 · https://open.spotify.com/track/2rxOm1f6gUIIhIQ9MzWjlw
+- Do Not Stay Alone (Qqm98tn) · https://music.apple.com/us/album/do-not-stay-alone/1619009699 · https://open.spotify.com/album/0PvsaJJpTFFqG6fPrrFrCX
+- Flow of Life (feat. Saman Ehteshami, Zanyar Hesami, Reza Darbandi, Mesbah Ghamsari, Siavash Kamkar, Soheil Mokhberi & Homayoun Nasiri) (Qra4cbh) · https://music.apple.com/us/song/flow-of-life-feat-saman-ehteshami-zanyar-hesami-reza/1527338799 · https://open.spotify.com/track/0tLxyjXPnH61UR2PetuMKC
+- Garden Pond (Q96bw35) · https://music.apple.com/us/song/garden-pond/1545849436 · https://open.spotify.com/track/0orDDICdTNqqz8jK0Zdmsq
+- Hengam E Vesal (Qqcacqv) · https://music.apple.com/us/song/hengam-e-vesal/1814967701 · https://open.spotify.com/track/0JfXs3jHZpN3ZIkNaniS00
+- Holiday Blessings (Qbstwsq) · https://music.apple.com/us/song/holiday-blessings/1731071710 · https://open.spotify.com/track/4jv0YKo2C99ymkQN5Du4YF · https://music.apple.com/us/album/holiday-blessings-single/1731071702 · https://open.spotify.com/album/5aqmYEKICNNusgobpyeTwG · https://t.me/soheilhosnavi/113
+- Improvise Deylaman / Dashti (Qsn8jed) · https://music.apple.com/us/song/improvise-deylaman-dashti/1619009949 · https://open.spotify.com/track/7beTIvrSt7NhUAY3UhYfsb
+- Improvise Esfahan (Q6khcyj) · https://music.apple.com/us/song/improvise-esfahan/1619009701 · https://open.spotify.com/track/1Mb1cDYwoRBKsu26gURTk3
+- Improvise Qara Bagh / Bayat Raje (Q26n5qd) · https://music.apple.com/us/song/improvise-qara-bagh-bayat-raje/1619009703 · https://open.spotify.com/track/0Ok0jtOiVTfhd7sLjaAUNq
+- Intoxicated Wine (Q59brkn) · https://music.apple.com/us/song/intoxicated-wine/1545849438 · https://open.spotify.com/track/2J6oOxcW7UwyiaViIU07Mb
+- Khatereye Yek Shab (Tasnif Bayat E Tork) (Q6nkt8w) · https://music.apple.com/us/song/khatereye-yek-shab-tasnif-bayat-e-tork/1735452145 · https://open.spotify.com/track/7a0vVAn9PAzlrRfKQjwbWj
+- Khooshechin (Qn9w7mp) · https://music.apple.com/us/song/khooshechin/1619009702 · https://open.spotify.com/track/2yeQYnt1mNeagYvE70uVok
+- Kooche Baghe Raz (Tasnif Dashti) (Qe99cma) · https://music.apple.com/us/song/kooche-baghe-raz-tasnif-dashti/1735452153 · https://open.spotify.com/track/4ShbeYstxG0EE13Ahlhilj
+- Kooye Rendan (Qfer9yh) · https://music.apple.com/us/album/kooye-rendan/1814967695 · https://open.spotify.com/album/5vZZv1h6Pr2ngNRX4lWYw1
+- Kooye Rendan (Qhq8dge) · https://music.apple.com/us/song/kooye-rendan/1814967696 · https://open.spotify.com/track/1Qy8jGfFceScsK8c6Yykib
+- Madhoosh (Qbsqcpe) · https://music.apple.com/us/song/madhoosh/1814967703 · https://open.spotify.com/track/0IyimRhqUSEYhoq0WYdHC5
+- Mast O Heyran (Qfxrxmc) · https://music.apple.com/us/song/mast-o-heyran/1814967705 · https://open.spotify.com/track/2iHmbfteoqjS5OXh36e2Bp
+- Mastaneh (Qfa34x6) · https://music.apple.com/us/song/mastaneh/1814967699 · https://open.spotify.com/track/5IEF1rNXuVQnH81XtcCXLt
+- Memories (Q6z6swz) · https://music.apple.com/us/album/memories/1735451866 · https://open.spotify.com/album/7CuC5wUyqlM46r9UjxNyV0
+- Memories (feat. Saman Ehteshami, Zanyar Hesami, Reza Darbandi, Mesbah Ghamsari, Siavash Kamkar, Soheil Mokhberi & Homayoun Nasiri) (Q6nzqb3) · https://music.apple.com/us/song/memories-feat-saman-ehteshami-zanyar-hesami-reza-darbandi/1527338800 · https://open.spotify.com/track/36vfGH6tJKbj1IYcQNpMlY
+- Meteor Shower (Q954p4k) · https://music.apple.com/us/song/meteor-shower/1545849440 · https://open.spotify.com/track/00WQpIS2Z9XL1W9xJPsAlY
+- Moghadame (Bayat E Tork) (Qmrvmcb) · https://music.apple.com/us/song/moghadame-bayat-e-tork/1735452143 · https://open.spotify.com/track/3SXRpyJ5TEwdChuDcO4ofG
+- Moghadame (Dashti) (Qbn67ej) · https://music.apple.com/us/song/moghadame-dashti/1735452151 · https://open.spotify.com/track/7qAJ15PuYG0XYx53LAAJCh
+- Moghadame (Esfahan) (Qefmsvg) · https://music.apple.com/us/song/moghadame-esfahan/1735452139 · https://open.spotify.com/track/5CzzAF6OLa9XebDywq8fTP
+- Moghadame (Segah Shushtari) (Q89bctc) · https://music.apple.com/us/song/moghadame-segah-shushtari/1735452147 · https://open.spotify.com/track/7G0Vt0GyVelgStBAJ7wzIL
+- Mousem E Gol (Qctey5t) · https://music.apple.com/us/song/mousem-e-gol/1619009951 · https://open.spotify.com/track/7y9P0kklUer9zOX3tAWvuH
+- Nowruze Saba (Q9t2ayd) · https://t.me/soheilhosnavi/749
+- Oftan O Khizan (Qk77e93) · https://music.apple.com/us/song/oftan-o-khizan-feat-morteza-momenian/1814967704 · https://open.spotify.com/track/3OkR6bdbFmM64Hw4bjYnBR
+- Parishan (Tasnif Esfahan) (Q7psn28) · https://music.apple.com/us/song/parishan-tasnif-esfahan/1735452141 · https://open.spotify.com/track/0K6y6Az6hmA2JggYOSYy83
+- Rahgozare Ashegh (Qwqaxxd) · https://t.me/soheilhosnavi/713
+- Rapture (feat. Saman Ehteshami, Zanyar Hesami, Reza Darbandi, Mesbah Ghamsari, Siavash Kamkar, Soheil Mokhberi & Homayoun Nasiri) (Q522sxp) · https://music.apple.com/us/song/rapture-feat-saman-ehteshami-zanyar-hesami-reza-darbandi/1527338796 · https://open.spotify.com/track/5mIL2iH0EB5FYmZPIRhjR4
+- Reflection (feat. Saman Ehteshami, Zanyar Hesami, Reza Darbandi, Mesbah Ghamsari, Siavash Kamkar, Soheil Mokhberi & Homayoun Nasiri) (Qvnz7ms) · https://music.apple.com/us/song/reflection-feat-saman-ehteshami-zanyar-hesami-reza/1527338643 · https://open.spotify.com/track/4HxXwAToKbSN3QVsCrCqSz · https://t.me/soheilhosnavi/131
+- Rememberance of Friend (Qcyxpk4) · https://music.apple.com/us/song/rememberance-of-friend/1619009952 · https://open.spotify.com/track/0AxSOOivG8QWbsOhjgPjAM
+- Reng (Bayat E Tork) (Qaebpgj) · https://music.apple.com/us/song/reng-bayat-e-tork/1735452146 · https://open.spotify.com/track/5L4yyLMtoTdtHj0GJkmMoL
+- Reng (Dashti) (Qvrrfkh) · https://music.apple.com/us/song/reng-dashti/1735452154 · https://open.spotify.com/track/0msK5YDwJMvH5po2HEyHJt
+- Reng (Esfahan) (Qbhe5pc) · https://music.apple.com/us/song/reng-esfahan/1735452142 · https://open.spotify.com/track/7IPavZTW7LZCfYWtpZX0LC
+- Reng (Segah Shushtari) (Qxt5fsf) · https://music.apple.com/us/song/reng-segah-shushtari/1735452150 · https://open.spotify.com/track/4Ar1GBhO7hXLOkQ6JM0tLi
+- Santur & Bass (Qcw7x28) · https://www.youtube.com/watch?v=-ZqKY18Y8uk · https://t.me/soheilhosnavi/1147
+- Santur & Bass Guitar (Qg66rfs) · https://www.youtube.com/watch?v=ZMcxnSlt2OI · https://t.me/soheilhosnavi/1145
+- Santur & Bass again! 😎🎸 (Qzr2edb) · https://www.youtube.com/watch?v=stz5_VY4nxE · https://t.me/soheilhosnavi/1156
+- Santur & Bassoon (Qz8skkz) · https://www.youtube.com/watch?v=ODL_gZRI-Ac · https://t.me/soheilhosnavi/1149
+- Santur & Cajon (Qtwgya8) · https://www.youtube.com/watch?v=7QyMLY3hD4w · https://t.me/soheilhosnavi/1144
+- Santur & Cello 🎻 (Qxt8ktv) · https://www.youtube.com/watch?v=ztQGyNg7jl8 · https://t.me/soheilhosnavi/1146
+- Santur & Flamenco guitar (Qnx3msr) · https://www.youtube.com/watch?v=KeHNw6dAxxo · https://t.me/soheilhosnavi/1148
+- Santur & Handpan (Q43dcjk) · https://www.youtube.com/watch?v=qxXHW0nXR3c · https://t.me/soheilhosnavi/1152
+- Santur & Oud (Qg6m2x7) · https://www.youtube.com/watch?v=fUq2uqR7DY8 · https://t.me/soheilhosnavi/1150
+- Santur & Qanun (Qj3pvgs) · https://www.youtube.com/watch?v=Bj1Yawnww5Y · https://t.me/soheilhosnavi/1153
+- Santur instead of Qanun! 😉🎶 (Qvmeven) · https://www.youtube.com/watch?v=wHHW9xEJUE8 · https://t.me/soheilhosnavi/1154
+- Santur, Bass & Baqlama (Qgfpgte) · https://www.youtube.com/watch?v=7fxUiqPF2bE · https://t.me/soheilhosnavi/1174
+- Santur, Clarinet & Vocal (Qczjkgc) · https://www.youtube.com/watch?v=0Lt51WaWW8Q · https://t.me/soheilhosnavi/1151
+- Santur, Oud & Riq (Qp637tp) · https://www.youtube.com/watch?v=mb3-lGypSb4 · https://t.me/soheilhosnavi/1140
+- Sepehr (Qdb83h6) · https://music.apple.com/us/song/sepehr/1814967702 · https://open.spotify.com/track/78ZTATiTacX1sDOXzpCUEx
+- Shiraz City (Qg7x9bx) · https://music.apple.com/us/song/shiraz-city/1619009704 · https://open.spotify.com/track/16BEz2RvRgXRhBz4QkGJ37
+- Sokhane Shough (Qn86kxa) · https://music.apple.com/us/song/sokhane-shough/1814967697 · https://open.spotify.com/track/6IoFJYmdLcdXJ6tSOs2kqL
+- The Banner of Tresses (Q83hd4d) · https://t.me/soheilhosnavi/1024 · https://soundcloud.com/zangrecordz/the-banner-of-tresses-arezoo-banipour-roham-sobhani · https://music.apple.com/us/song/the-banner-of-tresses/1680407947 · https://open.spotify.com/track/1iEwyYbfg95HScFLQEb1pc
+- The Banquet of Companions (Qgnz8rn) · https://music.apple.com/us/album/the-banquet-of-companions/1545849433 · https://open.spotify.com/album/7o5FHk6J63WcrgiMJ9Uphj
+- The Banquet of Companions (Qx7fs2w) · https://music.apple.com/us/song/the-banquet-of-companions/1545849435 · https://open.spotify.com/track/6UJgpma9tD2D9YbbnbFzad
+- The Influx of Thoughts (feat. Saman Ehteshami, Zanyar Hesami, Reza Darbandi, Mesbah Ghamsari, Siavash Kamkar, Soheil Mokhberi & Homayoun Nasiri) (Qw3xhxh) · https://music.apple.com/us/song/the-influx-of-thoughts-feat-saman-ehteshami/1527338644 · https://open.spotify.com/track/22SVic0PATiZ55veh4x9hn
+- Tired Beat of Repeat (Q67zypg) · https://music.apple.com/us/song/tired-beat-of-repeat/1619009953 · https://open.spotify.com/track/5ryy32PxrcdGEb4bVwRzRB
+- To Bemani (Tasnif Segah Shushtari) (Qzyhhyb) · https://music.apple.com/us/song/to-bemani-tasnif-segah-shushtari/1735452149 · https://open.spotify.com/track/6b5PyLivhSWnUFAWNZiitD
+- Turbulence (Qtzccqz) · https://music.apple.com/us/album/turbulence/1527338642 · https://open.spotify.com/album/0TzCoeGKmnAY6IjOyg2IQE
+- Turbulence (feat. Saman Ehteshami, Zanyar Hesami, Reza Darbandi, Mesbah Ghamsari, Siavash Kamkar, Soheil Mokhberi & Homayoun Nasiri) (Qysy9wk) · https://music.apple.com/us/song/turbulence-feat-saman-ehteshami-zanyar-hesami-reza/1527338645 · https://open.spotify.com/track/6AtzH1GUZiuq7iwUxFm0gt
+- Uranus (Q4fafex) · https://music.apple.com/us/song/uranus-feat-arin-keshishi-shayan-riyahi/1503426786 · https://open.spotify.com/track/2DplrTGCGgLoGRyosapqaQ · https://music.apple.com/us/album/uranus-feat-arin-keshishi-shayan-riyahi-single/1503426721 · https://open.spotify.com/album/3lmliJBx4e6fjg0CRB0yXc · https://t.me/soheilhosnavi/120 · https://t.me/soheilhosnavi/634
+- Violin, Oud & Santur (Q6eae73) · https://www.youtube.com/watch?v=HO4w6HF33zc · https://t.me/soheilhosnavi/1173
+- Zarb Afshan (Q8ye9jh) · https://music.apple.com/us/song/zarb-afshan-feat-morteza-momenian/1814967700 · https://open.spotify.com/track/1xglszQTSFkIPEMFBQ6CAc
+- آبان سی و چهارم 🍁 (Qqwvmyw) · https://t.me/soheilhosnavi/1031
+- آواز : امیر مردانه (Qnkwjnx) · https://t.me/soheilhosnavi/470
+- آی بهار (Qn26aax) · https://t.me/soheilhosnavi/124
+- آیریلیق (Qyx7trh) · https://t.me/soheilhosnavi/231
+- اتودی در بیات ترک (Qstjkax) · https://t.me/soheilhosnavi/616
+- اتودی در شوشتری ؛ (Qfd3nbj) · https://t.me/soheilhosnavi/619
+- ادامه‌ی گفتگو و بداهه‌نوازی سنتور (Qsy5h4p) · https://t.me/soheilhosnavi/779
+- باده‌ی مست (Qg2jc9m) · https://www.youtube.com/watch?v=6A1wnLofMgA
+- بخشی از چهارمضراب شوشتری (Qchdbqv) · https://t.me/soheilhosnavi/696
+- بخشی از یک اجرای کاملاً بداهه و اشاره به آهنگی از (Qjbm63h) · https://t.me/soheilhosnavi/1141
+- بداهه ای در دستگاه همایون (Q2hsf29) · https://t.me/soheilhosnavi/694
+- بداهه ای کوتاه در آواز اصفهان (Qrn9c7s) · https://t.me/soheilhosnavi/413
+- بداهه ای کوتاه در افشاری (Qqk2exy) · https://t.me/soheilhosnavi/285
+- بداهه ای کوتاه در سه‌گاه (Q9rbyfj) · https://t.me/soheilhosnavi/475
+- بداهه نوازی ابوعطا (Qwv2gdc) · https://t.me/soheilhosnavi/142 · https://t.me/soheilhosnavi/143
+- بداهه نوازی شوشتری (Qs4wank) · https://t.me/soheilhosnavi/554
+- بداهه نوازی چهارگاه (۲) (Q9jqhnx) · https://t.me/soheilhosnavi/501
+- بداهه همایون (Q74jyad) · https://t.me/soheilhosnavi/1058
+- بداهه_نوازی_ابوعطا_.mp3 (Qbbanxk) · https://t.me/soheilhosnavi/485
+- بداهه‌ای در آواز دشتی (Qvacfzt) · https://www.youtube.com/watch?v=bbk_oK35Cso
+- بداهه‌ای در سه‌گاه (Qpcvqhp) · https://t.me/soheilhosnavi/682
+- بداهه‌ای در سه‌گاه و اجرای قطعه‌ی «در غم» (Qy6y8dg) · https://t.me/soheilhosnavi/857
+- بداهه‌ای در کُرد‌بیات (Qh7tfef) · https://t.me/soheilhosnavi/561
+- بداهه‌ای کوتاه در آواز دشتی (Q6k3gc3) · https://t.me/soheilhosnavi/871
+- بداهه‌نوازی نوا (Qr3a69k) · https://t.me/soheilhosnavi/920
+- بداهه‌نوازی همایون (Qnw7xqp) · https://t.me/soheilhosnavi/931
+- بداهه‌‌ای در راست‌پنجگاه سل (Q5t8we6) · https://www.youtube.com/watch?v=aqOQH6XVAfE
+- به یاد جاودانه های موسیقی ایران (Qbhdzyz) · https://t.me/soheilhosnavi/547
+- بهارانه (Qgz3db3)
+- تصنیف "اشک من هویدا شد" (Qnhr486) · https://t.me/soheilhosnavi/680
+- تصنیف «امان از این دل» (Qzn3e6s) · https://www.youtube.com/watch?v=ZBm5rJFdz1w
+- تقدیـــر/Destiny (Qmyd2qb) · https://www.youtube.com/watch?v=NQDUykCuTG0 · https://t.me/soheilhosnavi/1172
+- تلاطم (اجرای زنده) (Q4tbmc4) · https://www.youtube.com/watch?v=nOgQo1--d6E
+- تمرین با پدرام درخشانی عزیز (Qcqkdf3) · https://t.me/soheilhosnavi/497
+- تنها ماندم ؛ تنها رفتی (Qzxhbb5) · https://t.me/soheilhosnavi/138
+- تکنوازی بداهه از هنرمند گرامی سهیل حسنوی با سنتور گوهر ویژه‌ی جدیدشون (Q9837zy) · https://t.me/soheilhosnavi/716
+- تکنوازی سنتور در برنامه‌ٔ «شب‌های بخارا» (Qk9kefm) · https://www.youtube.com/watch?v=oc4jyc7wCJA
+- تک‌نوازی سنتور (Q56wnc2) · https://www.youtube.com/watch?v=q1F3ZJ-ZFVc
+- تک‌نوازی سنتور  سهیل حُسنوی (Q3ykbzp) · https://t.me/soheilhosnavi/451
+- تک‌نوازی سنتور در شب های موسیقی فرشته (Qy2m55x) · https://t.me/soheilhosnavi/686 · https://www.youtube.com/watch?v=HJiuLYvVv2E
+- تک‌نوازی سنتور سهیل حُسنوی (Qyvtbtw) · https://t.me/soheilhosnavi/847
+- تک‌نوازی سه‌گاه (Q45rd5b) · https://www.youtube.com/watch?v=SeWAGOSnDnw
+- خیام و میرزاعبدالله (Qyx2yr4)
+- دوئت سنتور و کُنترباس (Qc7akbk) · https://t.me/soheilhosnavi/830
+- دوئت سنتور و کُنترباس (Qhfeagr) · https://t.me/soheilhosnavi/796
+- دوئت سنتور و گیتار بر روی آهنگ "آیریلیق" (Qh3q37z) · https://t.me/soheilhosnavi/754
+- دوئت کوتاه سنتور و سازهای کوبه‌ای (Qvxdcr7) · https://t.me/soheilhosnavi/785
+- دوضربی ابوعطا ساخته‌ی احسان کلهر (Q28gy6t) · https://t.me/soheilhosnavi/582
+- دونوازی سنتور و تمبک در چهارگاه (Qa3pdmk) · https://t.me/soheilhosnavi/473
+- دونوازی سنتور و دف (Qkhnvdt) · https://www.youtube.com/watch?v=zP7fnUne16E
+- دونوازی کوتاه سنتور و تمبک (Q8y4sg8) · https://t.me/soheilhosnavi/786
+- دونوازی کوتاه سنتور و تمبک در چهارگاه (Q9ht49z) · https://t.me/soheilhosnavi/846
+- رِنگ شوشتری (Qvh5dx8) · https://t.me/soheilhosnavi/784
+- ساز و آواز بداهه در دستگاه شور (Q7tsy5x) · https://t.me/soheilhosnavi/306
+- ساز و آواز بداهه شوشتری (Q92j3yv) · https://t.me/soheilhosnavi/560
+- سه‌ضربی اصفهان (Qks8nqx) · https://www.youtube.com/watch?v=H1oH1gV1sD0 · https://t.me/soheilhosnavi/868
+- سه‌ضربی شوشتری (Q9tdyda) · https://t.me/soheilhosnavi/782
+- سه‌گاه زیبا و دوست داشتنی ؛ (Qc3a9kk) · https://t.me/soheilhosnavi/695
+- شب پایور | رهگذر (دونوازی سنتور و فلوت) (Qd66gjm) · https://www.youtube.com/watch?v=fCXd_rmEbEM · https://t.me/soheilhosnavi/997
+- شب پایور | مقدمه و رنگ راست‌پنجگاه (گروه‌نوازی) (Qcfvvnj) · https://www.youtube.com/watch?v=wJO8LILVdjY · https://t.me/soheilhosnavi/1001
+- شب پایور | پراکنده (دونوازی سنتور و پیانو) (Qhx9hky) · https://www.youtube.com/watch?v=ELoggCmDD0Q · https://t.me/soheilhosnavi/1000
+- شب پایور | پرنیان (دونوازی سنتور و تار) (Qxe4ey4) · https://www.youtube.com/watch?v=OvYXdl6Wvcg
+- شب پایور | پژواک (دونوازی سنتور و تمبک) (Q5a77aj) · https://www.youtube.com/watch?v=7du4oPcIjt4 · https://t.me/soheilhosnavi/999
+- شب پایور | گفتگو (دونوازی سنتور و ویلن) (Q369hej) · https://www.youtube.com/watch?v=Iijs1Po9yr4 · https://t.me/soheilhosnavi/998
+- شب‌های روشن (Qx8msc5) · https://www.youtube.com/watch?v=zmR_3SOR1T4 · https://t.me/soheilhosnavi/1038
+- شعر آواز : سعدی (Qjyyjaf) · https://t.me/soheilhosnavi/630
+- ضربی افشاری (Q9y48sw) · https://t.me/soheilhosnavi/315
+- ضربی شور (Q2whzj9) · https://t.me/soheilhosnavi/679
+- طرحی در سه‌گاه (Qfrr5x9) · https://t.me/soheilhosnavi/329
+- قسمت هایی از تکنوازی سنتور (Qhw74hb) · https://t.me/soheilhosnavi/448
+- قسمت هایی از تکنوازی سنتور و قطعاتی که به عنوان آهنگساز و نوازنده‌ی میهمان در کنسرت گروه (Qvhmcmm) · https://t.me/soheilhosnavi/450
+- می روی و گریه می آید مرا ؛ (Q9njnpp) · https://t.me/soheilhosnavi/698
+- نوا (عطایی ۷۴) (Qh8979c) · https://t.me/soheilhosnavi/1033
+- نواهنگام (Q643bhr)
+- همراهی سنتور با آواز همایون شجریان (Q8ntxah) · https://www.youtube.com/watch?v=HHWgzyaGX84 · https://t.me/soheilhosnavi/1143
+- هم‌نوازی کوتاه از راه دور (Qa9gbje) · https://t.me/soheilhosnavi/739
+- هیاهوی بسیار برای هیچ (Q3md2zb) · https://www.youtube.com/watch?v=Rhg2zQQvXbU
+- واریاسیون بر روی تِم آهنگ شهر شیراز (Q3j5xwb) · https://t.me/soheilhosnavi/744
+- واریاسیونی بر روی هفت‌ضربی چهارگاه (Qb5sf97) · https://t.me/soheilhosnavi/849
+- ویولن : احسان کلهر سنتور : سهیل حُسنوی تمبک : امیر خیری (Q33sf6t) · https://t.me/soheilhosnavi/558
+- ویولن : احسان کلهر سنتور : سهیل حُسنوی تمبک : امیر خیری (Qzmzfhm) · https://t.me/soheilhosnavi/395
+- پاییز 🍂 (Qhjggk3) · https://www.youtube.com/watch?v=RPl-bhEU2w4 · https://t.me/soheilhosnavi/887 · https://t.me/soheilhosnavi/893
+- پوپک (Qwkqwc2) · https://t.me/soheilhosnavi/700
+- پیش‌درآمد قدیمی شوشتری (Qtfpaa9) · https://t.me/soheilhosnavi/783
+- کنسرت یادها «۳» 🎻 (Qggy8gw) · https://www.youtube.com/watch?v=1KVganhDqEE · https://t.me/soheilhosnavi/1003
+- کوتاه از اجرای دوئت سنتور با (Qjgde7e) · https://t.me/soheilhosnavi/502
+- کوتاه از بداهه اصفهان فانتزی و (Qh5dkca) · https://t.me/soheilhosnavi/591
+- کوتاه از تکنوازی ابوعطا (Qt33fzg) · https://t.me/soheilhosnavi/579
+- کوتاه از ضبط پارت سنتور (Qhh8c5m) · https://t.me/soheilhosnavi/146
+- کوتاه در مخالف و فرود ضربی به سه‌گاه (Qtg6des) · https://t.me/soheilhosnavi/688
+- یاد دوست (Q3zs75s) · https://www.youtube.com/watch?v=R_jR6c19J6Y
+- ۲۵/مرداد/۹۷ (Qzt6fyn) · https://t.me/soheilhosnavi/527

@@ -108,8 +108,13 @@ The expansion started at revision fa6c29ca with 124 bilingual artist pages. The 
 | Zanyar Hesami | Qje5fct | 9.2/10 | [Zanyar Hesami](zanyar-hesami-independent-review.md) |
 | Erwin Khachikian | Qy88zyz | 9.2/10 | [Erwin Khachikian](artist-page-scores.md) |
 | Sejar Percussion Band | Qnff8wt | 9.1/10 | [Sejar Percussion Band](sejar-percussion-band-independent-review.md) |
-| Soheil Peyghambari | Q3waxf2 | Pending | [Catalogue](soheil-peyghambari.md) |
-| Niaz Nawab | Qb269ps | Pending | [Catalogue](niaz-nawab.md) |
-| Maryam Akhondy | Qs73vkf | Pending | [Catalogue](maryam-akhondy.md) |
+| Soheil Peyghambari | Q3waxf2 | 9.2/10 | [Independent review](soheil-peyghambari-independent-review.md) |
+| Niaz Nawab | Qb269ps | 9.2/10 | [Independent review](niaz-nawab-independent-review.md) |
+| Maryam Akhondy | Qs73vkf | 9.2/10 | [Independent review](artist-page-scores.md) |
+| Soheil Hosnavi | Q76q9jz | 9.2/10 | [Independent review](soheil-hosnavi-independent-review.md) |
+| Yadha Trio | Q4eqt65 | Pending | [Catalogue](yadha-trio.md) |
+| Idlefon | Qjjdrek | Pending | [Catalogue](idlefon.md) |
+| Farshid Arabi | Qk67gf5 | Pending | [Catalogue](farshid-arabi.md) |
+| Bahar Choir | Qs4s44j | Pending | [Catalogue](bahar-choir.md) |
 
 The [discovery list](independent-artist-discovery.md) contains candidates with release leads. Some will prove ineligible or match an existing artist by another spelling. Only new artist pages count toward the target.

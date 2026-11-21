@@ -56,3 +56,7 @@ Kahroba, read 2026-11-21.
 > 2012 – 2013: Radio France, Cultural Branch
 
 Artist CV, read 2026-11-21.
+
+> multi-instrumental musician, singer, songwriter, composer, and music teacher
+
+Professional roles, read 2026-11-21.

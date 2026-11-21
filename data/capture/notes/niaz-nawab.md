@@ -89,3 +89,5 @@ Reconciled the fourteen Apple releases on the artist page, seventeen relevant Sp
 - Avazeh Khan (Live at Chaharshanbeh Souri) (Q69qfqa) · https://t.me/niaznawab/206
 
 The two artist reposts of the 2018 Darya (Rock) music video match the jointly credited studio single. They share Qvz736e. The concert production’s separate 2023 Los Angeles Hagh has its own panel Qv8e4ws · https://www.youtube.com/watch?v=Yelgl2I-3ds
+
+Arshid Azarine’s Sing Me a Song credits Nawab as guest and co-composer of The Valley of Love. Its studio issue and separate concert with the trio have distinct pages. https://aazarine.bandcamp.com/track/the-valley-of-love · https://www.youtube.com/watch?v=pNJ52HJvaxk · https://www.youtube.com/watch?v=R3RRQmc3EMk

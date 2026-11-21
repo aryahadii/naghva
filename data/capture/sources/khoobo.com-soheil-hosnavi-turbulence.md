@@ -5,9 +5,17 @@ status: processed
 language: en
 tier: own
 about:
-- Sara Fotros
+- Soheil Hosnavi
 ---
 
 Original recording, artist credit or presenter programme, read 2026-11-21.
 
 > دیوان: زانیار حسامی
+
+Artist, publisher, concert programme or original recording credits, read 2026-11-21.
+
+> کوک واحـد کل قطعات
+
+Artist, publisher, concert programme or original recording credits, read 2026-11-21.
+
+> مُد «شـوشتـری»

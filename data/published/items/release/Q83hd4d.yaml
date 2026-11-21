@@ -6,27 +6,41 @@ statements:
       text: The Banner of Tresses
       language: en
     references:
-    - source: t.me-soheilhosnavi-1024
+    - source: soundcloud.com-zangrecordz-the-banner-of-tresses-arezoo-banipour-roham-sobhani
       quote: The Banner of Tresses
-      locator: Artist channel, original post 1024
+      locator: Artist, publisher, concert programme or original recording credits
       accessed: '2026-11-21'
   release date:
   - value:
-      date: '2024-09-17'
+      date: '2023-04-01'
     references:
-    - source: t.me-soheilhosnavi-1024
-      quote: '2024-09-17'
-      locator: Artist channel, original post 1024
+    - source: music.apple.com-us-album-1680407946
+      quote: '2023-04-01'
+      locator: Artist, publisher, concert programme or original recording credits
       accessed: '2026-11-21'
   performer:
   - value: Q76q9jz
     references:
-    - source: t.me-soheilhosnavi-1024
-      quote: The Banner of Tresses
-      locator: Artist channel, original post 1024
+    - source: t.me-s-tavaana_tavaanatech-85109
+      quote: 'سهیل حُسنوی: سنتور'
+      locator: Artist, publisher, concert programme or original recording credits
       accessed: '2026-11-21'
     qualifiers:
       role: santur
+  - value: Qs5p4nt
+    references:
+    - source: music.apple.com-us-album-1680407946
+      quote: Roham Sobhani
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  - value: Qpzdh9v
+    references:
+    - source: music.apple.com-us-album-1680407946
+      quote: Arezoo Banipour
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: vocals
   listen link:
   - value: https://t.me/soheilhosnavi/1024
     references:
@@ -34,3 +48,32 @@ statements:
       quote: The Banner of Tresses
       locator: Artist channel, original post 1024
       accessed: '2026-11-21'
+  - value: https://soundcloud.com/zangrecordz/the-banner-of-tresses-arezoo-banipour-roham-sobhani
+    references:
+    - source: soundcloud.com-zangrecordz-the-banner-of-tresses-arezoo-banipour-roham-sobhani
+      quote: The Banner of Tresses
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  - value: https://music.apple.com/us/song/the-banner-of-tresses/1680407947
+    references:
+    - source: music.apple.com-us-album-1680407946
+      quote: The Banner of Tresses
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/1iEwyYbfg95HScFLQEb1pc
+    references:
+    - source: open.spotify.com-embed-album-5klqahcwrjia0ee82tffic
+      quote: The Banner of Tresses
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/41/ec/1a/41ec1ad3-7bba-74cb-4564-36c8e10b6300/735910429916_cover.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-1680407946
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/41/ec/1a/41ec1ad3-7bba-74cb-4564-36c8e10b6300/735910429916_cover.jpg/1200x630bb.jpg
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: The Banner of Tresses - Single
+        language: en

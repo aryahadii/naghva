@@ -1,0 +1,57 @@
+id: Q78bxt7
+type: release
+statements:
+  name:
+  - value:
+      text: Scratching the Surface
+      language: en
+    references:
+    - source: music.apple.com-us-song-1804724778
+      quote: ‎Scratching the Surface - Song with Lyrics by Siavash Amini, Hessam Ohadi & Nima Pourkarimi - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qjjdrek
+    references:
+    - source: music.apple.com-us-song-1804724778
+      quote: ‎Scratching the Surface - Song with Lyrics by Siavash Amini, Hessam Ohadi & Nima Pourkarimi - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Q97bqaq
+    references:
+    - source: music.apple.com-us-song-1804724778
+      quote: Siavash Amini
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Q9rnctv
+    references:
+    - source: music.apple.com-us-song-1804724778
+      quote: Nima Pourkarimi
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://music.apple.com/us/song/1804724778
+    references:
+    - source: music.apple.com-us-song-1804724778
+      quote: ‎Scratching the Surface - Song with Lyrics by Siavash Amini, Hessam Ohadi & Nima Pourkarimi - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/37/00/f4/3700f48e-96ff-598e-d8db-d38d2029b460/199066179871.jpg/600x600bb.webp
+    references:
+    - source: music.apple.com-us-song-1804724778
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/37/00/f4/3700f48e-96ff-598e-d8db-d38d2029b460/199066179871.jpg/600x600bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original publisher artwork
+        language: en
+  release date:
+  - value:
+      date: '2011-05-18'
+    references:
+    - source: music.apple.com-us-song-1804724778
+      quote: May 18, 2011
+      accessed: '2026-11-21'
+      locator: Published date
