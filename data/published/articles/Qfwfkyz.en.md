@@ -122,9 +122,13 @@ references:
     source: soundcloud.com-kaabin-sets-anbono6qmddk
     quote: Kābin - ShahedeGham
     accessed: '2026-10-23'
+  magnetism-native-title:
+    source: t.me-kaabinmusic-60
+    quote: آلبوم «مغناطیس،» منتشر شد!
+    accessed: '2026-10-23'
 ---
 
-Kābin is a Tehran-based recording project.[^tehran]
+Kābin is a Tehran-based recording project. Kābin has written songs for singers including [Dariush Azar](/en/dariush-azar-fs9/) and Haleh Seyfizadeh, and worked with [Mohsen Namjoo](/en/mohsen-namjoo-t6w/) on the 2025 album [*Magnetism*](#magnetism-yvf). Another side of the project is its reworking of older recordings, which Kābin describes as a tribute to the past.[^tehran][^ahesteh-writing][^ahesteh-vocals][^mara][^magnetism][^magnetism-date][^set-intent]
 
 ## Songwriting and work with singers
 
@@ -134,7 +138,7 @@ The collaboration with Seyfizadeh continued on the six-track EP [*Mikhahamat*](/
 
 ## From Nobahaari to Magnetism
 
-[*Nobahaari*](/en/kabin-fwf/#nobahaari-qf3) is an earlier collaboration between Kābin and [Mohsen Namjoo](/en/mohsen-namjoo-t6w/).[^nobahaari][^nobahaari-upload] Their single [*Kisti?*](/en/kabin-fwf/#kisti-pmk) was released on 27 March 2025. Namjoo introduced it as part of their forthcoming album; Kābin composed and arranged the song, with Namjoo on vocals.[^kisti-date][^kisti-preview][^kisti-roles] The nine-track album [*Magnetism*](/en/kabin-fwf/#magnetism-yvf), billed to both artists, followed on 21 December that year.[^magnetism][^magnetism-date]
+[*Nobahaari*](/en/kabin-fwf/#nobahaari-qf3) is an earlier collaboration between Kābin and [Mohsen Namjoo](/en/mohsen-namjoo-t6w/).[^nobahaari][^nobahaari-upload] Their single [*Kisti?*](/en/kabin-fwf/#kisti-pmk) was released on 27 March 2025. Namjoo introduced it as part of their forthcoming album; Kābin composed and arranged the song, with Namjoo on vocals.[^kisti-date][^kisti-preview][^kisti-roles] The nine-track album [*Magnetism*](/en/kabin-fwf/#magnetism-yvf), billed to both artists, followed on 21 December that year.[^magnetism][^magnetism-native-title][^magnetism-date]
 
 ## Returning to the past
 
