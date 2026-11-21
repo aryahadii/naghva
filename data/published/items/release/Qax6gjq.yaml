@@ -1,0 +1,32 @@
+id: Qax6gjq
+type: release
+statements:
+  name:
+  - value:
+      text: Shanbehzadeh, ShikhShangar / PourAfrigha
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-a38vrvcuwju
+      quote: Shanbehzadeh, ShikhShangar / PourAfrigha
+      accessed: '2026-11-21'
+      locator: Artist-published performance film
+  performer:
+  - value: Qyd93n9
+    references:
+    - *id001
+  listen link:
+  - value: https://www.youtube.com/watch?v=A38VRVCuwjU
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/A38VRVCuwjU/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-a38vrvcuwju
+      quote: https://i.ytimg.com/vi/A38VRVCuwjU/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original film frame
+    qualifiers:
+      credit:
+        text: saeid shanbehzadeh
+        language: en

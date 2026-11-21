@@ -243,3 +243,4 @@ Original performances and films on the musicians’ channel follow. Repeated pro
 - Rostam Mirlashari and Golbang - Nouruz (Qw7gtdf)
 - Golbang - God Afton (Qgnvv6c)
 - Sensational Balochi Music Video - Omani janni (Qza2msx)
+- Padik (early quartet’s original CD, Qawkmjp)

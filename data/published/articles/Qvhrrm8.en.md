@@ -45,8 +45,30 @@ references:
     quote: Tokyo Train · Camille El Bacha, Naghib Shanbehzadeh
     accessed: 2026-11-21
     locator: Track credits
+  arr:
+    source: t.me-saeidshanbehzadeh-470
+    quote: تنظيم نقيب شنبه زاده بر اساس تمي از محمد منصور وزيري
+    locator: Artist’s original theme and arrangement credit
+    accessed: '2026-11-21'
+  tiva:
+    source: soundcloud.com-nag-1-1-naghibsaied-shanbehzadeh-tiva
+    quote: 'Turkish saz : Nese Ulas'
+    locator: Original musician credits
+    accessed: '2026-11-21'
+  singer:
+    source: soundcloud.com-nag-1-1-naghibsaied-shanbehzadeh-tiva
+    quote: 'vocal : Saeid Shanbehzadeh'
+    locator: Original musician credits
+    accessed: '2026-11-21'
+  sax:
+    source: t.me-saeidshanbehzadeh-54
+    quote: Arrange & Sax ,Saeid Shanbehzadeh, percutions Naghib shanbehzadeh,& Funk Como le Gusta
+    locator: Artist’s credits for Bada Mobarak
+    accessed: '2026-11-21'
 ---
 
 Naghib Shanbehzadeh began playing percussion beside his father Saeid in Bushehr and on Kish, and by ten was a regular member of his ensemble. He also studied with tombak player Mahmoud Farahmand. The father and son could fill a concert as a duo. At Tallinn’s Orient Festival in 2009 Naghib played tombak and zarbetempo against the bagpipe, double pipe and dammam.[^early][^perc][^est]
 
 His recordings take those rhythms into different settings. He helped write “Mina” with his father and Basel Rajoub for *Sound: The Encounter*. On his own percussion record for SuperPitch he combines clapping with the patterns of bandari, sheki and choupi. *Loop Tales* pairs him with Camille El Bacha, who shares the artist credit on pieces including “Tokyo Train.”[^enc][^mina][^beats][^hand][^label][^loop]
+
+For “Tiva,” Naghib arranged a theme by Mohammad Mansour Vaziri for his father’s voice and Nese Ulas’s Turkish saz. He also played percussion on “Bada Mobarak,” with Saeid arranging and playing saxophone alongside Brazilian group Funk Como le Gusta.[^arr][^tiva][^singer][^sax]

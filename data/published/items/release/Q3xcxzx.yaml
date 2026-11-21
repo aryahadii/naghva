@@ -1,0 +1,32 @@
+id: Q3xcxzx
+type: release
+statements:
+  name:
+  - value:
+      text: shanbehzadeh Iran Boushehr neyanban  & bagpipe from all of the worldنی انبان
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-cmgxsxmdhns
+      quote: shanbehzadeh Iran Boushehr neyanban  & bagpipe from all of the worldنی انبان
+      accessed: '2026-11-21'
+      locator: Artist-published performance film
+  performer:
+  - value: Qyd93n9
+    references:
+    - *id001
+  listen link:
+  - value: https://www.youtube.com/watch?v=CMGxsXMDHNs
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/CMGxsXMDHNs/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-cmgxsxmdhns
+      quote: https://i.ytimg.com/vi/CMGxsXMDHNs/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original film frame
+    qualifiers:
+      credit:
+        text: saeid shanbehzadeh
+        language: en

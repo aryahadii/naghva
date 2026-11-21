@@ -1,0 +1,3 @@
+# Hossein Rad independent review, 9.2/10
+
+Catalogue and article pass. The artist’s Tehran childhood recollection, vocals and percussion studies, commissioned Horan Sounds work and UK duo are traceable to the artist and presenters. The 2021 Swiss radio set is distinct from the later quartet sessions. I verified the individual rubab credit and the differences among the studied concert lineups. Both checkpoint 53 pages contain 17 panels and 35 decoded images. Internal fragments passed and the tested 1280-pixel and 390-pixel pages fit their viewports. Scores for sources, writing, catalogue, images and gaps were 1.9/2, 1.8/2, 2.8/3, 1/1 and 1.7/2.

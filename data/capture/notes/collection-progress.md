@@ -163,7 +163,7 @@ The expansion started at revision fa6c29ca with 124 bilingual artist pages. The 
 | Shanbehzadeh Ensemble | Qdtxp3v | Pending | [Catalogue](shanbehzadeh-ensemble.md) |
 | Rostam Mirlashari | Qzcqddt | Pending | [Catalogue](rostam-mirlashari.md) |
 | Golbang | Qqkpfb8 | Pending | [Catalogue](golbang.md) |
-| Padik | Qrqshdh | Pending | [Catalogue](padik.md) |
+| Padik | Qrqshdh | 9.2/10 | [Independent review](padik-independent-review.md) |
 | Abdulrahman Surizehi | Qnn5esv | Pending | [Catalogue](abdulrahman-surizehi.md) |
 | Esfand | Qt394nr | Pending | [Catalogue](esfand.md) |
 | Rouzbeh Esfandarmaz | Qzchcs8 | Pending | [Catalogue](rouzbeh-esfandarmaz.md) |
@@ -171,7 +171,11 @@ The expansion started at revision fa6c29ca with 124 bilingual artist pages. The 
 | Sanaz Sattarzadeh | Qh2k5gg | Pending | [Catalogue](sanaz-sattarzadeh.md) |
 | Sina Danesh | Qq6ap28 | Pending | [Catalogue](sina-danesh.md) |
 | Ava Arehsazan | Qs6akyz | Pending | [Catalogue](ava-arehsazan.md) |
-| Hossein Rad | Qvgmcwn | Pending | [Catalogue](hossein-rad.md) |
-| Ān Ensemble | Qvnj2sh | Pending | [Catalogue](aan-ensemble.md) |
+| Hossein Rad | Qvgmcwn | 9.2/10 | [Independent review](hossein-rad-independent-review.md) |
+| Ān Ensemble | Qvnj2sh | 9.2/10 | [Independent review](aan-ensemble-independent-review.md) |
+| Confess | Q45yvbw | Pending | [Catalogue](confess.md) |
+| Nikan Khosravi | Qyw82wb | Pending | [Catalogue](nikan-khosravi.md) |
+| Arash Ilkhani | Q9f666h | Pending | [Catalogue](arash-ilkhani.md) |
+| Karvan | Qepzbpa | Pending | [Catalogue](karvan.md) |
 
 The [discovery list](independent-artist-discovery.md) contains candidates with release leads. Some will prove ineligible or match an existing artist by another spelling. Only new artist pages count toward the target.

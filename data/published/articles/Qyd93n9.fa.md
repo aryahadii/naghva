@@ -50,8 +50,25 @@ references:
     quote: Mina is the Arabic word for “harbor”
     accessed: '2026-11-21'
     locator: Concert notes and composition credits
+  tehran:
+    source: www.iranian.com-music-tehrannights
+    quote: Recorded in Teheran and mixed in Paris by legendary sound engineer Dominique Blanc-Francard
+    locator: 2006 release account
+    accessed: '2026-11-21'
+  sax:
+    source: t.me-saeidshanbehzadeh-54
+    quote: Arrange & Sax ,Saeid Shanbehzadeh, percutions Naghib shanbehzadeh,& Funk Como le Gusta
+    locator: Artist’s credits for Bada Mobarak
+    accessed: '2026-11-21'
+  radio:
+    source: www.youtube.com-watch-v-qg0fsjsdqsi
+    quote: Saeid and Naghib Shanbehzadeh in Radio France Musique, Couleurs du monde
+    locator: Author’s session recording
+    accessed: '2026-11-21'
 ---
 
 در اجراهای سعید شنبه‌زاده تماشاگر هم می‌تواند سهمی در موسیقی داشته باشد. در گفت‌وگو با رادیو فردا مثالش از بوشهر بود؛ در عروسی هر کس می‌تواند به یزله‌خوان‌ها بپیوندد و هنگام سنج و دمام هم ساز در انحصار کسی نیست. دست‌زدن و کِل‌کشیدن و رقصیدن را از همین جمع‌ها با خود روی صحنه برده است. در جشنوارهٔ گلوبال‌فست نیویورک در ۲۰۰۹ آواز خواند، ساز بادی نواخت و دور نی‌انبانش رقصید؛ پسرش نقیب با ساز کوبه‌ای همراهش بود.[^public][^prague][^global][^bag]
 
 بیست‌ساله بود که گروهش را راه انداخت. این گروه در ۱۹۹۰ جایزهٔ اول جشنوارهٔ فجر را گرفت. شنبه‌زاده در کنار اجرا، نمونه‌هایی از موسیقی جنوب را گرد آورد و در کیش درس داد. در ۲۰۰۱ برای نمایش «Babelle Heureuse» به گروه رقص مونتالوو و اِرویو پیوست. سال‌ها بعد با نقیب و باسل رجوب، ساکسوفونیست سوری، قطعهٔ «مینا» را ساخت. مینا در عربی به معنای بندر است و حرکت‌های رقص بندری در این قطعه یادآور کار صیادان است.[^troupe][^archive][^teaching][^dance][^enc][^mina]
+
+شنبه‌زاده و پدرام درخشانی «شب‌های تهران» را در تهران ضبط کردند و دومینیک بلان‌فرانکار در پاریس آن را میکس کرد. در «بادا مبارک»، سعید تنظیم و نوازندگی ساکسوفون را بر عهده داشت، نقیب ساز کوبه‌ای زد و گروه برزیلی «فانک کومو لِ گوستا» با آنها همراه شد. پدر و پسر در برنامهٔ «Couleurs du monde» رادیوی فرانسه هم کنار هم اجرا کردند.[^tehran][^sax][^radio]

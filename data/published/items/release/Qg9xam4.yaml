@@ -17,11 +17,25 @@ statements:
       quote: Tabla Solo - song and lyrics by Karvan | Spotify
       accessed: '2026-11-21'
       locator: Page title
+  - value: Qxvwmgh
+    references:
+    - source: etniskmusikklubb.no-produkt-where-the-music-traditions-from-baluchistan-persia-and-india-meet
+      quote: Jamil Ahmad Magsi
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: tabla
   listen link:
   - value: https://open.spotify.com/track/0KKiqKPEHVaXdzzO5PHsSS
     references:
     - source: open.spotify.com-track-0kkiqkpehvaxdzzo5phsss
       quote: Tabla Solo - song and lyrics by Karvan | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1442843517
+    references:
+    - source: music.apple.com-us-song-1442843517
+      quote: ‎Tabla Solo - Song with Lyrics by KARVAN - Apple Music
       accessed: '2026-11-21'
       locator: Page title
   cover art:

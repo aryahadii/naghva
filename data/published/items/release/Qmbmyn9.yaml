@@ -42,6 +42,12 @@ statements:
       quote: Tehran · Naghib Shanbehzadeh
       accessed: 2026-11-21
       locator: Spotify record
+  - value: https://soundcloud.com/nag-1-1/tehran
+    references:
+    - source: soundcloud.com-nag-1-1-tehran
+      quote: Tehran
+      accessed: '2026-11-21'
+      locator: Artist’s SoundCloud recording
   release date:
   - value:
       date: '2024-01-24'

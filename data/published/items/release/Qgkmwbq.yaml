@@ -36,6 +36,12 @@ statements:
       quote: Ghazal - song and lyrics by Karvan | Spotify
       accessed: '2026-11-21'
       locator: Page title
+  - value: https://music.apple.com/us/song/1442843515
+    references:
+    - source: music.apple.com-us-song-1442843515
+      quote: ‎Ghazal - Song with Lyrics by KARVAN - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
   cover art:
   - value: https://i.scdn.co/image/ab67616d0000b273afa1b2956d8c6e4554784d11
     references:

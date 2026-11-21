@@ -30,6 +30,12 @@ statements:
       quote: I Am · Naghib Shanbehzadeh
       accessed: 2026-11-21
       locator: Spotify record
+  - value: https://soundcloud.com/nag-1-1/liberte
+    references:
+    - source: soundcloud.com-nag-1-1-liberte
+      quote: Liberté
+      accessed: '2026-11-21'
+      locator: Artist’s SoundCloud recording
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ac/52/16/ac5216c5-1c38-1361-01a4-652df12d1cef/859762392294_cover.jpg/1200x630bb.jpg
     references:

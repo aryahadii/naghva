@@ -30,3 +30,4 @@ Original performances and films on the musicians’ channel follow. Repeated pro
 - Man Cho Kapota Nalan - Soothing Balochi Song (Qs6tse6)
 - Bahar - بهار - Sensational Balochi Song (Qk7s3sz)
 - Bahar - A Balochi Song by Rostam Mirlashari - A Nostalgic Performance (Qbqhnjy)
+- Padik (early quartet’s original CD, Qawkmjp)

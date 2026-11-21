@@ -29,6 +29,28 @@ statements:
       quote: Javid Afsari Rad – Santor
       accessed: '2026-11-21'
       locator: Artist interview, biography or performance credits
+  - value: Qxvwmgh
+    references:
+    - source: etniskmusikklubb.no-produkt-where-the-music-traditions-from-baluchistan-persia-and-india-meet
+      quote: Jamil Ahmad Magsi
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: tabla
+  - value: Qhsqsdd
+    references:
+    - source: etniskmusikklubb.no-produkt-where-the-music-traditions-from-baluchistan-persia-and-india-meet
+      quote: Ghulam Muhammad
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Qset3q2
+    references:
+    - source: etniskmusikklubb.no-produkt-where-the-music-traditions-from-baluchistan-persia-and-india-meet
+      quote: Majid Hesabi
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: tombak
   release type:
   - value: album
     references:
@@ -49,6 +71,12 @@ statements:
     references:
     - source: open.spotify.com-album-6ea5qy5kzcfbv4apxazfrr
       quote: Listen to Karvan - Album by Karvan | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/karvan/1442843302
+    references:
+    - source: music.apple.com-us-album-karvan-1442843302
+      quote: ‎Karvan - Album by KARVAN - Apple Music
       accessed: '2026-11-21'
       locator: Page title
   cover art:

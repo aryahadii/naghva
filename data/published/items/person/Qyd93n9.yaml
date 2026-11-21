@@ -36,6 +36,24 @@ statements:
       quote: Listen to Saeid Shanbehzadeh Songs | Spotify
       accessed: 2026-11-21
       locator: Verified catalog identity
+  - value: https://www.youtube.com/@shanbehzadeh
+    references:
+    - source: www.youtube.com-watch-v-uyzj3gfzfmw
+      quote: https://www.youtube.com/@shanbehzadeh
+      accessed: '2026-11-21'
+      locator: Artist-published channel
+  - value: https://www.youtube.com/@saeidshanbehzadeh3762
+    references:
+    - source: www.youtube.com-watch-v-qg0fsjsdqsi
+      quote: https://www.youtube.com/@saeidshanbehzadeh3762
+      accessed: '2026-11-21'
+      locator: Artist-published channel
+  - value: https://soundcloud.com/saeid-shanbehzadeh
+    references:
+    - source: soundcloud.com-saeid-shanbehzadeh
+      quote: Saeid Shanbehzadeh
+      accessed: '2026-11-21'
+      locator: Original musician account
   member of:
   - value: Qdtxp3v
     references:

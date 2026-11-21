@@ -42,6 +42,18 @@ statements:
       quote: The Tide · Naghib Shanbehzadeh
       accessed: 2026-11-21
       locator: Spotify record
+  - value: https://soundcloud.com/nag-1-1/the-tide
+    references:
+    - source: soundcloud.com-nag-1-1-the-tide
+      quote: The Tide
+      accessed: '2026-11-21'
+      locator: Artist’s SoundCloud recording
+  - value: https://www.youtube.com/watch?v=XsfsaLxK-qQ
+    references:
+    - source: www.youtube.com-watch-v-xsfsalxk-qq
+      quote: Naghib Shanbehzadeh - The Tide
+      accessed: '2026-11-21'
+      locator: Artist-published performance film
   release date:
   - value:
       date: '2018-11-02'

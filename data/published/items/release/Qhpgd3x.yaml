@@ -1,0 +1,35 @@
+id: Qhpgd3x
+type: release
+statements:
+  name:
+  - value:
+      text: ensemble shanbehzadeh concert in kennedy center Washington Part 4
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-d0uz-t1ad5g
+      quote: ensemble shanbehzadeh concert in kennedy center Washington Part 4
+      accessed: '2026-11-21'
+      locator: Artist-published performance film
+  performer:
+  - value: Qyd93n9
+    references:
+    - *id001
+  - value: Qdtxp3v
+    references:
+    - *id001
+  listen link:
+  - value: https://www.youtube.com/watch?v=D0uz-T1aD5g
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/D0uz-T1aD5g/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-d0uz-t1ad5g
+      quote: https://i.ytimg.com/vi/D0uz-T1aD5g/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original film frame
+    qualifiers:
+      credit:
+        text: saeid shanbehzadeh
+        language: en

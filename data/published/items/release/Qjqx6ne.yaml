@@ -30,3 +30,26 @@ statements:
       quote: Ma Mastim
       accessed: 2026-11-21
       locator: Publisher programme or issuing artist, named performance
+  - value: https://soundcloud.com/saeid-shanbehzadeh/ma-mastim-master
+    references:
+    - source: soundcloud.com-saeid-shanbehzadeh-ma-mastim-master
+      quote: Saeid & Naghib Shanbehzadeh-Ma Mastim
+      accessed: '2026-11-21'
+      locator: Artist’s SoundCloud recording
+  - value: https://www.youtube.com/watch?v=vA4pAWtLhVw
+    references:
+    - source: www.youtube.com-watch-v-va4pawtlhvw
+      quote: نحن ثملون   ما مستیم‏    ‏ nous sommes ivres we are drunk
+      accessed: '2026-11-21'
+      locator: Artist-published performance film
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-000124273585-fg2rs1-large.jpg
+    references:
+    - source: soundcloud.com-saeid-shanbehzadeh-ma-mastim-master
+      quote: https://i1.sndcdn.com/artworks-000124273585-fg2rs1-large.jpg
+      accessed: '2026-11-21'
+      locator: Artist file artwork
+    qualifiers:
+      credit:
+        text: Saeid Shanbehzadeh / SoundCloud
+        language: en

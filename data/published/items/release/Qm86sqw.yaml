@@ -1,0 +1,38 @@
+id: Qm86sqw
+type: release
+statements:
+  name:
+  - value:
+      text: saeid shanbehzadeh play ney jofti in  Louvre Museum (Paris, France)
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-3hdsgjx5y1a
+      quote: saeid shanbehzadeh play ney jofti in  Louvre Museum (Paris, France)
+      accessed: '2026-11-21'
+      locator: Artist-published performance film
+  performer:
+  - value: Qyd93n9
+    references:
+    - *id001
+  listen link:
+  - value: https://www.youtube.com/watch?v=3HdSgjX5Y1A
+    references:
+    - *id001
+  - value: https://t.me/saeidshanbehzadeh/87
+    references:
+    - source: t.me-saeidshanbehzadeh-87
+      quote: اجراي ني جفتي توسط سعيد شنبه زاده در موزه لوور پاريس
+      accessed: '2026-11-21'
+      locator: Artist’s caption to recording
+  cover art:
+  - value: https://i.ytimg.com/vi/3HdSgjX5Y1A/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-3hdsgjx5y1a
+      quote: https://i.ytimg.com/vi/3HdSgjX5Y1A/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original film frame
+    qualifiers:
+      credit:
+        text: saeid shanbehzadeh
+        language: en

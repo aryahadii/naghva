@@ -1,0 +1,32 @@
+id: Qss6yw4
+type: release
+statements:
+  name:
+  - value:
+      text: Naghib Shanbehzadeh - Galop / Zarb , Tombak
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-p-kyziinsty
+      quote: Naghib Shanbehzadeh - Galop / Zarb , Tombak
+      accessed: '2026-11-21'
+      locator: Artist-published performance film
+  performer:
+  - value: Qvhrrm8
+    references:
+    - *id001
+  listen link:
+  - value: https://www.youtube.com/watch?v=p-KYziINSTY
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/p-KYziINSTY/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-p-kyziinsty
+      quote: https://i.ytimg.com/vi/p-KYziINSTY/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original film frame
+    qualifiers:
+      credit:
+        text: naghib shanbehzadeh
+        language: en

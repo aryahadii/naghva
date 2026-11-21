@@ -1,0 +1,32 @@
+id: Q7tvg4z
+type: release
+statements:
+  name:
+  - value:
+      text: Zarii
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-dqcvx299it0
+      quote: Zarii
+      accessed: '2026-11-21'
+      locator: Artist-published performance film
+  performer:
+  - value: Qyd93n9
+    references:
+    - *id001
+  listen link:
+  - value: https://www.youtube.com/watch?v=DqCVX299it0
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/DqCVX299it0/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-dqcvx299it0
+      quote: https://i.ytimg.com/vi/DqCVX299it0/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original film frame
+    qualifiers:
+      credit:
+        text: saeid shanbehzadeh
+        language: en

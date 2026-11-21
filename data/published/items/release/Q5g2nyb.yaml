@@ -1,0 +1,21 @@
+id: Q5g2nyb
+type: release
+statements:
+  name:
+  - value:
+      text: Yaran (Free)
+      language: en
+    references:
+    - &id001
+      source: t.me-saeidshanbehzadeh-53
+      quote: Yaran -Free. Music by Saeid shanbehzadeh features Funk Como le Gusta
+      accessed: '2026-11-21'
+      locator: Artist’s caption to recording
+  performer:
+  - value: Qyd93n9
+    references:
+    - *id001
+  listen link:
+  - value: https://t.me/saeidshanbehzadeh/53
+    references:
+    - *id001

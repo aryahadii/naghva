@@ -1,0 +1,32 @@
+id: Qtdxhda
+type: release
+statements:
+  name:
+  - value:
+      text: birth تولد
+      language: en
+    references:
+    - &id001
+      source: soundcloud-shanbehzadeh-214133696
+      quote: birth تولد
+      accessed: '2026-11-21'
+      locator: Artist’s SoundCloud recording
+  performer:
+  - value: Qyd93n9
+    references:
+    - *id001
+  listen link:
+  - value: https://soundcloud.com/saeid-shanbehzadeh/master-solo-ney-amban-2-bonne-version-16-bit-48-khz
+    references:
+    - *id001
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-000122834408-8s8boy-large.jpg
+    references:
+    - source: soundcloud-shanbehzadeh-214133696
+      quote: https://i1.sndcdn.com/artworks-000122834408-8s8boy-large.jpg
+      accessed: '2026-11-21'
+      locator: Artist file artwork
+    qualifiers:
+      credit:
+        text: Saeid Shanbehzadeh / SoundCloud
+        language: en

@@ -70,10 +70,14 @@ references:
     quote: Ava Arehsazan (oud)
     locator: Original programme, liner notes or performer credit
     accessed: '2026-11-21'
+  avavideo:
+    source: www.youtube.com-watchv-5k_1ajnf5tu
+    quote: 'Ava Arehsazan : oud'
+    locator: Original programme, liner notes or performer credit
+    accessed: '2026-11-21'
 ---
-
 Rokh Quartet grew from a meeting in Geneva between tar player Sogol Mirzaei and singer and percussionist Hossein Rad. Both were born in Tehran. At the Ateliers d’ethnomusicologie they discovered a shared interest in playing classical repertoire more freely. In 2021 they founded the quartet, taking a name that means “face” in Persian and also evokes a legendary bird.[^meeting][^birth][^founding][^name]
 
 At the 2022 Festival of Sacred Music in Fribourg, Mirzaei’s tar and Rad’s voice and percussion were joined by Sina Danesh on kamancheh and Yasamin Shahhosseini on oud. They played “Kashgar” and “Bostântchi”. The quartet drew on song traditions beyond Iran, including the Central Asian Shashmaqam repertoire. At a 2024 Paris concert Ava Arehsazan played oud on an arrangement of a Tajik song setting a poem by Hafez.[^members][^festival][^piece][^repertoire][^paris]
 
-Two different quartets can be heard on the recordings issued in 2025. The studio album Bostântchi has solo pieces for tar, kamancheh and oud alongside full-ensemble arrangements. Live in Tehran was recorded later and reached digital services first. Sanaz Sattarzadeh played tar at the Tehran session and Shahhosseini played oud. In December, for a Yalda broadcast on France Musique, Sattarzadeh, Danesh and Rad played “Araq” and “Bostântchi” with Arehsazan on oud.[^album][^order][^lineup][^radio][^oud]
+Two different quartets can be heard on the recordings issued in 2025. The studio album Bostântchi has solo pieces for tar, kamancheh and oud alongside full-ensemble arrangements. Live in Tehran was recorded later and reached digital services first. Sanaz Sattarzadeh played tar in Tehran. The quartet’s films credit Shahhosseini on oud for “Bousalik” and Arehsazan for the Tajik song “Taze be Taze.”[^avavideo] In December, for a Yalda broadcast on France Musique, Sattarzadeh, Danesh and Rad played “Araq” and “Bostântchi” with Arehsazan on oud.[^album][^order][^lineup][^radio][^oud]

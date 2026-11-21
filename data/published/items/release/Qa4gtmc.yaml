@@ -30,6 +30,12 @@ statements:
       quote: Blue - Single · Naghib Shanbehzadeh · 2020-09-11
       accessed: 2026-11-21
       locator: Album billing and date
+  - value: https://soundcloud.com/nag-1-1/blue
+    references:
+    - source: soundcloud.com-nag-1-1-blue
+      quote: BLUE
+      accessed: '2026-11-21'
+      locator: Artist’s SoundCloud recording
   release date:
   - value:
       date: '2020-09-11'

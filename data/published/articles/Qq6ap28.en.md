@@ -85,9 +85,19 @@ references:
     quote: Tasnif Qadimi (unknown composer) and Reng by Alinaghi Vaziri
     locator: Original programme, liner notes or performer credit
     accessed: '2026-11-21'
+  milad:
+    source: www.iranboom.ir-tazeh-ha-sp-285929972-khabar-8253-1391-08-17-16-24-29.html
+    quote: سال 1390 در سالن میلاد نمایشگاه بین المللی تهران
+    locator: Original programme, liner notes or performer credit
+    accessed: '2026-11-21'
+  performance:
+    source: www.iranboom.ir-tazeh-ha-sp-285929972-khabar-8253-1391-08-17-16-24-29.html
+    quote: سینا دانش (کمانچه)
+    locator: Original programme, liner notes or performer credit
+    accessed: '2026-11-21'
 ---
 
-Sina Danesh is an Iranian kamancheh player born in Qaemshahr in 1987. At eight he began his training with Moussa Mohammadi and later studied with Ahmad Mohsenpour. He was twelve when he won first prize in the youth competition at the Fajr music festival. He went on to study Iranian instrumental performance at the University of Art in Tehran. In 2008 he joined the Sheyda ensemble of Mohammad Reza Lotfi. Among the recordings he made with the group are Shadow of the Soul and Art of the Time Scale.[^s1][^s2][^s3][^s4][^s5][^s6][^s7]
+Sina Danesh is an Iranian kamancheh player born in Qaemshahr in 1987. At eight he began his training with Moussa Mohammadi and later studied with Ahmad Mohsenpour. He was twelve when he won first prize in the youth competition at the Fajr music festival. He went on to study Iranian instrumental performance at the University of Art in Tehran. In 2008 he joined the Sheyda ensemble of Mohammad Reza Lotfi. Among the recordings he made with the group are Shadow of the Soul and Art of the Time Scale.[^s1][^s2][^s3][^s4][^s5][^s6][^s7] Avaye Sheyda released a film of the group’s 2011 Milad Hall concert in Tehran. Danesh and fellow kamancheh players accompanied the singer Alireza Fereidunpur in the ensemble section, which followed Lotfi’s tar improvisation.[^milad][^performance]
 
 After Lotfi died, Danesh and five other musicians from his circle founded the Aan Ensemble. The musicians took turns leading their own programmes. For Bright Sun he played kamancheh in Aria Mohafez’s lament for their teacher. For Sanaz Sattarzadeh’s Neshan he played with ney player Houshmand Ebadi in a duet whose melody leads back into the ensemble. Away from these large groups, he also recorded an unaccompanied performance in Segah, one of the modes of Persian classical music.[^s8][^s9][^s10][^s11][^s12][^s13]
 

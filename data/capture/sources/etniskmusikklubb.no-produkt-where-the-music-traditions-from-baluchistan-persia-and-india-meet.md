@@ -28,3 +28,43 @@ Artist interview, biography or performance credits, read 2026-11-21.
 > Where The Music Traditions From Baluchistan, Persia And India Meet – Etnisk Musikklubb
 
 Page title, read 2026-11-21.
+
+> Jamil Ahmad Magsi
+
+Artist interview, biography or performance credits, read 2026-11-21.
+
+> Ghulam Muhammad
+
+Artist interview, biography or performance credits, read 2026-11-21.
+
+> Javid Afsari Rad
+
+Artist interview, biography or performance credits, read 2026-11-21.
+
+> Abdulrahman Surizehi
+
+Artist interview, biography or performance credits, read 2026-11-21.
+
+> Majid Hesabi
+
+Artist interview, biography or performance credits, read 2026-11-21.
+
+> Jamil Ahmad Magsi – Doholak and Tabla
+
+Artist interview, biography or performance credits, read 2026-11-21.
+
+> Ghulam Muhammad – Tanburag
+
+Artist interview, biography or performance credits, read 2026-11-21.
+
+> Majid Hesabi – Tombak
+
+Artist interview, biography or performance credits, read 2026-11-21.
+
+> two are from Baluchistan
+
+Artist interview, biography or performance credits, read 2026-11-21.
+
+> Sufi trance music from Baluchistan
+
+Artist interview, biography or performance credits, read 2026-11-21.

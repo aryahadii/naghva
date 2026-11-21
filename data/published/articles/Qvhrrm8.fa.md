@@ -45,8 +45,30 @@ references:
     quote: Tokyo Train · Camille El Bacha, Naghib Shanbehzadeh
     accessed: 2026-11-21
     locator: Track credits
+  arr:
+    source: t.me-saeidshanbehzadeh-470
+    quote: تنظيم نقيب شنبه زاده بر اساس تمي از محمد منصور وزيري
+    locator: Artist’s original theme and arrangement credit
+    accessed: '2026-11-21'
+  tiva:
+    source: soundcloud.com-nag-1-1-naghibsaied-shanbehzadeh-tiva
+    quote: 'Turkish saz : Nese Ulas'
+    locator: Original musician credits
+    accessed: '2026-11-21'
+  singer:
+    source: soundcloud.com-nag-1-1-naghibsaied-shanbehzadeh-tiva
+    quote: 'vocal : Saeid Shanbehzadeh'
+    locator: Original musician credits
+    accessed: '2026-11-21'
+  sax:
+    source: t.me-saeidshanbehzadeh-54
+    quote: Arrange & Sax ,Saeid Shanbehzadeh, percutions Naghib shanbehzadeh,& Funk Como le Gusta
+    locator: Artist’s credits for Bada Mobarak
+    accessed: '2026-11-21'
 ---
 
 نقیب شنبه‌زاده ساز کوبه‌ای را در بوشهر و کیش در کنار پدرش سعید شروع کرد و از ده‌سالگی عضو ثابت گروه او شد. تمبک را هم نزد محمود فرهمند آموخت. پدر و پسر گاه به‌تنهایی یک کنسرت کامل را پیش می‌بردند. در جشنوارهٔ اورینت تالین در ۲۰۰۹، نقیب تمبک و ضرب تمپو می‌زد و سعید نی‌انبان، نی‌جفتی و دمام می‌نواخت.[^early][^perc][^est]
 
 در «مینا» برای برنامهٔ «Sound: The Encounter»، نقیب با پدرش و باسل رجوب در آهنگ‌سازی شریک بود. در آلبوم کوبه‌ای خودش برای سوپرپیچ، دست‌زدن را با وزن‌های بندری، شکی و چوپی ترکیب کرد. در «Loop Tales» طرف همکاری‌اش کامیل الباشا بود؛ نام هر دو پای قطعاتی از جمله «Tokyo Train» آمده است.[^enc][^mina][^beats][^hand][^label][^loop]
+
+نقیب «تیوا» را بر پایهٔ مایه‌ای از محمدمنصور وزیری تنظیم کرد. سعید آن را خواند و نِشه اولاش، نوازندهٔ ساز ترکی، همراهی‌اش کرد. در «بادا مبارک» هم نقیب ساز کوبه‌ای می‌زد و پدرش با تنظیم و ساکسوفون در کنار گروه برزیلی «فانک کومو لِ گوستا» حضور داشت.[^arr][^tiva][^singer][^sax]

@@ -67,8 +67,8 @@ references:
     locator: Artist’s discography, release date
 ---
 
-Rostam Mirlashari took the songs of his home in Iranian Balochistan to Stockholm, where he studied at the Royal College of Music. He founded the eight-piece Golbang in 1994. In Padik he sang alongside the benju of Abdulrahman Surizehi and the Hardanger fiddle of Anne Hytta; a BBC performance of “Nouruz” survives in the group’s archive. He was also the singer and a songwriter on “In My Dreams (Mani armani taha)” at Sweden’s Melodifestivalen in 2007.[^college][^gol][^fiddle][^shows][^projects]
+Born in Zahedan, Rostam Mirlashari arrived in Sweden as a refugee in 1991 and studied at Stockholm’s Royal College of Music.[^zahed][^swede][^college] He founded the eight-piece Golbang in 1994. In Padik he sang alongside the benju of Abdulrahman Surizehi and the Hardanger fiddle of Anne Hytta; a BBC performance of “Nouruz” survives in the group’s archive. He was also the singer and a songwriter on “In My Dreams (Mani armani taha)” at Sweden’s Melodifestivalen in 2007.[^college][^gol][^fiddle][^shows][^projects] In 2013 he sang “Laila O Laila” on Coke Studio in Pakistan.[^coke]
 
 Mirlashari worked on both sides of the stage. In 2000 he produced the touring festival *Culture in Exile*. From autumn 2016 he worked with Saeid Shanbehzadeh and his ensemble, joining music from Balochistan with the music of Bushehr in concerts in New York and San Francisco. He recorded *Pour-Afrigha* with Saeid and Naghib; it appeared in 2017.[^press][^africa]
 
-Born in Zahedan, Mirlashari arrived in Sweden as a refugee in 1991. In 2013 he sang “Laila O Laila” on Coke Studio in Pakistan. When the Swedish Arts Grants Committee rang about his award in December 2021, he told them the pandemic had disrupted the planned presentation of his first solo album. *Rozhnak* came out the following year.[^zahed][^swede][^award][^delay][^coke][^roz]
+In December 2021 the Swedish Arts Grants Committee rang to tell him about his award. Mirlashari told them the pandemic had disrupted the planned presentation of his first solo album. *Rozhnak* came out the following year.[^award][^delay][^roz]

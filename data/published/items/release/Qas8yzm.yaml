@@ -1,0 +1,38 @@
+id: Qas8yzm
+type: release
+statements:
+  name:
+  - value:
+      text: Naghib Shanbehzadeh - Kale Pouk
+      language: en
+    references:
+    - &id001
+      source: soundcloud.com-nag-1-1-naghib-shanbehzadeh-kale-pok
+      quote: Naghib Shanbehzadeh - Kale Pouk
+      accessed: '2026-11-21'
+      locator: Artist’s SoundCloud recording
+  performer:
+  - value: Qvhrrm8
+    references:
+    - *id001
+  listen link:
+  - value: https://soundcloud.com/nag-1-1/naghib-shanbehzadeh-kale-pok
+    references:
+    - *id001
+  - value: https://www.youtube.com/watch?v=1FzK8l_a0rw
+    references:
+    - source: www.youtube.com-watch-v-1fzk8l_a0rw
+      quote: Naghib Shanbehzadeh - Kale Pouk
+      accessed: '2026-11-21'
+      locator: Artist-published performance film
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-000044674486-lnrbm8-large.jpg
+    references:
+    - source: soundcloud.com-nag-1-1-naghib-shanbehzadeh-kale-pok
+      quote: https://i1.sndcdn.com/artworks-000044674486-lnrbm8-large.jpg
+      accessed: '2026-11-21'
+      locator: Artist file artwork
+    qualifiers:
+      credit:
+        text: Naghib Shanbehzadeh / SoundCloud
+        language: en

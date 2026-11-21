@@ -1,0 +1,32 @@
+id: Qw26pzt
+type: release
+statements:
+  name:
+  - value:
+      text: Iran Boushehr music saeid  shanbehzadeh 1موسیقی بوشهر شنبه زاده
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-1hu2gcltq_u
+      quote: Iran Boushehr music saeid  shanbehzadeh 1موسیقی بوشهر شنبه زاده
+      accessed: '2026-11-21'
+      locator: Artist-published performance film
+  performer:
+  - value: Qyd93n9
+    references:
+    - *id001
+  listen link:
+  - value: https://www.youtube.com/watch?v=1HU2GClTq_U
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/1HU2GClTq_U/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-1hu2gcltq_u
+      quote: https://i.ytimg.com/vi/1HU2GClTq_U/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original film frame
+    qualifiers:
+      credit:
+        text: saeid shanbehzadeh
+        language: en

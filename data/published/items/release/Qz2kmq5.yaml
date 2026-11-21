@@ -1,0 +1,32 @@
+id: Qz2kmq5
+type: release
+statements:
+  name:
+  - value:
+      text: Naghib Shanbehzadeh Solo Le Voyage at Opera of Francfurt ( Woman , Life , Freedom benefit Concert )
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-4k0vkstbh3a
+      quote: Naghib Shanbehzadeh Solo Le Voyage at Opera of Francfurt ( Woman , Life , Freedom benefit Concert )
+      accessed: '2026-11-21'
+      locator: Artist-published performance film
+  performer:
+  - value: Qvhrrm8
+    references:
+    - *id001
+  listen link:
+  - value: https://www.youtube.com/watch?v=4k0VkstbH3A
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/4k0VkstbH3A/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-4k0vkstbh3a
+      quote: https://i.ytimg.com/vi/4k0VkstbH3A/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original film frame
+    qualifiers:
+      credit:
+        text: naghib shanbehzadeh
+        language: en

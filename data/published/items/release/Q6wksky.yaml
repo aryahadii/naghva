@@ -42,6 +42,18 @@ statements:
       quote: Pour-Afrigha · Saeid Shanbehzadeh
       accessed: 2026-11-21
       locator: Spotify record
+  - value: https://soundcloud.com/nag-1-1/makran-naghib-shanbehzadeh
+    references:
+    - source: soundcloud.com-nag-1-1-makran-naghib-shanbehzadeh
+      quote: Makran
+      accessed: '2026-11-21'
+      locator: Artist’s SoundCloud recording
+  - value: https://t.me/saeidshanbehzadeh/472
+    references:
+    - source: t.me-saeidshanbehzadeh-472
+      quote: Naghib Shanbehzadeh - Makran
+      accessed: '2026-11-21'
+      locator: Artist’s caption to recording
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/c0/61/af/c061afca-da0a-3138-c0ed-f35096c5a7bc/cover.jpg/1200x630bb.jpg
     references:

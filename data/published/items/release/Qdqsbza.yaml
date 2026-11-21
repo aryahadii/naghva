@@ -17,11 +17,25 @@ statements:
       quote: Tombak Solo - song and lyrics by Karvan | Spotify
       accessed: '2026-11-21'
       locator: Page title
+  - value: Qset3q2
+    references:
+    - source: etniskmusikklubb.no-produkt-where-the-music-traditions-from-baluchistan-persia-and-india-meet
+      quote: Majid Hesabi
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: tombak
   listen link:
   - value: https://open.spotify.com/track/720Mgqh6z8kQGHd9scq2fy
     references:
     - source: open.spotify.com-track-720mgqh6z8kqghd9scq2fy
       quote: Tombak Solo - song and lyrics by Karvan | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1442843525
+    references:
+    - source: music.apple.com-us-song-1442843525
+      quote: ‎Tombak Solo - Song with Lyrics by KARVAN - Apple Music
       accessed: '2026-11-21'
       locator: Page title
   cover art:

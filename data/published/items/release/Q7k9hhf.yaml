@@ -1,0 +1,35 @@
+id: Q7k9hhf
+type: release
+statements:
+  name:
+  - value:
+      text: Saeid and Naghib Shanbehzadeh in Radio France Musique, Couleurs du monde
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-qg0fsjsdqsi
+      quote: Saeid and Naghib Shanbehzadeh in Radio France Musique, Couleurs du monde
+      accessed: '2026-11-21'
+      locator: Artist-published performance film
+  performer:
+  - value: Qyd93n9
+    references:
+    - *id001
+  - value: Qvhrrm8
+    references:
+    - *id001
+  listen link:
+  - value: https://www.youtube.com/watch?v=qG0fSjSdQSI
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/qG0fSjSdQSI/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-qg0fsjsdqsi
+      quote: https://i.ytimg.com/vi/qG0fSjSdQSI/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original film frame
+    qualifiers:
+      credit:
+        text: saeid shanbehzadeh
+        language: en

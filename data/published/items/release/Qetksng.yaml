@@ -1,0 +1,35 @@
+id: Qetksng
+type: release
+statements:
+  name:
+  - value:
+      text: shanbehzadeh ensemble zâr cremony .mp4
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-ydhkwdqw0ya
+      quote: shanbehzadeh ensemble zâr cremony .mp4
+      accessed: '2026-11-21'
+      locator: Artist-published performance film
+  performer:
+  - value: Qyd93n9
+    references:
+    - *id001
+  - value: Qdtxp3v
+    references:
+    - *id001
+  listen link:
+  - value: https://www.youtube.com/watch?v=ydhkWDQw0YA
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/ydhkWDQw0YA/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-ydhkwdqw0ya
+      quote: https://i.ytimg.com/vi/ydhkWDQw0YA/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original film frame
+    qualifiers:
+      credit:
+        text: saeid shanbehzadeh
+        language: en

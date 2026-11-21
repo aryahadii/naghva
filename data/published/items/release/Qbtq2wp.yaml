@@ -1,0 +1,30 @@
+id: Qbtq2wp
+type: release
+statements:
+  name:
+  - value:
+      text: Bada Mobarak
+      language: en
+    references:
+    - &id001
+      source: t.me-saeidshanbehzadeh-54
+      quote: Bada Mobarak. Arrange & Sax ,Saeid Shanbehzadeh, percutions Naghib shanbehzadeh,& Funk Como le Gusta
+      accessed: '2026-11-21'
+      locator: Artist’s caption to recording
+  performer:
+  - value: Qyd93n9
+    references:
+    - *id001
+  - value: Qvhrrm8
+    references:
+    - *id001
+  listen link:
+  - value: https://t.me/saeidshanbehzadeh/54
+    references:
+    - *id001
+  - value: https://t.me/saeidshanbehzadeh/384
+    references:
+    - source: t.me-saeidshanbehzadeh-384
+      quote: بادا مبارك تنظيم و ساكسفون آلتو سعيد شنبه زاده، پركاشن نقيب شنبه زاده با همكاري گروه فانكومو لو گوستا از برزيل ضبط ٢٠١٦
+      accessed: '2026-11-21'
+      locator: Artist’s caption to recording

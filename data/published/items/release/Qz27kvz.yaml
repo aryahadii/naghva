@@ -30,6 +30,18 @@ statements:
       quote: Woap - Single · Naghib Shanbehzadeh · 2016-11-27
       accessed: 2026-11-21
       locator: Album billing and date
+  - value: https://soundcloud.com/nag-1-1/naghib-shanbehzadeh-woap
+    references:
+    - source: soundcloud.com-nag-1-1-naghib-shanbehzadeh-woap
+      quote: Naghib Shanbehzadeh - Woap
+      accessed: '2026-11-21'
+      locator: Artist’s SoundCloud recording
+  - value: https://www.youtube.com/watch?v=m-OWzZrH_yQ
+    references:
+    - source: www.youtube.com-watch-v-m-owzzrh_yq
+      quote: Naghib Shanbehzadeh - Woap
+      accessed: '2026-11-21'
+      locator: Artist-published performance film
   release date:
   - value:
       date: '2016-11-27'

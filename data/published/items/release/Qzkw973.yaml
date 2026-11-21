@@ -17,6 +17,12 @@ statements:
       quote: Bala Bala · Pedram Derakhshani, Saeid Shanbehzadeh
       accessed: 2026-11-21
       locator: Track 1
+  - value: Qgw68ms
+    references:
+    - source: www.iranian.com-music-tehrannights
+      quote: Pedram Derakhshani and Saeed Shanbehzadeh collaborate on this album
+      accessed: '2026-11-21'
+      locator: The two musicians on the original 2006 recording
   listen link:
   - value: https://open.spotify.com/track/7oNJSNiGBAY8vUVrZLGFiL
     references:
@@ -24,3 +30,20 @@ statements:
       quote: Bala Bala · Pedram Derakhshani, Saeid Shanbehzadeh
       accessed: 2026-11-21
       locator: Track 1
+  - value: https://soundcloud.com/nag-1-1/saeid-shanbehzadeh-bala-bala
+    references:
+    - source: soundcloud.com-nag-1-1-saeid-shanbehzadeh-bala-bala
+      quote: Saeid Shanbehzadeh-Bala Bala
+      accessed: '2026-11-21'
+      locator: Artist’s SoundCloud recording
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-000032111491-t4hahh-large.jpg
+    references:
+    - source: soundcloud.com-nag-1-1-saeid-shanbehzadeh-bala-bala
+      quote: https://i1.sndcdn.com/artworks-000032111491-t4hahh-large.jpg
+      accessed: '2026-11-21'
+      locator: Artist file artwork
+    qualifiers:
+      credit:
+        text: Naghib Shanbehzadeh / SoundCloud
+        language: en

@@ -1,0 +1,41 @@
+id: Qjmdrt7
+type: release
+statements:
+  name:
+  - value:
+      text: Derya Tifounenدریا طیفونن
+      language: en
+    references:
+    - &id001
+      source: soundcloud.com-saeid-shanbehzadeh-derya-tifounen
+      quote: Derya Tifounenدریا طیفونن
+      accessed: '2026-11-21'
+      locator: Artist’s SoundCloud recording
+  performer:
+  - value: Qyd93n9
+    references:
+    - *id001
+  - value: Qvhrrm8
+    references:
+    - *id001
+  - value: Q3gnyyx
+    references:
+    - source: soundcloud.com-saeid-shanbehzadeh-derya-tifounen
+      quote: Santi Debriano
+      accessed: '2026-11-21'
+      locator: Named contributor to track
+  listen link:
+  - value: https://soundcloud.com/saeid-shanbehzadeh/derya-tifounen
+    references:
+    - *id001
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-000168070551-5htlyy-large.jpg
+    references:
+    - source: soundcloud.com-saeid-shanbehzadeh-derya-tifounen
+      quote: https://i1.sndcdn.com/artworks-000168070551-5htlyy-large.jpg
+      accessed: '2026-11-21'
+      locator: Artist file artwork
+    qualifiers:
+      credit:
+        text: Saeid Shanbehzadeh / SoundCloud
+        language: en

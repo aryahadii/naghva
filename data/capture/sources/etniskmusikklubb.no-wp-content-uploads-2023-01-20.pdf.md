@@ -12,3 +12,11 @@ status: processed
 > the recording is from our concert in Oslo in 1998.
 
 Artist interview, biography or performance credits, read 2026-11-21.
+
+> known each other since 1987
+
+Artist interview, biography or performance credits, read 2026-11-21.
+
+> The recording has two parts
+
+Artist interview, biography or performance credits, read 2026-11-21.

@@ -17,6 +17,34 @@ statements:
       quote: 'Iran: Musiques du Golfe Persique · Saeid Shanbehzadeh · 2009-08-24'
       accessed: 2026-11-21
       locator: Album billing and date
+  - value: Qdtxp3v
+    references:
+    - source: rythmes-croises.org-saeid-shanbehzadeh-de-lafrique-au-persique
+      quote: Saeid SHANBEHZADEH et son ensemble offrent sur cet album
+      accessed: '2026-11-21'
+      locator: 2009 Buda ensemble billing
+  - value: Qvhrrm8
+    references:
+    - source: rythmes-croises.org-saeid-shanbehzadeh-de-lafrique-au-persique
+      quote: Saeid et Naghib SHANBEHZADEH y sont accompagnés par Mahmoud BARDAKÂNIA
+      accessed: '2026-11-21'
+      locator: 2009 Buda record personnel
+    qualifiers:
+      role: percussion
+  - value: Q9ag4qn
+    references:
+    - source: rythmes-croises.org-saeid-shanbehzadeh-de-lafrique-au-persique
+      quote: Mahmoud BARDAKÂNIA
+      accessed: '2026-11-21'
+      locator: Buda dammam credit
+  - value: Q3wmhjv
+    references:
+    - source: rythmes-croises.org-saeid-shanbehzadeh-de-lafrique-au-persique
+      quote: Abdollah Moghateli MOTLAGH
+      accessed: '2026-11-21'
+      locator: Buda vocal credit
+    qualifiers:
+      role: vocals
   listen link:
   - value: https://music.apple.com/us/album/iran-musiques-du-golfe-persique/329490635
     references:
