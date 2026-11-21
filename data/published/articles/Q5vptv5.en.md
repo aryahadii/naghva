@@ -5,37 +5,47 @@ references:
     quote: |-
       Rojin Sharafi (b. 1995, Tehran) is a sound artist and composer of acoustic, electro-acoustic and electronic music based in Vienna.
     accessed: '2026-10-19'
-  album:
+  early:
+    source: www.musicexport.at-i-want-to-perceive-coincidence-as-an-aesthetic-of-improvisation-rojin-sharafi
+    quote: |-
+      I composed acoustic music until I was 20. Only then did I start with electro-acoustic compositions.
+    accessed: '2026-11-21'
+  composition:
     source: rojinsharafi.bandcamp.com-album-urns-waiting-to-be-fed-e10eafd14612
     quote: |-
-      Urns Waiting To Be Fed by Rojin Sharafi
+      Composed by Rojin Sharafi
     accessed: '2026-10-19'
   date:
     source: rojinsharafi.bandcamp.com-album-urns-waiting-to-be-fed-e10eafd14612
     quote: |-
       released September 6, 2019
     accessed: '2026-10-19'
-  composition:
-    source: rojinsharafi.bandcamp.com-album-urns-waiting-to-be-fed-e10eafd14612
-    quote: |-
-      Composed by Rojin Sharafi
-    accessed: '2026-10-19'
   sound:
     source: rojinsharafi.bandcamp.com-album-urns-waiting-to-be-fed-e10eafd14612
     quote: |-
       Folklore elements and microtonality of traditional instruments mingle with synthesisers and electronic defamiliarised sounds
     accessed: '2026-10-19'
-  visual:
-    source: rojinsharafi.bandcamp.com-album-urns-waiting-to-be-fed-e10eafd14612
+  poems:
+    source: www.musicexport.at-i-want-to-perceive-coincidence-as-an-aesthetic-of-improvisation-rojin-sharafi
     quote: |-
-      Photography by Hessam Samavatian Design by Arash Bolouri ZS004
-    accessed: '2026-10-19'
+      poems inspire the eight pieces on the album.
+    accessed: '2026-11-21'
+  later:
+    source: rojinsharafi.bandcamp.com-album-zangaar
+    quote: |-
+      30 Oct 2020 00:00:00 GMT
+    accessed: '2026-11-21'
+  title:
+    source: rojinsharafi.bandcamp.com-album-zangaar
+    quote: |-
+      Zangaar is the dust of time that covers memories and mirrors.
+    accessed: '2026-11-21'
 ---
 
-Rojin Sharafi, born in Tehran in 1995, is a Vienna-based sound artist and composer working with acoustic, electroacoustic and electronic music.[^bio]
+Rojin Sharafi is a composer and sound artist born in Tehran in 1995 and based in Vienna. She composed for acoustic instruments until she was twenty, then began working with electronics.[^bio][^early]
 
-## Urns Waiting To Be Fed
+## From instruments to electronics
 
-*[Urns Waiting To Be Fed](#urns-waiting-to-be-fed-kmy)* was released on September 6, 2019, with Sharafi credited as composer. The official description places folklore elements and the microtonality of traditional instruments alongside synthesisers and electronically transformed sounds.[^album][^date][^composition][^sound]
+For her 2019 album *[Urns Waiting To Be Fed](#urns-waiting-to-be-fed-kmy)*, Sharafi combined sounds from folklore and the microtones of traditional instruments with synthesizers and electronically altered sounds.[^composition][^date][^sound]
 
-The visual credits name Hessam Samavatian for photography and Arash Bolouri for design. Its catalogue number is ZS004.[^visual]
+Poetry gave Sharafi the starting point for the eight pieces on *[Zangaar](#zangaar-z95)* in 2020. She compared the passage of time to a layer of dust settling on both mirrors and memories.[^poems][^later][^title]
