@@ -133,13 +133,20 @@ The expansion started at revision fa6c29ca with 124 bilingual artist pages. The 
 | ArtSaves | Qw9zs9g | 9.2/10 | [Independent review](artsaves-independent-review.md) |
 | Mohsen Sharifian | Qa744p5 | 9.2/10 | [Independent review](mohsen-sharifian-independent-review.md) |
 | Lian Music Band | Qdgssxh | 9.2/10 | [Independent review](lian-music-band-independent-review.md) |
-| Regard Persan | Q9cyea8 | Pending | [Catalogue](regard-persan.md) |
-| Liana Sharifian | Qwk3rke | Pending | [Catalogue](liana-sharifian.md) |
-| XEEN | Qb5hnjh | Pending | [Catalogue](xeen.md) |
-| The Finches | Qnw83g7 | Pending | [Catalogue](the-finches.md) |
-| Stereotype | Q6g9xwf | Pending | [Catalogue](stereotype.md) |
+| Regard Persan | Q9cyea8 | 9.2/10 | [Independent review](artist-page-scores.md) |
+| Liana Sharifian | Qwk3rke | 9.2/10 | [Independent review](liana-sharifian-independent-review.md) |
+| XEEN | Qb5hnjh | 9.2/10 | [Independent review](artist-page-scores.md) |
+| The Finches | Qnw83g7 | 9.2/10 | [Independent review](the-finches-independent-review.md) |
+| Stereotype | Q6g9xwf | 9.2/10 | [Independent review](stereotype-independent-review.md) |
 | Farshad Mohammadi | Qdqq7t4 | Pending | [Catalogue](farshad-mohammadi.md) |
-| Barbad Project | Q4kxyfv | Pending | [Catalogue](barbad-project.md) |
-| Reza Mohsenipour | Q2pj5vj | Pending | [Catalogue](reza-mohsenipour.md) |
+| Barbad Project | Q4kxyfv | 9.2/10 | [Independent review](barbad-project-independent-review.md) |
+| Reza Mohsenipour | Q2pj5vj | 9.2/10 | [Independent review](reza-mohsenipour-independent-review.md) |
+| Ensamble Didar | Qcabd29 | Pending | [Catalogue](ensamble-didar.md) |
+| Meshcut | Qh6s4f5 | Pending | [Catalogue](meshcut.md) |
+| Salvaation | Q8v6j5h | Pending | [Catalogue](salvaation.md) |
+| Manushan | Qqfjk4z | Pending | [Catalogue](manushan.md) |
+| Aïda Nosrat | Qnbf3sx | Pending | [Catalogue](aida-nosrat.md) |
+| Babak Amir Mobasher | Qp74mve | Pending | [Catalogue](babak-amir-mobasher.md) |
+| Atine | Qbtpw7v | Pending | [Catalogue](atine.md) |
 
 The [discovery list](independent-artist-discovery.md) contains candidates with release leads. Some will prove ineligible or match an existing artist by another spelling. Only new artist pages count toward the target.

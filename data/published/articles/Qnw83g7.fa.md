@@ -60,10 +60,27 @@ references:
     quote: all-female underground indie rock band
     accessed: '2026-11-21'
     locator: Artist interview, biography or performance credits
+  lineup:
+    source: www.bmeia.gv.at-fileadmin-user_upload-zentrale-kultur-publikationen-aki2019.pdf
+    quote: Ava Rasti, Asal Maleki, Tara Saidi, Zhina Ardalan
+    accessed: '2026-11-21'
+    locator: Artist interview, biography or performance credits
+  exhibit:
+    source: yourmomsagency.com-files-2021-07-various-artists-from-berlin-music-in-exile-goethe-institut-gulf-region.pdf
+    quote: For The Finches, it is about learning how to belong
+    accessed: '2026-11-21'
+    locator: Artist interview, biography or performance credits
+  curator:
+    source: yourmomsagency.com-files-2021-07-various-artists-from-berlin-music-in-exile-goethe-institut-gulf-region.pdf
+    quote: Nadia Says is a music curator
+    accessed: '2026-11-21'
+    locator: Artist interview, biography or performance credits
 ---
 
 گروه زیرزمینی The Finches را زنان نوازندهٔ ایندی‌راک در تابستان ۲۰۱۵ در تهران تشکیل دادند.[^genre] نخستین خواننده و نوازندهٔ درامز در زمستان همان سال رفتند. در ۲۰۱۶ ژینا اردلان در گروه می‌خواند و گیتار می‌زد. به روایت اعضا، نخستین تک‌آهنگشان «Ocean» تابستان همان سال منتشر شد. اجراهای اولیه‌شان در فضاهای زیرزمینی تهران بود.[^start][^change][^ocean][^zhina][^stage]
 
-ضبط نخستین آلبوم کوتاه گروه، [*Psychodelan*](#psychodelan-rs9)، در ۲۰۱۸ آغاز شد. بهار سال بعد، «Run run run» نخستین موزیک‌ویدئوی گروه شد. اعضا علاوه بر اجراهای خصوصی، در انجمن فرهنگی اتریش در تهران هم روی صحنه رفتند. پس از انتشار آلبوم، نوازندهٔ درامز گروه را ترک کرد و سایر اعضا به ساختن قطعه با ضرب‌های الکترونیک روی آوردند.[^video][^stage][^departure]
+ضبط نخستین آلبوم کوتاه گروه، [*Psychodelan*](#psychodelan-rs9)، در ۲۰۱۸ آغاز شد. بهار سال بعد، «Run run run» نخستین موزیک‌ویدئوی گروه شد. گزارش سال ۲۰۱۹ انجمن فرهنگی اتریش نام چهار نوازنده را برای کنسرت تهران ثبت کرده است: آوا راستی، عسل ملکی، تارا سعیدی و ژینا اردلان.[^lineup] پس از انتشار آلبوم، نوازندهٔ درامز گروه را ترک کرد و سایر اعضا به ساختن قطعه با ضرب‌های الکترونیک روی آوردند.[^video][^stage][^departure]
 
 اردلان و عسل ملکی کار گروه را ادامه دادند. در آرشیو ساوندکلاودشان دو نسخه از «Mundane» هست که یکی با همکاری Meshcut و Eiman ضبط شده است. در آلبوم کوتاه [*Shame*](#shame-c8j) در آوریل ۲۰۲۱، سینتی‌سایزر به تنظیم قطعه‌ها راه یافت و شعرها شخصی‌تر شدند.[^members][^mundane][^record][^sound]
+
+در ۲۰۲۱، نادیا سِیز The Finches را برای نمایشگاه *موسیقی در تبعید* در برنامهٔ منطقهٔ خلیج فارس انستیتو گوته انتخاب کرد. او در متن نمایشگاه پرسید وقتی صدا و رفتار گروه در زادگاهش با مخالفت روبه‌رو می‌شود، احساس تعلق برای اعضای آن چه معنایی پیدا می‌کند.[^exhibit][^curator]

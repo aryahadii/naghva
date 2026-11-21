@@ -57,3 +57,7 @@ Native track 11, read 2026-11-21.
 > Tasnif "To Douri Az Baram" (Live at Ealing Town Hall, London, 2002)
 
 Native track 12, read 2026-11-21.
+
+> Farshad Mohammadi, Rahmatollah Badiyi
+
+Co-billed performers, read 2026-11-21.

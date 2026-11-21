@@ -90,9 +90,26 @@ references:
     quote: guitar, field recordings, and vocal textures
     accessed: '2026-11-21'
     locator: Artist interview, biography or performance credits
+  room:
+    source: www.kaltblut-magazine.com-the-cultural-connection-stereotype
+    quote: rehearsing and recording in my bedroom
+    accessed: '2026-11-21'
+    locator: Artist interview, biography or performance credits
+  studio:
+    source: www.kaltblut-magazine.com-the-cultural-connection-stereotype
+    quote: the studio couldn’t accommodate female musicians
+    accessed: '2026-11-21'
+    locator: Artist interview, biography or performance credits
+  lessons:
+    source: www.kaltblut-magazine.com-the-cultural-connection-stereotype
+    quote: discreetly avoiding CCTV cameras
+    accessed: '2026-11-21'
+    locator: Artist interview, biography or performance credits
 ---
 
 ژینا اردلان، نوازنده و خوانندهٔ متولد تهران و ساکن پاریس، کارهای انفرادی‌اش را با نام XEEN منتشر می‌کند. او در سال ۲۰۱۶ در گروه زیرزمینی The Finches در تهران شروع به خواندن و نواختن گیتار ریتم کرد. پیش از آن ارتباط تصویری خوانده بود و در کنار موسیقی عکاسی را هم ادامه داد. می‌خواست در کار انفرادی صداهایی را بیازماید که در گروه مجال چندانی برای تجربه کردنشان نداشت.[^roots][^paris][^origin][^guitar][^photo][^solo]
+
+اردلان می‌گوید برای شرکت در کلاس گیتار الکتریک ناچار بود دور از دید دوربین‌های مداربسته وارد شود. وقتی استودیویی به نوازندگان زن جا نداد، گروه تمرین و ضبط را به اتاق خوابش برد.[^lessons][^studio][^room]
 
 پس از رفتن نوازندهٔ درامز The Finches، اعضای گروه به سراغ ضرب‌های الکترونیک و سینتی‌سایزر رفتند. اردلان در فوریهٔ ۲۰۲۰ قطعهٔ [«Maze»](#maze-feat-meshcut-8km) را با Meshcut منتشر کرد. در دوران همه‌گیری، این دو به همراه عسل گروه Stereotype را تشکیل دادند. اردلان در همکاری دیگری با نام Herr Spectre روی موسیقی الکترونیک حسام اوحدی گیتار دیستورشن زد و خواند.[^split][^beats][^soloissue][^synth][^herr]
 

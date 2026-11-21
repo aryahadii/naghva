@@ -90,9 +90,26 @@ references:
     quote: guitar, field recordings, and vocal textures
     accessed: '2026-11-21'
     locator: Artist interview, biography or performance credits
+  room:
+    source: www.kaltblut-magazine.com-the-cultural-connection-stereotype
+    quote: rehearsing and recording in my bedroom
+    accessed: '2026-11-21'
+    locator: Artist interview, biography or performance credits
+  studio:
+    source: www.kaltblut-magazine.com-the-cultural-connection-stereotype
+    quote: the studio couldn’t accommodate female musicians
+    accessed: '2026-11-21'
+    locator: Artist interview, biography or performance credits
+  lessons:
+    source: www.kaltblut-magazine.com-the-cultural-connection-stereotype
+    quote: discreetly avoiding CCTV cameras
+    accessed: '2026-11-21'
+    locator: Artist interview, biography or performance credits
 ---
 
 XEEN is the recording name of Zhina Ardalan, a Tehran-born musician based in Paris. She began singing and playing rhythm guitar in the Tehran underground band The Finches in 2016. She had studied visual communication and continued taking photographs alongside making music. Going solo gave her a place to try sounds she could not explore as freely in the band.[^roots][^paris][^origin][^guitar][^photo][^solo]
+
+Ardalan recalled avoiding surveillance cameras to get into electric guitar lessons. When a studio refused to rent to women musicians, she moved the band’s rehearsals and recording sessions into her bedroom.[^lessons][^studio][^room]
 
 When The Finches lost their drummer, the musicians turned to electronic beats and synthesizer. Ardalan released [“Maze”](#maze-feat-meshcut-8km) with Meshcut in February 2020. During the pandemic, the two musicians formed Stereotype with Asal. In another partnership, Herr Spectre, Ardalan set distorted guitar and vocals against Hesam Ohadi’s electronics.[^split][^beats][^soloissue][^synth][^herr]
 

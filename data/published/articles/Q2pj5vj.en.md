@@ -65,10 +65,20 @@ references:
     quote: Persian Music and Spiritual Health
     locator: Original programme, liner notes or performer credit
     accessed: '2026-11-21'
+  protest:
+    source: t.me-hosseinbaharbin-45
+    quote: from 11 different nations
+    locator: Original programme, liner notes or performer credit
+    accessed: '2026-11-21'
+  instruments:
+    source: t.me-hosseinbaharbin-45
+    quote: 'Organizers: Brothers Mohsenipour Mohsenipour Brothers'
+    locator: Original programme, liner notes or performer credit
+    accessed: '2026-11-21'
 ---
 
 Reza Mohsenipour is a composer and player of the tar and setar from Tehran. He studied at the Tehran Conservatory and the University of Art and played with both the Tehran Symphony Orchestra and the Iranian Television Orchestra. In his last days in Iran he recorded “Mahtab” with his friend Babak Taghikhani. After moving to Italy he continued his studies at Rome’s Santa Cecilia Conservatory and La Sapienza University.[^tehran][^university][^mahtab][^rome][^orchestras]
 
-In Rome he played “Mahtab” again, this time with his brother Hamid, Beppe Capozza and Fulvio Maras. In 2011 he founded Barbad Project with Hamid and their brother Navid. Reza arranged music for the dancer Shahrokh Moshkin Ghalam and played tar in the ensemble alongside Navid’s oboe and Hamid’s percussion. His playing also appeared on recordings made in Iran. On “Khorshide Farda” from Mohammad Esfahani’s album Bi Vajeh he played setar.[^reprise][^founding][^arranging][^sleeve][^studio]
+In Rome he played “Mahtab” again, this time with his brother Hamid, Beppe Capozza and Fulvio Maras. In 2011 he founded Barbad Project with Hamid and their brother Navid. Reza arranged music for the dancer Shahrokh Moshkin Ghalam and played tar in the ensemble alongside Navid’s oboe and Hamid’s percussion. His playing also appeared on recordings made in Iran. On “Khorshide Farda” from Mohammad Esfahani’s album Bi Vajeh he played setar.[^reprise][^founding][^arranging][^sleeve][^studio] In October 2022 the brothers organized “Sad Eastern”, bringing musicians from eleven countries together in support of the protests in Iran. Reza played tar, Hamid flute and Navid oboe.[^protest][^instruments]
 
 In April 2023 he and Hamid reunited in Rome with their former conservatory classmate Golshifteh Farahani. Their film “From School to School” recalled the friendship that had survived twenty years of living away from Iran. Mohsenipour later settled in California and performed with fellow tar player Sahba Motallebi. At their 2024 Philadelphia concert they played Iranian music and spoke about the relationship between sound and spiritual health.[^school][^california][^duo]

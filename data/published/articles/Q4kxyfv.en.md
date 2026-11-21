@@ -61,12 +61,22 @@ references:
     quote: 'Electronic Sounds: Piero Antolini'
     locator: Original programme, liner notes or performer credit
     accessed: '2026-11-21'
+  protest:
+    source: t.me-hosseinbaharbin-45
+    quote: from 11 different nations
+    locator: Original programme, liner notes or performer credit
+    accessed: '2026-11-21'
+  instruments:
+    source: t.me-hosseinbaharbin-45
+    quote: 'Organizers: Brothers Mohsenipour Mohsenipour Brothers'
+    locator: Original programme, liner notes or performer credit
+    accessed: '2026-11-21'
 ---
 
 Barbad Project is a Rome-based ensemble founded in 2011 by the Iranian brothers Reza, Hamid and Navid Mohsenipour. All three had studied music in Tehran before attending the Santa Cecilia Conservatory in Rome. They first played under the name Progetto Masnavì and later took the name of Barbad, the musician at the court of the Sasanian king Khosrow II.[^founding][^studies][^early][^name]
 
 The brothers began working with dancer Shahrokh Moshkin Ghalam. In a programme inspired by Kurdish music, Reza arranged the music and played tar, Hamid played tombak and dumbak, and Navid played oboe. Rana Shieh’s kamancheh and Ramin Rahmi’s daf joined them. The collaboration reached Hamburg, where Moshkin Ghalam danced and Reza moved between tar, setar and saz.[^dance][^players][^hamburg]
 
-The brothers had listened to Ennio Morricone as teenagers in Iran. Years later they and their friends at Santa Cecilia, where Morricone himself had studied, arranged “Gabriel’s Oboe” from his score for The Mission. They also made a song for their adopted city. Valeria Villeggia wrote, sang and played harp on “Roma Aeterna”, which Reza and Alessandro Severa arranged. In 2020 it won its category in the city’s CantaRomaCanta competition.[^morricone][^song][^prize]
+The brothers had listened to Ennio Morricone as teenagers in Iran. Years later they and their friends at Santa Cecilia, where Morricone himself had studied, arranged “Gabriel’s Oboe” from his score for The Mission. They also made a song for their adopted city. Valeria Villeggia wrote, sang and played harp on “Roma Aeterna”, which Reza and Alessandro Severa arranged. In 2020 it won its category in the city’s CantaRomaCanta competition.[^morricone][^song][^prize] In October 2022 the brothers organized “Sad Eastern”, bringing musicians from eleven countries together in support of the protests in Iran. Reza played tar, Hamid flute and Navid oboe.[^protest][^instruments]
 
 For Nowruz in 2025, Barbad released a film of “Jooma Zard” made in the Zagros and the Alps. Ghazal Ansarirad sang, with Reza on tar, Hamid on percussion and Rashid Shabanian on karna and violin. Piero Antolini added electronic sounds.[^zagros][^electronic]

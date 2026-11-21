@@ -1,0 +1,62 @@
+---
+references:
+  women:
+    source: themarkaz.org-aida-nosrat-of-atine-artist-at-work
+    quote: producer proposed that we put together an all-women band
+    accessed: 2026-11-21
+    locator: Nosrat on Mawazine
+  celli:
+    source: themarkaz.org-aida-nosrat-of-atine-artist-at-work
+    quote: We tried with two cellists
+    accessed: 2026-11-21
+    locator: Finding the fifth musician
+  strings:
+    source: themarkaz.org-aida-nosrat-of-atine-artist-at-work
+    quote: movable frets
+    accessed: 2026-11-21
+    locator: Nosrat on the viola da gamba
+  tar:
+    source: atine.bandcamp.com-album-persiennes-diran
+    quote: 'Sogol Seyedmirzaei : Târ'
+    accessed: 2026-11-21
+    locator: Original album personnel
+  qanun:
+    source: atine.bandcamp.com-album-persiennes-diran
+    quote: 'Christine Zayed : Kanoun'
+    accessed: 2026-11-21
+    locator: Original album personnel
+  drum:
+    source: atine.bandcamp.com-album-persiennes-diran
+    quote: 'Saghar Khadem : Tombak'
+    accessed: 2026-11-21
+    locator: Original album personnel
+  gamba:
+    source: atine.bandcamp.com-album-persiennes-diran
+    quote: 'Marie-Suzane De Loye : Viole de gambe'
+    accessed: 2026-11-21
+    locator: Original album personnel
+  disc:
+    source: atine.bandcamp.com-album-persiennes-diran
+    quote: released November 6, 2020
+    accessed: 2026-11-21
+    locator: Album publication
+  sang:
+    source: atine.bandcamp.com-album-persiennes-diran
+    quote: 'Aïda Nosrat : Voix'
+    accessed: 2026-11-21
+    locator: Original album personnel
+  concert:
+    source: farhang.org-farhang-performances-atine-ensemble
+    quote: Live From Paris
+    accessed: 2026-11-21
+    locator: Concert broadcast
+  porto:
+    source: www.womex.com-virtual-accords_croises-atine
+    quote: WOMEX 21 Showcase - Official Selection
+    accessed: 2026-11-21
+    locator: Festival programme
+---
+
+پیش از آنکه Atine پنج‌نفره شود، آیدا نصرت و سوگل میرزایی برای جشنوارهٔ موازین در مراکش برنامه‌ای آماده می‌کردند. میرزایی ساغر خادم را با ساز کوبه‌ای و کریستین زاید را با قانون به جمع آورد. وقتی تهیه‌کننده پیشنهاد داد گروه به کارش ادامه دهد، نوازنده‌ها دنبال یک ساز آرشه‌ای با صدای بم رفتند. با دو نوازندهٔ ویولنسل تمرین کردند تا سرانجام ماری‌سوزان دو لوآ با ویولا دا گامبای هفت‌سیمش به گروه پیوست. پرده‌های این ساز جابه‌جا می‌شوند و با تغییر مایه همراهی می‌کنند.[^women][^celli][^strings][^tar][^qanun][^drum][^gamba]
+
+این پنج نوازنده در نوامبر ۲۰۲۰ آلبوم «Persiennes d’Iran» را منتشر کردند. اجرای جداگانه‌ای هم از قطعهٔ آغازینش، «ای تیر»، در پاریس برای بنیاد فرهنگ ضبط شد. در آلبوم، آواز نصرت کنار صدای زخمهٔ تار و قانون شنیده می‌شود و تمبک و صدای بم گامبا آن‌ها را همراهی می‌کنند. در ۲۰۲۱ گروه برای اجرای برنامهٔ وُمکس به پورتو رفت.[^disc][^sang][^tar][^qanun][^drum][^gamba][^concert][^porto]

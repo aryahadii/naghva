@@ -1,0 +1,57 @@
+id: Qeqv7fp
+type: release
+statements:
+  name:
+  - value:
+      text: Another Round
+      language: en
+    references:
+    - source: music.apple.com-us-song-6833049903
+      quote: ‎Another Round - Song with Lyrics by Meshcut - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qh6s4f5
+    references:
+    - source: music.apple.com-us-song-6833049903
+      quote: ‎Another Round - Song with Lyrics by Meshcut - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://music.apple.com/us/song/6833049903
+    references:
+    - source: music.apple.com-us-song-6833049903
+      quote: ‎Another Round - Song with Lyrics by Meshcut - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/7p6EoLXzcfEQ1HVmgiYDAe
+    references:
+    - source: open.spotify.com-track-7p6eolxzcfeq1hvmgiydae
+      quote: Another Round - song and lyrics by Meshcut | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/meshcut/another-round-2
+    references:
+    - source: soundcloud.com-meshcut-another-round-2
+      quote: Stream Another Round by Meshcut | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/f2/9d/69f29dab-554c-3cbb-d002-5d872fa1a581/artwork.jpg/600x600bb.webp
+    references:
+    - source: music.apple.com-us-song-6833049903
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/f2/9d/69f29dab-554c-3cbb-d002-5d872fa1a581/artwork.jpg/600x600bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original recording artwork
+        language: en
+  release date:
+  - value:
+      date: '2026-11-17'
+    references:
+    - source: music.apple.com-us-song-6833049903
+      quote: November 17, 2026
+      accessed: '2026-11-21'
+      locator: Published date

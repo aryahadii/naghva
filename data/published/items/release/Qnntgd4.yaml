@@ -1,0 +1,67 @@
+id: Qnntgd4
+type: release
+statements:
+  name:
+  - value:
+      text: Interlude târ
+      language: en
+    references:
+    - source: music.apple.com-us-album-persiennes-diran-1535850968
+      quote: Interlude târ
+      accessed: 2026-11-21
+      locator: Track 6
+  performer:
+  - value: Qbtpw7v
+    references:
+    - source: music.apple.com-us-album-persiennes-diran-1535850968
+      quote: Persiennes D'Iran · Atine · 2020-11-06
+      accessed: 2026-11-21
+      locator: Digital issue and artist billing
+  - value: Qnbf3sx
+    references:
+    - source: atine.bandcamp.com-album-persiennes-diran
+      quote: 'Aïda Nosrat : Voix'
+      accessed: 2026-11-21
+      locator: Original CD credits
+  - value: Qh3tqkn
+    references:
+    - source: atine.bandcamp.com-album-persiennes-diran
+      quote: 'Sogol Seyedmirzaei : Târ'
+      accessed: 2026-11-21
+      locator: Original CD credits
+  listen link:
+  - value: https://music.apple.com/us/song/interlude-t%C3%A2r/1535852115
+    references:
+    - source: music.apple.com-us-album-persiennes-diran-1535850968
+      quote: Interlude târ
+      accessed: 2026-11-21
+      locator: Track 6
+  - value: https://open.spotify.com/track/3DU8dPdYSEgmMpaHoaDRND
+    references:
+    - source: open.spotify.com-album-0vbzycinjz27je5havjimq
+      quote: Interlude târ · Atine
+      accessed: 2026-11-21
+      locator: Native track billing
+  - value: https://youtu.be/QmC6tLrfpfM
+    references:
+    - source: youtu.be-qmc6tlrfpfm
+      quote: Sogol Seyedmirzaei
+      accessed: 2026-11-21
+      locator: Distributor composer credit
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/0b/63/12/0b63120f-12cb-680e-7134-c7f0c226dd6e/cover.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-persiennes-diran-1535850968
+      quote: Interlude târ
+      accessed: 2026-11-21
+      locator: Track 6
+  contributor:
+  - value: Qh3tqkn
+    qualifiers:
+      role:
+      - composer
+    references:
+    - source: youtu.be-qmc6tlrfpfm
+      quote: Sogol Seyedmirzaei
+      accessed: 2026-11-21
+      locator: Distributor composer credit

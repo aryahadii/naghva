@@ -1,0 +1,58 @@
+id: Qsec5gb
+type: release
+statements:
+  name:
+  - value:
+      text: REBIRTH
+      language: en
+    references:
+    - source: music.apple.com-us-album-rebirth-1806714943
+      quote: ‎REBIRTH - Album by Meshcut - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qh6s4f5
+    references:
+    - source: music.apple.com-us-album-rebirth-1806714943
+      quote: ‎REBIRTH - Album by Meshcut - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  release type:
+  - value: album
+    references:
+    - source: music.apple.com-us-album-rebirth-1806714943
+      quote: ‎REBIRTH - Album by Meshcut - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://music.apple.com/us/album/rebirth/1806714943
+    references:
+    - source: music.apple.com-us-album-rebirth-1806714943
+      quote: ‎REBIRTH - Album by Meshcut - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/album/22fOolgnqZchmUIfaSRyaU
+    references:
+    - source: open.spotify.com-album-22foolgnqzchmuifasryau
+      quote: Listen to REBIRTH - Album by Meshcut | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/28/bd/87/28bd87ad-650d-1067-4466-f8f5c5a7cc4c/artwork.jpg/632x632bb.webp
+    references:
+    - source: music.apple.com-us-album-rebirth-1806714943
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/28/bd/87/28bd87ad-650d-1067-4466-f8f5c5a7cc4c/artwork.jpg/632x632bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original recording artwork
+        language: en
+  release date:
+  - value:
+      date: '2025-04-10'
+    references:
+    - source: music.apple.com-us-album-rebirth-1806714943
+      quote: April 10, 2025
+      accessed: '2026-11-21'
+      locator: Published date

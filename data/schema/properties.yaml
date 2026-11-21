@@ -107,6 +107,8 @@ properties:
       - frauenstadtplan.koeln
       - www.eonmusic.co.uk
       - bagpipesociety.org.uk
+      - aa-e.org
+      - themarkaz.org
       - tirgan.ca
       - asianitinerary.com
       - candle-fog.com
@@ -199,6 +201,7 @@ terms:
     - electronics
     - violin
     - viola
+    - viola da gamba
     - cello
     - strings
     - flute
@@ -217,6 +220,7 @@ terms:
     - ney
     - kamancheh
     - producer
+    - musical director
     - compiler
     - researcher
     - recording engineer
@@ -248,6 +252,7 @@ terms:
 # `contributor` only these.
 creation roles:
   - producer
+  - musical director
   - compiler
   - researcher
   - recording engineer

@@ -55,9 +55,26 @@ references:
     quote: 'Composer & Santour: Farshad Mohammadi'
     accessed: 2026-11-21
     locator: Original composition and instrument
+  ealing:
+    source: music.apple.com-us-album-live-in-concert-live-at-ealing-town-hall-london-2002-1767590265
+    quote: Farshad Mohammadi, Rahmatollah Badiyi
+    accessed: 2026-11-21
+    locator: Co-billed performers
+  esfahan:
+    source: youtu.be-te0e2rwcj3u
+    quote: Santour Solo in Esfahan – Farshad Mohammadi, Rahmatollah Badiyi
+    accessed: 2026-11-21
+    locator: Harmitone track billing
+  violin:
+    source: youtu.be-72kqvbddg4c
+    quote: Saz-o Avaz Violin – Farshad Mohammadi, Rahmatollah Badiyi
+    accessed: 2026-11-21
+    locator: Harmitone track billing
 ---
 
 فرشاد محمدی سنتور را نزد پرویز مشکاتیان و پشنگ کامکار آموخت. بعدها شیوه‌های نوازندگی همین ساز موضوع پژوهشش شد. در معرفی او در همایشی در ۲۰۰۶ آمده که در دانشکدهٔ موسیقی سواس لندن دربارهٔ شیوه‌های سنتورنوازی در قرن بیستم تحقیق می‌کرد.[^lessons][^research][^style]
+
+در ۲۰۰۲ محمدی همراه رحمت‌الله بدیعی در تالار شهر ایلینگ لندن کنسرت داد. در ضبط آن شب می‌توان ساز هر یک را جداگانه شنید: یک قطعه تک‌نوازی سنتور در اصفهان است و قطعه‌ای دیگر ساز و آواز با ویولن. نشر هارمیتون هر دو اجرا را با نام این دو نوازنده منتشر کرده است.[^ealing][^esfahan][^violin]
 
 وقتی هولگر فالک، خوانندهٔ باریتون آلمانی، برنامه‌ای بر اساس شعر حافظ ترتیب می‌داد، دنبال همکاری بود که هم موسیقی دستگاهی ایران را بشناسد و هم با موسیقی اروپا آشنا باشد. محمدی در آن گروه سنتور می‌زد، بابک مصلی ساز کوبه‌ای می‌نواخت و مریم آخوندی می‌خواند. در یک برنامه می‌شد شعر حافظ را هم به فارسی شنید و هم در روایت آلمانی آن. محمدی چند سال بعد در لندن در برگزاری کنسرت علیرضا قربانی هم نقش داشت؛ مایهٔ این برنامه با گروه باران شعر مولانا بود.[^modes][^reeds][^text][^organizer][^poetry]
 

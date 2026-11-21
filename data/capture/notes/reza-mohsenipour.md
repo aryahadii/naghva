@@ -51,3 +51,5 @@ The catalogue reconciles the group’s 21 original YouTube uploads, Reza’s 35 
 - نینا “NINA” (Qxzxdpt) · https://www.youtube.com/watch?v=jVt1q1xGRLw
 - “Elahe” چگونه میخندم (Qgcerge) · https://www.youtube.com/watch?v=Ip_g3_A1ADI
 - “Roma Aeterna” (Q8j2s57) · https://www.youtube.com/watch?v=F3KxJe_Jkn0
+
+Reza was the tar player on the multinational protest recording Sad Eastern (Qf9ep44). [Original musician credit](https://t.me/hosseinbaharbin/45)

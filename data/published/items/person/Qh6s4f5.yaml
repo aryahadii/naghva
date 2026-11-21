@@ -6,8 +6,24 @@ statements:
       text: Meshcut
       language: en
     references:
-    - source: www.zhinardalan.com-stereotype
+    - source: www.lagenerale.fr-fr-projet-meshcut
       quote: Meshcut
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value:
+      text: Meshkat Mosavat
+      language: en
+    references:
+    - source: www.lagenerale.fr-fr-projet-meshcut
+      quote: Meshkat Mosavat
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value:
+      text: مشکات مساوات
+      language: fa
+    references:
+    - source: kayhan.london-1403-01-11-345538
+      quote: مشکات مساوات
       accessed: '2026-11-21'
       locator: Artist interview, biography or performance credits
   member of:
@@ -15,5 +31,55 @@ statements:
     references:
     - source: 1beat.org-people-xeen
       quote: Meshcut and Asal
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Q8v6j5h
+    references:
+    - source: www.kaltblut-magazine.com-salvaation-unleashes-a-dark-wave-experience-with-loop-music-video-and-debut-ep-release
+      quote: Oui Future (Christine Guin) and Meshcut (Meshkat Mosavat)
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  image:
+  - value: https://i.scdn.co/image/ab6761610000e5eb0684bddc7ec1a83ad500556a
+    references:
+    - source: open.spotify.com-artist-7kphxixpuk0pzkcvbteedt
+      quote: https://i.scdn.co/image/ab6761610000e5eb0684bddc7ec1a83ad500556a
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: Meshcut, via Spotify
+        language: en
+  profile link:
+  - value: https://open.spotify.com/artist/7kpHxIxPUK0PZKCVBTeEDT
+    references:
+    - source: open.spotify.com-artist-7kphxixpuk0pzkcvbteedt
+      quote: Listen to Meshcut Songs | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/artist/meshcut/1361364684?uo=4
+    references:
+    - source: music.apple.com-us-artist-meshcut-1361364684-uo-4
+      quote: ‎Meshcut - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/meshcut
+    references:
+    - source: soundcloud.com-meshcut
+      quote: Stream Meshcut music | Listen to songs, albums, playlists for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://meshcut.bandcamp.com/music
+    references:
+    - source: meshcut.bandcamp.com-music
+      quote: Eclipsed | Meshcut, Eiman | Meshcut
+      accessed: '2026-11-21'
+      locator: Page title
+  birth date:
+  - value:
+      date: '1992-07-22'
+    references:
+    - source: open.spotify.com-artist-7kphxixpuk0pzkcvbteedt
+      quote: born July 22, 1992
       accessed: '2026-11-21'
       locator: Artist interview, biography or performance credits

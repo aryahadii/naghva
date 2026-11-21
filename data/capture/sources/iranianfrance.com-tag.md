@@ -16,3 +16,11 @@ about:
 کنسرت مارسی, read 2026-11-21.
 
 > بیژن شمیرانی
+
+Original programme, liner notes or performer credit, read 2026-11-21.
+
+> سوگل میرزایی
+
+Original programme, liner notes or performer credit, read 2026-11-21.
+
+> تریو چکام

@@ -1,0 +1,37 @@
+id: Qmkvewd
+type: release
+statements:
+  name:
+  - value:
+      text: Cinco Puertas
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-at5wl4jla3a
+      quote: Cinco Puertas , پنج دری | Ensamble Didar
+      accessed: '2026-11-21'
+      locator: Original video title
+  - value:
+      text: پنج دری
+      language: fa
+    references:
+    - *id001
+  performer:
+  - value: Qcabd29
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/AT5WL4JlA3A/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-at5wl4jla3a
+      quote: https://i.ytimg.com/vi/AT5WL4JlA3A/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original publisher image
+    qualifiers:
+      credit:
+        text: Mehdi Moshtagh
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=AT5WL4JlA3A
+    references:
+    - *id001

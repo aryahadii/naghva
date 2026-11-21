@@ -1,0 +1,21 @@
+id: Qqb9bnx
+type: person
+statements:
+  name:
+  - value:
+      text: Mehdi Moshtagh
+      language: en
+    references:
+    - &id001
+      source: videoteca.cenart.gob.mx-direccion-de-educacion-a-distancia-mw-20138
+      quote: Mehdi Moshtagh, setar y tar
+      accessed: '2026-11-21'
+      locator: Concert personnel
+  member of:
+  - value: Qcabd29
+    references:
+    - *id001
+    qualifiers:
+      role:
+      - setar
+      - tar

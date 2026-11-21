@@ -55,9 +55,26 @@ references:
     quote: 'Composer & Santour: Farshad Mohammadi'
     accessed: 2026-11-21
     locator: Original composition and instrument
+  ealing:
+    source: music.apple.com-us-album-live-in-concert-live-at-ealing-town-hall-london-2002-1767590265
+    quote: Farshad Mohammadi, Rahmatollah Badiyi
+    accessed: 2026-11-21
+    locator: Co-billed performers
+  esfahan:
+    source: youtu.be-te0e2rwcj3u
+    quote: Santour Solo in Esfahan – Farshad Mohammadi, Rahmatollah Badiyi
+    accessed: 2026-11-21
+    locator: Harmitone track billing
+  violin:
+    source: youtu.be-72kqvbddg4c
+    quote: Saz-o Avaz Violin – Farshad Mohammadi, Rahmatollah Badiyi
+    accessed: 2026-11-21
+    locator: Harmitone track billing
 ---
 
 Farshad Mohammadi studied santur with Parviz Meshkatian and Pashang Kamkar. The instrument also became the subject of his research. At a 2006 conference he was introduced as a SOAS research fellow studying how different musicians had played the santur over the course of the twentieth century.[^lessons][^research][^style]
+
+By 2002 he was performing in London with Rahmatollah Badiyi. Their Ealing Town Hall recording leaves room for each instrument on its own. Mohammadi plays a santur solo in Esfahan, and another number is a saz-o avaz for violin. Harmitone later issued both performances under the two musicians’ names.[^ealing][^esfahan][^violin]
 
 When the German baritone Holger Falk was putting together a programme around Hafez, he needed someone familiar with both the Iranian dastgah system and European music. Mohammadi played santur alongside percussionist Babak Massali and singer Maryam Akhondy. In the Hafez Ensemble the poems could move between the German and Persian voices in the same programme. Mohammadi later helped organise a London concert for another singer, Alireza Ghorbani, whose work with the Baran ensemble drew on Rumi.[^modes][^reeds][^text][^organizer][^poetry]
 

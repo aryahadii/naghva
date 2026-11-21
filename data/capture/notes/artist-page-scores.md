@@ -276,3 +276,13 @@ Independent review on 2026-11-21. **9.3/10** · Sources 1.9, prose 1.9, recordin
 ### Soul Nidus
 
 Independent review on 2026-11-21. **9.2/10** · Sources 1.9, prose 1.8, recordings 2.7, images 1.0, gaps and reader experience 1.8. The original Tirgan programme, Auliffe’s research and the group’s interview establish the Toronto trio and the brothers’ later work. ColdplayCorner explicitly commissioned its own acoustic “Song of Hope.” The digital label credits on *Lonely Sessions* distinguish the brothers’ joint composition of “In the Name of Love” from Ehsan’s writing of the four other songs. The radio session, concert takes and separately uploaded rehearsals remain distinguishable. Both languages at checkpoint 43 contained 67 recording panels and 133 decoded images. Every local reference resolved. Article and catalogue ready.
+
+### Regard Persan
+
+Independent review of checkpoint 45 scored 9.2/10. Article and catalogue ready. Read both localized articles and independently checked the trio’s 13-track debut, Sofar’s separately recorded Turquoise, two José Ángel Gutiérrez films that bill both groups, and the Veracruz state programme distinguishing the 2019 disc presentation from the 2021 streaming edition. The 35-minute Del Karún al Papaloapan film is billed solely to the Mexican ensemble. Each language contained 52 recording panels and 105 decoded images. All local source and work links resolved.
+
+Shen Band’s expanded 86-panel catalogue was also checked in this checkpoint. The newly identified live Haftireh Sard recording was present, with 169 decoded images and working fragments in each language. Its 9.3/10 review stands.
+
+### XEEN and Stereotype
+
+At checkpoint 46, independent article and catalogue review scored each page 9.2/10. Compared Ardalan’s account, the Klangteppich performance and cassette excerpt, OneBeat and Fondation Fiminco, her five original Bandcamp items and the Stereotype interviews, EP credits, ARTE set and Berlin festival bill. The documented trio lineup and subsequent duo are distinguished. Both localized XEEN pages showed 52 recordings and 103 decoded images. Stereotype had 17 and 35. All local fragments resolved. Article and catalogue ready for both.

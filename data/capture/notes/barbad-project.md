@@ -36,3 +36,5 @@ The catalogue reconciles the group’s 21 original YouTube uploads, Reza’s 35 
 - نینا “NINA” (Qxzxdpt) · https://www.youtube.com/watch?v=jVt1q1xGRLw
 - “Elahe” چگونه میخندم (Qgcerge) · https://www.youtube.com/watch?v=Ip_g3_A1ADI
 - “Roma Aeterna” (Q8j2s57) · https://www.youtube.com/watch?v=F3KxJe_Jkn0
+
+The Roman Philharmonic Academy’s [2023 programme](https://www.filarmonicaromana.org/immagini/gallery/137/programma_di_sala.pdf) names Leila and Sara Shirvani, Ghazal Ansarirad and all three brothers, with arrangements credited to Reza and Alessandro Severa. Their 2022 project Sad Eastern (Qf9ep44) gathered musicians from eleven countries. Hossein Baharbin’s original post names the brothers’ instruments and the arranger. [Musician’s credit](https://t.me/hosseinbaharbin/45)

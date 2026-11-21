@@ -70,9 +70,21 @@ references:
     quote: Stereotype 21:45 - 22:30
     accessed: '2026-11-21'
     locator: Artist interview, biography or performance credits
+  meet:
+    source: www.kaltblut-magazine.com-the-cultural-connection-stereotype
+    quote: a specific house where weekly Jam Sessions
+    accessed: '2026-11-21'
+    locator: Artist interview, biography or performance credits
+  isolation:
+    source: www.kaltblut-magazine.com-the-cultural-connection-stereotype
+    quote: Isolated together
+    accessed: '2026-11-21'
+    locator: Artist interview, biography or performance credits
 ---
 
 گروه Stereotype در سال ۲۰۲۰ در تهران شکل گرفت. XEEN، Meshcut و عسل که از صحنهٔ موسیقی زیرزمینی شهر می‌آمدند، در دوران قرنطینه به ساختن موسیقی سینث‌ویو پرداختند. در ژوئیه «The New Normal» را منتشر کردند. نخستین آلبوم کوتاهشان، [*Foil*](#foil-xdz)، را نیز در قرنطینه ساختند و ضبط کردند و در فوریهٔ ۲۰۲۱ خودشان منتشرش کردند.[^formation][^home][^period][^single][^foil]
+
+اردلان می‌گوید در دورهمی‌های هفتگی نوازندگان در خانه‌ای در تهران با مشکات آشنا شد. او و عسل از پیش در The Finches با هم می‌نواختند. وقتی هر سه با هم در قرنطینه ماندند، ساختن قطعه‌های خودشان را شروع کردند.[^meet][^isolation]
 
 گروه کارش را به‌صورت دونفره ادامه داد. Meshcut می‌خواند و سینتی‌سایزر می‌نواخت و XEEN سازهای الکترونیک و تولید موسیقی را به عهده داشت. مسیر کارشان از تهران به استانبول و سپس پاریس رسید. در آلبوم کوتاه [*Code*](#code-r7p)، هر دو در ترانه‌نویسی و آهنگسازی سهیم بودند و صدای راک الکترونیک را وارد قطعه‌های سینث‌ویو کردند. XEEN این مجموعهٔ پنج‌قطعه‌ای را تولید کرد، شاهین انتظامی آن را میکس کرد و آلبوم در مهٔ ۲۰۲۴ منتشر شد.[^roles][^journey][^sound][^writing][^mix][^code]
 

@@ -1,0 +1,37 @@
+id: Qhnwbvf
+type: release
+statements:
+  name:
+  - value:
+      text: Chupani
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-5sxnra6o5n0
+      quote: Ensamble Didar , Chupani | چوپانی
+      accessed: '2026-11-21'
+      locator: Original video title
+  - value:
+      text: چوپانی
+      language: fa
+    references:
+    - *id001
+  performer:
+  - value: Qcabd29
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/5sxnRA6O5N0/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-5sxnra6o5n0
+      quote: https://i.ytimg.com/vi/5sxnRA6O5N0/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original publisher image
+    qualifiers:
+      credit:
+        text: Mehdi Moshtagh
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=5sxnRA6O5N0
+    references:
+    - *id001

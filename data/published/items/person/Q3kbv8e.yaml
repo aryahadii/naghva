@@ -1,0 +1,19 @@
+id: Q3kbv8e
+type: person
+statements:
+  name:
+  - value:
+      text: José Pablo Jiménez
+      language: en
+    references:
+    - &id001
+      source: videoteca.cenart.gob.mx-direccion-de-educacion-a-distancia-mw-20138
+      quote: José Pablo Jiménez, Kamancheh
+      accessed: '2026-11-21'
+      locator: Concert personnel
+  member of:
+  - value: Qcabd29
+    references:
+    - *id001
+    qualifiers:
+      role: kamancheh

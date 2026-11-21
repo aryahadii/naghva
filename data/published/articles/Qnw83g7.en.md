@@ -60,10 +60,27 @@ references:
     quote: all-female underground indie rock band
     accessed: '2026-11-21'
     locator: Artist interview, biography or performance credits
+  lineup:
+    source: www.bmeia.gv.at-fileadmin-user_upload-zentrale-kultur-publikationen-aki2019.pdf
+    quote: Ava Rasti, Asal Maleki, Tara Saidi, Zhina Ardalan
+    accessed: '2026-11-21'
+    locator: Artist interview, biography or performance credits
+  exhibit:
+    source: yourmomsagency.com-files-2021-07-various-artists-from-berlin-music-in-exile-goethe-institut-gulf-region.pdf
+    quote: For The Finches, it is about learning how to belong
+    accessed: '2026-11-21'
+    locator: Artist interview, biography or performance credits
+  curator:
+    source: yourmomsagency.com-files-2021-07-various-artists-from-berlin-music-in-exile-goethe-institut-gulf-region.pdf
+    quote: Nadia Says is a music curator
+    accessed: '2026-11-21'
+    locator: Artist interview, biography or performance credits
 ---
 
 The Finches began as an all-female underground indie rock band in Tehran in summer 2015.[^genre] The first drummer and singer left that winter, and by 2016 Zhina Ardalan was singing and playing guitar. The band dates its debut single, “Ocean,” to the summer of that year. Its early shows took place in underground venues around Tehran.[^start][^change][^ocean][^zhina][^stage]
 
-The musicians began recording their first EP, [*Psychodelan*](#psychodelan-rs9), in 2018. “Run run run” became their first music video the following spring. They played the Austrian Cultural Forum in Tehran as well as private shows. When the drummer left after the EP, the remaining musicians began writing with electronic beats.[^video][^stage][^departure]
+The musicians began recording their first EP, [*Psychodelan*](#psychodelan-rs9), in 2018. “Run run run” became their first music video the following spring. The Austrian Cultural Forum’s 2019 programme lists four musicians for their Tehran concert, Ava Rasti, Asal Maleki, Tara Saidi and Zhina Ardalan.[^lineup] When the drummer left after the EP, the remaining musicians began writing with electronic beats.[^video][^stage][^departure]
 
 Ardalan and Asal Maleki carried the band forward. The group’s SoundCloud preserves two versions of “Mundane,” including one with Meshcut and Eiman. On [*Shame*](#shame-c8j), released in April 2021, synthesizer entered the arrangements and the lyrics became more personal.[^members][^mundane][^record][^sound]
+
+In 2021 Nadia Says included The Finches in *Music in Exile*, an exhibition for the Goethe-Institut’s Gulf Region programme. In her text she asked what belonging meant for a band whose music and attitude met resistance at home.[^exhibit][^curator]

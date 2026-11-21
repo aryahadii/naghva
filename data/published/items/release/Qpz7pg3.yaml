@@ -1,0 +1,45 @@
+id: Qpz7pg3
+type: release
+statements:
+  name:
+  - value:
+      text: JUSTIFY YOUR LOVE
+      language: en
+    references:
+    - source: soundcloud.com-meshcut-justify-your-love
+      quote: Stream JUSTIFY YOUR LOVE by Meshcut | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qh6s4f5
+    references:
+    - source: soundcloud.com-meshcut-justify-your-love
+      quote: Stream JUSTIFY YOUR LOVE by Meshcut | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://soundcloud.com/meshcut/justify-your-love
+    references:
+    - source: soundcloud.com-meshcut-justify-your-love
+      quote: Stream JUSTIFY YOUR LOVE by Meshcut | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-csYgzqF9AH3QLzVg-EZLIuA-t500x500.png
+    references:
+    - source: soundcloud.com-meshcut-justify-your-love
+      quote: https://i1.sndcdn.com/artworks-csYgzqF9AH3QLzVg-EZLIuA-t500x500.png
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original recording artwork
+        language: en
+  release date:
+  - value:
+      date: '2026-02-20'
+    references:
+    - source: soundcloud.com-meshcut-justify-your-love
+      quote: '2026-02-20T11:02:10Z'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits

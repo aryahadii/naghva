@@ -1,0 +1,58 @@
+id: Qbqjka7
+type: release
+statements:
+  name:
+  - value:
+      text: OUT OF TIME
+      language: en
+    references:
+    - source: music.apple.com-us-album-out-of-time-ep-6833049902
+      quote: ‎OUT OF TIME - EP - Album by Meshcut - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qh6s4f5
+    references:
+    - source: music.apple.com-us-album-out-of-time-ep-6833049902
+      quote: ‎OUT OF TIME - EP - Album by Meshcut - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  release type:
+  - value: ep
+    references:
+    - source: music.apple.com-us-album-out-of-time-ep-6833049902
+      quote: ‎OUT OF TIME - EP - Album by Meshcut - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://music.apple.com/us/album/out-of-time-ep/6833049902
+    references:
+    - source: music.apple.com-us-album-out-of-time-ep-6833049902
+      quote: ‎OUT OF TIME - EP - Album by Meshcut - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/album/4cejfEBgopAuAtdY2K2cyL
+    references:
+    - source: open.spotify.com-album-4cejfebgopauatdy2k2cyl
+      quote: Listen to OUT OF TIME - EP by Meshcut | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/f2/9d/69f29dab-554c-3cbb-d002-5d872fa1a581/artwork.jpg/632x632bb.webp
+    references:
+    - source: music.apple.com-us-album-out-of-time-ep-6833049902
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/f2/9d/69f29dab-554c-3cbb-d002-5d872fa1a581/artwork.jpg/632x632bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original recording artwork
+        language: en
+  release date:
+  - value:
+      date: '2026-11-17'
+    references:
+    - source: music.apple.com-us-album-out-of-time-ep-6833049902
+      quote: November 17, 2026
+      accessed: '2026-11-21'
+      locator: Published date

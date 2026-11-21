@@ -1,0 +1,57 @@
+id: Q3pz3ws
+type: release
+statements:
+  name:
+  - value:
+      text: Entropy (feat. Meshcut)
+      language: en
+    references:
+    - source: music.apple.com-us-song-1726240911
+      quote: ‎Entropy (feat. Meshcut) - Song with Lyrics by DOT - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qh6s4f5
+    references:
+    - source: music.apple.com-us-song-1726240911
+      quote: ‎Entropy (feat. Meshcut) - Song with Lyrics by DOT - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qc5v237
+    references:
+    - source: open.spotify.com-track-3bp8rljskrq5z8z1apgj8o
+      quote: DOT
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://music.apple.com/us/song/1726240911
+    references:
+    - source: music.apple.com-us-song-1726240911
+      quote: ‎Entropy (feat. Meshcut) - Song with Lyrics by DOT - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/3bP8RLJsKrQ5Z8z1apgJ8o
+    references:
+    - source: open.spotify.com-track-3bp8rljskrq5z8z1apgj8o
+      quote: Entropy - song and lyrics by DOT, Meshcut | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/55/b5/d8/55b5d8fa-e3d9-5e83-e91c-da6ae7166d7c/197190391237.jpg/600x600bb.webp
+    references:
+    - source: music.apple.com-us-song-1726240911
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/55/b5/d8/55b5d8fa-e3d9-5e83-e91c-da6ae7166d7c/197190391237.jpg/600x600bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original recording artwork
+        language: en
+  release date:
+  - value:
+      date: '2024-01-31'
+    references:
+    - source: music.apple.com-us-song-1726240911
+      quote: January 31, 2024
+      accessed: '2026-11-21'
+      locator: Published date

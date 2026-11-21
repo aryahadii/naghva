@@ -70,9 +70,21 @@ references:
     quote: Stereotype 21:45 - 22:30
     accessed: '2026-11-21'
     locator: Artist interview, biography or performance credits
+  meet:
+    source: www.kaltblut-magazine.com-the-cultural-connection-stereotype
+    quote: a specific house where weekly Jam Sessions
+    accessed: '2026-11-21'
+    locator: Artist interview, biography or performance credits
+  isolation:
+    source: www.kaltblut-magazine.com-the-cultural-connection-stereotype
+    quote: Isolated together
+    accessed: '2026-11-21'
+    locator: Artist interview, biography or performance credits
 ---
 
 Stereotype began in Tehran in 2020, when three musicians from the underground scene, XEEN, Meshcut and Asal, started a synthwave project during lockdown. They released “The New Normal” in July. They produced and recorded their first EP, [*Foil*](#foil-xdz), during the lockdown and released it themselves in February 2021.[^formation][^home][^period][^single][^foil]
+
+Ardalan recalled getting to know Meshkat at weekly jam sessions in a Tehran house. She and Asal already played together in The Finches. When the three found themselves in quarantine together, they began making their own songs.[^meet][^isolation]
 
 The group continued as a duo. Meshcut sang and played synthesizer, and XEEN handled electronics and production. Their work took them from Tehran through Istanbul to Paris. On [*Code*](#code-r7p), the two wrote together, bringing the sound of electronic rock into their synthwave songs. XEEN produced the five-track EP, Shahin Entezami mixed it, and it came out in May 2024.[^roles][^journey][^sound][^writing][^mix][^code]
 
