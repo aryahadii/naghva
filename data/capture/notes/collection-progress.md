@@ -39,10 +39,13 @@ The expansion started at revision fa6c29ca with 124 bilingual artist pages. The 
 | This Tale of Ours | Qrtfk67 | 9.1/10 | [This Tale of Ours](artist-page-scores.md) |
 | Rite of Strings | Qtaawg8 | 9.2/10 | [Rite of Strings](artist-page-scores.md) |
 | Maryam Rahmani | Qtwtxvd | 9.2/10 | [Maryam Rahmani](maryam-rahmani-review.md) |
-| Araz Salek | Qzqvz5q | 8.4/10 | [Araz Salek](araz-salek-independent-review.md) |
+| Araz Salek | Qzqvz5q | 9.2/10 | [Araz Salek](araz-salek-independent-review.md) |
 | Borderless Band | Qhzc5js | 9.2/10 | [Borderless Band](artist-page-scores.md) |
 | HJirok | Qjb6dqs | 9.2/10 | [HJirok](hjirok-independent-review.md) |
 | Artamene | Qq8jt69 | Pending | [Catalogue and open questions](artamene.md) |
-| Hani Mojtahedy | Qnrm3kw | Pending | [Catalogue and open questions](hani-mojtahedy.md) |
+| Hani Mojtahedy | Qnrm3kw | 9.2/10 | [Hani Mojtahedy](hani-mojtahedy-review.md) |
+| Kourosh Babaei | Q3v55f7 | Pending | [Catalogue and open questions](kourosh-babaei.md) |
+| Arshia Samsaminia | Qfvnnnd | Pending | Independent review in progress |
+| Pedram Khavarzamini | Q5rnjaz | Pending | [Catalogue and open questions](pedram-khavarzamini.md) |
 
 The [discovery list](independent-artist-discovery.md) contains candidates with release leads. Some will prove ineligible or match an existing artist by another spelling. Only new artist pages count toward the target.

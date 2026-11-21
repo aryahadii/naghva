@@ -1,0 +1,41 @@
+id: Qeggrhj
+type: release
+statements:
+  name:
+  - value:
+      text: Abrha
+      language: en
+    references:
+    - source: music.apple.com-us-album-renew-old-songs-6784343906
+      quote: Abrha
+      accessed: 2026-11-21
+      locator: Track listing
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1a/f5/6c/1af56c9e-eaf8-50cf-3f4d-bc18e4e21b7b/823000789290.png/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-renew-old-songs-6784343906
+      quote: Renew Old Songs
+      accessed: 2026-11-21
+      locator: Release heading
+  release date:
+  - value:
+      date: '2026-07-15'
+    references:
+    - source: music.apple.com-us-album-renew-old-songs-6784343906
+      quote: '2026-07-15'
+      accessed: 2026-11-21
+      locator: Edition release date
+  performer:
+  - value: Q3v55f7
+    references:
+    - source: music.apple.com-us-album-renew-old-songs-6784343906
+      quote: Kourosh Babaei
+      accessed: 2026-11-21
+      locator: Release artist
+  listen link:
+  - value: https://music.apple.com/us/song/abrha/6784343920
+    references:
+    - source: music.apple.com-us-album-renew-old-songs-6784343906
+      quote: Abrha
+      accessed: 2026-11-21
+      locator: Track listing

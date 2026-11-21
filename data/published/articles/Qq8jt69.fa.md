@@ -80,12 +80,34 @@ references:
     quote: Yahya Rahmani/Bass Guitar
     accessed: 2026-11-21
     locator: Release or concert personnel
+  canada:
+    source: www.bandmix.ca-artamene
+    quote: I want to come to Canada and continue here
+    accessed: 2026-11-21
+    locator: Recruitment listing
+  vaughan:
+    source: www.bandmix.ca-artamene
+    quote: Vaughan, ON
+    accessed: 2026-11-21
+    locator: Profile location
+  profileyear:
+    source: www.bandmix.ca-artamene
+    quote: Jun 15, 2024
+    accessed: 2026-11-21
+    locator: Date account opened
+  perm:
+    source: www.al-monitor.com-originals-2018-09-iranian-metal-groups-inch-toward-acceptance.html
+    quote: some bands went to Ershad and received a positive response.
+    accessed: 2026-11-21
+    locator: Pedram Shitreh on concert permits
 ---
 
-پدرام و پویا شیتره در تهران گیتار و درامز می‌زدند. این دو برادر آغاز کار گروهشان را سال ۲۰۱۶ می‌دانند. یک سال بعد نام «آرتامن» را ثبت کردند و با همین نام برای اجرای هوی‌متال روی صحنه رفتند.[^start][^register][^place][^fa]
+پدرام و پویا شیتره در تهران گیتار و درامز می‌زدند. این دو برادر آغاز کار گروهشان را سال ۲۰۱۶ می‌دانند. یک سال بعد نام «آرتامن» را ثبت کردند و با همین نام برای اجرای هوی‌متال روی صحنه رفتند.[^start][^register][^place] پدرام در مصاحبه‌ای در سال ۲۰۱۸ گفته بود که در چند سال پیش از آن، شماری از گروه‌های متال به وزارت ارشاد مراجعه کرده و توانسته بودند برای کنسرت مجوز بگیرند.[^perm][^fa]
 
 آرتامن در کنسرت هشتم آذر ۱۳۹۷ در برج آزادی، هم قطعه‌ای از دیپ‌پرپل اجرا کرد و هم «Mayhem» را که ساختهٔ خود گروه بود. علی کریمی، گیتاریست ریتم، آن را نوشته بود و سهیل آوخ، خوانندهٔ گروه، تنظیمش کرده بود. آن شب نخستین اجرای آوخ در مقام عضو آرتامن بود. رضا خلیل‌پور بیس می‌زد. بعدها، هنگام معرفی آلبوم گروه، نام یحیی رحمانی به عنوان نوازندهٔ بیس آمده است.[^date][^covers][^mayhem][^singer][^oldbass][^newbass]
 
 ## پلکان زیگورات
 
 روی جلد *Ziggurat* جنگاوری زانو زده است. اعضای آرتامن مسیر قطعه‌ها را به بالا رفتن از پلکان زیگورات تشبیه کرده‌اند. در پنجمین قطعه، «Shining Black»، آواز قطع می‌شود و سازها به‌تنهایی ادامه می‌دهند. قطعهٔ بعد نام اینشوشیناک، ایزد شوش باستان، را دارد. آلبوم هشت‌قطعه‌ای در ژانویهٔ ۲۰۲۲ با واگذاری مجوز انتشار به ورم‌هول‌دث منتشر شد. حق ضبط اثر به نام خود آرتامن ثبت شده است.[^image][^instrumental][^myth][^album][^issue][^rights]
+
+پدرام بعدها از طریق حسابی که در ژوئن ۲۰۲۴ در سایت بَندمیکس باز شده بود، در وانِ انتاریو برای گروه دنبال نوازنده گشت. در آگهی نوشته بود که می‌خواهد کار آرتامن را در کانادا ادامه دهد.[^canada][^vaughan][^profileyear]

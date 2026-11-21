@@ -22,17 +22,15 @@ statements:
   - value:
       date: '1989'
     references:
-    - source: norient.com-asamsaminia
+    - &id001
+      source: norient.com-asamsaminia
       quote: was born in Tehran in 1989.
       accessed: '2026-11-21'
       locator: Artist interview, biography or performance credits
   birthplace:
   - value: Qhm6fzw
     references:
-    - source: norient.com-asamsaminia
-      quote: was born in Tehran in 1989.
-      accessed: '2026-11-21'
-      locator: Artist interview, biography or performance credits
+    - *id001
   profile link:
   - value: https://soundcloud.com/arshia-samsaminia
     references:
@@ -58,3 +56,20 @@ statements:
       quote: 4our | Arshia Samsaminia
       accessed: '2026-11-21'
       locator: Page title
+  - value: https://open.spotify.com/artist/6v6Zer58VOpgTRy3L7HqnN
+    references:
+    - source: open.spotify.com-artist-6v6zer58vopgtry3l7hqnn
+      quote: Listen to Arshia Samsaminia Songs | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  image:
+  - value: https://i1.sndcdn.com/avatars-guC5FWYFRy7U953X-xlfOeQ-large.jpg
+    references:
+    - source: soundcloud.com-arshia-samsaminia
+      quote: https://i1.sndcdn.com/avatars-guC5FWYFRy7U953X-xlfOeQ-large.jpg
+      accessed: '2026-11-21'
+      locator: Portrait on the composer’s SoundCloud account
+    qualifiers:
+      credit:
+        text: Arshia Samsaminia on SoundCloud
+        language: en

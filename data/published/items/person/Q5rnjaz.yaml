@@ -6,10 +6,18 @@ statements:
       text: Pedram Khavarzamini
       language: en
     references:
-    - source: www.youtube.com-watch-v-q9bdwfhv0oq
+    - source: tirgan.ca-nowruz2019-artist-guest-pedram-khavarzamini
       quote: Pedram Khavarzamini
       accessed: '2026-11-21'
-      locator: Performance description personnel
+      locator: Festival artist heading
+  - value:
+      text: پدرام خاورزمینی
+      language: fa
+    references:
+    - source: majzooban.org-fa-11743
+      quote: پدرام خاورزمینی
+      accessed: '2026-11-21'
+      locator: Contemporary Persian interview
   member of:
   - value: Qrtfk67
     qualifiers:
@@ -23,3 +31,54 @@ statements:
       quote: two Toronto musicians, Araz Salek and Pedram Khavar-Zamini, and two from Crete, Ross Daly and Kelly Thoma
       accessed: '2026-11-21'
       locator: Group biography
+  - value: Qd98y24
+    qualifiers:
+      role: tombak
+    references:
+    - source: tirgan.ca-nowruz2019-artist-guest-pedram-khavarzamini
+      quote: Khavarzamini founded his own percussion tombak group, named VARASHAN.
+      accessed: '2026-11-21'
+      locator: Artist biography
+  birth date:
+  - value:
+      date: '1975'
+    references:
+    - source: labyrinthmusic.gr-en-pedram-khavarzamini
+      quote: was born in 1975, in Tehran
+      accessed: '2026-11-21'
+      locator: Faculty biography
+  birthplace:
+  - value: Qhm6fzw
+    references:
+    - source: labyrinthmusic.gr-en-pedram-khavarzamini
+      quote: was born in 1975, in Tehran
+      accessed: '2026-11-21'
+      locator: Faculty biography
+  profile link:
+  - value: https://music.apple.com/us/artist/pedram-khavarzamini/452562164
+    references:
+    - source: music.apple.com-us-artist-pedram-khavarzamini-452562164
+      quote: ‎Pedram Khavarzamini - Apple Music
+      accessed: '2026-11-21'
+      locator: Edition title
+  - value: https://open.spotify.com/artist/4ozJpEP4cHUyf8IpKc988L
+    references:
+    - source: open.spotify.com-artist-4ozjpep4chuyf8ipkc988l
+      quote: Listen to Pedram Khavarzamini Songs | Spotify
+      accessed: '2026-11-21'
+      locator: Edition title
+  image:
+  - value: https://i.ytimg.com/vi/ny9fZUB6WGk/hqdefault.jpg
+    qualifiers:
+      credit:
+        text: Iwan Fakhteh             ایوانک فاخته on YouTube
+        language: en
+    references:
+    - source: www.youtube.com-watch-v-ny9fzub6wgk
+      quote: https://i.ytimg.com/vi/ny9fZUB6WGk/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: YouTube oEmbed original thumbnail
+    - source: www.youtube.com-watch-v-ny9fzub6wgk
+      quote: Iwan Fakhteh             ایوانک فاخته
+      accessed: '2026-11-21'
+      locator: Publisher

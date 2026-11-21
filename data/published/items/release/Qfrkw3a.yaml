@@ -24,6 +24,12 @@ statements:
       quote: 'Arshia Samsaminia - Block 11: A concerto for Accordion and orchestra 2019 Lodz, Poland'
       accessed: '2026-11-21'
       locator: Page title
+  - value: https://www.youtube.com/watch?v=yp45xXcpNW0
+    references:
+    - source: www.youtube.com-oembed-url-https
+      quote: 'Arshia Samsaminia - Block 11: A Concerto for Accordion and Orchestra - 2019 (Excerpt) -'
+      accessed: '2026-11-21'
+      locator: Page title
   contributor:
   - value: Qfvnnnd
     references:

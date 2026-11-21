@@ -1,0 +1,44 @@
+id: Qdqsqax
+type: release
+statements:
+  name:
+  - value:
+      text: ' Persson-Meitzner Duo'
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-oembed-url-https
+      quote: Arshia Samsaminia -Time , Space and Illusion- Sound of Stockholm 2017 -  Persson-Meitzner Duo
+      accessed: '2026-11-21'
+      locator: Page title
+  contributor:
+  - value: Qfvnnnd
+    references:
+    - source: www.youtube.com-oembed-url-https
+      quote: Arshia Samsaminia
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: composer
+  listen link:
+  - value: https://www.youtube.com/watch?v=2eka8spO4bc
+    references:
+    - source: www.youtube.com-oembed-url-https
+      quote: Arshia Samsaminia -Time , Space and Illusion- Sound of Stockholm 2017 -  Persson-Meitzner Duo
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i.ytimg.com/vi/2eka8spO4bc/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-url-https
+      quote: https://i.ytimg.com/vi/2eka8spO4bc/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Publisher video thumbnail
+    qualifiers:
+      credit:
+        text: Arshia Samsaminia
+        language: en
+  performer:
+  - value: Qmnpywv
+    references:
+    - *id001

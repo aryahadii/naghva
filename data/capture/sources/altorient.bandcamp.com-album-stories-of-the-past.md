@@ -1,5 +1,6 @@
 ---
 url: https://altorient.bandcamp.com/album/stories-of-the-past
+archive: https://web.archive.org/web/20220721042056/https://altorient.bandcamp.com/album/stories-of-the-past
 title: Stories of the Past | Various Arttists | Alt Orient
 status: processed
 language: en

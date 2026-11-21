@@ -1,5 +1,6 @@
 ---
 url: https://daily.bandcamp.com/shortlist/the-shortlist-april-2024
+archive: https://web.archive.org/web/20260810132832/https://daily.bandcamp.com/shortlist/the-shortlist-april-2024
 title: The Shortlist, April 2024 | Bandcamp Daily
 status: processed
 language: en

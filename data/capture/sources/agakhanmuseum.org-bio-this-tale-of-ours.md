@@ -6,6 +6,7 @@ tier: other
 language: en
 about:
 - This Tale of Ours
+- Pedram Khavarzamini
 status: processed
 ---
 
@@ -20,3 +21,7 @@ Museum biography, read 2026-11-21.
 > the modal musics of Iran, the former Ottoman empire, and the Balkans
 
 Museum performance description, read 2026-11-21.
+
+> tombak player Pedram Khavarzamini and tar player Araz Salek
+
+Museum quartet biography, read 2026-11-21.

@@ -1,0 +1,44 @@
+id: Q4g6gkc
+type: release
+statements:
+  name:
+  - value:
+      text: swear it, sign it, bleed on it - conference ensemble 2025
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-oembed-url-https
+      quote: Arshia Samsaminia - swear it, sign it, bleed on it - conference ensemble 2025
+      accessed: '2026-11-21'
+      locator: Page title
+  contributor:
+  - value: Qfvnnnd
+    references:
+    - source: www.youtube.com-oembed-url-https
+      quote: Arshia Samsaminia
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: composer
+  listen link:
+  - value: https://www.youtube.com/watch?v=Ax1JayC60xE
+    references:
+    - source: www.youtube.com-oembed-url-https
+      quote: Arshia Samsaminia - swear it, sign it, bleed on it - conference ensemble 2025
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i.ytimg.com/vi/Ax1JayC60xE/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-url-https
+      quote: https://i.ytimg.com/vi/Ax1JayC60xE/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Publisher video thumbnail
+    qualifiers:
+      credit:
+        text: Arshia Samsaminia
+        language: en
+  performer:
+  - value: Qmsxf54
+    references:
+    - *id001

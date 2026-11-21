@@ -1,0 +1,39 @@
+id: Qhatcpt
+type: release
+statements:
+  name:
+  - value:
+      text: Human Dignity - 2 Pianos, Narrator and Fixed Media
+      language: en
+    references:
+    - source: www.youtube.com-oembed-url-https
+      quote: Arshia Samsaminia - Human Dignity - 2 Pianos, Narrator and Fixed Media
+      accessed: '2026-11-21'
+      locator: Page title
+  contributor:
+  - value: Qfvnnnd
+    references:
+    - source: www.youtube.com-oembed-url-https
+      quote: Arshia Samsaminia
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: composer
+  listen link:
+  - value: https://www.youtube.com/watch?v=MwuAv3o9CPA
+    references:
+    - source: www.youtube.com-oembed-url-https
+      quote: Arshia Samsaminia - Human Dignity - 2 Pianos, Narrator and Fixed Media
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i.ytimg.com/vi/MwuAv3o9CPA/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-url-https
+      quote: https://i.ytimg.com/vi/MwuAv3o9CPA/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Publisher video thumbnail
+    qualifiers:
+      credit:
+        text: Arshia Samsaminia
+        language: en

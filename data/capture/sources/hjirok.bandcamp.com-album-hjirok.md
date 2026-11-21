@@ -1,5 +1,6 @@
 ---
 url: https://hjirok.bandcamp.com/album/hjirok
+archive: https://web.archive.org/web/20251030050238/https://hjirok.bandcamp.com/album/hjirok
 title: Hjirok | HJirok
 status: processed
 language: en

@@ -1,0 +1,59 @@
+id: Qaebh2b
+type: release
+statements:
+  name:
+  - value:
+      text: Char Mezrabe Nava
+      language: en
+    references:
+    - source: open.spotify.com-album-2rqdi8v4bmd12zczskbxfn
+      quote: Char Mezrabe Nava
+      accessed: '2026-11-21'
+      locator: Spotify track listing
+  performer:
+  - value: Q5rnjaz
+    qualifiers:
+      role: tombak
+    references:
+    - source: music.apple.com-us-album-jane-hazin-1858465428
+      quote: Pedram Khavarzamini
+      accessed: '2026-11-21'
+      locator: Artist or track-specific guest billing
+  - value: Qyrsg2f
+    references:
+    - source: music.apple.com-us-album-jane-hazin-1858465428
+      quote: Kiyarash Davoudi
+      accessed: '2026-11-21'
+      locator: Album headline billing
+  listen link:
+  - value: https://music.apple.com/us/song/char-mezrabe-nava/1858465429
+    references:
+    - source: music.apple.com-us-album-jane-hazin-1858465428
+      quote: Char Mezrabe Nava
+      accessed: '2026-11-21'
+      locator: Apple Music track listing
+  - value: https://open.spotify.com/track/1v8DUbp82Cz1wK3YW1iKSR
+    references:
+    - source: open.spotify.com-album-2rqdi8v4bmd12zczskbxfn
+      quote: Char Mezrabe Nava
+      accessed: '2026-11-21'
+      locator: Spotify track listing
+  release date:
+  - value:
+      date: '2025-11-22'
+    references:
+    - source: music.apple.com-us-album-jane-hazin-1858465428
+      quote: '2025-11-22'
+      accessed: '2026-11-21'
+      locator: Apple Music edition issue date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/67/e4/60/67e460da-2ace-e179-27cb-e186b8fd6367/199806540077.jpg/1200x630bb.jpg
+    qualifiers:
+      credit:
+        text: Apple Music edition artwork
+        language: en
+    references:
+    - source: music.apple.com-us-album-jane-hazin-1858465428
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/67/e4/60/67e460da-2ace-e179-27cb-e186b8fd6367/199806540077.jpg/1200x630bb.jpg
+      accessed: '2026-11-21'
+      locator: Apple Music edition artwork

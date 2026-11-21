@@ -32,3 +32,7 @@ Artist interview, biography or performance credits, read 2026-11-21.
 > 2022-05-06T18:37:44Z
 
 Date published on SoundCloud, read 2026-11-21.
+
+> Konzert vom 8. April 2022
+
+Artist interview, biography or performance credits, read 2026-11-21.

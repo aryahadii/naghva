@@ -21,3 +21,7 @@ Release heading, read 2026-11-21.
 > Flame Scream
 
 Track listing, read 2026-11-21.
+
+> Kourosh Babaei
+
+Release artist, read 2026-11-21.

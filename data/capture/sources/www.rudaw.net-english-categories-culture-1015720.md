@@ -1,5 +1,6 @@
 ---
 url: https://www.rudaw.net/english/categories/culture/1015720
+archive: https://web.archive.org/web/20260812121233/https://www.rudaw.net/english/categories/culture/1015720
 title: Kurdish artist Hani releases song of hope for protesters in Iran | Rudaw
 status: processed
 language: en

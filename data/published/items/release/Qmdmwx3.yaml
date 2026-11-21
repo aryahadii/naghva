@@ -1,0 +1,72 @@
+id: Qmdmwx3
+type: release
+statements:
+  name:
+  - value:
+      text: Improvisations with Bashir
+      language: en
+    references:
+    - source: open.spotify.com-album-1iobz9ghhskksfvwurhfws
+      quote: Improvisations with Bashir
+      accessed: '2026-11-21'
+      locator: Spotify edition title
+  release type:
+  - value: album
+    references:
+    - source: open.spotify.com-album-1iobz9ghhskksfvwurhfws
+      quote: Improvisations with Bashir
+      accessed: '2026-11-21'
+      locator: Spotify edition title
+  listen link:
+  - value: https://music.apple.com/us/album/improvisations-with-bashir/694739566
+    references:
+    - source: music.apple.com-us-album-improvisations-with-bashir-694739566
+      quote: ‎Improvisations with Bashir - Album by Pedram Khavarzamini - Apple Music
+      accessed: '2026-11-21'
+      locator: Edition title
+  - value: https://open.spotify.com/album/1iobz9GhHskKSfVwurHfws
+    references:
+    - source: open.spotify.com-album-1iobz9ghhskksfvwurhfws
+      quote: Improvisations with Bashir
+      accessed: '2026-11-21'
+      locator: Spotify edition title
+  performer:
+  - value: Q5rnjaz
+    qualifiers:
+      role: tombak
+    references:
+    - source: music.apple.com-us-album-improvisations-with-bashir-694739566
+      quote: Pedram Khavarzamini
+      accessed: '2026-11-21'
+      locator: Artist or track-specific guest billing
+  - value: Qykfyh4
+    references:
+    - source: open.spotify.com-album-1iobz9ghhskksfvwurhfws
+      quote: Jozef Kapustka
+      accessed: '2026-11-21'
+      locator: Spotify recording artist credits
+  - value: Qd5fnmf
+    references:
+    - source: open.spotify.com-album-1iobz9ghhskksfvwurhfws
+      quote: Bashir Faramarzi
+      accessed: '2026-11-21'
+      locator: Spotify recording artist credits
+  release date:
+  - value:
+      date: '2013-08-27'
+    references:
+    - source: music.apple.com-us-album-improvisations-with-bashir-694739566
+      quote: '2013-08-27'
+      accessed: '2026-11-21'
+      locator: Apple Music edition issue date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music/v4/08/51/1b/08511bdf-7cce-747c-3e9d-2eb66acc7f06/5902547009421.jpg/1200x630bb.jpg
+    qualifiers:
+      credit:
+        text: Apple Music edition artwork
+        language: en
+    references:
+    - source: music.apple.com-us-album-improvisations-with-bashir-694739566
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music/v4/08/51/1b/08511bdf-7cce-747c-3e9d-2eb66acc7f06/5902547009421.jpg/1200x630bb.jpg
+      accessed: '2026-11-21'
+      locator: Apple Music edition artwork

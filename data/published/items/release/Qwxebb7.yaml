@@ -1,0 +1,44 @@
+id: Qwxebb7
+type: release
+statements:
+  name:
+  - value:
+      text: Freq.Exp II - for Accordion and Fixed Media (Farabi 25-Tone UET ) - L. Lopičić
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-oembed-url-https
+      quote: Arshia Samsaminia - Freq.Exp II - for Accordion and Fixed Media (Farabi 25-Tone UET ) - L. Lopičić
+      accessed: '2026-11-21'
+      locator: Page title
+  contributor:
+  - value: Qfvnnnd
+    references:
+    - source: www.youtube.com-oembed-url-https
+      quote: Arshia Samsaminia
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: composer
+  listen link:
+  - value: https://www.youtube.com/watch?v=wGkyjkDxVYs
+    references:
+    - source: www.youtube.com-oembed-url-https
+      quote: Arshia Samsaminia - Freq.Exp II - for Accordion and Fixed Media (Farabi 25-Tone UET ) - L. Lopičić
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i.ytimg.com/vi/wGkyjkDxVYs/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-url-https
+      quote: https://i.ytimg.com/vi/wGkyjkDxVYs/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Publisher video thumbnail
+    qualifiers:
+      credit:
+        text: Arshia Samsaminia
+        language: en
+  performer:
+  - value: Qmfezh5
+    references:
+    - *id001

@@ -75,12 +75,34 @@ references:
     quote: Yahya Rahmani/Bass Guitar
     accessed: 2026-11-21
     locator: Release or concert personnel
+  canada:
+    source: www.bandmix.ca-artamene
+    quote: I want to come to Canada and continue here
+    accessed: 2026-11-21
+    locator: Recruitment listing
+  vaughan:
+    source: www.bandmix.ca-artamene
+    quote: Vaughan, ON
+    accessed: 2026-11-21
+    locator: Profile location
+  profileyear:
+    source: www.bandmix.ca-artamene
+    quote: Jun 15, 2024
+    accessed: 2026-11-21
+    locator: Date account opened
+  perm:
+    source: www.al-monitor.com-originals-2018-09-iranian-metal-groups-inch-toward-acceptance.html
+    quote: some bands went to Ershad and received a positive response.
+    accessed: 2026-11-21
+    locator: Pedram Shitreh on concert permits
 ---
 
-The brothers Pedram and Pooya Shitrah played guitar and drums in Tehran before Artamene had a registered name. They date the beginnings of the band to 2016. The registration followed in 2017, when they began giving heavy metal concerts under that name.[^start][^register][^place]
+The brothers Pedram and Pooya Shitrah played guitar and drums in Tehran before Artamene had a registered name. They date the beginnings of the band to 2016. The registration followed in 2017, when they began giving heavy metal concerts under that name.[^start][^register][^place] In a 2018 interview, Pedram recalled that metal bands had begun approaching the Ministry of Culture for concert permits and that some applications were succeeding.[^perm]
 
 At Tehran’s Azadi Tower on 29 November 2018, Artamene played Deep Purple alongside an original song, “Mayhem.” Rhythm guitarist Ali Karimi wrote it and vocalist Soheil Avakh arranged it. It was Avakh’s first show as a member of the band. Reza Khalilpour played bass that night. By the time Artamene announced its album, the bass credit belonged to Yahya Rahmani.[^date][^covers][^mayhem][^singer][^oldbass][^newbass]
 
 ## The staircase on Ziggurat
 
 The cover of *Ziggurat* shows a warrior on his knees. The band imagined the album as a climb. Five tracks in, the voice falls silent for the instrumental “Shining Black.” The next track bears the name of Inshushinak, a deity of ancient Susa. The eight-track record came out in January 2022 under a licensing agreement with Wormholedeath. The recording copyright is in the band’s name.[^image][^instrumental][^myth][^album][^issue][^rights]
+
+Pedram later advertised for musicians in Vaughan, Ontario, through an account opened in June 2024. He wrote that he wanted to continue Artamene in Canada and was looking for players to join him.[^canada][^vaughan][^profileyear]

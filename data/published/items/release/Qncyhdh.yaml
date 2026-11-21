@@ -1,0 +1,60 @@
+id: Qncyhdh
+type: release
+statements:
+  name:
+  - value:
+      text: 'Samsaminia: Micro-Moments IV'
+      language: en
+    references:
+    - source: music.apple.com-us-song-samsaminia-micro-moments-iv-1849660695
+      quote: 'Samsaminia: Micro-Moments IV'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  contributor:
+  - value: Qfvnnnd
+    references:
+    - source: music.apple.com-us-song-samsaminia-micro-moments-iv-1849660695
+      quote: Arshia Samsaminia
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: composer
+  performer:
+  - value: Qgdytwq
+    references:
+    - source: music.apple.com-us-song-samsaminia-micro-moments-iv-1849660695
+      quote: Ensemble musikFabrik
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://music.apple.com/us/song/samsaminia-micro-moments-iv/1849660695
+    references:
+    - source: music.apple.com-us-song-samsaminia-micro-moments-iv-1849660695
+      quote: '‎Samsaminia: Micro-Moments IV - Song with Lyrics by Ensemble musikFabrik - Apple Music'
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/samsaminia-micro-moments-iv-single/1849660694
+    references:
+    - source: music.apple.com-us-album-samsaminia-micro-moments-iv-single-1849660694
+      quote: '‎Samsaminia: Micro-Moments IV - Single - Album by Ensemble musikFabrik - Apple Music'
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/08/f4/4a/08f44af0-e95d-ad5c-03bd-315d76fa76ef/cover.jpg/600x600bb.webp
+    references:
+    - source: music.apple.com-us-song-samsaminia-micro-moments-iv-1849660695
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/08/f4/4a/08f44af0-e95d-ad5c-03bd-315d76fa76ef/cover.jpg/600x600bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Ensemble musikFabrik on Apple Music
+        language: en
+  release date:
+  - value:
+      date: '2025-10-31'
+    references:
+    - source: music.apple.com-us-song-samsaminia-micro-moments-iv-1849660695
+      quote: October 31, 2025
+      accessed: '2026-11-21'
+      locator: Published date

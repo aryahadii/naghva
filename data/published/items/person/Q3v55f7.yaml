@@ -13,6 +13,14 @@ statements:
         ‌همایون نصیری (پرکاشن)، ‌علی جعفری‌، پدرام فریوسفی (ویلن) و... کیان پورتراب (خواننده گروه کامنت) هم در قطعه
         «بشنو» به عنوان خواننده مهمان حضور دارد.
       accessed: '2026-11-06'
+  - value:
+      text: Kourosh Babaei
+      language: en
+    references:
+    - source: kamancheh.com-about-kourosh-babaei
+      quote: Kourosh Babaei, (کوروش بابایی)born in 1971 in Abadan, Iran
+      accessed: 2026-11-21
+      locator: Biographical opening
   member of:
   - value: Qhzc5js
     references:
@@ -20,3 +28,35 @@ statements:
       quote: Kourosh Babaei (who lives in Canada) and Homayuon Nasiri (who lives in Iran)
       accessed: 2026-11-21
       locator: Original participants
+  birth date:
+  - value:
+      date: '1971'
+    references:
+    - source: kamancheh.com-about-kourosh-babaei
+      quote: Kourosh Babaei, (کوروش بابایی)born in 1971 in Abadan, Iran
+      accessed: 2026-11-21
+      locator: Biographical opening
+  image:
+  - value: https://i.scdn.co/image/ab6761610000e5ebb0bfe5b8699bc7fca90961a6
+    qualifiers:
+      credit:
+        text: Kourosh Babaei via Spotify
+        language: en
+    references:
+    - source: open.spotify.com-artist-7k6ekxak93xln5mac3t7mv
+      quote: https://i.scdn.co/image/ab6761610000e5ebb0bfe5b8699bc7fca90961a6
+      accessed: 2026-11-21
+      locator: Artist’s portrait with his instrument
+  profile link:
+  - value: https://open.spotify.com/artist/7K6EkXAk93xLn5MAC3T7mv
+    references:
+    - source: open.spotify.com-artist-7k6ekxak93xln5mac3t7mv
+      quote: Kourosh Babaei
+      accessed: 2026-11-21
+      locator: Artist heading
+  - value: https://music.apple.com/us/artist/kourosh-babaei/379764274
+    references:
+    - source: music.apple.com-us-artist-kourosh-babaei-379764274
+      quote: Kourosh Babaei
+      accessed: 2026-11-21
+      locator: Artist name

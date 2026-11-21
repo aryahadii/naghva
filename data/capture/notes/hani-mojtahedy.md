@@ -17,7 +17,7 @@ A Kurdish catalogue lists the Cinderella album and eleven titles. Apple distribu
 - Meselek · https://hjirok.bandcamp.com/track/meselek · https://music.apple.com/us/song/meselek/1730807959 · https://open.spotify.com/track/5eXeKwzliHDcV1cr9TAICP · https://soundcloud.com/inverted-audio/hjirok-meselek-altin-village-mine · https://www.youtube.com/watch?v=Ro5UoHQ1z-c
 - Goman · https://hjirok.bandcamp.com/track/goman · https://music.apple.com/us/song/goman/1730807960 · https://open.spotify.com/track/2ptPRy5HSN67HynD1cXqCV
 - Tehran · https://hjirok.bandcamp.com/track/tehran · https://music.apple.com/us/song/tehran/1730807961 · https://open.spotify.com/track/7bLs6WcoWRjHbEp2DGs5j2
-- Passaporte · https://hjirok.bandcamp.com/track/passaporte · https://www.youtube.com/watch?v=9z444ONpS58 · https://www.youtube.com/watch?v=hZCeapFyLbE
+- Passaporte · https://hjirok.bandcamp.com/track/passaporte · https://www.youtube.com/watch?v=9z444ONpS58 · https://www.youtube.com/watch?v=hZCeapFyLbE · https://open.spotify.com/track/0wP1g0xEnMOGZIaJlf00OM
 - Cindrella · https://music.apple.com/us/song/cindrella/1789574534 · https://open.spotify.com/track/5Xcwfnt2vh3ijVkR8UhHnr · https://www.youtube.com/watch?v=jCpo4FzRifc
 - Dayk · https://music.apple.com/us/album/dayk/1598931350 · https://open.spotify.com/album/3siAGP2brNxe3NnEjx7nAV
 - Diltengi · https://music.apple.com/us/song/diltengi/1598931352 · https://open.spotify.com/track/25y4RBXYGXeFcp7uvVNpqz
@@ -34,17 +34,17 @@ A Kurdish catalogue lists the Cinderella album and eleven titles. Apple distribu
 - Ashiyane - Live · https://music.apple.com/us/song/ashiyane-live/1847875377 · https://open.spotify.com/track/5HGKsbkH9VLe2Kq48E84GC
 - Pekawe - Live · https://music.apple.com/us/song/pekawe-live/1847875378 · https://open.spotify.com/track/5Aq0m7ZsigNYC4jcAy8w2z
 - Xoshewisti - Live · https://music.apple.com/us/song/xoshewisti-live/1847875679 · https://open.spotify.com/track/6dOTya3Mrv2o3hKodhGaAv
-- Dame Sobh (feat. Hani Mojtahedy) · https://music.apple.com/us/song/dame-sobh-feat-hani-mojtahedy/1737493201 · https://music.apple.com/us/song/dame-sobh-feat-hani-mojtahedy/1751832378 · https://music.apple.com/us/song/dame-sobh-feat-hani-mojtahedy/1744528921 · https://t.me/hani_mojtahedi/99 · https://altorient.bandcamp.com/track/ipek-ipekcioglu-dame-sobh-feat-hani-mojtahedy-original-mix
+- Dame Sobh (feat. Hani Mojtahedy) · https://music.apple.com/us/song/dame-sobh-feat-hani-mojtahedy/1737493201 · https://music.apple.com/us/song/dame-sobh-feat-hani-mojtahedy/1751832378 · https://music.apple.com/us/song/dame-sobh-feat-hani-mojtahedy/1744528921 · https://t.me/hani_mojtahedi/99 · https://altorient.bandcamp.com/track/ipek-ipekcioglu-dame-sobh-feat-hani-mojtahedy-original-mix · https://open.spotify.com/track/3k5QzY6EbSuiv8r7s32Lbi · https://open.spotify.com/track/1RGUGCSodpjADgYZ6QNiel · https://open.spotify.com/track/0e9030USW9YNfGQllfM9l8
 - Shaw · https://music.apple.com/us/song/shaw/1480748095 · https://open.spotify.com/track/3rL2ScRitMj13EXA5l9IFv · https://www.youtube.com/watch?v=oUvIF8ZrARA · https://t.me/hani_mojtahedi/116
 - Skala · https://music.apple.com/us/song/skala/1485757196 · https://open.spotify.com/track/6unpFxHvTkpofZ83UDycbg · https://www.youtube.com/watch?v=-DKw7Jn7Xe4 · https://t.me/hani_mojtahedi/134
-- Yara Mi · https://music.apple.com/us/song/yara-mi/1514850009
-- Lalai (feat. Hani Mojtahedy & Shahram Mohamadi) · https://music.apple.com/us/song/lalai-feat-hani-mojtahedy-shahram-mohamadi/1522089264 · https://t.me/hani_mojtahedi/163
-- Nour (feat. Hani Mojtahedy) · https://music.apple.com/us/song/nour-feat-hani-mojtahedy/1518108560 · https://music.apple.com/us/song/nour-feat-hani-mojtahedy/1541155656 · https://music.apple.com/us/song/nour-feat-hani-mojtahedy/1518104132
-- nine-sum sorcery feat. Hani Mojtahedy · https://music.apple.com/us/album/nine-sum-sorcery-feat-hani-mojtahedy/1738234571 · https://studio-labour.bandcamp.com/album/nine-sum-sorcery
-- nine-sum sorcery a (feat. Hani Mojtahedy) · https://music.apple.com/us/song/nine-sum-sorcery-a-feat-hani-mojtahedy/1738234744 · https://studio-labour.bandcamp.com/track/nine-sum-sorcery-side-a
-- nine-sum sorcery B (feat. Hani Mojtahedy) · https://music.apple.com/us/song/nine-sum-sorcery-b-feat-hani-mojtahedy/1738234879 · https://studio-labour.bandcamp.com/track/nine-sum-sorcery-side-b
+- Yara Mi · https://music.apple.com/us/song/yara-mi/1514850009 · https://open.spotify.com/track/64FeBoxaufJzMs8yRjLgpx
+- Lalai (feat. Hani Mojtahedy & Shahram Mohamadi) · https://music.apple.com/us/song/lalai-feat-hani-mojtahedy-shahram-mohamadi/1522089264 · https://t.me/hani_mojtahedi/163 · https://open.spotify.com/track/00YTxvwAzd8SfrXdBQU1yZ
+- Nour (feat. Hani Mojtahedy) · https://music.apple.com/us/song/nour-feat-hani-mojtahedy/1518108560 · https://music.apple.com/us/song/nour-feat-hani-mojtahedy/1541155656 · https://music.apple.com/us/song/nour-feat-hani-mojtahedy/1518104132 · https://open.spotify.com/track/1H1lKC2G94HJ0qtSTlS8We · https://open.spotify.com/track/5S6ABji3DUqg8XtHPti5Yi · https://open.spotify.com/track/1VqDh3YYyLa70LaXknTKsl
+- nine-sum sorcery feat. Hani Mojtahedy · https://music.apple.com/us/album/nine-sum-sorcery-feat-hani-mojtahedy/1738234571 · https://studio-labour.bandcamp.com/album/nine-sum-sorcery · https://open.spotify.com/album/3PqEOZ2KcZb8DK7Lu0zPuu
+- nine-sum sorcery a (feat. Hani Mojtahedy) · https://music.apple.com/us/song/nine-sum-sorcery-a-feat-hani-mojtahedy/1738234744 · https://studio-labour.bandcamp.com/track/nine-sum-sorcery-side-a · https://open.spotify.com/track/35a9WPlH5wgrwN9Y89WgdO
+- nine-sum sorcery B (feat. Hani Mojtahedy) · https://music.apple.com/us/song/nine-sum-sorcery-b-feat-hani-mojtahedy/1738234879 · https://studio-labour.bandcamp.com/track/nine-sum-sorcery-side-b · https://open.spotify.com/track/2nRFCgUOpYOi5IyDSCtwuQ
 - Teniyayi · https://music.apple.com/us/song/teniyayi/1562925444 · https://open.spotify.com/track/6jPCcWzQ9OAhWjHkLhY96n
-- Gulbarin (feat. Hani Mojtahedy) · https://music.apple.com/us/song/gulbarin-feat-hani-mojtahedy/1565289087
+- Gulbarin (feat. Hani Mojtahedy) · https://music.apple.com/us/song/gulbarin-feat-hani-mojtahedy/1565289087 · https://open.spotify.com/track/56ReSjYu7PBr3abKdvTZGe
 - Jin Jiyan Azadi · https://music.apple.com/us/song/jin-jiyan-azadi/1659929907 · https://open.spotify.com/track/0bvIrDyhmCBPFTYyOEqkdZ · https://www.youtube.com/watch?v=9Wnhl7KK4XA
 - Mang Project Live · https://music.apple.com/us/album/mang-project-live/1660458473 · https://open.spotify.com/album/49XG2B0DXi7ToUOvTOY438
 - Like Rain - Live in Studio · https://music.apple.com/us/song/like-rain-live-in-studio/1660458474 · https://open.spotify.com/track/7k5PLgJWXoC6ONudBjBO5v
@@ -56,12 +56,12 @@ A Kurdish catalogue lists the Cinderella album and eleven titles. Apple distribu
 - Ruhi Hetaw · https://music.apple.com/us/song/ruhi-hetaw/1699222050 · https://open.spotify.com/track/238IAT9Xr7Hr0jw0vjHd6O · https://www.youtube.com/watch?v=v8VzQeK8wSc · https://t.me/hani_mojtahedi/219
 - Ruhi Hetaw (Remix) · https://music.apple.com/us/song/ruhi-hetaw-remix/1700320753 · https://open.spotify.com/track/5h05yDO1bSqNXpcbuWcXP8 · https://www.youtube.com/watch?v=HG-Fkr_xu94
 - Asheqi · https://music.apple.com/us/song/asheqi/1714685303 · https://open.spotify.com/track/6tPauX7twYGf1WpFc5jegK · https://www.youtube.com/watch?v=7yGV-YzeyMg
-- Frau Fisch · https://music.apple.com/us/song/frau-fisch/6829872019 · https://ilyich.bandcamp.com/track/frau-fisch-with-hani-mojtahedy-2
+- Frau Fisch · https://music.apple.com/us/song/frau-fisch/6829872019 · https://ilyich.bandcamp.com/track/frau-fisch-with-hani-mojtahedy-2 · https://open.spotify.com/track/2ovZ3V2mMv23HBm3b8Pyzm
 - Newroz · https://music.apple.com/us/song/newroz/1737027132 · https://open.spotify.com/track/5G99AB5WiPoDjP3E2ShG5b · https://www.youtube.com/watch?v=8T4ZUWHCN7M
 - Mirage (feat. Hani Mojtahedy) · https://music.apple.com/us/song/mirage-feat-hani-mojtahedy/1755562875
-- IMPROVISATION (feat. HANI MOJTAHEDY) · https://music.apple.com/us/song/improvisation-feat-hani-mojtahedy/1791252114
+- IMPROVISATION (feat. HANI MOJTAHEDY) · https://music.apple.com/us/song/improvisation-feat-hani-mojtahedy/1791252114 · https://open.spotify.com/track/3o3KpZ0Tp4vwBzYoi7Hcnf
 - Gardoon · https://music.apple.com/us/song/gardoon/1853119712 · https://open.spotify.com/track/4IMoJkrENmmY5iXPBZQP0A · https://www.youtube.com/watch?v=OITjoepG7is
-- Asheqi (feat. Hani Mojtahedy & Ferhad Mensuri) · https://music.apple.com/us/song/asheqi-feat-hani-mojtahedy-ferhad-mensuri/1854834002
+- Asheqi (feat. Hani Mojtahedy & Ferhad Mensuri) · https://music.apple.com/us/song/asheqi-feat-hani-mojtahedy-ferhad-mensuri/1854834002 · https://open.spotify.com/track/3Q7YrHCpaby9FLyKinlsSq
 - Zindegânî · https://music.apple.com/us/song/zindeg%C3%A2n%C3%AE/1855416553 · https://open.spotify.com/track/5SXd5AhozWUpLexcr7rvw9 · https://www.youtube.com/watch?v=7B61RKS72T8
 - Ashyane · https://music.apple.com/us/song/ashyane/1892578235 · https://open.spotify.com/track/5WyhQ6EtyQM9cp1u3P871m
 - Nishtiman · https://music.apple.com/us/song/nishtiman/6781708395 · https://open.spotify.com/track/74wa2SORu4Br67jZzQ7t6A · https://www.youtube.com/watch?v=kgn5EYMnx7c
@@ -84,7 +84,7 @@ A Kurdish catalogue lists the Cinderella album and eleven titles. Apple distribu
 - HJirok - The Mother of O · 
 - The Earth · 
 - Azadi · https://t.me/hani_mojtahedi/91
-- Peshmerga · https://www.youtube.com/watch?v=sZxRH8ZSkkI
+- Peshmerga · https://www.youtube.com/watch?v=sZxRH8ZSkkI · https://open.spotify.com/track/3R5MUn4IIFAAdKwPudtYV0
 - Aşîyanê (Kurdisches Filmfestival) · https://t.me/hani_mojtahedi/100
 - Yady Salan (Kurdisches Filmfestival) · https://t.me/hani_mojtahedi/101
 - Displaced/Replaced · https://t.me/hani_mojtahedi/97
@@ -107,3 +107,6 @@ A Kurdish catalogue lists the Cinderella album and eleven titles. Apple distribu
 - Hani mojtahedy singing Persian with Babylon orchestra هانى مجتهدى - ترانه فارسى · https://www.youtube.com/watch?v=6IiaGCObQLM
 - Hani Mojtahedy newroz concert in slemani · https://www.youtube.com/watch?v=q1Ksq1Y4AG4
 - Hani mojtahedy هاني مجتهدى - قرديلەی لەیلا قاسمم · https://www.youtube.com/watch?v=01NB2-RBc8k
+- Babylon Orchestra · https://music.apple.com/us/album/babylon-orchestra/1518108149
+- Phoenix · https://www.youtube.com/watch?v=WEYC9GqR2HE
+- Female Voice of Kurdistan · https://www.youtube.com/watch?v=LUacKKUJQY0

@@ -1,0 +1,42 @@
+id: Q3fm5k7
+type: release
+statements:
+  name:
+  - value:
+      text: Soor-va-soog
+      language: en
+    references:
+    - source: tombaknetwork.z19.web.core.windows.net-artists-khavar_zamani_pedram.htm
+      quote: Soor-va-soog
+      accessed: '2026-11-21'
+      locator: Historical discography
+  release type:
+  - value: album
+    references:
+    - source: tombaknetwork.z19.web.core.windows.net-artists-khavar_zamani_pedram.htm
+      quote: Soor-va-soog
+      accessed: '2026-11-21'
+      locator: Historical discography
+  performer:
+  - value: Q5rnjaz
+    qualifiers:
+      role: tombak
+    references:
+    - source: tombaknetwork.z19.web.core.windows.net-artists-khavar_zamani_pedram.htm
+      quote: Soor-va-soog
+      accessed: '2026-11-21'
+      locator: Historical discography
+  - value: Q2fjr4v
+    references:
+    - source: tombaknetwork.z19.web.core.windows.net-artists-khavar_zamani_pedram.htm
+      quote: Jahan Giri
+      accessed: '2026-11-21'
+      locator: Credited artist
+  release date:
+  - value:
+      date: '2000'
+    references:
+    - source: tombaknetwork.z19.web.core.windows.net-artists-khavar_zamani_pedram.htm
+      quote: '2000'
+      accessed: '2026-11-21'
+      locator: Original discography release year

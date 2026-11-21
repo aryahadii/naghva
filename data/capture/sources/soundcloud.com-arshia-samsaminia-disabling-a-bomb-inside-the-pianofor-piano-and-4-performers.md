@@ -44,3 +44,15 @@ Date published on SoundCloud, read 2026-11-21.
 > https://i1.sndcdn.com/artworks-000121536070-f07wis-large.jpg
 
 SoundCloud recording artwork, read 2026-11-21.
+
+> Video Cassette's Tape  ties to Bass part of piano's Strings
+
+Artist interview, biography or performance credits, read 2026-11-21.
+
+> Performers : Anri Gudashauri , Arshia Samsaminia , Tamar Purtkaradze , Joni Asatashvili
+
+Artist interview, biography or performance credits, read 2026-11-21.
+
+> Tbilisi Conservatoire-2015
+
+Artist interview, biography or performance credits, read 2026-11-21.

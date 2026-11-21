@@ -10,3 +10,7 @@ status: processed
 > a five-member outfit from Tehran
 
 Reporting from Tehran, read 2026-11-21.
+
+> some bands went to Ershad and received a positive response.
+
+Pedram Shitreh on concert permits, read 2026-11-21.
