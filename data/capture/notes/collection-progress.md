@@ -41,7 +41,7 @@ The expansion started at revision fa6c29ca with 124 bilingual artist pages. The 
 | Maryam Rahmani | Qtwtxvd | 9.2/10 | [Maryam Rahmani](maryam-rahmani-review.md) |
 | Araz Salek | Qzqvz5q | 8.4/10 | [Araz Salek](araz-salek-independent-review.md) |
 | Borderless Band | Qhzc5js | 9.2/10 | [Borderless Band](artist-page-scores.md) |
-| HJirok | Qjb6dqs | 8.7/10 | [HJirok](hjirok-independent-review.md) |
+| HJirok | Qjb6dqs | 9.2/10 | [HJirok](hjirok-independent-review.md) |
 | Artamene | Qq8jt69 | Pending | [Catalogue and open questions](artamene.md) |
 | Hani Mojtahedy | Qnrm3kw | Pending | [Catalogue and open questions](hani-mojtahedy.md) |
 
