@@ -1,4 +1,5 @@
 ---
+import { createHash } from 'node:crypto';
 import { getImage } from 'astro:assets';
 import garden from '../../assets/art/night-garden.png';
 import Page from '../../layouts/Page.astro';
@@ -12,16 +13,20 @@ export function getStaticPaths() { return LANGS.map(lang => ({ params: { lang } 
 const lang = Astro.params.lang as Lang;
 const t = strings(lang);
 const words = t.starMap;
-const data = buildStarMap(loadRecord(), lang);
+const stars = buildStarMap(loadRecord(), lang);
+const catalogue = JSON.stringify(stars).replace(/</g, '\\u003c');
+const fingerprint = createHash('sha256').update(catalogue).digest('hex').slice(0, 16);
+const artistCount = stars.filter(star => star.kind === 'artist').length;
 const backdrop = await getImage({ src: garden, width: 980, format: 'webp', quality: 76 });
 ---
 <Page lang={lang} title={`${words.title} | ${t.siteName}`} description={words.description} section="star-map" path="star-map/">
-  <main class="wrap star-map" id="content" style={`--sky-garden: url("${backdrop.src}")`}>
+  <main class="wrap star-map" id="content" data-catalogue={fingerprint} style={`--sky-garden: url("${backdrop.src}")`}>
     <div class="atlas-intro">
       <h1>{words.title}</h1>
       <p>{words.description}</p>
     </div>
-    {data.artists.length > 0 && <StarMap data={data} lang={lang} words={words} client:load />}
+    <script is:inline type="application/json" id="sky-catalogue" set:html={catalogue} />
+    {stars.length > 0 && <div class="needs-js"><StarMap artistCount={artistCount} recordingCount={stars.length - artistCount} lang={lang} words={words} client:load /></div>}
     <noscript><a href={url(lang, 'artists')}>{words.directory}</a></noscript>
   </main>
 </Page>

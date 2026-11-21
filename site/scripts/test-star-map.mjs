@@ -2,30 +2,45 @@ import assert from 'node:assert/strict';
 import { test } from 'node:test';
 import { buildStarMap } from '../src/lib/star-map.ts';
 
-const statement = (value, rank = 'normal', qualifiers) => ({ value, rank, qualifiers });
-const artist = (id, type = 'person') => ({
-  id, type, page: id, statements: {}, names: { en: { text: id, language: 'en' } },
+const statement = (value, rank = 'normal') => ({ value, rank });
+const item = (id, type, props = {}) => ({
+  id, type, statements: {}, names: { en: { text: id, language: 'en' } }, ...props,
 });
 
-test('the star map keeps distinct shared credits, historical memberships and isolated artists', () => {
-  const singer = artist('singer');
-  singer.statements['member of'] = [statement('band', 'normal', { 'end time': ['unknown value'] })];
-  const band = artist('band', 'act');
-  const other = artist('other');
-  const release = {
-    ...artist('song', 'release'), page: undefined, anchor: 'song',
+test('the sky includes every artist and release with only sourced, reciprocal links', () => {
+  const singer = item('singer', 'person', { statements: { 'member of': [statement('band')] } });
+  const band = item('band', 'act', { page: 'band' });
+  const other = item('other', 'person');
+  const song = item('song', 'release', {
+    anchor: 'song',
+    names: { en: { text: 'Song', language: 'en' }, fa: { text: 'ترانه', language: 'fa' } },
     statements: {
       performer: [statement('band'), statement('other', 'deprecated')],
       contributor: [statement('singer'), statement('singer')],
     },
+  });
+  const record = {
+    artists: ['band'], panelHosts: { song: 'band' },
+    items: { singer, band, other, song, demo: item('demo', 'release'), label: item('label', 'organization') },
   };
-  const record = { artists: ['band', 'singer', 'other'], items: { singer, band, other, song: release }, panelHosts: { song: 'band' } };
-  const map = buildStarMap(record, 'en');
-  const byId = Object.fromEntries(map.artists.map(a => [a.id, a]));
-  assert.deepEqual(map.recordings, [{ name: 'song', href: '/en/band/#song' }]);
-  assert.deepEqual(byId.band.connections, [{ artist: 'singer', membership: 'formerMember', recording: 0 }]);
-  assert.deepEqual(byId.singer.connections, [{ artist: 'band', membership: 'formerGroup', recording: 0 }]);
-  assert.deepEqual(byId.singer.recordings, [0]);
+  const sky = buildStarMap(record, 'en');
+  const byId = Object.fromEntries(sky.map(star => [star.id, star]));
+  assert.equal(sky.length, 5);
+  assert.deepEqual(byId.band.connections, ['singer', 'song']);
+  assert.deepEqual(byId.singer.connections, ['band', 'song']);
+  assert.deepEqual(byId.song.connections, ['band', 'singer']);
   assert.deepEqual(byId.other.connections, []);
-  assert.deepEqual(byId.other.recordings, []);
+  assert.deepEqual(byId.demo.connections, []);
+  assert.equal(byId.singer.href, null);
+  assert.equal(byId.song.href, '/en/band/#song');
+  assert.equal(byId.song.kind, 'recording');
+  assert.equal(byId.singer.kind, 'artist');
+  assert.equal(byId.song.alternate, 'ترانه');
+
+  const positions = stars => stars.map(({ id, x, y }) => [id, x, y]);
+  const reversed = { ...record, items: Object.fromEntries(Object.entries(record.items).reverse()) };
+  assert.deepEqual(positions(buildStarMap(reversed, 'fa')), positions(sky));
+  assert.equal(new Set(sky.map(star => [star.x, star.y].join(','))).size, sky.length);
+  assert.ok(sky.every(({ x, y }) => x > 0 && x < 1 && y > 0 && y < 1));
+  assert.deepEqual(buildStarMap({ items: {} }, 'en'), []);
 });
