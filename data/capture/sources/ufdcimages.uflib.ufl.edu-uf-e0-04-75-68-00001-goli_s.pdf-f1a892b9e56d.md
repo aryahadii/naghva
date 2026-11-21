@@ -13,3 +13,13 @@ tier: academic
 > The Ways, a rock band of four musicians, was formed in Mashhad in 2005.
 
 > Stress, their first album released online on their official website and Facebook fan page in 2010, includes eleven songs
+
+Page 119, including note 3, read 2026-11-21.
+
+> The Ways’ members met during their undergraduate years at university.
+
+> After Ershād rejected their request for an official permit, The Ways’ members began producing underground music under the name Empire, which was later changed to The Ways.
+
+> Kaveh Afagh left the band in 2013 to pursue his individual musical career and was replaced by Pedram Azad.
+
+> Alireza Pourreza and Hamed Ghannad moved to North America and continue their musical cooperation with the band remotely.
