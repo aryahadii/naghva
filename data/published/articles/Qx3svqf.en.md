@@ -318,26 +318,6 @@ references:
     quote: |-
       آهنگ «باغ» بلندترین قطعه در کارنامهٔ یاس محسوب می‌شود. این اثر، که «باغ» را استعاره‌ای از ایران قرار می‌دهد، در چهار بخش روایت شده و به بررسی رویدادهای سیاسی و اجتماعی سال‌های ۱۴۰۱ تا ۱۴۰۴ می‌پردازد.
     accessed: '2026-11-09'
-  y1401:
-    source: music.apple.com-us-album-1401-single-1819092408
-    quote: |-
-      June 6, 2025
-    accessed: '2026-11-09'
-  y1401-name:
-    source: music.apple.com-us-album-1401-single-1819092408
-    quote: |-
-      1401 - Single - Album by Yas - Apple Music
-    accessed: '2026-11-09'
-  y1404:
-    source: music.apple.com-us-album-1404-single-1819093467
-    quote: |-
-      June 6, 2025
-    accessed: '2026-11-09'
-  y1404-name:
-    source: music.apple.com-us-album-1404-single-1819093467
-    quote: |-
-      1404 - Single - Album by Yas - Apple Music
-    accessed: '2026-11-09'
   separ:
     source: music.apple.com-us-album-separ-shield-single-6828994315
     quote: |-
@@ -382,4 +362,4 @@ Back in Iran, he released “Bad Shodam” on 21 Esfand 1393 (12 March 2015) and
 
 “[Sarkoob](#sarkoob-5z9),” composed by Farbod Arsh, came out on Radio Javan on 30 Esfand 1395 (20 March 2017); at the time it was one of the longest songs in Persian rap.[^sarkoob][^fa-sarkoob] Later songs include “[Bande Naaf Ta Khatte Saaf](#bande-naaf-ta-khatte-saaf-qy6)” with Moer and “[Agaah](#agaah-8pg),” also with Moer and composed by Arsh.[^bandenaaf][^bandenaaf-name][^agaah][^agaah-composer] He released “[Sefareshi](#sefareshi-57g)” in 2022.[^sefareshi][^sefareshi-name]
 
-“[Beem](#beem-y38),” produced by Arsh and released on 27 May 2022, was his first political single. About twelve minutes long, it is built in five verses over three different beats.[^beem][^fa-beem] “[BAAQ](#baaq-63h),” released in March 2025, is the longest piece in his catalogue. Using a garden as a metaphor for Iran, it tells the political and social events of 1401 to 1404 in four parts.[^baaqdate][^baaq][^fa-baaq] That June he released four singles named for those years, from “[1401](#1401-hyy)” to “[1404](#1404-ket).”[^y1401][^y1401-name][^y1404][^y1404-name] In October 2026 he joined Reza Pishro and Tech N9ne on “[SEPAR (Shield)](#separ-shield-9pc).”[^separ][^separ-name]
+“[Beem](#beem-y38),” produced by Arsh and released in May 2022, runs for about twelve minutes, with five verses over three different beats.[^beem][^fa-beem] “[BAAQ](#baaq-63h),” released in March 2025, uses a garden as a metaphor for Iran. Its four parts follow the country’s political and social events during the early 2020s.[^baaqdate][^baaq][^fa-baaq] In October 2026 he joined Reza Pishro and Tech N9ne on “[SEPAR (Shield)](#separ-shield-9pc).”[^separ][^separ-name]
