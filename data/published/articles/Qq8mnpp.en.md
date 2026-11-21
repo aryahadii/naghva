@@ -57,11 +57,6 @@ references:
       10 songs, 43 minutes
       ℗ 2010 Sakkou Records
     accessed: 2026-10-19
-  later-members:
-    source: rooz.hilnu.com-persian-news-newsitem-article-babc088a09
-    quote: |-
-      این سه مارال محمدی (نوازنده چلو و همخوان) صالح زارعی (بیس) و جیسون (درامز) بودند
-    accessed: 2026-10-19
   open-project:
     source: rooz.hilnu.com-persian-news-newsitem-article-babc088a09
     quote: |-
@@ -72,20 +67,29 @@ references:
     quote: |-
       Tatilat from his album 88 with his former band Radio Tehran
     accessed: 2026-10-19
+  britain:
+    source: rooz.hilnu.com-persian-news-newsitem-article-babc088a09
+    quote: |-
+      من در سال دو هزار و چهار به بریتانیا مهاجرت کردم
+    accessed: '2026-11-21'
+  visit:
+    source: rooz.hilnu.com-persian-news-newsitem-article-babc088a09
+    quote: |-
+      در سفرم به تهران شکل گرفت.
+    accessed: '2026-11-21'
+  solo:
+    source: www.theguardian.com-world-2016-jul-29-indie-rock-musician-ali-azimi-perform-iran-3561d2583205
+    quote: |-
+      His second album, Mr Mean, was recorded under his own name and produced outside Iran with a new band, none of whom were Iranian.
+    accessed: '2026-11-21'
 ---
 
-Radio Tehran is an Iranian indie rock band from Tehran.[^band] Its documented lineup included [Ali Azimi](/en/ali-azimi-de2/) on lead vocals and guitar.[^azimi] Its debut album, *88*, was recorded in 2009.[^lineup-2009]
+Radio Tehran is an indie rock band that singer and guitarist [Ali Azimi](/en/ali-azimi-de2/) formed with friends in Tehran in the late 2000s. They recorded their first album, [*88*](#88-4xe), in 2009. Azimi later said they chose to work underground because seeking permission meant accepting censorship.[^band][^azimi][^formation-1387][^formation-1388][^lineup-2009][^permission]
 
-## Formation and lineup
+## Making 88
 
-Accounts give different starting dates. In a 2014 interview, Azimi dated the group’s formation with friends to 1387 in the Solar Hijri calendar; Radio Zamaneh later gave 1388. The biography published by Contemporary Iranian describes earlier names and lineups and says the band’s then-current form took shape in 2009.[^formation-1387][^formation-1388][^lineup-2009]
+Azimi had moved to Britain in 2004. He formed the band on a visit to Tehran.[^britain][^visit] The musicians worked under different names and with different line-ups before settling on the group that made *88*. Azimi sang and played guitar with lead guitarist Pedram Afshin, bassist Hesam Garshasbi and drummer Payam Hashemi. All three sang backing vocals.[^lineup-2009][^azimi][^pedram][^hesam][^payam] They brought old and new songs together for the album, which came out in 2010.[^release-march][^release-april]
 
-That biography names Pedram Afshin on lead guitar, Hesam Garshasbi on bass and Payam Hashemi on drums, all with backing vocals, alongside Azimi.[^pedram][^hesam][^payam][^azimi] In a 2016 interview, Azimi said Radio Tehran had worked underground without seeking official permission because of censorship.[^permission]
+## After the album
 
-## 88
-
-The biography describes *88* as a collection of old and new material released in March 2010. Apple Music lists 15 April 2010, ten tracks and a running time of 43 minutes. These release dates differ.[^release-march][^release-april]
-
-## Later concerts and solo work
-
-In his 1392 Solar Hijri interview with Rooz, Azimi named later concert players مارال محمدی on cello and backing vocals, صالح زارعی on bass and جیسون on drums.[^later-members] Asked whether Radio Tehran had ended, he described it at that time as an unfinished, open project.[^open-project] His official biography calls Radio Tehran his former band.[^former-band]
+Asked in 2013 whether Radio Tehran was over, he replied that he still considered it an open project.[^open-project] He went on to record under his own name[^solo] and later referred to Radio Tehran as his former band.[^former-band]
