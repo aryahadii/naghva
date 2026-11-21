@@ -1,7 +1,7 @@
 import { useEffect, useRef } from 'preact/hooks';
 import type { Strings } from '../lib/i18n';
 import type { Lang } from '../lib/record';
-import { skyComet } from '../lib/sky-comet';
+import { COMET_LIMIT, skyComet } from '../lib/sky-comet';
 import { coastStep, gestureVelocity } from '../lib/sky-motion';
 import type { SkyStar } from '../lib/star-map';
 
@@ -276,14 +276,14 @@ function makeSky(canvas: HTMLCanvasElement, field: HTMLCanvasElement, trail: HTM
   // so a resting view has no animation loop and camera movement cannot leave a stale trail.
   const paintedEdges: [number, number][] = [];
   let previousEdge = '';
-  const comet = skyComet(trail, () => {
+  const comet = skyComet(trail, occupied => {
     if (motion || pointers.size || frame) return null;
     const inside = (p: Point) => p.x >= 0 && p.y >= 0 && p.x <= w && p.y <= h;
-    const visible = paintedEdges.filter(([i, j]) =>
+    const key = ([i,j]: [number, number]) => i < j ? i + '/' + j : j + '/' + i;
+    const visible = paintedEdges.filter(edge => !occupied.has(key(edge))).filter(([i, j]) =>
       inside(points[i]) && inside(points[j]) && distance(points[i], points[j]) >= 12);
     const highlighted = visible.filter(([i, j]) => i === selected || j === selected);
     const pool = highlighted.length && Math.random() < .75 ? highlighted : visible;
-    const key = ([i,j]: [number, number]) => i < j ? i + '/' + j : j + '/' + i;
     const other = pool.filter(edge => key(edge) !== previousEdge);
     const choices = other.length ? other : pool;
     if (!choices.length) return null;
@@ -292,7 +292,7 @@ function makeSky(canvas: HTMLCanvasElement, field: HTMLCanvasElement, trail: HTM
     const [i, j] = Math.random() < .5 ? edge : [edge[1], edge[0]];
     const strong = i === selected || j === selected;
     const warm = strong ? stars[selected].kind === 'artist' : stars[j].kind === 'artist';
-    return { from: points[i], to: points[j], highlighted: strong, colour: warm ? '#ffe1a6' : '#abfff3' };
+    return { key: previousEdge, from: points[i], to: points[j], highlighted: strong, colour: warm ? '#ffe1a6' : '#abfff3' };
   });
 
   function paintField(ctx: CanvasRenderingContext2D, active: Set<number>) {
@@ -695,7 +695,9 @@ export default function SkyCanvas({ stars, selected, onSelect, lang, words, rese
   return (
     <div class="sky-viewport">
       <canvas ref={field} class="sky-field" aria-hidden="true" />
-      <span ref={trail} class="sky-comet" aria-hidden="true" />
+      <span ref={trail} aria-hidden="true">
+        {Array.from({ length: COMET_LIMIT }, (_, i) => <span key={i} class="sky-comet" />)}
+      </span>
       <canvas
         ref={canvas}
         class="sky-canvas"

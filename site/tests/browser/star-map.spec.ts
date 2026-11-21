@@ -111,41 +111,44 @@ test('a desktop trackpad pan stays on the sky as its direction changes at full e
   expect(await chart.evaluate((el: HTMLCanvasElement, initial) => el.toDataURL() !== initial, prior)).toBe(true);
 });
 
-test('a single intermittent comet travels on credits without repainting the star field', async ({ page }) => {
-  // Fix the random branch to exercise the selected-star emphasis repeatably.
+test('long comet tails overlap on distinct credits without repainting the sky', async ({ page }) => {
   await page.addInitScript(() => { Math.random = () => .25; });
   await page.goto('/en/star-map/?star=Qn8jqk8');
-  const trail = page.locator('.sky-comet');
-  await trail.waitFor({ state: 'attached' });
-  await page.waitForFunction(() => document.querySelector('.sky-comet')?.getAnimations().length === 1);
-  const flight = await trail.evaluate(async el => {
-    const [animation] = el.getAnimations();
-    const frames = (animation.effect as KeyframeEffect).getKeyframes();
-    const contexts = Array.from(el.parentElement!.querySelectorAll('canvas'), canvas => canvas.getContext('2d')!);
-    let repaints = 0;
-    const originals = contexts.map(ctx => ctx.clearRect);
-    contexts.forEach((ctx, i) => {
-      ctx.clearRect = (...args) => { repaints++; originals[i].apply(ctx, args); };
+  const viewport = page.locator('.sky-viewport');
+  const inFlight = () => Array.from(document.querySelectorAll('.sky-comet')).flatMap(el => el.getAnimations()).length;
+  await page.waitForFunction(count => Array.from(document.querySelectorAll('.sky-comet'))
+    .flatMap(el => el.getAnimations()).length >= count, 3);
+  const result = await viewport.evaluate(async el => {
+    const animations = Array.from(el.querySelectorAll<HTMLElement>('.sky-comet'))
+      .flatMap(trail => trail.getAnimations().map(animation => ({ trail, animation })));
+    const starts = animations.map(({ animation }) => Number(animation.startTime));
+    const paths = animations.map(({ trail, animation }) => {
+      const frames = (animation.effect as KeyframeEffect).getKeyframes();
+      const first = new DOMMatrix(String(frames[0].transform));
+      const last = new DOMMatrix(String(frames.at(-1)!.transform));
+      const distance = Math.hypot(last.e - first.e, last.f - first.f);
+      const width = parseFloat(trail.style.width);
+      const key = [first, last].map(m => [Math.round(m.e + width), Math.round(m.f)].join(',')).sort().join('/');
+      return { key, distance, width, peak: Math.max(...frames.map(f => Number(f.opacity))) };
     });
-    try { await animation.finished; }
+    let repaints = 0;
+    const contexts = Array.from(el.querySelectorAll('canvas'), c => c.getContext('2d')!);
+    const originals = contexts.map(ctx => ctx.clearRect);
+    contexts.forEach((ctx, i) => { ctx.clearRect = (...args) => { repaints++; originals[i].apply(ctx, args); }; });
+    try { await Promise.all(animations.map(({ animation }) => animation.finished)); }
     finally { contexts.forEach((ctx, i) => { ctx.clearRect = originals[i]; }); }
-    return {
-      repaints,
-      start: frames[0].transform,
-      peak: Math.max(...frames.map(frame => Number(frame.opacity))),
-      travels: frames[0].transform !== frames.at(-1)!.transform,
-      quiet: !el.getAnimations().length,
-    };
+    return { paths, repaints, starts };
   });
-  expect(flight).toMatchObject({ travels: true, quiet: true, repaints: 0 });
-  expect(flight.peak).toBeGreaterThan(.5);
-  await page.waitForFunction(() => document.querySelector('.sky-comet')?.getAnimations().length === 1);
-  const nextStart = await trail.evaluate(el =>
-    (el.getAnimations()[0].effect as KeyframeEffect).getKeyframes()[0].transform);
-  expect(nextStart).not.toBe(flight.start);
+  expect(result.repaints).toBe(0);
+  expect(new Set(result.paths.map(p => p.key)).size).toBe(result.paths.length);
+  expect(new Set(result.starts).size).toBe(result.starts.length);
+  expect(result.paths.some(p => p.peak > .5)).toBe(true);
+  for (const path of result.paths) {
+    expect(path.width).toBeCloseTo(Math.min(path.peak > .5 ? 100 : 64, path.distance * .62), 1);
+  }
   await page.emulateMedia({ reducedMotion: 'reduce' });
-  await expect.poll(() => trail.evaluate(el => el.getAnimations().length)).toBe(0);
+  await expect.poll(() => page.evaluate(inFlight)).toBe(0);
   await page.clock.install();
   await page.clock.runFor(10000);
-  expect(await trail.evaluate(el => el.getAnimations().length)).toBe(0);
+  expect(await page.evaluate(inFlight)).toBe(0);
 });

@@ -1,63 +1,85 @@
 interface Point { x: number; y: number }
-export interface CometPath { from: Point; to: Point; highlighted: boolean; colour: string }
+export interface CometPath { key: string; from: Point; to: Point; highlighted: boolean; colour: string }
 
-/** A single compositor animation, separated by irregular quiet intervals.
- * The star-field and label canvases do no work while the trail travels. */
-export function skyComet(element: HTMLElement, pick: () => CometPath | null) {
+export const COMET_LIMIT = 4;
+
+function fly(element: HTMLElement, path: CometPath): Animation {
+  const { from, to, highlighted, colour } = path;
+  const dx = to.x - from.x, dy = to.y - from.y;
+  const distance = Math.hypot(dx, dy);
+  const tail = Math.min(highlighted ? 100 : 64, distance * .62);
+  const height = highlighted ? 1.8 : 1.1;
+  const angle = Math.atan2(dy, dx);
+  element.style.width = `${tail}px`;
+  element.style.height = `${height}px`;
+  element.style.color = colour;
+  const peak = highlighted ? .8 : .38;
+  // Grow the wake behind the head as it leaves the star, keeping both on the credit line.
+  const offsets = [...new Set([0, .16, tail / distance, .76, 1])].sort((a, b) => a - b);
+  const frames = offsets.map(t => ({
+    offset: t,
+    opacity: peak * Math.min(1, t / .16, (1 - t) / .24),
+    transform: `translate3d(${from.x + dx*t - tail}px,${from.y + dy*t - height/2}px,0) rotate(${angle}rad) scaleX(${Math.min(1, t*distance/tail)})`,
+  }));
+  return element.animate(frames, { duration: 1700 + Math.min(distance, 250) * 2 + Math.random() * 900 });
+}
+
+/** One wake-up launches at most one trail. The compositor moves the live trails independently. */
+export function skyComet(container: HTMLElement, pick: (occupied: ReadonlySet<string>) => CometPath | null) {
+  const elements = Array.from(container.children) as HTMLElement[];
   const reduced = matchMedia('(prefers-reduced-motion: reduce)');
+  const flights = new Map<HTMLElement, Animation>();
+  const occupied = new Set<string>();
   let inView = false;
   let timer = 0;
-  let flight: Animation | null = null;
 
-  function stop() {
-    clearTimeout(timer);
-    flight?.cancel();
-    flight = null;
-  }
-
-  function wait() {
-    stop();
-    if (inView && !document.hidden && !reduced.matches) {
-      timer = window.setTimeout(launch, 1100 + Math.random() * 4500);
+  function schedule() {
+    if (inView && !document.hidden && !reduced.matches && flights.size < elements.length && !timer) {
+      timer = window.setTimeout(launch, 350 + Math.random() * 650);
     }
   }
-
   function launch() {
-    const path = pick();
-    if (!path) { wait(); return; }
-    const { from, to, highlighted, colour } = path;
-    const dx = to.x - from.x, dy = to.y - from.y;
-    const distance = Math.hypot(dx, dy);
-    const tail = Math.min(highlighted ? 34 : 22, distance * .32);
-    const height = highlighted ? 1.8 : 1.1;
-    const angle = Math.atan2(dy, dx);
-    element.style.width = `${tail}px`;
-    element.style.height = `${height}px`;
-    element.style.color = colour;
-    // The head is at the right-hand end of the gradient. Keep its entire tail
-    // on the edge, including during the fade at either end.
-    const transform = (t: number) => {
-      const fraction = tail / distance + (1 - tail / distance) * t;
-      return `translate3d(${from.x + dx * fraction - tail}px,${from.y + dy * fraction - height/2}px,0) rotate(${angle}rad)`;
-    };
-    const peak = highlighted ? .8 : .38;
-    flight = element.animate([0, .18, .72, 1].map((t, index) => ({
-      offset: t, transform: transform(t), opacity: index === 0 || index === 3 ? 0 : peak,
-    })), { duration: 1250 + Math.min(distance, 250) * 2 + Math.random() * 900, easing: 'linear' });
-    flight.onfinish = wait;
+    timer = 0;
+    const element = elements.find(slot => !flights.has(slot));
+    const path = element && pick(occupied);
+    if (element && path) {
+      const animation = fly(element, path);
+      flights.set(element, animation);
+      occupied.add(path.key);
+      animation.onfinish = () => {
+        occupied.delete(path.key);
+        flights.delete(element);
+        schedule();
+      };
+    }
+    schedule();
+  }
+  function stop() {
+    clearTimeout(timer);
+    timer = 0;
+    for (const flight of flights.values()) {
+      flight.onfinish = null;
+      flight.cancel();
+    }
+    flights.clear();
+    occupied.clear();
+  }
+  function restart() {
+    stop();
+    schedule();
   }
 
-  const observer = new IntersectionObserver(([entry]) => { inView = entry.isIntersecting; wait(); });
-  observer.observe(element.parentElement!);
-  document.addEventListener('visibilitychange', wait);
-  reduced.addEventListener('change', wait);
+  const observer = new IntersectionObserver(([entry]) => { inView = entry.isIntersecting; restart(); });
+  observer.observe(container.parentElement!);
+  document.addEventListener('visibilitychange', restart);
+  reduced.addEventListener('change', restart);
   return {
-    interrupt() { if (flight) wait(); },
+    interrupt() { if (flights.size) restart(); },
     dispose() {
       stop();
       observer.disconnect();
-      document.removeEventListener('visibilitychange', wait);
-      reduced.removeEventListener('change', wait);
+      document.removeEventListener('visibilitychange', restart);
+      reduced.removeEventListener('change', restart);
     },
   };
 }
