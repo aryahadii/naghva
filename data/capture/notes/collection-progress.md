@@ -44,10 +44,13 @@ The expansion started at revision fa6c29ca with 124 bilingual artist pages. The 
 | HJirok | Qjb6dqs | 9.2/10 | [HJirok](hjirok-independent-review.md) |
 | Artamene | Qq8jt69 | 9.1/10 | [Artamene](artamene-independent-review.md) |
 | Hani Mojtahedy | Qnrm3kw | 9.2/10 | [Hani Mojtahedy](hani-mojtahedy-review.md) |
-| Kourosh Babaei | Q3v55f7 | 8.5/10 | [Kourosh Babaei](artist-page-scores.md) |
+| Kourosh Babaei | Q3v55f7 | 9.1/10 | [Kourosh Babaei](artist-page-scores.md) |
 | Arshia Samsaminia | Qfvnnnd | 9.2/10 | [Arshia Samsaminia](arshia-samsaminia-review.md) |
-| Pedram Khavarzamini | Q5rnjaz | 8.5/10 | [Pedram Khavarzamini](pedram-khavarzamini-independent-review.md) |
-| LABOUR | Qwqf8en | Pending | Independent review in progress |
-| Farahnaz Hatam | Qweqy4v | Pending | Independent review in progress |
+| Pedram Khavarzamini | Q5rnjaz | 9.2/10 | [Pedram Khavarzamini](pedram-khavarzamini-independent-review.md) |
+| LABOUR | Qwqf8en | 8.8/10 | [LABOUR](labour-independent-review.md) |
+| Farahnaz Hatam | Qweqy4v | 8.3/10 | [Farahnaz Hatam](farahnaz-hatam-independent-review.md) |
+| Lowen | Qr7sft5 | Pending | [Catalogue](lowen.md) |
+| Payam Yousefi | Q57cj49 | Pending | Independent review in progress |
+| Nina Saeidi | Qnsexjj | Pending | [Catalogue](nina-saeidi.md) |
 
 The [discovery list](independent-artist-discovery.md) contains candidates with release leads. Some will prove ineligible or match an existing artist by another spelling. Only new artist pages count toward the target.

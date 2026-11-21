@@ -43,6 +43,18 @@ statements:
       quote: 'GmbH: An Anthology of Music for Fashion Shows 2016-2023 Vol. 1'
       locator: Publisher edition
       accessed: '2026-11-21'
+  - value: https://open.spotify.com/album/37Z8yuN4CDlFMpfAqUAxj3
+    references:
+    - source: open.spotify.com-album-37z8yun4cdlfmpfaquaxj3
+      quote: 'GmbH: An Anthology of Music for Fashion Shows 2016-2023 Vol. 1'
+      locator: Spotify edition
+      accessed: '2026-11-21'
+  - value: https://music.apple.com/us/album/gmbh-an-anthology-of-music-for-fashion-shows-2016-2023-vol-1/1735370919
+    references:
+    - source: music.apple.com-us-album-1735370919
+      quote: 'GmbH: An Anthology of Music for Fashion Shows 2016-2023 Vol. 1'
+      locator: Apple edition
+      accessed: '2026-11-21'
   release type:
   - value: album
     references:

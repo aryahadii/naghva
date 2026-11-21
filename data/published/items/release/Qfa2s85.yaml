@@ -1,0 +1,72 @@
+id: Qfa2s85
+type: release
+statements:
+  name:
+  - value:
+      text: 'Reng Shooshtari:  Kamancheh and Tombak Duet'
+      language: en
+    references:
+    - source: www.youtube.com-watch-v-s1andfhqq0y
+      quote: 'Reng Shooshtari:  Kamancheh and Tombak Duet'
+      accessed: '2026-11-21'
+      locator: YouTube oEmbed title
+  performer:
+  - value: Q57cj49
+    qualifiers:
+      role: kamancheh
+    references:
+    - source: www.youtube.com-watch-v-s1andfhqq0y
+      quote: 'Reng Shooshtari:  Kamancheh and Tombak Duet'
+      accessed: '2026-11-21'
+      locator: YouTube oEmbed title
+  - value: Qrzxsrn
+    qualifiers:
+      role: tombak
+    references:
+    - source: www.youtube.com-watch-v-s1andfhqq0y
+      quote: 'Tombak: Behnam Masoum'
+      accessed: '2026-11-21'
+      locator: Official film credits
+  release date:
+  - value:
+      date: '2021-07-28'
+    references:
+    - source: www.youtube.com-watch-v-s1andfhqq0y
+      quote: '2021-07-28'
+      accessed: '2026-11-21'
+      locator: Official artist YouTube feed upload date
+  listen link:
+  - value: https://www.youtube.com/watch?v=s1andfhQq0Y
+    references:
+    - source: www.youtube.com-watch-v-s1andfhqq0y
+      quote: 'Reng Shooshtari:  Kamancheh and Tombak Duet'
+      accessed: '2026-11-21'
+      locator: YouTube oEmbed title
+    - source: www.youtube.com-watch-v-s1andfhqq0y
+      quote: Payam Yousefi
+      accessed: '2026-11-21'
+      locator: Artist publishing channel
+  cover art:
+  - value: https://i.ytimg.com/vi/s1andfhQq0Y/hqdefault.jpg
+    qualifiers:
+      credit:
+        text: Payam Yousefi on YouTube
+        language: en
+    references:
+    - source: www.youtube.com-watch-v-s1andfhqq0y
+      quote: https://i.ytimg.com/vi/s1andfhQq0Y/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Native thumbnail
+    - source: www.youtube.com-watch-v-s1andfhqq0y
+      quote: Payam Yousefi
+      accessed: '2026-11-21'
+      locator: Artist publishing channel
+  contributor:
+  - value: Q52hj9g
+    qualifiers:
+      role: composer
+    references:
+    - source: www.youtube.com-watch-v-s1andfhqq0y
+      quote: 'By: Darvish Khan'
+      accessed: '2026-11-21'
+      locator: Composition or arrangement credit

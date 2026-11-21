@@ -1,0 +1,53 @@
+id: Qxdh2ke
+type: release
+statements:
+  name:
+  - value:
+      text: Krenko's Command
+      language: en
+    references:
+    - source: lowen.bandcamp.com-album-a-crypt-in-the-stars
+      quote: Krenko's Command
+      accessed: 2026-11-21
+      locator: Track sequence
+  performer:
+  - value: Qr7sft5
+    references:
+    - source: lowen.bandcamp.com-album-a-crypt-in-the-stars
+      quote: Lowen
+      accessed: 2026-11-21
+      locator: Artist credit
+  release date:
+  - value:
+      date: '2018-07-06'
+    references:
+    - source: lowen.bandcamp.com-album-a-crypt-in-the-stars
+      quote: released July 6, 2018
+      accessed: 2026-11-21
+      locator: Release details
+  cover art:
+  - value: https://f4.bcbits.com/img/a4029394885_10.jpg
+    references:
+    - source: lowen.bandcamp.com-album-a-crypt-in-the-stars
+      quote: https://f4.bcbits.com/img/a4029394885_10.jpg
+      accessed: 2026-11-21
+      locator: Release artwork
+  listen link:
+  - value: https://lowen.bandcamp.com/track/krenkos-command
+    references:
+    - source: lowen.bandcamp.com-album-a-crypt-in-the-stars
+      quote: Krenko's Command
+      accessed: 2026-11-21
+      locator: Track sequence
+  - value: https://music.apple.com/us/song/krenkos-command/1368569091
+    references:
+    - source: music.apple.com-us-album-a-crypt-in-the-stars-1368568826
+      quote: Krenko's Command
+      accessed: 2026-11-21
+      locator: Apple edition or track
+  - value: https://open.spotify.com/track/7d2N3DY6OYVtrSiY6CT27B
+    references:
+    - source: open.spotify.com-album-5s92lbltbq5ateffd6cbgi
+      quote: Krenko's Command
+      accessed: 2026-11-21
+      locator: Track sequence

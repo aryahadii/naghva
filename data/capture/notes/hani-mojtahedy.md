@@ -110,3 +110,5 @@ A Kurdish catalogue lists the Cinderella album and eleven titles. Apple distribu
 - Babylon Orchestra · https://music.apple.com/us/album/babylon-orchestra/1518108149
 - Phoenix · https://www.youtube.com/watch?v=WEYC9GqR2HE
 - Female Voice of Kurdistan · https://www.youtube.com/watch?v=LUacKKUJQY0
+
+The Klangteppich Berlin publisher released two different excerpts of the 2018 concert with Farahnaz Hatam. Both performances name Mojtahedy as vocalist. The November 2020 NTS programme documents her selections and plays the two sides of nine-sum sorcery. The studio’s concert film documents the separate 2019 Berlin Atonal performance.

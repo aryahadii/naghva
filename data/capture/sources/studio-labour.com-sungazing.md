@@ -16,3 +16,7 @@ Premiere instrumentation and location, read 2026-11-21.
 Movement in the score, read 2026-11-21.
 
 > instrumentalists move from the stage to distribute themselves throughout the audience
+
+Artists and venue, read 2026-11-21.
+
+> sungazing performance by LABOUR (Farahnaz Hatam & Colin Hacklander) at Kraftwerk Berlin for the X100 Festival

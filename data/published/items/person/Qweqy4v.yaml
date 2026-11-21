@@ -19,3 +19,25 @@ statements:
       accessed: '2026-11-21'
     qualifiers:
       role: composer
+  image:
+  - value: https://i.scdn.co/image/ab6761610000e5ebfff8d09c7ddcc51ead7321b4
+    references:
+    - source: studio-labour.com-about
+      quote: LABOUR (Farahnaz Hatam & Colin Hacklander)
+      locator: Captioned duo
+      accessed: '2026-11-21'
+    - source: open.spotify.com-artist-7jkgenpllnwqbwv1pkqa8v
+      quote: https://i.scdn.co/image/ab6761610000e5ebfff8d09c7ddcc51ead7321b4
+      locator: Group portrait on duo profile
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Farahnaz Hatam and Colin Hacklander · LABOUR
+        language: en
+  profile link:
+  - value: https://hatam.bandcamp.com/music
+    references:
+    - source: hatam.bandcamp.com-music
+      quote: HATAM
+      locator: Artist-owned Bandcamp profile
+      accessed: '2026-11-21'

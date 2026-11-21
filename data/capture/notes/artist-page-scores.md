@@ -144,3 +144,7 @@ Independent review on 2026-11-21. **8.4/10** · Sources 1.8, prose 1.8, recordin
 ## Kourosh Babaei · Q3v55f7
 
 Independent review on 2026-11-21. **8.5/10** · Sources 1.9, prose 1.8, recordings 2.2, images 1.0, gaps and reader experience 1.6. English and Persian hashes are b7d7b29ea06d and d4db0097071f. Each language rendered 141 recording panels, 275 decoded images and functional fragments. Both articles explain the shahkaman score and Kamanyar support. His early credited albums and the different Kerman concert recording need reconciliation. Darkoob’s bandleader names him on Liwa, and Ehsan Matoori’s liner notes identify his kamancheh on tracks one and three. Article ready, catalogue needs repair.
+
+### Kourosh Babaei, second independent review on 2026-11-21
+
+**9.1/10** · Sources 1.9, prose 1.8, recordings 2.6, images 1.0, gaps and reader experience 1.8. The two rendered pages contain 153 panels, 285 decoded images apiece and working local fragments. English and Persian hashes are 9e64e72a3e69 and 256016107f5a. His six earlier Aref and Payvar albums, the archival Kerman performance, the two credited Ehsan Matoori tracks, and the Liwa, Shurafarin and Ân Trio albums now have distinct evidence. Credits stay at album level where no track list names the player. The musician reports participating in more than 150 albums. His publicly named discography documents a subset. Article and catalogue ready within that limit.

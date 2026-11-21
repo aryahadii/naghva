@@ -36,3 +36,7 @@ Recording process, read 2026-11-21.
 Vinyl issue, read 2026-11-21.
 
 > released November 18, 2020
+
+Original performance and composition credits, read 2026-11-21.
+
+> Music by LABOUR Farahnaz Hatam and Colin Hacklander

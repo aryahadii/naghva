@@ -60,11 +60,16 @@ references:
     quote: instrumentalists move from the stage to distribute themselves throughout the audience
     locator: Movement in the score
     accessed: '2026-11-21'
+  issue:
+    source: klangteppichberlin.bandcamp.com-track-live-performance-excerpt-one
+    quote: Hani Mojtahedy – vocals, HATAM – electronics
+    locator: Festival recording credits
+    accessed: '2026-11-21'
 ---
 
 Farahnaz Hatam grew up hearing Mahasti, Hayedeh and Googoosh on her father’s stereo. Born in Tehran and trained in molecular biology, she traces her interest in making sound to a series of open concerts at Mills College in California in the early 1990s. There, students working with Maryanne Amacher and Alvin Curran played new computer music each week.[^home][^teh][^bio][^ear]
 
-In Berlin, Hatam and percussionist Colin Hacklander ran N.K., an experimental music venue that hosted more than 450 concerts and workshops between 2008 and 2015. They began collaborating as musicians in 2013 and founded LABOUR five years later. Hatam also maintained her own practice. Her work *The Sublime Object* appeared at Berlin’s Klangteppich festival in 2018, where she also performed with Kurdish singer Hani Mojtahedy.[^nk][^duo][^first][^hani]
+In Berlin, Hatam and percussionist Colin Hacklander ran N.K., an experimental music venue that hosted more than 450 concerts and workshops between 2008 and 2015. They began collaborating as musicians in 2013 and founded LABOUR five years later. Hatam also maintained her own practice. Her work *The Sublime Object* appeared at Berlin’s Klangteppich festival in 2018, where she also performed with Kurdish singer Hani Mojtahedy.[^nk][^duo][^first][^hani] The festival released two excerpts from their set, with Mojtahedy singing and Hatam on electronics.[^issue]
 
 ## An instrument built from a voice
 

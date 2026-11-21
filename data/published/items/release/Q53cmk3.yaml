@@ -1,0 +1,80 @@
+id: Q53cmk3
+type: release
+statements:
+  name:
+  - value:
+      text: 'Pishdaramad Esfehan by, Ali Akbar Shahnazi: Setar, Kamancheh, & Tombak Trio'
+      language: en
+    references:
+    - source: www.youtube.com-watch-v-rjy4sd4najw
+      quote: 'Pishdaramad Esfehan by, Ali Akbar Shahnazi: Setar, Kamancheh, & Tombak Trio'
+      accessed: '2026-11-21'
+      locator: YouTube oEmbed title
+  performer:
+  - value: Q57cj49
+    qualifiers:
+      role: kamancheh
+    references:
+    - source: www.youtube.com-watch-v-rjy4sd4najw
+      quote: 'Pishdaramad Esfehan by, Ali Akbar Shahnazi: Setar, Kamancheh, & Tombak Trio'
+      accessed: '2026-11-21'
+      locator: YouTube oEmbed title
+  - value: Q5gnxjb
+    qualifiers:
+      role: setar
+    references:
+    - source: www.youtube.com-watch-v-rjy4sd4najw
+      quote: Elham Kamzemi
+      accessed: '2026-11-21'
+      locator: Official video credits
+  - value: Q7vpf9q
+    qualifiers:
+      role: tombak
+    references:
+    - source: www.youtube.com-watch-v-rjy4sd4najw
+      quote: Maryam Molla
+      accessed: '2026-11-21'
+      locator: Official video credits
+  release date:
+  - value:
+      date: '2021-07-05'
+    references:
+    - source: www.youtube.com-watch-v-rjy4sd4najw
+      quote: '2021-07-05'
+      accessed: '2026-11-21'
+      locator: Official artist YouTube feed upload date
+  listen link:
+  - value: https://www.youtube.com/watch?v=rJy4Sd4NAjw
+    references:
+    - source: www.youtube.com-watch-v-rjy4sd4najw
+      quote: 'Pishdaramad Esfehan by, Ali Akbar Shahnazi: Setar, Kamancheh, & Tombak Trio'
+      accessed: '2026-11-21'
+      locator: YouTube oEmbed title
+    - source: www.youtube.com-watch-v-rjy4sd4najw
+      quote: Payam Yousefi
+      accessed: '2026-11-21'
+      locator: Artist publishing channel
+  cover art:
+  - value: https://i.ytimg.com/vi/rJy4Sd4NAjw/hqdefault.jpg
+    qualifiers:
+      credit:
+        text: Payam Yousefi on YouTube
+        language: en
+    references:
+    - source: www.youtube.com-watch-v-rjy4sd4najw
+      quote: https://i.ytimg.com/vi/rJy4Sd4NAjw/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Native thumbnail
+    - source: www.youtube.com-watch-v-rjy4sd4najw
+      quote: Payam Yousefi
+      accessed: '2026-11-21'
+      locator: Artist publishing channel
+  contributor:
+  - value: Q2m6mr2
+    qualifiers:
+      role: composer
+    references:
+    - source: www.youtube.com-watch-v-rjy4sd4najw
+      quote: by, Ali Akbar Shahnazi
+      accessed: '2026-11-21'
+      locator: Composition or arrangement credit
