@@ -76,8 +76,8 @@ const contents = [
             <a class="pill title-action" href={`${url(lang, 'timeline')}?artist=${encodeURIComponent(artist.page!)}`} aria-label={t.artist.onTimeline} title={t.artist.onTimeline}>
               <svg class="title-glyph timeline-glyph" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M3 3v16a2 2 0 0 0 2 2h16M10 6h8M8 11h7M12 16h6" /></svg>
             </a>
-            <a class="pill title-action" href={`${url(lang, 'star-map')}?artist=${encodeURIComponent(artist.id)}`} aria-label={t.starMap.title} title={t.starMap.title}>
-              <svg class="title-glyph" viewBox="0 0 24 24" aria-hidden="true"><path d="m12 2 2.5 7.5L22 12l-7.5 2.5L12 22l-2.5-7.5L2 12l7.5-2.5Z" /></svg>
+            <a class="pill title-action" href={`${url(lang)}?star=${encodeURIComponent(artist.page!)}`} aria-label={t.starMap.onMap} title={t.starMap.onMap}>
+              <svg class="title-glyph" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 2 2.5 7.5L22 12l-7.5 2.5L12 22l-2.5-7.5L2 12l7.5-2.5Z" /></svg>
             </a>
             <ShareButton lang={lang} address={address.href} name={view.name} other={view.other} kicker={view.kicker} photo={view.photo?.image ?? null} />
             <a class="pill title-action" href={suggest} rel="nofollow" aria-label={t.artist.suggestEdit} title={t.artist.suggestEdit}>

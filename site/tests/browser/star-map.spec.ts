@@ -1,123 +1,293 @@
-import { expect, test } from '@playwright/test';
-import type { SkyStar } from '../../src/lib/star-map';
+import { expect, test, type Page, type Route } from '@playwright/test';
+import type { Sky } from '../../src/lib/star-map';
 
 declare global {
   interface Window { creditCurves: number[][] }
 }
 
-test('the whole sky is drawn at once, stays mounted while exploring, and fits again after zoom', async ({ page }) => {
+// The sky is tested on the built site alone; a picture kept elsewhere must not hold a test.
+// Stars are taken from the built sky, not from today's record.
+const localOnly = (route: Route) => new URL(route.request().url()).hostname === '127.0.0.1'
+  ? route.continue() : route.abort();
+test.beforeEach(async ({ context }) => { await context.route('**/*', localOnly); });
+
+type Entry = Sky['stars'][number];
+const readSky = async (page: Page): Promise<Sky> => (await page.request.get('/sky.json')).json();
+const places = (sky: Sky) => sky.stars.map(({ x, y }) => ({ x: x / 100_000, y: y / 100_000 }));
+const keyOf = (star: Entry) => (star.h ? star.h.replace(/^.*#|\//g, '') : star.i!);
+const chosen = (page: Page) => new URL(page.url()).searchParams.get('star');
+const ready = (page: Page) => expect(page.locator('.sky-home')).toHaveAttribute('data-ready', '');
+const full = (page: Page) => page.locator('dialog.sky-full');
+const card = (page: Page) => page.locator('.star-card');
+const picture = (page: Page) => page.locator('canvas.sky-canvas').evaluate((el: HTMLCanvasElement) => el.toDataURL());
+
+/** How many stars have ink where the sky at its full extent puts them. */
+const inked = (page: Page, stars: { x: number; y: number }[]) => page.evaluate((data) => {
+  const canvas = document.querySelector<HTMLCanvasElement>('.sky-canvas')!;
+  const field = document.querySelector<HTMLCanvasElement>('.sky-field')!;
+  const box = canvas.getBoundingClientRect(), bounds = field.getBoundingClientRect();
+  const margin = Math.min(38, Math.min(box.width, box.height) * .085);
+  // The full view keeps its sky clear of the bars above and below it.
+  const bar = (name: string) => canvas.closest('dialog')?.querySelector<HTMLElement>(name)?.offsetHeight ?? 0;
+  const top = Math.max(margin, bar('.sky-bar')), bottom = Math.max(margin, bar('.sky-tools'));
+  const pixels = field.getContext('2d')!.getImageData(0, 0, field.width, field.height).data;
+  return data.filter(({ x, y }) => {
+    const col = Math.floor((box.left - bounds.left + margin + x * (box.width - 2 * margin)) * field.width / bounds.width);
+    const row = Math.floor((box.top - bounds.top + top + y * (box.height - top - bottom)) * field.height / bounds.height);
+    return pixels[(row * field.width + col) * 4 + 3] > 0;
+  }).length;
+}, stars);
+
+test('the preview draws the whole sky and leaves the wheel to the page', async ({ page }) => {
   await page.setViewportSize({ width: 390, height: 844 });
-  await page.goto('/en/star-map/');
-  const chart = page.locator('canvas.sky-canvas');
-  const stars: SkyStar[] = JSON.parse((await page.locator('#sky-catalogue').textContent())!);
-  await expect(chart).toHaveAttribute('data-star-count', String(stars.length));
-  // Sample the painted field through its compositor transform.
-  // Every data coordinate, including isolated artists and recordings, must have ink at full extent.
-  const visible = () => chart.evaluate((canvas: HTMLCanvasElement, data) => {
-    const box = canvas.getBoundingClientRect();
-    const pad = Math.min(38, Math.min(box.width, box.height) * .085);
-    const field = canvas.parentElement!.querySelector<HTMLCanvasElement>('.sky-field')!;
-    const bounds = field.getBoundingClientRect();
-    const pixels = field.getContext('2d')!.getImageData(0, 0, field.width, field.height).data;
-    return data.filter(({x, y}) => {
-      const col = Math.floor((box.left - bounds.left + pad + x * (box.width - 2 * pad)) * field.width / bounds.width);
-      const row = Math.floor((box.top - bounds.top + pad + y * (box.height - 2 * pad)) * field.height / bounds.height);
-      return pixels[(row * field.width + col) * 4 + 3] > 0;
-    }).length;
-  }, stars);
-  await expect.poll(visible).toBe(stars.length);
+  await page.goto('/en/');
+  await ready(page);
+  const stars = places(await readSky(page));
+  // Every star, the isolated ones too, has ink in the preview.
+  await expect.poll(() => inked(page, stars)).toBe(stars.length);
   const glints = page.locator('.sky-glints i:visible');
   await expect(glints).toHaveCount(8);
   await expect(glints.first()).toHaveCSS('animation-name', 'sky-glimmer');
   await page.emulateMedia({ reducedMotion: 'reduce' });
   await expect(glints.first()).toHaveCSS('animation-name', 'none');
-  await page.getByRole('button', { name: 'Zoom in' }).click();
-  await expect.poll(visible).toBeLessThan(stars.length);
-  await page.getByRole('button', { name: 'Fit all stars' }).click();
-  await expect.poll(visible).toBe(stars.length);
 
-  await chart.focus();
-  await page.keyboard.press('Enter');
-  await expect(page.locator('.inspector-heading h2')).toBeVisible();
-  await expect(chart).toHaveAttribute('data-star-count', String(stars.length));
-  await page.getByRole('button', { name: 'Clear selection' }).click();
-  await expect.poll(visible).toBe(stars.length);
+  await page.locator('.sky-slot').hover();
+  await page.mouse.wheel(0, 240);
+  await expect.poll(() => page.evaluate(() => scrollY)).toBeGreaterThan(0);
+  await expect(page.locator('canvas.sky-canvas')).toHaveCSS('touch-action', 'auto');
+  await expect(full(page)).toBeHidden();
 });
 
-test('a recording can be found by name, traced to an artist and revisited in Persian', async ({ page }) => {
-  await page.goto('/en/star-map/');
-  const stars: SkyStar[] = JSON.parse((await page.locator('#sky-catalogue').textContent())!);
-  const work = stars.find(s => s.kind === 'recording' && s.href && s.connections.length && stars.filter(other => other.name === s.name).length === 1)!;
-  await page.getByRole('button', { name: 'Find a star' }).click();
-  const finder = page.getByRole('dialog');
-  await finder.getByRole('button', { name: 'Recordings', exact: true }).click();
-  await finder.getByRole('searchbox').fill(work.name);
-  await finder.getByRole('searchbox').press('Enter');
-  await expect(page.locator('.inspector-heading h2')).toHaveText(work.name);
-  await expect(page.getByRole('link', { name: 'Open recording' })).toHaveAttribute('href', work.href!);
-  await page.locator('.sky-links li button').first().click();
-  await expect(page.locator('.star-kind')).toHaveText('Artist');
+test('the preview lights an artist by itself, and rests when it is out of view', async ({ page }) => {
+  await page.goto('/en/');
+  await ready(page);
+  const lit = () => page.locator('canvas.sky-canvas').evaluate((el: HTMLCanvasElement) =>
+    el.getContext('2d')!.getImageData(0, 0, el.width, el.height).data.some((value, i) => i % 4 === 3 && value > 0));
+  await expect.poll(lit).toBe(true);
+  await page.evaluate(() => scrollTo(0, document.body.scrollHeight));
+  await expect.poll(lit).toBe(false);
+});
+
+test.describe('on a phone', () => {
+  test.use({ viewport: { width: 390, height: 664 }, hasTouch: true, isMobile: true });
+
+  test('a swipe over the preview scrolls the page, and the same swipe moves the open sky', async ({ page }) => {
+    await page.goto('/en/');
+    await ready(page);
+    const box = (await page.locator('.sky-slot').boundingBox())!;
+    const x = box.x + box.width / 2, y = box.y + box.height / 2;
+    const touch = await page.context().newCDPSession(page);
+    const swipe = async () => {
+      await touch.send('Input.dispatchTouchEvent', { type: 'touchStart', touchPoints: [{ x, y }] });
+      for (let i = 1; i <= 8; i++) {
+        await touch.send('Input.dispatchTouchEvent', { type: 'touchMove', touchPoints: [{ x, y: y - i * 20 }] });
+      }
+      await touch.send('Input.dispatchTouchEvent', { type: 'touchEnd', touchPoints: [] });
+    };
+    await swipe();
+    await expect.poll(() => page.evaluate(() => scrollY)).toBeGreaterThan(60);
+    await expect(full(page)).toBeHidden();
+
+    // Let the swipe's own momentum end, so the next touch is a tap and not a catch.
+    const settled = async () => {
+      const at = await page.evaluate(() => scrollY);
+      await page.waitForTimeout(200);
+      return at === await page.evaluate(() => scrollY);
+    };
+    await expect.poll(settled).toBe(true);
+    await page.evaluate(() => scrollTo(0, 0));
+    await expect.poll(settled).toBe(true);
+    const held = await page.evaluate(() => scrollY);
+    await page.touchscreen.tap(x, y);
+    await expect(full(page)).toBeVisible();
+    await expect(card(page)).toHaveAttribute('data-shown', '');
+    // The sky has flown to its star; a swipe moves it, even one that starts on the card.
+    const place = () => card(page).evaluate((el) => el.style.transform);
+    await expect.poll(async () => { const at = await place(); await page.waitForTimeout(150); return at === await place(); }).toBe(true);
+    const spot = (await card(page).boundingBox())!;
+    const [cx, cy] = [spot.x + spot.width / 2, spot.y + spot.height / 2];
+    const before = await place();
+    await touch.send('Input.dispatchTouchEvent', { type: 'touchStart', touchPoints: [{ x: cx, y: cy }] });
+    for (let i = 1; i <= 6; i++) {
+      await touch.send('Input.dispatchTouchEvent', { type: 'touchMove', touchPoints: [{ x: cx + i * 10, y: cy }] });
+    }
+    await touch.send('Input.dispatchTouchEvent', { type: 'touchEnd', touchPoints: [] });
+    await expect.poll(place).not.toBe(before);
+    await expect(full(page)).toBeVisible();
+    await expect(page).toHaveURL(/\/en\/\?star=/);
+    expect(await page.evaluate(() => scrollY)).toBe(held);
+    expect(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth)).toBe(true);
+  });
+});
+
+test('the sky opens over the whole window, and Escape, Back and the close button put it back', async ({ page }) => {
+  await page.goto('/en/');
+  await ready(page);
+  const way = page.getByRole('button', { name: 'Open the star map' });
+  const map = full(page);
+  await page.locator('.sky-slot').click();
+  await expect(map).toBeVisible();
+  await expect(card(page)).toHaveAttribute('data-shown', '');
+  expect(chosen(page)).toBeTruthy();
+  // The page behind holds still while the sky has the wheel.
+  const held = await page.evaluate(() => scrollY);
+  await page.mouse.wheel(0, 300);
+  expect(await page.evaluate(() => scrollY)).toBe(held);
+
+  // Escape closes a map in which nothing has been chosen yet.
+  await page.keyboard.press('Escape');
+  await expect(map).toBeHidden();
+  await expect(page).toHaveURL(/\/en\/$/);
+  await expect(way).toBeFocused();
+  await expect(page.locator('.sky-slot .sky-stage')).toHaveCount(1);
+
+  await way.click();
+  await expect(map).toBeVisible();
   await page.goBack();
-  await expect(page.locator('.inspector-heading h2')).toHaveText(work.name);
-  await page.locator('a.language').click();
-  await expect(page).toHaveURL(new RegExp('/fa/star-map/\\?star=' + work.id));
-  await expect(page.locator('.star-kind')).toHaveText('اثر');
+  await expect(map).toBeHidden();
+  await expect(page).toHaveURL(/\/en\/$/);
+  await page.goForward();
+  await expect(map).toBeVisible();
+  await map.getByRole('button', { name: 'Close' }).click();
+  await expect(map).toBeHidden();
+  await expect(page).toHaveURL(/\/en\/$/);
+});
+
+test('a recording found by name shows its card and the way to its panel, in both languages', async ({ page }) => {
+  const sky = await readSky(page);
+  const count = new Map<string, number>();
+  for (const star of sky.stars) {
+    for (const name of new Set(star.n)) if (name) count.set(name.toLowerCase(), (count.get(name.toLowerCase()) ?? 0) + 1);
+  }
+  const work = sky.stars.find((star) => star.k === 'r' && star.h && star.n[0] && star.n[1] && star.n[0] !== star.n[1] &&
+    star.n[0].length > 6 && count.get(star.n[0].toLowerCase()) === 1)!;
+  const [english, persian] = work.n as [string, string];
+
+  await page.goto('/en/');
+  await ready(page);
+  await page.getByRole('button', { name: 'Open the star map' }).click();
+  const map = full(page);
+  const box = map.getByRole('combobox');
+  await box.fill(english);
+  await expect(map.getByRole('option').first()).toContainText(english);
+  await box.press('Enter');
+  await expect(card(page).locator('.star-card-name')).toHaveText(english);
+  await expect(card(page).locator('.star-card-alt')).toHaveText(persian);
+  await expect(card(page).getByRole('link')).toHaveAttribute('href', `/en${work.h}`);
+  expect(chosen(page)).toBe(keyOf(work));
+  // The search is done with, and the keyboard is on the sky.
+  await expect(box).toHaveValue('');
+  await expect(map.locator('canvas.sky-canvas')).toBeFocused();
+  // Escape lets go of a star the reader chose before it leaves the map.
+  await page.keyboard.press('Escape');
+  await expect(card(page)).not.toHaveAttribute('data-shown');
+  await expect(page).toHaveURL(/\/en\/\?star$/);
+  await expect(map).toBeVisible();
+
+  // The same address opens the Persian sky on the same star.
+  await page.goto(`/fa/?star=${encodeURIComponent(keyOf(work))}`);
+  await expect(map).toBeVisible();
+  await expect(card(page).locator('.star-card-name')).toHaveText(persian);
+  await expect(card(page).getByRole('link')).toHaveAttribute('href', `/fa${work.h}`);
+  await page.keyboard.press('Escape');
+  await expect(map).toBeHidden();
+  await expect(page).toHaveURL(/\/fa\/$/);
+
+  // An address for a star the sky does not have still opens the sky.
+  await page.goto('/en/?star=no-such-star');
+  await expect(map).toBeVisible();
+  await expect(card(page)).not.toHaveAttribute('data-shown');
+});
+
+test('an artist page leads to its own star, and closing the map returns to the page', async ({ page }) => {
+  const sky = await readSky(page);
+  const artist = sky.stars.find((star) => star.k !== 'r' && star.h && star.l.length)!;
+  await page.goto(`/en${artist.h}`);
+  await page.getByRole('link', { name: 'On the star map' }).click();
+  await expect(full(page)).toBeVisible();
+  expect(chosen(page)).toBe(keyOf(artist));
+  await expect(card(page).getByRole('link')).toHaveAttribute('href', `/en${artist.h}`);
+  await full(page).getByRole('button', { name: 'Close' }).click();
+  await expect(page).toHaveURL(new RegExp(`/en${artist.h}$`));
+});
+
+test('the open sky zooms, fits again, and moves from star to star by keyboard', async ({ page }) => {
+  await page.goto('/en/?star');
+  const map = full(page);
+  await expect(map).toBeVisible();
+  const stars = places(await readSky(page));
+  await expect.poll(() => inked(page, stars)).toBe(stars.length);
+  await map.getByRole('button', { name: 'Zoom in' }).click();
+  await expect.poll(() => inked(page, stars)).toBeLessThan(stars.length);
+  await map.getByRole('button', { name: 'Fit all stars' }).click();
+  await expect.poll(() => inked(page, stars)).toBe(stars.length);
+
+  const chart = map.locator('canvas.sky-canvas');
+  await chart.focus();
+  await page.keyboard.press('Enter');
+  await expect(card(page)).toHaveAttribute('data-shown', '');
+  const first = chosen(page);
+  expect(first).toBeTruthy();
+  await page.keyboard.press('ArrowRight');
+  await expect.poll(() => chosen(page)).not.toBe(first);
+  // Only a reader who moves through the sky with keys sees its frame.
+  await expect(chart).toHaveAttribute('data-keys', '');
+  await chart.click({ position: { x: 20, y: 200 } });
+  await expect(chart).not.toHaveAttribute('data-keys');
 });
 
 test('a released drag coasts, can be caught, and respects reduced motion', async ({ page }) => {
   await page.clock.install();
-  await page.goto('/en/star-map/');
+  await page.goto('/en/?star');
   const chart = page.locator('canvas.sky-canvas');
-  await expect(chart).toBeVisible();
-  await chart.scrollIntoViewIfNeeded();
+  await expect(full(page)).toBeVisible();
   const box = (await chart.boundingBox())!;
   const x = Math.round(box.x + box.width / 2);
   const y = Math.round(box.y + box.height / 2);
-  const image = () => chart.evaluate((el: HTMLCanvasElement) => el.toDataURL());
 
   async function drag() {
     await page.mouse.move(x, y);
     await page.mouse.down();
     for (let i = 1; i <= 5; i++) {
       await page.clock.runFor(16);
-      await page.mouse.move(x + i * 6, y);
+      // Far enough each step that a slow machine still releases it at speed.
+      await page.mouse.move(x + i * 14, y);
     }
     await page.mouse.up();
     await page.clock.runFor(20);
   }
 
   await drag();
-  const released = await image();
+  const released = await picture(page);
   await page.clock.runFor(80);
-  expect(await image() === released).toBe(false);
+  expect(await picture(page) === released).toBe(false);
   await page.mouse.down();
   await page.clock.runFor(32);
-  const caught = await image();
+  const caught = await picture(page);
   await page.clock.runFor(200);
-  expect(await image() === caught).toBe(true);
+  expect(await picture(page) === caught).toBe(true);
   await page.mouse.up();
 
   await page.emulateMedia({ reducedMotion: 'reduce' });
   await drag();
-  const resting = await image();
+  const resting = await picture(page);
   await page.clock.runFor(160);
-  expect(await image() === resting).toBe(true);
+  expect(await picture(page) === resting).toBe(true);
 });
 
 test('a desktop trackpad pan stays on the sky as its direction changes at full extent', async ({ page }) => {
-  await page.goto('/en/star-map/');
+  await page.goto('/en/?star');
   const chart = page.locator('canvas.sky-canvas');
-  await chart.scrollIntoViewIfNeeded();
-  await chart.hover({position:{x:160,y:150}});
-  const pageTop = await page.evaluate(() => scrollY);
-  const prior = await chart.evaluate((el: HTMLCanvasElement) => el.toDataURL());
+  await expect(full(page)).toBeVisible();
+  await chart.hover({ position: { x: 160, y: 250 } });
+  const prior = await picture(page);
   // Start mostly vertical, turn horizontally, then finish with a vertical inertial tail.
   for (const [dx, dy] of [[1, 9], [3, 8], [6, 4], [8, 2], [1, 5], [0, 3]]) {
     await page.mouse.wheel(dx, dy);
   }
   await page.evaluate(() => new Promise<void>(resolve => requestAnimationFrame(() => requestAnimationFrame(() => resolve()))));
-  expect(await page.evaluate(() => scrollY)).toBe(pageTop);
-  expect(await chart.evaluate((el: HTMLCanvasElement, initial) => el.toDataURL() !== initial, prior)).toBe(true);
+  expect(await page.evaluate(() => scrollY)).toBe(0);
+  expect(await picture(page) !== prior).toBe(true);
 });
 
 test('long comet tails overlap on distinct credits without repainting the sky', async ({ page }) => {
@@ -139,12 +309,17 @@ test('long comet tails overlap on distinct credits without repainting the sky', 
       quadratic.call(this, cx, cy, x, y);
     };
   });
-  await page.goto('/en/star-map/?star=Qn8jqk8');
-  const viewport = page.locator('.sky-viewport');
+  // An artist with enough credits for several tails at once.
+  const sky = await readSky(page);
+  const linked = sky.stars.map(() => 0);
+  sky.stars.forEach((star, i) => star.l.forEach((other) => { linked[i]++; linked[other]++; }));
+  const artist = sky.stars.find((star, i) => star.k !== 'r' && star.h && linked[i] >= 12)!;
+  await page.goto(`/en/?star=${encodeURIComponent(keyOf(artist))}`);
+  const stage = page.locator('.sky-stage');
   const inFlight = () => Array.from(document.querySelectorAll('.sky-comet')).flatMap(el => el.getAnimations()).length;
   await page.waitForFunction(count => Array.from(document.querySelectorAll('.sky-comet'))
     .flatMap(el => el.getAnimations()).length >= count, 3);
-  const result = await viewport.evaluate(async el => {
+  const result = await stage.evaluate(async el => {
     const animations = Array.from(el.querySelectorAll<HTMLElement>('.sky-comet'))
       .flatMap(trail => trail.getAnimations().map(animation => ({ trail, animation })));
     const starts = animations.map(({ animation }) => Number(animation.startTime));

@@ -28,7 +28,7 @@ interface Props {
   description: string;
   /** The page's address after the language, as in `timeline/`. */
   path: string;
-  section?: 'home' | 'artist' | 'timeline' | 'directory' | 'about' | 'stats' | 'star-map' | 'contribute';
+  section?: 'home' | 'artist' | 'timeline' | 'directory' | 'about' | 'stats' | 'contribute';
   artistId?: string;
   noindex?: boolean;
   jsonld?: unknown;
@@ -106,7 +106,7 @@ const words = { ...t.search, kinds: t.kinds };
       <div class="wrap">
         <Image class="corner-cloud corner-cloud-start" src={cloudWisp} width={340} densities={[1]} alt="" />
         <Image class="corner-cloud corner-cloud-end" src={cloudSwirl} width={327} alt="" />
-        {/* The homepage paints its own garden under the title, so its corners keep only the clouds. */}
+        {/* The homepage shows the star map under the title, so its corners keep only the clouds. */}
         {section !== 'home' && <Image class="corner-branch" src={branch} width={330} densities={[1, 2]} alt="" />}
       </div>
     </div>
@@ -151,7 +151,6 @@ const words = { ...t.search, kinds: t.kinds };
         <a href={url(lang, 'artists')}>{t.browse.artists}</a>
         <a href={url(lang, 'timeline')}>{t.timeline}</a>
         <a href={url(lang, 'stats')}>{t.stats}</a>
-        <a href={url(lang, 'star-map')} aria-current={section === 'star-map' ? 'page' : undefined}>{t.starMap.nav}</a>
         <a href={url(lang, 'about')} aria-current={section === 'about' ? 'page' : undefined}>{t.about}</a>
         <a href={url(lang, 'contribute')} aria-current={section === 'contribute' ? 'page' : undefined}>{t.contribute}</a>
         <a href="#content">{t.backTop}</a>

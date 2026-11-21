@@ -90,12 +90,24 @@ the HTML, not loaded afterwards.
 
 ### Homepage
 
-The title and the search bar sit in the night sky of a painted garden, then
-the latest releases follow in one row, newest first, ending on the way to the
-Timeline. A few names under the search bar fill it in. Search answers as
-you type, over names in both scripts, and folds Persian spelling variants
-(`ي`/`ی`, `ك`/`ک`, zero-width non-joiners, digits). Results are links, and
-the keyboard moves through them.
+The title and the search bar sit over the star map, then the latest releases
+follow in one row, newest first, ending on the way to the Timeline. A few
+names under the search bar fill it in. Search answers as you type, over names
+in both scripts, and folds Persian spelling variants (`ي`/`ی`, `ك`/`ک`,
+zero-width non-joiners, digits). Results are links, and the keyboard moves
+through them.
+
+The star map is every person, group and recording in the record as a star,
+linked by credits and by membership (`/sky.json`, which both languages read).
+
+- In the page it is a preview. It lights one artist after another with that
+  artist's links, and it leaves every scroll and swipe to the page.
+- A click or a tap opens it over the whole window, where it pans and zooms.
+  Choosing a star flies to it and shows a card beside it: its picture, its
+  name in both scripts, a fact or two, and the link to its page or to its
+  recording's panel. The search box there finds a star by name.
+- The open map and its star are in the address (`/en/?star=golsa-h74`), so
+  Back closes the map, and each Artist page links to its own star.
 
 ### Timeline
 

@@ -1,5 +1,9 @@
 interface Point { x: number; y: number }
-export interface CometPath { key: string; from: Point; to: Point; bend: number; highlighted: boolean; colour: string }
+export interface CometPath {
+  key: string; from: Point; to: Point; bend: number; highlighted: boolean; colour: string;
+  /** How long the flight takes, in milliseconds, when the path has to be over by a set time. */
+  duration?: number;
+}
 
 export const COMET_LIMIT = 4;
 
@@ -42,7 +46,7 @@ function fly(element: HTMLElement, path: CometPath): Animation {
       transform: `translate3d(${head.x - tail}px,${head.y - height/2}px,0) rotate(${angle}rad) scaleX(${length / tail})`,
     };
   });
-  return element.animate(frames, { duration: 1700 + Math.min(distance, 250) * 2 + Math.random() * 900 });
+  return element.animate(frames, { duration: path.duration ?? 1700 + Math.min(distance, 250) * 2 + Math.random() * 900 });
 }
 
 /** One wake-up launches at most one trail. The compositor moves the live trails independently. */
