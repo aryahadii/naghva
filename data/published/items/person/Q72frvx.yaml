@@ -1,0 +1,31 @@
+id: Q72frvx
+type: person
+statements:
+  name:
+  - value:
+      text: Gelareh Pour
+      language: en
+    references:
+    - source: www.gelarehpour.com-about
+      quote: Iranian-born musician Gelareh Pour (voice, kamancheh, qeychak alto) and Australian percussionist Brian O’Dwyer.
+      accessed: '2026-11-21'
+      locator: About ZÖJ, opening sentence
+  - value:
+      text: گلاره پور
+      language: fa
+    references:
+    - source: www.youtube.com-watch-v-rm2p7q8ddmi
+      quote: گلاره پور
+      accessed: '2026-11-21'
+      locator: Official description, performer credit
+  member of:
+  - value: Qk5bhh3
+    qualifiers:
+      role:
+      - kamancheh
+      - vocals
+    references:
+    - source: www.iranianmusicfestival.com.au-previous-acts-zoj
+      quote: Gelareh Pour on kamancheh, voice, and qeychak, and Brian O’Dwyer on drums and percussion.
+      accessed: '2026-11-21'
+      locator: Previous Acts, biography

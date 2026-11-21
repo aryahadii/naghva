@@ -1,0 +1,71 @@
+id: Qj87z4s
+type: release
+statements:
+  name:
+  - value:
+      text: My Enemy, My Love
+      language: en
+    references:
+    - source: mentrix.bandcamp.com-album-my-enemy-my-love
+      quote: My Enemy, My Love
+      accessed: '2026-11-21'
+      locator: Recording heading
+  performer:
+  - value: Qynmr3m
+    references:
+    - source: mentrix.bandcamp.com-album-my-enemy-my-love
+      quote: My Enemy, My Love | Mentrix
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://mentrix.bandcamp.com/album/my-enemy-my-love
+    references:
+    - source: mentrix.bandcamp.com-album-my-enemy-my-love
+      quote: My Enemy, My Love | Mentrix
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/my-enemy-my-love/1572275241
+    references:
+    - source: music.apple.com-us-album-my-enemy-my-love-1572275241
+      quote: ‎My Enemy, My Love - Album by Mentrix - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/album/0bjR6scUcAcX9HugIMU9GJ
+    references:
+    - source: open.spotify.com-album-0bjr6scucacx9hugimu9gj
+      quote: Listen to My Enemy, My Love - Album by Mentrix | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  published by:
+  - value: Qmz3gff
+    references:
+    - source: mentrix.bandcamp.com-album-my-enemy-my-love
+      quote: House Of Strength Records
+      accessed: '2026-11-21'
+      locator: Artist label header
+  release date:
+  - value:
+      date: '2020-04-03'
+    references:
+    - source: mentrix.bandcamp.com-album-my-enemy-my-love
+      quote: released April 3, 2020
+      accessed: '2026-11-21'
+      locator: Published date
+  release type:
+  - value: album
+    references:
+    - source: music.apple.com-us-album-my-enemy-my-love-1572275241
+      quote: ‎My Enemy, My Love - Album by Mentrix - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a0360057345_10.jpg
+    references:
+    - source: mentrix.bandcamp.com-album-my-enemy-my-love
+      quote: https://f4.bcbits.com/img/a0360057345_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Mentrix on Bandcamp
+        language: en

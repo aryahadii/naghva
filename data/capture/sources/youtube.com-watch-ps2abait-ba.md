@@ -20,3 +20,7 @@ Channel name, read 2026-11-21.
 > 2011-11-27T07:41:09-08:00
 
 Upload date, read 2026-11-21.
+
+> https://i.ytimg.com/vi/ps2ABaiT-bA/hqdefault.jpg
+
+Thumbnail published with this video in the artist channel’s page metadata, read 2026-11-21.

@@ -1,0 +1,64 @@
+id: Qq8v29t
+type: release
+statements:
+  name:
+  - value:
+      text: Longing
+      language: en
+    references:
+    - source: mentrix.bandcamp.com-track-longing
+      quote: Longing
+      accessed: '2026-11-21'
+      locator: Recording heading
+  performer:
+  - value: Qynmr3m
+    references:
+    - source: mentrix.bandcamp.com-track-longing
+      quote: Longing | Mentrix
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://mentrix.bandcamp.com/track/longing
+    references:
+    - source: mentrix.bandcamp.com-track-longing
+      quote: Longing | Mentrix
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/longing/1572275439
+    references:
+    - source: music.apple.com-us-song-longing-1572275439
+      quote: ‎Longing - Song with Lyrics by Mentrix - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/02GyXBjdGq4VASPOQHLzmu
+    references:
+    - source: open.spotify.com-track-02gyxbjdgq4vaspoqhlzmu
+      quote: Longing - song and lyrics by Mentrix | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  published by:
+  - value: Qmz3gff
+    references:
+    - source: mentrix.bandcamp.com-track-longing
+      quote: House Of Strength Records
+      accessed: '2026-11-21'
+      locator: Artist label header
+  release date:
+  - value:
+      date: '2020-04-03'
+    references:
+    - source: mentrix.bandcamp.com-track-longing
+      quote: released April 3, 2020
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a0360057345_10.jpg
+    references:
+    - source: mentrix.bandcamp.com-track-longing
+      quote: https://f4.bcbits.com/img/a0360057345_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Mentrix on Bandcamp
+        language: en

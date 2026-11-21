@@ -1,5 +1,6 @@
 ---
 url: https://insomniafestival.no/artist/temp-illusion/
+archive: "https://web.archive.org/web/20260714062424/https://insomniafestival.no/artist/temp-illusion/"
 title: Temp-Illusion - Insomnia Festival
 kind: web page
 language: en

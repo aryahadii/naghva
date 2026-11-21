@@ -21,3 +21,7 @@ Channel name, read 2026-11-21.
 > 2015-09-03T13:18:43-07:00
 
 Upload date, read 2026-11-21.
+
+> https://i.ytimg.com/vi/NvD6tyga4XQ/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGAgYChgMA8=&rs=AOn4CLBg7Xyl6uUiQ5AbSAtEPikeRAISUw
+
+Thumbnail published with this video in the artist channel’s page metadata, read 2026-11-21.

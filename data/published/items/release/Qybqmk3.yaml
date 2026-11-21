@@ -1,0 +1,45 @@
+id: Qybqmk3
+type: release
+statements:
+  name:
+  - value:
+      text: Phade (Live Version)
+      language: en
+    references:
+    - source: soundcloud.com-temp-illusion-temp-illusion-phade-live-version
+      quote: Phade (Live Version)
+      accessed: '2026-11-21'
+      locator: Track title
+  performer:
+  - value: Q8tq6bc
+    references:
+    - source: soundcloud.com-temp-illusion-temp-illusion-phade-live-version
+      quote: Stream Phade (Live Version) by Temp-Illusion | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2016-03-21'
+    references:
+    - source: soundcloud.com-temp-illusion-temp-illusion-phade-live-version
+      quote: '2016-03-21T16:33:13Z'
+      accessed: '2026-11-21'
+      locator: SoundCloud track date
+  listen link:
+  - value: https://soundcloud.com/temp-illusion/temp-illusion-phade-live-version
+    references:
+    - source: soundcloud.com-temp-illusion-temp-illusion-phade-live-version
+      quote: Stream Phade (Live Version) by Temp-Illusion | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-000152771581-y7t20c-large.jpg
+    references:
+    - source: soundcloud.com-temp-illusion-temp-illusion-phade-live-version
+      quote: https://i1.sndcdn.com/artworks-000152771581-y7t20c-large.jpg
+      accessed: '2026-11-21'
+      locator: SoundCloud track artwork
+    qualifiers:
+      credit:
+        text: Temp-Illusion on SoundCloud
+        language: en

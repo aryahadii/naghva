@@ -1,5 +1,6 @@
 ---
 url: https://ir.voanews.com/a/mehdi-awards-music-iran/4965451.html
+archive: "https://web.archive.org/web/20260718033833/https://ir.voanews.com/a/mehdi-awards-music-iran/4965451.html"
 title: هنرمند ممنوع از کار ایرانی، برنده جایزه مدال نقره‌ای موسیقی شد
 tier: journalism
 language: fa

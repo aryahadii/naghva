@@ -36,3 +36,14 @@ statements:
       quote: '2012-08-06T19:58:17-07:00'
       accessed: '2026-11-21'
       locator: Upload date
+  cover art:
+  - value: https://i.ytimg.com/vi/-AH2UU3hniw/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gQSgvMA8=&rs=AOn4CLAcPJqT06JzlwYPkH_1xUUHensvxw
+    qualifiers:
+      credit:
+        text: Langtunes, video thumbnail on YouTube
+        language: en
+    references:
+    - source: youtube.com-watch--ah2uu3hniw
+      quote: https://i.ytimg.com/vi/-AH2UU3hniw/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gQSgvMA8=&rs=AOn4CLAcPJqT06JzlwYPkH_1xUUHensvxw
+      locator: Thumbnail published with this video in the artist channel’s page metadata
+      accessed: '2026-11-21'

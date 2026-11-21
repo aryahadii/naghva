@@ -7,7 +7,8 @@ references:
     locator: Artist biography
   paris:
     source: insomniafestival.no-artist-temp-illusion
-    quote: Temp-Illusion is an Iranian electronic duo, recently based in Paris, formed in 2011 by Shahin Entezami and Behrang Najafi.
+    quote: Temp-Illusion is an Iranian electronic duo, recently based in Paris, formed in 2011 by Shahin Entezami and Behrang
+      Najafi.
     accessed: '2026-11-21'
     locator: 2025 edition biography
   punk:
@@ -100,6 +101,27 @@ references:
     quote: 2026 Paradoxe Club
     accessed: '2026-11-21'
     locator: Release credits
+  av:
+    source: youtube.com-watch-v-xhwkwoqaqk4
+    quote: Caustic Surfaces is an Audio/Visual live set presented by Temp-Illusion and Amir B. Ash.
+    locator: Creator description
+    accessed: '2026-11-21'
+  design:
+    source: youtube.com-watch-v-xhwkwoqaqk4
+    quote: 'Stage Design and Live Visuals : Amir B. Ash.'
+    locator: Performance credits
+    accessed: '2026-11-21'
+  film:
+    source: cdm.link-temp-illusion-x-amir-b-ash
+    quote: Temp-Illusion have released a full-length, multi-camera video of their live audiovisual performance Caustic Surfaces
+      with artist Amir B. Ash
+    locator: Opening paragraph
+    accessed: '2026-11-21'
+  filmdate:
+    source: youtube.com-watch-v-xhwkwoqaqk4
+    quote: '2024-01-20T09:57:24-08:00'
+    locator: Video publication metadata
+    accessed: '2026-11-21'
 ---
 
 Shahin Entezami and Behrang Najafi formed the Iranian electronic duo Temp-Illusion in 2011. They first played live in 2013, and a recording of a later Tehran performance became their debut album, *[Autolected](#autolected-r8g)*. By 2025 they were based in Paris.[^duo][^first][^visual][^live][^debut][^paris]
@@ -113,5 +135,7 @@ In July 2018 the duo played at SET×CTM in Tehran. Zabte Sote released their rec
 ## From rehearsals to records
 
 Between 2020 and 2022 Entezami and Najafi improvised and experimented together. Those sessions grew into *[failsafe](#failsafe-ywr)*, released in 2023.[^sessions][^failsafedate]
+
+With the visual artist Amir B. Ash they made *[Caustic Surfaces](#caustic-surfaces-9ms)*. The duo played the music live while Ash built the images on stage. In 2024 they released a film of the full performance.[^av][^design][^film][^filmdate]
 
 A live set brought them their next collaboration in Paris. After hearing them at an Illegal Tapes party at Le Sample, the people behind the label Paradoxe Club approached them about making a record. The result was *[BIKH](#bikh-7q3)* in 2025. They released *[Vittrine](#vittrine-g3b)* on the same label the following year.[^paris][^club][^ask][^bikh][^label][^vittrine][^nextlabel]

@@ -36,3 +36,22 @@ statements:
       quote: The Bright Ages  EP | Self-Released
       accessed: '2026-11-21'
       locator: Discography
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-000051896472-cljeig-t500x500.jpg
+    qualifiers:
+      credit:
+        text: Langtunes, via SoundCloud
+        language: en
+    references:
+    - source: soundcloud.com-langtunes-tehrantor
+      quote: https://i1.sndcdn.com/artworks-000051896472-cljeig-t500x500.jpg
+      locator: Track artwork on the artist account
+      accessed: '2026-11-21'
+    - source: soundcloud.com-langtunes-tehrantor
+      quote: Langtunes
+      locator: Group name printed at the bottom left of the artwork
+      accessed: '2026-11-21'
+    - source: soundcloud.com-langtunes-tehrantor
+      quote: The Bright Ages
+      locator: EP title visible at the bottom left of the artwork, beneath the artist name
+      accessed: '2026-11-21'

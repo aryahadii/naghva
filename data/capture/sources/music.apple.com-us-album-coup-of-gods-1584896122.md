@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/coup-of-gods/1584896122
+archive: "https://web.archive.org/web/20231201152138/https://music.apple.com/us/album/coup-of-gods/1584896122"
 title: Coup of Gods - Album by Mehdi Rajabian - Apple Music
 tier: discography
 language: en

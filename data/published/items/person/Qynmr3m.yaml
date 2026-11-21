@@ -1,0 +1,98 @@
+id: Qynmr3m
+type: person
+statements:
+  name:
+  - value:
+      text: Mentrix
+      language: en
+    references:
+    - &id001
+      source: refugeworldwide.com-artists-mentrix
+      quote: Samar Rad aka Mentrix is a female artist from Iran, currently based in Berlin.
+      accessed: '2026-11-21'
+      locator: Artist biography
+  - value:
+      text: منتریکس
+      language: fa
+    references:
+    - *id001
+    editorial: true
+  - value:
+      text: Samar Rad
+      language: en
+    references:
+    - *id001
+  birth date:
+  - value:
+      date: '1981'
+    references:
+    - &id002
+      source: www.framed.berlin-event-details-framed-24-mentrix-exhibition-samira-hodaei
+      quote: Born in 1981 in Tehran
+      accessed: '2026-11-21'
+      locator: Artist biography
+  birthplace:
+  - value: Qhm6fzw
+    references:
+    - *id002
+  based in:
+  - value: Qnpdnwq
+    references:
+    - *id001
+  image:
+  - value: https://f4.bcbits.com/img/0018764394_10.jpg
+    references:
+    - source: mentrix.bandcamp.com
+      quote: https://f4.bcbits.com/img/0018764394_10.jpg
+      accessed: '2026-11-21'
+      locator: Artist sidebar, full photograph
+    qualifiers:
+      credit:
+        text: Mentrix on Bandcamp
+        language: en
+  profile link:
+  - value: https://mentrix.bandcamp.com/
+    references:
+    - source: mentrix.bandcamp.com
+      quote: Music | Mentrix
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/artist/59AZap3x4QLxbc4onsqMam
+    references:
+    - source: open.spotify.com-artist-59azap3x4qlxbc4onsqmam
+      quote: Listen to Mentrix Songs | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/artist/mentrix/888668509
+    references:
+    - source: music.apple.com-us-artist-mentrix-888668509
+      quote: ‎Mentrix - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://www.youtube.com/channel/UCCEXITZRvYL5Ydct0-stXbg
+    references:
+    - source: www.youtube.com-channel-uccexitzrvyl5ydct0-stxbg
+      quote: Mentrix - YouTube
+      accessed: '2026-11-21'
+      locator: Page title
+  life event:
+  - value:
+      text: I picked up a guitar and started playing chords and writing songs.
+      language: en
+    references:
+    - source: rhythmpassport.com-interview-mentrix-in-search-of-your-voice-june-2020
+      quote: I picked up a guitar and started playing chords and writing songs.
+      accessed: '2026-11-21'
+      locator: Interview, Brighton
+  - value:
+      text: In July 2015, they moved to Berlin.
+      language: en
+    references:
+    - source: rhythmpassport.com-interview-mentrix-in-search-of-your-voice-june-2020
+      quote: In July 2015, they moved to Berlin.
+      accessed: '2026-11-21'
+      locator: Interview, recording in Berlin
+    qualifiers:
+      place: Qnpdnwq
+      point in time:
+        date: 2015-07

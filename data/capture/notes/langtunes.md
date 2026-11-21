@@ -59,7 +59,13 @@ The Videos tab contains 28 uploads. Three documentary or retrospective clips and
 
 ## Remaining coverage
 
-Gigmit identifies a third independently published EP, The Story Of Us (2014). The three early EPs still lack full track lists and cover images. The artist’s own booking profile names drummer Sam Ziae. Moosavi’s retrospective names touring musician Sam Eyvaz. Their relationship needs explicit corroboration. The artist identifies the official video of “Transparent Thoughts” with Sentimental Disasters. Two SoundCloud tracks have no distinct artwork. YouTube stills are video thumbnails. Some titles differ between the original videos, SoundCloud uploads and the album. Track-specific links preserve each spelling and date.
+Gigmit identifies a third independently published EP, The Story Of Us (2014). All three early EPs still lack complete track lists. Two lack verified covers. The Tehrantor upload on SoundCloud displays the original image labelled The Bright Ages. The corresponding image is now linked to the EP. The artist’s own booking profile names drummer Sam Ziae. Moosavi’s retrospective names touring musician Sam Eyvaz. Their relationship needs explicit corroboration. The artist identifies the official video of “Transparent Thoughts” with Sentimental Disasters. Two SoundCloud tracks have no distinct artwork. Each accessible official video uses its own published thumbnail as the artwork for that video version. Some titles differ between the original videos, SoundCloud uploads and the album. Track-specific links preserve each spelling and date.
 
 
 A Telegram search for Langtunes and لنگتونز yielded no verified artist account. Searches of the EP titles, ReverbNation, Deezer and Tidal yielded no further original song. The ReverbNation song list corroborates early SoundCloud titles. Gigmit points to the Amazon edition of Teherantor.
+
+## EP provenance
+
+- **Sentimental Disasters**. The band names “Transparent Thoughts” in the description of its [first official video](https://www.youtube.com/watch?v=EpePiCgDYjc). Its own documentary calls the three-day Tehran filming sessions the band’s first official shows. A documentary poster does not establish the CD cover.
+- **The Bright Ages**. The band’s [Tehrantor upload](https://soundcloud.com/langtunes/tehrantor) uses the image labelled “The Bright Ages.” The 2013 upload spelling differs from the 2014 album title.
+- **The Story Of Us**. The [band’s booking profile](https://www.gigmit.com/langtunes?layout=corporate) establishes its title, year, and independent release. Neither the booking discography nor the founder’s retrospective identifies its tracks.

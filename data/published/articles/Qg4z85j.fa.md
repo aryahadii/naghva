@@ -130,6 +130,26 @@ references:
     quote: which resulted for them to be signed by the Nuernberger Indie label, Parvenue.
     accessed: '2026-11-21'
     locator: Short Info
+  backstage:
+    source: qantara.de-ar-node-33344
+    quote: Meeting backstage at a festival in Nuremberg, the musicians exchanged their views on the world.
+    locator: Peace tour of Germany
+    accessed: '2026-11-21'
+  audiences:
+    source: qantara.de-ar-node-33344
+    quote: At this point, Ramzailech and Langtunes share the stage and their audiences.
+    locator: Opening report, on the joint programme
+    accessed: '2026-11-21'
+  reason:
+    source: qantara.de-ar-node-33344
+    quote: Our connection is purely musical and cultural.
+    locator: Secret handshake of friendship, Moosavi speaking
+    accessed: '2026-11-21'
+  democut:
+    source: youtube.com-watch-epepicgdyjc
+    quote: This is our first official video, from our first demo CD called "Sentimental  Disasters".
+    locator: Description, source of the song
+    accessed: '2026-11-21'
 ---
 
 لنگتونز گروه راک ایرانی بود که از ۲۰۰۹ تا ۲۰۱۷ فعالیت می‌کرد. بهروز موسوی و کامیار کرامتی کارشان را در تهران آغاز کردند و نخستین آثار گروه را خودشان منتشر کردند. لنگتونز برای ضبط نخستین آلبومش، [«Teherantor»](#teherantor-wka)، به آلمان رفت و بعدها همراه گروه اسرائیلی Ramzailech در آلمان تور مشترکی برگزار کرد.[^founders][^fa][^years][^demos][^record][^joint]
@@ -142,8 +162,10 @@ references:
 
 ## از تهران تا جشنواره‌های اروپا
 
-گروه در سال ۲۰۱۱ در استانبول اجرا کرد و بعد دو سی‌دی دمو را خودش منتشر کرد. در ۲۰۱۲، پس از انتشار [«Sentimental Disasters»](#sentimental-disasters-wan)، برای اجرای چند کنسرت به آلمان و ترکیه رفتند. موسیقی‌شان را در اینترنت پخش می‌کردند و برای برگزارکنندگان جشنواره‌ها سی‌دی می‌فرستادند. سال بعد که [«The Bright Ages»](#the-bright-ages-4s3) را منتشر کردند، از تهران با کمک آشنایانشان در فیس‌بوک یک تور سه‌ماهه در اروپا ترتیب دادند.[^istanbul][^demos][^dates][^demosent][^facebook]
+گروه در سال ۲۰۱۱ در استانبول اجرا کرد و بعد دو سی‌دی دمو را خودش منتشر کرد. در ۲۰۱۲، پس از انتشار [«Sentimental Disasters»](#sentimental-disasters-wan)، برای اجرای چند کنسرت به آلمان و ترکیه رفتند. اولین نماهنگ رسمی گروه برای یکی از آهنگ‌های همان دمو، «Transparent Thoughts»، ساخته شد.[^democut] موسیقی‌شان را در اینترنت پخش می‌کردند و برای برگزارکنندگان جشنواره‌ها سی‌دی می‌فرستادند. سال بعد که [«The Bright Ages»](#the-bright-ages-4s3) را منتشر کردند، از تهران با کمک آشنایانشان در فیس‌بوک یک تور سه‌ماهه در اروپا ترتیب دادند.[^istanbul][^demos][^dates][^demosent][^facebook]
 
-در سال ۲۰۱۴، لنگتونز مینی‌آلبوم [«The Story Of Us»](#the-story-of-us-vcz) را منتشر کرد و برای معرفی آن دوباره در اروپا به سفر رفت. پس از این تور با شرکت پارونو رکوردز قرارداد بستند.[^third][^signed] لنگتونز آلبوم «Teherantor» را در آلمان ضبط کرد و شرکت پارونو رکوردز آن را در دسامبر ۲۰۱۴ منتشر کرد. اواخر همان سال در نورنبرگ با نوازندگان Ramzailech آشنا شدند. دو گروه برای تأمین هزینهٔ یک تور مشترک در آلمان از مردم کمک خواستند. این تور که «دست دادن پنهانی» نام داشت، در نوامبر ۲۰۱۵ از لایپزیگ آغاز شد.[^record][^lp][^issued][^met][^funding][^handshake][^joint][^leipzig]
+در سال ۲۰۱۴، لنگتونز مینی‌آلبوم [«The Story Of Us»](#the-story-of-us-vcz) را منتشر کرد و برای معرفی آن دوباره در اروپا به سفر رفت. پس از این تور با شرکت پارونو رکوردز قرارداد بستند.[^third][^signed] لنگتونز آلبوم «Teherantor» را در آلمان ضبط کرد و شرکت پارونو رکوردز آن را در دسامبر ۲۰۱۴ منتشر کرد. اواخر همان سال در پشت صحنهٔ جشنواره‌ای در نورنبرگ با نوازندگان Ramzailech آشنا شدند.[^met][^backstage] دو گروه برای تأمین هزینهٔ یک تور مشترک در آلمان از مردم کمک خواستند. این تور که «دست دادن پنهانی» نام داشت، در نوامبر ۲۰۱۵ از لایپزیگ آغاز شد.[^record][^lp][^issued][^met][^funding][^handshake][^joint][^leipzig]
+
+در این تور شنوندگان هر دو گروه پای اجرای هر دو می‌نشستند. موسوی می‌گفت آنچه آن‌ها را به هم پیوند داده موسیقی و فرهنگ است.[^audiences][^reason]
 
 لنگتونز تا سال ۲۰۱۷ در جشنواره‌ها و باشگاه‌های موسیقی اروپا روی صحنه می‌رفت. سام ایواز و گارن آبنوس هم در این سفرها با گروه می‌نواختند.[^touring]

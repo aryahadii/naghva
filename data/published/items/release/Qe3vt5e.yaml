@@ -1,0 +1,61 @@
+id: Qe3vt5e
+type: release
+statements:
+  name:
+  - value:
+      text: She sleeps with genies
+      language: en
+    references:
+    - source: zojduet.bandcamp.com-album-may-the-devils-ear-be-deaf
+      quote: She sleeps with genies
+      accessed: '2026-11-21'
+      locator: Track 4 of May The Devil's Ear Be Deaf
+  performer:
+  - value: Qk5bhh3
+    references:
+    - source: zojduet.bandcamp.com-track-she-sleeps-with-genies
+      quote: She sleeps with genies | ZÖJ
+      accessed: '2026-11-21'
+      locator: Track page title
+  release date:
+  - value:
+      date: '2026-05-01'
+    references:
+    - source: zojduet.bandcamp.com-album-may-the-devils-ear-be-deaf
+      quote: released May 1, 2026
+      accessed: '2026-11-21'
+      locator: Release credits, publication date
+  cover art:
+  - value: https://f4.bcbits.com/img/a4180323479_10.jpg
+    qualifiers:
+      credit:
+        text: Siamak Sharifan
+        language: en
+    references:
+    - source: zojduet.bandcamp.com-album-may-the-devils-ear-be-deaf
+      quote: https://f4.bcbits.com/img/a4180323479_10.jpg
+      accessed: '2026-11-21'
+      locator: Full-sized album artwork
+    - source: zojduet.bandcamp.com-album-may-the-devils-ear-be-deaf
+      quote: 'Artwork: Siamak Sharifan'
+      accessed: '2026-11-21'
+      locator: Artwork credit
+  listen link:
+  - value: https://zojduet.bandcamp.com/track/she-sleeps-with-genies
+    references:
+    - source: zojduet.bandcamp.com-track-she-sleeps-with-genies
+      quote: She sleeps with genies | ZÖJ
+      accessed: '2026-11-21'
+      locator: Track page title
+  - value: https://open.spotify.com/track/7mozProkyEfpP7kqaS8vn6
+    references:
+    - source: open.spotify.com-album-7hjshwfpcb3mafhemvf3q7
+      quote: She sleeps with genies
+      accessed: '2026-11-21'
+      locator: Track 4 in the Spotify album player
+  - value: https://music.apple.com/au/album/she-sleeps-with-genies/6774523347?i=6774523471
+    references:
+    - source: music.apple.com-au-album-may-the-devils-ear-be-deaf-6774523347
+      quote: She sleeps with genies
+      accessed: '2026-11-21'
+      locator: Album track list, track 4

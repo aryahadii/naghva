@@ -7,7 +7,8 @@ references:
     locator: Artist biography
   paris:
     source: insomniafestival.no-artist-temp-illusion
-    quote: Temp-Illusion is an Iranian electronic duo, recently based in Paris, formed in 2011 by Shahin Entezami and Behrang Najafi.
+    quote: Temp-Illusion is an Iranian electronic duo, recently based in Paris, formed in 2011 by Shahin Entezami and Behrang
+      Najafi.
     accessed: '2026-11-21'
     locator: 2025 edition biography
   punk:
@@ -100,6 +101,27 @@ references:
     quote: 2026 Paradoxe Club
     accessed: '2026-11-21'
     locator: Release credits
+  av:
+    source: youtube.com-watch-v-xhwkwoqaqk4
+    quote: Caustic Surfaces is an Audio/Visual live set presented by Temp-Illusion and Amir B. Ash.
+    locator: Creator description
+    accessed: '2026-11-21'
+  design:
+    source: youtube.com-watch-v-xhwkwoqaqk4
+    quote: 'Stage Design and Live Visuals : Amir B. Ash.'
+    locator: Performance credits
+    accessed: '2026-11-21'
+  film:
+    source: cdm.link-temp-illusion-x-amir-b-ash
+    quote: Temp-Illusion have released a full-length, multi-camera video of their live audiovisual performance Caustic Surfaces
+      with artist Amir B. Ash
+    locator: Opening paragraph
+    accessed: '2026-11-21'
+  filmdate:
+    source: youtube.com-watch-v-xhwkwoqaqk4
+    quote: '2024-01-20T09:57:24-08:00'
+    locator: Video publication metadata
+    accessed: '2026-11-21'
 ---
 
 شاهین انتظامی و بهرنگ نجفی در سال ۲۰۱۱ گروه ایرانی موسیقی الکترونیک «تمپ ایلوژن» را تشکیل دادند. سال ۲۰۱۳ نخستین بار با هم روی صحنه رفتند و چند سال بعد، ضبط یکی از اجراهایشان در همین شهر را در نخستین آلبومشان، «[Autolected](#autolected-r8g)»، منتشر کردند. در سال ۲۰۲۵ این دو در پاریس زندگی می‌کردند.[^duo][^first][^visual][^live][^debut][^paris]
@@ -113,5 +135,7 @@ references:
 ## از تمرین تا ضبط
 
 انتظامی و نجفی بین سال‌های ۲۰۲۰ و ۲۰۲۲ با هم بداهه می‌نواختند و ایده‌هایشان را امتحان می‌کردند. حاصل این جلسات آلبوم «[failsafe](#failsafe-ywr)» بود که در سال ۲۰۲۳ منتشر شد.[^sessions][^failsafedate]
+
+انتظامی و نجفی با هنرمند تجسمی امیر بی. اش اجرای «[Caustic Surfaces](#caustic-surfaces-9ms)» را ساختند. این دو موسیقی را زنده می‌نواختند و اش هم‌زمان تصاویر را روی صحنه می‌ساخت. در سال ۲۰۲۴ فیلم کامل این اجرا را منتشر کردند.[^av][^design][^film][^filmdate]
 
 در پاریس هم یکی از اجراهای گروه به همکاری تازه‌ای انجامید. گردانندگان نشر «پارادوکس کلاب» در مهمانی «ایلیگال تیپس» در «لو سامپل» اجرای آن دو را شنیدند و همان‌جا پیشنهاد ساخت یک اثر را دادند. حاصل این همکاری «[BIKH](#bikh-7q3)» بود که در سال ۲۰۲۵ منتشر شد. یک سال بعد «[Vittrine](#vittrine-g3b)» هم با همین ناشر بیرون آمد.[^paris][^club][^ask][^bikh][^label][^vittrine][^nextlabel]

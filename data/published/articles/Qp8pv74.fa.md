@@ -103,16 +103,47 @@ references:
     quote: Mehdi Rajabian - Composer, Arranger, Producer, Lyricist
     accessed: 2026-11-21
     locator: Video description, Credits
+  closure:
+    source: www.euronews.com-culture-2022-09-09-the-iranian-musician-risking-prison-for-his-new-album
+    quote: His album was banned and all materials, company pages, websites and hard drives related to Barg
+      were seized.
+    accessed: 2026-11-21
+    locator: A burgeoning career and a prison sentence
+  why:
+    source: www.euronews.com-culture-2022-09-09-the-iranian-musician-risking-prison-for-his-new-album
+    quote: I helped to publish the banned artworks.
+    accessed: 2026-11-21
+    locator: Rajabian on the reason for the arrest
+  takes:
+    source: time.com-6080281-mehdi-rajabian-iran-music
+    quote: Johnson would send audio files of herself improvising over Whatsapp
+    accessed: 2026-11-21
+    locator: Recording with Aubrey Johnson
+  response:
+    source: time.com-6080281-mehdi-rajabian-iran-music
+    quote: Rajabian would give her feedback and suggestions, and she would re-record her parts
+    accessed: 2026-11-21
+    locator: Recording with Aubrey Johnson
+  sari:
+    source: time.com-6080281-mehdi-rajabian-iran-music
+    quote: on the floor of a secret basement in Sari, Iran.
+    accessed: 2026-11-21
+    locator: Recording in Sari
+  mdate:
+    source: music.apple.com-us-album-mehdi-rajabian-middle-eastern-1455970099
+    quote: March 15, 2019 11 songs, 42 minutes ℗ 2019 Sony Music Entertainment Turkey.
+    accessed: 2026-11-21
+    locator: Release details
 ---
 
-مهدی رجبیان آهنگساز و نوازندهٔ سه‌تار ایرانی است. او در سال ۲۰۰۷ برگ موزیک را برای حمایت از موسیقی‌دانانی بنیان گذاشت که در ایران اجازهٔ کار نداشتند.[^identity][^setar][^founder] رجبیان نوشتن قطعه‌های آلبوم «خاورمیانه‌ای» را در زندان آغاز کرد و برای ضبط آن با نوازندگانی از دوازده کشور همکاری کرد.[^prison][^middle]
+مهدی رجبیان آهنگساز و نوازندهٔ سه‌تار ایرانی است. او در سال ۲۰۰۷ برگ موزیک را برای حمایت از موسیقی‌دانانی بنیان گذاشت که در ایران اجازهٔ کار نداشتند.[^identity][^setar][^founder] رجبیان نوشتن قطعه‌های آلبوم «[خاورمیانه‌ای](#mehdi-rajabian-middle-eastern-cem)» را در زندان آغاز کرد و برای ضبط آن با نوازندگانی از دوازده کشور همکاری کرد.[^prison][^middle]
 
 ## برگ موزیک و «خاورمیانه‌ای»
 
-رجبیان زمانی که برگ موزیک را می‌گرداند، روی اثری برای سه‌تار کار می‌کرد که از تاریخ موسیقی ایران الهام گرفته بود.[^early] بعدها در زندان آهنگ‌های «خاورمیانه‌ای» را نوشت و پس از آزادی مشروط، بی‌درنگ کار روی ضبط آلبوم را آغاز کرد.[^prison][^production] نوازندگان آلبوم یکدیگر را از نزدیک ندیده بودند. رجبیان می‌گفت آنچه موسیقی آن‌ها را به هم پیوند می‌دهد، تجربهٔ مشترک مردم منطقه از جنگ و سختی است.[^regional][^war]
+رجبیان زمانی که برگ موزیک را می‌گرداند، روی اثری برای سه‌تار کار می‌کرد که از تاریخ موسیقی ایران الهام گرفته بود.[^early] مقام‌ها آلبوم را ممنوع کردند و تجهیزات و هارددیسک‌های برگ موزیک را با خود بردند. رجبیان بعدها گفت دلیل بازداشتش انتشار آثار ممنوع‌شدهٔ موسیقی‌دانان دیگر بود.[^closure][^why] در زندان آهنگ‌های «خاورمیانه‌ای» را نوشت و پس از آزادی مشروط، بی‌درنگ ضبط آلبوم را آغاز کرد. آلبوم در سال ۲۰۱۹ منتشر شد.[^prison][^production][^mdate] نوازندگان آلبوم یکدیگر را از نزدیک ندیده بودند. رجبیان می‌گفت آنچه موسیقی آن‌ها را به هم پیوند می‌دهد، تجربهٔ مشترک مردم منطقه از جنگ و سختی است.[^regional][^war]
 
 ## همکاری با موسیقی‌دانان کشورهای دیگر
 
-رجبیان هنگام ساخت آلبوم «[Coup of Gods](#coup-of-gods-9gm)» در اینترنت با کارهای اوبری جانسون، خوانندهٔ آمریکایی، آشنا شد و در اینستاگرام به او پیام داد.[^contact] آلبوم در سال ۲۰۲۱ منتشر شد.[^coup] جانسون در آلبوم بعدی او، «[It Arrives](#it-arrives-krj)»، هم خواند. پریا دارشینی و نیکول زورایتیس دو خوانندهٔ دیگر این آلبوم بودند. رجبیان موسیقی را ساخت و تنظیم کرد و همراه با ایمی اندرسون تهیه‌کنندگی آلبوم را به عهده گرفت. این اثر در سال ۲۰۲۲ منتشر شد.[^voices][^roles][^producers][^arrives]
+رجبیان هنگام ساخت آلبوم «[Coup of Gods](#coup-of-gods-9gm)» در اینترنت با کارهای اوبری جانسون، خوانندهٔ آمریکایی، آشنا شد و در اینستاگرام به او پیام داد.[^contact] جانسون آوازهای بداهه‌اش را در واتس‌اپ برای رجبیان می‌فرستاد. رجبیان از ساری پیشنهادهایش را برای او می‌نوشت و جانسون دوباره می‌خواند و ضبط می‌کرد.[^takes][^response][^sari] آلبوم در سال ۲۰۲۱ منتشر شد.[^coup] جانسون در آلبوم بعدی او، «[It Arrives](#it-arrives-krj)»، هم خواند. پریا دارشینی و نیکول زورایتیس دو خوانندهٔ دیگر این آلبوم بودند. رجبیان موسیقی را ساخت و تنظیم کرد و همراه با ایمی اندرسون تهیه‌کنندگی آلبوم را به عهده گرفت. این اثر در سال ۲۰۲۲ منتشر شد.[^voices][^roles][^producers][^arrives]
 
 در سال ۲۰۲۶ رجبیان با وتک و گروه کُر لَود اِربَن کوایر در ساخت «[Suspended at Dawn](#suspended-at-dawn-z3f)» همکاری کرد. او شعر قطعه را نوشت و در آهنگسازی، تنظیم و تهیهٔ آن سهیم بود.[^dawn][^choir][^dawndate] در اوت همان سال هم آلبوم کوتاه «[AZADI Songs of Freedom](#azadi-songs-of-freedom-neq)» را همراه با مری داوود کتلین و ندیم مجدلانی منتشر کرد.[^azadi][^aug]

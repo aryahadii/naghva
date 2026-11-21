@@ -38,6 +38,12 @@ statements:
       quote: ‎Two Lands (Idlefon Rework) - Song with Lyrics by Temp-Illusion - Apple Music
       accessed: '2026-11-21'
       locator: Page title
+  - value: https://www.youtube.com/watch?v=MW7yS1GW6-0
+    references:
+    - source: youtube.com-watch-v-mw7ys1gw6-0
+      quote: The music is Idlefon’s rework of “Two Lands”, originally produced by Temp-Illusion
+      locator: Video description
+      accessed: '2026-11-21'
   cover art:
   - value: https://f4.bcbits.com/img/a2607880486_10.jpg
     references:

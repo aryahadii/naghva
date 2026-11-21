@@ -103,16 +103,47 @@ references:
     quote: Mehdi Rajabian - Composer, Arranger, Producer, Lyricist
     accessed: 2026-11-21
     locator: Video description, Credits
+  closure:
+    source: www.euronews.com-culture-2022-09-09-the-iranian-musician-risking-prison-for-his-new-album
+    quote: His album was banned and all materials, company pages, websites and hard drives related to Barg
+      were seized.
+    accessed: 2026-11-21
+    locator: A burgeoning career and a prison sentence
+  why:
+    source: www.euronews.com-culture-2022-09-09-the-iranian-musician-risking-prison-for-his-new-album
+    quote: I helped to publish the banned artworks.
+    accessed: 2026-11-21
+    locator: Rajabian on the reason for the arrest
+  takes:
+    source: time.com-6080281-mehdi-rajabian-iran-music
+    quote: Johnson would send audio files of herself improvising over Whatsapp
+    accessed: 2026-11-21
+    locator: Recording with Aubrey Johnson
+  response:
+    source: time.com-6080281-mehdi-rajabian-iran-music
+    quote: Rajabian would give her feedback and suggestions, and she would re-record her parts
+    accessed: 2026-11-21
+    locator: Recording with Aubrey Johnson
+  sari:
+    source: time.com-6080281-mehdi-rajabian-iran-music
+    quote: on the floor of a secret basement in Sari, Iran.
+    accessed: 2026-11-21
+    locator: Recording in Sari
+  mdate:
+    source: music.apple.com-us-album-mehdi-rajabian-middle-eastern-1455970099
+    quote: March 15, 2019 11 songs, 42 minutes ℗ 2019 Sony Music Entertainment Turkey.
+    accessed: 2026-11-21
+    locator: Release details
 ---
 
-Mehdi Rajabian is an Iranian composer and setar player. In 2007 he founded Barg Music to help musicians who had been banned from working in Iran.[^identity][^setar][^founder] He began writing *Middle Eastern* in prison and went on to bring together musicians from twelve countries for the album.[^prison][^middle]
+Mehdi Rajabian is an Iranian composer and setar player. In 2007 he founded Barg Music to help musicians who had been banned from working in Iran.[^identity][^setar][^founder] He began writing *[Middle Eastern](#mehdi-rajabian-middle-eastern-cem)* in prison and went on to bring together musicians from twelve countries for the album.[^prison][^middle]
 
 ## Barg Music and Middle Eastern
 
-Rajabian was already running Barg Music when he began a project of his own on the setar, drawing on the musical history of Iran.[^early] In prison he composed the pieces for *Middle Eastern*. As soon as he was released on parole, he began producing the album.[^prison][^production] The musicians had never met. For Rajabian, what connected their contributions was a shared experience of war and hardship across the region.[^regional][^war]
+Rajabian was already running Barg Music when he began a project of his own on the setar, drawing on the musical history of Iran.[^early] The authorities banned the album and seized Barg Music’s recordings and hard drives. Rajabian later said he had been arrested for publishing other musicians’ banned work.[^closure][^why] In prison he composed the pieces for *Middle Eastern*. As soon as he was released on parole, he began producing the album, which came out in 2019.[^prison][^production][^mdate] The musicians had never met. For Rajabian, what connected their contributions was a shared experience of war and hardship across the region.[^regional][^war]
 
 ## Working across borders
 
-While making *[Coup of Gods](#coup-of-gods-9gm)*, Rajabian found the American singer Aubrey Johnson's work online and contacted her on Instagram.[^contact] The album came out in 2021.[^coup] Johnson sang again on *[It Arrives](#it-arrives-krj)*, this time with Priya Darshini and Nicole Zuraitis. Rajabian composed and arranged the music and produced the album with Amy Andersson. It came out in 2022.[^voices][^roles][^producers][^arrives]
+While making *[Coup of Gods](#coup-of-gods-9gm)*, Rajabian found the American singer Aubrey Johnson's work online and contacted her on Instagram.[^contact] Johnson sent him improvised vocal parts on WhatsApp. He suggested changes from Sari, and she recorded new takes. The album came out in 2021.[^takes][^response][^sari][^coup] Johnson sang again on *[It Arrives](#it-arrives-krj)*, this time with Priya Darshini and Nicole Zuraitis. Rajabian composed and arranged the music and produced the album with Amy Andersson. It came out in 2022.[^voices][^roles][^producers][^arrives]
 
 In 2026 Rajabian worked with Vtek and the Loud Urban Choir on “[Suspended at Dawn](#suspended-at-dawn-z3f)”. He wrote the lyrics and helped compose, arrange and produce the song.[^dawn][^choir][^dawndate] That August he also released *[AZADI Songs of Freedom](#azadi-songs-of-freedom-neq)* with Mary Dawood Catlin and Nadeem Majdalany.[^azadi][^aug]

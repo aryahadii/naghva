@@ -1,0 +1,51 @@
+id: Qm8dbq2
+type: release
+statements:
+  name:
+  - value:
+      text: You Are One of Us
+      language: en
+    references:
+    - source: music.apple.com-us-song-you-are-one-of-us-1770095912
+      quote: You Are One of Us
+      accessed: '2026-11-21'
+      locator: Recording heading
+  performer:
+  - value: Qynmr3m
+    references:
+    - source: music.apple.com-us-song-you-are-one-of-us-1770095912
+      quote: ‎You Are One of Us - Song with Lyrics by Mentrix - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://music.apple.com/us/song/you-are-one-of-us/1770095912
+    references:
+    - source: music.apple.com-us-song-you-are-one-of-us-1770095912
+      quote: ‎You Are One of Us - Song with Lyrics by Mentrix - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/52f3ohK4nq6iNSLHLJVZP8
+    references:
+    - source: open.spotify.com-track-52f3ohk4nq6inslhljvzp8
+      quote: You Are One of Us - song and lyrics by Mentrix | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2024-09-20'
+    references:
+    - source: music.apple.com-us-song-you-are-one-of-us-1770095912
+      quote: September 20, 2024
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7d/11/6c/7d116c21-34bd-644e-5db1-fc12156c4687/3663729336804_cover.jpg/600x600bb.webp
+    references:
+    - source: music.apple.com-us-song-you-are-one-of-us-1770095912
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7d/11/6c/7d116c21-34bd-644e-5db1-fc12156c4687/3663729336804_cover.jpg/600x600bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en

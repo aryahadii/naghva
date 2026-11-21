@@ -1,5 +1,6 @@
 ---
 url: https://modernismunbound.com/articles/interview-temp-illusion/
+archive: "https://web.archive.org/web/20240423170051/https://modernismunbound.com/articles/interview-temp-illusion/"
 title: 'Interview: Temp-Illusion – Modernism Unbound'
 kind: web page
 language: en

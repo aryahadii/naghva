@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/it-arrives/1645641710
+archive: "https://web.archive.org/web/20260217071113/https://music.apple.com/us/album/it-arrives/1645641710"
 title: It Arrives - Album by Mehdi Rajabian - Apple Music
 tier: discography
 language: en

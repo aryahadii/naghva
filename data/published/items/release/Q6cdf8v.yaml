@@ -1,0 +1,88 @@
+id: Q6cdf8v
+type: release
+statements:
+  name:
+  - value:
+      text: FIL O FENJOON
+      language: en
+    references:
+    - source: zojduet.bandcamp.com-album-fil-o-fenjoon
+      quote: FIL O FENJOON
+      accessed: '2026-11-21'
+      locator: Album heading
+  performer:
+  - value: Qk5bhh3
+    references:
+    - source: zojduet.bandcamp.com-album-fil-o-fenjoon
+      quote: FIL O FENJOON | ZÖJ
+      accessed: '2026-11-21'
+      locator: Album page title
+  release date:
+  - value:
+      date: '2023-11-15'
+    references:
+    - source: zojduet.bandcamp.com-album-fil-o-fenjoon
+      quote: released November 15, 2023
+      accessed: '2026-11-21'
+      locator: Release credits, publication date
+  listen link:
+  - value: https://zojduet.bandcamp.com/album/fil-o-fenjoon
+    references:
+    - source: zojduet.bandcamp.com-album-fil-o-fenjoon
+      quote: FIL O FENJOON | ZÖJ
+      accessed: '2026-11-21'
+      locator: Album page title
+  - value: https://open.spotify.com/album/6LOgRmO7xsqCW70AReDyjZ
+    references:
+    - source: open.spotify.com-album-6logrmo7xsqcw70aredyjz
+      quote: Fil O Fenjoon
+      accessed: '2026-11-21'
+      locator: Album player heading
+  - value: https://music.apple.com/au/album/fil-o-fenjoon/1716138459
+    references:
+    - source: music.apple.com-au-album-fil-o-fenjoon-1716138459
+      quote: ‎Fil O Fenjoon - Album by Gelareh Pour - Apple Music
+      accessed: '2026-11-21'
+      locator: Album page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a0814075114_10.jpg
+    qualifiers:
+      credit:
+        text: Gelareh Pour and Brian O’Dwyer
+        language: en
+    references:
+    - source: zojduet.bandcamp.com-album-fil-o-fenjoon
+      quote: https://f4.bcbits.com/img/a0814075114_10.jpg
+      accessed: '2026-11-21'
+      locator: Full-sized album artwork
+    - source: zojduet.bandcamp.com-album-fil-o-fenjoon
+      quote: Cover image by Gelareh Pour and Brian O’Dwyer
+      accessed: '2026-11-21'
+      locator: Artwork credit
+  release type:
+  - value: album
+    references:
+    - source: zojduet.bandcamp.com-album-fil-o-fenjoon
+      quote: FIL O FENJOON | ZÖJ
+      accessed: '2026-11-21'
+      locator: Album page title
+  published by:
+  - value: Qb2e8p4
+    references:
+    - source: parenthesesrecords.bandcamp.com-music
+      quote: FIL O FENJOON
+      accessed: '2026-11-21'
+      locator: Label catalogue, album heading
+    - source: parenthesesrecords.bandcamp.com-music
+      quote: Parenthèses Records
+      accessed: '2026-11-21'
+      locator: Label profile
+  contributor:
+  - value: Qb2vsee
+    qualifiers:
+      role: recording engineer
+    references:
+    - source: zojduet.bandcamp.com-album-fil-o-fenjoon
+      quote: Recorded live by Myles Mumford
+      accessed: '2026-11-21'
+      locator: Album production credits

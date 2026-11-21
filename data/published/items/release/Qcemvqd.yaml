@@ -1,0 +1,71 @@
+id: Qcemvqd
+type: release
+statements:
+  name:
+  - value:
+      text: 'Mehdi Rajabian: Middle Eastern'
+      language: en
+    references:
+    - source: music.apple.com-us-album-mehdi-rajabian-middle-eastern-1455970099
+      quote: 'Mehdi Rajabian: Middle Eastern - Album by Various Artists - Apple Music'
+      accessed: 2026-11-21
+      locator: Album title
+  - value:
+      text: خاورمیانه‌ای
+      language: fa
+    references:
+    - source: ir.voanews.com-a-mehdi-awards-music-iran-4965451.html
+      quote: آهنگ های«خاورمیانه‌ای» را در دوران حبس نوشت.
+      accessed: 2026-11-21
+      locator: Report on Middle Eastern
+  release date:
+  - value:
+      date: '2019-03-15'
+    references:
+    - source: music.apple.com-us-album-mehdi-rajabian-middle-eastern-1455970099
+      quote: March 15, 2019 11 songs, 42 minutes ℗ 2019 Sony Music Entertainment Turkey.
+      accessed: 2026-11-21
+      locator: Release details
+  release type:
+  - value: album
+    references:
+    - source: music.apple.com-us-album-mehdi-rajabian-middle-eastern-1455970099
+      quote: 'Mehdi Rajabian: Middle Eastern - Album by Various Artists - Apple Music'
+      accessed: 2026-11-21
+      locator: Album title
+  performer:
+  - value: Qp8pv74
+    references:
+    - source: open.spotify.com-embed-album-5ulibsbukulfebmeuoe1de
+      quote: Iran Mehdi Rajabian
+      accessed: 2026-11-21
+      locator: Track 1, title and artist
+  contributor:
+  - value: Qp8pv74
+    qualifiers:
+      role: producer
+    references:
+    - source: mei.edu-publication-messages-peace-iranian-artist-imprisoned-music-releases-new-album
+      quote: producing a new album, Middle Eastern
+      accessed: 2026-11-21
+      locator: Interview introduction
+  listen link:
+  - value: https://music.apple.com/us/album/mehdi-rajabian-middle-eastern/1455970099
+    references:
+    - source: music.apple.com-us-album-mehdi-rajabian-middle-eastern-1455970099
+      quote: 'Mehdi Rajabian: Middle Eastern - Album by Various Artists - Apple Music'
+      accessed: 2026-11-21
+      locator: Album title
+  - value: https://open.spotify.com/album/5ulibSBuKuLfEBMeuOe1De
+    references:
+    - source: open.spotify.com-embed-album-5ulibsbukulfebmeuoe1de
+      quote: Iran Mehdi Rajabian
+      accessed: 2026-11-21
+      locator: Track 1, title and artist
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/b5/f7/bc/b5f7bcfa-5d1b-702d-fd31-8100b942b0bf/886447583418.jpg/632x632bb-60.jpg
+    references:
+    - source: music.apple.com-us-album-mehdi-rajabian-middle-eastern-1455970099
+      quote: 'Mehdi Rajabian: Middle Eastern - Album by Various Artists - Apple Music'
+      accessed: 2026-11-21
+      locator: Album title

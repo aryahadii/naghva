@@ -1,5 +1,6 @@
 ---
 url: https://mehdirajabian.com/fyc/
+archive: "https://web.archive.org/web/20260710201230/https://mehdirajabian.com/fyc/"
 title: Mehdi Rajabian
 tier: own
 language: en

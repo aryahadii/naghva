@@ -1,5 +1,6 @@
 ---
 url: https://commons.wikimedia.org/wiki/File:Mehdi.Rajabian.Composer.jpg
+archive: "https://web.archive.org/web/20251127163750/https://commons.wikimedia.org/wiki/File:Mehdi.Rajabian.Composer.jpg"
 title: File:Mehdi.Rajabian.Composer.jpg - Wikimedia Commons
 tier: other
 language: en

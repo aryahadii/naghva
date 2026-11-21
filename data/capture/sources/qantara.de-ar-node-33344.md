@@ -24,3 +24,15 @@ Opening report, 25 November 2015, read 2026-11-21.
 > for which the two bands initiated a net-based crowd-funding campaign
 
 Opening report, read 2026-11-21.
+
+> Meeting backstage at a festival in Nuremberg, the musicians exchanged their views on the world.
+
+Peace tour of Germany, read 2026-11-21.
+
+> At this point, Ramzailech and Langtunes share the stage and their audiences.
+
+Opening report, on the joint programme, read 2026-11-21.
+
+> Our connection is purely musical and cultural.
+
+Secret handshake of friendship, Moosavi speaking, read 2026-11-21.

@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/failsafe/1702236772
+archive: "https://web.archive.org/web/20241114174800/https://music.apple.com/us/album/failsafe/1702236772"
 title: ‎Failsafe - Album by Temp-Illusion - Apple Music
 kind: web page
 language: en

@@ -1,0 +1,64 @@
+id: Qfxnxy2
+type: release
+statements:
+  name:
+  - value:
+      text: Igneous Sun
+      language: en
+    references:
+    - source: mentrix.bandcamp.com-track-igneous-sun
+      quote: Igneous Sun
+      accessed: '2026-11-21'
+      locator: Recording heading
+  performer:
+  - value: Qynmr3m
+    references:
+    - source: mentrix.bandcamp.com-track-igneous-sun
+      quote: Igneous Sun | Mentrix
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://mentrix.bandcamp.com/track/igneous-sun
+    references:
+    - source: mentrix.bandcamp.com-track-igneous-sun
+      quote: Igneous Sun | Mentrix
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/igneous-sun/1572275448
+    references:
+    - source: music.apple.com-us-song-igneous-sun-1572275448
+      quote: ‎Igneous Sun - Song with Lyrics by Mentrix - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/0Sw0iLL8SbNZYk4J5vSTr7
+    references:
+    - source: open.spotify.com-track-0sw0ill8sbnzyk4j5vstr7
+      quote: Igneous Sun - song and lyrics by Mentrix | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  published by:
+  - value: Qmz3gff
+    references:
+    - source: mentrix.bandcamp.com-track-igneous-sun
+      quote: House Of Strength Records
+      accessed: '2026-11-21'
+      locator: Artist label header
+  release date:
+  - value:
+      date: '2020-04-03'
+    references:
+    - source: mentrix.bandcamp.com-track-igneous-sun
+      quote: released April 3, 2020
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a0360057345_10.jpg
+    references:
+    - source: mentrix.bandcamp.com-track-igneous-sun
+      quote: https://f4.bcbits.com/img/a0360057345_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Mentrix on Bandcamp
+        language: en

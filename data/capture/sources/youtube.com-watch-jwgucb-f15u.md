@@ -20,3 +20,7 @@ Channel name, read 2026-11-21.
 > 2015-01-31T08:48:40-08:00
 
 Upload date, read 2026-11-21.
+
+> https://i.ytimg.com/vi/jwGUCb-f15U/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGCcgFSh_MA8=&rs=AOn4CLAq-k84_mJKuH-XKcv29E-5o4DWXQ
+
+Thumbnail published with this video in the artist channel’s page metadata, read 2026-11-21.

@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/artist/mehdi-rajabian/1455970105
+archive: "https://web.archive.org/web/20250126052949/https://music.apple.com/us/artist/mehdi-rajabian/1455970105"
 title: ‎Mehdi Rajabian - Apple Music
 tier: discography
 language: en

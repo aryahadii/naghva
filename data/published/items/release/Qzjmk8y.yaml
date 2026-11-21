@@ -1,0 +1,56 @@
+id: Qzjmk8y
+type: release
+statements:
+  name:
+  - value:
+      text: Shekare Ahoo - Single
+      language: en
+    references:
+    - source: open.spotify.com-album-7jhmu95dfy9pou0mrhx9r7
+      quote: Shekare Ahoo
+      accessed: '2026-11-21'
+      locator: Single title
+    - source: open.spotify.com-album-7jhmu95dfy9pou0mrhx9r7
+      quote: Single
+      accessed: '2026-11-21'
+      locator: Release type
+  release type:
+  - value: single
+    references:
+    - source: open.spotify.com-album-7jhmu95dfy9pou0mrhx9r7
+      quote: Single
+      accessed: '2026-11-21'
+      locator: Release type
+  performer:
+  - value: Qj92kqa
+    references:
+    - source: open.spotify.com-album-7jhmu95dfy9pou0mrhx9r7
+      quote: Mitra Sumara
+      accessed: '2026-11-21'
+      locator: Primary artist
+  listen link:
+  - value: https://open.spotify.com/album/7jhmU95DfY9PoU0mrhX9R7
+    references:
+    - source: open.spotify.com-album-7jhmu95dfy9pou0mrhx9r7
+      quote: Shekare Ahoo
+      accessed: '2026-11-21'
+      locator: Single title
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d00001e027ea8b4932d2d1c84138089c1
+    references:
+    - source: open.spotify.com-album-7jhmu95dfy9pou0mrhx9r7
+      quote: https://i.scdn.co/image/ab67616d00001e027ea8b4932d2d1c84138089c1
+      accessed: '2026-11-21'
+      locator: Single artwork
+    qualifiers:
+      credit:
+        text: Persian Cardinal Recordings, via Spotify
+        language: en
+  release date:
+  - value:
+      date: '2023'
+    references:
+    - source: open.spotify.com-album-7jhmu95dfy9pou0mrhx9r7
+      quote: '2023'
+      accessed: '2026-11-21'
+      locator: Single release year

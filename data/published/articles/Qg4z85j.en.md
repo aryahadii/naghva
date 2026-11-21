@@ -130,6 +130,26 @@ references:
     quote: which resulted for them to be signed by the Nuernberger Indie label, Parvenue.
     accessed: '2026-11-21'
     locator: Short Info
+  backstage:
+    source: qantara.de-ar-node-33344
+    quote: Meeting backstage at a festival in Nuremberg, the musicians exchanged their views on the world.
+    locator: Peace tour of Germany
+    accessed: '2026-11-21'
+  audiences:
+    source: qantara.de-ar-node-33344
+    quote: At this point, Ramzailech and Langtunes share the stage and their audiences.
+    locator: Opening report, on the joint programme
+    accessed: '2026-11-21'
+  reason:
+    source: qantara.de-ar-node-33344
+    quote: Our connection is purely musical and cultural.
+    locator: Secret handshake of friendship, Moosavi speaking
+    accessed: '2026-11-21'
+  democut:
+    source: youtube.com-watch-epepicgdyjc
+    quote: This is our first official video, from our first demo CD called "Sentimental  Disasters".
+    locator: Description, source of the song
+    accessed: '2026-11-21'
 ---
 
 Langtunes were an Iranian rock band active from 2009 to 2017. Behrooz Moosavi and Kamyar Keramati began playing together in Tehran, where the band released its own early recordings. They went on to record their debut album, [*Teherantor*](#teherantor-wka), in Germany and toured there with the Israeli band Ramzailech.[^founders][^fa][^years][^demos][^record][^joint]
@@ -142,8 +162,10 @@ Photographer Jai Brodie visited the band at a basement flat that had been turned
 
 ## From Tehran to the festival circuit
 
-After playing in Istanbul in 2011, the band put out two demo CDs themselves. In 2012 they followed [*Sentimental Disasters*](#sentimental-disasters-wan) with a short tour of Germany and Turkey. They circulated their music online and sent discs to festival organisers. When [*The Bright Ages*](#the-bright-ages-4s3) came out the following year, they arranged a three-month European tour from Tehran through contacts they had made on Facebook.[^istanbul][^demos][^dates][^demosent][^facebook]
+After playing in Istanbul in 2011, the band put out two demo CDs themselves. In 2012 they followed [*Sentimental Disasters*](#sentimental-disasters-wan) with a short tour of Germany and Turkey. “Transparent Thoughts,” from that demo, became their first official music video.[^democut] They circulated their music online and sent discs to festival organisers. When [*The Bright Ages*](#the-bright-ages-4s3) came out the following year, they arranged a three-month European tour from Tehran through contacts they had made on Facebook.[^istanbul][^demos][^dates][^demosent][^facebook]
 
-They signed with Parvenue Records after another European tour in support of their 2014 EP [*The Story Of Us*](#the-story-of-us-vcz).[^third][^signed] In Germany they recorded *Teherantor*, which Parvenue Records released in December 2014. Late that year they met the musicians of Ramzailech in Nuremberg. The two bands organised a crowdfunding campaign for a joint German tour they called The Secret Handshake and opened it in Leipzig in November 2015.[^record][^lp][^issued][^met][^funding][^handshake][^joint][^leipzig]
+They signed with Parvenue Records after another European tour in support of their 2014 EP [*The Story Of Us*](#the-story-of-us-vcz).[^third][^signed] In Germany they recorded *Teherantor*, which Parvenue Records released in December 2014. Late that year they met the musicians of Ramzailech backstage at a festival in Nuremberg.[^met][^backstage] The two bands organised a crowdfunding campaign for a joint German tour they called The Secret Handshake and opened it in Leipzig in November 2015.[^record][^lp][^issued][^met][^funding][^handshake][^joint][^leipzig]
+
+On tour the two bands played for each other’s audiences. For Moosavi, the point of the encounter was musical and cultural.[^audiences][^reason]
 
 Langtunes kept playing European festivals and clubs until 2017. Sam Eyvaz and Garen Abnous were part of the touring band.[^touring]

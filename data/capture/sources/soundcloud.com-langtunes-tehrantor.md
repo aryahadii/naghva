@@ -20,3 +20,11 @@ Published timestamp, read 2026-11-21.
 > https://i1.sndcdn.com/artworks-000051896472-cljeig-t500x500.jpg
 
 Artist-supplied track artwork in page metadata, read 2026-11-21.
+
+> Langtunes
+
+Group name printed at the bottom left of the artwork, read 2026-11-21.
+
+> The Bright Ages
+
+EP title visible at the bottom left of the artwork, beneath the artist name, read 2026-11-21.

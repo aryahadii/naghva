@@ -1,0 +1,45 @@
+id: Q9m27er
+type: release
+statements:
+  name:
+  - value:
+      text: Plaything feat. Mentrix
+      language: en
+    references:
+    - source: open.spotify.com-track-0b9eeflbn6cnpwazpynuao
+      quote: Plaything feat. Mentrix
+      accessed: '2026-11-21'
+      locator: Recording heading
+  performer:
+  - value: Qynmr3m
+    references:
+    - source: open.spotify.com-track-0b9eeflbn6cnpwazpynuao
+      quote: Plaything feat. Mentrix - song and lyrics by Ruede Hagelstein, Mentrix | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://open.spotify.com/track/0B9eEfLBN6CNPwAZPynUaO
+    references:
+    - source: open.spotify.com-track-0b9eeflbn6cnpwazpynuao
+      quote: Plaything feat. Mentrix - song and lyrics by Ruede Hagelstein, Mentrix | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2015'
+    references:
+    - source: open.spotify.com-track-0b9eeflbn6cnpwazpynuao
+      quote: '2015'
+      accessed: '2026-11-21'
+      locator: Song information
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d0000b273df4bfc2203ee3ef850d03469
+    references:
+    - source: open.spotify.com-track-0b9eeflbn6cnpwazpynuao
+      quote: https://i.scdn.co/image/ab67616d0000b273df4bfc2203ee3ef850d03469
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Spotify
+        language: en

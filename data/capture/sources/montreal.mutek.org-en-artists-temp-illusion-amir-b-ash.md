@@ -1,5 +1,6 @@
 ---
 url: https://montreal.mutek.org/en/artists/temp-illusion-amir-b-ash
+archive: "https://web.archive.org/web/20250325052606/https://montreal.mutek.org/en/artists/temp-illusion-amir-b-ash"
 title: Temp-Illusion x Amir B. Ash | MUTEK Montréal
 kind: web page
 language: en
