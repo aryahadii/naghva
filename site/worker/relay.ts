@@ -61,6 +61,9 @@ export async function relay(request: Request): Promise<Response> {
   const path = url.pathname.startsWith(`${PREFIX}/`) ? url.pathname.slice(PREFIX.length) : '';
   if (!PATHS.has(path)) return new Response('Not found', { status: 404 });
   if (request.method !== 'POST') return new Response('Method not allowed', { status: 405, headers: { allow: 'POST' } });
+  if (request.headers.get('dnt') === '1' || request.headers.get('sec-gpc') === '1') {
+    return new Response(null, { status: 204, headers: { 'cache-control': 'no-store' } });
+  }
   const headers = new Headers();
   for (const name of ['content-type', 'content-encoding', 'user-agent']) {
     const value = request.headers.get(name);

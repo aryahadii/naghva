@@ -19,9 +19,10 @@ IRAN = "Qthab26"
 
 
 def kept(statements):
-    """Statements a reader is shown: the preferred ones if any, else all but deprecated."""
+    """Concrete values among the preferred statements, or normal ones when none are preferred."""
     preferred = [s for s in statements if s["rank"] == "preferred"]
-    return preferred or [s for s in statements if s["rank"] != "deprecated"]
+    ranked = preferred or [s for s in statements if s["rank"] != "deprecated"]
+    return [s for s in ranked if s["value"] not in ds.SPECIAL_VALUES]
 
 
 def middle(span):
