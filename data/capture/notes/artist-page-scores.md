@@ -228,3 +228,7 @@ Independent review on 2026-11-21. **9.2/10** · Sources 1.9, prose 1.9, recordin
 ### Avin Ahmadi
 
 Independent review on 2026-11-21. **9.2/10** · Sources 1.9, prose 1.9, recordings 2.6, images 1.0, gaps and reader experience 1.8. Checked the artist's four-title discography, original Qayeq concert, Austria's music information centre, the Roots Revival album and the separate Pashto concert with Simin Tander. The original ensemble uploader names Ahmadi as a guest oud player. Checked the NAWA presenter’s June 2026 announced livestream, which the venue explicitly withdrew after the event, and the October ORF calendar announcement. The revised page contains 52 panels with 77 decoded images per language and working local reference links (English f79a721c473b, Persian 79fa91c00917). Catalogue and article ready.
+
+### Eendo
+
+Independent review on 2026-11-21. **9.2/10** · Sources 1.9, prose 1.9, recordings 2.6, images 1.0, gaps and reader experience 1.8. Both 54-panel pages include United for Iran’s independent cut of “Naale ye Shabgeer” and the full compilation, the separately modified ending, Schricker’s original Sarmasti collaboration, and identified guest vocals and filmmaking. Compared the three recorded durations and the publisher’s account of the song for the 2009 protest movement. The formation-year difference between the band biography and the Brown programme is documented. The gallery photograph and all 109 images per language decoded; local fragments resolved (English e33d60c1e24c, Persian c670b1b287a7). Article and catalogue ready.

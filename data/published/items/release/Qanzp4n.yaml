@@ -38,6 +38,18 @@ statements:
       quote: Stream Love Story by Migrain Sq. | Listen online for free on SoundCloud
       accessed: '2026-11-21'
       locator: Page title
+  - value: https://music.apple.com/us/song/1814377402
+    references:
+    - source: music.apple.com-us-song-1814377402
+      quote: ‎Love Story - Song with Lyrics by Migrain Sq. - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/5RFYidNCTlKBBZ5c2F2f38
+    references:
+    - source: open.spotify.com-track-5rfyidnctlkbbz5c2f2f38
+      quote: Love Story - song and lyrics by Migrain Sq. | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
   release date:
   - value:
       date: '2011-08-17'

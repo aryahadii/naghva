@@ -105,9 +105,24 @@ references:
     quote: 'Ardalan Payvar (@ardalanpayvar): Music and Production'
     accessed: '2026-11-21'
     locator: Original recording or release date
+  azadi-track:
+    source: azadimusic.bandcamp.com-track-eendo-naale-ye-shabgeer
+    quote: Eendo - Naale ye Shabgeer
+    accessed: '2026-11-21'
+    locator: United for Iran compilation, original track and artist
+  azadi-date:
+    source: azadimusic.bandcamp.com-track-eendo-naale-ye-shabgeer
+    quote: June 12, 2012
+    accessed: '2026-11-21'
+    locator: Issue date
+  azadi-protest:
+    source: azadimusic.bandcamp.com-track-eendo-naale-ye-shabgeer
+    quote: اين ترانه براي کساني است که در تظاهرات سال ۱۳۸۸ شرکت کردند.
+    accessed: '2026-11-21'
+    locator: United for Iran’s note on the Green Movement
 ---
 
-Eendo began in 2009 with two singers, Shadi Yousefian and Ardalan Payvar. Payvar played piano, keyboards and accordion in [Kiosk](/en/kiosk-tgn/) and was writing songs of his own. When the duo released their first album, *Bord o Baakht*, in 2011, Yousefian described recording with different musicians from song to song.[^bio-found][^bio-music][^farda-kiosk][^farda-group][^farda-first][^ap429063264-year]
+Eendo began in 2009 with two singers, Shadi Yousefian and Ardalan Payvar. Payvar played piano, keyboards and accordion in [Kiosk](/en/kiosk-tgn/) and was writing songs of his own. When the duo released their first album, *Bord o Baakht*, in 2011, Yousefian described recording with different musicians from song to song.[^bio-found][^bio-music][^farda-kiosk][^farda-group][^farda-first][^ap429063264-year] United for Iran included “Naale ye Shabgeer” on its 2012 compilation *Azadi*. Its note identifies the song with the people who went into the streets during Iran’s 2009 protests.[^azadi-track][^azadi-date][^azadi-protest]
 
 For “Vojood-e To,” on the 2016 album *Hamin Lahzeh*, Payvar sang and played piano and guitar, using samples for the bass. Yahya Alkhansa played drums and Yousefian made the video. In 2018 [Mohsen Namjoo](/en/mohsen-namjoo-t6w/) joined Yousefian on vocals for “Ba Raftanet.” Payvar set Khosro Kiyanrad’s words to music and played keyboards and organ on the recording.[^ap1164397044-year][^v3kmhzt02kly-parts][^v3kmhzt02kly-drums][^v3kmhzt02kly-film][^ap1440985669-year][^old-voices][^old-words]
 

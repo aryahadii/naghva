@@ -120,6 +120,31 @@ references:
     quote: Artist-in-Residence, Minneapolis (July 2026)
     accessed: 2026-11-21
     locator: residency
+  drum:
+    source: www.bernardzuel.net-post-2019-06-27-the-courage-to-drift-the-strength-to-trust-the-glen-hansard-interview
+    quote: through the microphone we had for her drum, a ghazal
+    accessed: 2026-11-21
+    locator: Hansard on Fool’s Game
+  fool:
+    source: www.bernardzuel.net-post-2019-06-27-the-courage-to-drift-the-strength-to-trust-the-glen-hansard-interview
+    quote: So much so that they built the song around it
+    accessed: 2026-11-21
+    locator: The vocal on Fool’s Game
+  bird:
+    source: marketa-irglova.bandcamp.com-album-muna-2
+    quote: '''The Leading Bird'', written by Aida Shahghasemi and Markéta Irglová'
+    accessed: 2026-11-21
+    locator: Composer and performer credits
+  apollo:
+    source: vimeo.com-159633767
+    quote: Performed by Andrea Assaf & Aida Shahghasemi
+    accessed: 2026-11-21
+    locator: Art2Action film description
+  cairo:
+    source: static1.squarespace.com-static-68b70242581fa778e4fe8b0a-t-691210d3281b506f17045efd-1762791635320-drone-2bd-caf-2bdigital-2bprogram-2bdraft-2b3-2b10-21-25.pdf
+    quote: '& AIDA SHAHGHASEMI on Daf'
+    accessed: 2026-11-21
+    locator: Music ensemble, page 3
 ---
 
 Aida Shahghasemi is a singer and musician based in Minneapolis. She grew up in Iran and lived there until she was thirteen. When she studied psychology and anthropology at the University of Minnesota, she chose the restrictions on women’s singing in Iran as a subject of research. She later toured with Iron & Wine and with Markéta Irglová’s band, and recorded on two of Glen Hansard’s albums.[^birth][^city][^minn][^study][^tour][^glen]
@@ -129,6 +154,10 @@ Aida Shahghasemi is a singer and musician based in Minneapolis. She grew up in I
 Shahghasemi released *Wind Between the Horse’s Ears* in 2015. Among the voices on it is Amirhossein Kiani’s. He also plays tar on the record. *Cypress of Abarkooh* followed in 2019. For *Chashmandaaze Rooydaad*, which she produced in 2022, Shahghasemi brought in another singer for “Shelaal.” Ghazaal Ansari sings the words of poet Shahin Mehdipour.[^early][^first][^date3][^made][^guest][^poem]
 
 On *Sarāb*, released in 2025, Shahghasemi sings and plays electric bass. She describes an astronaut drifting in orbit, watching the sun rise and set every ninety minutes. Joe Mabbott recorded and mixed the album in Minneapolis. The cover also passed between two artists’ hands. Neda Shahghasemi made the print, which Ziba Rajabi reworked digitally.[^bass][^date4][^orbit][^studio][^sisters][^image]
+
+Shahghasemi and Markéta Irglová wrote “The Leading Bird” together for Irglová’s album *Muna*. A different kind of collaboration took place while Glen Hansard was recording “Fool’s Game.” Shahghasemi had come to play daf. As the song drew to a close, she began singing a ghazal by Rumi. The microphone set up for her drum caught her voice. Hansard recalled that they built the song around what the microphone had picked up.[^bird][^drum][^fool]
+
+In the theatre, Shahghasemi has worked with writer and performer Andrea Assaf. They performed “this woman, this sea” as a duet at the Apollo in New York. A decade later, the programme for Assaf’s *DRONE* in Cairo listed Shahghasemi on vocals and daf.[^apollo][^cairo]
 
 ## Playing the songs in Minneapolis
 

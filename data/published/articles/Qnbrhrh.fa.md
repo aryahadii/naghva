@@ -105,9 +105,24 @@ references:
     quote: 'Ardalan Payvar (@ardalanpayvar): Music and Production'
     accessed: '2026-11-21'
     locator: Original recording or release date
+  azadi-track:
+    source: azadimusic.bandcamp.com-track-eendo-naale-ye-shabgeer
+    quote: Eendo - Naale ye Shabgeer
+    accessed: '2026-11-21'
+    locator: United for Iran compilation, original track and artist
+  azadi-date:
+    source: azadimusic.bandcamp.com-track-eendo-naale-ye-shabgeer
+    quote: June 12, 2012
+    accessed: '2026-11-21'
+    locator: Issue date
+  azadi-protest:
+    source: azadimusic.bandcamp.com-track-eendo-naale-ye-shabgeer
+    quote: اين ترانه براي کساني است که در تظاهرات سال ۱۳۸۸ شرکت کردند.
+    accessed: '2026-11-21'
+    locator: United for Iran’s note on the Green Movement
 ---
 
-«ایندو» را دو خواننده، شادی یوسفیان و اردلان پایوار، در سال ۲۰۰۹ راه انداختند. پایوار در [کیوسک](/fa/kiosk-tgn/) پیانو، کیبورد و آکاردئون می‌زد و در کنار آن برای خودش هم آهنگ می‌ساخت. وقتی اولین آلبوم ایندو، «برد و باخت»، در سال ۲۰۱۱ منتشر شد، یوسفیان از همکاری با نوازندگان مختلف در ضبط قطعه‌های آلبوم گفت.[^bio-found][^bio-music][^farda-kiosk][^farda-group][^farda-first][^ap429063264-year]
+«ایندو» را دو خواننده، شادی یوسفیان و اردلان پایوار، در سال ۲۰۰۹ راه انداختند. پایوار در [کیوسک](/fa/kiosk-tgn/) پیانو، کیبورد و آکاردئون می‌زد و در کنار آن برای خودش هم آهنگ می‌ساخت. وقتی اولین آلبوم ایندو، «برد و باخت»، در سال ۲۰۱۱ منتشر شد، یوسفیان از همکاری با نوازندگان مختلف در ضبط قطعه‌های آلبوم گفت.[^bio-found][^bio-music][^farda-kiosk][^farda-group][^farda-first][^ap429063264-year] در سال ۲۰۱۲ سازمان «اتحاد برای ایران» قطعهٔ «نالهٔ شبگیر» را در مجموعهٔ «آزادی» منتشر کرد. در توضیح قطعه آمده که آن را برای کسانی نوشته‌اند که در اعتراضات سال ۱۳۸۸ ایران به خیابان رفتند.[^azadi-track][^azadi-date][^azadi-protest]
 
 در «وجود تو» از آلبوم «همین لحظه» که در سال ۲۰۱۶ منتشر شد، پایوار آواز خواند، پیانو و گیتار زد و صدای بیس را با نمونه‌های ضبط‌شده ساخت. یحیی الخنسا درامز نواخت و یوسفیان نماهنگ را ساخت. در سال ۲۰۱۸ [محسن نامجو](/fa/mohsen-namjoo-t6w/) برای ضبط «با رفتنت» با یوسفیان هم‌صدا شد. آهنگ و تنظیم از پایوار بود که کیبورد و ارگ زد و ترانه را خسرو کیان‌راد نوشته بود.[^ap1164397044-year][^v3kmhzt02kly-parts][^v3kmhzt02kly-drums][^v3kmhzt02kly-film][^ap1440985669-year][^old-voices][^old-words]
 

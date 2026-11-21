@@ -1,0 +1,17 @@
+id: Qq4cc6t
+type: release
+statements:
+  name:
+  - value:
+      text: Polish Chair
+      language: en
+    references:
+    - &id001
+      source: experpento.com-migrain-square-el-indie-irani-existe
+      quote: Antes de Madame Buttercry grabamos Polish Chair
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  performer:
+  - value: Qbkmbta
+    references:
+    - *id001

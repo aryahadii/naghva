@@ -1,0 +1,96 @@
+id: Qttcy4c
+type: release
+statements:
+  name:
+  - value:
+      text: History
+      language: en
+    references:
+    - source: music.apple.com-us-song-1814377406
+      quote: ‎History - Song with Lyrics by Migrain Sq. - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qbkmbta
+    references:
+    - source: music.apple.com-us-song-1814377406
+      quote: ‎History - Song with Lyrics by Migrain Sq. - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qz5swxp
+    references:
+    - source: www.youtube.com-watch-v-4zj178bftq4
+      quote: 'Lyrics and Voice: Sara Bigdeli Shamloo'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: vocals
+  - value: Q3waxf2
+    references:
+    - source: www.youtube.com-watch-v-4zj178bftq4
+      quote: 'Clarinet: Soheil Peyghambari'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: clarinet
+  - value: Qk4w7xz
+    references:
+    - source: www.youtube.com-watch-v-4zj178bftq4
+      quote: 'Guitar: Amir Saremi'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: guitar
+  contributor:
+  - value: Qgncp5r
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-4zj178bftq4
+      quote: 'Composers: Pouya Pouramin, Nima Aghiani'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: composer
+  - value: Qr62rq7
+    references:
+    - *id001
+    qualifiers:
+      role: composer
+  release date:
+  - value:
+      date: '2012-06-01'
+    references:
+    - source: music.apple.com-us-song-1814377406
+      quote: June 1, 2012
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7c/d3/e1/7cd3e115-af57-6d4c-6cbc-1761a1853d6c/6261840100440.jpg/600x600bb.webp
+    references:
+    - source: music.apple.com-us-song-1814377406
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7c/d3/e1/7cd3e115-af57-6d4c-6cbc-1761a1853d6c/6261840100440.jpg/600x600bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Oído Records, via Apple Music
+        language: en
+  listen link:
+  - value: https://music.apple.com/us/song/1814377406
+    references:
+    - source: music.apple.com-us-song-1814377406
+      quote: ‎History - Song with Lyrics by Migrain Sq. - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/0qeoKk7mrnonPS1d26Kch3
+    references:
+    - source: open.spotify.com-track-0qeokk7mrnonps1d26kch3
+      quote: History - song and lyrics by Migrain Sq. | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://www.youtube.com/watch?v=4ZJ178bFTQ4
+    references:
+    - source: www.youtube.com-watch-v-4zj178bftq4
+      quote: 'Migrain Sq. : History'
+      accessed: '2026-11-21'
+      locator: Page title

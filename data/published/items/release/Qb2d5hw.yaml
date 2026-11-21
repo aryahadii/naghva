@@ -17,6 +17,14 @@ statements:
       quote: Sarāb
       accessed: 2026-11-21
       locator: Album title
+    - source: www.aidashahghasemi.com-sarab
+      quote: 'Vocals and electric bass: Aida Shahghasemi'
+      accessed: 2026-11-21
+      locator: Artist credits
+    qualifiers:
+      role:
+      - bass
+      - vocals
   listen link:
   - value: https://music.apple.com/us/album/sar%C4%81b/1805200664
     references:

@@ -93,9 +93,12 @@ The expansion started at revision fa6c29ca with 124 bilingual artist pages. The 
 | Kasra Saboktakin | Qa6r74t | 9.2/10 | [Kasra Saboktakin](kasra-saboktakin-independent-review.md) |
 | Taraamoon | Qw4rq4q | 9.2/10 | [Taraamoon](taraamoon-independent-review.md) |
 | Avin Ahmadi | Qtcm49a | 9.2/10 | [Avin Ahmadi](artist-page-scores.md) |
-| Afarin Nazarijou | Qg776ck | Pending | [Catalogue](afarin-nazarijou.md) |
-| Sara Bigdeli Shamloo | Qz5swxp | Pending | [Catalogue](sara-bigdeli-shamloo.md) |
+| Afarin Nazarijou | Qg776ck | 9.2/10 | [Afarin Nazarijou](afarin-nazarijou-independent-review.md) |
+| Sara Bigdeli Shamloo | Qz5swxp | 9.2/10 | [Sara Bigdeli Shamloo](sara-bigdeli-shamloo-independent-review.md) |
 | Aida Shahghasemi | Qjh2zkc | Pending | [Catalogue](aida-shahghasemi.md) |
-| Eendo | Qnbrhrh | Pending | [Catalogue](eendo.md) |
+| Eendo | Qnbrhrh | 9.2/10 | [Eendo](eendo-independent-review.md) |
+| Migrain Sq. | Qbkmbta | Pending | [Catalogue](migrain-sq.md) |
+| Sara Fotros | Qvp2b3f | Pending | [Catalogue](sara-fotros.md) |
+| Zagros Daf Ensemble | Qh6sdaj | Pending | [Catalogue](zagros-daf-ensemble.md) |
 
 The [discovery list](independent-artist-discovery.md) contains candidates with release leads. Some will prove ineligible or match an existing artist by another spelling. Only new artist pages count toward the target.

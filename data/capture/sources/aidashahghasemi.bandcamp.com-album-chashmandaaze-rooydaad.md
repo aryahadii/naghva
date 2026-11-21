@@ -65,3 +65,11 @@ guest, read 2026-11-21.
 > Shelaal’s poet: Shahin Mehdipour
 
 poem, read 2026-11-21.
+
+> Shekast’s poet: Hafez
+
+Artist credits, read 2026-11-21.
+
+> Golchin Gilani
+
+Artist credits, read 2026-11-21.

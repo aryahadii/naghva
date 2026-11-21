@@ -1,0 +1,55 @@
+id: Q5m4cpp
+type: release
+statements:
+  name:
+  - value:
+      text: Kurdish song | @TalibRasool
+      language: en
+    references:
+    - source: www.youtube.com-oembed-59xwxamupzg
+      quote: Kurdish song | @TalibRasool
+      locator: Original release, musician interview or performance credits
+      accessed: '2026-11-21'
+  performer:
+  - value: Qvp2b3f
+    references:
+    - source: www.youtube.com-watchv-59xwxamupzg
+      quote: Sara Fotros
+      locator: Original release, musician interview or performance credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: daf
+  - value: Q6t2bkc
+    references:
+    - source: www.youtube.com-watchv-59xwxamupzg
+      quote: 'Vocal: Talib Rasoul'
+      locator: Original release, musician interview or performance credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: vocals
+  release date:
+  - value:
+      date: '2025-04-12'
+    references:
+    - source: www.youtube.com-watchv-59xwxamupzg
+      quote: '2025-04-12T02:32:55-07:00'
+      locator: Original release, musician interview or performance credits
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://i.ytimg.com/vi/59XWxamUPzg/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-59xwxamupzg
+      quote: https://i.ytimg.com/vi/59XWxamUPzg/hqdefault.jpg
+      locator: Original release, musician interview or performance credits
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Sara Fotros · original performance
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=59XWxamUPzg
+    references:
+    - source: www.youtube.com-oembed-59xwxamupzg
+      quote: Kurdish song | @TalibRasool
+      locator: Original release, musician interview or performance credits
+      accessed: '2026-11-21'

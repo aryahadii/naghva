@@ -20,3 +20,11 @@ Artist interview, biography or performance credits, read 2026-11-21.
 > https://i1.sndcdn.com/avatars-000005776807-ab73qd-t500x500.jpg
 
 Release artwork, read 2026-11-21.
+
+> Lyrics by: Federico Garcia Lorca
+
+Artist interview, biography or performance credits, read 2026-11-21.
+
+> Translated by: Ahmad Shamlou
+
+Artist interview, biography or performance credits, read 2026-11-21.

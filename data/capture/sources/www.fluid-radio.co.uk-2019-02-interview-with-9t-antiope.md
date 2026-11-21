@@ -51,3 +51,11 @@ Artist interview, biography or performance credits, read 2026-11-21.
 > meeting them whilst joining the orchestra
 
 Artist interview, biography or performance credits, read 2026-11-21.
+
+> to create something that hasn’t been there in Iranian pop
+
+Artist interview, biography or performance credits, read 2026-11-21.
+
+> there has never been an ending to Migrain Sq.
+
+Artist interview, biography or performance credits, read 2026-11-21.

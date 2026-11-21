@@ -120,6 +120,31 @@ references:
     quote: Artist-in-Residence, Minneapolis (July 2026)
     accessed: 2026-11-21
     locator: residency
+  drum:
+    source: www.bernardzuel.net-post-2019-06-27-the-courage-to-drift-the-strength-to-trust-the-glen-hansard-interview
+    quote: through the microphone we had for her drum, a ghazal
+    accessed: 2026-11-21
+    locator: Hansard on Fool’s Game
+  fool:
+    source: www.bernardzuel.net-post-2019-06-27-the-courage-to-drift-the-strength-to-trust-the-glen-hansard-interview
+    quote: So much so that they built the song around it
+    accessed: 2026-11-21
+    locator: The vocal on Fool’s Game
+  bird:
+    source: marketa-irglova.bandcamp.com-album-muna-2
+    quote: '''The Leading Bird'', written by Aida Shahghasemi and Markéta Irglová'
+    accessed: 2026-11-21
+    locator: Composer and performer credits
+  apollo:
+    source: vimeo.com-159633767
+    quote: Performed by Andrea Assaf & Aida Shahghasemi
+    accessed: 2026-11-21
+    locator: Art2Action film description
+  cairo:
+    source: static1.squarespace.com-static-68b70242581fa778e4fe8b0a-t-691210d3281b506f17045efd-1762791635320-drone-2bd-caf-2bdigital-2bprogram-2bdraft-2b3-2b10-21-25.pdf
+    quote: '& AIDA SHAHGHASEMI on Daf'
+    accessed: 2026-11-21
+    locator: Music ensemble, page 3
 ---
 
 آیدا شاه‌قاسمی خواننده و نوازندهٔ ساکن مینیاپولیس است. در ایران به دنیا آمد و تا سیزده‌سالگی همان‌جا زندگی کرد. بعدها در دانشگاه مینه‌سوتا روان‌شناسی و انسان‌شناسی خواند و دربارهٔ محدودیت‌های آوازخوانی زنان در ایران پژوهش کرد. در تورهای گروه آیرن اند واین و گروه مارکتا ایرگلووا همراهشان بود و در ضبط دو آلبوم گلن هنسارد نیز شرکت داشت.[^birth][^city][^minn][^study][^tour][^glen]
@@ -129,6 +154,10 @@ references:
 شاه‌قاسمی در سال ۲۰۱۵ آلبوم «نسیمی میان گوش‌های اسب» را منتشر کرد. امیرحسین کیانی از نوازندگان و خوانندگان این آلبوم بود؛ هم تار زد و هم آواز خواند. چهار سال بعد «سرو ابرکوه» منتشر شد. در «چشم‌انداز رویداد» که شاه‌قاسمی در سال ۲۰۲۲ تهیه کرد، قطعهٔ «شلال» را به خوانندهٔ دیگری سپرد. در این قطعه غزال انصاری شعر شاهین مهدی‌پور را می‌خواند.[^early][^first][^date3][^made][^guest][^poem]
 
 در «سراب»، آلبوم سال ۲۰۲۵، شاه‌قاسمی آواز می‌خواند و گیتار باس می‌نوازد. در روایت او فضانوردی در مدار زمین سرگردان است و هر نود دقیقه طلوع و غروب خورشید را می‌بیند. جو مَبِت آلبوم را در مینیاپولیس ضبط و میکس کرد. تصویر روی جلد هم حاصل کار دو هنرمند است. ندا شاه‌قاسمی طرح را روی کاغذ چاپ کرد و زیبا رجبی نسخهٔ دیجیتال آن را ساخت.[^bass][^date4][^orbit][^studio][^sisters][^image]
+
+شاه‌قاسمی و مارکتا ایرگلووا قطعهٔ «The Leading Bird» را برای آلبوم «Muna» با هم نوشتند. همکاری او با گلن هنسارد در «Fool’s Game» به شکل دیگری پیش رفت. شاه‌قاسمی برای نواختن دف به استودیو رفته بود. در پایان قطعه شروع به خواندن غزلی از مولانا کرد و میکروفنی که برای دف گذاشته بودند آواز او را گرفت. هنسارد بعدها گفت که قطعه را پیرامون همان آواز ساختند.[^bird][^drum][^fool]
+
+در تئاتر هم شاه‌قاسمی با آندریا عساف، نویسنده و اجراگر، کار کرده است. این دو «this woman, this sea» را در تئاتر آپولوی نیویورک اجرا کردند. ده سال بعد در برنامهٔ اجرای «DRONE» اثر عساف در قاهره، نام شاه‌قاسمی در میان خوانندگان و به‌عنوان نوازندهٔ دف آمده بود.[^apollo][^cairo]
 
 ## اجرای ترانه‌ها در مینیاپولیس
 

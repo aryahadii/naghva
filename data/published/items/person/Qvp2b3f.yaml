@@ -6,6 +6,73 @@ statements:
       text: Sara Fotros
       language: en
     references:
-    - source: music.apple.com-haleh-1572176919
-      quote: 'Listen to Sorrow,Like the Scent of a Dress (feat. Alireza Daryaei, Zakaria Yousefi, Javad Gholami, Masoud Salehi & Sara Fotros) - EP by Haleh Seyfizadeh & Issa Ghaffari on Apple Music. 2018. 4 Songs. Duration: 21 minutes.'
-      accessed: '2026-11-06'
+    - source: www.hawramanmusicgroup.com-musicians-sara-fotros
+      quote: Sara Fotros
+      locator: Original release, musician interview or performance credits
+      accessed: '2026-11-21'
+  - value:
+      text: سارا فطرس
+      language: fa
+    references:
+    - source: khoobo.com-ajam-roots-and-veins
+      quote: سارا فطرس
+      locator: Original release, musician interview or performance credits
+      accessed: '2026-11-21'
+  image:
+  - value: https://yt3.googleusercontent.com/T2igKoFm8KyM-MUYN_dS8MzqR541OrT4qqLxnEe3N44q_IsxvPcu9iSB74OXFojKRw90qakrRw=s900-c-k-c0x00ffffff-no-rj
+    references:
+    - source: www.youtube.com-channel-ucre6vtotebnkvfthjkurvyg
+      quote: https://yt3.googleusercontent.com/T2igKoFm8KyM-MUYN_dS8MzqR541OrT4qqLxnEe3N44q_IsxvPcu9iSB74OXFojKRw90qakrRw=s900-c-k-c0x00ffffff-no-rj
+      locator: Original release, musician interview or performance credits
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Sara Fotros · artist channel portrait
+        language: en
+  based in:
+  - value: Q89tspa
+    references:
+    - source: www.hawramanmusicgroup.com-musicians-sara-fotros
+      quote: based in London
+      locator: Original release, musician interview or performance credits
+      accessed: '2026-11-21'
+  member of:
+  - value: Qh6sdaj
+    references:
+    - source: www.hawramanmusicgroup.com-musicians-sara-fotros
+      quote: she co-founded the Zagros Daf Ensemble
+      locator: Original release, musician interview or performance credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: daf
+  - value: Qstq3nj
+    references:
+    - source: ajammusic.com-about-ajam-ajam-family
+      quote: Sara Fotros is a traditional percussionist
+      locator: Original release, musician interview or performance credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: percussion
+  - value: Qdw44sd
+    references:
+    - source: www.stringofpearlsensemble.com
+      quote: Sara Fotros Percussion
+      locator: Original release, musician interview or performance credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: daf
+  - value: Qae6jke
+    references:
+    - source: www.hawramanmusicgroup.com-musicians-sara-fotros
+      quote: Daf · Percussion · Hawraman Music Group
+      locator: Original release, musician interview or performance credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: daf
+  profile link:
+  - value: https://www.youtube.com/channel/UCRe6VTotebNKvFtHJKurVYg
+    references:
+    - source: www.youtube.com-channel-ucre6vtotebnkvfthjkurvyg
+      quote: https://www.youtube.com/channel/UCRe6VTotebNKvFtHJKurVYg
+      locator: Original release, musician interview or performance credits
+      accessed: '2026-11-21'
