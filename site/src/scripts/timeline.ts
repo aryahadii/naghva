@@ -23,8 +23,16 @@ if (form) {
   const apply = () => {
     const kinds = new Set(chips.filter((c) => c.getAttribute('aria-pressed') === 'true').map((c) => c.dataset.kind));
     const who = artist.value;
+    const visibleYears = new Set<string>();
+    let firstVisibleYear: string | undefined;
     for (const entry of entries) {
-      entry.hidden = !kinds.has(entry.dataset.kind) || (who !== '' && !entry.dataset.artists!.split(' ').includes(who));
+      const visible = kinds.has(entry.dataset.kind) && (who === '' || entry.dataset.artists!.split(' ').includes(who));
+      entry.hidden = !visible;
+      if (visible && entry.dataset.years) {
+        const entryYears = entry.dataset.years.split(' ');
+        firstVisibleYear ??= entryYears[0];
+        for (const entryYear of entryYears) visibleYears.add(entryYear);
+      }
     }
     let shown = 0;
     for (const section of years) {
@@ -33,10 +41,10 @@ if (form) {
       if (visible) shown++;
     }
     for (const option of year.options) {
-      option.disabled = !entries.some((e) => !e.hidden && e.dataset.years?.split(' ').includes(option.value));
+      option.disabled = !visibleYears.has(option.value);
     }
     if (year.selectedOptions[0]?.disabled) {
-      year.value = entries.find((e) => !e.hidden)?.dataset.years?.split(' ')[0] ?? '';
+      year.value = firstVisibleYear ?? '';
     }
     if (empty) empty.hidden = shown > 0;
 
