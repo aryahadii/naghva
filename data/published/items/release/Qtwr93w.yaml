@@ -30,6 +30,12 @@ statements:
       quote: Peritas - Single · ASADI · 2020-04-27
       accessed: 2026-11-21
       locator: Album artist and issue date
+  - value: https://soundcloud.com/asadimusic/peritas
+    references:
+    - source: soundcloud.com-asadimusic-peritas
+      quote: Peritas
+      accessed: 2026-11-22
+      locator: Verified artist SoundCloud upload and title
   release date:
   - value:
       date: '2020-04-27'

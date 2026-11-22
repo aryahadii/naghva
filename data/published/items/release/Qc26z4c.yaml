@@ -30,6 +30,12 @@ statements:
       quote: Violin Song - Single · ASADI · 2017-12-09
       accessed: 2026-11-21
       locator: Album artist and issue date
+  - value: https://soundcloud.com/asadimusic/violin-song
+    references:
+    - source: soundcloud.com-asadimusic-violin-song
+      quote: Violin Song
+      accessed: 2026-11-22
+      locator: Verified artist SoundCloud upload and title
   release date:
   - value:
       date: '2017-12-09'

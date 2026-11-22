@@ -153,7 +153,7 @@ The expansion started at revision fa6c29ca with 124 bilingual artist pages. The 
 | Sogol Mirzaei | Qh3tqkn | 9.3/10 | [Independent review](sogol-mirzaei-independent-review.md) |
 | Chakâm | Qd4gwas | 9.2/10 | [Independent review](ensemble-chakam-independent-review.md) |
 | Rokh Quartet | Qn5vbwr | 9.2/10 | [Independent review](rokh-quartet-independent-review.md) |
-| Ava Rasti | Qks2dfk | 9.3/10 | [Independent review](ava-rasti-independent-review.md) |
+| Ava Rasti | Qks2dfk | 9.3/10 | [Independent review](artist-page-scores.md#ava-rasti-and-mehdi-moshtagh) |
 | Hami Hamoo | Qaxddrm | 9.1/10 | [Independent review](artist-page-scores.md) |
 | Siriya Ensemble | Qxyqq7z | 9.2/10 | [Independent review](siriya-ensemble-independent-review.md) |
 | Mohammad Laryan | Qd43wbp | 9.2/10 | [Independent review](mohammad-laryan-independent-review.md) |
@@ -180,29 +180,29 @@ The expansion started at revision fa6c29ca with 124 bilingual artist pages. The 
 | Vahideh Eisaei | Qp75qps | 9.2/10 | [Independent review](vahideh-eisaei-independent-review.md) |
 | The Resonant Heart | Qgwfnje | 9.2/10 | [Independent review](the-resonant-heart-independent-review.md) |
 | Daftar Aval Trio | Qcp73xn | 9.1/10 | [Independent review](daftar-aval-trio-independent-review.md) |
-| Marzi Montazeri | Qtpm2k9 | Pending | [Catalogue](marzi-montazeri.md) |
-| Heavy As Texas | Qrnbrx5 | Pending | [Catalogue](heavy-as-texas.md) |
-| Marjan Vahdat | Qtrh4vq | Pending | [Catalogue](marjan-vahdat.md) |
-| ASADI | Qghhr4e | Pending | [Catalogue](asadi.md) |
+| Marzi Montazeri | Qtpm2k9 | 9.1/10 | [Independent review](marzi-montazeri-independent-review.md) |
+| Heavy As Texas | Qrnbrx5 | 9.2/10 | [Independent review](heavy-as-texas-independent-review.md) |
+| Marjan Vahdat | Qtrh4vq | 9.3/10 | [Independent review](marjan-vahdat-independent-review.md) |
+| ASADI | Qghhr4e | 9.2/10 | [Independent review](asadi-independent-review.md) |
 | Siamak Jahangiri | Qnz4xnz | 9.2/10 | [Independent review](siamak-jahangiri-independent-review.md) |
 | Kaveh Sarvarian | Qy69pg7 | 9.1/10 | [Independent review](kaveh-sarvarian-independent-review.md) |
 | Cardamom Trio | Qw3ackf | 9.2/10 | [Independent review](cardamom-trio-independent-review.md) |
 | Darawish | Qyk58gj | 9.2/10 | [Independent review](darawish-independent-review.md) |
 | Parsinava | Q3xyyar | 9.2/10 | [Independent review](parsinava-independent-review.md) |
-| Sepideh Meshki | Qbz9d6v | Pending | [Catalogue](sepideh-meshki.md) |
+| Sepideh Meshki | Qbz9d6v | 9.2/10 | [Independent review](sepideh-meshki-independent-review.md) |
 | Aria Mohafez | Qcvf546 | 9.3/10 | [Independent review](aria-mohafez-independent-review.md) |
 | Shahrzad Ensemble | Q4z6jy5 | 9.2/10 | [Independent review](shahrzad-ensemble-independent-review.md) |
 | Ensemble Mehr | Qa69txt | 9.1/10 | [Independent review](ensemble-mehr-independent-review.md) |
 | Azar Zargarian | Qhwvdn8 | 9.2/10 | [Independent review](azar-zargarian-independent-review.md) |
-| Atabak Elyasi | Q5z9jzy | Pending | [Catalogue](atabak-elyasi.md) |
-| Bahramji | Q9y35r9 | Pending | [Catalogue](bahramji.md) |
+| Atabak Elyasi | Q5z9jzy | 9.2/10 | [Independent review](atabak-elyasi-independent-review.md) |
+| Bahramji | Q9y35r9 | 9.2/10 | [Independent review](bahramji-independent-review.md) |
 | Ali Ghamsari | Qpnh6ey | 9.2/10 | [Independent review](ali-ghamsari-independent-review.md) |
-| The Allophones | Qaddn5j | Pending | [Catalogue](the-allophones.md) |
+| The Allophones | Qaddn5j | 9.2/10 | [Independent review](the-allophones-independent-review.md) |
 | Pasha Hanjani | Qgrx2hc | 9.1/10 | [Independent review](pasha-hanjani-independent-review.md) |
 | Adrienne Shamszad | Q4cqt3e | 9.2/10 | [Independent review](adrienne-shamszad-independent-review.md) |
-| Sepidar Ensemble | Qm6w85y | Pending | [Catalogue](sepidar-ensemble.md) |
-| Siavash Imani | Qmkhy5b | Pending | [Catalogue](siavash-imani.md) |
-| Houshmand Ebadi | Qxwemnb | Pending | [Catalogue](houshmand-ebadi.md) |
+| Sepidar Ensemble | Qm6w85y | 9.2/10 | [Independent review](sepidar-ensemble-independent-review.md) |
+| Siavash Imani | Qmkhy5b | 9.2/10 | [Independent review](siavash-imani-independent-review.md) |
+| Houshmand Ebadi | Qxwemnb | 9.2/10 | [Independent review](houshmand-ebadi-independent-review.md) |
 | Sahba Aminikia | Qhqb38j | 9.3/10 | [Independent review](sahba-aminikia-independent-review.md) |
 
 The [discovery list](independent-artist-discovery.md) contains candidates with release leads. Some will prove ineligible or match an existing artist by another spelling. Only new artist pages count toward the target.

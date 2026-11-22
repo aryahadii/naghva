@@ -30,6 +30,12 @@ statements:
       quote: Heart Song - Single · ASADI · 2016-03-29
       accessed: 2026-11-21
       locator: Album artist and issue date
+  - value: https://soundcloud.com/asadimusic/heart-song
+    references:
+    - source: soundcloud.com-asadimusic-heart-song
+      quote: Heart Song
+      accessed: 2026-11-22
+      locator: Verified artist SoundCloud upload and title
   release date:
   - value:
       date: '2016-03-29'

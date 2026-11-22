@@ -33,6 +33,10 @@ statements:
       accessed: '2026-11-21'
   image:
   - value: https://rokhquartet.art/wp-content/uploads/2025/02/Site-sanaz.png
+    qualifiers:
+      credit:
+        text: Rokh Quartet’s website
+        language: en
     references:
     - source: rokhquartet.art
       quote: https://rokhquartet.art/wp-content/uploads/2025/02/Site-sanaz.png

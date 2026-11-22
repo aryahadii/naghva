@@ -31,6 +31,10 @@ statements:
       accessed: '2026-10-23'
   image:
   - value: https://f4.bcbits.com/img/0020918020_10.jpg
+    qualifiers:
+      credit:
+        text: Ehsan Matoori on Bandcamp
+        language: en
     references:
     - source: ehsanmatoori.bandcamp.com-album-the-voices-and-bridges
       quote: https://f4.bcbits.com/img/0020918020_10.jpg

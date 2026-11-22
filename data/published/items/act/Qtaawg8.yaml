@@ -12,6 +12,10 @@ statements:
       locator: Release artist
   image:
   - value: https://f4.bcbits.com/img/0045950205_10.jpg
+    qualifiers:
+      credit:
+        text: Rite of Strings on Bandcamp
+        language: en
     references:
     - source: riteofstrings.bandcamp.com-album-dust-and-the-moon
       quote: https://f4.bcbits.com/img/0045950205_10.jpg

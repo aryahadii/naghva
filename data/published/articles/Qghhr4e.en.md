@@ -65,13 +65,18 @@ references:
     quote: Halfway in, D and I played out our new single “3 Wishes”
     accessed: 2026-11-21
     locator: ASADI on performing with DSharp
+  first-song:
+    source: soundcloud.com-asadimusic-sattar
+    quote: This is the first Persian Trap song I made. I just turned 17 when I made this.
+    accessed: 2026-11-22
+    locator: ASADI recounts his first recording in the description
 ---
 
 ASADI grew up in Columbus, Ohio. As a Persian American producer, he builds electronic pieces from instruments he plays himself, including Persian setar, Kurdish tambour and Turkish saz. The drum pad is also a stage instrument: he triggers the layers of a beat by hand, bringing the work of arranging a track in front of the audience.[^ohio][^instr][^rhythm]
 
 ## From home recordings to live sets
 
-At fourteen Asadi travelled to Iran with his family and heard traditional instruments being played in person. Back in Ohio he used his parents’ Persian pop and classical cassettes for samples, setting them against electronic beats and 808 bass. He was preparing to take what he called Persian Trap Music to festivals around the United States in 2017. For the 2020 [Cabin Fever set](#asadi-cabin-fever-performance-3j5), Asadi played on a hill overlooking Las Vegas. Violinist DSharp joined him midway through the set to play “3 Wishes” and improvise.[^asvisit][^astape][^as2017][^ascabin][^aswish]
+At fourteen Asadi travelled to Iran with his family and heard traditional instruments being played in person. Back in Ohio he used his parents’ Persian pop and classical cassettes for samples, setting them against electronic beats and 808 bass. He began making his own tracks from those sounds. He described “Sattar”, a collaboration with Viraj Anand that he recorded at seventeen, as his first Persian trap track.[^first-song] He was preparing to take what he called Persian Trap Music to festivals around the United States in 2017. For the 2020 [Cabin Fever set](#asadi-cabin-fever-performance-3j5), Asadi played on a hill overlooking Las Vegas. Violinist DSharp joined him midway through the set to play “3 Wishes” and improvise.[^asvisit][^astape][^as2017][^ascabin][^aswish]
 
 ## Game music and residency
 

@@ -30,6 +30,12 @@ statements:
       quote: Gangstar - Single · Nine Six Honcho, ASADI · 2020-07-10
       accessed: 2026-11-21
       locator: Album artist and issue date
+  - value: https://soundcloud.com/asadimusic/nine-six-honcho-gangstar
+    references:
+    - source: soundcloud.com-asadimusic-nine-six-honcho-gangstar
+      quote: ASADI & Nine Six Honcho - GANGSTAR
+      accessed: 2026-11-22
+      locator: Verified artist SoundCloud upload and title
   release date:
   - value:
       date: '2020-07-10'

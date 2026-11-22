@@ -16,3 +16,7 @@ Berlin Atonal, 2018, read 2026-11-21.
 Training and practice, read 2026-11-21.
 
 > background in molecular biology
+
+> Farahnaz Hatam © Natalia Evelyn Bencicova
+
+Villa Aurora’s original solo residency portrait, image caption, read 2026-11-21.

@@ -67,3 +67,26 @@ NHI published the complete 24:16 Rudaki recital and a 0:59 excerpt. Both are lin
 - Dashti 2 (Q7z5dgm) · https://www.youtube.com/watch?v=KCF4A6EJ-8s
 
 The complete artist upload (CMLMUA6p84U) and NHI issue (imvmWPn52Pw) have the same 24:16 runtime and the same music in the 4:20 to 4:38 comparison (20 ms amplitude correlation 0.989, 40 ms alignment). The 2018 performances share a single panel, with the artist upload’s issued address kept as an alias. The 2022 Hafdang Segah performance remains a distinct recording.
+
+Kherad Art House’s original Intimate Sentiments SoundCloud channel also issues these recordings. Track titles and source edition metadata match the existing panels.
+
+- 8. chaharmezrab  | Sepideh meshki - چهارمضراب | سپیده مشکی (Qt8hdsp) · https://soundcloud.com/intimate-sentiments/chaharmezrab-sepideh-meshki
+- Chahar Mezrabe Bayate Tork | Sepideh Meshki -  سپیده مشکی | چهار مضراب بيات ترك (Qt8hdsp) · https://soundcloud.com/intimate-sentiments/chahar-mezrabe-bayate-tork
+- 1. Daramad Bayat-E Tork | Sepideh Meshki (Q4b7xdx) · https://soundcloud.com/intimate-sentiments/1-daramad-bayat-e-tork-sepideh-meshki
+- 2. Reng | Sepide_Meshki - رنگ | سپیده مشکی (Qpytq88) · https://soundcloud.com/intimate-sentiments/reng-sepide_meshki
+- 3. Dad-O Goshayesh | Sepideh meshki - داد و گشایش | سپیده مشکی (Q3yjefy) · https://soundcloud.com/intimate-sentiments/dad-o-goshayesh-sepideh-meshki
+- 4. Shekasteh Va Zarbi-E Shekasteh | Sepideh Meshki - شکسته و ضربی شکسته | سپیده مشکی (Qd2853a) · https://soundcloud.com/intimate-sentiments/4-shekasteh-va-zarbi-e-shekasteh-sepideh-meshki
+- 5. Edameh-E Shekasteh | Sepideh Meshki -  ادامه‌ی شکسته | سپیده مشکی (Qvh9kpe) · https://soundcloud.com/intimate-sentiments/edameh-e-shekasteh-sepideh-meshki
+- 6. Mehrabani | Sepideh Meshki - مهربانی | سپیده مشکی (Q8xygb6) · https://soundcloud.com/intimate-sentiments/6-mehrabani-sepideh-meshki
+- 7. Mehdi Zarabi | Sepideh Meshki - مهدی ضرابی | سپیده مشکی (Qqt6gye) · https://soundcloud.com/intimate-sentiments/mehdi-zarabi-sepideh-meshki
+- 9. Daramad-E Bayat-E Esfahan | Sepideh Meshki - درآمد بیات اصفهان | سپیده مشکی (Q66mkb7) · https://soundcloud.com/intimate-sentiments/daramad-e-bayat-e-esfahan-sepideh-meshki
+- 10. Jamehdaran | Sepideh Meshki - جامه‌دران | سپیده مشکی (Qqc6scs) · https://soundcloud.com/intimate-sentiments/jamehdaran
+- 11. Zarbi | Sepideh Meshki - ضربی | سپیده مشکی (Qjhpv9r) · https://soundcloud.com/intimate-sentiments/11-zarbi-sepideh-meshki
+- 12. Bayat-E-Rajeh | Sepideh Meshki - بیات راجع | سپیده مشکی (Q23q8wx) · https://soundcloud.com/intimate-sentiments/bayat-e-rajeh-sepideh-meshki
+- 13. Oshaq | Sepideh Meshki - عشاق | سپیده مشکی (Qf6akpx) · https://soundcloud.com/intimate-sentiments/oshaq-sepideh-meshki
+- 14. Zarbi-E Oshaq | sepideh Meshki - ضربی عشاق | سپیده مشکی (Qf9rekq) · https://soundcloud.com/intimate-sentiments/zarbi-e-oshaq-sepideh-meshki
+- 15. Eshare Be Shoor-Va-Forood | Sepideh Meshki - اشاره به شور و فرود (Q3s2nzc) · https://soundcloud.com/intimate-sentiments/15-eshare-be-shoor-va-forood-sepideh-meshki
+- Sooz-O-Godaz |Sepideh Meshki - سوز و گداز | سپیده مشکی (Qr3kkmp) · https://soundcloud.com/intimate-sentiments/sooz-o-godaz-sepideh-meshki
+- Panjzarbi | Sepideh Meshki - پنج‌ضربی | سپیده مشکی (Qpf5c24) · https://soundcloud.com/intimate-sentiments/panjzarbi-sepideh-meshki
+
+The label’s 4:36 continuous 2014 Oshagh upload (Qqb7qr7) is nearly the combined duration of the two 2021 Oshāq and Zarbi-e Oshāq panel cuts. It retains a distinct panel as an original continuous version. In contrast the 3:22 Chaharmezrab was uploaded in both years with the same credits and running time, and both links point to the common track panel.

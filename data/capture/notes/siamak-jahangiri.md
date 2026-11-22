@@ -265,3 +265,20 @@ The Nofeh release notice names the original eight recorded duo pieces with Nabil
 
 - شوق‌نامه (Q4kbx76), original 1390 three-CD project. The retrospective distinguishes attributed repertoire from firm authorship. The physical set has no verified complete native listen link.
 - از گلستان عجم (Q7hje3c), Mahoor 1399 two-CD follow-up. Mahoor names Jahangiri on ney and Samer Habibi on alto kamancheh. A secondary database interchanges those roles. Mahoor’s 59-second embedded preview supports the edition, while Behzad Mirzaei describes Jahangiri’s specific contribution to getting it published.
+
+Kherad Art House’s original Intimate Sentiments SoundCloud channel also issues these recordings. Track titles and source edition metadata match the existing panels.
+
+- Do-zarbi-Ye Dashti | Siamak Jahangiri -  دو ضربی دشتی | سیامک جهانگیری (Qxbhaxr) · https://soundcloud.com/intimate-sentiments/do-zarbi-ye-dashti-siamak-jahangiri
+- Pishdarвmad-e Dashti | Siamak Jahangiri (Qzsjkxm) · https://soundcloud.com/intimate-sentiments/pishdarvmad-e-dashti-siamak-jahangiri
+- Clarinet in Dashti 1 | Siamak Jahangiri (Q8g5xgj) · https://soundcloud.com/intimate-sentiments/clarinet-in-dashti-1-siamak-jahangiri
+- Bait’s Captive | Siamak Jahangiri (Qrjdy4h) · https://soundcloud.com/intimate-sentiments/baits-captive-siamak-jahangiri
+- Clarinet in Dashti 2 | Siamak Jahangiri (Q7s3743) · https://soundcloud.com/intimate-sentiments/clarinet-in-dashti-2-siamak-jahangiri
+- Clarinet in Dashti 3 | Siamak Jahangiri (Qqgcqep) · https://soundcloud.com/intimate-sentiments/clarinet-in-dashti-3-siamak-jahangiri
+- Alatiti | Siamak Jahangiri (Q7cqje4) · https://soundcloud.com/intimate-sentiments/vlvtiti-siamak-jahangiri
+- Clarinet in Dashti 4 | Siamak Jahangiri (Qpsvj8f) · https://soundcloud.com/intimate-sentiments/clarinet-in-dashti-4-siamak-jahangiri
+- Reng-e Dashti | Siamak Jahangiri (Q4bnfng) · https://soundcloud.com/intimate-sentiments/reng-e-dashti-siamak-jahangiri
+- Clarinet in Homayoun | Siamak Jahangiri (Qczjgw6) · https://soundcloud.com/intimate-sentiments/clarinet-in-homayoun-siamak-jahangiri
+- Clarinet in Afshari | Siamak Jahangiri (Qzv5sre) · https://soundcloud.com/intimate-sentiments/clarinet-in-afshari-siamak-jahangiri
+- Pishdarвmad-e Afshвri Va Avaz | Siamak Jahangiri (Qhm5qc8) · https://soundcloud.com/intimate-sentiments/pishdarvmad-e-afshvri-va-vvvz-siamak-jahangiri
+- O’ Lord | Siamak Jahangiri (Qy72axh) · https://soundcloud.com/intimate-sentiments/o-lord-siamak-jahangiri
+- Reng-e Afshвri | Siamak Jahangiri (Qpv4knt) · https://soundcloud.com/intimate-sentiments/reng-e-afshvri-siamak-jahangiri

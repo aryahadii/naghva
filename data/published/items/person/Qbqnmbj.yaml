@@ -21,6 +21,10 @@ statements:
       locator: عنوان گفتگو
   image:
   - value: https://i1.sndcdn.com/avatars-000130077604-q6qzk5-t500x500.jpg
+    qualifiers:
+      credit:
+        text: Fared Shafinury on SoundCloud
+        language: en
     references:
     - source: soundcloud.com-fared-shafinury-tracks
       quote: https://i1.sndcdn.com/avatars-000130077604-q6qzk5-t500x500.jpg

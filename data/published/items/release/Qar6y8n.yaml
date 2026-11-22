@@ -30,6 +30,12 @@ statements:
       quote: Jahan - Single · ASADI · 2017-09-29
       accessed: 2026-11-21
       locator: Album artist and issue date
+  - value: https://soundcloud.com/asadimusic/jahan
+    references:
+    - source: soundcloud.com-asadimusic-jahan
+      quote: Jahan
+      accessed: 2026-11-22
+      locator: Verified artist SoundCloud upload and title
   release date:
   - value:
       date: '2017-09-29'

@@ -29,6 +29,10 @@ statements:
       locator: Introduction
   image:
   - value: https://i.scdn.co/image/ab6761610000e5ebc0851354236c8c510ffdd480
+    qualifiers:
+      credit:
+        text: Abjeez on Spotify
+        language: en
     references:
     - source: open.spotify.com-artist-28kq0k3qhthwwfevnkk5qd
       quote: https://i.scdn.co/image/ab6761610000e5ebc0851354236c8c510ffdd480

@@ -40,3 +40,7 @@ Artist interview, biography or performance credits, read 2026-11-21.
 > studies of Theatre Directing at "Tehran University"
 
 Artist interview, biography or performance credits, read 2026-11-21.
+
+> The second duo she has recently created with Nima Aghiani in 2020, is “Taraamoon”
+
+Same personnel in both separate projects, read 2026-11-21.

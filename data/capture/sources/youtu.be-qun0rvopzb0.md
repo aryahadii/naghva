@@ -21,3 +21,7 @@ Original video description, read 2026-11-21.
 > تهیه شده در هفدانگ - تابستان ۱۴۰۱
 
 Original video description, read 2026-11-21.
+
+> https://i.ytimg.com/vi/QUn0rvopzB0/hqdefault.jpg
+
+Thumbnail of the original performance video, read 2026-11-21.

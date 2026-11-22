@@ -30,6 +30,12 @@ statements:
       quote: GOT (Game of Thrones) - Single · ASADI · 2016-06-13
       accessed: 2026-11-21
       locator: Album artist and issue date
+  - value: https://soundcloud.com/asadimusic/got-game-of-thrones
+    references:
+    - source: soundcloud.com-asadimusic-got-game-of-thrones
+      quote: GOT (Game Of Thrones)
+      accessed: 2026-11-22
+      locator: Verified artist SoundCloud upload and title
   release date:
   - value:
       date: '2016-06-13'

@@ -5,3 +5,5 @@ The first local render available for inspection contained three panels and ten d
 [Klangteppich label recording](https://klangteppichberlin.bandcamp.com/track/live-performance-excerpt-two) · [Hatam on the audience and performance space](https://www.auditionrecords.com/critic.php)
 
 Both revised pages now present 18 individually credited recordings or works and 23 decoded images. I checked the two original Klangteppich excerpts, the expanded live work, her solo portrait, the release anchors and the localized layouts. Final **9.1/10** (sources 1.9, article 1.8, catalogue 2.6, imagery 0.9, reader experience 1.9). Article and catalogue ready.
+
+Portrait provenance rechecked on 22 November 2026. LABOUR’s original Spotify image shows both members. Hatam’s individual page now uses her separately captioned solo portrait by Natalia Evelyn Bencicova, published by Villa Aurora.

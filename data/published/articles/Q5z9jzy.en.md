@@ -80,18 +80,23 @@ references:
     quote: music by Mahsa Vahdat and Atabak Elyasi
     accessed: 2026-11-21
     locator: Stanford commission
+  persiangarden:
+    source: www.kkv.no-en-music-mahsa-og-marjan-vahdat-2
+    quote: Atabak Elyasi on setar
+    accessed: 2026-11-21
+    locator: KKV concert musicians
 ---
 
 Atabak Elyasi is an Iranian composer, arranger and setar player based in California. He has worked with the singers Mahsa and Marjan Vahdat as a performer and in the studio. His arrangements for their voices have brought him into projects with Norway’s SKRUK choir and the Kronos Quartet.[^atca][^atplace]
 
 ## With Mahsa and Marjan Vahdat
 
-Elyasi studied composition at Tehran’s University of Art and went on to teach there for twelve years. He headed its composition department.[^atstudy] He arranged and produced the sisters’ [I Am Eve](#i-am-eve-3dk). For [“Caravan”](#caravan-cwg), he wrote the music as well as the arrangement. When he joined the sisters in London in 2009, he played setar with ney player Pasha Hanjani in the first half of a concert that included Shushtari and Bayat-e Tork.[^ateve][^atcar][^atlond] Elyasi and Hanjani accompanied the sisters again at the Førde festival in Norway in 2014, in an ensemble recorded for Norwegian radio.[^atforde]
+Elyasi studied composition at Tehran’s University of Art and went on to teach there for twelve years. He headed its composition department.[^atstudy] On the sisters’ 2007 concert album *Songs from a Persian Garden*, he played setar.[^persiangarden] He arranged and produced their [I Am Eve](#i-am-eve-3dk). For [“Caravan”](#caravan-cwg), he wrote the music as well as the arrangement. When he joined the sisters in London in 2009, he played setar with ney player Pasha Hanjani in the first half of a concert that included Shushtari and Bayat-e Tork.[^ateve][^atcar][^atlond] Elyasi and Hanjani accompanied the sisters again at the Førde festival in Norway in 2014, in an ensemble recorded for Norwegian radio.[^atforde]
 
-On [Enlighten the Night](#enlighten-the-night-bfq), Elyasi arranged Mahsa’s melodies and shared production with Erik Hillestad. He worked with another set of textures on *Placeless*, where composers divided the arrangements for the Kronos Quartet. Elyasi arranged [“I Was Dead”](#i-was-dead-6dw).[^iw] He worked again with both sisters on *Heart’s Endless Garden*, a later record by the sisters.[^atenl][^atpro][^atplace][^atgarden]
-
-Mahsa and Elyasi co-composed “Vaya Vaya” for the Kronos Quartet. The quartet and Mahsa recorded it separately during the pandemic.[^atvaya][^atcvaya]
+For *Placeless* in 2019, Elyasi was one of four composers who arranged songs for the Kronos Quartet. He arranged [“I Was Dead”](#i-was-dead-6dw). The following year he arranged Mahsa’s melodies on [*Enlighten the Night*](#enlighten-the-night-bfq) and shared production with Erik Hillestad. Mahsa and Elyasi also co-composed “Vaya Vaya” for the Kronos Quartet. The quartet and Mahsa recorded it separately during the pandemic.[^atplace][^iw][^atenl][^atpro][^atvaya][^atcvaya]
 
 ## Teaching in California
 
 By 2020 Elyasi had taught the setar for at least three decades.[^actast] That year he took on the singer and guitarist Adrienne Shamszad as a setar apprentice. Shamszad had studied Persian singing with Mahsa Vahdat two years earlier. Elyasi’s lessons took her from coordinating both hands and learning the ornaments of the instrumental radif to playing measured and unmeasured pieces. The aim was for her to use those techniques in her own improvisations.[^setsight][^atclass]
+
+He later arranged the sisters’ *Heart’s Endless Garden*.[^atgarden]

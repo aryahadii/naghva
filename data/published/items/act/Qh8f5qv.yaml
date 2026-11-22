@@ -58,6 +58,10 @@ statements:
       locator: Artist credit on Station albums
   image:
   - value: https://f4.bcbits.com/img/0025259778_10.jpg
+    qualifiers:
+      credit:
+        text: Quartet Diminished on Bandcamp
+        language: en
     references:
     - source: quartetdiminished.bandcamp.com-music
       quote: Quartet Diminished image

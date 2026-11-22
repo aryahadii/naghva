@@ -290,3 +290,156 @@ Digital artist issues, named guest tracks and original artist recordings are ide
 The 11 original Rogue Prince soundtrack tracks are the first 11 of the Complete release. Each pair has identical published durations to the millisecond. Their official Spotify preview audio matched at zero lag on all 11 comparisons, with 20 ms RMS envelope correlation between 0.986 and 0.999. Each canonical track retains both editions’ URLs, with their old record addresses preserved as aliases. Ubisoft’s original and complete streams attach to their respective digital albums. Laced’s 24-track 2LP follows the Complete sequence and has its own label evidence. DSharp’s verified channel identifies its 3 Wishes upload as the 2020 studio single.
 
 ASADI’s and DSharp’s original video uploads of the 191-second studio version of 3 Wishes use the same artwork and link the original single. These share the studio panel. The Cabin Fever performance and the later fall 2020 freestyle both have separate panels.
+
+## SoundCloud
+
+All 135 public track URLs in the artist-owned SoundCloud index were checked against the native track metadata. Game score and ASADI WORLDWIDE cuts predominantly align with published Spotify/Apple timings within 47 ms. The uploaded original singles and later album issues retain their verified links. Duplicate artist uploads with the same title and programme are recorded as alternate links. The brief independent recordings with Naghib’s named percussion are separate from the later Rainbow Island EP.
+
+- Will of the Gods (Qnnqwvn) · https://soundcloud.com/asadimusic/will-of-the-gods
+- In Tigris' Arms (Qspygay) · https://soundcloud.com/asadimusic/in-tigris-arms
+- The Indomitable (Qm39taw) · https://soundcloud.com/asadimusic/the-indomitable
+- Golden Dusk (Qfbgcr6) · https://soundcloud.com/asadimusic/golden-dusk
+- The Prodigy (Qvdxn6n) · https://soundcloud.com/asadimusic/the-prodigy
+- Golden Veins (Qgjxgyf) · https://soundcloud.com/asadimusic/golden-veins
+- God Under the Rubble (Q2gwjfk) · https://soundcloud.com/asadimusic/god-under-the-rubble-1
+- The Epicurean (Qabwwjg) · https://soundcloud.com/asadimusic/the-epicurean
+- Corroding Baths (Qcj5zt5) · https://soundcloud.com/asadimusic/corroding-baths
+- A New King Rises (Qjvfv8v) · https://soundcloud.com/asadimusic/a-new-king-rises
+- The Great Persian War (Qpxze4h) · https://soundcloud.com/asadimusic/the-great-persian-war
+- Evocation (Qf8jhsy) · https://soundcloud.com/asadimusic/evocation
+- Revelation (Qbypkje) · https://soundcloud.com/asadimusic/revelation
+- At Last! (Qatntj6) · https://soundcloud.com/asadimusic/at-last-1
+- SARAF (Qhpzh8f) · https://soundcloud.com/asadimusic/saraf
+- VOYAGE S01 E01 - SEDONA VORTEX SET (Q6cp5nj) · https://soundcloud.com/asadimusic/voyage-s01-e01-sedona-vortex-set1
+- Last Wind (Qa3d3qf) · https://soundcloud.com/asadimusic/last-wind
+- Prince's Mistake (Q2b9egb) · https://soundcloud.com/asadimusic/princes-mistake
+- Ravine's Sovereignty (Qtyk8bn) · https://soundcloud.com/asadimusic/ravines-sovereignty
+- Verdant Sight (Qd2223g) · https://soundcloud.com/asadimusic/verdant-sight
+- The Unstoppable (Qppgk32) · https://soundcloud.com/asadimusic/the-unstoppable
+- Sacred Fire (Qr2t2c9) · https://soundcloud.com/asadimusic/sacred-fire
+- Ashes of Knowledge (Qqxx5tf) · https://soundcloud.com/asadimusic/ashes-of-knowledge
+- Hero's Rest (Qnfyswb) · https://soundcloud.com/asadimusic/heros-rest
+- Whispering Waters (Qdk689g) · https://soundcloud.com/asadimusic/whispering-waters
+- The Corrupted (Qx26s8g) · https://soundcloud.com/asadimusic/the-corrupted
+- The Rogue Prince of Persia (Qgrjn8k) · https://soundcloud.com/asadimusic/the-rogue-prince-of-persia
+- ASADI & Elley DuhÃ© - Never Coming Back Again (Q9jk5kf) · https://soundcloud.com/asadimusic/asadi-elley-duhe-never-coming-back-again
+- We Shall Prosper (Qpzhdae) · https://soundcloud.com/asadimusic/we-shall-prosper
+- Mithraic (Q4dwyx8) · https://soundcloud.com/asadimusic/tehran
+- ASADI & Xye - Came My Way (Qksbmwb) · https://soundcloud.com/asadimusic/asadi-xye-came-my-way
+- ASADI & Enwhy - Conquer (Qmpsjzm) · https://soundcloud.com/asadimusic/asadi-enwhy-conquer
+- ASADI & Shadi G - Akhey (Q9a5pt2) · https://soundcloud.com/asadimusic/asadi-shadi-golchin-decompress
+- Into The Realm of Darkness (Q8ggqkp) · https://soundcloud.com/asadimusic/into-the-realm-of-darkness
+- ASADI & Shadi G - Towards Me (Q36ycxg) · https://soundcloud.com/asadimusic/asadi-shadi-golchin-towards-me
+- ASADI & Rocky Angelini - My Light is Brilliant (Qw428r9) · https://soundcloud.com/asadimusic/asadi-rocky
+- ASADI & Xye - Don't Lose Yourself! (Qpdcnbj) · https://soundcloud.com/asadimusic/dont-lose-yourself
+- ASADI & Xye - Dance Potion (Q2e9sn5) · https://soundcloud.com/asadimusic/dance-potion
+- ASADI & Maglera Doe Boy - Bella (Qexdswe) · https://soundcloud.com/asadimusic/casablanca-master-1
+- ASADI & Xye - Bossa Nova Xye (Qk83xwz) · https://soundcloud.com/asadimusic/bossa-nova-xye-and-riot
+- Into The Realm of Light (Q8v3pwp) · https://soundcloud.com/asadimusic/into-the-realm-of-light
+- The Mountain's Daughter (Qt2tdzc) · https://soundcloud.com/asadimusic/the-mountains-daughter
+- Conquer (Qmpsjzm) · https://soundcloud.com/asadimusic/conquer
+- Towards Me (Q36ycxg) · https://soundcloud.com/asadimusic/towards-me
+- Don't Lose Yourself! (Qpdcnbj) · https://soundcloud.com/asadimusic/dont-lose-yourself-1
+- My Light is Brilliant (Qw428r9) · https://soundcloud.com/asadimusic/my-light-is-brilliant
+- Catalina (Qewvt7n) · https://soundcloud.com/asadimusic/catalina
+- Dance Potion (Q2e9sn5) · https://soundcloud.com/asadimusic/dance-potion-1
+- Came My Way (Qksbmwb) · https://soundcloud.com/asadimusic/came-my-way
+- Don't Leave So Soon (Qbe9wk7) · https://soundcloud.com/asadimusic/dont-leave-so-soon-1
+- Never Coming Back Again (Q9jk5kf) · https://soundcloud.com/asadimusic/never-coming-back-again
+- Akhey (Q9a5pt2) · https://soundcloud.com/asadimusic/akhey
+- Baraye (ASADI Remix) (Qc283sp) · https://soundcloud.com/asadimusic/baraye-asadi-remix
+- Bella (Qexdswe) · https://soundcloud.com/asadimusic/bella
+- Bossa Nova Xye (Qk83xwz) · https://soundcloud.com/asadimusic/bossa-nova-xye-1
+- Far Far Away (Qghhdjp) · https://soundcloud.com/asadimusic/far-far-away-1
+- Into the Realm of Light (Q8v3pwp) · https://soundcloud.com/asadimusic/into-the-realm-of-light-1
+- Mithraic (Q4dwyx8) · https://soundcloud.com/asadimusic/mithraic
+- We Shall Prosper (Qpzhdae) · https://soundcloud.com/asadimusic/we-shall-prosper-1
+- Into the Realm of Darkness (Q8ggqkp) · https://soundcloud.com/asadimusic/into-the-realm-of-darkness-1
+- Baraye (ASADI Remix) (Qnahgn9) · https://soundcloud.com/asadimusic/baraye-asadi-remix-mp3
+- ASADI & Afta Hill - Citrus Dream (Qbptkv5) · https://soundcloud.com/asadimusic/citrusdreamftaftahill
+- ASADI & EMÃL - Catalina (Qewvt7n) · https://soundcloud.com/asadimusic/asadi-emael-catalina
+- ASADI & Xye - Don't Leave So Soon (Qwccxrs) · https://soundcloud.com/asadimusic/dont-leave-so-soon-ft-xye
+- ASADI & Xye - The Mountain's Daughter (Qt2tdzc) · https://soundcloud.com/asadimusic/themountainsdaughter
+- Far Far Away (Qghhdjp) · https://soundcloud.com/asadimusic/far-far-away
+- ASADI & ERFAN - EY DEL (Qz9x86y) · https://soundcloud.com/asadimusic/asadi-erfan-ey-del
+- ASADI, ERFAN, GDAAL, IMANEMUN, & TAHAM - 2SARAM (Qz62sqj) · https://soundcloud.com/asadimusic/asadi-erfan-gdaal-imanemun-taham-2saram
+- ASADI & ERFAN - SHAHRIVARE BAD (Qnqcmjy) · https://soundcloud.com/asadimusic/asadi-erfan-shahrivare-bad
+- ASADI, ERFAN, & DSHARP - DASTA (Qj7qnms) · https://soundcloud.com/asadimusic/asadi-erfan-dsharp-dasta
+- ASADI & ERFAN - BAZR (Q5snhm4) · https://soundcloud.com/asadimusic/asadi-erfan-bazr
+- ASADI, ERFAN, & XYE - HIDE & SEEK (Q7yxhn3) · https://soundcloud.com/asadimusic/asadi-erfan-xye-hide-seek
+- ASADI, ERFAN, & EBI - MASTEH CHESHAAT (REMIX) (Qyvxjhy) · https://soundcloud.com/asadimusic/asadi-erfan-ebi-masteh-cheshaat-remix
+- ASADI & ERFAN - MOB (Qrfc8vq) · https://soundcloud.com/asadimusic/asadi-erfan-mob-1
+- ASADI & Paramind - Modern Love (Q2bgadt) · https://soundcloud.com/asadimusic/asadi-paramind-modern-love
+- ASADI & Afta Hill - Diaspora Girl (Qqzw3aq) · https://soundcloud.com/asadimusic/asadi-afta-hill-diaspora-girl
+- ASADI & Olson - Frog (Q5emjp6) · https://soundcloud.com/asadimusic/asadi-olson-frog
+- SOLID (ASADI REMIX) (Q3bas9d) · https://soundcloud.com/asadimusic/solid-asadi-remix
+- Billie Eilish - Your Power (ASADI Remix) (Qt26vgk) · https://soundcloud.com/asadimusic/your-power-asadi-remix
+- ASADI, Erfan, & Faramarz Aslani - Age Ye Rooz (Remix) (Qm3wk5m) · https://soundcloud.com/asadimusic/asadi-erfan-faramarz-aslani-age-ye-rooz-remix
+- The Immortal Asadi - Armin's Theme (ft. El Armin) (Qtppgdp) · https://soundcloud.com/asadimusic/the-immortal-asadi-armins
+- Separate (Talagh) (Qnhqrpr) · https://soundcloud.com/asadimusic/separate-talagh
+- Transcendence (Qwhgm7j) · https://soundcloud.com/asadimusic/transcendence
+- 1400 (Shabe Eshgh) (Qttkd6v) · https://soundcloud.com/asadimusic/1400-shabe-eshgh
+- Shall We Begin (Qkmmzzh) · https://soundcloud.com/asadimusic/shall-we-begin
+- Invidia (Q23xmsc) · https://soundcloud.com/asadimusic/invidia
+- Let's Go (Q63asqv) · https://soundcloud.com/asadimusic/lets-go
+- ASADI & Brockett Parsons - Forever Chasing The Sun (Qw9eb7a) · https://soundcloud.com/asadimusic/fcts
+- ASADI & Adam Deitch - Divinity (Qwtgy47) · https://soundcloud.com/asadimusic/asadi-adam-deitch-divinity
+- LINWOOD (Qan3wpm) · https://soundcloud.com/asadimusic/linwood-1
+- ASADI & Naghib Shanbehzadeh - RAINBOW ISLAND (Qbprey4) · https://soundcloud.com/asadimusic/rainbow-island
+- ASADI & Naghib Shanbehzadeh - KAMTINA ENERGY (Q2asg2z) · https://soundcloud.com/asadimusic/kamtina-energy
+- ASADI & Naghib Shanbehzadeh - PHOENIX ENERGY (Qg9qgnv) · https://soundcloud.com/asadimusic/phoenix-energy
+- ASADI & Naghib Shanbehzadeh - SANGSARIA (Qwkz785) · https://soundcloud.com/asadimusic/sangsaria1
+- ASADI & Nine Six Honcho - GANGSTAR (Q276rpz) · https://soundcloud.com/asadimusic/nine-six-honcho-gangstar
+- The Immortal Asadi (Qjam5j6) · https://soundcloud.com/asadimusic/the-immortal-asadi
+- Pari (Qnadz7c) · https://soundcloud.com/asadimusic/pari
+- ASADI & Brockett Parsons - Strike (Qrp7pjq) · https://soundcloud.com/asadimusic/asadi-brockett-parsons-strike
+- GOL (Qygdpma) · https://soundcloud.com/asadimusic/gol
+- ASADI & DSharp - 3 Wishes (Q35rx8j) · https://soundcloud.com/asadimusic/3wishes
+- Alleviate (Qp7bg9x) · https://soundcloud.com/asadimusic/alleviate
+- Peritas (Qtwr93w) · https://soundcloud.com/asadimusic/peritas
+- Kaviani (Qy3292q) · https://soundcloud.com/asadimusic/kaviani-1
+- 21 YEARS (Qbz3z3t) · https://soundcloud.com/asadimusic/21-years-1
+- CROWN (Q5cd8g3) · https://soundcloud.com/asadimusic/crown-1
+- FIGHT! (Qcqg54m) · https://soundcloud.com/asadimusic/fight-1
+- KINGDOM OF THE LORS (Qgkdffb) · https://soundcloud.com/asadimusic/kingdom-of-the-lors-1
+- PARADISE PEOPLE (Qbxh6bf) · https://soundcloud.com/asadimusic/paradise-people-1
+- PALACE (Qb9zgsw) · https://soundcloud.com/asadimusic/palace-1
+- Mirror (Q8vhf6v) · https://soundcloud.com/asadimusic/mirror
+- GOLDIE (Qsg2hyn) · https://soundcloud.com/asadimusic/goldie-1
+- STARGAZING REMIX (Q54w8hb) · https://soundcloud.com/asadimusic/stargazing-remix
+- MIKRO (Qqsshyj) · https://soundcloud.com/asadimusic/asadimikro
+- ASADI & Taham - Esfand (Qrkrd7k) · https://soundcloud.com/asadimusic/asadi-taham-esfand
+- AZIZI (ft. Naghib on Percussion) (Qtyek2s) · https://soundcloud.com/asadimusic/azizi-ft-naghib-on-percussion
+- White Rose (Qtg8bkt) · https://soundcloud.com/asadimusic/white-rose-1
+- Persepolis (ft. Naghib on Percussion) (Q6hgam4) · https://soundcloud.com/asadimusic/persepolis-ft-naghib-on-percussion
+- Violin Song (Qc26z4c) · https://soundcloud.com/asadimusic/violin-song
+- Jahan (Qar6y8n) · https://soundcloud.com/asadimusic/jahan
+- XO MIGO LIF3 (Qq44aqh) · https://soundcloud.com/asadimusic/xo-migo-lif3
+- Roya (Qbe7jk5) · https://soundcloud.com/asadimusic/roya
+- I'm Coming Home (Q4anqd9) · https://soundcloud.com/asadimusic/im-coming-home
+- Resistance (Qqe3nvb) · https://soundcloud.com/asadimusic/resistance
+- Nazeri (Qzskh4r) · https://soundcloud.com/asadimusic/nazeri
+- The Law of Attraction (Qz395c7) · https://soundcloud.com/asadimusic/the-law-of-attraction
+- GOT (Game Of Thrones) (Q5nx3y5) · https://soundcloud.com/asadimusic/got-game-of-thrones
+- TIME (Qnjzcmk) · https://soundcloud.com/asadimusic/time
+- MAFIA (Qn9yes7) · https://soundcloud.com/asadimusic/mafia-1
+- Heart Song (Qh6zx7m) · https://soundcloud.com/asadimusic/heart-song
+- Persian Queen (Qb46r3r) · https://soundcloud.com/asadimusic/persian-queen
+- Immortals (Qv86vss) · https://soundcloud.com/asadimusic/immortals
+- Love is when you see time. (Qxqqwv4) · https://soundcloud.com/asadimusic/love-is-when-you-see-time
+- Temptations (Qqz9t5e) · https://soundcloud.com/asadimusic/temptations
+- PTM (Q6z5ahh) · https://soundcloud.com/asadimusic/ptm
+- Sattar (ft. Viraj Anand) (Q3ecnws) · https://soundcloud.com/asadimusic/sattar
+- The Rogue Prince of Persia (The Complete Soundtrack) (Qek9yyx) · https://soundcloud.com/asadimusic/sets/the-rogue-prince-of-persia-the
+- The Rogue Prince of Persia (Original Game Soundtrack) (Qxybhjd) · https://soundcloud.com/asadimusic/sets/the-rogue-prince-of-persia
+- ASADI WORLDWIDE (Qjjtkp5) · https://soundcloud.com/asadimusic/sets/asadi-worldwide
+- ASADI WORLDWIDE (Qjjtkp5) · https://soundcloud.com/asadimusic/sets/asadiworldwide
+- ASADI & ERFAN - NUR (Qjtzwh5) · https://soundcloud.com/asadimusic/sets/asadi-erfan-nur
+- ASADI & Naghib Shanbehzadeh - RAINBOW ISLAND (Qw4a5pa) · https://soundcloud.com/asadimusic/sets/rainbowisland
+- 21 YEARS (Qb8ycfn) · https://soundcloud.com/asadimusic/sets/21-years
+- ASADI - Throne (Qq4v8z4) · https://soundcloud.com/trapmusic/asadi-throne
+- Villager (Qfc98en) · https://soundcloud.com/hucci/villager
+- ASADI - Caspian (Qe52t7g) · https://soundcloud.com/officialtrapparty/asadi-caspian
+- XYE, ASADI, & DAVE YADEN - LOVE YOUR CREATOR (Qs7hwpy) · https://soundcloud.com/itsxye/loveyourcreator
+
+The artist’s thirteen public SoundCloud sets include seven native albums corresponding to published digital packages. Four other sets explicitly point to collaborator and artist-endorsed label releases. ASADI ESSENTIALS recirculates previously indexed works, and the public Empress set contains no playable entries.

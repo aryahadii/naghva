@@ -38,12 +38,16 @@ statements:
       accessed: 2026-11-22
       locator: Official YouTube artist video channel
   image:
-  - value: https://i.ytimg.com/vi/pa4deSoyvsM/hqdefault.jpg
+  - value: https://i.ytimg.com/vi/QUn0rvopzB0/hqdefault.jpg
+    qualifiers:
+      credit:
+        text: Hafdang Records
+        language: en
     references:
-    - source: www.youtube.com-oembed-pa4desoyvsm
-      quote: https://i.ytimg.com/vi/pa4deSoyvsM/hqdefault.jpg
-      locator: Original programme, liner notes or performer credit
-      accessed: '2026-11-21'
+    - source: youtu.be-qun0rvopzb0
+      quote: https://i.ytimg.com/vi/QUn0rvopzB0/hqdefault.jpg
+      accessed: 2026-11-22
+      locator: Thumbnail of the original performance video
   member of:
   - value: Qvnj2sh
     references:

@@ -30,6 +30,18 @@ statements:
       quote: ASADI WORLDWIDE · ASADI
       accessed: 2026-11-21
       locator: Native digital record
+  - value: https://soundcloud.com/asadimusic/sets/asadi-worldwide
+    references:
+    - source: soundcloud.com-asadimusic-sets-asadi-worldwide
+      quote: ASADI WORLDWIDE
+      accessed: 2026-11-22
+      locator: Native SoundCloud album on artist profile
+  - value: https://soundcloud.com/asadimusic/sets/asadiworldwide
+    references:
+    - source: soundcloud.com-asadimusic-sets-asadiworldwide
+      quote: ASADI WORLDWIDE
+      accessed: 2026-11-22
+      locator: Native SoundCloud album on artist profile
   release date:
   - value:
       date: '2023-01-13'

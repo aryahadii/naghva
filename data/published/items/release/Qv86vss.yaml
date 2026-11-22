@@ -30,6 +30,12 @@ statements:
       quote: Immortals - Single · ASADI · 2016-03-15
       accessed: 2026-11-21
       locator: Album artist and issue date
+  - value: https://soundcloud.com/asadimusic/immortals
+    references:
+    - source: soundcloud.com-asadimusic-immortals
+      quote: Immortals
+      accessed: 2026-11-22
+      locator: Verified artist SoundCloud upload and title
   release date:
   - value:
       date: '2016-03-15'

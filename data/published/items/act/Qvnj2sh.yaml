@@ -39,6 +39,10 @@ statements:
       accessed: '2026-11-21'
   image:
   - value: https://i.ytimg.com/vi/rEje8g8uOBg/hqdefault.jpg
+    qualifiers:
+      credit:
+        text: Ān Ensemble’s YouTube channel
+        language: en
     references:
     - source: www.youtube.com-oembed-reje8g8uobg
       quote: https://i.ytimg.com/vi/rEje8g8uOBg/hqdefault.jpg

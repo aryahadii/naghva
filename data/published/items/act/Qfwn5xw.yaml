@@ -12,6 +12,10 @@ statements:
       locator: Production credits
   image:
   - value: https://f4.bcbits.com/img/0004896054_10.jpg
+    qualifiers:
+      credit:
+        text: The Mast on Bandcamp
+        language: en
     references:
     - source: themast.bandcamp.com-album-wild-poppies
       quote: https://f4.bcbits.com/img/0004896054_10.jpg

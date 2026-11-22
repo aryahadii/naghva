@@ -20,6 +20,10 @@ statements:
       locator: SASA, formation and personnel
   image:
   - value: https://i.ytimg.com/vi/9WRQs3_ApEo/hqdefault.jpg
+    qualifiers:
+      credit:
+        text: Selam Sessions
+        language: en
     references:
     - source: youtu.be-9wrqs3_apeo
       quote: Safoura Safavi singing in front of the group during the Selam performance.

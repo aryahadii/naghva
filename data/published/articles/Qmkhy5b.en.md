@@ -100,6 +100,11 @@ references:
     quote: Concert in Delhi
     accessed: 2026-11-22
     locator: So Faraway recording.
+  bnf12:
+    source: catalogue.bnf.fr-ark-12148-cb47444822f
+    quote: Siâvash Imâni, târ, chant ; Sinâ Khoshkbijâri, tombak
+    accessed: 2026-11-21
+    locator: BnF’s 2018 Mahoor CD credits
 ---
 
 Siavash Imani is an Iranian tar player, composer and teacher, born in Tehran in 1979. He has recorded solo tar, starting with music drawn from Abdollah Davami’s radif, and writes for [Sepidar Ensemble](/en/sepidar-ensemble-m6w/), which he founded to play Persian classical music.[^iborn][^iv1][^ifound]
@@ -112,7 +117,7 @@ From 2005 to 2008 he worked with Tahmasbi on a Farhang Radio series introducing 
 
 ## Davami’s radif
 
-In 2015 Mahoor issued the first volume of [*The Spring Bare Stalk*](#the-spring-bare-stalk-vol-1-snc). Imani takes Davami’s versions of melodies in Chahargah, Afshari, Bayat-e Tork and Kord Bayat as a starting point for his own playing. Mahoor released a second volume with Sina Khoshk Bijari on tombak in 2018 and a third in 2023. For [*Irā*](#ira-fyf), Imani played alone, following two modes in two extended pieces, Bayat-e Esfahan and Shour.[^iv1][^ivan][^iv2][^iv3][^ira][^irarad]
+In 2015 Mahoor issued the first volume of [*The Spring Bare Stalk*](#the-spring-bare-stalk-vol-1-snc). Imani takes Davami’s versions of melodies in Chahargah, Afshari, Bayat-e Tork and Kord Bayat as a starting point for his own playing. Imani sang as well as played the tar on the second volume, with Sina Khoshk Bijari on tombak. Mahoor released it in 2018 and issued a third volume in 2023.[^bnf12] For [*Irā*](#ira-fyf), Imani played alone, following two modes in two extended pieces, Bayat-e Esfahan and Shour.[^iv1][^ivan][^iv2][^iv3][^ira][^irarad]
 
 ## Sepidar
 

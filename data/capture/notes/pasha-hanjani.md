@@ -98,3 +98,7 @@ The comparison includes Hanjani’s separately credited Iranian physical release
 - گریبان (Qqcpexs)
 - خواب خورشید (Q6rd5qm)
 - مولای عشق (Qzz2yqz)
+
+- When the Curl of your Tress Appears (Qh4mfwd)
+
+- Navai (Qy5p4ps)

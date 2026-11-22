@@ -101,3 +101,7 @@ Digital artist issues, named guest tracks and original artist recordings are ide
 - Pigs Kissing Pigs (Qvpnes7)
 
 The October 2013 Scion 10-inch is catalogued from its physical credits and contemporary release announcement. Its original hosted streams and music video were unavailable when checked. The artist’s full *The Need* retrospective upload shares at least two confirmed masters with the 2001 physical issue. Exact archival video boundaries and the original sequence beyond identified tracks remain unverified.
+
+- The Need (2001 album recording) (Q7jfefp). [Artist upload with chapter](https://www.youtube.com/watch?v=3S-MduL7YuI&t=1500s).
+
+- Tomorrow (2001 album recording) (Q9m5j7s). [Artist upload with chapter](https://www.youtube.com/watch?v=3S-MduL7YuI&t=1640s).

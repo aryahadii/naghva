@@ -30,6 +30,12 @@ statements:
       quote: Sattar (feat. Viraj Anand) - Single · ASADI · 2014-03-25
       accessed: 2026-11-21
       locator: Album artist and issue date
+  - value: https://soundcloud.com/asadimusic/sattar
+    references:
+    - source: soundcloud.com-asadimusic-sattar
+      quote: Sattar (ft. Viraj Anand)
+      accessed: 2026-11-22
+      locator: Verified artist SoundCloud upload and title
   release date:
   - value:
       date: '2014-03-25'

@@ -1,6 +1,6 @@
 # Siavash Imani
 
-Apple Music and the official Spotify artist entry expose Tash, So Faraway, Irā, Shahrood, Saz-e Man Zolf-e Yar and the credited Singing in Shadow cut. Apple also supplies all 32 cuts of The Spring Bare Stalk’s first volume. Labyrinth identifies the 2006 independent Shahrood edition and the 2009 Naghme Negâr issue of Bigjekhani repertory, plus the Mahoor recordings of Spring Bare Stalk volumes two and three. Full edition track lists for these physical-only records were unverified. Labyrinth gives the original Iranian Irā issue as 2020, and Apple gives January 2021 for the digital album. The track title and backing in the two Hafdang Nawa recordings are distinct performances. The Labyrinth photograph shows Imani at his instrument. The Farhang Radio series remains a career credit. It was publicly broadcast and sits outside the independent album count. The prospective Kalougan album was still billed as forthcoming. Dedicated Bandcamp and Telegram catalogues remain unverified.
+Apple Music and the official Spotify artist entry expose Tash, So Faraway, Irā, Shahrood, Saz-e Man Zolf-e Yar and the credited Singing in Shadow cut. Apple also supplies all 32 cuts of The Spring Bare Stalk’s first volume. Labyrinth identifies the 2006 independent Shahrood edition and the 2009 Naghme Negâr issue of Bigjekhani repertory, plus the Mahoor recordings of Spring Bare Stalk volumes two and three. The [BnF’s 2018 deposit](https://catalogue.bnf.fr/ark:/12148/cb47444822f) and [2023 deposit](https://catalogue.bnf.fr/ark:/12148/cb485137129) identify the physical CD’s three and six modal groups, now indexed individually. No stream was found for these two volumes. The BnF also credits voice and tar for the first volume; the original CD’s eight modal sections are separately spaced into 32 digital cuts. Labyrinth gives the original Iranian Irā issue as 2020, and Apple gives January 2021 for the digital album. The track title and backing in the two Hafdang Nawa recordings are distinct performances. The Labyrinth photograph shows Imani at his instrument. The Farhang Radio series remains a career credit. It was publicly broadcast and sits outside the independent album count. The prospective Kalougan album was still billed as forthcoming. Dedicated Bandcamp and Telegram catalogues remain unverified.
 
 ## Recordings
 
@@ -97,3 +97,19 @@ The original SoundCloud profile contains eight works, including an alternate 201
 - شامگاه (Qnnn4tx)
 - که گویی از خاطرم هیچ نمی گذرد (Qb64par)
 - Saz va avaz in Homayoon (Female Voice of Iran Festival) (Qcc9qn9)
+
+Physical recordings identified from Mahoor’s deposited CD editions.
+
+- Dastgâh-e homâyun (The Spring Bare Stalk, Vol. 2) (Qhp7cx3)
+- Dastgâh-e mâhur (The Spring Bare Stalk, Vol. 2) (Q3avy92)
+- Âvâz-e abu'atâ (The Spring Bare Stalk, Vol. 2) (Q4b7ska)
+- Âvâz-e Dashti (The Spring Bare Stalk, Vol. 3) (Qsv6fgg)
+- Dastgâh-e Navâ (The Spring Bare Stalk, Vol. 3) (Qvygfq4)
+- Âvâz-e Bayât-e Esfahân (The Spring Bare Stalk, Vol. 3) (Q6e9vbc)
+- Dastgâh-e Râst Panjgâh (The Spring Bare Stalk, Vol. 3) (Q5rbk26)
+- Dastgâh-e Segâh (The Spring Bare Stalk, Vol. 3) (Q7zr7gv)
+- Dastgâh-e Shur (The Spring Bare Stalk, Vol. 3) (Qn5hke3)
+
+Kherad Art House’s original Intimate Sentiments SoundCloud channel also issues these recordings. Track titles and source edition metadata match the existing panels.
+
+- Bayāt-e Esfahan | Siavash Imani - بیات اصفهان | سیاوش ایمانی (Qqpcxtn) · https://soundcloud.com/intimate-sentiments/bayat-e-esfahan-siavash-imani

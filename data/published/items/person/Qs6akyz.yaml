@@ -51,6 +51,10 @@ statements:
       role: oud
   image:
   - value: https://rokhquartet.art/wp-content/uploads/2025/01/Sit-Ava.png
+    qualifiers:
+      credit:
+        text: Rokh Quartet’s website
+        language: en
     references:
     - source: rokhquartet.art
       quote: https://rokhquartet.art/wp-content/uploads/2025/01/Sit-Ava.png

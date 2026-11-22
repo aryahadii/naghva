@@ -42,6 +42,10 @@ statements:
       locator: Named in original Transart roster
   image:
   - value: https://rokhquartet.art/wp-content/uploads/2025/02/Site-Sina.jpg
+    qualifiers:
+      credit:
+        text: Rokh Quartet’s website
+        language: en
     references:
     - source: rokhquartet.art
       quote: https://rokhquartet.art/wp-content/uploads/2025/02/Site-Sina.jpg

@@ -92,3 +92,12 @@ Ebadi’s named YouTube account publishes six additional performances, from solo
 - دستگاه شور (Qg5nnjp)
 - مثنوی ابوعطا (Qbn8db9)
 - آواز دشتی (Qwftzt4)
+
+Kherad Art House’s original Intimate Sentiments SoundCloud channel also issues these recordings. Track titles and source edition metadata match the existing panels.
+
+- Chahārmezrāb-e Shour | Houshmand Ebadi - چهارمضراب شور | ‌هوشمند عبادی (Q7q6y2t) · https://soundcloud.com/intimate-sentiments/chaharmezrab-e-shour-houshmand-ebadi
+- Moqademeh Shour | Houshmand Ebadi (Q4m2654) · https://soundcloud.com/intimate-sentiments/moqademeh-shour-houshmand-ebadi
+- Āvāz-E Shour | Houshmand Ebadi (Qxjypn5) · https://soundcloud.com/intimate-sentiments/avaz-e-shour-houshmand-ebadi
+- Āvāz-E Bayāt-E Tork | Houshmand Ebadi (Q77bkd9) · https://soundcloud.com/intimate-sentiments/04-houshmand-ebadi-avaz-bayat-tork
+- Zarbi-Ye Shekasteh | Houshmand Ebadi (Qra2b95) · https://soundcloud.com/intimate-sentiments/zarbi-ye-shekasteh-houshmand-ebadi
+- Masnavi | Houshmand Ebadi (Q9pd3tz) · https://soundcloud.com/intimate-sentiments/masnavi-houshmand-ebadi

@@ -20,20 +20,16 @@ statements:
     qualifiers:
       role: composer
   image:
-  - value: https://i.scdn.co/image/ab6761610000e5ebfff8d09c7ddcc51ead7321b4
-    references:
-    - source: studio-labour.com-about
-      quote: LABOUR (Farahnaz Hatam & Colin Hacklander)
-      locator: Captioned duo
-      accessed: '2026-11-21'
-    - source: open.spotify.com-artist-7jkgenpllnwqbwv1pkqa8v
-      quote: https://i.scdn.co/image/ab6761610000e5ebfff8d09c7ddcc51ead7321b4
-      locator: Group portrait on duo profile
-      accessed: '2026-11-21'
+  - value: https://www.vatmh.org/assets/images/c/Farahnaz%20Hatam%20%C2%A9%20Natalia%20Evelyn%20Bencicova-sgyztbh1jzadg7f.jpg
     qualifiers:
       credit:
-        text: Farahnaz Hatam and Colin Hacklander · LABOUR
+        text: Natalia Evelyn Bencicova / Villa Aurora
         language: en
+    references:
+    - source: www.vatmh.org-en-stipendiaten-details-farahnaz-hatam.html
+      quote: Farahnaz Hatam © Natalia Evelyn Bencicova
+      accessed: 2026-11-21
+      locator: Villa Aurora’s original solo residency portrait, image caption
   profile link:
   - value: https://hatam.bandcamp.com/music
     references:

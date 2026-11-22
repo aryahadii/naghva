@@ -13,3 +13,7 @@ KKV recalls its first recording with the two sisters, read 2026-11-21.
 > 13.08.2007
 
 Original label’s release date, read 2026-11-21.
+
+> Atabak Elyasi on setar
+
+KKV concert musicians, read 2026-11-21.

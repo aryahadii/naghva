@@ -30,6 +30,12 @@ statements:
       quote: Villager - Single · Hucci, ASADI · 2019-03-15
       accessed: 2026-11-21
       locator: Album artist and issue date
+  - value: https://soundcloud.com/hucci/villager
+    references:
+    - source: soundcloud.com-hucci-villager
+      quote: Villager
+      accessed: 2026-11-22
+      locator: Authorized track in the artist’s own one-track set
   release date:
   - value:
       date: '2019-03-15'

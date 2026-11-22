@@ -47,6 +47,10 @@ statements:
       locator: Artist biography
   image:
   - value: https://f4.bcbits.com/img/0040422977_10.jpg
+    qualifiers:
+      credit:
+        text: Ahoora on Bandcamp
+        language: en
     references:
     - source: ahoora.bandcamp.com-music
       quote: Ahoora image
