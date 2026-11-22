@@ -53,8 +53,21 @@ for (const [lang, origin] of [['en', site], ['fa', 'https://naqva.com']] as cons
   });
 }
 
+test('a first visit stays on the language chooser, whose links keep referral origin and UTM values', async ({ page }) => {
+  const { events } = await observe(page);
+  await page.goto(`${site}/?utm_source=telegram&utm_medium=social&token=private-root`, { referer: 'https://t.me/private-chat' });
+  await expect(page.locator('.languages a[hreflang="fa"]')).toHaveAttribute('href', /utm_source=telegram/);
+  await expect(page).toHaveURL(`${site}/?utm_source=telegram&utm_medium=social&token=private-root`);
+  await page.locator('.languages a[hreflang="fa"]').click();
+  await expect(page).toHaveURL(new RegExp(`^${site}/fa/\\?utm_source=telegram&utm_medium=social&`));
+  await expect.poll(() => events.length).toBe(1);
+  expect(events[0].properties).toMatchObject({ $referring_domain: 't.me', utm_source: 'telegram', language: 'fa' });
+  expect(JSON.stringify(events)).not.toContain('private');
+});
+
 test('the root redirect preserves referral origin and UTM values; results-page queries stay private', async ({ page }) => {
   const { events } = await observe(page);
+  await page.addInitScript(() => localStorage.setItem('naghva-lang', 'en'));
   await page.goto(`${site}/?utm_source=telegram&utm_medium=social&token=private-root`, { referer: 'https://t.me/private-chat' });
   await expect(page).toHaveURL(`${site}/en/?utm_source=telegram&utm_medium=social`);
   await expect.poll(() => events.length).toBe(1);

@@ -8,7 +8,7 @@ import GoogleSiteVerification from '../components/GoogleSiteVerification.astro';
 import { siteJsonLd } from '../lib/jsonld';
 import imprint from '../../../assets/brand/logos/imprint/naghva-imprint-on-dark-solid.png';
 
-/** `/` opens the language the visitor used last, otherwise their browser's; without scripts it links both. */
+/** `/` opens the language the visitor used last; otherwise it links both. */
 const en = strings('en');
 const fa = strings('fa');
 const at = (path: string) => new URL(path, Astro.site).href;
