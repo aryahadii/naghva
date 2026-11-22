@@ -9,6 +9,10 @@ import { scriptOf, type SkyStar } from '../lib/sky-data';
  */
 
 type Lang = 'en' | 'fa';
+/** What a star is, in the words the search uses. */
+export const kindOf = (star: SkyStar, words: SearchWords) =>
+  star.kind === 'recording' ? words.kinds.release : star.page || star.group ? words.kinds.artist : words.kinds.person;
+
 export interface SearchWords {
   label: string;
   placeholder: string;
@@ -72,8 +76,7 @@ export default function StarSearch({ stars, lang, words, query, onQuery, onChoos
     input.current?.blur();
     onChoose(at);
   };
-  const kind = (star: SkyStar) =>
-    star.kind === 'recording' ? words.kinds.release : star.page || star.group ? words.kinds.artist : words.kinds.person;
+  const kind = (star: SkyStar) => kindOf(star, words);
 
   return (
     <form

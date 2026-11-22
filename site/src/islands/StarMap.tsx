@@ -12,7 +12,7 @@ import { makeSky, type SkyView } from '../lib/sky-canvas';
 import { readSky, type SkyStar } from '../lib/sky-data';
 import type { Sky } from '../lib/star-map';
 import StarCard, { type CardWords } from './StarCard';
-import StarSearch, { type SearchWords } from './StarSearch';
+import StarSearch, { kindOf, type SearchWords } from './StarSearch';
 
 /**
  * The star map on the homepage. In the page it is a preview that plays by
@@ -45,8 +45,6 @@ const ART = {
   moon: moon.src,
   clouds: [cloud1, cloud2, cloud3, cloud4, cloud5].map((cloud) => cloud.src),
 };
-const kindOf = (star: SkyStar, words: SearchWords) =>
-  star.kind === 'recording' ? words.kinds.release : star.page || star.group ? words.kinds.artist : words.kinds.person;
 const stillness = () => matchMedia('(prefers-reduced-motion: reduce)').matches;
 
 export default function StarMap({ lang, words }: Props) {
@@ -348,7 +346,7 @@ export default function StarMap({ lang, words }: Props) {
         </div>
         <p id="sky-keys" class="visually-hidden">{words.keyboardHelp}</p>
         {/* The card hides while the sky flies to a star, so the choice is told here. */}
-        <p class="visually-hidden" aria-live="polite">{star ? `${star.name}, ${kindOf(star, words.search)}` : ''}</p>
+        <p class="visually-hidden" aria-live="polite">{star ? `${star.name}${lang === 'fa' ? '، ' : ', '}${kindOf(star, words.search)}` : ''}</p>
       </dialog>
     </div>
   );

@@ -69,7 +69,7 @@ const overlap = (a: Box, b: Box, gap: number) =>
 const TWINKLE = [3.7, 5.3, 7.1, 8.9];
 /** The light is soft, so its layers hold a quarter of the pixels the stars do. */
 const SOFT = .5;
-/** Device pixels the sky may hold, so a big screen or a phone's tight canvas memory is not overrun. */
+/** Device pixels the visible canvas may hold (the overscanned field takes up to half as much again), so big screens don't overrun canvas memory. */
 const STAR_PIXELS = 8e6;
 const LIGHT_PIXELS = 1e6;
 /** Resizing a canvas clears it and reallocates its memory, so it happens only when the size changes. */
