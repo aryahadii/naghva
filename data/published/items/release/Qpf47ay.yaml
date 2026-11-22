@@ -1,0 +1,17 @@
+id: Qpf47ay
+type: release
+statements:
+  name:
+  - value:
+      text: دشت مه‌زده
+      language: fa
+    references:
+    - &id001
+      source: siamak-jahangiri-badraghe
+      quote: دشت مه‌زده
+      accessed: '2026-11-21'
+      locator: Iranian physical issue tracklist
+  performer:
+  - value: Qnz4xnz
+    references:
+    - *id001

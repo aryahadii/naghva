@@ -2,7 +2,7 @@
 url: https://t.me/s/jwangroup?q=ساناز
 title: مرکز موسیقی ژوان – Telegram
 status: processed
-language: en
+language: fa
 tier: own
 about:
 - Hossein Rad

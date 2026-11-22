@@ -17,3 +17,7 @@ Early sound, read 2026-11-21.
 > experimenting with seven strings
 
 Changes to guitar writing, read 2026-11-21.
+
+> Nikan and Arash, two original members of Confess
+
+The band’s chronology, read 2026-11-21.

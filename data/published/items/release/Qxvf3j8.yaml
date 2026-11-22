@@ -7,42 +7,36 @@ statements:
       language: en
     references:
     - source: music.apple.com-us-album-kahgel-1154431065-8258b34fb3ba
-      quote: |-
-        Listen to Kahgel by Hamzeh Yeganeh, Kaveh Sarvarian & Mahan Mirarab on Apple Music. 2016. 9 Songs. Duration: 48 minutes.
+      quote: 'Listen to Kahgel by Hamzeh Yeganeh, Kaveh Sarvarian & Mahan Mirarab on Apple Music. 2016. 9 Songs. Duration: 48 minutes.'
       accessed: '2026-10-19'
   release date:
   - value:
       date: '2016-08-12'
     references:
     - source: music.apple.com-us-album-kahgel-1154431065-8258b34fb3ba
-      quote: |-
-        "datePublished":"2016-08-12"
+      quote: '"datePublished":"2016-08-12"'
       accessed: '2026-10-19'
   performer:
   - value: Q373b9b
     references:
     - source: music.apple.com-us-album-kahgel-1154431065-8258b34fb3ba
-      quote: |-
-        Listen to Kahgel by Hamzeh Yeganeh, Kaveh Sarvarian & Mahan Mirarab on Apple Music. 2016. 9 Songs. Duration: 48 minutes.
+      quote: 'Listen to Kahgel by Hamzeh Yeganeh, Kaveh Sarvarian & Mahan Mirarab on Apple Music. 2016. 9 Songs. Duration: 48 minutes.'
       accessed: '2026-10-19'
   - value: Qy69pg7
     references:
     - source: music.apple.com-us-album-kahgel-1154431065-8258b34fb3ba
-      quote: |-
-        Listen to Kahgel by Hamzeh Yeganeh, Kaveh Sarvarian & Mahan Mirarab on Apple Music. 2016. 9 Songs. Duration: 48 minutes.
+      quote: 'Listen to Kahgel by Hamzeh Yeganeh, Kaveh Sarvarian & Mahan Mirarab on Apple Music. 2016. 9 Songs. Duration: 48 minutes.'
       accessed: '2026-10-19'
   - value: Q7hs4tn
     references:
     - source: music.apple.com-us-album-kahgel-1154431065-8258b34fb3ba
-      quote: |-
-        Listen to Kahgel by Hamzeh Yeganeh, Kaveh Sarvarian & Mahan Mirarab on Apple Music. 2016. 9 Songs. Duration: 48 minutes.
+      quote: 'Listen to Kahgel by Hamzeh Yeganeh, Kaveh Sarvarian & Mahan Mirarab on Apple Music. 2016. 9 Songs. Duration: 48 minutes.'
       accessed: '2026-10-19'
   listen link:
   - value: https://music.apple.com/us/album/kahgel/1154431065
     references:
     - source: music.apple.com-us-album-kahgel-1154431065-8258b34fb3ba
-      quote: |-
-        Listen to Kahgel by Hamzeh Yeganeh, Kaveh Sarvarian & Mahan Mirarab on Apple Music. 2016. 9 Songs. Duration: 48 minutes.
+      quote: 'Listen to Kahgel by Hamzeh Yeganeh, Kaveh Sarvarian & Mahan Mirarab on Apple Music. 2016. 9 Songs. Duration: 48 minutes.'
       accessed: '2026-10-19'
   - value: https://open.spotify.com/album/1cYIsIHbYWHa97iSyBMycd
     references:
@@ -57,6 +51,12 @@ statements:
         language: en
     references:
     - source: music.apple.com-us-album-kahgel-1154431065-8258b34fb3ba
-      quote: |-
-        Listen to Kahgel by Hamzeh Yeganeh, Kaveh Sarvarian & Mahan Mirarab on Apple Music. 2016. 9 Songs. Duration: 48 minutes.
+      quote: 'Listen to Kahgel by Hamzeh Yeganeh, Kaveh Sarvarian & Mahan Mirarab on Apple Music. 2016. 9 Songs. Duration: 48 minutes.'
       accessed: '2026-10-19'
+  release type:
+  - value: album
+    references:
+    - source: music.apple.com-us-album-kahgel-1154431065
+      quote: ‎Kahgel - Album by Hamzeh Yeganeh, Kaveh Sarvarian & Mahan Mirarab - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title

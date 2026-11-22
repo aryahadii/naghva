@@ -18,6 +18,22 @@ statements:
       quote: آوا ارّه‌سازان
       locator: Original programme, liner notes or performer credit
       accessed: '2026-11-21'
+  - value:
+      text: آوا اره‌سازان
+      language: fa
+    references:
+    - source: shahrzad-film-mx3njoyrkv4
+      quote: آوا اره‌سازان
+      locator: Original performer’s video description
+      accessed: '2026-11-21'
+  - value:
+      text: Ava Arrehsazan
+      language: en
+    references:
+    - source: shahrzad-film-mx3njoyrkv4
+      quote: Ava Arrehsazan
+      locator: Original performer’s video description
+      accessed: '2026-11-21'
   member of:
   - value: Qn5vbwr
     references:
@@ -25,6 +41,14 @@ statements:
       quote: Ava Arehsazan
       locator: Original programme, liner notes or performer credit
       accessed: '2026-11-21'
+  - value: Q4z6jy5
+    references:
+    - source: shahrzad-film-mx3njoyrkv4
+      quote: آوا اره‌سازان
+      locator: Original performer’s video description
+      accessed: '2026-11-21'
+    qualifiers:
+      role: oud
   image:
   - value: https://rokhquartet.art/wp-content/uploads/2025/01/Sit-Ava.png
     references:

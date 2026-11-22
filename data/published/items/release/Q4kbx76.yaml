@@ -1,0 +1,24 @@
+id: Q4kbx76
+type: release
+statements:
+  name:
+  - value:
+      text: شوق‌نامه
+      language: fa
+    references:
+    - &id001
+      source: siamak-jahangiri-eco
+      quote: شوق‌نامه
+      accessed: '2026-11-21'
+      locator: Edition title
+  performer:
+  - value: Qnz4xnz
+    references:
+    - source: siamak-jahangiri-eco
+      quote: سیامک جهانگیری
+      accessed: '2026-11-21'
+      locator: Named musician
+  release type:
+  - value: album
+    references:
+    - *id001

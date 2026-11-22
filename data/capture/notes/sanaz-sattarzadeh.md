@@ -22,10 +22,13 @@ Checked native Iranian ensemble recordings, publisher and concert documents, App
 - Tasnife Dashti (Qz77vwn) · https://music.apple.com/us/song/tasnife-dashti/1802953720 · https://open.spotify.com/track/67vZIzhLSAC4HMsjrJBhCL
 - The Banner of Tresses (Q83hd4d) · https://t.me/soheilhosnavi/1024 · https://soundcloud.com/zangrecordz/the-banner-of-tresses-arezoo-banipour-roham-sobhani · https://music.apple.com/us/song/the-banner-of-tresses/1680407947 · https://open.spotify.com/track/1iEwyYbfg95HScFLQEb1pc · https://soundcloud.com/roham-sobhani/ey5svbrpzmzv
 - Tār Solo (Q3bfnbf) · https://music.apple.com/us/song/t%C4%81r-solo/1802953890 · https://open.spotify.com/track/6eiU6LIagNQTHavrWDhT6q
+- تکنوازی تار ابوعطا (Qqyrrg4)
+- تکنوازیِ تار، ساز و آوازِ سوم (Qjpyt8p)
 - ساناز ستارزاده، تکنوازی تار در آواز ابوعطا، زمستان ۱۴۰۰ (Q9raq2x) · https://www.youtube.com/watch?v=Pjq6uMvGsmo
 - پشت صحنه‌ی کنسرت گروه موسیقی آن"با فراقت چند سازم" (Qrpa3wb) · https://www.youtube.com/watch?v=dW6mqlIdEIA
 - پشتِ صحنه‌ی کنسرتِ گروهِ موسیقیِ آن "از من نشان" (Q8wzsy6) · https://www.youtube.com/watch?v=t5qc6ZC8n84
 - پشتِ صحنه‌ی کنسرتِ گروهِ موسیقیِ آن"آفتاب روشن" (Q5ffjgv) · https://www.youtube.com/watch?v=wdTVS7LRtMM
+- کنسرت بزرگ همنوازان شیدا (Q6qtyyn)
 - کنسرت گروه موسیقی آن "از من نشان" (Qefcemq) · https://www.youtube.com/watch?v=rEje8g8uOBg
 - کنسرت گروه موسیقی آن"آفتاب روشن" (Qcvyvza) · https://www.youtube.com/watch?v=PpCt3n7vw_4
 - کنسرت گروه موسیقی آن"با فراقت چند سازم" (Qzvzyde) · https://www.youtube.com/watch?v=sBx1WiZDfjQ

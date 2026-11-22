@@ -2,7 +2,7 @@
 url: https://www.youtube.com/watch?v=yoifZLM8r_U
 title: سینا خشک بیجاری، تکنوازی تمبک، زمستان ۱۴۰۰
 status: processed
-language: en
+language: fa
 tier: own
 about:
 - Hossein Rad

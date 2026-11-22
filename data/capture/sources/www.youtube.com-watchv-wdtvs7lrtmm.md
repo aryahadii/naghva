@@ -2,7 +2,7 @@
 url: https://www.youtube.com/watch?v=wdTVS7LRtMM
 title: پشتِ صحنه‌ی کنسرتِ گروهِ موسیقیِ آن"آفتاب روشن"
 status: processed
-language: en
+language: fa
 tier: own
 about:
 - Hossein Rad

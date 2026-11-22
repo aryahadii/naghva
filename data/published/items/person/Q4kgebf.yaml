@@ -1,0 +1,27 @@
+id: Q4kgebf
+type: person
+statements:
+  name:
+  - value:
+      text: نازنین غنی‌زاده
+      language: fa
+    references:
+    - &id001
+      source: shahrzad-ensemble-iran
+      quote: هما تهرانی خواننده، نازنین پدرثانی نوازنده تنبک و نازنین غنی‌زاده با نوازندگی کمانچه
+      accessed: '2026-11-21'
+      locator: Performer or presenter archive
+  - value:
+      text: Nazanin Ghanizadeh
+      language: en
+    references:
+    - source: shahrzad-film-mx3njoyrkv4
+      quote: Nazanin Ghanizadeh
+      locator: Original performer’s video description
+      accessed: '2026-11-21'
+  member of:
+  - value: Q4z6jy5
+    references:
+    - *id001
+    qualifiers:
+      role: kamancheh

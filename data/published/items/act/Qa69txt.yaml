@@ -1,0 +1,23 @@
+id: Qa69txt
+type: act
+statements:
+  name:
+  - value:
+      text: Ensemble Mehr
+      language: en
+    references:
+    - source: ensemble-mehr-2007
+      quote: Ensemble Mehr
+      accessed: '2026-11-21'
+      locator: Concert playbill or artist testimony
+  image:
+  - value: https://casadellaculturairaniana.com/upload/uploaddir/foto89388ab1c10cd41ff67d8a94ba7a0fac
+    references:
+    - source: ensemble-mehr-gallery11
+      quote: upload/uploaddir/foto89388ab1c10cd41ff67d8a94ba7a0fac
+      accessed: '2026-11-21'
+      locator: Original captioned concert photograph
+    qualifiers:
+      credit:
+        text: Casa della Cultura Iraniana, concert archive
+        language: en

@@ -3,7 +3,7 @@ url: https://music.apple.com/us/song/tasnife-dashti/1802953720
 title: ‎Tasnife Dashti - Song with Lyrics by Sanaz Sattarzadeh - Apple Music
 status: processed
 language: en
-tier: own
+tier: discography
 about:
 - Hossein Rad
 - Sanaz Sattarzadeh

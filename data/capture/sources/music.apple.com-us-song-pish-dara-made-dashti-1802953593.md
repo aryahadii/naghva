@@ -3,7 +3,7 @@ url: https://music.apple.com/us/song/pish-dara-made-dashti/1802953593
 title: ‎Pish Darāmade Dashti - Song with Lyrics by Sanaz Sattarzadeh - Apple Music
 status: processed
 language: en
-tier: own
+tier: discography
 about:
 - Hossein Rad
 - Sanaz Sattarzadeh

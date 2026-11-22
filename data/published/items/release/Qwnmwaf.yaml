@@ -1,0 +1,51 @@
+id: Qwnmwaf
+type: release
+statements:
+  name:
+  - value:
+      text: 'Huzam I: Doulab'
+      language: en
+    references:
+    - source: darawish.bandcamp.com-track-huzam-i-doulab
+      quote: 'Huzam I: Doulab | Darawish'
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qyk58gj
+    references:
+    - source: darawish.bandcamp.com-track-huzam-i-doulab
+      quote: 'Huzam I: Doulab | Darawish'
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://darawish.bandcamp.com/track/huzam-i-doulab
+    references:
+    - source: darawish.bandcamp.com-track-huzam-i-doulab
+      quote: 'Huzam I: Doulab | Darawish'
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/huzam-i-doulab/1495102872
+    references:
+    - source: music.apple.com-us-song-huzam-i-doulab-1495102872
+      quote: ‎Huzam I (Doulab) - Song with Lyrics by Darawish - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a3857241456_10.jpg
+    references:
+    - source: darawish.bandcamp.com-album-madar
+      quote: https://f4.bcbits.com/img/a3857241456_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Darawish’s original album artwork
+        language: en
+  release date:
+  - value:
+      date: '2020-01-27'
+    references:
+    - source: darawish.bandcamp.com-album-madar
+      quote: released January 27, 2020
+      accessed: '2026-11-21'
+      locator: Published date

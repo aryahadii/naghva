@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/neshan/1802953583
 title: ‎Neshan - Album by Sanaz Sattarzadeh - Apple Music
 status: processed
 language: en
-tier: own
+tier: discography
 about:
 - Hossein Rad
 - Sanaz Sattarzadeh

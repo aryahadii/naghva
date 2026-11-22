@@ -2,8 +2,8 @@
 url: https://www.iranboom.ir/tazeh-ha-sp-285929972/khabar/8253-1391-08-17-16-24-29.html
 title: ژآلبوم تصویری کنسرت محمدرضا لطفی منتشر شد
 status: processed
-language: en
-tier: own
+language: fa
+tier: journalism
 about:
 - Hossein Rad
 - Sanaz Sattarzadeh

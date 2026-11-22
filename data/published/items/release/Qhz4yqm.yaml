@@ -1,0 +1,88 @@
+id: Qhz4yqm
+type: release
+statements:
+  name:
+  - value:
+      text: Mehr Ensemble - Tasnif-e Ghadah
+      language: en
+    references:
+    - &id001
+      source: ensemble-mehr-film-exefv521krq
+      quote: Mehr Ensemble - Tasnif-e Ghadah
+      accessed: '2026-11-21'
+      locator: Organizer film title
+  performer:
+  - value: Qa69txt
+    references:
+    - *id001
+  - value: Q3k5v4f
+    references:
+    - source: casa-della-cultura-persia-mistica-2007
+      quote: Mehrbanu
+      accessed: '2026-11-21'
+      locator: 2007 ensemble roster
+    qualifiers:
+      role: vocals
+  - value: Qhwvdn8
+    references:
+    - source: casa-della-cultura-persia-mistica-2007
+      quote: Azar Zargarian
+      accessed: '2026-11-21'
+      locator: 2007 ensemble roster
+    qualifiers:
+      role: tar
+  - value: Qz63wkc
+    references:
+    - source: casa-della-cultura-persia-mistica-2007
+      quote: Raa'na Shieh
+      accessed: '2026-11-21'
+      locator: 2007 ensemble roster
+    qualifiers:
+      role: kamancheh
+  - value: Qyqfeah
+    references:
+    - source: casa-della-cultura-persia-mistica-2007
+      quote: Marjan Tavakoli
+      accessed: '2026-11-21'
+      locator: 2007 ensemble roster
+    qualifiers:
+      role: daf
+  - value: Qwtdgcs
+    references:
+    - source: casa-della-cultura-persia-mistica-2007
+      quote: Hannaneh Saeidi
+      accessed: '2026-11-21'
+      locator: 2007 ensemble roster
+    qualifiers:
+      role: qanun
+  - value: Qdbqrvp
+    references:
+    - source: casa-della-cultura-persia-mistica-2007
+      quote: Najmeh Saghir
+      accessed: '2026-11-21'
+      locator: 2007 ensemble roster
+    qualifiers:
+      role: oud
+  - value: Qhnk346
+    references:
+    - source: casa-della-cultura-persia-mistica-2007
+      quote: Sanaz Keshavarz
+      accessed: '2026-11-21'
+      locator: 2007 ensemble roster
+    qualifiers:
+      role: tombak
+  listen link:
+  - value: https://www.youtube.com/watch?v=exeFV521KRQ
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/exeFV521KRQ/hqdefault.jpg
+    references:
+    - source: ensemble-mehr-film-exefv521krq
+      quote: https://i.ytimg.com/vi/exeFV521KRQ/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original concert image
+    qualifiers:
+      credit:
+        text: Casa della Cultura Iraniana
+        language: en

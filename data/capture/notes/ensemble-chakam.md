@@ -30,3 +30,5 @@ Reviewed the performers’ original album pages, Apple Music and available Spoti
 - Tant qu'il y aura des vagues (Comme un samedi, le live) (Qnfs4a8)
 - Tant qu'il y aura des vagues - Single (Qgayc2v) · https://music.apple.com/us/album/tant-quil-y-aura-des-vagues-single/1783112247 · https://music.apple.com/us/song/tant-quil-y-aura-des-vagues/1783112255 · https://music.apple.com/us/song/tant-quil-y-aura-des-vagues/1784883415
 - Traditionnel : Nyalak (Ensemble Chakâm) (Q3cbvvf) · https://www.youtube.com/watch?v=DAab5lD266Q
+
+The presenter’s complete filmed concert with pianist Nima Sarkechik, Qxr75t3, is a separate programme from the ICART excerpts. Le Triton gives the lineup and hosts the complete edition.

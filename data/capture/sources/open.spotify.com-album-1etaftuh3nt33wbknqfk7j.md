@@ -21,3 +21,23 @@ Track 5, read 2026-11-21.
 > Will of the Gods · ASADI, Naghib Shanbehzadeh, Shaho Andalibi, Prince of Persia
 
 Track 23, read 2026-11-21.
+
+> ASADI, XYE, Prince of Persia
+
+Individual track credits, read 2026-11-21.
+
+> ASADI, Prince of Persia
+
+Individual track credits, read 2026-11-21.
+
+> ASADI, Naghib Shanbehzadeh, Shaho Andalibi, Prince of Persia
+
+Individual track credits, read 2026-11-21.
+
+> ASADI, Naghib Shanbehzadeh, Prince of Persia
+
+Individual track credits, read 2026-11-21.
+
+> ASADI, Shaho Andalibi, Prince of Persia
+
+Individual track credits, read 2026-11-21.

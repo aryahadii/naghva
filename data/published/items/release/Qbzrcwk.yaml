@@ -1,0 +1,57 @@
+id: Qbzrcwk
+type: release
+statements:
+  name:
+  - value:
+      text: The Sun Awakes (feat. Amir Hossein Rahmani)
+      language: en
+    references:
+    - source: siamak-jahangiri-ap1797218482
+      quote: The Sun Awakes (feat. Amir Hossein Rahmani)
+      accessed: '2026-11-21'
+      locator: Track title and billing
+  release date:
+  - value:
+      date: '2025-02-14'
+    references:
+    - source: siamak-jahangiri-ap1797218482
+      quote: '2025-02-14'
+      accessed: '2026-11-21'
+      locator: Edition release date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/02/06/72/020672dd-84ad-f8ee-b62e-817102a2e1f0/artwork.jpg/1200x630wp-60.jpg
+    references:
+    - source: siamak-jahangiri-ap1797218482
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/02/06/72/020672dd-84ad-f8ee-b62e-817102a2e1f0/artwork.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Digital release artwork
+    qualifiers:
+      credit:
+        text: Apple Music, original edition artwork
+        language: en
+  performer:
+  - value: Qnz4xnz
+    references:
+    - source: siamak-jahangiri-ap1797218482
+      quote: Siamak Jahangiry
+      accessed: '2026-11-21'
+      locator: Distributor artist credit
+  listen link:
+  - value: https://music.apple.com/us/song/the-sun-awakes-feat-amir-hossein-rahmani/1797218484
+    references:
+    - source: siamak-jahangiri-ap1797218482
+      quote: https://music.apple.com/us/song/the-sun-awakes-feat-amir-hossein-rahmani/1797218484
+      accessed: '2026-11-21'
+      locator: Exact edition or recording
+  - value: https://open.spotify.com/track/3stDcGIATL4icSvV9RKdNd
+    references:
+    - source: siamak-jahangiri-ed7w9zyxp9z4l4y7xtzb9q1g
+      quote: spotify:track:3stDcGIATL4icSvV9RKdNd
+      accessed: '2026-11-21'
+      locator: Spotify recording
+  - value: https://open.spotify.com/album/7w9ZyXp9z4L4Y7XtZB9q1G
+    references:
+    - source: siamak-jahangiri-ed7w9zyxp9z4l4y7xtzb9q1g
+      quote: The Sun Awakes
+      accessed: '2026-11-21'
+      locator: Single release

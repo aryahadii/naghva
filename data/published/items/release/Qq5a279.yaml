@@ -1,0 +1,83 @@
+id: Qq5a279
+type: release
+statements:
+  name:
+  - value:
+      text: Bahari Digar
+      language: en
+    references:
+    - source: music.apple.com-us-song-1794864893
+      quote: ‎Bahari Digar - Song with Lyrics by Elana Sasson & Kaveh Sarvarian - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qy69pg7
+    references:
+    - source: music.apple.com-us-song-1794864893
+      quote: ‎Bahari Digar - Song with Lyrics by Elana Sasson & Kaveh Sarvarian - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qy69pg7
+    references:
+    - source: elana-sasson.bandcamp.com-track-bahari-digar
+      quote: Kaveh Sarvarian - ney
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: ney
+  listen link:
+  - value: https://music.apple.com/us/song/1794864893
+    references:
+    - source: music.apple.com-us-song-1794864893
+      quote: ‎Bahari Digar - Song with Lyrics by Elana Sasson & Kaveh Sarvarian - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/bahari-digar-single/1794864834
+    references:
+    - source: music.apple.com-us-album-bahari-digar-single-1794864834
+      quote: ‎Bahari Digar - Single - Album by Elana Sasson & Kaveh Sarvarian - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/album/0Hd28ws8tcygQLIoNWOtVb
+    references:
+    - source: open.spotify.com-album-0hd28ws8tcygqlionwotvb
+      quote: Listen to Bahari Digar - Single by Elana Sasson | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/7F2sOeg3ZBe4FIFHmZrasD
+    references:
+    - source: open.spotify.com-track-7f2soeg3zbe4fifhmzrasd
+      quote: Bahari Digar - song and lyrics by Elana Sasson, Kaveh Sarvarian | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/3wIUpsgFnSD2HE6n58j9cj
+    references:
+    - source: open.spotify.com-track-3wiupsgfnsd2he6n58j9cj
+      quote: Bahari Digar - song and lyrics by Elana Sasson, Kaveh Sarvarian | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://elana-sasson.bandcamp.com/track/bahari-digar
+    references:
+    - source: elana-sasson.bandcamp.com-track-bahari-digar
+      quote: Bahari Digar | Elana Sasson
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/81/fa/6d/81fa6ddf-e881-519c-3939-75a96ef5ac51/197342972093_cover.jpg/600x600bb.webp
+    references:
+    - source: music.apple.com-us-song-1794864893
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/81/fa/6d/81fa6ddf-e881-519c-3939-75a96ef5ac51/197342972093_cover.jpg/600x600bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original publisher artwork
+        language: en
+  release date:
+  - value:
+      date: '2025-02-28'
+    references:
+    - source: music.apple.com-us-song-1794864893
+      quote: February 28, 2025
+      accessed: '2026-11-21'
+      locator: Published date

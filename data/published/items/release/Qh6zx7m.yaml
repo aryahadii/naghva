@@ -1,0 +1,54 @@
+id: Qh6zx7m
+type: release
+statements:
+  name:
+  - value:
+      text: Heart Song
+      language: en
+    references:
+    - source: music.apple.com-us-album-heart-song-single-1437321976
+      quote: Heart Song
+      accessed: 2026-11-21
+      locator: Track 1
+  performer:
+  - value: Qghhr4e
+    references:
+    - source: music.apple.com-us-album-heart-song-single-1437321976
+      quote: Heart Song - Single · ASADI · 2016-03-29
+      accessed: 2026-11-21
+      locator: Album artist and issue date
+  listen link:
+  - value: https://music.apple.com/us/song/heart-song/1437321986
+    references:
+    - source: music.apple.com-us-album-heart-song-single-1437321976
+      quote: Heart Song
+      accessed: 2026-11-21
+      locator: Track 1
+  - value: https://music.apple.com/us/album/heart-song-single/1437321976
+    references:
+    - source: music.apple.com-us-album-heart-song-single-1437321976
+      quote: Heart Song - Single · ASADI · 2016-03-29
+      accessed: 2026-11-21
+      locator: Album artist and issue date
+  release date:
+  - value:
+      date: '2016-03-29'
+    references:
+    - source: music.apple.com-us-album-heart-song-single-1437321976
+      quote: Heart Song
+      accessed: 2026-11-21
+      locator: Track 1
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-heart-song-single-1437321976
+      quote: Heart Song
+      accessed: 2026-11-21
+      locator: Track 1
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/d7/c8/36/d7c8369a-ad72-5a55-9ee9-fdf69e1b258f/859728802676_cover.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-heart-song-single-1437321976
+      quote: Heart Song
+      accessed: 2026-11-21
+      locator: Track 1

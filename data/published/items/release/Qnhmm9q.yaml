@@ -1,0 +1,49 @@
+id: Qnhmm9q
+type: release
+statements:
+  name:
+  - value:
+      text: Forud
+      language: en
+    references:
+    - source: music.apple.com-us-album-forud-1463120182i-1463120311-uo-4
+      quote: Forud
+      locator: Original programme, liner notes or performer credit
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://music.apple.com/us/song/forud/1463120311
+    references:
+    - source: music.apple.com-us-album-forud-1463120182i-1463120311-uo-4
+      quote: Forud
+      locator: Original programme, liner notes or performer credit
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/6CvGXazYPmKOkWIXMg9UHq
+    references:
+    - source: open.spotify.com-embed-album-0fwppalmm3ghs89wzfagzu
+      quote: spotify:track:6CvGXazYPmKOkWIXMg9UHq
+      locator: Original programme, liner notes or performer credit
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/5d/50/ac/5d50ac0d-222e-bbd3-11f0-c61355682b28/6260608007014.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-peyda-1463120182uo-4
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/5d/50/ac/5d50ac0d-222e-bbd3-11f0-c61355682b28/6260608007014.jpg/1200x630bb.jpg
+      locator: Original programme, liner notes or performer credit
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2018'
+    references:
+    - source: labyrinthmusic.gr-en-aria-mohafez
+      quote: Sarva (2016) and Peyda (2018)
+      locator: Original programme, liner notes or performer credit
+      accessed: '2026-11-21'
+  performer:
+  - value: Qcvf546
+    references:
+    - source: music.apple.com-us-album-forud-1463120182i-1463120311-uo-4
+      quote: Aria Mohafez
+      locator: Original programme, liner notes or performer credit
+      accessed: '2026-11-21'
+    qualifiers:
+      role: santur

@@ -1,6 +1,6 @@
 ---
 url: https://labyrinthmusic.gr/en/sina-danesh/
-title: Browser verification
+title: Sina Danesh – Labyrinth
 status: processed
 language: en
 tier: own

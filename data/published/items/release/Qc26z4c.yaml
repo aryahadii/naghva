@@ -1,0 +1,54 @@
+id: Qc26z4c
+type: release
+statements:
+  name:
+  - value:
+      text: Violin Song
+      language: en
+    references:
+    - source: music.apple.com-us-album-violin-song-single-1437322215
+      quote: Violin Song
+      accessed: 2026-11-21
+      locator: Track 1
+  performer:
+  - value: Qghhr4e
+    references:
+    - source: music.apple.com-us-album-violin-song-single-1437322215
+      quote: Violin Song - Single · ASADI · 2017-12-09
+      accessed: 2026-11-21
+      locator: Album artist and issue date
+  listen link:
+  - value: https://music.apple.com/us/song/violin-song/1437322230
+    references:
+    - source: music.apple.com-us-album-violin-song-single-1437322215
+      quote: Violin Song
+      accessed: 2026-11-21
+      locator: Track 1
+  - value: https://music.apple.com/us/album/violin-song-single/1437322215
+    references:
+    - source: music.apple.com-us-album-violin-song-single-1437322215
+      quote: Violin Song - Single · ASADI · 2017-12-09
+      accessed: 2026-11-21
+      locator: Album artist and issue date
+  release date:
+  - value:
+      date: '2017-12-09'
+    references:
+    - source: music.apple.com-us-album-violin-song-single-1437322215
+      quote: Violin Song
+      accessed: 2026-11-21
+      locator: Track 1
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-violin-song-single-1437322215
+      quote: Violin Song
+      accessed: 2026-11-21
+      locator: Track 1
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/3c/80/55/3c80555d-9c84-bec5-e658-8a3fabe6b284/859728802546_cover.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-violin-song-single-1437322215
+      quote: Violin Song
+      accessed: 2026-11-21
+      locator: Track 1

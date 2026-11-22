@@ -1,0 +1,57 @@
+id: Qtg5sc4
+type: release
+statements:
+  name:
+  - value:
+      text: ASRAR-E-AZAL (feat. Pouria Akhavas)
+      language: en
+    references:
+    - source: siamak-jahangiri-ap1718656978
+      quote: ASRAR-E-AZAL (feat. Pouria Akhavas)
+      accessed: '2026-11-21'
+      locator: Track title and billing
+  release date:
+  - value:
+      date: '2023-11-24'
+    references:
+    - source: siamak-jahangiri-ap1718656978
+      quote: '2023-11-24'
+      accessed: '2026-11-21'
+      locator: Edition release date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/3e/b8/16/3eb81645-1d5a-1dc1-9505-e6ad794281b3/artwork.jpg/1200x630wp-60.jpg
+    references:
+    - source: siamak-jahangiri-ap1718656978
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/3e/b8/16/3eb81645-1d5a-1dc1-9505-e6ad794281b3/artwork.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Digital release artwork
+    qualifiers:
+      credit:
+        text: Apple Music, original edition artwork
+        language: en
+  performer:
+  - value: Qnz4xnz
+    references:
+    - source: siamak-jahangiri-ap1718656978
+      quote: Siamak Jahangiry
+      accessed: '2026-11-21'
+      locator: Distributor artist credit
+  listen link:
+  - value: https://music.apple.com/us/song/asrar-e-azal-feat-pouria-akhavas/1718656979
+    references:
+    - source: siamak-jahangiri-ap1718656978
+      quote: https://music.apple.com/us/song/asrar-e-azal-feat-pouria-akhavas/1718656979
+      accessed: '2026-11-21'
+      locator: Exact edition or recording
+  - value: https://open.spotify.com/track/5cocQ2MwiGXcnjKZuYoEn0
+    references:
+    - source: siamak-jahangiri-ed25tb6fhzepkdiiylxcfozf
+      quote: spotify:track:5cocQ2MwiGXcnjKZuYoEn0
+      accessed: '2026-11-21'
+      locator: Spotify recording
+  - value: https://open.spotify.com/album/25tB6FhZEPkDIIyLXCFOzf
+    references:
+    - source: siamak-jahangiri-ed25tb6fhzepkdiiylxcfozf
+      quote: ASRAR-E-AZAL
+      accessed: '2026-11-21'
+      locator: Single release

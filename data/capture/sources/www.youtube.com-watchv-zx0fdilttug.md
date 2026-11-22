@@ -2,7 +2,7 @@
 url: https://www.youtube.com/watch?v=zX0fdIltTUg
 title: 'تکنوازی، دونوازی سنتور و تمبک: آریا محافظ و سینا خشک بیجاری | شوشتری | زمستان ۱۴۰۰'
 status: processed
-language: en
+language: fa
 tier: own
 about:
 - Hossein Rad

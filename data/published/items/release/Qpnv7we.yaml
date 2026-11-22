@@ -3,6 +3,14 @@ type: release
 statements:
   name:
   - value:
+      text: Impatient of Separation
+      language: en
+    references:
+    - source: music.apple.com-us-album-impatient-of-separation-1407034753
+      quote: Impatient of Separation
+      locator: Original programme, liner notes or performer credit
+      accessed: '2026-11-21'
+  - value:
       text: Within Your Absence, When Shall I Last
       language: en
     references:
@@ -48,3 +56,48 @@ statements:
       accessed: '2026-11-21'
     qualifiers:
       role: kamancheh
+  - value: Qct4z3g
+    references:
+    - source: music.apple.com-us-album-impatient-of-separation-1407034753
+      quote: Mojtaba Asgari
+      locator: Original programme, liner notes or performer credit
+      accessed: '2026-11-21'
+    qualifiers:
+      role: vocals
+  - value: Qbz9d6v
+    references:
+    - source: music.apple.com-us-album-impatient-of-separation-1407034753
+      quote: Sepideh Meshki
+      locator: Original programme, liner notes or performer credit
+      accessed: '2026-11-21'
+    qualifiers:
+      role: setar
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/78/68/ab/7868abd3-8ea0-93e5-9aef-7113c92fc3bc/192562723883.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-impatient-of-separation-1407034753
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/78/68/ab/7868abd3-8ea0-93e5-9aef-7113c92fc3bc/192562723883.jpg/1200x630bb.jpg
+      locator: Original programme, liner notes or performer credit
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://music.apple.com/us/album/impatient-of-separation/1407034753
+    references:
+    - source: music.apple.com-us-album-impatient-of-separation-1407034753
+      quote: Impatient of Separation
+      locator: Original programme, liner notes or performer credit
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/album/03z9FKvuK7xqG48Zne5vbG
+    references:
+    - source: open.spotify.com-embed-album-03z9fkvuk7xqg48zne5vbg
+      quote: 03z9FKvuK7xqG48Zne5vbG
+      locator: Original programme, liner notes or performer credit
+      accessed: '2026-11-21'
+  contributor:
+  - value: Qbz9d6v
+    references:
+    - source: www.youtube.com-watchv-znyev1a830a
+      quote: هم‌نوازیِ «آن» به آهنگ‌سازیِ سپیده مشکی
+      locator: Original programme, liner notes or performer credit
+      accessed: '2026-11-21'
+    qualifiers:
+      role: composer

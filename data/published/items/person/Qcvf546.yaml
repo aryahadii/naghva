@@ -10,3 +10,52 @@ statements:
       quote: Aria Mohafez
       accessed: '2026-11-21'
       locator: Album personnel
+  - value:
+      text: آریا محافظ
+      language: fa
+    references:
+    - source: www.youtube.com-watchv-j-v2q2ssivm
+      quote: آریا محافظ
+      locator: Original programme, liner notes or performer credit
+      accessed: '2026-11-21'
+  profile link:
+  - value: https://music.apple.com/us/artist/aria-mohafez/1295577150
+    references:
+    - source: music.apple.com-us-artist-aria-mohafez-1295577150
+      quote: Aria Mohafez
+      locator: Original programme, liner notes or performer credit
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/artist/3JidvaqpTZ3l6ailf0y1Vh
+    references:
+    - source: open.spotify.com-embed-artist-3jidvaqptz3l6ailf0y1vh
+      quote: 3JidvaqpTZ3l6ailf0y1Vh
+      locator: Original programme, liner notes or performer credit
+      accessed: '2026-11-21'
+  - value: https://www.youtube.com/channel/UCnJZLqgxCP6973ZP9oMlWXQ
+    references:
+    - source: www.youtube.com-channel-ucnjzlqgxcp6973zp9omlwxq
+      quote: https://www.youtube.com/channel/UCnJZLqgxCP6973ZP9oMlWXQ
+      locator: Original programme, liner notes or performer credit
+      accessed: '2026-11-21'
+  image:
+  - value: https://labyrinthmusic.gr/wp-content/uploads/2025/04/Aria-Mohafez-1024x697.jpeg
+    references:
+    - source: labyrinthmusic.gr-en-aria-mohafez
+      quote: https://labyrinthmusic.gr/wp-content/uploads/2025/04/Aria-Mohafez-1024x697.jpeg
+      locator: Original programme, liner notes or performer credit
+      accessed: '2026-11-21'
+  birth date:
+  - value:
+      date: '1983'
+    references:
+    - source: labyrinthmusic.gr-en-aria-mohafez
+      quote: 1983 in Tehran
+      locator: Original programme, liner notes or performer credit
+      accessed: '2026-11-21'
+  member of:
+  - value: Qvnj2sh
+    references:
+    - source: labyrinthmusic.gr-en-aria-mohafez
+      quote: he composed and directed the Aftab Roshan concert
+      locator: Original programme, liner notes or performer credit
+      accessed: '2026-11-21'

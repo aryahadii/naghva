@@ -1,0 +1,23 @@
+id: Qw3ackf
+type: act
+statements:
+  name:
+  - value:
+      text: Cardamom Trio
+      language: en
+    references:
+    - source: cardamomtrio.com
+      quote: Cardamom Trio
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  image:
+  - value: https://cardamomtrio.com/wp-content/uploads/2024/04/cropped-Trio-Cardamom-photo-by-Kaveh-Sarvarian.jpg
+    references:
+    - source: cardamomtrio.com
+      quote: https://cardamomtrio.com/wp-content/uploads/2024/04/cropped-Trio-Cardamom-photo-by-Kaveh-Sarvarian.jpg
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: Kaveh Sarvarian
+        language: en

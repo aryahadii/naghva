@@ -1,0 +1,23 @@
+id: Q3xyyar
+type: act
+statements:
+  name:
+  - value:
+      text: Parsinava
+      language: en
+    references:
+    - source: www.giglon.com-todos-idevent-parsinava-intruso-mayo
+      quote: Parsinava
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  image:
+  - value: https://i.ytimg.com/vi/FbrmCVfHinQ/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-fbrmcvfhinq
+      quote: https://i.ytimg.com/vi/FbrmCVfHinQ/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: Kaveh Sarvarian
+        language: en

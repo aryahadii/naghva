@@ -2,7 +2,7 @@
 url: https://www.youtube.com/watch?v=PpCt3n7vw_4
 title: کنسرت گروه موسیقی آن"آفتاب روشن"
 status: processed
-language: en
+language: fa
 tier: own
 about:
 - Hossein Rad

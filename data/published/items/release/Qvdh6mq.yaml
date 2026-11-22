@@ -1,0 +1,98 @@
+id: Qvdh6mq
+type: release
+statements:
+  name:
+  - value:
+      text: Madar
+      language: en
+    references:
+    - source: darawish.bandcamp.com-album-madar
+      quote: Madar | Darawish
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qyk58gj
+    references:
+    - source: darawish.bandcamp.com-album-madar
+      quote: Madar | Darawish
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qy69pg7
+    references:
+    - source: darawish.bandcamp.com-album-madar
+      quote: Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: ney
+  - value: Q3nzw4b
+    references:
+    - source: darawish.bandcamp.com-album-madar
+      quote: Pablo Hernández Ramos
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: saxophone
+  - value: Qtj7y5p
+    references:
+    - source: darawish.bandcamp.com-album-madar
+      quote: Hames Bitar
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: oud
+  - value: Qw968tb
+    references:
+    - source: darawish.bandcamp.com-album-madar
+      quote: Luis Taberna
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: percussion
+  - value: Qaxtfjy
+    references:
+    - source: darawish.bandcamp.com-album-madar
+      quote: Fernando Leria Jiménez
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: double bass
+  listen link:
+  - value: https://darawish.bandcamp.com/album/madar
+    references:
+    - source: darawish.bandcamp.com-album-madar
+      quote: Madar | Darawish
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/madar/1495102490
+    references:
+    - source: music.apple.com-us-album-madar-1495102490
+      quote: ‎Madar - Album by Darawish - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a3857241456_10.jpg
+    references:
+    - source: darawish.bandcamp.com-album-madar
+      quote: https://f4.bcbits.com/img/a3857241456_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Darawish’s original album artwork
+        language: en
+  release date:
+  - value:
+      date: '2020-01-27'
+    references:
+    - source: darawish.bandcamp.com-album-madar
+      quote: released January 27, 2020
+      accessed: '2026-11-21'
+      locator: Published date
+  release type:
+  - value: album
+    references:
+    - source: darawish.bandcamp.com-album-madar
+      quote: Madar | Darawish
+      accessed: '2026-11-21'
+      locator: Page title

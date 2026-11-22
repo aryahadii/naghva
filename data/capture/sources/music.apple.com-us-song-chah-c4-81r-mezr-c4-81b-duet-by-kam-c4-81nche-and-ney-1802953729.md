@@ -3,7 +3,7 @@ url: https://music.apple.com/us/song/chah%C4%81r-mezr%C4%81b-duet-by-kam%C4%81nc
 title: ‎Chahār Mezrāb Duet by Kamānche and Ney - Song with Lyrics by Sanaz Sattarzadeh - Apple Music
 status: processed
 language: en
-tier: own
+tier: discography
 about:
 - Hossein Rad
 - Sanaz Sattarzadeh

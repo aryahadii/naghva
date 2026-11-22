@@ -1,0 +1,57 @@
+id: Q2extw3
+type: release
+statements:
+  name:
+  - value:
+      text: Twirl (Be Charkh Andar) (feat. Mojtaba Asgari, Siamak Jahangiri, Hamid Khansari & Zakaria Yousefi)
+      language: en
+    references:
+    - source: siamak-jahangiri-ap1816457431
+      quote: Twirl (Be Charkh Andar) (feat. Mojtaba Asgari, Siamak Jahangiri, Hamid Khansari & Zakaria Yousefi)
+      accessed: '2026-11-21'
+      locator: Track title and billing
+  release date:
+  - value:
+      date: '2025-06-01'
+    references:
+    - source: siamak-jahangiri-ap1816457431
+      quote: '2025-06-01'
+      accessed: '2026-11-21'
+      locator: Edition release date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d4/d5/d7/d4d5d766-2516-d18e-efa2-51b20f89f633/artwork.jpg/1200x630wp-60.jpg
+    references:
+    - source: siamak-jahangiri-ap1816457431
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d4/d5/d7/d4d5d766-2516-d18e-efa2-51b20f89f633/artwork.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Digital release artwork
+    qualifiers:
+      credit:
+        text: Apple Music, original edition artwork
+        language: en
+  performer:
+  - value: Qnz4xnz
+    references:
+    - source: siamak-jahangiri-ap1816457431
+      quote: Twirl (Be Charkh Andar) (feat. Mojtaba Asgari, Siamak Jahangiri, Hamid Khansari & Zakaria Yousefi)
+      accessed: '2026-11-21'
+      locator: Distributor artist credit
+  - value: Qmttqe9
+    references:
+    - source: siamak-jahangiri-ap1816457431
+      quote: Hossein Meimani
+      accessed: '2026-11-21'
+      locator: Distributor artist credit
+  listen link:
+  - value: https://music.apple.com/us/song/twirl-be-charkh-andar-feat-mojtaba-asgari-siamak-jahangiri/1816457435
+    references:
+    - source: siamak-jahangiri-ap1816457431
+      quote: https://music.apple.com/us/song/twirl-be-charkh-andar-feat-mojtaba-asgari-siamak-jahangiri/1816457435
+      accessed: '2026-11-21'
+      locator: Exact edition or recording
+  - value: https://open.spotify.com/track/0XG161czn49eXnlxuHjnQ0
+    references:
+    - source: siamak-jahangiri-ed0hwakxjzxutdtcokp7rdqm
+      quote: spotify:track:0XG161czn49eXnlxuHjnQ0
+      accessed: '2026-11-21'
+      locator: Spotify recording

@@ -3,7 +3,7 @@ url: https://music.apple.com/us/artist/hossein-rad/1817644168
 title: ‎Hossein Rad - Apple Music
 status: processed
 language: en
-tier: own
+tier: discography
 about:
 - Hossein Rad
 - Sanaz Sattarzadeh

@@ -306,3 +306,27 @@ Both scored 9.2/10 on checkpoint 47, with separate article and catalogue readine
 ### Ava Rasti and Mehdi Moshtagh
 
 Both passed at 9.3/10 on checkpoint 51. Article and catalogue ready. Rasti’s 68 panels distinguish the original 31-track Los Angeles benefit from the label’s later edition and retain her artist-named compilation tracks, Semibreve quartet film and festival-documented screen credits. All 129 images decoded per language. Moshtagh’s 186 panels distinguish the Foro 81 radio recording from the other Ajedrez Mundo performance and now include the 2026 CENART anniversary film, the filmmaker’s confirmed setar role and the documented Delgoshá ensemble in Mexico. All 365 images decoded per language. Both pairs of pages had working local links.
+
+### Ensemble Delgosha and Golbang
+
+Both passed at 9.2/10 on checkpoint 53. Article and catalogue ready. Delgosha’s two pages distinguish the Tehran ensemble, its Louvre lineup and its Qajar repertoire from the independent Mexican group of the same name. Compared the published concert programme with the Tehran Rudaki Hall report and checked the individual compositions against the record. Each language displayed 22 panels and 43 decoded images. Golbang’s Swedish label credits corroborate the named singers, instrumentalists and relationships to the individual songs on the early CD. The later family concert and changes in the Swedish lineup give the reader a way to follow the band across releases. Each language displayed 93 panels and 89 decoded images. All local fragments resolved for both artists.
+
+### Checkpoint 54
+
+Rostam Mirlashari, Padik, Abdulrahman Surizehi, Esfand and the Shanbehzadeh Ensemble each passed at 9.2/10. Article and catalogue ready. The two versions of each page passed image decoding and fragment checks.
+
+- Mirlashari (242 panels, 179 images per language). The sources establish the 1991 migration, the launch of Golbang, the performance for Coke Studio Pakistan and the Swedish Arts Grants Committee’s account of the delayed solo album.
+- Padik (26 panels, 21 images). The original self-titled CD is distinguished from Music from Balouchistan. The early Swedish fiddle and percussion lineup, the later Norwegian quartet, and the discrepant published dates of formation are accounted for.
+- Surizehi (114 panels, 123 images). Compared the 1980 Saravan recordings, Radio France issue, Paris tape, Norwegian awards and particular musicians in the UCLA archival concert.
+- Esfand (17 panels, 35 images). Checked the separate April 2024 issue of Bibi Sāghi, the subsequent album and the duo’s production workshop in Berlin.
+- Shanbehzadeh Ensemble (60 panels, 101 images). WOMEX documents Bushehr and the early instrumental lineup. The distinction between the 2009 Paris label recording with Mahmoud Bardaknia and Abdollah Moghateli Motlagh, the father-and-son New York set and the later recorded jazz lineup can be followed in both languages.
+
+Karvan remained under review on this checkpoint. The same ten Oslo concert tracks were presented twice. The catalogue reconciliation must compare their actual stream identifiers, the differently marketed album titles and the two subsequently issued sampler cuts.
+
+### Saeid Shanbehzadeh and Karvan
+
+Both passed at 9.2/10 on checkpoint 55. Article and catalogue ready. Saeid’s 165 panels now include the Numeridanse archive film and distinct Amsterdam stage recording of Babelle heureuse, with Habib Meftah independently identified. His ensemble history, theatre work and later recording with Syrian musicians can be followed in both languages. Each locale had 255 decoded images. Karvan’s 14 panels now retain the 1998 concert pieces once each and distinguish the 2005 compilation cuts. Checked the album titles against the Norwegian publisher and the performer ranges against the programme notes. Each language had 28 decoded images. All local fragments worked.
+
+### Naghib Shanbehzadeh
+
+9.2/10 on checkpoint 55. Article and catalogue ready. Compared the nine tracks in SuperPitch’s original Javascript player with the nine identified Spotify/Apple masters and matched each release ID directly. The label's titles for the fourth and seventh cuts are Choupi Boushehri and Lanj, even though its audio filenames say Choupi and Sheki. The three personally credited Varka tracks and the separately filmed performances also resolve. Both language pages showed 187 panels and 299 decoded images, with all local fragments working.

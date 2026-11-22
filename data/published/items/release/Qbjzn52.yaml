@@ -1,0 +1,59 @@
+id: Qbjzn52
+type: release
+statements:
+  name:
+  - value:
+      text: Baluchi Suite, Part 2
+      language: en
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-baluchi-suite-part-2
+      quote: Baluchi Suite, Part 2 | Hamzeh Yeganeh & Kaveh Sarvarian | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qy69pg7
+    references:
+    - source: kavehsarvarian.bandcamp.com-album-persian-rug
+      quote: Kaveh Sarvarian Flute
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: flute
+  listen link:
+  - value: https://kavehsarvarian.bandcamp.com/track/baluchi-suite-part-2
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-baluchi-suite-part-2
+      quote: Baluchi Suite, Part 2 | Hamzeh Yeganeh & Kaveh Sarvarian | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/490471907
+    references:
+    - source: music.apple.com-us-song-490471907
+      quote: ‎Baloochi Suite Part 2 - Song with Lyrics by Hamzeh Yeganeh & Kaveh Sarvarian - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/4fRSiIwkAX1bNB1JiDZuNW
+    references:
+    - source: open.spotify.com-track-4frsiiwkax1bnb1jidzunw
+      quote: Baloochi Suite Part 2 - song and lyrics by Hamzeh Yeganeh, Kaveh Sarvarian | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a3579427320_10.jpg
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-baluchi-suite-part-2
+      quote: https://f4.bcbits.com/img/a3579427320_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Kaveh Sarvarian on Bandcamp
+        language: en
+  release date:
+  - value:
+      date: '2011-12-10'
+    references:
+    - source: music.apple.com-us-song-490471907
+      quote: December 10, 2011
+      accessed: '2026-11-21'
+      locator: Published date

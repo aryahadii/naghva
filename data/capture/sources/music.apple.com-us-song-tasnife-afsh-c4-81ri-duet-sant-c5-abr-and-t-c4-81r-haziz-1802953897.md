@@ -3,7 +3,7 @@ url: https://music.apple.com/us/song/tasnife-afsh%C4%81ri-duet-sant%C5%ABr-and-t
 title: ‎Tasnife Afshāri (Duet Santūr and Tār) [Haziz] - Song with Lyrics by Sanaz Sattarzadeh - Apple Music
 status: processed
 language: en
-tier: own
+tier: discography
 about:
 - Hossein Rad
 - Sanaz Sattarzadeh

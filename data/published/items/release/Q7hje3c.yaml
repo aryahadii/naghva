@@ -1,0 +1,21 @@
+id: Q7hje3c
+type: release
+statements:
+  name:
+  - value:
+      text: از گلستان عجم
+      language: fa
+    references:
+    - &id001
+      source: siamak-jahangiri-tg3081
+      quote: از گلستان عجم
+      accessed: '2026-11-21'
+      locator: Publisher catalogue title or programme
+  performer:
+  - value: Qnz4xnz
+    references:
+    - *id001
+  release type:
+  - value: album
+    references:
+    - *id001

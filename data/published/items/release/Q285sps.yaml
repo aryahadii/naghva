@@ -1,0 +1,66 @@
+id: Q285sps
+type: release
+statements:
+  name:
+  - value:
+      text: In Between
+      language: en
+    references:
+    - source: open.spotify.com-album-3y8dvnvmgw5oiwavia2bkl
+      quote: Listen to In Between - Album by Elana Sasson | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qy69pg7
+    references:
+    - source: open.spotify.com-album-3y8dvnvmgw5oiwavia2bkl
+      quote: Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Qy69pg7
+    references:
+    - source: elana-sasson.bandcamp.com-album-in-between
+      quote: Kaveh Sarvarian - ney, tombak
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: tombak
+  - value: Qy69pg7
+    references:
+    - source: elana-sasson.bandcamp.com-album-in-between
+      quote: Kaveh Sarvarian - ney, tombak
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: ney
+  release type:
+  - value: album
+    references:
+    - source: open.spotify.com-album-3y8dvnvmgw5oiwavia2bkl
+      quote: Listen to In Between - Album by Elana Sasson | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://open.spotify.com/album/3Y8dVnvMGW5oiwAViA2bKL
+    references:
+    - source: open.spotify.com-album-3y8dvnvmgw5oiwavia2bkl
+      quote: Listen to In Between - Album by Elana Sasson | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://elana-sasson.bandcamp.com/album/in-between
+    references:
+    - source: elana-sasson.bandcamp.com-album-in-between
+      quote: In Between | Elana Sasson
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d0000b273822b5924e00e0627e2dfe339
+    references:
+    - source: open.spotify.com-album-3y8dvnvmgw5oiwavia2bkl
+      quote: https://i.scdn.co/image/ab67616d0000b273822b5924e00e0627e2dfe339
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original publisher artwork
+        language: en

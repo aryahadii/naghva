@@ -2,7 +2,7 @@
 url: https://www.youtube.com/watch?v=ssYf1G7ZrWU
 title: سپیده مشکی، تکنوازی سه تار، بیداد، زمستان ۱۴۰۰
 status: processed
-language: en
+language: fa
 tier: own
 about:
 - Hossein Rad

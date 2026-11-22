@@ -1,0 +1,51 @@
+id: Qtgmws9
+type: release
+statements:
+  name:
+  - value:
+      text: Prelude to Nerges
+      language: en
+    references:
+    - source: open.spotify.com-track-3yzbwdtltaito4pkzshlxl
+      quote: Prelude to Nerges - song and lyrics by Elana Sasson, Kaveh Sarvarian | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qy69pg7
+    references:
+    - source: open.spotify.com-track-3yzbwdtltaito4pkzshlxl
+      quote: Prelude to Nerges - song and lyrics by Elana Sasson, Kaveh Sarvarian | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qy69pg7
+    references:
+    - source: elana-sasson.bandcamp.com-track-prelude-to-nerges
+      quote: 'Ney: Kaveh Sarvarian'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: ney
+  listen link:
+  - value: https://open.spotify.com/track/3yZbwdtlTAiTO4pKZShLxL
+    references:
+    - source: open.spotify.com-track-3yzbwdtltaito4pkzshlxl
+      quote: Prelude to Nerges - song and lyrics by Elana Sasson, Kaveh Sarvarian | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://elana-sasson.bandcamp.com/track/prelude-to-nerges
+    references:
+    - source: elana-sasson.bandcamp.com-track-prelude-to-nerges
+      quote: Prelude to Nerges | Elana Sasson
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d0000b273822b5924e00e0627e2dfe339
+    references:
+    - source: open.spotify.com-track-3yzbwdtltaito4pkzshlxl
+      quote: https://i.scdn.co/image/ab67616d0000b273822b5924e00e0627e2dfe339
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original publisher artwork
+        language: en

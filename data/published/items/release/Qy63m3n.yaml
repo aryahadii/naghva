@@ -1,0 +1,37 @@
+id: Qy63m3n
+type: release
+statements:
+  name:
+  - value:
+      text: Teasing the King
+      language: en
+    references:
+    - source: open.spotify.com-track-66favyrfvrvxr2kdkh0wcn
+      quote: Teasing the King - song and lyrics by Hamzeh Yeganeh, Kaveh Sarvarian | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qy69pg7
+    references:
+    - source: open.spotify.com-track-66favyrfvrvxr2kdkh0wcn
+      quote: Teasing the King - song and lyrics by Hamzeh Yeganeh, Kaveh Sarvarian | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://open.spotify.com/track/66FaVyrfvRVxr2KdKh0wcN
+    references:
+    - source: open.spotify.com-track-66favyrfvrvxr2kdkh0wcn
+      quote: Teasing the King - song and lyrics by Hamzeh Yeganeh, Kaveh Sarvarian | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d0000b273c2ac72914b136e1e0a45c5b4
+    references:
+    - source: open.spotify.com-track-66favyrfvrvxr2kdkh0wcn
+      quote: https://i.scdn.co/image/ab67616d0000b273c2ac72914b136e1e0a45c5b4
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original publisher artwork
+        language: en

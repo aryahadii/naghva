@@ -12,11 +12,14 @@ statements:
       locator: Individual track
   performer:
   - value: Qvhrrm8
+    qualifiers:
+      role:
+      - percussion
     references:
-    - source: open.spotify.com-album-3ijdcbeasn4l2mtxpyas93
-      quote: Gkel Gkel Aman · Dafné Kritharas, Camille El Bacha, Naghib Shanbehzadeh, Rusan Filiztek, Matthias Courbaud
+    - source: dafnekritharas.bandcamp.com-album-varka
+      quote: 'Naghib Shanbehzadeh : percussions (1,4,9)'
       accessed: 2026-11-21
-      locator: Track 9
+      locator: Original CD credits
   listen link:
   - value: https://music.apple.com/us/song/gkel-gkel-aman-feat-camille-el-bacha-naghib/1577825087
     references:
@@ -30,6 +33,12 @@ statements:
       quote: Varka · Dafné Kritharas
       accessed: 2026-11-21
       locator: Spotify record
+  - value: https://dafnekritharas.bandcamp.com/track/gkel-gkel-aman-2
+    references:
+    - source: dafnekritharas.bandcamp.com-album-varka
+      quote: Gkel Gkel Aman
+      accessed: 2026-11-21
+      locator: Track 9
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/99/ab/64/99ab64eb-99eb-12bd-8174-79c4bcb05af1/3473351404020.jpg/1200x630bb.jpg
     references:

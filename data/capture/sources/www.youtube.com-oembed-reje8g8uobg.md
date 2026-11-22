@@ -2,7 +2,7 @@
 url: https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=rEje8g8uOBg&format=json
 title: کنسرت گروه موسیقی آن "از من نشان"
 status: processed
-language: en
+language: fa
 tier: own
 about:
 - Hossein Rad

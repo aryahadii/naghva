@@ -10,6 +10,14 @@ statements:
       quote: NEY OUD AND VOCAL (feat. SAMIN GHORBANI)
       locator: Published artist, title or credits
       accessed: '2026-11-21'
+  - value:
+      text: NEY OUD AND VOCAL (feat. SAMIN GHORBANI)
+      language: en
+    references:
+    - source: siamak-jahangiri-ap1715579265
+      quote: NEY OUD AND VOCAL (feat. SAMIN GHORBANI)
+      accessed: '2026-11-21'
+      locator: Track title and billing
   performer:
   - value: Qncx8nb
     references:
@@ -43,6 +51,16 @@ statements:
     qualifiers:
       credit:
         text: Apple Music · PARIKHANEH
+        language: en
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/09/65/86/096586a0-1430-d4d8-6354-e265dd3bd614/artwork.jpg/1200x630wp-60.jpg
+    references:
+    - source: siamak-jahangiri-ap1715579265
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/09/65/86/096586a0-1430-d4d8-6354-e265dd3bd614/artwork.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Digital release artwork
+    qualifiers:
+      credit:
+        text: Apple Music, original edition artwork
         language: en
   listen link:
   - value: https://music.apple.com/us/song/ney-oud-and-vocal-feat-samin-ghorbani/1715579485

@@ -1,0 +1,57 @@
+id: Qn2s7vy
+type: release
+statements:
+  name:
+  - value:
+      text: Boyer Ahmadi
+      language: en
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-boyer-ahmadi
+      quote: Boyer Ahmadi | By Kaveh Sarvarian | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qy69pg7
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-boyer-ahmadi
+      quote: Boyer Ahmadi | By Kaveh Sarvarian | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://kavehsarvarian.bandcamp.com/track/boyer-ahmadi
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-boyer-ahmadi
+      quote: Boyer Ahmadi | By Kaveh Sarvarian | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/548566592
+    references:
+    - source: music.apple.com-us-song-548566592
+      quote: ‎Boyer Ahmadi - Song with Lyrics by Kaveh Sarvarian - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/4Ankd6mAXSatvUYG5LuurN
+    references:
+    - source: open.spotify.com-track-4ankd6maxsatvuyg5luurn
+      quote: Boyer Ahmadi - song and lyrics by Kaveh Sarvarian | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a0498665786_10.jpg
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-boyer-ahmadi
+      quote: https://f4.bcbits.com/img/a0498665786_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Kaveh Sarvarian on Bandcamp
+        language: en
+  release date:
+  - value:
+      date: '2012-07-23'
+    references:
+    - source: music.apple.com-us-song-548566592
+      quote: July 23, 2012
+      accessed: '2026-11-21'
+      locator: Published date

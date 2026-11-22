@@ -2,7 +2,7 @@
 url: https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=dW6mqlIdEIA&format=json
 title: پشت صحنه‌ی کنسرت گروه موسیقی آن"با فراقت چند سازم"
 status: processed
-language: en
+language: fa
 tier: own
 about:
 - Hossein Rad

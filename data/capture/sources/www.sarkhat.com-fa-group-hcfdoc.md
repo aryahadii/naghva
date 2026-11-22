@@ -2,8 +2,8 @@
 url: https://www.sarkhat.com/fa/group/hcfdoc/
 title: iran
 status: processed
-language: en
-tier: own
+language: fa
+tier: journalism
 about:
 - Hossein Rad
 - Sanaz Sattarzadeh

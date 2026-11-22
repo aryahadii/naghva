@@ -10,6 +10,10 @@ statements:
       quote: Ghazal - song and lyrics by Karvan | Spotify
       accessed: '2026-11-21'
       locator: Page title
+    - source: open.spotify.com-album-6ea5qy5kzcfbv4apxazfrr
+      quote: Ghazal
+      accessed: '2026-11-21'
+      locator: Track 7
   performer:
   - value: Qepzbpa
     references:
@@ -17,6 +21,10 @@ statements:
       quote: Ghazal - song and lyrics by Karvan | Spotify
       accessed: '2026-11-21'
       locator: Page title
+    - source: etniskmusikklubb.no-produkt-where-the-music-traditions-from-baluchistan-persia-and-india-meet
+      quote: Javid Afsari Rad – Santor
+      accessed: '2026-11-21'
+      locator: Recording personnel
   - value: Qnn5esv
     references:
     - source: audio.urcm.net-musica-de-baluchistan-de-un-pueblo
@@ -29,6 +37,10 @@ statements:
       quote: Abdulrahman Surizehi & Javid Afsari Rad - Ghazal
       accessed: '2026-11-21'
       locator: Artist interview, biography or performance credits
+    - source: etniskmusikklubb.no-produkt-where-the-music-traditions-from-baluchistan-persia-and-india-meet
+      quote: Javid Afsari Rad – Santor
+      accessed: '2026-11-21'
+      locator: Recording personnel
   listen link:
   - value: https://open.spotify.com/track/6iQbDVME7gIaKONPjIj4N8
     references:
@@ -53,3 +65,11 @@ statements:
       credit:
         text: Original publisher artwork
         language: en
+  release date:
+  - value:
+      date: '2001'
+    references:
+    - source: open.spotify.com-album-6ea5qy5kzcfbv4apxazfrr
+      quote: '2001'
+      accessed: '2026-11-21'
+      locator: Original release

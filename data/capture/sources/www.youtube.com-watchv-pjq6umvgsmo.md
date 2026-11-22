@@ -2,7 +2,7 @@
 url: https://www.youtube.com/watch?v=Pjq6uMvGsmo
 title: ساناز ستارزاده، تکنوازی تار در آواز ابوعطا، زمستان ۱۴۰۰
 status: processed
-language: en
+language: fa
 tier: own
 about:
 - Hossein Rad

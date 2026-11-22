@@ -1,0 +1,57 @@
+id: Qzdphpp
+type: release
+statements:
+  name:
+  - value:
+      text: Quest
+      language: en
+    references:
+    - source: siamak-jahangiri-ap1463385430
+      quote: Quest
+      accessed: '2026-11-21'
+      locator: Track title and billing
+  release date:
+  - value:
+      date: '2019-02-20'
+    references:
+    - source: siamak-jahangiri-ap1463385430
+      quote: '2019-02-20'
+      accessed: '2026-11-21'
+      locator: Edition release date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/3f/af/47/3faf47d2-49d6-5f9a-ce17-edbb7e0a51ce/6260608006970.jpg/1200x630wp-60.jpg
+    references:
+    - source: siamak-jahangiri-ap1463385430
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/3f/af/47/3faf47d2-49d6-5f9a-ce17-edbb7e0a51ce/6260608006970.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Digital release artwork
+    qualifiers:
+      credit:
+        text: Apple Music, original edition artwork
+        language: en
+  performer:
+  - value: Qnz4xnz
+    references:
+    - source: siamak-jahangiri-ap1463385430
+      quote: Siamak Jahangiri
+      accessed: '2026-11-21'
+      locator: Distributor artist credit
+  - value: Qv2gej3
+    references:
+    - source: siamak-jahangiri-ap1463385430
+      quote: Farzad Fazli
+      accessed: '2026-11-21'
+      locator: Distributor artist credit
+  listen link:
+  - value: https://music.apple.com/us/song/quest/1463385440
+    references:
+    - source: siamak-jahangiri-ap1463385430
+      quote: https://music.apple.com/us/song/quest/1463385440
+      accessed: '2026-11-21'
+      locator: Exact edition or recording
+  - value: https://open.spotify.com/track/0eKiBgIZLezB4TowLuaObT
+    references:
+    - source: siamak-jahangiri-ed1upruwml8p0pvdtqjuermk
+      quote: spotify:track:0eKiBgIZLezB4TowLuaObT
+      accessed: '2026-11-21'
+      locator: Spotify recording

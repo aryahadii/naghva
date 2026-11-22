@@ -25,3 +25,7 @@ Published photograph and caption, read 2026-11-21.
 > a six-track EP, Back to My Future
 
 Published recording notes or original interview, read 2026-11-21.
+
+> In 2015, Khosravi was arrested and put on trial, sparking international support from the global metal community.
+
+ICORN on chronology of arrest, exile and residency, read 2026-11-21.

@@ -1,0 +1,72 @@
+id: Qmjec3q
+type: release
+statements:
+  name:
+  - value:
+      text: Reveal Your Face
+      language: en
+    references:
+    - source: siamak-jahangiri-ap1770081272
+      quote: Reveal Your Face
+      accessed: '2026-11-21'
+      locator: Album title
+  - value:
+      text: رخت بنما
+      language: fa
+    references:
+    - source: siamak-jahangiri-tg3153
+      quote: رخت بنما
+      accessed: '2026-11-21'
+      locator: Publisher catalogue title or programme
+  release date:
+  - value:
+      date: '2017-08-27'
+    references:
+    - source: siamak-jahangiri-ap1770081272
+      quote: '2017-08-27'
+      accessed: '2026-11-21'
+      locator: Edition release date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/eb/de/32/ebde3220-f77a-8021-9b3d-eff49ba45d5d/6260608006079.jpg/1200x630wp-60.jpg
+    references:
+    - source: siamak-jahangiri-ap1770081272
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/eb/de/32/ebde3220-f77a-8021-9b3d-eff49ba45d5d/6260608006079.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Digital release artwork
+    qualifiers:
+      credit:
+        text: Apple Music, original edition artwork
+        language: en
+  performer:
+  - value: Qnz4xnz
+    references:
+    - source: siamak-jahangiri-ap1770081272
+      quote: Siamak Jahangiri
+      accessed: '2026-11-21'
+      locator: Distributor artist credit
+  - value: Qpm5vrr
+    references:
+    - source: siamak-jahangiri-ap1770081272
+      quote: Ashkan Kamangari
+      accessed: '2026-11-21'
+      locator: Distributor artist credit
+  listen link:
+  - value: https://music.apple.com/us/album/reveal-your-face/1770081272
+    references:
+    - source: siamak-jahangiri-ap1770081272
+      quote: https://music.apple.com/us/album/reveal-your-face/1770081272
+      accessed: '2026-11-21'
+      locator: Exact edition or recording
+  - value: https://open.spotify.com/album/2MOmlq02NayVzRfkMvjuiD
+    references:
+    - source: siamak-jahangiri-ed2momlq02nayvzrfkmvjuid
+      quote: Reveal Your Face
+      accessed: '2026-11-21'
+      locator: Spotify release
+  release type:
+  - value: album
+    references:
+    - source: siamak-jahangiri-ap1770081272
+      quote: Reveal Your Face
+      accessed: '2026-11-21'
+      locator: Album

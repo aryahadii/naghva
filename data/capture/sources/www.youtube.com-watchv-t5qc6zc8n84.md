@@ -2,7 +2,7 @@
 url: https://www.youtube.com/watch?v=t5qc6ZC8n84
 title: پشتِ صحنه‌ی کنسرتِ گروهِ موسیقیِ آن "از من نشان"
 status: processed
-language: en
+language: fa
 tier: own
 about:
 - Hossein Rad

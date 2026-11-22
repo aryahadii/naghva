@@ -1,0 +1,54 @@
+id: Q8vhf6v
+type: release
+statements:
+  name:
+  - value:
+      text: Mirror
+      language: en
+    references:
+    - source: music.apple.com-us-album-mirror-single-1801755042
+      quote: Mirror
+      accessed: 2026-11-21
+      locator: Track 1
+  performer:
+  - value: Qghhr4e
+    references:
+    - source: music.apple.com-us-album-mirror-single-1801755042
+      quote: Mirror - Single · ASADI · 2025-03-14
+      accessed: 2026-11-21
+      locator: Album artist and issue date
+  listen link:
+  - value: https://music.apple.com/us/song/mirror/1801755043
+    references:
+    - source: music.apple.com-us-album-mirror-single-1801755042
+      quote: Mirror
+      accessed: 2026-11-21
+      locator: Track 1
+  - value: https://music.apple.com/us/album/mirror-single/1801755042
+    references:
+    - source: music.apple.com-us-album-mirror-single-1801755042
+      quote: Mirror - Single · ASADI · 2025-03-14
+      accessed: 2026-11-21
+      locator: Album artist and issue date
+  release date:
+  - value:
+      date: '2025-03-14'
+    references:
+    - source: music.apple.com-us-album-mirror-single-1801755042
+      quote: Mirror
+      accessed: 2026-11-21
+      locator: Track 1
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-mirror-single-1801755042
+      quote: Mirror
+      accessed: 2026-11-21
+      locator: Track 1
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/58/92/0b/58920bcb-d287-82ae-d725-f5c6dab8a30a/cover.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-mirror-single-1801755042
+      quote: Mirror
+      accessed: 2026-11-21
+      locator: Track 1

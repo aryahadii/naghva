@@ -158,24 +158,41 @@ The expansion started at revision fa6c29ca with 124 bilingual artist pages. The 
 | Siriya Ensemble | Qxyqq7z | 9.2/10 | [Independent review](siriya-ensemble-independent-review.md) |
 | Mohammad Laryan | Qd43wbp | 9.2/10 | [Independent review](mohammad-laryan-independent-review.md) |
 | Mehdi Moshtagh | Qqb9bnx | 9.3/10 | [Independent review](artist-page-scores.md) |
-| Saeid Shanbehzadeh | Qyd93n9 | Pending | [Catalogue](saeid-shanbehzadeh.md) |
-| Naghib Shanbehzadeh | Qvhrrm8 | Pending | [Catalogue](naghib-shanbehzadeh.md) |
-| Shanbehzadeh Ensemble | Qdtxp3v | Pending | [Catalogue](shanbehzadeh-ensemble.md) |
-| Rostam Mirlashari | Qzcqddt | Pending | [Catalogue](rostam-mirlashari.md) |
-| Golbang | Qqkpfb8 | Pending | [Catalogue](golbang.md) |
+| Saeid Shanbehzadeh | Qyd93n9 | 9.2/10 | [Independent review](artist-page-scores.md) |
+| Naghib Shanbehzadeh | Qvhrrm8 | 9.2/10 | [Independent review](artist-page-scores.md) |
+| Shanbehzadeh Ensemble | Qdtxp3v | 9.2/10 | [Independent review](artist-page-scores.md) |
+| Rostam Mirlashari | Qzcqddt | 9.2/10 | [Independent review](artist-page-scores.md) |
+| Golbang | Qqkpfb8 | 9.2/10 | [Independent review](artist-page-scores.md) |
 | Padik | Qrqshdh | 9.2/10 | [Independent review](padik-independent-review.md) |
-| Abdulrahman Surizehi | Qnn5esv | Pending | [Catalogue](abdulrahman-surizehi.md) |
-| Esfand | Qt394nr | Pending | [Catalogue](esfand.md) |
-| Rouzbeh Esfandarmaz | Qzchcs8 | Pending | [Catalogue](rouzbeh-esfandarmaz.md) |
-| Ensemble Delgosha | Qewdtv2 | Pending | [Catalogue](ensemble-delgosha.md) |
-| Sanaz Sattarzadeh | Qh2k5gg | Pending | [Catalogue](sanaz-sattarzadeh.md) |
-| Sina Danesh | Qq6ap28 | Pending | [Catalogue](sina-danesh.md) |
-| Ava Arehsazan | Qs6akyz | Pending | [Catalogue](ava-arehsazan.md) |
+| Abdulrahman Surizehi | Qnn5esv | 9.2/10 | [Independent review](artist-page-scores.md) |
+| Esfand | Qt394nr | 9.2/10 | [Independent review](esfand-independent-review.md) |
+| Rouzbeh Esfandarmaz | Qzchcs8 | 9.2/10 | [Independent review](rouzbeh-esfandarmaz-independent-review.md) |
+| Ensemble Delgosha | Qewdtv2 | 9.2/10 | [Independent review](artist-page-scores.md) |
+| Sanaz Sattarzadeh | Qh2k5gg | 9.2/10 | [Independent review](sanaz-sattarzadeh-independent-review.md) |
+| Sina Danesh | Qq6ap28 | 9.2/10 | [Independent review](sina-danesh-independent-review.md) |
+| Ava Arehsazan | Qs6akyz | 9.2/10 | [Independent review](ava-arehsazan-independent-review.md) |
 | Hossein Rad | Qvgmcwn | 9.2/10 | [Independent review](hossein-rad-independent-review.md) |
 | Ān Ensemble | Qvnj2sh | 9.2/10 | [Independent review](aan-ensemble-independent-review.md) |
-| Confess | Q45yvbw | Pending | [Catalogue](confess.md) |
-| Nikan Khosravi | Qyw82wb | Pending | [Catalogue](nikan-khosravi.md) |
-| Arash Ilkhani | Q9f666h | Pending | [Catalogue](arash-ilkhani.md) |
-| Karvan | Qepzbpa | Pending | [Catalogue](karvan.md) |
+| Confess | Q45yvbw | 9.2/10 | [Independent review](confess-independent-review.md) |
+| Nikan Khosravi | Qyw82wb | 9.2/10 | [Independent review](nikan-khosravi-independent-review.md) |
+| Arash Ilkhani | Q9f666h | 9.1/10 | [Independent review](arash-ilkhani-independent-review.md) |
+| Karvan | Qepzbpa | 9.2/10 | [Independent review](artist-page-scores.md) |
+| Vahideh Eisaei | Qp75qps | Pending | [Catalogue](vahideh-eisaei.md) |
+| The Resonant Heart | Qgwfnje | Pending | [Catalogue](the-resonant-heart.md) |
+| Daftar Aval Trio | Qcp73xn | 9.1/10 | [Independent review](daftar-aval-trio-independent-review.md) |
+| Marzi Montazeri | Qtpm2k9 | Pending | [Catalogue](marzi-montazeri.md) |
+| Heavy As Texas | Qrnbrx5 | Pending | [Catalogue](heavy-as-texas.md) |
+| Marjan Vahdat | Qtrh4vq | Pending | [Catalogue](marjan-vahdat.md) |
+| ASADI | Qghhr4e | Pending | [Catalogue](asadi.md) |
+| Siamak Jahangiri | Qnz4xnz | Pending | [Catalogue](siamak-jahangiri.md) |
+| Kaveh Sarvarian | Qy69pg7 | Pending | [Catalogue](kaveh-sarvarian.md) |
+| Cardamom Trio | Qw3ackf | Pending | [Catalogue](cardamom-trio.md) |
+| Darawish | Qyk58gj | Pending | [Catalogue](darawish.md) |
+| Parsinava | Q3xyyar | Pending | [Catalogue](parsinava.md) |
+| Sepideh Meshki | Qbz9d6v | Pending | [Catalogue](sepideh-meshki.md) |
+| Aria Mohafez | Qcvf546 | Pending | [Catalogue](aria-mohafez.md) |
+| Shahrzad Ensemble | Q4z6jy5 | Pending | [Catalogue](shahrzad-ensemble.md) |
+| Ensemble Mehr | Qa69txt | Pending | [Catalogue](ensemble-mehr.md) |
+| Azar Zargarian | Qhwvdn8 | Pending | [Catalogue](azar-zargarian.md) |
 
 The [discovery list](independent-artist-discovery.md) contains candidates with release leads. Some will prove ineligible or match an existing artist by another spelling. Only new artist pages count toward the target.

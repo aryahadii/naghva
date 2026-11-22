@@ -2,7 +2,7 @@
 url: https://t.me/mahoorinstitute/3650?embed=1
 title: Telegram Widget
 status: processed
-language: en
+language: fa
 tier: own
 about:
 - Hossein Rad

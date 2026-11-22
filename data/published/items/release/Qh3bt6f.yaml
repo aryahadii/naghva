@@ -1,0 +1,21 @@
+id: Qh3bt6f
+type: release
+statements:
+  name:
+  - value:
+      text: بدرقه‌ی ماه
+      language: fa
+    references:
+    - &id001
+      source: siamak-jahangiri-badraghe
+      quote: بدرقه‌ی ماه
+      accessed: '2026-11-21'
+      locator: Album issue
+  performer:
+  - value: Qnz4xnz
+    references:
+    - *id001
+  release type:
+  - value: album
+    references:
+    - *id001

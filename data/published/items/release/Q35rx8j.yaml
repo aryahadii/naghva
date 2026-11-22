@@ -1,0 +1,54 @@
+id: Q35rx8j
+type: release
+statements:
+  name:
+  - value:
+      text: 3 Wishes
+      language: en
+    references:
+    - source: music.apple.com-us-album-3-wishes-single-1512557536
+      quote: 3 Wishes
+      accessed: 2026-11-21
+      locator: Track 1
+  performer:
+  - value: Qghhr4e
+    references:
+    - source: music.apple.com-us-album-3-wishes-single-1512557536
+      quote: 3 Wishes - Single · ASADI, D Sharp · 2020-05-17
+      accessed: 2026-11-21
+      locator: Album artist and issue date
+  listen link:
+  - value: https://music.apple.com/us/song/3-wishes/1512557537
+    references:
+    - source: music.apple.com-us-album-3-wishes-single-1512557536
+      quote: 3 Wishes
+      accessed: 2026-11-21
+      locator: Track 1
+  - value: https://music.apple.com/us/album/3-wishes-single/1512557536
+    references:
+    - source: music.apple.com-us-album-3-wishes-single-1512557536
+      quote: 3 Wishes - Single · ASADI, D Sharp · 2020-05-17
+      accessed: 2026-11-21
+      locator: Album artist and issue date
+  release date:
+  - value:
+      date: '2020-05-17'
+    references:
+    - source: music.apple.com-us-album-3-wishes-single-1512557536
+      quote: 3 Wishes
+      accessed: 2026-11-21
+      locator: Track 1
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-3-wishes-single-1512557536
+      quote: 3 Wishes
+      accessed: 2026-11-21
+      locator: Track 1
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/21/66/4d/21664d58-6e9b-879e-f044-69563ad9b810/artwork.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-3-wishes-single-1512557536
+      quote: 3 Wishes
+      accessed: 2026-11-21
+      locator: Track 1

@@ -10,6 +10,22 @@ statements:
       quote: Siamak Jahangiri
       locator: Published artist, title or credits
       accessed: '2026-11-21'
+  - value:
+      text: سیامک جهانگیری
+      language: fa
+    references:
+    - source: siamak-jahangiri-juilliard
+      quote: سیامک جهانگیری
+      accessed: '2026-11-21'
+      locator: Artist profile, original programme, liner notes or interview
+  - value:
+      text: Siamak Jahangiry
+      language: en
+    references:
+    - source: siamak-jahangiri-primary
+      quote: Siamak Jahangiry
+      accessed: '2026-11-21'
+      locator: Academy’s Romanization
   member of:
   - value: Qewdtv2
     references:
@@ -19,3 +35,33 @@ statements:
       locator: 2014 original programme lineup
     qualifiers:
       role: ney
+  image:
+  - value: https://i.scdn.co/image/ab6761610000e5ebaa55f31894babf275c41a541
+    references:
+    - source: siamak-jahangiri-spotifyartist
+      quote: https://i.scdn.co/image/ab6761610000e5ebaa55f31894babf275c41a541
+      accessed: '2026-11-21'
+      locator: Artist profile portrait with clarinet
+    qualifiers:
+      credit:
+        text: Siamak Jahangiri, Spotify artist profile
+        language: en
+  profile link:
+  - value: https://open.spotify.com/artist/7kOV583WoLkeFOWxaMONpj
+    references:
+    - source: siamak-jahangiri-spotifyartist
+      quote: Siamak Jahangiri
+      accessed: '2026-11-21'
+      locator: Spotify artist profile
+  - value: https://music.apple.com/us/artist/siamak-jahangiri/7180588
+    references:
+    - source: siamak-jahangiri-ap1455167911
+      quote: https://music.apple.com/us/artist/siamak-jahangiri/7180588
+      accessed: '2026-11-21'
+      locator: Distributor artist profile
+  - value: https://music.apple.com/us/artist/siamak-jahangiry/1537920090
+    references:
+    - source: siamak-jahangiri-ap1541079949
+      quote: https://music.apple.com/us/artist/siamak-jahangiry/1537920090
+      accessed: '2026-11-21'
+      locator: Distributor artist profile

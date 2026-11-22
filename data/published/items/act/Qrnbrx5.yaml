@@ -1,0 +1,36 @@
+id: Qrnbrx5
+type: act
+statements:
+  name:
+  - value:
+      text: Heavy As Texas
+      language: en
+    references:
+    - source: metalnation.com-heavy-as-texas-featuring-members-of-exhorder-drops-energetic-video-for-king-of-fools
+      quote: Heavy As Texas
+      accessed: 2026-11-21
+      locator: Artist billing
+  image:
+  - value: https://metalnation.com/wp-content/uploads/2019/05/heavyastexas.jpg
+    qualifiers:
+      credit:
+        text: Heavy As Texas / Crunchy Western Records, press photograph
+        language: en
+    references:
+    - source: metalnation.com-heavy-as-texas-featuring-members-of-exhorder-drops-energetic-video-for-king-of-fools
+      quote: https://metalnation.com/wp-content/uploads/2019/05/heavyastexas.jpg
+      accessed: 2026-11-21
+      locator: Original artist image
+  profile link:
+  - value: https://open.spotify.com/artist/1cGWzbxzUBVZ9VhfJlUaT6
+    references:
+    - source: open.spotify.com-artist-1cgwzbxzubvz9vhfjluat6
+      quote: Listen to HEAVY AS TEXAS Songs | Spotify
+      accessed: 2026-11-21
+      locator: Native artist profile or artist-issued EP
+  - value: https://music.apple.com/us/artist/heavy-as-texas/1454726770
+    references:
+    - source: music.apple.com-us-artist-heavy-as-texas-1454726770
+      quote: ‎HEAVY AS TEXAS - Apple Music
+      accessed: 2026-11-21
+      locator: Native artist profile or artist-issued EP

@@ -1,0 +1,57 @@
+id: Qkxngg2
+type: release
+statements:
+  name:
+  - value:
+      text: Ahang Collection 2 (Ney Solo)
+      language: en
+    references:
+    - source: siamak-jahangiri-ap1802681793
+      quote: Ahang Collection 2 (Ney Solo)
+      accessed: '2026-11-21'
+      locator: Track title and billing
+  release date:
+  - value:
+      date: '2018-01-25'
+    references:
+    - source: siamak-jahangiri-ap1802681793
+      quote: '2018-01-25'
+      accessed: '2026-11-21'
+      locator: Edition release date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/37/e9/05/37e90567-3048-6035-043e-690011290e79/199350038006.jpg/1200x630wp-60.jpg
+    references:
+    - source: siamak-jahangiri-ap1802681793
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/37/e9/05/37e90567-3048-6035-043e-690011290e79/199350038006.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Digital release artwork
+    qualifiers:
+      credit:
+        text: Apple Music, original edition artwork
+        language: en
+  performer:
+  - value: Qnz4xnz
+    references:
+    - source: siamak-jahangiri-ap1802681793
+      quote: Siamak Jahangiri
+      accessed: '2026-11-21'
+      locator: Distributor artist credit
+  listen link:
+  - value: https://music.apple.com/us/song/ahang-collection-2-ney-solo/1802681969
+    references:
+    - source: siamak-jahangiri-ap1802681793
+      quote: https://music.apple.com/us/song/ahang-collection-2-ney-solo/1802681969
+      accessed: '2026-11-21'
+      locator: Exact edition or recording
+  - value: https://open.spotify.com/track/7s3cbidQk1NhwLxWANziGy
+    references:
+    - source: siamak-jahangiri-ed17hmasfobo0gb3gjlod4na
+      quote: spotify:track:7s3cbidQk1NhwLxWANziGy
+      accessed: '2026-11-21'
+      locator: Spotify recording
+  - value: https://open.spotify.com/album/17hmASfOBO0GB3gJlod4Na
+    references:
+    - source: siamak-jahangiri-ed17hmasfobo0gb3gjlod4na
+      quote: Ahang Collection 2 (Ney Solo)
+      accessed: '2026-11-21'
+      locator: Single release

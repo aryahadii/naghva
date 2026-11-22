@@ -105,10 +105,19 @@ references:
     quote: with words one more by Saadi
     locator: Original programme, liner notes or performer credit
     accessed: '2026-11-21'
+  cd:
+    source: www.womex.com-virtual-phm_records-sepideh_meshki-impatient_of
+    quote: CD (Compact Disc)
+    locator: Original programme, liner notes or performer credit
+    accessed: '2026-11-21'
+  digital:
+    source: music.apple.com-us-album-impatient-of-separation-1407034753
+    quote: '2018-06-26'
+    locator: Original programme, liner notes or performer credit
+    accessed: '2026-11-21'
 ---
-
 The Aan Ensemble formed in Iran in 1393, the year Mohammad Reza Lotfi died. Six musicians who had played in his Sheyda ensembles began meeting again. As percussionist Mehrzad Hoveyda recalled, they missed their teacher but still wanted to play together. Hoveyda, setar player Sepideh Meshki, santur player Aria Mohafez, ney player Houshmand Ebadi, tar player Sanaz Sattarzadeh and kamancheh player Sina Danesh became the founding members. They found the name Aan in a verse by Saadi about accepting whatever name one is given.[^s1][^s2][^s3][^s4][^s5]
 
-The six chose their programmes together, handing the artistic direction to a different member for each project and inviting singers to suit the music. Meshki composed their first album, Within Your Absence, When Shall I Last, sung by Mojtaba Asgari. Mohafez then wrote Bright Sun in memory of Lotfi. Mehdi Emami sang and Ava Arehsazan joined on oud. The ensemble played the music in Tehran’s Niavaran Cultural Centre in 2018 before Mahoor released the recording in 2023.[^s6][^s7][^s8][^s9][^s10][^s11][^s12][^s13][^s14]
+The six chose their programmes together, handing the artistic direction to a different member for each project and inviting singers to suit the music. Meshki composed their first album, Impatient of Separation, published on CD in 2017 and digitally in 2018,[^cd][^digital] sung by Mojtaba Asgari. Mohafez then wrote Bright Sun in memory of Lotfi. Mehdi Emami sang and Ava Arehsazan joined on oud. The ensemble played the music in Tehran’s Niavaran Cultural Centre in 2018 before Mahoor released the recording in 2023.[^s6][^s7][^s8][^s9][^s10][^s11][^s12][^s13][^s14]
 
 Sattarzadeh led the group at Niavaran in 2019 for Az Man Neshan. Its nine players recorded her compositions and arrangements for Neshan, released in London in 2025. In its opening prelude the whole ensemble plays. Solos for santur, setar and tar, two songs with words by Saadi, and a duet for kamancheh and ney give individual musicians room before the full group returns for “Gham Angīz.”[^s15][^s16][^s17][^s18][^s19][^s20][^s21]

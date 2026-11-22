@@ -10,6 +10,14 @@ statements:
       quote: Where The Music Traditions From Baluchistan, Persia And India Meet – Etnisk Musikklubb
       accessed: '2026-11-21'
       locator: Page title
+  - value:
+      text: Karvan
+      language: en
+    references:
+    - source: open.spotify.com-album-6ea5qy5kzcfbv4apxazfrr
+      quote: Karvan
+      accessed: '2026-11-21'
+      locator: Album title
   performer:
   - value: Qepzbpa
     references:
@@ -17,6 +25,10 @@ statements:
       quote: Karvan
       accessed: '2026-11-21'
       locator: Artist interview, biography or performance credits
+    - source: etniskmusikklubb.no-produkt-where-the-music-traditions-from-baluchistan-persia-and-india-meet
+      quote: Javid Afsari Rad – Santor
+      accessed: '2026-11-21'
+      locator: Recording personnel
   - value: Qnn5esv
     references:
     - source: etniskmusikklubb.no-produkt-where-the-music-traditions-from-baluchistan-persia-and-india-meet
@@ -29,6 +41,10 @@ statements:
       quote: Javid Afsari Rad – Santor
       accessed: '2026-11-21'
       locator: Artist interview, biography or performance credits
+    - source: etniskmusikklubb.no-produkt-where-the-music-traditions-from-baluchistan-persia-and-india-meet
+      quote: Javid Afsari Rad – Santor
+      accessed: '2026-11-21'
+      locator: Recording personnel
   - value: Qxvwmgh
     references:
     - source: etniskmusikklubb.no-produkt-where-the-music-traditions-from-baluchistan-persia-and-india-meet
@@ -58,6 +74,10 @@ statements:
       quote: Where The Music Traditions From Baluchistan, Persia And India Meet – Etnisk Musikklubb
       accessed: '2026-11-21'
       locator: Page title
+    - source: open.spotify.com-album-6ea5qy5kzcfbv4apxazfrr
+      quote: Karvan
+      accessed: '2026-11-21'
+      locator: Album title
   release date:
   - value:
       date: '2001'
@@ -66,6 +86,10 @@ statements:
       quote: EM05 / 2001
       accessed: '2026-11-21'
       locator: Artist interview, biography or performance credits
+    - source: open.spotify.com-album-6ea5qy5kzcfbv4apxazfrr
+      quote: '2001'
+      accessed: '2026-11-21'
+      locator: Original release
   listen link:
   - value: https://open.spotify.com/album/6eA5QY5KZcFbV4aPXazfRr
     references:

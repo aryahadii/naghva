@@ -2,7 +2,7 @@
 url: https://www.youtube.com/watch?v=sBx1WiZDfjQ
 title: کنسرت گروه موسیقی آن"با فراقت چند سازم"
 status: processed
-language: en
+language: fa
 tier: own
 about:
 - Hossein Rad

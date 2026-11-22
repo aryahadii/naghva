@@ -69,3 +69,7 @@ Track 10, read 2026-11-21.
 > Marzi Montazeri
 
 Published recording notes or original interview, read 2026-11-21.
+
+> After Goliath (feat. George Kollias, Marzi Montazeri)
+
+Band-issued recording credits, read 2026-11-21.

@@ -17,3 +17,23 @@ Track 4, read 2026-11-21.
 > The Corrupted · ASADI, Naghib Shanbehzadeh
 
 Track 5, read 2026-11-21.
+
+> ASADI, XYE
+
+Individual track credits, read 2026-11-21.
+
+> ASADI
+
+Individual track credits, read 2026-11-21.
+
+> ASADI, Naghib Shanbehzadeh, Shaho Andalibi
+
+Individual track credits, read 2026-11-21.
+
+> ASADI, Naghib Shanbehzadeh
+
+Individual track credits, read 2026-11-21.
+
+> ASADI, Shaho Andalibi
+
+Individual track credits, read 2026-11-21.

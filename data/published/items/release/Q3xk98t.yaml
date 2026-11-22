@@ -1,0 +1,57 @@
+id: Q3xk98t
+type: release
+statements:
+  name:
+  - value:
+      text: Pablo Hérnández & Kaveh Sarvarian - Pire farzane
+      language: en
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-pire-farzane
+      quote: Pire farzane | Pablo Hérnández & Kaveh Sarvarian | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qy69pg7
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-pire-farzane
+      quote: Pire farzane | Pablo Hérnández & Kaveh Sarvarian | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://kavehsarvarian.bandcamp.com/track/pire-farzane
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-pire-farzane
+      quote: Pire farzane | Pablo Hérnández & Kaveh Sarvarian | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/963055273
+    references:
+    - source: music.apple.com-us-song-963055273
+      quote: ‎Pire Farzane (feat. Pablo Hernández Ramos) - Song with Lyrics by Kaveh Sarvarian - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/37AnHNsC3dHPPnELhSmSle
+    references:
+    - source: open.spotify.com-track-37anhnsc3dhppnelhsmsle
+      quote: Pire Farzane (feat. Pablo Hernández Ramos) - song and lyrics by Kaveh Sarvarian, Pablo Hernández Ramos | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a3278775425_10.jpg
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-pire-farzane
+      quote: https://f4.bcbits.com/img/a3278775425_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Kaveh Sarvarian on Bandcamp
+        language: en
+  release date:
+  - value:
+      date: '2015-01-10'
+    references:
+    - source: music.apple.com-us-song-963055273
+      quote: January 10, 2015
+      accessed: '2026-11-21'
+      locator: Published date

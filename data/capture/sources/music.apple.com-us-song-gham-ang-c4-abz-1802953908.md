@@ -3,7 +3,7 @@ url: https://music.apple.com/us/song/gham-ang%C4%ABz/1802953908
 title: ‎Gham Angīz - Song with Lyrics by Sanaz Sattarzadeh - Apple Music
 status: processed
 language: en
-tier: own
+tier: discography
 about:
 - Hossein Rad
 - Sanaz Sattarzadeh

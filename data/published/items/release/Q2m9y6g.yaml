@@ -1,0 +1,84 @@
+id: Q2m9y6g
+type: release
+statements:
+  name:
+  - value:
+      text: نای بی‌ نوا
+      language: fa
+    references:
+    - source: shahrzad-film-pjpf5imrzpc
+      quote: نای بی‌ نوا
+      locator: Original performer’s video description
+      accessed: '2026-11-21'
+  - value:
+      text: گروه شهرزاد کنسرت فرهنگسرای نیاوران
+      language: fa
+    references:
+    - &id001
+      source: shahrzad-film-pjpf5imrzpc
+      quote: گروه شهرزاد کنسرت فرهنگسرای نیاوران
+      accessed: '2026-11-21'
+      locator: Performer or presenter archive
+  performer:
+  - value: Q4z6jy5
+    references:
+    - *id001
+  - value: Qpjthj7
+    references:
+    - *id001
+    qualifiers:
+      role: tombak
+  - value: Q4kgebf
+    references:
+    - *id001
+    qualifiers:
+      role: kamancheh
+  - value: Qwbv6gt
+    references:
+    - *id001
+    qualifiers:
+      role: vocals
+  - value: Qhwvdn8
+    references:
+    - *id001
+    qualifiers:
+      role: tar
+  - value: Qs6akyz
+    references:
+    - source: shahrzad-film-pjpf5imrzpc
+      quote: 'عود : آوا اره‌سازان'
+      accessed: '2026-11-21'
+      locator: Performer’s native video description
+    qualifiers:
+      role: oud
+  - value: Qne4jra
+    references:
+    - source: shahrzad-film-pjpf5imrzpc
+      quote: آیدین اره‌سازان
+      locator: Original performer’s video description
+      accessed: '2026-11-21'
+    qualifiers:
+      role: tar
+  - value: Qyh44zq
+    references:
+    - source: shahrzad-film-pjpf5imrzpc
+      quote: کاوه صادقیان
+      locator: Original performer’s video description
+      accessed: '2026-11-21'
+    qualifiers:
+      role: ney
+  listen link:
+  - value: https://www.youtube.com/watch?v=pJpF5iMRZpc
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/pJpF5iMRZpc/hqdefault.jpg
+    references:
+    - source: shahrzad-film-pjpf5imrzpc
+      quote: https://i.ytimg.com/vi/pJpF5iMRZpc/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Publisher performance still
+    qualifiers:
+      credit:
+        text: Nazanin Pedarsani (‫نازنین پدرثانی‬‎), original performance film
+        language: en

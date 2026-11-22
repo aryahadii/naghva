@@ -1,0 +1,73 @@
+id: Qkbpbcp
+type: release
+statements:
+  name:
+  - value:
+      text: چهار مضراب شور
+      language: fa
+    references:
+    - source: shahrzad-film-nguqwqd9orc
+      quote: چهار مضراب شور
+      locator: Original performer’s video description
+      accessed: '2026-11-21'
+  - value:
+      text: كنسرت گروه موسيقى شهرزاد در فرهنگسراى نياوران (Trio)
+      language: fa
+    references:
+    - &id001
+      source: shahrzad-film-nguqwqd9orc
+      quote: كنسرت گروه موسيقى شهرزاد در فرهنگسراى نياوران (Trio)
+      accessed: '2026-11-21'
+      locator: Performer or presenter archive
+  performer:
+  - value: Q4z6jy5
+    references:
+    - *id001
+  - value: Qhwvdn8
+    references:
+    - source: shahrzad-film-nguqwqd9orc
+      quote: Azar Zargarian
+      locator: Original performer’s video description
+      accessed: '2026-11-21'
+    qualifiers:
+      role: tar
+  - value: Qpjthj7
+    references:
+    - source: shahrzad-film-nguqwqd9orc
+      quote: Nazanin Pedarsani
+      locator: Original performer’s video description
+      accessed: '2026-11-21'
+    qualifiers:
+      role: tombak
+  - value: Qne4jra
+    references:
+    - source: shahrzad-film-nguqwqd9orc
+      quote: Aidin Arrehsazan
+      locator: Original performer’s video description
+      accessed: '2026-11-21'
+    qualifiers:
+      role: tar
+  listen link:
+  - value: https://www.youtube.com/watch?v=NguqWQd9oRc
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/NguqWQd9oRc/hqdefault.jpg
+    references:
+    - source: shahrzad-film-nguqwqd9orc
+      quote: https://i.ytimg.com/vi/NguqWQd9oRc/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Publisher performance still
+    qualifiers:
+      credit:
+        text: Nazanin Pedarsani (‫نازنین پدرثانی‬‎), original performance film
+        language: en
+  contributor:
+  - value: Qhwvdn8
+    references:
+    - source: shahrzad-film-nguqwqd9orc
+      quote: 'آهنگساز و تار : آذر زرگريان'
+      locator: Original performer’s video description
+      accessed: '2026-11-21'
+    qualifiers:
+      role: composer

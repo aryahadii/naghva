@@ -7,37 +7,42 @@ statements:
       language: en
     references:
     - source: music.apple.com-us-album-twinklings-of-hope-1530439508
-      quote: |-
-        Twinklings of Hope
+      quote: Twinklings of Hope
       accessed: '2026-11-13'
   release date:
   - value:
       date: '2012-01-27'
     references:
     - source: music.apple.com-us-album-twinklings-of-hope-1530439508
-      quote: |-
-        "datePublished":"2012-01-27"
+      quote: '"datePublished":"2012-01-27"'
       accessed: '2026-11-13'
   performer:
   - value: Qp2mk6b
     references:
     - source: music.apple.com-us-album-twinklings-of-hope-1530439508
-      quote: |-
-        [{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/mahsa-vahdat/65413022","name":"Mahsa Vahdat"},{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/marjan-vahdat/65414624","name":"Marjan Vahdat"}]
+      quote: '[{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/mahsa-vahdat/65413022","name":"Mahsa
+        Vahdat"},{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/marjan-vahdat/65414624","name":"Marjan
+        Vahdat"}]'
       accessed: '2026-11-13'
   - value: Qtrh4vq
     references:
     - source: music.apple.com-us-album-twinklings-of-hope-1530439508
-      quote: |-
-        [{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/mahsa-vahdat/65413022","name":"Mahsa Vahdat"},{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/marjan-vahdat/65414624","name":"Marjan Vahdat"}]
+      quote: '[{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/mahsa-vahdat/65413022","name":"Mahsa
+        Vahdat"},{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/marjan-vahdat/65414624","name":"Marjan
+        Vahdat"}]'
       accessed: '2026-11-13'
   listen link:
   - value: https://music.apple.com/us/album/twinklings-of-hope/1530439508
     references:
     - source: music.apple.com-us-album-twinklings-of-hope-1530439508
-      quote: |-
-        Twinklings of Hope
+      quote: Twinklings of Hope
       accessed: '2026-11-13'
+  - value: https://open.spotify.com/album/3ksVzPpOGVPI8Kd72EUQ58
+    references:
+    - source: open.spotify.com-album-3ksvzppogvpi8kd72euq58
+      quote: Twinklings of Hope · Mahsa Vahdat
+      accessed: 2026-11-21
+      locator: Native digital record
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a5/d8/e4/a5d8e4c8-9379-051e-e061-5d7741faeccd/7029971123764_Cover.jpg/1200x1200bb.jpg
     qualifiers:
@@ -46,6 +51,12 @@ statements:
         language: en
     references:
     - source: music.apple.com-us-album-twinklings-of-hope-1530439508
-      quote: |-
-        Twinklings of Hope
+      quote: Twinklings of Hope
       accessed: '2026-11-13'
+  release type:
+  - value: album
+    references:
+    - source: music.apple.com-us-album-twinklings-of-hope-1530439508
+      quote: Twinklings of Hope · Mahsa Vahdat, Marjan Vahdat · 2012-01-27
+      accessed: 2026-11-21
+      locator: Album artist and issue date

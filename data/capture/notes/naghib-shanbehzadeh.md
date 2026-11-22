@@ -211,3 +211,19 @@ The two accounts used by Saeid yielded 53 and 41 native YouTube films. Naghib pu
 - Bada Mobarak (Qbtq2wp) https://t.me/saeidshanbehzadeh/54 · https://t.me/saeidshanbehzadeh/384
 - L. Subramaniam, Corky Siegel and the Shanbehzadehs (Q7gqddg) https://t.me/saeidshanbehzadeh/90
 - سعید و نقیب شنبه‌زاده در بحرین (Qd8abrf) https://t.me/saeidshanbehzadeh/103
+- Iran #1 – Traditional Percussions (Qnm764h)
+
+The publisher’s nine tracks on SUPIWM_6025 appear in the same sequence and under the same titles on the digital album *The Soul of Trance*. Its original audio files follow.
+
+- [Khaliji](https://www.superpitch.co/wp-content/uploads/2024/11/01-–-Khaliji.mp3) (Q4dry68)
+- [Irani](https://www.superpitch.co/wp-content/uploads/2024/11/02-–-Irani.mp3) (Qvfeza7)
+- [The Soul of Trance](https://www.superpitch.co/wp-content/uploads/2024/12/SUPIWM_6025_03_The_Soul_of_Trans_Naghib_Shanbehzadeh_MAIN_SuperPitch_World_Map.mp3) (Qy5e5h8)
+- [Choupi Boushehri](https://www.superpitch.co/wp-content/uploads/2024/11/04-–-Choupi.mp3) (Qwyzqbf)
+- [Ahlel Hawa](https://www.superpitch.co/wp-content/uploads/2024/11/05-–-Ahlel-Hawa.mp3) (Q672jhy)
+- [Arabi](https://www.superpitch.co/wp-content/uploads/2024/11/06-–-Arabi.mp3) (Qx9j22f)
+- [Lanj](https://www.superpitch.co/wp-content/uploads/2024/11/07-–-Sheki.mp3) (Qpbg88c)
+- [Bandari](https://www.superpitch.co/wp-content/uploads/2024/11/08-–-Bandari.mp3) (Qv84v2b)
+- [Boushehr](https://www.superpitch.co/wp-content/uploads/2024/11/09-–-Boushehr.mp3) (Qpzenq8)
+- Preza Otan Pieis (Varka) (Qz49p4v)
+- Mystika Pos S'Agapo (Varka) (Q2nvxe6)
+- Gkel Gkel Aman (Varka) (Q7gbqq3)

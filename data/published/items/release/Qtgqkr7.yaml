@@ -1,0 +1,47 @@
+id: Qtgqkr7
+type: release
+statements:
+  name:
+  - value:
+      text: Ay Ke Buena
+      language: en
+    references:
+    - source: elana-sasson.bandcamp.com-track-ay-ke-buena
+      quote: Ay Ke Buena | Elana Sasson
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2025-04-18'
+    references:
+    - source: elana-sasson.bandcamp.com-album-in-between
+      quote: released April 18, 2025
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a1162375225_10.jpg
+    references:
+    - source: elana-sasson.bandcamp.com-album-in-between
+      quote: https://f4.bcbits.com/img/a1162375225_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Elana Sasson original album artwork
+        language: en
+  listen link:
+  - value: https://elana-sasson.bandcamp.com/track/ay-ke-buena
+    references:
+    - source: elana-sasson.bandcamp.com-track-ay-ke-buena
+      quote: Ay Ke Buena | Elana Sasson
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qy69pg7
+    references:
+    - source: elana-sasson.bandcamp.com-track-ay-ke-buena
+      quote: Kaveh Sarvarian - tombak
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: tombak

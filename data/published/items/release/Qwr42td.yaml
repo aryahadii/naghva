@@ -1,0 +1,65 @@
+id: Qwr42td
+type: release
+statements:
+  name:
+  - value:
+      text: The old man of the mountain
+      language: en
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-the-old-man-of-the-mountain
+      quote: The old man of the mountain | Kaveh Sarvarian, Hames Bitar | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qy69pg7
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-the-old-man-of-the-mountain
+      quote: The old man of the mountain | Kaveh Sarvarian, Hames Bitar | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qtj7y5p
+    references:
+    - source: kavehsarvarian.bandcamp.com-album-when-the-sun-rises
+      quote: 'Hames Bitar: Oud'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: oud
+  listen link:
+  - value: https://kavehsarvarian.bandcamp.com/track/the-old-man-of-the-mountain
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-the-old-man-of-the-mountain
+      quote: The old man of the mountain | Kaveh Sarvarian, Hames Bitar | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1680672440
+    references:
+    - source: music.apple.com-us-song-1680672440
+      quote: ‎The Old Man of the Mountain - Song with Lyrics by Kaveh Sarvarian & Hames Bitar - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/3G1cLD2Z30LCYH2TdY16lu
+    references:
+    - source: open.spotify.com-track-3g1cld2z30lcyh2tdy16lu
+      quote: The Old Man of the Mountain - song and lyrics by Kaveh Sarvarian, Hames Bitar | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a0285399359_10.jpg
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-the-old-man-of-the-mountain
+      quote: https://f4.bcbits.com/img/a0285399359_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Kaveh Sarvarian on Bandcamp
+        language: en
+  release date:
+  - value:
+      date: '2023-03-28'
+    references:
+    - source: kavehsarvarian.bandcamp.com-album-when-the-sun-rises
+      quote: released March 28, 2023
+      accessed: '2026-11-21'
+      locator: Published date

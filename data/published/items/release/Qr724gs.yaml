@@ -1,0 +1,51 @@
+id: Qr724gs
+type: release
+statements:
+  name:
+  - value:
+      text: Persépolis (feat. Pablo Hernández Ramos)
+      language: en
+    references:
+    - source: music.apple.com-us-song-963055277
+      quote: ‎Persépolis (feat. Pablo Hernández Ramos) - Song with Lyrics by Kaveh Sarvarian - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qy69pg7
+    references:
+    - source: music.apple.com-us-song-963055277
+      quote: ‎Persépolis (feat. Pablo Hernández Ramos) - Song with Lyrics by Kaveh Sarvarian - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://music.apple.com/us/song/963055277
+    references:
+    - source: music.apple.com-us-song-963055277
+      quote: ‎Persépolis (feat. Pablo Hernández Ramos) - Song with Lyrics by Kaveh Sarvarian - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/3kkEhoumVZw1b0L68udAd3
+    references:
+    - source: open.spotify.com-track-3kkehoumvzw1b0l68udad3
+      quote: Persépolis (feat. Pablo Hernández Ramos) - song and lyrics by Kaveh Sarvarian, Pablo Hernández Ramos | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/1d/13/65/1d136565-a7e8-b855-4288-a3cadea837fb/0742832444743.jpg/600x600bb.webp
+    references:
+    - source: music.apple.com-us-song-963055277
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/1d/13/65/1d136565-a7e8-b855-4288-a3cadea837fb/0742832444743.jpg/600x600bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original publisher artwork
+        language: en
+  release date:
+  - value:
+      date: '2015-01-10'
+    references:
+    - source: music.apple.com-us-song-963055277
+      quote: January 10, 2015
+      accessed: '2026-11-21'
+      locator: Published date

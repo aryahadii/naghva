@@ -1,0 +1,75 @@
+id: Qdgg8gj
+type: release
+statements:
+  name:
+  - value:
+      text: El rai de Bouazizi
+      language: en
+    references:
+    - source: darawish.bandcamp.com-track-el-rai-de-bouazizi
+      quote: El rai de Bouazizi | Darawish
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qyk58gj
+    references:
+    - source: darawish.bandcamp.com-track-el-rai-de-bouazizi
+      quote: El rai de Bouazizi | Darawish
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qy69pg7
+    references:
+    - source: darawish.bandcamp.com-album-madar
+      quote: Kaveh Sarvarian (ney, flute, tombak and vocals on 1,2, 6 & 8)
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: vocals
+  - value: Qdn3tth
+    references:
+    - source: darawish.bandcamp.com-album-madar
+      quote: Larbi Sassi
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: vocals
+  - value: Qja37cd
+    references:
+    - source: darawish.bandcamp.com-album-madar
+      quote: Mario Díaz Bermejo
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: keyboards
+  listen link:
+  - value: https://darawish.bandcamp.com/track/el-rai-de-bouazizi
+    references:
+    - source: darawish.bandcamp.com-track-el-rai-de-bouazizi
+      quote: El rai de Bouazizi | Darawish
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/el-rai-de-bouazizi/1495102499
+    references:
+    - source: music.apple.com-us-song-el-rai-de-bouazizi-1495102499
+      quote: ‎El Rai De Bouazizi - Song with Lyrics by Darawish - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a3857241456_10.jpg
+    references:
+    - source: darawish.bandcamp.com-album-madar
+      quote: https://f4.bcbits.com/img/a3857241456_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Darawish’s original album artwork
+        language: en
+  release date:
+  - value:
+      date: '2020-01-27'
+    references:
+    - source: darawish.bandcamp.com-album-madar
+      quote: released January 27, 2020
+      accessed: '2026-11-21'
+      locator: Published date

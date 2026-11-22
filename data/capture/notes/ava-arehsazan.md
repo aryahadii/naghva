@@ -16,6 +16,8 @@ Checked native Iranian ensemble recordings, publisher and concert documents, App
 - Pish Darāmade Dashti (Qrdc6gh) · https://music.apple.com/us/song/pish-dara-made-dashti/1802953593 · https://open.spotify.com/track/6gHe0cwkLYcdb7YTtBI1bk
 - Rokh Quartet live in Tehran (Qbnwxvf) · https://music.apple.com/us/album/rokh-quartet-live-in-tehran-ep/1795212310 · https://open.spotify.com/album/77EUAUleeBRi81eAAMN8hy
 - TAZE BE TAZE, a Tajik song form Shashmaqam تازه به تازه (Qyb9p69) · https://www.youtube.com/watch?v=5k_1Ajnf5TU
+- تصنيف "قدح" گروه موسيقى شهرزاد (Qj2g5mm) · https://www.youtube.com/watch?v=aXcVVU6CVs8
+- تصنيف بگو به باران (كنسرت گروه موسيقى شهرزاد) (Qcv2swc) · https://www.youtube.com/watch?v=BvHmRhuAALk
 - پشتِ صحنه‌ی کنسرتِ گروهِ موسیقیِ آن "از من نشان" (Q8wzsy6) · https://www.youtube.com/watch?v=t5qc6ZC8n84
 - پشتِ صحنه‌ی کنسرتِ گروهِ موسیقیِ آن"آفتاب روشن" (Q5ffjgv) · https://www.youtube.com/watch?v=wdTVS7LRtMM
 - کنسرت گروه موسیقی آن "از من نشان" (Qefcemq) · https://www.youtube.com/watch?v=rEje8g8uOBg

@@ -1,0 +1,21 @@
+id: Q5ztncx
+type: release
+statements:
+  name:
+  - value:
+      text: ردیف آوازی به روایت استاد محمود کریمی، دفتر اول
+      language: fa
+    references:
+    - &id001
+      source: siamak-jahangiri-tg4153
+      quote: ردیف آوازی به روایت استاد محمود کریمی
+      accessed: '2026-11-21'
+      locator: Publisher catalogue title or programme
+  performer:
+  - value: Qnz4xnz
+    references:
+    - *id001
+  release type:
+  - value: album
+    references:
+    - *id001

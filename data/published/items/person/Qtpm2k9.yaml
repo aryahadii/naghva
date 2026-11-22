@@ -1,0 +1,43 @@
+id: Qtpm2k9
+type: person
+statements:
+  name:
+  - value:
+      text: Marzi Montazeri
+      language: en
+    references:
+    - source: themetalden.com-rocket-interviews-guitarist-marzi-montazeri
+      quote: Marzi Montazeri
+      accessed: 2026-11-21
+      locator: Artist billing
+  image:
+  - value: https://themetalden.com/wp-content/uploads/MarziBLACKWHITE.jpg
+    qualifiers:
+      credit:
+        text: The Metal Den, artist interview
+        language: en
+    references:
+    - source: themetalden.com-rocket-interviews-guitarist-marzi-montazeri
+      quote: https://themetalden.com/wp-content/uploads/MarziBLACKWHITE.jpg
+      accessed: 2026-11-21
+      locator: Original artist image
+  profile link:
+  - value: https://open.spotify.com/artist/0LELMTwXFPDvnwpYG6yGJr
+    references:
+    - source: open.spotify.com-artist-0lelmtwxfpdvnwpyg6ygjr
+      quote: Listen to Marzi Montazeri Songs | Spotify
+      accessed: 2026-11-21
+      locator: Native artist profile or artist-issued EP
+  - value: https://marzimontazeri1.bandcamp.com
+    references:
+    - source: marzimontazeri1.bandcamp.com-album-the-uprising
+      quote: The Uprising | Marzi Montazeri
+      accessed: 2026-11-21
+      locator: Native artist profile or artist-issued EP
+  member of:
+  - value: Qrnbrx5
+    references:
+    - source: metalnation.com-heavy-as-texas-featuring-members-of-exhorder-drops-energetic-video-for-king-of-fools
+      quote: album was produced by Marzi Montazeri
+      accessed: 2026-11-21
+      locator: Band’s press release

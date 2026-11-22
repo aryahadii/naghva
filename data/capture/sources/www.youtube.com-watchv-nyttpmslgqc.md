@@ -2,7 +2,7 @@
 url: https://www.youtube.com/watch?v=nYTtPMSlgQc
 title: سینا دانش، تکنوازی کمانچه در دستگاه سه گاه، زمستان ۱۴۰۰
 status: processed
-language: en
+language: fa
 tier: own
 about:
 - Hossein Rad

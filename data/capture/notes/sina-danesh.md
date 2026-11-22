@@ -13,6 +13,7 @@ Checked native Iranian ensemble recordings, publisher and concert documents, App
 - Chahār Mezrāb Duet by Kamānche and Ney (Qnpatgs) · https://music.apple.com/us/song/chah%C4%81r-mezr%C4%81b-duet-by-kam%C4%81nche-and-ney/1802953729 · https://open.spotify.com/track/4Phvmu5Fw32pBthecBxwmk
 - Dashti / دشتی  - Sina Danesh and James Wylie (Persian Classical Music) (Qt8kqer) · https://www.youtube.com/watch?v=Vl9134u8KI8
 - Evocation of the Beloved (Qxna3nm)
+- Impatient of Separation (Qpnv7we) · https://music.apple.com/us/album/impatient-of-separation/1407034753 · https://open.spotify.com/album/03z9FKvuK7xqG48Zne5vbG
 - Kamanch solo (Qy7xv54) · https://music.apple.com/us/song/kamanch-solo/1813920378 · https://open.spotify.com/track/1hVil9K5YlGbTSSuEXaqC6
 - Neshan (Qfffnpm) · https://music.apple.com/us/album/neshan/1802953583 · https://open.spotify.com/album/1nGmoTTxYuc21nao9ls9Tk
 - Pendar (Qwc5y65) · https://music.apple.com/us/song/pendar/1813921001 · https://open.spotify.com/track/1Ear7cxF7SQgaRsa5zni9K
@@ -28,11 +29,12 @@ Checked native Iranian ensemble recordings, publisher and concert documents, App
 - TAZE BE TAZE, a Tajik song form Shashmaqam تازه به تازه (Qyb9p69) · https://www.youtube.com/watch?v=5k_1Ajnf5TU
 - The Marvel of Silence (Qwn3sfj)
 - Tāsh (Qavddxp)
-- Within Your Absence, When Shall I Last (Qpnv7we)
+- تکنوازیِ کمانچه، ساز و آوازِ دوم (Q3hxez7)
 - سینا دانش، تکنوازی کمانچه در دستگاه سه گاه، زمستان ۱۴۰۰ (Q62mamd) · https://www.youtube.com/watch?v=nYTtPMSlgQc
 - پشت صحنه‌ی کنسرت گروه موسیقی آن"با فراقت چند سازم" (Qrpa3wb) · https://www.youtube.com/watch?v=dW6mqlIdEIA
 - پشتِ صحنه‌ی کنسرتِ گروهِ موسیقیِ آن "از من نشان" (Q8wzsy6) · https://www.youtube.com/watch?v=t5qc6ZC8n84
 - پشتِ صحنه‌ی کنسرتِ گروهِ موسیقیِ آن"آفتاب روشن" (Q5ffjgv) · https://www.youtube.com/watch?v=wdTVS7LRtMM
+- کنسرت بزرگ همنوازان شیدا (Q6qtyyn)
 - کنسرت گروه موسیقی آن "از من نشان" (Qefcemq) · https://www.youtube.com/watch?v=rEje8g8uOBg
 - کنسرت گروه موسیقی آن"آفتاب روشن" (Qcvyvza) · https://www.youtube.com/watch?v=PpCt3n7vw_4
 - کنسرت گروه موسیقی آن"با فراقت چند سازم" (Qzvzyde) · https://www.youtube.com/watch?v=sBx1WiZDfjQ

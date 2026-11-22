@@ -19,10 +19,20 @@ statements:
       locator: Page title
   - value: Qzchcs8
     references:
-    - source: www.rouzbehesfand.com-pallett-band-videos
-      quote: Rouzbeh Esfand | Clarinetist & Music Producer, The Hague
+    - source: iranmusic.tv-watch-wmf43s1mbso
+      quote: 'کلارینت و وکال: روزبه اسفندارمز'
       accessed: '2026-11-21'
-      locator: Page title
+      locator: Original video description
+    qualifiers:
+      role: clarinet
+  - value: Qzchcs8
+    references:
+    - source: iranmusic.tv-watch-wmf43s1mbso
+      quote: 'کلارینت و وکال: روزبه اسفندارمز'
+      accessed: '2026-11-21'
+      locator: Original video description
+    qualifiers:
+      role: vocals
   listen link:
   - value: https://www.youtube.com/watch?v=wMf43s1MBSo
     references:

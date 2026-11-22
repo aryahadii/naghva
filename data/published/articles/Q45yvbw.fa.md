@@ -65,8 +65,26 @@ references:
     quote: Marzi Montazeri
     accessed: 2026-11-21
     locator: Published recording notes or original interview
+  arrest:
+    source: www.icorn.org-writers-artists-journalists-nikan-koshravi
+    quote: In 2015, Khosravi was arrested and put on trial, sparking international support from the global metal
+      community.
+    accessed: 2026-11-21
+    locator: ICORN on chronology of arrest, exile and residency
+  two:
+    source: www.confessband.com-about
+    quote: Nikan and Arash, two original members of Confess
+    accessed: 2026-11-21
+    locator: The band’s chronology
+  school:
+    source: www.kulturtanken.no-aktuelt-2020-produsentforum
+    quote: Metalbandet Confess og produsentene David Chocron og Gine Heien tok utfordringen
+    accessed: 2026-11-21
+    locator: Concert development with the band
 ---
 
 کانفس در ۲۰۱۰ در تهران شکل گرفت. موسیقی‌اش از دث‌متال و هاردکور دههٔ نود می‌آمد. نیکان خسروی می‌خواند و گیتار می‌زد و آرش ایلخانی ترن‌تیبل و سمپلر را به گروه آورد. نخستین آلبومشان «Beginning of Dominion» در ۲۰۱۲ منتشر شد. در ۲۰۱۴، سالی که ای‌پی شش‌قطعه‌ای «Back to My Future» بیرون آمد، خسروی نشر مستقل آپوزیت رکوردز را هم برای انتشار موسیقی‌شان در ایران راه انداخت.[^beg][^sound][^nickname][^opposite][^ep]
+
+پس از انتشار دومین آلبوم، «In Pursuit of Dreams»، در ۲۰۱۵، خسروی و ایلخانی بازداشت شدند. خسروی بعدتر به ترکیه رفت و سپس اقامت هنری هارستاد را پذیرفت. در نروژ وقتی قرار شد برای نوجوانان اجرا کنند، باید تصمیم می‌گرفتند چگونه این داستان را روی صحنه بگویند. با دیوید شوکرون و گینه هاین، تهیه‌کنندگان برنامه، روی حرف‌هایی که بین قطعه‌ها می‌زدند کار کردند.[^arrest][^two][^school]
 
 با رفتن به نروژ، هم ترکیب نوازنده‌ها و هم صدای گروه تغییر کرد. سراغ گیتارهای هفت‌سیم رفتند و آلبوم «Revenge at All Costs» را آنجا دوباره ضبط کردند. آلبوم با صداهایی از رسانه‌های ایران شروع می‌شود که آرام به «EVIN» می‌رسند؛ نام قطعه از زندانی می‌آید که خسروی و ایلخانی در آن حبس بودند. در «Destination Addiction» آواز، گیتار و باس با خسروی بود، ترن‌تیبل و سمپل با ایلخانی و درامز با جرج کولیاس. مرزی منتظری هم در «After Goliath» گیتار نواخت.[^strings][^res][^turkey][^intro][^nikan][^arash][^greece][^guitar]

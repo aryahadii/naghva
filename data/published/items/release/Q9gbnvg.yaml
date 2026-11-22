@@ -25,6 +25,8 @@ statements:
       quote: Aria Mohafez
       accessed: '2026-11-21'
       locator: Album headline billing
+    qualifiers:
+      role: santur
   listen link:
   - value: https://music.apple.com/us/song/bar-seh/1798590013
     references:

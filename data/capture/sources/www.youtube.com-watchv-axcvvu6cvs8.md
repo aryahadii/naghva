@@ -2,7 +2,7 @@
 url: https://www.youtube.com/watch?v=aXcVVU6CVs8
 title: تصنيف "قدح" گروه موسيقى شهرزاد
 status: processed
-language: en
+language: fa
 tier: own
 about:
 - Hossein Rad

@@ -14,12 +14,14 @@ statements:
       locator: Individual track
   performer:
   - value: Qvhrrm8
+    qualifiers:
+      role:
+      - percussion
     references:
-    - source: open.spotify.com-album-3ijdcbeasn4l2mtxpyas93
-      quote: Preza Otan Pieis · Dafné Kritharas, Camille El Bacha, Matthias Courbaud, Milàn Tabak, Naghib Shanbehzadeh,
-        Saddam Novruzbayov
+    - source: dafnekritharas.bandcamp.com-album-varka
+      quote: 'Naghib Shanbehzadeh : percussions (1,4,9)'
       accessed: 2026-11-21
-      locator: Track 1
+      locator: Original CD credits
   listen link:
   - value: https://music.apple.com/us/song/preza-otan-pieis-feat-camille-el-bacha-matthias/1577825079
     references:
@@ -34,6 +36,12 @@ statements:
       quote: Varka · Dafné Kritharas
       accessed: 2026-11-21
       locator: Spotify record
+  - value: https://dafnekritharas.bandcamp.com/track/preza-otan-pieis-2
+    references:
+    - source: dafnekritharas.bandcamp.com-album-varka
+      quote: Preza Otan Pieis
+      accessed: 2026-11-21
+      locator: Track 1
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/99/ab/64/99ab64eb-99eb-12bd-8174-79c4bcb05af1/3473351404020.jpg/1200x630bb.jpg
     references:
