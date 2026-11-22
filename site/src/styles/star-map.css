@@ -1,12 +1,15 @@
 /* The star map on the homepage: a preview under the search box that opens to fill the window. */
-.sky-home { --gold: #ffcd84; --aqua: #75f6df; position: relative; z-index: 1; width: min(100%, 1680px); margin: clamp(2px, .8vw, 12px) auto 0 }
+.sky-home { --gold: #e3b65c; --cream: #f1e3c6; position: relative; z-index: 1; width: min(100%, 1680px); margin: clamp(2px, .8vw, 12px) auto 0 }
 .sky-home[hidden] { display: none }
 /* The preview is as tall as the window allows while its foot stays near the fold. */
 /* Its cut edges fade into whatever the page paints behind it. */
-.sky-slot { --fade: linear-gradient(to bottom, transparent, #000 9%, #000 91%, transparent), linear-gradient(90deg, transparent, #000 5%, #000 95%, transparent); position: relative; height: clamp(260px, calc(100svh - 430px), 560px); background: radial-gradient(52% 62% at 50% 52%, rgb(69 91 219 / .13), transparent 72%); -webkit-mask-image: var(--fade); -webkit-mask-composite: source-in; mask-image: var(--fade); mask-composite: intersect; cursor: zoom-in; transition: transform .3s cubic-bezier(.2, .7, .2, 1) }
+.sky-slot { --fade: linear-gradient(to bottom, transparent, #000 9%, #000 91%, transparent), linear-gradient(90deg, transparent, #000 5%, #000 95%, transparent); position: relative; height: clamp(260px, calc(100svh - 430px), 560px); -webkit-mask-image: var(--fade); -webkit-mask-composite: source-in; mask-image: var(--fade); mask-composite: intersect; cursor: zoom-in; transition: transform .3s cubic-bezier(.2, .7, .2, 1) }
 .sky-slot:active { transform: scale(.994) }
 
 .sky-stage { position: absolute; inset: 0; overflow: hidden; animation: sky-arrive .9s ease-out }
+/* In the page the painted night melts away well before the edges, and the stars and clouds reach past it. */
+.sky-ground { --melt: linear-gradient(to bottom, transparent, #000 30%, #000 70%, transparent), linear-gradient(90deg, transparent, #000 20%, #000 80%, transparent); position: absolute; inset: 0; background: 50% 50% / cover no-repeat }
+.sky-stage[data-mode=preview] .sky-ground { -webkit-mask-image: var(--melt); -webkit-mask-composite: source-in; mask-image: var(--melt); mask-composite: intersect }
 .sky-field { position: absolute; top: 0; left: 0; transform-origin: 0 0; pointer-events: none }
 .sky-canvas { display: block; position: absolute; inset: 0; width: 100%; height: 100% }
 .sky-stage[data-mode=full] .sky-canvas { touch-action: none; cursor: grab }
@@ -17,14 +20,19 @@
 @keyframes sky-arrive { from { opacity: 0 } }
 
 .sky-comet { position: absolute; left: 0; top: 0; pointer-events: none; opacity: 0; transform-origin: 100% 50%; border-radius: 999px; background: linear-gradient(90deg, transparent, currentColor) }
-.sky-comet::after { content: ''; position: absolute; right: 0; top: 50%; width: 2px; height: 2px; transform: translateY(-50%); border-radius: 50%; background: #f5fff8; box-shadow: 0 0 3px currentColor }
-.sky-glints { position: absolute; left: 0; top: 0; transform-origin: 0 0; pointer-events: none }
-.sky-glints i { position: absolute; width: 16px; height: 16px; margin: -8px; opacity: 0; border-radius: 50%; background: radial-gradient(circle, #fff 0 4%, currentColor 8%, transparent 55%); animation: sky-glimmer 6s ease-in-out infinite }
-.sky-glints i::after { content: ''; position: absolute; inset: 1px; background: currentColor; clip-path: polygon(50% 0, 55% 44%, 92% 50%, 55% 55%, 50% 100%, 45% 55%, 8% 50%, 45% 44%) }
-@keyframes sky-glimmer {
-  0%, 58%, 100% { opacity: 0; transform: scale(.55) }
-  78% { opacity: .82; transform: scale(1.08) }
+.sky-comet::after { content: ''; position: absolute; right: 0; top: 50%; width: 2px; height: 2px; transform: translateY(-50%); border-radius: 50%; background: #fff6e0; box-shadow: 0 0 3px currentColor }
+/* The light of the stars is in a few layers, each coming and going at its own pace, so the sky is never still. */
+.sky-shine { position: absolute; left: 0; top: 0; transform-origin: 0 0; pointer-events: none }
+.sky-shine canvas { position: absolute; left: 0; top: 0 }
+.sky-shine canvas[hidden] { display: none }
+.sky-stage[data-unseen] .sky-shine canvas { animation-play-state: paused }
+.sky-twinkle { animation: sky-twinkle 6s ease-in-out infinite }
+.sky-glow { animation: sky-breathe 3.6s ease-in-out infinite alternate }
+@keyframes sky-twinkle {
+  0%, 30%, 100% { opacity: .08 }
+  62% { opacity: 1 }
 }
+@keyframes sky-breathe { from { opacity: .4 } }
 
 /* Round buttons that float over the sky. */
 .sky-round { flex: none; display: grid; place-items: center; width: 44px; height: 44px; border-radius: 50%; background: rgb(27 31 48 / .82); -webkit-backdrop-filter: blur(12px); backdrop-filter: blur(12px); box-shadow: 0 0 0 1px rgb(247 243 232 / .14); color: var(--ivory); transition: background .2s, color .2s, box-shadow .2s, opacity .3s }
@@ -44,7 +52,7 @@
 }
 
 /* The full view: the sky from edge to edge, with its controls floating over it. */
-.sky-full { position: fixed; inset: 0; width: 100%; height: 100vh; height: 100dvh; max-width: none; max-height: none; margin: 0; padding: 0; border: 0; overflow: hidden; background: radial-gradient(60% 55% at 50% 50%, rgb(69 91 219 / .1), transparent 72%), var(--ink); color: var(--ivory); transform-origin: 0 0; touch-action: none; overscroll-behavior: none }
+.sky-full { position: fixed; inset: 0; width: 100%; height: 100vh; height: 100dvh; max-width: none; max-height: none; margin: 0; padding: 0; border: 0; overflow: hidden; background: var(--ink); color: var(--ivory); transform-origin: 0 0; touch-action: none; overscroll-behavior: none }
 .sky-full::backdrop { background: var(--ink); animation: sky-arrive .3s ease-out }
 .sky-full:focus { outline: 0 }
 html.sky-lock, html.sky-lock body { overflow: hidden }
@@ -108,10 +116,10 @@ html[dir=rtl] .star-card-go { transform: scaleX(-1) }
 a.star-card-head:focus-visible .star-card-name, a.star-card-head:active .star-card-name { color: var(--coral-hi) }
 .star-card-links { display: flex; flex-wrap: wrap; gap: 4px 18px; margin-top: 12px; padding-top: 10px; border-top: 1px solid var(--line); font-size: 13px; line-height: 1.5; color: var(--ivory-2) }
 .star-card-links span { display: inline-flex; align-items: center; gap: 7px }
-/* The marks are the sky's own: a gold star for an artist, a blue-green point for a recording. */
+/* The marks are the sky's own: a gold star for an artist, a cream dot for a recording. */
 .star-mark { display: inline-block; flex: none; width: 10px; height: 10px }
 .star-mark.artist { background: var(--gold); clip-path: polygon(50% 0, 63% 36%, 100% 50%, 63% 64%, 50% 100%, 37% 64%, 0 50%, 37% 36%) }
-.star-mark.recording { width: 7px; height: 7px; border-radius: 50%; background: var(--aqua) }
+.star-mark.recording { width: 7px; height: 7px; border-radius: 50%; background: var(--cream) }
 
 /* A link that opens the map on one star covers the page until the map is there. */
 html.sky-deep body::after { content: ''; position: fixed; inset: 0; z-index: 90; background: radial-gradient(circle, #ffe1a6 0 1.5px, rgb(255 205 132 / .16) 2.5px, transparent 22px) 50% 50% / 44px 44px no-repeat, var(--ink); animation: sky-wait 1.6s ease-in-out infinite alternate }

@@ -45,11 +45,18 @@ test('the preview draws the whole sky and leaves the wheel to the page', async (
   const stars = places(await readSky(page));
   // Every star, the isolated ones too, has ink in the preview.
   await expect.poll(() => inked(page, stars)).toBe(stars.length);
-  const glints = page.locator('.sky-glints i:visible');
-  await expect(glints).toHaveCount(8);
-  await expect(glints.first()).toHaveCSS('animation-name', 'sky-glimmer');
+  // The stars' light comes and goes in layers, each at its own pace, and holds still when asked to.
+  const twinkles = page.locator('canvas.sky-twinkle');
+  await expect(twinkles).toHaveCount(4);
+  await expect(twinkles.first()).toHaveCSS('animation-name', 'sky-twinkle');
+  const paces = await twinkles.evaluateAll((layers) => layers.map((layer) => getComputedStyle(layer).animationDuration));
+  expect(new Set(paces).size).toBe(4);
+  expect(await twinkles.evaluateAll((layers: HTMLCanvasElement[]) => layers.every((layer) =>
+    layer.getContext('2d')!.getImageData(0, 0, layer.width, layer.height).data.some((value, i) => i % 4 === 3 && value > 0)))).toBe(true);
   await page.emulateMedia({ reducedMotion: 'reduce' });
-  await expect(glints.first()).toHaveCSS('animation-name', 'none');
+  await expect(twinkles.first()).toHaveCSS('animation-name', 'none');
+  const rests = await twinkles.evaluateAll((layers) => layers.map((layer) => getComputedStyle(layer).opacity));
+  expect(new Set(rests).size).toBe(4);
 
   await page.locator('.sky-slot').hover();
   await page.mouse.wheel(0, 240);

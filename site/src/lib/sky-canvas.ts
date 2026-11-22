@@ -1,3 +1,4 @@
+import { CLOUDS, LIGHT, MARK, MOON, chance, hueOf, type Hue, type SkyArt } from './sky-art';
 import { COMET_LIMIT, connectionBend, connectionPoint, skyComet } from './sky-comet';
 import type { SkyStar } from './sky-data';
 import { coastStep, gestureVelocity } from './sky-motion';
@@ -7,6 +8,10 @@ import { coastStep, gestureVelocity } from './sky-motion';
  * opened to fill the screen. The preview only shows itself off: it lights one
  * artist after another, follows the mouse, and leaves every scroll and swipe
  * to the page. The full view pans, zooms and flies to the star that is chosen.
+ *
+ * It is painted as a miniature, from the pieces in sky-art.ts. Nothing here
+ * repaints to keep the sky alive: the stars' light is in layers that the
+ * browser fades in and out by itself, each at its own pace.
  */
 
 type Point = { x: number; y: number };
@@ -18,6 +23,7 @@ export type SkyMode = 'preview' | 'full';
 
 export interface SkyOptions {
   lang: 'en' | 'fa';
+  art: SkyArt;
   /** The full view's name for a screen reader, and the ID of its keyboard instructions. */
   label: string;
   describedBy: string;
@@ -48,8 +54,6 @@ export interface SkyView {
   dispose(): void;
 }
 
-const GOLD = ['#ffd08a', '#ffac63', '#fff0b2', '#ffc276'];
-const JADE = ['#75f6df', '#4cd9e8', '#acfff2', '#72caff'];
 const MAX_ZOOM = 20;
 /** The preview lights one artist at a time: its links grow out, stay a while, and fade. */
 const BEACON = { first: 900, draw: 1000, hold: 3300, fade: 500, rest: 700, links: 18 };
@@ -61,54 +65,12 @@ const overlap = (a: Box, b: Box, gap: number) =>
   a.left < b.left + b.width + gap && a.left + a.width + gap > b.left &&
   a.top < b.top + b.height + gap && a.top + a.height + gap > b.top;
 
-function sparkle(ctx: CanvasRenderingContext2D, point: Point, r: number) {
-  ctx.beginPath();
-  ctx.moveTo(point.x, point.y - r);
-  ctx.quadraticCurveTo(point.x + r * 0.12, point.y - r * 0.12, point.x + r * 0.82, point.y);
-  ctx.quadraticCurveTo(point.x + r * 0.12, point.y + r * 0.12, point.x, point.y + r);
-  ctx.quadraticCurveTo(point.x - r * 0.12, point.y + r * 0.12, point.x - r * 0.82, point.y);
-  ctx.quadraticCurveTo(point.x - r * 0.12, point.y - r * 0.12, point.x, point.y - r);
-  ctx.fill();
-}
-
-/** An open band of light with a dark centre. Feather one side so it reads
- * as atmospheric haze rather than a boundary around a set of records. */
-function hollowHalo(colour: string) {
-  const sprite = document.createElement('canvas');
-  sprite.width = sprite.height = 192;
-  const paint = sprite.getContext('2d')!;
-  const radius = sprite.width / 2;
-  const band = paint.createRadialGradient(radius, radius, 0, radius, radius, radius);
-  for (const [stop, alpha] of [[0, 0], [.42, 0], [.61, .12], [.72, .24], [.83, .1], [1, 0]]) {
-    band.addColorStop(stop, `rgba(${colour},${alpha})`);
-  }
-  paint.fillStyle = band;
-  paint.fillRect(0, 0, sprite.width, sprite.height);
-  const fade = paint.createLinearGradient(0, sprite.height, sprite.width, 0);
-  fade.addColorStop(0, 'transparent');
-  fade.addColorStop(.36, 'rgba(0,0,0,.13)');
-  fade.addColorStop(.9, 'black');
-  paint.globalCompositeOperation = 'destination-in';
-  paint.fillStyle = fade;
-  paint.fillRect(0, 0, sprite.width, sprite.height);
-  return sprite;
-}
-
-// Cache the light falloff once per colour so a moving sky needs no per-star blur.
-function haloSprite(rgb: string) {
-  const sprite = document.createElement('canvas');
-  sprite.width = sprite.height = 48;
-  const glow = sprite.getContext('2d')!;
-  const gradient = glow.createRadialGradient(24, 24, 0, 24, 24, 24);
-  gradient.addColorStop(0, 'rgba(255,255,248,.96)');
-  gradient.addColorStop(.1, 'rgba(255,248,227,.87)');
-  gradient.addColorStop(.23, `rgba(${rgb},.36)`);
-  gradient.addColorStop(.48, `rgba(${rgb},.09)`);
-  gradient.addColorStop(1, `rgba(${rgb},0)`);
-  glow.fillStyle = gradient;
-  glow.fillRect(0, 0, 48, 48);
-  return sprite;
-}
+/** Seconds each layer of starlight takes to come and go. No two stay in step for long. */
+const TWINKLE = [3.7, 5.3, 7.1, 8.9];
+/** The light is soft, so its layers hold a quarter of the pixels the stars do. */
+const SOFT = .5;
+const INK = '#0c1330';
+const LEAF = '#eccb86';
 
 /** The camera lives in map coordinates, so resizing never changes which region is in view. */
 export function makeSky(stars: SkyStar[], options: SkyOptions): SkyView | null {
@@ -120,22 +82,31 @@ export function makeSky(stars: SkyStar[], options: SkyOptions): SkyView | null {
     parent.append(element);
     return element;
   };
+  const { art } = options;
+  // The painted night stays put while the sky moves over it.
+  add('span', 'sky-ground').style.backgroundImage = `url("${art.ground}")`;
   const field = add('canvas', 'sky-field');
-  const glints = add('span', 'sky-glints');
+  // The light of the stars and of the chosen star's links, over the field and moving with it.
+  const shine = add('span', 'sky-shine');
+  const twinkleLayers = TWINKLE.map((seconds, k) => {
+    const layer = add('canvas', 'sky-twinkle', shine);
+    layer.style.animationDuration = `${seconds}s`;
+    layer.style.animationDelay = `${-seconds * ((k * .37) % 1)}s`;
+    // Where each rests for a reader who asked for stillness: at a different stage of its glow.
+    layer.style.opacity = String(.3 + .18 * k);
+    return layer;
+  });
+  const glowLayer = add('canvas', 'sky-glow', shine);
   const trail = add('span', 'sky-trail');
   const canvas = add('canvas', 'sky-canvas');
-  const glintSlots = Array.from({ length: 16 }, (_, i) => {
-    const glint = add('i', '', glints);
-    glint.hidden = true;
-    glint.style.animationDuration = `${4.7 + ((i * 13) % 37) / 10}s`;
-    glint.style.animationDelay = `${-(i * 1.73)}s`;
-    return glint;
-  });
   for (let i = 0; i < COMET_LIMIT; i++) add('span', 'sky-comet', trail);
-  for (const layer of [field, glints, trail]) layer.setAttribute('aria-hidden', 'true');
+  for (const layer of [field, shine, trail]) layer.setAttribute('aria-hidden', 'true');
   const ctx = canvas.getContext('2d');
   const fieldContext = field.getContext('2d');
-  if (!ctx || !fieldContext) return null;
+  const twinkles = twinkleLayers.flatMap((layer) => layer.getContext('2d') ?? []);
+  const glow = glowLayer.getContext('2d');
+  if (!ctx || !fieldContext || !glow || twinkles.length < TWINKLE.length) return null;
+  const lights = [...twinkles, glow];
 
   const neighbours = stars.map((star) => star.links);
   // In the overview, show a few short, real links in each artist's neighbourhood.
@@ -377,38 +348,17 @@ export function makeSky(stars: SkyStar[], options: SkyOptions): SkyView | null {
     options.onSelect(index);
   }
 
-  const amberHalo = haloSprite('248,183,125');
-  const cyanHalo = haloSprite('98,199,237');
   // Stable exposure gives the same stars their character in both languages.
   const radiance = stars.map(star => {
     let hash = 2166136261;
     for (const char of star.key) hash = Math.imul(hash ^ char.charCodeAt(0), 16777619);
     return ((hash >>> 0) / 4294967296) ** 2;
   });
-  const glintStars = stars.flatMap((_, i) => radiance[i] > .98 || landmarks.has(i) ? [i] : []);
-  function placeGlints(active: Set<number>) {
-    const candidates = selected >= 0 ? [selected, ...active] : glintStars;
-    const visible = candidates.filter(i => {
-      const { x, y } = points[i];
-      return x >= -12 && x <= w + 12 && y >= -12 && y <= h + 12;
-    });
-    const count = Math.min(visible.length, glintSlots.length, w < 600 ? 8 : 16);
-    glintSlots.forEach((slot, k) => {
-      slot.hidden = k >= count;
-      if (slot.hidden) return;
-      const i = visible[Math.floor(k * visible.length / count)];
-      const { x, y } = points[i];
-      slot.style.left = x + overscan + 'px';
-      slot.style.top = y + overscan + 'px';
-      slot.style.color = stars[i].kind === 'artist' ? '#ffd598' : '#a6efff';
-    });
-  }
-  const landmarkIds = [...landmarks];
-  const hollows = [
-    { anchor: landmarkIds[0], image: hollowHalo('126,121,248'), radius: .21, angle: -.4 },
-    { anchor: landmarkIds[1], image: hollowHalo('51,210,217'), radius: .14, angle: -.72 },
-    { anchor: landmarkIds[2], image: hollowHalo('236,150,108'), radius: .12, angle: .28 },
-  ];
+  // So does each star's pigment, its cut of leaf, and whether and when its light comes and goes.
+  const hues = stars.map(hueOf);
+  const cuts = stars.map((star) => Math.floor(chance(star.key, 5) * MARK.variants));
+  const shines = stars.map((star) => star.page || chance(star.key, 9) < (star.kind === 'artist' ? .45 : .2));
+  const pulse = stars.map((star) => twinkles[Math.floor(chance(star.key, 11) * twinkles.length)]);
   let standardFont = '',
     activeFont = '';
   // Keep an overscanned raster of the field. While the camera stays inside it,
@@ -501,104 +451,136 @@ export function makeSky(stars: SkyStar[], options: SkyOptions): SkyView | null {
     const forward = strong ? edge[0] === focus : Math.random() < .5;
     const [i, j] = forward ? edge : [edge[1], edge[0]];
     const bend = strong ? connectionBend(i, j) : 0;
-    const warm = strong ? stars[focus].kind === 'artist' : stars[j].kind === 'artist';
     return {
-      key: previousEdge, bend, from: points[i], to: points[j], highlighted: strong, colour: warm ? '#ffe1a6' : '#abfff3',
+      key: previousEdge, bend, from: points[i], to: points[j], highlighted: strong, colour: `rgb(${LIGHT[hues[j]]})`,
       duration: lit.length && strong ? 1000 + Math.random() * 400 : undefined,
     };
   });
 
-  const tint = (index: number) => stars[index].kind === 'artist' ? '255,201,133' : '112,230,223';
   /** The curved link from a star to one it is linked with, or its first part while it grows. */
-  function strokeLink(ctx: CanvasRenderingContext2D, source: number, leaf: number, part = 1, alpha = 1) {
+  function traceLink(ctx: CanvasRenderingContext2D, source: number, leaf: number, part: number) {
     const from = points[source], to = points[leaf];
     const dx = to.x - from.x, dy = to.y - from.y;
     const bend = connectionBend(source, leaf);
     const control = { x: from.x + dx / 2 - dy * bend, y: from.y + dy / 2 + dx * bend };
     const end = part < 1 ? connectionPoint(from, to, bend, part) : to;
-    const gradient = ctx.createLinearGradient(from.x, from.y, to.x, to.y);
-    gradient.addColorStop(0, `rgba(${tint(source)},${.26 * alpha})`);
-    gradient.addColorStop(.28, `rgba(${tint(source)},${.49 * alpha})`);
-    gradient.addColorStop(1, `rgba(${tint(leaf)},${.32 * alpha})`);
-    ctx.strokeStyle = gradient;
     ctx.beginPath();
     ctx.moveTo(from.x, from.y);
     ctx.quadraticCurveTo(mix(from.x, control.x, part), mix(from.y, control.y, part), end.x, end.y);
+  }
+  /** A pen line in gold that takes on the pigment of the star it reaches. */
+  function strokeLink(ctx: CanvasRenderingContext2D, source: number, leaf: number, part = 1, alpha = 1) {
+    const from = points[source], to = points[leaf];
+    const ink = ctx.createLinearGradient(from.x, from.y, to.x, to.y);
+    ink.addColorStop(0, `rgba(${LIGHT.gold},${.75 * alpha})`);
+    ink.addColorStop(1, `rgba(${LIGHT[hues[leaf]]},${.85 * alpha})`);
+    ctx.strokeStyle = ink;
+    ctx.lineWidth = 1.1;
+    traceLink(ctx, source, leaf, part);
     ctx.stroke();
   }
-  // A phone fits the same sky into far fewer pixels. Resolve its fainter stars
-  // as points of light and gradually spread their rays as the reader zooms.
-  let markScale = 1;
-  // Records form the fine dust. Artist stars stay readable above them at every zoom.
-  // `level` 1 is a star lit by its link to the chosen one; 2 is the chosen or pointed-at star.
-  function mark(ctx: CanvasRenderingContext2D, i: number, level: 0 | 1 | 2, alpha = 1) {
-    const { x, y } = points[i];
-    if (x < -30 - overscan || x > w + 30 + overscan || y < -30 - overscan || y > h + 30 + overscan) return;
-    const star = stars[i];
-    const artist = star.kind === 'artist';
-    const palette = artist ? GOLD : JADE;
-    const accent = palette[i % palette.length];
-    const light = radiance[i];
-    const baseRadius = artist ? (star.page ? 4.5 : 2.25) : 1.25;
-    const r = level === 2 ? 7 : level === 1 ? 3.8 : baseRadius * markScale * (.74 + light * 1.05);
-    // With a star chosen, the stars it is not linked to step well back.
-    const quiet = !level && selected >= 0;
-    ctx.globalAlpha = level ? alpha : (.44 + .56 * Math.sqrt(light)) * (quiet ? .2 : 1);
-    ctx.fillStyle = accent;
-    if (level || (!quiet && (light > .64 || star.page))) {
-      const halo = r * (level === 2 ? 4 : 2.6 + light);
-      ctx.drawImage(artist ? amberHalo : cyanHalo, x - halo, y - halo, 2 * halo, 2 * halo);
-    }
-    if (artist || level === 2) {
-      sparkle(ctx, points[i], r);
-    } else {
-      ctx.beginPath();
-      ctx.arc(x, y, r, 0, 2 * Math.PI);
-      ctx.fill();
-    }
-    if (level || light > .58 || star.page) {
-      ctx.fillStyle = artist ? '#fff3d7' : '#e8fffc';
-      ctx.beginPath();
-      ctx.arc(x, y, Math.max(.55, r * (artist ? .39 : .54)), 0, 2 * Math.PI);
-      ctx.fill();
-    }
-    if (level === 2) {
-      ctx.strokeStyle = accent;
-      ctx.lineWidth = 1.2;
-      ctx.beginPath();
-      ctx.arc(x, y, 11.5, 0, 2 * Math.PI);
+  /** The light a link sheds around itself. */
+  function glowLink(ctx: CanvasRenderingContext2D, source: number, leaf: number, part = 1, alpha = 1) {
+    const from = points[source], to = points[leaf];
+    const rgb = LIGHT[hues[leaf]];
+    ctx.save();
+    ctx.globalCompositeOperation = 'lighter';
+    for (const [width, strength] of [[10, .05], [5.5, .09], [2.6, .13]]) {
+      // Many links meet at their star, where their light together would drown it.
+      const rise = ctx.createLinearGradient(from.x, from.y, to.x, to.y);
+      rise.addColorStop(.04, `rgba(${rgb},0)`);
+      rise.addColorStop(.45, `rgba(${rgb},${strength * alpha})`);
+      ctx.lineWidth = width;
+      ctx.strokeStyle = rise;
+      traceLink(ctx, source, leaf, part);
       ctx.stroke();
     }
+    ctx.restore();
+  }
+  // A phone fits the same sky into far fewer pixels. Its fainter stars are
+  // painted smaller, and grow as the reader zooms.
+  let markScale = 1;
+  /** One mark cut from the sheet of its pigment, from the smallest sheet that still holds it sharp. */
+  function stamp(ctx: CanvasRenderingContext2D, hue: Hue, cut: number, row: number, x: number, y: number, size: number) {
+    const sheets = art.sheets[hue];
+    let step = 0;
+    while (step < sheets.length - 1 && MARK.cell / 2 ** (step + 1) >= size * ratio) step++;
+    const cell = MARK.cell / 2 ** step;
+    ctx.drawImage(sheets[step], cut * cell, row * cell, cell, cell, x - size / 2, y - size / 2, size, size);
+  }
+  function shed(ctx: CanvasRenderingContext2D, i: number, x: number, y: number, reach: number, alpha: number) {
+    ctx.globalAlpha = Math.min(1, alpha);
+    ctx.drawImage(art.halos[hues[i]], x - reach, y - reach, 2 * reach, 2 * reach);
+  }
+  // Recordings are the fine dots. Artists stay readable above them at every zoom: an
+  // eight-pointed star for one with a page, a four-pointed one for the others.
+  // `level` 1 is a star lit by its link to the chosen one; 2 is the chosen star, or the one pointed at.
+  function mark(ctx: CanvasRenderingContext2D, i: number, level: 0 | 1 | 2, alpha = 1, pointed = false) {
+    const { x, y } = points[i];
+    if (x < -40 - overscan || x > w + 40 + overscan || y < -40 - overscan || y > h + 40 + overscan) return;
+    const star = stars[i];
+    const artist = star.kind === 'artist';
+    const bright = radiance[i];
+    const r = (artist ? (star.page ? 4.5 : 2.25) : 1.25) * markScale * (.74 + bright * 1.05);
+    const big = artist && (star.page || level === 2);
+    // The chosen star and its ring are a little smaller where the whole sky is.
+    const grand = w < 600 ? .8 : 1;
+    const size = big ? (level === 2 ? (pointed ? 24 : 38 * grand) : level ? 15 : Math.max(5, r * 3.5))
+      : artist ? (level ? 12 : Math.max(4, r * 3.6))
+      : level === 2 ? (pointed ? 11 : 17) : level ? 7.5 : Math.max(2.1, r * 2.35);
+    // With a star chosen, the stars it is not linked to step well back.
+    const quiet = !level && selected >= 0;
+    const strength = level ? alpha : (.6 + .4 * Math.sqrt(bright)) * (quiet ? .2 : 1);
+    const reach = size * (big ? 1 : artist ? 1.2 : 1.7) * (level === 2 ? 1.2 : 1);
+    if (level === 2) {
+      ctx.strokeStyle = LEAF;
+      for (const [radius, width, part] of pointed ? [[15, 1.1, .55]] : [[24 * grand, 1.4, .8], [30 * grand, 1, .3]]) {
+        ctx.globalAlpha = strength * part;
+        ctx.lineWidth = width;
+        ctx.beginPath();
+        ctx.arc(x, y, radius, 0, 2 * Math.PI);
+        ctx.stroke();
+      }
+    }
+    if (level) {
+      ctx.globalCompositeOperation = 'lighter';
+      shed(ctx, i, x, y, reach * 1.5, .34 * strength);
+      ctx.globalCompositeOperation = 'source-over';
+    }
+    ctx.globalAlpha = strength;
+    // A cream dot is cut from the painted cream ones. Chosen, it is gold, so that it stands out.
+    const cream = !artist && hues[i] === 'cream';
+    const row = big ? MARK.star : artist ? MARK.spark : cream && level < 2 ? MARK.pearl : MARK.dot;
+    stamp(ctx, cream ? 'gold' : hues[i], cuts[i], row, x, y, size);
     ctx.globalAlpha = 1;
+    // The part of its light that comes and goes is in a layer of its own.
+    if (ctx !== fieldContext || quiet || !(level || shines[i])) return;
+    const layer = pulse[i];
+    shed(layer, i, x, y, reach * (big ? 2.15 : artist ? 2.1 : 2.25), (level === 2 ? .3 : level ? .42 : .6) * strength);
+    if (level < 2) shed(layer, i, x, y, size * .8, .5 * strength);
   }
 
   function paintField(ctx: CanvasRenderingContext2D, active: Set<number>) {
-    if (scale < 2.5) {
-      ctx.save();
-      ctx.globalAlpha = Math.min(1, (2.5 - scale) / 1.5) * (selected < 0 ? .85 : .25);
-      for (const hollow of hollows) {
-        const anchor = points[hollow.anchor];
-        if (!anchor) continue;
-        const r = Math.min(w, h) * hollow.radius * scale;
+    // The cloud bands and the moon are the sky's landmarks. Close up they would only blur, so they withdraw.
+    const far = clamp((5 - scale) / 3, 0, 1);
+    if (far > 0) {
+      const unit = scale * spanX();
+      ctx.globalAlpha = far * (selected < 0 ? .92 : .5);
+      for (const cloud of CLOUDS) {
+        const image = art.clouds[cloud.image];
+        const wide = cloud.wide * unit, tall = wide * image.naturalHeight / image.naturalWidth;
+        const { x, y } = project(cloud);
+        if (x + wide < -overscan || x - wide > w + overscan || y + tall < -overscan || y - tall > h + overscan) continue;
         ctx.save();
-        ctx.translate(anchor.x, anchor.y);
-        ctx.rotate(hollow.angle);
-        ctx.drawImage(hollow.image, -r, -r * .64, 2 * r, 1.28 * r);
+        ctx.translate(x, y);
+        if (cloud.flip) ctx.scale(-1, 1);
+        ctx.drawImage(image, -wide / 2, -tall / 2, wide, tall);
         ctx.restore();
       }
-      ctx.restore();
-    }
-    // Diffuse light accumulates around dense parts of the catalogue, tracing its arms.
-    if (scale < 4) {
-      ctx.save();
-      ctx.globalAlpha = (1 - scale / 4) * (selected < 0 ? .13 : .02);
-      const mist = Math.min(w, h) * .059 * Math.sqrt(scale);
-      for (let i = 0; i < stars.length; i += 5) {
-        const { x, y } = points[i];
-        if (x + mist < -overscan || x - mist > w + overscan || y + mist < -overscan || y - mist > h + overscan) continue;
-        ctx.drawImage(stars[i].kind === 'artist' ? amberHalo : cyanHalo, x - mist, y - mist, mist * 2, mist * 2);
-      }
-      ctx.restore();
+      const moon = project(MOON), across = MOON.wide * unit;
+      ctx.globalAlpha = far * (selected < 0 ? .95 : .55);
+      ctx.drawImage(art.moon, moon.x - across / 2, moon.y - across / 2, across, across * art.moon.naturalHeight / art.moon.naturalWidth);
+      ctx.globalAlpha = 1;
     }
     paintedEdges.length = 0;
     function edge(i: number, j: number) {
@@ -608,8 +590,8 @@ export function makeSky(stars: SkyStar[], options: SkyOptions): SkyView | null {
       ctx.lineTo(points[j].x, points[j].y);
     }
     ctx.beginPath();
-    ctx.strokeStyle = selected >= 0 ? 'rgba(137,199,208,.045)' : 'rgba(143,210,217,.33)';
-    ctx.lineWidth = 0.72;
+    ctx.strokeStyle = `rgba(226,190,120,${selected >= 0 ? .04 : .17})`;
+    ctx.lineWidth = 0.6;
     if (scale < 3.5) {
       for (const [i, j] of links) edge(i, j);
     } else {
@@ -624,18 +606,19 @@ export function makeSky(stars: SkyStar[], options: SkyOptions): SkyView | null {
     ctx.stroke();
     if (selected >= 0) {
       ctx.save();
-      ctx.lineWidth = 1.5;
-      ctx.lineCap = 'round';
-      for (const leaf of active) {
-        strokeLink(ctx, selected, leaf, 1, 1.5);
-        paintedEdges.push([selected, leaf]);
+      ctx.lineCap = glow!.lineCap = 'round';
+      for (const other of active) {
+        glowLink(glow!, selected, other);
+        strokeLink(ctx, selected, other);
+        paintedEdges.push([selected, other]);
       }
       ctx.restore();
     }
     const level = (i: number) => (i === selected || i === hovered ? 2 : active.has(i) ? 1 : 0);
-    for (const [i, star] of stars.entries()) if (star.kind === 'recording') mark(ctx, i, level(i));
-    for (const [i, star] of stars.entries()) if (star.kind === 'artist') mark(ctx, i, level(i));
-    if (hovered >= 0) mark(ctx, hovered, 2);
+    for (const [i, star] of stars.entries()) if (star.kind === 'recording' && !level(i)) mark(ctx, i, 0);
+    for (const [i, star] of stars.entries()) if (star.kind === 'artist' && !level(i)) mark(ctx, i, 0);
+    for (const i of active) if (i !== selected && i !== hovered) mark(ctx, i, 1);
+    if (hovered >= 0 && hovered !== selected) mark(ctx, hovered, 2, 1, true);
     if (selected >= 0) mark(ctx, selected, 2);
   }
 
@@ -653,28 +636,28 @@ export function makeSky(stars: SkyStar[], options: SkyOptions): SkyView | null {
     const pace = Math.min(34, 320 / Math.max(1, leaves.length));
     const reach = (k: number) => clamp((age - 140 - k * pace) / 520, 0, 1);
     ctx.save();
-    ctx.lineWidth = 1.35;
     ctx.lineCap = 'round';
-    leaves.forEach((leaf, k) => {
+    leaves.forEach((other, k) => {
       const t = reach(k);
-      if (t > 0) strokeLink(ctx, star, leaf, 1 - (1 - t) ** 3, alpha);
+      if (t <= 0) return;
+      glowLink(ctx, star, other, 1 - (1 - t) ** 3, alpha);
+      strokeLink(ctx, star, other, 1 - (1 - t) ** 3, alpha);
     });
     ctx.restore();
-    leaves.forEach((leaf, k) => {
+    leaves.forEach((other, k) => {
       const t = clamp((reach(k) - .8) / .2, 0, 1);
-      if (t > 0) mark(ctx, leaf, 1, t * alpha);
+      if (t > 0) mark(ctx, other, 1, t * alpha);
     });
     const arrival = clamp(age / 220, 0, 1);
     mark(ctx, star, 2, arrival * alpha);
     // A ring opens from the star, as a ripple does under a fingertip.
     const ripple = clamp(age / BEACON.draw, 0, 1);
     if (ripple < 1) {
-      const palette = stars[star].kind === 'artist' ? GOLD : JADE;
       ctx.globalAlpha = .6 * (1 - ripple) * alpha;
-      ctx.strokeStyle = palette[star % palette.length];
+      ctx.strokeStyle = LEAF;
       ctx.lineWidth = 1.4;
       ctx.beginPath();
-      ctx.arc(points[star].x, points[star].y, 11.5 + 34 * (1 - (1 - ripple) ** 3), 0, 2 * Math.PI);
+      ctx.arc(points[star].x, points[star].y, (w < 600 ? 24 : 30) + 34 * (1 - (1 - ripple) ** 3), 0, 2 * Math.PI);
       ctx.stroke();
       ctx.globalAlpha = 1;
     }
@@ -776,8 +759,13 @@ export function makeSky(stars: SkyStar[], options: SkyOptions): SkyView | null {
       markScale = clamp(densityScale * Math.pow(scale, 0.34), 0.48, 1.4);
       fieldContext.setTransform(ratio, 0, 0, ratio, overscan * ratio, overscan * ratio);
       fieldContext.clearRect(-overscan, -overscan, fieldWidth, fieldHeight);
+      for (const layer of lights) {
+        const soft = layer.canvas.width / fieldWidth;
+        layer.setTransform(soft, 0, 0, soft, overscan * soft, overscan * soft);
+        layer.clearRect(-overscan, -overscan, fieldWidth, fieldHeight);
+      }
       paintField(fieldContext, active);
-      placeGlints(active);
+      glowLayer.hidden = selected < 0;
       cache = { centre: { ...centre }, scale, selected, hovered };
       left = top = -overscan;
       magnification = 1;
@@ -788,11 +776,11 @@ export function makeSky(stars: SkyStar[], options: SkyOptions): SkyView | null {
     if (stage.dataset.zoom !== zoomed) stage.dataset.zoom = zoomed;
     stage.toggleAttribute('data-fitted', scale <= 1.001 && distance(centre, { x: .5, y: .5 }) < .002);
 
-    glints.style.transform = field.style.transform;
+    shine.style.transform = field.style.transform;
 
     const lit = mode === 'preview' ? paintBeacon(now) : { alpha: 0, live: false };
     // The rest of the sky steps back while one artist is lit.
-    field.style.opacity = lit.alpha ? String(1 - .34 * lit.alpha) : '';
+    field.style.opacity = shine.style.opacity = lit.alpha ? String(1 - .4 * lit.alpha) : '';
     const covered = placeCard();
     // The card names the chosen star, so no other name stands right by it, where it would read as its own.
     const held = covered ? { left: points[selected].x - 70, top: points[selected].y - 42, width: 140, height: 84 } : null;
@@ -813,7 +801,9 @@ export function makeSky(stars: SkyStar[], options: SkyOptions): SkyView | null {
       const width = Math.min(ctx.measureText(stars[i].name).width + 12, w * 0.78);
       const height = priority ? 23 : 19;
       const left = clamp(x - width / 2, 4, w - width - 4);
-      const candidates = [y + (priority ? 15 : 5), y - height - (priority ? 15 : 6)];
+      // A name stands clear of the ring around its star.
+      const clear = !priority ? 5 : i === hovered && i !== selected ? 20 : w < 600 ? 30 : 36;
+      const candidates = [y + clear, y - height - clear - (priority ? 0 : 1)];
       for (const top of candidates) {
         if (top < floor + 3 || top + height > ceiling - 3) continue;
         const box = { left, top, width, height };
@@ -824,10 +814,10 @@ export function makeSky(stars: SkyStar[], options: SkyOptions): SkyView | null {
           cy = top + height / 2;
         ctx.globalAlpha = alpha;
         ctx.lineJoin = 'round';
-        ctx.strokeStyle = '#162031';
+        ctx.strokeStyle = INK;
         ctx.lineWidth = 3.5;
         ctx.strokeText(stars[i].name, cx, cy, width - 8);
-        ctx.fillStyle = priority ? '#fff2d9' : '#e9e1d2';
+        ctx.fillStyle = priority ? '#fbf1dc' : '#ece2cd';
         ctx.fillText(stars[i].name, cx, cy, width - 8);
         ctx.globalAlpha = 1;
         labels.push({ ...box, index: i });
@@ -864,6 +854,12 @@ export function makeSky(stars: SkyStar[], options: SkyOptions): SkyView | null {
     field.height = Math.ceil((h + overscan * 2) * ratio);
     field.style.width = `${field.width / ratio}px`;
     field.style.height = `${field.height / ratio}px`;
+    for (const { canvas: layer } of lights) {
+      layer.width = Math.ceil(field.width * SOFT);
+      layer.height = Math.ceil(field.height * SOFT);
+      layer.style.width = field.style.width;
+      layer.style.height = field.style.height;
+    }
     cache = null;
     if (!standardFont) {
       const family = getComputedStyle(canvas).fontFamily;
@@ -1172,6 +1168,8 @@ export function makeSky(stars: SkyStar[], options: SkyOptions): SkyView | null {
   observer.observe(stage);
   const watcher = new IntersectionObserver(([entry]) => {
     onScreen = entry.intersectionRatio >= .35;
+    // Out of sight, the light holds still.
+    stage.toggleAttribute('data-unseen', !entry.isIntersecting);
     if (onScreen) wake(BEACON.first);
     else hush(true);
   }, { threshold: [0, .35] });

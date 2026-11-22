@@ -1,4 +1,13 @@
 import { useEffect, useRef, useState } from 'preact/hooks';
+import cloud1 from '../assets/art/sky/cloud-1.webp';
+import cloud2 from '../assets/art/sky/cloud-2.webp';
+import cloud3 from '../assets/art/sky/cloud-3.webp';
+import cloud4 from '../assets/art/sky/cloud-4.webp';
+import cloud5 from '../assets/art/sky/cloud-5.webp';
+import ground from '../assets/art/sky/ground.webp';
+import marks from '../assets/art/sky/marks.webp';
+import moon from '../assets/art/sky/moon.webp';
+import { loadSkyArt } from '../lib/sky-art';
 import { makeSky, type SkyView } from '../lib/sky-canvas';
 import { readSky, type SkyStar } from '../lib/sky-data';
 import type { Sky } from '../lib/star-map';
@@ -30,6 +39,12 @@ interface Props {
   words: Words;
 }
 
+const ART = {
+  ground: ground.src,
+  marks: marks.src,
+  moon: moon.src,
+  clouds: [cloud1, cloud2, cloud3, cloud4, cloud5].map((cloud) => cloud.src),
+};
 const stillness = () => matchMedia('(prefers-reduced-motion: reduce)').matches;
 
 export default function StarMap({ lang, words }: Props) {
@@ -195,13 +210,16 @@ export default function StarMap({ lang, words }: Props) {
   useEffect(() => {
     let live = true;
     let view: SkyView | null = null;
-    fetch('/sky.json')
-      .then((response) => (response.ok ? response.json() : Promise.reject(new Error(String(response.status)))))
-      .then((file: Sky) => {
+    const record: Promise<Sky> = fetch('/sky.json')
+      .then((response) => (response.ok ? response.json() : Promise.reject(new Error(String(response.status)))));
+    // The sky shows once its stars and the pieces it is painted with are both here.
+    Promise.all([record, loadSkyArt(ART)])
+      .then(([file, art]) => {
         if (!live || !slot.current) return;
         const all = readSky(file, lang);
         view = makeSky(all, {
           lang,
+          art,
           label: words.mapLabel,
           describedBy: 'sky-keys',
           onSelect: (index) => act.current.took(index),
