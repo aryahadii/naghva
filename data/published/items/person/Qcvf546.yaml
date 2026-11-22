@@ -38,12 +38,16 @@ statements:
       locator: Original programme, liner notes or performer credit
       accessed: '2026-11-21'
   image:
-  - value: https://labyrinthmusic.gr/wp-content/uploads/2025/04/Aria-Mohafez-1024x697.jpeg
+  - value: https://labyrinthmusic.gr/wp-content/uploads/2025/04/Aria-Mohafez.jpeg
+    qualifiers:
+      credit:
+        text: Labyrinth Musical Workshop
+        language: en
     references:
     - source: labyrinthmusic.gr-en-aria-mohafez
-      quote: https://labyrinthmusic.gr/wp-content/uploads/2025/04/Aria-Mohafez-1024x697.jpeg
-      locator: Original programme, liner notes or performer credit
-      accessed: '2026-11-21'
+      quote: https://labyrinthmusic.gr/wp-content/uploads/2025/04/Aria-Mohafez.jpeg
+      accessed: 2026-11-22
+      locator: Original image file of the photograph published by the organizer
   birth date:
   - value:
       date: '1983'
@@ -59,3 +63,12 @@ statements:
       quote: he composed and directed the Aftab Roshan concert
       locator: Original programme, liner notes or performer credit
       accessed: '2026-11-21'
+  - value: Qm6w85y
+    qualifiers:
+      role:
+      - santur
+    references:
+    - source: transart.it-en-editions-26-persian-dastgah-music
+      quote: Aria Mohafez
+      accessed: 2026-11-22
+      locator: Named in original Transart roster

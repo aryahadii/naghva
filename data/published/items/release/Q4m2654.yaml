@@ -1,0 +1,50 @@
+id: Q4m2654
+type: release
+statements:
+  name:
+  - value:
+      text: Moqademeh Shour
+      language: en
+    references:
+    - source: music.apple.com-us-album-fifer-1454318191
+      quote: Moqademeh Shour
+      accessed: 2026-11-22
+      locator: Track 1 in label delivery
+  performer:
+  - value: Qxwemnb
+    qualifiers:
+      role:
+      - ney
+    references:
+    - source: open.spotify.com-album-3pgi1ttexzkxr07lpizpt0
+      quote: Moqademeh Shour · Houshmand Ebadi
+      accessed: 2026-11-22
+      locator: Track 1 performer billing
+  listen link:
+  - value: https://music.apple.com/us/song/moqademeh-shour/1454318192
+    references:
+    - source: music.apple.com-us-album-fifer-1454318191
+      quote: Moqademeh Shour
+      accessed: 2026-11-22
+      locator: Track 1 in label delivery
+  - value: https://open.spotify.com/track/498iJz3iBwKq9O8y2D4alP
+    references:
+    - source: open.spotify.com-album-3pgi1ttexzkxr07lpizpt0
+      quote: Moqademeh Shour · Houshmand Ebadi
+      accessed: 2026-11-22
+      locator: Track 1 performer billing
+  release date:
+  - value:
+      date: '2019-02-04'
+    references:
+    - source: music.apple.com-us-album-fifer-1454318191
+      quote: Moqademeh Shour
+      accessed: 2026-11-22
+      locator: Track 1 in label delivery
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e0/f4/5d/e0f45d93-c00f-1428-9f03-0cf0f391516e/193428746404.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-fifer-1454318191
+      quote: Moqademeh Shour
+      accessed: 2026-11-22
+      locator: Track 1 in label delivery

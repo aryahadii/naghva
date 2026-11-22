@@ -84,3 +84,23 @@ Original programme, liner notes or performer credit, read 2026-11-21.
 Original programme, liner notes or performer credit, read 2026-11-21.
 
 > Turkish and Arab repertoire
+
+> Houshmand Ebadi: Ney
+
+Artist’s original album personnel, read 2026-11-21.
+
+> Chahārmezrāb & Adjem Nahāvand
+
+Original Bandcamp track 4, read 2026-11-21.
+
+> Ghazal
+
+Original Bandcamp track 5, read 2026-11-21.
+
+> Reng
+
+Original Bandcamp track 6, read 2026-11-21.
+
+> 4, 5, 6 (Ebadi,Mohafez)
+
+Track-specific engineer credits, read 2026-11-21.

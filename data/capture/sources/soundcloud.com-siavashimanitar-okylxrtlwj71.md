@@ -28,3 +28,7 @@ SoundCloud track-specific art, read 2026-11-21.
 > 2017-03-01
 
 Upload date, read 2026-11-21.
+
+> تار و آواز: سیاوش ایمانی - تنبک: پدرام خاورزمینی
+
+SoundCloud performer credits, read 2026-11-21.

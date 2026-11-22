@@ -28,3 +28,7 @@ Artist interview, biography or performance credits, read 2026-11-21.
 > https://cardamomtrio.com/wp-content/uploads/2024/04/cropped-Trio-Cardamom-photo-by-Kaveh-Sarvarian.jpg
 
 Artist interview, biography or performance credits, read 2026-11-21.
+
+> https://cardamomtrio.com/wp-content/uploads/2024/04/Trio-Cardamom-photo-by-Kaveh-Sarvarian.jpg
+
+Original image file of the photograph published by the organizer, read 2026-11-21.

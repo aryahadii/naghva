@@ -1,0 +1,38 @@
+id: Q5qqkez
+type: release
+statements:
+  name:
+  - value:
+      text: Ney
+      language: en
+    references:
+    - source: music.apple.com-us-album-sufi-safir-218120725
+      quote: Ney
+      accessed: 2026-11-21
+      locator: Track 6
+  performer:
+  - value: Q9y35r9
+    references:
+    - source: music.apple.com-us-album-sufi-safir-218120725
+      quote: Ney
+      accessed: 2026-11-21
+      locator: Track 6
+  listen link:
+  - value: https://music.apple.com/us/song/ney/218120829
+    references:
+    - source: music.apple.com-us-album-sufi-safir-218120725
+      quote: Sufi Safir · Bahramji, Masti · 2007-02-01
+      accessed: 2026-11-21
+      locator: Native issue credits
+  - value: https://open.spotify.com/track/44yfqfTmIO46r66CZVyf1h
+    references:
+    - source: open.spotify.com-album-0eczyil72hvgdicgqbol0s
+      quote: Sufi Safir · Bahramji
+      accessed: 2026-11-21
+      locator: Native digital record
+  - value: https://music.apple.com/us/song/ney/428231470
+    references:
+    - source: music.apple.com-us-album-sufi-safir-feat-mashti-428231447
+      quote: Sufi Safir (feat. Mashti) · Bahramji, Mashti · 2007-01-01
+      accessed: 2026-11-21
+      locator: Native issue credits

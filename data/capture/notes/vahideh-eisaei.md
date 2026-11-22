@@ -29,3 +29,7 @@ Compared Bandcamp original issuers, Apple Music, Spotify, YouTube, SoundCloud an
 - The Resonant Heart - Premier (Qe4wces) · https://www.youtube.com/watch?v=yenTobP-QQQ
 - The Resonant Heart 2023 Highlights (Qeyrtpr) · https://www.youtube.com/watch?v=bttqNlt59bA
 - The Storytellers - Astra Nov 16 2024 (Q5a9mgj) · https://www.youtube.com/watch?v=Qym55pT5QiY
+- تصنیف ایران (Qc7ny7a) · https://t.me/malihehmoradi/16
+- کنسرت تور استرالیا، آدلاید (Qakdgp9) · https://t.me/malihehmoradi/20
+
+La Mama’s completed 12–14 November 2024 run of The Golden Rooster (Qepfm3c) lists Eisaei for music and in the cast. SBS Persian interviewed her about the adaptation. No authorized issue of its musical score was found.

@@ -6,9 +6,9 @@ statements:
       text: Azar Zargarian
       language: en
     references:
-    - &id001
-      source: shahrzad-ensemble-casaorig
-      quote: Maral Pouya, voice; Azar Zargarian, tar; Najmeh Saghir, barbat; Parissa Kashefi, kamanche; Naghmeh Farahmand, tombak, daf, dayere
+    - source: shahrzad-ensemble-casaorig
+      quote: Maral Pouya, voice; Azar Zargarian, tar; Najmeh Saghir, barbat; Parissa Kashefi, kamanche; Naghmeh
+        Farahmand, tombak, daf, dayere
       accessed: '2026-11-21'
       locator: Performer or presenter archive
   - value:
@@ -22,7 +22,11 @@ statements:
   member of:
   - value: Q4z6jy5
     references:
-    - *id001
+    - source: shahrzad-ensemble-casaorig
+      quote: Maral Pouya, voice; Azar Zargarian, tar; Najmeh Saghir, barbat; Parissa Kashefi, kamanche; Naghmeh
+        Farahmand, tombak, daf, dayere
+      accessed: '2026-11-21'
+      locator: Performer or presenter archive
     qualifiers:
       role: tar
   - value: Qa69txt
@@ -44,3 +48,12 @@ statements:
       credit:
         text: Casa della Cultura Iraniana, concert archive
         language: en
+  birth date:
+  - value:
+      date: '1343'
+      calendar: jalali
+    references:
+    - source: www.honaronline.ir----5-57298
+      quote: آذر زرگریان متولد 1343 در تهران است.
+      accessed: 2026-11-21
+      locator: Birth year and city in the presenter’s biography

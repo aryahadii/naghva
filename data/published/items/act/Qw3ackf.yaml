@@ -11,13 +11,13 @@ statements:
       accessed: '2026-11-21'
       locator: Artist interview, biography or performance credits
   image:
-  - value: https://cardamomtrio.com/wp-content/uploads/2024/04/cropped-Trio-Cardamom-photo-by-Kaveh-Sarvarian.jpg
-    references:
-    - source: cardamomtrio.com
-      quote: https://cardamomtrio.com/wp-content/uploads/2024/04/cropped-Trio-Cardamom-photo-by-Kaveh-Sarvarian.jpg
-      accessed: '2026-11-21'
-      locator: Artist interview, biography or performance credits
+  - value: https://cardamomtrio.com/wp-content/uploads/2024/04/Trio-Cardamom-photo-by-Kaveh-Sarvarian.jpg
     qualifiers:
       credit:
         text: Kaveh Sarvarian
         language: en
+    references:
+    - source: cardamomtrio.com
+      quote: https://cardamomtrio.com/wp-content/uploads/2024/04/Trio-Cardamom-photo-by-Kaveh-Sarvarian.jpg
+      accessed: 2026-11-22
+      locator: Original image file of the photograph published by the organizer

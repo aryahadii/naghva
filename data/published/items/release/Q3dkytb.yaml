@@ -23,6 +23,15 @@ statements:
       quote: I Am Eve · Mahsa Vahdat, Marjan Vahdat, Atabak Elyasi · 2008-08-29
       accessed: 2026-11-21
       locator: Album artist and issue date
+  - value: Qgrx2hc
+    qualifiers:
+      role:
+      - ney
+    references:
+    - source: the.akdn-it-en-how-we-work-our-agencies-aga-khan-trust-culture-akmi-pasha-hanjani
+      quote: I am Eve, Scent of Reunion, Three wise men, Under and Twinklings of hope
+      accessed: 2026-11-21
+      locator: Presenter discography
   listen link:
   - value: https://music.apple.com/us/album/i-am-eve/296675273
     references:
@@ -52,3 +61,14 @@ statements:
       quote: I Am Eve · Mahsa Vahdat, Marjan Vahdat, Atabak Elyasi · 2008-08-29
       accessed: 2026-11-21
       locator: Album artist and issue date
+  contributor:
+  - value: Q5z9jzy
+    qualifiers:
+      role:
+      - arranger
+      - producer
+    references:
+    - source: www.mahsavahdat.net-discography
+      quote: arranged and produced by Atabak Elyasi
+      accessed: 2026-11-21
+      locator: I Am Eve discography text

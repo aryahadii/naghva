@@ -36,3 +36,7 @@ Artist interview, biography or performance credits, read 2026-11-21.
 > a comprehensive method for Persian ney
 
 Artist interview, biography or performance credits, read 2026-11-21.
+
+> He recorded the album “Puertas de Oriente” with the El Ligado Andalusí Foundation
+
+Musician’s original biography, read 2026-11-21.

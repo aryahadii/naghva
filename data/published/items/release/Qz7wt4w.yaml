@@ -26,9 +26,16 @@ statements:
   - value: https://soundcloud.com/mahmood-schricker/lonely-city
     references:
     - source: soundcloud.com-mahmood-schricker-lonely-city
-      quote: Stream Lonely City (Bahramji feat Mahmood Schricker) by Mahmood Schricker | Listen online for free on SoundCloud
+      quote: Stream Lonely City (Bahramji feat Mahmood Schricker) by Mahmood Schricker | Listen online for free
+        on SoundCloud
       accessed: '2026-11-21'
       locator: Page title
+  - value: https://soundcloud.com/bahramji/lonely-city
+    references:
+    - source: soundcloud.com-bahramji-lonely-city
+      quote: Lonely City
+      accessed: 2026-11-21
+      locator: Artist-issued SoundCloud recording
   performer:
   - value: Qxkh2tz
     references:
@@ -36,6 +43,12 @@ statements:
       quote: Lonely City - song and lyrics by Bahramji, Mahmood Schricker | Spotify
       accessed: '2026-11-21'
       locator: Page title
+  - value: Q9y35r9
+    references:
+    - source: music.apple.com-us-album-lonely-city-single-1522136598
+      quote: Lonely City
+      accessed: 2026-11-21
+      locator: Track 1
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/75/95/ec/7595ecc4-7581-decf-4490-01b4ac884fd9/00_Cover_Art.jpg/600x600bb.webp
     references:

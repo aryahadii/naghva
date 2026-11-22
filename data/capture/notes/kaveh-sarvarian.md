@@ -244,3 +244,14 @@ Kaveh's original artist Bandcamp yielded eight album editions. The 13 Apple arti
 - Zarbi Chargah (Qhr2krt) · https://kavehsarvarian.bandcamp.com/track/zarbi-chargah · https://music.apple.com/us/song/548566602 · https://open.spotify.com/track/0hJLolZaOJ9GuuYEDNOi2u
 - fea. Pakete (Guitarra) & Bandolero (Cajón) - Isfahan y Granada (Q66g88c) · https://kavehsarvarian.bandcamp.com/track/isfahan-y-granada · https://music.apple.com/us/song/963055278 · https://open.spotify.com/track/1MllcuS96FwA0tFYYoRjl1
 - “It Won’t Last”  (No quedará), Kaveh & Elyar Duo (Qz93rhe) · https://www.youtube.com/watch?v=SOnh4n6lHHs
+- East meets East (Live at Espacio Ronda, 23 June 2023) (Q6dw7ns) · https://www.youtube.com/watch?v=y_p_t-rO4GI
+- RITUAL Live on Stage 2022 (Ana Alcaide) (Qjtqbzm) · https://www.youtube.com/watch?v=YgldbsOlnz8
+- La Ruta de la Seda (Capella de Ministrers, album personnel) (Qca7bes) · https://music.apple.com/us/album/la-ruta-de-la-seda/1300580586
+- Cantigas de Santa María (Capella de Ministrers, album personnel) (Qbd7a4k) · https://music.apple.com/us/album/cantigas-de-santa-mar%C3%ADa/1548046419
+- El collar de la paloma (Capella de Ministrers, album personnel) (Qnth7e6) · https://music.apple.com/us/album/el-collar-de-la-paloma/1606954254
+- Ritual (Capella de Ministrers, album personnel) (Q4yz8sx) · https://music.apple.com/us/album/ritual/1846133720
+- Labu (Sinouj, album personnel) (Qkxjxcx) · https://sinouj.bandcamp.com/album/labu
+- Haj Ghorban (Feat. Kaveh Sarvarian & Alain Perez) (Qv2vbbe) · https://golnarmahantrio.bandcamp.com/track/haj-ghorban-feat-kaveh-sarvarian-alain-perez
+
+Booklets document ney and tombak for the four Capella de Ministrers albums listed above at album level. Track-level personnel need explicit documentation. Ana Alcaide’s 2022 Toledo stage recording is a different work from Capella’s 2025 studio album called Ritual. Sinouj’s official Labu issue and both Apple editions share the same seven-title program; its credits document Sarvarian on the album. The Andalusian Library catalogue holds Las Puertas de Oriente, with the original ensemble and director stated but with incomplete session personnel online; the musician credits his own participation in his Cardamom biography.
+- Las Puertas de Oriente (physical Andalusian Library edition) (Q3pypfv)

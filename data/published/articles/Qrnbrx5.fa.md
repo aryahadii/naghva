@@ -50,8 +50,27 @@ references:
     quote: Mark Borchardt
     accessed: '2026-11-21'
     locator: Film credits
+  why:
+    source: www.guitarworld.com-news-heavy-as-texas-premiere-to-keep-a-promise-music-video
+    quote: wasn’t able to sing and play complex rhythms at the same time
+    accessed: 2026-11-21
+    locator: Montazeri on starting the band
+  nameorigin:
+    source: v13.net-2019-04-heavy-as-texas-forged-by-metal-vets-kyle-thomas-and-marzi-montazeri-discuss-the-band-debut-album-and-future-plans
+    quote: when your need is low, just remember where it’s heavy as Texas
+    accessed: 2026-11-21
+    locator: Montazeri remembers the band-name lyric
+  dig:
+    source: music.apple.com-us-album-heavy-as-texas-1454726769
+    quote: Heavy as Texas · HEAVY AS TEXAS · 2019-04-05
+    accessed: 2026-11-21
+    locator: Album artist and issue date
 ---
 
 «Heavy As Texas» از همکاری مرزی منتظری، گیتاریستی که در کودکی از تهران به هیوستون رفت، و کایل توماس، خوانندهٔ گروه، شکل گرفت. هر دو در اکس‌هوردر هم می‌نواختند. برای نخستین آلبوم، ترکیب استودیویی را با انوپ ساستری پشت درامز و کریس کولیر روی باس بستند. منتظری تهیه‌کننده بود و کولیر میکس و مستر را انجام داد.[^born][^kyle][^stud][^mix][^texas]
 
-آلبوم هم‌نام گروه در ۱۹ آوریل ۲۰۱۹ با برچسب «Crunchy Western Records» منتشر شد. در ترکیب صحنه‌ای، لنوود سونیه باس می‌زد و جیمز گوتز درامز. گروه ابتدا برای «To Keep a Promise» ویدئو ساخت و برای ویدئوی بعدی، «King of Fools»، با مارک بورخارتِ فیلم‌ساز کار کرد.[^album][^tour][^tourtwo][^promise][^video]
+## شکل‌گیری گروه
+
+مونتازری هنگام ساخت قطعه‌ها می‌خواست هم بخواند و هم بخش‌های پیچیدهٔ گیتار را اجرا کند. کایل توماس را برای خوانندگی دعوت کرد تا خودش روی ساخت قطعه و نوازندگی گیتار تمرکز کند. نام Heavy As Texas از مصرعی در یکی از ترانه‌های قدیمی مونتازری آمده است.[^why][^nameorigin]
+
+[آلبوم هم‌نام گروه](#heavy-as-texas-psy) در آوریل ۲۰۱۹ با برچسب «Crunchy Western Records» منتشر شد. در ترکیب صحنه‌ای، لنوود سونیه باس می‌زد و جیمز گوتز درامز. گروه ابتدا برای «To Keep a Promise» ویدئو ساخت و برای ویدئوی بعدی، «King of Fools»، با مارک بورخارتِ فیلم‌ساز کار کرد.[^album][^dig][^tour][^tourtwo][^promise][^video]

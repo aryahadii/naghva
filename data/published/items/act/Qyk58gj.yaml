@@ -10,6 +10,15 @@ statements:
       quote: Darawish
       accessed: '2026-11-21'
       locator: Artist interview, biography or performance credits
+  - value:
+      text: دراویش
+      language: fa
+    references:
+    - source: darawish.bandcamp.com-album-madar
+      quote: Darawish
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    editorial: true
   profile link:
   - value: https://darawish.bandcamp.com/
     references:
@@ -17,3 +26,26 @@ statements:
       quote: Madar | Darawish
       accessed: '2026-11-21'
       locator: Page title
+  - value: https://open.spotify.com/artist/7tqDcvUSHJzOtVQVcSJeRL
+    references:
+    - source: open.spotify.com-artist-7tqdcvushjzotvqvcsjerl
+      quote: Madar · Darawish
+      accessed: 2026-11-21
+      locator: Darawish’s Spotify artist page with the same Madar album
+  - value: https://www.youtube.com/channel/UCgOZeUD6_j7Mo2dj_j0Jjpg
+    references:
+    - source: www.youtube.com-channel-ucgozeud6_j7mo2dj_j0jjpg
+      quote: Darawish Music
+      accessed: 2026-11-21
+      locator: Artist’s original YouTube video inventory
+  image:
+  - value: https://i.ytimg.com/vi/9BqcPBBzEZA/maxresdefault.jpg
+    qualifiers:
+      credit:
+        text: Darawish Music, El Intruso performance film
+        language: en
+    references:
+    - source: youtu.be-9bqcpbbzeza
+      quote: 'Darawish: Suzinak & Longa Shahnaz'
+      accessed: 2026-11-21
+      locator: Original full-frame performance image from the Darawish channel

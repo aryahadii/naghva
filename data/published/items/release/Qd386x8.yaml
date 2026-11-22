@@ -38,6 +38,12 @@ statements:
       quote: ‎Bahare Delkash - Song with Lyrics by Darawish - Apple Music
       accessed: '2026-11-21'
       locator: Page title
+  - value: https://open.spotify.com/track/52041kuC0Vy2pXhBryFbte
+    references:
+    - source: open.spotify.com-album-2pugceut2uuiket0gvnvx0
+      quote: Bahare Delkash · Darawish
+      accessed: 2026-11-21
+      locator: Matching album sequence and native titled track
   cover art:
   - value: https://f4.bcbits.com/img/a3857241456_10.jpg
     references:

@@ -52,3 +52,7 @@ Apple Music track listing, read 2026-11-21.
 > Reng
 
 Apple Music track listing, read 2026-11-21.
+
+> So Faraway - EP · Siavash Imani, Pedram Khavarzamini · 2024-03-13
+
+Native issue, read 2026-11-21.

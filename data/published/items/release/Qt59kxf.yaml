@@ -6,8 +6,7 @@ statements:
       text: Lonely City
       language: en
     references:
-    - &id001
-      source: music.apple.com-us-album-lonely-city-single-1522136598
+    - source: music.apple.com-us-album-lonely-city-single-1522136598
       quote: Lonely City
       accessed: '2026-11-21'
       locator: Recording title or artist credit
@@ -34,7 +33,10 @@ statements:
   release type:
   - value: album
     references:
-    - *id001
+    - source: music.apple.com-us-album-lonely-city-single-1522136598
+      quote: Lonely City
+      accessed: '2026-11-21'
+      locator: Recording title or artist credit
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/75/95/ec/7595ecc4-7581-decf-4490-01b4ac884fd9/00_Cover_Art.jpg/632x632bb.webp
     references:

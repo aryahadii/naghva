@@ -54,3 +54,14 @@ statements:
       quote: I Am Eve · Mahsa Vahdat, Marjan Vahdat · 2008-08-29
       accessed: 2026-11-21
       locator: Album artist and issue date
+  contributor:
+  - value: Q5z9jzy
+    qualifiers:
+      role:
+      - arranger
+      - producer
+    references:
+    - source: www.mahsavahdat.net-discography
+      quote: arranged and produced by Atabak Elyasi
+      accessed: 2026-11-21
+      locator: I Am Eve discography text

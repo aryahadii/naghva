@@ -262,3 +262,6 @@ The two personal artist spellings on Apple Music and the Sony guest appearances 
 - Persian Traditional Avaz-e Dashti (Qqafa9g) https://music.apple.com/us/song/persian-traditional-avaz-e-dashti/564088729 · https://open.spotify.com/track/1ezANRhOu41ndn7xABSErT · https://www.youtube.com/watch?v=PaGU_FgmsfU
 
 The Nofeh release notice names the original eight recorded duo pieces with Nabil Yousef Sharidavi and the performers describe improvising together on two occasions. The film distributor’s announcement confirms Jahangiri in Mirtahmasb’s documentary on the musicians’ six-year reconstruction. His own ECO interview confirms his work on Shoghnameh.
+
+- شوق‌نامه (Q4kbx76), original 1390 three-CD project. The retrospective distinguishes attributed repertoire from firm authorship. The physical set has no verified complete native listen link.
+- از گلستان عجم (Q7hje3c), Mahoor 1399 two-CD follow-up. Mahoor names Jahangiri on ney and Samer Habibi on alto kamancheh. A secondary database interchanges those roles. Mahoor’s 59-second embedded preview supports the edition, while Behzad Mirzaei describes Jahangiri’s specific contribution to getting it published.

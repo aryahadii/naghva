@@ -28,3 +28,11 @@ Artist interview, biography or performance credits, read 2026-11-21.
 > https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/75/95/ec/7595ecc4-7581-decf-4490-01b4ac884fd9/00_Cover_Art.jpg/632x632bb.webp
 
 Release artwork, read 2026-11-21.
+
+> Lonely City - Single · Bahramji, Mahmood Schricker · 2020-08-08
+
+Native issue credits, read 2026-11-21.
+
+> Lonely City (Radio Edit)
+
+Track 2, read 2026-11-21.

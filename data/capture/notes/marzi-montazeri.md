@@ -67,3 +67,37 @@ Digital artist issues, named guest tracks and original artist recordings are ide
 - Broken Wing (Q6v6azm)
 - The Need - Solo (Q9qgmab)
 - MARZI LIVE - FROM THIS DAY ON (Q4jqmrp)
+
+- Heavy As Texas "King of Fools Solo" at The Rail Club in Fort Worth, TX • 07.24.15 • HD (Qw2djcd)
+
+- Heavy As Texas (Official) - King Of Fools (Qz5zktm)
+
+- To Keep a Promise (artist video) (Qz5ewmz)
+
+- War of the Gargantuas (Qjycvfn)
+
+- Conflict (Q3zjzrn)
+
+- Family, "Friends", And Associates (Qehtkgb)
+
+- Extinct (Qmp5xzt)
+
+- The Man That Never Was (Qdvajx5)
+
+- Legions of Death (live at Saint Vitus) (Qfe5k6s)
+
+- The Need (Q9c6wc7)
+
+- To Keep a Promise (official music video) (Qnb2fg3)
+
+- Blind (official lyric video) (Qrfwn9c)
+
+- Operation of the Moral Law (Q6m4663)
+
+- Scion A/V Presents: Housecore Horror Film Festival 2013 EP (Qjxrvzw)
+
+- Ugly Mug (Qxb49s8)
+
+- Pigs Kissing Pigs (Qvpnes7)
+
+The October 2013 Scion 10-inch is catalogued from its physical credits and contemporary release announcement. Its original hosted streams and music video were unavailable when checked. The artist’s full *The Need* retrospective upload shares at least two confirmed masters with the 2001 physical issue. Exact archival video boundaries and the original sequence beyond identified tracks remain unverified.

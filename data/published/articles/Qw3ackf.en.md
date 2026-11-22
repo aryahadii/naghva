@@ -70,10 +70,15 @@ references:
     quote: festival Al Mutamid. Leiria, Portugal
     accessed: '2026-11-21'
     locator: Artist interview, biography or performance credits
+  earlyfilm:
+    source: youtu.be-y_p_t-ro4gi
+    quote: Concierto celebrado en el Espacio Ronda, de Madrid el 23/06/2023
+    accessed: 2026-11-22
+    locator: Original video description
 ---
 
 Cardamom Trio began with a rehearsal for Darawish. While they waited for the rest of the band to arrive, Iranian ney player Kaveh Sarvarian, Syrian oud player Hames Bitar and Spanish percussionist Luis Taberna improvised a piece they called “Persarab.” Bitar recalled that they wanted to keep working that way, building a melody together over an Arabic rhythm.[^rehearsal][^persarab][^rhythm][^perc]
 
-Bitar and Sarvarian started trying out material in 2019. In March 2023 they released *When the Sun Rises* as a duo, with Bitar on oud and Sarvarian playing ney, flute, setar and percussion. In “The Old Man of the Mountain,” Bitar returned to the landscape around his hometown of Masyaf in Syria. The piece opens in the thirteen-beat Zarafat rhythm used in Aleppo, then turns to seven beats for solos on oud and flute.[^years][^album][^parts][^oud][^town][^piece][^seven]
+Bitar and Sarvarian started trying out material in 2019. In March 2023 they released *When the Sun Rises* as a duo, with Bitar on oud and Sarvarian playing ney, flute, setar and percussion. In “The Old Man of the Mountain,” Bitar returned to the landscape around his hometown of Masyaf in Syria. The piece opens in the thirteen-beat Zarafat rhythm heard in Aleppo, then turns to seven beats for solos on oud and flute.[^years][^album][^parts][^oud][^town][^piece][^seven]
 
-Taberna took the percussion part onstage. The trio played Madrid’s Café Ziryab and shared a programme at Espacio Ronda with singer Linda Alahmad in 2024. The following year they appeared at the Al Mutamid festival in Leiria, Portugal.[^perc][^madrid][^guest][^festival]
+With Taberna on percussion, the trio played “East meets East” at Espacio Ronda in Madrid in June 2023.[^earlyfilm] The trio played Madrid’s Café Ziryab and shared a programme at Espacio Ronda with singer Linda Alahmad in 2024. The following year they appeared at the Al Mutamid festival in Leiria, Portugal.[^perc][^madrid][^guest][^festival]

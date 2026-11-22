@@ -20,7 +20,8 @@ statements:
   - value: https://music.apple.com/us/album/deldar-kush-arora-tears-dub-feat-kush-arora-single/1602273301
     references:
     - source: music.apple.com-us-album-deldar-kush-arora-tears-dub-feat-kush-arora-single-1602273301
-      quote: ‎Deldar (Kush Arora Tears Dub) [feat. Kush Arora] - Single - Album by Bahramji & Mahmood Schricker - Apple Music
+      quote: ‎Deldar (Kush Arora Tears Dub) [feat. Kush Arora] - Single - Album by Bahramji & Mahmood Schricker
+        - Apple Music
       accessed: '2026-11-21'
       locator: Page title
   - value: https://open.spotify.com/track/4Dn9DVeTq3Cs4n5nxnUnKk
@@ -32,19 +33,22 @@ statements:
   - value: https://music.apple.com/us/song/deldar-kush-arora-tears-dub-feat-kush-arora/1602273303
     references:
     - source: music.apple.com-us-song-deldar-kush-arora-tears-dub-feat-kush-arora-1602273303
-      quote: ‎Deldar (Kush Arora Tears Dub) [feat. Kush Arora] - Song with Lyrics by Bahramji & Mahmood Schricker - Apple Music
+      quote: ‎Deldar (Kush Arora Tears Dub) [feat. Kush Arora] - Song with Lyrics by Bahramji & Mahmood Schricker
+        - Apple Music
       accessed: '2026-11-21'
       locator: Page title
   - value: https://soundcloud.com/mahmood-schricker/bahramji-and-mahmood-schricker-deldar-kush-arora-tears-dub-master-vs2
     references:
     - source: soundcloud.com-mahmood-schricker-bahramji-and-mahmood-schricker-deldar-kush-arora-tears-dub-master-vs2
-      quote: Stream Bahramji & Mahmood Schricker - Deldar (Kush Arora Tears Dub) by Mahmood Schricker | Listen online for free on SoundCloud
+      quote: Stream Bahramji & Mahmood Schricker - Deldar (Kush Arora Tears Dub) by Mahmood Schricker | Listen online
+        for free on SoundCloud
       accessed: '2026-11-21'
       locator: Page title
   - value: https://soundcloud.com/linkmusiclab/bahramji-and-mahmood-schricker-deldar-kush-arora-tears-dub-master-vs2
     references:
     - source: soundcloud.com-linkmusiclab-bahramji-and-mahmood-schricker-deldar-kush-arora-tears-dub-master-vs2
-      quote: Stream Bahramji AND Mahmood Schricker - Deldar (Kush Arora Tears Dub) by Link Music Lab | Listen online for free on SoundCloud
+      quote: Stream Bahramji AND Mahmood Schricker - Deldar (Kush Arora Tears Dub) by Link Music Lab | Listen online
+        for free on SoundCloud
       accessed: '2026-11-21'
       locator: Page title
   performer:
@@ -102,3 +106,10 @@ statements:
       locator: Artist interview, biography or performance credits
     qualifiers:
       role: producer
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-deldar-kush-arora-tears-dub-feat-kush-arora-single-1602273301
+      quote: Deldar (Kush Arora Tears Dub) [feat. Kush Arora]
+      accessed: 2026-11-21
+      locator: Track 1

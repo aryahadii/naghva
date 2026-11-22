@@ -11,12 +11,16 @@ statements:
       locator: Original programme, liner notes or performer credit
       accessed: '2026-11-21'
   image:
-  - value: https://i.ytimg.com/vi/yenTobP-QQQ/hqdefault.jpg
+  - value: https://api.melbournerecital.com.au/media/0hdlm5zj/the-resonant-heart-desktop-1.png
+    qualifiers:
+      credit:
+        text: Melbourne Recital Centre
+        language: en
     references:
-    - source: www.youtube.com-oembed-yentobp-qqq
-      quote: https://i.ytimg.com/vi/yenTobP-QQQ/hqdefault.jpg
-      locator: Original programme, liner notes or performer credit
-      accessed: '2026-11-21'
+    - source: www.melbournerecital.com.au-whats-on-current-productions-hear-beyond-the-resonant-heart
+      quote: https://api.melbournerecital.com.au/media/0hdlm5zj/the-resonant-heart-desktop-1.png
+      accessed: 2026-11-22
+      locator: Original image file of the photograph published by the organizer
   profile link:
   - value: https://theresonantheart.bandcamp.com
     references:

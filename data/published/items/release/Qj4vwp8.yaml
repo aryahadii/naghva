@@ -29,13 +29,6 @@ statements:
       credit:
         text: Apple Music, original edition artwork
         language: en
-  performer:
-  - value: Qnz4xnz
-    references:
-    - source: siamak-jahangiri-ap1542838267
-      quote: Siamak Jahangiry
-      accessed: '2026-11-21'
-      locator: Distributor artist credit
   listen link:
   - value: https://music.apple.com/us/song/solo-oud/1542838277
     references:
@@ -49,3 +42,12 @@ statements:
       quote: spotify:track:3nQ6B0ivMimGX29sSraRvw
       accessed: '2026-11-21'
       locator: Spotify recording
+  contributor:
+  - value: Qnz4xnz
+    references:
+    - source: siamak-jahangiri-primary
+      quote: “Tanha”, “Negarnine”
+      accessed: '2026-11-21'
+      locator: Albums composed by Jahangiri
+    qualifiers:
+      role: composer

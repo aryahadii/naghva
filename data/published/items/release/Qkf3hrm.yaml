@@ -42,6 +42,28 @@ statements:
       quote: Ashkan Kamangari
       accessed: '2026-11-21'
       locator: Distributor artist credit
+  - value: Qqaf55n
+    references:
+    - &id001
+      source: siamak-jahangiri-ap1770081272
+      quote: Tasnif "Dar Parde Saz" (Bayat Tork) [feat. Samer Habibi, Ali Bahramifard, Ali-Asghar Arabshahi, Hamid Khansari, Hoseyn Zamani & Nabil Yousef Sheridavi]
+      accessed: '2026-11-21'
+      locator: Named track billing
+  - value: Qzgcaky
+    references:
+    - *id001
+  - value: Qpgp85c
+    references:
+    - *id001
+  - value: Qm4nb4g
+    references:
+    - *id001
+  - value: Q25rrhy
+    references:
+    - *id001
+  - value: Qnchec6
+    references:
+    - *id001
   listen link:
   - value: https://music.apple.com/us/song/tasnif-dar-parde-saz-bayat-tork-feat-samer-habibi-ali/1770081287
     references:

@@ -1,0 +1,56 @@
+id: Qa748m5
+type: release
+statements:
+  name:
+  - value:
+      text: I Will Greet the Sun Again for String Quartet with Narration
+      language: en
+    references:
+    - source: music.apple.com-us-album-i-will-greet-the-sun-again-1762765669
+      quote: I Will Greet the Sun Again for String Quartet with Narration
+      accessed: 2026-11-21
+      locator: Track 16 on original digital issue
+  contributor:
+  - value: Qhqb38j
+    qualifiers:
+      role: composer
+    references:
+    - source: music.apple.com-us-album-i-will-greet-the-sun-again-1762765669
+      quote: I Will Greet the Sun Again for String Quartet with Narration
+      accessed: 2026-11-21
+      locator: Track 16 on original digital issue
+  performer:
+  - value: Qcq3jna
+    references:
+    - source: music.apple.com-us-album-i-will-greet-the-sun-again-1762765669
+      quote: Ava Shadmani
+      accessed: 2026-11-21
+      locator: Publisher’s recorded credits
+  listen link:
+  - value: https://music.apple.com/us/song/i-will-greet-the-sun-again-for-string-quartet-with-narration/1762765686
+    references:
+    - source: music.apple.com-us-album-i-will-greet-the-sun-again-1762765669
+      quote: I Will Greet the Sun Again for String Quartet with Narration
+      accessed: 2026-11-21
+      locator: Track 16 on original digital issue
+  - value: https://open.spotify.com/track/3rTiVv3X5LIaeDnsut3ON3
+    references:
+    - source: open.spotify.com-album-4jdatmx5v3yjsqkgfoaeuq
+      quote: I Will Greet the Sun Again for String Quartet with Narration · Various Artists
+      accessed: 2026-11-21
+      locator: Track 16 on Spotify edition
+  release date:
+  - value:
+      date: '2024-08-19'
+    references:
+    - source: music.apple.com-us-album-i-will-greet-the-sun-again-1762765669
+      quote: '2024-08-19'
+      accessed: 2026-11-21
+      locator: Digital issue’s stated release date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/37/01/2d37016d-faf5-f5bf-dd31-d2e3fd7f402a/198595646724.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-i-will-greet-the-sun-again-1762765669
+      quote: I Will Greet the Sun Again
+      accessed: 2026-11-21
+      locator: Original digital issue

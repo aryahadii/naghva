@@ -14,3 +14,7 @@ Compared Bandcamp original issuers, Apple Music, Spotify, YouTube, SoundCloud an
 - The Resonant Heart - Premier (Qe4wces) · https://www.youtube.com/watch?v=yenTobP-QQQ
 - The Resonant Heart 2023 Highlights (Qeyrtpr) · https://www.youtube.com/watch?v=bttqNlt59bA
 - The Resonant Heart Online Miniseries (Qkyj35f)
+
+- Booking for Forest Living Room at Melbourne Recital Centre (Q4qa6n4). The programme and announced dates are documented.
+
+- Booking for Forest Living Room at The Bowery Theatre (Qtj26sk). The programme and announced dates are documented.

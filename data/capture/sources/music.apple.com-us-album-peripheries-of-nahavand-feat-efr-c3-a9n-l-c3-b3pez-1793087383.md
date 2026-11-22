@@ -40,3 +40,7 @@ Apple Music track list, read 2026-11-21.
 > Reng (feat. Asare Shekarchi, Efrén López, Houshmand Ebadi & Aria Mohafez)
 
 Apple Music track list, read 2026-11-21.
+
+> Peripheries of Nahavand (feat. Efrén López) · Araz Salek · 2025-04-11
+
+Native issue, read 2026-11-21.

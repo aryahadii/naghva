@@ -101,3 +101,8 @@ Compared Bandcamp original issuers, Apple Music, Spotify, YouTube, SoundCloud an
 - کنسرت بزرگ همنوازان شیدا (Q6qtyyn)
 - کنسرت گروه موسیقی آن "از من نشان" (Qefcemq) · https://www.youtube.com/watch?v=rEje8g8uOBg
 - کنسرت گروه موسیقی آن"آفتاب روشن" (Qcvyvza) · https://www.youtube.com/watch?v=PpCt3n7vw_4
+- Santur Solo in Bayat-e Kord (Naghmeh Roshan concert) (Qw5qrz7) · https://www.youtube.com/watch?v=my2WUjPT4a4
+- Persian Santur Solo in Dastgāh-e Šur (Qxh4c9y) · https://www.youtube.com/watch?v=etlpAn1b91U
+- سه‌نوازی در دستگاه چهارگاه (Radio Mahoor, 2025) (Qdyydfn)
+
+The Radio Mahoor cue sheet names the first of its two broadcasts as a submitted trio recording on tar, santur and tombak. The entire episode is on Podbean and the exact work is documented by the original broadcaster.

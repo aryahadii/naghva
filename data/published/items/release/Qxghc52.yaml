@@ -1,0 +1,40 @@
+id: Qxghc52
+type: release
+statements:
+  name:
+  - value:
+      text: روز و شب
+      language: fa
+    references:
+    - source: soundcloud.com-siavashimanitar-w4hqgtxtztmh
+      quote: روز و شب
+      accessed: 2026-11-22
+      locator: Original SoundCloud title and recording credits
+  listen link:
+  - value: https://soundcloud.com/siavashimanitar/w4hqgtxtztmh
+    references:
+    - source: soundcloud.com-siavashimanitar-w4hqgtxtztmh
+      quote: 'تار و آواز: سیاوش ایمانی - تنبک: گهرناز مسایلی'
+      accessed: 2026-11-22
+      locator: SoundCloud performer credits
+  performer:
+  - value: Qmkhy5b
+    qualifiers:
+      role:
+      - tar
+      - vocals
+    references:
+    - source: soundcloud.com-siavashimanitar-w4hqgtxtztmh
+      quote: 'تار و آواز: سیاوش ایمانی - تنبک: گهرناز مسایلی'
+      accessed: 2026-11-22
+      locator: SoundCloud performer credits
+  contributor:
+  - value: Qmkhy5b
+    qualifiers:
+      role:
+      - arranger
+    references:
+    - source: soundcloud.com-siavashimanitar-w4hqgtxtztmh
+      quote: 'تنظیم: سیاوش ایمانی'
+      accessed: 2026-11-22
+      locator: Track arrangement credit

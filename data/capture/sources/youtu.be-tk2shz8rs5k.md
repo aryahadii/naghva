@@ -9,3 +9,7 @@ status: processed
 > Kronos Quartet, Mahsa and Marjan Vahdat, My Ruthless Companion · Kirkelig Kulturverksted
 
 Published video and original channel, read 2026-11-21.
+
+> 2019-02-22
+
+Native public upload date, read 2026-11-21.

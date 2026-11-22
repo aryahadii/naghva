@@ -23,3 +23,14 @@ statements:
       quote: ‎KARVAN - Apple Music
       accessed: '2026-11-21'
       locator: Page title
+  image:
+  - value: https://etniskmusikklubb.no/wp-content/uploads/2023/01/em05.jpg
+    qualifiers:
+      credit:
+        text: Concert photograph on Karvan’s 2001 sleeve, Etnisk Musikklubb
+        language: en
+    references:
+    - source: etniskmusikklubb.no-produkt-where-the-music-traditions-from-baluchistan-persia-and-india-meet
+      quote: Where the music traditions from Baluchistan, Persia and India meet
+      accessed: 2026-11-21
+      locator: Original label’s 2001 CD sleeve, with a concert photograph

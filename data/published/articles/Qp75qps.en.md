@@ -95,9 +95,39 @@ references:
     quote: Vahideh has been a creative artist for VIGIL
     locator: Original programme, liner notes or performer credit
     accessed: '2026-11-21'
+  tour:
+    source: t.me-malihehmoradi-20
+    quote: کنسرت تور استرالیا/آدلاید 2017
+    accessed: 2026-11-22
+    locator: Original video credits
+  tourv:
+    source: t.me-malihehmoradi-20
+    quote: قانون:‌وحیده عیسایی
+    accessed: 2026-11-22
+    locator: Original video credits
+  tourm:
+    source: t.me-malihehmoradi-20
+    quote: ملیحه مرادی
+    accessed: 2026-11-22
+    locator: Original video credits
+  rooster:
+    source: cms.lamama.com.au-media-mbkfqi5h-la-mama-annual-general-report-2024-1.pdf
+    quote: 'Music: Vahideh Eisaei'
+    accessed: 2026-11-22
+    locator: Festival retrospective, p. 46
+  cast:
+    source: cms.lamama.com.au-media-mbkfqi5h-la-mama-annual-general-report-2024-1.pdf
+    quote: 'Performers: Sepideh Karimi, Asal Rajabi, Vahideh Eisaei, Negin Majidi and Sana Nasimi Saeb'
+    accessed: 2026-11-22
+    locator: Festival retrospective, p. 46
+  shamlou:
+    source: www.sbs.com.au-language-persian-fa-podcast-episode-the-childrens-show-golden-rooster-is-staged-in-melbourne-9pg6g3mdk
+    quote: احمد شاملو
+    accessed: 2026-11-22
+    locator: SBS interview introduction
 ---
-Vahideh Eisaei began studying the radif at twelve at the Tehran Music School. She played qanun, a plucked zither, and studied music at the University of Tehran. In 2008 she moved to Australia, where she completed a master’s degree at the University of Western Australia. In Perth she helped research children’s music in migrant communities. In Melbourne she founded the group Daftar Aval with cellist Zoë Barry and oud player Reza Kashi.[^r1][^r2][^r3][^r4][^r5]
+Vahideh Eisaei began studying the radif at twelve at the Tehran Music School. She played qanun, a plucked zither, and studied music at the University of Tehran. In 2008 she moved to Australia, where she completed a master’s degree at the University of Western Australia. In Perth she helped research children’s music in migrant communities. In 2017 she played qanun in Adelaide on singer Maliheh Moradi’s Australian tour.[^tour][^tourv][^tourm] In Melbourne she founded the group Daftar Aval with cellist Zoë Barry and oud player Reza Kashi.[^r1][^r2][^r3][^r4][^r5]
 
-Theatre gave her qanun a speaking part. In the original staging of The Audition she played her own qanun music. The company also credited her with creative work on VIGIL.[^vigil] In Love’s Universe Is Inside You, she wrote the music and the script, taking the role of Raavi, a travelling storyteller who responds to verses by Rumi. The Storytellers began with the Kerman carpets in her childhood home. She drew on the way weavers sing the patterns as they work, performing the piece with dancer Elnaz Sheshgelani and singer Issie Hart in 2024.[^r6][^r7][^r8][^r9][^r10][^r11][^r12][^r13]
+In the original staging of *The Audition* she played her own qanun music. She helped develop *VIGIL* with the same theatre company.[^vigil] In Love’s Universe Is Inside You, she wrote the music and the script, taking the role of Raavi, a travelling storyteller who responds to verses by Rumi. For La Mama’s 2024 adaptation of Ahmad Shamlou’s *The Golden Rooster*, she wrote the music and joined the cast.[^rooster][^cast][^shamlou] *The Storytellers* began with the Kerman carpets in her childhood home. She drew on the way weavers sing the patterns as they work, performing the piece with dancer Elnaz Sheshgelani and singer Issie Hart in 2024.[^r6][^r7][^r8][^r9][^r10][^r11][^r12][^r13]
 
 Her recording with The Letter String Quartet grew out of Mohammadreza Shajarian’s “Didi ey Mah.” Across its three movements, qanun and strings share the score with four voices and electronics. As a member of The Resonant Heart she arranged “Shah Sanaam” with the collective for its first EP. Her qanun also appears beside pipes in Bede Patterson’s recording of Martyn Bennett’s “Karabach.”[^r14][^r15][^r16][^r17][^r18]

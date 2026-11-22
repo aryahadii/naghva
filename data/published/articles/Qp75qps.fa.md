@@ -95,9 +95,39 @@ references:
     quote: Vahideh has been a creative artist for VIGIL
     locator: Original programme, liner notes or performer credit
     accessed: '2026-11-21'
+  tour:
+    source: t.me-malihehmoradi-20
+    quote: کنسرت تور استرالیا/آدلاید 2017
+    accessed: 2026-11-22
+    locator: Original video credits
+  tourv:
+    source: t.me-malihehmoradi-20
+    quote: قانون:‌وحیده عیسایی
+    accessed: 2026-11-22
+    locator: Original video credits
+  tourm:
+    source: t.me-malihehmoradi-20
+    quote: ملیحه مرادی
+    accessed: 2026-11-22
+    locator: Original video credits
+  rooster:
+    source: cms.lamama.com.au-media-mbkfqi5h-la-mama-annual-general-report-2024-1.pdf
+    quote: 'Music: Vahideh Eisaei'
+    accessed: 2026-11-22
+    locator: Festival retrospective, p. 46
+  cast:
+    source: cms.lamama.com.au-media-mbkfqi5h-la-mama-annual-general-report-2024-1.pdf
+    quote: 'Performers: Sepideh Karimi, Asal Rajabi, Vahideh Eisaei, Negin Majidi and Sana Nasimi Saeb'
+    accessed: 2026-11-22
+    locator: Festival retrospective, p. 46
+  shamlou:
+    source: www.sbs.com.au-language-persian-fa-podcast-episode-the-childrens-show-golden-rooster-is-staged-in-melbourne-9pg6g3mdk
+    quote: احمد شاملو
+    accessed: 2026-11-22
+    locator: SBS interview introduction
 ---
-وحیده عیسایی از دوازده‌سالگی در هنرستان موسیقی تهران ردیف آموخت. سازش قانون بود و در دانشکدهٔ هنرهای زیبای دانشگاه تهران موسیقی خواند. در ۲۰۰۸ به استرالیا رفت و در دانشگاه استرالیای غربی کارشناسی ارشد موسیقی گرفت. در پِرت در پژوهشی دربارهٔ موسیقی کودکانِ خانواده‌های مهاجر شرکت کرد. بعدها در ملبورن به همراه زوئی بری، نوازندهٔ ویولنسل، و رضا کاشی، نوازندهٔ عود، گروه «دفتر اول» را برپا کرد.[^r1][^r2][^r3][^r4][^r5]
+وحیده عیسایی از دوازده‌سالگی در هنرستان موسیقی تهران ردیف آموخت. سازش قانون بود و در دانشکدهٔ هنرهای زیبای دانشگاه تهران موسیقی خواند. در ۲۰۰۸ به استرالیا رفت و در دانشگاه استرالیای غربی کارشناسی ارشد موسیقی گرفت. در پِرت در پژوهشی دربارهٔ موسیقی کودکانِ خانواده‌های مهاجر شرکت کرد. در ۲۰۱۷ در اجرای آدلایدِ تور استرالیای ملیحه مرادی قانون نواخت.[^tour][^tourv][^tourm] بعدتر در ملبورن به همراه زوئی بری، نوازندهٔ ویولنسل، و رضا کاشی، نوازندهٔ عود، گروه «دفتر اول» را برپا کرد.[^r1][^r2][^r3][^r4][^r5]
 
-عیسایی در اجرای نخست The Audition با قانون موسیقی‌ای را که ساخته بود نواخت. گروه نمایشی نام او را در میان هنرمندانِ همکار در شکل‌گیری VIGIL نیز آورده است.[^vigil] برای Love’s Universe Is Inside You هم متن نوشت و هم موسیقی ساخت و خود در نقش «راوی»، قصه‌گویی در سفر، به شعرهای مولانا پاسخ داد. فکرِ The Storytellers از قالی‌های کرمان در خانهٔ کودکی‌اش آمد. نقش‌خوانیِ بافندگان را دستمایه قرار داد و در ۲۰۲۴ این اثر را با الناز ششگلانی، رقصنده، و ایسی هارت، خواننده، اجرا کرد.[^r6][^r7][^r8][^r9][^r10][^r11][^r12][^r13]
+عیسایی در اجرای نخست The Audition با قانون موسیقی‌ای را که ساخته بود نواخت. با همان گروه در شکل‌گیری نمایش VIGIL هم همکاری کرد.[^vigil] برای Love’s Universe Is Inside You هم متن نوشت و هم موسیقی ساخت و خود در نقش «راوی»، قصه‌گویی در سفر، به شعرهای مولانا پاسخ داد. در اقتباسِ ۲۰۲۴ تئاتر لا ماما از «خروس زری پیرهن پری» احمد شاملو موسیقی ساخت و خودش هم بازی کرد.[^rooster][^cast][^shamlou] فکرِ The Storytellers از قالی‌های کرمان در خانهٔ کودکی‌اش آمد. نقش‌خوانیِ بافندگان را دستمایه قرار داد و در ۲۰۲۴ این اثر را با الناز ششگلانی، رقصنده، و ایسی هارت، خواننده، اجرا کرد.[^r6][^r7][^r8][^r9][^r10][^r11][^r12][^r13]
 
 «دیدی ای مه» محمدرضا شجریان نقطهٔ آغاز کار مشترک او و کوارتت زهی لِتر بود. در سه بخش این اثر، چهار صدا و موسیقی الکترونیک در کنار قانون و سازهای زهی شنیده می‌شوند. عیسایی برای نخستین مجموعهٔ گروه The Resonant Heart در تنظیم «Shah Sanaam» با دیگر اعضا شریک شد. در ضبط بید پترسن از «Karabach» مارتین بنت نیز قانون او در کنار نی‌انبان شنیده می‌شود.[^r14][^r15][^r16][^r17][^r18]

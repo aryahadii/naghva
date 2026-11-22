@@ -1,0 +1,39 @@
+id: Qr8neff
+type: release
+statements:
+  name:
+  - value:
+      text: به مژگان سیه
+      language: fa
+    references:
+    - source: vista.ir-n-mehrnews-nyrmq
+      quote: «به مژگان سیه»
+      accessed: 2026-11-21
+      locator: Track named by the vocalist in original release reporting
+  contributor:
+  - value: Qhqb38j
+    qualifiers:
+      role: composer
+    references:
+    - source: vista.ir-n-mehrnews-nyrmq
+      quote: «به مژگان سیه»
+      accessed: 2026-11-21
+      locator: Track named by the vocalist in original release reporting
+  performer:
+  - value: Qkxwpws
+    qualifiers:
+      role: vocals
+    references:
+    - source: vista.ir-n-mehrnews-nyrmq
+      quote: خوانندگی سیاوش رضوان بهبهانی
+      accessed: 2026-11-21
+      locator: Vocal credit reported by Mehr News
+  release date:
+  - value:
+      date: 1404-12
+      calendar: jalali
+    references:
+    - source: vista.ir-n-mehrnews-nyrmq
+      quote: توسط مجموعه «ماهور» منتشر شد
+      accessed: 2026-11-21
+      locator: Bamdad-e Bazm release reported in Esfand 1404

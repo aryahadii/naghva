@@ -1,0 +1,99 @@
+id: Qm6w85y
+type: act
+statements:
+  name:
+  - value:
+      text: Sepidar Ensemble
+      language: en
+    references:
+    - source: gulbenkian.pt-musica-en-agenda-ensemble-sepidar
+      quote: Ensemble Sepidar
+      accessed: 2026-11-22
+      locator: Presenter artist billing
+  - value:
+      text: گروه سپیدار
+      language: fa
+    references:
+    - source: mehrnews.com-xv6lk
+      quote: با همراهی گروه «سپیدار»
+      accessed: 2026-11-22
+      locator: Original 1400 release announcement
+  image:
+  - value: https://gulbenkian.pt/musica/wp-content/uploads/sites/3/2026/05/64_Sepidar-C-April-Renae_16x9-1.jpg
+    qualifiers:
+      credit:
+        text: April Renae
+        language: en
+    references:
+    - source: gulbenkian.pt-musica-en-agenda-ensemble-sepidar
+      quote: https://gulbenkian.pt/musica/wp-content/uploads/sites/3/2026/05/64_Sepidar-C-April-Renae_16x9-1.jpg
+      accessed: 2026-11-22
+      locator: Original portrait on the programme
+  profile link:
+  - value: https://music.apple.com/us/artist/sepidar-ensemble/1565532963
+    references:
+    - source: music.apple.com-us-artist-sepidar-ensemble-1565532963
+      quote: Sepidar Ensemble
+      accessed: 2026-11-22
+      locator: Native artist catalogue
+  - value: https://open.spotify.com/artist/5dOH1LuwnaBh7gcaO5DyvM
+    references:
+    - source: open.spotify.com-artist-5doh1luwnabh7gcao5dyvm
+      quote: Sepidar Ensemble
+      accessed: 2026-11-22
+      locator: Native artist catalogue
+  - value: https://open.spotify.com/artist/6hX2kvM4pSkyf10mwWJ8QJ
+    references:
+    - source: open.spotify.com-artist-6hx2kvm4pskyf10mwwj8qj
+      quote: Sepidar Ensemble
+      accessed: 2026-11-22
+      locator: Spotify profile spelling and credits
+  formation date:
+  - value:
+      date: '2015'
+    references:
+    - source: gulbenkian.pt-musica-en-agenda-ensemble-sepidar
+      quote: Founded in 2015
+      accessed: 2026-11-22
+      locator: Foundation year
+  - value:
+      date: '2016'
+    references:
+    - source: persianmusicheritage.org-index.php-portfolio-item-sepidar
+      quote: Sepidar was created by Siavash Imani in 2016
+      accessed: 2026-11-22
+      locator: Agency’s different formation year
+  life event:
+  - value:
+      text: طراحی، ساخت و اجرای یک «مجلسِ» گروه‌نوازی ایرانی
+      language: fa
+    qualifiers:
+      point in time:
+        date: '2021'
+    references:
+    - source: mehrnews.com-xv6lk
+      quote: طراحی، ساخت و اجرای یک «مجلسِ» گروه‌نوازی ایرانی
+      accessed: 2026-11-22
+      locator: Imani’s liner essay on the majles
+  - value:
+      text: Concert recorded by RTS, Espace 2
+      language: en
+    qualifiers:
+      point in time:
+        date: '2021-11-07'
+    references:
+    - source: adem.ch-en-evenements-new-iranian-classical-music
+      quote: Concert recorded by RTS, Espace 2
+      accessed: 2026-11-22
+      locator: Broadcast recording credit
+  - value:
+      text: Floricoltura Schullian
+      language: en
+    qualifiers:
+      point in time:
+        date: '2026-09-16'
+    references:
+    - source: transart.it-en-editions-26-persian-dastgah-music
+      quote: Floricoltura Schullian
+      accessed: 2026-11-22
+      locator: Bolzano concert venue, 16 September 2026

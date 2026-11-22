@@ -91,11 +91,16 @@ statements:
   contributor:
   - value: Q5z9jzy
     qualifiers:
-      role: arranger
+      role:
+      - arranger
     references:
     - source: valleyentertainment.bandcamp.com-album-hearts-endless-garden-woven-verses
       quote: Arranger Atabak Elyasi
       accessed: '2026-11-13'
+    - source: www.mahsavahdat.net-discography
+      quote: arranged by Atabak Elyasi
+      accessed: 2026-11-21
+      locator: Heart’s Endless Garden discography text
   - value: Qxzfpnw
     qualifiers:
       role: producer

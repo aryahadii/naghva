@@ -10,6 +10,15 @@ statements:
       quote: Parsinava
       accessed: '2026-11-21'
       locator: Artist interview, biography or performance credits
+  - value:
+      text: پارسی‌نوا
+      language: fa
+    references:
+    - source: www.giglon.com-todos-idevent-parsinava-intruso-mayo
+      quote: Parsinava
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    editorial: true
   image:
   - value: https://i.ytimg.com/vi/FbrmCVfHinQ/hqdefault.jpg
     references:

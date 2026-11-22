@@ -30,6 +30,12 @@ statements:
       quote: Caravan
       accessed: 2026-11-21
       locator: Track 10
+  - value: https://www.youtube.com/watch?v=zN6FNQMbHX8
+    references:
+    - source: actaonline.org-profile-atabak-elyasi
+      quote: which was composed and arranged by Atabak Elyasi
+      accessed: 2026-11-21
+      locator: Caravan recording
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music/ee/b1/38/mzi.rmzoerrw.jpg/1200x630bb.jpg
     references:
@@ -37,3 +43,14 @@ statements:
       quote: Caravan
       accessed: 2026-11-21
       locator: Track 10
+  contributor:
+  - value: Q5z9jzy
+    qualifiers:
+      role:
+      - composer
+      - arranger
+    references:
+    - source: actaonline.org-profile-atabak-elyasi
+      quote: which was composed and arranged by Atabak Elyasi
+      accessed: 2026-11-21
+      locator: Caravan recording

@@ -131,15 +131,6 @@ Digital artist issues, named guest tracks and original artist recordings are ide
 - Lalalala Gohle Laleh (Qw7p7p6)
 - Lalalala Gohle Laleh (Q98snzx)
 - Kurdish Song (feat. Marjan Vahdat) (Qynee7h)
-- Mina (Qq4rcbh)
-- Bi Man Maro (Qq3n9k6)
-- Haleili (Qbexzkt)
-- The Flower of a Paradise Garden (Q8tsgcr)
-- Chahar Pareh (Qh2nxxd)
-- Dorna (Qfvfft9)
-- Gole Laleh (Qx5xqxd)
-- Doosh Doosh (Qk3fjn2)
-- Avaze Shoushatari (Qmanysj)
 - Saghi Nameh (Q2j4dzz)
 - Songs from a Persian Garden (Q63pmdr)
 - Placeless (Qfq962r)
@@ -159,3 +150,18 @@ Digital artist issues, named guest tracks and original artist recordings are ide
 - Kronos Quartet, Mahsa and Marjan Vahdat, My Ruthless Companion (Qkwknyt)
 - Marjan Vahdat "Rooted in you" (Q3v64pm)
 - Mahsa Vahdat & Marjan Vahdat   Twinklings of hope (Qypdr5j)
+
+- Sad Sol (Lullaby) by Mahsa and Marjan Vahdat (Qgx5zkk)
+
+- Lalalala Gohle Laleh (the early KKV recording) (Q3ptv6m) · https://open.spotify.com/track/5U6qd4uN4MNVveUteq3Vof
+- Lullabies from the Axis of Evil (Qg32kkw)
+- To messer mot hjemløshet (original KKV double CD) (Qjbspg8)
+- I begynnelsen var pulsen (the Placeless arrangement remastered for KKV’s anniversary vinyl) (Q7jg6j6)
+
+The 2003–04 KKV compilation’s Lalalala Gohle Laleh is identified on the label’s original track list and two stores. Their later arrangement on Songs from a Persian Garden quotes “She’s Got the Whole World in Her Hands.” The Rumi contribution Musikkmeditasjon is attributed to both sisters in the original Norwegian CD notes. KKV’s anniversary box reissues the already represented Placeless performance of “My Ruthless Companion.” The Other Minds programme gives inconsistent personnel for Braids of Innocence, which KKV and Mahsa credit as a Mahsa Vahdat and SKRUK collaboration. The uncorroborated Marjan billing was set aside.
+
+- Førde International Festival (2014 radio concert) (Qezfd8b)
+
+The KKV Spotify Songs from a Persian Garden and the Apple edition agree on the first nine recordings by normalized titles, track order and durations to within one second (including Gole Laleh under its expanded Apple title and Awaze Shoushtari under the alternative spelling). Their nine pairs are represented once each. Apple includes the additional I Shall Be Released. Saghi Nameh differs in length by about five seconds between the two current issues, so the two cuts retain separate references pending a master comparison.
+
+ACTA embedded a third-party copy of the 330-second Sigtuna Rooted in You performance. Original and copy show the same performers and chapel scene. The album label’s own upload is the listening link, and its previous mirror panel is an alias.

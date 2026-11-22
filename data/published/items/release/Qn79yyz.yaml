@@ -42,6 +42,19 @@ statements:
       quote: Hossein Alizadeh
       accessed: '2026-11-21'
       locator: Distributor artist credit
+  - value: Qmwd6jf
+    references:
+    - &id001
+      source: siamak-jahangiri-ap1771151603
+      quote: Khara (feat. Ali Boustan, Siamak Jahangiri, Pouria Akhavas & Misagh Mehrpour)
+      accessed: '2026-11-21'
+      locator: Named track billing
+  - value: Qsb6rx8
+    references:
+    - *id001
+  - value: Qff2a32
+    references:
+    - *id001
   listen link:
   - value: https://music.apple.com/us/song/khara-feat-ali-boustan-siamak-jahangiri-pouria-akhavas/1771151628
     references:

@@ -28,7 +28,8 @@ statements:
       accessed: '2026-11-21'
       locator: Performance description personnel
     - source: ethnocloud.com-this_tale_of_ours
-      quote: two Toronto musicians, Araz Salek and Pedram Khavar-Zamini, and two from Crete, Ross Daly and Kelly Thoma
+      quote: two Toronto musicians, Araz Salek and Pedram Khavar-Zamini, and two from Crete, Ross Daly and Kelly
+        Thoma
       accessed: '2026-11-21'
       locator: Group biography
   - value: Qd98y24
@@ -39,6 +40,15 @@ statements:
       quote: Khavarzamini founded his own percussion tombak group, named VARASHAN.
       accessed: '2026-11-21'
       locator: Artist biography
+  - value: Qm6w85y
+    qualifiers:
+      role:
+      - tombak
+    references:
+    - source: transart.it-en-editions-26-persian-dastgah-music
+      quote: Pedram Khavarzamini
+      accessed: 2026-11-22
+      locator: Named in original Transart roster
   birth date:
   - value:
       date: '1975'

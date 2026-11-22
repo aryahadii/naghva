@@ -34,3 +34,5 @@ status: processed
 > Misty Solitude
 
 > When strangers meet
+
+> “Tanha”, “Negarnine”

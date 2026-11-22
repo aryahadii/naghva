@@ -21,3 +21,7 @@ Original artist image, read 2026-11-21.
 > when I was twelve years old
 
 Guitarist on getting his first instrument, read 2026-11-21.
+
+> two song split EP with “Warbeast”
+
+Musician names War of the Gargantuas, read 2026-11-21.

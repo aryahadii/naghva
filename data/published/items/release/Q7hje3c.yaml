@@ -6,16 +6,58 @@ statements:
       text: از گلستان عجم
       language: fa
     references:
-    - &id001
-      source: siamak-jahangiri-tg3081
+    - source: siamak-jahangiri-tg3081
       quote: از گلستان عجم
       accessed: '2026-11-21'
       locator: Publisher catalogue title or programme
   performer:
   - value: Qnz4xnz
+    qualifiers:
+      role: ney
     references:
-    - *id001
+    - source: t.me-mahoorinstitute-3081
+      quote: سیامک جهانگیری، نی.
+      accessed: 2026-11-22
+      locator: Issued work credits
+  - value: Qqaf55n
+    qualifiers:
+      role: kamancheh
+    references:
+    - source: t.me-mahoorinstitute-3081
+      quote: سامر حبیبی، کمانچه آلتو
+      accessed: 2026-11-22
+      locator: Issued work credits
+  - value: Qtqjb47
+    qualifiers:
+      role: oud
+    references:
+    - source: t.me-mahoorinstitute-3081
+      quote: نگار بوبان، عود.
+      accessed: 2026-11-22
+      locator: Issued work credits
+  - value: Q4xmym5
+    qualifiers:
+      role:
+      - percussion
+      - vocals
+    references:
+    - source: t.me-mahoorinstitute-3081
+      quote: بهزاد میرزایی، دایره ی ترکی و آواز
+      accessed: 2026-11-22
+      locator: Issued work credits
   release type:
   - value: album
     references:
-    - *id001
+    - source: siamak-jahangiri-tg3081
+      quote: از گلستان عجم
+      accessed: '2026-11-21'
+      locator: Publisher catalogue title or programme
+  release date:
+  - value:
+      date: '1399'
+      calendar: jalali
+    references:
+    - source: t.me-mahoorinstitute-3081
+      quote: 'سال انتشار: ۱۳۹۹'
+      accessed: 2026-11-22
+      locator: Original publisher’s issue year

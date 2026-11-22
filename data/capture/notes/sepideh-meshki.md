@@ -9,7 +9,7 @@ Compared Bandcamp original issuers, Apple Music, Spotify, YouTube, SoundCloud an
 - Bayat-E-Rajeh (Q23q8wx) · https://music.apple.com/us/song/bayat-e-rajeh/915176631 · https://open.spotify.com/track/7kVvlcIOXwxb56LXiwCVsk
 - Chahar Mezrab (Q3y8jvm) · https://music.apple.com/us/song/chahar-mezrab/1407034772 · https://open.spotify.com/track/0bvvGtHAiNYb0bjjCuV9lh
 - Chaharmezrab (Qt8hdsp) · https://music.apple.com/us/song/chaharmezrab/915176626 · https://open.spotify.com/track/47m6eT5p8vYM4C74nUFZxD
-- Chand Shab Setar, Pt. 9 (Live at Rudaki Hall, Tehran, 2018) - EP (Qghpspv) · https://music.apple.com/us/album/chand-shab-setar-pt-9-live-at-rudaki-hall-tehran-2018-ep/1775559579 · https://music.apple.com/us/song/chand-shab-setar-pt-9-live-at-rudaki-hall-tehran-2018/1775559584 · https://www.youtube.com/watch?v=pa4deSoyvsM
+- Chand Shab Setar, Pt. 9 (Live at Rudaki Hall, Tehran, 2018) - EP (Qghpspv) · https://music.apple.com/us/album/chand-shab-setar-pt-9-live-at-rudaki-hall-tehran-2018-ep/1775559579 · https://music.apple.com/us/song/chand-shab-setar-pt-9-live-at-rudaki-hall-tehran-2018/1775559584 · https://www.youtube.com/watch?v=imvmWPn52Pw · https://www.youtube.com/watch?v=pa4deSoyvsM · https://www.youtube.com/watch?v=CMLMUA6p84U
 - Dad-O Goshayesh (Q3yjefy) · https://music.apple.com/us/song/dad-o-goshayesh/915176621 · https://open.spotify.com/track/5behacHv44AEQW9litylbT
 - Daramad Bayat-E Tork (Q4b7xdx) · https://music.apple.com/us/song/daramad-bayat-e-tork/915176619 · https://open.spotify.com/track/0DuhJbvMU01bcGbA0klmbE
 - Daramad-E Bayat-E Esfahan (Q66mkb7) · https://music.apple.com/us/song/daramad-e-bayat-e-esfahan/915176628 · https://open.spotify.com/track/2YZBZOOWqmeNTb9FYH9mkN
@@ -55,3 +55,15 @@ Compared Bandcamp original issuers, Apple Music, Spotify, YouTube, SoundCloud an
 - کنسرت گروه موسیقی آن"آفتاب روشن" (Qcvyvza) · https://www.youtube.com/watch?v=PpCt3n7vw_4
 - کنسرت گروه موسیقی آن"با فراقت چند سازم" (Qzvzyde) · https://www.youtube.com/watch?v=sBx1WiZDfjQ
 - کنسرت‌های سه‌گانه‌ی شیدا (Qsyjzjs)
+- Setar Solo in Segah (Hafdang session, 2022) (Qky2bdz) · https://www.youtube.com/watch?v=ZcSP8RjAH_Q · excerpt https://www.youtube.com/watch?v=QUn0rvopzB0
+
+NHI published the complete 24:16 Rudaki recital and a 0:59 excerpt. Both are linked to Qghpspv. Hafdang’s short Segah performance comes from a separate 2022 label production.
+- A Dialogue Without Words · artist channel clip (Qwr2qj2) · https://www.youtube.com/watch?v=QWu-bTmMjeU
+- Quartal · artist channel clip (Qs63e2d) · https://www.youtube.com/watch?v=w3pjzQZUIFk
+- Setar solo in Bidad Homayoun (Qg2t2xx) · https://www.youtube.com/watch?v=dmAVNG52C2I
+- Saz and Avaz in Abu Ata (Qpczyfw) · https://www.youtube.com/watch?v=iODbRb2-efU
+- Zarbi Chakavak (Qgwh2jb) · https://www.youtube.com/watch?v=QuqunpdhglM
+- Delkash (with Goharnaz Masaeli) (Qdkgstr) · https://www.youtube.com/watch?v=KxTAXd9QIgc
+- Dashti 2 (Q7z5dgm) · https://www.youtube.com/watch?v=KCF4A6EJ-8s
+
+The complete artist upload (CMLMUA6p84U) and NHI issue (imvmWPn52Pw) have the same 24:16 runtime and the same music in the 4:20 to 4:38 comparison (20 ms amplitude correlation 0.989, 40 ms alignment). The 2018 performances share a single panel, with the artist upload’s issued address kept as an alias. The 2022 Hafdang Segah performance remains a distinct recording.

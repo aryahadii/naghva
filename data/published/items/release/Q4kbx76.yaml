@@ -6,8 +6,7 @@ statements:
       text: شوق‌نامه
       language: fa
     references:
-    - &id001
-      source: siamak-jahangiri-eco
+    - source: siamak-jahangiri-eco
       quote: شوق‌نامه
       accessed: '2026-11-21'
       locator: Edition title
@@ -21,4 +20,16 @@ statements:
   release type:
   - value: album
     references:
-    - *id001
+    - source: siamak-jahangiri-eco
+      quote: شوق‌نامه
+      accessed: '2026-11-21'
+      locator: Edition title
+  release date:
+  - value:
+      date: '1390'
+      calendar: jalali
+    references:
+    - source: www.ecieco.org-fa-news-4376
+      quote: آلبوم «شوق نامه» که سال ۱۳۹۰ در قالب سه سی‌دی منتشر شده
+      accessed: 2026-11-22
+      locator: Retrospective on the original 3CD issue

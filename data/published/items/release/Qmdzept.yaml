@@ -23,6 +23,12 @@ statements:
       quote: The Sun Rises (feat. Mahsa Vahdat & Marjan Vahdat)
       accessed: 2026-11-21
       locator: Track 7
+  - value: Q84j5eh
+    references:
+    - source: open.spotify.com-album-3tulwql7yrryourm8qxqxq
+      quote: The Sun Rises (feat. Mahsa Vahdat, Marjan Vahdat)
+      accessed: 2026-11-21
+      locator: Exact digital track from the original album
   listen link:
   - value: https://music.apple.com/us/song/the-sun-rises-feat-mahsa-vahdat-marjan-vahdat/1453184396
     references:
@@ -43,3 +49,12 @@ statements:
       quote: The Sun Rises (feat. Mahsa Vahdat & Marjan Vahdat)
       accessed: 2026-11-21
       locator: Track 7
+  contributor:
+  - value: Qhqb38j
+    qualifiers:
+      role: arranger
+    references:
+    - source: www.sahbakia.com-projects-placeless-2019
+      quote: 3 - The Sun Rises
+      accessed: 2026-11-21
+      locator: One of the six arrangements identified by Aminikia

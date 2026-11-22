@@ -25,3 +25,11 @@ Original artist image, read 2026-11-21.
 > recorded on three continents
 
 Album production, read 2026-11-21.
+
+> Marjan recording all the vocal tracks, with the musicians then making their contributions one by one
+
+Label describes the remote recording method, read 2026-11-21.
+
+> Previously Marjan Vahdat has released the solo albums “Blue Fields” (2013) and “Serene Hope” (2017).
+
+Label original release history, read 2026-11-21.

@@ -10,6 +10,10 @@ statements:
       quote: Mina
       accessed: 2026-11-21
       locator: Track 1
+    - source: open.spotify.com-album-29alud30vgo9vnjxsyyffq
+      quote: Mina · Marjan Vahdat, Mahsa Vahdat
+      accessed: 2026-11-21
+      locator: Named track 1
   performer:
   - value: Qtrh4vq
     references:
@@ -17,12 +21,20 @@ statements:
       quote: Songs from a Persian Garden · Mahsa Vahdat, Marjan Vahdat · 2008-05-06
       accessed: 2026-11-21
       locator: Album artist and issue date
+    - source: open.spotify.com-album-29alud30vgo9vnjxsyyffq
+      quote: Mina · Marjan Vahdat, Mahsa Vahdat
+      accessed: 2026-11-21
+      locator: Named track 1
   - value: Qp2mk6b
     references:
     - source: music.apple.com-us-album-songs-from-a-persian-garden-280342118
       quote: Songs from a Persian Garden · Mahsa Vahdat, Marjan Vahdat · 2008-05-06
       accessed: 2026-11-21
       locator: Album artist and issue date
+    - source: open.spotify.com-album-29alud30vgo9vnjxsyyffq
+      quote: Mina · Marjan Vahdat, Mahsa Vahdat
+      accessed: 2026-11-21
+      locator: Named track 1
   listen link:
   - value: https://music.apple.com/us/song/mina/280342125
     references:
@@ -30,6 +42,12 @@ statements:
       quote: Mina
       accessed: 2026-11-21
       locator: Track 1
+  - value: https://open.spotify.com/track/0dwqQzKmbcgCFGxGcNtG07
+    references:
+    - source: open.spotify.com-album-29alud30vgo9vnjxsyyffq
+      quote: Mina · Marjan Vahdat, Mahsa Vahdat
+      accessed: 2026-11-21
+      locator: Named track 1
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music/6d/b6/8a/mzi.mjinblho.jpg/1200x630bb.jpg
     references:

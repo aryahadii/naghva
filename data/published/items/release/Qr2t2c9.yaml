@@ -10,11 +10,19 @@ statements:
       quote: Sacred Fire
       accessed: 2026-11-21
       locator: Track 3
+    - source: music.apple.com-us-album-the-rogue-prince-of-persia-the-complete-soundtrack-1830448225
+      quote: Sacred Fire
+      accessed: 2026-11-21
+      locator: Track 3
   performer:
   - value: Qghhr4e
     references:
     - source: open.spotify.com-album-1m6zlx5cmcvdkyib91tsik
       quote: ASADI
+      accessed: 2026-11-21
+      locator: Individual track credits
+    - source: open.spotify.com-album-1etaftuh3nt33wbknqfk7j
+      quote: ASADI, Prince of Persia
       accessed: 2026-11-21
       locator: Individual track credits
   listen link:
@@ -28,6 +36,18 @@ statements:
     references:
     - source: open.spotify.com-album-1m6zlx5cmcvdkyib91tsik
       quote: The Rogue Prince of Persia (Original Game Soundtrack) · ASADI
+      accessed: 2026-11-21
+      locator: Native digital record
+  - value: https://music.apple.com/us/song/sacred-fire/1830448228
+    references:
+    - source: music.apple.com-us-album-the-rogue-prince-of-persia-the-complete-soundtrack-1830448225
+      quote: Sacred Fire
+      accessed: 2026-11-21
+      locator: Track 3
+  - value: https://open.spotify.com/track/6y9BNjkY3Ssi5QjNc1qaEk
+    references:
+    - source: open.spotify.com-album-1etaftuh3nt33wbknqfk7j
+      quote: The Rogue Prince of Persia (The Complete Soundtrack) · ASADI
       accessed: 2026-11-21
       locator: Native digital record
   cover art:

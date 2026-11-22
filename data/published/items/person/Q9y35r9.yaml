@@ -10,3 +10,39 @@ statements:
       quote: Bahramji
       accessed: '2026-11-21'
       locator: Recording title or artist credit
+  image:
+  - value: https://i.scdn.co/image/ab6761610000e5ebcc26ab157d7e9bd88dcab4ff
+    qualifiers:
+      credit:
+        text: Bahramji artist profile, Spotify
+        language: en
+    references:
+    - source: open.spotify.com-artist-1trlkr7ooxzewuckywht5b
+      quote: https://i.scdn.co/image/ab6761610000e5ebcc26ab157d7e9bd88dcab4ff
+      accessed: 2026-11-21
+      locator: Artist’s portrait
+  profile link:
+  - value: https://open.spotify.com/artist/1TRLkR7OoXzEwUckYwHt5B
+    references:
+    - source: open.spotify.com-artist-1trlkr7ooxzewuckywht5b
+      quote: Bahramji
+      accessed: 2026-11-21
+      locator: Artist profile
+  - value: https://music.apple.com/us/artist/bahramji/218120730
+    references:
+    - source: music.apple.com-us-artist-bahramji-218120730
+      quote: Bahramji
+      accessed: 2026-11-21
+      locator: Artist profile
+  - value: https://soundcloud.com/bahramji
+    references:
+    - source: soundcloud.com-bahramji-tracks
+      quote: Bahramji
+      accessed: 2026-11-21
+      locator: Artist profile
+  - value: https://www.youtube.com/channel/UCIfgWxCZQug8PIkGt42z0fg
+    references:
+    - source: www.youtube.com-channel-ucifgwxczqug8pikgt42z0fg
+      quote: Bahramji Official
+      accessed: 2026-11-21
+      locator: Original artist channel

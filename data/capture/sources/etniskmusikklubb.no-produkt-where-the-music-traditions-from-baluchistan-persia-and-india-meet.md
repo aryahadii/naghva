@@ -68,3 +68,7 @@ Artist interview, biography or performance credits, read 2026-11-21.
 > Sufi trance music from Baluchistan
 
 Artist interview, biography or performance credits, read 2026-11-21.
+
+> Where the music traditions from Baluchistan, Persia and India meet
+
+Original label’s 2001 CD sleeve, with a concert photograph, read 2026-11-21.

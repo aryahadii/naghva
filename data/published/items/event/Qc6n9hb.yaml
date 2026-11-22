@@ -1,0 +1,81 @@
+id: Qc6n9hb
+type: event
+statements:
+  name:
+  - value:
+      text: Ensemble Sepidar – Gulbenkian Música
+      language: en
+    references:
+    - source: gulbenkian.pt-musica-en-agenda-ensemble-sepidar
+      quote: 15 Apr 2027
+      accessed: 2026-11-22
+      locator: Announced programme date
+  event date:
+  - value:
+      date: '2027-04-15'
+    references:
+    - source: gulbenkian.pt-musica-en-agenda-ensemble-sepidar
+      quote: 15 Apr 2027
+      accessed: 2026-11-22
+      locator: Announced programme date
+  performer:
+  - value: Qmkhy5b
+    qualifiers:
+      role:
+      - tar
+    references:
+    - source: gulbenkian.pt-musica-en-agenda-ensemble-sepidar
+      quote: 15 Apr 2027
+      accessed: 2026-11-22
+      locator: Announced programme date
+  - value: Qxwemnb
+    qualifiers:
+      role:
+      - ney
+    references:
+    - source: gulbenkian.pt-musica-en-agenda-ensemble-sepidar
+      quote: 15 Apr 2027
+      accessed: 2026-11-22
+      locator: Announced programme date
+  - value: Qm6w85y
+    references:
+    - source: gulbenkian.pt-musica-en-agenda-ensemble-sepidar
+      quote: 15 Apr 2027
+      accessed: 2026-11-22
+      locator: Announced programme date
+  - value: Qcvf546
+    qualifiers:
+      role:
+      - santur
+    references:
+    - source: gulbenkian.pt-musica-en-agenda-ensemble-sepidar
+      quote: 15 Apr 2027
+      accessed: 2026-11-22
+      locator: Announced programme date
+  - value: Qq6ap28
+    qualifiers:
+      role:
+      - kamancheh
+    references:
+    - source: gulbenkian.pt-musica-en-agenda-ensemble-sepidar
+      quote: 15 Apr 2027
+      accessed: 2026-11-22
+      locator: Announced programme date
+  - value: Q5rnjaz
+    qualifiers:
+      role:
+      - tombak
+    references:
+    - source: gulbenkian.pt-musica-en-agenda-ensemble-sepidar
+      quote: 15 Apr 2027
+      accessed: 2026-11-22
+      locator: Announced programme date
+  - value: Q8ve8a6
+    qualifiers:
+      role:
+      - oud
+    references:
+    - source: gulbenkian.pt-musica-en-agenda-ensemble-sepidar
+      quote: 15 Apr 2027
+      accessed: 2026-11-22
+      locator: Announced programme date

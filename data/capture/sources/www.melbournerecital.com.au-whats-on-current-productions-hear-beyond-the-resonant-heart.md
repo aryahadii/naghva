@@ -21,3 +21,15 @@ Original programme, liner notes or performer credit, read 2026-11-21.
 Original programme, liner notes or performer credit, read 2026-11-21.
 
 > For My Ancestors
+
+> https://api.melbournerecital.com.au/media/0hdlm5zj/the-resonant-heart-desktop-1.png
+
+Original image file of the photograph published by the organizer, read 2026-11-21.
+
+> 20 Mar 2027 7:00pm
+
+Announced Melbourne Recital Centre performance, read 2026-11-21.
+
+> Vahideh Eisaei vocals, qanun
+
+Original artist lineup, read 2026-11-21.

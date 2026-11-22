@@ -48,6 +48,16 @@ statements:
       quote: Sirous Jamali
       accessed: '2026-11-21'
       locator: Distributor artist credit
+  - value: Qqaf55n
+    references:
+    - &id001
+      source: siamak-jahangiri-ap1599984785
+      quote: Khomare Shekasteh Saboo (feat. Siamak Jahangiri, Samer Habibi & Nabil Yousef Sharidavi)
+      accessed: '2026-11-21'
+      locator: Named track billing
+  - value: Qnchec6
+    references:
+    - *id001
   listen link:
   - value: https://music.apple.com/us/song/khomare-shekasteh-saboo-feat-siamak-jahangiri-samer/1599985152
     references:

@@ -95,10 +95,25 @@ references:
     quote: performing at Niavaran Hall with the Shahrazad ensemble
     accessed: '2026-11-21'
     locator: Concert playbill or artist testimony
+  start-tehran:
+    source: www.honaronline.ir----5-57298
+    quote: نوازندگی تار را از سال 1360 نزد مرحوم تقی شاهی آغاز کرد
+    accessed: 2026-11-21
+    locator: Niavaran Cultural Centre’s announcement, quoted by Honar Online
+  early-teachers:
+    source: www.honaronline.ir----5-57298
+    quote: نزد اساتید بزرگ از جمله ارشد طهماسبی، محمدرضا لطفی، حسین علیزاده و مجید کیانی
+    accessed: 2026-11-21
+    locator: Study of repertoire and performance after 1361
+  year:
+    source: www.honaronline.ir----5-57298
+    quote: آذر زرگریان متولد 1343 در تهران است.
+    accessed: 2026-11-21
+    locator: Birth year and city in the presenter’s biography
 ---
 
-Azar Zargarian is a Tehran-born tar player and composer. At Tehran University of Art she compared the Iranian and Azerbaijani tars for her 1995 thesis and played in Hossein Dehlavi’s orchestra for plucked instruments. She taught tar at the girls’ conservatory and went on to earn a master’s degree in performance in 2005.[^birth][^thesis][^study][^pluck][^dehlavi][^teacher][^master]
+Azar Zargarian is a tar player and composer born in Tehran in 1964–65. She began playing tar with Taghi Shahi in 1981–82 and later studied the Iranian repertoire with Arshad Tahmasebi, Mohammad Reza Lotfi, Hossein Alizadeh and Majid Kiani.[^year][^start-tehran][^early-teachers] At Tehran University of Art she compared the Iranian and Azerbaijani tars for her 1995 thesis and played in Hossein Dehlavi’s orchestra for plucked instruments. She taught tar at the girls’ conservatory and went on to earn a master’s degree in performance in 2005.[^birth][^thesis][^study][^pluck][^dehlavi][^teacher][^master]
 
-In 2007 she directed Ensemble Mehr and played tar in its Venetian concerts. She built the first part of the programme around Mahur and the second around Bayat-e Tork, setting instrumental passages beside poems by Rumi, Attar and Hafez. Two years later she returned to Venice with Shahrzad Ensemble.[^director][^date][^mahur][^bayat][^attar][^hafez][^rumi][^venice]
+In 2007 she directed [Ensemble Mehr](../ensemble-mehr-a69/) and played tar in its Venetian concerts. She built the first part of the programme around Mahur and the second around Bayat-e Tork, setting instrumental passages beside poems by Rumi, Attar and Hafez. Two years later she returned to Venice with [Shahrzad Ensemble](../shahrzad-ensemble-4z6/).[^director][^date][^mahur][^bayat][^attar][^hafez][^rumi][^venice]
 
 For Shahrzad she composed a chaharmezrab in Shur for two tars and tombak, as well as a Turkish reng for the larger ensemble. One of its players was her daughter, oud player Ava Arehsazan, who began her music lessons with Zargarian and launched her performing career with the ensemble at Niavaran Hall.[^trio][^famil][^ibraaz][^shah]

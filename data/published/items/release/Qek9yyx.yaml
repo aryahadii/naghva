@@ -10,6 +10,18 @@ statements:
       quote: The Rogue Prince of Persia (The Complete Soundtrack) · ASADI · 2025-08-22
       accessed: 2026-11-21
       locator: Album artist and issue date
+    - source: www.lacedrecords.com-products-the-rogue-prince-of-persia-exclusive-edition-deluxe-double-vinyl
+      quote: Music by Persian-American composer ASADI
+      accessed: 2026-11-22
+      locator: Original 2LP issuer credits
+  - value:
+      text: The Rogue Prince of Persia (The Complete Soundtrack) | Music by ASADI
+      language: en
+    references:
+    - source: youtu.be-qbdzsybogcy
+      quote: The Rogue Prince of Persia (The Complete Soundtrack) | Music by ASADI · Ubisoft Music
+      accessed: 2026-11-21
+      locator: Published video and original channel
   performer:
   - value: Qghhr4e
     references:
@@ -17,6 +29,10 @@ statements:
       quote: The Rogue Prince of Persia (The Complete Soundtrack) · ASADI · 2025-08-22
       accessed: 2026-11-21
       locator: Album artist and issue date
+    - source: youtu.be-qbdzsybogcy
+      quote: The Rogue Prince of Persia (The Complete Soundtrack) | Music by ASADI · Ubisoft Music
+      accessed: 2026-11-21
+      locator: Published video and original channel
   listen link:
   - value: https://music.apple.com/us/album/the-rogue-prince-of-persia-the-complete-soundtrack/1830448225
     references:
@@ -30,6 +46,12 @@ statements:
       quote: The Rogue Prince of Persia (The Complete Soundtrack) · ASADI
       accessed: 2026-11-21
       locator: Native digital record
+  - value: https://www.youtube.com/watch?v=QbdZSyBOGcY
+    references:
+    - source: youtu.be-qbdzsybogcy
+      quote: The Rogue Prince of Persia (The Complete Soundtrack) | Music by ASADI · Ubisoft Music
+      accessed: 2026-11-21
+      locator: Published video and original channel
   release date:
   - value:
       date: '2025-08-22'

@@ -30,18 +30,22 @@ statements:
         text: Apple Music, original edition artwork
         language: en
   performer:
-  - value: Qnz4xnz
-    references:
-    - source: siamak-jahangiri-ap1770081272
-      quote: Siamak Jahangiri
-      accessed: '2026-11-21'
-      locator: Distributor artist credit
   - value: Qpm5vrr
     references:
     - source: siamak-jahangiri-ap1770081272
       quote: Ashkan Kamangari
       accessed: '2026-11-21'
       locator: Distributor artist credit
+  - value: Qqaf55n
+    references:
+    - &id001
+      source: siamak-jahangiri-ap1770081272
+      quote: Avaz (Ud and Kamanche Alto) [feat. Samer Habibi & Hamid Khansari]
+      accessed: '2026-11-21'
+      locator: Named track billing
+  - value: Qm4nb4g
+    references:
+    - *id001
   listen link:
   - value: https://music.apple.com/us/song/avaz-ud-and-kamanche-alto-feat-samer-habibi-hamid-khansari/1770081278
     references:
@@ -55,3 +59,12 @@ statements:
       quote: spotify:track:4Hsy8BYl3N8tjYMWfS1tZr
       accessed: '2026-11-21'
       locator: Spotify recording
+  contributor:
+  - value: Qnz4xnz
+    references:
+    - source: siamak-jahangiri-sc546100242
+      quote: Siâmak Jahângiri, Composer
+      locator: Publisher’s album credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: composer

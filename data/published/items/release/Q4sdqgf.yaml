@@ -30,18 +30,18 @@ statements:
         text: Apple Music, original edition artwork
         language: en
   performer:
-  - value: Qnz4xnz
-    references:
-    - source: siamak-jahangiri-ap1770081272
-      quote: Siamak Jahangiri
-      accessed: '2026-11-21'
-      locator: Distributor artist credit
   - value: Qpm5vrr
     references:
     - source: siamak-jahangiri-ap1770081272
       quote: Ashkan Kamangari
       accessed: '2026-11-21'
       locator: Distributor artist credit
+  - value: Qpgp85c
+    references:
+    - source: siamak-jahangiri-ap1770081272
+      quote: Avaz (Tar) [feat. Ali-Asghar Arabshahi]
+      accessed: '2026-11-21'
+      locator: Named track billing
   listen link:
   - value: https://music.apple.com/us/song/avaz-tar-feat-ali-asghar-arabshahi/1770081283
     references:
@@ -55,3 +55,12 @@ statements:
       quote: spotify:track:4lISqfqogLgM54Z1Ody21Q
       accessed: '2026-11-21'
       locator: Spotify recording
+  contributor:
+  - value: Qnz4xnz
+    references:
+    - source: siamak-jahangiri-sc546100242
+      quote: Siâmak Jahângiri, Composer
+      locator: Publisher’s album credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: composer

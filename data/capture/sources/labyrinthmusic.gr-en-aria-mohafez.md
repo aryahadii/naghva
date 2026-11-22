@@ -88,3 +88,7 @@ Original programme, liner notes or performer credit, read 2026-11-21.
 Original programme, liner notes or performer credit, read 2026-11-21.
 
 > he toured Switzerland with the Sepidar ensemble
+
+> https://labyrinthmusic.gr/wp-content/uploads/2025/04/Aria-Mohafez.jpeg
+
+Original image file of the photograph published by the organizer, read 2026-11-21.

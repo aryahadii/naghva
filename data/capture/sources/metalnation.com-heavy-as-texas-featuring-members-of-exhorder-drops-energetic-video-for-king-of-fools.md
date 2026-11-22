@@ -49,3 +49,7 @@ First album, read 2026-11-21.
 > To Keep a Promise
 
 First music video, read 2026-11-21.
+
+> released their debut self-titled album on April 19, 2019 via Crunchy Western Records
+
+Press release reports different date, read 2026-11-21.

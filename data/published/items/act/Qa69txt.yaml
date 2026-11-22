@@ -10,6 +10,15 @@ statements:
       quote: Ensemble Mehr
       accessed: '2026-11-21'
       locator: Concert playbill or artist testimony
+  - value:
+      text: گروه مهر
+      language: fa
+    references:
+    - source: ensemble-mehr-2007
+      quote: Ensemble Mehr
+      accessed: '2026-11-21'
+      locator: Concert playbill or artist testimony
+    editorial: true
   image:
   - value: https://casadellaculturairaniana.com/upload/uploaddir/foto89388ab1c10cd41ff67d8a94ba7a0fac
     references:

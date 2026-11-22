@@ -100,10 +100,42 @@ references:
     quote: experimented on the Persian classical music with the clarinet
     accessed: '2026-11-21'
     locator: Artist profile, original programme, liner notes or interview
+  maragha:
+    source: www.ecieco.org-fa-news-4376
+    quote: تصنیف‌های منسوب به مراغی
+    accessed: 2026-11-22
+    locator: On the attribution of the repertoire
+  shoghdate:
+    source: www.ecieco.org-fa-news-4376
+    quote: آلبوم «شوق نامه» که سال ۱۳۹۰ در قالب سه سی‌دی منتشر شده
+    accessed: 2026-11-22
+    locator: Retrospective on the original 3CD issue
+  golestan:
+    source: t.me-mahoorinstitute-3081
+    quote: سیامک جهانگیری، نی.
+    accessed: 2026-11-22
+    locator: Issued work credits
+  gol-date:
+    source: www.ecieco.org-fa-news-4376
+    quote: ما قطعات مربوط به آلبوم را سال ۱۳۹۲ اجرا کردیم
+    accessed: 2026-11-22
+    locator: Behzad Mirzaei’s first-person account
+  gol-work:
+    source: www.ecieco.org-fa-news-4376
+    quote: زحمات بسیار سیامک جهانگیری باعث انتشار آلبوم شد
+    accessed: 2026-11-22
+    locator: Behzad Mirzaei on Jahangiri’s contribution
+  gol-pub:
+    source: t.me-mahoorinstitute-3081
+    quote: 'سال انتشار: ۱۳۹۹'
+    accessed: 2026-11-22
+    locator: Original publisher’s issue year
 ---
 
 Siamak Jahangiri is a ney player and composer from Chaloos on Iran’s Caspian coast. He studied with Abdolnaghi Afsharnia and Mohammad Ali Kianinejad, then compared the playing techniques of earlier ney players with those of his contemporaries for his thesis in Tehran. In *Feast and Grief* he wrote for five neys and two tombaks. Two other collections took their poems and music from his home region of Mazandaran.[^origin][^lessons][^study][^thesis][^five][^north]
 
 With Yo-Yo Ma’s Silk Road Ensemble he played in concerts and workshops abroad. For Kayhan Kalhor’s *The Prince of Sorrows*, his recorded ney accompanies Navid Afghah’s tombak and Amir Mardaneh’s voice. Jahangiri also taught at the University of Tehran. At a Juilliard masterclass in 2007, he and Behrouz Jamali worked with students who had been given a written outline of how a traditional Iranian performance is put together.[^silk][^work][^hero][^prof][^date][^teacher][^course]
 
-In «بدرقه‌ی ماه» he recorded his ney at the same time as Hamid Khansari’s oud. Behzad Mirzayi then added tombak and bendir around their playing. On *That Very Nay I Am*, Jahangiri brought several neys together in the mode of Homayun with singer Mehdi Emami, dedicating the work to poet Hushang Ebtehaj. On *Wateresque* he turned to the clarinet to play Iranian classical music.[^reed][^oud][^beat][^nay][^ded][^poem][^clarinet]
+With the Abdolqader Maraghi Ensemble he worked on songs attributed to the fifteenth-century musician for *Shoghnameh*, which came out in 2011 or 2012.[^maragha][^shoghdate] Jahangiri played ney on the group’s follow-up, *Az Golestan-e Ajam*. They recorded it in 2013 or 2014. Director Behzad Mirzaei said Jahangiri’s efforts brought it to release seven years later.[^golestan][^gol-date][^gol-work][^gol-pub]
+
+In *Badragheh-ye Mah* he recorded his ney at the same time as Hamid Khansari’s oud. Behzad Mirzayi then added tombak and bendir around their playing. On *That Very Nay I Am*, Jahangiri brought several neys together in the mode of Homayun with singer Mehdi Emami, dedicating the work to poet Hushang Ebtehaj. On *Wateresque* he turned to the clarinet to play Iranian classical music.[^reed][^oud][^beat][^nay][^ded][^poem][^clarinet]

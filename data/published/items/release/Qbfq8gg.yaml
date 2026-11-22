@@ -20,7 +20,8 @@ statements:
   - value: Qp2mk6b
     references:
     - source: music.apple.com-us-album-enlighten-the-night-1518607463
-      quote: '[{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/mahsa-vahdat/65413022","name":"Mahsa Vahdat"}]'
+      quote: '[{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/mahsa-vahdat/65413022","name":"Mahsa
+        Vahdat"}]'
       accessed: '2026-11-13'
   listen link:
   - value: https://music.apple.com/us/album/enlighten-the-night/1518607463
@@ -43,3 +44,14 @@ statements:
     - source: music.apple.com-us-album-enlighten-the-night-1518607463
       quote: Enlighten the Night
       accessed: '2026-11-13'
+  contributor:
+  - value: Q5z9jzy
+    qualifiers:
+      role:
+      - composer
+      - arranger
+    references:
+    - source: www.mahsavahdat.net-discography
+      quote: Enlighten the Night is arranged and composed by Atabak Elyasi
+      accessed: 2026-11-21
+      locator: Enlighten the Night discography text

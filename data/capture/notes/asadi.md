@@ -61,17 +61,6 @@ Digital artist issues, named guest tracks and original artist recordings are ide
 - SARAF (Qhpzh8f)
 - Mirror (Q8vhf6v)
 - At Last! (Qatntj6)
-- The Rogue Prince of Persia (Q68sdz8)
-- Whispering Waters (Qs7s26q)
-- Sacred Fire (Qmz4brp)
-- Last Wind (Qvz6avz)
-- The Corrupted (Q2pea6d)
-- Ashes of Knowledge (Q5kf9b5)
-- Prince's Mistake (Q97qk48)
-- The Unstoppable (Qgvvc2g)
-- Ravine's Sovereignty (Q7hvyzd)
-- Verdant Sight (Qj563et)
-- Hero's Rest (Qands98)
 - God Under the Rubble (Q2gwjfk)
 - In Tigris' Arms (Qspygay)
 - The Epicurean (Qabwwjg)
@@ -250,7 +239,6 @@ Digital artist issues, named guest tracks and original artist recordings are ide
 - PARI (Qnadz7c)
 - ASADI & Brockett Parsons - Strike (Qkgk6kk)
 - GOL (Qygdpma)
-- ASADI & Dsharp - 3 Wishes (Qfz6sxc)
 - ALLEVIATE (Q92g2jc)
 - PERITAS (Qn93sgd)
 - KAVIANI (Qjtkmj6)
@@ -297,5 +285,8 @@ Digital artist issues, named guest tracks and original artist recordings are ide
 - ASADI on the Maschine [Part I] (Qvadzpr)
 - ASADI on the Maschine [Live Production] (Qx2swzx)
 - Asadi on the Maschine - Live Remix of "Lose Yourself" by Eminem (Q65r97m)
-- The Rogue Prince of Persia (The Complete Soundtrack) | Music by ASADI (Qnb2fg3)
 - Gamescom Panel: The Rogue Prince of Persia + ASADI & Xye Live Performance (Qe25xdy)
+
+The 11 original Rogue Prince soundtrack tracks are the first 11 of the Complete release. Each pair has identical published durations to the millisecond. Their official Spotify preview audio matched at zero lag on all 11 comparisons, with 20 ms RMS envelope correlation between 0.986 and 0.999. Each canonical track retains both editions’ URLs, with their old record addresses preserved as aliases. Ubisoft’s original and complete streams attach to their respective digital albums. Laced’s 24-track 2LP follows the Complete sequence and has its own label evidence. DSharp’s verified channel identifies its 3 Wishes upload as the 2020 studio single.
+
+ASADI’s and DSharp’s original video uploads of the 191-second studio version of 3 Wishes use the same artwork and link the original single. These share the studio panel. The Cabin Fever performance and the later fall 2020 freestyle both have separate panels.

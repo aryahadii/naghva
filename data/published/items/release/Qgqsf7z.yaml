@@ -1,0 +1,39 @@
+id: Qgqsf7z
+type: release
+statements:
+  name:
+  - value:
+      text: دور
+      language: fa
+    references:
+    - source: soundcloud.com-siavashimanitar-okylxrtlwj71
+      quote: دور
+      accessed: 2026-11-22
+      locator: Original SoundCloud title and recording credits
+  listen link:
+  - value: https://soundcloud.com/siavashimanitar/okylxrtlwj71
+    references:
+    - source: soundcloud.com-siavashimanitar-okylxrtlwj71
+      quote: 'تار و آواز: سیاوش ایمانی - تنبک: پدرام خاورزمینی'
+      accessed: 2026-11-22
+      locator: SoundCloud performer credits
+  performer:
+  - value: Qmkhy5b
+    qualifiers:
+      role:
+      - tar
+      - vocals
+    references:
+    - source: soundcloud.com-siavashimanitar-okylxrtlwj71
+      quote: 'تار و آواز: سیاوش ایمانی - تنبک: پدرام خاورزمینی'
+      accessed: 2026-11-22
+      locator: SoundCloud performer credits
+  - value: Q5rnjaz
+    qualifiers:
+      role:
+      - tombak
+    references:
+    - source: soundcloud.com-siavashimanitar-okylxrtlwj71
+      quote: 'تار و آواز: سیاوش ایمانی - تنبک: پدرام خاورزمینی'
+      accessed: 2026-11-22
+      locator: SoundCloud performer credits

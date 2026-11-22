@@ -13,3 +13,7 @@ Ubisoft Music official recording, read 2026-11-21.
 > The Rogue Prince of Persia (The Complete Soundtrack) | Music by ASADI · Ubisoft Music
 
 Published video and original channel, read 2026-11-21.
+
+> The Rogue Prince of Persia (The Complete Soundtrack) | Music by ASADI
+
+Official Ubisoft full-album video, read 2026-11-21.

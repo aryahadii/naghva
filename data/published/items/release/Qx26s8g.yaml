@@ -10,6 +10,10 @@ statements:
       quote: The Corrupted
       accessed: 2026-11-21
       locator: Individual track
+    - source: music.apple.com-us-album-the-rogue-prince-of-persia-the-complete-soundtrack-1830448225
+      quote: The Corrupted
+      accessed: 2026-11-21
+      locator: Individual track
   performer:
   - value: Qvhrrm8
     references:
@@ -17,10 +21,18 @@ statements:
       quote: The Corrupted · ASADI, Naghib Shanbehzadeh
       accessed: 2026-11-21
       locator: Track 5
+    - source: open.spotify.com-album-1etaftuh3nt33wbknqfk7j
+      quote: The Corrupted · ASADI, Naghib Shanbehzadeh, Prince of Persia
+      accessed: 2026-11-21
+      locator: Track 5
   - value: Qghhr4e
     references:
     - source: open.spotify.com-album-1m6zlx5cmcvdkyib91tsik
       quote: ASADI, Naghib Shanbehzadeh
+      accessed: 2026-11-21
+      locator: Individual track credits
+    - source: open.spotify.com-album-1etaftuh3nt33wbknqfk7j
+      quote: ASADI, Naghib Shanbehzadeh, Prince of Persia
       accessed: 2026-11-21
       locator: Individual track credits
   listen link:
@@ -34,6 +46,18 @@ statements:
     references:
     - source: open.spotify.com-album-1m6zlx5cmcvdkyib91tsik
       quote: The Rogue Prince of Persia (Original Game Soundtrack) · ASADI
+      accessed: 2026-11-21
+      locator: Spotify record
+  - value: https://music.apple.com/us/song/the-corrupted/1830448879
+    references:
+    - source: music.apple.com-us-album-the-rogue-prince-of-persia-the-complete-soundtrack-1830448225
+      quote: The Corrupted
+      accessed: 2026-11-21
+      locator: Individual track
+  - value: https://open.spotify.com/track/5hhjl7SqbkBTPaGByj34Ld
+    references:
+    - source: open.spotify.com-album-1etaftuh3nt33wbknqfk7j
+      quote: The Rogue Prince of Persia (The Complete Soundtrack) · ASADI
       accessed: 2026-11-21
       locator: Spotify record
   cover art:

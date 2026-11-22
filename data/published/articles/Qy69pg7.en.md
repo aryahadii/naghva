@@ -107,7 +107,8 @@ references:
     locator: Artist interview, biography or performance credits
   museum:
     source: www.cultura.gob.es-mnantropologia-en-actividades-agenda-2019-conciertokereshmeh.html
-    quote: 'Concierto Keresmeh: Kaveh Sarvarian & Patricia Álvarez - MUSEO NACIONAL DE ANTROPOLOGÍA | Ministerio de Cultura'
+    quote: 'Concierto Keresmeh: Kaveh Sarvarian & Patricia Álvarez - MUSEO NACIONAL DE ANTROPOLOGÍA | Ministerio
+      de Cultura'
     accessed: '2026-11-21'
     locator: Page title
   mdate:
@@ -115,12 +116,17 @@ references:
     quote: 25/07/2019
     accessed: '2026-11-21'
     locator: Artist interview, biography or performance credits
+  capella:
+    source: capelladeministrers.com-ca-discografia-ca-la-ruta-de-la-seda-llibre-2-cd
+    quote: Kaveh Sarvarian, nay persa & tombak (Iran)
+    accessed: 2026-11-22
+    locator: Original Capella de Ministrers CD credits
 ---
 
-Kaveh Sarvarian learned to play the tombak and ney in Khorasan by listening to recordings he collected. Born in Tehran in 1976, he returned to the city to study Persian music at the University of Art, taking private lessons in Western flute, harmony and composition. His string quartet *Fuga en Homayoon* won a prize at the Fajr festival, and he went on to play flute in Iran’s National Symphony Orchestra.[^birth][^records][^ney][^studies][^prize][^orchestra]
+Kaveh Sarvarian learned to play the tombak and ney in Khorasan by listening to recordings he collected. Born in Tehran in 1976, he returned to the city to study Persian music at the University of Art, taking private lessons in Western flute, harmony and composition. In 2000 his string quartet *Fuga en Homayoon* won a prize at the Fajr festival, and he went on to play flute in Iran’s National Symphony Orchestra.[^birth][^records][^ney][^studies][^prize][^orchestra]
 
 In graduate school he met pianist Hamzeh Yeganeh. On *Persian Rug*, Sarvarian’s flute plays opposite Yeganeh’s piano. With Yeganeh’s jazz band Naima he played ney, tombak and neylabak on *Avareh*. He also wrote a method for the Persian ney.[^meeting][^duo][^naima][^teaching]
 
-Sarvarian moved to Spain in 2011 and settled in Madrid. On *Ofogh*, his ney and voice meet Jesús Gutiérrez’s Spanish guitar and Pedram Khosravi’s daf and tanbur. He formed Parsinava to play Persian music with jazz musicians. For *Kereshmeh* he built loops from short phrases and experimented with where to place the percussion accents. On 25 July 2019, Sarvarian and choreographer Patricia Álvarez brought the music to Madrid’s National Museum of Anthropology in a joint dance performance.[^museum][^mdate] In 2019 he played live on Spanish public radio’s *La ruta de las especias*.[^year][^move][^ofogh][^guitar][^jazz][^loop][^pat][^rtve]
+Sarvarian moved to Spain in 2011 and settled in Madrid. On *Ofogh*, his ney and voice meet Jesús Gutiérrez’s Spanish guitar and Pedram Khosravi’s daf and tanbur. Carles Magraner’s group Capella de Ministrers brought in his ney and tombak for *La Ruta de la Seda*, a project tracing musical routes to Valencia.[^capella] He formed [Parsinava](/en/parsinava-3xy/) to play Persian music with jazz musicians. For *Kereshmeh* he built loops from short phrases and experimented with where to place the percussion accents. On 25 July 2019, Sarvarian and choreographer Patricia Álvarez brought the music to Madrid’s National Museum of Anthropology in a joint dance performance.[^museum][^mdate] In 2019 he played live on Spanish public radio’s *La ruta de las especias*.[^year][^move][^ofogh][^guitar][^jazz][^loop][^pat][^rtve]
 
-Sarvarian recorded and mixed *When the Sun Rises* with Syrian oud player Hames Bitar. In the duo, he played ney, flute, setar and percussion. For their concert group, Cardamom Trio, the two brought in percussionist Luis Taberna, an old colleague from Darawish.[^hames][^mix][^trio]
+Sarvarian recorded and mixed *When the Sun Rises* with Syrian oud player Hames Bitar. In the duo, he played ney, flute, setar and percussion. For their concert group, [Cardamom Trio](/en/cardamom-trio-w3a/), the two brought in percussionist Luis Taberna, an old colleague from Darawish.[^hames][^mix][^trio]

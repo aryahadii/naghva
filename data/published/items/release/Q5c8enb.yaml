@@ -1,0 +1,47 @@
+id: Q5c8enb
+type: release
+statements:
+  name:
+  - value:
+      text: Black Seed
+      language: en
+    references:
+    - source: lucia.bandcamp.com-album-luz
+      quote: 'Adrienne Shamszad: Vocals (guest) (track 2)'
+      accessed: 2026-11-21
+      locator: Native Bandcamp guest vocal credits
+  performer:
+  - value: Q4cqt3e
+    qualifiers:
+      role: vocals
+    references:
+    - source: lucia.bandcamp.com-album-luz
+      quote: 'Adrienne Shamszad: Vocals (guest) (track 2)'
+      accessed: 2026-11-21
+      locator: Native Bandcamp guest vocal credits
+  - value: Qx2grjw
+    references:
+    - source: open.spotify.com-album-64yatlqpaczqkb6y2jflid
+      quote: Black Seed · Lucia Lilikoi
+      accessed: 2026-11-21
+      locator: Track 2 matched to Bandcamp’s album sequence
+  listen link:
+  - value: https://lucia.bandcamp.com/track/black-seed
+    references:
+    - source: lucia.bandcamp.com-album-luz
+      quote: 'Adrienne Shamszad: Vocals (guest) (track 2)'
+      accessed: 2026-11-21
+      locator: Native Bandcamp guest vocal credits
+  - value: https://open.spotify.com/track/6em6qppGFg402XOSivmXQt
+    references:
+    - source: open.spotify.com-album-64yatlqpaczqkb6y2jflid
+      quote: Black Seed · Lucia Lilikoi
+      accessed: 2026-11-21
+      locator: Track 2 matched to Bandcamp’s album sequence
+  cover art:
+  - value: https://f4.bcbits.com/img/a3084598471_10.jpg
+    references:
+    - source: lucia.bandcamp.com-album-luz
+      quote: 'Adrienne Shamszad: Vocals (guest) (track 2)'
+      accessed: 2026-11-21
+      locator: Native Bandcamp guest vocal credits
