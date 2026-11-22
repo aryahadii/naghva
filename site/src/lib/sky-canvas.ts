@@ -69,6 +69,14 @@ const overlap = (a: Box, b: Box, gap: number) =>
 const TWINKLE = [3.7, 5.3, 7.1, 8.9];
 /** The light is soft, so its layers hold a quarter of the pixels the stars do. */
 const SOFT = .5;
+/** Device pixels the sky may hold, so a big screen or a phone's tight canvas memory is not overrun. */
+const STAR_PIXELS = 8e6;
+const LIGHT_PIXELS = 1e6;
+/** Resizing a canvas clears it and reallocates its memory, so it happens only when the size changes. */
+const size = (canvas: HTMLCanvasElement, width: number, height: number) => {
+  if (canvas.width !== width) canvas.width = width;
+  if (canvas.height !== height) canvas.height = height;
+};
 const INK = '#0c1330';
 const LEAF = '#eccb86';
 
@@ -847,16 +855,14 @@ export function makeSky(stars: SkyStar[], options: SkyOptions): SkyView | null {
     comet.interrupt();
     w = width;
     h = height;
-    ratio = Math.min(devicePixelRatio || 1, 2);
-    canvas.width = Math.round(w * ratio);
-    canvas.height = Math.round(h * ratio);
-    field.width = Math.ceil((w + overscan * 2) * ratio);
-    field.height = Math.ceil((h + overscan * 2) * ratio);
+    ratio = Math.min(devicePixelRatio || 1, 2, Math.sqrt(STAR_PIXELS / (w * h)));
+    size(canvas, Math.round(w * ratio), Math.round(h * ratio));
+    size(field, Math.ceil((w + overscan * 2) * ratio), Math.ceil((h + overscan * 2) * ratio));
     field.style.width = `${field.width / ratio}px`;
     field.style.height = `${field.height / ratio}px`;
+    const soft = Math.min(SOFT, Math.sqrt(LIGHT_PIXELS / (field.width * field.height)));
     for (const { canvas: layer } of lights) {
-      layer.width = Math.ceil(field.width * SOFT);
-      layer.height = Math.ceil(field.height * SOFT);
+      size(layer, Math.ceil(field.width * soft), Math.ceil(field.height * soft));
       layer.style.width = field.style.width;
       layer.style.height = field.style.height;
     }
@@ -1222,6 +1228,9 @@ export function makeSky(stars: SkyStar[], options: SkyOptions): SkyView | null {
       canvas.removeEventListener('pointermove', pointerMove);
       canvas.removeEventListener('pointerleave', leave);
       canvas.removeEventListener('click', click);
+      for (const [name, listener, how] of cardEvents) card?.removeEventListener(name, listener as EventListener, how);
+      // Safari frees canvas memory late unless the canvases are emptied.
+      for (const layer of [canvas, field, ...lights.map((light) => light.canvas)]) size(layer, 0, 0);
       stage.remove();
     },
   };

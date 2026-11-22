@@ -90,7 +90,7 @@ the HTML, not loaded afterwards.
 
 ### Homepage
 
-The title and the search bar sit over the star map, then the latest releases
+The title and the search bar sit above the star map, then the latest releases
 follow in one row, newest first, ending on the way to the Timeline. A few
 names under the search bar fill it in. Search answers as you type, over names
 in both scripts, and folds Persian spelling variants (`ي`/`ی`, `ك`/`ک`,

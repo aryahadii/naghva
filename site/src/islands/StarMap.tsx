@@ -45,6 +45,8 @@ const ART = {
   moon: moon.src,
   clouds: [cloud1, cloud2, cloud3, cloud4, cloud5].map((cloud) => cloud.src),
 };
+const kindOf = (star: SkyStar, words: SearchWords) =>
+  star.kind === 'recording' ? words.kinds.release : star.page || star.group ? words.kinds.artist : words.kinds.person;
 const stillness = () => matchMedia('(prefers-reduced-motion: reduce)').matches;
 
 export default function StarMap({ lang, words }: Props) {
@@ -210,10 +212,23 @@ export default function StarMap({ lang, words }: Props) {
   useEffect(() => {
     let live = true;
     let view: SkyView | null = null;
-    const record: Promise<Sky> = fetch('/sky.json')
+    let unwatch = () => {};
+    // The sky is fetched when it comes near the screen, or at once for a link to a star.
+    const near = new Promise<void>((resolve) => {
+      if (new URLSearchParams(location.search).has('star') || !('IntersectionObserver' in window) || !slot.current) return resolve();
+      const watch = new IntersectionObserver((entries) => {
+        if (!entries.some((entry) => entry.isIntersecting)) return;
+        watch.disconnect();
+        resolve();
+      }, { rootMargin: '400px' });
+      watch.observe(slot.current);
+      unwatch = () => watch.disconnect();
+    });
+    const record: Promise<Sky> = near
+      .then(() => fetch('/sky.json'))
       .then((response) => (response.ok ? response.json() : Promise.reject(new Error(String(response.status)))));
     // The sky shows once its stars and the pieces it is painted with are both here.
-    Promise.all([record, loadSkyArt(ART)])
+    Promise.all([record, near.then(() => loadSkyArt(ART))])
       .then(([file, art]) => {
         if (!live || !slot.current) return;
         const all = readSky(file, lang);
@@ -243,6 +258,7 @@ export default function StarMap({ lang, words }: Props) {
     addEventListener('popstate', traverse);
     return () => {
       live = false;
+      unwatch();
       removeEventListener('popstate', traverse);
       view?.dispose();
       sky.current = null;
@@ -292,7 +308,7 @@ export default function StarMap({ lang, words }: Props) {
         }}
       >
         <div class="sky-host" ref={host} />
-        <div class="star-card" ref={card} aria-live="polite">
+        <div class="star-card" ref={card}>
           {star && <StarCard key={star.key} star={star} stars={stars} lang={lang} words={words} />}
         </div>
         <div class="sky-bar" ref={bar}>
@@ -331,6 +347,8 @@ export default function StarMap({ lang, words }: Props) {
           </div>
         </div>
         <p id="sky-keys" class="visually-hidden">{words.keyboardHelp}</p>
+        {/* The card hides while the sky flies to a star, so the choice is told here. */}
+        <p class="visually-hidden" aria-live="polite">{star ? `${star.name}, ${kindOf(star, words.search)}` : ''}</p>
       </dialog>
     </div>
   );

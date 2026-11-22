@@ -81,11 +81,12 @@ const onwardEnd = onward.pop();
       {/* A link to one star opens the map at once, so the page behind it stays covered until then. */}
       <script is:inline>
         if (new URLSearchParams(location.search).has('star')) {
+          const preload = Object.assign(document.createElement('link'), { rel: 'preload', href: '/sky.json', as: 'fetch', crossOrigin: 'anonymous' });
+          document.head.append(preload);
           document.documentElement.classList.add('sky-deep');
           setTimeout(() => document.documentElement.classList.remove('sky-deep'), 6000);
         }
       </script>
-      <link rel="preload" href="/sky.json" as="fetch" crossorigin="anonymous" />
       <StarMap client:load lang={lang} words={{ ...t.starMap, search: { ...t.search, kinds: t.kinds } }} />
     </section>
     {latest.length > 0 && (
