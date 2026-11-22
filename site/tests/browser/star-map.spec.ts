@@ -245,9 +245,15 @@ test('the open sky zooms, fits again, and moves from star to star by keyboard', 
 
 test('a released drag coasts, can be caught, and respects reduced motion', async ({ page }) => {
   await page.clock.install();
+  // The sky times a gesture by its events. On a busy machine real time between the test's moves
+  // grows past what reads as one throw, so the clock stands still between steps and the events keep it.
+  await page.addInitScript(() => {
+    Object.defineProperty(Event.prototype, 'timeStamp', { get: () => performance.now() });
+  });
   await page.goto('/en/?star');
   const chart = page.locator('canvas.sky-canvas');
   await expect(full(page)).toBeVisible();
+  await page.clock.pauseAt(Date.now() + 5000);
   const box = (await chart.boundingBox())!;
   const x = Math.round(box.x + box.width / 2);
   const y = Math.round(box.y + box.height / 2);
