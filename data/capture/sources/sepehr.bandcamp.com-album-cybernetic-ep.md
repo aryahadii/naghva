@@ -8,12 +8,18 @@ status: processed
 archive: https://web.archive.org/web/20250526220255/https://sepehr.bandcamp.com/album/cybernetic-ep
 ---
 
-Album heading, artist byline and embedded release metadata, read 2026-11-21.
-
 > Cybernetic EP
+
+Album name, embedded metadata, read 2026-11-21.
 
 > Sepehr
 
+Recording artist, embedded metadata, read 2026-11-21.
+
 > 08 Mar 2019 00:00:00 GMT
 
+Date of issue, embedded metadata, read 2026-11-21.
+
 > https://f4.bcbits.com/img/a3806555372_10.jpg
+
+Cover image, embedded metadata, read 2026-11-21.

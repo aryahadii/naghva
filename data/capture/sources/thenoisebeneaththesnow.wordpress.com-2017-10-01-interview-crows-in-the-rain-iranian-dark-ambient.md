@@ -7,8 +7,10 @@ language: en
 status: processed
 ---
 
-Hamed’s answers on the band name and the song about a girl, read 2026-11-21.
-
 > there were lots of Crows flying around the house and it was raining.
 
+Hamed recalled playing with Masih for the first time and described a girl the musicians met on a journey. Read 2026-11-21.
+
 > She and her story has become the story to our second album.
+
+Hamed recalled playing with Masih for the first time and described a girl the musicians met on a journey. Read 2026-11-21.

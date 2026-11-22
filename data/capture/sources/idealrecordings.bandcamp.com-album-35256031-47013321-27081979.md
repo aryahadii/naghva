@@ -8,12 +8,18 @@ language: en
 status: processed
 ---
 
-Album heading, artist byline and embedded release metadata, read 2026-11-21.
-
 > 35.256031, 47.013321, 27.081979
+
+Album title, read 2026-11-21.
 
 > PORYA HATAMI
 
+Artist byline, read 2026-11-21.
+
 > 17 Dec 2020 00:00:00 GMT
 
+Release date in album metadata, read 2026-11-21.
+
 > https://f4.bcbits.com/img/a3554544582_10.jpg
+
+Album artwork URL, read 2026-11-21.

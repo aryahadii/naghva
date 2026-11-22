@@ -14,18 +14,18 @@ status: processed
 
 Read 2026-11-14.
 
-First answer, about his brother, read 2026-11-21.
-
 > He was listening to rock and Metal music on and little by little I found rock music interesting.
 
-First answer.
+First answer, about his brother, read 2026-11-21.
 
 > When I became teenager I bought my first electric guitar
 
-Answer on independent distribution.
+First answer, read 2026-11-21.
 
 > I made some CDs by myself but generally my records were distributed over the internet on my official website
 
-Answer on digital distribution.
+Answer on independent distribution, read 2026-11-21.
 
 > I moved to Turkey and assigned my last two record “Three” and “Four” as a self-released on “CD Baby”
+
+Answer on digital distribution, read 2026-11-21.

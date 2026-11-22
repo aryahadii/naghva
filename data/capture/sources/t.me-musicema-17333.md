@@ -8,11 +8,13 @@ tier: journalism
 status: processed
 ---
 
-Obituary notice, read 2026-11-21.
-
 > در سن ۶۱ سالگی
 > در بیمارستان شهدای تجریش درگذشت
+
+Obituary notice. Read 2026-11-21.
 
 > شهریار مسرور
 > امروز صبح
 > ۱۵ بهمن ۱۴۰۳
+
+Obituary notice. Read 2026-11-21.

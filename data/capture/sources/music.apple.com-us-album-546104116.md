@@ -8,10 +8,14 @@ kind: web page
 status: processed
 ---
 
-Album description and release date in the page metadata, cover URL in the first picture element, read 2026-11-21.
-
 > Listen to Five by Farzad Golpayegani
+
+Album description in embedded metadata, read 2026-11-21.
 
 > "datePublished":"2011-05-29"
 
+Store edition date in embedded metadata, read 2026-11-21.
+
 > https://is1-ssl.mzstatic.com/image/thumb/Music/v4/14/6b/6e/146b6e82-935c-4257-4da0-67aa4088ea59/881034797568.jpg/600x600bb.webp
+
+Album artwork, first picture element, read 2026-11-21.

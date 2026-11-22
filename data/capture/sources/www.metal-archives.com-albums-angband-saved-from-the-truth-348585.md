@@ -7,12 +7,16 @@ tier: discography
 status: processed
 ---
 
-Album heading and release details, read 2026-11-21.
-
 > Saved from the Truth
 > Angband
+
+Album heading and release details, read 2026-11-21.
 
 > Type:
 > Full-length
 
+Album heading and release details, read 2026-11-21.
+
 > September 26th, 2012
+
+Album heading and release details, read 2026-11-21.

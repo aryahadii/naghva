@@ -8,20 +8,30 @@ language: en
 status: processed
 ---
 
-Album heading, artist byline and embedded release metadata, read 2026-11-21.
-
 > Horror Vacui
+
+Album title, read 2026-11-21.
 
 > 9T Antiope
 
+Artist byline, read 2026-11-21.
+
 > 12 Apr 2024 00:00:00 GMT
+
+Release date in album metadata, read 2026-11-21.
 
 > https://f4.bcbits.com/img/a1845036927_10.jpg
 
-Credits.
+Album artwork URL, read 2026-11-21.
 
 > Music composed and produced by Nima Aghiani
 
+Album credits, read 2026-11-21.
+
 > Mixed and mastered by Nima Aghiani
 
+Album credits, read 2026-11-21.
+
 > Artwork by Ashkan Noroozkhani
+
+Album credits, read 2026-11-21.

@@ -8,10 +8,14 @@ kind: web page
 status: processed
 ---
 
-Album description and release date in the page metadata, cover URL in the first picture element, read 2026-11-21.
-
 > Listen to Eight by Farzad Golpayegani
+
+Album description in embedded metadata, read 2026-11-21.
 
 > "datePublished":"2018-10-30"
 
+Store edition date in embedded metadata, read 2026-11-21.
+
 > https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/41/5a/9a/415a9a95-5036-492e-f3d1-f89061236a09/191924131427.jpg/632x632bb.webp
+
+Album artwork, first picture element, read 2026-11-21.

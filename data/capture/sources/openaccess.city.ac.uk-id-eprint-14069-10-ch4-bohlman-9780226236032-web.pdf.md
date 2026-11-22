@@ -16,6 +16,6 @@ Read 2026-11-14.
 
 Laudan Nooshin, Jazz Worlds/World Jazz (2016), printed page 132, PDF page 9. The continuation describes ongoing work with Fihmafih and his workshop-based ensemble. 2008 dates an observation, not a move.
 
-Printed p. 132, PDF p. 9, second paragraph opening. Checked against the page image on 2026-11-21. Line-ending hyphens in “working” and “Soleimanipour” have been joined.
-
 > In the summer of 2008, Soleimanipour was still active in Tehran, working with the fusion band Fihmafih and his workshop-based Peter Soleimanipour Ensemble.
+
+Printed p. 132, PDF p. 9, second paragraph opening. Checked against the page image on 2026-11-21. Line-ending hyphens in “working” and “Soleimanipour” have been joined.

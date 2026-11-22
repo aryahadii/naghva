@@ -16,14 +16,14 @@ kind: web page
 
 > They are now working on their next album, "Dream Mechanics," which is set for release later this year.
 
-The band’s proposed 2008 UK tour, read 2026-11-21.
-
 > two band members were prevented from going because they had not done the two years of military service required in Iran.
 
-The 2008 tour.
+The band’s proposed 2008 UK tour. Read 2026-11-21.
 
 > The only band member who made it to Britain was the bassist, Arya, who eventually left the band.
 
-Publication date.
+The 2008 tour. Read 2026-11-21.
 
 > November 03, 2010
+
+Publication date. Read 2026-11-21.

@@ -12,8 +12,10 @@ tier: own
 
 > His interest in exploring the sound of the Kamancheh with live electronics has led him to develop audio processing units which are unique to the instrument.
 
-About, paragraphs on the processing units and the prize, read 2026-11-21.
-
 > control the live electronics and Kamancheh-driven audio-reactive visuals
 
+About, paragraphs on the processing units and the prize, read 2026-11-21.
+
 > his audio-visual composition ‘Zha’ for kamancheh, live electronics and visuals.
+
+About, paragraphs on the processing units and the prize, read 2026-11-21.

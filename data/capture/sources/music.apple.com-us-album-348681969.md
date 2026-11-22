@@ -8,10 +8,14 @@ kind: web page
 status: processed
 ---
 
-Album description and release date in the page metadata, cover URL in the first picture element, read 2026-11-21.
-
 > Listen to Three by Farzad Golpayegani
+
+Album description in embedded metadata, read 2026-11-21.
 
 > "datePublished":"2009-11-25"
 
+Store edition date in embedded metadata, read 2026-11-21.
+
 > https://is1-ssl.mzstatic.com/image/thumb/Music/75/74/79/mzi.kyrrmrab.jpg/600x600bb.webp
+
+Album artwork, first picture element, read 2026-11-21.

@@ -7,12 +7,16 @@ tier: discography
 status: processed
 ---
 
-Album heading and release details, read 2026-11-21.
-
 > Visions of the Seeker
 > Angband
+
+Album heading and release details, read 2026-11-21.
 
 > Type:
 > Full-length
 
+Album heading and release details, read 2026-11-21.
+
 > October 29th, 2010
+
+Album heading and release details, read 2026-11-21.

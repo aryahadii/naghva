@@ -7,10 +7,14 @@ tier: discography
 status: processed
 ---
 
-Album description and release date in the page metadata, cover URL in the first picture element, read 2026-11-21.
-
 > Listen to Rumi, Vol.1 by Pedram Derakhshani, Hamed Nikpay & Mehrdad Hoveyda
+
+Album and credited artists in description, read 2026-11-21.
 
 > "datePublished":"2011-04-15"
 
+Release date in structured metadata, read 2026-11-21.
+
 > https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/4c/30/c2/4c30c224-8565-cd8f-0497-d711860f7f71/884502968804.jpg/632x632bb.webp
+
+Album artwork in the first picture element, read 2026-11-21.

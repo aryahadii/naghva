@@ -7,10 +7,14 @@ tier: discography
 status: processed
 ---
 
-Album description and release date in the page metadata, cover URL in the first picture element, read 2026-11-21.
-
 > Listen to Esfandyar Maghmoom - Single by Abdi Behravanfar
+
+Album description in embedded metadata, read 2026-11-21.
 
 > "datePublished":"2020-06-23"
 
+Album metadata, read 2026-11-21.
+
 > https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/26/3d/9b/263d9b30-7cb7-cbc0-e3da-e16f52cb7891/artwork.jpg/632x632bb.webp
+
+Album artwork, first picture element, read 2026-11-21.

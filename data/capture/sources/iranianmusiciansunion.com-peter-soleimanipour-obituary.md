@@ -25,10 +25,14 @@ status: processed
 
 > همزمان با تحصیل در رشته نقاشی در دانشکده هنرهای زیبای دانشگاه تهران به فراگیری فلوت نزد احسان سامعی روی آورد.
 
-Obituary date and first paragraph, read 2026-11-21.
-
 > سپتامبر 10, 2018
+
+Obituary date and first paragraph, checked 2026-11-21.
 
 > عصر امروز (یکشنبه ۱۸ شهریور)
 
+Obituary date and first paragraph, checked 2026-11-21.
+
 > در سن پنجاه سالگی در بیمارستان توس دار فانی را وداع گفت.
+
+Obituary date and first paragraph, checked 2026-11-21.

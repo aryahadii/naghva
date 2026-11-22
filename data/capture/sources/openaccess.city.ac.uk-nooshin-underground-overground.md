@@ -8,14 +8,14 @@ tier: academic
 status: processed
 ---
 
-Author manuscript, note 33, read 2026-11-21.
-
 > Meera (Farhang Hall, Tehran, September 2002 and Harekat Hall, 23–25 February 2003
 
-Author manuscript, p. 18.
+Author manuscript, note 33. Read 2026-11-21.
 
 > Gienne Records, an Iranian-Australian partnership, is overseeing worldwide distribution
 
-Author manuscript, pp. 18–19.
+Author manuscript, p. 18. Read 2026-11-21.
 
 > The large advertizing billboards in Tehran in the summer of 2004
+
+Author manuscript, pp. 18–19. Read 2026-11-21.

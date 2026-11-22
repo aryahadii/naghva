@@ -8,12 +8,18 @@ status: processed
 archive: https://web.archive.org/web/20260110191605/https://sepehr.bandcamp.com/album/crown-jewel
 ---
 
-Album heading, artist byline and embedded release metadata, read 2026-11-21.
-
 > Crown Jewel
+
+Album name, embedded metadata, read 2026-11-21.
 
 > Sepehr
 
+Recording artist, embedded metadata, read 2026-11-21.
+
 > 11 Dec 2020 00:00:00 GMT
 
+Date of issue, embedded metadata, read 2026-11-21.
+
 > https://f4.bcbits.com/img/a2724946387_10.jpg
+
+Cover image, embedded metadata, read 2026-11-21.

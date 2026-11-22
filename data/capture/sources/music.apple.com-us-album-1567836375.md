@@ -8,8 +8,10 @@ language: en
 status: processed
 ---
 
-Album description and release date in the page metadata, read 2026-11-21.
-
 > Listen to Tatari by Hooshyar Khayam
 
+Album metadata, read 2026-11-21.
+
 > "datePublished":"2018-06-12"
+
+Apple Music edition date, read 2026-11-21.

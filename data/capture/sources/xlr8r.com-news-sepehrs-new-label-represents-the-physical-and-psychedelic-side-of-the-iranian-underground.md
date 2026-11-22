@@ -8,14 +8,18 @@ tier: journalism
 status: "processed"
 ---
 
-Read 2026-11-14.
-
 > His debut album came out on Dark Entries in April, and he’s since moved to New York.
+
+Read 2026-11-14.
 
 > November 19, 2020
 
-Announcement of the first Shaytoon Records EP, read 2026-11-21.
+Read 2026-11-14.
 
 > will launch his own label, Shaytoon, with a new EP.
 
+Announcement of the first Shaytoon Records EP, read 2026-11-21.
+
 > Crown Jewel, Shaytoon’s inaugural release
+
+Announcement of the first Shaytoon Records EP, read 2026-11-21.

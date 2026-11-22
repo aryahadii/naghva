@@ -8,9 +8,9 @@ tier: journalism
 status: processed
 ---
 
-Photo caption and answer to “How did TarantisT form?” Read 2026-11-21.
-
 > Arash Rahbary
+
+Photo caption and answer to “How did TarantisT form?” Read 2026-11-21.
 
 > My brother, Arsalan, and I formed it some 8 or 9 years ago with great support from our parents.
 
