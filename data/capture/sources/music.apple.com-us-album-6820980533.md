@@ -8,10 +8,14 @@ tier: discography
 status: processed
 ---
 
-Album description and release date in the page metadata, cover URL in the first picture element, read 2026-11-21.
-
 > Listen to Damnoosh by Navid Arbabian
+
+Album and credited artists in description, read 2026-11-21.
 
 > "datePublished":"2024-09-06"
 
+Release date in structured metadata, read 2026-11-21.
+
 > https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/b1/f0/2db1f0a7-bc55-edc8-e5a3-9b2c018f88d0/artwork.jpg/632x632bb.webp
+
+Album artwork in the first picture element, read 2026-11-21.

@@ -8,34 +8,34 @@ tier: journalism
 status: processed
 ---
 
-Paragraph on his childhood, read 2026-11-21.
-
 > گروهی را با نام «ماد» در مشهد شکل داد.
 
-Artist photograph caption.
+Paragraph on his childhood, read 2026-11-21.
 
 > عبدی بهروانفر
 
-Paragraph following the second artist photograph.
+Artist photograph caption, read 2026-11-21.
 
 > اولین آلبوم او در سال ٢٠٠٨ با عنوان «شلمرود» عرضه شد
 
-Answer on learning the music of Khorasan.
+Paragraph following the second artist photograph, read 2026-11-21.
 
 > به ایران برگشتم و شروع به یاد گرفتن دوتار کردم
 
-Answer about Shalamroud in Armenia.
+Answer on learning the music of Khorasan, read 2026-11-21.
 
 > نمی‌دانم از کجای ایران می‌آیی! و این جمله فکر مرا به خود مشغول کرد.
 
-Answer on performing in London.
+Answer about Shalamroud in Armenia, read 2026-11-21.
 
 > در لندن بلوز فارسی می‌خوانم
 
-Answer about Shalamroud in Armenia.
+Answer on performing in London, read 2026-11-21.
 
 > اولین تلنگر را در ارمنستان خوردم زمانی که آلبوم «شلمرود» را در یک موسسه اجرا کردم و آن را به یک نوازنده بسیار قَدَر آمریکایی- ارمنی که همسرش نیز خواننده موسیقی کانتری است و با هم کار تلفیقی می‌کردند دادم تا نظرش را بدانم
 
-Paragraph on childhood.
+Answer about Shalamroud in Armenia, read 2026-11-21.
 
 > او در تیرماه ١٣۵۴در مشهد به دنیا آمد
+
+Paragraph on childhood. Read 2026-11-21.

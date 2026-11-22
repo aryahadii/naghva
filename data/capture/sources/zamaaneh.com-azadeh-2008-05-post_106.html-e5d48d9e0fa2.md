@@ -18,4 +18,4 @@ status: processed
 
 > الفاظ اجتماعی و تکیه‌ کلام‌هایی را که در طول روز شاید در تهران بارها به گوش می‌رسد، در کار ما هم می‌شنوید.
 
-Bassist on everyday language, read 2026-11-21.
+Bassist on everyday language. Read 2026-11-21.

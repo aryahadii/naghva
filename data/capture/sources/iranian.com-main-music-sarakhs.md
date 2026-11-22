@@ -7,6 +7,6 @@ tier: journalism
 status: processed
 ---
 
-Band biography, paragraph on Az Khak, read 2026-11-21.
-
 > The first album “Az Khak” was recorded in BAM studio during 1999-2000 but never released officially.
+
+Band biography, paragraph on Az Khak, read 2026-11-21.

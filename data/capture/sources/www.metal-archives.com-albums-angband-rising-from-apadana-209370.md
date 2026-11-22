@@ -7,12 +7,16 @@ tier: discography
 status: processed
 ---
 
-Album heading and release details, read 2026-11-21.
-
 > Rising from Apadana
 > Angband
+
+Album heading and release details, read 2026-11-21.
 
 > Type:
 > Full-length
 
+Album heading and release details, read 2026-11-21.
+
 > August 29th, 2008
+
+Album heading and release details, read 2026-11-21.

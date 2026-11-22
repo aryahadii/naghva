@@ -8,8 +8,10 @@ language: en
 status: processed
 ---
 
-Album description in the page metadata, cover URL in the first picture element, read 2026-11-21.
-
 > Listen to Verses in the Wind by Farzaneh Joorabchi & Hooshyar Khayam
 
+Album metadata, read 2026-11-21.
+
 > https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/0c/24/690c24f2-6471-23a8-a8be-3019704e9ded/3760191121003.png/632x632bb.webp
+
+Album cover in first picture element, read 2026-11-21.

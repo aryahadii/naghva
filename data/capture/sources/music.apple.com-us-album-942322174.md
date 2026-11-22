@@ -8,10 +8,14 @@ kind: web page
 status: processed
 ---
 
-Album description and release date in the page metadata, cover URL in the first picture element, read 2026-11-21.
-
 > Listen to Two by Farzad Golpayegani
+
+Album description in embedded metadata, read 2026-11-21.
 
 > "datePublished":"2005-05-01"
 
+Store edition date in embedded metadata, read 2026-11-21.
+
 > https://is1-ssl.mzstatic.com/image/thumb/Music1/v4/c0/d8/de/c0d8dec0-80ca-adb5-33ea-c5a6ce08249a/889211178377.jpg/632x632bb.webp
+
+Album artwork, first picture element, read 2026-11-21.

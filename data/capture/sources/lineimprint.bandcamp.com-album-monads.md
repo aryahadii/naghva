@@ -8,22 +8,30 @@ language: en
 status: processed
 ---
 
-Album heading, artist byline and embedded release metadata, read 2026-11-21.
-
 > Monads
+
+Album title, read 2026-11-21.
 
 > PORYA HATAMI
 
+Artist byline, read 2026-11-21.
+
 > 07 Apr 2017 00:00:00 GMT
+
+Release date in album metadata, read 2026-11-21.
 
 > https://f4.bcbits.com/img/a3180258292_10.jpg
 
-Credits.
+Album artwork URL, read 2026-11-21.
 
 > Design by Richard Chartier.
 
+Album credits, read 2026-11-21.
+
 > all sounds created by Porya Hatami 2014-2015 in Sanandaj.
 
-Label’s album notes.
+Label’s album notes, read 2026-11-21.
 
 > The pieces on monads are single layered synth patches manipulated and recorded in real time.
+
+Label’s album notes, read 2026-11-21.

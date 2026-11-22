@@ -7,10 +7,14 @@ tier: discography
 status: processed
 ---
 
-Album description and release date in the page metadata, cover URL in the first picture element, read 2026-11-21.
-
 > Listen to Kokheo & Kalakhet by MUD Band
+
+Album description in embedded metadata, read 2026-11-21.
 
 > "datePublished":"2009-11-06"
 
+Album metadata, read 2026-11-21.
+
 > https://is1-ssl.mzstatic.com/image/thumb/Music/76/85/95/mzi.fepxvqsc.jpg/600x600bb.webp
+
+Album artwork, first picture element, read 2026-11-21.

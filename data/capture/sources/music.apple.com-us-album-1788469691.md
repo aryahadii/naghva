@@ -7,10 +7,14 @@ tier: discography
 status: processed
 ---
 
-Album description and release date in the page metadata, cover URL in the first picture element, read 2026-11-21.
-
 > Listen to Do Vel - Single by Abdi Behravanfar
+
+Album description in embedded metadata, read 2026-11-21.
 
 > "datePublished":"2024-12-31"
 
+Album metadata, read 2026-11-21.
+
 > https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3a/8f/d3/3a8fd3f8-bd0b-0429-af7b-c18ba2665ba8/artwork.jpg/632x632bb.webp
+
+Album artwork, first picture element, read 2026-11-21.

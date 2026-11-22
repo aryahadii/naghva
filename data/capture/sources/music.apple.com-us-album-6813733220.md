@@ -7,10 +7,14 @@ tier: discography
 status: processed
 ---
 
-Album description and release date in the page metadata, cover URL in the first picture element, read 2026-11-21.
-
 > Listen to M by Arash Rahbary & TarantisT
+
+Album and credited artists, embedded description, read 2026-11-21.
 
 > "datePublished":"2026-09-17"
 
+Date of digital edition, structured metadata, read 2026-11-21.
+
 > https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/0d/5f/690d5f12-bdcf-d498-68a5-5906b2347dce/artwork.jpg/632x632bb.webp
+
+Cover artwork in the album page picture element, read 2026-11-21.

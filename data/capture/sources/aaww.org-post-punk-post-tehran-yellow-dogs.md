@@ -12,34 +12,40 @@ issued:
   date: '2012-12-11'
 ---
 
-Paragraph on Obash, Koory, Looloosh and Sina in Tehran, read 2026-11-13.
-
 > played together for hours every day
 
-Same paragraph, name of their rooftop rehearsal room.
+Paragraph on Obash, Koory, Looloosh and Sina in Tehran. Read 2026-11-13.
 
 > the doghouse
 
-Final section, opening sentence: In the Kennel and Upper Class Complexity.
+Same paragraph, name of their rooftop rehearsal room. Read 2026-11-13.
 
 > recorded two EPs at a studio in Rhode Island
 
-Influences paragraph.
+Final section, opening sentence: In the Kennel and Upper Class Complexity. Read 2026-11-13.
 
 > Joy Division
 
-Film paragraph: the band performs the song in its rooftop practice space.
+Influences paragraph. Read 2026-11-13.
 
 > New Century
 
-Final section, the band was finishing new songs and planned recording the following year.
+Film paragraph: the band performs the song in its rooftop practice space. Read 2026-11-13.
 
 > full-length album
 
-Rehearsal and lineup, reopened 2026-11-21.
+Final section, the band was finishing new songs and planned recording the following year. Read 2026-11-13.
+
+Archive checked 2026-11-13: the availability API returned this snapshot; its HTML loaded successfully and the cited passages were checked in the archived article context.
 
 > For three-and-a-half years, Obash, Koory (bass), Looloosh (lead guitar), and Sina (drums) played together for hours every day
 
+Rehearsal and lineup, reopened 2026-11-21.
+
 > their rooftop practice space
 
+Rehearsal and lineup, reopened 2026-11-21.
+
 > who sings and plays rhythm guitar
+
+Rehearsal and lineup, reopened 2026-11-21.

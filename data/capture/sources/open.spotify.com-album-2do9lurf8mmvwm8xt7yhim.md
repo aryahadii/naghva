@@ -8,6 +8,6 @@ tier: discography
 status: processed
 ---
 
-Album page title, read 2026-11-21.
-
 > Listen to Rising from Apadana - Album by Angband | Spotify
+
+Album page title, read 2026-11-21.

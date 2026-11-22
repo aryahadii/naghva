@@ -8,16 +8,22 @@ language: en
 status: processed
 ---
 
-Album heading, artist byline and embedded release metadata, read 2026-11-21.
-
 > Nocebo
+
+Album title, read 2026-11-21.
 
 > 9T Antiope
 
+Artist byline, read 2026-11-21.
+
 > 15 Feb 2019 00:00:00 GMT
+
+Release date in album metadata, read 2026-11-21.
 
 > https://f4.bcbits.com/img/a1955816915_10.jpg
 
-Credits.
+Album artwork URL, read 2026-11-21.
 
 > Artwork: Rainer Kohlberger
+
+Album credits, read 2026-11-21.

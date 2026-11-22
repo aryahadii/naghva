@@ -7,10 +7,14 @@ language: fa
 publisher: Top Persian Music
 ---
 
-Written biography in the video description, read 2026-11-21.
-
 > پاييز سال 93 با حضور مسيح و حامد تشکيل شد.
+
+Video report and accompanying written biography. Read 2026-11-21.
 
 > دوم اردی بهشت ماه ۹۸ در فرهنگسرای نیاوران برگزار شد.
 
+Video report and accompanying written biography. Read 2026-11-21.
+
 > چهارمین آلبوم گروه کلاغ ها در باران
+
+Video report and accompanying written biography. Read 2026-11-21.

@@ -7,10 +7,14 @@ tier: discography
 status: processed
 ---
 
-Album description and release date in the page metadata, cover URL in the first picture element, read 2026-11-21.
-
 > Listen to Batoum Bezan باتوم بزن (feat. Sina Momtahan) - Single by Abdi Behravanfar
+
+Album description in embedded metadata, read 2026-11-21.
 
 > "datePublished":"2022-11-11"
 
+Album metadata, read 2026-11-21.
+
 > https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/e5/a6/b6/e5a6b6a5-c673-9465-688b-5327a71fa0f7/artwork.jpg/632x632bb.webp
+
+Album artwork, first picture element, read 2026-11-21.

@@ -8,10 +8,14 @@ language: en
 status: processed
 ---
 
-Album description and release date in the page metadata, cover URL in the first picture element, read 2026-11-21.
-
 > Listen to All of You by Hooshyar Khayam & Amir Eslami
+
+Album metadata, read 2026-11-21.
 
 > https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b7/29/71/b72971c7-11f0-1d73-0f96-53573296b8dd/196006625375.jpg/632x632bb.webp
 
+Album cover in first picture element, read 2026-11-21.
+
 > "datePublished":"2019-06-23"
+
+Apple Music edition date, read 2026-11-21.

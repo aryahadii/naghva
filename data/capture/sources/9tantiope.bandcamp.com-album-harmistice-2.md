@@ -8,16 +8,22 @@ language: en
 status: processed
 ---
 
-Album heading, artist byline and embedded release metadata, read 2026-11-21.
-
 > Harmistice
+
+Album title, read 2026-11-21.
 
 > 9T Antiope and Siavash Amini
 
+Artist byline, read 2026-11-21.
+
 > 07 Jun 2019 00:00:00 GMT
+
+Release date in album metadata, read 2026-11-21.
 
 > https://f4.bcbits.com/img/a3445776915_10.jpg
 
-Credits.
+Album artwork URL, read 2026-11-21.
 
 > Artwork by Ruth Stofer
+
+Album credits, read 2026-11-21.

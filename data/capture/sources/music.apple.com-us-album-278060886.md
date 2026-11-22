@@ -7,10 +7,14 @@ language: en
 status: processed
 ---
 
-Album description and release date in the page metadata, cover URL in the first picture element, read 2026-11-21.
-
 > Listen to Tatari by Hooshyar Khayam
+
+Album metadata, read 2026-11-21.
 
 > https://is1-ssl.mzstatic.com/image/thumb/Music/22/04/8d/mzi.ypilfrpw.jpg/632x632bb.webp
 
+Album cover in first picture element, read 2026-11-21.
+
 > "datePublished":"2007-01-01"
+
+Apple Music edition date, read 2026-11-21.

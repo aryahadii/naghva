@@ -7,12 +7,16 @@ tier: discography
 status: processed
 ---
 
-Album heading and release details, read 2026-11-21.
-
 > Exir
 > Kahtmayan
+
+Album heading and release details, read 2026-11-21.
 
 > Type:
 > Full-length
 
+Album heading and release details, read 2026-11-21.
+
 > September 1st, 2005
+
+Album heading and release details, read 2026-11-21.
