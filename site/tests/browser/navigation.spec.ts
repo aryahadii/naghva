@@ -85,7 +85,7 @@ test.describe('mobile search', () => {
   test.use({ viewport: { width: 390, height: 844 }, isMobile: true, hasTouch: true });
   test('a touch on a search result opens the artist', async ({ page }) => {
     await page.goto('/en/');
-    await page.locator('astro-island:not([ssr])').waitFor();
+    await page.locator('astro-island:not([ssr])').first().waitFor();
     await page.getByRole('combobox').fill('sanam maroufkhani');
     const result = page.locator('.search-panel a').first();
     await expect(result).toBeVisible();

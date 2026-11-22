@@ -1,11 +1,11 @@
 ---
-import { getImage, Image } from 'astro:assets';
+import { getImage } from 'astro:assets';
 import Page from '../../layouts/Page.astro';
 import ReleaseCard from '../../components/ReleaseCard.astro';
 import ArtistCard from '../../components/ArtistCard.astro';
 import ShelfControls from '../../components/ShelfControls.astro';
 import Search from '../../islands/Search';
-import nightGarden from '../../assets/art/night-garden.png';
+import StarMap from '../../islands/StarMap';
 import imprint from '../../../../assets/brand/logos/imprint/naghva-imprint-on-dark-solid.png';
 import { dateHtml, isolate, nameHtml } from '../../lib/html';
 import { list, locale, parts, strings } from '../../lib/i18n';
@@ -17,8 +17,9 @@ import {
 } from '../../lib/record';
 import '../../styles/shelf.css';
 import '../../styles/home.css';
+import '../../styles/star-map.css';
 
-/** The homepage: search in the night sky, the garden, latest releases, then artists to explore. */
+/** The homepage: search, the star map, latest releases, then artists to explore. */
 export function getStaticPaths() {
   return LANGS.map((lang) => ({ params: { lang } }));
 }
@@ -62,10 +63,6 @@ const listed = new Intl.ListFormat(locale(lang), { type: 'disjunction' })
   .map((p) => (p.type === 'element' ? tries[n++] : p.value));
 const hints = tries.length ? parts(t.hints).flatMap((p) => (typeof p === 'string' ? [p] : listed)) : undefined;
 
-// A phone shows only the heart of the garden (the moon, the houses and the cypresses), so it loads only that part.
-const gardenQuality = 75;
-const heart = await getImage({ src: nightGarden, width: 1060, height: 886, fit: 'cover', widths: [360, 480, 640, 750, 800, 860, 1060], quality: gardenQuality });
-
 // The imprint as search engines show it beside the site's name.
 const logo = new URL((await getImage({ src: imprint, width: 1200, format: 'png' })).src, Astro.site).href;
 
@@ -81,20 +78,16 @@ const onwardEnd = onward.pop();
         <h1 class="home-title">{t.homeHeading}</h1>
         <Search client:load lang={lang} words={{ ...t.search, kinds: t.kinds }} hero hints={hints} />
       </div>
-      <div class="home-garden" aria-hidden="true">
-        <picture>
-          <source media="(max-width: 760px)" srcset={heart.srcSet.attribute} sizes="100vw" width={heart.attributes.width} height={heart.attributes.height} type="image/webp" />
-          <Image
-            src={nightGarden}
-            widths={[640, 800, 960, 1024, 1280, 1440, 1822]}
-            sizes="min(100vw, 1680px, max(980px, calc((100svh - 360px) * 2.06)))"
-            quality={gardenQuality}
-            alt=""
-            loading="eager"
-            fetchpriority="high"
-          />
-        </picture>
-      </div>
+      {/* A link to one star opens the map at once, so the page behind it stays covered until then. */}
+      <script is:inline>
+        if (new URLSearchParams(location.search).has('star')) {
+          const preload = Object.assign(document.createElement('link'), { rel: 'preload', href: '/sky.json', as: 'fetch', crossOrigin: 'anonymous' });
+          document.head.append(preload);
+          document.documentElement.classList.add('sky-deep');
+          setTimeout(() => document.documentElement.classList.remove('sky-deep'), 6000);
+        }
+      </script>
+      <StarMap client:load lang={lang} words={{ ...t.starMap, search: { ...t.search, kinds: t.kinds } }} />
     </section>
     {latest.length > 0 && (
       <section class="latest wrap" aria-labelledby="latest-title">

@@ -1,4 +1,5 @@
 import { useEffect, useMemo, useRef, useState } from 'preact/hooks';
+import { keepInView } from '../lib/panel-room';
 import { ranked, type SearchEntry, type SearchIndex } from '../lib/search';
 import { trackSearchUse } from '../scripts/analytics';
 
@@ -107,26 +108,7 @@ export default function Search({ lang, words, hero = false, hints }: Props) {
   const count = all.length === 1 ? words.results.one : words.results.other.replace('{count}', digits(lang, all.length));
 
   useEffect(() => {
-    const element = panel.current;
-    if (!expanded || !element) return;
-    // Mobile keyboards resize the visual viewport without resizing the page.
-    const viewport = window.visualViewport;
-    const fit = () => {
-      const bottom = viewport ? viewport.offsetTop + viewport.height : window.innerHeight;
-      const height = Math.max(0, Math.floor(bottom - element.getBoundingClientRect().top - 12));
-      element.style.setProperty('--search-available-height', `${height}px`);
-    };
-    fit();
-    viewport?.addEventListener('resize', fit);
-    viewport?.addEventListener('scroll', fit);
-    window.addEventListener('resize', fit);
-    window.addEventListener('scroll', fit, { passive: true });
-    return () => {
-      viewport?.removeEventListener('resize', fit);
-      viewport?.removeEventListener('scroll', fit);
-      window.removeEventListener('resize', fit);
-      window.removeEventListener('scroll', fit);
-    };
+    if (expanded && panel.current) return keepInView(panel.current);
   }, [expanded]);
 
   return (
