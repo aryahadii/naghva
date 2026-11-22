@@ -162,12 +162,11 @@ the `naghva-media/` folder inside npm's configured cache, which Workers
 Builds restores when Build Cache is enabled. It survives `npm ci`. A cold cache still downloads and resizes the images; later
 builds reuse them. Copies are keyed by image hash, width and encoder version.
 
-In CI, only builds of `main` get the read-only key (the `R2_READ_*`
-secrets), and keep the originals in the Actions cache, so a build reads from
-R2 only when `media.json` changes. They also set
-`NAGHVA_MEDIA_REQUIRED=1`, so `main` fails when an image has no own copy or
-the licensed fonts are missing. Every other build, such as a pull request from a
-fork, shows images from their publishers, and the page tries the publisher
+Only Cloudflare's build holds the read-only key (its build variables
+`R2_ACCOUNT_ID`, `R2_ACCESS_KEY_ID` and `R2_SECRET_ACCESS_KEY`), with
+`NAGHVA_MEDIA_REQUIRED=1`, so a deploy fails when an image has no own copy or
+the licensed fonts are missing. GitHub's checks and other builds without the
+key show images from their publishers, and the page tries the publisher
 too if an own copy fails to load. The build reads each image's width and
 height from `media.json` so the page keeps its place while it loads. Each
 image is credited under it with its source. A release without cover art
