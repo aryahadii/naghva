@@ -1,0 +1,26 @@
+id: Qnchp5f
+type: release
+statements:
+  name:
+  - value:
+      text: My Time
+      language: en
+    references:
+    - source: exhorder.bandcamp.com-album-mourn-the-southern-skies
+      quote: My Time
+      accessed: 2026-11-21
+      locator: Artist or label track
+  performer:
+  - value: Qtpm2k9
+    references:
+    - source: www.nuclearblast.com-pages-album-mourn-the-southern-skies
+      quote: Marzi Montazeri
+      accessed: 2026-11-21
+      locator: Exhorder original label
+  listen link:
+  - value: https://exhorder.bandcamp.com/track/my-time
+    references:
+    - source: exhorder.bandcamp.com-album-mourn-the-southern-skies
+      quote: My Time
+      accessed: 2026-11-21
+      locator: Artist or label track
