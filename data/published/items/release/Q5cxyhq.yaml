@@ -1,0 +1,53 @@
+id: Q5cxyhq
+type: release
+statements:
+  name:
+  - value:
+      text: Avvocata
+      language: en
+    references:
+    - source: soundcloud.com-user-563439002-hysterrae-avvocata
+      quote: Hysterrae - Avvocata
+      accessed: '2026-11-21'
+      locator: Original artist upload
+  performer:
+  - value: Qkvdrbs
+    references:
+    - source: soundcloud.com-user-563439002-hysterrae-avvocata
+      quote: Hysterrae - Avvocata
+      accessed: '2026-11-21'
+      locator: Original artist upload
+    - source: soundcloud.com-user-563439002-hysterrae-avvocata
+      quote: Hysterrae, through a process of abstraction of the respective original sonorities
+      accessed: '2026-11-21'
+      locator: Artist description, matching the group’s Bandcamp account
+  listen link:
+  - value: https://soundcloud.com/user-563439002/hysterrae-avvocata
+    references:
+    - source: soundcloud.com-user-563439002-hysterrae-avvocata
+      quote: Hysterrae - Avvocata
+      accessed: '2026-11-21'
+      locator: Original artist upload
+    - source: soundcloud.com-user-563439002-hysterrae-avvocata
+      quote: Hysterrae, through a process of abstraction of the respective original sonorities
+      accessed: '2026-11-21'
+      locator: Artist description, matching the group’s Bandcamp account
+  release date:
+  - value:
+      date: '2020-10-27'
+    references:
+    - source: soundcloud.com-user-563439002-hysterrae-avvocata
+      quote: '2020-10-27T10:55:56Z'
+      accessed: '2026-11-21'
+      locator: SoundCloud publication timestamp
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-3BhHq52RiaGwmyEk-JCYnDA-large.jpg
+    qualifiers:
+      credit:
+        text: Hysterrae on SoundCloud
+        language: en
+    references:
+    - source: soundcloud.com-user-563439002-hysterrae-avvocata
+      quote: https://i1.sndcdn.com/artworks-3BhHq52RiaGwmyEk-JCYnDA-large.jpg
+      accessed: '2026-11-21'
+      locator: SoundCloud upload artwork
