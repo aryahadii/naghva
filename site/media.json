@@ -516,6 +516,20 @@
       1200
     ]
   },
+  "https://f4.bcbits.com/img/0018764394_10.jpg": {
+    "sha256": "06107405f3ddf2ca632771485be6a0c77014d54d49b5228f3ce00991a0bb44c6",
+    "ext": "jpg",
+    "bytes": 63617,
+    "width": 1200,
+    "height": 800,
+    "widths": [
+      240,
+      360,
+      640,
+      960,
+      1200
+    ]
+  },
   "https://f4.bcbits.com/img/0020918020_10.jpg": {
     "sha256": "8e5fa59c1a4397253edc5c6e5322a4b01b1ddb117ea4b18bf72855d9090402a6",
     "ext": "jpg",
@@ -1234,6 +1248,18 @@
       720
     ]
   },
+  "https://f4.bcbits.com/img/a0242249170_10.jpg": {
+    "sha256": "289a57f6bae2ae4a8a7d10748da0819cba749ea9dfd1e46e5fb637d88cdf2116",
+    "ext": "jpg",
+    "bytes": 279057,
+    "width": 1200,
+    "height": 1200,
+    "widths": [
+      180,
+      360,
+      720
+    ]
+  },
   "https://f4.bcbits.com/img/a0242899362_5.jpg": {
     "bytes": 151920,
     "ext": "jpg",
@@ -1457,6 +1483,18 @@
     "sha256": "43c6a7671108c3a7beac554098a2c4887dd105ae3711e0a77588299ca67b9323",
     "ext": "jpg",
     "bytes": 334111,
+    "width": 1200,
+    "height": 1200,
+    "widths": [
+      180,
+      360,
+      720
+    ]
+  },
+  "https://f4.bcbits.com/img/a0360057345_10.jpg": {
+    "sha256": "8effff57db2eb684dffa6e4ababe911fd485d167e8bf223d5638e973efc41cc2",
+    "ext": "jpg",
+    "bytes": 583933,
     "width": 1200,
     "height": 1200,
     "widths": [
@@ -2776,6 +2814,18 @@
     "sha256": "75d1b45a7fce8616472729e517a6d6c600fd8c1d0c47de84016df5cc115e7ce5",
     "ext": "jpg",
     "bytes": 394625,
+    "width": 1200,
+    "height": 1200,
+    "widths": [
+      180,
+      360,
+      720
+    ]
+  },
+  "https://f4.bcbits.com/img/a1499898376_10.jpg": {
+    "sha256": "74f2d5f56f6c319d466a981bab36290f8d4258c0dc5d5d61b4a0fccff3b9e601",
+    "ext": "jpg",
+    "bytes": 181692,
     "width": 1200,
     "height": 1200,
     "widths": [
@@ -4448,6 +4498,18 @@
     "sha256": "bb84692651f9674a440afe402fc2811d8c8de9d62bd49d5f4d42511a68e05132",
     "ext": "jpg",
     "bytes": 183323,
+    "width": 1200,
+    "height": 1200,
+    "widths": [
+      180,
+      360,
+      720
+    ]
+  },
+  "https://f4.bcbits.com/img/a3036525407_10.jpg": {
+    "sha256": "5ac2cf49011c040c42f73bb4e14533a2027ee3da47fd4d06eef68c3335848e4c",
+    "ext": "jpg",
+    "bytes": 300530,
     "width": 1200,
     "height": 1200,
     "widths": [
@@ -7302,6 +7364,18 @@
       720
     ]
   },
+  "https://i.scdn.co/image/ab67616d0000b2736c1f2455d18053df2c5be3bc": {
+    "sha256": "35ddc843872885728d415934e646cbb340052c26cf7a0e3e41b25fbf43e8bcbe",
+    "ext": "jpg",
+    "bytes": 118974,
+    "width": 640,
+    "height": 640,
+    "widths": [
+      180,
+      360,
+      720
+    ]
+  },
   "https://i.scdn.co/image/ab67616d0000b2736e698b2080b8c43bbd030a95": {
     "bytes": 113297,
     "ext": "jpg",
@@ -7830,6 +7904,18 @@
       720
     ]
   },
+  "https://i.scdn.co/image/ab67616d0000b273df4bfc2203ee3ef850d03469": {
+    "sha256": "aeb7326d225ceefee95be22952ddbd0c975272bacca6d1d78aa2d30de8f4640d",
+    "ext": "jpg",
+    "bytes": 76961,
+    "width": 640,
+    "height": 640,
+    "widths": [
+      180,
+      360,
+      720
+    ]
+  },
   "https://i.scdn.co/image/ab67616d0000b273e46de5c3bd48c6d007903535": {
     "sha256": "c6aab360c7276a6cf0a96d3a8c9bb62ad4bbefd11c1fda2b1e8d2b68bade4bdb",
     "ext": "jpg",
@@ -7846,6 +7932,30 @@
     "sha256": "739cb02fec3ef5db833155ec77dedf8c7d47c34e894d1831448b24a3ea56c515",
     "ext": "jpg",
     "bytes": 132486,
+    "width": 640,
+    "height": 640,
+    "widths": [
+      180,
+      360,
+      720
+    ]
+  },
+  "https://i.scdn.co/image/ab67616d0000b273e7fc7af9c53208eb8fef7e29": {
+    "sha256": "d96c899c618af1af1cdcad1c22437b9dc5ffd0bb9c0f75207adc05e58d1766a9",
+    "ext": "jpg",
+    "bytes": 42600,
+    "width": 640,
+    "height": 640,
+    "widths": [
+      180,
+      360,
+      720
+    ]
+  },
+  "https://i.scdn.co/image/ab67616d0000b273e9217b28a93420ceb1c60030": {
+    "sha256": "6f2efdb998247c1b91eb2906b8ff2284cefee92bfc618032d2802c7484d7253e",
+    "ext": "jpg",
+    "bytes": 156207,
     "width": 640,
     "height": 640,
     "widths": [
@@ -7906,6 +8016,18 @@
     "sha256": "31628a881b66e54ef1cd77c5583d12b84df1b69fa365eeffbea7645025193d73",
     "ext": "jpg",
     "bytes": 52242,
+    "width": 640,
+    "height": 640,
+    "widths": [
+      180,
+      360,
+      720
+    ]
+  },
+  "https://i.scdn.co/image/ab67616d0000b273f5a248a5c168021d02ead144": {
+    "sha256": "3c48550a6cc29a0f7d9f0ae759b161e7db4642e7cb3238d6fbc9afc23054f5b2",
+    "ext": "jpg",
+    "bytes": 163878,
     "width": 640,
     "height": 640,
     "widths": [
@@ -28722,6 +28844,19 @@
       720
     ]
   },
+  "https://i1.sndcdn.com/artworks-000227774348-626kws-large.jpg": {
+    "sha256": "a4e5e50d4dde755c76bb77bebcae6cf4b9ac4c56524ac9e0bad57476095b6cb2",
+    "ext": "jpg",
+    "bytes": 91486,
+    "width": 500,
+    "height": 500,
+    "from": "https://i1.sndcdn.com/artworks-000227774348-626kws-t500x500.jpg",
+    "widths": [
+      180,
+      360,
+      720
+    ]
+  },
   "https://i1.sndcdn.com/artworks-000230045826-6vdxnd-large.jpg": {
     "sha256": "9ebe13575b4664dcfc96e3b24a612d59dc17754f1a60e1938b4f51b62bb1c016",
     "ext": "jpg",
@@ -29961,6 +30096,19 @@
       720
     ]
   },
+  "https://i1.sndcdn.com/artworks-9kmiRzwAfHgfn4yO-bqdNZg-large.jpg": {
+    "sha256": "4fd1adb1ad0c56e04c0e488b24c91a6f3cf4e6fb3f929ce9b2b8cc17f68f5096",
+    "ext": "jpg",
+    "bytes": 85406,
+    "width": 500,
+    "height": 500,
+    "from": "https://i1.sndcdn.com/artworks-9kmiRzwAfHgfn4yO-bqdNZg-t500x500.jpg",
+    "widths": [
+      180,
+      360,
+      720
+    ]
+  },
   "https://i1.sndcdn.com/artworks-A0zwkt6mUNxFq03K-lZqzBw-t500x500.png": {
     "bytes": 72937,
     "ext": "jpg",
@@ -30543,6 +30691,19 @@
     "width": 500,
     "height": 500,
     "from": "https://i1.sndcdn.com/artworks-Ik9ZixPPWft1W2gR-gvFieQ-t500x500.jpg",
+    "widths": [
+      180,
+      360,
+      720
+    ]
+  },
+  "https://i1.sndcdn.com/artworks-ILBztGx5HwT21g3K-SWDmrg-large.jpg": {
+    "sha256": "05cdfade3b0910bfd1da2888359d76f154a407946a0bec6b69652673a5be9937",
+    "ext": "jpg",
+    "bytes": 26139,
+    "width": 500,
+    "height": 500,
+    "from": "https://i1.sndcdn.com/artworks-ILBztGx5HwT21g3K-SWDmrg-t500x500.jpg",
     "widths": [
       180,
       360,
@@ -36653,6 +36814,19 @@
     "height": 1200,
     "sha256": "be7141af1425f98d5509017ca795bf32017b5d9d8e57dc5de40b50fc6db0ff1f",
     "width": 1200,
+    "widths": [
+      180,
+      360,
+      720
+    ]
+  },
+  "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/14/80/c3/1480c3e6-0456-1327-a8b9-64a00b5e33ac/4062548010367_3000.jpg/600x600bb.webp": {
+    "sha256": "ad9d7af1cb5ea62649d75dd29d1e662ee5374b6e6e5d291fa0bfd1638ee488fa",
+    "ext": "jpg",
+    "bytes": 330105,
+    "width": 1200,
+    "height": 1200,
+    "from": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/14/80/c3/1480c3e6-0456-1327-a8b9-64a00b5e33ac/4062548010367_3000.jpg/1200x1200bb.jpg",
     "widths": [
       180,
       360,
@@ -44936,6 +45110,19 @@
       720
     ]
   },
+  "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/69/64/0a/69640a0b-b5ae-8078-3a56-c4ca9dd0cd97/e1e568e9-9712-45c3-b0d3-a5b221cbe69a.jpg/632x632bb.webp": {
+    "sha256": "e73dd1b5aebf8dc81fd6e2018a19725e3dcfd52703438ddcf822e9cdd7ad58ef",
+    "ext": "jpg",
+    "bytes": 298070,
+    "width": 1200,
+    "height": 1200,
+    "from": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/69/64/0a/69640a0b-b5ae-8078-3a56-c4ca9dd0cd97/e1e568e9-9712-45c3-b0d3-a5b221cbe69a.jpg/1200x1200bb.jpg",
+    "widths": [
+      180,
+      360,
+      720
+    ]
+  },
   "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/69/f6/09/69f60935-503b-1831-6114-15a3200a4c99/artwork.jpg/1200x630bb.jpg": {
     "sha256": "2e94b817d013bb6019901e5d2543f8cd59abfbab1b5dc93c573a37f28df4fe53",
     "ext": "jpg",
@@ -48701,6 +48888,32 @@
     "width": 1200,
     "height": 1200,
     "from": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/79/fa/ab/79faab53-8078-2f4a-69b6-e791098995e9/0788792256170.png/1200x1200bb.jpg",
+    "widths": [
+      180,
+      360,
+      720
+    ]
+  },
+  "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7d/11/6c/7d116c21-34bd-644e-5db1-fc12156c4687/3663729336804_cover.jpg/600x600bb.webp": {
+    "sha256": "8f6529969796bc7a8bde8b0b9928394a7c69398b0759e6bb5f6c49e7a282c6b5",
+    "ext": "jpg",
+    "bytes": 416940,
+    "width": 1200,
+    "height": 1200,
+    "from": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7d/11/6c/7d116c21-34bd-644e-5db1-fc12156c4687/3663729336804_cover.jpg/1200x1200bb.jpg",
+    "widths": [
+      180,
+      360,
+      720
+    ]
+  },
+  "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7d/11/6c/7d116c21-34bd-644e-5db1-fc12156c4687/3663729336804_cover.jpg/632x632bb.webp": {
+    "sha256": "8f6529969796bc7a8bde8b0b9928394a7c69398b0759e6bb5f6c49e7a282c6b5",
+    "ext": "jpg",
+    "bytes": 416940,
+    "width": 1200,
+    "height": 1200,
+    "from": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7d/11/6c/7d116c21-34bd-644e-5db1-fc12156c4687/3663729336804_cover.jpg/1200x1200bb.jpg",
     "widths": [
       180,
       360,
@@ -53128,6 +53341,32 @@
     "height": 1200,
     "sha256": "fd18deb32816d6e1ceca9781b91add133b8a85f80c66c509fc6dddd9a1bf405f",
     "width": 1200,
+    "widths": [
+      180,
+      360,
+      720
+    ]
+  },
+  "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b4/f7/ad/b4f7ad95-05d7-95b2-c6de-2c3fa958d24a/3663729337030_cover.jpg/600x600bb.webp": {
+    "sha256": "216b9eb6e17a52eb7c76afc9597dcd93362f84e53b5b1540c6226777c874722a",
+    "ext": "jpg",
+    "bytes": 389153,
+    "width": 1200,
+    "height": 1200,
+    "from": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b4/f7/ad/b4f7ad95-05d7-95b2-c6de-2c3fa958d24a/3663729337030_cover.jpg/1200x1200bb.jpg",
+    "widths": [
+      180,
+      360,
+      720
+    ]
+  },
+  "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b4/f7/ad/b4f7ad95-05d7-95b2-c6de-2c3fa958d24a/3663729337030_cover.jpg/632x632bb.webp": {
+    "sha256": "216b9eb6e17a52eb7c76afc9597dcd93362f84e53b5b1540c6226777c874722a",
+    "ext": "jpg",
+    "bytes": 389153,
+    "width": 1200,
+    "height": 1200,
+    "from": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b4/f7/ad/b4f7ad95-05d7-95b2-c6de-2c3fa958d24a/3663729337030_cover.jpg/1200x1200bb.jpg",
     "widths": [
       180,
       360,

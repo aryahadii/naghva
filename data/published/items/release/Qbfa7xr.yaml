@@ -1,0 +1,51 @@
+id: Qbfa7xr
+type: release
+statements:
+  name:
+  - value:
+      text: Hero (feat. Mentrix)
+      language: en
+    references:
+    - source: music.apple.com-us-album-hero-feat-mentrix-single-1676447460
+      quote: Hero (feat. Mentrix)
+      accessed: '2026-11-21'
+      locator: Recording heading
+  performer:
+  - value: Qynmr3m
+    references:
+    - source: music.apple.com-us-album-hero-feat-mentrix-single-1676447460
+      quote: ‎Hero (feat. Mentrix) - Single - Album by Tekknosucht & explochen - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://music.apple.com/us/album/hero-feat-mentrix-single/1676447460
+    references:
+    - source: music.apple.com-us-album-hero-feat-mentrix-single-1676447460
+      quote: ‎Hero (feat. Mentrix) - Single - Album by Tekknosucht & explochen - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/hero-feat-mentrix/1676447466
+    references:
+    - source: music.apple.com-us-song-hero-feat-mentrix-1676447466
+      quote: ‎Hero (feat. Mentrix) - Song with Lyrics by Tekknosucht & explochen - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2023-04-14'
+    references:
+    - source: music.apple.com-us-album-hero-feat-mentrix-single-1676447460
+      quote: April 14, 2023
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/69/64/0a/69640a0b-b5ae-8078-3a56-c4ca9dd0cd97/e1e568e9-9712-45c3-b0d3-a5b221cbe69a.jpg/632x632bb.webp
+    references:
+    - source: music.apple.com-us-album-hero-feat-mentrix-single-1676447460
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/69/64/0a/69640a0b-b5ae-8078-3a56-c4ca9dd0cd97/e1e568e9-9712-45c3-b0d3-a5b221cbe69a.jpg/632x632bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en

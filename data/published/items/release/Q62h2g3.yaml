@@ -1,0 +1,76 @@
+id: Q62h2g3
+type: release
+statements:
+  name:
+  - value:
+      text: Loyalty
+      language: en
+    references:
+    - source: mentrix.bandcamp.com-track-loyalty
+      quote: Loyalty
+      accessed: '2026-11-21'
+      locator: Recording heading
+  performer:
+  - value: Qynmr3m
+    references:
+    - source: mentrix.bandcamp.com-track-loyalty
+      quote: Loyalty | Mentrix
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://mentrix.bandcamp.com/track/loyalty
+    references:
+    - source: mentrix.bandcamp.com-track-loyalty
+      quote: Loyalty | Mentrix
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/loyalty/1572275313
+    references:
+    - source: music.apple.com-us-song-loyalty-1572275313
+      quote: ‎Loyalty - Song with Lyrics by Mentrix - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/7jsnIzsM7q6hTZAolLkOed
+    references:
+    - source: open.spotify.com-track-7jsnizsm7q6htzaollkoed
+      quote: Loyalty - song and lyrics by Mentrix | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/mentrixsound/03-loyalty
+    references:
+    - source: soundcloud.com-mentrixsound-03-loyalty
+      quote: Stream 03 _Loyalty_ by M E N T R I X | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/mentrixsound/mentrix-loyalty
+    references:
+    - source: soundcloud.com-mentrixsound-mentrix-loyalty
+      quote: Stream Loyalty by M E N T R I X | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  published by:
+  - value: Qmz3gff
+    references:
+    - source: mentrix.bandcamp.com-track-loyalty
+      quote: House Of Strength Records
+      accessed: '2026-11-21'
+      locator: Artist label header
+  release date:
+  - value:
+      date: '2020-04-03'
+    references:
+    - source: mentrix.bandcamp.com-track-loyalty
+      quote: released April 3, 2020
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a0360057345_10.jpg
+    references:
+    - source: mentrix.bandcamp.com-track-loyalty
+      quote: https://f4.bcbits.com/img/a0360057345_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Mentrix on Bandcamp
+        language: en

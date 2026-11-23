@@ -1,0 +1,51 @@
+id: Qzv59xn
+type: release
+statements:
+  name:
+  - value:
+      text: Corrupted Forest
+      language: en
+    references:
+    - source: music.apple.com-us-song-corrupted-forest-1770544139
+      quote: Corrupted Forest
+      accessed: '2026-11-21'
+      locator: Recording heading
+  performer:
+  - value: Qynmr3m
+    references:
+    - source: music.apple.com-us-song-corrupted-forest-1770544139
+      quote: ‎Corrupted Forest - Song with Lyrics by Mentrix - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://music.apple.com/us/song/corrupted-forest/1770544139
+    references:
+    - source: music.apple.com-us-song-corrupted-forest-1770544139
+      quote: ‎Corrupted Forest - Song with Lyrics by Mentrix - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/6YleQuEYQBFj3dLGQx6o4L
+    references:
+    - source: open.spotify.com-track-6ylequeyqbfj3dlgqx6o4l
+      quote: Corrupted Forest - song and lyrics by Mentrix | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2024-01-12'
+    references:
+    - source: music.apple.com-us-song-corrupted-forest-1770544139
+      quote: January 12, 2024
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b4/f7/ad/b4f7ad95-05d7-95b2-c6de-2c3fa958d24a/3663729337030_cover.jpg/600x600bb.webp
+    references:
+    - source: music.apple.com-us-song-corrupted-forest-1770544139
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b4/f7/ad/b4f7ad95-05d7-95b2-c6de-2c3fa958d24a/3663729337030_cover.jpg/600x600bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en

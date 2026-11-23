@@ -1,0 +1,51 @@
+id: Qdysh4r
+type: release
+statements:
+  name:
+  - value:
+      text: Wandering in the Palace
+      language: en
+    references:
+    - source: music.apple.com-us-song-wandering-in-the-palace-1770543030
+      quote: Wandering in the Palace
+      accessed: '2026-11-21'
+      locator: Recording heading
+  performer:
+  - value: Qynmr3m
+    references:
+    - source: music.apple.com-us-song-wandering-in-the-palace-1770543030
+      quote: ‎Wandering in the Palace - Song with Lyrics by Mentrix - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://music.apple.com/us/song/wandering-in-the-palace/1770543030
+    references:
+    - source: music.apple.com-us-song-wandering-in-the-palace-1770543030
+      quote: ‎Wandering in the Palace - Song with Lyrics by Mentrix - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/29YY0OfD9NESWr5LnZnrWP
+    references:
+    - source: open.spotify.com-track-29yy0ofd9neswr5lnznrwp
+      quote: Wandering in the Palace - song and lyrics by Mentrix | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2024-01-12'
+    references:
+    - source: music.apple.com-us-song-wandering-in-the-palace-1770543030
+      quote: January 12, 2024
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b4/f7/ad/b4f7ad95-05d7-95b2-c6de-2c3fa958d24a/3663729337030_cover.jpg/600x600bb.webp
+    references:
+    - source: music.apple.com-us-song-wandering-in-the-palace-1770543030
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b4/f7/ad/b4f7ad95-05d7-95b2-c6de-2c3fa958d24a/3663729337030_cover.jpg/600x600bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en

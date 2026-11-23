@@ -1,0 +1,45 @@
+id: Qvywg3y
+type: release
+statements:
+  name:
+  - value:
+      text: Mentrix Abiyaneh Apple Mix
+      language: en
+    references:
+    - source: soundcloud.com-mentrixsound-mentrix-abiyaneh-apple-mix
+      quote: Mentrix Abiyaneh Apple Mix
+      accessed: '2026-11-21'
+      locator: Track heading
+  performer:
+  - value: Qynmr3m
+    references:
+    - source: soundcloud.com-mentrixsound-mentrix-abiyaneh-apple-mix
+      quote: Stream Mentrix Abiyaneh Apple Mix by M E N T R I X | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2017-06-10'
+    references:
+    - source: soundcloud.com-mentrixsound-mentrix-abiyaneh-apple-mix
+      quote: '2017-06-10T13:45:03Z'
+      accessed: '2026-11-21'
+      locator: Track publication metadata
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-000227774348-626kws-large.jpg
+    references:
+    - source: soundcloud.com-mentrixsound-mentrix-abiyaneh-apple-mix
+      quote: https://i1.sndcdn.com/artworks-000227774348-626kws-large.jpg
+      accessed: '2026-11-21'
+      locator: Track artwork
+    qualifiers:
+      credit:
+        text: Mentrix on SoundCloud
+        language: en
+  listen link:
+  - value: https://soundcloud.com/mentrixsound/mentrix-abiyaneh-apple-mix
+    references:
+    - source: soundcloud.com-mentrixsound-mentrix-abiyaneh-apple-mix
+      quote: Stream Mentrix Abiyaneh Apple Mix by M E N T R I X | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title

@@ -1,0 +1,54 @@
+id: Qqv9tt4
+type: release
+statements:
+  name:
+  - value:
+      text: Green and the Blue
+      language: en
+    references:
+    - source: finkmusic.bandcamp.com-track-green-and-the-blue
+      quote: Green and the Blue
+      accessed: '2026-11-21'
+      locator: Release heading
+  performer:
+  - value: Q5af9kn
+    references:
+    - source: finkmusic.bandcamp.com-track-green-and-the-blue
+      quote: Green and the Blue | Fink
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qynmr3m
+    references:
+    - source: musicbrainz.org-release-3b4440e7-7eaa-4c5f-a5a4-405bcd60ca44
+      quote: 'other vocals [effects]: Mentrix'
+      locator: Track 2, Green and the Blue, vocal credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role:
+      - vocals
+  listen link:
+  - value: https://finkmusic.bandcamp.com/track/green-and-the-blue
+    references:
+    - source: finkmusic.bandcamp.com-track-green-and-the-blue
+      quote: Green and the Blue | Fink
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a3036525407_10.jpg
+    references:
+    - source: finkmusic.bandcamp.com-track-green-and-the-blue
+      quote: https://f4.bcbits.com/img/a3036525407_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Fink on Bandcamp
+        language: en
+  release date:
+  - value:
+      date: '2014-07-14'
+    references:
+    - source: finkmusic.bandcamp.com-track-green-and-the-blue
+      quote: released July 14, 2014
+      accessed: '2026-11-21'
+      locator: Published date
