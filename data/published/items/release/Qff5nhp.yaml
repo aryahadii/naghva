@@ -1,0 +1,70 @@
+id: Qff5nhp
+type: release
+statements:
+  name:
+  - value:
+      text: Lalae Madar
+      language: en
+    references:
+    - source: lowen.bandcamp.com-album-unceasing-lamentations
+      quote: Lalae Madar
+      accessed: 2026-11-21
+      locator: Track sequence
+  performer:
+  - value: Qr7sft5
+    references:
+    - source: lowen.bandcamp.com-album-unceasing-lamentations
+      quote: Lowen
+      accessed: 2026-11-21
+      locator: Artist credit
+  - value: Qnsexjj
+    qualifiers:
+      role:
+      - vocals
+    references:
+    - source: youtu.be-uuh-faqev3e
+      quote: It is sung in Farsi by Nina Saeidi of the band Lowen and was performed at the Green Door Store as part
+        of a live stream run by Doomsday Fest, filmed by Jackhammer Promotions. It was originally streamed alongside
+        performances by Halveksia and Witchsorrow in December 2020.
+      accessed: 2026-11-21
+      locator: Performer in the original film
+  release date:
+  - value:
+      date: '2021-06-04'
+    references:
+    - source: lowen.bandcamp.com-album-unceasing-lamentations
+      quote: released June 4, 2021
+      accessed: 2026-11-21
+      locator: Release details
+  cover art:
+  - value: https://f4.bcbits.com/img/a0572754247_10.jpg
+    references:
+    - source: lowen.bandcamp.com-album-unceasing-lamentations
+      quote: https://f4.bcbits.com/img/a0572754247_10.jpg
+      accessed: 2026-11-21
+      locator: Release artwork
+  listen link:
+  - value: https://lowen.bandcamp.com/track/lalae-madar
+    references:
+    - source: lowen.bandcamp.com-album-unceasing-lamentations
+      quote: Lalae Madar
+      accessed: 2026-11-21
+      locator: Track sequence
+  - value: https://music.apple.com/us/song/lalae-madar/1562173053
+    references:
+    - source: music.apple.com-us-album-unceasing-lamentations-ep-1562173050
+      quote: Lalae Madar
+      accessed: 2026-11-21
+      locator: Apple edition or track
+  - value: https://open.spotify.com/track/2OZlXXT4nTsUi4jH2m7TEE
+    references:
+    - source: open.spotify.com-album-6dx9aj24qasdt6x4lvtq6u
+      quote: Lalae Madar
+      accessed: 2026-11-21
+      locator: Track sequence
+  - value: https://www.youtube.com/watch?v=uUH-faQev3E
+    references:
+    - source: youtu.be-uuh-faqev3e
+      quote: Lowen - Lalae Madar (Official Music Video)
+      accessed: 2026-11-21
+      locator: Artist channel title

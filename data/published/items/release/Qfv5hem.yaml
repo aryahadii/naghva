@@ -1,0 +1,54 @@
+id: Qfv5hem
+type: release
+statements:
+  name:
+  - value:
+      text: A Crypt in the Stars
+      language: en
+    references:
+    - source: open.spotify.com-album-1reolibjbohsf6xnlmdjbx
+      quote: A Crypt in the Stars
+      accessed: 2026-11-21
+      locator: Release title
+  performer:
+  - value: Qr7sft5
+    references:
+    - source: open.spotify.com-album-1reolibjbohsf6xnlmdjbx
+      quote: Lowen
+      accessed: 2026-11-21
+      locator: Artist
+  release date:
+  - value:
+      date: '2018-05-11'
+    references:
+    - source: open.spotify.com-album-1reolibjbohsf6xnlmdjbx
+      quote: '2018-05-11'
+      accessed: 2026-11-21
+      locator: Release date metadata
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d0000b2739c28f64d48be027766b6018f
+    references:
+    - source: open.spotify.com-album-1reolibjbohsf6xnlmdjbx
+      quote: https://i.scdn.co/image/ab67616d0000b2739c28f64d48be027766b6018f
+      accessed: 2026-11-21
+      locator: Release image
+  release type:
+  - value: single
+    references:
+    - source: open.spotify.com-album-1reolibjbohsf6xnlmdjbx
+      quote: Single
+      accessed: 2026-11-21
+      locator: Spotify edition type
+  listen link:
+  - value: https://open.spotify.com/album/1REoLiBJbOHsf6XNLmDjBX
+    references:
+    - source: open.spotify.com-album-1reolibjbohsf6xnlmdjbx
+      quote: A Crypt in the Stars
+      accessed: 2026-11-21
+      locator: Release title
+  - value: https://music.apple.com/us/album/a-crypt-in-the-stars-single/1372849821
+    references:
+    - source: music.apple.com-us-album-a-crypt-in-the-stars-single-1372849821
+      quote: A Crypt in the Stars - Single
+      accessed: 2026-11-21
+      locator: Edition name

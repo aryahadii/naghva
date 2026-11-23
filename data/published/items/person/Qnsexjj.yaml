@@ -1,0 +1,33 @@
+id: Qnsexjj
+type: person
+statements:
+  name:
+  - value:
+      text: Nina Saeidi
+      language: en
+    references:
+    - source: www.northernmusicgroup.co.uk-publishing-artists-lowen
+      quote: Nina Saeidi
+      accessed: 2026-11-21
+      locator: Band members
+  member of:
+  - value: Qr7sft5
+    qualifiers:
+      role:
+      - vocals
+    references:
+    - source: www.northernmusicgroup.co.uk-publishing-artists-lowen
+      quote: Nina Saeidi
+      accessed: 2026-11-21
+      locator: Band members
+  image:
+  - value: https://i.ytimg.com/vi/6lKcTZ0q_GM/hqdefault.jpg
+    qualifiers:
+      credit:
+        text: Lowen, Temple of Antas performance
+        language: en
+    references:
+    - source: youtu.be-6lkctz0q_gm
+      quote: Nina Saeidi of Lowen singing a capella at the Temple of Antas in Sardinia.
+      accessed: 2026-11-21
+      locator: Artist channel film and still
