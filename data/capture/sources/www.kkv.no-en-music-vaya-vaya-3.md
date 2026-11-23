@@ -23,3 +23,7 @@ Page text, read 2026-11-13.
 Page text, read 2026-11-13.
 
 Wayback availability API queried 2026-11-13; returned available HTTP-200 snapshot 20260308024842. Snapshot contents were not reread.
+
+> recorded the song "Vaya Vaya" while they were in isolation during the pandemic
+
+Recording session description, read 2026-11-21.
