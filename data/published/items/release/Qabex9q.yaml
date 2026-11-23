@@ -1,0 +1,61 @@
+id: Qabex9q
+type: release
+statements:
+  name:
+  - value:
+      text: Zebro Crossing
+      language: en
+    references:
+    - source: temp-illusion.bandcamp.com-track-zebro-crossing
+      quote: Zebro Crossing
+      accessed: '2026-11-21'
+      locator: Track heading
+  performer:
+  - value: Q8tq6bc
+    references:
+    - source: temp-illusion.bandcamp.com-track-zebro-crossing
+      quote: Zebro Crossing | Temp-Illusion
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2026-09-15'
+    references:
+    - source: temp-illusion.bandcamp.com-track-zebro-crossing
+      quote: released September 15, 2026
+      accessed: '2026-11-21'
+      locator: Release credits
+  listen link:
+  - value: https://temp-illusion.bandcamp.com/track/zebro-crossing
+    references:
+    - source: temp-illusion.bandcamp.com-track-zebro-crossing
+      quote: Zebro Crossing | Temp-Illusion
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/zebro-crossing/6812452301
+    references:
+    - source: music.apple.com-us-song-zebro-crossing-6812452301
+      quote: ‎Zebro Crossing - Song with Lyrics by Temp-Illusion - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/0LKSgtcIgNiOGF5YoOS5M1
+    references:
+    - source: open.spotify.com-track-0lksgtcigniogf5yoos5m1
+      quote: Zebro Crossing - song and lyrics by Temp-Illusion | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a2541378858_10.jpg
+    references:
+    - source: temp-illusion.bandcamp.com-track-zebro-crossing
+      quote: https://f4.bcbits.com/img/a2541378858_10.jpg
+      accessed: '2026-11-21'
+      locator: Full artwork linked on the track page
+    - source: temp-illusion.bandcamp.com-album-vittrine
+      quote: lil.evian
+      accessed: '2026-11-21'
+      locator: Release credits
+    qualifiers:
+      credit:
+        text: lil.evian
+        language: en

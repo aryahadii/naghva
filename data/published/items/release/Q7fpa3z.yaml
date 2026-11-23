@@ -1,0 +1,61 @@
+id: Q7fpa3z
+type: release
+statements:
+  name:
+  - value:
+      text: Steven Toast
+      language: en
+    references:
+    - source: temp-illusion.bandcamp.com-track-steven-toast
+      quote: Steven Toast
+      accessed: '2026-11-21'
+      locator: Track heading
+  performer:
+  - value: Q8tq6bc
+    references:
+    - source: temp-illusion.bandcamp.com-track-steven-toast
+      quote: Steven Toast | Temp-Illusion
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2023-09-01'
+    references:
+    - source: temp-illusion.bandcamp.com-track-steven-toast
+      quote: released September 1, 2023
+      accessed: '2026-11-21'
+      locator: Release credits
+  listen link:
+  - value: https://temp-illusion.bandcamp.com/track/steven-toast
+    references:
+    - source: temp-illusion.bandcamp.com-track-steven-toast
+      quote: Steven Toast | Temp-Illusion
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/steven-toast/1702236773
+    references:
+    - source: music.apple.com-us-song-steven-toast-1702236773
+      quote: ‎Steven Toast - Song with Lyrics by Temp-Illusion - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/4nM48pDat8kNoABlWGWgmE
+    references:
+    - source: open.spotify.com-track-4nm48pdat8knoablwgwgme
+      quote: Steven Toast - song and lyrics by Temp-Illusion | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a0811811932_10.jpg
+    references:
+    - source: temp-illusion.bandcamp.com-track-steven-toast
+      quote: https://f4.bcbits.com/img/a0811811932_10.jpg
+      accessed: '2026-11-21'
+      locator: Full artwork linked on the track page
+    - source: temp-illusion.bandcamp.com-album-failsafe
+      quote: GENG PTP
+      accessed: '2026-11-21'
+      locator: Release credits
+    qualifiers:
+      credit:
+        text: GENG PTP
+        language: en
