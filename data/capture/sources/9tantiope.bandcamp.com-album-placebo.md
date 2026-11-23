@@ -5,6 +5,8 @@ title: Placebo by 9T Antiope
 tier: own
 kind: web page
 language: en
+about:
+- Nima Aghiani
 status: processed
 ---
 
@@ -35,3 +37,11 @@ Album credits, read 2026-11-21.
 > Cover Art/Cassette Design/Layout by Geng
 
 Album credits, read 2026-11-21.
+
+> Placebo | 9T Antiope
+
+Page title, read 2026-11-21.
+
+> released May 7, 2021
+
+Published date, read 2026-11-21.

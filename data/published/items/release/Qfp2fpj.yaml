@@ -1,0 +1,57 @@
+id: Qfp2fpj
+type: release
+statements:
+  name:
+  - value:
+      text: Khaovyn
+      language: en
+    references:
+    - source: purpletapepedigree.bandcamp.com-track-khaovyn
+      quote: Khaovyn | Nima Aghiani | PTP
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qgncp5r
+    references:
+    - source: purpletapepedigree.bandcamp.com-album-rems
+      quote: REMS | Nima Aghiani | PTP
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://purpletapepedigree.bandcamp.com/track/khaovyn
+    references:
+    - source: purpletapepedigree.bandcamp.com-track-khaovyn
+      quote: Khaovyn | Nima Aghiani | PTP
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/khaovyn/1391561460
+    references:
+    - source: music.apple.com-us-song-khaovyn-1391561460
+      quote: ‎Khaovyn - Song with Lyrics by Nima Aghiani - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/4aqkzOLmMh14bss0AQt7sZ
+    references:
+    - source: open.spotify.com-track-4aqkzolmmh14bss0aqt7sz
+      quote: Khaovyn - song and lyrics by Nima Aghiani | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2018-06-29'
+    references:
+    - source: purpletapepedigree.bandcamp.com-album-rems
+      quote: released June 29, 2018
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a0303318687_10.jpg
+    references:
+    - source: purpletapepedigree.bandcamp.com-track-khaovyn
+      quote: https://f4.bcbits.com/img/a0303318687_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: PTP
+        language: en

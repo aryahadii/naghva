@@ -1,0 +1,64 @@
+id: Q35nn82
+type: release
+statements:
+  name:
+  - value:
+      text: Gharine
+      language: en
+    references:
+    - source: lowzirecords.bandcamp.com-album-gharine
+      quote: Gharine | Nima Aghiani | Low-Zi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qgncp5r
+    references:
+    - source: lowzirecords.bandcamp.com-album-gharine
+      quote: Gharine | Nima Aghiani | Low-Zi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://lowzirecords.bandcamp.com/album/gharine
+    references:
+    - source: lowzirecords.bandcamp.com-album-gharine
+      quote: Gharine | Nima Aghiani | Low-Zi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/gharine-single/6835179424
+    references:
+    - source: music.apple.com-us-album-gharine-single-6835179424
+      quote: ‎Gharine - Single - Album by Nima Aghiani - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/album/5Ydtk4PhcXhRvTyVmY2B5a
+    references:
+    - source: open.spotify.com-album-5ydtk4phcxhrvtyvmy2b5a
+      quote: Listen to Gharine - Single by Nima Aghiani | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2026-11-15'
+    references:
+    - source: lowzirecords.bandcamp.com-album-gharine
+      quote: released November 15, 2026
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a1753564681_10.jpg
+    references:
+    - source: lowzirecords.bandcamp.com-album-gharine
+      quote: https://f4.bcbits.com/img/a1753564681_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Low-Zi Records
+        language: en
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-gharine-single-6835179424
+      quote: ‎Gharine - Single - Album by Nima Aghiani - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title

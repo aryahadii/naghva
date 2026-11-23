@@ -5,6 +5,8 @@ title: Syzygys by 9T Antiope
 tier: own
 kind: web page
 language: en
+about:
+- Sara Bigdeli Shamloo
 status: processed
 ---
 
@@ -39,3 +41,11 @@ Album credits, read 2026-11-21.
 > Nima Aghiani: Composer, Producer
 
 Album credits, read 2026-11-21.
+
+> Syzygys | 9T Antiope | Unperceived Records
+
+Page title, read 2026-11-21.
+
+> released December 11, 2015
+
+Published date, read 2026-11-21.

@@ -1,0 +1,62 @@
+id: Qpt8dt9
+type: release
+statements:
+  name:
+  - value:
+      text: Convergence Zone
+      language: en
+    references:
+    - source: zabtesote.bandcamp.com-album-convergence-zone
+      quote: Convergence Zone | Nima Aghiani | Zabte Sote
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qgncp5r
+    references:
+    - &id001
+      source: zabtesote.bandcamp.com-album-convergence-zone
+      quote: Convergence Zone | Nima Aghiani | Zabte Sote
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://zabtesote.bandcamp.com/album/convergence-zone
+    references:
+    - source: zabtesote.bandcamp.com-album-convergence-zone
+      quote: Convergence Zone | Nima Aghiani | Zabte Sote
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/convergence-zone-ep/1809743461
+    references:
+    - source: music.apple.com-us-album-convergence-zone-ep-1809743461
+      quote: ‎Convergence Zone - EP - Album by Nima Aghiani - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/album/2JaGWkUe2mGWh3KUujVHtD
+    references:
+    - source: open.spotify.com-album-2jagwkue2mgwh3kuujvhtd
+      quote: Listen to Convergence Zone - EP by Nima Aghiani | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  release type:
+  - value: ep
+    references:
+    - *id001
+  release date:
+  - value:
+      date: '2019-09-06'
+    references:
+    - source: zabtesote.bandcamp.com-album-convergence-zone
+      quote: released September 6, 2019
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a0078217093_10.jpg
+    references:
+    - source: zabtesote.bandcamp.com-album-convergence-zone
+      quote: https://f4.bcbits.com/img/a0078217093_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Zabte Sote
+        language: en
