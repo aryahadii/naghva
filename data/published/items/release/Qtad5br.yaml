@@ -1,0 +1,51 @@
+id: Qtad5br
+type: release
+statements:
+  name:
+  - value:
+      text: A girl with the fish in her arms
+      language: en
+    references:
+    - source: avarasti.bandcamp.com-track-a-girl-with-the-fish-in-her-arms
+      quote: A girl with the fish in her arms | Ava Rasti
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qks2dfk
+    references:
+    - source: avarasti.bandcamp.com-track-a-girl-with-the-fish-in-her-arms
+      quote: A girl with the fish in her arms | Ava Rasti
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://avarasti.bandcamp.com/track/a-girl-with-the-fish-in-her-arms
+    references:
+    - source: avarasti.bandcamp.com-track-a-girl-with-the-fish-in-her-arms
+      quote: A girl with the fish in her arms | Ava Rasti
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1671721022
+    references:
+    - source: music.apple.com-us-song-1671721022
+      quote: ‎A Girl with the fish in her arms - Song with Lyrics by Ava Rasti - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a0195021741_10.jpg
+    references:
+    - source: avarasti.bandcamp.com-track-a-girl-with-the-fish-in-her-arms
+      quote: https://f4.bcbits.com/img/a0195021741_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original recording publisher
+        language: en
+  release date:
+  - value:
+      date: '2023-05-16'
+    references:
+    - source: avarasti.bandcamp.com-album-butterfly-saki
+      quote: released May 16, 2023
+      accessed: '2026-11-21'
+      locator: Published date

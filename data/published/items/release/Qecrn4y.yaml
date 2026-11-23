@@ -1,0 +1,75 @@
+id: Qecrn4y
+type: release
+statements:
+  name:
+  - value:
+      text: Double Life
+      language: en
+    references:
+    - source: avarasti.bandcamp.com-track-double-life
+      quote: Double Life | Ava Rasti
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qks2dfk
+    references:
+    - source: avarasti.bandcamp.com-track-double-life
+      quote: Double Life | Ava Rasti
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://avarasti.bandcamp.com/track/double-life
+    references:
+    - source: avarasti.bandcamp.com-track-double-life
+      quote: Double Life | Ava Rasti
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/album/4VDXFYv47aNsXtu6zvYeYu
+    references:
+    - source: open.spotify.com-album-4vdxfyv47ansxtu6zvyeyu
+      quote: Listen to Music For The Motion Picture Double Life - Single by Ava Rasti | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1675862803
+    references:
+    - source: music.apple.com-us-song-1675862803
+      quote: ‎Music For the Motion Picture Double Life - Song with Lyrics by Ava Rasti - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/music-for-the-motion-picture-double-life-single/1675862792
+    references:
+    - source: music.apple.com-us-album-music-for-the-motion-picture-double-life-single-1675862792
+      quote: ‎Music For the Motion Picture Double Life - Single - Album by Ava Rasti - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/1ZsanfKyO9ARX3UHZknXWO
+    references:
+    - source: open.spotify.com-track-1zsanfkyo9arx3uhzknxwo
+      quote: Music For The Motion Picture Double Life - song and lyrics by Ava Rasti | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/avaarasti/double-life-music-for-the-motion-picture
+    references:
+    - source: soundcloud.com-avaarasti-double-life-music-for-the-motion-picture
+      quote: Stream Double Life (Music For The Motion Picture) by Ava Rasti | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a2555828976_10.jpg
+    references:
+    - source: avarasti.bandcamp.com-track-double-life
+      quote: https://f4.bcbits.com/img/a2555828976_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original recording publisher
+        language: en
+  release date:
+  - value:
+      date: '2023-05-16'
+    references:
+    - source: avarasti.bandcamp.com-track-double-life
+      quote: released May 16, 2023
+      accessed: '2026-11-21'
+      locator: Published date

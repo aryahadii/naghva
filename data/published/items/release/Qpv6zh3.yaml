@@ -1,0 +1,63 @@
+id: Qpv6zh3
+type: release
+statements:
+  name:
+  - value:
+      text: Unmoved
+      language: en
+    references:
+    - source: avarasti.bandcamp.com-track-unmoved
+      quote: Unmoved | Ava Rasti
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qks2dfk
+    references:
+    - source: avarasti.bandcamp.com-track-unmoved
+      quote: Unmoved | Ava Rasti
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://avarasti.bandcamp.com/track/unmoved
+    references:
+    - source: avarasti.bandcamp.com-track-unmoved
+      quote: Unmoved | Ava Rasti
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1544217817
+    references:
+    - source: music.apple.com-us-song-1544217817
+      quote: ‎Unmoved - Song with Lyrics by Ava Rasti - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/unmoved-single/1544217816
+    references:
+    - source: music.apple.com-us-album-unmoved-single-1544217816
+      quote: ‎Unmoved - Single - Album by Ava Rasti - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/avaarasti/unmoved
+    references:
+    - source: soundcloud.com-avaarasti-unmoved
+      quote: Stream Unmoved by Ava Rasti | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a1037301131_10.jpg
+    references:
+    - source: avarasti.bandcamp.com-track-unmoved
+      quote: https://f4.bcbits.com/img/a1037301131_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original recording publisher
+        language: en
+  release date:
+  - value:
+      date: '2020-12-08'
+    references:
+    - source: avarasti.bandcamp.com-track-unmoved
+      quote: released December 8, 2020
+      accessed: '2026-11-21'
+      locator: Published date

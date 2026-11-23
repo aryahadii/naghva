@@ -1,0 +1,80 @@
+id: Qz6mm4c
+type: release
+statements:
+  name:
+  - value:
+      text: Goldberg
+      language: en
+    references:
+    - source: flamingpines.bandcamp.com-track-goldberg
+      quote: Goldberg | Ava Rasti | Flaming Pines
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qks2dfk
+    references:
+    - source: flamingpines.bandcamp.com-track-goldberg
+      quote: Goldberg | Ava Rasti | Flaming Pines
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://flamingpines.bandcamp.com/track/goldberg
+    references:
+    - source: flamingpines.bandcamp.com-track-goldberg
+      quote: Goldberg | Ava Rasti | Flaming Pines
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1701483690
+    references:
+    - source: music.apple.com-us-song-1701483690
+      quote: ‎Goldberg - Song with Lyrics by Ava Rasti - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/5Uwk6p9Vt84Xn07nxhi9D3
+    references:
+    - source: open.spotify.com-track-5uwk6p9vt84xn07nxhi9d3
+      quote: Goldberg - song and lyrics by Ava Rasti | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/avaarasti/goldberg
+    references:
+    - source: soundcloud.com-avaarasti-goldberg
+      quote: Stream Goldberg by Ava Rasti | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  contributor:
+  - value: Qgncp5r
+    references:
+    - source: flamingpines.bandcamp.com-album-ginestra
+      quote: Mastered by Nima Aghiani
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: mastering engineer
+  - value: Q9rnctv
+    references:
+    - source: flamingpines.bandcamp.com-album-ginestra
+      quote: Mixed by Nima Pourkarimi
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: mixing engineer
+  cover art:
+  - value: https://f4.bcbits.com/img/a4254894153_10.jpg
+    references:
+    - source: flamingpines.bandcamp.com-track-goldberg
+      quote: https://f4.bcbits.com/img/a4254894153_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Alberto Papparotto
+        language: en
+  release date:
+  - value:
+      date: '2023-07-28'
+    references:
+    - source: flamingpines.bandcamp.com-album-ginestra
+      quote: released July 28, 2023
+      accessed: '2026-11-21'
+      locator: Published date

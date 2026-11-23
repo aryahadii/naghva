@@ -1,0 +1,51 @@
+id: Q32ttj6
+type: release
+statements:
+  name:
+  - value:
+      text: By the Fireplace
+      language: en
+    references:
+    - source: music.apple.com-us-song-1719708948
+      quote: ‎By the Fireplace - Song with Lyrics by Ava Rasti - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qks2dfk
+    references:
+    - source: music.apple.com-us-song-1719708948
+      quote: ‎By the Fireplace - Song with Lyrics by Ava Rasti - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://music.apple.com/us/song/1719708948
+    references:
+    - source: music.apple.com-us-song-1719708948
+      quote: ‎By the Fireplace - Song with Lyrics by Ava Rasti - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/281g0xVpMwEthuzzazACiE
+    references:
+    - source: open.spotify.com-track-281g0xvpmwethuzzazacie
+      quote: By the Fireplace - song and lyrics by Ava Rasti | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/24/a5/9b/24a59b66-7396-4d86-fdfb-8e94e90811d3/021261865245.jpg/600x600bb.webp
+    references:
+    - source: music.apple.com-us-song-1719708948
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/24/a5/9b/24a59b66-7396-4d86-fdfb-8e94e90811d3/021261865245.jpg/600x600bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original recording publisher
+        language: en
+  release date:
+  - value:
+      date: '2023-11-30'
+    references:
+    - source: music.apple.com-us-song-1719708948
+      quote: November 30, 2023
+      accessed: '2026-11-21'
+      locator: Published date

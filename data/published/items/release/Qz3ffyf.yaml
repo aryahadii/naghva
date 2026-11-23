@@ -1,0 +1,57 @@
+id: Qz3ffyf
+type: release
+statements:
+  name:
+  - value:
+      text: The Dead Horse
+      language: en
+    references:
+    - source: avarasti.bandcamp.com-track-the-dead-horse
+      quote: The Dead Horse | Ava Rasti
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qks2dfk
+    references:
+    - source: avarasti.bandcamp.com-track-the-dead-horse
+      quote: The Dead Horse | Ava Rasti
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://avarasti.bandcamp.com/track/the-dead-horse
+    references:
+    - source: avarasti.bandcamp.com-track-the-dead-horse
+      quote: The Dead Horse | Ava Rasti
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1762014442
+    references:
+    - source: music.apple.com-us-song-1762014442
+      quote: ‎The Dead Horse - Song with Lyrics by Ava Rasti - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/2X2cFE47hoRJRu1QPc78eH
+    references:
+    - source: open.spotify.com-track-2x2cfe47horjru1qpc78eh
+      quote: The Dead Horse - song and lyrics by Ava Rasti | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a2499614857_10.jpg
+    references:
+    - source: avarasti.bandcamp.com-track-the-dead-horse
+      quote: https://f4.bcbits.com/img/a2499614857_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original recording publisher
+        language: en
+  release date:
+  - value:
+      date: '2024-12-06'
+    references:
+    - source: avarasti.bandcamp.com-album-the-river
+      quote: released December 6, 2024
+      accessed: '2026-11-21'
+      locator: Published date

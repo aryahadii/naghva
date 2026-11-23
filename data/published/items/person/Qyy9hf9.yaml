@@ -9,6 +9,14 @@ statements:
     - source: mahanmirarab.bandcamp.com-album-say-your-most-beautiful-word-4464c75ca24b
       quote: Mona Matbou Riahi - clarinet
       accessed: '2026-10-23'
+  - value:
+      text: مونا مطبوع ریاحی
+      language: fa
+    references:
+    - source: youtu.be-l5vntdq57mi
+      quote: گپ‌وگفت با مونا مطبوع ریاحی | قسمت شصت و چهار پادکست تصویری کادانس
+      accessed: 2026-11-21
+      locator: Cadence interview title
   member of:
   - value: Qtvhpkq
     qualifiers:
@@ -22,3 +30,27 @@ statements:
       quote: Mona Matbou Riahi Clarinet
       accessed: '2026-11-13'
       locator: Instruments in the duo
+  image:
+  - value: https://i.scdn.co/image/ab6761610000e5eb263dc03460e231355547d39a
+    qualifiers:
+      credit:
+        text: Mona Matbou Riahi, Spotify artist profile
+        language: en
+    references:
+    - source: open.spotify.com-artist-7i2sx9vqmslhkadtkrlwlf
+      quote: https://i.scdn.co/image/ab6761610000e5eb263dc03460e231355547d39a
+      accessed: 2026-11-21
+      locator: Native artist portrait
+  profile link:
+  - value: https://open.spotify.com/artist/7i2SX9VqmSLhkADTkrLwLF
+    references:
+    - source: open.spotify.com-artist-7i2sx9vqmslhkadtkrlwlf
+      quote: Mona Matbou Riahi
+      accessed: 2026-11-21
+      locator: Native artist profile
+  - value: https://music.apple.com/at/artist/mona-matbou-riahi/795108105
+    references:
+    - source: music.apple.com-at-artist-mona-matbou-riahi-795108105
+      quote: Mona Matbou Riahi
+      accessed: 2026-11-21
+      locator: Native artist profile
