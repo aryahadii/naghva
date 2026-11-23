@@ -1,0 +1,19 @@
+id: Qz63wkc
+type: person
+statements:
+  name:
+  - value:
+      text: Raa'na Shieh
+      language: en
+    references:
+    - &id001
+      source: casa-della-cultura-persia-mistica-2007
+      quote: Raa'na Shieh
+      accessed: '2026-11-21'
+      locator: 2007 ensemble roster
+  member of:
+  - value: Qa69txt
+    references:
+    - *id001
+    qualifiers:
+      role: kamancheh
