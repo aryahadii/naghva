@@ -1,0 +1,90 @@
+id: Qsqwnmw
+type: release
+statements:
+  name:
+  - value:
+      text: The Sky Holds Its Breath
+      language: en
+    references:
+    - source: hamedsadeghi.bandcamp.com-track-the-sky-holds-its-breath
+      quote: The Sky Holds Its Breath | Hamed Sadeghi
+      accessed: '2026-11-21'
+      locator: Bandcamp song heading
+  performer:
+  - value: Qmgbz4h
+    qualifiers:
+      role: tar
+    references:
+    - source: hamedsadeghi.bandcamp.com-album-comfortable
+      quote: Hamed Sadeghi, Persian tar
+      accessed: '2026-11-21'
+      locator: Album personnel
+  - value: Q4ktzgw
+    qualifiers:
+      role: bass clarinet
+    references:
+    - source: hamedsadeghi.bandcamp.com-album-comfortable
+      quote: Paul Cutlan, bass clarinet
+      accessed: '2026-11-21'
+      locator: Album personnel
+  - value: Qs3h77n
+    qualifiers:
+      role: saxophone
+    references:
+    - source: hamedsadeghi.bandcamp.com-album-comfortable
+      quote: Michael Avgenicos, alto and tenor saxophone
+      accessed: '2026-11-21'
+      locator: Album personnel
+  listen link:
+  - value: https://hamedsadeghi.bandcamp.com/track/the-sky-holds-its-breath
+    references:
+    - source: hamedsadeghi.bandcamp.com-track-the-sky-holds-its-breath
+      quote: The Sky Holds Its Breath | Hamed Sadeghi
+      accessed: '2026-11-21'
+      locator: Bandcamp song heading
+  - value: https://open.spotify.com/track/2FQHh2JPD42qw8Yl76Li7J
+    references:
+    - source: open.spotify.com-album-01erqignsrpkiyl71mfjga
+      quote: The Sky Holds Its Breath
+      accessed: '2026-11-21'
+      locator: Spotify track 3
+  - value: https://music.apple.com/us/song/the-sky-holds-its-breath-feat-paul-cutlan-michael-avgenicos/6802438848
+    references:
+    - source: music.apple.com-us-album-comfortable-6802438513
+      quote: The Sky Holds Its Breath (feat. Paul Cutlan & Michael Avgenicos)
+      accessed: '2026-11-21'
+      locator: Apple Music track 3
+  release date:
+  - value:
+      date: '2026-09-05'
+    references:
+    - source: hamedsadeghi.bandcamp.com-album-comfortable
+      quote: released September 5, 2026
+      accessed: '2026-11-21'
+      locator: Release credits
+  cover art:
+  - value: https://f4.bcbits.com/img/a0912250874_10.jpg
+    qualifiers:
+      credit:
+        text: Amir Behroozi, cover photograph
+        language: en
+    references:
+    - source: hamedsadeghi.bandcamp.com-album-comfortable
+      quote: https://f4.bcbits.com/img/a0912250874_10.jpg
+      accessed: '2026-11-21'
+      locator: Bandcamp original album image
+    - source: hamedsadeghi.bandcamp.com-album-comfortable
+      quote: Cover photo by Amir Behroozi
+      accessed: '2026-11-21'
+      locator: Cover credit
+  contributor:
+  - value: Qmgbz4h
+    qualifiers:
+      role:
+      - composer
+      - arranger
+    references:
+    - source: hamedsadeghi.bandcamp.com-album-comfortable
+      quote: Composition and arrangement by Hamed Sadeghi
+      accessed: '2026-11-21'
+      locator: Writing credit

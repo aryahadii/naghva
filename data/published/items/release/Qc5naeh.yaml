@@ -1,0 +1,71 @@
+id: Qc5naeh
+type: release
+statements:
+  name:
+  - value:
+      text: Thursday Night Blues
+      language: en
+    references:
+    - source: davidhush.bandcamp.com-track-thursday-night-blues-2
+      quote: Thursday Night Blues | David Hush & Hamed Sadeghi | David Hush
+      accessed: '2026-11-21'
+      locator: Bandcamp song heading
+  performer:
+  - value: Qmgbz4h
+    qualifiers:
+      role: tar
+    references:
+    - source: davidhush.bandcamp.com-album-meditation-on-wind-2
+      quote: Hamed Sadeghi - tar
+      accessed: '2026-11-21'
+      locator: Album personnel
+  - value: Qyck96r
+    qualifiers:
+      role: piano
+    references:
+    - source: davidhush.bandcamp.com-album-meditation-on-wind-2
+      quote: David Hush - piano
+      accessed: '2026-11-21'
+      locator: Album personnel
+  listen link:
+  - value: https://davidhush.bandcamp.com/track/thursday-night-blues-2
+    references:
+    - source: davidhush.bandcamp.com-track-thursday-night-blues-2
+      quote: Thursday Night Blues | David Hush & Hamed Sadeghi | David Hush
+      accessed: '2026-11-21'
+      locator: Bandcamp song heading
+  - value: https://open.spotify.com/track/0qQwzS9EAsvQHmCC3rVSwC
+    references:
+    - source: open.spotify.com-album-3bgeyvgg5fb1alutho0orm
+      quote: Thursday Night Blues
+      accessed: '2026-11-21'
+      locator: Spotify track 8
+  - value: https://music.apple.com/us/song/thursday-night-blues/1569382182
+    references:
+    - source: music.apple.com-us-album-meditation-on-wind-1569382054
+      quote: Thursday Night Blues
+      accessed: '2026-11-21'
+      locator: Apple Music track 8
+  release date:
+  - value:
+      date: '2021-07-30'
+    references:
+    - source: davidhush.bandcamp.com-album-meditation-on-wind-2
+      quote: released July 30, 2021
+      accessed: '2026-11-21'
+      locator: Release credits
+  cover art:
+  - value: https://f4.bcbits.com/img/a4194787983_10.jpg
+    qualifiers:
+      credit:
+        text: Hugh Todd, artwork
+        language: en
+    references:
+    - source: davidhush.bandcamp.com-album-meditation-on-wind-2
+      quote: https://f4.bcbits.com/img/a4194787983_10.jpg
+      accessed: '2026-11-21'
+      locator: Bandcamp original album image
+    - source: davidhush.bandcamp.com-album-meditation-on-wind-2
+      quote: Artwork is courtesy of Hugh Todd.
+      accessed: '2026-11-21'
+      locator: Cover credit

@@ -1,0 +1,58 @@
+id: Q3qt53h
+type: release
+statements:
+  name:
+  - value:
+      text: Converged
+      language: en
+    references:
+    - source: open.spotify.com-album-0gkwwtjkuv19wsaxxu26he
+      quote: Converged
+      accessed: '2026-11-21'
+      locator: Spotify edition title
+  performer:
+  - value: Qmgbz4h
+    references:
+    - source: open.spotify.com-album-0gkwwtjkuv19wsaxxu26he
+      quote: Hamed Sadeghi
+      accessed: '2026-11-21'
+      locator: Single performer
+  release type:
+  - value: single
+    references:
+    - source: open.spotify.com-album-0gkwwtjkuv19wsaxxu26he
+      quote: Converged
+      accessed: '2026-11-21'
+      locator: Spotify edition title
+  release date:
+  - value:
+      date: '2026-04-17'
+    references:
+    - source: open.spotify.com-album-0gkwwtjkuv19wsaxxu26he
+      quote: '2026-04-17'
+      accessed: '2026-11-21'
+      locator: Single release date
+  listen link:
+  - value: https://open.spotify.com/album/0GKwWTjKUV19wsAXxu26He
+    references:
+    - source: open.spotify.com-album-0gkwwtjkuv19wsaxxu26he
+      quote: Converged
+      accessed: '2026-11-21'
+      locator: Spotify edition title
+  - value: https://open.spotify.com/track/12OnNY7y6pshaYeE3cKNPL
+    references:
+    - source: open.spotify.com-album-0gkwwtjkuv19wsaxxu26he
+      quote: Converged
+      accessed: '2026-11-21'
+      locator: Spotify track 1
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d0000b273fbfef3a747e6cf5e38ded6be
+    qualifiers:
+      credit:
+        text: Digital single artwork
+        language: en
+    references:
+    - source: open.spotify.com-album-0gkwwtjkuv19wsaxxu26he
+      quote: https://i.scdn.co/image/ab67616d0000b273fbfef3a747e6cf5e38ded6be
+      accessed: '2026-11-21'
+      locator: Single cover

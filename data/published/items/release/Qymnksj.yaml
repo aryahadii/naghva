@@ -1,0 +1,106 @@
+id: Qymnksj
+type: release
+statements:
+  name:
+  - value:
+      text: Shall We
+      language: en
+    references:
+    - source: hamedsadeghi.bandcamp.com-track-shall-we
+      quote: Shall We | Hamed Sadeghi
+      accessed: '2026-11-21'
+      locator: Bandcamp song heading
+  performer:
+  - value: Qmgbz4h
+    qualifiers:
+      role: tar
+    references:
+    - source: hamedsadeghi.bandcamp.com-album-convergence
+      quote: Hamed Sadeghi, tar
+      accessed: '2026-11-21'
+      locator: Album personnel
+  - value: Q38pfxn
+    qualifiers:
+      role: percussion
+    references:
+    - source: hamedsadeghi.bandcamp.com-album-convergence
+      quote: Sohrab Kolahdooz, percussion
+      accessed: '2026-11-21'
+      locator: Album personnel
+  - value: Qcwh5b5
+    qualifiers:
+      role: violin
+    references:
+    - source: hamedsadeghi.bandcamp.com-album-convergence
+      quote: James Tarbotton, violin
+      accessed: '2026-11-21'
+      locator: Album personnel
+  - value: Qrvb7k6
+    qualifiers:
+      role: viola
+    references:
+    - source: hamedsadeghi.bandcamp.com-album-convergence
+      quote: Beth Condon, viola
+      accessed: '2026-11-21'
+      locator: Album personnel
+  - value: Qbx3vdr
+    qualifiers:
+      role: cello
+    references:
+    - source: hamedsadeghi.bandcamp.com-album-convergence
+      quote: Freya Schack-Arnott, cello
+      accessed: '2026-11-21'
+      locator: Album personnel
+  listen link:
+  - value: https://hamedsadeghi.bandcamp.com/track/shall-we
+    references:
+    - source: hamedsadeghi.bandcamp.com-track-shall-we
+      quote: Shall We | Hamed Sadeghi
+      accessed: '2026-11-21'
+      locator: Bandcamp song heading
+  - value: https://open.spotify.com/track/2GTZeZCsLyCtCcN0tU7qVj
+    references:
+    - source: open.spotify.com-album-1capd1vfx3rijhxpctwnpy
+      quote: Shall We
+      accessed: '2026-11-21'
+      locator: Spotify track 4
+  - value: https://music.apple.com/us/song/shall-we/1888302302
+    references:
+    - source: music.apple.com-us-album-convergence-1888302290
+      quote: Shall We
+      accessed: '2026-11-21'
+      locator: Apple Music track 4
+  release date:
+  - value:
+      date: '2026-05-01'
+    references:
+    - source: hamedsadeghi.bandcamp.com-album-convergence
+      quote: released May 1, 2026
+      accessed: '2026-11-21'
+      locator: Release credits
+  cover art:
+  - value: https://f4.bcbits.com/img/a0757532701_10.jpg
+    qualifiers:
+      credit:
+        text: Amir Behroozi, cover photograph
+        language: en
+    references:
+    - source: hamedsadeghi.bandcamp.com-album-convergence
+      quote: https://f4.bcbits.com/img/a0757532701_10.jpg
+      accessed: '2026-11-21'
+      locator: Bandcamp original album image
+    - source: hamedsadeghi.bandcamp.com-album-convergence
+      quote: Cover Photo, Amir Behroozi
+      accessed: '2026-11-21'
+      locator: Cover credit
+  contributor:
+  - value: Qmgbz4h
+    qualifiers:
+      role:
+      - composer
+      - arranger
+    references:
+    - source: hamedsadeghi.bandcamp.com-album-convergence
+      quote: All tracks composed and arranged by Hamed Sadeghi.
+      accessed: '2026-11-21'
+      locator: Writing credit

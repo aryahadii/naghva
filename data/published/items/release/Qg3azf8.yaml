@@ -1,0 +1,59 @@
+id: Qg3azf8
+type: release
+statements:
+  name:
+  - value:
+      text: And Here
+      language: en
+    references:
+    - source: hamedsadeghi.bandcamp.com-track-and-here
+      quote: And Here | Hamed Sadeghi
+      accessed: '2026-11-21'
+      locator: Bandcamp song heading
+  performer:
+  - value: Qmgbz4h
+    qualifiers:
+      role: tar
+    references:
+    - source: hamedsadeghi.bandcamp.com-album-a-prelude-to-silence
+      quote: Hamed Sadeghi, Tar
+      accessed: '2026-11-21'
+      locator: Album personnel
+  listen link:
+  - value: https://hamedsadeghi.bandcamp.com/track/and-here
+    references:
+    - source: hamedsadeghi.bandcamp.com-track-and-here
+      quote: And Here | Hamed Sadeghi
+      accessed: '2026-11-21'
+      locator: Bandcamp song heading
+  - value: https://open.spotify.com/track/0oN9yQXrZ3JNgHz62Fvmql
+    references:
+    - source: open.spotify.com-album-2onbuz1yagtvyaqmber2op
+      quote: And Here
+      accessed: '2026-11-21'
+      locator: Spotify track 2
+  - value: https://music.apple.com/us/song/and-here/1677187035
+    references:
+    - source: music.apple.com-us-album-a-prelude-to-silence-1677187033
+      quote: And Here
+      accessed: '2026-11-21'
+      locator: Apple Music track 2
+  release date:
+  - value:
+      date: '2023-03-12'
+    references:
+    - source: hamedsadeghi.bandcamp.com-album-a-prelude-to-silence
+      quote: released March 12, 2023
+      accessed: '2026-11-21'
+      locator: Release credits
+  cover art:
+  - value: https://f4.bcbits.com/img/a0267997230_10.jpg
+    qualifiers:
+      credit:
+        text: Artwork published on the artist’s Bandcamp
+        language: en
+    references:
+    - source: hamedsadeghi.bandcamp.com-album-a-prelude-to-silence
+      quote: https://f4.bcbits.com/img/a0267997230_10.jpg
+      accessed: '2026-11-21'
+      locator: Bandcamp original album image

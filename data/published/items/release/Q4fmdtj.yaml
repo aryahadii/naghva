@@ -1,0 +1,41 @@
+id: Q4fmdtj
+type: release
+statements:
+  name:
+  - value:
+      text: 'Behind Doors: Hamed Sadeghi'
+      language: en
+    references:
+    - source: www.youtube.com-watch-v-sosfqv87es4
+      quote: 'Behind Doors: Hamed Sadeghi'
+      accessed: '2026-11-21'
+      locator: YouTube oEmbed title
+  performer:
+  - value: Qmgbz4h
+    references:
+    - source: www.youtube.com-watch-v-sosfqv87es4
+      quote: Phoenix Central Park
+      accessed: '2026-11-21'
+      locator: Publishing channel
+    - source: www.youtube.com-watch-v-sosfqv87es4
+      quote: 'Behind Doors: Hamed Sadeghi'
+      accessed: '2026-11-21'
+      locator: YouTube oEmbed title
+  listen link:
+  - value: https://www.youtube.com/watch?v=sosfqv87Es4
+    references:
+    - source: www.youtube.com-watch-v-sosfqv87es4
+      quote: 'Behind Doors: Hamed Sadeghi'
+      accessed: '2026-11-21'
+      locator: YouTube oEmbed title
+  cover art:
+  - value: https://i.ytimg.com/vi/sosfqv87Es4/hqdefault.jpg
+    qualifiers:
+      credit:
+        text: Phoenix Central Park on YouTube
+        language: en
+    references:
+    - source: www.youtube.com-watch-v-sosfqv87es4
+      quote: https://i.ytimg.com/vi/sosfqv87Es4/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Native YouTube thumbnail
