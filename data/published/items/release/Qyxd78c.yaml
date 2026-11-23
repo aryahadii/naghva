@@ -1,0 +1,51 @@
+id: Qyxd78c
+type: release
+statements:
+  name:
+  - value:
+      text: Hòrpeslotten
+      language: en
+    references:
+    - source: open.spotify.com-album-4px3k6ivink8nxnq8dpooi
+      quote: Hòrpeslotten
+      accessed: '2026-11-21'
+      locator: Track 9
+  performer:
+  - value: Qypq9he
+    references:
+    - source: grappa.no-en-albums-grappa-harpa
+      quote: Djavid Afzari Rad
+      accessed: '2026-11-21'
+      locator: Recording personnel
+  release date:
+  - value:
+      date: '1997'
+    references:
+    - source: open.spotify.com-album-4px3k6ivink8nxnq8dpooi
+      quote: '1997'
+      accessed: '2026-11-21'
+      locator: Original release
+  listen link:
+  - value: https://open.spotify.com/track/2la3t5hTE2QAIaQYAsLE1z
+    references:
+    - source: open.spotify.com-album-4px3k6ivink8nxnq8dpooi
+      quote: Hòrpeslotten
+      accessed: '2026-11-21'
+      locator: Track 9
+  - value: https://music.apple.com/us/song/h%C3%B2rpeslotten/1794700128
+    references:
+    - source: music.apple.com-us-album-harpa-1794700107
+      quote: Hòrpeslotten
+      accessed: '2026-11-21'
+      locator: Track 9
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d0000b273c1680b035f2826401487b144
+    references:
+    - source: open.spotify.com-album-4px3k6ivink8nxnq8dpooi
+      quote: https://i.scdn.co/image/ab67616d0000b273c1680b035f2826401487b144
+      accessed: '2026-11-21'
+      locator: Spotify release artwork
+    qualifiers:
+      credit:
+        text: Harpa · Spotify
+        language: en

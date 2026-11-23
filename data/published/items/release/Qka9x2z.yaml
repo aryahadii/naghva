@@ -1,0 +1,71 @@
+id: Qka9x2z
+type: release
+statements:
+  name:
+  - value:
+      text: Parvanehvar Like a Butterfly
+      language: en
+    references:
+    - source: music.apple.com-us-album-afarinesh-1449787858
+      quote: Parvanehvar Like a Butterfly
+      accessed: '2026-11-21'
+      locator: Track 8
+  - value:
+      text: Parvanehvar
+      language: en
+    references:
+    - source: music.apple.com-us-album-creation-1715327163
+      quote: Parvanehvar
+      accessed: '2026-11-21'
+      locator: Track 8
+  performer:
+  - value: Qz9hcyk
+    references:
+    - source: music.apple.com-us-album-afarinesh-1449787858
+      quote: Javid Afsari Rad
+      accessed: '2026-11-21'
+      locator: Album billing
+  release date:
+  - value:
+      date: '2009'
+    references:
+    - source: snl.no-javid_afsari_rad
+      quote: Afarinesh (2009)
+      accessed: '2026-11-21'
+      locator: Selected works
+  listen link:
+  - value: https://music.apple.com/us/song/parvanehvar-like-a-butterfly/1449787869
+    references:
+    - source: music.apple.com-us-album-afarinesh-1449787858
+      quote: Parvanehvar Like a Butterfly
+      accessed: '2026-11-21'
+      locator: Track 8
+  - value: https://open.spotify.com/track/6T1wnM0yhvyUUJKkUzavUw
+    references:
+    - source: open.spotify.com-album-65eb9ese5rmer4umjgvfju
+      quote: Parvanehvar Like a Butterfly
+      accessed: '2026-11-21'
+      locator: Track 8
+  - value: https://music.apple.com/us/song/parvanehvar/1715327794
+    references:
+    - source: music.apple.com-us-album-creation-1715327163
+      quote: Parvanehvar
+      accessed: '2026-11-21'
+      locator: Track 8
+  - value: https://open.spotify.com/track/47tEfnmxFD0C4bAYJKeTf8
+    references:
+    - source: open.spotify.com-album-5yzmusd9gklx3kxxklmc50
+      quote: Parvanehvar
+      accessed: '2026-11-21'
+      locator: Alternate issue
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/2e/f6/64/2ef6647c-d317-be4d-def9-3e8e621b0dd2/193483309927.jpg/632x632bb-60.jpg
+    references:
+    - source: music.apple.com-us-album-afarinesh-1449787858
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/2e/f6/64/2ef6647c-d317-be4d-def9-3e8e621b0dd2/193483309927.jpg/632x632bb-60.jpg
+      accessed: '2026-11-21'
+      locator: Apple album cover
+    qualifiers:
+      credit:
+        text: Afarinesh · Apple Music
+        language: en

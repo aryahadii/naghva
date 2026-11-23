@@ -1,0 +1,63 @@
+id: Qfgjeqm
+type: release
+statements:
+  name:
+  - value:
+      text: Tamil (feat. Javid Afsari Rad)
+      language: en
+    references:
+    - source: music.apple.com-us-album-tamil-feat-javid-afsari-rad-1449782501
+      quote: Tamil (feat. Javid Afsari Rad)
+      accessed: '2026-11-21'
+      locator: Featured track
+  performer:
+  - value: Qz9hcyk
+    references:
+    - source: itunes.apple.com-lookupid-257020069-entity-song-limit-200
+      quote: Tamil (feat. Javid Afsari Rad)
+      accessed: '2026-11-21'
+      locator: Track-level credit
+  - value: Qc2xvpe
+    references:
+    - source: itunes.apple.com-lookupid-257020069-entity-song-limit-200
+      quote: Knut Reiersrud
+      accessed: '2026-11-21'
+      locator: Track-level credit
+  - value: Qpwsvw6
+    references:
+    - source: itunes.apple.com-lookupid-257020069-entity-song-limit-200
+      quote: Bugge Wesseltoft
+      accessed: '2026-11-21'
+      locator: Track-level credit
+  listen link:
+  - value: https://music.apple.com/us/song/tamil-feat-javid-afsari-rad/1449782662
+    references:
+    - source: music.apple.com-us-album-tamil-feat-javid-afsari-rad-1449782501
+      quote: Tamil (feat. Javid Afsari Rad)
+      accessed: '2026-11-21'
+      locator: Featured track
+  - value: https://open.spotify.com/track/0spfJx2sipBCP1OHCjmJ6j
+    references:
+    - source: open.spotify.com-album-3co3dsubwhsp8smfgialmy
+      quote: Tamil
+      accessed: '2026-11-21'
+      locator: Track 6
+  release date:
+  - value:
+      date: '2014-11-20'
+    references:
+    - source: music.apple.com-us-album-tamil-feat-javid-afsari-rad-1449782501
+      quote: '2014-11-20'
+      accessed: '2026-11-21'
+      locator: Release date
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d0000b2738b0ff94a67624bea3845f111
+    references:
+    - source: open.spotify.com-album-3co3dsubwhsp8smfgialmy
+      quote: https://i.scdn.co/image/ab67616d0000b2738b0ff94a67624bea3845f111
+      accessed: '2026-11-21'
+      locator: Release cover
+    qualifiers:
+      credit:
+        text: Gitar · Spotify
+        language: en

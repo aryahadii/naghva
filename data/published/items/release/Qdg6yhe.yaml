@@ -1,0 +1,41 @@
+id: Qdg6yhe
+type: release
+statements:
+  name:
+  - value:
+      text: ComboNations
+      language: en
+    references:
+    - source: www.youtube.com-oembed-owilwtsx8us
+      quote: ComboNations
+      accessed: '2026-11-21'
+      locator: Official performance upload
+  performer:
+  - value: Qz9hcyk
+    references:
+    - source: www.youtube.com-oembed-owilwtsx8us
+      quote: ComboNations
+      accessed: '2026-11-21'
+      locator: Official performance upload
+    - source: www.youtube.com-oembed-owilwtsx8us
+      quote: Javid Concerts
+      accessed: '2026-11-21'
+      locator: Artist channel
+  listen link:
+  - value: https://www.youtube.com/watch?v=OwilWTsX8Us
+    references:
+    - source: www.youtube.com-oembed-owilwtsx8us
+      quote: ComboNations
+      accessed: '2026-11-21'
+      locator: Official performance upload
+  cover art:
+  - value: https://i.ytimg.com/vi/OwilWTsX8Us/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-owilwtsx8us
+      quote: https://i.ytimg.com/vi/OwilWTsX8Us/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: YouTube thumbnail
+    qualifiers:
+      credit:
+        text: Javid Concerts · YouTube
+        language: en

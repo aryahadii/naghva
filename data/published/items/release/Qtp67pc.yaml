@@ -1,0 +1,38 @@
+id: Qtp67pc
+type: release
+statements:
+  name:
+  - value:
+      text: The Manchador
+      language: en
+    references:
+    - source: kortfilmfestivalen.no-film-the-manchador
+      quote: The Manchador
+      accessed: '2026-11-21'
+      locator: Festival programme
+  - value:
+      text: مردچادر
+      language: fa
+    references:
+    - source: kortfilmfestivalen.no-film-the-manchador
+      quote: مردچادر
+      accessed: '2026-11-21'
+      locator: Original title
+  contributor:
+  - value: Qz9hcyk
+    references:
+    - source: kortfilmfestivalen.no-film-the-manchador
+      quote: 'Musikk: Javid Afsari Rad'
+      accessed: '2026-11-21'
+      locator: Credited composer
+    qualifiers:
+      role:
+      - composer
+  release date:
+  - value:
+      date: '2019'
+    references:
+    - source: kortfilmfestivalen.no-film-the-manchador
+      quote: 'År: 2019'
+      accessed: '2026-11-21'
+      locator: Film year

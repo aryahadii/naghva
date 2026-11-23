@@ -1,0 +1,37 @@
+id: Q8k7cgs
+type: release
+statements:
+  name:
+  - value:
+      text: Harpreet Bansal Band at the Norwegian Grammy Awards 2019
+      language: en
+    references:
+    - source: www.youtube.com-oembed-qsgrrf98jls
+      quote: Harpreet Bansal Band at the Norwegian Grammy Awards 2019
+      accessed: '2026-11-21'
+      locator: Video title
+  performer:
+  - value: Qgxsmyz
+    references:
+    - source: www.bansalmusic.com-project-bansal-band
+      quote: QsGRrF98jLs
+      accessed: '2026-11-21'
+      locator: Original performance clip in the presenter’s page
+  listen link:
+  - value: https://www.youtube.com/watch?v=QsGRrF98jLs
+    references:
+    - source: www.bansalmusic.com-project-bansal-band
+      quote: QsGRrF98jLs
+      accessed: '2026-11-21'
+      locator: Original performance clip in the presenter’s page
+  cover art:
+  - value: https://i.ytimg.com/vi/QsGRrF98jLs/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-qsgrrf98jls
+      quote: https://i.ytimg.com/vi/QsGRrF98jLs/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: YouTube thumbnail
+    qualifiers:
+      credit:
+        text: Bansal Band · YouTube
+        language: en
