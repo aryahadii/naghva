@@ -1,0 +1,68 @@
+id: Qnessyd
+type: person
+statements:
+  name:
+  - value:
+      text: Cymin Samawatie
+      language: en
+    references:
+    - source: ecmrecords.com-artists-cyminology
+      quote: Cymin Samawatie
+      accessed: 2026-11-21
+      locator: Quartet members
+  - value:
+      text: سیمین سماواتی
+      language: fa
+    references:
+    - source: www.radiofarda.com-a-f7_fresh_glance_cyminology-1506106.html
+      quote: سیمین سماواتی، خواننده ایرانی گروه سیمینولوژی
+      accessed: 2026-11-21
+      locator: مصاحبه با سیمین سماواتی
+  member of:
+  - value: Qsyrehn
+    qualifiers:
+      role:
+      - vocals
+    references:
+    - source: ecmrecords.com-artists-cyminology
+      quote: Cymin Samawatie
+      accessed: 2026-11-21
+      locator: Quartet members
+  - value: Q6jjfq6
+    references:
+    - source: www.berlinerfestspiele.de-en-artist-5fd4f6c7-8b10-4df0-9612-0e4034be3e4f-cymin-samawatie
+      quote: In 2013, together with Ketan Bhatti, she founded the Trickster Orchestra
+      accessed: 2026-11-21
+      locator: Founding the orchestra
+  birth date:
+  - value:
+      date: '1976'
+    references:
+    - source: ecmrecords.com-product-saburi-cyminology
+      quote: Born to Iranian parents in Braunschweig, Germany, in 1976
+      accessed: 2026-11-21
+      locator: Childhood
+  profile link:
+  - value: https://music.apple.com/us/artist/cymin-samawatie/301299362
+    references:
+    - source: music.apple.com-us-artist-cymin-samawatie-301299362
+      quote: Cymin Samawatie
+      accessed: 2026-11-21
+      locator: Artist name
+  - value: https://open.spotify.com/artist/2VtRKKaZTvV5k3uLcawMsE
+    references:
+    - source: open.spotify.com-artist-2vtrkkaztvv5k3ulcawmse
+      quote: Temas
+      accessed: 2026-11-21
+      locator: Artist discography
+  image:
+  - value: https://i.ytimg.com/vi/PQBCsVd8P28/hqdefault.jpg
+    qualifiers:
+      credit:
+        text: Beethovenfest Bonn
+        language: en
+    references:
+    - source: youtu.be-pqbcsvd8p28
+      quote: Cymin Samawatie | Beethovenfest Portrait
+      accessed: 2026-11-21
+      locator: Portrait of Samawatie conducting in Braga

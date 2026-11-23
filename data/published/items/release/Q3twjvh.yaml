@@ -1,0 +1,41 @@
+id: Q3twjvh
+type: release
+statements:
+  name:
+  - value:
+      text: Jazz de Medianoche
+      language: en
+    references:
+    - source: open.spotify.com-album-55cnyqwtfvvbpyhzpgerxf
+      quote: Jazz de Medianoche
+      accessed: 2026-11-21
+      locator: Edition or recording title
+  performer:
+  - value: Qnessyd
+    references:
+    - source: open.spotify.com-album-55cnyqwtfvvbpyhzpgerxf
+      quote: Cymin Samawatie, Ketan Bhatti, Trickster Orchestra
+      accessed: 2026-11-21
+      locator: Billed artists on the recording
+  release date:
+  - value:
+      date: '2026-11-11'
+    references:
+    - source: open.spotify.com-album-55cnyqwtfvvbpyhzpgerxf
+      quote: '2026-11-11'
+      accessed: 2026-11-21
+      locator: Edition date
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d0000b273598c2ce227e379dc658d736e
+    references:
+    - source: open.spotify.com-album-55cnyqwtfvvbpyhzpgerxf
+      quote: https://i.scdn.co/image/ab67616d0000b273598c2ce227e379dc658d736e
+      accessed: 2026-11-21
+      locator: Edition cover
+  listen link:
+  - value: https://open.spotify.com/album/55cnyQwtFVvbPyhzPGeRxF
+    references:
+    - source: open.spotify.com-album-55cnyqwtfvvbpyhzpgerxf
+      quote: Jazz de Medianoche
+      accessed: 2026-11-21
+      locator: Edition or recording title

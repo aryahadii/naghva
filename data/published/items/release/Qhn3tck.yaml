@@ -1,0 +1,65 @@
+id: Qhn3tck
+type: release
+statements:
+  name:
+  - value:
+      text: Ende gut, alles gut
+      language: en
+    references:
+    - source: music.apple.com-us-album-1674978087
+      quote: Ende gut, alles gut (feat. Sebastian Merk, Christian Von Kaphengst & Cymin Samawatie)
+      accessed: 2026-11-21
+      locator: Album or recording title
+  performer:
+  - value: Qcyah7b
+    references:
+    - source: music.apple.com-us-album-1674978087
+      quote: Till Brönner
+      accessed: 2026-11-21
+      locator: Soundtrack artist
+  - value: Qykrr5j
+    references:
+    - source: music.apple.com-us-album-1674978087
+      quote: Arne Schumann
+      accessed: 2026-11-21
+      locator: Soundtrack artist
+  - value: Q9nqz4j
+    references:
+    - source: music.apple.com-us-album-1674978087
+      quote: Josef Bach
+      accessed: 2026-11-21
+      locator: Soundtrack artist
+  - value: Qnessyd
+    references:
+    - source: music.apple.com-us-album-1674978087
+      quote: Ende gut, alles gut (feat. Sebastian Merk, Christian Von Kaphengst & Cymin Samawatie)
+      accessed: 2026-11-21
+      locator: Featured performers
+  release date:
+  - value:
+      date: '2023-02-24'
+    references:
+    - source: music.apple.com-us-album-1674978087
+      quote: '2023-02-24'
+      accessed: 2026-11-21
+      locator: Edition date
+  listen link:
+  - value: https://music.apple.com/us/song/ende-gut-alles-gut-feat-sebastian-merk-christian-von/1674980132
+    references:
+    - source: music.apple.com-us-album-1674978087
+      quote: Ende gut, alles gut (feat. Sebastian Merk, Christian Von Kaphengst & Cymin Samawatie)
+      accessed: 2026-11-21
+      locator: Album or recording title
+  - value: https://open.spotify.com/track/3XC0obBVS5FEDz0g2qm0Vi
+    references:
+    - source: open.spotify.com-album-0afacgfrohp5zqzeqbid4v
+      quote: Ende gut, alles gut
+      accessed: 2026-11-21
+      locator: Edition or recording title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/73/14/29/73142904-f93e-290c-6974-d70297d2dc64/4066004448060_3000.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-1674978087
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/73/14/29/73142904-f93e-290c-6974-d70297d2dc64/4066004448060_3000.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Release artwork
