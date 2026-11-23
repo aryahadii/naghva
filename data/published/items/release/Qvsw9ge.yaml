@@ -1,0 +1,45 @@
+id: Qvsw9ge
+type: release
+statements:
+  name:
+  - value:
+      text: It's Only Real When Shared
+      language: en
+    references:
+    - source: soundcloud.com-artsvs-its-only-real-when-shared
+      quote: Stream It's Only Real When Shared by ArtSaves | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qw9zs9g
+    references:
+    - source: soundcloud.com-artsvs-its-only-real-when-shared
+      quote: Stream It's Only Real When Shared by ArtSaves | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://soundcloud.com/artsvs/its-only-real-when-shared
+    references:
+    - source: soundcloud.com-artsvs-its-only-real-when-shared
+      quote: Stream It's Only Real When Shared by ArtSaves | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-000067004403-fe64ab-t500x500.jpg
+    references:
+    - source: soundcloud.com-artsvs-its-only-real-when-shared
+      quote: https://i1.sndcdn.com/artworks-000067004403-fe64ab-t500x500.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original publisher artwork
+        language: en
+  release date:
+  - value:
+      date: '2013-12-18'
+    references:
+    - source: soundcloud.com-artsvs-its-only-real-when-shared
+      quote: '2013-12-18T20:11:27Z'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits

@@ -1,0 +1,73 @@
+id: Qx6gtbe
+type: release
+statements:
+  name:
+  - value:
+      text: Home Is Where the Hatred Is
+      language: en
+    references:
+    - source: kopirecs.bandcamp.com-album-home-is-where-the-hatred-is
+      quote: Home Is Where the Hatred Is | ArtSaves | Kopi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qw9zs9g
+    references:
+    - source: kopirecs.bandcamp.com-album-home-is-where-the-hatred-is
+      quote: ArtSaves
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  release type:
+  - value: album
+    references:
+    - source: kopirecs.bandcamp.com-album-home-is-where-the-hatred-is
+      quote: Home Is Where the Hatred Is | ArtSaves | Kopi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://kopirecs.bandcamp.com/album/home-is-where-the-hatred-is
+    references:
+    - source: kopirecs.bandcamp.com-album-home-is-where-the-hatred-is
+      quote: Home Is Where the Hatred Is | ArtSaves | Kopi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/home-is-where-the-hatred-is/1712269776
+    references:
+    - source: music.apple.com-us-album-home-is-where-the-hatred-is-1712269776
+      quote: ‎Home Is Where the Hatred Is - Album by ArtSaves - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/album/3aejotGRxPYcTJ4LZVx854
+    references:
+    - source: open.spotify.com-album-3aejotgrxpyctj4lzvx854
+      quote: Listen to Home Is Where the Hatred Is - Album by ArtSaves | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a2951724458_10.jpg
+    references:
+    - source: kopirecs.bandcamp.com-album-home-is-where-the-hatred-is
+      quote: https://f4.bcbits.com/img/a2951724458_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original publisher artwork
+        language: en
+  release date:
+  - value:
+      date: '2023-10-20'
+    references:
+    - source: kopirecs.bandcamp.com-album-home-is-where-the-hatred-is
+      quote: released October 20, 2023
+      accessed: '2026-11-21'
+      locator: Published date
+  contributor:
+  - value: Qgncp5r
+    references:
+    - source: kopirecs.bandcamp.com-album-home-is-where-the-hatred-is
+      quote: Nima Aghiani
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: mastering engineer

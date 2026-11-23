@@ -1,0 +1,66 @@
+id: Qx4z9g8
+type: release
+statements:
+  name:
+  - value:
+      text: Watchmen
+      language: en
+    references:
+    - source: kopirecs.bandcamp.com-track-watchmen
+      quote: Watchmen | ArtSaves | Kopi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qw9zs9g
+    references:
+    - source: kopirecs.bandcamp.com-album-home-is-where-the-hatred-is
+      quote: ArtSaves
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://kopirecs.bandcamp.com/track/watchmen
+    references:
+    - source: kopirecs.bandcamp.com-track-watchmen
+      quote: Watchmen | ArtSaves | Kopi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1712269783
+    references:
+    - source: music.apple.com-us-song-1712269783
+      quote: ‎Watchmen - Song with Lyrics by ArtSaves - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/7K1NdT0LiHgiXm6FGstLNn
+    references:
+    - source: open.spotify.com-track-7k1ndt0lihgixm6fgstlnn
+      quote: Watchmen - song and lyrics by ArtSaves | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a2951724458_10.jpg
+    references:
+    - source: kopirecs.bandcamp.com-track-watchmen
+      quote: https://f4.bcbits.com/img/a2951724458_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original publisher artwork
+        language: en
+  release date:
+  - value:
+      date: '2023-10-20'
+    references:
+    - source: kopirecs.bandcamp.com-track-watchmen
+      quote: released October 20, 2023
+      accessed: '2026-11-21'
+      locator: Published date
+  contributor:
+  - value: Qgncp5r
+    references:
+    - source: kopirecs.bandcamp.com-album-home-is-where-the-hatred-is
+      quote: Nima Aghiani
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: mastering engineer

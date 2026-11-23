@@ -1,0 +1,63 @@
+id: Q2e2223
+type: act
+statements:
+  name:
+  - value:
+      text: Hailstones
+      language: en
+    references:
+    - source: www.sledisland.com-2025-hailstones
+      quote: Hailstones
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  image:
+  - value: https://f4.bcbits.com/img/0046175266_21.jpg
+    references:
+    - source: hailstones-band.bandcamp.com-album-the-weariness-of-hope
+      quote: https://f4.bcbits.com/img/0046175266_21.jpg
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: Hailstones, via Bandcamp
+        language: en
+  based in:
+  - value: Qdxbpzd
+    references:
+    - source: we-are-hailstones.com-about
+      quote: Based in Calgary, AB
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  formation date:
+  - value:
+      date: '2023'
+    references:
+    - source: www.sledisland.com-2025-hailstones
+      quote: Beginning in 2023 as the solo endeavour of Idlefon’s Hesam Ohadi
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  profile link:
+  - value: https://hailstones-band.bandcamp.com/music
+    references:
+    - source: hailstones-band.bandcamp.com-music
+      quote: Music | Hailstones
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/artist/3cc2iBSPacifKND6EeaS2j
+    references:
+    - source: open.spotify.com-artist-3cc2ibspacifknd6eeas2j
+      quote: Listen to Hailstones Songs | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/artist/hailstones/1896737227
+    references:
+    - source: music.apple.com-us-artist-hailstones-1896737227
+      quote: ‎Hailstones - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://www.youtube.com/@hailstones_band
+    references:
+    - source: www.youtube.com-hailstones_band
+      quote: Hailstones - YouTube
+      accessed: '2026-11-21'
+      locator: Page title

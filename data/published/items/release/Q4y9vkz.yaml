@@ -1,0 +1,45 @@
+id: Q4y9vkz
+type: release
+statements:
+  name:
+  - value:
+      text: My Autumn's Done Come
+      language: en
+    references:
+    - source: soundcloud.com-artsvs-my-autumns-done-come
+      quote: Stream My Autumn's Done Come by ArtSaves | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qw9zs9g
+    references:
+    - source: soundcloud.com-artsvs-my-autumns-done-come
+      quote: Stream My Autumn's Done Come by ArtSaves | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://soundcloud.com/artsvs/my-autumns-done-come
+    references:
+    - source: soundcloud.com-artsvs-my-autumns-done-come
+      quote: Stream My Autumn's Done Come by ArtSaves | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-000315721047-rkt118-t500x500.jpg
+    references:
+    - source: soundcloud.com-artsvs-my-autumns-done-come
+      quote: https://i1.sndcdn.com/artworks-000315721047-rkt118-t500x500.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original publisher artwork
+        language: en
+  release date:
+  - value:
+      date: '2018-03-13'
+    references:
+    - source: soundcloud.com-artsvs-my-autumns-done-come
+      quote: '2018-03-13T08:48:50Z'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits

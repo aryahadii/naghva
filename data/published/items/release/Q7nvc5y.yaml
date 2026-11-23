@@ -1,0 +1,73 @@
+id: Q7nvc5y
+type: release
+statements:
+  name:
+  - value:
+      text: Molehead ملحد
+      language: en
+    references:
+    - source: kopirecs.bandcamp.com-album-molehead
+      quote: Molehead ملحد | ArtSaves | Kopi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qw9zs9g
+    references:
+    - source: kopirecs.bandcamp.com-album-molehead
+      quote: ArtSaves
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  release type:
+  - value: ep
+    references:
+    - source: kopirecs.bandcamp.com-album-molehead
+      quote: Molehead ملحد | ArtSaves | Kopi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://kopirecs.bandcamp.com/album/molehead
+    references:
+    - source: kopirecs.bandcamp.com-album-molehead
+      quote: Molehead ملحد | ArtSaves | Kopi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/molehead-%D9%85%D9%84%D8%AD%D8%AF-ep/1804076765
+    references:
+    - source: music.apple.com-us-album-molehead--d9-85-d9-84-d8-ad-d8-af-ep-1804076765
+      quote: ‎Molehead ملحد - EP - Album by ArtSaves - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/album/10tkBDNDd1x5ogG0nRdvBh
+    references:
+    - source: open.spotify.com-album-10tkbdndd1x5ogg0nrdvbh
+      quote: Listen to Molehead ملحد - EP by ArtSaves | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a3914570668_10.jpg
+    references:
+    - source: kopirecs.bandcamp.com-album-molehead
+      quote: https://f4.bcbits.com/img/a3914570668_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original publisher artwork
+        language: en
+  release date:
+  - value:
+      date: '2025-03-14'
+    references:
+    - source: kopirecs.bandcamp.com-album-molehead
+      quote: released March 14, 2025
+      accessed: '2026-11-21'
+      locator: Published date
+  contributor:
+  - value: Qtwwfrd
+    references:
+    - source: kopirecs.bandcamp.com-album-molehead
+      quote: Shahin Entezami
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: mastering engineer

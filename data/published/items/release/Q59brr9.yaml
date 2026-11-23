@@ -1,0 +1,69 @@
+id: Q59brr9
+type: release
+statements:
+  name:
+  - value:
+      text: Back to the Sun - mHz Remix
+      language: en
+    references:
+    - source: kopirecs.bandcamp.com-track-back-to-the-sun-mhz-remix
+      quote: Back to the Sun - mHz Remix | ArtSaves | Kopi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qw9zs9g
+    references:
+    - source: kopirecs.bandcamp.com-album-seuil-remixes
+      quote: ArtSaves
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Q8hanqq
+    references:
+    - source: kopirecs.bandcamp.com-track-back-to-the-sun-mhz-remix
+      quote: mHz
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://kopirecs.bandcamp.com/track/back-to-the-sun-mhz-remix
+    references:
+    - source: kopirecs.bandcamp.com-track-back-to-the-sun-mhz-remix
+      quote: Back to the Sun - mHz Remix | ArtSaves | Kopi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1266163506
+    references:
+    - source: music.apple.com-us-song-1266163506
+      quote: ‎Back to the Sun (mHz Remix) - Song with Lyrics by ArtSaves - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/4Rli70vpldQ2zdYBNtyW9J
+    references:
+    - source: open.spotify.com-track-4rli70vpldq2zdybntyw9j
+      quote: Back to the Sun (mHz Remix) - song and lyrics by ArtSaves | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/artsvs/back-to-the-sun-mhz-remix
+    references:
+    - source: soundcloud.com-artsvs-back-to-the-sun-mhz-remix
+      quote: Stream Back to the Sun - mHz Remix by ArtSaves | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a3260999261_10.jpg
+    references:
+    - source: kopirecs.bandcamp.com-track-back-to-the-sun-mhz-remix
+      quote: https://f4.bcbits.com/img/a3260999261_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Saina Heshmati, Amir Amini and Parnian Ghorbani
+        language: en
+  release date:
+  - value:
+      date: '2017-07-30'
+    references:
+    - source: kopirecs.bandcamp.com-track-back-to-the-sun-mhz-remix
+      quote: released July 30, 2017
+      accessed: '2026-11-21'
+      locator: Published date

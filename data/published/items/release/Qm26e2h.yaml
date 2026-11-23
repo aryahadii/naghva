@@ -1,0 +1,66 @@
+id: Qm26e2h
+type: release
+statements:
+  name:
+  - value:
+      text: Between Two Streams
+      language: en
+    references:
+    - source: kopirecs.bandcamp.com-track-between-two-streams
+      quote: Between Two Streams | ArtSaves | Kopi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qw9zs9g
+    references:
+    - source: kopirecs.bandcamp.com-album-home-is-where-the-hatred-is
+      quote: ArtSaves
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://kopirecs.bandcamp.com/track/between-two-streams
+    references:
+    - source: kopirecs.bandcamp.com-track-between-two-streams
+      quote: Between Two Streams | ArtSaves | Kopi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1712269781
+    references:
+    - source: music.apple.com-us-song-1712269781
+      quote: ‎Between Two Streams - Song with Lyrics by ArtSaves - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/7zBNtRNiPmssh4J1QxmXnB
+    references:
+    - source: open.spotify.com-track-7zbntrnipmssh4j1qxmxnb
+      quote: Between Two Streams - song and lyrics by ArtSaves | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a2951724458_10.jpg
+    references:
+    - source: kopirecs.bandcamp.com-track-between-two-streams
+      quote: https://f4.bcbits.com/img/a2951724458_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original publisher artwork
+        language: en
+  release date:
+  - value:
+      date: '2023-10-20'
+    references:
+    - source: kopirecs.bandcamp.com-track-between-two-streams
+      quote: released October 20, 2023
+      accessed: '2026-11-21'
+      locator: Published date
+  contributor:
+  - value: Qgncp5r
+    references:
+    - source: kopirecs.bandcamp.com-album-home-is-where-the-hatred-is
+      quote: Nima Aghiani
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: mastering engineer

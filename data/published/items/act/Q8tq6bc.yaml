@@ -1,0 +1,108 @@
+id: Q8tq6bc
+type: act
+statements:
+  name:
+  - value:
+      text: Temp-Illusion
+      language: en
+    references:
+    - source: temp-illusion.bandcamp.com
+      quote: Music | Temp-Illusion
+      accessed: '2026-11-21'
+      locator: Page title
+  - value:
+      text: تمپ ایلوژن
+      language: fa
+    references:
+    - source: temp-illusion.bandcamp.com
+      quote: Music | Temp-Illusion
+      accessed: '2026-11-21'
+      locator: Page title
+    editorial: true
+  formation date:
+  - value:
+      date: '2011'
+    references:
+    - source: temp-illusion.bandcamp.com
+      quote: An Iranian electronic duo formed in 2011 by Shahin Entezami and Behrang Najafi.
+      accessed: '2026-11-21'
+      locator: Artist biography
+  based in:
+  - value: Qyhck8a
+    references:
+    - source: insomniafestival.no-artist-temp-illusion
+      quote: Temp-Illusion is an Iranian electronic duo, recently based in Paris, formed in 2011 by Shahin Entezami and Behrang Najafi.
+      accessed: '2026-11-21'
+      locator: 2025 edition biography
+  image:
+  - value: https://f4.bcbits.com/img/0041600968_10.jpg
+    references:
+    - source: temp-illusion.bandcamp.com
+      quote: https://f4.bcbits.com/img/0041600968_10.jpg
+      accessed: '2026-11-21'
+      locator: Full artist photograph linked in Bandcamp sidebar
+    qualifiers:
+      credit:
+        text: Temp-Illusion on Bandcamp
+        language: en
+  profile link:
+  - value: https://temp-illusion.bandcamp.com/
+    references:
+    - source: temp-illusion.bandcamp.com
+      quote: Music | Temp-Illusion
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/artist/temp-illusion/1441063182
+    references:
+    - source: music.apple.com-us-artist-temp-illusion-1441063182
+      quote: ‎Temp-Illusion - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/artist/3N5AoyMmO9exmmlvdhWAWr
+    references:
+    - source: open.spotify.com-artist-3n5aoymmo9exmmlvdhwawr
+      quote: Listen to Temp-Illusion Songs | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/temp-illusion
+    references:
+    - source: soundcloud.com-temp-illusion
+      quote: Stream Temp-Illusion music | Listen to songs, albums, playlists for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  life event:
+  - value:
+      text: An Iranian electronic duo formed in 2011 by Shahin Entezami and Behrang Najafi.
+      language: en
+    references:
+    - source: temp-illusion.bandcamp.com
+      quote: An Iranian electronic duo formed in 2011 by Shahin Entezami and Behrang Najafi.
+      accessed: '2026-11-21'
+      locator: Artist biography
+    qualifiers:
+      point in time:
+        date: '2011'
+  - value:
+      text: we did our first live set at Tadaex03 in 2013.
+      language: en
+    references:
+    - source: modernismunbound.com-articles-interview-temp-illusion
+      quote: we did our first live set at Tadaex03 in 2013.
+      accessed: '2026-11-21'
+      locator: Behrang Najafi, on meeting Entezami
+    qualifiers:
+      point in time:
+        date: '2013'
+  - value:
+      text: Recordings are taken from SETxCTM performance in Tehran - 27th July 2018
+      language: en
+    references:
+    - source: temp-illusion.bandcamp.com-album-autolected
+      quote: Recordings are taken from SETxCTM performance in Tehran - 27th July 2018
+      accessed: '2026-11-21'
+      locator: About
+    qualifiers:
+      point in time:
+        date: '2018-07-27'
+      place: Qhm6fzw
+      about: Qr8ggza

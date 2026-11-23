@@ -1,0 +1,64 @@
+id: Qqzjgpq
+type: release
+statements:
+  name:
+  - value:
+      text: UNRef
+      language: en
+    references:
+    - source: kopirecs.bandcamp.com-album-unref
+      quote: UNRef | ArtSaves | Kopi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qw9zs9g
+    references:
+    - source: kopirecs.bandcamp.com-album-unref
+      quote: ArtSaves
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  release type:
+  - value: ep
+    references:
+    - source: kopirecs.bandcamp.com-album-unref
+      quote: UNRef | ArtSaves | Kopi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://kopirecs.bandcamp.com/album/unref
+    references:
+    - source: kopirecs.bandcamp.com-album-unref
+      quote: UNRef | ArtSaves | Kopi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/unref-ep/1404205771
+    references:
+    - source: music.apple.com-us-album-unref-ep-1404205771
+      quote: ‎Unref - EP - Album by ArtSaves - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/album/2zJI2iOf08admkxxFi54QJ
+    references:
+    - source: open.spotify.com-album-2zji2iof08admkxxfi54qj
+      quote: Listen to UNRef - EP by ArtSaves | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a0263382756_10.jpg
+    references:
+    - source: kopirecs.bandcamp.com-album-unref
+      quote: https://f4.bcbits.com/img/a0263382756_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Parnian Ghorbani
+        language: en
+  release date:
+  - value:
+      date: '2018-07-02'
+    references:
+    - source: kopirecs.bandcamp.com-album-unref
+      quote: released July 2, 2018
+      accessed: '2026-11-21'
+      locator: Published date

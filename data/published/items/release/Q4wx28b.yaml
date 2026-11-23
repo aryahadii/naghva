@@ -1,0 +1,63 @@
+id: Q4wx28b
+type: release
+statements:
+  name:
+  - value:
+      text: Tabula Rasa
+      language: en
+    references:
+    - source: kopirecs.bandcamp.com-track-tabula-rasa
+      quote: Tabula Rasa | ArtSaves | Kopi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qw9zs9g
+    references:
+    - source: kopirecs.bandcamp.com-album-seuil
+      quote: ArtSaves
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://kopirecs.bandcamp.com/track/tabula-rasa
+    references:
+    - source: kopirecs.bandcamp.com-track-tabula-rasa
+      quote: Tabula Rasa | ArtSaves | Kopi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1203765110
+    references:
+    - source: music.apple.com-us-song-1203765110
+      quote: ‎Tabula Rasa - Song with Lyrics by ArtSaves - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/2d2458CZIOWqkgKmVjM5LQ
+    references:
+    - source: open.spotify.com-track-2d2458cziowqkgkmvjm5lq
+      quote: Tabula Rasa - song and lyrics by ArtSaves | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/artsvs/tabula-rasa
+    references:
+    - source: soundcloud.com-artsvs-tabula-rasa
+      quote: Stream Tabula Rasa by ArtSaves | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a0203714075_10.jpg
+    references:
+    - source: kopirecs.bandcamp.com-track-tabula-rasa
+      quote: https://f4.bcbits.com/img/a0203714075_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Saina Heshmati and Arash Mollakarimi
+        language: en
+  release date:
+  - value:
+      date: '2016-03-22'
+    references:
+    - source: kopirecs.bandcamp.com-track-tabula-rasa
+      quote: released March 22, 2016
+      accessed: '2026-11-21'
+      locator: Published date
