@@ -1,0 +1,64 @@
+id: Qnkst6t
+type: release
+statements:
+  name:
+  - value:
+      text: Ten Thousand Miles Away
+      language: en
+    references:
+    - source: music.apple.com-us-album-ten-thousand-miles-away-feat-eendo-single-1435731789
+      quote: Ten Thousand Miles Away (feat. Eendo)
+      accessed: '2026-11-21'
+      locator: Exact Apple track listing
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-ten-thousand-miles-away-feat-eendo-single-1435731789
+      quote: Ten Thousand Miles Away (feat. Eendo)
+      accessed: '2026-11-21'
+      locator: Exact Apple track listing
+  performer:
+  - value: Qnbrhrh
+    references:
+    - source: music.apple.com-us-album-ten-thousand-miles-away-feat-eendo-single-1435731789
+      quote: Eendo
+      accessed: '2026-11-21'
+      locator: Recording/featured artist
+  - value: Qdp6w3z
+    references:
+    - source: music.apple.com-us-album-ten-thousand-miles-away-feat-eendo-single-1435731789
+      quote: Ten Thousand Miles Away (feat. Eendo) - Single
+      accessed: '2026-11-21'
+      locator: Release title
+  listen link:
+  - value: https://music.apple.com/us/song/ten-thousand-miles-away-feat-eendo/1435731790
+    references:
+    - source: music.apple.com-us-album-ten-thousand-miles-away-feat-eendo-single-1435731789
+      quote: https://music.apple.com/us/song/ten-thousand-miles-away-feat-eendo/1435731790
+      accessed: '2026-11-21'
+      locator: Apple track link
+  - value: https://open.spotify.com/track/5gRdEiNKG8qcqrahhESSmc
+    references:
+    - source: open.spotify.com-embed-album-1eqwltjvyfryacam9zvpqg
+      quote: spotify:track:5gRdEiNKG8qcqrahhESSmc
+      accessed: '2026-11-21'
+      locator: Spotify track URI
+  release date:
+  - value:
+      date: '2018-09-06'
+    references:
+    - source: music.apple.com-us-album-ten-thousand-miles-away-feat-eendo-single-1435731789
+      quote: '2018-09-06'
+      accessed: '2026-11-21'
+      locator: Digital release date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/07/60/aa/0760aafa-939d-7be1-3242-189c22779173/192914854593.jpg/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Digital release via Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-ten-thousand-miles-away-feat-eendo-single-1435731789
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/07/60/aa/0760aafa-939d-7be1-3242-189c22779173/192914854593.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Label artwork

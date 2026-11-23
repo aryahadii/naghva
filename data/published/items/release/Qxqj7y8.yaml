@@ -1,0 +1,71 @@
+id: Qxqj7y8
+type: release
+statements:
+  name:
+  - value:
+      text: Bahaar Aamad
+      language: en
+    references:
+    - source: music.apple.com-us-album-az-posht-e-in-ajorha-from-behind-these-bricks-single-1770510267
+      quote: Bahaar Aamad
+      accessed: '2026-11-21'
+      locator: Exact Apple track listing
+  - value:
+      text: بهار آمد
+      language: fa
+    references:
+    - source: soundcloud.com-eendomusic-came-the-spring
+      quote: بهار آمد
+      accessed: '2026-11-21'
+      locator: Artist’s Persian title
+  performer:
+  - value: Qnbrhrh
+    references:
+    - source: music.apple.com-us-album-az-posht-e-in-ajorha-from-behind-these-bricks-single-1770510267
+      quote: Eendo
+      accessed: '2026-11-21'
+      locator: Recording/featured artist
+  listen link:
+  - value: https://music.apple.com/us/song/bahaar-aamad/1770510270
+    references:
+    - source: music.apple.com-us-album-az-posht-e-in-ajorha-from-behind-these-bricks-single-1770510267
+      quote: https://music.apple.com/us/song/bahaar-aamad/1770510270
+      accessed: '2026-11-21'
+      locator: Apple track link
+  - value: https://open.spotify.com/track/5Mgr6lXNDoNehFSkRPJMnF
+    references:
+    - source: open.spotify.com-embed-album-5n1ax4pzk0n0keo4nxpgri
+      quote: spotify:track:5Mgr6lXNDoNehFSkRPJMnF
+      accessed: '2026-11-21'
+      locator: Spotify track URI
+  - value: https://soundcloud.com/eendomusic/came-the-spring
+    references:
+    - source: soundcloud.com-eendomusic-came-the-spring
+      quote: Stream Came the Spring  | بهار آمد by Eendo | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Original duo SoundCloud recording
+  - value: https://www.youtube.com/watch?v=se8-O2z_f3U
+    references:
+    - source: www.youtube.com-watch-v-se8-o2z_f3u
+      quote: Eendo - Came the Spring  | ایندو - بهار آمد
+      accessed: '2026-11-21'
+      locator: Original duo channel
+  release date:
+  - value:
+      date: '2024-10-01'
+    references:
+    - source: music.apple.com-us-album-az-posht-e-in-ajorha-from-behind-these-bricks-single-1770510267
+      quote: '2024-10-01'
+      accessed: '2026-11-21'
+      locator: Digital release date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/36/99/06/369906f9-9349-2654-faa8-f0eec4b504e0/055855666192.png/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Digital release via Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-az-posht-e-in-ajorha-from-behind-these-bricks-single-1770510267
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/36/99/06/369906f9-9349-2654-faa8-f0eec4b504e0/055855666192.png/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Label artwork
