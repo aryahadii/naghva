@@ -1,0 +1,47 @@
+id: Qyvn8dw
+type: release
+statements:
+  name:
+  - value:
+      text: Kalãm / Dassthã / Delbasstegi
+      language: en
+    references:
+    - source: music.apple.com-us-album-as-ney-1443515866
+      quote: Kalãm / Dassthã / Delbasstegi
+      accessed: 2026-11-21
+      locator: Numbered track
+  performer:
+  - value: Qsyrehn
+    references:
+    - source: ecmrecords.com-artists-cyminology
+      quote: Cyminology
+      accessed: 2026-11-21
+      locator: Group name
+  release date:
+  - value:
+      date: '2009-01-30'
+    references:
+    - source: music.apple.com-us-album-as-ney-1443515866
+      quote: '2009-01-30'
+      accessed: 2026-11-21
+      locator: Release date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/ff/2e/bb/ff2ebb42-ac42-c0d7-1b9f-fd3a7f34047b/00602517801493.rgb.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-as-ney-1443515866
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/ff/2e/bb/ff2ebb42-ac42-c0d7-1b9f-fd3a7f34047b/00602517801493.rgb.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Cover
+  listen link:
+  - value: https://music.apple.com/us/song/kal%C3%A3m-dassth%C3%A3-delbasstegi/1443515873
+    references:
+    - source: music.apple.com-us-album-as-ney-1443515866
+      quote: Kalãm / Dassthã / Delbasstegi
+      accessed: 2026-11-21
+      locator: Numbered track
+  - value: https://open.spotify.com/track/0rbzVZn9xre12dPutVoNbs
+    references:
+    - source: open.spotify.com-album-1dln95i22hnqivyhhbgvns
+      quote: Kalaam / Dassthaa / Delbasstegi
+      accessed: 2026-11-21
+      locator: Corresponding track in the eight-song sequence
