@@ -1,0 +1,47 @@
+id: Qmqh5nz
+type: release
+statements:
+  name:
+  - value:
+      text: Hirmand
+      language: en
+    references:
+    - source: music.apple.com-us-album-barren-1858225143
+      quote: Hirmand
+      accessed: 2026-11-21
+      locator: Original digital title
+  performer:
+  - value: Qaxspbb
+    references:
+    - source: music.apple.com-us-album-barren-1858225143
+      quote: Babak Bouban
+      accessed: 2026-11-21
+      locator: Music artist named in edition
+  listen link:
+  - value: https://music.apple.com/us/song/hirmand/1858225146
+    references:
+    - source: music.apple.com-us-album-barren-1858225143
+      quote: Hirmand
+      accessed: 2026-11-21
+      locator: Original digital title
+  - value: https://open.spotify.com/track/2ObdlLLcihVTaC0I5jsINw
+    references:
+    - source: open.spotify.com-album-1pgvscacum0mxxs2ag6zgy
+      quote: Hirmand
+      accessed: 2026-11-21
+      locator: Spotify album or track title
+  release date:
+  - value:
+      date: '2015-12-08'
+    references:
+    - source: music.apple.com-us-album-barren-1858225143
+      quote: '2015-12-08'
+      accessed: 2026-11-21
+      locator: Digital edition date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/97/fb/d9/97fbd9ad-9c77-6064-a4b9-cd71b1121fe4/199900178992.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-barren-1858225143
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/97/fb/d9/97fbd9ad-9c77-6064-a4b9-cd71b1121fe4/199900178992.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Cover artwork

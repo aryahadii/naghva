@@ -261,6 +261,20 @@
       720
     ]
   },
+  "https://candle-fog.com/wp-content/uploads/2017/06/Babak-Bouban.jpg": {
+    "sha256": "47f223eb5ec1515c583d0cfa849c3e227b074547a5fe57d1fd76fd2a4d819361",
+    "ext": "jpg",
+    "bytes": 79353,
+    "width": 399,
+    "height": 471,
+    "widths": [
+      240,
+      360,
+      640,
+      960,
+      1200
+    ]
+  },
   "https://cardamomtrio.com/wp-content/uploads/2024/04/Trio-Cardamom-photo-by-Kaveh-Sarvarian.jpg": {
     "sha256": "a1668d33771401accb6f6fc10ec4d06810d39a713f3d9fa7e556efc16b8e3c73",
     "ext": "jpg",
@@ -14131,6 +14145,19 @@
       720
     ]
   },
+  "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/6f/55/1f/6f551fe0-3cc2-9acc-02bc-ff202a6700ff/088907208286.jpg/1200x630bb.jpg": {
+    "sha256": "d82585085587c076bd91729262c1b96f10f54f145905e96c32d9a439ae5dc865",
+    "ext": "jpg",
+    "bytes": 162767,
+    "width": 1200,
+    "height": 1200,
+    "from": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/6f/55/1f/6f551fe0-3cc2-9acc-02bc-ff202a6700ff/088907208286.jpg/1200x1200bb.jpg",
+    "widths": [
+      180,
+      360,
+      720
+    ]
+  },
   "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/71/8a/7c/718a7c36-5e40-7636-7758-f55eb65c5391/cover.jpg/1400x1400bb.jpg": {
     "bytes": 354986,
     "ext": "jpg",
@@ -24984,6 +25011,19 @@
     "width": 1200,
     "height": 1200,
     "from": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/99/52/9499525f-9745-61f3-0e1e-16483b16141e/artwork.jpg/1200x1200bb.jpg",
+    "widths": [
+      180,
+      360,
+      720
+    ]
+  },
+  "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/97/fb/d9/97fbd9ad-9c77-6064-a4b9-cd71b1121fe4/199900178992.jpg/1200x630bb.jpg": {
+    "sha256": "b82190a829a4b70b0ecd7e505e7203f16ab30cc7a3fd9edbc8d8f7563dafaa3d",
+    "ext": "jpg",
+    "bytes": 273208,
+    "width": 1200,
+    "height": 1200,
+    "from": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/97/fb/d9/97fbd9ad-9c77-6064-a4b9-cd71b1121fe4/199900178992.jpg/1200x1200bb.jpg",
     "widths": [
       180,
       360,
