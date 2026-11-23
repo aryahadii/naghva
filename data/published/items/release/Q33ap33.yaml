@@ -1,0 +1,75 @@
+id: Q33ap33
+type: release
+statements:
+  name:
+  - value:
+      text: The Seven Stage Global Deterioration Scale
+      language: en
+    references:
+    - source: skill.bandcamp.com-track-the-seven-stage-global-deterioration-scale
+      quote: The Seven Stage Global Deterioration Scale | Friendly Rich & Cheshmak | Skill
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qm3fd5c
+    references:
+    - source: skill.bandcamp.com-album-a-bruised-sunset
+      quote: Cheshmak
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Q5sze9a
+    references:
+    - source: skill.bandcamp.com-album-a-bruised-sunset
+      quote: Friendly Rich – guitar & voice
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Qffwb2b
+    references:
+    - source: skill.bandcamp.com-album-a-bruised-sunset
+      quote: Arif Mirabdolbaghi
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Q5b4hz2
+    references:
+    - source: skill.bandcamp.com-album-a-bruised-sunset
+      quote: Kaveh Ghaffari
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Qpssbgw
+    references:
+    - source: skill.bandcamp.com-album-a-bruised-sunset
+      quote: Farhad Asadi
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  release date:
+  - value:
+      date: '2026-05-29'
+    references:
+    - source: skill.bandcamp.com-album-a-bruised-sunset
+      quote: released May 29, 2026
+      accessed: '2026-11-21'
+      locator: Published date
+  listen link:
+  - value: https://skill.bandcamp.com/track/the-seven-stage-global-deterioration-scale
+    references:
+    - source: skill.bandcamp.com-track-the-seven-stage-global-deterioration-scale
+      quote: The Seven Stage Global Deterioration Scale | Friendly Rich & Cheshmak | Skill
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/4kAoE6oqjciwkHw4KfwEs0
+    references:
+    - source: open.spotify.com-track-4kaoe6oqjciwkhw4kfwes0
+      quote: The Seven Stage Global Deterioration Scale - song and lyrics by Friendly Rich, Cheshmak | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a2260188819_10.jpg
+    references:
+    - source: skill.bandcamp.com-track-the-seven-stage-global-deterioration-scale
+      quote: https://f4.bcbits.com/img/a2260188819_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Skill Recordings
+        language: en

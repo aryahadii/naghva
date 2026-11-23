@@ -1,0 +1,63 @@
+id: Qceg63d
+type: release
+statements:
+  name:
+  - value:
+      text: Kaveh's Tune
+      language: en
+    references:
+    - source: localdish.bandcamp.com-track-kavehs-tune
+      quote: Kaveh's Tune | Cheshmak | Local Dish
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qm3fd5c
+    references:
+    - source: localdish.bandcamp.com-album-cheshmak-ep
+      quote: Cheshmak
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Qffwb2b
+    references:
+    - source: localdish.bandcamp.com-album-cheshmak-ep
+      quote: Arif Mirbaghi
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Q5b4hz2
+    references:
+    - source: localdish.bandcamp.com-album-cheshmak-ep
+      quote: Kaveh Ghaffari
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Qpssbgw
+    references:
+    - source: localdish.bandcamp.com-album-cheshmak-ep
+      quote: Farhad Asadi
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  release date:
+  - value:
+      date: '2025-01-28'
+    references:
+    - source: localdish.bandcamp.com-album-cheshmak-ep
+      quote: released January 28, 2025
+      accessed: '2026-11-21'
+      locator: Published date
+  listen link:
+  - value: https://localdish.bandcamp.com/track/kavehs-tune
+    references:
+    - source: localdish.bandcamp.com-track-kavehs-tune
+      quote: Kaveh's Tune | Cheshmak | Local Dish
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a1653698849_10.jpg
+    references:
+    - source: localdish.bandcamp.com-track-kavehs-tune
+      quote: https://f4.bcbits.com/img/a1653698849_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Local Dish
+        language: en

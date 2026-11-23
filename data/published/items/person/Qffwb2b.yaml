@@ -18,7 +18,6 @@ statements:
         Arif Mirbaghi & Kaveh Ghaffari'
       accessed: '2026-11-06'
   - value:
-      # Editorial Persian display spelling; source uses the Latin name.
       text: عارف میرباقی
       language: fa
     references:
@@ -33,3 +32,10 @@ statements:
 
         Arif Mirbaghi & Kaveh Ghaffari'
       accessed: '2026-11-06'
+  member of:
+  - value: Qm3fd5c
+    references:
+    - source: localdish.bandcamp.com-album-cheshmak-ep
+      quote: Arif Mirbaghi
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
