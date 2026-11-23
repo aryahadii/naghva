@@ -1,0 +1,45 @@
+id: Q6jkhdn
+type: release
+statements:
+  name:
+  - value:
+      text: Death (OST)
+      language: en
+    references:
+    - source: soundcloud.com-pannulus-death
+      quote: Stream Death (OST) by Pannulus | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qr62rq7
+    references:
+    - source: soundcloud.com-pannulus-death
+      quote: Stream Death (OST) by Pannulus | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://soundcloud.com/pannulus/death
+    references:
+    - source: soundcloud.com-pannulus-death
+      quote: Stream Death (OST) by Pannulus | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i1.sndcdn.com/avatars-000061459748-lpcuay-t500x500.jpg
+    references:
+    - source: soundcloud.com-pannulus-death
+      quote: https://i1.sndcdn.com/avatars-000061459748-lpcuay-t500x500.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original artist or label edition
+        language: en
+  release date:
+  - value:
+      date: '2010-08-13'
+    references:
+    - source: soundcloud.com-pannulus-death
+      quote: '2010-08-13T19:13:01Z'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits

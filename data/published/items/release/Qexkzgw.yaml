@@ -1,0 +1,71 @@
+id: Qexkzgw
+type: release
+statements:
+  name:
+  - value:
+      text: TAR
+      language: en
+    references:
+    - source: hallowground.bandcamp.com-album-siavash-amini-tar
+      quote: SIAVASH AMINI - TAR | Siavash Amini | Hallow Ground
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qr62rq7
+    references:
+    - source: hallowground.bandcamp.com-album-siavash-amini-tar
+      quote: 'Electric double bass: Pouya Pour-Amin'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: double bass
+  - value: Qgncp5r
+    references:
+    - source: hallowground.bandcamp.com-album-siavash-amini-tar
+      quote: 'Violin: Nima Aghiani'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: violin
+  contributor:
+  - value: Q97bqaq
+    references:
+    - source: hallowground.bandcamp.com-album-siavash-amini-tar
+      quote: All music composed by Siavash Amini
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: composer
+  release type:
+  - value: album
+    references:
+    - source: hallowground.bandcamp.com-album-siavash-amini-tar
+      quote: SIAVASH AMINI - TAR | Siavash Amini | Hallow Ground
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://hallowground.bandcamp.com/album/siavash-amini-tar
+    references:
+    - source: hallowground.bandcamp.com-album-siavash-amini-tar
+      quote: SIAVASH AMINI - TAR | Siavash Amini | Hallow Ground
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a2397483372_10.jpg
+    references:
+    - source: hallowground.bandcamp.com-album-siavash-amini-tar
+      quote: https://f4.bcbits.com/img/a2397483372_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original artist or label edition
+        language: en
+  release date:
+  - value:
+      date: '2017-06-09'
+    references:
+    - source: hallowground.bandcamp.com-album-siavash-amini-tar
+      quote: released June 9, 2017
+      accessed: '2026-11-21'
+      locator: Published date
