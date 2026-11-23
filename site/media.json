@@ -10525,6 +10525,19 @@
       720
     ]
   },
+  "https://i.ytimg.com/vi/fN9eVNDOgY0/hqdefault.jpg": {
+    "sha256": "e99bc23fdaf2aceff71609fca20e70f218b7d8e577ddf3fb269e6c7a67e81e8d",
+    "ext": "jpg",
+    "bytes": 127347,
+    "width": 1280,
+    "height": 720,
+    "from": "https://i.ytimg.com/vi/fN9eVNDOgY0/maxresdefault.jpg",
+    "widths": [
+      180,
+      360,
+      720
+    ]
+  },
   "https://i.ytimg.com/vi/FNcBnGbtnjc/hqdefault.jpg": {
     "sha256": "b9c55e27b089227253a4393ce2eb6b4d023c999f84a308f048653552ef5eaa4c",
     "ext": "jpg",
@@ -41254,6 +41267,20 @@
     "sha256": "280fe389c51361ad3a0c2f56cac4a0357e51fe7f45e96fb569db6b354a44e617",
     "ext": "png",
     "bytes": 584471,
+    "width": 389,
+    "height": 606,
+    "widths": [
+      240,
+      360,
+      640,
+      960,
+      1200
+    ]
+  },
+  "https://rokhquartet.art/wp-content/uploads/2025/01/Site-Hossein.png": {
+    "sha256": "4a78817b224e3315b2fc24bf31d4c28d408ddb01f71cf161bbfe746dfc0ce986",
+    "ext": "png",
+    "bytes": 523718,
     "width": 389,
     "height": 606,
     "widths": [
