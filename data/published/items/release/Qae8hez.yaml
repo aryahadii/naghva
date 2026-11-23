@@ -1,0 +1,70 @@
+id: Qae8hez
+type: release
+statements:
+  name:
+  - value:
+      text: Sarkhaneh
+      language: en
+    references:
+    - source: www.negarbouban.com-resources-pdf-negar_bouban_cv-may_2026.pdf
+      quote: 'Sarkhaneh: compositions in the old Iranian style'
+      accessed: 2026-11-21
+      locator: Selected released albums and collaborations, pages 8–10
+    - source: baharmovahed.com-musics
+      quote: Sarkhaneh
+      locator: Artist discography, original sound recording or label
+      accessed: '2026-11-21'
+  performer:
+  - value: Qtqjb47
+    references:
+    - source: www.negarbouban.com-resources-pdf-negar_bouban_cv-may_2026.pdf
+      quote: 'Sarkhaneh: compositions in the old Iranian style'
+      accessed: 2026-11-21
+      locator: Selected released albums and collaborations, pages 8–10
+    - source: baharmovahed.com-musics
+      quote: 'Oud: Negar Bouban'
+      locator: Soundtrack vocal and instrumental credits listed by Movahed
+      accessed: '2026-11-21'
+    qualifiers:
+      role: oud
+  - value: Qwxqpwd
+    references:
+    - source: baharmovahed.com-musics
+      quote: Bahar Movahed
+      locator: Artist discography, original sound recording or label
+      accessed: '2026-11-21'
+    qualifiers:
+      role: vocals
+  release type:
+  - value: album
+    references:
+    - source: www.negarbouban.com-resources-pdf-negar_bouban_cv-may_2026.pdf
+      quote: 'Sarkhaneh: compositions in the old Iranian style'
+      accessed: 2026-11-21
+      locator: Selected released albums and collaborations, pages 8–10
+    - source: baharmovahed.com-musics
+      quote: Sarkhaneh
+      locator: Artist discography, original sound recording or label
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2010'
+    references:
+    - source: www.negarbouban.com-resources-pdf-negar_bouban_cv-may_2026.pdf
+      quote: '2010.'
+      accessed: 2026-11-21
+      locator: Release year in Sarkhaneh entry, pages 8–10
+  listen link:
+  - value: https://music.apple.com/us/album/sarkhane/974994844
+    references:
+    - source: music.apple.com-us-album-sarkhane-974994844
+      quote: Sarkhane
+      accessed: 2026-11-21
+      locator: Digital album
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/fd/1d/7d/fd1d7d6e-c16d-07fe-f457-75236a72bd24/6260608003580.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-sarkhane-974994844
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/fd/1d/7d/fd1d7d6e-c16d-07fe-f457-75236a72bd24/6260608003580.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Album artwork

@@ -1,0 +1,53 @@
+id: Qsy6pr7
+type: release
+statements:
+  name:
+  - value:
+      text: Sing
+      language: en
+    references:
+    - source: www.negarbouban.com-resources-pdf-negar_bouban_cv-may_2026.pdf
+      quote: 'Sing: composed by Babak Bouban'
+      accessed: 2026-11-21
+      locator: Selected released albums and collaborations, pages 8–10
+  performer:
+  - value: Qtqjb47
+    references:
+    - source: www.negarbouban.com-resources-pdf-negar_bouban_cv-may_2026.pdf
+      quote: 'Sing: composed by Babak Bouban'
+      accessed: 2026-11-21
+      locator: Selected released albums and collaborations, pages 8–10
+  - value: Qaxspbb
+    qualifiers:
+      role:
+      - vocals
+    references:
+    - source: beeptunes.com-album-73923970
+      quote: خوانندگی و آهنگسازی آن را بابک بوبان انجام داده است
+      accessed: 2026-11-21
+      locator: Performer and composer
+  release type:
+  - value: album
+    references:
+    - source: www.negarbouban.com-resources-pdf-negar_bouban_cv-may_2026.pdf
+      quote: 'Sing: composed by Babak Bouban'
+      accessed: 2026-11-21
+      locator: Selected released albums and collaborations, pages 8–10
+  release date:
+  - value:
+      date: '2015'
+    references:
+    - source: www.negarbouban.com-resources-pdf-negar_bouban_cv-may_2026.pdf
+      quote: '2015.'
+      accessed: 2026-11-21
+      locator: Release year in Sing entry, pages 8–10
+  contributor:
+  - value: Qaxspbb
+    qualifiers:
+      role:
+      - composer
+    references:
+    - source: beeptunes.com-album-73923970
+      quote: خوانندگی و آهنگسازی آن را بابک بوبان انجام داده است
+      accessed: 2026-11-21
+      locator: Performer and composer

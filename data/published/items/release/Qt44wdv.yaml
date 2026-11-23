@@ -1,0 +1,72 @@
+id: Qt44wdv
+type: release
+statements:
+  name:
+  - value:
+      text: Through
+      language: en
+    references:
+    - source: www.negarbouban.com-through
+      quote: Through
+      accessed: 2026-11-21
+      locator: Album title
+  performer:
+  - value: Qtqjb47
+    references:
+    - source: www.negarbouban.com-through
+      quote: Through
+      accessed: 2026-11-21
+      locator: Album title
+  release type:
+  - value: album
+    references:
+    - source: www.negarbouban.com-through
+      quote: Through
+      accessed: 2026-11-21
+      locator: Album title
+  listen link:
+  - value: https://www.youtube.com/playlist?list=OLAK5uy_nwORbq9aPumedkIm0C4zipbEPesNDZaRc
+    references:
+    - source: www.negarbouban.com-through
+      quote: Through
+      accessed: 2026-11-21
+      locator: Album title
+  - value: https://music.youtube.com/playlist?list=OLAK5uy_lzwrBmpoLwL3TrJSE8yxtT6TgpNPYCi44
+    references:
+    - source: www.negarbouban.com-through
+      quote: Through
+      accessed: 2026-11-21
+      locator: Album title
+  - value: https://open.spotify.com/album/0ILxzR5YTi2QeDdt83ObJg
+    references:
+    - source: www.negarbouban.com-through
+      quote: Through
+      accessed: 2026-11-21
+      locator: Album title
+  - value: https://negarbouban.bandcamp.com/album/through
+    references:
+    - source: www.negarbouban.com-through
+      quote: Through
+      accessed: 2026-11-21
+      locator: Album title
+  - value: https://music.apple.com/us/album/through/556857258
+    references:
+    - source: www.negarbouban.com-through
+      quote: Through
+      accessed: 2026-11-21
+      locator: Album title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music/v4/33/70/f6/3370f663-5d57-d3d2-483a-f4d21fc516f3/700261879659.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-cyclic-556857258
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music/v4/33/70/f6/3370f663-5d57-d3d2-483a-f4d21fc516f3/700261879659.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Digital artwork
+  release date:
+  - value:
+      date: '2012-08-23'
+    references:
+    - source: music.apple.com-us-album-cyclic-556857258
+      quote: '2012-08-23'
+      accessed: 2026-11-21
+      locator: Digital edition date

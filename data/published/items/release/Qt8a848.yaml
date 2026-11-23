@@ -1,0 +1,39 @@
+id: Qt8a848
+type: release
+statements:
+  name:
+  - value:
+      text: A Tale, Foretold (Live)
+      language: en
+    references:
+    - source: open.spotify.com-album-3l9vpvy5iifhbnuspsnjt2
+      quote: A Tale, Foretold - Live
+      accessed: 2026-11-21
+      locator: Spotify track billing
+  performer:
+  - value: Qtqjb47
+    references:
+    - source: open.spotify.com-album-3l9vpvy5iifhbnuspsnjt2
+      quote: A Tale, Foretold - Live
+      accessed: 2026-11-21
+      locator: Spotify track billing
+  listen link:
+  - value: https://open.spotify.com/track/0Bl2jzMixBMeei4QMr8dAl
+    references:
+    - source: open.spotify.com-album-3l9vpvy5iifhbnuspsnjt2
+      quote: A Tale, Foretold - Live
+      accessed: 2026-11-21
+      locator: Spotify track billing
+  - value: https://youtu.be/5iWSdd8sWzg
+    references:
+    - source: youtu.be-5iwsdd8swzg
+      quote: A Tale, Foretold
+      accessed: 2026-11-21
+      locator: Track in artist-linked playlist
+  cover art:
+  - value: https://i.ytimg.com/vi/5iWSdd8sWzg/hqdefault.jpg
+    references:
+    - source: youtu.be-5iwsdd8swzg
+      quote: A Tale, Foretold
+      accessed: 2026-11-21
+      locator: Track in artist-linked playlist

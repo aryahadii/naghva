@@ -1,0 +1,59 @@
+id: Qtxd3nq
+type: release
+statements:
+  name:
+  - value:
+      text: The Last Turn
+      language: en
+    references:
+    - source: music.apple.com-us-album-pause-435192918
+      quote: The Last Turn
+      accessed: 2026-11-21
+      locator: Native digital track order
+  performer:
+  - value: Qtqjb47
+    references:
+    - source: music.apple.com-us-album-pause-435192918
+      quote: The Last Turn
+      accessed: 2026-11-21
+      locator: Native digital track order
+  listen link:
+  - value: https://music.apple.com/us/song/the-last-turn/435192933
+    references:
+    - source: music.apple.com-us-album-pause-435192918
+      quote: The Last Turn
+      accessed: 2026-11-21
+      locator: Native digital track order
+  - value: https://negarbouban.bandcamp.com/track/the-last-turn
+    references:
+    - source: negarbouban.bandcamp.com-album-in-turn
+      quote: The Last Turn
+      accessed: 2026-11-21
+      locator: Bandcamp track
+  - value: https://open.spotify.com/track/7KGfOlGs3gDVbGRA4vAtET
+    references:
+    - source: open.spotify.com-album-6mxr9rdf3if7hztf6tsrpe
+      quote: The Last Turn
+      accessed: 2026-11-21
+      locator: Spotify track billing
+  - value: https://youtu.be/xCm8qJe3cdM
+    references:
+    - source: youtu.be-xcm8qje3cdm
+      quote: The Last Turn
+      accessed: 2026-11-21
+      locator: Track in artist-linked playlist
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music/13/b3/a5/mzi.wjaoiphi.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-pause-435192918
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music/13/b3/a5/mzi.wjaoiphi.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Digital artwork
+  release date:
+  - value:
+      date: '2011-04-28'
+    references:
+    - source: music.apple.com-us-album-pause-435192918
+      quote: '2011-04-28'
+      accessed: 2026-11-21
+      locator: Digital edition date
