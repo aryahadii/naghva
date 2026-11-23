@@ -1,0 +1,74 @@
+id: Qnyaysq
+type: release
+statements:
+  name:
+  - value:
+      text: Dançâ del Aire
+      language: en
+    references:
+    - source: habitablerecords.bandcamp.com-album-dan-del-aire-2
+      quote: Dançâ del Aire
+      locator: Artist interview, recording credits or commissioning programme
+      accessed: '2026-11-21'
+  performer:
+  - value: Qgay8m3
+    references:
+    - source: habitablerecords.bandcamp.com-album-dan-del-aire-2
+      quote: Bahar Badietabar (Iran) - Oud
+      locator: Artist interview, recording credits or commissioning programme
+      accessed: '2026-11-21'
+    qualifiers:
+      role: oud
+  - value: Qy7vkqa
+    references:
+    - source: habitablerecords.bandcamp.com-album-dan-del-aire-2
+      quote: Ángela Varo Moreno
+      locator: Artist interview, recording credits or commissioning programme
+      accessed: '2026-11-21'
+    qualifiers:
+      role: violin
+  release date:
+  - value:
+      date: '2025-03-20'
+    references:
+    - source: music.apple.com-us-album-1798274011
+      quote: '2025-03-20'
+      locator: Artist interview, recording credits or commissioning programme
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://f4.bcbits.com/img/a0996742025_10.jpg
+    references:
+    - source: habitablerecords.bandcamp.com-album-dan-del-aire-2
+      quote: https://f4.bcbits.com/img/a0996742025_10.jpg
+      locator: Artist interview, recording credits or commissioning programme
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Habitable Records · Ángela Varo Moreno
+        language: en
+  release type:
+  - value: album
+    references:
+    - source: habitablerecords.bandcamp.com-album-dan-del-aire-2
+      quote: Dançâ del Aire
+      locator: Artist interview, recording credits or commissioning programme
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://habitablerecords.bandcamp.com/album/dan-del-aire-2
+    references:
+    - source: habitablerecords.bandcamp.com-album-dan-del-aire-2
+      quote: Bahar Badietabar (Iran) - Oud
+      locator: Artist interview, recording credits or commissioning programme
+      accessed: '2026-11-21'
+  - value: https://music.apple.com/us/album/dan%C3%A7%C3%A2-del-aire/1798274011
+    references:
+    - source: music.apple.com-us-album-1798274011
+      quote: Dançâ Del Aire
+      locator: Artist interview, recording credits or commissioning programme
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/album/4IvsPOMOw16DdANM3HUEZs
+    references:
+    - source: open.spotify.com-embed-album-4ivspomow16ddanm3huezs
+      quote: Dançâ Del Aire
+      locator: Artist interview, recording credits or commissioning programme
+      accessed: '2026-11-21'
