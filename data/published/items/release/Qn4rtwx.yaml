@@ -1,0 +1,41 @@
+id: Qn4rtwx
+type: release
+statements:
+  name:
+  - value:
+      text: Habibi (Snippet)
+      language: en
+    references:
+    - source: music.apple.com-us-album-habibi-snippet-single-1799991131
+      quote: Habibi (Snippet)
+      accessed: 2026-11-21
+      locator: Edition or recording title
+  performer:
+  - value: Qgxh3d9
+    references:
+    - source: music.apple.com-us-album-habibi-snippet-single-1799991131
+      quote: Faravaz
+      accessed: 2026-11-21
+      locator: Digital credits
+  listen link:
+  - value: https://music.apple.com/us/song/habibi-snippet/1799991470
+    references:
+    - source: music.apple.com-us-album-habibi-snippet-single-1799991131
+      quote: Habibi (Snippet)
+      accessed: 2026-11-21
+      locator: Edition or recording title
+  release date:
+  - value:
+      date: '2025-03-05'
+    references:
+    - source: music.apple.com-us-album-habibi-snippet-single-1799991131
+      quote: '2025-03-05'
+      accessed: 2026-11-21
+      locator: Digital edition date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/00/8a/4a/008a4aa3-a0a3-0393-a8ea-8c88ce79fc60/195081485577.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-habibi-snippet-single-1799991131
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/00/8a/4a/008a4aa3-a0a3-0393-a8ea-8c88ce79fc60/195081485577.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Digital edition artwork

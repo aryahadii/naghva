@@ -1,0 +1,44 @@
+id: Q2fdqjp
+type: person
+statements:
+  name:
+  - value:
+      text: Justina
+      language: en
+    references:
+    - source: open.spotify.com-artist-1wacguneksenlllsd0vsvr
+      quote: Justina
+      accessed: 2026-11-21
+      locator: Artist profile
+  - value:
+      text: جاستینا
+      language: fa
+    references:
+    - source: youtu.be-p7helxvpje0
+      quote: Justina - Tasavor | OFFICIAL MUSIC VIDEO جاستینا - تصور | موزیک ویدیو
+      accessed: 2026-11-21
+      locator: Artist’s bilingual billing
+  image:
+  - value: https://i.scdn.co/image/ab6761610000e5ebe86d8d03e9aadee46652e476
+    qualifiers:
+      credit:
+        text: Justina, Spotify artist profile
+        language: en
+    references:
+    - source: open.spotify.com-artist-1wacguneksenlllsd0vsvr
+      quote: https://i.scdn.co/image/ab6761610000e5ebe86d8d03e9aadee46652e476
+      accessed: 2026-11-21
+      locator: Artist profile portrait
+  profile link:
+  - value: https://open.spotify.com/artist/1WaCguNeKSENLLlSd0vSVR
+    references:
+    - source: open.spotify.com-artist-1wacguneksenlllsd0vsvr
+      quote: Justina
+      accessed: 2026-11-21
+      locator: Artist profile
+  - value: https://www.youtube.com/channel/UCHpRbj8oD0G9bxFIFhfwS8Q
+    references:
+    - source: www.youtube.com-channel-uchprbj8od0g9bxfifhfws8q
+      quote: Justina - Videos
+      accessed: 2026-11-21
+      locator: Native artist channel

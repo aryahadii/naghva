@@ -1,0 +1,91 @@
+id: Q3r943q
+type: release
+statements:
+  name:
+  - value:
+      text: Mullah
+      language: en
+    references:
+    - source: music.apple.com-us-album-mullah-single-1763192025
+      quote: Mullah
+      accessed: 2026-11-21
+      locator: Edition or recording title
+  performer:
+  - value: Qgxh3d9
+    references:
+    - source: music.apple.com-us-album-mullah-single-1763192025
+      quote: Faravaz
+      accessed: 2026-11-21
+      locator: Digital credits
+  listen link:
+  - value: https://music.apple.com/us/song/mullah/1763192271
+    references:
+    - source: music.apple.com-us-album-mullah-single-1763192025
+      quote: Mullah
+      accessed: 2026-11-21
+      locator: Edition or recording title
+  - value: https://music.apple.com/us/song/mullah/1811985862
+    references:
+    - source: music.apple.com-us-album-azadi-1811985676
+      quote: Mullah
+      accessed: 2026-11-21
+      locator: Edition or recording title
+  - value: https://faravaz.bandcamp.com/track/mullah-2
+    references:
+    - source: faravaz.bandcamp.com-album-azadi-album
+      quote: Mullah
+      accessed: 2026-11-21
+      locator: Artist’s Bandcamp catalogue
+  - value: https://faravaz.bandcamp.com/track/mullah
+    references:
+    - source: faravaz.bandcamp.com-track-mullah
+      quote: Mullah
+      accessed: 2026-11-21
+      locator: Artist’s Bandcamp catalogue
+  - value: https://open.spotify.com/track/7foShX5z5goqh6VfjQZrHC
+    references:
+    - source: open.spotify.com-album-1y72zlc763hlylsh5mbkyl
+      quote: Mullah
+      accessed: 2026-11-21
+      locator: Published recording
+  - value: https://youtu.be/JTLIL24Yy1g
+    references:
+    - source: youtu.be-jtlil24yy1g
+      quote: Faravaz - Mullah (Official Music video)
+      accessed: 2026-11-21
+      locator: Artist’s original channel
+  release date:
+  - value:
+      date: '2023-08-10'
+    references:
+    - source: music.apple.com-us-album-mullah-single-1763192025
+      quote: '2023-08-10'
+      accessed: 2026-11-21
+      locator: Digital edition date
+  - value:
+      date: '2025-05-09'
+    references:
+    - source: music.apple.com-us-album-azadi-1811985676
+      quote: '2025-05-09'
+      accessed: 2026-11-21
+      locator: Digital edition date
+  - value:
+      date: '2025-05-11'
+    references:
+    - source: faravaz.bandcamp.com-album-azadi-album
+      quote: 11 May 2025 00:00:00 GMT
+      accessed: 2026-11-21
+      locator: Artist release date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/91/bb/ed/91bbed5f-e376-b8c3-b705-d6e6e1c16665/4066004759043_3000.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-mullah-single-1763192025
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/91/bb/ed/91bbed5f-e376-b8c3-b705-d6e6e1c16665/4066004759043_3000.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Digital edition artwork
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e6/77/60/e6776080-6ae7-2f26-4d68-596b660c3cc7/199350433146.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-azadi-1811985676
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e6/77/60/e6776080-6ae7-2f26-4d68-596b660c3cc7/199350433146.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Digital edition artwork
