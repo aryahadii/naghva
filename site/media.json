@@ -13510,6 +13510,21 @@
       720
     ]
   },
+  "https://i.ytimg.com/vi/9WRQs3_ApEo/hqdefault.jpg": {
+    "sha256": "cbec5ff9d1099948d9ac25348fc64dac670d4ed38deb220bab2bffd4e49dae07",
+    "ext": "jpg",
+    "bytes": 60347,
+    "width": 1280,
+    "height": 720,
+    "from": "https://i.ytimg.com/vi/9WRQs3_ApEo/maxresdefault.jpg",
+    "widths": [
+      240,
+      360,
+      640,
+      960,
+      1200
+    ]
+  },
   "https://i.ytimg.com/vi/9ZBVty2BMCo/hqdefault.jpg": {
     "sha256": "9cb6e319b994cf5a49c7751bb90f8e448a529d5b53c5d4c7ca1126ef86fdf233",
     "ext": "jpg",
@@ -42158,6 +42173,19 @@
       720
     ]
   },
+  "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/02/04/9a/02049acf-f0a5-fc1b-7410-27a791479a5c/7320470252987.jpg/632x632bb-60.jpg": {
+    "sha256": "1eb494647cf707ecf2707f0ba45fa1a2222e3c8e873018b939361df6fa180aec",
+    "ext": "jpg",
+    "bytes": 354840,
+    "width": 1200,
+    "height": 1200,
+    "from": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/02/04/9a/02049acf-f0a5-fc1b-7410-27a791479a5c/7320470252987.jpg/1200x1200bb.jpg",
+    "widths": [
+      180,
+      360,
+      720
+    ]
+  },
   "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/07/b3/ab/07b3aba2-e05d-8b47-c6ef-5515832cb77d/195448940596.jpg/1200x630wp-60.jpg": {
     "sha256": "9ddcb16c0b19af69dc9de2918a9793fc6ed1fb80a08c4d055021abf3eba376a7",
     "ext": "jpg",
@@ -54868,6 +54896,19 @@
       720
     ]
   },
+  "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/4b/90/244b9011-4932-52bd-b758-3285485cfee8/199800492709.jpg/632x632bb-60.jpg": {
+    "sha256": "6fef0617102cf411173bcaecabf6eef304ed1a3a6bc08a94566cab73a913d240",
+    "ext": "jpg",
+    "bytes": 313916,
+    "width": 1200,
+    "height": 1200,
+    "from": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/4b/90/244b9011-4932-52bd-b758-3285485cfee8/199800492709.jpg/1200x1200bb.jpg",
+    "widths": [
+      180,
+      360,
+      720
+    ]
+  },
   "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/4c/d0/264cd0c3-f0fe-30d1-a78c-5467fb19278c/859716902746_cover.jpg/1200x630bb.jpg": {
     "sha256": "7d1d49da584bf7b7a9d20fa8832e759f26985aedb39b0ec6075db5b63249ac6e",
     "ext": "jpg",
@@ -62956,6 +62997,19 @@
       720
     ]
   },
+  "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/73/7e/5b/737e5b67-9a13-f1c8-7541-7b59ff3fd189/190394143848.jpg/632x632bb-60.jpg": {
+    "sha256": "85705d06f5c4c8f7161472f6418fbdaa4b4e72360c52c9c8f9398f6b0ba3f846",
+    "ext": "jpg",
+    "bytes": 337727,
+    "width": 1200,
+    "height": 1200,
+    "from": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/73/7e/5b/737e5b67-9a13-f1c8-7541-7b59ff3fd189/190394143848.jpg/1200x1200bb.jpg",
+    "widths": [
+      180,
+      360,
+      720
+    ]
+  },
   "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/9d/aa/fa/9daafa7f-bb1f-4c17-f2a0-94074070c0f8/889211752669.jpg/1200x630bb.jpg": {
     "sha256": "d4bc3f0ac6ef8daa89781bfe2a32c8e3c32897ecd8ba0125a4c41ea8716bbd39",
     "ext": "jpg",
@@ -64044,6 +64098,20 @@
     "height": 636,
     "sha256": "b9154830e5feba62aa1a6dbfef947a229331a34cd6ac0d9b81109849f9b51570",
     "width": 945,
+    "widths": [
+      240,
+      360,
+      640,
+      960,
+      1200
+    ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/9/90/Safoura_Safavi.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original": {
+    "sha256": "0ec0207eb14147ce04296a240a424bf158e70866c2563c75d8a9905da7063044",
+    "ext": "jpg",
+    "bytes": 8567283,
+    "width": 4592,
+    "height": 3056,
     "widths": [
       240,
       360,
