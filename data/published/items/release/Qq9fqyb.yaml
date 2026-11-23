@@ -1,0 +1,44 @@
+id: Qq9fqyb
+type: release
+statements:
+  name:
+  - value:
+      text: یاد یاران خوش است
+      language: fa
+    references:
+    - source: t.me-kiyarashdavoudi-52
+      quote: یاد یاران خوش است اثر:استاد سیامک آقایی @kiyarash_davoudi
+      accessed: '2026-11-21'
+      locator: Artist caption and performance context
+  performer:
+  - value: Qyrsg2f
+    qualifiers:
+      role: santur
+    references:
+    - source: t.me-kiyarashdavoudi-52
+      quote: یاد یاران خوش است اثر:استاد سیامک آقایی @kiyarash_davoudi
+      accessed: '2026-11-21'
+      locator: Artist caption and performance context
+    - source: t.me-kiyarashdavoudi-52
+      quote: کیارش داودی | KiyarashDavoudi
+      accessed: '2026-11-21'
+      locator: Artist publishing channel
+  listen link:
+  - value: https://t.me/kiyarashdavoudi/52
+    references:
+    - source: t.me-kiyarashdavoudi-52
+      quote: یاد یاران خوش است اثر:استاد سیامک آقایی @kiyarash_davoudi
+      accessed: '2026-11-21'
+      locator: Artist caption and performance context
+    - source: t.me-kiyarashdavoudi-52
+      quote: کیارش داودی | KiyarashDavoudi
+      accessed: '2026-11-21'
+      locator: Artist publishing channel
+  release date:
+  - value:
+      date: '2017-09-06'
+    references:
+    - source: t.me-kiyarashdavoudi-52
+      quote: '2017-09-06'
+      accessed: '2026-11-21'
+      locator: Artist channel publication date

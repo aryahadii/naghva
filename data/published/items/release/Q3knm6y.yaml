@@ -1,0 +1,44 @@
+id: Q3knm6y
+type: release
+statements:
+  name:
+  - value:
+      text: درآمد نوا
+      language: fa
+    references:
+    - source: t.me-kiyarashdavoudi-122
+      quote: '#دستگاه_نوا مزرع سبزِ فلک دیدم و داسِ مه نو یادم از کِشته ی خویش آمد و هنگام ِ درو گفتم ای بخت بِخُسبیدی و خور'
+      accessed: '2026-11-21'
+      locator: Artist caption and performance context
+  performer:
+  - value: Qyrsg2f
+    qualifiers:
+      role: santur
+    references:
+    - source: t.me-kiyarashdavoudi-122
+      quote: '#دستگاه_نوا مزرع سبزِ فلک دیدم و داسِ مه نو یادم از کِشته ی خویش آمد و هنگام ِ درو گفتم ای بخت بِخُسبیدی و خور'
+      accessed: '2026-11-21'
+      locator: Artist caption and performance context
+    - source: t.me-kiyarashdavoudi-122
+      quote: کیارش داودی | KiyarashDavoudi
+      accessed: '2026-11-21'
+      locator: Artist publishing channel
+  listen link:
+  - value: https://t.me/kiyarashdavoudi/122
+    references:
+    - source: t.me-kiyarashdavoudi-122
+      quote: '#دستگاه_نوا مزرع سبزِ فلک دیدم و داسِ مه نو یادم از کِشته ی خویش آمد و هنگام ِ درو گفتم ای بخت بِخُسبیدی و خور'
+      accessed: '2026-11-21'
+      locator: Artist caption and performance context
+    - source: t.me-kiyarashdavoudi-122
+      quote: کیارش داودی | KiyarashDavoudi
+      accessed: '2026-11-21'
+      locator: Artist publishing channel
+  release date:
+  - value:
+      date: '2019-01-27'
+    references:
+    - source: t.me-kiyarashdavoudi-122
+      quote: '2019-01-27'
+      accessed: '2026-11-21'
+      locator: Artist channel publication date

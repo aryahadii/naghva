@@ -1,0 +1,65 @@
+id: Qfddr9z
+type: release
+statements:
+  name:
+  - value:
+      text: آئین رونمایی از آلبوم جان حزین
+      language: fa
+    references:
+    - source: www.youtube.com-watch-v-eaurmcf94ee
+      quote: آئین رونمایی از آلبوم جان حزین|دونوازی سنتور و‌ تمبک|پدرام خاورزمینی و کیارش داودی
+      accessed: '2026-11-21'
+      locator: Artist’s native video title
+  performer:
+  - value: Qyrsg2f
+    qualifiers:
+      role: santur
+    references:
+    - source: www.youtube.com-watch-v-eaurmcf94ee
+      quote: آئین رونمایی از آلبوم جان حزین|دونوازی سنتور و‌ تمبک|پدرام خاورزمینی و کیارش داودی
+      accessed: '2026-11-21'
+      locator: Artist’s native video title
+  - value: Q5rnjaz
+    qualifiers:
+      role: tombak
+    references:
+    - source: www.youtube.com-watch-v-eaurmcf94ee
+      quote: آئین رونمایی از آلبوم جان حزین|دونوازی سنتور و‌ تمبک|پدرام خاورزمینی و کیارش داودی
+      accessed: '2026-11-21'
+      locator: Artist’s native video title
+  listen link:
+  - value: https://www.youtube.com/watch?v=EaurmcF94eE
+    references:
+    - source: www.youtube.com-watch-v-eaurmcf94ee
+      quote: آئین رونمایی از آلبوم جان حزین|دونوازی سنتور و‌ تمبک|پدرام خاورزمینی و کیارش داودی
+      accessed: '2026-11-21'
+      locator: Artist’s native video title
+    - source: www.youtube.com-watch-v-eaurmcf94ee
+      quote: kiyarash davoudi
+      accessed: '2026-11-21'
+      locator: Publisher
+  - value: https://t.me/kiyarashdavoudi/345
+    references:
+    - source: t.me-kiyarashdavoudi-345
+      quote: ⁨ گزارش تصویری آئین رونمایی از آلبوم موسیقی جانِ حَزین؛ آلبوم جان حزین در تاریخ ۲۵ آبان ما
+      accessed: '2026-11-21'
+      locator: Original channel caption for this recording
+    - source: t.me-kiyarashdavoudi-345
+      quote: کیارش داودی | KiyarashDavoudi
+      accessed: '2026-11-21'
+      locator: Artist publishing channel
+  cover art:
+  - value: https://i.ytimg.com/vi/EaurmcF94eE/hqdefault.jpg
+    qualifiers:
+      credit:
+        text: kiyarash davoudi on YouTube
+        language: en
+    references:
+    - source: www.youtube.com-watch-v-eaurmcf94ee
+      quote: https://i.ytimg.com/vi/EaurmcF94eE/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Artist’s native video thumbnail
+    - source: www.youtube.com-watch-v-eaurmcf94ee
+      quote: kiyarash davoudi
+      accessed: '2026-11-21'
+      locator: Publisher

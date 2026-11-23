@@ -1,0 +1,44 @@
+id: Qfyn3dc
+type: release
+statements:
+  name:
+  - value:
+      text: ساز و آواز
+      language: fa
+    references:
+    - source: t.me-kiyarashdavoudi-72
+      quote: '#آواز : #منصور_جمعه_زاده #سنتور : #کیارش_داوودی #تنبک : #کریم_ابراهیمی با اجرای #ساز و #آواز و قطعاتِ #ضربی ، '
+      accessed: '2026-11-21'
+      locator: Artist caption and performance context
+  performer:
+  - value: Qyrsg2f
+    qualifiers:
+      role: santur
+    references:
+    - source: t.me-kiyarashdavoudi-72
+      quote: '#آواز : #منصور_جمعه_زاده #سنتور : #کیارش_داوودی #تنبک : #کریم_ابراهیمی با اجرای #ساز و #آواز و قطعاتِ #ضربی ، '
+      accessed: '2026-11-21'
+      locator: Artist caption and performance context
+    - source: t.me-kiyarashdavoudi-72
+      quote: کیارش داودی | KiyarashDavoudi
+      accessed: '2026-11-21'
+      locator: Artist publishing channel
+  listen link:
+  - value: https://t.me/kiyarashdavoudi/72
+    references:
+    - source: t.me-kiyarashdavoudi-72
+      quote: '#آواز : #منصور_جمعه_زاده #سنتور : #کیارش_داوودی #تنبک : #کریم_ابراهیمی با اجرای #ساز و #آواز و قطعاتِ #ضربی ، '
+      accessed: '2026-11-21'
+      locator: Artist caption and performance context
+    - source: t.me-kiyarashdavoudi-72
+      quote: کیارش داودی | KiyarashDavoudi
+      accessed: '2026-11-21'
+      locator: Artist publishing channel
+  release date:
+  - value:
+      date: '2017-12-03'
+    references:
+    - source: t.me-kiyarashdavoudi-72
+      quote: '2017-12-03'
+      accessed: '2026-11-21'
+      locator: Artist channel publication date

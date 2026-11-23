@@ -1,0 +1,44 @@
+id: Qnv4yyc
+type: release
+statements:
+  name:
+  - value:
+      text: آواز بیات ترک
+      language: fa
+    references:
+    - source: t.me-kiyarashdavoudi-55
+      quote: بخشی از آواز بیات ترک اجرای تالار رودکی/بهمن ماه ۹۵ ضبط شده توسط دوستان حاضر در تالار @kiyarash_davoudi
+      accessed: '2026-11-21'
+      locator: Artist caption and performance context
+  performer:
+  - value: Qyrsg2f
+    qualifiers:
+      role: santur
+    references:
+    - source: t.me-kiyarashdavoudi-55
+      quote: بخشی از آواز بیات ترک اجرای تالار رودکی/بهمن ماه ۹۵ ضبط شده توسط دوستان حاضر در تالار @kiyarash_davoudi
+      accessed: '2026-11-21'
+      locator: Artist caption and performance context
+    - source: t.me-kiyarashdavoudi-55
+      quote: کیارش داودی | KiyarashDavoudi
+      accessed: '2026-11-21'
+      locator: Artist publishing channel
+  listen link:
+  - value: https://t.me/kiyarashdavoudi/55
+    references:
+    - source: t.me-kiyarashdavoudi-55
+      quote: بخشی از آواز بیات ترک اجرای تالار رودکی/بهمن ماه ۹۵ ضبط شده توسط دوستان حاضر در تالار @kiyarash_davoudi
+      accessed: '2026-11-21'
+      locator: Artist caption and performance context
+    - source: t.me-kiyarashdavoudi-55
+      quote: کیارش داودی | KiyarashDavoudi
+      accessed: '2026-11-21'
+      locator: Artist publishing channel
+  release date:
+  - value:
+      date: '2017-09-08'
+    references:
+    - source: t.me-kiyarashdavoudi-55
+      quote: '2017-09-08'
+      accessed: '2026-11-21'
+      locator: Artist channel publication date
