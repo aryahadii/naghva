@@ -1,0 +1,59 @@
+id: Qekrzaf
+type: release
+statements:
+  name:
+  - value:
+      text: Lucky Day
+      language: en
+    references:
+    - source: psychicbloom.bandcamp.com-album-psychic-bloom
+      quote: Lucky Day
+      accessed: 2026-11-21
+      locator: Label track listing
+  performer:
+  - value: Qzfcfre
+    references:
+    - source: psychicbloom.bandcamp.com-album-psychic-bloom
+      quote: Psychic Bloom
+      accessed: 2026-11-21
+      locator: Recording artist
+  cover art:
+  - value: https://f4.bcbits.com/img/a0628633380_10.jpg
+    references:
+    - source: psychicbloom.bandcamp.com-album-psychic-bloom
+      quote: https://f4.bcbits.com/img/a0628633380_10.jpg
+      accessed: 2026-11-21
+      locator: Published sleeve
+  release date:
+  - value:
+      date: '2017-05-10'
+    references:
+    - source: psychicbloom.bandcamp.com-album-psychic-bloom
+      quote: 10 May 2017 20:33:51 GMT
+      accessed: 2026-11-21
+      locator: Original digital edition
+  listen link:
+  - value: https://psychicbloom.bandcamp.com/track/lucky-day
+    references:
+    - source: psychicbloom.bandcamp.com-album-psychic-bloom
+      quote: Lucky Day
+      accessed: 2026-11-21
+      locator: Label track listing
+  - value: https://detritirecords.bandcamp.com/track/lucky-day
+    references:
+    - source: detritirecords.bandcamp.com-album-psychic-bloom-s-t
+      quote: Lucky Day
+      accessed: 2026-11-21
+      locator: Label track listing
+  - value: https://music.apple.com/us/song/lucky-day/1303790434
+    references:
+    - source: music.apple.com-us-album-without-me-1303789561
+      quote: Lucky Day
+      accessed: 2026-11-21
+      locator: Apple edition
+  - value: https://open.spotify.com/track/73uMlVJS4vyzF8touDiWHb
+    references:
+    - source: open.spotify.com-album-1zcqhhm20a5bfl0mnpw0zn
+      quote: Lucky Day
+      accessed: 2026-11-21
+      locator: Spotify track list
