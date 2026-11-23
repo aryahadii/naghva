@@ -1,0 +1,98 @@
+id: Qe7x6sm
+type: release
+statements:
+  name:
+  - value:
+      text: Paresh-e Jal
+      language: en
+    references:
+    - source: badieh.bandcamp.com-track-paresh-e-jal-2
+      quote: Paresh-e Jal | Badieh
+      accessed: '2026-11-21'
+      locator: Bandcamp original track
+  performer:
+  - value: Qndvgwn
+    references:
+    - source: badieh.bandcamp.com-track-paresh-e-jal-2
+      quote: Paresh-e Jal | Badieh
+      accessed: '2026-11-21'
+      locator: Bandcamp original track
+  - value: Qghm78c
+    qualifiers:
+      role:
+      - daf
+      - percussion
+    references:
+    - source: badieh.bandcamp.com-album-badieh
+      quote: Omid Hatami - Kuze & Daf on track 1
+      accessed: '2026-11-21'
+      locator: Record personnel and track assignments
+  contributor:
+  - value: Q9sx4z9
+    qualifiers:
+      role: arranger
+    references:
+    - source: badieh.bandcamp.com-album-badieh
+      quote: Arrangments by Michel Gasco and Mohammad Miraghazadeh
+      accessed: '2026-11-21'
+      locator: Group arrangers
+  - value: Q2dapj7
+    qualifiers:
+      role: arranger
+    references:
+    - source: badieh.bandcamp.com-album-badieh
+      quote: Arrangments by Michel Gasco and Mohammad Miraghazadeh
+      accessed: '2026-11-21'
+      locator: Group arrangers
+  listen link:
+  - value: https://badieh.bandcamp.com/track/paresh-e-jal-2
+    references:
+    - source: badieh.bandcamp.com-track-paresh-e-jal-2
+      quote: Paresh-e Jal | Badieh
+      accessed: '2026-11-21'
+      locator: Bandcamp original track
+  - value: https://open.spotify.com/track/6StNFd8vxNaiCdGOtYVL0b
+    references:
+    - source: open.spotify.com-album-7cwnrpkma0ojnc78o4ohuw
+      quote: Paresh-e Jal
+      accessed: '2026-11-21'
+      locator: Spotify track 1
+  - value: https://music.apple.com/us/song/paresh-e-jal/1573736419
+    references:
+    - source: music.apple.com-us-album-badieh-ep-1573736418
+      quote: Paresh - E Jal
+      accessed: '2026-11-21'
+      locator: Apple Music track 1
+  - value: https://www.youtube.com/watch?v=mw4MZxifVxg
+    references:
+    - source: www.youtube.com-watch-v-mw4mzxifvxg
+      quote: Badieh - Paresh-e Jal (official video)
+      accessed: '2026-11-21'
+      locator: Native YouTube video title
+    - source: www.youtube.com-watch-v-mw4mzxifvxg
+      quote: Worlds Within Worlds
+      accessed: '2026-11-21'
+      locator: Publisher channel
+  release date:
+  - value:
+      date: '2021-08-08'
+    references:
+    - source: badieh.bandcamp.com-album-badieh
+      quote: released August 8, 2021
+      accessed: '2026-11-21'
+      locator: Original Bandcamp release
+  cover art:
+  - value: https://f4.bcbits.com/img/a1826543000_10.jpg
+    qualifiers:
+      credit:
+        text: a painting by Iranian artist Samira Toosi
+        language: en
+    references:
+    - source: badieh.bandcamp.com-album-badieh
+      quote: https://f4.bcbits.com/img/a1826543000_10.jpg
+      accessed: '2026-11-21'
+      locator: Original cover artwork
+    - source: badieh.bandcamp.com-album-badieh
+      quote: 'Artwork: a painting by Iranian artist Samira Toosi'
+      accessed: '2026-11-21'
+      locator: Cover art credit

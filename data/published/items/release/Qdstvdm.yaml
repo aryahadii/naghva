@@ -1,0 +1,41 @@
+id: Qdstvdm
+type: release
+statements:
+  name:
+  - value:
+      text: Badieh - Rashid Khan (Live at Gulbenkian 2024)
+      language: en
+    references:
+    - source: www.youtube.com-watch-v-gv-_bzpc5k8
+      quote: Badieh - Rashid Khan (Live at Gulbenkian 2024)
+      accessed: '2026-11-21'
+      locator: Label live video title
+  performer:
+  - value: Qndvgwn
+    references:
+    - source: www.youtube.com-watch-v-gv-_bzpc5k8
+      quote: Badieh - Rashid Khan (Live at Gulbenkian 2024)
+      accessed: '2026-11-21'
+      locator: Label live video title
+    - source: www.youtube.com-watch-v-gv-_bzpc5k8
+      quote: Worlds Within Worlds
+      accessed: '2026-11-21'
+      locator: Label channel
+  listen link:
+  - value: https://www.youtube.com/watch?v=gV-_BZPc5K8
+    references:
+    - source: www.youtube.com-watch-v-gv-_bzpc5k8
+      quote: Badieh - Rashid Khan (Live at Gulbenkian 2024)
+      accessed: '2026-11-21'
+      locator: Label live video title
+  cover art:
+  - value: https://i.ytimg.com/vi/gV-_BZPc5K8/hqdefault.jpg
+    qualifiers:
+      credit:
+        text: Worlds Within Worlds on YouTube
+        language: en
+    references:
+    - source: www.youtube.com-watch-v-gv-_bzpc5k8
+      quote: https://i.ytimg.com/vi/gV-_BZPc5K8/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Label performance thumbnail
