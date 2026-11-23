@@ -1,0 +1,30 @@
+id: Q2ehc6a
+type: person
+statements:
+  name:
+  - value:
+      text: Hana Sabri
+      language: en
+    references:
+    - source: soundcloud.com-hanasabrimusic-tracks
+      quote: Hana Sabri
+      accessed: '2026-11-21'
+      locator: Artist name
+  image:
+  - value: https://i1.sndcdn.com/avatars-yecx4kEvVa3Rd6Ly-4f3atg-t500x500.jpg
+    qualifiers:
+      credit:
+        text: Hana Sabri on SoundCloud
+        language: en
+    references:
+    - source: soundcloud.com-hanasabrimusic-tracks
+      quote: https://i1.sndcdn.com/avatars-yecx4kEvVa3Rd6Ly-4f3atg-t500x500.jpg
+      accessed: '2026-11-21'
+      locator: Portrait in the artist’s own profile
+  profile link:
+  - value: https://soundcloud.com/hanasabrimusic
+    references:
+    - source: soundcloud.com-hanasabrimusic-tracks
+      quote: Hana Sabri
+      accessed: '2026-11-21'
+      locator: Artist name
