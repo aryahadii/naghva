@@ -1,0 +1,47 @@
+id: Qa345dp
+type: release
+statements:
+  name:
+  - value:
+      text: Barab Barab Boom
+      language: en
+    references:
+    - source: music.apple.com-us-album-whos-yo-daddy-264972246
+      quote: Barab Barab Boom
+      accessed: 2026-11-21
+      locator: Apple Music track listing
+  performer:
+  - value: Qny2s3x
+    references:
+    - source: music.apple.com-us-album-whos-yo-daddy-264972246
+      quote: Who's Yo' Daddy? · Abjeez
+      accessed: 2026-11-21
+      locator: Album title and artist on Apple Music
+  listen link:
+  - value: https://music.apple.com/us/song/barab-barab-boom/264972364
+    references:
+    - source: music.apple.com-us-album-whos-yo-daddy-264972246
+      quote: Barab Barab Boom
+      accessed: 2026-11-21
+      locator: Apple Music track listing
+  - value: https://open.spotify.com/track/68yI5VO7EeH9umfL6qQBms
+    references:
+    - source: open.spotify.com-album-0afjzanp5wk7yccpobcij8
+      quote: Barab Barab Boom · Abjeez
+      accessed: 2026-11-21
+      locator: Spotify track title and performer
+  release date:
+  - value:
+      date: '2007-05-25'
+    references:
+    - source: music.apple.com-us-album-whos-yo-daddy-264972246
+      quote: '2007-05-25'
+      accessed: 2026-11-21
+      locator: MusicAlbum datePublished
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music/74/72/ef/mzi.yzmfvdbd.tif/600x600bb-60.jpg
+    references:
+    - source: music.apple.com-us-album-whos-yo-daddy-264972246
+      quote: Who's Yo' Daddy? · Abjeez
+      accessed: 2026-11-21
+      locator: Album title and artist on Apple Music
