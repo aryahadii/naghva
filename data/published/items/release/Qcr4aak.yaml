@@ -1,0 +1,62 @@
+id: Qcr4aak
+type: release
+statements:
+  name:
+  - value:
+      text: Namow
+      language: en
+    references:
+    - source: music.apple.com-us-album-woman-571393857
+      quote: Namow
+      accessed: 2026-11-21
+      locator: Published recording or album
+  listen link:
+  - value: https://music.apple.com/us/song/namow/571393860
+    references:
+    - source: music.apple.com-us-album-woman-571393857
+      quote: Namow
+      accessed: 2026-11-21
+      locator: Published recording or album
+  - value: https://open.spotify.com/track/0eZ7XtkXhqHtbniAL2JIDa
+    references:
+    - source: open.spotify.com-album-45qohleug6n2fzbfrnk7ct
+      quote: Namow
+      accessed: 2026-11-21
+      locator: Spotify track listing
+  - value: https://soundcloud.com/salimgs/namow
+    references:
+    - source: soundcloud.com-salimgs-namow
+      quote: namoW
+      accessed: 2026-11-21
+      locator: Artist upload name
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music/v4/16/7b/09/167b091a-f296-b86e-8d06-d6d312755d09/700261909356.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-woman-571393857
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music/v4/16/7b/09/167b091a-f296-b86e-8d06-d6d312755d09/700261909356.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Digital artwork
+  release date:
+  - value:
+      date: '2012-10-20'
+    references:
+    - source: music.apple.com-us-album-woman-571393857
+      quote: '2012-10-20'
+      accessed: 2026-11-21
+      locator: Digital edition date
+  performer:
+  - value: Qp3beww
+    references:
+    - source: salimworld.com-music-namowoman
+      quote: Composition, Performance
+      accessed: 2026-11-21
+      locator: Composer and player’s published credits
+  contributor:
+  - value: Qp3beww
+    qualifiers:
+      role: composer
+    references:
+    - source: salimworld.com-music-namowoman
+      quote: Composition, Performance
+      accessed: 2026-11-21
+      locator: Composer and player’s published credits

@@ -1,0 +1,72 @@
+id: Q7hktes
+type: release
+statements:
+  name:
+  - value:
+      text: When There Is More Beauty in the Contrary
+      language: en
+    references:
+    - source: www.salimworld.com-videos
+      quote: When There Is More Beauty in the Contrary
+      accessed: 2026-11-21
+      locator: Musician’s selected videos
+  performer:
+  - value: Qp3beww
+    references:
+    - source: www.salimworld.com-videos
+      quote: When There Is More Beauty in the Contrary
+      accessed: 2026-11-21
+      locator: Musician’s selected videos
+  - value: Qtqjb47
+    qualifiers:
+      role: oud
+    references:
+    - source: salimworld.com-music-single-when-there-is-more-beauty-in-the-contrary
+      quote: 'Oud: Negar Bouban'
+      accessed: 2026-11-21
+      locator: Oud performance
+  listen link:
+  - value: https://youtu.be/-YerBXnk_JQ
+    references:
+    - source: www.salimworld.com-videos
+      quote: When There Is More Beauty in the Contrary
+      accessed: 2026-11-21
+      locator: Musician’s selected videos
+  - value: https://negarboubanandsalimghazisaeedi.bandcamp.com/track/when-there-is-more-beauty-in-the-contrary
+    references:
+    - source: negarboubanandsalimghazisaeedi.bandcamp.com-track-when-there-is-more-beauty-in-the-contrary
+      quote: When There is More Beauty in the Contrary
+      accessed: 2026-11-21
+      locator: Issued track
+  cover art:
+  - value: https://f4.bcbits.com/img/a2511431096_10.jpg
+    references:
+    - source: negarboubanandsalimghazisaeedi.bandcamp.com-track-when-there-is-more-beauty-in-the-contrary
+      quote: https://f4.bcbits.com/img/a2511431096_10.jpg
+      accessed: 2026-11-21
+      locator: Official art
+  contributor:
+  - value: Qtqjb47
+    qualifiers:
+      role: composer
+    references:
+    - source: salimworld.com-music-single-when-there-is-more-beauty-in-the-contrary
+      quote: 'Composition: Negar Bouban and Salim Ghazi Saeedi'
+      accessed: 2026-11-21
+      locator: Joint composition
+  - value: Qp3beww
+    qualifiers:
+      role: composer
+    references:
+    - source: salimworld.com-music-single-when-there-is-more-beauty-in-the-contrary
+      quote: 'Composition: Negar Bouban and Salim Ghazi Saeedi'
+      accessed: 2026-11-21
+      locator: Joint composition
+  release date:
+  - value:
+      date: '2011-01-01'
+    references:
+    - source: salimworld.com-music-single-when-there-is-more-beauty-in-the-contrary
+      quote: 1/1/11 Single
+      accessed: 2026-11-21
+      locator: Release date

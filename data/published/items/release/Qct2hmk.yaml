@@ -1,0 +1,69 @@
+id: Qct2hmk
+type: release
+statements:
+  name:
+  - value:
+      text: Human Encounter
+      language: en
+    references:
+    - source: music.apple.com-us-album-you-many-one-devils-474248688
+      quote: Human Encounter
+      accessed: 2026-11-21
+      locator: Published recording or album
+  listen link:
+  - value: https://music.apple.com/us/album/human-encounter/474248688
+    references:
+    - source: music.apple.com-us-album-you-many-one-devils-474248688
+      quote: Human Encounter
+      accessed: 2026-11-21
+      locator: Published recording or album
+  - value: https://open.spotify.com/album/4nCpozOIm7IUv8HFk2Rhqa
+    references:
+    - source: open.spotify.com-album-4ncpozoim7iuv8hfk2rhqa
+      quote: Human Encounter
+      accessed: 2026-11-21
+      locator: Spotify track listing
+  - value: https://soundcloud.com/salimgs/sets/human-encounter
+    references:
+    - source: soundcloud.com-salimgs-sets-human-encounter
+      quote: Salim Ghazi Saeedi
+      accessed: 2026-11-21
+      locator: Album published by artist
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music/3d/3c/58/mzi.tqizqhrz.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-you-many-one-devils-474248688
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music/3d/3c/58/mzi.tqizqhrz.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Digital artwork
+  release date:
+  - value:
+      date: '2011-10-01'
+    references:
+    - source: music.apple.com-us-album-you-many-one-devils-474248688
+      quote: '2011-10-01'
+      accessed: 2026-11-21
+      locator: Digital edition date
+  release type:
+  - value: album
+    references:
+    - source: music.apple.com-us-album-you-many-one-devils-474248688
+      quote: Human Encounter
+      accessed: 2026-11-21
+      locator: Published recording or album
+  performer:
+  - value: Qp3beww
+    references:
+    - source: salimworld.com-music-human-encounter
+      quote: 'All Music Composed, Performed, Recorded & Mixed by: Salim Ghazi Saeedi'
+      accessed: 2026-11-21
+      locator: Composer and player’s published credits
+  contributor:
+  - value: Qp3beww
+    qualifiers:
+      role: composer
+    references:
+    - source: salimworld.com-music-human-encounter
+      quote: 'All Music Composed, Performed, Recorded & Mixed by: Salim Ghazi Saeedi'
+      accessed: 2026-11-21
+      locator: Composer and player’s published credits
