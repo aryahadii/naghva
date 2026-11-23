@@ -1,0 +1,67 @@
+id: Qdqsbza
+type: release
+statements:
+  name:
+  - value:
+      text: Tombak Solo
+      language: en
+    references:
+    - source: open.spotify.com-track-720mgqh6z8kqghd9scq2fy
+      quote: Tombak Solo - song and lyrics by Karvan | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+    - source: open.spotify.com-album-6ea5qy5kzcfbv4apxazfrr
+      quote: Tombak Solo
+      accessed: '2026-11-21'
+      locator: Track 9
+  performer:
+  - value: Qepzbpa
+    references:
+    - source: open.spotify.com-track-720mgqh6z8kqghd9scq2fy
+      quote: Tombak Solo - song and lyrics by Karvan | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+    - source: etniskmusikklubb.no-produkt-where-the-music-traditions-from-baluchistan-persia-and-india-meet
+      quote: Javid Afsari Rad – Santor
+      accessed: '2026-11-21'
+      locator: Recording personnel
+  - value: Qset3q2
+    references:
+    - source: etniskmusikklubb.no-produkt-where-the-music-traditions-from-baluchistan-persia-and-india-meet
+      quote: Majid Hesabi
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: tombak
+  listen link:
+  - value: https://open.spotify.com/track/720Mgqh6z8kQGHd9scq2fy
+    references:
+    - source: open.spotify.com-track-720mgqh6z8kqghd9scq2fy
+      quote: Tombak Solo - song and lyrics by Karvan | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1442843525
+    references:
+    - source: music.apple.com-us-song-1442843525
+      quote: ‎Tombak Solo - Song with Lyrics by KARVAN - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d0000b273afa1b2956d8c6e4554784d11
+    references:
+    - source: open.spotify.com-album-6ea5qy5kzcfbv4apxazfrr
+      quote: https://i.scdn.co/image/ab67616d0000b273afa1b2956d8c6e4554784d11
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original publisher artwork
+        language: en
+  release date:
+  - value:
+      date: '2001'
+    references:
+    - source: open.spotify.com-album-6ea5qy5kzcfbv4apxazfrr
+      quote: '2001'
+      accessed: '2026-11-21'
+      locator: Original release
