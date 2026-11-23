@@ -1,5 +1,6 @@
 ---
 url: https://www.metal-archives.com/albums/Ahoora/The_Call_of_Beneath/109036
+archive: "https://web.archive.org/web/20250111060547/https://www.metal-archives.com/albums/Ahoora/The_Call_of_Beneath/109036"
 title: 'Ahoora - The Call of Beneath - Encyclopaedia Metallum: The Metal Archives'
 tier: discography
 language: en

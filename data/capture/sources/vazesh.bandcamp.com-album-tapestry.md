@@ -1,5 +1,6 @@
 ---
 url: https://vazesh.bandcamp.com/album/tapestry
+archive: "https://web.archive.org/web/20260619184210/https://vazesh.bandcamp.com/album/tapestry"
 title: Tapestry | Vazesh
 kind: web page
 tier: own

@@ -1,5 +1,6 @@
 ---
 url: https://tympanikaudio.bandcamp.com/track/conflict
+archive: "https://web.archive.org/web/20250608145443/https://tympanikaudio.bandcamp.com/track/conflict"
 title: Conflict | Idlefon | Tympanik Audio
 kind: web page
 language: en

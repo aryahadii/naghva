@@ -1,5 +1,6 @@
 ---
 url: https://tirgan2023.tirgan.ca/artist-guest/ooldouz-pouri/
+archive: "https://web.archive.org/web/20260313050027/https://tirgan2023.tirgan.ca/artist-guest/ooldouz-pouri/"
 title: Ooldouz Pouri | Tirgan Summer Festival 2023
 kind: web page
 language: en

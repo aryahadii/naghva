@@ -1,5 +1,6 @@
 ---
 url: https://www.archaeologychannel.org/video-guide/strata-portraits-of-humanity/2883-strata-september-2019
+archive: "https://web.archive.org/web/20260421094716/https://www.archaeologychannel.org/video-guide/strata-portraits-of-humanity/2883-strata-september-2019"
 title: Strata - September 2019
 kind: web page
 tier: other

@@ -1,5 +1,6 @@
 ---
 url: https://www.diasporaartsconnection.org/events/2019/7/20/borderless-band-ft-mike-block-at-freight-amp-salvage
+archive: "https://web.archive.org/web/20210629125325/https://www.diasporaartsconnection.org/events/2019/7/20/borderless-band-ft-mike-block-at-freight-amp-salvage"
 title: Borderless Band
 tier: own
 language: en

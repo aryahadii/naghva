@@ -1,5 +1,6 @@
 ---
 url: https://tympanikaudio.bandcamp.com/album/intensive-collectivity-known-as-city
+archive: "https://web.archive.org/web/20260915193416/https://tympanikaudio.bandcamp.com/album/intensive-collectivity-known-as-city"
 title: Intensive Collectivity Known As City | Idlefon | Tympanik Audio
 kind: web page
 language: en

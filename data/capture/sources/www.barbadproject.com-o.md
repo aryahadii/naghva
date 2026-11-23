@@ -1,5 +1,6 @@
 ---
 url: https://www.barbadproject.com/o
+archive: "https://web.archive.org/web/20260610092131/https://www.barbadproject.com/o"
 title: بیوگرافی
 status: processed
 language: en

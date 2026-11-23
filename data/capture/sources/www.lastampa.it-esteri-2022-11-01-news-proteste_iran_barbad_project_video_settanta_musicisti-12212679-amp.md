@@ -1,5 +1,6 @@
 ---
 url: https://www.lastampa.it/esteri/2022/11/01/news/proteste_iran_barbad_project_video_settanta_musicisti-12212679/amp/
+archive: "https://web.archive.org/web/20221111162825/https://www.lastampa.it/esteri/2022/11/01/news/proteste_iran_barbad_project_video_settanta_musicisti-12212679/amp/"
 title: Barbad Project, 70 musicisti da 11 nazioni suonano insieme per un video dedicato alle proteste in Iran -
   La Stampa
 status: processed

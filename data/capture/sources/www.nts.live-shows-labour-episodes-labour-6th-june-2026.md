@@ -1,5 +1,6 @@
 ---
 url: https://www.nts.live/shows/labour/episodes/labour-6th-june-2026
+archive: "https://web.archive.org/web/20260715041642/https://www.nts.live/shows/labour/episodes/labour-6th-june-2026"
 title: Labour w/ Omar Ndiaye 6th June 2026 | Listen on NTS
 status: processed
 language: en

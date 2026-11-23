@@ -1,5 +1,6 @@
 ---
 url: https://www.hoerspielundfeature.de/ctm-radio-lab-hoerstueck-ueber-den-lauf-der-zeit-100.html
+archive: "https://web.archive.org/web/20260710073013/https://www.hoerspielundfeature.de/ctm-radio-lab-hoerstueck-ueber-den-lauf-der-zeit-100.html"
 title: 'CTM Radio Lab: Hörstück über den Lauf der Zeit - Nothingness; Life, Nothingness'
 kind: web page
 language: de

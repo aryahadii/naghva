@@ -1,5 +1,6 @@
 ---
 url: https://t.me/liana_sharifian/17
+archive: "https://web.archive.org/web/20220718123537/https://t.me/liana_sharifian/17"
 title: گُذار
 tier: own
 language: fa

@@ -1,5 +1,6 @@
 ---
 url: https://www.callies.berlin/en/residents/12-labour
+archive: "https://web.archive.org/web/20260606161302/https://www.callies.berlin/en/residents/12-labour"
 title: LABOUR - Callie's
 status: processed
 language: en

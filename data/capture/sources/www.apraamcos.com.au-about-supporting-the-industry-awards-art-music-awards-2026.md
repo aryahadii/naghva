@@ -1,5 +1,6 @@
 ---
 url: https://www.apraamcos.com.au/about/supporting-the-industry/awards/art-music-awards-2026
+archive: "https://web.archive.org/web/20261118051013/https://www.apraamcos.com.au/about/supporting-the-industry/awards/art-music-awards-2026"
 title: 2026 Art Music Awards
 kind: web page
 tier: other

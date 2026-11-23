@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/themastmusic/upupup
+archive: "https://web.archive.org/web/20230530012810/http://soundcloud.com/themastmusic/upupup"
 title: UpUpUp
 tier: own
 language: en

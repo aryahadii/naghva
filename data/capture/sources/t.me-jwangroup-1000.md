@@ -1,5 +1,6 @@
 ---
 url: https://t.me/jwangroup/1000
+archive: "https://web.archive.org/web/20260213061354/https://t.me/jwangroup/1000"
 title: خونِ ارغوان‌ها
 kind: web page
 tier: own

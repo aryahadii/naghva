@@ -1,5 +1,6 @@
 ---
 url: https://www.chaiandconversation.com/2017/interview-fared-shafinury-musician
+archive: "https://web.archive.org/web/20260312073533/https://www.chaiandconversation.com/2017/interview-fared-shafinury-musician"
 title: Interview with Fared Shafinury
 tier: journalism
 language: en

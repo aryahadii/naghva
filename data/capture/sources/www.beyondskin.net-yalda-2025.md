@@ -1,5 +1,6 @@
 ---
 url: https://www.beyondskin.net/yalda-2025
+archive: "https://web.archive.org/web/20260711171345/https://www.beyondskin.net/yalda-2025"
 title: Yalda 2025 - Beyond Skin
 status: processed
 language: en

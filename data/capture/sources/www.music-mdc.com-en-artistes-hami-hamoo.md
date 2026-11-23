@@ -1,5 +1,6 @@
 ---
 url: https://www.music-mdc.com/en/artistes/hami-hamoo/
+archive: "https://web.archive.org/web/20260511090054/https://www.music-mdc.com/en/artistes/hami-hamoo/"
 title: HAMI HAMOO | Maggie Doherty – Music Development Company
 tier: own
 language: en

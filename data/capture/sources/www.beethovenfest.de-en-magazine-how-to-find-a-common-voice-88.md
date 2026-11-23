@@ -1,5 +1,6 @@
 ---
 url: https://www.beethovenfest.de/en/magazine/how-to-find-a-common-voice/88
+archive: "https://web.archive.org/web/20260606195217/https://www.beethovenfest.de/en/magazine/how-to-find-a-common-voice/88"
 title: How to find a common voice | Beethovenfest Magazin
 tier: own
 language: en

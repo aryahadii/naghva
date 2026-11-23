@@ -1,5 +1,6 @@
 ---
 url: https://www.berklee.edu/berklee-now/news/student-spotlight-bahar-badieitabar
+archive: "https://web.archive.org/web/20260115003607/https://www.berklee.edu/berklee-now/news/student-spotlight-bahar-badieitabar"
 title: 'Student Spotlight: Bahar Badieitabar | Berklee'
 status: processed
 language: en

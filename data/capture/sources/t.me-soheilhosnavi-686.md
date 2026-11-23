@@ -1,5 +1,6 @@
 ---
 url: https://t.me/soheilhosnavi/686
+archive: "https://web.archive.org/web/20220521091002/https://t.me/soheilhosnavi/686"
 title: تک‌نوازی سنتور در شب های موسیقی فرشته
 status: processed
 tier: own

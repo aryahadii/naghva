@@ -1,5 +1,6 @@
 ---
 url: https://stereotypeduo.bandcamp.com/track/code
+archive: "https://web.archive.org/web/20240725142301/https://stereotypeduo.bandcamp.com/track/code"
 title: Code | Stereotype
 kind: web page
 language: en

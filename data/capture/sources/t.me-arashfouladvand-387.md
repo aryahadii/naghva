@@ -1,5 +1,6 @@
 ---
 url: https://t.me/ArashFouladvand/387
+archive: "https://web.archive.org/web/20220526072804/https://t.me/arashfouladvand/387"
 title: Arash Fouladvand · 387
 kind: web page
 tier: own

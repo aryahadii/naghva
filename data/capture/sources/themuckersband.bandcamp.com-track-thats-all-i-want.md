@@ -1,5 +1,6 @@
 ---
 url: https://themuckersband.bandcamp.com/track/thats-all-i-want
+archive: "https://web.archive.org/web/20250910002104/https://themuckersband.bandcamp.com/track/thats-all-i-want"
 title: That's All I Want | The Muckers
 kind: web page
 tier: own

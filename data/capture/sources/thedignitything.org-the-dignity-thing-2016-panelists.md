@@ -1,5 +1,6 @@
 ---
 url: https://thedignitything.org/the-dignity-thing-2016-panelists/
+archive: "https://web.archive.org/web/20260719033207/https://thedignitything.org/the-dignity-thing-2016-panelists/"
 title: 'The Dignity Thing 2016: Panelists | The Dignity Thing'
 kind: web page
 tier: own

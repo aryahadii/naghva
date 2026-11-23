@@ -1,5 +1,6 @@
 ---
 url: https://www.albakultur.de/download/alba/AOF_Programmheft_Exil_20.02.2017.pdf
+archive: "https://web.archive.org/web/20200926145949/https://www.albakultur.de/download/alba/AOF_Programmheft_Exil_20.02.2017.pdf"
 title: Musik im Exil, concert programme
 tier: own
 language: en

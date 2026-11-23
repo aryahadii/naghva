@@ -1,5 +1,6 @@
 ---
 url: https://www.nts.live/shows/labour/episodes/labour-17th-june-2023
+archive: "https://web.archive.org/web/20260412233810/https://www.nts.live/shows/labour/episodes/labour-17th-june-2023"
 title: Labour 17th June 2023 | Listen on NTS
 status: processed
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://www.beyondmusic.org/artist/797
+archive: "https://web.archive.org/web/20260711013143/https://www.beyondmusic.org/artist/797"
 title: Shabnam Parvaresh's profile - Beyond Music
 status: processed
 language: en

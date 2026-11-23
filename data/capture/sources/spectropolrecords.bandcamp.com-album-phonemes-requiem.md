@@ -1,5 +1,6 @@
 ---
 url: https://spectropolrecords.bandcamp.com/album/phonemes-requiem
+archive: "https://web.archive.org/web/20250813144835/https://spectropolrecords.bandcamp.com/album/phonemes-requiem"
 title: Phonemes Requiem | Ehsan Saboohi | spectropolrecords
 status: processed
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://t.me/abjeezofficial/76
+archive: "https://web.archive.org/web/20251227093032/https://t.me/abjeezofficial/76"
 title: ABJEEZ official | Drömm
 tier: own
 language: en

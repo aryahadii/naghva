@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/sinasalimi/young-soldier
+archive: "https://web.archive.org/web/20251006084110/https://soundcloud.com/sinasalimi/young-soldier"
 title: Stream سرباز جوان - Young Soldier by Sina  Salimi | Listen online for free on SoundCloud
 kind: web page
 language: en

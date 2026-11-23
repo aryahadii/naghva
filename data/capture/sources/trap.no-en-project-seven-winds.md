@@ -1,5 +1,6 @@
 ---
 url: https://trap.no/en/project/seven-winds
+archive: "https://web.archive.org/web/20260617185358/https://trap.no/en/project/seven-winds"
 title: Seven Winds | English
 kind: web page
 language: en

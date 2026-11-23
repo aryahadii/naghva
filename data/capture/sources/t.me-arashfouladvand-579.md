@@ -1,5 +1,6 @@
 ---
 url: https://t.me/ArashFouladvand/579
+archive: "https://web.archive.org/web/20240419023000/https://t.me/arashfouladvand/579"
 title: Arash Fouladvand · 579
 kind: web page
 tier: own

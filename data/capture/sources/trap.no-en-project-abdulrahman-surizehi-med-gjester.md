@@ -1,5 +1,6 @@
 ---
 url: https://trap.no/en/project/abdulrahman-surizehi-med-gjester
+archive: "https://web.archive.org/web/20260209144505/https://trap.no/en/project/abdulrahman-surizehi-med-gjester"
 title: Abdulrahman Surizehi med gjester | English
 kind: web page
 language: en

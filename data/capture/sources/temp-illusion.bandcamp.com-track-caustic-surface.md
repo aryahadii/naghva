@@ -1,5 +1,6 @@
 ---
 url: https://temp-illusion.bandcamp.com/track/caustic-surface
+archive: "https://web.archive.org/web/20240601205111/https://temp-illusion.bandcamp.com/track/caustic-surface"
 title: Caustic Surface | Temp-Illusion
 kind: web page
 language: en

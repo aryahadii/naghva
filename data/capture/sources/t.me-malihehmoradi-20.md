@@ -1,5 +1,6 @@
 ---
 url: https://t.me/malihehmoradi/20
+archive: "https://web.archive.org/web/20260111050351/https://t.me/malihehmoradi/20"
 title: کنسرت تور استرالیا، آدلاید
 tier: own
 language: fa

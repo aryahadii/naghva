@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/user-643553014/labour-w-abdou-guite-seck
+archive: "https://web.archive.org/web/20251220074616/https://soundcloud.com/user-643553014/labour-w-abdou-guite-seck"
 title: Stream Labour w/ Abdou Guité Seck 180125 by NTS 2024-2025 | Listen online for free on SoundCloud
 status: processed
 language: en

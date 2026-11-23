@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/taraamoon/mal-ll
+archive: "https://web.archive.org/web/20260511012050/https://soundcloud.com/taraamoon/mal-ll"
 title: Stream Malāll | مَلال by TARAAMOON • ْتَرامون | Listen online for free on SoundCloud
 kind: web page
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://www.kaltblut-magazine.com/in-conversation-with-ava-rasti/
+archive: "https://web.archive.org/web/20261002011820/https://www.kaltblut-magazine.com/in-conversation-with-ava-rasti/"
 title: “Music narrates a story with a language” – In conversation with Ava Rasti - KALTBLUT Magazine
 kind: web page
 language: en

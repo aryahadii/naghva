@@ -1,5 +1,6 @@
 ---
 url: https://www.golbang.se/music
+archive: "https://web.archive.org/web/20260317004324/https://golbang.se/music"
 title: Music | Golbang
 tier: own
 language: en

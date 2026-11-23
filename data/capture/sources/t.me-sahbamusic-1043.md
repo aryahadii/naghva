@@ -1,5 +1,6 @@
 ---
 url: https://t.me/Sahbamusic/1043
+archive: "https://web.archive.org/web/20260126173117/https://t.me/Sahbamusic/1043"
 title: دستگاه ماهور، اجرای کامل درآمد، ردیف استاد شهنازی
 status: processed
 language: fa

@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/user-62184333/labour-w-marie-ngone-ndione-30th-august-300821
+archive: "https://web.archive.org/web/20220708224754/https://soundcloud.com/user-62184333/labour-w-marie-ngone-ndione-30th-august-300821"
 title: Stream Labour w/ Marie Ngone Ndione - 30th August 300821 by NTS Monday | Listen online for free on SoundCloud
 status: processed
 language: en

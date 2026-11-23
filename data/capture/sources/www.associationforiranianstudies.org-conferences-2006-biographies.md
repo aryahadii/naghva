@@ -1,5 +1,6 @@
 ---
 url: https://www.associationforiranianstudies.org/conferences/2006/biographies
+archive: "https://web.archive.org/web/20260808213120/https://www.associationforiranianstudies.org/conferences/2006/biographies"
 title: Bioraphies | Association for Iranian Studies (AIS) | انجمن ایران‌ پژوهی
 tier: own
 language: en

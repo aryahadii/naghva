@@ -1,5 +1,6 @@
 ---
 url: https://www.guitarworld.com/news/heavy-as-texas-premiere-to-keep-a-promise-music-video
+archive: "https://web.archive.org/web/20260618041640/https://www.guitarworld.com/news/heavy-as-texas-premiere-to-keep-a-promise-music-video"
 title: To Keep a Promise premiere
 tier: journalism
 language: en

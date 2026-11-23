@@ -1,5 +1,6 @@
 ---
 url: https://www.kerrang.com/album-review-lowen-do-not-go-to-war-with-the-demons-of-mazandaran
+archive: "https://web.archive.org/web/20241213081908/https://www.kerrang.com/album-review-lowen-do-not-go-to-war-with-the-demons-of-mazandaran"
 title: 'Album review: Lowen – Do Not Go To War With The Demons Of Mazandaran'
 tier: journalism
 language: en

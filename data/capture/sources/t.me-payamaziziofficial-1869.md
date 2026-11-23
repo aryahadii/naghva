@@ -1,5 +1,6 @@
 ---
 url: https://t.me/payamaziziofficial/1869
+archive: "https://web.archive.org/web/20230713022219/https://t.me/payamaziziofficial/1869"
 title: پیام عزیزی
 tier: own
 language: fa

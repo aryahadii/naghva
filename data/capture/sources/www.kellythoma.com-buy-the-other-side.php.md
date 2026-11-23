@@ -1,5 +1,6 @@
 ---
 url: https://www.kellythoma.com/buy-the-other-side.php
+archive: "https://web.archive.org/web/20261012150639/https://www.kellythoma.com/buy-the-other-side.php"
 title: Kelly Thoma
 kind: web page
 tier: own

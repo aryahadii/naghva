@@ -1,5 +1,6 @@
 ---
 url: https://www.metal-archives.com/albums/Prong/Zero_Days/651318
+archive: "https://web.archive.org/web/20240921044527/https://www.metal-archives.com/albums/Prong/Zero_Days/651318"
 title: 'Prong: Zero Days'
 tier: discography
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://www.hamedsadeghi.com/discography/empty-voices
+archive: "https://web.archive.org/web/20250927094733/https://www.hamedsadeghi.com/discography/empty-voices"
 title: Empty Voices — Hamed Sadeghi
 kind: web page
 tier: own

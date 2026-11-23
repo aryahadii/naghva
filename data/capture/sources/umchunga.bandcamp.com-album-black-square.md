@@ -1,5 +1,6 @@
 ---
 url: https://umchunga.bandcamp.com/album/black-square
+archive: "https://web.archive.org/web/20210831165305/https://umchunga.bandcamp.com/album/black-square"
 title: black square | Umchunga
 kind: web page
 language: en

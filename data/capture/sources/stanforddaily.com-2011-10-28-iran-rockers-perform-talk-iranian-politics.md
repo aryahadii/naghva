@@ -1,5 +1,6 @@
 ---
 url: https://stanforddaily.com/2011/10/28/iran-rockers-perform-talk-iranian-politics/
+archive: "https://web.archive.org/web/20260608015623/https://stanforddaily.com/2011/10/28/iran-rockers-perform-talk-iranian-politics/"
 title: Iranian rockers react to govt oppression
 kind: web page
 tier: journalism

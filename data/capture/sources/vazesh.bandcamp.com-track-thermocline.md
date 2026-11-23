@@ -1,5 +1,6 @@
 ---
 url: https://vazesh.bandcamp.com/track/thermocline
+archive: "https://web.archive.org/web/20250529125051/https://vazesh.bandcamp.com/track/thermocline"
 title: Thermocline | Vazesh
 kind: web page
 tier: own

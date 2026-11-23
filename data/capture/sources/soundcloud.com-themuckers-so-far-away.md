@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/themuckers/so-far-away
+archive: "https://web.archive.org/web/20210205160026/https://soundcloud.com/themuckers/so-far-away"
 title: Stream So Far Away by The Muckers | Listen online for free on SoundCloud
 kind: web page
 tier: own

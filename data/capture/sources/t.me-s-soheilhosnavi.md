@@ -1,5 +1,6 @@
 ---
 url: https://t.me/s/soheilhosnavi
+archive: "https://web.archive.org/web/20220521084728/https://t.me/s/soheilhosnavi"
 title: Soheil Hosnavi – Telegram
 status: processed
 language: fa

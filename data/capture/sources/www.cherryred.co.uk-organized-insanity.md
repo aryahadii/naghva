@@ -1,5 +1,6 @@
 ---
 url: https://www.cherryred.co.uk/organized-insanity
+archive: "https://web.archive.org/web/20260420065951/https://www.cherryred.co.uk/organized-insanity"
 title: 'Blurred Vision: Organized Insanity, CD by Blurred Vision - Cherry Red'
 tier: own
 language: en

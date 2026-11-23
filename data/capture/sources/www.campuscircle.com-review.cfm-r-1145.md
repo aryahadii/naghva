@@ -1,5 +1,6 @@
 ---
 url: https://www.campuscircle.com/review.cfm?r=1145
+archive: "https://web.archive.org/web/20160729022326/http://www.campuscircle.com/review.cfm?r=1145"
 title: Slow Motion Reign
 kind: web page
 tier: journalism

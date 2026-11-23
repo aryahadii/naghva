@@ -1,5 +1,6 @@
 ---
 url: https://t.me/liana_sharifian/10
+archive: "https://web.archive.org/web/20220718071459/https://t.me/liana_sharifian/10"
 title: کوراب
 tier: own
 language: fa

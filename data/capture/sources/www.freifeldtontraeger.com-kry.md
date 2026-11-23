@@ -1,5 +1,6 @@
 ---
 url: https://www.freifeldtontraeger.com/kry
+archive: "https://web.archive.org/web/20260812075446/https://www.freifeldtontraeger.com/kry"
 title: /kry
 tier: discography
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://t.me/soheilhosnavi/1031
+archive: "https://web.archive.org/web/20260102185803/https://t.me/soheilhosnavi/1031"
 title: آبان سی و چهارم 🍁
 status: processed
 tier: own

@@ -1,5 +1,6 @@
 ---
 url: https://vazesh.bandcamp.com/track/lilac
+archive: "https://web.archive.org/web/20260619184215/https://vazesh.bandcamp.com/track/lilac"
 title: Lilac | Vazesh
 kind: web page
 tier: own

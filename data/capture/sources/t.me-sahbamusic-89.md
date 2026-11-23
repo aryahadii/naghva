@@ -1,5 +1,6 @@
 ---
 url: https://t.me/Sahbamusic/89
+archive: "https://web.archive.org/web/20221206155105/https://t.me/Sahbamusic/89"
 title: آواز دشتی سالن ل پویزن روژ، ۲۰۱۶
 status: processed
 language: fa

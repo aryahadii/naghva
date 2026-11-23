@@ -1,5 +1,6 @@
 ---
 url: https://www.nts.live/shows/labour/episodes/labour-8th-june-2024
+archive: "https://web.archive.org/web/20260307052256/https://www.nts.live/shows/labour/episodes/labour-8th-june-2024"
 title: LABOUR w/ Assane Ndiaye 8th June 2024 | Listen on NTS
 status: processed
 language: en

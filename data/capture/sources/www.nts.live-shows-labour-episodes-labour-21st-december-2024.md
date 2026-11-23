@@ -1,5 +1,6 @@
 ---
 url: https://www.nts.live/shows/labour/episodes/labour-21st-december-2024
+archive: "https://web.archive.org/web/20251214020756/https://www.nts.live/shows/labour/episodes/labour-21st-december-2024"
 title: Labour - Madiodio Nging 21st December 2024 | Listen on NTS
 status: processed
 language: en

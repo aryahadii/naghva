@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/user-643553014/labour-w-soda-mama-fall-231124
+archive: "https://web.archive.org/web/20250729035928/https://soundcloud.com/user-643553014/labour-w-soda-mama-fall-231124"
 title: Stream LABOUR w/ Soda Mama Fall 231124 by NTS 2024-2025 | Listen online for free on SoundCloud
 status: processed
 language: en

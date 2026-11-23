@@ -1,5 +1,6 @@
 ---
 url: https://t.me/s/niaznawab
+archive: "https://web.archive.org/web/20240714102722/https://t.me/s/niaznawab"
 title: Niaz Nawab Music – Telegram
 kind: web page
 tier: own

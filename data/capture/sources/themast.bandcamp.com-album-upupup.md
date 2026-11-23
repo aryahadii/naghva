@@ -1,5 +1,6 @@
 ---
 url: https://themast.bandcamp.com/album/upupup
+archive: "https://web.archive.org/web/20250817180116/https://themast.bandcamp.com/album/upupup"
 title: UpUpUp | The Mast
 tier: own
 language: en

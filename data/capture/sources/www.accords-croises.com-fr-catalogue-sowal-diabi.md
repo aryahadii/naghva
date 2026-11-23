@@ -1,5 +1,6 @@
 ---
 url: https://www.accords-croises.com/fr/catalogue/sowal-diabi
+archive: "https://web.archive.org/web/20260813022837/https://www.accords-croises.com/fr/catalogue/sowal-diabi"
 title: Sowal Diabi | Accords Croisés
 tier: own
 language: fr

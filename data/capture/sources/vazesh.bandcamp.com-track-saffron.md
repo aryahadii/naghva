@@ -1,5 +1,6 @@
 ---
 url: https://vazesh.bandcamp.com/track/saffron
+archive: "https://web.archive.org/web/20260619184221/https://vazesh.bandcamp.com/track/saffron"
 title: Saffron | Vazesh
 kind: web page
 tier: own

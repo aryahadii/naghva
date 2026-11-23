@@ -1,5 +1,6 @@
 ---
 url: https://www.kaltblut-magazine.com/salvaation-unleashes-a-dark-wave-experience-with-loop-music-video-and-debut-ep-release/
+archive: "https://web.archive.org/web/20261001162701/https://www.kaltblut-magazine.com/salvaation-unleashes-a-dark-wave-experience-with-loop-music-video-and-debut-ep-release/"
 title: Salvaation Unleashes a Dark Wave Experience with ‘LOOP’ Music Video and Debut EP Release - KALTBLUT Magazine
 kind: web page
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/taraamoon/04-dasta-s-kaboos-x-taraamoon
+archive: "https://web.archive.org/web/20210328081033/https://soundcloud.com/taraamoon/04-dasta-s-kaboos-x-taraamoon"
 title: Stream Dastās (Kaboos X Taraamoon) by TARAAMOON • ْتَرامون | Listen online for free on SoundCloud
 kind: web page
 language: en

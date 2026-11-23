@@ -1,5 +1,6 @@
 ---
 url: https://t.me/Sahbamusic/20
+archive: "https://web.archive.org/web/20221206155129/https://t.me/Sahbamusic/20"
 title: سرخ روي، صهبا مطلبي، آواز كارمينا اسكوبار و سينا سرلك
 status: processed
 language: fa

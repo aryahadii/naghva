@@ -1,5 +1,6 @@
 ---
 url: https://www.iranianartsnow.com/
+archive: "https://web.archive.org/web/20260809013702/http://www.iranianartsnow.com/"
 title: Iranian Arts Now | Un site utilisant WordPress
 kind: web page
 language: en

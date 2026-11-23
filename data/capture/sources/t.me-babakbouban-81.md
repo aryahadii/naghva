@@ -1,5 +1,6 @@
 ---
 url: https://t.me/babakbouban/81
+archive: "https://web.archive.org/web/20251227164457/https://t.me/babakbouban/81"
 title: بابک بوبان، آرشیو موسیقی
 tier: own
 language: fa

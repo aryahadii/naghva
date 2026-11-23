@@ -1,5 +1,6 @@
 ---
 url: https://www.abc.net.au/listen/programs/jazztrack-live/hamed-sadeghi-empty-voices-live-2024/104240732
+archive: "https://web.archive.org/web/20241004171406/https://www.abc.net.au/listen/programs/jazztrack-live/hamed-sadeghi-empty-voices-live-2024/104240732"
 title: 'Hamed Sadeghi: Empty Voices Live 2024 - ABC listen'
 kind: web page
 tier: other

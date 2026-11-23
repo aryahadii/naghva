@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/user-202286394-991268468/labour-w-ouzin-ndiaye-201225
+archive: "https://web.archive.org/web/20260301012116/https://soundcloud.com/user-202286394-991268468/labour-w-ouzin-ndiaye-201225"
 title: Stream Labour w/ Ouzin Ndiaye 201225 by NTS Latest | Listen online for free on SoundCloud
 status: processed
 language: en

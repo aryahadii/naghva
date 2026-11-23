@@ -1,5 +1,6 @@
 ---
 url: https://tirgan.ca/b/2013/programs/music/erwin-khachikian.html
+archive: "https://web.archive.org/web/20260509190727/https://tirgan.ca/b/2013/programs/music/erwin-khachikian.html"
 title: Erwin Khachikian and Karmandan | Tirgan
 kind: web page
 tier: own

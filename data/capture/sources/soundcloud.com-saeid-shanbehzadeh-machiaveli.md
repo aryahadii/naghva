@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/saeid-shanbehzadeh/machiaveli
+archive: "https://web.archive.org/web/20240715102341/https://soundcloud.com/saeid-shanbehzadeh/machiaveli"
 title: Machiaveli
 tier: own
 kind: web page

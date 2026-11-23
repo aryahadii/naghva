@@ -1,5 +1,6 @@
 ---
 url: https://t.me/soheilhosnavi/591
+archive: "https://web.archive.org/web/20220521085140/https://t.me/soheilhosnavi/591"
 title: کوتاه از بداهه اصفهان فانتزی و
 status: processed
 tier: own

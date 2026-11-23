@@ -1,5 +1,6 @@
 ---
 url: https://www.nts.live/shows/labour/episodes/labour-10th-may-2021
+archive: "https://web.archive.org/web/20211017231336/https://www.nts.live/shows/labour/episodes/labour-10th-may-2021"
 title: Labour - Thione Seck Tribute 10th May 2021 | Listen on NTS
 status: processed
 language: en

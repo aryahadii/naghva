@@ -1,5 +1,6 @@
 ---
 url: https://www.mh-freiburg.de/hochschule/allgemeines/aktuelles/details/filme-zum-interkulturellen-jazz-projekt-nah-sind-online
+archive: "https://web.archive.org/web/20251117190020/https://www.mh-freiburg.de/hochschule/allgemeines/aktuelles/details/filme-zum-interkulturellen-jazz-projekt-nah-sind-online"
 title: Filme zum interkulturellen Jazz-Projekt »Nah« sind online - Hochschule für Musik Freiburg
 tier: own
 language: en

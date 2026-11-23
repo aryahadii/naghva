@@ -1,5 +1,6 @@
 ---
 url: https://tympanikaudio.bandcamp.com/track/reminiscence
+archive: "https://web.archive.org/web/20250602183622/https://tympanikaudio.bandcamp.com/track/reminiscence"
 title: Reminiscence | Idlefon | Tympanik Audio
 kind: web page
 language: en

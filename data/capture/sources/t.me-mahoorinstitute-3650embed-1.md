@@ -1,5 +1,6 @@
 ---
 url: https://t.me/mahoorinstitute/3650?embed=1
+archive: "https://web.archive.org/web/20230628154830/https://t.me/mahoorinstitute/3650?embed=1"
 title: Telegram Widget
 status: processed
 language: fa

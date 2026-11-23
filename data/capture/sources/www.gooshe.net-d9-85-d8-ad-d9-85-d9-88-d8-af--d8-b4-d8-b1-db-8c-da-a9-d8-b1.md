@@ -1,5 +1,6 @@
 ---
 url: https://www.gooshe.net/%D9%85%D8%AD%D9%85%D9%88%D8%AF-%D8%B4%D8%B1%DB%8C%DA%A9%D8%B1/
+archive: "https://web.archive.org/web/20200123103236/http://www.gooshe.net:80/%D9%85%D8%AD%D9%85%D9%88%D8%AF-%D8%B4%D8%B1%DB%8C%DA%A9%D8%B1/"
 title: آهنگ «کوکی» از آلبوم «نول» محمود شریکر
 kind: web page
 language: fa

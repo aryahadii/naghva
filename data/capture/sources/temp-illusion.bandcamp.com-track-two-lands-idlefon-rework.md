@@ -1,5 +1,6 @@
 ---
 url: https://temp-illusion.bandcamp.com/track/two-lands-idlefon-rework
+archive: "https://web.archive.org/web/20240601205036/https://temp-illusion.bandcamp.com/track/two-lands-idlefon-rework"
 title: Two Lands (Idlefon Rework) | Temp-Illusion
 kind: web page
 language: en

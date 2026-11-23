@@ -1,5 +1,6 @@
 ---
 url: https://themuckersband.bandcamp.com/track/will-you-make-it
+archive: "https://web.archive.org/web/20250910002104/https://themuckersband.bandcamp.com/track/will-you-make-it"
 title: Will You Make It? | The Muckers
 kind: web page
 tier: own

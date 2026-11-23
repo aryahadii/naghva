@@ -1,5 +1,6 @@
 ---
 url: https://www.nts.live/shows/labour/episodes/labour-3rd-august-2024
+archive: "https://web.archive.org/web/20260416065143/https://www.nts.live/shows/labour/episodes/labour-3rd-august-2024"
 title: LABOUR - Transcriptions 3rd August 2024 | Listen on NTS
 status: processed
 language: en

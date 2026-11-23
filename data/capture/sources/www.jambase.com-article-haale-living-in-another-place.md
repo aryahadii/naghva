@@ -1,5 +1,6 @@
 ---
 url: https://www.jambase.com/article/haale-living-in-another-place
+archive: "https://web.archive.org/web/20220925135328/https://www.jambase.com/article/haale-living-in-another-place"
 title: 'Haale: Living In Another Place'
 tier: journalism
 language: en

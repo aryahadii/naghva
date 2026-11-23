@@ -1,5 +1,6 @@
 ---
 url: https://tympanikaudio.bandcamp.com/track/absorbed
+archive: "https://web.archive.org/web/20250608145436/https://tympanikaudio.bandcamp.com/track/absorbed"
 title: Absorbed | Idlefon | Tympanik Audio
 kind: web page
 language: en

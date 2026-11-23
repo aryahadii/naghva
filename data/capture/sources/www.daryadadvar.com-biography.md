@@ -1,5 +1,6 @@
 ---
 url: https://www.daryadadvar.com/biography/
+archive: "https://web.archive.org/web/20241206153545/https://www.daryadadvar.com/biography/"
 title: Biography – Darya Dadvar
 tier: own
 language: en

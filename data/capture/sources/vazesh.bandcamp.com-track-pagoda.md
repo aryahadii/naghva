@@ -1,5 +1,6 @@
 ---
 url: https://vazesh.bandcamp.com/track/pagoda
+archive: "https://web.archive.org/web/20260619184215/https://vazesh.bandcamp.com/track/pagoda"
 title: Pagoda | Vazesh
 kind: web page
 tier: own

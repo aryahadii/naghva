@@ -1,5 +1,6 @@
 ---
 url: https://themast.bandcamp.com/album/pleasure-island
+archive: "https://web.archive.org/web/20221126211453/https://themast.bandcamp.com/album/pleasure-island"
 title: Pleasure Island | The Mast
 tier: own
 language: en

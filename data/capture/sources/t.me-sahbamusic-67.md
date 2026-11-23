@@ -1,5 +1,6 @@
 ---
 url: https://t.me/Sahbamusic/67
+archive: "https://web.archive.org/web/20221206155139/https://t.me/Sahbamusic/67"
 title: دستگاه شور، صهبا مطلبی و پژمان حدادی، به یاد استاد شهنازی، قسمت ۶
 status: processed
 language: fa

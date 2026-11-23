@@ -1,5 +1,6 @@
 ---
 url: https://unperceivedrecords.bandcamp.com/track/abiding-eventide
+archive: "https://web.archive.org/web/20241212100940/https://unperceivedrecords.bandcamp.com/track/abiding-eventide"
 title: Abiding Eventide | 9T Antiope | Unperceived Records
 kind: web page
 language: en

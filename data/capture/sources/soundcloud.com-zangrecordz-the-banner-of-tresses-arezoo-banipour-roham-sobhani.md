@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/zangrecordz/the-banner-of-tresses-arezoo-banipour-roham-sobhani
+archive: "https://web.archive.org/web/20250504121528/https://soundcloud.com/zangrecordz/the-banner-of-tresses-arezoo-banipour-roham-sobhani"
 title: Stream The Banner of Tresses - Arezoo Banipour - Roham Sobhani by Zang Records | Listen online for free on
   SoundCloud
 status: processed

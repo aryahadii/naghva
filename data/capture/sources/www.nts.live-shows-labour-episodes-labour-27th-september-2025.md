@@ -1,5 +1,6 @@
 ---
 url: https://www.nts.live/shows/labour/episodes/labour-27th-september-2025
+archive: "https://web.archive.org/web/20260810234952/https://www.nts.live/shows/labour/episodes/labour-27th-september-2025"
 title: Labour w/ Wally Seck 27th September 2025 | Listen on NTS
 status: processed
 language: en

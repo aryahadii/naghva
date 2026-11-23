@@ -1,5 +1,6 @@
 ---
 url: https://themuckersband.bandcamp.com/track/trouble-every-day
+archive: "https://web.archive.org/web/20230623084638/https://themuckersband.bandcamp.com/track/trouble-every-day"
 title: Trouble Every Day | The Muckers
 kind: web page
 tier: own

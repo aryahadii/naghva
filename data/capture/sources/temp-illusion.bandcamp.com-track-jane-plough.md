@@ -1,5 +1,6 @@
 ---
 url: https://temp-illusion.bandcamp.com/track/jane-plough
+archive: "https://web.archive.org/web/20240601204914/https://temp-illusion.bandcamp.com/track/jane-plough"
 title: Jane Plough | Temp-Illusion
 kind: web page
 language: en

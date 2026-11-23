@@ -1,5 +1,6 @@
 ---
 url: https://www.kviff.com/en/programme/film/59/37638/presskit-1.pdf
+archive: "https://web.archive.org/web/20220706051541/https://www.kviff.com/en/programme/film/59/37638/presskit-1.pdf"
 title: 'Summer With Hope: Final Press Notes'
 kind: web page
 language: en

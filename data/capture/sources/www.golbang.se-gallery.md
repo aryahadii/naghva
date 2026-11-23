@@ -1,5 +1,6 @@
 ---
 url: https://www.golbang.se/gallery
+archive: "https://web.archive.org/web/20260514063542/https://golbang.se/gallery"
 title: Gallery | Golbang
 tier: own
 language: en

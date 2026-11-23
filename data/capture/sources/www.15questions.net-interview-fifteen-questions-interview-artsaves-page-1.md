@@ -1,5 +1,6 @@
 ---
 url: https://www.15questions.net/interview/fifteen-questions-interview-artsaves/page-1/
+archive: "https://web.archive.org/web/20221206002613/https://www.15questions.net/interview/fifteen-questions-interview-artsaves/page-1/"
 title: 15 questions | Interview | ArtSaves | Liberation from Chaos
 kind: web page
 language: en

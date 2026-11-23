@@ -1,5 +1,6 @@
 ---
 url: https://www.bmeia.gv.at/fileadmin/user_upload/Zentrale/Kultur/Publikationen/AKI2019.pdf
+archive: "https://web.archive.org/web/20250919103653/https://www.bmeia.gv.at/fileadmin/user_upload/Zentrale/Kultur/Publikationen/AKI2019.pdf"
 title: Auslandskulturbericht 2019
 kind: web page
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://www.musicaustria.at/wir-erlauben-uns-einfach-auf-erwachsene-art-kinder-zu-sein-mona-matbou-riahi-und-alexander-yannilos-kry-im-mica-interview/
+archive: "https://web.archive.org/web/20250612182627/https://www.musicaustria.at/wir-erlauben-uns-einfach-auf-erwachsene-art-kinder-zu-sein-mona-matbou-riahi-und-alexander-yannilos-kry-im-mica-interview/"
 title: „Wir erlauben uns einfach, auf erwachsene Art Kinder zu sein.“ - MONA MATBOU RIAHI und ALEXANDER YANNILOS
   (/KRY) im mica-Interview - mica - music austria
 tier: journalism

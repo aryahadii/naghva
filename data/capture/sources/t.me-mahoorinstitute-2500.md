@@ -1,5 +1,6 @@
 ---
 url: https://t.me/mahoorinstitute/2500
+archive: "https://web.archive.org/web/20241206040608/https://t.me/mahoorinstitute/2500"
 title: موسیقی جزیره‌ی کیش
 tier: own
 language: fa

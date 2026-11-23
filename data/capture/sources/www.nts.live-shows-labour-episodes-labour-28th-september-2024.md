@@ -1,5 +1,6 @@
 ---
 url: https://www.nts.live/shows/labour/episodes/labour-28th-september-2024
+archive: "https://web.archive.org/web/20260808062520/https://www.nts.live/shows/labour/episodes/labour-28th-september-2024"
 title: LABOUR w/ Mbaye Ndiaye  28th September 2024 | Listen on NTS
 status: processed
 language: en

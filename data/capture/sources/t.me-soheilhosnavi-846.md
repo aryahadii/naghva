@@ -1,5 +1,6 @@
 ---
 url: https://t.me/soheilhosnavi/846
+archive: "https://web.archive.org/web/20220521090624/https://t.me/soheilhosnavi/846"
 title: دونوازی کوتاه سنتور و تمبک در چهارگاه
 status: processed
 tier: own

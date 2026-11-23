@@ -1,5 +1,6 @@
 ---
 url: https://www.aidashahghasemi.com/sarab
+archive: "https://web.archive.org/web/20260415180842/https://www.aidashahghasemi.com/sarab"
 title: Sarāb — Aida Shahghasemi
 tier: own
 language: en

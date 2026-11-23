@@ -1,5 +1,6 @@
 ---
 url: https://t.me/Sahbamusic/1018
+archive: "https://web.archive.org/web/20260118035652/https://t.me/Sahbamusic/1018"
 title: دستگاه چهارگاه، اجرای کامل درآمد، ردیف دوره عالی استاد شهنازی
 status: processed
 language: fa

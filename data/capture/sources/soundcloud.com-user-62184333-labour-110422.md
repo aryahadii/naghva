@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/user-62184333/labour-110422
+archive: "https://web.archive.org/web/20230327200605/https://soundcloud.com/user-62184333/labour-110422"
 title: Stream LABOUR w/ Assane Mboup 110422 by NTS Monday | Listen online for free on SoundCloud
 status: processed
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://unperceivedrecords.bandcamp.com/track/succumb
+archive: "https://web.archive.org/web/20241212100940/https://unperceivedrecords.bandcamp.com/track/succumb"
 title: Succumb | 9T Antiope | Unperceived Records
 kind: web page
 language: en

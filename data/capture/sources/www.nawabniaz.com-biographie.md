@@ -1,5 +1,6 @@
 ---
 url: https://www.nawabniaz.com/biographie
+archive: "https://web.archive.org/web/20260509130619/https://www.nawabniaz.com/biographie"
 title: Biography | NawabNiaz.com
 kind: web page
 tier: own

@@ -1,5 +1,6 @@
 ---
 url: https://t.me/abjeezofficial/97
+archive: "https://web.archive.org/web/20251227190016/https://t.me/abjeezofficial/97"
 title: ABJEEZ official | Eddeaa (pretension)
 tier: own
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://t.me/Sahbamusic/688
+archive: "https://web.archive.org/web/20221206155136/https://t.me/Sahbamusic/688"
 title: 'أشكي در گذرگاه تاريخ - صهبا مطلبي- شعر: فريدون مشيري- خواننده: سينا سرلك-صحبت از مرگ محبت مرگ عشق- گفتگو
   از مرگ انسانيت'
 status: processed

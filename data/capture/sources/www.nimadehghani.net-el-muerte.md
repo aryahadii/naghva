@@ -1,5 +1,6 @@
 ---
 url: https://www.nimadehghani.net/el-muerte
+archive: "https://web.archive.org/web/20260715073332/https://www.nimadehghani.net/el-muerte"
 title: El- Muerte | nimadehghani
 kind: web page
 language: en

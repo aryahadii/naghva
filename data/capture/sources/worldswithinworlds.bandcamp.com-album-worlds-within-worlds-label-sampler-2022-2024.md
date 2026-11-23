@@ -1,5 +1,6 @@
 ---
 url: https://worldswithinworlds.bandcamp.com/album/worlds-within-worlds-label-sampler-2022-2024
+archive: "https://web.archive.org/web/20250215170145/https://worldswithinworlds.bandcamp.com/album/worlds-within-worlds-label-sampler-2022-2024"
 title: Worlds Within Worlds Label Sampler 2022 - 2024 | Worlds Within Worlds
 kind: web page
 tier: own

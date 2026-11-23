@@ -1,5 +1,6 @@
 ---
 url: https://studio-labour.com/sonic-activation-villa-aurora
+archive: "https://web.archive.org/web/20260411180615/https://studio-labour.com/sonic-activation-villa-aurora/"
 title: studio LABOUR | Colin Hacklander & Farahnaz Hatam
 status: processed
 language: en

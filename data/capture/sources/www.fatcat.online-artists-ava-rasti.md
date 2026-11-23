@@ -1,5 +1,6 @@
 ---
 url: https://www.fatcat.online/artists/ava-rasti
+archive: "https://web.archive.org/web/20261017150617/https://www.fatcat.online/artists/ava-rasti"
 title: Ava Rasti | FatCat Records
 kind: web page
 language: en

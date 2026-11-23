@@ -1,5 +1,6 @@
 ---
 url: https://t.me/mahoorinstitute/3081
+archive: "https://web.archive.org/web/20220529094520/https://t.me/mahoorinstitute/3081"
 title: از گلستان عجم
 tier: own
 language: fa

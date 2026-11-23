@@ -1,5 +1,6 @@
 ---
 url: https://www.ikimuzik.com/about
+archive: "https://web.archive.org/web/20260616034016/https://www.ikimuzik.com/about"
 title: ABOUT | ikimuzik
 tier: own
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://www.lateraladdition.org/?page=3#68
+archive: "https://web.archive.org/web/20260606065757/http://www.lateraladdition.org/?page=3"
 title: Lateral Addition
 status: processed
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://tympanikaudio.bandcamp.com/track/kuchinawa
+archive: "https://web.archive.org/web/20230715021554/https://tympanikaudio.bandcamp.com/track/kuchinawa"
 title: Kuchinawa | Idlefon | Tympanik Audio
 kind: web page
 language: en

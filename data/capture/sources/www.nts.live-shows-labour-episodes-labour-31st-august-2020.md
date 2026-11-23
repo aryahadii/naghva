@@ -1,5 +1,6 @@
 ---
 url: https://www.nts.live/shows/labour/episodes/labour-31st-august-2020
+archive: "https://web.archive.org/web/20210926185110/https://www.nts.live/shows/labour/episodes/labour-31st-august-2020"
 title: LABOUR w/ Souleymane Faye 7th September 2020 | Listen on NTS
 status: processed
 language: en

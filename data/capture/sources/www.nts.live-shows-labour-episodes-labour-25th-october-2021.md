@@ -1,5 +1,6 @@
 ---
 url: https://www.nts.live/shows/labour/episodes/labour-25th-october-2021
+archive: "https://web.archive.org/web/20221006164144/https://www.nts.live/shows/labour/episodes/labour-25th-october-2021"
 title: LABOUR w/ Amy Mbengue 25th October 2021 | Listen on NTS
 status: processed
 language: en

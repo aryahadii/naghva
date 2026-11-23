@@ -1,5 +1,6 @@
 ---
 url: https://tcsberlin.bandcamp.com/track/a2-ava-rasti-route
+archive: "https://web.archive.org/web/20230715052241/https://tcsberlin.bandcamp.com/track/a2-ava-rasti-route"
 title: a2. Ava Rasti -Route | Various Artists | Tehran Contemporary Sounds
 kind: web page
 language: en

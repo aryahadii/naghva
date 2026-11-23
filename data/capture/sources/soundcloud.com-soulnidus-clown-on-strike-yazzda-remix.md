@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/soulnidus/clown-on-strike-yazzda-remix
+archive: "https://web.archive.org/web/20130121145902/http://soundcloud.com:80/soulnidus/clown-on-strike-yazzda-remix"
 title: Stream Clown on Strike - (YAZZDA Remix) by SOULNIDUS | Listen online for free on SoundCloud
 kind: web page
 tier: own

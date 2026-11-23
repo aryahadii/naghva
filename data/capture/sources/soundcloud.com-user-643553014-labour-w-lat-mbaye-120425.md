@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/user-643553014/labour-w-lat-mbaye-120425
+archive: "https://web.archive.org/web/20260302124546/https://soundcloud.com/user-643553014/labour-w-lat-mbaye-120425"
 title: Stream Labour w/ Lat Mbaye 120425 by NTS 2024-2025 | Listen online for free on SoundCloud
 status: processed
 language: en

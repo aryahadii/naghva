@@ -1,5 +1,6 @@
 ---
 url: https://t.me/babakrajabii/12
+archive: "https://web.archive.org/web/20230501043521/https://t.me/babakrajabii/12"
 title: Babak Rajabi · Telegram 12
 status: processed
 language: fa

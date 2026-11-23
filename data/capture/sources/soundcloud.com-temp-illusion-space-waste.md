@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/temp-illusion/space-waste
+archive: "https://web.archive.org/web/20231223025701/https://soundcloud.com/temp-illusion/space-waste"
 title: Stream Space Waste by Temp-Illusion | Listen online for free on SoundCloud
 kind: web page
 language: en

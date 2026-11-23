@@ -1,5 +1,6 @@
 ---
 url: https://t.me/babakrajabii/74
+archive: "https://web.archive.org/web/20230523102125/https://t.me/babakrajabii/74"
 title: Babak Rajabi · Telegram 74
 status: processed
 language: fa

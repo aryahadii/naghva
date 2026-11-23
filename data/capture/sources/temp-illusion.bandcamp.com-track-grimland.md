@@ -1,5 +1,6 @@
 ---
 url: https://temp-illusion.bandcamp.com/track/grimland
+archive: "https://web.archive.org/web/20251230222355/https://temp-illusion.bandcamp.com/track/grimland"
 title: Grimland | Temp-Illusion
 kind: web page
 language: en

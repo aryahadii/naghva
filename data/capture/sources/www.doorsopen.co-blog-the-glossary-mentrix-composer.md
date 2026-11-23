@@ -1,5 +1,6 @@
 ---
 url: https://www.doorsopen.co/blog/the-glossary-mentrix-composer/
+archive: "https://web.archive.org/web/20260419120057/https://www.doorsopen.co/blog/the-glossary-mentrix-composer/"
 title: 'The Glossary: Mentrix | Composer | Doors Open'
 kind: web page
 language: en

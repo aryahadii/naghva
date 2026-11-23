@@ -1,5 +1,6 @@
 ---
 url: https://www.nazaninnoori.com/theurgencyofitall
+archive: "https://web.archive.org/web/20260810005133/https://www.nazaninnoori.com/theurgencyofitall"
 title: NAZANIN NAZANIN
 status: processed
 language: en

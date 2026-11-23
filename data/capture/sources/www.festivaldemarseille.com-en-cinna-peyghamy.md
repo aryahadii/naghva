@@ -1,5 +1,6 @@
 ---
 url: https://www.festivaldemarseille.com/en/cinna-peyghamy
+archive: "https://web.archive.org/web/20240710102857/https://www.festivaldemarseille.com/en/cinna-peyghamy"
 title: Cinna Peyghamy - Festival de Marseille
 kind: web page
 language: en

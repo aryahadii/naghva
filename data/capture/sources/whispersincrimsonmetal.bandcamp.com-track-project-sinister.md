@@ -1,5 +1,6 @@
 ---
 url: https://whispersincrimsonmetal.bandcamp.com/track/project-sinister
+archive: "https://web.archive.org/web/20140630151841/http://whispersincrimsonmetal.bandcamp.com:80/track/project-sinister"
 title: Project Sinister | Whispers In Crimson
 kind: web page
 tier: own

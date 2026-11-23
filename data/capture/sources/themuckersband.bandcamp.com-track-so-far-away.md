@@ -1,5 +1,6 @@
 ---
 url: https://themuckersband.bandcamp.com/track/so-far-away
+archive: "https://web.archive.org/web/20250910002104/https://themuckersband.bandcamp.com/track/so-far-away"
 title: So Far Away | The Muckers
 kind: web page
 tier: own

@@ -1,5 +1,6 @@
 ---
 url: https://t.me/Sahbamusic/975
+archive: "https://web.archive.org/web/20260113154428/https://t.me/Sahbamusic/975"
 title: دستگاه سه گاه، از ردیف دوره عالی استاد شهنازی، اجرای کامل گوشه فرود.
 status: processed
 language: fa

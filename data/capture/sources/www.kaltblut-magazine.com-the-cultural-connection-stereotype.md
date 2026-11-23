@@ -1,5 +1,6 @@
 ---
 url: https://www.kaltblut-magazine.com/the-cultural-connection-stereotype/
+archive: "https://web.archive.org/web/20261004105243/https://www.kaltblut-magazine.com/the-cultural-connection-stereotype/"
 title: 'The Cultural Connection: Stereotype - KALTBLUT Magazine'
 kind: web page
 language: en

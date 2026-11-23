@@ -1,5 +1,6 @@
 ---
 url: https://www.gob.mx/cultura/prensa/el-ensamble-didar-hara-sonar-el-radif-en-el-cenart
+archive: "https://web.archive.org/web/20250123154341/https://www.gob.mx/cultura/prensa/el-ensamble-didar-hara-sonar-el-radif-en-el-cenart"
 title: El Ensamble Didar hará sonar el radif en el Cenart | Secretaría de Cultura  | Gobierno | gob.mx
 tier: own
 kind: web page

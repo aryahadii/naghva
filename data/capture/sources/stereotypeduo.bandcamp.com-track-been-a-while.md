@@ -1,5 +1,6 @@
 ---
 url: https://stereotypeduo.bandcamp.com/track/been-a-while
+archive: "https://web.archive.org/web/20250526081826/https://stereotypeduo.bandcamp.com/track/been-a-while"
 title: Been a while | Stereotype
 kind: web page
 language: en

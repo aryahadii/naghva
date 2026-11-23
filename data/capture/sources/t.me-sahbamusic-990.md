@@ -1,5 +1,6 @@
 ---
 url: https://t.me/Sahbamusic/990
+archive: "https://web.archive.org/web/20251229070136/https://t.me/Sahbamusic/990"
 title: دستگاه سه گاه، اجرای کامل درآمد مخالف از ردیف دوره عالی استاد علی اکبر خان شهنازی
 status: processed
 language: fa
