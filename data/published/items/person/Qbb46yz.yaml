@@ -1,0 +1,70 @@
+id: Qbb46yz
+type: person
+statements:
+  name:
+  - value:
+      text: Neda Mohamadpour
+      language: en
+    references:
+    - source: music.apple.com-us-album-the-past-is-particle-the-future-is-wave-ep-6831738477
+      quote: Neda Mohamadpour
+      accessed: '2026-11-21'
+      locator: Recording title or artist credit
+  - value:
+      text: ندا محمدپور
+      language: fa
+    references:
+    - source: iranianontario.com-index.php-concerts-mohsen-sharifian-toronto-koerner-hall
+      quote: ندا محمدپور
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  based in:
+  - value: Q9yx7ys
+    references:
+    - source: smallworldmusic.com-wp-content-uploads-2024-08-swm-incubator-2023.pdf
+      quote: Since January 2022 I have resided in Toronto
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  birthplace:
+  - value: Qhm6fzw
+    references:
+    - source: smallworldmusic.com-wp-content-uploads-2024-08-swm-incubator-2023.pdf
+      quote: I was born and raised in Tehran, Iran.
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  profile link:
+  - value: https://music.apple.com/us/artist/neda-mohamadpour/1760825556
+    references:
+    - source: music.apple.com-us-artist-neda-mohamadpour-1760825556
+      quote: ‎Neda Mohamadpour - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/artist/0oA6FnUzpQmvvNcwvSlSqp
+    references:
+    - source: open.spotify.com-artist-0oa6fnuzpqmvvncwvslsqp
+      quote: Listen to Neda Mohamadpour Songs | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/neda-mhp
+    references:
+    - source: soundcloud.com-neda-mhp
+      quote: Stream Neda Mohamadpour music | Listen to songs, albums, playlists for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://www.youtube.com/@nedamohamadpour/videos
+    references:
+    - source: www.youtube.com-nedamohamadpour-videos
+      quote: Neda Mohamadpour - YouTube
+      accessed: '2026-11-21'
+      locator: Page title
+  image:
+  - value: https://images.squarespace-cdn.com/content/v1/5ab990fd12b13f23923f5917/1b9b9cb8-4cd4-4b7e-b1f4-b8b98841bade/149-DSCF7811.jpg
+    references:
+    - source: www.linkmusiclab.com-neda
+      quote: https://images.squarespace-cdn.com/content/v1/5ab990fd12b13f23923f5917/1b9b9cb8-4cd4-4b7e-b1f4-b8b98841bade/149-DSCF7811.jpg
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: Link Music Lab
+        language: en

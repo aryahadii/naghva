@@ -1,0 +1,37 @@
+id: Qjqfr7y
+type: release
+statements:
+  name:
+  - value:
+      text: Dey balal
+      language: en
+    references:
+    - source: www.youtube.com-watch-v-etp6qjsazu8
+      quote: Dey balal
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qbb46yz
+    references:
+    - source: www.youtube.com-watch-v-etp6qjsazu8
+      quote: Dey balal
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://www.youtube.com/watch?v=ETp6QJSAzU8
+    references:
+    - source: www.youtube.com-watch-v-etp6qjsazu8
+      quote: Dey balal
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i.ytimg.com/vi/ETp6QJSAzU8/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-etp6qjsazu8
+      quote: https://i.ytimg.com/vi/ETp6QJSAzU8/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: Neda Mohamadpour
+        language: en
