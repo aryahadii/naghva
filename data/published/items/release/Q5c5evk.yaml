@@ -1,0 +1,83 @@
+id: Q5c5evk
+type: release
+statements:
+  name:
+  - value:
+      text: I'm Here
+      language: en
+    references:
+    - &id002
+      source: music.apple.com-us-album-im-here-1509703091
+      quote: I'm Here
+      accessed: '2026-11-21'
+      locator: Distributor album title
+  - value:
+      text: من اینجام
+      language: fa
+    references:
+    - source: musishen.com
+      quote: من اینجام
+      accessed: '2026-11-21'
+      locator: Original Persian album title
+  release date:
+  - value:
+      date: '2019'
+    references:
+    - source: musishen.com
+      quote: '2019'
+      accessed: '2026-11-21'
+      locator: Artist discography, I'm Here
+  performer:
+  - value: Qavhs3y
+    references:
+    - source: music.apple.com-us-album-im-here-1509703091
+      quote: Shen Band
+      accessed: '2026-11-21'
+      locator: Release billing
+  - value: Qec6smv
+    references:
+    - &id001
+      source: musishen.com
+      quote: write, compose, arrange, perform and produce seven collections
+      accessed: '2026-11-21'
+      locator: Artist biography, dated catalogue or interview
+  contributor:
+  - value: Qec6smv
+    references:
+    - *id001
+    qualifiers:
+      role:
+      - composer
+      - arranger
+      - producer
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/14/fc/1c/14fc1c7f-ca57-b601-f88e-c871a1fa532f/195079241734.jpg/1200x630wp-60.jpg
+    references:
+    - source: music.apple.com-us-album-im-here-1509703091
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/14/fc/1c/14fc1c7f-ca57-b601-f88e-c871a1fa532f/195079241734.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Original release cover
+    qualifiers:
+      credit:
+        text: Shen Band, Apple Music edition artwork
+        language: en
+  release type:
+  - value: album
+    references:
+    - *id002
+  listen link:
+  - value: https://music.apple.com/us/album/im-here/1509703091
+    references:
+    - *id002
+  - value: https://open.spotify.com/album/3jwua6xwA5giJcRbLg54J3
+    references:
+    - source: open.spotify.com-embed-album-3jwua6xwa5gijcrblg54j3
+      quote: I'm Here
+      accessed: '2026-11-21'
+      locator: Spotify album
+  - value: https://www.youtube.com/playlist?list=OLAK5uy_mIsWYJWCiOjco1G7fq7tFMBYf0GdKZfPI
+    references:
+    - source: www.youtube.com-playlist-list-olak5uy_miswyjwciojco1g7fq7tfmbyf0gdkzfpi
+      quote: I'm Here
+      accessed: '2026-11-21'
+      locator: Official digital album playlist

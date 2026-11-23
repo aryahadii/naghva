@@ -1,0 +1,29 @@
+id: Qec6smv
+type: person
+statements:
+  name:
+  - value:
+      text: Kaveh Hashemi
+      language: en
+    references:
+    - &id001
+      source: musishen.com
+      quote: Kaveh Hashemi
+      accessed: '2026-11-21'
+      locator: Artist biography, dated catalogue or interview
+  - value:
+      text: کاوه هاشمی
+      language: fa
+    references:
+    - source: musishen.com
+      quote: کاوه هاشمی
+      accessed: '2026-11-21'
+      locator: Original Persian name
+  member of:
+  - value: Qavhs3y
+    references:
+    - *id001
+    qualifiers:
+      role:
+      - guitar
+      - vocals

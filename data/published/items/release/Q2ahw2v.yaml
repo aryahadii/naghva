@@ -1,0 +1,73 @@
+id: Q2ahw2v
+type: release
+statements:
+  name:
+  - value:
+      text: Roozhaayeh Man
+      language: en
+    references:
+    - source: music.apple.com-us-album-baavarhaa-1520575104
+      quote: Roozhaayeh Man
+      accessed: '2026-11-21'
+      locator: Digital edition track 1
+  release date:
+  - value:
+      date: '2006'
+    references:
+    - source: musishen.com
+      quote: '2006'
+      accessed: '2026-11-21'
+      locator: Artist discography, Baavarhaa
+  performer:
+  - value: Qavhs3y
+    references:
+    - source: music.apple.com-us-album-baavarhaa-1520575104
+      quote: Shen Band
+      accessed: '2026-11-21'
+      locator: Release billing
+  - value: Qec6smv
+    references:
+    - &id001
+      source: musishen.com
+      quote: write, compose, arrange, perform and produce seven collections
+      accessed: '2026-11-21'
+      locator: Artist biography, dated catalogue or interview
+  contributor:
+  - value: Qec6smv
+    references:
+    - *id001
+    qualifiers:
+      role:
+      - composer
+      - arranger
+      - producer
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/ea/90/ed/ea90ed91-70b1-f907-16a2-85cc83d0316e/195079805042.jpg/1200x630wp-60.jpg
+    references:
+    - source: music.apple.com-us-album-baavarhaa-1520575104
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/ea/90/ed/ea90ed91-70b1-f907-16a2-85cc83d0316e/195079805042.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Original release cover
+    qualifiers:
+      credit:
+        text: Shen Band, Apple Music edition artwork
+        language: en
+  listen link:
+  - value: https://music.apple.com/us/song/roozhaayeh-man/1520575105
+    references:
+    - source: music.apple.com-us-album-baavarhaa-1520575104
+      quote: https://music.apple.com/us/song/roozhaayeh-man/1520575105
+      accessed: '2026-11-21'
+      locator: Apple Music exact song
+  - value: https://open.spotify.com/track/6owvjjUGVFz3vPoTXdZWNs
+    references:
+    - source: open.spotify.com-embed-album-4laknaj9u9biwgwonulz9p
+      quote: spotify:track:6owvjjUGVFz3vPoTXdZWNs
+      accessed: '2026-11-21'
+      locator: Spotify exact song
+  - value: https://www.youtube.com/watch?v=Cpl3rkBezw0
+    references:
+    - source: www.youtube.com-playlist-list-olak5uy_mkg65drofnzeba3kf6qfdztnqfjwx95ek
+      quote: Cpl3rkBezw0
+      accessed: '2026-11-21'
+      locator: Official album track 1

@@ -1,0 +1,32 @@
+id: Qv7cr27
+type: release
+statements:
+  name:
+  - value:
+      text: Shen Band "live" -The world sits idly by گروه شن - دنیا ساکت نشسته
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-dy73p0jqba4
+      quote: Shen Band "live" -The world sits idly by گروه شن - دنیا ساکت نشسته
+      accessed: '2026-11-21'
+      locator: Artist-published video
+  performer:
+  - value: Qavhs3y
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/dY73p0jQba4/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-dy73p0jqba4
+      quote: https://i.ytimg.com/vi/dY73p0jQba4/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original channel photo
+    qualifiers:
+      credit:
+        text: Shen Band, original YouTube film
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=dY73p0jQba4
+    references:
+    - *id001
