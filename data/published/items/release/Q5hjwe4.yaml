@@ -1,0 +1,45 @@
+id: Q5hjwe4
+type: release
+statements:
+  name:
+  - value:
+      text: Kahrobaye Arezou
+      language: en
+    references:
+    - source: www.youtube.com-watch-v-klfel-a-wlo
+      quote: Ali Azimi - Kahrobaye Arezou (Official Video) علی عظیمی - کهربای آرزو
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qde2bbb
+    references:
+    - source: www.youtube.com-watch-v-klfel-a-wlo
+      quote: Ali Azimi - Kahrobaye Arezou (Official Video) علی عظیمی - کهربای آرزو
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qzchcs8
+    references:
+    - source: www.youtube.com-watch-v-klfel-a-wlo
+      quote: 'Clarinet: Rouzbeh Esfandarmaz'
+      accessed: '2026-11-21'
+      locator: Official video description, performing credits
+    qualifiers:
+      role: clarinet
+  listen link:
+  - value: https://www.youtube.com/watch?v=kLFEL-a-Wlo
+    references:
+    - source: www.youtube.com-watch-v-klfel-a-wlo
+      quote: Ali Azimi - Kahrobaye Arezou (Official Video) علی عظیمی - کهربای آرزو
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i.ytimg.com/vi/kLFEL-a-Wlo/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-klfel-a-wlo
+      quote: https://i.ytimg.com/vi/kLFEL-a-Wlo/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: Ali Azimi
+        language: en

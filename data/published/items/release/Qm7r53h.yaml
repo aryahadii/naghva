@@ -1,0 +1,51 @@
+id: Qm7r53h
+type: release
+statements:
+  name:
+  - value:
+      text: Evening 3 (Shadow Learn / Fray) [2026 Remastered Version]
+      language: en
+    references:
+    - source: music.apple.com-us-song-1869407635
+      quote: ‎Evening 3 (Shadow Learn / Fray) [2026 Remastered Version] - Song with Lyrics by Rouzbeh Esfand & Ary Werthein - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qzchcs8
+    references:
+    - source: music.apple.com-us-song-1869407635
+      quote: ‎Evening 3 (Shadow Learn / Fray) [2026 Remastered Version] - Song with Lyrics by Rouzbeh Esfand & Ary Werthein - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://music.apple.com/us/song/1869407635
+    references:
+    - source: music.apple.com-us-song-1869407635
+      quote: ‎Evening 3 (Shadow Learn / Fray) [2026 Remastered Version] - Song with Lyrics by Rouzbeh Esfand & Ary Werthein - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/7Arfj6LtAm8XHxYIy29IuA
+    references:
+    - source: open.spotify.com-track-7arfj6ltam8xhxyiy29iua
+      quote: Evening 3 (Shadow Learn / Fray) - 2026 Remastered Version - song and lyrics by Rouzbeh Esfand, Ary Werthein | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2026-01-15'
+    references:
+    - source: music.apple.com-us-song-1869407635
+      quote: January 15, 2026
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d4/55/00/d455004b-d537-f847-fcea-512834c48d6a/7300348102620.jpg/600x600bb.webp
+    references:
+    - source: music.apple.com-us-song-1869407635
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d4/55/00/d455004b-d537-f847-fcea-512834c48d6a/7300348102620.jpg/600x600bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original publisher artwork
+        language: en

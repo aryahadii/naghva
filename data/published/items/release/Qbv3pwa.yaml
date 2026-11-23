@@ -14,7 +14,8 @@ statements:
       language: fa
     references:
     - source: www.khabaronline.ir-news-286118-pallett
-      quote: بیشتر به شکل گروه‌مان ربط دارد که چندتا رنگ هستیم و یک چیزی را نقش می‌بندد، هیچ کدام از آن رنگ‌ها نیست و رنگ جدیدی است. نمی‌دانیم چرا بنفش؟ یا چرا آقای بنفش؟
+      quote: بیشتر به شکل گروه‌مان ربط دارد که چندتا رنگ هستیم و یک چیزی را نقش می‌بندد، هیچ کدام از آن رنگ‌ها نیست و رنگ جدیدی است.
+        نمی‌دانیم چرا بنفش؟ یا چرا آقای بنفش؟
       accessed: '2026-11-06'
   release date:
   - value:
@@ -33,8 +34,7 @@ statements:
   - value: album
     references:
     - source: open.spotify.com-album-pallett-mr-violet
-      quote: |-
-        Listen to Mr. Violet - Album by Pallett | Spotify
+      quote: Listen to Mr. Violet - Album by Pallett | Spotify
       accessed: '2026-11-06'
   performer:
   - value: Qq5328q
@@ -63,3 +63,12 @@ statements:
     - source: music.apple.com-us-album-mr-violet-967939666-b4d47c487e09
       quote: 'Listen to Mr. Violet by Pallett on Apple Music. 2015. 11 Songs. Duration: 51 minutes.'
       accessed: '2026-10-19'
+  contributor:
+  - value: Qzchcs8
+    references:
+    - source: www.rouzbehesfand.com-contact-1
+      quote: producing three albums
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: producer
