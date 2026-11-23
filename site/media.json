@@ -13867,6 +13867,18 @@
       1200
     ]
   },
+  "https://i.ytimg.com/vi/nYTtPMSlgQc/hqdefault.jpg": {
+    "sha256": "7a6419049e281a40f67229ee74c755dedab09c8dc02c19e2de0ccf503191d1b8",
+    "ext": "jpg",
+    "bytes": 23936,
+    "width": 480,
+    "height": 360,
+    "widths": [
+      180,
+      360,
+      720
+    ]
+  },
   "https://i.ytimg.com/vi/O5crDld-_yM/hqdefault.jpg": {
     "sha256": "87d18eb4deb963aee67ab8a5c5a912c94f8f67435fd2792594ba057d58b8d0dd",
     "ext": "jpg",
@@ -16288,6 +16300,18 @@
     "width": 1280,
     "height": 720,
     "from": "https://i.ytimg.com/vi/VksYlqELwUU/maxresdefault.jpg",
+    "widths": [
+      180,
+      360,
+      720
+    ]
+  },
+  "https://i.ytimg.com/vi/Vl9134u8KI8/hqdefault.jpg": {
+    "sha256": "5aa029130e6b00e42fed25511353dbd3f2f35ad8725aec5fe9ad6e45f8fa541a",
+    "ext": "jpg",
+    "bytes": 13270,
+    "width": 480,
+    "height": 360,
     "widths": [
       180,
       360,
@@ -41281,6 +41305,20 @@
     "sha256": "4a78817b224e3315b2fc24bf31d4c28d408ddb01f71cf161bbfe746dfc0ce986",
     "ext": "png",
     "bytes": 523718,
+    "width": 389,
+    "height": 606,
+    "widths": [
+      240,
+      360,
+      640,
+      960,
+      1200
+    ]
+  },
+  "https://rokhquartet.art/wp-content/uploads/2025/02/Site-sanaz.png": {
+    "sha256": "c15172c8daf2bc7e4e5a4fda0edf0355765c520930818153f9f67ce33dedb1ac",
+    "ext": "png",
+    "bytes": 466803,
     "width": 389,
     "height": 606,
     "widths": [
