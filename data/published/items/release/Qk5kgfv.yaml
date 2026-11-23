@@ -1,0 +1,57 @@
+id: Qk5kgfv
+type: release
+statements:
+  name:
+  - value:
+      text: Paradox
+      language: en
+    references:
+    - source: music.apple.com-us-song-1620174704
+      quote: ‎Paradox - Song with Lyrics by Astrø & Meshcut - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qh6s4f5
+    references:
+    - source: music.apple.com-us-song-1620174704
+      quote: ‎Paradox - Song with Lyrics by Astrø & Meshcut - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qs2dtez
+    references:
+    - source: open.spotify.com-track-5vtzepzwdmirmgpf9ylwkb
+      quote: Astrø
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://music.apple.com/us/song/1620174704
+    references:
+    - source: music.apple.com-us-song-1620174704
+      quote: ‎Paradox - Song with Lyrics by Astrø & Meshcut - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/5VtZePZWdMIRMGPf9YLWKb
+    references:
+    - source: open.spotify.com-track-5vtzepzwdmirmgpf9ylwkb
+      quote: Paradox - song and lyrics by Astrø, Meshcut | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/ff/8c/33/ff8c338e-fcb8-49f0-0195-af960bc238c5/4251353203358.png/600x600bb.webp
+    references:
+    - source: music.apple.com-us-song-1620174704
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/ff/8c/33/ff8c338e-fcb8-49f0-0195-af960bc238c5/4251353203358.png/600x600bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original recording artwork
+        language: en
+  release date:
+  - value:
+      date: '2022-05-20'
+    references:
+    - source: music.apple.com-us-song-1620174704
+      quote: May 20, 2022
+      accessed: '2026-11-21'
+      locator: Published date

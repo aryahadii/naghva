@@ -1,0 +1,37 @@
+id: Q3yg6rz
+type: release
+statements:
+  name:
+  - value:
+      text: SUREENDER
+      language: en
+    references:
+    - source: www.youtube.com-watch-v-j16hvlsx7yo
+      quote: SUREENDER
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qh6s4f5
+    references:
+    - source: www.youtube.com-watch-v-j16hvlsx7yo
+      quote: SUREENDER
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://www.youtube.com/watch?v=J16hVLSX7Yo
+    references:
+    - source: www.youtube.com-watch-v-j16hvlsx7yo
+      quote: SUREENDER
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i.ytimg.com/vi/J16hVLSX7Yo/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-j16hvlsx7yo
+      quote: https://i.ytimg.com/vi/J16hVLSX7Yo/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: 'Meshcut '
+        language: en

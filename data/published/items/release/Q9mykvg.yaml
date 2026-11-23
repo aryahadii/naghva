@@ -1,0 +1,45 @@
+id: Q9mykvg
+type: release
+statements:
+  name:
+  - value:
+      text: Dramma
+      language: en
+    references:
+    - source: soundcloud.com-meshcut-dramma-4
+      quote: Stream Dramma by Meshcut | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qh6s4f5
+    references:
+    - source: soundcloud.com-meshcut-dramma-4
+      quote: Stream Dramma by Meshcut | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://soundcloud.com/meshcut/dramma-4
+    references:
+    - source: soundcloud.com-meshcut-dramma-4
+      quote: Stream Dramma by Meshcut | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-iKY044ksP9ize5ko-yp7WAw-t500x500.jpg
+    references:
+    - source: soundcloud.com-meshcut-dramma-4
+      quote: https://i1.sndcdn.com/artworks-iKY044ksP9ize5ko-yp7WAw-t500x500.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original recording artwork
+        language: en
+  release date:
+  - value:
+      date: '2026-07-28'
+    references:
+    - source: soundcloud.com-meshcut-dramma-4
+      quote: '2026-07-28T18:16:29Z'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
