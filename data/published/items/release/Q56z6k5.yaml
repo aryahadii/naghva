@@ -1,0 +1,51 @@
+id: Q56z6k5
+type: release
+statements:
+  name:
+  - value:
+      text: Murderer Murderer on the Wall
+      language: en
+    references:
+    - source: music.apple.com-us-song-1814377412
+      quote: ‎Murderer Murderer on the Wall - Song with Lyrics by Migrain Sq. - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qbkmbta
+    references:
+    - source: music.apple.com-us-song-1814377412
+      quote: ‎Murderer Murderer on the Wall - Song with Lyrics by Migrain Sq. - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2012-06-01'
+    references:
+    - source: music.apple.com-us-song-1814377412
+      quote: June 1, 2012
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7c/d3/e1/7cd3e115-af57-6d4c-6cbc-1761a1853d6c/6261840100440.jpg/600x600bb.webp
+    references:
+    - source: music.apple.com-us-song-1814377412
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7c/d3/e1/7cd3e115-af57-6d4c-6cbc-1761a1853d6c/6261840100440.jpg/600x600bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Oído Records, via Apple Music
+        language: en
+  listen link:
+  - value: https://music.apple.com/us/song/1814377412
+    references:
+    - source: music.apple.com-us-song-1814377412
+      quote: ‎Murderer Murderer on the Wall - Song with Lyrics by Migrain Sq. - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/4qhfye7FOrSHmIsUbMQ6ZI
+    references:
+    - source: open.spotify.com-track-4qhfye7forshmisubmq6zi
+      quote: Murderer Murderer on the Wall - song and lyrics by Migrain Sq. | Spotify
+      accessed: '2026-11-21'
+      locator: Page title

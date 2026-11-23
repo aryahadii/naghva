@@ -1,0 +1,69 @@
+id: Qh8f5qv
+type: act
+statements:
+  name:
+  - value:
+      text: Quartet Diminished
+      language: en
+    references:
+    - source: quartetdiminished.bandcamp.com-music
+      quote: Quartet Diminished کوارتت کاسته
+      accessed: 2026-11-21
+      locator: Artist credit on Station albums
+  - value:
+      text: کوارتت کاسته
+      language: fa
+    references:
+    - source: quartetdiminished.bandcamp.com-music
+      quote: Quartet Diminished کوارتت کاسته
+      accessed: 2026-11-21
+      locator: Artist credit on Station albums
+  formation date:
+  - value:
+      date: '2013'
+    references:
+    - source: www.allaboutjazz.com-album-deerand-quartet-diminished
+      quote: Quartet Diminished was established in Iran in 2013 by guitarist Ehsan Sadigh.
+      accessed: 2026-11-21
+      locator: Opening paragraph
+  life event:
+  - value:
+      text: Quartet Diminished was established in Iran in 2013 by guitarist Ehsan Sadigh.
+      language: en
+    qualifiers:
+      point in time:
+        date: '2013'
+    references:
+    - source: www.allaboutjazz.com-album-deerand-quartet-diminished
+      quote: Quartet Diminished was established in Iran in 2013 by guitarist Ehsan Sadigh.
+      accessed: 2026-11-21
+      locator: Opening paragraph
+  - value:
+      text: 19-22 Dec 2016 – Album recording (Station Two)- Istanbul
+      language: en
+    qualifiers:
+      point in time:
+        date: 2016-12
+    references:
+    - source: www.quartetdiminished.com-events
+      quote: 19-22 Dec 2016 – Album recording (Station Two)- Istanbul
+      accessed: 2026-11-21
+      locator: 2016 recording sessions
+  profile link:
+  - value: https://quartetdiminished.bandcamp.com/music
+    references:
+    - source: quartetdiminished.bandcamp.com-music
+      quote: Quartet Diminished کوارتت کاسته
+      accessed: 2026-11-21
+      locator: Artist credit on Station albums
+  image:
+  - value: https://f4.bcbits.com/img/0025259778_10.jpg
+    qualifiers:
+      credit:
+        text: Quartet Diminished on Bandcamp
+        language: en
+    references:
+    - source: quartetdiminished.bandcamp.com-music
+      quote: Quartet Diminished image
+      accessed: 2026-11-21
+      locator: Artist photograph alt text
