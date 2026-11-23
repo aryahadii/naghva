@@ -184,7 +184,7 @@ for (const lang of ['en', 'fa']) {
   test(`${lang}: quick search supports keyboard retry and all-results navigation`, async ({ page }) => {
     await page.route('**/search.json', (route) => route.fulfill({ status: 503 }), { times: 1 });
     await page.goto(`/${lang}/`);
-    await page.locator('astro-island:not([ssr])').waitFor();
+    await page.locator('astro-island[component-url*="Search"]:not([ssr])').waitFor();
     const input = page.getByRole('combobox');
     await input.fill('a');
     const retry = page.locator('.search-panel button');
