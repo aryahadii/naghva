@@ -1,0 +1,72 @@
+id: Q8dkfyg
+type: person
+statements:
+  name:
+  - value:
+      text: Melody Safavi
+      language: en
+    references:
+    - source: kayhanlife.com-culture-stage-meet-iranian-swedish-pop-band-abjeez
+      quote: founded in 2005 by the Iranian-born sisters Melody and Safoura Safavi
+      accessed: 2026-11-21
+      locator: Introduction
+  - value:
+      text: ملودی صفوی
+      language: fa
+    references:
+    - source: www.sverigesradio.se-artikel-6636512
+      quote: خبر ممنوعیت سفر ایرانی‌ها به آمریکا باعث شده تا ملودی صفوی که شعرهای گروه آبجیز را می‌نویسد، به یاد
+        سختی‌های رد شدن از مرزها برای ایرانی‌ها بیفتد
+      accessed: 2026-11-21
+      locator: گزارش رادیو سوئد
+  - value:
+      text: MELODE
+      language: en
+    references:
+    - source: soundcloud.com-theofficialmelode
+      quote: I'm Melode (Melody Safavi), a Swedish-Iranian singer, songwriter, and artist.
+      accessed: 2026-11-21
+      locator: Account biography
+  member of:
+  - value: Qny2s3x
+    references:
+    - source: kayhanlife.com-culture-stage-meet-iranian-swedish-pop-band-abjeez
+      quote: founded in 2005 by the Iranian-born sisters Melody and Safoura Safavi
+      accessed: 2026-11-21
+      locator: Introduction
+  image:
+  - value: https://i1.sndcdn.com/avatars-JNyDTU3ZQ5lNaZ5J-olh9OA-t500x500.jpg
+    qualifiers:
+      credit:
+        text: Melody Safavi on SoundCloud
+        language: en
+    references:
+    - source: soundcloud.com-theofficialmelode
+      quote: https://i1.sndcdn.com/avatars-JNyDTU3ZQ5lNaZ5J-olh9OA-t500x500.jpg
+      accessed: 2026-11-21
+      locator: Artist profile image URL, og:image metadata
+  profile link:
+  - value: https://soundcloud.com/theofficialmelode
+    references:
+    - source: soundcloud.com-theofficialmelode
+      quote: I'm Melode (Melody Safavi), a Swedish-Iranian singer, songwriter, and artist.
+      accessed: 2026-11-21
+      locator: Account biography
+  - value: https://www.youtube.com/channel/UC7O_YiM9STHylaix_RKoXYg
+    references:
+    - source: www.youtube.com-channel-uc7o_yim9sthylaix_rkoxyg
+      quote: MELODE
+      accessed: 2026-11-21
+      locator: Channel heading
+  - value: https://open.spotify.com/artist/1XCimejMGWjx7SKvTZSh3j
+    references:
+    - source: open.spotify.com-artist-1xcimejmgwjx7skvtzsh3j
+      quote: MELODE
+      accessed: 2026-11-21
+      locator: Artist heading
+  - value: https://music.apple.com/us/artist/melode/1505716246
+    references:
+    - source: music.apple.com-us-artist-melode-1505716246
+      quote: Melode
+      accessed: 2026-11-21
+      locator: Artist heading

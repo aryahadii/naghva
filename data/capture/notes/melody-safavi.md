@@ -1,0 +1,3 @@
+# Melody Safavi
+
+The artist links her 2020 solo album, her SoundCloud account and her YouTube channel from her own website. Reconciled all fourteen SoundCloud entries and eleven official videos, eight specific Spotify recordings, two eight-track Apple editions and a separate single. The two album editions have the same durations and ordered titles, with transliteration differences and different June 2020 delivery dates. Apple recommendations for Eiszeit and Farbenspiel lack this performer’s provenance and have been excluded. SASA lyric credits and Abjeez membership are documented separately. Independent score pending.
