@@ -1,0 +1,39 @@
+id: Qweqy4v
+type: person
+statements:
+  name:
+  - value:
+      text: Farahnaz Hatam
+      language: en
+    references:
+    - source: www.callies.berlin-en-residents-12-labour
+      quote: Farahnaz Hatam, born in Tehran, Iran
+      locator: Performer biography
+      accessed: '2026-11-21'
+  member of:
+  - value: Qwqf8en
+    references:
+    - source: studio-labour.com-about
+      quote: LABOUR is the Berlin-based artist duo of Farahnaz Hatam and Colin Hacklander
+      locator: Named collaboration
+      accessed: '2026-11-21'
+    qualifiers:
+      role: composer
+  image:
+  - value: https://www.vatmh.org/assets/images/c/Farahnaz%20Hatam%20%C2%A9%20Natalia%20Evelyn%20Bencicova-sgyztbh1jzadg7f.jpg
+    qualifiers:
+      credit:
+        text: Natalia Evelyn Bencicova / Villa Aurora
+        language: en
+    references:
+    - source: www.vatmh.org-en-stipendiaten-details-farahnaz-hatam.html
+      quote: Farahnaz Hatam © Natalia Evelyn Bencicova
+      accessed: 2026-11-21
+      locator: Villa Aurora’s original solo residency portrait, image caption
+  profile link:
+  - value: https://hatam.bandcamp.com/music
+    references:
+    - source: hatam.bandcamp.com-music
+      quote: HATAM
+      locator: Artist-owned Bandcamp profile
+      accessed: '2026-11-21'

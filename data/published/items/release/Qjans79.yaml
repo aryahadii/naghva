@@ -1,0 +1,53 @@
+id: Qjans79
+type: release
+statements:
+  name:
+  - value:
+      text: Live Performance Excerpt One
+      language: en
+    references:
+    - source: klangteppichberlin.bandcamp.com-track-live-performance-excerpt-one
+      quote: Live Performance Excerpt One
+      locator: Track title
+      accessed: '2026-11-21'
+  performer:
+  - value: Qweqy4v
+    references:
+    - source: klangteppichberlin.bandcamp.com-track-live-performance-excerpt-one
+      quote: Hani Mojtahedy – vocals, HATAM – electronics
+      locator: Individual performance credits
+      accessed: '2026-11-21'
+  - value: Qnrm3kw
+    references:
+    - source: klangteppichberlin.bandcamp.com-track-live-performance-excerpt-one
+      quote: Hani Mojtahedy – vocals, HATAM – electronics
+      locator: Individual performance credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: vocals
+  release date:
+  - value:
+      date: '2018-12-13'
+    references:
+    - source: klangteppichberlin.bandcamp.com-album-festival-2018
+      quote: 13 Dec 2018 00:00:00 GMT
+      locator: Compilation release date
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://klangteppichberlin.bandcamp.com/track/live-performance-excerpt-one
+    references:
+    - source: klangteppichberlin.bandcamp.com-track-live-performance-excerpt-one
+      quote: Live Performance Excerpt One
+      locator: Track title
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://f4.bcbits.com/img/a1852760108_10.jpg
+    references:
+    - source: klangteppichberlin.bandcamp.com-album-festival-2018
+      quote: https://f4.bcbits.com/img/a1852760108_10.jpg
+      locator: Festival recording artwork
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Klangteppich Berlin · Festival 2018
+        language: en

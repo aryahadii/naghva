@@ -2350,6 +2350,18 @@
       720
     ]
   },
+  "https://f4.bcbits.com/img/a1852760108_10.jpg": {
+    "sha256": "56c43465edcbc10a9ec15541b4d81af8fe02494cd5d308f7488f0db1bc4d3689",
+    "ext": "jpg",
+    "bytes": 193536,
+    "width": 1200,
+    "height": 967,
+    "widths": [
+      180,
+      360,
+      720
+    ]
+  },
   "https://f4.bcbits.com/img/a1885704561_1x1_700.avif": {
     "bytes": 72543,
     "ext": "avif",
@@ -5010,6 +5022,20 @@
     "ext": "jpg",
     "bytes": 113040,
     "width": 639,
+    "height": 640,
+    "widths": [
+      240,
+      360,
+      640,
+      960,
+      1200
+    ]
+  },
+  "https://i.scdn.co/image/ab6761610000e5ebfff8d09c7ddcc51ead7321b4": {
+    "sha256": "362849f4140aa281e52ed67d527d7bdce4eef21da5fd221d529f2b7a3c704130",
+    "ext": "jpg",
+    "bytes": 34605,
+    "width": 640,
     "height": 640,
     "widths": [
       240,
@@ -36884,6 +36910,34 @@
       1200
     ]
   },
+  "https://static.wixstatic.com/media/47358a_c7907dd3fed94e678b7b55b028d6cb2a~mv2.jpg/v1/crop/x_0,y_128,w_3824,h_5523/fill/w_502,h_725,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_0866_JPG.jpg": {
+    "sha256": "583ac278a38fa3b8f5fa43e0769198631cd107903c5e98b1cc9d7abd7cdbff92",
+    "ext": "jpg",
+    "bytes": 62136,
+    "width": 502,
+    "height": 725,
+    "widths": [
+      240,
+      360,
+      640,
+      960,
+      1200
+    ]
+  },
+  "https://static.wixstatic.com/media/47358a_ce2cbcff69b04aa2af831ed5c9f0f5fe~mv2_d_5760_3840_s_4_2.jpg/v1/fill/w_600,h_400,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/6H1A7375%202.jpg": {
+    "sha256": "39d677bb2a64a15b576ed9e85f32b28736c6047c5a35eb5a043209aa8631fd0f",
+    "ext": "jpg",
+    "bytes": 42142,
+    "width": 600,
+    "height": 400,
+    "widths": [
+      240,
+      360,
+      640,
+      960,
+      1200
+    ]
+  },
   "https://static.wixstatic.com/media/50189c_4b19575c79994238bac6de16c3cc59f2~mv2.jpg": {
     "bytes": 1167714,
     "ext": "jpg",
@@ -37524,6 +37578,20 @@
     "bytes": 529076,
     "width": 2560,
     "height": 1707,
+    "widths": [
+      240,
+      360,
+      640,
+      960,
+      1200
+    ]
+  },
+  "https://www.vatmh.org/assets/images/c/Farahnaz%20Hatam%20%C2%A9%20Natalia%20Evelyn%20Bencicova-sgyztbh1jzadg7f.jpg": {
+    "sha256": "a177f3e9ef8bbbfdba11eb3a8c7e0d5030345904fe16b0ae90d34daf6d3754ed",
+    "ext": "jpg",
+    "bytes": 16711,
+    "width": 410,
+    "height": 547,
     "widths": [
       240,
       360,
