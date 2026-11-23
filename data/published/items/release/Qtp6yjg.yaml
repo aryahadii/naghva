@@ -1,0 +1,47 @@
+id: Qtp6yjg
+type: release
+statements:
+  name:
+  - value:
+      text: Hay Golom
+      language: en
+    references:
+    - source: music.apple.com-us-album-hay-golom-single-1612906539
+      quote: Hay Golom
+      accessed: 2026-11-21
+      locator: Track listing
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2f/8d/44/2f8d4494-de6a-9665-74bc-a3e1342dfcde/696693134957.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-hay-golom-single-1612906539
+      quote: Hay Golom - Single
+      accessed: 2026-11-21
+      locator: Release heading
+  release date:
+  - value:
+      date: '2022-03-11'
+    references:
+    - source: music.apple.com-us-album-hay-golom-single-1612906539
+      quote: '2022-03-11'
+      accessed: 2026-11-21
+      locator: Edition release date
+  performer:
+  - value: Q3v55f7
+    references:
+    - source: music.apple.com-us-album-hay-golom-single-1612906539
+      quote: Kourosh Babaei
+      accessed: 2026-11-21
+      locator: Release artist
+  listen link:
+  - value: https://music.apple.com/us/album/hay-golom-single/1612906539
+    references:
+    - source: music.apple.com-us-album-hay-golom-single-1612906539
+      quote: Hay Golom
+      accessed: 2026-11-21
+      locator: Track listing
+  - value: https://music.apple.com/us/song/hay-golom/1612906540
+    references:
+    - source: music.apple.com-us-album-hay-golom-single-1612906539
+      quote: Hay Golom
+      accessed: 2026-11-21
+      locator: Track listing
