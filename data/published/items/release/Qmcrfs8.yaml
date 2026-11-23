@@ -1,0 +1,46 @@
+id: Qmcrfs8
+type: release
+statements:
+  name:
+  - value:
+      text: (بوگه خه بهار بستک) شاعرپیام سیستانی آهنگساز:بابک امیر مبشر موزیسین:حبیب مفتاح خواننده:هورا میرشکاری
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-tidtpvcucvc
+      quote: (بوگه خه بهار بستک) شاعرپیام سیستانی آهنگساز:بابک امیر مبشر موزیسین:حبیب مفتاح خواننده:هورا میرشکاری
+      accessed: '2026-11-21'
+      locator: Performer or distributor original video
+  performer:
+  - value: Qpav8br
+    references:
+    - *id001
+  - value: Q49prrc
+    references:
+    - *id001
+  listen link:
+  - value: https://www.youtube.com/watch?v=tidTpvcuCVc
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/tidTpvcuCVc/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-tidtpvcucvc
+      quote: https://i.ytimg.com/vi/tidTpvcuCVc/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video artwork
+    qualifiers:
+      credit:
+        text: HURA
+        language: en
+  contributor:
+  - value: Qp74mve
+    references:
+    - *id001
+    qualifiers:
+      role: composer
+  - value: Qxtgnf5
+    references:
+    - *id001
+    qualifiers:
+      role: lyricist

@@ -1,0 +1,32 @@
+id: Qag8a3d
+type: release
+statements:
+  name:
+  - value:
+      text: «تنگ شراب » هورا میرشکاری
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-cuagsnof3bo
+      quote: «تنگ شراب » هورا میرشکاری
+      accessed: '2026-11-21'
+      locator: Performer or distributor original video
+  performer:
+  - value: Qpav8br
+    references:
+    - *id001
+  listen link:
+  - value: https://www.youtube.com/watch?v=CuaGsnOF3Bo
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/CuaGsnOF3Bo/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-cuagsnof3bo
+      quote: https://i.ytimg.com/vi/CuaGsnOF3Bo/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video artwork
+    qualifiers:
+      credit:
+        text: HURA
+        language: en

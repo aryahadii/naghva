@@ -1,0 +1,57 @@
+id: Q4mn6pk
+type: release
+statements:
+  name:
+  - value:
+      text: Women of Fire
+      language: en
+    references:
+    - source: music.apple.com-us-album-women-of-fire-feat-hura-mirshekari-single-1883003708
+      quote: Women of Fire (feat. Hura Mirshekari)
+      accessed: '2026-11-21'
+      locator: Digital track 1
+  performer:
+  - value: Qpav8br
+    references:
+    - source: music.apple.com-us-album-women-of-fire-feat-hura-mirshekari-single-1883003708
+      quote: Hura Mirshekari
+      accessed: '2026-11-21'
+      locator: Credited artist
+  - value: Qm9pvme
+    references:
+    - source: music.apple.com-us-album-women-of-fire-feat-hura-mirshekari-single-1883003708
+      quote: La Beauté
+      accessed: '2026-11-21'
+      locator: Original release artist
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/30/d3/9e/30d39ed3-c852-53e2-c6c7-8091d44a990a/cover.jpg/1200x630wp-60.jpg
+    references:
+    - source: music.apple.com-us-album-women-of-fire-feat-hura-mirshekari-single-1883003708
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/30/d3/9e/30d39ed3-c852-53e2-c6c7-8091d44a990a/cover.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Original edition artwork
+    qualifiers:
+      credit:
+        text: Apple Music, original distributor artwork
+        language: en
+  release date:
+  - value:
+      date: '2026-03-20'
+    references:
+    - source: music.apple.com-us-album-women-of-fire-feat-hura-mirshekari-single-1883003708
+      quote: '2026-03-20'
+      accessed: '2026-11-21'
+      locator: Digital issue date
+  listen link:
+  - value: https://music.apple.com/us/song/women-of-fire-feat-hura-mirshekari/1883003709
+    references:
+    - source: music.apple.com-us-album-women-of-fire-feat-hura-mirshekari-single-1883003708
+      quote: https://music.apple.com/us/song/women-of-fire-feat-hura-mirshekari/1883003709
+      accessed: '2026-11-21'
+      locator: Exact Apple song
+  - value: https://open.spotify.com/track/2gY4Kl8eXfH11wITnhElMz
+    references:
+    - source: open.spotify.com-embed-album-5xykqbsv7dxisfafrkbmrf
+      quote: spotify:track:2gY4Kl8eXfH11wITnhElMz
+      accessed: '2026-11-21'
+      locator: Exact Spotify track
