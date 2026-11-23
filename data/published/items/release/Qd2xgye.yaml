@@ -1,0 +1,63 @@
+id: Qd2xgye
+type: release
+statements:
+  name:
+  - value:
+      text: The Eye of the Night (feat. Mehdi Emami)
+      language: en
+    references:
+    - source: siamak-jahangiri-ap1797204748
+      quote: The Eye of the Night (feat. Mehdi Emami)
+      accessed: '2026-11-21'
+      locator: Track title and billing
+  release date:
+  - value:
+      date: '2025-02-14'
+    references:
+    - source: siamak-jahangiri-ap1797204748
+      quote: '2025-02-14'
+      accessed: '2026-11-21'
+      locator: Edition release date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/66/c6/8b/66c68bc4-e84f-bb43-277b-a18877bccf2c/artwork.jpg/1200x630wp-60.jpg
+    references:
+    - source: siamak-jahangiri-ap1797204748
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/66/c6/8b/66c68bc4-e84f-bb43-277b-a18877bccf2c/artwork.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Digital release artwork
+    qualifiers:
+      credit:
+        text: Apple Music, original edition artwork
+        language: en
+  performer:
+  - value: Qnz4xnz
+    references:
+    - source: siamak-jahangiri-ap1797204748
+      quote: Siamak Jahangiry
+      accessed: '2026-11-21'
+      locator: Distributor artist credit
+  - value: Qm4wr7z
+    references:
+    - source: siamak-jahangiri-ap1797204748
+      quote: The Eye of the Night (feat. Mehdi Emami)
+      accessed: '2026-11-21'
+      locator: Named track billing
+  listen link:
+  - value: https://music.apple.com/us/song/the-eye-of-the-night-feat-mehdi-emami/1797204750
+    references:
+    - source: siamak-jahangiri-ap1797204748
+      quote: https://music.apple.com/us/song/the-eye-of-the-night-feat-mehdi-emami/1797204750
+      accessed: '2026-11-21'
+      locator: Exact edition or recording
+  - value: https://open.spotify.com/track/7kqq2eypfSmCLRgSjnMx71
+    references:
+    - source: siamak-jahangiri-ed7ziai4etej19p9kxoxx8gm
+      quote: spotify:track:7kqq2eypfSmCLRgSjnMx71
+      accessed: '2026-11-21'
+      locator: Spotify recording
+  - value: https://open.spotify.com/album/7ziai4Etej19P9KxOXX8gM
+    references:
+    - source: siamak-jahangiri-ed7ziai4etej19p9kxoxx8gm
+      quote: The Eye of the Night
+      accessed: '2026-11-21'
+      locator: Single release

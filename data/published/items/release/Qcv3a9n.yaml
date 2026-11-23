@@ -1,0 +1,57 @@
+id: Qcv3a9n
+type: release
+statements:
+  name:
+  - value:
+      text: Masnavi in Segah
+      language: en
+    references:
+    - source: siamak-jahangiri-ap6828524461
+      quote: Masnavi in Segah
+      accessed: '2026-11-21'
+      locator: Track title and billing
+  release date:
+  - value:
+      date: '2022-12-24'
+    references:
+    - source: siamak-jahangiri-ap6828524461
+      quote: '2022-12-24'
+      accessed: '2026-11-21'
+      locator: Edition release date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/23/f2/b8/23f2b876-cbaa-23b8-0145-3b262b843f55/885000804007.png/1200x630wp-60.jpg
+    references:
+    - source: siamak-jahangiri-ap6828524461
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/23/f2/b8/23f2b876-cbaa-23b8-0145-3b262b843f55/885000804007.png/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Digital release artwork
+    qualifiers:
+      credit:
+        text: Apple Music, original edition artwork
+        language: en
+  performer:
+  - value: Qnz4xnz
+    references:
+    - source: siamak-jahangiri-ap6828524461
+      quote: Siamak Jahangiri
+      accessed: '2026-11-21'
+      locator: Distributor artist credit
+  - value: Qjkgz9c
+    references:
+    - source: siamak-jahangiri-ap6828524461
+      quote: Mozaffar Shafiei
+      accessed: '2026-11-21'
+      locator: Distributor artist credit
+  listen link:
+  - value: https://music.apple.com/us/song/masnavi-in-segah/6828524472
+    references:
+    - source: siamak-jahangiri-ap6828524461
+      quote: https://music.apple.com/us/song/masnavi-in-segah/6828524472
+      accessed: '2026-11-21'
+      locator: Exact edition or recording
+  - value: https://open.spotify.com/track/7IMIgcfnP3PcInhR8yXXLe
+    references:
+    - source: siamak-jahangiri-ed2zfsvdq7c9tkoo3jvqlt7r
+      quote: spotify:track:7IMIgcfnP3PcInhR8yXXLe
+      accessed: '2026-11-21'
+      locator: Spotify recording

@@ -1,0 +1,32 @@
+id: Qesqx2e
+type: release
+statements:
+  name:
+  - value:
+      text: Tasnif_ _Delam Divâne Shod_/In Tones
+      language: en
+    references:
+    - &id001
+      source: siamak-jahangiri-sc2225435888
+      quote: Tasnif_ _Delam Divâne Shod_/In Tones
+      accessed: '2026-11-21'
+      locator: Publisher catalogue title or programme
+  performer:
+  - value: Qnz4xnz
+    references:
+    - *id001
+  listen link:
+  - value: https://soundcloud.com/mahoor-institute/tasnif_delam-divane-shod_in-tones
+    references:
+    - *id001
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-sEyvXHWPFqf1Ske6-mnowMQ-large.png
+    references:
+    - source: siamak-jahangiri-sc2225435888
+      quote: https://i1.sndcdn.com/artworks-sEyvXHWPFqf1Ske6-mnowMQ-large.png
+      accessed: '2026-11-21'
+      locator: Publisher artwork
+    qualifiers:
+      credit:
+        text: Mahoor Institute of Culture & Arts
+        language: en

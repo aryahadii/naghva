@@ -1,0 +1,21 @@
+id: Qhrtdze
+type: release
+statements:
+  name:
+  - value:
+      text: هم‌نواز
+      language: fa
+    references:
+    - &id001
+      source: siamak-jahangiri-tg3385
+      quote: هم‌نواز
+      accessed: '2026-11-21'
+      locator: Publisher catalogue title or programme
+  performer:
+  - value: Qnz4xnz
+    references:
+    - *id001
+  release type:
+  - value: album
+    references:
+    - *id001

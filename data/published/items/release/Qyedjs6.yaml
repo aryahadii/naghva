@@ -1,0 +1,69 @@
+id: Qyedjs6
+type: release
+statements:
+  name:
+  - value:
+      text: Back Then, We Also Had Been, Vol. 8
+      language: en
+    references:
+    - source: siamak-jahangiri-ap1703494581
+      quote: Back Then, We Also Had Been, Vol. 8
+      accessed: '2026-11-21'
+      locator: Track title and billing
+  release date:
+  - value:
+      date: '2023-08-16'
+    references:
+    - source: siamak-jahangiri-ap1703494581
+      quote: '2023-08-16'
+      accessed: '2026-11-21'
+      locator: Edition release date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/02/e3/98/02e3989a-eff2-16e1-ea52-cb97d776664c/197189690297.jpg/1200x630wp-60.jpg
+    references:
+    - source: siamak-jahangiri-ap1703494581
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/02/e3/98/02e3989a-eff2-16e1-ea52-cb97d776664c/197189690297.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Digital release artwork
+    qualifiers:
+      credit:
+        text: Apple Music, original edition artwork
+        language: en
+  performer:
+  - value: Qnz4xnz
+    references:
+    - source: siamak-jahangiri-ap1703494581
+      quote: Siamak Jahangiri
+      accessed: '2026-11-21'
+      locator: Distributor artist credit
+  - value: Q8axbyk
+    references:
+    - source: siamak-jahangiri-ap1703494581
+      quote: Hesam Inanlou
+      accessed: '2026-11-21'
+      locator: Distributor artist credit
+  - value: Q56bqf6
+    references:
+    - source: siamak-jahangiri-ap1703494581
+      quote: Ahmad Shamlu
+      accessed: '2026-11-21'
+      locator: Distributor artist credit
+  listen link:
+  - value: https://music.apple.com/us/song/back-then-we-also-had-been-vol-8/1703494583
+    references:
+    - source: siamak-jahangiri-ap1703494581
+      quote: https://music.apple.com/us/song/back-then-we-also-had-been-vol-8/1703494583
+      accessed: '2026-11-21'
+      locator: Exact edition or recording
+  - value: https://open.spotify.com/track/09x4iycxCOPWa9UNPrG8CX
+    references:
+    - source: siamak-jahangiri-ed7jtlgkhaidztzfnisnscsa
+      quote: spotify:track:09x4iycxCOPWa9UNPrG8CX
+      accessed: '2026-11-21'
+      locator: Spotify recording
+  - value: https://open.spotify.com/album/7JTlGkhaIDZtZfNiSNSCsA
+    references:
+    - source: siamak-jahangiri-ed7jtlgkhaidztzfnisnscsa
+      quote: Back Then, We Also Had Been, Vol. 8
+      accessed: '2026-11-21'
+      locator: Single release

@@ -1,0 +1,32 @@
+id: Qbqcsjv
+type: release
+statements:
+  name:
+  - value:
+      text: Dastgah-e Rast Panjgah IX/Interlacement
+      language: en
+    references:
+    - &id001
+      source: siamak-jahangiri-sc651809321
+      quote: Dastgah-e Rast Panjgah IX/Interlacement
+      accessed: '2026-11-21'
+      locator: Publisher catalogue title or programme
+  performer:
+  - value: Qnz4xnz
+    references:
+    - *id001
+  listen link:
+  - value: https://soundcloud.com/mahoor-institute/dastgah-e-rast-panjgah-ixinterlacement
+    references:
+    - *id001
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-000567678797-vbrgwm-large.jpg
+    references:
+    - source: siamak-jahangiri-sc651809321
+      quote: https://i1.sndcdn.com/artworks-000567678797-vbrgwm-large.jpg
+      accessed: '2026-11-21'
+      locator: Publisher artwork
+    qualifiers:
+      credit:
+        text: Mahoor Institute of Culture & Arts
+        language: en

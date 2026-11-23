@@ -1,0 +1,63 @@
+id: Q5q4h9r
+type: release
+statements:
+  name:
+  - value:
+      text: NAMAND (feat. Pouria Akhavas)
+      language: en
+    references:
+    - source: siamak-jahangiri-ap1718640961
+      quote: NAMAND (feat. Pouria Akhavas)
+      accessed: '2026-11-21'
+      locator: Track title and billing
+  release date:
+  - value:
+      date: '2023-11-25'
+    references:
+    - source: siamak-jahangiri-ap1718640961
+      quote: '2023-11-25'
+      accessed: '2026-11-21'
+      locator: Edition release date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/05/5b/5a/055b5a2e-0266-8946-b8a8-3b1119d5a732/artwork.jpg/1200x630wp-60.jpg
+    references:
+    - source: siamak-jahangiri-ap1718640961
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/05/5b/5a/055b5a2e-0266-8946-b8a8-3b1119d5a732/artwork.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Digital release artwork
+    qualifiers:
+      credit:
+        text: Apple Music, original edition artwork
+        language: en
+  performer:
+  - value: Qnz4xnz
+    references:
+    - source: siamak-jahangiri-ap1718640961
+      quote: Siamak Jahangiry
+      accessed: '2026-11-21'
+      locator: Distributor artist credit
+  - value: Qsb6rx8
+    references:
+    - source: siamak-jahangiri-ap1718640961
+      quote: NAMAND (feat. Pouria Akhavas)
+      accessed: '2026-11-21'
+      locator: Named track billing
+  listen link:
+  - value: https://music.apple.com/us/song/namand-feat-pouria-akhavas/1718640962
+    references:
+    - source: siamak-jahangiri-ap1718640961
+      quote: https://music.apple.com/us/song/namand-feat-pouria-akhavas/1718640962
+      accessed: '2026-11-21'
+      locator: Exact edition or recording
+  - value: https://open.spotify.com/track/2Rwvdc3fqKUa21UDiVGld9
+    references:
+    - source: siamak-jahangiri-ed23dpe6ldk7jtyxvhmb8qed
+      quote: spotify:track:2Rwvdc3fqKUa21UDiVGld9
+      accessed: '2026-11-21'
+      locator: Spotify recording
+  - value: https://open.spotify.com/album/23DPe6LDk7JtyXVhmb8Qed
+    references:
+    - source: siamak-jahangiri-ed23dpe6ldk7jtyxvhmb8qed
+      quote: NAMAND
+      accessed: '2026-11-21'
+      locator: Single release

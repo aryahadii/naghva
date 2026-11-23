@@ -1,0 +1,29 @@
+id: Qfxqa85
+type: release
+statements:
+  name:
+  - value:
+      text: Interlacement
+      language: en
+    references:
+    - &id001
+      source: siamak-jahangiri-sc651809321
+      quote: Interlacement
+      accessed: '2026-11-21'
+      locator: Iranian album edition
+  performer:
+  - value: Qnz4xnz
+    references:
+    - *id001
+  release type:
+  - value: album
+    references:
+    - *id001
+  release date:
+  - value:
+      date: '2019'
+    references:
+    - source: siamak-jahangiri-sc651809321
+      quote: 'Publish Year : 2019'
+      accessed: '2026-11-21'
+      locator: Original issue year

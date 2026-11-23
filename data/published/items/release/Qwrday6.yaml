@@ -1,0 +1,21 @@
+id: Qwrday6
+type: release
+statements:
+  name:
+  - value:
+      text: مطرب درد
+      language: fa
+    references:
+    - &id001
+      source: siamak-jahangiri-tg2091
+      quote: مطرب درد
+      accessed: '2026-11-21'
+      locator: Publisher catalogue title or programme
+  performer:
+  - value: Qnz4xnz
+    references:
+    - *id001
+  release type:
+  - value: album
+    references:
+    - *id001

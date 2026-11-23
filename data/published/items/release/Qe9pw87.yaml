@@ -1,0 +1,27 @@
+id: Qe9pw87
+type: release
+statements:
+  name:
+  - value:
+      text: چرخان
+      language: fa
+    references:
+    - source: siamak-jahangiri-rag
+      quote: چرخان
+      accessed: '2026-11-21'
+      locator: Physical edition or track title
+  performer:
+  - value: Qnz4xnz
+    references:
+    - &id001
+      source: siamak-jahangiri-rag
+      quote: سیامک جهانگیری (نی) و نبیل‌یوسف شریداوی (سازهای کوبه‌ای)
+      accessed: '2026-11-21'
+      locator: Performers on the duo issue
+    qualifiers:
+      role: ney
+  - value: Qnchec6
+    references:
+    - *id001
+    qualifiers:
+      role: percussion
