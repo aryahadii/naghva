@@ -1,0 +1,67 @@
+id: Qsfva4t
+type: release
+statements:
+  name:
+  - value:
+      text: FREQ.EXP (Klangteppich IV Excerpts)
+      language: en
+    references:
+    - source: noise-a-noise.bandcamp.com-track-a11-arshia-samsaminia-freq-exp-klangteppich-iv-excerpts
+      quote: FREQ.EXP (Klangteppich IV Excerpts)
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  contributor:
+  - value: Qfvnnnd
+    references:
+    - &id001
+      source: noise-a-noise.bandcamp.com-track-a11-arshia-samsaminia-freq-exp-klangteppich-iv-excerpts
+      quote: For Johannes Fink and Nikolaus Schlierf, Samsaminia composed an electroacoustic work
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: composer
+  performer:
+  - value: Qba8syw
+    references:
+    - *id001
+  - value: Q343jkw
+    references:
+    - *id001
+  listen link:
+  - value: https://noise-a-noise.bandcamp.com/track/a11-arshia-samsaminia-freq-exp-klangteppich-iv-excerpts
+    references:
+    - source: noise-a-noise.bandcamp.com-track-a11-arshia-samsaminia-freq-exp-klangteppich-iv-excerpts
+      quote: A11 - Arshia Samsaminia - FREQ.EXP (Klangteppich IV Excerpts) | Various Artists | Noise à Noise
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://noise-a-noise.bandcamp.com/track/a11-arshia-samsaminia-freq-exp-klangteppich-iv-excerpts-2
+    references:
+    - source: noise-a-noise.bandcamp.com-track-a11-arshia-samsaminia-freq-exp-klangteppich-iv-excerpts-2
+      quote: A11 - Arshia Samsaminia - FREQ.EXP (Klangteppich IV Excerpts) | Various Artists | Noise à Noise
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://www.youtube.com/watch?v=QQaPfF4WiXw
+    references:
+    - source: www.youtube.com-watch-v-qqapff4wixw
+      quote: Freq.Exp (Klangteppich IV Excerpts)
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a3468855862_10.jpg
+    references:
+    - source: noise-a-noise.bandcamp.com-track-a11-arshia-samsaminia-freq-exp-klangteppich-iv-excerpts
+      quote: https://f4.bcbits.com/img/a3468855862_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Noise à Noise
+        language: en
+  release date:
+  - value:
+      date: '2023-01-17'
+    references:
+    - source: noise-a-noise.bandcamp.com-track-a11-arshia-samsaminia-freq-exp-klangteppich-iv-excerpts
+      quote: released January 17, 2023
+      accessed: '2026-11-21'
+      locator: Published date

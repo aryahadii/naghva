@@ -1,0 +1,44 @@
+id: Q2dc2rg
+type: release
+statements:
+  name:
+  - value:
+      text: Ensemble Musikfabrik - Micro-Moments IV (2022)
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-oitalggze64
+      quote: Arshia Samsaminia - Ensemble Musikfabrik - Micro-Moments IV (2022)
+      accessed: '2026-11-21'
+      locator: Page title
+  contributor:
+  - value: Qfvnnnd
+    references:
+    - source: www.youtube.com-watch-v-oitalggze64
+      quote: Arshia Samsaminia
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: composer
+  listen link:
+  - value: https://www.youtube.com/watch?v=OitALgGzE64
+    references:
+    - source: www.youtube.com-watch-v-oitalggze64
+      quote: Arshia Samsaminia - Ensemble Musikfabrik - Micro-Moments IV (2022)
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i.ytimg.com/vi/OitALgGzE64/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-oitalggze64
+      quote: https://i.ytimg.com/vi/OitALgGzE64/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Publisher video thumbnail
+    qualifiers:
+      credit:
+        text: Arshia Samsaminia
+        language: en
+  performer:
+  - value: Qgdytwq
+    references:
+    - *id001

@@ -1,0 +1,61 @@
+id: Qn7rxg3
+type: release
+statements:
+  name:
+  - value:
+      text: 4our
+      language: en
+    references:
+    - source: arshiasamsaminia.bandcamp.com-album-4our
+      quote: 4our
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  performer:
+  - value: Qrs4xcb
+    references:
+    - source: arshiasamsaminia.bandcamp.com-album-4our
+      quote: 'Performers : Stockholm Saxophone Quartet (Sweden)'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  contributor:
+  - value: Qfvnnnd
+    references:
+    - source: arshiasamsaminia.bandcamp.com-album-4our
+      quote: 4our | Arshia Samsaminia
+      accessed: '2026-11-21'
+      locator: Page title
+    qualifiers:
+      role: composer
+  listen link:
+  - value: https://arshiasamsaminia.bandcamp.com/album/4our
+    references:
+    - source: arshiasamsaminia.bandcamp.com-album-4our
+      quote: 4our | Arshia Samsaminia
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a2649905551_10.jpg
+    references:
+    - source: arshiasamsaminia.bandcamp.com-album-4our
+      quote: https://f4.bcbits.com/img/a2649905551_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Arshia Samsaminia
+        language: en
+  release date:
+  - value:
+      date: '2016-08-23'
+    references:
+    - source: arshiasamsaminia.bandcamp.com-album-4our
+      quote: released August 23, 2016
+      accessed: '2026-11-21'
+      locator: Published date
+  release type:
+  - value: album
+    references:
+    - source: arshiasamsaminia.bandcamp.com-album-4our
+      quote: 4our | Arshia Samsaminia
+      accessed: '2026-11-21'
+      locator: Page title
