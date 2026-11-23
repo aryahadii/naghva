@@ -3331,6 +3331,20 @@
       1200
     ]
   },
+  "https://i.scdn.co/image/ab6761610000e5ebf92f69dd5ff1d3a5186fc689": {
+    "sha256": "d97abc96838bd5aadc85e4bee5241199bb019a2d40da107df01d85c85dcd8bcc",
+    "ext": "jpg",
+    "bytes": 113040,
+    "width": 639,
+    "height": 640,
+    "widths": [
+      240,
+      360,
+      640,
+      960,
+      1200
+    ]
+  },
   "https://i.scdn.co/image/ab67616d00001e0225c3b77a836e11c65822078f": {
     "bytes": 220041,
     "ext": "jpg",
@@ -4122,6 +4136,19 @@
       720
     ]
   },
+  "https://i.ytimg.com/vi/0ixe4rP_vlQ/hqdefault.jpg": {
+    "sha256": "a5b1f0e8565cb6f29e47829b6a098ee125f34560b7e2754f064b5a488a69e606",
+    "ext": "jpg",
+    "bytes": 79736,
+    "width": 1280,
+    "height": 720,
+    "from": "https://i.ytimg.com/vi/0ixe4rP_vlQ/maxresdefault.jpg",
+    "widths": [
+      180,
+      360,
+      720
+    ]
+  },
   "https://i.ytimg.com/vi/0k4fgxzXilk/hqdefault.jpg": {
     "sha256": "176e1c9d68b327a43946f373a7312efe50ed926d77f1d5aa0e5e2003f32a272f",
     "ext": "jpg",
@@ -4658,6 +4685,19 @@
     "bytes": 16479,
     "width": 480,
     "height": 360,
+    "widths": [
+      180,
+      360,
+      720
+    ]
+  },
+  "https://i.ytimg.com/vi/7pYYK7_cjv8/hqdefault.jpg": {
+    "sha256": "2d9ccc1c0d699e191c6d565957c0b3724a1d2fb545eebdce3bfe6bde31618eaa",
+    "ext": "jpg",
+    "bytes": 91913,
+    "width": 1280,
+    "height": 720,
+    "from": "https://i.ytimg.com/vi/7pYYK7_cjv8/maxresdefault.jpg",
     "widths": [
       180,
       360,
@@ -5581,6 +5621,19 @@
       720
     ]
   },
+  "https://i.ytimg.com/vi/eH7Fi6tueRo/hqdefault.jpg": {
+    "sha256": "8ce139964fb4db4dec79ce336dfa3af2c54d7bc80d322aa4c96c9bfd87afcbcb",
+    "ext": "jpg",
+    "bytes": 100900,
+    "width": 1280,
+    "height": 720,
+    "from": "https://i.ytimg.com/vi/eH7Fi6tueRo/maxresdefault.jpg",
+    "widths": [
+      180,
+      360,
+      720
+    ]
+  },
   "https://i.ytimg.com/vi/eJeJePobbno/hqdefault.jpg": {
     "sha256": "ea75efe177de7282dc7a9b882646688951daa6abcc9a23a9514c4100eac3b57b",
     "ext": "jpg",
@@ -6120,6 +6173,19 @@
       720
     ]
   },
+  "https://i.ytimg.com/vi/Hqt8Y6ju_KI/hqdefault.jpg": {
+    "sha256": "c8b3bd9b6e75a307675a62260fe920ba459a75b5c58381bd1e15abf16e277d0a",
+    "ext": "jpg",
+    "bytes": 85891,
+    "width": 1280,
+    "height": 720,
+    "from": "https://i.ytimg.com/vi/Hqt8Y6ju_KI/maxresdefault.jpg",
+    "widths": [
+      180,
+      360,
+      720
+    ]
+  },
   "https://i.ytimg.com/vi/Hr4chnFcBYE/hqdefault.jpg": {
     "sha256": "283b157d5f283e79df5eb8174e5446793d7e35f0f498e5b5d23b912b25da3898",
     "ext": "jpg",
@@ -6394,6 +6460,19 @@
       720
     ]
   },
+  "https://i.ytimg.com/vi/J3_kVShl0b4/hqdefault.jpg": {
+    "sha256": "c1a776d2e96b464e85514ff38cc5f6bcd9c312d0b4a557ab00900bb490f6ec83",
+    "ext": "jpg",
+    "bytes": 117928,
+    "width": 1280,
+    "height": 720,
+    "from": "https://i.ytimg.com/vi/J3_kVShl0b4/maxresdefault.jpg",
+    "widths": [
+      180,
+      360,
+      720
+    ]
+  },
   "https://i.ytimg.com/vi/j3c-KKNkJSI/hqdefault.jpg": {
     "sha256": "5f1e01be3909ad4823ebaa4894d2102453987c8058d2cf03fd59bc96a84eede8",
     "ext": "jpg",
@@ -6591,6 +6670,19 @@
     "width": 1280,
     "height": 720,
     "from": "https://i.ytimg.com/vi/JrbNeULvdcU/maxresdefault.jpg",
+    "widths": [
+      180,
+      360,
+      720
+    ]
+  },
+  "https://i.ytimg.com/vi/JsjXV63viTg/hqdefault.jpg": {
+    "sha256": "984b0fb750951ab3da53417f645f3e1acbc485a80b06175858d12bf5189fd669",
+    "ext": "jpg",
+    "bytes": 74833,
+    "width": 1280,
+    "height": 720,
+    "from": "https://i.ytimg.com/vi/JsjXV63viTg/maxresdefault.jpg",
     "widths": [
       180,
       360,
@@ -7038,6 +7130,18 @@
       720
     ]
   },
+  "https://i.ytimg.com/vi/m6XpaYKuuNg/hqdefault.jpg": {
+    "sha256": "b4a5d3660b9bf630853113148c5798ab34e90ba4a97edd740fb1bb5c4066cc73",
+    "ext": "jpg",
+    "bytes": 8103,
+    "width": 480,
+    "height": 360,
+    "widths": [
+      180,
+      360,
+      720
+    ]
+  },
   "https://i.ytimg.com/vi/MbjynKI-jKk/hqdefault.jpg": {
     "sha256": "3d5be0b77d2586fbce82f8919e8441ad913dc605b5755d55cdd32a8af382d6b2",
     "ext": "jpg",
@@ -7150,6 +7254,19 @@
       720
     ]
   },
+  "https://i.ytimg.com/vi/mXMVzbpgM4k/hqdefault.jpg": {
+    "sha256": "1014268cfcd8478e448e354ab782922d1902feb26d6662255c2b0c8e45cf4b1a",
+    "ext": "jpg",
+    "bytes": 111377,
+    "width": 1280,
+    "height": 720,
+    "from": "https://i.ytimg.com/vi/mXMVzbpgM4k/maxresdefault.jpg",
+    "widths": [
+      180,
+      360,
+      720
+    ]
+  },
   "https://i.ytimg.com/vi/n4cQre-Ra2w/hqdefault.jpg": {
     "sha256": "b9c1e2d47c4f8524e06abd447130f29ee1941930637ee46dad0b2ede46cb08ea",
     "ext": "jpg",
@@ -7181,6 +7298,19 @@
     "bytes": 169070,
     "width": 1280,
     "height": 720,
+    "widths": [
+      180,
+      360,
+      720
+    ]
+  },
+  "https://i.ytimg.com/vi/N8cDH6n4nKs/hqdefault.jpg": {
+    "sha256": "ef0d3f65306037dff60fde053218641468aff8f197774a1cb2d04d6e2fbd609f",
+    "ext": "jpg",
+    "bytes": 140581,
+    "width": 1280,
+    "height": 720,
+    "from": "https://i.ytimg.com/vi/N8cDH6n4nKs/maxresdefault.jpg",
     "widths": [
       180,
       360,
@@ -8092,6 +8222,19 @@
     "width": 1280,
     "height": 720,
     "from": "https://i.ytimg.com/vi/sGzbLUICPgU/maxresdefault.jpg",
+    "widths": [
+      180,
+      360,
+      720
+    ]
+  },
+  "https://i.ytimg.com/vi/slA7MgP0sjk/hqdefault.jpg": {
+    "sha256": "05856b58075587015528fcc7dc42ee2fc22bcf72937233003e4274791bb1b299",
+    "ext": "jpg",
+    "bytes": 153857,
+    "width": 1280,
+    "height": 720,
+    "from": "https://i.ytimg.com/vi/slA7MgP0sjk/maxresdefault.jpg",
     "widths": [
       180,
       360,
@@ -9246,6 +9389,18 @@
     "bytes": 121610,
     "width": 1280,
     "height": 720,
+    "widths": [
+      180,
+      360,
+      720
+    ]
+  },
+  "https://i.ytimg.com/vi/ZYfSObD4aFI/hqdefault.jpg": {
+    "sha256": "23ecf34995487ce1969d2720843e66fb101d48971205a0978d8c5b383a1c8182",
+    "ext": "jpg",
+    "bytes": 11444,
+    "width": 480,
+    "height": 360,
     "widths": [
       180,
       360,
@@ -15025,6 +15180,19 @@
       720
     ]
   },
+  "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f3/8b/70/f38b705f-db00-cbd9-65cf-fa9bd044da06/196292601763.jpg/1200x630bb.jpg": {
+    "sha256": "f31b8730ee0a6ebdbc41eda94e8735be55f2994729cbdd4c40b929bb10dbfc27",
+    "ext": "jpg",
+    "bytes": 481838,
+    "width": 1200,
+    "height": 1200,
+    "from": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f3/8b/70/f38b705f-db00-cbd9-65cf-fa9bd044da06/196292601763.jpg/1200x1200bb.jpg",
+    "widths": [
+      180,
+      360,
+      720
+    ]
+  },
   "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/fc/ac/74/fcac7446-2644-115f-c405-d51d91e164ac/196292716306_Cover.jpg/1200x1200bb.jpg": {
     "sha256": "ecd2533b2fefefc853de9c1f9b1eb74164c2aae57388696acb90325c024e6847",
     "ext": "jpg",
@@ -15588,6 +15756,19 @@
     "width": 1200,
     "height": 1200,
     "from": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6e/70/1e/6e701e70-8197-d87d-b180-5cf25d26058a/artwork.jpg/1200x1200bb.jpg",
+    "widths": [
+      180,
+      360,
+      720
+    ]
+  },
+  "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/70/25/e7/7025e710-f50a-c234-2ba5-cef011c41f4a/196292705799.jpg/1200x630bb.jpg": {
+    "sha256": "e9d270bb81f0692a084b2967ca8296d48f7d0f6920622c019bacd8ef4a6a79ac",
+    "ext": "jpg",
+    "bytes": 517432,
+    "width": 1200,
+    "height": 1200,
+    "from": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/70/25/e7/7025e710-f50a-c234-2ba5-cef011c41f4a/196292705799.jpg/1200x1200bb.jpg",
     "widths": [
       180,
       360,
