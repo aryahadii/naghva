@@ -1,0 +1,55 @@
+id: Qf8v7yn
+type: release
+statements:
+  name:
+  - value:
+      text: I Take Pictures of Fire
+      language: en
+    references:
+    - source: zojduet.bandcamp.com-album-fil-o-fenjoon
+      quote: I Take Pictures of Fire
+      accessed: '2026-11-21'
+      locator: Track 1 of FIL O FENJOON
+  performer:
+  - value: Qk5bhh3
+    references:
+    - source: zojduet.bandcamp.com-track-i-take-pictures-of-fire
+      quote: I Take Pictures of Fire | ZÖJ
+      accessed: '2026-11-21'
+      locator: Track page title
+  release date:
+  - value:
+      date: '2023-11-15'
+    references:
+    - source: zojduet.bandcamp.com-album-fil-o-fenjoon
+      quote: released November 15, 2023
+      accessed: '2026-11-21'
+      locator: Release credits, publication date
+  cover art:
+  - value: https://f4.bcbits.com/img/a0814075114_10.jpg
+    qualifiers:
+      credit:
+        text: Gelareh Pour and Brian O’Dwyer
+        language: en
+    references:
+    - source: zojduet.bandcamp.com-album-fil-o-fenjoon
+      quote: https://f4.bcbits.com/img/a0814075114_10.jpg
+      accessed: '2026-11-21'
+      locator: Full-sized album artwork
+    - source: zojduet.bandcamp.com-album-fil-o-fenjoon
+      quote: Cover image by Gelareh Pour and Brian O’Dwyer
+      accessed: '2026-11-21'
+      locator: Artwork credit
+  listen link:
+  - value: https://zojduet.bandcamp.com/track/i-take-pictures-of-fire
+    references:
+    - source: zojduet.bandcamp.com-track-i-take-pictures-of-fire
+      quote: I Take Pictures of Fire | ZÖJ
+      accessed: '2026-11-21'
+      locator: Track page title
+  - value: https://open.spotify.com/track/2CnUIvl2JPEQmZxKpd3S1f
+    references:
+    - source: open.spotify.com-album-6logrmo7xsqcw70aredyjz
+      quote: I Take Pictures of Fire
+      accessed: '2026-11-21'
+      locator: Track 1 in the Spotify album player

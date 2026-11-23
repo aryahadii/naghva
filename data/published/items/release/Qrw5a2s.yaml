@@ -1,0 +1,70 @@
+id: Qrw5a2s
+type: release
+statements:
+  name:
+  - value:
+      text: My Empty Boat (Part 3)
+      language: en
+    references:
+    - source: zojduet.bandcamp.com-album-fil-o-fenjoon
+      quote: My Empty Boat (Part 3)
+      accessed: '2026-11-21'
+      locator: Track 3 of FIL O FENJOON
+  performer:
+  - value: Qk5bhh3
+    references:
+    - source: zojduet.bandcamp.com-track-my-empty-boat-part-3
+      quote: My Empty Boat (Part 3) | ZÖJ
+      accessed: '2026-11-21'
+      locator: Track page title
+  release date:
+  - value:
+      date: '2023-11-15'
+    references:
+    - source: zojduet.bandcamp.com-album-fil-o-fenjoon
+      quote: released November 15, 2023
+      accessed: '2026-11-21'
+      locator: Release credits, publication date
+  cover art:
+  - value: https://f4.bcbits.com/img/a0814075114_10.jpg
+    qualifiers:
+      credit:
+        text: Gelareh Pour and Brian O’Dwyer
+        language: en
+    references:
+    - source: zojduet.bandcamp.com-album-fil-o-fenjoon
+      quote: https://f4.bcbits.com/img/a0814075114_10.jpg
+      accessed: '2026-11-21'
+      locator: Full-sized album artwork
+    - source: zojduet.bandcamp.com-album-fil-o-fenjoon
+      quote: Cover image by Gelareh Pour and Brian O’Dwyer
+      accessed: '2026-11-21'
+      locator: Artwork credit
+  listen link:
+  - value: https://zojduet.bandcamp.com/track/my-empty-boat-part-3
+    references:
+    - source: zojduet.bandcamp.com-track-my-empty-boat-part-3
+      quote: My Empty Boat (Part 3) | ZÖJ
+      accessed: '2026-11-21'
+      locator: Track page title
+  - value: https://music.apple.com/au/album/my-empty-boat-pt-3-feat-brian-odwyer-z%C3%B6j/1716138459?i=1716138462
+    references:
+    - source: music.apple.com-au-album-fil-o-fenjoon-1716138459
+      quote: My Empty Boat, Pt. 3 (feat. Brian O'Dwyer & ZÖJ)
+      accessed: '2026-11-21'
+      locator: Album track list, track 3
+  - value: https://open.spotify.com/track/0rGmHpqt3roTE4gyBbHdCS
+    references:
+    - source: open.spotify.com-album-6logrmo7xsqcw70aredyjz
+      quote: My Empty Boat, Pt. 3
+      accessed: '2026-11-21'
+      locator: Album track list, track 3
+  contributor:
+  - value: Qtwfs8w
+    qualifiers:
+      role: lyricist
+    references:
+    - source: zojduet.bandcamp.com-track-my-empty-boat-part-3
+      quote: 'Poet: Hushang Ebtehaj'
+      accessed: '2026-11-21'
+      locator: Poet named with the song text
