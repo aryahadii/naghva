@@ -1,0 +1,86 @@
+id: Qf9m42y
+type: release
+statements:
+  name:
+  - value:
+      text: Lepeler
+      language: en
+    references:
+    - source: music.apple.com-us-album-lepeler-single-1514405773uo-4
+      quote: Lepeler
+      locator: Artist discography, original sound recording or label
+      accessed: '2026-11-21'
+  performer:
+  - value: Qwxqpwd
+    references:
+    - source: baharmovahed.com-musics
+      quote: 'Vocal: Bahar Movahed, Safa Shahidi'
+      locator: Artist discography, original sound recording or label
+      accessed: '2026-11-21'
+    qualifiers:
+      role: vocals
+  - value: Qq27yya
+    references:
+    - source: baharmovahed.com-musics
+      quote: 'Piano and Arrangement: Safa Shahidi'
+      locator: Artist discography, original sound recording or label
+      accessed: '2026-11-21'
+    qualifiers:
+      role: piano
+  release date:
+  - value:
+      date: '2019'
+    references:
+    - source: baharmovahed.com-musics
+      quote: Little waves (Lepeler), 2019
+      locator: Artist discography, original sound recording or label
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/fa/60/3f/fa603f1c-a447-6679-3a1f-994021a0cb9b/859739290493_cover.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-lepeler-single-1514405773uo-4
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/fa/60/3f/fa603f1c-a447-6679-3a1f-994021a0cb9b/859739290493_cover.jpg/1200x630bb.jpg
+      locator: Artist discography, original sound recording or label
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Bahar Movahed · release artwork
+        language: en
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-lepeler-single-1514405773uo-4
+      quote: Lepeler
+      locator: Artist discography, original sound recording or label
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://music.apple.com/us/song/lepeler/1514405787
+    references:
+    - source: music.apple.com-us-album-lepeler-single-1514405773uo-4
+      quote: Lepeler
+      locator: Artist discography, original sound recording or label
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/56El4rC6QVLOhHO1QJkv42
+    references:
+    - source: open.spotify.com-embed-album-6hk3uvv4xwhayncdkrc49u
+      quote: Lepeler
+      locator: Artist discography, original sound recording or label
+      accessed: '2026-11-21'
+  - value: https://music.apple.com/us/album/lepeler-single/1514405773
+    references:
+    - source: music.apple.com-us-album-lepeler-single-1514405773uo-4
+      quote: Lepeler - Single
+      locator: Artist discography, original sound recording or label
+      accessed: '2026-11-21'
+  - value: https://soundcloud.com/bahar-movahed/lepeler-little-waves-bahar-movahed-safa-shahidi
+    references:
+    - source: soundcloud.com-bahar-movahed-lepeler-little-waves-bahar-movahed-safa-shahidi
+      quote: Lepeler (Little Waves), Bahar Movahed . Safa Shahidi
+      locator: Artist discography, original sound recording or label
+      accessed: '2026-11-21'
+  - value: https://www.youtube.com/watch?v=FQ1Qm2vHYxE
+    references:
+    - source: www.youtube.com-oembed-fq1qm2vhyxe
+      quote: Lepeler (Little Waves), Bahar Movahed
+      locator: Original recording, artist or presenter
+      accessed: '2026-11-21'

@@ -1,0 +1,71 @@
+id: Q57cj49
+type: person
+statements:
+  name:
+  - value:
+      text: Payam Yousefi
+      language: en
+    references:
+    - source: payamyousefimusic.com
+      quote: 'Payam Yousefi: Music Scholar, Performer, and Ethnographer'
+      accessed: '2026-11-21'
+      locator: Artist introduction
+  - value:
+      text: پیام یوسفی
+      language: fa
+    references:
+    - source: www.irancircle.org-post-classical-music-contemporary-era
+      quote: پیام یوسفی
+      accessed: '2026-11-21'
+      locator: Presented lecture, Persian speaker billing
+  profile link:
+  - value: https://payamyousefi.bandcamp.com/music
+    references:
+    - source: payamyousefi.bandcamp.com-music
+      quote: Songs of Hope | Payam Yousefi
+      accessed: '2026-11-21'
+      locator: Original page title
+  - value: https://music.apple.com/us/artist/payam-yousefi/1788065626
+    references:
+    - source: music.apple.com-us-artist-payam-yousefi-1788065626
+      quote: ‎Payam Yousefi - Apple Music
+      accessed: '2026-11-21'
+      locator: Original page title
+  - value: https://open.spotify.com/artist/47eUtNo6994pKmDjeEDW53
+    references:
+    - source: open.spotify.com-artist-47eutno6994pkmdjeedw53
+      quote: Listen to Payam Yousefi Songs | Spotify
+      accessed: '2026-11-21'
+      locator: Original page title
+  - value: https://www.youtube.com/channel/UCVnNgm9EPxVQ0wlo_v7bnoQ
+    references:
+    - source: www.youtube.com-channel-ucvnngm9epxvq0wlo_v7bnoq-videos
+      quote: Payam Yousefi - YouTube
+      accessed: '2026-11-21'
+      locator: Original page title
+  - value: https://soundcloud.com/payam-yousef
+    references:
+    - source: soundcloud.com-payam-yousef-tracks
+      quote: Stream Payam Yousefi | Listen to music albums online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Original page title
+  image:
+  - value: https://f4.bcbits.com/img/0038316830_10.jpg
+    qualifiers:
+      credit:
+        text: Payam Yousefi on Bandcamp
+        language: en
+    references:
+    - source: payamyousefi.bandcamp.com-music
+      quote: https://f4.bcbits.com/img/0038316830_10.jpg
+      accessed: '2026-11-21'
+      locator: Artist’s native Bandcamp profile portrait
+  member of:
+  - value: Qq46ncj
+    qualifiers:
+      role: kamancheh
+    references:
+    - source: www.youtube.com-watch-v-bmqvtvievfw
+      quote: 'Kamancheh: Payam Yousefi'
+      accessed: '2026-11-21'
+      locator: Ensemble personnel
