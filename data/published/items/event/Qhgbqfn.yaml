@@ -1,0 +1,30 @@
+id: Qhgbqfn
+type: event
+statements:
+  name:
+  - value:
+      text: The Voices of Persia – Berliner Philharmonie
+      language: en
+    references:
+    - source: www.berliner-philharmoniker.de-en-concert-calendar-55732
+      quote: Houshmand Ebadi
+      accessed: 2026-11-22
+      locator: Berlin personnel, ney
+  event date:
+  - value:
+      date: '2024-11-15'
+    references:
+    - source: www.berliner-philharmoniker.de-en-concert-calendar-55732
+      quote: Houshmand Ebadi
+      accessed: 2026-11-22
+      locator: Berlin personnel, ney
+  performer:
+  - value: Qxwemnb
+    qualifiers:
+      role:
+      - ney
+    references:
+    - source: www.berliner-philharmoniker.de-en-concert-calendar-55732
+      quote: Houshmand Ebadi
+      accessed: 2026-11-22
+      locator: Berlin personnel, ney

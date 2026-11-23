@@ -1,0 +1,50 @@
+id: Q5rfxp7
+type: release
+statements:
+  name:
+  - value:
+      text: Shour
+      language: en
+    references:
+    - source: music.apple.com-us-album-ir-c4-81-1546043899
+      quote: Shour
+      accessed: 2026-11-22
+      locator: Track 2 in label delivery
+  performer:
+  - value: Qmkhy5b
+    qualifiers:
+      role:
+      - tar
+    references:
+    - source: music.apple.com-us-album-ir-c4-81-1546043899
+      quote: Irā · Siavash Imani · 2021-01-15
+      accessed: 2026-11-22
+      locator: Native issue
+  listen link:
+  - value: https://music.apple.com/us/song/shour/1546043901
+    references:
+    - source: music.apple.com-us-album-ir-c4-81-1546043899
+      quote: Shour
+      accessed: 2026-11-22
+      locator: Track 2 in label delivery
+  - value: https://open.spotify.com/track/37QBKiC29V3PiiT94rGsxe
+    references:
+    - source: open.spotify.com-album-0nz7ouwncq8swd6yciqolp
+      quote: Shour · Siavash Imani
+      accessed: 2026-11-22
+      locator: Track 2 on the Spotify issue
+  release date:
+  - value:
+      date: '2021-01-15'
+    references:
+    - source: music.apple.com-us-album-ir-c4-81-1546043899
+      quote: Shour
+      accessed: 2026-11-22
+      locator: Track 2 in label delivery
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/7f/38/42/7f38425d-968a-9519-6630-5c0f8b722b04/195999189994.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-ir-c4-81-1546043899
+      quote: Shour
+      accessed: 2026-11-22
+      locator: Track 2 in label delivery

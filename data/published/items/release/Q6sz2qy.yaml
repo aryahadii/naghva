@@ -1,0 +1,65 @@
+id: Q6sz2qy
+type: release
+statements:
+  name:
+  - value:
+      text: Fifer
+      language: en
+    references:
+    - source: music.apple.com-us-album-fifer-1454318191
+      quote: Fifer · Houshmand Ebadi · 2019-02-04
+      accessed: 2026-11-22
+      locator: Native issue
+  - value:
+      text: نایی
+      language: fa
+    references:
+    - source: khoobo.com-hooshmand-ebadi-fifer
+      quote: نایی، تنهاییِ ثبت و ضبط شده‌ی اوست
+      accessed: 2026-11-22
+      locator: Liner note on the solo album
+  performer:
+  - value: Qxwemnb
+    qualifiers:
+      role:
+      - ney
+    references:
+    - source: music.apple.com-us-album-fifer-1454318191
+      quote: Fifer · Houshmand Ebadi · 2019-02-04
+      accessed: 2026-11-22
+      locator: Native issue
+  listen link:
+  - value: https://music.apple.com/us/album/fifer/1454318191
+    references:
+    - source: music.apple.com-us-album-fifer-1454318191
+      quote: Fifer · Houshmand Ebadi · 2019-02-04
+      accessed: 2026-11-22
+      locator: Native issue
+  - value: https://open.spotify.com/album/3PgI1ttEXZKxR07lPIzPt0
+    references:
+    - source: open.spotify.com-album-3pgi1ttexzkxr07lpizpt0
+      quote: Fifer · Houshmand Ebadi
+      accessed: 2026-11-22
+      locator: Native issue
+  release date:
+  - value:
+      date: '2019-02-04'
+    references:
+    - source: music.apple.com-us-album-fifer-1454318191
+      quote: Fifer · Houshmand Ebadi · 2019-02-04
+      accessed: 2026-11-22
+      locator: Native issue
+  release type:
+  - value: album
+    references:
+    - source: music.apple.com-us-album-fifer-1454318191
+      quote: Fifer · Houshmand Ebadi · 2019-02-04
+      accessed: 2026-11-22
+      locator: Native issue
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e0/f4/5d/e0f45d93-c00f-1428-9f03-0cf0f391516e/193428746404.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-fifer-1454318191
+      quote: Fifer · Houshmand Ebadi · 2019-02-04
+      accessed: 2026-11-22
+      locator: Native issue
