@@ -4,7 +4,7 @@ import { tmpdir } from 'node:os';
 import { join } from 'node:path';
 import { execFileSync } from 'node:child_process';
 import { test } from 'node:test';
-import { recordingArtists } from '../src/lib/record.ts';
+import { catalogueReleasesOf, recordingArtists } from '../src/lib/record.ts';
 import { artistView } from '../src/lib/artist.ts';
 import { artistJsonLd, siteJsonLd } from '../src/lib/jsonld.ts';
 import { fold, ranked, searchPage } from '../src/lib/search.ts';
@@ -102,4 +102,21 @@ test('release panels show writing and production credits in their own row, with 
     }
   }
   assert.ok(checked > 0);
+});
+
+test('a contributor can browse a recording on their page with the original performer billing', () => {
+  // A release the artist wrote or produced but doesn't perform on.
+  const creditOf = (artist) => catalogueReleasesOf(published, artist).find((release) => !(artist.releases ?? []).includes(release.id));
+  const composer = Object.values(published.items).find((item) => item.page && creditOf(item));
+  assert.ok(composer);
+  const credit = { item: creditOf(composer).id };
+  for (const lang of ['en', 'fa']) {
+    const view = artistView(published, composer, lang);
+    const panels = view.releases.filter((panel) => panel.item.id === credit.item);
+    assert.equal(panels.length, 1);
+    const graph = artistJsonLd(published, composer, lang, new URL('https://example.org'))['@graph'];
+    const album = graph.find((node) => node.url?.endsWith('#' + encodeURIComponent(panels[0].anchor)));
+    assert.ok(album);
+    assert.ok(album.byArtist.every((performer) => performer['@id'] !== graph[0]['@id']));
+  }
 });
