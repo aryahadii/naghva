@@ -6227,6 +6227,18 @@
       720
     ]
   },
+  "https://i.scdn.co/image/ab67616d0000b27357c4fd0a601176bd7aa3cf2b": {
+    "sha256": "e9465af2a4de8bc56e39a9f9b2cda7888a6623779a8e659f56a4a420df8b7d9e",
+    "ext": "jpg",
+    "bytes": 97842,
+    "width": 640,
+    "height": 640,
+    "widths": [
+      180,
+      360,
+      720
+    ]
+  },
   "https://i.scdn.co/image/ab67616d0000b27359372212ba1df8645e8ef7b8": {
     "bytes": 120486,
     "ext": "jpg",
@@ -6581,6 +6593,18 @@
     "height": 640,
     "sha256": "7c7c69ef687c95cef56d7f296a17f4af60c3dcbfc6c61c0f2a1a793bf985e11a",
     "width": 640,
+    "widths": [
+      180,
+      360,
+      720
+    ]
+  },
+  "https://i.scdn.co/image/ab67616d0000b273afa1b2956d8c6e4554784d11": {
+    "sha256": "ce284798a55e6db85a0e3afbb24d535656dd403d6f62e99d73569dfab83023e4",
+    "ext": "jpg",
+    "bytes": 118889,
+    "width": 640,
+    "height": 640,
     "widths": [
       180,
       360,
