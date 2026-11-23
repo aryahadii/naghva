@@ -1,0 +1,45 @@
+id: Qz5ph4k
+type: release
+statements:
+  name:
+  - value:
+      text: The Same Dreams
+      language: en
+    references:
+    - source: soundcloud.com-nummusic-the-same-dreams
+      quote: The Same Dreams
+      accessed: '2026-11-21'
+      locator: Recording title
+  performer:
+  - value: Qm4skc3
+    references:
+    - source: soundcloud.com-nummusic-the-same-dreams
+      quote: Stream The Same Dreams by NUM | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://soundcloud.com/nummusic/the-same-dreams
+    references:
+    - source: soundcloud.com-nummusic-the-same-dreams
+      quote: Stream The Same Dreams by NUM | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2012-09-23'
+    references:
+    - source: soundcloud.com-nummusic-the-same-dreams
+      quote: '2012-09-23T12:54:25Z'
+      accessed: '2026-11-21'
+      locator: SoundCloud release or upload date
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-000035796878-0swy5i-t500x500.jpg
+    references:
+    - source: soundcloud.com-nummusic-the-same-dreams
+      quote: https://i1.sndcdn.com/artworks-000035796878-0swy5i-t500x500.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: NUM on SoundCloud
+        language: en

@@ -1,0 +1,57 @@
+id: Qfqr88e
+type: release
+statements:
+  name:
+  - value:
+      text: Is This the End?
+      language: en
+    references:
+    - source: numduo.bandcamp.com-track-is-this-the-end
+      quote: Is This the End?
+      accessed: '2026-11-21'
+      locator: Recording title
+  performer:
+  - value: Qm4skc3
+    references:
+    - source: numduo.bandcamp.com-track-is-this-the-end
+      quote: Is This the End? | NUM
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://numduo.bandcamp.com/track/is-this-the-end
+    references:
+    - source: numduo.bandcamp.com-track-is-this-the-end
+      quote: Is This the End? | NUM
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/is-this-the-end/1861996753
+    references:
+    - source: music.apple.com-us-song-is-this-the-end-1861996753
+      quote: ‎Is This The End? - Song with Lyrics by NUM - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/4FT4rpJjYzjT0rX2RifV8F
+    references:
+    - source: open.spotify.com-track-4ft4rpjjyzjt0rx2rifv8f
+      quote: Is This The End? - song and lyrics by NUM | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2025-12-18'
+    references:
+    - source: numduo.bandcamp.com-album-seas-coming-for-me
+      quote: released December 18, 2025
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a0329851628_10.jpg
+    references:
+    - source: numduo.bandcamp.com-album-seas-coming-for-me
+      quote: https://f4.bcbits.com/img/a0329851628_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Bandcamp · NUM
+        language: en
