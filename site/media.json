@@ -4642,6 +4642,19 @@
       720
     ]
   },
+  "https://f4.bcbits.com/img/a2628393227_5.jpg": {
+    "sha256": "485fa61dd6d1c6892029e2a2191be8fbde1dae32f61eeb240760f2d7a09dabb6",
+    "ext": "jpg",
+    "bytes": 48355,
+    "width": 1200,
+    "height": 1200,
+    "from": "https://f4.bcbits.com/img/a2628393227_10.jpg",
+    "widths": [
+      180,
+      360,
+      720
+    ]
+  },
   "https://f4.bcbits.com/img/a2637218584_10.jpg": {
     "sha256": "6ecf8948bcaad7f8d8e0c6dd3cc8182dafa1d2ac1da439e57f3d166bb5ece6ec",
     "ext": "jpg",
@@ -19732,6 +19745,18 @@
       720
     ]
   },
+  "https://i.ytimg.com/vi/H3zpQ49FRoQ/hqdefault.jpg": {
+    "sha256": "b0e24cbf7adc1dd216481574a735f556c76f678e138f9c27ab0b09665d13b9f3",
+    "ext": "jpg",
+    "bytes": 13155,
+    "width": 480,
+    "height": 360,
+    "widths": [
+      180,
+      360,
+      720
+    ]
+  },
   "https://i.ytimg.com/vi/H5PBATiDUmk/hqdefault.jpg": {
     "sha256": "325cddb1cb04320700896346c719b373891f19f38962e668f4f3f55e44a88e80",
     "ext": "jpg",
@@ -20557,6 +20582,19 @@
     "width": 1280,
     "height": 720,
     "from": "https://i.ytimg.com/vi/HyO17vVagFw/maxresdefault.jpg",
+    "widths": [
+      180,
+      360,
+      720
+    ]
+  },
+  "https://i.ytimg.com/vi/hYpfYYJTiXU/hqdefault.jpg": {
+    "sha256": "b0bef995a11ea1b133925878130f480b6c8bf6ac73dacaf3f33a9f6986abb2bb",
+    "ext": "jpg",
+    "bytes": 85751,
+    "width": 1280,
+    "height": 720,
+    "from": "https://i.ytimg.com/vi/hYpfYYJTiXU/maxresdefault.jpg",
     "widths": [
       180,
       360,
@@ -31914,6 +31952,19 @@
     "width": 1280,
     "height": 720,
     "from": "https://i.ytimg.com/vi/uoHXQ0OOdFQ/maxresdefault.jpg",
+    "widths": [
+      180,
+      360,
+      720
+    ]
+  },
+  "https://i.ytimg.com/vi/uoyizls2Mls/hqdefault.jpg": {
+    "sha256": "bb04d3c1879fd5345b35c95b22df97043aed8b82e0817d83265b02152eb1547c",
+    "ext": "jpg",
+    "bytes": 187264,
+    "width": 1280,
+    "height": 720,
+    "from": "https://i.ytimg.com/vi/uoyizls2Mls/maxresdefault.jpg",
     "widths": [
       180,
       360,
