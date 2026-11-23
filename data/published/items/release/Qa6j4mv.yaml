@@ -1,0 +1,88 @@
+id: Qa6j4mv
+type: release
+statements:
+  name:
+  - value:
+      text: Khayyam
+      language: en
+    references:
+    - source: maryamrahmani.bandcamp.com-track-khayyam
+      quote: Khayyam
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  performer:
+  - value: Qtwtxvd
+    references:
+    - source: maryamrahmani.bandcamp.com-track-khayyam
+      quote: Khayyam | Maryam Rahmani
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qss73r7
+    references:
+    - source: maryamrahmani.bandcamp.com-album-kamand
+      quote: Sebastian Collen - piano and electronics on 1 and 7
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://maryamrahmani.bandcamp.com/track/khayyam
+    references:
+    - source: maryamrahmani.bandcamp.com-track-khayyam
+      quote: Khayyam | Maryam Rahmani
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/khayyam-single/1829876817
+    references:
+    - source: music.apple.com-us-album-khayyam-single-1829876817
+      quote: ‎Khayyam - Single - Album by Maryam Rahmani - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/khayyam/1832657061
+    references:
+    - source: music.apple.com-us-song-khayyam-1832657061
+      quote: ‎Khayyam - Song with Lyrics by Maryam Rahmani - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/khayyam/1829876819
+    references:
+    - source: music.apple.com-us-song-khayyam-1829876819
+      quote: ‎Khayyam - Song with Lyrics by Maryam Rahmani - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/38YifvI4YMDmz6gCWHwizP
+    references:
+    - source: open.spotify.com-track-38yifvi4ymdmz6gcwhwizp
+      quote: Khayyam - song and lyrics by Maryam Rahmani | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/76gabxfFb1HKHBD4SfkyGR
+    references:
+    - source: open.spotify.com-track-76gabxffb1hkhbd4sfkygr
+      quote: Khayyam - song and lyrics by Maryam Rahmani | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2025-08-13'
+    references:
+    - source: music.apple.com-us-album-khayyam-single-1829876817
+      quote: August 13, 2025
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a1069223098_10.jpg
+    references:
+    - source: maryamrahmani.bandcamp.com-track-khayyam
+      quote: https://f4.bcbits.com/img/a1069223098_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Kaspar Schmidt Mumm / Music in Exile
+        language: en
+  published by:
+  - value: Qarpnwr
+    references:
+    - source: maryamrahmani.bandcamp.com-album-kamand
+      quote: Music in Exile
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
