@@ -1,0 +1,51 @@
+id: Qm3fd5c
+type: act
+statements:
+  name:
+  - value:
+      text: Cheshmak
+      language: en
+    references:
+    - source: localdish.bandcamp.com-album-cheshmak-ep
+      quote: Cheshmak
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value:
+      text: چشمک
+      language: fa
+    references:
+    - source: podcasts.apple.com-ie-podcast-e1-s2--d8-b9-d8-a7-d8-b1-d9-81--d9-85-db-8c-d8-b1-d8-a8-d8-a7-d9-82-db-8c--d9-88--d8-a7-d8-ac-d8-b1-d8-a7-db-8c--da-af-d8-b1-d9-88-d9-87--da-86-d8-b4-d9-85-da-a9-aref-mirbaghi-id1771190219-i-1000720419653
+      quote: چشمک
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  image:
+  - value: https://i.ytimg.com/vi/RE_0n48KgMc/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-re_0n48kgmc
+      quote: https://i.ytimg.com/vi/RE_0n48KgMc/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: Gooshgir, Cheshmak Studio Live Session
+        language: en
+  based in:
+  - value: Qhm6fzw
+    references:
+    - source: localdish.bandcamp.com-album-cheshmak-ep
+      quote: trio based in Tehran
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  profile link:
+  - value: https://music.apple.com/us/artist/cheshmak/1773652107
+    references:
+    - source: music.apple.com-us-artist-cheshmak-1773652107
+      quote: ‎Cheshmak - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/artist/0spsAKGnq2mYkh4cTAZFNz
+    references:
+    - source: open.spotify.com-artist-0spsakgnq2mykh4ctazfnz
+      quote: Listen to Cheshmak Songs | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
