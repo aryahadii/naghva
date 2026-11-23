@@ -1,0 +1,46 @@
+id: Qd4gwas
+type: act
+statements:
+  name:
+  - value:
+      text: Ensemble Chakâm
+      language: en
+    references:
+    - source: www.sogol.art-en
+      quote: Ensemble Chakâm
+      locator: Artist project and original album credit
+      accessed: '2026-11-21'
+  - value:
+      text: تریو چکام
+      language: fa
+    references:
+    - source: iranianfrance.com-tag
+      quote: تریو چکام
+      locator: Original programme, liner notes or performer credit
+      accessed: '2026-11-21'
+  profile link:
+  - value: https://www.youtube.com/channel/UCkBXfCivrXy2piPa6ikh25g
+    references:
+    - source: www.youtube.com-channel-uckbxfcivrxy2pipa6ikh25g
+      quote: UCkBXfCivrXy2piPa6ikh25g
+      locator: Original programme, liner notes or performer credit
+      accessed: '2026-11-21'
+  image:
+  - value: https://yt3.googleusercontent.com/jB1dVy6-FJxOEd6C6KT4MdgGAnbsp6RRKnIlHrfnEwWJkqg1a5VC1F2b4_8pqf1decnYMhjYEg=s900-c-k-c0x00ffffff-no-rj
+    qualifiers:
+      credit:
+        text: Ensemble Chakâm’s YouTube channel
+        language: en
+    references:
+    - source: www.youtube.com-channel-uckbxfcivrxy2pipa6ikh25g
+      quote: https://yt3.googleusercontent.com/jB1dVy6-FJxOEd6C6KT4MdgGAnbsp6RRKnIlHrfnEwWJkqg1a5VC1F2b4_8pqf1decnYMhjYEg=s900-c-k-c0x00ffffff-no-rj
+      locator: Original programme, liner notes or performer credit
+      accessed: '2026-11-21'
+  formation date:
+  - value:
+      date: '2014'
+    references:
+    - source: www.sogol.art-en-project
+      quote: I founded the Ensemble Chakâm in 2014
+      locator: Original programme, liner notes or performer credit
+      accessed: '2026-11-21'

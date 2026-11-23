@@ -1,4 +1,18 @@
 {
+  "https://aa-e.org/wp-content/uploads/2020/04/Aida-Nosrat_Babak-Amir-Mobasher-425x640.jpg": {
+    "sha256": "ec2e4060147cadfd4602c0c0f5f78a396951e36c29f2278fe592dd20e5e1edbd",
+    "ext": "jpg",
+    "bytes": 31963,
+    "width": 425,
+    "height": 640,
+    "widths": [
+      240,
+      360,
+      640,
+      960,
+      1200
+    ]
+  },
   "https://actmusic.com/thumbnail/06/d1/a3/1776946694/8022-2_Titel_3000_1920x1920.jpg?ts=1776946694": {
     "bytes": 626427,
     "ext": "jpg",
@@ -4398,6 +4412,19 @@
       720
     ]
   },
+  "https://i.ytimg.com/vi/0DOcah4YFOw/hqdefault.jpg": {
+    "sha256": "e3c8cc9f565f7c8ff33ce6f4028bbbd57128fb48dcfcab9bccc059d8649afda2",
+    "ext": "jpg",
+    "bytes": 71876,
+    "width": 1280,
+    "height": 720,
+    "from": "https://i.ytimg.com/vi/0DOcah4YFOw/maxresdefault.jpg",
+    "widths": [
+      180,
+      360,
+      720
+    ]
+  },
   "https://i.ytimg.com/vi/0e2clCTXS5I/hqdefault.jpg": {
     "sha256": "c5bf3e611023a004be15a5d442bb44d82f00158e032fd68f0a3b0a437a850fd7",
     "ext": "jpg",
@@ -7253,6 +7280,19 @@
       720
     ]
   },
+  "https://i.ytimg.com/vi/Lh7cLqAn2D0/hqdefault.jpg": {
+    "sha256": "0d71f0794a46e4020a562bff37bf805f6504bc0d33459755e887a390e1a44c01",
+    "ext": "jpg",
+    "bytes": 192548,
+    "width": 1280,
+    "height": 720,
+    "from": "https://i.ytimg.com/vi/Lh7cLqAn2D0/maxresdefault.jpg",
+    "widths": [
+      180,
+      360,
+      720
+    ]
+  },
   "https://i.ytimg.com/vi/LI0VY30LC3A/hqdefault.jpg": {
     "sha256": "95bf51b04a9a138792bd5c848dc02dfecc3f1e0615473ef4106037393bbf3604",
     "ext": "jpg",
@@ -8422,6 +8462,19 @@
     "bytes": 12768,
     "width": 480,
     "height": 360,
+    "widths": [
+      180,
+      360,
+      720
+    ]
+  },
+  "https://i.ytimg.com/vi/RnJaW9uOjgE/hqdefault.jpg": {
+    "sha256": "3308bfdff5a807425c8e646adb084240501cf802565a2343c90d6dd6bc415457",
+    "ext": "jpg",
+    "bytes": 50436,
+    "width": 1280,
+    "height": 720,
+    "from": "https://i.ytimg.com/vi/RnJaW9uOjgE/maxresdefault.jpg",
     "widths": [
       180,
       360,
@@ -18845,6 +18898,19 @@
       720
     ]
   },
+  "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/0b/63/12/0b63120f-12cb-680e-7134-c7f0c226dd6e/cover.jpg/1200x630bb.jpg": {
+    "sha256": "c94773064432d434e3cda9bb13e19c56ea9565fa2bcc3b39de6b3572f6b18f8f",
+    "ext": "jpg",
+    "bytes": 393986,
+    "width": 1200,
+    "height": 1200,
+    "from": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/0b/63/12/0b63120f-12cb-680e-7134-c7f0c226dd6e/cover.jpg/1200x1200bb.jpg",
+    "widths": [
+      180,
+      360,
+      720
+    ]
+  },
   "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/0c/54/7f/0c547faa-abf7-1a6a-a19c-0461058dbd74/cover_4064832457322.jpg/1200x630wp-60.jpg": {
     "sha256": "fea51bf9497d461674045e25d52a75879034cf66d07b9cc6418b64f94a7079ab",
     "ext": "jpg",
@@ -27891,6 +27957,34 @@
       720
     ]
   },
+  "https://themarkaz.org/wp-content/uploads/2024/10/Arabesques-Atine-with-lead-singer-Aida-Nosrat-at-the-Opera-2024-©Luc-Jennepin.jpg": {
+    "sha256": "a39a000a2768e0e898dbeca64f59e798fa5f2228efef782482913c2a740b6dc4",
+    "ext": "jpg",
+    "bytes": 113858,
+    "width": 1400,
+    "height": 933,
+    "widths": [
+      240,
+      360,
+      640,
+      960,
+      1200
+    ]
+  },
+  "https://themarkaz.org/wp-content/uploads/2024/10/Atine-on-stage-Arabesques-Atine-2024-©Luc-Jennepin.jpg": {
+    "sha256": "0bc63baf70dddcc80c8992a6eb3cbb80c7d4c8d1a0344abbb3fb644de5c6c2c6",
+    "ext": "jpg",
+    "bytes": 91290,
+    "width": 1000,
+    "height": 667,
+    "widths": [
+      240,
+      360,
+      640,
+      960,
+      1200
+    ]
+  },
   "https://trap.no/uploads/_1200x630_crop_center-center_none/padik-copy.jpg": {
     "sha256": "1208b6195eb22fc17cad448664e1d37294bf43788ad4880f65e55d98a7094be7",
     "ext": "jpg",
@@ -28349,6 +28443,34 @@
     "sha256": "246abcb3963a51b9290dd51cb41fd0a7a8596a58eadb7956b4c4db670809cdc7",
     "ext": "jpg",
     "bytes": 79438,
+    "width": 900,
+    "height": 900,
+    "widths": [
+      240,
+      360,
+      640,
+      960,
+      1200
+    ]
+  },
+  "https://yt3.googleusercontent.com/cvdd530OLNhjNELW9YHEHZhVpuddUvBUjWSpx2T_PhIbWg9089cgxhbSMuw2qPu-PDL0MkLY3Q=s900-c-k-c0x00ffffff-no-rj": {
+    "sha256": "4ddda9ffc7c0f4ab3ef36a04178ee686dd5cadd702cdf3fde8f147cc0abc9177",
+    "ext": "jpg",
+    "bytes": 142680,
+    "width": 900,
+    "height": 900,
+    "widths": [
+      240,
+      360,
+      640,
+      960,
+      1200
+    ]
+  },
+  "https://yt3.googleusercontent.com/jB1dVy6-FJxOEd6C6KT4MdgGAnbsp6RRKnIlHrfnEwWJkqg1a5VC1F2b4_8pqf1decnYMhjYEg=s900-c-k-c0x00ffffff-no-rj": {
+    "sha256": "56792c0ab5953d9c0a60819c5fdb7e693e9629f1d9ffbe0fbdbd6dd584241827",
+    "ext": "jpg",
+    "bytes": 217422,
     "width": 900,
     "height": 900,
     "widths": [
