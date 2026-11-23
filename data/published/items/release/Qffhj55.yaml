@@ -1,0 +1,51 @@
+id: Qffhj55
+type: release
+statements:
+  name:
+  - value:
+      text: Etu Keur Gui Part 1
+      language: en
+    references:
+    - source: music.apple.com-us-album-1710396161
+      quote: Etu Keur Gui Part 1
+      locator: Named recording on the edition
+      accessed: '2026-11-21'
+  performer:
+  - value: Qwqf8en
+    references:
+    - source: music.apple.com-us-album-1710396161
+      quote: Etu Keur Gui Part 1
+      locator: Named recording on the edition
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2023-09-29'
+    references:
+    - source: music.apple.com-us-album-1710396161
+      quote: '2023-09-29'
+      locator: Streaming edition date
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/42/c9/ef/42c9ef0f-6fdd-44f4-7e4c-42357afb58b6/197190029543.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-1710396161
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/42/c9/ef/42c9ef0f-6fdd-44f4-7e4c-42357afb58b6/197190029543.jpg/1200x630bb.jpg
+      locator: Image supplied with the artist or recording
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Release artwork · Apple Music
+        language: en
+  listen link:
+  - value: https://music.apple.com/us/song/etu-keur-gui-part-1/1710397254
+    references:
+    - source: music.apple.com-us-album-1710396161
+      quote: Etu Keur Gui Part 1
+      locator: Named recording on the edition
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/18w2UMtlMEF3LjpnYWJ3iy
+    references:
+    - source: open.spotify.com-album-2wdjnsuwgfgdvrbih49d43
+      quote: Etu Keur Gui Part 1
+      locator: Streaming track
+      accessed: '2026-11-21'
