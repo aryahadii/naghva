@@ -1,0 +1,93 @@
+id: Q5zfrvz
+type: release
+statements:
+  name:
+  - value:
+      text: Saz - E Man, Zolf - E Yar
+      language: en
+    references:
+    - source: music.apple.com-us-album-saz-e-man-zolf-e-yar-single-1777978973
+      quote: Saz - E Man, Zolf - E Yar
+      accessed: 2026-11-22
+      locator: Track 1 in label delivery
+  - value:
+      text: ساز من، زلف یار
+      language: fa
+    references:
+    - source: soundcloud.com-siavashimanitar-9t4gtsqbhktf
+      quote: ساز من، زلف یار
+      accessed: 2026-11-22
+      locator: Original SoundCloud title and recording credits
+  performer:
+  - value: Qmkhy5b
+    qualifiers:
+      role:
+      - tar
+    references:
+    - source: music.apple.com-us-album-saz-e-man-zolf-e-yar-single-1777978973
+      quote: Saz - E Man, Zolf - E Yar - Single · Afsaneh Rasaei, Siavash Imani · 2012-01-01
+      accessed: 2026-11-22
+      locator: Native issue
+  listen link:
+  - value: https://music.apple.com/us/song/saz-e-man-zolf-e-yar/1777978974
+    references:
+    - source: music.apple.com-us-album-saz-e-man-zolf-e-yar-single-1777978973
+      quote: Saz - E Man, Zolf - E Yar
+      accessed: 2026-11-22
+      locator: Track 1 in label delivery
+  - value: https://music.apple.com/us/album/saz-e-man-zolf-e-yar-single/1777978973
+    references:
+    - source: music.apple.com-us-album-saz-e-man-zolf-e-yar-single-1777978973
+      quote: Saz - E Man, Zolf - E Yar - Single · Afsaneh Rasaei, Siavash Imani · 2012-01-01
+      accessed: 2026-11-22
+      locator: Native issue
+  - value: https://open.spotify.com/album/0hv27I7lV17Mt7kcBaYXq7
+    references:
+    - source: open.spotify.com-album-0hv27i7lv17mt7kcbayxq7
+      quote: Saz-e Man, Zolf-e Yar · Afsaneh Rasaei
+      accessed: 2026-11-22
+      locator: Label delivery on Spotify
+  - value: https://open.spotify.com/track/5DaktguNvq5PEv65Tq1HT4
+    references:
+    - source: open.spotify.com-album-0hv27i7lv17mt7kcbayxq7
+      quote: Saz-e Man, Zolf-e Yar · Afsaneh Rasaei, Siavash Imani
+      accessed: 2026-11-22
+      locator: Track 1 on the Spotify issue
+  - value: https://soundcloud.com/siavashimanitar/9t4gtsqbhktf
+    references:
+    - source: soundcloud.com-siavashimanitar-9t4gtsqbhktf
+      quote: 'آواز: افسانه رثایی - تار: سیاوش ایمانی'
+      accessed: 2026-11-22
+      locator: SoundCloud performer credits
+  release date:
+  - value:
+      date: '2012-01-01'
+    references:
+    - source: music.apple.com-us-album-saz-e-man-zolf-e-yar-single-1777978973
+      quote: Saz - E Man, Zolf - E Yar
+      accessed: 2026-11-22
+      locator: Track 1 in label delivery
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-saz-e-man-zolf-e-yar-single-1777978973
+      quote: Saz - E Man, Zolf - E Yar
+      accessed: 2026-11-22
+      locator: Track 1 in label delivery
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/29/67/16/29671675-e31a-31ec-c42f-2c8d8a2e47e6/055905007869.png/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-saz-e-man-zolf-e-yar-single-1777978973
+      quote: Saz - E Man, Zolf - E Yar
+      accessed: 2026-11-22
+      locator: Track 1 in label delivery
+  contributor:
+  - value: Qmkhy5b
+    qualifiers:
+      role:
+      - arranger
+    references:
+    - source: soundcloud.com-siavashimanitar-9t4gtsqbhktf
+      quote: 'تنظیم: سیاوش ایمانی'
+      accessed: 2026-11-22
+      locator: Track arrangement credit
