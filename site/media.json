@@ -3115,6 +3115,18 @@
       720
     ]
   },
+  "https://f4.bcbits.com/img/a1263160771_10.jpg": {
+    "sha256": "59da40f55bc7bebcbb4e3e6f2b2656d94275e74654d3977078d531c26c8c80da",
+    "ext": "jpg",
+    "bytes": 276837,
+    "width": 1200,
+    "height": 1200,
+    "widths": [
+      180,
+      360,
+      720
+    ]
+  },
   "https://f4.bcbits.com/img/a1267581734_10.jpg": {
     "sha256": "e7a84227b67cd3202487db0f6f62639c232a0b1dc40eef49a9e4a41767f91c5a",
     "ext": "jpg",
@@ -39827,6 +39839,58 @@
     "bytes": 97800,
     "width": 500,
     "height": 500,
+    "widths": [
+      180,
+      360,
+      720
+    ]
+  },
+  "https://i1.sndcdn.com/artworks-000162789442-saq1en-large.jpg": {
+    "sha256": "1a958db87f3370b38b697e69beac05af4bddc496cf409c9d7b013a20ba6dc438",
+    "ext": "jpg",
+    "bytes": 17558,
+    "width": 500,
+    "height": 500,
+    "from": "https://i1.sndcdn.com/artworks-000162789442-saq1en-t500x500.jpg",
+    "widths": [
+      180,
+      360,
+      720
+    ]
+  },
+  "https://i1.sndcdn.com/artworks-000162789449-ezf0cv-large.jpg": {
+    "sha256": "684327821903fca21fc8ff3adb741fdf116cfc2bda9810b173420db3cd4e2a0d",
+    "ext": "jpg",
+    "bytes": 17734,
+    "width": 500,
+    "height": 500,
+    "from": "https://i1.sndcdn.com/artworks-000162789449-ezf0cv-t500x500.jpg",
+    "widths": [
+      180,
+      360,
+      720
+    ]
+  },
+  "https://i1.sndcdn.com/artworks-000162789454-eibniv-large.jpg": {
+    "sha256": "684327821903fca21fc8ff3adb741fdf116cfc2bda9810b173420db3cd4e2a0d",
+    "ext": "jpg",
+    "bytes": 17734,
+    "width": 500,
+    "height": 500,
+    "from": "https://i1.sndcdn.com/artworks-000162789454-eibniv-t500x500.jpg",
+    "widths": [
+      180,
+      360,
+      720
+    ]
+  },
+  "https://i1.sndcdn.com/artworks-000162789458-exbxgp-large.jpg": {
+    "sha256": "684327821903fca21fc8ff3adb741fdf116cfc2bda9810b173420db3cd4e2a0d",
+    "ext": "jpg",
+    "bytes": 17734,
+    "width": 500,
+    "height": 500,
+    "from": "https://i1.sndcdn.com/artworks-000162789458-exbxgp-t500x500.jpg",
     "widths": [
       180,
       360,

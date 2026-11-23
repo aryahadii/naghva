@@ -1,0 +1,45 @@
+id: Qeb4dfg
+type: release
+statements:
+  name:
+  - value:
+      text: Dunkle Manie
+      language: en
+    references:
+    - source: bitrotrecords.bandcamp.com-album-kollektive-1
+      quote: Dunkle Manie
+      locator: Unland’s track on the compilation
+      accessed: '2026-11-21'
+  performer:
+  - value: Qs2xmxr
+    references:
+    - source: bitrotrecords.bandcamp.com-album-kollektive-1
+      quote: Dunkle Manie
+      locator: Unland’s track on the compilation
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2015-12-13'
+    references:
+    - source: bitrotrecords.bandcamp.com-album-kollektive-1
+      quote: 13 Dec 2015 00:00:00 GMT
+      locator: Release date
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://f4.bcbits.com/img/a1612355686_10.jpg
+    references:
+    - source: bitrotrecords.bandcamp.com-album-kollektive-1
+      quote: https://f4.bcbits.com/img/a1612355686_10.jpg
+      locator: Label cover
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: BITROT · recording artwork
+        language: en
+  listen link:
+  - value: https://bitrotrecords.bandcamp.com/track/dunkle-manie
+    references:
+    - source: bitrotrecords.bandcamp.com-album-kollektive-1
+      quote: Dunkle Manie
+      locator: Unland’s track on the compilation
+      accessed: '2026-11-21'
