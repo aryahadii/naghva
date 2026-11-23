@@ -1,0 +1,44 @@
+id: Qycwr2s
+type: release
+statements:
+  name:
+  - value:
+      text: بداهه نوازی بر اساس یک مقام خراسانی
+      language: fa
+    references:
+    - source: t.me-kiyarashdavoudi-61
+      quote: بداهه نوازی بر اساس یک مقام خراسانی @kiyarash_davoudi
+      accessed: '2026-11-21'
+      locator: Artist caption and performance context
+  performer:
+  - value: Qyrsg2f
+    qualifiers:
+      role: santur
+    references:
+    - source: t.me-kiyarashdavoudi-61
+      quote: بداهه نوازی بر اساس یک مقام خراسانی @kiyarash_davoudi
+      accessed: '2026-11-21'
+      locator: Artist caption and performance context
+    - source: t.me-kiyarashdavoudi-61
+      quote: کیارش داودی | KiyarashDavoudi
+      accessed: '2026-11-21'
+      locator: Artist publishing channel
+  listen link:
+  - value: https://t.me/kiyarashdavoudi/61
+    references:
+    - source: t.me-kiyarashdavoudi-61
+      quote: بداهه نوازی بر اساس یک مقام خراسانی @kiyarash_davoudi
+      accessed: '2026-11-21'
+      locator: Artist caption and performance context
+    - source: t.me-kiyarashdavoudi-61
+      quote: کیارش داودی | KiyarashDavoudi
+      accessed: '2026-11-21'
+      locator: Artist publishing channel
+  release date:
+  - value:
+      date: '2017-10-02'
+    references:
+    - source: t.me-kiyarashdavoudi-61
+      quote: '2017-10-02'
+      accessed: '2026-11-21'
+      locator: Artist channel publication date

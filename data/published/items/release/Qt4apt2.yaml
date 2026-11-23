@@ -1,0 +1,44 @@
+id: Qt4apt2
+type: release
+statements:
+  name:
+  - value:
+      text: کردبیات
+      language: fa
+    references:
+    - source: t.me-kiyarashdavoudi-86
+      quote: 'به یاد گذشته ... کردبیات همه عالم به تو می‌بینم و این نیست عجب به که بینم؟ که تویی چشم مرا بینایی پیش ازین گر '
+      accessed: '2026-11-21'
+      locator: Artist caption and performance context
+  performer:
+  - value: Qyrsg2f
+    qualifiers:
+      role: santur
+    references:
+    - source: t.me-kiyarashdavoudi-86
+      quote: 'به یاد گذشته ... کردبیات همه عالم به تو می‌بینم و این نیست عجب به که بینم؟ که تویی چشم مرا بینایی پیش ازین گر '
+      accessed: '2026-11-21'
+      locator: Artist caption and performance context
+    - source: t.me-kiyarashdavoudi-86
+      quote: کیارش داودی | KiyarashDavoudi
+      accessed: '2026-11-21'
+      locator: Artist publishing channel
+  listen link:
+  - value: https://t.me/kiyarashdavoudi/86
+    references:
+    - source: t.me-kiyarashdavoudi-86
+      quote: 'به یاد گذشته ... کردبیات همه عالم به تو می‌بینم و این نیست عجب به که بینم؟ که تویی چشم مرا بینایی پیش ازین گر '
+      accessed: '2026-11-21'
+      locator: Artist caption and performance context
+    - source: t.me-kiyarashdavoudi-86
+      quote: کیارش داودی | KiyarashDavoudi
+      accessed: '2026-11-21'
+      locator: Artist publishing channel
+  release date:
+  - value:
+      date: '2018-08-09'
+    references:
+    - source: t.me-kiyarashdavoudi-86
+      quote: '2018-08-09'
+      accessed: '2026-11-21'
+      locator: Artist channel publication date

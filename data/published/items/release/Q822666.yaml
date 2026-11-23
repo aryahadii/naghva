@@ -1,0 +1,60 @@
+id: Q822666
+type: release
+statements:
+  name:
+  - value:
+      text: چهارمضراب بیداد همراه با آواز
+      language: fa
+    references:
+    - source: t.me-kiyarashdavoudi-113
+      quote: 'آواز : منصور جمعه زاده تنبک : کریم ابراهیمی سنتور : کیارش داودی چهارمضراب بیداد همراه با آواز بخشی از کنسرت ته'
+      accessed: '2026-11-21'
+      locator: Artist caption and performance context
+  performer:
+  - value: Qyrsg2f
+    qualifiers:
+      role: santur
+    references:
+    - source: t.me-kiyarashdavoudi-113
+      quote: 'آواز : منصور جمعه زاده تنبک : کریم ابراهیمی سنتور : کیارش داودی چهارمضراب بیداد همراه با آواز بخشی از کنسرت ته'
+      accessed: '2026-11-21'
+      locator: Artist caption and performance context
+    - source: t.me-kiyarashdavoudi-113
+      quote: کیارش داودی | KiyarashDavoudi
+      accessed: '2026-11-21'
+      locator: Artist publishing channel
+  - value: Qwq89ny
+    qualifiers:
+      role: vocals
+    references:
+    - source: t.me-kiyarashdavoudi-113
+      quote: 'آواز : منصور جمعه زاده تنبک : کریم ابراهیمی سنتور : کیارش داودی چهارمضراب بیداد همراه با آواز بخشی از کنسرت تهران ( جشنواره کلاسیک ایرانی ) @kiyarash_davoudi @kiyara'
+      accessed: '2026-11-21'
+      locator: Performer lineup
+  - value: Qvkrzpm
+    qualifiers:
+      role: tombak
+    references:
+    - source: t.me-kiyarashdavoudi-113
+      quote: 'آواز : منصور جمعه زاده تنبک : کریم ابراهیمی سنتور : کیارش داودی چهارمضراب بیداد همراه با آواز بخشی از کنسرت تهران ( جشنواره کلاسیک ایرانی ) @kiyarash_davoudi @kiyara'
+      accessed: '2026-11-21'
+      locator: Performer lineup
+  listen link:
+  - value: https://t.me/kiyarashdavoudi/113
+    references:
+    - source: t.me-kiyarashdavoudi-113
+      quote: 'آواز : منصور جمعه زاده تنبک : کریم ابراهیمی سنتور : کیارش داودی چهارمضراب بیداد همراه با آواز بخشی از کنسرت ته'
+      accessed: '2026-11-21'
+      locator: Artist caption and performance context
+    - source: t.me-kiyarashdavoudi-113
+      quote: کیارش داودی | KiyarashDavoudi
+      accessed: '2026-11-21'
+      locator: Artist publishing channel
+  release date:
+  - value:
+      date: '2018-10-29'
+    references:
+    - source: t.me-kiyarashdavoudi-113
+      quote: '2018-10-29'
+      accessed: '2026-11-21'
+      locator: Artist channel publication date

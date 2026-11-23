@@ -1,0 +1,44 @@
+id: Qm88v5z
+type: release
+statements:
+  name:
+  - value:
+      text: چهارمضراب دشتی
+      language: fa
+    references:
+    - source: t.me-kiyarashdavoudi-65
+      quote: چهارمضراب دشتی اثر حضرت استاد جلیل شهناز @kiyarash_davoudi
+      accessed: '2026-11-21'
+      locator: Artist caption and performance context
+  performer:
+  - value: Qyrsg2f
+    qualifiers:
+      role: santur
+    references:
+    - source: t.me-kiyarashdavoudi-65
+      quote: چهارمضراب دشتی اثر حضرت استاد جلیل شهناز @kiyarash_davoudi
+      accessed: '2026-11-21'
+      locator: Artist caption and performance context
+    - source: t.me-kiyarashdavoudi-65
+      quote: کیارش داودی | KiyarashDavoudi
+      accessed: '2026-11-21'
+      locator: Artist publishing channel
+  listen link:
+  - value: https://t.me/kiyarashdavoudi/65
+    references:
+    - source: t.me-kiyarashdavoudi-65
+      quote: چهارمضراب دشتی اثر حضرت استاد جلیل شهناز @kiyarash_davoudi
+      accessed: '2026-11-21'
+      locator: Artist caption and performance context
+    - source: t.me-kiyarashdavoudi-65
+      quote: کیارش داودی | KiyarashDavoudi
+      accessed: '2026-11-21'
+      locator: Artist publishing channel
+  release date:
+  - value:
+      date: '2017-11-11'
+    references:
+    - source: t.me-kiyarashdavoudi-65
+      quote: '2017-11-11'
+      accessed: '2026-11-21'
+      locator: Artist channel publication date

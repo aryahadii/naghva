@@ -1,0 +1,44 @@
+id: Q8ftwnh
+type: release
+statements:
+  name:
+  - value:
+      text: آواز بیداد
+      language: fa
+    references:
+    - source: t.me-kiyarashdavoudi-8
+      quote: آواز بیداد متاثر از پرداخت های آوازی سید احمد خان در صفحه ی قدیمی به همراه کمانچه باقرخان رامشگر @kiyarash_dav
+      accessed: '2026-11-21'
+      locator: Artist caption and performance context
+  performer:
+  - value: Qyrsg2f
+    qualifiers:
+      role: santur
+    references:
+    - source: t.me-kiyarashdavoudi-8
+      quote: آواز بیداد متاثر از پرداخت های آوازی سید احمد خان در صفحه ی قدیمی به همراه کمانچه باقرخان رامشگر @kiyarash_dav
+      accessed: '2026-11-21'
+      locator: Artist caption and performance context
+    - source: t.me-kiyarashdavoudi-8
+      quote: کیارش داودی | KiyarashDavoudi
+      accessed: '2026-11-21'
+      locator: Artist publishing channel
+  listen link:
+  - value: https://t.me/kiyarashdavoudi/8
+    references:
+    - source: t.me-kiyarashdavoudi-8
+      quote: آواز بیداد متاثر از پرداخت های آوازی سید احمد خان در صفحه ی قدیمی به همراه کمانچه باقرخان رامشگر @kiyarash_dav
+      accessed: '2026-11-21'
+      locator: Artist caption and performance context
+    - source: t.me-kiyarashdavoudi-8
+      quote: کیارش داودی | KiyarashDavoudi
+      accessed: '2026-11-21'
+      locator: Artist publishing channel
+  release date:
+  - value:
+      date: '2017-06-05'
+    references:
+    - source: t.me-kiyarashdavoudi-8
+      quote: '2017-06-05'
+      accessed: '2026-11-21'
+      locator: Artist channel publication date

@@ -1,0 +1,66 @@
+id: Qckkweq
+type: release
+statements:
+  name:
+  - value:
+      text: Zarbi Bidad
+      language: en
+    references:
+    - source: music.apple.com-us-album-the-scream-of-sepration-1762656412
+      quote: Zarbi Bidad
+      accessed: '2026-11-21'
+      locator: Apple Music track 3
+  performer:
+  - value: Qy4rh86
+    references:
+    - source: www.youtube.com-watch-v-5amq9mffkbs
+      quote: اجرای همنوازان وداد
+      accessed: '2026-11-21'
+      locator: Ensemble performance credit
+  release date:
+  - value:
+      date: '2024-08-12'
+    references:
+    - source: music.apple.com-us-album-the-scream-of-sepration-1762656412
+      quote: '2024-08-12'
+      accessed: '2026-11-21'
+      locator: Digital edition date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/79/99/0b/79990bbc-e310-2eaf-4f24-01c8a5c6a271/198846024271.jpg/1200x630bb.jpg
+    qualifiers:
+      credit:
+        text: Apple Music edition artwork
+        language: en
+    references:
+    - source: music.apple.com-us-album-the-scream-of-sepration-1762656412
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/79/99/0b/79990bbc-e310-2eaf-4f24-01c8a5c6a271/198846024271.jpg/1200x630bb.jpg
+      accessed: '2026-11-21'
+      locator: Digital edition artwork
+  listen link:
+  - value: https://music.apple.com/us/song/zarbi-bidad/1762656433
+    references:
+    - source: music.apple.com-us-album-the-scream-of-sepration-1762656412
+      quote: Zarbi Bidad
+      accessed: '2026-11-21'
+      locator: Apple Music track 3
+  - value: https://open.spotify.com/track/7BdxiJQZ8RfOpr2JX4iY0W
+    references:
+    - source: open.spotify.com-album-7od5sujlryzj4zc9rfth66
+      quote: Zarbi Bidad
+      accessed: '2026-11-21'
+      locator: Spotify track 3
+  - value: https://soundcloud.com/kiyarashdavoudi/zarbi-bidad
+    references:
+    - source: soundcloud.com-kiyarashdavoudi-zarbi-bidad
+      quote: Zarbi Bidad
+      accessed: '2026-11-21'
+      locator: Artist SoundCloud recording title
+  contributor:
+  - value: Qyrsg2f
+    qualifiers:
+      role: composer
+    references:
+    - source: www.youtube.com-watch-v-5amq9mffkbs
+      quote: 'آلبوم فریاد هجران منتشر شد | آهنگساز: کیارش داودی | خواننده: منصور جمعه‌زاده | اجرا: همنوازان وداد'
+      accessed: '2026-11-21'
+      locator: Native YouTube title
