@@ -1,0 +1,67 @@
+id: Q55yync
+type: release
+statements:
+  name:
+  - value:
+      text: Thermocline
+      language: en
+    references:
+    - source: vazesh.bandcamp.com-track-thermocline
+      quote: Thermocline
+      accessed: '2026-11-21'
+      locator: Track name
+  performer:
+  - value: Q597kk9
+    references:
+    - source: vazesh.bandcamp.com-track-thermocline
+      quote: Thermocline | Vazesh
+      accessed: '2026-11-21'
+      locator: Bandcamp title
+  listen link:
+  - value: https://vazesh.bandcamp.com/track/thermocline
+    references:
+    - source: vazesh.bandcamp.com-track-thermocline
+      quote: Thermocline | Vazesh
+      accessed: '2026-11-21'
+      locator: Bandcamp title
+  - value: https://music.apple.com/us/song/thermocline-feat-jeremy-rose-hamed-sadeghi-lloyd-swanton/1573854779
+    references:
+    - source: music.apple.com-us-album-the-sacred-key-feat-jeremy-rose-hamed-sadeghi-lloyd-swanton-1573854774
+      quote: Thermocline (feat. Jeremy Rose, Hamed Sadeghi & Lloyd Swanton)
+      accessed: '2026-11-21'
+      locator: Album track 2
+  - value: https://open.spotify.com/track/0HKDURYSBoOeeSRsXqgFwa
+    references:
+    - source: open.spotify.com-album-1ovhykx7efdcc4o8hnvtxd
+      quote: Thermocline
+      accessed: '2026-11-21'
+      locator: Album track 2
+  - value: https://www.youtube.com/watch?v=7gMzHPMFroc
+    references:
+    - source: www.youtube.com-playlist-list-olak5uy_mktqds40upeuierniulhfs6n71cmaigt0
+      quote: Thermocline
+      accessed: '2026-11-21'
+      locator: YouTube track list
+  cover art:
+  - value: https://f4.bcbits.com/img/a3550990946_10.jpg
+    qualifiers:
+      credit:
+        text: Hojjat Hamidi, photography
+        language: en
+    references:
+    - source: vazesh.bandcamp.com-album-the-sacred-key
+      quote: https://f4.bcbits.com/img/a3550990946_10.jpg
+      accessed: '2026-11-21'
+      locator: Full-size album artwork
+    - source: vazesh.bandcamp.com-album-the-sacred-key
+      quote: Photograph by Hojjat Hamidi
+      accessed: '2026-11-21'
+      locator: Cover photograph
+  release date:
+  - value:
+      date: '2021-07-25'
+    references:
+    - source: vazesh.bandcamp.com-album-the-sacred-key
+      quote: released July 25, 2021
+      accessed: '2026-11-21'
+      locator: Bandcamp date

@@ -1,0 +1,104 @@
+id: Qtgm46e
+type: release
+statements:
+  name:
+  - value:
+      text: Divan
+      language: en
+    references:
+    - source: vazesh.bandcamp.com-track-divan
+      quote: Divan
+      accessed: '2026-11-21'
+      locator: Track name
+  performer:
+  - value: Q597kk9
+    references:
+    - source: vazesh.bandcamp.com-track-divan
+      quote: Divan | Vazesh
+      accessed: '2026-11-21'
+      locator: Bandcamp title
+  listen link:
+  - value: https://vazesh.bandcamp.com/track/divan
+    references:
+    - source: vazesh.bandcamp.com-track-divan
+      quote: Divan | Vazesh
+      accessed: '2026-11-21'
+      locator: Bandcamp title
+  - value: https://music.apple.com/us/song/divan-feat-jeremy-rose-hamed-sadeghi-lloyd-swanton/1761965037
+    references:
+    - source: music.apple.com-us-album-tapestry-feat-jeremy-rose-hamed-sadeghi-lloyd-swanton-1761964815
+      quote: Divan (feat. Jeremy Rose, Hamed Sadeghi & Lloyd Swanton)
+      accessed: '2026-11-21'
+      locator: Album track 11
+  - value: https://open.spotify.com/track/5czfmmQFMzhWRTXoNl1RwS
+    references:
+    - source: open.spotify.com-album-2yyj9fanbna8ndityaf2eq
+      quote: Divan
+      accessed: '2026-11-21'
+      locator: Album track 11
+  - value: https://www.youtube.com/watch?v=33SMKb1VtA8
+    references:
+    - source: www.youtube.com-playlist-list-olak5uy_lhurn1oaq1khe9tfprquedyzd0poam-k0
+      quote: Divan
+      accessed: '2026-11-21'
+      locator: YouTube track list
+  cover art:
+  - value: https://f4.bcbits.com/img/a3480374628_10.jpg
+    qualifiers:
+      credit:
+        text: Hojjat Hamidi, photography
+        language: en
+    references:
+    - source: vazesh.bandcamp.com-album-tapestry
+      quote: https://f4.bcbits.com/img/a3480374628_10.jpg
+      accessed: '2026-11-21'
+      locator: Full-size album artwork
+    - source: vazesh.bandcamp.com-album-tapestry
+      quote: photography by Hojjat Hamidi
+      accessed: '2026-11-21'
+      locator: Packaging photography
+  release date:
+  - value:
+      date: '2024-11-08'
+    references:
+    - source: vazesh.bandcamp.com-album-tapestry
+      quote: released November 8, 2024
+      accessed: '2026-11-21'
+      locator: Bandcamp date
+  contributor:
+  - value: Qmgbz4h
+    qualifiers:
+      role: composer
+    references:
+    - source: thebluemoment.com-2024-10-04-other-sounds-2-vazesh
+      quote: divided into 14 tracks, each jointly credited and given a single-word title
+      accessed: '2026-11-21'
+      locator: Richard Williams on the second album
+    - source: vazesh.bandcamp.com-album-the-sacred-key
+      quote: Hamed Sadeghi, tar, Jeremy Rose, saxophone and bass clarinet, Lloyd Swanton, double bass
+      accessed: '2026-11-21'
+      locator: Album credits
+  - value: Q46dmzw
+    qualifiers:
+      role: composer
+    references:
+    - source: thebluemoment.com-2024-10-04-other-sounds-2-vazesh
+      quote: divided into 14 tracks, each jointly credited and given a single-word title
+      accessed: '2026-11-21'
+      locator: Richard Williams on the second album
+    - source: vazesh.bandcamp.com-album-the-sacred-key
+      quote: Hamed Sadeghi, tar, Jeremy Rose, saxophone and bass clarinet, Lloyd Swanton, double bass
+      accessed: '2026-11-21'
+      locator: Album credits
+  - value: Qfjxs3e
+    qualifiers:
+      role: composer
+    references:
+    - source: thebluemoment.com-2024-10-04-other-sounds-2-vazesh
+      quote: divided into 14 tracks, each jointly credited and given a single-word title
+      accessed: '2026-11-21'
+      locator: Richard Williams on the second album
+    - source: vazesh.bandcamp.com-album-the-sacred-key
+      quote: Hamed Sadeghi, tar, Jeremy Rose, saxophone and bass clarinet, Lloyd Swanton, double bass
+      accessed: '2026-11-21'
+      locator: Album credits
