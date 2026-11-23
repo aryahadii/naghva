@@ -1,0 +1,76 @@
+id: Q8yvar3
+type: release
+statements:
+  name:
+  - value:
+      text: Paresh-e Jal
+      language: en
+    references:
+    - source: open.spotify.com-album-7950ehhqm6ke3v9dswlrev
+      quote: Paresh-e Jal
+      accessed: '2026-11-21'
+      locator: Spotify edition
+  performer:
+  - value: Qndvgwn
+    references:
+    - source: open.spotify.com-album-7950ehhqm6ke3v9dswlrev
+      quote: Badieh
+      accessed: '2026-11-21'
+      locator: Single billing
+  release type:
+  - value: single
+    references:
+    - source: open.spotify.com-album-7950ehhqm6ke3v9dswlrev
+      quote: Paresh-e Jal
+      accessed: '2026-11-21'
+      locator: Spotify edition
+  release date:
+  - value:
+      date: '2020-11-20'
+    references:
+    - source: badieh.bandcamp.com-track-paresh-e-jal
+      quote: released November 20, 2020
+      accessed: '2026-11-21'
+      locator: Original digital issue
+  listen link:
+  - value: https://badieh.bandcamp.com/track/paresh-e-jal
+    references:
+    - source: badieh.bandcamp.com-track-paresh-e-jal
+      quote: Paresh-e Jal | Badieh
+      accessed: '2026-11-21'
+      locator: Original standalone single
+  - value: https://open.spotify.com/album/7950eHhQM6Ke3v9dSwlrEv
+    references:
+    - source: open.spotify.com-album-7950ehhqm6ke3v9dswlrev
+      quote: Paresh-e Jal
+      accessed: '2026-11-21'
+      locator: Spotify edition
+  - value: https://music.apple.com/us/album/paresh-e-jal-single/1540097727
+    references:
+    - source: music.apple.com-us-album-paresh-e-jal-single-1540097727
+      quote: Paresh - E Jal - Single
+      accessed: '2026-11-21'
+      locator: Apple Music edition
+  - value: https://open.spotify.com/track/4JNLGjpOcxKaUmRA7hEhsB
+    references:
+    - source: open.spotify.com-album-7950ehhqm6ke3v9dswlrev
+      quote: Paresh-e Jal
+      accessed: '2026-11-21'
+      locator: Spotify track 1
+  - value: https://music.apple.com/us/song/paresh-e-jal/1540097728
+    references:
+    - source: music.apple.com-us-album-paresh-e-jal-single-1540097727
+      quote: Paresh - E Jal
+      accessed: '2026-11-21'
+      locator: Apple Music track 1
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/1e/7c/ab/1e7cabb2-24f8-2db3-21bf-9fc312033263/5053760068310.png/1200x630bb.jpg
+    qualifiers:
+      credit:
+        text: Digital single artwork
+        language: en
+    references:
+    - source: music.apple.com-us-album-paresh-e-jal-single-1540097727
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/1e/7c/ab/1e7cabb2-24f8-2db3-21bf-9fc312033263/5053760068310.png/1200x630bb.jpg
+      accessed: '2026-11-21'
+      locator: Single cover

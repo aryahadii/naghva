@@ -1,0 +1,58 @@
+id: Qffd9hz
+type: release
+statements:
+  name:
+  - value:
+      text: Leyla Dar Vakon
+      language: en
+    references:
+    - source: open.spotify.com-album-1nkvmwnx0chfzz8kldwa0d
+      quote: Leyla Dar Vakon
+      accessed: '2026-11-21'
+      locator: Spotify edition
+  performer:
+  - value: Qndvgwn
+    references:
+    - source: open.spotify.com-album-1nkvmwnx0chfzz8kldwa0d
+      quote: Badieh
+      accessed: '2026-11-21'
+      locator: Single billing
+  release type:
+  - value: single
+    references:
+    - source: open.spotify.com-album-1nkvmwnx0chfzz8kldwa0d
+      quote: Leyla Dar Vakon
+      accessed: '2026-11-21'
+      locator: Spotify edition
+  release date:
+  - value:
+      date: '2021-07-02'
+    references:
+    - source: open.spotify.com-album-1nkvmwnx0chfzz8kldwa0d
+      quote: '2021-07-02'
+      accessed: '2026-11-21'
+      locator: Single release date
+  listen link:
+  - value: https://open.spotify.com/album/1NKvMWNx0CHfzZ8kLDWA0d
+    references:
+    - source: open.spotify.com-album-1nkvmwnx0chfzz8kldwa0d
+      quote: Leyla Dar Vakon
+      accessed: '2026-11-21'
+      locator: Spotify edition
+  - value: https://open.spotify.com/track/0pTqIAUkIPFdlRb8nYRpjP
+    references:
+    - source: open.spotify.com-album-1nkvmwnx0chfzz8kldwa0d
+      quote: Leyla Dar Vakon
+      accessed: '2026-11-21'
+      locator: Spotify track 1
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d0000b273f347b310b8e0dacdf5b19f63
+    qualifiers:
+      credit:
+        text: Digital single artwork
+        language: en
+    references:
+    - source: open.spotify.com-album-1nkvmwnx0chfzz8kldwa0d
+      quote: https://i.scdn.co/image/ab67616d0000b273f347b310b8e0dacdf5b19f63
+      accessed: '2026-11-21'
+      locator: Single cover
