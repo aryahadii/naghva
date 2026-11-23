@@ -1,0 +1,32 @@
+id: Q2bdqt7
+type: release
+statements:
+  name:
+  - value:
+      text: Mehdi Moshtagh, Tarde | دیر
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-zmjj1eu6oes
+      quote: Mehdi Moshtagh, Tarde | دیر
+      accessed: '2026-11-21'
+      locator: Music credited by musician or performance publisher
+  performer:
+  - value: Qqb9bnx
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/ZmjJ1Eu6OEs/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-zmjj1eu6oes
+      quote: https://i.ytimg.com/vi/ZmjJ1Eu6OEs/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video frame
+    qualifiers:
+      credit:
+        text: Mehdi Moshtagh
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=ZmjJ1Eu6OEs
+    references:
+    - *id001

@@ -1,0 +1,38 @@
+id: Qvqjven
+type: release
+statements:
+  name:
+  - value:
+      text: Haft Zarbi e Dashti, Setar Mehdi Moshtagh & Majid Hesabi/هفت ضربی دشتی، مهدی مشتاق و مجید حسابی
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-0wbhd8g4k3m
+      quote: Haft Zarbi e Dashti, Setar Mehdi Moshtagh & Majid Hesabi/هفت ضربی دشتی، مهدی مشتاق و مجید حسابی
+      accessed: '2026-11-21'
+      locator: Music credited by musician or performance publisher
+  performer:
+  - value: Qqb9bnx
+    references:
+    - *id001
+  - value: Qset3q2
+    references:
+    - source: www.youtube.com-watch-v-0wbhd8g4k3m
+      quote: Majid Hesabi
+      accessed: '2026-11-21'
+      locator: Collaborator
+  cover art:
+  - value: https://i.ytimg.com/vi/0wbHD8G4k3M/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-0wbhd8g4k3m
+      quote: https://i.ytimg.com/vi/0wbHD8G4k3M/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video frame
+    qualifiers:
+      credit:
+        text: Mehdi Moshtagh
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=0wbHD8G4k3M
+    references:
+    - *id001

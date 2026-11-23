@@ -1,0 +1,38 @@
+id: Qq6mb3x
+type: release
+statements:
+  name:
+  - value:
+      text: Setar, Neyshaburak Mehdi Moshtagh & Majid Hesabi | پنج ضربی نیشابورک
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-vfs48gitot4
+      quote: Setar, Neyshaburak Mehdi Moshtagh & Majid Hesabi | پنج ضربی نیشابورک
+      accessed: '2026-11-21'
+      locator: Music credited by musician or performance publisher
+  performer:
+  - value: Qqb9bnx
+    references:
+    - *id001
+  - value: Qset3q2
+    references:
+    - source: www.youtube.com-watch-v-vfs48gitot4
+      quote: Majid Hesabi
+      accessed: '2026-11-21'
+      locator: Collaborator
+  cover art:
+  - value: https://i.ytimg.com/vi/vfs48GIToT4/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-vfs48gitot4
+      quote: https://i.ytimg.com/vi/vfs48GIToT4/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video frame
+    qualifiers:
+      credit:
+        text: Mehdi Moshtagh
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=vfs48GIToT4
+    references:
+    - *id001

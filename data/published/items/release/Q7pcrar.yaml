@@ -1,0 +1,32 @@
+id: Q7pcrar
+type: release
+statements:
+  name:
+  - value:
+      text: Part 6/12 – Shahr Ashub (Dastgāh Shur) | شهر آشوب دستگاه شور (قسمت ششم)
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-n02odf4is2c
+      quote: Part 6/12 – Shahr Ashub (Dastgāh Shur) | شهر آشوب دستگاه شور (قسمت ششم)
+      accessed: '2026-11-21'
+      locator: Music credited by musician or performance publisher
+  performer:
+  - value: Qqb9bnx
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/N02oDF4Is2c/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-n02odf4is2c
+      quote: https://i.ytimg.com/vi/N02oDF4Is2c/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video frame
+    qualifiers:
+      credit:
+        text: Mehdi Moshtagh
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=N02oDF4Is2c
+    references:
+    - *id001

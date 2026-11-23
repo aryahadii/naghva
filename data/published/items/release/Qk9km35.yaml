@@ -1,0 +1,35 @@
+id: Qk9km35
+type: release
+statements:
+  name:
+  - value:
+      text: Bayat-e-Tork, Mehdi Moshtagh y Francisco Bringas | بیات ترک، مهدی مشتاق
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-f2fkeztrtxi
+      quote: Bayat-e-Tork, Mehdi Moshtagh y Francisco Bringas | بیات ترک، مهدی مشتاق
+      accessed: '2026-11-21'
+      locator: Music credited by musician or performance publisher
+  performer:
+  - value: Qqb9bnx
+    references:
+    - *id001
+  - value: Qzgjdgp
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/F2fkeZTrtXI/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-f2fkeztrtxi
+      quote: https://i.ytimg.com/vi/F2fkeZTrtXI/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video frame
+    qualifiers:
+      credit:
+        text: Mehdi Moshtagh
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=F2fkeZTrtXI
+    references:
+    - *id001

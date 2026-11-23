@@ -1,0 +1,181 @@
+# Mehdi Moshtagh
+
+The performer’s 159-upload original archive, earlier Mona Art publications, the three artist Vimeo uploads, two Apple albums with 14 individual tracks and original Spotify editions, the eight-track Asatir issue, two early discs identified in his first-person interview and his documented ensemble work were reconciled. Existing Didar item IDs are reused. The original cuts of the 2011–2016 retrospective, the 2017 broadcaster programme and its component pieces are described on the group’s page. Presenter announcements, video promos, talks, and uploads without a named or corroborated musical contribution were not given a personal recording attribution. Repeated performances, setar arrangements and separate chapters retain exact native links. Egiptanos’s Quitapenas is an interview-confirmed album credit; its remaining eleven individual titles do not by themselves identify the player. The source catalogue of the unrelated Ancient ABGAL was excluded. Two early discs lack recovered native streams; The Other Pattern and the self-titled Abgal CD are mentioned by a tertiary account and await a sleeve, physical record, or confirmed performance source. No first-party SoundCloud, Telegram or Bandcamp recording catalogue was identified.
+
+- On the Way (Qgbsjcr) ·
+- Roozgar (Qng762q) ·
+- Tarde y Lejos Música Clásica Persa (Qwgtjk7) · https://open.spotify.com/album/4psu3BZpvkx6TGeUlawG0L · https://music.apple.com/us/album/tarde-y-lejos-m%C3%BAsica-cl%C3%A1sica-persa/1500954006
+- Bayât-E-Esfahân (Qgzykmf) · https://open.spotify.com/track/7vMCqS8XKMIdBtaLnJwht1 · https://music.apple.com/us/song/bay%C3%A2t-e-esfah%C3%A2n/1500954007
+- Chahârgâh (Q2wprba) · https://open.spotify.com/track/4Q6H4j3dXgtsHfKJRUCxVK · https://music.apple.com/us/song/chah%C3%A2rg%C3%A2h/1500954008
+- Bayât-E-Tork (Qm25mw5) · https://open.spotify.com/track/5VF0SjgeiXh4xKmBL4yjq1 · https://music.apple.com/us/song/bay%C3%A2t-e-tork/1500954011
+- Perxico, Persia y México (Q273zs5) · https://open.spotify.com/album/0PurKBLlqLgtxmdgsg9H8g · https://music.apple.com/us/album/perxico-persia-y-m%C3%A9xico/1503709581
+- La Llorona (Qh2brdm) · https://open.spotify.com/track/0knHDsP2VMXaWwRYePVlFW · https://music.apple.com/us/song/la-llorona/1503709582
+- Fandango (Qcz6sqm) · https://open.spotify.com/track/7zMFJdgcqY2S9t83tiAcvl · https://music.apple.com/us/song/fandango-feat-manuel-mej%C3%ADa-armijo-casilda-madrazo/1503709585
+- Chiconcanario (Qs4hfvz) · https://open.spotify.com/track/0nZ3ds4YjGIB1OwB3ta0aY · https://music.apple.com/us/song/chiconcanario-feat-manuel-mej%C3%ADa-armijo/1503709591
+- Perdido (Qg44nh7) · https://open.spotify.com/track/5RgVJPPmYymG0ILYnuJ5Ne · https://music.apple.com/us/song/perdido-feat-manuel-mej%C3%ADa-armijo-jos%C3%A9-pablo-jim%C3%A9nez/1503709592
+- La Bruja (Qzg7987) · https://open.spotify.com/track/4HBIqlUtl8C73UlfmvpmaP · https://music.apple.com/us/song/la-bruja-feat-aures-kabir-moussong/1503709838
+- Ghazal (Qm63h2t) · https://open.spotify.com/track/3xAgWQLLsOSJDlpG7PgLhO · https://music.apple.com/us/song/ghazal-feat-jos%C3%A9-pablo-jim%C3%A9nez-jeronimo-zoe/1503709841
+- El Cascabel (Qfnzayb) · https://open.spotify.com/track/6Od4mwdcXyF9UwsqFj8nsp · https://music.apple.com/us/song/el-cascabel-feat-claudio-vega/1503709844
+- 118 (Qjx4tt5) · https://open.spotify.com/track/4QPgUIenXluE9zQ3MyW43s · https://music.apple.com/us/song/118-feat-emiliano-ysunza-rafael-s%C3%A1nchez-duran-aures/1503709846
+- De Repente, Resurrección (Qq6geng) · https://open.spotify.com/track/4EcqktUsAFH30lg5YyjZ4F · https://music.apple.com/us/song/de-repente-resurrecci%C3%B3n-feat-carlos-pichardo/1503709854
+- El Toro (Q5x24jk) · https://open.spotify.com/track/1YEDEOtRM1HqJqcAIkccAn · https://music.apple.com/us/song/el-toro-feat-claudio-vega-francisco-bringas/1503709856
+- La Morena (Qrckjj7) · https://open.spotify.com/track/5402avPrhzjKb63qVoa70p · https://music.apple.com/us/song/la-morena-feat-claudio-vega-francisco-bringas/1503709857
+- Quitapenas (Qtvp7re) · https://open.spotify.com/album/2IQjkO6sJQLk5FgdZ5y8VY · https://music.apple.com/us/album/quitapenas/676974657
+- Asatir (Qz7svhv) · https://open.spotify.com/album/5Zchcgkg2FDZYSnbEYNMuk
+- Ahriman (Qqsgper) · https://open.spotify.com/track/6LIti7DA9gENT2itQ7sIP5
+- Tláloc (Qkt84e6) · https://open.spotify.com/track/5BucDDpDWvFv1AD3tzHh8m
+- Sug-E Siavash (Qzbp28w) · https://open.spotify.com/track/1pBlzKVTRkvVsb21AmrCeo
+- Izta y Popo (Qsnmsn2) · https://open.spotify.com/track/6VUXGlj68oXzsrCAN4zNtD
+- Simorq (Qkap4a4) · https://open.spotify.com/track/50u1ZVKWbsOAqYusQLRWb1
+- Yina (Qjydvjj) · https://open.spotify.com/track/67Y7rbJXRNZEKcu1sE0G0Q
+- Xibalbá (Qq73s4b) · https://open.spotify.com/track/0C3sw3FrJWLGst3kAYLBwm
+- Nik o Bad (Qrpxhgj) · https://open.spotify.com/track/3kljREYDrWvR3OMNySKbKy
+- Persian Setar Improvisation in Dashti | بداهه نوازی در آواز دشتی (Qk9986v) · https://www.youtube.com/watch?v=hiN-J1PotEc
+- Persian Setar Improvisation in Abuata | بداهه نوازی در آواز ابوعطا (Qgh6ztx) · https://www.youtube.com/watch?v=zP6WTnJytVc
+- Persian Setar Improvisation in Shur | بداهه نوازی در کرشمه شور (Qmbjzq6) · https://www.youtube.com/watch?v=mUWYhveeA_E
+- Persian Setar Improvisation in Afshari | بداهه نوازی در آواز افشاری (Qjtc6wm) · https://www.youtube.com/watch?v=eNQra2Ec7KE
+- Setar, Reng Osul | رنگ اصول از ردیف میرزاعبدالله (Q5ztny5) · https://www.youtube.com/watch?v=4rMCQbm4u-A
+- Setar, Sāghi Nāmeh | ساقی نامه از ردیف میرزاعبدالله (Q9fk3qt) · https://www.youtube.com/watch?v=KGEVUYsh90I
+- Setar, Reng Navā | رنگ نوا از ردیف میرزاعبدالله (Qehz2qc) · https://www.youtube.com/watch?v=dzF_u14Yrr0
+- Chaharmezrab Dashti | چهارمضراب دشتی معمای هستی (Qpj37ct) · https://www.youtube.com/watch?v=_ZW1qMfd7g0
+- Reng Harbi | رنگ حربی از ردیف میرزاعبدالله (Qc3npba) · https://www.youtube.com/watch?v=lTH_HUyT4d0
+- Māzandarāni | A Tribute to Jalāl Zolfonun | مازندرانی ساخته جلال ذوالفنون (Qvbfqv6) · https://www.youtube.com/watch?v=9NI1_dY5M60
+- Yār Marā | A Tribute to Jalāl Zolfonun | یار مرا (Qhjqf9c) · https://www.youtube.com/watch?v=75MGZy0Yg7s
+- Atash dar Neyestan | A Tribute to Jalal Zolfonun | آتش در نیستان (Q2w72bk) · https://www.youtube.com/watch?v=5toVJqLwIQ8
+- Improvisation in Nava on Persian Setar | بداهه نوازی در دستگاه نوا (Qa458q9) · https://www.youtube.com/watch?v=YIUR9GVbU9k
+- Persian Setar Improvisation in Mahur | بداهه نوازی در دستگاه ماهور (Q7qn4ck) · https://www.youtube.com/watch?v=6VUVGy8NPPM
+- Reng Chahārgāh | رنگ چهارگاه رکن‌الدین خان مختاری (Qgxdvh6) · https://www.youtube.com/watch?v=SXFBd8AOGHQ
+- Persian Setar Improvisation in Bayat-e Esfahan | بداهه نوازی در بیات اصفهان (Qqrzgqv) · https://www.youtube.com/watch?v=GQJKNIVI9I8
+- Reng Lezgui, Matn & Hashieh | رنگ لزگی، متن و حاشیه (Qy5anxs) · https://www.youtube.com/watch?v=VpGM0ldHuT8
+- PERXICO | "De repente Resurrección", Festival Cultural Zacatecas 2026 (Qgxtwfe) · https://www.youtube.com/watch?v=IeiSae_UbzM
+- "Zedast-e Mahbub" Persian Classical Tasnif (Subtitled) | تصنیف ز دست محبوب (با زیرنویس) (Qrdcbxv) · https://www.youtube.com/watch?v=13A4s_OxL2A
+- Setar, Chaharmezrab Mahur | چهارمضراب ماهور درویش خان (Qgrhy66) · https://www.youtube.com/watch?v=tB444-VEVug
+- Burnt City | Chahārgāh concert by Mehdi Moshtagh (Qzke7xt) · https://www.youtube.com/watch?v=LDXjWGMhbAc
+- Setar, Salam | قطعه «سلام» ساخته استاد حسن کسایی (Qjx97h4) · https://www.youtube.com/watch?v=mVaMoHtHgr8
+- Setar, Zarbi Aragh | ضربی عراق ماهور (Qt32k6h) · https://www.youtube.com/watch?v=52Lc0rtZuSU
+- Part 4/4 – Shahr Ashub (Dastgāh Chahārgāh) | شهر آشوب چهارگاه (قسمت چهارم) (Qafsk58) · https://www.youtube.com/watch?v=RkOe-qo7z5Y
+- Part 3/4 – Shahr Ashub (Dastgāh Chahārgāh) | شهر آشوب چهارگاه (قسمت سوم) (Q8nvgf8) · https://www.youtube.com/watch?v=6919tv6Z7zQ
+- Part 2/4 – Shahr Ashub (Dastgāh Chahārgāh) | شهر آشوب چهارگاه (قسمت دوم) (Qm68z5w) · https://www.youtube.com/watch?v=UkkXXK3Afu8
+- Part 1/4 – Shahr Ashub (Dastgāh Chahārgāh) | شهر آشوب چهارگاه (قسمت اول) (Qvnqkg6) · https://www.youtube.com/watch?v=mXnyxdVGE5I
+- Setar, Shahr Ashub Chahārgāh (Full Version) | شهر آشوب دستگاه چهارگاه (کامل) (Q67bbh5) · https://www.youtube.com/watch?v=w1JnYaK-8zo
+- Setar, Pishdaramad Mahur | پیش درآمد ماهور، ساخته استاد سعید هرمزی (Qkh5z6y) · https://www.youtube.com/watch?v=GsZ5nLLU7mk
+- Nocturne Improvisation No.5 (with two special guests) | بداهه شبانه در بیات اصفهان (Qds6zy2) · https://www.youtube.com/watch?v=WMR6ZMRAnMA
+- Setar, Pishdaramad Shur | پیش درآمد شور علی اکبر خان شهنازی (Q78d9z5) · https://www.youtube.com/watch?v=ciNCJ6eO7_M
+- Part 12/12 – Shahr Ashub (Dastgāh Shur) | شهر آشوب دستگاه شور (قسمت دوازدهم) (Q287bvc) · https://www.youtube.com/watch?v=MPNtuDngPNQ
+- Part 11/12 – Shahr Ashub (Dastgāh Shur) | شهر آشوب دستگاه شور (قسمت یازدهم) (Q2asfm4) · https://www.youtube.com/watch?v=b3bXecj0mg4
+- Part 10/12 – Shahr Ashub (Dastgāh Shur) | شهر آشوب دستگاه شور (قسمت دهم) (Qa8zj4b) · https://www.youtube.com/watch?v=TX70-tHvNbA
+- Part 9/12 – Shahr Ashub (Dastgāh Shur) | شهر آشوب دستگاه شور (قسمت نهم) (Qqz5gga) · https://www.youtube.com/watch?v=f616gc5CLYI
+- Part 8/12 – Shahr Ashub (Dastgāh Shur) | شهر آشوب دستگاه شور (قسمت هشتم) (Qx9z9py) · https://www.youtube.com/watch?v=RliNfv1r-gs
+- Part 7/12 – Shahr Ashub (Dastgāh Shur) | شهر آشوب دستگاه شور (قسمت هفتم) (Qd26jgj) · https://www.youtube.com/watch?v=e4tysGmmyak
+- Part 6/12 – Shahr Ashub (Dastgāh Shur) | شهر آشوب دستگاه شور (قسمت ششم) (Q7pcrar) · https://www.youtube.com/watch?v=N02oDF4Is2c
+- Part 5/12 – Shahr Ashub (Dastgāh Shur) | شهر آشوب دستگاه شور (قسمت پنجم) (Q3q4h5p) · https://www.youtube.com/watch?v=IzvjrLgFiNc
+- Part 4/12 – Shahr Ashub (Dastgāh Shur) | شهر آشوب دستگاه شور (قسمت چهارم) (Qnn7q5c) · https://www.youtube.com/watch?v=TdLEnVlCE0g
+- Part 3/12 – Shahr Ashub (Dastgāh Shur) | شهر آشوب دستگاه شور (قسمت سوم) (Qk7fx7k) · https://www.youtube.com/watch?v=Iry5Sb6pGXY
+- Part 2/12 – Shahr Ashub (Dastgāh Shur) | شهر آشوب دستگاه شور (قسمت دوم) (Qr2y7ee) · https://www.youtube.com/watch?v=Sb_updm91o4
+- Part 1/12 – Shahr Ashub (Dastgāh Shur) | شهر آشوب دستگاه شور (قسمت اول) (Qyb6dyr) · https://www.youtube.com/watch?v=_qW4196bRHs
+- Setar, Shahr Ashub Shur (Full Version) | شهر آشوب دستگاه شور (کامل) (Qqm35v3) · https://www.youtube.com/watch?v=DTBOQLXe2E4
+- Reng Azari, Setar | رنگ آذری، سه‌تار  (Qs6rf84) · https://www.youtube.com/watch?v=qc4oHLZVAHg
+- Shahr Ashub Mahur I رنگ شهرآشوب ماهور  (Qepz833) · https://www.youtube.com/watch?v=ZkmhtxUK5qk
+- صبا به یار عزیز | Saba be Yar-e Aziz (Qcxj8je) · https://www.youtube.com/watch?v=RY6I7CzGqeo
+- Setar, Reng Afshari | رنگ افشاری درویش خان (Q39zj7s) · https://www.youtube.com/watch?v=Zi2_MPxVGPU
+- Nocturne Improvisation No. 3 | بداهه شبانه در افشاری (Qb3hegb) · https://www.youtube.com/watch?v=l22jf3y7NwA
+- Nocturne Improvisation No.2 | بداهه شبانه در اصفهان (Q23xw9m) · https://www.youtube.com/watch?v=Ki9EXJ9XniE
+- Mehdi Moshtagh, Tarde | دیر (Q2bdqt7) · https://www.youtube.com/watch?v=ZmjJ1Eu6OEs
+- Mehdi Moshtagh, La Ciudad Quemada | شهرِ سوخته (Qa78zrb) · https://www.youtube.com/watch?v=1I40_DeFV4g
+- Mehdi Moshtagh, Sang-e Khara |  سنگ خارا (Qymt684) · https://www.youtube.com/watch?v=b92iCLfA_xU
+- In memory of ShahMirza Moradi بیاد شاه‌میرزا مرادی (Q6yfxfa) · https://www.youtube.com/watch?v=5I9Pwnbg5z4
+- Nocturne Improvisation No.1 | بداهه شبانه در دشتی (Q9rvdv5) · https://www.youtube.com/watch?v=XZdJzXQENRE
+- Bayat-e Tork | بیات ترک (Qx48sas) · https://www.youtube.com/watch?v=hZoEbBg3Ql0
+- Nava, Mehdi Moshtagh y Yahya Alkhansa (Qdw5wzn) · https://www.youtube.com/watch?v=6n2JQ3-UQr0
+- Yinâ - Mehdi Moshtagh (Q83c2y2) · https://www.youtube.com/watch?v=SmtxvsrGW9M
+- Setar, Zarbi Shekasteh ضربی شکسته (Qfahgpv) · https://www.youtube.com/watch?v=6VCEgfXU27M
+- FANDANGO, Concierto presentación PERXICO (Qqajc62) · https://www.youtube.com/watch?v=ehDr8p7zjG0
+- Persian setar, Mehdi Moshatgh (Qxftn8m) · https://www.youtube.com/watch?v=oCP-Eq4laU4
+- HEYRAN, Mehdi Moshtagh حیران (Qzkawvh) · https://www.youtube.com/watch?v=NZZ9k_VVxKk
+- Solo Setar, Mehdi Moshtagh (Qv46nhm) · https://www.youtube.com/watch?v=RfOxCpzs6RU
+- Mehdi Moshatgh, Improvisación Shuranguiz (Qpk9hs7) · https://www.youtube.com/watch?v=U_gO8dxiuOQ
+- De repente, Resurrección de Mehdi Moshtagh (Qkgwbv8) · https://www.youtube.com/watch?v=JADX9yVRydE
+- Chiconcanario, IRÁN y MÉXICO (Q49m73y) · https://www.youtube.com/watch?v=QPZBist13qk
+- Mehdi Moshtagh, setar persa en el Ex-convento de San Francisco (Qnpsgyv) · https://www.youtube.com/watch?v=CSlD_54ItT8
+- Setar Improvisación بیات اصفهان (Qwcnt3v) · https://www.youtube.com/watch?v=Wna_bf2Zqu8
+- Daya Daya دایه دایه (Q7emx6s) · https://www.youtube.com/watch?v=d8tNJ5k81uQ
+- Shabnavard شب است و چهره میهن سیاهه (Qtne9aa) · https://www.youtube.com/watch?v=6HRM8mSH2ME
+- Setar Persa en Ex-convento de San Francisco (Qqx53br) · https://www.youtube.com/watch?v=8WFetFnu0I0
+- Setar, Chaharmezrab Abuata-Nava چهارمضراب ابوعطا/نوا (Qw7sb2w) · https://www.youtube.com/watch?v=vS-uZFgCohI
+- Concierto ASATIR, Nowruz año nuevo persa (Q3vxscn) · https://www.youtube.com/watch?v=uXgOyibDFyo
+- Tasnif Bahar-e Delkash تصنیف بهار دلکش (Qpqw49a) · https://www.youtube.com/watch?v=SS_jjR-UQHA
+- Setar, Tasnif Jane Jahan تصنیف جان جهان (Q624vtt) · https://www.youtube.com/watch?v=PHKJAwWks-w
+- Setar, Hijas del Ciro دختران سیروس (Qq53znn) · https://www.youtube.com/watch?v=fpSyv5HYRw4
+- Setar, Zarbi Bayât Tork دوضربی بیات ترک صبا (Qxhwyf4) · https://www.youtube.com/watch?v=vnFQctAtlpc
+- Setar, Bayat Esfahan | چهارمضراب بیات اصفهان (Qg7r5nx) · https://www.youtube.com/watch?v=z_3zzKaXQH4
+- PERXICO, El Espejismo (Qk2ra8f) · https://www.youtube.com/watch?v=5-dN3942oVM
+- Be Zendan, Setar, Kamancheh y Percusión به زندان صبا (Qab7neg) · https://www.youtube.com/watch?v=aoSLESTXr6Y
+- ÂZAR I Mehdi Moshtagh Setar (Q552cwd) · https://www.youtube.com/watch?v=wb5d-Ds5Iv8
+- TETLALLI, the place of stones | سنگستان (Qh7g8vk) · https://www.youtube.com/watch?v=MFijhdgtRWQ
+- Abuata I ابوعطا (Qda9jy9) · https://www.youtube.com/watch?v=oSoIYwT__sQ
+- دوضربی بیات ترک صبا I Zarbi de Bayât Tork (Qpvm3jd) · https://www.youtube.com/watch?v=cbobCMejGKY
+- Setar, Reng Segah I رنگ سه‌گاه (Q8ym5g6) · https://www.youtube.com/watch?v=k2WbfEWflxA
+- Detras del oleaje I آنسوی امواج (Q7eqgms) · https://www.youtube.com/watch?v=hleQkBxhfbw
+- La Morena | PERXICO, Persia y México (Soundcheck) (Qyacyve) · https://www.youtube.com/watch?v=2IpgyzwDnuI
+- Canario, Setar iraní y Laúd renacentista (Qzhk3b3) · https://www.youtube.com/watch?v=J1Ex6rdKelc
+- Pishdaramad Mahur Darvish Khan |پیش درآمد ماهور درویش خان (Qpfzknm) · https://www.youtube.com/watch?v=6b-rc0G25nY
+- PÉRXICO - LLORONA | یورونا (Q4wm47g) · https://www.youtube.com/watch?v=R40C7fCQXfU
+- Kereshme Lang, taller "Un Acercamiento al Radif". (Qv9byvq) · https://www.youtube.com/watch?v=IZOXkATZJnA
+- Persian Tradicional Music, Solo Tar Mehdi Moshtagh | تکنوازی تار در دستگاه نوا (Qfrwnct) · https://www.youtube.com/watch?v=rYZgzgIJ0tM
+- Persian Tradicional Music, Solo Setar Mehdi Moshtagh | تکنوازی سه تار مهدی مشتاق (Q2hg2hx) · https://www.youtube.com/watch?v=qEu7j60mvEQ
+- Setar, Chaharmezrab Nava | چهارمضراب نوا (Q2gcpb7) · https://www.youtube.com/watch?v=F6ZqvH1QCKI
+- Setaristas Moshtagh, Zarbi Arägh | ضربی عراق (Qgsdmg8) · https://www.youtube.com/watch?v=4NSaHyCWmps
+- Cantiga de Santa María 38 | کانتیگا دِ سانتا ماریا ۳۸ (Qxrmdx8) · https://www.youtube.com/watch?v=UTdKARQKH8A
+- PERXICO, LA MORENA | لا مورِنا (Qz86dry) · https://www.youtube.com/watch?v=RpbzAW5cRZI
+- Setar, Neyshaburak Mehdi Moshtagh & Majid Hesabi | پنج ضربی نیشابورک (Qq6mb3x) · https://www.youtube.com/watch?v=vfs48GIToT4
+- El Mundo Inestable | سرای سِپنج (Q52yd5d) · https://www.youtube.com/watch?v=acElup7_D6g
+- Improvisación Mehdi Moshtagh, Francisco Bringas y Luis Argüelles (Q5wdkwg) · https://www.youtube.com/watch?v=d89ijjHShPU
+- PARIZAD | Setar and Sitar, 2th Movement (Qgeytp2) · https://www.youtube.com/watch?v=Uk3uNHOLO7g
+- PARIZAD | Dashti-Bhairavi, 1st Movement (Qcjbpv3) · https://www.youtube.com/watch?v=jDSVz5i1oX4
+- Setaristas Mexicanos | سه تار نوازان مکزیک (Qga3ttb) · https://www.youtube.com/watch?v=0P-9cvV004Q
+- SETAR, AFSHAR - Mehdi Moshtagh (Qr8z87z) · https://www.youtube.com/watch?v=CaNWqdVjJ0E
+- Encuentro de Cuerdas iranies con Percusiones del Mundo (Qdxtjxq) · https://www.youtube.com/watch?v=hePhuqu-MZ4
+- Un Perro Andaluz | سگ اندلسی (Qxqazk8) · https://www.youtube.com/watch?v=of28X6Q0gIY
+- Zarabanda chaconada - El parlamento de las aves (Qd5jfv7) · https://www.youtube.com/watch?v=ikjzVt5HTb8
+- Improvisación Abouata |آواز ابوعطا، مشتاق، الله دادی و حسابی (Q73dq54) · https://www.youtube.com/watch?v=oEmWea_CEUE
+- SETAR, REBELIÓN, Mehdi Moshtagh | شورش، مهدی مشتاق (Qq98279) · https://www.youtube.com/watch?v=Vkn1aAIbtMk
+- Setar, Kereshmeh Lang, Mehdi Moshtagh & Morteza Ghasemi | کرشمه لَنگ، مهدی مشتاق و مرتضی قاسمی (Qmk5tdm) · https://www.youtube.com/watch?v=_uS_f0yINUs
+- HAMNAVARD, Mehdi Moshtagh and Horacio Franco (Q9857as) · https://www.youtube.com/watch?v=pie-SD1yytI
+- EGIPTANOS Ensayo Son de la Bruja | اخیپتنوس، تمرین قطعه بروخا (Qapa6tw) · https://www.youtube.com/watch?v=3pXO2hjG7J8
+- FANDANGO | Ajedrez Mundo (Qymj8pz) · https://www.youtube.com/watch?v=J5mYdRliHoc
+- El modo Mahour, Mehdi Moshtagh | بداهه نوازی در دستگاه ماهور(عراق)، مهدی مشتاق (Qg75x8g) · https://www.youtube.com/watch?v=L89smggmBdQ
+- Música Clásica Persa e India en México (Q6mhwq7) · https://www.youtube.com/watch?v=L2-tT64WKdk
+- SALTO , Mehdi Moshtagh y Francisco Bringas | جست و خیز، مهدی مشتاق و فرانسیسکو برینگاس (Qaa6jbg) · https://www.youtube.com/watch?v=6Jc_Rf0si0o
+- Cantiga de Santa Maria 38 | Casilda Madrazo, Mehdi Moshtagh y Manuel Mejia Armijo (Qdpk2s2) · https://www.youtube.com/watch?v=naRPpjiOXQo
+- Bayat-e-Tork, Mehdi Moshtagh y Francisco Bringas | بیات ترک، مهدی مشتاق (Qk9km35) · https://www.youtube.com/watch?v=F2fkeZTrtXI
+- Setar, Bayat-e-Esfahan Mehdi Moshtagh | بیات اصفهان ، تکنوازی سه تار مهدی مشتاق (Q6s4m3f) · https://www.youtube.com/watch?v=Z809WwLU3Ec
+- Improvisación Setar por Mehdi Moshtagh | بداهه نوازی در دلکش و افشاری، سه تار مهدی مشتاق (Qj96c9p) · https://www.youtube.com/watch?v=4RahQIm1K6A
+- Setar, Dashti por Mehdi Moshtagh | دشتی ، تکنوازی سه تار مهدی مشتاق (Qexy3s4) · https://www.youtube.com/watch?v=JycTcJ3KPP0
+- Setar Reng Dashti , Mehdi Moshtagh y Majid Hesabi | رنگ دشتی ، مشتاق و حسابی (Qt36jpe) · https://www.youtube.com/watch?v=ZScjTjUdjwo
+- Mokhalef Segah, Setar bass Mehdi Moshtagh | مخالف سه گاه ، سه تار باس مهدی مشتاق (Qry55pq) · https://www.youtube.com/watch?v=Xvel1yRIwLM
+- Tamasha, Setar por Mehdi Moshtagh | تماشا ، تکنوازی سه تار مهدی مشتاق (Q2nv656) · https://www.youtube.com/watch?v=Xs3bnJabpjc
+- Zarbi Zabol Chahargah , Setar Mehdi Moshtagh / ضربی زابل چهارگاه ، سه تار مهدی مشتاق (Qypdj6r) · https://www.youtube.com/watch?v=5d_pcVetLw0
+- Chaharmezrab Darvish Khan چهارمضراب ماهور درویش خان / Setar Mehdi Moshtagh y Majid Hesabi (Q4rk4vr) · https://www.youtube.com/watch?v=XZyoJsJ8MOg
+- Sombras nada más... همنورد Hamnavard / Mehdi Moshtagh مهدی مشتاق (Q2e6sg6) · https://www.youtube.com/watch?v=vRoiI7KGIg8
+- بداهه نوازی در بیداد همایون، تکنوازی سه تار مهدی مشتاق / Improvisación Homayún, Setar Mehdi Moshtagh (Q4x8t4v) · https://www.youtube.com/watch?v=q6qLgFqGgAg
+- Cantiga de santa María No.54 / Mehdi Moshtagh & Manuel Mejia Armijo (Qh44zax) · https://www.youtube.com/watch?v=OY_i8au6SWw
+- Improvisation by Mehdi Moshtagh /بداهه نوازی مهدی مشتاق در آواز دشتی (Q5x9jt4) · https://www.youtube.com/watch?v=ldDPek1FASo
+- Chiconcanario | Setar, Laúd y Danza (Qrjtaa7) · https://www.youtube.com/watch?v=m67HCGwx0x0
+- Chaharmezrab Darvish khan I چهارمضراب درویش خان (Qm5jbzw) · https://www.youtube.com/watch?v=4KLljiDy6DY
+- Haft Zarbi e Dashti, Setar Mehdi Moshtagh & Majid Hesabi/هفت ضربی دشتی، مهدی مشتاق و مجید حسابی (Qvqjven) · https://www.youtube.com/watch?v=0wbHD8G4k3M
+- Lucha Compartida, Setar Mehdi Moshtagh y Majid Hesabi /رزم مشترک ،مهدی مشتاق و مجید حسابی (Qxxdpba) · https://www.youtube.com/watch?v=XxzV_FmpF8w
+- Setar Mehdi Moshtagh & Majid hesabi(reng e dashti) / رنگ دشتی، مهدی مشتاق و مجید حسابی (Qyenqk9) · https://www.youtube.com/watch?v=lQBpRznIfN4
+- Cantiga de Santa María No.54 (Q58expe) · https://www.youtube.com/watch?v=_tREmAwQVgo
+- Solo Setar by Mehdi Moshtagh Esfahan /تکنوازی مهدی مشتاق در آواز بیات اصفهان (Q3wbwrv) · https://www.youtube.com/watch?v=VZAjsa1isPg
+- Setar Mehdi Moshtagh & Majid Hesabi(Pishdaramad Nava) /پیش درآمد نوا، مهدی مشتاق و مجید حسابی (Qss3wbf) · https://www.youtube.com/watch?v=bslGaViUZgA
+- Solo Setar por Mehdi Moshtagh,تکنوازی سه تار مهدی مشتاق (Qp3xkmw) · https://www.youtube.com/watch?v=hjhKyi1BzKQ
+- چهار مضراب دیدار استاد مسعود شعاری (Mehdi Moshtagh & Josafath Larios ) (Qj3yxjd) · https://www.youtube.com/watch?v=tW80R2Qtzok
+- Mehdi Moshtagh (4 mezrab dashti)مهدی مشتاق (Qzbv7sq) · https://www.youtube.com/watch?v=yr0RJvtxHG0
+- Mehdi Moshtagh_Manuel Mejia_Casilda Madrazo (Qk8psvs) · https://www.youtube.com/watch?v=WL_bhdZM_wU
+- Mehdi Moshtagh & Francisco Bringas(نیشابورک و نهفت نوا) (Qfdrqtx) · https://www.youtube.com/watch?v=shKE6aos9fk
+- Mehdi Moshtagh,Manuel Mejia,Casilda Madrazo (Qy6xey4) · https://www.youtube.com/watch?v=wifGOyBBEBU
+- Setar:Mehdi Moshtagh,Djembe:Francisco bringas (Qrvc82s) · https://www.youtube.com/watch?v=n8sgeKhLGlI
+- Mehdi Moshtagh & Majid Hesabi ,مهدی مشتاق & مجید حسابی (Q473ekg) · https://www.youtube.com/watch?v=nWgqJXqV_hw
+- La Ciudad Quemada (Intersecciones) (Qebgscj) ·
+
+The presenter published the anniversary concert (Qs99da6). Radio Educación’s 2015 programme carries the separate Ajedrez Mundo performance by the three musicians at Foro 81 (Q9f83z3). The Zacatecas festival credits him as founder of Ensamble Delgoshá in Mexico, which the Chamber of Deputies dates to 2015. The same name was used by separate ensembles in Tehran and Europe.

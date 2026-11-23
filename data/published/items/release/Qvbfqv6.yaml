@@ -1,0 +1,32 @@
+id: Qvbfqv6
+type: release
+statements:
+  name:
+  - value:
+      text: Māzandarāni | A Tribute to Jalāl Zolfonun | مازندرانی ساخته جلال ذوالفنون
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-9ni1_dy5m60
+      quote: Māzandarāni | A Tribute to Jalāl Zolfonun | مازندرانی ساخته جلال ذوالفنون
+      accessed: '2026-11-21'
+      locator: Music credited by musician or performance publisher
+  performer:
+  - value: Qqb9bnx
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/9NI1_dY5M60/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-9ni1_dy5m60
+      quote: https://i.ytimg.com/vi/9NI1_dY5M60/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video frame
+    qualifiers:
+      credit:
+        text: Mehdi Moshtagh
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=9NI1_dY5M60
+    references:
+    - *id001

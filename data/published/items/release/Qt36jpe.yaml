@@ -1,0 +1,38 @@
+id: Qt36jpe
+type: release
+statements:
+  name:
+  - value:
+      text: Setar Reng Dashti , Mehdi Moshtagh y Majid Hesabi | رنگ دشتی ، مشتاق و حسابی
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-zscjtjudjwo
+      quote: Setar Reng Dashti , Mehdi Moshtagh y Majid Hesabi | رنگ دشتی ، مشتاق و حسابی
+      accessed: '2026-11-21'
+      locator: Music credited by musician or performance publisher
+  performer:
+  - value: Qqb9bnx
+    references:
+    - *id001
+  - value: Qset3q2
+    references:
+    - source: www.youtube.com-watch-v-zscjtjudjwo
+      quote: Majid Hesabi
+      accessed: '2026-11-21'
+      locator: Collaborator
+  cover art:
+  - value: https://i.ytimg.com/vi/ZScjTjUdjwo/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-zscjtjudjwo
+      quote: https://i.ytimg.com/vi/ZScjTjUdjwo/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video frame
+    qualifiers:
+      credit:
+        text: Mehdi Moshtagh
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=ZScjTjUdjwo
+    references:
+    - *id001

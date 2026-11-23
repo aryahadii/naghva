@@ -1,0 +1,32 @@
+id: Qjtc6wm
+type: release
+statements:
+  name:
+  - value:
+      text: Persian Setar Improvisation in Afshari | بداهه نوازی در آواز افشاری
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-enqra2ec7ke
+      quote: Persian Setar Improvisation in Afshari | بداهه نوازی در آواز افشاری
+      accessed: '2026-11-21'
+      locator: Music credited by musician or performance publisher
+  performer:
+  - value: Qqb9bnx
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/eNQra2Ec7KE/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-enqra2ec7ke
+      quote: https://i.ytimg.com/vi/eNQra2Ec7KE/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video frame
+    qualifiers:
+      credit:
+        text: Mehdi Moshtagh
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=eNQra2Ec7KE
+    references:
+    - *id001

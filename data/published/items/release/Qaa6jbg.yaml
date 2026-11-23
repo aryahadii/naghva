@@ -1,0 +1,35 @@
+id: Qaa6jbg
+type: release
+statements:
+  name:
+  - value:
+      text: SALTO , Mehdi Moshtagh y Francisco Bringas | جست و خیز، مهدی مشتاق و فرانسیسکو برینگاس
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-6jc_rf0si0o
+      quote: SALTO , Mehdi Moshtagh y Francisco Bringas | جست و خیز، مهدی مشتاق و فرانسیسکو برینگاس
+      accessed: '2026-11-21'
+      locator: Music credited by musician or performance publisher
+  performer:
+  - value: Qqb9bnx
+    references:
+    - *id001
+  - value: Qzgjdgp
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/6Jc_Rf0si0o/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-6jc_rf0si0o
+      quote: https://i.ytimg.com/vi/6Jc_Rf0si0o/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video frame
+    qualifiers:
+      credit:
+        text: Mehdi Moshtagh
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=6Jc_Rf0si0o
+    references:
+    - *id001

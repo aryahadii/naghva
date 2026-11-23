@@ -1,0 +1,26 @@
+id: Qebgscj
+type: release
+statements:
+  name:
+  - value:
+      text: La Ciudad Quemada (Intersecciones)
+      language: en
+    references:
+    - &id001
+      source: www.radiopodcast.unam.mx-podcast-audio-45383
+      quote: La Ciudad Quemada (improvisación)
+      accessed: '2026-11-21'
+      locator: Radio UNAM programme sequence
+  performer:
+  - value: Qqb9bnx
+    references:
+    - *id001
+  contributor:
+  - value: Qqb9bnx
+    references:
+    - source: www.radiopodcast.unam.mx-podcast-audio-45383
+      quote: Composiciones de Mehdi Moshtagh
+      accessed: '2026-11-21'
+      locator: Programme repertoire
+    qualifiers:
+      role: composer

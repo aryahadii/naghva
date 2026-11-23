@@ -1,0 +1,32 @@
+id: Qgeytp2
+type: release
+statements:
+  name:
+  - value:
+      text: PARIZAD | Setar and Sitar, 2th Movement
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-uk3unholo7g
+      quote: PARIZAD | Setar and Sitar, 2th Movement
+      accessed: '2026-11-21'
+      locator: Music credited by musician or performance publisher
+  performer:
+  - value: Qqb9bnx
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/Uk3uNHOLO7g/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-uk3unholo7g
+      quote: https://i.ytimg.com/vi/Uk3uNHOLO7g/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video frame
+    qualifiers:
+      credit:
+        text: Mehdi Moshtagh
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=Uk3uNHOLO7g
+    references:
+    - *id001

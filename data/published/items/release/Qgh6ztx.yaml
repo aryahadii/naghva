@@ -1,0 +1,32 @@
+id: Qgh6ztx
+type: release
+statements:
+  name:
+  - value:
+      text: Persian Setar Improvisation in Abuata | بداهه نوازی در آواز ابوعطا
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-zp6wtnjytvc
+      quote: Persian Setar Improvisation in Abuata | بداهه نوازی در آواز ابوعطا
+      accessed: '2026-11-21'
+      locator: Music credited by musician or performance publisher
+  performer:
+  - value: Qqb9bnx
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/zP6WTnJytVc/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-zp6wtnjytvc
+      quote: https://i.ytimg.com/vi/zP6WTnJytVc/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video frame
+    qualifiers:
+      credit:
+        text: Mehdi Moshtagh
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=zP6WTnJytVc
+    references:
+    - *id001

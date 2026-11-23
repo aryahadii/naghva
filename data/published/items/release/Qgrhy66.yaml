@@ -1,0 +1,38 @@
+id: Qgrhy66
+type: release
+statements:
+  name:
+  - value:
+      text: Setar, Chaharmezrab Mahur | چهارمضراب ماهور درویش خان
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-tb444-vevug
+      quote: Setar, Chaharmezrab Mahur | چهارمضراب ماهور درویش خان
+      accessed: '2026-11-21'
+      locator: Music credited by musician or performance publisher
+  performer:
+  - value: Qqb9bnx
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/tB444-VEVug/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-tb444-vevug
+      quote: https://i.ytimg.com/vi/tB444-VEVug/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video frame
+    qualifiers:
+      credit:
+        text: Mehdi Moshtagh
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=tB444-VEVug
+    references:
+    - *id001
+  contributor:
+  - value: Q52hj9g
+    references:
+    - *id001
+    qualifiers:
+      role: composer

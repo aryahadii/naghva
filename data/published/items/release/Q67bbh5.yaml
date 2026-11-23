@@ -1,0 +1,32 @@
+id: Q67bbh5
+type: release
+statements:
+  name:
+  - value:
+      text: Setar, Shahr Ashub Chahārgāh (Full Version) | شهر آشوب دستگاه چهارگاه (کامل)
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-w1jnyak-8zo
+      quote: Setar, Shahr Ashub Chahārgāh (Full Version) | شهر آشوب دستگاه چهارگاه (کامل)
+      accessed: '2026-11-21'
+      locator: Music credited by musician or performance publisher
+  performer:
+  - value: Qqb9bnx
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/w1JnYaK-8zo/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-w1jnyak-8zo
+      quote: https://i.ytimg.com/vi/w1JnYaK-8zo/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video frame
+    qualifiers:
+      credit:
+        text: Mehdi Moshtagh
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=w1JnYaK-8zo
+    references:
+    - *id001

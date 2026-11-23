@@ -1,0 +1,32 @@
+id: Qrvc82s
+type: release
+statements:
+  name:
+  - value:
+      text: Setar:Mehdi Moshtagh,Djembe:Francisco bringas
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-n8sgekhlgli
+      quote: Setar:Mehdi Moshtagh,Djembe:Francisco bringas
+      accessed: '2026-11-21'
+      locator: Music credited by musician or performance publisher
+  performer:
+  - value: Qqb9bnx
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/n8sgeKhLGlI/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-n8sgekhlgli
+      quote: https://i.ytimg.com/vi/n8sgeKhLGlI/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video frame
+    qualifiers:
+      credit:
+        text: Mona Art
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=n8sgeKhLGlI
+    references:
+    - *id001

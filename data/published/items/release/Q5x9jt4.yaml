@@ -1,0 +1,32 @@
+id: Q5x9jt4
+type: release
+statements:
+  name:
+  - value:
+      text: Improvisation by Mehdi Moshtagh /بداهه نوازی مهدی مشتاق در آواز دشتی
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-lddpek1faso
+      quote: Improvisation by Mehdi Moshtagh /بداهه نوازی مهدی مشتاق در آواز دشتی
+      accessed: '2026-11-21'
+      locator: Music credited by musician or performance publisher
+  performer:
+  - value: Qqb9bnx
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/ldDPek1FASo/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-lddpek1faso
+      quote: https://i.ytimg.com/vi/ldDPek1FASo/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video frame
+    qualifiers:
+      credit:
+        text: Mehdi Moshtagh
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=ldDPek1FASo
+    references:
+    - *id001
