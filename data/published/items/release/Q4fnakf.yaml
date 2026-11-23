@@ -1,0 +1,49 @@
+id: Q4fnakf
+type: release
+statements:
+  name:
+  - value:
+      text: 10, 1396
+      language: en
+    references:
+    - &id001
+      source: zabtesote.bandcamp.com-track-10-1396
+      quote: 10, 1396 | Umchunga | Zabte Sote
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Q9rnctv
+    references:
+    - *id001
+  listen link:
+  - value: https://zabtesote.bandcamp.com/track/10-1396
+    references:
+    - source: zabtesote.bandcamp.com-track-10-1396
+      quote: 10, 1396 | Umchunga | Zabte Sote
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1462328829
+    references:
+    - source: music.apple.com-us-song-1462328829
+      quote: ‎10, 1396 - Song with Lyrics by Umchunga - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a0511040605_10.jpg
+    references:
+    - source: zabtesote.bandcamp.com-track-10-1396
+      quote: https://f4.bcbits.com/img/a0511040605_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original publisher artwork
+        language: en
+  release date:
+  - value:
+      date: '2018-08-17'
+    references:
+    - source: zabtesote.bandcamp.com-track-10-1396
+      quote: released August 17, 2018
+      accessed: '2026-11-21'
+      locator: Published date

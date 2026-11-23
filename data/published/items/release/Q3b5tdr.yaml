@@ -1,0 +1,43 @@
+id: Q3b5tdr
+type: release
+statements:
+  name:
+  - value:
+      text: Swirl
+      language: en
+    references:
+    - &id001
+      source: soundcloud.com-umchunga-swirl
+      quote: Stream Swirl by Umchunga | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Q9rnctv
+    references:
+    - *id001
+  listen link:
+  - value: https://soundcloud.com/umchunga/swirl
+    references:
+    - source: soundcloud.com-umchunga-swirl
+      quote: Stream Swirl by Umchunga | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i1.sndcdn.com/avatars-0u29WRGGKoUgzATm-L4T0WQ-t500x500.jpg
+    references:
+    - source: soundcloud.com-umchunga-swirl
+      quote: https://i1.sndcdn.com/avatars-0u29WRGGKoUgzATm-L4T0WQ-t500x500.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original publisher artwork
+        language: en
+  release date:
+  - value:
+      date: '2019-01-23'
+    references:
+    - source: soundcloud.com-umchunga-swirl
+      quote: '2019-01-23T20:14:10Z'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits

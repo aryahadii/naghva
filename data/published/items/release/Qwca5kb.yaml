@@ -1,0 +1,43 @@
+id: Qwca5kb
+type: release
+statements:
+  name:
+  - value:
+      text: RS
+      language: en
+    references:
+    - &id001
+      source: flamingpines.bandcamp.com-track-rs-umchunga
+      quote: RS - Umchunga | Compilation of Iranian experimental music | Flaming Pines
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Q9rnctv
+    references:
+    - *id001
+  listen link:
+  - value: https://flamingpines.bandcamp.com/track/rs-umchunga
+    references:
+    - source: flamingpines.bandcamp.com-track-rs-umchunga
+      quote: RS - Umchunga | Compilation of Iranian experimental music | Flaming Pines
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a3621154516_10.jpg
+    references:
+    - source: flamingpines.bandcamp.com-track-rs-umchunga
+      quote: https://f4.bcbits.com/img/a3621154516_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original publisher artwork
+        language: en
+  release date:
+  - value:
+      date: '2016-02-08'
+    references:
+    - source: flamingpines.bandcamp.com-track-rs-umchunga
+      quote: released February 8, 2016
+      accessed: '2026-11-21'
+      locator: Published date
