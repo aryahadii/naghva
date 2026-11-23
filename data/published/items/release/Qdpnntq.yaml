@@ -1,0 +1,76 @@
+id: Qdpnntq
+type: release
+statements:
+  name:
+  - value:
+      text: It's Better Without You
+      language: en
+    references:
+    - source: music.apple.com-us-album-its-better-without-you-single-1438423759
+      quote: It's Better Without You - Single
+      accessed: '2026-11-21'
+      locator: Official digital issue
+  performer:
+  - value: Qvfz6ey
+    references:
+    - source: music.apple.com-us-album-its-better-without-you-single-1438423759
+      quote: It's Better Without You - Single
+      accessed: '2026-11-21'
+      locator: Official digital issue
+  listen link:
+  - value: https://music.apple.com/us/album/its-better-without-you-single/1438423759
+    references:
+    - source: music.apple.com-us-album-its-better-without-you-single-1438423759
+      quote: It's Better Without You - Single
+      accessed: '2026-11-21'
+      locator: Official digital issue
+  - value: https://music.apple.com/us/song/its-better-without-you/1438423765
+    references:
+    - source: music.apple.com-us-album-its-better-without-you-single-1438423759
+      quote: https://music.apple.com/us/song/its-better-without-you/1438423765
+      accessed: '2026-11-21'
+      locator: Unique Apple song URL
+  - value: https://music.apple.com/us/song/its-better-without-you/1441114254
+    references:
+    - source: music.apple.com-us-album-its-better-without-you-single-1441114249
+      quote: https://music.apple.com/us/song/its-better-without-you/1441114254
+      accessed: '2026-11-21'
+      locator: Unique Apple song URL
+  - value: https://themuckersband.bandcamp.com/track/its-better-without-you
+    references:
+    - source: themuckersband.bandcamp.com-track-its-better-without-you
+      quote: It's Better Without You
+      accessed: '2026-11-21'
+      locator: Original artist issue
+  - value: https://soundcloud.com/themuckers/its-better-without-you
+    references:
+    - source: soundcloud.com-themuckers-its-better-without-you
+      quote: It's Better Without You
+      accessed: '2026-11-21'
+      locator: SoundCloud track
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-its-better-without-you-single-1438423759
+      quote: It's Better Without You - Single
+      accessed: '2026-11-21'
+      locator: Official digital issue
+  release date:
+  - value:
+      date: '2018-10-08'
+    references:
+    - source: music.apple.com-us-album-its-better-without-you-single-1438423759
+      quote: '2018-10-08'
+      accessed: '2026-11-21'
+      locator: Original release or upload date
+  cover art:
+  - value: https://f4.bcbits.com/img/a2843086599_10.jpg
+    qualifiers:
+      credit:
+        text: The Muckers on Bandcamp
+        language: en
+    references:
+    - source: themuckersband.bandcamp.com-track-its-better-without-you
+      quote: https://f4.bcbits.com/img/a2843086599_10.jpg
+      accessed: '2026-11-21'
+      locator: Original cover
