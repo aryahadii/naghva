@@ -1,0 +1,7 @@
+# Mona Matbou Riahi
+
+The clarinettist’s own discography lists 21 editions under several names. These include the Naqsh Duo with Golfam Khayam, the trio /kry, her solo *Playground*, group releases, orchestral appearances and individual contributions to compilations. Album-level documentation alone supports the edition entry. Where Apple, Spotify, the liner notes or the Austrian Music Information Centre identify a particular track, a recording credit appears separately. Sormeh’s 2013 self-titled record is distinct from similarly titled pop singles. *Radio Vienna* includes two Sormeh appearances. Her artist-selected videos add separate performances by Gabbeh and several improvised groups. Film trailers are documented in their original sources.
+
+The original labels establish her role on *Playground*, the /kry debut, and David Six’s chamber sextet. Existing Avin Ahmadi, Mahan Mirarab and Naqsh Duo entries retain their catalogue identifiers. Cadence’s Persian interview supplies her name in Persian. The portrait was inspected on her Spotify artist profile. The original URLs and recording-specific evidence are retained on the published records.
+
+The original SWR-licensed Ensemble Tuvalu album names Matbou Riahi and Joachim Badenhorst on clarinets and gives the pair writing credits on three tracks. The Beethovenfest concert and its chapter “Andoh az marz megozarad” reuse the existing *Sound of Freedom* records. Theater.nuu documents her work on *Ottos Mops*, and her filmography credits her and Manu Mayr jointly on *YOYO*.
