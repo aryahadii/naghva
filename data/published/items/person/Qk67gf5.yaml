@@ -1,0 +1,50 @@
+id: Qk67gf5
+type: person
+statements:
+  name:
+  - value:
+      text: Farshid Arabi
+      language: en
+    references:
+    - source: music.apple.com-us-artist-farshid-arabi-1722789309
+      quote: Farshid Arabi
+      accessed: 2026-11-21
+      locator: Artist name
+  - value:
+      text: فرشید اعرابی
+      language: fa
+    references:
+    - source: khmohamad.wordpress.com-2013-07-16-interview-with-farshid-arabi-homayoun-majdzade-nima-navapour-armen-abramian-norik-misakian
+      quote: فرشید اعرابی
+      accessed: 2026-11-21
+      locator: Roundtable participant
+  profile link:
+  - value: https://open.spotify.com/artist/2GsED9wHLIUPa6LNqv35RH
+    references:
+    - source: open.spotify.com-artist-2gsed9whliupa6lnqv35rh
+      quote: Farshid Arabi
+      accessed: 2026-11-21
+      locator: Artist name
+  - value: https://music.apple.com/us/artist/farshid-arabi/1722789309
+    references:
+    - source: music.apple.com-us-artist-farshid-arabi-1722789309
+      quote: Farshid Arabi
+      accessed: 2026-11-21
+      locator: Artist name
+  - value: https://music.apple.com/us/artist/farshid-arabi/1189719205
+    references:
+    - source: music.apple.com-us-artist-farshid-arabi-1189719205
+      quote: Farshid A'rabi
+      accessed: 2026-11-21
+      locator: Alternate artist billing
+  image:
+  - value: https://i.scdn.co/image/ab6761610000e5ebcd94537784feb856174ef2a6
+    qualifiers:
+      credit:
+        text: Farshid Arabi via Spotify
+        language: en
+    references:
+    - source: open.spotify.com-artist-2gsed9whliupa6lnqv35rh
+      quote: https://i.scdn.co/image/ab6761610000e5ebcd94537784feb856174ef2a6
+      accessed: 2026-11-21
+      locator: Artist profile portrait
