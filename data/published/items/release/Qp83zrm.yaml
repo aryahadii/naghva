@@ -1,0 +1,65 @@
+id: Qp83zrm
+type: release
+statements:
+  name:
+  - value:
+      text: La Reine
+      language: en
+    references:
+    - source: newfocusrecordings.bandcamp.com-track-la-reine
+      quote: La Reine
+      locator: Artist, native recording or label documentation
+      accessed: '2026-11-21'
+  performer:
+  - value: Qgay8m3
+    references:
+    - source: newfocusrecordings.bandcamp.com-album-richard-carrick-l-alg-rie
+      quote: Bahar Badieitabar, oud
+      locator: Artist, native recording or label documentation
+      accessed: '2026-11-21'
+    qualifiers:
+      role: oud
+  - value: Qvh6yqe
+    references:
+    - source: newfocusrecordings.bandcamp.com-album-richard-carrick-l-alg-rie
+      quote: Either/Or
+      locator: Artist, native recording or label documentation
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2026-01-30'
+    references:
+    - source: newfocusrecordings.bandcamp.com-album-richard-carrick-l-alg-rie
+      quote: 30 Jan 2026 00:00:00 GMT
+      locator: Artist, native recording or label documentation
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://f4.bcbits.com/img/a0573156669_10.jpg
+    references:
+    - source: newfocusrecordings.bandcamp.com-album-richard-carrick-l-alg-rie
+      quote: https://f4.bcbits.com/img/a0573156669_10.jpg
+      locator: Artist, native recording or label documentation
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: 'Either/Or · Richard Carrick: l’Algérie'
+        language: en
+  listen link:
+  - value: https://newfocusrecordings.bandcamp.com/track/la-reine
+    references:
+    - source: newfocusrecordings.bandcamp.com-track-la-reine
+      quote: La Reine
+      locator: Artist, native recording or label documentation
+      accessed: '2026-11-21'
+  - value: https://music.apple.com/us/song/lalg%C3%A9rie-v-la-reine/1872003714
+    references:
+    - source: music.apple.com-us-album-richard-carrick-lalg-c3-a9rie-1872003706
+      quote: 'L''Algérie: V. La reine'
+      locator: Artist, native recording or label documentation
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/7vVwbYdbqj8KDEg4GpSBb4
+    references:
+    - source: open.spotify.com-embed-album-6ewq1wocubyfn2clx4zeyw
+      quote: 'L''Algérie: V. La reine'
+      locator: Artist, native recording or label documentation
+      accessed: '2026-11-21'
