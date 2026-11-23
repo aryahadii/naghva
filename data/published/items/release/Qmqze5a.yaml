@@ -1,0 +1,57 @@
+id: Qmqze5a
+type: release
+statements:
+  name:
+  - value:
+      text: Do it Again
+      language: en
+    references:
+    - source: music.apple.com-us-song-1806715191
+      quote: ‎Do it Again - Song with Lyrics by Meshcut - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qh6s4f5
+    references:
+    - source: music.apple.com-us-song-1806715191
+      quote: ‎Do it Again - Song with Lyrics by Meshcut - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://music.apple.com/us/song/1806715191
+    references:
+    - source: music.apple.com-us-song-1806715191
+      quote: ‎Do it Again - Song with Lyrics by Meshcut - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/33qZdfC5wWIR3H3TNXrtJp
+    references:
+    - source: open.spotify.com-track-33qzdfc5wwir3h3tnxrtjp
+      quote: Do it Again - song and lyrics by Meshcut | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/meshcut/do-it-againin
+    references:
+    - source: soundcloud.com-meshcut-do-it-againin
+      quote: Stream Do it Again by Meshcut | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/28/bd/87/28bd87ad-650d-1067-4466-f8f5c5a7cc4c/artwork.jpg/600x600bb.webp
+    references:
+    - source: music.apple.com-us-song-1806715191
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/28/bd/87/28bd87ad-650d-1067-4466-f8f5c5a7cc4c/artwork.jpg/600x600bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original recording artwork
+        language: en
+  release date:
+  - value:
+      date: '2025-04-10'
+    references:
+    - source: music.apple.com-us-song-1806715191
+      quote: April 10, 2025
+      accessed: '2026-11-21'
+      locator: Published date

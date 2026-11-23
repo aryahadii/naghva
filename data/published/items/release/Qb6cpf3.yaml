@@ -1,0 +1,63 @@
+id: Qb6cpf3
+type: release
+statements:
+  name:
+  - value:
+      text: JUSTIFY YOUR LOVE
+      language: en
+    references:
+    - source: music.apple.com-us-song-6826618853
+      quote: ‎JUSTIFY YOUR LOVE - Song with Lyrics by Meshcut - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qh6s4f5
+    references:
+    - source: music.apple.com-us-song-6826618853
+      quote: ‎JUSTIFY YOUR LOVE - Song with Lyrics by Meshcut - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://music.apple.com/us/song/6826618853
+    references:
+    - source: music.apple.com-us-song-6826618853
+      quote: ‎JUSTIFY YOUR LOVE - Song with Lyrics by Meshcut - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/1K8EDG6FhJpLpF4DrHPeLC
+    references:
+    - source: open.spotify.com-track-1k8edg6fhjplpf4drhpelc
+      quote: JUSTIFY YOUR LOVE - song and lyrics by Meshcut | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/meshcut/justify-your-love-7
+    references:
+    - source: soundcloud.com-meshcut-justify-your-love-7
+      quote: Stream Justify Your love by Meshcut | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://www.youtube.com/watch?v=rqNcb4YK9KY
+    references:
+    - source: www.youtube.com-watch-v-rqncb4yk9ky
+      quote: Justify Your love - Meshcut
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3e/95/bd/3e95bdac-66c6-b2e3-5a11-fa3e6a666e02/artwork.jpg/600x600bb.webp
+    references:
+    - source: music.apple.com-us-song-6826618853
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3e/95/bd/3e95bdac-66c6-b2e3-5a11-fa3e6a666e02/artwork.jpg/600x600bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original recording artwork
+        language: en
+  release date:
+  - value:
+      date: '2026-10-27'
+    references:
+    - source: music.apple.com-us-song-6826618853
+      quote: October 27, 2026
+      accessed: '2026-11-21'
+      locator: Published date

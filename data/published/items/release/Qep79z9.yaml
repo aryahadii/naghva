@@ -1,0 +1,51 @@
+id: Qep79z9
+type: release
+statements:
+  name:
+  - value:
+      text: Brag About
+      language: en
+    references:
+    - source: music.apple.com-us-song-6833049905
+      quote: ‎Brag About - Song with Lyrics by Meshcut - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qh6s4f5
+    references:
+    - source: music.apple.com-us-song-6833049905
+      quote: ‎Brag About - Song with Lyrics by Meshcut - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://music.apple.com/us/song/6833049905
+    references:
+    - source: music.apple.com-us-song-6833049905
+      quote: ‎Brag About - Song with Lyrics by Meshcut - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/6xsRSupF6E6WWFiIEVDsHp
+    references:
+    - source: open.spotify.com-track-6xsrsupf6e6wwfiievdshp
+      quote: Brag About - song and lyrics by Meshcut | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/f2/9d/69f29dab-554c-3cbb-d002-5d872fa1a581/artwork.jpg/600x600bb.webp
+    references:
+    - source: music.apple.com-us-song-6833049905
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/f2/9d/69f29dab-554c-3cbb-d002-5d872fa1a581/artwork.jpg/600x600bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original recording artwork
+        language: en
+  release date:
+  - value:
+      date: '2026-11-17'
+    references:
+    - source: music.apple.com-us-song-6833049905
+      quote: November 17, 2026
+      accessed: '2026-11-21'
+      locator: Published date

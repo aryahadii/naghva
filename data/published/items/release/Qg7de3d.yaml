@@ -1,0 +1,75 @@
+id: Qg7de3d
+type: release
+statements:
+  name:
+  - value:
+      text: Forever
+      language: en
+    references:
+    - source: music.apple.com-us-song-6815697983
+      quote: ‎Forever - Song with Lyrics by Meshcut - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qh6s4f5
+    references:
+    - source: music.apple.com-us-song-6815697983
+      quote: ‎Forever - Song with Lyrics by Meshcut - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Q8v6j5h
+    references:
+    - source: open.spotify.com-track-2j87gz2j96a9llw0tqmhzr
+      quote: Forever - song and lyrics by SALVAATION, Meshcut, OUI FUTURE | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qdfencm
+    references:
+    - source: open.spotify.com-album-4ijti5i78qclzpxrv3sxoz
+      quote: OUI FUTURE
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://music.apple.com/us/song/6815697983
+    references:
+    - source: music.apple.com-us-song-6815697983
+      quote: ‎Forever - Song with Lyrics by Meshcut - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/7qGqj90wLM1zp3HJCfZMdm
+    references:
+    - source: open.spotify.com-track-7qgqj90wlm1zp3hjcfzmdm
+      quote: Forever - song and lyrics by Meshcut | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/meshcut/forever-1
+    references:
+    - source: soundcloud.com-meshcut-forever-1
+      quote: Stream FOREVER by Meshcut | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/2j87gZ2J96A9LLW0tqmHzr
+    references:
+    - source: open.spotify.com-track-2j87gz2j96a9llw0tqmhzr
+      quote: Forever - song and lyrics by SALVAATION, Meshcut, OUI FUTURE | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c1/9e/db/c19edba9-0b84-e9dd-ee7c-08621472a009/artwork.jpg/600x600bb.webp
+    references:
+    - source: music.apple.com-us-song-6815697983
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c1/9e/db/c19edba9-0b84-e9dd-ee7c-08621472a009/artwork.jpg/600x600bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original recording artwork
+        language: en
+  release date:
+  - value:
+      date: '2026-03-18'
+    references:
+    - source: open.spotify.com-album-4ijti5i78qclzpxrv3sxoz
+      quote: '2026-03-18'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits

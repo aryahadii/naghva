@@ -1,0 +1,63 @@
+id: Qvhdp6v
+type: release
+statements:
+  name:
+  - value:
+      text: Deadline
+      language: en
+    references:
+    - source: music.apple.com-us-song-1806714945
+      quote: ‎Deadline - Song with Lyrics by Meshcut - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qh6s4f5
+    references:
+    - source: music.apple.com-us-song-1806714945
+      quote: ‎Deadline - Song with Lyrics by Meshcut - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://music.apple.com/us/song/1806714945
+    references:
+    - source: music.apple.com-us-song-1806714945
+      quote: ‎Deadline - Song with Lyrics by Meshcut - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/4ZAk8TEJlaiSHeTptnuU5f
+    references:
+    - source: open.spotify.com-track-4zak8tejlaishetptnuu5f
+      quote: Deadline - song and lyrics by Meshcut | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/meshcut/e2dc58eb-2346-4e85-81ea-d03e186b5e6e
+    references:
+    - source: soundcloud.com-meshcut-e2dc58eb-2346-4e85-81ea-d03e186b5e6e
+      quote: Stream Deadline by Meshcut | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://www.youtube.com/watch?v=4alC5lnsllE
+    references:
+    - source: www.youtube.com-watch-v-4alc5lnslle
+      quote: MESHCUT - Deadline (Official Music Video)
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/28/bd/87/28bd87ad-650d-1067-4466-f8f5c5a7cc4c/artwork.jpg/600x600bb.webp
+    references:
+    - source: music.apple.com-us-song-1806714945
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/28/bd/87/28bd87ad-650d-1067-4466-f8f5c5a7cc4c/artwork.jpg/600x600bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original recording artwork
+        language: en
+  release date:
+  - value:
+      date: '2025-04-10'
+    references:
+    - source: music.apple.com-us-song-1806714945
+      quote: April 10, 2025
+      accessed: '2026-11-21'
+      locator: Published date

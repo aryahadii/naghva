@@ -1,0 +1,74 @@
+id: Q8shh4d
+type: release
+statements:
+  name:
+  - value:
+      text: Tales From Erygow
+      language: en
+    references:
+    - source: anetterecords.bandcamp.com-album-tales-from-erygow
+      quote: Tales From Erygow | DOT | ANETTE RECORDS
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qh6s4f5
+    references:
+    - &id001
+      source: anetterecords.bandcamp.com-album-tales-from-erygow
+      quote: Narration by Doc Holiday & Meshkat Meshcut Mosavat
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Qxtf8rv
+    references:
+    - *id001
+  - value: Qc5v237
+    references:
+    - source: anetterecords.bandcamp.com-album-tales-from-erygow
+      quote: All songs produced, mixed and arranged by DOT
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://anetterecords.bandcamp.com/album/tales-from-erygow
+    references:
+    - source: anetterecords.bandcamp.com-album-tales-from-erygow
+      quote: Tales From Erygow | DOT | ANETTE RECORDS
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/entropy-feat-meshcut/1726239841
+    references:
+    - source: music.apple.com-us-album-entropy-feat-meshcut-1726239841
+      quote: ‎Tales from Erygow - Album by DOT - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/album/4bfTQyh8kGBM5oTKLdg6NT
+    references:
+    - source: open.spotify.com-album-4bftqyh8kgbm5otkldg6nt
+      quote: Listen to Tales from Erygow - Album by DOT | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  release type:
+  - value: album
+    references:
+    - source: anetterecords.bandcamp.com-album-tales-from-erygow
+      quote: Tales From Erygow | DOT | ANETTE RECORDS
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2024-01-31'
+    references:
+    - source: anetterecords.bandcamp.com-album-tales-from-erygow
+      quote: released January 31, 2024
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a0092280104_10.jpg
+    references:
+    - source: anetterecords.bandcamp.com-album-tales-from-erygow
+      quote: https://f4.bcbits.com/img/a0092280104_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Anette Records
+        language: en

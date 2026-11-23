@@ -1,0 +1,45 @@
+id: Q2wq8xv
+type: release
+statements:
+  name:
+  - value:
+      text: Blue (feat. Meshcut)
+      language: en
+    references:
+    - source: music.apple.com-us-song-1813226546
+      quote: ‎Blue (feat. Meshcut) - Song with Lyrics by OUI FUTURE - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qh6s4f5
+    references:
+    - source: music.apple.com-us-song-1813226546
+      quote: ‎Blue (feat. Meshcut) - Song with Lyrics by OUI FUTURE - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://music.apple.com/us/song/1813226546
+    references:
+    - source: music.apple.com-us-song-1813226546
+      quote: ‎Blue (feat. Meshcut) - Song with Lyrics by OUI FUTURE - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ba/fb/51/bafb512c-769b-92b0-59b0-a27948f26a12/990591204645.png/600x600bb.webp
+    references:
+    - source: music.apple.com-us-song-1813226546
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ba/fb/51/bafb512c-769b-92b0-59b0-a27948f26a12/990591204645.png/600x600bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original recording artwork
+        language: en
+  release date:
+  - value:
+      date: '2025-05-08'
+    references:
+    - source: music.apple.com-us-song-1813226546
+      quote: May 8, 2025
+      accessed: '2026-11-21'
+      locator: Published date

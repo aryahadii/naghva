@@ -1,0 +1,75 @@
+id: Qpx6gzb
+type: release
+statements:
+  name:
+  - value:
+      text: This is the end
+      language: en
+    references:
+    - source: music.apple.com-us-song-6815697982
+      quote: ‎This is the end - Song with Lyrics by Meshcut - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qh6s4f5
+    references:
+    - source: music.apple.com-us-song-6815697982
+      quote: ‎This is the end - Song with Lyrics by Meshcut - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Q8v6j5h
+    references:
+    - source: open.spotify.com-track-1r79a29r0yzyyzqpspsd0n
+      quote: This is the end - song and lyrics by SALVAATION, Meshcut, OUI FUTURE | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qdfencm
+    references:
+    - source: open.spotify.com-album-4ijti5i78qclzpxrv3sxoz
+      quote: OUI FUTURE
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://music.apple.com/us/song/6815697982
+    references:
+    - source: music.apple.com-us-song-6815697982
+      quote: ‎This is the end - Song with Lyrics by Meshcut - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/0z1CkGgT97Q1CKsqS4jh6z
+    references:
+    - source: open.spotify.com-track-0z1ckggt97q1cksqs4jh6z
+      quote: This is the end - song and lyrics by Meshcut | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/meshcut/this-is-the-end-10
+    references:
+    - source: soundcloud.com-meshcut-this-is-the-end-10
+      quote: Stream This is the end by Meshcut | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/1R79A29R0yzyYZqPSPsD0N
+    references:
+    - source: open.spotify.com-track-1r79a29r0yzyyzqpspsd0n
+      quote: This is the end - song and lyrics by SALVAATION, Meshcut, OUI FUTURE | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c1/9e/db/c19edba9-0b84-e9dd-ee7c-08621472a009/artwork.jpg/600x600bb.webp
+    references:
+    - source: music.apple.com-us-song-6815697982
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c1/9e/db/c19edba9-0b84-e9dd-ee7c-08621472a009/artwork.jpg/600x600bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original recording artwork
+        language: en
+  release date:
+  - value:
+      date: '2026-03-18'
+    references:
+    - source: open.spotify.com-album-4ijti5i78qclzpxrv3sxoz
+      quote: '2026-03-18'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits

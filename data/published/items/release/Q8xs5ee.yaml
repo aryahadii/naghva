@@ -1,0 +1,57 @@
+id: Q8xs5ee
+type: release
+statements:
+  name:
+  - value:
+      text: Notice
+      language: en
+    references:
+    - source: music.apple.com-us-song-6821092628
+      quote: ‎Notice - Song with Lyrics by RâzKød & Meshcut - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qh6s4f5
+    references:
+    - source: music.apple.com-us-song-6821092628
+      quote: ‎Notice - Song with Lyrics by RâzKød & Meshcut - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qk2bc8z
+    references:
+    - source: open.spotify.com-track-0hsi0lctz2phndhoy4iy4g
+      quote: Razkod
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://music.apple.com/us/song/6821092628
+    references:
+    - source: music.apple.com-us-song-6821092628
+      quote: ‎Notice - Song with Lyrics by RâzKød & Meshcut - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/0hSI0lCTz2PhNDhOy4iy4G
+    references:
+    - source: open.spotify.com-track-0hsi0lctz2phndhoy4iy4g
+      quote: Notice - Original Mix - song and lyrics by Razkod, Meshcut | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/66/05/65/6605656b-8ca9-bb02-211b-cc6f072ce184/193872549835_cover.jpg/600x600bb.webp
+    references:
+    - source: music.apple.com-us-song-6821092628
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/66/05/65/6605656b-8ca9-bb02-211b-cc6f072ce184/193872549835_cover.jpg/600x600bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original recording artwork
+        language: en
+  release date:
+  - value:
+      date: '2019-11-18'
+    references:
+    - source: music.apple.com-us-song-6821092628
+      quote: November 18, 2019
+      accessed: '2026-11-21'
+      locator: Published date

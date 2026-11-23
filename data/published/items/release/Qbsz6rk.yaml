@@ -1,0 +1,45 @@
+id: Qbsz6rk
+type: release
+statements:
+  name:
+  - value:
+      text: Brood (feat. Meshcut) [Mind Against Remix]
+      language: en
+    references:
+    - source: music.apple.com-us-song-1520036716
+      quote: ‎Brood (feat. Meshcut) [Mind Against Remix] - Song with Lyrics by Blausch - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qh6s4f5
+    references:
+    - source: music.apple.com-us-song-1520036716
+      quote: ‎Brood (feat. Meshcut) [Mind Against Remix] - Song with Lyrics by Blausch - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://music.apple.com/us/song/1520036716
+    references:
+    - source: music.apple.com-us-song-1520036716
+      quote: ‎Brood (feat. Meshcut) [Mind Against Remix] - Song with Lyrics by Blausch - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/71/8e/11/718e110e-ade7-fd61-fd29-4d504192adba/4250101418891_cover.jpg/600x600bb.webp
+    references:
+    - source: music.apple.com-us-song-1520036716
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/71/8e/11/718e110e-ade7-fd61-fd29-4d504192adba/4250101418891_cover.jpg/600x600bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original recording artwork
+        language: en
+  release date:
+  - value:
+      date: '2020-07-10'
+    references:
+    - source: music.apple.com-us-song-1520036716
+      quote: July 10, 2020
+      accessed: '2026-11-21'
+      locator: Published date
