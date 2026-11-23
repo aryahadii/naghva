@@ -1,0 +1,23 @@
+id: Qndaebe
+type: person
+statements:
+  name:
+  - value:
+      text: Emanuele Flandoli
+      language: en
+    references:
+    - source: hysterrae.bandcamp.com-album-hysterrae
+      quote: 'Emanuele Flandoli: electronic music production, synths, programming'
+      accessed: '2026-11-21'
+      locator: Debut album personnel
+  member of:
+  - value: Qkvdrbs
+    qualifiers:
+      role:
+      - producer
+      - synthesizer
+    references:
+    - source: hysterrae.bandcamp.com-album-hysterrae
+      quote: 'Emanuele Flandoli: electronic music production, synths, programming'
+      accessed: '2026-11-21'
+      locator: Debut album personnel

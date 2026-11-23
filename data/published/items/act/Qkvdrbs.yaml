@@ -1,0 +1,69 @@
+id: Qkvdrbs
+type: act
+statements:
+  name:
+  - value:
+      text: Hysterrae
+      language: en
+    references:
+    - source: hysterrae.bandcamp.com-music
+      quote: Music | Hysterrae
+      accessed: '2026-11-21'
+      locator: Bandcamp page heading
+  based in:
+  - value: Qpwta4q
+    references:
+    - source: hysterrae.bandcamp.com-album-hysterrae
+      quote: Lecce, Italy
+      accessed: '2026-11-21'
+      locator: Group location
+  formation date:
+  - value:
+      date: '2018'
+    references:
+    - source: www.songlines.co.uk-features-rituals-femininity-and-mother-earth-are-at-the-heart-of-italian-iranian-group-hysterrae
+      quote: we began to work as a real group from 2018
+      accessed: '2026-11-21'
+      locator: Shadi Fathi on formation
+  image:
+  - value: https://f4.bcbits.com/img/0034374165_100.png
+    qualifiers:
+      credit:
+        text: Hysterrae on Bandcamp
+        language: en
+    references:
+    - source: hysterrae.bandcamp.com-album-hysterrae
+      quote: https://f4.bcbits.com/img/0034374165_100.png
+      accessed: '2026-11-21'
+      locator: Artist-published group portrait across the top of the Bandcamp release page
+  profile link:
+  - value: https://hysterrae.bandcamp.com/music
+    references:
+    - source: hysterrae.bandcamp.com-music
+      quote: Music | Hysterrae
+      accessed: '2026-11-21'
+      locator: Artist profile heading
+  - value: https://open.spotify.com/artist/7DJGHTh3CxPbGI1Zn6iSag
+    references:
+    - source: open.spotify.com-artist-7djghth3cxpbgi1zn6isag
+      quote: Listen to Hysterrae Songs | Spotify
+      accessed: '2026-11-21'
+      locator: Artist profile heading
+  - value: https://music.apple.com/us/artist/hysterrae/1693876221
+    references:
+    - source: music.apple.com-us-artist-hysterrae-1693876221
+      quote: ‎Hysterrae - Apple Music
+      accessed: '2026-11-21'
+      locator: Artist profile heading
+  - value: https://www.youtube.com/@hysterrae7334/videos
+    references:
+    - source: www.youtube.com-hysterrae7334-videos
+      quote: Hysterrae - YouTube
+      accessed: '2026-11-21'
+      locator: Artist profile heading
+  - value: https://soundcloud.com/user-563439002
+    references:
+    - source: soundcloud.com-user-563439002-tracks
+      quote: Hysterrae - Avvocata
+      accessed: '2026-11-21'
+      locator: Artist track list

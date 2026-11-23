@@ -1,0 +1,49 @@
+id: Qkxsh5t
+type: release
+statements:
+  name:
+  - value:
+      text: Hysterrae - “Leyli Djan” - 2021
+      language: en
+    references:
+    - source: www.youtube.com-watch-v-ht3lllopux4
+      quote: Hysterrae - “Leyli Djan” - 2021
+      accessed: '2026-11-21'
+      locator: Artist channel, YouTube oEmbed title
+  performer:
+  - value: Qkvdrbs
+    references:
+    - source: www.youtube.com-watch-v-ht3lllopux4
+      quote: Hysterrae - “Leyli Djan” - 2021
+      accessed: '2026-11-21'
+      locator: Artist channel, YouTube oEmbed title
+    - source: www.youtube.com-watch-v-ht3lllopux4
+      quote: Hysterrae
+      accessed: '2026-11-21'
+      locator: Publishing channel
+  listen link:
+  - value: https://www.youtube.com/watch?v=ht3LlLOpUx4
+    references:
+    - source: www.youtube.com-watch-v-ht3lllopux4
+      quote: Hysterrae - “Leyli Djan” - 2021
+      accessed: '2026-11-21'
+      locator: Artist channel, YouTube oEmbed title
+    - source: www.youtube.com-watch-v-ht3lllopux4
+      quote: Hysterrae
+      accessed: '2026-11-21'
+      locator: Publishing channel
+  cover art:
+  - value: https://i.ytimg.com/vi/ht3LlLOpUx4/hqdefault.jpg
+    qualifiers:
+      credit:
+        text: Hysterrae on YouTube
+        language: en
+    references:
+    - source: www.youtube.com-watch-v-ht3lllopux4
+      quote: https://i.ytimg.com/vi/ht3LlLOpUx4/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Official video thumbnail
+    - source: www.youtube.com-watch-v-ht3lllopux4
+      quote: Hysterrae
+      accessed: '2026-11-21'
+      locator: Publishing channel

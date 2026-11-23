@@ -1,0 +1,84 @@
+id: Qs5rfph
+type: release
+statements:
+  name:
+  - value:
+      text: Ruvida
+      language: en
+    references:
+    - source: music.apple.com-us-album-hysterrae-1718788312
+      quote: Ruvida
+      accessed: '2026-11-21'
+      locator: Album track 2
+  performer:
+  - value: Qkvdrbs
+    references:
+    - source: hysterrae.bandcamp.com-track-ruvida
+      quote: Ruvida | Hysterrae
+      accessed: '2026-11-21'
+      locator: Bandcamp track title and performer
+  listen link:
+  - value: https://hysterrae.bandcamp.com/track/ruvida
+    references:
+    - source: hysterrae.bandcamp.com-track-ruvida
+      quote: Ruvida | Hysterrae
+      accessed: '2026-11-21'
+      locator: Bandcamp track title and performer
+  - value: https://music.apple.com/us/song/ruvida/1718788584
+    references:
+    - source: music.apple.com-us-album-hysterrae-1718788312
+      quote: Ruvida
+      accessed: '2026-11-21'
+      locator: Album track 2
+  - value: https://open.spotify.com/track/2JClLtdmfeO2vUSmaEGLCq
+    references:
+    - source: open.spotify.com-album-4sspanzikpwdtogseleb0c
+      quote: Ruvida
+      accessed: '2026-11-21'
+      locator: Album track 2
+  - value: https://www.youtube.com/watch?v=AoY1sK_-tvU
+    references:
+    - source: www.youtube.com-watch-v-aoy1sk_-tvu
+      quote: Hysterrae  - Ruvida
+      accessed: '2026-11-21'
+      locator: Artist channel, YouTube oEmbed title
+    - source: www.youtube.com-watch-v-aoy1sk_-tvu
+      quote: Hysterrae
+      accessed: '2026-11-21'
+      locator: Publishing channel
+  release date:
+  - value:
+      date: '2023-12-11'
+    references:
+    - source: music.apple.com-us-album-hysterrae-1718788312
+      quote: '2023-12-11'
+      accessed: '2026-11-21'
+      locator: Catalogue release date
+    - source: hysterrae.bandcamp.com-album-hysterrae
+      quote: released December 11, 2023
+      accessed: '2026-11-21'
+      locator: Album credits
+  cover art:
+  - value: https://f4.bcbits.com/img/a2794796731_10.jpg
+    qualifiers:
+      credit:
+        text: Cosimo Brunetti, graphic design
+        language: en
+    references:
+    - source: hysterrae.bandcamp.com-album-hysterrae
+      quote: https://f4.bcbits.com/img/a2794796731_10.jpg
+      accessed: '2026-11-21'
+      locator: Bandcamp album art
+    - source: hysterrae.bandcamp.com-album-hysterrae
+      quote: Graphic design by Cosimo Brunetti
+      accessed: '2026-11-21'
+      locator: Album cover design
+  contributor:
+  - value: Qkvdrbs
+    qualifiers:
+      role: arranger
+    references:
+    - source: hysterrae.bandcamp.com-album-hysterrae
+      quote: All music arranged and played by Hysterrae
+      accessed: '2026-11-21'
+      locator: Album arrangement and performance credit
