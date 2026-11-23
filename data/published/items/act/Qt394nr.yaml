@@ -1,0 +1,49 @@
+id: Qt394nr
+type: act
+statements:
+  name:
+  - value:
+      text: Esfand
+      language: en
+    references:
+    - source: music.apple.com-us-album-quiescence-feat-mohsen-namjoo-single-1608212545
+      quote: Quiescence (feat. Mohsen Namjoo) - Single - Album by Esfand - Apple Music
+      accessed: '2026-11-09'
+  image:
+  - value: https://i.scdn.co/image/ab6761610000e5eb70be1aa2ef72334bc0d25fa1
+    references:
+    - source: open.spotify.com-artist-4b2suwdtzj8hyw3yluqnws
+      quote: https://i.scdn.co/image/ab6761610000e5eb70be1aa2ef72334bc0d25fa1
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: Esfand, via Spotify
+        language: en
+  profile link:
+  - value: https://open.spotify.com/artist/4B2sUWdtzJ8hYw3YLUqnwS
+    references:
+    - source: open.spotify.com-artist-4b2suwdtzj8hyw3yluqnws
+      quote: Listen to Esfand Songs | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/artist/esfand/1609594760?uo=4
+    references:
+    - source: music.apple.com-us-artist-esfand-1609594760-uo-4
+      quote: ‎Esfand - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://esfand.bandcamp.com/music
+    references:
+    - source: esfand.bandcamp.com-music
+      quote: Music | Esfand
+      accessed: '2026-11-21'
+      locator: Page title
+  formation date:
+  - value:
+      date: '2020'
+    references:
+    - source: esfand.bandcamp.com-album-piltan
+      quote: founded in 2020
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
