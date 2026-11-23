@@ -1,0 +1,72 @@
+id: Qgnn8zf
+type: release
+statements:
+  name:
+  - value:
+      text: War of the Others
+      language: en
+    references:
+    - source: music.apple.com-us-album-un-even-ep-483261659
+      quote: War of the Others
+      accessed: '2026-11-21'
+      locator: Apple track
+  performer:
+  - value: Qmdmc89
+    references:
+    - source: music.apple.com-us-album-un-even-ep-483261659
+      quote: War of the Others
+      accessed: '2026-11-21'
+      locator: Apple track
+  cover art:
+  - value: https://f4.bcbits.com/img/a0426172280_10.jpg
+    qualifiers:
+      credit:
+        text: Casualty Process on Bandcamp
+        language: en
+    references:
+    - source: casualtyprocess.bandcamp.com-album-un-even
+      quote: https://f4.bcbits.com/img/a0426172280_10.jpg
+      accessed: '2026-11-21'
+      locator: Native art of this edition
+  release date:
+  - value:
+      date: '2011-07-16'
+    references:
+    - source: casualtyprocess.bandcamp.com-album-un-even
+      quote: released July 16, 2011
+      accessed: '2026-11-21'
+      locator: Original issue
+  listen link:
+  - value: https://casualtyprocess.bandcamp.com/track/02-war-of-the-others
+    references:
+    - source: casualtyprocess.bandcamp.com-track-02-war-of-the-others
+      quote: 02 - War Of The Others | Casualty Process
+      accessed: '2026-11-21'
+      locator: Original page heading
+  - value: https://music.apple.com/us/song/war-of-the-others/483261664
+    references:
+    - source: music.apple.com-us-album-un-even-ep-483261659
+      quote: War of the Others
+      accessed: '2026-11-21'
+      locator: Apple track
+  - value: https://soundcloud.com/casualtyprocess/02-the-casualty-process-war-of
+    references:
+    - source: soundcloud.com-casualtyprocess-02-the-casualty-process-war-of
+      quote: 02 - War of the Others
+      accessed: '2026-11-21'
+      locator: Artist SoundCloud upload
+  - value: https://33rpmvoices.bandcamp.com/track/war-of-the-others-iran
+    references:
+    - source: 33rpmvoices.bandcamp.com-track-war-of-the-others-iran
+      quote: War of the Others (Iran)
+      accessed: '2026-11-21'
+      locator: Track title
+  contributor:
+  - value: Qxxp9ab
+    qualifiers:
+      role: composer
+    references:
+    - source: casualtyprocess.bandcamp.com-album-un-even
+      quote: Music and concept by Natch Nadjafi
+      accessed: '2026-11-21'
+      locator: Composition

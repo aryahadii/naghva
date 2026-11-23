@@ -1,0 +1,72 @@
+id: Qmdmc89
+type: act
+statements:
+  name:
+  - value:
+      text: The Casualty Process
+      language: en
+    references:
+    - source: music.apple.com-us-artist-the-casualty-process-483261660
+      quote: The Casualty Process
+      accessed: '2026-11-21'
+      locator: Digital billing
+  - value:
+      text: Casualty Process
+      language: en
+    references:
+    - source: casualtyprocess.bandcamp.com-music
+      quote: Casualty Process
+      accessed: '2026-11-21'
+      locator: Original artist name on Bandcamp
+  - value:
+      text: The Plastic Wave
+      language: en
+    references:
+    - source: chris-cochrane.squarespace.com-gigs2-2015-3-3-music-freedom-day-at-spectrum
+      quote: In Autumn 2008, they officially named themselves The Plastic Wave
+      accessed: '2026-11-21'
+      locator: Name of earlier lineup
+    - source: chris-cochrane.squarespace.com-gigs2-2015-3-3-music-freedom-day-at-spectrum
+      quote: Maral later left the band to pursue a solo career, and Natch changed the project’s name to The Casualty Process.
+      accessed: '2026-11-21'
+      locator: The change of name
+  profile link:
+  - value: https://casualtyprocess.bandcamp.com/music
+    references:
+    - source: casualtyprocess.bandcamp.com-music
+      quote: Music | Casualty Process
+      accessed: '2026-11-21'
+      locator: Original page heading
+  - value: https://music.apple.com/us/artist/the-casualty-process/483261660
+    references:
+    - source: music.apple.com-us-artist-the-casualty-process-483261660
+      quote: ‎The Casualty Process - Apple Music
+      accessed: '2026-11-21'
+      locator: Original page heading
+  - value: https://soundcloud.com/casualtyprocess
+    references:
+    - source: soundcloud.com-casualtyprocess-tracks
+      quote: Stream Casualty Process | Listen to music albums online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Original page heading
+  - value: https://www.youtube.com/@TheCasualtyProcess
+    references:
+    - source: www.youtube.com-thecasualtyprocess-videos
+      quote: CasualtyProcess - YouTube
+      accessed: '2026-11-21'
+      locator: Original page heading
+  image:
+  - value: https://i.ytimg.com/vi/yOSgwbO40-Q/hq3.jpg
+    qualifiers:
+      credit:
+        text: TEDx Talks, Lafayette College performance
+        language: en
+    references:
+    - source: www.youtube.com-watch-v-yosgwbo40-q
+      quote: https://i.ytimg.com/vi/yOSgwbO40-Q/hq3.jpg
+      accessed: '2026-11-21'
+      locator: Native third still of the duo at TEDxLaf, visually verified from the public YouTube video
+    - source: www.youtube.com-watch-v-yosgwbo40-q
+      quote: TEDx Talks
+      accessed: '2026-11-21'
+      locator: Uploader

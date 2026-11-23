@@ -1,0 +1,45 @@
+id: Qx64nd7
+type: release
+statements:
+  name:
+  - value:
+      text: We Need To Talk (Single Version)
+      language: en
+    references:
+    - source: soundcloud.com-casualtyprocess-we-need-to-talk-1
+      quote: We Need To Talk (Single Version)
+      accessed: '2026-11-21'
+      locator: Artist SoundCloud upload
+  performer:
+  - value: Qmdmc89
+    references:
+    - source: soundcloud.com-casualtyprocess-we-need-to-talk-1
+      quote: We Need To Talk (Single Version)
+      accessed: '2026-11-21'
+      locator: Artist SoundCloud upload
+  release date:
+  - value:
+      date: '2013-06-03'
+    references:
+    - source: soundcloud.com-casualtyprocess-we-need-to-talk-1
+      quote: '2013-06-03'
+      accessed: '2026-11-21'
+      locator: Native upload date
+  listen link:
+  - value: https://soundcloud.com/casualtyprocess/we-need-to-talk-1
+    references:
+    - source: soundcloud.com-casualtyprocess-we-need-to-talk-1
+      quote: We Need To Talk (Single Version)
+      accessed: '2026-11-21'
+      locator: Artist SoundCloud upload
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-000049980055-c7u4dj-large.jpg
+    qualifiers:
+      credit:
+        text: Casualty Process on SoundCloud
+        language: en
+    references:
+    - source: soundcloud.com-casualtyprocess-we-need-to-talk-1
+      quote: https://i1.sndcdn.com/artworks-000049980055-c7u4dj-large.jpg
+      accessed: '2026-11-21'
+      locator: SoundCloud recording art
