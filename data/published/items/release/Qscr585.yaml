@@ -1,0 +1,62 @@
+id: Qscr585
+type: release
+statements:
+  name:
+  - value:
+      text: 'Null'
+      language: en
+    references:
+    - &id001
+      source: mahmoodschricker.bandcamp.com-album-null
+      quote: 'Null'
+      accessed: '2026-11-21'
+      locator: Recording title or artist credit
+  listen link:
+  - value: https://mahmoodschricker.bandcamp.com/album/null
+    references:
+    - source: mahmoodschricker.bandcamp.com-album-null
+      quote: Null | Mahmood Schricker
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/null/527406240
+    references:
+    - source: music.apple.com-us-album-null-527406240
+      quote: ‎Null - Album by Mahmood Schricker - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/album/4tgNWRpFBtgqLVpT6YVQXf
+    references:
+    - source: open.spotify.com-album-4tgnwrpfbtgqlvpt6yvqxf
+      quote: Listen to Null - Album by Mahmood Schricker | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qxkh2tz
+    references:
+    - source: mahmoodschricker.bandcamp.com-album-null
+      quote: Null | Mahmood Schricker
+      accessed: '2026-11-21'
+      locator: Page title
+  release type:
+  - value: album
+    references:
+    - *id001
+  cover art:
+  - value: https://f4.bcbits.com/img/a4109838730_10.jpg
+    references:
+    - source: mahmoodschricker.bandcamp.com-album-null
+      quote: https://f4.bcbits.com/img/a4109838730_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Ahmadreza Schricker
+        language: en
+  release date:
+  - value:
+      date: '2012-04-09'
+    references:
+    - source: mahmoodschricker.bandcamp.com-album-null
+      quote: released April 9, 2012
+      accessed: '2026-11-21'
+      locator: Published date

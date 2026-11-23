@@ -1,0 +1,58 @@
+id: Qt59kxf
+type: release
+statements:
+  name:
+  - value:
+      text: Lonely City
+      language: en
+    references:
+    - source: music.apple.com-us-album-lonely-city-single-1522136598
+      quote: Lonely City
+      accessed: '2026-11-21'
+      locator: Recording title or artist credit
+  listen link:
+  - value: https://music.apple.com/us/album/lonely-city-single/1522136598
+    references:
+    - source: music.apple.com-us-album-lonely-city-single-1522136598
+      quote: ‎Lonely City - Single - Album by Bahramji & Mahmood Schricker - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qxkh2tz
+    references:
+    - source: music.apple.com-us-album-lonely-city-single-1522136598
+      quote: ‎Lonely City - Single - Album by Bahramji & Mahmood Schricker - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Q9y35r9
+    references:
+    - source: music.apple.com-us-album-lonely-city-single-1522136598
+      quote: Bahramji
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  release type:
+  - value: album
+    references:
+    - source: music.apple.com-us-album-lonely-city-single-1522136598
+      quote: Lonely City
+      accessed: '2026-11-21'
+      locator: Recording title or artist credit
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/75/95/ec/7595ecc4-7581-decf-4490-01b4ac884fd9/00_Cover_Art.jpg/632x632bb.webp
+    references:
+    - source: music.apple.com-us-album-lonely-city-single-1522136598
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/75/95/ec/7595ecc4-7581-decf-4490-01b4ac884fd9/00_Cover_Art.jpg/632x632bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Mahmood Schricker on Apple Music
+        language: en
+  release date:
+  - value:
+      date: '2020-08-08'
+    references:
+    - source: music.apple.com-us-album-lonely-city-single-1522136598
+      quote: August 8, 2020
+      accessed: '2026-11-21'
+      locator: Published date

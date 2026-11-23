@@ -1,0 +1,57 @@
+id: Qn7axxh
+type: release
+statements:
+  name:
+  - value:
+      text: Elastic Wood
+      language: en
+    references:
+    - source: mahmoodschricker.bandcamp.com-track-elastic-wood
+      quote: Elastic Wood
+      accessed: '2026-11-21'
+      locator: Recording title or artist credit
+  listen link:
+  - value: https://mahmoodschricker.bandcamp.com/track/elastic-wood
+    references:
+    - source: mahmoodschricker.bandcamp.com-track-elastic-wood
+      quote: Elastic Wood | Mahmood Schricker
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/elastic-wood/1469116714
+    references:
+    - source: music.apple.com-us-song-elastic-wood-1469116714
+      quote: ‎Elastic Wood - Song with Lyrics by Mahmood Schricker & The Ceft Coalition - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/mahmood-schricker/elastic-wood-featuring-the-ceft-coalition
+    references:
+    - source: soundcloud.com-mahmood-schricker-elastic-wood-featuring-the-ceft-coalition
+      quote: Stream Elastic Wood featuring the ceft coalition by Mahmood Schricker | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qxkh2tz
+    references:
+    - source: mahmoodschricker.bandcamp.com-track-elastic-wood
+      quote: Elastic Wood | Mahmood Schricker
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a0373042254_10.jpg
+    references:
+    - source: mahmoodschricker.bandcamp.com-track-elastic-wood
+      quote: https://f4.bcbits.com/img/a0373042254_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Mahmood Schricker on Bandcamp
+        language: en
+  release date:
+  - value:
+      date: '2019-06-16'
+    references:
+    - source: music.apple.com-us-song-elastic-wood-1469116714
+      quote: June 16, 2019
+      accessed: '2026-11-21'
+      locator: Published date

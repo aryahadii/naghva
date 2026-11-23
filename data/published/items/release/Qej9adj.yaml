@@ -1,0 +1,57 @@
+id: Qej9adj
+type: release
+statements:
+  name:
+  - value:
+      text: Roque Dalton
+      language: en
+    references:
+    - source: mahmoodschricker.bandcamp.com-track-roque-dalton
+      quote: Roque Dalton
+      accessed: '2026-11-21'
+      locator: Recording title or artist credit
+  listen link:
+  - value: https://mahmoodschricker.bandcamp.com/track/roque-dalton
+    references:
+    - source: mahmoodschricker.bandcamp.com-track-roque-dalton
+      quote: Roque Dalton | Mahmood Schricker
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/roque-dalton/1525500045
+    references:
+    - source: music.apple.com-us-song-roque-dalton-1525500045
+      quote: ‎Roque Dalton - Song with Lyrics by Mahmood Schricker - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/mahmood-schricker/radio-dreams-roque-dalton-poem
+    references:
+    - source: soundcloud.com-mahmood-schricker-radio-dreams-roque-dalton-poem
+      quote: Stream Radio Dreams - Roque Dalton Poem by Mahmood Schricker | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qxkh2tz
+    references:
+    - source: mahmoodschricker.bandcamp.com-track-roque-dalton
+      quote: Roque Dalton | Mahmood Schricker
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a3832824935_10.jpg
+    references:
+    - source: mahmoodschricker.bandcamp.com-track-roque-dalton
+      quote: https://f4.bcbits.com/img/a3832824935_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Mahmood Schricker on Bandcamp
+        language: en
+  release date:
+  - value:
+      date: '2020-07-14'
+    references:
+    - source: music.apple.com-us-song-roque-dalton-1525500045
+      quote: July 14, 2020
+      accessed: '2026-11-21'
+      locator: Published date

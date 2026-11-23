@@ -1,0 +1,69 @@
+id: Q3nzyp4
+type: release
+statements:
+  name:
+  - value:
+      text: Globe Scene
+      language: en
+    references:
+    - source: mahmoodschricker.bandcamp.com-track-globe-scene
+      quote: Globe Scene
+      accessed: '2026-11-21'
+      locator: Recording title or artist credit
+  listen link:
+  - value: https://mahmoodschricker.bandcamp.com/track/globe-scene
+    references:
+    - source: mahmoodschricker.bandcamp.com-track-globe-scene
+      quote: Globe Scene | Mahmood Schricker
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://linkmusiclab.bandcamp.com/track/globe-scene
+    references:
+    - source: linkmusiclab.bandcamp.com-track-globe-scene
+      quote: Globe Scene | Mahmood Schricker | Link Music Lab Records
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/7H93HbwPzaQVDGsZmdMtK0
+    references:
+    - source: open.spotify.com-track-7h93hbwpzaqvdgszmdmtk0
+      quote: Globe Scene - song and lyrics by Mahmood Schricker | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/globe-scene/1715537028
+    references:
+    - source: music.apple.com-us-song-globe-scene-1715537028
+      quote: ‎Globe Scene - Song with Lyrics by Mahmood Schricker - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/mahmood-schricker/06-globe-scene-p2p
+    references:
+    - source: soundcloud.com-mahmood-schricker-06-globe-scene-p2p
+      quote: Stream Globe Scene by Mahmood Schricker | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qxkh2tz
+    references:
+    - source: mahmoodschricker.bandcamp.com-track-globe-scene
+      quote: Globe Scene | Mahmood Schricker
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a3807362954_10.jpg
+    references:
+    - source: mahmoodschricker.bandcamp.com-track-globe-scene
+      quote: https://f4.bcbits.com/img/a3807362954_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Mahmood Schricker on Bandcamp
+        language: en
+  release date:
+  - value:
+      date: '2023-10-28'
+    references:
+    - source: music.apple.com-us-song-globe-scene-1715537028
+      quote: October 28, 2023
+      accessed: '2026-11-21'
+      locator: Published date

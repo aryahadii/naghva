@@ -1,0 +1,41 @@
+id: Qxsrgt8
+type: release
+statements:
+  name:
+  - value:
+      text: Dastgamachine - Live at Tapestry (Mahmood Schricker, Caleb Klager, Neonlichter)
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-nqi9-tc29ki
+      quote: Dastgamachine - Live at Tapestry (Mahmood Schricker, Caleb Klager, Neonlichter)
+      accessed: '2026-11-21'
+      locator: Recording title or artist credit
+  listen link:
+  - value: https://www.youtube.com/watch?v=nqI9-tC29kI
+    references:
+    - source: www.youtube.com-watch-v-nqi9-tc29ki
+      quote: Dastgamachine - Live at Tapestry (Mahmood Schricker, Caleb Klager, Neonlichter)
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qxkh2tz
+    references:
+    - source: www.youtube.com-watch-v-nqi9-tc29ki
+      quote: Dastgamachine - Live at Tapestry (Mahmood Schricker, Caleb Klager, Neonlichter)
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Q5b7pz5
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/nqI9-tC29kI/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-nqi9-tc29ki
+      quote: https://i.ytimg.com/vi/nqI9-tC29kI/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: Mahmood Schricker
+        language: en

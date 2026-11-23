@@ -1,0 +1,89 @@
+id: Qmx86dd
+type: release
+statements:
+  name:
+  - value:
+      text: Birth (ending)
+      language: en
+    references:
+    - source: mahmoodschricker.bandcamp.com-track-birth-ending
+      quote: Birth (ending)
+      accessed: '2026-11-21'
+      locator: Recording title or artist credit
+  listen link:
+  - value: https://mahmoodschricker.bandcamp.com/track/birth-ending
+    references:
+    - source: mahmoodschricker.bandcamp.com-track-birth-ending
+      quote: Birth (ending) | Mahmood Schricker
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://linkmusiclab.bandcamp.com/track/birth-ending
+    references:
+    - source: linkmusiclab.bandcamp.com-track-birth-ending
+      quote: Birth (ending) | Mahmood Schricker, Leandro Joaquim, Scott Peterson | Link Music Lab Records
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/01ZzTif0NNrwRDXI9Eqdyt
+    references:
+    - source: open.spotify.com-track-01zztif0nnrwrdxi9eqdyt
+      quote: Birth (Ending Score) - song and lyrics by Mahmood Schricker, Leandro Joaquim, Scott Peterson | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/birth-ending-score/1715536875
+    references:
+    - source: music.apple.com-us-song-birth-ending-score-1715536875
+      quote: ‎Birth (Ending Score) - Song with Lyrics by Mahmood Schricker, Leandro Joaquim & Scott Peterson - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/mahmood-schricker/03-birth-ending-p2p
+    references:
+    - source: soundcloud.com-mahmood-schricker-03-birth-ending-p2p
+      quote: Stream Birth (Ending) by Mahmood Schricker | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qxkh2tz
+    references:
+    - source: mahmoodschricker.bandcamp.com-track-birth-ending
+      quote: Birth (ending) | Mahmood Schricker
+      accessed: '2026-11-21'
+      locator: Page title
+    - source: linkmusiclab.bandcamp.com-track-birth-ending
+      quote: Setar and composition - Mahmood Schricker
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: setar
+  - value: Qmqrqbc
+    references:
+    - source: linkmusiclab.bandcamp.com-track-birth-ending
+      quote: Baritone Horn - Leandro Joaquim
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Q5573hc
+    references:
+    - source: linkmusiclab.bandcamp.com-track-birth-ending
+      quote: Upright Bass - Scott Peterson
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: double bass
+  cover art:
+  - value: https://f4.bcbits.com/img/a3807362954_10.jpg
+    references:
+    - source: mahmoodschricker.bandcamp.com-track-birth-ending
+      quote: https://f4.bcbits.com/img/a3807362954_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Mahmood Schricker on Bandcamp
+        language: en
+  release date:
+  - value:
+      date: '2023-10-28'
+    references:
+    - source: music.apple.com-us-song-birth-ending-score-1715536875
+      quote: October 28, 2023
+      accessed: '2026-11-21'
+      locator: Published date

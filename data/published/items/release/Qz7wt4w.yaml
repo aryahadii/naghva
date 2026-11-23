@@ -1,0 +1,70 @@
+id: Qz7wt4w
+type: release
+statements:
+  name:
+  - value:
+      text: Lonely City
+      language: en
+    references:
+    - source: open.spotify.com-track-6femgacmbzf89yxxi5ram2
+      quote: Lonely City
+      accessed: '2026-11-21'
+      locator: Recording title or artist credit
+  listen link:
+  - value: https://open.spotify.com/track/6femGAcMBzf89YXXi5rAM2
+    references:
+    - source: open.spotify.com-track-6femgacmbzf89yxxi5ram2
+      quote: Lonely City - song and lyrics by Bahramji, Mahmood Schricker | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/lonely-city/1522136599
+    references:
+    - source: music.apple.com-us-song-lonely-city-1522136599
+      quote: ‎Lonely City - Song with Lyrics by Bahramji & Mahmood Schricker - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/mahmood-schricker/lonely-city
+    references:
+    - source: soundcloud.com-mahmood-schricker-lonely-city
+      quote: Stream Lonely City (Bahramji feat Mahmood Schricker) by Mahmood Schricker | Listen online for free
+        on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/bahramji/lonely-city
+    references:
+    - source: soundcloud.com-bahramji-lonely-city
+      quote: Lonely City
+      accessed: 2026-11-21
+      locator: Artist-issued SoundCloud recording
+  performer:
+  - value: Qxkh2tz
+    references:
+    - source: open.spotify.com-track-6femgacmbzf89yxxi5ram2
+      quote: Lonely City - song and lyrics by Bahramji, Mahmood Schricker | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Q9y35r9
+    references:
+    - source: music.apple.com-us-album-lonely-city-single-1522136598
+      quote: Lonely City
+      accessed: 2026-11-21
+      locator: Track 1
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/75/95/ec/7595ecc4-7581-decf-4490-01b4ac884fd9/00_Cover_Art.jpg/600x600bb.webp
+    references:
+    - source: music.apple.com-us-song-lonely-city-1522136599
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/75/95/ec/7595ecc4-7581-decf-4490-01b4ac884fd9/00_Cover_Art.jpg/600x600bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Mahmood Schricker on Apple Music
+        language: en
+  release date:
+  - value:
+      date: '2020-08-08'
+    references:
+    - source: music.apple.com-us-song-lonely-city-1522136599
+      quote: August 8, 2020
+      accessed: '2026-11-21'
+      locator: Published date
