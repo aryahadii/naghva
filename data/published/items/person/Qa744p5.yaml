@@ -1,0 +1,66 @@
+id: Qa744p5
+type: person
+statements:
+  name:
+  - value:
+      text: Mohsen Sharifian
+      language: en
+    references:
+    - source: open.spotify.com-artist-7h1ihyfpnbdrhdphv966az
+      quote: Listen to Mohsen Sharifian Songs | Spotify
+      accessed: 2026-11-21
+      locator: Native artist page
+  - value:
+      text: محسن شریفیان
+      language: fa
+    references:
+    - source: morwaridlian.blogfa.com
+      quote: محسن شریفیان
+      accessed: 2026-11-21
+      locator: Artist in the group archive
+  image:
+  - value: https://tirgan.ca/nowruz2020/wp-content/uploads/sites/15/2020/02/Mohsen-Sharifian-2-e1580707305194.jpg
+    qualifiers:
+      credit:
+        text: Tirgan
+        language: en
+    references:
+    - source: tirgan.ca-nowruz2021-artist-guest-mohsen-sharifian
+      quote: https://tirgan.ca/nowruz2020/wp-content/uploads/sites/15/2020/02/Mohsen-Sharifian-2-e1580707305194.jpg
+      accessed: 2026-11-21
+      locator: Image on the festival or concert page
+  profile link:
+  - value: https://open.spotify.com/artist/7H1IhYfpNBdRhDPhV966aZ
+    references:
+    - source: open.spotify.com-artist-7h1ihyfpnbdrhdphv966az
+      quote: Listen to Mohsen Sharifian Songs | Spotify
+      accessed: 2026-11-21
+      locator: Native artist page
+  - value: https://music.apple.com/us/artist/451359753
+    references:
+    - source: music.apple.com-us-artist-451359753
+      quote: ‎Mohsen Sharifian - Apple Music
+      accessed: 2026-11-21
+      locator: Native artist page
+  - value: https://www.youtube.com/channel/UCbYbOYHJ_7rmiOTiZ-Rr3-g
+    references:
+    - source: www.youtube.com-channel-ucbyboyhj_7rmiotiz-rr3-g
+      quote: Welcome to the Lian Music Official Channel which takes you to the music and culture of the south of
+        Iran, by the Persian Gulf.
+      accessed: 2026-11-21
+      locator: Channel self-identification
+  birth date:
+  - value:
+      date: '1976'
+    references:
+    - source: tirgan.ca-nowruz2021-artist-guest-mohsen-sharifian
+      quote: born in Boushehr in 1976
+      accessed: 2026-11-21
+      locator: Early life
+  member of:
+  - value: Qdgssxh
+    references:
+    - source: tirgan.ca-nowruz2021-artist-guest-mohsen-sharifian
+      quote: founding the Boushehr Lian Music Group in 1993
+      accessed: 2026-11-21
+      locator: Formation

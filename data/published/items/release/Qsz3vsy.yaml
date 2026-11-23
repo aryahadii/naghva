@@ -7,29 +7,67 @@ statements:
       language: en
     references:
     - source: music.apple.com-us-album-quiescence-feat-mohsen-namjoo-single-1608212545
-      quote: |-
-        Quiescence (feat. Mohsen Namjoo) - Single - Album by Esfand - Apple Music
+      quote: Quiescence (feat. Mohsen Namjoo) - Single - Album by Esfand - Apple Music
       accessed: '2026-11-09'
   release type:
   - value: single
     references:
     - source: music.apple.com-us-album-quiescence-feat-mohsen-namjoo-single-1608212545
-      quote: |-
-        Quiescence (feat. Mohsen Namjoo) - Single - Album by Esfand - Apple Music
+      quote: Quiescence (feat. Mohsen Namjoo) - Single - Album by Esfand - Apple Music
       accessed: '2026-11-09'
   listen link:
   - value: https://music.apple.com/us/album/quiescence-feat-mohsen-namjoo-single/1608212545
     references:
     - source: music.apple.com-us-album-quiescence-feat-mohsen-namjoo-single-1608212545
-      quote: |-
-        Quiescence (feat. Mohsen Namjoo) - Single - Album by Esfand - Apple Music
+      quote: Quiescence (feat. Mohsen Namjoo) - Single - Album by Esfand - Apple Music
       accessed: '2026-11-09'
+  - value: https://esfand.bandcamp.com/track/quiescence
+    references:
+    - source: esfand.bandcamp.com-track-quiescence
+      quote: Quiescence | Esfand
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1607571720
+    references:
+    - source: music.apple.com-us-song-1607571720
+      quote: ‎Quiescence (feat. Mohsen Namjoo) - Song with Lyrics by Esfand - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/quiescence-feat-mohsen-namjoo/1608212545
+    references:
+    - source: music.apple.com-us-album-quiescence-feat-mohsen-namjoo-1608212545
+      quote: ‎Quiescence (feat. Mohsen Namjoo) - Single - Album by Esfand - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1608212546
+    references:
+    - source: music.apple.com-us-song-1608212546
+      quote: ‎Quiescence (feat. Mohsen Namjoo) - Song with Lyrics by Esfand - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/album/4PkJe0jxfFDqneJVBGghId
+    references:
+    - source: open.spotify.com-album-4pkje0jxffdqnejvbgghid
+      quote: Listen to Quiescence - Single by Esfand | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/1aEBbxz9bg5mek3Cft8DgV
+    references:
+    - source: open.spotify.com-track-1aebbxz9bg5mek3cft8dgv
+      quote: Quiescence - song and lyrics by Esfand, Mohsen Namjoo | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/2APeYPfiFOR31HY3LjBIS3
+    references:
+    - source: open.spotify.com-track-2apeypfifor31hy3ljbis3
+      quote: Quiescence - song and lyrics by Esfand, Mohsen Namjoo | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d5/4f/6a/d54f6a0f-323b-e8d9-52f0-732a6987e8ac/3701421572615.png/1200x630wp-60.jpg
     references:
     - source: music.apple.com-us-album-quiescence-feat-mohsen-namjoo-single-1608212545
-      quote: |-
-        Quiescence (feat. Mohsen Namjoo) - Single - Album by Esfand - Apple Music
+      quote: Quiescence (feat. Mohsen Namjoo) - Single - Album by Esfand - Apple Music
       accessed: '2026-11-09'
     qualifiers:
       credit:
@@ -39,20 +77,42 @@ statements:
   - value: Qt394nr
     references:
     - source: music.apple.com-us-album-quiescence-feat-mohsen-namjoo-single-1608212545
-      quote: |-
-        Quiescence (feat. Mohsen Namjoo) - Single - Album by Esfand - Apple Music
+      quote: Quiescence (feat. Mohsen Namjoo) - Single - Album by Esfand - Apple Music
       accessed: '2026-11-09'
   - value: Qt6wjbg
     references:
     - source: music.apple.com-us-album-quiescence-feat-mohsen-namjoo-single-1608212545
-      quote: |-
-        Quiescence (feat. Mohsen Namjoo) - Single - Album by Esfand - Apple Music
+      quote: Quiescence (feat. Mohsen Namjoo) - Single - Album by Esfand - Apple Music
       accessed: '2026-11-09'
+  - value: Qt6wjbg
+    references:
+    - source: esfand.bandcamp.com-album-h-l
+      quote: Vocals on Quiescence by Mohsen Namjoo
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: vocals
   release date:
   - value:
       date: '2022-02-16'
     references:
     - source: music.apple.com-us-album-quiescence-feat-mohsen-namjoo-single-1608212545
-      quote: |-
-        February 16, 2022
+      quote: February 16, 2022
       accessed: '2026-11-09'
+  contributor:
+  - value: Qzchcs8
+    references:
+    - source: esfand.bandcamp.com-album-h-l
+      quote: All tracks produced by Rouzbeh Esfandarmaz and Patrick Stewart
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: producer
+  - value: Qs7pdbm
+    references:
+    - source: esfand.bandcamp.com-album-h-l
+      quote: All tracks produced by Rouzbeh Esfandarmaz and Patrick Stewart
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: producer
