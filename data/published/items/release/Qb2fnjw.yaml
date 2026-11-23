@@ -1,0 +1,69 @@
+id: Qb2fnjw
+type: release
+statements:
+  name:
+  - value:
+      text: Dancing Alone
+      language: en
+    references:
+    - source: music.apple.com-us-album-dancing-alone-single-1463066402
+      quote: Dancing Alone
+      locator: Track 1
+      accessed: '2026-11-21'
+  performer:
+  - value: Qxmhx58
+    references:
+    - source: music.apple.com-us-album-dancing-alone-single-1463066402
+      quote: Marie Sahba
+      locator: Primary release artist
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2019-05-31'
+    references:
+    - source: music.apple.com-us-album-dancing-alone-single-1463066402
+      quote: '2019-05-31'
+      locator: Edition date
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/09/4e/f1/094ef18a-db36-b6d9-f01f-4cefd17ff222/57397.jpg/632x632bb-60.jpg
+    references:
+    - source: music.apple.com-us-album-dancing-alone-single-1463066402
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/09/4e/f1/094ef18a-db36-b6d9-f01f-4cefd17ff222/57397.jpg/632x632bb-60.jpg
+      locator: Apple Music release artwork
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Dancing Alone · Apple Music
+        language: en
+  listen link:
+  - value: https://music.apple.com/us/song/dancing-alone/1463066406
+    references:
+    - source: music.apple.com-us-album-dancing-alone-single-1463066402
+      quote: Dancing Alone
+      locator: Track 1
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/25A5FSB23ms2dPQprkt03q
+    references:
+    - source: open.spotify.com-album-1ujnj2c3c25sonti8ljqiw
+      quote: Dancing Alone
+      locator: Track 1
+      accessed: '2026-11-21'
+  - value: https://music.apple.com/us/song/dancing-alone/1484088177
+    references:
+    - source: music.apple.com-us-album-out-of-control-ep-1484087986
+      quote: Dancing Alone
+      locator: Track 6
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/0LgwFtQM6LOoeXpjfBm3g0
+    references:
+    - source: open.spotify.com-album-2wfn1nsmnkanwp0xzz1el4
+      quote: Dancing Alone
+      locator: Track 6
+      accessed: '2026-11-21'
+  - value: https://soundcloud.com/mariesahba/dancing-alone-1
+    references:
+    - source: soundcloud.com-mariesahba-dancing-alone-1
+      quote: Dancing Alone
+      locator: Original SoundCloud upload
+      accessed: '2026-11-21'

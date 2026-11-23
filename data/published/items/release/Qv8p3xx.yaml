@@ -1,0 +1,75 @@
+id: Qv8p3xx
+type: release
+statements:
+  name:
+  - value:
+      text: Never Got To Know You
+      language: en
+    references:
+    - source: music.apple.com-us-album-never-got-to-know-you-single-1610584506
+      quote: Never Got To Know You
+      locator: Track 1
+      accessed: '2026-11-21'
+  performer:
+  - value: Qxmhx58
+    references:
+    - source: music.apple.com-us-album-never-got-to-know-you-single-1610584506
+      quote: Marie Sahba
+      locator: Primary release artist
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2022-03-25'
+    references:
+    - source: music.apple.com-us-album-never-got-to-know-you-single-1610584506
+      quote: '2022-03-25'
+      locator: Edition date
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/e0/7e/81/e07e8137-6fa7-1ba5-2fd8-270d91167d63/95663.jpg/632x632bb-60.jpg
+    references:
+    - source: music.apple.com-us-album-never-got-to-know-you-single-1610584506
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/e0/7e/81/e07e8137-6fa7-1ba5-2fd8-270d91167d63/95663.jpg/632x632bb-60.jpg
+      locator: Apple Music release artwork
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Never Got To Know You · Apple Music
+        language: en
+  listen link:
+  - value: https://music.apple.com/us/song/never-got-to-know-you/1610584507
+    references:
+    - source: music.apple.com-us-album-never-got-to-know-you-single-1610584506
+      quote: Never Got To Know You
+      locator: Track 1
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/5vBo5S3K15eotaVccu2idC
+    references:
+    - source: open.spotify.com-album-3aj18v9h4kf8ta4wsqqkri
+      quote: Never Got To Know You
+      locator: Track 1
+      accessed: '2026-11-21'
+  - value: https://music.apple.com/us/song/never-got-to-know-you/1649747928
+    references:
+    - source: music.apple.com-us-album-azeri-baby-ep-1649747803
+      quote: Never Got To Know You
+      locator: Track 4
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/6YRCcsYr6W88BnkLWT52jL
+    references:
+    - source: open.spotify.com-album-1x2hgfmfbl1lnlhsagceka
+      quote: Never Got To Know You
+      locator: Track 4
+      accessed: '2026-11-21'
+  - value: https://mariesahba.bandcamp.com/track/never-got-to-know-you
+    references:
+    - source: mariesahba.bandcamp.com-album-azeri-baby
+      quote: Never Got To Know You
+      locator: Bandcamp track
+      accessed: '2026-11-21'
+  - value: https://soundcloud.com/mariesahba/nevergottoknowyou
+    references:
+    - source: soundcloud.com-mariesahba-nevergottoknowyou
+      quote: Never Got To Know You
+      locator: Original SoundCloud upload
+      accessed: '2026-11-21'

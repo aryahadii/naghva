@@ -1,0 +1,63 @@
+id: Q9vp6p8
+type: release
+statements:
+  name:
+  - value:
+      text: When Christmas Comes Around
+      language: en
+    references:
+    - source: music.apple.com-us-album-when-christmas-comes-around-single-1850563695
+      quote: When Christmas Comes Around
+      locator: Track 1
+      accessed: '2026-11-21'
+  performer:
+  - value: Qxmhx58
+    references:
+    - source: music.apple.com-us-album-when-christmas-comes-around-single-1850563695
+      quote: Marie Sahba
+      locator: Primary release artist
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2025-11-21'
+    references:
+    - source: music.apple.com-us-album-when-christmas-comes-around-single-1850563695
+      quote: '2025-11-21'
+      locator: Edition date
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f6/15/00/f61500a1-a468-442d-084b-51fcd6b43ab5/artwork.jpg/632x632bb-60.jpg
+    references:
+    - source: music.apple.com-us-album-when-christmas-comes-around-single-1850563695
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f6/15/00/f61500a1-a468-442d-084b-51fcd6b43ab5/artwork.jpg/632x632bb-60.jpg
+      locator: Apple Music release artwork
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: When Christmas Comes Around · Apple Music
+        language: en
+  listen link:
+  - value: https://music.apple.com/us/song/when-christmas-comes-around/1850563697
+    references:
+    - source: music.apple.com-us-album-when-christmas-comes-around-single-1850563695
+      quote: When Christmas Comes Around
+      locator: Track 1
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/4rw1swmvN3vDKYgVbEyz5X
+    references:
+    - source: open.spotify.com-album-3stvb333oysboxs71rn5lq
+      quote: When Christmas Comes Around
+      locator: Track 1
+      accessed: '2026-11-21'
+  - value: https://mariesahba.bandcamp.com/track/when-christmas-comes-around
+    references:
+    - source: mariesahba.bandcamp.com-track-when-christmas-comes-around
+      quote: When Christmas Comes Around
+      locator: Bandcamp track
+      accessed: '2026-11-21'
+  - value: https://soundcloud.com/mariesahba/whenchristmascomesaround
+    references:
+    - source: soundcloud.com-mariesahba-whenchristmascomesaround
+      quote: When Christmas Comes Around
+      locator: Original SoundCloud upload
+      accessed: '2026-11-21'

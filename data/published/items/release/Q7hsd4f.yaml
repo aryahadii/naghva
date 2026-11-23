@@ -1,0 +1,31 @@
+id: Q7hsd4f
+type: release
+statements:
+  name:
+  - value:
+      text: Some Norwegian Love For The Norwegian Cold
+      language: en
+    references:
+    - source: www.undertheradarmag.com-news-premiere_marie_denise_tronheim_calling_edition
+      quote: singer/songwriter Marie Denise made us a mix that she calls Some Norwegian Love For The Norwegian Cold.
+      locator: 23 January 2015, introduction
+      accessed: '2026-11-21'
+  performer:
+  - value: Qxmhx58
+    references:
+    - source: www.undertheradarmag.com-news-premiere_marie_denise_tronheim_calling_edition
+      quote: singer/songwriter Marie Denise made us a mix that she calls Some Norwegian Love For The Norwegian Cold.
+      locator: 23 January 2015, introduction
+      accessed: '2026-11-21'
+    qualifiers:
+      credited as:
+        text: Marie Denise
+        language: en
+  release date:
+  - value:
+      date: '2015-01-23'
+    references:
+    - source: www.undertheradarmag.com-news-premiere_marie_denise_tronheim_calling_edition
+      quote: Jan 23, 2015
+      locator: Premiere date
+      accessed: '2026-11-21'

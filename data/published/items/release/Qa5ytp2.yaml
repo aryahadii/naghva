@@ -1,0 +1,37 @@
+id: Qa5ytp2
+type: release
+statements:
+  name:
+  - value:
+      text: Marie Sahba - Azeri Baby - Acoustic (Live in Istanbul)
+      language: en
+    references:
+    - source: www.youtube.com-oembed-s5ojbxyeibg
+      quote: Marie Sahba - Azeri Baby - Acoustic (Live in Istanbul)
+      locator: Official artist upload
+      accessed: '2026-11-21'
+  performer:
+  - value: Qxmhx58
+    references:
+    - source: www.mariesahba.com-about
+      quote: Marie Sahba
+      locator: Artist name
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://i.ytimg.com/vi/S5ojBxyEIbg/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-s5ojbxyeibg
+      quote: https://i.ytimg.com/vi/S5ojBxyEIbg/hqdefault.jpg
+      locator: Original YouTube artwork
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Marie Sahba · YouTube
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=S5ojBxyEIbg
+    references:
+    - source: www.youtube.com-oembed-s5ojbxyeibg
+      quote: Marie Sahba - Azeri Baby - Acoustic (Live in Istanbul)
+      locator: Official artist upload
+      accessed: '2026-11-21'

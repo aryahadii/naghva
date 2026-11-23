@@ -1,0 +1,81 @@
+id: Qszsc5t
+type: release
+statements:
+  name:
+  - value:
+      text: Fly Away (Acoustic)
+      language: en
+    references:
+    - source: music.apple.com-us-album-fly-away-acoustic-single-1751914990
+      quote: Fly Away (Acoustic)
+      locator: Track 1
+      accessed: '2026-11-21'
+  performer:
+  - value: Qxmhx58
+    references:
+    - source: music.apple.com-us-album-fly-away-acoustic-single-1751914990
+      quote: Marie Sahba
+      locator: Primary release artist
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2024-07-05'
+    references:
+    - source: music.apple.com-us-album-fly-away-acoustic-single-1751914990
+      quote: '2024-07-05'
+      locator: Edition date
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/64/9b/8f649b4b-6323-693c-8699-b2948c7fd449/198588358573.jpg/632x632bb-60.jpg
+    references:
+    - source: music.apple.com-us-album-fly-away-acoustic-single-1751914990
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/64/9b/8f649b4b-6323-693c-8699-b2948c7fd449/198588358573.jpg/632x632bb-60.jpg
+      locator: Apple Music release artwork
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Fly Away (Acoustic) · Apple Music
+        language: en
+  listen link:
+  - value: https://music.apple.com/us/song/fly-away-acoustic/1751915113
+    references:
+    - source: music.apple.com-us-album-fly-away-acoustic-single-1751914990
+      quote: Fly Away (Acoustic)
+      locator: Track 1
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/3wIgvjoBxdkoFw3R16n1VG
+    references:
+    - source: open.spotify.com-album-0sidajqei9sdfnceabwjb7
+      quote: Fly Away - Acoustic
+      locator: Track 1
+      accessed: '2026-11-21'
+  - value: https://music.apple.com/us/song/fly-away-acoustic/1753127557
+    references:
+    - source: music.apple.com-us-album-a-billion-years-too-soon-deluxe-1753125704
+      quote: Fly Away (Acoustic)
+      locator: Track 13
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/6sCq78flWOMsF8IKGkXD96
+    references:
+    - source: open.spotify.com-album-368omyrjn8cs2liqzyqpzv
+      quote: Fly Away - Acoustic
+      locator: Track 13
+      accessed: '2026-11-21'
+  - value: https://mariesahba.bandcamp.com/track/fly-away-acoustic-2
+    references:
+    - source: mariesahba.bandcamp.com-album-a-billion-years-too-soon-deluxe
+      quote: Fly Away - Acoustic
+      locator: Bandcamp track
+      accessed: '2026-11-21'
+  - value: https://soundcloud.com/mariesahba/fly-away-acoustic
+    references:
+    - source: soundcloud.com-mariesahba-fly-away-acoustic
+      quote: Fly Away (Acoustic)
+      locator: Original SoundCloud upload
+      accessed: '2026-11-21'
+  - value: https://www.youtube.com/watch?v=JRVucBMtY50
+    references:
+    - source: www.youtube.com-oembed-jrvucbmty50
+      quote: Marie Sahba - Fly Away (Acoustic)
+      locator: Official artist upload
+      accessed: '2026-11-21'

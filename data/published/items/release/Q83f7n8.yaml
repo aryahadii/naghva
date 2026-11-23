@@ -1,0 +1,65 @@
+id: Q83f7n8
+type: release
+statements:
+  name:
+  - value:
+      text: A Billion Years Too Soon
+      language: en
+    references:
+    - source: music.apple.com-us-album-a-billion-years-too-soon-1728468813
+      quote: A Billion Years Too Soon
+      locator: Release title
+      accessed: '2026-11-21'
+  performer:
+  - value: Qxmhx58
+    references:
+    - source: music.apple.com-us-album-a-billion-years-too-soon-1728468813
+      quote: Marie Sahba
+      locator: Primary release artist
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2024-02-16'
+    references:
+    - source: music.apple.com-us-album-a-billion-years-too-soon-1728468813
+      quote: '2024-02-16'
+      locator: Edition date
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b6/29/f7/b629f77b-3782-bff2-f2c2-fa511d0652f1/197190796735.jpg/632x632bb-60.jpg
+    references:
+    - source: music.apple.com-us-album-a-billion-years-too-soon-1728468813
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b6/29/f7/b629f77b-3782-bff2-f2c2-fa511d0652f1/197190796735.jpg/632x632bb-60.jpg
+      locator: Apple Music release artwork
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: A Billion Years Too Soon · Apple Music
+        language: en
+  release type:
+  - value: album
+    references:
+    - source: music.apple.com-us-album-a-billion-years-too-soon-1728468813
+      quote: A Billion Years Too Soon
+      locator: Release title
+      accessed: '2026-11-21'
+  published by:
+  - value: Q8fqcmz
+    references:
+    - source: music.apple.com-us-album-a-billion-years-too-soon-1728468813
+      quote: Sahba Records
+      locator: Record imprint
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://music.apple.com/us/album/a-billion-years-too-soon/1728468813
+    references:
+    - source: music.apple.com-us-album-a-billion-years-too-soon-1728468813
+      quote: A Billion Years Too Soon
+      locator: Release title
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/album/3fTGPIe4PGtrg0ixRtFsA0
+    references:
+    - source: open.spotify.com-album-3ftgpie4pgtrg0ixrtfsa0
+      quote: A Billion Years Too Soon
+      locator: Album title
+      accessed: '2026-11-21'

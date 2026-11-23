@@ -1,0 +1,63 @@
+id: Q54vkh5
+type: release
+statements:
+  name:
+  - value:
+      text: Milyard Il
+      language: en
+    references:
+    - source: music.apple.com-us-album-a-billion-years-too-soon-deluxe-1753125704
+      quote: Milyard Il
+      locator: Track 10
+      accessed: '2026-11-21'
+  performer:
+  - value: Qxmhx58
+    references:
+    - source: music.apple.com-us-album-a-billion-years-too-soon-deluxe-1753125704
+      quote: Marie Sahba
+      locator: Primary release artist
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2024-08-16'
+    references:
+    - source: music.apple.com-us-album-a-billion-years-too-soon-deluxe-1753125704
+      quote: '2024-08-16'
+      locator: Edition date
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a1/31/98/a131988a-9e2f-2067-f4a1-831ce719dbce/198588326329.jpg/632x632bb-60.jpg
+    references:
+    - source: music.apple.com-us-album-a-billion-years-too-soon-deluxe-1753125704
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a1/31/98/a131988a-9e2f-2067-f4a1-831ce719dbce/198588326329.jpg/632x632bb-60.jpg
+      locator: Apple Music release artwork
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: A Billion Years Too Soon (Deluxe) · Apple Music
+        language: en
+  listen link:
+  - value: https://music.apple.com/us/song/milyard-il/1753127334
+    references:
+    - source: music.apple.com-us-album-a-billion-years-too-soon-deluxe-1753125704
+      quote: Milyard Il
+      locator: Track 10
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/2WR7IFuCRWsZGNyPye2LsZ
+    references:
+    - source: open.spotify.com-album-368omyrjn8cs2liqzyqpzv
+      quote: Milyard Il
+      locator: Track 10
+      accessed: '2026-11-21'
+  - value: https://mariesahba.bandcamp.com/track/milyard-il
+    references:
+    - source: mariesahba.bandcamp.com-album-a-billion-years-too-soon-deluxe
+      quote: Milyard Il
+      locator: Bandcamp track
+      accessed: '2026-11-21'
+  - value: https://soundcloud.com/mariesahba/milyard-il
+    references:
+    - source: soundcloud.com-mariesahba-milyard-il
+      quote: Milyard Il
+      locator: Original SoundCloud upload
+      accessed: '2026-11-21'
