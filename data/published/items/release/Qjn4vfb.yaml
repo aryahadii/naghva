@@ -1,0 +1,53 @@
+id: Qjn4vfb
+type: release
+statements:
+  name:
+  - value:
+      text: The Roof of Tehran
+      language: en
+    references:
+    - source: www.youtube.com-watch-v-wmf43s1mbso
+      quote: سال تا سال | The Roof of Tehran Official Music Video | پالت | Pallett Band
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qq5328q
+    references:
+    - source: www.youtube.com-watch-v-wmf43s1mbso
+      quote: سال تا سال | The Roof of Tehran Official Music Video | پالت | Pallett Band
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qzchcs8
+    references:
+    - source: iranmusic.tv-watch-wmf43s1mbso
+      quote: 'کلارینت و وکال: روزبه اسفندارمز'
+      accessed: '2026-11-21'
+      locator: Original video description
+    qualifiers:
+      role: clarinet
+  - value: Qzchcs8
+    references:
+    - source: iranmusic.tv-watch-wmf43s1mbso
+      quote: 'کلارینت و وکال: روزبه اسفندارمز'
+      accessed: '2026-11-21'
+      locator: Original video description
+    qualifiers:
+      role: vocals
+  listen link:
+  - value: https://www.youtube.com/watch?v=wMf43s1MBSo
+    references:
+    - source: www.youtube.com-watch-v-wmf43s1mbso
+      quote: سال تا سال | The Roof of Tehran Official Music Video | پالت | Pallett Band
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i.ytimg.com/vi/wMf43s1MBSo/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-wmf43s1mbso
+      quote: https://i.ytimg.com/vi/wMf43s1MBSo/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: Pallett
+        language: en
