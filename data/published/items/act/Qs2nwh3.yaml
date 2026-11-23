@@ -1,0 +1,39 @@
+id: Qs2nwh3
+type: act
+statements:
+  name:
+  - value:
+      text: باراد
+      language: fa
+    references:
+    - source: beeptunes.com-album-3409505
+      quote: گروه باراد
+      accessed: '2026-11-21'
+      locator: Official domestic distributor artist billing
+  - value:
+      text: Barad
+      language: en
+    references:
+    - source: music.apple.com-us-album-barad-1749089800
+      quote: Barad
+      accessed: '2026-11-21'
+      locator: Album and artist billing
+  image:
+  - value: https://web.archive.org/web/20060210183314id_/http://www.hermesrecords.com/images/others/Band.jpg
+    qualifiers:
+      credit:
+        text: Hermes Records (archived concert photograph)
+        language: en
+    references:
+    - source: web.archive.org-web-20050401094701id_-http-www.hermesrecords.com-80-barchive.htm
+      quote: images/others/Band.jpg
+      accessed: '2026-11-21'
+      locator: Original photograph embedded beside the band’s concert notice
+    - source: web.archive.org-web-20050401094701id_-http-www.hermesrecords.com-80-barchive.htm
+      quote: Barad performed live at the Farabi Hall in Tehran.
+      accessed: '2026-11-21'
+      locator: Artist identified by the label in the same event row
+    - source: web.archive.org-hermesrecords-barad-group-portrait
+      quote: https://web.archive.org/web/20060210183314id_/http://www.hermesrecords.com/images/others/Band.jpg
+      accessed: '2026-11-21'
+      locator: Preserved full frame, original label-hosted JPEG, 500 × 388
