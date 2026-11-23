@@ -1,0 +1,65 @@
+id: Q2vrrzt
+type: release
+statements:
+  name:
+  - value:
+      text: Hossein Khaan
+      language: en
+    references:
+    - source: music.apple.com-us-album-raghse-mardooneh-1110153436uo-4
+      quote: Hossein Khaan
+      locator: Original group issue, artist identity or exact streaming edition
+      accessed: '2026-11-21'
+  performer:
+  - value: Qstq3nj
+    references:
+    - source: music.apple.com-us-album-raghse-mardooneh-1110153436uo-4
+      quote: Ajam
+      locator: Original group issue, artist identity or exact streaming edition
+      accessed: '2026-11-21'
+  - value: Qfrhed4
+    references:
+    - source: ajammusic.com-about-ajam-ajam-family
+      quote: MirKazem Jaffari (vocals
+      locator: Band’s published track credits and original album notes
+      accessed: '2026-11-21'
+    qualifiers:
+      role: vocals
+  release date:
+  - value:
+      date: '2010-10-11'
+    references:
+    - source: music.apple.com-us-album-raghse-mardooneh-1110153436uo-4
+      quote: '2010-10-11'
+      locator: Original group issue, artist identity or exact streaming edition
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/0d/bd/e9/0dbde9c0-3179-467b-a57c-5a1141d5bea6/190394287184.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-raghse-mardooneh-1110153436uo-4
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/0d/bd/e9/0dbde9c0-3179-467b-a57c-5a1141d5bea6/190394287184.jpg/1200x630bb.jpg
+      locator: Original group issue, artist identity or exact streaming edition
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Ajam · Raghse Mardooneh
+        language: en
+  listen link:
+  - value: https://open.spotify.com/track/6dv4nV71lEYevbtVTuQnkk
+    references:
+    - source: open.spotify.com-embed-album-62phgkgkzt0fkwskmwaktu
+      quote: Hossein Khaan
+      locator: Original group issue, artist identity or exact streaming edition
+      accessed: '2026-11-21'
+  - value: https://music.apple.com/us/song/hossein-khaan/1110153527
+    references:
+    - source: music.apple.com-us-album-raghse-mardooneh-1110153436uo-4
+      quote: Hossein Khaan
+      locator: Original group issue, artist identity or exact streaming edition
+      accessed: '2026-11-21'
+  - value: https://www.youtube.com/watch?v=QBlS4VS_12c
+    references:
+    - source: www.youtube.com-oembed-qbls4vs_12c
+      quote: Ajam - Hossein Khan / عجم - حسين خان
+      locator: Original band, named recording or film credit
+      accessed: '2026-11-21'

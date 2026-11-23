@@ -1,0 +1,13 @@
+---
+url: https://open.spotify.com/embed/album/23aeIgvzziqXJPgXzliBen
+title: Emsho Chieh? Aroosieh! - Ajam | Spotify
+status: processed
+language: en
+tier: own
+about:
+- Ajam
+---
+
+Original group issue, artist identity or exact streaming edition, read 2026-11-21.
+
+> Emsho Chieh? Aroosieh!
