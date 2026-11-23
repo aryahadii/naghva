@@ -1,0 +1,5 @@
+# The Mast
+
+The Brooklyn duo’s four Bandcamp editions were compared to all four albums and EPs on the corresponding Apple Music and Spotify profiles. The duo identifies itself as producer and the copyright holder of Wild Poppies as Channel A Records. The album and EP editions of UpUpUp have been kept separately; the EP contains remixes. The 20 original SoundCloud uploads add the M.I.A. and Empress Of remixes; four official music films were identified in the musicians’ interview. Bandcamp’s profile shows the duo performing. Investigation of additional performances and independent scoring are underway.
+
+All ten uploads on the duo’s YouTube channel were reconciled. Nine correspond to recordings by The Mast, including the continuous five-part EP film. The Moon Song credits Haleh Liza Gafori as its writer and is on her solo page.
