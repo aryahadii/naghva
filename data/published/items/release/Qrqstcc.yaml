@@ -1,0 +1,51 @@
+id: Qrqstcc
+type: release
+statements:
+  name:
+  - value:
+      text: Restaurant
+      language: en
+    references:
+    - source: mahmoodschricker.bandcamp.com-track-restaurant
+      quote: Restaurant
+      accessed: '2026-11-21'
+      locator: Recording title or artist credit
+  listen link:
+  - value: https://mahmoodschricker.bandcamp.com/track/restaurant
+    references:
+    - source: mahmoodschricker.bandcamp.com-track-restaurant
+      quote: Restaurant | Mahmood Schricker
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/restaurant/1525500046
+    references:
+    - source: music.apple.com-us-song-restaurant-1525500046
+      quote: ‎Restaurant - Song with Lyrics by Mahmood Schricker - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qxkh2tz
+    references:
+    - source: mahmoodschricker.bandcamp.com-track-restaurant
+      quote: Restaurant | Mahmood Schricker
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a3832824935_10.jpg
+    references:
+    - source: mahmoodschricker.bandcamp.com-track-restaurant
+      quote: https://f4.bcbits.com/img/a3832824935_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Mahmood Schricker on Bandcamp
+        language: en
+  release date:
+  - value:
+      date: '2020-07-14'
+    references:
+    - source: music.apple.com-us-song-restaurant-1525500046
+      quote: July 14, 2020
+      accessed: '2026-11-21'
+      locator: Published date

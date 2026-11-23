@@ -1,0 +1,63 @@
+id: Q942fgr
+type: release
+statements:
+  name:
+  - value:
+      text: godar
+      language: en
+    references:
+    - source: mahmoodschricker.bandcamp.com-track-godar
+      quote: godar
+      accessed: '2026-11-21'
+      locator: Recording title or artist credit
+  listen link:
+  - value: https://mahmoodschricker.bandcamp.com/track/godar
+    references:
+    - source: mahmoodschricker.bandcamp.com-track-godar
+      quote: godar | Mahmood Schricker
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/4MOlFOozv5Hrnfy1aqGama
+    references:
+    - source: open.spotify.com-track-4molfoozv5hrnfy1aqgama
+      quote: Godar - song and lyrics by Mahmood Schricker | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/godar/1434795370
+    references:
+    - source: music.apple.com-us-song-godar-1434795370
+      quote: ‎Godar - Song with Lyrics by Mahmood Schricker - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/mahmood-schricker/mahmood-schricker-el-muerte-05-mahmood-schricker-godar
+    references:
+    - source: soundcloud.com-mahmood-schricker-mahmood-schricker-el-muerte-05-mahmood-schricker-godar
+      quote: Stream El Muerte -  Godar by Mahmood Schricker | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qxkh2tz
+    references:
+    - source: mahmoodschricker.bandcamp.com-track-godar
+      quote: godar | Mahmood Schricker
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a0759663291_10.jpg
+    references:
+    - source: mahmoodschricker.bandcamp.com-track-godar
+      quote: https://f4.bcbits.com/img/a0759663291_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Mahmood Schricker on Bandcamp
+        language: en
+  release date:
+  - value:
+      date: '2018-09-01'
+    references:
+    - source: music.apple.com-us-song-godar-1434795370
+      quote: September 1, 2018
+      accessed: '2026-11-21'
+      locator: Published date

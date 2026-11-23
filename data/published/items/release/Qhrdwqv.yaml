@@ -1,0 +1,81 @@
+id: Qhrdwqv
+type: release
+statements:
+  name:
+  - value:
+      text: Original Theme
+      language: en
+    references:
+    - source: mahmoodschricker.bandcamp.com-track-original-theme
+      quote: Original Theme
+      accessed: '2026-11-21'
+      locator: Recording title or artist credit
+  listen link:
+  - value: https://mahmoodschricker.bandcamp.com/track/original-theme
+    references:
+    - source: mahmoodschricker.bandcamp.com-track-original-theme
+      quote: Original Theme | Mahmood Schricker
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://linkmusiclab.bandcamp.com/track/original-theme
+    references:
+    - source: linkmusiclab.bandcamp.com-track-original-theme
+      quote: Original Theme | Mahmood Schricker, Leandro Joaquim | Link Music Lab Records
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/1gComijuxhSS1jwgFFavW0
+    references:
+    - source: open.spotify.com-track-1gcomijuxhss1jwgffavw0
+      quote: Original Theme - song and lyrics by Mahmood Schricker, Leandro Joaquim, Scott Peterson | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/original-theme/1715536874
+    references:
+    - source: music.apple.com-us-song-original-theme-1715536874
+      quote: ‎Original Theme - Song with Lyrics by Mahmood Schricker, Leandro Joaquim & Scott Peterson - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/mahmood-schricker/02-original-theme-p2p
+    references:
+    - source: soundcloud.com-mahmood-schricker-02-original-theme-p2p
+      quote: Stream Original Theme by Mahmood Schricker | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qxkh2tz
+    references:
+    - source: mahmoodschricker.bandcamp.com-track-original-theme
+      quote: Original Theme | Mahmood Schricker
+      accessed: '2026-11-21'
+      locator: Page title
+    - source: linkmusiclab.bandcamp.com-track-original-theme
+      quote: Setar and composition - Mahmood Schricker
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: setar
+  - value: Qmqrqbc
+    references:
+    - source: linkmusiclab.bandcamp.com-track-original-theme
+      quote: Baritone Horn - Leandro Joaquim
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  cover art:
+  - value: https://f4.bcbits.com/img/a3807362954_10.jpg
+    references:
+    - source: mahmoodschricker.bandcamp.com-track-original-theme
+      quote: https://f4.bcbits.com/img/a3807362954_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Mahmood Schricker on Bandcamp
+        language: en
+  release date:
+  - value:
+      date: '2023-10-28'
+    references:
+    - source: music.apple.com-us-song-original-theme-1715536874
+      quote: October 28, 2023
+      accessed: '2026-11-21'
+      locator: Published date

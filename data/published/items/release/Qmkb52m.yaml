@@ -1,0 +1,69 @@
+id: Qmkb52m
+type: release
+statements:
+  name:
+  - value:
+      text: Particles
+      language: en
+    references:
+    - source: linkmusiclab.bandcamp.com-track-particles
+      quote: Particles
+      accessed: '2026-11-21'
+      locator: Recording title or artist credit
+  listen link:
+  - value: https://linkmusiclab.bandcamp.com/track/particles
+    references:
+    - source: linkmusiclab.bandcamp.com-track-particles
+      quote: Particles | Mahmood Schricker | Link Music Lab Records
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/1U0pgK07ExVOwEkCdy9mt4
+    references:
+    - source: open.spotify.com-track-1u0pgk07exvowekcdy9mt4
+      quote: Particles - song and lyrics by Mahmood Schricker | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/particles/6831738481
+    references:
+    - source: music.apple.com-us-song-particles-6831738481
+      quote: ‎Particles - Song with Lyrics by Mahmood Schricker - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/linkmusiclab/particles-4
+    references:
+    - source: soundcloud.com-linkmusiclab-particles-4
+      quote: Stream Particles - Mahmood Schricker by Link Music Lab | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qxkh2tz
+    references:
+    - source: linkmusiclab.bandcamp.com-track-particles
+      quote: Particles | Mahmood Schricker | Link Music Lab Records
+      accessed: '2026-11-21'
+      locator: Page title
+    - source: linkmusiclab.bandcamp.com-track-particles
+      quote: Mahmood Schricker - setar
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: setar
+  cover art:
+  - value: https://f4.bcbits.com/img/a2744874959_10.jpg
+    references:
+    - source: linkmusiclab.bandcamp.com-track-particles
+      quote: https://f4.bcbits.com/img/a2744874959_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Link Music Lab Records
+        language: en
+  release date:
+  - value:
+      date: '2026-10-01'
+    references:
+    - source: linkmusiclab.bandcamp.com-album-the-past-is-particle-the-future-is-wave
+      quote: released October 1, 2026
+      accessed: '2026-11-21'
+      locator: Published date

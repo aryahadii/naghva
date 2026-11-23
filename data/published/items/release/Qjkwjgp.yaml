@@ -1,0 +1,62 @@
+id: Qjkwjgp
+type: release
+statements:
+  name:
+  - value:
+      text: El Muerte
+      language: en
+    references:
+    - &id001
+      source: mahmoodschricker.bandcamp.com-album-el-muerte
+      quote: El Muerte
+      accessed: '2026-11-21'
+      locator: Recording title or artist credit
+  listen link:
+  - value: https://mahmoodschricker.bandcamp.com/album/el-muerte
+    references:
+    - source: mahmoodschricker.bandcamp.com-album-el-muerte
+      quote: El Muerte | Mahmood Schricker
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/el-muerte/1434795363
+    references:
+    - source: music.apple.com-us-album-el-muerte-1434795363
+      quote: ‎El Muerte - Album by Mahmood Schricker - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/album/4h38ViwCSCFAxmcRoaMv2j
+    references:
+    - source: open.spotify.com-album-4h38viwcscfaxmcroamv2j
+      quote: Listen to El Muerte - Album by Mahmood Schricker | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qxkh2tz
+    references:
+    - source: mahmoodschricker.bandcamp.com-album-el-muerte
+      quote: El Muerte | Mahmood Schricker
+      accessed: '2026-11-21'
+      locator: Page title
+  release type:
+  - value: album
+    references:
+    - *id001
+  cover art:
+  - value: https://f4.bcbits.com/img/a0759663291_10.jpg
+    references:
+    - source: mahmoodschricker.bandcamp.com-album-el-muerte
+      quote: https://f4.bcbits.com/img/a0759663291_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Mahmood Schricker on Bandcamp
+        language: en
+  release date:
+  - value:
+      date: '2018-09-01'
+    references:
+    - source: music.apple.com-us-album-el-muerte-1434795363
+      quote: September 1, 2018
+      accessed: '2026-11-21'
+      locator: Published date

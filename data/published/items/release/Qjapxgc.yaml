@@ -1,0 +1,62 @@
+id: Qjapxgc
+type: release
+statements:
+  name:
+  - value:
+      text: Elastic Wood featuring the ceft coalition
+      language: en
+    references:
+    - &id001
+      source: mahmoodschricker.bandcamp.com-album-elastic-wood-featuring-the-ceft-coalition
+      quote: Elastic Wood featuring the ceft coalition
+      accessed: '2026-11-21'
+      locator: Recording title or artist credit
+  listen link:
+  - value: https://mahmoodschricker.bandcamp.com/album/elastic-wood-featuring-the-ceft-coalition
+    references:
+    - source: mahmoodschricker.bandcamp.com-album-elastic-wood-featuring-the-ceft-coalition
+      quote: Elastic Wood featuring the ceft coalition | Mahmood Schricker
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/elastic-wood-single/1469116710
+    references:
+    - source: music.apple.com-us-album-elastic-wood-single-1469116710
+      quote: ‎Elastic Wood - Single - Album by Mahmood Schricker & The Ceft Coalition - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qxkh2tz
+    references:
+    - source: mahmoodschricker.bandcamp.com-album-elastic-wood-featuring-the-ceft-coalition
+      quote: Elastic Wood featuring the ceft coalition | Mahmood Schricker
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Q45eegw
+    references:
+    - source: music.apple.com-us-album-elastic-wood-single-1469116710
+      quote: The Ceft Coalition
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  release type:
+  - value: album
+    references:
+    - *id001
+  cover art:
+  - value: https://f4.bcbits.com/img/a0373042254_10.jpg
+    references:
+    - source: mahmoodschricker.bandcamp.com-album-elastic-wood-featuring-the-ceft-coalition
+      quote: https://f4.bcbits.com/img/a0373042254_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Mahmood Schricker on Bandcamp
+        language: en
+  release date:
+  - value:
+      date: '2019-06-16'
+    references:
+    - source: music.apple.com-us-album-elastic-wood-single-1469116710
+      quote: June 16, 2019
+      accessed: '2026-11-21'
+      locator: Published date

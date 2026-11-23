@@ -1,0 +1,131 @@
+id: Q6ya2tb
+type: release
+statements:
+  name:
+  - value:
+      text: Sarmasti featuring Eendo
+      language: en
+    references:
+    - source: mahmoodschricker.bandcamp.com-track-sarmasti-featuring-eendo
+      quote: Sarmasti featuring Eendo
+      accessed: '2026-11-21'
+      locator: Recording title or artist credit
+  listen link:
+  - value: https://mahmoodschricker.bandcamp.com/track/sarmasti-featuring-eendo
+    references:
+    - source: mahmoodschricker.bandcamp.com-track-sarmasti-featuring-eendo
+      quote: Sarmasti featuring Eendo | Mahmood Schricker
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/sarmasti-single/1573126969
+    references:
+    - source: music.apple.com-us-album-sarmasti-single-1573126969
+      quote: ‎Sarmasti - Single - Album by Mahmood Schricker & Eendo - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/album/2rXT6b5dgevLwpEk76xCOL
+    references:
+    - source: open.spotify.com-album-2rxt6b5dgevlwpek76xcol
+      quote: Listen to Sarmasti - Single by Mahmood Schricker | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/0NbbaMttV9EYNtyQ4CZQzg
+    references:
+    - source: open.spotify.com-track-0nbbamttv9eyntyq4czqzg
+      quote: Sarmasti - song and lyrics by Mahmood Schricker, Eendo | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/sarmasti/1573126970
+    references:
+    - source: music.apple.com-us-song-sarmasti-1573126970
+      quote: ‎Sarmasti - Song with Lyrics by Mahmood Schricker & Eendo - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/mahmood-schricker/mahmood-schricker-eendo-sarmasti-m24
+    references:
+    - source: soundcloud.com-mahmood-schricker-mahmood-schricker-eendo-sarmasti-m24
+      quote: Stream Sarmasti featuring Eendo by Mahmood Schricker | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/eendomusic/mahmood-schricker-eendo-sarmasti-m24
+    references:
+    - source: soundcloud.com-eendomusic-mahmood-schricker-eendo-sarmasti-m24
+      quote: Stream Sarmasti - Mahmood Schricker & Eendo by Eendo | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Original duo SoundCloud recording
+  - value: https://www.youtube.com/watch?v=FHXmmQIni8E
+    references:
+    - source: www.youtube.com-watch-v-fhxmmqini8e
+      quote: '"Sarmasti" - Mahmood Schricker + Eendo'
+      accessed: '2026-11-21'
+      locator: Original duo channel
+  performer:
+  - value: Qxkh2tz
+    references:
+    - source: mahmoodschricker.bandcamp.com-track-sarmasti-featuring-eendo
+      quote: Sarmasti featuring Eendo | Mahmood Schricker
+      accessed: '2026-11-21'
+      locator: Page title
+    - source: mahmoodschricker.bandcamp.com-track-sarmasti-featuring-eendo
+      quote: 'Music, setar: Mahmood Schricker @mahmoodschricker'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: setar
+  - value: Qnbrhrh
+    references:
+    - source: music.apple.com-us-album-sarmasti-single-1573126969
+      quote: Eendo
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Qqb8n5j
+    references:
+    - source: mahmoodschricker.bandcamp.com-track-sarmasti-featuring-eendo
+      quote: 'Vocals: Shadi Yousefian @eendo'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: vocals
+  cover art:
+  - value: https://f4.bcbits.com/img/a0160268386_10.jpg
+    references:
+    - source: mahmoodschricker.bandcamp.com-track-sarmasti-featuring-eendo
+      quote: https://f4.bcbits.com/img/a0160268386_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Mahmood Schricker on Bandcamp
+        language: en
+  release date:
+  - value:
+      date: '2021-06-16'
+    references:
+    - source: mahmoodschricker.bandcamp.com-track-sarmasti-featuring-eendo
+      quote: released June 16, 2021
+      accessed: '2026-11-21'
+      locator: Published date
+  contributor:
+  - value: Qt5sbqz
+    references:
+    - source: mahmoodschricker.bandcamp.com-track-sarmasti-featuring-eendo
+      quote: 'Lyrics: Sina Salimi @sina.salimi.songs'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: lyricist
+  - value: Qy86y2y
+    references:
+    - source: mahmoodschricker.bandcamp.com-track-sarmasti-featuring-eendo
+      quote: 'Arrangement, Production & Mixing: Ardalan Payvar @ardalanpayvar @eendo'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: producer
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-sarmasti-single-1573126969
+      quote: Sarmasti
+      accessed: '2026-11-21'
+      locator: Exact Apple track listing
