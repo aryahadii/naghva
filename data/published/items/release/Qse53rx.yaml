@@ -1,0 +1,67 @@
+id: Qse53rx
+type: release
+statements:
+  name:
+  - value:
+      text: Gong
+      language: en
+    references:
+    - source: herrspectre.bandcamp.com-track-gong
+      quote: Gong | Herr Spectre
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qjdvdjm
+    references:
+    - source: herrspectre.bandcamp.com-track-gong
+      quote: Gong | Herr Spectre
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qjjdrek
+    references:
+    - source: www.sledisland.com-2023-herr-spectre
+      quote: collaborative project between Iranian musicians Hesam Ohadi (Idlefon) and Zhina Ardalan (Xeen)
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: electronics
+  - value: Qb5hnjh
+    references:
+    - &id001
+      source: www.sledisland.com-2023-herr-spectre
+      quote: Ardalan’s distorted guitars and gloomy vocals subtly complement the electronics that Ohadi produces
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: vocals
+  - value: Qb5hnjh
+    references:
+    - *id001
+    qualifiers:
+      role: guitar
+  listen link:
+  - value: https://herrspectre.bandcamp.com/track/gong
+    references:
+    - source: herrspectre.bandcamp.com-track-gong
+      quote: Gong | Herr Spectre
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a1999337107_10.jpg
+    references:
+    - source: herrspectre.bandcamp.com-track-gong
+      quote: https://f4.bcbits.com/img/a1999337107_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original publisher artwork
+        language: en
+  release date:
+  - value:
+      date: '2025-09-20'
+    references:
+    - source: herrspectre.bandcamp.com-track-gong
+      quote: released September 20, 2025
+      accessed: '2026-11-21'
+      locator: Published date
