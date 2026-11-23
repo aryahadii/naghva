@@ -974,6 +974,18 @@
       720
     ]
   },
+  "https://f4.bcbits.com/img/a0010157421_10.jpg": {
+    "sha256": "d22f11e54cf8616b539b93b290502f1623def57c80a414e607da67cdffa3de84",
+    "ext": "jpg",
+    "bytes": 436588,
+    "width": 1200,
+    "height": 1200,
+    "widths": [
+      180,
+      360,
+      720
+    ]
+  },
   "https://f4.bcbits.com/img/a0018160927_10.jpg": {
     "sha256": "ab26bd3cb53ced0afcd0a964f0b59afa5c72c3e559fbf25ca1587b438c1c577f",
     "ext": "jpg",
@@ -21047,6 +21059,19 @@
     "bytes": 12118,
     "width": 336,
     "height": 188,
+    "widths": [
+      180,
+      360,
+      720
+    ]
+  },
+  "https://i.ytimg.com/vi/lm_lE_D24QM/hqdefault.jpg": {
+    "sha256": "5755f4dea462c5969bd30529c86eb6ecf81eee7c61b4eec3bb7c1f6b2b4fd716",
+    "ext": "jpg",
+    "bytes": 279571,
+    "width": 1280,
+    "height": 720,
+    "from": "https://i.ytimg.com/vi/lm_lE_D24QM/maxresdefault.jpg",
     "widths": [
       180,
       360,
