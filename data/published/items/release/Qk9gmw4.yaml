@@ -1,0 +1,45 @@
+id: Qk9gmw4
+type: release
+statements:
+  name:
+  - value:
+      text: SAKHT
+      language: en
+    references:
+    - source: natchnadjafi.bandcamp.com-track-sakht
+      quote: SAKHT
+      accessed: '2026-11-21'
+      locator: Artist or label issue
+  performer:
+  - value: Qxxp9ab
+    references:
+    - source: natchnadjafi.bandcamp.com-track-sakht
+      quote: SAKHT
+      accessed: '2026-11-21'
+      locator: Artist or label issue
+  listen link:
+  - value: https://natchnadjafi.bandcamp.com/track/sakht
+    references:
+    - source: natchnadjafi.bandcamp.com-track-sakht
+      quote: SAKHT
+      accessed: '2026-11-21'
+      locator: Artist or label issue
+  release date:
+  - value:
+      date: '2024-08-12'
+    references:
+    - source: natchnadjafi.bandcamp.com-track-sakht
+      quote: 12 Aug 2024 00:00:00 GMT
+      accessed: '2026-11-21'
+      locator: Release date
+  cover art:
+  - value: https://f4.bcbits.com/img/a2009063609_10.jpg
+    qualifiers:
+      credit:
+        text: Natch Nadjafi via Bandcamp
+        language: en
+    references:
+    - source: natchnadjafi.bandcamp.com-track-sakht
+      quote: https://f4.bcbits.com/img/a2009063609_10.jpg
+      accessed: '2026-11-21'
+      locator: Original release image

@@ -1,0 +1,57 @@
+id: Qz65969
+type: release
+statements:
+  name:
+  - value:
+      text: Vekta
+      language: en
+    references:
+    - source: music.apple.com-us-album-structura-l-ep-6818258616
+      quote: Vekta
+      accessed: '2026-11-21'
+      locator: Track 1
+  performer:
+  - value: Qxxp9ab
+    references:
+    - source: music.apple.com-us-album-structura-l-ep-6818258616
+      quote: Vekta
+      accessed: '2026-11-21'
+      locator: Track 1
+  listen link:
+  - value: https://music.apple.com/us/song/vekta/6818258617
+    references:
+    - source: music.apple.com-us-album-structura-l-ep-6818258616
+      quote: https://music.apple.com/us/song/vekta/6818258617
+      accessed: '2026-11-21'
+      locator: Canonical song URL
+  - value: https://kitchentechnomusic.bandcamp.com/track/vekta
+    references:
+    - source: kitchentechnomusic.bandcamp.com-track-vekta
+      quote: Vekta
+      accessed: '2026-11-21'
+      locator: Artist or label issue
+  - value: https://soundcloud.com/kitchentechnomusic/kt001-01-natch-nadjafi-vekta-1
+    references:
+    - source: soundcloud.com-kitchentechnomusic-kt001-01-natch-nadjafi-vekta-1
+      quote: 01 - Natch Nadjafi - Vekta
+      accessed: '2026-11-21'
+      locator: Uploader’s original title
+  release date:
+  - value:
+      date: '2026-10-04'
+    references:
+    - source: kitchentechnomusic.bandcamp.com-track-vekta
+      quote: 04 Oct 2026 00:00:00 GMT
+      accessed: '2026-11-21'
+      locator: Release date
+  cover art:
+  - value: https://f4.bcbits.com/img/a1417162864_10.jpg
+    qualifiers:
+      credit:
+        text: Natch Nadjafi via Bandcamp
+        language: en
+    references:
+    - source: kitchentechnomusic.bandcamp.com-track-vekta
+      quote: https://f4.bcbits.com/img/a1417162864_10.jpg
+      accessed: '2026-11-21'
+      locator: Original release image
