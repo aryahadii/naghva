@@ -1,0 +1,57 @@
+id: Qa8qave
+type: release
+statements:
+  name:
+  - value:
+      text: Oucyl
+      language: en
+    references:
+    - source: purpletapepedigree.bandcamp.com-track-oucyl
+      quote: Oucyl | Nima Aghiani | PTP
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qgncp5r
+    references:
+    - source: purpletapepedigree.bandcamp.com-album-rems
+      quote: REMS | Nima Aghiani | PTP
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://purpletapepedigree.bandcamp.com/track/oucyl
+    references:
+    - source: purpletapepedigree.bandcamp.com-track-oucyl
+      quote: Oucyl | Nima Aghiani | PTP
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/oucyl/1391561458
+    references:
+    - source: music.apple.com-us-song-oucyl-1391561458
+      quote: ‎Oucyl - Song with Lyrics by Nima Aghiani - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/3g8VuQ6e2QWY41Qt9hHB75
+    references:
+    - source: open.spotify.com-track-3g8vuq6e2qwy41qt9hhb75
+      quote: Oucyl - song and lyrics by Nima Aghiani | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2018-06-29'
+    references:
+    - source: purpletapepedigree.bandcamp.com-album-rems
+      quote: released June 29, 2018
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a0303318687_10.jpg
+    references:
+    - source: purpletapepedigree.bandcamp.com-track-oucyl
+      quote: https://f4.bcbits.com/img/a0303318687_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: PTP
+        language: en

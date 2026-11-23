@@ -1,0 +1,57 @@
+id: Qqnhc7e
+type: release
+statements:
+  name:
+  - value:
+      text: Khatozar
+      language: en
+    references:
+    - source: purpletapepedigree.bandcamp.com-track-khatozar
+      quote: Khatozar | Nima Aghiani | PTP
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qgncp5r
+    references:
+    - source: purpletapepedigree.bandcamp.com-album-rems
+      quote: REMS | Nima Aghiani | PTP
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://purpletapepedigree.bandcamp.com/track/khatozar
+    references:
+    - source: purpletapepedigree.bandcamp.com-track-khatozar
+      quote: Khatozar | Nima Aghiani | PTP
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/khatozar/1391561457
+    references:
+    - source: music.apple.com-us-song-khatozar-1391561457
+      quote: ‎Khatozar - Song with Lyrics by Nima Aghiani - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/7BSR3VgU7EB75ortW3XTsB
+    references:
+    - source: open.spotify.com-track-7bsr3vgu7eb75ortw3xtsb
+      quote: Khatozar - song and lyrics by Nima Aghiani | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2018-06-29'
+    references:
+    - source: purpletapepedigree.bandcamp.com-album-rems
+      quote: released June 29, 2018
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a0303318687_10.jpg
+    references:
+    - source: purpletapepedigree.bandcamp.com-track-khatozar
+      quote: https://f4.bcbits.com/img/a0303318687_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: PTP
+        language: en

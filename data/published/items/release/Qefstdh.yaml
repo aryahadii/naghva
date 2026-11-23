@@ -1,0 +1,45 @@
+id: Qefstdh
+type: release
+statements:
+  name:
+  - value:
+      text: DIS-EASEDOM
+      language: en
+    references:
+    - source: soundcloud.com-nima-aghiani-dis-easedom
+      quote: Stream DIS-EASEDOM by Nima Aghiani | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qgncp5r
+    references:
+    - source: soundcloud.com-nima-aghiani-dis-easedom
+      quote: Stream DIS-EASEDOM by Nima Aghiani | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://soundcloud.com/nima-aghiani/dis-easedom
+    references:
+    - source: soundcloud.com-nima-aghiani-dis-easedom
+      quote: Stream DIS-EASEDOM by Nima Aghiani | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2013-01-30'
+    references:
+    - source: soundcloud.com-nima-aghiani-dis-easedom
+      quote: '2013-01-30T18:29:36Z'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-000039551787-7qwgx5-t500x500.jpg
+    references:
+    - source: soundcloud.com-nima-aghiani-dis-easedom
+      quote: https://i1.sndcdn.com/artworks-000039551787-7qwgx5-t500x500.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: SoundCloud
+        language: en

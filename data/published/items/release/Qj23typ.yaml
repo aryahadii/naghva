@@ -1,0 +1,57 @@
+id: Qj23typ
+type: release
+statements:
+  name:
+  - value:
+      text: Ibbothal
+      language: en
+    references:
+    - source: purpletapepedigree.bandcamp.com-track-ibbothal
+      quote: Ibbothal | Nima Aghiani | PTP
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qgncp5r
+    references:
+    - source: purpletapepedigree.bandcamp.com-album-rems
+      quote: REMS | Nima Aghiani | PTP
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://purpletapepedigree.bandcamp.com/track/ibbothal
+    references:
+    - source: purpletapepedigree.bandcamp.com-track-ibbothal
+      quote: Ibbothal | Nima Aghiani | PTP
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/ibbothal/1391561459
+    references:
+    - source: music.apple.com-us-song-ibbothal-1391561459
+      quote: ‎Ibbothal - Song with Lyrics by Nima Aghiani - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/18IOhCk7U23GpOZ8c5myCa
+    references:
+    - source: open.spotify.com-track-18iohck7u23gpoz8c5myca
+      quote: Ibbothal - song and lyrics by Nima Aghiani | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2018-06-29'
+    references:
+    - source: purpletapepedigree.bandcamp.com-album-rems
+      quote: released June 29, 2018
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a0303318687_10.jpg
+    references:
+    - source: purpletapepedigree.bandcamp.com-track-ibbothal
+      quote: https://f4.bcbits.com/img/a0303318687_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: PTP
+        language: en

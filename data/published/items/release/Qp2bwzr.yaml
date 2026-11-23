@@ -1,0 +1,57 @@
+id: Qp2bwzr
+type: release
+statements:
+  name:
+  - value:
+      text: Kah-Gash
+      language: en
+    references:
+    - source: purpletapepedigree.bandcamp.com-track-kah-gash
+      quote: Kah-Gash | Nima Aghiani | PTP
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qgncp5r
+    references:
+    - source: purpletapepedigree.bandcamp.com-album-rems
+      quote: REMS | Nima Aghiani | PTP
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://purpletapepedigree.bandcamp.com/track/kah-gash
+    references:
+    - source: purpletapepedigree.bandcamp.com-track-kah-gash
+      quote: Kah-Gash | Nima Aghiani | PTP
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/kah-gash/1391561463
+    references:
+    - source: music.apple.com-us-song-kah-gash-1391561463
+      quote: ‎Kah - Gash - Song with Lyrics by Nima Aghiani - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/1tZbnTkQt0dmCK1J087YWe
+    references:
+    - source: open.spotify.com-track-1tzbntkqt0dmck1j087ywe
+      quote: Kah-Gash - song and lyrics by Nima Aghiani | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2018-06-29'
+    references:
+    - source: purpletapepedigree.bandcamp.com-album-rems
+      quote: released June 29, 2018
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a0303318687_10.jpg
+    references:
+    - source: purpletapepedigree.bandcamp.com-track-kah-gash
+      quote: https://f4.bcbits.com/img/a0303318687_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: PTP
+        language: en

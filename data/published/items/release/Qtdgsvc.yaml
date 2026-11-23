@@ -1,0 +1,45 @@
+id: Qtdgsvc
+type: release
+statements:
+  name:
+  - value:
+      text: Big Square
+      language: en
+    references:
+    - source: soundcloud.com-nima-aghiani-big-square
+      quote: Stream Big Square by Nima Aghiani | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qgncp5r
+    references:
+    - source: soundcloud.com-nima-aghiani-big-square
+      quote: Stream Big Square by Nima Aghiani | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://soundcloud.com/nima-aghiani/big-square
+    references:
+    - source: soundcloud.com-nima-aghiani-big-square
+      quote: Stream Big Square by Nima Aghiani | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2012-02-15'
+    references:
+    - source: soundcloud.com-nima-aghiani-big-square
+      quote: '2012-02-15T23:00:06Z'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  cover art:
+  - value: https://i1.sndcdn.com/avatars-000511703988-2x00ju-t500x500.jpg
+    references:
+    - source: soundcloud.com-nima-aghiani-big-square
+      quote: https://i1.sndcdn.com/avatars-000511703988-2x00ju-t500x500.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: SoundCloud
+        language: en

@@ -5,6 +5,8 @@ title: Grimace by 9T Antiope
 tier: own
 kind: web page
 language: en
+about:
+- Nima Aghiani
 status: processed
 ---
 
@@ -31,3 +33,19 @@ Album credits, read 2026-11-21.
 > Mastered by Mathias Van Eecloo
 
 Album credits, read 2026-11-21.
+
+> Grimace | 9T Antiope
+
+Page title, read 2026-11-21.
+
+> Composer: Nima Aghiani
+
+Artist interview, biography or performance credits, read 2026-11-21.
+
+> released September 9, 2019
+
+Published date, read 2026-11-21.
+
+> Vocals & Lyrics: Sara Bigdeli Shamloo
+
+Artist interview, biography or performance credits, read 2026-11-21.
