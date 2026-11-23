@@ -1,0 +1,75 @@
+id: Qxeb78b
+type: release
+statements:
+  name:
+  - value:
+      text: Tāvā | تاوا
+      language: en
+    references:
+    - source: lowzirecords.bandcamp.com-track-t-v
+      quote: Tāvā | تاوا | Taraamoon | Low-Zi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qw4rq4q
+    references:
+    - source: lowzirecords.bandcamp.com-track-t-v
+      quote: Taraamoon
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  release date:
+  - value:
+      date: '2025-01-07'
+    references:
+    - source: lowzirecords.bandcamp.com-track-t-v
+      quote: released January 7, 2025
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a3274956259_10.jpg
+    references:
+    - source: lowzirecords.bandcamp.com-track-t-v
+      quote: https://f4.bcbits.com/img/a3274956259_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Low-Zi Records
+        language: en
+  listen link:
+  - value: https://lowzirecords.bandcamp.com/track/t-v
+    references:
+    - source: lowzirecords.bandcamp.com-track-t-v
+      quote: Tāvā | تاوا | Taraamoon | Low-Zi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1824808443
+    references:
+    - source: music.apple.com-us-song-1824808443
+      quote: ‎Tāvā - Song with Lyrics by Taraamoon - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/ta-va/1824808442
+    references:
+    - source: music.apple.com-us-album-ta-va-1824808442
+      quote: ‎Tāvā - Single - Album by Taraamoon - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/taraamoon/tava
+    references:
+    - source: soundcloud.com-taraamoon-tava
+      quote: Stream Tāvā | تاوا by TARAAMOON • ْتَرامون | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/album/2hGzzOay4Xthom0eFORGAv
+    references:
+    - source: open.spotify.com-album-2hgzzoay4xthom0eforgav
+      quote: Listen to Tāvā - Single by Taraamoon | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/3pHbrv86wcKhE7mp4IXsU6
+    references:
+    - source: open.spotify.com-track-3phbrv86wckhe7mp4ixsu6
+      quote: Tāvā - song and lyrics by Taraamoon | Spotify
+      accessed: '2026-11-21'
+      locator: Page title

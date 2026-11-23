@@ -1,0 +1,80 @@
+id: Qrhyzfs
+type: release
+statements:
+  name:
+  - value:
+      text: Koorāb (Safir x Taraamoon)
+      language: en
+    references:
+    - source: lowzirecords.bandcamp.com-track-koor-b-safir-x-taraamoon
+      quote: Koorāb (Safir x Taraamoon) | Taraamoon | Low-Zi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qw4rq4q
+    references:
+    - source: lowzirecords.bandcamp.com-album-b-db-n
+      quote: Bādbān | Taraamoon | Low-Zi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qz5swxp
+    references:
+    - source: lowzirecords.bandcamp.com-album-b-db-n
+      quote: Vocals/Lyrics of Taraamoon by Sara Bigdeli Shamloo
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: vocals
+  contributor:
+  - value: Qgncp5r
+    references:
+    - source: lowzirecords.bandcamp.com-album-b-db-n
+      quote: All tracks produced, mixed and mastered by Nima Aghiani
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: producer
+  listen link:
+  - value: https://lowzirecords.bandcamp.com/track/koor-b-safir-x-taraamoon
+    references:
+    - source: lowzirecords.bandcamp.com-track-koor-b-safir-x-taraamoon
+      quote: Koorāb (Safir x Taraamoon) | Taraamoon | Low-Zi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1560450115
+    references:
+    - source: music.apple.com-us-song-1560450115
+      quote: ‎Koorāb (feat. Safir) - Song with Lyrics by Taraamoon - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/5tCfqwUkdgeK5U1n529Mep
+    references:
+    - source: open.spotify.com-track-5tcfqwukdgek5u1n529mep
+      quote: Koorāb - song and lyrics by Taraamoon, Safir | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/taraamoon/03-koora-b-safir-x-taraamoon
+    references:
+    - source: soundcloud.com-taraamoon-03-koora-b-safir-x-taraamoon
+      quote: Stream Koorāb (Safir X Taraamoon) by TARAAMOON • ْتَرامون | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2021-03-28'
+    references:
+    - source: lowzirecords.bandcamp.com-album-b-db-n
+      quote: released March 28, 2021
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a3623081126_10.jpg
+    references:
+    - source: lowzirecords.bandcamp.com-track-koor-b-safir-x-taraamoon
+      quote: https://f4.bcbits.com/img/a3623081126_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Low-Zi Records
+        language: en

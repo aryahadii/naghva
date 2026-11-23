@@ -1,0 +1,63 @@
+id: Qhdg4zm
+type: release
+statements:
+  name:
+  - value:
+      text: Mahāq | مَحاقْ
+      language: en
+    references:
+    - source: lowzirecords.bandcamp.com-track-mah-q
+      quote: Mahāq | مَحاقْ | Taraamoon | Low-Zi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qw4rq4q
+    references:
+    - source: lowzirecords.bandcamp.com-track-mah-q
+      quote: Taraamoon
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  release date:
+  - value:
+      date: '2021-06-06'
+    references:
+    - source: lowzirecords.bandcamp.com-track-mah-q
+      quote: released June 6, 2021
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a1806567469_10.jpg
+    references:
+    - source: lowzirecords.bandcamp.com-track-mah-q
+      quote: https://f4.bcbits.com/img/a1806567469_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Low-Zi Records
+        language: en
+  listen link:
+  - value: https://lowzirecords.bandcamp.com/track/mah-q
+    references:
+    - source: lowzirecords.bandcamp.com-track-mah-q
+      quote: Mahāq | مَحاقْ | Taraamoon | Low-Zi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1570969178
+    references:
+    - source: music.apple.com-us-song-1570969178
+      quote: ‎مَحاق - Song with Lyrics by Taraamoon - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/%D9%85-%D8%AD%D8%A7%D9%82/1570969177
+    references:
+    - source: music.apple.com-us-album-d9-85--d8-ad-d8-a7-d9-82-1570969177
+      quote: ‎مَحاق - Single - Album by Taraamoon - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/taraamoon/mahaq
+    references:
+    - source: soundcloud.com-taraamoon-mahaq
+      quote: Stream Mahāq | مَحاقْ by TARAAMOON • ْتَرامون | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title

@@ -1,0 +1,75 @@
+id: Qxy43bk
+type: release
+statements:
+  name:
+  - value:
+      text: Hermās | هرماس
+      language: en
+    references:
+    - source: lowzirecords.bandcamp.com-track-herm-s
+      quote: Hermās | هرماس | Taraamoon | Low-Zi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qw4rq4q
+    references:
+    - source: lowzirecords.bandcamp.com-track-herm-s
+      quote: Taraamoon
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  release date:
+  - value:
+      date: '2022-12-02'
+    references:
+    - source: lowzirecords.bandcamp.com-track-herm-s
+      quote: released December 2, 2022
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a1698135470_10.jpg
+    references:
+    - source: lowzirecords.bandcamp.com-track-herm-s
+      quote: https://f4.bcbits.com/img/a1698135470_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Low-Zi Records
+        language: en
+  listen link:
+  - value: https://lowzirecords.bandcamp.com/track/herm-s
+    references:
+    - source: lowzirecords.bandcamp.com-track-herm-s
+      quote: Hermās | هرماس | Taraamoon | Low-Zi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1654972236
+    references:
+    - source: music.apple.com-us-song-1654972236
+      quote: ‎Hermās - Song with Lyrics by Taraamoon - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/herm%C4%81s/1654972235
+    references:
+    - source: music.apple.com-us-album-herm-c4-81s-1654972235
+      quote: ‎Hermās - Single - Album by Taraamoon - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/taraamoon/hermas
+    references:
+    - source: soundcloud.com-taraamoon-hermas
+      quote: Stream Hermās | هرماس by TARAAMOON • ْتَرامون | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/album/70AsDyhrQM01czMCWCKVje
+    references:
+    - source: open.spotify.com-album-70asdyhrqm01czmcwckvje
+      quote: Listen to Hermās - Single by Taraamoon | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/08RnHZEs6D4HksFOqqjPCw
+    references:
+    - source: open.spotify.com-track-08rnhzes6d4hksfoqqjpcw
+      quote: Hermās - song and lyrics by Taraamoon | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
