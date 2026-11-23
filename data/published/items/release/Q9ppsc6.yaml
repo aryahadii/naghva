@@ -1,0 +1,69 @@
+id: Q9ppsc6
+type: release
+statements:
+  name:
+  - value:
+      text: Fragile
+      language: en
+    references:
+    - source: cinnapey.bandcamp.com-track-fragile-2
+      quote: Fragile
+      accessed: '2026-11-21'
+      locator: Recording title or artist credit
+  performer:
+  - value: Q4q92dh
+    references:
+    - source: cinnapey.bandcamp.com-track-fragile-2
+      quote: Fragile | Cinna Peyghamy
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://cinnapey.bandcamp.com/track/fragile-2
+    references:
+    - source: cinnapey.bandcamp.com-track-fragile-2
+      quote: Fragile | Cinna Peyghamy
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/fragile/1731200799
+    references:
+    - source: music.apple.com-us-song-fragile-1731200799
+      quote: ‎Fragile - Song with Lyrics by Cinna Peyghamy - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/1x4in5ye96EjFy4nKb5KXR
+    references:
+    - source: open.spotify.com-track-1x4in5ye96ejfy4nkb5kxr
+      quote: Fragile - song and lyrics by Cinna Peyghamy | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/cikkun/fragile
+    references:
+    - source: soundcloud.com-cikkun-fragile
+      quote: Stream Fragile by Cinna Peyghamy | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://www.youtube.com/watch?v=0ZiEVeZ7FD8
+    references:
+    - source: www.youtube.com-watch-v-0zievez7fd8
+      quote: CIKKUN - FRAGILE (OFFICIAL VIDEO)
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a2883532302_10.jpg
+    references:
+    - source: cinnapey.bandcamp.com-track-fragile-2
+      quote: https://f4.bcbits.com/img/a2883532302_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Tongwei
+        language: en
+  release date:
+  - value:
+      date: '2020-01-01'
+    references:
+    - source: cinnapey.bandcamp.com-album-armure-ii
+      quote: released January 1, 2020
+      accessed: '2026-11-21'
+      locator: Published date

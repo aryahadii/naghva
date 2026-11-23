@@ -1,0 +1,57 @@
+id: Qfgkdyn
+type: release
+statements:
+  name:
+  - value:
+      text: Violet Curves
+      language: en
+    references:
+    - source: azutiwaline.bandcamp.com-track-violet-curves-feat-cinna-peyghamy
+      quote: Violet Curves
+      accessed: '2026-11-21'
+      locator: Recording title or artist credit
+  performer:
+  - value: Q4q92dh
+    references:
+    - source: azutiwaline.bandcamp.com-track-violet-curves-feat-cinna-peyghamy
+      quote: Violet Curves feat Cinna Peyghamy | Azu Tiwaline
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Q8k4r2t
+    references:
+    - source: open.spotify.com-track-33letnzlajcp60xwn3d3ze
+      quote: Azu Tiwaline
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://azutiwaline.bandcamp.com/track/violet-curves-feat-cinna-peyghamy
+    references:
+    - source: azutiwaline.bandcamp.com-track-violet-curves-feat-cinna-peyghamy
+      quote: Violet Curves feat Cinna Peyghamy | Azu Tiwaline
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/33lETNZlajCP60xwn3d3ze
+    references:
+    - source: open.spotify.com-track-33letnzlajcp60xwn3d3ze
+      quote: Violet Curves - song and lyrics by Azu Tiwaline, Cinna Peyghamy | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a4102436558_10.jpg
+    references:
+    - source: azutiwaline.bandcamp.com-track-violet-curves-feat-cinna-peyghamy
+      quote: https://f4.bcbits.com/img/a4102436558_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Azu Tiwaline on Bandcamp
+        language: en
+  release date:
+  - value:
+      date: '2020-09-18'
+    references:
+    - source: azutiwaline.bandcamp.com-track-violet-curves-feat-cinna-peyghamy
+      quote: released September 18, 2020
+      accessed: '2026-11-21'
+      locator: Published date

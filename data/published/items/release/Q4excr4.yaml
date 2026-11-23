@@ -1,0 +1,69 @@
+id: Q4excr4
+type: release
+statements:
+  name:
+  - value:
+      text: Armure II
+      language: en
+    references:
+    - source: cinnapey.bandcamp.com-track-armure-ii-2
+      quote: Armure II
+      accessed: '2026-11-21'
+      locator: Recording title or artist credit
+  performer:
+  - value: Q4q92dh
+    references:
+    - source: cinnapey.bandcamp.com-track-armure-ii-2
+      quote: Armure II | Cinna Peyghamy
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://cinnapey.bandcamp.com/track/armure-ii-2
+    references:
+    - source: cinnapey.bandcamp.com-track-armure-ii-2
+      quote: Armure II | Cinna Peyghamy
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/armure/1731200794
+    references:
+    - source: music.apple.com-us-song-armure-1731200794
+      quote: ‎Armure - Song with Lyrics by Cinna Peyghamy - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/6jAys4kG0pawSJp9pzEyN9
+    references:
+    - source: open.spotify.com-track-6jays4kg0pawsjp9pzeyn9
+      quote: Armure - song and lyrics by Cinna Peyghamy | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/cikkun/armure-ii
+    references:
+    - source: soundcloud.com-cikkun-armure-ii
+      quote: Stream Armure II by Cinna Peyghamy | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://www.youtube.com/watch?v=kcYUKfThABU
+    references:
+    - source: www.youtube.com-watch-v-kcyukfthabu
+      quote: CIKKUN - ARMURE II (VISUALIZER)
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a2883532302_10.jpg
+    references:
+    - source: cinnapey.bandcamp.com-track-armure-ii-2
+      quote: https://f4.bcbits.com/img/a2883532302_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Tongwei
+        language: en
+  release date:
+  - value:
+      date: '2020-01-01'
+    references:
+    - source: cinnapey.bandcamp.com-album-armure-ii
+      quote: released January 1, 2020
+      accessed: '2026-11-21'
+      locator: Published date

@@ -1,0 +1,69 @@
+id: Q4cyxkh
+type: release
+statements:
+  name:
+  - value:
+      text: Quand Tu Me Parles
+      language: en
+    references:
+    - source: cinnapey.bandcamp.com-track-quand-tu-me-parles-2
+      quote: Quand Tu Me Parles
+      accessed: '2026-11-21'
+      locator: Recording title or artist credit
+  performer:
+  - value: Q4q92dh
+    references:
+    - source: cinnapey.bandcamp.com-track-quand-tu-me-parles-2
+      quote: Quand Tu Me Parles | Cinna Peyghamy
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://cinnapey.bandcamp.com/track/quand-tu-me-parles-2
+    references:
+    - source: cinnapey.bandcamp.com-track-quand-tu-me-parles-2
+      quote: Quand Tu Me Parles | Cinna Peyghamy
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/quand-tu-me-parles/1731200782
+    references:
+    - source: music.apple.com-us-song-quand-tu-me-parles-1731200782
+      quote: ‎Quand tu me parles - Song with Lyrics by Cinna Peyghamy - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/5ZGNEbProKD5T5XcHHfJnr
+    references:
+    - source: open.spotify.com-track-5zgnebprokd5t5xchhfjnr
+      quote: Quand tu me parles - song and lyrics by Cinna Peyghamy | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/cikkun/quand-tu-me-parles
+    references:
+    - source: soundcloud.com-cikkun-quand-tu-me-parles
+      quote: Stream Quand tu me parles by Cinna Peyghamy | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://www.youtube.com/watch?v=6HFxSCmVS5o
+    references:
+    - source: www.youtube.com-watch-v-6hfxscmvs5o
+      quote: CIKKUN - QUAND TU ME PARLES (VISUALIZER)
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a2883532302_10.jpg
+    references:
+    - source: cinnapey.bandcamp.com-track-quand-tu-me-parles-2
+      quote: https://f4.bcbits.com/img/a2883532302_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Tongwei
+        language: en
+  release date:
+  - value:
+      date: '2020-01-01'
+    references:
+    - source: cinnapey.bandcamp.com-album-armure-ii
+      quote: released January 1, 2020
+      accessed: '2026-11-21'
+      locator: Published date

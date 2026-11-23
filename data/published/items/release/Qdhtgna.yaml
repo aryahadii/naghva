@@ -1,0 +1,63 @@
+id: Qdhtgna
+type: release
+statements:
+  name:
+  - value:
+      text: Tight Wind
+      language: en
+    references:
+    - source: azutiwaline.bandcamp.com-track-tight-wind-ft-cinna-peyghamy
+      quote: Tight Wind
+      accessed: '2026-11-21'
+      locator: Recording title or artist credit
+  performer:
+  - value: Q4q92dh
+    references:
+    - source: azutiwaline.bandcamp.com-track-tight-wind-ft-cinna-peyghamy
+      quote: Tight Wind ft. Cinna Peyghamy | Azu Tiwaline
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Q8k4r2t
+    references:
+    - source: open.spotify.com-track-43j73yftwlqxuomrbjazrj
+      quote: Azu Tiwaline
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://azutiwaline.bandcamp.com/track/tight-wind-ft-cinna-peyghamy
+    references:
+    - source: azutiwaline.bandcamp.com-track-tight-wind-ft-cinna-peyghamy
+      quote: Tight Wind ft. Cinna Peyghamy | Azu Tiwaline
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/43J73YFtWlqxuomrBJazrJ
+    references:
+    - source: open.spotify.com-track-43j73yftwlqxuomrbjazrj
+      quote: Tight Wind - song and lyrics by Azu Tiwaline, Cinna Peyghamy | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://www.youtube.com/watch?v=W-N8BTgEHss
+    references:
+    - source: www.youtube.com-watch-v-w-n8btgehss
+      quote: Azu Tiwaline - Tight Wind (feat. Cinna Peyghamy) [LIVITY040] - YouTube
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a0032835862_10.jpg
+    references:
+    - source: azutiwaline.bandcamp.com-track-tight-wind-ft-cinna-peyghamy
+      quote: https://f4.bcbits.com/img/a0032835862_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Azu Tiwaline on Bandcamp
+        language: en
+  release date:
+  - value:
+      date: '2020-07-03'
+    references:
+    - source: azutiwaline.bandcamp.com-album-magnetic-service-e-p
+      quote: released July 3, 2020
+      accessed: '2026-11-21'
+      locator: Published date

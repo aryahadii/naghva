@@ -1,0 +1,72 @@
+id: Qw52s56
+type: release
+statements:
+  name:
+  - value:
+      text: Cinna Peyghamy at Gaswerk Music Days
+      language: en
+    references:
+    - source: www.youtube.com-watch-v-zlst7fhzwbw
+      quote: CINNA PEYGHAMY @ Gaswerk Music Days | LIVE FROM BERLIN - YouTube
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Q4q92dh
+    references:
+    - source: www.youtube.com-watch-v-zlst7fhzwbw
+      quote: CINNA PEYGHAMY @ Gaswerk Music Days | LIVE FROM BERLIN - YouTube
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qa6r74t
+    qualifiers:
+      role:
+      - bass
+    references:
+    - source: brown.edu-underground-iran-concert-musicians
+      quote: KASRA SABOKTAKIN (bass for Namjoo and Kiosk)
+      accessed: '2026-11-21'
+      locator: Concert lineup
+  - value: Qtgn2be
+    references:
+    - source: www.youtube.com-watch-v-h2nadu3-mck
+      quote: Underground Iran
+      accessed: '2026-11-21'
+      locator: University concert publication
+  - value: Qt6wjbg
+    references:
+    - source: www.youtube.com-watch-v-h2nadu3-mck
+      quote: Underground Iran
+      accessed: '2026-11-21'
+      locator: University concert publication
+  listen link:
+  - value: https://www.youtube.com/watch?v=ZLst7fHZwBw
+    references:
+    - source: www.youtube.com-watch-v-zlst7fhzwbw
+      quote: CINNA PEYGHAMY @ Gaswerk Music Days | LIVE FROM BERLIN - YouTube
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://www.youtube.com/watch?v=h2NadU3-mck
+    references:
+    - source: www.youtube.com-watch-v-h2nadu3-mck
+      quote: Underground Iran
+      accessed: '2026-11-21'
+      locator: University concert publication
+  release date:
+  - value:
+      date: '2015-01-23'
+    references:
+    - source: www.youtube.com-watch-v-h2nadu3-mck
+      quote: '2015-01-23'
+      accessed: '2026-11-21'
+      locator: Digital issue date
+  cover art:
+  - value: https://i.ytimg.com/vi/h2NadU3-mck/maxresdefault.jpg
+    qualifiers:
+      credit:
+        text: Official artist upload
+        language: en
+    references:
+    - source: www.youtube.com-watch-v-h2nadu3-mck
+      quote: https://i.ytimg.com/vi/h2NadU3-mck/maxresdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original release image

@@ -1,0 +1,63 @@
+id: Q8qcqgy
+type: release
+statements:
+  name:
+  - value:
+      text: Point à la Ligne
+      language: en
+    references:
+    - source: cinnapey.bandcamp.com-track-point-la-ligne-2
+      quote: Point à la Ligne
+      accessed: '2026-11-21'
+      locator: Recording title or artist credit
+  performer:
+  - value: Q4q92dh
+    references:
+    - source: cinnapey.bandcamp.com-track-point-la-ligne-2
+      quote: Point à la Ligne | Cinna Peyghamy
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://cinnapey.bandcamp.com/track/point-la-ligne-2
+    references:
+    - source: cinnapey.bandcamp.com-track-point-la-ligne-2
+      quote: Point à la Ligne | Cinna Peyghamy
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/point-%C3%A0-la-ligne/1719051757
+    references:
+    - source: music.apple.com-us-song-point--c3-a0-la-ligne-1719051757
+      quote: ‎Point à la ligne - Song with Lyrics by Cinna Peyghamy - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/73giXcISybjwzWprmX2o1K
+    references:
+    - source: open.spotify.com-track-73gixcisybjwzwprmx2o1k
+      quote: Point à la ligne - song and lyrics by Cinna Peyghamy | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/cikkun/point-a-la-ligne
+    references:
+    - source: soundcloud.com-cikkun-point-a-la-ligne
+      quote: Stream Point à la ligne by Cinna Peyghamy | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a2621984663_10.jpg
+    references:
+    - source: cinnapey.bandcamp.com-track-point-la-ligne-2
+      quote: https://f4.bcbits.com/img/a2621984663_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Cinna Peyghamy on Bandcamp
+        language: en
+  release date:
+  - value:
+      date: '2017-05-08'
+    references:
+    - source: cinnapey.bandcamp.com-album-gamut
+      quote: released May 8, 2017
+      accessed: '2026-11-21'
+      locator: Published date

@@ -1,0 +1,43 @@
+id: Qjnfk3x
+type: release
+statements:
+  name:
+  - value:
+      text: Cinna Peyghamy (Home Studio, Paris, France)
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-tf0hyb8mu3w
+      quote: CINNA PEYGHAMY (Home Studio, Paris, France) - YouTube
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Q4q92dh
+    references:
+    - *id001
+  listen link:
+  - value: https://www.youtube.com/watch?v=Tf0hyB8mU3w
+    references:
+    - source: www.youtube.com-watch-v-tf0hyb8mu3w
+      quote: CINNA PEYGHAMY (Home Studio, Paris, France) - YouTube
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i.ytimg.com/vi/Tf0hyB8mU3w/maxresdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-tf0hyb8mu3w
+      quote: https://i.ytimg.com/vi/Tf0hyB8mU3w/maxresdefault.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Vincent Moon / Petites Planètes
+        language: en
+  release date:
+  - value:
+      date: '2026-03-27'
+    references:
+    - source: www.youtube.com-watch-v-tf0hyb8mu3w
+      quote: '2026-03-27'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
