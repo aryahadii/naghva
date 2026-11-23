@@ -1,0 +1,58 @@
+id: Qcz4y9t
+type: release
+statements:
+  name:
+  - value:
+      text: The First Realm
+      language: en
+    references:
+    - source: music.apple.com-us-album-the-first-realm-1560909862
+      quote: ‎The First Realm - Album by Kevin Kastning & Soheil Peyghambari - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  release type:
+  - value: album
+    references:
+    - source: music.apple.com-us-album-the-first-realm-1560909862
+      quote: ‎The First Realm - Album by Kevin Kastning & Soheil Peyghambari - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Q3waxf2
+    references:
+    - source: music.apple.com-us-album-the-first-realm-1560909862
+      quote: ‎The First Realm - Album by Kevin Kastning & Soheil Peyghambari - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qyz8dqk
+    references:
+    - source: music.apple.com-us-album-the-first-realm-1560909862
+      quote: Kevin Kastning
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://music.apple.com/us/album/the-first-realm/1560909862
+    references:
+    - source: music.apple.com-us-album-the-first-realm-1560909862
+      quote: ‎The First Realm - Album by Kevin Kastning & Soheil Peyghambari - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ee/ec/42/eeec4279-1d24-fcf5-0906-94b4385b93fa/artwork.jpg/632x632bb.webp
+    references:
+    - source: music.apple.com-us-album-the-first-realm-1560909862
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ee/ec/42/eeec4279-1d24-fcf5-0906-94b4385b93fa/artwork.jpg/632x632bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Soheil Peyghambari on Apple Music
+        language: en
+  release date:
+  - value:
+      date: '2021-05-04'
+    references:
+    - source: music.apple.com-us-album-the-first-realm-1560909862
+      quote: May 4, 2021
+      accessed: '2026-11-21'
+      locator: Published date

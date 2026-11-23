@@ -1,0 +1,69 @@
+id: Qrhqtg9
+type: release
+statements:
+  name:
+  - value:
+      text: First Chirality
+      language: en
+    references:
+    - source: music.apple.com-us-song-1783666502
+      quote: ‎First Chirality - Song with Lyrics by Kevin Kastning, Carl Clements & Soheil Peyghambari - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Q3waxf2
+    references:
+    - source: music.apple.com-us-song-1783666502
+      quote: ‎First Chirality - Song with Lyrics by Kevin Kastning, Carl Clements & Soheil Peyghambari - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qyz8dqk
+    references:
+    - source: music.apple.com-us-song-1783666502
+      quote: Kevin Kastning
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Qw75mtc
+    references:
+    - source: music.apple.com-us-song-1783666502
+      quote: Carl Clements
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://music.apple.com/us/song/1783666502
+    references:
+    - source: music.apple.com-us-song-1783666502
+      quote: ‎First Chirality - Song with Lyrics by Kevin Kastning, Carl Clements & Soheil Peyghambari - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/5XbVJnUHLGu4mDgqQHnrUY
+    references:
+    - source: open.spotify.com-track-5xbvjnuhlgu4mdgqqhnruy
+      quote: First Chirality - song and lyrics by Kevin Kastning, Carl Clements, Soheil Peyghambari | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://www.youtube.com/watch?v=1zwLWfT8wRw
+    references:
+    - source: www.youtube.com-watch-v-1zwlwft8wrw
+      quote: 'Kevin Kastning/Carl Clements/Soheil Peyghambari: First Chirality'
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a9/34/38/a93438b6-a428-a704-64de-7a925e2e8037/artwork.jpg/600x600bb.webp
+    references:
+    - source: music.apple.com-us-song-1783666502
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a9/34/38/a93438b6-a428-a704-64de-7a925e2e8037/artwork.jpg/600x600bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Soheil Peyghambari on Apple Music
+        language: en
+  release date:
+  - value:
+      date: '2025-01-14'
+    references:
+    - source: music.apple.com-us-song-1783666502
+      quote: January 14, 2025
+      accessed: '2026-11-21'
+      locator: Published date

@@ -1,0 +1,47 @@
+id: Qm3ms2h
+type: release
+statements:
+  name:
+  - value:
+      text: Sacred Bird VII
+      language: en
+    references:
+    - source: vascotrillaalexreviriego.bandcamp.com-track-sacred-bird-vii
+      quote: Sacred Bird VII | Soheil Peyghambari, Àlex Reviriego & Vasco Trilla | Vasco Trilla & Àlex Reviriego
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Q3waxf2
+    references:
+    - source: vascotrillaalexreviriego.bandcamp.com-album-sacred-birds
+      quote: Soheil Peyghambari - clarinet
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: clarinet
+  listen link:
+  - value: https://vascotrillaalexreviriego.bandcamp.com/track/sacred-bird-vii
+    references:
+    - source: vascotrillaalexreviriego.bandcamp.com-track-sacred-bird-vii
+      quote: Sacred Bird VII | Soheil Peyghambari, Àlex Reviriego & Vasco Trilla | Vasco Trilla & Àlex Reviriego
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a2830405950_10.jpg
+    references:
+    - source: vascotrillaalexreviriego.bandcamp.com-track-sacred-bird-vii
+      quote: https://f4.bcbits.com/img/a2830405950_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Soheil Peyghambari on Bandcamp
+        language: en
+  release date:
+  - value:
+      date: '2026-02-20'
+    references:
+    - source: vascotrillaalexreviriego.bandcamp.com-album-sacred-birds
+      quote: released February 20, 2026
+      accessed: '2026-11-21'
+      locator: Published date

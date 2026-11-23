@@ -1,0 +1,57 @@
+id: Q6acfeh
+type: release
+statements:
+  name:
+  - value:
+      text: Elegy for Time
+      language: en
+    references:
+    - source: music.apple.com-us-song-916829153
+      quote: ‎Elegy for Time - Song with Lyrics by Soheil Peyghambari - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Q3waxf2
+    references:
+    - source: music.apple.com-us-song-916829153
+      quote: ‎Elegy for Time - Song with Lyrics by Soheil Peyghambari - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://music.apple.com/us/song/916829153
+    references:
+    - source: music.apple.com-us-song-916829153
+      quote: ‎Elegy for Time - Song with Lyrics by Soheil Peyghambari - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/2eIQH1dP0RMwGUv06KHAqh
+    references:
+    - source: open.spotify.com-track-2eiqh1dp0rmwguv06khaqh
+      quote: Elegy for Time - song and lyrics by Soheil Peyghambari | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://www.youtube.com/watch?v=aJ7ATB7L2lc
+    references:
+    - source: www.youtube.com-watch-v-aj7atb7l2lc
+      quote: Elegy for Time
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/9c/bc/95/9cbc95a1-e2bd-6bbf-aba7-24a188aedf9b/889211010363.jpg/600x600bb.webp
+    references:
+    - source: music.apple.com-us-song-916829153
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/9c/bc/95/9cbc95a1-e2bd-6bbf-aba7-24a188aedf9b/889211010363.jpg/600x600bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Soheil Peyghambari on Apple Music
+        language: en
+  release date:
+  - value:
+      date: '2014-08-05'
+    references:
+    - source: music.apple.com-us-song-916829153
+      quote: August 5, 2014
+      accessed: '2026-11-21'
+      locator: Published date

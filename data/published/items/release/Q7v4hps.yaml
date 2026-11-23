@@ -1,0 +1,59 @@
+id: Q7v4hps
+type: release
+statements:
+  name:
+  - value:
+      text: 2xc-5
+      language: en
+    references:
+    - source: williamdoranmusic.bandcamp.com-track-2xc-5
+      quote: 2xc-5 | William Doran and Soheil Peyghambari | William 'AL Adam' Doran
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Q3waxf2
+    references:
+    - source: williamdoranmusic.bandcamp.com-album-parsec-modulator-b1
+      quote: Soheil Peyghambari - Bass Clarinet , Bb clarinet
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: clarinet
+  - value: Q3zps4d
+    references:
+    - source: williamdoranmusic.bandcamp.com-album-parsec-modulator-b1
+      quote: William Doran
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://williamdoranmusic.bandcamp.com/track/2xc-5
+    references:
+    - source: williamdoranmusic.bandcamp.com-track-2xc-5
+      quote: 2xc-5 | William Doran and Soheil Peyghambari | William 'AL Adam' Doran
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://williamdoransoheilpeyghambari.bandcamp.com/track/2xc-5
+    references:
+    - source: williamdoransoheilpeyghambari.bandcamp.com-track-2xc-5
+      quote: 2xc-5 | William Doran & Soheil Peyghambari
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2025-11-11'
+    references:
+    - source: williamdoranmusic.bandcamp.com-album-parsec-modulator-b1
+      quote: released November 11, 2025
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a0256474694_10.jpg
+    references:
+    - source: williamdoranmusic.bandcamp.com-track-2xc-5
+      quote: https://f4.bcbits.com/img/a0256474694_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: William Doran
+        language: en

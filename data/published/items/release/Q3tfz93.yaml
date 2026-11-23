@@ -1,0 +1,37 @@
+id: Q3tfz93
+type: release
+statements:
+  name:
+  - value:
+      text: Playful
+      language: en
+    references:
+    - source: open.spotify.com-track-2k1tx7somujedtwbqohpfi
+      quote: Playful - song and lyrics by Hum Sa, Pouya Assadian, Ali Gerami, Arin Keshishi, Soheil Peyghambari | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Q3waxf2
+    references:
+    - source: open.spotify.com-track-2k1tx7somujedtwbqohpfi
+      quote: Playful - song and lyrics by Hum Sa, Pouya Assadian, Ali Gerami, Arin Keshishi, Soheil Peyghambari | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://open.spotify.com/track/2k1TX7sOMuJEDTwBqOhPfI
+    references:
+    - source: open.spotify.com-track-2k1tx7somujedtwbqohpfi
+      quote: Playful - song and lyrics by Hum Sa, Pouya Assadian, Ali Gerami, Arin Keshishi, Soheil Peyghambari | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d0000b27337fedd3cde8e2dd8eb02596d
+    references:
+    - source: open.spotify.com-track-2k1tx7somujedtwbqohpfi
+      quote: https://i.scdn.co/image/ab67616d0000b27337fedd3cde8e2dd8eb02596d
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Soheil Peyghambari on Spotify
+        language: en
