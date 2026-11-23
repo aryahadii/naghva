@@ -1,0 +1,88 @@
+id: Q566z96
+type: release
+statements:
+  name:
+  - value:
+      text: Violet Machine
+      language: en
+    references:
+    - source: music.apple.com-us-album-it-takes-time-ep-1035662555
+      quote: Violet Machine
+      accessed: '2026-11-21'
+      locator: Apple track
+  performer:
+  - value: Qmdmc89
+    references:
+    - source: music.apple.com-us-album-it-takes-time-ep-1035662555
+      quote: Violet Machine
+      accessed: '2026-11-21'
+      locator: Apple track
+  - value: Qnr5b69
+    qualifiers:
+      role: vocals
+    references:
+    - source: www.youtube.com-watch-v-efw_-kqzh-w
+      quote: Words and vocals by Jordan Miller
+      accessed: '2026-11-21'
+      locator: Violet Machine original credits
+  cover art:
+  - value: https://f4.bcbits.com/img/a3206007910_10.jpg
+    qualifiers:
+      credit:
+        text: Casualty Process on Bandcamp
+        language: en
+    references:
+    - source: casualtyprocess.bandcamp.com-album-it-takes-time
+      quote: https://f4.bcbits.com/img/a3206007910_10.jpg
+      accessed: '2026-11-21'
+      locator: Native art of this edition
+  release date:
+  - value:
+      date: '2015-08-26'
+    references:
+    - source: casualtyprocess.bandcamp.com-album-it-takes-time
+      quote: released August 26, 2015
+      accessed: '2026-11-21'
+      locator: Original issue
+  listen link:
+  - value: https://casualtyprocess.bandcamp.com/track/violet-machine
+    references:
+    - source: casualtyprocess.bandcamp.com-track-violet-machine
+      quote: Violet Machine | Casualty Process
+      accessed: '2026-11-21'
+      locator: Original page heading
+  - value: https://music.apple.com/us/song/violet-machine/1035662702
+    references:
+    - source: music.apple.com-us-album-it-takes-time-ep-1035662555
+      quote: Violet Machine
+      accessed: '2026-11-21'
+      locator: Apple track
+  - value: https://soundcloud.com/casualtyprocess/05-violet-machine-1
+    references:
+    - source: soundcloud.com-casualtyprocess-05-violet-machine-1
+      quote: 05 Violet Machine
+      accessed: '2026-11-21'
+      locator: Artist SoundCloud upload
+  - value: https://www.youtube.com/watch?v=efW_-kqzH-w
+    references:
+    - source: www.youtube.com-watch-v-efw_-kqzh-w
+      quote: Casualty Process - Violet Machine (Official Music Video)
+      accessed: '2026-11-21'
+      locator: YouTube oEmbed title
+  contributor:
+  - value: Qnr5b69
+    qualifiers:
+      role: lyricist
+    references:
+    - source: www.youtube.com-watch-v-efw_-kqzh-w
+      quote: Words and vocals by Jordan Miller
+      accessed: '2026-11-21'
+      locator: Violet Machine original credits
+  - value: Qxxp9ab
+    qualifiers:
+      role: composer
+    references:
+    - source: www.youtube.com-watch-v-efw_-kqzh-w
+      quote: Music by Natch Nadjafi
+      accessed: '2026-11-21'
+      locator: Original composition

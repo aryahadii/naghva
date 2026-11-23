@@ -1,0 +1,91 @@
+id: Q68hqt8
+type: release
+statements:
+  name:
+  - value:
+      text: '[UN]even'
+      language: en
+    references:
+    - source: casualtyprocess.bandcamp.com-album-un-even
+      quote: '[UN]even'
+      accessed: '2026-11-21'
+      locator: Title of the original EP
+  performer:
+  - value: Qmdmc89
+    references:
+    - source: casualtyprocess.bandcamp.com-album-un-even
+      quote: '[UN]even'
+      accessed: '2026-11-21'
+      locator: Title of the original EP
+  - value: Qxxp9ab
+    qualifiers:
+      role: vocals
+    references:
+    - source: casualtyprocess.bandcamp.com-album-un-even
+      quote: Vocals by Natch Nadjafi, Setareh Nadjafi, Shayan Amini
+      accessed: '2026-11-21'
+      locator: EP vocals
+  - value: Q3aytfh
+    qualifiers:
+      role: vocals
+    references:
+    - source: casualtyprocess.bandcamp.com-album-un-even
+      quote: Vocals by Natch Nadjafi, Setareh Nadjafi, Shayan Amini
+      accessed: '2026-11-21'
+      locator: EP vocals
+  - value: Qp9j392
+    qualifiers:
+      role: vocals
+    references:
+    - source: casualtyprocess.bandcamp.com-album-un-even
+      quote: Vocals by Natch Nadjafi, Setareh Nadjafi, Shayan Amini
+      accessed: '2026-11-21'
+      locator: EP vocals
+  cover art:
+  - value: https://f4.bcbits.com/img/a0426172280_10.jpg
+    qualifiers:
+      credit:
+        text: Casualty Process on Bandcamp
+        language: en
+    references:
+    - source: casualtyprocess.bandcamp.com-album-un-even
+      quote: https://f4.bcbits.com/img/a0426172280_10.jpg
+      accessed: '2026-11-21'
+      locator: Native art of this edition
+  release type:
+  - value: ep
+    references:
+    - source: casualtyprocess.bandcamp.com-album-un-even
+      quote: '[UN]even'
+      accessed: '2026-11-21'
+      locator: Title of the original EP
+  release date:
+  - value:
+      date: '2011-07-16'
+    references:
+    - source: casualtyprocess.bandcamp.com-album-un-even
+      quote: released July 16, 2011
+      accessed: '2026-11-21'
+      locator: Original issue
+  listen link:
+  - value: https://casualtyprocess.bandcamp.com/album/un-even
+    references:
+    - source: casualtyprocess.bandcamp.com-album-un-even
+      quote: '[UN]even'
+      accessed: '2026-11-21'
+      locator: Title of the original EP
+  - value: https://music.apple.com/us/album/un-even-ep/483261659
+    references:
+    - source: music.apple.com-us-album-un-even-ep-483261659
+      quote: ‎[UN]Even - EP - Album by The Casualty Process - Apple Music
+      accessed: '2026-11-21'
+      locator: Original page heading
+  contributor:
+  - value: Qxxp9ab
+    qualifiers:
+      role: composer
+    references:
+    - source: casualtyprocess.bandcamp.com-album-un-even
+      quote: Music and concept by Natch Nadjafi
+      accessed: '2026-11-21'
+      locator: Composition

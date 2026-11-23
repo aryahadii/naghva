@@ -1,0 +1,58 @@
+id: Qa48nar
+type: release
+statements:
+  name:
+  - value:
+      text: It Takes Time
+      language: en
+    references:
+    - source: casualtyprocess.bandcamp.com-album-it-takes-time
+      quote: It Takes Time
+      accessed: '2026-11-21'
+      locator: Title of the original EP
+  performer:
+  - value: Qmdmc89
+    references:
+    - source: casualtyprocess.bandcamp.com-album-it-takes-time
+      quote: It Takes Time
+      accessed: '2026-11-21'
+      locator: Title of the original EP
+  cover art:
+  - value: https://f4.bcbits.com/img/a3206007910_10.jpg
+    qualifiers:
+      credit:
+        text: Casualty Process on Bandcamp
+        language: en
+    references:
+    - source: casualtyprocess.bandcamp.com-album-it-takes-time
+      quote: https://f4.bcbits.com/img/a3206007910_10.jpg
+      accessed: '2026-11-21'
+      locator: Native art of this edition
+  release type:
+  - value: ep
+    references:
+    - source: casualtyprocess.bandcamp.com-album-it-takes-time
+      quote: It Takes Time
+      accessed: '2026-11-21'
+      locator: Title of the original EP
+  release date:
+  - value:
+      date: '2015-08-26'
+    references:
+    - source: casualtyprocess.bandcamp.com-album-it-takes-time
+      quote: released August 26, 2015
+      accessed: '2026-11-21'
+      locator: Original issue
+  listen link:
+  - value: https://casualtyprocess.bandcamp.com/album/it-takes-time
+    references:
+    - source: casualtyprocess.bandcamp.com-album-it-takes-time
+      quote: It Takes Time
+      accessed: '2026-11-21'
+      locator: Title of the original EP
+  - value: https://music.apple.com/us/album/it-takes-time-ep/1035662555
+    references:
+    - source: music.apple.com-us-album-it-takes-time-ep-1035662555
+      quote: ‎It Takes Time - EP - Album by The Casualty Process - Apple Music
+      accessed: '2026-11-21'
+      locator: Original page heading
