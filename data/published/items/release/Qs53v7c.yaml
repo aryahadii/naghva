@@ -1,0 +1,88 @@
+id: Qs53v7c
+type: release
+statements:
+  name:
+  - value:
+      text: Fakeout
+      language: en
+    references:
+    - source: herrspectre.bandcamp.com-track-fakeout-2
+      quote: Fakeout | Herr Spectre
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qjdvdjm
+    references:
+    - source: herrspectre.bandcamp.com-track-fakeout-2
+      quote: Fakeout | Herr Spectre
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qjjdrek
+    references:
+    - source: www.sledisland.com-2023-herr-spectre
+      quote: collaborative project between Iranian musicians Hesam Ohadi (Idlefon) and Zhina Ardalan (Xeen)
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: electronics
+  - value: Qb5hnjh
+    references:
+    - &id001
+      source: www.sledisland.com-2023-herr-spectre
+      quote: Ardalan’s distorted guitars and gloomy vocals subtly complement the electronics that Ohadi produces
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: vocals
+  - value: Qb5hnjh
+    references:
+    - *id001
+    qualifiers:
+      role: guitar
+  listen link:
+  - value: https://herrspectre.bandcamp.com/track/fakeout-2
+    references:
+    - source: herrspectre.bandcamp.com-track-fakeout-2
+      quote: Fakeout | Herr Spectre
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://www.youtube.com/watch?v=JOBMYH0TPPk
+    references:
+    - source: www.youtube.com-watch-v-jobmyh0tppk
+      quote: HERR SPECTRE - Fakeout
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a1999337107_10.jpg
+    references:
+    - source: herrspectre.bandcamp.com-track-fakeout-2
+      quote: https://f4.bcbits.com/img/a1999337107_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original publisher artwork
+        language: en
+  release date:
+  - value:
+      date: '2025-09-20'
+    references:
+    - source: herrspectre.bandcamp.com-track-fakeout-2
+      quote: released September 20, 2025
+      accessed: '2026-11-21'
+      locator: Published date
+  contributor:
+  - value: Qtwwfrd
+    references:
+    - &id002
+      source: www.youtube.com-feeds-videos.xml-channel_id-ucycu5owjy4bbkc_01ippbmw
+      quote: Additional composition and mix by Shahin Entezami
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: composer
+  - value: Qtwwfrd
+    references:
+    - *id002
+    qualifiers:
+      role: mixing engineer
