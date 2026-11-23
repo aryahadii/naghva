@@ -1,0 +1,91 @@
+id: Qpt6tek
+type: release
+statements:
+  name:
+  - value:
+      text: Dopelk
+      language: en
+    references:
+    - source: music.apple.com-at-album-dopelk-single-1694958019
+      quote: Dopelk
+      accessed: 2026-11-21
+      locator: Edition track listing
+  listen link:
+  - value: https://music.apple.com/at/song/dopelk/1694958023
+    references:
+    - source: music.apple.com-at-album-dopelk-single-1694958019
+      quote: Dopelk
+      accessed: 2026-11-21
+      locator: Edition track listing
+  - value: https://open.spotify.com/track/1CGADJiDpdtpTeFOrI6cKr
+    references:
+    - source: open.spotify.com-album-4rxl2dlowpmx4a7yt4lskn
+      quote: Dopelk
+      accessed: 2026-11-21
+      locator: Native recording title
+  - value: https://avinahmadi.bandcamp.com/track/dopelk
+    references:
+    - source: avinahmadi.bandcamp.com-track-dopelk
+      quote: 'Vocal, Oud, Poem & Composer : Avin Ahmadi'
+      accessed: 2026-11-21
+      locator: Credits and track listing
+  - value: https://youtu.be/vBi6hK5L6GY
+    references:
+    - source: youtu.be-vbi6hk5l6gy
+      quote: Avin Ahmadi & Michael Alves  - Dopelk // Live in Vienna City Sound Studio
+      accessed: 2026-11-21
+      locator: Title on the artist’s channel
+  release date:
+  - value:
+      date: '2023-07-03'
+    references:
+    - source: music.apple.com-at-album-dopelk-single-1694958019
+      quote: '2023-07-03'
+      accessed: 2026-11-21
+      locator: Digital edition issue date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/5b/e1/fd/5be1fda4-ae9c-beb3-d161-c0369910017d/198025567056.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-at-album-dopelk-single-1694958019
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/5b/e1/fd/5be1fda4-ae9c-beb3-d161-c0369910017d/198025567056.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Edition artwork
+  performer:
+  - value: Qtcm49a
+    references:
+    - source: music.apple.com-at-album-dopelk-single-1694958019
+      quote: Avin Ahmadi
+      accessed: 2026-11-21
+      locator: Edition artist billing
+    - source: avinahmadi.bandcamp.com-track-dopelk
+      quote: 'Vocal, Oud, Poem & Composer : Avin Ahmadi'
+      accessed: 2026-11-21
+      locator: Credits and track listing
+    qualifiers:
+      role:
+      - oud
+      - vocals
+  - value: Q5kc8ae
+    references:
+    - source: music.apple.com-at-album-dopelk-single-1694958019
+      quote: Michael Alves
+      accessed: 2026-11-21
+      locator: Edition artist billing
+    - source: avinahmadi.bandcamp.com-track-dopelk
+      quote: 'Violin: Michael Alves'
+      accessed: 2026-11-21
+      locator: Credits and track listing
+    qualifiers:
+      role:
+      - violin
+  contributor:
+  - value: Qtcm49a
+    qualifiers:
+      role:
+      - composer
+      - lyricist
+    references:
+    - source: avinahmadi.bandcamp.com-track-dopelk
+      quote: 'Vocal, Oud, Poem & Composer : Avin Ahmadi'
+      accessed: 2026-11-21
+      locator: Credits and track listing
