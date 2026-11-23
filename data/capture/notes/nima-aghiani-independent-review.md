@@ -1,3 +1,0 @@
-# Nima Aghiani independent review
-
-9.2/10. Sources 1.9, prose 1.9, catalogue 2.8, images 0.9, gaps 1.7. The Lisbon festival explicitly identifies both musicians as the composers and live performers for Ali Moini’s 2016 piece. The original trailer was uploaded by Moini’s company. The Goethe-Institut commissioning record documents a distinct audiovisual commission with Rainer Kohlberger. Both now appear in a chronology that also covers early Petroglyph music, Safir and the later solo catalogue. The item inventory distinguishes the duo's group recording credits. In the final render each locale has 94 panels, 191 decoded images, intact anchors and no horizontal overflow at the tested widths.

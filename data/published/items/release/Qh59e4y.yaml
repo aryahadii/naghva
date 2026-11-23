@@ -1,0 +1,46 @@
+id: Qh59e4y
+type: release
+statements:
+  name:
+  - value:
+      text: Verses in the Wind
+      language: en
+    references:
+    - &id001
+      source: hooshyarkhayam.com-discography
+      quote: 'Verses in the Wind
+
+        2014'
+      accessed: '2026-11-21'
+  performer:
+  - value: Q37yw32
+    references:
+    - source: music.apple.com-us-album-1755231722
+      quote: Listen to Verses in the Wind by Farzaneh Joorabchi & Hooshyar Khayam
+      accessed: '2026-11-21'
+  - value: Qsr6hr2
+    references:
+    - source: music.apple.com-us-album-1755231722
+      quote: Listen to Verses in the Wind by Farzaneh Joorabchi & Hooshyar Khayam
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2014'
+    references:
+    - *id001
+  listen link:
+  - value: https://music.apple.com/us/album/verses-in-the-wind/1755231722
+    references:
+    - source: music.apple.com-us-album-1755231722
+      quote: Listen to Verses in the Wind by Farzaneh Joorabchi & Hooshyar Khayam
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/0c/24/690c24f2-6471-23a8-a8be-3019704e9ded/3760191121003.png/632x632bb.webp
+    references:
+    - source: music.apple.com-us-album-1755231722
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/0c/24/690c24f2-6471-23a8-a8be-3019704e9ded/3760191121003.png/632x632bb.webp
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en

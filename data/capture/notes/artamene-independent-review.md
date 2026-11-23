@@ -1,7 +1,0 @@
-# Independent review of Artamene
-
-The initial bilingual pages had 21 panels, 49 decoded images in each locale, valid article fragments and no horizontal overflow. The licensing agreement, copyright credit, eight tracks, drummer and guitarist brothers, line-up change and accounts of the late-2018 concert agree with the band and venue sources. The earliest digital solo single and subsequent licensed album are distinguishable. The similarly named orchestral account offers no evidence of common membership. The Canadian BandMix recruitment profile identifies the Iranian band, points to its own site and explains Pedram’s wish to continue it with new players. The first version stopped at the release of Ziggurat. Initial score **8.8/10**.
-
-In the revised articles this last phase appears as a recruitment notice. The venue listing and the band’s early interviews add context to the musicians’ route to public concerts. I rechecked the desktop English and mobile Persian pages, including all 21 panels and 49 images per language, with no broken fragments or horizontal overflow. Final independent score **9.1/10** (sources 1.9, article 1.8, catalogue 2.6, imagery 0.9, reader experience 1.9). Article and catalogue ready.
-
-[Band recruitment notice](https://www.bandmix.ca/artamene/) · [Interview with Pedram](https://www.al-monitor.com/originals/2018/09/iranian-metal-groups-inch-toward-acceptance.html) · [Official channel](https://www.youtube.com/channel/UCJeNNtMjpZrCmUzBPu6A87w/videos)

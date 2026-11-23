@@ -1,0 +1,36 @@
+id: Qwjzkeb
+type: release
+statements:
+  name:
+  - value:
+      text: Exir
+      language: en
+    references:
+    - source: itunes.apple.com-lookup-305366465
+      quote: '"artistName":"Kahtmayan", "collectionName":"Exir"'
+      accessed: '2026-11-21'
+  performer:
+  - value: Q4c28kf
+    references:
+    - source: itunes.apple.com-lookup-305366465
+      quote: '"artistName":"Kahtmayan", "collectionName":"Exir"'
+      accessed: '2026-11-21'
+  release type:
+  - value: album
+    references:
+    - source: itunes.apple.com-lookup-305366465
+      quote: '"artistName":"Kahtmayan", "collectionName":"Exir"'
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2005-09-01'
+    references:
+    - source: www.metal-archives.com-albums-kahtmayan-exir-89837
+      quote: September 1st, 2005
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://music.apple.com/us/album/exir/305366465
+    references:
+    - source: itunes.apple.com-lookup-305366465
+      quote: https://music.apple.com/us/album/exir/305366465?uo=4
+      accessed: '2026-11-21'

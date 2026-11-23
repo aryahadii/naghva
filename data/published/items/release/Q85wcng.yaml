@@ -1,0 +1,37 @@
+id: Q85wcng
+type: release
+statements:
+  name:
+  - value:
+      text: Rahbar Naame
+      language: en
+    references:
+    - &id001
+      source: music.apple.com-us-album-1577846130
+      quote: Listen to Rahbar Naame by TarantisT
+      accessed: '2026-11-21'
+  performer:
+  - value: Q3xvvkd
+    references:
+    - *id001
+  release date:
+  - value:
+      date: '2019-08-08'
+    references:
+    - source: music.apple.com-us-album-1577846130
+      quote: '"datePublished":"2019-08-08"'
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://music.apple.com/us/album/rahbar-naame/1577846130
+    references:
+    - *id001
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/16/4f/ae/164faeb0-0169-3fe2-d259-86e116d4255f/artwork.jpg/632x632bb.webp
+    references:
+    - source: music.apple.com-us-album-1577846130
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/16/4f/ae/164faeb0-0169-3fe2-d259-86e116d4255f/artwork.jpg/632x632bb.webp
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en

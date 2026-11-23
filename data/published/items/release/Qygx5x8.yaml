@@ -45,7 +45,7 @@ statements:
       locator: Exact edition or recording
   - value: https://open.spotify.com/track/5EwTPzDrGf6kNERQQOw5g8
     references:
-    - source: siamak-jahangiri-ed3q8srkpcznjdycv4lmyd05
+    - source: open.spotify.com-embed-album-3q8srkpcznjdycv4lmyd05
       quote: spotify:track:5EwTPzDrGf6kNERQQOw5g8
       accessed: '2026-11-21'
       locator: Spotify recording

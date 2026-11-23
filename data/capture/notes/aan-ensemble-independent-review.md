@@ -1,3 +1,0 @@
-# Ān Ensemble independent review, 9.2/10
-
-Catalogue and article pass. The manager’s original interviews and Mahoor’s release notice confirm the founding six, rotating programme leadership and changing membership. The later Neshan issue includes eight individually identified pieces, while Bright Sun has album-level and original concert billing. The three filmed performances and three making-of films remain distinct. I found no native complete track listing for the earlier CDs. Both checkpoint 53 pages contain 17 panels and 37 decoded images. Internal fragments passed and the tested 1280-pixel and 390-pixel pages fit their viewports. Scores for sources, writing, catalogue, images and gaps were 1.9/2, 1.8/2, 2.8/3, 1/1 and 1.7/2.

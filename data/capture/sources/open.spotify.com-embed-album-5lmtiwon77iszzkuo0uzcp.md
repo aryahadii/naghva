@@ -1,6 +1,7 @@
 ---
 url: https://open.spotify.com/embed/album/5lmtIwON77isZZkuO0Uzcp
 title: 'The Dastgahs of Persian Music: Dastgah-e Nava (Female) - Hossein Alizadeh | Spotify'
+kind: web page
 status: processed
 language: en
 tier: own

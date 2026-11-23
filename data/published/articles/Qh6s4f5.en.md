@@ -10,11 +10,6 @@ references:
     quote: la scène musicale interdite de Téhéran
     accessed: '2026-11-21'
     locator: Artist interview, biography or performance credits
-  name:
-    source: kayhan.london-1403-01-11-345538
-    quote: مشکات مساوات
-    accessed: '2026-11-21'
-    locator: Artist interview, biography or performance credits
   artist:
     source: open.spotify.com-artist-7kphxixpuk0pzkcvbteedt
     quote: Meshkat Mosavat

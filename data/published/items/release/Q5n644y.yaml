@@ -1,0 +1,78 @@
+id: Q5n644y
+type: release
+statements:
+  name:
+  - value:
+      text: Royâ
+      language: en
+    references:
+    - source: phenotypicrecordings.bandcamp.com-album-roy
+      quote: Royâ رویا
+      accessed: '2026-11-21'
+  - value:
+      text: رویا
+      language: fa
+    references:
+    - source: phenotypicrecordings.bandcamp.com-album-roy
+      quote: Royâ رویا
+      accessed: '2026-11-21'
+  performer:
+  - value: Q9erexs
+    references:
+    - source: phenotypicrecordings.bandcamp.com-album-roy
+      quote: Thalea String Quartet; Katherine Dowling, piano; Saina Alikhani, soprano
+      accessed: '2026-11-21'
+  - value: Qrsvegz
+    references:
+    - source: phenotypicrecordings.bandcamp.com-album-roy
+      quote: Thalea String Quartet; Katherine Dowling, piano; Saina Alikhani, soprano
+      accessed: '2026-11-21'
+    qualifiers:
+      role:
+      - piano
+  - value: Qxxwnph
+    references:
+    - source: phenotypicrecordings.bandcamp.com-album-roy
+      quote: Thalea String Quartet; Katherine Dowling, piano; Saina Alikhani, soprano
+      accessed: '2026-11-21'
+    qualifiers:
+      role:
+      - vocals
+  contributor:
+  - value: Qsr6hr2
+    references:
+    - source: phenotypicrecordings.com-hooshyar-khayam-roya
+      quote: Composer Hooshyar Khayam
+      accessed: '2026-11-21'
+    qualifiers:
+      role:
+      - composer
+  release date:
+  - value:
+      date: '2026-11-20'
+    references:
+    - source: phenotypicrecordings.bandcamp.com-album-roy
+      quote: 20 Nov 2026 00:00:00 GMT
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://phenotypicrecordings.bandcamp.com/album/roy
+    references:
+    - source: phenotypicrecordings.bandcamp.com-album-roy
+      quote: Royâ رویا
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://f4.bcbits.com/img/a3534724229_10.jpg
+    references:
+    - source: phenotypicrecordings.bandcamp.com-album-roy
+      quote: https://f4.bcbits.com/img/a3534724229_10.jpg
+      accessed: '2026-11-21'
+    - source: phenotypicrecordings.bandcamp.com-album-roy
+      quote: 'Original Artwork: Pariyoush Ganji, "Moon", Oil on canvas, 2025'
+      accessed: '2026-11-21'
+    - source: phenotypicrecordings.bandcamp.com-album-roy
+      quote: 'Art Direction & Graphic Design: Christopher Kornmann for Spit + Image'
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Pariyoush Ganji (painting), Christopher Kornmann (design)
+        language: en

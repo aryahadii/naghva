@@ -31,48 +31,15 @@ references:
     quote: |-
       Listen to Mikeshaniam - Single by Makhoola on Apple Music. 2025. 1 Song. Duration: 6 minutes.
     accessed: '2026-10-19'
-  catalogue2:
-    source: music.apple.com-us-album-az-talar-haye-zire-ab-single-1774403318-fde1e9b05a24
+  rasht:
+    source: 7sobh.com-d8-a8-d8-ae-d8-b4--d9-81-d8-b1-d9-87-d9-86-da-af-db-8c-46-40552942--d8-a7-d9-85-d8-b6-d8-a7-db-8c--19a02de91a35
     quote: |-
-      Listen to Az Talar Haye Zire Ab - Single by Makhoola on Apple Music. 2024. 1 Song. Duration: 4 minutes.
-    accessed: '2026-10-19'
-  catalogue3:
-    source: music.apple.com-us-album-akharinha-single-1747586608-d1b6250fca63
-    quote: |-
-      Listen to Akharinha - Single by Makhoola on Apple Music. 2024. 1 Song. Duration: 5 minutes.
-    accessed: '2026-10-19'
-  catalogue4:
-    source: music.apple.com-us-album-canada-single-1739581110-7702df78978f
-    quote: |-
-      Listen to Canada - Single by Makhoola on Apple Music. 2024. 1 Song. Duration: 4 minutes.
-    accessed: '2026-10-19'
-  catalogue5:
-    source: music.apple.com-us-album-raaz-single-1728009485-d4782a7ea1f6
-    quote: |-
-      Listen to Raaz - Single by Makhoola on Apple Music. 2024. 1 Song. Duration: 4 minutes.
-    accessed: '2026-10-19'
-  catalogue6:
-    source: music.apple.com-us-album-nemikaham-single-1723051066-6196c0d93a89
-    quote: |-
-      Listen to Nemikaham - Single by Makhoola on Apple Music. 2024. 1 Song. Duration: 2 minutes.
-    accessed: '2026-10-19'
-  catalogue7:
-    source: music.apple.com-us-album-darvag-single-1715126900-21565756a544
-    quote: |-
-      Listen to Darvag - Single by Makhoola on Apple Music. 2023. 1 Song. Duration: 5 minutes.
-    accessed: '2026-10-19'
+      مودی اول ووکالیست و لیدگیتاریست (تک نوازی گیتار) گروه ماخولا بود اما از این گروه رشتی مدتی بعد جدا شد.
+    accessed: '2026-11-21'
 ---
 
-Makhoola is an alternative-rock band. Its own channel dates the beginning of its activity to 1392 in the Solar Hijri calendar and describes a collective interested in pursuing different ideas without adhering to a single style or sound.[^beginnings][^approach]
+Makhoola is an alternative rock band from Rasht that started in 2013–14. [Moody Moussavi](/en/moody-moussavi-v5y/) was an early singer and lead guitarist. He later left the band. Its recordings include the nine-track album [*The Rooster*](#the-rooster-q8z) (2021).[^beginnings][^rasht][^rooster]
 
-## Poetry and ensemble
+## Setting poetry to music
 
-Mikeshaniam sets a poem by Forough Farrokhzad to music. On this recording, امیر بال‌افشان sings and plays guitar, with آرش منصف on guitar, سینا گل‌نقره on bass, نیما علیزاده on synthesizer and روزبه اسماعیلی on drums.[^poetry]
-
-## Recordings
-
-[The Rooster](#the-rooster-q8z) is available on Apple Music under the band’s name, Makhoola, with a date of 2021.[^rooster]
-
-## Singles
-
-The band’s singles on Apple Music include Mikeshaniam,[^catalogue0] Az Talar Haye Zire Ab,[^catalogue2] Akharinha,[^catalogue3] Canada,[^catalogue4] Raaz,[^catalogue5] Nemikaham[^catalogue6] and Darvag.[^catalogue7]
+The musicians described choosing a style to suit each idea they wanted to try. On the 2025 single [“Mikeshaniam”](#mikeshaniam-single-7re), they set a poem by Forough Farrokhzad to music. Amir Balafshan sang and played guitar, with a second guitar and synthesizer alongside bass and drums.[^approach][^poetry][^catalogue0]

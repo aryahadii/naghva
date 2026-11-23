@@ -1,0 +1,117 @@
+id: Q9z6phy
+type: release
+statements:
+  name:
+  - value:
+      text: Syzygys
+      language: en
+    references:
+    - source: unperceivedrecords.bandcamp.com-album-syzygys
+      quote: Syzygys
+      accessed: '2026-11-21'
+    - source: unperceivedrecords.bandcamp.com-album-syzygys
+      quote: Syzygys | 9T Antiope | Unperceived Records
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qyv32ms
+    references:
+    - source: unperceivedrecords.bandcamp.com-album-syzygys
+      quote: 9T Antiope
+      accessed: '2026-11-21'
+    - source: unperceivedrecords.bandcamp.com-album-syzygys
+      quote: 9T Antiope
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Qz5swxp
+    qualifiers:
+      role:
+      - vocals
+    references:
+    - source: unperceivedrecords.bandcamp.com-album-syzygys
+      quote: 'Sara Bigdeli Shamloo: Vocals, Lyrics'
+      accessed: '2026-11-21'
+    - source: unperceivedrecords.bandcamp.com-album-syzygys
+      quote: 'Sara Bigdeli Shamloo: Vocals, Lyrics'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  release date:
+  - value:
+      date: '2015-12-11'
+    references:
+    - source: unperceivedrecords.bandcamp.com-album-syzygys
+      quote: 11 Dec 2015 00:00:00 GMT
+      accessed: '2026-11-21'
+    - source: unperceivedrecords.bandcamp.com-album-syzygys
+      quote: released December 11, 2015
+      accessed: '2026-11-21'
+      locator: Published date
+  listen link:
+  - value: https://unperceivedrecords.bandcamp.com/album/syzygys
+    references:
+    - source: unperceivedrecords.bandcamp.com-album-syzygys
+      quote: Syzygys
+      accessed: '2026-11-21'
+    - source: unperceivedrecords.bandcamp.com-album-syzygys
+      quote: Syzygys | 9T Antiope | Unperceived Records
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a4089790769_10.jpg
+    references:
+    - source: unperceivedrecords.bandcamp.com-album-syzygys
+      quote: https://f4.bcbits.com/img/a4089790769_10.jpg
+      accessed: '2026-11-21'
+    - source: unperceivedrecords.bandcamp.com-album-syzygys
+      quote: Cover artwork by Melanie Kurhan
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Melanie Kurhan
+        language: en
+  - value: https://f4.bcbits.com/img/a4089790769_10.jpg
+    references:
+    - source: unperceivedrecords.bandcamp.com-album-syzygys
+      quote: https://f4.bcbits.com/img/a4089790769_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original digital edition
+        language: en
+  contributor:
+  - value: Qz5swxp
+    qualifiers:
+      role:
+      - lyricist
+    references:
+    - source: unperceivedrecords.bandcamp.com-album-syzygys
+      quote: 'Sara Bigdeli Shamloo: Vocals, Lyrics'
+      accessed: '2026-11-21'
+  - value: Qgncp5r
+    qualifiers:
+      role:
+      - composer
+    references:
+    - source: unperceivedrecords.bandcamp.com-album-syzygys
+      quote: 'Nima Aghiani: Composer, Producer'
+      accessed: '2026-11-21'
+    - source: unperceivedrecords.bandcamp.com-album-syzygys
+      quote: 'Nima Aghiani: Composer, Producer'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Qgncp5r
+    qualifiers:
+      role:
+      - producer
+    references:
+    - source: unperceivedrecords.bandcamp.com-album-syzygys
+      quote: 'Nima Aghiani: Composer, Producer'
+      accessed: '2026-11-21'
+  release type:
+  - value: album
+    references:
+    - source: unperceivedrecords.bandcamp.com-album-syzygys
+      quote: Syzygys | 9T Antiope | Unperceived Records
+      accessed: '2026-11-21'
+      locator: Page title

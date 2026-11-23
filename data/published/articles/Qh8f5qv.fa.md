@@ -83,7 +83,7 @@ references:
     accessed: 2026-11-21
     locator: Album credits
   joined:
-    source: kviff.com-summer-with-hope-press-notes
+    source: www.kviff.com-en-programme-film-59-37638-presskit-1.pdf
     quote: He is a member of the Iranian Progressive Jazz group "Quartet Diminished" since 2016.
     accessed: '2026-11-21'
     locator: Soheil Peyghambari, Music

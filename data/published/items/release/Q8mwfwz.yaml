@@ -10,6 +10,10 @@ statements:
       quote: Terminal 1 - EP
       accessed: '2026-11-21'
       locator: Native edition title
+    - source: music.apple.com-us-album-badeh-1455191037
+      quote: Terminal 1 - EP
+      accessed: '2026-11-21'
+      locator: Digital edition
   release type:
   - value: ep
     references:
@@ -17,6 +21,10 @@ statements:
       quote: Terminal 1 - EP
       accessed: '2026-11-21'
       locator: Native edition title
+    - source: music.apple.com-us-album-badeh-1455191037
+      quote: Terminal 1 - EP
+      accessed: '2026-11-21'
+      locator: Digital edition
   listen link:
   - value: https://music.apple.com/us/album/darya/1455191037
     references:
@@ -30,6 +38,16 @@ statements:
       quote: Terminal 1 - EP
       accessed: '2026-11-21'
       locator: Release heading
+    - source: open.spotify.com-embed-album-5ulr2wowsbdutsefylyvbg
+      quote: Terminal 1 - EP
+      accessed: '2026-11-21'
+      locator: Spotify album
+  - value: https://music.apple.com/us/album/badeh/1455191037
+    references:
+    - source: music.apple.com-us-album-badeh-1455191037
+      quote: Terminal 1 - EP
+      accessed: '2026-11-21'
+      locator: Digital edition
   performer:
   - value: Qy88zyz
     references:
@@ -37,12 +55,20 @@ statements:
       quote: Terminal 1 - EP
       accessed: '2026-11-21'
       locator: Native edition title
+    - source: music.apple.com-us-album-badeh-1455191037
+      quote: Erwin Khachikian
+      accessed: '2026-11-21'
+      locator: Artist credit
   - value: Qb269ps
     references:
     - source: music.apple.com-us-album-darya-1455191037
       quote: Terminal 1 - EP
       accessed: '2026-11-21'
       locator: Native edition title
+    - source: music.apple.com-us-album-badeh-1455191037
+      quote: Terminal 1 - EP
+      accessed: '2026-11-21'
+      locator: Digital edition
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/52/c9/b1/52c9b1f9-d293-2240-21a8-6c54788988c4/193428789500.jpg/1200x630wp-60.jpg
     qualifiers:
@@ -54,6 +80,16 @@ statements:
       quote: https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/52/c9/b1/52c9b1f9-d293-2240-21a8-6c54788988c4/193428789500.jpg/1200x630wp-60.jpg
       accessed: '2026-11-21'
       locator: Release cover
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/52/c9/b1/52c9b1f9-d293-2240-21a8-6c54788988c4/193428789500.jpg/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Digital artwork via Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-badeh-1455191037
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/52/c9/b1/52c9b1f9-d293-2240-21a8-6c54788988c4/193428789500.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Edition artwork
   release date:
   - value:
       date: '2019-02-15'
@@ -62,3 +98,7 @@ statements:
       quote: '2019-02-15'
       accessed: '2026-11-21'
       locator: Release date
+    - source: music.apple.com-us-album-badeh-1455191037
+      quote: '2019-02-15'
+      accessed: '2026-11-21'
+      locator: Issue date

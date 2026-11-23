@@ -36,14 +36,22 @@ references:
       Format:
       DVD
     accessed: '2026-10-19'
+  founding:
+    source: ihtmusic.iht-group.ir-ms-artists-kahtmayan-0d5b0ab9dd44
+    quote: |-
+      کَهت‌مَیان یک گروه موسیقی پراگرسیو متال است که در سال ۱۳۸۱ توسط همایون مجدزاده، نوازنده گیتارالکتریک تشکیل شد، و با پیوستن اردوان انزابی‌پور، نوازنده گیتار باس، خالد سندزاده نوازنده درام و علی خدادوست نوازنده کیبرد به صورت رسمی شروع به کار کرد.
+    accessed: '2026-10-19'
+  date:
+    source: www.metal-archives.com-albums-kahtmayan-exir-89837
+    quote: |-
+      September 1st, 2005
+    accessed: '2026-11-21'
 ---
 
-Kahtmayan is a metal band from Iran. A 2007 profile notes that guitarist Homayoon Majdzadeh had written much of its music before the band began.[^identity]
+Kahtmayan is an Iranian metal band formed by guitarist Homayoon Majdzadeh. He had already written much of the group’s music when it began in January 2003. The musicians started out playing progressive metal and developed a heavier thrash sound on [*Exir*](#exir-wjz).[^identity][^founding][^style][^thrash]
 
-## Instrumental metal
+## From progressive metal to Exir
 
-In a 2014 interview, the band described beginning with progressive metal, then turning to instrumental music in response to conditions in Iran. The band said it moved toward thrash metal with *Exir*.[^style][^thrash]
+Bass, drums and keyboards joined Majdzadeh’s electric guitar in the early band. The musicians said that conditions in Iran had led them to play instrumental music.[^founding][^style] They released *Exir* in 2005. Guitarist Nahid Atefi played on “Auricle”, one of the album’s eight tracks.[^date][^dvd]
 
-## Live in Studio: The Last Station
-
-This DVD and CD package documents an *Exir* performance at Tehran's BAM Studio on January 16, 2006, alongside the instrumental album on CD. Encyclopaedia Metallum catalogs the video as an independent 2006 release.[^dvd][^independent]
+In January 2006 Kahtmayan played music from *Exir* live at BAM Studio in Tehran. The group paired the filmed performance with the full studio album on CD for [*Live in Studio: The Last Station*](#live-in-studio-the-last-station-ysk).[^dvd][^independent]

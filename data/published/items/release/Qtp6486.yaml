@@ -1,0 +1,43 @@
+id: Qtp6486
+type: release
+statements:
+  name:
+  - value:
+      text: DAMAVAND
+      language: en
+    references:
+    - &id001
+      source: music.apple.com-us-album-1829161417
+      quote: Listen to DAMAVAND by Hamed Nikpay, Loga Ramin Torkian & Alireza Koliai
+      accessed: '2026-11-21'
+  performer:
+  - value: Q58fwhs
+    references:
+    - *id001
+  - value: Qce35vn
+    references:
+    - *id001
+  - value: Qf2s8jj
+    references:
+    - *id001
+  release date:
+  - value:
+      date: '2025-09-04'
+    references:
+    - source: music.apple.com-us-album-1829161417
+      quote: '"datePublished":"2025-09-04"'
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://music.apple.com/us/album/damavand/1829161417
+    references:
+    - *id001
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d7/b9/b3/d7b9b3e4-0303-0297-16be-07bf886b9718/artwork.jpg/632x632bb.webp
+    references:
+    - source: music.apple.com-us-album-1829161417
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d7/b9/b3/d7b9b3e4-0303-0297-16be-07bf886b9718/artwork.jpg/632x632bb.webp
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en

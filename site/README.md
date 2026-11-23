@@ -90,12 +90,24 @@ the HTML, not loaded afterwards.
 
 ### Homepage
 
-The title and the search bar sit in the night sky of a painted garden, then
-the latest releases follow in one row, newest first, ending on the way to the
-Timeline. A few names under the search bar fill it in. Search answers as
-you type, over names in both scripts, and folds Persian spelling variants
-(`ي`/`ی`, `ك`/`ک`, zero-width non-joiners, digits). Results are links, and
-the keyboard moves through them.
+The title and the search bar sit above the star map, then the latest releases
+follow in one row, newest first, ending on the way to the Timeline. A few
+names under the search bar fill it in. Search answers as you type, over names
+in both scripts, and folds Persian spelling variants (`ي`/`ی`, `ك`/`ک`,
+zero-width non-joiners, digits). Results are links, and the keyboard moves
+through them.
+
+The star map is every person, group and recording in the record as a star,
+linked by credits and by membership (`/sky.json`, which both languages read).
+
+- In the page it is a preview. It lights one artist after another with that
+  artist's links, and it leaves every scroll and swipe to the page.
+- A click or a tap opens it over the whole window, where it pans and zooms.
+  Choosing a star flies to it and shows a card beside it: its picture, its
+  name in both scripts, a fact or two, and the link to its page or to its
+  recording's panel. The search box there finds a star by name.
+- The open map and its star are in the address (`/en/?star=golsa-h74`), so
+  Back closes the map, and each Artist page links to its own star.
 
 ### Timeline
 
@@ -162,12 +174,11 @@ the `naghva-media/` folder inside npm's configured cache, which Workers
 Builds restores when Build Cache is enabled. It survives `npm ci`. A cold cache still downloads and resizes the images; later
 builds reuse them. Copies are keyed by image hash, width and encoder version.
 
-In CI, only builds of `main` get the read-only key (the `R2_READ_*`
-secrets), and keep the originals in the Actions cache, so a build reads from
-R2 only when `media.json` changes. They also set
-`NAGHVA_MEDIA_REQUIRED=1`, so `main` fails when an image has no own copy or
-the licensed fonts are missing. Every other build, such as a pull request from a
-fork, shows images from their publishers, and the page tries the publisher
+Only Cloudflare's build holds the read-only key (its build variables
+`R2_ACCOUNT_ID`, `R2_ACCESS_KEY_ID` and `R2_SECRET_ACCESS_KEY`), with
+`NAGHVA_MEDIA_REQUIRED=1`, so a deploy fails when an image has no own copy or
+the licensed fonts are missing. GitHub's checks and other builds without the
+key show images from their publishers, and the page tries the publisher
 too if an own copy fails to load. The build reads each image's width and
 height from `media.json` so the page keeps its place while it loads. Each
 image is credited under it with its source. A release without cover art

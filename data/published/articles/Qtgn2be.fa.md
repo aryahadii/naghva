@@ -275,56 +275,6 @@ references:
     quote: |-
       2023: Desolateville
     accessed: '2026-10-19'
-  toro:
-    source: music.apple.com-us-album-to-ro-mikham-single-1354832816
-    quote: |-
-      February 28, 2018
-    accessed: '2026-11-09'
-  toro-name:
-    source: music.apple.com-us-album-to-ro-mikham-single-1354832816
-    quote: |-
-      To Ro Mikham - Single - Album by Kiosk - Apple Music
-    accessed: '2026-11-09'
-  mj:
-    source: music.apple.com-us-album-michael-jackson-passed-away-single-1519945464
-    quote: |-
-      June 16, 2020
-    accessed: '2026-11-09'
-  mj-name:
-    source: music.apple.com-us-album-michael-jackson-passed-away-single-1519945464
-    quote: |-
-      Michael Jackson Passed Away - Single - Album by Kiosk - Apple Music
-    accessed: '2026-11-09'
-  mah:
-    source: music.apple.com-us-album-mah-single-1525448042
-    quote: |-
-      July 27, 2020
-    accessed: '2026-11-09'
-  mah-name:
-    source: music.apple.com-us-album-mah-single-1525448042
-    quote: |-
-      Mah - Single - Album by Kiosk - Apple Music
-    accessed: '2026-11-09'
-  mottaham:
-    source: music.apple.com-us-album-mottaham-feat-houman-javid-single-1658938996
-    quote: |-
-      December 5, 2022
-    accessed: '2026-11-09'
-  mottaham-name:
-    source: music.apple.com-us-album-mottaham-feat-houman-javid-single-1658938996
-    quote: |-
-      Mottaham (feat. Houman Javid) - Single - Album by Kiosk - Apple Music
-    accessed: '2026-11-09'
-  daro:
-    source: music.apple.com-us-album-daro-va-kon-single-1712969750
-    quote: |-
-      November 1, 2023
-    accessed: '2026-11-09'
-  daro-name:
-    source: music.apple.com-us-album-daro-va-kon-single-1712969750
-    quote: |-
-      Daro Va Kon - Single - Album by Kiosk - Apple Music
-    accessed: '2026-11-09'
   yh:
     source: ca.news.yahoo.com-15-essential-iranian-protest-songs-192952439.html
     quote: |-
@@ -344,11 +294,6 @@ references:
     source: en.wikipedia.org-wiki-kiosk_-band
     quote: |-
       Documentary: "Kiosk, A Generation Destroyed By Madness" by director Ala Mohseni, produced by Maziar Bahari
-    accessed: '2026-11-09'
-  wkb-tour:
-    source: en.wikipedia.org-wiki-kiosk_-band
-    quote: |-
-      Kiosk has toured extensively throughout countries including the US, Canada, the UK, the Netherlands, France, Germany, Italy, Sweden, Norway, Lebanon, and Australia.
     accessed: '2026-11-09'
 ---
 
@@ -382,8 +327,8 @@ references:
 
 آلبوم [«پایان شیرین»](#sweet-destiny-pjc)، با عنوان انگلیسی *Sweet Destiny*، از آرزوی قدیمی سبحانی برای ساختن یک فیلم موزیکال شکل گرفت.[^sweet-title][^sweet-work] او در اوت ۲۰۲۱ گفت که گروه با امکاناتی محدود، حدود چهار سال روی این آلبوم کار کرده است.[^sweet-work] در این مدت، کیوسک آلبومی منتشر نکرد تا بر همین پروژه متمرکز بماند.[^sweet-focus] به نوشتهٔ ویکی‌پدیای فارسی، داستان آلبوم واپسین لحظه‌های زندگی مردی را روایت می‌کند که همراه قاصدی کر و لال برای اجرای حکم اعدامش فرستاده شده است و هیچ‌کس نمی‌داند جرمش چیست؛ آلبوم به خانواده‌های اعدام‌شدگان تقدیم شده است.[^fa-sweet][^fa-dedic] «پایان شیرین» در سال ۲۰۲۱ و پس از آن [*Desolateville*](#desolateville-cep) در سال ۲۰۲۳ منتشر شد.[^recent][^latest]
 
-## تک‌آهنگ‌ها و تصویر
+## سینما و موسیقی اعتراضی
 
-کیوسک در فاصلهٔ آلبوم‌ها تک‌آهنگ‌هایی هم منتشر کرد: [«To Ro Mikham»](#to-ro-mikham-grr) در سال ۲۰۱۸ میلادی، [«Michael Jackson Passed Away»](#michael-jackson-passed-away-rcy) و [«Mah»](#mah-74t) در ۲۰۲۰، [«Mottaham»](#mottaham-frc) با همراهی هومن جاوید در دسامبر ۲۰۲۲ و [«Daro Va Kon»](#daro-va-kon-6fv) در نوامبر ۲۰۲۳.[^toro][^toro-name][^mj][^mj-name][^mah][^mah-name][^mottaham][^mottaham-name][^daro][^daro-name] در جریان اعتراض‌های سال ۱۴۰۱، گروه با همراهی حدود بیست خواننده ترانهٔ «Zan Zendegi Azadi» را بر پایهٔ شعار «زن، زندگی، آزادی» ساخت.[^yh]
+در جریان اعتراض‌های سال ۱۴۰۱، گروه با همراهی حدود بیست خواننده ترانهٔ «Zan Zendegi Azadi» را بر پایهٔ شعار «زن، زندگی، آزادی» ساخت.[^yh]
 
-ترانه‌های کیوسک در فیلم *A Girl Walks Home Alone at Night* و در قسمت ایرانِ برنامهٔ *Parts Unknown* آنتونی بوردین پخش شده‌اند. مستند *Kiosk, A Generation Destroyed By Madness* هم دربارهٔ این گروه ساخته شده است.[^wkb-girl][^wkb-bourdain][^wkb-doc] کیوسک در آمریکا، کانادا، بریتانیا، چند کشور اروپایی، لبنان و استرالیا تور برگزار کرده است.[^wkb-tour] علی کمالی (باس)، سبحانی و شهروز مولایی (درامز) از اعضای گروه‌اند.[^profile]
+ترانه‌های کیوسک در فیلم *A Girl Walks Home Alone at Night* و در قسمت ایرانِ برنامهٔ *Parts Unknown* آنتونی بوردین پخش شده‌اند. مستند *Kiosk, A Generation Destroyed By Madness* هم دربارهٔ این گروه ساخته شده است.[^wkb-girl][^wkb-bourdain][^wkb-doc]

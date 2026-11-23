@@ -40,41 +40,6 @@ references:
     quote: |-
       Egosystem - Album by Peter Soleimanipour - Apple Music
     accessed: '2026-10-19'
-  qeshm:
-    source: music.apple.com-us-album-qeshm-island-1749090230
-    quote: |-
-      Qeshm Island
-    accessed: '2026-10-23'
-  qeshm-date:
-    source: music.apple.com-us-album-qeshm-island-1749090230
-    quote: |-
-      2002-01-01
-    accessed: '2026-10-23'
-  qeshm-billing:
-    source: music.apple.com-us-album-qeshm-island-1749090230
-    quote: |-
-      Various Artists
-    accessed: '2026-10-23'
-  daryadaad:
-    source: music.apple.com-us-song-daryadaad-1749090640
-    quote: |-
-      Daryadaad
-    accessed: '2026-10-23'
-  daryadaad-credit:
-    source: music.apple.com-us-song-daryadaad-1749090640
-    quote: |-
-      Peter Soleimanipour
-    accessed: '2026-10-23'
-  daryadaad-album:
-    source: music.apple.com-us-song-daryadaad-1749090640
-    quote: |-
-      Qeshm Island
-    accessed: '2026-10-23'
-  daryadaad-duration:
-    source: music.apple.com-us-song-daryadaad-1749090640
-    quote: |-
-      7:30
-    accessed: '2026-10-23'
   lyra:
     source: music.apple.com-us-album-lyra-hymn-1770150258
     quote: |-
@@ -95,20 +60,36 @@ references:
     quote: |-
       Peter Soleimanipour plays bass clarinet, Soheil Peyghambari plays Clarinet, and Makan Ashgvari plays piano and sings.
     accessed: '2026-10-23'
+  year:
+    source: iranianmusiciansunion.com-peter-soleimanipour-obituary
+    quote: |-
+      سپتامبر 10, 2018
+    accessed: '2026-11-21'
+  day:
+    source: iranianmusiciansunion.com-peter-soleimanipour-obituary
+    quote: |-
+      عصر امروز (یکشنبه ۱۸ شهریور)
+    accessed: '2026-11-21'
+  death:
+    source: iranianmusiciansunion.com-peter-soleimanipour-obituary
+    quote: |-
+      در سن پنجاه سالگی در بیمارستان توس دار فانی را وداع گفت.
+    accessed: '2026-11-21'
+  workshop:
+    source: openaccess.city.ac.uk-id-eprint-14069-10-ch4-bohlman-9780226236032-web.pdf
+    quote: |-
+      In the summer of 2008, Soleimanipour was still active in Tehran, working with the fusion band Fihmafih and his workshop-based Peter Soleimanipour Ensemble.
+    accessed: '2026-11-21'
 ---
 
-پیتر سلیمانی‌پور، آهنگساز و نوازندهٔ سازهای بادی، در سال ۱۳۴۷ خورشیدی در تهران به دنیا آمد. او در نوجوانی نزد کارمن اوسوریو پیانو آموخت و به‌صورت تجربی سراغ گیتار رفت؛ هنگام تحصیل نقاشی در دانشگاه تهران نیز نزد احسان سامعی فلوت آموخت.[^identity][^birth][^learning][^flute]
+پیتر سلیمانی‌پور، آهنگساز و نوازندهٔ سازهای بادی اهل تهران، در دههٔ ۱۳۷۰ از بنیان‌گذاران پرسیکو کوارتت بود. چهار نوازنده با هم قطعاتی از تاریخ جَز را می‌نواختند. بعدها سلیمانی‌پور [آنسامبلی به نام خودش](/fa/peter-soleimanipour-ensemble-2vr/) راه انداخت تا ساخته‌هایش را اجرا کند.[^identity][^birth][^atin][^persiko][^ensemble]
 
-## جَز و گروه‌ها
+## از نقاشی تا جَز
 
-پیتر از ۱۳۷۳ همراه گروه آتین وارد صحنهٔ حرفه‌ای موسیقی شد. همان سال، «پرسیکو کوارتت» را با سه نوازندهٔ دیگر شکل داد؛ گروه با اجرای قطعاتی از تاریخ جَز، این موسیقی را تجربه می‌کرد.[^atin][^persiko]
+سلیمانی‌پور در سال ۱۳۴۷ به دنیا آمد. در نوجوانی پیانو آموخت و خودش با آزمون و خطا گیتار یاد گرفت. وقتی در دانشگاه تهران نقاشی می‌خواند، فلوت را هم آغاز کرد.[^birth][^learning][^flute] در سال ۱۳۷۳ با گروه آتین به صحنهٔ حرفه‌ای رفت و همان سال با سه نوازندهٔ دیگر پرسیکو کوارتت را تشکیل داد.[^atin][^persiko]
 
-در ۱۳۸۴، [آنسامبل پیتر سلیمانی‌پور](/fa/peter-soleimanipour-ensemble-2vr/) را برای اجرای ساخته‌هایش شکل داد. انجمن از [ماهان میرعرب](/fa/mahan-mirarab-7hs/)، [حبیب مفتاح](/fa/habib-meftah-49p/) و [دارا دارایی](/fa/dara-daraee-cm9/) در میان نوازندگانی نام می‌برد که در اجراهای گوناگون گروه حضور داشتند.[^ensemble]
+## ساختن موسیقی برای آنسامبل
 
-## ضبط‌ها و همکاری‌ها
+سلیمانی‌پور در سال ۱۳۸۴ آنسامبل خودش را راه انداخت. [ماهان میرعرب](/fa/mahan-mirarab-7hs/)، [حبیب مفتاح](/fa/habib-meftah-49p/) و [دارا دارایی](/fa/dara-daraee-cm9/) از نوازندگانی بودند که در این گروه ساز زدند. تابستان ۱۳۸۷ هنوز در تهران با این آنسامبل کار می‌کرد و نوازندگان برای کارگاه‌های موسیقی گرد هم می‌آمدند.[^ensemble][^workshop]
 
-در آلبوم خودش، [*Egosystem*](#egosystem-q8a)، پیتر هنرمند اصلی است؛ در مجموعهٔ چندهنرمندی [*Qeshm Island*](#qeshm-island-fhr) نیز با قطعهٔ ۷:۳۰ دقیقه‌ای [«Daryadaad»](#daryadaad-tdg) حضور دارد.[^catalog][^qeshm][^qeshm-date][^qeshm-billing][^daryadaad][^daryadaad-credit][^daryadaad-album][^daryadaad-duration]
-
-در آلبوم ۲۰۱۱ سهیل نفیسی، *Lyra & Hymn*، پیتر به‌عنوان هنرمند مهمان در قطعهٔ «[Taraneh](#taraneh-4dm)» حضور دارد.[^lyra][^lyra-date][^lyra-track]
-
-در «[Bi Saropa](#bi-saropa-q4r)»، پیتر کلارینت باس می‌نوازد و Soheil Peyghambari کلارینت؛ [ماکان اشگواری](/fa/makan-ashgvari-n8j/) نیز پیانو می‌نوازد و آواز می‌خواند.[^bi-saropa]
+سلیمانی‌پور در کنار آلبوم خودش، [«منظومهٔ شخصی»](#egosystem-q8a)، با موسیقی‌دانان دیگر هم کار می‌کرد. در قطعهٔ [«ترانه»](#taraneh-4dm) از آلبوم «چنگ و سرود» [سهیل نفیسی](/fa/soheil-nafisi-hev/) که در سال ۱۳۹۰ منتشر شد، ساز زد. در [«بی‌سروپا»](#bi-saropa-q4r) با کلارینت باس، [ماکان اشگواری](/fa/makan-ashgvari-n8j/) را که پیانو می‌زد و می‌خواند، و سهیل پیغمبری را که کلارینت می‌زد، همراهی کرد.[^catalog][^lyra][^lyra-date][^lyra-track][^bi-saropa] سلیمانی‌پور در شهریور ۱۳۹۷ در پنجاه‌سالگی درگذشت.[^year][^day][^death]

@@ -76,12 +76,12 @@ references:
     accessed: '2026-11-21'
     locator: Performer or presenter archive
   vaxcvvu6cvs8:
-    source: shahrzad-film-axcvvu6cvs8
+    source: www.youtube.com-watchv-axcvvu6cvs8
     quote: تصنيف "قدح" گروه موسيقى شهرزاد
     accessed: '2026-11-21'
     locator: Performer or presenter archive
   vbvhmrhuaalk:
-    source: shahrzad-film-bvhmrhuaalk
+    source: www.youtube.com-watchv-bvhmrhuaalk
     quote: تصنيف بگو به باران (كنسرت گروه موسيقى شهرزاد)
     accessed: '2026-11-21'
     locator: Performer or presenter archive

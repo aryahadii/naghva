@@ -1,0 +1,41 @@
+id: Qccethh
+type: release
+statements:
+  name:
+  - value:
+      text: Verses of the Night
+      language: en
+    references:
+    - &id001
+      source: hooshyarkhayam.com-discography
+      quote: 'Verses of the Night
+
+        2018'
+      accessed: '2026-11-21'
+  performer:
+  - value: Qsr6hr2
+    references:
+    - source: music.apple.com-us-album-1567837734
+      quote: Listen to Verses of the Night by Hooshyar Khayam
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2018'
+    references:
+    - *id001
+  listen link:
+  - value: https://music.apple.com/us/album/verses-of-the-night/1567837734
+    references:
+    - source: music.apple.com-us-album-1567837734
+      quote: Listen to Verses of the Night by Hooshyar Khayam
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e6/02/35/e6023573-a7f7-e62d-f9fc-060edf3206ed/196006625436.jpg/632x632bb.webp
+    references:
+    - source: music.apple.com-us-album-1567837734
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e6/02/35/e6023573-a7f7-e62d-f9fc-060edf3206ed/196006625436.jpg/632x632bb.webp
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en

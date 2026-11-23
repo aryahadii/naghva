@@ -40,12 +40,17 @@ references:
     quote: |-
       Home feat (Soheil Shayesteh)
     accessed: '2026-10-19'
+  comment:
+    source: www.honaronline.ir-d8-a8-d8-ae-d8-b4--d9-85-d9-88-d8-b3-db-8c-d9-82-db-8c-5-135306--d8-ac-d8-b1-d9-82-d9-87--d-66d84681229f
+    quote: |-
+      آرین کشیشی (گیتار بیس) اعضای گروه کامنت هستند.
+    accessed: '2026-10-20'
 ---
 
-Arin Keshishi is an Armenian-Iranian bassist, composer and producer based in Amsterdam. Born in Tehran in 1992, he studied classical double bass at Tehran University of Arts before moving to the Netherlands for a master's degree in jazz bass guitar at the Conservatory of Amsterdam.[^bio][^identity][^origin][^study]
+Arin Keshishi is an Armenian-Iranian bassist, composer and producer based in Amsterdam. He played bass in the Tehran rock band [Comment Band](/en/comment-band-ec3/) and went on to lead his own jazz and fusion group, the Arin Keshishi Project.[^identity][^bio][^comment][^project]
 
-## Self-Reflection
+## From Tehran to Amsterdam
 
-According to his biography, he began leading the Arin Keshishi Project in 2015 and released his debut album, *[Self-Reflection](#self-reflection-qgk)*, in 2023.[^project]
+Keshishi was born in 1992 to an Armenian family in Tehran. He studied classical double bass at Tehran University of Arts, then moved to the Netherlands and studied jazz bass guitar at the Conservatory of Amsterdam.[^origin][^study]
 
-The artist's Bandcamp listing dates the album to December 7, 2023. Soheil Shayesteh appears as a guest on “Home”.[^album][^date][^guest]
+In 2015 he began directing his own band, making jazz and fusion music with musicians from other countries. His first album, [*Self-Reflection*](#self-reflection-qgk), came out in December 2023. [Soheil Shayesteh](/en/soheil-shayesteh-2j5/) joined him on “Home”.[^project][^album][^date][^guest]

@@ -152,6 +152,16 @@ references:
     quote: 'Listen to Rameshgar (feat. Hamed Hamidzadeh, Mehrdad Mcy & Farid Farzianpour) by Golsa & Taha Mazaheri
       on Apple Music. 2026. 7 Songs. Duration: 32 minutes.'
     accessed: '2026-10-19'
+  voice:
+    source: soundcloud.com-golsarz-ey-la-morovvat-3-3fdc2f842aab
+    quote: 'Songwriting & Vocal: Golsa'
+    accessed: '2026-10-21'
+    locator: Ey La Morovvat (album track)
+  guitar:
+    source: soundcloud.com-golsarz-ey-la-morovvat-3-3fdc2f842aab
+    quote: 'Guitar & Arrangement: Taha Mazaheri'
+    accessed: '2026-10-21'
+    locator: Ey La Morovvat (album track)
 ---
 
 Taha Mazaheri is a guitarist, songwriter and producer from Tehran. His work ranges from the pop and jazz of his collaborations with [Golsa](/en/golsa-h74/) to the heavy, fuzzy guitar chords of his solo project.[^biography][^scene]
@@ -166,4 +176,4 @@ Taha produced Golsa’s [“Sargashteh”](#sargashteh-single-rnw), released in 
 
 In November 2024, Taha released the five-track EP [*Asire Baad*](#asire-baad-79y), a project he made with Barzee and Pouya Shomali.[^asire][^tracks][^asire-project-credit] He worked with a different guest on each track, including Ashh Nm on “Zahr”.[^tracks] Taha and Ashh Nm also performed together in a [duo set recorded by CaveRoom](#ashh-nm-taha-mazaheri-live-at-caveroom-n4k), with Taha playing guitar.[^caveroom][^caveroom-role]
 
-In June 2026, Taha was playing guitar in [King Raam](/en/king-raam-z9w/)’s band.[^session][^session-date] His collaboration with Golsa continued that year with their seven-song collection [*Rameshgar*](#rameshgar-feat-hamed-hamidzadeh-mehrdad-mcy-farid-farzianpour-92e).[^rameshgar]
+In June 2026, Taha was playing guitar in [King Raam](/en/king-raam-z9w/)’s band.[^session][^session-date] His collaboration with Golsa continued that year with their seven-song collection [*Rameshgar*](#rameshgar-feat-hamed-hamidzadeh-mehrdad-mcy-farid-farzianpour-92e).[^rameshgar] On “Ey La Morovvat,” Golsa wrote the song and sang it. Mazaheri arranged it and played guitar.[^voice][^guitar]

@@ -3,6 +3,9 @@ url: https://t.me/mahoorinstitute/3081
 title: از گلستان عجم
 tier: own
 language: fa
+kind: web page
+about:
+- Siamak Jahangiri
 status: processed
 ---
 
@@ -25,3 +28,5 @@ Issued work credits, read 2026-11-21.
 > بهزاد میرزایی، دایره ی ترکی و آواز
 
 Issued work credits, read 2026-11-21.
+
+> از گلستان عجم

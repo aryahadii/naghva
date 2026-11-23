@@ -30,12 +30,32 @@ references:
     quote: |-
       Listen to Lotus by Kaveh Afagh on Apple Music. 2019. 9 Songs. Duration: 27 minutes.
     accessed: '2026-10-20'
+  split:
+    source: ufdcimages.uflib.ufl.edu-uf-e0-04-75-68-00001-goli_s.pdf-f1a892b9e56d
+    quote: |-
+      Kaveh Afagh left the band in 2013 to pursue his individual musical career and was replaced by Pedram Azad.
+    accessed: '2026-11-21'
+  study:
+    source: ufdcimages.uflib.ufl.edu-uf-e0-04-75-68-00001-goli_s.pdf-f1a892b9e56d
+    quote: |-
+      The Ways, a rock band of four musicians, was formed in Mashhad in 2005.
+    accessed: '2026-10-19'
+  members:
+    source: ufdcimages.uflib.ufl.edu-uf-e0-04-75-68-00001-goli_s.pdf-f1a892b9e56d
+    quote: |-
+      Alireza Pourreza (founder of the band and keyboard player), Kaveh Afagh (lead guitarist and vocalist), Hamed Ghannad (bass player and vocalist), and Iman Mohammadi (drummer and main lyricist)
+    accessed: '2026-10-19'
+  stress:
+    source: ufdcimages.uflib.ufl.edu-uf-e0-04-75-68-00001-goli_s.pdf-f1a892b9e56d
+    quote: |-
+      Stress, their first album released online on their official website and Facebook fan page in 2010, includes eleven songs
+    accessed: '2026-10-19'
 ---
 
-Kaveh Afagh is an Iranian rock singer whose career includes work with [The Ways](/en/the-ways-sxy/) and subsequent recordings under his own name.[^interview][^departure]
+Kaveh Afagh is an Iranian rock singer and guitarist who began recording with [The Ways](/en/the-ways-sxy/), a band formed in Mashhad in 2005. He sang and played lead guitar with the group before leaving in 2013 to work under his own name.[^interview][^study][^members][^split]
 
-## Rock and popular songwriting
+## From The Ways to solo work
 
-In an interview with Honar Online, Afagh said that he had always aimed to make popular music. He described the change in reception of his work as a change in public taste, rather than a simple abandonment of rock.[^direction] He also discussed his departure from The Ways and his approach to working with a band.[^departure]
+With The Ways, Afagh recorded [*Stress*](/en/the-ways-sxy/#stress-f3j), which the musicians shared online in 2010. He later said that disagreements within the band led him to leave. He wanted to carry on playing with other musicians, without giving himself the final say in everything.[^members][^stress][^departure]
 
-His solo catalogue includes [Ba Ghors Ha Miraghsad](#ba-ghors-ha-miraghsad-7ap), [The Shawl](#the-shawl-acw) and [Lotus](#lotus-tex), listed by Apple in 2016, 2018 and 2019 respectively.[^pills][^shawl][^lotus]
+Afagh released [*Ba Ghors Ha Miraghsad*](#ba-ghors-ha-miraghsad-7ap) in 2016 and [*The Shawl*](#the-shawl-acw) in 2018. He said he had always tried to make popular music. What seemed to him to have changed was the audience, which was more willing to listen to rock than it had been a decade earlier. His album [*Lotus*](#lotus-tex) followed in 2019.[^pills][^shawl][^direction][^lotus]

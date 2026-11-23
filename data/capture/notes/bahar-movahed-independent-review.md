@@ -1,5 +1,0 @@
-# Bahar Movahed independent review
-
-9.2/10. Sources 1.9, prose 1.9, catalogue 2.8, images 0.9, gaps 1.7. The official video gallery’s seven recordings resolve to the existing inventory. Cross-checked the original cassette and vocal training story in her WBUR interview, the different Kurdish and children’s releases, the foundation’s Crack of Dawn film, the Hamsaz concert and rehearsal, and the recording versus issue of Mandoo. Both the stage and film credits appear alongside her own releases. In the final render each language has 42 panels, 83 decoded images, working fragments and a page width that fits the tested viewport.
-
-Final 9.2/10. Evidence 1.9, writing 1.8, catalogue 2.7, images 0.9 and reading 1.9. The separate Seattle excerpt now credits the singer directly and appears in both languages. Both localized pages resolve all fragments and decode 85 images across 43 panels, with matching viewport and scroll widths. Frozen English aa713835000d and Persian 887920335677. Article and catalogue ready.

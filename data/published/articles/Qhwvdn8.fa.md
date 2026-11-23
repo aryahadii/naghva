@@ -86,12 +86,12 @@ references:
     locator: Original venue or performance credits
     accessed: '2026-11-21'
   ibraaz:
-    source: ensemble-mehr-ibraaz
+    source: ibraaz.org-whats-on-hossein-rad-ava-arehsazan-voice-oud-and-percussion
     quote: her mother, Azar Zargarian
     accessed: '2026-11-21'
     locator: Concert playbill or artist testimony
   shah:
-    source: ensemble-mehr-ibraaz
+    source: ibraaz.org-whats-on-hossein-rad-ava-arehsazan-voice-oud-and-percussion
     quote: performing at Niavaran Hall with the Shahrazad ensemble
     accessed: '2026-11-21'
     locator: Concert playbill or artist testimony

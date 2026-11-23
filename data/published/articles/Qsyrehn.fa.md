@@ -5,11 +5,6 @@ references:
     quote: founded by Cymin Samawatie in 2002
     accessed: 2026-11-21
     locator: Foundation in Berlin
-  family:
-    source: ecmrecords.com-product-saburi-cyminology
-    quote: Born to Iranian parents in Braunschweig, Germany, in 1976
-    accessed: 2026-11-21
-    locator: Early life
   teacher:
     source: ecmrecords.com-product-saburi-cyminology
     quote: Jerry Granelli encouraged her to set Persian poetry to non-traditional arrangements

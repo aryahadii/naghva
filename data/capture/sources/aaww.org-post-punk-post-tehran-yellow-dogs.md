@@ -36,5 +36,16 @@ Film paragraph: the band performs the song in its rooftop practice space. Read 2
 
 Final section, the band was finishing new songs and planned recording the following year. Read 2026-11-13.
 
-
 Archive checked 2026-11-13: the availability API returned this snapshot; its HTML loaded successfully and the cited passages were checked in the archived article context.
+
+> For three-and-a-half years, Obash, Koory (bass), Looloosh (lead guitar), and Sina (drums) played together for hours every day
+
+Rehearsal and lineup, reopened 2026-11-21.
+
+> their rooftop practice space
+
+Rehearsal and lineup, reopened 2026-11-21.
+
+> who sings and plays rhythm guitar
+
+Rehearsal and lineup, reopened 2026-11-21.

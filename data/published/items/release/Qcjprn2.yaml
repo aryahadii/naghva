@@ -37,3 +37,13 @@ statements:
     - source: www.lotusrecords.at-produkt-sormeh
       quote: 'VÖ Datum: 25.10.2013'
       accessed: '2026-11-13'
+  cover art:
+  - value: https://www.lotusrecords.at/wp-content/uploads/2021/11/LR13038.jpg
+    references:
+    - source: www.lotusrecords.at-produkt-sormeh
+      quote: https://www.lotusrecords.at/wp-content/uploads/2021/11/LR13038.jpg
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Lotus Records
+        language: en

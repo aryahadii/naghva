@@ -1,0 +1,37 @@
+id: Qpdqkka
+type: release
+statements:
+  name:
+  - value:
+      text: Damnoosh, Pt. 12 - EP
+      language: en
+    references:
+    - &id001
+      source: music.apple.com-us-album-6829248060
+      quote: Listen to Damnoosh, Pt. 12 - EP by Navid Arbabian
+      accessed: '2026-11-21'
+  performer:
+  - value: Q7bcnr5
+    references:
+    - *id001
+  release date:
+  - value:
+      date: '2026-10-31'
+    references:
+    - source: music.apple.com-us-album-6829248060
+      quote: '"datePublished":"2026-10-31"'
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://music.apple.com/us/album/damnoosh-pt-12-ep/6829248060
+    references:
+    - *id001
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e4/4f/07/e44f07d6-d2b1-5449-5e9f-caba47cec476/artwork.jpg/632x632bb.webp
+    references:
+    - source: music.apple.com-us-album-6829248060
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e4/4f/07/e44f07d6-d2b1-5449-5e9f-caba47cec476/artwork.jpg/632x632bb.webp
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en

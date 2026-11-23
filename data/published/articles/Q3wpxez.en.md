@@ -71,7 +71,7 @@ references:
 
 ---
 
-Mamak Khadem is a singer whose work brings Persian poetry into conversation with regional melodies from Iran and beyond. Her solo debut, *Jostojoo: Forever Seeking*, drew on music from Iran, Greece, Turkey and Armenia, giving those melodies new contemporary arrangements.[^jostojoo]
+Mamak Khadem is a singer who grew up in Tehran and later moved to the United States. For her first solo album, *[Jostojoo: Forever Seeking](#jostojoo-forever-seeking-qyf)*, released in 2007, she and Jamshied Sharifi arranged melodies from Iran, Greece, Turkey and Armenia.[^upbringing][^early][^jostojoo][^solo][^arrangements]
 
 ## Learning across traditions
 

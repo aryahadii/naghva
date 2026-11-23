@@ -172,7 +172,7 @@ Sote is the recording name of Ata Ebtekar, an Iranian electronic composer and so
 
 Ebtekar recalled becoming interested in music at about nine in Iran, especially the unusual synthesized sounds in pop songs. At eleven he moved to Germany, where he later played in the school band The Persams.[^childhood][^sound][^germany][^band] In California he changed direction from pre-dental studies to sound art, studying at Expression College for Digital Arts in Emeryville.[^study][^college]
 
-He released *Electric Deaf* in 2002. Around 2005 he began making electronic music without conventional beats, a change he associated with *[Dastgaah](#dastgaah-fjn)*.[^electric][^turn][^dastgaah] His interest in Iranian music then took the form of an anthology: for the two-disc *Persian Electronic Music, Yesterday and Today 1966–2006*, released in 2007, he compiled Alireza Mashayekhi’s early electronic compositions and placed his own music on the second disc. With *Ornamentalism*, he electronically transformed Mashayekhi’s scores recorded by the Iranian Orchestra in Tehran.[^anthology][^archive][^own-disc][^orchestra]
+He released *[Electric Deaf](#electric-deaf-ep-zng)* in 2002. Around 2005 he began making electronic music without conventional beats, a change he associated with *[Dastgaah](#dastgaah-fjn)*.[^electric][^turn][^dastgaah] His interest in Iranian music then took the form of an anthology: for the two-disc *[Persian Electronic Music, Yesterday and Today 1966–2006](#persian-electronic-music-yesterday-and-today-1966-2006-zky)*, released in 2007, he compiled Alireza Mashayekhi’s early electronic compositions and placed his own music on the second disc. With *[Ornamentalism](#ornamentalism-sote-ata-ebtekar-and-the-iranian-orchestra-9r9)*, he electronically transformed Mashayekhi’s scores recorded by the Iranian Orchestra in Tehran.[^anthology][^archive][^own-disc][^orchestra]
 
 ## Tehran and acoustic instruments
 
@@ -180,7 +180,7 @@ After returning to Iran in the early 2010s, Ebtekar helped organise SET, whose f
 
 The CTM festival commission that became *[Sacred Horror in Design](#sacred-horror-in-design-fdv)* gave him a new way to combine electronics and Iranian instruments. Arash Bolouri played santur and Behrouz Pashaei played setar. Rather than dismantling the Iranian scales, he wanted to keep them intact and let acoustic and electronic sounds coexist without either dominating.[^ctm][^sacred-credits][^balance][^equal] In performance, pickups sent the instruments into his computer while separate microphones carried their untreated sound to the audience.[^pickups][^microphones]
 
-For *Parallel Persia*, Bolouri returned with tar player Pouya Damadi; both also sang. In 2018 Ebtekar founded Zabte Sote, extending his work beyond his own recordings.[^parallel][^label]
+For *[Parallel Persia](#parallel-persia-diag054-hyh)*, Bolouri returned with tar player Pouya Damadi; both also sang. In 2018 Ebtekar founded Zabte Sote, extending his work beyond his own recordings.[^parallel][^label]
 
 ## Synthesized music
 

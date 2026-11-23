@@ -14,6 +14,21 @@
   "contribute": "مشارکت",
   "github": "نغوا در گیت‌هاب",
   "examples": "داده‌های این صفحه‌ها نمونه و ساختگی‌اند.",
+  "starMap": {
+    "open": "باز کردن نقشهٔ ستارگان",
+    "onMap": "در نقشهٔ ستارگان",
+    "mapLabel": "آسمان هنرمندان و آثار",
+    "keyboardHelp": "با کلیدهای جهت‌نما ستاره‌های نزدیک را انتخاب کنید. با + یا − بزرگ‌نمایی را تغییر دهید و با Home همهٔ آسمان را ببینید.",
+    "close": "بستن",
+    "zoomIn": "بزرگ‌نمایی",
+    "zoomOut": "کوچک‌نمایی",
+    "fit": "نمایش همهٔ ستاره‌ها",
+    "random": "هنرمند تصادفی",
+    "recordings": { "one": "{count} اثر", "other": "{count} اثر" },
+    "members": { "one": "{count} عضو", "other": "{count} عضو" },
+    "groups": { "one": "{count} گروه", "other": "{count} گروه" },
+    "artists": { "one": "{count} هنرمند", "other": "{count} هنرمند" }
+  },
   "browse": {
     "artists": "هنرمندان",
     "allArtists": "دیدن همهٔ هنرمندان",
@@ -189,7 +204,7 @@
     "accordion": "آکاردئون", "soprano trombone": "ترومبون سوپرانو", "tuba": "توبا", "choir": "گروه همخوانی", "oboe": "ابوا", "saxophone": "ساکسیفون", "tambura": "تامبورا",
     "vocals": "آواز", "backing vocals": "همخوانی", "guitar": "گیتار", "fretless guitar": "گیتار بدون پرده", "bass": "باس", "drums": "درامز", "percussion": "سازهای کوبه‌ای",
     "keyboards": "کیبورد", "synthesizer": "سینتی‌سایزر", "violin": "ویولن", "viola": "ویولا", "cello": "ویولنسل", "flute": "فلوت", "clarinet": "کلارینت", "bass clarinet": "کلارینت باس", "harmonica": "سازدهنی", "trumpet": "ترومپت",
-    "santur": "سنتور", "setar": "سه‌تار", "tar": "تار", "daf": "دف", "tabla": "طبلا", "tombak": "تنبک", "ney": "نی", "trombone": "ترومبون",
+    "qanun": "قانون", "divan": "دیوان", "viola da gamba": "ویولا دا گامبا", "electronics": "الکترونیک", "santur": "سنتور", "setar": "سه‌تار", "tar": "تار", "daf": "دف", "tabla": "طبلا", "tombak": "تنبک", "ney": "نی", "trombone": "ترومبون",
     "kamancheh": "کمانچه", "producer": "تهیه‌کننده", "composer": "آهنگساز", "lyricist": "ترانه‌سرا", "songwriter": "ترانه‌نویس",
     "arranger": "تنظیم‌کننده", "strings": "سازهای زهی", "piano": "پیانو", "oud": "عود", "double bass": "کنترباس", "original composer": "آهنگساز اثر اصلی", "original lyricist": "ترانه‌سرای اثر اصلی"
   },

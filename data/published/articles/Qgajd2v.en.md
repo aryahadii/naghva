@@ -15,35 +15,57 @@ references:
     quote: |-
       Little Girl and Lost Blossom
     accessed: '2026-10-20'
-  ashes:
-    source: crowsintherain.bandcamp.com-album-ashes-of-the-past-22d784bf7187
-    quote: |-
-      Ashes of the Past
-    accessed: '2026-10-20'
   sorrow:
     source: crowsintherain.bandcamp.com-album-sorrow-for-an-unfinished-dream-eaf95711f15f
     quote: |-
       Sorrow for an Unfinished Dream
     accessed: '2026-10-20'
-  dream:
-    source: crowsintherain.bandcamp.com-album-dri-m-wan-d-rk-bl-a172907f5f51
+  forming:
+    source: www.youtube.com-watch-v-zueafijgiky
     quote: |-
-      Dri:m Wan; Därk Blü
+      پاييز سال 93 با حضور مسيح و حامد تشکيل شد.
+    accessed: '2026-11-21'
+  concert:
+    source: www.youtube.com-watch-v-zueafijgiky
+    quote: |-
+      دوم اردی بهشت ماه ۹۸ در فرهنگسرای نیاوران برگزار شد.
+    accessed: '2026-11-21'
+  fourth:
+    source: www.youtube.com-watch-v-zueafijgiky
+    quote: |-
+      چهارمین آلبوم گروه کلاغ ها در باران
+    accessed: '2026-11-21'
+  name:
+    source: thenoisebeneaththesnow.wordpress.com-2017-10-01-interview-crows-in-the-rain-iranian-dark-ambient
+    quote: |-
+      there were lots of Crows flying around the house and it was raining.
+    accessed: '2026-11-21'
+  girl:
+    source: thenoisebeneaththesnow.wordpress.com-2017-10-01-interview-crows-in-the-rain-iranian-dark-ambient
+    quote: |-
+      She and her story has become the story to our second album.
+    accessed: '2026-11-21'
+  debut:
+    source: crowsintherain.bandcamp.com-album-you-are-dying-in-my-arms-the-frozen-last-gasps-01bc85796946
+    quote: |-
+      31 Dec 2016 00:00:00 GMT
     accessed: '2026-10-20'
-  live:
-    source: crowsintherain.bandcamp.com-album-they-sing-sagas-of-my-death-live-2ff681eae723
+  second:
+    source: crowsintherain.bandcamp.com-album-little-girl-and-lost-blossom-c0a9453380e2
     quote: |-
-      They Sing Sagas of My Death (Live)
+      08 Feb 2017 00:00:00 GMT
     accessed: '2026-10-20'
-  echoes:
-    source: crowsintherain.bandcamp.com-track-echoes-of-the-falling-memories-dbb56186012c
+  show:
+    source: crowsintherain.bandcamp.com-album-sorrow-for-an-unfinished-dream-eaf95711f15f
     quote: |-
-      Echoes of the Falling Memories
+      23 Apr 2019 00:00:00 GMT
     accessed: '2026-10-20'
 ---
 
-Crows in the Rain is a post-rock and ambient band from Tehran. Its Bandcamp store identifies itself as the band's official outlet.[^profile]
+Crows in the Rain is a post-rock and ambient band that Masih and Hamed formed in Tehran in the autumn of 2014.[^profile][^forming] Hamed recalled choosing a name that described what they saw outside: rain and crows flying around the house.[^name]
 
-## Albums and long-form recordings
+## The first albums
 
-The artist's catalogue includes [You Are Dying In My Arms (the frozen last gasps)](#you-are-dying-in-my-arms-the-frozen-last-gasps-z94), [Little Girl and Lost Blossom](#little-girl-and-lost-blossom-2ym), [Ashes of the Past](#ashes-of-the-past-pa7) and [Sorrow for an Unfinished Dream](#sorrow-for-an-unfinished-dream-qj6).[^early][^little][^ashes][^sorrow] These recordings are followed by [Dri:m Wan; Därk Blü](#dri-m-wan-dark-blu-xsm), the live release They Sing Sagas of My Death, and [Echoes of the Falling Memories](#echoes-of-the-falling-memories-r8k).[^dream][^live][^echoes]
+The band released [*You Are Dying In My Arms (the frozen last gasps)*](#you-are-dying-in-my-arms-the-frozen-last-gasps-z94) in 2016. A girl the musicians knew inspired the story of their second album, [*Little Girl and Lost Blossom*](#little-girl-and-lost-blossom-2ym), which came out in February 2017.[^early][^debut][^girl][^little][^second]
+
+In April 2019 the band played at Tehran’s Niavaran Cultural Centre for the launch of their fourth album, [*Sorrow for an Unfinished Dream*](#sorrow-for-an-unfinished-dream-qj6).[^concert][^fourth][^sorrow][^show]

@@ -27,3 +27,7 @@ Page text, read 2026-11-13.
 Page text, read 2026-11-13.
 
 Wayback availability API reported an available status-200 snapshot on 2026-11-13. Snapshot contents were not reread.
+
+> https://www.lotusrecords.at/wp-content/uploads/2021/11/LR13038.jpg
+
+Main product-gallery image for Sormeh, published by Lotus Records. Read 2026-11-21.

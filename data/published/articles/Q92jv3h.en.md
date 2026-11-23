@@ -118,7 +118,7 @@ references:
     accessed: '2026-11-13'
 ---
 
-Mahdyar Aghajani, who records as Mahdyar, is a Tehran-born producer, musician and film composer. Trained in classical violin and Middle Eastern music, he began producing for Iranian rappers whom he met through graffiti. After leaving Iran in 2009, he continued working with Iranian musicians from Europe and developed his own experimental electronic music. His solo album *Seized* drew together recordings and compositions made over a decade.[^bio][^study2][^graffiti][^cannes][^assemble]
+Mahdyar Aghajani, who records as Mahdyar, is a Tehran-born producer, musician and film composer. Trained in classical violin and Middle Eastern music, he began producing for Iranian rappers whom he met through graffiti. After leaving Iran in 2009, he continued working with Iranian musicians from Europe and developed his own experimental electronic music. For his solo album *[Seized](#seized-zvv)* he reworked unreleased tracks and composed new pieces.[^bio][^study2][^graffiti][^cannes][^assemble]
 
 ## Learning and producing
 

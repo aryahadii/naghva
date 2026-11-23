@@ -175,7 +175,7 @@ shape through our collaboration.”[^collaboration]
 During 2018, Balafshan and Ramezan released songs they had composed together using
 Rahmani’s poems.[^payan][^mahtab] They spent more than a year and a half making
 their first album, which Javan published in 2019. They launched it in Tehran and
-Isfahan and performed at its launch in Rasht.[^launches][^credits][^started][^rasht-launch]
+Isfahan and performed at its launch in Rasht.[^launches][^credits][^started][^esfand][^rasht-launch]
 
 Speaking after the release, Ramezan said he was no longer interested in playing
 solos. While making the album, he had not thought about genres or how many people
@@ -194,10 +194,9 @@ The recording was scheduled to stream online in January 2021.[^online-date][^onl
 
 ## Later work
 
-Balzan continued performing in Tehran, including concerts in December 2024 and
-at Kakh Honar in January 2025.[^azar][^kakh] In June 2025 they released
-“[Parandeye Abi](#parandeye-abi-vjt),” for which Balafshan set Rahmani’s poem
-“Namak” to music and sang it. Ramezan arranged the song and played the instruments;
+Balzan announced concerts in Tehran for December 2024 and at Kakh Honar for January 2025.[^azar][^kakh] In June 2025 they released
+“[Parandeye Abi](#parandeye-abi-vjt),” for which Balafshan adapted Rahmani’s poem
+“Namak” and sang the song. Ramezan arranged the song and played the instruments;
 Amiri played drums.[^parande][^parande-date] Later that year,
 “[Kissed by the Wind](#kissed-by-the-wind-vq7)” drew on Rahmani’s poem “Mard-e
 Bi-sar.”[^boose]

@@ -156,7 +156,9 @@ export async function bucket() {
   const call = async (method, key = '', init = {}) => {
     const response = await client.fetch(`${base}/${key}`, { method, ...init });
     if (!response.ok && !(method === 'HEAD' && response.status === 404)) {
-      throw new Error(`R2 ${method} ${key || '/'}: HTTP ${response.status} ${await response.text()}`);
+      const refused = response.status === 401 || response.status === 403
+        ? ' (the bucket refused this key: it may be revoked or expired, or lack access to this bucket)' : '';
+      throw new Error(`R2 ${method} ${key || '/'}: HTTP ${response.status}${refused} ${await response.text()}`);
     }
     return response;
   };
@@ -247,13 +249,20 @@ async function fetchOriginals() {
   }
   mkdirSync(CACHE, { recursive: true });
   mkdirSync(`${BUILD_CACHE}/originals`, { recursive: true });
-  await parallel(missing, 8, async (entry) => {
-    const bytes = await r2.get(objectKey(entry));
-    if (digest(bytes) !== entry.sha256) throw new Error(`R2 ${objectKey(entry)} does not match media.json`);
-    // Retain the existing path as well: GitHub Actions caches media-cache/.
-    writeFileSync(cached(entry), bytes);
-    writeFileSync(`${BUILD_CACHE}/${objectKey(entry)}`, bytes);
-  });
+  try {
+    await parallel(missing, 8, async (entry) => {
+      const bytes = await r2.get(objectKey(entry));
+      if (digest(bytes) !== entry.sha256) throw new Error(`R2 ${objectKey(entry)} does not match media.json`);
+      // Retain the existing path as well: GitHub Actions caches media-cache/.
+      writeFileSync(cached(entry), bytes);
+      writeFileSync(`${BUILD_CACHE}/${objectKey(entry)}`, bytes);
+    });
+  } catch (error) {
+    // Only a deploy must have every image; any other build shows the rest
+    // from their publishers, as it would with no key at all.
+    if (required) throw error;
+    return console.warn(`media: ${error.message}\nmedia: images without an own copy show from their publishers`);
+  }
   console.log(`media: fetched ${missing.length} originals from R2`);
 }
 
