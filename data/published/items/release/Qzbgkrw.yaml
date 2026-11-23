@@ -1,0 +1,68 @@
+id: Qzbgkrw
+type: release
+statements:
+  name:
+  - value:
+      text: Zaalem
+      language: en
+    references:
+    - source: music.apple.com-us-album-transcend-ep-1712600267
+      quote: Zaalem
+      accessed: 2026-11-21
+      locator: Track listing
+  performer:
+  - value: Qgzg2y9
+    references:
+    - source: music.apple.com-us-album-transcend-ep-1712600267
+      quote: SASA
+      accessed: 2026-11-21
+      locator: Artist credit
+  - value: Q8w88jv
+    references:
+    - source: safoura.com-artist
+      quote: Safoura Safavi’s bass and vocals, David Douhan’s guitars and keys, and Marcus Bouquelon’s driving drums
+      accessed: 2026-11-21
+      locator: SASA, formation and personnel
+  release date:
+  - value:
+      date: '2023-11-01'
+    references:
+    - source: music.apple.com-us-album-transcend-ep-1712600267
+      quote: '2023-11-01'
+      accessed: 2026-11-21
+      locator: Release date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/79/2c/3d/792c3da3-13c3-7365-7f86-2972b1b4f3da/198026279644.jpg/632x632bb-60.jpg
+    references:
+    - source: music.apple.com-us-album-transcend-ep-1712600267
+      quote: Transcend - EP
+      accessed: 2026-11-21
+      locator: Release heading
+  listen link:
+  - value: https://music.apple.com/us/song/zaalem/1712600277
+    references:
+    - source: music.apple.com-us-album-transcend-ep-1712600267
+      quote: Zaalem
+      accessed: 2026-11-21
+      locator: Track listing
+  - value: https://www.youtube.com/watch?v=I5vEp0kFpWY
+    references:
+    - source: youtu.be-i5vep0kfpwy
+      quote: ZAALEM - CRUEL
+      accessed: 2026-11-21
+      locator: Artist channel upload heading
+  - value: https://open.spotify.com/track/3tay8B9gq8Qd4rtIUEN87W
+    references:
+    - source: open.spotify.com-album-6bwlg09ojofbecorlfjadk
+      quote: Zaalem
+      accessed: 2026-11-21
+      locator: Spotify release and track listing
+  contributor:
+  - value: Q8dkfyg
+    references:
+    - source: youtu.be-i5vep0kfpwy
+      quote: 'Lyrics: Melody Safavi'
+      accessed: 2026-11-21
+      locator: Lyrics credit
+    qualifiers:
+      role: lyricist
