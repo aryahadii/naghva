@@ -7,6 +7,42 @@ statements:
       language: en
     references:
     - source: www.peymansalimi.com-about-0abb334dd2a8
-      quote: |-
-        Following his debut album “The Curtain,” Peyman kickstarted the indie-rock band The Allophones in Florence, snagging attention in Tuscany by winning the T-Rumors contest in 2011.
+      quote: Following his debut album “The Curtain,” Peyman kickstarted the indie-rock band The Allophones in Florence,
+        snagging attention in Tuscany by winning the T-Rumors contest in 2011.
       accessed: '2026-10-19'
+  image:
+  - value: https://i.scdn.co/image/ab6761610000e5eb8962a5559b5d9af1450015e9
+    qualifiers:
+      credit:
+        text: The Allophones artist profile, Spotify
+        language: en
+    references:
+    - source: open.spotify.com-artist-3zdhntu9nixkl6fedzorcp
+      quote: https://i.scdn.co/image/ab6761610000e5eb8962a5559b5d9af1450015e9
+      accessed: 2026-11-21
+      locator: Artist’s portrait
+  profile link:
+  - value: https://open.spotify.com/artist/3zDHNTu9NiXKl6fedZOrcp
+    references:
+    - source: open.spotify.com-artist-3zdhntu9nixkl6fedzorcp
+      quote: The Allophones
+      accessed: 2026-11-21
+      locator: Artist profile
+  - value: https://music.apple.com/us/artist/the-allophones/786674058
+    references:
+    - source: music.apple.com-us-artist-the-allophones-786674058
+      quote: The Allophones
+      accessed: 2026-11-21
+      locator: Artist profile
+  - value: https://theallophones.bandcamp.com
+    references:
+    - source: theallophones.bandcamp.com-music
+      quote: The Allophones
+      accessed: 2026-11-21
+      locator: Artist profile
+  - value: https://soundcloud.com/the-allophones
+    references:
+    - source: soundcloud.com-the-allophones
+      quote: The Allophones
+      accessed: 2026-11-21
+      locator: Band-owned SoundCloud profile
