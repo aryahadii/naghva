@@ -1,0 +1,37 @@
+id: Qmkhnv7
+type: release
+statements:
+  name:
+  - value:
+      text: Musical Strokes
+      language: en
+    references:
+    - source: labyrinthmusic.gr-en-aria-mohafez
+      quote: Zakhme-ye Sâz
+      locator: Original programme, liner notes or performer credit
+      accessed: '2026-11-21'
+  - value:
+      text: زخمه‌‌ ساز
+      language: fa
+    references:
+    - source: www.youtube.com-watchv-znyev1a830a
+      quote: زخمه‌‌ ساز
+      locator: Original programme, liner notes or performer credit
+      accessed: '2026-11-21'
+  performer:
+  - value: Qcvf546
+    references:
+    - source: labyrinthmusic.gr-en-aria-mohafez
+      quote: Zakhme-ye Sâz
+      locator: Original programme, liner notes or performer credit
+      accessed: '2026-11-21'
+    qualifiers:
+      role: santur
+  - value: Qbz9d6v
+    references:
+    - source: www.youtube.com-watchv-znyev1a830a
+      quote: زخمه‌‌ ساز
+      locator: Original programme, liner notes or performer credit
+      accessed: '2026-11-21'
+    qualifiers:
+      role: setar

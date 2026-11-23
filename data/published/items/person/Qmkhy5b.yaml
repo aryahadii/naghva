@@ -1,0 +1,134 @@
+id: Qmkhy5b
+type: person
+statements:
+  name:
+  - value:
+      text: Siavash Imani
+      language: en
+    references:
+    - source: music.apple.com-us-album-so-faraway-ep-1771053704
+      quote: Siavash Imani
+      accessed: '2026-11-21'
+      locator: Album headline billing
+  - value:
+      text: سیاوش ایمانی
+      language: fa
+    references:
+    - source: mehrnews.com-xv6lk
+      quote: سیاوش ایمانی
+      accessed: 2026-11-22
+      locator: Composer’s Persian name
+  image:
+  - value: https://labyrinthmusic.gr/wp-content/uploads/2025/04/Siavash-Imani-1024x683.jpeg
+    qualifiers:
+      credit:
+        text: Labyrinth Musical Workshop
+        language: en
+    references:
+    - source: labyrinthmusic.gr-en-siavash-imani
+      quote: https://labyrinthmusic.gr/wp-content/uploads/2025/04/Siavash-Imani-1024x683.jpeg
+      accessed: 2026-11-22
+      locator: Original portrait on the programme
+  profile link:
+  - value: https://music.apple.com/us/artist/siavash-imani/1076983646
+    references:
+    - source: music.apple.com-us-artist-siavash-imani-1076983646
+      quote: Siavash Imani
+      accessed: 2026-11-22
+      locator: Native artist catalogue
+  - value: https://open.spotify.com/artist/32voWYFkQu4RvjnyfGXQ1H
+    references:
+    - source: open.spotify.com-artist-32vowyfkqu4rvjnyfgxq1h
+      quote: Siavash Imani
+      accessed: 2026-11-22
+      locator: Spotify profile spelling and credits
+  - value: https://soundcloud.com/siavashimanitar
+    references:
+    - source: soundcloud.com-siavashimanitar
+      quote: Siavash Imani
+      accessed: 2026-11-22
+      locator: Original artist profile
+  birth date:
+  - value:
+      date: '1979'
+    references:
+    - source: labyrinthmusic.gr-en-siavash-imani
+      quote: born in 1979 in Tehran
+      accessed: 2026-11-22
+      locator: Birth year and place
+  birthplace:
+  - value: Qhm6fzw
+    references:
+    - source: labyrinthmusic.gr-en-siavash-imani
+      quote: born in 1979 in Tehran
+      accessed: 2026-11-22
+      locator: Birth year and place
+  member of:
+  - value: Qm6w85y
+    qualifiers:
+      role:
+      - tar
+      - musical director
+      start time:
+        date: '2015'
+    references:
+    - source: labyrinthmusic.gr-en-siavash-imani
+      quote: Siâvash founded the Sepidâr music ensemble
+      accessed: 2026-11-22
+      locator: Founding and artistic direction
+  life event:
+  - value:
+      text: organized by Daryoush Talâi - Tehran (2001)
+      language: en
+    qualifiers:
+      point in time:
+        date: '2001'
+    references:
+    - source: labyrinthmusic.gr-en-siavash-imani
+      quote: organized by Daryoush Talâi - Tehran (2001)
+      accessed: 2026-11-22
+      locator: Youth soloists festival
+  - value:
+      text: conducted by Hossein Dehlavi (2003)
+      language: en
+    qualifiers:
+      point in time:
+        date: '2003'
+    references:
+    - source: labyrinthmusic.gr-en-siavash-imani
+      quote: conducted by Hossein Dehlavi (2003)
+      accessed: 2026-11-22
+      locator: National Plectrum Orchestra
+  - value:
+      text: An Introduction to Radif
+      language: en
+    qualifiers:
+      point in time:
+        date: '2005'
+    references:
+    - source: labyrinthmusic.gr-en-siavash-imani
+      quote: An Introduction to Radif
+      accessed: 2026-11-22
+      locator: Farhang Radio series, 2005–08
+  - value:
+      text: co-directs the Bâghe Naghmehâ Music Institute (since 2013)
+      language: en
+    qualifiers:
+      point in time:
+        date: '2013'
+    references:
+    - source: labyrinthmusic.gr-en-siavash-imani
+      quote: co-directs the Bâghe Naghmehâ Music Institute (since 2013)
+      accessed: 2026-11-22
+      locator: Teaching partnership with Aria Mohafez
+  - value:
+      text: Siâvash founded the Sepidâr music ensemble
+      language: en
+    qualifiers:
+      point in time:
+        date: '2015'
+    references:
+    - source: labyrinthmusic.gr-en-siavash-imani
+      quote: Siâvash founded the Sepidâr music ensemble
+      accessed: 2026-11-22
+      locator: Founding and artistic direction

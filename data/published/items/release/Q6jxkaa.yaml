@@ -1,0 +1,56 @@
+id: Q6jxkaa
+type: release
+statements:
+  name:
+  - value:
+      text: Sarva
+      language: en
+    references:
+    - source: music.apple.com-us-album-sarva-1295577146uo-4
+      quote: Sarva
+      locator: Original programme, liner notes or performer credit
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://music.apple.com/us/album/sarva/1295577146
+    references:
+    - source: music.apple.com-us-album-sarva-1295577146uo-4
+      quote: Sarva
+      locator: Original programme, liner notes or performer credit
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/album/3QtIRslEu1RKaW0cYlrttZ
+    references:
+    - source: open.spotify.com-embed-album-3qtirsleu1rkaw0cylrttz
+      quote: spotify:album:3QtIRslEu1RKaW0cYlrttZ
+      locator: Original programme, liner notes or performer credit
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/a6/15/e2/a615e21d-ba7b-e5d5-e39a-c76960c6867f/6260608005874.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-sarva-1295577146uo-4
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/a6/15/e2/a615e21d-ba7b-e5d5-e39a-c76960c6867f/6260608005874.jpg/1200x630bb.jpg
+      locator: Original programme, liner notes or performer credit
+      accessed: '2026-11-21'
+  release type:
+  - value: album
+    references:
+    - source: music.apple.com-us-album-sarva-1295577146uo-4
+      quote: Sarva
+      locator: Original programme, liner notes or performer credit
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2016'
+    references:
+    - source: labyrinthmusic.gr-en-aria-mohafez
+      quote: Sarva (2016) and Peyda (2018)
+      locator: Original programme, liner notes or performer credit
+      accessed: '2026-11-21'
+  performer:
+  - value: Qcvf546
+    references:
+    - source: music.apple.com-us-album-sarva-1295577146uo-4
+      quote: Aria Mohafez
+      locator: Original programme, liner notes or performer credit
+      accessed: '2026-11-21'
+    qualifiers:
+      role: santur
