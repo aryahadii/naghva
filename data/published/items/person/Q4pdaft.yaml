@@ -1,0 +1,21 @@
+id: Q4pdaft
+type: person
+statements:
+  name:
+  - value:
+      text: Josafat Larios
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-v0bvjkoy8gk
+      quote: Josafat Larios .................... Tombak y Daf
+      accessed: '2026-11-21'
+      locator: Earlier cohort in 2011–2016 film credits
+  member of:
+  - value: Qcabd29
+    references:
+    - *id001
+    qualifiers:
+      role:
+      - tombak
+      - daf

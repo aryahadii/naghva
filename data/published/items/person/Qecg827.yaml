@@ -1,0 +1,19 @@
+id: Qecg827
+type: person
+statements:
+  name:
+  - value:
+      text: Abbas Mandí
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-v0bvjkoy8gk
+      quote: Abbas Mandí ............... ...... Santur
+      accessed: '2026-11-21'
+      locator: Earlier cohort in 2011–2016 film credits
+  member of:
+  - value: Qcabd29
+    references:
+    - *id001
+    qualifiers:
+      role: santur

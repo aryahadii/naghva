@@ -1,0 +1,17 @@
+id: Qc55rt5
+type: release
+statements:
+  name:
+  - value:
+      text: Reng Afshari (Auditorio Blas Galindo)
+      language: en
+    references:
+    - &id001
+      source: videoteca.cenart.gob.mx-canal-23-255759-2
+      quote: 7 00.24:53.009 --> 00.28:41.027 Reng Afshari
+      accessed: '2026-11-21'
+      locator: Canal 23 broadcast cue 7
+  performer:
+  - value: Qcabd29
+    references:
+    - *id001

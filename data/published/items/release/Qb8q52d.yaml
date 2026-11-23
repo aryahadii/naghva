@@ -1,0 +1,44 @@
+id: Qb8q52d
+type: release
+statements:
+  name:
+  - value:
+      text: Pishdaramad Shour
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-zo-inhnk3ey
+      quote: Ensamble Didar, Pishdaramad Shour | پیش درآمد شور علی اکبر خان شهنازی
+      accessed: '2026-11-21'
+      locator: Original video title
+  performer:
+  - value: Qcabd29
+    references:
+    - *id001
+  - value: Qqb9bnx
+    references:
+    - source: www.youtube.com-watch-v-zo-inhnk3ey
+      quote: Ensamble Didar, Pishdaramad Shour | پیش درآمد شور علی اکبر خان شهنازی
+      accessed: '2026-11-21'
+      locator: Music credited by musician or performance publisher
+  cover art:
+  - value: https://i.ytimg.com/vi/zo-inHNK3EY/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-zo-inhnk3ey
+      quote: https://i.ytimg.com/vi/zo-inHNK3EY/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original publisher image
+    qualifiers:
+      credit:
+        text: Mehdi Moshtagh
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=zo-inHNK3EY
+    references:
+    - *id001
+  contributor:
+  - value: Q2m6mr2
+    references:
+    - *id001
+    qualifiers:
+      role: composer

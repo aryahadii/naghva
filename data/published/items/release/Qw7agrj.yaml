@@ -1,0 +1,92 @@
+id: Qw7agrj
+type: release
+statements:
+  name:
+  - value:
+      text: Música tradicional de Irán
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-iqs_atbyncu
+      quote: Ensamble Didar
+      accessed: '2026-11-21'
+      locator: Original video title
+  performer:
+  - value: Qcabd29
+    references:
+    - *id001
+  - value: Qqb9bnx
+    references:
+    - source: videoteca.cenart.gob.mx-direccion-de-educacion-a-distancia-mw-20138
+      quote: Mehdi Moshtagh, setar y tar
+      accessed: '2026-11-21'
+      locator: Concert personnel
+    qualifiers:
+      role:
+      - setar
+      - tar
+  - value: Qfk9hsd
+    references:
+    - source: videoteca.cenart.gob.mx-direccion-de-educacion-a-distancia-mw-20138
+      quote: Manuel Sauceverde, setar
+      accessed: '2026-11-21'
+      locator: Concert personnel
+    qualifiers:
+      role: setar
+  - value: Qvvs2a2
+    references:
+    - source: videoteca.cenart.gob.mx-direccion-de-educacion-a-distancia-mw-20138
+      quote: Manuel Mejía Armijo, oud
+      accessed: '2026-11-21'
+      locator: Concert personnel
+    qualifiers:
+      role: oud
+  - value: Qcrsrrp
+    references:
+    - source: videoteca.cenart.gob.mx-direccion-de-educacion-a-distancia-mw-20138
+      quote: Shekufeh Mohammadi, canto
+      accessed: '2026-11-21'
+      locator: Concert personnel
+    qualifiers:
+      role: vocals
+  - value: Q3kbv8e
+    references:
+    - source: videoteca.cenart.gob.mx-direccion-de-educacion-a-distancia-mw-20138
+      quote: José Pablo Jiménez, Kamancheh
+      accessed: '2026-11-21'
+      locator: Concert personnel
+    qualifiers:
+      role: kamancheh
+  - value: Qzgjdgp
+    references:
+    - source: videoteca.cenart.gob.mx-direccion-de-educacion-a-distancia-mw-20138
+      quote: Francisco Bringas, tombak y daf
+      accessed: '2026-11-21'
+      locator: Concert personnel
+    qualifiers:
+      role:
+      - tombak
+      - daf
+  cover art:
+  - value: https://i.ytimg.com/vi/iqs_aTbyNcU/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-iqs_atbyncu
+      quote: https://i.ytimg.com/vi/iqs_aTbyNcU/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original publisher image
+    qualifiers:
+      credit:
+        text: Centro Nacional de las Artes
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=iqs_aTbyNcU
+    references:
+    - *id001
+  release date:
+  - value:
+      date: '2017'
+    references:
+    - source: videoteca.cenart.gob.mx-direccion-de-educacion-a-distancia-mw-20138
+      quote: Concierto grabado el 25 de mayo 2017 en el Auditorio Blas Galindo del Centro Nacional de las Artes, Ciudad de México.
+      accessed: '2026-11-21'
+      locator: Recording catalogue

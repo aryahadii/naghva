@@ -1,0 +1,17 @@
+id: Qr4r88a
+type: release
+statements:
+  name:
+  - value:
+      text: Dueto de setar y tombak (Auditorio Blas Galindo)
+      language: en
+    references:
+    - &id001
+      source: videoteca.cenart.gob.mx-canal-23-255759-2
+      quote: 3 00.05:50.015 --> 00.09:35.012 Dueto de setar y tombak
+      accessed: '2026-11-21'
+      locator: Canal 23 broadcast cue 3
+  performer:
+  - value: Qcabd29
+    references:
+    - *id001
