@@ -1,0 +1,70 @@
+id: Qzxssrc
+type: release
+statements:
+  name:
+  - value:
+      text: Cheshmak EP
+      language: en
+    references:
+    - source: localdish.bandcamp.com-album-cheshmak-ep
+      quote: CHESHMAK EP | Cheshmak | Local Dish
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qm3fd5c
+    references:
+    - source: localdish.bandcamp.com-album-cheshmak-ep
+      quote: Cheshmak
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Qffwb2b
+    references:
+    - source: localdish.bandcamp.com-album-cheshmak-ep
+      quote: Arif Mirbaghi
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Q5b4hz2
+    references:
+    - source: localdish.bandcamp.com-album-cheshmak-ep
+      quote: Kaveh Ghaffari
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Qpssbgw
+    references:
+    - source: localdish.bandcamp.com-album-cheshmak-ep
+      quote: Farhad Asadi
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  release type:
+  - value: ep
+    references:
+    - source: localdish.bandcamp.com-album-cheshmak-ep
+      quote: CHESHMAK EP | Cheshmak | Local Dish
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2025-01-28'
+    references:
+    - source: localdish.bandcamp.com-album-cheshmak-ep
+      quote: released January 28, 2025
+      accessed: '2026-11-21'
+      locator: Published date
+  listen link:
+  - value: https://localdish.bandcamp.com/album/cheshmak-ep
+    references:
+    - source: localdish.bandcamp.com-album-cheshmak-ep
+      quote: CHESHMAK EP | Cheshmak | Local Dish
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a1653698849_10.jpg
+    references:
+    - source: localdish.bandcamp.com-album-cheshmak-ep
+      quote: https://f4.bcbits.com/img/a1653698849_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Local Dish
+        language: en
