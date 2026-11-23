@@ -1,0 +1,51 @@
+id: Qkyf8q3
+type: release
+statements:
+  name:
+  - value:
+      text: Blue
+      language: en
+    references:
+    - source: numduo.bandcamp.com-track-blue
+      quote: Blue
+      accessed: '2026-11-21'
+      locator: Recording title
+  performer:
+  - value: Qm4skc3
+    references:
+    - source: numduo.bandcamp.com-track-blue
+      quote: Blue | NUM
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://numduo.bandcamp.com/track/blue
+    references:
+    - source: numduo.bandcamp.com-track-blue
+      quote: Blue | NUM
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/nummusic/blue-1
+    references:
+    - source: soundcloud.com-nummusic-blue-1
+      quote: Stream Blue by NUM | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2020-03-23'
+    references:
+    - source: numduo.bandcamp.com-album-trilogy-for-the-light
+      quote: released March 23, 2020
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a0037430353_10.jpg
+    references:
+    - source: numduo.bandcamp.com-album-trilogy-for-the-light
+      quote: https://f4.bcbits.com/img/a0037430353_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Bandcamp · NUM
+        language: en

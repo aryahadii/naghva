@@ -1,0 +1,81 @@
+id: Q8yp253
+type: release
+statements:
+  name:
+  - value:
+      text: Seas Coming for Me
+      language: en
+    references:
+    - source: numduo.bandcamp.com-album-seas-coming-for-me
+      quote: Seas Coming for Me
+      accessed: '2026-11-21'
+      locator: Recording title
+  performer:
+  - value: Qm4skc3
+    references:
+    - source: numduo.bandcamp.com-album-seas-coming-for-me
+      quote: Seas Coming for Me | NUM
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://numduo.bandcamp.com/album/seas-coming-for-me
+    references:
+    - source: numduo.bandcamp.com-album-seas-coming-for-me
+      quote: Seas Coming for Me | NUM
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/seas-coming-for-me/1861996748
+    references:
+    - source: music.apple.com-us-album-seas-coming-for-me-1861996748
+      quote: ‎Seas Coming for Me - Album by NUM - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/album/1UzcaIVFLCsFsbQIR1l5Cn
+    references:
+    - source: open.spotify.com-album-1uzcaivflcsfsbqir1l5cn
+      quote: Listen to Seas Coming for Me - Album by NUM | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  release type:
+  - value: album
+    references:
+    - source: numduo.bandcamp.com-album-seas-coming-for-me
+      quote: Seas Coming for Me | NUM
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2025-12-18'
+    references:
+    - source: numduo.bandcamp.com-album-seas-coming-for-me
+      quote: released December 18, 2025
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a0329851628_10.jpg
+    references:
+    - source: numduo.bandcamp.com-album-seas-coming-for-me
+      quote: https://f4.bcbits.com/img/a0329851628_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Bandcamp · NUM
+        language: en
+  contributor:
+  - value: Qj24qcs
+    references:
+    - source: numduo.bandcamp.com-album-seas-coming-for-me
+      quote: 'Milad Bagheri: Composer, electronics, recording, mixing, mastering, words'
+      accessed: '2026-11-21'
+      locator: Album credits
+    qualifiers:
+      role: composer
+  - value: Q6zbcxw
+    references:
+    - source: numduo.bandcamp.com-album-seas-coming-for-me
+      quote: 'Maryam Sirvan: Composer, electronics, recording, voice, words'
+      accessed: '2026-11-21'
+      locator: Album credits
+    qualifiers:
+      role: composer

@@ -1,0 +1,45 @@
+id: Qa493rk
+type: release
+statements:
+  name:
+  - value:
+      text: Memory Machine - Part II
+      language: en
+    references:
+    - source: numduo.bandcamp.com-track-memory-machine-part-ii
+      quote: Memory Machine - Part II
+      accessed: '2026-11-21'
+      locator: Recording title
+  performer:
+  - value: Qm4skc3
+    references:
+    - source: numduo.bandcamp.com-track-memory-machine-part-ii
+      quote: Memory Machine - Part II | NUM
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://numduo.bandcamp.com/track/memory-machine-part-ii
+    references:
+    - source: numduo.bandcamp.com-track-memory-machine-part-ii
+      quote: Memory Machine - Part II | NUM
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2018-05-15'
+    references:
+    - source: numduo.bandcamp.com-album-memory-machine
+      quote: released May 15, 2018
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a2925816599_10.jpg
+    references:
+    - source: numduo.bandcamp.com-album-memory-machine
+      quote: https://f4.bcbits.com/img/a2925816599_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Bandcamp · NUM
+        language: en
