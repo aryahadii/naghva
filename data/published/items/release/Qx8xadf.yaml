@@ -1,0 +1,51 @@
+id: Qx8xadf
+type: release
+statements:
+  name:
+  - value:
+      text: Stonefall
+      language: en
+    references:
+    - source: open.spotify.com-track-0zvgodwrhcaxxhxlrs1zsg
+      quote: Stonefall - song and lyrics by Idlefon | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qjjdrek
+    references:
+    - source: open.spotify.com-track-0zvgodwrhcaxxhxlrs1zsg
+      quote: Stonefall - song and lyrics by Idlefon | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://open.spotify.com/track/0ZVgOdwrHcAxxhxLrS1ZsG
+    references:
+    - source: open.spotify.com-track-0zvgodwrhcaxxhxlrs1zsg
+      quote: Stonefall - song and lyrics by Idlefon | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://tympanikaudio.bandcamp.com/track/idlefon-stonefall
+    references:
+    - source: tympanikaudio.bandcamp.com-track-idlefon-stonefall
+      quote: 'Idlefon: Stonefall | Various Artists | Tympanik Audio'
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a4160427815_10.jpg
+    references:
+    - source: tympanikaudio.bandcamp.com-track-idlefon-stonefall
+      quote: https://f4.bcbits.com/img/a4160427815_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original publisher artwork
+        language: en
+  release date:
+  - value:
+      date: '2014-10-14'
+    references:
+    - source: tympanikaudio.bandcamp.com-track-idlefon-stonefall
+      quote: released October 14, 2014
+      accessed: '2026-11-21'
+      locator: Published date

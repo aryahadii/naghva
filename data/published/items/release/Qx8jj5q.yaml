@@ -1,0 +1,63 @@
+id: Qx8jj5q
+type: release
+statements:
+  name:
+  - value:
+      text: After the Quake
+      language: en
+    references:
+    - source: music.apple.com-us-song-1491544581
+      quote: ‎After the Quake - Song with Lyrics by Idlefon - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qjjdrek
+    references:
+    - source: music.apple.com-us-song-1491544581
+      quote: ‎After the Quake - Song with Lyrics by Idlefon - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://music.apple.com/us/song/1491544581
+    references:
+    - source: music.apple.com-us-song-1491544581
+      quote: ‎After the Quake - Song with Lyrics by Idlefon - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://unexplainedsoundsgroup.bandcamp.com/track/idlefon-after-the-quake-2
+    references:
+    - source: unexplainedsoundsgroup.bandcamp.com-track-idlefon-after-the-quake-2
+      quote: Idlefon - After The Quake | Various Artists | Unexplained Sounds Group
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://unexplainedsoundsgroup.bandcamp.com/track/idlefon-after-the-quake
+    references:
+    - source: unexplainedsoundsgroup.bandcamp.com-track-idlefon-after-the-quake
+      quote: Idlefon - After The Quake | Various Artists | Unexplained Sounds Group
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/0WEE0Vd1V0NNNruKem6d8t
+    references:
+    - source: open.spotify.com-track-0wee0vd1v0nnnrukem6d8t
+      quote: After the Quake - song and lyrics by Idlefon | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/e2/8d/b3/e28db329-afe4-d3e4-cd14-6e4db4334fda/194660430281.jpg/600x600bb.webp
+    references:
+    - source: music.apple.com-us-song-1491544581
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/e2/8d/b3/e28db329-afe4-d3e4-cd14-6e4db4334fda/194660430281.jpg/600x600bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original publisher artwork
+        language: en
+  release date:
+  - value:
+      date: '2019-11-30'
+    references:
+    - source: music.apple.com-us-song-1491544581
+      quote: November 30, 2019
+      accessed: '2026-11-21'
+      locator: Published date

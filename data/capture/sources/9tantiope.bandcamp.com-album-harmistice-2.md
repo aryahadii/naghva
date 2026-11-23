@@ -5,6 +5,8 @@ title: Harmistice by 9T Antiope and Siavash Amini
 tier: own
 kind: web page
 language: en
+about:
+- Nima Aghiani
 status: processed
 ---
 
@@ -27,3 +29,23 @@ Album artwork URL, read 2026-11-21.
 > Artwork by Ruth Stofer
 
 Album credits, read 2026-11-21.
+
+> Harmistice | 9T Antiope and Siavash Amini | 9T Antiope
+
+Page title, read 2026-11-21.
+
+> All music by Siavash Amini and Nima Aghiani
+
+Artist interview, biography or performance credits, read 2026-11-21.
+
+> released June 7, 2019
+
+Published date, read 2026-11-21.
+
+> Voice and Lyrics by Sara Bigdeli Shamloo
+
+Artist interview, biography or performance credits, read 2026-11-21.
+
+> 9T Antiope
+
+Artist interview, biography or performance credits, read 2026-11-21.
