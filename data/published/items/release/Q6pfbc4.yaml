@@ -1,0 +1,51 @@
+id: Q6pfbc4
+type: release
+statements:
+  name:
+  - value:
+      text: Portal Into the Unmanifested
+      language: en
+    references:
+    - source: maryamsirvan.bandcamp.com-track-portal-into-the-unmanifested
+      quote: Portal Into the Unmanifested
+      accessed: '2026-11-21'
+      locator: Recording title
+  performer:
+  - value: Q6zbcxw
+    references:
+    - source: maryamsirvan.bandcamp.com-track-portal-into-the-unmanifested
+      quote: Portal Into the Unmanifested | Maryam Sirvan
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://maryamsirvan.bandcamp.com/track/portal-into-the-unmanifested
+    references:
+    - source: maryamsirvan.bandcamp.com-track-portal-into-the-unmanifested
+      quote: Portal Into the Unmanifested | Maryam Sirvan
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://flagdayrecordings.bandcamp.com/track/portal-into-the-unmanifested
+    references:
+    - source: flagdayrecordings.bandcamp.com-track-portal-into-the-unmanifested
+      quote: Portal Into the Unmanifested | Maryam Sirvan | Flag Day Recordings
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2021-09-27'
+    references:
+    - source: maryamsirvan.bandcamp.com-album-feast-on-my-body-2
+      quote: released September 27, 2021
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a0411385192_10.jpg
+    references:
+    - source: maryamsirvan.bandcamp.com-album-feast-on-my-body-2
+      quote: https://f4.bcbits.com/img/a0411385192_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Bandcamp · Maryam Sirvan
+        language: en
