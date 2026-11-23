@@ -1,0 +1,42 @@
+id: Qaxddrm
+type: act
+statements:
+  name:
+  - value:
+      text: Hami Hamoo
+      language: en
+    references:
+    - source: open.spotify.com-artist-4cq7yz0k44lmlrwx5bfbas
+      quote: Listen to Hami Hamoo Songs | Spotify
+      accessed: 2026-11-21
+      locator: Native profile
+  image:
+  - value: https://www.music-mdc.com/wp-content/uploads/2026/01/Hami-Hamoo-09©pierrickguidou-web-1024x674.jpeg
+    qualifiers:
+      credit:
+        text: Pierrick Guidou
+        language: en
+    references:
+    - source: www.music-mdc.com-en-artistes-hami-hamoo
+      quote: https://www.music-mdc.com/wp-content/uploads/2026/01/Hami-Hamoo-09©pierrickguidou-web-1024x674.jpeg
+      accessed: 2026-11-21
+      locator: Issued artist photograph
+  profile link:
+  - value: https://open.spotify.com/artist/4cq7yz0K44lMLrwx5bfBaS
+    references:
+    - source: open.spotify.com-artist-4cq7yz0k44lmlrwx5bfbas
+      quote: Listen to Hami Hamoo Songs | Spotify
+      accessed: 2026-11-21
+      locator: Artist profile
+  - value: https://music.apple.com/us/artist/hami-hamoo/1857396141
+    references:
+    - source: music.apple.com-us-artist-hami-hamoo-1857396141
+      quote: ‎Hami Hamoo - Apple Music
+      accessed: 2026-11-21
+      locator: Artist profile
+  - value: https://music.apple.com/us/artist/hami-hamoo/1855640417
+    references:
+    - source: music.apple.com-us-artist-hami-hamoo-1855640417
+      quote: ‎Hami Hamoo - Apple Music
+      accessed: 2026-11-21
+      locator: Artist profile

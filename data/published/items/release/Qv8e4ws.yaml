@@ -1,0 +1,66 @@
+id: Qv8e4ws
+type: release
+statements:
+  name:
+  - value:
+      text: Hagh (Live at the Alex Theatre)
+      language: en
+    references:
+    - source: www.farhang.org-farhang-performances-hagh-right
+      quote: Hagh (Right)
+      accessed: '2026-11-21'
+      locator: Organizer film
+  performer:
+  - value: Qb269ps
+    references:
+    - source: www.farhang.org-farhang-performances-hagh-right
+      quote: Hagh (Right)
+      accessed: '2026-11-21'
+      locator: Organizer film
+  contributor:
+  - value: Qb269ps
+    qualifiers:
+      role: composer
+    references:
+    - source: www.farhang.org-farhang-performances-hagh-right
+      quote: Music composed by Niaz Nawab
+      accessed: '2026-11-21'
+      locator: Original song credit
+  - value: Qy88zyz
+    qualifiers:
+      role: producer
+    references:
+    - source: www.farhang.org-farhang-performances-hagh-right
+      quote: Performance produced by Erwin Khachikian
+      accessed: '2026-11-21'
+      locator: Concert credits
+  listen link:
+  - value: https://www.youtube.com/watch?v=Yelgl2I-3ds
+    references:
+    - source: www.farhang.org-farhang-performances-hagh-right
+      quote: Hagh (Right)
+      accessed: '2026-11-21'
+      locator: Organizer film
+    - source: www.farhang.org-farhang-performances-hagh-right
+      quote: Yelgl2I-3ds
+      accessed: '2026-11-21'
+      locator: Original embedded concert video
+  release date:
+  - value:
+      date: '2023-04-16'
+    references:
+    - source: www.farhang.org-farhang-performances-hagh-right
+      quote: On April 16, 2023
+      accessed: '2026-11-21'
+      locator: Concert date
+  cover art:
+  - value: https://i.ytimg.com/vi/Yelgl2I-3ds/hqdefault.jpg
+    qualifiers:
+      credit:
+        text: Farhang Foundation on YouTube
+        language: en
+    references:
+    - source: youtube-hagh-farhang-live-2023
+      quote: https://i.ytimg.com/vi/Yelgl2I-3ds/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Organizer’s original video oEmbed thumbnail

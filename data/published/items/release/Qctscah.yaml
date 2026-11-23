@@ -1,0 +1,70 @@
+id: Qctscah
+type: release
+statements:
+  name:
+  - value:
+      text: Kahroba
+      language: en
+    references:
+    - source: music.apple.com-us-album-kahroba-single-1729632153
+      quote: Kahroba
+      accessed: '2026-11-21'
+      locator: Release track 1
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-kahroba-single-1729632153
+      quote: Kahroba
+      accessed: '2026-11-21'
+      locator: Release track 1
+  listen link:
+  - value: https://music.apple.com/us/song/kahroba/1729632155
+    references:
+    - source: music.apple.com-us-album-kahroba-single-1729632153
+      quote: https://music.apple.com/us/song/kahroba/1729632155
+      accessed: '2026-11-21'
+      locator: Exact Apple track
+  - value: https://music.apple.com/us/album/kahroba-single/1729632153
+    references:
+    - source: music.apple.com-us-album-kahroba-single-1729632153
+      quote: Kahroba - Single
+      accessed: '2026-11-21'
+      locator: Native edition title
+  - value: https://open.spotify.com/track/4ffCcggUhPvVwywaQYJVg3
+    references:
+    - source: open.spotify.com-embed-album-6o2x6uqrkmrblbgqawqbej
+      quote: spotify:track:4ffCcggUhPvVwywaQYJVg3
+      accessed: '2026-11-21'
+      locator: Exact Spotify track
+  - value: https://open.spotify.com/album/6O2X6uqRkMrBLbGQawqBEJ
+    references:
+    - source: open.spotify.com-embed-album-6o2x6uqrkmrblbgqawqbej
+      quote: Kahroba
+      accessed: '2026-11-21'
+      locator: Single release
+  performer:
+  - value: Qb269ps
+    references:
+    - source: music.apple.com-us-album-kahroba-single-1729632153
+      quote: Kahroba - Single
+      accessed: '2026-11-21'
+      locator: Native edition title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7d/12/92/7d129277-14f5-49d8-8024-c5ef3a57c8f9/638865256838.jpg/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Apple Music release artwork
+        language: en
+    references:
+    - source: music.apple.com-us-album-kahroba-single-1729632153
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7d/12/92/7d129277-14f5-49d8-8024-c5ef3a57c8f9/638865256838.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Release cover
+  release date:
+  - value:
+      date: '2024-02-07'
+    references:
+    - source: music.apple.com-us-album-kahroba-single-1729632153
+      quote: '2024-02-07'
+      accessed: '2026-11-21'
+      locator: Release date

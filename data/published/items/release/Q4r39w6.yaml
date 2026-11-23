@@ -1,0 +1,57 @@
+id: Q4r39w6
+type: release
+statements:
+  name:
+  - value:
+      text: Bol Bol
+      language: en
+    references:
+    - source: music.apple.com-us-album-hafez-1076395652
+      quote: Bol Bol
+      accessed: '2026-11-21'
+      locator: Release track 3
+  listen link:
+  - value: https://music.apple.com/us/song/bol-bol/1076395658
+    references:
+    - source: music.apple.com-us-album-hafez-1076395652
+      quote: https://music.apple.com/us/song/bol-bol/1076395658
+      accessed: '2026-11-21'
+      locator: Exact Apple track
+  - value: https://open.spotify.com/track/4jx2NVCvd64yDbM03cUq4s
+    references:
+    - source: open.spotify.com-embed-album-34xcqlxnnugecfy0lcqqga
+      quote: spotify:track:4jx2NVCvd64yDbM03cUq4s
+      accessed: '2026-11-21'
+      locator: Exact Spotify track
+  - value: https://www.youtube.com/watch?v=T92kDbi7llA
+    references:
+    - source: www.youtube.com-watch-v-t92kdbi7lla
+      quote: Bol Bol - Niaz Nawab - نیاز نواب - بلبل
+      accessed: '2026-11-21'
+      locator: Artist video
+  performer:
+  - value: Qb269ps
+    references:
+    - source: music.apple.com-us-album-hafez-1076395652
+      quote: Hafez
+      accessed: '2026-11-21'
+      locator: Native edition title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9d/b8/03/9db80326-ecb9-a12b-5343-aa8f67428613/638865015947.jpg/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Apple Music release artwork
+        language: en
+    references:
+    - source: music.apple.com-us-album-hafez-1076395652
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9d/b8/03/9db80326-ecb9-a12b-5343-aa8f67428613/638865015947.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Release cover
+  release date:
+  - value:
+      date: '2016-01-17'
+    references:
+    - source: music.apple.com-us-album-hafez-1076395652
+      quote: '2016-01-17'
+      accessed: '2026-11-21'
+      locator: Release date

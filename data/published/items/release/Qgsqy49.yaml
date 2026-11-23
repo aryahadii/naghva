@@ -1,0 +1,57 @@
+id: Qgsqy49
+type: release
+statements:
+  name:
+  - value:
+      text: Maghze Por Jib Khali (Terminal 1)
+      language: en
+    references:
+    - source: music.apple.com-us-album-badeh-1455191037
+      quote: Maghze Por Jib Khali
+      accessed: '2026-11-21'
+      locator: Track 3
+  listen link:
+  - value: https://music.apple.com/us/song/maghze-por-jib-khali/1455191040
+    references:
+    - source: music.apple.com-us-album-badeh-1455191037
+      quote: https://music.apple.com/us/song/maghze-por-jib-khali/1455191040
+      accessed: '2026-11-21'
+      locator: Exact Apple track
+  - value: https://open.spotify.com/track/6mVdi76mRrJbqM1Uu50TI6
+    references:
+    - source: open.spotify.com-embed-album-5ulr2wowsbdutsefylyvbg
+      quote: spotify:track:6mVdi76mRrJbqM1Uu50TI6
+      accessed: '2026-11-21'
+      locator: Native track URI
+  performer:
+  - value: Qb269ps
+    references:
+    - source: music.apple.com-us-album-badeh-1455191037
+      quote: Terminal 1 - EP
+      accessed: '2026-11-21'
+      locator: Digital edition
+  - value: Qy88zyz
+    references:
+    - source: music.apple.com-us-album-badeh-1455191037
+      quote: Erwin Khachikian
+      accessed: '2026-11-21'
+      locator: Artist credit
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/52/c9/b1/52c9b1f9-d293-2240-21a8-6c54788988c4/193428789500.jpg/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Digital artwork via Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-badeh-1455191037
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/52/c9/b1/52c9b1f9-d293-2240-21a8-6c54788988c4/193428789500.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Edition artwork
+  release date:
+  - value:
+      date: '2019-02-15'
+    references:
+    - source: music.apple.com-us-album-badeh-1455191037
+      quote: '2019-02-15'
+      accessed: '2026-11-21'
+      locator: Issue date
