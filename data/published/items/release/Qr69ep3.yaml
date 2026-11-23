@@ -1,0 +1,68 @@
+id: Qr69ep3
+type: release
+statements:
+  name:
+  - value:
+      text: Goosheh Gardân
+      language: en
+    references:
+    - source: open.spotify.com-album-5taunscmqixws0tqhplosi
+      quote: Goosheh Gardân
+      accessed: '2026-11-21'
+      locator: Spotify edition title
+  release type:
+  - value: album
+    references:
+    - source: open.spotify.com-album-5taunscmqixws0tqhplosi
+      quote: Goosheh Gardân
+      accessed: '2026-11-21'
+      locator: Spotify edition title
+  listen link:
+  - value: https://music.apple.com/us/album/goosheh-gard%C3%A2n/1798590011
+    references:
+    - source: music.apple.com-us-album-goosheh-gard-c3-a2n-1798590011
+      quote: ‎Goosheh Gardân - Album by Pedram Khavarzamini & Aria Mohafez - Apple Music
+      accessed: '2026-11-21'
+      locator: Edition title
+  - value: https://open.spotify.com/album/5TAunSCMQixwS0TQhPLosI
+    references:
+    - source: open.spotify.com-album-5taunscmqixws0tqhplosi
+      quote: Goosheh Gardân
+      accessed: '2026-11-21'
+      locator: Spotify edition title
+  performer:
+  - value: Q5rnjaz
+    qualifiers:
+      role: tombak
+    references:
+    - source: music.apple.com-us-album-goosheh-gard-c3-a2n-1798590011
+      quote: Pedram Khavarzamini
+      accessed: '2026-11-21'
+      locator: Artist or track-specific guest billing
+  - value: Qcvf546
+    references:
+    - source: music.apple.com-us-album-goosheh-gard-c3-a2n-1798590011
+      quote: Aria Mohafez
+      accessed: '2026-11-21'
+      locator: Album headline billing
+    qualifiers:
+      role: santur
+  release date:
+  - value:
+      date: '2025-01-28'
+    references:
+    - source: music.apple.com-us-album-goosheh-gard-c3-a2n-1798590011
+      quote: '2025-01-28'
+      accessed: '2026-11-21'
+      locator: Apple Music edition issue date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ce/11/2c/ce112cf8-6939-c415-3409-965452a2c60a/198999937312.jpg/1200x630bb.jpg
+    qualifiers:
+      credit:
+        text: Apple Music edition artwork
+        language: en
+    references:
+    - source: music.apple.com-us-album-goosheh-gard-c3-a2n-1798590011
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ce/11/2c/ce112cf8-6939-c415-3409-965452a2c60a/198999937312.jpg/1200x630bb.jpg
+      accessed: '2026-11-21'
+      locator: Apple Music edition artwork

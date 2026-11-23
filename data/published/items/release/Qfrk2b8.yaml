@@ -1,0 +1,59 @@
+id: Qfrk2b8
+type: release
+statements:
+  name:
+  - value:
+      text: Qased
+      language: en
+    references:
+    - source: open.spotify.com-album-4zeluii1mcfyldrxfjyekd
+      quote: Qased
+      accessed: '2026-11-21'
+      locator: Spotify track listing
+  performer:
+  - value: Q5rnjaz
+    qualifiers:
+      role: tombak
+    references:
+    - source: music.apple.com-us-album-advar-1508384588
+      quote: Pedram Khavarzamini
+      accessed: '2026-11-21'
+      locator: Artist or track-specific guest billing
+  - value: Q4ky39b
+    references:
+    - source: music.apple.com-us-album-advar-1508384588
+      quote: Kaveh Mahmudiyan
+      accessed: '2026-11-21'
+      locator: Album headline billing
+  listen link:
+  - value: https://music.apple.com/us/song/qased/1508384956
+    references:
+    - source: music.apple.com-us-album-advar-1508384588
+      quote: Qased
+      accessed: '2026-11-21'
+      locator: Apple Music track listing
+  - value: https://open.spotify.com/track/1pije3HBYIMKZ1Wz6HkAz5
+    references:
+    - source: open.spotify.com-album-4zeluii1mcfyldrxfjyekd
+      quote: Qased
+      accessed: '2026-11-21'
+      locator: Spotify track listing
+  release date:
+  - value:
+      date: '2020-05-08'
+    references:
+    - source: music.apple.com-us-album-advar-1508384588
+      quote: '2020-05-08'
+      accessed: '2026-11-21'
+      locator: Apple Music edition issue date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/68/09/f0/6809f00e-bc12-4295-71e9-7da52c3c1109/195081357720.jpg/1200x630bb.jpg
+    qualifiers:
+      credit:
+        text: Apple Music edition artwork
+        language: en
+    references:
+    - source: music.apple.com-us-album-advar-1508384588
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/68/09/f0/6809f00e-bc12-4295-71e9-7da52c3c1109/195081357720.jpg/1200x630bb.jpg
+      accessed: '2026-11-21'
+      locator: Apple Music edition artwork

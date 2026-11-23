@@ -1,0 +1,66 @@
+id: Qd7pxmy
+type: release
+statements:
+  name:
+  - value:
+      text: Siwan - Hafla
+      language: en
+    references:
+    - source: open.spotify.com-album-7bo3asuy8kgmyjhqhxfcad
+      quote: Siwan - Hafla
+      accessed: '2026-11-21'
+      locator: Spotify edition title
+  release type:
+  - value: album
+    references:
+    - source: open.spotify.com-album-7bo3asuy8kgmyjhqhxfcad
+      quote: Siwan - Hafla
+      accessed: '2026-11-21'
+      locator: Spotify edition title
+  listen link:
+  - value: https://music.apple.com/us/album/siwan-hafla/1611606066
+    references:
+    - source: music.apple.com-us-album-siwan-hafla-1611606066
+      quote: ‎Siwan - Hafla - Album by Jon Balke - Apple Music
+      accessed: '2026-11-21'
+      locator: Edition title
+  - value: https://open.spotify.com/album/7BO3asuy8kgMYjhqHXFcAd
+    references:
+    - source: open.spotify.com-album-7bo3asuy8kgmyjhqhxfcad
+      quote: Siwan - Hafla
+      accessed: '2026-11-21'
+      locator: Spotify edition title
+  performer:
+  - value: Q5rnjaz
+    qualifiers:
+      role: tombak
+    references:
+    - source: ecmrecords.com-product-siwan-hafla-jon-balke
+      quote: Pedram Khavar Zamini Tombak
+      accessed: '2026-11-21'
+      locator: Original ECM personnel
+  - value: Qd36sav
+    references:
+    - source: music.apple.com-us-album-siwan-hafla-1611606066
+      quote: Jon Balke
+      accessed: '2026-11-21'
+      locator: Album headline billing
+  release date:
+  - value:
+      date: '2022-04-22'
+    references:
+    - source: music.apple.com-us-album-siwan-hafla-1611606066
+      quote: '2022-04-22'
+      accessed: '2026-11-21'
+      locator: Apple Music edition issue date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7c/90/de/7c90de58-1956-d98c-930c-b8e30fab3de5/21UM1IM55353.rgb.jpg/1200x630bb.jpg
+    qualifiers:
+      credit:
+        text: Apple Music edition artwork
+        language: en
+    references:
+    - source: music.apple.com-us-album-siwan-hafla-1611606066
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7c/90/de/7c90de58-1956-d98c-930c-b8e30fab3de5/21UM1IM55353.rgb.jpg/1200x630bb.jpg
+      accessed: '2026-11-21'
+      locator: Apple Music edition artwork

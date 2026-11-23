@@ -1,0 +1,96 @@
+id: Qd2km6g
+type: release
+statements:
+  name:
+  - value:
+      text: Jane Hazin
+      language: en
+    references:
+    - source: open.spotify.com-album-2rqdi8v4bmd12zczskbxfn
+      quote: Jane Hazin
+      accessed: '2026-11-21'
+      locator: Spotify track listing
+  - value:
+      text: جانِ حزین
+      language: fa
+    references:
+    - source: t.me-kiyarashdavoudi-209
+      quote: جان ِ حزین
+      accessed: '2026-11-21'
+      locator: Santur and tombak recording of the title work
+  performer:
+  - value: Q5rnjaz
+    qualifiers:
+      role: tombak
+    references:
+    - source: music.apple.com-us-album-jane-hazin-1858465428
+      quote: Pedram Khavarzamini
+      accessed: '2026-11-21'
+      locator: Artist or track-specific guest billing
+  - value: Qyrsg2f
+    references:
+    - source: music.apple.com-us-album-jane-hazin-1858465428
+      quote: Kiyarash Davoudi
+      accessed: '2026-11-21'
+      locator: Album headline billing
+  listen link:
+  - value: https://music.apple.com/us/song/jane-hazin/1858465636
+    references:
+    - source: music.apple.com-us-album-jane-hazin-1858465428
+      quote: Jane Hazin
+      accessed: '2026-11-21'
+      locator: Apple Music track listing
+  - value: https://open.spotify.com/track/1EHKxSTT3UDT4dJjA4Pruj
+    references:
+    - source: open.spotify.com-album-2rqdi8v4bmd12zczskbxfn
+      quote: Jane Hazin
+      accessed: '2026-11-21'
+      locator: Spotify track listing
+  - value: https://www.youtube.com/watch?v=opAnJ5PHRAk
+    references:
+    - source: www.youtube.com-watch-v-opanj5phrak
+      quote: 'جانِ حزین منتشر شد. #تنبک: #پدرام_خاورزمینی #سنتور: #کیارش_داودی'
+      accessed: '2026-11-21'
+      locator: Artist’s native video title
+    - source: www.youtube.com-watch-v-opanj5phrak
+      quote: kiyarash davoudi
+      accessed: '2026-11-21'
+      locator: Publisher
+  - value: https://t.me/kiyarashdavoudi/210
+    references:
+    - source: t.me-kiyarashdavoudi-210
+      quote: جان ِ حزین منتشر شد.
+      accessed: '2026-11-21'
+      locator: Music video in the composer’s Telegram feed
+  - value: https://soundcloud.com/kiyarashdavoudi/jane-hazin-1
+    references:
+    - source: soundcloud.com-kiyarashdavoudi-jane-hazin-1
+      quote: Jane Hazin
+      accessed: '2026-11-21'
+      locator: Artist SoundCloud recording title
+  release date:
+  - value:
+      date: '2023-10-24'
+    references:
+    - source: t.me-kiyarashdavoudi-209
+      quote: دوم آبان‌ماه هزار و چهارصد و دو
+      accessed: '2026-11-21'
+      locator: Date of the original single announcement
+  - value:
+      date: '2025-11-22'
+    references:
+    - source: music.apple.com-us-album-jane-hazin-1858465428
+      quote: '2025-11-22'
+      accessed: '2026-11-21'
+      locator: Apple Music edition issue date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/67/e4/60/67e460da-2ace-e179-27cb-e186b8fd6367/199806540077.jpg/1200x630bb.jpg
+    qualifiers:
+      credit:
+        text: Apple Music edition artwork
+        language: en
+    references:
+    - source: music.apple.com-us-album-jane-hazin-1858465428
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/67/e4/60/67e460da-2ace-e179-27cb-e186b8fd6367/199806540077.jpg/1200x630bb.jpg
+      accessed: '2026-11-21'
+      locator: Apple Music edition artwork
