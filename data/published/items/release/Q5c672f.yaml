@@ -1,0 +1,35 @@
+id: Q5c672f
+type: release
+statements:
+  name:
+  - value:
+      text: shanbehzadeh ensemble sharveh in kennedy center washington
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-xhp9kko1kb4
+      quote: shanbehzadeh ensemble sharveh in kennedy center washington
+      accessed: '2026-11-21'
+      locator: Artist-published performance film
+  performer:
+  - value: Qyd93n9
+    references:
+    - *id001
+  - value: Qdtxp3v
+    references:
+    - *id001
+  listen link:
+  - value: https://www.youtube.com/watch?v=xhP9KKO1kB4
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/xhP9KKO1kB4/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-xhp9kko1kb4
+      quote: https://i.ytimg.com/vi/xhP9KKO1kB4/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original film frame
+    qualifiers:
+      credit:
+        text: saeid shanbehzadeh
+        language: en

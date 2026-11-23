@@ -1,0 +1,32 @@
+id: Q2wr7r2
+type: release
+statements:
+  name:
+  - value:
+      text: Iran boushehr music  shanbehzadeh & jazz 3 dammam دمام موسیقی بوشهر شنبه زاده
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-x24ca2ifxzk
+      quote: Iran boushehr music  shanbehzadeh & jazz 3 dammam دمام موسیقی بوشهر شنبه زاده
+      accessed: '2026-11-21'
+      locator: Artist-published performance film
+  performer:
+  - value: Qyd93n9
+    references:
+    - *id001
+  listen link:
+  - value: https://www.youtube.com/watch?v=x24ca2iFXZk
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/x24ca2iFXZk/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-x24ca2ifxzk
+      quote: https://i.ytimg.com/vi/x24ca2iFXZk/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original film frame
+    qualifiers:
+      credit:
+        text: saeid shanbehzadeh
+        language: en

@@ -1,0 +1,21 @@
+id: Qkjpbfg
+type: release
+statements:
+  name:
+  - value:
+      text: سیریا سیریا
+      language: en
+    references:
+    - &id001
+      source: t.me-saeidshanbehzadeh-531
+      quote: سيريا سيريا
+      accessed: '2026-11-21'
+      locator: Artist’s caption to recording
+  performer:
+  - value: Qyd93n9
+    references:
+    - *id001
+  listen link:
+  - value: https://t.me/saeidshanbehzadeh/531
+    references:
+    - *id001

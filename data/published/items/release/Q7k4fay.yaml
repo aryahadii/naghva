@@ -1,0 +1,41 @@
+id: Q7k4fay
+type: release
+statements:
+  name:
+  - value:
+      text: ENSEMBLE SHANBHEZADEH & SHAHROKH MOSHKINE GHALAM au THÉÂTRE DES ABBESSES
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-lpfwniq1g8e
+      quote: ENSEMBLE SHANBHEZADEH & SHAHROKH MOSHKINE GHALAM au THÉÂTRE DES ABBESSES
+      accessed: '2026-11-21'
+      locator: Artist-published performance film
+  performer:
+  - value: Qyd93n9
+    references:
+    - *id001
+  - value: Qdtxp3v
+    references:
+    - *id001
+  - value: Q86s7nt
+    references:
+    - source: www.youtube.com-watch-v-lpfwniq1g8e
+      quote: SHAHROKH MOSHKINE
+      accessed: '2026-11-21'
+      locator: Original film title billing
+  listen link:
+  - value: https://www.youtube.com/watch?v=lPFWNIq1g8E
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/lPFWNIq1g8E/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-lpfwniq1g8e
+      quote: https://i.ytimg.com/vi/lPFWNIq1g8E/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original film frame
+    qualifiers:
+      credit:
+        text: saeid shanbehzadeh
+        language: en

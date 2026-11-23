@@ -1,0 +1,32 @@
+id: Qbpwj5s
+type: release
+statements:
+  name:
+  - value:
+      text: Calling for Freedom !
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-gsavf-edq3w
+      quote: Calling for Freedom !
+      accessed: '2026-11-21'
+      locator: Artist-published performance film
+  performer:
+  - value: Qyd93n9
+    references:
+    - *id001
+  listen link:
+  - value: https://www.youtube.com/watch?v=GsavF-Edq3w
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/GsavF-Edq3w/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-gsavf-edq3w
+      quote: https://i.ytimg.com/vi/GsavF-Edq3w/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original film frame
+    qualifiers:
+      credit:
+        text: saeid shanbehzadeh
+        language: en

@@ -1,0 +1,21 @@
+id: Qa7ynxk
+type: release
+statements:
+  name:
+  - value:
+      text: خیام‌خوانی
+      language: en
+    references:
+    - &id001
+      source: t.me-saeidshanbehzadeh-533
+      quote: خيام خواني
+      accessed: '2026-11-21'
+      locator: Artist’s caption to recording
+  performer:
+  - value: Qyd93n9
+    references:
+    - *id001
+  listen link:
+  - value: https://t.me/saeidshanbehzadeh/533
+    references:
+    - *id001

@@ -1,0 +1,36 @@
+id: Qvbh8e7
+type: release
+statements:
+  name:
+  - value:
+      text: Tehran Nights
+      language: en
+    references:
+    - &id001
+      source: www.iranian.com-music-tehrannights
+      quote: Pedram Derakhshani and Saeed Shanbehzadeh collaborate on this album
+      accessed: '2026-11-21'
+      locator: The two musicians on the original 2006 recording
+  performer:
+  - value: Qgw68ms
+    references:
+    - *id001
+  - value: Qyd93n9
+    references:
+    - *id001
+  listen link:
+  - value: https://open.spotify.com/album/7Gsjxa4PRzX3TgAxZ0jPHq
+    references:
+    - *id001
+  release type:
+  - value: album
+    references:
+    - *id001
+  release date:
+  - value:
+      date: '2006'
+    references:
+    - source: www.iranian.com-music-tehrannights
+      quote: September 20, 2006
+      accessed: '2026-11-21'
+      locator: Contemporary account of the album

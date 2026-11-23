@@ -1,0 +1,53 @@
+id: Qb49caz
+type: release
+statements:
+  name:
+  - value:
+      text: 'shanbehzadeh ensemble saeid shanbehzadeh,habib meftah boushehri,abdollah moghateli,mahmoud bardak nia  wedding music of south iran Boushehr neyjofti dammam '
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-j5wqa1nxxtu
+      quote: 'shanbehzadeh ensemble saeid shanbehzadeh,habib meftah boushehri,abdollah moghateli,mahmoud bardak nia  wedding music of south iran Boushehr neyjofti dammam '
+      accessed: '2026-11-21'
+      locator: Artist-published performance film
+  performer:
+  - value: Qyd93n9
+    references:
+    - *id001
+  - value: Qdtxp3v
+    references:
+    - *id001
+  - value: Q49prrc
+    references:
+    - source: www.youtube.com-watch-v-j5wqa1nxxtu
+      quote: habib meftah
+      accessed: '2026-11-21'
+      locator: Original film title billing
+  - value: Q3wmhjv
+    references:
+    - source: www.youtube.com-watch-v-j5wqa1nxxtu
+      quote: abdollah moghateli
+      accessed: '2026-11-21'
+      locator: Original film title billing
+  - value: Q9ag4qn
+    references:
+    - source: www.youtube.com-watch-v-j5wqa1nxxtu
+      quote: mahmoud bardak nia
+      accessed: '2026-11-21'
+      locator: Original film title billing
+  listen link:
+  - value: https://www.youtube.com/watch?v=j5WQA1nXxtU
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/j5WQA1nXxtU/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-j5wqa1nxxtu
+      quote: https://i.ytimg.com/vi/j5WQA1nXxtU/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original film frame
+    qualifiers:
+      credit:
+        text: saeid shanbehzadeh
+        language: en

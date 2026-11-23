@@ -1,0 +1,32 @@
+id: Qa62257
+type: release
+statements:
+  name:
+  - value:
+      text: saeid shanbehzadeh سنج و دمام بوشهری
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-4pzdrjzqvfi
+      quote: saeid shanbehzadeh سنج و دمام بوشهری
+      accessed: '2026-11-21'
+      locator: Artist-published performance film
+  performer:
+  - value: Qyd93n9
+    references:
+    - *id001
+  listen link:
+  - value: https://www.youtube.com/watch?v=4PzDRJzQVFI
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/4PzDRJzQVFI/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-4pzdrjzqvfi
+      quote: https://i.ytimg.com/vi/4PzDRJzQVFI/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original film frame
+    qualifiers:
+      credit:
+        text: saeid shanbehzadeh
+        language: en

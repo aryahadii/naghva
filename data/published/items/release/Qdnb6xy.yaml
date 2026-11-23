@@ -1,0 +1,38 @@
+id: Qdnb6xy
+type: release
+statements:
+  name:
+  - value:
+      text: Pour Afrigha Project, Saeid Shanbehzadeh & Rostam Mirlashari Stockholm Eldfesten 2017
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-uca9a2pvyoq
+      quote: Pour Afrigha Project, Saeid Shanbehzadeh & Rostam Mirlashari Stockholm Eldfesten 2017
+      accessed: '2026-11-21'
+      locator: Artist-published performance film
+  performer:
+  - value: Qyd93n9
+    references:
+    - *id001
+  - value: Qzcqddt
+    references:
+    - source: www.youtube.com-watch-v-uca9a2pvyoq
+      quote: Rostam Mirlashari
+      accessed: '2026-11-21'
+      locator: Original film title billing
+  listen link:
+  - value: https://www.youtube.com/watch?v=uca9A2pvYOQ
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/uca9A2pvYOQ/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-uca9a2pvyoq
+      quote: https://i.ytimg.com/vi/uca9A2pvYOQ/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original film frame
+    qualifiers:
+      credit:
+        text: saeid shanbehzadeh
+        language: en

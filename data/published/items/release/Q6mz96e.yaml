@@ -1,0 +1,32 @@
+id: Q6mz96e
+type: release
+statements:
+  name:
+  - value:
+      text: neyjofti Iran Boushehr  saeid shanbehzadeh
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-9rbvb8emlec
+      quote: neyjofti Iran Boushehr  saeid shanbehzadeh
+      accessed: '2026-11-21'
+      locator: Artist-published performance film
+  performer:
+  - value: Qyd93n9
+    references:
+    - *id001
+  listen link:
+  - value: https://www.youtube.com/watch?v=9rbVb8emLec
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/9rbVb8emLec/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-9rbvb8emlec
+      quote: https://i.ytimg.com/vi/9rbVb8emLec/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original film frame
+    qualifiers:
+      credit:
+        text: saeid shanbehzadeh
+        language: en

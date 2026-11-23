@@ -1,0 +1,55 @@
+id: Q8egz5n
+type: release
+statements:
+  name:
+  - value:
+      text: Ey Khoda
+      language: en
+    references:
+    - source: open.spotify.com-album-7gsjxa4przx3tgaxz0jphq
+      quote: Ey Khoda · Pedram Derakhshani, Saeid Shanbehzadeh
+      accessed: 2026-11-21
+      locator: Track 2
+  performer:
+  - value: Qyd93n9
+    references:
+    - source: open.spotify.com-album-7gsjxa4przx3tgaxz0jphq
+      quote: Ey Khoda · Pedram Derakhshani, Saeid Shanbehzadeh
+      accessed: 2026-11-21
+      locator: Track 2
+  - value: Qgw68ms
+    references:
+    - source: www.iranian.com-music-tehrannights
+      quote: Pedram Derakhshani and Saeed Shanbehzadeh collaborate on this album
+      accessed: '2026-11-21'
+      locator: The two musicians on the original 2006 recording
+  - value: Q64p25k
+    references:
+    - source: soundcloud.com-nag-1-1-saeid-shanbehzadeh-and-mirza
+      quote: Mirza zebardast
+      accessed: '2026-11-21'
+      locator: Named contributor to track
+  listen link:
+  - value: https://open.spotify.com/track/3SX08B93ZmnT5Bo4ijKKnl
+    references:
+    - source: open.spotify.com-album-7gsjxa4przx3tgaxz0jphq
+      quote: Ey Khoda · Pedram Derakhshani, Saeid Shanbehzadeh
+      accessed: 2026-11-21
+      locator: Track 2
+  - value: https://soundcloud.com/nag-1-1/saeid-shanbehzadeh-and-mirza
+    references:
+    - source: soundcloud.com-nag-1-1-saeid-shanbehzadeh-and-mirza
+      quote: Saeid Shanbehzadeh and Mirza zebardast-Ey Khoda Yala Yala
+      accessed: '2026-11-21'
+      locator: Artist’s SoundCloud recording
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-000033801808-5u0umy-large.jpg
+    references:
+    - source: soundcloud.com-nag-1-1-saeid-shanbehzadeh-and-mirza
+      quote: https://i1.sndcdn.com/artworks-000033801808-5u0umy-large.jpg
+      accessed: '2026-11-21'
+      locator: Artist file artwork
+    qualifiers:
+      credit:
+        text: Naghib Shanbehzadeh / SoundCloud
+        language: en

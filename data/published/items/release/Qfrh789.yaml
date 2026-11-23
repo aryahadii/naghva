@@ -1,0 +1,32 @@
+id: Qfrh789
+type: release
+statements:
+  name:
+  - value:
+      text: saeid shanbehzadeh ney mouro oman mars 2010
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-bwkea7yo56g
+      quote: saeid shanbehzadeh ney mouro oman mars 2010
+      accessed: '2026-11-21'
+      locator: Artist-published performance film
+  performer:
+  - value: Qyd93n9
+    references:
+    - *id001
+  listen link:
+  - value: https://www.youtube.com/watch?v=bWkEa7Yo56g
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/bWkEa7Yo56g/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-bwkea7yo56g
+      quote: https://i.ytimg.com/vi/bWkEa7Yo56g/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original film frame
+    qualifiers:
+      credit:
+        text: saeid shanbehzadeh
+        language: en

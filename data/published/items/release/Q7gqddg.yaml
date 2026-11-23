@@ -1,0 +1,24 @@
+id: Q7gqddg
+type: release
+statements:
+  name:
+  - value:
+      text: L. Subramaniam, Corky Siegel and the Shanbehzadehs
+      language: en
+    references:
+    - &id001
+      source: t.me-saeidshanbehzadeh-90
+      quote: Dr.L. subramanian violon, Corky Siegel  Harmonica, Hubert Laws Flut , Saeid Shanbehzadeh ney anban, Naghib Shanbehzadeh Zarb
+      accessed: '2026-11-21'
+      locator: Artist’s caption to recording
+  performer:
+  - value: Qyd93n9
+    references:
+    - *id001
+  - value: Qvhrrm8
+    references:
+    - *id001
+  listen link:
+  - value: https://t.me/saeidshanbehzadeh/90
+    references:
+    - *id001

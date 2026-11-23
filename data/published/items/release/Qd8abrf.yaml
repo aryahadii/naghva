@@ -1,0 +1,24 @@
+id: Qd8abrf
+type: release
+statements:
+  name:
+  - value:
+      text: سعید و نقیب شنبه‌زاده در بحرین
+      language: en
+    references:
+    - &id001
+      source: t.me-saeidshanbehzadeh-103
+      quote: سعيد و نقيب شنبه زاده  اجرا در كشور بحرين
+      accessed: '2026-11-21'
+      locator: Artist’s caption to recording
+  performer:
+  - value: Qyd93n9
+    references:
+    - *id001
+  - value: Qvhrrm8
+    references:
+    - *id001
+  listen link:
+  - value: https://t.me/saeidshanbehzadeh/103
+    references:
+    - *id001

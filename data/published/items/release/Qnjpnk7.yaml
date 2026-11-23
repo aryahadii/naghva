@@ -1,0 +1,27 @@
+id: Qnjpnk7
+type: release
+statements:
+  name:
+  - value:
+      text: چلچله باد شمال
+      language: en
+    references:
+    - &id001
+      source: t.me-saeidshanbehzadeh-34
+      quote: چلچله باد شمال
+      accessed: '2026-11-21'
+      locator: Artist’s caption to recording
+  performer:
+  - value: Qyd93n9
+    references:
+    - *id001
+  listen link:
+  - value: https://t.me/saeidshanbehzadeh/34
+    references:
+    - *id001
+  - value: https://t.me/saeidshanbehzadeh/55
+    references:
+    - source: t.me-saeidshanbehzadeh-55
+      quote: چلچله باد شمال
+      accessed: '2026-11-21'
+      locator: Artist’s caption to recording
