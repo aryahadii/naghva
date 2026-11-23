@@ -1,0 +1,41 @@
+id: Qepfm3c
+type: event
+statements:
+  name:
+  - value:
+      text: The Golden Rooster
+      language: en
+    references:
+    - source: cms.lamama.com.au-media-mbkfqi5h-la-mama-annual-general-report-2024-1.pdf
+      quote: The Golden Rooster/ Khoroos Zari Pirhan Pari
+      accessed: 2026-11-22
+      locator: La Mama’s Festival of Mother Tongues, p. 46
+  - value:
+      text: خروس زری پیرهن پری
+      language: fa
+    references:
+    - source: www.sbs.com.au-language-persian-fa-podcast-episode-the-childrens-show-golden-rooster-is-staged-in-melbourne-9pg6g3mdk
+      quote: خروس زری پیرهن پری
+      accessed: 2026-11-22
+      locator: SBS Persian interview introduction
+  event date:
+  - value:
+      date: '2024-11-12'
+    references:
+    - source: cms.lamama.com.au-media-mbkfqi5h-la-mama-annual-general-report-2024-1.pdf
+      quote: Nov 12 - 14 COURTHOUSE
+      accessed: 2026-11-22
+      locator: Festival retrospective, p. 46
+  performer:
+  - value: Qp75qps
+    qualifiers:
+      role: composer
+    references:
+    - source: cms.lamama.com.au-media-mbkfqi5h-la-mama-annual-general-report-2024-1.pdf
+      quote: 'Music: Vahideh Eisaei'
+      accessed: 2026-11-22
+      locator: Festival retrospective, p. 46
+    - source: cms.lamama.com.au-media-mbkfqi5h-la-mama-annual-general-report-2024-1.pdf
+      quote: 'Performers: Sepideh Karimi, Asal Rajabi, Vahideh Eisaei, Negin Majidi and Sana Nasimi Saeb'
+      accessed: 2026-11-22
+      locator: Festival retrospective, p. 46
