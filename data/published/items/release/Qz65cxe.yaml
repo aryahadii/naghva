@@ -1,0 +1,44 @@
+id: Qz65cxe
+type: release
+statements:
+  name:
+  - value:
+      text: Second Adoration
+      language: en
+    references:
+    - source: youtu.be-nlmzlghtvro
+      quote: Second Adoration
+      accessed: 2026-11-21
+      locator: Artist video title
+  release date:
+  - value:
+      date: '2023-03-12'
+    references:
+    - source: youtu.be-nlmzlghtvro
+      quote: '2023-03-12'
+      accessed: 2026-11-21
+      locator: Video publication date
+  listen link:
+  - value: https://www.youtube.com/watch?v=nLmzlghTVRo
+    references:
+    - source: youtu.be-nlmzlghtvro
+      quote: Second Adoration
+      accessed: 2026-11-21
+      locator: Artist video title
+  cover art:
+  - value: https://i.ytimg.com/vi/nLmzlghTVRo/hqdefault.jpg
+    references:
+    - source: youtu.be-nlmzlghtvro
+      quote: Second Adoration
+      accessed: 2026-11-21
+      locator: Artist video title
+  contributor:
+  - value: Qwh5yn8
+    references:
+    - source: youtu.be-nlmzlghtvro
+      quote: مجموعه‌ نیایش که با آهنگسازی احسان مطوری، علی منتظری و با حضور گروه هزار آوا شکل گرفته‌ست، با هدف آشنایی
+        بیشتر با این استاد مسلم است. امیدواریم این قدم کوتاه، موثر ب
+      accessed: 2026-11-21
+      locator: Performance or composition credit
+    qualifiers:
+      role: composer

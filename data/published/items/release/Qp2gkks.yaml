@@ -1,0 +1,53 @@
+id: Qp2gkks
+type: release
+statements:
+  name:
+  - value:
+      text: Shiraz
+      language: en
+    references:
+    - source: music.apple.com-us-album-shiraz-single-1710302682
+      quote: Shiraz
+      accessed: 2026-11-21
+      locator: Track listing
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6b/6d/9d/6b6d9db7-ae33-3993-ba64-8f09137f26c8/198026177599.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-shiraz-single-1710302682
+      quote: Shiraz - Single
+      accessed: 2026-11-21
+      locator: Release heading
+  release date:
+  - value:
+      date: '2023-10-10'
+    references:
+    - source: music.apple.com-us-album-shiraz-single-1710302682
+      quote: '2023-10-10'
+      accessed: 2026-11-21
+      locator: Edition release date
+  performer:
+  - value: Qwh5yn8
+    references:
+    - source: music.apple.com-us-album-shiraz-single-1710302682
+      quote: Ehsan Matoori
+      accessed: 2026-11-21
+      locator: Release artist
+  listen link:
+  - value: https://music.apple.com/us/album/shiraz-single/1710302682
+    references:
+    - source: music.apple.com-us-album-shiraz-single-1710302682
+      quote: Shiraz
+      accessed: 2026-11-21
+      locator: Track listing
+  - value: https://music.apple.com/us/song/shiraz/1710302683
+    references:
+    - source: music.apple.com-us-album-shiraz-single-1710302682
+      quote: Shiraz
+      accessed: 2026-11-21
+      locator: Track listing
+  - value: https://soundcloud.com/ehsan-matoori/shiraz-demo
+    references:
+    - source: soundcloud.com-ehsan-matoori-shiraz-demo
+      quote: Shiraz ft. Pejman Hadadi
+      accessed: 2026-11-21
+      locator: Recording on the Ehsan Matoori profile

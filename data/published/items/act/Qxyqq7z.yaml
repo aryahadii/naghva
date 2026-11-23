@@ -1,0 +1,56 @@
+id: Qxyqq7z
+type: act
+statements:
+  name:
+  - value:
+      text: Siriya Ensemble
+      language: en
+    references:
+    - source: open.spotify.com-artist-097dd3jcsjubipdniq5vxa
+      quote: Listen to Siriya Ensemble Songs | Spotify
+      accessed: 2026-11-21
+      locator: Native profile
+  - value:
+      text: سیریا
+      language: fa
+    references:
+    - source: t.me-siriyaensemble-277
+      quote: نسخه فیزیکی آلبوم رو می تونید از وبسایت سیریا تهیه کنید
+      accessed: 2026-11-21
+      locator: Original group post 277
+  image:
+  - value: https://i.scdn.co/image/ab6761610000e5eb545c085f2b9790ef19a0071b
+    qualifiers:
+      credit:
+        text: Siriya Ensemble / Spotify
+        language: en
+    references:
+    - source: open.spotify.com-artist-097dd3jcsjubipdniq5vxa
+      quote: https://i.scdn.co/image/ab6761610000e5eb545c085f2b9790ef19a0071b
+      accessed: 2026-11-21
+      locator: Issued artist photograph
+  profile link:
+  - value: https://open.spotify.com/artist/097Dd3JcsJUbipdNiQ5vXA
+    references:
+    - source: open.spotify.com-artist-097dd3jcsjubipdniq5vxa
+      quote: Listen to Siriya Ensemble Songs | Spotify
+      accessed: 2026-11-21
+      locator: Artist profile
+  - value: https://open.spotify.com/artist/1nmM6xGGzax0GVK0CKXOCZ
+    references:
+    - source: open.spotify.com-artist-1nmm6xggzax0gvk0ckxocz
+      quote: Listen to SIRIYA ENSEMBLE Songs | Spotify
+      accessed: 2026-11-21
+      locator: Artist profile
+  - value: https://music.apple.com/us/artist/siriya-ensemble/1477185014
+    references:
+    - source: music.apple.com-us-artist-siriya-ensemble-1477185014
+      quote: ‎Siriya Ensemble - Apple Music
+      accessed: 2026-11-21
+      locator: Artist profile
+  - value: https://www.youtube.com/channel/UCqnmvKIiBAnH3Luw1CoExiQ
+    references:
+    - source: www.youtube.com-channel-ucqnmvkiibanh3luw1coexiq
+      quote: Siriya Ensemble
+      accessed: 2026-11-21
+      locator: Artist channel

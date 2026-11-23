@@ -1,0 +1,49 @@
+id: Q3kbkg8
+type: release
+statements:
+  name:
+  - value:
+      text: Ariobarzanes at the Gate
+      language: en
+    references:
+    - source: mikeblock.bandcamp.com-album-guzo
+      quote: Ariobarzanes at the Gate
+      accessed: 2026-11-21
+      locator: Track 5 title
+  performer:
+  - value: Qwh5yn8
+    qualifiers:
+      role: santur
+    references:
+    - source: mikeblock.bandcamp.com-album-guzo
+      quote: EHSAN MATOORI (SANTUR)
+      accessed: 2026-11-21
+      locator: Track 5 recording credits
+  cover art:
+  - value: https://f4.bcbits.com/img/a0204767744_10.jpg
+    references:
+    - source: mikeblock.bandcamp.com-album-guzo
+      quote: https://f4.bcbits.com/img/a0204767744_10.jpg
+      accessed: 2026-11-21
+      locator: Album cover
+  release date:
+  - value:
+      date: '2020-08-21'
+    references:
+    - source: mikeblock.bandcamp.com-album-guzo
+      quote: released August 21, 2020
+      accessed: 2026-11-21
+      locator: Digital release date
+  listen link:
+  - value: https://mikeblock.bandcamp.com/track/ariobarzanes-at-the-gate
+    references:
+    - source: mikeblock.bandcamp.com-album-guzo
+      quote: Ariobarzanes at the Gate
+      accessed: 2026-11-21
+      locator: Track 5 title
+  - value: https://www.youtube.com/watch?v=SLM_K7yX-RA
+    references:
+    - source: youtu.be-slm_k7yx-ra
+      quote: '"Ariobarzanes at the Gate"- by Mike Block, featuring Farzin Dehghan & Ehsan Matoori'
+      accessed: 2026-11-21
+      locator: Film title
