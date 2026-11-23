@@ -1,0 +1,48 @@
+id: Qn3f77y
+type: release
+statements:
+  name:
+  - value:
+      text: Gebete
+      language: en
+    references:
+    - source: open.spotify.com-album-09e7m7pjtpl8avtjoas9le
+      quote: Gebete
+      accessed: 2026-11-21
+      locator: Edition or recording title
+  performer:
+  - value: Qnessyd
+    references:
+    - source: open.spotify.com-album-09e7m7pjtpl8avtjoas9le
+      quote: Cymin Samawatie, Trickster Orchestra
+      accessed: 2026-11-21
+      locator: Billed artists on the recording
+  release date:
+  - value:
+      date: '2021-04-16'
+    references:
+    - source: open.spotify.com-album-09e7m7pjtpl8avtjoas9le
+      quote: '2021-04-16'
+      accessed: 2026-11-21
+      locator: Edition date
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d0000b2734f0e3462aae0e4fe55ca65fb
+    references:
+    - source: open.spotify.com-album-09e7m7pjtpl8avtjoas9le
+      quote: https://i.scdn.co/image/ab67616d0000b2734f0e3462aae0e4fe55ca65fb
+      accessed: 2026-11-21
+      locator: Edition cover
+  release type:
+  - value: single
+    references:
+    - source: open.spotify.com-album-09e7m7pjtpl8avtjoas9le
+      quote: Single
+      accessed: 2026-11-21
+      locator: Native edition type
+  listen link:
+  - value: https://open.spotify.com/album/09E7M7PjtPL8AVtjoAs9le
+    references:
+    - source: open.spotify.com-album-09e7m7pjtpl8avtjoas9le
+      quote: Gebete
+      accessed: 2026-11-21
+      locator: Edition or recording title

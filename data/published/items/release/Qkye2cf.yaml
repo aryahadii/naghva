@@ -1,0 +1,41 @@
+id: Qkye2cf
+type: release
+statements:
+  name:
+  - value:
+      text: Nightingales in Berlin
+      language: en
+    references:
+    - source: open.spotify.com-album-4otcgf7x141dfrsa8z3abi
+      quote: Nightingales in Berlin
+      accessed: 2026-11-21
+      locator: Edition or recording title
+  performer:
+  - value: Qnessyd
+    references:
+    - source: open.spotify.com-album-4otcgf7x141dfrsa8z3abi
+      quote: David Rothenberg, Cymin Samawatie, Lembe Lokk
+      accessed: 2026-11-21
+      locator: Billed artists on the recording
+  release date:
+  - value:
+      date: '2019-02-14'
+    references:
+    - source: open.spotify.com-album-4otcgf7x141dfrsa8z3abi
+      quote: '2019-02-14'
+      accessed: 2026-11-21
+      locator: Edition date
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d0000b2739d2eb7d34efb4da493e030dc
+    references:
+    - source: open.spotify.com-album-4otcgf7x141dfrsa8z3abi
+      quote: https://i.scdn.co/image/ab67616d0000b2739d2eb7d34efb4da493e030dc
+      accessed: 2026-11-21
+      locator: Edition cover
+  listen link:
+  - value: https://open.spotify.com/album/4otCGF7X141DFRSA8z3ABI
+    references:
+    - source: open.spotify.com-album-4otcgf7x141dfrsa8z3abi
+      quote: Nightingales in Berlin
+      accessed: 2026-11-21
+      locator: Edition or recording title
