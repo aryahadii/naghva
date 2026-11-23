@@ -1,0 +1,32 @@
+id: Qfdq2fg
+type: release
+statements:
+  name:
+  - value:
+      text: Naghib Shanbehzadeh - Black Triangle
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v--gcfvineugu
+      quote: Naghib Shanbehzadeh - Black Triangle
+      accessed: '2026-11-21'
+      locator: Artist-published performance film
+  performer:
+  - value: Qvhrrm8
+    references:
+    - *id001
+  listen link:
+  - value: https://www.youtube.com/watch?v=-GcFVinEugU
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/-GcFVinEugU/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v--gcfvineugu
+      quote: https://i.ytimg.com/vi/-GcFVinEugU/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original film frame
+    qualifiers:
+      credit:
+        text: naghib shanbehzadeh
+        language: en

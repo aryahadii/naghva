@@ -1,0 +1,66 @@
+id: Q46g2ht
+type: release
+statements:
+  name:
+  - value:
+      text: Didar
+      language: en
+    references:
+    - source: music.apple.com-us-album-didar-single-1707707973
+      quote: Didar
+      accessed: 2026-11-21
+      locator: Individual track
+  performer:
+  - value: Qvhrrm8
+    references:
+    - source: open.spotify.com-album-7s9uqbghqfa1msibr6smez
+      quote: Didar · Bakean, Naghib Shanbehzadeh
+      accessed: 2026-11-21
+      locator: Track 1
+  listen link:
+  - value: https://music.apple.com/us/song/didar/1707707974
+    references:
+    - source: music.apple.com-us-album-didar-single-1707707973
+      quote: Didar
+      accessed: 2026-11-21
+      locator: Individual track
+  - value: https://open.spotify.com/track/6DVld43jE62qB2qteCRR1p
+    references:
+    - source: open.spotify.com-album-7s9uqbghqfa1msibr6smez
+      quote: Didar · Bakean
+      accessed: 2026-11-21
+      locator: Spotify record
+  - value: https://music.apple.com/us/album/didar-single/1707707973
+    references:
+    - source: music.apple.com-us-album-didar-single-1707707973
+      quote: Didar - Single · Bakean, Naghib Shanbehzadeh · 2023-09-15
+      accessed: 2026-11-21
+      locator: Album billing and date
+  - value: https://open.spotify.com/album/7s9uqbghQFa1msiBR6SMEz
+    references:
+    - source: open.spotify.com-album-7s9uqbghqfa1msibr6smez
+      quote: Didar · Bakean
+      accessed: 2026-11-21
+      locator: Spotify record
+  release date:
+  - value:
+      date: '2023-09-15'
+    references:
+    - source: music.apple.com-us-album-didar-single-1707707973
+      quote: Didar
+      accessed: 2026-11-21
+      locator: Individual track
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-didar-single-1707707973
+      quote: Didar
+      accessed: 2026-11-21
+      locator: Individual track
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/4d/d1/a5/4dd1a584-fddf-91b1-15c2-8abd175fe8b8/00_Cover_Art.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-didar-single-1707707973
+      quote: Didar
+      accessed: 2026-11-21
+      locator: Individual track

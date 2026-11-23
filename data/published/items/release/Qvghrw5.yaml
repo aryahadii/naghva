@@ -1,0 +1,45 @@
+id: Qvghrw5
+type: release
+statements:
+  name:
+  - value:
+      text: Liberté
+      language: en
+    references:
+    - source: music.apple.com-us-album-i-am-ep-1625618945
+      quote: Liberté
+      accessed: 2026-11-21
+      locator: Individual track
+  performer:
+  - value: Qvhrrm8
+    references:
+    - source: open.spotify.com-album-7hrcvixbhpl6t00fkvh1ey
+      quote: Liberté · Naghib Shanbehzadeh
+      accessed: 2026-11-21
+      locator: Track 6
+  listen link:
+  - value: https://music.apple.com/us/song/libert%C3%A9/1625619672
+    references:
+    - source: music.apple.com-us-album-i-am-ep-1625618945
+      quote: Liberté
+      accessed: 2026-11-21
+      locator: Individual track
+  - value: https://open.spotify.com/track/4N2IcrSPXFGumvEwFHSjPc
+    references:
+    - source: open.spotify.com-album-7hrcvixbhpl6t00fkvh1ey
+      quote: I Am · Naghib Shanbehzadeh
+      accessed: 2026-11-21
+      locator: Spotify record
+  - value: https://soundcloud.com/nag-1-1/liberte
+    references:
+    - source: soundcloud.com-nag-1-1-liberte
+      quote: Liberté
+      accessed: '2026-11-21'
+      locator: Artist’s SoundCloud recording
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ac/52/16/ac5216c5-1c38-1361-01a4-652df12d1cef/859762392294_cover.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-i-am-ep-1625618945
+      quote: Liberté
+      accessed: 2026-11-21
+      locator: Individual track

@@ -1,0 +1,32 @@
+id: Q2476th
+type: release
+statements:
+  name:
+  - value:
+      text: Naghib Shanbehzadeh solo in San Francisco
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-p16_tqvt0ri
+      quote: Naghib Shanbehzadeh solo in San Francisco
+      accessed: '2026-11-21'
+      locator: Artist-published performance film
+  performer:
+  - value: Qvhrrm8
+    references:
+    - *id001
+  listen link:
+  - value: https://www.youtube.com/watch?v=P16_tqvt0RI
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/P16_tqvt0RI/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-p16_tqvt0ri
+      quote: https://i.ytimg.com/vi/P16_tqvt0RI/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original film frame
+    qualifiers:
+      credit:
+        text: naghib shanbehzadeh
+        language: en

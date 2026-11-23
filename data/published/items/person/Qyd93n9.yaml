@@ -1,0 +1,63 @@
+id: Qyd93n9
+type: person
+statements:
+  name:
+  - value:
+      text: Saeid Shanbehzadeh
+      language: en
+    references:
+    - source: www.radiofarda.com-a-f2_shanbehzadeh_iranian_folk_musician-454730.html
+      quote: Saeid Shanbehzadeh
+      accessed: 2026-11-21
+      locator: Artist or ensemble billing
+  - value:
+      text: سعید شنبه زاده
+      language: fa
+    references:
+    - source: www.radiofarda.com-a-f2_shanbehzadeh_iranian_folk_musician-454730.html
+      quote: سعید شنبه زاده در حال اجرای برنامه با پسرش در پراگ
+      accessed: 2026-11-21
+      locator: Radio Farda performance caption
+  image:
+  - value: https://gdb.rferl.org/9eac206d-c61a-4087-815e-9b82b47bb711_w1200_h630.jpg
+    qualifiers:
+      credit:
+        text: RFE/RL
+        language: en
+    references:
+    - source: www.radiofarda.com-a-f2_shanbehzadeh_iranian_folk_musician-454730.html
+      quote: https://gdb.rferl.org/9eac206d-c61a-4087-815e-9b82b47bb711_w1200_h630.jpg
+      accessed: 2026-11-21
+      locator: Original credited artist photograph
+  profile link:
+  - value: https://open.spotify.com/artist/1uS7M2kI62VRWBN4mH0Snt
+    references:
+    - source: open.spotify.com-artist-1us7m2ki62vrwbn4mh0snt
+      quote: Listen to Saeid Shanbehzadeh Songs | Spotify
+      accessed: 2026-11-21
+      locator: Verified catalog identity
+  - value: https://www.youtube.com/@shanbehzadeh
+    references:
+    - source: www.youtube.com-watch-v-uyzj3gfzfmw
+      quote: https://www.youtube.com/@shanbehzadeh
+      accessed: '2026-11-21'
+      locator: Artist-published channel
+  - value: https://www.youtube.com/@saeidshanbehzadeh3762
+    references:
+    - source: www.youtube.com-watch-v-qg0fsjsdqsi
+      quote: https://www.youtube.com/@saeidshanbehzadeh3762
+      accessed: '2026-11-21'
+      locator: Artist-published channel
+  - value: https://soundcloud.com/saeid-shanbehzadeh
+    references:
+    - source: soundcloud.com-saeid-shanbehzadeh
+      quote: Saeid Shanbehzadeh
+      accessed: '2026-11-21'
+      locator: Original musician account
+  member of:
+  - value: Qdtxp3v
+    references:
+    - source: www.womex.com-virtual-shanbehzadeh
+      quote: Founded in 1990, this Ensemble directed by Saeid Shanbehzadeh
+      accessed: 2026-11-21
+      locator: Ensemble history and lineup

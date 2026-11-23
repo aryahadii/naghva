@@ -1,0 +1,72 @@
+id: Q7xkg6s
+type: release
+statements:
+  name:
+  - value:
+      text: Ey Del
+      language: en
+    references:
+    - source: music.apple.com-us-album-ey-del-single-1798404660
+      quote: Ey Del
+      accessed: 2026-11-21
+      locator: Individual track
+  performer:
+  - value: Qvhrrm8
+    references:
+    - source: open.spotify.com-album-2fz25qvzc4wnk5tyl7heio
+      quote: Ey Del · Naghib Shanbehzadeh
+      accessed: 2026-11-21
+      locator: Track 1
+  listen link:
+  - value: https://music.apple.com/us/song/ey-del/1798404661
+    references:
+    - source: music.apple.com-us-album-ey-del-single-1798404660
+      quote: Ey Del
+      accessed: 2026-11-21
+      locator: Individual track
+  - value: https://open.spotify.com/track/1z6wUsh75Kzne75g8ZY3jN
+    references:
+    - source: open.spotify.com-album-2fz25qvzc4wnk5tyl7heio
+      quote: Ey Del · Naghib Shanbehzadeh
+      accessed: 2026-11-21
+      locator: Spotify record
+  - value: https://music.apple.com/us/album/ey-del-single/1798404660
+    references:
+    - source: music.apple.com-us-album-ey-del-single-1798404660
+      quote: Ey Del - Single · Naghib Shanbehzadeh · 2025-03-21
+      accessed: 2026-11-21
+      locator: Album billing and date
+  - value: https://open.spotify.com/album/2Fz25QvZC4wNk5tyL7heIO
+    references:
+    - source: open.spotify.com-album-2fz25qvzc4wnk5tyl7heio
+      quote: Ey Del · Naghib Shanbehzadeh
+      accessed: 2026-11-21
+      locator: Spotify record
+  - value: https://soundcloud.com/nag-1-1/ey-del
+    references:
+    - source: soundcloud.com-nag-1-1-ey-del
+      quote: Ey Del
+      accessed: '2026-11-21'
+      locator: Artist’s SoundCloud recording
+  release date:
+  - value:
+      date: '2025-03-21'
+    references:
+    - source: music.apple.com-us-album-ey-del-single-1798404660
+      quote: Ey Del
+      accessed: 2026-11-21
+      locator: Individual track
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-ey-del-single-1798404660
+      quote: Ey Del
+      accessed: 2026-11-21
+      locator: Individual track
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/91/33/82/913382ba-f1de-8735-8cd6-bf54c906517b/199282503092_cover.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-ey-del-single-1798404660
+      quote: Ey Del
+      accessed: 2026-11-21
+      locator: Individual track

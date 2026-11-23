@@ -1,0 +1,38 @@
+id: Q5aqj5r
+type: release
+statements:
+  name:
+  - value:
+      text: HOPE
+      language: en
+    references:
+    - &id001
+      source: soundcloud.com-nag-1-1-hope
+      quote: HOPE
+      accessed: '2026-11-21'
+      locator: Artist’s SoundCloud recording
+  performer:
+  - value: Qvhrrm8
+    references:
+    - *id001
+  listen link:
+  - value: https://soundcloud.com/nag-1-1/hope
+    references:
+    - *id001
+  - value: https://www.youtube.com/watch?v=091hnNg9SFo
+    references:
+    - source: www.youtube.com-watch-v-091hnng9sfo
+      quote: Naghib Shanbehzadeh - HOPE
+      accessed: '2026-11-21'
+      locator: Artist-published performance film
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-0cCwk1QWcMKKB23z-YEk0RQ-large.jpg
+    references:
+    - source: soundcloud.com-nag-1-1-hope
+      quote: https://i1.sndcdn.com/artworks-0cCwk1QWcMKKB23z-YEk0RQ-large.jpg
+      accessed: '2026-11-21'
+      locator: Artist file artwork
+    qualifiers:
+      credit:
+        text: Naghib Shanbehzadeh / SoundCloud
+        language: en
