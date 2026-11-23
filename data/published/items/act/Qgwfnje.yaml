@@ -1,0 +1,36 @@
+id: Qgwfnje
+type: act
+statements:
+  name:
+  - value:
+      text: The Resonant Heart
+      language: en
+    references:
+    - source: theresonantheart.bandcamp.com-album-the-heart-whispers-and-whirls-excerpts
+      quote: The Resonant Heart is a collective
+      locator: Original programme, liner notes or performer credit
+      accessed: '2026-11-21'
+  image:
+  - value: https://api.melbournerecital.com.au/media/0hdlm5zj/the-resonant-heart-desktop-1.png
+    qualifiers:
+      credit:
+        text: Melbourne Recital Centre
+        language: en
+    references:
+    - source: www.melbournerecital.com.au-whats-on-current-productions-hear-beyond-the-resonant-heart
+      quote: https://api.melbournerecital.com.au/media/0hdlm5zj/the-resonant-heart-desktop-1.png
+      accessed: 2026-11-22
+      locator: Original image file of the photograph published by the organizer
+  profile link:
+  - value: https://theresonantheart.bandcamp.com
+    references:
+    - source: theresonantheart.bandcamp.com-music
+      quote: theresonantheart.bandcamp.com
+      locator: Original programme, liner notes or performer credit
+      accessed: '2026-11-21'
+  - value: https://music.apple.com/au/artist/the-resonant-heart/1814560698
+    references:
+    - source: music.apple.com-au-album-the-heart-whispers-and-whirls-excerpts-ep-1817326084uo-4
+      quote: https://music.apple.com/au/artist/the-resonant-heart/1814560698
+      locator: Original programme, liner notes or performer credit
+      accessed: '2026-11-21'
