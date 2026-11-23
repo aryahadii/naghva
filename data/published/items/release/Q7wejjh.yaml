@@ -1,0 +1,59 @@
+id: Q7wejjh
+type: release
+statements:
+  name:
+  - value:
+      text: Klangteppich Between Berlin and Istanbul
+      language: en
+    references:
+    - source: noise-a-noise.bandcamp.com-track-07-orlando-de-boeykens-and-xeen-klangteppich-iii-berlin-istanbul
+      quote: 07 - Orlando De Boeykens and Xeen - Klangteppich III (Berlin-Istanbul) | Various Artists | Noise à Noise
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qb5hnjh
+    references:
+    - source: noise-a-noise.bandcamp.com-track-07-orlando-de-boeykens-and-xeen-klangteppich-iii-berlin-istanbul
+      quote: 07 - Orlando De Boeykens and Xeen - Klangteppich III (Berlin-Istanbul) | Various Artists | Noise à Noise
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qwfg8te
+    references:
+    - source: anoise.org-2021-07-01-klangteppich-iii-festival-boeykens-xeen-berlin-istanbul
+      quote: tuba
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: tuba
+  listen link:
+  - value: https://noise-a-noise.bandcamp.com/track/07-orlando-de-boeykens-and-xeen-klangteppich-iii-berlin-istanbul
+    references:
+    - source: noise-a-noise.bandcamp.com-track-07-orlando-de-boeykens-and-xeen-klangteppich-iii-berlin-istanbul
+      quote: 07 - Orlando De Boeykens and Xeen - Klangteppich III (Berlin-Istanbul) | Various Artists | Noise à Noise
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/5VwS027EGsiTjqxWCV61ES
+    references:
+    - source: open.spotify.com-track-5vws027egsitjqxwcv61es
+      quote: Klangteppich Between Berlin and Istanbul - song and lyrics by Orlando Boeykens, Xeen | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a1739726558_10.jpg
+    references:
+    - source: noise-a-noise.bandcamp.com-track-07-orlando-de-boeykens-and-xeen-klangteppich-iii-berlin-istanbul
+      quote: https://f4.bcbits.com/img/a1739726558_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Publisher artwork
+        language: en
+  release date:
+  - value:
+      date: '2021-08-07'
+    references:
+    - source: noise-a-noise.bandcamp.com-track-07-orlando-de-boeykens-and-xeen-klangteppich-iii-berlin-istanbul
+      quote: released August 7, 2021
+      accessed: '2026-11-21'
+      locator: Published date

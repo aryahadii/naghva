@@ -1,0 +1,69 @@
+id: Qwjkmcj
+type: release
+statements:
+  name:
+  - value:
+      text: Born to die
+      language: en
+    references:
+    - source: xeen.bandcamp.com-track-born-to-die
+      quote: Born to die | XEEN
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qb5hnjh
+    references:
+    - source: xeen.bandcamp.com-track-born-to-die
+      quote: Born to die | XEEN
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://xeen.bandcamp.com/track/born-to-die
+    references:
+    - source: xeen.bandcamp.com-track-born-to-die
+      quote: Born to die | XEEN
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/album/3x2tWYHj9ugJ5lAMcAfge7
+    references:
+    - source: open.spotify.com-album-3x2twyhj9ugj5lamcafge7
+      quote: Listen to Born to Die - Single by Xeen | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/6JXc9mzBF8vTBGR02UG4wY
+    references:
+    - source: open.spotify.com-track-6jxc9mzbf8vtbgr02ug4wy
+      quote: Born to Die - song and lyrics by Xeen | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1512602387
+    references:
+    - source: music.apple.com-us-song-1512602387
+      quote: ‎Born to Die - Song with Lyrics by Xeen - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/xe_en/born-to-die-1
+    references:
+    - source: soundcloud.com-xe_en-born-to-die-1
+      quote: Stream Born to die by XEEN | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a3190625445_10.jpg
+    references:
+    - source: xeen.bandcamp.com-track-born-to-die
+      quote: https://f4.bcbits.com/img/a3190625445_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Publisher artwork
+        language: en
+  release date:
+  - value:
+      date: '2020-05-07'
+    references:
+    - source: xeen.bandcamp.com-track-born-to-die
+      quote: released May 7, 2020
+      accessed: '2026-11-21'
+      locator: Published date
