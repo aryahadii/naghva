@@ -7,29 +7,57 @@ statements:
       language: en
     references:
     - source: music.apple.com-us-album-ba-raftanet-feat-mohsen-namjoo-single-1440985669
-      quote: |-
-        Ba Raftanet (feat. Mohsen Namjoo) - Single - Album by Eendo - Apple Music
+      quote: Ba Raftanet (feat. Mohsen Namjoo) - Single - Album by Eendo - Apple Music
       accessed: '2026-11-09'
+  - value:
+      text: با رفتنت
+      language: fa
+    references:
+    - source: soundcloud.com-eendomusic-ba-raftanet-feat-mohsen-namjoo
+      quote: با رفتنت
+      accessed: '2026-11-21'
+      locator: Artist’s Persian title
   release type:
   - value: single
     references:
     - source: music.apple.com-us-album-ba-raftanet-feat-mohsen-namjoo-single-1440985669
-      quote: |-
-        Ba Raftanet (feat. Mohsen Namjoo) - Single - Album by Eendo - Apple Music
+      quote: Ba Raftanet (feat. Mohsen Namjoo) - Single - Album by Eendo - Apple Music
       accessed: '2026-11-09'
   listen link:
   - value: https://music.apple.com/us/album/ba-raftanet-feat-mohsen-namjoo-single/1440985669
     references:
     - source: music.apple.com-us-album-ba-raftanet-feat-mohsen-namjoo-single-1440985669
-      quote: |-
-        Ba Raftanet (feat. Mohsen Namjoo) - Single - Album by Eendo - Apple Music
+      quote: Ba Raftanet (feat. Mohsen Namjoo) - Single - Album by Eendo - Apple Music
       accessed: '2026-11-09'
+  - value: https://music.apple.com/us/song/ba-raftanet-feat-mohsen-namjoo/1440985670
+    references:
+    - source: music.apple.com-us-album-ba-raftanet-feat-mohsen-namjoo-single-1440985669
+      quote: https://music.apple.com/us/song/ba-raftanet-feat-mohsen-namjoo/1440985670
+      accessed: '2026-11-21'
+      locator: Apple track link
+  - value: https://open.spotify.com/track/7DawdYaGivjWzrC5wb1Ro0
+    references:
+    - source: open.spotify.com-embed-album-57wqevvopvt1dpcmd4jmox
+      quote: spotify:track:7DawdYaGivjWzrC5wb1Ro0
+      accessed: '2026-11-21'
+      locator: Spotify track URI
+  - value: https://soundcloud.com/eendomusic/ba-raftanet-feat-mohsen-namjoo
+    references:
+    - source: soundcloud.com-eendomusic-ba-raftanet-feat-mohsen-namjoo
+      quote: Stream Ba Raftanet (feat. Mohsen Namjoo) |  با رفتنت by Eendo | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Original duo SoundCloud recording
+  - value: https://www.youtube.com/watch?v=wx0MANtIy-0
+    references:
+    - source: www.youtube.com-watch-v-wx0mantiy-0
+      quote: ایندو - "با رفتنت"  |  "Eendo - "Ba Raftanet
+      accessed: '2026-11-21'
+      locator: Original duo channel
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/a4/06/96/a40696cd-fd9c-eb86-1ad6-9b24a3ac0497/193428116573.jpg/1200x630wp-60.jpg
     references:
     - source: music.apple.com-us-album-ba-raftanet-feat-mohsen-namjoo-single-1440985669
-      quote: |-
-        Ba Raftanet (feat. Mohsen Namjoo) - Single - Album by Eendo - Apple Music
+      quote: Ba Raftanet (feat. Mohsen Namjoo) - Single - Album by Eendo - Apple Music
       accessed: '2026-11-09'
     qualifiers:
       credit:
@@ -39,20 +67,17 @@ statements:
   - value: Qnbrhrh
     references:
     - source: music.apple.com-us-album-ba-raftanet-feat-mohsen-namjoo-single-1440985669
-      quote: |-
-        Ba Raftanet (feat. Mohsen Namjoo) - Single - Album by Eendo - Apple Music
+      quote: Ba Raftanet (feat. Mohsen Namjoo) - Single - Album by Eendo - Apple Music
       accessed: '2026-11-09'
   - value: Qt6wjbg
     references:
     - source: music.apple.com-us-album-ba-raftanet-feat-mohsen-namjoo-single-1440985669
-      quote: |-
-        Ba Raftanet (feat. Mohsen Namjoo) - Single - Album by Eendo - Apple Music
+      quote: Ba Raftanet (feat. Mohsen Namjoo) - Single - Album by Eendo - Apple Music
       accessed: '2026-11-09'
   release date:
   - value:
       date: '2018-10-29'
     references:
     - source: music.apple.com-us-album-ba-raftanet-feat-mohsen-namjoo-single-1440985669
-      quote: |-
-        October 29, 2018
+      quote: October 29, 2018
       accessed: '2026-11-09'

@@ -1,0 +1,65 @@
+id: Q4hwm7q
+type: release
+statements:
+  name:
+  - value:
+      text: Mikoobam o Miraghsam
+      language: en
+    references:
+    - source: music.apple.com-us-album-ham-maseer-path-mates-1799282458
+      quote: Mikoobam o Miraghsam
+      accessed: '2026-11-21'
+      locator: Exact Apple track listing
+  - value:
+      text: میکوبم و میرقصم
+      language: fa
+    references:
+    - source: soundcloud.com-eendomusic-mikoobam-o-miraghsam
+      quote: میکوبم و میرقصم
+      accessed: '2026-11-21'
+      locator: Artist’s Persian title
+  performer:
+  - value: Qnbrhrh
+    references:
+    - source: music.apple.com-us-album-ham-maseer-path-mates-1799282458
+      quote: Eendo
+      accessed: '2026-11-21'
+      locator: Recording/featured artist
+  listen link:
+  - value: https://music.apple.com/us/song/mikoobam-o-miraghsam/1799282468
+    references:
+    - source: music.apple.com-us-album-ham-maseer-path-mates-1799282458
+      quote: https://music.apple.com/us/song/mikoobam-o-miraghsam/1799282468
+      accessed: '2026-11-21'
+      locator: Apple track link
+  - value: https://open.spotify.com/track/7f6z63U188Sxhj8QYDn5dU
+    references:
+    - source: open.spotify.com-embed-album-2ybxveyybulmhiut4qtwkx
+      quote: spotify:track:7f6z63U188Sxhj8QYDn5dU
+      accessed: '2026-11-21'
+      locator: Spotify track URI
+  - value: https://soundcloud.com/eendomusic/mikoobam-o-miraghsam
+    references:
+    - source: soundcloud.com-eendomusic-mikoobam-o-miraghsam
+      quote: Stream Mikoobam o Miraghsam  |  میکوبم و میرقصم by Eendo | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Original duo SoundCloud recording
+  release date:
+  - value:
+      date: '2025-02-28'
+    references:
+    - source: music.apple.com-us-album-ham-maseer-path-mates-1799282458
+      quote: '2025-02-28'
+      accessed: '2026-11-21'
+      locator: Digital release date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d4/eb/9f/d4eb9f43-a614-1d5a-d77f-0c98835e93b0/056870287171.png/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Digital release via Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-ham-maseer-path-mates-1799282458
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d4/eb/9f/d4eb9f43-a614-1d5a-d77f-0c98835e93b0/056870287171.png/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Label artwork

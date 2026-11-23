@@ -7,8 +7,8 @@ statements:
       language: en
     references:
     - source: gulfnews.com-general-127-irans-hottest-underground-act-1.90735-481a49907189
-      quote: 'Band members Lead vocals : Sohrab Mohebbi Bass : Alireza Pourasad Trombone : Salmak Khaledi Piano : Sardar Sarmast
-        Drummer: Yahya Alkhansa Backing vocals : Shervin Shahamipour'
+      quote: 'Band members Lead vocals : Sohrab Mohebbi Bass : Alireza Pourasad Trombone : Salmak Khaledi Piano
+        : Sardar Sarmast Drummer: Yahya Alkhansa Backing vocals : Shervin Shahamipour'
       accessed: '2026-10-19'
   - value:
       text: یحیی الخنسا
@@ -24,6 +24,14 @@ statements:
       - drums
     references:
     - source: gulfnews.com-general-127-irans-hottest-underground-act-1.90735-481a49907189
-      quote: 'Band members Lead vocals : Sohrab Mohebbi Bass : Alireza Pourasad Trombone : Salmak Khaledi Piano : Sardar Sarmast
-        Drummer: Yahya Alkhansa Backing vocals : Shervin Shahamipour'
+      quote: 'Band members Lead vocals : Sohrab Mohebbi Bass : Alireza Pourasad Trombone : Salmak Khaledi Piano
+        : Sardar Sarmast Drummer: Yahya Alkhansa Backing vocals : Shervin Shahamipour'
       accessed: '2026-10-19'
+  - value: Qhzc5js
+    qualifiers:
+      role: drums
+    references:
+    - source: ehsanmatoori.com-projects-borderless-band
+      quote: Yahya Alkhansa (drums)
+      accessed: 2026-11-21
+      locator: Band personnel

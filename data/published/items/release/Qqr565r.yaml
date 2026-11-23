@@ -1,0 +1,63 @@
+id: Qqr565r
+type: release
+statements:
+  name:
+  - value:
+      text: The Last Waltz
+      language: en
+    references:
+    - source: music.apple.com-us-album-the-last-waltz-feat-eendo-1850127733
+      quote: The Last Waltz (feat. Eendo)
+      accessed: '2026-11-21'
+      locator: Exact Apple track listing
+  performer:
+  - value: Qnbrhrh
+    references:
+    - source: music.apple.com-us-album-the-last-waltz-feat-eendo-1850127733
+      quote: Eendo
+      accessed: '2026-11-21'
+      locator: Recording/featured artist
+  - value: Qz9w3hk
+    references:
+    - source: music.apple.com-us-album-the-last-waltz-feat-eendo-1850127733
+      quote: The Vulture
+      accessed: '2026-11-21'
+      locator: Release title
+  listen link:
+  - value: https://music.apple.com/us/song/the-last-waltz-feat-eendo/1850128114
+    references:
+    - source: music.apple.com-us-album-the-last-waltz-feat-eendo-1850127733
+      quote: https://music.apple.com/us/song/the-last-waltz-feat-eendo/1850128114
+      accessed: '2026-11-21'
+      locator: Apple track link
+  - value: https://open.spotify.com/track/1N50fuNUNs0DweJuEHyFag
+    references:
+    - source: open.spotify.com-embed-album-0cdhi1neej0h9nalqszuuj
+      quote: spotify:track:1N50fuNUNs0DweJuEHyFag
+      accessed: '2026-11-21'
+      locator: Spotify track URI
+  - value: https://soundcloud.com/eendomusic/king-raam-feat-eendo-the-last-waltz
+    references:
+    - source: soundcloud.com-eendomusic-king-raam-feat-eendo-the-last-waltz
+      quote: Stream King Raam feat. Eendo - The Last Waltz by Eendo | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Original duo SoundCloud recording
+  release date:
+  - value:
+      date: '2014-08-15'
+    references:
+    - source: music.apple.com-us-album-the-last-waltz-feat-eendo-1850127733
+      quote: '2014-08-15'
+      accessed: '2026-11-21'
+      locator: Digital release date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/22/4c/95/224c95b8-7d3e-80c8-842b-0f7c8e631df4/cover.jpg/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Digital release via Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-the-last-waltz-feat-eendo-1850127733
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/22/4c/95/224c95b8-7d3e-80c8-842b-0f7c8e631df4/cover.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Label artwork

@@ -1,0 +1,57 @@
+id: Q6rk8jw
+type: release
+statements:
+  name:
+  - value:
+      text: Sharike Jorm
+      language: en
+    references:
+    - source: music.apple.com-us-album-sharike-jorm-feat-eendo-1625575397
+      quote: Sharike Jorm (feat. Eendo)
+      accessed: '2026-11-21'
+      locator: Exact Apple track listing
+  performer:
+  - value: Qnbrhrh
+    references:
+    - source: music.apple.com-us-album-sharike-jorm-feat-eendo-1625575397
+      quote: Eendo
+      accessed: '2026-11-21'
+      locator: Recording/featured artist
+  - value: Qde2bbb
+    references:
+    - source: music.apple.com-us-album-sharike-jorm-feat-eendo-1625575397
+      quote: Kahrobaye Arezou
+      accessed: '2026-11-21'
+      locator: Release title
+  listen link:
+  - value: https://music.apple.com/us/song/sharike-jorm-feat-eendo/1625575405
+    references:
+    - source: music.apple.com-us-album-sharike-jorm-feat-eendo-1625575397
+      quote: https://music.apple.com/us/song/sharike-jorm-feat-eendo/1625575405
+      accessed: '2026-11-21'
+      locator: Apple track link
+  - value: https://open.spotify.com/track/1BXKbBtz4nCdzOg1cKw0lP
+    references:
+    - source: open.spotify.com-embed-album-7etm0kfsagtaea24snwetc
+      quote: spotify:track:1BXKbBtz4nCdzOg1cKw0lP
+      accessed: '2026-11-21'
+      locator: Spotify track URI
+  release date:
+  - value:
+      date: '2022-05-25'
+    references:
+    - source: music.apple.com-us-album-sharike-jorm-feat-eendo-1625575397
+      quote: '2022-05-25'
+      accessed: '2026-11-21'
+      locator: Digital release date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/99/e1/40/99e140f6-03c7-afa4-7a5d-62a4a484f9ba/artwork.jpg/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Digital release via Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-sharike-jorm-feat-eendo-1625575397
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/99/e1/40/99e140f6-03c7-afa4-7a5d-62a4a484f9ba/artwork.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Label artwork
