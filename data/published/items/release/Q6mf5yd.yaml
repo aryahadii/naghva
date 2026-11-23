@@ -1,0 +1,59 @@
+id: Q6mf5yd
+type: release
+statements:
+  name:
+  - value:
+      text: Given Heart
+      language: en
+    references:
+    - source: music.apple.com-us-album-given-heart-single-1824881681
+      quote: Given Heart
+      accessed: 2026-11-21
+      locator: Track listing
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/88/4a/5d/884a5d92-a251-efed-cfef-aabb9bf506d5/199800118777.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-given-heart-single-1824881681
+      quote: Given Heart - Single
+      accessed: 2026-11-21
+      locator: Release heading
+  release date:
+  - value:
+      date: '2025-07-06'
+    references:
+    - source: music.apple.com-us-album-given-heart-single-1824881681
+      quote: '2025-07-06'
+      accessed: 2026-11-21
+      locator: Edition release date
+  performer:
+  - value: Qwh5yn8
+    references:
+    - source: music.apple.com-us-album-given-heart-single-1824881681
+      quote: Ehsan Matoori
+      accessed: 2026-11-21
+      locator: Release artist
+  listen link:
+  - value: https://music.apple.com/us/album/given-heart-single/1824881681
+    references:
+    - source: music.apple.com-us-album-given-heart-single-1824881681
+      quote: Given Heart
+      accessed: 2026-11-21
+      locator: Track listing
+  - value: https://music.apple.com/us/song/given-heart/1824881682
+    references:
+    - source: music.apple.com-us-album-given-heart-single-1824881681
+      quote: Given Heart
+      accessed: 2026-11-21
+      locator: Track listing
+  - value: https://soundcloud.com/ehsan-matoori/given-heart
+    references:
+    - source: soundcloud.com-ehsan-matoori-given-heart
+      quote: Given Heart | دل سپرده ایم
+      accessed: 2026-11-21
+      locator: Recording on the Ehsan Matoori profile
+  - value: https://www.youtube.com/watch?v=zzAOlxwyU0I
+    references:
+    - source: youtu.be-zzaolxwyu0i
+      quote: Ma Del Sepordeim
+      accessed: 2026-11-21
+      locator: Artist video title

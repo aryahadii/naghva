@@ -1,0 +1,47 @@
+id: Qf89y8k
+type: release
+statements:
+  name:
+  - value:
+      text: Your Impression
+      language: en
+    references:
+    - source: music.apple.com-us-album-your-impression-single-1486140120
+      quote: Your Impression
+      accessed: 2026-11-21
+      locator: Track listing
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/07/ea/52/07ea5286-15f4-0bf8-b987-14cb814ec85d/859735521850_cover.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-your-impression-single-1486140120
+      quote: Your Impression - Single
+      accessed: 2026-11-21
+      locator: Release heading
+  release date:
+  - value:
+      date: '2019-11-10'
+    references:
+    - source: music.apple.com-us-album-your-impression-single-1486140120
+      quote: '2019-11-10'
+      accessed: 2026-11-21
+      locator: Edition release date
+  performer:
+  - value: Qwh5yn8
+    references:
+    - source: music.apple.com-us-album-your-impression-single-1486140120
+      quote: Ehsan Matoori
+      accessed: 2026-11-21
+      locator: Release artist
+  listen link:
+  - value: https://music.apple.com/us/album/your-impression-single/1486140120
+    references:
+    - source: music.apple.com-us-album-your-impression-single-1486140120
+      quote: Your Impression
+      accessed: 2026-11-21
+      locator: Track listing
+  - value: https://music.apple.com/us/song/your-impression/1486140124
+    references:
+    - source: music.apple.com-us-album-your-impression-single-1486140120
+      quote: Your Impression
+      accessed: 2026-11-21
+      locator: Track listing

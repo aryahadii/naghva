@@ -1,0 +1,43 @@
+id: Qke9he8
+type: release
+statements:
+  name:
+  - value:
+      text: ایرانم، چه کنم؟
+      language: fa
+    references:
+    - source: youtu.be-pmh_ytyux6u
+      quote: ایرانم، چه کنم؟
+      accessed: 2026-11-21
+      locator: Artist video title
+  release date:
+  - value:
+      date: '2022-10-11'
+    references:
+    - source: youtu.be-pmh_ytyux6u
+      quote: '2022-10-11'
+      accessed: 2026-11-21
+      locator: Video publication date
+  listen link:
+  - value: https://www.youtube.com/watch?v=Pmh_YTyux6U
+    references:
+    - source: youtu.be-pmh_ytyux6u
+      quote: ایرانم، چه کنم؟
+      accessed: 2026-11-21
+      locator: Artist video title
+  cover art:
+  - value: https://i.ytimg.com/vi/Pmh_YTyux6U/hqdefault.jpg
+    references:
+    - source: youtu.be-pmh_ytyux6u
+      quote: ایرانم، چه کنم؟
+      accessed: 2026-11-21
+      locator: Artist video title
+  contributor:
+  - value: Qwh5yn8
+    references:
+    - source: youtu.be-pmh_ytyux6u
+      quote: 'آهنگساز: #احسان_مطوری'
+      accessed: 2026-11-21
+      locator: Performance or composition credit
+    qualifiers:
+      role: composer
