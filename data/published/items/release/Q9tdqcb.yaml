@@ -1,0 +1,79 @@
+id: Q9tdqcb
+type: release
+statements:
+  name:
+  - value:
+      text: Darde Del
+      language: en
+    references:
+    - &id001
+      source: music.apple.com-us-album-jazz-music-from-south-iran-465372011
+      quote: Darde Del
+      accessed: '2026-11-21'
+      locator: Original track
+  performer:
+  - value: Qdtxp3v
+    references:
+    - *id001
+  - value: Qyd93n9
+    references:
+    - *id001
+  - value: Qvhrrm8
+    references:
+    - *id001
+  - value: Qarvpxn
+    references:
+    - *id001
+  - value: Qqat63b
+    references:
+    - source: soundcloud.com-saeid-shanbehzadeh-05-darde-del
+      quote: Manu Codjia
+      accessed: '2026-11-21'
+      locator: Named contributor to track
+  - value: Q49prrc
+    references:
+    - source: soundcloud.com-saeid-shanbehzadeh-05-darde-del
+      quote: Habib meftah
+      accessed: '2026-11-21'
+      locator: Named contributor to track
+  - value: Qxchk2x
+    references:
+    - source: soundcloud.com-saeid-shanbehzadeh-05-darde-del
+      quote: Joe Quitzke
+      accessed: '2026-11-21'
+      locator: Named contributor to track
+  listen link:
+  - value: https://music.apple.com/us/song/darde-del/465372084
+    references:
+    - *id001
+  - value: https://open.spotify.com/track/22VB7T7DXRoeXekwO1t4BN
+    references:
+    - source: open.spotify.com-embed-album-0ksatdo2no7zn9g0zxry6s
+      quote: Darde Del
+      accessed: '2026-11-21'
+      locator: Matching Spotify edition
+  - value: https://soundcloud.com/saeid-shanbehzadeh/05-darde-del
+    references:
+    - source: soundcloud.com-saeid-shanbehzadeh-05-darde-del
+      quote: Darde Del
+      accessed: '2026-11-21'
+      locator: Artist’s SoundCloud recording
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music/61/d9/97/mzi.zmmocoxh.jpg/1200x630wp-60.jpg
+    references:
+    - source: music.apple.com-us-album-jazz-music-from-south-iran-465372011
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music/61/d9/97/mzi.zmmocoxh.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Original issue artwork
+    qualifiers:
+      credit:
+        text: Apple Music, original edition artwork
+        language: en
+  release date:
+  - value:
+      date: '2011-06-20'
+    references:
+    - source: music.apple.com-us-album-jazz-music-from-south-iran-465372011
+      quote: '2011-06-20'
+      accessed: '2026-11-21'
+      locator: Digital edition date
