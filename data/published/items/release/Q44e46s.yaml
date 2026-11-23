@@ -1,0 +1,75 @@
+id: Q44e46s
+type: release
+statements:
+  name:
+  - value:
+      text: Atiq | عَتیقْ
+      language: en
+    references:
+    - source: lowzirecords.bandcamp.com-track-atiq
+      quote: Atiq | عَتیقْ | Taraamoon | Low-Zi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qw4rq4q
+    references:
+    - source: lowzirecords.bandcamp.com-track-atiq
+      quote: Taraamoon
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  release date:
+  - value:
+      date: '2023-05-16'
+    references:
+    - source: lowzirecords.bandcamp.com-track-atiq
+      quote: released May 16, 2023
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a3506055560_10.jpg
+    references:
+    - source: lowzirecords.bandcamp.com-track-atiq
+      quote: https://f4.bcbits.com/img/a3506055560_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Low-Zi Records
+        language: en
+  listen link:
+  - value: https://lowzirecords.bandcamp.com/track/atiq
+    references:
+    - source: lowzirecords.bandcamp.com-track-atiq
+      quote: Atiq | عَتیقْ | Taraamoon | Low-Zi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1688897718
+    references:
+    - source: music.apple.com-us-song-1688897718
+      quote: ‎Atiq - Song with Lyrics by Taraamoon - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/atiq/1688897717
+    references:
+    - source: music.apple.com-us-album-atiq-1688897717
+      quote: ‎Atiq - Single - Album by Taraamoon - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/taraamoon/atiq
+    references:
+    - source: soundcloud.com-taraamoon-atiq
+      quote: Stream Atiq | عَتیقْ by TARAAMOON • ْتَرامون | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/album/1mGpoCGQyELOGz1SEdVcV2
+    references:
+    - source: open.spotify.com-album-1mgpocgqyelogz1sedvcv2
+      quote: Listen to Atiq - Single by Taraamoon | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/2S8IsovjRIjJlbPQ9qyTT8
+    references:
+    - source: open.spotify.com-track-2s8isovjrijjlbpq9qytt8
+      quote: Atiq - song and lyrics by Taraamoon | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
