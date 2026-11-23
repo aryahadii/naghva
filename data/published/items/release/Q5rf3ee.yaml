@@ -1,0 +1,47 @@
+id: Q5rf3ee
+type: release
+statements:
+  name:
+  - value:
+      text: Mayhem - Single
+      language: en
+    references:
+    - source: music.apple.com-us-album-mayhem-single-1592374232
+      quote: Mayhem - Single
+      accessed: 2026-11-21
+      locator: Edition title
+  performer:
+  - value: Qq8jt69
+    references:
+    - source: artamene-official.com-2021-11-23-artamene-iran-sign-with-wormholedeath-announce-ziggurat
+      quote: ARTAMENE
+      accessed: 2026-11-21
+      locator: Band name
+  release date:
+  - value:
+      date: '2021-11-22'
+    references:
+    - source: music.apple.com-us-album-mayhem-single-1592374232
+      quote: '2021-11-22'
+      accessed: 2026-11-21
+      locator: Release date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/70/25/e7/7025e710-f50a-c234-2ba5-cef011c41f4a/196292705799.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-mayhem-single-1592374232
+      quote: Mayhem - Single
+      accessed: 2026-11-21
+      locator: Edition title
+  listen link:
+  - value: https://music.apple.com/us/album/mayhem-single/1592374232
+    references:
+    - source: music.apple.com-us-album-mayhem-single-1592374232
+      quote: Mayhem - Single
+      accessed: 2026-11-21
+      locator: Edition title
+  - value: https://music.apple.com/us/song/mayhem/1592374564
+    references:
+    - source: music.apple.com-us-album-mayhem-single-1592374232
+      quote: Mayhem
+      accessed: 2026-11-21
+      locator: Track listing
