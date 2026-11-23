@@ -1,0 +1,45 @@
+id: Q8gt9vm
+type: release
+statements:
+  name:
+  - value:
+      text: White-Eared Bulbul Warming Up
+      language: en
+    references:
+    - source: soundcloud.com-hadi-bastani-bulbulkhorma
+      quote: White-Eared Bulbul Warming Up
+      accessed: '2026-11-21'
+      locator: Recording heading
+  performer:
+  - value: Qyt2364
+    references:
+    - source: soundcloud.com-hadi-bastani-bulbulkhorma
+      quote: Stream White-Eared Bulbul Warming Up by Hadi Bastani | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://soundcloud.com/hadi-bastani/bulbulkhorma
+    references:
+    - source: soundcloud.com-hadi-bastani-bulbulkhorma
+      quote: Stream White-Eared Bulbul Warming Up by Hadi Bastani | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-ZOz025J1ihSW7WOz-IJFgrw-large.jpg
+    references:
+    - source: soundcloud.com-hadi-bastani-bulbulkhorma
+      quote: https://i1.sndcdn.com/artworks-ZOz025J1ihSW7WOz-IJFgrw-large.jpg
+      accessed: '2026-11-21'
+      locator: SoundCloud artwork metadata
+    qualifiers:
+      credit:
+        text: Hadi Bastani on SoundCloud
+        language: en
+  release date:
+  - value:
+      date: '2023-06-02'
+    references:
+    - source: soundcloud.com-hadi-bastani-bulbulkhorma
+      quote: '2023-06-02T09:44:19Z'
+      accessed: '2026-11-21'
+      locator: SoundCloud release or upload timestamp

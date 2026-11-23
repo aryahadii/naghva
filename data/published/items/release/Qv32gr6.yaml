@@ -1,0 +1,64 @@
+id: Qv32gr6
+type: release
+statements:
+  name:
+  - value:
+      text: Emergence
+      language: en
+    references:
+    - source: flamingpines.bandcamp.com-album-emergence-2
+      quote: Emergence
+      accessed: '2026-11-21'
+      locator: Recording heading
+  performer:
+  - value: Qyt2364
+    references:
+    - source: flamingpines.bandcamp.com-album-emergence-2
+      quote: Emergence | Hadi Bastani | Flaming Pines
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://flamingpines.bandcamp.com/album/emergence-2
+    references:
+    - source: flamingpines.bandcamp.com-album-emergence-2
+      quote: Emergence | Hadi Bastani | Flaming Pines
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/emergence/1527077651
+    references:
+    - source: music.apple.com-us-album-emergence-1527077651
+      quote: ‎Emergence - Album by Hadi Bastani - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/album/6S7MR8WoyeCSgVZyWXmPCw
+    references:
+    - source: open.spotify.com-album-6s7mr8woyecsgvzywxmpcw
+      quote: Listen to Emergence - Album by Hadi Bastani | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a3000533728_10.jpg
+    references:
+    - source: flamingpines.bandcamp.com-album-emergence-2
+      quote: https://f4.bcbits.com/img/a3000533728_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Bandcamp · Flaming Pines
+        language: en
+  release date:
+  - value:
+      date: '2020-06-05'
+    references:
+    - source: flamingpines.bandcamp.com-album-emergence-2
+      quote: released June 5, 2020
+      accessed: '2026-11-21'
+      locator: Published date
+  release type:
+  - value: album
+    references:
+    - source: flamingpines.bandcamp.com-album-emergence-2
+      quote: Emergence | Hadi Bastani | Flaming Pines
+      accessed: '2026-11-21'
+      locator: Page title

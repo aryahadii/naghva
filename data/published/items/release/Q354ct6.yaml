@@ -1,0 +1,34 @@
+id: Q354ct6
+type: release
+statements:
+  name:
+  - value:
+      text: gen.era.tion
+      language: en
+    references:
+    - source: soundcloud.com-hadi-bastani-gene-ra-tion
+      quote: gen.era.tion
+      accessed: '2026-11-21'
+      locator: Recording heading
+  performer:
+  - value: Qyt2364
+    references:
+    - source: soundcloud.com-hadi-bastani-gene-ra-tion
+      quote: Stream gen.era.tion by Hadi Bastani | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://soundcloud.com/hadi-bastani/gene-ra-tion
+    references:
+    - source: soundcloud.com-hadi-bastani-gene-ra-tion
+      quote: Stream gen.era.tion by Hadi Bastani | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2017-06-22'
+    references:
+    - source: soundcloud.com-hadi-bastani-gene-ra-tion
+      quote: '2017-06-22T00:00:00Z'
+      accessed: '2026-11-21'
+      locator: SoundCloud release or upload timestamp
