@@ -1,0 +1,81 @@
+id: Qtsspst
+type: release
+statements:
+  name:
+  - value:
+      text: Autumnal Delirium of the Winds
+      language: en
+    references:
+    - source: music.apple.com-us-album-autumnal-delirium-of-the-winds-single-1513018610
+      quote: ‎Autumnal Delirium of the Winds - Single - Album by Soheil Peyghambari - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Q3waxf2
+    references:
+    - source: music.apple.com-us-album-autumnal-delirium-of-the-winds-single-1513018610
+      quote: ‎Autumnal Delirium of the Winds - Single - Album by Soheil Peyghambari - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://music.apple.com/us/album/autumnal-delirium-of-the-winds-single/1513018610
+    references:
+    - source: music.apple.com-us-album-autumnal-delirium-of-the-winds-single-1513018610
+      quote: ‎Autumnal Delirium of the Winds - Single - Album by Soheil Peyghambari - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1513018611
+    references:
+    - source: music.apple.com-us-song-1513018611
+      quote: ‎Autumnal Delirium of the Winds - Song with Lyrics by Soheil Peyghambari - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soheilpeyghambari.bandcamp.com/track/autumnal-delirium-of-the-winds
+    references:
+    - source: soheilpeyghambari.bandcamp.com-track-autumnal-delirium-of-the-winds
+      quote: Autumnal delirium of the winds | Soheil Peyghambari
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/soheil-peyghambari/autumnal-delirium-of-the-winds
+    references:
+    - source: soundcloud.com-soheil-peyghambari-autumnal-delirium-of-the-winds
+      quote: Stream Autumnal delirium of the winds by Soheil Peyghambari | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/album/0FTMFZefObVA6IS04QyA8t
+    references:
+    - source: open.spotify.com-album-0ftmfzefobva6is04qya8t
+      quote: Listen to Autumnal delirium of the winds - Single by Soheil Peyghambari | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/1adIiby7YPZq9u5qG9jDBj
+    references:
+    - source: open.spotify.com-track-1adiiby7ypzq9u5qg9jdbj
+      quote: Autumnal delirium of the winds - song and lyrics by Soheil Peyghambari | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://www.youtube.com/watch?v=-U5NcL4Vo_Y
+    references:
+    - source: www.youtube.com-watch-v--u5ncl4vo_y
+      quote: Autumnal delirium of the winds
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/24/2f/52/242f523c-85ec-4b59-e53b-934dca69419b/4062994179182_cover.jpg/632x632bb.webp
+    references:
+    - source: music.apple.com-us-album-autumnal-delirium-of-the-winds-single-1513018610
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/24/2f/52/242f523c-85ec-4b59-e53b-934dca69419b/4062994179182_cover.jpg/632x632bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Soheil Peyghambari on Apple Music
+        language: en
+  release date:
+  - value:
+      date: '2020-02-20'
+    references:
+    - source: music.apple.com-us-album-autumnal-delirium-of-the-winds-single-1513018610
+      quote: February 20, 2020
+      accessed: '2026-11-21'
+      locator: Published date

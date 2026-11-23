@@ -1,0 +1,37 @@
+id: Q2838v3
+type: release
+statements:
+  name:
+  - value:
+      text: New Hum Sa
+      language: en
+    references:
+    - source: open.spotify.com-track-5bmzgxwjje4hlb3afcmf8i
+      quote: New Hum Sa - song and lyrics by Hum Sa, Pouya Assadian, Ali Gerami, Soheil Peyghambari, Arin Keshishi | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Q3waxf2
+    references:
+    - source: open.spotify.com-track-5bmzgxwjje4hlb3afcmf8i
+      quote: New Hum Sa - song and lyrics by Hum Sa, Pouya Assadian, Ali Gerami, Soheil Peyghambari, Arin Keshishi | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://open.spotify.com/track/5bMZGXwjje4HLB3aFCmf8i
+    references:
+    - source: open.spotify.com-track-5bmzgxwjje4hlb3afcmf8i
+      quote: New Hum Sa - song and lyrics by Hum Sa, Pouya Assadian, Ali Gerami, Soheil Peyghambari, Arin Keshishi | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d0000b27337fedd3cde8e2dd8eb02596d
+    references:
+    - source: open.spotify.com-track-5bmzgxwjje4hlb3afcmf8i
+      quote: https://i.scdn.co/image/ab67616d0000b27337fedd3cde8e2dd8eb02596d
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Soheil Peyghambari on Spotify
+        language: en

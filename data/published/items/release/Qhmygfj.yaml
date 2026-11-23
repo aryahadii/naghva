@@ -1,0 +1,58 @@
+id: Qhmygfj
+type: release
+statements:
+  name:
+  - value:
+      text: Abide
+      language: en
+    references:
+    - source: music.apple.com-us-album-epigraph-feat-soheil-peyghambari-mohammad-azmand-ideen-1744459080
+      quote: ‎Abide - Album by Pooya Eshghinejad - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  release type:
+  - value: album
+    references:
+    - source: music.apple.com-us-album-epigraph-feat-soheil-peyghambari-mohammad-azmand-ideen-1744459080
+      quote: ‎Abide - Album by Pooya Eshghinejad - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Q3waxf2
+    references:
+    - source: music.apple.com-us-song-1744459082
+      quote: Soheil Peyghambari
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://music.apple.com/us/album/epigraph-feat-soheil-peyghambari-mohammad-azmand-ideen/1744459080
+    references:
+    - source: music.apple.com-us-album-epigraph-feat-soheil-peyghambari-mohammad-azmand-ideen-1744459080
+      quote: ‎Abide - Album by Pooya Eshghinejad - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/album/6AmI9auNVwkO3dDGNLp2P3
+    references:
+    - source: open.spotify.com-album-6ami9aunvwko3ddgnlp2p3
+      quote: Listen to Abide - Album by Pooya Eshghinejad | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/82/3a/c5/823ac5fe-527d-e3ae-bda4-b02dd9221066/198500779226.jpg/632x632bb.webp
+    references:
+    - source: music.apple.com-us-album-epigraph-feat-soheil-peyghambari-mohammad-azmand-ideen-1744459080
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/82/3a/c5/823ac5fe-527d-e3ae-bda4-b02dd9221066/198500779226.jpg/632x632bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Soheil Peyghambari on Apple Music
+        language: en
+  release date:
+  - value:
+      date: '2024-05-03'
+    references:
+    - source: music.apple.com-us-album-epigraph-feat-soheil-peyghambari-mohammad-azmand-ideen-1744459080
+      quote: May 3, 2024
+      accessed: '2026-11-21'
+      locator: Published date

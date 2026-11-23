@@ -1,0 +1,64 @@
+id: Q9hsfhh
+type: release
+statements:
+  name:
+  - value:
+      text: Triple Helix
+      language: en
+    references:
+    - source: music.apple.com-us-album-triple-helix-1783666501
+      quote: ‎Triple Helix - Album by Kevin Kastning, Carl Clements & Soheil Peyghambari - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  release type:
+  - value: album
+    references:
+    - source: music.apple.com-us-album-triple-helix-1783666501
+      quote: ‎Triple Helix - Album by Kevin Kastning, Carl Clements & Soheil Peyghambari - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Q3waxf2
+    references:
+    - source: music.apple.com-us-album-triple-helix-1783666501
+      quote: ‎Triple Helix - Album by Kevin Kastning, Carl Clements & Soheil Peyghambari - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qyz8dqk
+    references:
+    - source: music.apple.com-us-album-triple-helix-1783666501
+      quote: Kevin Kastning
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Qw75mtc
+    references:
+    - source: music.apple.com-us-album-triple-helix-1783666501
+      quote: Carl Clements
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://music.apple.com/us/album/triple-helix/1783666501
+    references:
+    - source: music.apple.com-us-album-triple-helix-1783666501
+      quote: ‎Triple Helix - Album by Kevin Kastning, Carl Clements & Soheil Peyghambari - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a9/34/38/a93438b6-a428-a704-64de-7a925e2e8037/artwork.jpg/632x632bb.webp
+    references:
+    - source: music.apple.com-us-album-triple-helix-1783666501
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a9/34/38/a93438b6-a428-a704-64de-7a925e2e8037/artwork.jpg/632x632bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Soheil Peyghambari on Apple Music
+        language: en
+  release date:
+  - value:
+      date: '2025-01-14'
+    references:
+    - source: music.apple.com-us-album-triple-helix-1783666501
+      quote: January 14, 2025
+      accessed: '2026-11-21'
+      locator: Published date

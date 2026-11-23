@@ -1,0 +1,64 @@
+id: Q46db3d
+type: release
+statements:
+  name:
+  - value:
+      text: Rebuilding Memories
+      language: en
+    references:
+    - source: music.apple.com-us-song-916829042
+      quote: ‎Rebuilding Memories - Song with Lyrics by Soheil Peyghambari - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Q3waxf2
+    references:
+    - source: music.apple.com-us-song-916829042
+      quote: ‎Rebuilding Memories - Song with Lyrics by Soheil Peyghambari - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://music.apple.com/us/song/916829042
+    references:
+    - source: music.apple.com-us-song-916829042
+      quote: ‎Rebuilding Memories - Song with Lyrics by Soheil Peyghambari - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/intimate-sentiments/rebuilding-memories
+    references:
+    - source: soundcloud.com-intimate-sentiments-rebuilding-memories
+      quote: Stream Rebuilding Memories | Soheil Peyghambari - بازسازی خاطرات | سهیل پیغمبری by Intimate-Sentiments | Listen online
+        for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/2DQwp6UWHgL0gptrqrjssv
+    references:
+    - source: open.spotify.com-track-2dqwp6uwhgl0gptrqrjssv
+      quote: Rebuilding Memories - song and lyrics by Soheil Peyghambari | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://www.youtube.com/watch?v=L16eTY5i6YQ
+    references:
+    - source: www.youtube.com-watch-v-l16ety5i6yq
+      quote: Rebuilding Memories
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/9c/bc/95/9cbc95a1-e2bd-6bbf-aba7-24a188aedf9b/889211010363.jpg/600x600bb.webp
+    references:
+    - source: music.apple.com-us-song-916829042
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/9c/bc/95/9cbc95a1-e2bd-6bbf-aba7-24a188aedf9b/889211010363.jpg/600x600bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Soheil Peyghambari on Apple Music
+        language: en
+  release date:
+  - value:
+      date: '2014-08-05'
+    references:
+    - source: music.apple.com-us-song-916829042
+      quote: August 5, 2014
+      accessed: '2026-11-21'
+      locator: Published date
