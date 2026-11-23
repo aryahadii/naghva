@@ -1,0 +1,29 @@
+id: Qdamdgh
+type: release
+statements:
+  name:
+  - value:
+      text: آخرین تمرین کنسرت گروه همنوازان دلگشا
+      language: fa
+    references:
+    - &id001
+      source: t.me-hoseinalishapour-564-embed-1
+      quote: آخرین تمرین کنسرت گروه همنوازان دلگشا (آلبوم تنها)
+      accessed: '2026-11-21'
+      locator: Singer’s rehearsal clip
+  performer:
+  - value: Qewdtv2
+    references:
+    - *id001
+  - value: Qdstpr4
+    references:
+    - source: ensemble-delgosha-fajr
+      quote: خوانندگی حسین علیشاپور
+      accessed: '2026-11-21'
+      locator: Festival event report
+    qualifiers:
+      role: vocals
+  listen link:
+  - value: https://t.me/hoseinalishapour/564
+    references:
+    - *id001

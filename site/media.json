@@ -10227,6 +10227,19 @@
       720
     ]
   },
+  "https://i.ytimg.com/vi/iE-hdKmsTZY/hqdefault.jpg": {
+    "sha256": "dc54d85c298066ffefd51513e2b9e8b0fa575a6b688a689735d6c3bf32f74c0e",
+    "ext": "jpg",
+    "bytes": 49009,
+    "width": 1024,
+    "height": 576,
+    "from": "https://i.ytimg.com/vi/iE-hdKmsTZY/maxresdefault.jpg",
+    "widths": [
+      180,
+      360,
+      720
+    ]
+  },
   "https://i.ytimg.com/vi/iFx8aQGmVDY/hqdefault.jpg": {
     "sha256": "44d72de7a5bfe0617cb77f486a07d6e7b49f52e487c66cc1c3e09f99e3140f8c",
     "ext": "jpg",
@@ -13264,6 +13277,19 @@
     "width": 1280,
     "height": 720,
     "from": "https://i.ytimg.com/vi/QSmD1_EKq-w/maxresdefault.jpg",
+    "widths": [
+      180,
+      360,
+      720
+    ]
+  },
+  "https://i.ytimg.com/vi/QTD_8a4u0As/hqdefault.jpg": {
+    "sha256": "6c7467689a0c3e92b6e80b6347e008614ec6ed8c83948065630c3849407ea123",
+    "ext": "jpg",
+    "bytes": 42079,
+    "width": 1024,
+    "height": 576,
+    "from": "https://i.ytimg.com/vi/QTD_8a4u0As/maxresdefault.jpg",
     "widths": [
       180,
       360,
@@ -19884,6 +19910,19 @@
     "height": 1200,
     "sha256": "7af425efb048aaa025df791d4e7d6b02d452c8d6b21c4b301b8f460705c7ce5f",
     "width": 1200,
+    "widths": [
+      180,
+      360,
+      720
+    ]
+  },
+  "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/94/e2/d5/94e2d599-6cb6-a06f-bbb4-0bb0ee43da45/cover.jpg/1200x630wp-60.jpg": {
+    "sha256": "9d8f2e4ce59ae5cb99641cb6007e9e33b74f3cc33ecd5770c4880affe36e8c47",
+    "ext": "jpg",
+    "bytes": 210620,
+    "width": 1200,
+    "height": 1200,
+    "from": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/94/e2/d5/94e2d599-6cb6-a06f-bbb4-0bb0ee43da45/cover.jpg/1200x1200bb.jpg",
     "widths": [
       180,
       360,
@@ -33233,6 +33272,19 @@
     "height": 1200,
     "sha256": "9393e9f938b991479d9d0cf2443631eebe1ebfd886f95a6803301bdd10bf1945",
     "width": 1200,
+    "widths": [
+      180,
+      360,
+      720
+    ]
+  },
+  "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/eb/de/32/ebde3220-f77a-8021-9b3d-eff49ba45d5d/6260608006079.jpg/1200x630wp-60.jpg": {
+    "sha256": "02881a61b2e075582d15bae483f7c1bb899f376e65d670ca7b1dcc48c52b2dde",
+    "ext": "jpg",
+    "bytes": 304188,
+    "width": 1200,
+    "height": 1200,
+    "from": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/eb/de/32/ebde3220-f77a-8021-9b3d-eff49ba45d5d/6260608006079.jpg/1200x1200bb.jpg",
     "widths": [
       180,
       360,

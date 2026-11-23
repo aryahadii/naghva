@@ -1,0 +1,63 @@
+id: Qppfnzp
+type: release
+statements:
+  name:
+  - value:
+      text: 'Avâz-E Dashti: Tasnif (Mashkan Dele Man)'
+      language: en
+    references:
+    - &id001
+      source: music.apple.com-us-album-iran-music-of-the-qajar-era-848988435
+      quote: 'Avâz-E Dashti: Tasnif (Mashkan Dele Man) [feat. Pantea Alvandipour]'
+      accessed: '2026-11-21'
+      locator: Original track and guests
+  performer:
+  - value: Qewdtv2
+    references:
+    - source: music.apple.com-us-album-iran-music-of-the-qajar-era-848988435
+      quote: Ensemble Delgosha
+      accessed: '2026-11-21'
+      locator: Artist credit
+  - value: Qdbm253
+    references:
+    - source: music.apple.com-us-album-iran-music-of-the-qajar-era-848988435
+      quote: Pantea Alvandipour
+      accessed: '2026-11-21'
+      locator: Original musician credit
+    qualifiers:
+      role: vocals
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music/v4/94/e2/d5/94e2d599-6cb6-a06f-bbb4-0bb0ee43da45/cover.jpg/1200x630wp-60.jpg
+    references:
+    - source: music.apple.com-us-album-iran-music-of-the-qajar-era-848988435
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music/v4/94/e2/d5/94e2d599-6cb6-a06f-bbb4-0bb0ee43da45/cover.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Original digital cover
+    qualifiers:
+      credit:
+        text: INEDIT / Maison des Cultures du Monde
+        language: en
+  release date:
+  - value:
+      date: '2014-05-12'
+    references:
+    - source: music.apple.com-us-album-iran-music-of-the-qajar-era-848988435
+      quote: '2014-05-12'
+      accessed: '2026-11-21'
+      locator: First digital issue
+  listen link:
+  - value: https://music.apple.com/us/song/av%C3%A2z-e-dashti-tasnif-mashkan-dele-man-feat-pantea-alvandipour/848989912
+    references:
+    - *id001
+  - value: https://open.spotify.com/track/6DfOKNh2AqcMisT8TSnpdx
+    references:
+    - source: open.spotify.com-embed-album-3fpiw5hxltwwqfy1gw6hjs
+      quote: 'Avâz-E Dashti: Tasnif - Mashkan Dele Man'
+      accessed: '2026-11-21'
+      locator: Original Spotify track
+  - value: https://www.youtube.com/watch?v=9A0WayckLHM
+    references:
+    - source: www.youtube.com-watch-v-9a0waycklhm
+      quote: 'Avâz-E Dashti: Tasnif (Mashkan Dele Man) (feat. Pantea Alvandipour)'
+      accessed: '2026-11-21'
+      locator: Original YouTube digital master
