@@ -1,0 +1,19 @@
+id: Qk84m4p
+type: person
+statements:
+  name:
+  - value:
+      text: Parissa Kashefi
+      language: en
+    references:
+    - &id001
+      source: shahrzad-ensemble-casaorig
+      quote: Maral Pouya, voice; Azar Zargarian, tar; Najmeh Saghir, barbat; Parissa Kashefi, kamanche; Naghmeh Farahmand, tombak, daf, dayere
+      accessed: '2026-11-21'
+      locator: Performer or presenter archive
+  member of:
+  - value: Q4z6jy5
+    references:
+    - *id001
+    qualifiers:
+      role: kamancheh
