@@ -1,0 +1,44 @@
+id: Qfjayv2
+type: release
+statements:
+  name:
+  - value:
+      text: Micro Moments VI - Loadbang Ensemble - New York 2023
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-ejejepobbno
+      quote: Arshia Samsaminia - Micro Moments VI - Loadbang Ensemble - New York 2023
+      accessed: '2026-11-21'
+      locator: Page title
+  contributor:
+  - value: Qfvnnnd
+    references:
+    - source: www.youtube.com-watch-v-ejejepobbno
+      quote: Arshia Samsaminia
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: composer
+  listen link:
+  - value: https://www.youtube.com/watch?v=eJeJePobbno
+    references:
+    - source: www.youtube.com-watch-v-ejejepobbno
+      quote: Arshia Samsaminia - Micro Moments VI - Loadbang Ensemble - New York 2023
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i.ytimg.com/vi/eJeJePobbno/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-ejejepobbno
+      quote: https://i.ytimg.com/vi/eJeJePobbno/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Publisher video thumbnail
+    qualifiers:
+      credit:
+        text: Arshia Samsaminia
+        language: en
+  performer:
+  - value: Qph8ymw
+    references:
+    - *id001

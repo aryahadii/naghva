@@ -1,0 +1,44 @@
+id: Qz2vtw9
+type: release
+statements:
+  name:
+  - value:
+      text: Ensemble Garage- A Piece of Monologue by Samuel Beckett
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-8d9h3rwscxu
+      quote: Arshia Samsaminia- Ensemble Garage- A Piece of Monologue by Samuel Beckett
+      accessed: '2026-11-21'
+      locator: Page title
+  contributor:
+  - value: Qfvnnnd
+    references:
+    - source: www.youtube.com-watch-v-8d9h3rwscxu
+      quote: Arshia Samsaminia
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: composer
+  listen link:
+  - value: https://www.youtube.com/watch?v=8d9H3RwSCXU
+    references:
+    - source: www.youtube.com-watch-v-8d9h3rwscxu
+      quote: Arshia Samsaminia- Ensemble Garage- A Piece of Monologue by Samuel Beckett
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i.ytimg.com/vi/8d9H3RwSCXU/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-8d9h3rwscxu
+      quote: https://i.ytimg.com/vi/8d9H3RwSCXU/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Publisher video thumbnail
+    qualifiers:
+      credit:
+        text: Arshia Samsaminia
+        language: en
+  performer:
+  - value: Qwv9kbh
+    references:
+    - *id001
