@@ -1,0 +1,80 @@
+id: Qh7892a
+type: release
+statements:
+  name:
+  - value:
+      text: By the Mountain
+      language: en
+    references:
+    - source: eishanensemble.bandcamp.com-track-by-the-mountain
+      quote: By the Mountain
+      accessed: '2026-11-21'
+      locator: Track heading
+  performer:
+  - value: Qhebfsp
+    references:
+    - source: eishanensemble.bandcamp.com-track-by-the-mountain
+      quote: By the Mountain | Eishan Ensemble
+      accessed: '2026-11-21'
+      locator: Track and performer
+  release date:
+  - value:
+      date: '2025-05-09'
+    references:
+    - source: eishanensemble.bandcamp.com-album-northern-rhapsody
+      quote: released May 9, 2025
+      accessed: '2026-11-21'
+      locator: Release date
+  cover art:
+  - value: https://f4.bcbits.com/img/a3474275919_10.jpg
+    qualifiers:
+      credit:
+        text: PHOTOS & DESIGN by Laura Pleifer
+        language: en
+    references:
+    - source: eishanensemble.bandcamp.com-album-northern-rhapsody
+      quote: https://f4.bcbits.com/img/a3474275919_10.jpg
+      accessed: '2026-11-21'
+      locator: Album cover
+    - source: eishanensemble.bandcamp.com-album-northern-rhapsody
+      quote: PHOTOS & DESIGN by Laura Pleifer
+      accessed: '2026-11-21'
+      locator: Cover credit
+  listen link:
+  - value: https://eishanensemble.bandcamp.com/track/by-the-mountain
+    references:
+    - source: eishanensemble.bandcamp.com-track-by-the-mountain
+      quote: By the Mountain | Eishan Ensemble
+      accessed: '2026-11-21'
+      locator: Track and performer
+  - value: https://open.spotify.com/track/4IacUG1T6KjdoiZFfMfOmn
+    references:
+    - source: open.spotify.com-album-4pzfvv5eoxjgiu1t05pfwf
+      quote: By the Mountain
+      accessed: '2026-11-21'
+      locator: Spotify album track 2
+  - value: https://music.apple.com/us/album/by-the-mountain/1808721230?i=1808721248
+    references:
+    - source: music.apple.com-us-album-northern-rhapsody-1808721230
+      quote: By the Mountain
+      accessed: '2026-11-21'
+      locator: Apple Music track 2
+  - value: https://open.spotify.com/track/5IniMJaga18X9CNqJOmv8Y
+    references:
+    - source: open.spotify.com-album-09qxk5fo31zocnks7j9mfk
+      quote: By The Mountain
+      accessed: '2026-11-21'
+      locator: Track 1
+    - source: open.spotify.com-album-09qxk5fo31zocnks7j9mfk
+      quote: Eishan Ensemble
+      accessed: '2026-11-21'
+      locator: Track artist
+  contributor:
+  - value: Qmgbz4h
+    qualifiers:
+      role: composer
+    references:
+    - source: eishanensemble.bandcamp.com-album-northern-rhapsody
+      quote: COMPOSER Hamed Sadeghi
+      accessed: '2026-11-21'
+      locator: Composer credit

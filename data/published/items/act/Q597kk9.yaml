@@ -1,0 +1,71 @@
+id: Q597kk9
+type: act
+statements:
+  name:
+  - value:
+      text: Vazesh
+      language: en
+    references:
+    - source: vazesh.bandcamp.com-music
+      quote: Music | Vazesh
+      accessed: '2026-11-21'
+      locator: Artist page title
+  - value:
+      text: وزش
+      language: fa
+    references:
+    - source: www.sbs.com.au-language-persian-fa-podcast-episode-the-boomkak-panto-by-hamed-sadeghi-erei0v6v3
+      quote: '"وزش" (Vazesh)'
+      accessed: '2026-11-21'
+      locator: Persian interview
+  formation date:
+  - value:
+      date: '2018'
+    references:
+    - source: vazesh.bandcamp.com-album-the-sacred-key
+      quote: Vazesh formed in 2018
+      accessed: '2026-11-21'
+      locator: Band history
+  based in:
+  - value: Qdtffef
+    references:
+    - source: vazesh.bandcamp.com-music
+      quote: Sydney, Australia
+      accessed: '2026-11-21'
+      locator: Profile location
+  image:
+  - value: https://f4.bcbits.com/img/0025206655_10.jpg
+    qualifiers:
+      credit:
+        text: Vazesh on Bandcamp
+        language: en
+    references:
+    - source: vazesh.bandcamp.com-music
+      quote: https://f4.bcbits.com/img/0025206655_10.jpg
+      accessed: '2026-11-21'
+      locator: Official band portrait
+  profile link:
+  - value: https://vazesh.bandcamp.com/music
+    references:
+    - source: vazesh.bandcamp.com-music
+      quote: Music | Vazesh
+      accessed: '2026-11-21'
+      locator: Profile title
+  - value: https://music.apple.com/us/artist/vazesh/1573854776
+    references:
+    - source: music.apple.com-us-artist-vazesh-1573854776
+      quote: ‎Vazesh - Apple Music
+      accessed: '2026-11-21'
+      locator: Profile title
+  - value: https://open.spotify.com/artist/6PN3HJ6KiD95iaumLqraJD
+    references:
+    - source: open.spotify.com-artist-6pn3hj6kid95iaumlqrajd
+      quote: Listen to Vazesh Songs | Spotify
+      accessed: '2026-11-21'
+      locator: Profile title
+  - value: https://www.youtube.com/channel/UC3uxa56ZwvwGLCJ481WR_DQ/releases
+    references:
+    - source: www.youtube.com-channel-uc3uxa56zwvwglcj481wr_dq-releases
+      quote: Vazesh - Onderwerp - YouTube
+      accessed: '2026-11-21'
+      locator: Profile title

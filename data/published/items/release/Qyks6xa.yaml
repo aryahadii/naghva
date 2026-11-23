@@ -1,0 +1,53 @@
+id: Qyks6xa
+type: release
+statements:
+  name:
+  - value:
+      text: Live at Melbourne Recital Centre
+      language: en
+    references:
+    - source: www.youtube.com-watch-v-ne2-kht9zj8
+      quote: Live at Melbourne Recital Centre
+      accessed: '2026-11-21'
+      locator: Video title
+  performer:
+  - value: Qhebfsp
+    references:
+    - source: www.youtube.com-watch-v-ne2-kht9zj8
+      quote: Eishan
+      accessed: '2026-11-21'
+      locator: Title or published description
+  listen link:
+  - value: https://www.youtube.com/watch?v=nE2-khT9Zj8
+    references:
+    - source: www.youtube.com-watch-v-ne2-kht9zj8
+      quote: Live at Melbourne Recital Centre
+      accessed: '2026-11-21'
+      locator: Video title
+    - source: www.youtube.com-watch-v-ne2-kht9zj8
+      quote: Hamed Sadeghi
+      accessed: '2026-11-21'
+      locator: Publishing channel
+  release date:
+  - value:
+      date: '2021-03-22'
+    references:
+    - source: www.youtube.com-watch-v-ne2-kht9zj8
+      quote: '2021-03-22T07:18:35-07:00'
+      accessed: '2026-11-21'
+      locator: Upload date
+  cover art:
+  - value: https://i.ytimg.com/vi/nE2-khT9Zj8/maxresdefault.jpg
+    qualifiers:
+      credit:
+        text: Hamed Sadeghi on YouTube
+        language: en
+    references:
+    - source: www.youtube.com-watch-v-ne2-kht9zj8
+      quote: https://i.ytimg.com/vi/nE2-khT9Zj8/maxresdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video thumbnail
+    - source: www.youtube.com-watch-v-ne2-kht9zj8
+      quote: Hamed Sadeghi
+      accessed: '2026-11-21'
+      locator: Publishing channel

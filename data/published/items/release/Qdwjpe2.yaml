@@ -1,0 +1,53 @@
+id: Qdwjpe2
+type: release
+statements:
+  name:
+  - value:
+      text: Eishan Ensemble live at Venue505 Sydney.
+      language: en
+    references:
+    - source: www.youtube.com-watch-v-binz21pacck
+      quote: Eishan Ensemble live at Venue505 Sydney.
+      accessed: '2026-11-21'
+      locator: Video title
+  performer:
+  - value: Qhebfsp
+    references:
+    - source: www.youtube.com-watch-v-binz21pacck
+      quote: Eishan
+      accessed: '2026-11-21'
+      locator: Title or published description
+  listen link:
+  - value: https://www.youtube.com/watch?v=BINz21PaCck
+    references:
+    - source: www.youtube.com-watch-v-binz21pacck
+      quote: Eishan Ensemble live at Venue505 Sydney.
+      accessed: '2026-11-21'
+      locator: Video title
+    - source: www.youtube.com-watch-v-binz21pacck
+      quote: Hamed Sadeghi
+      accessed: '2026-11-21'
+      locator: Publishing channel
+  release date:
+  - value:
+      date: '2019-03-31'
+    references:
+    - source: www.youtube.com-watch-v-binz21pacck
+      quote: '2019-03-31T21:40:32-07:00'
+      accessed: '2026-11-21'
+      locator: Upload date
+  cover art:
+  - value: https://i.ytimg.com/vi/BINz21PaCck/maxresdefault.jpg
+    qualifiers:
+      credit:
+        text: Hamed Sadeghi on YouTube
+        language: en
+    references:
+    - source: www.youtube.com-watch-v-binz21pacck
+      quote: https://i.ytimg.com/vi/BINz21PaCck/maxresdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video thumbnail
+    - source: www.youtube.com-watch-v-binz21pacck
+      quote: Hamed Sadeghi
+      accessed: '2026-11-21'
+      locator: Publishing channel

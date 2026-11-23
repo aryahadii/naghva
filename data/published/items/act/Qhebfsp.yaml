@@ -1,0 +1,71 @@
+id: Qhebfsp
+type: act
+statements:
+  name:
+  - value:
+      text: Eishan Ensemble
+      language: en
+    references:
+    - source: eishanensemble.bandcamp.com-music
+      quote: Music | Eishan Ensemble
+      accessed: '2026-11-21'
+      locator: Bandcamp artist heading
+  - value:
+      text: ایشان
+      language: fa
+    references:
+    - source: www.sbs.com.au-language-persian-fa-podcast-episode-the-boomkak-panto-by-hamed-sadeghi-erei0v6v3
+      quote: بنیانگذار و آهنگساز گروه ایشان (Eishan)
+      accessed: '2026-11-21'
+      locator: Artist biography
+  formation date:
+  - value:
+      date: '2016'
+    references:
+    - source: www.bluemountainstheatre.com.au-what-s-on-past-events-2020-events-eishan-ensemble
+      quote: Formed in 2016 and currently based in Sydney - Australia
+      accessed: '2026-11-21'
+      locator: Artist biography
+  based in:
+  - value: Qdtffef
+    references:
+    - source: www.bluemountainstheatre.com.au-what-s-on-past-events-2020-events-eishan-ensemble
+      quote: Formed in 2016 and currently based in Sydney - Australia
+      accessed: '2026-11-21'
+      locator: Artist biography
+  image:
+  - value: https://f4.bcbits.com/img/0038691809_10.jpg
+    qualifiers:
+      credit:
+        text: Eishan Ensemble on Bandcamp
+        language: en
+    references:
+    - source: eishanensemble.bandcamp.com-music
+      quote: https://f4.bcbits.com/img/0038691809_10.jpg
+      accessed: '2026-11-21'
+      locator: Full-size group photograph on artist profile
+  profile link:
+  - value: https://eishanensemble.bandcamp.com/music
+    references:
+    - source: eishanensemble.bandcamp.com-music
+      quote: Music | Eishan Ensemble
+      accessed: '2026-11-21'
+      locator: Bandcamp artist heading
+  - value: https://music.apple.com/us/artist/eishan-ensemble/1401325421
+    references:
+    - source: music.apple.com-us-artist-eishan-ensemble-1401325421
+      quote: ‎Eishan Ensemble - Apple Music
+      accessed: '2026-11-21'
+      locator: Apple Music artist page
+  - value: https://open.spotify.com/artist/4unx5DipQibR9Ul1ZFLuHy
+    references:
+    - source: www.eishanensemble.com-albums
+      quote: https://open.spotify.com/artist/4unx5DipQibR9Ul1ZFLuHy
+      accessed: '2026-11-21'
+      locator: Official footer
+  - value: https://www.youtube.com/channel/UCF0gKf0lIl34je8cYhH-XdA
+    references:
+    - source: www.eishanensemble.com-albums
+      quote: https://www.youtube.com/channel/UCF0gKf0lIl34je8cYhH-XdA
+      accessed: '2026-11-21'
+      locator: Official footer

@@ -1,0 +1,56 @@
+id: Qjyxbwb
+type: release
+statements:
+  name:
+  - value:
+      text: Music Masala Vol. 4
+      language: en
+    references:
+    - source: open.spotify.com-album-09qxk5fo31zocnks7j9mfk
+      quote: Listen to Music Masala Vol. 4 - EP by Various Artists | Spotify
+      accessed: '2026-11-21'
+      locator: Single or compilation heading
+  release date:
+  - value:
+      date: '2025-06-06'
+    references:
+    - source: open.spotify.com-album-09qxk5fo31zocnks7j9mfk
+      quote: '2025-06-06'
+      accessed: '2026-11-21'
+      locator: Release date metadata
+  listen link:
+  - value: https://open.spotify.com/album/09qXK5Fo31ZOCNks7J9Mfk
+    references:
+    - source: open.spotify.com-album-09qxk5fo31zocnks7j9mfk
+      quote: Listen to Music Masala Vol. 4 - EP by Various Artists | Spotify
+      accessed: '2026-11-21'
+      locator: Single or compilation heading
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d0000b2734c7c3e71716ba070b63db6b7
+    qualifiers:
+      credit:
+        text: Spotify edition artwork
+        language: en
+    references:
+    - source: open.spotify.com-album-09qxk5fo31zocnks7j9mfk
+      quote: https://i.scdn.co/image/ab67616d0000b2734c7c3e71716ba070b63db6b7
+      accessed: '2026-11-21'
+      locator: Spotify edition artwork
+  release type:
+  - value: compilation
+    references:
+    - source: open.spotify.com-album-09qxk5fo31zocnks7j9mfk
+      quote: Listen to Music Masala Vol. 4 - EP by Various Artists | Spotify
+      accessed: '2026-11-21'
+      locator: Single or compilation heading
+  performer:
+  - value: Qhebfsp
+    references:
+    - source: open.spotify.com-album-09qxk5fo31zocnks7j9mfk
+      quote: By The Mountain
+      accessed: '2026-11-21'
+      locator: Track 1
+    - source: open.spotify.com-album-09qxk5fo31zocnks7j9mfk
+      quote: Eishan Ensemble
+      accessed: '2026-11-21'
+      locator: Track artist

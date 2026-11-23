@@ -1,0 +1,64 @@
+id: Qpwmevg
+type: release
+statements:
+  name:
+  - value:
+      text: By the Mountain
+      language: en
+    references:
+    - source: open.spotify.com-album-2honzsapfb6hbgtqskoa1l
+      quote: Listen to By the Mountain - Single by Eishan Ensemble | Spotify
+      accessed: '2026-11-21'
+      locator: Single or compilation heading
+  performer:
+  - value: Qhebfsp
+    references:
+    - source: open.spotify.com-album-2honzsapfb6hbgtqskoa1l
+      quote: Eishan Ensemble
+      accessed: '2026-11-21'
+      locator: Track artist
+  release date:
+  - value:
+      date: '2025-02-07'
+    references:
+    - source: open.spotify.com-album-2honzsapfb6hbgtqskoa1l
+      quote: '2025-02-07'
+      accessed: '2026-11-21'
+      locator: Release date metadata
+  listen link:
+  - value: https://open.spotify.com/album/2hOnZSaPfB6hbgtQskOA1l
+    references:
+    - source: open.spotify.com-album-2honzsapfb6hbgtqskoa1l
+      quote: Listen to By the Mountain - Single by Eishan Ensemble | Spotify
+      accessed: '2026-11-21'
+      locator: Single or compilation heading
+  - value: https://open.spotify.com/track/13ZCpvZozdMNJKCkHgUfIr
+    references:
+    - source: open.spotify.com-album-2honzsapfb6hbgtqskoa1l
+      quote: By the Mountain
+      accessed: '2026-11-21'
+      locator: Track 1
+  - value: https://music.apple.com/us/album/by-the-mountain-single/1792187440
+    references:
+    - source: music.apple.com-us-album-by-the-mountain-single-1792187440
+      quote: ‎By the Mountain - Single - Album by Eishan Ensemble - Apple Music
+      accessed: '2026-11-21'
+      locator: Apple single
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d0000b273167a5f86cc638615d65785bf
+    qualifiers:
+      credit:
+        text: Spotify edition artwork
+        language: en
+    references:
+    - source: open.spotify.com-album-2honzsapfb6hbgtqskoa1l
+      quote: https://i.scdn.co/image/ab67616d0000b273167a5f86cc638615d65785bf
+      accessed: '2026-11-21'
+      locator: Spotify edition artwork
+  release type:
+  - value: single
+    references:
+    - source: open.spotify.com-album-2honzsapfb6hbgtqskoa1l
+      quote: Listen to By the Mountain - Single by Eishan Ensemble | Spotify
+      accessed: '2026-11-21'
+      locator: Single or compilation heading
