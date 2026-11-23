@@ -1,0 +1,63 @@
+id: Qgq6r3g
+type: release
+statements:
+  name:
+  - value:
+      text: End of an Era (When the world was at war) Together at home cover
+      language: en
+    references:
+    - source: www.youtube.com-watchv-s977tyg8624
+      quote: End of an Era (When the world was at war) Together at home cover
+      accessed: '2026-11-21'
+      locator: Video title, channel and description
+  performer:
+  - value: Q38h8s7
+    references:
+    - source: www.youtube.com-watchv-s977tyg8624
+      quote: Farzane Zamen
+      accessed: '2026-11-21'
+      locator: Video title, channel and description
+  - value: Qsbnps5
+    references:
+    - source: www.youtube.com-watchv-s977tyg8624
+      quote: 'Cajon: Ali Rahmani'
+      accessed: '2026-11-21'
+      locator: Video description, musicians
+    qualifiers:
+      role:
+      - percussion
+  - value: Qe3aasb
+    references:
+    - source: www.youtube.com-watchv-s977tyg8624
+      quote: 'Bass: Mark Percival'
+      accessed: '2026-11-21'
+      locator: Video description, musicians
+    qualifiers:
+      role:
+      - bass
+  listen link:
+  - value: https://www.youtube.com/watch?v=S977tyg8624
+    references:
+    - source: www.youtube.com-watchv-s977tyg8624
+      quote: End of an Era (When the world was at war) Together at home cover
+      accessed: '2026-11-21'
+      locator: Video title, channel and description
+  cover art:
+  - value: https://i.ytimg.com/vi_webp/S977tyg8624/maxresdefault.webp
+    references:
+    - source: www.youtube.com-watchv-s977tyg8624
+      quote: https://i.ytimg.com/vi_webp/S977tyg8624/maxresdefault.webp
+      accessed: '2026-11-21'
+      locator: Video thumbnail URL, YouTube metadata
+    qualifiers:
+      credit:
+        text: Farzane Zamen, via YouTube
+        language: en
+  release date:
+  - value:
+      date: '2020-05-31'
+    references:
+    - source: www.youtube.com-watchv-s977tyg8624
+      quote: '20200531'
+      accessed: '2026-11-21'
+      locator: Video upload date (YouTube metadata, YYYYMMDD)

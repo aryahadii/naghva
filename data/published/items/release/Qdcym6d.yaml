@@ -1,0 +1,54 @@
+id: Qdcym6d
+type: release
+statements:
+  name:
+  - value:
+      text: Farzané - HAMVATAN ft.Saeed Rezazadeh
+      language: en
+    references:
+    - source: www.youtube.com-watchv-tigxkmi_emm
+      quote: Farzané - HAMVATAN ft.Saeed Rezazadeh
+      accessed: '2026-11-21'
+      locator: Video title, channel and description
+  performer:
+  - value: Q38h8s7
+    references:
+    - source: www.youtube.com-watchv-tigxkmi_emm
+      quote: Farzane Zamen
+      accessed: '2026-11-21'
+      locator: Video title, channel and description
+  - value: Qtwhcv4
+    references:
+    - source: www.youtube.com-watchv-tigxkmi_emm
+      quote: 'Back vocals and Iranian traditional singer: Saeed Rezazadeh'
+      accessed: '2026-11-21'
+      locator: Video description, musicians
+    qualifiers:
+      role:
+      - backing vocals
+  listen link:
+  - value: https://www.youtube.com/watch?v=tiGXkmI_EMM
+    references:
+    - source: www.youtube.com-watchv-tigxkmi_emm
+      quote: Farzané - HAMVATAN ft.Saeed Rezazadeh
+      accessed: '2026-11-21'
+      locator: Video title, channel and description
+  cover art:
+  - value: https://i.ytimg.com/vi/tiGXkmI_EMM/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watchv-tigxkmi_emm
+      quote: https://i.ytimg.com/vi/tiGXkmI_EMM/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Video thumbnail URL, YouTube metadata
+    qualifiers:
+      credit:
+        text: Farzane Zamen, via YouTube
+        language: en
+  release date:
+  - value:
+      date: '2026-03-21'
+    references:
+    - source: www.youtube.com-watchv-tigxkmi_emm
+      quote: '20260321'
+      accessed: '2026-11-21'
+      locator: Video upload date (YouTube metadata, YYYYMMDD)

@@ -1,0 +1,43 @@
+id: Q484hzy
+type: release
+statements:
+  name:
+  - value:
+      text: Haram
+      language: en
+    references:
+    - source: soundcloud.com-farzanezamen-haram
+      quote: Haram
+      accessed: '2026-11-21'
+      locator: Track heading and account
+  performer:
+  - value: Q38h8s7
+    references:
+    - source: soundcloud.com-farzanezamen-haram
+      quote: Farzane Zamen
+      accessed: '2026-11-21'
+      locator: Track heading and account
+  listen link:
+  - value: https://soundcloud.com/farzanezamen/haram
+    references:
+    - source: soundcloud.com-farzanezamen-haram
+      quote: Haram
+      accessed: '2026-11-21'
+      locator: Track heading and account
+  - value: https://open.spotify.com/track/031OhfWU807XqetyKQwZuZ
+    references:
+    - source: open.spotify.com-album-5wnw44qixpps7bii0yqmi6
+      quote: Haram
+      accessed: '2026-11-21'
+      locator: EP heading and five-track listing
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-000349893102-daoluu-t500x500.jpg
+    references:
+    - source: soundcloud.com-farzanezamen-haram
+      quote: https://i1.sndcdn.com/artworks-000349893102-daoluu-t500x500.jpg
+      accessed: '2026-11-21'
+      locator: Track artwork in Open Graph image metadata
+    qualifiers:
+      credit:
+        text: Farzane Zamen, via SoundCloud
+        language: en

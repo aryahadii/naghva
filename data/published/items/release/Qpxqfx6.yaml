@@ -1,0 +1,45 @@
+id: Qpxqfx6
+type: release
+statements:
+  name:
+  - value:
+      text: To Mesle Barf (live in Bergen)
+      language: en
+    references:
+    - source: www.youtube.com-watchv-_swptfymsdm
+      quote: To Mesle Barf (live in Bergen)
+      accessed: '2026-11-21'
+      locator: Video title, channel and description
+  performer:
+  - value: Q38h8s7
+    references:
+    - source: www.youtube.com-watchv-_swptfymsdm
+      quote: Farzane Zamen
+      accessed: '2026-11-21'
+      locator: Video title, channel and description
+  listen link:
+  - value: https://www.youtube.com/watch?v=_sWPtfymSDM
+    references:
+    - source: www.youtube.com-watchv-_swptfymsdm
+      quote: To Mesle Barf (live in Bergen)
+      accessed: '2026-11-21'
+      locator: Video title, channel and description
+  cover art:
+  - value: https://i.ytimg.com/vi_webp/_sWPtfymSDM/maxresdefault.webp
+    references:
+    - source: www.youtube.com-watchv-_swptfymsdm
+      quote: https://i.ytimg.com/vi_webp/_sWPtfymSDM/maxresdefault.webp
+      accessed: '2026-11-21'
+      locator: Video thumbnail URL, YouTube metadata
+    qualifiers:
+      credit:
+        text: Farzane Zamen, via YouTube
+        language: en
+  release date:
+  - value:
+      date: '2015-11-25'
+    references:
+    - source: www.youtube.com-watchv-_swptfymsdm
+      quote: '20151125'
+      accessed: '2026-11-21'
+      locator: Video upload date (YouTube metadata, YYYYMMDD)
