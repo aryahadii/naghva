@@ -1,0 +1,53 @@
+id: Qas33mb
+type: person
+statements:
+  name:
+  - value:
+      text: Sepp Osley
+      language: en
+    references:
+    - source: www.cherryred.co.uk-organized-insanity
+      quote: guitarist & vocalist Sepp Osley
+      accessed: 2026-11-21
+      locator: Original personnel
+  member of:
+  - value: Qqrzzag
+    qualifiers:
+      role:
+      - guitar
+      - vocals
+    references:
+    - source: www.cherryred.co.uk-organized-insanity
+      quote: guitarist & vocalist Sepp Osley
+      accessed: 2026-11-21
+      locator: Original personnel
+  profile link:
+  - value: https://open.spotify.com/artist/23oj7xVFF3zIyNgAcqDJaU
+    references:
+    - source: open.spotify.com-artist-23oj7xvff3ziyngacqdjau
+      quote: Sepp Osley
+      accessed: 2026-11-21
+      locator: Spotify profile
+  - value: https://music.apple.com/us/artist/sepp-osley/1695793765
+    references:
+    - source: music.apple.com-us-artist-sepp-osley-1695793765
+      quote: Sepp Osley
+      accessed: 2026-11-21
+      locator: Apple artist page
+  - value: https://www.youtube.com/channel/UCx5-eA9beLPBnk9eNIGOxBw
+    references:
+    - source: www.youtube.com-channel-ucx5-ea9belpbnk9enigoxbw
+      quote: Sepp Osley
+      accessed: 2026-11-21
+      locator: Artist channel
+  image:
+  - value: https://i.scdn.co/image/ab6761610000e5eb7a077ca288b1e895f338b08f
+    qualifiers:
+      credit:
+        text: Sepp Osley via Spotify
+        language: en
+    references:
+    - source: open.spotify.com-artist-23oj7xvff3ziyngacqdjau
+      quote: https://i.scdn.co/image/ab6761610000e5eb7a077ca288b1e895f338b08f
+      accessed: 2026-11-21
+      locator: Active artist portrait

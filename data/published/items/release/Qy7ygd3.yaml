@@ -1,0 +1,47 @@
+id: Qy7ygd3
+type: release
+statements:
+  name:
+  - value:
+      text: Arms of Our World (Manhattan soundtrack mix)
+      language: en
+    references:
+    - source: music.apple.com-us-album-manhattan-manhattan-undying-original-motion-picture-1497457532
+      quote: Arms of Our World
+      accessed: 2026-11-21
+      locator: Track title
+  performer:
+  - value: Qqrzzag
+    references:
+    - source: music.apple.com-us-album-manhattan-manhattan-undying-original-motion-picture-1497457532
+      quote: Blurred Vision
+      accessed: 2026-11-21
+      locator: Album billing
+  release date:
+  - value:
+      date: '2020-04-03'
+    references:
+    - source: music.apple.com-us-album-manhattan-manhattan-undying-original-motion-picture-1497457532
+      quote: '2020-04-03'
+      accessed: 2026-11-21
+      locator: Edition date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/91/37/95/913795d4-3f70-cb7b-dd86-783b1f307460/859736175830_cover.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-manhattan-manhattan-undying-original-motion-picture-1497457532
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/91/37/95/913795d4-3f70-cb7b-dd86-783b1f307460/859736175830_cover.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Edition cover
+  listen link:
+  - value: https://music.apple.com/us/song/arms-of-our-world/1497457824
+    references:
+    - source: music.apple.com-us-album-manhattan-manhattan-undying-original-motion-picture-1497457532
+      quote: Arms of Our World
+      accessed: 2026-11-21
+      locator: Track title
+  - value: https://open.spotify.com/track/4oShagWSteBPwhYQFOKAE3
+    references:
+    - source: open.spotify.com-album-32mgub9hse6mxby051a8s9
+      quote: Arms of Our World
+      accessed: 2026-11-21
+      locator: Spotify edition
