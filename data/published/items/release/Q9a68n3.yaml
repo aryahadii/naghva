@@ -1,0 +1,82 @@
+id: Q9a68n3
+type: release
+statements:
+  name:
+  - value:
+      text: Will You Make It?
+      language: en
+    references:
+    - source: music.apple.com-us-album-endeavor-1531973256
+      quote: Will You Make It?
+      accessed: '2026-11-21'
+      locator: Original edition track 9
+  performer:
+  - value: Qvfz6ey
+    references:
+    - source: music.apple.com-us-album-endeavor-1531973256
+      quote: Will You Make It?
+      accessed: '2026-11-21'
+      locator: Original edition track 9
+  listen link:
+  - value: https://music.apple.com/us/song/will-you-make-it/1531973279
+    references:
+    - source: music.apple.com-us-album-endeavor-1531973256
+      quote: https://music.apple.com/us/song/will-you-make-it/1531973279
+      accessed: '2026-11-21'
+      locator: Unique Apple song URL
+  - value: https://music.apple.com/us/album/will-you-make-it-single/1552481149
+    references:
+    - source: music.apple.com-us-album-will-you-make-it-single-1552481149
+      quote: Will You Make It - Single
+      accessed: '2026-11-21'
+      locator: Official digital issue
+  - value: https://music.apple.com/us/song/will-you-make-it/1552481163
+    references:
+    - source: music.apple.com-us-album-will-you-make-it-single-1552481149
+      quote: https://music.apple.com/us/song/will-you-make-it/1552481163
+      accessed: '2026-11-21'
+      locator: Unique Apple song URL
+  - value: https://themuckersband.bandcamp.com/track/will-you-make-it
+    references:
+    - source: themuckersband.bandcamp.com-track-will-you-make-it
+      quote: Will You Make It?
+      accessed: '2026-11-21'
+      locator: Original artist issue
+  - value: https://soundcloud.com/themuckers/will-you-make-it
+    references:
+    - source: soundcloud.com-themuckers-will-you-make-it
+      quote: Will You Make It?
+      accessed: '2026-11-21'
+      locator: SoundCloud track
+  - value: https://open.spotify.com/track/3Z0UNcFWx2lDUUfDWAbUXF
+    references:
+    - source: open.spotify.com-embed-album-65szqpn5uhbpscpdxzculv
+      quote: spotify:track:3Z0UNcFWx2lDUUfDWAbUXF
+      accessed: '2026-11-21'
+      locator: Spotify native track identifier
+  release date:
+  - value:
+      date: '2021-02-19'
+    references:
+    - source: music.apple.com-us-album-will-you-make-it-single-1552481149
+      quote: '2021-02-19'
+      accessed: '2026-11-21'
+      locator: Original release or upload date
+  cover art:
+  - value: https://f4.bcbits.com/img/a2953404952_10.jpg
+    qualifiers:
+      credit:
+        text: The Muckers on Bandcamp
+        language: en
+    references:
+    - source: themuckersband.bandcamp.com-track-will-you-make-it
+      quote: https://f4.bcbits.com/img/a2953404952_10.jpg
+      accessed: '2026-11-21'
+      locator: Original cover
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-will-you-make-it-single-1552481149
+      quote: Will You Make It - Single
+      accessed: '2026-11-21'
+      locator: Official digital issue

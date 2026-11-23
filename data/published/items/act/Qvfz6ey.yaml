@@ -1,0 +1,50 @@
+id: Qvfz6ey
+type: act
+statements:
+  name:
+  - value:
+      text: The Muckers
+      language: en
+    references:
+    - source: iranian.com-main-music-muckers.html
+      quote: The Muckers are an Indie Rock band from Tehran,Iran formed in 2011.
+      accessed: '2026-11-21'
+      locator: Tehran formation
+  formation date:
+  - value:
+      date: '2011'
+    references:
+    - source: iranian.com-main-music-muckers.html
+      quote: The Muckers are an Indie Rock band from Tehran,Iran formed in 2011.
+      accessed: '2026-11-21'
+      locator: Tehran formation
+  profile link:
+  - value: https://themuckersband.bandcamp.com
+    references:
+    - source: themuckersband.bandcamp.com-music
+      quote: Music | The Muckers
+      accessed: '2026-11-21'
+      locator: Native page heading
+  - value: https://music.apple.com/us/artist/the-muckers/1438423763
+    references:
+    - source: music.apple.com-us-artist-the-muckers-1438423763
+      quote: ‎The Muckers - Apple Music
+      accessed: '2026-11-21'
+      locator: Native page heading
+  - value: https://soundcloud.com/themuckers
+    references:
+    - source: soundcloud.com-themuckers-tracks
+      quote: Stream The Muckers | Listen to music albums online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Native page heading
+  image:
+  - value: https://f4.bcbits.com/img/0014497429_10.jpg
+    qualifiers:
+      credit:
+        text: The Muckers on Bandcamp
+        language: en
+    references:
+    - source: themuckersband.bandcamp.com-music
+      quote: https://f4.bcbits.com/img/0014497429_10.jpg
+      accessed: '2026-11-21'
+      locator: Original group portrait, visually confirmed four players
