@@ -1,0 +1,66 @@
+id: Qpav8br
+type: person
+statements:
+  name:
+  - value:
+      text: Hura Mirshekari
+      language: en
+    references:
+    - source: aa-e.org-fr-artiste-mirshekari-hura
+      quote: Hura Mirshekari
+      accessed: '2026-11-21'
+      locator: Artist name
+  - value:
+      text: هورا میرشکاری
+      language: fa
+    references:
+    - source: kayhan.london-1403-05-13-355546
+      quote: هورا میرشکاری
+      accessed: '2026-11-21'
+      locator: Persian artist name
+  member of:
+  - value: Qpwmdfk
+    references:
+    - source: aa-e.org-en-artiste-mobasher-babak-amir-2
+      quote: founded the group Aika with singer Hura Mirshekari
+      accessed: '2026-11-21'
+      locator: Group founders
+    qualifiers:
+      role: vocals
+  based in:
+  - value: Qyhck8a
+    references:
+    - source: aa-e.org-fr-artiste-mirshekari-hura
+      quote: lives in Paris, France
+      accessed: '2026-11-21'
+      locator: Location
+  image:
+  - value: https://aa-e.org/wp-content/uploads/2017/09/HuraMishekari-1-scaled.jpg
+    references:
+    - source: aa-e.org-fr-artiste-mirshekari-hura
+      quote: https://aa-e.org/wp-content/uploads/2017/09/HuraMishekari-1-scaled.jpg
+      accessed: '2026-11-21'
+      locator: Artist portrait
+    qualifiers:
+      credit:
+        text: Alexandre Katchkaev, Agency of Artists in Exile
+        language: en
+  profile link:
+  - value: https://open.spotify.com/artist/7zWWwVTTSW840xxpBB0WrJ
+    references:
+    - source: open.spotify.com-artist-7zwwwvttsw840xxpbb0wrj
+      quote: Hura Mirshekari
+      accessed: '2026-11-21'
+      locator: Verified Spotify profile
+  - value: https://music.apple.com/us/artist/hura-mirshekari/1692522925
+    references:
+    - source: music.apple.com-us-artist-hura-mirshekari-1692522925
+      quote: Hura Mirshekari
+      accessed: '2026-11-21'
+      locator: Apple artist profile
+  - value: https://www.youtube.com/@HURAmusic
+    references:
+    - source: www.youtube.com-watch-v-zx9ndqjb-aw
+      quote: https://www.youtube.com/@HURAmusic
+      accessed: '2026-11-21'
+      locator: Music video artist channel

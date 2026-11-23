@@ -1,0 +1,38 @@
+id: Qj8f4b9
+type: release
+statements:
+  name:
+  - value:
+      text: Aika_ensemble (Del katah shadak) with Sistani language
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-6rkm3vt2js0
+      quote: Aika_ensemble (Del katah shadak) with Sistani language
+      accessed: '2026-11-21'
+      locator: Performer or distributor original video
+  performer:
+  - value: Qpwmdfk
+    references:
+    - *id001
+  - value: Qpav8br
+    references:
+    - source: aa-e.org-en-artiste-mobasher-babak-amir-2
+      quote: founded the group Aika with singer Hura Mirshekari
+      accessed: '2026-11-21'
+      locator: Group founders
+  listen link:
+  - value: https://www.youtube.com/watch?v=6rkm3VT2jS0
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/6rkm3VT2jS0/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-6rkm3vt2js0
+      quote: https://i.ytimg.com/vi/6rkm3VT2jS0/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video artwork
+    qualifiers:
+      credit:
+        text: HURA
+        language: en
