@@ -1,0 +1,47 @@
+id: Q38t9ek
+type: release
+statements:
+  name:
+  - value:
+      text: Hastee
+      language: en
+    references:
+    - source: music.apple.com-us-album-no-ceiling-598850721
+      quote: Hastee
+      accessed: 2026-11-21
+      locator: Individual track title
+  performer:
+  - value: Qfvcggy
+    references:
+    - source: music.apple.com-us-album-no-ceiling-598850721
+      quote: Haale
+      accessed: 2026-11-21
+      locator: Artist heading
+  release date:
+  - value:
+      date: '2008-03-18'
+    references:
+    - source: music.apple.com-us-album-no-ceiling-598850721
+      quote: '2008-03-18'
+      accessed: 2026-11-21
+      locator: Release date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music/v4/dc/80/3f/dc803ffa-5849-9cf6-2f61-536044213843/707541956826.jpg/632x632bb-60.jpg
+    references:
+    - source: music.apple.com-us-album-no-ceiling-598850721
+      quote: No Ceiling
+      accessed: 2026-11-21
+      locator: Apple album heading
+  listen link:
+  - value: https://music.apple.com/us/song/hastee/598850799
+    references:
+    - source: music.apple.com-us-album-no-ceiling-598850721
+      quote: Hastee
+      accessed: 2026-11-21
+      locator: Individual track title
+  - value: https://music.apple.com/us/album/hastee/709151346?i=709152828
+    references:
+    - source: music.apple.com-us-artist-haale-213597728
+      quote: Hastee
+      accessed: 2026-11-21
+      locator: Top songs, compilation appearance

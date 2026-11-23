@@ -1,0 +1,41 @@
+id: Qs9mfrk
+type: release
+statements:
+  name:
+  - value:
+      text: Morgue Sahar
+      language: en
+    references:
+    - source: music.apple.com-us-album-morning-213597723
+      quote: Morgue Sahar
+      accessed: 2026-11-21
+      locator: Individual track title
+  performer:
+  - value: Qfvcggy
+    references:
+    - source: music.apple.com-us-album-morning-213597723
+      quote: Haale
+      accessed: 2026-11-21
+      locator: Artist heading
+  release date:
+  - value:
+      date: '2007-01-12'
+    references:
+    - source: music.apple.com-us-album-morning-213597723
+      quote: '2007-01-12'
+      accessed: 2026-11-21
+      locator: Release date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music/9d/1f/93/mzi.czczdipf.tif/600x600bb-60.jpg
+    references:
+    - source: music.apple.com-us-album-morning-213597723
+      quote: Morning
+      accessed: 2026-11-21
+      locator: Apple album heading
+  listen link:
+  - value: https://music.apple.com/us/song/morgue-sahar/213597977
+    references:
+    - source: music.apple.com-us-album-morning-213597723
+      quote: Morgue Sahar
+      accessed: 2026-11-21
+      locator: Individual track title
