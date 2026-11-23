@@ -13534,6 +13534,19 @@
       720
     ]
   },
+  "https://i.ytimg.com/vi/fTeWqVk3Sl8/hqdefault.jpg": {
+    "sha256": "38eeceb9da1f82228669eee3530232e7235952b72771416d59e695127b81aa78",
+    "ext": "jpg",
+    "bytes": 59213,
+    "width": 1280,
+    "height": 720,
+    "from": "https://i.ytimg.com/vi/fTeWqVk3Sl8/maxresdefault.jpg",
+    "widths": [
+      180,
+      360,
+      720
+    ]
+  },
   "https://i.ytimg.com/vi/FumcyYruqrg/hqdefault.jpg": {
     "sha256": "91ff8c83b02333299a2916da80c965d5a646f3a84493b7c97b9e4173b8ae7d57",
     "ext": "jpg",
@@ -29894,6 +29907,19 @@
     "height": 620,
     "sha256": "4cc9a6b5051638656ab8a1bd9defbaba6e6ac9a2ec3ac7c741bbc8b3c473ae9c",
     "width": 620,
+    "widths": [
+      180,
+      360,
+      720
+    ]
+  },
+  "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/13/cb/5d/13cb5d7e-9a06-fc72-f43b-6574d7b127a4/888002405456.jpg/1200x630bb.jpg": {
+    "sha256": "3f8f6d169a12c32b267b989837e11c8d9dbce0f91e2215cadae482a2352292e2",
+    "ext": "jpg",
+    "bytes": 566612,
+    "width": 1200,
+    "height": 1200,
+    "from": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/13/cb/5d/13cb5d7e-9a06-fc72-f43b-6574d7b127a4/888002405456.jpg/1200x1200bb.jpg",
     "widths": [
       180,
       360,
@@ -50681,6 +50707,20 @@
     "bytes": 48457,
     "width": 500,
     "height": 388,
+    "widths": [
+      240,
+      360,
+      640,
+      960,
+      1200
+    ]
+  },
+  "https://www.bagpipesociety.org.uk/articles/2022/chanter/autumn/in-the-bag/images/000042_hu_19819805b0051c20.jpg": {
+    "sha256": "a32d08120d6c019f02274fae92adb71afad1d7242b6e822a9a5b8cbedae42005",
+    "ext": "jpg",
+    "bytes": 11225,
+    "width": 320,
+    "height": 400,
     "widths": [
       240,
       360,
