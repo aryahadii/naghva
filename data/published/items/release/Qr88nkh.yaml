@@ -27,8 +27,7 @@ statements:
   - value: album
     references:
     - source: open.spotify.com-album-pallett-prime-meridian
-      quote: |-
-        Listen to Prime Meridian - Album by Pallett | Spotify
+      quote: Listen to Prime Meridian - Album by Pallett | Spotify
       accessed: '2026-11-06'
   performer:
   - value: Qq5328q
@@ -38,35 +37,44 @@ statements:
       accessed: '2026-10-19'
   - value: Q2vwhg6
     references:
-    - &id001
-      source: www.honaronline.ir-d8-a8-d8-ae-d8-b4--d9-85-d9-88-d8-b3-db-8c-d9-82-db-8c-5-159504--da-af-d8-b1-d9-88-d9-87--d-14b5fffbc707
+    - source: www.honaronline.ir-d8-a8-d8-ae-d8-b4--d9-85-d9-88-d8-b3-db-8c-d9-82-db-8c-5-159504--da-af-d8-b1-d9-88-d9-87--d-14b5fffbc707
       quote: کاوه صالحی (گیتار)، مهیار طهماسبی (ویلنسل) و امید نعمتی (خواننده) اعضای اصلی گروه موسیقی پالت در کنار ماکان اشگواری (خواننده قطعه «این ماجرا»)، امین طاهری (درامز)، کسری سبکتگین (باس) و سردار سرمست (کیبورد) در آلبوم «نصف‌النهار مبدأ» این گروه را همراهی کرده‌اند.
       accessed: '2026-11-06'
     qualifiers:
       role: guitar
   - value: Qrkx3jk
     references:
-    - *id001
+    - source: www.honaronline.ir-d8-a8-d8-ae-d8-b4--d9-85-d9-88-d8-b3-db-8c-d9-82-db-8c-5-159504--da-af-d8-b1-d9-88-d9-87--d-14b5fffbc707
+      quote: کاوه صالحی (گیتار)، مهیار طهماسبی (ویلنسل) و امید نعمتی (خواننده) اعضای اصلی گروه موسیقی پالت در کنار ماکان اشگواری (خواننده قطعه «این ماجرا»)، امین طاهری (درامز)، کسری سبکتگین (باس) و سردار سرمست (کیبورد) در آلبوم «نصف‌النهار مبدأ» این گروه را همراهی کرده‌اند.
+      accessed: '2026-11-06'
     qualifiers:
       role: cello
   - value: Qnharha
     references:
-    - *id001
+    - source: www.honaronline.ir-d8-a8-d8-ae-d8-b4--d9-85-d9-88-d8-b3-db-8c-d9-82-db-8c-5-159504--da-af-d8-b1-d9-88-d9-87--d-14b5fffbc707
+      quote: کاوه صالحی (گیتار)، مهیار طهماسبی (ویلنسل) و امید نعمتی (خواننده) اعضای اصلی گروه موسیقی پالت در کنار ماکان اشگواری (خواننده قطعه «این ماجرا»)، امین طاهری (درامز)، کسری سبکتگین (باس) و سردار سرمست (کیبورد) در آلبوم «نصف‌النهار مبدأ» این گروه را همراهی کرده‌اند.
+      accessed: '2026-11-06'
     qualifiers:
       role: vocals
   - value: Qxa8th3
     references:
-    - *id001
+    - source: www.honaronline.ir-d8-a8-d8-ae-d8-b4--d9-85-d9-88-d8-b3-db-8c-d9-82-db-8c-5-159504--da-af-d8-b1-d9-88-d9-87--d-14b5fffbc707
+      quote: کاوه صالحی (گیتار)، مهیار طهماسبی (ویلنسل) و امید نعمتی (خواننده) اعضای اصلی گروه موسیقی پالت در کنار ماکان اشگواری (خواننده قطعه «این ماجرا»)، امین طاهری (درامز)، کسری سبکتگین (باس) و سردار سرمست (کیبورد) در آلبوم «نصف‌النهار مبدأ» این گروه را همراهی کرده‌اند.
+      accessed: '2026-11-06'
     qualifiers:
       role: drums
   - value: Qgjgnqb
     references:
-    - *id001
+    - source: www.honaronline.ir-d8-a8-d8-ae-d8-b4--d9-85-d9-88-d8-b3-db-8c-d9-82-db-8c-5-159504--da-af-d8-b1-d9-88-d9-87--d-14b5fffbc707
+      quote: کاوه صالحی (گیتار)، مهیار طهماسبی (ویلنسل) و امید نعمتی (خواننده) اعضای اصلی گروه موسیقی پالت در کنار ماکان اشگواری (خواننده قطعه «این ماجرا»)، امین طاهری (درامز)، کسری سبکتگین (باس) و سردار سرمست (کیبورد) در آلبوم «نصف‌النهار مبدأ» این گروه را همراهی کرده‌اند.
+      accessed: '2026-11-06'
     qualifiers:
       role: keyboards
   - value: Qn8jqk8
     references:
-    - *id001
+    - source: www.honaronline.ir-d8-a8-d8-ae-d8-b4--d9-85-d9-88-d8-b3-db-8c-d9-82-db-8c-5-159504--da-af-d8-b1-d9-88-d9-87--d-14b5fffbc707
+      quote: کاوه صالحی (گیتار)، مهیار طهماسبی (ویلنسل) و امید نعمتی (خواننده) اعضای اصلی گروه موسیقی پالت در کنار ماکان اشگواری (خواننده قطعه «این ماجرا»)، امین طاهری (درامز)، کسری سبکتگین (باس) و سردار سرمست (کیبورد) در آلبوم «نصف‌النهار مبدأ» این گروه را همراهی کرده‌اند.
+      accessed: '2026-11-06'
     qualifiers:
       role: vocals
       credited as:
@@ -74,7 +82,9 @@ statements:
         language: fa
   - value: Qa6r74t
     references:
-    - *id001
+    - source: www.honaronline.ir-d8-a8-d8-ae-d8-b4--d9-85-d9-88-d8-b3-db-8c-d9-82-db-8c-5-159504--da-af-d8-b1-d9-88-d9-87--d-14b5fffbc707
+      quote: کاوه صالحی (گیتار)، مهیار طهماسبی (ویلنسل) و امید نعمتی (خواننده) اعضای اصلی گروه موسیقی پالت در کنار ماکان اشگواری (خواننده قطعه «این ماجرا»)، امین طاهری (درامز)، کسری سبکتگین (باس) و سردار سرمست (کیبورد) در آلبوم «نصف‌النهار مبدأ» این گروه را همراهی کرده‌اند.
+      accessed: '2026-11-06'
     qualifiers:
       role: bass
   listen link:
@@ -88,6 +98,18 @@ statements:
     - source: open.spotify.com-album-pallett-prime-meridian
       quote: Listen to Prime Meridian - Album by Pallett | Spotify
       accessed: '2026-11-06'
+  - value: https://open.spotify.com/album/270cPd90gwnI9au0qF5oRl
+    references:
+    - source: open.spotify.com-embed-album-270cpd90gwni9au0qf5orl
+      quote: Prime Meridian
+      accessed: '2026-11-21'
+      locator: Original Spotify recording or album
+  - value: https://music.apple.com/us/album/prime-meridian/1554171857
+    references:
+    - source: music.apple.com-us-album-prime-meridian-1554171857
+      quote: Prime Meridian
+      accessed: '2026-11-21'
+      locator: Apple issue
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1e/97/a5/1e97a59a-88f8-4e31-0355-5bda9cf66a7d/8720205896834.png/296x296bb.webp
     qualifiers:
@@ -98,3 +120,13 @@ statements:
     - source: music.apple.com-us-album-prime-meridian-1611013229-b59b3cf89f0d
       quote: 'Listen to Prime Meridian by Pallett on Apple Music. 2021. 8 Songs. Duration: 38 minutes.'
       accessed: '2026-10-19'
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/80/fd/58/80fd58ed-6c28-0980-63bf-98296b17cb08/4011725568337_cover.jpg/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Digital distributor artwork
+        language: en
+    references:
+    - source: music.apple.com-us-album-prime-meridian-1554171857
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/80/fd/58/80fd58ed-6c28-0980-63bf-98296b17cb08/4011725568337_cover.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Original release image

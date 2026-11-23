@@ -1,0 +1,89 @@
+id: Qqtqqvn
+type: release
+statements:
+  name:
+  - value:
+      text: Jange Akhar
+      language: en
+    references:
+    - source: open.spotify.com-embed-track-1lvrlxxzblakleqka4z7in
+      quote: Jange Akhar
+      accessed: '2026-11-21'
+      locator: Original Spotify recording or album
+  release type:
+  - value: single
+    references:
+    - source: open.spotify.com-embed-track-1lvrlxxzblakleqka4z7in
+      quote: Jange Akhar
+      accessed: '2026-11-21'
+      locator: Original Spotify recording or album
+  performer:
+  - value: Qxs89jd
+    references:
+    - source: open.spotify.com-embed-track-1lvrlxxzblakleqka4z7in
+      quote: Jange Akhar
+      accessed: '2026-11-21'
+      locator: Original Spotify recording or album
+  - value: Qa6r74t
+    qualifiers:
+      role:
+      - bass
+    references:
+    - source: kasrasaboktakin.com-music
+      quote: https://open.spotify.com/track/1lVrLxXzbLakLeqKA4Z7In
+      accessed: '2026-11-21'
+      locator: Record linked by bassist in his own portfolio
+  listen link:
+  - value: https://open.spotify.com/track/1lVrLxXzbLakLeqKA4Z7In
+    references:
+    - source: open.spotify.com-embed-track-1lvrlxxzblakleqka4z7in
+      quote: Jange Akhar
+      accessed: '2026-11-21'
+      locator: Original Spotify recording or album
+  - value: https://music.apple.com/us/song/jange-akhar/1837166877
+    references:
+    - source: music.apple.com-us-album-jange-akhar-1837166876
+      quote: Jange Akhar - Single
+      accessed: '2026-11-21'
+      locator: Apple issue
+  - value: https://soundcloud.com/kass-bass/kian_pourtoran_jange_akhar
+    references:
+    - source: soundcloud.com-kass-bass-kian_pourtoran_jange_akhar
+      quote: Stream Kian_pourtoran_Jange_Akhar by Kasra Saboktakin | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Bassist’s original SoundCloud upload
+  - value: https://www.youtube.com/watch?v=EELamJ0wktE
+    references:
+    - source: youtu.be-eelamj0wkte-si-rj-sm1grbs07jh4z
+      quote: Jange Akhar
+      accessed: '2026-11-21'
+      locator: Original distribution or artist recording
+  release date:
+  - value:
+      date: '2025-09-02'
+    references:
+    - source: open.spotify.com-embed-track-1lvrlxxzblakleqka4z7in
+      quote: '2025-09-02'
+      accessed: '2026-11-21'
+      locator: Digital issue date
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d0000b2738506991d5067ea52c584b63d
+    qualifiers:
+      credit:
+        text: Digital distributor artwork
+        language: en
+    references:
+    - source: open.spotify.com-track-1lvrlxxzblakleqka4z7in
+      quote: https://i.scdn.co/image/ab67616d0000b2738506991d5067ea52c584b63d
+      accessed: '2026-11-21'
+      locator: Original release image
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e8/40/81/e8408140-2a11-c7db-c7d2-86d90a953ff4/artwork.jpg/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Digital distributor artwork
+        language: en
+    references:
+    - source: music.apple.com-us-album-jange-akhar-1837166876
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e8/40/81/e8408140-2a11-c7db-c7d2-86d90a953ff4/artwork.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Original release image
