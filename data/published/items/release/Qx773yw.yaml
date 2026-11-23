@@ -1,0 +1,36 @@
+id: Qx773yw
+type: release
+statements:
+  listen link:
+  - value: https://t.me/jwangroup/529
+    references:
+    - source: t.me-s-jwangroupbefore-531
+      quote: ساز و آوازهای خصوصی
+      locator: Original release, programme or musician credits
+      accessed: '2026-11-21'
+  name:
+  - value:
+      text: ساز و آواز در مایه بیات اصفهان
+      language: fa
+    references:
+    - source: t.me-s-jwangroupbefore-531
+      quote: ساز و آوازهای خصوصی
+      locator: Original release, programme or musician credits
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2021-03-31'
+    references:
+    - source: t.me-s-jwangroupbefore-531
+      quote: '2021-03-31'
+      locator: Original release, programme or musician credits
+      accessed: '2026-11-21'
+  performer:
+  - value: Qpzdh9v
+    references:
+    - source: t.me-s-jwangroupbefore-531
+      quote: ساز و آوازهای خصوصی
+      locator: Original release, programme or musician credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: vocals

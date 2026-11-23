@@ -1,0 +1,36 @@
+id: Qdthczn
+type: release
+statements:
+  listen link:
+  - value: https://t.me/jwangroup/1122
+    references:
+    - source: t.me-s-jwangroupbefore-1131
+      quote: ۵/۸/۲۴
+      locator: Original release, programme or musician credits
+      accessed: '2026-11-21'
+  name:
+  - value:
+      text: زنگ هنر
+      language: fa
+    references:
+    - source: t.me-s-jwangroupbefore-1131
+      quote: ۵/۸/۲۴
+      locator: Original release, programme or musician credits
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2026-11-15'
+    references:
+    - source: t.me-s-jwangroupbefore-1131
+      quote: '2026-11-15'
+      locator: Original release, programme or musician credits
+      accessed: '2026-11-21'
+  performer:
+  - value: Qpzdh9v
+    references:
+    - source: t.me-s-jwangroupbefore-1131
+      quote: ۵/۸/۲۴
+      locator: Original release, programme or musician credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: vocals
