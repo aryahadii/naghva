@@ -1,0 +1,54 @@
+id: Qqh7ybd
+type: release
+statements:
+  name:
+  - value:
+      text: Another Brick In the Wall Pt. 2 (Hey Ayatollah Leave Those Kids Alone)
+      language: en
+    references:
+    - source: music.apple.com-us-album-another-brick-in-the-wall-pt-2-hey-ayatollah-leave-1719586011
+      quote: Another Brick In the Wall Pt. 2 (Hey Ayatollah Leave Those Kids Alone)
+      accessed: 2026-11-21
+      locator: Track title
+  performer:
+  - value: Qas33mb
+    references:
+    - source: music.apple.com-us-album-another-brick-in-the-wall-pt-2-hey-ayatollah-leave-1719586011
+      quote: Sepp Osley
+      accessed: 2026-11-21
+      locator: Performer
+  listen link:
+  - value: https://music.apple.com/us/song/another-brick-in-the-wall-pt-2-hey-ayatollah-leave/1719586012
+    references:
+    - source: music.apple.com-us-album-another-brick-in-the-wall-pt-2-hey-ayatollah-leave-1719586011
+      quote: Another Brick In the Wall Pt. 2 (Hey Ayatollah Leave Those Kids Alone)
+      accessed: 2026-11-21
+      locator: Track title
+  - value: https://open.spotify.com/track/1FBB2zhttaBYsVClDtlQq1
+    references:
+    - source: open.spotify.com-album-4u564ij4tic9sikfuzzqsq
+      quote: Sepp Osley
+      accessed: 2026-11-21
+      locator: Spotify track billing
+  release date:
+  - value:
+      date: '2023-12-08'
+    references:
+    - source: music.apple.com-us-album-another-brick-in-the-wall-pt-2-hey-ayatollah-leave-1719586011
+      quote: '2023-12-08'
+      accessed: 2026-11-21
+      locator: Edition date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9c/38/bc/9c38bc8e-ef98-7311-24a2-300e25fe718d/artwork.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-another-brick-in-the-wall-pt-2-hey-ayatollah-leave-1719586011
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9c/38/bc/9c38bc8e-ef98-7311-24a2-300e25fe718d/artwork.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Edition artwork
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-another-brick-in-the-wall-pt-2-hey-ayatollah-leave-1719586011
+      quote: Another Brick In the Wall Pt. 2 (Hey Ayatollah Leave Those Kids Alone)
+      accessed: 2026-11-21
+      locator: Track title

@@ -1,0 +1,54 @@
+id: Qvnpbmw
+type: release
+statements:
+  name:
+  - value:
+      text: Sing (Freedom Club Mix)
+      language: en
+    references:
+    - source: music.apple.com-us-album-sing-freedom-club-mix-single-1729005210
+      quote: Sing (Freedom Club Mix)
+      accessed: 2026-11-21
+      locator: Track title
+  performer:
+  - value: Qas33mb
+    references:
+    - source: music.apple.com-us-album-sing-freedom-club-mix-single-1729005210
+      quote: Sepp Osley
+      accessed: 2026-11-21
+      locator: Performer
+  listen link:
+  - value: https://music.apple.com/us/song/sing-freedom-club-mix/1729005211
+    references:
+    - source: music.apple.com-us-album-sing-freedom-club-mix-single-1729005210
+      quote: Sing (Freedom Club Mix)
+      accessed: 2026-11-21
+      locator: Track title
+  - value: https://open.spotify.com/track/5C9d3OCCR3Rj3hCytU1PVe
+    references:
+    - source: open.spotify.com-album-08qcuisrzvxikz8i569hp3
+      quote: Sepp Osley
+      accessed: 2026-11-21
+      locator: Spotify track billing
+  release date:
+  - value:
+      date: '2024-03-22'
+    references:
+    - source: music.apple.com-us-album-sing-freedom-club-mix-single-1729005210
+      quote: '2024-03-22'
+      accessed: 2026-11-21
+      locator: Edition date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/bf/b5/26/bfb5265b-777a-89d6-3d81-df45fd06b496/artwork.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-sing-freedom-club-mix-single-1729005210
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/bf/b5/26/bfb5265b-777a-89d6-3d81-df45fd06b496/artwork.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Edition artwork
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-sing-freedom-club-mix-single-1729005210
+      quote: Sing (Freedom Club Mix)
+      accessed: 2026-11-21
+      locator: Track title
