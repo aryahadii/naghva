@@ -1,0 +1,53 @@
+id: Qwcnccn
+type: release
+statements:
+  name:
+  - value:
+      text: Chaharmezrab Shafagh
+      language: en
+    references:
+    - source: music.apple.com-us-album-1437675740
+      quote: Chaharmezrab Shafagh
+      locator: Named recording, original credits or artist documentation
+      accessed: '2026-11-21'
+  performer:
+  - value: Qg776ck
+    references:
+    - source: open.spotify.com-embed-album-6jkxro3edhkrqcqpiqtel3
+      quote: Afarin Nazarijoo
+      locator: Named recording, original credits or artist documentation
+      accessed: '2026-11-21'
+    qualifiers:
+      role: qanun
+  release date:
+  - value:
+      date: '2018-09-23'
+    references:
+    - source: music.apple.com-us-album-1437675740
+      quote: '2018-09-23'
+      locator: Named recording, original credits or artist documentation
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/0f/70/0e/0f700eb7-304f-41d5-8a6b-b57b8fc91196/193483005096.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-1437675740
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/0f/70/0e/0f700eb7-304f-41d5-8a6b-b57b8fc91196/193483005096.jpg/1200x630bb.jpg
+      locator: Named recording, original credits or artist documentation
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Hezar Gisoo - a Project on Qanun Instrument, Vol. 4 · digital edition
+        language: en
+  listen link:
+  - value: https://music.apple.com/us/song/chaharmezrab-shafagh/1437676380
+    references:
+    - source: music.apple.com-us-album-1437675740
+      quote: Chaharmezrab Shafagh
+      locator: Named recording, original credits or artist documentation
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/5hfrXIf0RM52efvyq3Fkax
+    references:
+    - source: open.spotify.com-embed-album-6jkxro3edhkrqcqpiqtel3
+      quote: Chaharmezrab Shafagh
+      locator: Named recording, original credits or artist documentation
+      accessed: '2026-11-21'

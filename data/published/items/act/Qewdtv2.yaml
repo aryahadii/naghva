@@ -1,0 +1,50 @@
+id: Qewdtv2
+type: act
+statements:
+  name:
+  - value:
+      text: Ensemble Delgosha
+      language: en
+    references:
+    - source: music.apple.com-us-album-iran-music-of-the-qajar-era-848988435
+      quote: Ensemble Delgosha
+      accessed: '2026-11-21'
+      locator: Artist credit
+  - value:
+      text: همنوازان دلگشا
+      language: fa
+    references:
+    - source: ensemble-delgosha-fajr
+      quote: همنوازان دلگشا
+      accessed: '2026-11-21'
+      locator: Festival roster
+  image:
+  - value: https://www.maisondesculturesdumonde.org/media/mcm/188444-ensemble_delgosha2_web_0-1.jpg
+    references:
+    - source: ensemble-delgosha-paris
+      quote: https://www.maisondesculturesdumonde.org/media/mcm/188444-ensemble_delgosha2_web_0-1.jpg
+      accessed: '2026-11-21'
+      locator: Organizer’s 2014 concert photograph
+    qualifiers:
+      credit:
+        text: Maison des Cultures du Monde, 2014 festival programme
+        language: en
+  profile link:
+  - value: https://music.apple.com/us/artist/ensemble-delgosha/848988518
+    references:
+    - source: music.apple.com-us-album-iran-music-of-the-qajar-era-848988435
+      quote: https://music.apple.com/us/artist/ensemble-delgosha/848988518
+      accessed: '2026-11-21'
+      locator: Artist profile
+  - value: https://open.spotify.com/artist/3L5j6f0wO26lXVQlLGxtw9
+    references:
+    - source: open.spotify.com-embed-album-3fpiw5hxltwwqfy1gw6hjs
+      quote: Ensemble Delgosha
+      accessed: '2026-11-21'
+      locator: Digital album billing
+  - value: https://www.youtube.com/channel/UCjFwjRl3cRzVrZqaJuiulZg
+    references:
+    - source: www.youtube.com-watch-v-kemuvmpckny
+      quote: https://www.youtube.com/channel/UCjFwjRl3cRzVrZqaJuiulZg
+      accessed: '2026-11-21'
+      locator: Artist’s Topic channel
