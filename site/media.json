@@ -1334,6 +1334,18 @@
       720
     ]
   },
+  "https://f4.bcbits.com/img/a0240603588_10.jpg": {
+    "sha256": "00c533eb99ff4855dbb391fb335a7fae76617dcbf3212ee8ac672805901269a1",
+    "ext": "jpg",
+    "bytes": 397492,
+    "width": 1200,
+    "height": 1200,
+    "widths": [
+      180,
+      360,
+      720
+    ]
+  },
   "https://f4.bcbits.com/img/a0242249170_10.jpg": {
     "sha256": "289a57f6bae2ae4a8a7d10748da0819cba749ea9dfd1e46e5fb637d88cdf2116",
     "ext": "jpg",
@@ -2070,6 +2082,18 @@
     "bytes": 918801,
     "width": 1200,
     "height": 1200,
+    "widths": [
+      180,
+      360,
+      720
+    ]
+  },
+  "https://f4.bcbits.com/img/a0628633380_10.jpg": {
+    "sha256": "6d1314618c27fadc88286d5095645ec5048aeecf7ad621684fb0b67fca6d22a8",
+    "ext": "jpg",
+    "bytes": 292109,
+    "width": 1200,
+    "height": 1163,
     "widths": [
       180,
       360,
@@ -7281,6 +7305,20 @@
     "ext": "jpg",
     "bytes": 103762,
     "width": 640,
+    "height": 640,
+    "widths": [
+      240,
+      360,
+      640,
+      960,
+      1200
+    ]
+  },
+  "https://i.scdn.co/image/ab6761610000e5ebe12d6741016e21f769a01e8e": {
+    "sha256": "ff88745460b31394160634a54da02b438cf495f4ecca00ab49d2c8673556ee17",
+    "ext": "jpg",
+    "bytes": 158928,
+    "width": 538,
     "height": 640,
     "widths": [
       240,
