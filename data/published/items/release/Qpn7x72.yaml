@@ -1,0 +1,53 @@
+id: Qpn7x72
+type: release
+statements:
+  name:
+  - value:
+      text: Memories · Memoried Quartet
+      language: en
+    references:
+    - source: www.youtube.com-oembed-r8ja8im9ffi
+      quote: Memoried Quartet - Memories
+      locator: Musician, broadcaster, artist or recording credits
+      accessed: '2026-11-21'
+  performer:
+  - value: Q4r6sm4
+    references:
+    - source: college.berklee.edu-events-summer-memoried-quartet
+      quote: Memoried Quartet
+      locator: Musician, broadcaster, artist or recording credits
+      accessed: '2026-11-21'
+  - value: Q3ytwxm
+    references:
+    - source: college.berklee.edu-events-summer-memoried-quartet
+      quote: Consisting of Guy Gottesfeld, Mahya Hamedi, Rafael Heredia, and Bahar Badieitabar
+      locator: Musician, broadcaster, artist or recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: vocals
+  listen link:
+  - value: https://www.youtube.com/watch?v=R8Ja8IM9ffI
+    references:
+    - source: www.youtube.com-oembed-r8ja8im9ffi
+      quote: Memoried Quartet - Memories
+      locator: Musician, broadcaster, artist or recording credits
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://i.ytimg.com/vi/R8Ja8IM9ffI/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-r8ja8im9ffi
+      quote: https://i.ytimg.com/vi/R8Ja8IM9ffI/hqdefault.jpg
+      locator: Musician, broadcaster, artist or recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Memoried Quartet
+        language: en
+  release date:
+  - value:
+      date: '2023-11-21'
+    references:
+    - source: www.youtube.com-watchv-r8ja8im9ffi
+      quote: '2023-11-21T12:15:45-08:00'
+      locator: Native performance, published credits, date or time code
+      accessed: '2026-11-21'

@@ -1,0 +1,47 @@
+id: Q86hzw8
+type: release
+statements:
+  name:
+  - value:
+      text: Deng · Berklee Two Track Live
+      language: en
+    references:
+    - source: www.youtube.com-oembed-qob1lcmdihw
+      quote: Mahya Hamedi -Deng | Berklee Two Track Live
+      locator: Musician, broadcaster, artist or recording credits
+      accessed: '2026-11-21'
+  performer:
+  - value: Q3ytwxm
+    references:
+    - source: www.youtube.com-oembed-qob1lcmdihw
+      quote: Mahya Hamedi -Deng | Berklee Two Track Live
+      locator: Musician, broadcaster, artist or recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: vocals
+  listen link:
+  - value: https://www.youtube.com/watch?v=QOB1LcMdIhw
+    references:
+    - source: www.youtube.com-oembed-qob1lcmdihw
+      quote: Mahya Hamedi -Deng | Berklee Two Track Live
+      locator: Musician, broadcaster, artist or recording credits
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://i.ytimg.com/vi/QOB1LcMdIhw/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-qob1lcmdihw
+      quote: https://i.ytimg.com/vi/QOB1LcMdIhw/hqdefault.jpg
+      locator: Musician, broadcaster, artist or recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Berklee College of Music
+        language: en
+  release date:
+  - value:
+      date: '2023-08-21'
+    references:
+    - source: www.youtube.com-watchv-qob1lcmdihw
+      quote: '2023-08-21T10:00:14-07:00'
+      locator: Native performance, published credits, date or time code
+      accessed: '2026-11-21'

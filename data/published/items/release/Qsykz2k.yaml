@@ -1,0 +1,57 @@
+id: Qsykz2k
+type: release
+statements:
+  name:
+  - value:
+      text: II. Join the sirens (feat. Mahya Hamedi)
+      language: en
+    references:
+    - source: music.apple.com-us-album-once-bitten-ep-1748808845
+      quote: II. Join the sirens (feat. Mahya Hamedi)
+      locator: Artist, publisher and recording credits
+      accessed: '2026-11-21'
+  performer:
+  - value: Qs8vmza
+    references:
+    - source: open.spotify.com-embed-album-4crf9snfmfsdzkkk6jpvu4
+      quote: ferrran
+      locator: Artist, publisher and recording credits
+      accessed: '2026-11-21'
+  - value: Q3ytwxm
+    references:
+    - source: open.spotify.com-embed-album-4crf9snfmfsdzkkk6jpvu4
+      quote: Mahya Hamedi
+      locator: Artist, publisher and recording credits
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a8/bf/ef/a8bfef79-030f-4caa-0e09-c81d72b3648b/198588190319.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-once-bitten-ep-1748808845
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a8/bf/ef/a8bfef79-030f-4caa-0e09-c81d72b3648b/198588190319.jpg/1200x630bb.jpg
+      locator: Artist, publisher and recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Once bitten · Apple Music
+        language: en
+  release date:
+  - value:
+      date: '2024-06-21'
+    references:
+    - source: music.apple.com-us-album-once-bitten-ep-1748808845
+      quote: '2024-06-21'
+      locator: Artist, publisher and recording credits
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://music.apple.com/us/song/ii-join-the-sirens-feat-mahya-hamedi/1748809074
+    references:
+    - source: music.apple.com-us-album-once-bitten-ep-1748808845
+      quote: II. Join the sirens (feat. Mahya Hamedi)
+      locator: Artist, publisher and recording credits
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/0ef5I6GgtCE1GYcWgLeZH1
+    references:
+    - source: open.spotify.com-embed-album-4crf9snfmfsdzkkk6jpvu4
+      quote: II. Join the sirens
+      locator: Artist, publisher and recording credits
+      accessed: '2026-11-21'

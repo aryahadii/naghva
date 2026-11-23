@@ -1,0 +1,72 @@
+id: Qekzggg
+type: release
+statements:
+  name:
+  - value:
+      text: When time slipped away
+      language: en
+    references:
+    - source: music.apple.com-us-album-when-time-slipped-away-1870327754
+      quote: When time slipped away
+      locator: Publisher, artist or ensemble recording credits
+      accessed: '2026-11-21'
+  performer:
+  - value: Q3ytwxm
+    references:
+    - source: presskits.adeidj.it-index.phpid-1501-option-com_music-view-display
+      quote: Mahya Hamedi (IR), vocals
+      locator: Publisher, artist or ensemble recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: vocals
+  - value: Qpmvvtf
+    references:
+    - source: presskits.adeidj.it-index.phpid-1501-option-com_music-view-display
+      quote: All compositions, lyrics (3) and arrangements by Giorgio Albanese
+      locator: Publisher, artist or ensemble recording credits
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2026-03-11'
+    references:
+    - source: presskits.adeidj.it-index.phpid-1501-option-com_music-view-display
+      quote: 11 March 2026
+      locator: Publisher, artist or ensemble recording credits
+      accessed: '2026-11-21'
+  release type:
+  - value: album
+    references:
+    - source: music.apple.com-us-album-when-time-slipped-away-1870327754
+      quote: When time slipped away
+      locator: Publisher, artist or ensemble recording credits
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9b/0c/51/9b0c5143-ad96-54a5-b88e-4d925d446ec4/cover.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-when-time-slipped-away-1870327754
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9b/0c/51/9b0c5143-ad96-54a5-b88e-4d925d446ec4/cover.jpg/1200x630bb.jpg
+      locator: Publisher, artist or ensemble recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Carlos Pixley · Dodicilune
+        language: en
+  listen link:
+  - value: https://music.apple.com/us/album/when-time-slipped-away/1870327754
+    references:
+    - source: presskits.adeidj.it-index.phpid-1501-option-com_music-view-display
+      quote: Mahya Hamedi (IR), vocals
+      locator: Publisher, artist or ensemble recording credits
+      accessed: '2026-11-21'
+  - value: https://www.youtube.com/watch?v=kmzM8-SBCw8
+    references:
+    - source: www.youtube.com-oembed-kmzm8-sbcw8
+      quote: GIORGIO ALBANESE - When time slipped away (excerpt), 2026 Dodicilune
+      locator: Publisher, artist or ensemble recording credits
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/album/6KaogEgjpD4aFRc8X3rM8G
+    references:
+    - source: open.spotify.com-embed-album-6kaogegjpd4afrc8x3rm8g
+      quote: When time slipped away
+      locator: Album, musician, ensemble or native recording credits
+      accessed: '2026-11-21'

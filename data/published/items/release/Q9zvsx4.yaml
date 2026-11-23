@@ -1,0 +1,53 @@
+id: Q9zvsx4
+type: release
+statements:
+  name:
+  - value:
+      text: Peyvand · Emruz Festival
+      language: en
+    references:
+    - source: www.youtube.com-oembed-zyket3zv4lu
+      quote: 'Emruz Festival: Peyvand'
+      locator: Musician, broadcaster, artist or recording credits
+      accessed: '2026-11-21'
+  performer:
+  - value: Q3ytwxm
+    references:
+    - source: www.youtube.com-watchv-zyket3zv4lu
+      quote: Piano, Mahya Hamedi
+      locator: Native performance, published credits, date or time code
+      accessed: '2026-11-21'
+    qualifiers:
+      role: piano
+  - value: Qgay8m3
+    references:
+    - source: static1.squarespace.com-static-5dc72847c64bbb6f82e742f3-t-662c1cbe6f4f842cf454624e-1714166975169-cat-optimized.pdf
+      quote: Bahar Badieitabar
+      locator: Musician, broadcaster, artist or recording credits
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://www.youtube.com/watch?v=ZykeT3Zv4LU
+    references:
+    - source: www.youtube.com-oembed-zyket3zv4lu
+      quote: 'Emruz Festival: Peyvand'
+      locator: Musician, broadcaster, artist or recording credits
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://i.ytimg.com/vi/ZykeT3Zv4LU/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-zyket3zv4lu
+      quote: https://i.ytimg.com/vi/ZykeT3Zv4LU/hqdefault.jpg
+      locator: Musician, broadcaster, artist or recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Emruz Festival
+        language: en
+  release date:
+  - value:
+      date: '2025-02-03'
+    references:
+    - source: www.youtube.com-watchv-zyket3zv4lu
+      quote: '2025-02-03T14:01:59-08:00'
+      locator: Native performance, published credits, date or time code
+      accessed: '2026-11-21'
