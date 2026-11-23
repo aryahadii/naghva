@@ -1,0 +1,54 @@
+id: Qpnf489
+type: release
+statements:
+  name:
+  - value:
+      text: All I Wanted (single)
+      language: en
+    references:
+    - source: music.apple.com-us-album-blurred-vision-all-i-wanted-single-1023592763
+      quote: All I Wanted
+      accessed: 2026-11-21
+      locator: Track title
+  performer:
+  - value: Qqrzzag
+    references:
+    - source: music.apple.com-us-album-blurred-vision-all-i-wanted-single-1023592763
+      quote: Blurred Vision
+      accessed: 2026-11-21
+      locator: Album billing
+  release date:
+  - value:
+      date: '2015-07-31'
+    references:
+    - source: music.apple.com-us-album-blurred-vision-all-i-wanted-single-1023592763
+      quote: '2015-07-31'
+      accessed: 2026-11-21
+      locator: Edition date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music60/v4/ed/5d/1d/ed5d1d67-33e9-87c8-33bb-fcaafad1be2e/mzm.vtyrwzbt.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-blurred-vision-all-i-wanted-single-1023592763
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music60/v4/ed/5d/1d/ed5d1d67-33e9-87c8-33bb-fcaafad1be2e/mzm.vtyrwzbt.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Edition cover
+  listen link:
+  - value: https://music.apple.com/us/song/all-i-wanted/1023593183
+    references:
+    - source: music.apple.com-us-album-blurred-vision-all-i-wanted-single-1023592763
+      quote: All I Wanted
+      accessed: 2026-11-21
+      locator: Track title
+  - value: https://open.spotify.com/track/37i4OyActVRXaiEtHwqMyr
+    references:
+    - source: open.spotify.com-album-0hfsfonibtoo6x8wkogxvp
+      quote: All I Wanted
+      accessed: 2026-11-21
+      locator: Spotify edition
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-blurred-vision-all-i-wanted-single-1023592763
+      quote: All I Wanted
+      accessed: 2026-11-21
+      locator: Track title

@@ -1,0 +1,64 @@
+id: Qya574m
+type: release
+statements:
+  name:
+  - value:
+      text: Organized Insanity
+      language: en
+    references:
+    - source: music.apple.com-us-album-organized-insanity-1728288385
+      quote: Organized Insanity
+      accessed: 2026-11-21
+      locator: Release title
+  performer:
+  - value: Qqrzzag
+    references:
+    - source: music.apple.com-us-album-organized-insanity-1728288385
+      quote: Blurred Vision
+      accessed: 2026-11-21
+      locator: Album billing
+  release date:
+  - value:
+      date: '2015-04-06'
+    references:
+    - source: music.apple.com-us-album-organized-insanity-1728288385
+      quote: '2015-04-06'
+      accessed: 2026-11-21
+      locator: Edition date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/44/d6/01/44d601e3-97a2-91b0-9201-0e4846dd1e2d/859783534895_cover.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-organized-insanity-1728288385
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/44/d6/01/44d601e3-97a2-91b0-9201-0e4846dd1e2d/859783534895_cover.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Edition cover
+  listen link:
+  - value: https://music.apple.com/us/album/organized-insanity/1728288385
+    references:
+    - source: music.apple.com-us-album-organized-insanity-1728288385
+      quote: Organized Insanity
+      accessed: 2026-11-21
+      locator: Release title
+  - value: https://open.spotify.com/album/5GaydOZt2233IkS7MhVdha
+    references:
+    - source: open.spotify.com-album-5gaydozt2233iks7mhvdha
+      quote: Organized Insanity
+      accessed: 2026-11-21
+      locator: Spotify edition
+  release type:
+  - value: album
+    references:
+    - source: music.apple.com-us-album-organized-insanity-1728288385
+      quote: Organized Insanity
+      accessed: 2026-11-21
+      locator: Release title
+  contributor:
+  - value: Qbnr7p5
+    qualifiers:
+      role:
+      - producer
+    references:
+    - source: www.cherryred.co.uk-organized-insanity
+      quote: Produced by Terry Brown
+      accessed: 2026-11-21
+      locator: Production credit
