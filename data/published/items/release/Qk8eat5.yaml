@@ -1,0 +1,45 @@
+id: Qk8eat5
+type: release
+statements:
+  name:
+  - value:
+      text: Cold Summer (Live at Sled Island 2026)
+      language: en
+    references:
+    - source: www.youtube.com-watch-v-ttbqzxml1ha
+      quote: Cold Summer (Live at Sled Island 2026)
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Q2e2223
+    references:
+    - source: www.youtube.com-watch-v-ttbqzxml1ha
+      quote: Cold Summer (Live at Sled Island 2026)
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qjjdrek
+    references:
+    - source: www.sledisland.com-2025-hailstones
+      quote: solo endeavour of Idlefon’s Hesam Ohadi
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: vocals
+  listen link:
+  - value: https://www.youtube.com/watch?v=ttbQzXML1hA
+    references:
+    - source: www.youtube.com-watch-v-ttbqzxml1ha
+      quote: Cold Summer (Live at Sled Island 2026)
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i.ytimg.com/vi/ttbQzXML1hA/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-ttbqzxml1ha
+      quote: https://i.ytimg.com/vi/ttbQzXML1hA/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: Hailstones
+        language: en
