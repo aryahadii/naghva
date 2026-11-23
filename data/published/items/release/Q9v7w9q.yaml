@@ -1,0 +1,53 @@
+id: Q9v7w9q
+type: release
+statements:
+  name:
+  - value:
+      text: Shekaf
+      language: en
+    references:
+    - source: music.apple.com-us-album-shekaf-single-1729968740
+      quote: Shekaf
+      accessed: 2026-11-21
+      locator: Edition or recording title
+  performer:
+  - value: Qr4berk
+    references:
+    - source: music.apple.com-us-album-shekaf-single-1729968740
+      quote: Bahar Atish
+      accessed: 2026-11-21
+      locator: Digital credits
+  listen link:
+  - value: https://music.apple.com/us/song/shekaf/1729968742
+    references:
+    - source: music.apple.com-us-album-shekaf-single-1729968740
+      quote: Shekaf
+      accessed: 2026-11-21
+      locator: Edition or recording title
+  - value: https://youtu.be/u8P2xMV_tSs
+    references:
+    - source: youtu.be-u8p2xmv_tss
+      quote: SHEKAF | BaharAtish - Official Music Video |
+      accessed: 2026-11-21
+      locator: Title and bill on artist’s channel
+  - value: https://youtu.be/pEX873MxthY
+    references:
+    - source: youtu.be-pex873mxthy
+      quote: Shekaf | Bahar Atish   شکاف
+      accessed: 2026-11-21
+      locator: Title and bill on artist’s channel
+  release date:
+  - value:
+      date: '2024-02-02'
+    references:
+    - source: music.apple.com-us-album-shekaf-single-1729968740
+      quote: '2024-02-02'
+      accessed: 2026-11-21
+      locator: Digital edition date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b4/a9/1e/b4a91e63-7a6a-4391-dcb2-51ab887b6d47/artwork.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-shekaf-single-1729968740
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b4/a9/1e/b4a91e63-7a6a-4391-dcb2-51ab887b6d47/artwork.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Digital edition artwork

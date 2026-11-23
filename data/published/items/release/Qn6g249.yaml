@@ -1,0 +1,47 @@
+id: Qn6g249
+type: release
+statements:
+  name:
+  - value:
+      text: Tolu
+      language: en
+    references:
+    - source: music.apple.com-us-album-tolu-single-1653609465
+      quote: Tolu
+      accessed: 2026-11-21
+      locator: Edition or recording title
+  performer:
+  - value: Qr4berk
+    references:
+    - source: music.apple.com-us-album-tolu-single-1653609465
+      quote: Bahar Atish
+      accessed: 2026-11-21
+      locator: Digital credits
+  listen link:
+  - value: https://music.apple.com/us/song/tolu/1653609649
+    references:
+    - source: music.apple.com-us-album-tolu-single-1653609465
+      quote: Tolu
+      accessed: 2026-11-21
+      locator: Edition or recording title
+  - value: https://youtu.be/b0JJ0xvlKDs
+    references:
+    - source: youtu.be-b0jj0xvlkds
+      quote: Baharatish Tolu
+      accessed: 2026-11-21
+      locator: Title and bill on artist’s channel
+  release date:
+  - value:
+      date: '2022-11-07'
+    references:
+    - source: music.apple.com-us-album-tolu-single-1653609465
+      quote: '2022-11-07'
+      accessed: 2026-11-21
+      locator: Digital edition date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/13/79/ae/1379aebe-7d16-5cce-f15c-6ccc5006772a/cover.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-tolu-single-1653609465
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/13/79/ae/1379aebe-7d16-5cce-f15c-6ccc5006772a/cover.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Digital edition artwork

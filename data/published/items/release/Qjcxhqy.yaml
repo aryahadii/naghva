@@ -1,0 +1,47 @@
+id: Qjcxhqy
+type: release
+statements:
+  name:
+  - value:
+      text: Taksir
+      language: en
+    references:
+    - source: music.apple.com-us-album-taksir-single-1735993146
+      quote: Taksir
+      accessed: 2026-11-21
+      locator: Edition or recording title
+  performer:
+  - value: Qr4berk
+    references:
+    - source: music.apple.com-us-album-taksir-single-1735993146
+      quote: Bahar Atish
+      accessed: 2026-11-21
+      locator: Digital credits
+  listen link:
+  - value: https://music.apple.com/us/song/taksir/1735993147
+    references:
+    - source: music.apple.com-us-album-taksir-single-1735993146
+      quote: Taksir
+      accessed: 2026-11-21
+      locator: Edition or recording title
+  - value: https://youtu.be/bALSew8ISNI
+    references:
+    - source: youtu.be-balsew8isni
+      quote: Bahar Atish - Taksir I Official Audio ( بهار آتیش - تکثیر )
+      accessed: 2026-11-21
+      locator: Title and bill on artist’s channel
+  release date:
+  - value:
+      date: '2022-12-26'
+    references:
+    - source: music.apple.com-us-album-taksir-single-1735993146
+      quote: '2022-12-26'
+      accessed: 2026-11-21
+      locator: Digital edition date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5e/d1/9b/5ed19b54-dc22-785c-ed26-707a5ba08f31/artwork.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-taksir-single-1735993146
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5e/d1/9b/5ed19b54-dc22-785c-ed26-707a5ba08f31/artwork.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Digital edition artwork

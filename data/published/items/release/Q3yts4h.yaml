@@ -1,0 +1,53 @@
+id: Q3yts4h
+type: release
+statements:
+  name:
+  - value:
+      text: Tabeid
+      language: en
+    references:
+    - source: music.apple.com-us-album-tabeid-single-6816735892
+      quote: Tabeid
+      accessed: 2026-11-21
+      locator: Edition or recording title
+  performer:
+  - value: Qr4berk
+    references:
+    - source: music.apple.com-us-album-tabeid-single-6816735892
+      quote: Bahar Atish
+      accessed: 2026-11-21
+      locator: Digital credits
+  listen link:
+  - value: https://music.apple.com/us/song/tabeid/6816735893
+    references:
+    - source: music.apple.com-us-album-tabeid-single-6816735892
+      quote: Tabeid
+      accessed: 2026-11-21
+      locator: Edition or recording title
+  - value: https://open.spotify.com/track/7CUQmCWrVCZb3axq2AdATo
+    references:
+    - source: open.spotify.com-album-1xdw749leombp2yi7gbz7m
+      quote: Tabeid
+      accessed: 2026-11-21
+      locator: Published recording
+  - value: https://youtu.be/FBI25YZPL-c
+    references:
+    - source: youtu.be-fbi25yzpl-c
+      quote: Bahar Atish - Tabeid (تبعید) | Official Audio
+      accessed: 2026-11-21
+      locator: Title and bill on artist’s channel
+  release date:
+  - value:
+      date: '2026-09-17'
+    references:
+    - source: music.apple.com-us-album-tabeid-single-6816735892
+      quote: '2026-09-17'
+      accessed: 2026-11-21
+      locator: Digital edition date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/42/95/86/4295865d-404a-3419-8704-43b69003eadc/artwork.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-tabeid-single-6816735892
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/42/95/86/4295865d-404a-3419-8704-43b69003eadc/artwork.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Digital edition artwork

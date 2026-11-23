@@ -1,0 +1,53 @@
+id: Qrnf5vm
+type: release
+statements:
+  name:
+  - value:
+      text: SHIMIYAEI
+      language: en
+    references:
+    - source: music.apple.com-us-album-shimiyaei-single-6809125449
+      quote: SHIMIYAEI
+      accessed: 2026-11-21
+      locator: Edition or recording title
+  performer:
+  - value: Qr4berk
+    references:
+    - source: music.apple.com-us-album-shimiyaei-single-6809125449
+      quote: Bahar Atish
+      accessed: 2026-11-21
+      locator: Digital credits
+  listen link:
+  - value: https://music.apple.com/us/song/shimiyaei/6809125450
+    references:
+    - source: music.apple.com-us-album-shimiyaei-single-6809125449
+      quote: SHIMIYAEI
+      accessed: 2026-11-21
+      locator: Edition or recording title
+  - value: https://open.spotify.com/track/3821cORqUwXKawmWjwzwCL
+    references:
+    - source: open.spotify.com-album-3firf58oays4kjnfrzzctq
+      quote: SHIMIYAEI
+      accessed: 2026-11-21
+      locator: Published recording
+  - value: https://youtu.be/OR9KunmxlMA
+    references:
+    - source: youtu.be-or9kunmxlma
+      quote: BAHAR ATISH | SHIMIYAEI | Official Music Video | بهار‌آتیش - شیمیایی
+      accessed: 2026-11-21
+      locator: Title and bill on artist’s channel
+  release date:
+  - value:
+      date: '2026-09-05'
+    references:
+    - source: music.apple.com-us-album-shimiyaei-single-6809125449
+      quote: '2026-09-05'
+      accessed: 2026-11-21
+      locator: Digital edition date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/28/64/11/286411d0-041c-7aee-8dc5-18b1bcb6afcf/artwork.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-shimiyaei-single-6809125449
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/28/64/11/286411d0-041c-7aee-8dc5-18b1bcb6afcf/artwork.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Digital edition artwork
