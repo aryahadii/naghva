@@ -1,0 +1,57 @@
+id: Qvfpygh
+type: release
+statements:
+  name:
+  - value:
+      text: Fandanguito
+      language: en
+    references:
+    - source: music.apple.com-us-album-bote-jeghe-1586165677
+      quote: Fandanguito
+      accessed: '2026-11-21'
+      locator: Track 3
+  release date:
+  - value:
+      date: '2021-09-12'
+    references:
+    - source: music.apple.com-us-album-bote-jeghe-1586165677
+      quote: '2021-09-12'
+      accessed: '2026-11-21'
+      locator: Issue date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/fa/84/d0/fa84d08c-b31d-676b-bf51-3dd5ff276dd2/198000933715.jpg/1200x630wp-60.jpg
+    references:
+    - source: music.apple.com-us-album-bote-jeghe-1586165677
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/fa/84/d0/fa84d08c-b31d-676b-bf51-3dd5ff276dd2/198000933715.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Original digital cover
+    qualifiers:
+      credit:
+        text: Apple Music, original edition artwork
+        language: en
+  performer:
+  - value: Q9cyea8
+    references:
+    - source: music.apple.com-us-album-bote-jeghe-1586165677
+      quote: Regard Persan
+      accessed: '2026-11-21'
+      locator: Named ensemble
+  - value: Q5mzpnt
+    references:
+    - source: music.apple.com-us-album-bote-jeghe-1586165677
+      quote: Al Golpe del Guatimé
+      accessed: '2026-11-21'
+      locator: Co-billed or lead recording artist
+  listen link:
+  - value: https://music.apple.com/us/song/fandanguito/1586165680
+    references:
+    - source: music.apple.com-us-album-bote-jeghe-1586165677
+      quote: https://music.apple.com/us/song/fandanguito/1586165680
+      accessed: '2026-11-21'
+      locator: Exact Apple recording
+  - value: https://open.spotify.com/track/2Wseq1QXeKtGO9N2n2HpXq
+    references:
+    - source: open.spotify.com-embed-album-3kdn83rlajy1qjbmz1uonu
+      quote: spotify:track:2Wseq1QXeKtGO9N2n2HpXq
+      accessed: '2026-11-21'
+      locator: Spotify track 3

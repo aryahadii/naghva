@@ -1,0 +1,65 @@
+id: Q9cyea8
+type: act
+statements:
+  name:
+  - value:
+      text: Regard Persan
+      language: en
+    references:
+    - source: regardpersan.bandcamp.com-album-regard-persan
+      quote: Trio Regard Persan
+      accessed: '2026-11-21'
+      locator: Original group billing
+  - value:
+      text: نگاه ایرانی
+      language: fa
+    references:
+    - source: hafteh.ca-uploads-mag-issue-554-web.pdf
+      quote: نگاه ایرانی
+      accessed: '2026-11-21'
+      locator: Page 17, album programme
+  formation date:
+  - value:
+      date: '2013'
+    references:
+    - source: prairiedebut.com-2020-21-regard-persan
+      quote: concert premiere in 2013 at the Garage Concerts series in Montreal
+      accessed: '2026-11-21'
+      locator: Presenter biography
+  based in:
+  - value: Qh3ewz2
+    references:
+    - source: prairiedebut.com-2020-21-regard-persan
+      quote: Founded by three Irano-Canadian musicians living in Montreal
+      accessed: '2026-11-21'
+      locator: Presenter biography
+  image:
+  - value: https://f4.bcbits.com/img/0008656063_10.jpg
+    references:
+    - source: regardpersan.bandcamp.com-album-regard-persan
+      quote: https://f4.bcbits.com/img/0008656063_10.jpg
+      accessed: '2026-11-21'
+      locator: Artist profile photograph
+    qualifiers:
+      credit:
+        text: Regard Persan, artist photograph
+        language: en
+  profile link:
+  - value: https://music.apple.com/us/artist/regard-persan/1161852016
+    references:
+    - source: music.apple.com-us-artist-regard-persan-1161852016
+      quote: Regard Persan
+      accessed: '2026-11-21'
+      locator: Apple artist listing
+  - value: https://open.spotify.com/artist/0CVCpQb6IukxwTbByLP9WE
+    references:
+    - source: open.spotify.com-artist-0cvcpqb6iukxwtbbylp9we
+      quote: Regard Persan
+      accessed: '2026-11-21'
+      locator: Spotify artist listing
+  - value: https://regardpersan.bandcamp.com
+    references:
+    - source: regardpersan.bandcamp.com-album-regard-persan
+      quote: Trio Regard Persan
+      accessed: '2026-11-21'
+      locator: Group Bandcamp

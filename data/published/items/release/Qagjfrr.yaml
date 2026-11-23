@@ -1,0 +1,57 @@
+id: Qagjfrr
+type: release
+statements:
+  name:
+  - value:
+      text: Voyage
+      language: en
+    references:
+    - source: music.apple.com-us-album-regard-persan-1161851672
+      quote: Voyage
+      accessed: '2026-11-21'
+      locator: Track 4
+  release date:
+  - value:
+      date: '2016-09-17'
+    references:
+    - source: music.apple.com-us-album-regard-persan-1161851672
+      quote: '2016-09-17'
+      accessed: '2026-11-21'
+      locator: Issue date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/3c/11/27/3c1127e7-d051-9447-b299-08a92e35be93/753070790783.jpg/1200x630wp-60.jpg
+    references:
+    - source: music.apple.com-us-album-regard-persan-1161851672
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/3c/11/27/3c1127e7-d051-9447-b299-08a92e35be93/753070790783.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Original digital cover
+    qualifiers:
+      credit:
+        text: Apple Music, original edition artwork
+        language: en
+  performer:
+  - value: Q9cyea8
+    references:
+    - source: music.apple.com-us-album-regard-persan-1161851672
+      quote: Regard Persan
+      accessed: '2026-11-21'
+      locator: Named ensemble
+  listen link:
+  - value: https://music.apple.com/us/song/voyage/1161852024
+    references:
+    - source: music.apple.com-us-album-regard-persan-1161851672
+      quote: https://music.apple.com/us/song/voyage/1161852024
+      accessed: '2026-11-21'
+      locator: Exact Apple recording
+  - value: https://open.spotify.com/track/40LMD3XHOQ4j9Np0vOiIF2
+    references:
+    - source: open.spotify.com-embed-album-2u91d1ev8grbvpezlowaji
+      quote: spotify:track:40LMD3XHOQ4j9Np0vOiIF2
+      accessed: '2026-11-21'
+      locator: Spotify track 4
+  - value: https://regardpersan.bandcamp.com/track/voyage
+    references:
+    - source: regardpersan.bandcamp.com-track-voyage
+      quote: Voyage
+      accessed: '2026-11-21'
+      locator: Bandcamp original track
