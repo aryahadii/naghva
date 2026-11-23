@@ -1,0 +1,47 @@
+id: Qt6tkz7
+type: release
+statements:
+  name:
+  - value:
+      text: Dear Iran
+      language: en
+    references:
+    - source: music.apple.com-us-album-dear-iran-single-1883808158
+      quote: Dear Iran - Single
+      accessed: 2026-11-21
+      locator: Album heading
+  performer:
+  - value: Qbqnmbj
+    references:
+    - source: music.apple.com-us-album-dear-iran-single-1883808158
+      quote: R-MEAN, Fared Shafinury
+      accessed: 2026-11-21
+      locator: Album artist
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5b/86/62/5b86622f-f2f4-3915-4a37-42f9fd4c5304/823000013807.jpg/632x632bb-60.jpg
+    references:
+    - source: music.apple.com-us-album-dear-iran-single-1883808158
+      quote: Dear Iran - Single
+      accessed: 2026-11-21
+      locator: Album heading
+  release date:
+  - value:
+      date: '2026-03-06'
+    references:
+    - source: music.apple.com-us-album-dear-iran-single-1883808158
+      quote: '2026-03-06'
+      accessed: 2026-11-21
+      locator: Release date
+  listen link:
+  - value: https://music.apple.com/us/album/dear-iran-single/1883808158
+    references:
+    - source: music.apple.com-us-album-dear-iran-single-1883808158
+      quote: Dear Iran - Single
+      accessed: 2026-11-21
+      locator: Album heading
+  - value: https://music.apple.com/us/song/dear-iran/1883808159
+    references:
+    - source: music.apple.com-us-album-dear-iran-single-1883808158
+      quote: Dear Iran
+      accessed: 2026-11-21
+      locator: Track listing

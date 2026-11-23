@@ -1,0 +1,53 @@
+id: Qsvjeh2
+type: release
+statements:
+  name:
+  - value:
+      text: My Iran
+      language: en
+    references:
+    - source: music.apple.com-us-album-my-iran-single-1889225212
+      quote: My Iran - Single
+      accessed: 2026-11-21
+      locator: Album heading
+  performer:
+  - value: Qbqnmbj
+    references:
+    - source: music.apple.com-us-album-my-iran-single-1889225212
+      quote: Fared Shafinury
+      accessed: 2026-11-21
+      locator: Album artist
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/64/0b/43/640b43a1-2adb-1b22-5422-0e5e883d9749/823000183999.png/632x632bb-60.jpg
+    references:
+    - source: music.apple.com-us-album-my-iran-single-1889225212
+      quote: My Iran - Single
+      accessed: 2026-11-21
+      locator: Album heading
+  release date:
+  - value:
+      date: '2026-03-23'
+    references:
+    - source: music.apple.com-us-album-my-iran-single-1889225212
+      quote: '2026-03-23'
+      accessed: 2026-11-21
+      locator: Release date
+  listen link:
+  - value: https://music.apple.com/us/album/my-iran-single/1889225212
+    references:
+    - source: music.apple.com-us-album-my-iran-single-1889225212
+      quote: My Iran - Single
+      accessed: 2026-11-21
+      locator: Album heading
+  - value: https://music.apple.com/us/song/my-iran/1889225598
+    references:
+    - source: music.apple.com-us-album-my-iran-single-1889225212
+      quote: My Iran
+      accessed: 2026-11-21
+      locator: Track listing
+  - value: https://www.youtube.com/watch?v=W6GXmqPnTX4
+    references:
+    - source: www.farhang.org-farhang-performances-fared-shafinury-my-iran
+      quote: W6GXmqPnTX4
+      accessed: 2026-11-21
+      locator: Commissioning organization, embedded video ID

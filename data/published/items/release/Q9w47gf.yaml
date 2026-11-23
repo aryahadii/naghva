@@ -1,0 +1,53 @@
+id: Q9w47gf
+type: release
+statements:
+  name:
+  - value:
+      text: Chaotic Bliss
+      language: en
+    references:
+    - source: music.apple.com-us-album-into-the-night-1190680897
+      quote: Chaotic Bliss
+      accessed: 2026-11-21
+      locator: Track listing
+  performer:
+  - value: Qbqnmbj
+    references:
+    - source: music.apple.com-us-album-into-the-night-1190680897
+      quote: Fared Shafinury
+      accessed: 2026-11-21
+      locator: Album artist
+  release date:
+  - value:
+      date: '2017-01-01'
+    references:
+    - source: music.apple.com-us-album-into-the-night-1190680897
+      quote: '2017-01-01'
+      accessed: 2026-11-21
+      locator: Release date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/d1/93/4d/d1934de5-368b-dfcb-7f98-92ee11c2e503/825479951123.jpg/632x632bb-60.jpg
+    references:
+    - source: music.apple.com-us-album-into-the-night-1190680897
+      quote: Into the Night
+      accessed: 2026-11-21
+      locator: Album heading
+  listen link:
+  - value: https://music.apple.com/us/song/chaotic-bliss/1190681143
+    references:
+    - source: music.apple.com-us-album-into-the-night-1190680897
+      quote: Chaotic Bliss
+      accessed: 2026-11-21
+      locator: Track listing
+  - value: https://open.spotify.com/track/5INFoF7ADHarx2UCisaVuR
+    references:
+    - source: open.spotify.com-album-736cqvnlnrn9647fzdrmay
+      quote: Chaotic Bliss
+      accessed: 2026-11-21
+      locator: Track listing
+  - value: https://soundcloud.com/fared-shafinury/chaotic-bliss
+    references:
+    - source: soundcloud.com-fared-shafinury-chaotic-bliss
+      quote: Chaotic Bliss اشفتگي و سعادت
+      accessed: 2026-11-21
+      locator: SoundCloud track heading
