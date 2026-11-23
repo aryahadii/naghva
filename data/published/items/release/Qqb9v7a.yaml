@@ -1,0 +1,47 @@
+id: Qqb9v7a
+type: release
+statements:
+  name:
+  - value:
+      text: Jinge jan
+      language: en
+    references:
+    - source: music.apple.com-us-album-berlin-2004-live-319924076
+      quote: Jinge jan
+      accessed: 2026-11-21
+      locator: Album or track heading
+  listen link:
+  - value: https://music.apple.com/us/song/jinge-jan/319924131
+    references:
+    - source: music.apple.com-us-album-berlin-2004-live-319924076
+      quote: Jinge jan
+      accessed: 2026-11-21
+      locator: Album or track heading
+  - value: https://open.spotify.com/track/26aFJykazsiWV8k9r8XRXj
+    references:
+    - source: open.spotify.com-album-0yqpdgizbdh1jbxemdndrh
+      quote: Jinge Jan
+      accessed: 2026-11-21
+      locator: Native recording title
+  release date:
+  - value:
+      date: '2009-05-27'
+    references:
+    - source: music.apple.com-us-album-berlin-2004-live-319924076
+      quote: '2009-05-27'
+      accessed: 2026-11-21
+      locator: Digital publication date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music/d7/96/4a/mzi.ojomatux.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-berlin-2004-live-319924076
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music/d7/96/4a/mzi.ojomatux.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Native artwork
+  performer:
+  - value: Qxyr3j2
+    references:
+    - source: music.apple.com-us-album-berlin-2004-live-319924076
+      quote: Darya Dadvar
+      accessed: 2026-11-21
+      locator: Edition artist

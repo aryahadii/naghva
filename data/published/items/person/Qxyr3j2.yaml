@@ -1,0 +1,50 @@
+id: Qxyr3j2
+type: person
+statements:
+  name:
+  - value:
+      text: Darya Dadvar
+      language: en
+    references:
+    - source: music.apple.com-us-artist-darya-dadvar-319924117
+      quote: Darya Dadvar
+      accessed: 2026-11-21
+      locator: Native artist name
+  - value:
+      text: دریا دادور
+      language: fa
+    references:
+    - source: www.daryadadvar.com
+      quote: دریا دادور
+      accessed: 2026-11-21
+      locator: Artist’s official site
+  image:
+  - value: https://i1.sndcdn.com/avatars-000448670199-y6b3nz-t500x500.jpg
+    qualifiers:
+      credit:
+        text: Darya Dadvar, SoundCloud artist profile
+        language: en
+    references:
+    - source: soundcloud.com-daryadadvar
+      quote: https://i1.sndcdn.com/avatars-000448670199-y6b3nz-t500x500.jpg
+      accessed: 2026-11-21
+      locator: Portrait published by the artist
+  profile link:
+  - value: https://open.spotify.com/artist/2jljxkpACxjzTTEVNIFRXg
+    references:
+    - source: open.spotify.com-artist-2jljxkpacxjzttevnifrxg
+      quote: Darya Dadvar
+      accessed: 2026-11-21
+      locator: Native artist profile
+  - value: https://music.apple.com/us/artist/darya-dadvar/319924117
+    references:
+    - source: music.apple.com-us-artist-darya-dadvar-319924117
+      quote: Darya Dadvar
+      accessed: 2026-11-21
+      locator: Native artist profile
+  - value: https://soundcloud.com/daryadadvar
+    references:
+    - source: soundcloud.com-daryadadvar
+      quote: DaryaDadvar
+      accessed: 2026-11-21
+      locator: Native artist profile

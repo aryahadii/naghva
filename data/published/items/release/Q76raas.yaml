@@ -1,0 +1,47 @@
+id: Q76raas
+type: release
+statements:
+  name:
+  - value:
+      text: Vatanam (Live)
+      language: en
+    references:
+    - source: music.apple.com-us-album-vatanam-live-single-1657839387
+      quote: Vatanam (Live)
+      accessed: 2026-11-21
+      locator: Album or track heading
+  listen link:
+  - value: https://music.apple.com/us/song/vatanam-live/1657839388
+    references:
+    - source: music.apple.com-us-album-vatanam-live-single-1657839387
+      quote: Vatanam (Live)
+      accessed: 2026-11-21
+      locator: Album or track heading
+  - value: https://open.spotify.com/track/3Z8NPq81wHfkMolHshL3hX
+    references:
+    - source: open.spotify.com-album-6d6fmdkskl28qk5amyjm3t
+      quote: Vatanam (Live)
+      accessed: 2026-11-21
+      locator: Native recording title
+  release date:
+  - value:
+      date: '2009-03-30'
+    references:
+    - source: music.apple.com-us-album-vatanam-live-single-1657839387
+      quote: '2009-03-30'
+      accessed: 2026-11-21
+      locator: Digital publication date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/fd/37/b2/fd37b245-2f19-b0de-2e79-6bc6307a3cf1/198015040248.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-vatanam-live-single-1657839387
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/fd/37/b2/fd37b245-2f19-b0de-2e79-6bc6307a3cf1/198015040248.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Native artwork
+  performer:
+  - value: Qxyr3j2
+    references:
+    - source: music.apple.com-us-album-vatanam-live-single-1657839387
+      quote: Darya Dadvar
+      accessed: 2026-11-21
+      locator: Edition artist

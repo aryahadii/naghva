@@ -1,0 +1,105 @@
+id: Qmryd4j
+type: release
+statements:
+  name:
+  - value:
+      text: Iran
+      language: en
+    references:
+    - source: music.apple.com-us-album-iran-single-1579197151
+      quote: Iran
+      accessed: 2026-11-21
+      locator: Album or track heading
+  listen link:
+  - value: https://music.apple.com/us/song/iran/1579197152
+    references:
+    - source: music.apple.com-us-album-iran-single-1579197151
+      quote: Iran
+      accessed: 2026-11-21
+      locator: Album or track heading
+  - value: https://open.spotify.com/track/5o5QYjbzEZSk3nzX9hfXPr
+    references:
+    - source: open.spotify.com-album-2w7i8qypf0u5h3b3jwa8ht
+      quote: Iran
+      accessed: 2026-11-21
+      locator: Native recording title
+  - value: https://youtu.be/rwiVGcYFOgc
+    references:
+    - source: youtu.be-rwivgcyfogc
+      quote: Iran, Darya Dadvar, Babak Amini ایران، دریا دادور، بابک امینی
+      accessed: 2026-11-21
+      locator: Artist film heading
+  - value: https://youtu.be/mN-m8zeOtU0
+    references:
+    - source: youtu.be-mn-m8zeotu0
+      quote: Iran, Darya Dadvar, Babak Amini ایران، دریا دادور، بابک امینی
+      accessed: 2026-11-21
+      locator: Artist film heading
+  - value: https://youtu.be/rIJ4MsGFEmQ
+    references:
+    - source: youtu.be-rij4msgfemq
+      quote: Iran-ایران
+      accessed: 2026-11-21
+      locator: Artist film heading
+  release date:
+  - value:
+      date: '2021-07-30'
+    references:
+    - source: music.apple.com-us-album-iran-single-1579197151
+      quote: '2021-07-30'
+      accessed: 2026-11-21
+      locator: Digital publication date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/79/84/6a/79846ab7-a073-2616-b9b1-7914e4e86434/198000815684.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-iran-single-1579197151
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/79/84/6a/79846ab7-a073-2616-b9b1-7914e4e86434/198000815684.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Native artwork
+  performer:
+  - value: Qxyr3j2
+    references:
+    - source: music.apple.com-us-album-iran-single-1579197151
+      quote: Darya Dadvar
+      accessed: 2026-11-21
+      locator: Edition artist
+  - value: Q48fdve
+    references:
+    - source: music.apple.com-us-album-iran-single-1579197151
+      quote: Babak Amini
+      accessed: 2026-11-21
+      locator: Edition artist
+    - source: youtu.be-rwivgcyfogc
+      quote: Arrangment and Guitar, Babak Amini
+      accessed: 2026-11-21
+      locator: Guitar and arrangement
+    - source: youtu.be-mn-m8zeotu0
+      quote: Guitar and arrangment, Babak Amini
+      accessed: 2026-11-21
+      locator: Guitar and arrangement
+    - source: youtu.be-rij4msgfemq
+      quote: Babak Amini, Arrangement and Guitar
+      accessed: 2026-11-21
+      locator: Guitar and arrangement
+    qualifiers:
+      role:
+      - guitar
+  contributor:
+  - value: Qvf62m8
+    qualifiers:
+      role:
+      - composer
+      - lyricist
+    references:
+    - source: youtu.be-rwivgcyfogc
+      quote: Music and Lyrics, Leila Azodi Ghajar
+      accessed: 2026-11-21
+      locator: Music and lyrics
+    - source: youtu.be-mn-m8zeotu0
+      quote: Music and Lyrics, Leila Azodi Ghajar
+      accessed: 2026-11-21
+      locator: Music and lyrics
+    - source: youtu.be-rij4msgfemq
+      quote: Leila Azodi Ghajar, music and lyrics
+      accessed: 2026-11-21
+      locator: Music and lyrics

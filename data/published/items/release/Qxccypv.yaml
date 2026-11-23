@@ -1,0 +1,54 @@
+id: Qxccypv
+type: release
+statements:
+  name:
+  - value:
+      text: Toronto Live 2008
+      language: en
+    references:
+    - source: music.apple.com-us-album-toronto-live-2008-334005768
+      quote: Toronto Live 2008
+      accessed: 2026-11-21
+      locator: Album or track heading
+  listen link:
+  - value: https://music.apple.com/us/album/toronto-live-2008/334005768
+    references:
+    - source: music.apple.com-us-album-toronto-live-2008-334005768
+      quote: Toronto Live 2008
+      accessed: 2026-11-21
+      locator: Album or track heading
+  - value: https://open.spotify.com/album/0hE7pUUI1mEyMH5g0UhT1v
+    references:
+    - source: open.spotify.com-album-0he7puui1meymh5g0uht1v
+      quote: Toronto Live 2008
+      accessed: 2026-11-21
+      locator: Spotify release title
+  release date:
+  - value:
+      date: '2008-01-01'
+    references:
+    - source: music.apple.com-us-album-toronto-live-2008-334005768
+      quote: '2008-01-01'
+      accessed: 2026-11-21
+      locator: Digital publication date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music/95/3d/09/mzi.ftesvnib.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-toronto-live-2008-334005768
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music/95/3d/09/mzi.ftesvnib.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Native artwork
+  release type:
+  - value: live album
+    references:
+    - source: music.apple.com-us-album-toronto-live-2008-334005768
+      quote: Toronto Live 2008
+      accessed: 2026-11-21
+      locator: Album or track heading
+  performer:
+  - value: Qxyr3j2
+    references:
+    - source: music.apple.com-us-album-toronto-live-2008-334005768
+      quote: Darya Dadvar
+      accessed: 2026-11-21
+      locator: Edition artist

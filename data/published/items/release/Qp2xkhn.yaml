@@ -1,0 +1,47 @@
+id: Qp2xkhn
+type: release
+statements:
+  name:
+  - value:
+      text: Duet Piano/Violin
+      language: en
+    references:
+    - source: music.apple.com-us-album-berlin-2004-live-319924076
+      quote: Duet Piano/Violin
+      accessed: 2026-11-21
+      locator: Album or track heading
+  listen link:
+  - value: https://music.apple.com/us/song/duet-piano-violin/319924130
+    references:
+    - source: music.apple.com-us-album-berlin-2004-live-319924076
+      quote: Duet Piano/Violin
+      accessed: 2026-11-21
+      locator: Album or track heading
+  - value: https://open.spotify.com/track/0Y2b8UoWxa5N5RZFknvE7d
+    references:
+    - source: open.spotify.com-album-0yqpdgizbdh1jbxemdndrh
+      quote: Duet Piano/Violin
+      accessed: 2026-11-21
+      locator: Native recording title
+  release date:
+  - value:
+      date: '2009-05-27'
+    references:
+    - source: music.apple.com-us-album-berlin-2004-live-319924076
+      quote: '2009-05-27'
+      accessed: 2026-11-21
+      locator: Digital publication date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music/d7/96/4a/mzi.ojomatux.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-berlin-2004-live-319924076
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music/d7/96/4a/mzi.ojomatux.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Native artwork
+  performer:
+  - value: Qxyr3j2
+    references:
+    - source: music.apple.com-us-album-berlin-2004-live-319924076
+      quote: Darya Dadvar
+      accessed: 2026-11-21
+      locator: Edition artist
