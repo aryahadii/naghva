@@ -1,0 +1,58 @@
+id: Qpe5qw5
+type: release
+statements:
+  name:
+  - value:
+      text: Madame Buttercry
+      language: en
+    references:
+    - source: music.apple.com-us-album-madame-buttercry-1814377401
+      quote: ‎Madame Buttercry - Album by Migrain Sq. - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qbkmbta
+    references:
+    - source: music.apple.com-us-album-madame-buttercry-1814377401
+      quote: ‎Madame Buttercry - Album by Migrain Sq. - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  release type:
+  - value: album
+    references:
+    - source: music.apple.com-us-album-madame-buttercry-1814377401
+      quote: ‎Madame Buttercry - Album by Migrain Sq. - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2012-06-01'
+    references:
+    - source: music.apple.com-us-album-madame-buttercry-1814377401
+      quote: June 1, 2012
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7c/d3/e1/7cd3e115-af57-6d4c-6cbc-1761a1853d6c/6261840100440.jpg/632x632bb.webp
+    references:
+    - source: music.apple.com-us-album-madame-buttercry-1814377401
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7c/d3/e1/7cd3e115-af57-6d4c-6cbc-1761a1853d6c/6261840100440.jpg/632x632bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Oído Records, via Apple Music
+        language: en
+  listen link:
+  - value: https://music.apple.com/us/album/madame-buttercry/1814377401
+    references:
+    - source: music.apple.com-us-album-madame-buttercry-1814377401
+      quote: ‎Madame Buttercry - Album by Migrain Sq. - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/album/0TbElO2mpoUM3SmxU8FXGS
+    references:
+    - source: open.spotify.com-album-0tbelo2mpoum3smxu8fxgs
+      quote: Listen to Madame Buttercry - Album by Migrain Sq. | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
