@@ -1,0 +1,49 @@
+id: Qzcqddt
+type: person
+statements:
+  name:
+  - value:
+      text: Rostam Mirlashari
+      language: en
+    references:
+    - source: rostammirlashari.com-gallery
+      quote: Rostam Mirlashari
+      accessed: 2026-11-21
+      locator: Artist or ensemble billing
+  image:
+  - value: https://rostammirlashari.com/wp-content/uploads/2022/03/Rostam-Solo-bild-med-Intreument-Fotograf-Fredrik-Gille-aug-2020-Svartvit-1-.jpeg-scaled.jpg
+    qualifiers:
+      credit:
+        text: Fredrik Gille
+        language: en
+    references:
+    - source: rostammirlashari.com-gallery
+      quote: https://rostammirlashari.com/wp-content/uploads/2022/03/Rostam-Solo-bild-med-Intreument-Fotograf-Fredrik-Gille-aug-2020-Svartvit-1-.jpeg-scaled.jpg
+      accessed: 2026-11-21
+      locator: Original credited artist photograph
+  profile link:
+  - value: https://open.spotify.com/artist/5zlHJ38vwLDvO6sf1lneZz
+    references:
+    - source: open.spotify.com-artist-5zlhj38vwldvo6sf1lnezz
+      quote: Listen to Rostam Mirlashari Songs | Spotify
+      accessed: 2026-11-21
+      locator: Verified catalog identity
+  - value: https://music.apple.com/us/artist/rostam-mirlashari/434509954
+    references:
+    - source: music.apple.com-us-artist-rostam-mirlashari-434509954
+      quote: ‎Rostam Mirlashari - Apple Music
+      accessed: 2026-11-21
+      locator: Verified catalog identity
+  member of:
+  - value: Qqkpfb8
+    references:
+    - source: rostammirlashari.com-about
+      quote: eight-piece ensemble Golbang (1994)
+      accessed: 2026-11-21
+      locator: Rostam on founding Golbang
+  - value: Qrqshdh
+    references:
+    - source: rostammirlashari.com-portfolio-padik
+      quote: Abdulrahman Surizehi, Anne Hytta, Rostam Mirlashari
+      accessed: 2026-11-21
+      locator: Physical album roster
