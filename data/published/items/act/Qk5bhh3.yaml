@@ -1,0 +1,100 @@
+id: Qk5bhh3
+type: act
+statements:
+  name:
+  - value:
+      text: ZÖJ
+      language: en
+    references:
+    - source: zojduet.bandcamp.com-music
+      quote: Music | ZÖJ
+      accessed: '2026-11-21'
+      locator: Artist page title
+  - value:
+      text: زوج
+      language: fa
+    references:
+    - source: www.youtube.com-watch-v-rm2p7q8ddmi
+      quote: ZÖJ زوج
+      accessed: '2026-11-21'
+      locator: Official description, opening bilingual credit
+  formation date:
+  - value:
+      date: '2016'
+    references:
+    - source: www.gelarehpour.com-about
+      quote: Since forming in 2016
+      accessed: '2026-11-21'
+      locator: About ZÖJ, second paragraph
+  based in:
+  - value: Qdtffef
+    references:
+    - source: www.gelarehpour.com-about
+      quote: experimental cross-cultural music duo based in regional Australia
+      accessed: '2026-11-21'
+      locator: About ZÖJ, opening sentence
+  image:
+  - value: https://f4.bcbits.com/img/0032861782_10.jpg
+    qualifiers:
+      credit:
+        text: ZÖJ, via Bandcamp
+        language: en
+    references:
+    - source: zojduet.bandcamp.com-music
+      quote: https://f4.bcbits.com/img/0032861782_10.jpg
+      accessed: '2026-11-21'
+      locator: Band profile photograph, full-size image
+  profile link:
+  - value: https://zojduet.bandcamp.com/music
+    references:
+    - source: zojduet.bandcamp.com-music
+      quote: Music | ZÖJ
+      accessed: '2026-11-21'
+      locator: Artist page title
+  life event:
+  - value:
+      text: Recorded live at Honey in Sydney, Australia on 22/12/2019
+      language: en
+    qualifiers:
+      point in time:
+        date: '2019'
+    references:
+    - source: zojduet.bandcamp.com-album-b-r-n-kh-kestar-ash-rain-demo
+      quote: Recorded live at Honey in Sydney, Australia on 22/12/2019
+      accessed: '2026-11-21'
+      locator: Demo recording credits
+  - value:
+      text: Recorded live by Myles Mumford in the Primrose Potter Salon at Melbourne Recital Centre
+      language: en
+    references:
+    - source: zojduet.bandcamp.com-album-fil-o-fenjoon
+      quote: Recorded live by Myles Mumford in the Primrose Potter Salon at Melbourne Recital Centre
+      accessed: '2026-11-21'
+      locator: Album recording credits
+  - value:
+      text: Featuring Brett Langsford - Guitar
+      language: en
+    references:
+    - source: zojduet.bandcamp.com-album-give-water-to-birds
+      quote: Featuring Brett Langsford - Guitar
+      accessed: '2026-11-21'
+      locator: Album performance credits
+  - value:
+      text: Recorded live in the Telus studio at Banff’s Centre for Art and Creativity, Canada.
+      language: en
+    references:
+    - source: zojduet.bandcamp.com-album-may-the-devils-ear-be-deaf
+      quote: Recorded live in the Telus studio at Banff’s Centre for Art and Creativity, Canada.
+      accessed: '2026-11-21'
+      locator: Album recording credits
+  - value:
+      text: Excellence in Experimental Practice was awarded to Gelareh Pour and Brian O’Dwyer for their project ZÖJ
+      language: en
+    references:
+    - source: apraamcos.com.au-about-us-news-and-events-art-music-awards-2024-winners-announced
+      quote: Excellence in Experimental Practice was awarded to Gelareh Pour and Brian O’Dwyer for their project ZÖJ
+      accessed: '2026-11-21'
+      locator: Excellence Awards, published 14 August 2024
+    qualifiers:
+      point in time:
+        date: '2024'
