@@ -1,0 +1,49 @@
+id: Q2reg3j
+type: release
+statements:
+  name:
+  - value:
+      text: Vazesh live at People's Republic of Camperdown set 1
+      language: en
+    references:
+    - source: www.youtube.com-watch-v-r4-3ddaptxy
+      quote: Vazesh live at People's Republic of Camperdown set 1
+      accessed: '2026-11-21'
+      locator: Creator title from YouTube oEmbed
+    - source: www.youtube.com-jeremyrosemusic-search-query-vazesh
+      quote: '51:45'
+      accessed: '2026-11-21'
+      locator: Performance duration
+  performer:
+  - value: Q597kk9
+    references:
+    - source: www.youtube.com-jeremyrosemusic-search-query-vazesh
+      quote: Vazesh live at People's Republic of Camperdown set 1
+      accessed: '2026-11-21'
+      locator: Video heading on Jeremy Rose’s channel
+  listen link:
+  - value: https://www.youtube.com/watch?v=R4-3DDaPTxY
+    references:
+    - source: www.youtube.com-watch-v-r4-3ddaptxy
+      quote: Jeremy Rose
+      accessed: '2026-11-21'
+      locator: Creator channel
+    - source: www.youtube.com-watch-v-r4-3ddaptxy
+      quote: Vazesh live at People's Republic of Camperdown set 1
+      accessed: '2026-11-21'
+      locator: Creator title from YouTube oEmbed
+  cover art:
+  - value: https://i.ytimg.com/vi/R4-3DDaPTxY/hqdefault.jpg
+    qualifiers:
+      credit:
+        text: Jeremy Rose on YouTube
+        language: en
+    references:
+    - source: www.youtube.com-watch-v-r4-3ddaptxy
+      quote: https://i.ytimg.com/vi/R4-3DDaPTxY/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: YouTube thumbnail
+    - source: www.youtube.com-watch-v-r4-3ddaptxy
+      quote: Jeremy Rose
+      accessed: '2026-11-21'
+      locator: Creator channel
