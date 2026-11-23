@@ -1,0 +1,49 @@
+id: Q7cngwt
+type: release
+statements:
+  name:
+  - value:
+      text: مش‌مندلی
+      language: fa
+    references:
+    - source: www.youtube.com-watchv-xwisemzhl-0
+      quote: مش‌مندلی
+      accessed: '2026-11-21'
+      locator: Official upload title
+  performer:
+  - value: Qzhgpkw
+    references:
+    - source: www.youtube.com-watchv-xwisemzhl-0
+      quote: مش‌مندلی
+      accessed: '2026-11-21'
+      locator: Official upload title
+    - source: www.youtube.com-watchv-xwisemzhl-0
+      quote: Babak Rajabi
+      accessed: '2026-11-21'
+      locator: Uploading artist
+  listen link:
+  - value: https://www.youtube.com/watch?v=xWisEmZhL-0
+    references:
+    - source: www.youtube.com-watchv-xwisemzhl-0
+      quote: مش‌مندلی
+      accessed: '2026-11-21'
+      locator: Official upload title
+  release date:
+  - value:
+      date: '2023-03-19'
+    references:
+    - source: www.youtube.com-watchv-xwisemzhl-0
+      quote: '20230319'
+      accessed: '2026-11-21'
+      locator: Video publication date, YYYYMMDD
+  cover art:
+  - value: https://i.ytimg.com/vi/xWisEmZhL-0/maxresdefault.jpg
+    references:
+    - source: www.youtube.com-watchv-xwisemzhl-0
+      quote: https://i.ytimg.com/vi/xWisEmZhL-0/maxresdefault.jpg
+      accessed: '2026-11-21'
+      locator: Release image URL
+    qualifiers:
+      credit:
+        text: Babak Rajabi · YouTube
+        language: en

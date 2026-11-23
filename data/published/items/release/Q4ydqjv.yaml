@@ -1,0 +1,49 @@
+id: Q4ydqjv
+type: release
+statements:
+  name:
+  - value:
+      text: Espersan interpréte le poème de 'Omar khayyam' en maqam 'bayate tork'
+      language: fr
+    references:
+    - source: www.youtube.com-watchv-vrgbqm863om
+      quote: Espersan interpréte le poème de 'Omar khayyam' en maqam 'bayate tork'
+      accessed: '2026-11-21'
+      locator: Official upload title
+  performer:
+  - value: Qzhgpkw
+    references:
+    - source: www.youtube.com-watchv-vrgbqm863om
+      quote: Espersan interpréte le poème de 'Omar khayyam' en maqam 'bayate tork'
+      accessed: '2026-11-21'
+      locator: Official upload title
+    - source: www.youtube.com-watchv-vrgbqm863om
+      quote: Babak Rajabi
+      accessed: '2026-11-21'
+      locator: Uploading artist
+  listen link:
+  - value: https://www.youtube.com/watch?v=VrgBQm863OM
+    references:
+    - source: www.youtube.com-watchv-vrgbqm863om
+      quote: Espersan interpréte le poème de 'Omar khayyam' en maqam 'bayate tork'
+      accessed: '2026-11-21'
+      locator: Official upload title
+  release date:
+  - value:
+      date: '2021-06-01'
+    references:
+    - source: www.youtube.com-watchv-vrgbqm863om
+      quote: '20210601'
+      accessed: '2026-11-21'
+      locator: Video publication date, YYYYMMDD
+  cover art:
+  - value: https://i.ytimg.com/vi/VrgBQm863OM/maxresdefault.jpg
+    references:
+    - source: www.youtube.com-watchv-vrgbqm863om
+      quote: https://i.ytimg.com/vi/VrgBQm863OM/maxresdefault.jpg
+      accessed: '2026-11-21'
+      locator: Release image URL
+    qualifiers:
+      credit:
+        text: Babak Rajabi · YouTube
+        language: en

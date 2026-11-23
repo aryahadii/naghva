@@ -1,0 +1,45 @@
+id: Qvbaar7
+type: release
+statements:
+  name:
+  - value:
+      text: چارباغ بالا
+      language: fa
+    references:
+    - source: soundcloud.com-babackrajabi-rofcx2ya8qtq
+      quote: چارباغ بالا
+      accessed: '2026-11-21'
+      locator: Title on artist’s SoundCloud upload
+  performer:
+  - value: Qzhgpkw
+    references:
+    - source: soundcloud.com-babackrajabi-rofcx2ya8qtq
+      quote: Babak Rajabi
+      accessed: '2026-11-21'
+      locator: Artist profile name
+  release date:
+  - value:
+      date: '2023-10-17'
+    references:
+    - source: soundcloud.com-babackrajabi-rofcx2ya8qtq
+      quote: '2023-10-17'
+      accessed: '2026-11-21'
+      locator: SoundCloud upload date
+  listen link:
+  - value: https://soundcloud.com/babackrajabi/rofcx2ya8qtq
+    references:
+    - source: soundcloud.com-babackrajabi-rofcx2ya8qtq
+      quote: چارباغ بالا
+      accessed: '2026-11-21'
+      locator: Title on artist’s SoundCloud upload
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-o7qn4PBymwNOQv1L-GzKr7w-large.jpg
+    references:
+    - source: soundcloud.com-babackrajabi-rofcx2ya8qtq
+      quote: https://i1.sndcdn.com/artworks-o7qn4PBymwNOQv1L-GzKr7w-large.jpg
+      accessed: '2026-11-21'
+      locator: Artist-uploaded track artwork URL
+    qualifiers:
+      credit:
+        text: Babak Rajabi · SoundCloud
+        language: en

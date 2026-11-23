@@ -1,0 +1,45 @@
+id: Qk4j37p
+type: release
+statements:
+  name:
+  - value:
+      text: Nakoone
+      language: en
+    references:
+    - source: soundcloud.com-babackrajabi-nakoone
+      quote: Nakoone
+      accessed: '2026-11-21'
+      locator: Title on artist’s SoundCloud upload
+  performer:
+  - value: Qzhgpkw
+    references:
+    - source: soundcloud.com-babackrajabi-nakoone
+      quote: Babak Rajabi
+      accessed: '2026-11-21'
+      locator: Artist profile name
+  release date:
+  - value:
+      date: '2025-12-22'
+    references:
+    - source: soundcloud.com-babackrajabi-nakoone
+      quote: '2025-12-22'
+      accessed: '2026-11-21'
+      locator: SoundCloud upload date
+  listen link:
+  - value: https://soundcloud.com/babackrajabi/nakoone
+    references:
+    - source: soundcloud.com-babackrajabi-nakoone
+      quote: Nakoone
+      accessed: '2026-11-21'
+      locator: Title on artist’s SoundCloud upload
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-C5vm3a7FNFcGLVhu-nzzacA-large.jpg
+    references:
+    - source: soundcloud.com-babackrajabi-nakoone
+      quote: https://i1.sndcdn.com/artworks-C5vm3a7FNFcGLVhu-nzzacA-large.jpg
+      accessed: '2026-11-21'
+      locator: Artist-uploaded track artwork URL
+    qualifiers:
+      credit:
+        text: Babak Rajabi · SoundCloud
+        language: en

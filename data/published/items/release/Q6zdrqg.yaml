@@ -1,0 +1,49 @@
+id: Q6zdrqg
+type: release
+statements:
+  name:
+  - value:
+      text: Esfahan اصفهان
+      language: fa
+    references:
+    - source: www.youtube.com-watchv-axrrck4625u
+      quote: Esfahan اصفهان
+      accessed: '2026-11-21'
+      locator: Official upload title
+  performer:
+  - value: Qzhgpkw
+    references:
+    - source: www.youtube.com-watchv-axrrck4625u
+      quote: Esfahan اصفهان
+      accessed: '2026-11-21'
+      locator: Official upload title
+    - source: www.youtube.com-watchv-axrrck4625u
+      quote: Babak Rajabi
+      accessed: '2026-11-21'
+      locator: Uploading artist
+  listen link:
+  - value: https://www.youtube.com/watch?v=axrRcK4625U
+    references:
+    - source: www.youtube.com-watchv-axrrck4625u
+      quote: Esfahan اصفهان
+      accessed: '2026-11-21'
+      locator: Official upload title
+  release date:
+  - value:
+      date: '2020-03-22'
+    references:
+    - source: www.youtube.com-watchv-axrrck4625u
+      quote: '20200322'
+      accessed: '2026-11-21'
+      locator: Video publication date, YYYYMMDD
+  cover art:
+  - value: https://i.ytimg.com/vi_webp/axrRcK4625U/maxresdefault.webp
+    references:
+    - source: www.youtube.com-watchv-axrrck4625u
+      quote: https://i.ytimg.com/vi_webp/axrRcK4625U/maxresdefault.webp
+      accessed: '2026-11-21'
+      locator: Release image URL
+    qualifiers:
+      credit:
+        text: Babak Rajabi · YouTube
+        language: en

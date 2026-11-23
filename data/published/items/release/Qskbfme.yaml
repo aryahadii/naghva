@@ -1,0 +1,49 @@
+id: Qskbfme
+type: release
+statements:
+  name:
+  - value:
+      text: مثی قبلنا
+      language: fa
+    references:
+    - source: www.youtube.com-watchv--of2wyldgfu
+      quote: مثی قبلنا
+      accessed: '2026-11-21'
+      locator: Official upload title
+  performer:
+  - value: Qzhgpkw
+    references:
+    - source: www.youtube.com-watchv--of2wyldgfu
+      quote: مثی قبلنا
+      accessed: '2026-11-21'
+      locator: Official upload title
+    - source: www.youtube.com-watchv--of2wyldgfu
+      quote: Babak Rajabi
+      accessed: '2026-11-21'
+      locator: Uploading artist
+  listen link:
+  - value: https://www.youtube.com/watch?v=-Of2WyLDGFU
+    references:
+    - source: www.youtube.com-watchv--of2wyldgfu
+      quote: مثی قبلنا
+      accessed: '2026-11-21'
+      locator: Official upload title
+  release date:
+  - value:
+      date: '2023-11-10'
+    references:
+    - source: www.youtube.com-watchv--of2wyldgfu
+      quote: '20231110'
+      accessed: '2026-11-21'
+      locator: Video publication date, YYYYMMDD
+  cover art:
+  - value: https://i.ytimg.com/vi/-Of2WyLDGFU/maxresdefault.jpg
+    references:
+    - source: www.youtube.com-watchv--of2wyldgfu
+      quote: https://i.ytimg.com/vi/-Of2WyLDGFU/maxresdefault.jpg
+      accessed: '2026-11-21'
+      locator: Release image URL
+    qualifiers:
+      credit:
+        text: Babak Rajabi · YouTube
+        language: en

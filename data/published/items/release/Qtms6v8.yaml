@@ -1,0 +1,49 @@
+id: Qtms6v8
+type: release
+statements:
+  name:
+  - value:
+      text: درست میشه...
+      language: fa
+    references:
+    - source: www.youtube.com-watchv-dz4kuuxuryw
+      quote: درست میشه...
+      accessed: '2026-11-21'
+      locator: Official upload title
+  performer:
+  - value: Qzhgpkw
+    references:
+    - source: www.youtube.com-watchv-dz4kuuxuryw
+      quote: درست میشه...
+      accessed: '2026-11-21'
+      locator: Official upload title
+    - source: www.youtube.com-watchv-dz4kuuxuryw
+      quote: Babak Rajabi
+      accessed: '2026-11-21'
+      locator: Uploading artist
+  listen link:
+  - value: https://www.youtube.com/watch?v=Dz4KUuxurYw
+    references:
+    - source: www.youtube.com-watchv-dz4kuuxuryw
+      quote: درست میشه...
+      accessed: '2026-11-21'
+      locator: Official upload title
+  release date:
+  - value:
+      date: '2023-11-27'
+    references:
+    - source: www.youtube.com-watchv-dz4kuuxuryw
+      quote: '20231127'
+      accessed: '2026-11-21'
+      locator: Video publication date, YYYYMMDD
+  cover art:
+  - value: https://i.ytimg.com/vi/Dz4KUuxurYw/maxresdefault.jpg
+    references:
+    - source: www.youtube.com-watchv-dz4kuuxuryw
+      quote: https://i.ytimg.com/vi/Dz4KUuxurYw/maxresdefault.jpg
+      accessed: '2026-11-21'
+      locator: Release image URL
+    qualifiers:
+      credit:
+        text: Babak Rajabi · YouTube
+        language: en

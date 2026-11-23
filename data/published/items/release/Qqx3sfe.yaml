@@ -1,0 +1,100 @@
+id: Qqx3sfe
+type: release
+statements:
+  name:
+  - value:
+      text: Esme Kouchik
+      language: en
+    references:
+    - source: music.apple.com-us-album-esme-kouchik-1556578988
+      quote: Esme Kouchik
+      accessed: '2026-11-21'
+      locator: Track title
+  - value:
+      text: Esme kouchik
+      language: en
+    references:
+    - source: babakrajabi.bandcamp.com-track-esme-kouchik
+      quote: Esme kouchik
+      accessed: '2026-11-21'
+      locator: Artist release or track heading
+  - value:
+      text: Esme kouchik   اسم کوچیک
+      language: en
+    references:
+    - source: soundcloud.com-babackrajabi-esme-kouchik
+      quote: Esme kouchik   اسم کوچیک
+      accessed: '2026-11-21'
+      locator: Title on artist’s SoundCloud upload
+  performer:
+  - value: Qzhgpkw
+    references:
+    - source: music.apple.com-us-album-esme-kouchik-1556578988
+      quote: Babak Rajabi
+      accessed: '2026-11-21'
+      locator: Artist billing
+    - source: babakrajabi.bandcamp.com-track-esme-kouchik
+      quote: Babak RAJABI
+      accessed: '2026-11-21'
+      locator: Artist billing
+  release date:
+  - value:
+      date: '2021-03-04'
+    references:
+    - source: music.apple.com-us-album-esme-kouchik-1556578988
+      quote: '2021-03-04'
+      accessed: '2026-11-21'
+      locator: Release metadata
+  - value:
+      date: '2021-04-03'
+    references:
+    - source: babakrajabi.bandcamp.com-track-esme-kouchik
+      quote: 03 Apr 2021 00:00:00 GMT
+      accessed: '2026-11-21'
+      locator: Bandcamp release metadata
+  listen link:
+  - value: https://music.apple.com/us/song/esme-kouchik/1556578990
+    references:
+    - source: music.apple.com-us-album-esme-kouchik-1556578988
+      quote: Esme Kouchik
+      accessed: '2026-11-21'
+      locator: Track title
+  - value: https://babakrajabi.bandcamp.com/track/esme-kouchik
+    references:
+    - source: babakrajabi.bandcamp.com-track-esme-kouchik
+      quote: Esme kouchik
+      accessed: '2026-11-21'
+      locator: Artist release or track heading
+  - value: https://soundcloud.com/babak-rajabi/esme-kouchik
+    references:
+    - source: soundcloud.com-babak-rajabi-tracks
+      quote: Esme kouchik
+      accessed: '2026-11-21'
+      locator: Artist tracks page
+  - value: https://soundcloud.com/babackrajabi/esme-kouchik
+    references:
+    - source: soundcloud.com-babackrajabi-esme-kouchik
+      quote: Esme kouchik   اسم کوچیک
+      accessed: '2026-11-21'
+      locator: Title on artist’s SoundCloud upload
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7e/0d/4e/7e0d4ecb-be55-35b7-59b8-4c2877a82c61/artwork.jpg/632x632bb-60.jpg
+    references:
+    - source: music.apple.com-us-album-esme-kouchik-1556578988
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7e/0d/4e/7e0d4ecb-be55-35b7-59b8-4c2877a82c61/artwork.jpg/632x632bb-60.jpg
+      accessed: '2026-11-21'
+      locator: Release image URL
+    qualifiers:
+      credit:
+        text: Apple Music · Esme Kouchik - Single
+        language: en
+  - value: https://f4.bcbits.com/img/a4181137360_10.jpg
+    references:
+    - source: babakrajabi.bandcamp.com-track-esme-kouchik
+      quote: https://f4.bcbits.com/img/a4181137360_10.jpg
+      accessed: '2026-11-21'
+      locator: Release image URL
+    qualifiers:
+      credit:
+        text: Babak Rajabi · Bandcamp
+        language: en

@@ -1,0 +1,51 @@
+id: Qz9adwp
+type: release
+statements:
+  name:
+  - value:
+      text: Chi Baghi Mondes
+      language: en
+    references:
+    - source: music.apple.com-us-album-chi-baghi-mondes-1496967956
+      quote: Chi Baghi Mondes
+      accessed: '2026-11-21'
+      locator: Track title
+  performer:
+  - value: Qzhgpkw
+    references:
+    - source: music.apple.com-us-album-chi-baghi-mondes-1496967956
+      quote: Babak Rajabi
+      accessed: '2026-11-21'
+      locator: Artist billing
+  release date:
+  - value:
+      date: '2020-01-22'
+    references:
+    - source: music.apple.com-us-album-chi-baghi-mondes-1496967956
+      quote: '2020-01-22'
+      accessed: '2026-11-21'
+      locator: Release metadata
+  listen link:
+  - value: https://music.apple.com/us/song/chi-baghi-mondes/1496967957
+    references:
+    - source: music.apple.com-us-album-chi-baghi-mondes-1496967956
+      quote: Chi Baghi Mondes
+      accessed: '2026-11-21'
+      locator: Track title
+  - value: https://open.spotify.com/track/4ECNaXI50Tka6kh7oYnuZr
+    references:
+    - source: open.spotify.com-album-1lcgclcbx92y2clsdlbgms
+      quote: Chi Baghi Mondes
+      accessed: '2026-11-21'
+      locator: Spotify track listing
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/97/4d/fa/974dfa11-5a93-7fb1-3cbb-177c1c290f71/5059505278099_cover.jpg/632x632bb-60.jpg
+    references:
+    - source: music.apple.com-us-album-chi-baghi-mondes-1496967956
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/97/4d/fa/974dfa11-5a93-7fb1-3cbb-177c1c290f71/5059505278099_cover.jpg/632x632bb-60.jpg
+      accessed: '2026-11-21'
+      locator: Release image URL
+    qualifiers:
+      credit:
+        text: Apple Music · Chi Baghi Mondes - Single
+        language: en
