@@ -1,0 +1,45 @@
+id: Q3m2rbr
+type: release
+statements:
+  name:
+  - value:
+      text: کباده کشی
+      language: fa
+    references:
+    - source: soundcloud.com-babackrajabi-q9xwyojpi8m9
+      quote: کباده کشی
+      accessed: '2026-11-21'
+      locator: Title on artist’s SoundCloud upload
+  performer:
+  - value: Qzhgpkw
+    references:
+    - source: soundcloud.com-babackrajabi-q9xwyojpi8m9
+      quote: Babak Rajabi
+      accessed: '2026-11-21'
+      locator: Artist profile name
+  release date:
+  - value:
+      date: '2020-02-03'
+    references:
+    - source: soundcloud.com-babackrajabi-q9xwyojpi8m9
+      quote: '2020-02-03'
+      accessed: '2026-11-21'
+      locator: SoundCloud upload date
+  listen link:
+  - value: https://soundcloud.com/babackrajabi/q9xwyojpi8m9
+    references:
+    - source: soundcloud.com-babackrajabi-q9xwyojpi8m9
+      quote: کباده کشی
+      accessed: '2026-11-21'
+      locator: Title on artist’s SoundCloud upload
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-000678987232-j87uk9-large.jpg
+    references:
+    - source: soundcloud.com-babackrajabi-q9xwyojpi8m9
+      quote: https://i1.sndcdn.com/artworks-000678987232-j87uk9-large.jpg
+      accessed: '2026-11-21'
+      locator: Artist-uploaded track artwork URL
+    qualifiers:
+      credit:
+        text: Babak Rajabi · SoundCloud
+        language: en

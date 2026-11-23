@@ -1,0 +1,49 @@
+id: Qywcstd
+type: release
+statements:
+  name:
+  - value:
+      text: Windmill worker
+      language: en
+    references:
+    - source: www.youtube.com-watchv-yreafmxgxbo
+      quote: Windmill worker
+      accessed: '2026-11-21'
+      locator: Official upload title
+  performer:
+  - value: Qzhgpkw
+    references:
+    - source: www.youtube.com-watchv-yreafmxgxbo
+      quote: Windmill worker
+      accessed: '2026-11-21'
+      locator: Official upload title
+    - source: www.youtube.com-watchv-yreafmxgxbo
+      quote: Babak Rajabi
+      accessed: '2026-11-21'
+      locator: Uploading artist
+  listen link:
+  - value: https://www.youtube.com/watch?v=YReafMXgXBo
+    references:
+    - source: www.youtube.com-watchv-yreafmxgxbo
+      quote: Windmill worker
+      accessed: '2026-11-21'
+      locator: Official upload title
+  release date:
+  - value:
+      date: '2020-08-18'
+    references:
+    - source: www.youtube.com-watchv-yreafmxgxbo
+      quote: '20200818'
+      accessed: '2026-11-21'
+      locator: Video publication date, YYYYMMDD
+  cover art:
+  - value: https://i.ytimg.com/vi/YReafMXgXBo/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watchv-yreafmxgxbo
+      quote: https://i.ytimg.com/vi/YReafMXgXBo/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Release image URL
+    qualifiers:
+      credit:
+        text: Babak Rajabi · YouTube
+        language: en

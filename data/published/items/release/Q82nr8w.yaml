@@ -1,0 +1,49 @@
+id: Q82nr8w
+type: release
+statements:
+  name:
+  - value:
+      text: Mon petit lapin
+      language: fr
+    references:
+    - source: www.youtube.com-watchv-ygdtkmi7gds
+      quote: Mon petit lapin
+      accessed: '2026-11-21'
+      locator: Official upload title
+  performer:
+  - value: Qzhgpkw
+    references:
+    - source: www.youtube.com-watchv-ygdtkmi7gds
+      quote: Mon petit lapin
+      accessed: '2026-11-21'
+      locator: Official upload title
+    - source: www.youtube.com-watchv-ygdtkmi7gds
+      quote: Babak Rajabi
+      accessed: '2026-11-21'
+      locator: Uploading artist
+  listen link:
+  - value: https://www.youtube.com/watch?v=ygDtKmi7Gds
+    references:
+    - source: www.youtube.com-watchv-ygdtkmi7gds
+      quote: Mon petit lapin
+      accessed: '2026-11-21'
+      locator: Official upload title
+  release date:
+  - value:
+      date: '2022-08-22'
+    references:
+    - source: www.youtube.com-watchv-ygdtkmi7gds
+      quote: '20220822'
+      accessed: '2026-11-21'
+      locator: Video publication date, YYYYMMDD
+  cover art:
+  - value: https://i.ytimg.com/vi_webp/ygDtKmi7Gds/maxresdefault.webp
+    references:
+    - source: www.youtube.com-watchv-ygdtkmi7gds
+      quote: https://i.ytimg.com/vi_webp/ygDtKmi7Gds/maxresdefault.webp
+      accessed: '2026-11-21'
+      locator: Release image URL
+    qualifiers:
+      credit:
+        text: Babak Rajabi · YouTube
+        language: en

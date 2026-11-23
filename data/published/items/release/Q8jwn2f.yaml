@@ -1,0 +1,49 @@
+id: Q8jwn2f
+type: release
+statements:
+  name:
+  - value:
+      text: به اصفهان رو...        babak rajabi
+      language: fa
+    references:
+    - source: www.youtube.com-watchv-iofa7zni3vy
+      quote: به اصفهان رو...        babak rajabi
+      accessed: '2026-11-21'
+      locator: Official upload title
+  performer:
+  - value: Qzhgpkw
+    references:
+    - source: www.youtube.com-watchv-iofa7zni3vy
+      quote: به اصفهان رو...        babak rajabi
+      accessed: '2026-11-21'
+      locator: Official upload title
+    - source: www.youtube.com-watchv-iofa7zni3vy
+      quote: Babak Rajabi
+      accessed: '2026-11-21'
+      locator: Uploading artist
+  listen link:
+  - value: https://www.youtube.com/watch?v=iOfa7znI3vY
+    references:
+    - source: www.youtube.com-watchv-iofa7zni3vy
+      quote: به اصفهان رو...        babak rajabi
+      accessed: '2026-11-21'
+      locator: Official upload title
+  release date:
+  - value:
+      date: '2014-11-06'
+    references:
+    - source: www.youtube.com-watchv-iofa7zni3vy
+      quote: '20141106'
+      accessed: '2026-11-21'
+      locator: Video publication date, YYYYMMDD
+  cover art:
+  - value: https://i.ytimg.com/vi/iOfa7znI3vY/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watchv-iofa7zni3vy
+      quote: https://i.ytimg.com/vi/iOfa7znI3vY/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Release image URL
+    qualifiers:
+      credit:
+        text: Babak Rajabi · YouTube
+        language: en

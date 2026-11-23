@@ -1,0 +1,49 @@
+id: Qjf32ab
+type: release
+statements:
+  name:
+  - value:
+      text: I would like to kiss you
+      language: en
+    references:
+    - source: www.youtube.com-watchv-dcbm3_breju
+      quote: I would like to kiss you
+      accessed: '2026-11-21'
+      locator: Official upload title
+  performer:
+  - value: Qzhgpkw
+    references:
+    - source: www.youtube.com-watchv-dcbm3_breju
+      quote: I would like to kiss you
+      accessed: '2026-11-21'
+      locator: Official upload title
+    - source: www.youtube.com-watchv-dcbm3_breju
+      quote: Babak Rajabi
+      accessed: '2026-11-21'
+      locator: Uploading artist
+  listen link:
+  - value: https://www.youtube.com/watch?v=DCBm3_bRejU
+    references:
+    - source: www.youtube.com-watchv-dcbm3_breju
+      quote: I would like to kiss you
+      accessed: '2026-11-21'
+      locator: Official upload title
+  release date:
+  - value:
+      date: '2020-02-07'
+    references:
+    - source: www.youtube.com-watchv-dcbm3_breju
+      quote: '20200207'
+      accessed: '2026-11-21'
+      locator: Video publication date, YYYYMMDD
+  cover art:
+  - value: https://i.ytimg.com/vi_webp/DCBm3_bRejU/maxresdefault.webp
+    references:
+    - source: www.youtube.com-watchv-dcbm3_breju
+      quote: https://i.ytimg.com/vi_webp/DCBm3_bRejU/maxresdefault.webp
+      accessed: '2026-11-21'
+      locator: Release image URL
+    qualifiers:
+      credit:
+        text: Babak Rajabi · YouTube
+        language: en

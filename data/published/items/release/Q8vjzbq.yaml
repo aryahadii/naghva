@@ -1,0 +1,59 @@
+id: Q8vjzbq
+type: release
+statements:
+  name:
+  - value:
+      text: DIDI KARADA
+      language: en
+    references:
+    - source: music.apple.com-us-album-didi-karada-1812194647
+      quote: DIDI KARADA
+      accessed: '2026-11-21'
+      locator: Track title
+  - value:
+      text: دی دی کارادا Di Di Ka Ra Da
+      language: en
+    references:
+    - source: soundcloud.com-babackrajabi-di-di-ka-ra-da
+      quote: دی دی کارادا Di Di Ka Ra Da
+      accessed: '2026-11-21'
+      locator: Title on artist’s SoundCloud upload
+  performer:
+  - value: Qzhgpkw
+    references:
+    - source: music.apple.com-us-album-didi-karada-1812194647
+      quote: Babak Rajabi
+      accessed: '2026-11-21'
+      locator: Artist billing
+  release date:
+  - value:
+      date: '2025-05-02'
+    references:
+    - source: music.apple.com-us-album-didi-karada-1812194647
+      quote: '2025-05-02'
+      accessed: '2026-11-21'
+      locator: Release metadata
+  listen link:
+  - value: https://music.apple.com/us/song/didi-karada/1812194648
+    references:
+    - source: music.apple.com-us-album-didi-karada-1812194647
+      quote: DIDI KARADA
+      accessed: '2026-11-21'
+      locator: Track title
+  - value: https://soundcloud.com/babackrajabi/di-di-ka-ra-da
+    references:
+    - source: soundcloud.com-babackrajabi-di-di-ka-ra-da
+      quote: دی دی کارادا Di Di Ka Ra Da
+      accessed: '2026-11-21'
+      locator: Title on artist’s SoundCloud upload
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/88/a9/f9/88a9f9d7-052b-1420-64e9-086860d9dd20/artwork.jpg/632x632bb-60.jpg
+    references:
+    - source: music.apple.com-us-album-didi-karada-1812194647
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/88/a9/f9/88a9f9d7-052b-1420-64e9-086860d9dd20/artwork.jpg/632x632bb-60.jpg
+      accessed: '2026-11-21'
+      locator: Release image URL
+    qualifiers:
+      credit:
+        text: Apple Music · DIDI KARADA - Single
+        language: en

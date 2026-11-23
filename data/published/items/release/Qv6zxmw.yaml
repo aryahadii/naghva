@@ -1,0 +1,45 @@
+id: Qv6zxmw
+type: release
+statements:
+  name:
+  - value:
+      text: خارسو Kharsoo
+      language: en
+    references:
+    - source: soundcloud.com-babackrajabi-kharsoo
+      quote: خارسو Kharsoo
+      accessed: '2026-11-21'
+      locator: Title on artist’s SoundCloud upload
+  performer:
+  - value: Qzhgpkw
+    references:
+    - source: soundcloud.com-babackrajabi-kharsoo
+      quote: Babak Rajabi
+      accessed: '2026-11-21'
+      locator: Artist profile name
+  release date:
+  - value:
+      date: '2023-05-10'
+    references:
+    - source: soundcloud.com-babackrajabi-kharsoo
+      quote: '2023-05-10'
+      accessed: '2026-11-21'
+      locator: SoundCloud upload date
+  listen link:
+  - value: https://soundcloud.com/babackrajabi/kharsoo
+    references:
+    - source: soundcloud.com-babackrajabi-kharsoo
+      quote: خارسو Kharsoo
+      accessed: '2026-11-21'
+      locator: Title on artist’s SoundCloud upload
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-RWCHTyDfMkOJV1E9-a3MHOA-large.jpg
+    references:
+    - source: soundcloud.com-babackrajabi-kharsoo
+      quote: https://i1.sndcdn.com/artworks-RWCHTyDfMkOJV1E9-a3MHOA-large.jpg
+      accessed: '2026-11-21'
+      locator: Artist-uploaded track artwork URL
+    qualifiers:
+      credit:
+        text: Babak Rajabi · SoundCloud
+        language: en

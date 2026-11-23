@@ -1,0 +1,49 @@
+id: Qec7ade
+type: release
+statements:
+  name:
+  - value:
+      text: La marche turque de Mozart Babak Rajabi Mozart's turkish march
+      language: en
+    references:
+    - source: www.youtube.com-watchv-j0nysyf1wfw
+      quote: La marche turque de Mozart Babak Rajabi Mozart's turkish march
+      accessed: '2026-11-21'
+      locator: Official upload title
+  performer:
+  - value: Qzhgpkw
+    references:
+    - source: www.youtube.com-watchv-j0nysyf1wfw
+      quote: La marche turque de Mozart Babak Rajabi Mozart's turkish march
+      accessed: '2026-11-21'
+      locator: Official upload title
+    - source: www.youtube.com-watchv-j0nysyf1wfw
+      quote: Babak Rajabi
+      accessed: '2026-11-21'
+      locator: Uploading artist
+  listen link:
+  - value: https://www.youtube.com/watch?v=J0nysYf1WFw
+    references:
+    - source: www.youtube.com-watchv-j0nysyf1wfw
+      quote: La marche turque de Mozart Babak Rajabi Mozart's turkish march
+      accessed: '2026-11-21'
+      locator: Official upload title
+  release date:
+  - value:
+      date: '2020-05-23'
+    references:
+    - source: www.youtube.com-watchv-j0nysyf1wfw
+      quote: '20200523'
+      accessed: '2026-11-21'
+      locator: Video publication date, YYYYMMDD
+  cover art:
+  - value: https://i.ytimg.com/vi_webp/J0nysYf1WFw/maxresdefault.webp
+    references:
+    - source: www.youtube.com-watchv-j0nysyf1wfw
+      quote: https://i.ytimg.com/vi_webp/J0nysYf1WFw/maxresdefault.webp
+      accessed: '2026-11-21'
+      locator: Release image URL
+    qualifiers:
+      credit:
+        text: Babak Rajabi · YouTube
+        language: en

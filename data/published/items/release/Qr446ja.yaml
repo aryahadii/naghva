@@ -1,0 +1,49 @@
+id: Qr446ja
+type: release
+statements:
+  name:
+  - value:
+      text: Contes de Perse
+      language: fr
+    references:
+    - source: www.youtube.com-watchv-_k8nfoxgkzk
+      quote: Contes de Perse
+      accessed: '2026-11-21'
+      locator: Official upload title
+  performer:
+  - value: Qzhgpkw
+    references:
+    - source: www.youtube.com-watchv-_k8nfoxgkzk
+      quote: Contes de Perse
+      accessed: '2026-11-21'
+      locator: Official upload title
+    - source: www.youtube.com-watchv-_k8nfoxgkzk
+      quote: Babak Rajabi
+      accessed: '2026-11-21'
+      locator: Uploading artist
+  listen link:
+  - value: https://www.youtube.com/watch?v=_k8NfoxGkZk
+    references:
+    - source: www.youtube.com-watchv-_k8nfoxgkzk
+      quote: Contes de Perse
+      accessed: '2026-11-21'
+      locator: Official upload title
+  release date:
+  - value:
+      date: '2024-03-31'
+    references:
+    - source: www.youtube.com-watchv-_k8nfoxgkzk
+      quote: '20240331'
+      accessed: '2026-11-21'
+      locator: Video publication date, YYYYMMDD
+  cover art:
+  - value: https://i.ytimg.com/vi/_k8NfoxGkZk/maxresdefault.jpg
+    references:
+    - source: www.youtube.com-watchv-_k8nfoxgkzk
+      quote: https://i.ytimg.com/vi/_k8NfoxGkZk/maxresdefault.jpg
+      accessed: '2026-11-21'
+      locator: Release image URL
+    qualifiers:
+      credit:
+        text: Babak Rajabi · YouTube
+        language: en

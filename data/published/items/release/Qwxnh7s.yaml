@@ -1,0 +1,49 @@
+id: Qwxnh7s
+type: release
+statements:
+  name:
+  - value:
+      text: '''Je me suis fait tout petit'' Georges Brassens traversant l''Iran'
+      language: fr
+    references:
+    - source: www.youtube.com-watchv-egomkdxowsq
+      quote: '''Je me suis fait tout petit'' Georges Brassens traversant l''Iran'
+      accessed: '2026-11-21'
+      locator: Official upload title
+  performer:
+  - value: Qzhgpkw
+    references:
+    - source: www.youtube.com-watchv-egomkdxowsq
+      quote: '''Je me suis fait tout petit'' Georges Brassens traversant l''Iran'
+      accessed: '2026-11-21'
+      locator: Official upload title
+    - source: www.youtube.com-watchv-egomkdxowsq
+      quote: Babak Rajabi
+      accessed: '2026-11-21'
+      locator: Uploading artist
+  listen link:
+  - value: https://www.youtube.com/watch?v=EgOmkDxoWSQ
+    references:
+    - source: www.youtube.com-watchv-egomkdxowsq
+      quote: '''Je me suis fait tout petit'' Georges Brassens traversant l''Iran'
+      accessed: '2026-11-21'
+      locator: Official upload title
+  release date:
+  - value:
+      date: '2021-07-11'
+    references:
+    - source: www.youtube.com-watchv-egomkdxowsq
+      quote: '20210711'
+      accessed: '2026-11-21'
+      locator: Video publication date, YYYYMMDD
+  cover art:
+  - value: https://i.ytimg.com/vi/EgOmkDxoWSQ/maxresdefault.jpg
+    references:
+    - source: www.youtube.com-watchv-egomkdxowsq
+      quote: https://i.ytimg.com/vi/EgOmkDxoWSQ/maxresdefault.jpg
+      accessed: '2026-11-21'
+      locator: Release image URL
+    qualifiers:
+      credit:
+        text: Babak Rajabi · YouTube
+        language: en
