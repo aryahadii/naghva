@@ -1,0 +1,27 @@
+id: Qpjthj7
+type: person
+statements:
+  name:
+  - value:
+      text: نازنین پدرثانی
+      language: fa
+    references:
+    - &id001
+      source: shahrzad-ensemble-iran
+      quote: هما تهرانی خواننده، نازنین پدرثانی نوازنده تنبک و نازنین غنی‌زاده با نوازندگی کمانچه
+      accessed: '2026-11-21'
+      locator: Performer or presenter archive
+  - value:
+      text: Nazanin Pedarsani
+      language: en
+    references:
+    - source: shahrzad-film-nguqwqd9orc
+      quote: Nazanin Pedarsani
+      locator: Original performer’s video description
+      accessed: '2026-11-21'
+  member of:
+  - value: Q4z6jy5
+    references:
+    - *id001
+    qualifiers:
+      role: tombak
