@@ -1,0 +1,37 @@
+id: Qgj67dv
+type: release
+statements:
+  name:
+  - value:
+      text: Saqar
+      language: en
+    references:
+    - source: www.youtube.com-watch-v-mn_upplhvp0
+      quote: Saqar
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  performer:
+  - value: Qrtebcw
+    references:
+    - source: sonic-visions.squarespace.com-neuigkeiten-saqar-urauffhrung-von-martina-kosecka-mit-dem-collegium-novum-zrich
+      quote: unter der Leitung von Yalda Zamani in der Tonhalle Zürich - Live Recording
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://www.youtube.com/watch?v=MN_UpPLHVp0
+    references:
+    - source: www.youtube.com-watch-v-mn_upplhvp0
+      quote: Martyna Kosecka - Saqar - YouTube
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i.ytimg.com/vi/MN_UpPLHVp0/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgWShGMA8=&rs=AOn4CLB5e6NlmpezBOO-MQut3ZMB2eBnzQ
+    references:
+    - source: www.youtube.com-watch-v-mn_upplhvp0
+      quote: https://i.ytimg.com/vi/MN_UpPLHVp0/maxresdefault.jpg
+      accessed: '2026-11-21'
+      locator: Official video thumbnail or release image
+    qualifiers:
+      credit:
+        text: Performance image from the published video
+        language: en

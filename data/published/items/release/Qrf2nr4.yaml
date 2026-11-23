@@ -1,0 +1,37 @@
+id: Qrf2nr4
+type: release
+statements:
+  name:
+  - value:
+      text: Mondrian (Hamburg)
+      language: en
+    references:
+    - source: soundcloud.com-gary-carpenter-mondrian-hamburg
+      quote: Mondrian (Hamburg)
+      accessed: '2026-11-21'
+      locator: Recording title
+  performer:
+  - value: Qrtebcw
+    references:
+    - source: soundcloud.com-gary-carpenter-mondrian-hamburg
+      quote: Elb Philharmonie performance. MahaN Esfahani, conducted by Yalda Zamani
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://soundcloud.com/gary-carpenter/mondrian-hamburg
+    references:
+    - source: soundcloud.com-gary-carpenter-mondrian-hamburg
+      quote: Stream Mondrian (Hamburg) by Gary Carpenter | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-BM3KtnaQhoy4uqWy-TeOHMg-large.jpg
+    references:
+    - source: soundcloud.com-gary-carpenter-mondrian-hamburg
+      quote: https://i1.sndcdn.com/artworks-BM3KtnaQhoy4uqWy-TeOHMg-large.jpg
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: Gary Carpenter on SoundCloud
+        language: en

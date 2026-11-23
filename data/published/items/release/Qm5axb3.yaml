@@ -1,0 +1,45 @@
+id: Qm5axb3
+type: release
+statements:
+  name:
+  - value:
+      text: Goat Song Project (#1)
+      language: en
+    references:
+    - source: www.youtube.com-watch-v-21rtf9_m350
+      quote: Goat Song Project (#1)
+      accessed: '2026-11-21'
+      locator: Recording title
+  performer:
+  - value: Qrtebcw
+    references:
+    - source: yaldazamani.com
+      quote: 'Concept, coordination, live-coding: Yalda Zamani'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://www.youtube.com/watch?v=21RtF9_m350
+    references:
+    - source: www.youtube.com-watch-v-21rtf9_m350
+      quote: Goat Song Project (#1) - YouTube
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2022-10-09'
+    references:
+    - source: musikprotokoll.orf.at-en-2022-project-goat-song-project
+      quote: 09.10.2022
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  cover art:
+  - value: https://i.ytimg.com/vi/21RtF9_m350/maxresdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-21rtf9_m350
+      quote: https://i.ytimg.com/vi/21RtF9_m350/maxresdefault.jpg
+      accessed: '2026-11-21'
+      locator: Official video thumbnail or release image
+    qualifiers:
+      credit:
+        text: Performance image from the published video
+        language: en

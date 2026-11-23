@@ -1,0 +1,45 @@
+id: Q8wwkph
+type: release
+statements:
+  name:
+  - value:
+      text: Gaul
+      language: en
+    references:
+    - source: www.youtube.com-watch-v-p2vfvpx8b5w
+      quote: Gaul
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  performer:
+  - value: Qrtebcw
+    references:
+    - source: www.youtube.com-watch-v-p2vfvpx8b5w
+      quote: 'Matko Brekalo: Gaul | Yalda Zamani · Croatian Radiotelevision Symphony Orchestra - YouTube'
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://www.youtube.com/watch?v=P2VfvpX8B5w
+    references:
+    - source: www.youtube.com-watch-v-p2vfvpx8b5w
+      quote: 'Matko Brekalo: Gaul | Yalda Zamani · Croatian Radiotelevision Symphony Orchestra - YouTube'
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i.ytimg.com/vi/P2VfvpX8B5w/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgUyhNMA8=&rs=AOn4CLAlR_Z2FbqgQ29Q43O-kvenf2OZVA
+    references:
+    - source: www.youtube.com-watch-v-p2vfvpx8b5w
+      quote: https://i.ytimg.com/vi/P2VfvpX8B5w/maxresdefault.jpg
+      accessed: '2026-11-21'
+      locator: HRT performance image
+    qualifiers:
+      credit:
+        text: Croatian Radiotelevision
+        language: en
+  release date:
+  - value:
+      date: '2021-05-29'
+    references:
+    - source: glazba.hrt.hr-simfonijski-orkestar-novosti-simfonijski-orkestar-hrt-a-i-mbz-raznolikost-suvremenog-orkestralnog-stvaralastva-1956250
+      quote: 29. svibnja 2021.
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
