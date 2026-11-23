@@ -1,0 +1,84 @@
+id: Qetwxhg
+type: release
+statements:
+  name:
+  - value:
+      text: PARIKHANEH
+      language: az
+    references:
+    - source: music.apple.com-us-album-1715579265
+      quote: PARIKHANEH
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+  - value:
+      text: PARIKHANEH
+      language: en
+    references:
+    - source: siamak-jahangiri-ap1715579265
+      quote: PARIKHANEH
+      accessed: '2026-11-21'
+      locator: Album title
+  performer:
+  - value: Qncx8nb
+    references:
+    - source: music.apple.com-us-album-1715579265
+      quote: ASEMAN-OLD SONG (feat. SAMIN GHORBANI)
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: vocals
+  - value: Qnz4xnz
+    references:
+    - source: music.apple.com-us-album-1715579265
+      quote: Siamak Jahangiry
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2023-11-05'
+    references:
+    - source: music.apple.com-us-album-1715579265
+      quote: '2023-11-05'
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/09/65/86/096586a0-1430-d4d8-6354-e265dd3bd614/artwork.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-1715579265
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/09/65/86/096586a0-1430-d4d8-6354-e265dd3bd614/artwork.jpg/1200x630bb.jpg
+      locator: Edition artwork
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Apple Music · PARIKHANEH
+        language: en
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/09/65/86/096586a0-1430-d4d8-6354-e265dd3bd614/artwork.jpg/1200x630wp-60.jpg
+    references:
+    - source: siamak-jahangiri-ap1715579265
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/09/65/86/096586a0-1430-d4d8-6354-e265dd3bd614/artwork.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Digital release artwork
+    qualifiers:
+      credit:
+        text: Apple Music, original edition artwork
+        language: en
+  release type:
+  - value: album
+    references:
+    - source: music.apple.com-us-album-1715579265
+      quote: PARIKHANEH
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://music.apple.com/us/album/parikhaneh/1715579265
+    references:
+    - source: music.apple.com-us-album-1715579265
+      quote: PARIKHANEH
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/album/3Q8sRKpCZnJDYcv4LMyD05
+    references:
+    - source: open.spotify.com-embed-album-3q8srkpcznjdycv4lmyd05
+      quote: PARIKHANEH
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'

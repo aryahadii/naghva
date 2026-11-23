@@ -1,0 +1,72 @@
+id: Qhdgp3n
+type: release
+statements:
+  name:
+  - value:
+      text: ابوعطا حجاز
+      language: fa
+    references:
+    - source: music.apple.com-us-album-1780788000
+      quote: ابوعطا حجاز
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+  performer:
+  - value: Qncx8nb
+    references:
+    - source: music.apple.com-us-album-1780788000
+      quote: Samin Ghorbani
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: vocals
+  release date:
+  - value:
+      date: '2024-11-18'
+    references:
+    - source: music.apple.com-us-album-1780788000
+      quote: '2024-11-18'
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/da/85/ba/da85baf7-ba57-62b7-8af8-a24e60d2bb3d/cover.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-1780788000
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/da/85/ba/da85baf7-ba57-62b7-8af8-a24e60d2bb3d/cover.jpg/1200x630bb.jpg
+      locator: Edition artwork
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Apple Music · ابوعطا حجاز
+        language: en
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-1780788000
+      quote: ابوعطا حجاز - Single
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://music.apple.com/us/album/%D8%A7%D8%A8%D9%88%D8%B9%D8%B7%D8%A7-%D8%AD%D8%AC%D8%A7%D8%B2-single/1780788000
+    references:
+    - source: music.apple.com-us-album-1780788000
+      quote: ابوعطا حجاز - Single
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/album/3DVRcAS91Qg0akieHtswGF
+    references:
+    - source: open.spotify.com-embed-album-3dvrcas91qg0akiehtswgf
+      quote: ابوعطا حجاز
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+  - value: https://music.apple.com/us/song/%D8%A7%D8%A8%D9%88%D8%B9%D8%B7%D8%A7-%D8%AD%D8%AC%D8%A7%D8%B2/1780788003
+    references:
+    - source: music.apple.com-us-album-1780788000
+      quote: ابوعطا حجاز
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/5kbUXdA5MiNyiQoMWTrrz6
+    references:
+    - source: open.spotify.com-embed-album-3dvrcas91qg0akiehtswgf
+      quote: ابوعطا حجاز
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'

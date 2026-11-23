@@ -1,0 +1,72 @@
+id: Q39rja4
+type: release
+statements:
+  name:
+  - value:
+      text: دل پر شرر
+      language: fa
+    references:
+    - source: music.apple.com-us-album-1780787947
+      quote: دل پر شرر
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+  performer:
+  - value: Qncx8nb
+    references:
+    - source: music.apple.com-us-album-1780787947
+      quote: Samin Ghorbani
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: vocals
+  release date:
+  - value:
+      date: '2024-11-18'
+    references:
+    - source: music.apple.com-us-album-1780787947
+      quote: '2024-11-18'
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/12/6f/4a/126f4a46-777a-7734-7b8d-4d7c0fa59112/cover.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-1780787947
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/12/6f/4a/126f4a46-777a-7734-7b8d-4d7c0fa59112/cover.jpg/1200x630bb.jpg
+      locator: Edition artwork
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Apple Music · دل پر شرر
+        language: en
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-1780787947
+      quote: دل پر شرر - Single
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://music.apple.com/us/album/%D8%AF%D9%84-%D9%BE%D8%B1-%D8%B4%D8%B1%D8%B1-single/1780787947
+    references:
+    - source: music.apple.com-us-album-1780787947
+      quote: دل پر شرر - Single
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/album/6agA9N2atTdGs8eWnSew8v
+    references:
+    - source: open.spotify.com-embed-album-6aga9n2attdgs8ewnsew8v
+      quote: دل پر شرر
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+  - value: https://music.apple.com/us/song/%D8%AF%D9%84-%D9%BE%D8%B1-%D8%B4%D8%B1%D8%B1/1780787953
+    references:
+    - source: music.apple.com-us-album-1780787947
+      quote: دل پر شرر
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/0iurTVUCMFA3Y046SAgbIz
+    references:
+    - source: open.spotify.com-embed-album-6aga9n2attdgs8ewnsew8v
+      quote: دل پر شرر
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
