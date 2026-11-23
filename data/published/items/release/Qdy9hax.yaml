@@ -1,0 +1,71 @@
+id: Qdy9hax
+type: release
+statements:
+  name:
+  - value:
+      text: Mahni Ensemble 1
+      language: en
+    references:
+    - source: www.youtube.com-watch-v-hobvp_jylfi
+      quote: Mahni Ensemble 1
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qkmhqgm
+    references:
+    - source: www.youtube.com-watch-v-hobvp_jylfi
+      quote: 'Ooldouz Pouri: Vocal'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: vocals
+  - value: Q6zj8c3
+    references:
+    - source: www.youtube.com-watch-v-hobvp_jylfi
+      quote: Padideh Ahrarnejad
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: tar
+  - value: Qjrnf23
+    references:
+    - source: www.youtube.com-watch-v-hobvp_jylfi
+      quote: Ali Massoudi
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: percussion
+  - value: Qbeyr82
+    references:
+    - source: www.youtube.com-watch-v-hobvp_jylfi
+      quote: Selcuk Suna
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: clarinet
+  release date:
+  - value:
+      date: '2023-05-17'
+    references:
+    - source: www.youtube.com-watch-v-hobvp_jylfi
+      quote: '2023-05-17T10:08:06-07:00'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://www.youtube.com/watch?v=HoBvp_JyLFI
+    references:
+    - source: www.youtube.com-watch-v-hobvp_jylfi
+      quote: Mahni Ensemble 1
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i.ytimg.com/vi/HoBvp_JyLFI/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-hobvp_jylfi
+      quote: https://i.ytimg.com/vi/HoBvp_JyLFI/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: Ali Massoudi
+        language: en

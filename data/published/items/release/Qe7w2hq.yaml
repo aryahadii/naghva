@@ -1,0 +1,60 @@
+id: Qe7w2hq
+type: release
+statements:
+  name:
+  - value:
+      text: Heyf
+      language: en
+    references:
+    - source: music.apple.com-us-song-heyf-1169729177
+      quote: ‎Heyf - Song with Lyrics by Young Iranian female voices - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qkmhqgm
+    references:
+    - source: music.apple.com-us-song-heyf-1169729177
+      quote: ‎Heyf - Song with Lyrics by Young Iranian female voices - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+    qualifiers:
+      role: vocals
+  listen link:
+  - value: https://music.apple.com/us/song/heyf/1169729177
+    references:
+    - source: music.apple.com-us-song-heyf-1169729177
+      quote: ‎Heyf - Song with Lyrics by Young Iranian female voices - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/5kgRfJRiEHypVg6IZUWBm7
+    references:
+    - source: open.spotify.com-track-5kgrfjriehypvg6izuwbm7
+      quote: Heyf - song and lyrics by Young Iranian female voices | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2016-11-04'
+    references:
+    - source: music.apple.com-us-album-songs-in-the-mist-1169728933
+      quote: November 4, 2016
+      accessed: '2026-11-21'
+      locator: Published date
+  published by:
+  - value: Qtcvdjj
+    references:
+    - source: www.kkv.no-en-music-waiting-for-the-dawn-3
+      quote: KKV label
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/09/17/36/09173646-1ed8-4855-0ff5-85f9cb11194c/cover.jpg/600x600bb.webp
+    references:
+    - source: music.apple.com-us-song-heyf-1169729177
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/09/17/36/09173646-1ed8-4855-0ff5-85f9cb11194c/cover.jpg/600x600bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Kirkelig Kulturverksted, via Apple Music
+        language: en

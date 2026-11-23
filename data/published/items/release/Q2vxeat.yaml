@@ -1,0 +1,66 @@
+id: Q2vxeat
+type: release
+statements:
+  name:
+  - value:
+      text: Nece Ünüdüm Seni (How can I forget you)
+      language: en
+    references:
+    - source: music.apple.com-us-song-nece--c3-bcn-c3-bcd-c3-bcm-seni-how-can-i-forget-you-1441636454
+      quote: ‎Nece Ünüdüm Seni (How can I forget you) - Song with Lyrics by Ooldouz Pouri - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qkmhqgm
+    references:
+    - source: music.apple.com-us-song-nece--c3-bcn-c3-bcd-c3-bcm-seni-how-can-i-forget-you-1441636454
+      quote: ‎Nece Ünüdüm Seni (How can I forget you) - Song with Lyrics by Ooldouz Pouri - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+    qualifiers:
+      role: vocals
+  listen link:
+  - value: https://music.apple.com/us/song/nece-%C3%BCn%C3%BCd%C3%BCm-seni-how-can-i-forget-you/1441636454
+    references:
+    - source: music.apple.com-us-song-nece--c3-bcn-c3-bcd-c3-bcm-seni-how-can-i-forget-you-1441636454
+      quote: ‎Nece Ünüdüm Seni (How can I forget you) - Song with Lyrics by Ooldouz Pouri - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/6pHg3lvJjB0zp098kfSszN
+    references:
+    - source: open.spotify.com-track-6phg3lvjjb0zp098kfsszn
+      quote: Nece ünüdüm seni (How can I forget you) - song and lyrics by Ooldouz Pouri | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://www.youtube.com/watch?v=-C1vBwuwzWA
+    references:
+    - source: www.youtube.com-watch-v--c1vbwuwzwa
+      quote: Nece Ünüdüm Seni
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2018-11-23'
+    references:
+    - source: www.kkv.no-en-music-waiting-for-the-dawn-3
+      quote: 23.11.2018
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  published by:
+  - value: Qtcvdjj
+    references:
+    - source: www.kkv.no-en-music-waiting-for-the-dawn-3
+      quote: KKV label
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/97/f7/17/97f717d4-7924-50ff-19f7-e1b7953019a9/cover.jpg/600x600bb.webp
+    references:
+    - source: music.apple.com-us-song-nece--c3-bcn-c3-bcd-c3-bcm-seni-how-can-i-forget-you-1441636454
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/97/f7/17/97f717d4-7924-50ff-19f7-e1b7953019a9/cover.jpg/600x600bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Kirkelig Kulturverksted, via Apple Music
+        language: en

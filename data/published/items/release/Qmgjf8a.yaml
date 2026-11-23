@@ -1,0 +1,60 @@
+id: Qmgjf8a
+type: release
+statements:
+  name:
+  - value:
+      text: Heyf (Alas!)
+      language: en
+    references:
+    - source: music.apple.com-us-song-heyf-alas-1441636464
+      quote: ‎Heyf (Alas!) - Song with Lyrics by Ooldouz Pouri - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qkmhqgm
+    references:
+    - source: music.apple.com-us-song-heyf-alas-1441636464
+      quote: ‎Heyf (Alas!) - Song with Lyrics by Ooldouz Pouri - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+    qualifiers:
+      role: vocals
+  listen link:
+  - value: https://music.apple.com/us/song/heyf-alas/1441636464
+    references:
+    - source: music.apple.com-us-song-heyf-alas-1441636464
+      quote: ‎Heyf (Alas!) - Song with Lyrics by Ooldouz Pouri - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/6Sx0McrZUwsMzhzMATLhHF
+    references:
+    - source: open.spotify.com-track-6sx0mcrzuwsmzhzmatlhhf
+      quote: Heyf (Alas!) - song and lyrics by Ooldouz Pouri | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2018-11-23'
+    references:
+    - source: www.kkv.no-en-music-waiting-for-the-dawn-3
+      quote: 23.11.2018
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  published by:
+  - value: Qtcvdjj
+    references:
+    - source: www.kkv.no-en-music-waiting-for-the-dawn-3
+      quote: KKV label
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/97/f7/17/97f717d4-7924-50ff-19f7-e1b7953019a9/cover.jpg/600x600bb.webp
+    references:
+    - source: music.apple.com-us-song-heyf-alas-1441636464
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/97/f7/17/97f717d4-7924-50ff-19f7-e1b7953019a9/cover.jpg/600x600bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Kirkelig Kulturverksted, via Apple Music
+        language: en

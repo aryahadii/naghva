@@ -1,0 +1,39 @@
+id: Qa8f9b3
+type: release
+statements:
+  name:
+  - value:
+      text: Soroude Zan
+      language: en
+    references:
+    - source: www.youtube.com-watch-v-5_twepm75la
+      quote: Soroude Zan
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qkmhqgm
+    references:
+    - source: www.youtube.com-watch-v-5_twepm75la
+      quote: Soroude Zan
+      accessed: '2026-11-21'
+      locator: Page title
+    qualifiers:
+      role: vocals
+  listen link:
+  - value: https://www.youtube.com/watch?v=5_TWepm75lA
+    references:
+    - source: www.youtube.com-watch-v-5_twepm75la
+      quote: Soroude Zan
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i.ytimg.com/vi/5_TWepm75lA/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-5_twepm75la
+      quote: https://i.ytimg.com/vi/5_TWepm75lA/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: ooldouz pouri
+        language: en
