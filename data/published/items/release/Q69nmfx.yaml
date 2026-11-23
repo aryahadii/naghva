@@ -1,0 +1,69 @@
+id: Q69nmfx
+type: release
+statements:
+  name:
+  - value:
+      text: Dingomaro
+      language: en
+    references:
+    - source: music.apple.com-us-album-mehr-275174365
+      quote: Dingomaro
+      accessed: '2026-11-21'
+      locator: Release and track listing
+  performer:
+  - value: Qjwhj2t
+    references:
+    - source: music.apple.com-us-album-mehr-275174365
+      quote: Pouya Mahmoodi
+      accessed: '2026-11-21'
+      locator: Artist billing
+  - value: Qngcq7r
+    references:
+    - source: www.youtube.com-watch-v-psstwumyviq
+      quote: Negar
+      accessed: '2026-11-21'
+      locator: Featured performer
+  listen link:
+  - value: https://music.apple.com/us/song/dingomaro/275174418
+    references:
+    - source: music.apple.com-us-album-mehr-275174365
+      quote: https://music.apple.com/us/song/dingomaro/275174418
+      accessed: '2026-11-21'
+      locator: Distributor permalink
+  - value: https://open.spotify.com/track/7DhMBXMsN9QtN7V2yxyAVf
+    references:
+    - source: open.spotify.com-embed-album-1vkhwhksoafdons5mhxmgt
+      quote: spotify:track:7DhMBXMsN9QtN7V2yxyAVf
+      accessed: '2026-11-21'
+      locator: Original Spotify tracklist
+  - value: https://soundcloud.com/pouyamahmoodi/dingomaro
+    references:
+    - source: soundcloud.com-pouyamahmoodi-dingomaro
+      quote: Stream Dingomaro by Pouya Mahmoodi | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Named SoundCloud recording
+  - value: https://www.youtube.com/watch?v=PSSTwUmyviQ
+    references:
+    - source: www.youtube.com-watch-v-psstwumyviq
+      quote: Pouya Mahmoodi - Dingomaro
+      accessed: '2026-11-21'
+      locator: Label upload title
+  release date:
+  - value:
+      date: '2008-02-19'
+    references:
+    - source: music.apple.com-us-album-mehr-275174365
+      quote: '2008-02-19'
+      accessed: '2026-11-21'
+      locator: Original issue date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music/31/05/9f/mzi.crkpqkxn.jpg/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Distributor artwork via Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-mehr-275174365
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music/31/05/9f/mzi.crkpqkxn.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Digital cover artwork

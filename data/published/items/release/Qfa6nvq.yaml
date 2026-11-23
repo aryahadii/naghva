@@ -1,0 +1,78 @@
+id: Qfa6nvq
+type: release
+statements:
+  name:
+  - value:
+      text: Shah Kalaam
+      language: en
+    references:
+    - source: music.apple.com-us-album-jens-sevom-1449339768
+      quote: Shah Kalaam
+      accessed: '2026-11-21'
+      locator: Original album sequence
+  performer:
+  - value: Qjwhj2t
+    qualifiers:
+      role:
+      - guitar
+    references:
+    - source: www.youtube.com-watch-v-mdnptocl1vq
+      quote: 'Guitar: Pouya Mahmoodi'
+      accessed: '2026-11-21'
+      locator: Artist’s song-specific published credits
+  - value: Qn7vfak
+    qualifiers:
+      role:
+      - vocals
+    references:
+    - source: www.youtube.com-watch-v-mdnptocl1vq
+      quote: 'Vocals: Shahin Najafi'
+      accessed: '2026-11-21'
+      locator: Song credits
+  - value: Q49prrc
+    qualifiers:
+      role:
+      - percussion
+    references:
+    - source: www.youtube.com-watch-v-mdnptocl1vq
+      quote: 'Percussion: Habib Meftah'
+      accessed: '2026-11-21'
+      locator: Song credits
+  listen link:
+  - value: https://music.apple.com/us/song/shah-kalaam/1449339780
+    references:
+    - source: music.apple.com-us-album-jens-sevom-1449339768
+      quote: https://music.apple.com/us/song/shah-kalaam/1449339780
+      accessed: '2026-11-21'
+      locator: Track link
+  - value: https://www.youtube.com/watch?v=MDnpToCl1vQ
+    references:
+    - source: www.youtube.com-watch-v-mdnptocl1vq
+      quote: Shahin Najafi - Shah Kalaam (Album Jens Sevom) شاکلام - آلبوم جنس سوم شاهین نجفی
+      accessed: '2026-11-21'
+      locator: Artist’s original upload
+  - value: https://open.spotify.com/track/5swPplVD8joXf1r758J7t7
+    references:
+    - source: open.spotify.com-embed-album-1jv8by69tlv7u8t13dfjvt
+      quote: spotify:track:5swPplVD8joXf1r758J7t7
+      accessed: '2026-11-21'
+      locator: Native Spotify track ID
+  release date:
+  - value:
+      date: '2019-01-18'
+    references:
+    - source: music.apple.com-us-album-jens-sevom-1449339768
+      quote: '2019-01-18'
+      accessed: '2026-11-21'
+      locator: Original album issue
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4b/d7/20/4bd720a4-9e60-abd6-e967-ac9410961ec2/193428499041.jpg/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Dyaloge Limited via Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-jens-sevom-1449339768
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4b/d7/20/4bd720a4-9e60-abd6-e967-ac9410961ec2/193428499041.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Artist label cover

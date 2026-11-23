@@ -1,0 +1,77 @@
+id: Q7fmfbg
+type: release
+statements:
+  name:
+  - value:
+      text: تشویش
+      language: fa
+    references:
+    - source: music.apple.com-us-album-d8-aa-d8-b4-d9-88-db-8c-d8-b4-single-1503028563
+      quote: تشویش
+      accessed: '2026-11-21'
+      locator: Release and track listing
+  performer:
+  - value: Qckkkx8
+    references:
+    - source: music.apple.com-us-album-d8-aa-d8-b4-d9-88-db-8c-d8-b4-single-1503028563
+      quote: 'Listen to تشویش - Single by Naghmeh Sharifi & Pouya Mahmoodi on Apple Music. 2020. 1 Song. Duration: 3 minutes.'
+      accessed: '2026-11-21'
+      locator: Distributor release billing
+  - value: Qjwhj2t
+    references:
+    - source: music.apple.com-us-album-d8-aa-d8-b4-d9-88-db-8c-d8-b4-single-1503028563
+      quote: Pouya Mahmoodi
+      accessed: '2026-11-21'
+      locator: Artist billing
+    qualifiers:
+      role:
+      - guitar
+  listen link:
+  - value: https://music.apple.com/us/song/%D8%AA%D8%B4%D9%88%DB%8C%D8%B4/1503028564
+    references:
+    - source: music.apple.com-us-album-d8-aa-d8-b4-d9-88-db-8c-d8-b4-single-1503028563
+      quote: https://music.apple.com/us/song/%D8%AA%D8%B4%D9%88%DB%8C%D8%B4/1503028564
+      accessed: '2026-11-21'
+      locator: Distributor permalink
+  - value: https://naghmehs.bandcamp.com/track/tashvish
+    references:
+    - source: naghmehs.bandcamp.com-track-tashvish
+      quote: Tashvish / تشویش
+      accessed: '2026-11-21'
+      locator: Vocalist’s original issue
+  release date:
+  - value:
+      date: '2020-04-06'
+    references:
+    - source: music.apple.com-us-album-d8-aa-d8-b4-d9-88-db-8c-d8-b4-single-1503028563
+      quote: '2020-04-06'
+      accessed: '2026-11-21'
+      locator: Original issue date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/18/66/d0/1866d059-40f0-6dfd-1dff-11444be66b4f/7321170088708.png/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Distributor artwork via Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-d8-aa-d8-b4-d9-88-db-8c-d8-b4-single-1503028563
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/18/66/d0/1866d059-40f0-6dfd-1dff-11444be66b4f/7321170088708.png/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Digital cover artwork
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-d8-aa-d8-b4-d9-88-db-8c-d8-b4-single-1503028563
+      quote: 'Listen to تشویش - Single by Naghmeh Sharifi & Pouya Mahmoodi on Apple Music. 2020. 1 Song. Duration: 3 minutes.'
+      accessed: '2026-11-21'
+      locator: Distributor release billing
+  contributor:
+  - value: Qjwhj2t
+    qualifiers:
+      role:
+      - composer
+    references:
+    - source: naghmehs.bandcamp.com-track-tashvish
+      quote: 'Guitar and Composition: Pouya Mahmoodi'
+      accessed: '2026-11-21'
+      locator: Original recording credits

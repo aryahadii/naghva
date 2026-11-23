@@ -1,0 +1,70 @@
+id: Q3gs9fp
+type: release
+statements:
+  name:
+  - value:
+      text: Saffron Moon
+      language: en
+    references:
+    - source: music.apple.com-us-album-saffron-moon-radio-edit-single-1710765767
+      quote: Saffron Moon
+      accessed: '2026-11-21'
+      locator: Release and track listing
+  performer:
+  - value: Qf3hzjj
+    references:
+    - source: music.apple.com-us-album-saffron-moon-radio-edit-single-1710765767
+      quote: 'Listen to Saffron Moon (Radio Edit) - Single by Saffron Moon on Apple Music. 2023. 1 Song. Duration: 4 minutes.'
+      accessed: '2026-11-21'
+      locator: Distributor release billing
+  - value: Qjwhj2t
+    references:
+    - source: www.youtube.com-watch-v-k2dtpsbu-wo
+      quote: Saffron Moon - Saffron Moon
+      accessed: '2026-11-21'
+      locator: Label upload title
+  - value: Qf9fpj6
+    references:
+    - source: www.youtube.com-watch-v-k2dtpsbu-wo
+      quote: 'Saffron Moon: Pouya Mahmoodi & Hamed Derakhshan'
+      accessed: '2026-11-21'
+      locator: Duo personnel
+  listen link:
+  - value: https://music.apple.com/us/song/saffron-moon/1710765772
+    references:
+    - source: music.apple.com-us-album-saffron-moon-radio-edit-single-1710765767
+      quote: https://music.apple.com/us/song/saffron-moon/1710765772
+      accessed: '2026-11-21'
+      locator: Distributor permalink
+  - value: https://www.youtube.com/watch?v=k2dTpsbu-wo
+    references:
+    - source: www.youtube.com-watch-v-k2dtpsbu-wo
+      quote: Saffron Moon - Saffron Moon
+      accessed: '2026-11-21'
+      locator: Label upload title
+  release date:
+  - value:
+      date: '2023-09-27'
+    references:
+    - source: music.apple.com-us-album-saffron-moon-radio-edit-single-1710765767
+      quote: '2023-09-27'
+      accessed: '2026-11-21'
+      locator: Original issue date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/23/79/30/237930ed-80cb-7c5b-f2a0-0d962e4e7098/197190102161.jpg/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Distributor artwork via Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-saffron-moon-radio-edit-single-1710765767
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/23/79/30/237930ed-80cb-7c5b-f2a0-0d962e4e7098/197190102161.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Digital cover artwork
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-saffron-moon-radio-edit-single-1710765767
+      quote: 'Listen to Saffron Moon (Radio Edit) - Single by Saffron Moon on Apple Music. 2023. 1 Song. Duration: 4 minutes.'
+      accessed: '2026-11-21'
+      locator: Distributor release billing

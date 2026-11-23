@@ -1,0 +1,72 @@
+id: Qnhsv4s
+type: release
+statements:
+  name:
+  - value:
+      text: Morad
+      language: en
+    references:
+    - source: music.apple.com-us-album-in-the-moment-feat-pouya-mahmoodi-ali-nourbakhsh-1778428332
+      quote: Morad (feat. Pouya Mahmoodi, Saleh Zarei & Ali Nourbakhsh)
+      accessed: '2026-11-21'
+      locator: Release and track listing
+  performer:
+  - value: Qjg7yfc
+    references:
+    - source: music.apple.com-us-album-in-the-moment-feat-pouya-mahmoodi-ali-nourbakhsh-1778428332
+      quote: 'Listen to In The Moment (feat. Pouya Mahmoodi, Ali Nourbakhsh & Saleh Zarei) by Karaj Collective on Apple Music. 2024. 6 Songs. Duration: 53 minutes.'
+      accessed: '2026-11-21'
+      locator: Distributor release billing
+  - value: Qjwhj2t
+    qualifiers:
+      role:
+      - guitar
+    references:
+    - source: contemporaryiranian.com-artists-music-karaj-collective
+      quote: 'Pouya Mahmoudi: Guitar'
+      accessed: '2026-11-21'
+      locator: Organizer lineup
+  - value: Q4epet3
+    qualifiers:
+      role:
+      - bass
+    references:
+    - source: contemporaryiranian.com-artists-music-karaj-collective
+      quote: 'Saleh Zarei: Bass Guitar'
+      accessed: '2026-11-21'
+      locator: Organizer lineup
+  - value: Qjggbxm
+    qualifiers:
+      role:
+      - percussion
+    references:
+    - source: contemporaryiranian.com-artists-music-karaj-collective
+      quote: 'Ali Nourbakhsh: Percussion'
+      accessed: '2026-11-21'
+      locator: Organizer lineup
+  listen link:
+  - value: https://music.apple.com/us/song/morad-feat-pouya-mahmoodi-saleh-zarei-ali-nourbakhsh/1778428334
+    references:
+    - source: music.apple.com-us-album-in-the-moment-feat-pouya-mahmoodi-ali-nourbakhsh-1778428332
+      quote: https://music.apple.com/us/song/morad-feat-pouya-mahmoodi-saleh-zarei-ali-nourbakhsh/1778428334
+      accessed: '2026-11-21'
+      locator: Distributor permalink
+  release date:
+  - value:
+      date: '2024-11-03'
+    references:
+    - source: music.apple.com-us-album-in-the-moment-feat-pouya-mahmoodi-ali-nourbakhsh-1778428332
+      quote: '2024-11-03'
+      accessed: '2026-11-21'
+      locator: Original issue date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d4/bb/96/d4bb962e-1fca-3022-daff-b4c0a4aca220/artwork.jpg/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Distributor artwork via Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-in-the-moment-feat-pouya-mahmoodi-ali-nourbakhsh-1778428332
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d4/bb/96/d4bb962e-1fca-3022-daff-b4c0a4aca220/artwork.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Digital cover artwork
