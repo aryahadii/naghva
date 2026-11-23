@@ -1,0 +1,63 @@
+id: Q8hbah9
+type: release
+statements:
+  name:
+  - value:
+      text: Persian road
+      language: en
+    references:
+    - source: darawish.bandcamp.com-track-persian-road
+      quote: Persian road | Darawish
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qyk58gj
+    references:
+    - source: darawish.bandcamp.com-track-persian-road
+      quote: Persian road | Darawish
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://darawish.bandcamp.com/track/persian-road
+    references:
+    - source: darawish.bandcamp.com-track-persian-road
+      quote: Persian road | Darawish
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/persian-road/1495102501
+    references:
+    - source: music.apple.com-us-song-persian-road-1495102501
+      quote: ‎Persian Road - Song with Lyrics by Darawish - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://www.youtube.com/watch?v=87FHahXu-Ps
+    references:
+    - source: www.youtube.com-watch-v-87fhahxu-ps
+      quote: Persian Road
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/6keHO45GqLIObGXasbRgNS
+    references:
+    - source: open.spotify.com-album-2pugceut2uuiket0gvnvx0
+      quote: Persian Road · Darawish
+      accessed: 2026-11-21
+      locator: Matching album sequence and native titled track
+  cover art:
+  - value: https://f4.bcbits.com/img/a3857241456_10.jpg
+    references:
+    - source: darawish.bandcamp.com-album-madar
+      quote: https://f4.bcbits.com/img/a3857241456_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Darawish’s original album artwork
+        language: en
+  release date:
+  - value:
+      date: '2020-01-27'
+    references:
+    - source: darawish.bandcamp.com-album-madar
+      quote: released January 27, 2020
+      accessed: '2026-11-21'
+      locator: Published date
