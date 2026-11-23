@@ -6699,6 +6699,19 @@
       720
     ]
   },
+  "https://f4.bcbits.com/img/a3807791199_5.jpg": {
+    "sha256": "3ead1db3d515e65dee5944c2847a1fff6b1e5dfb320b58794568da7935b276f0",
+    "ext": "jpg",
+    "bytes": 391347,
+    "width": 1200,
+    "height": 1200,
+    "from": "https://f4.bcbits.com/img/a3807791199_10.jpg",
+    "widths": [
+      180,
+      360,
+      720
+    ]
+  },
   "https://f4.bcbits.com/img/a3832824935_10.jpg": {
     "sha256": "61b3b26e43249d27f1f4f5c2105fd6d2bde87d0075ff51487e457d0ceaa47bb6",
     "ext": "jpg",
@@ -16739,6 +16752,19 @@
     "width": 1280,
     "height": 720,
     "from": "https://i.ytimg.com/vi/BspKB4h8ziQ/maxresdefault.jpg",
+    "widths": [
+      180,
+      360,
+      720
+    ]
+  },
+  "https://i.ytimg.com/vi/bttqNlt59bA/hqdefault.jpg": {
+    "sha256": "2fb4eb097e29216028a606a0a24160dc83b329f35f5fa99c683b5dee752df989",
+    "ext": "jpg",
+    "bytes": 47448,
+    "width": 1280,
+    "height": 720,
+    "from": "https://i.ytimg.com/vi/bttqNlt59bA/maxresdefault.jpg",
     "widths": [
       180,
       360,
@@ -36116,6 +36142,18 @@
     "width": 1280,
     "height": 720,
     "from": "https://i.ytimg.com/vi/Yelgl2I-3ds/maxresdefault.jpg",
+    "widths": [
+      180,
+      360,
+      720
+    ]
+  },
+  "https://i.ytimg.com/vi/yenTobP-QQQ/hqdefault.jpg": {
+    "sha256": "8c2c1c7ffb44907d78ec5b9fca17e5a9d52bfa06cf96f0898c650605aa2e7171",
+    "ext": "jpg",
+    "bytes": 10799,
+    "width": 480,
+    "height": 360,
     "widths": [
       180,
       360,
