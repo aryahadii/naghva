@@ -7,23 +7,26 @@ statements:
       language: en
     references:
     - source: www.peymansalimi.com-about-0abb334dd2a8
-      quote: |-
-        They dropped their first EP, “Stalemate,” in 2013, with a hand from Antonio Aiazzi of the legendary New-Wave band Litfiba. Their debut album, “Muscle Memory,” followed in 2017, co-produced by Tiziano Borghi and Eduardo de la Paz.
+      quote: They dropped their first EP, “Stalemate,” in 2013, with a hand from Antonio Aiazzi of the legendary
+        New-Wave band Litfiba. Their debut album, “Muscle Memory,” followed in 2017, co-produced by Tiziano Borghi
+        and Eduardo de la Paz.
       accessed: '2026-10-19'
   release date:
   - value:
       date: '2017'
     references:
     - source: www.peymansalimi.com-about-0abb334dd2a8
-      quote: |-
-        They dropped their first EP, “Stalemate,” in 2013, with a hand from Antonio Aiazzi of the legendary New-Wave band Litfiba. Their debut album, “Muscle Memory,” followed in 2017, co-produced by Tiziano Borghi and Eduardo de la Paz.
+      quote: They dropped their first EP, “Stalemate,” in 2013, with a hand from Antonio Aiazzi of the legendary
+        New-Wave band Litfiba. Their debut album, “Muscle Memory,” followed in 2017, co-produced by Tiziano Borghi
+        and Eduardo de la Paz.
       accessed: '2026-10-19'
   performer:
   - value: Qaddn5j
     references:
     - source: www.peymansalimi.com-about-0abb334dd2a8
-      quote: |-
-        They dropped their first EP, “Stalemate,” in 2013, with a hand from Antonio Aiazzi of the legendary New-Wave band Litfiba. Their debut album, “Muscle Memory,” followed in 2017, co-produced by Tiziano Borghi and Eduardo de la Paz.
+      quote: They dropped their first EP, “Stalemate,” in 2013, with a hand from Antonio Aiazzi of the legendary
+        New-Wave band Litfiba. Their debut album, “Muscle Memory,” followed in 2017, co-produced by Tiziano Borghi
+        and Eduardo de la Paz.
       accessed: '2026-10-19'
   listen link:
   - value: https://music.apple.com/us/album/muscle-memory/1271220998
@@ -31,6 +34,18 @@ statements:
     - source: music.apple.com-us-album-muscle-memory-1271220998
       quote: 'Listen to Muscle Memory by The Allophones on Apple Music. 2017. 11 Songs. Duration: 44 minutes.'
       accessed: '2026-10-19'
+  - value: https://open.spotify.com/album/48B919VWuibz7Skr7foG2z
+    references:
+    - source: open.spotify.com-album-48b919vwuibz7skr7fog2z
+      quote: Muscle Memory · The Allophones
+      accessed: 2026-11-21
+      locator: Native album artist
+  - value: https://soundcloud.com/the-allophones/sets/muscle-memory
+    references:
+    - source: soundcloud.com-the-allophones-sets-muscle-memory
+      quote: Muscle Memory
+      accessed: 2026-11-21
+      locator: Artist’s partial SoundCloud album sequence
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/b8/51/18/b8511870-f127-a950-4d0c-f6495e0a7160/191061481676.jpg/600x600bb.jpg
     references:
@@ -44,3 +59,10 @@ statements:
       credit:
         text: music.apple.com
         language: en
+  release type:
+  - value: album
+    references:
+    - source: open.spotify.com-album-48b919vwuibz7skr7fog2z
+      quote: Muscle Memory · The Allophones
+      accessed: 2026-11-21
+      locator: Native album artist
