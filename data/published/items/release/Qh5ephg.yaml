@@ -1,0 +1,68 @@
+id: Qh5ephg
+type: release
+statements:
+  name:
+  - value:
+      text: Sarmast
+      language: en
+    references:
+    - source: music.apple.com-us-album-1590715482
+      quote: Sarmast
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
+  performer:
+  - value: Qje5fct
+    references:
+    - source: www.sarpoosh.com-art-cinema-music-music961203143.html
+      quote: زانیار حسامی (دیوان)
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
+    qualifiers:
+      role: divan
+  - value: Q9f3963
+    references:
+    - source: music.apple.com-us-album-1590715482
+      quote: Mohammad Motamedi
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
+    qualifiers:
+      role: vocals
+  release type:
+  - value: album
+    references:
+    - source: music.apple.com-us-album-1590715482
+      quote: Sarmast
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ef/d4/62/efd46267-d1cf-5194-fea5-fa61bf96f8e9/196006996499.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-1590715482
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ef/d4/62/efd46267-d1cf-5194-fea5-fa61bf96f8e9/196006996499.jpg/1200x630bb.jpg
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Sarmast (feat. Mohsen Jalili & Milad Reza)
+        language: en
+  listen link:
+  - value: https://music.apple.com/us/album/sarmast-feat-mohsen-jalili-milad-reza/1590715482
+    references:
+    - source: music.apple.com-us-album-1590715482
+      quote: Sarmast
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/album/4H6P8KuGHnWKqkxznukKiN
+    references:
+    - source: open.spotify.com-embed-album-4h6p8kughnwkqkxznukkin
+      quote: Sarmast
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2018'
+    references:
+    - source: www.sarpoosh.com-art-cinema-music-music961203143.html
+      quote: ۱۳۹۶
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
