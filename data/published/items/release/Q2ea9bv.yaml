@@ -1,0 +1,47 @@
+id: Q2ea9bv
+type: release
+statements:
+  name:
+  - value:
+      text: Bayat Esfahan
+      language: en
+    references:
+    - source: music.apple.com-us-album-1151017710
+      quote: Bayat Esfahan
+      locator: Original programme, artist or edition credits
+      accessed: '2026-11-21'
+  performer:
+  - value: Qyw49hh
+    references:
+    - source: itunes.apple.com-searchterm-sahba-motallebi-entity-song-limit-200
+      quote: Sahba Motallebi
+      locator: Original programme, artist or edition credits
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2001-08-18'
+    references:
+    - source: music.apple.com-us-album-1151017710
+      quote: '2001-08-18'
+      locator: Original programme, artist or edition credits
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/90/19/c6/9019c6b8-5edd-f6a1-26ec-d29309a33d98/6260608001906.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-1151017710
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/90/19/c6/9019c6b8-5edd-f6a1-26ec-d29309a33d98/6260608001906.jpg/1200x630bb.jpg
+      locator: Original programme, artist or edition credits
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://music.apple.com/us/song/bayat-esfahan/1151017845
+    references:
+    - source: music.apple.com-us-album-1151017710
+      quote: Bayat Esfahan
+      locator: Original programme, artist or edition credits
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/5coTrOiSk215dbauq25VCu
+    references:
+    - source: open.spotify.com-embed-album-1hz1ddqbrfmpm4i50rksra
+      quote: spotify:track:5coTrOiSk215dbauq25VCu
+      locator: Original programme, artist or edition credits
+      accessed: '2026-11-21'
