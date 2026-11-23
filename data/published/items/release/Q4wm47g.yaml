@@ -1,0 +1,32 @@
+id: Q4wm47g
+type: release
+statements:
+  name:
+  - value:
+      text: PÉRXICO - LLORONA | یورونا
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-r40c7fcqxfu
+      quote: PÉRXICO - LLORONA | یورونا
+      accessed: '2026-11-21'
+      locator: Music credited by musician or performance publisher
+  performer:
+  - value: Qqb9bnx
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/R40C7fCQXfU/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-r40c7fcqxfu
+      quote: https://i.ytimg.com/vi/R40C7fCQXfU/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video frame
+    qualifiers:
+      credit:
+        text: Mehdi Moshtagh
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=R40C7fCQXfU
+    references:
+    - *id001

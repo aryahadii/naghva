@@ -1,0 +1,21 @@
+id: Qgbsjcr
+type: release
+statements:
+  name:
+  - value:
+      text: On the Way
+      language: en
+    references:
+    - &id001
+      source: www.eluniversal.com.mx-articulo-english-2015-06-7-mehdi-moshtagh-brings-radif-mexico
+      quote: When I was 23 I recorded "On the way", a duet of setar and tombak.
+      accessed: '2026-11-21'
+      locator: First-person discography
+  performer:
+  - value: Qqb9bnx
+    references:
+    - *id001
+  release type:
+  - value: album
+    references:
+    - *id001

@@ -1,0 +1,32 @@
+id: Qr8z87z
+type: release
+statements:
+  name:
+  - value:
+      text: SETAR, AFSHAR - Mehdi Moshtagh
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-canwqdvjj0e
+      quote: SETAR, AFSHAR - Mehdi Moshtagh
+      accessed: '2026-11-21'
+      locator: Music credited by musician or performance publisher
+  performer:
+  - value: Qqb9bnx
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/CaNWqdVjJ0E/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-canwqdvjj0e
+      quote: https://i.ytimg.com/vi/CaNWqdVjJ0E/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video frame
+    qualifiers:
+      credit:
+        text: Mehdi Moshtagh
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=CaNWqdVjJ0E
+    references:
+    - *id001

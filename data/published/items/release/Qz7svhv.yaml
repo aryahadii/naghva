@@ -1,0 +1,47 @@
+id: Qz7svhv
+type: release
+statements:
+  name:
+  - value:
+      text: Asatir
+      language: en
+    references:
+    - &id001
+      source: open.spotify.com-embed-album-5zchcgkg2fdzysnbeynmuk
+      quote: Asatir
+      accessed: '2026-11-21'
+      locator: Original Spotify album
+  performer:
+  - value: Qqb9bnx
+    references:
+    - *id001
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d0000b273cb4e57b3a0cc692d0a3c0ddc
+    references:
+    - source: open.spotify.com-embed-album-5zchcgkg2fdzysnbeynmuk
+      quote: https://image-cdn-ak.spotifycdn.com/image/ab67616d0000b273cb4e57b3a0cc692d0a3c0ddc
+      accessed: '2026-11-21'
+      locator: Digital cover
+    qualifiers:
+      credit:
+        text: Spotify, original edition artwork
+        language: en
+  release type:
+  - value: album
+    references:
+    - *id001
+  release date:
+  - value:
+      date: '2023'
+    references:
+    - source: www.radiopodcast.unam.mx-podcast-audio-45383
+      quote: “ASATIR”, publicado en 2023
+      accessed: '2026-11-21'
+      locator: Broadcaster description
+  listen link:
+  - value: https://open.spotify.com/album/5Zchcgkg2FDZYSnbEYNMuk
+    references:
+    - source: open.spotify.com-embed-album-5zchcgkg2fdzysnbeynmuk
+      quote: Asatir
+      accessed: '2026-11-21'
+      locator: Original Spotify album

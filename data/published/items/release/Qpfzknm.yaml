@@ -1,0 +1,38 @@
+id: Qpfzknm
+type: release
+statements:
+  name:
+  - value:
+      text: Pishdaramad Mahur Darvish Khan |پیش درآمد ماهور درویش خان
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-6b-rc0g25ny
+      quote: Pishdaramad Mahur Darvish Khan |پیش درآمد ماهور درویش خان
+      accessed: '2026-11-21'
+      locator: Music credited by musician or performance publisher
+  performer:
+  - value: Qqb9bnx
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/6b-rc0G25nY/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-6b-rc0g25ny
+      quote: https://i.ytimg.com/vi/6b-rc0G25nY/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video frame
+    qualifiers:
+      credit:
+        text: Mehdi Moshtagh
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=6b-rc0G25nY
+    references:
+    - *id001
+  contributor:
+  - value: Q52hj9g
+    references:
+    - *id001
+    qualifiers:
+      role: composer

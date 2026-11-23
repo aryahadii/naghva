@@ -1,0 +1,32 @@
+id: Qzhk3b3
+type: release
+statements:
+  name:
+  - value:
+      text: Canario, Setar iraní y Laúd renacentista
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-j1ex6rdkelc
+      quote: Canario, Setar iraní y Laúd renacentista
+      accessed: '2026-11-21'
+      locator: Music credited by musician or performance publisher
+  performer:
+  - value: Qqb9bnx
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/J1Ex6rdKelc/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-j1ex6rdkelc
+      quote: https://i.ytimg.com/vi/J1Ex6rdKelc/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video frame
+    qualifiers:
+      credit:
+        text: Mehdi Moshtagh
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=J1Ex6rdKelc
+    references:
+    - *id001

@@ -1,0 +1,32 @@
+id: Q4x8t4v
+type: release
+statements:
+  name:
+  - value:
+      text: بداهه نوازی در بیداد همایون، تکنوازی سه تار مهدی مشتاق / Improvisación Homayún, Setar Mehdi Moshtagh
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-q6qlgfqggag
+      quote: بداهه نوازی در بیداد همایون، تکنوازی سه تار مهدی مشتاق / Improvisación Homayún, Setar Mehdi Moshtagh
+      accessed: '2026-11-21'
+      locator: Music credited by musician or performance publisher
+  performer:
+  - value: Qqb9bnx
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/q6qLgFqGgAg/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-q6qlgfqggag
+      quote: https://i.ytimg.com/vi/q6qLgFqGgAg/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video frame
+    qualifiers:
+      credit:
+        text: Mehdi Moshtagh
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=q6qLgFqGgAg
+    references:
+    - *id001

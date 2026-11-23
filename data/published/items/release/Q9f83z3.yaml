@@ -1,0 +1,23 @@
+id: Q9f83z3
+type: release
+statements:
+  name:
+  - value:
+      text: Ajedrez Mundo (Foro 81)
+      language: en
+    references:
+    - &id001
+      source: radio-educacion-foro81-ajedrez
+      quote: Ajedrez Mundo, interpreta Mehdi Moshtagh, Manuel Mejía y Casilda Madrazo
+      accessed: '2026-11-21'
+      locator: Published broadcast cue
+  performer:
+  - value: Qqb9bnx
+    references:
+    - *id001
+  - value: Qvvs2a2
+    references:
+    - *id001
+  - value: Q575ba5
+    references:
+    - *id001

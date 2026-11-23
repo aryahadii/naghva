@@ -1,0 +1,32 @@
+id: Qymj8pz
+type: release
+statements:
+  name:
+  - value:
+      text: FANDANGO | Ajedrez Mundo
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-j5mydrlihoc
+      quote: FANDANGO | Ajedrez Mundo
+      accessed: '2026-11-21'
+      locator: Music credited by musician or performance publisher
+  performer:
+  - value: Qqb9bnx
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/J5mYdRliHoc/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-j5mydrlihoc
+      quote: https://i.ytimg.com/vi/J5mYdRliHoc/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video frame
+    qualifiers:
+      credit:
+        text: Mehdi Moshtagh
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=J5mYdRliHoc
+    references:
+    - *id001

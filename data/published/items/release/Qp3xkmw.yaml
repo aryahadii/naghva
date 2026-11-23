@@ -1,0 +1,32 @@
+id: Qp3xkmw
+type: release
+statements:
+  name:
+  - value:
+      text: Solo Setar por Mehdi Moshtagh,تکنوازی سه تار مهدی مشتاق
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-hjhkyi1bzkq
+      quote: Solo Setar por Mehdi Moshtagh,تکنوازی سه تار مهدی مشتاق
+      accessed: '2026-11-21'
+      locator: Music credited by musician or performance publisher
+  performer:
+  - value: Qqb9bnx
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/hjhKyi1BzKQ/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-hjhkyi1bzkq
+      quote: https://i.ytimg.com/vi/hjhKyi1BzKQ/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video frame
+    qualifiers:
+      credit:
+        text: Mona Art
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=hjhKyi1BzKQ
+    references:
+    - *id001

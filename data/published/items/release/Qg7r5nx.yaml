@@ -1,0 +1,32 @@
+id: Qg7r5nx
+type: release
+statements:
+  name:
+  - value:
+      text: Setar, Bayat Esfahan | چهارمضراب بیات اصفهان
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-z_3zzkaxqh4
+      quote: Setar, Bayat Esfahan | چهارمضراب بیات اصفهان
+      accessed: '2026-11-21'
+      locator: Music credited by musician or performance publisher
+  performer:
+  - value: Qqb9bnx
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/z_3zzKaXQH4/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-z_3zzkaxqh4
+      quote: https://i.ytimg.com/vi/z_3zzKaXQH4/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video frame
+    qualifiers:
+      credit:
+        text: Mehdi Moshtagh
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=z_3zzKaXQH4
+    references:
+    - *id001

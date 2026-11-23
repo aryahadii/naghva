@@ -1,0 +1,32 @@
+id: Qy5anxs
+type: release
+statements:
+  name:
+  - value:
+      text: Reng Lezgui, Matn & Hashieh | رنگ لزگی، متن و حاشیه
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-vpgm0ldhut8
+      quote: Reng Lezgui, Matn & Hashieh | رنگ لزگی، متن و حاشیه
+      accessed: '2026-11-21'
+      locator: Music credited by musician or performance publisher
+  performer:
+  - value: Qqb9bnx
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/VpGM0ldHuT8/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-vpgm0ldhut8
+      quote: https://i.ytimg.com/vi/VpGM0ldHuT8/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video frame
+    qualifiers:
+      credit:
+        text: Mehdi Moshtagh
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=VpGM0ldHuT8
+    references:
+    - *id001

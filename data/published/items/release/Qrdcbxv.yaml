@@ -1,0 +1,32 @@
+id: Qrdcbxv
+type: release
+statements:
+  name:
+  - value:
+      text: '"Zedast-e Mahbub" Persian Classical Tasnif (Subtitled) | تصنیف ز دست محبوب (با زیرنویس)'
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-13a4s_oxl2a
+      quote: '"Zedast-e Mahbub" Persian Classical Tasnif (Subtitled) | تصنیف ز دست محبوب (با زیرنویس)'
+      accessed: '2026-11-21'
+      locator: Music credited by musician or performance publisher
+  performer:
+  - value: Qqb9bnx
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/13A4s_OxL2A/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-13a4s_oxl2a
+      quote: https://i.ytimg.com/vi/13A4s_OxL2A/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video frame
+    qualifiers:
+      credit:
+        text: Mehdi Moshtagh
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=13A4s_OxL2A
+    references:
+    - *id001
