@@ -1,0 +1,21 @@
+id: Qneswfb
+type: person
+statements:
+  name:
+  - value:
+      text: Philipp Buck
+      language: en
+    references:
+    - source: sheentrio.bandcamp.com-album-gozar
+      quote: Philipp Buck - Drums
+      locator: Original trio lineup
+      accessed: '2026-11-21'
+  member of:
+  - value: Qy7eg4c
+    references:
+    - source: sheentrio.bandcamp.com-album-gozar
+      quote: Philipp Buck - Drums
+      locator: Original trio lineup
+      accessed: '2026-11-21'
+    qualifiers:
+      role: drums
