@@ -1,0 +1,55 @@
+id: Q3z332c
+type: release
+statements:
+  name:
+  - value:
+      text: Jet
+      language: en
+    references:
+    - source: youtu.be-ftptzqjuxfa
+      quote: Justina - Jet | OFFICIAL TRACK جاستینا - جت
+      accessed: 2026-11-21
+      locator: Artist channel video title
+  - value:
+      text: جت
+      language: fa
+    references:
+    - source: youtu.be-ftptzqjuxfa
+      quote: Justina - Jet | OFFICIAL TRACK جاستینا - جت
+      accessed: 2026-11-21
+      locator: Artist channel video title
+  performer:
+  - value: Q2fdqjp
+    references:
+    - source: youtu.be-ftptzqjuxfa
+      quote: Justina - Jet | OFFICIAL TRACK جاستینا - جت
+      accessed: 2026-11-21
+      locator: Artist channel video title
+  listen link:
+  - value: https://youtu.be/fTptzqjuXfA
+    references:
+    - source: youtu.be-ftptzqjuxfa
+      quote: Justina - Jet | OFFICIAL TRACK جاستینا - جت
+      accessed: 2026-11-21
+      locator: Artist channel video title
+  - value: https://open.spotify.com/track/2sYKFDca565VCHxoCw0nyU
+    references:
+    - source: open.spotify.com-album-45adldf2sawetpchwgoowr
+      quote: Jet
+      accessed: 2026-11-21
+      locator: Native recording title
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d0000b2730d6004728ba40bf8239fff03
+    references:
+    - source: open.spotify.com-album-45adldf2sawetpchwgoowr
+      quote: https://i.scdn.co/image/ab67616d0000b2730d6004728ba40bf8239fff03
+      accessed: 2026-11-21
+      locator: Edition artwork
+  release date:
+  - value:
+      date: '2018-06-24'
+    references:
+    - source: open.spotify.com-album-45adldf2sawetpchwgoowr
+      quote: '2018-06-24'
+      accessed: 2026-11-21
+      locator: Edition date

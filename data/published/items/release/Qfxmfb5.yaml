@@ -1,0 +1,55 @@
+id: Qfxmfb5
+type: release
+statements:
+  name:
+  - value:
+      text: Abi
+      language: en
+    references:
+    - source: youtu.be-_l11cl9beic
+      quote: Justina - Abi | OFFICIAL TRACK جاستینا - آبی
+      accessed: 2026-11-21
+      locator: Artist channel video title
+  - value:
+      text: آبی
+      language: fa
+    references:
+    - source: youtu.be-_l11cl9beic
+      quote: Justina - Abi | OFFICIAL TRACK جاستینا - آبی
+      accessed: 2026-11-21
+      locator: Artist channel video title
+  performer:
+  - value: Q2fdqjp
+    references:
+    - source: youtu.be-_l11cl9beic
+      quote: Justina - Abi | OFFICIAL TRACK جاستینا - آبی
+      accessed: 2026-11-21
+      locator: Artist channel video title
+  listen link:
+  - value: https://youtu.be/_L11cl9BEic
+    references:
+    - source: youtu.be-_l11cl9beic
+      quote: Justina - Abi | OFFICIAL TRACK جاستینا - آبی
+      accessed: 2026-11-21
+      locator: Artist channel video title
+  - value: https://music.apple.com/us/song/abi/1682862271
+    references:
+    - source: music.apple.com-us-album-abi-single-1682862268
+      quote: Abi
+      accessed: 2026-11-21
+      locator: Apple recording name and billing
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ba/3b/67/ba3b670f-27bc-ffa4-286e-817d2b424945/cover.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-abi-single-1682862268
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ba/3b/67/ba3b670f-27bc-ffa4-286e-817d2b424945/cover.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Apple edition artwork
+  release date:
+  - value:
+      date: '2023-04-20'
+    references:
+    - source: music.apple.com-us-album-abi-single-1682862268
+      quote: '2023-04-20'
+      accessed: 2026-11-21
+      locator: Digital edition release date

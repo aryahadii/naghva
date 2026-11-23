@@ -1,0 +1,55 @@
+id: Qxsqvfs
+type: release
+statements:
+  name:
+  - value:
+      text: Babr
+      language: en
+    references:
+    - source: youtu.be-phadkosmywm
+      quote: Justina - Babr | OFFICIAL TRACK جاستینا - ببر
+      accessed: 2026-11-21
+      locator: Artist channel video title
+  - value:
+      text: ببر
+      language: fa
+    references:
+    - source: youtu.be-phadkosmywm
+      quote: Justina - Babr | OFFICIAL TRACK جاستینا - ببر
+      accessed: 2026-11-21
+      locator: Artist channel video title
+  performer:
+  - value: Q2fdqjp
+    references:
+    - source: youtu.be-phadkosmywm
+      quote: Justina - Babr | OFFICIAL TRACK جاستینا - ببر
+      accessed: 2026-11-21
+      locator: Artist channel video title
+  listen link:
+  - value: https://youtu.be/PhADkOsmYwM
+    references:
+    - source: youtu.be-phadkosmywm
+      quote: Justina - Babr | OFFICIAL TRACK جاستینا - ببر
+      accessed: 2026-11-21
+      locator: Artist channel video title
+  - value: https://open.spotify.com/track/0k9ovQ1M3jlzFt7d86na5l
+    references:
+    - source: open.spotify.com-album-0x8fzchylrmq83cn0c7slk
+      quote: Babr
+      accessed: 2026-11-21
+      locator: Native recording title
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d0000b2730aa36e0baa75dfd57f2a7805
+    references:
+    - source: open.spotify.com-album-0x8fzchylrmq83cn0c7slk
+      quote: https://i.scdn.co/image/ab67616d0000b2730aa36e0baa75dfd57f2a7805
+      accessed: 2026-11-21
+      locator: Edition artwork
+  release date:
+  - value:
+      date: '2014-06-22'
+    references:
+    - source: open.spotify.com-album-0x8fzchylrmq83cn0c7slk
+      quote: '2014-06-22'
+      accessed: 2026-11-21
+      locator: Edition date
