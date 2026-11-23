@@ -1,0 +1,53 @@
+id: Qbjg37v
+type: release
+statements:
+  name:
+  - value:
+      text: Don't Let Me Down (feat. Mollie Marriott)
+      language: en
+    references:
+    - source: music.apple.com-us-album-dear-john-collaborations-1822923714
+      quote: Don't Let Me Down (feat. Mollie Marriott)
+      accessed: 2026-11-21
+      locator: Track title
+  performer:
+  - value: Qas33mb
+    references:
+    - source: music.apple.com-us-album-dear-john-collaborations-1822923714
+      quote: Sepp Osley
+      accessed: 2026-11-21
+      locator: Performer
+  - value: Qq5edtb
+    references:
+    - source: open.spotify.com-album-3ej7gesjtlhqhamkdf9hj6
+      quote: Sepp Osley, Mollie Marriott
+      accessed: 2026-11-21
+      locator: Spotify track billing
+  listen link:
+  - value: https://music.apple.com/us/song/dont-let-me-down-feat-mollie-marriott/1822923722
+    references:
+    - source: music.apple.com-us-album-dear-john-collaborations-1822923714
+      quote: Don't Let Me Down (feat. Mollie Marriott)
+      accessed: 2026-11-21
+      locator: Track title
+  - value: https://open.spotify.com/track/4QkW4XrQt0HQdN1KiYRXMf
+    references:
+    - source: open.spotify.com-album-3ej7gesjtlhqhamkdf9hj6
+      quote: Sepp Osley, Mollie Marriott
+      accessed: 2026-11-21
+      locator: Spotify track billing
+  release date:
+  - value:
+      date: '2025-10-03'
+    references:
+    - source: music.apple.com-us-album-dear-john-collaborations-1822923714
+      quote: '2025-10-03'
+      accessed: 2026-11-21
+      locator: Edition date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/88/80/41/888041fd-922a-c81d-e4d4-a15a75481a4e/artwork.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-dear-john-collaborations-1822923714
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/88/80/41/888041fd-922a-c81d-e4d4-a15a75481a4e/artwork.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Edition artwork

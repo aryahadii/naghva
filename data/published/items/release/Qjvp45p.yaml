@@ -1,0 +1,53 @@
+id: Qjvp45p
+type: release
+statements:
+  name:
+  - value:
+      text: Strawberry Fields Forever
+      language: en
+    references:
+    - source: music.apple.com-us-album-dear-john-collaborations-1822923714
+      quote: Strawberry Fields Forever
+      accessed: 2026-11-21
+      locator: Track title
+  performer:
+  - value: Qas33mb
+    references:
+    - source: music.apple.com-us-album-dear-john-collaborations-1822923714
+      quote: Sepp Osley
+      accessed: 2026-11-21
+      locator: Performer
+  listen link:
+  - value: https://music.apple.com/us/song/strawberry-fields-forever/1822923716
+    references:
+    - source: music.apple.com-us-album-dear-john-collaborations-1822923714
+      quote: Strawberry Fields Forever
+      accessed: 2026-11-21
+      locator: Track title
+  - value: https://open.spotify.com/track/0QwAy7pP134SjaXHNG64NA
+    references:
+    - source: open.spotify.com-album-3ej7gesjtlhqhamkdf9hj6
+      quote: Sepp Osley
+      accessed: 2026-11-21
+      locator: Spotify track billing
+  - value: https://youtu.be/WRv52galGT0
+    references:
+    - source: youtu.be-wrv52galgt0
+      quote: Sepp Osley - Strawberry Fields Forever (The Beatles)
+      accessed: 2026-11-21
+      locator: Artist channel, issued film title
+  release date:
+  - value:
+      date: '2025-10-03'
+    references:
+    - source: music.apple.com-us-album-dear-john-collaborations-1822923714
+      quote: '2025-10-03'
+      accessed: 2026-11-21
+      locator: Edition date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/88/80/41/888041fd-922a-c81d-e4d4-a15a75481a4e/artwork.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-dear-john-collaborations-1822923714
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/88/80/41/888041fd-922a-c81d-e4d4-a15a75481a4e/artwork.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Edition artwork
