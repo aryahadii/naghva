@@ -1,0 +1,66 @@
+id: Qdm2q8n
+type: release
+statements:
+  name:
+  - value:
+      text: Pandora
+      language: en
+    references:
+    - source: music.apple.com-us-album-pandora-single-1882608792
+      quote: Pandora
+      accessed: 2026-11-21
+      locator: Track 1
+  performer:
+  - value: Qghhr4e
+    references:
+    - source: open.spotify.com-album-5bhkojs3xqqsvfk4td03sl
+      quote: XYE, ASADI
+      accessed: 2026-11-21
+      locator: Individual track credits
+  listen link:
+  - value: https://music.apple.com/us/song/pandora/1882608793
+    references:
+    - source: music.apple.com-us-album-pandora-single-1882608792
+      quote: Pandora
+      accessed: 2026-11-21
+      locator: Track 1
+  - value: https://open.spotify.com/track/0egMMwY0vpIaz7iB44nbrH
+    references:
+    - source: open.spotify.com-album-5bhkojs3xqqsvfk4td03sl
+      quote: Pandora · XYE
+      accessed: 2026-11-21
+      locator: Native digital record
+  - value: https://music.apple.com/us/album/pandora-single/1882608792
+    references:
+    - source: music.apple.com-us-album-pandora-single-1882608792
+      quote: Pandora - Single · XYE, ASADI · 2026-04-17
+      accessed: 2026-11-21
+      locator: Album artist and issue date
+  - value: https://open.spotify.com/album/5BHkoJS3XqqSVFK4td03sL
+    references:
+    - source: open.spotify.com-album-5bhkojs3xqqsvfk4td03sl
+      quote: Pandora · XYE
+      accessed: 2026-11-21
+      locator: Native digital record
+  release date:
+  - value:
+      date: '2026-04-17'
+    references:
+    - source: music.apple.com-us-album-pandora-single-1882608792
+      quote: Pandora
+      accessed: 2026-11-21
+      locator: Track 1
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-pandora-single-1882608792
+      quote: Pandora
+      accessed: 2026-11-21
+      locator: Track 1
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8f/5c/d7/8f5cd746-0a02-bac1-3dee-43da8c8180f9/223.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-pandora-single-1882608792
+      quote: Pandora
+      accessed: 2026-11-21
+      locator: Track 1

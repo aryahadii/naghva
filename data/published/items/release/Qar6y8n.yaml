@@ -1,0 +1,60 @@
+id: Qar6y8n
+type: release
+statements:
+  name:
+  - value:
+      text: Jahan
+      language: en
+    references:
+    - source: music.apple.com-us-album-jahan-single-1437322015
+      quote: Jahan
+      accessed: 2026-11-21
+      locator: Track 1
+  performer:
+  - value: Qghhr4e
+    references:
+    - source: music.apple.com-us-album-jahan-single-1437322015
+      quote: Jahan - Single · ASADI · 2017-09-29
+      accessed: 2026-11-21
+      locator: Album artist and issue date
+  listen link:
+  - value: https://music.apple.com/us/song/jahan/1437322016
+    references:
+    - source: music.apple.com-us-album-jahan-single-1437322015
+      quote: Jahan
+      accessed: 2026-11-21
+      locator: Track 1
+  - value: https://music.apple.com/us/album/jahan-single/1437322015
+    references:
+    - source: music.apple.com-us-album-jahan-single-1437322015
+      quote: Jahan - Single · ASADI · 2017-09-29
+      accessed: 2026-11-21
+      locator: Album artist and issue date
+  - value: https://soundcloud.com/asadimusic/jahan
+    references:
+    - source: soundcloud.com-asadimusic-jahan
+      quote: Jahan
+      accessed: 2026-11-22
+      locator: Verified artist SoundCloud upload and title
+  release date:
+  - value:
+      date: '2017-09-29'
+    references:
+    - source: music.apple.com-us-album-jahan-single-1437322015
+      quote: Jahan
+      accessed: 2026-11-21
+      locator: Track 1
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-jahan-single-1437322015
+      quote: Jahan
+      accessed: 2026-11-21
+      locator: Track 1
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/46/e5/8e/46e58e85-f2a0-0466-0d45-59343b7d3181/859728803123_cover.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-jahan-single-1437322015
+      quote: Jahan
+      accessed: 2026-11-21
+      locator: Track 1
