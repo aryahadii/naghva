@@ -1,0 +1,35 @@
+id: Qhzmkz4
+type: release
+statements:
+  name:
+  - value:
+      text: Saeid&Naghib Shanbehzadeh in Rudolstadt Festival 2006
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-i4ycwal9ojs
+      quote: Saeid&Naghib Shanbehzadeh in Rudolstadt Festival 2006
+      accessed: '2026-11-21'
+      locator: Artist-published performance film
+  performer:
+  - value: Qvhrrm8
+    references:
+    - *id001
+  - value: Qyd93n9
+    references:
+    - *id001
+  listen link:
+  - value: https://www.youtube.com/watch?v=i4ycWAL9OJs
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/i4ycWAL9OJs/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-i4ycwal9ojs
+      quote: https://i.ytimg.com/vi/i4ycWAL9OJs/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original film frame
+    qualifiers:
+      credit:
+        text: naghib shanbehzadeh
+        language: en

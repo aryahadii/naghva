@@ -1,0 +1,32 @@
+id: Q8n26dt
+type: release
+statements:
+  name:
+  - value:
+      text: Naghib Shanbehzadeh - BIMBOM
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-woisljww4um
+      quote: Naghib Shanbehzadeh - BIMBOM
+      accessed: '2026-11-21'
+      locator: Artist-published performance film
+  performer:
+  - value: Qvhrrm8
+    references:
+    - *id001
+  listen link:
+  - value: https://www.youtube.com/watch?v=WOisljWw4UM
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/WOisljWw4UM/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-woisljww4um
+      quote: https://i.ytimg.com/vi/WOisljWw4UM/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original film frame
+    qualifiers:
+      credit:
+        text: naghib shanbehzadeh
+        language: en

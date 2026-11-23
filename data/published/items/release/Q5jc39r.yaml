@@ -1,0 +1,44 @@
+id: Q5jc39r
+type: release
+statements:
+  name:
+  - value:
+      text: Naghib Shanbehzadeh Feat Dafne Kritharas & Siavash Kamkar - YAR
+      language: en
+    references:
+    - &id001
+      source: soundcloud.com-nag-1-1-naghib-shanbehzadeh-feat-dafne-kritharas-siavash-kamkar-yar
+      quote: Naghib Shanbehzadeh Feat Dafne Kritharas & Siavash Kamkar - YAR
+      accessed: '2026-11-21'
+      locator: Artist’s SoundCloud recording
+  performer:
+  - value: Qvhrrm8
+    references:
+    - *id001
+  - value: Qdw95ng
+    references:
+    - source: soundcloud.com-nag-1-1-naghib-shanbehzadeh-feat-dafne-kritharas-siavash-kamkar-yar
+      quote: Siavash Kamkar
+      accessed: '2026-11-21'
+      locator: Named contributor to track
+  - value: Qaq569x
+    references:
+    - source: soundcloud.com-nag-1-1-naghib-shanbehzadeh-feat-dafne-kritharas-siavash-kamkar-yar
+      quote: Dafne Kritharas
+      accessed: '2026-11-21'
+      locator: Named contributor to track
+  listen link:
+  - value: https://soundcloud.com/nag-1-1/naghib-shanbehzadeh-feat-dafne-kritharas-siavash-kamkar-yar
+    references:
+    - *id001
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-000481446555-ydnm1z-large.jpg
+    references:
+    - source: soundcloud.com-nag-1-1-naghib-shanbehzadeh-feat-dafne-kritharas-siavash-kamkar-yar
+      quote: https://i1.sndcdn.com/artworks-000481446555-ydnm1z-large.jpg
+      accessed: '2026-11-21'
+      locator: Artist file artwork
+    qualifiers:
+      credit:
+        text: Naghib Shanbehzadeh / SoundCloud
+        language: en

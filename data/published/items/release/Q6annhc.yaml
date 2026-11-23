@@ -1,0 +1,39 @@
+id: Q6annhc
+type: release
+statements:
+  name:
+  - value:
+      text: Requiem
+      language: en
+    references:
+    - source: music.apple.com-us-album-loop-tales-1893292615
+      quote: Requiem
+      accessed: 2026-11-21
+      locator: Individual track
+  performer:
+  - value: Qvhrrm8
+    references:
+    - source: open.spotify.com-album-726hodlnslfrpjqhbwcgbd
+      quote: Requiem · Camille El Bacha, Naghib Shanbehzadeh
+      accessed: 2026-11-21
+      locator: Track 10
+  listen link:
+  - value: https://music.apple.com/us/song/requiem/1893292929
+    references:
+    - source: music.apple.com-us-album-loop-tales-1893292615
+      quote: Requiem
+      accessed: 2026-11-21
+      locator: Individual track
+  - value: https://open.spotify.com/track/2mwOHrRr7R3rhyk5bKvCy5
+    references:
+    - source: open.spotify.com-album-726hodlnslfrpjqhbwcgbd
+      quote: Loop Tales · Camille El Bacha
+      accessed: 2026-11-21
+      locator: Spotify record
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/20/5c/7a/205c7a86-4780-0405-4f20-ef9357b9cc8a/5400439008618.png/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-loop-tales-1893292615
+      quote: Requiem
+      accessed: 2026-11-21
+      locator: Individual track

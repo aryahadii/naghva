@@ -1,0 +1,32 @@
+id: Q82xn4p
+type: release
+statements:
+  name:
+  - value:
+      text: Naghib Shanbehzadeh  - Tombak Darbuka Rats
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-mmyryybew-8
+      quote: Naghib Shanbehzadeh  - Tombak Darbuka Rats
+      accessed: '2026-11-21'
+      locator: Artist-published performance film
+  performer:
+  - value: Qvhrrm8
+    references:
+    - *id001
+  listen link:
+  - value: https://www.youtube.com/watch?v=mMYRyyBew-8
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/mMYRyyBew-8/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-mmyryybew-8
+      quote: https://i.ytimg.com/vi/mMYRyyBew-8/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original film frame
+    qualifiers:
+      credit:
+        text: naghib shanbehzadeh
+        language: en

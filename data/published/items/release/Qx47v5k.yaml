@@ -1,0 +1,32 @@
+id: Qx47v5k
+type: release
+statements:
+  name:
+  - value:
+      text: Naghib Shanbehzadeh - Le Pont
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-0uypkzcujmg
+      quote: Naghib Shanbehzadeh - Le Pont
+      accessed: '2026-11-21'
+      locator: Artist-published performance film
+  performer:
+  - value: Qvhrrm8
+    references:
+    - *id001
+  listen link:
+  - value: https://www.youtube.com/watch?v=0uYpkZCUJMg
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/0uYpkZCUJMg/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-0uypkzcujmg
+      quote: https://i.ytimg.com/vi/0uYpkZCUJMg/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original film frame
+    qualifiers:
+      credit:
+        text: naghib shanbehzadeh
+        language: en

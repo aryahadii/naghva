@@ -1,0 +1,32 @@
+id: Qw7tb8f
+type: release
+statements:
+  name:
+  - value:
+      text: Naghib shanbehzadeh solo drum - From Sao paulo to Bushehr
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-33vfdfepnci
+      quote: Naghib shanbehzadeh solo drum - From Sao paulo to Bushehr
+      accessed: '2026-11-21'
+      locator: Artist-published performance film
+  performer:
+  - value: Qvhrrm8
+    references:
+    - *id001
+  listen link:
+  - value: https://www.youtube.com/watch?v=33vFdFepNCI
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/33vFdFepNCI/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-33vfdfepnci
+      quote: https://i.ytimg.com/vi/33vFdFepNCI/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original film frame
+    qualifiers:
+      credit:
+        text: naghib shanbehzadeh
+        language: en

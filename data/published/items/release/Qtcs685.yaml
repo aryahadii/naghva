@@ -1,0 +1,32 @@
+id: Qtcs685
+type: release
+statements:
+  name:
+  - value:
+      text: Naghib Shanbehzadeh - Darbuka Solo
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-w-4nukpoj48
+      quote: Naghib Shanbehzadeh - Darbuka Solo
+      accessed: '2026-11-21'
+      locator: Artist-published performance film
+  performer:
+  - value: Qvhrrm8
+    references:
+    - *id001
+  listen link:
+  - value: https://www.youtube.com/watch?v=W-4NuKpoj48
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/W-4NuKpoj48/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-w-4nukpoj48
+      quote: https://i.ytimg.com/vi/W-4NuKpoj48/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original film frame
+    qualifiers:
+      credit:
+        text: naghib shanbehzadeh
+        language: en

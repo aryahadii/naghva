@@ -1,0 +1,60 @@
+id: Qa4gtmc
+type: release
+statements:
+  name:
+  - value:
+      text: Blue
+      language: en
+    references:
+    - source: music.apple.com-us-album-blue-single-1530917607
+      quote: Blue
+      accessed: 2026-11-21
+      locator: Individual track
+  performer:
+  - value: Qvhrrm8
+    references:
+    - source: music.apple.com-us-album-blue-single-1530917607
+      quote: Blue - Single · Naghib Shanbehzadeh · 2020-09-11
+      accessed: 2026-11-21
+      locator: Album billing and date
+  listen link:
+  - value: https://music.apple.com/us/song/blue/1530917611
+    references:
+    - source: music.apple.com-us-album-blue-single-1530917607
+      quote: Blue
+      accessed: 2026-11-21
+      locator: Individual track
+  - value: https://music.apple.com/us/album/blue-single/1530917607
+    references:
+    - source: music.apple.com-us-album-blue-single-1530917607
+      quote: Blue - Single · Naghib Shanbehzadeh · 2020-09-11
+      accessed: 2026-11-21
+      locator: Album billing and date
+  - value: https://soundcloud.com/nag-1-1/blue
+    references:
+    - source: soundcloud.com-nag-1-1-blue
+      quote: BLUE
+      accessed: '2026-11-21'
+      locator: Artist’s SoundCloud recording
+  release date:
+  - value:
+      date: '2020-09-11'
+    references:
+    - source: music.apple.com-us-album-blue-single-1530917607
+      quote: Blue
+      accessed: 2026-11-21
+      locator: Individual track
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-blue-single-1530917607
+      quote: Blue
+      accessed: 2026-11-21
+      locator: Individual track
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/bf/c7/8f/bfc78f02-9438-ba28-babe-80031c9574d8/859741920913_cover.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-blue-single-1530917607
+      quote: Blue
+      accessed: 2026-11-21
+      locator: Individual track
