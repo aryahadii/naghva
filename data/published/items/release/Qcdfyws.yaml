@@ -1,0 +1,86 @@
+id: Qcdfyws
+type: release
+statements:
+  name:
+  - value:
+      text: Code
+      language: en
+    references:
+    - source: stereotypeduo.bandcamp.com-track-code
+      quote: Code | Stereotype
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Q6g9xwf
+    references:
+    - source: stereotypeduo.bandcamp.com-track-code
+      quote: Code | Stereotype
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qb5hnjh
+    references:
+    - source: 30m-records.com-stereotype
+      quote: Xeen, producing and playing the electronics
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: electronics
+  - value: Qh6s4f5
+    references:
+    - source: 30m-records.com-stereotype
+      quote: Meshcut, vocalist and synthesizer player
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  contributor:
+  - value: Qb5hnjh
+    references:
+    - source: stereotypeduo.bandcamp.com-album-code
+      quote: Produced by XEEN
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: producer
+  listen link:
+  - value: https://stereotypeduo.bandcamp.com/track/code
+    references:
+    - source: stereotypeduo.bandcamp.com-track-code
+      quote: Code | Stereotype
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/4qSYAzw7FhMaJyIgOjSMaV
+    references:
+    - source: open.spotify.com-track-4qsyazw7fhmajyigojsmav
+      quote: Code - song and lyrics by Stereotype | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1742223990
+    references:
+    - source: music.apple.com-us-song-1742223990
+      quote: ‎Code - Song with Lyrics by Stereotype - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1739051660
+    references:
+    - source: music.apple.com-us-song-1739051660
+      quote: ‎Code - Song with Lyrics by Stereotype - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a2957973526_10.jpg
+    references:
+    - source: stereotypeduo.bandcamp.com-track-code
+      quote: https://f4.bcbits.com/img/a2957973526_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Publisher artwork
+        language: en
+  release date:
+  - value:
+      date: '2024-05-03'
+    references:
+    - source: stereotypeduo.bandcamp.com-album-code
+      quote: released May 3, 2024
+      accessed: '2026-11-21'
+      locator: Published date

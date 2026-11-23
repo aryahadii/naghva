@@ -3140,6 +3140,18 @@
       720
     ]
   },
+  "https://f4.bcbits.com/img/a1378237384_10.jpg": {
+    "sha256": "b5dffc0ea27d985167eff5c14f56f722cc9890e20e88eb995c5776e8dbb4fba2",
+    "ext": "jpg",
+    "bytes": 251937,
+    "width": 1200,
+    "height": 1200,
+    "widths": [
+      180,
+      360,
+      720
+    ]
+  },
   "https://f4.bcbits.com/img/a1385284129_10.jpg": {
     "sha256": "a1055753008251f8a1241d16efe64978af9d6ae2887a95b700cc5ef1468ca9a5",
     "ext": "jpg",
@@ -5213,6 +5225,18 @@
       720
     ]
   },
+  "https://f4.bcbits.com/img/a2957973526_10.jpg": {
+    "sha256": "b699ea803134d6817ea2b43b0d2377aa5e57b0d66ed8a2501d6f9f02ef4a568b",
+    "ext": "jpg",
+    "bytes": 188497,
+    "width": 1200,
+    "height": 1200,
+    "widths": [
+      180,
+      360,
+      720
+    ]
+  },
   "https://f4.bcbits.com/img/a2963527703_5.jpg": {
     "bytes": 325087,
     "ext": "jpg",
@@ -5572,6 +5596,18 @@
     "sha256": "42c593d32508a7a910c7d9999bb91dcc18f5fe8f9d3b12e242a10fabc3627882",
     "ext": "jpg",
     "bytes": 136405,
+    "width": 1200,
+    "height": 1200,
+    "widths": [
+      180,
+      360,
+      720
+    ]
+  },
+  "https://f4.bcbits.com/img/a3250344963_10.jpg": {
+    "sha256": "dee38851917c9e7fc0f0647af93376320b8d86abeca8cb1570115325889cb92f",
+    "ext": "jpg",
+    "bytes": 173442,
     "width": 1200,
     "height": 1200,
     "widths": [
@@ -8912,6 +8948,18 @@
     "sha256": "b734ea01640e7ec843ea2d8436753560ec1d9aecc74f15230ecd443edb8957a4",
     "ext": "jpg",
     "bytes": 179854,
+    "width": 640,
+    "height": 640,
+    "widths": [
+      180,
+      360,
+      720
+    ]
+  },
+  "https://i.scdn.co/image/ab67616d0000b2739ccbfa882e5aacd59c4bdf9e": {
+    "sha256": "614f0a2d00c59676414eb4d5a2a74615a88df50da62c28cddea80deefccb09a4",
+    "ext": "jpg",
+    "bytes": 111562,
     "width": 640,
     "height": 640,
     "widths": [
@@ -28799,6 +28847,19 @@
     "width": 1280,
     "height": 720,
     "from": "https://i.ytimg.com/vi/qbLQNd8JZJY/maxresdefault.jpg",
+    "widths": [
+      180,
+      360,
+      720
+    ]
+  },
+  "https://i.ytimg.com/vi/QbSv3QMM4Dk/hqdefault.jpg": {
+    "sha256": "7efec0de9e872e85c048805e5f811bdeb151123605b897e5b65a5b4ab458133f",
+    "ext": "jpg",
+    "bytes": 188628,
+    "width": 1280,
+    "height": 720,
+    "from": "https://i.ytimg.com/vi/QbSv3QMM4Dk/maxresdefault.jpg",
     "widths": [
       180,
       360,
