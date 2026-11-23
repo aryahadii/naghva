@@ -1,0 +1,23 @@
+id: Qdxbpzd
+type: place
+statements:
+  name:
+  - value:
+      text: Calgary
+      language: en
+    references:
+    - &id001
+      source: www.numduo.com-about
+      quote: Maryam Sirvan, born in 1986, is an Iranian sound artist, vocalist, and composer based in Calgary, Canada.
+      accessed: '2026-11-21'
+      locator: Maryam Sirvan biography
+  - value:
+      text: کلگری
+      language: fa
+    references:
+    - *id001
+    editorial: true
+  country:
+  - value: Qk2cjxr
+    references:
+    - *id001

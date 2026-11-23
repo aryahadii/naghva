@@ -1,0 +1,87 @@
+id: Qa54gn4
+type: release
+statements:
+  name:
+  - value:
+      text: Bliss
+      language: en
+    references:
+    - source: davidhush.bandcamp.com-track-bliss-2
+      quote: Bliss | David Hush & Hamed Sadeghi | David Hush
+      accessed: '2026-11-21'
+      locator: Bandcamp song heading
+  performer:
+  - value: Qmgbz4h
+    qualifiers:
+      role: tar
+    references:
+    - source: davidhush.bandcamp.com-album-meditation-on-wind-2
+      quote: Hamed Sadeghi - tar
+      accessed: '2026-11-21'
+      locator: Album personnel
+  - value: Qyck96r
+    qualifiers:
+      role: piano
+    references:
+    - source: davidhush.bandcamp.com-album-meditation-on-wind-2
+      quote: David Hush - piano
+      accessed: '2026-11-21'
+      locator: Album personnel
+  listen link:
+  - value: https://davidhush.bandcamp.com/track/bliss-2
+    references:
+    - source: davidhush.bandcamp.com-track-bliss-2
+      quote: Bliss | David Hush & Hamed Sadeghi | David Hush
+      accessed: '2026-11-21'
+      locator: Bandcamp song heading
+  - value: https://open.spotify.com/track/20ck8EoQrZgEibuY7TJrv7
+    references:
+    - source: open.spotify.com-album-3bgeyvgg5fb1alutho0orm
+      quote: Bliss
+      accessed: '2026-11-21'
+      locator: Spotify track 6
+  - value: https://music.apple.com/us/song/bliss/1569382180
+    references:
+    - source: music.apple.com-us-album-meditation-on-wind-1569382054
+      quote: Bliss
+      accessed: '2026-11-21'
+      locator: Apple Music track 6
+  - value: https://www.youtube.com/watch?v=tRNu-BwXJpI
+    references:
+    - source: www.youtube.com-watch-v-trnu-bwxjpi
+      quote: David Hush & Hamed Sadeghi - Bliss (Official Video)
+      accessed: '2026-11-21'
+      locator: YouTube oEmbed title
+    - source: www.youtube.com-watch-v-trnu-bwxjpi
+      quote: Worlds Within Worlds
+      accessed: '2026-11-21'
+      locator: Publishing channel
+  - value: https://worldswithinworlds.bandcamp.com/track/bliss
+    references:
+    - source: worldswithinworlds.bandcamp.com-track-bliss
+      quote: Bliss | David Hush & Hamed Sadeghi | Worlds Within Worlds
+      accessed: '2026-11-21'
+      locator: Sampler track heading
+  release date:
+  - value:
+      date: '2021-07-30'
+    references:
+    - source: davidhush.bandcamp.com-album-meditation-on-wind-2
+      quote: released July 30, 2021
+      accessed: '2026-11-21'
+      locator: Release credits
+  cover art:
+  - value: https://f4.bcbits.com/img/a4194787983_10.jpg
+    qualifiers:
+      credit:
+        text: Hugh Todd, artwork
+        language: en
+    references:
+    - source: davidhush.bandcamp.com-album-meditation-on-wind-2
+      quote: https://f4.bcbits.com/img/a4194787983_10.jpg
+      accessed: '2026-11-21'
+      locator: Bandcamp original album image
+    - source: davidhush.bandcamp.com-album-meditation-on-wind-2
+      quote: Artwork is courtesy of Hugh Todd.
+      accessed: '2026-11-21'
+      locator: Cover credit

@@ -1,0 +1,65 @@
+id: Qrpetft
+type: release
+statements:
+  name:
+  - value:
+      text: Ta Key
+      language: en
+    references:
+    - source: music.apple.com-us-album-ta-key-single-1805235669
+      quote: Ta Key
+      accessed: 2026-11-21
+      locator: Edition or recording title
+    - source: play.radiojavan.com-song-shervin-hajipour-ta-key
+      quote: Ta Key
+      accessed: 2026-11-21
+      locator: Native Radio Javan edition
+  - value:
+      text: تا کی
+      language: fa
+    references:
+    - source: youtu.be-gqh9wtao67a
+      quote: Shervin - Ta Key | شروین - تا کی
+      accessed: 2026-11-21
+      locator: Official channel, recording title
+  performer:
+  - value: Qjeb9e9
+    references:
+    - source: music.apple.com-us-album-ta-key-single-1805235669
+      quote: Shervin Hajipour
+      accessed: 2026-11-21
+      locator: Digital credits
+  listen link:
+  - value: https://music.apple.com/us/song/ta-key/1805235671
+    references:
+    - source: music.apple.com-us-album-ta-key-single-1805235669
+      quote: Ta Key
+      accessed: 2026-11-21
+      locator: Edition or recording title
+  - value: https://open.spotify.com/track/7LiHFIAowLmrjeYBuB1SXR
+    references:
+    - source: open.spotify.com-album-4s07gluzmreqwv2bvjegys
+      quote: Ta Key
+      accessed: 2026-11-21
+      locator: Published recording
+  - value: https://youtu.be/GQH9Wtao67A
+    references:
+    - source: youtu.be-gqh9wtao67a
+      quote: Shervin - Ta Key | شروین - تا کی
+      accessed: 2026-11-21
+      locator: Official channel, recording title
+  release date:
+  - value:
+      date: '2025-02-21'
+    references:
+    - source: music.apple.com-us-album-ta-key-single-1805235669
+      quote: '2025-02-21'
+      accessed: 2026-11-21
+      locator: Digital edition date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c1/47/27/c14727a4-848e-1e79-a928-01b8f8f06ded/4069977011798.png/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-ta-key-single-1805235669
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c1/47/27/c14727a4-848e-1e79-a928-01b8f8f06ded/4069977011798.png/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Digital edition artwork

@@ -1,0 +1,63 @@
+id: Qqxd2z4
+type: release
+statements:
+  name:
+  - value:
+      text: Tamer Of The Horses
+      language: en
+    references:
+    - source: kopirecs.bandcamp.com-track-tamer-of-the-horses
+      quote: Tamer Of The Horses | ArtSaves | Kopi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qw9zs9g
+    references:
+    - source: kopirecs.bandcamp.com-album-seuil
+      quote: ArtSaves
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://kopirecs.bandcamp.com/track/tamer-of-the-horses
+    references:
+    - source: kopirecs.bandcamp.com-track-tamer-of-the-horses
+      quote: Tamer Of The Horses | ArtSaves | Kopi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1203765127
+    references:
+    - source: music.apple.com-us-song-1203765127
+      quote: ‎Tamer of the Horses - Song with Lyrics by ArtSaves - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/7p62KodqWecgmP0gdAYwVF
+    references:
+    - source: open.spotify.com-track-7p62kodqwecgmp0gdaywvf
+      quote: Tamer of the Horses - song and lyrics by ArtSaves | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/artsvs/tamer-of-the-horses
+    references:
+    - source: soundcloud.com-artsvs-tamer-of-the-horses
+      quote: Stream Tamer Of The Horses by ArtSaves | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a0203714075_10.jpg
+    references:
+    - source: kopirecs.bandcamp.com-track-tamer-of-the-horses
+      quote: https://f4.bcbits.com/img/a0203714075_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Saina Heshmati and Arash Mollakarimi
+        language: en
+  release date:
+  - value:
+      date: '2016-03-22'
+    references:
+    - source: kopirecs.bandcamp.com-track-tamer-of-the-horses
+      quote: released March 22, 2016
+      accessed: '2026-11-21'
+      locator: Published date

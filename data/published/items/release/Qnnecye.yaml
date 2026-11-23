@@ -1,0 +1,54 @@
+id: Qnnecye
+type: release
+statements:
+  name:
+  - value:
+      text: Hack-Man
+      language: en
+    references:
+    - source: soundcloud.com-kass-bass-hack-man
+      quote: Stream Hack-Man by Kasra Saboktakin | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Bassist’s original SoundCloud upload
+  release date:
+  - value:
+      date: '2012-01-08'
+    references:
+    - source: soundcloud.com-kass-bass-hack-man
+      quote: '2012-01-08'
+      accessed: '2026-11-21'
+      locator: Digital issue date
+  performer:
+  - value: Qa6r74t
+    qualifiers:
+      role:
+      - bass
+    references:
+    - source: soundcloud.com-kass-bass-hack-man
+      quote: Stream Hack-Man by Kasra Saboktakin | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Bassist’s original SoundCloud upload
+  - value: Q54j5f3
+    references:
+    - source: soundcloud.com-kass-bass-hack-man
+      quote: Stream Hack-Man by Kasra Saboktakin | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Bassist’s original SoundCloud upload
+  listen link:
+  - value: https://soundcloud.com/kass-bass/hack-man
+    references:
+    - source: soundcloud.com-kass-bass-hack-man
+      quote: Stream Hack-Man by Kasra Saboktakin | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Bassist’s original SoundCloud upload
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-000016448168-41udkp-large.jpg
+    qualifiers:
+      credit:
+        text: Kasra Saboktakin on SoundCloud
+        language: en
+    references:
+    - source: soundcloud.com-kass-bass-hack-man
+      quote: https://i1.sndcdn.com/artworks-000016448168-41udkp-large.jpg
+      accessed: '2026-11-21'
+      locator: Original upload image

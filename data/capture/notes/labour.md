@@ -1,0 +1,112 @@
+# LABOUR
+
+The Berlin-based duo was founded in 2018. The studio is their own imprint. The two sides and album of nine-sum sorcery reuse the existing Hani Mojtahedy addresses. Fashion anthology impressions, label Bandcamp issues, seven Apple releases and eleven separate Spotify editions yielded title-level matches. Original master and remix are credited separately. The team’s archive was checked across 39 work pages. Ten Vimeo-only films are identified by their own studio work pages and original film upload metadata. The presenters’ films are available through those references. The Lateral Addition recording is also available directly on the original publication. The 76 monthly broadcasts were enumerated from the NTS show archive. Its audio records identify 65 corresponding SoundCloud uploads. These programmes are documented as hosted broadcasts, including guest selections. Most of the tracks spun on them are other artists’ work. Original festival videos and soundtracks were checked on YouTube. No attributed Telegram release was confirmed. The pre-LABOUR website links seven SoundCloud IDs which its player no longer resolves to attributed, titled recordings.
+
+## Recording inventory
+
+- nine-sum sorcery feat. Hani Mojtahedy · Qb6t3d7 · https://music.apple.com/us/album/nine-sum-sorcery-feat-hani-mojtahedy/1738234571 · https://studio-labour.bandcamp.com/album/nine-sum-sorcery · https://open.spotify.com/album/3PqEOZ2KcZb8DK7Lu0zPuu
+- nine-sum sorcery a (feat. Hani Mojtahedy) · Qmez7nw · https://music.apple.com/us/song/nine-sum-sorcery-a-feat-hani-mojtahedy/1738234744 · https://studio-labour.bandcamp.com/track/nine-sum-sorcery-side-a · https://open.spotify.com/track/35a9WPlH5wgrwN9Y89WgdO · https://open.spotify.com/track/6yn5KVRcL1miUzXnysQJc2
+- nine-sum sorcery B (feat. Hani Mojtahedy) · Qn3j2n4 · https://music.apple.com/us/song/nine-sum-sorcery-b-feat-hani-mojtahedy/1738234879 · https://studio-labour.bandcamp.com/track/nine-sum-sorcery-side-b · https://open.spotify.com/track/2nRFCgUOpYOi5IyDSCtwuQ · https://open.spotify.com/track/626uKe0v4RLa2urV6Zz34J
+- GmbH: An Anthology of Music for Fashion Shows 2016-2023 Vol. 1 · Qb75b6q · https://studio-labour.bandcamp.com/album/gmbh-an-anthology-of-music-for-fashion-shows-2016-2023-vol-1-2 · https://open.spotify.com/album/37Z8yuN4CDlFMpfAqUAxj3 · https://music.apple.com/us/album/gmbh-an-anthology-of-music-for-fashion-shows-2016-2023-vol-1/1735370919
+- Welt am Draht · Qw5yrb3 · https://studio-labour.bandcamp.com/track/welt-am-draht · https://music.apple.com/us/song/welt-am-draht-feat-khyam-allami/1735370925 · https://open.spotify.com/track/43PTYNlBb8UVPj1872UBAp · https://open.spotify.com/track/3NxwjIfVZK3VCA86n4cyLx · https://www.youtube.com/watch?v=iAJi-h-0_gE
+- White Noise · Qx9gz9n · https://studio-labour.bandcamp.com/track/white-noise · https://music.apple.com/us/song/white-noise/1735371070 · https://open.spotify.com/track/2lK3dNe7IylA2auEVzao4V · https://www.youtube.com/watch?v=5NLMPddg5hU
+- Talisman · Qp7xsgg · https://studio-labour.bandcamp.com/track/talisman · https://music.apple.com/us/song/talisman/1735371197 · https://www.youtube.com/watch?v=X5TwrqluY8g · https://open.spotify.com/track/2zSLg07b3cvYQ0ca4BhV2q · https://open.spotify.com/track/2oem7TzsFNA6yOnMZNo9fu
+- Talisman (CEM Egg of The King remix) · Qrrth6c · https://studio-labour.bandcamp.com/track/talisman-cem-egg-of-the-king-remix · https://music.apple.com/us/song/talisman-cem-egg-of-the-king-remix/1735371203 · https://open.spotify.com/track/71Xi5mlOh1TLSp5XJNLBXk
+- ablution · Qmy4p84 · https://studio-labour.bandcamp.com/track/ablution · https://music.apple.com/us/song/ablution/1735371205 · https://open.spotify.com/track/2LVEKk2mx6K3pY7ABvkTZZ · https://open.spotify.com/track/6XbrysBQ1TE5pKUh9Nf4s5
+- The Hit Of Enlightenment · Q2hb7rb · https://berlinatonal.bandcamp.com/track/the-hit-of-enlightenment · https://music.apple.com/us/song/the-hit-of-enlightenment/1536801352 · https://open.spotify.com/track/5y7ntcj3MRIWwKPGeQFIdc
+- Kewin's Dance (4_4 remix) · Q23mshf · https://reif.bandcamp.com/track/kewins-dance-4-4-remix · https://music.apple.com/us/song/kewins-dance-4-4-remix/1620165715 · https://open.spotify.com/track/2fr86bvBv7FCyu1z6kW0lL
+- Etu Keur Gui Part 1 · Qffhj55 · https://music.apple.com/us/song/etu-keur-gui-part-1/1710397254 · https://open.spotify.com/track/18w2UMtlMEF3LjpnYWJ3iy
+- Etu Keur Gui Part 2 · Qgwrrw6 · https://music.apple.com/us/song/etu-keur-gui-part-2/1710397265 · https://open.spotify.com/track/3Pi8uy4KGh5ieQezGD7QNi
+- Mass and Mess, Dispersion of Subjectivity · Qadxtss · https://music.apple.com/us/song/mass-and-mess-dispersion-of-subjectivity/1732108791 · https://music.apple.com/us/song/mass-and-mess-dispersion-of-subjectivity/1731818284 · https://open.spotify.com/track/1EIOwciYKzkwZ1Jw5JTKFa · https://open.spotify.com/track/5hqJnb8GFqUFfrDdKbfiuK
+- LABOUR Presents: next time, die consciously (بیگانگی) - Part One · Qfkyqv7 · https://www.youtube.com/watch?v=wUZq03N4T0M
+- LABOUR live at Metabolic Rift · Qg52zcz · https://www.youtube.com/watch?v=-TzPe1DZdMQ
+- LABOUR feat. Hani Mojtahedy Presents: nine-sum sorcery - Part One · Qkbkemm · https://www.youtube.com/watch?v=wvoK172QBtI
+- GmbH SPRING 2025 'RESISTANCE THROUGH RITUALS' · Qf8n9g6 · https://www.youtube.com/watch?v=S0NeU8Y-28M
+- ORMSIDE presents: LABOUR residency 07/24 · Qq5pvp9 · https://www.youtube.com/watch?v=l31s4mBU5l4
+- LABOUR w/ Salam Diallo II · 2026-10-24 · Qwgydzk · https://soundcloud.com/user-202286394-991268468/labour-w-salam-diallo-ii
+- LABOUR w/ Baaba Maal · 2026-09-26 · Qfhry7j · https://soundcloud.com/user-202286394-991268468/labour-w-baaba-maal-260926
+- Labour w/ Coumba Gawlo II · 2026-08-29 · Qs47z96 · https://soundcloud.com/user-202286394-991268468/labour-w-coumba-gawlo-ii
+- Labour - mbalax mix · 2026-08-01 · Qgyy35z · https://soundcloud.com/user-202286394-991268468/labour-mbalax-mix-010826
+- LABOUR w/ Babacar Seck · 2026-07-04 · Q85ps8a · https://soundcloud.com/user-202286394-991268468/labour-w-babacar-seck-040726
+- Labour w/ Omar Ndiaye · 2026-06-06 · Qfjtz9r · https://soundcloud.com/user-202286394-991268468/labour-w-omar-ndiaye-060626
+- LABOUR w/ Alioune Kassé · 2026-05-09 · Q3fbbv2 · https://soundcloud.com/user-202286394-991268468/labour-w-alioune-kasse-090526
+- Labour w/ Pape Thiopet · 2026-04-11 · Qx733d2 · https://soundcloud.com/user-202286394-991268468/labour-w-pape-thiopet-110426
+- LABOUR w/ Momo Dieng · 2026-03-14 · Qbj37bf · https://soundcloud.com/user-202286394-991268468/labour-w-momo-dieng-140326
+- Labour w/ Mame Goor · 2026-02-14 · Qsq75hs · https://soundcloud.com/user-202286394-991268468/labour-w-mame-goor-140226
+- LABOUR w/ Jimi Mbaye · 2026-01-17 · Qzzbvxk · https://soundcloud.com/user-202286394-991268468/labour-w-jimi-mbaye-170126
+- Labour w/ Ouzin Ndiaye · 2025-12-20 · Qwftwfn · https://soundcloud.com/user-202286394-991268468/labour-w-ouzin-ndiaye-201225
+- Labour w/ Youssou Ndour · 2025-10-25 · Q7cxzyr · https://soundcloud.com/user-202286394-991268468/labour-w-youssou-ndour-251025
+- Labour w/ Wally Seck · 2025-09-27 · Qxyhmbr · https://soundcloud.com/user-643553014/labour-w-wally-seck-270925
+- LABOUR w/ Pape Diouf · 2025-08-30 · Q6kk6kv · https://soundcloud.com/user-643553014/labour-w-pape-diouf-300825
+- Labour w/ Waflash II · 2025-08-02 · Qdqpqbk · https://soundcloud.com/user-643553014/labour-w-waflash-ii-020825
+- Labour w/ Waflash · 2025-07-05 · Q2m8pbj · https://soundcloud.com/user-643553014/labour-w-waflash-050725
+- Labour w/ Lemzo Diamono · 2025-06-07 · Q7p4w4d · https://soundcloud.com/user-643553014/labour-w-lemzo-diamono-070625
+- Labour · 2025-05-10 · Q6zffae · https://soundcloud.com/user-643553014/labour-100525
+- Labour w/ Lat Mbaye · 2025-04-12 · Q8vfek7 · https://soundcloud.com/user-643553014/labour-w-lat-mbaye-120425
+- Labour w/ Maxou · 2025-03-15 · Qx74kyr · https://soundcloud.com/user-643553014/labour-w-maxou-150325
+- Labour w/ Ablaye Mbaye · 2025-02-15 · Q4s2cxj · https://soundcloud.com/user-643553014/labour-w-ablaye-mbaye-150225
+- Labour w/ Abdou Guité Seck · 2025-01-18 · Qrwzztg · https://soundcloud.com/user-643553014/labour-w-abdou-guite-seck
+- Labour - Madiodio Nging · 2024-12-21 · Qp96v8e · https://soundcloud.com/user-643553014/labour-211224
+- LABOUR w/ Soda Mama Fall · 2024-11-23 · Q87nasj · https://soundcloud.com/user-643553014/labour-w-soda-mama-fall-231124
+- LABOUR w/ Touty Mbaye & Absa Samb · 2024-10-26 · Q58mxs5 · https://soundcloud.com/user-643553014/labour-w-touty-mbaye-absa-samb
+- LABOUR w/ Mbaye Ndiaye · 2024-09-28 · Qfwnjzb · https://soundcloud.com/user-643553014/labour-w-mbaye-ndiaye-280924
+- Labour w/ Khar Mbaye Madiaga · 2024-08-31 · Qejgb38 · https://soundcloud.com/user-643553014/labour-w-khar-mbaye-madiaga
+- LABOUR - Transcriptions · 2024-08-03 · Qgnsssh · https://soundcloud.com/user-643553014/labour-transcriptions-030824
+- LABOUR w/ Maty Thiam Dogo · 2024-07-06 · Qh6mb2n · https://soundcloud.com/user-643553014/labour-w-maty-thiam-dogo
+- LABOUR w/ Assane Ndiaye · 2024-06-08 · Q7r9ws4 · https://soundcloud.com/user-643553014/labour-w-assane-ndiaye-080624
+- LABOUR w/ Abdou Ndiaye · 2024-05-11 · Q6mdrzn · https://soundcloud.com/user-643553014/labour-w-abdou-ndiaye-110524
+- LABOUR w/ Assane Thiam · 2024-04-13 · Qhw4ap7 · https://soundcloud.com/user-643553014/labour-w-assane-thiam-130424
+- LABOUR w/ Amy Colle Dieng · 2024-03-23 · Qqvawse · https://soundcloud.com/user-643553014/labour-w-amy-colle-dieng
+- LABOUR w/ Manel Diop · 2024-02-24 · Qgzfcxq · https://soundcloud.com/user-643553014/labour-w-manel-diop-240224
+- Labour w/ Alioune Mbaye Nder · 2024-01-27 · Q4xc6nm · https://soundcloud.com/user-643553014/labour-w-alioune-mbaye-nder
+- Labour w/ Secka · 2023-12-02 · Qr445k9 · https://soundcloud.com/user-612196404/labour-w-secka-021223
+- LABOUR w/ Ndeye Mbaye Djinma · 2023-11-04 · Qqvpdkx · https://soundcloud.com/user-612196404/labour-w-ndeye-mbaye-djinma
+- LABOUR w/ Fatou Kine Mbaye · 2023-10-07 · Qw6hym8 · https://soundcloud.com/user-612196404/labour-w-fatou-kine-mbaye
+- Labour w/ Doudou Ndiaye Mbengue · 2023-09-09 · Qqpjpzr · https://soundcloud.com/user-612196404/labour-w-doudou-ndiaye-mbengue
+- LABOUR w/ Mapenda Seck · 2023-08-12 · Qjw7wzk · https://soundcloud.com/user-612196404/labour-w-mapenda-seck-120823
+- LABOUR w/ Aby Ndour · 2023-07-15 · Qetxywz · https://soundcloud.com/user-643553014/labour-w-aby-ndour-150723
+- Labour · 2023-06-17 · Qbvffyk · https://soundcloud.com/user-643553014/labour-170623
+- Labour w/ Thio Mbaye · 2023-05-20 · Qhkghde · https://soundcloud.com/user-643553014/labour-w-thio-mbaye-200523
+- Labour w/ Salam Diallo · 2023-04-22 · Q9shsp7 · https://soundcloud.com/user-643553014/labour-w-salam-diallo-220423
+- Labour w/ Daro Mbaye · 2023-03-25 · Qhhf8pf · https://soundcloud.com/user-643553014/labour-250323
+- LABOUR w/ Ya Cheikh · 2023-02-25 · Qrtptyp · https://soundcloud.com/user-643553014/labour-250223
+- LABOUR w/ Bada Seck · 2023-01-28 · Q864phg · https://soundcloud.com/user-643553014/labour-bada-seck-280123
+- Labour w/ Mada Ba · 2022-11-28 · Qv43mh7 · https://soundcloud.com/user-62184333/labour-281122
+- LABOUR w/ Fatou Talla Ndiaye · 2022-10-31 · Q7ctznx · https://soundcloud.com/user-62184333/labour-311022
+- Labour - Zan Zendegi Azadi · 2022-10-03 · Qgtff8k · https://soundcloud.com/user-626444105/labour-031022
+- Labour w/ Kine Lam · 2022-09-05 · Q28b73j · https://soundcloud.com/user-62184333/labour-050922
+- Labour w/ Fallou Dieng · 2022-08-08 · Q2xbzv4 · https://soundcloud.com/user-62184333/labour-080822
+- LABOUR w/ Ndeye Fatou Tine · 2022-07-11 · Q79pzqr · https://soundcloud.com/user-62184333/labour-110722
+- Labour - Sufi Special · 2022-05-09 · Qajjy3n · https://soundcloud.com/user-62184333/labour-060622
+- LABOUR w/ Assane Mboup · 2022-04-11 · Q94hmgj · https://soundcloud.com/user-62184333/labour-110422
+- LABOUR - Ndeye Marie Gawlo Special · 2022-03-14 · Qh73km4 · https://soundcloud.com/user-62184333/labour-140322
+- LABOUR W/ Ndiaga Mbaye · 2022-02-14 · Q4nwdhb · https://soundcloud.com/user-62184333/labour-140222
+- Labour w/ El Hadji Faye · 2022-01-17 · Qayx6jd · https://soundcloud.com/user-62184333/labour-w-el-hadji-faye-170122
+- LABOUR w/ Dial Mbaye · 2021-11-22 · Qzsdbva · https://soundcloud.com/user-62184333/labour-221121
+- LABOUR w/ Amy Mbengue · 2021-10-25 · Qbw3z8t · https://soundcloud.com/user-62184333/labour-w-amy-mbengue-251021
+- LABOUR w/ Molamine Ndiaye Rose · 2021-09-27 · Q756f4q · https://soundcloud.com/user-62184333/labour-w-molamine-ndiaye-rose-270921
+- LABOUR w/ Marie Ngone Ndione · 2021-08-30 · Qs88xsv · https://soundcloud.com/user-62184333/labour-w-marie-ngone-ndione-30th-august-300821
+- LABOUR w/ Mbaye Dieye Faye · 2021-08-02 · Qeqbgde · https://soundcloud.com/user-62184333/labour-w-mbaye-dieye-faye-020821
+- LABOUR w/ Fatou Laobé · 2021-06-07 · Qaxy5tt · 
+- Labour - Thione Seck Tribute · 2021-05-10 · Qc72yhp · 
+- LABOUR w/ Omar Pene · 2021-04-12 · Q7p524d · 
+- LABOUR w/ Coumba Gawlo · 2021-03-15 · Qq2krhh · 
+- Labour w/ Fatou Guewel · 2021-02-15 · Qt38tpj · 
+- Labour  w/ Papa Ndiaye Guewel · 2021-01-18 · Qx4fwdq · 
+- Labour w/ Hani Mojtahedy · 2020-11-23 · Qcr8t94 · 
+- LABOUR w/ Ibaaku · 2020-10-26 · Q7krdbh · https://soundcloud.com/user-612196404/labour-w-ibaaku-261020
+- LABOUR w/ Viviane Chidid · 2020-10-11 · Q6zrv85 · 
+- LABOUR w/ Souleymane Faye · 2020-09-07 · Qhqw5ah · 
+- Labour w/ Birame Ndiaye Rose · 2020-08-03 · Q5yw489 · 
+- Labour w/ Mbene Diatta Seck · 2020-07-06 · Qkzn9kv · 
+- sungazing, athens (2024) · Qzjshhw · 
+- LABOUR-Family-Ndiaye-Rose_Grand-National-Theater-Dakar-2022 · Q3vq6kj · 
+- LABOUR-Family-Ndiaye-Rose_Kraftwerk-Berlin-2024 · Qyzx5j8 · 
+- sungazing (Kraftwerk, 12") · Q46wrbp · 
+- Eventide by LABOUR + Fa'Pawaka (JSC - 18") · Q76324a · 
+- more heat than light - LABOUR, Colin Hacklander & Farahnaz Hatam / KorSonoR 2025 · Qt4qrx3 · 
+- sonic activation, villa aurora · Qq9p74b · 
+- Sharjah Biennial 14 Hacklander /Hatam, Isabel Lewis & Matthew Lutz-Kinoy · Qrw62re · 
+- LABOUR x dieDAS 08 · Qa2e6yz · 
+- sungazing (رضایت) (HAU - 3") · Q4rctzv · 
+- heteronomy is the condition of all things · Qgpqpqj · 

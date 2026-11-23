@@ -1,0 +1,31 @@
+id: Qnff8wt
+type: act
+statements:
+  name:
+  - value:
+      text: Sejar Percussion Band
+      language: en
+    references:
+    - source: www.beyondskin.net-yalda-2025
+      quote: Sejar Percussion Band
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
+  - value:
+      text: دفنوازان سه جار
+      language: fa
+    references:
+    - source: www.youtube.com-watchv-5se6y0viz8s
+      quote: دفنوازان سه جار
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
+  image:
+  - value: https://i.ytimg.com/vi/5SE6y0vIz8s/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-5se6y0viz8s
+      quote: https://i.ytimg.com/vi/5SE6y0vIz8s/hqdefault.jpg
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Zanyar Hesami · Sejar in concert
+        language: en

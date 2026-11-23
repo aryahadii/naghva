@@ -1,0 +1,51 @@
+id: Qzc22wm
+type: release
+statements:
+  name:
+  - value:
+      text: Infini
+      language: en
+    references:
+    - source: music.apple.com-us-album-i-am-ep-1625618945
+      quote: Infini
+      accessed: 2026-11-21
+      locator: Individual track
+  performer:
+  - value: Qvhrrm8
+    references:
+    - source: open.spotify.com-album-7hrcvixbhpl6t00fkvh1ey
+      quote: Infini · Naghib Shanbehzadeh
+      accessed: 2026-11-21
+      locator: Track 1
+  - value: Qh8mgmh
+    references:
+    - source: soundcloud.com-nag-1-1-infini-feat-xavier-belin
+      quote: Xavier Belin
+      accessed: '2026-11-21'
+      locator: Named contributor to track
+  listen link:
+  - value: https://music.apple.com/us/song/infini/1625619248
+    references:
+    - source: music.apple.com-us-album-i-am-ep-1625618945
+      quote: Infini
+      accessed: 2026-11-21
+      locator: Individual track
+  - value: https://open.spotify.com/track/21NFRD6VBPQyRIBbQSNAWj
+    references:
+    - source: open.spotify.com-album-7hrcvixbhpl6t00fkvh1ey
+      quote: I Am · Naghib Shanbehzadeh
+      accessed: 2026-11-21
+      locator: Spotify record
+  - value: https://soundcloud.com/nag-1-1/infini-feat-xavier-belin
+    references:
+    - source: soundcloud.com-nag-1-1-infini-feat-xavier-belin
+      quote: Infini feat Xavier Belin
+      accessed: '2026-11-21'
+      locator: Artist’s SoundCloud recording
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ac/52/16/ac5216c5-1c38-1361-01a4-652df12d1cef/859762392294_cover.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-i-am-ep-1625618945
+      quote: Infini
+      accessed: 2026-11-21
+      locator: Individual track

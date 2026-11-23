@@ -1,0 +1,47 @@
+id: Q63s6mp
+type: release
+statements:
+  name:
+  - value:
+      text: Lanat
+      language: en
+    references:
+    - source: music.apple.com-us-album-lanat-single-1741209640
+      quote: Lanat
+      accessed: 2026-11-21
+      locator: Edition or recording title
+  performer:
+  - value: Qr4berk
+    references:
+    - source: music.apple.com-us-album-lanat-single-1741209640
+      quote: Bahar Atish
+      accessed: 2026-11-21
+      locator: Digital credits
+  listen link:
+  - value: https://music.apple.com/us/song/lanat/1741209641
+    references:
+    - source: music.apple.com-us-album-lanat-single-1741209640
+      quote: Lanat
+      accessed: 2026-11-21
+      locator: Edition or recording title
+  - value: https://youtu.be/Iff3g0gdg-4
+    references:
+    - source: youtu.be-iff3g0gdg-4
+      quote: Bahar Atish - Lanat I Official Audio ( بهار آتیش - لعنت )
+      accessed: 2026-11-21
+      locator: Title and bill on artist’s channel
+  release date:
+  - value:
+      date: '2012-04-14'
+    references:
+    - source: music.apple.com-us-album-lanat-single-1741209640
+      quote: '2012-04-14'
+      accessed: 2026-11-21
+      locator: Digital edition date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/be/60/9d/be609d80-d1a8-b66b-02c3-c610121ec752/artwork.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-lanat-single-1741209640
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/be/60/9d/be609d80-d1a8-b66b-02c3-c610121ec752/artwork.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Digital edition artwork

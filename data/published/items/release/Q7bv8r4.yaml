@@ -1,0 +1,37 @@
+id: Q7bv8r4
+type: release
+statements:
+  listen link:
+  - value: https://www.youtube.com/watch?v=y5kR0NtzjfE
+    references:
+    - source: www.youtube.com-watch-v-y5kr0ntzjfe
+      quote: Sina Salimi - Tomorrows  (Live at Revival)  سینا سلیمی - فرداها
+      accessed: '2026-11-21'
+      locator: Page title
+  name:
+  - value:
+      text: Tomorrows (Live at Revival)
+      language: en
+    references:
+    - source: www.youtube.com-watch-v-y5kr0ntzjfe
+      quote: Sina Salimi - Tomorrows  (Live at Revival)  سینا سلیمی - فرداها
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qt5sbqz
+    references:
+    - source: www.youtube.com-watch-v-y5kr0ntzjfe
+      quote: Sina Salimi - Tomorrows  (Live at Revival)  سینا سلیمی - فرداها
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i.ytimg.com/vi/y5kR0NtzjfE/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-y5kr0ntzjfe
+      quote: https://i.ytimg.com/vi/y5kR0NtzjfE/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: Sina Salimi
+        language: en

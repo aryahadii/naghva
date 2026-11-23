@@ -1,0 +1,91 @@
+id: Qah2gh2
+type: release
+statements:
+  name:
+  - value:
+      text: Madar at Casa Árabe, Madrid
+      language: en
+    references:
+    - source: www.youtube.com-watch-v-k9mzjp_jy1u
+      quote: Concierto "Madar", los nuevos sonidos de Oriente
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://www.youtube.com/watch?v=K9MZJP_Jy1U
+    references:
+    - source: www.youtube.com-watch-v-k9mzjp_jy1u
+      quote: Concierto "Madar", los nuevos sonidos de Oriente
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://www.youtube.com/watch?v=0dCOWNrLQXo
+    references:
+    - source: www.youtube.com-watch-v-0dcownrlqxo
+      quote: DARAWISH in Casa árabe of Madrid, Full concert
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i.ytimg.com/vi/K9MZJP_Jy1U/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-k9mzjp_jy1u
+      quote: https://i.ytimg.com/vi/K9MZJP_Jy1U/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: Casa Árabe
+        language: en
+  performer:
+  - value: Qyk58gj
+    references:
+    - source: www.youtube.com-watch-v-k9mzjp_jy1u
+      quote: Concierto "Madar", los nuevos sonidos de Oriente
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qy69pg7
+    references:
+    - source: en.casaarabe.es-eventos-arabes-show-madar-new-sounds-from-the-east
+      quote: Kaveh
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: ney
+  - value: Q3nzw4b
+    references:
+    - source: en.casaarabe.es-eventos-arabes-show-madar-new-sounds-from-the-east
+      quote: Pablo
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: saxophone
+  - value: Qtj7y5p
+    references:
+    - source: en.casaarabe.es-eventos-arabes-show-madar-new-sounds-from-the-east
+      quote: Hames
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: oud
+  - value: Qw968tb
+    references:
+    - source: en.casaarabe.es-eventos-arabes-show-madar-new-sounds-from-the-east
+      quote: Luis
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: percussion
+  - value: Qaxtfjy
+    references:
+    - source: en.casaarabe.es-eventos-arabes-show-madar-new-sounds-from-the-east
+      quote: Fernando
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: double bass
+  release date:
+  - value:
+      date: '2020-09-10'
+    references:
+    - source: en.casaarabe.es-eventos-arabes-show-madar-new-sounds-from-the-east
+      quote: September 10, 2020
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits

@@ -1,0 +1,63 @@
+id: Qapqakf
+type: release
+statements:
+  name:
+  - value:
+      text: In the name of Love
+      language: en
+    references:
+    - source: music.apple.com-us-album-looking-back-facing-forward-395720185
+      quote: In the name of Love
+      accessed: '2026-11-21'
+      locator: Original interview, programme or release metadata
+  performer:
+  - value: Qst5f86
+    references:
+    - source: music.apple.com-us-album-looking-back-facing-forward-395720185
+      quote: Soul Nidus
+      accessed: '2026-11-21'
+      locator: Original interview, programme or release metadata
+  release date:
+  - value:
+      date: '2010-10-10'
+    references:
+    - source: music.apple.com-us-album-looking-back-facing-forward-395720185
+      quote: '2010-10-10'
+      accessed: '2026-11-21'
+      locator: Original interview, programme or release metadata
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music/18/a1/12/mzi.wgbaajdf.jpg/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Soul Nidus digital edition via Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-looking-back-facing-forward-395720185
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music/18/a1/12/mzi.wgbaajdf.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Original interview, programme or release metadata
+  listen link:
+  - value: https://music.apple.com/us/song/in-the-name-of-love/395720284
+    references:
+    - source: music.apple.com-us-album-looking-back-facing-forward-395720185
+      quote: https://music.apple.com/us/song/in-the-name-of-love/395720284
+      accessed: '2026-11-21'
+      locator: Original interview, programme or release metadata
+  - value: https://open.spotify.com/track/1hePEfJUdBn0q7fq55x10e
+    references:
+    - source: open.spotify.com-embed-album-1jcmwnz66xifvkqakxsa2v
+      quote: spotify:track:1hePEfJUdBn0q7fq55x10e
+      accessed: '2026-11-21'
+      locator: Original interview, programme or release metadata
+  - value: https://soundcloud.com/soulnidus/soulnidus-in-the-name-of-love
+    references:
+    - source: soundcloud.com-soulnidus-soulnidus-in-the-name-of-love
+      quote: Stream SOULNIDUS - IN THE NAME OF LOVE by SOULNIDUS | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Original interview, programme or release metadata
+  - value: https://www.youtube.com/watch?v=QV12PaNZdMs
+    references:
+    - source: www.youtube.com-watch-v-qv12panzdms
+      quote: SOULNIDUS - IN THE NAME OF LOVE
+      accessed: '2026-11-21'
+      locator: Original group channel

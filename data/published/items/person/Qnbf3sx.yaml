@@ -1,0 +1,60 @@
+id: Qnbf3sx
+type: person
+statements:
+  name:
+  - value:
+      text: Aïda Nosrat
+      language: en
+    references:
+    - source: themarkaz.org-aida-nosrat-of-atine-artist-at-work
+      quote: Aïda Nosrat
+      accessed: 2026-11-21
+      locator: Artist or ensemble billing
+  - value:
+      text: آیدا نصرت
+      language: fa
+    references:
+    - source: kayhan.london-1395-01-11-38991
+      quote: آیدا نصرت و بابک امیرمبشر
+      accessed: 2026-11-21
+      locator: Original interview and artist spellings
+  image:
+  - value: https://themarkaz.org/wp-content/uploads/2024/10/Arabesques-Atine-with-lead-singer-Aida-Nosrat-at-the-Opera-2024-©Luc-Jennepin.jpg
+    qualifiers:
+      credit:
+        text: Luc Jennepin
+        language: en
+    references:
+    - source: themarkaz.org-aida-nosrat-of-atine-artist-at-work
+      quote: https://themarkaz.org/wp-content/uploads/2024/10/Arabesques-Atine-with-lead-singer-Aida-Nosrat-at-the-Opera-2024-©Luc-Jennepin.jpg
+      accessed: 2026-11-21
+      locator: Original photograph and caption
+  profile link:
+  - value: https://open.spotify.com/artist/3H5M9Cfi2MxUyIw1ArvRc6
+    references:
+    - source: open.spotify.com-artist-3h5m9cfi2mxuyiw1arvrc6
+      quote: Listen to Aida Nosrat Songs | Spotify
+      accessed: 2026-11-21
+      locator: Native artist profile
+  - value: https://www.youtube.com/channel/UCsiMEawZnlaGSygp5sm0Eqg
+    references:
+    - source: aidanosrat.com
+      quote: https://www.youtube.com/channel/UCsiMEawZnlaGSygp5sm0Eqg
+      accessed: 2026-11-21
+      locator: Linked original video channel
+  member of:
+  - value: Qqfjk4z
+    references:
+    - source: aa-e.org-en-artiste-mobasher-babak-amir-2
+      quote: they founded the group Manushan
+      accessed: 2026-11-21
+      locator: Manushan co-founders
+  - value: Qbtpw7v
+    qualifiers:
+      role:
+      - vocals
+    references:
+    - source: atine.bandcamp.com-album-persiennes-diran
+      quote: 'Aïda Nosrat : Voix'
+      accessed: 2026-11-21
+      locator: Original album personnel

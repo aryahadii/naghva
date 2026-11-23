@@ -1,0 +1,57 @@
+id: Qdwbzmr
+type: release
+statements:
+  name:
+  - value:
+      text: Pass the Pain
+      language: en
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-pass-the-pain
+      quote: Pass the Pain | Hamzeh Yeganeh | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qy69pg7
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-pass-the-pain
+      quote: Pass the Pain | Hamzeh Yeganeh | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Q8rjkbs
+    references:
+    - source: kavehsarvarian.bandcamp.com-album-avareh
+      quote: By Naima Persian Jazz Band
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://kavehsarvarian.bandcamp.com/track/pass-the-pain
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-pass-the-pain
+      quote: Pass the Pain | Hamzeh Yeganeh | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1753205572
+    references:
+    - source: music.apple.com-us-song-1753205572
+      quote: ‎Pass the Pain (feat. Mahan Mirarab & Kaveh Sarvarian) - Song with Lyrics by Hamzeh Yeganeh - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a0813387359_10.jpg
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-pass-the-pain
+      quote: https://f4.bcbits.com/img/a0813387359_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Kaveh Sarvarian on Bandcamp
+        language: en
+  release date:
+  - value:
+      date: '2010-06-07'
+    references:
+    - source: music.apple.com-us-song-1753205572
+      quote: June 7, 2010
+      accessed: '2026-11-21'
+      locator: Published date

@@ -1,0 +1,42 @@
+id: Qbtpw7v
+type: act
+statements:
+  name:
+  - value:
+      text: Atine
+      language: en
+    references:
+    - source: atine.bandcamp.com-album-persiennes-diran
+      quote: Atine
+      accessed: 2026-11-21
+      locator: Artist or ensemble billing
+  image:
+  - value: https://themarkaz.org/wp-content/uploads/2024/10/Atine-on-stage-Arabesques-Atine-2024-©Luc-Jennepin.jpg
+    qualifiers:
+      credit:
+        text: Luc Jennepin
+        language: en
+    references:
+    - source: themarkaz.org-aida-nosrat-of-atine-artist-at-work
+      quote: https://themarkaz.org/wp-content/uploads/2024/10/Atine-on-stage-Arabesques-Atine-2024-©Luc-Jennepin.jpg
+      accessed: 2026-11-21
+      locator: Original photograph and caption
+  profile link:
+  - value: https://open.spotify.com/artist/1RMe8u2Q4Fv6RENVUkV7AV
+    references:
+    - source: open.spotify.com-artist-1rme8u2q4fv6renvukv7av
+      quote: Listen to Atine Songs | Spotify
+      accessed: 2026-11-21
+      locator: Native artist profile
+  - value: https://music.apple.com/us/artist/1535848752
+    references:
+    - source: music.apple.com-us-artist-1535848752
+      quote: ‎Atine - Apple Music
+      accessed: 2026-11-21
+      locator: Native artist profile
+  - value: https://atine.bandcamp.com
+    references:
+    - source: atine.bandcamp.com-album-persiennes-diran
+      quote: Five women musicians
+      accessed: 2026-11-21
+      locator: Ensemble biography

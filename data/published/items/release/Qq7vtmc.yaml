@@ -1,0 +1,40 @@
+id: Qq7vtmc
+type: release
+statements:
+  name:
+  - value:
+      text: Siyaah (live)
+      language: en
+    references:
+    - source: shen-band-archive-video
+      quote: Shen Band – Siyaah (live)
+      accessed: '2026-11-21'
+      locator: Artist archive or eyewitness account
+  - value:
+      text: Shen Band - گروه شن - سیاه
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-5k1jxlmo77e
+      quote: Shen Band - گروه شن - سیاه
+      accessed: '2026-11-21'
+      locator: Artist-published video
+  performer:
+  - value: Qavhs3y
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/5k1jxlMo77E/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-5k1jxlmo77e
+      quote: https://i.ytimg.com/vi/5k1jxlMo77E/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original channel photo
+    qualifiers:
+      credit:
+        text: Shen Band, original YouTube film
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=5k1jxlMo77E
+    references:
+    - *id001

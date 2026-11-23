@@ -1,0 +1,65 @@
+id: Qqpb6ba
+type: release
+statements:
+  name:
+  - value:
+      text: Nostalgia
+      language: en
+    references:
+    - source: music.apple.com-us-album-the-voices-and-bridges-1563830946
+      quote: Nostalgia
+      accessed: 2026-11-21
+      locator: Track listing
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/54/bb/9f/54bb9fb4-53d1-12a1-9469-aac39322f908/738715292273.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-the-voices-and-bridges-1563830946
+      quote: The Voices and Bridges
+      accessed: 2026-11-21
+      locator: Release heading
+  release date:
+  - value:
+      date: '2021-07-16'
+    references:
+    - source: music.apple.com-us-album-the-voices-and-bridges-1563830946
+      quote: '2021-07-16'
+      accessed: 2026-11-21
+      locator: Edition release date
+  performer:
+  - value: Qwh5yn8
+    references:
+    - source: music.apple.com-us-album-the-voices-and-bridges-1563830946
+      quote: Ehsan Matoori
+      accessed: 2026-11-21
+      locator: Release artist
+  listen link:
+  - value: https://music.apple.com/us/song/nostalgia/1563831188
+    references:
+    - source: music.apple.com-us-album-the-voices-and-bridges-1563830946
+      quote: Nostalgia
+      accessed: 2026-11-21
+      locator: Track listing
+  - value: https://ehsanmatoori.bandcamp.com/track/nostalgia
+    references:
+    - source: ehsanmatoori.bandcamp.com-album-the-voices-and-bridges
+      quote: Nostalgia
+      accessed: 2026-11-21
+      locator: Album track listing
+  - value: https://open.spotify.com/track/0vYNPeyL00AnR80mS46X9P
+    references:
+    - source: open.spotify.com-artist-644jatbhnkkrdrijnsr84f
+      quote: Nostalgia
+      accessed: 2026-11-21
+      locator: Spotify top tracks
+  - value: https://soundcloud.com/ehsan-matoori/nostalgia
+    references:
+    - source: soundcloud.com-ehsan-matoori-nostalgia
+      quote: Nostalgia
+      accessed: 2026-11-21
+      locator: Recording on the Ehsan Matoori profile
+  - value: https://www.youtube.com/watch?v=q8ERCu25Qhg
+    references:
+    - source: youtu.be-q8ercu25qhg
+      quote: Nostalgia (Alireza Ghorbani, Celia Woodsmith, Ehsan Matoori)
+      accessed: 2026-11-21
+      locator: Artist video title

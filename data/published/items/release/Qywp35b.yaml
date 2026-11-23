@@ -1,0 +1,63 @@
+id: Qywp35b
+type: release
+statements:
+  listen link:
+  - value: https://sinasalimi.bandcamp.com/track/hafez-in-the-depths-of-the-earth
+    references:
+    - source: sinasalimi.bandcamp.com-track-hafez-in-the-depths-of-the-earth
+      quote: Hafez in the Depths of the Earth | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/hafez-in-the-depths-of-the-earth/1889276987
+    references:
+    - source: music.apple.com-us-song-hafez-in-the-depths-of-the-earth-1889276987
+      quote: ‎Hafez in the Depths of the Earth - Song with Lyrics by Sina Salimi - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/56P4e4VkuJOgoQj4oig8wd
+    references:
+    - source: open.spotify.com-track-56p4e4vkujogoqj4oig8wd
+      quote: Hafez in the Depths of the Earth - song and lyrics by Sina Salimi | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/sinasalimi/hafez-in-the-depths-of-the
+    references:
+    - source: soundcloud.com-sinasalimi-hafez-in-the-depths-of-the
+      quote: Stream Hafez in the Depths of the Earth by Sina  Salimi | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  name:
+  - value:
+      text: Hafez in the Depths of the Earth
+      language: en
+    references:
+    - source: sinasalimi.bandcamp.com-track-hafez-in-the-depths-of-the-earth
+      quote: Hafez in the Depths of the Earth
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  performer:
+  - value: Qt5sbqz
+    references:
+    - source: sinasalimi.bandcamp.com-track-hafez-in-the-depths-of-the-earth
+      quote: Hafez in the Depths of the Earth | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2026-03-20'
+    references:
+    - source: sinasalimi.bandcamp.com-album-travellers-musicians-and-other-stories
+      quote: released March 20, 2026
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a2498350153_10.jpg
+    references:
+    - source: sinasalimi.bandcamp.com-track-hafez-in-the-depths-of-the-earth
+      quote: https://f4.bcbits.com/img/a2498350153_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Pegah Mian
+        language: en

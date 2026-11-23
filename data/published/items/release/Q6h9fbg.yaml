@@ -1,0 +1,32 @@
+id: Q6h9fbg
+type: release
+statements:
+  name:
+  - value:
+      text: saeid shanbehzadeh concert in Paris
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-n48e-9cidfm
+      quote: saeid shanbehzadeh concert in Paris
+      accessed: '2026-11-21'
+      locator: Artist-published performance film
+  performer:
+  - value: Qyd93n9
+    references:
+    - *id001
+  listen link:
+  - value: https://www.youtube.com/watch?v=n48e-9cIDfM
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/n48e-9cIDfM/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-n48e-9cidfm
+      quote: https://i.ytimg.com/vi/n48e-9cIDfM/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original film frame
+    qualifiers:
+      credit:
+        text: saeid shanbehzadeh
+        language: en

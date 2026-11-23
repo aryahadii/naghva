@@ -1,0 +1,63 @@
+id: Qh5528m
+type: release
+statements:
+  name:
+  - value:
+      text: GEt it (Kamron Saniee Remodel)
+      language: en
+    references:
+    - source: kopirecs.bandcamp.com-track-get-it-kamron-saniee-remodel
+      quote: GEt it (Kamron Saniee Remodel) | ArtSaves | Kopi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qw9zs9g
+    references:
+    - source: kopirecs.bandcamp.com-album-unref
+      quote: ArtSaves
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://kopirecs.bandcamp.com/track/get-it-kamron-saniee-remodel
+    references:
+    - source: kopirecs.bandcamp.com-track-get-it-kamron-saniee-remodel
+      quote: GEt it (Kamron Saniee Remodel) | ArtSaves | Kopi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1404205967
+    references:
+    - source: music.apple.com-us-song-1404205967
+      quote: ‎Get It (Kamron Saniee Remodel) - Song with Lyrics by ArtSaves - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/1CtVs3wG2GteLjBu7Ii4VL
+    references:
+    - source: open.spotify.com-track-1ctvs3wg2gteljbu7ii4vl
+      quote: GEt it - Kamron Saniee Remodel - song and lyrics by ArtSaves, Kamron Saniee | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/artsvs/get-it-kamron-saniee-remodel
+    references:
+    - source: soundcloud.com-artsvs-get-it-kamron-saniee-remodel
+      quote: Stream GEt It (Kamron Saniee Remodel) by ArtSaves | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a0263382756_10.jpg
+    references:
+    - source: kopirecs.bandcamp.com-track-get-it-kamron-saniee-remodel
+      quote: https://f4.bcbits.com/img/a0263382756_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Parnian Ghorbani
+        language: en
+  release date:
+  - value:
+      date: '2018-07-02'
+    references:
+    - source: kopirecs.bandcamp.com-track-get-it-kamron-saniee-remodel
+      quote: released July 2, 2018
+      accessed: '2026-11-21'
+      locator: Published date

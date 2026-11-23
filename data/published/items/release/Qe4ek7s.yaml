@@ -1,0 +1,37 @@
+id: Qe4ek7s
+type: release
+statements:
+  name:
+  - value:
+      text: Esfahan y Granada
+      language: en
+    references:
+    - source: www.youtube.com-watch-v-homheivzrns
+      quote: Esfahan y Granada
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qy69pg7
+    references:
+    - source: www.youtube.com-watch-v-homheivzrns
+      quote: Esfahan y Granada
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://www.youtube.com/watch?v=hOMhEIVZrns
+    references:
+    - source: www.youtube.com-watch-v-homheivzrns
+      quote: Esfahan y Granada
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i.ytimg.com/vi/hOMhEIVZrns/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-homheivzrns
+      quote: https://i.ytimg.com/vi/hOMhEIVZrns/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: Kaveh Sarvarian
+        language: en

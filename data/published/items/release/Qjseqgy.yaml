@@ -1,0 +1,65 @@
+id: Qjseqgy
+type: release
+statements:
+  name:
+  - value:
+      text: Telephone
+      language: en
+    references:
+    - source: music.apple.com-us-album-telephone-single-1805234680
+      quote: Telephone
+      accessed: 2026-11-21
+      locator: Edition or recording title
+    - source: play.radiojavan.com-video-shervin-hajipour-telephone
+      quote: Telephone
+      accessed: 2026-11-21
+      locator: Native Radio Javan edition
+  - value:
+      text: تلفن
+      language: fa
+    references:
+    - source: youtu.be-hwfmw1rzwnu
+      quote: Shervin - Telephone | شروین - تلفن
+      accessed: 2026-11-21
+      locator: Official channel, recording title
+  performer:
+  - value: Qjeb9e9
+    references:
+    - source: music.apple.com-us-album-telephone-single-1805234680
+      quote: Shervin Hajipour
+      accessed: 2026-11-21
+      locator: Digital credits
+  listen link:
+  - value: https://music.apple.com/us/song/telephone/1805234681
+    references:
+    - source: music.apple.com-us-album-telephone-single-1805234680
+      quote: Telephone
+      accessed: 2026-11-21
+      locator: Edition or recording title
+  - value: https://youtu.be/hwFMW1rzWnU
+    references:
+    - source: youtu.be-hwfmw1rzwnu
+      quote: Shervin - Telephone | شروین - تلفن
+      accessed: 2026-11-21
+      locator: Official channel, recording title
+  - value: https://soundcloud.com/shervinine/telephone-1
+    references:
+    - source: soundcloud.com-shervinine
+      quote: Telephone
+      accessed: 2026-11-21
+      locator: Artist’s published tracks
+  release date:
+  - value:
+      date: '2022-06-07'
+    references:
+    - source: music.apple.com-us-album-telephone-single-1805234680
+      quote: '2022-06-07'
+      accessed: 2026-11-21
+      locator: Digital edition date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7f/2b/13/7f2b1364-a39c-44e1-eba5-472aabe03ec8/4056813500387.png/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-telephone-single-1805234680
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7f/2b/13/7f2b1364-a39c-44e1-eba5-472aabe03ec8/4056813500387.png/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Digital edition artwork

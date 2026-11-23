@@ -1,0 +1,70 @@
+id: Qkpdkse
+type: release
+statements:
+  name:
+  - value:
+      text: Chashmandaaze Rooydaad
+      language: en
+    references:
+    - source: music.apple.com-us-album-chashmandaaze-rooydaad-1638843801
+      quote: Chashmandaaze Rooydaad
+      accessed: 2026-11-21
+      locator: Album title
+  performer:
+  - value: Qjh2zkc
+    references:
+    - source: music.apple.com-us-album-chashmandaaze-rooydaad-1638843801
+      quote: Chashmandaaze Rooydaad
+      accessed: 2026-11-21
+      locator: Album title
+  listen link:
+  - value: https://music.apple.com/us/album/chashmandaaze-rooydaad/1638843801
+    references:
+    - source: music.apple.com-us-album-chashmandaaze-rooydaad-1638843801
+      quote: Chashmandaaze Rooydaad
+      accessed: 2026-11-21
+      locator: Album title
+  - value: https://open.spotify.com/album/13kgfN8QdKdQTBUUT0XzJU
+    references:
+    - source: open.spotify.com-album-13kgfn8qdkdqtbuut0xzju
+      quote: Chashmandaaze Rooydaad
+      accessed: 2026-11-21
+      locator: Edition heading
+  - value: https://aidashahghasemi.bandcamp.com/album/chashmandaaze-rooydaad
+    references:
+    - source: aidashahghasemi.bandcamp.com-album-chashmandaaze-rooydaad
+      quote: Chashmandaaze Rooydaad
+      accessed: 2026-11-21
+      locator: Artist issue heading
+  release date:
+  - value:
+      date: '2022-08-01'
+    references:
+    - source: music.apple.com-us-album-chashmandaaze-rooydaad-1638843801
+      quote: '2022-08-01'
+      accessed: 2026-11-21
+      locator: Digital edition date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/d9/b1/09/d9b109fa-2c1a-6501-7101-dca3124daf3a/198004169615.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-chashmandaaze-rooydaad-1638843801
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/d9/b1/09/d9b109fa-2c1a-6501-7101-dca3124daf3a/198004169615.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Native release artwork
+  release type:
+  - value: album
+    references:
+    - source: music.apple.com-us-album-chashmandaaze-rooydaad-1638843801
+      quote: Chashmandaaze Rooydaad
+      accessed: 2026-11-21
+      locator: Album title
+  contributor:
+  - value: Qjh2zkc
+    qualifiers:
+      role:
+      - producer
+    references:
+    - source: aidashahghasemi.bandcamp.com-album-chashmandaaze-rooydaad
+      quote: Created and produced by Aida Shahghasemi
+      accessed: 2026-11-21
+      locator: Artist credits

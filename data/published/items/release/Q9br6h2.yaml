@@ -1,0 +1,47 @@
+id: Q9br6h2
+type: release
+statements:
+  name:
+  - value:
+      text: Iran
+      language: en
+    references:
+    - source: music.apple.com-us-song-1455970227
+      quote: Iran - Song with Lyrics by Mehdi Rajabian
+      accessed: 2026-11-21
+      locator: Track title and billing
+  release date:
+  - value:
+      date: '2019-03-15'
+    references:
+    - source: music.apple.com-us-song-1455970227
+      quote: March 15, 2019
+      accessed: 2026-11-21
+      locator: Track date
+  performer:
+  - value: Qp8pv74
+    references:
+    - source: music.apple.com-us-song-1455970227
+      quote: Iran - Song with Lyrics by Mehdi Rajabian
+      accessed: 2026-11-21
+      locator: Track title and billing
+  listen link:
+  - value: https://music.apple.com/us/song/1455970227
+    references:
+    - source: music.apple.com-us-song-1455970227
+      quote: Iran - Song with Lyrics by Mehdi Rajabian
+      accessed: 2026-11-21
+      locator: Track title and billing
+  - value: https://open.spotify.com/track/0CARtP2ts7wR0mwp1A1mw7
+    references:
+    - source: open.spotify.com-embed-album-5ulibsbukulfebmeuoe1de
+      quote: Iran Mehdi Rajabian
+      accessed: 2026-11-21
+      locator: Track 1, title and artist
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/b5/f7/bc/b5f7bcfa-5d1b-702d-fd31-8100b942b0bf/886447583418.jpg/632x632bb-60.jpg
+    references:
+    - source: music.apple.com-us-album-mehdi-rajabian-middle-eastern-1455970099
+      quote: 'Mehdi Rajabian: Middle Eastern - Album by Various Artists - Apple Music'
+      accessed: 2026-11-21
+      locator: Album title

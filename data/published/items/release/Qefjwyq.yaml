@@ -6,8 +6,7 @@ statements:
       text: Narrante
       language: en
     references:
-    - &id001
-      source: music.apple.com-us-album-narrante-1444130926-9e313d095b
+    - source: music.apple.com-us-album-narrante-1444130926-9e313d095b
       quote: 'Listen to Narrante by Golfam Khayam & Mona Matbou Riahi on Apple Music. 2016. 9 Songs. Duration: 55
         minutes.'
       accessed: '2026-11-13'
@@ -21,7 +20,11 @@ statements:
       quote: Golfam Khayam Guitar
       accessed: '2026-11-13'
       locator: Credits
-    - *id001
+    - source: music.apple.com-us-album-narrante-1444130926-9e313d095b
+      quote: 'Listen to Narrante by Golfam Khayam & Mona Matbou Riahi on Apple Music. 2016. 9 Songs. Duration: 55
+        minutes.'
+      accessed: '2026-11-13'
+      locator: Apple Music release description
   - value: Qyy9hf9
     qualifiers:
       role: clarinet
@@ -30,7 +33,11 @@ statements:
       quote: Mona Matbou Riahi Clarinet
       accessed: '2026-11-13'
       locator: Credits
-    - *id001
+    - source: music.apple.com-us-album-narrante-1444130926-9e313d095b
+      quote: 'Listen to Narrante by Golfam Khayam & Mona Matbou Riahi on Apple Music. 2016. 9 Songs. Duration: 55
+        minutes.'
+      accessed: '2026-11-13'
+      locator: Apple Music release description
   release date:
   - value:
       date: '2016-05-20'
@@ -42,7 +49,11 @@ statements:
   listen link:
   - value: https://music.apple.com/us/album/narrante/1444130926
     references:
-    - *id001
+    - source: music.apple.com-us-album-narrante-1444130926-9e313d095b
+      quote: 'Listen to Narrante by Golfam Khayam & Mona Matbou Riahi on Apple Music. 2016. 9 Songs. Duration: 55
+        minutes.'
+      accessed: '2026-11-13'
+      locator: Apple Music release description
   - value: https://open.spotify.com/album/2Secgb9RNRqgd07clyMlGu
     references:
     - source: open.spotify.com-album-2secgb9rnrqgd07clymlgu-e3848c171b
@@ -53,6 +64,24 @@ statements:
       quote: '"title":"Testamento"'
       accessed: '2026-11-13'
       locator: First track of the programme
+  - value: https://music.apple.com/at/album/narrante/1444130926
+    references:
+    - source: music.apple.com-at-album-narrante-1444130926
+      quote: Narrante
+      accessed: 2026-11-21
+      locator: Digital issue title
+  - value: https://music.apple.com/at/song/narrante/1444131503
+    references:
+    - source: music.apple.com-at-album-narrante-1444130926
+      quote: Narrante
+      accessed: 2026-11-21
+      locator: Track listing
+  - value: https://open.spotify.com/track/7ItOrZJ3q31M9rmhbjPqPh
+    references:
+    - source: open.spotify.com-album-2secgb9rnrqgd07clymlgu-e3848c171b
+      quote: Golfam Khayam, Mona Matbou Riahi
+      accessed: 2026-11-21
+      locator: Track billing
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/ed/f0/23/edf02320-23d9-80fd-088a-f6d09449f920/00602547794437.rgb.jpg/1200x630bb.jpg
     qualifiers:
@@ -85,8 +114,7 @@ statements:
     qualifiers:
       role: composer
     references:
-    - &id002
-      source: ecmrecords.com-product-narrante-golfam-khayam-mona-matbou-riahi-2ad4c2ee30
+    - source: ecmrecords.com-product-narrante-golfam-khayam-mona-matbou-riahi-2ad4c2ee30
       quote: Narrante (Golfam Khayam, Mona Matbou Riahi)
       accessed: '2026-11-13'
       locator: Track 7; the same composition billing appears on all nine tracks
@@ -94,7 +122,10 @@ statements:
     qualifiers:
       role: composer
     references:
-    - *id002
+    - source: ecmrecords.com-product-narrante-golfam-khayam-mona-matbou-riahi-2ad4c2ee30
+      quote: Narrante (Golfam Khayam, Mona Matbou Riahi)
+      accessed: '2026-11-13'
+      locator: Track 7; the same composition billing appears on all nine tracks
   published by:
   - value: Qvhg2w2
     references:
@@ -102,3 +133,10 @@ statements:
       quote: ECM 2475
       accessed: '2026-11-13'
       locator: Catalogue number
+  release type:
+  - value: album
+    references:
+    - source: music.apple.com-at-album-narrante-1444130926
+      quote: Narrante
+      accessed: 2026-11-21
+      locator: Digital issue title

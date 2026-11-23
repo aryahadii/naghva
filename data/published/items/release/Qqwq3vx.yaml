@@ -1,0 +1,64 @@
+id: Qqwq3vx
+type: release
+statements:
+  name:
+  - value:
+      text: Infatuation
+      language: en
+    references:
+    - source: music.apple.com-us-album-infatuation-1497649694
+      quote: ‎Infatuation - Album by Raul Ferrando - Apple Music
+      accessed: '2026-11-21'
+      locator: Original page title
+  release type:
+  - value: album
+    references:
+    - source: music.apple.com-us-album-infatuation-1497649694
+      quote: ‎Infatuation - Album by Raul Ferrando - Apple Music
+      accessed: '2026-11-21'
+      locator: Original page title
+  performer:
+  - value: Q57cj49
+    references:
+    - source: payamyousefimusic.com-cv
+      quote: Featured Soloist. Infatuation Telecharger, by Raul Ferrando
+      accessed: '2026-11-21'
+      locator: Musician’s solo performance credit
+  - value: Qe6785j
+    references:
+    - source: music.apple.com-us-album-infatuation-1497649694
+      quote: Raul Ferrando
+      accessed: '2026-11-21'
+      locator: Album artist
+  listen link:
+  - value: https://music.apple.com/us/album/infatuation/1497649694
+    references:
+    - source: music.apple.com-us-album-infatuation-1497649694
+      quote: ‎Infatuation - Album by Raul Ferrando - Apple Music
+      accessed: '2026-11-21'
+      locator: Original page title
+  - value: https://open.spotify.com/album/7w4klM7AM9pd7R19A7hhFC
+    references:
+    - source: open.spotify.com-album-7w4klm7am9pd7r19a7hhfc
+      quote: Infatuation - Raul Ferrando | Spotify
+      accessed: '2026-11-21'
+      locator: Original page title
+  release date:
+  - value:
+      date: '2020-02-02'
+    references:
+    - source: music.apple.com-us-album-infatuation-1497649694
+      quote: '2020-02-02'
+      accessed: '2026-11-21'
+      locator: Digital release date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/20/9f/2a/209f2ae9-3339-38c2-3ccc-8d5cf6f0ee04/731946328612.jpg/1200x630bb.jpg
+    qualifiers:
+      credit:
+        text: Apple Music edition artwork
+        language: en
+    references:
+    - source: music.apple.com-us-album-infatuation-1497649694
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/20/9f/2a/209f2ae9-3339-38c2-3ccc-8d5cf6f0ee04/731946328612.jpg/1200x630bb.jpg
+      accessed: '2026-11-21'
+      locator: Distributor cover

@@ -1,0 +1,60 @@
+id: Qnjzcmk
+type: release
+statements:
+  name:
+  - value:
+      text: Time.
+      language: en
+    references:
+    - source: music.apple.com-us-album-time-single-1437321977
+      quote: Time.
+      accessed: 2026-11-21
+      locator: Track 1
+  performer:
+  - value: Qghhr4e
+    references:
+    - source: music.apple.com-us-album-time-single-1437321977
+      quote: Time. - Single · ASADI · 2016-06-08
+      accessed: 2026-11-21
+      locator: Album artist and issue date
+  listen link:
+  - value: https://music.apple.com/us/song/time/1437321985
+    references:
+    - source: music.apple.com-us-album-time-single-1437321977
+      quote: Time.
+      accessed: 2026-11-21
+      locator: Track 1
+  - value: https://music.apple.com/us/album/time-single/1437321977
+    references:
+    - source: music.apple.com-us-album-time-single-1437321977
+      quote: Time. - Single · ASADI · 2016-06-08
+      accessed: 2026-11-21
+      locator: Album artist and issue date
+  - value: https://soundcloud.com/asadimusic/time
+    references:
+    - source: soundcloud.com-asadimusic-time
+      quote: TIME
+      accessed: 2026-11-22
+      locator: Verified artist SoundCloud upload and title
+  release date:
+  - value:
+      date: '2016-06-08'
+    references:
+    - source: music.apple.com-us-album-time-single-1437321977
+      quote: Time.
+      accessed: 2026-11-21
+      locator: Track 1
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-time-single-1437321977
+      quote: Time.
+      accessed: 2026-11-21
+      locator: Track 1
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/ec/ae/ab/ecaeab7e-4676-8c19-cb5e-36ccd7114d87/859728802034_cover.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-time-single-1437321977
+      quote: Time.
+      accessed: 2026-11-21
+      locator: Track 1

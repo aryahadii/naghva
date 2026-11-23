@@ -1,0 +1,63 @@
+id: Qmns3dp
+type: release
+statements:
+  name:
+  - value:
+      text: Iùa
+      language: en
+    references:
+    - source: cinnapey.bandcamp.com-track-i-a
+      quote: Iùa
+      accessed: '2026-11-21'
+      locator: Recording title or artist credit
+  performer:
+  - value: Q4q92dh
+    references:
+    - source: cinnapey.bandcamp.com-track-i-a
+      quote: Iùa | Cinna Peyghamy
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://cinnapey.bandcamp.com/track/i-a
+    references:
+    - source: cinnapey.bandcamp.com-track-i-a
+      quote: Iùa | Cinna Peyghamy
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/i%C3%B9a/1719051174
+    references:
+    - source: music.apple.com-us-song-i-c3-b9a-1719051174
+      quote: ‎Iùa - Song with Lyrics by Cinna Peyghamy - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/3pHXA2r4sEuZuccWDVTBSa
+    references:
+    - source: open.spotify.com-track-3phxa2r4seuzuccwdvtbsa
+      quote: Iùa - song and lyrics by Cinna Peyghamy | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/cikkun/iua-1
+    references:
+    - source: soundcloud.com-cikkun-iua-1
+      quote: Stream Iùa by Cinna Peyghamy | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a2621984663_10.jpg
+    references:
+    - source: cinnapey.bandcamp.com-track-i-a
+      quote: https://f4.bcbits.com/img/a2621984663_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Cinna Peyghamy on Bandcamp
+        language: en
+  release date:
+  - value:
+      date: '2017-05-08'
+    references:
+    - source: cinnapey.bandcamp.com-album-gamut
+      quote: released May 8, 2017
+      accessed: '2026-11-21'
+      locator: Published date

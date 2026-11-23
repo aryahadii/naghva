@@ -1,0 +1,108 @@
+# Aria Mohafez
+
+Distinguished the santur player and composer from Arash Mohafez. The original Labyrinth profile documents early ensemble issues, teachers, tours and music competition. Complete 21-upload original video channel reconciled; the songwriter explicitly identifies music and words on his authored songs, and a performance role is only attributed for documented parts. Paired album and song IDs were reconciled for original Iranian duo issues and later digital listings. The Luminous Sunshine digital issue separates the opening prelude, which is indexed together on the original CD. Iranian and international edition dates are separately noted. Guest credits on the Araz Salek and Pedram Khavarzamini collaborations reuse existing masters. The photographer image is published in Labyrinth’s dedicated teaching profile.
+
+Compared Bandcamp original issuers, Apple Music, Spotify, YouTube, SoundCloud and Telegram. Track-specific roles follow the original programmes or liner credits.
+
+- 24 Zarbi (Q4a77eq) · https://music.apple.com/us/song/24-zarbi/1798590234 · https://open.spotify.com/track/3KlgzyPJNKku40vzjzJR2D
+- A Memorial to Âref Qazvini (Qdbcwac)
+- Abadan- Metropol متروپل آبادان (Q2pfjws) · https://www.youtube.com/watch?v=0k4fgxzXilk
+- Art of the Time Scale (Qv6zzdb)
+- Avaz & Sarang, Dashti (Qz9w8es) · https://music.apple.com/us/song/avaz-sarang-dashti/1295577646 · https://open.spotify.com/track/6ALUoSg0g8s7dtu0Nsv0M8
+- Bar Seh (Q9gbnvg) · https://music.apple.com/us/song/bar-seh/1798590013 · https://open.spotify.com/track/4J5T5QEXvs12qNl5X7l7bW
+- Bayât-e Tork (Qvyhjny)
+- Bidad, Homayoun (Qjptptx) · https://music.apple.com/us/song/bidad-homayoun/1295577641 · https://open.spotify.com/track/1tiCsbRly6wTFSVmKysQpf
+- Bright Sun (Qd6gxpg) · https://music.apple.com/us/album/luminous-sunshine/1773169691 · https://open.spotify.com/album/2mXN3zZLBbIIiMAnyY335G
+- Chahargah & Zabol (Qrd3whn) · https://music.apple.com/us/song/chahargah-zabol/1295577158 · https://open.spotify.com/track/5qVWw5tl8uoYsGgJcVLzyU
+- Chaharmezrab Abu'ata (feat. Pedram Khavarzamini) (Qdtfasd) · https://music.apple.com/us/song/chaharmezrab-abuata-feat-pedram-khavarzamini/1463120185 · https://open.spotify.com/track/3KNcm7j1rbiyaueYQuNqgl
+- Chaharmezrab Afshari (feat. Pedram Khavarzamini) (Qygvfpr) · https://music.apple.com/us/song/chaharmezrab-afshari-feat-pedram-khavarzamini/1463120313 · https://open.spotify.com/track/6p8pqiF4EBKY2WUPEl9bea
+- Chaharmezrab Araq (feat. Pedram Khavarzamini) (Q589ph9) · https://music.apple.com/us/song/chaharmezrab-araq-feat-pedram-khavarzamini/1463120310 · https://open.spotify.com/track/4EIF0zMfgsZhUo612XG6Gn
+- Chaharmezrab Bidad, Homayoun (feat. Pedram Khavarzamini) (Qg6r2hq) · https://music.apple.com/us/song/chaharmezrab-bidad-homayoun-feat-pedram-khavarzamini/1295577642 · https://open.spotify.com/track/5Qmj9jPvJzQUzkT3tUm0xe
+- Chaharmezrab Dashti (feat. Pedram Khavarzamini) (Qg4msh9) · https://music.apple.com/us/song/chaharmezrab-dashti-feat-pedram-khavarzamini/1295577647 · https://open.spotify.com/track/7z8M8oW3UAQvMzxQKmseEy
+- Chaharmezrab Owj, Dashti (feat. Pedram Khavarzamini) (Q2hq2ym) · https://music.apple.com/us/song/chaharmezrab-owj-dashti-feat-pedram-khavarzamini/1295577649 · https://open.spotify.com/track/1mnM7INapn10XftVn7vJMM
+- Chaharmezrab Zabol (feat. Pedram Khavarzamini) (Qvexgn3) · https://music.apple.com/us/song/chaharmezrab-zabol-feat-pedram-khavarzamini/1295577159 · https://open.spotify.com/track/1GEU6Kh3Z4C1bx7HU72qQQ
+- Chahārmezrāb & Adjem Nahāvand (Qc8n8dv) · https://arazsalek.bandcamp.com/track/chah-rmezr-b-adjem-nah-vand · https://efrenlopez.bandcamp.com/track/chah-rmezr-b-adjem-nah-vand · https://music.apple.com/us/song/chah%C3%A2rmezr%C3%A2b-adjem-nah%C3%A2vand-feat-efr%C3%A9n-l%C3%B3pez-houshmand/1793087639 · https://open.spotify.com/track/0FijoY3XwKO40ECSm1Xilq
+- Daramad & Bakhtiyari, Homayoun (Qdxekav) · https://music.apple.com/us/song/daramad-bakhtiyari-homayoun/1295577153 · https://open.spotify.com/track/55cFqZn56DKWey1q19jw1Y
+- Daramad (Qktqsfc) · https://music.apple.com/us/song/daramad/1463120184 · https://open.spotify.com/track/1XKOPRoQKBcKxJu906b3hB
+- Daramad Afshari (Qa686mc) · https://music.apple.com/us/song/daramad-afshari/1463120307 · https://open.spotify.com/track/54fdSH7wQWUUezVXddvWr1
+- Daramad, Dashti (Qpwf2va) · https://music.apple.com/us/song/daramad-dashti/1295577644 · https://open.spotify.com/track/7wwwVyu5XlAzGlKwtuhuAy
+- Dashti & Châvush 6 (Q9es5yd)
+- Do navazi-e- Afshari 10.5 (Qhhw9p3) · https://music.apple.com/us/song/do-navazi-e-afshari-10-5/1798590229 · https://open.spotify.com/track/62hUs80f8f4af63JC5NPrq
+- Do navazi-e- Afshari 35 (Q9q6dbb) · https://music.apple.com/us/song/do-navazi-e-afshari-35/1798590017 · https://open.spotify.com/track/2FOaq3PjOykJCTwMcQYN7W
+- Do navazi-e-Segah (Q2t5nev) · https://music.apple.com/us/song/do-navazi-e-segah/1798590014 · https://open.spotify.com/track/5JAv9sDKaYEG2ygqkIkGq0
+- Donavazi-E-Bayat Tork (Qkwcrdj) · https://music.apple.com/us/song/donavazi-e-bayat-tork/1798590236 · https://open.spotify.com/track/6CtQVcRap0PZR2xX82cEmj
+- Donavazi-E-Dashti 6 (Qezmjfm) · https://music.apple.com/us/song/donavazi-e-dashti-6/1798590235 · https://open.spotify.com/track/0WuCDl9zqKOKQUfAlkGzlo
+- Donavazi-e-bayat tork 14 (Q3rrq7x) · https://music.apple.com/us/song/donavazi-e-bayat-tork-14/1798590231 · https://open.spotify.com/track/4XUOJjgatvvOVb43MhRb0z
+- Eshare Be Owj & Forud, Homayoun (Qzhqbg9) · https://music.apple.com/us/song/eshare-be-owj-forud-homayoun/1295577643 · https://open.spotify.com/track/3YWX1ka4PtZjbEVtR5vUan
+- Eshare Be Razavi (Q7v3e2a) · https://music.apple.com/us/song/eshare-be-razavi/1295577650 · https://open.spotify.com/track/2OstkJqAGTQEjIov6rJLhU
+- Forud (Qjhf7ca) · https://music.apple.com/us/song/forud/1295577160 · https://open.spotify.com/track/3E81BkHbOh1kpX3Y0VjZRC
+- Forud (Qnhmm9q) · https://music.apple.com/us/song/forud/1463120311 · https://open.spotify.com/track/6CvGXazYPmKOkWIXMg9UHq
+- Ghamangiz, Dashti (Qbq2gfc) · https://music.apple.com/us/song/ghamangiz-dashti/1295577652 · https://open.spotify.com/track/4JQKnTNoid6w7HMEWW7hZ3
+- Ghazal (Q7qrqv5) · https://arazsalek.bandcamp.com/track/ghazal · https://efrenlopez.bandcamp.com/track/ghazal · https://music.apple.com/us/song/ghazal-feat-asare-shekarchi-efr%C3%A9n-l%C3%B3pez-aria-mohafez/1793087647 · https://open.spotify.com/track/1FBLoi8MDtdEHkRGjVdZep
+- Goosheh Gardân (Qr69ep3) · https://music.apple.com/us/album/goosheh-gard%C3%A2n/1798590011 · https://open.spotify.com/album/5TAunSCMQixwS0TQhPLosI
+- Goshāyesh 11 & 15 (Qnhc898) · https://arazsalek.bandcamp.com/track/gosh-yesh-11-15 · https://efrenlopez.bandcamp.com/track/gosh-yesh-11-15 · https://music.apple.com/us/song/gosh%C3%A2yesh-11-15-feat-efr%C3%A9n-l%C3%B3pez-aria-mohafez/1793087386 · https://open.spotify.com/track/4yjduU9yMQLukPq0OdV5ik
+- Hejaz (Qtwfckg) · https://music.apple.com/us/song/hejaz/1463120306 · https://open.spotify.com/track/7ET4f2AOZERsQJjdWx6ypw
+- Homâyun (Q3w8sjw)
+- Introduction (Q48rjn6) · https://music.apple.com/us/song/introduction/1773169692 · https://open.spotify.com/track/5ge26KusLrZErovP7rTOp0
+- Jamedaran & Araq (Qarnqpt) · https://music.apple.com/us/song/jamedaran-araq/1463120309 · https://open.spotify.com/track/61TyPFesGS614E0QDTY8ZD
+- Khaneh (Qekfhjd) · https://music.apple.com/us/song/khaneh/1798590232 · https://open.spotify.com/track/40JpbjDg12iwHyp5P5QTZw
+- Labyrinth Ensemble with Âriâ Mohâfez (Part 1) (Qvcm82n) · https://www.youtube.com/watch?v=GAvMacnMlw8
+- Labyrinth Ensemble with Âriâ Mohâfez (Part 2) (Qq6d8kb) · https://www.youtube.com/watch?v=0se9uGwrrMY
+- Lozi (Rhomboid) (Qwv39vz) · https://music.apple.com/us/song/lozi-rhomboid/1798590012 · https://open.spotify.com/track/1eg7WQabPYqDWFj6Ld5CtH
+- Mashgh-e-dovom SAMET (Qg26mpg) · https://music.apple.com/us/song/mashgh-e-dovom-samet/1798590230 · https://open.spotify.com/track/7ci4B4pdzoCHK4SncfWUAy
+- Mashgh-e-hasht (Qtvk9et) · https://music.apple.com/us/song/mashgh-e-hasht/1798590015 · https://open.spotify.com/track/0yfZkIB8Ahh60k7ccHe84e
+- Masnavi (Qwysdms) · https://music.apple.com/us/song/masnavi/1463120312 · https://open.spotify.com/track/4G12Dcoql9nQOi03vzTNpW
+- Musical Strokes (Qmkhnv7)
+- My Homeland, Iran (Q2scbe8)
+- Neshan (Qfffnpm) · https://music.apple.com/us/album/neshan/1802953583 · https://open.spotify.com/album/1nGmoTTxYuc21nao9ls9Tk
+- Night of Persian Musical Instruments no.1 شب ساز ایرانی شماره یک- سنتور- شوشتری (Qz6av9k) · https://www.youtube.com/watch?v=B_Q-r9VWUq4
+- Night of Persian Musical Instruments no.3 شب ساز ایرانی شماره سه- سنتور- دشتی (Qxpbsnn) · https://www.youtube.com/watch?v=6nm4XGasRRg
+- Owj, Dashti (Q9zygdd) · https://music.apple.com/us/song/owj-dashti/1295577648 · https://open.spotify.com/track/2Qsy6eDgNSDwrT6ES5AoI7
+- Peripheries of Nahavand (Q78p7ae) · https://arazsalek.bandcamp.com/album/peripheries-of-nahavand · https://efrenlopez.bandcamp.com/album/peripheries-of-nahavand-full-6-track-album-2025 · https://music.apple.com/us/album/peripheries-of-nahavand-feat-efr%C3%A9n-l%C3%B3pez/1793087383 · https://open.spotify.com/album/4VauLYoGO9WA2P0hzOtYsC
+- Peyda (Qp2zvd5) · https://music.apple.com/us/album/peyda/1463120182 · https://open.spotify.com/album/0FwPpalmm3GhS89WZFagZu
+- Pish Darāmade Dashti (Qrdc6gh) · https://music.apple.com/us/song/pish-dara-made-dashti/1802953593 · https://open.spotify.com/track/6gHe0cwkLYcdb7YTtBI1bk
+- Pishdaramad (Qzpvh68) · https://music.apple.com/us/song/pishdaramad/1773169693 · https://open.spotify.com/track/0YCVouTD5nJYOiibbpe2r1
+- Reng (Qhdskjx) · https://arazsalek.bandcamp.com/track/reng · https://efrenlopez.bandcamp.com/track/reng · https://music.apple.com/us/song/reng-feat-asare-shekarchi-efr%C3%A9n-l%C3%B3pez-houshmand-ebadi/1793087654 · https://open.spotify.com/track/3Pq0fD6SfxigsjR796GBNQ
+- Santūr Solo Degar Goon (Q63edt9) · https://music.apple.com/us/song/sant%C5%ABr-solo-degar-goon/1802953603 · https://open.spotify.com/track/6fc94mb4Yms2KldTQF1CIt
+- Sarva (Q6jxkaa) · https://music.apple.com/us/album/sarva/1295577146 · https://open.spotify.com/album/3QtIRslEu1RKaW0cYlrttZ
+- Segah & Forud (Qkkbmbd) · https://music.apple.com/us/song/segah-forud/1295577651 · https://open.spotify.com/track/6QIUJePFhkxCzlWH97CrTI
+- Shadow of the Soul (Q24tg3j)
+- Shushtari and Meygoli, Homayoun (Qt6a87k) · https://music.apple.com/us/song/shushtari-and-meygoli-homayoun/1295577154 · https://open.spotify.com/track/5rfvpfs5EwgMnMM1CVUUMf
+- Tasnif e Surena - تصنیف سورنا (Qv2at66) · https://www.youtube.com/watch?v=L4lTgB0-o7M
+- Zarbi (feat. Pedram Khavarzamini) (Q7zxwqp) · https://music.apple.com/us/song/zarbi-feat-pedram-khavarzamini/1463120308 · https://open.spotify.com/track/7GWefXlwHdj6MLzGQUCxyy
+- Zarbiye Abu'ata (feat. Pedram Khavarzamini) (Qsfxz6z) · https://music.apple.com/us/song/zarbiye-abuata-feat-pedram-khavarzamini/1463120183 · https://open.spotify.com/track/6ggPDkFeeSyABaPCoe0bY1
+- Zarbiye Dashti (feat. Pedram Khavarzamini) (Qwnrpg6) · https://music.apple.com/us/song/zarbiye-dashti-feat-pedram-khavarzamini/1295577645 · https://open.spotify.com/track/2utJNYbHN7HX7h6JSAoxKg
+- Zarbiye Shushtari, Homayoun (feat. Pedram Khavarzamini) (Qcxjvw6) · https://music.apple.com/us/song/zarbiye-shushtari-homayoun-feat-pedram-khavarzamini/1295577155 · https://open.spotify.com/track/2NwmhlX7D1xbuWNJ4MxsWm
+- do navazi-e-delkash 6 (Qjv8fdh) · https://music.apple.com/us/song/do-navazi-e-delkash-6/1798590233 · https://open.spotify.com/track/0BcOsblEgjrxKu6G2ggfFe
+- mashgh-e-bist -o- haft (Qwfy2y6) · https://music.apple.com/us/song/mashgh-e-bist-o-haft/1798590018 · https://open.spotify.com/track/5VhGH6sZ0FpWFQvArftLPN
+- mashgh-e-dah (Q9gq7hj) · https://music.apple.com/us/song/mashgh-e-dah/1798590016 · https://open.spotify.com/track/6Q0EOfNGEsgeJ16j75vphO
+- آفتاب روشن: سوگنامه‌ای برای محمدرضا لطفی (Qhnsad6) · https://www.youtube.com/watch?v=b8eJ8urL1Vg
+- آن شهید - That Martyr (Qrk23xf) · https://www.youtube.com/watch?v=sGzbLUICPgU
+- باغ من، نغمه‌ی من (Q74343b) · https://www.youtube.com/watch?v=jHVqwqiaq9U
+- بخشی از دونوازی اصفهان- سنتور و تمبک- کنسرت آفتاب روشن (Qzrd3j6) · https://www.youtube.com/watch?v=u7uLTn-6oAo
+- برای #نیکا_شاکرمی #سارینا_اسماعیل_زاده (Q8vnfq4) · https://www.youtube.com/watch?v=LlFVIvmGoWk
+- ترانه‌ی اگه چشمونش ... - If Only Her Eyes (Qkq68a9) · https://www.youtube.com/watch?v=jMFj6TTZpIw
+- تصنیف «آفتابِ روشن» (Q8pk286) · https://music.apple.com/us/song/tasnif-luminous-sinshine/1773169696 · https://open.spotify.com/track/1CHQQhiT3smO32AFpoMc9w
+- تصنیف «یاد تو» (Qwaxanh) · https://music.apple.com/us/song/tasnif-your-memory/1773169880 · https://open.spotify.com/track/1s3YnUCcp2voNHREXuMiAB
+- تصنیف ابوعطا- گاه‌گاهی - Sometimes (Qjm6ka3) · https://www.youtube.com/watch?v=fYOaQ5v4GbI
+- تصنیف اصفهان، همچو چشم تو سیه - Dark As Your Eyes (Qrq6z3j) · https://www.youtube.com/watch?v=-x6dbevWf5w
+- تصنیف نوا   Tasnif e Nava (Qy3acsv) · https://www.youtube.com/watch?v=J-V2q2ssIvM
+- تصنیف کردبیات، شبی... - One Night (Qkc728w) · https://www.youtube.com/watch?v=n4cQre-Ra2w
+- تکنوازی، دونوازی سنتور و تمبک: آریا محافظ و سینا خشک بیجاری | شوشتری | زمستان ۱۴۰۰ (Qrpfrw7) · https://www.youtube.com/watch?v=zX0fdIltTUg
+- دختر من (Qa56gzw) · https://www.youtube.com/watch?v=BjhyUDOXDdw
+- درآمد دشتی سنتور- کنسرت همنوازان شیدا (Qt2bzfb) · https://www.youtube.com/watch?v=rGAdznN7Plg
+- درآمد همایون سنتور- کنسرت همنوازان شیدا (Q36z9tq) · https://www.youtube.com/watch?v=_H-LzGUDo2E
+- ستاره (Qzfk5zh) · https://www.youtube.com/watch?v=5NgN3tQvLdQ
+- شکوفان (Q2rztxe) · https://www.youtube.com/watch?v=tmrvtm0B-g0
+- ضربی گیلکی (Qtxez4g) · https://music.apple.com/us/song/zarbiye-gilaki/1773169698 · https://open.spotify.com/track/7LWuvaeapjxGeigVr2v1dn
+- عاشقانه‌ای در جنگ - Love Amid The War (Q5qf444) · https://www.youtube.com/watch?v=C5qA-dmMZvM
+- همایون‌شوشتری (Q45zrhq) · https://www.youtube.com/watch?v=YljDwINsPv0
+- چهارمضراب (Qrz3b7v) · https://music.apple.com/us/song/chaharmezrab/1773169695 · https://open.spotify.com/track/0Ck8v5GSmtiIUH8TUQ5qU0
+- کنسرت بزرگ همنوازان شیدا (Q6qtyyn)
+- کنسرت گروه موسیقی آن "از من نشان" (Qefcemq) · https://www.youtube.com/watch?v=rEje8g8uOBg
+- کنسرت گروه موسیقی آن"آفتاب روشن" (Qcvyvza) · https://www.youtube.com/watch?v=PpCt3n7vw_4
+- Santur Solo in Bayat-e Kord (Naghmeh Roshan concert) (Qw5qrz7) · https://www.youtube.com/watch?v=my2WUjPT4a4
+- Persian Santur Solo in Dastgāh-e Šur (Qxh4c9y) · https://www.youtube.com/watch?v=etlpAn1b91U
+- سه‌نوازی در دستگاه چهارگاه (Radio Mahoor, 2025) (Qdyydfn)
+
+The Radio Mahoor cue sheet names the first of its two broadcasts as a submitted trio recording on tar, santur and tombak. The entire episode is on Podbean and the exact work is documented by the original broadcaster.

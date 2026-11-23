@@ -1,0 +1,45 @@
+id: Q75s2vc
+type: event
+statements:
+  name:
+  - value:
+      text: Untempered – Ensemble Musikfabrik
+      language: en
+    references:
+    - source: www.musikfabrik.eu-de-kalender-untempered
+      quote: Sepidar Ensemble – Ensemble für klassische und zeitgenössische iranische Musik
+      accessed: 2026-11-22
+      locator: Presenter programme or eyewitness concert record
+  event date:
+  - value:
+      date: '2026-09-12'
+    references:
+    - source: www.musikfabrik.eu-de-kalender-untempered
+      quote: Sepidar Ensemble – Ensemble für klassische und zeitgenössische iranische Musik
+      accessed: 2026-11-22
+      locator: Presenter programme or eyewitness concert record
+  performer:
+  - value: Qm6w85y
+    references:
+    - source: www.musikfabrik.eu-de-kalender-untempered
+      quote: Sepidar Ensemble – Ensemble für klassische und zeitgenössische iranische Musik
+      accessed: 2026-11-22
+      locator: Presenter programme or eyewitness concert record
+  - value: Qmkhy5b
+    qualifiers:
+      role:
+      - tar
+    references:
+    - source: www.musikfabrik.eu-de-kalender-untempered
+      quote: Sepidar Ensemble – Ensemble für klassische und zeitgenössische iranische Musik
+      accessed: 2026-11-22
+      locator: Presenter programme or eyewitness concert record
+  - value: Qxwemnb
+    qualifiers:
+      role:
+      - ney
+    references:
+    - source: www.musikfabrik.eu-de-kalender-untempered
+      quote: Sepidar Ensemble – Ensemble für klassische und zeitgenössische iranische Musik
+      accessed: 2026-11-22
+      locator: Presenter programme or eyewitness concert record

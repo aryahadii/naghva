@@ -1,0 +1,60 @@
+id: Qfc98en
+type: release
+statements:
+  name:
+  - value:
+      text: Villager
+      language: en
+    references:
+    - source: music.apple.com-us-album-villager-single-1660220879
+      quote: Villager
+      accessed: 2026-11-21
+      locator: Track 1
+  performer:
+  - value: Qghhr4e
+    references:
+    - source: music.apple.com-us-album-villager-single-1660220879
+      quote: Villager - Single · Hucci, ASADI · 2019-03-15
+      accessed: 2026-11-21
+      locator: Album artist and issue date
+  listen link:
+  - value: https://music.apple.com/us/song/villager/1660220880
+    references:
+    - source: music.apple.com-us-album-villager-single-1660220879
+      quote: Villager
+      accessed: 2026-11-21
+      locator: Track 1
+  - value: https://music.apple.com/us/album/villager-single/1660220879
+    references:
+    - source: music.apple.com-us-album-villager-single-1660220879
+      quote: Villager - Single · Hucci, ASADI · 2019-03-15
+      accessed: 2026-11-21
+      locator: Album artist and issue date
+  - value: https://soundcloud.com/hucci/villager
+    references:
+    - source: soundcloud.com-hucci-villager
+      quote: Villager
+      accessed: 2026-11-22
+      locator: Authorized track in the artist’s own one-track set
+  release date:
+  - value:
+      date: '2019-03-15'
+    references:
+    - source: music.apple.com-us-album-villager-single-1660220879
+      quote: Villager
+      accessed: 2026-11-21
+      locator: Track 1
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-villager-single-1660220879
+      quote: Villager
+      accessed: 2026-11-21
+      locator: Track 1
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/61/3e/07/613e0773-a3e9-cf07-9401-fe30f3b1ee31/5000x5000-194155622177-0-0.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-villager-single-1660220879
+      quote: Villager
+      accessed: 2026-11-21
+      locator: Track 1

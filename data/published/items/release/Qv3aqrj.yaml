@@ -1,0 +1,94 @@
+id: Qv3aqrj
+type: release
+statements:
+  name:
+  - value:
+      text: 'Avâz-E Afshâri: Ney O Avâz (Asheqâm)'
+      language: en
+    references:
+    - &id001
+      source: music.apple.com-us-album-iran-music-of-the-qajar-era-848988435
+      quote: 'Avâz-E Afshâri: Ney O Avâz (Asheqâm) [feat. Pantea Alvandipour & Siamak Jahangiry]'
+      accessed: '2026-11-21'
+      locator: Original track and guests
+  - value:
+      text: 'Avâz-E Afshâri: Ney O Avâz (Asheqâm) [feat. Pantea Alvandipour & Siamak Jahangiry]'
+      language: en
+    references:
+    - source: siamak-jahangiri-ap848988435
+      quote: 'Avâz-E Afshâri: Ney O Avâz (Asheqâm) [feat. Pantea Alvandipour & Siamak Jahangiry]'
+      accessed: '2026-11-21'
+      locator: Track title and billing
+  performer:
+  - value: Qewdtv2
+    references:
+    - source: music.apple.com-us-album-iran-music-of-the-qajar-era-848988435
+      quote: Ensemble Delgosha
+      accessed: '2026-11-21'
+      locator: Artist credit
+  - value: Qnz4xnz
+    references:
+    - source: music.apple.com-us-album-iran-music-of-the-qajar-era-848988435
+      quote: Siamak Jahangiry
+      accessed: '2026-11-21'
+      locator: Original musician credit
+    qualifiers:
+      role: ney
+  - value: Qdbm253
+    references:
+    - source: music.apple.com-us-album-iran-music-of-the-qajar-era-848988435
+      quote: Pantea Alvandipour
+      accessed: '2026-11-21'
+      locator: Original musician credit
+    qualifiers:
+      role: vocals
+  - value: Qzrcmya
+    references:
+    - source: siamak-jahangiri-ap848988435
+      quote: Ensemble Delgosha
+      accessed: '2026-11-21'
+      locator: Distributor artist credit
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music/v4/94/e2/d5/94e2d599-6cb6-a06f-bbb4-0bb0ee43da45/cover.jpg/1200x630wp-60.jpg
+    references:
+    - source: music.apple.com-us-album-iran-music-of-the-qajar-era-848988435
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music/v4/94/e2/d5/94e2d599-6cb6-a06f-bbb4-0bb0ee43da45/cover.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Original digital cover
+    qualifiers:
+      credit:
+        text: INEDIT / Maison des Cultures du Monde
+        language: en
+  release date:
+  - value:
+      date: '2014-05-12'
+    references:
+    - source: music.apple.com-us-album-iran-music-of-the-qajar-era-848988435
+      quote: '2014-05-12'
+      accessed: '2026-11-21'
+      locator: First digital issue
+  listen link:
+  - value: https://music.apple.com/us/song/av%C3%A2z-e-afsh%C3%A2ri-ney-o-av%C3%A2z-asheq%C3%A2m-feat-pantea-alvandipour/848988822
+    references:
+    - *id001
+  - value: https://open.spotify.com/track/2pxXGl78m54WPNVJuMM1mQ
+    references:
+    - source: open.spotify.com-embed-album-3fpiw5hxltwwqfy1gw6hjs
+      quote: 'Avâz-E Afshâri: Ney O Avâz - Asheqâm'
+      accessed: '2026-11-21'
+      locator: Original Spotify track
+  - value: https://www.youtube.com/watch?v=9DyhSljVcKw
+    references:
+    - source: www.youtube.com-watch-v-9dyhsljvckw
+      quote: 'Avâz-E Afshâri: Ney O Avâz (Asheqâm) (feat. Pantea Alvandipour, Siamak Jahangiry)'
+      accessed: '2026-11-21'
+      locator: Original YouTube digital master
+  contributor:
+  - value: Qawnzay
+    references:
+    - source: qobuz-delgosha-iran-qajar-era
+      quote: Abolqâsem Lahuti Kermanshâhi, Writer
+      locator: Original edition credits, track 6
+      accessed: '2026-11-21'
+    qualifiers:
+      role: lyricist

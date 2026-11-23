@@ -1,0 +1,83 @@
+id: Q82b3mw
+type: release
+statements:
+  name:
+  - value:
+      text: Joz Aan Keh Ma Raa Intor Saakhteh
+      language: en
+    references:
+    - &id002
+      source: music.apple.com-us-album-joz-aan-keh-ma-raa-intor-saakhteh-1501964341
+      quote: Joz Aan Keh Ma Raa Intor Saakhteh
+      accessed: '2026-11-21'
+      locator: Distributor album title
+  - value:
+      text: جز آن که مرا اینطور ساخته
+      language: fa
+    references:
+    - source: musishen.com
+      quote: جز آن که مرا اینطور ساخته
+      accessed: '2026-11-21'
+      locator: Original Persian album title
+  release date:
+  - value:
+      date: '2011'
+    references:
+    - source: musishen.com
+      quote: '2011'
+      accessed: '2026-11-21'
+      locator: Artist discography, Joz Aan Keh Ma Raa Intor Saakhteh
+  performer:
+  - value: Qavhs3y
+    references:
+    - source: music.apple.com-us-album-joz-aan-keh-ma-raa-intor-saakhteh-1501964341
+      quote: Shen Band
+      accessed: '2026-11-21'
+      locator: Release billing
+  - value: Qec6smv
+    references:
+    - &id001
+      source: musishen.com
+      quote: write, compose, arrange, perform and produce seven collections
+      accessed: '2026-11-21'
+      locator: Artist biography, dated catalogue or interview
+  contributor:
+  - value: Qec6smv
+    references:
+    - *id001
+    qualifiers:
+      role:
+      - composer
+      - arranger
+      - producer
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6c/eb/9f/6ceb9fdb-ba81-7449-e1ac-d985f2a79b7b/195079006753.jpg/1200x630wp-60.jpg
+    references:
+    - source: music.apple.com-us-album-joz-aan-keh-ma-raa-intor-saakhteh-1501964341
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6c/eb/9f/6ceb9fdb-ba81-7449-e1ac-d985f2a79b7b/195079006753.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Original release cover
+    qualifiers:
+      credit:
+        text: Shen Band, Apple Music edition artwork
+        language: en
+  release type:
+  - value: album
+    references:
+    - *id002
+  listen link:
+  - value: https://music.apple.com/us/album/joz-aan-keh-ma-raa-intor-saakhteh/1501964341
+    references:
+    - *id002
+  - value: https://open.spotify.com/album/6pJ0ybOh6V2RXJEeoyCO52
+    references:
+    - source: open.spotify.com-embed-album-6pj0yboh6v2rxjeeoyco52
+      quote: Joz Aan Keh Ma Raa Intor Saakhteh
+      accessed: '2026-11-21'
+      locator: Spotify album
+  - value: https://www.youtube.com/playlist?list=OLAK5uy_nAGiE4Vn5lXUppAKvhWgU9opVyQ_q8y9Q
+    references:
+    - source: www.youtube.com-playlist-list-olak5uy_nagie4vn5lxuppakvhwgu9opvyq_q8y9q
+      quote: Joz Aan Keh Ma Raa Intor Saakhteh
+      accessed: '2026-11-21'
+      locator: Official digital album playlist

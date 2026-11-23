@@ -1,0 +1,63 @@
+id: Q9jnsep
+type: release
+statements:
+  name:
+  - value:
+      text: REBIRTH
+      language: en
+    references:
+    - source: music.apple.com-us-song-1806714949
+      quote: ‎REBIRTH - Song with Lyrics by Meshcut - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qh6s4f5
+    references:
+    - source: music.apple.com-us-song-1806714949
+      quote: ‎REBIRTH - Song with Lyrics by Meshcut - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://music.apple.com/us/song/1806714949
+    references:
+    - source: music.apple.com-us-song-1806714949
+      quote: ‎REBIRTH - Song with Lyrics by Meshcut - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/38ZkTRGqIeMjFHs5XX5miQ
+    references:
+    - source: open.spotify.com-track-38zktrgqiemjfhs5xx5miq
+      quote: REBIRTH - song and lyrics by Meshcut | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/meshcut/8b053819-72e6-4d96-923b-6826a5706da4
+    references:
+    - source: soundcloud.com-meshcut-8b053819-72e6-4d96-923b-6826a5706da4
+      quote: Stream REBIRTH by Meshcut | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://www.youtube.com/watch?v=-7pOou_JHAM
+    references:
+    - source: www.youtube.com-watch-v--7poou_jham
+      quote: Meshcut - REBIRTH
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/28/bd/87/28bd87ad-650d-1067-4466-f8f5c5a7cc4c/artwork.jpg/600x600bb.webp
+    references:
+    - source: music.apple.com-us-song-1806714949
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/28/bd/87/28bd87ad-650d-1067-4466-f8f5c5a7cc4c/artwork.jpg/600x600bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original recording artwork
+        language: en
+  release date:
+  - value:
+      date: '2025-03-30'
+    references:
+    - source: music.apple.com-us-song-1806714949
+      quote: March 30, 2025
+      accessed: '2026-11-21'
+      locator: Published date

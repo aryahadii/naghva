@@ -1,0 +1,81 @@
+id: Qsrsqsd
+type: release
+statements:
+  name:
+  - value:
+      text: When The sun Rises
+      language: en
+    references:
+    - source: kavehsarvarian.bandcamp.com-album-when-the-sun-rises
+      quote: When The sun Rises | Kaveh Sarvarian, Hames Bitar | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qy69pg7
+    references:
+    - source: kavehsarvarian.bandcamp.com-album-when-the-sun-rises
+      quote: When The sun Rises | Kaveh Sarvarian, Hames Bitar | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qtj7y5p
+    references:
+    - source: kavehsarvarian.bandcamp.com-album-when-the-sun-rises
+      quote: 'Hames Bitar: Oud'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: oud
+  release type:
+  - value: album
+    references:
+    - source: kavehsarvarian.bandcamp.com-album-when-the-sun-rises
+      quote: When The sun Rises | Kaveh Sarvarian, Hames Bitar | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  contributor:
+  - value: Qy69pg7
+    references:
+    - source: kavehsarvarian.bandcamp.com-album-when-the-sun-rises
+      quote: Record & Mix by Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: mixing engineer
+  listen link:
+  - value: https://kavehsarvarian.bandcamp.com/album/when-the-sun-rises
+    references:
+    - source: kavehsarvarian.bandcamp.com-album-when-the-sun-rises
+      quote: When The sun Rises | Kaveh Sarvarian, Hames Bitar | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/when-the-sun-rises/1680672439
+    references:
+    - source: music.apple.com-us-album-when-the-sun-rises-1680672439
+      quote: ‎When the Sun Rises - Album by Kaveh Sarvarian & Hames Bitar - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/album/0l7h6hTxg7o5FnZExqjjh9
+    references:
+    - source: open.spotify.com-album-0l7h6htxg7o5fnzexqjjh9
+      quote: Listen to When the Sun Rises - Album by Kaveh Sarvarian | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a0037080698_10.jpg
+    references:
+    - source: kavehsarvarian.bandcamp.com-album-when-the-sun-rises
+      quote: https://f4.bcbits.com/img/a0037080698_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Kaveh Sarvarian on Bandcamp
+        language: en
+  release date:
+  - value:
+      date: '2023-03-28'
+    references:
+    - source: kavehsarvarian.bandcamp.com-album-when-the-sun-rises
+      quote: released March 28, 2023
+      accessed: '2026-11-21'
+      locator: Published date

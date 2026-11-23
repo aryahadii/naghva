@@ -1,0 +1,38 @@
+id: Qqfjk4z
+type: act
+statements:
+  name:
+  - value:
+      text: Manushan
+      language: en
+    references:
+    - source: aa-e.org-en-artiste-mobasher-babak-amir-2
+      quote: Manushan
+      accessed: 2026-11-21
+      locator: Artist or ensemble billing
+  - value:
+      text: مانوشان
+      language: fa
+    references:
+    - source: kayhan.london-1395-01-11-38991
+      quote: گروه مانوشان
+      accessed: 2026-11-21
+      locator: Original group billing
+  image:
+  - value: https://aa-e.org/wp-content/uploads/2020/04/Aida-Nosrat_Babak-Amir-Mobasher-425x640.jpg
+    qualifiers:
+      credit:
+        text: Atelier des artistes en exil
+        language: en
+    references:
+    - source: aa-e.org-en-artiste-mobasher-babak-amir-2
+      quote: https://aa-e.org/wp-content/uploads/2020/04/Aida-Nosrat_Babak-Amir-Mobasher-425x640.jpg
+      accessed: 2026-11-21
+      locator: Original photograph and caption
+  profile link:
+  - value: https://music.apple.com/us/artist/manushan/387983564
+    references:
+    - source: music.apple.com-us-artist-manushan-387983564
+      quote: ‎Manushan - Apple Music
+      accessed: 2026-11-21
+      locator: Native artist profile

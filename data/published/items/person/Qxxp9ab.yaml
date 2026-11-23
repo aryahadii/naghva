@@ -1,0 +1,62 @@
+id: Qxxp9ab
+type: person
+statements:
+  name:
+  - value:
+      text: Natch Nadjafi
+      language: en
+    references:
+    - source: thedignitything.org-the-dignity-thing-2016-panelists
+      quote: Natch Nadjafi is an electronic musician from Iran
+      accessed: '2026-11-21'
+      locator: Artist bio
+  - value:
+      text: سعید نجفی
+      language: fa
+    references:
+    - source: events.kodoom.com-new-york-ny-the-plastic-wave-live-in-concert-27058-e
+      quote: سعید نجفی
+      accessed: '2026-11-21'
+      locator: Billed artist
+  member of:
+  - value: Qmdmc89
+    qualifiers:
+      role:
+      - guitar
+      - keyboards
+      - vocals
+    references:
+    - source: chris-cochrane.squarespace.com-gigs2-2015-3-3-music-freedom-day-at-spectrum
+      quote: Natch Nadjafi on guitar, keyboard, MIDI controller, and vocals
+      accessed: '2026-11-21'
+      locator: Performing lineup
+  profile link:
+  - value: https://natchnadjafi.bandcamp.com
+    references:
+    - source: natchnadjafi.bandcamp.com-music
+      quote: Music | Natch Nadjafi
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/natchnadjafi
+    references:
+    - source: soundcloud.com-natchnadjafi-tracks
+      quote: Stream Natch Nadjafi | Listen to music albums online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/artist/natch-nadjafi/1112385645
+    references:
+    - source: music.apple.com-us-artist-natch-nadjafi-1112385645
+      quote: ‎Natch Nadjafi - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  image:
+  - value: https://i1.sndcdn.com/avatars-6iYJls4XJGAGTK5X-RqPdig-t500x500.jpg
+    qualifiers:
+      credit:
+        text: Natch Nadjafi on SoundCloud
+        language: en
+    references:
+    - source: soundcloud.com-natchnadjafi-tracks
+      quote: https://i1.sndcdn.com/avatars-6iYJls4XJGAGTK5X-RqPdig-t500x500.jpg
+      accessed: '2026-11-21'
+      locator: Native artist portrait, visually checked against Bandcamp and the dance company playbill

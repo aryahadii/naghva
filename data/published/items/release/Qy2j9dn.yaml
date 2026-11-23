@@ -1,0 +1,49 @@
+id: Qy2j9dn
+type: release
+statements:
+  name:
+  - value:
+      text: از وقتی اومدی
+      language: fa
+    references:
+    - source: www.youtube.com-watchv-zpm4dxqz3ou
+      quote: از وقتی اومدی
+      accessed: '2026-11-21'
+      locator: Official upload title
+  performer:
+  - value: Qzhgpkw
+    references:
+    - source: www.youtube.com-watchv-zpm4dxqz3ou
+      quote: از وقتی اومدی
+      accessed: '2026-11-21'
+      locator: Official upload title
+    - source: www.youtube.com-watchv-zpm4dxqz3ou
+      quote: Babak Rajabi
+      accessed: '2026-11-21'
+      locator: Uploading artist
+  listen link:
+  - value: https://www.youtube.com/watch?v=zPm4dxQZ3OU
+    references:
+    - source: www.youtube.com-watchv-zpm4dxqz3ou
+      quote: از وقتی اومدی
+      accessed: '2026-11-21'
+      locator: Official upload title
+  release date:
+  - value:
+      date: '2019-03-16'
+    references:
+    - source: www.youtube.com-watchv-zpm4dxqz3ou
+      quote: '20190316'
+      accessed: '2026-11-21'
+      locator: Video publication date, YYYYMMDD
+  cover art:
+  - value: https://i.ytimg.com/vi/zPm4dxQZ3OU/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watchv-zpm4dxqz3ou
+      quote: https://i.ytimg.com/vi/zPm4dxQZ3OU/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Release image URL
+    qualifiers:
+      credit:
+        text: Babak Rajabi · YouTube
+        language: en

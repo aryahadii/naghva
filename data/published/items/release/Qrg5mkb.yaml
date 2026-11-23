@@ -1,0 +1,63 @@
+id: Qrg5mkb
+type: release
+statements:
+  name:
+  - value:
+      text: Raz O Niaz
+      language: en
+    references:
+    - source: music.apple.com-us-album-mehr-275174365
+      quote: Raz O Niaz
+      accessed: '2026-11-21'
+      locator: Release and track listing
+  performer:
+  - value: Qjwhj2t
+    references:
+    - source: music.apple.com-us-album-mehr-275174365
+      quote: Pouya Mahmoodi
+      accessed: '2026-11-21'
+      locator: Artist billing
+  listen link:
+  - value: https://music.apple.com/us/song/raz-o-niaz/275174417
+    references:
+    - source: music.apple.com-us-album-mehr-275174365
+      quote: https://music.apple.com/us/song/raz-o-niaz/275174417
+      accessed: '2026-11-21'
+      locator: Distributor permalink
+  - value: https://open.spotify.com/track/5kpHmIJLMFfJpSZXzdoqZo
+    references:
+    - source: open.spotify.com-embed-album-1vkhwhksoafdons5mhxmgt
+      quote: spotify:track:5kpHmIJLMFfJpSZXzdoqZo
+      accessed: '2026-11-21'
+      locator: Original Spotify tracklist
+  - value: https://soundcloud.com/pouyamahmoodi/raz-o-niaz
+    references:
+    - source: soundcloud.com-pouyamahmoodi-raz-o-niaz
+      quote: Stream Raz o Niaz by Pouya Mahmoodi | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Named SoundCloud recording
+  - value: https://www.youtube.com/watch?v=yXsMXlYHZ2Q
+    references:
+    - source: www.youtube.com-watch-v-yxsmxlyhz2q
+      quote: Pouya Mahmoodi - Raz o Niaz
+      accessed: '2026-11-21'
+      locator: Label upload title
+  release date:
+  - value:
+      date: '2008-02-19'
+    references:
+    - source: music.apple.com-us-album-mehr-275174365
+      quote: '2008-02-19'
+      accessed: '2026-11-21'
+      locator: Original issue date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music/31/05/9f/mzi.crkpqkxn.jpg/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Distributor artwork via Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-mehr-275174365
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music/31/05/9f/mzi.crkpqkxn.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Digital cover artwork

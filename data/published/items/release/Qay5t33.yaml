@@ -1,0 +1,53 @@
+id: Qay5t33
+type: release
+statements:
+  name:
+  - value:
+      text: Ey Zan
+      language: en
+    references:
+    - source: music.apple.com-us-album-ey-zan-single-1743527459
+      quote: Ey Zan
+      accessed: 2026-11-21
+      locator: Track listing
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/59/45/4d/59454d45-a27b-2647-9a1a-3d2e133be652/696693135558.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-ey-zan-single-1743527459
+      quote: Ey Zan - Single
+      accessed: 2026-11-21
+      locator: Release heading
+  release date:
+  - value:
+      date: '2024-04-25'
+    references:
+    - source: music.apple.com-us-album-ey-zan-single-1743527459
+      quote: '2024-04-25'
+      accessed: 2026-11-21
+      locator: Edition release date
+  performer:
+  - value: Qwh5yn8
+    references:
+    - source: music.apple.com-us-album-ey-zan-single-1743527459
+      quote: Ehsan Matoori
+      accessed: 2026-11-21
+      locator: Release artist
+  listen link:
+  - value: https://music.apple.com/us/album/ey-zan-single/1743527459
+    references:
+    - source: music.apple.com-us-album-ey-zan-single-1743527459
+      quote: Ey Zan
+      accessed: 2026-11-21
+      locator: Track listing
+  - value: https://music.apple.com/us/song/ey-zan/1743527460
+    references:
+    - source: music.apple.com-us-album-ey-zan-single-1743527459
+      quote: Ey Zan
+      accessed: 2026-11-21
+      locator: Track listing
+  - value: https://soundcloud.com/ehsan-matoori/ey-zan-1
+    references:
+    - source: soundcloud.com-ehsan-matoori-ey-zan-1
+      quote: Ey Zan
+      accessed: 2026-11-21
+      locator: Recording on the Ehsan Matoori profile

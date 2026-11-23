@@ -1,0 +1,32 @@
+id: Q9mqmeh
+type: release
+statements:
+  name:
+  - value:
+      text: ستاره Star  هورا میرشکاری
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-kx6pq-w-zfm
+      quote: ستاره Star  هورا میرشکاری
+      accessed: '2026-11-21'
+      locator: Performer or distributor original video
+  performer:
+  - value: Qpav8br
+    references:
+    - *id001
+  listen link:
+  - value: https://www.youtube.com/watch?v=kX6pQ-W-zFM
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/kX6pQ-W-zFM/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-kx6pq-w-zfm
+      quote: https://i.ytimg.com/vi/kX6pQ-W-zFM/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video artwork
+    qualifiers:
+      credit:
+        text: HURA
+        language: en

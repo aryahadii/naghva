@@ -1,0 +1,75 @@
+id: Q2z2cnd
+type: release
+statements:
+  name:
+  - value:
+      text: Allegro per il Ré  (Feats, Tony Levin, Markus Reuter)
+      language: en
+    references:
+    - source: quartetdiminished.bandcamp.com-album-deerand-2
+      quote: Allegro per il Ré  (Feats, Tony Levin, Markus Reuter)
+      accessed: 2026-11-21
+      locator: Track 7
+  release date:
+  - value:
+      date: '2024-09-19'
+    references:
+    - source: quartetdiminished.bandcamp.com-album-deerand-2
+      quote: released September 19, 2024
+      accessed: 2026-11-21
+      locator: Release date
+  performer:
+  - value: Qh8f5qv
+    references:
+    - source: quartetdiminished.bandcamp.com-album-deerand-2
+      quote: Quartet Diminished
+      accessed: 2026-11-21
+      locator: Release artist
+  - value: Q3waxf2
+    references:
+    - source: music.apple.com-us-song-1777140754
+      quote: ‎Allegro Per Il Ré (feat. Tony Levin, Markus Reuter, Ehsan Sadigh, Mazyar Younesi, Rouzbeh Fadavi & Soheil Peyghambari)
+        - Song with Lyrics by Quartet Diminished - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://quartetdiminished.bandcamp.com/track/allegro-per-il-r-feats-tony-levin-markus-reuter
+    references:
+    - source: quartetdiminished.bandcamp.com-album-deerand-2
+      quote: Allegro per il Ré  (Feats, Tony Levin, Markus Reuter)
+      accessed: 2026-11-21
+      locator: Track 7
+  - value: https://music.apple.com/us/song/allegro-per-il-r%C3%A9-feat-tony-levin-markus-reuter/1777140754
+    references:
+    - source: music.apple.com-us-album-deerand-feat-markus-reuter-ehsan-sadigh-mazyar-younesi-1777140747
+      quote: Allegro Per Il Ré (feat. Tony Levin, Markus Reuter, Ehsan Sadigh, Mazyar Younesi, Rouzbeh Fadavi & Soheil Peyghambari)
+      accessed: '2026-11-21'
+      locator: Album track 7
+  - value: https://open.spotify.com/track/2narM2RyOPkbKQuAoD96in
+    references:
+    - source: open.spotify.com-embed-album-4elrzwcxhhdw5swyjtlrsy
+      quote: Allegro Per Il Ré
+      accessed: '2026-11-21'
+      locator: Album track 7
+  - value: https://music.apple.com/us/song/1777140754
+    references:
+    - source: music.apple.com-us-song-1777140754
+      quote: ‎Allegro Per Il Ré (feat. Tony Levin, Markus Reuter, Ehsan Sadigh, Mazyar Younesi, Rouzbeh Fadavi & Soheil Peyghambari)
+        - Song with Lyrics by Quartet Diminished - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a0364494878_2.jpg
+    references:
+    - source: quartetdiminished.bandcamp.com-album-deerand-2
+      quote: Deerand
+      accessed: 2026-11-21
+      locator: Release title
+    - source: quartetdiminished.bandcamp.com-album-deerand-2
+      quote: Album cover photo by Farnood/SipaPress.
+      accessed: 2026-11-21
+      locator: Album credits
+    qualifiers:
+      credit:
+        text: Farnood/SipaPress
+        language: en

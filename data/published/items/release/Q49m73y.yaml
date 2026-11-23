@@ -1,0 +1,32 @@
+id: Q49m73y
+type: release
+statements:
+  name:
+  - value:
+      text: Chiconcanario, IRÁN y MÉXICO
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-qpzbist13qk
+      quote: Chiconcanario, IRÁN y MÉXICO
+      accessed: '2026-11-21'
+      locator: Music credited by musician or performance publisher
+  performer:
+  - value: Qqb9bnx
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/QPZBist13qk/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-qpzbist13qk
+      quote: https://i.ytimg.com/vi/QPZBist13qk/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video frame
+    qualifiers:
+      credit:
+        text: Mehdi Moshtagh
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=QPZBist13qk
+    references:
+    - *id001

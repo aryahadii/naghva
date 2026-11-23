@@ -1,0 +1,66 @@
+id: Qn8j2rg
+type: release
+statements:
+  name:
+  - value:
+      text: Ashes of Dream
+      language: en
+    references:
+    - source: music.apple.com-us-album-ashes-of-dream-1789189948
+      quote: Ashes of Dream
+      accessed: 2026-11-21
+      locator: Album title, performer and edition details
+  - value:
+      text: خاکستر خیال
+      language: fa
+    references:
+    - source: youtu.be-yv2dad-g-9c
+      quote: خاکستر خیال
+      accessed: 2026-11-21
+      locator: Ensemble release announcement and album credits
+  performer:
+  - value: Qp87qx7
+    references:
+    - source: music.apple.com-us-album-ashes-of-dream-1789189948
+      quote: Ân Trio Ensemble
+      accessed: 2026-11-21
+      locator: Album title, performer and edition details
+  - value: Q3v55f7
+    qualifiers:
+      role:
+      - kamancheh
+      - double bass
+    references:
+    - source: youtu.be-yv2dad-g-9c
+      quote: 'Kourosh Babaei: Kamancheh, Double Bass'
+      accessed: 2026-11-21
+      locator: Ensemble release announcement and album credits
+  release date:
+  - value:
+      date: '2024-12-24'
+    references:
+    - source: music.apple.com-us-album-ashes-of-dream-1789189948
+      quote: December 24, 2024
+      accessed: 2026-11-21
+      locator: Album title, performer and edition details
+  release type:
+  - value: album
+    references:
+    - source: youtu.be-yv2dad-g-9c
+      quote: Release of the Album
+      accessed: 2026-11-21
+      locator: Ensemble release announcement and album credits
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/13/69/5b/13695b3d-db62-4f64-3d47-f7c74b17b6c6/5063642430876_cover.jpg/1200x630wp-60.jpg
+    references:
+    - source: music.apple.com-us-album-ashes-of-dream-1789189948
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/13/69/5b/13695b3d-db62-4f64-3d47-f7c74b17b6c6/5063642430876_cover.jpg/1200x630wp-60.jpg
+      accessed: 2026-11-21
+      locator: Album title, performer and edition details
+  listen link:
+  - value: https://music.apple.com/us/album/ashes-of-dream/1789189948
+    references:
+    - source: music.apple.com-us-album-ashes-of-dream-1789189948
+      quote: Ashes of Dream
+      accessed: 2026-11-21
+      locator: Album title, performer and edition details

@@ -1,0 +1,51 @@
+id: Qqftjks
+type: release
+statements:
+  name:
+  - value:
+      text: Miravi
+      language: en
+    references:
+    - source: music.apple.com-us-album-tahdig-1386951010
+      quote: Miravi
+      accessed: '2026-11-21'
+      locator: Album track listing
+  performer:
+  - value: Qj92kqa
+    references:
+    - source: music.apple.com-us-album-tahdig-1386951010
+      quote: Mitra Sumara
+      accessed: '2026-11-21'
+      locator: Album artist
+  release date:
+  - value:
+      date: '2018-06-08'
+    references:
+    - source: music.apple.com-us-album-tahdig-1386951010
+      quote: '2018-06-08'
+      accessed: '2026-11-21'
+      locator: Release metadata
+  listen link:
+  - value: https://music.apple.com/us/song/miravi/1386951683
+    references:
+    - source: music.apple.com-us-album-tahdig-1386951010
+      quote: Miravi
+      accessed: '2026-11-21'
+      locator: Album track listing
+  - value: https://open.spotify.com/track/0bNnMlluagSa0naI6wA5rR
+    references:
+    - source: open.spotify.com-album-0kx975wwn6lvxzf9asmtcg
+      quote: Miravi
+      accessed: '2026-11-21'
+      locator: Album track listing
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/3f/0b/a0/3f0ba064-ba5a-c2a1-9993-bb98cff9bb29/881626517369_cover.jpg/632x632bb-60.jpg
+    references:
+    - source: music.apple.com-us-album-tahdig-1386951010
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/3f/0b/a0/3f0ba064-ba5a-c2a1-9993-bb98cff9bb29/881626517369_cover.jpg/632x632bb-60.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork image
+    qualifiers:
+      credit:
+        text: Persian Cardinal Recordings, via Apple Music
+        language: en

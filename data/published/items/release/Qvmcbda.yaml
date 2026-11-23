@@ -1,0 +1,63 @@
+id: Qvmcbda
+type: release
+statements:
+  name:
+  - value:
+      text: Hush
+      language: en
+    references:
+    - source: music.apple.com-us-album-azeri-baby-ep-1649747803
+      quote: Hush
+      locator: Track 5
+      accessed: '2026-11-21'
+  performer:
+  - value: Qxmhx58
+    references:
+    - source: music.apple.com-us-album-azeri-baby-ep-1649747803
+      quote: Marie Sahba
+      locator: Primary release artist
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2022-10-25'
+    references:
+    - source: music.apple.com-us-album-azeri-baby-ep-1649747803
+      quote: '2022-10-25'
+      locator: Edition date
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/86/14/7a/86147a24-815f-80cb-2ebb-37731eb9893f/107653.jpg/632x632bb-60.jpg
+    references:
+    - source: music.apple.com-us-album-azeri-baby-ep-1649747803
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/86/14/7a/86147a24-815f-80cb-2ebb-37731eb9893f/107653.jpg/632x632bb-60.jpg
+      locator: Apple Music release artwork
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Azeri Baby · Apple Music
+        language: en
+  listen link:
+  - value: https://music.apple.com/us/song/hush/1649747929
+    references:
+    - source: music.apple.com-us-album-azeri-baby-ep-1649747803
+      quote: Hush
+      locator: Track 5
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/2XR3rvLvKNNU54r2cSjzNH
+    references:
+    - source: open.spotify.com-album-1x2hgfmfbl1lnlhsagceka
+      quote: Hush
+      locator: Track 5
+      accessed: '2026-11-21'
+  - value: https://mariesahba.bandcamp.com/track/hush
+    references:
+    - source: mariesahba.bandcamp.com-album-azeri-baby
+      quote: Hush
+      locator: Bandcamp track
+      accessed: '2026-11-21'
+  - value: https://soundcloud.com/mariesahba/hush-171021
+    references:
+    - source: soundcloud.com-mariesahba-hush-171021
+      quote: Hush
+      locator: Original SoundCloud upload
+      accessed: '2026-11-21'

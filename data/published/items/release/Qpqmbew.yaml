@@ -1,0 +1,37 @@
+id: Qpqmbew
+type: release
+statements:
+  name:
+  - value:
+      text: I + U
+      language: en
+    references:
+    - source: open.spotify.com-track-3wjr5cvce1ran90fj5u2ir
+      quote: I + U - song and lyrics by Hum Sa, Ali Gerami, Pouya Assadian, Arin Keshishi, Soheil Peyghambari | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Q3waxf2
+    references:
+    - source: open.spotify.com-track-3wjr5cvce1ran90fj5u2ir
+      quote: I + U - song and lyrics by Hum Sa, Ali Gerami, Pouya Assadian, Arin Keshishi, Soheil Peyghambari | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://open.spotify.com/track/3WJr5CVce1RaN90fJ5u2Ir
+    references:
+    - source: open.spotify.com-track-3wjr5cvce1ran90fj5u2ir
+      quote: I + U - song and lyrics by Hum Sa, Ali Gerami, Pouya Assadian, Arin Keshishi, Soheil Peyghambari | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d0000b27337fedd3cde8e2dd8eb02596d
+    references:
+    - source: open.spotify.com-track-3wjr5cvce1ran90fj5u2ir
+      quote: https://i.scdn.co/image/ab67616d0000b27337fedd3cde8e2dd8eb02596d
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Soheil Peyghambari on Spotify
+        language: en

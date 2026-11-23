@@ -1,0 +1,54 @@
+id: Qbx2hyh
+type: release
+statements:
+  name:
+  - value:
+      text: Berlin 2004 Live
+      language: en
+    references:
+    - source: music.apple.com-us-album-berlin-2004-live-319924076
+      quote: Berlin 2004 Live
+      accessed: 2026-11-21
+      locator: Album or track heading
+  listen link:
+  - value: https://music.apple.com/us/album/berlin-2004-live/319924076
+    references:
+    - source: music.apple.com-us-album-berlin-2004-live-319924076
+      quote: Berlin 2004 Live
+      accessed: 2026-11-21
+      locator: Album or track heading
+  - value: https://open.spotify.com/album/0yQPdgizbDH1JbxEmDNDrH
+    references:
+    - source: open.spotify.com-album-0yqpdgizbdh1jbxemdndrh
+      quote: Berlin 2004 Live
+      accessed: 2026-11-21
+      locator: Spotify release title
+  release date:
+  - value:
+      date: '2009-05-27'
+    references:
+    - source: music.apple.com-us-album-berlin-2004-live-319924076
+      quote: '2009-05-27'
+      accessed: 2026-11-21
+      locator: Digital publication date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music/d7/96/4a/mzi.ojomatux.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-berlin-2004-live-319924076
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music/d7/96/4a/mzi.ojomatux.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Native artwork
+  release type:
+  - value: live album
+    references:
+    - source: music.apple.com-us-album-berlin-2004-live-319924076
+      quote: Berlin 2004 Live
+      accessed: 2026-11-21
+      locator: Album or track heading
+  performer:
+  - value: Qxyr3j2
+    references:
+    - source: music.apple.com-us-album-berlin-2004-live-319924076
+      quote: Darya Dadvar
+      accessed: 2026-11-21
+      locator: Edition artist

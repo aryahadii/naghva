@@ -1,0 +1,32 @@
+id: Qqx53br
+type: release
+statements:
+  name:
+  - value:
+      text: Setar Persa en Ex-convento de San Francisco
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-8wfetfnu0i0
+      quote: Setar Persa en Ex-convento de San Francisco
+      accessed: '2026-11-21'
+      locator: Music credited by musician or performance publisher
+  performer:
+  - value: Qqb9bnx
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/8WFetFnu0I0/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-8wfetfnu0i0
+      quote: https://i.ytimg.com/vi/8WFetFnu0I0/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video frame
+    qualifiers:
+      credit:
+        text: Mehdi Moshtagh
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=8WFetFnu0I0
+    references:
+    - *id001

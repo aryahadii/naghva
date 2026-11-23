@@ -1,0 +1,113 @@
+# Pedram Khavarzamini
+
+The primary teacher interview and original 2015 university publication document his uncle and first percussion lessons. Koutah’s Tehran issue dates to 1999. Its Greek edition was issued in 2006 with nine numbered tracks: Koutah, Raayesh, Aarvin, Bovesh, Videsh, Boushehr, Vineh, Beh Yaad Rajabi and Sahesh. No authorised digital track URLs were verified for that physical album. The Etnisk label dates Zikr 2003 (EM13); Tombak Network gives 2004. The exact original and digital versions should be distinguished. Three Jon Balke albums have native label credits for tombak. Album-level ECM credits alone were not expanded to all tracks. His separate 2017 composition is individually documented. Previous capture also includes his credits with Araz Salek and This Tale of Ours, along with six contemporary Aria Mohafez/Salek items. Individual tracks from guest albums were assigned only where the distributor names him. The main portrait shows him sitting with his instrument on the publisher’s artist interview.
+
+- Pedram Khavarzamini at Tirgan Festival 2017 · https://www.youtube.com/watch?v=uERbTA6uERQ
+- Koutah · 
+- Dar khane aftab · 
+- Soor-va-soog · 
+- Dar gozar · 
+- Advar · https://music.apple.com/us/album/advar/1508384588 · https://open.spotify.com/album/4ZeLUiI1mcfYlDRXfjyeKd
+- Pishang · https://music.apple.com/us/song/pishang/1508384594 · https://open.spotify.com/track/07Mm5X34J7OHrYa9efo6yt
+- Sayeh · https://music.apple.com/us/song/sayeh/1508384599 · https://open.spotify.com/track/4OqmVcmOiBtZ58p1PRSNY8
+- Nyli · https://music.apple.com/us/song/nyli/1508384612 · https://open.spotify.com/track/40hnjkFwRhjD0fyUpARNP7
+- Advar · https://music.apple.com/us/song/advar/1508384864 · https://open.spotify.com/track/4KRbPfU8BVDxaSi70SUeW8
+- Kaj · https://music.apple.com/us/song/kaj/1508384871 · https://open.spotify.com/track/6DehZekH1ksNlADz2xSx06
+- Goriz · https://music.apple.com/us/song/goriz/1508384880 · https://open.spotify.com/track/17f8lHbJRC9mfjOQpPMzME
+- Dereng · https://music.apple.com/us/song/dereng/1508384883 · https://open.spotify.com/track/1rMT0XlawWkj44HTsqqwim
+- Qased · https://music.apple.com/us/song/qased/1508384956 · https://open.spotify.com/track/1pije3HBYIMKZ1Wz6HkAz5
+- Yad Bad (Live) · https://music.apple.com/us/album/tasnife-modamam-mast-feat-pedram-khavarzamini-live/1583246480 · https://open.spotify.com/album/2586p6WGVviqt83lpJJ6d1
+- Pish Daramade Nava - Live · https://music.apple.com/us/song/pish-daramade-nava-feat-pedram-khavarzamini-live/1583246492 · https://open.spotify.com/track/1rqXfUxNNcFtrOyfkr1kBa
+- Tasnife Modamam Mast - Live · https://music.apple.com/us/song/tasnife-modamam-mast-feat-pedram-khavarzamini-live/1583246780 · https://open.spotify.com/track/4ozZAL3CwVa2ACI3MUsyO1
+- Chahar Mezrabe Nava - Live · https://music.apple.com/us/song/chahar-mezrabe-nava-feat-pedram-khavarzamini-live/1583246790 · https://open.spotify.com/track/7EfS2LXSDsffz8Xib8SR8w
+- Tasnife Yad Bad - Live · https://music.apple.com/us/song/tasnife-yad-bad-feat-pedram-khavarzamini-live/1583247334 · https://open.spotify.com/track/27jdxqd0xwM9N67YS1N27J
+- Nuri Ze Koja - Live · https://music.apple.com/us/song/nuri-ze-koja-feat-pedram-khavarzamini-live/1583247568 · https://open.spotify.com/track/4RMDvE13oD26w9Oj88LBGh
+- Vafaye To · https://music.apple.com/us/album/vafaye-to-feat-pedram-khavarzamini-ali-ghanbari-single/1740799689 · https://open.spotify.com/album/2EKwDVW6Dch6g5f1T0qlTo · https://open.spotify.com/track/2KLLd37o6QMvxO2Tgq2F1s · https://music.apple.com/us/song/vafaye-to-feat-pedram-khavarzamini-ali-ghanbari/1740799695
+- So Faraway · https://music.apple.com/us/album/so-faraway-ep/1771053704 · https://open.spotify.com/album/3lglFncNRBDkXE3AUr4zWf
+- Segah · https://music.apple.com/us/song/segah/1771053705 · https://open.spotify.com/track/6WgkYMtx2ZP6yhUq00VAhC
+- Saravaz · https://music.apple.com/us/song/saravaz/1771053706 · https://open.spotify.com/track/2CedB65MCmggOwEDWc7lga
+- Zabol, Zarbi, Shekaste-Muye · https://music.apple.com/us/song/zabol-zarbi-shekaste-muye/1771053707 · https://open.spotify.com/track/6DsmFS7FYDeZcc9ujJlDpT
+- Mokhalef, Chaharmezrab, Yatim-Segah · https://music.apple.com/us/song/mokhalef-chaharmezrab-yatim-segah/1771053708 · https://open.spotify.com/track/2haEiRBo1f1Lk8fezs4AEL
+- Homayun, Zarbi-Khani, Hesar, Zang-E Shotor, Joghatayi Segah · https://music.apple.com/us/song/homayun-zarbi-khani-hesar-zang-e-shotor-joghatayi-segah/1771054099 · https://open.spotify.com/track/2lsCjfNpxHxX2tJ0AuiHVB
+- Reng · https://music.apple.com/us/song/reng/1771054100 · https://open.spotify.com/track/4bZyxCNln7b3u5rWFEACEN
+- Goosheh Gardân · https://music.apple.com/us/album/goosheh-gard%C3%A2n/1798590011 · https://open.spotify.com/album/5TAunSCMQixwS0TQhPLosI
+- Lozi (Rhomboid) · https://music.apple.com/us/song/lozi-rhomboid/1798590012 · https://open.spotify.com/track/1eg7WQabPYqDWFj6Ld5CtH
+- Bar Seh · https://music.apple.com/us/song/bar-seh/1798590013 · https://open.spotify.com/track/4J5T5QEXvs12qNl5X7l7bW
+- Do navazi-e-Segah · https://music.apple.com/us/song/do-navazi-e-segah/1798590014 · https://open.spotify.com/track/5JAv9sDKaYEG2ygqkIkGq0
+- Mashgh-e-hasht · https://music.apple.com/us/song/mashgh-e-hasht/1798590015 · https://open.spotify.com/track/0yfZkIB8Ahh60k7ccHe84e
+- mashgh-e-dah · https://music.apple.com/us/song/mashgh-e-dah/1798590016 · https://open.spotify.com/track/6Q0EOfNGEsgeJ16j75vphO
+- Do navazi-e- Afshari 35 · https://music.apple.com/us/song/do-navazi-e-afshari-35/1798590017 · https://open.spotify.com/track/2FOaq3PjOykJCTwMcQYN7W
+- mashgh-e-bist -o- haft · https://music.apple.com/us/song/mashgh-e-bist-o-haft/1798590018 · https://open.spotify.com/track/5VhGH6sZ0FpWFQvArftLPN
+- Do navazi-e- Afshari 10.5 · https://music.apple.com/us/song/do-navazi-e-afshari-10-5/1798590229 · https://open.spotify.com/track/62hUs80f8f4af63JC5NPrq
+- Mashgh-e-dovom SAMET · https://music.apple.com/us/song/mashgh-e-dovom-samet/1798590230 · https://open.spotify.com/track/7ci4B4pdzoCHK4SncfWUAy
+- Donavazi-e-bayat tork 14 · https://music.apple.com/us/song/donavazi-e-bayat-tork-14/1798590231 · https://open.spotify.com/track/4XUOJjgatvvOVb43MhRb0z
+- Khaneh · https://music.apple.com/us/song/khaneh/1798590232 · https://open.spotify.com/track/40JpbjDg12iwHyp5P5QTZw
+- do navazi-e-delkash 6 · https://music.apple.com/us/song/do-navazi-e-delkash-6/1798590233 · https://open.spotify.com/track/0BcOsblEgjrxKu6G2ggfFe
+- 24 Zarbi · https://music.apple.com/us/song/24-zarbi/1798590234 · https://open.spotify.com/track/3KlgzyPJNKku40vzjzJR2D
+- Donavazi-E-Dashti 6 · https://music.apple.com/us/song/donavazi-e-dashti-6/1798590235 · https://open.spotify.com/track/0WuCDl9zqKOKQUfAlkGzlo
+- Donavazi-E-Bayat Tork · https://music.apple.com/us/song/donavazi-e-bayat-tork/1798590236 · https://open.spotify.com/track/6CtQVcRap0PZR2xX82cEmj
+- Rasm-e Sheydayi · https://music.apple.com/us/album/sheydayi-feat-pedram-khavarzamini/1853913337 · https://open.spotify.com/album/149T4RtA05r4xXORnVXzSj
+- Ashub · https://music.apple.com/us/song/ashub-feat-pedram-khavarzamini/1853913338 · https://open.spotify.com/track/4wMz8XDVQMfrVuWBr8xxK6
+- Maryam Jan · https://music.apple.com/us/song/maryam-jan-feat-pedram-khavarzamini/1853913339 · https://open.spotify.com/track/057BwHf5OuiZtUuWD2Bn6J
+- Heyrani · https://music.apple.com/us/song/heyrani-feat-pedram-khavarzamini/1853913341 · https://open.spotify.com/track/09h5lMn39QHy4uWUJndIov
+- Banu Jan · https://music.apple.com/us/song/banu-jan-feat-pedram-khavarzamini/1853913342 · https://open.spotify.com/track/0oIIk73JkLyBIQcO5Pt6NC
+- Goli Jan · https://music.apple.com/us/song/goli-jan-feat-pedram-khavarzamini/1853913343 · https://open.spotify.com/track/3hKYF8WQDf7wSfnQbOODXb
+- Showq · https://music.apple.com/us/song/showq-feat-pedram-khavarzamini/1853913345 · https://open.spotify.com/track/42r4Abs8JYr1FcCiKYpFFD
+- Dude Oud · https://music.apple.com/us/song/dude-oud-feat-pedram-khavarzamini/1853913347 · https://open.spotify.com/track/6Bm1eKPQYlQJHvP0qYTcEB
+- Ami Deter · https://music.apple.com/us/song/ami-deter-feat-pedram-khavarzamini/1853913349 · https://open.spotify.com/track/4Ebp4dLGlHJtn7fpjpKn6w
+- Sheydayi · https://music.apple.com/us/song/sheydayi-feat-pedram-khavarzamini/1853913350 · https://open.spotify.com/track/0MOIO9z9TXEkdHNp7kDbjA
+- Jane Hazin · https://music.apple.com/us/album/jane-hazin/1858465428 · https://open.spotify.com/album/2RqDi8v4BMD12zCzSKbxFN
+- Char Mezrabe Nava · https://music.apple.com/us/song/char-mezrabe-nava/1858465429 · https://open.spotify.com/track/1v8DUbp82Cz1wK3YW1iKSR
+- Pish Daramade Aboata · https://music.apple.com/us/song/pish-daramade-aboata/1858465430 · https://open.spotify.com/track/2uh8zyQWD4JCFjGz3wxTXd
+- Yadmane 95 - In memory of maestro Mohammadreza Lotfi · https://music.apple.com/us/song/yadmane-95-in-memory-of-maestro-mohammadreza-lotfi/1858465433 · https://open.spotify.com/track/0EqLfqF3PkqNR6t3zZaMC6
+- Yadmane 94 · https://music.apple.com/us/song/yadmane-94/1858465434 · https://open.spotify.com/track/0jBqpAzgtyRYXS6g8nSvWK
+- Yadmane 93 · https://music.apple.com/us/song/yadmane-93/1858465435 · https://open.spotify.com/track/7tcvadb4mwDnP6uOyhmIev
+- Char Mezrabe Ashob · https://music.apple.com/us/song/char-mezrabe-ashob/1858465436 · https://open.spotify.com/track/1CUrFjGtX0lTEU6XUnXNuR
+- Chand Mezrabe Bidad · https://music.apple.com/us/song/chand-mezrabe-bidad/1858465443 · https://open.spotify.com/track/6EHoc1CrgU3ZpbPFx5ZCAb
+- Jane Hazin · https://music.apple.com/us/song/jane-hazin/1858465636 · https://open.spotify.com/track/1EHKxSTT3UDT4dJjA4Pruj
+- AS IF · https://music.apple.com/us/album/as-if-ep/6822217334 · https://open.spotify.com/album/71epgc96MwXxm38leR59NS · https://open.spotify.com/track/2y8DLaoy0gesbR6FOHKrBu · https://music.apple.com/us/song/as-if/6822217336
+- Improvisations with Bashir · https://music.apple.com/us/album/improvisations-with-bashir/694739566 · https://open.spotify.com/album/1iobz9GhHskKSfVwurHfws
+- Lullaby for Little Scheherazade · https://music.apple.com/us/song/lullaby-for-little-scheherazade/694739802 · https://open.spotify.com/track/7m3d1WbhFmup1e5eLFtqiE
+- Dream of Reasons · https://music.apple.com/us/song/dream-of-reasons/694739855 · https://open.spotify.com/track/3L1iAqzDzdbKVjy19KNqHY
+- Baghdad Butterflies · https://music.apple.com/us/song/baghdad-butterflies/694739899 · https://open.spotify.com/track/1hEmbIja1mmYOdSLGU0GaE
+- Songs of Hope · https://payamyousefi.bandcamp.com/album/songs-of-hope · https://music.apple.com/us/album/songs-of-hope/1788065937 · https://open.spotify.com/album/2SqpGe90Vi3aEjQlcFvhui
+- Shackles and Mercy · https://payamyousefi.bandcamp.com/track/shackles-and-mercy · https://music.apple.com/us/song/shackles-and-mercy/1788065938 · https://open.spotify.com/track/2gph8Q3Romnwie22yUlm5A
+- Songs of Hope · https://payamyousefi.bandcamp.com/track/songs-of-hope · https://music.apple.com/us/song/songs-of-hope/1788065939 · https://open.spotify.com/track/0pRDZzIxYg3muiddgmuKTk
+- Compassion Chants · https://payamyousefi.bandcamp.com/track/compassion-chants · https://music.apple.com/us/song/compassion-chants/1788065940 · https://open.spotify.com/track/31uKDAq7HkDrV7bMPgcdrQ
+- Emerald's Dance · https://payamyousefi.bandcamp.com/track/emeralds-dance · https://music.apple.com/us/song/emeralds-dance/1788065941 · https://open.spotify.com/track/3XdtEeIIL3L80DBTfWqe6Y
+- The Alchemist's Voice · https://payamyousefi.bandcamp.com/track/the-alchemists-voice · https://music.apple.com/us/song/the-alchemists-voice/1788065942 · https://open.spotify.com/track/1ddbQ6W9C6qj5h5XmPPh09
+- Journey of Passage · https://payamyousefi.bandcamp.com/track/journey-of-passage · https://music.apple.com/us/song/journey-of-passage/1788065943 · https://open.spotify.com/track/7ukRSShxkEx7V7SpWuCfrz
+- Enchanted · https://payamyousefi.bandcamp.com/track/enchanted · https://music.apple.com/us/song/enchanted/1788065944 · https://open.spotify.com/track/335gZf4hgMauK67bLk5K3I
+- Euphoric · https://payamyousefi.bandcamp.com/track/euphoric · https://music.apple.com/us/song/euphoric/1788065945 · https://open.spotify.com/track/1JueFZubeQT74ZzyzUHE3n
+- Awaiting Union · https://payamyousefi.bandcamp.com/track/awaiting-union · https://music.apple.com/us/song/awaiting-union/1788065946 · https://open.spotify.com/track/2fKTF400xuRetmgtyxH7RP
+- Reng Chahargah, Shahnazi · https://payamyousefi.bandcamp.com/track/reng-chahargah-shahnazi · https://music.apple.com/us/song/reng-chahargah-shahnazi/1788065947 · https://open.spotify.com/track/5YgfLwpgsYueCXFpr3OS2g
+- Travellers, Musicians and Other Stories · https://sinasalimi.bandcamp.com/album/travellers-musicians-and-other-stories · https://music.apple.com/us/album/travellers-musicians-and-other-stories/1889276824 · https://open.spotify.com/album/2Q2sDehuuCdg96LfyiI4qs
+- Trapezoid · https://sinasalimi.bandcamp.com/track/trapezoid · https://music.apple.com/us/song/trapezoid/1889276830 · https://open.spotify.com/track/0o4UY3aDNORJWhm4KWWiag
+- Siwan - Hafla · https://music.apple.com/us/album/siwan-hafla/1611606066 · https://open.spotify.com/album/7BO3asuy8kgMYjhqHXFcAd
+- Siwan - Nahnou Houm · https://music.apple.com/us/album/siwan-nahnou-houm/1442291803 · https://open.spotify.com/album/44WtDhfq2qFqEKYBWBwzWu
+- ZemZemeh · https://music.apple.com/us/song/zemzemeh/1442292572 · https://open.spotify.com/track/2MyeI5GB4YibTWSWLQ0Uug
+- Siwan · https://music.apple.com/us/album/siwan/1442860175 · https://open.spotify.com/album/6zpxjckkFZRINm5R685Ir3
+- Zikr · https://music.apple.com/us/album/zikr/1442840752 · https://open.spotify.com/album/1CiQGa2XpU3rtLfYlcFmFS
+- Zikr · https://music.apple.com/us/song/zikr/1442840777 · https://open.spotify.com/track/1T0fcGe61j599bj9WDB6yy
+- Ro'ya · https://music.apple.com/us/song/roya/1442840956 · https://open.spotify.com/track/4yc698cstbNjyuvDXa61UQ
+- Sahar · https://music.apple.com/us/song/sahar/1442840980 · https://open.spotify.com/track/3g73jKpGFzJNCLQRXVFuXy
+- Ashna · https://music.apple.com/us/song/ashna/1442841058 · https://open.spotify.com/track/28Xs6riEFNDd16zRDrmzf4
+- Roud · https://music.apple.com/us/song/roud/1442841195 · https://open.spotify.com/track/4V4mMdmadZQzMNgcLytM9p
+- Dourdast · https://music.apple.com/us/song/dourdast/1442841210 · https://open.spotify.com/track/5ydCG0Ig0JgNjupa8796cb
+- Badeban · https://music.apple.com/us/song/badeban/1442841434 · https://open.spotify.com/track/3qq9wtBA0QlvZjNCqQlsCe
+- Savar · https://music.apple.com/us/song/savar/1442841441 · https://open.spotify.com/track/7DoUxTZ3u2tcaB83zuk9Zn
+- Solo Tonbak · https://music.apple.com/us/song/solo-tonbak/1442841445 · https://open.spotify.com/track/5ceRYp8fv1Bc3XCt4dMrZD
+- Naqous · https://music.apple.com/us/song/naqous/1442841457 · https://open.spotify.com/track/4RA0cWpYStOhSvyJk0iyYI
+- Yadegar · https://music.apple.com/us/song/yadegar/1442841824 · https://open.spotify.com/track/7pYHZUIIwHnrFJO3dmRKvE
+- Intro Saba · https://music.apple.com/us/song/intro-saba/1442841834 · https://open.spotify.com/track/18YnIfwHOGBIB1uvoqiU3b
+- Saba · https://music.apple.com/us/song/saba/1442841846 · https://open.spotify.com/track/1d4B49PPP2gmnXxYGoMA3t
+- Iris · https://open.spotify.com/album/0czoRWLlSUspMTYhfggTyj
+
+The title performance of Jan-e Hazin was published in 2023, two years before its parent album. Davoudi’s Telegram expressly states an album launch and publication at Roudaki Hall on 25 Aban 1404 (16 November 2025), six days ahead of the November 22 international storefront. A further concert film, native SoundCloud performance recorded in fall 2016 and the following album appearances were added.
+
+Both Kelly Thoma album credits are from her discography. The guest appearances on Ross Daly’s The Other Side were verified against the CD personnel printed by Thoma, including Araz Salek on tar. Individual tracks were not assigned from album-level credits.
+- Anamkhara · https://kellythoma.bandcamp.com/album/anamkhara · https://music.apple.com/us/album/anamkhara/587749476 · https://open.spotify.com/album/0e7ct6CwNQsJvAXehRSQ5t
+- 7Fish · https://kellythoma.bandcamp.com/album/7fish · https://music.apple.com/us/album/7-fish/954964695 · https://open.spotify.com/album/5EBvRqjfNFmCDumLQBKRVj
+- the other side · https://rossdaly.bandcamp.com/album/the-other-side · https://music.apple.com/us/album/the-other-side/923004864 · https://open.spotify.com/album/0BELDQsar6LqiV3gHXnTU4
+- دور · https://soundcloud.com/siavashimanitar/okylxrtlwj71
+- آئین رونمایی از آلبوم جان حزین · https://www.youtube.com/watch?v=EaurmcF94eE

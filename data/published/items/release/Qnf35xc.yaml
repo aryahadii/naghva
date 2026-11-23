@@ -1,0 +1,67 @@
+id: Qnf35xc
+type: release
+statements:
+  name:
+  - value:
+      text: بداهه‌ای کوتاه!
+      language: fa
+    references:
+    - source: www.youtube.com-watch-v-hud9pqteopq
+      quote: بداهه‌ای کوتاه!
+      accessed: '2026-11-21'
+      locator: Native YouTube title
+  performer:
+  - value: Qyrsg2f
+    references:
+    - source: www.youtube.com-watch-v-hud9pqteopq
+      quote: بداهه‌ای کوتاه!
+      accessed: '2026-11-21'
+      locator: Native YouTube title
+    - source: www.youtube.com-watch-v-hud9pqteopq
+      quote: kiyarash davoudi
+      accessed: '2026-11-21'
+      locator: Original uploader
+  listen link:
+  - value: https://www.youtube.com/watch?v=huD9PQtEoPQ
+    references:
+    - source: www.youtube.com-watch-v-hud9pqteopq
+      quote: بداهه‌ای کوتاه!
+      accessed: '2026-11-21'
+      locator: Native YouTube title
+    - source: www.youtube.com-watch-v-hud9pqteopq
+      quote: kiyarash davoudi
+      accessed: '2026-11-21'
+      locator: Original uploader
+  - value: https://t.me/kiyarashdavoudi/227
+    references:
+    - source: t.me-kiyarashdavoudi-227
+      quote: 'بداهه‌ای کوتاه! تکنواز سنتور: کیارش داودی @kiyarashdavoudi'
+      accessed: '2026-11-21'
+      locator: Original channel caption for this recording
+    - source: t.me-kiyarashdavoudi-227
+      quote: کیارش داودی | KiyarashDavoudi
+      accessed: '2026-11-21'
+      locator: Artist publishing channel
+  cover art:
+  - value: https://i.ytimg.com/vi/huD9PQtEoPQ/hqdefault.jpg
+    qualifiers:
+      credit:
+        text: Kiyarash Davoudi on YouTube
+        language: en
+    references:
+    - source: www.youtube.com-watch-v-hud9pqteopq
+      quote: https://i.ytimg.com/vi/huD9PQtEoPQ/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Official video thumbnail
+    - source: www.youtube.com-watch-v-hud9pqteopq
+      quote: kiyarash davoudi
+      accessed: '2026-11-21'
+      locator: Original uploader
+  release date:
+  - value:
+      date: '2024-05-03'
+    references:
+    - source: www.youtube.com-watch-v-hud9pqteopq
+      quote: '2024-05-03'
+      accessed: '2026-11-21'
+      locator: Official YouTube channel feed, upload date

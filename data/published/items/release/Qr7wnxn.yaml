@@ -1,0 +1,67 @@
+id: Qr7wnxn
+type: release
+statements:
+  name:
+  - value:
+      text: Whirlpool
+      language: en
+    references:
+    - source: music.apple.com-us-album-continu-355461063
+      quote: Whirlpool (Gharghab)
+      accessed: 2026-11-21
+      locator: Native digital track order
+  - value:
+      text: غرقاب
+      language: fa
+    references:
+    - source: negarbouban.bandcamp.com-album-continu
+      quote: Whirlpool (غرقاب)
+      accessed: 2026-11-21
+      locator: Bandcamp track
+  performer:
+  - value: Qtqjb47
+    references:
+    - source: music.apple.com-us-album-continu-355461063
+      quote: Whirlpool (Gharghab)
+      accessed: 2026-11-21
+      locator: Native digital track order
+  listen link:
+  - value: https://music.apple.com/us/song/whirlpool-gharghab/355461083
+    references:
+    - source: music.apple.com-us-album-continu-355461063
+      quote: Whirlpool (Gharghab)
+      accessed: 2026-11-21
+      locator: Native digital track order
+  - value: https://negarbouban.bandcamp.com/track/whirlpool
+    references:
+    - source: negarbouban.bandcamp.com-album-continu
+      quote: Whirlpool (غرقاب)
+      accessed: 2026-11-21
+      locator: Bandcamp track
+  - value: https://open.spotify.com/track/21KqMgN6orCDdJT8pOp9R6
+    references:
+    - source: open.spotify.com-album-7kkujleygxm7dwczgalo9d
+      quote: Gouffre
+      accessed: 2026-11-21
+      locator: Spotify track billing
+  - value: https://youtu.be/-hRp4bR4IUM
+    references:
+    - source: youtu.be--hrp4br4ium
+      quote: Gouffre
+      accessed: 2026-11-21
+      locator: Track in artist-linked playlist
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music/65/cb/0b/mzi.cbvhqwhg.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-continu-355461063
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music/65/cb/0b/mzi.cbvhqwhg.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Digital artwork
+  release date:
+  - value:
+      date: '2010-01-12'
+    references:
+    - source: music.apple.com-us-album-continu-355461063
+      quote: '2010-01-12'
+      accessed: 2026-11-21
+      locator: Digital edition date

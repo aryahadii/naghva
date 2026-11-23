@@ -1,0 +1,41 @@
+id: Q4sfv5y
+type: release
+statements:
+  name:
+  - value:
+      text: Man Ham
+      language: en
+    references:
+    - source: music.apple.com-us-album-man-ham-single-1569166966
+      quote: Man Ham
+      accessed: 2026-11-21
+      locator: Edition or recording title
+  performer:
+  - value: Qgxh3d9
+    references:
+    - source: music.apple.com-us-album-man-ham-single-1569166966
+      quote: Faravaz
+      accessed: 2026-11-21
+      locator: Digital credits
+  listen link:
+  - value: https://music.apple.com/us/song/man-ham/1569166973
+    references:
+    - source: music.apple.com-us-album-man-ham-single-1569166966
+      quote: Man Ham
+      accessed: 2026-11-21
+      locator: Edition or recording title
+  release date:
+  - value:
+      date: '2021-05-28'
+    references:
+    - source: music.apple.com-us-album-man-ham-single-1569166966
+      quote: '2021-05-28'
+      accessed: 2026-11-21
+      locator: Digital edition date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/3b/56/27/3b562702-d62b-4577-6b08-3b773cfab692/859748037010_cover.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-man-ham-single-1569166966
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/3b/56/27/3b562702-d62b-4577-6b08-3b773cfab692/859748037010_cover.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Digital edition artwork

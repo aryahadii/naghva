@@ -1,0 +1,63 @@
+id: Qavhs3y
+type: act
+statements:
+  name:
+  - value:
+      text: Shen Band
+      language: en
+    references:
+    - &id001
+      source: musishen.com
+      quote: Shen Band
+      accessed: '2026-11-21'
+      locator: Artist biography, dated catalogue or interview
+  - value:
+      text: گروه شن
+      language: fa
+    references:
+    - source: www.youtube.com-watch-v-o3c9vdqpq3y
+      quote: گروه شن
+      accessed: '2026-11-21'
+      locator: Original Persian band credit
+  - value:
+      text: musiSHEN
+      language: en
+    references:
+    - source: musishen.com
+      quote: under the banner of musiSHEN
+      accessed: '2026-11-21'
+      locator: Artist biography, dated catalogue or interview
+  image:
+  - value: https://i.ytimg.com/vi/o3C9VDqPQ3Y/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-o3c9vdqpq3y
+      quote: https://i.ytimg.com/vi/o3C9VDqPQ3Y/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original channel photo
+    qualifiers:
+      credit:
+        text: Shen Band, original YouTube film
+        language: en
+  based in:
+  - value: Qh3ewz2
+    references:
+    - source: iranian.com-2017-09-07-shen-true-iranian-rock-band
+      quote: Montreal, Canada
+      accessed: '2026-11-21'
+      locator: Artist biography, dated catalogue or interview
+  profile link:
+  - value: https://music.apple.com/us/artist/shen-band/1227592957
+    references:
+    - *id001
+  - value: https://open.spotify.com/artist/1h7427ewr6QC3iBfzmwwq9
+    references:
+    - source: musishen.com
+      quote: https://open.spotify.com/artist/1h7427ewr6QC3iBfzmwwq9
+      accessed: '2026-11-21'
+      locator: Verified artist profile
+  - value: https://www.youtube.com/@musishen.official
+    references:
+    - source: musishen.com
+      quote: https://www.youtube.com/@musishen.official
+      accessed: '2026-11-21'
+      locator: Verified artist channel

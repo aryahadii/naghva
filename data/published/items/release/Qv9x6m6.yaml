@@ -1,0 +1,53 @@
+id: Qv9x6m6
+type: release
+statements:
+  name:
+  - value:
+      text: Eishan Ensemble Live at The Street Theatre Canberra
+      language: en
+    references:
+    - source: www.youtube.com-watch-v-bib1hhbr9me
+      quote: Eishan Ensemble Live at The Street Theatre Canberra
+      accessed: '2026-11-21'
+      locator: Video title
+  performer:
+  - value: Qhebfsp
+    references:
+    - source: www.youtube.com-watch-v-bib1hhbr9me
+      quote: Eishan
+      accessed: '2026-11-21'
+      locator: Title or published description
+  listen link:
+  - value: https://www.youtube.com/watch?v=BIB1hhbr9mE
+    references:
+    - source: www.youtube.com-watch-v-bib1hhbr9me
+      quote: Eishan Ensemble Live at The Street Theatre Canberra
+      accessed: '2026-11-21'
+      locator: Video title
+    - source: www.youtube.com-watch-v-bib1hhbr9me
+      quote: Hamed Sadeghi
+      accessed: '2026-11-21'
+      locator: Publishing channel
+  release date:
+  - value:
+      date: '2019-12-06'
+    references:
+    - source: www.youtube.com-watch-v-bib1hhbr9me
+      quote: '2019-12-06T20:59:39-08:00'
+      accessed: '2026-11-21'
+      locator: Upload date
+  cover art:
+  - value: https://i.ytimg.com/vi/BIB1hhbr9mE/maxresdefault.jpg
+    qualifiers:
+      credit:
+        text: Hamed Sadeghi on YouTube
+        language: en
+    references:
+    - source: www.youtube.com-watch-v-bib1hhbr9me
+      quote: https://i.ytimg.com/vi/BIB1hhbr9mE/maxresdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video thumbnail
+    - source: www.youtube.com-watch-v-bib1hhbr9me
+      quote: Hamed Sadeghi
+      accessed: '2026-11-21'
+      locator: Publishing channel

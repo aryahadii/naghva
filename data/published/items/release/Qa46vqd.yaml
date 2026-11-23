@@ -1,0 +1,17 @@
+id: Qa46vqd
+type: release
+statements:
+  name:
+  - value:
+      text: Tasnif-e Raftam dare meykhaneh (Auditorio Blas Galindo)
+      language: en
+    references:
+    - &id001
+      source: videoteca.cenart.gob.mx-canal-23-255759-2
+      quote: 14 00.59:53.011 --> 01.04:32.000 Tasnif-e Raftam dare meykhaneh
+      accessed: '2026-11-21'
+      locator: Canal 23 broadcast cue 14
+  performer:
+  - value: Qcabd29
+    references:
+    - *id001

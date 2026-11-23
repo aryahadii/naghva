@@ -1,0 +1,78 @@
+id: Qkfamsb
+type: release
+statements:
+  name:
+  - value:
+      text: Round N Round
+      language: en
+    references:
+    - source: music.apple.com-us-album-looking-back-facing-forward-395720185
+      quote: Round N Round
+      accessed: '2026-11-21'
+      locator: Original interview, programme or release metadata
+  performer:
+  - value: Qst5f86
+    references:
+    - source: music.apple.com-us-album-looking-back-facing-forward-395720185
+      quote: Soul Nidus
+      accessed: '2026-11-21'
+      locator: Original interview, programme or release metadata
+  release date:
+  - value:
+      date: '2010-10-10'
+    references:
+    - source: music.apple.com-us-album-looking-back-facing-forward-395720185
+      quote: '2010-10-10'
+      accessed: '2026-11-21'
+      locator: Original interview, programme or release metadata
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music/18/a1/12/mzi.wgbaajdf.jpg/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Soul Nidus digital edition via Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-looking-back-facing-forward-395720185
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music/18/a1/12/mzi.wgbaajdf.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Original interview, programme or release metadata
+  listen link:
+  - value: https://music.apple.com/us/song/round-n-round/395720339
+    references:
+    - source: music.apple.com-us-album-looking-back-facing-forward-395720185
+      quote: https://music.apple.com/us/song/round-n-round/395720339
+      accessed: '2026-11-21'
+      locator: Original interview, programme or release metadata
+  - value: https://open.spotify.com/track/2yDwHSYEGZjH2a8s9cQWAG
+    references:
+    - source: open.spotify.com-embed-album-1jcmwnz66xifvkqakxsa2v
+      quote: spotify:track:2yDwHSYEGZjH2a8s9cQWAG
+      accessed: '2026-11-21'
+      locator: Original interview, programme or release metadata
+  - value: https://soundcloud.com/soulnidus/soulnidus-round-n-round-free
+    references:
+    - source: soundcloud.com-soulnidus-soulnidus-round-n-round-free
+      quote: Stream SOULNIDUS - ROUND N ROUND by SOULNIDUS | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Original interview, programme or release metadata
+  - value: https://www.youtube.com/watch?v=QqKUQYNAlpE
+    references:
+    - source: www.youtube.com-watch-v-qqkuqynalpe
+      quote: SOULNIDUS - ROUND & ROUND
+      accessed: '2026-11-21'
+      locator: Original group channel
+  contributor:
+  - value: Qrvfxn4
+    references:
+    - source: soundcloud.com-soulnidus-soulnidus-round-n-round-free
+      quote: Words and Music by Ehsan Ashrafi
+      accessed: '2026-11-21'
+    qualifiers:
+      role: composer
+  - value: Qrvfxn4
+    references:
+    - source: soundcloud.com-soulnidus-soulnidus-round-n-round-free
+      quote: Words and Music by Ehsan Ashrafi
+      accessed: '2026-11-21'
+    qualifiers:
+      role: lyricist

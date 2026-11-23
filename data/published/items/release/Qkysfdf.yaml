@@ -1,0 +1,56 @@
+id: Qkysfdf
+type: release
+statements:
+  name:
+  - value:
+      text: Helelyos - Single
+      language: en
+    references:
+    - source: open.spotify.com-album-34ieergclkucgmhikym3t4
+      quote: Helelyos
+      accessed: '2026-11-21'
+      locator: Single title
+    - source: open.spotify.com-album-34ieergclkucgmhikym3t4
+      quote: Single
+      accessed: '2026-11-21'
+      locator: Release type
+  release type:
+  - value: single
+    references:
+    - source: open.spotify.com-album-34ieergclkucgmhikym3t4
+      quote: Single
+      accessed: '2026-11-21'
+      locator: Release type
+  performer:
+  - value: Qj92kqa
+    references:
+    - source: open.spotify.com-album-34ieergclkucgmhikym3t4
+      quote: Mitra Sumara
+      accessed: '2026-11-21'
+      locator: Primary artist
+  listen link:
+  - value: https://open.spotify.com/album/34IEErgclKUcGmhiKym3t4
+    references:
+    - source: open.spotify.com-album-34ieergclkucgmhikym3t4
+      quote: Helelyos
+      accessed: '2026-11-21'
+      locator: Single title
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d00001e0222d21963b0bff650234f6022
+    references:
+    - source: open.spotify.com-album-34ieergclkucgmhikym3t4
+      quote: https://i.scdn.co/image/ab67616d00001e0222d21963b0bff650234f6022
+      accessed: '2026-11-21'
+      locator: Single artwork
+    qualifiers:
+      credit:
+        text: Persian Cardinal Recordings, via Spotify
+        language: en
+  release date:
+  - value:
+      date: '2018'
+    references:
+    - source: open.spotify.com-album-34ieergclkucgmhikym3t4
+      quote: '2018'
+      accessed: '2026-11-21'
+      locator: Single release year

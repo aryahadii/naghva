@@ -1,0 +1,43 @@
+id: Qs2kd5d
+type: release
+statements:
+  name:
+  - value:
+      text: Jouir ?
+      language: en
+    references:
+    - source: open.spotify.com-track-0usbymbd6n8goqhnhirypj
+      quote: Jouir ?
+      accessed: '2026-11-21'
+      locator: Recording title or artist credit
+  performer:
+  - value: Q4q92dh
+    references:
+    - source: open.spotify.com-track-0usbymbd6n8goqhnhirypj
+      quote: Jouir ? - song and lyrics by Cikkun | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://open.spotify.com/track/0usbYMbD6n8gOqHnHiRYpJ
+    references:
+    - source: open.spotify.com-track-0usbymbd6n8goqhnhirypj
+      quote: Jouir ? - song and lyrics by Cikkun | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/cikkun/jouir-released-on-digexplo005
+    references:
+    - source: soundcloud.com-cikkun-jouir-released-on-digexplo005
+      quote: Stream Jouir ? (released on DIGEXPLO005) by Cinna Peyghamy | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d0000b27361f565389c814e51e3b0ebdc
+    references:
+    - source: open.spotify.com-track-0usbymbd6n8goqhnhirypj
+      quote: https://i.scdn.co/image/ab67616d0000b27361f565389c814e51e3b0ebdc
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Spotify
+        language: en

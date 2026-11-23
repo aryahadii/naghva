@@ -1,0 +1,59 @@
+id: Qs6e5fa
+type: release
+statements:
+  name:
+  - value:
+      text: A Thing Or Two
+      language: en
+    references:
+    - source: hamedsadeghi.bandcamp.com-track-a-thing-or-two
+      quote: A Thing Or Two | Hamed Sadeghi
+      accessed: '2026-11-21'
+      locator: Bandcamp song heading
+  performer:
+  - value: Qmgbz4h
+    qualifiers:
+      role: tar
+    references:
+    - source: hamedsadeghi.bandcamp.com-album-a-prelude-to-silence
+      quote: Hamed Sadeghi, Tar
+      accessed: '2026-11-21'
+      locator: Album personnel
+  listen link:
+  - value: https://hamedsadeghi.bandcamp.com/track/a-thing-or-two
+    references:
+    - source: hamedsadeghi.bandcamp.com-track-a-thing-or-two
+      quote: A Thing Or Two | Hamed Sadeghi
+      accessed: '2026-11-21'
+      locator: Bandcamp song heading
+  - value: https://open.spotify.com/track/3cnCYgb8Zgy56T56ukL2wP
+    references:
+    - source: open.spotify.com-album-2onbuz1yagtvyaqmber2op
+      quote: A Thing or Two
+      accessed: '2026-11-21'
+      locator: Spotify track 5
+  - value: https://music.apple.com/us/song/a-thing-or-two/1677187188
+    references:
+    - source: music.apple.com-us-album-a-prelude-to-silence-1677187033
+      quote: A Thing or Two
+      accessed: '2026-11-21'
+      locator: Apple Music track 5
+  release date:
+  - value:
+      date: '2023-03-12'
+    references:
+    - source: hamedsadeghi.bandcamp.com-album-a-prelude-to-silence
+      quote: released March 12, 2023
+      accessed: '2026-11-21'
+      locator: Release credits
+  cover art:
+  - value: https://f4.bcbits.com/img/a0267997230_10.jpg
+    qualifiers:
+      credit:
+        text: Artwork published on the artist’s Bandcamp
+        language: en
+    references:
+    - source: hamedsadeghi.bandcamp.com-album-a-prelude-to-silence
+      quote: https://f4.bcbits.com/img/a0267997230_10.jpg
+      accessed: '2026-11-21'
+      locator: Bandcamp original album image

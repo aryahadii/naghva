@@ -1,0 +1,57 @@
+id: Q93qjnb
+type: release
+statements:
+  name:
+  - value:
+      text: Dâd (Prix Habib Sharifi)
+      language: en
+    references:
+    - source: www.prix-sharifi.org-hura-mirshekari
+      quote: J’ai d’ailleurs appelé ce morceau « Dâd »
+      accessed: '2026-11-21'
+      locator: Stage work described in interview or city programme
+  - value:
+      text: Bourse Habib Sharifi, Spectacle annuel des lauréats 2023 2024
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-6kgi3uvcm7s
+      quote: Bourse Habib Sharifi, Spectacle annuel des lauréats 2023 2024
+      accessed: '2026-11-21'
+      locator: Performer or distributor original video
+  performer:
+  - value: Qpav8br
+    references:
+    - *id001
+  listen link:
+  - value: https://www.youtube.com/watch?v=6KgI3UVCM7s
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/6KgI3UVCM7s/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-6kgi3uvcm7s
+      quote: https://i.ytimg.com/vi/6KgI3UVCM7s/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video artwork
+    qualifiers:
+      credit:
+        text: HURA
+        language: en
+  contributor:
+  - value: Qgewjqm
+    qualifiers:
+      role: arranger
+    references:
+    - source: www.prix-sharifi.org-hura-mirshekari
+      quote: une mélodie électronique, orchestrée par Renaud Satre
+      accessed: '2026-11-21'
+      locator: Stage work described in interview or city programme
+  - value: Qxtgnf5
+    qualifiers:
+      role: lyricist
+    references:
+    - source: www.prix-sharifi.org-hura-mirshekari
+      quote: mes chants en sistani, écrits par Payam
+      accessed: '2026-11-21'
+      locator: Stage work described in interview or city programme

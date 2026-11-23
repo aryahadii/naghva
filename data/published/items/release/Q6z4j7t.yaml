@@ -1,0 +1,29 @@
+id: Q6z4j7t
+type: release
+statements:
+  name:
+  - value:
+      text: Empty Voices Live 2024
+      language: en
+    references:
+    - source: www.abc.net.au-listen-programs-jazztrack-live-hamed-sadeghi-empty-voices-live-2024-104240732
+      quote: 'Hamed Sadeghi: Empty Voices Live 2024'
+      accessed: '2026-11-21'
+      locator: ABC Jazztrack broadcast title
+  performer:
+  - value: Qmgbz4h
+    qualifiers:
+      role: tar
+    references:
+    - source: www.abc.net.au-listen-programs-jazztrack-live-hamed-sadeghi-empty-voices-live-2024-104240732
+      quote: Hamed Sadeghi on the tar
+      accessed: '2026-11-21'
+      locator: Performance credit
+  release date:
+  - value:
+      date: '2024-09-07'
+    references:
+    - source: www.abc.net.au-listen-programs-jazztrack-live-hamed-sadeghi-empty-voices-live-2024-104240732
+      quote: Sat 7 Sep 2024
+      accessed: '2026-11-21'
+      locator: First broadcast

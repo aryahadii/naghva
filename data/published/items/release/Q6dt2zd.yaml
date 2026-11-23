@@ -1,0 +1,49 @@
+id: Q6dt2zd
+type: release
+statements:
+  name:
+  - value:
+      text: Trois petits moutons
+      language: fr
+    references:
+    - source: www.youtube.com-watchv-kkmgdm5hlea
+      quote: Trois petits moutons
+      accessed: '2026-11-21'
+      locator: Official upload title
+  performer:
+  - value: Qzhgpkw
+    references:
+    - source: www.youtube.com-watchv-kkmgdm5hlea
+      quote: Trois petits moutons
+      accessed: '2026-11-21'
+      locator: Official upload title
+    - source: www.youtube.com-watchv-kkmgdm5hlea
+      quote: Babak Rajabi
+      accessed: '2026-11-21'
+      locator: Uploading artist
+  listen link:
+  - value: https://www.youtube.com/watch?v=KKMGDm5HlEA
+    references:
+    - source: www.youtube.com-watchv-kkmgdm5hlea
+      quote: Trois petits moutons
+      accessed: '2026-11-21'
+      locator: Official upload title
+  release date:
+  - value:
+      date: '2022-08-20'
+    references:
+    - source: www.youtube.com-watchv-kkmgdm5hlea
+      quote: '20220820'
+      accessed: '2026-11-21'
+      locator: Video publication date, YYYYMMDD
+  cover art:
+  - value: https://i.ytimg.com/vi_webp/KKMGDm5HlEA/maxresdefault.webp
+    references:
+    - source: www.youtube.com-watchv-kkmgdm5hlea
+      quote: https://i.ytimg.com/vi_webp/KKMGDm5HlEA/maxresdefault.webp
+      accessed: '2026-11-21'
+      locator: Release image URL
+    qualifiers:
+      credit:
+        text: Babak Rajabi · YouTube
+        language: en

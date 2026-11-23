@@ -1,0 +1,63 @@
+id: Qmrjqr5
+type: release
+statements:
+  name:
+  - value:
+      text: Ruhi Hetaw
+      language: en
+    references:
+    - source: music.apple.com-us-album-ruhi-hetaw-1699222048
+      quote: Ruhi Hetaw
+      locator: Track 1
+      accessed: '2026-11-21'
+  performer:
+  - value: Qnrm3kw
+    references:
+    - source: music.apple.com-us-album-ruhi-hetaw-1699222048
+      quote: Hani Mojtahedy
+      locator: Track or album performer
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2023-07-25'
+    references:
+    - source: music.apple.com-us-album-ruhi-hetaw-1699222048
+      quote: '2023-07-25'
+      locator: Original edition date
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/44/4a/34/444a34c1-2b15-ae73-5111-ddaf5c69b1e8/055120880902.png/632x632bb-60.jpg
+    references:
+    - source: music.apple.com-us-album-ruhi-hetaw-1699222048
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/44/4a/34/444a34c1-2b15-ae73-5111-ddaf5c69b1e8/055120880902.png/632x632bb-60.jpg
+      locator: Release art
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Ruhi Hetaw · Apple Music
+        language: en
+  listen link:
+  - value: https://music.apple.com/us/song/ruhi-hetaw/1699222050
+    references:
+    - source: music.apple.com-us-album-ruhi-hetaw-1699222048
+      quote: Ruhi Hetaw
+      locator: Track 1
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/238IAT9Xr7Hr0jw0vjHd6O
+    references:
+    - source: open.spotify.com-album-1avnotayxgzgsrbjy75asl
+      quote: Ruhi Hetaw
+      locator: Matched Spotify track
+      accessed: '2026-11-21'
+  - value: https://www.youtube.com/watch?v=v8VzQeK8wSc
+    references:
+    - source: www.youtube.com-oembed-v8vzqek8wsc
+      quote: Hani Mojtahedy - Ruhi Hetaw (Prod. By  @5iamand )
+      locator: Original upload or video selected by artist channel
+      accessed: '2026-11-21'
+  - value: https://t.me/hani_mojtahedi/219
+    references:
+    - source: t.me-s-hani_mojtahedi
+      quote: https://youtu.be/v8VzQeK8wSc
+      locator: Channel post 219 links this performance
+      accessed: '2026-11-21'

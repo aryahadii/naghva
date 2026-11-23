@@ -1,0 +1,47 @@
+id: Qvh5d4w
+type: release
+statements:
+  name:
+  - value:
+      text: Dar Daste Maast (our Free Choices)
+      language: en
+    references:
+    - source: music.apple.com-us-album-hameh-213543607
+      quote: Dar Daste Maast (our Free Choices)
+      accessed: 2026-11-21
+      locator: Apple Music track listing
+  performer:
+  - value: Qny2s3x
+    references:
+    - source: music.apple.com-us-album-hameh-213543607
+      quote: Hameh · Abjeez
+      accessed: 2026-11-21
+      locator: Album title and artist on Apple Music
+  listen link:
+  - value: https://music.apple.com/us/song/dar-daste-maast-our-free-choices/213543615
+    references:
+    - source: music.apple.com-us-album-hameh-213543607
+      quote: Dar Daste Maast (our Free Choices)
+      accessed: 2026-11-21
+      locator: Apple Music track listing
+  - value: https://open.spotify.com/track/6WrF4bK7NM692rLKFB4DQu
+    references:
+    - source: open.spotify.com-album-4xltiqyv39xgagawedqtpi
+      quote: Dar Daste Maast (our Free Choices) · Abjeez
+      accessed: 2026-11-21
+      locator: Spotify track title and performer
+  release date:
+  - value:
+      date: '2007-01-22'
+    references:
+    - source: music.apple.com-us-album-hameh-213543607
+      quote: '2007-01-22'
+      accessed: 2026-11-21
+      locator: MusicAlbum datePublished
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music/92/e7/38/mzi.qexlxaue.tif/600x600bb-60.jpg
+    references:
+    - source: music.apple.com-us-album-hameh-213543607
+      quote: Hameh · Abjeez
+      accessed: 2026-11-21
+      locator: Album title and artist on Apple Music

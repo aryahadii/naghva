@@ -25,3 +25,11 @@ about:
 > Zoe Guigueno
 
 Page title, description, release date meta tag, and the credited artists linked on the album page, one per quote; Sara Naeini links to her artist page open.spotify.com/artist/4ifSaJDksgJ668jn7Xwuj0. Read 2026-11-08.
+
+> Skam · Peyman Salimi, The Allophones
+
+Named track 6, read 2026-11-21.
+
+> In Your Bones · Peyman Salimi, The Allophones
+
+Named track 11, read 2026-11-21.

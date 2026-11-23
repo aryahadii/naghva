@@ -1,0 +1,41 @@
+id: Q2gcpb7
+type: release
+statements:
+  name:
+  - value:
+      text: Setar, Chaharmezrab Nava | چهارمضراب نوا
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-f6zqvh1qcki
+      quote: Setar, Chaharmezrab Nava | چهارمضراب نوا
+      accessed: '2026-11-21'
+      locator: Music credited by musician or performance publisher
+  performer:
+  - value: Qqb9bnx
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/F6ZqvH1QCKI/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-f6zqvh1qcki
+      quote: https://i.ytimg.com/vi/F6ZqvH1QCKI/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video frame
+    qualifiers:
+      credit:
+        text: Mehdi Moshtagh
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=F6ZqvH1QCKI
+    references:
+    - *id001
+  contributor:
+  - value: Qatxt85
+    references:
+    - source: vimeo.com-182474707
+      quote: Del Mtro. Abolhasan Saba
+      accessed: '2026-11-21'
+      locator: Composer credit
+    qualifiers:
+      role: composer

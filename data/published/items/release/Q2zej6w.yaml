@@ -1,0 +1,105 @@
+id: Q2zej6w
+type: release
+statements:
+  name:
+  - value:
+      text: PEND
+      language: en
+    references:
+    - source: temp-illusion.bandcamp.com-album-pend
+      quote: PEND
+      accessed: '2026-11-21'
+      locator: Release heading
+  performer:
+  - value: Q8tq6bc
+    references:
+    - source: temp-illusion.bandcamp.com-album-pend
+      quote: PEND | Temp-Illusion
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2020-03-06'
+    references:
+    - source: temp-illusion.bandcamp.com-album-pend
+      quote: released March 6, 2020
+      accessed: '2026-11-21'
+      locator: Release credits
+  listen link:
+  - value: https://temp-illusion.bandcamp.com/album/pend
+    references:
+    - source: temp-illusion.bandcamp.com-album-pend
+      quote: PEND | Temp-Illusion
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/pend/1499797070
+    references:
+    - source: music.apple.com-us-album-pend-1499797070
+      quote: ‎Pend - Album by Temp-Illusion - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/album/5xNufXA302uhX4M29T9xYh
+    references:
+    - source: open.spotify.com-album-5xnufxa302uhx4m29t9xyh
+      quote: Listen to Pend - Album by Temp-Illusion | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a0785385112_10.jpg
+    references:
+    - source: temp-illusion.bandcamp.com-album-pend
+      quote: https://f4.bcbits.com/img/a0785385112_10.jpg
+      accessed: '2026-11-21'
+      locator: Full cover image linked from release page
+    - source: temp-illusion.bandcamp.com-album-pend
+      quote: Amir B. Ash
+      accessed: '2026-11-21'
+      locator: Release credits
+    qualifiers:
+      credit:
+        text: Amir B. Ash
+        language: en
+  published by:
+  - value: Qgz8y9m
+    references:
+    - source: montreal.mutek.org-en-artists-temp-illusion-amir-b-ash
+      quote: “Autolected '' and “Pend '' on Zabte Sote label
+      accessed: '2026-11-21'
+      locator: Artist biography
+  contributor:
+  - value: Qtwwfrd
+    references:
+    - source: temp-illusion.bandcamp.com-album-pend
+      quote: Composed and produced by Shahin Entezami / Behrang Najafi
+      accessed: '2026-11-21'
+      locator: Release credits
+    qualifiers:
+      role:
+      - composer
+      - producer
+  - value: Qyf75re
+    references:
+    - source: temp-illusion.bandcamp.com-album-pend
+      quote: Composed and produced by Shahin Entezami / Behrang Najafi
+      accessed: '2026-11-21'
+      locator: Release credits
+    qualifiers:
+      role:
+      - composer
+      - producer
+  - value: Q643ntr
+    references:
+    - source: temp-illusion.bandcamp.com-album-pend
+      quote: Mastered by Stephen Bishop
+      accessed: '2026-11-21'
+      locator: Release credits
+    qualifiers:
+      role:
+      - mastering engineer
+  release type:
+  - value: album
+    references:
+    - source: music.apple.com-us-album-pend-1499797070
+      quote: ‎Pend - Album by Temp-Illusion - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title

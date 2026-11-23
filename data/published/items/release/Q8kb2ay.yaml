@@ -1,0 +1,47 @@
+id: Q8kb2ay
+type: release
+statements:
+  name:
+  - value:
+      text: Invisible
+      language: en
+    references:
+    - &id001
+      source: music.apple.com-us-album-invisible-1483041196
+      quote: Invisible
+      accessed: '2026-11-21'
+      locator: Apple release title
+  release date:
+  - value:
+      date: '2019-10-11'
+    references:
+    - source: music.apple.com-us-album-invisible-1483041196
+      quote: '2019-10-11'
+      accessed: '2026-11-21'
+      locator: Issue date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/52/8b/44/528b4464-db68-b5fd-1f33-4bf6edbc1edb/753070791179.jpg/1200x630wp-60.jpg
+    references:
+    - source: music.apple.com-us-album-invisible-1483041196
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/52/8b/44/528b4464-db68-b5fd-1f33-4bf6edbc1edb/753070791179.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Original digital cover
+    qualifiers:
+      credit:
+        text: Apple Music, original edition artwork
+        language: en
+  performer:
+  - value: Q9cyea8
+    references:
+    - source: music.apple.com-us-album-invisible-1483041196
+      quote: Regard Persan
+      accessed: '2026-11-21'
+      locator: Named ensemble
+  release type:
+  - value: album
+    references:
+    - *id001
+  listen link:
+  - value: https://music.apple.com/us/album/invisible/1483041196
+    references:
+    - *id001

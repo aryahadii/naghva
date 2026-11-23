@@ -1,0 +1,61 @@
+id: Qhbk62z
+type: release
+statements:
+  name:
+  - value:
+      text: Hymn for Apollo
+      language: en
+    references:
+    - source: zojduet.bandcamp.com-album-fil-o-fenjoon
+      quote: Hymn for Apollo
+      accessed: '2026-11-21'
+      locator: Track 6 of FIL O FENJOON
+  performer:
+  - value: Qk5bhh3
+    references:
+    - source: zojduet.bandcamp.com-track-hymn-for-apollo
+      quote: Hymn for Apollo | ZÖJ
+      accessed: '2026-11-21'
+      locator: Track page title
+  release date:
+  - value:
+      date: '2023-11-15'
+    references:
+    - source: zojduet.bandcamp.com-album-fil-o-fenjoon
+      quote: released November 15, 2023
+      accessed: '2026-11-21'
+      locator: Release credits, publication date
+  cover art:
+  - value: https://f4.bcbits.com/img/a0814075114_10.jpg
+    qualifiers:
+      credit:
+        text: Gelareh Pour and Brian O’Dwyer
+        language: en
+    references:
+    - source: zojduet.bandcamp.com-album-fil-o-fenjoon
+      quote: https://f4.bcbits.com/img/a0814075114_10.jpg
+      accessed: '2026-11-21'
+      locator: Full-sized album artwork
+    - source: zojduet.bandcamp.com-album-fil-o-fenjoon
+      quote: Cover image by Gelareh Pour and Brian O’Dwyer
+      accessed: '2026-11-21'
+      locator: Artwork credit
+  listen link:
+  - value: https://zojduet.bandcamp.com/track/hymn-for-apollo
+    references:
+    - source: zojduet.bandcamp.com-track-hymn-for-apollo
+      quote: Hymn for Apollo | ZÖJ
+      accessed: '2026-11-21'
+      locator: Track page title
+  - value: https://open.spotify.com/track/4mcTayWvHFaelBkOcEs40y
+    references:
+    - source: open.spotify.com-album-6logrmo7xsqcw70aredyjz
+      quote: Hymn for Apollo
+      accessed: '2026-11-21'
+      locator: Track 6 in the Spotify album player
+  - value: https://music.apple.com/au/album/hymn-for-apollo/1716138459?i=1716138465
+    references:
+    - source: music.apple.com-au-album-fil-o-fenjoon-1716138459
+      quote: Hymn for Apollo
+      accessed: '2026-11-21'
+      locator: Album track list, track 6

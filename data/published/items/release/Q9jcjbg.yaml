@@ -1,0 +1,58 @@
+id: Q9jcjbg
+type: release
+statements:
+  name:
+  - value:
+      text: THE MOMENT
+      language: en
+    references:
+    - source: avarasti.bandcamp.com-album-the-moment-2
+      quote: THE MOMENT | Ava Rasti
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qks2dfk
+    references:
+    - source: avarasti.bandcamp.com-album-the-moment-2
+      quote: THE MOMENT | Ava Rasti
+      accessed: '2026-11-21'
+      locator: Page title
+  release type:
+  - value: ep
+    references:
+    - source: avarasti.bandcamp.com-album-the-moment-2
+      quote: THE MOMENT | Ava Rasti
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://avarasti.bandcamp.com/album/the-moment-2
+    references:
+    - source: avarasti.bandcamp.com-album-the-moment-2
+      quote: THE MOMENT | Ava Rasti
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/the-moment-single/1567886874
+    references:
+    - source: music.apple.com-us-album-the-moment-single-1567886874
+      quote: ‎The Moment - Single - Album by Ava Rasti - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a3014403947_10.jpg
+    references:
+    - source: avarasti.bandcamp.com-album-the-moment-2
+      quote: https://f4.bcbits.com/img/a3014403947_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original recording publisher
+        language: en
+  release date:
+  - value:
+      date: '2021-05-29'
+    references:
+    - source: avarasti.bandcamp.com-album-the-moment-2
+      quote: released May 29, 2021
+      accessed: '2026-11-21'
+      locator: Published date

@@ -1,0 +1,37 @@
+id: Q2kay4c
+type: release
+statements:
+  listen link:
+  - value: https://www.youtube.com/watch?v=XnTRstrhH60
+    references:
+    - source: www.youtube.com-watch-v-xntrstrhh60
+      quote: A Poem Against Execution -- شعری علیه اعدام
+      accessed: '2026-11-21'
+      locator: Page title
+  name:
+  - value:
+      text: A Poem Against Execution
+      language: en
+    references:
+    - source: www.youtube.com-watch-v-xntrstrhh60
+      quote: A Poem Against Execution
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  performer:
+  - value: Qt5sbqz
+    references:
+    - source: www.youtube.com-watch-v-xntrstrhh60
+      quote: A Poem Against Execution -- شعری علیه اعدام
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i.ytimg.com/vi/XnTRstrhH60/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-xntrstrhh60
+      quote: https://i.ytimg.com/vi/XnTRstrhH60/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: Sina Salimi
+        language: en

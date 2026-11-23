@@ -1,0 +1,61 @@
+id: Qwm73xy
+type: release
+statements:
+  name:
+  - value:
+      text: Desert motreb
+      language: en
+    references:
+    - source: zojduet.bandcamp.com-album-may-the-devils-ear-be-deaf
+      quote: Desert motreb
+      accessed: '2026-11-21'
+      locator: Track 2 of May The Devil's Ear Be Deaf
+  performer:
+  - value: Qk5bhh3
+    references:
+    - source: zojduet.bandcamp.com-track-desert-motreb
+      quote: Desert motreb | ZÖJ
+      accessed: '2026-11-21'
+      locator: Track page title
+  release date:
+  - value:
+      date: '2026-05-01'
+    references:
+    - source: zojduet.bandcamp.com-album-may-the-devils-ear-be-deaf
+      quote: released May 1, 2026
+      accessed: '2026-11-21'
+      locator: Release credits, publication date
+  cover art:
+  - value: https://f4.bcbits.com/img/a4180323479_10.jpg
+    qualifiers:
+      credit:
+        text: Siamak Sharifan
+        language: en
+    references:
+    - source: zojduet.bandcamp.com-album-may-the-devils-ear-be-deaf
+      quote: https://f4.bcbits.com/img/a4180323479_10.jpg
+      accessed: '2026-11-21'
+      locator: Full-sized album artwork
+    - source: zojduet.bandcamp.com-album-may-the-devils-ear-be-deaf
+      quote: 'Artwork: Siamak Sharifan'
+      accessed: '2026-11-21'
+      locator: Artwork credit
+  listen link:
+  - value: https://zojduet.bandcamp.com/track/desert-motreb
+    references:
+    - source: zojduet.bandcamp.com-track-desert-motreb
+      quote: Desert motreb | ZÖJ
+      accessed: '2026-11-21'
+      locator: Track page title
+  - value: https://open.spotify.com/track/5UPgXcnZbErLUG0zewCx4F
+    references:
+    - source: open.spotify.com-album-7hjshwfpcb3mafhemvf3q7
+      quote: Desert motreb
+      accessed: '2026-11-21'
+      locator: Track 2 in the Spotify album player
+  - value: https://music.apple.com/au/album/desert-motreb/6774523347?i=6774523349
+    references:
+    - source: music.apple.com-au-album-may-the-devils-ear-be-deaf-6774523347
+      quote: Desert motreb
+      accessed: '2026-11-21'
+      locator: Album track list, track 2

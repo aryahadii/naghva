@@ -1,0 +1,31 @@
+id: Qkrf4p9
+type: event
+statements:
+  name:
+  - value:
+      text: 'DRONE: Testimonies & Music at Falaki Theatre'
+      language: en
+    references:
+    - source: static1.squarespace.com-static-68b70242581fa778e4fe8b0a-t-691210d3281b506f17045efd-1762791635320-drone-2bd-caf-2bdigital-2bprogram-2bdraft-2b3-2b10-21-25.pdf
+      quote: October 22 & 23, 2025 | 10 pm
+      accessed: 2026-11-21
+      locator: Dates and venue, page 1
+  event date:
+  - value:
+      date: '2025-10-22'
+    references:
+    - source: static1.squarespace.com-static-68b70242581fa778e4fe8b0a-t-691210d3281b506f17045efd-1762791635320-drone-2bd-caf-2bdigital-2bprogram-2bdraft-2b3-2b10-21-25.pdf
+      quote: October 22 & 23, 2025 | 10 pm
+      accessed: 2026-11-21
+      locator: Dates and venue, page 1
+  performer:
+  - value: Qjh2zkc
+    qualifiers:
+      role:
+      - daf
+      - vocals
+    references:
+    - source: static1.squarespace.com-static-68b70242581fa778e4fe8b0a-t-691210d3281b506f17045efd-1762791635320-drone-2bd-caf-2bdigital-2bprogram-2bdraft-2b3-2b10-21-25.pdf
+      quote: '& AIDA SHAHGHASEMI on Daf'
+      accessed: 2026-11-21
+      locator: Music ensemble, page 3

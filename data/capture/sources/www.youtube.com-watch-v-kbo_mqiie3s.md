@@ -1,16 +1,18 @@
 ---
 url: https://www.youtube.com/watch?v=kbo_mQiie3s
-archive: "https://web.archive.org/web/20241225110006/https://www.youtube.com/watch?v=kbo_mQiie3s"
-title: "5. Neshané To - نشان تو  (Arash Fouladvand feat  Sara Naeini and Nigina Amonqulova) at UNESCO"
+archive: https://web.archive.org/web/20241225110006/https://www.youtube.com/watch?v=kbo_mQiie3s
+title: 5. Neshané To - نشان تو  (Arash Fouladvand feat  Sara Naeini and Nigina Amonqulova) at UNESCO
 status: processed
 kind: youtube video
 language: mul
 tier: discography
-publisher: "Arash Fouladvand"
+publisher: Arash Fouladvand
 issued:
   date: '2024-12-20'
 about:
 - Qb23qew
+- Bahar Choir
+- Arash Fouladvand
 ---
 
 > 5. Neshané To - نشان تو  (Arash Fouladvand feat  Sara Naeini and Nigina Amonqulova) at UNESCO
@@ -70,3 +72,7 @@ about:
 > مشرق و مغرب ار روم ور سوی آسمان شوم
 
 Video title, upload date from the watch page metadata, channel name (channel UCKDyuA_yZPcoj7ewohEyN9g) and description lines, read 2026-11-08.
+
+> https://i.ytimg.com/vi/kbo_mQiie3s/hqdefault.jpg
+
+Original publisher thumbnail, read 2026-11-21.

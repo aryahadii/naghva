@@ -1,0 +1,130 @@
+id: Qaj82xq
+type: release
+statements:
+  name:
+  - value:
+      text: As Far as the Wake
+      language: en
+    references:
+    - source: hamedsadeghi.bandcamp.com-track-as-far-as-the-wake
+      quote: As Far as the Wake | Hamed Sadeghi
+      accessed: '2026-11-21'
+      locator: Bandcamp song heading
+  performer:
+  - value: Qmgbz4h
+    qualifiers:
+      role: tar
+    references:
+    - source: hamedsadeghi.bandcamp.com-album-comfortable
+      quote: Hamed Sadeghi, Persian tar
+      accessed: '2026-11-21'
+      locator: Album personnel
+  - value: Qe46ya8
+    qualifiers:
+      role: saxophone
+    references:
+    - source: hamedsadeghi.bandcamp.com-album-comfortable
+      quote: Sandy Evans, soprano and tenor saxophone
+      accessed: '2026-11-21'
+      locator: Album personnel
+  - value: Q4ktzgw
+    qualifiers:
+      role: bass clarinet
+    references:
+    - source: hamedsadeghi.bandcamp.com-album-comfortable
+      quote: Paul Cutlan, bass clarinet
+      accessed: '2026-11-21'
+      locator: Album personnel
+  - value: Qfjxs3e
+    qualifiers:
+      role: double bass
+    references:
+    - source: hamedsadeghi.bandcamp.com-album-comfortable
+      quote: Lloyd Swanton, double bass
+      accessed: '2026-11-21'
+      locator: Album personnel
+  - value: Qs3h77n
+    qualifiers:
+      role: saxophone
+    references:
+    - source: hamedsadeghi.bandcamp.com-album-comfortable
+      quote: Michael Avgenicos, alto and tenor saxophone
+      accessed: '2026-11-21'
+      locator: Album personnel
+  - value: Qgh55n3
+    qualifiers:
+      role: trumpet
+    references:
+    - source: hamedsadeghi.bandcamp.com-album-comfortable
+      quote: Thomas Avgenicos, trumpet
+      accessed: '2026-11-21'
+      locator: Album personnel
+  - value: Qr65ctk
+    qualifiers:
+      role: percussion
+    references:
+    - source: hamedsadeghi.bandcamp.com-album-comfortable
+      quote: Adem Yilmaz, percussions
+      accessed: '2026-11-21'
+      locator: Album personnel
+  - value: Q38pfxn
+    qualifiers:
+      role: percussion
+    references:
+    - source: hamedsadeghi.bandcamp.com-album-comfortable
+      quote: Sohrab Kolahdooz, percussions
+      accessed: '2026-11-21'
+      locator: Album personnel
+  listen link:
+  - value: https://hamedsadeghi.bandcamp.com/track/as-far-as-the-wake
+    references:
+    - source: hamedsadeghi.bandcamp.com-track-as-far-as-the-wake
+      quote: As Far as the Wake | Hamed Sadeghi
+      accessed: '2026-11-21'
+      locator: Bandcamp song heading
+  - value: https://open.spotify.com/track/6VD0q36U1D2c48w7UuvId7
+    references:
+    - source: open.spotify.com-album-01erqignsrpkiyl71mfjga
+      quote: As Far as the Wake
+      accessed: '2026-11-21'
+      locator: Spotify track 7
+  - value: https://music.apple.com/us/song/as-far-as-the-wake-feat-sandy-evans-paul-cutlan-lloyd/6802438852
+    references:
+    - source: music.apple.com-us-album-comfortable-6802438513
+      quote: As Far as the Wake (feat. Sandy Evans, Paul Cutlan, Lloyd Swanton, Michael Avgenicos, Thomas Avgenicos, Adem Yılmaz & Sohrab Kolahdooz)
+      accessed: '2026-11-21'
+      locator: Apple Music track 7
+  release date:
+  - value:
+      date: '2026-09-05'
+    references:
+    - source: hamedsadeghi.bandcamp.com-album-comfortable
+      quote: released September 5, 2026
+      accessed: '2026-11-21'
+      locator: Release credits
+  cover art:
+  - value: https://f4.bcbits.com/img/a0912250874_10.jpg
+    qualifiers:
+      credit:
+        text: Amir Behroozi, cover photograph
+        language: en
+    references:
+    - source: hamedsadeghi.bandcamp.com-album-comfortable
+      quote: https://f4.bcbits.com/img/a0912250874_10.jpg
+      accessed: '2026-11-21'
+      locator: Bandcamp original album image
+    - source: hamedsadeghi.bandcamp.com-album-comfortable
+      quote: Cover photo by Amir Behroozi
+      accessed: '2026-11-21'
+      locator: Cover credit
+  contributor:
+  - value: Qmgbz4h
+    qualifiers:
+      role:
+      - composer
+      - arranger
+    references:
+    - source: hamedsadeghi.bandcamp.com-album-comfortable
+      quote: Composition and arrangement by Hamed Sadeghi
+      accessed: '2026-11-21'
+      locator: Writing credit

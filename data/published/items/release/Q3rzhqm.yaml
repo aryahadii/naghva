@@ -1,0 +1,63 @@
+id: Q3rzhqm
+type: release
+statements:
+  name:
+  - value:
+      text: Awareness & Ecstasy
+      language: en
+    references:
+    - source: music.apple.com-us-album-dream-illusion-1592130150uo-4
+      quote: Awareness & Ecstasy
+      locator: Original programme, artist or edition credits
+      accessed: '2026-11-21'
+  - value:
+      text: Awareness & Ecstacy
+      language: en
+    references:
+    - source: soundcloud.com-sahba-motallebi-awareness-ecstacy
+      quote: Awareness & Ecstacy
+      locator: Original programme, artist or edition credits
+      accessed: '2026-11-21'
+  performer:
+  - value: Qyw49hh
+    references:
+    - source: music.apple.com-us-album-dream-illusion-1592130150uo-4
+      quote: Sahba Motallebi
+      locator: Original programme, artist or edition credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: tar
+  release date:
+  - value:
+      date: '2010-09-07'
+    references:
+    - source: soundcloud.com-sahba-motallebi-awareness-ecstacy
+      quote: '2010-09-07'
+      locator: Original programme, artist or edition credits
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/dd/7e/f1/dd7ef1b8-abb6-7851-c490-74bd27d0d359/681378054859_cover.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-dream-illusion-1592130150uo-4
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/dd/7e/f1/dd7ef1b8-abb6-7851-c490-74bd27d0d359/681378054859_cover.jpg/1200x630bb.jpg
+      locator: Original programme, artist or edition credits
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://music.apple.com/us/song/awareness-ecstasy/1592130153
+    references:
+    - source: music.apple.com-us-album-dream-illusion-1592130150uo-4
+      quote: Awareness & Ecstasy
+      locator: Original programme, artist or edition credits
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/2NToSKfVMzVdS89Sm1dRfA
+    references:
+    - source: open.spotify.com-embed-album-6kr2fgctxdxxtlncgao5plutm_source-generator-theme-0
+      quote: spotify:track:2NToSKfVMzVdS89Sm1dRfA
+      locator: Original programme, artist or edition credits
+      accessed: '2026-11-21'
+  - value: https://soundcloud.com/sahba-motallebi/awareness-ecstacy
+    references:
+    - source: soundcloud.com-sahba-motallebi-awareness-ecstacy
+      quote: Awareness & Ecstacy
+      locator: Original programme, artist or edition credits
+      accessed: '2026-11-21'

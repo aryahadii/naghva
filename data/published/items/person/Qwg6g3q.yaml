@@ -1,0 +1,27 @@
+id: Qwg6g3q
+type: person
+statements:
+  name:
+  - value:
+      text: Saeed Kamjoo
+      language: en
+    references:
+    - &id001
+      source: tirgan.ca-b-tirgan2017-event-regard-persan-rumi-canada
+      quote: 'Saeed Kamjoo: Gheychak, Kamancheh'
+      accessed: '2026-11-21'
+      locator: Instrument and musician
+  - value:
+      text: سعید کامجو
+      language: fa
+    references:
+    - source: hafteh.ca-uploads-mag-issue-554-web.pdf
+      quote: سعید کامجو
+      accessed: '2026-11-21'
+      locator: Page 17, album programme
+  member of:
+  - value: Q9cyea8
+    references:
+    - *id001
+    qualifiers:
+      role: kamancheh

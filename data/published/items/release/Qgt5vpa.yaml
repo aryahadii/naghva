@@ -1,0 +1,66 @@
+id: Qgt5vpa
+type: release
+statements:
+  name:
+  - value:
+      text: Concert Intro (live in Tehran)
+      language: en
+    references:
+    - source: www.youtube.com-watch-v-sqqxrthlpn4
+      quote: Pouya Mahmoodi - Concert Intro
+      accessed: '2026-11-21'
+      locator: Label upload title
+  performer:
+  - value: Qjwhj2t
+    references:
+    - source: www.youtube.com-watch-v-sqqxrthlpn4
+      quote: Pouya Mahmoodi - Concert Intro
+      accessed: '2026-11-21'
+      locator: Label upload title
+  - value: Qs2nwh3
+    references:
+    - source: www.youtube.com-watch-v-sqqxrthlpn4
+      quote: Barad
+      accessed: '2026-11-21'
+      locator: Artist and band identified in description
+  - value: Qa6r74t
+    qualifiers:
+      role:
+      - bass
+    references:
+    - source: www.youtube.com-watch-v-mdkevj3jfp4
+      quote: Barad - Concert Intro
+      accessed: '2026-11-21'
+      locator: Native YouTube recording
+  listen link:
+  - value: https://www.youtube.com/watch?v=SqqxRthLpN4
+    references:
+    - source: www.youtube.com-watch-v-sqqxrthlpn4
+      quote: Pouya Mahmoodi - Concert Intro
+      accessed: '2026-11-21'
+      locator: Label upload title
+  - value: https://www.youtube.com/watch?v=mDkEVJ3jFp4
+    references:
+    - source: www.youtube.com-watch-v-mdkevj3jfp4
+      quote: Barad - Concert Intro
+      accessed: '2026-11-21'
+      locator: Native YouTube recording
+  cover art:
+  - value: https://i.ytimg.com/vi/SqqxRthLpN4/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGHIgVig2MA8=&rs=AOn4CLBCjtWc9L3dOKmBgDhlT1QAlqznJQ
+    qualifiers:
+      credit:
+        text: Faryaad Records on YouTube
+        language: en
+    references:
+    - source: www.youtube.com-watch-v-sqqxrthlpn4
+      quote: https://i.ytimg.com/vi/SqqxRthLpN4/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGHIgVig2MA8=&rs=AOn4CLBCjtWc9L3dOKmBgDhlT1QAlqznJQ
+      accessed: '2026-11-21'
+      locator: Original upload image
+  release date:
+  - value:
+      date: '2009-04-26'
+    references:
+    - source: www.youtube.com-watch-v-sqqxrthlpn4
+      quote: '2009-04-26'
+      accessed: '2026-11-21'
+      locator: Original video publication

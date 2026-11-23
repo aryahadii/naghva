@@ -1,0 +1,57 @@
+id: Qsyjjda
+type: release
+statements:
+  name:
+  - value:
+      text: Humachine
+      language: en
+    references:
+    - source: zabtesote.bandcamp.com-track-humachine
+      quote: Humachine | Nima Aghiani | Zabte Sote
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qgncp5r
+    references:
+    - source: zabtesote.bandcamp.com-album-convergence-zone
+      quote: Convergence Zone | Nima Aghiani | Zabte Sote
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://zabtesote.bandcamp.com/track/humachine
+    references:
+    - source: zabtesote.bandcamp.com-track-humachine
+      quote: Humachine | Nima Aghiani | Zabte Sote
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/humachine/1809743462
+    references:
+    - source: music.apple.com-us-song-humachine-1809743462
+      quote: ‎Humachine - Song with Lyrics by Nima Aghiani - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/6W9TC7SYrAcFTENxtxU4jG
+    references:
+    - source: open.spotify.com-track-6w9tc7syracftenxtxu4jg
+      quote: Humachine - song and lyrics by Nima Aghiani | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2019-09-06'
+    references:
+    - source: zabtesote.bandcamp.com-album-convergence-zone
+      quote: released September 6, 2019
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a0078217093_10.jpg
+    references:
+    - source: zabtesote.bandcamp.com-track-humachine
+      quote: https://f4.bcbits.com/img/a0078217093_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Zabte Sote
+        language: en

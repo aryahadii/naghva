@@ -1,0 +1,46 @@
+id: Qqafa9g
+type: release
+statements:
+  name:
+  - value:
+      text: Persian Traditional Avaz-e Dashti
+      language: en
+    references:
+    - source: siamak-jahangiri-ap564088521
+      quote: Persian Traditional Avaz-e Dashti
+      accessed: '2026-11-21'
+      locator: Sony issue
+  performer:
+  - value: Qnz4xnz
+    references:
+    - source: siamak-jahangiri-spotifyartist
+      quote: Persian Traditional Avaz-e Dashti
+      accessed: '2026-11-21'
+      locator: Artist’s credited recording
+  listen link:
+  - value: https://music.apple.com/us/song/persian-traditional-avaz-e-dashti/564088729
+    references:
+    - source: siamak-jahangiri-ap564088521
+      quote: https://music.apple.com/us/song/persian-traditional-avaz-e-dashti/564088729
+      accessed: '2026-11-21'
+      locator: Exact Apple issue
+  - value: https://open.spotify.com/track/1ezANRhOu41ndn7xABSErT
+    references:
+    - source: siamak-jahangiri-ed1hmqdlh7wcxyegxivr86he
+      quote: spotify:track:1ezANRhOu41ndn7xABSErT
+      accessed: '2026-11-21'
+      locator: Exact Spotify issue
+  - value: https://www.youtube.com/watch?v=PaGU_FgmsfU
+    references:
+    - source: siamak-jahangiri-yt-dashti
+      quote: Persian Traditional Avaz-e Dashti
+      accessed: '2026-11-21'
+      locator: Publisher catalogue title or programme
+  release date:
+  - value:
+      date: '2002-04-16'
+    references:
+    - source: siamak-jahangiri-ap564088521
+      quote: '2002-04-16'
+      accessed: '2026-11-21'
+      locator: Digital issue date

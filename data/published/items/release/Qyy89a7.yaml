@@ -1,0 +1,49 @@
+id: Qyy89a7
+type: release
+statements:
+  name:
+  - value:
+      text: منارجنبون
+      language: fa
+    references:
+    - source: www.youtube.com-watchv-qbxcfk9-z8w
+      quote: منارجنبون
+      accessed: '2026-11-21'
+      locator: Official upload title
+  performer:
+  - value: Qzhgpkw
+    references:
+    - source: www.youtube.com-watchv-qbxcfk9-z8w
+      quote: منارجنبون
+      accessed: '2026-11-21'
+      locator: Official upload title
+    - source: www.youtube.com-watchv-qbxcfk9-z8w
+      quote: Babak Rajabi
+      accessed: '2026-11-21'
+      locator: Uploading artist
+  listen link:
+  - value: https://www.youtube.com/watch?v=QbXcFK9-z8w
+    references:
+    - source: www.youtube.com-watchv-qbxcfk9-z8w
+      quote: منارجنبون
+      accessed: '2026-11-21'
+      locator: Official upload title
+  release date:
+  - value:
+      date: '2016-12-17'
+    references:
+    - source: www.youtube.com-watchv-qbxcfk9-z8w
+      quote: '20161217'
+      accessed: '2026-11-21'
+      locator: Video publication date, YYYYMMDD
+  cover art:
+  - value: https://i.ytimg.com/vi/QbXcFK9-z8w/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watchv-qbxcfk9-z8w
+      quote: https://i.ytimg.com/vi/QbXcFK9-z8w/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Release image URL
+    qualifiers:
+      credit:
+        text: Babak Rajabi · YouTube
+        language: en

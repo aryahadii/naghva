@@ -1,0 +1,51 @@
+id: Q47tje5
+type: release
+statements:
+  name:
+  - value:
+      text: Den Underbara Fiolen
+      language: en
+    references:
+    - source: open.spotify.com-album-4px3k6ivink8nxnq8dpooi
+      quote: Den Underbara Fiolen
+      accessed: '2026-11-21'
+      locator: Track 4
+  performer:
+  - value: Qypq9he
+    references:
+    - source: grappa.no-en-albums-grappa-harpa
+      quote: Djavid Afzari Rad
+      accessed: '2026-11-21'
+      locator: Recording personnel
+  release date:
+  - value:
+      date: '1997'
+    references:
+    - source: open.spotify.com-album-4px3k6ivink8nxnq8dpooi
+      quote: '1997'
+      accessed: '2026-11-21'
+      locator: Original release
+  listen link:
+  - value: https://open.spotify.com/track/43g3g9l31PGxg0PIpcBKag
+    references:
+    - source: open.spotify.com-album-4px3k6ivink8nxnq8dpooi
+      quote: Den Underbara Fiolen
+      accessed: '2026-11-21'
+      locator: Track 4
+  - value: https://music.apple.com/us/song/den-underbara-fiolen/1794700117
+    references:
+    - source: music.apple.com-us-album-harpa-1794700107
+      quote: Den Underbara Fiolen
+      accessed: '2026-11-21'
+      locator: Track 4
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d0000b273c1680b035f2826401487b144
+    references:
+    - source: open.spotify.com-album-4px3k6ivink8nxnq8dpooi
+      quote: https://i.scdn.co/image/ab67616d0000b273c1680b035f2826401487b144
+      accessed: '2026-11-21'
+      locator: Spotify release artwork
+    qualifiers:
+      credit:
+        text: Harpa · Spotify
+        language: en

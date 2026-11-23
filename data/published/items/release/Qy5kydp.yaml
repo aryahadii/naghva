@@ -20,13 +20,15 @@ statements:
   - value: Q84j5eh
     references:
     - source: music.apple.com-us-album-vaya-vaya-single-1589790344
-      quote: '[{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/kronos-quartet/3567849","name":"Kronos Quartet"},{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/mahsa-vahdat/65413022","name":"Mahsa
+      quote: '[{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/kronos-quartet/3567849","name":"Kronos
+        Quartet"},{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/mahsa-vahdat/65413022","name":"Mahsa
         Vahdat"}]'
       accessed: '2026-11-13'
   - value: Qp2mk6b
     references:
     - source: music.apple.com-us-album-vaya-vaya-single-1589790344
-      quote: '[{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/kronos-quartet/3567849","name":"Kronos Quartet"},{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/mahsa-vahdat/65413022","name":"Mahsa
+      quote: '[{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/kronos-quartet/3567849","name":"Kronos
+        Quartet"},{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/mahsa-vahdat/65413022","name":"Mahsa
         Vahdat"}]'
       accessed: '2026-11-13'
   listen link:
@@ -48,11 +50,21 @@ statements:
   contributor:
   - value: Q5z9jzy
     qualifiers:
-      role: arranger
+      role:
+      - arranger
+      - composer
     references:
     - source: www.kkv.no-en-music-vaya-vaya-3
       quote: the arrangement was written by Atabak Elyasi.
       accessed: '2026-11-13'
+    - source: www.kkv.no-en-music-vaya-vaya-3
+      quote: the arrangement was written by Atabak Elyasi.
+      accessed: 2026-11-21
+      locator: Label arrangement credit
+    - source: calperformances.org-program-notes-2021-22-kronos-quartet-and-mahsa-vahdat
+      quote: music by Mahsa Vahdat and Atabak Elyasi
+      accessed: 2026-11-21
+      locator: Stanford commission credit
   - value: Qp2mk6b
     qualifiers:
       role:

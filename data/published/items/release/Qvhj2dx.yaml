@@ -1,0 +1,50 @@
+id: Qvhj2dx
+type: release
+statements:
+  name:
+  - value:
+      text: The Fifth Dream
+      language: en
+    references:
+    - &id001
+      source: azutiwaline.bandcamp.com-album-the-fifth-dream
+      quote: The Fifth Dream
+      accessed: '2026-11-21'
+      locator: Recording title or artist credit
+  performer:
+  - value: Q4q92dh
+    references:
+    - source: azutiwaline.bandcamp.com-album-the-fifth-dream
+      quote: Tombak and modular arrangements by Cinna Peyghamy
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://azutiwaline.bandcamp.com/album/the-fifth-dream
+    references:
+    - source: azutiwaline.bandcamp.com-album-the-fifth-dream
+      quote: The Fifth Dream | Azu Tiwaline
+      accessed: '2026-11-21'
+      locator: Page title
+  release type:
+  - value: album
+    references:
+    - *id001
+  cover art:
+  - value: https://f4.bcbits.com/img/a1483960096_10.jpg
+    references:
+    - source: azutiwaline.bandcamp.com-album-the-fifth-dream
+      quote: https://f4.bcbits.com/img/a1483960096_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Azu Tiwaline on Bandcamp
+        language: en
+  release date:
+  - value:
+      date: '2023-10-06'
+    references:
+    - source: azutiwaline.bandcamp.com-album-the-fifth-dream
+      quote: released October 6, 2023
+      accessed: '2026-11-21'
+      locator: Published date

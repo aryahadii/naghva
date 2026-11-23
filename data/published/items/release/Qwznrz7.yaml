@@ -1,0 +1,51 @@
+id: Qwznrz7
+type: release
+statements:
+  name:
+  - value:
+      text: Horsewoman
+      language: en
+    references:
+    - source: avarasti.bandcamp.com-track-horsewoman
+      quote: Horsewoman | Ava Rasti
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qks2dfk
+    references:
+    - source: avarasti.bandcamp.com-track-horsewoman
+      quote: Horsewoman | Ava Rasti
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://avarasti.bandcamp.com/track/horsewoman
+    references:
+    - source: avarasti.bandcamp.com-track-horsewoman
+      quote: Horsewoman | Ava Rasti
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1671721025
+    references:
+    - source: music.apple.com-us-song-1671721025
+      quote: ‎Horsewoman - Song with Lyrics by Ava Rasti - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a1526603123_10.jpg
+    references:
+    - source: avarasti.bandcamp.com-track-horsewoman
+      quote: https://f4.bcbits.com/img/a1526603123_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original recording publisher
+        language: en
+  release date:
+  - value:
+      date: '2023-05-16'
+    references:
+    - source: avarasti.bandcamp.com-album-butterfly-saki
+      quote: released May 16, 2023
+      accessed: '2026-11-21'
+      locator: Published date

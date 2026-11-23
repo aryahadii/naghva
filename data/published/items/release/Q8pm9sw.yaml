@@ -1,0 +1,63 @@
+id: Q8pm9sw
+type: release
+statements:
+  name:
+  - value:
+      text: Tech5
+      language: en
+    references:
+    - source: kopirecs.bandcamp.com-track-tech5
+      quote: Tech5 | ArtSaves | Kopi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qw9zs9g
+    references:
+    - source: kopirecs.bandcamp.com-album-unref
+      quote: ArtSaves
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://kopirecs.bandcamp.com/track/tech5
+    references:
+    - source: kopirecs.bandcamp.com-track-tech5
+      quote: Tech5 | ArtSaves | Kopi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1404205966
+    references:
+    - source: music.apple.com-us-song-1404205966
+      quote: ‎Tech5 - Song with Lyrics by ArtSaves - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/6QmPuIvRgSBxNuVAqJaQnR
+    references:
+    - source: open.spotify.com-track-6qmpuivrgsbxnuvaqjaqnr
+      quote: Tech5 - song and lyrics by ArtSaves | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/artsvs/tekom
+    references:
+    - source: soundcloud.com-artsvs-tekom
+      quote: Stream Tech5 by ArtSaves | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a0263382756_10.jpg
+    references:
+    - source: kopirecs.bandcamp.com-track-tech5
+      quote: https://f4.bcbits.com/img/a0263382756_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Parnian Ghorbani
+        language: en
+  release date:
+  - value:
+      date: '2018-07-02'
+    references:
+    - source: kopirecs.bandcamp.com-track-tech5
+      quote: released July 2, 2018
+      accessed: '2026-11-21'
+      locator: Published date

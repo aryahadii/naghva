@@ -1,0 +1,36 @@
+id: Qays4t4
+type: release
+statements:
+  name:
+  - value:
+      text: '#4'
+      language: en
+    references:
+    - source: open.spotify.com-album-1noovgnnafeiryhdsmglnj
+      quote: '#4'
+      accessed: 2026-11-21
+      locator: Track heading
+  listen link:
+  - value: https://open.spotify.com/track/63S1uE6mNRomtFD8ywvOPj
+    references:
+    - source: open.spotify.com-album-1noovgnnafeiryhdsmglnj
+      quote: /kry
+      accessed: 2026-11-21
+      locator: Track billing
+  performer:
+  - value: Q349g6b
+    references:
+    - source: open.spotify.com-album-1noovgnnafeiryhdsmglnj
+      quote: /kry
+      accessed: 2026-11-21
+      locator: Track billing
+  - value: Qyy9hf9
+    qualifiers:
+      role:
+      - clarinet
+      - electronics
+    references:
+    - source: www.freifeldtontraeger.com-kry
+      quote: Mona Matbou Riahi - Clarinet/fx
+      accessed: 2026-11-21
+      locator: Trio personnel

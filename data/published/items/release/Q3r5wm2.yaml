@@ -1,0 +1,76 @@
+id: Q3r5wm2
+type: release
+statements:
+  name:
+  - value:
+      text: Naghib&Saied Shanbehzadeh - Tiva
+      language: en
+    references:
+    - &id001
+      source: soundcloud.com-nag-1-1-naghibsaied-shanbehzadeh-tiva
+      quote: Naghib&Saied Shanbehzadeh - Tiva
+      accessed: '2026-11-21'
+      locator: Artist’s SoundCloud recording
+  performer:
+  - value: Qvhrrm8
+    references:
+    - *id001
+  - value: Qyd93n9
+    references:
+    - *id001
+  - value: Q5wqgx7
+    references:
+    - source: soundcloud.com-nag-1-1-naghibsaied-shanbehzadeh-tiva
+      quote: Nese Ulas
+      accessed: '2026-11-21'
+      locator: Named contributor to track
+  listen link:
+  - value: https://soundcloud.com/nag-1-1/naghibsaied-shanbehzadeh-tiva
+    references:
+    - *id001
+  - value: https://www.youtube.com/watch?v=lZKRtUoGJRo
+    references:
+    - source: www.youtube.com-watch-v-lzkrtuogjro
+      quote: Naghib&Saeid Shanbehzadeh - TIVA
+      accessed: '2026-11-21'
+      locator: Artist-published performance film
+  - value: https://t.me/saeidshanbehzadeh/109
+    references:
+    - source: t.me-saeidshanbehzadeh-109
+      quote: تيوا - آهنگساز نقيب شنبه زاده- طرح از مازيار اصغري
+      accessed: '2026-11-21'
+      locator: Artist’s caption to recording
+  - value: https://t.me/saeidshanbehzadeh/470
+    references:
+    - source: t.me-saeidshanbehzadeh-470
+      quote: قطعه تيوا تنظيم نقيب شنبه زاده بر اساس تمي از محمد منصور وزيري، خواننده سعيد شنبه زاده، طرح از مازيار اصغري
+      accessed: '2026-11-21'
+      locator: Artist’s caption to recording
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-000219681487-e6dr34-large.jpg
+    references:
+    - source: soundcloud.com-nag-1-1-naghibsaied-shanbehzadeh-tiva
+      quote: https://i1.sndcdn.com/artworks-000219681487-e6dr34-large.jpg
+      accessed: '2026-11-21'
+      locator: Artist file artwork
+    qualifiers:
+      credit:
+        text: Naghib Shanbehzadeh / SoundCloud
+        language: en
+  contributor:
+  - value: Qvhrrm8
+    references:
+    - source: t.me-saeidshanbehzadeh-470
+      quote: تنظيم نقيب شنبه زاده
+      accessed: '2026-11-21'
+      locator: Artist’s arrangement credit
+    qualifiers:
+      role: arranger
+  - value: Qme7j5v
+    references:
+    - source: t.me-saeidshanbehzadeh-470
+      quote: محمد منصور وزيري
+      accessed: '2026-11-21'
+      locator: Original theme attribution
+    qualifiers:
+      role: composer

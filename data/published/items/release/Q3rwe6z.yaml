@@ -1,0 +1,49 @@
+id: Q3rwe6z
+type: release
+statements:
+  name:
+  - value:
+      text: Bibin karada Iranian song by Babak Rajabi
+      language: en
+    references:
+    - source: www.youtube.com-watchv-0sm-yf6nbie
+      quote: Bibin karada Iranian song by Babak Rajabi
+      accessed: '2026-11-21'
+      locator: Official upload title
+  performer:
+  - value: Qzhgpkw
+    references:
+    - source: www.youtube.com-watchv-0sm-yf6nbie
+      quote: Bibin karada Iranian song by Babak Rajabi
+      accessed: '2026-11-21'
+      locator: Official upload title
+    - source: www.youtube.com-watchv-0sm-yf6nbie
+      quote: Babak Rajabi
+      accessed: '2026-11-21'
+      locator: Uploading artist
+  listen link:
+  - value: https://www.youtube.com/watch?v=0SM-Yf6nBIE
+    references:
+    - source: www.youtube.com-watchv-0sm-yf6nbie
+      quote: Bibin karada Iranian song by Babak Rajabi
+      accessed: '2026-11-21'
+      locator: Official upload title
+  release date:
+  - value:
+      date: '2020-03-18'
+    references:
+    - source: www.youtube.com-watchv-0sm-yf6nbie
+      quote: '20200318'
+      accessed: '2026-11-21'
+      locator: Video publication date, YYYYMMDD
+  cover art:
+  - value: https://i.ytimg.com/vi/0SM-Yf6nBIE/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watchv-0sm-yf6nbie
+      quote: https://i.ytimg.com/vi/0SM-Yf6nBIE/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Release image URL
+    qualifiers:
+      credit:
+        text: Babak Rajabi · YouTube
+        language: en

@@ -1,0 +1,69 @@
+id: Qsk2hvw
+type: release
+statements:
+  name:
+  - value:
+      text: Out of Control
+      language: en
+    references:
+    - source: music.apple.com-us-album-out-of-control-single-1477340245
+      quote: Out of Control
+      locator: Track 1
+      accessed: '2026-11-21'
+  performer:
+  - value: Qxmhx58
+    references:
+    - source: music.apple.com-us-album-out-of-control-single-1477340245
+      quote: Marie Sahba
+      locator: Primary release artist
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2019-09-27'
+    references:
+    - source: music.apple.com-us-album-out-of-control-single-1477340245
+      quote: '2019-09-27'
+      locator: Edition date
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/33/8d/0c/338d0cef-eea5-bf22-4828-a90c5f57da94/61386.jpg/632x632bb-60.jpg
+    references:
+    - source: music.apple.com-us-album-out-of-control-single-1477340245
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/33/8d/0c/338d0cef-eea5-bf22-4828-a90c5f57da94/61386.jpg/632x632bb-60.jpg
+      locator: Apple Music release artwork
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Out of Control · Apple Music
+        language: en
+  listen link:
+  - value: https://music.apple.com/us/song/out-of-control/1477340516
+    references:
+    - source: music.apple.com-us-album-out-of-control-single-1477340245
+      quote: Out of Control
+      locator: Track 1
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/2BcPW9xrLp9zSJhe5U6WpR
+    references:
+    - source: open.spotify.com-album-1rfhzdnmbczjavfx9xs317
+      quote: Out of Control
+      locator: Track 1
+      accessed: '2026-11-21'
+  - value: https://music.apple.com/us/song/out-of-control/1484088176
+    references:
+    - source: music.apple.com-us-album-out-of-control-ep-1484087986
+      quote: Out of Control
+      locator: Track 5
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/27ReK7m1ARYeRxr9AbtSol
+    references:
+    - source: open.spotify.com-album-2wfn1nsmnkanwp0xzz1el4
+      quote: Out of Control
+      locator: Track 5
+      accessed: '2026-11-21'
+  - value: https://soundcloud.com/mariesahba/out-of-control
+    references:
+    - source: soundcloud.com-mariesahba-out-of-control
+      quote: Out of Control
+      locator: Original SoundCloud upload
+      accessed: '2026-11-21'

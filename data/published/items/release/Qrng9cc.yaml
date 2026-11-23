@@ -9,12 +9,28 @@ statements:
     - source: 9tantiope.bandcamp.com-album-grimace
       quote: Grimace
       accessed: '2026-11-21'
+    - source: 9tantiope.bandcamp.com-album-grimace
+      quote: Grimace | 9T Antiope
+      accessed: '2026-11-21'
+      locator: Page title
   performer:
   - value: Qyv32ms
     references:
     - source: 9tantiope.bandcamp.com-album-grimace
       quote: 9T Antiope
       accessed: '2026-11-21'
+    - source: 9tantiope.bandcamp.com-album-grimace
+      quote: Grimace | 9T Antiope
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qz5swxp
+    references:
+    - source: 9tantiope.bandcamp.com-album-grimace
+      quote: 'Vocals & Lyrics: Sara Bigdeli Shamloo'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: vocals
   release date:
   - value:
       date: '2019-09-09'
@@ -22,12 +38,20 @@ statements:
     - source: 9tantiope.bandcamp.com-album-grimace
       quote: 09 Sep 2019 00:00:00 GMT
       accessed: '2026-11-21'
+    - source: 9tantiope.bandcamp.com-album-grimace
+      quote: released September 9, 2019
+      accessed: '2026-11-21'
+      locator: Published date
   listen link:
   - value: https://9tantiope.bandcamp.com/album/grimace
     references:
     - source: 9tantiope.bandcamp.com-album-grimace
       quote: Grimace
       accessed: '2026-11-21'
+    - source: 9tantiope.bandcamp.com-album-grimace
+      quote: Grimace | 9T Antiope
+      accessed: '2026-11-21'
+      locator: Page title
   cover art:
   - value: https://f4.bcbits.com/img/a1346749402_10.jpg
     references:
@@ -41,3 +65,29 @@ statements:
       credit:
         text: øjeRum
         language: en
+  - value: https://f4.bcbits.com/img/a1346749402_10.jpg
+    references:
+    - source: 9tantiope.bandcamp.com-album-grimace
+      quote: https://f4.bcbits.com/img/a1346749402_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: 9T Antiope
+        language: en
+  contributor:
+  - value: Qgncp5r
+    references:
+    - source: 9tantiope.bandcamp.com-album-grimace
+      quote: 'Composer: Nima Aghiani'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: composer
+  release type:
+  - value: album
+    references:
+    - source: 9tantiope.bandcamp.com-album-grimace
+      quote: Grimace | 9T Antiope
+      accessed: '2026-11-21'
+      locator: Page title

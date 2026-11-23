@@ -1,0 +1,72 @@
+id: Qh92ar9
+type: release
+statements:
+  name:
+  - value:
+      text: Lêyle
+      language: en
+    references:
+    - source: music.apple.com-us-album-l-c3-aayle-6816082074
+      quote: Lêyle
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
+  performer:
+  - value: Qje5fct
+    references:
+    - source: music.apple.com-us-album-l-c3-aayle-6816082074
+      quote: Zanyar Hesami
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2026-09-25'
+    references:
+    - source: music.apple.com-us-album-l-c3-aayle-6816082074
+      quote: '2026-09-25'
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/97/f0/b1/97f0b108-46a4-c2b9-3555-2edc82f74c25/7333595913862.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-l-c3-aayle-6816082074
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/97/f0/b1/97f0b108-46a4-c2b9-3555-2edc82f74c25/7333595913862.jpg/1200x630bb.jpg
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Lêyle - Single
+        language: en
+  listen link:
+  - value: https://music.apple.com/us/song/l%C3%AAyle/6816082075
+    references:
+    - source: music.apple.com-us-album-l-c3-aayle-6816082074
+      quote: Lêyle
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/57ZhHUpFrfCpe8cbfikPol
+    references:
+    - source: open.spotify.com-embed-album-5untetnltx40iywuvbeq4y
+      quote: Lêyle
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
+  - value: https://music.apple.com/us/album/l%C3%AAyle-single/6816082074
+    references:
+    - source: music.apple.com-us-album-l-c3-aayle-6816082074
+      quote: Lêyle - Single
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
+  - value: https://www.youtube.com/watch?v=xThQXfCLEI8
+    references:
+    - source: www.youtube.com-oembed-xthqxfclei8
+      quote: Zanyar Hesami – Lêyle | لەیلێ
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
+  contributor:
+  - value: Qje5fct
+    references:
+    - source: www.youtube.com-watchv-xthqxfclei8
+      quote: Zanyar Hesami
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
+    qualifiers:
+      role: lyricist

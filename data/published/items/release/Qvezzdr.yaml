@@ -1,0 +1,79 @@
+id: Qvezzdr
+type: release
+statements:
+  name:
+  - value:
+      text: Abadiyat Kameh
+      language: en
+    references:
+    - source: music.apple.com-us-album-nemidaanand-1523604397
+      quote: Abadiyat Kameh
+      accessed: '2026-11-21'
+      locator: Digital edition track 4
+  release date:
+  - value:
+      date: '2008'
+    references:
+    - source: musishen.com
+      quote: '2008'
+      accessed: '2026-11-21'
+      locator: Artist discography, Nemidaanand
+  performer:
+  - value: Qavhs3y
+    references:
+    - source: music.apple.com-us-album-nemidaanand-1523604397
+      quote: Shen Band
+      accessed: '2026-11-21'
+      locator: Release billing
+  - value: Qec6smv
+    references:
+    - &id001
+      source: musishen.com
+      quote: write, compose, arrange, perform and produce seven collections
+      accessed: '2026-11-21'
+      locator: Artist biography, dated catalogue or interview
+  contributor:
+  - value: Qec6smv
+    references:
+    - *id001
+    qualifiers:
+      role:
+      - composer
+      - arranger
+      - producer
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e5/98/da/e598dab2-019a-87a2-ca8a-274f23585717/195079871627.jpg/1200x630wp-60.jpg
+    references:
+    - source: music.apple.com-us-album-nemidaanand-1523604397
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e5/98/da/e598dab2-019a-87a2-ca8a-274f23585717/195079871627.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Original release cover
+    qualifiers:
+      credit:
+        text: Shen Band, Apple Music edition artwork
+        language: en
+  listen link:
+  - value: https://music.apple.com/us/song/abadiyat-kameh/1523604401
+    references:
+    - source: music.apple.com-us-album-nemidaanand-1523604397
+      quote: https://music.apple.com/us/song/abadiyat-kameh/1523604401
+      accessed: '2026-11-21'
+      locator: Apple Music exact song
+  - value: https://open.spotify.com/track/0BS3jF6KzqOC63lQY0qn30
+    references:
+    - source: open.spotify.com-embed-album-0bpzlzu5gdwsvskamvbhzc
+      quote: spotify:track:0BS3jF6KzqOC63lQY0qn30
+      accessed: '2026-11-21'
+      locator: Spotify exact song
+  - value: https://www.youtube.com/watch?v=rqm4_Zbz_ck
+    references:
+    - source: www.youtube.com-playlist-list-olak5uy_l5ghlhmmb4phtf9g-yytgqb8tqlurxli0
+      quote: rqm4_Zbz_ck
+      accessed: '2026-11-21'
+      locator: Official album track 4
+  - value: https://www.youtube.com/watch?v=gHyucmS89X0
+    references:
+    - source: www.youtube.com-watch-v-ghyucms89x0
+      quote: Shen Band - گروه شن - ابدیت کمه
+      accessed: '2026-11-21'
+      locator: Artist-published video

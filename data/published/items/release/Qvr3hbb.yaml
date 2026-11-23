@@ -1,0 +1,70 @@
+id: Qvr3hbb
+type: release
+statements:
+  name:
+  - value:
+      text: Not Really
+      language: en
+    references:
+    - source: eishanensemble.bandcamp.com-track-not-really
+      quote: Not Really
+      accessed: '2026-11-21'
+      locator: Track heading
+  performer:
+  - value: Qhebfsp
+    references:
+    - source: eishanensemble.bandcamp.com-track-not-really
+      quote: Not Really | Eishan Ensemble
+      accessed: '2026-11-21'
+      locator: Track and performer
+  release date:
+  - value:
+      date: '2021-05-07'
+    references:
+    - source: eishanensemble.bandcamp.com-album-project-masnavi
+      quote: released May 7, 2021
+      accessed: '2026-11-21'
+      locator: Release date
+  cover art:
+  - value: https://f4.bcbits.com/img/a1507087778_10.jpg
+    qualifiers:
+      credit:
+        text: Cover photo, Hossein Fatemi
+        language: en
+    references:
+    - source: eishanensemble.bandcamp.com-album-project-masnavi
+      quote: https://f4.bcbits.com/img/a1507087778_10.jpg
+      accessed: '2026-11-21'
+      locator: Album cover
+    - source: eishanensemble.bandcamp.com-album-project-masnavi
+      quote: Cover photo, Hossein Fatemi
+      accessed: '2026-11-21'
+      locator: Cover credit
+  listen link:
+  - value: https://eishanensemble.bandcamp.com/track/not-really
+    references:
+    - source: eishanensemble.bandcamp.com-track-not-really
+      quote: Not Really | Eishan Ensemble
+      accessed: '2026-11-21'
+      locator: Track and performer
+  - value: https://open.spotify.com/track/759FidatJTB4ES9BTSFXbJ
+    references:
+    - source: open.spotify.com-album-7evygwy3li1qcotlpwrd32
+      quote: Not Really
+      accessed: '2026-11-21'
+      locator: Spotify album track 6
+  - value: https://music.apple.com/us/album/not-really-feat-hamed-sadeghi-michael-avgenicos-maximillian/1566059993?i=1566060000
+    references:
+    - source: music.apple.com-us-album-project-masnavi-1566059993
+      quote: Not Really (feat. Hamed Sadeghi, Michael Avgenicos, Maximillian Alduca & Alex Inmam-Hislop)
+      accessed: '2026-11-21'
+      locator: Apple Music track 6
+  contributor:
+  - value: Qmgbz4h
+    qualifiers:
+      role: composer
+    references:
+    - source: eishanensemble.bandcamp.com-album-project-masnavi
+      quote: Compositions. Hamed Sadeghi
+      accessed: '2026-11-21'
+      locator: Composer credit

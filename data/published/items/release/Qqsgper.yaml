@@ -1,0 +1,52 @@
+id: Qqsgper
+type: release
+statements:
+  name:
+  - value:
+      text: Ahriman
+      language: en
+    references:
+    - &id001
+      source: open.spotify.com-embed-album-5zchcgkg2fdzysnbeynmuk
+      quote: Ahriman
+      accessed: '2026-11-21'
+      locator: Spotify track 1
+  performer:
+  - value: Qqb9bnx
+    references:
+    - *id001
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d0000b273cb4e57b3a0cc692d0a3c0ddc
+    references:
+    - source: open.spotify.com-embed-album-5zchcgkg2fdzysnbeynmuk
+      quote: https://image-cdn-ak.spotifycdn.com/image/ab67616d0000b273cb4e57b3a0cc692d0a3c0ddc
+      accessed: '2026-11-21'
+      locator: Digital cover
+    qualifiers:
+      credit:
+        text: Spotify, original edition artwork
+        language: en
+  release date:
+  - value:
+      date: '2023'
+    references:
+    - source: www.radiopodcast.unam.mx-podcast-audio-45383
+      quote: “ASATIR”, publicado en 2023
+      accessed: '2026-11-21'
+      locator: Broadcaster description
+  listen link:
+  - value: https://open.spotify.com/track/6LIti7DA9gENT2itQ7sIP5
+    references:
+    - source: open.spotify.com-embed-album-5zchcgkg2fdzysnbeynmuk
+      quote: spotify:track:6LIti7DA9gENT2itQ7sIP5
+      accessed: '2026-11-21'
+      locator: Exact Spotify track
+  contributor:
+  - value: Qqb9bnx
+    references:
+    - source: www.radiopodcast.unam.mx-podcast-audio-45383
+      quote: Composiciones de Mehdi Moshtagh
+      accessed: '2026-11-21'
+      locator: Radio UNAM cue sheet
+    qualifiers:
+      role: composer

@@ -5,12 +5,51 @@ statements:
   - value:
       text: Aida Shahghasemi
       language: en
-    references: &id001
+    references:
     - source: soundcloud.com-moodymoussavi-oryan-4ca39634ad2f
       quote: 'Aida Shahghasemi: Featuring Artist (Oryan)'
       accessed: '2026-11-06'
   - value:
       text: آیدا شاه‌قاسمی
       language: fa
-    # Editorial Persian display spelling; source uses the Latin name.
-    references: *id001
+    references:
+    - source: aidashahghasemi.bandcamp.com-album-sar-b-2
+      quote: آیدا شاه‌قاسمی
+      accessed: 2026-11-21
+      locator: Signature on the artist’s own Persian lyrics
+  image:
+  - value: https://i.scdn.co/image/ab6761610000e5ebdc2e7eb8f0ed0db0ab06471f
+    qualifiers:
+      credit:
+        text: Aida Shahghasemi, Spotify artist profile
+        language: en
+    references:
+    - source: open.spotify.com-artist-1bqljqrmtgj4p2gy9nn9mz
+      quote: https://i.scdn.co/image/ab6761610000e5ebdc2e7eb8f0ed0db0ab06471f
+      accessed: 2026-11-21
+      locator: Native artist portrait
+  profile link:
+  - value: https://open.spotify.com/artist/1bQlJQRMtgj4p2gy9nN9Mz
+    references:
+    - source: open.spotify.com-artist-1bqljqrmtgj4p2gy9nn9mz
+      quote: Aida Shahghasemi
+      accessed: 2026-11-21
+      locator: Native artist profile
+  - value: https://aidashahghasemi.bandcamp.com/music
+    references:
+    - source: aidashahghasemi.bandcamp.com-music
+      quote: Aida Shahghasemi
+      accessed: 2026-11-21
+      locator: Native artist profile
+  - value: https://music.apple.com/us/artist/aida-shahghasemi/464813889
+    references:
+    - source: music.apple.com-us-artist-aida-shahghasemi-464813889
+      quote: Aida Shahghasemi
+      accessed: 2026-11-21
+      locator: Native artist profile
+  - value: http://soundcloud.com/aidashahghasemi
+    references:
+    - source: soundcloud.com-aidashahghasemi
+      quote: Aida Shahghasemi
+      accessed: 2026-11-21
+      locator: Native artist profile

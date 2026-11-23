@@ -1,0 +1,63 @@
+id: Qv8bf3p
+type: release
+statements:
+  name:
+  - value:
+      text: Black Balloon
+      language: en
+    references:
+    - source: music.apple.com-us-album-looking-back-facing-forward-395720185
+      quote: Black Balloon
+      accessed: '2026-11-21'
+      locator: Original interview, programme or release metadata
+  performer:
+  - value: Qst5f86
+    references:
+    - source: music.apple.com-us-album-looking-back-facing-forward-395720185
+      quote: Soul Nidus
+      accessed: '2026-11-21'
+      locator: Original interview, programme or release metadata
+  release date:
+  - value:
+      date: '2010-10-10'
+    references:
+    - source: music.apple.com-us-album-looking-back-facing-forward-395720185
+      quote: '2010-10-10'
+      accessed: '2026-11-21'
+      locator: Original interview, programme or release metadata
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music/18/a1/12/mzi.wgbaajdf.jpg/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Soul Nidus digital edition via Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-looking-back-facing-forward-395720185
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music/18/a1/12/mzi.wgbaajdf.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Original interview, programme or release metadata
+  listen link:
+  - value: https://music.apple.com/us/song/black-balloon/395720332
+    references:
+    - source: music.apple.com-us-album-looking-back-facing-forward-395720185
+      quote: https://music.apple.com/us/song/black-balloon/395720332
+      accessed: '2026-11-21'
+      locator: Original interview, programme or release metadata
+  - value: https://open.spotify.com/track/1EMuWUfMHet3dhuQ6HhPs2
+    references:
+    - source: open.spotify.com-embed-album-1jcmwnz66xifvkqakxsa2v
+      quote: spotify:track:1EMuWUfMHet3dhuQ6HhPs2
+      accessed: '2026-11-21'
+      locator: Original interview, programme or release metadata
+  - value: https://soundcloud.com/soulnidus/black-balloon
+    references:
+    - source: soundcloud.com-soulnidus-black-balloon
+      quote: Stream SOULNIDUS - BLACK BALLOON by SOULNIDUS | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Original interview, programme or release metadata
+  - value: https://www.youtube.com/watch?v=HGQHzYF8yTg
+    references:
+    - source: www.youtube.com-watch-v-hgqhzyf8ytg
+      quote: SOULNIDUS - BLACK BALLOON
+      accessed: '2026-11-21'
+      locator: Original group channel

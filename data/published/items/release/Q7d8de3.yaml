@@ -1,0 +1,43 @@
+id: Q7d8de3
+type: release
+statements:
+  name:
+  - value:
+      text: Music For Instruments And Synths w/ Cinna Peyghamy
+      language: en
+    references:
+    - &id001
+      source: www.nts.live-shows-guests-episodes-music-for-instruments-and-synths-w-cinna-peyghamy-24th-september-2026
+      quote: Music For Instruments And Synths w/ Cinna Peyghamy 24th September 2026 | Listen on NTS
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Q4q92dh
+    references:
+    - *id001
+  listen link:
+  - value: https://soundcloud.com/user-202286394-991268468/music-for-instruments-and
+    references:
+    - source: soundcloud.com-user-202286394-991268468-music-for-instruments-and
+      quote: Stream Music For Instruments And Synths w/ Cinna Peyghamy 240926 by NTS Latest | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-6uhoH6OimE4c3yV1-sxJfJQ-t500x500.png
+    references:
+    - source: soundcloud.com-user-202286394-991268468-music-for-instruments-and
+      quote: https://i1.sndcdn.com/artworks-6uhoH6OimE4c3yV1-sxJfJQ-t500x500.png
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: NTS
+        language: en
+  release date:
+  - value:
+      date: '2026-09-24'
+    references:
+    - source: www.nts.live-shows-guests-episodes-music-for-instruments-and-synths-w-cinna-peyghamy-24th-september-2026
+      quote: Music For Instruments And Synths w/ Cinna Peyghamy 24th September 2026 | Listen on NTS
+      accessed: '2026-11-21'
+      locator: Page title

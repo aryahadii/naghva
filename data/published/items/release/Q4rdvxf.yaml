@@ -1,0 +1,45 @@
+id: Q4rdvxf
+type: release
+statements:
+  name:
+  - value:
+      text: Unite
+      language: en
+    references:
+    - source: shaytoonrecords.bandcamp.com-track-unite
+      quote: Unite | Xeen | Shaytoon Records
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qb5hnjh
+    references:
+    - source: shaytoonrecords.bandcamp.com-track-unite
+      quote: Unite | Xeen | Shaytoon Records
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://shaytoonrecords.bandcamp.com/track/unite
+    references:
+    - source: shaytoonrecords.bandcamp.com-track-unite
+      quote: Unite | Xeen | Shaytoon Records
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a1616873959_10.jpg
+    references:
+    - source: shaytoonrecords.bandcamp.com-track-unite
+      quote: https://f4.bcbits.com/img/a1616873959_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Publisher artwork
+        language: en
+  release date:
+  - value:
+      date: '2022-03-25'
+    references:
+    - source: shaytoonrecords.bandcamp.com-track-unite
+      quote: released March 25, 2022
+      accessed: '2026-11-21'
+      locator: Published date

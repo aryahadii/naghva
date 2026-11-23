@@ -1,0 +1,17 @@
+id: Qdbykzz
+type: release
+statements:
+  name:
+  - value:
+      text: Preludio setar (Auditorio Blas Galindo)
+      language: en
+    references:
+    - &id001
+      source: videoteca.cenart.gob.mx-canal-23-255759-2
+      quote: 2 00.01:00.023 --> 00.05:50.015 Preludio setar
+      accessed: '2026-11-21'
+      locator: Canal 23 broadcast cue 2
+  performer:
+  - value: Qcabd29
+    references:
+    - *id001

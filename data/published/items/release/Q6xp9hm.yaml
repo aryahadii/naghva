@@ -1,0 +1,53 @@
+id: Q6xp9hm
+type: release
+statements:
+  name:
+  - value:
+      text: Ba Man Bia
+      language: en
+    references:
+    - source: music.apple.com-us-album-ba-man-bia-feat-faravaz-single-6824216412
+      quote: Ba Man Bia (feat. Faravaz)
+      accessed: 2026-11-21
+      locator: Edition or recording title
+  performer:
+  - value: Qxsa3wd
+    references:
+    - source: music.apple.com-us-album-ba-man-bia-feat-faravaz-single-6824216412
+      quote: DJ Mamsi
+      accessed: 2026-11-21
+      locator: Digital credits
+  - value: Qgxh3d9
+    references:
+    - source: music.apple.com-us-album-ba-man-bia-feat-faravaz-single-6824216412
+      quote: Faravaz
+      accessed: 2026-11-21
+      locator: Digital credits
+  listen link:
+  - value: https://music.apple.com/us/song/ba-man-bia-feat-faravaz/6824216421
+    references:
+    - source: music.apple.com-us-album-ba-man-bia-feat-faravaz-single-6824216412
+      quote: Ba Man Bia (feat. Faravaz)
+      accessed: 2026-11-21
+      locator: Edition or recording title
+  - value: https://open.spotify.com/track/57P5qABMUuCJSMZCqwLOnp
+    references:
+    - source: open.spotify.com-album-5mcxnqz60ew4uxdvbyx6zf
+      quote: Ba Man Bia
+      accessed: 2026-11-21
+      locator: Published recording
+  release date:
+  - value:
+      date: '2016-12-01'
+    references:
+    - source: music.apple.com-us-album-ba-man-bia-feat-faravaz-single-6824216412
+      quote: '2016-12-01'
+      accessed: 2026-11-21
+      locator: Digital edition date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/10/17/44/101744f6-3864-c37c-3110-c21055507708/cover.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-ba-man-bia-feat-faravaz-single-6824216412
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/10/17/44/101744f6-3864-c37c-3110-c21055507708/cover.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Digital edition artwork

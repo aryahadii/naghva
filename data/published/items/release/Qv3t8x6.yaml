@@ -1,0 +1,47 @@
+id: Qv3t8x6
+type: release
+statements:
+  name:
+  - value:
+      text: Daf Solo
+      language: en
+    references:
+    - source: www.youtube.com-oembed-iws45cpz1ne
+      quote: Daf Solo
+      locator: Original release, musician interview or performance credits
+      accessed: '2026-11-21'
+  performer:
+  - value: Qvp2b3f
+    references:
+    - source: www.youtube.com-oembed-iws45cpz1ne
+      quote: Sara Fotros
+      locator: Original release, musician interview or performance credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: daf
+  release date:
+  - value:
+      date: '2025-05-19'
+    references:
+    - source: www.youtube.com-watchv-iws45cpz1ne
+      quote: '2025-05-19T13:35:05-07:00'
+      locator: Original release, musician interview or performance credits
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://i.ytimg.com/vi/Iws45cpZ1nE/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-iws45cpz1ne
+      quote: https://i.ytimg.com/vi/Iws45cpZ1nE/hqdefault.jpg
+      locator: Original release, musician interview or performance credits
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Sara Fotros · original performance
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=Iws45cpZ1nE
+    references:
+    - source: www.youtube.com-oembed-iws45cpz1ne
+      quote: Daf Solo
+      locator: Original release, musician interview or performance credits
+      accessed: '2026-11-21'

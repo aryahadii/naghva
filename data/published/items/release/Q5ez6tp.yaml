@@ -1,0 +1,65 @@
+id: Q5ez6tp
+type: release
+statements:
+  name:
+  - value:
+      text: Sargardaan dar Zamaan
+      language: en
+    references:
+    - source: music.apple.com-us-album-ham-maseer-path-mates-1799282458
+      quote: Sargardaan dar Zamaan
+      accessed: '2026-11-21'
+      locator: Exact Apple track listing
+  - value:
+      text: سرگردان در زمان
+      language: fa
+    references:
+    - source: soundcloud.com-eendomusic-sargardaan-dar-zamaan
+      quote: سرگردان در زمان
+      accessed: '2026-11-21'
+      locator: Artist’s Persian title
+  performer:
+  - value: Qnbrhrh
+    references:
+    - source: music.apple.com-us-album-ham-maseer-path-mates-1799282458
+      quote: Eendo
+      accessed: '2026-11-21'
+      locator: Recording/featured artist
+  listen link:
+  - value: https://music.apple.com/us/song/sargardaan-dar-zamaan/1799282461
+    references:
+    - source: music.apple.com-us-album-ham-maseer-path-mates-1799282458
+      quote: https://music.apple.com/us/song/sargardaan-dar-zamaan/1799282461
+      accessed: '2026-11-21'
+      locator: Apple track link
+  - value: https://open.spotify.com/track/5NQUrSDUV5CW1nn68EnkXO
+    references:
+    - source: open.spotify.com-embed-album-2ybxveyybulmhiut4qtwkx
+      quote: spotify:track:5NQUrSDUV5CW1nn68EnkXO
+      accessed: '2026-11-21'
+      locator: Spotify track URI
+  - value: https://soundcloud.com/eendomusic/sargardaan-dar-zamaan
+    references:
+    - source: soundcloud.com-eendomusic-sargardaan-dar-zamaan
+      quote: Stream Sargardaan dar Zamaan  |  سرگردان در زمان by Eendo | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Original duo SoundCloud recording
+  release date:
+  - value:
+      date: '2025-02-28'
+    references:
+    - source: music.apple.com-us-album-ham-maseer-path-mates-1799282458
+      quote: '2025-02-28'
+      accessed: '2026-11-21'
+      locator: Digital release date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d4/eb/9f/d4eb9f43-a614-1d5a-d77f-0c98835e93b0/056870287171.png/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Digital release via Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-ham-maseer-path-mates-1799282458
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d4/eb/9f/d4eb9f43-a614-1d5a-d77f-0c98835e93b0/056870287171.png/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Label artwork

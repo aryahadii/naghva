@@ -1,0 +1,49 @@
+id: Qwnsh5k
+type: release
+statements:
+  name:
+  - value:
+      text: Jamal Mohamed Ensemble plays "Karslima"
+      language: en
+    references:
+    - source: youtu.be-7jl3ztkiu5m
+      quote: Jamal Mohamed Ensemble plays "Karslima"
+      accessed: 2026-11-21
+      locator: Film title
+  performer:
+  - value: Qwh5yn8
+    qualifiers:
+      role: santur
+    references:
+    - source: youtu.be-7jl3ztkiu5m
+      quote: Ehsan Matoori (santoor)
+      accessed: 2026-11-21
+      locator: Publisher’s credit
+  release date:
+  - value:
+      date: '2018-12-03'
+    references:
+    - source: youtu.be-7jl3ztkiu5m
+      quote: '2018-12-03'
+      accessed: 2026-11-21
+      locator: Publication date
+  cover art:
+  - value: https://i.ytimg.com/vi/7jL3ZTkIu5M/hqdefault.jpg
+    references:
+    - source: youtu.be-7jl3ztkiu5m
+      quote: Jamal Mohamed Ensemble plays "Karslima"
+      accessed: 2026-11-21
+      locator: Film title
+  listen link:
+  - value: https://www.youtube.com/watch?v=7jL3ZTkIu5M
+    references:
+    - source: youtu.be-7jl3ztkiu5m
+      quote: Jamal Mohamed Ensemble plays "Karslima"
+      accessed: 2026-11-21
+      locator: Film title
+  - value: https://www.youtube.com/watch?v=Uk_zJWgpIDQ
+    references:
+    - source: youtu.be-uk_zjwgpidq
+      quote: '"Karslima" excerpt. Jamal Mohamed Ensemble'
+      accessed: 2026-11-21
+      locator: Publisher identifies excerpt from same arrangement and ensemble

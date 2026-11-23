@@ -1,0 +1,82 @@
+id: Qy7a8er
+type: release
+statements:
+  name:
+  - value:
+      text: Boyer
+      language: en
+    references:
+    - source: music.apple.com-us-album-boyer-single-1457704447
+      quote: Boyer - Single
+      locator: Artist, publisher and recording credits
+      accessed: '2026-11-21'
+  performer:
+  - value: Q3ytwxm
+    references:
+    - source: music.apple.com-us-album-boyer-single-1457704447
+      quote: Mahya Hamedi
+      locator: Artist, publisher and recording credits
+      accessed: '2026-11-21'
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-boyer-single-1457704447
+      quote: Boyer - Single
+      locator: Artist, publisher and recording credits
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/a3/18/14/a3181493-f59a-5744-efa3-1cd23632d1aa/193428909311.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-boyer-single-1457704447
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/a3/18/14/a3181493-f59a-5744-efa3-1cd23632d1aa/193428909311.jpg/1200x630bb.jpg
+      locator: Artist, publisher and recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Boyer · Apple Music
+        language: en
+  release date:
+  - value:
+      date: '2019-03-23'
+    references:
+    - source: music.apple.com-us-album-boyer-single-1457704447
+      quote: '2019-03-23'
+      locator: Artist, publisher and recording credits
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://music.apple.com/us/album/boyer-single/1457704447
+    references:
+    - source: music.apple.com-us-album-boyer-single-1457704447
+      quote: Boyer - Single
+      locator: Artist, publisher and recording credits
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/album/5YiLzuhLUk1rEtKQkKnrrM
+    references:
+    - source: open.spotify.com-embed-album-5yilzuhluk1retkqkknrrm
+      quote: Boyer
+      locator: Artist, publisher and recording credits
+      accessed: '2026-11-21'
+  - value: https://soundcloud.com/mahyahamedi/boyer
+    references:
+    - source: soundcloud.com-mahyahamedi-boyer
+      quote: Stream Boyer by Mahya Hamedi | Listen online for free on SoundCloud
+      locator: Artist, publisher and recording credits
+      accessed: '2026-11-21'
+  - value: https://www.youtube.com/watch?v=MG_ByavpLdA
+    references:
+    - source: www.youtube.com-oembed-mg_byavplda
+      quote: Boyer
+      locator: Artist, publisher and recording credits
+      accessed: '2026-11-21'
+  - value: https://music.apple.com/us/song/boyer/1457704448
+    references:
+    - source: music.apple.com-us-album-boyer-single-1457704447
+      quote: Boyer - Single
+      locator: Artist, publisher and recording credits
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/5kmHk1Agyd7a9Fa9BB67pk
+    references:
+    - source: open.spotify.com-embed-album-5yilzuhluk1retkqkknrrm
+      quote: Boyer
+      locator: Artist, publisher and recording credits
+      accessed: '2026-11-21'

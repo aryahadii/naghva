@@ -1,0 +1,37 @@
+id: Qxenvpb
+type: release
+statements:
+  name:
+  - value:
+      text: In the Desert Path
+      language: en
+    references:
+    - source: www.youtube.com-watch-v-aqscgqpevpw
+      quote: In the Desert Path
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qy69pg7
+    references:
+    - source: www.youtube.com-watch-v-aqscgqpevpw
+      quote: In the Desert Path
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://www.youtube.com/watch?v=AqSCGqPEvpw
+    references:
+    - source: www.youtube.com-watch-v-aqscgqpevpw
+      quote: In the Desert Path
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i.ytimg.com/vi/AqSCGqPEvpw/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-aqscgqpevpw
+      quote: https://i.ytimg.com/vi/AqSCGqPEvpw/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: Kaveh Sarvarian
+        language: en

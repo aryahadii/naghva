@@ -1,0 +1,35 @@
+id: Qj87c2a
+type: release
+statements:
+  name:
+  - value:
+      text: Saeid Shanbehzadeh and Pedram Derakhshani - Tehran Night
+      language: en
+    references:
+    - &id001
+      source: soundcloud.com-nag-1-1-saeid-shanbehzadeh-and-pedram
+      quote: Saeid Shanbehzadeh and Pedram Derakhshani - Tehran Night
+      accessed: '2026-11-21'
+      locator: Artist’s SoundCloud recording
+  performer:
+  - value: Qyd93n9
+    references:
+    - *id001
+  - value: Qgw68ms
+    references:
+    - *id001
+  listen link:
+  - value: https://soundcloud.com/nag-1-1/saeid-shanbehzadeh-and-pedram
+    references:
+    - *id001
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-000035705744-10wy4a-large.jpg
+    references:
+    - source: soundcloud.com-nag-1-1-saeid-shanbehzadeh-and-pedram
+      quote: https://i1.sndcdn.com/artworks-000035705744-10wy4a-large.jpg
+      accessed: '2026-11-21'
+      locator: Artist file artwork
+    qualifiers:
+      credit:
+        text: Naghib Shanbehzadeh / SoundCloud
+        language: en

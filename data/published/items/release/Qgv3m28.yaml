@@ -1,0 +1,41 @@
+id: Qgv3m28
+type: release
+statements:
+  name:
+  - value:
+      text: Isabelle Courroy & Shadi Fathi
+      language: fr
+    references:
+    - source: www.shadi-fathi.com-galerie-videos
+      quote: Isabelle Courroy & Shadi Fathi
+      accessed: '2026-11-21'
+      locator: Artist video gallery title
+  performer:
+  - value: Qfxqgvv
+    references:
+    - source: www.shadi-fathi.com-galerie-videos
+      quote: Isabelle Courroy & Shadi Fathi
+      accessed: '2026-11-21'
+      locator: Artist video gallery title
+    - source: www.odoensemble.com-en-shadi-fathi
+      quote: Shadi Fathi
+      accessed: '2026-11-21'
+      locator: Artist heading
+  listen link:
+  - value: https://www.youtube.com/watch?v=LczRllUHYjI
+    references:
+    - source: www.shadi-fathi.com-galerie-videos
+      quote: LczRllUHYjI
+      accessed: '2026-11-21'
+      locator: Artist embeds this specific YouTube video
+  cover art:
+  - value: https://i.ytimg.com/vi/LczRllUHYjI/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-lczrlluhyji
+      quote: https://i.ytimg.com/vi/LczRllUHYjI/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Official thumbnail returned by YouTube for this video
+    qualifiers:
+      credit:
+        text: Shadi Fathi · YouTube
+        language: en

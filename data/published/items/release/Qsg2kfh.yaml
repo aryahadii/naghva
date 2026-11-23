@@ -1,0 +1,51 @@
+id: Qsg2kfh
+type: release
+statements:
+  name:
+  - value:
+      text: You Repel Me
+      language: en
+    references:
+    - source: cinnapey.bandcamp.com-track-you-repel-me
+      quote: You Repel Me
+      accessed: '2026-11-21'
+      locator: Recording title or artist credit
+  performer:
+  - value: Q4q92dh
+    references:
+    - source: cinnapey.bandcamp.com-track-you-repel-me
+      quote: You Repel Me | Cinna Peyghamy
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://cinnapey.bandcamp.com/track/you-repel-me
+    references:
+    - source: cinnapey.bandcamp.com-track-you-repel-me
+      quote: You Repel Me | Cinna Peyghamy
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/you-repel-me/1722331806
+    references:
+    - source: music.apple.com-us-song-you-repel-me-1722331806
+      quote: ‎You Repel Me - Song with Lyrics by Cinna Peyghamy - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a2793340214_10.jpg
+    references:
+    - source: cinnapey.bandcamp.com-track-you-repel-me
+      quote: https://f4.bcbits.com/img/a2793340214_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Cinna Peyghamy on Bandcamp
+        language: en
+  release date:
+  - value:
+      date: '2017-11-22'
+    references:
+    - source: cinnapey.bandcamp.com-album-injonctions
+      quote: released November 22, 2017
+      accessed: '2026-11-21'
+      locator: Published date

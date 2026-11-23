@@ -1,0 +1,69 @@
+id: Qktpxd2
+type: release
+statements:
+  name:
+  - value:
+      text: Pishdaramad (Live)
+      language: en
+    references:
+    - source: open.spotify.com-embed-album-7gvmyi06assvqrappty9tr
+      quote: Pishdaramad (Live)
+      accessed: '2026-11-21'
+      locator: Group history, interview or original programme
+  listen link:
+  - value: https://open.spotify.com/track/6imSv1AShZgUzN1wOQoEKM
+    references:
+    - source: open.spotify.com-embed-album-7gvmyi06assvqrappty9tr
+      quote: spotify:track:6imSv1AShZgUzN1wOQoEKM
+      accessed: '2026-11-21'
+      locator: Group history, interview or original programme
+  - value: https://www.youtube.com/watch?v=cLeZfOCMQOM
+    references:
+    - source: www.youtube.com-watch-v-clezfocmqom
+      quote: Pishdaramad (Prelude) - پیش درآمد - (Ali Azimi feat Arash Fouladvand & Bahar Choir)
+      accessed: '2026-11-21'
+      locator: Conductor’s original YouTube title
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d0000b2737d0231ca7198622c78441dbd
+    qualifiers:
+      credit:
+        text: Spotify edition artwork
+        language: en
+    references:
+    - source: spotify-bahar-voice-of-peace-2023
+      quote: https://i.scdn.co/image/ab67616d0000b2737d0231ca7198622c78441dbd
+      accessed: '2026-11-21'
+      locator: Original Spotify og:image metadata
+  release date:
+  - value:
+      date: '2023-05-16'
+    references:
+    - source: spotify-bahar-voice-of-peace-2023
+      quote: May 16, 2023
+      accessed: '2026-11-21'
+      locator: Label copyright and publication date in Spotify’s original listing
+  performer:
+  - value: Qb85b99
+    references:
+    - source: open.spotify.com-embed-album-7gvmyi06assvqrappty9tr
+      quote: Arash Fouladvand
+      accessed: '2026-11-21'
+      locator: Group history, interview or original programme
+  - value: Qtk427w
+    references:
+    - source: open.spotify.com-embed-album-7gvmyi06assvqrappty9tr
+      quote: Orchestre Philharmonique de Paris-Est
+      accessed: '2026-11-21'
+      locator: Group history, interview or original programme
+  - value: Qde2bbb
+    references:
+    - source: open.spotify.com-embed-album-7gvmyi06assvqrappty9tr
+      quote: Ali Azimi
+      accessed: '2026-11-21'
+      locator: Group history, interview or original programme
+  - value: Qs4s44j
+    references:
+    - source: open.spotify.com-embed-album-7gvmyi06assvqrappty9tr
+      quote: Bahar Choir Group
+      accessed: '2026-11-21'
+      locator: Group history, interview or original programme

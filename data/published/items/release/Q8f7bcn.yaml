@@ -1,0 +1,57 @@
+id: Q8f7bcn
+type: release
+statements:
+  name:
+  - value:
+      text: Blessings (feat. Neda Mohamadpour)
+      language: en
+    references:
+    - source: music.apple.com-us-song-blessings-feat-neda-mohamadpour-1760825546
+      quote: ‎Blessings (feat. Neda Mohamadpour) - Song with Lyrics by Lady Pista - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qbb46yz
+    references:
+    - source: music.apple.com-us-song-blessings-feat-neda-mohamadpour-1760825546
+      quote: ‎Blessings (feat. Neda Mohamadpour) - Song with Lyrics by Lady Pista - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qkggqnw
+    references:
+    - source: music.apple.com-us-song-blessings-feat-neda-mohamadpour-1760825546
+      quote: Lady Pista
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  release date:
+  - value:
+      date: '2024-08-01'
+    references:
+    - source: music.apple.com-us-album-blessings-feat-neda-mohamadpour-1760825166
+      quote: August 1, 2024
+      accessed: '2026-11-21'
+      locator: Published date
+  listen link:
+  - value: https://music.apple.com/us/song/blessings-feat-neda-mohamadpour/1760825546
+    references:
+    - source: music.apple.com-us-song-blessings-feat-neda-mohamadpour-1760825546
+      quote: ‎Blessings (feat. Neda Mohamadpour) - Song with Lyrics by Lady Pista - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/5XbBng97ra8ICrdC0Q2JLw
+    references:
+    - source: open.spotify.com-track-5xbbng97ra8icrdc0q2jlw
+      quote: Blessings - song and lyrics by Lady Pista, Neda Mohamadpour | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/eb/3f/79/eb3f7932-8ef6-7a33-4784-062bdbc7728d/859792013343_cover.jpg/600x600bb.webp
+    references:
+    - source: music.apple.com-us-song-blessings-feat-neda-mohamadpour-1760825546
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/eb/3f/79/eb3f7932-8ef6-7a33-4784-062bdbc7728d/859792013343_cover.jpg/600x600bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en

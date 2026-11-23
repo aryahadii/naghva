@@ -1,0 +1,84 @@
+id: Q4jny3g
+type: release
+statements:
+  name:
+  - value:
+      text: Aziz Djun
+      language: en
+    references:
+    - source: open.spotify.com-album-7ltii9jjhqfwiiolwzmzms
+      quote: Aziz Djun
+      accessed: '2026-11-21'
+      locator: Spotify heading
+    - source: music.apple.com-us-album-aziz-djun-single-1693926151
+      quote: Aziz Djun - Single
+      accessed: '2026-11-21'
+      locator: Apple Music edition
+  performer:
+  - value: Qkvdrbs
+    references:
+    - source: music.apple.com-us-album-aziz-djun-single-1693926151
+      quote: Hysterrae
+      accessed: '2026-11-21'
+      locator: Artist billing
+  listen link:
+  - value: https://music.apple.com/us/album/aziz-djun-single/1693926151
+    references:
+    - source: music.apple.com-us-album-aziz-djun-single-1693926151
+      quote: Aziz Djun - Single
+      accessed: '2026-11-21'
+      locator: Apple Music edition
+  - value: https://open.spotify.com/album/7lTiI9jJhqfWiiOLWZmZms
+    references:
+    - source: open.spotify.com-album-7ltii9jjhqfwiiolwzmzms
+      quote: Aziz Djun
+      accessed: '2026-11-21'
+      locator: Spotify heading
+  - value: https://music.apple.com/us/song/aziz-djun/1693926152
+    references:
+    - source: music.apple.com-us-album-aziz-djun-single-1693926151
+      quote: Aziz Djun
+      accessed: '2026-11-21'
+      locator: Single track
+  - value: https://open.spotify.com/track/7oup5xRqTSGhyXm15VyI2T
+    references:
+    - source: open.spotify.com-album-7ltii9jjhqfwiiolwzmzms
+      quote: Aziz Djun
+      accessed: '2026-11-21'
+      locator: Single track
+  - value: https://www.youtube.com/watch?v=Jb4k55T0AiY
+    references:
+    - source: www.youtube.com-watch-v-jb4k55t0aiy
+      quote: Hysterrae - “Aziz Djun”
+      accessed: '2026-11-21'
+      locator: Artist channel, YouTube oEmbed title
+    - source: www.youtube.com-watch-v-jb4k55t0aiy
+      quote: Hysterrae
+      accessed: '2026-11-21'
+      locator: Publishing channel
+  release date:
+  - value:
+      date: '2023-07-04'
+    references:
+    - source: music.apple.com-us-album-aziz-djun-single-1693926151
+      quote: '2023-07-04'
+      accessed: '2026-11-21'
+      locator: Catalogue release date
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-aziz-djun-single-1693926151
+      quote: Aziz Djun - Single
+      accessed: '2026-11-21'
+      locator: Apple Music edition
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e8/1a/88/e81a88a4-528c-5b6d-cc45-0b42bce43d0e/artwork.jpg/1200x630bb.jpg
+    qualifiers:
+      credit:
+        text: Apple Music edition artwork
+        language: en
+    references:
+    - source: music.apple.com-us-album-aziz-djun-single-1693926151
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e8/1a/88/e81a88a4-528c-5b6d-cc45-0b42bce43d0e/artwork.jpg/1200x630bb.jpg
+      accessed: '2026-11-21'
+      locator: Single artwork

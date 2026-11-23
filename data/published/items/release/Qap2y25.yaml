@@ -1,0 +1,45 @@
+id: Qap2y25
+type: release
+statements:
+  name:
+  - value:
+      text: Stately Cypress
+      language: en
+    references:
+    - source: music.apple.com-us-album-blue-fields-1533871919
+      quote: Stately Cypress
+      accessed: 2026-11-21
+      locator: Track 6
+  performer:
+  - value: Qtrh4vq
+    references:
+    - source: open.spotify.com-album-6jgqv18f1bmudae0qgs6tj
+      quote: Marjan Vahdat
+      accessed: 2026-11-21
+      locator: Individual track credits
+  listen link:
+  - value: https://music.apple.com/us/song/stately-cypress/1533872257
+    references:
+    - source: music.apple.com-us-album-blue-fields-1533871919
+      quote: Stately Cypress
+      accessed: 2026-11-21
+      locator: Track 6
+  - value: https://open.spotify.com/track/5rSqluWj2SAHL1SHFIpTKX
+    references:
+    - source: open.spotify.com-album-6jgqv18f1bmudae0qgs6tj
+      quote: Blue Fields · Marjan Vahdat
+      accessed: 2026-11-21
+      locator: Native digital record
+  - value: https://music.apple.com/us/song/stately-cypress/634971291
+    references:
+    - source: music.apple.com-us-album-blue-fields-634970976
+      quote: Stately Cypress
+      accessed: 2026-11-21
+      locator: Track 6
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7b/6b/1c/7b6b1cc7-5c45-fb94-68a5-f49a22262158/7041889638826_Cover.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-blue-fields-1533871919
+      quote: Stately Cypress
+      accessed: 2026-11-21
+      locator: Track 6

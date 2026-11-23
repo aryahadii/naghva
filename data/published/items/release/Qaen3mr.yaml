@@ -1,0 +1,73 @@
+id: Qaen3mr
+type: release
+statements:
+  name:
+  - value:
+      text: Raghs Zooraki Raghs
+      language: en
+    references:
+    - source: music.apple.com-us-album-joz-aan-keh-ma-raa-intor-saakhteh-1501964341
+      quote: Raghs Zooraki Raghs
+      accessed: '2026-11-21'
+      locator: Digital edition track 3
+  release date:
+  - value:
+      date: '2011'
+    references:
+    - source: musishen.com
+      quote: '2011'
+      accessed: '2026-11-21'
+      locator: Artist discography, Joz Aan Keh Ma Raa Intor Saakhteh
+  performer:
+  - value: Qavhs3y
+    references:
+    - source: music.apple.com-us-album-joz-aan-keh-ma-raa-intor-saakhteh-1501964341
+      quote: Shen Band
+      accessed: '2026-11-21'
+      locator: Release billing
+  - value: Qec6smv
+    references:
+    - &id001
+      source: musishen.com
+      quote: write, compose, arrange, perform and produce seven collections
+      accessed: '2026-11-21'
+      locator: Artist biography, dated catalogue or interview
+  contributor:
+  - value: Qec6smv
+    references:
+    - *id001
+    qualifiers:
+      role:
+      - composer
+      - arranger
+      - producer
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6c/eb/9f/6ceb9fdb-ba81-7449-e1ac-d985f2a79b7b/195079006753.jpg/1200x630wp-60.jpg
+    references:
+    - source: music.apple.com-us-album-joz-aan-keh-ma-raa-intor-saakhteh-1501964341
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6c/eb/9f/6ceb9fdb-ba81-7449-e1ac-d985f2a79b7b/195079006753.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Original release cover
+    qualifiers:
+      credit:
+        text: Shen Band, Apple Music edition artwork
+        language: en
+  listen link:
+  - value: https://music.apple.com/us/song/raghs-zooraki-raghs/1501964344
+    references:
+    - source: music.apple.com-us-album-joz-aan-keh-ma-raa-intor-saakhteh-1501964341
+      quote: https://music.apple.com/us/song/raghs-zooraki-raghs/1501964344
+      accessed: '2026-11-21'
+      locator: Apple Music exact song
+  - value: https://open.spotify.com/track/5EJxmrXHq60Qc5HX6298Vr
+    references:
+    - source: open.spotify.com-embed-album-6pj0yboh6v2rxjeeoyco52
+      quote: spotify:track:5EJxmrXHq60Qc5HX6298Vr
+      accessed: '2026-11-21'
+      locator: Spotify exact song
+  - value: https://www.youtube.com/watch?v=EaxzPVAPDFE
+    references:
+    - source: www.youtube.com-playlist-list-olak5uy_nagie4vn5lxuppakvhwgu9opvyq_q8y9q
+      quote: EaxzPVAPDFE
+      accessed: '2026-11-21'
+      locator: Official album track 3

@@ -1,0 +1,57 @@
+id: Qjb8seb
+type: release
+statements:
+  name:
+  - value:
+      text: Lille Måltrost
+      language: en
+    references:
+    - source: music.apple.com-us-album-lille-ma-ltrost-6809806904
+      quote: Lille Måltrost
+      accessed: '2026-11-21'
+      locator: Featured track
+  performer:
+  - value: Qz9hcyk
+    references:
+    - source: itunes.apple.com-lookupid-257020069-entity-song-limit-200
+      quote: Berit Opheim & Javid Afsari Rad
+      accessed: '2026-11-21'
+      locator: Track-level credit
+  - value: Qgqhqzx
+    references:
+    - source: itunes.apple.com-lookupid-257020069-entity-song-limit-200
+      quote: Berit Opheim
+      accessed: '2026-11-21'
+      locator: Track-level credit
+  listen link:
+  - value: https://music.apple.com/us/song/lille-ma-ltrost/6809807222
+    references:
+    - source: music.apple.com-us-album-lille-ma-ltrost-6809806904
+      quote: Lille Måltrost
+      accessed: '2026-11-21'
+      locator: Featured track
+  - value: https://open.spotify.com/track/5hkiQ4XbdRz0bkK3u5g59A
+    references:
+    - source: open.spotify.com-album-3ptsz53c6uqfhf5asrot1w
+      quote: Lille Måltrost
+      accessed: '2026-11-21'
+      locator: Track 8
+  release date:
+  - value:
+      date: '2026-09-17'
+    references:
+    - source: music.apple.com-us-album-lille-ma-ltrost-6809806904
+      quote: '2026-09-17'
+      accessed: '2026-11-21'
+      locator: Release date
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d0000b2735fcfb7376e586cc98d798c91
+    references:
+    - source: open.spotify.com-album-3ptsz53c6uqfhf5asrot1w
+      quote: https://i.scdn.co/image/ab67616d0000b2735fcfb7376e586cc98d798c91
+      accessed: '2026-11-21'
+      locator: Release cover
+    qualifiers:
+      credit:
+        text: Trall i farta · Spotify
+        language: en

@@ -1,0 +1,67 @@
+id: Qkyv65s
+type: release
+statements:
+  name:
+  - value:
+      text: Songs in the Mist
+      language: en
+    references:
+    - source: music.apple.com-us-album-songs-in-the-mist-1169728933
+      quote: ‎Songs in the Mist - Album by Young Iranian female voices - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qkmhqgm
+    references:
+    - source: www.kkv.no-en-music-songs-in-the-mist-3
+      quote: Ooldouz Pouri
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: vocals
+  listen link:
+  - value: https://music.apple.com/us/album/songs-in-the-mist/1169728933
+    references:
+    - source: music.apple.com-us-album-songs-in-the-mist-1169728933
+      quote: ‎Songs in the Mist - Album by Young Iranian female voices - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/album/2x1Zv4AJS1LE5P541Kf2cz
+    references:
+    - source: open.spotify.com-album-2x1zv4ajs1le5p541kf2cz
+      quote: Listen to Songs in the Mist - Album by Young Iranian female voices | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  release type:
+  - value: album
+    references:
+    - source: music.apple.com-us-album-songs-in-the-mist-1169728933
+      quote: ‎Songs in the Mist - Album by Young Iranian female voices - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2016-11-04'
+    references:
+    - source: music.apple.com-us-album-songs-in-the-mist-1169728933
+      quote: November 4, 2016
+      accessed: '2026-11-21'
+      locator: Published date
+  published by:
+  - value: Qtcvdjj
+    references:
+    - source: www.kkv.no-en-music-waiting-for-the-dawn-3
+      quote: KKV label
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/09/17/36/09173646-1ed8-4855-0ff5-85f9cb11194c/cover.jpg/632x632bb.webp
+    references:
+    - source: music.apple.com-us-album-songs-in-the-mist-1169728933
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/09/17/36/09173646-1ed8-4855-0ff5-85f9cb11194c/cover.jpg/632x632bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Kirkelig Kulturverksted, via Apple Music
+        language: en

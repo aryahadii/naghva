@@ -1,0 +1,63 @@
+id: Qaxmrk6
+type: release
+statements:
+  name:
+  - value:
+      text: In The Sea
+      language: en
+    references:
+    - source: idlefon.bandcamp.com-track-in-the-sea
+      quote: In The Sea | Idlefon
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qjjdrek
+    references:
+    - source: idlefon.bandcamp.com-track-in-the-sea
+      quote: In The Sea | Idlefon
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://idlefon.bandcamp.com/track/in-the-sea
+    references:
+    - source: idlefon.bandcamp.com-track-in-the-sea
+      quote: In The Sea | Idlefon
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://tympanikaudio.bandcamp.com/track/in-the-sea
+    references:
+    - source: tympanikaudio.bandcamp.com-track-in-the-sea
+      quote: In The Sea | Idlefon | Tympanik Audio
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/884497071
+    references:
+    - source: music.apple.com-us-song-884497071
+      quote: ‎In the Sea - Song with Lyrics by Idlefon - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/7eEMr1XGne3Me4iptIY3Sp
+    references:
+    - source: open.spotify.com-track-7eemr1xgne3me4iptiy3sp
+      quote: In the Sea - song and lyrics by Idlefon | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a0375516425_10.jpg
+    references:
+    - source: idlefon.bandcamp.com-track-in-the-sea
+      quote: https://f4.bcbits.com/img/a0375516425_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Sadaf Azadehfar, original photo; Amir B. Ashrafzadeh, cover design
+        language: en
+  release date:
+  - value:
+      date: '2014-06-17'
+    references:
+    - source: idlefon.bandcamp.com-album-intensive-collectivity-known-as-city
+      quote: released June 17, 2014
+      accessed: '2026-11-21'
+      locator: Published date

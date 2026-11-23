@@ -1,0 +1,64 @@
+id: Q8nazg7
+type: release
+statements:
+  name:
+  - value:
+      text: SEUIL
+      language: en
+    references:
+    - source: kopirecs.bandcamp.com-album-seuil
+      quote: SEUIL | ArtSaves | Kopi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qw9zs9g
+    references:
+    - source: kopirecs.bandcamp.com-album-seuil
+      quote: ArtSaves
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  release type:
+  - value: album
+    references:
+    - source: kopirecs.bandcamp.com-album-seuil
+      quote: SEUIL | ArtSaves | Kopi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://kopirecs.bandcamp.com/album/seuil
+    references:
+    - source: kopirecs.bandcamp.com-album-seuil
+      quote: SEUIL | ArtSaves | Kopi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/seuil/1203764900
+    references:
+    - source: music.apple.com-us-album-seuil-1203764900
+      quote: ‎Seuil - Album by ArtSaves - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/album/2qFslaO7MTkfst7C8n1rKG
+    references:
+    - source: open.spotify.com-album-2qfslao7mtkfst7c8n1rkg
+      quote: Listen to Seuil - Album by ArtSaves | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a0203714075_10.jpg
+    references:
+    - source: kopirecs.bandcamp.com-album-seuil
+      quote: https://f4.bcbits.com/img/a0203714075_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Saina Heshmati and Arash Mollakarimi
+        language: en
+  release date:
+  - value:
+      date: '2016-03-22'
+    references:
+    - source: kopirecs.bandcamp.com-album-seuil
+      quote: released March 22, 2016
+      accessed: '2026-11-21'
+      locator: Published date

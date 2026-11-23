@@ -1,0 +1,69 @@
+id: Q5meqx7
+type: release
+statements:
+  name:
+  - value:
+      text: Eclipsed
+      language: en
+    references:
+    - source: meshcut.bandcamp.com-track-eclipsed
+      quote: Eclipsed | Meshcut, Eiman | Meshcut
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qh6s4f5
+    references:
+    - source: meshcut.bandcamp.com-track-eclipsed
+      quote: Eclipsed | Meshcut, Eiman | Meshcut
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qr7vgvg
+    references:
+    - source: open.spotify.com-track-3aajwctdhx8jqo63iqf4fr
+      quote: Eiman
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://meshcut.bandcamp.com/track/eclipsed
+    references:
+    - source: meshcut.bandcamp.com-track-eclipsed
+      quote: Eclipsed | Meshcut, Eiman | Meshcut
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1500799869
+    references:
+    - source: music.apple.com-us-song-1500799869
+      quote: ‎Eclipsed (feat. Eiman) - Song with Lyrics by Meshcut - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/3aAJwCTDhx8Jqo63iQf4fR
+    references:
+    - source: open.spotify.com-track-3aajwctdhx8jqo63iqf4fr
+      quote: Eclipsed - song and lyrics by Meshcut, Eiman | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/meshcut/eclipsed-eiman-meshcut
+    references:
+    - source: soundcloud.com-meshcut-eclipsed-eiman-meshcut
+      quote: Stream Eclipsed (Eiman - Meshcut) by Meshcut | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a2955346586_10.jpg
+    references:
+    - source: meshcut.bandcamp.com-track-eclipsed
+      quote: https://f4.bcbits.com/img/a2955346586_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original recording artwork
+        language: en
+  release date:
+  - value:
+      date: '2021-03-07'
+    references:
+    - source: meshcut.bandcamp.com-track-eclipsed
+      quote: released March 7, 2021
+      accessed: '2026-11-21'
+      locator: Published date

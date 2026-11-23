@@ -1,0 +1,104 @@
+id: Qmgmjbh
+type: release
+statements:
+  name:
+  - value:
+      text: Treacherous
+      language: en
+    references:
+    - source: hailstones-band.bandcamp.com-track-treacherous-2
+      quote: Treacherous | Hailstones
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Q2e2223
+    references:
+    - source: hailstones-band.bandcamp.com-track-treacherous-2
+      quote: Treacherous | Hailstones
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qjjdrek
+    references:
+    - source: www.sledisland.com-2025-hailstones
+      quote: solo endeavour of Idlefon’s Hesam Ohadi
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: vocals
+  - value: Qvpd8m3
+    references:
+    - source: we-are-hailstones.com-about
+      quote: Mehraun Ehsani
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: guitar
+  - value: Q95ytjm
+    references:
+    - source: we-are-hailstones.com-about
+      quote: Jill Shannon
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: bass
+  - value: Qjd5bhp
+    references:
+    - source: we-are-hailstones.com-about
+      quote: Matt Doherty
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: drums
+  listen link:
+  - value: https://hailstones-band.bandcamp.com/track/treacherous-2
+    references:
+    - source: hailstones-band.bandcamp.com-track-treacherous-2
+      quote: Treacherous | Hailstones
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/6809045839
+    references:
+    - source: music.apple.com-us-song-6809045839
+      quote: ‎Treacherous - Song with Lyrics by Hailstones - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/7leOCyD65SI4EoW7eyglX1
+    references:
+    - source: open.spotify.com-track-7leocyd65si4eow7eyglx1
+      quote: Treacherous - song and lyrics by Hailstones | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a1709861733_10.jpg
+    references:
+    - source: hailstones-band.bandcamp.com-track-treacherous-2
+      quote: https://f4.bcbits.com/img/a1709861733_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Wren Lovejoy, design by Amir B Ash
+        language: en
+  release date:
+  - value:
+      date: '2026-09-25'
+    references:
+    - source: hailstones-band.bandcamp.com-track-treacherous-2
+      quote: released September 25, 2026
+      accessed: '2026-11-21'
+      locator: Published date
+  contributor:
+  - value: Qtwwfrd
+    references:
+    - &id001
+      source: hailstones-band.bandcamp.com-album-the-weariness-of-hope
+      quote: Additional mixing and mastering by Shahin Entezami
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: mixing engineer
+  - value: Qtwwfrd
+    references:
+    - *id001
+    qualifiers:
+      role: mastering engineer

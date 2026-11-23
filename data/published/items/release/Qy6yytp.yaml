@@ -1,0 +1,59 @@
+id: Qy6yytp
+type: release
+statements:
+  name:
+  - value:
+      text: Lover Killer عاشق کُش
+      language: en
+    references:
+    - source: music.apple.com-us-album-lover-killer--d8-b9-d8-a7-d8-b4-d9-82--da-a9--d8-b4-1730400358
+      quote: Lover Killer عاشق کُش
+      accessed: '2026-11-21'
+      locator: Track title
+  - value:
+      text: Lover Killer عاشق کش
+      language: en
+    references:
+    - source: soundcloud.com-babackrajabi-ashegh-kosh
+      quote: Lover Killer عاشق کش
+      accessed: '2026-11-21'
+      locator: Title on artist’s SoundCloud upload
+  performer:
+  - value: Qzhgpkw
+    references:
+    - source: music.apple.com-us-album-lover-killer--d8-b9-d8-a7-d8-b4-d9-82--da-a9--d8-b4-1730400358
+      quote: Babak Rajabi
+      accessed: '2026-11-21'
+      locator: Artist billing
+  release date:
+  - value:
+      date: '2024-02-07'
+    references:
+    - source: music.apple.com-us-album-lover-killer--d8-b9-d8-a7-d8-b4-d9-82--da-a9--d8-b4-1730400358
+      quote: '2024-02-07'
+      accessed: '2026-11-21'
+      locator: Release metadata
+  listen link:
+  - value: https://music.apple.com/us/song/lover-killer-%D8%B9%D8%A7%D8%B4%D9%82-%DA%A9-%D8%B4/1730400359
+    references:
+    - source: music.apple.com-us-album-lover-killer--d8-b9-d8-a7-d8-b4-d9-82--da-a9--d8-b4-1730400358
+      quote: Lover Killer عاشق کُش
+      accessed: '2026-11-21'
+      locator: Track title
+  - value: https://soundcloud.com/babackrajabi/ashegh-kosh
+    references:
+    - source: soundcloud.com-babackrajabi-ashegh-kosh
+      quote: Lover Killer عاشق کش
+      accessed: '2026-11-21'
+      locator: Title on artist’s SoundCloud upload
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8f/6e/0a/8f6e0aaa-e81c-f768-34f3-171ea00eb9e2/artwork.jpg/632x632bb-60.jpg
+    references:
+    - source: music.apple.com-us-album-lover-killer--d8-b9-d8-a7-d8-b4-d9-82--da-a9--d8-b4-1730400358
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8f/6e/0a/8f6e0aaa-e81c-f768-34f3-171ea00eb9e2/artwork.jpg/632x632bb-60.jpg
+      accessed: '2026-11-21'
+      locator: Release image URL
+    qualifiers:
+      credit:
+        text: Apple Music · Lover Killer عاشق کُش - Single
+        language: en

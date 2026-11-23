@@ -1,0 +1,56 @@
+id: Qrzehne
+type: release
+statements:
+  name:
+  - value:
+      text: One Day Tehran
+      language: en
+    references:
+    - source: music.apple.com-us-album-one-day-tehran-1514042944
+      quote: One Day Tehran
+      accessed: 2026-11-21
+      locator: Track 14 on original digital issue
+  contributor:
+  - value: Qhqb38j
+    qualifiers:
+      role: composer
+    references:
+    - source: music.apple.com-us-album-one-day-tehran-1514042944
+      quote: One Day Tehran
+      accessed: 2026-11-21
+      locator: Track 14 on original digital issue
+  performer:
+  - value: Qrt942x
+    references:
+    - source: music.apple.com-us-album-one-day-tehran-1514042944
+      quote: Invoke
+      accessed: 2026-11-21
+      locator: Publisher’s recorded credits
+  listen link:
+  - value: https://music.apple.com/us/song/one-day-tehran/1514043513
+    references:
+    - source: music.apple.com-us-album-one-day-tehran-1514042944
+      quote: One Day Tehran
+      accessed: 2026-11-21
+      locator: Track 14 on original digital issue
+  - value: https://open.spotify.com/track/3uGdo9c3pYQGj4K2CoDXCb
+    references:
+    - source: open.spotify.com-album-73errum04dk9h9znpl6uvs
+      quote: One Day Tehran · Golden Hornet
+      accessed: 2026-11-21
+      locator: Track 14 on Spotify edition
+  release date:
+  - value:
+      date: '2020-05-15'
+    references:
+    - source: music.apple.com-us-album-one-day-tehran-1514042944
+      quote: '2020-05-15'
+      accessed: 2026-11-21
+      locator: Digital issue’s stated release date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/bb/f0/83/bbf083bc-6b79-736f-e8e3-2b99d8430d9a/192641500510_Cover.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-one-day-tehran-1514042944
+      quote: String Quartet Smackdown VI
+      accessed: 2026-11-21
+      locator: Original digital issue

@@ -1,0 +1,57 @@
+id: Qfmydwy
+type: release
+statements:
+  name:
+  - value:
+      text: Engar (Gozargah)
+      language: en
+    references:
+    - source: music.apple.com-us-album-gozargah-1350948051
+      quote: Engar
+      accessed: '2026-11-21'
+      locator: Track 3
+  performer:
+  - value: Qzjh64j
+    references:
+    - source: music.apple.com-us-album-gozargah-1350948051
+      quote: Karmandan
+      accessed: '2026-11-21'
+      locator: Billed project
+  - value: Qy88zyz
+    references:
+    - source: music.apple.com-us-album-gozargah-1350948051
+      quote: Erwin Khachikian
+      accessed: '2026-11-21'
+      locator: Artist credit
+  listen link:
+  - value: https://music.apple.com/us/song/engar/1350948058
+    references:
+    - source: music.apple.com-us-album-gozargah-1350948051
+      quote: https://music.apple.com/us/song/engar/1350948058
+      accessed: '2026-11-21'
+      locator: Exact track link
+  - value: https://open.spotify.com/track/36AsPpMlVP4q3ZZTsEqWav
+    references:
+    - source: open.spotify.com-embed-album-6h1glhj5q8w9xqlefhfm9z
+      quote: spotify:track:36AsPpMlVP4q3ZZTsEqWav
+      accessed: '2026-11-21'
+      locator: Exact Spotify track URI
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/79/94/de/7994de2d-74cb-f7f6-4fd3-5bf66e72c3d0/191924932437.jpg/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Digital issue via Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-gozargah-1350948051
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/79/94/de/7994de2d-74cb-f7f6-4fd3-5bf66e72c3d0/191924932437.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Original digital artwork
+  release date:
+  - value:
+      date: '2018-02-20'
+    references:
+    - source: music.apple.com-us-album-gozargah-1350948051
+      quote: '2018-02-20'
+      accessed: '2026-11-21'
+      locator: Digital issue date

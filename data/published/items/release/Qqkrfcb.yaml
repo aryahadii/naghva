@@ -1,0 +1,117 @@
+id: Qqkrfcb
+type: release
+statements:
+  name:
+  - value:
+      text: The Sacred Key
+      language: en
+    references:
+    - source: open.spotify.com-album-1ovhykx7efdcc4o8hnvtxd
+      quote: The Sacred Key
+      accessed: '2026-11-21'
+      locator: Spotify album
+    - source: music.apple.com-us-album-the-sacred-key-feat-jeremy-rose-hamed-sadeghi-lloyd-swanton-1573854774
+      quote: The Sacred Key (feat. Jeremy Rose, Hamed Sadeghi & Lloyd Swanton)
+      accessed: '2026-11-21'
+      locator: Album title in Apple Music catalogue
+  performer:
+  - value: Q597kk9
+    references:
+    - source: music.apple.com-us-album-the-sacred-key-feat-jeremy-rose-hamed-sadeghi-lloyd-swanton-1573854774
+      quote: Vazesh
+      accessed: '2026-11-21'
+      locator: Album performer
+  - value: Qmgbz4h
+    qualifiers:
+      role: tar
+    references:
+    - source: vazesh.bandcamp.com-album-the-sacred-key
+      quote: Hamed Sadeghi, tar, Jeremy Rose, saxophone and bass clarinet, Lloyd Swanton, double bass
+      accessed: '2026-11-21'
+      locator: Album credits
+  - value: Q46dmzw
+    qualifiers:
+      role: bass clarinet
+    references:
+    - source: vazesh.bandcamp.com-album-the-sacred-key
+      quote: Hamed Sadeghi, tar, Jeremy Rose, saxophone and bass clarinet, Lloyd Swanton, double bass
+      accessed: '2026-11-21'
+      locator: Album credits
+  - value: Qfjxs3e
+    qualifiers:
+      role: double bass
+    references:
+    - source: vazesh.bandcamp.com-album-the-sacred-key
+      quote: Hamed Sadeghi, tar, Jeremy Rose, saxophone and bass clarinet, Lloyd Swanton, double bass
+      accessed: '2026-11-21'
+      locator: Album credits
+  listen link:
+  - value: https://vazesh.bandcamp.com/album/the-sacred-key
+    references:
+    - source: vazesh.bandcamp.com-album-the-sacred-key
+      quote: The Sacred Key
+      accessed: '2026-11-21'
+      locator: Album heading
+  - value: https://music.apple.com/us/album/the-sacred-key-feat-jeremy-rose-hamed-sadeghi-lloyd-swanton/1573854774
+    references:
+    - source: music.apple.com-us-album-the-sacred-key-feat-jeremy-rose-hamed-sadeghi-lloyd-swanton-1573854774
+      quote: The Sacred Key (feat. Jeremy Rose, Hamed Sadeghi & Lloyd Swanton)
+      accessed: '2026-11-21'
+      locator: Album title in Apple Music catalogue
+  - value: https://open.spotify.com/album/1ovhYkx7EfdcC4O8hNvtxD
+    references:
+    - source: open.spotify.com-album-1ovhykx7efdcc4o8hnvtxd
+      quote: The Sacred Key
+      accessed: '2026-11-21'
+      locator: Spotify album
+  - value: https://www.youtube.com/playlist?list=OLAK5uy_mKTqds40UpEUiErNiulHFS6N71CmAIgT0
+    references:
+    - source: www.youtube.com-playlist-list-olak5uy_mktqds40upeuierniulhfs6n71cmaigt0
+      quote: The Sacred Key
+      accessed: '2026-11-21'
+      locator: Album or single playlist title
+  release date:
+  - value:
+      date: '2021-07-25'
+    references:
+    - source: vazesh.bandcamp.com-album-the-sacred-key
+      quote: released July 25, 2021
+      accessed: '2026-11-21'
+      locator: Bandcamp date
+  cover art:
+  - value: https://f4.bcbits.com/img/a3550990946_10.jpg
+    qualifiers:
+      credit:
+        text: Hojjat Hamidi, photography
+        language: en
+    references:
+    - source: vazesh.bandcamp.com-album-the-sacred-key
+      quote: https://f4.bcbits.com/img/a3550990946_10.jpg
+      accessed: '2026-11-21'
+      locator: Full-size album artwork
+    - source: vazesh.bandcamp.com-album-the-sacred-key
+      quote: Photograph by Hojjat Hamidi
+      accessed: '2026-11-21'
+      locator: Cover photograph
+  published by:
+  - value: Qrnztmk
+    references:
+    - source: vazesh.bandcamp.com-album-the-sacred-key
+      quote: Earshift Music founder
+      accessed: '2026-11-21'
+      locator: Jeremy Rose, label founder
+    - source: www.aria.com.au-awards-past-winners-2021
+      quote: The Sacred Key Vazesh Earshift Music / The Planet Company
+      accessed: '2026-11-21'
+      locator: 2021 Best Jazz Album nominees
+  release type:
+  - value: live album
+    references:
+    - source: www.earshift.com-news-vazesh-tapestry
+      quote: like their debut, live in concert
+      accessed: '2026-11-21'
+      locator: Label introduction
+    - source: vazesh.bandcamp.com-album-the-sacred-key
+      quote: The Sacred Key
+      accessed: '2026-11-21'
+      locator: Album heading

@@ -1,0 +1,57 @@
+id: Q55sa52
+type: release
+statements:
+  name:
+  - value:
+      text: Ney o Avaz
+      language: en
+    references:
+    - source: siamak-jahangiri-ap1693166078
+      quote: Ney o Avaz
+      accessed: '2026-11-21'
+      locator: Track title and billing
+  release date:
+  - value:
+      date: '2014-06-18'
+    references:
+    - source: siamak-jahangiri-ap1693166078
+      quote: '2014-06-18'
+      accessed: '2026-11-21'
+      locator: Edition release date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/19/3d/35/193d35ae-adde-ea61-b7af-62b8e51bb2ed/197189165139.jpg/1200x630wp-60.jpg
+    references:
+    - source: siamak-jahangiri-ap1693166078
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/19/3d/35/193d35ae-adde-ea61-b7af-62b8e51bb2ed/197189165139.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Digital release artwork
+    qualifiers:
+      credit:
+        text: Apple Music, original edition artwork
+        language: en
+  performer:
+  - value: Qnz4xnz
+    references:
+    - source: siamak-jahangiri-ap1693166078
+      quote: Siamak Jahangiri
+      accessed: '2026-11-21'
+      locator: Distributor artist credit
+  - value: Qq5pyna
+    references:
+    - source: siamak-jahangiri-ap1693166078
+      quote: Amir Mardaneh
+      accessed: '2026-11-21'
+      locator: Distributor artist credit
+  listen link:
+  - value: https://music.apple.com/us/song/ney-o-avaz/1693166082
+    references:
+    - source: siamak-jahangiri-ap1693166078
+      quote: https://music.apple.com/us/song/ney-o-avaz/1693166082
+      accessed: '2026-11-21'
+      locator: Exact edition or recording
+  - value: https://open.spotify.com/track/7mQGm9jb1Om05qa9KtW4Ll
+    references:
+    - source: siamak-jahangiri-ed4hcove06lvqqnuectiyiru
+      quote: spotify:track:7mQGm9jb1Om05qa9KtW4Ll
+      accessed: '2026-11-21'
+      locator: Spotify recording

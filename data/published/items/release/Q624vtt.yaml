@@ -1,0 +1,32 @@
+id: Q624vtt
+type: release
+statements:
+  name:
+  - value:
+      text: Setar, Tasnif Jane Jahan تصنیف جان جهان
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-phkjawwks-w
+      quote: Setar, Tasnif Jane Jahan تصنیف جان جهان
+      accessed: '2026-11-21'
+      locator: Music credited by musician or performance publisher
+  performer:
+  - value: Qqb9bnx
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/PHKJAwWks-w/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-phkjawwks-w
+      quote: https://i.ytimg.com/vi/PHKJAwWks-w/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video frame
+    qualifiers:
+      credit:
+        text: Mehdi Moshtagh
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=PHKJAwWks-w
+    references:
+    - *id001

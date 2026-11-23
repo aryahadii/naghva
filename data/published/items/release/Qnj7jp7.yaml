@@ -1,0 +1,63 @@
+id: Qnj7jp7
+type: release
+statements:
+  name:
+  - value:
+      text: sarcian sinemass
+      language: en
+    references:
+    - source: flamingpines.bandcamp.com-track-sarcian-sinemass
+      quote: sarcian sinemass
+      accessed: '2026-11-21'
+      locator: Recording heading
+  performer:
+  - value: Qyt2364
+    references:
+    - source: flamingpines.bandcamp.com-track-sarcian-sinemass
+      quote: sarcian sinemass | Hadi Bastani | Flaming Pines
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://flamingpines.bandcamp.com/track/sarcian-sinemass
+    references:
+    - source: flamingpines.bandcamp.com-track-sarcian-sinemass
+      quote: sarcian sinemass | Hadi Bastani | Flaming Pines
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/hadi-bastani/sarcian-sinemass
+    references:
+    - source: soundcloud.com-hadi-bastani-sarcian-sinemass
+      quote: Stream sarcian sinemass by Hadi Bastani | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/sarcian-sinemass/1527077652
+    references:
+    - source: music.apple.com-us-song-sarcian-sinemass-1527077652
+      quote: ‎Sarcian Sinemass - Song with Lyrics by Hadi Bastani - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/3lSW0XpBAuSsIIY67t1eYu
+    references:
+    - source: open.spotify.com-track-3lsw0xpbaussiiy67t1eyu
+      quote: Sarcian Sinemass - song and lyrics by Hadi Bastani | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a3000533728_10.jpg
+    references:
+    - source: flamingpines.bandcamp.com-track-sarcian-sinemass
+      quote: https://f4.bcbits.com/img/a3000533728_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Bandcamp · Flaming Pines
+        language: en
+  release date:
+  - value:
+      date: '2020-06-05'
+    references:
+    - source: flamingpines.bandcamp.com-track-sarcian-sinemass
+      quote: released June 5, 2020
+      accessed: '2026-11-21'
+      locator: Published date

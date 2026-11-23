@@ -1,0 +1,45 @@
+id: Q68xm3g
+type: release
+statements:
+  name:
+  - value:
+      text: 'Silk Road Journeys: When Strangers Meet (Remastered)'
+      language: en
+    references:
+    - &id001
+      source: siamak-jahangiri-ap564088521
+      quote: 'Silk Road Journeys: When Strangers Meet (Remastered)'
+      accessed: '2026-11-21'
+      locator: Sony issue
+  performer:
+  - value: Qnz4xnz
+    references:
+    - source: siamak-jahangiri-primary
+      quote: When strangers meet
+      accessed: '2026-11-21'
+      locator: Academy discography
+  release type:
+  - value: album
+    references:
+    - *id001
+  listen link:
+  - value: https://music.apple.com/us/album/silk-road-journeys-when-strangers-meet-remastered/564088521
+    references:
+    - source: siamak-jahangiri-ap564088521
+      quote: https://music.apple.com/us/album/silk-road-journeys-when-strangers-meet-remastered/564088521
+      accessed: '2026-11-21'
+      locator: Exact Apple issue
+  - value: https://open.spotify.com/album/1HMQdLh7WCXyEGxIvr86HE
+    references:
+    - source: siamak-jahangiri-ed1hmqdlh7wcxyegxivr86he
+      quote: Silk Road Journeys - When Strangers Meet (Remastered)
+      accessed: '2026-11-21'
+      locator: Exact Spotify issue
+  release date:
+  - value:
+      date: '2002-04-16'
+    references:
+    - source: siamak-jahangiri-ap564088521
+      quote: '2002-04-16'
+      accessed: '2026-11-21'
+      locator: Digital issue date

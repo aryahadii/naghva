@@ -1,0 +1,75 @@
+id: Qp8pv74
+type: person
+statements:
+  name:
+  - value:
+      text: Mehdi Rajabian
+      language: en
+    references:
+    - source: mehdirajabian.com
+      quote: Iranian composer and musician Mehdi Rajabian
+      accessed: 2026-11-21
+      locator: Opening biography
+  - value:
+      text: مهدی رجبیان
+      language: fa
+    references:
+    - source: ir.voanews.com-a-mehdi-awards-music-iran-4965451.html
+      quote: «مهدی رجبیان» نوازنده سه تار و آهنگساز ممنوع از کار ایرانی
+      accessed: 2026-11-21
+      locator: Report on Middle Eastern
+  life event:
+  - value:
+      text: founded ‘Barg Music’ in 2007, a company to produce and support banned musicians in Iran.
+      language: en
+    qualifiers:
+      point in time:
+        date: '2007'
+    references:
+    - source: www.euronews.com-culture-2022-09-09-the-iranian-musician-risking-prison-for-his-new-album
+      quote: founded ‘Barg Music’ in 2007, a company to produce and support banned musicians in Iran.
+      accessed: 2026-11-21
+      locator: A burgeoning career and a prison sentence
+  - value:
+      text: آهنگ های«خاورمیانه‌ای» را در دوران حبس نوشت.
+      language: fa
+    references:
+    - source: ir.voanews.com-a-mehdi-awards-music-iran-4965451.html
+      quote: آهنگ های«خاورمیانه‌ای» را در دوران حبس نوشت.
+      accessed: 2026-11-21
+      locator: Report on Middle Eastern
+  - value:
+      text: بلافاصله پس از آزادی مشروط، تولید آلبوم را آغاز کرد.
+      language: fa
+    references:
+    - source: ir.voanews.com-a-mehdi-awards-music-iran-4965451.html
+      quote: بلافاصله پس از آزادی مشروط، تولید آلبوم را آغاز کرد.
+      accessed: 2026-11-21
+      locator: Report on Middle Eastern
+  profile link:
+  - value: https://music.apple.com/us/artist/mehdi-rajabian/1455970105
+    references:
+    - source: music.apple.com-us-artist-mehdi-rajabian-1455970105
+      quote: Mehdi Rajabian - Apple Music
+      accessed: 2026-11-21
+      locator: Page title
+  image:
+  - value: https://upload.wikimedia.org/wikipedia/commons/e/ec/Mehdi.Rajabian.Composer.jpg
+    qualifiers:
+      credit:
+        text: Mif.dang
+        language: en
+      license: https://creativecommons.org/licenses/by-sa/4.0/
+    references:
+    - source: commons.wikimedia.org-wiki-file-mehdi.rajabian.composer.jpg
+      quote: Mehdi.Rajabian. musician and composer
+      accessed: 2026-11-21
+      locator: Description
+    - source: commons.wikimedia.org-wiki-file-mehdi.rajabian.composer.jpg
+      quote: Mif.dang
+      accessed: 2026-11-21
+      locator: Author
+    - source: commons.wikimedia.org-wiki-file-mehdi.rajabian.composer.jpg
+      quote: Creative Commons Attribution-Share Alike 4.0
+      accessed: 2026-11-21
+      locator: Licensing

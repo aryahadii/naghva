@@ -1,0 +1,53 @@
+id: Qq23t5d
+type: release
+statements:
+  name:
+  - value:
+      text: Let Us Talk
+      language: en
+    references:
+    - source: music.apple.com-us-album-let-us-talk-feat-faravaz-single-6795855523
+      quote: Let Us Talk (feat. Faravaz)
+      accessed: 2026-11-21
+      locator: Edition or recording title
+  performer:
+  - value: Qx8hr72
+    references:
+    - source: music.apple.com-us-album-let-us-talk-feat-faravaz-single-6795855523
+      quote: Puder
+      accessed: 2026-11-21
+      locator: Digital credits
+  - value: Qgxh3d9
+    references:
+    - source: music.apple.com-us-album-let-us-talk-feat-faravaz-single-6795855523
+      quote: Faravaz
+      accessed: 2026-11-21
+      locator: Digital credits
+  listen link:
+  - value: https://music.apple.com/us/song/let-us-talk-feat-faravaz/6795855531
+    references:
+    - source: music.apple.com-us-album-let-us-talk-feat-faravaz-single-6795855523
+      quote: Let Us Talk (feat. Faravaz)
+      accessed: 2026-11-21
+      locator: Edition or recording title
+  - value: https://open.spotify.com/track/2RxqK7TY9u5pByX5NpVIAh
+    references:
+    - source: open.spotify.com-album-3chzgey403xcwuuvjond0l
+      quote: Let Us Talk
+      accessed: 2026-11-21
+      locator: Published recording
+  release date:
+  - value:
+      date: '2022-03-08'
+    references:
+    - source: music.apple.com-us-album-let-us-talk-feat-faravaz-single-6795855523
+      quote: '2022-03-08'
+      accessed: 2026-11-21
+      locator: Digital edition date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cf/ab/56/cfab5625-86f0-dc80-223c-6d42b5a105f7/885288157017.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-let-us-talk-feat-faravaz-single-6795855523
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cf/ab/56/cfab5625-86f0-dc80-223c-6d42b5a105f7/885288157017.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Digital edition artwork

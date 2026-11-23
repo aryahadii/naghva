@@ -1,0 +1,83 @@
+id: Q5vzeb7
+type: release
+statements:
+  name:
+  - value:
+      text: Fragile Hope
+      language: en
+    references:
+    - source: open.spotify.com-embed-track-5z3x7ab4fxcpo2murydqez
+      quote: Fragile Hope
+      accessed: '2026-11-21'
+      locator: Original Spotify recording or album
+  release type:
+  - value: single
+    references:
+    - source: open.spotify.com-embed-track-5z3x7ab4fxcpo2murydqez
+      quote: Fragile Hope
+      accessed: '2026-11-21'
+      locator: Original Spotify recording or album
+  performer:
+  - value: Qwmja27
+    references:
+    - source: open.spotify.com-embed-track-5z3x7ab4fxcpo2murydqez
+      quote: Fragile Hope
+      accessed: '2026-11-21'
+      locator: Original Spotify recording or album
+  - value: Qa6r74t
+    qualifiers:
+      role:
+      - bass
+    references:
+    - source: kasrasaboktakin.com-music
+      quote: https://open.spotify.com/track/5Z3X7AB4FXcpo2MuRydQez
+      accessed: '2026-11-21'
+      locator: Record linked by bassist in his own portfolio
+  listen link:
+  - value: https://open.spotify.com/track/5Z3X7AB4FXcpo2MuRydQez
+    references:
+    - source: open.spotify.com-embed-track-5z3x7ab4fxcpo2murydqez
+      quote: Fragile Hope
+      accessed: '2026-11-21'
+      locator: Original Spotify recording or album
+  - value: https://music.apple.com/us/song/fragile-hope/1808975525
+    references:
+    - source: music.apple.com-us-album-fragile-hope-1808975524
+      quote: Fragile Hope - Single
+      accessed: '2026-11-21'
+      locator: Apple issue
+  - value: https://www.youtube.com/watch?v=WSBrQLfQ8pM
+    references:
+    - source: youtu.be-wsbrqlfq8pm-si-seetaxza0riu_yxe
+      quote: Fragile Hope
+      accessed: '2026-11-21'
+      locator: Original distribution or artist recording
+  release date:
+  - value:
+      date: '2025-05-03'
+    references:
+    - source: open.spotify.com-embed-track-5z3x7ab4fxcpo2murydqez
+      quote: '2025-05-03'
+      accessed: '2026-11-21'
+      locator: Digital issue date
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d0000b2732dd4805a74c0870fba4ff106
+    qualifiers:
+      credit:
+        text: Digital distributor artwork
+        language: en
+    references:
+    - source: open.spotify.com-track-5z3x7ab4fxcpo2murydqez
+      quote: https://i.scdn.co/image/ab67616d0000b2732dd4805a74c0870fba4ff106
+      accessed: '2026-11-21'
+      locator: Original release image
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ac/b6/be/acb6bec4-e933-734a-bde0-d05d031ef9fd/199199538538.jpg/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Digital distributor artwork
+        language: en
+    references:
+    - source: music.apple.com-us-album-fragile-hope-1808975524
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ac/b6/be/acb6bec4-e933-734a-bde0-d05d031ef9fd/199199538538.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Original release image

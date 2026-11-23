@@ -1,0 +1,57 @@
+id: Q5g3ahp
+type: release
+statements:
+  name:
+  - value:
+      text: Where we have fallen is where we shall grow
+      language: en
+    references:
+    - source: zojduet.bandcamp.com-album-return
+      quote: Where we have fallen is where we shall grow
+      accessed: '2026-11-21'
+      locator: Track 2 of Return
+  performer:
+  - value: Qk5bhh3
+    references:
+    - source: zojduet.bandcamp.com-track-where-we-have-fallen-is-where-we-shall-grow
+      quote: Where we have fallen is where we shall grow | ZÖJ
+      accessed: '2026-11-21'
+      locator: Track page title
+  release date:
+  - value:
+      date: '2022-05-28'
+    references:
+    - source: zojduet.bandcamp.com-album-return
+      quote: released May 28, 2022
+      accessed: '2026-11-21'
+      locator: Release credits, publication date
+  cover art:
+  - value: https://f4.bcbits.com/img/a4241886900_10.jpg
+    qualifiers:
+      credit:
+        text: ZÖJ, via Bandcamp
+        language: en
+    references:
+    - source: zojduet.bandcamp.com-album-return
+      quote: https://f4.bcbits.com/img/a4241886900_10.jpg
+      accessed: '2026-11-21'
+      locator: Full-sized album artwork
+  listen link:
+  - value: https://zojduet.bandcamp.com/track/where-we-have-fallen-is-where-we-shall-grow
+    references:
+    - source: zojduet.bandcamp.com-track-where-we-have-fallen-is-where-we-shall-grow
+      quote: Where we have fallen is where we shall grow | ZÖJ
+      accessed: '2026-11-21'
+      locator: Track page title
+  - value: https://open.spotify.com/track/43QJriodD2hwf3CBYFzWAT
+    references:
+    - source: open.spotify.com-album-6hpexhdebzt8puyknbvvi2
+      quote: Where we have fallen is where we shall grow
+      accessed: '2026-11-21'
+      locator: Track 2 in the Spotify album player
+  - value: https://music.apple.com/au/album/where-we-have-fallen-is-where-we-shall-grow/1644115173?i=1644115175
+    references:
+    - source: music.apple.com-au-album-return-ep-1644115173
+      quote: Where We Have Fallen Is Where We Shall Grow
+      accessed: '2026-11-21'
+      locator: Album track list, track 2

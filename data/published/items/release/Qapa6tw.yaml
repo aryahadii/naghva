@@ -1,0 +1,32 @@
+id: Qapa6tw
+type: release
+statements:
+  name:
+  - value:
+      text: EGIPTANOS Ensayo Son de la Bruja | اخیپتنوس، تمرین قطعه بروخا
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-3pxo2hjg7j8
+      quote: EGIPTANOS Ensayo Son de la Bruja | اخیپتنوس، تمرین قطعه بروخا
+      accessed: '2026-11-21'
+      locator: Music credited by musician or performance publisher
+  performer:
+  - value: Qqb9bnx
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/3pXO2hjG7J8/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-3pxo2hjg7j8
+      quote: https://i.ytimg.com/vi/3pXO2hjG7J8/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video frame
+    qualifiers:
+      credit:
+        text: Mehdi Moshtagh
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=3pXO2hjG7J8
+    references:
+    - *id001

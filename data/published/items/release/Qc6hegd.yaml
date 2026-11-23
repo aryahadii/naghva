@@ -1,0 +1,45 @@
+id: Qc6hegd
+type: release
+statements:
+  name:
+  - value:
+      text: La Faute (feat. Babak Rajabi)
+      language: en
+    references:
+    - source: music.apple.com-us-album-la-faute-feat-babak-rajabi-1765740051
+      quote: La Faute (feat. Babak Rajabi)
+      accessed: '2026-11-21'
+      locator: Track title
+  performer:
+  - value: Qzhgpkw
+    references:
+    - source: music.apple.com-us-album-la-faute-feat-babak-rajabi-1765740051
+      quote: Babak Rajabi
+      accessed: '2026-11-21'
+      locator: Artist billing
+  release date:
+  - value:
+      date: '2024-10-11'
+    references:
+    - source: music.apple.com-us-album-la-faute-feat-babak-rajabi-1765740051
+      quote: '2024-10-11'
+      accessed: '2026-11-21'
+      locator: Release metadata
+  listen link:
+  - value: https://music.apple.com/us/song/la-faute-feat-babak-rajabi/1765740068
+    references:
+    - source: music.apple.com-us-album-la-faute-feat-babak-rajabi-1765740051
+      quote: La Faute (feat. Babak Rajabi)
+      accessed: '2026-11-21'
+      locator: Track title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a7/f0/e6/a7f0e682-93fc-b81a-a27f-1071648350ac/859791659504_cover.jpg/632x632bb-60.jpg
+    references:
+    - source: music.apple.com-us-album-la-faute-feat-babak-rajabi-1765740051
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a7/f0/e6/a7f0e682-93fc-b81a-a27f-1071648350ac/859791659504_cover.jpg/632x632bb-60.jpg
+      accessed: '2026-11-21'
+      locator: Release image URL
+    qualifiers:
+      credit:
+        text: Apple Music · La Faute - EP
+        language: en

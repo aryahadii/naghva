@@ -1,0 +1,61 @@
+id: Q6cs4wq
+type: release
+statements:
+  name:
+  - value:
+      text: T E H R AN
+      language: en
+    references:
+    - source: youtu.be-xsyostpckn0
+      quote: Justina - T E H R AN | OFFICIAL AUDIO جاستینا - ت ه ر الف نون
+      accessed: 2026-11-21
+      locator: Artist channel video title
+  - value:
+      text: ت ه ر الف نون
+      language: fa
+    references:
+    - source: youtu.be-xsyostpckn0
+      quote: Justina - T E H R AN | OFFICIAL AUDIO جاستینا - ت ه ر الف نون
+      accessed: 2026-11-21
+      locator: Artist channel video title
+  performer:
+  - value: Q2fdqjp
+    references:
+    - source: youtu.be-xsyostpckn0
+      quote: Justina - T E H R AN | OFFICIAL AUDIO جاستینا - ت ه ر الف نون
+      accessed: 2026-11-21
+      locator: Artist channel video title
+  listen link:
+  - value: https://youtu.be/xsyosTPckN0
+    references:
+    - source: youtu.be-xsyostpckn0
+      quote: Justina - T E H R AN | OFFICIAL AUDIO جاستینا - ت ه ر الف نون
+      accessed: 2026-11-21
+      locator: Artist channel video title
+  - value: https://music.apple.com/us/song/t-e-h-r-a-n/1829447488
+    references:
+    - source: music.apple.com-us-album-t-e-h-r-a-n-single-1829447486
+      quote: T E H R A N
+      accessed: 2026-11-21
+      locator: Apple recording name and billing
+  - value: https://open.spotify.com/track/3c5y2fvgQG3sKjueATg8qG
+    references:
+    - source: open.spotify.com-album-4e4rzqkxog1bk1mmdbloh3
+      quote: T E H R A N
+      accessed: 2026-11-21
+      locator: Native recording title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/85/34/af/8534af99-dbe5-baaf-4516-0595770c6b64/cover.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-t-e-h-r-a-n-single-1829447486
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/85/34/af/8534af99-dbe5-baaf-4516-0595770c6b64/cover.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Apple edition artwork
+  release date:
+  - value:
+      date: '2025-07-29'
+    references:
+    - source: music.apple.com-us-album-t-e-h-r-a-n-single-1829447486
+      quote: '2025-07-29'
+      accessed: 2026-11-21
+      locator: Digital edition release date

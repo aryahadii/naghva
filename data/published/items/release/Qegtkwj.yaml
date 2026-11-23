@@ -1,0 +1,47 @@
+id: Qegtkwj
+type: release
+statements:
+  name:
+  - value:
+      text: اورنگ
+      language: fa
+    references:
+    - source: www.youtube.com-oembed-oiwj7m2ykcm
+      quote: اورنگ
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
+  performer:
+  - value: Qje5fct
+    references:
+    - source: www.youtube.com-watchv-oiwj7m2ykcm
+      quote: 'زانیار حسامی: نوازنده دف'
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
+    qualifiers:
+      role: daf
+  release date:
+  - value:
+      date: '2023-04-22'
+    references:
+    - source: www.youtube.com-watchv-oiwj7m2ykcm
+      quote: '2023-04-22'
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://i.ytimg.com/vi/oiwj7m2YkCM/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-oiwj7m2ykcm
+      quote: https://i.ytimg.com/vi/oiwj7m2YkCM/hqdefault.jpg
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Zanyar Hesami · performance film
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=oiwj7m2YkCM
+    references:
+    - source: www.youtube.com-oembed-oiwj7m2ykcm
+      quote: اورنگ
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'

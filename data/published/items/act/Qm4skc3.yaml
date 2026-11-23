@@ -1,0 +1,77 @@
+id: Qm4skc3
+type: act
+statements:
+  name:
+  - value:
+      text: NUM
+      language: en
+    references:
+    - source: numduo.bandcamp.com
+      quote: Music | NUM
+      accessed: '2026-11-21'
+      locator: Page title
+  - value:
+      text: Name
+      language: en
+    references:
+    - source: beehy.pe-num-through-my-skin-interview
+      quote: from “Name” (as you read it in English) to “Num”
+      accessed: '2026-11-21'
+      locator: Name history
+  formation date:
+  - value:
+      date: '2010'
+    references:
+    - source: www.numduo.com-about
+      quote: Maryam Sirvan and Milad Bagheri in 2010, originally from northern Iran.
+      accessed: '2026-11-21'
+      locator: Duo biography
+  based in:
+  - value: Qdxbpzd
+    references:
+    - source: www.numduo.com-about
+      quote: Since 2021, they have been based in Calgary
+      accessed: '2026-11-21'
+      locator: Duo biography
+  image:
+  - value: https://f4.bcbits.com/img/0022540892_10.jpg
+    references:
+    - source: numduo.bandcamp.com
+      quote: https://f4.bcbits.com/img/0022540892_10.jpg
+      accessed: '2026-11-21'
+      locator: Artist photograph in sidebar
+    qualifiers:
+      credit:
+        text: NUM on Bandcamp
+        language: en
+  profile link:
+  - value: https://numduo.bandcamp.com/
+    references:
+    - source: numduo.bandcamp.com
+      quote: Music | NUM
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://www.youtube.com/@numduo
+    references:
+    - source: www.youtube.com-numduo
+      quote: NUM duo - YouTube
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/nummusic
+    references:
+    - source: soundcloud.com-nummusic
+      quote: Stream NUM music | Listen to songs, albums, playlists for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/artist/num/1861938987
+    references:
+    - source: music.apple.com-us-artist-num-1861938987
+      quote: ‎NUM - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/artist/1Xh5vSS8ij9LooUczHp137
+    references:
+    - source: open.spotify.com-artist-1xh5vss8ij9loouczhp137
+      quote: Listen to NUM Songs | Spotify
+      accessed: '2026-11-21'
+      locator: Page title

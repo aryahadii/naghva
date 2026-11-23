@@ -1,0 +1,35 @@
+id: Q9sx4z9
+type: person
+statements:
+  name:
+  - value:
+      text: Michel Gasco
+      language: en
+    references:
+    - source: badieh.bandcamp.com-album-badieh
+      quote: Michel Gasco - Oud and Rubab
+      accessed: '2026-11-21'
+      locator: Record personnel and track assignments
+  - value:
+      text: میچل گاسکو
+      language: fa
+    references:
+    - source: www.sbs.com.au-language-persian-fa-podcast-episode-badieh-a-musical-journey-from-spain-to-afghanistan-iran-and-finally-to-australia-y96dboubo
+      quote: میچل گاسکو
+      accessed: '2026-11-21'
+      locator: SBS interview with the two musicians
+  member of:
+  - value: Qndvgwn
+    qualifiers:
+      role:
+      - oud
+      - strings
+    references:
+    - source: gulbenkian.pt-musica-en-agenda-badieh-samin-ghorbani
+      quote: Created in 2018 by the Iranian musician Mohamad Miraghazadeh and Spanish musician Michel Gasco
+      accessed: '2026-11-21'
+      locator: Concert programme
+    - source: badieh.bandcamp.com-album-badieh
+      quote: Michel Gasco - Oud and Rubab
+      accessed: '2026-11-21'
+      locator: Record personnel and track assignments

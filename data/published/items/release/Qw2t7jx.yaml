@@ -1,0 +1,72 @@
+id: Qw2t7jx
+type: release
+statements:
+  name:
+  - value:
+      text: I Pursuit (Acoustic)
+      language: en
+    references:
+    - source: music.apple.com-us-album-solace-of-the-eyes-1600938896uo-4
+      quote: I Pursuit (Acoustic)
+      locator: Original programme, artist or edition credits
+      accessed: '2026-11-21'
+  - value:
+      text: I Pursuit
+      language: en
+    references:
+    - source: soundcloud.com-sahba-motallebi-i-pursuit
+      quote: I Pursuit
+      locator: Original programme, artist or edition credits
+      accessed: '2026-11-21'
+  performer:
+  - value: Qyw49hh
+    references:
+    - source: music.apple.com-us-album-solace-of-the-eyes-1600938896uo-4
+      quote: Sahba Motallebi
+      locator: Original programme, artist or edition credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: tar
+  release date:
+  - value:
+      date: '2010-09-07'
+    references:
+    - source: soundcloud.com-sahba-motallebi-i-pursuit
+      quote: '2010-09-07'
+      locator: Original programme, artist or edition credits
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/45/b8/a0/45b8a063-ce32-e789-1fef-c99f08732ca1/752470828980_cover.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-solace-of-the-eyes-1600938896uo-4
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/45/b8/a0/45b8a063-ce32-e789-1fef-c99f08732ca1/752470828980_cover.jpg/1200x630bb.jpg
+      locator: Original programme, artist or edition credits
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://music.apple.com/us/song/i-pursuit-acoustic/1600938904
+    references:
+    - source: music.apple.com-us-album-solace-of-the-eyes-1600938896uo-4
+      quote: I Pursuit (Acoustic)
+      locator: Original programme, artist or edition credits
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/5cpYJBLj4889CO1y57NEJL
+    references:
+    - source: open.spotify.com-embed-album-2ruail51gtxxrhf7xgkjhnutm_source-generator-theme-0
+      quote: spotify:track:5cpYJBLj4889CO1y57NEJL
+      locator: Original programme, artist or edition credits
+      accessed: '2026-11-21'
+  - value: https://soundcloud.com/sahba-motallebi/i-pursuit
+    references:
+    - source: soundcloud.com-sahba-motallebi-i-pursuit
+      quote: I Pursuit
+      locator: Original programme, artist or edition credits
+      accessed: '2026-11-21'
+  contributor:
+  - value: Q7ntmtz
+    references:
+    - source: soundcloud.com-sahba-motallebi-i-pursuit
+      quote: Tahirih Qurratul Ayn
+      locator: Original programme, artist or edition credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: lyricist

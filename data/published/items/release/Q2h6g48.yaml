@@ -1,0 +1,95 @@
+id: Q2h6g48
+type: release
+statements:
+  name:
+  - value:
+      text: Horizon
+      language: en
+    references:
+    - source: stereotypeduo.bandcamp.com-track-horizon-2
+      quote: Horizon | Stereotype
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Q6g9xwf
+    references:
+    - source: stereotypeduo.bandcamp.com-track-horizon-2
+      quote: Horizon | Stereotype
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qb5hnjh
+    references:
+    - source: 30m-records.com-stereotype
+      quote: Xeen, producing and playing the electronics
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: electronics
+  - value: Qh6s4f5
+    references:
+    - source: 30m-records.com-stereotype
+      quote: Meshcut, vocalist and synthesizer player
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://stereotypeduo.bandcamp.com/track/horizon-2
+    references:
+    - source: stereotypeduo.bandcamp.com-track-horizon-2
+      quote: Horizon | Stereotype
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://stereotypeduo.bandcamp.com/track/horizon
+    references:
+    - source: stereotypeduo.bandcamp.com-track-horizon
+      quote: Horizon | Stereotype
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/album/3gsdYYcgwLx5XFktNuIe8C
+    references:
+    - source: open.spotify.com-album-3gsdyycgwlx5xfktnuie8c
+      quote: Listen to Horizon - Single by Stereotype | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/4sb7kWMbvVJ5Es00b9ESAk
+    references:
+    - source: open.spotify.com-track-4sb7kwmbvvj5es00b9esak
+      quote: Horizon - song and lyrics by Stereotype | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1550989871
+    references:
+    - source: music.apple.com-us-song-1550989871
+      quote: ‎Horizon - Song with Lyrics by Stereotype - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1548129145
+    references:
+    - source: music.apple.com-us-song-1548129145
+      quote: ‎Horizon - Song with Lyrics by Stereotype - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1608051592
+    references:
+    - source: music.apple.com-us-song-1608051592
+      quote: ‎Horizon - Song with Lyrics by Stereotype - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a1378237384_10.jpg
+    references:
+    - source: stereotypeduo.bandcamp.com-track-horizon-2
+      quote: https://f4.bcbits.com/img/a1378237384_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Publisher artwork
+        language: en
+  release date:
+  - value:
+      date: '2021-02-15'
+    references:
+    - source: stereotypeduo.bandcamp.com-album-foil
+      quote: released February 15, 2021
+      accessed: '2026-11-21'
+      locator: Published date

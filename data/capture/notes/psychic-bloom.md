@@ -1,0 +1,5 @@
+# Psychic Bloom
+
+The band’s two Bandcamp albums provide dates, original covers and complete running orders. The debut has twelve tracks and *Mysterious Temple* has six. All eighteen songs also appear under the same artist on Apple Music and Spotify. The 2018 Detriti edition of the debut reproduces the original running order. The Oracle vinyl edition splits it across two sides. The band’s own account distinguishes Keivan, who played with Hashill in Tehran, from the guest drummer Michael Villiers on the second album. The group portrait on the artist’s Spotify profile shows the later band.
+
+[Artist catalogue](https://psychicbloom.bandcamp.com/music) · [Artist interview](https://radiotrails.com/2019/09/06/qa-psychic-bloom/) · [Recording interview](https://www.clearvisioncollective.com/post/psychic-bloom-ponders-on) · [Detriti cassette](https://detritirecords.bandcamp.com/album/psychic-bloom-s-t) · [Oracle LP](https://www.diggersfactory.com/vinyl/326336/psychic-bloom-psychic-bloom) · [Spotify](https://open.spotify.com/artist/3gnvv8S9QthwVbtxiuLk0y) · [Apple Music](https://music.apple.com/us/artist/psychic-bloom/1303789564)

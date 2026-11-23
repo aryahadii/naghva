@@ -1,0 +1,57 @@
+id: Qnsrjvm
+type: release
+statements:
+  name:
+  - value:
+      text: Cocoon
+      language: en
+    references:
+    - source: music.apple.com-us-album-6791675554
+      quote: Cocoon (feat. Shabnam Parvaresh)
+      locator: Named featured musician
+      accessed: '2026-11-21'
+  performer:
+  - value: Q9aspca
+    references:
+    - source: music.apple.com-us-album-6791675554
+      quote: Cocoon (feat. Shabnam Parvaresh)
+      locator: Named featured musician
+      accessed: '2026-11-21'
+  - value: Qdwrvpn
+    references:
+    - source: music.apple.com-us-album-6791675554
+      quote: Ula Martyn-Ellis
+      locator: Billed artist
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2026-08-18'
+    references:
+    - source: music.apple.com-us-album-6791675554
+      quote: '2026-08-18'
+      locator: Release date
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e0/77/db/e077db51-f54b-028a-ec64-00c024768ae1/4064946706422_3000.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-6791675554
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e0/77/db/e077db51-f54b-028a-ec64-00c024768ae1/4064946706422_3000.jpg/1200x630bb.jpg
+      locator: Portrait or cover art on the artist or publisher page
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Distance · release artwork
+        language: en
+  listen link:
+  - value: https://music.apple.com/us/song/cocoon-feat-shabnam-parvaresh/6791675798
+    references:
+    - source: music.apple.com-us-album-6791675554
+      quote: Cocoon (feat. Shabnam Parvaresh)
+      locator: Named featured musician
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/0mHUPpJ8kevj8kLIBzhy9j
+    references:
+    - source: open.spotify.com-album-45qus5k9kxouiyth9lbfjz
+      quote: Cocoon
+      locator: Track on corresponding streaming edition
+      accessed: '2026-11-21'

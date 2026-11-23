@@ -1,0 +1,57 @@
+id: Qa6bqq3
+type: release
+statements:
+  name:
+  - value:
+      text: 'Huzam III: Alegría'
+      language: en
+    references:
+    - source: darawish.bandcamp.com-track-huzam-iii-alegr-a
+      quote: 'Huzam III: Alegría | Darawish'
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qyk58gj
+    references:
+    - source: darawish.bandcamp.com-track-huzam-iii-alegr-a
+      quote: 'Huzam III: Alegría | Darawish'
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://darawish.bandcamp.com/track/huzam-iii-alegr-a
+    references:
+    - source: darawish.bandcamp.com-track-huzam-iii-alegr-a
+      quote: 'Huzam III: Alegría | Darawish'
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/huzam-iii-alegr%C3%ADa/1495102878
+    references:
+    - source: music.apple.com-us-song-huzam-iii-alegr-c3-ada-1495102878
+      quote: ‎Huzam III (alegría) - Song with Lyrics by Darawish - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/4xUgsx0OtKfcTyhlCAVjLB
+    references:
+    - source: open.spotify.com-album-2pugceut2uuiket0gvnvx0
+      quote: Huzam III (alegría) · Darawish
+      accessed: 2026-11-21
+      locator: Matching album sequence and native titled track
+  cover art:
+  - value: https://f4.bcbits.com/img/a3857241456_10.jpg
+    references:
+    - source: darawish.bandcamp.com-album-madar
+      quote: https://f4.bcbits.com/img/a3857241456_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Darawish’s original album artwork
+        language: en
+  release date:
+  - value:
+      date: '2020-01-27'
+    references:
+    - source: darawish.bandcamp.com-album-madar
+      quote: released January 27, 2020
+      accessed: '2026-11-21'
+      locator: Published date

@@ -1,0 +1,39 @@
+id: Q29kpk6
+type: release
+statements:
+  name:
+  - value:
+      text: The Lonesome Sisyphus (Live)
+      language: en
+    references:
+    - source: open.spotify.com-album-3l9vpvy5iifhbnuspsnjt2
+      quote: The Lonesome Sisyphus - Live
+      accessed: 2026-11-21
+      locator: Spotify track billing
+  performer:
+  - value: Qtqjb47
+    references:
+    - source: open.spotify.com-album-3l9vpvy5iifhbnuspsnjt2
+      quote: The Lonesome Sisyphus - Live
+      accessed: 2026-11-21
+      locator: Spotify track billing
+  listen link:
+  - value: https://open.spotify.com/track/2Ar1G5SpJ9QDY9d6wAH5ch
+    references:
+    - source: open.spotify.com-album-3l9vpvy5iifhbnuspsnjt2
+      quote: The Lonesome Sisyphus - Live
+      accessed: 2026-11-21
+      locator: Spotify track billing
+  - value: https://youtu.be/TUQDjgEmQW4
+    references:
+    - source: youtu.be-tuqdjgemqw4
+      quote: The Lonesome Sisyphus
+      accessed: 2026-11-21
+      locator: Track in artist-linked playlist
+  cover art:
+  - value: https://i.ytimg.com/vi/TUQDjgEmQW4/hqdefault.jpg
+    references:
+    - source: youtu.be-tuqdjgemqw4
+      quote: The Lonesome Sisyphus
+      accessed: 2026-11-21
+      locator: Track in artist-linked playlist

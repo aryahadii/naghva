@@ -1,0 +1,63 @@
+id: Qxe3bw3
+type: release
+statements:
+  name:
+  - value:
+      text: Destinos
+      language: en
+    references:
+    - source: music.apple.com-us-song-1859539043
+      quote: ‎Destinos - Song with Lyrics by Chelono & Kaveh Sarvarian - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qy69pg7
+    references:
+    - source: music.apple.com-us-song-1859539043
+      quote: ‎Destinos - Song with Lyrics by Chelono & Kaveh Sarvarian - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://music.apple.com/us/song/1859539043
+    references:
+    - source: music.apple.com-us-song-1859539043
+      quote: ‎Destinos - Song with Lyrics by Chelono & Kaveh Sarvarian - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/destinos-single/1859539042
+    references:
+    - source: music.apple.com-us-album-destinos-single-1859539042
+      quote: ‎Destinos - Single - Album by Chelono & Kaveh Sarvarian - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/album/2MjosDOSwIg1I7jyggIry6
+    references:
+    - source: open.spotify.com-album-2mjosdoswig1i7jyggiry6
+      quote: Listen to Destinos - Single by Chelono | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/5BVg7IBOFeBk1mxpgkJzn4
+    references:
+    - source: open.spotify.com-track-5bvg7ibofebk1mxpgkjzn4
+      quote: Destinos - song and lyrics by Chelono, Kaveh Sarvarian | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3c/a3/9e/3ca39e00-0678-651e-a71e-80fd1625624e/artwork.jpg/600x600bb.webp
+    references:
+    - source: music.apple.com-us-song-1859539043
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3c/a3/9e/3ca39e00-0678-651e-a71e-80fd1625624e/artwork.jpg/600x600bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original publisher artwork
+        language: en
+  release date:
+  - value:
+      date: '2025-12-16'
+    references:
+    - source: music.apple.com-us-song-1859539043
+      quote: December 16, 2025
+      accessed: '2026-11-21'
+      locator: Published date

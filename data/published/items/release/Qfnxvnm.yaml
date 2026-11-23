@@ -1,0 +1,41 @@
+id: Qfnxvnm
+type: release
+statements:
+  name:
+  - value:
+      text: ensemble shanbehzadeh & trio Donarier " somraya"
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-zkfzrwoanky
+      quote: ensemble shanbehzadeh & trio Donarier " somraya"
+      accessed: '2026-11-21'
+      locator: Artist-published performance film
+  performer:
+  - value: Qyd93n9
+    references:
+    - *id001
+  - value: Qdtxp3v
+    references:
+    - *id001
+  - value: Qq36p3f
+    references:
+    - source: www.youtube.com-watch-v-zkfzrwoanky
+      quote: trio Donarier
+      accessed: '2026-11-21'
+      locator: Original film title billing
+  listen link:
+  - value: https://www.youtube.com/watch?v=ZkfzRwoaNkY
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/ZkfzRwoaNkY/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-zkfzrwoanky
+      quote: https://i.ytimg.com/vi/ZkfzRwoaNkY/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original film frame
+    qualifiers:
+      credit:
+        text: saeid shanbehzadeh
+        language: en

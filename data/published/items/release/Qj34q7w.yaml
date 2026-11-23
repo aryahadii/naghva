@@ -1,0 +1,51 @@
+id: Qj34q7w
+type: release
+statements:
+  name:
+  - value:
+      text: Oorlogsleed (Darbast, Tehran)
+      language: en
+    references:
+    - source: www.youtube.com-watch-v-ugdhcodedf0
+      quote: 'elephant songs @ darbast, tehran: oorlogsleed'
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qq5328q
+    references:
+    - source: www.youtube.com-watch-v-ugdhcodedf0
+      quote: 'elephant songs @ darbast, tehran: oorlogsleed'
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qzchcs8
+    references:
+    - source: www.rouzbehesfand.com-pallett-band-videos
+      quote: Rouzbeh Esfand | Clarinetist & Music Producer, The Hague
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://www.youtube.com/watch?v=UgdhcODeDf0
+    references:
+    - source: www.youtube.com-watch-v-ugdhcodedf0
+      quote: 'elephant songs @ darbast, tehran: oorlogsleed'
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i.ytimg.com/vi/UgdhcODeDf0/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-ugdhcodedf0
+      quote: https://i.ytimg.com/vi/UgdhcODeDf0/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: robbert van hulzen
+        language: en
+  release date:
+  - value:
+      date: '2012'
+    references:
+    - source: www.rouzbehesfand.com-pallett-band-videos
+      quote: Elephant Project - Tehran - 2012
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits

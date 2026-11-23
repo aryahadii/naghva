@@ -1,0 +1,17 @@
+id: Qe3ebhc
+type: release
+statements:
+  name:
+  - value:
+      text: The Prince of Sorrows
+      language: en
+    references:
+    - &id001
+      source: siamak-jahangiri-heroes
+      quote: Recorded music by Navid Afghah, tombak Siamak Jahangiri, nay Amir Mardaneh, vocals
+      accessed: '2026-11-21'
+      locator: Original animation music credit
+  performer:
+  - value: Qnz4xnz
+    references:
+    - *id001

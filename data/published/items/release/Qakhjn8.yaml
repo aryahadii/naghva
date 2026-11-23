@@ -1,0 +1,56 @@
+id: Qakhjn8
+type: release
+statements:
+  name:
+  - value:
+      text: The Songful Song of Songbirds
+      language: en
+    references:
+    - source: music.apple.com-us-album-a-satire-on-hell-384944971
+      quote: The Songful Song of Songbirds
+      accessed: 2026-11-21
+      locator: Published recording or album
+  listen link:
+  - value: https://music.apple.com/us/song/the-songful-song-of-songbirds/384945036
+    references:
+    - source: music.apple.com-us-album-a-satire-on-hell-384944971
+      quote: The Songful Song of Songbirds
+      accessed: 2026-11-21
+      locator: Published recording or album
+  - value: https://open.spotify.com/track/5TjSMzDRQHMIllCqKB4oM1
+    references:
+    - source: open.spotify.com-album-49roeaqmjomxrhoahoznmr
+      quote: The Songful Song of Songbirds
+      accessed: 2026-11-21
+      locator: Spotify track listing
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music/8a/a3/27/mzi.vhtnbvsv.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-a-satire-on-hell-384944971
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music/8a/a3/27/mzi.vhtnbvsv.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Digital artwork
+  release date:
+  - value:
+      date: '2010-06-20'
+    references:
+    - source: music.apple.com-us-album-a-satire-on-hell-384944971
+      quote: '2010-06-20'
+      accessed: 2026-11-21
+      locator: Digital edition date
+  performer:
+  - value: Qp3beww
+    references:
+    - source: salimworld.com-music-iconophobic
+      quote: 'All Music Composed, Performed, Recorded & Mixed By: Salim Ghazi Saeedi'
+      accessed: 2026-11-21
+      locator: Composer and player’s published credits
+  contributor:
+  - value: Qp3beww
+    qualifiers:
+      role: composer
+    references:
+    - source: salimworld.com-music-iconophobic
+      quote: 'All Music Composed, Performed, Recorded & Mixed By: Salim Ghazi Saeedi'
+      accessed: 2026-11-21
+      locator: Composer and player’s published credits

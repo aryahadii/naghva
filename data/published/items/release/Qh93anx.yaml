@@ -1,0 +1,30 @@
+id: Qh93anx
+type: release
+statements:
+  name:
+  - value:
+      text: House of Norway
+      language: en
+    references:
+    - source: cineuropa.org-en-interview-320949
+      quote: House of Norway
+      accessed: '2026-11-21'
+      locator: Film title
+  performer:
+  - value: Qz9hcyk
+    references:
+    - source: cineuropa.org-en-interview-320949
+      quote: Iranian pieces played by Javid Afsari Rad
+      accessed: '2026-11-21'
+      locator: Director discussing the score
+    qualifiers:
+      role:
+      - santur
+  release date:
+  - value:
+      date: '2016'
+    references:
+    - source: cineuropa.org-en-interview-320949
+      quote: 27/12/2016
+      accessed: '2026-11-21'
+      locator: Release interview

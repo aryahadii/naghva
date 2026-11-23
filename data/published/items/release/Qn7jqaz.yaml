@@ -1,0 +1,57 @@
+id: Qn7jqaz
+type: release
+statements:
+  name:
+  - value:
+      text: Requiem For Bobby Baccalà
+      language: en
+    references:
+    - source: music.apple.com-us-song-1530013259
+      quote: ‎Requiem For Bobby Baccalà - Song with Lyrics by Idlefon - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qjjdrek
+    references:
+    - source: music.apple.com-us-song-1530013259
+      quote: ‎Requiem For Bobby Baccalà - Song with Lyrics by Idlefon - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://music.apple.com/us/song/1530013259
+    references:
+    - source: music.apple.com-us-song-1530013259
+      quote: ‎Requiem For Bobby Baccalà - Song with Lyrics by Idlefon - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://noise-a-noise.bandcamp.com/track/idlefon-requiem-for-bobby-baccal
+    references:
+    - source: noise-a-noise.bandcamp.com-track-idlefon-requiem-for-bobby-baccal
+      quote: Idlefon - Requiem For Bobby Baccalà | Various Artists | Noise à Noise
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/3hJWhA8BPQOt3C2M4b33ES
+    references:
+    - source: open.spotify.com-track-3hjwha8bpqot3c2m4b33es
+      quote: Requiem For Bobby Baccalà - song and lyrics by Idlefon | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/f9/6d/ba/f96dbacc-aaee-f941-6716-4af8818ad10c/5059580307622_cover.jpg/600x600bb.webp
+    references:
+    - source: music.apple.com-us-song-1530013259
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/f9/6d/ba/f96dbacc-aaee-f941-6716-4af8818ad10c/5059580307622_cover.jpg/600x600bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original publisher artwork
+        language: en
+  release date:
+  - value:
+      date: '2020-09-04'
+    references:
+    - source: music.apple.com-us-song-1530013259
+      quote: September 4, 2020
+      accessed: '2026-11-21'
+      locator: Published date

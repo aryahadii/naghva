@@ -1,0 +1,17 @@
+id: Qqzkgrj
+type: release
+statements:
+  name:
+  - value:
+      text: Raz o Niaz (Auditorio Blas Galindo)
+      language: en
+    references:
+    - &id001
+      source: videoteca.cenart.gob.mx-canal-23-255759-2
+      quote: 9 00.33:17.002 --> 00.41:01.026 Raz o Niaz
+      accessed: '2026-11-21'
+      locator: Canal 23 broadcast cue 9
+  performer:
+  - value: Qcabd29
+    references:
+    - *id001

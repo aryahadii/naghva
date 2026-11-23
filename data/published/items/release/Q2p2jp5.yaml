@@ -1,0 +1,41 @@
+id: Q2p2jp5
+type: release
+statements:
+  name:
+  - value:
+      text: AZADI
+      language: fr
+    references:
+    - source: www.shadi-fathi.com-galerie-videos
+      quote: AZADI
+      accessed: '2026-11-21'
+      locator: Artist video gallery title
+  performer:
+  - value: Qfxqgvv
+    references:
+    - source: www.shadi-fathi.com-galerie-videos
+      quote: AZADI
+      accessed: '2026-11-21'
+      locator: Artist video gallery title
+    - source: www.odoensemble.com-en-shadi-fathi
+      quote: Shadi Fathi
+      accessed: '2026-11-21'
+      locator: Artist heading
+  listen link:
+  - value: https://www.youtube.com/watch?v=Jz-vdmfSp_w
+    references:
+    - source: www.shadi-fathi.com-galerie-videos
+      quote: Jz-vdmfSp_w
+      accessed: '2026-11-21'
+      locator: Artist embeds this specific YouTube video
+  cover art:
+  - value: https://i.ytimg.com/vi/Jz-vdmfSp_w/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-jz-vdmfsp_w
+      quote: https://i.ytimg.com/vi/Jz-vdmfSp_w/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Official thumbnail returned by YouTube for this video
+    qualifiers:
+      credit:
+        text: Shadi Fathi · YouTube
+        language: en

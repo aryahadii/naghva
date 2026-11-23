@@ -1,0 +1,37 @@
+id: Qqtzavs
+type: release
+statements:
+  name:
+  - value:
+      text: Live at Paste Studio NYC
+      language: en
+    references:
+    - source: www.youtube.com-watch-v-osd8ypn2ufc
+      quote: The Muckers at Paste Studio NYC live from The Manhattan Center
+      accessed: '2026-11-21'
+      locator: Original concert title
+  performer:
+  - value: Qvfz6ey
+    references:
+    - source: www.youtube.com-watch-v-osd8ypn2ufc
+      quote: The Muckers at Paste Studio NYC live from The Manhattan Center
+      accessed: '2026-11-21'
+      locator: Original concert title
+  listen link:
+  - value: https://www.youtube.com/watch?v=osd8yPN2Ufc
+    references:
+    - source: www.youtube.com-watch-v-osd8ypn2ufc
+      quote: The Muckers at Paste Studio NYC live from The Manhattan Center
+      accessed: '2026-11-21'
+      locator: Original concert title
+  cover art:
+  - value: https://i.ytimg.com/vi/osd8yPN2Ufc/hqdefault.jpg
+    qualifiers:
+      credit:
+        text: Paste Magazine on YouTube
+        language: en
+    references:
+    - source: www.youtube.com-watch-v-osd8ypn2ufc
+      quote: https://i.ytimg.com/vi/osd8yPN2Ufc/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Provider image

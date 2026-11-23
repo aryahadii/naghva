@@ -1,0 +1,47 @@
+id: Qknqcnb
+type: release
+statements:
+  name:
+  - value:
+      text: Deviation
+      language: en
+    references:
+    - source: youtu.be-az5kgyieyhg
+      quote: Jamin - Deviation | OFFICIAL TRACK
+      accessed: 2026-11-21
+      locator: Jamin artist channel
+  listen link:
+  - value: https://youtu.be/aZ5kGYIEyHg
+    references:
+    - source: youtu.be-az5kgyieyhg
+      quote: Jamin - Deviation | OFFICIAL TRACK
+      accessed: 2026-11-21
+      locator: Jamin artist channel
+  - value: https://music.apple.com/us/song/deviation/1677091629
+    references:
+    - source: music.apple.com-us-album-deviation-single-1677091621
+      quote: Deviation
+      accessed: 2026-11-21
+      locator: Track title
+  performer:
+  - value: Qevmv7f
+    references:
+    - source: youtu.be-az5kgyieyhg
+      quote: Jamin - Deviation | OFFICIAL TRACK
+      accessed: 2026-11-21
+      locator: Jamin artist channel
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/24/7d/e1/247de11b-31c2-87ef-7d86-525377f30a7f/cover.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-deviation-single-1677091621
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/24/7d/e1/247de11b-31c2-87ef-7d86-525377f30a7f/cover.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Edition artwork
+  release date:
+  - value:
+      date: '2020-05-30'
+    references:
+    - source: music.apple.com-us-album-deviation-single-1677091621
+      quote: '2020-05-30'
+      accessed: 2026-11-21
+      locator: Digital release date

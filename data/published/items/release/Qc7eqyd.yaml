@@ -1,0 +1,32 @@
+id: Qc7eqyd
+type: release
+statements:
+  name:
+  - value:
+      text: Naghib Shanbezadeh - Solo Live in VOA Onten Emission
+      language: en
+    references:
+    - &id001
+      source: soundcloud.com-nag-1-1-naghib-shanbezadeh-solo-live
+      quote: Naghib Shanbezadeh - Solo Live in VOA Onten Emission
+      accessed: '2026-11-21'
+      locator: Artist’s SoundCloud recording
+  performer:
+  - value: Qvhrrm8
+    references:
+    - *id001
+  listen link:
+  - value: https://soundcloud.com/nag-1-1/naghib-shanbezadeh-solo-live
+    references:
+    - *id001
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-000067889742-l4n9s8-large.jpg
+    references:
+    - source: soundcloud.com-nag-1-1-naghib-shanbezadeh-solo-live
+      quote: https://i1.sndcdn.com/artworks-000067889742-l4n9s8-large.jpg
+      accessed: '2026-11-21'
+      locator: Artist file artwork
+    qualifiers:
+      credit:
+        text: Naghib Shanbehzadeh / SoundCloud
+        language: en

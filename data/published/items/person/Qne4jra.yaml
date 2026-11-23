@@ -1,0 +1,29 @@
+id: Qne4jra
+type: person
+statements:
+  name:
+  - value:
+      text: Aidin Arrehsazan
+      language: en
+    references:
+    - source: shahrzad-film-nguqwqd9orc
+      quote: Aidin Arrehsazan
+      locator: Original performer’s video description
+      accessed: '2026-11-21'
+  - value:
+      text: آیدین اره‌سازان
+      language: fa
+    references:
+    - source: shahrzad-film-mx3njoyrkv4
+      quote: آیدین اره‌سازان
+      locator: Original performer’s video description
+      accessed: '2026-11-21'
+  member of:
+  - value: Q4z6jy5
+    references:
+    - source: shahrzad-film-nguqwqd9orc
+      quote: Aidin Arrehsazan
+      locator: Original performer’s video description
+      accessed: '2026-11-21'
+    qualifiers:
+      role: tar

@@ -1,0 +1,27 @@
+id: Qjj3yw2
+type: release
+statements:
+  name:
+  - value:
+      text: NUM live @ Loophole, 2024
+      language: en
+    references:
+    - source: www.numduo.com-video-gallery
+      quote: NUM live @ Loophole, 2024
+      accessed: '2026-11-21'
+      locator: Recording title
+  performer:
+  - value: Qm4skc3
+    references:
+    - source: www.numduo.com-video-gallery
+      quote: Video Gallery | NUM
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2024'
+    references:
+    - source: www.numduo.com-video-gallery
+      quote: '2024'
+      accessed: '2026-11-21'
+      locator: Performance or exhibition date

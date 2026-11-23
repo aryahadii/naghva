@@ -1,0 +1,32 @@
+id: Qehz2qc
+type: release
+statements:
+  name:
+  - value:
+      text: Setar, Reng Navā | رنگ نوا از ردیف میرزاعبدالله
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-dzf_u14yrr0
+      quote: Setar, Reng Navā | رنگ نوا از ردیف میرزاعبدالله
+      accessed: '2026-11-21'
+      locator: Music credited by musician or performance publisher
+  performer:
+  - value: Qqb9bnx
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/dzF_u14Yrr0/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-dzf_u14yrr0
+      quote: https://i.ytimg.com/vi/dzF_u14Yrr0/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video frame
+    qualifiers:
+      credit:
+        text: Mehdi Moshtagh
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=dzF_u14Yrr0
+    references:
+    - *id001

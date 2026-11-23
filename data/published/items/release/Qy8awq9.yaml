@@ -1,0 +1,71 @@
+id: Qy8awq9
+type: release
+statements:
+  name:
+  - value:
+      text: Az Posht - E in Aajorha
+      language: en
+    references:
+    - source: music.apple.com-us-album-az-posht-e-in-ajorha-from-behind-these-bricks-single-1770510267
+      quote: Az Posht - E in Aajorha
+      accessed: '2026-11-21'
+      locator: Exact Apple track listing
+  - value:
+      text: از پشت این آجرها
+      language: fa
+    references:
+    - source: soundcloud.com-eendomusic-from-behind-these-bricks
+      quote: از پشت این آجرها
+      accessed: '2026-11-21'
+      locator: Artist’s Persian title
+  performer:
+  - value: Qnbrhrh
+    references:
+    - source: music.apple.com-us-album-az-posht-e-in-ajorha-from-behind-these-bricks-single-1770510267
+      quote: Eendo
+      accessed: '2026-11-21'
+      locator: Recording/featured artist
+  listen link:
+  - value: https://music.apple.com/us/song/az-posht-e-in-aajorha/1770510268
+    references:
+    - source: music.apple.com-us-album-az-posht-e-in-ajorha-from-behind-these-bricks-single-1770510267
+      quote: https://music.apple.com/us/song/az-posht-e-in-aajorha/1770510268
+      accessed: '2026-11-21'
+      locator: Apple track link
+  - value: https://open.spotify.com/track/5fK5hGBfK7xCU1E2e2MQdB
+    references:
+    - source: open.spotify.com-embed-album-5n1ax4pzk0n0keo4nxpgri
+      quote: spotify:track:5fK5hGBfK7xCU1E2e2MQdB
+      accessed: '2026-11-21'
+      locator: Spotify track URI
+  - value: https://soundcloud.com/eendomusic/from-behind-these-bricks
+    references:
+    - source: soundcloud.com-eendomusic-from-behind-these-bricks
+      quote: Stream From Behind These Bricks  |  از پشت این آجرها by Eendo | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Original duo SoundCloud recording
+  - value: https://www.youtube.com/watch?v=q8-_U_y9xAA
+    references:
+    - source: www.youtube.com-watch-v-q8-_u_y9xaa
+      quote: Eendo - From Behind These Bricks  | ایندو - از پشت این آجرها
+      accessed: '2026-11-21'
+      locator: Original duo channel
+  release date:
+  - value:
+      date: '2024-10-01'
+    references:
+    - source: music.apple.com-us-album-az-posht-e-in-ajorha-from-behind-these-bricks-single-1770510267
+      quote: '2024-10-01'
+      accessed: '2026-11-21'
+      locator: Digital release date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/36/99/06/369906f9-9349-2654-faa8-f0eec4b504e0/055855666192.png/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Digital release via Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-az-posht-e-in-ajorha-from-behind-these-bricks-single-1770510267
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/36/99/06/369906f9-9349-2654-faa8-f0eec4b504e0/055855666192.png/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Label artwork

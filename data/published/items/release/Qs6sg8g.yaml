@@ -1,0 +1,57 @@
+id: Qs6sg8g
+type: release
+statements:
+  name:
+  - value:
+      text: Night Begins
+      language: en
+    references:
+    - source: numduo.bandcamp.com-track-night-begins
+      quote: Night Begins
+      accessed: '2026-11-21'
+      locator: Recording title
+  performer:
+  - value: Qm4skc3
+    references:
+    - source: numduo.bandcamp.com-track-night-begins
+      quote: Night Begins | NUM
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://numduo.bandcamp.com/track/night-begins
+    references:
+    - source: numduo.bandcamp.com-track-night-begins
+      quote: Night Begins | NUM
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/night-begins/1861996756
+    references:
+    - source: music.apple.com-us-song-night-begins-1861996756
+      quote: ‎Night Begins - Song with Lyrics by NUM - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/2dCurZVfwYqwoz2Na2KTJB
+    references:
+    - source: open.spotify.com-track-2dcurzvfwyqwoz2na2ktjb
+      quote: Night Begins - song and lyrics by NUM | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2025-12-18'
+    references:
+    - source: numduo.bandcamp.com-album-seas-coming-for-me
+      quote: released December 18, 2025
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a0329851628_10.jpg
+    references:
+    - source: numduo.bandcamp.com-album-seas-coming-for-me
+      quote: https://f4.bcbits.com/img/a0329851628_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Bandcamp · NUM
+        language: en

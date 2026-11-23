@@ -1,0 +1,41 @@
+id: Q29snke
+type: release
+statements:
+  name:
+  - value:
+      text: Ba'de Ma
+      language: en
+    references:
+    - source: music.apple.com-us-album-bade-ma-single-1805231450
+      quote: Ba'de Ma
+      accessed: 2026-11-21
+      locator: Edition or recording title
+  performer:
+  - value: Qjeb9e9
+    references:
+    - source: music.apple.com-us-album-bade-ma-single-1805231450
+      quote: Shervin Hajipour
+      accessed: 2026-11-21
+      locator: Digital credits
+  listen link:
+  - value: https://music.apple.com/us/song/bade-ma/1805231451
+    references:
+    - source: music.apple.com-us-album-bade-ma-single-1805231450
+      quote: Ba'de Ma
+      accessed: 2026-11-21
+      locator: Edition or recording title
+  release date:
+  - value:
+      date: '2022-01-01'
+    references:
+    - source: music.apple.com-us-album-bade-ma-single-1805231450
+      quote: '2022-01-01'
+      accessed: 2026-11-21
+      locator: Digital edition date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/12/3f/6e/123f6e98-6d17-1b41-d593-d937c6c64bfb/4056813501803.png/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-bade-ma-single-1805231450
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/12/3f/6e/123f6e98-6d17-1b41-d593-d937c6c64bfb/4056813501803.png/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Digital edition artwork

@@ -1,0 +1,17 @@
+id: Q8qqyhr
+type: release
+statements:
+  name:
+  - value:
+      text: ضیافت صبح
+      language: fa
+    references:
+    - &id001
+      source: siamak-jahangiri-badraghe
+      quote: ضیافت صبح
+      accessed: '2026-11-21'
+      locator: Iranian physical issue tracklist
+  performer:
+  - value: Qnz4xnz
+    references:
+    - *id001

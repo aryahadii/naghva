@@ -1,0 +1,71 @@
+id: Qqdyc9j
+type: release
+statements:
+  name:
+  - value:
+      text: Horizon - Jably Remix
+      language: en
+    references:
+    - source: open.spotify.com-track-5qvqc0uffizpdredr9k1xf
+      quote: Horizon - Jably Remix - song and lyrics by Stereotype, Jably | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Q6g9xwf
+    references:
+    - source: open.spotify.com-track-5qvqc0uffizpdredr9k1xf
+      quote: Horizon - Jably Remix - song and lyrics by Stereotype, Jably | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qb5hnjh
+    references:
+    - source: 30m-records.com-stereotype
+      quote: Xeen, producing and playing the electronics
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: electronics
+  - value: Qh6s4f5
+    references:
+    - source: 30m-records.com-stereotype
+      quote: Meshcut, vocalist and synthesizer player
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Qb5msg2
+    references:
+    - source: open.spotify.com-track-5qvqc0uffizpdredr9k1xf
+      quote: Jably
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://open.spotify.com/track/5QVqC0ufFIZPDREDr9k1xf
+    references:
+    - source: open.spotify.com-track-5qvqc0uffizpdredr9k1xf
+      quote: Horizon - Jably Remix - song and lyrics by Stereotype, Jably | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1608051596
+    references:
+    - source: music.apple.com-us-song-1608051596
+      quote: ‎Horizon (Jably Remix) - Song with Lyrics by Stereotype - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d0000b2739ccbfa882e5aacd59c4bdf9e
+    references:
+    - source: open.spotify.com-track-5qvqc0uffizpdredr9k1xf
+      quote: https://i.scdn.co/image/ab67616d0000b2739ccbfa882e5aacd59c4bdf9e
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Publisher artwork
+        language: en
+  release date:
+  - value:
+      date: '2022-02-21'
+    references:
+    - source: music.apple.com-us-song-1608051596
+      quote: February 21, 2022
+      accessed: '2026-11-21'
+      locator: Published date

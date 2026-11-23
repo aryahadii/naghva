@@ -1,0 +1,37 @@
+id: Qd4m33y
+type: release
+statements:
+  name:
+  - value:
+      text: Naima Persian Jazz Band
+      language: en
+    references:
+    - source: www.youtube.com-watch-v-7fmo5vpzfn0
+      quote: Naima Persian Jazz Band
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qy69pg7
+    references:
+    - source: www.youtube.com-watch-v-7fmo5vpzfn0
+      quote: Naima Persian Jazz Band
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://www.youtube.com/watch?v=7fMo5VpzFN0
+    references:
+    - source: www.youtube.com-watch-v-7fmo5vpzfn0
+      quote: Naima Persian Jazz Band
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i.ytimg.com/vi/7fMo5VpzFN0/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-7fmo5vpzfn0
+      quote: https://i.ytimg.com/vi/7fMo5VpzFN0/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: Kaveh Sarvarian
+        language: en

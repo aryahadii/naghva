@@ -1,0 +1,58 @@
+id: Q8mttws
+type: release
+statements:
+  name:
+  - value:
+      text: trans.placed
+      language: en
+    references:
+    - source: flamingpines.bandcamp.com-album-trans-placed
+      quote: trans.placed
+      accessed: '2026-11-21'
+      locator: Recording title
+  performer:
+  - value: Q6zbcxw
+    references:
+    - source: flamingpines.bandcamp.com-album-trans-placed
+      quote: trans.placed | Hadi Bastani and Maryam Sirvan | Flaming Pines
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qyt2364
+    references:
+    - source: flamingpines.bandcamp.com-album-trans-placed
+      quote: By Hadi Bastani and Maryam Sirvan.
+      accessed: '2026-11-21'
+      locator: Release credits
+  listen link:
+  - value: https://flamingpines.bandcamp.com/album/trans-placed
+    references:
+    - source: flamingpines.bandcamp.com-album-trans-placed
+      quote: trans.placed | Hadi Bastani and Maryam Sirvan | Flaming Pines
+      accessed: '2026-11-21'
+      locator: Page title
+  release type:
+  - value: album
+    references:
+    - source: flamingpines.bandcamp.com-album-trans-placed
+      quote: trans.placed | Hadi Bastani and Maryam Sirvan | Flaming Pines
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2022-07-22'
+    references:
+    - source: flamingpines.bandcamp.com-album-trans-placed
+      quote: released July 22, 2022
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a3591464198_10.jpg
+    references:
+    - source: flamingpines.bandcamp.com-album-trans-placed
+      quote: https://f4.bcbits.com/img/a3591464198_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Bandcamp release artwork
+        language: en

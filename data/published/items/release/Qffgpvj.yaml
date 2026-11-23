@@ -1,0 +1,59 @@
+id: Qffgpvj
+type: release
+statements:
+  name:
+  - value:
+      text: Badjens
+      language: en
+    references:
+    - &id001
+      source: music.apple.com-us-album-badjens-ep-1888643548
+      quote: Badjens - EP
+      accessed: '2026-11-21'
+      locator: Digital issue
+  performer:
+  - value: Qpav8br
+    references:
+    - source: music.apple.com-us-album-badjens-ep-1888643548
+      quote: Hura Mirshekari
+      accessed: '2026-11-21'
+      locator: Credited artist
+  - value: Qgewjqm
+    references:
+    - source: music.apple.com-us-album-badjens-ep-1888643548
+      quote: N9nE.L9veS
+      accessed: '2026-11-21'
+      locator: Original release artist
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/15/e5/b3/15e5b38f-4558-55d3-32c9-3f911ec6cde7/artwork.jpg/1200x630wp-60.jpg
+    references:
+    - source: music.apple.com-us-album-badjens-ep-1888643548
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/15/e5/b3/15e5b38f-4558-55d3-32c9-3f911ec6cde7/artwork.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Original edition artwork
+    qualifiers:
+      credit:
+        text: Apple Music, original distributor artwork
+        language: en
+  release date:
+  - value:
+      date: '2026-04-24'
+    references:
+    - source: music.apple.com-us-album-badjens-ep-1888643548
+      quote: '2026-04-24'
+      accessed: '2026-11-21'
+      locator: Digital issue date
+  release type:
+  - value: ep
+    references:
+    - *id001
+  listen link:
+  - value: https://music.apple.com/us/album/badjens-ep/1888643548
+    references:
+    - *id001
+  - value: https://open.spotify.com/album/7zR3FZoJ1DKLqG2fZMKs0v
+    references:
+    - source: open.spotify.com-embed-album-7zr3fzoj1dklqg2fzmks0v
+      quote: Badjens
+      accessed: '2026-11-21'
+      locator: Matching Spotify EP

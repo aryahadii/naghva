@@ -1,0 +1,65 @@
+id: Qgsd8r2
+type: release
+statements:
+  name:
+  - value:
+      text: The city of jasmine
+      language: en
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-the-city-of-jasmine
+      quote: The city of jasmine | Kaveh Sarvarian, Hames Bitar | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qy69pg7
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-the-city-of-jasmine
+      quote: The city of jasmine | Kaveh Sarvarian, Hames Bitar | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qtj7y5p
+    references:
+    - source: kavehsarvarian.bandcamp.com-album-when-the-sun-rises
+      quote: 'Hames Bitar: Oud'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: oud
+  listen link:
+  - value: https://kavehsarvarian.bandcamp.com/track/the-city-of-jasmine
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-the-city-of-jasmine
+      quote: The city of jasmine | Kaveh Sarvarian, Hames Bitar | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1680672447
+    references:
+    - source: music.apple.com-us-song-1680672447
+      quote: ‎The City of Jasmine - Song with Lyrics by Kaveh Sarvarian & Hames Bitar - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/347cWkuVfXntHSxSgmUQC8
+    references:
+    - source: open.spotify.com-track-347cwkuvfxnthsxsgmuqc8
+      quote: The City of Jasmine - song and lyrics by Kaveh Sarvarian, Hames Bitar | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a0037080698_10.jpg
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-the-city-of-jasmine
+      quote: https://f4.bcbits.com/img/a0037080698_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Kaveh Sarvarian on Bandcamp
+        language: en
+  release date:
+  - value:
+      date: '2023-03-28'
+    references:
+    - source: kavehsarvarian.bandcamp.com-album-when-the-sun-rises
+      quote: released March 28, 2023
+      accessed: '2026-11-21'
+      locator: Published date

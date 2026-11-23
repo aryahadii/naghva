@@ -1,0 +1,45 @@
+id: Qgb2qsy
+type: release
+statements:
+  name:
+  - value:
+      text: A Labyrinth Of Circles
+      language: en
+    references:
+    - source: soundcloud.com-nummusic-a-labyrinth-of-circles
+      quote: A Labyrinth Of Circles
+      accessed: '2026-11-21'
+      locator: Recording title
+  performer:
+  - value: Qm4skc3
+    references:
+    - source: soundcloud.com-nummusic-a-labyrinth-of-circles
+      quote: Stream A Labyrinth Of Circles by NUM | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://soundcloud.com/nummusic/a-labyrinth-of-circles
+    references:
+    - source: soundcloud.com-nummusic-a-labyrinth-of-circles
+      quote: Stream A Labyrinth Of Circles by NUM | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2015-05-29'
+    references:
+    - source: soundcloud.com-nummusic-a-labyrinth-of-circles
+      quote: '2015-05-29T15:04:13Z'
+      accessed: '2026-11-21'
+      locator: SoundCloud release or upload date
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-000118477954-m0gwo6-t500x500.jpg
+    references:
+    - source: soundcloud.com-nummusic-a-labyrinth-of-circles
+      quote: https://i1.sndcdn.com/artworks-000118477954-m0gwo6-t500x500.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: NUM on SoundCloud
+        language: en

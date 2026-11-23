@@ -1,0 +1,11 @@
+# Trickster Orchestra
+
+The orchestra issued concert and project films on its own channel, including its Jazzfest Berlin and Ramadan programmes. Singer and composer Cymin Samawatie, born to Iranian parents in Germany, cofounded the ensemble with Ketan Bhatti and Philip Geisler in 2013. The Jazzfest film identifies its earlier performing name, Divan der Kontinente. Its thumbnail shows the singers and musicians on stage.
+
+The catalogue includes the ECM edition and its studio tracks with Apple Music and Spotify links, the orchestral performance films, and seven original audio recordings from the orchestra’s own media archive. Dates in that archive identify the concert, recording or broadcast year. Performance and studio versions are retained when their sessions differ. The presenter’s and the orchestra’s copies of the 2020 Outernational film share a panel. The arranger, interview and trailer material is distinguished from recorded works. In Bonn the Campus Project Orchestra included members from four ensembles. Its twelve musical programme segments carry the festival ensemble billing.
+
+[Ensemble history](https://tricksterorchestra.de/orchestra/) · [Original recordings](https://tricksterorchestra.de/media/) · [Neuköllner Oper](https://www.neukoellneroper.de/en/artist/trickster-orchestra/) · [Concert film with Komische Oper Berlin](https://tricksterorchestra.de/en/projects/vom-bleiben-en/)
+
+Pantopia’s album *Unsettling Sounds* interleaves four live pieces with discussion. The catalogue includes the album and each named performance. WDR’s rebroadcast on 27 April 2026 identifies three movements from *Mimesis*, *FISTON Selbstbildnis*, *Revamp*, *Nomads*, *Dance for Nerds* and *Power of Flowers*. WDR also played four already catalogued works. The rebroadcast date does not establish that any recording premiered in 2026. Cyminology's 2013 *Divan der Kontinente Trailer* identifies the earlier name and 7 August 2013 concert at Heimathafen Neukölln.
+
+[Pantopia album and timings](https://pantopia-music.org/album/unsettling-sounds/) · [WDR broadcast and playlist](https://www1.wdr.de/mediathek/audio/wdr3/open/world/audio-radikale-vielfalt-trickster-orchestra-100.html) · [2013 trailer and personnel](https://youtu.be/kplpv838XtI)

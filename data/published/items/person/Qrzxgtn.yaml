@@ -1,0 +1,19 @@
+id: Qrzxgtn
+type: person
+statements:
+  name:
+  - value:
+      text: هما تهرانی
+      language: fa
+    references:
+    - &id001
+      source: shahrzad-ensemble-iran
+      quote: هما تهرانی خواننده، نازنین پدرثانی نوازنده تنبک و نازنین غنی‌زاده با نوازندگی کمانچه
+      accessed: '2026-11-21'
+      locator: Performer or presenter archive
+  member of:
+  - value: Q4z6jy5
+    references:
+    - *id001
+    qualifiers:
+      role: vocals

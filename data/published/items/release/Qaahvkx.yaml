@@ -1,0 +1,59 @@
+id: Qaahvkx
+type: release
+statements:
+  name:
+  - value:
+      text: Slow Eaters (ft Quelque Bourdon)
+      language: en
+    references:
+    - source: cinnapey.bandcamp.com-track-slow-eaters-ft-quelque-bourdon
+      quote: Slow Eaters (ft Quelque Bourdon)
+      accessed: '2026-11-21'
+      locator: Recording title or artist credit
+  performer:
+  - value: Q4q92dh
+    references:
+    - source: cinnapey.bandcamp.com-track-slow-eaters-ft-quelque-bourdon
+      quote: Slow Eaters (ft Quelque Bourdon) | Cinna Peyghamy
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qsvv9c5
+    references:
+    - source: cinnapey.bandcamp.com-album-music-for-tombak-synth
+      quote: Clarinet and co-writing on B4 by Quelque Bourdon
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: clarinet
+  listen link:
+  - value: https://cinnapey.bandcamp.com/track/slow-eaters-ft-quelque-bourdon
+    references:
+    - source: cinnapey.bandcamp.com-track-slow-eaters-ft-quelque-bourdon
+      quote: Slow Eaters (ft Quelque Bourdon) | Cinna Peyghamy
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/slow-eaters-feat-quelque-bourdon/1884372784
+    references:
+    - source: music.apple.com-us-song-slow-eaters-feat-quelque-bourdon-1884372784
+      quote: ‎Slow Eaters (feat. Quelque Bourdon) - Song with Lyrics by Cinna Peyghamy - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a2848951206_10.jpg
+    references:
+    - source: cinnapey.bandcamp.com-track-slow-eaters-ft-quelque-bourdon
+      quote: https://f4.bcbits.com/img/a2848951206_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Cinna Peyghamy on Bandcamp
+        language: en
+  release date:
+  - value:
+      date: '2026-06-05'
+    references:
+    - source: cinnapey.bandcamp.com-album-music-for-tombak-synth
+      quote: released June 5, 2026
+      accessed: '2026-11-21'
+      locator: Published date

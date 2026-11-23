@@ -1,0 +1,32 @@
+id: Qw6f8yr
+type: release
+statements:
+  name:
+  - value:
+      text: Naghib Shanbehzadeh - Solo inTheatre Odeon Vienna
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-bcsxmecosy4
+      quote: Naghib Shanbehzadeh - Solo inTheatre Odeon Vienna
+      accessed: '2026-11-21'
+      locator: Artist-published performance film
+  performer:
+  - value: Qvhrrm8
+    references:
+    - *id001
+  listen link:
+  - value: https://www.youtube.com/watch?v=BcSxmEcosy4
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/BcSxmEcosy4/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-bcsxmecosy4
+      quote: https://i.ytimg.com/vi/BcSxmEcosy4/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original film frame
+    qualifiers:
+      credit:
+        text: naghib shanbehzadeh
+        language: en

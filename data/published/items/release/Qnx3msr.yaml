@@ -1,0 +1,53 @@
+id: Qnx3msr
+type: release
+statements:
+  name:
+  - value:
+      text: Santur & Flamenco guitar
+      language: en
+    references:
+    - source: www.youtube.com-oembed-kehnw6daxxo
+      quote: Santur & Flamenco guitar
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2026-07-24'
+    references:
+    - source: www.youtube.com-watchv-kehnw6daxxo
+      quote: '2026-07-24'
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://i.ytimg.com/vi/KeHNw6dAxxo/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-kehnw6daxxo
+      quote: https://i.ytimg.com/vi/KeHNw6dAxxo/hqdefault.jpg
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Soheil Hosnavi · original performance
+        language: en
+  performer:
+  - value: Q76q9jz
+    references:
+    - source: www.youtube.com-oembed-kehnw6daxxo
+      quote: Soheil Hosnavi
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: santur
+  listen link:
+  - value: https://www.youtube.com/watch?v=KeHNw6dAxxo
+    references:
+    - source: www.youtube.com-oembed-kehnw6daxxo
+      quote: Santur & Flamenco guitar
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  - value: https://t.me/soheilhosnavi/1148
+    references:
+    - source: t.me-soheilhosnavi-1148
+      quote: A virtual duet with my artist friend
+      locator: Artist channel, original post 1148
+      accessed: '2026-11-21'

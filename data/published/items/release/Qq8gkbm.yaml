@@ -1,0 +1,57 @@
+id: Qq8gkbm
+type: release
+statements:
+  name:
+  - value:
+      text: Farewell, Warden.
+      language: en
+    references:
+    - source: soundcloud.com-sara-bigdeli-shamloo-farewell-warden
+      quote: Stream Farewell, Warden. by SarrSew | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qz5swxp
+    references:
+    - source: soundcloud.com-sara-bigdeli-shamloo-farewell-warden
+      quote: Stream Farewell, Warden. by SarrSew | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://soundcloud.com/sara-bigdeli-shamloo/farewell-warden
+    references:
+    - source: soundcloud.com-sara-bigdeli-shamloo-farewell-warden
+      quote: Stream Farewell, Warden. by SarrSew | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1462328793
+    references:
+    - source: music.apple.com-us-song-1462328793
+      quote: ‎Farewell, Warden. - Song with Lyrics by SarrSew - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://zabtesote.bandcamp.com/track/farewell-warden
+    references:
+    - source: zabtesote.bandcamp.com-track-farewell-warden
+      quote: Farewell, Warden. | SarrSew | Zabte Sote
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-000523465005-xli4he-t500x500.jpg
+    references:
+    - source: soundcloud.com-sara-bigdeli-shamloo-farewell-warden
+      quote: https://i1.sndcdn.com/artworks-000523465005-xli4he-t500x500.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: SarrSew on SoundCloud
+        language: en
+  release date:
+  - value:
+      date: '2019-04-20'
+    references:
+    - source: soundcloud.com-sara-bigdeli-shamloo-farewell-warden
+      quote: '2019-04-20T17:44:44Z'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits

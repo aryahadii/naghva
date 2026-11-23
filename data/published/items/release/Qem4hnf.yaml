@@ -1,0 +1,69 @@
+id: Qem4hnf
+type: release
+statements:
+  name:
+  - value:
+      text: Sevirem (feat. Javid Afsari Rad)
+      language: en
+    references:
+    - source: music.apple.com-us-album-azeri-baby-ep-1649747803
+      quote: Sevirem (feat. Javid Afsari Rad)
+      locator: Track 1
+      accessed: '2026-11-21'
+  performer:
+  - value: Qz9hcyk
+    references:
+    - source: itunes.apple.com-lookupid-257020069-entity-song-limit-200
+      quote: Sevirem (feat. Javid Afsari Rad)
+      accessed: '2026-11-21'
+      locator: Track-level credit
+  - value: Qxmhx58
+    references:
+    - source: itunes.apple.com-lookupid-257020069-entity-song-limit-200
+      quote: Marie Sahba
+      accessed: '2026-11-21'
+      locator: Track-level credit
+  release date:
+  - value:
+      date: '2022-10-25'
+    references:
+    - source: music.apple.com-us-album-azeri-baby-ep-1649747803
+      quote: '2022-10-25'
+      locator: Edition date
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/86/14/7a/86147a24-815f-80cb-2ebb-37731eb9893f/107653.jpg/632x632bb-60.jpg
+    references:
+    - source: music.apple.com-us-album-azeri-baby-ep-1649747803
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/86/14/7a/86147a24-815f-80cb-2ebb-37731eb9893f/107653.jpg/632x632bb-60.jpg
+      locator: Apple Music release artwork
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Azeri Baby · Apple Music
+        language: en
+  listen link:
+  - value: https://music.apple.com/us/song/sevirem-feat-javid-afsari-rad/1649747804
+    references:
+    - source: music.apple.com-us-album-azeri-baby-ep-1649747803
+      quote: Sevirem (feat. Javid Afsari Rad)
+      locator: Track 1
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/0RdAKTLmTVNhSxxymM4Zu3
+    references:
+    - source: open.spotify.com-album-1x2hgfmfbl1lnlhsagceka
+      quote: Sevirem
+      accessed: '2026-11-21'
+      locator: Track 1
+  - value: https://mariesahba.bandcamp.com/track/sevirem
+    references:
+    - source: mariesahba.bandcamp.com-album-azeri-baby
+      quote: Sevirem
+      locator: Bandcamp track
+      accessed: '2026-11-21'
+  - value: https://soundcloud.com/mariesahba/sevirem
+    references:
+    - source: soundcloud.com-mariesahba-sevirem
+      quote: Sevirem (feat. Javid Afsari Rad)
+      locator: Original SoundCloud upload
+      accessed: '2026-11-21'

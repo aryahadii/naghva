@@ -1,0 +1,76 @@
+id: Qb4q8cj
+type: release
+statements:
+  name:
+  - value:
+      text: My Enemy, My Love
+      language: en
+    references:
+    - source: mentrix.bandcamp.com-track-my-enemy-my-love
+      quote: My Enemy, My Love
+      accessed: '2026-11-21'
+      locator: Recording heading
+  performer:
+  - value: Qynmr3m
+    references:
+    - source: mentrix.bandcamp.com-track-my-enemy-my-love
+      quote: My Enemy, My Love | Mentrix
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://mentrix.bandcamp.com/track/my-enemy-my-love
+    references:
+    - source: mentrix.bandcamp.com-track-my-enemy-my-love
+      quote: My Enemy, My Love | Mentrix
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/my-enemy-my-love/1572275445
+    references:
+    - source: music.apple.com-us-song-my-enemy-my-love-1572275445
+      quote: ‎My Enemy, My Love - Song with Lyrics by Mentrix - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/51UZ349ci8CtWsE43uAZ9J
+    references:
+    - source: open.spotify.com-track-51uz349ci8ctwse43uaz9j
+      quote: My Enemy, My Love - song and lyrics by Mentrix | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/mentrixsound/06-my-enemy-my-love
+    references:
+    - source: soundcloud.com-mentrixsound-06-my-enemy-my-love
+      quote: Stream 06 _My Enemy My Love_ by M E N T R I X | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/mentrixsound/mentrix-my-enemy-my-love
+    references:
+    - source: soundcloud.com-mentrixsound-mentrix-my-enemy-my-love
+      quote: Stream My Enemy, My Love by M E N T R I X | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  published by:
+  - value: Qmz3gff
+    references:
+    - source: mentrix.bandcamp.com-track-my-enemy-my-love
+      quote: House Of Strength Records
+      accessed: '2026-11-21'
+      locator: Artist label header
+  release date:
+  - value:
+      date: '2020-04-03'
+    references:
+    - source: mentrix.bandcamp.com-track-my-enemy-my-love
+      quote: released April 3, 2020
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a0360057345_10.jpg
+    references:
+    - source: mentrix.bandcamp.com-track-my-enemy-my-love
+      quote: https://f4.bcbits.com/img/a0360057345_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Mentrix on Bandcamp
+        language: en

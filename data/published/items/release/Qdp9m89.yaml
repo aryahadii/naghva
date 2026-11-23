@@ -20,12 +20,10 @@ statements:
   - value: album
     references:
     - source: music.apple.com-us-album-ezzat-ziad-1122245806-4102a3c27a03
-      quote: |-
-        Ezzat Ziad - Album by Ali Azimi - Apple Music
+      quote: Ezzat Ziad - Album by Ali Azimi - Apple Music
       accessed: '2026-10-19'
     - source: open.spotify.com-album-49ptsld3im9clyinrjihgd-d537380adef1
-      quote: |-
-        Listen to Ezzat Ziad - Album by Ali Azimi | Spotify
+      quote: Listen to Ezzat Ziad - Album by Ali Azimi | Spotify
       accessed: '2026-10-22'
   performer:
   - value: Qde2bbb
@@ -33,6 +31,12 @@ statements:
     - source: music.apple.com-us-album-ezzat-ziad-1122245806-4102a3c27a03
       quote: Ezzat Ziad - Album by Ali Azimi - Apple Music
       accessed: '2026-10-19'
+  - value: Qstq3nj
+    references:
+    - source: music.apple.com-us-album-ezzat-ziad-1122245806-4102a3c27a03
+      quote: Shaparak (feat. Ajam)
+      locator: Original album, sound recording or musician account
+      accessed: '2026-11-21'
   listen link:
   - value: https://music.apple.com/us/album/ezzat-ziad/1122245806
     references:

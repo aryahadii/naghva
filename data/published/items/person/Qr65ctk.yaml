@@ -1,0 +1,21 @@
+id: Qr65ctk
+type: person
+statements:
+  name:
+  - value:
+      text: Adem Yilmaz
+      language: en
+    references:
+    - source: www.eishanensemble.com-about
+      quote: Michael Avgenicos on saxophone, Adem Yilmaz on percussion, and Maximillian Alduca on double bass
+      accessed: '2026-11-21'
+      locator: Artist biography
+  member of:
+  - value: Qhebfsp
+    qualifiers:
+      role: percussion
+    references:
+    - source: www.eishanensemble.com-about
+      quote: Michael Avgenicos on saxophone, Adem Yilmaz on percussion, and Maximillian Alduca on double bass
+      accessed: '2026-11-21'
+      locator: Artist biography

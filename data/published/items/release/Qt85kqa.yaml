@@ -1,0 +1,57 @@
+id: Qt85kqa
+type: release
+statements:
+  name:
+  - value:
+      text: Main Theme
+      language: en
+    references:
+    - source: music.apple.com-us-song-main-theme-1770542079
+      quote: Main Theme
+      accessed: '2026-11-21'
+      locator: Recording heading
+  performer:
+  - value: Qynmr3m
+    references:
+    - source: music.apple.com-us-song-main-theme-1770542079
+      quote: ‎Main Theme - Song with Lyrics by Gareth Coker & Mentrix - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qczd822
+    references:
+    - source: music.apple.com-us-song-main-theme-1770542079
+      quote: ‎Main Theme - Song with Lyrics by Gareth Coker & Mentrix - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://music.apple.com/us/song/main-theme/1770542079
+    references:
+    - source: music.apple.com-us-song-main-theme-1770542079
+      quote: ‎Main Theme - Song with Lyrics by Gareth Coker & Mentrix - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/3n39EZKcozpuGqinBbrmGF
+    references:
+    - source: open.spotify.com-track-3n39ezkcozpugqinbbrmgf
+      quote: Main Theme - song and lyrics by Gareth Coker, Mentrix | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2024-01-12'
+    references:
+    - source: music.apple.com-us-song-main-theme-1770542079
+      quote: January 12, 2024
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b4/f7/ad/b4f7ad95-05d7-95b2-c6de-2c3fa958d24a/3663729337030_cover.jpg/600x600bb.webp
+    references:
+    - source: music.apple.com-us-song-main-theme-1770542079
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b4/f7/ad/b4f7ad95-05d7-95b2-c6de-2c3fa958d24a/3663729337030_cover.jpg/600x600bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en

@@ -1,0 +1,32 @@
+id: Qsk3hcr
+type: release
+statements:
+  name:
+  - value:
+      text: Naghib Shanbehzadeh - My Lovely
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-7f86oyrzjfk
+      quote: Naghib Shanbehzadeh - My Lovely
+      accessed: '2026-11-21'
+      locator: Artist-published performance film
+  performer:
+  - value: Qvhrrm8
+    references:
+    - *id001
+  listen link:
+  - value: https://www.youtube.com/watch?v=7f86OYrZjfk
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/7f86OYrZjfk/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-7f86oyrzjfk
+      quote: https://i.ytimg.com/vi/7f86OYrZjfk/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original film frame
+    qualifiers:
+      credit:
+        text: naghib shanbehzadeh
+        language: en

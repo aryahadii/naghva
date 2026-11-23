@@ -1,0 +1,78 @@
+id: Q7t8bj5
+type: release
+statements:
+  name:
+  - value:
+      text: Body Count
+      language: en
+    references:
+    - source: music.apple.com-us-album-body-count-single-6802303909
+      quote: Body Count
+      accessed: 2026-11-21
+      locator: Edition or recording title
+  performer:
+  - value: Qgxh3d9
+    references:
+    - source: music.apple.com-us-album-body-count-single-6802303909
+      quote: Faravaz
+      accessed: 2026-11-21
+      locator: Digital credits
+  listen link:
+  - value: https://music.apple.com/us/song/body-count/6802303932
+    references:
+    - source: music.apple.com-us-album-body-count-single-6802303909
+      quote: Body Count
+      accessed: 2026-11-21
+      locator: Edition or recording title
+  - value: https://music.apple.com/us/song/body-count/6812657667
+    references:
+    - source: music.apple.com-us-album-saffron-single-6812657659
+      quote: Body Count
+      accessed: 2026-11-21
+      locator: Edition or recording title
+  - value: https://faravaz.bandcamp.com/track/body-count
+    references:
+    - source: faravaz.bandcamp.com-album-saffron-ep
+      quote: Body Count
+      accessed: 2026-11-21
+      locator: Artist’s Bandcamp catalogue
+  - value: https://open.spotify.com/track/05HoSv6TNfxLDFBpoHmVzx
+    references:
+    - source: open.spotify.com-album-01tdc8bp82x7oftruac9x5
+      quote: Body Count
+      accessed: 2026-11-21
+      locator: Published recording
+  - value: https://open.spotify.com/track/6NKka1cc9ytlA3t6nsfUM5
+    references:
+    - source: open.spotify.com-album-1ur20o6yzqoo2te4id0zq0
+      quote: Body Count
+      accessed: 2026-11-21
+      locator: Published recording
+  release date:
+  - value:
+      date: '2026-08-28'
+    references:
+    - source: music.apple.com-us-album-body-count-single-6802303909
+      quote: '2026-08-28'
+      accessed: 2026-11-21
+      locator: Digital edition date
+  - value:
+      date: '2026-09-18'
+    references:
+    - source: music.apple.com-us-album-saffron-single-6812657659
+      quote: '2026-09-18'
+      accessed: 2026-11-21
+      locator: Digital edition date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/79/e4/7e/79e47e92-4f55-ea61-c6e8-ffc39469c02a/885288318463.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-body-count-single-6802303909
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/79/e4/7e/79e47e92-4f55-ea61-c6e8-ffc39469c02a/885288318463.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Digital edition artwork
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/06/75/7e/06757e18-3500-84ec-8be6-164919749d34/885288593518.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-saffron-single-6812657659
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/06/75/7e/06757e18-3500-84ec-8be6-164919749d34/885288593518.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Digital edition artwork

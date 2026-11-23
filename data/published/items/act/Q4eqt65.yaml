@@ -1,0 +1,31 @@
+id: Q4eqt65
+type: act
+statements:
+  name:
+  - value:
+      text: یادها تریو
+      language: fa
+    references:
+    - source: purson.ir-fa-content-560201
+      quote: یادها تریو
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  - value:
+      text: Yadha Trio
+      language: en
+    references:
+    - source: t.me-s-soheilhosnavibefore-891
+      quote: Yadha-Trio-Paeiz-Video
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  image:
+  - value: https://i.ytimg.com/vi/1KVganhDqEE/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-1kvganhdqee
+      quote: https://i.ytimg.com/vi/1KVganhDqEE/hqdefault.jpg
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Soheil Hosnavi · Yadha in concert
+        language: en

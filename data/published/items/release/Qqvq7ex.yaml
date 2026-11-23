@@ -1,0 +1,51 @@
+id: Qqvq7ex
+type: release
+statements:
+  name:
+  - value:
+      text: Mask of Darkness
+      language: en
+    references:
+    - source: music.apple.com-us-song-mask-of-darkness-1770096589
+      quote: Mask of Darkness
+      accessed: '2026-11-21'
+      locator: Recording heading
+  performer:
+  - value: Qynmr3m
+    references:
+    - source: music.apple.com-us-song-mask-of-darkness-1770096589
+      quote: ‎Mask of Darkness - Song with Lyrics by Mentrix - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://music.apple.com/us/song/mask-of-darkness/1770096589
+    references:
+    - source: music.apple.com-us-song-mask-of-darkness-1770096589
+      quote: ‎Mask of Darkness - Song with Lyrics by Mentrix - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/3wae5AHfu7ZuvtDtuDGmrs
+    references:
+    - source: open.spotify.com-track-3wae5ahfu7zuvtdtudgmrs
+      quote: Mask of Darkness - song and lyrics by Mentrix | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2024-09-20'
+    references:
+    - source: music.apple.com-us-song-mask-of-darkness-1770096589
+      quote: September 20, 2024
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7d/11/6c/7d116c21-34bd-644e-5db1-fc12156c4687/3663729336804_cover.jpg/600x600bb.webp
+    references:
+    - source: music.apple.com-us-song-mask-of-darkness-1770096589
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7d/11/6c/7d116c21-34bd-644e-5db1-fc12156c4687/3663729336804_cover.jpg/600x600bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en

@@ -1,0 +1,32 @@
+id: Qge8qn2
+type: release
+statements:
+  name:
+  - value:
+      text: Naghib Shanbehzadeh - Solo Bandari
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-90hremfgnzo
+      quote: Naghib Shanbehzadeh - Solo Bandari
+      accessed: '2026-11-21'
+      locator: Artist-published performance film
+  performer:
+  - value: Qvhrrm8
+    references:
+    - *id001
+  listen link:
+  - value: https://www.youtube.com/watch?v=90hReMFgNZo
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/90hReMFgNZo/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-90hremfgnzo
+      quote: https://i.ytimg.com/vi/90hReMFgNZo/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original film frame
+    qualifiers:
+      credit:
+        text: naghib shanbehzadeh
+        language: en

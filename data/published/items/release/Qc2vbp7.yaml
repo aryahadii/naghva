@@ -1,0 +1,17 @@
+id: Qc2vbp7
+type: release
+statements:
+  name:
+  - value:
+      text: نی تنها
+      language: fa
+    references:
+    - &id001
+      source: siamak-jahangiri-badraghe
+      quote: نی تنها
+      accessed: '2026-11-21'
+      locator: Iranian physical issue tracklist
+  performer:
+  - value: Qnz4xnz
+    references:
+    - *id001

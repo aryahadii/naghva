@@ -1,0 +1,36 @@
+id: Qqkpfb8
+type: act
+statements:
+  name:
+  - value:
+      text: Golbang
+      language: en
+    references:
+    - source: www.golbang.se-gallery
+      quote: Golbang
+      accessed: 2026-11-21
+      locator: Artist or ensemble billing
+  image:
+  - value: https://impro.usercontent.one/appid/oneComWsb/domain/golbang.se/media/golbang.se/onewebmedia/_FDS9950.jpg?etag=%224c7300-62a86cef%22&sourceContentType=image%2Fjpeg&ignoreAspectRatio&resize=2500,1667&quality=85
+    qualifiers:
+      credit:
+        text: Golbang, official concert gallery
+        language: en
+    references:
+    - source: www.golbang.se-gallery
+      quote: https://impro.usercontent.one/appid/oneComWsb/domain/golbang.se/media/golbang.se/onewebmedia/_FDS9950.jpg?etag=%224c7300-62a86cef%22&sourceContentType=image%2Fjpeg&ignoreAspectRatio&resize=2500,1667&quality=85
+      accessed: 2026-11-21
+      locator: Original credited artist photograph
+  profile link:
+  - value: https://open.spotify.com/artist/4jOOb5vEra2mH3FJYaIBZL
+    references:
+    - source: open.spotify.com-artist-4joob5vera2mh3fjyaibzl
+      quote: Listen to Golbang Songs | Spotify
+      accessed: 2026-11-21
+      locator: Verified catalog identity
+  - value: https://music.apple.com/us/artist/golbang/392628282
+    references:
+    - source: music.apple.com-us-artist-golbang-392628282
+      quote: ‎Golbang - Apple Music
+      accessed: 2026-11-21
+      locator: Verified catalog identity

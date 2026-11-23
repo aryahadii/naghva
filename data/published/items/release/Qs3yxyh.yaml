@@ -1,0 +1,58 @@
+id: Qs3yxyh
+type: release
+statements:
+  name:
+  - value:
+      text: Land of Fire
+      language: en
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-land-of-fire
+      quote: Land of Fire | Hamzeh Yeganeh | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qy69pg7
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-land-of-fire
+      quote: Land of Fire | Hamzeh Yeganeh | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Q8rjkbs
+    references:
+    - source: kavehsarvarian.bandcamp.com-album-avareh
+      quote: By Naima Persian Jazz Band
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://kavehsarvarian.bandcamp.com/track/land-of-fire
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-land-of-fire
+      quote: Land of Fire | Hamzeh Yeganeh | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1753205570
+    references:
+    - source: music.apple.com-us-song-1753205570
+      quote: ‎Land of Fire (feat. Dara Daraee, Mahan Mirarab, Kaveh Sarvarian, Amin Taheri & Milad Zendehnam) - Song with Lyrics by
+        Hamzeh Yeganeh - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a0813387359_10.jpg
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-land-of-fire
+      quote: https://f4.bcbits.com/img/a0813387359_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Kaveh Sarvarian on Bandcamp
+        language: en
+  release date:
+  - value:
+      date: '2010-06-07'
+    references:
+    - source: music.apple.com-us-song-1753205570
+      quote: June 7, 2010
+      accessed: '2026-11-21'
+      locator: Published date

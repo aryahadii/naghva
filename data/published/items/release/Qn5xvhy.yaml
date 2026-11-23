@@ -1,0 +1,44 @@
+id: Qn5xvhy
+type: release
+statements:
+  name:
+  - value:
+      text: Prabhuji
+      language: en
+    references:
+    - source: open.spotify.com-album-3rt412surgash2vzkkhvqq
+      quote: Listen to Prabhuji - Album by Vishnu Das A.D. | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qy69pg7
+    references:
+    - source: open.spotify.com-album-3rt412surgash2vzkkhvqq
+      quote: Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  release type:
+  - value: album
+    references:
+    - source: open.spotify.com-album-3rt412surgash2vzkkhvqq
+      quote: Listen to Prabhuji - Album by Vishnu Das A.D. | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://open.spotify.com/album/3Rt412surGaSH2vZKkHVQq
+    references:
+    - source: open.spotify.com-album-3rt412surgash2vzkkhvqq
+      quote: Listen to Prabhuji - Album by Vishnu Das A.D. | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d0000b27377e58017053872f8e1f1bf2e
+    references:
+    - source: open.spotify.com-album-3rt412surgash2vzkkhvqq
+      quote: https://i.scdn.co/image/ab67616d0000b27377e58017053872f8e1f1bf2e
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original publisher artwork
+        language: en

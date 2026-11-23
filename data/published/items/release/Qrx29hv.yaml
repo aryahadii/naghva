@@ -1,0 +1,32 @@
+id: Qrx29hv
+type: release
+statements:
+  name:
+  - value:
+      text: Naghib Shanbehzadeh- Live Solo Dohola (Darbuka) in Consulat Voltaire (Souffle Collectif)
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-p2vw36z8tvc
+      quote: Naghib Shanbehzadeh- Live Solo Dohola (Darbuka) in Consulat Voltaire (Souffle Collectif)
+      accessed: '2026-11-21'
+      locator: Artist-published performance film
+  performer:
+  - value: Qvhrrm8
+    references:
+    - *id001
+  listen link:
+  - value: https://www.youtube.com/watch?v=p2vw36z8TVc
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/p2vw36z8TVc/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-p2vw36z8tvc
+      quote: https://i.ytimg.com/vi/p2vw36z8TVc/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original film frame
+    qualifiers:
+      credit:
+        text: naghib shanbehzadeh
+        language: en

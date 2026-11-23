@@ -1,0 +1,65 @@
+id: Qav4zg3
+type: release
+statements:
+  name:
+  - value:
+      text: Dissolving in Silence
+      language: en
+    references:
+    - source: juliendemoulin.bandcamp.com-track-dissolving-in-silence
+      quote: Dissolving in Silence
+      accessed: '2026-11-21'
+      locator: Recording heading
+  performer:
+  - value: Qtdjmfw
+    references:
+    - source: juliendemoulin.bandcamp.com-album-everything-forgotten-everything-remembered
+      quote: All music and production by Julien Demoulin
+      accessed: '2026-11-21'
+      locator: Album credits
+  - value: Q6zbcxw
+    references:
+    - &id001
+      source: juliendemoulin.bandcamp.com-album-everything-forgotten-everything-remembered
+      quote: Vocals on 7 by Maryam Sirvan (recorded and mixed by Milad Bagheri)
+      accessed: '2026-11-21'
+      locator: Album credits, track 7
+    qualifiers:
+      role: vocals
+  contributor:
+  - value: Qj24qcs
+    references:
+    - *id001
+    qualifiers:
+      role: mixing engineer
+  - value: Qj24qcs
+    references:
+    - *id001
+    qualifiers:
+      role: recording engineer
+  release date:
+  - value:
+      date: '2021-12-13'
+    references:
+    - source: juliendemoulin.bandcamp.com-album-everything-forgotten-everything-remembered
+      quote: released December 13, 2021
+      accessed: '2026-11-21'
+      locator: Published date
+  listen link:
+  - value: https://juliendemoulin.bandcamp.com/track/dissolving-in-silence
+    references:
+    - source: juliendemoulin.bandcamp.com-track-dissolving-in-silence
+      quote: Dissolving in Silence | julien demoulin
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a2481255191_10.jpg
+    references:
+    - source: juliendemoulin.bandcamp.com-album-everything-forgotten-everything-remembered
+      quote: https://f4.bcbits.com/img/a2481255191_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Julien Demoulin on Bandcamp
+        language: en

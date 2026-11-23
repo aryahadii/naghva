@@ -1,0 +1,37 @@
+id: Qq2dvap
+type: release
+statements:
+  name:
+  - value:
+      text: Ensayo el Viejo from the album (When the sun rises)
+      language: en
+    references:
+    - source: www.youtube.com-watch-v-5jn4lhxvkyo
+      quote: Ensayo el Viejo from the album (When the sun rises)
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://www.youtube.com/watch?v=5Jn4LHxVKyo
+    references:
+    - source: www.youtube.com-watch-v-5jn4lhxvkyo
+      quote: Ensayo el Viejo from the album (When the sun rises)
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i.ytimg.com/vi/5Jn4LHxVKyo/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-5jn4lhxvkyo
+      quote: https://i.ytimg.com/vi/5Jn4LHxVKyo/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: Hames Bitar
+        language: en
+  performer:
+  - value: Qtj7y5p
+    references:
+    - source: www.youtube.com-watch-v-5jn4lhxvkyo
+      quote: Ensayo el Viejo from the album (When the sun rises)
+      accessed: '2026-11-21'
+      locator: Page title

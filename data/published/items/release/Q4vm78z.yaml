@@ -1,0 +1,32 @@
+id: Q4vm78z
+type: release
+statements:
+  name:
+  - value:
+      text: Ghorbat, Exile
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-1opekokjiem
+      quote: Ghorbat, Exile
+      accessed: '2026-11-21'
+      locator: Artist-published performance film
+  performer:
+  - value: Qyd93n9
+    references:
+    - *id001
+  listen link:
+  - value: https://www.youtube.com/watch?v=1oPEKokJIeM
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/1oPEKokJIeM/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-1opekokjiem
+      quote: https://i.ytimg.com/vi/1oPEKokJIeM/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original film frame
+    qualifiers:
+      credit:
+        text: saeid shanbehzadeh
+        language: en

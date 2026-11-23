@@ -1,0 +1,70 @@
+id: Qjavsh3
+type: release
+statements:
+  name:
+  - value:
+      text: Asheq Bodom Leili
+      language: en
+    references:
+    - source: open.spotify.com-album-01olv22csrdy8xotvq2x7d
+      quote: Asheq Bodom Leili
+      accessed: '2026-11-21'
+      locator: Spotify edition
+  performer:
+  - value: Qndvgwn
+    references:
+    - source: open.spotify.com-album-01olv22csrdy8xotvq2x7d
+      quote: Badieh
+      accessed: '2026-11-21'
+      locator: Single billing
+  release type:
+  - value: single
+    references:
+    - source: open.spotify.com-album-01olv22csrdy8xotvq2x7d
+      quote: Asheq Bodom Leili
+      accessed: '2026-11-21'
+      locator: Spotify edition
+  release date:
+  - value:
+      date: '2023-11-03'
+    references:
+    - source: music.apple.com-us-album-asheq-bodom-leili-feat-jawad-tabesh-nasim-khoshnawaz-1711636770
+      quote: '2023-11-03'
+      accessed: '2026-11-21'
+      locator: Single release date
+  listen link:
+  - value: https://open.spotify.com/album/01oLV22csrdY8XOTVq2x7D
+    references:
+    - source: open.spotify.com-album-01olv22csrdy8xotvq2x7d
+      quote: Asheq Bodom Leili
+      accessed: '2026-11-21'
+      locator: Spotify edition
+  - value: https://music.apple.com/us/album/asheq-bodom-leili-feat-jawad-tabesh-nasim-khoshnawaz/1711636770
+    references:
+    - source: music.apple.com-us-album-asheq-bodom-leili-feat-jawad-tabesh-nasim-khoshnawaz-1711636770
+      quote: Asheq Bodom Leili (feat. Jawad Tabesh & Nasim Khoshnawaz) - Single
+      accessed: '2026-11-21'
+      locator: Apple Music edition
+  - value: https://open.spotify.com/track/7wdjb5hbXmucDIWJbhSPct
+    references:
+    - source: open.spotify.com-album-01olv22csrdy8xotvq2x7d
+      quote: Asheq Bodom Leili
+      accessed: '2026-11-21'
+      locator: Spotify track 1
+  - value: https://music.apple.com/us/song/asheq-bodom-leili-feat-jawad-tabesh-nasim-khoshnawaz/1711637208
+    references:
+    - source: music.apple.com-us-album-asheq-bodom-leili-feat-jawad-tabesh-nasim-khoshnawaz-1711636770
+      quote: Asheq Bodom Leili (feat. Jawad Tabesh & Nasim Khoshnawaz)
+      accessed: '2026-11-21'
+      locator: Apple Music track 1
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/27/4d/f7/274df798-6079-a325-3f99-e9373dc2a7b2/5053760111849_cover.jpg/1200x630bb.jpg
+    qualifiers:
+      credit:
+        text: Digital single artwork
+        language: en
+    references:
+    - source: music.apple.com-us-album-asheq-bodom-leili-feat-jawad-tabesh-nasim-khoshnawaz-1711636770
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/27/4d/f7/274df798-6079-a325-3f99-e9373dc2a7b2/5053760111849_cover.jpg/1200x630bb.jpg
+      accessed: '2026-11-21'
+      locator: Single cover

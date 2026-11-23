@@ -1,0 +1,53 @@
+id: Qe8f4af
+type: release
+statements:
+  name:
+  - value:
+      text: Turn out to be
+      language: en
+    references:
+    - source: quartetdiminished.bandcamp.com-album-station-one
+      quote: Turn out to be
+      accessed: 2026-11-21
+      locator: Track 5
+  release date:
+  - value:
+      date: '2015-01-01'
+    references:
+    - source: quartetdiminished.bandcamp.com-album-station-one
+      quote: released January 1, 2015
+      accessed: 2026-11-21
+      locator: Release date
+  performer:
+  - value: Qh8f5qv
+    references:
+    - source: quartetdiminished.bandcamp.com-album-station-one
+      quote: Quartet Diminished کوارتت کاسته
+      accessed: 2026-11-21
+      locator: Release artist
+  listen link:
+  - value: https://quartetdiminished.bandcamp.com/track/turn-out-to-be
+    references:
+    - source: quartetdiminished.bandcamp.com-album-station-one
+      quote: Turn out to be
+      accessed: 2026-11-21
+      locator: Track 5
+  - value: https://music.apple.com/us/song/turned-out-to-be/1748916459
+    references:
+    - source: music.apple.com-us-album-station-one-1748916037
+      quote: Turned out to Be
+      accessed: '2026-11-21'
+      locator: Album track 5
+  - value: https://open.spotify.com/track/4NTakh8yiE7egEJ6OVJNIo
+    references:
+    - source: open.spotify.com-embed-album-6tmkece7wxhbfma9pjiy7o
+      quote: Turned out to Be
+      accessed: '2026-11-21'
+      locator: Album track 5
+  cover art:
+  - value: https://f4.bcbits.com/img/a2047520220_2.jpg
+    references:
+    - source: quartetdiminished.bandcamp.com-album-station-one
+      quote: Station One
+      accessed: 2026-11-21
+      locator: Release title

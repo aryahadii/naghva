@@ -1,0 +1,68 @@
+id: Qz2yt8c
+type: release
+statements:
+  name:
+  - value:
+      text: Submarine
+      language: en
+    references:
+    - source: idlefon.bandcamp.com-album-submarine
+      quote: Submarine | Idlefon
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qjjdrek
+    references:
+    - &id001
+      source: idlefon.bandcamp.com-album-submarine
+      quote: Submarine | Idlefon
+      accessed: '2026-11-21'
+      locator: Page title
+  release type:
+  - value: album
+    references:
+    - *id001
+  listen link:
+  - value: https://idlefon.bandcamp.com/album/submarine
+    references:
+    - source: idlefon.bandcamp.com-album-submarine
+      quote: Submarine | Idlefon
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://tympanikaudio.bandcamp.com/album/submarine
+    references:
+    - source: tympanikaudio.bandcamp.com-album-submarine
+      quote: Submarine | Idlefon | Tympanik Audio
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/submarine/1548343675
+    references:
+    - source: music.apple.com-us-album-submarine-1548343675
+      quote: ‎Submarine - Album by Idlefon - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/album/1AudgjR6KjG1D6DffWk3tu
+    references:
+    - source: open.spotify.com-album-1audgjr6kjg1d6dffwk3tu
+      quote: Listen to Submarine - Album by Idlefon | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a1267581734_10.jpg
+    references:
+    - source: idlefon.bandcamp.com-album-submarine
+      quote: https://f4.bcbits.com/img/a1267581734_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Nylaa
+        language: en
+  release date:
+  - value:
+      date: '2015-08-18'
+    references:
+    - source: idlefon.bandcamp.com-album-submarine
+      quote: released August 18, 2015
+      accessed: '2026-11-21'
+      locator: Published date

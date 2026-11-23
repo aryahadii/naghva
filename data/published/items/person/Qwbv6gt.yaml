@@ -1,0 +1,27 @@
+id: Qwbv6gt
+type: person
+statements:
+  name:
+  - value:
+      text: رسول رهو
+      language: fa
+    references:
+    - &id001
+      source: shahrzad-ensemble-ghana
+      quote: 'گروه شهرزاد (سرپرست: آذر زرگریان، خواننده: رسول رهو، بهادر صحت) (۱۳۹۲ تا ۱۳۹۶)'
+      accessed: '2026-11-21'
+      locator: Performer or presenter archive
+  - value:
+      text: Rasoul Rahou
+      language: en
+    references:
+    - source: shahrzad-film-mx3njoyrkv4
+      quote: Rasoul Rahou
+      locator: Original performer’s video description
+      accessed: '2026-11-21'
+  member of:
+  - value: Q4z6jy5
+    references:
+    - *id001
+    qualifiers:
+      role: vocals

@@ -1,0 +1,35 @@
+id: Qrbed3q
+type: release
+statements:
+  name:
+  - value:
+      text: Div O Fereshteh
+      language: en
+    references:
+    - source: open.spotify.com-embed-playlist-6uf2bvt6kopxs1fztqe3eh
+      quote: Div O Fereshteh
+      accessed: '2026-11-21'
+      locator: Named song in selected recording
+  performer:
+  - value: Qt6wjbg
+    references:
+    - source: open.spotify.com-embed-playlist-6uf2bvt6kopxs1fztqe3eh
+      quote: Div O Fereshteh
+      accessed: '2026-11-21'
+      locator: Named song in selected recording
+  - value: Qa6r74t
+    qualifiers:
+      role:
+      - bass
+    references:
+    - source: kasrasaboktakin.com-epk
+      quote: A collection of my recordings with New-York Based Visionary artist Mohsen Namjoo
+      accessed: '2026-11-21'
+      locator: Artist-authored playlist
+  listen link:
+  - value: https://open.spotify.com/track/3UNVUYyKnUCPtN1wdpa84O
+    references:
+    - source: open.spotify.com-embed-playlist-6uf2bvt6kopxs1fztqe3eh
+      quote: spotify:track:3UNVUYyKnUCPtN1wdpa84O
+      accessed: '2026-11-21'
+      locator: Original song URI

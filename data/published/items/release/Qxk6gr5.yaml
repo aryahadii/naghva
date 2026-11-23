@@ -1,0 +1,17 @@
+id: Qxk6gr5
+type: release
+statements:
+  name:
+  - value:
+      text: Love Affair
+      language: en
+    references:
+    - &id001
+      source: farzanezamen.wixsite.com-music-bio
+      quote: Love Affair
+      accessed: '2026-11-21'
+      locator: Discography and collaborations
+  performer:
+  - value: Q38h8s7
+    references:
+    - *id001

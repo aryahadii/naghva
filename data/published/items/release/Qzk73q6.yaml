@@ -1,0 +1,128 @@
+id: Qzk73q6
+type: release
+statements:
+  listen link:
+  - value: https://sinasalimi.bandcamp.com/album/all-of-our-tomorrows
+    references:
+    - source: sinasalimi.bandcamp.com-album-all-of-our-tomorrows
+      quote: All of Our Tomorrows / تمام فرداهای ما | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/all-of-our-tomorrows/1544199162
+    references:
+    - source: music.apple.com-us-album-all-of-our-tomorrows-1544199162
+      quote: ‎All of Our Tomorrows - Album by Sina Salimi - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/album/6UWDxrbwY5NsKBo0BYjqQ1
+    references:
+    - source: open.spotify.com-album-6uwdxrbwy5nskbo0byjqq1
+      quote: Listen to All of Our Tomorrows - Album by Sina Salimi | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  name:
+  - value:
+      text: All of Our Tomorrows
+      language: en
+    references:
+    - &id001
+      source: sinasalimi.bandcamp.com-album-all-of-our-tomorrows
+      quote: All of Our Tomorrows
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value:
+      text: تمام فرداهای ما
+      language: fa
+    references:
+    - source: sinasalimi.bandcamp.com-album-all-of-our-tomorrows
+      quote: تمام فرداهای ما
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  performer:
+  - value: Qt5sbqz
+    references:
+    - source: sinasalimi.bandcamp.com-album-all-of-our-tomorrows
+      quote: All of Our Tomorrows / تمام فرداهای ما | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qmvbr8r
+    references:
+    - source: sinasalimi.bandcamp.com-album-all-of-our-tomorrows
+      quote: Shahrouz Molaei......drums
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Qyvgnrd
+    references:
+    - source: sinasalimi.bandcamp.com-album-all-of-our-tomorrows
+      quote: Ali Kamali......bass
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Qk5shyb
+    references:
+    - source: sinasalimi.bandcamp.com-album-all-of-our-tomorrows
+      quote: Andrew Kay......alto saxophone & clarinet
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Qt7pfzm
+    references:
+    - source: sinasalimi.bandcamp.com-album-all-of-our-tomorrows
+      quote: David Skolnick......accordion
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Q66mt9v
+    references:
+    - source: sinasalimi.bandcamp.com-album-all-of-our-tomorrows
+      quote: Mohammad Talani......electric guitar
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Qfde282
+    references:
+    - source: sinasalimi.bandcamp.com-album-all-of-our-tomorrows
+      quote: Raha Javanfar......violin
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Qak9n2a
+    references:
+    - source: sinasalimi.bandcamp.com-album-all-of-our-tomorrows
+      quote: Mahsa GHassemi......cello
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Qypaxpc
+    references:
+    - source: sinasalimi.bandcamp.com-album-all-of-our-tomorrows
+      quote: Nima Ahmadieh......acoustic guitar
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Qtqz8e8
+    references:
+    - source: sinasalimi.bandcamp.com-album-all-of-our-tomorrows
+      quote: Nick Zubeck......electric guitar
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  release type:
+  - value: album
+    references:
+    - *id001
+  release date:
+  - value:
+      date: '2020-12-21'
+    references:
+    - source: sinasalimi.bandcamp.com-album-all-of-our-tomorrows
+      quote: released December 21, 2020
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a0734454998_10.jpg
+    references:
+    - source: sinasalimi.bandcamp.com-album-all-of-our-tomorrows
+      quote: https://f4.bcbits.com/img/a0734454998_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    - source: sinasalimi.bandcamp.com-album-all-of-our-tomorrows
+      quote: Design & Layout by Vahid Fazel
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: Vahid Fazel
+        language: en

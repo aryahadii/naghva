@@ -1,0 +1,45 @@
+id: Qqj9g4s
+type: release
+statements:
+  name:
+  - value:
+      text: Berivan · Moods
+      language: en
+    references:
+    - source: www.youtube.com-oembed-taqiz7ya5n8
+      quote: Inner Unity Ensemble & Sakina Teyna, Berivan
+      locator: Ensemble, venue, recording or project credits
+      accessed: '2026-11-21'
+  performer:
+  - value: Qnhpew3
+    references:
+    - source: duisburger-philharmoniker.de-duisburger-philharmoniker-unsere-gast-interpreten-inner-unity-ensemble
+      quote: Inner Unity Ensemble
+      locator: Ensemble, venue, recording or project credits
+      accessed: '2026-11-21'
+  - value: Q3b2yaj
+    references:
+    - source: moods.ch-en-streaming-inner-unity-ensemble-sakina-teyna-2024-03-17filter-human
+      quote: Sakina Teyna Vocals
+      locator: Ensemble, venue, recording or project credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: vocals
+  listen link:
+  - value: https://www.youtube.com/watch?v=taQIZ7yA5n8
+    references:
+    - source: www.youtube.com-oembed-taqiz7ya5n8
+      quote: Inner Unity Ensemble & Sakina Teyna, Berivan
+      locator: Ensemble, venue, recording or project credits
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://i.ytimg.com/vi/taQIZ7yA5n8/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-taqiz7ya5n8
+      quote: https://i.ytimg.com/vi/taQIZ7yA5n8/hqdefault.jpg
+      locator: Ensemble, venue, recording or project credits
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Inner Unity Ensemble Official
+        language: en

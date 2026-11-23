@@ -1,0 +1,69 @@
+id: Qzhgpkw
+type: person
+statements:
+  name:
+  - value:
+      text: بابک رجبی
+      language: fa
+    references:
+    - source: kayhan.london-1401-03-13-287005
+      quote: بابک رجبی
+      accessed: '2026-11-21'
+      locator: Interview heading
+  - value:
+      text: Babak Rajabi
+      language: en
+    references:
+    - source: babakrajabi.bandcamp.com-music
+      quote: Babak Rajabi Official
+      accessed: '2026-11-21'
+      locator: Bandcamp profile
+  image:
+  - value: https://i.ytimg.com/vi/HhCMvqAd-1g/maxresdefault.jpg
+    references:
+    - source: www.youtube.com-watchv-hhcmvqad-1g
+      quote: https://i.ytimg.com/vi/HhCMvqAd-1g/maxresdefault.jpg
+      accessed: '2026-11-21'
+      locator: Artist’s own concert upload, official thumbnail showing Rajabi singing in Isfahan
+    qualifiers:
+      credit:
+        text: Babak Rajabi · concert in Isfahan
+        language: en
+  birth date:
+  - value:
+      date: '1982'
+    references:
+    - source: babakrajabi.bandcamp.com-music
+      quote: born in 1982 in Isfahan
+      accessed: '2026-11-21'
+      locator: Artist biography
+  profile link:
+  - value: https://open.spotify.com/artist/18gvYvU6NGe99abAuYr678
+    references:
+    - source: open.spotify.com-artist-18gvyvu6nge99abauyr678
+      quote: Babak Rajabi
+      accessed: '2026-11-21'
+      locator: Artist profile
+  - value: https://babakrajabi.bandcamp.com/music
+    references:
+    - source: babakrajabi.bandcamp.com-music
+      quote: Babak Rajabi Official
+      accessed: '2026-11-21'
+      locator: Bandcamp profile
+  member of:
+  - value: Qp8pn6g
+    references:
+    - source: kayhan.london-1401-03-13-287005
+      quote: در سال ١٣٨٧ گروه موسیقی نوژان را تاسیس کردم
+      accessed: '2026-11-21'
+      locator: Interview with Babak Rajabi
+  - value: Qy93ebb
+    references:
+    - source: www.auxsons.com-en-album-hezar-bisheh
+      quote: Babak Rajabi Chant, târ
+      accessed: '2026-11-21'
+      locator: Personnel printed for the album
+    qualifiers:
+      role:
+      - vocals
+      - tar

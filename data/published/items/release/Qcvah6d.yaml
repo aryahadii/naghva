@@ -20,14 +20,14 @@ statements:
   - value: ep
     references:
     - source: open.spotify.com-haleh-3zoq0sl8axsbvhtggskpwf
-      quote: |-
-        Listen to Iranian Female Voice Festival - Berlin 2017 - EP by Ali Ghamsari | Spotify
+      quote: Listen to Iranian Female Voice Festival - Berlin 2017 - EP by Ali Ghamsari | Spotify
       accessed: '2026-11-06'
   performer:
   - value: Qpnh6ey
     references:
     - source: music.apple.com-haleh-1543514092
-      quote: 'Listen to Iranian Female Voice Festival - Berlin 2017 by Ali Ghamsari on Apple Music. 2020. 6 Songs. Duration: 32 minutes.'
+      quote: 'Listen to Iranian Female Voice Festival - Berlin 2017 by Ali Ghamsari on Apple Music. 2020. 6 Songs.
+        Duration: 32 minutes.'
       accessed: '2026-11-06'
   - value: Qwdtzsq
     references:
@@ -38,7 +38,8 @@ statements:
   - value: https://music.apple.com/us/album/iranian-female-voice-festival-berlin-2017/1543514092
     references:
     - source: music.apple.com-haleh-1543514092
-      quote: 'Listen to Iranian Female Voice Festival - Berlin 2017 by Ali Ghamsari on Apple Music. 2020. 6 Songs. Duration: 32 minutes.'
+      quote: 'Listen to Iranian Female Voice Festival - Berlin 2017 by Ali Ghamsari on Apple Music. 2020. 6 Songs.
+        Duration: 32 minutes.'
       accessed: '2026-11-06'
   - value: https://open.spotify.com/album/3zOq0sL8AXsbVhtGgsKpwf
     references:

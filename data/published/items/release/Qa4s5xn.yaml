@@ -1,0 +1,52 @@
+id: Qa4s5xn
+type: release
+statements:
+  name:
+  - value:
+      text: Pacific Ocean
+      language: en
+    references:
+    - source: petroglyphmusic.bandcamp.com-album-184-pacific-ocean
+      quote: Pacific Ocean
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  performer:
+  - value: Qgncp5r
+    references:
+    - source: petroglyphmusic.bandcamp.com-album-184-pacific-ocean
+      quote: Nima Aghiani
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  release type:
+  - value: album
+    references:
+    - source: petroglyphmusic.bandcamp.com-album-184-pacific-ocean
+      quote: (184) Pacific Ocean | Nima Aghiani | Petroglyph Music
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2013-12-22'
+    references:
+    - source: petroglyphmusic.bandcamp.com-album-184-pacific-ocean
+      quote: released December 22, 2013
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  cover art:
+  - value: https://f4.bcbits.com/img/a1399728472_10.jpg
+    references:
+    - source: petroglyphmusic.bandcamp.com-album-184-pacific-ocean
+      quote: https://f4.bcbits.com/img/a1399728472_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Petroglyph Music
+        language: en
+  listen link:
+  - value: https://petroglyphmusic.bandcamp.com/album/184-pacific-ocean
+    references:
+    - source: petroglyphmusic.bandcamp.com-album-184-pacific-ocean
+      quote: (184) Pacific Ocean | Nima Aghiani | Petroglyph Music
+      accessed: '2026-11-21'
+      locator: Page title

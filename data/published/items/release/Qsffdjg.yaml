@@ -1,0 +1,44 @@
+id: Qsffdjg
+type: release
+statements:
+  name:
+  - value:
+      text: Hum Sa
+      language: en
+    references:
+    - source: open.spotify.com-album-23vj0cswhusudohxye83q7
+      quote: Listen to Hum Sa - Album by Hum Sa | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  release type:
+  - value: album
+    references:
+    - source: open.spotify.com-album-23vj0cswhusudohxye83q7
+      quote: Listen to Hum Sa - Album by Hum Sa | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Q3waxf2
+    references:
+    - source: open.spotify.com-track-2k1tx7somujedtwbqohpfi
+      quote: Soheil Peyghambari
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://open.spotify.com/album/23Vj0CSwhusUDoHXYe83q7
+    references:
+    - source: open.spotify.com-album-23vj0cswhusudohxye83q7
+      quote: Listen to Hum Sa - Album by Hum Sa | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d0000b27337fedd3cde8e2dd8eb02596d
+    references:
+    - source: open.spotify.com-album-23vj0cswhusudohxye83q7
+      quote: https://i.scdn.co/image/ab67616d0000b27337fedd3cde8e2dd8eb02596d
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Soheil Peyghambari on Spotify
+        language: en

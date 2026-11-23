@@ -1,0 +1,75 @@
+id: Qhhrvdn
+type: release
+statements:
+  name:
+  - value:
+      text: Parākandeh-Rooz
+      language: en
+    references:
+    - source: music.apple.com-us-song-1528194589
+      quote: ‎Parākandeh-Rooz - Song with Lyrics by Atour & Taraamoon - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qw4rq4q
+    references:
+    - source: music.apple.com-us-song-1528194589
+      quote: ‎Parākandeh-Rooz - Song with Lyrics by Atour & Taraamoon - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qbkp49z
+    references:
+    - source: soundcloud.com-divarrecords-parakanderooz
+      quote: Atour X Taraamoon
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  release date:
+  - value:
+      date: '2020-08-11'
+    references:
+    - source: music.apple.com-us-song-1528194589
+      quote: August 11, 2020
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/77/97/1c/77971cb9-875e-f272-858a-00ef6f28a46e/156bc71b-5266-4611-983f-4008223baabb.png/600x600bb.webp
+    references:
+    - source: music.apple.com-us-song-1528194589
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/77/97/1c/77971cb9-875e-f272-858a-00ef6f28a46e/156bc71b-5266-4611-983f-4008223baabb.png/600x600bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Divar Records
+        language: en
+  listen link:
+  - value: https://music.apple.com/us/song/1528194589
+    references:
+    - source: music.apple.com-us-song-1528194589
+      quote: ‎Parākandeh-Rooz - Song with Lyrics by Atour & Taraamoon - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/par%C4%81kandeh-rooz/1528194586
+    references:
+    - source: music.apple.com-us-album-par-c4-81kandeh-rooz-1528194586
+      quote: ‎Parākandeh-Rooz - Single - Album by Atour & Taraamoon - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/divarrecords/parakanderooz
+    references:
+    - source: soundcloud.com-divarrecords-parakanderooz
+      quote: Stream Atour X Taraamoon - Parākandeh-Rooz | پراکنده‌روز by Divar | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/album/5zUeLIUTJSV3DBIZqM2QE5
+    references:
+    - source: open.spotify.com-album-5zueliutjsv3dbizqm2qe5
+      quote: Listen to Parākandeh-Rooz - Single by Atour | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/13tuRno9EgSJoPFxMKuHdd
+    references:
+    - source: open.spotify.com-track-13turno9egsjopfxmkuhdd
+      quote: Parākandeh-Rooz - song and lyrics by Atour, Taraamoon | Spotify
+      accessed: '2026-11-21'
+      locator: Page title

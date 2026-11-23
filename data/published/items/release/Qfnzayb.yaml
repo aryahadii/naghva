@@ -1,0 +1,55 @@
+id: Qfnzayb
+type: release
+statements:
+  name:
+  - value:
+      text: El Cascabel
+      language: en
+    references:
+    - &id001
+      source: open.spotify.com-embed-album-0purkbllqlgtxmdgsg9h8g
+      quote: El Cascabel
+      accessed: '2026-11-21'
+      locator: Spotify track 7
+  performer:
+  - value: Qqb9bnx
+    references:
+    - *id001
+  - value: Q8gd5mb
+    references:
+    - source: music.apple.com-us-album-perxico-persia-y-m-c3-a9xico-1503709581
+      quote: Claudio Vega
+      accessed: '2026-11-21'
+      locator: Song performer
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/2c/d9/cf/2cd9cf82-4b2e-3ab7-841b-16e4c495393f/0.jpg/1200x630wp-60.jpg
+    references:
+    - source: music.apple.com-us-album-perxico-persia-y-m-c3-a9xico-1503709581
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/2c/d9/cf/2cd9cf82-4b2e-3ab7-841b-16e4c495393f/0.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Digital artwork
+    qualifiers:
+      credit:
+        text: Apple Music, original edition artwork
+        language: en
+  release date:
+  - value:
+      date: '2020-03-01'
+    references:
+    - source: music.apple.com-us-album-perxico-persia-y-m-c3-a9xico-1503709581
+      quote: '2020-03-01'
+      accessed: '2026-11-21'
+      locator: Original digital issue
+  listen link:
+  - value: https://open.spotify.com/track/6Od4mwdcXyF9UwsqFj8nsp
+    references:
+    - source: open.spotify.com-embed-album-0purkbllqlgtxmdgsg9h8g
+      quote: spotify:track:6Od4mwdcXyF9UwsqFj8nsp
+      accessed: '2026-11-21'
+      locator: Exact Spotify track
+  - value: https://music.apple.com/us/song/el-cascabel-feat-claudio-vega/1503709844
+    references:
+    - source: music.apple.com-us-album-perxico-persia-y-m-c3-a9xico-1503709581
+      quote: https://music.apple.com/us/song/el-cascabel-feat-claudio-vega/1503709844
+      accessed: '2026-11-21'
+      locator: Exact Apple song

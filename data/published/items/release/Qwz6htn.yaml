@@ -1,0 +1,85 @@
+id: Qwz6htn
+type: release
+statements:
+  name:
+  - value:
+      text: Ey Iran
+      language: en
+    references:
+    - source: music.apple.com-us-album-ey-iran-single-1763192013
+      quote: Ey Iran
+      accessed: 2026-11-21
+      locator: Edition or recording title
+  performer:
+  - value: Qgxh3d9
+    references:
+    - source: music.apple.com-us-album-ey-iran-single-1763192013
+      quote: Faravaz
+      accessed: 2026-11-21
+      locator: Digital credits
+  listen link:
+  - value: https://music.apple.com/us/song/ey-iran/1763192020
+    references:
+    - source: music.apple.com-us-album-ey-iran-single-1763192013
+      quote: Ey Iran
+      accessed: 2026-11-21
+      locator: Edition or recording title
+  - value: https://music.apple.com/us/song/ey-iran/1811985880
+    references:
+    - source: music.apple.com-us-album-azadi-1811985676
+      quote: Ey Iran
+      accessed: 2026-11-21
+      locator: Edition or recording title
+  - value: https://faravaz.bandcamp.com/track/ey-iran-2
+    references:
+    - source: faravaz.bandcamp.com-album-azadi-album
+      quote: Ey Iran
+      accessed: 2026-11-21
+      locator: Artist’s Bandcamp catalogue
+  - value: https://faravaz.bandcamp.com/track/ey-iran
+    references:
+    - source: faravaz.bandcamp.com-track-ey-iran
+      quote: Ey Iran
+      accessed: 2026-11-21
+      locator: Artist’s Bandcamp catalogue
+  - value: https://open.spotify.com/track/6ss7gKumrFgM9xg6RCE1ms
+    references:
+    - source: open.spotify.com-album-1y72zlc763hlylsh5mbkyl
+      quote: Ey Iran
+      accessed: 2026-11-21
+      locator: Published recording
+  release date:
+  - value:
+      date: '2023-09-21'
+    references:
+    - source: music.apple.com-us-album-ey-iran-single-1763192013
+      quote: '2023-09-21'
+      accessed: 2026-11-21
+      locator: Digital edition date
+  - value:
+      date: '2025-05-09'
+    references:
+    - source: music.apple.com-us-album-azadi-1811985676
+      quote: '2025-05-09'
+      accessed: 2026-11-21
+      locator: Digital edition date
+  - value:
+      date: '2025-05-11'
+    references:
+    - source: faravaz.bandcamp.com-album-azadi-album
+      quote: 11 May 2025 00:00:00 GMT
+      accessed: 2026-11-21
+      locator: Artist release date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/09/e9/c5/09e9c551-8a67-4ab6-ff37-518334518599/4066004759050_3000.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-ey-iran-single-1763192013
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/09/e9/c5/09e9c551-8a67-4ab6-ff37-518334518599/4066004759050_3000.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Digital edition artwork
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e6/77/60/e6776080-6ae7-2f26-4d68-596b660c3cc7/199350433146.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-azadi-1811985676
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e6/77/60/e6776080-6ae7-2f26-4d68-596b660c3cc7/199350433146.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Digital edition artwork

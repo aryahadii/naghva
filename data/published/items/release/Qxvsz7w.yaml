@@ -1,0 +1,63 @@
+id: Qxvsz7w
+type: release
+statements:
+  name:
+  - value:
+      text: Hekâyat
+      language: en
+    references:
+    - source: music.apple.com-us-album-hafez-1076395652
+      quote: Hekâyat
+      accessed: '2026-11-21'
+      locator: Release track 5
+  listen link:
+  - value: https://music.apple.com/us/song/hek%C3%A2yat/1076396741
+    references:
+    - source: music.apple.com-us-album-hafez-1076395652
+      quote: https://music.apple.com/us/song/hek%C3%A2yat/1076396741
+      accessed: '2026-11-21'
+      locator: Exact Apple track
+  - value: https://open.spotify.com/track/14eqgk1zSvvEUbxBaR5JW4
+    references:
+    - source: open.spotify.com-embed-album-34xcqlxnnugecfy0lcqqga
+      quote: spotify:track:14eqgk1zSvvEUbxBaR5JW4
+      accessed: '2026-11-21'
+      locator: Exact Spotify track
+  - value: https://www.youtube.com/watch?v=IYOvK5a-GuI
+    references:
+    - source: www.youtube.com-watch-v-iyovk5a-gui
+      quote: Hekayat - Niaz Nawab حکایت -  نیاز نواب
+      accessed: '2026-11-21'
+      locator: Artist video
+  - value: https://t.me/niaznawab/140
+    references:
+    - source: t.me-niaznawab-140
+      quote: آهنگ «حکایت» از آلبوم حافظ The song “Hekayat” from Hafez’s album @niaznawab
+      accessed: '2026-11-21'
+      locator: Artist’s original performance caption
+  performer:
+  - value: Qb269ps
+    references:
+    - source: music.apple.com-us-album-hafez-1076395652
+      quote: Hafez
+      accessed: '2026-11-21'
+      locator: Native edition title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9d/b8/03/9db80326-ecb9-a12b-5343-aa8f67428613/638865015947.jpg/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Apple Music release artwork
+        language: en
+    references:
+    - source: music.apple.com-us-album-hafez-1076395652
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9d/b8/03/9db80326-ecb9-a12b-5343-aa8f67428613/638865015947.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Release cover
+  release date:
+  - value:
+      date: '2016-01-17'
+    references:
+    - source: music.apple.com-us-album-hafez-1076395652
+      quote: '2016-01-17'
+      accessed: '2026-11-21'
+      locator: Release date

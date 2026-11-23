@@ -1,0 +1,55 @@
+id: Qs7dxzr
+type: release
+statements:
+  name:
+  - value:
+      text: Reng-e Afshari · Berklee Two Track
+      language: en
+    references:
+    - source: www.berklee.edu-events-two-track-bahar-badieitabar-virtual-concert
+      quote: Reng-e Afshari
+      locator: Musician, broadcaster, artist or recording credits
+      accessed: '2026-11-21'
+  performer:
+  - value: Q3ytwxm
+    references:
+    - source: www.berklee.edu-events-two-track-bahar-badieitabar-virtual-concert
+      quote: Mahya Hamedi on the dayereh
+      locator: Musician, broadcaster, artist or recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: percussion
+  - value: Qgay8m3
+    references:
+    - source: www.berklee.edu-events-two-track-bahar-badieitabar-virtual-concert
+      quote: Reng-e Afshari
+      locator: Musician, broadcaster, artist or recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: oud
+  listen link:
+  - value: https://www.youtube.com/watch?v=3IRf7grBVF4&t=285s
+    references:
+    - source: www.youtube.com-watchv-3irf7grbvf4
+      quote: 04:45 Reng-e Afshari
+      locator: Native performance, published credits, date or time code
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://i.ytimg.com/vi/3IRf7grBVF4/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-3irf7grbvf4
+      quote: https://i.ytimg.com/vi/3IRf7grBVF4/hqdefault.jpg
+      locator: Native performance, published credits, date or time code
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Berklee College of Music
+        language: en
+  release date:
+  - value:
+      date: '2022-08-17'
+    references:
+    - source: www.youtube.com-watchv-3irf7grbvf4
+      quote: '2022-08-17T17:00:11-07:00'
+      locator: Native performance, published credits, date or time code
+      accessed: '2026-11-21'

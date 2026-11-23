@@ -1,0 +1,83 @@
+id: Q47t64s
+type: release
+statements:
+  name:
+  - value:
+      text: Na Ashena
+      language: en
+    references:
+    - source: open.spotify.com-embed-track-0atntwzbogveej8p5w2t6w
+      quote: Na Ashena
+      accessed: '2026-11-21'
+      locator: Original Spotify recording or album
+  release type:
+  - value: single
+    references:
+    - source: open.spotify.com-embed-track-0atntwzbogveej8p5w2t6w
+      quote: Na Ashena
+      accessed: '2026-11-21'
+      locator: Original Spotify recording or album
+  performer:
+  - value: Qrc5k3k
+    references:
+    - source: open.spotify.com-embed-track-0atntwzbogveej8p5w2t6w
+      quote: Na Ashena
+      accessed: '2026-11-21'
+      locator: Original Spotify recording or album
+  - value: Qa6r74t
+    qualifiers:
+      role:
+      - bass
+    references:
+    - source: kasrasaboktakin.com-music
+      quote: https://open.spotify.com/track/0aTnTwzBOgveEJ8p5W2t6W
+      accessed: '2026-11-21'
+      locator: Record linked by bassist in his own portfolio
+  listen link:
+  - value: https://open.spotify.com/track/0aTnTwzBOgveEJ8p5W2t6W
+    references:
+    - source: open.spotify.com-embed-track-0atntwzbogveej8p5w2t6w
+      quote: Na Ashena
+      accessed: '2026-11-21'
+      locator: Original Spotify recording or album
+  - value: https://music.apple.com/us/song/na-ashena/1783003664
+    references:
+    - source: music.apple.com-us-album-na-ashena-1783003662
+      quote: Na Ashena - Single
+      accessed: '2026-11-21'
+      locator: Apple issue
+  - value: https://soundcloud.com/kass-bass/na-shena-master-05
+    references:
+    - source: soundcloud.com-kass-bass-na-shena-master-05
+      quote: Stream na shena master 05 by Kasra Saboktakin | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Bassist’s original SoundCloud upload
+  release date:
+  - value:
+      date: '2024-12-06'
+    references:
+    - source: open.spotify.com-embed-track-0atntwzbogveej8p5w2t6w
+      quote: '2024-12-06'
+      accessed: '2026-11-21'
+      locator: Digital issue date
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d0000b27353de88bd11476ebb593c832f
+    qualifiers:
+      credit:
+        text: Digital distributor artwork
+        language: en
+    references:
+    - source: open.spotify.com-track-0atntwzbogveej8p5w2t6w
+      quote: https://i.scdn.co/image/ab67616d0000b27353de88bd11476ebb593c832f
+      accessed: '2026-11-21'
+      locator: Original release image
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0a/96/07/0a9607d0-1e4f-cd50-e770-26421af5ff9e/5063526681066_cover.jpg/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Digital distributor artwork
+        language: en
+    references:
+    - source: music.apple.com-us-album-na-ashena-1783003662
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0a/96/07/0a9607d0-1e4f-cd50-e770-26421af5ff9e/5063526681066_cover.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Original release image

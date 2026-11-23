@@ -1,0 +1,17 @@
+id: Qqcza6z
+type: release
+statements:
+  name:
+  - value:
+      text: Delshodegan (Auditorio Blas Galindo)
+      language: en
+    references:
+    - &id001
+      source: videoteca.cenart.gob.mx-canal-23-255759-2
+      quote: 16 01.07:20.025 --> 01.11:29.015 Delshodegan
+      accessed: '2026-11-21'
+      locator: Canal 23 broadcast cue 16
+  performer:
+  - value: Qcabd29
+    references:
+    - *id001

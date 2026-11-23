@@ -1,0 +1,82 @@
+id: Qb269ps
+type: person
+statements:
+  name:
+  - value:
+      text: Niaz Nawab
+      language: en
+    references:
+    - source: www.youtube.com-watch-v-wafyeusccmy
+      quote: '''Rafto Gozasht'' live by Niaz and Erwin with KARMANDAN'
+      accessed: '2026-11-21'
+      locator: Original artist-channel video
+  - value:
+      text: نیاز نواب
+      language: fa
+    references:
+    - source: kayhan.london-1400-11-15-272950
+      quote: نیاز نواب
+      accessed: '2026-11-21'
+      locator: Artist interview
+  birthplace:
+  - value: Qhm6fzw
+    references:
+    - source: www.nawabniaz.com-biographie
+      quote: Niaz was born in Tehran, Iran, and currently resides in Paris, France.
+      accessed: '2026-11-21'
+      locator: Artist biography
+  based in:
+  - value: Qyhck8a
+    references:
+    - source: www.nawabniaz.com-biographie
+      quote: Niaz was born in Tehran, Iran, and currently resides in Paris, France.
+      accessed: '2026-11-21'
+      locator: Artist biography
+  birth date:
+  - value:
+      date: '1985-05-05'
+    references:
+    - source: www.nawabniaz.com-biographie
+      quote: was born May 5th, 1985
+      accessed: '2026-11-21'
+      locator: Artist biography
+  image:
+  - value: https://static.wixstatic.com/media/101ccc_3378ceb86cb7445d99bd3eb6da132adc~mv2_d_4356_5509_s_4_2.jpg/v1/crop/x_97,y_0,w_4162,h_5509/fill/w_173,h_222,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/niaz_bio_JPG.jpg
+    qualifiers:
+      credit:
+        text: Danish Saroee
+        language: en
+    references:
+    - source: www.nawabniaz.com-biographie
+      quote: https://static.wixstatic.com/media/101ccc_3378ceb86cb7445d99bd3eb6da132adc~mv2_d_4356_5509_s_4_2.jpg/v1/crop/x_97,y_0,w_4162,h_5509/fill/w_173,h_222,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/niaz_bio_JPG.jpg
+      accessed: '2026-11-21'
+      locator: Official biography portrait
+    - source: www.nawabniaz.com-biographie
+      quote: Danish Saroee
+      accessed: '2026-11-21'
+      locator: Photograph credit
+  profile link:
+  - value: https://music.apple.com/us/artist/niaz-nawab/1067376351
+    references:
+    - source: music.apple.com-us-artist-niaz-nawab-1067376351
+      quote: ‎Niaz Nawab - Apple Music
+      accessed: '2026-11-21'
+      locator: Artist profile
+  - value: https://open.spotify.com/artist/4hprwICrkEC8ule8JvCcJS
+    references:
+    - source: open.spotify.com-artist-4hprwicrkec8ule8jvccjs
+      quote: Listen to Niaz Nawab Songs | Spotify
+      accessed: '2026-11-21'
+      locator: Artist profile
+  - value: https://www.youtube.com/channel/UCQEF0Se3rS5Ym-kPWygITLw
+    references:
+    - source: www.youtube.com-channel-ucqef0se3rs5ym-kpwygitlw
+      quote: Niaz Nawab - YouTube
+      accessed: '2026-11-21'
+      locator: Artist profile
+  - value: https://t.me/niaznawab
+    references:
+    - source: t.me-s-niaznawab
+      quote: Niaz Nawab Music – Telegram
+      accessed: '2026-11-21'
+      locator: Artist profile

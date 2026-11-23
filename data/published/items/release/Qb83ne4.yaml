@@ -1,0 +1,71 @@
+id: Qb83ne4
+type: release
+statements:
+  name:
+  - value:
+      text: Mehvaré Eshqh Axis of Love
+      language: en
+    references:
+    - source: music.apple.com-us-album-afarinesh-1449787858
+      quote: Mehvaré Eshqh Axis of Love
+      accessed: '2026-11-21'
+      locator: Track 1
+  - value:
+      text: Mehvare Eshqh
+      language: en
+    references:
+    - source: music.apple.com-us-album-creation-1715327163
+      quote: Mehvare Eshqh
+      accessed: '2026-11-21'
+      locator: Track 1
+  performer:
+  - value: Qz9hcyk
+    references:
+    - source: music.apple.com-us-album-afarinesh-1449787858
+      quote: Javid Afsari Rad
+      accessed: '2026-11-21'
+      locator: Album billing
+  release date:
+  - value:
+      date: '2009'
+    references:
+    - source: snl.no-javid_afsari_rad
+      quote: Afarinesh (2009)
+      accessed: '2026-11-21'
+      locator: Selected works
+  listen link:
+  - value: https://music.apple.com/us/song/mehvar%C3%A9-eshqh-axis-of-love/1449787859
+    references:
+    - source: music.apple.com-us-album-afarinesh-1449787858
+      quote: Mehvaré Eshqh Axis of Love
+      accessed: '2026-11-21'
+      locator: Track 1
+  - value: https://open.spotify.com/track/5VxLUK4CKBGffgY2UNNwLv
+    references:
+    - source: open.spotify.com-album-65eb9ese5rmer4umjgvfju
+      quote: Mehvaré Eshqh Axis of Love
+      accessed: '2026-11-21'
+      locator: Track 1
+  - value: https://music.apple.com/us/song/mehvare-eshqh/1715327175
+    references:
+    - source: music.apple.com-us-album-creation-1715327163
+      quote: Mehvare Eshqh
+      accessed: '2026-11-21'
+      locator: Track 1
+  - value: https://open.spotify.com/track/45tqBLlViivlRpX1mYCFQD
+    references:
+    - source: open.spotify.com-album-5yzmusd9gklx3kxxklmc50
+      quote: Mehvare Eshqh
+      accessed: '2026-11-21'
+      locator: Alternate issue
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/2e/f6/64/2ef6647c-d317-be4d-def9-3e8e621b0dd2/193483309927.jpg/632x632bb-60.jpg
+    references:
+    - source: music.apple.com-us-album-afarinesh-1449787858
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/2e/f6/64/2ef6647c-d317-be4d-def9-3e8e621b0dd2/193483309927.jpg/632x632bb-60.jpg
+      accessed: '2026-11-21'
+      locator: Apple album cover
+    qualifiers:
+      credit:
+        text: Afarinesh · Apple Music
+        language: en

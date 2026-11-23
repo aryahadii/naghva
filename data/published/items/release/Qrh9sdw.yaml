@@ -1,0 +1,63 @@
+id: Qrh9sdw
+type: release
+statements:
+  listen link:
+  - value: https://sinasalimi.bandcamp.com/track/you-will-not-die-feat-mahnaz-rad-remastered
+    references:
+    - source: sinasalimi.bandcamp.com-track-you-will-not-die-feat-mahnaz-rad-remastered
+      quote: You Will Not Die (feat. Mahnaz Rad) - Remastered | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/you-will-not-die/1740290350
+    references:
+    - source: music.apple.com-us-song-you-will-not-die-1740290350
+      quote: ‎You Will Not Die - Song with Lyrics by Sina Salimi - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/4SEySFlODytxNEw6gFfMio
+    references:
+    - source: open.spotify.com-track-4seysflodytxnew6gffmio
+      quote: You Will Not Die - song and lyrics by Sina Salimi | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/sinasalimi/you-will-not-die-remastered
+    references:
+    - source: soundcloud.com-sinasalimi-you-will-not-die-remastered
+      quote: Stream You Will Not Die - Remastered by Sina  Salimi | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  name:
+  - value:
+      text: You Will Not Die (feat. Mahnaz Rad) - Remastered
+      language: en
+    references:
+    - source: sinasalimi.bandcamp.com-track-you-will-not-die-feat-mahnaz-rad-remastered
+      quote: You Will Not Die (feat. Mahnaz Rad) - Remastered
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  performer:
+  - value: Qt5sbqz
+    references:
+    - source: sinasalimi.bandcamp.com-track-you-will-not-die-feat-mahnaz-rad-remastered
+      quote: You Will Not Die (feat. Mahnaz Rad) - Remastered | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2023-09-06'
+    references:
+    - source: music.apple.com-us-song-you-will-not-die-1740290350
+      quote: September 6, 2023
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a1239151173_10.jpg
+    references:
+    - source: sinasalimi.bandcamp.com-track-you-will-not-die-feat-mahnaz-rad-remastered
+      quote: https://f4.bcbits.com/img/a1239151173_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Sina Salimi on Bandcamp
+        language: en

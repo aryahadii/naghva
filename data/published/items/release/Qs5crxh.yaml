@@ -1,0 +1,59 @@
+id: Qs5crxh
+type: release
+statements:
+  name:
+  - value:
+      text: Faceless Thugs
+      language: en
+    references:
+    - source: music.apple.com-us-album-the-death-of-me-1396963283
+      quote: Faceless Thugs
+      accessed: 2026-11-21
+      locator: Native digital track order
+  performer:
+  - value: Qtqjb47
+    references:
+    - source: music.apple.com-us-album-the-death-of-me-1396963283
+      quote: Faceless Thugs
+      accessed: 2026-11-21
+      locator: Native digital track order
+  listen link:
+  - value: https://music.apple.com/us/song/faceless-thugs/1396963286
+    references:
+    - source: music.apple.com-us-album-the-death-of-me-1396963283
+      quote: Faceless Thugs
+      accessed: 2026-11-21
+      locator: Native digital track order
+  - value: https://open.spotify.com/track/00fvtIfvBMg2SMmjiIp1iH
+    references:
+    - source: open.spotify.com-album-3oyfbj01wwqw2ld31iytqc
+      quote: Faceless Thugs
+      accessed: 2026-11-21
+      locator: Spotify track billing
+  - value: https://youtu.be/o0tjqDfZaak
+    references:
+    - source: youtu.be-o0tjqdfzaak
+      quote: Faceless Thugs
+      accessed: 2026-11-21
+      locator: Track in artist-linked playlist
+  - value: https://soundcloud.com/negar-bouban/faceless-thugs
+    references:
+    - source: soundcloud.com-negar-bouban-faceless-thugs
+      quote: Faceless Thugs ناهموار
+      accessed: 2026-11-21
+      locator: Artist’s own upload title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/3a/66/80/3a66808c-cfe2-b56b-d350-7d5a16b83a08/192914294061.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-the-death-of-me-1396963283
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/3a/66/80/3a66808c-cfe2-b56b-d350-7d5a16b83a08/192914294061.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Digital artwork
+  release date:
+  - value:
+      date: '2018-04-30'
+    references:
+    - source: music.apple.com-us-album-the-death-of-me-1396963283
+      quote: '2018-04-30'
+      accessed: 2026-11-21
+      locator: Digital edition date

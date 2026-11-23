@@ -1,0 +1,64 @@
+id: Qm4my2w
+type: release
+statements:
+  name:
+  - value:
+      text: Once bitten
+      language: en
+    references:
+    - source: music.apple.com-us-album-once-bitten-ep-1748808845
+      quote: Once bitten - EP
+      locator: Artist, publisher and recording credits
+      accessed: '2026-11-21'
+  performer:
+  - value: Qs8vmza
+    references:
+    - source: music.apple.com-us-album-once-bitten-ep-1748808845
+      quote: Ferran Rico
+      locator: Artist, publisher and recording credits
+      accessed: '2026-11-21'
+  - value: Q3ytwxm
+    references:
+    - source: open.spotify.com-embed-album-4crf9snfmfsdzkkk6jpvu4
+      quote: Mahya Hamedi
+      locator: Artist, publisher and recording credits
+      accessed: '2026-11-21'
+  release type:
+  - value: ep
+    references:
+    - source: music.apple.com-us-album-once-bitten-ep-1748808845
+      quote: Once bitten - EP
+      locator: Artist, publisher and recording credits
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a8/bf/ef/a8bfef79-030f-4caa-0e09-c81d72b3648b/198588190319.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-once-bitten-ep-1748808845
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a8/bf/ef/a8bfef79-030f-4caa-0e09-c81d72b3648b/198588190319.jpg/1200x630bb.jpg
+      locator: Artist, publisher and recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Once bitten · Apple Music
+        language: en
+  release date:
+  - value:
+      date: '2024-06-21'
+    references:
+    - source: music.apple.com-us-album-once-bitten-ep-1748808845
+      quote: '2024-06-21'
+      locator: Artist, publisher and recording credits
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://music.apple.com/us/album/once-bitten-ep/1748808845
+    references:
+    - source: music.apple.com-us-album-once-bitten-ep-1748808845
+      quote: Once bitten - EP
+      locator: Artist, publisher and recording credits
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/album/4CrF9SNfMfSDzkkk6jPVU4
+    references:
+    - source: open.spotify.com-embed-album-4crf9snfmfsdzkkk6jpvu4
+      quote: Once bitten
+      locator: Artist, publisher and recording credits
+      accessed: '2026-11-21'

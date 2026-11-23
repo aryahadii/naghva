@@ -1,0 +1,75 @@
+id: Qhxrgtk
+type: release
+statements:
+  name:
+  - value:
+      text: Have mercy, for crying out loud, O lord of the world!
+      language: en
+    references:
+    - source: flamingpines.bandcamp.com-track-have-mercy-for-crying-out-loud-o-lord-of-the-world
+      quote: Have mercy, for crying out loud, O lord of the world! | Pouya Pour-Amin | Flaming Pines
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qr62rq7
+    references:
+    - source: flamingpines.bandcamp.com-album-prison-episodes
+      quote: 'E.Doublebass : Pouya Pour-Amin'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: double bass
+  contributor:
+  - value: Qr62rq7
+    references:
+    - source: flamingpines.bandcamp.com-album-prison-episodes
+      quote: All music composed by Pouya Pour-Amin
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: composer
+  listen link:
+  - value: https://flamingpines.bandcamp.com/track/have-mercy-for-crying-out-loud-o-lord-of-the-world
+    references:
+    - source: flamingpines.bandcamp.com-track-have-mercy-for-crying-out-loud-o-lord-of-the-world
+      quote: Have mercy, for crying out loud, O lord of the world! | Pouya Pour-Amin | Flaming Pines
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1530055728
+    references:
+    - source: music.apple.com-us-song-1530055728
+      quote: ‎Have Mercy, for Crying Out Loud, O Lord of the World! - Song with Lyrics by Pouya Pour-Amin - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/6HjgcJ4EIDwyCHgMjVdOiA
+    references:
+    - source: open.spotify.com-track-6hjgcj4eidwychgmjvdoia
+      quote: Have Mercy, for Crying Out Loud, O Lord of the World! - song and lyrics by Pouya Pour-Amin | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/flaming-pines/have-mercy-for-crying-out-loud-o-lord-of-the-world-pouya-pour-amin-prison-episodes-june-26
+    references:
+    - source: soundcloud.com-flaming-pines-have-mercy-for-crying-out-loud-o-lord-of-the-world-pouya-pour-amin-prison-episodes-june-26
+      quote: Stream Have mercy, for crying out loud, O lord of the world! - Pouya Pour-Amin - Prison Episodes - June 26 by Flaming Pines
+        | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a1256544936_10.jpg
+    references:
+    - source: flamingpines.bandcamp.com-track-have-mercy-for-crying-out-loud-o-lord-of-the-world
+      quote: https://f4.bcbits.com/img/a1256544936_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original artist or label edition
+        language: en
+  release date:
+  - value:
+      date: '2019-06-26'
+    references:
+    - source: flamingpines.bandcamp.com-album-prison-episodes
+      quote: released June 26, 2019
+      accessed: '2026-11-21'
+      locator: Published date

@@ -1,0 +1,80 @@
+id: Qac53cr
+type: release
+statements:
+  name:
+  - value:
+      text: Dust Symphony No. 5
+      language: en
+    references:
+    - source: flamingpines.bandcamp.com-track-dust-symphony-no-5
+      quote: Dust Symphony No. 5 | Ava Rasti | Flaming Pines
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qks2dfk
+    references:
+    - source: flamingpines.bandcamp.com-track-dust-symphony-no-5
+      quote: Dust Symphony No. 5 | Ava Rasti | Flaming Pines
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://flamingpines.bandcamp.com/track/dust-symphony-no-5
+    references:
+    - source: flamingpines.bandcamp.com-track-dust-symphony-no-5
+      quote: Dust Symphony No. 5 | Ava Rasti | Flaming Pines
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1701483689
+    references:
+    - source: music.apple.com-us-song-1701483689
+      quote: ‎Dust Symphony No.5 - Song with Lyrics by Ava Rasti - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/5vhImaOr1JKSaEeKxHtsC8
+    references:
+    - source: open.spotify.com-track-5vhimaor1jksaeekxhtsc8
+      quote: Dust Symphony No.5 - song and lyrics by Ava Rasti | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/avaarasti/dust-symphony-no5
+    references:
+    - source: soundcloud.com-avaarasti-dust-symphony-no5
+      quote: Stream Dust Symphony No.5 by Ava Rasti | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  contributor:
+  - value: Qgncp5r
+    references:
+    - source: flamingpines.bandcamp.com-album-ginestra
+      quote: Mastered by Nima Aghiani
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: mastering engineer
+  - value: Q9rnctv
+    references:
+    - source: flamingpines.bandcamp.com-album-ginestra
+      quote: Mixed by Nima Pourkarimi
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: mixing engineer
+  cover art:
+  - value: https://f4.bcbits.com/img/a4254894153_10.jpg
+    references:
+    - source: flamingpines.bandcamp.com-track-dust-symphony-no-5
+      quote: https://f4.bcbits.com/img/a4254894153_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Alberto Papparotto
+        language: en
+  release date:
+  - value:
+      date: '2023-07-28'
+    references:
+    - source: flamingpines.bandcamp.com-album-ginestra
+      quote: released July 28, 2023
+      accessed: '2026-11-21'
+      locator: Published date

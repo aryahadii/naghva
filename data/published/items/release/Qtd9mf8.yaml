@@ -1,0 +1,62 @@
+id: Qtd9mf8
+type: release
+statements:
+  name:
+  - value:
+      text: Command+V3
+      language: en
+    references:
+    - source: kopirecs.bandcamp.com-album-command-v3
+      quote: Command+V3 | Idlefon / Pher | Kopi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qjjdrek
+    references:
+    - &id001
+      source: kopirecs.bandcamp.com-album-command-v3
+      quote: Command+V3 | Idlefon / Pher | Kopi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  release type:
+  - value: ep
+    references:
+    - *id001
+  listen link:
+  - value: https://kopirecs.bandcamp.com/album/command-v3
+    references:
+    - source: kopirecs.bandcamp.com-album-command-v3
+      quote: Command+V3 | Idlefon / Pher | Kopi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/command-v3-single/1538589059
+    references:
+    - source: music.apple.com-us-album-command-v3-single-1538589059
+      quote: ‎Command+V3 - Single - Album by Idlefon & Pher - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/album/6eJjc9LwAY1oa8UPbjlAcT
+    references:
+    - source: open.spotify.com-album-6ejjc9lway1oa8upbjlact
+      quote: Listen to Command+V3 - Compilation by Idlefon | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a2622783695_10.jpg
+    references:
+    - source: kopirecs.bandcamp.com-album-command-v3
+      quote: https://f4.bcbits.com/img/a2622783695_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original publisher artwork
+        language: en
+  release date:
+  - value:
+      date: '2020-11-01'
+    references:
+    - source: kopirecs.bandcamp.com-album-command-v3
+      quote: released November 1, 2020
+      accessed: '2026-11-21'
+      locator: Published date

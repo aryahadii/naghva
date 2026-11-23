@@ -1,0 +1,80 @@
+id: Q7q38gc
+type: release
+statements:
+  name:
+  - value:
+      text: BIKH
+      language: en
+    references:
+    - source: temp-illusion.bandcamp.com-album-bikh
+      quote: BIKH
+      accessed: '2026-11-21'
+      locator: Release heading
+  performer:
+  - value: Q8tq6bc
+    references:
+    - source: temp-illusion.bandcamp.com-album-bikh
+      quote: BIKH | Temp-Illusion
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2025-10-24'
+    references:
+    - source: temp-illusion.bandcamp.com-album-bikh
+      quote: released October 24, 2025
+      accessed: '2026-11-21'
+      locator: Release credits
+  listen link:
+  - value: https://temp-illusion.bandcamp.com/album/bikh
+    references:
+    - source: temp-illusion.bandcamp.com-album-bikh
+      quote: BIKH | Temp-Illusion
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/bikh-ep/1844825004
+    references:
+    - source: music.apple.com-us-album-bikh-ep-1844825004
+      quote: ‎BIKH - EP - Album by Temp-Illusion - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a2991868142_10.jpg
+    references:
+    - source: temp-illusion.bandcamp.com-album-bikh
+      quote: https://f4.bcbits.com/img/a2991868142_10.jpg
+      accessed: '2026-11-21'
+      locator: Full cover image linked from release page
+    - source: temp-illusion.bandcamp.com-album-bikh
+      quote: manuel_moreno_cortes
+      accessed: '2026-11-21'
+      locator: Release credits
+    qualifiers:
+      credit:
+        text: manuel_moreno_cortes
+        language: en
+  published by:
+  - value: Qqf5rdd
+    references:
+    - source: temp-illusion.bandcamp.com-album-bikh
+      quote: 2025 Paradoxe Club
+      accessed: '2026-11-21'
+      locator: Release credits
+  contributor:
+  - value: Q8tq6bc
+    references:
+    - source: temp-illusion.bandcamp.com-album-bikh
+      quote: All tracks written and produced by Temp-Illusion
+      accessed: '2026-11-21'
+      locator: Release credits
+    qualifiers:
+      role:
+      - producer
+      - composer
+  release type:
+  - value: ep
+    references:
+    - source: music.apple.com-us-album-bikh-ep-1844825004
+      quote: ‎BIKH - EP - Album by Temp-Illusion - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title

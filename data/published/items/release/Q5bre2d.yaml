@@ -1,0 +1,83 @@
+id: Q5bre2d
+type: release
+statements:
+  name:
+  - value:
+      text: Run run run
+      language: en
+    references:
+    - source: finchesband.bandcamp.com-track-run-run-run
+      quote: Run run run | The Finches
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qnw83g7
+    references:
+    - source: finchesband.bandcamp.com-track-run-run-run
+      quote: Run run run | The Finches
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qb5hnjh
+    references:
+    - source: www.zhinardalan.com
+      quote: vocalist and rhythm guitarist of The Finches
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Qks2dfk
+    references:
+    - source: flamingpines.bandcamp.com-album-ginestra
+      quote: From 2015 till 2020 she played bass guitar in an underground post-punk girl band in Tehran, Iran.
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: bass
+  listen link:
+  - value: https://finchesband.bandcamp.com/track/run-run-run
+    references:
+    - source: finchesband.bandcamp.com-track-run-run-run
+      quote: Run run run | The Finches
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/52c3lvVsB0PtmMfwcpZp6O
+    references:
+    - source: open.spotify.com-track-52c3lvvsb0ptmmfwcpzp6o
+      quote: Run Run Run - song and lyrics by The Finches | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1485164886
+    references:
+    - source: music.apple.com-us-song-1485164886
+      quote: ‎Run Run Run - Song with Lyrics by The Finches - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/thefinchesband/run-run-run
+    references:
+    - source: soundcloud.com-thefinchesband-run-run-run
+      quote: Stream Run run run by The Finches | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://www.youtube.com/watch?v=Zl5IDAOUJZE
+    references:
+    - source: www.youtube.com-watch-v-zl5idaoujze
+      quote: The Finches - Run run run official music video
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a0026748332_10.jpg
+    references:
+    - source: finchesband.bandcamp.com-track-run-run-run
+      quote: https://f4.bcbits.com/img/a0026748332_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Publisher artwork
+        language: en
+  release date:
+  - value:
+      date: '2019-03-01'
+    references:
+    - source: finchesband.bandcamp.com-track-run-run-run
+      quote: released March 1, 2019
+      accessed: '2026-11-21'
+      locator: Published date

@@ -1,0 +1,84 @@
+id: Qk2jwcb
+type: release
+statements:
+  name:
+  - value:
+      text: Strade
+      language: en
+    references:
+    - source: open.spotify.com-album-2xswtoipyi2zfk1avf1k0m
+      quote: Strade
+      accessed: '2026-11-21'
+      locator: Spotify heading
+    - source: music.apple.com-us-album-strade-single-1755506264
+      quote: Strade - Single
+      accessed: '2026-11-21'
+      locator: Apple Music edition
+  performer:
+  - value: Qkvdrbs
+    references:
+    - source: music.apple.com-us-album-strade-single-1755506264
+      quote: Hysterrae
+      accessed: '2026-11-21'
+      locator: Artist billing
+  listen link:
+  - value: https://music.apple.com/us/album/strade-single/1755506264
+    references:
+    - source: music.apple.com-us-album-strade-single-1755506264
+      quote: Strade - Single
+      accessed: '2026-11-21'
+      locator: Apple Music edition
+  - value: https://open.spotify.com/album/2xSWtOipyi2zfk1AVf1k0m
+    references:
+    - source: open.spotify.com-album-2xswtoipyi2zfk1avf1k0m
+      quote: Strade
+      accessed: '2026-11-21'
+      locator: Spotify heading
+  - value: https://music.apple.com/us/song/strade/1755506265
+    references:
+    - source: music.apple.com-us-album-strade-single-1755506264
+      quote: Strade
+      accessed: '2026-11-21'
+      locator: Single track
+  - value: https://open.spotify.com/track/1B4Gu0y474aE8HiFiYFYJR
+    references:
+    - source: open.spotify.com-album-2xswtoipyi2zfk1avf1k0m
+      quote: Strade
+      accessed: '2026-11-21'
+      locator: Single track
+  - value: https://www.youtube.com/watch?v=x0HFGyn-iTc
+    references:
+    - source: www.youtube.com-watch-v-x0hfgyn-itc
+      quote: Hysterrae  - Strade
+      accessed: '2026-11-21'
+      locator: Artist channel, YouTube oEmbed title
+    - source: www.youtube.com-watch-v-x0hfgyn-itc
+      quote: Hysterrae
+      accessed: '2026-11-21'
+      locator: Publishing channel
+  release date:
+  - value:
+      date: '2024-07-04'
+    references:
+    - source: music.apple.com-us-album-strade-single-1755506264
+      quote: '2024-07-04'
+      accessed: '2026-11-21'
+      locator: Catalogue release date
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-strade-single-1755506264
+      quote: Strade - Single
+      accessed: '2026-11-21'
+      locator: Apple Music edition
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f5/d3/41/f5d341c9-4e15-4dd7-c66d-71fdc07b7b6d/artwork.jpg/1200x630bb.jpg
+    qualifiers:
+      credit:
+        text: Apple Music edition artwork
+        language: en
+    references:
+    - source: music.apple.com-us-album-strade-single-1755506264
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f5/d3/41/f5d341c9-4e15-4dd7-c66d-71fdc07b7b6d/artwork.jpg/1200x630bb.jpg
+      accessed: '2026-11-21'
+      locator: Single artwork

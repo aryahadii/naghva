@@ -1,0 +1,49 @@
+id: Qaqcrdk
+type: release
+statements:
+  name:
+  - value:
+      text: Curves
+      language: en
+    references:
+    - &id001
+      source: umchunga.bandcamp.com-track-curves
+      quote: Curves | Umchunga
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Q9rnctv
+    references:
+    - *id001
+  listen link:
+  - value: https://umchunga.bandcamp.com/track/curves
+    references:
+    - source: umchunga.bandcamp.com-track-curves
+      quote: Curves | Umchunga
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://hibernate-archives.bandcamp.com/track/curves
+    references:
+    - source: hibernate-archives.bandcamp.com-track-curves
+      quote: Curves | Umchunga | hibernate archives
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a2681560968_10.jpg
+    references:
+    - source: umchunga.bandcamp.com-track-curves
+      quote: https://f4.bcbits.com/img/a2681560968_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Azin Nafarhaghighi
+        language: en
+  release date:
+  - value:
+      date: '2015-07-13'
+    references:
+    - source: umchunga.bandcamp.com-track-curves
+      quote: released July 13, 2015
+      accessed: '2026-11-21'
+      locator: Published date

@@ -1,0 +1,61 @@
+id: Qfx3hvm
+type: release
+statements:
+  name:
+  - value:
+      text: Local Park
+      language: en
+    references:
+    - source: temp-illusion.bandcamp.com-track-local-park
+      quote: Local Park
+      accessed: '2026-11-21'
+      locator: Track heading
+  performer:
+  - value: Q8tq6bc
+    references:
+    - source: temp-illusion.bandcamp.com-track-local-park
+      quote: Local Park | Temp-Illusion
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2026-09-15'
+    references:
+    - source: temp-illusion.bandcamp.com-track-local-park
+      quote: released September 15, 2026
+      accessed: '2026-11-21'
+      locator: Release credits
+  listen link:
+  - value: https://temp-illusion.bandcamp.com/track/local-park
+    references:
+    - source: temp-illusion.bandcamp.com-track-local-park
+      quote: Local Park | Temp-Illusion
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/local-park/6812451901
+    references:
+    - source: music.apple.com-us-song-local-park-6812451901
+      quote: ‎Local Park - Song with Lyrics by Temp-Illusion - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/2drl8DTewAeeNiEhzoj7kP
+    references:
+    - source: open.spotify.com-track-2drl8dtewaeeniehzoj7kp
+      quote: Local Park - song and lyrics by Temp-Illusion | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a2541378858_10.jpg
+    references:
+    - source: temp-illusion.bandcamp.com-track-local-park
+      quote: https://f4.bcbits.com/img/a2541378858_10.jpg
+      accessed: '2026-11-21'
+      locator: Full artwork linked on the track page
+    - source: temp-illusion.bandcamp.com-album-vittrine
+      quote: lil.evian
+      accessed: '2026-11-21'
+      locator: Release credits
+    qualifiers:
+      credit:
+        text: lil.evian
+        language: en

@@ -1,0 +1,19 @@
+id: Q7bhbsw
+type: person
+statements:
+  name:
+  - value:
+      text: Kian Farshadi
+      language: en
+    references:
+    - &id001
+      source: iranian.com-2017-09-07-shen-true-iranian-rock-band
+      quote: Babak Namvar (violin & piano) JY Andre (drums), and Kian Farshadi (bass)
+      accessed: '2026-11-21'
+      locator: Artist biography, dated catalogue or interview
+  member of:
+  - value: Qavhs3y
+    references:
+    - *id001
+    qualifiers:
+      role: bass

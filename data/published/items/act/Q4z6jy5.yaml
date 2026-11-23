@@ -1,0 +1,31 @@
+id: Q4z6jy5
+type: act
+statements:
+  name:
+  - value:
+      text: Shahrzad Ensemble
+      language: en
+    references:
+    - source: shahrzad-ensemble-casaorig
+      quote: Shahrzad Ensemble
+      accessed: '2026-11-21'
+      locator: Performer or presenter archive
+  - value:
+      text: گروه شهرزاد
+      language: fa
+    references:
+    - source: shahrzad-ensemble-iran
+      quote: گروه شهرزاد به سرپرستی آذر زرگریان
+      accessed: '2026-11-21'
+      locator: Performer or presenter archive
+  image:
+  - value: https://i.ytimg.com/vi/wuMkhp0FM4k/hqdefault.jpg
+    references:
+    - source: shahrzad-film-wumkhp0fm4k
+      quote: https://i.ytimg.com/vi/wuMkhp0FM4k/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Publisher performance still
+    qualifiers:
+      credit:
+        text: casadellacultura, original performance film
+        language: en

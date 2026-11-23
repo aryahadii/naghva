@@ -1,0 +1,47 @@
+id: Q8kd6k4
+type: release
+statements:
+  name:
+  - value:
+      text: Become the Mountain
+      language: en
+    references:
+    - source: music.apple.com-us-album-become-the-mountain-single-1539309433
+      quote: Become the Mountain - Single
+      accessed: 2026-11-21
+      locator: Album heading
+  performer:
+  - value: Qbqnmbj
+    references:
+    - source: music.apple.com-us-album-become-the-mountain-single-1539309433
+      quote: Fared Shafinury
+      accessed: 2026-11-21
+      locator: Album artist
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/2f/59/78/2f59785c-9b2c-2a5a-4b4c-c8074182bd3a/195448749168.jpg/632x632bb-60.jpg
+    references:
+    - source: music.apple.com-us-album-become-the-mountain-single-1539309433
+      quote: Become the Mountain - Single
+      accessed: 2026-11-21
+      locator: Album heading
+  release date:
+  - value:
+      date: '2020-11-01'
+    references:
+    - source: music.apple.com-us-album-become-the-mountain-single-1539309433
+      quote: '2020-11-01'
+      accessed: 2026-11-21
+      locator: Release date
+  listen link:
+  - value: https://music.apple.com/us/album/become-the-mountain-single/1539309433
+    references:
+    - source: music.apple.com-us-album-become-the-mountain-single-1539309433
+      quote: Become the Mountain - Single
+      accessed: 2026-11-21
+      locator: Album heading
+  - value: https://music.apple.com/us/song/become-the-mountain/1539309434
+    references:
+    - source: music.apple.com-us-album-become-the-mountain-single-1539309433
+      quote: Become the Mountain
+      accessed: 2026-11-21
+      locator: Track listing

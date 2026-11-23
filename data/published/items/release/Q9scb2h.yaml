@@ -1,0 +1,41 @@
+id: Q9scb2h
+type: release
+statements:
+  name:
+  - value:
+      text: Night Shadow
+      language: en
+    references:
+    - source: music.apple.com-us-album-columbus-ep-1511490369
+      quote: Night Shadow
+      accessed: 2026-11-21
+      locator: Track listing
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/a6/06/32/a6063280-aae9-acb2-16d4-8bba22013508/859735514500_cover.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-columbus-ep-1511490369
+      quote: Columbus - EP
+      accessed: 2026-11-21
+      locator: Release heading
+  release date:
+  - value:
+      date: '2019-05-08'
+    references:
+    - source: music.apple.com-us-album-columbus-ep-1511490369
+      quote: '2019-05-08'
+      accessed: 2026-11-21
+      locator: Edition release date
+  performer:
+  - value: Qwh5yn8
+    references:
+    - source: music.apple.com-us-album-columbus-ep-1511490369
+      quote: Ehsan Matoori
+      accessed: 2026-11-21
+      locator: Release artist
+  listen link:
+  - value: https://music.apple.com/us/song/night-shadow/1511490656
+    references:
+    - source: music.apple.com-us-album-columbus-ep-1511490369
+      quote: Night Shadow
+      accessed: 2026-11-21
+      locator: Track listing

@@ -1,0 +1,42 @@
+id: Qzfcfre
+type: act
+statements:
+  name:
+  - value:
+      text: Psychic Bloom
+      language: en
+    references:
+    - source: psychicbloom.bandcamp.com-music
+      quote: Psychic Bloom
+      accessed: 2026-11-21
+      locator: Artist name
+  image:
+  - value: https://i.scdn.co/image/ab6761610000e5ebe12d6741016e21f769a01e8e
+    qualifiers:
+      credit:
+        text: Psychic Bloom, Spotify artist profile
+        language: en
+    references:
+    - source: open.spotify.com-artist-3gnvv8s9qthwvbtxiulk0y
+      quote: https://i.scdn.co/image/ab6761610000e5ebe12d6741016e21f769a01e8e
+      accessed: 2026-11-21
+      locator: Group portrait
+  profile link:
+  - value: https://psychicbloom.bandcamp.com/music
+    references:
+    - source: psychicbloom.bandcamp.com-music
+      quote: Psychic Bloom
+      accessed: 2026-11-21
+      locator: Native artist profile
+  - value: https://music.apple.com/us/artist/psychic-bloom/1303789564
+    references:
+    - source: music.apple.com-us-artist-psychic-bloom-1303789564
+      quote: Psychic Bloom
+      accessed: 2026-11-21
+      locator: Native artist profile
+  - value: https://open.spotify.com/artist/3gnvv8S9QthwVbtxiuLk0y
+    references:
+    - source: open.spotify.com-artist-3gnvv8s9qthwvbtxiulk0y
+      quote: Psychic Bloom
+      accessed: 2026-11-21
+      locator: Native artist profile

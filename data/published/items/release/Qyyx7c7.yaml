@@ -1,0 +1,55 @@
+id: Qyyx7c7
+type: release
+statements:
+  name:
+  - value:
+      text: Mesle Ham
+      language: en
+    references:
+    - source: youtu.be-b-s6lfqe_pi
+      quote: Justina - Mesle Ham | OFFICIAL TRACK جاستینا - مثل هم
+      accessed: 2026-11-21
+      locator: Artist channel video title
+  - value:
+      text: مثل هم
+      language: fa
+    references:
+    - source: youtu.be-b-s6lfqe_pi
+      quote: Justina - Mesle Ham | OFFICIAL TRACK جاستینا - مثل هم
+      accessed: 2026-11-21
+      locator: Artist channel video title
+  performer:
+  - value: Q2fdqjp
+    references:
+    - source: youtu.be-b-s6lfqe_pi
+      quote: Justina - Mesle Ham | OFFICIAL TRACK جاستینا - مثل هم
+      accessed: 2026-11-21
+      locator: Artist channel video title
+  listen link:
+  - value: https://youtu.be/b-s6lFqe_PI
+    references:
+    - source: youtu.be-b-s6lfqe_pi
+      quote: Justina - Mesle Ham | OFFICIAL TRACK جاستینا - مثل هم
+      accessed: 2026-11-21
+      locator: Artist channel video title
+  - value: https://music.apple.com/us/song/mesle-ham/1691072087
+    references:
+    - source: music.apple.com-us-album-mesle-ham-single-1691071811
+      quote: Mesle Ham
+      accessed: 2026-11-21
+      locator: Apple recording name and billing
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/83/90/5c/83905c3f-ce8a-23f1-f94e-e2357ed6e92d/cover.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-mesle-ham-single-1691071811
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/83/90/5c/83905c3f-ce8a-23f1-f94e-e2357ed6e92d/cover.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Apple edition artwork
+  release date:
+  - value:
+      date: '2016-05-20'
+    references:
+    - source: music.apple.com-us-album-mesle-ham-single-1691071811
+      quote: '2016-05-20'
+      accessed: 2026-11-21
+      locator: Digital edition release date

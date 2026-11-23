@@ -11,6 +11,8 @@ publisher: دویچه وله؛ بازنشر گویا
 issued:
   date: '1384-09-27'
   calendar: jalali
+about:
+- Kasra Saboktakin
 ---
 
 > بابک و شاهرخ از گروه جدا شدند
@@ -24,3 +26,11 @@ Answer on choosing Hafez and Rumi: poems read before composing. Read 2026-11-13.
 > کنتراستی که این دو باهم دارند
 
 Answer on Beshno Az Ney, contrast between its radio-like opening and subsequent full arrangement. Read 2026-11-13.
+
+> تنها کسی که در تمام قطعات همکاری داشت، کسری سبکتکین بود که بیس لاین همه‌ی قطعات را زد.
+
+Contemporary interview on Aloodeh, read 2026-11-21.
+
+> نوازنده گیتار بیس گروه
+
+Artist or concert presenter credits, read 2026-11-21.

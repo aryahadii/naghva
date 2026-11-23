@@ -1,0 +1,69 @@
+id: Q5j8bzd
+type: release
+statements:
+  name:
+  - value:
+      text: Keshaleh-Ha
+      language: en
+    references:
+    - source: open.spotify.com-embed-album-2sdduh2zk70d1skaflvsyo
+      quote: Keshaleh-Ha
+      accessed: '2026-11-21'
+      locator: Named track
+  performer:
+  - value: Qt6wjbg
+    qualifiers:
+      role:
+      - vocals
+    references:
+    - source: www.youtube.com-watch-v-0x5trmfhszs
+      quote: Keshaleh Ha by Mohsen Namjoo
+      accessed: '2026-11-21'
+      locator: Original artist video
+  - value: Qa6r74t
+    qualifiers:
+      role:
+      - bass
+    references:
+    - source: www.youtube.com-watch-v-0x5trmfhszs
+      quote: 'Kasra Saboktakin: Bass'
+      accessed: '2026-11-21'
+      locator: Artist’s Keshaleh Ha session credits
+  listen link:
+  - value: https://open.spotify.com/track/1yUsbmVRni8Eb3ITJHJUY4
+    references:
+    - source: open.spotify.com-embed-album-2sdduh2zk70d1skaflvsyo
+      quote: spotify:track:1yUsbmVRni8Eb3ITJHJUY4
+      accessed: '2026-11-21'
+      locator: Spotify’s original Motantan track
+  - value: https://www.youtube.com/watch?v=0X5tRMfhSzs
+    references:
+    - source: www.youtube.com-watch-v-0x5trmfhszs
+      quote: 'Kasra Saboktakin: Bass'
+      accessed: '2026-11-21'
+      locator: Artist’s Keshaleh Ha session credits
+  - value: https://music.apple.com/us/song/keshaleh-ha/1502162084
+    references:
+    - source: music.apple.com-us-album-motantan-1502162077-d6430986465b
+      quote: https://music.apple.com/us/song/keshaleh-ha/1502162084
+      accessed: '2026-11-21'
+      locator: Apple track link
+  release date:
+  - value:
+      date: '2020-03-04'
+    references:
+    - source: music.apple.com-us-album-motantan-1502162077-d6430986465b
+      quote: '2020-03-04'
+      accessed: '2026-11-21'
+      locator: Digital issue date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/d1/f9/db/d1f9dbe2-9e39-ac44-d2f6-412fa779e9d9/676868225055.jpg/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Digital distributor artwork
+        language: en
+    references:
+    - source: music.apple.com-us-album-motantan-1502162077-d6430986465b
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/d1/f9/db/d1f9dbe2-9e39-ac44-d2f6-412fa779e9d9/676868225055.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Original release image

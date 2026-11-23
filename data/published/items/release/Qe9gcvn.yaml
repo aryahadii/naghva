@@ -1,0 +1,49 @@
+id: Qe9gcvn
+type: release
+statements:
+  name:
+  - value:
+      text: مایکل جکسون اصفهانی
+      language: fa
+    references:
+    - source: www.youtube.com-watchv-n8hqfcf3894
+      quote: مایکل جکسون اصفهانی
+      accessed: '2026-11-21'
+      locator: Official upload title
+  performer:
+  - value: Qzhgpkw
+    references:
+    - source: www.youtube.com-watchv-n8hqfcf3894
+      quote: مایکل جکسون اصفهانی
+      accessed: '2026-11-21'
+      locator: Official upload title
+    - source: www.youtube.com-watchv-n8hqfcf3894
+      quote: Babak Rajabi
+      accessed: '2026-11-21'
+      locator: Uploading artist
+  listen link:
+  - value: https://www.youtube.com/watch?v=n8hqFcf3894
+    references:
+    - source: www.youtube.com-watchv-n8hqfcf3894
+      quote: مایکل جکسون اصفهانی
+      accessed: '2026-11-21'
+      locator: Official upload title
+  release date:
+  - value:
+      date: '2023-12-20'
+    references:
+    - source: www.youtube.com-watchv-n8hqfcf3894
+      quote: '20231220'
+      accessed: '2026-11-21'
+      locator: Video publication date, YYYYMMDD
+  cover art:
+  - value: https://i.ytimg.com/vi/n8hqFcf3894/maxresdefault.jpg
+    references:
+    - source: www.youtube.com-watchv-n8hqfcf3894
+      quote: https://i.ytimg.com/vi/n8hqFcf3894/maxresdefault.jpg
+      accessed: '2026-11-21'
+      locator: Release image URL
+    qualifiers:
+      credit:
+        text: Babak Rajabi · YouTube
+        language: en

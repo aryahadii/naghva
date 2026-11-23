@@ -1,0 +1,32 @@
+id: Q9b4bsj
+type: release
+statements:
+  name:
+  - value:
+      text: Nakhoda
+      language: en
+    references:
+    - &id001
+      source: soundcloud.com-saeid-shanbehzadeh-nakhoda
+      quote: Nakhoda
+      accessed: '2026-11-21'
+      locator: Artist’s SoundCloud recording
+  performer:
+  - value: Qyd93n9
+    references:
+    - *id001
+  listen link:
+  - value: https://soundcloud.com/saeid-shanbehzadeh/nakhoda
+    references:
+    - *id001
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-000122832757-1vvbcm-large.jpg
+    references:
+    - source: soundcloud.com-saeid-shanbehzadeh-nakhoda
+      quote: https://i1.sndcdn.com/artworks-000122832757-1vvbcm-large.jpg
+      accessed: '2026-11-21'
+      locator: Artist file artwork
+    qualifiers:
+      credit:
+        text: Saeid Shanbehzadeh / SoundCloud
+        language: en

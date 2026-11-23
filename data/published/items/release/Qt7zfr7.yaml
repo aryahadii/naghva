@@ -1,0 +1,79 @@
+id: Qt7zfr7
+type: release
+statements:
+  listen link:
+  - value: https://sinasalimi.bandcamp.com/track/the-street-i-do-not-know
+    references:
+    - source: sinasalimi.bandcamp.com-track-the-street-i-do-not-know
+      quote: The Street I Do Not Know | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/the-street-i-do-not-know/751555750
+    references:
+    - source: music.apple.com-us-song-the-street-i-do-not-know-751555750
+      quote: ‎The Street I Do Not Know - Song with Lyrics by Sina Salimi - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/72WhRcZNBLSsqIxFPX6P8u
+    references:
+    - source: open.spotify.com-track-72whrcznblssqixfpx6p8u
+      quote: The Street I Do Not Know - song and lyrics by Sina Salimi | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://www.youtube.com/watch?v=ou40HJq0tsQ
+    references:
+    - source: www.youtube.com-watch-v-ou40hjq0tsq
+      quote: Sina Salimi - The Street I Do Not Know
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/sinasalimi/the-street-i-do-not-know
+    references:
+    - source: soundcloud.com-sinasalimi-the-street-i-do-not-know
+      quote: Stream خیابانی که نمی شناسمش - The Street I Do Not Know by Sina  Salimi | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  name:
+  - value:
+      text: The Street I Do Not Know
+      language: en
+    references:
+    - source: sinasalimi.bandcamp.com-track-the-street-i-do-not-know
+      quote: The Street I Do Not Know
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  performer:
+  - value: Qt5sbqz
+    references:
+    - source: sinasalimi.bandcamp.com-track-the-street-i-do-not-know
+      quote: The Street I Do Not Know | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qxyynn6
+    references:
+    - source: sinasalimi.bandcamp.com-album-perhaps-there
+      quote: 'Accordion (Tracks #1,5,6,9) ...... Robbie Grunwald'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  release date:
+  - value:
+      date: '2013-11-02'
+    references:
+    - source: sinasalimi.bandcamp.com-album-perhaps-there
+      quote: released November 2, 2013
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a0117575761_10.jpg
+    references:
+    - source: sinasalimi.bandcamp.com-track-the-street-i-do-not-know
+      quote: https://f4.bcbits.com/img/a0117575761_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    - source: sinasalimi.bandcamp.com-album-perhaps-there
+      quote: 'Album Design: KAJART'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: KAJART
+        language: en

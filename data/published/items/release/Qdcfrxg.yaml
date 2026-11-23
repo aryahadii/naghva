@@ -1,0 +1,82 @@
+id: Qdcfrxg
+type: release
+statements:
+  name:
+  - value:
+      text: That's All I Want
+      language: en
+    references:
+    - source: music.apple.com-us-album-endeavor-1531973256
+      quote: That's All I Want
+      accessed: '2026-11-21'
+      locator: Original edition track 8
+  performer:
+  - value: Qvfz6ey
+    references:
+    - source: music.apple.com-us-album-endeavor-1531973256
+      quote: That's All I Want
+      accessed: '2026-11-21'
+      locator: Original edition track 8
+  listen link:
+  - value: https://music.apple.com/us/song/thats-all-i-want/1531973273
+    references:
+    - source: music.apple.com-us-album-endeavor-1531973256
+      quote: https://music.apple.com/us/song/thats-all-i-want/1531973273
+      accessed: '2026-11-21'
+      locator: Unique Apple song URL
+  - value: https://music.apple.com/us/album/thats-all-i-want-single/1547660444
+    references:
+    - source: music.apple.com-us-album-thats-all-i-want-single-1547660444
+      quote: That's All I Want - Single
+      accessed: '2026-11-21'
+      locator: Official digital issue
+  - value: https://music.apple.com/us/song/thats-all-i-want/1547660458
+    references:
+    - source: music.apple.com-us-album-thats-all-i-want-single-1547660444
+      quote: https://music.apple.com/us/song/thats-all-i-want/1547660458
+      accessed: '2026-11-21'
+      locator: Unique Apple song URL
+  - value: https://themuckersband.bandcamp.com/track/thats-all-i-want
+    references:
+    - source: themuckersband.bandcamp.com-track-thats-all-i-want
+      quote: That's All I Want
+      accessed: '2026-11-21'
+      locator: Original artist issue
+  - value: https://soundcloud.com/themuckers/thats-all-i-want
+    references:
+    - source: soundcloud.com-themuckers-thats-all-i-want
+      quote: That's All I Want
+      accessed: '2026-11-21'
+      locator: SoundCloud track
+  - value: https://open.spotify.com/track/1Gmj3mNAFN0i4jVrUdPqfJ
+    references:
+    - source: open.spotify.com-embed-album-65szqpn5uhbpscpdxzculv
+      quote: spotify:track:1Gmj3mNAFN0i4jVrUdPqfJ
+      accessed: '2026-11-21'
+      locator: Spotify native track identifier
+  release date:
+  - value:
+      date: '2021-01-22'
+    references:
+    - source: music.apple.com-us-album-thats-all-i-want-single-1547660444
+      quote: '2021-01-22'
+      accessed: '2026-11-21'
+      locator: Original release or upload date
+  cover art:
+  - value: https://f4.bcbits.com/img/a2953404952_10.jpg
+    qualifiers:
+      credit:
+        text: The Muckers on Bandcamp
+        language: en
+    references:
+    - source: themuckersband.bandcamp.com-track-thats-all-i-want
+      quote: https://f4.bcbits.com/img/a2953404952_10.jpg
+      accessed: '2026-11-21'
+      locator: Original cover
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-thats-all-i-want-single-1547660444
+      quote: That's All I Want - Single
+      accessed: '2026-11-21'
+      locator: Official digital issue

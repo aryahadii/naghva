@@ -7,13 +7,75 @@ statements:
       language: en
     references:
     - source: archive2013-2020.ctm-festival.de-archive-festival-editions-ctm-2017-fearangerlove-artists-0-9-9t-antiope-a033795156f3
-      quote: |-
-        9T Antiope is the Iranian duo of Sara Bigdeli Shamloo and Nima Aghiani. They combine acoustic instrumentation with voice and atmospheric electronics to bring alien and often-contradictory cultural worlds to light.
+      quote: 9T Antiope is the Iranian duo of Sara Bigdeli Shamloo and Nima Aghiani. They combine acoustic instrumentation with voice
+        and atmospheric electronics to bring alien and often-contradictory cultural worlds to light.
       accessed: '2026-10-19'
+  - value:
+      text: نیما عقیانی
+      language: fa
+    references:
+    - source: t.me-s-taraamoon
+      quote: نیما عقیانی
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
   member of:
   - value: Qyv32ms
     references:
     - source: archive2013-2020.ctm-festival.de-archive-festival-editions-ctm-2017-fearangerlove-artists-0-9-9t-antiope-a033795156f3
-      quote: |-
-        9T Antiope is the Iranian duo of Sara Bigdeli Shamloo and Nima Aghiani. They combine acoustic instrumentation with voice and atmospheric electronics to bring alien and often-contradictory cultural worlds to light.
+      quote: 9T Antiope is the Iranian duo of Sara Bigdeli Shamloo and Nima Aghiani. They combine acoustic instrumentation with voice
+        and atmospheric electronics to bring alien and often-contradictory cultural worlds to light.
       accessed: '2026-10-19'
+  - value: Qbkmbta
+    references:
+    - source: soundcloud.com-migrain
+      quote: The Iranian trio consists of "Pouya Pour-Amin" , "Nima Aghiani" and "Sara Bigdeli Shamloo"
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Qw4rq4q
+    references:
+    - source: soundcloud.com-taraamoon
+      quote: پروژه‌ی مشترک "سارا بیگدلی شاملو" و "نیما عقیانی"
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  based in:
+  - value: Qyhck8a
+    references:
+    - &id001
+      source: zabtesote.bandcamp.com-album-convergence-zone
+      quote: Tehran-born, Paris-based
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  birthplace:
+  - value: Qhm6fzw
+    references:
+    - *id001
+  profile link:
+  - value: https://open.spotify.com/artist/7xYUjewpDBmUS2DeYP2Ckm
+    references:
+    - source: open.spotify.com-artist-7xyujewpdbmus2deyp2ckm
+      quote: Listen to Nima Aghiani Songs | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/artist/nima-aghiani/1391561454
+    references:
+    - source: music.apple.com-us-artist-nima-aghiani-1391561454
+      quote: ‎Nima Aghiani - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/nima-aghiani
+    references:
+    - source: soundcloud.com-nima-aghiani
+      quote: Stream Nima Aghiani music | Listen to songs, albums, playlists for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  image:
+  - value: https://i.scdn.co/image/ab6761610000e5ebe920af76a493eeaf7803ba8e
+    references:
+    - source: open.spotify.com-artist-7xyujewpdbmus2deyp2ckm
+      quote: https://i.scdn.co/image/ab6761610000e5ebe920af76a493eeaf7803ba8e
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: Nima Aghiani on Spotify
+        language: en

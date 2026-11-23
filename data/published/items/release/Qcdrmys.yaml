@@ -1,0 +1,60 @@
+id: Qcdrmys
+type: release
+statements:
+  name:
+  - value:
+      text: Live at the Yardbird Suite with the Murder Hornettes
+      language: en
+    references:
+    - source: open.spotify.com-embed-album-19zoqw28yvyqkn45uacv4q
+      quote: Live at the Yardbird Suite with the Murder Hornettes
+      locator: Named recording, original credits or artist documentation
+      accessed: '2026-11-21'
+  performer:
+  - value: Qg776ck
+    references:
+    - source: www.tzadeka.com
+      quote: Joined onstage by Afarin Nazarijou on qanun
+      locator: Named recording, original credits or artist documentation
+      accessed: '2026-11-21'
+    qualifiers:
+      role: qanun
+  - value: Qh5r4k2
+    references:
+    - source: www.tzadeka.com-discography
+      quote: Tzadeka
+      locator: Named recording, original credits or artist documentation
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2024-12-04'
+    references:
+    - source: www.tzadeka.com-discography
+      quote: December 4 2024
+      locator: Named recording, original credits or artist documentation
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d00001e02a4cd6967fce14f8c2fdab075
+    references:
+    - source: open.spotify.com-oembedurl-https-open.spotify.com-album-19zoqw28yvyqkn45uacv4q
+      quote: https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e02a4cd6967fce14f8c2fdab075
+      locator: Spotify original oEmbed cover
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Live at the Yardbird Suite with the Murder Hornettes
+        language: en
+  release type:
+  - value: album
+    references:
+    - source: open.spotify.com-embed-album-19zoqw28yvyqkn45uacv4q
+      quote: Live at the Yardbird Suite with the Murder Hornettes
+      locator: Named recording, original credits or artist documentation
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://open.spotify.com/album/19Zoqw28YVyQkN45Uacv4q
+    references:
+    - source: open.spotify.com-embed-album-19zoqw28yvyqkn45uacv4q
+      quote: Live at the Yardbird Suite with the Murder Hornettes
+      locator: Named recording, original credits or artist documentation
+      accessed: '2026-11-21'

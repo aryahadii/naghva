@@ -1,0 +1,53 @@
+id: Qzergrt
+type: release
+statements:
+  name:
+  - value:
+      text: The Earth and I
+      language: en
+    references:
+    - source: music.apple.com-us-album-the-death-of-me-1396963283
+      quote: The Earth and I
+      accessed: 2026-11-21
+      locator: Native digital track order
+  performer:
+  - value: Qtqjb47
+    references:
+    - source: music.apple.com-us-album-the-death-of-me-1396963283
+      quote: The Earth and I
+      accessed: 2026-11-21
+      locator: Native digital track order
+  listen link:
+  - value: https://music.apple.com/us/song/the-earth-and-i/1396963284
+    references:
+    - source: music.apple.com-us-album-the-death-of-me-1396963283
+      quote: The Earth and I
+      accessed: 2026-11-21
+      locator: Native digital track order
+  - value: https://open.spotify.com/track/2lZkHNZR01Axjqfgz0V9Ac
+    references:
+    - source: open.spotify.com-album-3oyfbj01wwqw2ld31iytqc
+      quote: The Earth and I
+      accessed: 2026-11-21
+      locator: Spotify track billing
+  - value: https://youtu.be/DohPNcPismU
+    references:
+    - source: youtu.be-dohpncpismu
+      quote: '''The Earth and I''      Negar Bouban''s Oud&Vocals, with poetry of Nader Naderpour'
+      accessed: 2026-11-21
+      locator: Track in artist-linked playlist
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/3a/66/80/3a66808c-cfe2-b56b-d350-7d5a16b83a08/192914294061.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-the-death-of-me-1396963283
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/3a/66/80/3a66808c-cfe2-b56b-d350-7d5a16b83a08/192914294061.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Digital artwork
+  release date:
+  - value:
+      date: '2018-04-30'
+    references:
+    - source: music.apple.com-us-album-the-death-of-me-1396963283
+      quote: '2018-04-30'
+      accessed: 2026-11-21
+      locator: Digital edition date

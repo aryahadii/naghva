@@ -1,0 +1,55 @@
+id: Q5m9d4p
+type: release
+statements:
+  name:
+  - value:
+      text: 'CMC Presents : Roa Lee and Araz Salek'
+      language: en
+    references:
+    - source: www.youtube.com-watch-v-twtoyxwfqja
+      quote: 'CMC Presents : Roa Lee and Araz Salek'
+      accessed: '2026-11-21'
+      locator: YouTube oEmbed title
+  listen link:
+  - value: https://www.youtube.com/watch?v=TwToYXwFqjA
+    references:
+    - source: www.youtube.com-watch-v-twtoyxwfqja
+      quote: 'CMC Presents : Roa Lee and Araz Salek'
+      accessed: '2026-11-21'
+      locator: YouTube oEmbed title
+    - source: www.youtube.com-watch-v-twtoyxwfqja
+      quote: CanadianMusicCentre
+      accessed: '2026-11-21'
+      locator: Official issuing channel
+  cover art:
+  - value: https://i.ytimg.com/vi/TwToYXwFqjA/hqdefault.jpg
+    qualifiers:
+      credit:
+        text: CanadianMusicCentre on YouTube
+        language: en
+    references:
+    - source: www.youtube.com-watch-v-twtoyxwfqja
+      quote: https://i.ytimg.com/vi/TwToYXwFqjA/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: YouTube oEmbed thumbnail
+    - source: www.youtube.com-watch-v-twtoyxwfqja
+      quote: CanadianMusicCentre
+      accessed: '2026-11-21'
+      locator: Official issuing channel
+  performer:
+  - value: Qzqvz5q
+    references:
+    - source: www.youtube.com-watch-v-twtoyxwfqja
+      quote: 'CMC Presents : Roa Lee and Araz Salek'
+      accessed: '2026-11-21'
+      locator: YouTube oEmbed title
+    - source: www.youtube.com-watch-v-twtoyxwfqja
+      quote: CanadianMusicCentre
+      accessed: '2026-11-21'
+      locator: Official issuing channel
+  - value: Qmj94e4
+    references:
+    - source: www.youtube.com-watch-v-twtoyxwfqja
+      quote: Roa Lee
+      accessed: '2026-11-21'
+      locator: Credited musician

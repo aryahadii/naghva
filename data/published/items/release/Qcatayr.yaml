@@ -1,0 +1,38 @@
+id: Qcatayr
+type: release
+statements:
+  name:
+  - value:
+      text: saeid shanbehzadeh &  habib meftah boushehri & sabine novel in babelle heureuse 3
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-etxpkhpf4og
+      quote: saeid shanbehzadeh &  habib meftah boushehri & sabine novel in babelle heureuse 3
+      accessed: '2026-11-21'
+      locator: Artist-published performance film
+  performer:
+  - value: Qyd93n9
+    references:
+    - *id001
+  - value: Q49prrc
+    references:
+    - source: www.youtube.com-watch-v-etxpkhpf4og
+      quote: habib meftah
+      accessed: '2026-11-21'
+      locator: Original film title billing
+  listen link:
+  - value: https://www.youtube.com/watch?v=EtXPkhPF4Og
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/EtXPkhPF4Og/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-etxpkhpf4og
+      quote: https://i.ytimg.com/vi/EtXPkhPF4Og/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original film frame
+    qualifiers:
+      credit:
+        text: saeid shanbehzadeh
+        language: en

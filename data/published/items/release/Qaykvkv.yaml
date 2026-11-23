@@ -1,0 +1,32 @@
+id: Qaykvkv
+type: release
+statements:
+  name:
+  - value:
+      text: Naghib shanbehzadeh solo Zarb at Home
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-jgufou65vfa
+      quote: Naghib shanbehzadeh solo Zarb at Home
+      accessed: '2026-11-21'
+      locator: Artist-published performance film
+  performer:
+  - value: Qvhrrm8
+    references:
+    - *id001
+  listen link:
+  - value: https://www.youtube.com/watch?v=jGuFOu65VfA
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/jGuFOu65VfA/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-jgufou65vfa
+      quote: https://i.ytimg.com/vi/jGuFOu65VfA/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original film frame
+    qualifiers:
+      credit:
+        text: naghib shanbehzadeh
+        language: en

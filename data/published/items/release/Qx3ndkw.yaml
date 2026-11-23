@@ -1,0 +1,76 @@
+id: Qx3ndkw
+type: release
+statements:
+  name:
+  - value:
+      text: Sang
+      language: en
+    references:
+    - source: music.apple.com-us-album-sang-single-1823208757
+      quote: Sang
+      accessed: '2026-11-21'
+      locator: Track 1
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-sang-single-1823208757
+      quote: Sang
+      accessed: '2026-11-21'
+      locator: Track 1
+  listen link:
+  - value: https://music.apple.com/us/song/sang/1823208758
+    references:
+    - source: music.apple.com-us-album-sang-single-1823208757
+      quote: https://music.apple.com/us/song/sang/1823208758
+      accessed: '2026-11-21'
+      locator: Exact Apple track
+  - value: https://music.apple.com/us/album/sang-single/1823208757
+    references:
+    - source: music.apple.com-us-album-sang-single-1823208757
+      quote: Sang - Single
+      accessed: '2026-11-21'
+      locator: Digital edition
+  - value: https://open.spotify.com/track/2rHdTATq2JREsuXzY0qiWS
+    references:
+    - source: open.spotify.com-embed-album-6z19fasi6nt9rfjrtod9zd
+      quote: spotify:track:2rHdTATq2JREsuXzY0qiWS
+      accessed: '2026-11-21'
+      locator: Native track URI
+  - value: https://open.spotify.com/album/6z19FAsI6NT9rFJRTOD9ZD
+    references:
+    - source: open.spotify.com-embed-album-6z19fasi6nt9rfjrtod9zd
+      quote: Sang
+      accessed: '2026-11-21'
+      locator: Spotify album
+  performer:
+  - value: Q4kz4kv
+    references:
+    - source: music.apple.com-us-album-sang-single-1823208757
+      quote: Sang - Single
+      accessed: '2026-11-21'
+      locator: Digital edition
+  - value: Qy88zyz
+    references:
+    - source: music.apple.com-us-album-sang-single-1823208757
+      quote: Erwin Khachikian
+      accessed: '2026-11-21'
+      locator: Artist credit
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/18/82/80/18828063-bd63-a52f-ce17-14e854b20e54/199199954475.jpg/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Digital artwork via Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-sang-single-1823208757
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/18/82/80/18828063-bd63-a52f-ce17-14e854b20e54/199199954475.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Edition artwork
+  release date:
+  - value:
+      date: '2025-06-12'
+    references:
+    - source: music.apple.com-us-album-sang-single-1823208757
+      quote: '2025-06-12'
+      accessed: '2026-11-21'
+      locator: Issue date

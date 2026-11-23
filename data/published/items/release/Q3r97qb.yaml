@@ -1,0 +1,57 @@
+id: Q3r97qb
+type: release
+statements:
+  name:
+  - value:
+      text: A Lament For The Living (2025 Remastered Version) [feat. Julie Hasfjord]
+      language: en
+    references:
+    - source: music.apple.com-us-song-1831508164
+      quote: ‎A Lament For The Living (feat. Julie Hasfjord) [2025 Remastered Version] - Song with Lyrics by Rouzbeh Esfand - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qzchcs8
+    references:
+    - source: music.apple.com-us-song-1831508164
+      quote: ‎A Lament For The Living (feat. Julie Hasfjord) [2025 Remastered Version] - Song with Lyrics by Rouzbeh Esfand - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://music.apple.com/us/song/1831508164
+    references:
+    - source: music.apple.com-us-song-1831508164
+      quote: ‎A Lament For The Living (feat. Julie Hasfjord) [2025 Remastered Version] - Song with Lyrics by Rouzbeh Esfand - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/a-lament-for-the-living-feat-julie-hasfjord/1831508163
+    references:
+    - source: music.apple.com-us-album-a-lament-for-the-living-feat-julie-hasfjord-1831508163
+      quote: ‎A Lament For The Living (2025 Remastered Version) [feat. Julie Hasfjord] - Single - Album by Rouzbeh Esfand - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/album/7mLmNvenHIrVIWv5KKxanh
+    references:
+    - source: open.spotify.com-album-7mlmnvenhirviwv5kkxanh
+      quote: Listen to A Lament For The Living (2025 Remastered Version) - Single by Rouzbeh Esfand | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2025-08-06'
+    references:
+    - source: music.apple.com-us-song-1831508164
+      quote: August 6, 2025
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2e/f8/eb/2ef8eb58-a450-e3b5-8e3a-4fbe5587fc76/7300345602420.jpg/600x600bb.webp
+    references:
+    - source: music.apple.com-us-song-1831508164
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2e/f8/eb/2ef8eb58-a450-e3b5-8e3a-4fbe5587fc76/7300345602420.jpg/600x600bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original publisher artwork
+        language: en

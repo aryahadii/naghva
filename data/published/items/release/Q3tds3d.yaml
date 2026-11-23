@@ -1,0 +1,52 @@
+id: Q3tds3d
+type: release
+statements:
+  name:
+  - value:
+      text: VA - Intended Consequence
+      language: en
+    references:
+    - source: apranikrecords.bandcamp.com-album-va-intended-consequence
+      quote: VA - Intended Consequence
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  release type:
+  - value: compilation
+    references:
+    - source: apranikrecords.bandcamp.com-album-va-intended-consequence
+      quote: VA - Intended Consequence | Apranik Records
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qks2dfk
+    references:
+    - source: apranikrecords.bandcamp.com-album-va-intended-consequence
+      quote: Ava Rasti - Eight Night
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://apranikrecords.bandcamp.com/album/va-intended-consequence
+    references:
+    - source: apranikrecords.bandcamp.com-album-va-intended-consequence
+      quote: VA - Intended Consequence | Apranik Records
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2023-08-04'
+    references:
+    - source: apranikrecords.bandcamp.com-album-va-intended-consequence
+      quote: released August 4, 2023
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a3033316629_10.jpg
+    references:
+    - source: apranikrecords.bandcamp.com-album-va-intended-consequence
+      quote: https://f4.bcbits.com/img/a3033316629_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original compilation artwork
+        language: en

@@ -1,0 +1,38 @@
+id: Qxhwyf4
+type: release
+statements:
+  name:
+  - value:
+      text: Setar, Zarbi Bayât Tork دوضربی بیات ترک صبا
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-vnfqctatlpc
+      quote: Setar, Zarbi Bayât Tork دوضربی بیات ترک صبا
+      accessed: '2026-11-21'
+      locator: Music credited by musician or performance publisher
+  performer:
+  - value: Qqb9bnx
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/vnFQctAtlpc/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-vnfqctatlpc
+      quote: https://i.ytimg.com/vi/vnFQctAtlpc/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video frame
+    qualifiers:
+      credit:
+        text: Mehdi Moshtagh
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=vnFQctAtlpc
+    references:
+    - *id001
+  contributor:
+  - value: Qatxt85
+    references:
+    - *id001
+    qualifiers:
+      role: composer

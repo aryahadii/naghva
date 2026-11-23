@@ -16,9 +16,29 @@ statements:
     - source: www.youtube.com-watch-v-q0daphuty4q
       quote: 'Drums : Arash Pajand Moghadam'
       accessed: '2026-11-08'
+    - source: hermes-barad-personnel-booklet
+      quote: Arash Pajand Moghadam
+      accessed: '2026-11-21'
+      locator: List of musicians in the original Hermes booklet
+  - value:
+      text: آرش پژند مقدم
+      language: fa
+    references:
+    - source: hermes-barad-personnel-booklet
+      quote: آرش پژند مقدم
+      accessed: '2026-11-21'
+      locator: List of musicians in the original Hermes booklet
   member of:
   - value: Q7ajpjb
     references:
     - source: tasnimnews.ir-1383459-dee518db37cf
       quote: اعضای اصلی گروه دارکوب را همایون نصیری (سرپرست)، امید حاجیلی، آرش پژندمقدم، مسعود همایونی، دارا دارایی و آرین ملیکیان تشکیل می‌دهند.
       accessed: '2026-10-19'
+  - value: Qs2nwh3
+    qualifiers:
+      role: drums
+    references:
+    - source: hermes-barad-personnel-booklet
+      quote: Arash Pajand Moghadam
+      accessed: '2026-11-21'
+      locator: List of musicians in the original Hermes booklet

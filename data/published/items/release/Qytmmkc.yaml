@@ -1,0 +1,78 @@
+id: Qytmmkc
+type: release
+statements:
+  name:
+  - value:
+      text: Khosh Hesab
+      language: en
+    references:
+    - source: music.apple.com-us-album-karmandan-401059007
+      quote: Khosh Hesab
+      accessed: '2026-11-21'
+      locator: Track 3
+  performer:
+  - value: Qzjh64j
+    references:
+    - source: music.apple.com-us-album-karmandan-401059007
+      quote: Karmandan
+      accessed: '2026-11-21'
+      locator: Billed project
+  - value: Qy88zyz
+    references:
+    - source: www.youtube.com-watch-v-yol5lpfsi9o
+      quote: '''Khosh Hesab'' - Karmandan | Erwin Khachikian | کارمندان | اروین خاچیکیان'
+      accessed: '2026-11-21'
+      locator: Original video
+  listen link:
+  - value: https://music.apple.com/us/song/khosh-hesab/401059027
+    references:
+    - source: music.apple.com-us-album-karmandan-401059007
+      quote: https://music.apple.com/us/song/khosh-hesab/401059027
+      accessed: '2026-11-21'
+      locator: Exact track link
+  - value: https://open.spotify.com/track/7eFJQZ0oz1pSX6m1W9KVSp
+    references:
+    - source: open.spotify.com-embed-album-4ndlxlknowugzlhbu55xzg
+      quote: spotify:track:7eFJQZ0oz1pSX6m1W9KVSp
+      accessed: '2026-11-21'
+      locator: Exact Spotify track URI
+  - value: https://soundcloud.com/karmandan/khosh-hesab
+    references:
+    - source: soundcloud.com-karmandan-khosh-hesab
+      quote: Khosh Hesab
+      accessed: '2026-11-21'
+      locator: Artist upload
+  - value: https://www.youtube.com/watch?v=yol5lPFsI9o
+    references:
+    - source: www.youtube.com-watch-v-yol5lpfsi9o
+      quote: '''Khosh Hesab'' - Karmandan | Erwin Khachikian | کارمندان | اروین خاچیکیان'
+      accessed: '2026-11-21'
+      locator: Original artist-channel video
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music/15/77/a0/mzi.wbcvfaqm.jpg/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Digital issue via Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-karmandan-401059007
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music/15/77/a0/mzi.wbcvfaqm.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Original digital artwork
+  release date:
+  - value:
+      date: '2010-11-01'
+    references:
+    - source: music.apple.com-us-album-karmandan-401059007
+      quote: '2010-11-01'
+      accessed: '2026-11-21'
+      locator: Digital issue date
+  contributor:
+  - value: Qy88zyz
+    qualifiers:
+      role: producer
+    references:
+    - source: www.youtube.com-watch-v-yol5lpfsi9o
+      quote: Produced by Erwin Khachikian
+      accessed: '2026-11-21'
+      locator: Artist-published credits

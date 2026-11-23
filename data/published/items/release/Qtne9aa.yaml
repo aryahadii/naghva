@@ -1,0 +1,32 @@
+id: Qtne9aa
+type: release
+statements:
+  name:
+  - value:
+      text: Shabnavard شب است و چهره میهن سیاهه
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-6hrm8msh2me
+      quote: Shabnavard شب است و چهره میهن سیاهه
+      accessed: '2026-11-21'
+      locator: Music credited by musician or performance publisher
+  performer:
+  - value: Qqb9bnx
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/6HRM8mSH2ME/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-6hrm8msh2me
+      quote: https://i.ytimg.com/vi/6HRM8mSH2ME/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video frame
+    qualifiers:
+      credit:
+        text: Mehdi Moshtagh
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=6HRM8mSH2ME
+    references:
+    - *id001

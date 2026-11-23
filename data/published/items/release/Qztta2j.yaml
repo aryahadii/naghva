@@ -1,0 +1,47 @@
+id: Qztta2j
+type: release
+statements:
+  name:
+  - value:
+      text: Crossing Borders
+      language: en
+    references:
+    - source: music.apple.com-us-album-paa-sho-1250275961
+      quote: Crossing Borders
+      accessed: 2026-11-21
+      locator: Apple Music track listing
+  performer:
+  - value: Qny2s3x
+    references:
+    - source: music.apple.com-us-album-paa-sho-1250275961
+      quote: Paa Sho! · Abjeez
+      accessed: 2026-11-21
+      locator: Album title and artist on Apple Music
+  listen link:
+  - value: https://music.apple.com/us/song/crossing-borders/1250276067
+    references:
+    - source: music.apple.com-us-album-paa-sho-1250275961
+      quote: Crossing Borders
+      accessed: 2026-11-21
+      locator: Apple Music track listing
+  - value: https://open.spotify.com/track/77d8gJXb4AatxNnIo8TSKP
+    references:
+    - source: open.spotify.com-album-1issxhclcv01ud1awvbcml
+      quote: Crossing Borders · Abjeez
+      accessed: 2026-11-21
+      locator: Spotify track title and performer
+  release date:
+  - value:
+      date: '2017-06-16'
+    references:
+    - source: music.apple.com-us-album-paa-sho-1250275961
+      quote: '2017-06-16'
+      accessed: 2026-11-21
+      locator: MusicAlbum datePublished
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music117/v4/a5/73/e6/a573e6d6-f638-0c04-6550-ea7642fe7a4d/191061812845.jpg/632x632bb-60.jpg
+    references:
+    - source: music.apple.com-us-album-paa-sho-1250275961
+      quote: Paa Sho! · Abjeez
+      accessed: 2026-11-21
+      locator: Album title and artist on Apple Music

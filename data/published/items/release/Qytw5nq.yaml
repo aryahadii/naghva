@@ -1,0 +1,49 @@
+id: Qytw5nq
+type: release
+statements:
+  name:
+  - value:
+      text: Contes de perse à Paris
+      language: fr
+    references:
+    - source: www.youtube.com-watchv-goojnnvabww
+      quote: Contes de perse à Paris
+      accessed: '2026-11-21'
+      locator: Official upload title
+  performer:
+  - value: Qzhgpkw
+    references:
+    - source: www.youtube.com-watchv-goojnnvabww
+      quote: Contes de perse à Paris
+      accessed: '2026-11-21'
+      locator: Official upload title
+    - source: www.youtube.com-watchv-goojnnvabww
+      quote: Babak Rajabi
+      accessed: '2026-11-21'
+      locator: Uploading artist
+  listen link:
+  - value: https://www.youtube.com/watch?v=gooJNNVABWw
+    references:
+    - source: www.youtube.com-watchv-goojnnvabww
+      quote: Contes de perse à Paris
+      accessed: '2026-11-21'
+      locator: Official upload title
+  release date:
+  - value:
+      date: '2025-03-14'
+    references:
+    - source: www.youtube.com-watchv-goojnnvabww
+      quote: '20250314'
+      accessed: '2026-11-21'
+      locator: Video publication date, YYYYMMDD
+  cover art:
+  - value: https://i.ytimg.com/vi/gooJNNVABWw/maxresdefault.jpg
+    references:
+    - source: www.youtube.com-watchv-goojnnvabww
+      quote: https://i.ytimg.com/vi/gooJNNVABWw/maxresdefault.jpg
+      accessed: '2026-11-21'
+      locator: Release image URL
+    qualifiers:
+      credit:
+        text: Babak Rajabi · YouTube
+        language: en

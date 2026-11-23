@@ -8,16 +8,16 @@ statements:
     references:
     - &id001
       source: music.apple.com-us-album-c3-a9l-c3-a9gie-pour-les-ombres-single-1610751813-176f35039b
-      quote: 'Listen to Élégie pour les ombres - Single by Soheil Peyghambari & Golfam Khayam on Apple Music. 2022.
-        1 Song. Duration: 7 minutes.'
+      quote: 'Listen to Élégie pour les ombres - Single by Soheil Peyghambari & Golfam Khayam on Apple Music. 2022. 1 Song. Duration:
+        7 minutes.'
       accessed: '2026-11-13'
       locator: Apple Music release description
   release type:
   - value: single
     references:
     - source: music.apple.com-us-album-c3-a9l-c3-a9gie-pour-les-ombres-single-1610751813-176f35039b
-      quote: |-
-        Listen to Élégie pour les ombres - Single by Soheil Peyghambari & Golfam Khayam on Apple Music. 2022. 1 Song. Duration: 7 minutes.
+      quote: 'Listen to Élégie pour les ombres - Single by Soheil Peyghambari & Golfam Khayam on Apple Music. 2022. 1 Song. Duration:
+        7 minutes.'
       accessed: '2026-11-13'
   performer:
   - value: Q3waxf2
@@ -38,6 +38,36 @@ statements:
   - value: https://music.apple.com/us/album/%C3%A9l%C3%A9gie-pour-les-ombres-single/1610751813
     references:
     - *id001
+  - value: https://music.apple.com/us/song/1610751814
+    references:
+    - source: music.apple.com-us-song-1610751814
+      quote: ‎Élégie pour les ombres - Song with Lyrics by Soheil Peyghambari & Golfam Khayam - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/soheil-peyghambari/elegie-pour-les-ombres
+    references:
+    - source: soundcloud.com-soheil-peyghambari-elegie-pour-les-ombres
+      quote: Stream Élégie pour les ombres by Soheil Peyghambari | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/album/6AXINkdFYrefARbmnCfyBX
+    references:
+    - source: open.spotify.com-album-6axinkdfyrefarbmncfybx
+      quote: Listen to Élégie pour les ombres - Single by Soheil Peyghambari | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/1ESDmgnnw8FSeiIpDBQXXE
+    references:
+    - source: open.spotify.com-track-1esdmgnnw8fseiipdbqxxe
+      quote: Élégie pour les ombres - song and lyrics by Soheil Peyghambari, Golfam Khayam | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://www.youtube.com/watch?v=D2SrLAZc6dw
+    references:
+    - source: www.youtube.com-watch-v-d2srlazc6dw
+      quote: Élégie pour les ombres
+      accessed: '2026-11-21'
+      locator: Page title
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d3/fd/e4/d3fde4fd-47a6-19b8-d39a-0e11d063a859/752470404207_cover.jpg/1200x630bb.jpg
     qualifiers:

@@ -1,0 +1,70 @@
+id: Q8nn5bv
+type: release
+statements:
+  name:
+  - value:
+      text: Rain
+      language: en
+    references:
+    - source: music.apple.com-us-album-rain-single-1718610704
+      quote: Rain (feat. Pouya Mahmoodi & Hamed Derakhshan)
+      accessed: '2026-11-21'
+      locator: Release and track listing
+  performer:
+  - value: Qf3hzjj
+    references:
+    - source: music.apple.com-us-album-rain-single-1718610704
+      quote: 'Listen to Rain - Single by Saffron Moon on Apple Music. 2023. 1 Song. Duration: 5 minutes.'
+      accessed: '2026-11-21'
+      locator: Distributor release billing
+  - value: Qjwhj2t
+    references:
+    - source: music.apple.com-us-album-rain-single-1718610704
+      quote: Pouya Mahmoodi
+      accessed: '2026-11-21'
+      locator: Artist billing
+  - value: Qf9fpj6
+    references:
+    - source: music.apple.com-us-album-rain-single-1718610704
+      quote: Rain (feat. Pouya Mahmoodi & Hamed Derakhshan)
+      accessed: '2026-11-21'
+      locator: Release and track listing
+  listen link:
+  - value: https://music.apple.com/us/song/rain-feat-pouya-mahmoodi-hamed-derakhshan/1718611042
+    references:
+    - source: music.apple.com-us-album-rain-single-1718610704
+      quote: https://music.apple.com/us/song/rain-feat-pouya-mahmoodi-hamed-derakhshan/1718611042
+      accessed: '2026-11-21'
+      locator: Distributor permalink
+  - value: https://www.youtube.com/watch?v=xQG0cb0NlEA
+    references:
+    - source: www.youtube.com-watch-v-xqg0cb0nlea
+      quote: Saffron Moon - Rain
+      accessed: '2026-11-21'
+      locator: Label upload title
+  release date:
+  - value:
+      date: '2023-11-23'
+    references:
+    - source: music.apple.com-us-album-rain-single-1718610704
+      quote: '2023-11-23'
+      accessed: '2026-11-21'
+      locator: Original issue date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7c/f5/c0/7cf5c086-8943-eebd-5288-6047dfa8fbc5/197190498202.jpg/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Distributor artwork via Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-rain-single-1718610704
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7c/f5/c0/7cf5c086-8943-eebd-5288-6047dfa8fbc5/197190498202.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Digital cover artwork
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-rain-single-1718610704
+      quote: 'Listen to Rain - Single by Saffron Moon on Apple Music. 2023. 1 Song. Duration: 5 minutes.'
+      accessed: '2026-11-21'
+      locator: Distributor release billing

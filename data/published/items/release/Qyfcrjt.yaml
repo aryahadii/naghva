@@ -1,0 +1,49 @@
+id: Qyfcrjt
+type: release
+statements:
+  name:
+  - value:
+      text: Vazesh (Hamed Sadeghi/Jeremy Rose/Lloyd Swanton) Live
+      language: en
+    references:
+    - source: www.youtube.com-watch-v-r92p0stpoei
+      quote: Vazesh (Hamed Sadeghi/Jeremy Rose/Lloyd Swanton) Live
+      accessed: '2026-11-21'
+      locator: Creator title from YouTube oEmbed
+    - source: www.youtube.com-jeremyrosemusic-search-query-vazesh
+      quote: '1:04:04'
+      accessed: '2026-11-21'
+      locator: Performance duration
+  performer:
+  - value: Q597kk9
+    references:
+    - source: www.youtube.com-jeremyrosemusic-search-query-vazesh
+      quote: Vazesh (Hamed Sadeghi/Jeremy Rose/Lloyd Swanton) Live
+      accessed: '2026-11-21'
+      locator: Video heading on Jeremy Rose’s channel
+  listen link:
+  - value: https://www.youtube.com/watch?v=r92P0STPoEI
+    references:
+    - source: www.youtube.com-watch-v-r92p0stpoei
+      quote: Jeremy Rose
+      accessed: '2026-11-21'
+      locator: Creator channel
+    - source: www.youtube.com-watch-v-r92p0stpoei
+      quote: Vazesh (Hamed Sadeghi/Jeremy Rose/Lloyd Swanton) Live
+      accessed: '2026-11-21'
+      locator: Creator title from YouTube oEmbed
+  cover art:
+  - value: https://i.ytimg.com/vi/r92P0STPoEI/hqdefault.jpg
+    qualifiers:
+      credit:
+        text: Jeremy Rose on YouTube
+        language: en
+    references:
+    - source: www.youtube.com-watch-v-r92p0stpoei
+      quote: https://i.ytimg.com/vi/r92P0STPoEI/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: YouTube thumbnail
+    - source: www.youtube.com-watch-v-r92p0stpoei
+      quote: Jeremy Rose
+      accessed: '2026-11-21'
+      locator: Creator channel

@@ -1,0 +1,89 @@
+id: Qq4mdm3
+type: release
+statements:
+  name:
+  - value:
+      text: Original Theme (Horn Version)
+      language: en
+    references:
+    - source: mahmoodschricker.bandcamp.com-track-original-theme-horn-version
+      quote: Original Theme (Horn Version)
+      accessed: '2026-11-21'
+      locator: Recording title or artist credit
+  listen link:
+  - value: https://mahmoodschricker.bandcamp.com/track/original-theme-horn-version
+    references:
+    - source: mahmoodschricker.bandcamp.com-track-original-theme-horn-version
+      quote: Original Theme (Horn Version) | Mahmood Schricker
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://linkmusiclab.bandcamp.com/track/original-theme-horn-version
+    references:
+    - source: linkmusiclab.bandcamp.com-track-original-theme-horn-version
+      quote: Original Theme (Horn Version) | Mahmood Schricker, Leandro Joaquim, Scott Peterson | Link Music Lab Records
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/4yklFAAWY4Us3f1z1GjDau
+    references:
+    - source: open.spotify.com-track-4yklfaawy4us3f1z1gjdau
+      quote: Original Theme (Horn Version) - song and lyrics by Mahmood Schricker, Leandro Joaquim, Scott Peterson | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/original-theme-horn-version/1715537029
+    references:
+    - source: music.apple.com-us-song-original-theme-horn-version-1715537029
+      quote: ‎Original Theme (Horn Version) - Song with Lyrics by Mahmood Schricker, Leandro Joaquim & Scott Peterson - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/mahmood-schricker/07-original-theme-horn-version
+    references:
+    - source: soundcloud.com-mahmood-schricker-07-original-theme-horn-version
+      quote: Stream Original Theme (Horn Version) by Mahmood Schricker | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qxkh2tz
+    references:
+    - source: mahmoodschricker.bandcamp.com-track-original-theme-horn-version
+      quote: Original Theme (Horn Version) | Mahmood Schricker
+      accessed: '2026-11-21'
+      locator: Page title
+    - source: linkmusiclab.bandcamp.com-track-original-theme-horn-version
+      quote: Setar and composition - Mahmood Schricker
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: setar
+  - value: Qmqrqbc
+    references:
+    - source: linkmusiclab.bandcamp.com-track-original-theme-horn-version
+      quote: Baritone Horn - Leandro Joaquim
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Q5573hc
+    references:
+    - source: linkmusiclab.bandcamp.com-track-original-theme-horn-version
+      quote: Upright Bass - Scott Peterson
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: double bass
+  cover art:
+  - value: https://f4.bcbits.com/img/a3807362954_10.jpg
+    references:
+    - source: mahmoodschricker.bandcamp.com-track-original-theme-horn-version
+      quote: https://f4.bcbits.com/img/a3807362954_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Mahmood Schricker on Bandcamp
+        language: en
+  release date:
+  - value:
+      date: '2023-10-28'
+    references:
+    - source: music.apple.com-us-song-original-theme-horn-version-1715537029
+      quote: October 28, 2023
+      accessed: '2026-11-21'
+      locator: Published date

@@ -1,0 +1,44 @@
+id: Q4rk4vr
+type: release
+statements:
+  name:
+  - value:
+      text: Chaharmezrab Darvish Khan چهارمضراب ماهور درویش خان / Setar Mehdi Moshtagh y Majid Hesabi
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-xzyojsj8mog
+      quote: Chaharmezrab Darvish Khan چهارمضراب ماهور درویش خان / Setar Mehdi Moshtagh y Majid Hesabi
+      accessed: '2026-11-21'
+      locator: Music credited by musician or performance publisher
+  performer:
+  - value: Qqb9bnx
+    references:
+    - *id001
+  - value: Qset3q2
+    references:
+    - source: www.youtube.com-watch-v-xzyojsj8mog
+      quote: Majid Hesabi
+      accessed: '2026-11-21'
+      locator: Collaborator
+  cover art:
+  - value: https://i.ytimg.com/vi/XZyoJsJ8MOg/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-xzyojsj8mog
+      quote: https://i.ytimg.com/vi/XZyoJsJ8MOg/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video frame
+    qualifiers:
+      credit:
+        text: Mehdi Moshtagh
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=XZyoJsJ8MOg
+    references:
+    - *id001
+  contributor:
+  - value: Q52hj9g
+    references:
+    - *id001
+    qualifiers:
+      role: composer

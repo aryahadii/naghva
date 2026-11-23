@@ -1,0 +1,47 @@
+id: Q4tbmc4
+type: release
+statements:
+  name:
+  - value:
+      text: تلاطم (اجرای زنده)
+      language: fa
+    references:
+    - source: www.youtube.com-oembed-nogqo1--d6e
+      quote: تلاطم (اجرای زنده)
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2024-04-09'
+    references:
+    - source: www.youtube.com-watchv-nogqo1--d6e
+      quote: '2024-04-09'
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://i.ytimg.com/vi/nOgQo1--d6E/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-nogqo1--d6e
+      quote: https://i.ytimg.com/vi/nOgQo1--d6E/hqdefault.jpg
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Soheil Hosnavi · original performance
+        language: en
+  performer:
+  - value: Q76q9jz
+    references:
+    - source: www.youtube.com-oembed-nogqo1--d6e
+      quote: Soheil Hosnavi
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: santur
+  listen link:
+  - value: https://www.youtube.com/watch?v=nOgQo1--d6E
+    references:
+    - source: www.youtube.com-oembed-nogqo1--d6e
+      quote: تلاطم (اجرای زنده)
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'

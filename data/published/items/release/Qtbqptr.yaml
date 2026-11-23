@@ -1,0 +1,45 @@
+id: Qtbqptr
+type: release
+statements:
+  name:
+  - value:
+      text: Trio Vision
+      language: en
+    references:
+    - source: soundcloud.com-hamed-sadeghi-2-trio-vision
+      quote: Trio Vision
+      accessed: '2026-11-21'
+      locator: Title of artist upload
+  performer:
+  - value: Qmgbz4h
+    references:
+    - source: soundcloud.com-hamed-sadeghi-2-trio-vision
+      quote: Hamed Sadeghi
+      accessed: '2026-11-21'
+      locator: Artist-owned upload
+  release date:
+  - value:
+      date: '2016-11-30'
+    references:
+    - source: soundcloud.com-hamed-sadeghi-2-trio-vision
+      quote: '2016-11-30T08:27:08Z'
+      accessed: '2026-11-21'
+      locator: SoundCloud public upload timestamp
+  listen link:
+  - value: https://soundcloud.com/hamed-sadeghi-2/trio-vision
+    references:
+    - source: soundcloud.com-hamed-sadeghi-2-trio-vision
+      quote: Trio Vision
+      accessed: '2026-11-21'
+      locator: Title of artist upload
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-000506187882-ksmzig-large.jpg
+    qualifiers:
+      credit:
+        text: Artist upload artwork on SoundCloud
+        language: en
+    references:
+    - source: soundcloud.com-hamed-sadeghi-2-trio-vision
+      quote: https://i1.sndcdn.com/artworks-000506187882-ksmzig-large.jpg
+      accessed: '2026-11-21'
+      locator: SoundCloud track artwork URL

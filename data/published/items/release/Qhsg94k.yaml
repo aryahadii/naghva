@@ -1,0 +1,38 @@
+id: Qhsg94k
+type: release
+statements:
+  name:
+  - value:
+      text: Manu Codjia and Naghib Shanbehzadeh - Hurried
+      language: en
+    references:
+    - &id001
+      source: soundcloud.com-nag-1-1-manu-codjia-and-naghib
+      quote: Manu Codjia and Naghib Shanbehzadeh - Hurried
+      accessed: '2026-11-21'
+      locator: Artist’s SoundCloud recording
+  performer:
+  - value: Qvhrrm8
+    references:
+    - *id001
+  - value: Qqat63b
+    references:
+    - source: soundcloud.com-nag-1-1-manu-codjia-and-naghib
+      quote: Manu Codjia
+      accessed: '2026-11-21'
+      locator: Named contributor to track
+  listen link:
+  - value: https://soundcloud.com/nag-1-1/manu-codjia-and-naghib
+    references:
+    - *id001
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-000042467439-sbegbb-large.jpg
+    references:
+    - source: soundcloud.com-nag-1-1-manu-codjia-and-naghib
+      quote: https://i1.sndcdn.com/artworks-000042467439-sbegbb-large.jpg
+      accessed: '2026-11-21'
+      locator: Artist file artwork
+    qualifiers:
+      credit:
+        text: Naghib Shanbehzadeh / SoundCloud
+        language: en

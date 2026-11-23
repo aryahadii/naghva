@@ -1,0 +1,49 @@
+id: Qjj3czm
+type: release
+statements:
+  name:
+  - value:
+      text: 'Vazesh Live at Peach Gallery: Full Performance'
+      language: en
+    references:
+    - source: www.youtube.com-watch-v-w7fmxkfoz7i
+      quote: 'Vazesh Live at Peach Gallery: Full Performance'
+      accessed: '2026-11-21'
+      locator: Creator title from YouTube oEmbed
+    - source: www.youtube.com-jeremyrosemusic-search-query-vazesh
+      quote: '1:03:33'
+      accessed: '2026-11-21'
+      locator: Performance duration
+  performer:
+  - value: Q597kk9
+    references:
+    - source: www.youtube.com-jeremyrosemusic-search-query-vazesh
+      quote: 'Vazesh Live at Peach Gallery: Full Performance'
+      accessed: '2026-11-21'
+      locator: Video heading on Jeremy Rose’s channel
+  listen link:
+  - value: https://www.youtube.com/watch?v=w7FmXkFOZ7I
+    references:
+    - source: www.youtube.com-watch-v-w7fmxkfoz7i
+      quote: Jeremy Rose
+      accessed: '2026-11-21'
+      locator: Creator channel
+    - source: www.youtube.com-watch-v-w7fmxkfoz7i
+      quote: 'Vazesh Live at Peach Gallery: Full Performance'
+      accessed: '2026-11-21'
+      locator: Creator title from YouTube oEmbed
+  cover art:
+  - value: https://i.ytimg.com/vi/w7FmXkFOZ7I/hqdefault.jpg
+    qualifiers:
+      credit:
+        text: Jeremy Rose on YouTube
+        language: en
+    references:
+    - source: www.youtube.com-watch-v-w7fmxkfoz7i
+      quote: https://i.ytimg.com/vi/w7FmXkFOZ7I/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: YouTube thumbnail
+    - source: www.youtube.com-watch-v-w7fmxkfoz7i
+      quote: Jeremy Rose
+      accessed: '2026-11-21'
+      locator: Creator channel

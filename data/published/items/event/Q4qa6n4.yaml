@@ -1,0 +1,37 @@
+id: Q4qa6n4
+type: event
+statements:
+  name:
+  - value:
+      text: Forest Living Room at Melbourne Recital Centre
+      language: en
+    references:
+    - source: www.melbournerecital.com.au-whats-on-current-productions-hear-beyond-the-resonant-heart
+      quote: 20 Mar 2027 7:00pm
+      accessed: 2026-11-22
+      locator: Announced Melbourne Recital Centre performance
+  event date:
+  - value:
+      date: '2027-03-20'
+    references:
+    - source: www.melbournerecital.com.au-whats-on-current-productions-hear-beyond-the-resonant-heart
+      quote: 20 Mar 2027 7:00pm
+      accessed: 2026-11-22
+      locator: Announced Melbourne Recital Centre performance
+  performer:
+  - value: Qgwfnje
+    references:
+    - source: www.melbournerecital.com.au-whats-on-current-productions-hear-beyond-the-resonant-heart
+      quote: 20 Mar 2027 7:00pm
+      accessed: 2026-11-22
+      locator: Announced Melbourne Recital Centre performance
+  - value: Qp75qps
+    qualifiers:
+      role:
+      - qanun
+      - vocals
+    references:
+    - source: www.melbournerecital.com.au-whats-on-current-productions-hear-beyond-the-resonant-heart
+      quote: Vahideh Eisaei vocals, qanun
+      accessed: 2026-11-22
+      locator: Original artist lineup

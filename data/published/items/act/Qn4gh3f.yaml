@@ -1,0 +1,63 @@
+id: Qn4gh3f
+type: act
+statements:
+  name:
+  - value:
+      text: Photomat
+      language: en
+    references:
+    - source: about.me-hesam.ohadi
+      quote: Photomat
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  image:
+  - value: https://i1.sndcdn.com/avatars-000015189142-kx5rkz-t500x500.jpg
+    references:
+    - source: soundcloud.com-photomatband
+      quote: https://i1.sndcdn.com/avatars-000015189142-kx5rkz-t500x500.jpg
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: Photomat, via SoundCloud
+        language: en
+  profile link:
+  - value: https://soundcloud.com/photomatband
+    references:
+    - source: soundcloud.com-photomatband
+      quote: Stream photomatband music | Listen to songs, albums, playlists for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/artist/photomat/1360059471
+    references:
+    - source: music.apple.com-us-artist-photomat-1360059471
+      quote: ‎Photomat - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/artist/1UhPgaKslpmOGuuC7qnk5e
+    references:
+    - source: open.spotify.com-artist-1uhpgakslpmoguuc7qnk5e
+      quote: Listen to Photomat Songs | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://photomat.bandcamp.com/music
+    references:
+    - source: photomat.bandcamp.com-music
+      quote: Music | Photomat
+      accessed: '2026-11-21'
+      locator: Page title
+  formation date:
+  - value:
+      date: '2009'
+    references:
+    - source: spinnradio.com-artist-photomat
+      quote: Photomat started in the summer of 2009
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  based in:
+  - value: Qhm6fzw
+    references:
+    - source: soundcloud.com-photomatband
+      quote: photomatband Tehran
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits

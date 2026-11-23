@@ -1,0 +1,32 @@
+id: Q8pp5tx
+type: release
+statements:
+  name:
+  - value:
+      text: Ensamble Didar (Manuel Sauceverde film)
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-8qh73b8egta
+      quote: Ensamble Didar
+      accessed: '2026-11-21'
+      locator: Original video title
+  performer:
+  - value: Qcabd29
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/8Qh73B8eGTA/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-8qh73b8egta
+      quote: https://i.ytimg.com/vi/8Qh73B8eGTA/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original publisher image
+    qualifiers:
+      credit:
+        text: Manuel Sauceverde
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=8Qh73B8eGTA
+    references:
+    - *id001

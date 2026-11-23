@@ -1,0 +1,63 @@
+id: Qpse2vc
+type: release
+statements:
+  name:
+  - value:
+      text: Souvra
+      language: en
+    references:
+    - source: music.apple.com-us-song-916829132
+      quote: ‎Souvra - Song with Lyrics by Soheil Peyghambari - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Q3waxf2
+    references:
+    - source: music.apple.com-us-song-916829132
+      quote: ‎Souvra - Song with Lyrics by Soheil Peyghambari - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://music.apple.com/us/song/916829132
+    references:
+    - source: music.apple.com-us-song-916829132
+      quote: ‎Souvra - Song with Lyrics by Soheil Peyghambari - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/soheil-peyghambari/souvra
+    references:
+    - source: soundcloud.com-soheil-peyghambari-souvra
+      quote: Stream Souvra | سووْرا by Soheil Peyghambari | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/5WXVRl0ol3Hh21Ip3omLdG
+    references:
+    - source: open.spotify.com-track-5wxvrl0ol3hh21ip3omldg
+      quote: Souvra - song and lyrics by Soheil Peyghambari | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://www.youtube.com/watch?v=Uthd0mqLoxo
+    references:
+    - source: www.youtube.com-watch-v-uthd0mqloxo
+      quote: Souvra
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/9c/bc/95/9cbc95a1-e2bd-6bbf-aba7-24a188aedf9b/889211010363.jpg/600x600bb.webp
+    references:
+    - source: music.apple.com-us-song-916829132
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/9c/bc/95/9cbc95a1-e2bd-6bbf-aba7-24a188aedf9b/889211010363.jpg/600x600bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Soheil Peyghambari on Apple Music
+        language: en
+  release date:
+  - value:
+      date: '2014-08-05'
+    references:
+    - source: music.apple.com-us-song-916829132
+      quote: August 5, 2014
+      accessed: '2026-11-21'
+      locator: Published date

@@ -2,7 +2,7 @@ import { isoDate } from './dates';
 import { strings } from './i18n';
 import { addressOf, COVER_WIDTHS, imageOf, type LinkedImage } from './images';
 import {
-  best, datesDisagree, isDate, isText, nameOf, recordingArtists, releaseDates, releasesOf, REPOSITORY, url,
+  best, datesDisagree, isDate, isText, nameOf, recordingArtists, releaseDates, catalogueReleasesOf, REPOSITORY, url,
   type Item, type Lang, type SiteRecord, type Text,
 } from './record';
 
@@ -71,7 +71,8 @@ export function artistJsonLd(
       .filter((x): x is Item => Boolean(x));
     if (members.length) node.member = [...new Map(members.map((m) => [m.id, m])).values()].map((m) => ({ '@type': 'Person', ...names(m, lang), ...at(m) }));
   }
-  const albums = releasesOf(record, artist).map((r) => {
+  const catalogue = catalogueReleasesOf(record, artist);
+  const albums = catalogue.map((r) => {
     const released = releaseDates(r);
     const date = released.length && !datesDisagree(released) ? isoDate(released[0]) : null;
     const listen = (r.statements['listen link'] ?? []).filter((s) => s.rank !== 'deprecated').map((s) => String(s.value));
@@ -91,8 +92,10 @@ export function artistJsonLd(
     };
   });
   // A group lists its albums; a person's releases stand beside them with their recorded performers.
-  const standalone = artist.type === 'person' ? albums : [];
-  if (albums.length && artist.type !== 'person') node.album = albums;
+  const groupReleases = new Set(artist.type === 'act' ? artist.releases : []);
+  const groupAlbums = albums.filter((_, index) => groupReleases.has(catalogue[index].id));
+  const standalone = albums.filter((_, index) => !groupReleases.has(catalogue[index].id));
+  if (groupAlbums.length) node.album = groupAlbums;
 
   const breadcrumbs = {
     '@type': 'BreadcrumbList',

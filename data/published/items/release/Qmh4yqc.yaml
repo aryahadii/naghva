@@ -1,0 +1,53 @@
+id: Qmh4yqc
+type: release
+statements:
+  name:
+  - value:
+      text: Khali
+      language: en
+    references:
+    - source: youtu.be-hhm1byrholm
+      quote: Jamin - Khali | OFFICIAL TRACK جامین - خالی
+      accessed: 2026-11-21
+      locator: Jamin artist channel
+  listen link:
+  - value: https://youtu.be/HHM1byrhoLM
+    references:
+    - source: youtu.be-hhm1byrholm
+      quote: Jamin - Khali | OFFICIAL TRACK جامین - خالی
+      accessed: 2026-11-21
+      locator: Jamin artist channel
+  - value: https://music.apple.com/us/song/khali/1728217771
+    references:
+    - source: music.apple.com-us-album-khali-single-1728217765
+      quote: Khali
+      accessed: 2026-11-21
+      locator: Track title
+  - value: https://open.spotify.com/track/5ecArKLjYEFe4k8GB3atM8
+    references:
+    - source: open.spotify.com-album-06ff7lfk8kilglgnjpfrur
+      quote: Khali
+      accessed: 2026-11-21
+      locator: Track title
+  performer:
+  - value: Qevmv7f
+    references:
+    - source: youtu.be-hhm1byrholm
+      quote: Jamin - Khali | OFFICIAL TRACK جامین - خالی
+      accessed: 2026-11-21
+      locator: Jamin artist channel
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/18/36/80/18368021-0292-7cc1-aa41-6f1120c5c7fd/cover.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-khali-single-1728217765
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/18/36/80/18368021-0292-7cc1-aa41-6f1120c5c7fd/cover.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Edition artwork
+  release date:
+  - value:
+      date: '2024-02-01'
+    references:
+    - source: music.apple.com-us-album-khali-single-1728217765
+      quote: '2024-02-01'
+      accessed: 2026-11-21
+      locator: Digital release date

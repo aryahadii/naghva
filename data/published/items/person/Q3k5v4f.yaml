@@ -1,0 +1,19 @@
+id: Q3k5v4f
+type: person
+statements:
+  name:
+  - value:
+      text: Mehrbanu
+      language: en
+    references:
+    - &id001
+      source: casa-della-cultura-persia-mistica-2007
+      quote: Mehrbanu
+      accessed: '2026-11-21'
+      locator: 2007 ensemble roster
+  member of:
+  - value: Qa69txt
+    references:
+    - *id001
+    qualifiers:
+      role: vocals

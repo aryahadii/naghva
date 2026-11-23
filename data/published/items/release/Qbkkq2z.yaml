@@ -1,0 +1,41 @@
+id: Qbkkq2z
+type: release
+statements:
+  name:
+  - value:
+      text: Shadi Fathi & Zé Luis Nascimento
+      language: fr
+    references:
+    - source: www.shadi-fathi.com-galerie-videos
+      quote: Shadi Fathi & Zé Luis Nascimento
+      accessed: '2026-11-21'
+      locator: Artist video gallery title
+  performer:
+  - value: Qfxqgvv
+    references:
+    - source: www.shadi-fathi.com-galerie-videos
+      quote: Shadi Fathi & Zé Luis Nascimento
+      accessed: '2026-11-21'
+      locator: Artist video gallery title
+    - source: www.odoensemble.com-en-shadi-fathi
+      quote: Shadi Fathi
+      accessed: '2026-11-21'
+      locator: Artist heading
+  listen link:
+  - value: https://www.youtube.com/watch?v=QI250urdAE0
+    references:
+    - source: www.shadi-fathi.com-galerie-videos
+      quote: QI250urdAE0
+      accessed: '2026-11-21'
+      locator: Artist embeds this specific YouTube video
+  cover art:
+  - value: https://i.ytimg.com/vi/QI250urdAE0/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-qi250urdae0
+      quote: https://i.ytimg.com/vi/QI250urdAE0/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Official thumbnail returned by YouTube for this video
+    qualifiers:
+      credit:
+        text: Festival Les Suds, à Arles · YouTube
+        language: en

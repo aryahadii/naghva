@@ -1,0 +1,72 @@
+id: Qtpje7s
+type: release
+statements:
+  name:
+  - value:
+      text: Demitasse
+      language: en
+    references:
+    - source: open.spotify.com-album-5pru0ke0ozwywsbngisusx
+      quote: Demitasse
+      accessed: '2026-11-21'
+      locator: Spotify album
+    - source: music.apple.com-us-album-demitasse-feat-jeremy-rose-hamed-sadeghi-lloyd-swanton-1761966444
+      quote: Demitasse (feat. Jeremy Rose, Hamed Sadeghi & Lloyd Swanton) - Single
+      accessed: '2026-11-21'
+      locator: Album title in Apple Music catalogue
+  performer:
+  - value: Q597kk9
+    references:
+    - source: music.apple.com-us-album-demitasse-feat-jeremy-rose-hamed-sadeghi-lloyd-swanton-1761966444
+      quote: Vazesh
+      accessed: '2026-11-21'
+      locator: Album performer
+  listen link:
+  - value: https://music.apple.com/us/album/demitasse-feat-jeremy-rose-hamed-sadeghi-lloyd-swanton/1761966444
+    references:
+    - source: music.apple.com-us-album-demitasse-feat-jeremy-rose-hamed-sadeghi-lloyd-swanton-1761966444
+      quote: Demitasse (feat. Jeremy Rose, Hamed Sadeghi & Lloyd Swanton) - Single
+      accessed: '2026-11-21'
+      locator: Album title in Apple Music catalogue
+  - value: https://open.spotify.com/album/5Pru0kE0ozWYWsBngisusX
+    references:
+    - source: open.spotify.com-album-5pru0ke0ozwywsbngisusx
+      quote: Demitasse
+      accessed: '2026-11-21'
+      locator: Spotify album
+  - value: https://www.youtube.com/playlist?list=OLAK5uy_mFOMKPY-g2cbfCKoH9NJT5N3eT1eh6LNk
+    references:
+    - source: www.youtube.com-playlist-list-olak5uy_mfomkpy-g2cbfckoh9njt5n3et1eh6lnk
+      quote: Demitasse
+      accessed: '2026-11-21'
+      locator: Album or single playlist title
+  release date:
+  - value:
+      date: '2024-09-27'
+    references:
+    - source: music.apple.com-us-album-demitasse-feat-jeremy-rose-hamed-sadeghi-lloyd-swanton-1761966444
+      quote: '2024-09-27'
+      accessed: '2026-11-21'
+      locator: Release date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b0/28/32/b0283234-3723-9e5a-552f-f2861baea30f/TI154533_cover.jpg/1200x630bb.jpg
+    qualifiers:
+      credit:
+        text: Apple Music edition artwork
+        language: en
+    references:
+    - source: music.apple.com-us-album-demitasse-feat-jeremy-rose-hamed-sadeghi-lloyd-swanton-1761966444
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b0/28/32/b0283234-3723-9e5a-552f-f2861baea30f/TI154533_cover.jpg/1200x630bb.jpg
+      accessed: '2026-11-21'
+      locator: Single edition artwork
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-demitasse-feat-jeremy-rose-hamed-sadeghi-lloyd-swanton-1761966444
+      quote: Demitasse (feat. Jeremy Rose, Hamed Sadeghi & Lloyd Swanton) - Single
+      accessed: '2026-11-21'
+      locator: Album title in Apple Music catalogue
+    - source: music.apple.com-us-album-demitasse-feat-jeremy-rose-hamed-sadeghi-lloyd-swanton-1761966444
+      quote: Single
+      accessed: '2026-11-21'
+      locator: Release page title

@@ -1,0 +1,43 @@
+id: Qjwby42
+type: release
+statements:
+  name:
+  - value:
+      text: Wasted - Remaster
+      language: en
+    references:
+    - source: open.spotify.com-track-5p57nkusifawzedujo21al
+      quote: Wasted - Remaster - song and lyrics by Ashh Nm, Meshcut | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qh6s4f5
+    references:
+    - source: open.spotify.com-track-5p57nkusifawzedujo21al
+      quote: Wasted - Remaster - song and lyrics by Ashh Nm, Meshcut | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Q4n5ykc
+    references:
+    - source: open.spotify.com-track-5p57nkusifawzedujo21al
+      quote: Ashh Nm
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://open.spotify.com/track/5P57NKusifAwZEDUjo21al
+    references:
+    - source: open.spotify.com-track-5p57nkusifawzedujo21al
+      quote: Wasted - Remaster - song and lyrics by Ashh Nm, Meshcut | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d0000b27320f2603d36be397909f3febe
+    references:
+    - source: open.spotify.com-track-5p57nkusifawzedujo21al
+      quote: https://i.scdn.co/image/ab67616d0000b27320f2603d36be397909f3febe
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original recording artwork
+        language: en

@@ -1,0 +1,45 @@
+id: Q2kg38z
+type: release
+statements:
+  name:
+  - value:
+      text: Lagan Way Take02
+      language: en
+    references:
+    - source: soundcloud.com-hadi-bastani-lagan-way-take02
+      quote: Lagan Way Take02
+      accessed: '2026-11-21'
+      locator: Recording heading
+  performer:
+  - value: Qyt2364
+    references:
+    - source: soundcloud.com-hadi-bastani-lagan-way-take02
+      quote: Stream Lagan Way Take02 by Hadi Bastani | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://soundcloud.com/hadi-bastani/lagan-way-take02
+    references:
+    - source: soundcloud.com-hadi-bastani-lagan-way-take02
+      quote: Stream Lagan Way Take02 by Hadi Bastani | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-ptm6PQbKGo46ykiA-MMJiBg-large.jpg
+    references:
+    - source: soundcloud.com-hadi-bastani-lagan-way-take02
+      quote: https://i1.sndcdn.com/artworks-ptm6PQbKGo46ykiA-MMJiBg-large.jpg
+      accessed: '2026-11-21'
+      locator: SoundCloud artwork metadata
+    qualifiers:
+      credit:
+        text: Hadi Bastani on SoundCloud
+        language: en
+  release date:
+  - value:
+      date: '2022-07-19'
+    references:
+    - source: soundcloud.com-hadi-bastani-lagan-way-take02
+      quote: '2022-07-19T13:08:02Z'
+      accessed: '2026-11-21'
+      locator: SoundCloud release or upload timestamp

@@ -1,0 +1,37 @@
+id: Qgk4jsj
+type: release
+statements:
+  name:
+  - value:
+      text: The Sun Taker
+      language: en
+    references:
+    - source: open.spotify.com-track-27yzxkzwbeoivrdxoqqukk
+      quote: The Sun Taker (feat. Rouzbeh Esfandarmaz) - song and lyrics by Bomrani, Rouzbeh Esfandarmaz | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qzchcs8
+    references:
+    - source: open.spotify.com-track-27yzxkzwbeoivrdxoqqukk
+      quote: The Sun Taker (feat. Rouzbeh Esfandarmaz) - song and lyrics by Bomrani, Rouzbeh Esfandarmaz | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://open.spotify.com/track/27yZXKZWbEoivRDXoQQukk
+    references:
+    - source: open.spotify.com-track-27yzxkzwbeoivrdxoqqukk
+      quote: The Sun Taker (feat. Rouzbeh Esfandarmaz) - song and lyrics by Bomrani, Rouzbeh Esfandarmaz | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d0000b273f9abe4e19b9ddcfb5e2f1310
+    references:
+    - source: open.spotify.com-track-27yzxkzwbeoivrdxoqqukk
+      quote: https://i.scdn.co/image/ab67616d0000b273f9abe4e19b9ddcfb5e2f1310
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original publisher artwork
+        language: en

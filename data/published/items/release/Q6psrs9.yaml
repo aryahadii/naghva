@@ -1,0 +1,57 @@
+id: Q6psrs9
+type: release
+statements:
+  name:
+  - value:
+      text: Abu Ata Saqi Nameh
+      language: en
+    references:
+    - source: siamak-jahangiri-ap6824610921
+      quote: Abu Ata Saqi Nameh
+      accessed: '2026-11-21'
+      locator: Track title and billing
+  release date:
+  - value:
+      date: '2025-01-18'
+    references:
+    - source: siamak-jahangiri-ap6824610921
+      quote: '2025-01-18'
+      accessed: '2026-11-21'
+      locator: Edition release date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/13/32/fd/1332fda9-aa3e-b66f-5fe3-db5be8f02193/9008798788279_cover.jpg/1200x630wp-60.jpg
+    references:
+    - source: siamak-jahangiri-ap6824610921
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/13/32/fd/1332fda9-aa3e-b66f-5fe3-db5be8f02193/9008798788279_cover.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Digital release artwork
+    qualifiers:
+      credit:
+        text: Apple Music, original edition artwork
+        language: en
+  performer:
+  - value: Qnz4xnz
+    references:
+    - source: siamak-jahangiri-ap6824610921
+      quote: Siamak Jahangiry
+      accessed: '2026-11-21'
+      locator: Distributor artist credit
+  - value: Qwmscr2
+    references:
+    - source: siamak-jahangiri-ap6824610921
+      quote: Omid Niavarani
+      accessed: '2026-11-21'
+      locator: Distributor artist credit
+  listen link:
+  - value: https://music.apple.com/us/song/abu-ata-saqi-nameh/6824610939
+    references:
+    - source: siamak-jahangiri-ap6824610921
+      quote: https://music.apple.com/us/song/abu-ata-saqi-nameh/6824610939
+      accessed: '2026-11-21'
+      locator: Exact edition or recording
+  - value: https://open.spotify.com/track/5WiB6cEwkY8byP7jVSc2Iq
+    references:
+    - source: siamak-jahangiri-ed03u6svny6grla5ni1ancae
+      quote: spotify:track:5WiB6cEwkY8byP7jVSc2Iq
+      accessed: '2026-11-21'
+      locator: Spotify recording

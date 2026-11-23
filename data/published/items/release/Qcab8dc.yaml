@@ -1,0 +1,66 @@
+id: Qcab8dc
+type: release
+statements:
+  name:
+  - value:
+      text: Mirage
+      language: en
+    references:
+    - source: music.apple.com-us-album-mirage-single-6789143613
+      quote: Mirage
+      accessed: 2026-11-21
+      locator: Track 1
+  performer:
+  - value: Qghhr4e
+    references:
+    - source: open.spotify.com-album-6diqbpabqsleuikhd6hexx
+      quote: ASADI, Amanati
+      accessed: 2026-11-21
+      locator: Individual track credits
+  listen link:
+  - value: https://music.apple.com/us/song/mirage/6789143614
+    references:
+    - source: music.apple.com-us-album-mirage-single-6789143613
+      quote: Mirage
+      accessed: 2026-11-21
+      locator: Track 1
+  - value: https://open.spotify.com/track/2sbmAii7ufbeIjuwCOnQZX
+    references:
+    - source: open.spotify.com-album-6diqbpabqsleuikhd6hexx
+      quote: Mirage · ASADI
+      accessed: 2026-11-21
+      locator: Native digital record
+  - value: https://music.apple.com/us/album/mirage-single/6789143613
+    references:
+    - source: music.apple.com-us-album-mirage-single-6789143613
+      quote: Mirage - Single · ASADI, Amanati · 2026-07-24
+      accessed: 2026-11-21
+      locator: Album artist and issue date
+  - value: https://open.spotify.com/album/6DIqBPAbQsleUIkhd6hEXX
+    references:
+    - source: open.spotify.com-album-6diqbpabqsleuikhd6hexx
+      quote: Mirage · ASADI
+      accessed: 2026-11-21
+      locator: Native digital record
+  release date:
+  - value:
+      date: '2026-07-24'
+    references:
+    - source: music.apple.com-us-album-mirage-single-6789143613
+      quote: Mirage
+      accessed: 2026-11-21
+      locator: Track 1
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-mirage-single-6789143613
+      quote: Mirage
+      accessed: 2026-11-21
+      locator: Track 1
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/24/68/b6/2468b674-2b32-40fb-a23f-34ff69cc1658/artwork.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-mirage-single-6789143613
+      quote: Mirage
+      accessed: 2026-11-21
+      locator: Track 1

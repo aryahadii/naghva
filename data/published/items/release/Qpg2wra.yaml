@@ -1,0 +1,76 @@
+id: Qpg2wra
+type: release
+statements:
+  name:
+  - value:
+      text: Dreams
+      language: en
+    references:
+    - source: mentrix.bandcamp.com-track-dreams
+      quote: Dreams
+      accessed: '2026-11-21'
+      locator: Recording heading
+  performer:
+  - value: Qynmr3m
+    references:
+    - source: mentrix.bandcamp.com-track-dreams
+      quote: Dreams | Mentrix
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://mentrix.bandcamp.com/track/dreams
+    references:
+    - source: mentrix.bandcamp.com-track-dreams
+      quote: Dreams | Mentrix
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/dreams/1572275300
+    references:
+    - source: music.apple.com-us-song-dreams-1572275300
+      quote: ‎Dreams - Song with Lyrics by Mentrix - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/3VPyKE2CAPSw21PJbTZ75X
+    references:
+    - source: open.spotify.com-track-3vpyke2capsw21pjbtz75x
+      quote: Dreams - song and lyrics by Mentrix | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/mentrixsound/02-dreams
+    references:
+    - source: soundcloud.com-mentrixsound-02-dreams
+      quote: Stream 02 _Dreams_ by M E N T R I X | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/mentrixsound/mentrix-dreams
+    references:
+    - source: soundcloud.com-mentrixsound-mentrix-dreams
+      quote: Stream Dreams by M E N T R I X | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  published by:
+  - value: Qmz3gff
+    references:
+    - source: mentrix.bandcamp.com-track-dreams
+      quote: House Of Strength Records
+      accessed: '2026-11-21'
+      locator: Artist label header
+  release date:
+  - value:
+      date: '2020-04-03'
+    references:
+    - source: mentrix.bandcamp.com-track-dreams
+      quote: released April 3, 2020
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a0360057345_10.jpg
+    references:
+    - source: mentrix.bandcamp.com-track-dreams
+      quote: https://f4.bcbits.com/img/a0360057345_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Mentrix on Bandcamp
+        language: en

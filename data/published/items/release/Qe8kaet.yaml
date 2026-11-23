@@ -1,0 +1,59 @@
+id: Qe8kaet
+type: release
+statements:
+  name:
+  - value:
+      text: black square
+      language: en
+    references:
+    - &id001
+      source: umchunga.bandcamp.com-track-black-square
+      quote: black square | Umchunga
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Q9rnctv
+    references:
+    - *id001
+  listen link:
+  - value: https://umchunga.bandcamp.com/track/black-square
+    references:
+    - source: umchunga.bandcamp.com-track-black-square
+      quote: black square | Umchunga
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/umchunga/black-square
+    references:
+    - source: soundcloud.com-umchunga-black-square
+      quote: Stream black square by Umchunga | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://umchunga.bandcamp.com/album/black-square
+    references:
+    - source: umchunga.bandcamp.com-album-black-square
+      quote: black square | Umchunga
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a2311624586_10.jpg
+    references:
+    - source: umchunga.bandcamp.com-track-black-square
+      quote: https://f4.bcbits.com/img/a2311624586_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    - source: umchunga.bandcamp.com-album-black-square
+      quote: Album artwork by Sadaf Azadehfar
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: Sadaf Azadehfar
+        language: en
+  release date:
+  - value:
+      date: '2021-05-31'
+    references:
+    - source: umchunga.bandcamp.com-track-black-square
+      quote: released May 31, 2021
+      accessed: '2026-11-21'
+      locator: Published date

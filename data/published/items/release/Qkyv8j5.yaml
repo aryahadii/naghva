@@ -1,0 +1,45 @@
+id: Qkyv8j5
+type: release
+statements:
+  name:
+  - value:
+      text: ترانه ی بد
+      language: fa
+    references:
+    - source: soundcloud.com-babackrajabi-slknjvfjestl
+      quote: ترانه ی بد
+      accessed: '2026-11-21'
+      locator: Title on artist’s SoundCloud upload
+  performer:
+  - value: Qzhgpkw
+    references:
+    - source: soundcloud.com-babackrajabi-slknjvfjestl
+      quote: Babak Rajabi
+      accessed: '2026-11-21'
+      locator: Artist profile name
+  release date:
+  - value:
+      date: '2020-01-11'
+    references:
+    - source: soundcloud.com-babackrajabi-slknjvfjestl
+      quote: '2020-01-11'
+      accessed: '2026-11-21'
+      locator: SoundCloud upload date
+  listen link:
+  - value: https://soundcloud.com/babackrajabi/slknjvfjestl
+    references:
+    - source: soundcloud.com-babackrajabi-slknjvfjestl
+      quote: ترانه ی بد
+      accessed: '2026-11-21'
+      locator: Title on artist’s SoundCloud upload
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-000666125626-ekrmnf-large.jpg
+    references:
+    - source: soundcloud.com-babackrajabi-slknjvfjestl
+      quote: https://i1.sndcdn.com/artworks-000666125626-ekrmnf-large.jpg
+      accessed: '2026-11-21'
+      locator: Artist-uploaded track artwork URL
+    qualifiers:
+      credit:
+        text: Babak Rajabi · SoundCloud
+        language: en

@@ -1,0 +1,47 @@
+id: Qn5wn55
+type: release
+statements:
+  name:
+  - value:
+      text: Clever Dawn
+      language: en
+    references:
+    - source: music.apple.com-us-album-redemption-1728282095
+      quote: Clever Dawn
+      accessed: 2026-11-21
+      locator: Track title
+  performer:
+  - value: Qqrzzag
+    references:
+    - source: music.apple.com-us-album-redemption-1728282095
+      quote: Blurred Vision
+      accessed: 2026-11-21
+      locator: Album billing
+  release date:
+  - value:
+      date: '2020-06-05'
+    references:
+    - source: music.apple.com-us-album-redemption-1728282095
+      quote: '2020-06-05'
+      accessed: 2026-11-21
+      locator: Edition date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d9/8d/a8/d98da890-8768-b645-b2f5-9d48701ffe49/859783537001_cover.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-redemption-1728282095
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d9/8d/a8/d98da890-8768-b645-b2f5-9d48701ffe49/859783537001_cover.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Edition cover
+  listen link:
+  - value: https://music.apple.com/us/song/clever-dawn/1728282426
+    references:
+    - source: music.apple.com-us-album-redemption-1728282095
+      quote: Clever Dawn
+      accessed: 2026-11-21
+      locator: Track title
+  - value: https://open.spotify.com/track/07mCOWgBcK5uGT6T8NlWRV
+    references:
+    - source: open.spotify.com-album-1ac7o1kcladyitqaeser3o
+      quote: Clever Dawn
+      accessed: 2026-11-21
+      locator: Spotify edition

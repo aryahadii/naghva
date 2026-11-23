@@ -1,0 +1,65 @@
+id: Qwpeeqx
+type: release
+statements:
+  name:
+  - value:
+      text: Baraye
+      language: en
+    references:
+    - source: music.apple.com-us-album-baraye-single-1805219467
+      quote: Baraye
+      accessed: 2026-11-21
+      locator: Edition or recording title
+    - source: play.radiojavan.com-song-shervin-hajipour-baraye
+      quote: Baraye
+      accessed: 2026-11-21
+      locator: Native Radio Javan edition
+  - value:
+      text: برای
+      language: fa
+    references:
+    - source: youtu.be-bgesf7qcrek
+      quote: Shervin - Baraye | شروین - برای
+      accessed: 2026-11-21
+      locator: Official channel, recording title
+  performer:
+  - value: Qjeb9e9
+    references:
+    - source: music.apple.com-us-album-baraye-single-1805219467
+      quote: Shervin Hajipour
+      accessed: 2026-11-21
+      locator: Digital credits
+  listen link:
+  - value: https://music.apple.com/us/song/baraye/1805219473
+    references:
+    - source: music.apple.com-us-album-baraye-single-1805219467
+      quote: Baraye
+      accessed: 2026-11-21
+      locator: Edition or recording title
+  - value: https://open.spotify.com/track/7qZg6ZNvhds5bcWgjWoWsT
+    references:
+    - source: open.spotify.com-album-0q724ezxzl3licilxnae4w
+      quote: Baraye
+      accessed: 2026-11-21
+      locator: Published recording
+  - value: https://youtu.be/BGesf7QcREk
+    references:
+    - source: youtu.be-bgesf7qcrek
+      quote: Shervin - Baraye | شروین - برای
+      accessed: 2026-11-21
+      locator: Official channel, recording title
+  release date:
+  - value:
+      date: '2022-09-28'
+    references:
+    - source: music.apple.com-us-album-baraye-single-1805219467
+      quote: '2022-09-28'
+      accessed: 2026-11-21
+      locator: Digital edition date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/28/c2/7b/28c27b27-f9b2-9246-10f4-51384dce5434/4056813456608.png/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-baraye-single-1805219467
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/28/c2/7b/28c27b27-f9b2-9246-10f4-51384dce5434/4056813456608.png/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Digital edition artwork

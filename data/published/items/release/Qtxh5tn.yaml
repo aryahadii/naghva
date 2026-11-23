@@ -1,0 +1,85 @@
+id: Qtxh5tn
+type: release
+statements:
+  name:
+  - value:
+      text: This Tale of Ours - Part One
+      language: en
+    references:
+    - source: www.youtube.com-watch-v-q9bdwfhv0oq
+      quote: This Tale of Ours - Part One
+      accessed: '2026-11-21'
+      locator: YouTube oEmbed title
+  performer:
+  - value: Qrtfk67
+    references:
+    - source: www.youtube.com-watch-v-q9bdwfhv0oq
+      quote: This Tale of Ours - Part One
+      accessed: '2026-11-21'
+      locator: YouTube oEmbed title
+  - value: Qzqvz5q
+    qualifiers:
+      role: tar
+    references:
+    - source: www.youtube.com-watch-v-q9bdwfhv0oq
+      quote: Araz Salek
+      accessed: '2026-11-21'
+      locator: Performance description personnel
+  - value: Q5rnjaz
+    qualifiers:
+      role: tombak
+    references:
+    - source: www.youtube.com-watch-v-q9bdwfhv0oq
+      quote: Pedram Khavarzamini
+      accessed: '2026-11-21'
+      locator: Performance description personnel
+  - value: Qd759z9
+    qualifiers:
+      role: strings
+    references:
+    - source: www.youtube.com-watch-v-q9bdwfhv0oq
+      quote: Ross Daly
+      accessed: '2026-11-21'
+      locator: Performance description personnel
+  - value: Qc4jt2w
+    qualifiers:
+      role: strings
+    references:
+    - source: www.youtube.com-watch-v-q9bdwfhv0oq
+      quote: Kelly Thoma
+      accessed: '2026-11-21'
+      locator: Performance description personnel
+  release date:
+  - value:
+      date: '2025-09-30'
+    references:
+    - source: www.youtube.com-watch-v-q9bdwfhv0oq
+      quote: '2025-09-30'
+      accessed: '2026-11-21'
+      locator: YouTube publication date, player metadata
+  listen link:
+  - value: https://www.youtube.com/watch?v=Q9BdWFhV0OQ
+    references:
+    - source: www.youtube.com-watch-v-q9bdwfhv0oq
+      quote: This Tale of Ours - Part One
+      accessed: '2026-11-21'
+      locator: YouTube oEmbed title
+    - source: www.youtube.com-watch-v-q9bdwfhv0oq
+      quote: Araz Salek
+      accessed: '2026-11-21'
+      locator: YouTube oEmbed uploader
+  cover art:
+  - value: https://i.ytimg.com/vi/Q9BdWFhV0OQ/hqdefault.jpg
+    qualifiers:
+      credit:
+        text: Araz Salek on YouTube
+        language: en
+    references:
+    - source: www.youtube.com-watch-v-q9bdwfhv0oq
+      quote: https://i.ytimg.com/vi/Q9BdWFhV0OQ/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: YouTube oEmbed thumbnail
+    - source: www.youtube.com-watch-v-q9bdwfhv0oq
+      quote: Araz Salek
+      accessed: '2026-11-21'
+      locator: YouTube oEmbed uploader

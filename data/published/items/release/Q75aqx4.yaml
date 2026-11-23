@@ -7,43 +7,36 @@ statements:
       language: en
     references:
     - source: music.apple.com-us-album-on-the-string-of-the-tears-bow-1367621224
-      quote: |-
-        On the String of the Tear's Bow - Album by Mohsen Namjoo - Apple Music
+      quote: On the String of the Tear's Bow - Album by Mohsen Namjoo - Apple Music
       accessed: '2026-11-09'
     - source: open.spotify.com-album-6zdltdqgjt15afk4p2vgpm
-      quote: |-
-        Listen to On the String of the Tear's Bow - Album by Mohsen Namjoo | Spotify
+      quote: Listen to On the String of the Tear's Bow - Album by Mohsen Namjoo | Spotify
       accessed: '2026-11-09'
   release type:
   - value: album
     references:
     - source: music.apple.com-us-album-on-the-string-of-the-tears-bow-1367621224
-      quote: |-
-        On the String of the Tear's Bow - Album by Mohsen Namjoo - Apple Music
+      quote: On the String of the Tear's Bow - Album by Mohsen Namjoo - Apple Music
       accessed: '2026-11-09'
     - source: open.spotify.com-album-6zdltdqgjt15afk4p2vgpm
-      quote: |-
-        Listen to On the String of the Tear's Bow - Album by Mohsen Namjoo | Spotify
+      quote: Listen to On the String of the Tear's Bow - Album by Mohsen Namjoo | Spotify
       accessed: '2026-11-09'
   listen link:
   - value: https://music.apple.com/us/album/on-the-string-of-the-tears-bow/1367621224
     references:
     - source: music.apple.com-us-album-on-the-string-of-the-tears-bow-1367621224
-      quote: |-
-        On the String of the Tear's Bow - Album by Mohsen Namjoo - Apple Music
+      quote: On the String of the Tear's Bow - Album by Mohsen Namjoo - Apple Music
       accessed: '2026-11-09'
   - value: https://open.spotify.com/album/6zdltdQGjT15afK4p2vgpm
     references:
     - source: open.spotify.com-album-6zdltdqgjt15afk4p2vgpm
-      quote: |-
-        Listen to On the String of the Tear's Bow - Album by Mohsen Namjoo | Spotify
+      quote: Listen to On the String of the Tear's Bow - Album by Mohsen Namjoo | Spotify
       accessed: '2026-11-09'
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/38/35/3b/38353b6a-05db-3fb2-a874-3a6cd0bfabdc/676868224195.jpg/1200x630wp-60.jpg
     references:
     - source: music.apple.com-us-album-on-the-string-of-the-tears-bow-1367621224
-      quote: |-
-        On the String of the Tear's Bow - Album by Mohsen Namjoo - Apple Music
+      quote: On the String of the Tear's Bow - Album by Mohsen Namjoo - Apple Music
       accessed: '2026-11-09'
     qualifiers:
       credit:
@@ -53,18 +46,24 @@ statements:
   - value: Qt6wjbg
     references:
     - source: music.apple.com-us-album-on-the-string-of-the-tears-bow-1367621224
-      quote: |-
-        On the String of the Tear's Bow - Album by Mohsen Namjoo - Apple Music
+      quote: On the String of the Tear's Bow - Album by Mohsen Namjoo - Apple Music
       accessed: '2026-11-09'
     - source: open.spotify.com-album-6zdltdqgjt15afk4p2vgpm
-      quote: |-
-        Listen to On the String of the Tear's Bow - Album by Mohsen Namjoo | Spotify
+      quote: Listen to On the String of the Tear's Bow - Album by Mohsen Namjoo | Spotify
       accessed: '2026-11-09'
+  - value: Qa6r74t
+    qualifiers:
+      role:
+      - bass
+    references:
+    - source: kasrasaboktakin.com-music
+      quote: https://open.spotify.com/album/6zdltdQGjT15afK4p2vgpm
+      accessed: '2026-11-21'
+      locator: Record linked by bassist in his own portfolio
   release date:
   - value:
       date: '2018-03-26'
     references:
     - source: music.apple.com-us-album-on-the-string-of-the-tears-bow-1367621224
-      quote: |-
-        March 26, 2018
+      quote: March 26, 2018
       accessed: '2026-11-09'

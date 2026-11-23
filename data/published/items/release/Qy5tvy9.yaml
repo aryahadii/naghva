@@ -1,0 +1,21 @@
+id: Qy5tvy9
+type: release
+statements:
+  name:
+  - value:
+      text: ردیف میرزاعبدا لله. به روایت نورعلی برومند. برای ساز نی ۲
+      language: fa
+    references:
+    - &id001
+      source: siamak-jahangiri-tg2935
+      quote: ردیف میرزاعبدا لله. به روایت نورعلی برومند. برای ساز نی ۲
+      accessed: '2026-11-21'
+      locator: Publisher catalogue title or programme
+  performer:
+  - value: Qnz4xnz
+    references:
+    - *id001
+  release type:
+  - value: album
+    references:
+    - *id001

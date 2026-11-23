@@ -1,0 +1,42 @@
+id: Qghhr4e
+type: person
+statements:
+  name:
+  - value:
+      text: ASADI
+      language: en
+    references:
+    - source: music.apple.com-us-album-baraye-asadi-remix-1649237186
+      quote: ASADI & Shervin Hajipour
+      accessed: 2026-11-21
+      locator: Edition artist
+  image:
+  - value: https://i.scdn.co/image/ab6761610000e5ebeade8ef249a9b999ba11ffd5
+    qualifiers:
+      credit:
+        text: ASADI / Spotify
+        language: en
+    references:
+    - source: open.spotify.com-artist-7kzefoaqixkhhth7qmpvlj
+      quote: https://i.scdn.co/image/ab6761610000e5ebeade8ef249a9b999ba11ffd5
+      accessed: 2026-11-21
+      locator: Original artist image
+  profile link:
+  - value: https://open.spotify.com/artist/7kzEfOaqiXkhhTh7qMPVLj
+    references:
+    - source: open.spotify.com-artist-7kzefoaqixkhhth7qmpvlj
+      quote: Listen to ASADI Songs | Spotify
+      accessed: 2026-11-21
+      locator: Native artist profile or artist-issued EP
+  - value: https://music.apple.com/us/artist/asadi/628533389
+    references:
+    - source: music.apple.com-us-artist-asadi-628533389
+      quote: ‎ASADI - Apple Music
+      accessed: 2026-11-21
+      locator: Native artist profile or artist-issued EP
+  - value: https://soundcloud.com/asadimusic
+    references:
+    - source: soundcloud.com-asadimusic
+      quote: ASADI
+      accessed: 2026-11-22
+      locator: Native profile linked from the musician’s videos

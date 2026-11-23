@@ -1,0 +1,57 @@
+id: Q34wfz9
+type: release
+statements:
+  name:
+  - value:
+      text: Bipoler Assaults (feat. Meshcut)
+      language: en
+    references:
+    - source: music.apple.com-us-song-1586365610
+      quote: ‎Bipoler Assaults (feat. Meshcut) - Song with Lyrics by Blausch - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qh6s4f5
+    references:
+    - source: music.apple.com-us-song-1586365610
+      quote: ‎Bipoler Assaults (feat. Meshcut) - Song with Lyrics by Blausch - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qhp9jh4
+    references:
+    - source: open.spotify.com-track-4ehix9lxygdorz1j9ktib6
+      quote: Blausch
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://music.apple.com/us/song/1586365610
+    references:
+    - source: music.apple.com-us-song-1586365610
+      quote: ‎Bipoler Assaults (feat. Meshcut) - Song with Lyrics by Blausch - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/4EhIx9LXYGdORz1J9ktIB6
+    references:
+    - source: open.spotify.com-track-4ehix9lxygdorz1j9ktib6
+      quote: Bipoler Assaults - song and lyrics by Blausch, Meshcut | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ad/96/ce/ad96cefa-d955-3bb1-dba8-03fa7ad7d476/4250101435942_cover.jpg/600x600bb.webp
+    references:
+    - source: music.apple.com-us-song-1586365610
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ad/96/ce/ad96cefa-d955-3bb1-dba8-03fa7ad7d476/4250101435942_cover.jpg/600x600bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original recording artwork
+        language: en
+  release date:
+  - value:
+      date: '2021-10-22'
+    references:
+    - source: music.apple.com-us-song-1586365610
+      quote: October 22, 2021
+      accessed: '2026-11-21'
+      locator: Published date

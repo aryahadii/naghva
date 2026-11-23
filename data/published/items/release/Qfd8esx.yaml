@@ -1,0 +1,94 @@
+id: Qfd8esx
+type: release
+statements:
+  name:
+  - value:
+      text: The Valley Of Love
+      language: en
+    references:
+    - source: open.spotify.com-embed-album-65ltsjla6ersvitilr9bi1
+      quote: The Valley Of Love
+      accessed: '2026-11-21'
+      locator: Spotify track listing
+  listen link:
+  - value: https://open.spotify.com/track/5RVOmZhDgvRD9bwkOsgg5e
+    references:
+    - source: open.spotify.com-embed-album-65ltsjla6ersvitilr9bi1
+      quote: spotify:track:5RVOmZhDgvRD9bwkOsgg5e
+      accessed: '2026-11-21'
+      locator: Exact Spotify track
+  - value: https://aazarine.bandcamp.com/track/the-valley-of-love
+    references:
+    - source: aazarine.bandcamp.com-track-the-valley-of-love
+      quote: Featuring Niaz Nawab
+      accessed: '2026-11-21'
+      locator: Bandcamp guest
+  - value: https://www.youtube.com/watch?v=pNJ52HJvaxk
+    references:
+    - source: youtube-com-watch-pnj52hjvaxk
+      quote: The Valley Of Love
+      accessed: '2026-11-21'
+      locator: Original channel video oEmbed title
+  performer:
+  - value: Qb269ps
+    references:
+    - source: open.spotify.com-embed-album-65ltsjla6ersvitilr9bi1
+      quote: The Valley Of Love
+      accessed: '2026-11-21'
+      locator: Spotify track listing
+  - value: Q3wqbqc
+    references:
+    - source: aazarine.bandcamp.com-track-the-valley-of-love
+      quote: Featuring Niaz Nawab
+      accessed: '2026-11-21'
+      locator: Bandcamp guest
+  - value: Q49prrc
+    qualifiers:
+      role: percussion
+    references:
+    - source: aazarine.bandcamp.com-track-the-valley-of-love
+      quote: 'Percussions : Habib Meftah Boushehri'
+      accessed: '2026-11-21'
+      locator: Original players
+  - value: Q83s85t
+    references:
+    - source: aazarine.bandcamp.com-track-the-valley-of-love
+      quote: 'Bandoneon : Carlo Maver'
+      accessed: '2026-11-21'
+      locator: Original players
+  cover art:
+  - value: https://f4.bcbits.com/img/a3087239833_10.jpg
+    qualifiers:
+      credit:
+        text: Arshid Azarine on Bandcamp
+        language: en
+    references:
+    - source: aazarine.bandcamp.com-album-sing-me-a-song
+      quote: https://f4.bcbits.com/img/a3087239833_10.jpg
+      accessed: '2026-11-21'
+      locator: Original artwork
+  release date:
+  - value:
+      date: '2019-06-28'
+    references:
+    - source: aazarine.bandcamp.com-album-sing-me-a-song
+      quote: released June 28, 2019
+      accessed: '2026-11-21'
+      locator: Bandcamp release
+  contributor:
+  - value: Q3wqbqc
+    qualifiers:
+      role: composer
+    references:
+    - source: aazarine.bandcamp.com-track-the-valley-of-love
+      quote: Arshid Azarine / Niaz Nawab
+      accessed: '2026-11-21'
+      locator: Co-composition
+  - value: Qb269ps
+    qualifiers:
+      role: composer
+    references:
+    - source: aazarine.bandcamp.com-track-the-valley-of-love
+      quote: Arshid Azarine / Niaz Nawab
+      accessed: '2026-11-21'
+      locator: Co-composition

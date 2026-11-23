@@ -1,0 +1,81 @@
+id: Qx73598
+type: release
+statements:
+  name:
+  - value:
+      text: One Last Time
+      language: en
+    references:
+    - source: music.apple.com-us-album-one-last-time-single-1715916232
+      quote: One Last Time
+      locator: Track 1
+      accessed: '2026-11-21'
+  performer:
+  - value: Qxmhx58
+    references:
+    - source: music.apple.com-us-album-one-last-time-single-1715916232
+      quote: Marie Sahba
+      locator: Primary release artist
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2023-11-24'
+    references:
+    - source: music.apple.com-us-album-one-last-time-single-1715916232
+      quote: '2023-11-24'
+      locator: Edition date
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/4b/03/25/4b03252f-3eaf-8bd5-3e7a-e4a202d826a3/197190364378.jpg/632x632bb-60.jpg
+    references:
+    - source: music.apple.com-us-album-one-last-time-single-1715916232
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/4b/03/25/4b03252f-3eaf-8bd5-3e7a-e4a202d826a3/197190364378.jpg/632x632bb-60.jpg
+      locator: Apple Music release artwork
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: One Last Time · Apple Music
+        language: en
+  listen link:
+  - value: https://music.apple.com/us/song/one-last-time/1715916246
+    references:
+    - source: music.apple.com-us-album-one-last-time-single-1715916232
+      quote: One Last Time
+      locator: Track 1
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/4rF1Qm7hOSG07rwHh7oRIy
+    references:
+    - source: open.spotify.com-album-6nbnc0i3sb7xxc31bqnmzq
+      quote: One Last Time
+      locator: Track 1
+      accessed: '2026-11-21'
+  - value: https://music.apple.com/us/song/one-last-time/1753127851
+    references:
+    - source: music.apple.com-us-album-a-billion-years-too-soon-deluxe-1753125704
+      quote: One Last Time
+      locator: Track 14
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/0WyFmfA6mQnpK8qiBWSQYj
+    references:
+    - source: open.spotify.com-album-368omyrjn8cs2liqzyqpzv
+      quote: One Last Time
+      locator: Track 14
+      accessed: '2026-11-21'
+  - value: https://mariesahba.bandcamp.com/track/one-last-time
+    references:
+    - source: mariesahba.bandcamp.com-album-a-billion-years-too-soon-deluxe
+      quote: One Last Time
+      locator: Bandcamp track
+      accessed: '2026-11-21'
+  - value: https://soundcloud.com/mariesahba/one-last-time-1
+    references:
+    - source: soundcloud.com-mariesahba-one-last-time-1
+      quote: One Last Time
+      locator: Original SoundCloud upload
+      accessed: '2026-11-21'
+  - value: https://www.youtube.com/watch?v=k_Z37OsTcHI
+    references:
+    - source: www.youtube.com-oembed-k_z37ostchi
+      quote: Marie Sahba - One Last Time
+      locator: Official artist upload
+      accessed: '2026-11-21'

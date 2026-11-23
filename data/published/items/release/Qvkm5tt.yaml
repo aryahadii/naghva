@@ -1,0 +1,62 @@
+id: Qvkm5tt
+type: release
+statements:
+  name:
+  - value:
+      text: Mise En Abyme
+      language: en
+    references:
+    - source: 9tantiope.bandcamp.com-track-mise-en-abyme
+      quote: Mise En Abyme | 9T Antiope
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qyv32ms
+    references:
+    - source: 9tantiope.bandcamp.com-album-grimace
+      quote: Grimace | 9T Antiope
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qz5swxp
+    references:
+    - source: 9tantiope.bandcamp.com-album-grimace
+      quote: 'Vocals & Lyrics: Sara Bigdeli Shamloo'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: vocals
+  contributor:
+  - value: Qgncp5r
+    references:
+    - source: 9tantiope.bandcamp.com-album-grimace
+      quote: 'Composer: Nima Aghiani'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: composer
+  listen link:
+  - value: https://9tantiope.bandcamp.com/track/mise-en-abyme
+    references:
+    - source: 9tantiope.bandcamp.com-track-mise-en-abyme
+      quote: Mise En Abyme | 9T Antiope
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2019-09-09'
+    references:
+    - source: 9tantiope.bandcamp.com-album-grimace
+      quote: released September 9, 2019
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a1346749402_10.jpg
+    references:
+    - source: 9tantiope.bandcamp.com-track-mise-en-abyme
+      quote: https://f4.bcbits.com/img/a1346749402_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: 9T Antiope
+        language: en

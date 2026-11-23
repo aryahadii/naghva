@@ -1,0 +1,50 @@
+id: Qcafvbj
+type: release
+statements:
+  name:
+  - value:
+      text: Lowww
+      language: en
+    references:
+    - source: azutiwaline.bandcamp.com-track-lowww
+      quote: Lowww
+      accessed: '2026-11-21'
+      locator: Recording title or artist credit
+  performer:
+  - value: Q8k4r2t
+    references: &id001
+    - source: azutiwaline.bandcamp.com-track-lowww
+      quote: Lowww | Azu Tiwaline x Cinna Peyghamy | Azu Tiwaline
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://azutiwaline.bandcamp.com/track/lowww
+    references: *id001
+  contributor:
+  - value: Q4q92dh
+    references:
+    - source: azutiwaline.bandcamp.com-album-vesta
+      quote: Additional arrangements by Cinna Peyghamy on Lowww
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: arranger
+  cover art:
+  - value: https://f4.bcbits.com/img/a0184928741_10.jpg
+    references:
+    - source: azutiwaline.bandcamp.com-track-lowww
+      quote: https://f4.bcbits.com/img/a0184928741_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Azu Tiwaline on Bandcamp
+        language: en
+  release date:
+  - value:
+      date: '2022-06-16'
+    references:
+    - source: azutiwaline.bandcamp.com-album-vesta
+      quote: released June 16, 2022
+      accessed: '2026-11-21'
+      locator: Published date

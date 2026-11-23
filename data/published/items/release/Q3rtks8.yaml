@@ -1,0 +1,45 @@
+id: Q3rtks8
+type: release
+statements:
+  name:
+  - value:
+      text: 'FLUX 76 // Guestmix: ArtSaves'
+      language: en
+    references:
+    - source: soundcloud.com-artsvs-flux-76-guest-mix-artsaves
+      quote: 'Stream FLUX 76 // Guestmix: ArtSaves by ArtSaves | Listen online for free on SoundCloud'
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qw9zs9g
+    references:
+    - source: soundcloud.com-artsvs-flux-76-guest-mix-artsaves
+      quote: 'Stream FLUX 76 // Guestmix: ArtSaves by ArtSaves | Listen online for free on SoundCloud'
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://soundcloud.com/artsvs/flux-76-guest-mix-artsaves
+    references:
+    - source: soundcloud.com-artsvs-flux-76-guest-mix-artsaves
+      quote: 'Stream FLUX 76 // Guestmix: ArtSaves by ArtSaves | Listen online for free on SoundCloud'
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-000222956767-94k5ey-t500x500.jpg
+    references:
+    - source: soundcloud.com-artsvs-flux-76-guest-mix-artsaves
+      quote: https://i1.sndcdn.com/artworks-000222956767-94k5ey-t500x500.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original publisher artwork
+        language: en
+  release date:
+  - value:
+      date: '2017-05-17'
+    references:
+    - source: soundcloud.com-artsvs-flux-76-guest-mix-artsaves
+      quote: '2017-05-17T11:21:08Z'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits

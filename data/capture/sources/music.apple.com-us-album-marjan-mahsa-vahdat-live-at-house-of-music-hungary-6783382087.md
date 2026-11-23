@@ -20,3 +20,47 @@ Apple Music embedded release metadata, read 2026-11-13.
 > "datePublished":"2026-06-25"
 
 Apple Music embedded release metadata, read 2026-11-13.
+
+> Marjan & Mahsa Vahdat Live at House of Music Hungary · Marjan Vahdat, Mahsa Vahdat · 2026-06-25
+
+Album artist and issue date, read 2026-11-21.
+
+> Don't Leave Me (Live)
+
+Track 1, read 2026-11-21.
+
+> Zohre Va Taher (Live)
+
+Track 2, read 2026-11-21.
+
+> The Joy of Your Kisses (Live)
+
+Track 3, read 2026-11-21.
+
+> Beholding Twilight (Live)
+
+Track 4, read 2026-11-21.
+
+> Bahare Delneshin (Live)
+
+Track 5, read 2026-11-21.
+
+> Colored Night (Live)
+
+Track 6, read 2026-11-21.
+
+> Dialogue with the Beloved (Live)
+
+Track 7, read 2026-11-21.
+
+> Leyli Lullaby (Live)
+
+Track 8, read 2026-11-21.
+
+> Dorna (Live)
+
+Track 9, read 2026-11-21.
+
+> The Moon - Faced of Our Beloved (Live)
+
+Track 10, read 2026-11-21.

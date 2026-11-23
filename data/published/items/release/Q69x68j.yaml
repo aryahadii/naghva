@@ -1,0 +1,32 @@
+id: Q69x68j
+type: release
+statements:
+  name:
+  - value:
+      text: Naghib Shanbehzadeh - Darbuka
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-anrucvkphxk
+      quote: Naghib Shanbehzadeh - Darbuka
+      accessed: '2026-11-21'
+      locator: Artist-published performance film
+  performer:
+  - value: Qvhrrm8
+    references:
+    - *id001
+  listen link:
+  - value: https://www.youtube.com/watch?v=aNruCvkpHxk
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/aNruCvkpHxk/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-anrucvkphxk
+      quote: https://i.ytimg.com/vi/aNruCvkpHxk/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original film frame
+    qualifiers:
+      credit:
+        text: naghib shanbehzadeh
+        language: en

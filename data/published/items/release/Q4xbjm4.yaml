@@ -1,0 +1,71 @@
+id: Q4xbjm4
+type: release
+statements:
+  listen link:
+  - value: https://sinasalimi.bandcamp.com/track/last-day-of-the-fall
+    references:
+    - source: sinasalimi.bandcamp.com-track-last-day-of-the-fall
+      quote: Last Day of the Fall - آخرین روزِ پاییز | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/album/72iY0JJKSnE9O8yehxn5FM
+    references:
+    - source: open.spotify.com-album-72iy0jjksne9o8yehxn5fm
+      quote: Listen to Last Day of the Fall - Single by Sina Salimi | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/1PByG1CpQp21G9hy9oxtNC
+    references:
+    - source: open.spotify.com-track-1pbyg1cpqp21g9hy9oxtnc
+      quote: Last Day of the Fall - song and lyrics by Sina Salimi | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/sinasalimi/last-day-of-the-fall
+    references:
+    - source: soundcloud.com-sinasalimi-last-day-of-the-fall
+      quote: Stream Last Day of the Fall -  آخرین روزِ پاییز by Sina  Salimi | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  name:
+  - value:
+      text: Last Day of the Fall
+      language: en
+    references:
+    - source: sinasalimi.bandcamp.com-track-last-day-of-the-fall
+      quote: Last Day of the Fall
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value:
+      text: آخرین روزِ پاییز
+      language: fa
+    references:
+    - source: sinasalimi.bandcamp.com-track-last-day-of-the-fall
+      quote: آخرین روزِ پاییز
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  performer:
+  - value: Qt5sbqz
+    references:
+    - source: sinasalimi.bandcamp.com-track-last-day-of-the-fall
+      quote: Last Day of the Fall - آخرین روزِ پاییز | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2023-01-10'
+    references:
+    - source: sinasalimi.bandcamp.com-track-last-day-of-the-fall
+      quote: released January 10, 2023
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a1181491997_10.jpg
+    references:
+    - source: sinasalimi.bandcamp.com-track-last-day-of-the-fall
+      quote: https://f4.bcbits.com/img/a1181491997_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Sina Salimi
+        language: en

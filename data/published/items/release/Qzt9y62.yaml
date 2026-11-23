@@ -1,0 +1,17 @@
+id: Qzt9y62
+type: release
+statements:
+  name:
+  - value:
+      text: Tasnif-Ey-Atash (Auditorio Blas Galindo)
+      language: en
+    references:
+    - &id001
+      source: videoteca.cenart.gob.mx-canal-23-255759-2
+      quote: 12 00.49:08.027 --> 00.55:54.028 Tasnif-Ey-Atash
+      accessed: '2026-11-21'
+      locator: Canal 23 broadcast cue 12
+  performer:
+  - value: Qcabd29
+    references:
+    - *id001

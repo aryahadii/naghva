@@ -1,0 +1,27 @@
+id: Qx4dy7b
+type: release
+statements:
+  name:
+  - value:
+      text: The Living Sonic Organism
+      language: en
+    references:
+    - source: www.numduo.com-tlso
+      quote: The Living Sonic Organism
+      accessed: '2026-11-21'
+      locator: Recording title
+  performer:
+  - value: Qm4skc3
+    references:
+    - source: www.numduo.com-tlso
+      quote: TLSO | NUM
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2023'
+    references:
+    - source: www.numduo.com-tlso
+      quote: '2023'
+      accessed: '2026-11-21'
+      locator: Performance or exhibition date

@@ -1,0 +1,43 @@
+id: Q2vp7j8
+type: release
+statements:
+  name:
+  - value:
+      text: Maede Tabatabai Niya (Iran)
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-ie-hdkmstzy
+      quote: Maede Tabatabai Niya (Iran)
+      accessed: '2026-11-21'
+      locator: Original festival film
+  performer:
+  - value: Qewdtv2
+    references:
+    - source: ensemble-delgosha-paris
+      quote: Avec l'ensemble Delgosha
+      accessed: '2026-11-21'
+      locator: Presenter billing
+  - value: Q6r2g5b
+    references:
+    - source: ensemble-delgosha-paris
+      quote: Maede Tabatabai Niya
+      accessed: '2026-11-21'
+      locator: Original musician credit
+    qualifiers:
+      role: vocals
+  listen link:
+  - value: https://www.youtube.com/watch?v=iE-hdKmsTZY
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/iE-hdKmsTZY/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-ie-hdkmstzy
+      quote: https://i.ytimg.com/vi/iE-hdKmsTZY/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original presenter video
+    qualifiers:
+      credit:
+        text: Maison des Cultures du Monde
+        language: en

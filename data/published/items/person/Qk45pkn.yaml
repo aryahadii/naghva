@@ -1,0 +1,46 @@
+id: Qk45pkn
+type: person
+statements:
+  name:
+  - value:
+      text: Nazanin Noori
+      language: en
+    references:
+    - source: www.youtube.com-oembed-4ihf4117dj8
+      quote: Wired with Azin Zahedi - Nazanin Noori - Farahnaz Hatam - Shabnam Parvaresh | Klangteppich IV 2022
+      locator: Klangteppich festival recording
+      accessed: '2026-11-21'
+  - value:
+      text: نازنین نوری
+      language: fa
+    references:
+    - source: www.staatstheater-darmstadt.de-kuenstler-5214
+      quote: نازنین نوری
+      locator: Artist, publisher or presenter credits
+      accessed: '2026-11-21'
+  based in:
+  - value: Qnpdnwq
+    references:
+    - source: junge-akademie.adk.de-en-people-nazanin-noori
+      quote: lives in Berlin
+      locator: Artist, publisher or presenter credits
+      accessed: '2026-11-21'
+  birth date:
+  - value:
+      date: '1991'
+    references:
+    - source: junge-akademie.adk.de-en-people-nazanin-noori
+      quote: 1991 in Wiesbaden
+      locator: Artist, publisher or presenter credits
+      accessed: '2026-11-21'
+  image:
+  - value: https://images.ctfassets.net/taoiy3h84mql/1pJpIBU6bVXXmZM1cHTP9h/2d39d9939637a4334712739122a8fdd6/nazaninnoori_by_laurafalafel.jpg
+    references:
+    - source: refugeworldwide.com-radio-ambient-hardcore-10th-feb-2021
+      quote: https://images.ctfassets.net/taoiy3h84mql/1pJpIBU6bVXXmZM1cHTP9h/2d39d9939637a4334712739122a8fdd6/nazaninnoori_by_laurafalafel.jpg
+      locator: Artist, publisher or presenter credits
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Laura Falafel · Refuge Worldwide
+        language: en

@@ -1,0 +1,57 @@
+id: Qx78ebv
+type: release
+statements:
+  name:
+  - value:
+      text: Waltz-E Chaman
+      language: en
+    references:
+    - source: music.apple.com-us-album-hamin-lahzeh-1164397044
+      quote: Waltz-E Chaman
+      accessed: '2026-11-21'
+      locator: Exact Apple track listing
+  performer:
+  - value: Qnbrhrh
+    references:
+    - source: music.apple.com-us-album-hamin-lahzeh-1164397044
+      quote: Eendo
+      accessed: '2026-11-21'
+      locator: Recording/featured artist
+  listen link:
+  - value: https://music.apple.com/us/song/waltz-e-chaman/1164397055
+    references:
+    - source: music.apple.com-us-album-hamin-lahzeh-1164397044
+      quote: https://music.apple.com/us/song/waltz-e-chaman/1164397055
+      accessed: '2026-11-21'
+      locator: Apple track link
+  - value: https://open.spotify.com/track/2F86RdraN13mCTshzsiP5D
+    references:
+    - source: open.spotify.com-embed-album-0cprjnxrkraurwpdysfdyf
+      quote: spotify:track:2F86RdraN13mCTshzsiP5D
+      accessed: '2026-11-21'
+      locator: Spotify track URI
+  - value: https://www.youtube.com/watch?v=5S71R_GBzLU
+    references:
+    - source: www.youtube.com-watch-v-5s71r_gbzlu
+      quote: Waltz-e Chaman  |  والس چمن
+      accessed: '2026-11-21'
+      locator: Original duo channel
+  release date:
+  - value:
+      date: '2016-11-12'
+    references:
+    - source: music.apple.com-us-album-hamin-lahzeh-1164397044
+      quote: '2016-11-12'
+      accessed: '2026-11-21'
+      locator: Digital release date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c9/87/18/c987183c-ead2-b61c-7762-383b14a3750b/190394546564.jpg/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Digital release via Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-hamin-lahzeh-1164397044
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c9/87/18/c987183c-ead2-b61c-7762-383b14a3750b/190394546564.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Label artwork

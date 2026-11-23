@@ -1,0 +1,64 @@
+id: Qsqren9
+type: release
+statements:
+  name:
+  - value:
+      text: Sonido del oriente
+      language: en
+    references:
+    - source: kavehsarvarian.bandcamp.com-album-sonido-del-oriente
+      quote: Sonido del oriente | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qy69pg7
+    references:
+    - source: kavehsarvarian.bandcamp.com-album-sonido-del-oriente
+      quote: Sonido del oriente | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  release type:
+  - value: album
+    references:
+    - source: kavehsarvarian.bandcamp.com-album-sonido-del-oriente
+      quote: Sonido del oriente | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://kavehsarvarian.bandcamp.com/album/sonido-del-oriente
+    references:
+    - source: kavehsarvarian.bandcamp.com-album-sonido-del-oriente
+      quote: Sonido del oriente | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/sonido-del-oriente/963055053
+    references:
+    - source: music.apple.com-us-album-sonido-del-oriente-963055053
+      quote: ‎Sonido del Oriente - Album by Kaveh Sarvarian - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/album/2ML4bIN8ar9PWd0rx5MsQ1
+    references:
+    - source: open.spotify.com-album-2ml4bin8ar9pwd0rx5msq1
+      quote: Listen to Sonido del Oriente - Album by Kaveh Sarvarian | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a3205405930_10.jpg
+    references:
+    - source: kavehsarvarian.bandcamp.com-album-sonido-del-oriente
+      quote: https://f4.bcbits.com/img/a3205405930_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Kaveh Sarvarian on Bandcamp
+        language: en
+  release date:
+  - value:
+      date: '2015-01-10'
+    references:
+    - source: music.apple.com-us-album-sonido-del-oriente-963055053
+      quote: January 10, 2015
+      accessed: '2026-11-21'
+      locator: Published date

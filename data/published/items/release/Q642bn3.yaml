@@ -1,0 +1,60 @@
+id: Q642bn3
+type: release
+statements:
+  name:
+  - value:
+      text: Bavar Be Farda
+      language: en
+    references:
+    - source: soundcloud.com-farzanezamen-bavar-be-farda
+      quote: Bavar Be Farda
+      accessed: '2026-11-21'
+      locator: Track heading and account
+  performer:
+  - value: Q38h8s7
+    references:
+    - source: soundcloud.com-farzanezamen-bavar-be-farda
+      quote: Farzane Zamen
+      accessed: '2026-11-21'
+      locator: Track heading and account
+  - value: Qtzen2s
+    references:
+    - source: soundcloud.com-farzanezamen-bavar-be-farda
+      quote: 'Organ: Duncan Sloan'
+      accessed: '2026-11-21'
+      locator: Description, credits
+    qualifiers:
+      role:
+      - keyboards
+  listen link:
+  - value: https://soundcloud.com/farzanezamen/bavar-be-farda
+    references:
+    - source: soundcloud.com-farzanezamen-bavar-be-farda
+      quote: Bavar Be Farda
+      accessed: '2026-11-21'
+      locator: Track heading and account
+  - value: https://www.youtube.com/watch?v=e-wSDCFzkQs
+    references:
+    - source: www.youtube.com-watchv-e-wsdcfzkqs
+      quote: Farzane Zamen - Bavar Be Farda
+      accessed: '2026-11-21'
+      locator: Video title, channel and description
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-000440519475-927p78-t500x500.jpg
+    references:
+    - source: soundcloud.com-farzanezamen-bavar-be-farda
+      quote: https://i1.sndcdn.com/artworks-000440519475-927p78-t500x500.jpg
+      accessed: '2026-11-21'
+      locator: Track artwork in Open Graph image metadata
+    qualifiers:
+      credit:
+        text: Farzane Zamen, via SoundCloud
+        language: en
+  release date:
+  - value:
+      date: '2018'
+    references:
+    - source: soundcloud.com-farzanezamen-bavar-be-farda
+      quote: '2018-11-15T21:03:53Z'
+      accessed: '2026-11-21'
+      locator: Publication timestamp on this upload

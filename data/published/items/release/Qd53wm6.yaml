@@ -1,0 +1,63 @@
+id: Qd53wm6
+type: release
+statements:
+  name:
+  - value:
+      text: Meshkatian
+      language: en
+    references:
+    - source: mahmoodschricker.bandcamp.com-track-meshkatian
+      quote: Meshkatian
+      accessed: '2026-11-21'
+      locator: Recording title or artist credit
+  listen link:
+  - value: https://mahmoodschricker.bandcamp.com/track/meshkatian
+    references:
+    - source: mahmoodschricker.bandcamp.com-track-meshkatian
+      quote: Meshkatian | Mahmood Schricker
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/meshkatian-single/1778472648
+    references:
+    - source: music.apple.com-us-album-meshkatian-single-1778472648
+      quote: ‎Meshkatian - Single - Album by Mahmood Schricker - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/meshkatian/1778472859
+    references:
+    - source: music.apple.com-us-song-meshkatian-1778472859
+      quote: ‎Meshkatian - Song with Lyrics by Mahmood Schricker - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/mahmood-schricker/meshkatian
+    references:
+    - source: soundcloud.com-mahmood-schricker-meshkatian
+      quote: Stream Meshkatian by Mahmood Schricker | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qxkh2tz
+    references:
+    - source: mahmoodschricker.bandcamp.com-track-meshkatian
+      quote: Meshkatian | Mahmood Schricker
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a2063686316_10.jpg
+    references:
+    - source: mahmoodschricker.bandcamp.com-track-meshkatian
+      quote: https://f4.bcbits.com/img/a2063686316_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Mahmood Schricker on Bandcamp
+        language: en
+  release date:
+  - value:
+      date: '2013-01-01'
+    references:
+    - source: music.apple.com-us-album-meshkatian-single-1778472648
+      quote: January 1, 2013
+      accessed: '2026-11-21'
+      locator: Published date

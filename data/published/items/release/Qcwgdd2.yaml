@@ -1,0 +1,56 @@
+id: Qcwgdd2
+type: release
+statements:
+  name:
+  - value:
+      text: Caravan
+      language: en
+    references:
+    - source: music.apple.com-us-album-i-am-eve-296675273
+      quote: Caravan
+      accessed: 2026-11-21
+      locator: Track 10
+  performer:
+  - value: Qtrh4vq
+    references:
+    - source: music.apple.com-us-album-i-am-eve-296675273
+      quote: I Am Eve · Mahsa Vahdat, Marjan Vahdat, Atabak Elyasi · 2008-08-29
+      accessed: 2026-11-21
+      locator: Album artist and issue date
+  - value: Qp2mk6b
+    references:
+    - source: music.apple.com-us-album-i-am-eve-296675273
+      quote: I Am Eve · Mahsa Vahdat, Marjan Vahdat, Atabak Elyasi · 2008-08-29
+      accessed: 2026-11-21
+      locator: Album artist and issue date
+  listen link:
+  - value: https://music.apple.com/us/song/caravan/296675368
+    references:
+    - source: music.apple.com-us-album-i-am-eve-296675273
+      quote: Caravan
+      accessed: 2026-11-21
+      locator: Track 10
+  - value: https://www.youtube.com/watch?v=zN6FNQMbHX8
+    references:
+    - source: actaonline.org-profile-atabak-elyasi
+      quote: which was composed and arranged by Atabak Elyasi
+      accessed: 2026-11-21
+      locator: Caravan recording
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music/ee/b1/38/mzi.rmzoerrw.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-i-am-eve-296675273
+      quote: Caravan
+      accessed: 2026-11-21
+      locator: Track 10
+  contributor:
+  - value: Q5z9jzy
+    qualifiers:
+      role:
+      - composer
+      - arranger
+    references:
+    - source: actaonline.org-profile-atabak-elyasi
+      quote: which was composed and arranged by Atabak Elyasi
+      accessed: 2026-11-21
+      locator: Caravan recording

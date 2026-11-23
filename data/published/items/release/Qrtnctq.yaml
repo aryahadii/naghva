@@ -1,0 +1,55 @@
+id: Qrtnctq
+type: release
+statements:
+  name:
+  - value:
+      text: Sharab (Instrumental Mix)
+      language: en
+    references:
+    - &id001
+      source: music.apple.com-us-album-sharab-single-1501782064
+      quote: Sharab (Instrumental Mix)
+      accessed: '2026-11-21'
+      locator: Original track
+  performer:
+  - value: Qfrxqqg
+    references:
+    - *id001
+  - value: Qvhrrm8
+    references:
+    - *id001
+  listen link:
+  - value: https://music.apple.com/us/song/sharab-instrumental-mix/1501782428
+    references:
+    - *id001
+  - value: https://open.spotify.com/track/3RVf1S8MVbyQp15k1weitF
+    references:
+    - source: open.spotify.com-embed-album-1urvoyh4lnqiqukmrzhjue
+      quote: Sharab - Instrumental Mix
+      accessed: '2026-11-21'
+      locator: Matching Spotify edition
+  - value: https://donotsitonthefurniturerecordings.bandcamp.com/track/sharab-instrumental-mix
+    references:
+    - source: donotsitonthefurniturerecordings.bandcamp.com-album-sharab-ep
+      quote: Sharab (Instrumental Mix)
+      accessed: '2026-11-21'
+      locator: Label original audio
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/90/23/f1/9023f1fb-5666-d3cf-cdf5-9b5c88bfd104/cover.jpg/1200x630wp-60.jpg
+    references:
+    - source: music.apple.com-us-album-sharab-single-1501782064
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/90/23/f1/9023f1fb-5666-d3cf-cdf5-9b5c88bfd104/cover.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Original issue artwork
+    qualifiers:
+      credit:
+        text: Apple Music, original edition artwork
+        language: en
+  release date:
+  - value:
+      date: '2020-04-10'
+    references:
+    - source: music.apple.com-us-album-sharab-single-1501782064
+      quote: '2020-04-10'
+      accessed: '2026-11-21'
+      locator: Digital edition date

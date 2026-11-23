@@ -1,0 +1,81 @@
+id: Q9h9v2f
+type: release
+statements:
+  name:
+  - value:
+      text: The Passing
+      language: en
+    references:
+    - source: music.apple.com-us-song-1832179450
+      quote: ‎The Passing - Song with Lyrics by Rouzbeh Esfand, Shahrzad Beheshtian & Siavash Kahrobaei - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qzchcs8
+    references:
+    - source: music.apple.com-us-song-1832179450
+      quote: ‎The Passing - Song with Lyrics by Rouzbeh Esfand, Shahrzad Beheshtian & Siavash Kahrobaei - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qyhes5e
+    references:
+    - source: music.apple.com-us-album-the-passing-1832179449
+      quote: Shahrzad Beheshtian
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Qsdexx5
+    references:
+    - source: music.apple.com-us-album-the-passing-1832179449
+      quote: Siavash Kahrobaei
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://music.apple.com/us/song/1832179450
+    references:
+    - source: music.apple.com-us-song-1832179450
+      quote: ‎The Passing - Song with Lyrics by Rouzbeh Esfand, Shahrzad Beheshtian & Siavash Kahrobaei - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/the-passing/1832179449
+    references:
+    - source: music.apple.com-us-album-the-passing-1832179449
+      quote: ‎The Passing - Single - Album by Rouzbeh Esfand, Shahrzad Beheshtian & Siavash Kahrobaei - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/album/1Jf4q8vaYqysED7jRhlLWg
+    references:
+    - source: open.spotify.com-album-1jf4q8vayqysed7jrhllwg
+      quote: Listen to The Passing - Single by Rouzbeh Esfand | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/06ocDZvfgWVJ1bdZj462Bt
+    references:
+    - source: open.spotify.com-track-06ocdzvfgwvj1bdzj462bt
+      quote: The Passing - song and lyrics by Rouzbeh Esfand, Shahrzad Beheshtian, Siavash Kahrobaei | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/rouzbeh-esfandarmaz/gozar-feat-shahrzad-beheshtian-siavash-kahrobaei
+    references:
+    - source: soundcloud.com-rouzbeh-esfandarmaz-gozar-feat-shahrzad-beheshtian-siavash-kahrobaei
+      quote: Stream The Passing (feat. Shahrzad Beheshtian & Siavash Kahrobaei) by Rouzbeh Esfand | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2021-09-19'
+    references:
+    - source: music.apple.com-us-song-1832179450
+      quote: September 19, 2021
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7b/d6/ce/7bd6ce14-93c8-00d3-4bd5-9e0954e39c80/7300345632298.jpg/600x600bb.webp
+    references:
+    - source: music.apple.com-us-song-1832179450
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7b/d6/ce/7bd6ce14-93c8-00d3-4bd5-9e0954e39c80/7300345632298.jpg/600x600bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original publisher artwork
+        language: en

@@ -1,0 +1,37 @@
+id: Q48rg5h
+type: release
+statements:
+  name:
+  - value:
+      text: Epic of Gilgamesh Trilogy - I. Uruk
+      language: en
+    references:
+    - source: open.spotify.com-track-1qdv4kbd8dzkpv1zxul9p1
+      quote: Epic of Gilgamesh Trilogy - I. Uruk - song and lyrics by Miron Rafajlovic, Kaveh Sarvarian | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qy69pg7
+    references:
+    - source: open.spotify.com-track-1qdv4kbd8dzkpv1zxul9p1
+      quote: Epic of Gilgamesh Trilogy - I. Uruk - song and lyrics by Miron Rafajlovic, Kaveh Sarvarian | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://open.spotify.com/track/1qdV4kbD8dZKPv1ZxuL9P1
+    references:
+    - source: open.spotify.com-track-1qdv4kbd8dzkpv1zxul9p1
+      quote: Epic of Gilgamesh Trilogy - I. Uruk - song and lyrics by Miron Rafajlovic, Kaveh Sarvarian | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d0000b273142bd93a614f6a8c84d583f2
+    references:
+    - source: open.spotify.com-track-1qdv4kbd8dzkpv1zxul9p1
+      quote: https://i.scdn.co/image/ab67616d0000b273142bd93a614f6a8c84d583f2
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original publisher artwork
+        language: en

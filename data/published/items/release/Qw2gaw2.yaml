@@ -1,0 +1,57 @@
+id: Qw2gaw2
+type: release
+statements:
+  name:
+  - value:
+      text: Araz Salek performs Dashti
+      language: en
+    references:
+    - source: www.youtube.com-watch-v-zwwfblgxmiu
+      quote: Araz Salek performs Dashti
+      accessed: '2026-11-21'
+      locator: YouTube oEmbed title
+  listen link:
+  - value: https://www.youtube.com/watch?v=zwWFBLgXmIU
+    references:
+    - source: www.youtube.com-watch-v-zwwfblgxmiu
+      quote: Araz Salek performs Dashti
+      accessed: '2026-11-21'
+      locator: YouTube oEmbed title
+    - source: www.youtube.com-watch-v-zwwfblgxmiu
+      quote: Araz Salek
+      accessed: '2026-11-21'
+      locator: Official issuing channel
+  cover art:
+  - value: https://i.ytimg.com/vi/zwWFBLgXmIU/hqdefault.jpg
+    qualifiers:
+      credit:
+        text: Araz Salek on YouTube
+        language: en
+    references:
+    - source: www.youtube.com-watch-v-zwwfblgxmiu
+      quote: https://i.ytimg.com/vi/zwWFBLgXmIU/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: YouTube oEmbed thumbnail
+    - source: www.youtube.com-watch-v-zwwfblgxmiu
+      quote: Araz Salek
+      accessed: '2026-11-21'
+      locator: Official issuing channel
+  performer:
+  - value: Qzqvz5q
+    references:
+    - source: www.youtube.com-watch-v-zwwfblgxmiu
+      quote: Araz Salek performs Dashti
+      accessed: '2026-11-21'
+      locator: YouTube oEmbed title
+    - source: www.youtube.com-watch-v-zwwfblgxmiu
+      quote: Araz Salek
+      accessed: '2026-11-21'
+      locator: Official issuing channel
+  release date:
+  - value:
+      date: '2025-09-30'
+    references:
+    - source: www.youtube.com-watch-v-zwwfblgxmiu
+      quote: '2025-09-30'
+      accessed: '2026-11-21'
+      locator: Video publication date

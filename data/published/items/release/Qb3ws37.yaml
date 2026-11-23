@@ -1,0 +1,78 @@
+id: Qb3ws37
+type: release
+statements:
+  name:
+  - value:
+      text: Bayram
+      language: en
+    references:
+    - source: music.apple.com-us-album-bayram-single-1134513836uo-4
+      quote: Bayram
+      locator: Original group issue, artist identity or exact streaming edition
+      accessed: '2026-11-21'
+  performer:
+  - value: Qstq3nj
+    references:
+    - source: music.apple.com-us-album-bayram-single-1134513836uo-4
+      quote: Ajam
+      locator: Original group issue, artist identity or exact streaming edition
+      accessed: '2026-11-21'
+  - value: Qvp2b3f
+    references:
+    - source: www.youtube.com-watchv-2cn-xlgwe1s
+      quote: سارا فطرس
+      locator: Original band, named recording or film credit
+      accessed: '2026-11-21'
+    qualifiers:
+      role: percussion
+  release date:
+  - value:
+      date: '2014-03-14'
+    references:
+    - source: music.apple.com-us-album-bayram-single-1134513836uo-4
+      quote: '2014-03-14'
+      locator: Original group issue, artist identity or exact streaming edition
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music18/v4/d3/ff/95/d3ff9547-b83f-acfc-1cbd-a080037c0f63/190394689773.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-bayram-single-1134513836uo-4
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music18/v4/d3/ff/95/d3ff9547-b83f-acfc-1cbd-a080037c0f63/190394689773.jpg/1200x630bb.jpg
+      locator: Original group issue, artist identity or exact streaming edition
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Ajam · Bayram - Single
+        language: en
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-bayram-single-1134513836uo-4
+      quote: Bayram
+      locator: Original group issue, artist identity or exact streaming edition
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://open.spotify.com/track/6zg3F7LSfpzGGZzK39nTX0
+    references:
+    - source: open.spotify.com-embed-album-3g9h8yp44m6nlekc3loqhb
+      quote: Bayram
+      locator: Original group issue, artist identity or exact streaming edition
+      accessed: '2026-11-21'
+  - value: https://music.apple.com/us/song/bayram/1134513847
+    references:
+    - source: music.apple.com-us-album-bayram-single-1134513836uo-4
+      quote: Bayram
+      locator: Original group issue, artist identity or exact streaming edition
+      accessed: '2026-11-21'
+  - value: https://www.youtube.com/watch?v=2cN-xLGWE1s
+    references:
+    - source: www.youtube.com-oembed-2cn-xlgwe1s
+      quote: Ajam - Bayram
+      locator: Original band, named recording or film credit
+      accessed: '2026-11-21'
+  - value: https://soundcloud.com/ajamband/ajam-bayram-1
+    references:
+    - source: soundcloud.com-ajamband-ajam-bayram-1
+      quote: Ajam - Bayram / عجم - بایرام
+      locator: Original band, named recording or film credit
+      accessed: '2026-11-21'

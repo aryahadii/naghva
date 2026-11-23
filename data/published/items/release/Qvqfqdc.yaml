@@ -1,0 +1,64 @@
+id: Qvqfqdc
+type: release
+statements:
+  name:
+  - value:
+      text: Persian Rug
+      language: en
+    references:
+    - source: kavehsarvarian.bandcamp.com-album-persian-rug
+      quote: Persian Rug | Hamzeh Yeganeh & Kaveh Sarvarian | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qy69pg7
+    references:
+    - source: kavehsarvarian.bandcamp.com-album-persian-rug
+      quote: Persian Rug | Hamzeh Yeganeh & Kaveh Sarvarian | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  release type:
+  - value: album
+    references:
+    - source: kavehsarvarian.bandcamp.com-album-persian-rug
+      quote: Persian Rug | Hamzeh Yeganeh & Kaveh Sarvarian | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://kavehsarvarian.bandcamp.com/album/persian-rug
+    references:
+    - source: kavehsarvarian.bandcamp.com-album-persian-rug
+      quote: Persian Rug | Hamzeh Yeganeh & Kaveh Sarvarian | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/persian-rug-persian-contemporary-music/490471904
+    references:
+    - source: music.apple.com-us-album-persian-rug-persian-contemporary-music-490471904
+      quote: ‎Persian Rug (Persian Contemporary Music) - Album by Hamzeh Yeganeh & Kaveh Sarvarian - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/album/1YoobfCStIszxFCzHvfSQS
+    references:
+    - source: open.spotify.com-album-1yoobfcstiszxfczhvfsqs
+      quote: Listen to Persian Rug (Persian Contemporary Music) - Album by Hamzeh Yeganeh | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a3579427320_10.jpg
+    references:
+    - source: kavehsarvarian.bandcamp.com-album-persian-rug
+      quote: https://f4.bcbits.com/img/a3579427320_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Kaveh Sarvarian on Bandcamp
+        language: en
+  release date:
+  - value:
+      date: '2011-12-10'
+    references:
+    - source: music.apple.com-us-album-persian-rug-persian-contemporary-music-490471904
+      quote: December 10, 2011
+      accessed: '2026-11-21'
+      locator: Published date

@@ -1,0 +1,57 @@
+id: Qnqwkh8
+type: release
+statements:
+  name:
+  - value:
+      text: Kaveh Sarvarian, Hamzeh Yeganeh & Mahan Mirarab - Sol del sur
+      language: en
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-sol-del-sur
+      quote: Sol del sur | Kaveh Sarvarian, Hamzeh Yeganeh & Mahan Mirarab | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qy69pg7
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-sol-del-sur
+      quote: Sol del sur | Kaveh Sarvarian, Hamzeh Yeganeh & Mahan Mirarab | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://kavehsarvarian.bandcamp.com/track/sol-del-sur
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-sol-del-sur
+      quote: Sol del sur | Kaveh Sarvarian, Hamzeh Yeganeh & Mahan Mirarab | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/963055288
+    references:
+    - source: music.apple.com-us-song-963055288
+      quote: ‎Sol del Sur (feat. Hamzeh Yeganeh) - Song with Lyrics by Kaveh Sarvarian - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/08ezt9bzP4kTZGz6R3ZTla
+    references:
+    - source: open.spotify.com-track-08ezt9bzp4ktzgz6r3ztla
+      quote: Sol del Sur (feat. Hamzeh Yeganeh) - song and lyrics by Kaveh Sarvarian, Hamzeh Yeganeh | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a1089184561_10.jpg
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-sol-del-sur
+      quote: https://f4.bcbits.com/img/a1089184561_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Kaveh Sarvarian on Bandcamp
+        language: en
+  release date:
+  - value:
+      date: '2015-01-10'
+    references:
+    - source: music.apple.com-us-song-963055288
+      quote: January 10, 2015
+      accessed: '2026-11-21'
+      locator: Published date

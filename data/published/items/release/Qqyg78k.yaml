@@ -1,0 +1,53 @@
+id: Qqyg78k
+type: release
+statements:
+  name:
+  - value:
+      text: Mafia
+      language: en
+    references:
+    - source: youtu.be-vb4v5eyduhc
+      quote: Justina - Mafia | ORIGINAL AUDIO
+      accessed: 2026-11-21
+      locator: Artist channel video title
+  performer:
+  - value: Q2fdqjp
+    references:
+    - source: youtu.be-vb4v5eyduhc
+      quote: Justina - Mafia | ORIGINAL AUDIO
+      accessed: 2026-11-21
+      locator: Artist channel video title
+  listen link:
+  - value: https://youtu.be/Vb4v5EYDUHc
+    references:
+    - source: youtu.be-vb4v5eyduhc
+      quote: Justina - Mafia | ORIGINAL AUDIO
+      accessed: 2026-11-21
+      locator: Artist channel video title
+  - value: https://music.apple.com/us/song/mafia/6818614256
+    references:
+    - source: music.apple.com-us-album-vahshi-single-6818614250
+      quote: Mafia
+      accessed: 2026-11-21
+      locator: Apple recording name and billing
+  - value: https://open.spotify.com/track/55vK6f0b629U6bD9ivMgOC
+    references:
+    - source: open.spotify.com-album-5xcszoiqrnamszuhwkmiwp
+      quote: Mafia
+      accessed: 2026-11-21
+      locator: Native recording title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3a/90/4a/3a904aa2-6411-7d08-ad69-3872da3bd495/cover.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-vahshi-single-6818614250
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3a/90/4a/3a904aa2-6411-7d08-ad69-3872da3bd495/cover.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Apple edition artwork
+  release date:
+  - value:
+      date: '2026-10-02'
+    references:
+    - source: music.apple.com-us-album-vahshi-single-6818614250
+      quote: '2026-10-02'
+      accessed: 2026-11-21
+      locator: Digital edition release date

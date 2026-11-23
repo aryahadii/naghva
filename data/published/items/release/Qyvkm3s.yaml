@@ -1,0 +1,64 @@
+id: Qyvkm3s
+type: release
+statements:
+  name:
+  - value:
+      text: OFOGH
+      language: en
+    references:
+    - source: kavehsarvarian.bandcamp.com-album-ofogh
+      quote: OFOGH | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qy69pg7
+    references:
+    - source: kavehsarvarian.bandcamp.com-album-ofogh
+      quote: OFOGH | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  release type:
+  - value: album
+    references:
+    - source: kavehsarvarian.bandcamp.com-album-ofogh
+      quote: OFOGH | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://kavehsarvarian.bandcamp.com/album/ofogh
+    references:
+    - source: kavehsarvarian.bandcamp.com-album-ofogh
+      quote: OFOGH | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/ofogh/948408490
+    references:
+    - source: music.apple.com-us-album-ofogh-948408490
+      quote: ‎Ofogh - Album by Kaveh Sarvarian, Jesús Gutiérrez & Pedram Khosravi - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/album/2xDoJUpNl4R1ZrQO1slA9t
+    references:
+    - source: open.spotify.com-album-2xdojupnl4r1zrqo1sla9t
+      quote: Listen to Ofogh - Album by Kaveh Sarvarian | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a0342931379_10.jpg
+    references:
+    - source: kavehsarvarian.bandcamp.com-album-ofogh
+      quote: https://f4.bcbits.com/img/a0342931379_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Kaveh Sarvarian on Bandcamp
+        language: en
+  release date:
+  - value:
+      date: '2014-10-29'
+    references:
+    - source: music.apple.com-us-album-ofogh-948408490
+      quote: October 29, 2014
+      accessed: '2026-11-21'
+      locator: Published date

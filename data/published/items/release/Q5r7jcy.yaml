@@ -1,0 +1,63 @@
+id: Q5r7jcy
+type: release
+statements:
+  listen link:
+  - value: https://sinasalimi.bandcamp.com/track/the-burial
+    references:
+    - source: sinasalimi.bandcamp.com-track-the-burial
+      quote: The Burial | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/the-burial/1889276991
+    references:
+    - source: music.apple.com-us-song-the-burial-1889276991
+      quote: ‎The Burial - Song with Lyrics by Sina Salimi - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/1Su7IbV5F0qOFmnf3SnFQn
+    references:
+    - source: open.spotify.com-track-1su7ibv5f0qofmnf3snfqn
+      quote: The Burial - song and lyrics by Sina Salimi | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/sinasalimi/the-burial
+    references:
+    - source: soundcloud.com-sinasalimi-the-burial
+      quote: Stream The Burial by Sina  Salimi | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  name:
+  - value:
+      text: The Burial
+      language: en
+    references:
+    - source: sinasalimi.bandcamp.com-track-the-burial
+      quote: The Burial
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  performer:
+  - value: Qt5sbqz
+    references:
+    - source: sinasalimi.bandcamp.com-track-the-burial
+      quote: The Burial | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2026-03-20'
+    references:
+    - source: sinasalimi.bandcamp.com-album-travellers-musicians-and-other-stories
+      quote: released March 20, 2026
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a2498350153_10.jpg
+    references:
+    - source: sinasalimi.bandcamp.com-track-the-burial
+      quote: https://f4.bcbits.com/img/a2498350153_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Pegah Mian
+        language: en

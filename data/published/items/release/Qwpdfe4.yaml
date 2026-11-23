@@ -1,0 +1,37 @@
+id: Qwpdfe4
+type: release
+statements:
+  name:
+  - value:
+      text: Ney Solo at the concert of  Lucky Cops band
+      language: en
+    references:
+    - source: www.youtube.com-watch-v-vq0yriyw8ri
+      quote: Ney Solo at the concert of  Lucky Cops band
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qy69pg7
+    references:
+    - source: www.youtube.com-watch-v-vq0yriyw8ri
+      quote: Ney Solo at the concert of  Lucky Cops band
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://www.youtube.com/watch?v=VQ0YRiYW8rI
+    references:
+    - source: www.youtube.com-watch-v-vq0yriyw8ri
+      quote: Ney Solo at the concert of  Lucky Cops band
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i.ytimg.com/vi/VQ0YRiYW8rI/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-vq0yriyw8ri
+      quote: https://i.ytimg.com/vi/VQ0YRiYW8rI/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: Kaveh Sarvarian
+        language: en

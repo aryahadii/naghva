@@ -16,3 +16,33 @@ statements:
     - source: honaronline.ir-118758-shatt-ranj-interview
       quote: 'علی قمصری:'
       accessed: '2026-11-06'
+  image:
+  - value: https://i.scdn.co/image/ab6761610000e5ebaa7cf8abf3ce776bae232fe3
+    qualifiers:
+      credit:
+        text: Ali Ghamsari artist profile, Spotify
+        language: en
+    references:
+    - source: open.spotify.com-artist-3rgdkgj2rglnm4jqoevdvt
+      quote: https://i.scdn.co/image/ab6761610000e5ebaa7cf8abf3ce776bae232fe3
+      accessed: 2026-11-21
+      locator: Artist’s portrait
+  profile link:
+  - value: https://open.spotify.com/artist/3RGDkgJ2rGLnm4JqoEvdVT
+    references:
+    - source: open.spotify.com-artist-3rgdkgj2rglnm4jqoevdvt
+      quote: Ali Ghamsari
+      accessed: 2026-11-21
+      locator: Artist profile
+  - value: https://music.apple.com/us/artist/ali-ghamsari/395864436
+    references:
+    - source: music.apple.com-us-artist-ali-ghamsari-395864436
+      quote: Ali Ghamsari
+      accessed: 2026-11-21
+      locator: Artist profile
+  - value: https://www.youtube.com/channel/UCXxDTNEUWIYlkTBLCDTL30Q
+    references:
+    - source: www.youtube.com-channel-ucxxdtneuwiylktblcdtl30q
+      quote: Ali Ghamsari
+      accessed: 2026-11-21
+      locator: Official artist channel

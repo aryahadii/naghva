@@ -1,6 +1,7 @@
 """Role kinds and listening platforms, from the registry."""
 
 import copy
+import json
 import shutil
 import tempfile
 import unittest
@@ -32,6 +33,12 @@ class RoleKindTests(unittest.TestCase):
         text = self.release.read_text(encoding="utf-8")
         self.assertIn(old, text)
         self.release.write_text(text.replace(old, new), encoding="utf-8")
+
+    def test_every_role_has_site_words(self):
+        roles = set(ds.load_registry()["terms"]["role"])
+        for lang in ("en", "fa"):
+            words = json.loads((ds.REPO / "site" / "src" / "strings" / (lang + ".json")).read_text(encoding="utf-8"))["roles"]
+            self.assertEqual(sorted(roles - set(words)), [], lang)
 
     def test_registry_kinds(self):
         kinds = ds.role_kinds(ds.load_registry())

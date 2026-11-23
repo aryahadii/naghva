@@ -1,0 +1,35 @@
+id: Q86m29e
+type: release
+statements:
+  name:
+  - value:
+      text: Ensemble Shanbehzadeh -Nakhoda Ahlan
+      language: en
+    references:
+    - &id001
+      source: soundcloud.com-nag-1-1-ensemble-shanbehzadeh-nakhoda
+      quote: Ensemble Shanbehzadeh -Nakhoda Ahlan
+      accessed: '2026-11-21'
+      locator: Artist’s SoundCloud recording
+  performer:
+  - value: Qdtxp3v
+    references:
+    - *id001
+  - value: Qyd93n9
+    references:
+    - *id001
+  listen link:
+  - value: https://soundcloud.com/nag-1-1/ensemble-shanbehzadeh-nakhoda
+    references:
+    - *id001
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-000055495607-epi3ij-large.jpg
+    references:
+    - source: soundcloud.com-nag-1-1-ensemble-shanbehzadeh-nakhoda
+      quote: https://i1.sndcdn.com/artworks-000055495607-epi3ij-large.jpg
+      accessed: '2026-11-21'
+      locator: Artist file artwork
+    qualifiers:
+      credit:
+        text: Naghib Shanbehzadeh / SoundCloud
+        language: en

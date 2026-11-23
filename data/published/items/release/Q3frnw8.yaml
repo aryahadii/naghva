@@ -1,0 +1,81 @@
+id: Q3frnw8
+type: release
+statements:
+  name:
+  - value:
+      text: Sketchy
+      language: en
+    references:
+    - source: temp-illusion.bandcamp.com-album-sketchy
+      quote: Sketchy
+      accessed: '2026-11-21'
+      locator: Release heading
+  performer:
+  - value: Q8tq6bc
+    references:
+    - source: temp-illusion.bandcamp.com-album-sketchy
+      quote: Sketchy | Temp-Illusion
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2026-07-10'
+    references:
+    - source: temp-illusion.bandcamp.com-album-sketchy
+      quote: released July 10, 2026
+      accessed: '2026-11-21'
+      locator: Release credits
+  listen link:
+  - value: https://temp-illusion.bandcamp.com/album/sketchy
+    references:
+    - source: temp-illusion.bandcamp.com-album-sketchy
+      quote: Sketchy | Temp-Illusion
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/sketchy-single/6812451917
+    references:
+    - source: music.apple.com-us-album-sketchy-single-6812451917
+      quote: ‎Sketchy - Single - Album by Temp-Illusion - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/album/2V08zHhuf3NzROF2ZulHkL
+    references:
+    - source: open.spotify.com-album-2v08zhhuf3nzrof2zulhkl
+      quote: Listen to Sketchy - Single by Temp-Illusion | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://www.youtube.com/watch?v=qZXYQIhcJe8
+    references:
+    - source: www.youtube.com-watch-v-qzxyqihcje8
+      quote: Temp-Illusion - Sketchy - YouTube
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a3563101655_10.jpg
+    references:
+    - source: temp-illusion.bandcamp.com-album-sketchy
+      quote: https://f4.bcbits.com/img/a3563101655_10.jpg
+      accessed: '2026-11-21'
+      locator: Full cover image linked from release page
+    qualifiers:
+      credit:
+        text: Temp-Illusion on Bandcamp
+        language: en
+  contributor:
+  - value: Q8tq6bc
+    references:
+    - source: temp-illusion.bandcamp.com-album-sketchy
+      quote: Written and produced by Temp-Illusion
+      accessed: '2026-11-21'
+      locator: Release credits
+    qualifiers:
+      role:
+      - producer
+      - composer
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-sketchy-single-6812451917
+      quote: ‎Sketchy - Single - Album by Temp-Illusion - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title

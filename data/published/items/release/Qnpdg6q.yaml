@@ -1,0 +1,52 @@
+id: Qnpdg6q
+type: release
+statements:
+  name:
+  - value:
+      text: چهارمضراب ابوعطا
+      language: fa
+    references:
+    - source: t.me-kiyarashdavoudi-127
+      quote: 'چهارمضراب ابوعطا سنتور : کیارش داودی تنبک : کریم ابراهیمی @kiyarashdavoudi @kiyarashdavoudi'
+      accessed: '2026-11-21'
+      locator: Artist caption and performance context
+  performer:
+  - value: Qyrsg2f
+    qualifiers:
+      role: santur
+    references:
+    - source: t.me-kiyarashdavoudi-127
+      quote: 'چهارمضراب ابوعطا سنتور : کیارش داودی تنبک : کریم ابراهیمی @kiyarashdavoudi @kiyarashdavoudi'
+      accessed: '2026-11-21'
+      locator: Artist caption and performance context
+    - source: t.me-kiyarashdavoudi-127
+      quote: کیارش داودی | KiyarashDavoudi
+      accessed: '2026-11-21'
+      locator: Artist publishing channel
+  - value: Qvkrzpm
+    qualifiers:
+      role: tombak
+    references:
+    - source: t.me-kiyarashdavoudi-127
+      quote: 'چهارمضراب ابوعطا سنتور : کیارش داودی تنبک : کریم ابراهیمی @kiyarashdavoudi @kiyarashdavoudi'
+      accessed: '2026-11-21'
+      locator: Performer lineup
+  listen link:
+  - value: https://t.me/kiyarashdavoudi/127
+    references:
+    - source: t.me-kiyarashdavoudi-127
+      quote: 'چهارمضراب ابوعطا سنتور : کیارش داودی تنبک : کریم ابراهیمی @kiyarashdavoudi @kiyarashdavoudi'
+      accessed: '2026-11-21'
+      locator: Artist caption and performance context
+    - source: t.me-kiyarashdavoudi-127
+      quote: کیارش داودی | KiyarashDavoudi
+      accessed: '2026-11-21'
+      locator: Artist publishing channel
+  release date:
+  - value:
+      date: '2019-02-20'
+    references:
+    - source: t.me-kiyarashdavoudi-127
+      quote: '2019-02-20'
+      accessed: '2026-11-21'
+      locator: Artist channel publication date

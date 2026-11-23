@@ -1,0 +1,57 @@
+id: Qqjterk
+type: release
+statements:
+  name:
+  - value:
+      text: Alas Rotas
+      language: en
+    references:
+    - source: music.apple.com-us-album-sonidos-de-la-savia-feat-regard-persan-1533449642
+      quote: Alas Rotas (feat. Regard Persan)
+      accessed: '2026-11-21'
+      locator: Track 7
+  release date:
+  - value:
+      date: '2020-09-19'
+    references:
+    - source: music.apple.com-us-album-sonidos-de-la-savia-feat-regard-persan-1533449642
+      quote: '2020-09-19'
+      accessed: '2026-11-21'
+      locator: Issue date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/07/b3/ab/07b3aba2-e05d-8b47-c6ef-5515832cb77d/195448940596.jpg/1200x630wp-60.jpg
+    references:
+    - source: music.apple.com-us-album-sonidos-de-la-savia-feat-regard-persan-1533449642
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/07/b3/ab/07b3aba2-e05d-8b47-c6ef-5515832cb77d/195448940596.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Original digital cover
+    qualifiers:
+      credit:
+        text: Apple Music, original edition artwork
+        language: en
+  performer:
+  - value: Q9cyea8
+    references:
+    - source: music.apple.com-us-album-sonidos-de-la-savia-feat-regard-persan-1533449642
+      quote: Regard Persan
+      accessed: '2026-11-21'
+      locator: Named ensemble
+  - value: Q5mzpnt
+    references:
+    - source: music.apple.com-us-album-sonidos-de-la-savia-feat-regard-persan-1533449642
+      quote: Al Golpe del Guatimé
+      accessed: '2026-11-21'
+      locator: Co-billed or lead recording artist
+  listen link:
+  - value: https://music.apple.com/us/song/alas-rotas-feat-regard-persan/1533450099
+    references:
+    - source: music.apple.com-us-album-sonidos-de-la-savia-feat-regard-persan-1533449642
+      quote: https://music.apple.com/us/song/alas-rotas-feat-regard-persan/1533450099
+      accessed: '2026-11-21'
+      locator: Exact Apple recording
+  - value: https://open.spotify.com/track/2AYxikvAdI5KLL5WG0b0Bk
+    references:
+    - source: open.spotify.com-embed-album-3huyd6nf31b57tfcls6hvq
+      quote: spotify:track:2AYxikvAdI5KLL5WG0b0Bk
+      accessed: '2026-11-21'
+      locator: Spotify track 7

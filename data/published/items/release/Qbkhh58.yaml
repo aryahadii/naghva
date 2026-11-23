@@ -1,0 +1,105 @@
+id: Qbkhh58
+type: release
+statements:
+  name:
+  - value:
+      text: رِنگ ترکی
+      language: fa
+    references:
+    - source: shahrzad-film-mx3njoyrkv4
+      quote: رِنگ ترکی
+      locator: Original performer’s video description
+      accessed: '2026-11-21'
+  - value:
+      text: كنسرت گروه موسيقى شهرزاد در فرهنگسراى نياوران
+      language: fa
+    references:
+    - &id001
+      source: shahrzad-film-mx3njoyrkv4
+      quote: كنسرت گروه موسيقى شهرزاد در فرهنگسراى نياوران
+      accessed: '2026-11-21'
+      locator: Performer or presenter archive
+  performer:
+  - value: Q4z6jy5
+    references:
+    - *id001
+  - value: Qhwvdn8
+    references:
+    - source: shahrzad-film-mx3njoyrkv4
+      quote: آذر زرگریان
+      locator: Original performer’s video description
+      accessed: '2026-11-21'
+    qualifiers:
+      role: tar
+  - value: Qpjthj7
+    references:
+    - source: shahrzad-film-mx3njoyrkv4
+      quote: نازنین پدرثانی
+      locator: Original performer’s video description
+      accessed: '2026-11-21'
+    qualifiers:
+      role: percussion
+  - value: Q4kgebf
+    references:
+    - source: shahrzad-film-mx3njoyrkv4
+      quote: نازنین غنی‌زاده
+      locator: Original performer’s video description
+      accessed: '2026-11-21'
+    qualifiers:
+      role: kamancheh
+  - value: Qs6akyz
+    references:
+    - source: shahrzad-film-mx3njoyrkv4
+      quote: آوا اره‌سازان
+      locator: Original performer’s video description
+      accessed: '2026-11-21'
+    qualifiers:
+      role: oud
+  - value: Qwbv6gt
+    references:
+    - source: shahrzad-film-mx3njoyrkv4
+      quote: رسول رهو
+      locator: Original performer’s video description
+      accessed: '2026-11-21'
+    qualifiers:
+      role: vocals
+  - value: Qne4jra
+    references:
+    - source: shahrzad-film-mx3njoyrkv4
+      quote: آیدین اره‌سازان
+      locator: Original performer’s video description
+      accessed: '2026-11-21'
+    qualifiers:
+      role: tar
+  - value: Qyh44zq
+    references:
+    - source: shahrzad-film-mx3njoyrkv4
+      quote: کاوه صادقیان
+      locator: Original performer’s video description
+      accessed: '2026-11-21'
+    qualifiers:
+      role: ney
+  listen link:
+  - value: https://www.youtube.com/watch?v=Mx3NjOyrKv4
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/Mx3NjOyrKv4/hqdefault.jpg
+    references:
+    - source: shahrzad-film-mx3njoyrkv4
+      quote: https://i.ytimg.com/vi/Mx3NjOyrKv4/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Publisher performance still
+    qualifiers:
+      credit:
+        text: Nazanin Pedarsani (‫نازنین پدرثانی‬‎), original performance film
+        language: en
+  contributor:
+  - value: Qhwvdn8
+    references:
+    - source: shahrzad-film-mx3njoyrkv4
+      quote: 'آهنگساز : آذر زرگریان'
+      locator: Original performer’s video description
+      accessed: '2026-11-21'
+    qualifiers:
+      role: composer

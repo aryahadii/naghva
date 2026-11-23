@@ -1,0 +1,66 @@
+id: Qcf6af2
+type: release
+statements:
+  name:
+  - value:
+      text: Taknavazi Tar
+      language: en
+    references:
+    - source: music.apple.com-us-album-the-scream-of-sepration-1762656412
+      quote: Taknavazi Tar
+      accessed: '2026-11-21'
+      locator: Apple Music track 6
+  performer:
+  - value: Qy4rh86
+    references:
+    - source: www.youtube.com-watch-v-5amq9mffkbs
+      quote: اجرای همنوازان وداد
+      accessed: '2026-11-21'
+      locator: Ensemble performance credit
+  release date:
+  - value:
+      date: '2024-08-12'
+    references:
+    - source: music.apple.com-us-album-the-scream-of-sepration-1762656412
+      quote: '2024-08-12'
+      accessed: '2026-11-21'
+      locator: Digital edition date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/79/99/0b/79990bbc-e310-2eaf-4f24-01c8a5c6a271/198846024271.jpg/1200x630bb.jpg
+    qualifiers:
+      credit:
+        text: Apple Music edition artwork
+        language: en
+    references:
+    - source: music.apple.com-us-album-the-scream-of-sepration-1762656412
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/79/99/0b/79990bbc-e310-2eaf-4f24-01c8a5c6a271/198846024271.jpg/1200x630bb.jpg
+      accessed: '2026-11-21'
+      locator: Digital edition artwork
+  listen link:
+  - value: https://music.apple.com/us/song/taknavazi-tar/1762656568
+    references:
+    - source: music.apple.com-us-album-the-scream-of-sepration-1762656412
+      quote: Taknavazi Tar
+      accessed: '2026-11-21'
+      locator: Apple Music track 6
+  - value: https://open.spotify.com/track/0We6dl5MsUXfGHu78VYWtL
+    references:
+    - source: open.spotify.com-album-7od5sujlryzj4zc9rfth66
+      quote: Taknavazi Tar
+      accessed: '2026-11-21'
+      locator: Spotify track 6
+  - value: https://soundcloud.com/kiyarashdavoudi/taknavazi-tar
+    references:
+    - source: soundcloud.com-kiyarashdavoudi-taknavazi-tar
+      quote: Taknavazi Tar
+      accessed: '2026-11-21'
+      locator: Artist SoundCloud recording title
+  contributor:
+  - value: Qyrsg2f
+    qualifiers:
+      role: composer
+    references:
+    - source: www.youtube.com-watch-v-5amq9mffkbs
+      quote: 'آلبوم فریاد هجران منتشر شد | آهنگساز: کیارش داودی | خواننده: منصور جمعه‌زاده | اجرا: همنوازان وداد'
+      accessed: '2026-11-21'
+      locator: Native YouTube title

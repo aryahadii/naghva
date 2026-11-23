@@ -1,0 +1,58 @@
+id: Q66ce6k
+type: release
+statements:
+  name:
+  - value:
+      text: The Living Room
+      language: en
+    references:
+    - source: open.spotify.com-album-4fcx3eunbx1nnsjmldz2e2
+      quote: Listen to The Living Room - Album by Ava Rasti | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qks2dfk
+    references:
+    - source: open.spotify.com-album-4fcx3eunbx1nnsjmldz2e2
+      quote: Listen to The Living Room - Album by Ava Rasti | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  release type:
+  - value: album
+    references:
+    - source: open.spotify.com-album-4fcx3eunbx1nnsjmldz2e2
+      quote: Listen to The Living Room - Album by Ava Rasti | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://open.spotify.com/album/4fcX3eUnbx1NNSJmLdz2E2
+    references:
+    - source: open.spotify.com-album-4fcx3eunbx1nnsjmldz2e2
+      quote: Listen to The Living Room - Album by Ava Rasti | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/the-living-room/1719708550
+    references:
+    - source: music.apple.com-us-album-the-living-room-1719708550
+      quote: ‎The Living Room - Album by Ava Rasti - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d0000b273cf3db3382367b45aee026ddb
+    references:
+    - source: open.spotify.com-album-4fcx3eunbx1nnsjmldz2e2
+      quote: https://i.scdn.co/image/ab67616d0000b273cf3db3382367b45aee026ddb
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original recording publisher
+        language: en
+  release date:
+  - value:
+      date: '2023-11-30'
+    references:
+    - source: music.apple.com-us-album-the-living-room-1719708550
+      quote: November 30, 2023
+      accessed: '2026-11-21'
+      locator: Published date

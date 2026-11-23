@@ -1,0 +1,38 @@
+id: Q2cvjjw
+type: release
+statements:
+  name:
+  - value:
+      text: 'Didar Ensemble: Persian Traditional Music'
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-2gvq8nwmhxo
+      quote: Persian Traditional Music, Didar Ensemble | دیدار، موسیقی سنتی ایرانی
+      accessed: '2026-11-21'
+      locator: Original video title
+  performer:
+  - value: Qcabd29
+    references:
+    - *id001
+  - value: Qqb9bnx
+    references:
+    - source: www.youtube.com-watch-v-2gvq8nwmhxo
+      quote: Persian Traditional Music, Didar Ensemble | دیدار، موسیقی سنتی ایرانی
+      accessed: '2026-11-21'
+      locator: Music credited by musician or performance publisher
+  cover art:
+  - value: https://i.ytimg.com/vi/2Gvq8nWmhxo/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-2gvq8nwmhxo
+      quote: https://i.ytimg.com/vi/2Gvq8nWmhxo/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original publisher image
+    qualifiers:
+      credit:
+        text: Mehdi Moshtagh
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=2Gvq8nWmhxo
+    references:
+    - *id001

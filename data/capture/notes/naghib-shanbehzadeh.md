@@ -1,0 +1,229 @@
+# Naghib Shanbehzadeh
+
+Artist catalogues and named guest performances were checked against individual track credits.
+
+- Woap (Qz27kvz)
+- Kalfat (Q552k3t)
+- Djadou (Q5xgkmx)
+- Makran (Q6wksky)
+- Madok (Qzbntqh)
+- Djane Showki (Q2pkb94)
+- Pour-Afrigha (Qjtxpg5)
+- Bahrain (Qb2pc5r)
+- Malle Baloutchan (Qmxdryg)
+- Bousalameh (Qvjxz4x)
+- Jazz Bandari (Q987954)
+- Shah Soltan (Qhtvkze)
+- Pour-Afrigha (Qeyjcpw)
+- The Tide (Qhqaqbf)
+- Rainbow Island (Qbprey4)
+- Kamtina Energy (Q2asg2z)
+- Phoenix Energy (Qt2rcdw)
+- Sangsaria (Qzgp7rh)
+- Rainbow Island - EP (Qw4a5pa)
+- Preza Otan Pieis (Varka the Onset) [feat. Camille El Bacha, Paul Barreyre, Saddam Novruzbayov, Naghib Shanbehzadeh, Milàn Tabak & Matthias Courbaud] (Q5ynt8a)
+- Blue (Qa4gtmc)
+- Mystika Pos S'Agapo (feat. Camille El Bacha, Paul Barreyre, Naghib Shanbehzadeh, Matthias Courbaud, Milàn Tabak & Saddam Novruzbayov) (Qnbj758)
+- Gkel Gkel Aman (feat. Rusan Filiztek, Naghib Shanbehzadeh, Camille El Bacha & Matthias Courbaud) (Qf8zfav)
+- Preza Otan Pieis (feat. Camille el Bacha, Matthias Courbaud, Milàn Tabak, Naghib Shanbehzadeh & Saddam Novruzbayov) (Qz49p4v)
+- Mystika Pos S'Agapo (feat. Camille El Bacha, Matthias Courbaud, Naghib Shanbehzadeh, Milàn Tabak & Saddam Novruzbayov) (Q2nvxe6)
+- Gkel Gkel Aman (feat. Camille El Bacha, Naghib Shanbehzadeh, Rusan Filiztek & Matthias Courbaud) (Q7gbqq3)
+- Infini (Qzc22wm)
+- Le Voyage (Qcejabf)
+- I Am (Qmve3gq)
+- Street Groove (Qw53hmx)
+- New York (Qvzmq7z)
+- Liberté (Qvghrw5)
+- I Am - EP (Qtyb49m)
+- Black Hole (Qx86vys)
+- Electro Bandari, Pt.1 (Ishtar) (Q6qb3wp)
+- Didar (Q46g2ht)
+- Rainbow Island (Qwp3yqc)
+- Kamtina Energy (Qfay7n7)
+- Phoenix Energy (Qg9qgnv)
+- Sangsaria (Qwkz785)
+- Rainbow Island - EP (Q4kzbvj)
+- Tehran (Qmbmyn9)
+- Khaliji (Q2qmafk)
+- Last Wind (Qa3d3qf)
+- The Corrupted (Qx26s8g)
+- Khaliji (Q4dry68)
+- Irani (Qvfeza7)
+- The Soul of Trance (Qy5e5h8)
+- Choupi Boushehri (Qwyzqbf)
+- Ahlel Hawa (Q672jhy)
+- Arabi (Qx9j22f)
+- Lanj (Qpbg88c)
+- Bandari (Qv84v2b)
+- Boushehr (Qpzenq8)
+- The Soul Of Trance (Qs4a784)
+- Ey Del (Q7xkg6s)
+- Sia (Qeg4xjx)
+- Last Wind (Qvz6avz)
+- The Corrupted (Q2pea6d)
+- Will of the Gods (Qnnqwvn)
+- Tonight (feat. Naghib Shanbehzadeh) (Qv2x83s)
+- Loop Tale (Qh4vzs6)
+- Tokyo Train (Qev2ynx)
+- 8 Pearls (Qbfgy6s)
+- Haft (Q9rh37w)
+- Interlude (Qz5wwjr)
+- Prelude in C (Qw5pwkr)
+- 04:04 am (Qsvt3xm)
+- Deep Sub Bass (Q2ggmvv)
+- Ave Maria (Q6tgkga)
+- Requiem (Q6annhc)
+- Exit (Qcraw64)
+- Loop Tales (Qvrjkqt)
+- Loop Tale (Qppwvzj)
+- Parvaneh Emshab - Mode Soushtari (Qbb3z84)
+- Zarbi Soushtari & Avaz - Mode Soushtari (Qc396mb)
+- Paye Sarve - Mode Soushtari (Qdkz92r)
+- Yarab Sababi Saz (Qrae5p5)
+- Zarbi Rast-Panjgah - Mode Rast-Panjgah (Q4cwv75)
+- Chant - Mode Rast-Panjgah (Qt4pwaj)
+- Aou Miravad - Mode Rast-Panjgah (Qtas2sw)
+- Sanam Sanama - Mode Rast-Panjgah (Qz65x4s)
+- Zarbi Hejaz - Mode Abou-Ata (Qcwfmzw)
+- Improvisations Chant & Ney - Mode Abou-Ata (Qh4wdvs)
+- Emshab Saboktar Mizanand - Mode Abou-Ata (Qeykqwa)
+- Ey Yare Nassaman - Mode Abou-Ata (Qevhbm3)
+- Gar Beravad - Mode Nava (Qhspvcj)
+- Katinaki Mou Gia Sena (Q6h766r)
+- Tokyo Train (Qnbyxgr)
+- Shanbehzadeh Ensemble at globalFEST (Qmtyaay)
+- Ney Tofti (globalFEST) (Qznqeym)
+- Chardastamal (globalFEST) (Qyhfy8x)
+- Bandri (globalFEST) (Qsa6nfw)
+- Shaki (globalFEST) (Qdrd5fn)
+- Sharvel (globalFEST) (Qv777rm)
+- Traditional music of Persian Gulf, Iran (Tallinn) (Q8b8nam)
+- Somraya (Freer Gallery of Art) (Qk5nf7z)
+- Ey Shaame (Candle) (Freer Gallery of Art) (Q6aqxny)
+- T’abiyat (Nature) (Freer Gallery of Art) (Qn5x8tb)
+- Eshgh Bazi (Freer Gallery of Art) (Qp4fyhp)
+- Mina (Harbor) (Freer Gallery of Art) (Qqmz2hq)
+- Mawlana (Freer Gallery of Art) (Qt9z6nq)
+- Choupi (Freer Gallery of Art) (Qjme2ds)
+- Bida’ya (Start) (Freer Gallery of Art) (Qxqknqm)
+- The Encounter (Freer Gallery of Art) (Qqkvaxb)
+- Sound: The Encounter (live at the Freer Gallery of Art) (Qekb75w)
+- Ma Mastim (Qjqx6ne)
+
+## Artist archives
+
+The two accounts used by Saeid yielded 53 and 41 native YouTube films. Naghib published 44 on his own channel. Both original SoundCloud accounts were enumerated in full (24 and 44 files). The label’s complete nine-song jazz record, the original 2009 Buda personnel, the independently billed Tehran Nights, the three Sharab mixes and the musician-published Ya Mama songs were reconciled. The film taken in Shanghai, the Couleurs du monde session, stages including WOMAD, the Louvre, the Kennedy Center, Vienna and San Francisco, and credited studio masters are distinguished by their native titles, occasion or original uploader. Artist posts confirm that Yaran, Bada Mobarak, Tiva and related collaborations had performer-specific credits. In the father’s Telegram 451 retrievable posts were inspected; text-only memoirs, instruction, unrelated performers and silent or uncredited clips were not presumed to be his recordings. Separate online copies of the same master are grouped where the named work, group, recording context and running time corroborate it.
+
+- Iran: Musiques du Golfe Persique (Qds9dbm) https://music.apple.com/us/album/iran-musiques-du-golfe-persique/329490635 · https://open.spotify.com/album/7EgFiGlAxmOXxreMuLgiG7
+- Jazz & Music from South Iran (Qj23a4q) https://music.apple.com/us/album/jazz-music-from-south-iran/465372011 · https://open.spotify.com/album/0ksAtdo2no7ZN9g0zXRy6s
+- Sar Kangi (Qegyffz) https://music.apple.com/us/song/sar-kangi/465372032 · https://open.spotify.com/track/1ts3JqQe4hPAbASPhaIdo7 · https://soundcloud.com/saeid-shanbehzadeh/sar-kangi · https://t.me/saeidshanbehzadeh/95
+- Zâr (Qk2t5rd) https://music.apple.com/us/song/z%C3%A2r/465372075 · https://open.spotify.com/track/1EuosGbluQGqM5aLzP4BPZ · https://soundcloud.com/saeid-shanbehzadeh/z-r
+- Fayez Khâni (Qpdgkpp) https://music.apple.com/us/song/fayez-kh%C3%A2ni/465372079 · https://open.spotify.com/track/5KvOE9bYnMzz7rmZUsHKl5 · https://soundcloud.com/saeid-shanbehzadeh/03-fa-yez-kha-ni
+- Choupi (Q97xs9k) https://music.apple.com/us/song/choupi/465372081 · https://open.spotify.com/track/2LPqdvqp11kqBZDeSBdi1J · https://soundcloud.com/nag-1-1/ensemble-shanbehzadeh-choupi · https://soundcloud.com/saeid-shanbehzadeh/04-choupi
+- Darde Del (Q9tdqcb) https://music.apple.com/us/song/darde-del/465372084 · https://open.spotify.com/track/22VB7T7DXRoeXekwO1t4BN · https://soundcloud.com/saeid-shanbehzadeh/05-darde-del
+- Hadj (Qsjm6x9) https://music.apple.com/us/song/hadj/465372095 · https://open.spotify.com/track/55LYDPOEkvS8LG8vKBrQxW · https://soundcloud.com/saeid-shanbehzadeh/06-hadj
+- Raghs (Qpkkpph) https://music.apple.com/us/song/raghs/465372097 · https://open.spotify.com/track/6d9nO3vfvkTKWp5lB8vicZ · https://soundcloud.com/nag-1-1/ensemble-shanbehzadeh-raghs · https://soundcloud.com/saeid-shanbehzadeh/07-raghs
+- Chahar Dastmâl (Q86ccwb) https://music.apple.com/us/song/chahar-dastm%C3%A2l/465372120 · https://open.spotify.com/track/50UWcUK1ht403dhLHIw1FX · https://soundcloud.com/nag-1-1/z-r-chahar-dasmal · https://soundcloud.com/saeid-shanbehzadeh/08-cha-ha-r-dastma-l
+- Hameh (Q24wa33) https://music.apple.com/us/song/hameh/465372134 · https://open.spotify.com/track/63yhbL0umvGzx8Vx7brKHX · https://soundcloud.com/nag-1-1/ensemble-shanbehzadeh-hameh · https://soundcloud.com/saeid-shanbehzadeh/09-hameh · https://t.me/saeidshanbehzadeh/102
+- Sharab - Single (Qw8p7zw) https://music.apple.com/us/album/sharab-single/1501782064 · https://open.spotify.com/album/1UrvOyH4LNqIQUkmRZHJuE · https://donotsitonthefurniturerecordings.bandcamp.com/album/sharab-ep
+- Sharab (Vocal Mix) (Qgwwqgy) https://music.apple.com/us/song/sharab-vocal-mix/1501782426 · https://open.spotify.com/track/2lcT5ImIU1cCcuCXgeu7xo · https://donotsitonthefurniturerecordings.bandcamp.com/track/sharab-vocal-mix
+- Sharab (Dub Mix) (Qc74grq) https://music.apple.com/us/song/sharab-dub-mix/1501782427 · https://open.spotify.com/track/5gbmnaEXDpsyUVgE15MSOV · https://donotsitonthefurniturerecordings.bandcamp.com/track/sharab-dub-mix
+- Sharab (Instrumental Mix) (Qrtnctq) https://music.apple.com/us/song/sharab-instrumental-mix/1501782428 · https://open.spotify.com/track/3RVf1S8MVbyQp15k1weitF · https://donotsitonthefurniturerecordings.bandcamp.com/track/sharab-instrumental-mix
+- Tide Remix (Q4wf8ar) https://soundcloud.com/nag-1-1/tide-remix
+- Sia (Qeg4xjx) https://music.apple.com/us/song/sia/1820955845 · https://open.spotify.com/track/7fQFb56q0aM8H1d9WBqBBq · https://music.apple.com/us/album/sia-single/1820955843 · https://open.spotify.com/album/5BrsJIswNlFwb1RwIqEQcK · https://soundcloud.com/nag-1-1/sia
+- Ey Del (Q7xkg6s) https://music.apple.com/us/song/ey-del/1798404661 · https://open.spotify.com/track/1z6wUsh75Kzne75g8ZY3jN · https://music.apple.com/us/album/ey-del-single/1798404660 · https://open.spotify.com/album/2Fz25QvZC4wNk5tyL7heIO · https://soundcloud.com/nag-1-1/ey-del
+- Boushehr (Qpzenq8) https://music.apple.com/us/song/boushehr/1782172484 · https://open.spotify.com/track/42r2KwqgYjPP7Ri0Z0xVjc · https://soundcloud.com/nag-1-1/boushehr
+- The Soul Of Trance (Qs4a784) https://music.apple.com/us/album/the-soul-of-trance/1782171513 · https://open.spotify.com/album/2gF5Lfg9dhydi1LcWnleFf · https://soundcloud.com/nag-1-1/soul-of-trance
+- Tehran (Qmbmyn9) https://music.apple.com/us/song/tehran/1727335372 · https://open.spotify.com/track/5IAQViK6Ag3AE4kONRchmg · https://music.apple.com/us/album/tehran-single/1727335184 · https://open.spotify.com/album/22MqCscoW2JlkjnM9Xpt44 · https://soundcloud.com/nag-1-1/tehran
+- Electro Bandari, Pt.1 (Ishtar) (Q6qb3wp) https://music.apple.com/us/song/electro-bandari-pt-1-ishtar/1692770282 · https://open.spotify.com/track/6D6oY1nzWmhhaXRVn0E6in · https://music.apple.com/us/album/electro-bandari-pt-1-ishtar-single/1692769930 · https://open.spotify.com/album/0MZ0u7iY129FxG0WobU9E2 · https://soundcloud.com/nag-1-1/electro-bandari-pt1-ishtar
+- Black Hole (Qx86vys) https://music.apple.com/us/song/black-hole/1648312554 · https://music.apple.com/us/album/black-hole-single/1648312214 · https://soundcloud.com/nag-1-1/black-hole
+- Liberté (Qvghrw5) https://music.apple.com/us/song/libert%C3%A9/1625619672 · https://open.spotify.com/track/4N2IcrSPXFGumvEwFHSjPc · https://soundcloud.com/nag-1-1/liberte
+- I Am (Qmve3gq) https://music.apple.com/us/song/i-am/1625619254 · https://open.spotify.com/track/3TAYL3WbTpWq8Hv4ergh7j · https://soundcloud.com/nag-1-1/i-am-feat-xavier-belin
+- Infini (Qzc22wm) https://music.apple.com/us/song/infini/1625619248 · https://open.spotify.com/track/21NFRD6VBPQyRIBbQSNAWj · https://soundcloud.com/nag-1-1/infini-feat-xavier-belin
+- Le Voyage (Qcejabf) https://music.apple.com/us/song/le-voyage/1625619253 · https://open.spotify.com/track/3ErIlrpWdP7tyrbKPkJMVG · https://soundcloud.com/nag-1-1/le-voyage
+- Street Groove (Qw53hmx) https://music.apple.com/us/song/street-groove/1625619263 · https://open.spotify.com/track/7EIBSZSosiU6qA4P5WGuxp · https://soundcloud.com/nag-1-1/street-groove
+- New York (Qvzmq7z) https://music.apple.com/us/song/new-york/1625619269 · https://open.spotify.com/track/4SuHAcDNUAKF7dp5NM0KOf · https://soundcloud.com/nag-1-1/new-york
+- HOPE (Q5aqj5r) https://soundcloud.com/nag-1-1/hope · https://www.youtube.com/watch?v=091hnNg9SFo
+- Blue (Qa4gtmc) https://music.apple.com/us/song/blue/1530917611 · https://music.apple.com/us/album/blue-single/1530917607 · https://soundcloud.com/nag-1-1/blue
+- Circle (Qgf7zfg) https://soundcloud.com/nag-1-1/circle
+- Makran (Q6wksky) https://music.apple.com/us/song/makran/1261117775 · https://open.spotify.com/track/6jGtlFcYTOFQ2RGhIWJhtw · https://soundcloud.com/nag-1-1/makran-naghib-shanbehzadeh · https://t.me/saeidshanbehzadeh/472
+- Naghib Shanbehzadeh feat Xavier Belin - Stars Danse (Qdnwex9) https://soundcloud.com/nag-1-1/stars-danse
+- Naghib Shanbehzadeh Feat Dafne Kritharas & Siavash Kamkar - YAR (Q5jc39r) https://soundcloud.com/nag-1-1/naghib-shanbehzadeh-feat-dafne-kritharas-siavash-kamkar-yar
+- The Tide (Qhqaqbf) https://music.apple.com/us/song/the-tide/1441340255 · https://open.spotify.com/track/0MA64XEWWI8GvrAweNkMiK · https://music.apple.com/us/album/the-tide-single/1441340247 · https://open.spotify.com/album/0DYzbb4tdY3CY4mmgd5hEo · https://soundcloud.com/nag-1-1/the-tide · https://www.youtube.com/watch?v=XsfsaLxK-qQ
+- Naghib&Saied Shanbehzadeh - Tiva (Q3r5wm2) https://soundcloud.com/nag-1-1/naghibsaied-shanbehzadeh-tiva · https://www.youtube.com/watch?v=lZKRtUoGJRo · https://t.me/saeidshanbehzadeh/109 · https://t.me/saeidshanbehzadeh/470
+- Woap (Qz27kvz) https://music.apple.com/us/song/woap/1182640803 · https://music.apple.com/us/album/woap-single/1182640724 · https://soundcloud.com/nag-1-1/naghib-shanbehzadeh-woap · https://www.youtube.com/watch?v=m-OWzZrH_yQ
+- Naghib Shanbezadeh - Solo Live in VOA Onten Emission (Qc7eqyd) https://soundcloud.com/nag-1-1/naghib-shanbezadeh-solo-live
+- Ensemble Shanbehzadeh - Ya mama (Qcz6bmq) https://soundcloud.com/nag-1-1/ensemble-shanbehzadeh-ya-mama · https://www.youtube.com/watch?v=hRdxUxxYlrs
+- Naghib Shanbehzadeh - Kale Pouk (Qas8yzm) https://soundcloud.com/nag-1-1/naghib-shanbehzadeh-kale-pok · https://www.youtube.com/watch?v=1FzK8l_a0rw
+- Naghib Shanbehzadeh - Solo Toronto 2008 (Qe6m6yg) https://soundcloud.com/nag-1-1/naghib-shanbehzadeh-solo
+- Ensemble Shanbehzadeh - Tifoun Leymer (Qt6rpm6) https://soundcloud.com/nag-1-1/ensemble-shanbehzadeh-tifoun
+- Manu Codjia and Naghib Shanbehzadeh - Hurried (Qhsg94k) https://soundcloud.com/nag-1-1/manu-codjia-and-naghib
+- Derya Tifounenدریا طیفونن (Qjmdrt7) https://soundcloud.com/saeid-shanbehzadeh/derya-tifounen
+- Malleh Balouchan مله بلوچان (Qkgcnrq) https://soundcloud.com/saeid-shanbehzadeh/malleh-balouchan
+- Shah Soltanشاه سلطان (Q5s565s) https://soundcloud.com/saeid-shanbehzadeh/shah-soltan
+- Ma Mastim (Qjqx6ne) https://shanbehzadeh-music.bandcamp.com/track/ma-mastim · https://soundcloud.com/saeid-shanbehzadeh/ma-mastim-master · https://www.youtube.com/watch?v=vA4pAWtLhVw
+- Ya Mama (Q3ey378)
+- Naghib Shanbehzadeh Solo Le Voyage at Opera of Francfurt ( Woman , Life , Freedom benefit Concert ) (Qz2kmq5) https://www.youtube.com/watch?v=4k0VkstbH3A
+- Naghib Shanbehzadeh - Sangsaria Live (Électro Persian Oriental Project ) (Qjkabj3) https://www.youtube.com/watch?v=VsZVjo0BQyk
+- Naghib Shanbehzadeh- Live Solo Dohola (Darbuka) in Consulat Voltaire (Souffle Collectif) (Qrx29hv) https://www.youtube.com/watch?v=p2vw36z8TVc
+- Naghib Shanbehzadeh - Solo in Ludwisburg Festival (Q3wx64s) https://www.youtube.com/watch?v=Aq7Sc6yVdj0
+- Naghib Shanbehzadeh - Saint Tropez (Qsf8qk4) https://www.youtube.com/watch?v=KOvC8xtQQUg
+- Naghib shanbehzadeh solo Zarb at Home (Qaykvkv) https://www.youtube.com/watch?v=jGuFOu65VfA
+- Naghib Shanbehzadeh - BIMBOM (Q8n26dt) https://www.youtube.com/watch?v=WOisljWw4UM
+- Naghib Shanbehzadeh - Le Pont (Qx47v5k) https://www.youtube.com/watch?v=0uYpkZCUJMg
+- Naghib Shanbehzadeh - Solo Bandari (Qge8qn2) https://www.youtube.com/watch?v=90hReMFgNZo
+- BANDARI BACKING TRACK BY NAGHIB SHANBEHZADEH (Qa5vy2z) https://www.youtube.com/watch?v=H99ZNqOsqB4
+- Naghib Shanbehzadeh - Galop / Zarb , Tombak (Qss6yw4) https://www.youtube.com/watch?v=p-KYziINSTY
+- Naghib Shanbehzadeh - Le Voyage / Zarbotempo , Zarb , Tombak , Darbuka , Dohola (Q9bwetx) https://www.youtube.com/watch?v=bel8OxYAAKo
+- Naghib Shanbehzadeh feat Ismail Altunbas - Zarb and Darbuka duo (Qv4n5bx) https://www.youtube.com/watch?v=HuzwPPHLpWc
+- Naghib Shanbehzadeh solo in San Francisco (Q2476th) https://www.youtube.com/watch?v=P16_tqvt0RI
+- Naghib Shanbehzadeh - Solo Darbuka (Qht4zgx) https://www.youtube.com/watch?v=-gMlxQJDv8Q
+- Saeid&Naghib Shanbehzadeh in Rudolstadt Festival 2006 (Qhzmkz4) https://www.youtube.com/watch?v=i4ycWAL9OJs
+- Naghib Shanbehzadeh and Mehran Ghaedipour - Asr (Qgpvtpm) https://www.youtube.com/watch?v=VnrIP6w70Po
+- Naghib Shanbehzadeh - Dammam (Qk97wpk) https://www.youtube.com/watch?v=iujGzViBe8g
+- Naghib Shanbehzadeh - 60 second darbuka challenge 2014 (Qgqfkq6) https://www.youtube.com/watch?v=cg4lRzZ0YUI
+- Naghib Shanbehzadeh - Paris (Q89qz8m) https://www.youtube.com/watch?v=bU17BiGdTsc
+- Naghib Shanbehzadeh - Remember (Qxbyrvb) https://www.youtube.com/watch?v=Ux6Gl4X_Bzc
+- Naghib shanbehzadeh - Jonob (Q4ypz3s) https://www.youtube.com/watch?v=tInWP9ePQlA
+- Naghib Shanbehzadeh - Darbuka (Q69x68j) https://www.youtube.com/watch?v=aNruCvkpHxk
+- Naghib Shanbehzadeh - Black Triangle (Qfdq2fg) https://www.youtube.com/watch?v=-GcFVinEugU
+- Naghib Shanbehzadeh - Solo inTheatre Odeon Vienna (Qw6f8yr) https://www.youtube.com/watch?v=BcSxmEcosy4
+- Naghib Shanbehzadeh solo Darbuka - Night in Vienna (Q8t4hk5) https://www.youtube.com/watch?v=Ol-cgL1tZGY
+- Naghib Shanbehzadeh solo Darbuka - Nun vahi (Q3xcbvn) https://www.youtube.com/watch?v=bvqIcfbVsL0
+- Naghib Shanbehzadeh solo - Ro Choub (Qkh5cpv) https://www.youtube.com/watch?v=X0MiOvOP7bo
+- Naghib Shanbehzadeh - Darbuka Solo (Qtcs685) https://www.youtube.com/watch?v=W-4NuKpoj48
+- Naghib Shanbehzadeh solo Darbuka and zarb - To kucheh (Qdvy25k) https://www.youtube.com/watch?v=_yMaW491PSs
+- Naghib Shanbehzadeh  - Tombak Darbuka Rats (Q82xn4p) https://www.youtube.com/watch?v=mMYRyyBew-8
+- Naghib Shanbehzadeh - My Lovely (Qsk3hcr) https://www.youtube.com/watch?v=7f86OYrZjfk
+- Naghib Shanbehzadeh - Zarbo Tempo Darbuka (Q9fte9g) https://www.youtube.com/watch?v=8zHe04L1E5c
+- Naghib Shanbehzadeh solo in Conservatore of creteil (Qh5m7ha) https://www.youtube.com/watch?v=SOQCJM2g7sE
+- Naghib shanbehzadeh solo drum - From Sao paulo to Bushehr (Qw7tb8f) https://www.youtube.com/watch?v=33vFdFepNCI
+- Naghib shanbehzadeh Solo Tombak (zarb) (Qvva9ms) https://www.youtube.com/watch?v=VvNmM8FzL70
+- Naghib shanbehzadeh -Drum solo (Qardd6a) https://www.youtube.com/watch?v=e9VdRJNFi4g
+- Darbuka Solo - Naghib Shanbehzadeh (Qyssgzr) https://www.youtube.com/watch?v=YY9s3Bni3NA
+- Naghib Shanbehzadeh-Solo in kennedy center washington (Qpz8avz) https://www.youtube.com/watch?v=XJnB1OpB04k
+- saeid & naghib with the player from india ,brezil,singapor, in womad (Q5ra6es) https://www.youtube.com/watch?v=cqs5n1oJCCs
+- saeid & naghib shanbehzadeh  boushehr  iran music  in womad singapor 1 (Qtg5b94) https://www.youtube.com/watch?v=wP3ustB_ZzU
+- Iran boushehr music  Naghib shanbehzadeh & indian music & jazz (Qhm23cj) https://www.youtube.com/watch?v=owNRzImkSH0
+- Afro Iranian  music. YAZLEH @operalille  Saeid & Naghib shanbehzadehیزله خوانی افرو ایرانی (Qjtrzra) https://www.youtube.com/watch?v=ZN6S9uTLREw
+- Dokhtar Boro Bala. Saeid & Naghib Shanbehzadeh at Opera De lille دختر برو بالا (Qpfh7dr) https://www.youtube.com/watch?v=f5if2uK3sag
+- Saeid and Naghib Shanbehzadeh in Radio France Musique, Couleurs du monde (Q7k9hhf) https://www.youtube.com/watch?v=qG0fSjSdQSI
+- Bada Mobarak (Qbtq2wp) https://t.me/saeidshanbehzadeh/54 · https://t.me/saeidshanbehzadeh/384
+- L. Subramaniam, Corky Siegel and the Shanbehzadehs (Q7gqddg) https://t.me/saeidshanbehzadeh/90
+- سعید و نقیب شنبه‌زاده در بحرین (Qd8abrf) https://t.me/saeidshanbehzadeh/103
+- Iran #1 – Traditional Percussions (Qnm764h)
+
+The publisher’s nine tracks on SUPIWM_6025 appear in the same sequence and under the same titles on the digital album *The Soul of Trance*. Its original audio files follow.
+
+- [Khaliji](https://www.superpitch.co/wp-content/uploads/2024/11/01-–-Khaliji.mp3) (Q4dry68)
+- [Irani](https://www.superpitch.co/wp-content/uploads/2024/11/02-–-Irani.mp3) (Qvfeza7)
+- [The Soul of Trance](https://www.superpitch.co/wp-content/uploads/2024/12/SUPIWM_6025_03_The_Soul_of_Trans_Naghib_Shanbehzadeh_MAIN_SuperPitch_World_Map.mp3) (Qy5e5h8)
+- [Choupi Boushehri](https://www.superpitch.co/wp-content/uploads/2024/11/04-–-Choupi.mp3) (Qwyzqbf)
+- [Ahlel Hawa](https://www.superpitch.co/wp-content/uploads/2024/11/05-–-Ahlel-Hawa.mp3) (Q672jhy)
+- [Arabi](https://www.superpitch.co/wp-content/uploads/2024/11/06-–-Arabi.mp3) (Qx9j22f)
+- [Lanj](https://www.superpitch.co/wp-content/uploads/2024/11/07-–-Sheki.mp3) (Qpbg88c)
+- [Bandari](https://www.superpitch.co/wp-content/uploads/2024/11/08-–-Bandari.mp3) (Qv84v2b)
+- [Boushehr](https://www.superpitch.co/wp-content/uploads/2024/11/09-–-Boushehr.mp3) (Qpzenq8)
+- Preza Otan Pieis (Varka) (Qz49p4v)
+- Mystika Pos S'Agapo (Varka) (Q2nvxe6)
+- Gkel Gkel Aman (Varka) (Q7gbqq3)

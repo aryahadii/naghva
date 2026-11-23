@@ -1,0 +1,55 @@
+id: Qte58hn
+type: release
+statements:
+  name:
+  - value:
+      text: Teherantor
+      language: en
+    references:
+    - source: music.apple.com-us-album-teherantor-949590403
+      quote: Teherantor
+      accessed: '2026-11-21'
+      locator: Track 5 in album catalogue data
+  performer:
+  - value: Qg4z85j
+    references:
+    - source: music.apple.com-us-album-teherantor-949590403
+      quote: Teherantor - Album by Langtunes - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+    - source: open.spotify.com-album-1jazk4g1sxc1x0pprn2irp
+      quote: Teherantor
+      accessed: '2026-11-21'
+      locator: Track 5 in the album player
+  release date:
+  - value:
+      date: '2014-12-13'
+    references:
+    - source: music.apple.com-us-album-teherantor-949590403
+      quote: December 13, 2014
+      accessed: '2026-11-21'
+      locator: Album details
+  listen link:
+  - value: https://music.apple.com/us/album/teherantor/949590403?i=949590507
+    references:
+    - source: music.apple.com-us-album-teherantor-949590403
+      quote: Teherantor
+      accessed: '2026-11-21'
+      locator: Track 5 in album catalogue data
+  - value: https://open.spotify.com/track/7CUl0MajGn9DnIcOws1b6f
+    references:
+    - source: open.spotify.com-album-1jazk4g1sxc1x0pprn2irp
+      quote: Teherantor
+      accessed: '2026-11-21'
+      locator: Track 5 in the album player
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/86/ed/46/86ed46f6-7143-c990-e084-4464bba7ba64/002534010490.jpg/632x632bb-60.jpg
+    qualifiers:
+      credit:
+        text: Parvenue Records, via Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-teherantor-949590403
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/86/ed/46/86ed46f6-7143-c990-e084-4464bba7ba64/002534010490.jpg/632x632bb-60.jpg
+      accessed: '2026-11-21'
+      locator: Square album cover in the picture element

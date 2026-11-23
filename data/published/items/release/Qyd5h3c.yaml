@@ -1,0 +1,21 @@
+id: Qyd5h3c
+type: release
+statements:
+  name:
+  - value:
+      text: Misty Solitude
+      language: en
+    references:
+    - &id001
+      source: siamak-jahangiri-primary
+      quote: Misty Solitude
+      accessed: '2026-11-21'
+      locator: Teaching academy discography
+  performer:
+  - value: Qnz4xnz
+    references:
+    - *id001
+  release type:
+  - value: album
+    references:
+    - *id001

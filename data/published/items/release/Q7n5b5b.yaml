@@ -1,0 +1,37 @@
+id: Q7n5b5b
+type: release
+statements:
+  name:
+  - value:
+      text: Digging For Gold
+      language: en
+    references:
+    - source: soundcloud.com-s-awomir-wojciechowski-digging-for-gold
+      quote: Digging For Gold
+      accessed: '2026-11-21'
+      locator: Recording title
+  performer:
+  - value: Qrtebcw
+    references:
+    - source: soundcloud.com-s-awomir-wojciechowski-digging-for-gold
+      quote: SINFONIA VARSOVIA, Yalda Zamani - conductor
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://soundcloud.com/s-awomir-wojciechowski/digging-for-gold
+    references:
+    - source: soundcloud.com-s-awomir-wojciechowski-digging-for-gold
+      quote: Stream Digging For Gold by Sławomir Wojciechowski | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-jUCC3iGcGoVOxq0X-SvVe3Q-large.jpg
+    references:
+    - source: soundcloud.com-s-awomir-wojciechowski-digging-for-gold
+      quote: https://i1.sndcdn.com/artworks-jUCC3iGcGoVOxq0X-SvVe3Q-large.jpg
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: Sławomir Wojciechowski on SoundCloud
+        language: en

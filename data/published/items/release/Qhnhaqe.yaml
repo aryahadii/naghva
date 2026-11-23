@@ -1,0 +1,103 @@
+id: Qhnhaqe
+type: release
+statements:
+  name:
+  - value:
+      text: Mehr
+      language: en
+    references:
+    - source: music.apple.com-us-album-mehr-275174365
+      quote: Mehr
+      accessed: '2026-11-21'
+      locator: Release and track listing
+  performer:
+  - value: Qjwhj2t
+    references:
+    - source: music.apple.com-us-album-mehr-275174365
+      quote: Pouya Mahmoodi
+      accessed: '2026-11-21'
+      locator: Artist billing
+  - value: Qxmrceh
+    qualifiers:
+      role:
+      - drums
+    references:
+    - source: www.youtube.com-watch-v-ivwstqbl9wu
+      quote: Pouya Mahmoodi ft. Billy Cobham - Bamdad
+      accessed: '2026-11-21'
+      locator: Label upload title
+  - value: Qngcq7r
+    qualifiers:
+      role:
+      - violin
+    references:
+    - source: iranian.com-main-music-pooya-mahmoodi.html
+      quote: Negar Rostami Nejad (vocals, violin, background vocals)
+      accessed: '2026-11-21'
+      locator: Personnel on Mehr
+  - value: Qymckz3
+    qualifiers:
+      role:
+      - keyboards
+    references:
+    - source: iranian.com-main-music-pooya-mahmoodi.html
+      quote: Mohammad Reza Asqhari (keyboards, drum programming, percussion programming)
+      accessed: '2026-11-21'
+      locator: Personnel on Mehr
+  - value: Qkx3jpf
+    qualifiers:
+      role:
+      - bass
+    references:
+    - source: iranian.com-main-music-pooya-mahmoodi.html
+      quote: Luca Leombruni (bass guitar)
+      accessed: '2026-11-21'
+      locator: Personnel on Mehr
+  - value: Qjgraqg
+    qualifiers:
+      role:
+      - drums
+    references:
+    - source: iranian.com-main-music-pooya-mahmoodi.html
+      quote: Vladimir Jaggi, Billy Cobham (drums)
+      accessed: '2026-11-21'
+      locator: Personnel on Mehr
+  listen link:
+  - value: https://music.apple.com/us/album/mehr/275174365
+    references:
+    - source: music.apple.com-us-album-mehr-275174365
+      quote: https://music.apple.com/us/album/mehr/275174365
+      accessed: '2026-11-21'
+      locator: Distributor permalink
+  - value: https://open.spotify.com/album/1VKHwHkSoaFDOnS5mhXMgt
+    references:
+    - source: open.spotify.com-embed-album-1vkhwhksoafdons5mhxmgt
+      quote: Mehr
+      accessed: '2026-11-21'
+      locator: Spotify release title
+  release date:
+  - value:
+      date: '2008-02-19'
+    references:
+    - source: music.apple.com-us-album-mehr-275174365
+      quote: '2008-02-19'
+      accessed: '2026-11-21'
+      locator: Original issue date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music/31/05/9f/mzi.crkpqkxn.jpg/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Distributor artwork via Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-mehr-275174365
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music/31/05/9f/mzi.crkpqkxn.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Digital cover artwork
+  release type:
+  - value: album
+    references:
+    - source: music.apple.com-us-album-mehr-275174365
+      quote: 'Listen to Mehr by Pouya Mahmoodi on Apple Music. 2008. 11 Songs. Duration: 44 minutes.'
+      accessed: '2026-11-21'
+      locator: Distributor release billing

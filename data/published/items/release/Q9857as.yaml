@@ -1,0 +1,32 @@
+id: Q9857as
+type: release
+statements:
+  name:
+  - value:
+      text: HAMNAVARD, Mehdi Moshtagh and Horacio Franco
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-pie-sd1yyti
+      quote: HAMNAVARD, Mehdi Moshtagh and Horacio Franco
+      accessed: '2026-11-21'
+      locator: Music credited by musician or performance publisher
+  performer:
+  - value: Qqb9bnx
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/pie-SD1yytI/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-pie-sd1yyti
+      quote: https://i.ytimg.com/vi/pie-SD1yytI/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video frame
+    qualifiers:
+      credit:
+        text: Mehdi Moshtagh
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=pie-SD1yytI
+    references:
+    - *id001

@@ -1,0 +1,21 @@
+id: Qzt3y2y
+type: person
+statements:
+  name:
+  - value:
+      text: Jonathan Jones
+      language: en
+    references:
+    - source: ehsanmatoori.com-projects-borderless-band
+      quote: Jonathan Jones (clarinet)
+      accessed: 2026-11-21
+      locator: Band personnel
+  member of:
+  - value: Qhzc5js
+    qualifiers:
+      role: clarinet
+    references:
+    - source: ehsanmatoori.com-projects-borderless-band
+      quote: Jonathan Jones (clarinet)
+      accessed: 2026-11-21
+      locator: Band personnel

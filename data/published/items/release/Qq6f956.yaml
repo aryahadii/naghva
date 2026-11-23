@@ -1,0 +1,58 @@
+id: Qq6f956
+type: release
+statements:
+  name:
+  - value:
+      text: Ham Maseer (path-mates)
+      language: en
+    references:
+    - source: music.apple.com-us-album-ham-maseer-path-mates-1799282458
+      quote: Ham Maseer (path-mates)
+      accessed: '2026-11-21'
+      locator: Release title
+  release type:
+  - value: album
+    references:
+    - source: music.apple.com-us-album-ham-maseer-path-mates-1799282458
+      quote: Ham Maseer (path-mates)
+      accessed: '2026-11-21'
+      locator: Release title
+  listen link:
+  - value: https://music.apple.com/us/album/ham-maseer-path-mates/1799282458
+    references:
+    - source: music.apple.com-us-album-ham-maseer-path-mates-1799282458
+      quote: Ham Maseer (path-mates)
+      accessed: '2026-11-21'
+      locator: Release title
+  - value: https://open.spotify.com/album/2YbxVEYybULmHiUT4qTWkx
+    references:
+    - source: open.spotify.com-embed-album-2ybxveyybulmhiut4qtwkx
+      quote: Ham Maseer (path-mates)
+      accessed: '2026-11-21'
+      locator: Native Spotify title
+  performer:
+  - value: Qnbrhrh
+    references:
+    - source: music.apple.com-us-album-ham-maseer-path-mates-1799282458
+      quote: Eendo
+      accessed: '2026-11-21'
+      locator: Recording/featured artist
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d4/eb/9f/d4eb9f43-a614-1d5a-d77f-0c98835e93b0/056870287171.png/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Digital release via Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-ham-maseer-path-mates-1799282458
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d4/eb/9f/d4eb9f43-a614-1d5a-d77f-0c98835e93b0/056870287171.png/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Label artwork
+  release date:
+  - value:
+      date: '2025-02-28'
+    references:
+    - source: music.apple.com-us-album-ham-maseer-path-mates-1799282458
+      quote: '2025-02-28'
+      accessed: '2026-11-21'
+      locator: Digital release date

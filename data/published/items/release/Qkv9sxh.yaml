@@ -1,0 +1,49 @@
+id: Qkv9sxh
+type: release
+statements:
+  name:
+  - value:
+      text: Children's concert by Babak RAJABI
+      language: en
+    references:
+    - source: www.youtube.com-watchv-nhgkgx6fglk
+      quote: Children's concert by Babak RAJABI
+      accessed: '2026-11-21'
+      locator: Official upload title
+  performer:
+  - value: Qzhgpkw
+    references:
+    - source: www.youtube.com-watchv-nhgkgx6fglk
+      quote: Children's concert by Babak RAJABI
+      accessed: '2026-11-21'
+      locator: Official upload title
+    - source: www.youtube.com-watchv-nhgkgx6fglk
+      quote: Babak Rajabi
+      accessed: '2026-11-21'
+      locator: Uploading artist
+  listen link:
+  - value: https://www.youtube.com/watch?v=nHgKgx6FGLk
+    references:
+    - source: www.youtube.com-watchv-nhgkgx6fglk
+      quote: Children's concert by Babak RAJABI
+      accessed: '2026-11-21'
+      locator: Official upload title
+  release date:
+  - value:
+      date: '2019-09-19'
+    references:
+    - source: www.youtube.com-watchv-nhgkgx6fglk
+      quote: '20190919'
+      accessed: '2026-11-21'
+      locator: Video publication date, YYYYMMDD
+  cover art:
+  - value: https://i.ytimg.com/vi_webp/nHgKgx6FGLk/maxresdefault.webp
+    references:
+    - source: www.youtube.com-watchv-nhgkgx6fglk
+      quote: https://i.ytimg.com/vi_webp/nHgKgx6FGLk/maxresdefault.webp
+      accessed: '2026-11-21'
+      locator: Release image URL
+    qualifiers:
+      credit:
+        text: Babak Rajabi · YouTube
+        language: en

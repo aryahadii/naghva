@@ -1,0 +1,47 @@
+id: Qnwahjp
+type: release
+statements:
+  name:
+  - value:
+      text: People Powered Sounds · Shiraz Ensemble
+      language: en
+    references:
+    - source: www.youtube.com-oembed-6x9q2ggn3ha
+      quote: 'People Powered Sounds: Shiraz Ensemble'
+      locator: Publisher, artist or ensemble recording credits
+      accessed: '2026-11-21'
+  performer:
+  - value: Q3ytwxm
+    references:
+    - source: www.shirazensemble.com-videos
+      quote: Mahya Hamedi, voice and synth
+      locator: Publisher, artist or ensemble recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role:
+      - vocals
+      - synthesizer
+  - value: Q87wshb
+    references:
+    - source: www.shirazensemble.com-videos
+      quote: Shiraz Ensemble
+      locator: Publisher, artist or ensemble recording credits
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://www.youtube.com/watch?v=6x9q2ggN3HA
+    references:
+    - source: www.youtube.com-oembed-6x9q2ggn3ha
+      quote: 'People Powered Sounds: Shiraz Ensemble'
+      locator: Publisher, artist or ensemble recording credits
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://i.ytimg.com/vi/6x9q2ggN3HA/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-6x9q2ggn3ha
+      quote: https://i.ytimg.com/vi/6x9q2ggN3HA/hqdefault.jpg
+      locator: Publisher, artist or ensemble recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: PhillyCAM
+        language: en

@@ -1,0 +1,65 @@
+id: Qnb355d
+type: release
+statements:
+  name:
+  - value:
+      text: Holum
+      language: en
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-holum
+      quote: Holum | Kaveh Sarvarian, Hames Bitar | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qy69pg7
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-holum
+      quote: Holum | Kaveh Sarvarian, Hames Bitar | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qtj7y5p
+    references:
+    - source: kavehsarvarian.bandcamp.com-album-when-the-sun-rises
+      quote: 'Hames Bitar: Oud'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: oud
+  listen link:
+  - value: https://kavehsarvarian.bandcamp.com/track/holum
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-holum
+      quote: Holum | Kaveh Sarvarian, Hames Bitar | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1680672443
+    references:
+    - source: music.apple.com-us-song-1680672443
+      quote: ‎Holum - Song with Lyrics by Kaveh Sarvarian & Hames Bitar - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/2dKqeoK2Kja8obPjjXfC2f
+    references:
+    - source: open.spotify.com-track-2dkqeok2kja8obpjjxfc2f
+      quote: Holum - song and lyrics by Kaveh Sarvarian, Hames Bitar | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a1923473495_10.jpg
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-holum
+      quote: https://f4.bcbits.com/img/a1923473495_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Kaveh Sarvarian on Bandcamp
+        language: en
+  release date:
+  - value:
+      date: '2023-03-28'
+    references:
+    - source: kavehsarvarian.bandcamp.com-album-when-the-sun-rises
+      quote: released March 28, 2023
+      accessed: '2026-11-21'
+      locator: Published date

@@ -1,0 +1,32 @@
+id: Qypdj6r
+type: release
+statements:
+  name:
+  - value:
+      text: Zarbi Zabol Chahargah , Setar Mehdi Moshtagh / ضربی زابل چهارگاه ، سه تار مهدی مشتاق
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-5d_pcvetlw0
+      quote: Zarbi Zabol Chahargah , Setar Mehdi Moshtagh / ضربی زابل چهارگاه ، سه تار مهدی مشتاق
+      accessed: '2026-11-21'
+      locator: Music credited by musician or performance publisher
+  performer:
+  - value: Qqb9bnx
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/5d_pcVetLw0/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-5d_pcvetlw0
+      quote: https://i.ytimg.com/vi/5d_pcVetLw0/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video frame
+    qualifiers:
+      credit:
+        text: Mehdi Moshtagh
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=5d_pcVetLw0
+    references:
+    - *id001

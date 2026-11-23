@@ -1,0 +1,52 @@
+id: Qb99sq9
+type: release
+statements:
+  name:
+  - value:
+      text: Davaran (feat. Kaveh Sarvarian, Amin Taheri & Ali Poornegahban)
+      language: en
+    references:
+    - source: music.apple.com-us-album-davaran-feat-kaveh-sarvarian-amin-taheri-ali-poornegahban-565879101
+      quote: ‎Davaran (feat. Kaveh Sarvarian, Amin Taheri & Ali Poornegahban) - Album by Hamzeh Yeganeh - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qy69pg7
+    references:
+    - source: music.apple.com-us-album-davaran-feat-kaveh-sarvarian-amin-taheri-ali-poornegahban-565879101
+      quote: ‎Davaran (feat. Kaveh Sarvarian, Amin Taheri & Ali Poornegahban) - Album by Hamzeh Yeganeh - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  release type:
+  - value: album
+    references:
+    - source: music.apple.com-us-album-davaran-feat-kaveh-sarvarian-amin-taheri-ali-poornegahban-565879101
+      quote: ‎Davaran (feat. Kaveh Sarvarian, Amin Taheri & Ali Poornegahban) - Album by Hamzeh Yeganeh - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://music.apple.com/us/album/davaran-feat-kaveh-sarvarian-amin-taheri-ali-poornegahban/565879101
+    references:
+    - source: music.apple.com-us-album-davaran-feat-kaveh-sarvarian-amin-taheri-ali-poornegahban-565879101
+      quote: ‎Davaran (feat. Kaveh Sarvarian, Amin Taheri & Ali Poornegahban) - Album by Hamzeh Yeganeh - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music/v4/34/3f/31/343f31b7-b522-035d-bb62-21c00b112d41/700261934709.jpg/632x632bb.webp
+    references:
+    - source: music.apple.com-us-album-davaran-feat-kaveh-sarvarian-amin-taheri-ali-poornegahban-565879101
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music/v4/34/3f/31/343f31b7-b522-035d-bb62-21c00b112d41/700261934709.jpg/632x632bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original publisher artwork
+        language: en
+  release date:
+  - value:
+      date: '2012-09-22'
+    references:
+    - source: music.apple.com-us-album-davaran-feat-kaveh-sarvarian-amin-taheri-ali-poornegahban-565879101
+      quote: September 22, 2012
+      accessed: '2026-11-21'
+      locator: Published date

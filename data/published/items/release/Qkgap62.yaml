@@ -1,0 +1,78 @@
+id: Qkgap62
+type: release
+statements:
+  name:
+  - value:
+      text: Passport
+      language: en
+    references:
+    - source: music.apple.com-us-album-passport-single-6780444720
+      quote: Passport
+      accessed: 2026-11-21
+      locator: Edition or recording title
+  performer:
+  - value: Qgxh3d9
+    references:
+    - source: music.apple.com-us-album-passport-single-6780444720
+      quote: Faravaz
+      accessed: 2026-11-21
+      locator: Digital credits
+  listen link:
+  - value: https://music.apple.com/us/song/passport/6780444724
+    references:
+    - source: music.apple.com-us-album-passport-single-6780444720
+      quote: Passport
+      accessed: 2026-11-21
+      locator: Edition or recording title
+  - value: https://music.apple.com/us/song/passport/6812657858
+    references:
+    - source: music.apple.com-us-album-saffron-single-6812657659
+      quote: Passport
+      accessed: 2026-11-21
+      locator: Edition or recording title
+  - value: https://faravaz.bandcamp.com/track/passport
+    references:
+    - source: faravaz.bandcamp.com-album-saffron-ep
+      quote: Passport
+      accessed: 2026-11-21
+      locator: Artist’s Bandcamp catalogue
+  - value: https://open.spotify.com/track/6H9ETOWYhxiUPvLkqweeXx
+    references:
+    - source: open.spotify.com-album-01tdc8bp82x7oftruac9x5
+      quote: Passport
+      accessed: 2026-11-21
+      locator: Published recording
+  - value: https://open.spotify.com/track/2I0tuH9cTxOMMqlhsSZ0ae
+    references:
+    - source: open.spotify.com-album-1qnxol8kssl4htt5ecm9ou
+      quote: Passport
+      accessed: 2026-11-21
+      locator: Published recording
+  release date:
+  - value:
+      date: '2026-06-20'
+    references:
+    - source: music.apple.com-us-album-passport-single-6780444720
+      quote: '2026-06-20'
+      accessed: 2026-11-21
+      locator: Digital edition date
+  - value:
+      date: '2026-09-18'
+    references:
+    - source: music.apple.com-us-album-saffron-single-6812657659
+      quote: '2026-09-18'
+      accessed: 2026-11-21
+      locator: Digital edition date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/76/57/f9/7657f9c0-ef2d-97db-13da-13c27b1893c1/820233650380.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-passport-single-6780444720
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/76/57/f9/7657f9c0-ef2d-97db-13da-13c27b1893c1/820233650380.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Digital edition artwork
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/06/75/7e/06757e18-3500-84ec-8be6-164919749d34/885288593518.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-saffron-single-6812657659
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/06/75/7e/06757e18-3500-84ec-8be6-164919749d34/885288593518.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Digital edition artwork

@@ -1,0 +1,62 @@
+id: Qnmqhtg
+type: release
+statements:
+  name:
+  - value:
+      text: Jocker
+      language: en
+    references:
+    - source: music.apple.com-us-album-abrahadabra-253866584-7d03cf8a8659
+      quote: Jocker
+      accessed: 2026-11-21
+      locator: Published recording or album
+  listen link:
+  - value: https://music.apple.com/us/song/jocker/253867105
+    references:
+    - source: music.apple.com-us-album-abrahadabra-253866584-7d03cf8a8659
+      quote: Jocker
+      accessed: 2026-11-21
+      locator: Published recording or album
+  - value: https://soundcloud.com/salimgs/joker
+    references:
+    - source: soundcloud.com-salimgs-joker
+      quote: Joker
+      accessed: 2026-11-21
+      locator: Artist upload name
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Features/7e/ff/45/dj.rxbzrqja.tif/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-abrahadabra-253866584-7d03cf8a8659
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Features/7e/ff/45/dj.rxbzrqja.tif/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Digital artwork
+  release date:
+  - value:
+      date: '2007-04-30'
+    references:
+    - source: music.apple.com-us-album-abrahadabra-253866584-7d03cf8a8659
+      quote: '2007-04-30'
+      accessed: 2026-11-21
+      locator: Digital edition date
+  performer:
+  - value: Q93d39e
+    references:
+    - source: music.apple.com-us-album-abrahadabra-253866584-7d03cf8a8659
+      quote: Arashk
+      accessed: 2026-11-21
+      locator: Billed band
+  - value: Qp3beww
+    references:
+    - source: salimworld.com-music-abrahadabra
+      quote: 'Composed/Performed: Salim Ghazi Saeedi'
+      accessed: 2026-11-21
+      locator: Composer and player’s published credits
+  contributor:
+  - value: Qp3beww
+    qualifiers:
+      role: composer
+    references:
+    - source: salimworld.com-music-abrahadabra
+      quote: 'Composed/Performed: Salim Ghazi Saeedi'
+      accessed: 2026-11-21
+      locator: Composer and player’s published credits

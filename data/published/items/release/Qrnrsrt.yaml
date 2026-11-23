@@ -1,0 +1,72 @@
+id: Qrnrsrt
+type: release
+statements:
+  name:
+  - value:
+      text: Bamdad
+      language: en
+    references:
+    - source: music.apple.com-us-album-mehr-275174365
+      quote: Bamdad
+      accessed: '2026-11-21'
+      locator: Release and track listing
+  performer:
+  - value: Qjwhj2t
+    references:
+    - source: music.apple.com-us-album-mehr-275174365
+      quote: Pouya Mahmoodi
+      accessed: '2026-11-21'
+      locator: Artist billing
+  - value: Qxmrceh
+    qualifiers:
+      role:
+      - drums
+    references:
+    - source: www.youtube.com-watch-v-ivwstqbl9wu
+      quote: Pouya Mahmoodi ft. Billy Cobham - Bamdad
+      accessed: '2026-11-21'
+      locator: Label upload title
+  listen link:
+  - value: https://music.apple.com/us/song/bamdad/275174424
+    references:
+    - source: music.apple.com-us-album-mehr-275174365
+      quote: https://music.apple.com/us/song/bamdad/275174424
+      accessed: '2026-11-21'
+      locator: Distributor permalink
+  - value: https://open.spotify.com/track/6XNHQ906Sul55cB3QfVDZI
+    references:
+    - source: open.spotify.com-embed-album-1vkhwhksoafdons5mhxmgt
+      quote: spotify:track:6XNHQ906Sul55cB3QfVDZI
+      accessed: '2026-11-21'
+      locator: Original Spotify tracklist
+  - value: https://soundcloud.com/pouyamahmoodi/bamdad
+    references:
+    - source: soundcloud.com-pouyamahmoodi-bamdad
+      quote: Stream Bamdad by Pouya Mahmoodi | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Named SoundCloud recording
+  - value: https://www.youtube.com/watch?v=ivwStqBl9WU
+    references:
+    - source: www.youtube.com-watch-v-ivwstqbl9wu
+      quote: Pouya Mahmoodi ft. Billy Cobham - Bamdad
+      accessed: '2026-11-21'
+      locator: Label upload title
+  release date:
+  - value:
+      date: '2008-02-19'
+    references:
+    - source: music.apple.com-us-album-mehr-275174365
+      quote: '2008-02-19'
+      accessed: '2026-11-21'
+      locator: Original issue date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music/31/05/9f/mzi.crkpqkxn.jpg/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Distributor artwork via Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-mehr-275174365
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music/31/05/9f/mzi.crkpqkxn.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Digital cover artwork

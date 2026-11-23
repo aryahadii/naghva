@@ -1,0 +1,47 @@
+id: Qghmea7
+type: release
+statements:
+  name:
+  - value:
+      text: Daf Performance | Zanyar Hesami
+      language: en
+    references:
+    - source: www.youtube.com-oembed-eh0mqrgjzry
+      quote: Daf Performance | Zanyar Hesami
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
+  performer:
+  - value: Qje5fct
+    references:
+    - source: www.youtube.com-watchv-eh0mqrgjzry
+      quote: A Daf performance by Zanyar Hesami.
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
+    qualifiers:
+      role: daf
+  release date:
+  - value:
+      date: '2018-04-10'
+    references:
+    - source: www.youtube.com-watchv-eh0mqrgjzry
+      quote: '2018-04-10'
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://i.ytimg.com/vi/eH0MQRgjzrY/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-eh0mqrgjzry
+      quote: https://i.ytimg.com/vi/eH0MQRgjzrY/hqdefault.jpg
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Zanyar Hesami · performance film
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=eH0MQRgjzrY
+    references:
+    - source: www.youtube.com-oembed-eh0mqrgjzry
+      quote: Daf Performance | Zanyar Hesami
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'

@@ -1,0 +1,57 @@
+id: Q9escjg
+type: release
+statements:
+  name:
+  - value:
+      text: Bakhtiari
+      language: en
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-bakhtiari
+      quote: Bakhtiari | By Kaveh Sarvarian | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qy69pg7
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-bakhtiari
+      quote: Bakhtiari | By Kaveh Sarvarian | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://kavehsarvarian.bandcamp.com/track/bakhtiari
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-bakhtiari
+      quote: Bakhtiari | By Kaveh Sarvarian | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/548566594
+    references:
+    - source: music.apple.com-us-song-548566594
+      quote: ‎Bakhtiari - Song with Lyrics by Kaveh Sarvarian - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/5cfCOzUz9J68MV3nsbMhHk
+    references:
+    - source: open.spotify.com-track-5cfcozuz9j68mv3nsbmhhk
+      quote: Bakhtiari - song and lyrics by Kaveh Sarvarian | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a0498665786_10.jpg
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-bakhtiari
+      quote: https://f4.bcbits.com/img/a0498665786_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Kaveh Sarvarian on Bandcamp
+        language: en
+  release date:
+  - value:
+      date: '2012-07-23'
+    references:
+    - source: music.apple.com-us-song-548566594
+      quote: July 23, 2012
+      accessed: '2026-11-21'
+      locator: Published date

@@ -1,0 +1,68 @@
+id: Qrrmw4g
+type: release
+statements:
+  name:
+  - value:
+      text: ZemZemeh
+      language: en
+    references:
+    - source: open.spotify.com-album-44wtdhfq2qfqekybwbwzwu
+      quote: ZemZemeh
+      accessed: '2026-11-21'
+      locator: Spotify track listing
+  performer:
+  - value: Q5rnjaz
+    qualifiers:
+      role: tombak
+    references:
+    - source: ecmrecords.com-product-siwan-nahnou-houm-jon-balke
+      quote: Pedram Khavar Zamini Tumbak
+      accessed: '2026-11-21'
+      locator: Original ECM personnel
+  - value: Qd36sav
+    references:
+    - source: music.apple.com-us-album-siwan-nahnou-houm-1442291803
+      quote: Jon Balke
+      accessed: '2026-11-21'
+      locator: Album headline billing
+  listen link:
+  - value: https://music.apple.com/us/song/zemzemeh/1442292572
+    references:
+    - source: music.apple.com-us-album-siwan-nahnou-houm-1442291803
+      quote: ZemZemeh
+      accessed: '2026-11-21'
+      locator: Apple Music track listing
+  - value: https://open.spotify.com/track/2MyeI5GB4YibTWSWLQ0Uug
+    references:
+    - source: open.spotify.com-album-44wtdhfq2qfqekybwbwzwu
+      quote: ZemZemeh
+      accessed: '2026-11-21'
+      locator: Spotify track listing
+  release date:
+  - value:
+      date: '2017-11-03'
+    references:
+    - source: music.apple.com-us-album-siwan-nahnou-houm-1442291803
+      quote: '2017-11-03'
+      accessed: '2026-11-21'
+      locator: Apple Music edition issue date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/a3/1d/2c/a31d2c7e-2642-cc74-1815-e7b106f6308e/00602557895643.rgb.jpg/1200x630bb.jpg
+    qualifiers:
+      credit:
+        text: Apple Music edition artwork
+        language: en
+    references:
+    - source: music.apple.com-us-album-siwan-nahnou-houm-1442291803
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/a3/1d/2c/a31d2c7e-2642-cc74-1815-e7b106f6308e/00602557895643.rgb.jpg/1200x630bb.jpg
+      accessed: '2026-11-21'
+      locator: Apple Music edition artwork
+  contributor:
+  - value: Q5rnjaz
+    qualifiers:
+      role: composer
+    references:
+    - source: ecmrecords.com-product-siwan-nahnou-houm-jon-balke
+      quote: (Pedram Khavar Zamini)02:09
+      accessed: '2026-11-21'
+      locator: Seventh composition, original ECM track listing

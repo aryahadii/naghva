@@ -1,0 +1,47 @@
+id: Qy3pqz7
+type: release
+statements:
+  name:
+  - value:
+      text: In the Midst
+      language: en
+    references:
+    - &id001
+      source: bitrotrecords.bandcamp.com-track-in-the-midst
+      quote: In the Midst | Umchunga | BITROT
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Q9rnctv
+    references:
+    - *id001
+  listen link:
+  - value: https://bitrotrecords.bandcamp.com/track/in-the-midst
+    references:
+    - source: bitrotrecords.bandcamp.com-track-in-the-midst
+      quote: In the Midst | Umchunga | BITROT
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a1612355686_10.jpg
+    references:
+    - source: bitrotrecords.bandcamp.com-track-in-the-midst
+      quote: https://f4.bcbits.com/img/a1612355686_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    - source: bitrotrecords.bandcamp.com-album-kollektive-1
+      quote: Artwork by Kino and Arash Akbari
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: Kino and Arash Akbari
+        language: en
+  release date:
+  - value:
+      date: '2015-12-13'
+    references:
+    - source: bitrotrecords.bandcamp.com-track-in-the-midst
+      quote: released December 13, 2015
+      accessed: '2026-11-21'
+      locator: Published date

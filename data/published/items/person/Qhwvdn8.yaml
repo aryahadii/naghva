@@ -1,0 +1,59 @@
+id: Qhwvdn8
+type: person
+statements:
+  name:
+  - value:
+      text: Azar Zargarian
+      language: en
+    references:
+    - source: shahrzad-ensemble-casaorig
+      quote: Maral Pouya, voice; Azar Zargarian, tar; Najmeh Saghir, barbat; Parissa Kashefi, kamanche; Naghmeh
+        Farahmand, tombak, daf, dayere
+      accessed: '2026-11-21'
+      locator: Performer or presenter archive
+  - value:
+      text: آذر زرگریان
+      language: fa
+    references:
+    - source: shahrzad-ensemble-iran
+      quote: گروه شهرزاد به سرپرستی آذر زرگریان
+      accessed: '2026-11-21'
+      locator: Performer or presenter archive
+  member of:
+  - value: Q4z6jy5
+    references:
+    - source: shahrzad-ensemble-casaorig
+      quote: Maral Pouya, voice; Azar Zargarian, tar; Najmeh Saghir, barbat; Parissa Kashefi, kamanche; Naghmeh
+        Farahmand, tombak, daf, dayere
+      accessed: '2026-11-21'
+      locator: Performer or presenter archive
+    qualifiers:
+      role: tar
+  - value: Qa69txt
+    references:
+    - source: casa-della-cultura-persia-mistica-2007
+      quote: Compositore e Direttore Artistico Azar Zargarian
+      accessed: '2026-11-21'
+      locator: Concert playbill or artist testimony
+    qualifiers:
+      role: tar
+  image:
+  - value: https://casadellaculturairaniana.com/upload/uploaddir/fotofc3d49bae34a09e472f03dcccac01567
+    references:
+    - source: ensemble-mehr-gallery19
+      quote: upload/uploaddir/fotofc3d49bae34a09e472f03dcccac01567
+      accessed: '2026-11-21'
+      locator: Original captioned concert photograph
+    qualifiers:
+      credit:
+        text: Casa della Cultura Iraniana, concert archive
+        language: en
+  birth date:
+  - value:
+      date: '1343'
+      calendar: jalali
+    references:
+    - source: www.honaronline.ir----5-57298
+      quote: آذر زرگریان متولد 1343 در تهران است.
+      accessed: 2026-11-21
+      locator: Birth year and city in the presenter’s biography

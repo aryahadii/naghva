@@ -1,0 +1,82 @@
+id: Qexyqq8
+type: release
+statements:
+  name:
+  - value:
+      text: Gham-e Yar
+      language: en
+    references:
+    - source: music.apple.com-us-album-gham-e-yar-single-1743245971
+      quote: Gham-e Yar
+      accessed: '2026-11-21'
+      locator: Edition title
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-gham-e-yar-single-1743245971
+      quote: Gham-e Yar
+      accessed: '2026-11-21'
+      locator: Edition title
+  release date:
+  - value:
+      date: '2024-04-24'
+    references:
+    - source: music.apple.com-us-album-gham-e-yar-single-1743245971
+      quote: '2024-04-24'
+      accessed: '2026-11-21'
+      locator: Digital edition date
+  performer:
+  - value: Qyrsg2f
+    references:
+    - source: music.apple.com-us-album-gham-e-yar-single-1743245971
+      quote: Kiyarash Davoudi
+      accessed: '2026-11-21'
+      locator: Digital album billing
+  - value: Qwq89ny
+    references:
+    - source: music.apple.com-us-album-gham-e-yar-single-1743245971
+      quote: Mansour Jomehzadeh
+      accessed: '2026-11-21'
+      locator: Digital album billing
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/04/72/80/04728008-c8e6-db93-c8be-080c1a8e3125/198391988288.jpg/1200x630bb.jpg
+    qualifiers:
+      credit:
+        text: Apple Music edition artwork
+        language: en
+    references:
+    - source: music.apple.com-us-album-gham-e-yar-single-1743245971
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/04/72/80/04728008-c8e6-db93-c8be-080c1a8e3125/198391988288.jpg/1200x630bb.jpg
+      accessed: '2026-11-21'
+      locator: Digital edition artwork
+  listen link:
+  - value: https://music.apple.com/us/album/gham-e-yar-single/1743245971
+    references:
+    - source: music.apple.com-us-album-gham-e-yar-single-1743245971
+      quote: Gham-e Yar
+      accessed: '2026-11-21'
+      locator: Edition title
+  - value: https://open.spotify.com/album/7L7Cd5CCNZjziMVtI0xNfT
+    references:
+    - source: open.spotify.com-album-7l7cd5ccnzjzimvti0xnft
+      quote: Gham-e Yar - Kiyarash Davoudi | Spotify
+      accessed: '2026-11-21'
+      locator: Original page heading
+  - value: https://music.apple.com/us/song/gham-e-yar/1743245983
+    references:
+    - source: music.apple.com-us-album-gham-e-yar-single-1743245971
+      quote: Gham-e Yar
+      accessed: '2026-11-21'
+      locator: Apple Music track 1
+  - value: https://open.spotify.com/track/1aCC4p81LhdxRf7Ri8Ykg6
+    references:
+    - source: open.spotify.com-album-7l7cd5ccnzjzimvti0xnft
+      quote: Gham-e Yar
+      accessed: '2026-11-21'
+      locator: Spotify track 1
+  - value: https://soundcloud.com/kiyarashdavoudi/gham-e-yar
+    references:
+    - source: soundcloud.com-kiyarashdavoudi-gham-e-yar
+      quote: Gham-e Yar
+      accessed: '2026-11-21'
+      locator: Artist SoundCloud recording title

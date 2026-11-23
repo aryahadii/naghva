@@ -1,0 +1,63 @@
+id: Qc6zjay
+type: release
+statements:
+  name:
+  - value:
+      text: In A Deep Slumber
+      language: en
+    references:
+    - source: cinnapey.bandcamp.com-track-in-a-deep-slumber
+      quote: In A Deep Slumber
+      accessed: '2026-11-21'
+      locator: Recording title or artist credit
+  performer:
+  - value: Q4q92dh
+    references:
+    - source: cinnapey.bandcamp.com-track-in-a-deep-slumber
+      quote: In A Deep Slumber | Cinna Peyghamy
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://cinnapey.bandcamp.com/track/in-a-deep-slumber
+    references:
+    - source: cinnapey.bandcamp.com-track-in-a-deep-slumber
+      quote: In A Deep Slumber | Cinna Peyghamy
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/in-a-deep-slumber/1732426859
+    references:
+    - source: music.apple.com-us-song-in-a-deep-slumber-1732426859
+      quote: ‎In a Deep Slumber - Song with Lyrics by Cinna Peyghamy - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/0IQNp8kJL4fFVH0QZ702YB
+    references:
+    - source: open.spotify.com-track-0iqnp8kjl4ffvh0qz702yb
+      quote: In a Deep Slumber - song and lyrics by Cinna Peyghamy | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/cikkun/05-cinna-peyghamy-in-a-deep
+    references:
+    - source: soundcloud.com-cikkun-05-cinna-peyghamy-in-a-deep
+      quote: Stream In A Deep Slumber by Cinna Peyghamy | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a0820108881_10.jpg
+    references:
+    - source: cinnapey.bandcamp.com-track-in-a-deep-slumber
+      quote: https://f4.bcbits.com/img/a0820108881_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Tongwei
+        language: en
+  release date:
+  - value:
+      date: '2023-11-15'
+    references:
+    - source: cinnapey.bandcamp.com-album-the-skin-in-between
+      quote: released November 15, 2023
+      accessed: '2026-11-21'
+      locator: Published date

@@ -1,0 +1,75 @@
+id: Qsc6e5z
+type: release
+statements:
+  name:
+  - value:
+      text: Trump
+      language: en
+    references:
+    - source: themast.bandcamp.com-album-wild-poppies
+      quote: Trump
+      accessed: 2026-11-21
+      locator: Track listing
+  performer:
+  - value: Qfwn5xw
+    references:
+    - source: themast.bandcamp.com-album-wild-poppies
+      quote: The Mast
+      accessed: 2026-11-21
+      locator: Release artist
+  - value: Qfvcggy
+    qualifiers:
+      role: vocals
+    references:
+    - source: themast.bandcamp.com-album-wild-poppies
+      quote: Haale - vocals and electric guitar
+      accessed: 2026-11-21
+      locator: Group personnel
+  - value: Qa9qz8f
+    qualifiers:
+      role: drums
+    references:
+    - source: themast.bandcamp.com-album-wild-poppies
+      quote: Matt Kilmer - frame drums, djembe, bass drum, floor tom, cymbals
+      accessed: 2026-11-21
+      locator: Group personnel
+  release date:
+  - value:
+      date: '2011-06-21'
+    references:
+    - source: themast.bandcamp.com-album-wild-poppies
+      quote: released June 21, 2011
+      accessed: 2026-11-21
+      locator: Release date
+  cover art:
+  - value: https://f4.bcbits.com/img/a0701737205_2.jpg
+    references:
+    - source: themast.bandcamp.com-album-wild-poppies
+      quote: Wild Poppies
+      accessed: 2026-11-21
+      locator: Release heading
+  listen link:
+  - value: https://themast.bandcamp.com/track/trump
+    references:
+    - source: themast.bandcamp.com-album-wild-poppies
+      quote: Trump
+      accessed: 2026-11-21
+      locator: Track listing
+  - value: https://open.spotify.com/track/6r7QSRM0tOKhelBsRNtFMB
+    references:
+    - source: open.spotify.com-album-1fszue8hhtpb6x5ydilyib
+      quote: Trump
+      accessed: 2026-11-21
+      locator: Track 2
+  - value: https://music.apple.com/us/song/trump/438328569
+    references:
+    - source: music.apple.com-us-album-wild-poppies-438328557
+      quote: Trump
+      accessed: 2026-11-21
+      locator: Track 2
+  - value: https://www.youtube.com/watch?v=36TT34Qq_Qo
+    references:
+    - source: youtu.be-36tt34qq_qo
+      quote: The Mast - Trump/Occupy
+      accessed: 2026-11-21
+      locator: Publisher video title

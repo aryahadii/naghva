@@ -1,0 +1,56 @@
+id: Qm2k5dm
+type: release
+statements:
+  name:
+  - value:
+      text: Glaisvair
+      language: en
+    references:
+    - source: music.apple.com-us-album-glaisvair-1889034392uo-4
+      quote: Glaisvair
+      locator: Original programme, liner notes or performer credit
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2026-05-08'
+    references:
+    - source: music.apple.com-us-album-glaisvair-1889034392uo-4
+      quote: '2026-05-08'
+      locator: Original programme, liner notes or performer credit
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d9/93/05/d99305e6-b6fd-ad7e-e5c9-cc1de50e645c/820200166388.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-glaisvair-1889034392uo-4
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d9/93/05/d99305e6-b6fd-ad7e-e5c9-cc1de50e645c/820200166388.jpg/1200x630bb.jpg
+      locator: Original programme, liner notes or performer credit
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://music.apple.com/us/album/glaisvair/1889034392
+    references:
+    - source: music.apple.com-us-album-glaisvair-1889034392uo-4
+      quote: Glaisvair
+      locator: Original programme, liner notes or performer credit
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/album/4Qj3varSevu23P9BfffWQM
+    references:
+    - source: open.spotify.com-embed-album-4qj3varsevu23p9bfffwqm
+      quote: spotify:album:4Qj3varSevu23P9BfffWQM
+      locator: Original programme, liner notes or performer credit
+      accessed: '2026-11-21'
+  performer:
+  - value: Qp75qps
+    references:
+    - source: bedepatterson.com
+      quote: Featuring Vahideh Eisaei qanun
+      locator: Original programme, liner notes or performer credit
+      accessed: '2026-11-21'
+    qualifiers:
+      role: qanun
+  release type:
+  - value: album
+    references:
+    - source: music.apple.com-us-album-glaisvair-1889034392uo-4
+      quote: Glaisvair
+      locator: Original programme, liner notes or performer credit
+      accessed: '2026-11-21'

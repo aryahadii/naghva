@@ -1,0 +1,53 @@
+id: Qzr2edb
+type: release
+statements:
+  name:
+  - value:
+      text: Santur & Bass again! 😎🎸
+      language: en
+    references:
+    - source: www.youtube.com-oembed-stz5_vy4nxe
+      quote: Santur & Bass again! 😎🎸
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2026-08-30'
+    references:
+    - source: www.youtube.com-watchv-stz5_vy4nxe
+      quote: '2026-08-30'
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://i.ytimg.com/vi/stz5_VY4nxE/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-stz5_vy4nxe
+      quote: https://i.ytimg.com/vi/stz5_VY4nxE/hqdefault.jpg
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Soheil Hosnavi · original performance
+        language: en
+  performer:
+  - value: Q76q9jz
+    references:
+    - source: www.youtube.com-oembed-stz5_vy4nxe
+      quote: Soheil Hosnavi
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: santur
+  listen link:
+  - value: https://www.youtube.com/watch?v=stz5_VY4nxE
+    references:
+    - source: www.youtube.com-oembed-stz5_vy4nxe
+      quote: Santur & Bass again! 😎🎸
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  - value: https://t.me/soheilhosnavi/1156
+    references:
+    - source: t.me-soheilhosnavi-1156
+      quote: Virtual duet with artist friend
+      locator: Artist channel, original post 1156
+      accessed: '2026-11-21'

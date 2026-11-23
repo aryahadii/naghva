@@ -1,0 +1,69 @@
+id: Qdmx3st
+type: release
+statements:
+  name:
+  - value:
+      text: The Exalted One Who Walketh
+      language: en
+    references:
+    - source: lowen.bandcamp.com-album-unceasing-lamentations
+      quote: The Exalted One Who Walketh
+      accessed: 2026-11-21
+      locator: Track sequence
+  performer:
+  - value: Qr7sft5
+    references:
+    - source: lowen.bandcamp.com-album-unceasing-lamentations
+      quote: Lowen
+      accessed: 2026-11-21
+      locator: Artist credit
+  - value: Qnsexjj
+    qualifiers:
+      role:
+      - vocals
+    references:
+    - source: youtu.be-si1msbvivbe
+      quote: This is an arrangement of transliterated cuneiform lines from the 'Third Tablet of the Series “The
+        Exalted One Who Walketh” (e-lum didara) (No. 13) and is sung in Sumerian by Nina Saeidi of the band Lowen.
+      accessed: 2026-11-21
+      locator: Performer in the original film
+  release date:
+  - value:
+      date: '2021-06-04'
+    references:
+    - source: lowen.bandcamp.com-album-unceasing-lamentations
+      quote: released June 4, 2021
+      accessed: 2026-11-21
+      locator: Release details
+  cover art:
+  - value: https://f4.bcbits.com/img/a0572754247_10.jpg
+    references:
+    - source: lowen.bandcamp.com-album-unceasing-lamentations
+      quote: https://f4.bcbits.com/img/a0572754247_10.jpg
+      accessed: 2026-11-21
+      locator: Release artwork
+  listen link:
+  - value: https://lowen.bandcamp.com/track/the-exalted-one-who-walketh
+    references:
+    - source: lowen.bandcamp.com-album-unceasing-lamentations
+      quote: The Exalted One Who Walketh
+      accessed: 2026-11-21
+      locator: Track sequence
+  - value: https://music.apple.com/us/song/the-exalted-one-who-walketh/1562173051
+    references:
+    - source: music.apple.com-us-album-unceasing-lamentations-ep-1562173050
+      quote: The Exalted One Who Walketh
+      accessed: 2026-11-21
+      locator: Apple edition or track
+  - value: https://open.spotify.com/track/5P087f6VeSHM6Mr3vOOVUC
+    references:
+    - source: open.spotify.com-album-6dx9aj24qasdt6x4lvtq6u
+      quote: The Exalted One Who Walketh
+      accessed: 2026-11-21
+      locator: Track sequence
+  - value: https://www.youtube.com/watch?v=Si1MsBvIvbE
+    references:
+    - source: youtu.be-si1msbvivbe
+      quote: Lowen - The Exalted One Who Walketh (Official Music Video)
+      accessed: 2026-11-21
+      locator: Artist channel title

@@ -1,0 +1,51 @@
+id: Qfvb9kk
+type: release
+statements:
+  name:
+  - value:
+      text: Aïka ensemble-Man agar barkhizam
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-eytvszw-ong
+      quote: Aïka ensemble-Man agar barkhizam
+      accessed: '2026-11-21'
+      locator: Performer or distributor original video
+  performer:
+  - value: Qpwmdfk
+    references:
+    - *id001
+  - value: Qpav8br
+    qualifiers:
+      role: vocals
+    references:
+    - &id002
+      source: www.youtube.com-watch-v-eytvszw-ong
+      quote: 'Hura Mirshekari : chant / Babak Amir Mobasher : guitare / Elia Chalom : trompette / Mehdi Yar Mohammadi : vidéo'
+      accessed: '2026-11-21'
+      locator: Trumpeter’s performance description and credits
+  - value: Qp74mve
+    qualifiers:
+      role: guitar
+    references:
+    - *id002
+  - value: Qcdebe5
+    qualifiers:
+      role: trumpet
+    references:
+    - *id002
+  listen link:
+  - value: https://www.youtube.com/watch?v=eYtvSZW-ONg
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/eYtvSZW-ONg/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-eytvszw-ong
+      quote: https://i.ytimg.com/vi/eYtvSZW-ONg/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video artwork
+    qualifiers:
+      credit:
+        text: Elia Chalom
+        language: en

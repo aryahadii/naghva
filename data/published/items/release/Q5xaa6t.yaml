@@ -1,0 +1,81 @@
+id: Q5xaa6t
+type: release
+statements:
+  name:
+  - value:
+      text: Āshofte āhang Intro
+      language: en
+    references:
+    - source: linkmusiclab.bandcamp.com-track-a-shofte-a-hang-intro
+      quote: Āshofte āhang Intro | Neda Mohamadpour, Mehdi Rostami, Isa Farah, Dhaivat Jani | Link Music Lab Records
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qbb46yz
+    references:
+    - source: linkmusiclab.bandcamp.com-album-where-the-rain-is-stored-experimental-link-009
+      quote: Neda Mohamadpour - vocals
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Qbvyfsg
+    references:
+    - source: linkmusiclab.bandcamp.com-album-where-the-rain-is-stored-experimental-link-009
+      quote: Mehdi Rostami
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: setar
+  - value: Qr4c34x
+    references:
+    - source: linkmusiclab.bandcamp.com-album-where-the-rain-is-stored-experimental-link-009
+      quote: Isa Farah
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: cello
+  - value: Q7a9kjg
+    references:
+    - source: linkmusiclab.bandcamp.com-album-where-the-rain-is-stored-experimental-link-009
+      quote: Dhaivat Jani
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: percussion
+  release date:
+  - value:
+      date: '2025-09-29'
+    references:
+    - source: linkmusiclab.bandcamp.com-album-where-the-rain-is-stored-experimental-link-009
+      quote: released September 29, 2025
+      accessed: '2026-11-21'
+      locator: Published date
+  listen link:
+  - value: https://linkmusiclab.bandcamp.com/track/a-shofte-a-hang-intro
+    references:
+    - source: linkmusiclab.bandcamp.com-track-a-shofte-a-hang-intro
+      quote: Āshofte āhang Intro | Neda Mohamadpour, Mehdi Rostami, Isa Farah, Dhaivat Jani | Link Music Lab Records
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/a-shofte-a-hang-intro/1843269757
+    references:
+    - source: music.apple.com-us-song-a-shofte-a-hang-intro-1843269757
+      quote: ‎Āshofte Āhang Intro - Song with Lyrics by Neda Mohamadpour, Mehdi Rostami, Isa Farah & Dhaivat Jani - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/7D4QYdJ7KbIGaLdI0ZXSgO
+    references:
+    - source: open.spotify.com-track-7d4qydj7kbigaldi0zxsgo
+      quote: Āshofte Āhang Intro - song and lyrics by Neda Mohamadpour, Mehdi Rostami, Isa Farah, Dhaivat Jani | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a3780940417_10.jpg
+    references:
+    - source: linkmusiclab.bandcamp.com-track-a-shofte-a-hang-intro
+      quote: https://f4.bcbits.com/img/a3780940417_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Link Music Lab Records
+        language: en

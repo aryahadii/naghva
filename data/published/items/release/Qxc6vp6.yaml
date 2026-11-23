@@ -1,0 +1,51 @@
+id: Qxc6vp6
+type: release
+statements:
+  name:
+  - value:
+      text: Impostor
+      language: en
+    references:
+    - source: music.apple.com-us-song-1487984859
+      quote: ‎Impostor - Song with Lyrics by Meshcut & Nikky - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qh6s4f5
+    references:
+    - source: music.apple.com-us-song-1487984859
+      quote: ‎Impostor - Song with Lyrics by Meshcut & Nikky - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://music.apple.com/us/song/1487984859
+    references:
+    - source: music.apple.com-us-song-1487984859
+      quote: ‎Impostor - Song with Lyrics by Meshcut & Nikky - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/meshcut/impostor
+    references:
+    - source: soundcloud.com-meshcut-impostor
+      quote: Stream Meshcut Feat. Niki Yaghmaee - Impostor by Meshcut | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/53/a9/3c/53a93c29-5206-60b1-8bc5-e4701e5ee87e/5059366905691_cover.jpg/600x600bb.webp
+    references:
+    - source: music.apple.com-us-song-1487984859
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/53/a9/3c/53a93c29-5206-60b1-8bc5-e4701e5ee87e/5059366905691_cover.jpg/600x600bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original recording artwork
+        language: en
+  release date:
+  - value:
+      date: '2019-11-10'
+    references:
+    - source: music.apple.com-us-song-1487984859
+      quote: November 10, 2019
+      accessed: '2026-11-21'
+      locator: Published date

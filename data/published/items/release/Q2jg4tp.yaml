@@ -1,0 +1,63 @@
+id: Q2jg4tp
+type: release
+statements:
+  name:
+  - value:
+      text: The Dream and Fog
+      language: en
+    references:
+    - source: music.apple.com-us-song-916829013
+      quote: ‎The Dream and Fog - Song with Lyrics by Soheil Peyghambari - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Q3waxf2
+    references:
+    - source: music.apple.com-us-song-916829013
+      quote: ‎The Dream and Fog - Song with Lyrics by Soheil Peyghambari - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://music.apple.com/us/song/916829013
+    references:
+    - source: music.apple.com-us-song-916829013
+      quote: ‎The Dream and Fog - Song with Lyrics by Soheil Peyghambari - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/intimate-sentiments/the-dream-and-fog-soheil-peyghambari
+    references:
+    - source: soundcloud.com-intimate-sentiments-the-dream-and-fog-soheil-peyghambari
+      quote: Stream The Dream And Fog | soheil peyghambari by Intimate-Sentiments | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/4vV61Pc0OKEr9HGQ6srKpI
+    references:
+    - source: open.spotify.com-track-4vv61pc0oker9hgq6srkpi
+      quote: The Dream and Fog - song and lyrics by Soheil Peyghambari | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://www.youtube.com/watch?v=aV2qS-8kWL4
+    references:
+    - source: www.youtube.com-watch-v-av2qs-8kwl4
+      quote: The Dream and Fog
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/9c/bc/95/9cbc95a1-e2bd-6bbf-aba7-24a188aedf9b/889211010363.jpg/600x600bb.webp
+    references:
+    - source: music.apple.com-us-song-916829013
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/9c/bc/95/9cbc95a1-e2bd-6bbf-aba7-24a188aedf9b/889211010363.jpg/600x600bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Soheil Peyghambari on Apple Music
+        language: en
+  release date:
+  - value:
+      date: '2014-08-05'
+    references:
+    - source: music.apple.com-us-song-916829013
+      quote: August 5, 2014
+      accessed: '2026-11-21'
+      locator: Published date

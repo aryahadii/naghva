@@ -1,0 +1,63 @@
+id: Q5ez6yr
+type: release
+statements:
+  name:
+  - value:
+      text: Blow (feat. OUI FUTURE)
+      language: en
+    references:
+    - source: music.apple.com-us-song-1818869469
+      quote: ‎Blow (feat. OUI FUTURE) - Song with Lyrics by Teheran 69 & Meshcut - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qh6s4f5
+    references:
+    - source: music.apple.com-us-song-1818869469
+      quote: ‎Blow (feat. OUI FUTURE) - Song with Lyrics by Teheran 69 & Meshcut - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qty3v6m
+    references:
+    - source: open.spotify.com-track-0crbwtm6zsd99u0vfidayi
+      quote: Teheran 69
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Qdfencm
+    references:
+    - source: open.spotify.com-track-0crbwtm6zsd99u0vfidayi
+      quote: OUI FUTURE
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://music.apple.com/us/song/1818869469
+    references:
+    - source: music.apple.com-us-song-1818869469
+      quote: ‎Blow (feat. OUI FUTURE) - Song with Lyrics by Teheran 69 & Meshcut - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/0crbwtm6ZSD99u0VFidAyI
+    references:
+    - source: open.spotify.com-track-0crbwtm6zsd99u0vfidayi
+      quote: Blow - song and lyrics by Teheran 69, Meshcut, OUI FUTURE | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3d/b3/94/3db3940a-21a9-c994-1a53-1cf36b21ca35/990591526181.png/600x600bb.webp
+    references:
+    - source: music.apple.com-us-song-1818869469
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3d/b3/94/3db3940a-21a9-c994-1a53-1cf36b21ca35/990591526181.png/600x600bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original recording artwork
+        language: en
+  release date:
+  - value:
+      date: '2025-06-05'
+    references:
+    - source: music.apple.com-us-song-1818869469
+      quote: June 5, 2025
+      accessed: '2026-11-21'
+      locator: Published date

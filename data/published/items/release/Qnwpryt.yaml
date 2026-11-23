@@ -1,0 +1,53 @@
+id: Qnwpryt
+type: release
+statements:
+  name:
+  - value:
+      text: Eishan Ensemble (Live @ Bird's Basement, 2024)
+      language: en
+    references:
+    - source: www.youtube.com-watch-v-eyp9d1j-qhm
+      quote: Eishan Ensemble (Live @ Bird's Basement, 2024)
+      accessed: '2026-11-21'
+      locator: Video title
+  performer:
+  - value: Qhebfsp
+    references:
+    - source: www.youtube.com-watch-v-eyp9d1j-qhm
+      quote: Eishan
+      accessed: '2026-11-21'
+      locator: Title or published description
+  listen link:
+  - value: https://www.youtube.com/watch?v=eYp9d1J-QhM
+    references:
+    - source: www.youtube.com-watch-v-eyp9d1j-qhm
+      quote: Eishan Ensemble (Live @ Bird's Basement, 2024)
+      accessed: '2026-11-21'
+      locator: Video title
+    - source: www.youtube.com-watch-v-eyp9d1j-qhm
+      quote: Bird's Basement
+      accessed: '2026-11-21'
+      locator: Publishing channel
+  release date:
+  - value:
+      date: '2024-08-17'
+    references:
+    - source: www.youtube.com-watch-v-eyp9d1j-qhm
+      quote: '2024-08-17T16:37:53-07:00'
+      accessed: '2026-11-21'
+      locator: Upload date
+  cover art:
+  - value: https://i.ytimg.com/vi/eYp9d1J-QhM/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gEyhKMA8=&rs=AOn4CLCu89y8HuBaPfnvg6HVTufW6jcViw
+    qualifiers:
+      credit:
+        text: Bird's Basement on YouTube
+        language: en
+    references:
+    - source: www.youtube.com-watch-v-eyp9d1j-qhm
+      quote: https://i.ytimg.com/vi/eYp9d1J-QhM/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gEyhKMA8=&rs=AOn4CLCu89y8HuBaPfnvg6HVTufW6jcViw
+      accessed: '2026-11-21'
+      locator: Original video thumbnail
+    - source: www.youtube.com-watch-v-eyp9d1j-qhm
+      quote: Bird's Basement
+      accessed: '2026-11-21'
+      locator: Publishing channel

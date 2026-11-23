@@ -1,0 +1,63 @@
+id: Qy2enmr
+type: release
+statements:
+  name:
+  - value:
+      text: Pascal
+      language: en
+    references:
+    - source: kopirecs.bandcamp.com-track-pascal
+      quote: Pascal | ArtSaves | Kopi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qw9zs9g
+    references:
+    - source: kopirecs.bandcamp.com-album-bore
+      quote: ArtSaves
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://kopirecs.bandcamp.com/track/pascal
+    references:
+    - source: kopirecs.bandcamp.com-track-pascal
+      quote: Pascal | ArtSaves | Kopi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1493797186
+    references:
+    - source: music.apple.com-us-song-1493797186
+      quote: ‎Pascal - Song with Lyrics by ArtSaves - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/7h6bGINMJq9sLmte8d0eFn
+    references:
+    - source: open.spotify.com-track-7h6bginmjq9slmte8d0efn
+      quote: Pascal - song and lyrics by ArtSaves | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/artsvs/persian-scale
+    references:
+    - source: soundcloud.com-artsvs-persian-scale
+      quote: Stream Pascal by ArtSaves | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a1603755952_10.jpg
+    references:
+    - source: kopirecs.bandcamp.com-track-pascal
+      quote: https://f4.bcbits.com/img/a1603755952_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original publisher artwork
+        language: en
+  release date:
+  - value:
+      date: '2020-01-03'
+    references:
+    - source: kopirecs.bandcamp.com-track-pascal
+      quote: released January 3, 2020
+      accessed: '2026-11-21'
+      locator: Published date

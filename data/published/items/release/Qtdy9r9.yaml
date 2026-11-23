@@ -1,0 +1,36 @@
+id: Qtdy9r9
+type: release
+statements:
+  name:
+  - value:
+      text: For Freedom III
+      language: en
+    references:
+    - source: open.spotify.com-album-1noovgnnafeiryhdsmglnj
+      quote: For Freedom III
+      accessed: 2026-11-21
+      locator: Track heading
+  listen link:
+  - value: https://open.spotify.com/track/3SxjbnJHWeyJkzIGooKFt0
+    references:
+    - source: open.spotify.com-album-1noovgnnafeiryhdsmglnj
+      quote: /kry
+      accessed: 2026-11-21
+      locator: Track billing
+  performer:
+  - value: Q349g6b
+    references:
+    - source: open.spotify.com-album-1noovgnnafeiryhdsmglnj
+      quote: /kry
+      accessed: 2026-11-21
+      locator: Track billing
+  - value: Qyy9hf9
+    qualifiers:
+      role:
+      - clarinet
+      - electronics
+    references:
+    - source: www.freifeldtontraeger.com-kry
+      quote: Mona Matbou Riahi - Clarinet/fx
+      accessed: 2026-11-21
+      locator: Trio personnel

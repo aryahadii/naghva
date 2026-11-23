@@ -1,0 +1,53 @@
+id: Q6khcyj
+type: release
+statements:
+  name:
+  - value:
+      text: Improvise Esfahan
+      language: en
+    references:
+    - source: music.apple.com-us-album-do-not-stay-alone-1619009699
+      quote: Improvise Esfahan
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  performer:
+  - value: Q76q9jz
+    references:
+    - source: music.apple.com-us-album-do-not-stay-alone-1619009699
+      quote: Soheil Hosnavi
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: santur
+  release date:
+  - value:
+      date: '2022-02-18'
+    references:
+    - source: music.apple.com-us-album-do-not-stay-alone-1619009699
+      quote: '2022-02-18'
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/4d/2e/c2/4d2ec20b-4615-2e57-1cc5-496d8866a37b/198003429413.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-do-not-stay-alone-1619009699
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/4d/2e/c2/4d2ec20b-4615-2e57-1cc5-496d8866a37b/198003429413.jpg/1200x630bb.jpg
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Do Not Stay Alone
+        language: en
+  listen link:
+  - value: https://music.apple.com/us/song/improvise-esfahan/1619009701
+    references:
+    - source: music.apple.com-us-album-do-not-stay-alone-1619009699
+      quote: Improvise Esfahan
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/1Mb1cDYwoRBKsu26gURTk3
+    references:
+    - source: open.spotify.com-embed-album-0pvsajjptffqg6fprrfrcx
+      quote: Improvise Esfahan
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'

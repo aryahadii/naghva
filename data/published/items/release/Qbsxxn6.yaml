@@ -1,0 +1,21 @@
+id: Qbsxxn6
+type: release
+statements:
+  name:
+  - value:
+      text: چند دقیقه با سعید شنبه‌زاده و نی‌انبانش
+      language: en
+    references:
+    - &id001
+      source: t.me-saeidshanbehzadeh-582
+      quote: چند دقيقه با  سعيد شنبه زاده و ني انبونش.
+      accessed: '2026-11-21'
+      locator: Artist’s caption to recording
+  performer:
+  - value: Qyd93n9
+    references:
+    - *id001
+  listen link:
+  - value: https://t.me/saeidshanbehzadeh/582
+    references:
+    - *id001

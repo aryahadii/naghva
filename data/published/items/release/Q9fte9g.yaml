@@ -1,0 +1,32 @@
+id: Q9fte9g
+type: release
+statements:
+  name:
+  - value:
+      text: Naghib Shanbehzadeh - Zarbo Tempo Darbuka
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-8zhe04l1e5c
+      quote: Naghib Shanbehzadeh - Zarbo Tempo Darbuka
+      accessed: '2026-11-21'
+      locator: Artist-published performance film
+  performer:
+  - value: Qvhrrm8
+    references:
+    - *id001
+  listen link:
+  - value: https://www.youtube.com/watch?v=8zHe04L1E5c
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/8zHe04L1E5c/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-8zhe04l1e5c
+      quote: https://i.ytimg.com/vi/8zHe04L1E5c/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original film frame
+    qualifiers:
+      credit:
+        text: naghib shanbehzadeh
+        language: en

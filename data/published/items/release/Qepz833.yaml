@@ -1,0 +1,32 @@
+id: Qepz833
+type: release
+statements:
+  name:
+  - value:
+      text: 'Shahr Ashub Mahur I رنگ شهرآشوب ماهور '
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-zkmhtxuk5qk
+      quote: 'Shahr Ashub Mahur I رنگ شهرآشوب ماهور '
+      accessed: '2026-11-21'
+      locator: Music credited by musician or performance publisher
+  performer:
+  - value: Qqb9bnx
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/ZkmhtxUK5qk/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-zkmhtxuk5qk
+      quote: https://i.ytimg.com/vi/ZkmhtxUK5qk/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video frame
+    qualifiers:
+      credit:
+        text: Mehdi Moshtagh
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=ZkmhtxUK5qk
+    references:
+    - *id001

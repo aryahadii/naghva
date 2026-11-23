@@ -1,0 +1,30 @@
+id: Q8v6j5h
+type: act
+statements:
+  name:
+  - value:
+      text: Salvaation
+      language: en
+    references:
+    - source: www.kaltblut-magazine.com-salvaation-unleashes-a-dark-wave-experience-with-loop-music-video-and-debut-ep-release
+      quote: Salvaation
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  profile link:
+  - value: https://open.spotify.com/artist/4421xgyJF6o6ZWqyUYl0k1
+    references:
+    - source: open.spotify.com-artist-4421xgyjf6o6zwqyuyl0k1
+      quote: Listen to SALVAATION Songs | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  image:
+  - value: https://i.scdn.co/image/ab6761610000e5eb18a33a91e04acb31448a3568
+    references:
+    - source: open.spotify.com-artist-4421xgyjf6o6zwqyuyl0k1
+      quote: https://i.scdn.co/image/ab6761610000e5eb18a33a91e04acb31448a3568
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: Salvaation, via Spotify
+        language: en

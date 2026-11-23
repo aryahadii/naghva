@@ -7,6 +7,31 @@ statements:
       language: en
     references:
     - source: www.kkv.no-en-music-vaya-vaya-3
-      quote: |-
-        the arrangement was written by Atabak Elyasi.
+      quote: the arrangement was written by Atabak Elyasi.
       accessed: '2026-11-13'
+  - value:
+      text: اتابک الیاسی
+      language: fa
+    references:
+    - source: zamaaneh.com-news-2009-02-print_post_7954.html
+      quote: اتابک الیاسی نوازنده سه تار و پاشا هنجنی نوازنده نی
+      accessed: 2026-11-21
+      locator: Original contemporary concert announcement
+  image:
+  - value: https://i.scdn.co/image/ab6761610000e5eb62200deecbdd99eef0afe336
+    qualifiers:
+      credit:
+        text: Atabak Elyasi artist profile, Spotify
+        language: en
+    references:
+    - source: open.spotify.com-artist-5qzehpclaixdkgy8mvmylx
+      quote: https://i.scdn.co/image/ab6761610000e5eb62200deecbdd99eef0afe336
+      accessed: 2026-11-21
+      locator: Artist’s portrait
+  profile link:
+  - value: https://open.spotify.com/artist/5QzehpclAiXdKgy8MvMYLX
+    references:
+    - source: open.spotify.com-artist-5qzehpclaixdkgy8mvmylx
+      quote: Atabak Elyasi
+      accessed: 2026-11-21
+      locator: Artist profile

@@ -1,0 +1,17 @@
+id: Qy8p5ye
+type: release
+statements:
+  name:
+  - value:
+      text: Reng-e Nava I (Auditorio Blas Galindo)
+      language: en
+    references:
+    - &id001
+      source: videoteca.cenart.gob.mx-canal-23-255759-2
+      quote: 11 00.44:10.021 --> 00.49:08.027 Reng-e Nava
+      accessed: '2026-11-21'
+      locator: Canal 23 broadcast cue 11
+  performer:
+  - value: Qcabd29
+    references:
+    - *id001

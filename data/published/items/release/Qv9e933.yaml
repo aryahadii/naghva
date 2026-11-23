@@ -1,0 +1,52 @@
+id: Qv9e933
+type: release
+statements:
+  name:
+  - value:
+      text: Noxious Jaaam
+      language: en
+    references:
+    - source: temp-illusion.bandcamp.com-track-noxious-jaaam
+      quote: Noxious Jaaam
+      accessed: '2026-11-21'
+      locator: Release heading
+  performer:
+  - value: Q8tq6bc
+    references:
+    - source: temp-illusion.bandcamp.com-track-noxious-jaaam
+      quote: Noxious Jaaam | Temp-Illusion
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2024-12-06'
+    references:
+    - source: temp-illusion.bandcamp.com-track-noxious-jaaam
+      quote: released December 6, 2024
+      accessed: '2026-11-21'
+      locator: Release credits
+  listen link:
+  - value: https://temp-illusion.bandcamp.com/track/noxious-jaaam
+    references:
+    - source: temp-illusion.bandcamp.com-track-noxious-jaaam
+      quote: Noxious Jaaam | Temp-Illusion
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a2917528604_10.jpg
+    references:
+    - source: temp-illusion.bandcamp.com-track-noxious-jaaam
+      quote: https://f4.bcbits.com/img/a2917528604_10.jpg
+      accessed: '2026-11-21'
+      locator: Full cover image linked from release page
+    qualifiers:
+      credit:
+        text: Temp-Illusion on Bandcamp
+        language: en
+  published by:
+  - value: Q27e3kb
+    references:
+    - source: temp-illusion.bandcamp.com-track-noxious-jaaam
+      quote: 'Released on EVEL Records:'
+      accessed: '2026-11-21'
+      locator: Release credits

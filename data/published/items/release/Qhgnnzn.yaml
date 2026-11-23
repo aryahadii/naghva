@@ -1,0 +1,17 @@
+id: Qhgnnzn
+type: release
+statements:
+  name:
+  - value:
+      text: قافله‌ی بی‌قرار شب
+      language: fa
+    references:
+    - &id001
+      source: siamak-jahangiri-badraghe
+      quote: قافله‌ی بی‌قرار شب
+      accessed: '2026-11-21'
+      locator: Iranian physical issue tracklist
+  performer:
+  - value: Qnz4xnz
+    references:
+    - *id001

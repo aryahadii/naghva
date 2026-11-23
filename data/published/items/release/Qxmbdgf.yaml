@@ -1,0 +1,63 @@
+id: Qxmbdgf
+type: release
+statements:
+  name:
+  - value:
+      text: We Need to Talk
+      language: en
+    references:
+    - source: music.apple.com-us-album-it-takes-time-ep-1035662555
+      quote: We Need to Talk
+      accessed: '2026-11-21'
+      locator: Apple track
+  performer:
+  - value: Qmdmc89
+    references:
+    - source: music.apple.com-us-album-it-takes-time-ep-1035662555
+      quote: We Need to Talk
+      accessed: '2026-11-21'
+      locator: Apple track
+  cover art:
+  - value: https://f4.bcbits.com/img/a3206007910_10.jpg
+    qualifiers:
+      credit:
+        text: Casualty Process on Bandcamp
+        language: en
+    references:
+    - source: casualtyprocess.bandcamp.com-album-it-takes-time
+      quote: https://f4.bcbits.com/img/a3206007910_10.jpg
+      accessed: '2026-11-21'
+      locator: Native art of this edition
+  release date:
+  - value:
+      date: '2015-08-26'
+    references:
+    - source: casualtyprocess.bandcamp.com-album-it-takes-time
+      quote: released August 26, 2015
+      accessed: '2026-11-21'
+      locator: Original issue
+  listen link:
+  - value: https://casualtyprocess.bandcamp.com/track/we-need-to-talk
+    references:
+    - source: casualtyprocess.bandcamp.com-track-we-need-to-talk
+      quote: We Need To Talk | Casualty Process
+      accessed: '2026-11-21'
+      locator: Original page heading
+  - value: https://music.apple.com/us/song/we-need-to-talk/1035662695
+    references:
+    - source: music.apple.com-us-album-it-takes-time-ep-1035662555
+      quote: We Need to Talk
+      accessed: '2026-11-21'
+      locator: Apple track
+  - value: https://soundcloud.com/casualtyprocess/01-we-need-to-talk-1
+    references:
+    - source: soundcloud.com-casualtyprocess-01-we-need-to-talk-1
+      quote: 01 We Need To Talk
+      accessed: '2026-11-21'
+      locator: Artist SoundCloud upload
+  - value: https://soundcloud.com/casualtyprocess/01-we-need-to-talk
+    references:
+    - source: soundcloud.com-casualtyprocess-01-we-need-to-talk
+      quote: 01 We Need To Talk
+      accessed: '2026-11-21'
+      locator: Artist SoundCloud upload

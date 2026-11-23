@@ -1,0 +1,51 @@
+id: Qzeqray
+type: release
+statements:
+  name:
+  - value:
+      text: Vague (Demo)
+      language: en
+    references:
+    - source: soundcloud.com-photomatband-vague-demo
+      quote: Stream Vague (Demo) by photomatband | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qn4gh3f
+    references:
+    - source: soundcloud.com-photomatband-vague-demo
+      quote: Stream Vague (Demo) by photomatband | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qjjdrek
+    references:
+    - source: about.me-hesam.ohadi
+      quote: member of the Post-Rock/ Electronic band Photomat
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Q9rnctv
+    references:
+    - source: unexplainedsoundsgroup.bandcamp.com-track-umchunga-turbulence-i
+      quote: one of two vocalists in the electronic/post-rock band Photomat
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: vocals
+  listen link:
+  - value: https://soundcloud.com/photomatband/vague-demo
+    references:
+    - source: soundcloud.com-photomatband-vague-demo
+      quote: Stream Vague (Demo) by photomatband | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-000025292401-yw6q8m-t500x500.jpg
+    references:
+    - source: soundcloud.com-photomatband-vague-demo
+      quote: https://i1.sndcdn.com/artworks-000025292401-yw6q8m-t500x500.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original publisher artwork
+        language: en

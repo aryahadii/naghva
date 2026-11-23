@@ -1,0 +1,64 @@
+id: Q3zayg6
+type: release
+statements:
+  name:
+  - value:
+      text: Avāz Dornā
+      language: en
+    references:
+    - source: www.youtube.com-watchv-lnn6ciipfzm
+      quote: Avāz Dornā (Northern Khorāsān music)         ( آواز درنا (موسیقی شمال خراسان
+      locator: Native performance, published credits, date or time code
+      accessed: '2026-11-21'
+  performer:
+  - value: Q3ytwxm
+    references:
+    - source: www.youtube.com-watchv-lnn6ciipfzm
+      quote: 'Vocal: Mahya Hamedi'
+      locator: Native performance, published credits, date or time code
+      accessed: '2026-11-21'
+    qualifiers:
+      role: vocals
+  - value: Qg776ck
+    references:
+    - source: www.youtube.com-watchv-lnn6ciipfzm
+      quote: 'Arrangement and Qanun: Afarin Nazarijou'
+      locator: Native performance, release credits or dated catalogue
+      accessed: '2026-11-21'
+    qualifiers:
+      role: qanun
+  listen link:
+  - value: https://www.youtube.com/watch?v=LNn6cIiPFZM
+    references:
+    - source: www.youtube.com-oembed-lnn6ciipfzm
+      quote: Avāz Dornā (Northern Khorāsān music)         ( آواز درنا (موسیقی شمال خراسان
+      locator: Native performance, published credits, date or time code
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://i.ytimg.com/vi/LNn6cIiPFZM/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-lnn6ciipfzm
+      quote: https://i.ytimg.com/vi/LNn6cIiPFZM/hqdefault.jpg
+      locator: Native performance, published credits, date or time code
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Afarin Nazarijou
+        language: en
+  release date:
+  - value:
+      date: '2021-09-22'
+    references:
+    - source: www.youtube.com-watchv-lnn6ciipfzm
+      quote: '2021-09-22T19:41:43-07:00'
+      locator: Native performance, published credits, date or time code
+      accessed: '2026-11-21'
+  contributor:
+  - value: Qg776ck
+    references:
+    - source: www.youtube.com-watchv-lnn6ciipfzm
+      quote: 'Arrangement and Qanun: Afarin Nazarijou'
+      locator: Native performance, release credits or dated catalogue
+      accessed: '2026-11-21'
+    qualifiers:
+      role: arranger

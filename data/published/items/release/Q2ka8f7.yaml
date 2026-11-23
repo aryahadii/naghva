@@ -1,0 +1,63 @@
+id: Q2ka8f7
+type: release
+statements:
+  name:
+  - value:
+      text: Aspect Element II
+      language: en
+    references:
+    - source: music.apple.com-us-song-1722900797
+      quote: ‎Aspect Element II - Song with Lyrics by Kevin Kastning & Soheil Peyghambari - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Q3waxf2
+    references:
+    - source: music.apple.com-us-song-1722900797
+      quote: ‎Aspect Element II - Song with Lyrics by Kevin Kastning & Soheil Peyghambari - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qyz8dqk
+    references:
+    - source: music.apple.com-us-song-1722900797
+      quote: Kevin Kastning
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://music.apple.com/us/song/1722900797
+    references:
+    - source: music.apple.com-us-song-1722900797
+      quote: ‎Aspect Element II - Song with Lyrics by Kevin Kastning & Soheil Peyghambari - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/5oghdgYwIAgkZ7FKSyC6Wt
+    references:
+    - source: open.spotify.com-track-5oghdgywiagkz7fksyc6wt
+      quote: Aspect Element II - song and lyrics by Kevin Kastning, Soheil Peyghambari | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://www.youtube.com/watch?v=GW4aJjODMGU
+    references:
+    - source: www.youtube.com-watch-v-gw4ajjodmgu
+      quote: Aspect Element II
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/da/32/67/da3267f9-7de3-79ef-d187-4c8135c21533/artwork.jpg/600x600bb.webp
+    references:
+    - source: music.apple.com-us-song-1722900797
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/da/32/67/da3267f9-7de3-79ef-d187-4c8135c21533/artwork.jpg/600x600bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Soheil Peyghambari on Apple Music
+        language: en
+  release date:
+  - value:
+      date: '2024-01-23'
+    references:
+    - source: music.apple.com-us-song-1722900797
+      quote: January 23, 2024
+      accessed: '2026-11-21'
+      locator: Published date

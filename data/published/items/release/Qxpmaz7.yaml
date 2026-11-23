@@ -1,0 +1,66 @@
+id: Qxpmaz7
+type: release
+statements:
+  name:
+  - value:
+      text: Nāgāh ناگاه
+      language: en
+    references:
+    - source: kopirecs.bandcamp.com-track-n-g-h
+      quote: Nāgāh ناگاه | ArtSaves | Kopi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qw9zs9g
+    references:
+    - source: kopirecs.bandcamp.com-album-molehead
+      quote: ArtSaves
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://kopirecs.bandcamp.com/track/n-g-h
+    references:
+    - source: kopirecs.bandcamp.com-track-n-g-h
+      quote: Nāgāh ناگاه | ArtSaves | Kopi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1804076769
+    references:
+    - source: music.apple.com-us-song-1804076769
+      quote: ‎Nāgāh ناگاه - Song with Lyrics by ArtSaves - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/2rbgrpsKayHUhhw42P7w60
+    references:
+    - source: open.spotify.com-track-2rbgrpskayhuhhw42p7w60
+      quote: Nāgāh ناگاه - song and lyrics by ArtSaves | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a3914570668_10.jpg
+    references:
+    - source: kopirecs.bandcamp.com-track-n-g-h
+      quote: https://f4.bcbits.com/img/a3914570668_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original publisher artwork
+        language: en
+  release date:
+  - value:
+      date: '2025-03-14'
+    references:
+    - source: kopirecs.bandcamp.com-track-n-g-h
+      quote: released March 14, 2025
+      accessed: '2026-11-21'
+      locator: Published date
+  contributor:
+  - value: Qtwwfrd
+    references:
+    - source: kopirecs.bandcamp.com-album-molehead
+      quote: Shahin Entezami
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: mastering engineer

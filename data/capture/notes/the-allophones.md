@@ -1,0 +1,32 @@
+# The Allophones
+
+Artist, presenter and native service evidence follows the individually identified recordings. Exact versions are preserved where services disagree on title, release date or credits. Videos are separate when the published material documents an independently issued film.
+
+- Can't Play Standing Up (Qa3ckmz)
+- Better Days (Qsq8mdq)
+- 3 (Qfw7akr)
+- Shiny Tongue (Qmbgef2)
+- Eye (Qy8pbcx)
+- Love Will Tear Us Apart (Qkqpaxs)
+- Talk It Out (Qf2hdka)
+- Break Out (Q4h3n5v)
+- Stalemate (Qdae3n3)
+- Wrong Time - Live at Blue Moon Rec Studio (Qnmk69f)
+- Somebody's Fault (Qwart7k)
+- Nabze Asphalt - Live at Blue Moon Studio (Qy5fx4z)
+- Somebody's Fault (Q4t9z4a)
+- The Owner (Qj7e57j)
+- Stay (Q6r8tq5)
+- 2 L 8 2 8 (Qkg9y7k)
+- Obsession II (Qs6d4b4)
+- Ill-Cut Dice (Qyq3gnq)
+- Triangles Don't Lie (Qsxr85j)
+- Recoded (Qfxskwc)
+- Better Days (Qsaaz44)
+- My League (Q8aegv8)
+- Stay (Instrumental) (Qsheaf7)
+- Muscle Memory (Qw8bxm3)
+- Skam (Qjzbjfb)
+- In Your Bones (Q93dhrp)
+
+- Ira (feat. The Allophones) (Qkkndnn)

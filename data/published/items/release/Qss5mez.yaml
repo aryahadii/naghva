@@ -1,0 +1,61 @@
+id: Qss5mez
+type: release
+statements:
+  name:
+  - value:
+      text: Shahrzad Ensemble  - Shiraz Folk Song "Balal Balalam"
+      language: en
+    references:
+    - &id001
+      source: shahrzad-film-hyu2axz7x3e
+      quote: Shahrzad Ensemble  - Shiraz Folk Song "Balal Balalam"
+      accessed: '2026-11-21'
+      locator: Performer or presenter archive
+  performer:
+  - value: Q4z6jy5
+    references:
+    - *id001
+  - value: Qhwvdn8
+    references:
+    - &id002
+      source: shahrzad-ensemble-casaorig
+      quote: Maral Pouya, voice; Azar Zargarian, tar; Najmeh Saghir, barbat; Parissa Kashefi, kamanche; Naghmeh Farahmand, tombak, daf, dayere
+      accessed: '2026-11-21'
+      locator: Performer or presenter archive
+    qualifiers:
+      role: tar
+  - value: Q5j54sb
+    references:
+    - *id002
+    qualifiers:
+      role: vocals
+  - value: Qdbqrvp
+    references:
+    - *id002
+    qualifiers:
+      role: oud
+  - value: Qk84m4p
+    references:
+    - *id002
+    qualifiers:
+      role: kamancheh
+  - value: Qasg8r4
+    references:
+    - *id002
+    qualifiers:
+      role: percussion
+  listen link:
+  - value: https://www.youtube.com/watch?v=Hyu2axz7x3E
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/Hyu2axz7x3E/hqdefault.jpg
+    references:
+    - source: shahrzad-film-hyu2axz7x3e
+      quote: https://i.ytimg.com/vi/Hyu2axz7x3E/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Publisher performance still
+    qualifiers:
+      credit:
+        text: casadellacultura, original performance film
+        language: en

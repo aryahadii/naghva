@@ -1,0 +1,47 @@
+id: Q56wnc2
+type: release
+statements:
+  name:
+  - value:
+      text: تک‌نوازی سنتور
+      language: fa
+    references:
+    - source: www.youtube.com-oembed-q1f3zj-zfvc
+      quote: تک‌نوازی سنتور
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2024-04-09'
+    references:
+    - source: www.youtube.com-watchv-q1f3zj-zfvc
+      quote: '2024-04-09'
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://i.ytimg.com/vi/q1F3ZJ-ZFVc/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-q1f3zj-zfvc
+      quote: https://i.ytimg.com/vi/q1F3ZJ-ZFVc/hqdefault.jpg
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Soheil Hosnavi · original performance
+        language: en
+  performer:
+  - value: Q76q9jz
+    references:
+    - source: www.youtube.com-oembed-q1f3zj-zfvc
+      quote: Soheil Hosnavi
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: santur
+  listen link:
+  - value: https://www.youtube.com/watch?v=q1F3ZJ-ZFVc
+    references:
+    - source: www.youtube.com-oembed-q1f3zj-zfvc
+      quote: تک‌نوازی سنتور
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'

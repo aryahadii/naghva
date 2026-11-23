@@ -1,0 +1,63 @@
+id: Qvj827t
+type: release
+statements:
+  name:
+  - value:
+      text: Longer Route
+      language: en
+    references:
+    - source: cinnapey.bandcamp.com-track-longer-route
+      quote: Longer Route
+      accessed: '2026-11-21'
+      locator: Recording title or artist credit
+  performer:
+  - value: Q4q92dh
+    references:
+    - source: cinnapey.bandcamp.com-track-longer-route
+      quote: Longer Route | Cinna Peyghamy
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://cinnapey.bandcamp.com/track/longer-route
+    references:
+    - source: cinnapey.bandcamp.com-track-longer-route
+      quote: Longer Route | Cinna Peyghamy
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/longer-route/1732426109
+    references:
+    - source: music.apple.com-us-song-longer-route-1732426109
+      quote: ‎Longer Route - Song with Lyrics by Cinna Peyghamy - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/1QEhQlQcF3ofsuBIuTLTe0
+    references:
+    - source: open.spotify.com-track-1qehqlqcf3ofsubiutlte0
+      quote: Longer Route - song and lyrics by Cinna Peyghamy | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/cikkun/02-cinna-peyghamy-longer-route
+    references:
+    - source: soundcloud.com-cikkun-02-cinna-peyghamy-longer-route
+      quote: Stream Longer Route by Cinna Peyghamy | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a0820108881_10.jpg
+    references:
+    - source: cinnapey.bandcamp.com-track-longer-route
+      quote: https://f4.bcbits.com/img/a0820108881_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Tongwei
+        language: en
+  release date:
+  - value:
+      date: '2023-11-15'
+    references:
+    - source: cinnapey.bandcamp.com-album-the-skin-in-between
+      quote: released November 15, 2023
+      accessed: '2026-11-21'
+      locator: Published date

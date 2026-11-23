@@ -5,6 +5,8 @@ title: Horror Vacui by 9T Antiope
 tier: own
 kind: web page
 language: en
+about:
+- Nima Aghiani
 status: processed
 ---
 
@@ -35,3 +37,19 @@ Album credits, read 2026-11-21.
 > Artwork by Ashkan Noroozkhani
 
 Album credits, read 2026-11-21.
+
+> Horror Vacui | 9T Antiope
+
+Page title, read 2026-11-21.
+
+> Violin, octave Violin and octave mandolin performed by Nima Aghiani
+
+Artist interview, biography or performance credits, read 2026-11-21.
+
+> released April 12, 2024
+
+Published date, read 2026-11-21.
+
+> Songs written and performed by Sara Bigdeli Shamloo
+
+Artist interview, biography or performance credits, read 2026-11-21.

@@ -1,0 +1,63 @@
+id: Qt9d6fy
+type: release
+statements:
+  name:
+  - value:
+      text: Mashaal
+      language: en
+    references:
+    - source: music.apple.com-us-album-mashaal-single-1693117123
+      quote: Mashaal
+      accessed: '2026-11-21'
+      locator: Digital track 1
+  performer:
+  - value: Qpav8br
+    references:
+    - source: music.apple.com-us-album-mashaal-single-1693117123
+      quote: Hura Mirshekari
+      accessed: '2026-11-21'
+      locator: Credited artist
+  - value: Q3vef75
+    references:
+    - source: music.apple.com-us-album-mashaal-single-1693117123
+      quote: Flugen
+      accessed: '2026-11-21'
+      locator: Original release artist
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/4f/5b/32/4f5b3268-51a3-c398-3f25-07b04fff3f48/cover.jpg/1200x630wp-60.jpg
+    references:
+    - source: music.apple.com-us-album-mashaal-single-1693117123
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/4f/5b/32/4f5b3268-51a3-c398-3f25-07b04fff3f48/cover.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Original edition artwork
+    qualifiers:
+      credit:
+        text: Apple Music, original distributor artwork
+        language: en
+  release date:
+  - value:
+      date: '2023-07-04'
+    references:
+    - source: music.apple.com-us-album-mashaal-single-1693117123
+      quote: '2023-07-04'
+      accessed: '2026-11-21'
+      locator: Digital issue date
+  listen link:
+  - value: https://music.apple.com/us/song/mashaal/1693117317
+    references:
+    - source: music.apple.com-us-album-mashaal-single-1693117123
+      quote: https://music.apple.com/us/song/mashaal/1693117317
+      accessed: '2026-11-21'
+      locator: Exact Apple song
+  - value: https://open.spotify.com/track/7HQS7YYFCMWokTmz9IkaXj
+    references:
+    - source: open.spotify.com-embed-album-6z92kwea4dqg8dvbzkxmhp
+      quote: spotify:track:7HQS7YYFCMWokTmz9IkaXj
+      accessed: '2026-11-21'
+      locator: Exact Spotify track
+  - value: https://909connection.bandcamp.com/track/mashaal
+    references:
+    - source: 909connection.bandcamp.com-track-mashaal
+      quote: Mashaal
+      accessed: '2026-11-21'
+      locator: Label master

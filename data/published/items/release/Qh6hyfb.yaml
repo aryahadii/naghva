@@ -1,0 +1,64 @@
+id: Qh6hyfb
+type: release
+statements:
+  name:
+  - value:
+      text: KHAB O KHIYAL
+      language: en
+    references:
+    - source: music.apple.com-us-album-alideh-1620207611
+      quote: KHAB O KHIYAL
+      accessed: '2026-11-21'
+      locator: Album track title and billing
+  performer:
+  - value: Qfxqgvv
+    references:
+    - source: music.apple.com-us-album-alideh-1620207611
+      quote: Shadi Fathi
+      accessed: '2026-11-21'
+      locator: Co-billed album artist
+  - value: Qpgy7yb
+    references:
+    - source: music.apple.com-us-album-alideh-1620207611
+      quote: Bijan Chemirani
+      accessed: '2026-11-21'
+      locator: Co-billed album artist
+  release date:
+  - value:
+      date: '2022-05-27'
+    references:
+    - source: music.apple.com-us-album-alideh-1620207611
+      quote: '2022-05-27'
+      accessed: '2026-11-21'
+      locator: Release metadata
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/d3/05/3a/d3053a87-d594-6bbd-3c9e-0e38df2aa29a/cover.jpg/632x632bb-60.jpg
+    references:
+    - source: music.apple.com-us-album-alideh-1620207611
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/d3/05/3a/d3053a87-d594-6bbd-3c9e-0e38df2aa29a/cover.jpg/632x632bb-60.jpg
+      accessed: '2026-11-21'
+      locator: Album image
+    qualifiers:
+      credit:
+        text: Apple Music · Âwât
+        language: en
+  listen link:
+  - value: https://music.apple.com/us/song/khab-o-khiyal/1620207625
+    references:
+    - source: music.apple.com-us-album-alideh-1620207611
+      quote: KHAB O KHIYAL
+      accessed: '2026-11-21'
+      locator: Album track title and billing
+  - value: https://open.spotify.com/track/0YwlBKLQc4zPfuoPeC9feW
+    references:
+    - source: open.spotify.com-album-6p3qs7yudlpenou7jprguj
+      quote: KHAB O KHIYAL
+      accessed: '2026-11-21'
+      locator: Spotify track list
+  published by:
+  - value: Qvdbcbn
+    references:
+    - source: music.apple.com-us-album-alideh-1620207611
+      quote: Buda Musique
+      accessed: '2026-11-21'
+      locator: Record label

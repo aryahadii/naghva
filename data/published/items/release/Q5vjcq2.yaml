@@ -1,0 +1,41 @@
+id: Q5vjcq2
+type: release
+statements:
+  name:
+  - value:
+      text: Shadi Fathi & Djamshid Chemirani
+      language: fr
+    references:
+    - source: www.shadi-fathi.com-galerie-videos
+      quote: Shadi Fathi & Djamshid Chemirani
+      accessed: '2026-11-21'
+      locator: Artist video gallery title
+  performer:
+  - value: Qfxqgvv
+    references:
+    - source: www.shadi-fathi.com-galerie-videos
+      quote: Shadi Fathi & Djamshid Chemirani
+      accessed: '2026-11-21'
+      locator: Artist video gallery title
+    - source: www.odoensemble.com-en-shadi-fathi
+      quote: Shadi Fathi
+      accessed: '2026-11-21'
+      locator: Artist heading
+  listen link:
+  - value: https://www.youtube.com/watch?v=eKe_HIMkjbo
+    references:
+    - source: www.shadi-fathi.com-galerie-videos
+      quote: eKe_HIMkjbo
+      accessed: '2026-11-21'
+      locator: Artist embeds this specific YouTube video
+  cover art:
+  - value: https://i.ytimg.com/vi/eKe_HIMkjbo/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-eke_himkjbo
+      quote: https://i.ytimg.com/vi/eKe_HIMkjbo/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Official thumbnail returned by YouTube for this video
+    qualifiers:
+      credit:
+        text: Sh Fathi · YouTube
+        language: en

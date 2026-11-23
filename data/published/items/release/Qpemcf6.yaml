@@ -1,0 +1,75 @@
+id: Qpemcf6
+type: release
+statements:
+  name:
+  - value:
+      text: Take Me Back
+      language: en
+    references:
+    - source: music.apple.com-us-album-take-me-back-single-1447783108
+      quote: Take Me Back
+      locator: Track 1
+      accessed: '2026-11-21'
+  performer:
+  - value: Qxmhx58
+    references:
+    - source: music.apple.com-us-album-take-me-back-single-1447783108
+      quote: Marie Sahba
+      locator: Primary release artist
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2019-01-25'
+    references:
+    - source: music.apple.com-us-album-take-me-back-single-1447783108
+      quote: '2019-01-25'
+      locator: Edition date
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/69/cb/a5/69cba574-72fd-62b3-2a4f-06a0fcc93ed7/artwork.jpg/632x632bb-60.jpg
+    references:
+    - source: music.apple.com-us-album-take-me-back-single-1447783108
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/69/cb/a5/69cba574-72fd-62b3-2a4f-06a0fcc93ed7/artwork.jpg/632x632bb-60.jpg
+      locator: Apple Music release artwork
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Take Me Back · Apple Music
+        language: en
+  listen link:
+  - value: https://music.apple.com/us/song/take-me-back/1447783110
+    references:
+    - source: music.apple.com-us-album-take-me-back-single-1447783108
+      quote: Take Me Back
+      locator: Track 1
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/3HujOtJsQeaVOsUiZhY4V4
+    references:
+    - source: open.spotify.com-album-6eplecgjlo8xujh1rabibc
+      quote: Take Me Back
+      locator: Track 1
+      accessed: '2026-11-21'
+  - value: https://music.apple.com/us/song/take-me-back/1484087989
+    references:
+    - source: music.apple.com-us-album-out-of-control-ep-1484087986
+      quote: Take Me Back
+      locator: Track 3
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/5C7v8z0xDssOGrToj8myOA
+    references:
+    - source: open.spotify.com-album-2wfn1nsmnkanwp0xzz1el4
+      quote: Take Me Back
+      locator: Track 3
+      accessed: '2026-11-21'
+  - value: https://soundcloud.com/mariesahba/take-me-back
+    references:
+    - source: soundcloud.com-mariesahba-take-me-back
+      quote: Take Me Back
+      locator: Original SoundCloud upload
+      accessed: '2026-11-21'
+  - value: https://www.youtube.com/watch?v=0eNn7dE4-Lg
+    references:
+    - source: www.youtube.com-oembed-0enn7de4-lg
+      quote: Marie Sahba - Take Me Back
+      locator: Official artist upload
+      accessed: '2026-11-21'

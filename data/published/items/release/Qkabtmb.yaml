@@ -1,0 +1,57 @@
+id: Qkabtmb
+type: release
+statements:
+  name:
+  - value:
+      text: Tunnel
+      language: en
+    references:
+    - source: avarasti.bandcamp.com-track-tunnel
+      quote: Tunnel | Ava Rasti
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qks2dfk
+    references:
+    - source: avarasti.bandcamp.com-track-tunnel
+      quote: Tunnel | Ava Rasti
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://avarasti.bandcamp.com/track/tunnel
+    references:
+    - source: avarasti.bandcamp.com-track-tunnel
+      quote: Tunnel | Ava Rasti
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1567886880
+    references:
+    - source: music.apple.com-us-song-1567886880
+      quote: ‎Tunnel - Song with Lyrics by Ava Rasti - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/avaarasti/tunnel
+    references:
+    - source: soundcloud.com-avaarasti-tunnel
+      quote: Stream Tunnel by Ava Rasti | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a0809435949_10.jpg
+    references:
+    - source: avarasti.bandcamp.com-track-tunnel
+      quote: https://f4.bcbits.com/img/a0809435949_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original recording publisher
+        language: en
+  release date:
+  - value:
+      date: '2021-05-29'
+    references:
+    - source: avarasti.bandcamp.com-album-the-moment-2
+      quote: released May 29, 2021
+      accessed: '2026-11-21'
+      locator: Published date

@@ -1,0 +1,56 @@
+id: Qmq56we
+type: release
+statements:
+  name:
+  - value:
+      text: Bidad
+      language: en
+    references:
+    - source: music.apple.com-us-album-bidad-1813920357i-1813921016-uo-4
+      quote: Bidad
+      locator: Original programme, liner notes or performer credit
+      accessed: '2026-11-21'
+  performer:
+  - value: Qn5vbwr
+    references:
+    - source: music.apple.com-us-album-bidad-1813920357i-1813921016-uo-4
+      quote: Bidad
+      locator: Original programme, liner notes or performer credit
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/31/09/fb/3109fb08-df66-61fb-4c58-80b34d62b1aa/cover.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-bost-c3-a2ntchi-1813920357uo-4
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/31/09/fb/3109fb08-df66-61fb-4c58-80b34d62b1aa/cover.jpg/1200x630bb.jpg
+      locator: Original programme, liner notes or performer credit
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2025-05-30'
+    references:
+    - source: music.apple.com-us-album-bidad-1813920357i-1813921016-uo-4
+      quote: '2025-05-30'
+      locator: Original programme, liner notes or performer credit
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://music.apple.com/us/song/bidad/1813921016
+    references:
+    - source: music.apple.com-us-album-bidad-1813920357i-1813921016-uo-4
+      quote: Bidad
+      locator: Original programme, liner notes or performer credit
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/620jwWs3MbM6cbhlMkQ12u
+    references:
+    - source: open.spotify.com-embed-album-7hd7wklwjsvkytpw1bo2bu
+      quote: spotify:track:620jwWs3MbM6cbhlMkQ12u
+      locator: Original programme, liner notes or performer credit
+      accessed: '2026-11-21'
+  contributor:
+  - value: Qh3tqkn
+    references:
+    - source: www.youtube.com-watchv-lm1t8mv--g4
+      quote: 'Composer: Sogol Mirzaei'
+      locator: Original programme, liner notes or performer credit
+      accessed: '2026-11-21'
+    qualifiers:
+      role: composer

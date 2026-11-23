@@ -1,0 +1,26 @@
+id: Qdrj2gp
+type: release
+statements:
+  listen link:
+  - value: https://t.me/hani_mojtahedi/101
+    references:
+    - source: t.me-s-hani_mojtahedi-101
+      quote: 'Yady salan #Kurdischesfilmfestival'
+      locator: Artist channel, native recording 101
+      accessed: '2026-11-21'
+  name:
+  - value:
+      text: Yady Salan (Kurdisches Filmfestival)
+      language: en
+    references:
+    - source: t.me-s-hani_mojtahedi-101
+      quote: 'Yady salan #Kurdischesfilmfestival'
+      locator: Artist channel, native recording 101
+      accessed: '2026-11-21'
+  performer:
+  - value: Qnrm3kw
+    references:
+    - source: t.me-s-hani_mojtahedi-101
+      quote: 'Yady salan #Kurdischesfilmfestival'
+      locator: Artist channel, native recording 101
+      accessed: '2026-11-21'
