@@ -1,0 +1,50 @@
+id: Qjeb9e9
+type: person
+statements:
+  name:
+  - value:
+      text: Shervin Hajipour
+      language: en
+    references:
+    - source: music.apple.com-us-artist-shervin-hajipour-1499146545
+      quote: Shervin Hajipour
+      accessed: 2026-11-21
+      locator: Artist name
+  - value:
+      text: شروین حاجی‌پور
+      language: fa
+    references:
+    - source: youtu.be-aagi6xe_qi4
+      quote: اجرای کامل قطعه ی "شاید بهشت" در عصر جدید توسط شروین حاجی آقاپور
+      accessed: 2026-11-21
+      locator: Television performance recording
+  image:
+  - value: https://i.scdn.co/image/ab6761610000e5eb9f9435f65e91d3022c4754e5
+    qualifiers:
+      credit:
+        text: Shervin Hajipour, Spotify profile
+        language: en
+    references:
+    - source: open.spotify.com-artist-4o8dqcebu9i1wq274thite
+      quote: https://i.scdn.co/image/ab6761610000e5eb9f9435f65e91d3022c4754e5
+      accessed: 2026-11-21
+      locator: Artist profile portrait
+  profile link:
+  - value: https://music.apple.com/us/artist/shervin-hajipour/1499146545
+    references:
+    - source: music.apple.com-us-artist-shervin-hajipour-1499146545
+      quote: Shervin Hajipour
+      accessed: 2026-11-21
+      locator: Native profile
+  - value: https://open.spotify.com/artist/4O8DQCEBU9I1wQ274THitE
+    references:
+    - source: open.spotify.com-artist-4o8dqcebu9i1wq274thite
+      quote: Shervin Hajipour
+      accessed: 2026-11-21
+      locator: Native profile
+  - value: https://soundcloud.com/shervinine
+    references:
+    - source: soundcloud.com-shervinine
+      quote: Shervin Hajipour
+      accessed: 2026-11-21
+      locator: Native profile

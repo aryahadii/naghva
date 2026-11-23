@@ -1,0 +1,41 @@
+id: Qj2xbf5
+type: release
+statements:
+  name:
+  - value:
+      text: Kalagh
+      language: en
+    references:
+    - source: music.apple.com-us-album-kalagh-1805235152
+      quote: Kalagh
+      accessed: 2026-11-21
+      locator: Apple digital catalogue, track title
+  performer:
+  - value: Qjeb9e9
+    references:
+    - source: music.apple.com-us-album-kalagh-1805235152
+      quote: Kalagh
+      accessed: 2026-11-21
+      locator: Apple digital catalogue, track title
+  listen link:
+  - value: https://music.apple.com/us/album/kalagh/1805235152?i=1805235153
+    references:
+    - source: music.apple.com-us-album-kalagh-1805235152
+      quote: Kalagh
+      accessed: 2026-11-21
+      locator: Apple digital catalogue, track title
+  release date:
+  - value:
+      date: '2021-11-12'
+    references:
+    - source: music.apple.com-us-album-kalagh-1805235152
+      quote: '2021-11-12'
+      accessed: 2026-11-21
+      locator: Digital issue date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d8/85/01/d885016b-abf9-8021-f09a-bbdc7d098881/752470176241.png/100x100bb.jpg
+    references:
+    - source: music.apple.com-us-album-kalagh-1805235152
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d8/85/01/d885016b-abf9-8021-f09a-bbdc7d098881/752470176241.png/100x100bb.jpg
+      accessed: 2026-11-21
+      locator: Digital sleeve

@@ -1,0 +1,47 @@
+id: Qgxee49
+type: release
+statements:
+  name:
+  - value:
+      text: Engheza
+      language: en
+    references:
+    - source: music.apple.com-us-album-engheza-single-1805232281
+      quote: Engheza
+      accessed: 2026-11-21
+      locator: Edition or recording title
+  performer:
+  - value: Qjeb9e9
+    references:
+    - source: music.apple.com-us-album-engheza-single-1805232281
+      quote: Shervin Hajipour
+      accessed: 2026-11-21
+      locator: Digital credits
+  listen link:
+  - value: https://music.apple.com/us/song/engheza/1805232282
+    references:
+    - source: music.apple.com-us-album-engheza-single-1805232281
+      quote: Engheza
+      accessed: 2026-11-21
+      locator: Edition or recording title
+  - value: https://youtu.be/TZ9XG8TdRWI
+    references:
+    - source: youtu.be-tz9xg8tdrwi
+      quote: Shervin - Engheza (Audio)
+      accessed: 2026-11-21
+      locator: Official channel, recording title
+  release date:
+  - value:
+      date: '2025-03-26'
+    references:
+    - source: music.apple.com-us-album-engheza-single-1805232281
+      quote: '2025-03-26'
+      accessed: 2026-11-21
+      locator: Digital edition date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/62/16/3e/62163efd-b20f-5a54-6080-bf6a6ab8cd54/4056813502558.png/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-engheza-single-1805232281
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/62/16/3e/62163efd-b20f-5a54-6080-bf6a6ab8cd54/4056813502558.png/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Digital edition artwork
