@@ -1,0 +1,3 @@
+# Safoura Safavi
+
+The two soundtrack releases under Safavi’s name carry her own phonogram credit. I Väntan På Sjulsmäss is a Various Artists album; its fifteen tracks list her along with four other performers in Apple Music’s track credits. Solo performances attributed by Abjeez are included only where their channel identifies Safavi. SASA is her trio and Abjeez is the band she founded with Melody. The university identifies her degrees, while Dramaten and Riksteatern document her work for the stage. The Wikimedia photograph file description credits David Douhan and identifies the uploader as Homa birdie. Additional service reconciliation and independent review remain open.
