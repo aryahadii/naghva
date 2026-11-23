@@ -1,0 +1,57 @@
+id: Qvhzqfg
+type: release
+statements:
+  name:
+  - value:
+      text: Parisan
+      language: en
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-parisan
+      quote: Parisan | By Kaveh Sarvarian | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qy69pg7
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-parisan
+      quote: Parisan | By Kaveh Sarvarian | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://kavehsarvarian.bandcamp.com/track/parisan
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-parisan
+      quote: Parisan | By Kaveh Sarvarian | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/548566593
+    references:
+    - source: music.apple.com-us-song-548566593
+      quote: ‎Parisan - Song with Lyrics by Kaveh Sarvarian - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/0EOHvgTgmXMWpbYZGaUdZA
+    references:
+    - source: open.spotify.com-track-0eohvgtgmxmwpbyzgaudza
+      quote: Parisan - song and lyrics by Kaveh Sarvarian | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a0498665786_10.jpg
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-parisan
+      quote: https://f4.bcbits.com/img/a0498665786_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Kaveh Sarvarian on Bandcamp
+        language: en
+  release date:
+  - value:
+      date: '2012-07-23'
+    references:
+    - source: music.apple.com-us-song-548566593
+      quote: July 23, 2012
+      accessed: '2026-11-21'
+      locator: Published date

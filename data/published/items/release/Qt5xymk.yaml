@@ -1,0 +1,65 @@
+id: Qt5xymk
+type: release
+statements:
+  name:
+  - value:
+      text: East meet East
+      language: en
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-east-meet-east
+      quote: East meet East | Kaveh Sarvarian, Hames Bitar | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qy69pg7
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-east-meet-east
+      quote: East meet East | Kaveh Sarvarian, Hames Bitar | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qtj7y5p
+    references:
+    - source: kavehsarvarian.bandcamp.com-album-when-the-sun-rises
+      quote: 'Hames Bitar: Oud'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: oud
+  listen link:
+  - value: https://kavehsarvarian.bandcamp.com/track/east-meet-east
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-east-meet-east
+      quote: East meet East | Kaveh Sarvarian, Hames Bitar | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1680672446
+    references:
+    - source: music.apple.com-us-song-1680672446
+      quote: ‎East Meet East - Song with Lyrics by Kaveh Sarvarian & Hames Bitar - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/3Gq1GIfeCCJOKid0Mdtjc2
+    references:
+    - source: open.spotify.com-track-3gq1gifeccjokid0mdtjc2
+      quote: East Meet East - song and lyrics by Kaveh Sarvarian, Hames Bitar | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a0037080698_10.jpg
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-east-meet-east
+      quote: https://f4.bcbits.com/img/a0037080698_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Kaveh Sarvarian on Bandcamp
+        language: en
+  release date:
+  - value:
+      date: '2023-03-28'
+    references:
+    - source: kavehsarvarian.bandcamp.com-album-when-the-sun-rises
+      quote: released March 28, 2023
+      accessed: '2026-11-21'
+      locator: Published date

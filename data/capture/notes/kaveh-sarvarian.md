@@ -1,0 +1,257 @@
+# Kaveh Sarvarian
+
+Kaveh's original artist Bandcamp yielded eight album editions. The 13 Apple artist editions, 14 native SoundCloud uploads and 120 artist-channel entries were cross-checked alongside Spotify album and guest credits. The individual solo tracks by other musicians on Moonlight Sky were excluded. In particular, the original Bandcamp files often reached that storefront after the Iranian or first Apple releases. Releases use the earliest substantiated issue date and preserve the links to other editions. Checked his Tehran teaching and Madrid performance accounts against the trio biography, his teaching catalogue and the Spanish broadcaster. SoundCloud's original portrait shows him playing a wind instrument. The 2023 When the Sun Rises album credits just its two creators, even though the material figured in Cardamom's later concerts.
+
+- "No quedara" del concierto de Kaveh & Elyar en el festival Singading. (Qvagfmj) · https://www.youtube.com/watch?v=r9YHZ9og_iA
+- "When the Sun Rises" live concert (Qpszjxg) · https://www.youtube.com/watch?v=W3eEO7RkPHs
+- 7 Beats Kaveh, Elyar & Amin (Q42zbrd) · https://soundcloud.com/kaveh-sarvarian/7-beats-kaveh-elyar-amin
+- Afroshark (Qfcaze5) · https://open.spotify.com/track/1E2vu8PK8XZeKCpqk8u6Pj
+- Afshari Saz va Avaz live in concert (Qrc4rnj) · https://www.youtube.com/watch?v=wCBbnUAQ9Yk
+- Arabic Music & dance (Qsv9t4t) · https://www.youtube.com/watch?v=JCXLHOsUanE
+- Armenian-Azerbaijanian Flute Solo (Q7gqnnx) · https://soundcloud.com/kaveh-sarvarian/armenian-azerbaijanian-flute-solo
+- Aseman  Mahtab (Qvhbssg) · https://www.youtube.com/watch?v=XyXA56aCrjw
+- Avareh (feat. Kaveh Sarvarian) (Q5bmq98) · https://music.apple.com/us/album/avareh-feat-kaveh-sarvarian/1753205569 · https://kavehsarvarian.bandcamp.com/album/avareh
+- Avaz Chargah (Qemtcbr) · https://kavehsarvarian.bandcamp.com/track/avaz-chargah · https://music.apple.com/us/song/548566600 · https://open.spotify.com/track/5EV21BHYulbCY2rMtz14Sn
+- Avaz Mahoor (Qy8k8dv) · https://kavehsarvarian.bandcamp.com/track/avaz-mahoor · https://music.apple.com/us/song/548566605 · https://open.spotify.com/track/24iIpiGJWFXScowOvt4YFC
+- Ay Ke Buena (Qtgqkr7) · https://elana-sasson.bandcamp.com/track/ay-ke-buena
+- Bahare delkash (Qd386x8) · https://darawish.bandcamp.com/track/bahare-delkash · https://music.apple.com/us/song/bahare-delkash/1495102882
+- Bahari Digar (Qq5a279) · https://music.apple.com/us/song/1794864893 · https://music.apple.com/us/album/bahari-digar-single/1794864834 · https://open.spotify.com/album/0Hd28ws8tcygQLIoNWOtVb · https://open.spotify.com/track/7F2sOeg3ZBe4FIFHmZrasD · https://open.spotify.com/track/3wIUpsgFnSD2HE6n58j9cj · https://elana-sasson.bandcamp.com/track/bahari-digar
+- Bakhtiari (Q9escjg) · https://kavehsarvarian.bandcamp.com/track/bakhtiari · https://music.apple.com/us/song/548566594 · https://open.spotify.com/track/5cfCOzUz9J68MV3nsbMhHk
+- Baluchi Suit, Part 4 (Qy3pvpk) · https://kavehsarvarian.bandcamp.com/track/baluchi-suit-part-4 · https://music.apple.com/us/song/490472189 · https://open.spotify.com/track/1bEnJtfqRc8qyBNb71mGk8
+- Baluchi Suite, Part 1 (Q6pvxr4) · https://kavehsarvarian.bandcamp.com/track/baluchi-suite-part-1 · https://music.apple.com/us/song/490471906 · https://open.spotify.com/track/2StLV1v3JFFzbj9WFqao07
+- Baluchi Suite, Part 2 (Qbjzn52) · https://kavehsarvarian.bandcamp.com/track/baluchi-suite-part-2 · https://music.apple.com/us/song/490471907 · https://open.spotify.com/track/4fRSiIwkAX1bNB1JiDZuNW
+- Balucho Suit, Part 3 (Q82rwdk) · https://kavehsarvarian.bandcamp.com/track/balucho-suit-part-3 · https://music.apple.com/us/song/490471908 · https://open.spotify.com/track/1rfIpVzc8IMbjOqKLDjDgG
+- Bayate tork, Improvisación de Ney persa en la parroquia de Albuñuelas un pueblo de Granada. 2026 (Q6jjnpj) · https://www.youtube.com/watch?v=GHBaLIlEro0
+- Bidad (Q2xw8re) · https://kavehsarvarian.bandcamp.com/track/bidad · https://music.apple.com/us/song/1753205577
+- Bidad, PARSINAVA (persian fusion jazz band), Cafe Berlin 2018 (Q57vktq) · https://www.youtube.com/watch?v=jfQThjD1TFk
+- Biridak Ya Khaligi (Qsa3nmh) · https://open.spotify.com/track/4ADuJiq9RAPBDlDQpcfpOr
+- Bolling Suite No.1 for Flute & Jazz Piano (Qdhvqfa) · https://www.youtube.com/watch?v=3F0Q0QJX5Ns
+- Boyer Ahmadi (Qn2s7vy) · https://kavehsarvarian.bandcamp.com/track/boyer-ahmadi · https://music.apple.com/us/song/548566592 · https://open.spotify.com/track/4Ankd6mAXSatvUYG5LuurN
+- Caravan of Exile (Qvzyxh9) · https://music.apple.com/us/song/1872784100 · https://music.apple.com/us/album/caravan-of-exile-single/1872784099 · https://open.spotify.com/album/7DrDSO1qf3ygn1IuLQDxSt · https://open.spotify.com/track/0JO3VSiO5ANjHQVyH1dXhV · https://soundcloud.com/kaveh-sarvarian/caravan-of-exile · https://www.youtube.com/watch?v=uu5q20yqE5A
+- Caravana de los sueños (Qeqbv92) · https://www.youtube.com/watch?v=Nm2dl5FmZOI
+- Cardamom Trio in Cuenca 2026 (Qxyrtpb) · https://www.youtube.com/watch?v=PrbYXKx-u5g
+- Cardamom Trio- Hopeful Mourning (Qdpskgq) · https://www.youtube.com/watch?v=lpood2uXQbM
+- Cardamom Trío en Noches de Ramadán (Qf4b4hq) · https://www.youtube.com/watch?v=PaSOhO5ZGqE
+- Cardamom trio at Café Ziryab (Qbr2f9x) · https://www.youtube.com/watch?v=ZlYbYK9onHs
+- Chahar Baagh, Saher Espacio Ronda 2025 (Qjn8ev5) · https://www.youtube.com/watch?v=rUvxfiB6fws
+- Chahargah Improvisation with Flute (Qqe6wcm) · https://www.youtube.com/watch?v=AwAfnmHEjvY
+- Chahargah Nowruz (Qnh6z59) · https://www.youtube.com/watch?v=SSTEZwGQpP0
+- Chahargah Perpetuo (Qyfqyb5) · https://www.youtube.com/watch?v=LLPy3fvuSCU
+- Chaharmezrab Esfahan (Qskat8z) · https://www.youtube.com/watch?v=KXQygo6Lw_M
+- Chalumeau solo (Qtsjrkn) · https://www.youtube.com/watch?v=Hpby6ZjJS0U
+- Charmezrab Afshari (Qhhwt4q) · https://kavehsarvarian.bandcamp.com/track/charmezrab-afshari
+- Charmezrab Bayat Tork (Qxfk45w) · https://kavehsarvarian.bandcamp.com/track/charmezrab-bayat-tork
+- Charmezrab Dashti (Q6vz64r) · https://kavehsarvarian.bandcamp.com/track/charmezrab-dashti · https://music.apple.com/us/song/548566599 · https://open.spotify.com/track/06uHqykl87VOowXNY0ivbD
+- Charmezrab Mahoor (Qhjhbms) · https://kavehsarvarian.bandcamp.com/track/charmezrab-mahoor · https://music.apple.com/us/song/548566604 · https://open.spotify.com/track/3vJK0qX1zyBaFr8n0vYZdH
+- Charmezrab Rajeh (Q472xww) · https://kavehsarvarian.bandcamp.com/track/charmezrab-rajeh · https://music.apple.com/us/song/548566595 · https://open.spotify.com/track/49x2L6oCxo2nlMx5gG31XL
+- Charmezrab Segah (Q5bz367) · https://www.youtube.com/watch?v=3riT3UMEww8
+- Cold Dream (Qcrdjdx) · https://kavehsarvarian.bandcamp.com/track/cold-dream · https://music.apple.com/us/song/1753205571
+- Danza de Rumi (Dance of Rumi) (Qyse85z) · https://kavehsarvarian.bandcamp.com/track/danza-de-rumi-dance-of-rumi · https://music.apple.com/us/song/1441315751 · https://open.spotify.com/track/035uzjvtdqkVpQYBEv5Etk
+- Danza folclórica (Q2jd6nh) · https://kavehsarvarian.bandcamp.com/track/danza-folcl-rica · https://music.apple.com/us/song/963055290 · https://open.spotify.com/track/45QQiUjp1zrxzhCgeg6hQ5
+- Dashti Fantasy (Cloudy Feeling) (Qrfaz8k) · https://www.youtube.com/watch?v=8E_aySt15TU
+- Dashti Fantasy (Qtr6fgn) · https://kavehsarvarian.bandcamp.com/track/dashti-fantasy · https://music.apple.com/us/song/490472190 · https://open.spotify.com/track/11BoossCJkMWs8gWyPd3dF
+- Davaran (feat. Kaveh Sarvarian, Amin Taheri & Ali Poornegahban) (Qb99sq9) · https://music.apple.com/us/album/davaran-feat-kaveh-sarvarian-amin-taheri-ali-poornegahban/565879101
+- Destinos (Qxe3bw3) · https://music.apple.com/us/song/1859539043 · https://music.apple.com/us/album/destinos-single/1859539042 · https://open.spotify.com/album/2MjosDOSwIg1I7jyggIry6 · https://open.spotify.com/track/5BVg7IBOFeBk1mxpgkJzn4
+- Dey Balal (Qny8snh) · https://kavehsarvarian.bandcamp.com/track/dey-balal · https://music.apple.com/us/song/548566598 · https://open.spotify.com/track/0s09tLlz0YGCHTKjbUPLAw
+- Donyaye Varoon, Persian Classical Song Arranged for orchestra (Qmm57mv) · https://www.youtube.com/watch?v=NeV6u3aEplA
+- Dúo Ofogh Cerro Gallinero 1 (Qrft5c3) · https://www.youtube.com/watch?v=2WTLMACWqv0
+- East meet East (Qt5xymk) · https://kavehsarvarian.bandcamp.com/track/east-meet-east · https://music.apple.com/us/song/1680672446 · https://open.spotify.com/track/3Gq1GIfeCCJOKid0Mdtjc2
+- Eastern Love (Qbnwq2m) · https://kavehsarvarian.bandcamp.com/track/eastern-love · https://music.apple.com/us/song/490471905 · https://open.spotify.com/track/7f0AJ7hpqnaybdUoqf3UIu
+- Ebony old Flute improvisation in Dashti (Persian mode) (Qv394nd) · https://www.youtube.com/watch?v=eiO5ZVmKJT8
+- El rai de Bouazizi (Qdgg8gj) · https://darawish.bandcamp.com/track/el-rai-de-bouazizi · https://music.apple.com/us/song/el-rai-de-bouazizi/1495102499
+- En el camino del desierto (In the Desert Path) (Qrk3g3h) · https://kavehsarvarian.bandcamp.com/track/en-el-camino-del-desierto-in-the-desert-path · https://music.apple.com/us/song/1441315570 · https://open.spotify.com/track/7qXpWV05sFe7AwlcfrnUbt
+- Epic of Gilgamesh Trilogy - I. Uruk (Q48rg5h) · https://open.spotify.com/track/1qdV4kbD8dZKPv1ZxuL9P1
+- Esfahan y Granada (Qe4ek7s) · https://www.youtube.com/watch?v=hOMhEIVZrns
+- Every One's Land (Qvvn6bg) · https://kavehsarvarian.bandcamp.com/track/every-ones-land · https://music.apple.com/us/song/1753205578
+- Exhausting rout (Q3sz9re) · https://kavehsarvarian.bandcamp.com/track/exhausting-rout · https://music.apple.com/us/song/1680672445 · https://open.spotify.com/track/0MWlKAXnzgf0J8YSSmVoda
+- Ey Mahe Man / Luna Mía (Qk63vjr) · https://soundcloud.com/kaveh-sarvarian/ey-mahe-man-luna-m-a
+- Fiesta baluchi (Baluchian Party) (Qjvfp5d) · https://kavehsarvarian.bandcamp.com/track/fiesta-baluchi-baluchian-party · https://music.apple.com/us/song/1441315754 · https://open.spotify.com/track/11ajWG0dY5qgKjmeLLaJxG
+- Flute Piano (Three persian songs3) "bahare delkash" (Qftpvc2) · https://www.youtube.com/watch?v=_RVNtQtC5fo
+- Flute free improvisation (Qe8ewyp) · https://www.youtube.com/watch?v=RF3eaiUiHcE
+- Flute piano "Three persian songs1" (Qenwq7k) · https://www.youtube.com/watch?v=qlvilGPkXvY
+- Flute solo Parsinava concert (Qpkvj79) · https://www.youtube.com/watch?v=LNMXmKMuLrU
+- Folk Dance (Qvz38dz) · https://kavehsarvarian.bandcamp.com/track/folk-dance · https://music.apple.com/us/song/490472195 · https://open.spotify.com/track/2EZH7of97kQOLlpKhf7fmQ
+- Funky "B" (Qshvh2t) · https://open.spotify.com/track/1iuYSCxxNvV1uUoFJtEh62
+- Games (Qc4sge3) · https://open.spotify.com/track/7eXr7gttiPww6XMh19VaLY
+- Ghasem Abadi (Qcgqtjc) · https://kavehsarvarian.bandcamp.com/track/ghasem-abadi · https://music.apple.com/us/song/1753205579
+- Giro (Minimal Tonbak) (Qrx46xb) · https://soundcloud.com/kaveh-sarvarian/kaveh-tombak-01
+- Golondrinas volando Kaveh & Elyar Duo live in concert (Qdrv4z4) · https://www.youtube.com/watch?v=NUgpdP5iADw
+- Goosfand Khoon (Qyhyk3p) · https://www.youtube.com/watch?v=z6MhCVO19xw
+- Gousfand Khoun (Qxjy3vx) · https://kavehsarvarian.bandcamp.com/track/gousfand-khoun · https://music.apple.com/us/song/490472194 · https://open.spotify.com/track/6vhVHhInD8qArQml809htX
+- Green Desert (Qjvnq6x) · https://kavehsarvarian.bandcamp.com/track/green-desert · https://music.apple.com/us/song/1753205575
+- Green Desert (Qp68evb) · https://www.youtube.com/watch?v=_3ScbjQkZ7o
+- Haj Ghorban (Q259a6p) · https://open.spotify.com/track/1KdlHupQ3Pp4CWKSCrQSFt
+- Hames Bitar, Kaveh Sarvarian - Danza árabe (Qvrtg8c) · https://kavehsarvarian.bandcamp.com/track/danza-rabe · https://music.apple.com/us/song/963055284 · https://open.spotify.com/track/0DZNNxge9eBpbyZQebVfps
+- Hand In Hand (feat. Idin Sadeghzadeh) (Qsswv5d) · https://music.apple.com/us/album/hand-in-hand-feat-idin-sadeghzadeh/1752315936 · https://open.spotify.com/album/4dJ5FCr5gADZ98OfWVGj1q
+- Handpanistan, Kaveh & Elyar Duo 2026 (Qtvngbh) · https://www.youtube.com/watch?v=A4VclpMVE7w
+- Herman (Qyd7jyr) · https://kavehsarvarian.bandcamp.com/track/herman
+- Holum (Qnb355d) · https://kavehsarvarian.bandcamp.com/track/holum · https://music.apple.com/us/song/1680672443 · https://open.spotify.com/track/2dKqeoK2Kja8obPjjXfC2f
+- Homayoon, Improvisation of Persian Ney (Qcezzbn) · https://www.youtube.com/watch?v=VLUhH9R1cf0
+- Homayun Overtura (Qny8y7n) · https://soundcloud.com/kaveh-sarvarian/homayun-overtura
+- Hopeful mourning (Qzdexa3) · https://kavehsarvarian.bandcamp.com/track/hopeful-mourning · https://music.apple.com/us/song/1680672442 · https://open.spotify.com/track/3vsrpneVnZGB6xRK6UyatQ
+- Huzam II: Shargawi (Qnfr9js) · https://darawish.bandcamp.com/track/huzam-ii-shargawi · https://music.apple.com/us/song/huzam-ii-shargawi/1495102874
+- I Don't Belong to Any Religion (Q5tfsfb) · https://open.spotify.com/track/6ei1Y832npxRfw8MmY0IFM
+- In Between (Q285sps) · https://open.spotify.com/album/3Y8dVnvMGW5oiwAViA2bKL · https://elana-sasson.bandcamp.com/album/in-between
+- In the Desert Path (Qxenvpb) · https://www.youtube.com/watch?v=AqSCGqPEvpw
+- Isfahan & Granada (Qd9dj3e) · https://soundcloud.com/kaveh-sarvarian/isfahan-granada
+- KERESHMEH (Q2twpgq) · https://kavehsarvarian.bandcamp.com/album/kereshmeh · https://music.apple.com/us/album/kereshmeh-nueva-perspectiva-de-m%C3%BAsica-persa/1441315568 · https://open.spotify.com/album/5o7p1Kx8udghOT1OAD8xiI
+- Kahgel (Qxvf3j8) · https://music.apple.com/us/album/kahgel/1154431065 · https://open.spotify.com/album/1cYIsIHbYWHa97iSyBMycd
+- Kaveh Sarvarian & Jesús Gutiérrez - Aman aman / Lamento (Q5ge2yg) · https://kavehsarvarian.bandcamp.com/track/aman-aman-lamento · https://music.apple.com/us/song/948408499 · https://open.spotify.com/track/3Di42bEKvWAKYf7aiQ3jai
+- Kaveh Sarvarian & Jesús Gutiérrez - Ey mahe man / Luna mía (Qbexf74) · https://kavehsarvarian.bandcamp.com/track/ey-mahe-man-luna-m-a · https://music.apple.com/us/song/948408507 · https://open.spotify.com/track/1YOcCVCjdFqEjZfiwrxlm4
+- Kaveh Sarvarian & Jesús Gutiérrez - Museme tarab / Temporada de alegría (Qggkw3e) · https://kavehsarvarian.bandcamp.com/track/museme-tarab-temporada-de-alegr-a · https://music.apple.com/us/song/948408506 · https://open.spotify.com/track/5hPXQNncBp4QjTa2gYZn9t
+- Kaveh Sarvarian & Jesús Gutiérrez - Yare man / Mi amor (Qbzzxh2) · https://kavehsarvarian.bandcamp.com/track/yare-man-mi-amor · https://music.apple.com/us/song/948408497 · https://open.spotify.com/track/1OyBApzu3JlihJSUre2S16
+- Kaveh Sarvarian & Pedram Khosravi - Bistún (Qnjrmrs) · https://kavehsarvarian.bandcamp.com/track/bist-n · https://music.apple.com/us/song/963055287 · https://open.spotify.com/track/5ISyv7npiDKulIQFWken71
+- Kaveh Sarvarian and Zoobazar Band in live concert (Qdmb66a) · https://www.youtube.com/watch?v=3er9eBQCf8U
+- Kaveh Sarvarian with Ana Alcaíde (Q78ve4g) · https://www.youtube.com/watch?v=0Wfgk4O3SHE
+- Kaveh Sarvarian y Jesús Gutiérrez - Khiale ruye to / Tu imagen siempre en mi pensamiento (Qkz94k9) · https://kavehsarvarian.bandcamp.com/track/khiale-ruye-to-tu-imagen-siempre-en-mi-pensamiento · https://music.apple.com/us/song/948408496 · https://open.spotify.com/track/6eW2qfIIS2PZ4fzjBrNrgf
+- Kaveh Sarvarian, Hamzeh Yeganeh & Mahan Mirarab - Sol del sur (Qnqwkh8) · https://kavehsarvarian.bandcamp.com/track/sol-del-sur · https://music.apple.com/us/song/963055288 · https://open.spotify.com/track/08ezt9bzP4kTZGz6R3ZTla
+- Kaveh Sarvarian, Jesús Gutiérrez y Pedram Khosravi - Gol va Khak / Flor y tierra (Qdrjjed) · https://kavehsarvarian.bandcamp.com/track/gol-va-khak-flor-y-tierra · https://music.apple.com/us/song/948408505 · https://open.spotify.com/track/5R6r1cyOLU2Ln3PSe4zdUm
+- Kaveh Sarvarian, Jesús Gutiérrez y Pedram Khosravi - Nava (Qws6cje) · https://kavehsarvarian.bandcamp.com/track/nava · https://music.apple.com/us/song/948408498 · https://open.spotify.com/track/6ripbyGmyKXOn3pIZTCgZx
+- Kavir(contemporary Ney 01) (Qjknpvn) · https://soundcloud.com/kaveh-sarvarian/contemporary-ney-01
+- Kereshmeh (Q2gdktq) · https://kavehsarvarian.bandcamp.com/track/kereshmeh · https://music.apple.com/us/song/1441315755 · https://open.spotify.com/track/6fEOUbxJuF314KMlqAwB6u
+- Kereshmeh Performance (Q2xzw3q) · https://www.youtube.com/watch?v=X6nbaB3IEBc
+- Kereshmeh Performance (Qpkz5t2) · https://www.youtube.com/watch?v=ZlFNyN8SzQY
+- Kereshmeh Performance 2024 (Q8a4x39) · https://www.youtube.com/watch?v=NRuYV1BCHt0
+- Kereshmeh Performance Córdoba (Qtk835d) · https://www.youtube.com/watch?v=Bn3KE_MeDNk
+- Kereshmeh Performance in BBC program part 1 (Qj6pvka) · https://www.youtube.com/watch?v=a2pq8FYGdBU
+- Kereshmeh Performance in BBC program part 2 (Qkdxnah) · https://www.youtube.com/watch?v=6gzls1OkMp8
+- Kereshmeh Performance in Valencia (Q8e7xwe) · https://www.youtube.com/watch?v=ZXu2A9HHyew
+- Khiale Ruye To, Persian fusion (Qnxfzfj) · https://www.youtube.com/watch?v=jaTCsu19Bco
+- Kooch (Q7fma2g) · https://kavehsarvarian.bandcamp.com/track/kooch · https://music.apple.com/us/song/1753205573
+- Kurdish Song Parsinava live in concert (Qhz4xkz) · https://www.youtube.com/watch?v=F61auQGtY_Q
+- Kuzeh,Tombak,Dayere (Qzysm3j) · https://soundcloud.com/kaveh-sarvarian/kuzeh-tombak-dayere
+- La ruta de las especias: En compañía de Kaveh Sarvarian (Q488285)
+- La ruta de las especias: Maravillas de Persia (Qj4d5q6)
+- Lamento, Persian fusion in Dashti mode (Qpcmree) · https://www.youtube.com/watch?v=BNOvsKXwMqE
+- Land of Fire (Qs3yxyh) · https://kavehsarvarian.bandcamp.com/track/land-of-fire · https://music.apple.com/us/song/1753205570
+- Last dance in Kabul (Q627crx) · https://kavehsarvarian.bandcamp.com/track/last-dance-in-kabul · https://music.apple.com/us/song/1680672448 · https://open.spotify.com/track/79IMuSrNTRPwz1JqMlgTuD
+- Let's Play (Qfzqdds) · https://open.spotify.com/track/6Tg7w3tUviKfxpjqdqDzlf
+- Live at Radio cafe in Vienna (Oe1) (Q5zfkfp) · https://www.youtube.com/watch?v=PSNQYYNlksA
+- Loop Cake in Eb Major (Q6mbesc) · https://www.youtube.com/watch?v=3MyBfUUNsbQ
+- Looping at home 1, Improvisation in Persian music (Qpwhyrm) · https://www.youtube.com/watch?v=1SR6ktl9J5o
+- Luna for Flute solo (Qx5bnwt) · https://www.youtube.com/watch?v=hpMSWPoZnZY
+- Madar (Qvdh6mq) · https://darawish.bandcamp.com/album/madar · https://music.apple.com/us/album/madar/1495102490
+- Madar at Casa Árabe, Madrid (Qah2gh2) · https://www.youtube.com/watch?v=K9MZJP_Jy1U · https://www.youtube.com/watch?v=0dCOWNrLQXo
+- Mahoor for Setar and Tombak (Qym6xnb) · https://www.youtube.com/watch?v=X0b9R8CrMAo
+- Meju (kordish song) (Qm8fezm) · https://www.youtube.com/watch?v=zKQWJo43kGI
+- Meykhaneh, Trio Saher (Q7a35az) · https://www.youtube.com/watch?v=myc8XQtEkR8
+- Migration (Qsmxqqm) · https://open.spotify.com/track/22a1wbI2borK29Zn3kcEzO
+- Moghadame Homayun (Qsa97px) · https://kavehsarvarian.bandcamp.com/track/moghadame-homayun
+- Moonlight Sky (Qfr9hv2) · https://kavehsarvarian.bandcamp.com/album/moonlight-sky
+- Moonlight, Sky (Qbrsxnf) · https://kavehsarvarian.bandcamp.com/track/moonlight-sky
+- Morghe Sahar (Q4x8zds) · https://kavehsarvarian.bandcamp.com/track/morghe-sahar · https://music.apple.com/us/song/548566606 · https://open.spotify.com/track/0OCBFba5SChi6bPIU6i1jh · https://soundcloud.com/kaveh-sarvarian/morghe-sahar
+- Mori (Qvrp2tz) · https://open.spotify.com/track/6bJbsavAP4MSgvykG45C1q
+- Mouseme Gol (Season of flowers) (Qvyfey8) · https://soundcloud.com/kaveh-sarvarian/mouseme-gol-season-of-flowers
+- Music in Nature No. 3, Charmezrab Homayoon Persian Ney (Qh8bj2c) · https://www.youtube.com/watch?v=oNMAAd5onEc
+- Music in Nature No.1, Dey Balal, Flute solo in Dashti (Qgf7pst) · https://www.youtube.com/watch?v=IeaTX1mKr-4
+- Music in Nature No.2, Tasnif Nava, Ney solo (Qvjzep4) · https://www.youtube.com/watch?v=dtceSTxEknM
+- Naima Persian Jazz Band (Qd4m33y) · https://www.youtube.com/watch?v=7fMo5VpzFN0
+- Nerges (Q8gxtrg) · https://open.spotify.com/track/0q4nR9CMQg48qkMY5ahwsI · https://elana-sasson.bandcamp.com/track/nerges
+- Ney & Daf Persian Music (Qs7zc27) · https://www.youtube.com/watch?v=6nZMy4yymEA
+- Ney - Persian Ney and Sinouj Band at Bogui Jazz (Qqbqmqy) · https://www.youtube.com/watch?v=_IEyTvP5880
+- Ney Improvisation - Kaveh Sarvarian in Abu Ata (Qjeh3es) · https://www.youtube.com/watch?v=PWepL-LzWgk
+- Ney Improvisation in Esfahan mode (bayat Shirz) (Q3abeje) · https://www.youtube.com/watch?v=Q-4xm1UKNI8
+- Ney Loop, Shour (Qzqqaqc) · https://www.youtube.com/watch?v=Bgs1SQ-BIh8
+- Ney Solo (Qeq3f5v) · https://kavehsarvarian.bandcamp.com/track/ney-solo
+- Ney Solo at the concert of  Lucky Cops band (Qwpdfe4) · https://www.youtube.com/watch?v=VQ0YRiYW8rI
+- Ney Solo with natural reverb (Qqaq8sa) · https://www.youtube.com/watch?v=QmjrkxS_8NE
+- Ney improvisation in Homayoun by Persian Ney master Kaveh Sarvarian (Qdh53ga) · https://www.youtube.com/watch?v=uWY9Qs45F0o
+- Ney loop Bidad (Q4vwwcw) · https://soundcloud.com/kaveh-sarvarian/ney-loop-bidad
+- Ney solo Chaharmezrab in Segah (Qmhwmhw) · https://www.youtube.com/watch?v=wEJ31CAQxpk
+- Ney solo in Shushtari.  ‎ (Qdhyzsj) · https://www.youtube.com/watch?v=jv8LNRE74jg
+- Ney solo مرکب نوازی (Qp5s7xj) · https://www.youtube.com/watch?v=p9l3LhkQ2aA
+- Ney, Avaz (Q7vxg88) · https://kavehsarvarian.bandcamp.com/track/ney-avaz
+- Noh Zarbi (Qsk4rde) · https://kavehsarvarian.bandcamp.com/track/noh-zarbi
+- OFOGH (Qyvkm3s) · https://kavehsarvarian.bandcamp.com/album/ofogh · https://music.apple.com/us/album/ofogh/948408490 · https://open.spotify.com/album/2xDoJUpNl4R1ZrQO1slA9t
+- Ofogh Band, Persian-Spanish fusion (Qqp4j26) · https://www.youtube.com/watch?v=QIH_WhosdCI
+- One minute Tombak solo No. 3 (Qbz7cpr) · https://www.youtube.com/watch?v=Jy3_MxHz7Dw
+- PARISAN (Qnwv5c2) · https://kavehsarvarian.bandcamp.com/album/parisan · https://music.apple.com/us/album/parisan-quartet-for-neys/548566586 · https://open.spotify.com/album/7vj97hLyIaeoBFy2j5rBHa
+- PARVAAZ- New Persian Music, Dance & Poetry (Qpa4a35) · https://www.youtube.com/watch?v=IMEdT48lx-Q
+- Pablo Hernández & Kaveh Sarvarian - Fiesta persa (Q2nj7y5) · https://kavehsarvarian.bandcamp.com/track/fiesta-persa · https://music.apple.com/us/song/963055289 · https://open.spotify.com/track/5k4mEmjbQV5c6we1nanUjn
+- Pablo Hérnández & Kaveh Sarvarian - Pire farzane (Q3xk98t) · https://kavehsarvarian.bandcamp.com/track/pire-farzane · https://music.apple.com/us/song/963055273 · https://open.spotify.com/track/37AnHNsC3dHPPnELhSmSle
+- Palos persas, Kereshmeh Bulería Persa (Qfynxag) · https://www.youtube.com/watch?v=AJUAbXeooWU
+- Pandero, Dayere (Q64ctm2) · https://soundcloud.com/kaveh-sarvarian/pandero-dayere
+- Parisan (Qvhzqfg) · https://kavehsarvarian.bandcamp.com/track/parisan · https://music.apple.com/us/song/548566593 · https://open.spotify.com/track/0EOHvgTgmXMWpbYZGaUdZA
+- Parsinava (Persian fusion jazz band) live in Madrid, Clip 3 (Qr3zz6k) · https://www.youtube.com/watch?v=FbrmCVfHinQ
+- Parsinava Bidad   2024 El Intruso (Qkxzem9) · https://www.youtube.com/watch?v=e-rL6xpoKWw
+- Parsinava Persian Fusion Jazz Band (Q65fxw5) · https://www.youtube.com/watch?v=fQ7hmQq65jg
+- Parsinava making of (Qdmsw6m) · https://www.youtube.com/watch?v=iZhUN0i_OBg
+- Parsinava, Persian fusion jazz band, Tasnif Mahur (Qse2hvj) · https://www.youtube.com/watch?v=Ugrryq67yTA
+- Parvaaz (Qekj7jh) · https://www.youtube.com/watch?v=3q3n75dCGYI
+- Parvaaz, Persian classical music & dance (Qqxf26p) · https://www.youtube.com/watch?v=pash7Y6ck2U
+- Pass the Pain (Qdwbzmr) · https://kavehsarvarian.bandcamp.com/track/pass-the-pain · https://music.apple.com/us/song/1753205572
+- Penhan, Persian Clasical Song Arranged for Orchestra (Qpqb9wk) · https://www.youtube.com/watch?v=WRtVZO3lvvM
+- Permanent Leave (Qf4f39h) · https://open.spotify.com/track/6MFxNmqRv0KTKHERXNqPlu
+- Persarab (Q9p4z7p) · https://darawish.bandcamp.com/track/persarab · https://music.apple.com/us/song/persarab/1495102495 · https://www.youtube.com/watch?v=v_VEBFXrll8
+- Persian Jazz Fusion with Ney  - BIDAD (Qtgnryq) · https://www.youtube.com/watch?v=O011y00z5nA
+- Persian Rug (Qvqfqdc) · https://kavehsarvarian.bandcamp.com/album/persian-rug · https://music.apple.com/us/album/persian-rug-persian-contemporary-music/490471904 · https://open.spotify.com/album/1YoobfCStIszxFCzHvfSQS
+- Persian Tribal house live (Qm8jwv3) · https://www.youtube.com/watch?v=WA2VtoCkQ4U
+- Persian classical music, Ney solo (Qxp4sqn) · https://www.youtube.com/watch?v=eVk3vlUM95c
+- Persian music improving with chalumeau (Q4qnpkc) · https://www.youtube.com/watch?v=915Tn0qaMZI
+- Persian sufi concert, Nasime Saba (Qph8qff) · https://www.youtube.com/watch?v=hMPR6ta9jSU
+- Persépolis (feat. Pablo Hernández Ramos) (Qr724gs) · https://music.apple.com/us/song/963055277 · https://open.spotify.com/track/3kkEhoumVZw1b0L68udAd3
+- Pishdaramad Shur (Qymba4s) · https://kavehsarvarian.bandcamp.com/track/pishdaramad-shur
+- Prabhuji (Qn5xvhy) · https://open.spotify.com/album/3Rt412surGaSH2vZKkHVQq
+- Prelude to Nerges (Qtgmws9) · https://open.spotify.com/track/3yZbwdtlTAiTO4pKZShLxL · https://elana-sasson.bandcamp.com/track/prelude-to-nerges
+- Preludio para Marta (Qbzsve7) · https://www.youtube.com/watch?v=Q5cnTuvnCJU
+- Rag O Risheh (Q6v3wtm) · https://music.apple.com/us/album/rag-o-risheh/1112020536 · https://open.spotify.com/album/3WecO6eefiedTH4auu0IJ2 · https://open.spotify.com/album/0DCdUL9mfTY06F0GjNUq5U · https://music.apple.com/us/album/rag-o-risheh/1727012213
+- Renge Mahoor (Darvish Khan) arranged by Kaveh Sarvarian (Qdw3cnf) · https://www.youtube.com/watch?v=JjxCEBeOvV8
+- Renge Mahoor (Q8rc6ev) · https://kavehsarvarian.bandcamp.com/track/renge-mahoor · https://music.apple.com/us/song/548566607 · https://open.spotify.com/track/2wrnclhLLVeBH7wr8bG6Cn
+- Resonance of Nava, Kaveh & Elyar Duo (Qc6q3f8) · https://www.youtube.com/watch?v=PDb6uZnhVhU
+- Sari Gelin (Qtjnaq4) · https://kavehsarvarian.bandcamp.com/track/sari-gelin · https://music.apple.com/us/song/1441315756 · https://open.spotify.com/track/4o9OsOfndOAscXhtNvgQtN
+- Sarvarian & Wasserman Duo (Qvxd5rn) · https://www.youtube.com/watch?v=zoCQPymvyDs
+- Scream of the Ney (Qbqs9an) · https://kavehsarvarian.bandcamp.com/track/scream-of-the-ney · https://music.apple.com/us/song/548566597 · https://open.spotify.com/track/3ejuvFDLQ2ybkQ2fXiCMil
+- Shabe Rendan (Q78twnw) · https://kavehsarvarian.bandcamp.com/track/shabe-rendan
+- Shushtari Doce, Kaveh & Elyar Duo live at Singading (Qwdxb9f) · https://www.youtube.com/watch?v=V2R-6mJUyLs
+- Shushtari Ney solo (Qsvjfbj) · https://www.youtube.com/watch?v=0gZkJxLw5a0
+- Shushtari, with Sinouj band at Cafe Berlin, Madrid (Qyvkk84) · https://www.youtube.com/watch?v=9JFEJI5aBnc
+- Solo of Persian Ney  from the Parsinava band live concert (Qr65aeb) · https://www.youtube.com/watch?v=QMy0vsyFszA
+- Sonido del cañaveral (The Sound of Reedbed) (Q4ffkrk) · https://kavehsarvarian.bandcamp.com/track/sonido-del-can-averal-the-sound-of-reedbed · https://music.apple.com/us/song/1441315752 · https://open.spotify.com/track/4pqw5aplaevknoRmdqTEFJ
+- Sonido del oriente (Qsqren9) · https://kavehsarvarian.bandcamp.com/album/sonido-del-oriente · https://music.apple.com/us/album/sonido-del-oriente/963055053 · https://open.spotify.com/album/2ML4bIN8ar9PWd0rx5MsQ1
+- Sueño persa (Persian Dream) (Qexq3nf) · https://kavehsarvarian.bandcamp.com/track/suen-o-persa-persian-dream · https://music.apple.com/us/song/1441315753 · https://open.spotify.com/track/4E92GM1hPtvWF6ckpWxmRn
+- Sueño persa, Kereshmeh project Rehearsal (Qntsexh) · https://www.youtube.com/watch?v=DffJL-8dLos
+- Tanbour & Percussion (Qe54s7e) · https://www.youtube.com/watch?v=_r0qb8mvYCM
+- Tasnif Birjandi (Qx2n283) · https://kavehsarvarian.bandcamp.com/track/tasnif-birjandi · https://music.apple.com/us/song/548566596 · https://open.spotify.com/track/7oF2Y4mhY40LPE741PNQPk
+- Tasnif in Shur with Loop Station (Qjey6e3) · https://www.youtube.com/watch?v=RH4LIp7fAag
+- Teasing the King (Qy63m3n) · https://open.spotify.com/track/66FaVyrfvRVxr2KdKh0wcN
+- The Hidden Tear (Q9dyar8)
+- The Reedbed Sound from Kereshmeh performance (Q5rkjxp) · https://www.youtube.com/watch?v=4qYvUs7-7eI
+- The city of jasmine (Qgsd8r2) · https://kavehsarvarian.bandcamp.com/track/the-city-of-jasmine · https://music.apple.com/us/song/1680672447 · https://open.spotify.com/track/347cWkuVfXntHSxSgmUQC8
+- The old man of the mountain (Qwr42td) · https://kavehsarvarian.bandcamp.com/track/the-old-man-of-the-mountain · https://music.apple.com/us/song/1680672440 · https://open.spotify.com/track/3G1cLD2Z30LCYH2TdY16lu
+- Three Persian Pieces, 1 Fantasy (Qj3mvf3) · https://kavehsarvarian.bandcamp.com/track/three-persian-pieces-1-fantasy · https://music.apple.com/us/song/490472191 · https://open.spotify.com/track/1ZMuZaSRgfWY90jzofnNuD
+- Three Persian Pieces, 2 Mouseme Gol (Q73hqvc) · https://kavehsarvarian.bandcamp.com/track/three-persian-pieces-2-mouseme-gol · https://music.apple.com/us/song/490472192 · https://open.spotify.com/track/29m4Z9U0xKR8kRxCcr6b55
+- Three Persian Pieces, 3 Bahare Delkash (Qnybc5q) · https://kavehsarvarian.bandcamp.com/track/three-persian-pieces-3-bahare-delkash · https://music.apple.com/us/song/490472193 · https://open.spotify.com/track/4eGqPllS4x214H9u60wC3Q
+- Three persian songs(2)-museme gol.mp4 (Qvdfscd) · https://www.youtube.com/watch?v=4_1IJIKuiJ0
+- Tombak Breeze (Quartet for Tombak) (Qjmakcm) · https://soundcloud.com/kaveh-sarvarian/tombak-contemporary
+- Tombak Improvisation - Folkloric Style of Tombak (Q2mzttd) · https://www.youtube.com/watch?v=nksXmRqGyMg
+- Tombak solo (Q9gv3bs) · https://www.youtube.com/watch?v=TTk3_Wax6qY
+- Tombak solo 21 beats (Q4h5c8s) · https://www.youtube.com/watch?v=o87arRMmfIE
+- Traditional Persian Music Improvisation with Ney  Kaveh Sarvarian (Q6bh2q5) · https://www.youtube.com/watch?v=6LXn2xw0Dk8
+- Traditional Persian music in fusion with Indian Classical music – Dúo Aine (Qvedhjt) · https://www.youtube.com/watch?v=t51qyvKf8JU
+- Vagrant (Qr4m4dy) · https://kavehsarvarian.bandcamp.com/track/vagrant · https://music.apple.com/us/song/1753205576
+- Wedding night in Baghdad (Q7a4ysj) · https://kavehsarvarian.bandcamp.com/track/wedding-night-in-baghdad · https://music.apple.com/us/song/1680672449 · https://open.spotify.com/track/704MlONJM7O241P2DL3Xxy
+- When The sun Rises (Qsrsqsd) · https://kavehsarvarian.bandcamp.com/album/when-the-sun-rises · https://music.apple.com/us/album/when-the-sun-rises/1680672439 · https://open.spotify.com/album/0l7h6hTxg7o5FnZExqjjh9
+- World Fusion - Fiesta persa (Q6f9zvd) · https://www.youtube.com/watch?v=OBQmmKf3OjU
+- World Fusion - Green Desert by Naima Persian Jazz Band (Qvgq7c6) · https://www.youtube.com/watch?v=XyAIzkT_c-w
+- World Fusion - Kurdish Dance (Qj2xxvd) · https://www.youtube.com/watch?v=qDTI8zjGhWU
+- World Fusion - Persian Folk Jazz :Ghasemabadi" (Q4cvqvv) · https://www.youtube.com/watch?v=iArd5nc0-9Y
+- World Fusion - the Ancient Path (Qqe4985) · https://www.youtube.com/watch?v=I6H8sfFGltc
+- YARAN ENSEMBLE, Chahargah Song (Qmd888s) · https://www.youtube.com/watch?v=e5I_ncB6COM
+- YARAN ENSEMBLE, Homayoun Song (Q57sm9k) · https://www.youtube.com/watch?v=36ApuzcZ6L4
+- YARAN ENSEMBLE, Isfahan Song (Q8sn9dg) · https://www.youtube.com/watch?v=MWhqiMu7Iu4
+- Yaran Ensamble, Valencia (Qmvp84m) · https://www.youtube.com/watch?v=mClI6CJVHC0
+- Zambra Roja (feat. Luis Davila & Kaveh Sarvarian) (Qcj7fg8) · https://music.apple.com/us/song/1769047426 · https://music.apple.com/us/album/zambra-roja-feat-luis-davila-kaveh-sarvarian-single/1769047425
+- Zarbi Chargah (Qhr2krt) · https://kavehsarvarian.bandcamp.com/track/zarbi-chargah · https://music.apple.com/us/song/548566602 · https://open.spotify.com/track/0hJLolZaOJ9GuuYEDNOi2u
+- fea. Pakete (Guitarra) & Bandolero (Cajón) - Isfahan y Granada (Q66g88c) · https://kavehsarvarian.bandcamp.com/track/isfahan-y-granada · https://music.apple.com/us/song/963055278 · https://open.spotify.com/track/1MllcuS96FwA0tFYYoRjl1
+- “It Won’t Last”  (No quedará), Kaveh & Elyar Duo (Qz93rhe) · https://www.youtube.com/watch?v=SOnh4n6lHHs
+- East meets East (Live at Espacio Ronda, 23 June 2023) (Q6dw7ns) · https://www.youtube.com/watch?v=y_p_t-rO4GI
+- RITUAL Live on Stage 2022 (Ana Alcaide) (Qjtqbzm) · https://www.youtube.com/watch?v=YgldbsOlnz8
+- La Ruta de la Seda (Capella de Ministrers, album personnel) (Qca7bes) · https://music.apple.com/us/album/la-ruta-de-la-seda/1300580586
+- Cantigas de Santa María (Capella de Ministrers, album personnel) (Qbd7a4k) · https://music.apple.com/us/album/cantigas-de-santa-mar%C3%ADa/1548046419
+- El collar de la paloma (Capella de Ministrers, album personnel) (Qnth7e6) · https://music.apple.com/us/album/el-collar-de-la-paloma/1606954254
+- Ritual (Capella de Ministrers, album personnel) (Q4yz8sx) · https://music.apple.com/us/album/ritual/1846133720
+- Labu (Sinouj, album personnel) (Qkxjxcx) · https://sinouj.bandcamp.com/album/labu
+- Haj Ghorban (Feat. Kaveh Sarvarian & Alain Perez) (Qv2vbbe) · https://golnarmahantrio.bandcamp.com/track/haj-ghorban-feat-kaveh-sarvarian-alain-perez
+
+Booklets document ney and tombak for the four Capella de Ministrers albums listed above at album level. Track-level personnel need explicit documentation. Ana Alcaide’s 2022 Toledo stage recording is a different work from Capella’s 2025 studio album called Ritual. Sinouj’s official Labu issue and both Apple editions share the same seven-title program; its credits document Sarvarian on the album. The Andalusian Library catalogue holds Las Puertas de Oriente, with the original ensemble and director stated but with incomplete session personnel online; the musician credits his own participation in his Cardamom biography.
+- Las Puertas de Oriente (physical Andalusian Library edition) (Q3pypfv)

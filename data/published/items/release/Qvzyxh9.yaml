@@ -1,0 +1,75 @@
+id: Qvzyxh9
+type: release
+statements:
+  name:
+  - value:
+      text: Caravan of Exile
+      language: en
+    references:
+    - source: music.apple.com-us-song-1872784100
+      quote: ‎Caravan of Exile - Song with Lyrics by Jon Wasserman & Kaveh Sarvarian - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qy69pg7
+    references:
+    - source: music.apple.com-us-song-1872784100
+      quote: ‎Caravan of Exile - Song with Lyrics by Jon Wasserman & Kaveh Sarvarian - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://music.apple.com/us/song/1872784100
+    references:
+    - source: music.apple.com-us-song-1872784100
+      quote: ‎Caravan of Exile - Song with Lyrics by Jon Wasserman & Kaveh Sarvarian - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/caravan-of-exile-single/1872784099
+    references:
+    - source: music.apple.com-us-album-caravan-of-exile-single-1872784099
+      quote: ‎Caravan of Exile - Single - Album by Jon Wasserman & Kaveh Sarvarian - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/album/7DrDSO1qf3ygn1IuLQDxSt
+    references:
+    - source: open.spotify.com-album-7drdso1qf3ygn1iulqdxst
+      quote: Listen to Caravan of Exile - Single by Jon Wasserman | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/0JO3VSiO5ANjHQVyH1dXhV
+    references:
+    - source: open.spotify.com-track-0jo3vsio5anjhqvyh1dxhv
+      quote: Caravan of Exile - song and lyrics by Jon Wasserman, Kaveh Sarvarian | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/kaveh-sarvarian/caravan-of-exile
+    references:
+    - source: soundcloud.com-kaveh-sarvarian-caravan-of-exile
+      quote: Stream Caravan of Exile @ by Kaveh Sarvarian | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://www.youtube.com/watch?v=uu5q20yqE5A
+    references:
+    - source: www.youtube.com-watch-v-uu5q20yqe5a
+      quote: Caravan of Exile
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/66/01/9a/66019a40-99cd-5e60-ce83-70c227f45219/057914726427.png/600x600bb.webp
+    references:
+    - source: music.apple.com-us-song-1872784100
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/66/01/9a/66019a40-99cd-5e60-ce83-70c227f45219/057914726427.png/600x600bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original publisher artwork
+        language: en
+  release date:
+  - value:
+      date: '2026-01-28'
+    references:
+    - source: music.apple.com-us-song-1872784100
+      quote: January 28, 2026
+      accessed: '2026-11-21'
+      locator: Published date

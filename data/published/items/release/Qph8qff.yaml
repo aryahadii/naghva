@@ -1,0 +1,37 @@
+id: Qph8qff
+type: release
+statements:
+  name:
+  - value:
+      text: Persian sufi concert, Nasime Saba
+      language: en
+    references:
+    - source: www.youtube.com-watch-v-hmpr6ta9jsu
+      quote: Persian sufi concert, Nasime Saba
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qy69pg7
+    references:
+    - source: www.youtube.com-watch-v-hmpr6ta9jsu
+      quote: Persian sufi concert, Nasime Saba
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://www.youtube.com/watch?v=hMPR6ta9jSU
+    references:
+    - source: www.youtube.com-watch-v-hmpr6ta9jsu
+      quote: Persian sufi concert, Nasime Saba
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i.ytimg.com/vi/hMPR6ta9jSU/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-hmpr6ta9jsu
+      quote: https://i.ytimg.com/vi/hMPR6ta9jSU/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: Kaveh Sarvarian
+        language: en

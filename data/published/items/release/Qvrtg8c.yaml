@@ -1,0 +1,57 @@
+id: Qvrtg8c
+type: release
+statements:
+  name:
+  - value:
+      text: Hames Bitar, Kaveh Sarvarian - Danza árabe
+      language: en
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-danza-rabe
+      quote: Danza árabe | Hames Bitar, Kaveh Sarvarian | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qy69pg7
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-danza-rabe
+      quote: Danza árabe | Hames Bitar, Kaveh Sarvarian | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://kavehsarvarian.bandcamp.com/track/danza-rabe
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-danza-rabe
+      quote: Danza árabe | Hames Bitar, Kaveh Sarvarian | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/963055284
+    references:
+    - source: music.apple.com-us-song-963055284
+      quote: ‎Danza Árabe (feat. Hames Bitar) - Song with Lyrics by Kaveh Sarvarian - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/0DZNNxge9eBpbyZQebVfps
+    references:
+    - source: open.spotify.com-track-0dznnxge9ebpbyzqebvfps
+      quote: Danza Árabe (feat. Hames Bitar) - song and lyrics by Kaveh Sarvarian, Hames Bitar | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a0961287656_10.jpg
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-danza-rabe
+      quote: https://f4.bcbits.com/img/a0961287656_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Kaveh Sarvarian on Bandcamp
+        language: en
+  release date:
+  - value:
+      date: '2015-01-10'
+    references:
+    - source: music.apple.com-us-song-963055284
+      quote: January 10, 2015
+      accessed: '2026-11-21'
+      locator: Published date

@@ -1,0 +1,64 @@
+id: Qnwv5c2
+type: release
+statements:
+  name:
+  - value:
+      text: PARISAN
+      language: en
+    references:
+    - source: kavehsarvarian.bandcamp.com-album-parisan
+      quote: PARISAN | By Kaveh Sarvarian | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qy69pg7
+    references:
+    - source: kavehsarvarian.bandcamp.com-album-parisan
+      quote: PARISAN | By Kaveh Sarvarian | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  release type:
+  - value: album
+    references:
+    - source: kavehsarvarian.bandcamp.com-album-parisan
+      quote: PARISAN | By Kaveh Sarvarian | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://kavehsarvarian.bandcamp.com/album/parisan
+    references:
+    - source: kavehsarvarian.bandcamp.com-album-parisan
+      quote: PARISAN | By Kaveh Sarvarian | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/parisan-quartet-for-neys/548566586
+    references:
+    - source: music.apple.com-us-album-parisan-quartet-for-neys-548566586
+      quote: ‎Parisan (Quartet for Ney's) - Album by Kaveh Sarvarian - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/album/7vj97hLyIaeoBFy2j5rBHa
+    references:
+    - source: open.spotify.com-album-7vj97hlyiaeobfy2j5rbha
+      quote: Listen to Parisan (Quartet for Ney`s) - Album by Kaveh Sarvarian | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a0498665786_10.jpg
+    references:
+    - source: kavehsarvarian.bandcamp.com-album-parisan
+      quote: https://f4.bcbits.com/img/a0498665786_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Kaveh Sarvarian on Bandcamp
+        language: en
+  release date:
+  - value:
+      date: '2012-07-23'
+    references:
+    - source: music.apple.com-us-album-parisan-quartet-for-neys-548566586
+      quote: July 23, 2012
+      accessed: '2026-11-21'
+      locator: Published date

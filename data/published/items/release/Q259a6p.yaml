@@ -1,0 +1,37 @@
+id: Q259a6p
+type: release
+statements:
+  name:
+  - value:
+      text: Haj Ghorban
+      language: en
+    references:
+    - source: open.spotify.com-track-1kdlhupq3pp4cwkscrqsft
+      quote: Haj Ghorban - song and lyrics by Golnar & Mahan, Kaveh Sarvarian, Alain Pérez | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qy69pg7
+    references:
+    - source: open.spotify.com-track-1kdlhupq3pp4cwkscrqsft
+      quote: Haj Ghorban - song and lyrics by Golnar & Mahan, Kaveh Sarvarian, Alain Pérez | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://open.spotify.com/track/1KdlHupQ3Pp4CWKSCrQSFt
+    references:
+    - source: open.spotify.com-track-1kdlhupq3pp4cwkscrqsft
+      quote: Haj Ghorban - song and lyrics by Golnar & Mahan, Kaveh Sarvarian, Alain Pérez | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d0000b27303495515f97cddd38d6e95d8
+    references:
+    - source: open.spotify.com-track-1kdlhupq3pp4cwkscrqsft
+      quote: https://i.scdn.co/image/ab67616d0000b27303495515f97cddd38d6e95d8
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original publisher artwork
+        language: en

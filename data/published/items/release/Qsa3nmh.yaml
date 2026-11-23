@@ -1,0 +1,40 @@
+id: Qsa3nmh
+type: release
+statements:
+  name:
+  - value:
+      text: Biridak Ya Khaligi
+      language: en
+    references:
+    - source: open.spotify.com-track-4adujiq9rapbdldqpcfpor
+      quote: Biridak Ya Khaligi - song and lyrics by Vishnu Das A.D., Hames Bitar, Linda Alahmad, Prabhuji Mission, Kaveh Sarvarian
+        | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qy69pg7
+    references:
+    - source: open.spotify.com-track-4adujiq9rapbdldqpcfpor
+      quote: Biridak Ya Khaligi - song and lyrics by Vishnu Das A.D., Hames Bitar, Linda Alahmad, Prabhuji Mission, Kaveh Sarvarian
+        | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://open.spotify.com/track/4ADuJiq9RAPBDlDQpcfpOr
+    references:
+    - source: open.spotify.com-track-4adujiq9rapbdldqpcfpor
+      quote: Biridak Ya Khaligi - song and lyrics by Vishnu Das A.D., Hames Bitar, Linda Alahmad, Prabhuji Mission, Kaveh Sarvarian
+        | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d0000b27377e58017053872f8e1f1bf2e
+    references:
+    - source: open.spotify.com-track-4adujiq9rapbdldqpcfpor
+      quote: https://i.scdn.co/image/ab67616d0000b27377e58017053872f8e1f1bf2e
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original publisher artwork
+        language: en

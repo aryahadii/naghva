@@ -1,0 +1,57 @@
+id: Q5ge2yg
+type: release
+statements:
+  name:
+  - value:
+      text: Kaveh Sarvarian & Jesús Gutiérrez - Aman aman / Lamento
+      language: en
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-aman-aman-lamento
+      quote: Aman aman / Lamento | Kaveh Sarvarian & Jesús Gutiérrez | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qy69pg7
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-aman-aman-lamento
+      quote: Aman aman / Lamento | Kaveh Sarvarian & Jesús Gutiérrez | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://kavehsarvarian.bandcamp.com/track/aman-aman-lamento
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-aman-aman-lamento
+      quote: Aman aman / Lamento | Kaveh Sarvarian & Jesús Gutiérrez | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/948408499
+    references:
+    - source: music.apple.com-us-song-948408499
+      quote: ‎Aman Aman / Lamento - Song with Lyrics by Kaveh Sarvarian, Jesús Gutiérrez & Pedram Khosravi - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/3Di42bEKvWAKYf7aiQ3jai
+    references:
+    - source: open.spotify.com-track-3di42bekvwakyf7aiq3jai
+      quote: Aman Aman / Lamento - song and lyrics by Kaveh Sarvarian, Jesús Gutiérrez, Pedram Khosravi | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a2728179873_10.jpg
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-aman-aman-lamento
+      quote: https://f4.bcbits.com/img/a2728179873_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Kaveh Sarvarian on Bandcamp
+        language: en
+  release date:
+  - value:
+      date: '2014-10-29'
+    references:
+    - source: music.apple.com-us-song-948408499
+      quote: October 29, 2014
+      accessed: '2026-11-21'
+      locator: Published date

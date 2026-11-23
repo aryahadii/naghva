@@ -1,0 +1,57 @@
+id: Qy8k8dv
+type: release
+statements:
+  name:
+  - value:
+      text: Avaz Mahoor
+      language: en
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-avaz-mahoor
+      quote: Avaz Mahoor | By Kaveh Sarvarian | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qy69pg7
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-avaz-mahoor
+      quote: Avaz Mahoor | By Kaveh Sarvarian | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://kavehsarvarian.bandcamp.com/track/avaz-mahoor
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-avaz-mahoor
+      quote: Avaz Mahoor | By Kaveh Sarvarian | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/548566605
+    references:
+    - source: music.apple.com-us-song-548566605
+      quote: ‎Avaz-e Mahoor - Song with Lyrics by Kaveh Sarvarian - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/24iIpiGJWFXScowOvt4YFC
+    references:
+    - source: open.spotify.com-track-24iipigjwfxscowovt4yfc
+      quote: Avaz-e Mahoor - song and lyrics by Kaveh Sarvarian | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a0498665786_10.jpg
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-avaz-mahoor
+      quote: https://f4.bcbits.com/img/a0498665786_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Kaveh Sarvarian on Bandcamp
+        language: en
+  release date:
+  - value:
+      date: '2012-07-23'
+    references:
+    - source: music.apple.com-us-song-548566605
+      quote: July 23, 2012
+      accessed: '2026-11-21'
+      locator: Published date

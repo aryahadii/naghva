@@ -1,0 +1,37 @@
+id: Qvrp2tz
+type: release
+statements:
+  name:
+  - value:
+      text: Mori
+      language: en
+    references:
+    - source: open.spotify.com-track-6bjbsavap4msgvykg45c1q
+      quote: Mori - song and lyrics by Mahan Mirarab, Martin Berauer, Amir Wahba, Kaveh Sarvarian | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qy69pg7
+    references:
+    - source: open.spotify.com-track-6bjbsavap4msgvykg45c1q
+      quote: Mori - song and lyrics by Mahan Mirarab, Martin Berauer, Amir Wahba, Kaveh Sarvarian | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://open.spotify.com/track/6bJbsavAP4MSgvykG45C1q
+    references:
+    - source: open.spotify.com-track-6bjbsavap4msgvykg45c1q
+      quote: Mori - song and lyrics by Mahan Mirarab, Martin Berauer, Amir Wahba, Kaveh Sarvarian | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d0000b273cba14eb98054383dc47708a4
+    references:
+    - source: open.spotify.com-track-6bjbsavap4msgvykg45c1q
+      quote: https://i.scdn.co/image/ab67616d0000b273cba14eb98054383dc47708a4
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original publisher artwork
+        language: en
