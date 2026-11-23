@@ -1,0 +1,57 @@
+id: Qftc2de
+type: release
+statements:
+  name:
+  - value:
+      text: Glare
+      language: en
+    references:
+    - source: music.apple.com-us-album-glare-single-1698018221
+      quote: Glare
+      accessed: '2026-11-21'
+      locator: Track 1
+  performer:
+  - value: Qxxp9ab
+    references:
+    - source: music.apple.com-us-album-glare-single-1698018221
+      quote: Glare
+      accessed: '2026-11-21'
+      locator: Track 1
+  listen link:
+  - value: https://music.apple.com/us/song/glare/1698018222
+    references:
+    - source: music.apple.com-us-album-glare-single-1698018221
+      quote: https://music.apple.com/us/song/glare/1698018222
+      accessed: '2026-11-21'
+      locator: Canonical song URL
+  - value: https://soundkleckserecords.bandcamp.com/track/natch-nadjafi-glare-original-mix
+    references:
+    - source: soundkleckserecords.bandcamp.com-track-natch-nadjafi-glare-original-mix
+      quote: Natch Nadjafi - Glare (Original Mix)
+      accessed: '2026-11-21'
+      locator: Artist or label issue
+  - value: https://open.spotify.com/track/2BmHP32AVNSEA7OCUgc1LM
+    references:
+    - source: open.spotify.com-embed-album-4rkcefl0oy6xljypkqirjn
+      quote: spotify:track:2BmHP32AVNSEA7OCUgc1LM
+      accessed: '2026-11-21'
+      locator: Spotify exact track identifier
+  release date:
+  - value:
+      date: '2023-08-25'
+    references:
+    - source: soundkleckserecords.bandcamp.com-track-natch-nadjafi-glare-original-mix
+      quote: 25 Aug 2023 00:00:00 GMT
+      accessed: '2026-11-21'
+      locator: Release date
+  cover art:
+  - value: https://f4.bcbits.com/img/a0636845433_10.jpg
+    qualifiers:
+      credit:
+        text: Natch Nadjafi via Bandcamp
+        language: en
+    references:
+    - source: soundkleckserecords.bandcamp.com-track-natch-nadjafi-glare-original-mix
+      quote: https://f4.bcbits.com/img/a0636845433_10.jpg
+      accessed: '2026-11-21'
+      locator: Original release image

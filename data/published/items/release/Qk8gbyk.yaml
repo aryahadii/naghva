@@ -1,0 +1,51 @@
+id: Qk8gbyk
+type: release
+statements:
+  name:
+  - value:
+      text: ZAGROS
+      language: en
+    references:
+    - source: natchnadjafi.bandcamp.com-track-zagros
+      quote: ZAGROS
+      accessed: '2026-11-21'
+      locator: Artist or label issue
+  performer:
+  - value: Qxxp9ab
+    references:
+    - source: natchnadjafi.bandcamp.com-track-zagros
+      quote: ZAGROS
+      accessed: '2026-11-21'
+      locator: Artist or label issue
+  listen link:
+  - value: https://natchnadjafi.bandcamp.com/track/zagros
+    references:
+    - source: natchnadjafi.bandcamp.com-track-zagros
+      quote: ZAGROS
+      accessed: '2026-11-21'
+      locator: Artist or label issue
+  - value: https://soundcloud.com/natchnadjafi/zagros
+    references:
+    - source: soundcloud.com-natchnadjafi-zagros
+      quote: ZAGROS
+      accessed: '2026-11-21'
+      locator: Uploader’s original title
+  release date:
+  - value:
+      date: '2024-12-23'
+    references:
+    - source: natchnadjafi.bandcamp.com-track-zagros
+      quote: 23 Dec 2024 00:00:00 GMT
+      accessed: '2026-11-21'
+      locator: Release date
+  cover art:
+  - value: https://f4.bcbits.com/img/a4211037321_10.jpg
+    qualifiers:
+      credit:
+        text: Natch Nadjafi via Bandcamp
+        language: en
+    references:
+    - source: natchnadjafi.bandcamp.com-track-zagros
+      quote: https://f4.bcbits.com/img/a4211037321_10.jpg
+      accessed: '2026-11-21'
+      locator: Original release image
