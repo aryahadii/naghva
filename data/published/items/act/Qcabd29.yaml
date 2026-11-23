@@ -1,0 +1,39 @@
+id: Qcabd29
+type: act
+statements:
+  name:
+  - value:
+      text: Ensamble Didar
+      language: en
+    references:
+    - source: interfaz.cenart.gob.mx-video-musica-tradicional-iran-ensamble-didar
+      quote: Ensamble Didar
+      accessed: '2026-11-21'
+      locator: Concert ensemble
+  - value:
+      text: دیدار
+      language: fa
+    references:
+    - source: www.youtube.com-watch-v-2gvq8nwmhxo
+      quote: Persian Traditional Music, Didar Ensemble | دیدار، موسیقی سنتی ایرانی
+      accessed: '2026-11-21'
+      locator: Original video title
+  formation date:
+  - value:
+      date: '2011'
+    references:
+    - source: inba-mexico-didar-palacio-bellas-artes-2015
+      quote: creada en 2011 por el músico iraní Mehdi Moshtagh
+      accessed: '2026-11-21'
+      locator: Foundation
+  image:
+  - value: https://i.ytimg.com/vi/oH7NfODjPA8/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-oh7nfodjpa8
+      quote: https://i.ytimg.com/vi/oH7NfODjPA8/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original publisher image
+    qualifiers:
+      credit:
+        text: Mehdi Moshtagh
+        language: en

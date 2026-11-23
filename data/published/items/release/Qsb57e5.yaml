@@ -1,0 +1,17 @@
+id: Qsb57e5
+type: release
+statements:
+  name:
+  - value:
+      text: Solo Tar Nava (Auditorio Blas Galindo)
+      language: en
+    references:
+    - &id001
+      source: videoteca.cenart.gob.mx-canal-23-255759-2
+      quote: 13 00.55:54.028 --> 00.59:53.011 Solo Tar Nava
+      accessed: '2026-11-21'
+      locator: Canal 23 broadcast cue 13
+  performer:
+  - value: Qcabd29
+    references:
+    - *id001

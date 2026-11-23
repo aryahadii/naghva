@@ -1,0 +1,19 @@
+id: Qvvs2a2
+type: person
+statements:
+  name:
+  - value:
+      text: Manuel Mejía Armijo
+      language: en
+    references:
+    - &id001
+      source: videoteca.cenart.gob.mx-direccion-de-educacion-a-distancia-mw-20138
+      quote: Manuel Mejía Armijo, oud
+      accessed: '2026-11-21'
+      locator: Concert personnel
+  member of:
+  - value: Qcabd29
+    references:
+    - *id001
+    qualifiers:
+      role: oud

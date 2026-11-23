@@ -1,0 +1,17 @@
+id: Q2vsqd5
+type: release
+statements:
+  name:
+  - value:
+      text: Tasnif Mashrute (Auditorio Blas Galindo)
+      language: en
+    references:
+    - &id001
+      source: videoteca.cenart.gob.mx-canal-23-255759-2
+      quote: 4 00.09:35.012 --> 00.15:57.023 Tasnif Mashrute
+      accessed: '2026-11-21'
+      locator: Canal 23 broadcast cue 4
+  performer:
+  - value: Qcabd29
+    references:
+    - *id001

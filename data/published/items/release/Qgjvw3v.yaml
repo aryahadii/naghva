@@ -1,0 +1,26 @@
+id: Qgjvw3v
+type: release
+statements:
+  name:
+  - value:
+      text: Bot e Chin (Didar 2011–2016)
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-v0bvjkoy8gk
+      quote: Bot e Chin ..... Ali Akbar Sheyda
+      accessed: '2026-11-21'
+      locator: Ten-work retrospective, original end-credit description
+  performer:
+  - value: Qcabd29
+    references:
+    - *id001
+  contributor:
+  - value: Qdyjkxq
+    references:
+    - source: www.youtube.com-watch-v-v0bvjkoy8gk
+      quote: Bot e Chin ..... Ali Akbar Sheyda
+      accessed: '2026-11-21'
+      locator: Ten-work retrospective, original end-credit description
+    qualifiers:
+      role: composer
