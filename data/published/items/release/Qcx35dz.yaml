@@ -1,0 +1,57 @@
+id: Qcx35dz
+type: release
+statements:
+  name:
+  - value:
+      text: INTERFERENCE
+      language: en
+    references:
+    - source: flamingpines.bandcamp.com-track-interference
+      quote: INTERFERENCE
+      accessed: '2026-11-21'
+      locator: Recording heading
+  performer:
+  - value: Qyt2364
+    references:
+    - source: flamingpines.bandcamp.com-track-interference
+      quote: INTERFERENCE | Hadi Bastani | Flaming Pines
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://flamingpines.bandcamp.com/track/interference
+    references:
+    - source: flamingpines.bandcamp.com-track-interference
+      quote: INTERFERENCE | Hadi Bastani | Flaming Pines
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/interference/1527077654
+    references:
+    - source: music.apple.com-us-song-interference-1527077654
+      quote: ‎Interference - Song with Lyrics by Hadi Bastani - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/21OVTr11Q9eAXnjl9SyXam
+    references:
+    - source: open.spotify.com-track-21ovtr11q9eaxnjl9syxam
+      quote: Interference - song and lyrics by Hadi Bastani | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a3000533728_10.jpg
+    references:
+    - source: flamingpines.bandcamp.com-track-interference
+      quote: https://f4.bcbits.com/img/a3000533728_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Bandcamp · Flaming Pines
+        language: en
+  release date:
+  - value:
+      date: '2020-06-05'
+    references:
+    - source: flamingpines.bandcamp.com-track-interference
+      quote: released June 5, 2020
+      accessed: '2026-11-21'
+      locator: Published date

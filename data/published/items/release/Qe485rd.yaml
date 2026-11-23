@@ -1,0 +1,45 @@
+id: Qe485rd
+type: release
+statements:
+  name:
+  - value:
+      text: Lagan Way Take04
+      language: en
+    references:
+    - source: soundcloud.com-hadi-bastani-lagan-way-take04
+      quote: Lagan Way Take04
+      accessed: '2026-11-21'
+      locator: Recording heading
+  performer:
+  - value: Qyt2364
+    references:
+    - source: soundcloud.com-hadi-bastani-lagan-way-take04
+      quote: Stream Lagan Way Take04 by Hadi Bastani | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://soundcloud.com/hadi-bastani/lagan-way-take04
+    references:
+    - source: soundcloud.com-hadi-bastani-lagan-way-take04
+      quote: Stream Lagan Way Take04 by Hadi Bastani | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-ptm6PQbKGo46ykiA-MMJiBg-large.jpg
+    references:
+    - source: soundcloud.com-hadi-bastani-lagan-way-take04
+      quote: https://i1.sndcdn.com/artworks-ptm6PQbKGo46ykiA-MMJiBg-large.jpg
+      accessed: '2026-11-21'
+      locator: SoundCloud artwork metadata
+    qualifiers:
+      credit:
+        text: Hadi Bastani on SoundCloud
+        language: en
+  release date:
+  - value:
+      date: '2022-07-19'
+    references:
+    - source: soundcloud.com-hadi-bastani-lagan-way-take04
+      quote: '2022-07-19T13:09:00Z'
+      accessed: '2026-11-21'
+      locator: SoundCloud release or upload timestamp

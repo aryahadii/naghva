@@ -1,0 +1,27 @@
+id: Q4tk9hq
+type: release
+statements:
+  name:
+  - value:
+      text: intra.view
+      language: en
+    references:
+    - source: www.hadibastani.com-intraview
+      quote: intra.view
+      accessed: '2026-11-21'
+      locator: Recording heading
+  performer:
+  - value: Qyt2364
+    references:
+    - source: www.hadibastani.com-intraview
+      quote: intra.view — HADI BASTANI
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2018'
+    references:
+    - source: www.hadibastani.com-intraview
+      quote: '2018'
+      accessed: '2026-11-21'
+      locator: Performance date

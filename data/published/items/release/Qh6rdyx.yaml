@@ -1,0 +1,57 @@
+id: Qh6rdyx
+type: release
+statements:
+  name:
+  - value:
+      text: In The Club With Bob
+      language: en
+    references:
+    - source: noise-a-noise.bandcamp.com-track-hadi-bastani-in-the-club-with-bob
+      quote: In The Club With Bob
+      accessed: '2026-11-21'
+      locator: Recording heading
+  performer:
+  - value: Qyt2364
+    references:
+    - source: noise-a-noise.bandcamp.com-track-hadi-bastani-in-the-club-with-bob
+      quote: Hadi Bastani - In The Club With Bob | Various Artists | Noise à Noise
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://noise-a-noise.bandcamp.com/track/hadi-bastani-in-the-club-with-bob
+    references:
+    - source: noise-a-noise.bandcamp.com-track-hadi-bastani-in-the-club-with-bob
+      quote: Hadi Bastani - In The Club With Bob | Various Artists | Noise à Noise
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/65JuWImqROwMyJrZGbJ8qs
+    references:
+    - source: open.spotify.com-track-65juwimqrowmyjrzgbj8qs
+      quote: In the Club with Bob - song and lyrics by Hadi Bastani | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://www.youtube.com/watch?v=GPF-su3r-A8
+    references:
+    - source: www.youtube.com-watch-v-gpf-su3r-a8
+      quote: In the Club with Bob - YouTube
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a2148968487_10.jpg
+    references:
+    - source: noise-a-noise.bandcamp.com-track-hadi-bastani-in-the-club-with-bob
+      quote: https://f4.bcbits.com/img/a2148968487_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Bandcamp · Noise à Noise
+        language: en
+  release date:
+  - value:
+      date: '2020-09-04'
+    references:
+    - source: noise-a-noise.bandcamp.com-track-hadi-bastani-in-the-club-with-bob
+      quote: released September 4, 2020
+      accessed: '2026-11-21'
+      locator: Published date

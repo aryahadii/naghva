@@ -1,0 +1,45 @@
+id: Q684qf3
+type: release
+statements:
+  name:
+  - value:
+      text: Crickets Child Cat Crow
+      language: en
+    references:
+    - source: soundcloud.com-hadi-bastani-crickets-child-cat-crow
+      quote: Crickets Child Cat Crow
+      accessed: '2026-11-21'
+      locator: Recording heading
+  performer:
+  - value: Qyt2364
+    references:
+    - source: soundcloud.com-hadi-bastani-crickets-child-cat-crow
+      quote: Stream Crickets Child Cat Crow by Hadi Bastani | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://soundcloud.com/hadi-bastani/crickets-child-cat-crow
+    references:
+    - source: soundcloud.com-hadi-bastani-crickets-child-cat-crow
+      quote: Stream Crickets Child Cat Crow by Hadi Bastani | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-abP4wowrutBILMXr-3yMexw-large.jpg
+    references:
+    - source: soundcloud.com-hadi-bastani-crickets-child-cat-crow
+      quote: https://i1.sndcdn.com/artworks-abP4wowrutBILMXr-3yMexw-large.jpg
+      accessed: '2026-11-21'
+      locator: SoundCloud artwork metadata
+    qualifiers:
+      credit:
+        text: Hadi Bastani on SoundCloud
+        language: en
+  release date:
+  - value:
+      date: '2023-06-02'
+    references:
+    - source: soundcloud.com-hadi-bastani-crickets-child-cat-crow
+      quote: '2023-06-02T09:45:08Z'
+      accessed: '2026-11-21'
+      locator: SoundCloud release or upload timestamp

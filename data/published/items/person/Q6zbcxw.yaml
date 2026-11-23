@@ -1,0 +1,53 @@
+id: Q6zbcxw
+type: person
+statements:
+  name:
+  - value:
+      text: Maryam Sirvan
+      language: en
+    references:
+    - &id001
+      source: www.numduo.com-about
+      quote: Maryam Sirvan, born in 1986, is an Iranian sound artist, vocalist, and composer based in Calgary, Canada.
+      accessed: '2026-11-21'
+      locator: Maryam Sirvan biography
+  - value:
+      text: مریم سیروان
+      language: fa
+    references:
+    - *id001
+    editorial: true
+  birth date:
+  - value:
+      date: '1986'
+    references:
+    - *id001
+  member of:
+  - value: Qm4skc3
+    references:
+    - source: www.numduo.com-about
+      quote: Maryam Sirvan and Milad Bagheri in 2010, originally from northern Iran.
+      accessed: '2026-11-21'
+      locator: Duo biography
+  based in:
+  - value: Qdxbpzd
+    references:
+    - *id001
+  image:
+  - value: https://static.wixstatic.com/media/314fcf_c9672fbc36674cda9174fde59461b66c~mv2.jpg
+    references:
+    - source: www.numduo.com-about
+      quote: https://static.wixstatic.com/media/314fcf_c9672fbc36674cda9174fde59461b66c~mv2.jpg
+      accessed: '2026-11-21'
+      locator: Named artist biography, full source photograph
+    qualifiers:
+      credit:
+        text: Maryam Sirvan, photographed onstage · NUM
+        language: en
+  profile link:
+  - value: https://maryamsirvan.bandcamp.com/
+    references:
+    - source: maryamsirvan.bandcamp.com
+      quote: Music | Maryam Sirvan
+      accessed: '2026-11-21'
+      locator: Page title

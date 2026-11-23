@@ -1,0 +1,45 @@
+id: Q66hnjj
+type: release
+statements:
+  name:
+  - value:
+      text: Fan Coil
+      language: en
+    references:
+    - source: soundcloud.com-hadi-bastani-fancoil
+      quote: Fan Coil
+      accessed: '2026-11-21'
+      locator: Recording heading
+  performer:
+  - value: Qyt2364
+    references:
+    - source: soundcloud.com-hadi-bastani-fancoil
+      quote: Stream Fan Coil by Hadi Bastani | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://soundcloud.com/hadi-bastani/fancoil
+    references:
+    - source: soundcloud.com-hadi-bastani-fancoil
+      quote: Stream Fan Coil by Hadi Bastani | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-8NzyoAwy3cHNlfjF-Z3GUcQ-large.jpg
+    references:
+    - source: soundcloud.com-hadi-bastani-fancoil
+      quote: https://i1.sndcdn.com/artworks-8NzyoAwy3cHNlfjF-Z3GUcQ-large.jpg
+      accessed: '2026-11-21'
+      locator: SoundCloud artwork metadata
+    qualifiers:
+      credit:
+        text: Hadi Bastani on SoundCloud
+        language: en
+  release date:
+  - value:
+      date: '2023-06-02'
+    references:
+    - source: soundcloud.com-hadi-bastani-fancoil
+      quote: '2023-06-02T09:45:19Z'
+      accessed: '2026-11-21'
+      locator: SoundCloud release or upload timestamp

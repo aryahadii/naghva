@@ -1,0 +1,57 @@
+id: Qgc6qh7
+type: release
+statements:
+  name:
+  - value:
+      text: Voice Parasite
+      language: en
+    references:
+    - source: noise-a-noise.bandcamp.com-track-01-hadi-bastani-voice-parasite
+      quote: Voice Parasite
+      accessed: '2026-11-21'
+      locator: Recording heading
+  performer:
+  - value: Qyt2364
+    references:
+    - source: noise-a-noise.bandcamp.com-track-01-hadi-bastani-voice-parasite
+      quote: 01 - Hadi Bastani - Voice Parasite | Various Artists | Noise à Noise
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://noise-a-noise.bandcamp.com/track/01-hadi-bastani-voice-parasite
+    references:
+    - source: noise-a-noise.bandcamp.com-track-01-hadi-bastani-voice-parasite
+      quote: 01 - Hadi Bastani - Voice Parasite | Various Artists | Noise à Noise
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/3txow6wj80n6JPIOsXkFml
+    references:
+    - source: open.spotify.com-track-3txow6wj80n6jpiosxkfml
+      quote: Voice Parasite - song and lyrics by Hadi Bastani | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://www.youtube.com/watch?v=meh_EHyXiGk
+    references:
+    - source: www.youtube.com-watch-v-meh_ehyxigk
+      quote: Voice Parasite - YouTube
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a1300753976_10.jpg
+    references:
+    - source: noise-a-noise.bandcamp.com-track-01-hadi-bastani-voice-parasite
+      quote: https://f4.bcbits.com/img/a1300753976_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Bandcamp · Noise à Noise
+        language: en
+  release date:
+  - value:
+      date: '2020-04-03'
+    references:
+    - source: noise-a-noise.bandcamp.com-track-01-hadi-bastani-voice-parasite
+      quote: released April 3, 2020
+      accessed: '2026-11-21'
+      locator: Published date
