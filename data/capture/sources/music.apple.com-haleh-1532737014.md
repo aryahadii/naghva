@@ -14,3 +14,11 @@ status: processed
 > Listen to علی قمصری - دوش دوش (feat. Haleh Seyfizadeh) - Single by Ali Ghamsari on Apple Music. 2020. 1 Song. Duration: 3 minutes.
 
 > https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9c/b0/ee/9cb0ee76-0d11-00e7-d58c-42bb39226e82/053000351429_cover.jpg/296x296bb.webp
+
+> علی قمصری - دوش دوش (feat. Haleh Seyfizadeh) - Single · Ali Ghamsari · 2020-09-18
+
+Native issue credits, read 2026-11-21.
+
+> علی قمصری - دوش دوش (feat. Haleh Seyfizadeh)
+
+Track 1, read 2026-11-21.
