@@ -1,0 +1,53 @@
+id: Qhx9hky
+type: release
+statements:
+  name:
+  - value:
+      text: شب پایور | پراکنده (دونوازی سنتور و پیانو)
+      language: fa
+    references:
+    - source: www.youtube.com-oembed-eloggcmdd0q
+      quote: شب پایور | پراکنده (دونوازی سنتور و پیانو)
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2024-04-02'
+    references:
+    - source: www.youtube.com-watchv-eloggcmdd0q
+      quote: '2024-04-02'
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://i.ytimg.com/vi/ELoggCmDD0Q/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-eloggcmdd0q
+      quote: https://i.ytimg.com/vi/ELoggCmDD0Q/hqdefault.jpg
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Soheil Hosnavi · original performance
+        language: en
+  performer:
+  - value: Q76q9jz
+    references:
+    - source: www.youtube.com-oembed-eloggcmdd0q
+      quote: Soheil Hosnavi
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: santur
+  listen link:
+  - value: https://www.youtube.com/watch?v=ELoggCmDD0Q
+    references:
+    - source: www.youtube.com-oembed-eloggcmdd0q
+      quote: شب پایور | پراکنده (دونوازی سنتور و پیانو)
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  - value: https://t.me/soheilhosnavi/1000
+    references:
+    - source: t.me-soheilhosnavi-1000
+      quote: «پراکنده»
+      locator: Artist channel, original post 1000
+      accessed: '2026-11-21'

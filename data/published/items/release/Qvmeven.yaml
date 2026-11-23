@@ -1,0 +1,53 @@
+id: Qvmeven
+type: release
+statements:
+  name:
+  - value:
+      text: Santur instead of Qanun! 😉🎶
+      language: en
+    references:
+    - source: www.youtube.com-oembed-whhw9xejue8
+      quote: Santur instead of Qanun! 😉🎶
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2026-08-17'
+    references:
+    - source: www.youtube.com-watchv-whhw9xejue8
+      quote: '2026-08-17'
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://i.ytimg.com/vi/wHHW9xEJUE8/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-whhw9xejue8
+      quote: https://i.ytimg.com/vi/wHHW9xEJUE8/hqdefault.jpg
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Soheil Hosnavi · original performance
+        language: en
+  performer:
+  - value: Q76q9jz
+    references:
+    - source: www.youtube.com-oembed-whhw9xejue8
+      quote: Soheil Hosnavi
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: santur
+  listen link:
+  - value: https://www.youtube.com/watch?v=wHHW9xEJUE8
+    references:
+    - source: www.youtube.com-oembed-whhw9xejue8
+      quote: Santur instead of Qanun! 😉🎶
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  - value: https://t.me/soheilhosnavi/1154
+    references:
+    - source: t.me-soheilhosnavi-1154
+      quote: Santur instead of qanun!
+      locator: Artist channel, original post 1154
+      accessed: '2026-11-21'

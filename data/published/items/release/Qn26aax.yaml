@@ -1,0 +1,37 @@
+id: Qn26aax
+type: release
+statements:
+  name:
+  - value:
+      text: آی بهار
+      language: fa
+    references:
+    - source: t.me-s-soheilhosnavibefore-183
+      quote: آی بهار
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  performer:
+  - value: Q76q9jz
+    references:
+    - source: t.me-s-soheilhosnavibefore-183
+      quote: 'تنظیم و سنتور: سهیل حُسنوی'
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: santur
+  contributor:
+  - value: Q76q9jz
+    references:
+    - source: t.me-s-soheilhosnavibefore-183
+      quote: 'تنظیم و سنتور: سهیل حُسنوی'
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: arranger
+  listen link:
+  - value: https://t.me/soheilhosnavi/124
+    references:
+    - source: t.me-s-soheilhosnavibefore-183
+      quote: soheilhosnavi/124
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'

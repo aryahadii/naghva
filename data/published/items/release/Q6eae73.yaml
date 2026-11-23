@@ -1,0 +1,53 @@
+id: Q6eae73
+type: release
+statements:
+  name:
+  - value:
+      text: Violin, Oud & Santur
+      language: en
+    references:
+    - source: www.youtube.com-oembed-ho4w6hf33zc
+      quote: 'Violin, Oud & Santur '
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2026-11-13'
+    references:
+    - source: www.youtube.com-watchv-ho4w6hf33zc
+      quote: '2026-11-13'
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://i.ytimg.com/vi/HO4w6HF33zc/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-ho4w6hf33zc
+      quote: https://i.ytimg.com/vi/HO4w6HF33zc/hqdefault.jpg
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Soheil Hosnavi · original performance
+        language: en
+  performer:
+  - value: Q76q9jz
+    references:
+    - source: www.youtube.com-oembed-ho4w6hf33zc
+      quote: Soheil Hosnavi
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: santur
+  listen link:
+  - value: https://www.youtube.com/watch?v=HO4w6HF33zc
+    references:
+    - source: www.youtube.com-oembed-ho4w6hf33zc
+      quote: 'Violin, Oud & Santur '
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  - value: https://t.me/soheilhosnavi/1173
+    references:
+    - source: t.me-soheilhosnavi-1173
+      quote: Virtual Trio Collaboration with
+      locator: Artist channel, original post 1173
+      accessed: '2026-11-21'

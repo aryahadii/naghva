@@ -1,0 +1,53 @@
+id: Qp637tp
+type: release
+statements:
+  name:
+  - value:
+      text: Santur, Oud & Riq
+      language: en
+    references:
+    - source: www.youtube.com-oembed-mb3-lgypsb4
+      quote: Santur, Oud & Riq
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2026-06-19'
+    references:
+    - source: www.youtube.com-watchv-mb3-lgypsb4
+      quote: '2026-06-19'
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://i.ytimg.com/vi/mb3-lGypSb4/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-mb3-lgypsb4
+      quote: https://i.ytimg.com/vi/mb3-lGypSb4/hqdefault.jpg
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Soheil Hosnavi · original performance
+        language: en
+  performer:
+  - value: Q76q9jz
+    references:
+    - source: www.youtube.com-oembed-mb3-lgypsb4
+      quote: Soheil Hosnavi
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: santur
+  listen link:
+  - value: https://www.youtube.com/watch?v=mb3-lGypSb4
+    references:
+    - source: www.youtube.com-oembed-mb3-lgypsb4
+      quote: Santur, Oud & Riq
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  - value: https://t.me/soheilhosnavi/1140
+    references:
+    - source: t.me-soheilhosnavi-1140
+      quote: Virtual collaboration with two Arab musician friends
+      locator: Artist channel, original post 1140
+      accessed: '2026-11-21'

@@ -1,0 +1,47 @@
+id: Q3zs75s
+type: release
+statements:
+  name:
+  - value:
+      text: یاد دوست
+      language: fa
+    references:
+    - source: www.youtube.com-oembed-r_jr6c19j6y
+      quote: یاد دوست
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2024-04-15'
+    references:
+    - source: www.youtube.com-watchv-r_jr6c19j6y
+      quote: '2024-04-15'
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://i.ytimg.com/vi/R_jR6c19J6Y/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-r_jr6c19j6y
+      quote: https://i.ytimg.com/vi/R_jR6c19J6Y/hqdefault.jpg
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Soheil Hosnavi · original performance
+        language: en
+  performer:
+  - value: Q76q9jz
+    references:
+    - source: www.youtube.com-oembed-r_jr6c19j6y
+      quote: Soheil Hosnavi
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: santur
+  listen link:
+  - value: https://www.youtube.com/watch?v=R_jR6c19J6Y
+    references:
+    - source: www.youtube.com-oembed-r_jr6c19j6y
+      quote: یاد دوست
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'

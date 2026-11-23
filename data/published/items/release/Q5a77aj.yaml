@@ -1,0 +1,53 @@
+id: Q5a77aj
+type: release
+statements:
+  name:
+  - value:
+      text: شب پایور | پژواک (دونوازی سنتور و تمبک)
+      language: fa
+    references:
+    - source: www.youtube.com-oembed-7du4opcijt4
+      quote: شب پایور | پژواک (دونوازی سنتور و تمبک)
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2024-04-02'
+    references:
+    - source: www.youtube.com-watchv-7du4opcijt4
+      quote: '2024-04-02'
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://i.ytimg.com/vi/7du4oPcIjt4/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-7du4opcijt4
+      quote: https://i.ytimg.com/vi/7du4oPcIjt4/hqdefault.jpg
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Soheil Hosnavi · original performance
+        language: en
+  performer:
+  - value: Q76q9jz
+    references:
+    - source: www.youtube.com-oembed-7du4opcijt4
+      quote: Soheil Hosnavi
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: santur
+  listen link:
+  - value: https://www.youtube.com/watch?v=7du4oPcIjt4
+    references:
+    - source: www.youtube.com-oembed-7du4opcijt4
+      quote: شب پایور | پژواک (دونوازی سنتور و تمبک)
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  - value: https://t.me/soheilhosnavi/999
+    references:
+    - source: t.me-soheilhosnavi-999
+      quote: «پژواک»
+      locator: Artist channel, original post 999
+      accessed: '2026-11-21'
