@@ -1,0 +1,110 @@
+id: Qxwemnb
+type: person
+statements:
+  name:
+  - value:
+      text: Houshmand Ebadi
+      language: en
+    references:
+    - source: arazsalek.bandcamp.com-album-peripheries-of-nahavand
+      quote: Houshmand Ebadi
+      accessed: '2026-11-21'
+      locator: Album personnel
+  - value:
+      text: هوشمند عبادی
+      language: fa
+    references:
+    - source: mehrnews.com-xv6lk
+      quote: هوشمند عبادی
+      accessed: 2026-11-22
+      locator: Ney performer’s Persian name
+  image:
+  - value: https://labyrinthmusic.gr/wp-content/uploads/2025/04/Houshmand-Ebadi-1024x683.jpg
+    qualifiers:
+      credit:
+        text: Labyrinth Musical Workshop
+        language: en
+    references:
+    - source: labyrinthmusic.gr-en-houshmand-ebadi
+      quote: https://labyrinthmusic.gr/wp-content/uploads/2025/04/Houshmand-Ebadi-1024x683.jpg
+      accessed: 2026-11-22
+      locator: Original portrait on the programme
+  profile link:
+  - value: https://music.apple.com/us/artist/houshmand-ebadi/1112290490
+    references:
+    - source: music.apple.com-us-artist-houshmand-ebadi-1112290490
+      quote: Houshmand Ebadi
+      accessed: 2026-11-22
+      locator: Native artist catalogue
+  - value: https://open.spotify.com/artist/5fhxMPXO4GLU3um9oQBtV7
+    references:
+    - source: open.spotify.com-artist-5fhxmpxo4glu3um9oqbtv7
+      quote: Houshmand Ebadi
+      accessed: 2026-11-22
+      locator: Native artist catalogue
+  - value: https://open.spotify.com/artist/3qRxBmUqGEaLXBNtYFHkq3
+    references:
+    - source: open.spotify.com-artist-3qrxbmuqgealxbntyfhkq3
+      quote: Hushmand Ebadi
+      accessed: 2026-11-22
+      locator: Spotify profile spelling and credits
+  - value: https://open.spotify.com/artist/6uHYKXV7j4P6qpHLyLTYu2
+    references:
+    - source: open.spotify.com-artist-6uhykxv7j4p6qphlyltyu2
+      quote: Houshmand Ebadi
+      accessed: 2026-11-22
+      locator: Spotify profile spelling and credits
+  - value: https://www.youtube.com/@houshmandebadi8001
+    references:
+    - source: www.youtube.com-houshmandebadi8001
+      quote: houshmand ebadi
+      accessed: 2026-11-22
+      locator: Original artist profile
+  based in:
+  - value: Qhm6fzw
+    references:
+    - source: labyrinthmusic.gr-en-houshmand-ebadi
+      quote: living in Tehran
+      accessed: 2026-11-22
+      locator: Artist biography residence
+  member of:
+  - value: Qm6w85y
+    qualifiers:
+      role:
+      - ney
+    references:
+    - source: transart.it-en-editions-26-persian-dastgah-music
+      quote: Musical direction & Tār
+      accessed: 2026-11-22
+      locator: Ensemble direction at Transart 2026
+  life event:
+  - value:
+      text: his first official concert, with the Sheydâ ensemble
+      language: en
+    references:
+    - source: labyrinthmusic.gr-en-houshmand-ebadi
+      quote: his first official concert, with the Sheydâ ensemble
+      accessed: 2026-11-22
+      locator: First official concert under Mohammad Rezâ Lotfi
+  - value:
+      text: the first collection of his solo work
+      language: en
+    qualifiers:
+      point in time:
+        date: '2019'
+    references:
+    - source: labyrinthmusic.gr-en-houshmand-ebadi
+      quote: the first collection of his solo work
+      accessed: 2026-11-22
+      locator: Fifer, in Kherad’s Intimate Sentiments
+  - value:
+      text: a European tour with concerts in 14 cities
+      language: en
+    qualifiers:
+      point in time:
+        date: 2024-11
+    references:
+    - source: labyrinthmusic.gr-en-houshmand-ebadi
+      quote: a European tour with concerts in 14 cities
+      accessed: 2026-11-22
+      locator: November 2024 Hamavayan concerts

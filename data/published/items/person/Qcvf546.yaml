@@ -1,0 +1,74 @@
+id: Qcvf546
+type: person
+statements:
+  name:
+  - value:
+      text: Aria Mohafez
+      language: en
+    references:
+    - source: arazsalek.bandcamp.com-album-peripheries-of-nahavand
+      quote: Aria Mohafez
+      accessed: '2026-11-21'
+      locator: Album personnel
+  - value:
+      text: آریا محافظ
+      language: fa
+    references:
+    - source: www.youtube.com-watchv-j-v2q2ssivm
+      quote: آریا محافظ
+      locator: Original programme, liner notes or performer credit
+      accessed: '2026-11-21'
+  profile link:
+  - value: https://music.apple.com/us/artist/aria-mohafez/1295577150
+    references:
+    - source: music.apple.com-us-artist-aria-mohafez-1295577150
+      quote: Aria Mohafez
+      locator: Original programme, liner notes or performer credit
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/artist/3JidvaqpTZ3l6ailf0y1Vh
+    references:
+    - source: open.spotify.com-embed-artist-3jidvaqptz3l6ailf0y1vh
+      quote: 3JidvaqpTZ3l6ailf0y1Vh
+      locator: Original programme, liner notes or performer credit
+      accessed: '2026-11-21'
+  - value: https://www.youtube.com/channel/UCnJZLqgxCP6973ZP9oMlWXQ
+    references:
+    - source: www.youtube.com-channel-ucnjzlqgxcp6973zp9omlwxq
+      quote: https://www.youtube.com/channel/UCnJZLqgxCP6973ZP9oMlWXQ
+      locator: Original programme, liner notes or performer credit
+      accessed: '2026-11-21'
+  image:
+  - value: https://labyrinthmusic.gr/wp-content/uploads/2025/04/Aria-Mohafez.jpeg
+    qualifiers:
+      credit:
+        text: Labyrinth Musical Workshop
+        language: en
+    references:
+    - source: labyrinthmusic.gr-en-aria-mohafez
+      quote: https://labyrinthmusic.gr/wp-content/uploads/2025/04/Aria-Mohafez.jpeg
+      accessed: 2026-11-22
+      locator: Original image file of the photograph published by the organizer
+  birth date:
+  - value:
+      date: '1983'
+    references:
+    - source: labyrinthmusic.gr-en-aria-mohafez
+      quote: 1983 in Tehran
+      locator: Original programme, liner notes or performer credit
+      accessed: '2026-11-21'
+  member of:
+  - value: Qvnj2sh
+    references:
+    - source: labyrinthmusic.gr-en-aria-mohafez
+      quote: he composed and directed the Aftab Roshan concert
+      locator: Original programme, liner notes or performer credit
+      accessed: '2026-11-21'
+  - value: Qm6w85y
+    qualifiers:
+      role:
+      - santur
+    references:
+    - source: transart.it-en-editions-26-persian-dastgah-music
+      quote: Aria Mohafez
+      accessed: 2026-11-22
+      locator: Named in original Transart roster
