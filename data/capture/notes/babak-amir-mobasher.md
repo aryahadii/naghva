@@ -1,0 +1,47 @@
+# Babak Amir Mobasher
+
+The musicians’ own CD chronology lists Beyond the Vision on Dreyer Gaido in 2009, the independently issued Swing Me to Your Song in 2014, and the Aïda & Babak project on Accords Croisés in 2017. The native Apple edition of the debut is dated 2010, and a later Persian interview gives 2011. The Tehran quartet’s starting year also varies across the participants’ biographies, festivals and reports. The page leaves it open. The Agency of Artists in Exile gives two different birth years for Babak, 1972 and 1975; neither is selected here. Ea, Manushan and Aïka have distinct lineups. [Musician’s own discography](https://aa-e.org/wp-content/uploads/2020/04/Babak_Amir_Mobasher_CV_WEB.pdf) · [Kayhan London](https://kayhan.london/1395/01/11/38991/) · [Artists in Exile](https://aa-e.org/en/artiste/mobasher-babak-amir-2/)
+
+## Release and performance records
+
+35 identified records across the native discographies and artist-linked audio and video. For broadcasts without a complete programme, the film is recorded once.
+
+- A Lullaby From Moon (feat. Antonio Licusati & Habib Meftah Boushehri) (Qaef7xk)
+- Agar Bârân Bebârad (Qmd78nj)
+- Beyond The Vision (Qbnjtt3)
+- Desire (Qv39jz5)
+- Don't Go (feat. Antonio Licusati & Habib Meftah Boushehri) (Qfzqcp5)
+- Evening Stock (feat. Antonio Licusati & Habib Meftah Boushehri) (Qdbtnfw)
+- Hebiboo (feat. Antonio Licusati & Habib Meftah Boushehri) (Qayvmpz)
+- Hymn (feat. Antonio Licusati & Habib Meftah Boushehri) (Qfnm9k2)
+- I Don't Know (Qpp84jg)
+- If The Rain Comes: If the Rain Comes (Qxx9b4a)
+- Kie, Kie Dar Mizane (Monte Carlo Doualiya) (Q63pj2v)
+- Kié, Kié Dar Mizané? (Qc4rmqt)
+- Lost Land (Qtv6y3y)
+- Lâlâi-É Mahtâb (Qcrnyky)
+- Manushan (Qeecxsb)
+- Manushan: Beyond the Vision (Qv4dcb6)
+- Miraghsam Âvâzat Râ, Pt. 1 (Qxrawnv)
+- Miraghsam Âvâzat Râ, Pt. 2 (Q9c5v3x)
+- Naro (Qd883bx)
+- Now (Forbidden) (Qa8bear)
+- Parvâz-É Parvâné (Qhk467x)
+- Rahgozar-É Khâk (Qfacd5f)
+- Râz (Qnya9zb)
+- Râz (Valse) (Qdvvnbk)
+- Shisho Bardâr (Qzayzr6)
+- Swing Me to Your Song (Qg4wczp)
+- Swing Me to Your Song (Tehran) (Q5kvqb9)
+- Swing Me to Your Song (feat. Antonio Licusati & Habib Meftah Boushehri) (Qaere7f)
+- Take Six (feat. Antonio Licusati & Habib Meftah Boushehri) (Qje9gee)
+- The Cycle (feat. Antonio Licusati, Habib Meftah Boushehri & Kayvan Jahanshahi) (Qsqc4nm)
+- The Secret (feat. Antonio Licusati & Habib Meftah Boushehri) (Qhrx7mt)
+- To Niloufar Shodi (Q2khm7a)
+- We Fly With Butterflies (Qtybhcr)
+- Yalda (Paris concert) (Qars4wh)
+- Ârezou (Qt3826m)
+- Aïda & Babak Quartet "Manushan" -  Lâlâyi é Mahtâb (Live au Au Fil des Voix) (Qybaqw7)
+- Aïda & Babak Quartet "Manushan" - Kié Kié dar mizané ? (Live au Au Fil des Voix) (Qz88bvw)
+
+His original CV identifies cello alongside guitar and lists the May 2008 Austrian appearance with Nader Mashayekhi and the Tehran Chamber Orchestra. The November 2015 move to France is dated by the musicians’ April 2016 interview. The CV and the workshop biography differ on his year of birth.
