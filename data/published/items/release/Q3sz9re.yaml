@@ -1,0 +1,65 @@
+id: Q3sz9re
+type: release
+statements:
+  name:
+  - value:
+      text: Exhausting rout
+      language: en
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-exhausting-rout
+      quote: Exhausting rout | Kaveh Sarvarian, Hames Bitar | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qy69pg7
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-exhausting-rout
+      quote: Exhausting rout | Kaveh Sarvarian, Hames Bitar | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qtj7y5p
+    references:
+    - source: kavehsarvarian.bandcamp.com-album-when-the-sun-rises
+      quote: 'Hames Bitar: Oud'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: oud
+  listen link:
+  - value: https://kavehsarvarian.bandcamp.com/track/exhausting-rout
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-exhausting-rout
+      quote: Exhausting rout | Kaveh Sarvarian, Hames Bitar | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1680672445
+    references:
+    - source: music.apple.com-us-song-1680672445
+      quote: ‎Exhausting Rout - Song with Lyrics by Kaveh Sarvarian & Hames Bitar - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/0MWlKAXnzgf0J8YSSmVoda
+    references:
+    - source: open.spotify.com-track-0mwlkaxnzgf0j8yssmvoda
+      quote: Exhausting Rout - song and lyrics by Kaveh Sarvarian, Hames Bitar | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a0037080698_10.jpg
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-exhausting-rout
+      quote: https://f4.bcbits.com/img/a0037080698_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Kaveh Sarvarian on Bandcamp
+        language: en
+  release date:
+  - value:
+      date: '2023-03-28'
+    references:
+    - source: kavehsarvarian.bandcamp.com-album-when-the-sun-rises
+      quote: released March 28, 2023
+      accessed: '2026-11-21'
+      locator: Published date

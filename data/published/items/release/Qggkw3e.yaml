@@ -1,0 +1,57 @@
+id: Qggkw3e
+type: release
+statements:
+  name:
+  - value:
+      text: Kaveh Sarvarian & Jesús Gutiérrez - Museme tarab / Temporada de alegría
+      language: en
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-museme-tarab-temporada-de-alegr-a
+      quote: Museme tarab / Temporada de alegría | Kaveh Sarvarian & Jesús Gutiérrez | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qy69pg7
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-museme-tarab-temporada-de-alegr-a
+      quote: Museme tarab / Temporada de alegría | Kaveh Sarvarian & Jesús Gutiérrez | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://kavehsarvarian.bandcamp.com/track/museme-tarab-temporada-de-alegr-a
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-museme-tarab-temporada-de-alegr-a
+      quote: Museme tarab / Temporada de alegría | Kaveh Sarvarian & Jesús Gutiérrez | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/948408506
+    references:
+    - source: music.apple.com-us-song-948408506
+      quote: ‎Museme Tarab / Temporada de Alegría - Song with Lyrics by Kaveh Sarvarian & Jesús Gutiérrez - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/5hPXQNncBp4QjTa2gYZn9t
+    references:
+    - source: open.spotify.com-track-5hpxqnncbp4qjta2gyzn9t
+      quote: Museme Tarab / Temporada de Alegría - song and lyrics by Kaveh Sarvarian, Jesús Gutiérrez | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a3931952731_10.jpg
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-museme-tarab-temporada-de-alegr-a
+      quote: https://f4.bcbits.com/img/a3931952731_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Kaveh Sarvarian on Bandcamp
+        language: en
+  release date:
+  - value:
+      date: '2014-10-29'
+    references:
+    - source: music.apple.com-us-song-948408506
+      quote: October 29, 2014
+      accessed: '2026-11-21'
+      locator: Published date

@@ -1,0 +1,43 @@
+id: Qpszjxg
+type: release
+statements:
+  name:
+  - value:
+      text: '"When the Sun Rises" live concert'
+      language: en
+    references:
+    - source: www.youtube.com-watch-v-w3eeo7rkphs
+      quote: '"When the Sun Rises" live concert'
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qy69pg7
+    references:
+    - source: www.youtube.com-watch-v-w3eeo7rkphs
+      quote: '"When the Sun Rises" live concert'
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qw3ackf
+    references:
+    - source: cardamomtrio.com-our-album
+      quote: Hames and Kaveh have the collaboration of Luís on percussion
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://www.youtube.com/watch?v=W3eEO7RkPHs
+    references:
+    - source: www.youtube.com-watch-v-w3eeo7rkphs
+      quote: '"When the Sun Rises" live concert'
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i.ytimg.com/vi/W3eEO7RkPHs/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-w3eeo7rkphs
+      quote: https://i.ytimg.com/vi/W3eEO7RkPHs/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: Kaveh Sarvarian
+        language: en

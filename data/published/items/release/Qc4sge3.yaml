@@ -1,0 +1,37 @@
+id: Qc4sge3
+type: release
+statements:
+  name:
+  - value:
+      text: Games
+      language: en
+    references:
+    - source: open.spotify.com-track-7exr7gttipww6xmh19valy
+      quote: Games - song and lyrics by Hamzeh Yeganeh, Idin Sadeghzadeh, Kaveh Sarvarian | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qy69pg7
+    references:
+    - source: open.spotify.com-track-7exr7gttipww6xmh19valy
+      quote: Games - song and lyrics by Hamzeh Yeganeh, Idin Sadeghzadeh, Kaveh Sarvarian | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://open.spotify.com/track/7eXr7gttiPww6XMh19VaLY
+    references:
+    - source: open.spotify.com-track-7exr7gttipww6xmh19valy
+      quote: Games - song and lyrics by Hamzeh Yeganeh, Idin Sadeghzadeh, Kaveh Sarvarian | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d0000b273f53c73dac6a0317113144cda
+    references:
+    - source: open.spotify.com-track-7exr7gttipww6xmh19valy
+      quote: https://i.scdn.co/image/ab67616d0000b273f53c73dac6a0317113144cda
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original publisher artwork
+        language: en

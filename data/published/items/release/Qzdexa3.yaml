@@ -1,0 +1,65 @@
+id: Qzdexa3
+type: release
+statements:
+  name:
+  - value:
+      text: Hopeful mourning
+      language: en
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-hopeful-mourning
+      quote: Hopeful mourning | Kaveh Sarvarian, Hames Bitar | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qy69pg7
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-hopeful-mourning
+      quote: Hopeful mourning | Kaveh Sarvarian, Hames Bitar | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qtj7y5p
+    references:
+    - source: kavehsarvarian.bandcamp.com-album-when-the-sun-rises
+      quote: 'Hames Bitar: Oud'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: oud
+  listen link:
+  - value: https://kavehsarvarian.bandcamp.com/track/hopeful-mourning
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-hopeful-mourning
+      quote: Hopeful mourning | Kaveh Sarvarian, Hames Bitar | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1680672442
+    references:
+    - source: music.apple.com-us-song-1680672442
+      quote: ‎Hopeful Mourning - Song with Lyrics by Kaveh Sarvarian & Hames Bitar - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/3vsrpneVnZGB6xRK6UyatQ
+    references:
+    - source: open.spotify.com-track-3vsrpnevnzgb6xrk6uyatq
+      quote: Hopeful Mourning - song and lyrics by Kaveh Sarvarian, Hames Bitar | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a1998988408_10.jpg
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-hopeful-mourning
+      quote: https://f4.bcbits.com/img/a1998988408_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Kaveh Sarvarian on Bandcamp
+        language: en
+  release date:
+  - value:
+      date: '2023-03-28'
+    references:
+    - source: kavehsarvarian.bandcamp.com-album-when-the-sun-rises
+      quote: released March 28, 2023
+      accessed: '2026-11-21'
+      locator: Published date

@@ -1,0 +1,37 @@
+id: Q9gv3bs
+type: release
+statements:
+  name:
+  - value:
+      text: Tombak solo
+      language: en
+    references:
+    - source: www.youtube.com-watch-v-ttk3_wax6qy
+      quote: Tombak solo
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qy69pg7
+    references:
+    - source: www.youtube.com-watch-v-ttk3_wax6qy
+      quote: Tombak solo
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://www.youtube.com/watch?v=TTk3_Wax6qY
+    references:
+    - source: www.youtube.com-watch-v-ttk3_wax6qy
+      quote: Tombak solo
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i.ytimg.com/vi/TTk3_Wax6qY/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-ttk3_wax6qy
+      quote: https://i.ytimg.com/vi/TTk3_Wax6qY/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: Kaveh Sarvarian
+        language: en

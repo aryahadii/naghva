@@ -1,0 +1,59 @@
+id: Qnybc5q
+type: release
+statements:
+  name:
+  - value:
+      text: Three Persian Pieces, 3 Bahare Delkash
+      language: en
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-three-persian-pieces-3-bahare-delkash
+      quote: Three Persian Pieces, 3 Bahare Delkash | Hamzeh Yeganeh & Kaveh Sarvarian | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qy69pg7
+    references:
+    - source: kavehsarvarian.bandcamp.com-album-persian-rug
+      quote: Kaveh Sarvarian Flute
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: flute
+  listen link:
+  - value: https://kavehsarvarian.bandcamp.com/track/three-persian-pieces-3-bahare-delkash
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-three-persian-pieces-3-bahare-delkash
+      quote: Three Persian Pieces, 3 Bahare Delkash | Hamzeh Yeganeh & Kaveh Sarvarian | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/490472193
+    references:
+    - source: music.apple.com-us-song-490472193
+      quote: '‎Duo for Flute & Piano: Bahar-e-Delkash - Song with Lyrics by Hamzeh Yeganeh & Kaveh Sarvarian - Apple Music'
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/4eGqPllS4x214H9u60wC3Q
+    references:
+    - source: open.spotify.com-track-4egqplls4x214h9u60wc3q
+      quote: 'Duo for Flute & Piano: Bahar-e-Delkash - song and lyrics by Hamzeh Yeganeh, Kaveh Sarvarian | Spotify'
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a3579427320_10.jpg
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-three-persian-pieces-3-bahare-delkash
+      quote: https://f4.bcbits.com/img/a3579427320_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Kaveh Sarvarian on Bandcamp
+        language: en
+  release date:
+  - value:
+      date: '2011-12-10'
+    references:
+    - source: music.apple.com-us-song-490472193
+      quote: December 10, 2011
+      accessed: '2026-11-21'
+      locator: Published date

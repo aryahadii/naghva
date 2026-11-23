@@ -1,0 +1,37 @@
+id: Qtk835d
+type: release
+statements:
+  name:
+  - value:
+      text: Kereshmeh Performance Córdoba
+      language: en
+    references:
+    - source: www.youtube.com-watch-v-bn3ke_mednk
+      quote: Kereshmeh Performance Córdoba
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qy69pg7
+    references:
+    - source: www.youtube.com-watch-v-bn3ke_mednk
+      quote: Kereshmeh Performance Córdoba
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://www.youtube.com/watch?v=Bn3KE_MeDNk
+    references:
+    - source: www.youtube.com-watch-v-bn3ke_mednk
+      quote: Kereshmeh Performance Córdoba
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i.ytimg.com/vi/Bn3KE_MeDNk/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-bn3ke_mednk
+      quote: https://i.ytimg.com/vi/Bn3KE_MeDNk/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: Kaveh Sarvarian
+        language: en

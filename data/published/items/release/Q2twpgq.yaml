@@ -1,0 +1,64 @@
+id: Q2twpgq
+type: release
+statements:
+  name:
+  - value:
+      text: KERESHMEH
+      language: en
+    references:
+    - source: kavehsarvarian.bandcamp.com-album-kereshmeh
+      quote: KERESHMEH | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qy69pg7
+    references:
+    - source: kavehsarvarian.bandcamp.com-album-kereshmeh
+      quote: KERESHMEH | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  release type:
+  - value: album
+    references:
+    - source: kavehsarvarian.bandcamp.com-album-kereshmeh
+      quote: KERESHMEH | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://kavehsarvarian.bandcamp.com/album/kereshmeh
+    references:
+    - source: kavehsarvarian.bandcamp.com-album-kereshmeh
+      quote: KERESHMEH | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/kereshmeh-nueva-perspectiva-de-m%C3%BAsica-persa/1441315568
+    references:
+    - source: music.apple.com-us-album-kereshmeh-nueva-perspectiva-de-m-c3-basica-persa-1441315568
+      quote: ‎Kereshmeh, nueva perspectiva de música persa - Album by Kaveh Sarvarian - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/album/5o7p1Kx8udghOT1OAD8xiI
+    references:
+    - source: open.spotify.com-album-5o7p1kx8udghot1oad8xii
+      quote: Listen to Kereshmeh, nueva perspectiva de música persa - Album by Kaveh Sarvarian | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a1325020940_10.jpg
+    references:
+    - source: kavehsarvarian.bandcamp.com-album-kereshmeh
+      quote: https://f4.bcbits.com/img/a1325020940_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Kaveh Sarvarian on Bandcamp
+        language: en
+  release date:
+  - value:
+      date: '2018-10-10'
+    references:
+    - source: kavehsarvarian.bandcamp.com-album-kereshmeh
+      quote: released October 10, 2018
+      accessed: '2026-11-21'
+      locator: Published date

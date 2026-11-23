@@ -1,0 +1,57 @@
+id: Q6vz64r
+type: release
+statements:
+  name:
+  - value:
+      text: Charmezrab Dashti
+      language: en
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-charmezrab-dashti
+      quote: Charmezrab Dashti | By Kaveh Sarvarian | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qy69pg7
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-charmezrab-dashti
+      quote: Charmezrab Dashti | By Kaveh Sarvarian | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://kavehsarvarian.bandcamp.com/track/charmezrab-dashti
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-charmezrab-dashti
+      quote: Charmezrab Dashti | By Kaveh Sarvarian | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/548566599
+    references:
+    - source: music.apple.com-us-song-548566599
+      quote: ‎Chaharmezrab-e Dashti - Song with Lyrics by Kaveh Sarvarian - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/06uHqykl87VOowXNY0ivbD
+    references:
+    - source: open.spotify.com-track-06uhqykl87voowxny0ivbd
+      quote: Chaharmezrab-e Dashti - song and lyrics by Kaveh Sarvarian | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a0498665786_10.jpg
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-charmezrab-dashti
+      quote: https://f4.bcbits.com/img/a0498665786_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Kaveh Sarvarian on Bandcamp
+        language: en
+  release date:
+  - value:
+      date: '2012-07-23'
+    references:
+    - source: music.apple.com-us-song-548566599
+      quote: July 23, 2012
+      accessed: '2026-11-21'
+      locator: Published date

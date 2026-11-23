@@ -1,0 +1,57 @@
+id: Q8rc6ev
+type: release
+statements:
+  name:
+  - value:
+      text: Renge Mahoor
+      language: en
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-renge-mahoor
+      quote: Renge Mahoor | By Kaveh Sarvarian | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qy69pg7
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-renge-mahoor
+      quote: Renge Mahoor | By Kaveh Sarvarian | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://kavehsarvarian.bandcamp.com/track/renge-mahoor
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-renge-mahoor
+      quote: Renge Mahoor | By Kaveh Sarvarian | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/548566607
+    references:
+    - source: music.apple.com-us-song-548566607
+      quote: ‎Reng-e Mahoor (From Darvish Khan) - Song with Lyrics by Kaveh Sarvarian - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/2wrnclhLLVeBH7wr8bG6Cn
+    references:
+    - source: open.spotify.com-track-2wrnclhllvebh7wr8bg6cn
+      quote: Reng-e Mahoor(From Darvish Khan) - song and lyrics by Kaveh Sarvarian | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a0498665786_10.jpg
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-renge-mahoor
+      quote: https://f4.bcbits.com/img/a0498665786_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Kaveh Sarvarian on Bandcamp
+        language: en
+  release date:
+  - value:
+      date: '2012-07-23'
+    references:
+    - source: music.apple.com-us-song-548566607
+      quote: July 23, 2012
+      accessed: '2026-11-21'
+      locator: Published date

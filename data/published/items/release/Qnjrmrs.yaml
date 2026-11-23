@@ -1,0 +1,57 @@
+id: Qnjrmrs
+type: release
+statements:
+  name:
+  - value:
+      text: Kaveh Sarvarian & Pedram Khosravi - Bistún
+      language: en
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-bist-n
+      quote: Bistún | Kaveh Sarvarian & Pedram Khosravi | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qy69pg7
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-bist-n
+      quote: Bistún | Kaveh Sarvarian & Pedram Khosravi | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://kavehsarvarian.bandcamp.com/track/bist-n
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-bist-n
+      quote: Bistún | Kaveh Sarvarian & Pedram Khosravi | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/963055287
+    references:
+    - source: music.apple.com-us-song-963055287
+      quote: ‎Bistun (feat. Pedram Khosravi) - Song with Lyrics by Kaveh Sarvarian - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/5ISyv7npiDKulIQFWken71
+    references:
+    - source: open.spotify.com-track-5isyv7npidkuliqfwken71
+      quote: Bistun (feat. Pedram Khosravi) - song and lyrics by Kaveh Sarvarian, Pedram Khosravi | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a3205405930_10.jpg
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-bist-n
+      quote: https://f4.bcbits.com/img/a3205405930_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Kaveh Sarvarian on Bandcamp
+        language: en
+  release date:
+  - value:
+      date: '2015-01-10'
+    references:
+    - source: music.apple.com-us-song-963055287
+      quote: January 10, 2015
+      accessed: '2026-11-21'
+      locator: Published date

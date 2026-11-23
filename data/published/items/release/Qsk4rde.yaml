@@ -1,0 +1,45 @@
+id: Qsk4rde
+type: release
+statements:
+  name:
+  - value:
+      text: Noh Zarbi
+      language: en
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-noh-zarbi
+      quote: Noh Zarbi | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qy69pg7
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-noh-zarbi
+      quote: Noh Zarbi | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://kavehsarvarian.bandcamp.com/track/noh-zarbi
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-noh-zarbi
+      quote: Noh Zarbi | Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a1088248289_10.jpg
+    references:
+    - source: kavehsarvarian.bandcamp.com-track-noh-zarbi
+      quote: https://f4.bcbits.com/img/a1088248289_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Kaveh Sarvarian on Bandcamp
+        language: en
+  release date:
+  - value:
+      date: '2014-04-04'
+    references:
+    - source: kavehsarvarian.bandcamp.com-album-moonlight-sky
+      quote: released April 4, 2014
+      accessed: '2026-11-21'
+      locator: Published date
