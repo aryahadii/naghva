@@ -1,0 +1,63 @@
+id: Qd5qx3a
+type: release
+statements:
+  name:
+  - value:
+      text: Sinking
+      language: en
+    references:
+    - source: idlefon.bandcamp.com-track-sinking
+      quote: Sinking | Idlefon
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qjjdrek
+    references:
+    - source: idlefon.bandcamp.com-track-sinking
+      quote: Sinking | Idlefon
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://idlefon.bandcamp.com/track/sinking
+    references:
+    - source: idlefon.bandcamp.com-track-sinking
+      quote: Sinking | Idlefon
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://tympanikaudio.bandcamp.com/track/sinking
+    references:
+    - source: tympanikaudio.bandcamp.com-track-sinking
+      quote: Sinking | Idlefon | Tympanik Audio
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1548343678
+    references:
+    - source: music.apple.com-us-song-1548343678
+      quote: ‎Sinking - Song with Lyrics by Idlefon - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/1AZ8AZ0O5mytkUo3L5qlrX
+    references:
+    - source: open.spotify.com-track-1az8az0o5mytkuo3l5qlrx
+      quote: Sinking - song and lyrics by Idlefon | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a1267581734_10.jpg
+    references:
+    - source: idlefon.bandcamp.com-track-sinking
+      quote: https://f4.bcbits.com/img/a1267581734_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Nylaa
+        language: en
+  release date:
+  - value:
+      date: '2015-08-18'
+    references:
+    - source: idlefon.bandcamp.com-album-submarine
+      quote: released August 18, 2015
+      accessed: '2026-11-21'
+      locator: Published date

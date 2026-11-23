@@ -1,0 +1,68 @@
+id: Qdsvxra
+type: release
+statements:
+  name:
+  - value:
+      text: Intensive Collectivity Known As City
+      language: en
+    references:
+    - source: idlefon.bandcamp.com-album-intensive-collectivity-known-as-city
+      quote: Intensive Collectivity Known As City | Idlefon
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qjjdrek
+    references:
+    - &id001
+      source: idlefon.bandcamp.com-album-intensive-collectivity-known-as-city
+      quote: Intensive Collectivity Known As City | Idlefon
+      accessed: '2026-11-21'
+      locator: Page title
+  release type:
+  - value: album
+    references:
+    - *id001
+  listen link:
+  - value: https://idlefon.bandcamp.com/album/intensive-collectivity-known-as-city
+    references:
+    - source: idlefon.bandcamp.com-album-intensive-collectivity-known-as-city
+      quote: Intensive Collectivity Known As City | Idlefon
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://tympanikaudio.bandcamp.com/album/intensive-collectivity-known-as-city
+    references:
+    - source: tympanikaudio.bandcamp.com-album-intensive-collectivity-known-as-city
+      quote: Intensive Collectivity Known As City | Idlefon | Tympanik Audio
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/intensive-collectivity-known-as-city/884497063
+    references:
+    - source: music.apple.com-us-album-intensive-collectivity-known-as-city-884497063
+      quote: ‎Intensive Collectivity Known as City - Album by Idlefon - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/album/6rXy2HNhyQQkE22PRRl9L9
+    references:
+    - source: open.spotify.com-album-6rxy2hnhyqqke22prrl9l9
+      quote: Listen to Intensive Collectivity Known As City - Album by Idlefon | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a0375516425_10.jpg
+    references:
+    - source: idlefon.bandcamp.com-album-intensive-collectivity-known-as-city
+      quote: https://f4.bcbits.com/img/a0375516425_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Sadaf Azadehfar, original photo; Amir B. Ashrafzadeh, cover design
+        language: en
+  release date:
+  - value:
+      date: '2014-06-17'
+    references:
+    - source: idlefon.bandcamp.com-album-intensive-collectivity-known-as-city
+      quote: released June 17, 2014
+      accessed: '2026-11-21'
+      locator: Published date
