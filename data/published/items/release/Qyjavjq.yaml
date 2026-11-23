@@ -1,0 +1,57 @@
+id: Qyjavjq
+type: release
+statements:
+  name:
+  - value:
+      text: Palpalasi
+      language: en
+    references:
+    - source: music.apple.com-us-album-hura-ep-1751911655
+      quote: Palpalasi
+      accessed: '2026-11-21'
+      locator: Digital track 5
+  performer:
+  - value: Qpav8br
+    references:
+    - source: music.apple.com-us-album-hura-ep-1751911655
+      quote: Hura Mirshekari
+      accessed: '2026-11-21'
+      locator: Credited artist
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2a/b3/cf/2ab3cf81-b72f-f122-dfe2-a1bad7cbf0dd/artwork.jpg/1200x630wp-60.jpg
+    references:
+    - source: music.apple.com-us-album-hura-ep-1751911655
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2a/b3/cf/2ab3cf81-b72f-f122-dfe2-a1bad7cbf0dd/artwork.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Original edition artwork
+    qualifiers:
+      credit:
+        text: Apple Music, original distributor artwork
+        language: en
+  release date:
+  - value:
+      date: '2024-06-28'
+    references:
+    - source: music.apple.com-us-album-hura-ep-1751911655
+      quote: '2024-06-28'
+      accessed: '2026-11-21'
+      locator: Digital issue date
+  listen link:
+  - value: https://music.apple.com/us/song/palpalasi/1751911664
+    references:
+    - source: music.apple.com-us-album-hura-ep-1751911655
+      quote: https://music.apple.com/us/song/palpalasi/1751911664
+      accessed: '2026-11-21'
+      locator: Exact Apple song
+  - value: https://open.spotify.com/track/4offzMsRPRSypH91OxtANu
+    references:
+    - source: open.spotify.com-embed-album-4tmvekvmfvvcobc1tkwx8p
+      quote: spotify:track:4offzMsRPRSypH91OxtANu
+      accessed: '2026-11-21'
+      locator: Exact Spotify track
+  - value: https://www.youtube.com/watch?v=5iQvPnYmHKc
+    references:
+    - source: www.youtube.com-watch-v-5iqvpnymhkc
+      quote: Palpalasi
+      accessed: '2026-11-21'
+      locator: Performer or distributor original video

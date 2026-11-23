@@ -1,0 +1,69 @@
+id: Qzc8pm2
+type: release
+statements:
+  name:
+  - value:
+      text: Molana
+      language: en
+    references:
+    - source: music.apple.com-us-album-badjens-ep-1888643548
+      quote: Molana (feat. Siân Pottok)
+      accessed: '2026-11-21'
+      locator: Digital track 1
+  performer:
+  - value: Qpav8br
+    references:
+    - source: music.apple.com-us-album-badjens-ep-1888643548
+      quote: Hura Mirshekari
+      accessed: '2026-11-21'
+      locator: Credited artist
+  - value: Qgewjqm
+    references:
+    - source: music.apple.com-us-album-badjens-ep-1888643548
+      quote: N9nE.L9veS
+      accessed: '2026-11-21'
+      locator: Original release artist
+  - value: Qj6pxtv
+    references:
+    - source: music.apple.com-us-album-badjens-ep-1888643548
+      quote: Siân Pottok
+      accessed: '2026-11-21'
+      locator: Guest recording credit
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/15/e5/b3/15e5b38f-4558-55d3-32c9-3f911ec6cde7/artwork.jpg/1200x630wp-60.jpg
+    references:
+    - source: music.apple.com-us-album-badjens-ep-1888643548
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/15/e5/b3/15e5b38f-4558-55d3-32c9-3f911ec6cde7/artwork.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Original edition artwork
+    qualifiers:
+      credit:
+        text: Apple Music, original distributor artwork
+        language: en
+  release date:
+  - value:
+      date: '2026-04-24'
+    references:
+    - source: music.apple.com-us-album-badjens-ep-1888643548
+      quote: '2026-04-24'
+      accessed: '2026-11-21'
+      locator: Digital issue date
+  listen link:
+  - value: https://music.apple.com/us/song/molana-feat-si%C3%A2n-pottok/1888643549
+    references:
+    - source: music.apple.com-us-album-badjens-ep-1888643548
+      quote: https://music.apple.com/us/song/molana-feat-si%C3%A2n-pottok/1888643549
+      accessed: '2026-11-21'
+      locator: Exact Apple song
+  - value: https://open.spotify.com/track/5R9aCGIH7MhHpMQveiNvuc
+    references:
+    - source: open.spotify.com-embed-album-7zr3fzoj1dklqg2fzmks0v
+      quote: spotify:track:5R9aCGIH7MhHpMQveiNvuc
+      accessed: '2026-11-21'
+      locator: Exact Spotify track
+  - value: https://www.youtube.com/watch?v=trrLDCMfoGA
+    references:
+    - source: www.youtube.com-watch-v-trrldcmfoga
+      quote: Molana (feat. Siân Pottok)
+      accessed: '2026-11-21'
+      locator: Performer or distributor original video
