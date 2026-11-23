@@ -1,0 +1,41 @@
+id: Qvs8h8e
+type: release
+statements:
+  name:
+  - value:
+      text: Listen to Berlin 2015/16
+      language: en
+    references:
+    - source: open.spotify.com-album-62w3yukxiigzfy6esaalfo
+      quote: Listen to Berlin 2015/16
+      accessed: 2026-11-21
+      locator: Edition or track
+  performer:
+  - value: Qsyrehn
+    references:
+    - source: open.spotify.com-album-62w3yukxiigzfy6esaalfo
+      quote: Cyminology
+      accessed: 2026-11-21
+      locator: Guest track artist
+  release date:
+  - value:
+      date: '2015-09-04'
+    references:
+    - source: open.spotify.com-album-62w3yukxiigzfy6esaalfo
+      quote: '2015-09-04'
+      accessed: 2026-11-21
+      locator: Native edition date
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d0000b2735f73391959b406764682cadc
+    references:
+    - source: open.spotify.com-album-62w3yukxiigzfy6esaalfo
+      quote: https://i.scdn.co/image/ab67616d0000b2735f73391959b406764682cadc
+      accessed: 2026-11-21
+      locator: Edition artwork
+  listen link:
+  - value: https://open.spotify.com/album/62W3YukxIIGZFy6ESAalFO
+    references:
+    - source: open.spotify.com-album-62w3yukxiigzfy6esaalfo
+      quote: Listen to Berlin 2015/16
+      accessed: 2026-11-21
+      locator: Edition or track
