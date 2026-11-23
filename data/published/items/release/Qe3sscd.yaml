@@ -1,0 +1,45 @@
+id: Qe3sscd
+type: release
+statements:
+  name:
+  - value:
+      text: Abode of the Heart
+      language: en
+    references:
+    - source: music.apple.com-us-album-call-to-love-1749089143
+      quote: Abode of the Heart
+      accessed: '2026-11-21'
+      locator: Studio release
+  performer:
+  - value: Qxkxv7k
+    references:
+    - source: iranian.com-main-blog-fbahrami-zarbang-san-diego-concert-review.html
+      quote: another composition by Mr. Afsari entitled "Call to Love"
+      accessed: '2026-11-21'
+      locator: Concert review
+  release date:
+  - value:
+      date: '2008-01-01'
+    references:
+    - source: music.apple.com-us-album-call-to-love-1749089143
+      quote: '2008-01-01'
+      accessed: '2026-11-21'
+      locator: Digital release date
+  listen link:
+  - value: https://music.apple.com/us/song/abode-of-the-heart/1749089703
+    references:
+    - source: music.apple.com-us-album-call-to-love-1749089143
+      quote: Abode of the Heart
+      accessed: '2026-11-21'
+      locator: Studio release
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d0/01/39/d00139df-764b-4f58-2095-aeff13b3f5d9/198391723605.jpg/632x632bb-60.jpg
+    references:
+    - source: music.apple.com-us-album-call-to-love-1749089143
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d0/01/39/d00139df-764b-4f58-2095-aeff13b3f5d9/198391723605.jpg/632x632bb-60.jpg
+      accessed: '2026-11-21'
+      locator: Apple album artwork
+    qualifiers:
+      credit:
+        text: Zarbang · Apple Music
+        language: en

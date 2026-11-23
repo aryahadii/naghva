@@ -1,0 +1,57 @@
+id: Q8n2h6y
+type: release
+statements:
+  name:
+  - value:
+      text: Damma
+      language: en
+    references:
+    - source: music.apple.com-us-album-dunya-1794386998
+      quote: Damma
+      accessed: '2026-11-21'
+      locator: Track 4
+  performer:
+  - value: Qtr697p
+    references:
+    - source: music.apple.com-us-album-dunya-1794386998
+      quote: ComboNations
+      accessed: '2026-11-21'
+      locator: Album billing
+  - value: Qz9hcyk
+    references:
+    - source: www.javidafsarirad.com-combonations
+      quote: He composes and arranges the music and plays the Persian santur.
+      accessed: '2026-11-21'
+      locator: Group biography
+  release date:
+  - value:
+      date: '2017-04-28'
+    references:
+    - source: music.apple.com-us-album-dunya-1794386998
+      quote: '2017-04-28'
+      accessed: '2026-11-21'
+      locator: Digital edition release
+  listen link:
+  - value: https://music.apple.com/us/song/damma/1794387004
+    references:
+    - source: music.apple.com-us-album-dunya-1794386998
+      quote: Damma
+      accessed: '2026-11-21'
+      locator: Track 4
+  - value: https://open.spotify.com/track/3sX5RDFmKf4aNkiY0AOJzF
+    references:
+    - source: open.spotify.com-album-7v2i80adovntbkztviql1a
+      quote: Damma
+      accessed: '2026-11-21'
+      locator: Track 4
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/78/b4/02/78b402fb-bc9d-dfba-6429-68eacc38e5f9/7033662073238_Cover.jpg/632x632bb-60.jpg
+    references:
+    - source: music.apple.com-us-album-dunya-1794386998
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/78/b4/02/78b402fb-bc9d-dfba-6429-68eacc38e5f9/7033662073238_Cover.jpg/632x632bb-60.jpg
+      accessed: '2026-11-21'
+      locator: Apple album cover
+    qualifiers:
+      credit:
+        text: Dunya · Apple Music
+        language: en

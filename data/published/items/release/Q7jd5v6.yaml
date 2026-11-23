@@ -1,0 +1,63 @@
+id: Q7jd5v6
+type: release
+statements:
+  name:
+  - value:
+      text: Marwa
+      language: en
+    references:
+    - source: open.spotify.com-album-06puc4md7bty4dbbjxvwhj
+      quote: Marwa
+      accessed: '2026-11-21'
+      locator: Track 4
+  performer:
+  - value: Qgxsmyz
+    references:
+    - source: harpreetbansal.bandcamp.com-album-samaya
+      quote: Javid Afsari Rad (santur)
+      accessed: '2026-11-21'
+      locator: Recording personnel
+  - value: Qz9hcyk
+    references:
+    - source: harpreetbansal.bandcamp.com-album-samaya
+      quote: Javid Afsari Rad (santur)
+      accessed: '2026-11-21'
+      locator: Recording personnel
+  release date:
+  - value:
+      date: '2018'
+    references:
+    - source: open.spotify.com-album-06puc4md7bty4dbbjxvwhj
+      quote: '2018'
+      accessed: '2026-11-21'
+      locator: Original release
+  listen link:
+  - value: https://open.spotify.com/track/2M9fea1mqrZtwTZJ7rMtiI
+    references:
+    - source: open.spotify.com-album-06puc4md7bty4dbbjxvwhj
+      quote: Marwa
+      accessed: '2026-11-21'
+      locator: Track 4
+  - value: https://music.apple.com/us/song/marwa/1449788158
+    references:
+    - source: music.apple.com-us-album-samaya-1449787938
+      quote: Marwa
+      accessed: '2026-11-21'
+      locator: Track 4
+  - value: https://harpreetbansal.bandcamp.com/track/marwa
+    references:
+    - source: harpreetbansal.bandcamp.com-album-samaya
+      quote: Marwa
+      accessed: '2026-11-21'
+      locator: Track 4
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d0000b2732b1d401356c6fdbb2aafb168
+    references:
+    - source: open.spotify.com-album-06puc4md7bty4dbbjxvwhj
+      quote: https://i.scdn.co/image/ab67616d0000b2732b1d401356c6fdbb2aafb168
+      accessed: '2026-11-21'
+      locator: Spotify release artwork
+    qualifiers:
+      credit:
+        text: Samaya · Spotify
+        language: en

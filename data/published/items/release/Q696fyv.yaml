@@ -1,0 +1,66 @@
+id: Q696fyv
+type: release
+statements:
+  name:
+  - value:
+      text: Walk in/Walk out III
+      language: en
+    references:
+    - source: music.apple.com-us-album-movements-1528328452
+      quote: Walk in/Walk out III
+      accessed: '2026-11-21'
+      locator: Track 6
+  performer:
+  - value: Qgxsmyz
+    references:
+    - source: music.apple.com-us-album-movements-1528328452
+      quote: Harpreet Bansal Band
+      accessed: '2026-11-21'
+      locator: Album billing
+  - value: Qz9hcyk
+    references:
+    - source: harpreetbansal.bandcamp.com-album-movements
+      quote: Javid Afsari-Rad - santur
+      accessed: '2026-11-21'
+      locator: Album personnel
+    qualifiers:
+      role:
+      - santur
+  release date:
+  - value:
+      date: '2020-09-16'
+    references:
+    - source: music.apple.com-us-album-movements-1528328452
+      quote: '2020-09-16'
+      accessed: '2026-11-21'
+      locator: Digital edition release
+  listen link:
+  - value: https://music.apple.com/us/song/walk-in-walk-out-iii/1528328678
+    references:
+    - source: music.apple.com-us-album-movements-1528328452
+      quote: Walk in/Walk out III
+      accessed: '2026-11-21'
+      locator: Track 6
+  - value: https://open.spotify.com/track/46FKqZq7Y1kGpNRKRAKM8p
+    references:
+    - source: open.spotify.com-album-0khezir6q6c980xf5hdbg9
+      quote: Walk in/Walk out III
+      accessed: '2026-11-21'
+      locator: Track 6
+  - value: https://harpreetbansal.bandcamp.com/track/walk-in-walk-out-iii
+    references:
+    - source: harpreetbansal.bandcamp.com-album-movements
+      quote: Walk In, Walk Out III
+      accessed: '2026-11-21'
+      locator: Track 6
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7a/b1/a3/7ab1a3c4-df94-c02e-c046-4b89debd662c/687437793097.jpg/632x632bb-60.jpg
+    references:
+    - source: music.apple.com-us-album-movements-1528328452
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7a/b1/a3/7ab1a3c4-df94-c02e-c046-4b89debd662c/687437793097.jpg/632x632bb-60.jpg
+      accessed: '2026-11-21'
+      locator: Apple album cover
+    qualifiers:
+      credit:
+        text: Movements · Apple Music
+        language: en

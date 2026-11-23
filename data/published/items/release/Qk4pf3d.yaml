@@ -1,0 +1,57 @@
+id: Qk4pf3d
+type: release
+statements:
+  name:
+  - value:
+      text: Mokhalef
+      language: en
+    references:
+    - source: music.apple.com-us-album-bigah-1859682009
+      quote: Mokhalef
+      accessed: '2026-11-21'
+      locator: Track 4
+  performer:
+  - value: Qxekehj
+    references:
+    - source: music.apple.com-us-album-bigah-1859682009
+      quote: Norwegian World Orchestra
+      accessed: '2026-11-21'
+      locator: Album billing
+  - value: Qz9hcyk
+    references:
+    - source: music.apple.com-us-album-bigah-1859682009
+      quote: Javid Afsari Rad
+      accessed: '2026-11-21'
+      locator: Album billing
+  release date:
+  - value:
+      date: '2025-12-12'
+    references:
+    - source: music.apple.com-us-album-bigah-1859682009
+      quote: '2025-12-12'
+      accessed: '2026-11-21'
+      locator: Digital edition release
+  listen link:
+  - value: https://music.apple.com/us/song/mokhalef/1859682021
+    references:
+    - source: music.apple.com-us-album-bigah-1859682009
+      quote: Mokhalef
+      accessed: '2026-11-21'
+      locator: Track 4
+  - value: https://open.spotify.com/track/7pkekjslaMdR50WFjPTUyj
+    references:
+    - source: open.spotify.com-album-5i8gib6hzfenblqpcrghgx
+      quote: Mokhalef
+      accessed: '2026-11-21'
+      locator: Track 4
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/e4/f8/50e4f811-d32c-6873-d189-46574d0ddafc/199806584095.jpg/632x632bb-60.jpg
+    references:
+    - source: music.apple.com-us-album-bigah-1859682009
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/e4/f8/50e4f811-d32c-6873-d189-46574d0ddafc/199806584095.jpg/632x632bb-60.jpg
+      accessed: '2026-11-21'
+      locator: Apple album cover
+    qualifiers:
+      credit:
+        text: Bigah · Apple Music
+        language: en
