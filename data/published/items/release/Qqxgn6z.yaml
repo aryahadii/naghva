@@ -1,0 +1,53 @@
+id: Qqxgn6z
+type: release
+statements:
+  name:
+  - value:
+      text: Fargasht
+      language: en
+    references:
+    - source: music.apple.com-us-album-fargasht-single-1856104415
+      quote: Fargasht
+      accessed: 2026-11-21
+      locator: Edition or recording title
+  performer:
+  - value: Qr4berk
+    references:
+    - source: music.apple.com-us-album-fargasht-single-1856104415
+      quote: Bahar Atish
+      accessed: 2026-11-21
+      locator: Digital credits
+  listen link:
+  - value: https://music.apple.com/us/song/fargasht/1856104416
+    references:
+    - source: music.apple.com-us-album-fargasht-single-1856104415
+      quote: Fargasht
+      accessed: 2026-11-21
+      locator: Edition or recording title
+  - value: https://open.spotify.com/track/1WV5JQTCbUnqqjMIPb88Hf
+    references:
+    - source: open.spotify.com-album-6v1tjac1qq4givh8krsiia
+      quote: Fargasht
+      accessed: 2026-11-21
+      locator: Published recording
+  - value: https://youtu.be/islCTv9AvTM
+    references:
+    - source: youtu.be-islctv9avtm
+      quote: FARGASHT — Bahar Atish | فرگشت
+      accessed: 2026-11-21
+      locator: Title and bill on artist’s channel
+  release date:
+  - value:
+      date: '2025-11-23'
+    references:
+    - source: music.apple.com-us-album-fargasht-single-1856104415
+      quote: '2025-11-23'
+      accessed: 2026-11-21
+      locator: Digital edition date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/49/52/7a/49527a36-3667-7442-a86e-4ef3fd2762b0/artwork.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-fargasht-single-1856104415
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/49/52/7a/49527a36-3667-7442-a86e-4ef3fd2762b0/artwork.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Digital edition artwork

@@ -1,0 +1,53 @@
+id: Q6gxxe8
+type: release
+statements:
+  name:
+  - value:
+      text: LiLith
+      language: en
+    references:
+    - source: music.apple.com-us-album-lilith-single-1742354673
+      quote: LiLith
+      accessed: 2026-11-21
+      locator: Edition or recording title
+  performer:
+  - value: Qr4berk
+    references:
+    - source: music.apple.com-us-album-lilith-single-1742354673
+      quote: Bahar Atish
+      accessed: 2026-11-21
+      locator: Digital credits
+  listen link:
+  - value: https://music.apple.com/us/song/lilith/1742354674
+    references:
+    - source: music.apple.com-us-album-lilith-single-1742354673
+      quote: LiLith
+      accessed: 2026-11-21
+      locator: Edition or recording title
+  - value: https://open.spotify.com/track/3oYy2KzFnhKmbBZ7JHK6fs
+    references:
+    - source: open.spotify.com-album-5phmc6zdnfk6r9gz6fds47
+      quote: LiLith
+      accessed: 2026-11-21
+      locator: Published recording
+  - value: https://youtu.be/mr_KCKBopiM
+    references:
+    - source: youtu.be-mr_kckbopim
+      quote: Bahar Atish | OFFICIAL TRACK  LILITEH |
+      accessed: 2026-11-21
+      locator: Title and bill on artist’s channel
+  release date:
+  - value:
+      date: '2024-04-24'
+    references:
+    - source: music.apple.com-us-album-lilith-single-1742354673
+      quote: '2024-04-24'
+      accessed: 2026-11-21
+      locator: Digital edition date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dd/bb/16/ddbb1633-7a5d-3021-ecf0-8ec365816def/artwork.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-lilith-single-1742354673
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dd/bb/16/ddbb1633-7a5d-3021-ecf0-8ec365816def/artwork.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Digital edition artwork

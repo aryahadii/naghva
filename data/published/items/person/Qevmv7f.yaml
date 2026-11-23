@@ -1,0 +1,44 @@
+id: Qevmv7f
+type: person
+statements:
+  name:
+  - value:
+      text: Jamin
+      language: en
+    references:
+    - source: youtu.be-hzunubg8w1c
+      quote: Justina feat. Jamin - Rangi | Official Audio
+      accessed: 2026-11-21
+      locator: Artist channel video title
+  - value:
+      text: جامین
+      language: fa
+    references:
+    - source: youtu.be-t975-2c0pig
+      quote: Jamin - Taghsire Toe | OFFICIAL TRACK جامین - تقصیر توئه
+      accessed: 2026-11-21
+      locator: Bilingual billing
+  image:
+  - value: https://i.scdn.co/image/ab6761610000e5eb993793a38898b4bfec3ea709
+    qualifiers:
+      credit:
+        text: Jamin, Spotify artist profile
+        language: en
+    references:
+    - source: open.spotify.com-artist-0n2xxmxr5hqgei9w1rdxue
+      quote: https://i.scdn.co/image/ab6761610000e5eb993793a38898b4bfec3ea709
+      accessed: 2026-11-21
+      locator: Spotify artist portrait
+  profile link:
+  - value: https://open.spotify.com/artist/0n2XXmXR5hQgei9W1rdXue
+    references:
+    - source: open.spotify.com-artist-0n2xxmxr5hqgei9w1rdxue
+      quote: Jamin
+      accessed: 2026-11-21
+      locator: Spotify profile
+  - value: https://music.apple.com/us/artist/jamin/1677798880
+    references:
+    - source: music.apple.com-us-artist-jamin-1677798880
+      quote: Jamin
+      accessed: 2026-11-21
+      locator: Apple Music artist
