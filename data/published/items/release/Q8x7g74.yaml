@@ -1,0 +1,58 @@
+id: Q8x7g74
+type: release
+statements:
+  name:
+  - value:
+      text: The Celebration of the Spring
+      language: en
+    references:
+    - source: siamak-jahangiri-ap1539883643
+      quote: The Celebration of the Spring
+      accessed: '2026-11-21'
+      locator: Album title
+  release date:
+  - value:
+      date: '2020-11-11'
+    references:
+    - source: siamak-jahangiri-ap1539883643
+      quote: '2020-11-11'
+      accessed: '2026-11-21'
+      locator: Edition release date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6b/56/c5/6b56c5ff-975c-8cc7-8aa0-66499132f2cc/artwork.jpg/1200x630wp-60.jpg
+    references:
+    - source: siamak-jahangiri-ap1539883643
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6b/56/c5/6b56c5ff-975c-8cc7-8aa0-66499132f2cc/artwork.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Digital release artwork
+    qualifiers:
+      credit:
+        text: Apple Music, original edition artwork
+        language: en
+  performer:
+  - value: Qnz4xnz
+    references:
+    - source: siamak-jahangiri-ap1539883643
+      quote: Siamak Jahangiry
+      accessed: '2026-11-21'
+      locator: Distributor artist credit
+  listen link:
+  - value: https://music.apple.com/us/album/the-celebration-of-the-spring/1539883643
+    references:
+    - source: siamak-jahangiri-ap1539883643
+      quote: https://music.apple.com/us/album/the-celebration-of-the-spring/1539883643
+      accessed: '2026-11-21'
+      locator: Exact edition or recording
+  - value: https://open.spotify.com/album/4x29HUWnLcPQa5HDJ7b4sR
+    references:
+    - source: siamak-jahangiri-ed4x29huwnlcpqa5hdj7b4sr
+      quote: The Celebration of the Spring
+      accessed: '2026-11-21'
+      locator: Spotify release
+  release type:
+  - value: album
+    references:
+    - source: siamak-jahangiri-ap1539883643
+      quote: The Celebration of the Spring
+      accessed: '2026-11-21'
+      locator: Album

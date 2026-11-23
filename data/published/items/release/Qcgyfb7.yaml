@@ -1,0 +1,32 @@
+id: Qcgyfb7
+type: release
+statements:
+  name:
+  - value:
+      text: 'Tasnif: Tanha Mara Raha kon/ Minstrel of Pain'
+      language: en
+    references:
+    - &id001
+      source: siamak-jahangiri-sc2229442583
+      quote: 'Tasnif: Tanha Mara Raha kon/ Minstrel of Pain'
+      accessed: '2026-11-21'
+      locator: Publisher catalogue title or programme
+  performer:
+  - value: Qnz4xnz
+    references:
+    - *id001
+  listen link:
+  - value: https://soundcloud.com/mahoor-institute/tasnif-tanha-mara-raha-kon-minstrel-of-pain
+    references:
+    - *id001
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-LYqXY3nHC1RTKS7t-blUCRg-large.png
+    references:
+    - source: siamak-jahangiri-sc2229442583
+      quote: https://i1.sndcdn.com/artworks-LYqXY3nHC1RTKS7t-blUCRg-large.png
+      accessed: '2026-11-21'
+      locator: Publisher artwork
+    qualifiers:
+      credit:
+        text: Mahoor Institute of Culture & Arts
+        language: en

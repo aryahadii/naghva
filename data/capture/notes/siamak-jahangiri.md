@@ -1,0 +1,284 @@
+# Siamak Jahangiri / سیامک جهانگیری
+
+The two personal artist spellings on Apple Music and the Sony guest appearances were reconciled against native Spotify releases. The third Apple artist identifier was checked for guest editions. Delgosha and Samin Ghorbani share existing works with this performer. Dastgah digital editions name him only on the individual tracks captured here. The original digital release dates can differ from dates reported by Iranian CD publishers. Mahoor’s native SoundCloud archive indexes 479 tracks from its entire catalogue. Public metadata were available for a subset; titles and original edition descriptions distinguish Siamak from the traditional repertoire researcher Jahangir Nasri Ashrafi, the Qashqai Jahangiri family and tombak player Jahangir Malek. Where a label posts a short clip to announce a release the notice is retained as a source for the release. The print-only ney exercise books on its Telegram are distinct from the recorded radif editions. Native searches did not identify a personal Bandcamp, SoundCloud or Telegram account confidently. The academy gives a birth year of 1971 and the Spotify profile 1970. Silk Road starting dates also differ. The biography therefore uses neither disputed year. The monochrome portrait is the artist profile’s original photograph with a clarinet.
+
+- The Dastgahs of Persian Music: Dastgah-e Shur (Qwc6kxn) https://music.apple.com/us/album/the-dastgahs-of-persian-music-dastgah-e-shur/1771151603 · https://open.spotify.com/album/7cXm6SACFqzZNjs5D184Fc
+- Rahavi (feat. Siamak Jahangiri & Pouria Akhavas) (Qj5h5z8) https://music.apple.com/us/song/rahavi-feat-siamak-jahangiri-pouria-akhavas/1771151609 · https://open.spotify.com/track/0OKvCT0dbWEVVz9ejXHm9q
+- Hazin (feat. Siamak Jahangiri & Pouria Akhavas) (Qpazgyn) https://music.apple.com/us/song/hazin-feat-siamak-jahangiri-pouria-akhavas/1771151615 · https://open.spotify.com/track/17onGdYn2FfhJcF8rFxuuh
+- Gharacheh (feat. Siamak Jahangiri, Radman Tavakoli, Pouria Akhavas & Misagh Mehrpour) (Qme7sze) https://music.apple.com/us/song/gharacheh-feat-siamak-jahangiri-radman-tavakoli-pouria/1771151616 · https://open.spotify.com/track/0B96zN0iCBIub82CnVQxzh
+- Ozzal (feat. Siamak Jahangiri & Pouria Akhavas) (Qdhkgka) https://music.apple.com/us/song/ozzal-feat-siamak-jahangiri-pouria-akhavas/1771151621 · https://open.spotify.com/track/2WInckTqQ35qNtUn0AWFU5
+- Khara (feat. Ali Boustan, Siamak Jahangiri, Pouria Akhavas & Misagh Mehrpour) (Qn79yyz) https://music.apple.com/us/song/khara-feat-ali-boustan-siamak-jahangiri-pouria-akhavas/1771151628 · https://open.spotify.com/track/1t4P2izUoD8cfY8xKyfCsu
+- Masnavi (feat. Siamak Jahangiri & Pouria Akhavas) (Qkkjr4v) https://music.apple.com/us/song/masnavi-feat-siamak-jahangiri-pouria-akhavas/1771151696 · https://open.spotify.com/track/5XMQSeGTohIsnEiD7Es8nf
+- Manifest Love (Qsgr3es) https://music.apple.com/us/album/manifest-love/1639250168 · https://open.spotify.com/album/2RL4xfGGIwjUOGT5luiegZ
+- Moqaddame Terme (feat. Behzad Mirzayi) (Qvqwcv9) https://music.apple.com/us/song/moqaddame-terme-feat-behzad-mirzayi/1639250169 · https://open.spotify.com/track/1ckfuzg5Z1hHWxn2IUfbHE
+- Saz & Avaz I (feat. Behzad Mirzayi) (Qhxra7v) https://music.apple.com/us/song/saz-avaz-i-feat-behzad-mirzayi/1639250170 · https://open.spotify.com/track/1PgWV9EwB9V8fSgK6W4RWZ
+- Tasnif: “Along With Me” (feat. Behzad Mirzayi) (Q97h7qz) https://music.apple.com/us/song/tasnif-along-with-me-feat-behzad-mirzayi/1639250171 · https://open.spotify.com/track/3hMTIaZQUDh37PFkag0MMC · https://soundcloud.com/mahoor-institute/tasnif-along-with-me-manifest-love
+- “Mane", Chaharmezrab (feat. Behzad Mirzayi) (Qy48n36) https://music.apple.com/us/song/mane-chaharmezrab-feat-behzad-mirzayi/1639250172 · https://open.spotify.com/track/7s1I1nqL9IcJjD2jVexnhn
+- Saz & Avaz II (feat. Behzad Mirzayi) (Q5vqw3s) https://music.apple.com/us/song/saz-avaz-ii-feat-behzad-mirzayi/1639250174 · https://open.spotify.com/track/4vhRqiSQTm9xNCxbnyhY6F
+- Tasnif: “Feast” (feat. Behzad Mirzayi) (Qfs7ed9) https://music.apple.com/us/song/tasnif-feast-feat-behzad-mirzayi/1639250175 · https://open.spotify.com/track/3S83pCMmnPiabFMgfyaklF
+- Saz & Avaz III (feat. Behzad Mirzayi) (Qhyt22k) https://music.apple.com/us/song/saz-avaz-iii-feat-behzad-mirzayi/1639250596 · https://open.spotify.com/track/1VhK734QB6XAe68z6VCrJ8
+- Tasnif: “Manifest Love” (feat. Behzad Mirzayi) (Qnm6a4g) https://music.apple.com/us/song/tasnif-manifest-love-feat-behzad-mirzayi/1639250597 · https://open.spotify.com/track/2UZYxFtjx6peRHIhh7uYcU
+- The Sun Awakes (feat. Amir Hossein Rahmani) (Qbzrcwk) https://music.apple.com/us/song/the-sun-awakes-feat-amir-hossein-rahmani/1797218484 · https://open.spotify.com/track/3stDcGIATL4icSvV9RKdNd · https://open.spotify.com/album/7w9ZyXp9z4L4Y7XtZB9q1G
+- That Very Nay I Am (Qnhz7ak) https://music.apple.com/us/album/that-very-nay-i-am/1439568369 · https://open.spotify.com/album/2e7BM3XvNa6k4KoFJNLOT1
+- Man Haman Nay Am (Q65dbcg) https://music.apple.com/us/song/man-haman-nay-am/1439568370 · https://open.spotify.com/track/2mpe0hIeQayyBmFve3iJFV
+- Bang–e Ney (Q2h58n7) https://music.apple.com/us/song/bang-e-ney/1439568611 · https://open.spotify.com/track/0j9ksDHKc7lXR3EeNazTLy
+- Saz & Avaz I (Qskzdtf) https://music.apple.com/us/song/saz-avaz-i/1439568612 · https://open.spotify.com/track/0Soaay8m4wxpjsRrz7aWjH
+- Sharhe Sharhe (Qg352af) https://music.apple.com/us/song/sharhe-sharhe/1439568616 · https://open.spotify.com/track/6V0qMuCarzKyoFwwliNNuL
+- Saz & Avaz II (Qrye6f5) https://music.apple.com/us/song/saz-avaz-ii/1439568617 · https://open.spotify.com/track/4B1lSuK8FPi5hbj4WYKC4B
+- Damsaz (Qz8zxqj) https://music.apple.com/us/song/damsaz/1439568618 · https://open.spotify.com/track/1qr5Ub4IjJK1RKDtsvQESl
+- Saz & Avaz III (Qdpq8tt) https://music.apple.com/us/song/saz-avaz-iii/1439568619 · https://open.spotify.com/track/0Ger9AvU66kp4c6yiZxRXL
+- Nay & Nafas (Q7wg49w) https://music.apple.com/us/song/nay-nafas/1439568620 · https://open.spotify.com/track/1OdTjdcKHWhF5BKwXTMPk7
+- Saz & Avaz IV (Qwtp8bk) https://music.apple.com/us/song/saz-avaz-iv/1439568621 · https://open.spotify.com/track/0DqUAHcn6MHMUDamxzx3Ot
+- Sharh–e Hejran (Qacktjs) https://music.apple.com/us/song/sharh-e-hejran/1439568622 · https://open.spotify.com/track/6iNEzFlPnh4Zl8OSbtjBZH
+- Beshno Az in Khamush, Pt. 1 (Qbxbqqy) https://music.apple.com/us/song/beshno-az-in-khamush-pt-1/1439568623 · https://open.spotify.com/track/2bHUt6DblMYqb0uYlpfeTd
+- Beshno Az in Khamush, Pt. 2 (Q7edmdk) https://music.apple.com/us/song/beshno-az-in-khamush-pt-2/1439568624 · https://open.spotify.com/track/7uh7RMdUAmUhy604Sd7hK1
+- DELTANG (feat. Mehdi Emami) (Qnahgey) https://music.apple.com/us/song/deltang-feat-mehdi-emami/1719000458 · https://open.spotify.com/track/5ygDNhYLQmdcafNM1afRoG · https://open.spotify.com/album/6OT3ciTwf1haXUKGvUusag
+- The Celebration of the Spring (Q8x7g74) https://music.apple.com/us/album/the-celebration-of-the-spring/1539883643 · https://open.spotify.com/album/4x29HUWnLcPQa5HDJ7b4sR
+- Lullaby (Qjyd7p6) https://music.apple.com/us/song/lullaby/1539883644 · https://open.spotify.com/track/1E8dN2tb4M3ptBWsaintta
+- The smell of wind flowers (Qe5eh97) https://music.apple.com/us/song/the-smell-of-wind-flowers/1539883645 · https://open.spotify.com/track/7r0SdCWJj7dd7jfXy5t7Wc
+- My Sweetheart (Qhqwcd8) https://music.apple.com/us/song/my-sweetheart/1539883646 · https://open.spotify.com/track/3fIDZsx2sb0pytcj29fnQB
+- Wondering (Qjet5gx) https://music.apple.com/us/song/wondering/1539883647 · https://open.spotify.com/track/5XceUJrEFG3TRlagQ58bXI
+- Your beautiful Cotton dress (Qg9ggsm) https://music.apple.com/us/song/your-beautiful-cotton-dress/1539883648 · https://open.spotify.com/track/6IthJRjrWmiR6WSpgcae7q
+- The celebration of the spring (Qspzrkm) https://music.apple.com/us/song/the-celebration-of-the-spring/1539883649 · https://open.spotify.com/track/0jE562EHyuXet9J4zO5TBW
+- The Dastgahs of Persian Music: Avaz-e Bayat Tork (Female) (Qbyqt8z) https://music.apple.com/us/album/the-dastgahs-of-persian-music-avaz-e-bayat-tork-female/1867112622 · https://open.spotify.com/album/4ghVnfgCQOgPXYBX2GrmVA
+- Shekasteh (feat. Saba Hosseini & Siamak Jahangiry) [Female] (Qaq9gt2) https://music.apple.com/us/song/shekasteh-feat-saba-hosseini-siamak-jahangiry-female/1867112632
+- Ghatar (feat. Saba Hosseini & Siamak Jahangiry) [Female] (Qv4b92x) https://music.apple.com/us/song/ghatar-feat-saba-hosseini-siamak-jahangiry-female/1867112756
+- Iran: Music of the Qajar Era (Q4wyc6v) https://music.apple.com/us/album/iran-music-of-the-qajar-era/848988435 · https://open.spotify.com/album/3FpiW5hXlTwwQFy1Gw6hjs
+- Avâz-E Afshâri: Ney O Avâz (Cho Bâd Azm) (Q6w76s8) https://music.apple.com/us/song/av%C3%A2z-e-afsh%C3%A2ri-ney-o-av%C3%A2z-cho-b%C3%A2d-azm-feat-pantea-alvandipour/848988549 · https://open.spotify.com/track/545gJinBPn4XA4LksDCbrv · https://www.youtube.com/watch?v=wzTFau9z65s
+- Avâz-E Afshâri: Ney O Avâz (Asheqâm) (Qv3aqrj) https://music.apple.com/us/song/av%C3%A2z-e-afsh%C3%A2ri-ney-o-av%C3%A2z-asheq%C3%A2m-feat-pantea-alvandipour/848988822 · https://open.spotify.com/track/2pxXGl78m54WPNVJuMM1mQ · https://www.youtube.com/watch?v=9DyhSljVcKw
+- Avâz-E Dashti: Ney O Avâz (Rafti O Mând) (Q7ef3ht) https://music.apple.com/us/song/av%C3%A2z-e-dashti-ney-o-av%C3%A2z-rafti-o-m%C3%A2nd-feat-pantea-alvandipour/848988880 · https://open.spotify.com/track/0uB63n6N078NBBk69furVq · https://www.youtube.com/watch?v=kWn0MBWN8OU
+- Wateresque (Qbsj2xz) https://music.apple.com/us/album/wateresque/1455167911 · https://open.spotify.com/album/70yHECuVwioAlQCMC9a7QJ
+- Pishdarâmad-E Dashti (feat. Mehrnoosh Zolfaghari) (Qzsjkxm) https://music.apple.com/us/song/pishdar%C3%A2mad-e-dashti-feat-mehrnoosh-zolfaghari/1455167912 · https://open.spotify.com/track/4RGW1nb0ZI6NoYBi3R4g03
+- Clarinet in Dashti 1 (feat. Mehrnoosh Zolfaghari) (Q8g5xgj) https://music.apple.com/us/song/clarinet-in-dashti-1-feat-mehrnoosh-zolfaghari/1455167913 · https://open.spotify.com/track/02hfTDmWjUdXAnemlwvABe
+- Bait’s Captive (feat. Mehrnoosh Zolfaghari) (Qrjdy4h) https://music.apple.com/us/song/baits-captive-feat-mehrnoosh-zolfaghari/1455167914 · https://open.spotify.com/track/4kbtuhDRpMwmlBGe2UGB9o
+- Clarinet in Dashti 2 (feat. Mehrnoosh Zolfaghari) (Q7s3743) https://music.apple.com/us/song/clarinet-in-dashti-2-feat-mehrnoosh-zolfaghari/1455167915 · https://open.spotify.com/track/0nHRJSAHP5plX0Dgg5Zoct
+- Do-Zarbi-Ye Dashti (feat. Mehrnoosh Zolfaghari) (Qxbhaxr) https://music.apple.com/us/song/do-zarbi-ye-dashti-feat-mehrnoosh-zolfaghari/1455167916 · https://open.spotify.com/track/5YfiTSU60PVMJs4rqrZ5z1
+- Clarinet in Dashti 3 (feat. Mehrnoosh Zolfaghari) (Qqgcqep) https://music.apple.com/us/song/clarinet-in-dashti-3-feat-mehrnoosh-zolfaghari/1455167917 · https://open.spotify.com/track/3lvBFEFrOOkXeYzK7OpVdF
+- Âlâtiti (feat. Mehrnoosh Zolfaghari) (Q7cqje4) https://music.apple.com/us/song/%C3%A2l%C3%A2titi-feat-mehrnoosh-zolfaghari/1455167918 · https://open.spotify.com/track/5IHRm1RkAJBbIMEpfd36bp
+- Clarinet in Dashti 4 (feat. Mehrnoosh Zolfaghari) (Qpsvj8f) https://music.apple.com/us/song/clarinet-in-dashti-4-feat-mehrnoosh-zolfaghari/1455167919 · https://open.spotify.com/track/5zLMmdF1Qap4MsJjuoZkjK
+- Reng-E Dashti (feat. Mehrnoosh Zolfaghari) (Q4bnfng) https://music.apple.com/us/song/reng-e-dashti-feat-mehrnoosh-zolfaghari/1455167920 · https://open.spotify.com/track/2u5JwDHA4knVO8yoEegeGR
+- Clarinet in Homayoun (Qczjgw6) https://music.apple.com/us/song/clarinet-in-homayoun/1455167921 · https://open.spotify.com/track/0Bfsl6GO3uClBHmacLYLjz
+- Clarinet in Afshari (Qzv5sre) https://music.apple.com/us/song/clarinet-in-afshari/1455167922 · https://open.spotify.com/track/51p7EfK4yVfrt3aVSxKX8d
+- Pishdarâmad-E Afshâri Va Âvâz (Qhm5qc8) https://music.apple.com/us/song/pishdar%C3%A2mad-e-afsh%C3%A2ri-va-%C3%A2v%C3%A2z/1455167923 · https://open.spotify.com/track/62swPF6I7UMTesdjchv7UZ
+- O’ Lord (Qy72axh) https://music.apple.com/us/song/o-lord/1455167924 · https://open.spotify.com/track/288s4RMpqdQI3UeDP4O5OA
+- Reng-E Afshâri (Qpv4knt) https://music.apple.com/us/song/reng-e-afsh%C3%A2ri/1455167925 · https://open.spotify.com/track/5OrQfpArgj6Ulmrdhdvxkf
+- NAMAND (feat. Pouria Akhavas) (Q5q4h9r) https://music.apple.com/us/song/namand-feat-pouria-akhavas/1718640962 · https://open.spotify.com/track/2Rwvdc3fqKUa21UDiVGld9 · https://open.spotify.com/album/23DPe6LDk7JtyXVhmb8Qed
+- Dawn (Q8cgycr) https://music.apple.com/us/album/dawn/1541079949 · https://open.spotify.com/album/6Cz69MRqn0Uxcf31BKztkj
+- Sobhgahan (Q54wbnq) https://music.apple.com/us/song/sobhgahan/1541079950 · https://open.spotify.com/track/7HSOLwf6RkhirUPGLbhY0p
+- Reng Bayat Tork (Qzq6gm3) https://music.apple.com/us/song/reng-bayat-tork/1541079951 · https://open.spotify.com/track/6gaSAkcsQrL1QQy9y9pwOQ
+- Del miravad (Qe94q8j) https://music.apple.com/us/song/del-miravad/1541079952 · https://open.spotify.com/track/5NJh31x3M6F5NpFRL4i9AY
+- Reng Afshari (Qv43p2q) https://music.apple.com/us/song/reng-afshari/1541079953 · https://open.spotify.com/track/6gxW85SabAXh6xHEKKNObU
+- Be yek Negah (Q6dv3c6) https://music.apple.com/us/song/be-yek-negah/1541079954 · https://open.spotify.com/track/5iYXEzlM9029hovlCGaCok
+- Raghs-e-chobi (Q5qa9we) https://music.apple.com/us/song/raghs-e-chobi/1541079955 · https://open.spotify.com/track/6MvVGArI87JNkCrj0RpYrl
+- Atash-e Javedan (Q8xmxb6) https://music.apple.com/us/song/atash-e-javedan/1541079956 · https://open.spotify.com/track/0OsCTOJ6XUgCASk7echabN
+- Reng-e Dashti (Qjwcnv2) https://music.apple.com/us/song/reng-e-dashti/1541079957 · https://open.spotify.com/track/38fhTstLkrG62piAlQzhW1
+- Zalil o bichareh (Q4rz3yd) https://music.apple.com/us/song/zalil-o-bichareh/1541079958 · https://open.spotify.com/track/65Yt3t1myDVZx2PZKBBY4M
+- ASRAR-E-AZAL (feat. Pouria Akhavas) (Qtg5sc4) https://music.apple.com/us/song/asrar-e-azal-feat-pouria-akhavas/1718656979 · https://open.spotify.com/track/5cocQ2MwiGXcnjKZuYoEn0 · https://open.spotify.com/album/25tB6FhZEPkDIIyLXCFOzf
+- Ahang Collection 2 (Ney Solo) (Qkxngg2) https://music.apple.com/us/song/ahang-collection-2-ney-solo/1802681969 · https://open.spotify.com/track/7s3cbidQk1NhwLxWANziGy · https://open.spotify.com/album/17hmASfOBO0GB3gJlod4Na
+- Back Then, We Also Had Been, Vol. 7 (Qqpntyw) https://music.apple.com/us/song/back-then-we-also-had-been-vol-7/1703495015 · https://open.spotify.com/track/44TXhLui9C8WOoGVRMSBNt · https://open.spotify.com/album/4wGyqg5d3qJ6zdov9Dp2dQ
+- Golrizan (Q39pwr2) https://music.apple.com/us/album/golrizan/6824610921 · https://open.spotify.com/album/03u6sVnY6gRLA5NI1AncAE
+- Bayat -e Tork Prelude (Q8ytatg) https://music.apple.com/us/song/bayat-e-tork-prelude/6824610925 · https://open.spotify.com/track/3FZsljQugzviEk2DqFLQJA
+- Ney Solo (Bayat-e Tork) (Qh9k4mp) https://music.apple.com/us/song/ney-solo-bayat-e-tork/6824610926 · https://open.spotify.com/track/38hcZrh0pokpkX0cTZJ5bd
+- Bayat-e Tork Zarbi (Qnxkjtd) https://music.apple.com/us/song/bayat-e-tork-zarbi/6824610931 · https://open.spotify.com/track/3q7rxb5k5hfhnYWPikRKsH
+- Abu Ata Saqi Nameh (Q6psrs9) https://music.apple.com/us/song/abu-ata-saqi-nameh/6824610939 · https://open.spotify.com/track/5WiB6cEwkY8byP7jVSc2Iq
+- Shur Zarbi (Qz6jcjt) https://music.apple.com/us/song/shur-zarbi/6824610943 · https://open.spotify.com/track/3n0Jv0ZfIWfyAqTLX5vtZF
+- Homayoun Prelude (Qrz76kr) https://music.apple.com/us/song/homayoun-prelude/6824610946 · https://open.spotify.com/track/60fZehM2IKJBBqP4Ue946m
+- Ney Solo (Homayoun) (Qb5xy8s) https://music.apple.com/us/song/ney-solo-homayoun/6824610947 · https://open.spotify.com/track/1hh7DQ5dW9dW60ktVyVdGf
+- Homayoun Zarbi (Qhws929) https://music.apple.com/us/song/homayoun-zarbi/6824611101 · https://open.spotify.com/track/1wvIrJMLuuVY4tMcUPj9mW
+- Chahargah Prelude (Qhnaped) https://music.apple.com/us/song/chahargah-prelude/6824611103 · https://open.spotify.com/track/7xDrbVnkHzgDulHRd0cTsn
+- Ney Solo (Chahargah) (Qdm3fam) https://music.apple.com/us/song/ney-solo-chahargah/6824611108 · https://open.spotify.com/track/4EmZq4YzBBxCfECyx8XDLf
+- Chahargah Zarbi (Qgcj4va) https://music.apple.com/us/song/chahargah-zarbi/6824611115 · https://open.spotify.com/track/0lk9wAInkYmJpY1MQu5fjD
+- TARANE-E DEGAR (feat. Maliheh Moradi) (Qebp6c5) https://music.apple.com/us/song/tarane-e-degar-feat-maliheh-moradi/1718655544 · https://open.spotify.com/track/7sZ0DFAe4mTCSoc8i5xWVQ · https://open.spotify.com/album/1ASZD0xChO9I4y2JOB1Aq0
+- Taranomi Baraye Sobh (Q79egrs) https://music.apple.com/us/album/taranomi-baraye-sobh/1693166078 · https://open.spotify.com/album/4HcOvE06LvqqNuEcTIyirU
+- Hamsafar (Qz67n2v) https://music.apple.com/us/song/hamsafar/1693166081 · https://open.spotify.com/track/0icTDUAjnBh4cSwNbOtmh6
+- Ney o Avaz (Q55sa52) https://music.apple.com/us/song/ney-o-avaz/1693166082 · https://open.spotify.com/track/7mQGm9jb1Om05qa9KtW4Ll
+- Ahange Raah (Qnkhf5y) https://music.apple.com/us/song/ahange-raah/1693166083 · https://open.spotify.com/track/16N9sWhJ8xyC5vaETtGAN8
+- Taknavazie Setar (Qa584ez) https://music.apple.com/us/song/taknavazie-setar/1693166236 · https://open.spotify.com/track/3U1yyKdYdvEsuR6y9PYJ6j
+- Bi Tab (Qkp3s82) https://music.apple.com/us/song/bi-tab/1693166238 · https://open.spotify.com/track/5ta3o4F4iESRO7YELjN3un
+- Tar O Avaz (Q4qxfqn) https://music.apple.com/us/song/tar-o-avaz/1693166239 · https://open.spotify.com/track/4u5ZsQAhHbmYK1SbkUlY8q
+- Daroone Meh (Qf7r5g7) https://music.apple.com/us/song/daroone-meh/1693166240 · https://open.spotify.com/track/6KCS5qfyfUpI3TXOrI37FW
+- Taknavazie Oud (Q3zwbws) https://music.apple.com/us/song/taknavazie-oud/1693166242 · https://open.spotify.com/track/65IDgMvps059zcAifnBrXt
+- Taranomi Baraye Sobh (Qkbnbbr) https://music.apple.com/us/song/taranomi-baraye-sobh/1693166248 · https://open.spotify.com/track/6XHVsAaHsF46tD0uOHJlTm
+- Taknavazie Kamancheh (Qwnjsrk) https://music.apple.com/us/song/taknavazie-kamancheh/1693166249 · https://open.spotify.com/track/1enBBUsNmfTZgsG7JGQSHM
+- Shero Jooybar (Qqd5ayc) https://music.apple.com/us/song/shero-jooybar/1693166250 · https://open.spotify.com/track/2ejHbp1jCtsmAJdANicwF1
+- Don't Go Far Away (Qj4psa9) https://music.apple.com/us/album/dont-go-far-away/1624421329 · https://open.spotify.com/album/23E5XE8uioFXO5YdMn4q1i
+- Lay Lay (Q6y23dr) https://music.apple.com/us/song/lay-lay/1624421341 · https://open.spotify.com/track/2EXbIxOUGdW2QtbmE7aMRv
+- Getma Getma (Qk577db) https://music.apple.com/us/song/getma-getma/1624421343 · https://open.spotify.com/track/3o5PGwuZHyWBo7YTl7jgor
+- Bugun Ayın ucudur (Q8kkq7e) https://music.apple.com/us/song/bugun-ay%C4%B1n-ucudur/1624421527 · https://open.spotify.com/track/3clMSm2jjW45PcKHnEcfos
+- Qal Sana Qurban (Qt33c2y) https://music.apple.com/us/song/qal-sana-qurban/1624421536 · https://open.spotify.com/track/29crSbgymXPwS0LkDiXyfD
+- Kor Arab Mahinisi (Qbq7bng) https://music.apple.com/us/song/kor-arab-mahinisi/1624421541 · https://open.spotify.com/track/4QqnCU6jhSpUfbA1jBNUnA · https://www.youtube.com/watch?v=9K4Xc4bzNdY
+- Yaniram (Qapqrpa) https://music.apple.com/us/song/yaniram/1624421552 · https://open.spotify.com/track/5J4hPGue3fjnC9m0DNKwWm
+- Uca Daglar Basinda (Qdqjmtt) https://music.apple.com/us/song/uca-daglar-basinda/1624421736 · https://open.spotify.com/track/2TPYzwr098v3qTPDxG0WMC
+- Back Then, We Also Had Been, Vol. 8 (Qyedjs6) https://music.apple.com/us/song/back-then-we-also-had-been-vol-8/1703494583 · https://open.spotify.com/track/09x4iycxCOPWa9UNPrG8CX · https://open.spotify.com/album/7JTlGkhaIDZtZfNiSNSCsA
+- Back Then, We Also Had Been, Vol. 4 (Qbn8egv) https://music.apple.com/us/song/back-then-we-also-had-been-vol-4/1644641662 · https://open.spotify.com/track/12XRqIrXXMHU6yxF5RQE94 · https://open.spotify.com/album/77HU8oRNwVv5EzPyjksOrx
+- Roam (Qvxnbeb) https://music.apple.com/us/song/roam/1539875490 · https://open.spotify.com/track/3lkH3ur9YlAz6sd1MpMK8k · https://open.spotify.com/album/2O62lG0utP3z5I6RSkiV6G
+- NOT GONE YET (Qrcvn7a) https://music.apple.com/us/song/not-gone-yet/1574733349 · https://open.spotify.com/track/0qt9tKPfag4J5JPnFeTZl1 · https://open.spotify.com/album/4SZzDgh4eGSnPGtJJBwFqU
+- GOL-E PAR PAR (feat. Mehdi Emami) (Q5jeae8) https://music.apple.com/us/song/gol-e-par-par-feat-mehdi-emami/1718637553 · https://open.spotify.com/track/7b4fExXktgaC5gdgbLKD77 · https://open.spotify.com/album/0AuQTQRJk5s0VwcyNv4MVQ
+- Maqam-e Masnavi (Qr9szph) https://music.apple.com/us/album/maqam-e-masnavi/6828524461 · https://open.spotify.com/album/2ZFSVdQ7C9tkOO3JVqlT7r
+- Masnavi in Abu’ata (Qhncdrr) https://music.apple.com/us/song/masnavi-in-abuata/6828524462 · https://open.spotify.com/track/79azG8KKlaKcZYT2ArQgNP
+- Masnavi in Bayat Tork (Qjwj3f8) https://music.apple.com/us/song/masnavi-in-bayat-tork/6828524463 · https://open.spotify.com/track/69dMw3qg2IpFemAeu0DMhN
+- Masnavi in Afshari (Qcwq49m) https://music.apple.com/us/song/masnavi-in-afshari/6828524464 · https://open.spotify.com/track/1aRpZDa5gGLyoQUSyNP08s
+- Masnavi in Dashti (Qdge8db) https://music.apple.com/us/song/masnavi-in-dashti/6828524465 · https://open.spotify.com/track/5NyezTnoJCPX0BmeKb8rhJ
+- Masnavi in Kord–e Bayat (Qyyz56k) https://music.apple.com/us/song/masnavi-in-kord-e-bayat/6828524466 · https://open.spotify.com/track/0BSIqXWSVC9c60v90tuAX5 · https://soundcloud.com/mahoor-institute/masnavi-in-avaz-e-kord-e-bayatmaqam-e-masnavi
+- Masnavi in Shur (Q2wdyxq) https://music.apple.com/us/song/masnavi-in-shur/6828524467 · https://open.spotify.com/track/7dpzPM3LEwZMg4iSqxO5GV
+- Masnavi in Nava (Qq5ap2e) https://music.apple.com/us/song/masnavi-in-nava/6828524469 · https://open.spotify.com/track/0C1ps4yommrtg3tTycNEw9
+- Masnavi in Bayat–e Esfahan (Qc4d9em) https://music.apple.com/us/song/masnavi-in-bayat-e-esfahan/6828524470 · https://open.spotify.com/track/2rGonuEarWti9BDwwuknoQ
+- Masnavi in Homayun (Qzeveae) https://music.apple.com/us/song/masnavi-in-homayun/6828524471 · https://open.spotify.com/track/58O7YxfpoBzeVWx57jsiEv
+- Masnavi in Segah (Qcv3a9n) https://music.apple.com/us/song/masnavi-in-segah/6828524472 · https://open.spotify.com/track/7IMIgcfnP3PcInhR8yXXLe
+- Masnavi in Chahargah (Q2c6gw8) https://music.apple.com/us/song/masnavi-in-chahargah/6828524473 · https://open.spotify.com/track/6bDIGvy5VMNSvkkTDnu4cc
+- Masnavi in Mahur (Q4qcfsx) https://music.apple.com/us/song/masnavi-in-mahur/6828524475 · https://open.spotify.com/track/7nyJFEDHuDsUjbIyMpd4LJ
+- Masnavi in Rast-Panjgah (Qydj7w4) https://music.apple.com/us/song/masnavi-in-rast-panjgah/6828524476 · https://open.spotify.com/track/3pZkGwRZpPYAK9efFJ4G4r
+- Negarineh (Q6ptmwt) https://music.apple.com/us/album/negarineh/1542838267 · https://open.spotify.com/album/3Qsb4NF1mZovP0IwVok3Ap
+- RANG-E DELGOSHA (Qpyxzfn) https://music.apple.com/us/song/rang-e-delgosha/1542838268 · https://open.spotify.com/track/1jDYo0Zfd1fwz7WRVQdrMa
+- AVAZ, NAY, SANTOUR (Qjw6ktt) https://music.apple.com/us/song/avaz-nay-santour/1542838269 · https://open.spotify.com/track/33txCEZAD8mSPbUrenZfDI
+- TASNIF NEGAR (Qwh8vnh) https://music.apple.com/us/song/tasnif-negar/1542838270 · https://open.spotify.com/track/5sMgu0UKgQXqmbpK3CyRbv
+- AVAZ, SANTOUR (Qmhc696) https://music.apple.com/us/song/avaz-santour/1542838271 · https://open.spotify.com/track/2AtibBa1bLhwvyWBmrBCtE
+- TASNIF AZ IN DELAM BI KHABARI (Q8h6yys) https://music.apple.com/us/song/tasnif-az-in-delam-bi-khabari/1542838272 · https://open.spotify.com/track/5vMMQefb4hs97WTvGaZ6f2
+- AVAZ NEY (Q2pbbvb) https://music.apple.com/us/song/avaz-ney/1542838273 · https://open.spotify.com/track/4qMmj02og4DDs8hUbBvKTO
+- TASNIF NASIM-E SHAHR, SHAHNAZI (Qfgq8a3) https://music.apple.com/us/song/tasnif-nasim-e-shahr-shahnazi/1542838274 · https://open.spotify.com/track/5sclxc6QEw6MZNsHxQCa6q
+- AVAZ, OUD (Qfzbsyh) https://music.apple.com/us/song/avaz-oud/1542838275 · https://open.spotify.com/track/2bE8XZmacayqDoYXusr0FS
+- CHAHAR MEZRAB. HEJAZ. SABA (Q9hx8gy) https://music.apple.com/us/song/chahar-mezrab-hejaz-saba/1542838276 · https://open.spotify.com/track/185LgQKqhHHgMB9zmOMFXN
+- SOLO OUD (Qj4vwp8) https://music.apple.com/us/song/solo-oud/1542838277 · https://open.spotify.com/track/3nQ6B0ivMimGX29sSraRvw
+- PISH DARAMAD ESFAHAN. BAHARI (Qmrfp69) https://music.apple.com/us/song/pish-daramad-esfahan-bahari/1542838278 · https://open.spotify.com/track/7ks49Sx6MRYeOznAwSIbaS
+- AVAZ ESFAHAN. SANTOUR (Q2wzt4y) https://music.apple.com/us/song/avaz-esfahan-santour/1542838279 · https://open.spotify.com/track/6iKXnNPR7cG04BkCj2pRyU
+- CHAHAR MEZRAB ESFAHAN. SABA (Qm87qab) https://music.apple.com/us/song/chahar-mezrab-esfahan-saba/1542838280 · https://open.spotify.com/track/5IjecVcSD1tV4y0J3EbmUz
+- AVAZ-E MASNAVI. NAY (Qnq8e3f) https://music.apple.com/us/song/avaz-e-masnavi-nay/1542838281 · https://open.spotify.com/track/4RoZhH0ujApecWeoTZyN6I
+- TASNIF. NADIDEH ROKHAT (Qkmkxkk) https://music.apple.com/us/song/tasnif-nadideh-rokhat/1542838282 · https://open.spotify.com/track/3iyfPGr0wTXpoCswHg5nYy
+- RENGE ESFAHAN. NAY DAVOOD (Qvh68ta) https://music.apple.com/us/song/renge-esfahan-nay-davood/1542838283 · https://open.spotify.com/track/7Mychm729QQFF2DzCUOFqi
+- The Dastgahs of Persian Music: Dastgah-e Nava (Female) (Q25s6ha) https://music.apple.com/us/album/the-dastgahs-of-persian-music-dastgah-e-nava-female/1868165829 · https://open.spotify.com/album/5lmtIwON77isZZkuO0Uzcp
+- Gavesht (feat. Samin Ghorbani & Siamak Jahangiry) [Female] (Qxseh79) https://music.apple.com/us/song/gavesht-feat-samin-ghorbani-siamak-jahangiry-female/1868166022 · https://open.spotify.com/track/2XjIxDYNIsNTlo9PqZIfZy
+- Hosseini (feat. Samin Ghorbani & Siamak Jahangiry) [Female] (Qefmh7w) https://music.apple.com/us/song/hosseini-feat-samin-ghorbani-siamak-jahangiry-female/1868166030 · https://open.spotify.com/track/3aFdUMvXdmgqGXHKEH1Z6q
+- Az Karevane Rafteh (Qj7pyv6) https://music.apple.com/us/album/az-karevane-rafteh/1629982331 · https://open.spotify.com/album/3JbSTnDa9dSLQtuE8otTHu
+- Pishdaramade Esfahan (Q28wwd9) https://music.apple.com/us/song/pishdaramade-esfahan/1629982513 · https://open.spotify.com/track/7F5CBk3d2LO5B0uvbNXvys
+- Sazo Avaze Esfahan (Qra3x2x) https://music.apple.com/us/song/sazo-avaze-esfahan/1629982521 · https://open.spotify.com/track/3jI5umyWmfRXO6eOoQrcPl
+- Pishdaramad Dashti (Qabhjv9) https://music.apple.com/us/song/pishdaramad-dashti/1629982530 · https://open.spotify.com/track/7EIRvBDAdh21LlMzkDIOxs
+- Sazo Avaze Dashti (Qfyt8e9) https://music.apple.com/us/song/sazo-avaze-dashti/1629982776 · https://open.spotify.com/track/54LfFC1Oc38lX2kznEFt7E
+- Tasnife Karevan (Qwvbbse) https://music.apple.com/us/song/tasnife-karevan/1629982790 · https://open.spotify.com/track/0nBMoKPylcUwzOl4pej29D
+- Chaharmezrabe Karevan (Q7qw9px) https://music.apple.com/us/song/chaharmezrabe-karevan/1629982877 · https://open.spotify.com/track/6kvkMcvVf4vSxjfJ37i86X
+- Sazo Avaz Shoor Va Dashti (Qa4mde9) https://music.apple.com/us/song/sazo-avaz-shoor-va-dashti/1629982885 · https://open.spotify.com/track/5Y5H6BXTCFbKZUbQc1GCsA
+- Tasnife Hasrate Ayeneh (Qjwjwn3) https://music.apple.com/us/song/tasnife-hasrate-ayeneh/1629983138 · https://open.spotify.com/track/6jLnZgOtnZnDI1smPl1boK
+- Reng (Qncjtas) https://music.apple.com/us/song/reng/1629983144 · https://open.spotify.com/track/0oNmt4XSRaoRxHLiowJekC
+- One Meter Seventy (feat. Simin Behbahani) (Qcrptw3) https://music.apple.com/us/album/one-meter-seventy-feat-simin-behbahani/6782796635 · https://open.spotify.com/album/7vYbi5EhRo9OZz9IYuHEuw
+- Sangvareh (feat. Simin Behbahani) (Q9mhz8m) https://music.apple.com/us/song/sangvareh-feat-simin-behbahani/6782796879 · https://open.spotify.com/track/0ROlxolVoZc79fkDuPUJnP
+- Mardi Ke Yek Pa Nadarad (feat. Simin Behbahani) (Qmw2r8g) https://music.apple.com/us/song/mardi-ke-yek-pa-nadarad-feat-simin-behbahani/6782796883 · https://open.spotify.com/track/1hlPLN31EBfUkIO9LbEMgw
+- Beshmar Barg Haye Goli Ra (feat. Simin Behbahani) (Qz2a7a4) https://music.apple.com/us/song/beshmar-barg-haye-goli-ra-feat-simin-behbahani/6782796889 · https://open.spotify.com/track/0qPDM9VWSCQJA6ooo9cwYr
+- Makhan (feat. Simin Behbahani) (Qgt37s4) https://music.apple.com/us/song/makhan-feat-simin-behbahani/6782796895 · https://open.spotify.com/track/2Xt8Njnr3gjYhrXV2YpKAR
+- Pesteh (feat. Simin Behbahani) (Qnzzybt) https://music.apple.com/us/song/pesteh-feat-simin-behbahani/6782796899 · https://open.spotify.com/track/3lE72JBfaTx8fV5DTlMklF
+- Dobareh Misazamat Vatan (feat. Simin Behbahani) (Qn7fg3z) https://music.apple.com/us/song/dobareh-misazamat-vatan-feat-simin-behbahani/6782796908 · https://open.spotify.com/track/7jvfJzrRTV71Laf4rmEGhg
+- Bebin Be Heyate Niloofar (feat. Simin Behbahani) (Qk5t9rr) https://music.apple.com/us/song/bebin-be-heyate-niloofar-feat-simin-behbahani/6782797001 · https://open.spotify.com/track/7bOfcmOz9cSZ7OCpUABDWO
+- Nooshidaniye Garm Ya Sard (feat. Simin Behbahani) (Q6k78hb) https://music.apple.com/us/song/nooshidaniye-garm-ya-sard-feat-simin-behbahani/6782797005 · https://open.spotify.com/track/19N4zf5W8MenuIlx1EZCiJ
+- Va Negah Kon (feat. Simin Behbahani) (Qaa9jda) https://music.apple.com/us/song/va-negah-kon-feat-simin-behbahani/6782797008 · https://open.spotify.com/track/3GiLiiz2uHDUiYt9k5xrZ9
+- Tan Kashide Zire Baale Shab (feat. Simin Behbahani) (Qasc2xy) https://music.apple.com/us/song/tan-kashide-zire-baale-shab-feat-simin-behbahani/6782797010 · https://open.spotify.com/track/0VkinoHjDc2PEtSF4dkgps
+- Delam Gerefteh Ey Doost (feat. Simin Behbahani) (Qxrfmst) https://music.apple.com/us/song/delam-gerefteh-ey-doost-feat-simin-behbahani/6782797017 · https://open.spotify.com/track/7zxL3YA1q9mu6WmROQF8DX
+- Ghasam Be Angiro Zeytoon (feat. Simin Behbahani) (Q47k8y9) https://music.apple.com/us/song/ghasam-be-angiro-zeytoon-feat-simin-behbahani/6782797020 · https://open.spotify.com/track/6nGtUOHFzvPStvM8aFQQt4
+- Dar Toole Raah (feat. Simin Behbahani) (Qkn48mp) https://music.apple.com/us/song/dar-toole-raah-feat-simin-behbahani/6782797022 · https://open.spotify.com/track/3a15TWIbGe1FnvH3BiHMaI
+- Dar Nagozire Khamoosham (feat. Simin Behbahani) (Qh5nk7g) https://music.apple.com/us/song/dar-nagozire-khamoosham-feat-simin-behbahani/6782797024 · https://open.spotify.com/track/4zHAeAb7Cb5AuljIg6ponj
+- Az Adam Amad Ke Poor Konad (feat. Simin Behbahani) (Qmmq7wj) https://music.apple.com/us/song/az-adam-amad-ke-poor-konad-feat-simin-behbahani/6782797026 · https://open.spotify.com/track/6rWwZQgVmEj0WkKDsCQCrJ
+- Yek Mehtro Haftad Sadom (feat. Simin Behbahani) (Qq87rvm) https://music.apple.com/us/song/yek-mehtro-haftad-sadom-feat-simin-behbahani/6782797300 · https://open.spotify.com/track/7AYUS3l5bM6iuAEpsdJw8y
+- The Eye of the Night (feat. Mehdi Emami) (Qd2xgye) https://music.apple.com/us/song/the-eye-of-the-night-feat-mehdi-emami/1797204750 · https://open.spotify.com/track/7kqq2eypfSmCLRgSjnMx71 · https://open.spotify.com/album/7ziai4Etej19P9KxOXX8gM
+- KOH-E KOHAN (feat. Maliheh Moradi) (Qxj6hbw) https://music.apple.com/us/song/koh-e-kohan-feat-maliheh-moradi/1718640082 · https://open.spotify.com/track/4AMomBrprR0jVNSkbXqIR4 · https://open.spotify.com/album/3z3NMNRRBl2EKrjwI6P1A3
+- An Unawaited Wayfarer (Qqk9jax) https://music.apple.com/us/album/an-unawaited-wayfarer/1463385430 · https://open.spotify.com/album/1uPruwMl8P0pvDtQJueRmk
+- The Butterfly and the Wind (Q2fdght) https://music.apple.com/us/song/the-butterfly-and-the-wind/1463385431 · https://open.spotify.com/track/47uM4sKb5d4lpGgk2vOKuR
+- The Stranger (Qf67ft2) https://music.apple.com/us/song/the-stranger/1463385432 · https://open.spotify.com/track/3p8dkueUmJMxrrpuqeGRQS
+- An Opening to the Light (Q46hx3k) https://music.apple.com/us/song/an-opening-to-the-light/1463385433 · https://open.spotify.com/track/2ivW2UiskutoRXtKAYKUSb
+- Through Stained Glass (Q22sh65) https://music.apple.com/us/song/through-stained-glass/1463385435 · https://open.spotify.com/track/1MBxru2n88vWAnd4AiiRXq
+- An Unawaited Wayfarer (Qg58fgg) https://music.apple.com/us/song/an-unawaited-wayfarer/1463385436 · https://open.spotify.com/track/7bLIcnuYCMwouIh32qo8LR
+- The Shadows (Qdy97w3) https://music.apple.com/us/song/the-shadows/1463385437 · https://open.spotify.com/track/1C8p123UEivAMHrRKBWaT2
+- The Autumn (Q962ase) https://music.apple.com/us/song/the-autumn/1463385438 · https://open.spotify.com/track/2crRO51qG49izkdM4M9vCj
+- Disturbing Dream (Qh3fwk6) https://music.apple.com/us/song/disturbing-dream/1463385439 · https://open.spotify.com/track/1ybGY8LFe2ragGMSIyX9zF
+- Quest (Qzdphpp) https://music.apple.com/us/song/quest/1463385440 · https://open.spotify.com/track/0eKiBgIZLezB4TowLuaObT
+- The Encounter (Q7fe7jk) https://music.apple.com/us/song/the-encounter/1463385441 · https://open.spotify.com/track/7cLivtmS5wOpUYPaOdhi0o
+- Fellow Travelers Song (Q5ffwe3) https://music.apple.com/us/song/fellow-travelers-song/1463385442 · https://open.spotify.com/track/0zIf3vn2Y4nyTqKfFSZ0Bb
+- ZE LEILAI YE TO (feat. Saba Pashaee) [Radio Edit] (Qbz73ff) https://music.apple.com/us/song/ze-leilai-ye-to-feat-saba-pashaee-radio-edit/1718638394
+- PARIKHANEH (Qetwxhg) https://music.apple.com/us/album/parikhaneh/1715579265 · https://open.spotify.com/album/3Q8sRKpCZnJDYcv4LMyD05
+- OVERTURE-CHAHARGAH (Qf3zdzn) https://music.apple.com/us/song/overture-chahargah/1715579266 · https://open.spotify.com/track/483aXiyNEj1S1PBC77v21i
+- ASEMAN-OLD SONG (feat. SAMIN GHORBANI) (Qtd294g) https://music.apple.com/us/song/aseman-old-song-feat-samin-ghorbani/1715579477 · https://open.spotify.com/track/2NrTmPOKkG0yN4Y89799TO
+- NEY AND VOCAL (feat. SAMIN GHORBANI) (Qqxv9rn) https://music.apple.com/us/song/ney-and-vocal-feat-samin-ghorbani/1715579478 · https://open.spotify.com/track/7uChuj8Uo3fmRby4EQmwwz
+- CHAHARMEZRAB-ABOLHASAN SABA (feat. SAMIN GHORBANI) (Q8aqh8q) https://music.apple.com/us/song/chaharmezrab-abolhasan-saba-feat-samin-ghorbani/1715579479 · https://open.spotify.com/track/2oKAEUpv5KiMLFdq7rgSGZ
+- GHANON AND VOCAL (feat. SAMIN GHORBANI) (Qntdpbw) https://music.apple.com/us/song/ghanon-and-vocal-feat-samin-ghorbani/1715579480 · https://open.spotify.com/track/0a3E6QCxev6amDCphts8i6
+- AVAZ MOKHALEF (feat. SAMIN GHORBANI) (Qh3gkb4) https://music.apple.com/us/song/avaz-mokhalef-feat-samin-ghorbani/1715579481 · https://open.spotify.com/track/1cht2HiEB65bie7ZvgYt8b
+- CHAHARMEZRAB MOKHALEF (GHOLAMHOSSAIN BIGJ IKHANI) (Qgprs2h) https://music.apple.com/us/song/chaharmezrab-mokhalef-gholamhossain-bigj-ikhani/1715579482 · https://open.spotify.com/track/2TEDJhdp8fCfcQ63YcfuWc
+- OUD NEY AND VOCAL (feat. SAMIN GHORBANI) (Q7p8myn) https://music.apple.com/us/song/oud-ney-and-vocal-feat-samin-ghorbani/1715579483 · https://open.spotify.com/track/6LsDADzkJOOscQQiYbaJuY
+- BE YEK NEGAH (feat. SAMIN GHORBANI) (Q22qsec) https://music.apple.com/us/song/be-yek-negah-feat-samin-ghorbani/1715579484 · https://open.spotify.com/track/2uGi2xDbdI7RkfHxX2XnIW
+- NEY OUD AND VOCAL (feat. SAMIN GHORBANI) (Qdq8swh) https://music.apple.com/us/song/ney-oud-and-vocal-feat-samin-ghorbani/1715579485 · https://open.spotify.com/track/0AN4yOaS7PridMkjIH8fm7
+- SORATGAR (OLD SONG) (feat. SAMIN GHORBANI) (Q9mw3d5) https://music.apple.com/us/song/soratgar-old-song-feat-samin-ghorbani/1715579486 · https://open.spotify.com/track/1vHXribtrKs1KyvsXLFpmy
+- RENG (MEHDI KHALEDI) (Qygx5x8) https://music.apple.com/us/song/reng-mehdi-khaledi/1715579487 · https://open.spotify.com/track/5EwTPzDrGf6kNERQQOw5g8
+- Shab-e Toufani-e Adam (A Stormy Night in the Void) (Qbh5gxh) https://music.apple.com/us/album/shab-e-toufani-e-adam-a-stormy-night-in-the-void/1816457431 · https://open.spotify.com/album/0HWAkxjZxUTdtCokp7rDQm
+- Sorkhab (feat. Mojtaba Asgari, Siamak Jahangiri, Hamid Khansari & Zakaria Yousefi) (Q5kccxg) https://music.apple.com/us/song/sorkhab-feat-mojtaba-asgari-siamak-jahangiri-hamid/1816457432 · https://open.spotify.com/track/5dfB1KmqKUhJZuKG3eunA0
+- The Prophet (Payambar) (feat. Mojtaba Asgari, Siamak Jahangiri, Hamid Khansari & Zakaria Yousefi) (Qbj2z38) https://music.apple.com/us/song/the-prophet-payambar-feat-mojtaba-asgari-siamak/1816457433 · https://open.spotify.com/track/0JQZcLCBb4guyWmNqJ3ETI
+- Ney (feat. Siamak Jahangiri) (Qbwzxzc) https://music.apple.com/us/song/ney-feat-siamak-jahangiri/1816457434 · https://open.spotify.com/track/3oMl88GmvDDYVjbpraLXdN
+- Twirl (Be Charkh Andar) (feat. Mojtaba Asgari, Siamak Jahangiri, Hamid Khansari & Zakaria Yousefi) (Q2extw3) https://music.apple.com/us/song/twirl-be-charkh-andar-feat-mojtaba-asgari-siamak-jahangiri/1816457435 · https://open.spotify.com/track/0XG161czn49eXnlxuHjnQ0
+- A Stormy Night in the Void (Shabe Toufanie Adam) (feat. Mojtaba Asgari, Siamak Jahangiri, Hamid Khansari & Zakaria Yousefi) (Qy6de84) https://music.apple.com/us/song/a-stormy-night-in-the-void-shabe-toufanie-adam/1816457438 · https://open.spotify.com/track/1lLdQ5uXin83eGybgN6vJm
+- Faryad Khaan (feat. Mojtaba Asgari, Siamak Jahangiri, Hamid Khansari & Zakaria Yousefi) (Qfzny8s) https://music.apple.com/us/song/faryad-khaan-feat-mojtaba-asgari-siamak-jahangiri-hamid/1816457440 · https://open.spotify.com/track/26xKvPtv2ifDiuDbR1UjsF
+- Dar Band-E Ney (Qvqk5wb) https://music.apple.com/us/album/dar-band-e-ney/1539795631 · https://open.spotify.com/album/4DxrY7dOjNCxH620DTuJyt
+- Ney and Tombak (Dastgah e chahargah Part 1) (Qd3pyd7) https://music.apple.com/us/song/ney-and-tombak-dastgah-e-chahargah-part-1/1539795633 · https://open.spotify.com/track/4YYQOOsDRZJCwqBtkG3hQD
+- Ney and Tombak (Dastgah e chahargah Part 2) (Qwz25ag) https://music.apple.com/us/song/ney-and-tombak-dastgah-e-chahargah-part-2/1539795634 · https://open.spotify.com/track/0CUO2mzFGkE6CEXarSbL5O
+- Reveal Your Face (Qmjec3q) https://music.apple.com/us/album/reveal-your-face/1770081272 · https://open.spotify.com/album/2MOmlq02NayVzRfkMvjuiD
+- Tasnif "Mah–e No Safar" (Bayat Tork) [feat. Samer Habibi, Ali Bahramifard, Ali-Asghar Arabshahi, Hamid Khansari, Hoseyn Zamani & Nabil Yousef Sheridavi] (Qen4ncs) https://music.apple.com/us/song/tasnif-mah-e-no-safar-bayat-tork-feat-samer-habibi/1770081273 · https://open.spotify.com/track/3je68RvguvFk2VNvX3VpoW
+- Solo Tar (feat. Ali-Asghar Arabshahi) (Qzpzrns) https://music.apple.com/us/song/solo-tar-feat-ali-asghar-arabshahi/1770081276 · https://open.spotify.com/track/6aiIdviUgctoLoqBB3k1ud
+- Chaharmezrab Parvaz (Bayat Tork) [feat. Samer Habibi, Ali Bahramifard, Ali-Asghar Arabshahi, Hamid Khansari, Hoseyn Zamani & Nabil Yousef Sheridavi] (Qmygth9) https://music.apple.com/us/song/chaharmezrab-parvaz-bayat-tork-feat-samer-habibi-ali/1770081277 · https://open.spotify.com/track/1L56Pr7d98O1eW00vPxqWy
+- Avaz (Ud and Kamanche Alto) [feat. Samer Habibi & Hamid Khansari] (Q2p6b79) https://music.apple.com/us/song/avaz-ud-and-kamanche-alto-feat-samer-habibi-hamid-khansari/1770081278 · https://open.spotify.com/track/4Hsy8BYl3N8tjYMWfS1tZr
+- Tasnif "Mast–o Kharab" (Afshari) [feat. Samer Habibi, Ali Bahramifard, Ali-Asghar Arabshahi, Hamid Khansari, Hoseyn Zamani & Nabil Yousef Sheridavi] (Qyqsn3v) https://music.apple.com/us/song/tasnif-mast-o-kharab-afshari-feat-samer-habibi-ali/1770081279 · https://open.spotify.com/track/0T62kfGy7VJ3d0rcM8G7cQ
+- Avaz I (Ney) (Qkh8avr) https://music.apple.com/us/song/avaz-i-ney/1770081281 · https://open.spotify.com/track/2QM1vicHPzOXGv0w3jnpiO
+- Tasnif "Rokhat Benama" (Abu'ata) [feat. Samer Habibi, Ali Bahramifard, Ali-Asghar Arabshahi, Hamid Khansari, Hoseyn Zamani & Nabil Yousef Sheridavi] (Qhm3nmw) https://music.apple.com/us/song/tasnif-rokhat-benama-abuata-feat-samer-habibi-ali-bahramifard/1770081282 · https://open.spotify.com/track/3Iyz6SCRYF3ArQA52qBU6h · https://soundcloud.com/mahoor-institute/tasnif-rokhat-benamaabuatareveal-your-face
+- Avaz (Tar) [feat. Ali-Asghar Arabshahi] (Q4sdqgf) https://music.apple.com/us/song/avaz-tar-feat-ali-asghar-arabshahi/1770081283 · https://open.spotify.com/track/4lISqfqogLgM54Z1Ody21Q
+- Tasnif "Rah–e Doshvar" (Dashti) [feat. Samer Habibi, Ali Bahramifard, Ali-Asghar Arabshahi, Hamid Khansari, Hoseyn Zamani & Nabil Yousef Sheridavi] (Qtpmmc5) https://music.apple.com/us/song/tasnif-rah-e-doshvar-dashti-feat-samer-habibi-ali-bahramifard/1770081284 · https://open.spotify.com/track/72tZWBNL1Q9uuTFSLCLLdI
+- Avaz II (Ney) (Qfargvk) https://music.apple.com/us/song/avaz-ii-ney/1770081285 · https://open.spotify.com/track/7GcpyOjJfqVaXPNo3JvhbT
+- Tasnif "Dar Parde Saz" (Bayat Tork) [feat. Samer Habibi, Ali Bahramifard, Ali-Asghar Arabshahi, Hamid Khansari, Hoseyn Zamani & Nabil Yousef Sheridavi] (Qkf3hrm) https://music.apple.com/us/song/tasnif-dar-parde-saz-bayat-tork-feat-samer-habibi-ali/1770081287 · https://open.spotify.com/track/2dHEIBr37ijl6uuDSpaeJ0
+- Khomare Shekasteh Saboo (feat. Siamak Jahangiri, Samer Habibi & Nabil Yousef Sharidavi) (Q3eh5dv) https://music.apple.com/us/song/khomare-shekasteh-saboo-feat-siamak-jahangiri-samer/1599985152
+- مطرب درد (Qwrday6)
+- هم‌نواز ۲ (Qptw2va)
+- ردیف میرزاعبدا لله. به روایت نورعلی برومند. برای ساز نی ۲ (Qy5tvy9)
+- ردیف میرزاعبدالله به‌ روایت نورعلی برومند برای ساز نی ۱ (Qsd8rpz)
+- از گلستان عجم (Q7hje3c)
+- ردیف آوازی به روایت استاد محمود کریمی، دفتر دوم (Qn82t8w)
+- هم‌نواز (Qhrtdze)
+- در پرده‌ها (Qgqjz6w)
+- ردیف آوازی به روایت استاد محمود کریمی دفتر سوم (Q78arbr)
+- ردیف آوازی به روایت استاد محمود کریمی، دفتر اول (Q5ztncx)
+- Tasnif: Tanha Mara Raha kon/ Minstrel of Pain (Qcgyfb7) https://soundcloud.com/mahoor-institute/tasnif-tanha-mara-raha-kon-minstrel-of-pain
+- Daramad-e Dovvom (Dastgah-e Nava)/The Mirzâ Abdollâh Radif.  Ney (1) (Q2wav7c) https://soundcloud.com/mahoor-institute/daramad-e-dovvom-dastgah-e-navathe-mirza-abdollah-radif-interpreted-by-nur-ali-borumand-ney-1
+- Tasnif_ _Delam Divâne Shod_/In Tones (Qesqx2e) https://soundcloud.com/mahoor-institute/tasnif_delam-divane-shod_in-tones
+- Mahur: Ashuravand, Esfahanak, Hazin, Kereshme, Zangule/The Mirza Abdollah Radif. Ney (2) (Qqjtxbp) https://soundcloud.com/mahoor-institute/mahur-ashuravand-esfahanak-hazin-kereshme-zangulethe-mirza-abdollah-radif-interpreted-by-nur-ali-borumand-ney-2
+- Gilaki (Dashti)/The Ney Interpretation (Qgw7s9e) https://soundcloud.com/mahoor-institute/gilaki-dashtithe-ney-interpretation
+- The Ney Interpretation (Qvs4xfc)
+- Dastgah-e Rast Panjgah IX/Interlacement (Qbqcsjv) https://soundcloud.com/mahoor-institute/dastgah-e-rast-panjgah-ixinterlacement
+- Interlacement (Qfxqa85)
+- Chaharmezrab-e Dashti/Hamnavaz (Qzjxcdw) https://soundcloud.com/mahoor-institute/chaharmezrab-e-dashtihamnavaz
+- Feast and Grief (Qfdstd7)
+- Tanha (Q3vksyn)
+- Misty Solitude (Qyd5h3c)
+- The Prince of Sorrows (Qe3ebhc)
+- بدرقه‌ی ماه (Qvmkgds)
+- ضیافت صبح (Q8qqyhr)
+- عود تنها (Qwws9ah)
+- دشت مه‌زده (Qpf47ay)
+- نی تنها (Qc2vbp7)
+- تنیده (Qbn3nft)
+- عود و نی (Qzrvcve)
+- قافله‌ی بی‌قرار شب (Qhgnnzn)
+- بدرقه‌ی ماه (Qh3bt6f)
+- Silk Road Journeys: When Strangers Meet (Remastered) (Q68xm3g) https://music.apple.com/us/album/silk-road-journeys-when-strangers-meet-remastered/564088521 · https://open.spotify.com/album/1HMQdLh7WCXyEGxIvr86HE
+- Persian Traditional Avaz-e Dashti (Qqafa9g) https://music.apple.com/us/song/persian-traditional-avaz-e-dashti/564088729 · https://open.spotify.com/track/1ezANRhOu41ndn7xABSErT · https://www.youtube.com/watch?v=PaGU_FgmsfU
+
+The Nofeh release notice names the original eight recorded duo pieces with Nabil Yousef Sharidavi and the performers describe improvising together on two occasions. The film distributor’s announcement confirms Jahangiri in Mirtahmasb’s documentary on the musicians’ six-year reconstruction. His own ECO interview confirms his work on Shoghnameh.
+
+- شوق‌نامه (Q4kbx76), original 1390 three-CD project. The retrospective distinguishes attributed repertoire from firm authorship. The physical set has no verified complete native listen link.
+- از گلستان عجم (Q7hje3c), Mahoor 1399 two-CD follow-up. Mahoor names Jahangiri on ney and Samer Habibi on alto kamancheh. A secondary database interchanges those roles. Mahoor’s 59-second embedded preview supports the edition, while Behzad Mirzaei describes Jahangiri’s specific contribution to getting it published.
+
+Kherad Art House’s original Intimate Sentiments SoundCloud channel also issues these recordings. Track titles and source edition metadata match the existing panels.
+
+- Do-zarbi-Ye Dashti | Siamak Jahangiri -  دو ضربی دشتی | سیامک جهانگیری (Qxbhaxr) · https://soundcloud.com/intimate-sentiments/do-zarbi-ye-dashti-siamak-jahangiri
+- Pishdarвmad-e Dashti | Siamak Jahangiri (Qzsjkxm) · https://soundcloud.com/intimate-sentiments/pishdarvmad-e-dashti-siamak-jahangiri
+- Clarinet in Dashti 1 | Siamak Jahangiri (Q8g5xgj) · https://soundcloud.com/intimate-sentiments/clarinet-in-dashti-1-siamak-jahangiri
+- Bait’s Captive | Siamak Jahangiri (Qrjdy4h) · https://soundcloud.com/intimate-sentiments/baits-captive-siamak-jahangiri
+- Clarinet in Dashti 2 | Siamak Jahangiri (Q7s3743) · https://soundcloud.com/intimate-sentiments/clarinet-in-dashti-2-siamak-jahangiri
+- Clarinet in Dashti 3 | Siamak Jahangiri (Qqgcqep) · https://soundcloud.com/intimate-sentiments/clarinet-in-dashti-3-siamak-jahangiri
+- Alatiti | Siamak Jahangiri (Q7cqje4) · https://soundcloud.com/intimate-sentiments/vlvtiti-siamak-jahangiri
+- Clarinet in Dashti 4 | Siamak Jahangiri (Qpsvj8f) · https://soundcloud.com/intimate-sentiments/clarinet-in-dashti-4-siamak-jahangiri
+- Reng-e Dashti | Siamak Jahangiri (Q4bnfng) · https://soundcloud.com/intimate-sentiments/reng-e-dashti-siamak-jahangiri
+- Clarinet in Homayoun | Siamak Jahangiri (Qczjgw6) · https://soundcloud.com/intimate-sentiments/clarinet-in-homayoun-siamak-jahangiri
+- Clarinet in Afshari | Siamak Jahangiri (Qzv5sre) · https://soundcloud.com/intimate-sentiments/clarinet-in-afshari-siamak-jahangiri
+- Pishdarвmad-e Afshвri Va Avaz | Siamak Jahangiri (Qhm5qc8) · https://soundcloud.com/intimate-sentiments/pishdarvmad-e-afshvri-va-vvvz-siamak-jahangiri
+- O’ Lord | Siamak Jahangiri (Qy72axh) · https://soundcloud.com/intimate-sentiments/o-lord-siamak-jahangiri
+- Reng-e Afshвri | Siamak Jahangiri (Qpv4knt) · https://soundcloud.com/intimate-sentiments/reng-e-afshvri-siamak-jahangiri

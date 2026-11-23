@@ -1,0 +1,17 @@
+id: Qbn3nft
+type: release
+statements:
+  name:
+  - value:
+      text: تنیده
+      language: fa
+    references:
+    - &id001
+      source: siamak-jahangiri-badraghe
+      quote: تنیده
+      accessed: '2026-11-21'
+      locator: Iranian physical issue tracklist
+  performer:
+  - value: Qnz4xnz
+    references:
+    - *id001

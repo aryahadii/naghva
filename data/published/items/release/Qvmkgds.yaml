@@ -1,0 +1,17 @@
+id: Qvmkgds
+type: release
+statements:
+  name:
+  - value:
+      text: بدرقه‌ی ماه
+      language: fa
+    references:
+    - &id001
+      source: siamak-jahangiri-badraghe
+      quote: بدرقه‌ی ماه
+      accessed: '2026-11-21'
+      locator: Iranian physical issue tracklist
+  performer:
+  - value: Qnz4xnz
+    references:
+    - *id001

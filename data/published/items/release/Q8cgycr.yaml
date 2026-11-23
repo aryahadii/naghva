@@ -1,0 +1,58 @@
+id: Q8cgycr
+type: release
+statements:
+  name:
+  - value:
+      text: Dawn
+      language: en
+    references:
+    - source: siamak-jahangiri-ap1541079949
+      quote: Dawn
+      accessed: '2026-11-21'
+      locator: Album title
+  release date:
+  - value:
+      date: '2020-11-19'
+    references:
+    - source: siamak-jahangiri-ap1541079949
+      quote: '2020-11-19'
+      accessed: '2026-11-21'
+      locator: Edition release date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ee/89/6d/ee896d18-3883-a277-cba8-6a9c2af68bc6/artwork.jpg/1200x630wp-60.jpg
+    references:
+    - source: siamak-jahangiri-ap1541079949
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ee/89/6d/ee896d18-3883-a277-cba8-6a9c2af68bc6/artwork.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Digital release artwork
+    qualifiers:
+      credit:
+        text: Apple Music, original edition artwork
+        language: en
+  performer:
+  - value: Qnz4xnz
+    references:
+    - source: siamak-jahangiri-ap1541079949
+      quote: Siamak Jahangiry
+      accessed: '2026-11-21'
+      locator: Distributor artist credit
+  listen link:
+  - value: https://music.apple.com/us/album/dawn/1541079949
+    references:
+    - source: siamak-jahangiri-ap1541079949
+      quote: https://music.apple.com/us/album/dawn/1541079949
+      accessed: '2026-11-21'
+      locator: Exact edition or recording
+  - value: https://open.spotify.com/album/6Cz69MRqn0Uxcf31BKztkj
+    references:
+    - source: siamak-jahangiri-ed6cz69mrqn0uxcf31bkztkj
+      quote: Dawn
+      accessed: '2026-11-21'
+      locator: Spotify release
+  release type:
+  - value: album
+    references:
+    - source: siamak-jahangiri-ap1541079949
+      quote: Dawn
+      accessed: '2026-11-21'
+      locator: Album

@@ -1,0 +1,21 @@
+id: Qgqjz6w
+type: release
+statements:
+  name:
+  - value:
+      text: در پرده‌ها
+      language: fa
+    references:
+    - &id001
+      source: siamak-jahangiri-tg3596
+      quote: در پرده‌ها
+      accessed: '2026-11-21'
+      locator: Publisher catalogue title or programme
+  performer:
+  - value: Qnz4xnz
+    references:
+    - *id001
+  release type:
+  - value: album
+    references:
+    - *id001

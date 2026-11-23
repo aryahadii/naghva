@@ -1,0 +1,67 @@
+id: Q3eh5dv
+type: release
+statements:
+  name:
+  - value:
+      text: Khomare Shekasteh Saboo (feat. Siamak Jahangiri, Samer Habibi & Nabil Yousef Sharidavi)
+      language: en
+    references:
+    - source: siamak-jahangiri-ap1599984785
+      quote: Khomare Shekasteh Saboo (feat. Siamak Jahangiri, Samer Habibi & Nabil Yousef Sharidavi)
+      accessed: '2026-11-21'
+      locator: Track title and billing
+  release date:
+  - value:
+      date: '2021-12-06'
+    references:
+    - source: siamak-jahangiri-ap1599984785
+      quote: '2021-12-06'
+      accessed: '2026-11-21'
+      locator: Edition release date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/89/66/9a/89669a91-112c-8530-2f3a-b06b97bf103e/196626093295.jpg/1200x630wp-60.jpg
+    references:
+    - source: siamak-jahangiri-ap1599984785
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/89/66/9a/89669a91-112c-8530-2f3a-b06b97bf103e/196626093295.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Digital release artwork
+    qualifiers:
+      credit:
+        text: Apple Music, original edition artwork
+        language: en
+  performer:
+  - value: Qnz4xnz
+    references:
+    - source: siamak-jahangiri-ap1599984785
+      quote: Khomare Shekasteh Saboo (feat. Siamak Jahangiri, Samer Habibi & Nabil Yousef Sharidavi) - Single
+      accessed: '2026-11-21'
+      locator: Distributor artist credit
+  - value: Qhz8rs2
+    references:
+    - source: siamak-jahangiri-ap1599984785
+      quote: Hamidreza Nourbakhsh
+      accessed: '2026-11-21'
+      locator: Distributor artist credit
+  - value: Qvy5xcn
+    references:
+    - source: siamak-jahangiri-ap1599984785
+      quote: Sirous Jamali
+      accessed: '2026-11-21'
+      locator: Distributor artist credit
+  - value: Qqaf55n
+    references:
+    - &id001
+      source: siamak-jahangiri-ap1599984785
+      quote: Khomare Shekasteh Saboo (feat. Siamak Jahangiri, Samer Habibi & Nabil Yousef Sharidavi)
+      accessed: '2026-11-21'
+      locator: Named track billing
+  - value: Qnchec6
+    references:
+    - *id001
+  listen link:
+  - value: https://music.apple.com/us/song/khomare-shekasteh-saboo-feat-siamak-jahangiri-samer/1599985152
+    references:
+    - source: siamak-jahangiri-ap1599984785
+      quote: https://music.apple.com/us/song/khomare-shekasteh-saboo-feat-siamak-jahangiri-samer/1599985152
+      accessed: '2026-11-21'
+      locator: Exact edition or recording

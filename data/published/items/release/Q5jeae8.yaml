@@ -1,0 +1,63 @@
+id: Q5jeae8
+type: release
+statements:
+  name:
+  - value:
+      text: GOL-E PAR PAR (feat. Mehdi Emami)
+      language: en
+    references:
+    - source: siamak-jahangiri-ap1718637552
+      quote: GOL-E PAR PAR (feat. Mehdi Emami)
+      accessed: '2026-11-21'
+      locator: Track title and billing
+  release date:
+  - value:
+      date: '2023-11-24'
+    references:
+    - source: siamak-jahangiri-ap1718637552
+      quote: '2023-11-24'
+      accessed: '2026-11-21'
+      locator: Edition release date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/bf/5c/ea/bf5ceae8-74af-32b2-b07f-352c384da24f/artwork.jpg/1200x630wp-60.jpg
+    references:
+    - source: siamak-jahangiri-ap1718637552
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/bf/5c/ea/bf5ceae8-74af-32b2-b07f-352c384da24f/artwork.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Digital release artwork
+    qualifiers:
+      credit:
+        text: Apple Music, original edition artwork
+        language: en
+  performer:
+  - value: Qnz4xnz
+    references:
+    - source: siamak-jahangiri-ap1718637552
+      quote: Siamak Jahangiry
+      accessed: '2026-11-21'
+      locator: Distributor artist credit
+  - value: Qm4wr7z
+    references:
+    - source: siamak-jahangiri-ap1718637552
+      quote: GOL-E PAR PAR (feat. Mehdi Emami)
+      accessed: '2026-11-21'
+      locator: Named track billing
+  listen link:
+  - value: https://music.apple.com/us/song/gol-e-par-par-feat-mehdi-emami/1718637553
+    references:
+    - source: siamak-jahangiri-ap1718637552
+      quote: https://music.apple.com/us/song/gol-e-par-par-feat-mehdi-emami/1718637553
+      accessed: '2026-11-21'
+      locator: Exact edition or recording
+  - value: https://open.spotify.com/track/7b4fExXktgaC5gdgbLKD77
+    references:
+    - source: siamak-jahangiri-ed0auqtqrjk5s0vwcynv4mvq
+      quote: spotify:track:7b4fExXktgaC5gdgbLKD77
+      accessed: '2026-11-21'
+      locator: Spotify recording
+  - value: https://open.spotify.com/album/0AuQTQRJk5s0VwcyNv4MVQ
+    references:
+    - source: siamak-jahangiri-ed0auqtqrjk5s0vwcynv4mvq
+      quote: GOL-E PAR PAR
+      accessed: '2026-11-21'
+      locator: Single release

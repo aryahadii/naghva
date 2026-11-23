@@ -1,0 +1,58 @@
+id: Qvqk5wb
+type: release
+statements:
+  name:
+  - value:
+      text: Dar Band-E Ney
+      language: en
+    references:
+    - source: siamak-jahangiri-ap1539795631
+      quote: Dar Band-E Ney
+      accessed: '2026-11-21'
+      locator: Album title
+  release date:
+  - value:
+      date: '2020-11-10'
+    references:
+    - source: siamak-jahangiri-ap1539795631
+      quote: '2020-11-10'
+      accessed: '2026-11-21'
+      locator: Edition release date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b0/d2/03/b0d203b2-c677-06b8-98ca-1b416cc61d6c/artwork.jpg/1200x630wp-60.jpg
+    references:
+    - source: siamak-jahangiri-ap1539795631
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b0/d2/03/b0d203b2-c677-06b8-98ca-1b416cc61d6c/artwork.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Digital release artwork
+    qualifiers:
+      credit:
+        text: Apple Music, original edition artwork
+        language: en
+  performer:
+  - value: Qnz4xnz
+    references:
+    - source: siamak-jahangiri-ap1539795631
+      quote: Siamak Jahangiry
+      accessed: '2026-11-21'
+      locator: Distributor artist credit
+  listen link:
+  - value: https://music.apple.com/us/album/dar-band-e-ney/1539795631
+    references:
+    - source: siamak-jahangiri-ap1539795631
+      quote: https://music.apple.com/us/album/dar-band-e-ney/1539795631
+      accessed: '2026-11-21'
+      locator: Exact edition or recording
+  - value: https://open.spotify.com/album/4DxrY7dOjNCxH620DTuJyt
+    references:
+    - source: siamak-jahangiri-ed4dxry7dojncxh620dtujyt
+      quote: Dar Band-E Ney
+      accessed: '2026-11-21'
+      locator: Spotify release
+  release type:
+  - value: album
+    references:
+    - source: siamak-jahangiri-ap1539795631
+      quote: Dar Band-E Ney
+      accessed: '2026-11-21'
+      locator: Album

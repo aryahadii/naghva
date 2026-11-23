@@ -1,0 +1,51 @@
+id: Qfzbsyh
+type: release
+statements:
+  name:
+  - value:
+      text: AVAZ, OUD
+      language: en
+    references:
+    - source: siamak-jahangiri-ap1542838267
+      quote: AVAZ, OUD
+      accessed: '2026-11-21'
+      locator: Track title and billing
+  release date:
+  - value:
+      date: '2020-12-01'
+    references:
+    - source: siamak-jahangiri-ap1542838267
+      quote: '2020-12-01'
+      accessed: '2026-11-21'
+      locator: Edition release date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/67/6d/47/676d47f2-6156-c9f1-4dde-fe42c484b195/artwork.jpg/1200x630wp-60.jpg
+    references:
+    - source: siamak-jahangiri-ap1542838267
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/67/6d/47/676d47f2-6156-c9f1-4dde-fe42c484b195/artwork.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Digital release artwork
+    qualifiers:
+      credit:
+        text: Apple Music, original edition artwork
+        language: en
+  performer:
+  - value: Qnz4xnz
+    references:
+    - source: siamak-jahangiri-ap1542838267
+      quote: Siamak Jahangiry
+      accessed: '2026-11-21'
+      locator: Distributor artist credit
+  listen link:
+  - value: https://music.apple.com/us/song/avaz-oud/1542838275
+    references:
+    - source: siamak-jahangiri-ap1542838267
+      quote: https://music.apple.com/us/song/avaz-oud/1542838275
+      accessed: '2026-11-21'
+      locator: Exact edition or recording
+  - value: https://open.spotify.com/track/2bE8XZmacayqDoYXusr0FS
+    references:
+    - source: siamak-jahangiri-ed3qsb4nf1mzovp0iwvok3ap
+      quote: spotify:track:2bE8XZmacayqDoYXusr0FS
+      accessed: '2026-11-21'
+      locator: Spotify recording

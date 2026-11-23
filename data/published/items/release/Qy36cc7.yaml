@@ -1,0 +1,21 @@
+id: Qy36cc7
+type: release
+statements:
+  name:
+  - value:
+      text: می‌رسد باران
+      language: fa
+    references:
+    - &id001
+      source: siamak-jahangiri-rag
+      quote: می‌رسد باران
+      accessed: '2026-11-21'
+      locator: Physical edition or track title
+  performer:
+  - value: Qnz4xnz
+    references:
+    - *id001
+  release type:
+  - value: album
+    references:
+    - *id001

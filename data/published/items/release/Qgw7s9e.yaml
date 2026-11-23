@@ -1,0 +1,32 @@
+id: Qgw7s9e
+type: release
+statements:
+  name:
+  - value:
+      text: Gilaki (Dashti)/The Ney Interpretation
+      language: en
+    references:
+    - &id001
+      source: siamak-jahangiri-sc684522373
+      quote: Gilaki (Dashti)/The Ney Interpretation
+      accessed: '2026-11-21'
+      locator: Publisher catalogue title or programme
+  performer:
+  - value: Qnz4xnz
+    references:
+    - *id001
+  listen link:
+  - value: https://soundcloud.com/mahoor-institute/gilaki-dashtithe-ney-interpretation
+    references:
+    - *id001
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-000600964737-f4lst7-large.jpg
+    references:
+    - source: siamak-jahangiri-sc684522373
+      quote: https://i1.sndcdn.com/artworks-000600964737-f4lst7-large.jpg
+      accessed: '2026-11-21'
+      locator: Publisher artwork
+    qualifiers:
+      credit:
+        text: Mahoor Institute of Culture & Arts
+        language: en

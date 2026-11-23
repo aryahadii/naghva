@@ -1,0 +1,29 @@
+id: Qvs4xfc
+type: release
+statements:
+  name:
+  - value:
+      text: The Ney Interpretation
+      language: en
+    references:
+    - &id001
+      source: siamak-jahangiri-sc684522373
+      quote: The Ney Interpretation
+      accessed: '2026-11-21'
+      locator: Iranian album edition
+  performer:
+  - value: Qnz4xnz
+    references:
+    - *id001
+  release type:
+  - value: album
+    references:
+    - *id001
+  release date:
+  - value:
+      date: '2015'
+    references:
+    - source: siamak-jahangiri-sc684522373
+      quote: 'Publish Year : 2015'
+      accessed: '2026-11-21'
+      locator: Original issue year

@@ -1,0 +1,57 @@
+id: Qvxnbeb
+type: release
+statements:
+  name:
+  - value:
+      text: Roam
+      language: en
+    references:
+    - source: siamak-jahangiri-ap1539875489
+      quote: Roam
+      accessed: '2026-11-21'
+      locator: Track title and billing
+  release date:
+  - value:
+      date: '2020-11-11'
+    references:
+    - source: siamak-jahangiri-ap1539875489
+      quote: '2020-11-11'
+      accessed: '2026-11-21'
+      locator: Edition release date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4b/01/a2/4b01a2c8-169d-d6b9-fef3-5538bfca9d4b/artwork.jpg/1200x630wp-60.jpg
+    references:
+    - source: siamak-jahangiri-ap1539875489
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4b/01/a2/4b01a2c8-169d-d6b9-fef3-5538bfca9d4b/artwork.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Digital release artwork
+    qualifiers:
+      credit:
+        text: Apple Music, original edition artwork
+        language: en
+  performer:
+  - value: Qnz4xnz
+    references:
+    - source: siamak-jahangiri-ap1539875489
+      quote: Siamak Jahangiry
+      accessed: '2026-11-21'
+      locator: Distributor artist credit
+  listen link:
+  - value: https://music.apple.com/us/song/roam/1539875490
+    references:
+    - source: siamak-jahangiri-ap1539875489
+      quote: https://music.apple.com/us/song/roam/1539875490
+      accessed: '2026-11-21'
+      locator: Exact edition or recording
+  - value: https://open.spotify.com/track/3lkH3ur9YlAz6sd1MpMK8k
+    references:
+    - source: siamak-jahangiri-ed2o62lg0utp3z5i6rskiv6g
+      quote: spotify:track:3lkH3ur9YlAz6sd1MpMK8k
+      accessed: '2026-11-21'
+      locator: Spotify recording
+  - value: https://open.spotify.com/album/2O62lG0utP3z5I6RSkiV6G
+    references:
+    - source: siamak-jahangiri-ed2o62lg0utp3z5i6rskiv6g
+      quote: Roam
+      accessed: '2026-11-21'
+      locator: Single release
