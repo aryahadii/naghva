@@ -1,0 +1,58 @@
+id: Qkk7epe
+type: release
+statements:
+  name:
+  - value:
+      text: Kaki Fimi
+      language: en
+    references:
+    - source: open.spotify.com-album-0kb1hntnd528msfjjvufnc
+      quote: Kaki Fimi
+      accessed: '2026-11-21'
+      locator: Album name
+  performer:
+  - value: Qfxqgvv
+    references:
+    - source: www.odoensemble.com-en-shadi-fathi
+      quote: “Kaki Fimi” / PAKA PAKA CORPORATION.
+      accessed: '2026-11-21'
+      locator: Discography
+  - value: Qwxasnh
+    references:
+    - source: open.spotify.com-album-0kb1hntnd528msfjjvufnc
+      quote: Paka Paka Corporation
+      accessed: '2026-11-21'
+      locator: Album artist
+  release date:
+  - value:
+      date: '2012-02-27'
+    references:
+    - source: open.spotify.com-album-0kb1hntnd528msfjjvufnc
+      quote: '2012-02-27'
+      accessed: '2026-11-21'
+      locator: Release metadata
+  listen link:
+  - value: https://open.spotify.com/album/0kB1HnTND528MsFjJvuFNc
+    references:
+    - source: open.spotify.com-album-0kb1hntnd528msfjjvufnc
+      quote: Kaki Fimi
+      accessed: '2026-11-21'
+      locator: Album name
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d0000b2734101e5100d448379e05d9457
+    references:
+    - source: open.spotify.com-album-0kb1hntnd528msfjjvufnc
+      quote: https://i.scdn.co/image/ab67616d0000b2734101e5100d448379e05d9457
+      accessed: '2026-11-21'
+      locator: Spotify album cover
+    qualifiers:
+      credit:
+        text: Paka Paka Corporation · Spotify
+        language: en
+  release type:
+  - value: album
+    references:
+    - source: open.spotify.com-album-0kb1hntnd528msfjjvufnc
+      quote: Kaki Fimi
+      accessed: '2026-11-21'
+      locator: Album name

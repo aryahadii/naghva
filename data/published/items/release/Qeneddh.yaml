@@ -1,0 +1,41 @@
+id: Qeneddh
+type: release
+statements:
+  name:
+  - value:
+      text: '"Femmes persanes" Au Zingaro'
+      language: fr
+    references:
+    - source: www.shadi-fathi.com-galerie-videos
+      quote: '"Femmes persanes" Au Zingaro'
+      accessed: '2026-11-21'
+      locator: Artist video gallery title
+  performer:
+  - value: Qfxqgvv
+    references:
+    - source: www.shadi-fathi.com-galerie-videos
+      quote: '"Femmes persanes" Au Zingaro'
+      accessed: '2026-11-21'
+      locator: Artist video gallery title
+    - source: www.odoensemble.com-en-shadi-fathi
+      quote: Shadi Fathi
+      accessed: '2026-11-21'
+      locator: Artist heading
+  listen link:
+  - value: https://www.youtube.com/watch?v=rqnbtFelf7I
+    references:
+    - source: www.shadi-fathi.com-galerie-videos
+      quote: rqnbtFelf7I
+      accessed: '2026-11-21'
+      locator: Artist embeds this specific YouTube video
+  cover art:
+  - value: https://i.ytimg.com/vi/rqnbtFelf7I/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-rqnbtfelf7i
+      quote: https://i.ytimg.com/vi/rqnbtFelf7I/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Official thumbnail returned by YouTube for this video
+    qualifiers:
+      credit:
+        text: Théâtre équestre Zingaro · YouTube
+        language: en
