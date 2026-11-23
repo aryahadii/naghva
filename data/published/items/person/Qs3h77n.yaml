@@ -1,0 +1,21 @@
+id: Qs3h77n
+type: person
+statements:
+  name:
+  - value:
+      text: Michael Avgenicos
+      language: en
+    references:
+    - source: www.eishanensemble.com-about
+      quote: Michael Avgenicos on saxophone, Adem Yilmaz on percussion, and Maximillian Alduca on double bass
+      accessed: '2026-11-21'
+      locator: Artist biography
+  member of:
+  - value: Qhebfsp
+    qualifiers:
+      role: saxophone
+    references:
+    - source: www.eishanensemble.com-about
+      quote: Michael Avgenicos on saxophone, Adem Yilmaz on percussion, and Maximillian Alduca on double bass
+      accessed: '2026-11-21'
+      locator: Artist biography

@@ -1,0 +1,53 @@
+id: Qgp8ry9
+type: release
+statements:
+  name:
+  - value:
+      text: Doubt - Live in Studio
+      language: en
+    references:
+    - source: www.youtube.com-watch-v-plqnft4qof8
+      quote: Doubt - Live in Studio
+      accessed: '2026-11-21'
+      locator: Video title
+  performer:
+  - value: Qhebfsp
+    references:
+    - source: www.youtube.com-watch-v-plqnft4qof8
+      quote: Eishan
+      accessed: '2026-11-21'
+      locator: Title or published description
+  listen link:
+  - value: https://www.youtube.com/watch?v=pLqNfT4qof8
+    references:
+    - source: www.youtube.com-watch-v-plqnft4qof8
+      quote: Doubt - Live in Studio
+      accessed: '2026-11-21'
+      locator: Video title
+    - source: www.youtube.com-watch-v-plqnft4qof8
+      quote: Hamed Sadeghi
+      accessed: '2026-11-21'
+      locator: Publishing channel
+  release date:
+  - value:
+      date: '2017-08-11'
+    references:
+    - source: www.youtube.com-watch-v-plqnft4qof8
+      quote: '2017-08-11T08:15:15-07:00'
+      accessed: '2026-11-21'
+      locator: Upload date
+  cover art:
+  - value: https://i.ytimg.com/vi/pLqNfT4qof8/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgTyg8MA8=&rs=AOn4CLAUFB7txl4nav6v7U8o2nHIIrvaQQ
+    qualifiers:
+      credit:
+        text: Hamed Sadeghi on YouTube
+        language: en
+    references:
+    - source: www.youtube.com-watch-v-plqnft4qof8
+      quote: https://i.ytimg.com/vi/pLqNfT4qof8/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgTyg8MA8=&rs=AOn4CLAUFB7txl4nav6v7U8o2nHIIrvaQQ
+      accessed: '2026-11-21'
+      locator: Original video thumbnail
+    - source: www.youtube.com-watch-v-plqnft4qof8
+      quote: Hamed Sadeghi
+      accessed: '2026-11-21'
+      locator: Publishing channel

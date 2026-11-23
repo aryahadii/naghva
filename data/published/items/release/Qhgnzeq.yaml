@@ -1,0 +1,53 @@
+id: Qhgnzeq
+type: release
+statements:
+  name:
+  - value:
+      text: Regret
+      language: en
+    references:
+    - source: www.youtube.com-watch-v-6ypv7yxj5yo
+      quote: Regret
+      accessed: '2026-11-21'
+      locator: Video title
+  performer:
+  - value: Qhebfsp
+    references:
+    - source: www.youtube.com-watch-v-6ypv7yxj5yo
+      quote: Eishan
+      accessed: '2026-11-21'
+      locator: Title or published description
+  listen link:
+  - value: https://www.youtube.com/watch?v=6YpV7Yxj5Yo
+    references:
+    - source: www.youtube.com-watch-v-6ypv7yxj5yo
+      quote: Regret
+      accessed: '2026-11-21'
+      locator: Video title
+    - source: www.youtube.com-watch-v-6ypv7yxj5yo
+      quote: Hamed Sadeghi
+      accessed: '2026-11-21'
+      locator: Publishing channel
+  release date:
+  - value:
+      date: '2017-02-25'
+    references:
+    - source: www.youtube.com-watch-v-6ypv7yxj5yo
+      quote: '2017-02-25T23:34:46-08:00'
+      accessed: '2026-11-21'
+      locator: Upload date
+  cover art:
+  - value: https://i.ytimg.com/vi/6YpV7Yxj5Yo/hqdefault.jpg
+    qualifiers:
+      credit:
+        text: Hamed Sadeghi on YouTube
+        language: en
+    references:
+    - source: www.youtube.com-watch-v-6ypv7yxj5yo
+      quote: https://i.ytimg.com/vi/6YpV7Yxj5Yo/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video thumbnail
+    - source: www.youtube.com-watch-v-6ypv7yxj5yo
+      quote: Hamed Sadeghi
+      accessed: '2026-11-21'
+      locator: Publishing channel
