@@ -1,0 +1,56 @@
+id: Qwfzxcs
+type: release
+statements:
+  listen link:
+  - value: https://barzin.bandcamp.com/album/studio-13-session-live-at-revolution-recordings
+    references:
+    - source: barzin.bandcamp.com-album-studio-13-session-live-at-revolution-recordings
+      quote: Studio 13 Session Live at Revolution Recordings | Barzin
+      accessed: '2026-11-21'
+      locator: Page title
+  name:
+  - value:
+      text: Studio 13 Session Live at Revolution Recordings
+      language: en
+    references:
+    - &id001
+      source: barzin.bandcamp.com-album-studio-13-session-live-at-revolution-recordings
+      quote: Studio 13 Session Live at Revolution Recordings
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  performer:
+  - value: Qt5sbqz
+    references:
+    - source: barzin.bandcamp.com-album-studio-13-session-live-at-revolution-recordings
+      quote: Sina Salimi - Santur
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Q9teaw4
+    references:
+    - source: barzin.bandcamp.com-album-studio-13-session-live-at-revolution-recordings
+      quote: Studio 13 Session Live at Revolution Recordings | Barzin
+      accessed: '2026-11-21'
+      locator: Page title
+  release type:
+  - value: album
+    references:
+    - *id001
+  release date:
+  - value:
+      date: '2019-06-07'
+    references:
+    - source: barzin.bandcamp.com-album-studio-13-session-live-at-revolution-recordings
+      quote: released June 7, 2019
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a0754261386_10.jpg
+    references:
+    - source: barzin.bandcamp.com-album-studio-13-session-live-at-revolution-recordings
+      quote: https://f4.bcbits.com/img/a0754261386_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Barzin
+        language: en

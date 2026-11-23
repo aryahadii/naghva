@@ -1,0 +1,124 @@
+id: Q2fpt7y
+type: release
+statements:
+  listen link:
+  - value: https://sinasalimi.bandcamp.com/album/ten-songs-for-my-motherland
+    references:
+    - source: sinasalimi.bandcamp.com-album-ten-songs-for-my-motherland
+      quote: Ten Songs for My Motherland / ده ترانه برای سرزمین مادری‌ام | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/ten-songs-for-my-motherland-remastered/1740288897
+    references:
+    - source: music.apple.com-us-album-ten-songs-for-my-motherland-remastered-1740288897
+      quote: ‎Ten Songs for My Motherland (Remastered) - Album by Sina Salimi - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/album/1hxIzjZRidf0d27bOio9xh
+    references:
+    - source: open.spotify.com-album-1hxizjzridf0d27boio9xh
+      quote: Listen to Ten Songs for My Motherland (Remastered) - Album by Sina Salimi | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  name:
+  - value:
+      text: Ten Songs for My Motherland
+      language: en
+    references:
+    - &id001
+      source: sinasalimi.bandcamp.com-album-ten-songs-for-my-motherland
+      quote: Ten Songs for My Motherland
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value:
+      text: ده ترانه برای سرزمین مادری‌ام
+      language: fa
+    references:
+    - source: sinasalimi.bandcamp.com-album-ten-songs-for-my-motherland
+      quote: ده ترانه برای سرزمین مادری‌ام
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  performer:
+  - value: Qt5sbqz
+    references:
+    - source: sinasalimi.bandcamp.com-album-ten-songs-for-my-motherland
+      quote: Ten Songs for My Motherland / ده ترانه برای سرزمین مادری‌ام | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Q6y6d6b
+    references:
+    - source: sinasalimi.bandcamp.com-album-ten-songs-for-my-motherland
+      quote: 'Mahnaz Rad: vocals [1, 2, 5, 8, 9, 10]'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Qfde282
+    references:
+    - source: sinasalimi.bandcamp.com-album-ten-songs-for-my-motherland
+      quote: 'Raha Javanfar: violin / vocals [1]'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Qk5shyb
+    references:
+    - source: sinasalimi.bandcamp.com-album-ten-songs-for-my-motherland
+      quote: 'Andrew Kay: alto sax / bass clarinet [2, 6]'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Qmvbr8r
+    references:
+    - source: sinasalimi.bandcamp.com-album-ten-songs-for-my-motherland
+      quote: 'Shahrouz Molaei: drums [5]'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Qyvgnrd
+    references:
+    - source: sinasalimi.bandcamp.com-album-ten-songs-for-my-motherland
+      quote: 'Ali Kamali: bass [1, 5]'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Qnex5ss
+    references:
+    - source: sinasalimi.bandcamp.com-album-ten-songs-for-my-motherland
+      quote: 'Memo Andres: acoustic guitar [7]'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Q66mt9v
+    references:
+    - source: sinasalimi.bandcamp.com-album-ten-songs-for-my-motherland
+      quote: 'Mohammad Talani: electric guitar [5]'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Qvyzytv
+    references:
+    - source: sinasalimi.bandcamp.com-album-ten-songs-for-my-motherland
+      quote: 'Darren Wall: upright bass [2, 8, 9]'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Q9e78h7
+    references:
+    - source: sinasalimi.bandcamp.com-album-ten-songs-for-my-motherland
+      quote: 'Gonzalo Cardenas: accordion [9]'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  release type:
+  - value: album
+    references:
+    - *id001
+  release date:
+  - value:
+      date: '2023-12-31'
+    references:
+    - source: music.apple.com-us-album-ten-songs-for-my-motherland-remastered-1740288897
+      quote: December 31, 2023
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a1239151173_10.jpg
+    references:
+    - source: sinasalimi.bandcamp.com-album-ten-songs-for-my-motherland
+      quote: https://f4.bcbits.com/img/a1239151173_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Sina Salimi on Bandcamp
+        language: en

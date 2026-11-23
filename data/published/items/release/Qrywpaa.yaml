@@ -1,0 +1,71 @@
+id: Qrywpaa
+type: release
+statements:
+  listen link:
+  - value: https://sinasalimi.bandcamp.com/track/voiceless-songs
+    references:
+    - source: sinasalimi.bandcamp.com-track-voiceless-songs
+      quote: Voiceless Songs - ترانه‌هایِ بی‌صدا | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/voiceless-songs-single/1690315780
+    references:
+    - source: music.apple.com-us-album-voiceless-songs-single-1690315780
+      quote: ‎Voiceless Songs - Single - Album by Sina Salimi - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/voiceless-songs/1690315785
+    references:
+    - source: music.apple.com-us-song-voiceless-songs-1690315785
+      quote: ‎Voiceless Songs - Song with Lyrics by Sina Salimi - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/sinasalimi/voiceless-songs
+    references:
+    - source: soundcloud.com-sinasalimi-voiceless-songs
+      quote: Stream Voiceless Songs - ترانه‌هایِ بی‌صدا by Sina  Salimi | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  name:
+  - value:
+      text: Voiceless Songs
+      language: en
+    references:
+    - source: sinasalimi.bandcamp.com-track-voiceless-songs
+      quote: Voiceless Songs
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value:
+      text: ترانه‌هایِ بی‌صدا
+      language: fa
+    references:
+    - source: sinasalimi.bandcamp.com-track-voiceless-songs
+      quote: ترانه‌هایِ بی‌صدا
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  performer:
+  - value: Qt5sbqz
+    references:
+    - source: sinasalimi.bandcamp.com-track-voiceless-songs
+      quote: Voiceless Songs - ترانه‌هایِ بی‌صدا | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2023-01-05'
+    references:
+    - source: sinasalimi.bandcamp.com-track-voiceless-songs
+      quote: released January 5, 2023
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a3925208318_10.jpg
+    references:
+    - source: sinasalimi.bandcamp.com-track-voiceless-songs
+      quote: https://f4.bcbits.com/img/a3925208318_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Sina Salimi
+        language: en

@@ -1,0 +1,43 @@
+id: Qqb5cyv
+type: release
+statements:
+  listen link:
+  - value: https://soundcloud.com/mahmood-schricker/sin-city-feat-sina-salimi-home-recording
+    references:
+    - source: soundcloud.com-mahmood-schricker-sin-city-feat-sina-salimi-home-recording
+      quote: Stream Sin City - feat Sina Salimi (home recording) by Mahmood Schricker | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  name:
+  - value:
+      text: Sin City (home recording)
+      language: en
+    references:
+    - source: soundcloud.com-mahmood-schricker-sin-city-feat-sina-salimi-home-recording
+      quote: Stream Sin City - feat Sina Salimi (home recording) by Mahmood Schricker | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qt5sbqz
+    references:
+    - source: soundcloud.com-mahmood-schricker-sin-city-feat-sina-salimi-home-recording
+      quote: Stream Sin City - feat Sina Salimi (home recording) by Mahmood Schricker | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qxkh2tz
+    references:
+    - source: soundcloud.com-mahmood-schricker-sin-city-feat-sina-salimi-home-recording
+      quote: Stream Sin City - feat Sina Salimi (home recording) by Mahmood Schricker | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-ELaXQvBUDwM8JCNu-dUM6Pw-t500x500.jpg
+    references:
+    - source: soundcloud.com-mahmood-schricker-sin-city-feat-sina-salimi-home-recording
+      quote: https://i1.sndcdn.com/artworks-ELaXQvBUDwM8JCNu-dUM6Pw-t500x500.jpg
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: Mahmood Schricker on SoundCloud
+        language: en

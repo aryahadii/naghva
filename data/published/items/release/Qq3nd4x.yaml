@@ -1,0 +1,63 @@
+id: Qq3nd4x
+type: release
+statements:
+  listen link:
+  - value: https://sinasalimi.bandcamp.com/track/like-a-lighthouse
+    references:
+    - source: sinasalimi.bandcamp.com-track-like-a-lighthouse
+      quote: Like a Lighthouse | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/like-a-lighthouse/1889276990
+    references:
+    - source: music.apple.com-us-song-like-a-lighthouse-1889276990
+      quote: ‎Like a Lighthouse - Song with Lyrics by Sina Salimi - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/42ZyjrD68pCRe5IvuVc0GS
+    references:
+    - source: open.spotify.com-track-42zyjrd68pcre5ivuvc0gs
+      quote: Like a Lighthouse - song and lyrics by Sina Salimi | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/sinasalimi/like-a-lighthouse
+    references:
+    - source: soundcloud.com-sinasalimi-like-a-lighthouse
+      quote: Stream Like a Lighthouse by Sina  Salimi | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  name:
+  - value:
+      text: Like a Lighthouse
+      language: en
+    references:
+    - source: sinasalimi.bandcamp.com-track-like-a-lighthouse
+      quote: Like a Lighthouse
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  performer:
+  - value: Qt5sbqz
+    references:
+    - source: sinasalimi.bandcamp.com-track-like-a-lighthouse
+      quote: Like a Lighthouse | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2026-03-20'
+    references:
+    - source: sinasalimi.bandcamp.com-album-travellers-musicians-and-other-stories
+      quote: released March 20, 2026
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a2498350153_10.jpg
+    references:
+    - source: sinasalimi.bandcamp.com-track-like-a-lighthouse
+      quote: https://f4.bcbits.com/img/a2498350153_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Pegah Mian
+        language: en

@@ -1,0 +1,73 @@
+id: Qp2p5hg
+type: release
+statements:
+  listen link:
+  - value: https://sinasalimi.bandcamp.com/track/who-by-fire-feat-diana-planche
+    references:
+    - source: sinasalimi.bandcamp.com-track-who-by-fire-feat-diana-planche
+      quote: Who by Fire (feat. Diana Planche) | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/who-by-fire/1544199171
+    references:
+    - source: music.apple.com-us-song-who-by-fire-1544199171
+      quote: ‎Who by Fire - Song with Lyrics by Sina Salimi - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/76Ls5iWeUMDV7n715MLuQL
+    references:
+    - source: open.spotify.com-track-76ls5iweumdv7n715mluql
+      quote: Who by Fire - song and lyrics by Sina Salimi | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://www.youtube.com/watch?v=vHd4GTb7lSk
+    references:
+    - source: www.youtube.com-watch-v-vhd4gtb7lsk
+      quote: Sina Salimi - Who by Fire (Leonard Cohen cover) - feat. Diana Planche
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/sinasalimi/who-by-fire
+    references:
+    - source: soundcloud.com-sinasalimi-who-by-fire
+      quote: Stream Who By Fire (feat. Diana Planche) by Sina  Salimi | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  name:
+  - value:
+      text: Who by Fire (feat. Diana Planche)
+      language: en
+    references:
+    - source: sinasalimi.bandcamp.com-track-who-by-fire-feat-diana-planche
+      quote: Who by Fire (feat. Diana Planche)
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  performer:
+  - value: Qt5sbqz
+    references:
+    - source: sinasalimi.bandcamp.com-track-who-by-fire-feat-diana-planche
+      quote: Who by Fire (feat. Diana Planche) | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2020-12-21'
+    references:
+    - source: sinasalimi.bandcamp.com-album-all-of-our-tomorrows
+      quote: released December 21, 2020
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a0734454998_10.jpg
+    references:
+    - source: sinasalimi.bandcamp.com-track-who-by-fire-feat-diana-planche
+      quote: https://f4.bcbits.com/img/a0734454998_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    - source: sinasalimi.bandcamp.com-album-all-of-our-tomorrows
+      quote: Design & Layout by Vahid Fazel
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: Vahid Fazel
+        language: en
