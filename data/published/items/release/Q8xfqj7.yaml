@@ -1,0 +1,21 @@
+id: Q8xfqj7
+type: release
+statements:
+  name:
+  - value:
+      text: Carmen (José Montalvo)
+      language: en
+    references:
+    - &id001
+      source: t.me-saeidshanbehzadeh-610
+      quote: Saeid Shanbehzadeh in Carmen of José Montalvo
+      accessed: '2026-11-21'
+      locator: Artist’s caption to recording
+  performer:
+  - value: Qyd93n9
+    references:
+    - *id001
+  listen link:
+  - value: https://t.me/saeidshanbehzadeh/610
+    references:
+    - *id001

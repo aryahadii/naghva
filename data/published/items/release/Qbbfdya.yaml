@@ -1,0 +1,41 @@
+id: Qbbfdya
+type: release
+statements:
+  name:
+  - value:
+      text: Saeid Shanbehzadeh-Helalyos Helyosa
+      language: en
+    references:
+    - &id001
+      source: soundcloud.com-nag-1-1-saeid-shanbehzadeh-helalyos
+      quote: Saeid Shanbehzadeh-Helalyos Helyosa
+      accessed: '2026-11-21'
+      locator: Artist’s SoundCloud recording
+  performer:
+  - value: Qyd93n9
+    references:
+    - *id001
+  - value: Qgw68ms
+    references:
+    - *id001
+  listen link:
+  - value: https://soundcloud.com/nag-1-1/saeid-shanbehzadeh-helalyos
+    references:
+    - *id001
+  - value: https://www.youtube.com/watch?v=KMFCYr6y_rE
+    references:
+    - source: www.youtube.com-watch-v-kmfcyr6y_re
+      quote: Saeid Shanbehzadeh/ Tehran Bandari nights Album - Helalyows Helyowsa
+      accessed: '2026-11-21'
+      locator: Artist-published performance film
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-000032652565-y6yvfk-large.jpg
+    references:
+    - source: soundcloud.com-nag-1-1-saeid-shanbehzadeh-helalyos
+      quote: https://i1.sndcdn.com/artworks-000032652565-y6yvfk-large.jpg
+      accessed: '2026-11-21'
+      locator: Artist file artwork
+    qualifiers:
+      credit:
+        text: Naghib Shanbehzadeh / SoundCloud
+        language: en

@@ -1,0 +1,41 @@
+id: Qq2t92h
+type: release
+statements:
+  name:
+  - value:
+      text: shanbehzadeh ensemble & Trio donarier  TIFOUN LAYMER
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-d7pcjtol4zk
+      quote: shanbehzadeh ensemble & Trio donarier  TIFOUN LAYMER
+      accessed: '2026-11-21'
+      locator: Artist-published performance film
+  performer:
+  - value: Qyd93n9
+    references:
+    - *id001
+  - value: Qdtxp3v
+    references:
+    - *id001
+  - value: Qq36p3f
+    references:
+    - source: www.youtube.com-watch-v-d7pcjtol4zk
+      quote: Trio donarier
+      accessed: '2026-11-21'
+      locator: Original film title billing
+  listen link:
+  - value: https://www.youtube.com/watch?v=D7PCjTol4Zk
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/D7PCjTol4Zk/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-d7pcjtol4zk
+      quote: https://i.ytimg.com/vi/D7PCjTol4Zk/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original film frame
+    qualifiers:
+      credit:
+        text: saeid shanbehzadeh
+        language: en

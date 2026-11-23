@@ -1,0 +1,32 @@
+id: Qz7nqca
+type: release
+statements:
+  name:
+  - value:
+      text: Haj
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-dgsaiug3kqo
+      quote: Haj
+      accessed: '2026-11-21'
+      locator: Artist-published performance film
+  performer:
+  - value: Qyd93n9
+    references:
+    - *id001
+  listen link:
+  - value: https://www.youtube.com/watch?v=dGSAiuG3kqo
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/dGSAiuG3kqo/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-dgsaiug3kqo
+      quote: https://i.ytimg.com/vi/dGSAiuG3kqo/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original film frame
+    qualifiers:
+      credit:
+        text: saeid shanbehzadeh
+        language: en

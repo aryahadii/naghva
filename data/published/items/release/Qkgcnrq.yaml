@@ -1,0 +1,53 @@
+id: Qkgcnrq
+type: release
+statements:
+  name:
+  - value:
+      text: Malleh Balouchan مله بلوچان
+      language: en
+    references:
+    - &id001
+      source: soundcloud.com-saeid-shanbehzadeh-malleh-balouchan
+      quote: Malleh Balouchan مله بلوچان
+      accessed: '2026-11-21'
+      locator: Artist’s SoundCloud recording
+  performer:
+  - value: Qyd93n9
+    references:
+    - *id001
+  - value: Qvhrrm8
+    references:
+    - *id001
+  - value: Qqat63b
+    references:
+    - source: soundcloud.com-saeid-shanbehzadeh-malleh-balouchan
+      quote: Manu Codjia
+      accessed: '2026-11-21'
+      locator: Named contributor to track
+  - value: Qzcqddt
+    references:
+    - source: soundcloud.com-saeid-shanbehzadeh-malleh-balouchan
+      quote: Rostam Mirlashari
+      accessed: '2026-11-21'
+      locator: Named contributor to track
+  - value: Q3gnyyx
+    references:
+    - source: soundcloud.com-saeid-shanbehzadeh-malleh-balouchan
+      quote: Santi Debriano
+      accessed: '2026-11-21'
+      locator: Named contributor to track
+  listen link:
+  - value: https://soundcloud.com/saeid-shanbehzadeh/malleh-balouchan
+    references:
+    - *id001
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-000168069226-fkwph4-large.jpg
+    references:
+    - source: soundcloud.com-saeid-shanbehzadeh-malleh-balouchan
+      quote: https://i1.sndcdn.com/artworks-000168069226-fkwph4-large.jpg
+      accessed: '2026-11-21'
+      locator: Artist file artwork
+    qualifiers:
+      credit:
+        text: Saeid Shanbehzadeh / SoundCloud
+        language: en
