@@ -1,0 +1,54 @@
+id: Q28xs3z
+type: release
+statements:
+  name:
+  - value:
+      text: Catalina
+      language: en
+    references:
+    - source: music.apple.com-us-album-catalina-single-1633615864
+      quote: Catalina
+      accessed: 2026-11-21
+      locator: Track 1
+  performer:
+  - value: Qghhr4e
+    references:
+    - source: music.apple.com-us-album-catalina-single-1633615864
+      quote: Catalina - Single · ASADI, EMÆL · 2022-08-05
+      accessed: 2026-11-21
+      locator: Album artist and issue date
+  listen link:
+  - value: https://music.apple.com/us/song/catalina/1633615874
+    references:
+    - source: music.apple.com-us-album-catalina-single-1633615864
+      quote: Catalina
+      accessed: 2026-11-21
+      locator: Track 1
+  - value: https://music.apple.com/us/album/catalina-single/1633615864
+    references:
+    - source: music.apple.com-us-album-catalina-single-1633615864
+      quote: Catalina - Single · ASADI, EMÆL · 2022-08-05
+      accessed: 2026-11-21
+      locator: Album artist and issue date
+  release date:
+  - value:
+      date: '2022-08-05'
+    references:
+    - source: music.apple.com-us-album-catalina-single-1633615864
+      quote: Catalina
+      accessed: 2026-11-21
+      locator: Track 1
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-catalina-single-1633615864
+      quote: Catalina
+      accessed: 2026-11-21
+      locator: Track 1
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/30/d0/c7/30d0c7b1-0e10-fff8-929c-04157a44ed4f/84.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-catalina-single-1633615864
+      quote: Catalina
+      accessed: 2026-11-21
+      locator: Track 1

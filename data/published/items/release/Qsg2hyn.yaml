@@ -1,0 +1,60 @@
+id: Qsg2hyn
+type: release
+statements:
+  name:
+  - value:
+      text: Goldie
+      language: en
+    references:
+    - source: music.apple.com-us-album-goldie-single-1724758745
+      quote: Goldie
+      accessed: 2026-11-21
+      locator: Track 1
+  performer:
+  - value: Qghhr4e
+    references:
+    - source: music.apple.com-us-album-goldie-single-1724758745
+      quote: Goldie - Single · ASADI · 2018-10-18
+      accessed: 2026-11-21
+      locator: Album artist and issue date
+  listen link:
+  - value: https://music.apple.com/us/song/goldie/1724758749
+    references:
+    - source: music.apple.com-us-album-goldie-single-1724758745
+      quote: Goldie
+      accessed: 2026-11-21
+      locator: Track 1
+  - value: https://music.apple.com/us/album/goldie-single/1724758745
+    references:
+    - source: music.apple.com-us-album-goldie-single-1724758745
+      quote: Goldie - Single · ASADI · 2018-10-18
+      accessed: 2026-11-21
+      locator: Album artist and issue date
+  - value: https://soundcloud.com/asadimusic/goldie-1
+    references:
+    - source: soundcloud.com-asadimusic-goldie-1
+      quote: GOLDIE
+      accessed: 2026-11-22
+      locator: Verified artist SoundCloud upload and title
+  release date:
+  - value:
+      date: '2018-10-18'
+    references:
+    - source: music.apple.com-us-album-goldie-single-1724758745
+      quote: Goldie
+      accessed: 2026-11-21
+      locator: Track 1
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-goldie-single-1724758745
+      quote: Goldie
+      accessed: 2026-11-21
+      locator: Track 1
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/32/e7/0a/32e70ac9-7fd8-e50f-ec94-636d4e9d2b04/161.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-goldie-single-1724758745
+      quote: Goldie
+      accessed: 2026-11-21
+      locator: Track 1

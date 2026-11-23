@@ -1,0 +1,60 @@
+id: Q63asqv
+type: release
+statements:
+  name:
+  - value:
+      text: Let’s Go
+      language: en
+    references:
+    - source: music.apple.com-us-album-lets-go-single-1550214212
+      quote: Let’s Go
+      accessed: 2026-11-21
+      locator: Track 1
+  performer:
+  - value: Qghhr4e
+    references:
+    - source: music.apple.com-us-album-lets-go-single-1550214212
+      quote: Let’s Go - Single · ASADI · 2021-02-12
+      accessed: 2026-11-21
+      locator: Album artist and issue date
+  listen link:
+  - value: https://music.apple.com/us/song/lets-go/1550214213
+    references:
+    - source: music.apple.com-us-album-lets-go-single-1550214212
+      quote: Let’s Go
+      accessed: 2026-11-21
+      locator: Track 1
+  - value: https://music.apple.com/us/album/lets-go-single/1550214212
+    references:
+    - source: music.apple.com-us-album-lets-go-single-1550214212
+      quote: Let’s Go - Single · ASADI · 2021-02-12
+      accessed: 2026-11-21
+      locator: Album artist and issue date
+  - value: https://soundcloud.com/asadimusic/lets-go
+    references:
+    - source: soundcloud.com-asadimusic-lets-go
+      quote: Let's Go
+      accessed: 2026-11-22
+      locator: Verified artist SoundCloud upload and title
+  release date:
+  - value:
+      date: '2021-02-12'
+    references:
+    - source: music.apple.com-us-album-lets-go-single-1550214212
+      quote: Let’s Go
+      accessed: 2026-11-21
+      locator: Track 1
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-lets-go-single-1550214212
+      quote: Let’s Go
+      accessed: 2026-11-21
+      locator: Track 1
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/aa/1e/ad/aa1ead47-ea13-9e88-62b5-96f882ff54bd/14.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-lets-go-single-1550214212
+      quote: Let’s Go
+      accessed: 2026-11-21
+      locator: Track 1
