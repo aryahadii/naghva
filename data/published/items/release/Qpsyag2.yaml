@@ -1,0 +1,70 @@
+id: Qpsyag2
+type: release
+statements:
+  name:
+  - value:
+      text: Heavy as Texas
+      language: en
+    references:
+    - source: music.apple.com-us-album-heavy-as-texas-1454726769
+      quote: Heavy as Texas · HEAVY AS TEXAS · 2019-04-05
+      accessed: 2026-11-21
+      locator: Album artist and issue date
+  performer:
+  - value: Qrnbrx5
+    references:
+    - source: music.apple.com-us-album-heavy-as-texas-1454726769
+      quote: Heavy as Texas · HEAVY AS TEXAS · 2019-04-05
+      accessed: 2026-11-21
+      locator: Album artist and issue date
+  - value: Qtpm2k9
+    references:
+    - source: metalnation.com-heavy-as-texas-featuring-members-of-exhorder-drops-energetic-video-for-king-of-fools
+      quote: Marzi Montazeri (guitars) and Kyle Thomas (vocals)
+      accessed: 2026-11-22
+      locator: Guitar and vocal performing credits
+    qualifiers:
+      role:
+      - guitar
+  listen link:
+  - value: https://music.apple.com/us/album/heavy-as-texas/1454726769
+    references:
+    - source: music.apple.com-us-album-heavy-as-texas-1454726769
+      quote: Heavy as Texas · HEAVY AS TEXAS · 2019-04-05
+      accessed: 2026-11-21
+      locator: Album artist and issue date
+  - value: https://open.spotify.com/album/4ic6uVwQquJvisCfREN66j
+    references:
+    - source: open.spotify.com-album-4ic6uvwqqujviscfren66j
+      quote: Heavy as Texas · HEAVY AS TEXAS
+      accessed: 2026-11-21
+      locator: Native digital record
+  release date:
+  - value:
+      date: '2019-04-05'
+    references:
+    - source: music.apple.com-us-album-heavy-as-texas-1454726769
+      quote: Heavy as Texas · HEAVY AS TEXAS · 2019-04-05
+      accessed: 2026-11-21
+      locator: Album artist and issue date
+  - value:
+      date: '2019-04-19'
+    references:
+    - source: metalnation.com-heavy-as-texas-featuring-members-of-exhorder-drops-energetic-video-for-king-of-fools
+      quote: released their debut self-titled album on April 19, 2019 via Crunchy Western Records
+      accessed: 2026-11-22
+      locator: Press release reports different date
+  release type:
+  - value: album
+    references:
+    - source: music.apple.com-us-album-heavy-as-texas-1454726769
+      quote: Heavy as Texas · HEAVY AS TEXAS · 2019-04-05
+      accessed: 2026-11-21
+      locator: Album artist and issue date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/da/6e/74/da6e747e-cec2-51ea-d645-41301f1982f5/040232299247_cover.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-heavy-as-texas-1454726769
+      quote: Heavy as Texas · HEAVY AS TEXAS · 2019-04-05
+      accessed: 2026-11-21
+      locator: Album artist and issue date
