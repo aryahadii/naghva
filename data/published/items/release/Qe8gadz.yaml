@@ -1,0 +1,53 @@
+id: Qe8gadz
+type: release
+statements:
+  name:
+  - value:
+      text: Pleasure Island
+      language: en
+    references:
+    - source: themast.bandcamp.com-album-pleasure-island
+      quote: Pleasure Island
+      accessed: 2026-11-21
+      locator: Release heading
+  performer:
+  - value: Qfwn5xw
+    references:
+    - source: themast.bandcamp.com-album-pleasure-island
+      quote: The Mast
+      accessed: 2026-11-21
+      locator: Release artist
+  release date:
+  - value:
+      date: '2014-01-28'
+    references:
+    - source: themast.bandcamp.com-album-pleasure-island
+      quote: released January 28, 2014
+      accessed: 2026-11-21
+      locator: Release date
+  cover art:
+  - value: https://f4.bcbits.com/img/a2926326288_2.jpg
+    references:
+    - source: themast.bandcamp.com-album-pleasure-island
+      quote: Pleasure Island
+      accessed: 2026-11-21
+      locator: Release heading
+  listen link:
+  - value: https://themast.bandcamp.com/album/pleasure-island
+    references:
+    - source: themast.bandcamp.com-album-pleasure-island
+      quote: Pleasure Island
+      accessed: 2026-11-21
+      locator: Release heading
+  - value: https://open.spotify.com/album/3F5IWOlOxn70l8nUXNKmN7
+    references:
+    - source: open.spotify.com-album-3f5iwoloxn70l8nuxnkmn7
+      quote: Pleasure Island
+      accessed: 2026-11-21
+      locator: Album heading
+  - value: https://music.apple.com/us/album/pleasure-island/797158012
+    references:
+    - source: music.apple.com-us-album-pleasure-island-797158012
+      quote: Pleasure Island
+      accessed: 2026-11-21
+      locator: Album heading
