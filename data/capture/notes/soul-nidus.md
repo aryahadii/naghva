@@ -1,0 +1,76 @@
+# Soul Nidus
+
+Two brothers from Iran are named in the band interview, artist site and 2008 Toronto presenter’s programme; the 2007 coverage and festival also confirm Nick Sansalone on drums. The present ensemble describes itself as a duo. The band’s own site dates its origins to the early 2000s. Gooshe instead gives 1999. The source for the Persian spelling is the published Gooshe feature. The independent study by Sarah Auliffe distinguishes the brothers from the Osley brothers in Blurred Vision. The chosen photograph shows the two current performers facing one another, published on their Spotify page. The ten Apple and ten Spotify editions include the distinct acoustic and piano cuts on the EPs. The group’s SoundCloud returns 27 personal recordings, including the Yazzda remix. Its artist channel has 45 uploads including a band announcement and online listening party; music films and materially distinct sessions are retained. The filmmaker credits the band’s music on Godspeed. The artist site streams the three 2024 singles directly and native services are matched below. Bandcamp, Amazon, Qobuz, YouTube, Spotify, SoundCloud and Apple were searched. No confirmed artist Bandcamp; Qobuz regions restricted on direct capture.
+
+- Jetlag (Qafkvbb) · https://music.apple.com/us/song/jetlag/1777971415 · https://open.spotify.com/track/5p0rqLA4FyxT7D598No4E0 · https://music.apple.com/us/album/jetlag-single/1777971414 · https://open.spotify.com/album/2Q1rlickolkGPzK36gnduk · https://www.youtube.com/watch?v=_gMIH4hcuJ8
+- Live to Love (Qnff6hf) · https://music.apple.com/us/song/live-to-love/1763276616 · https://open.spotify.com/track/4iPffiA8vPV5dWsUBCrRMj · https://music.apple.com/us/album/live-to-love-single/1763276615 · https://open.spotify.com/album/5Oa10cpQwPlJwJl4PZMUvf · https://soundcloud.com/soulnidus/soul-nidus-live-to-love · https://www.youtube.com/watch?v=CYs9sFVj8LA
+- The Ark (Qgapm2f) · https://music.apple.com/us/song/the-ark/1748921925 · https://open.spotify.com/track/6D8LYvFOdjYkSLCLEQUbhI · https://music.apple.com/us/album/the-ark-single/1748921924 · https://open.spotify.com/album/7IojXi6gqQjzJYSLEzPEnw · https://www.youtube.com/watch?v=lrxGScps_cE
+- Together but Apart (feat. Elizabeth Metaxas) (Qg7es75) · https://music.apple.com/us/song/together-but-apart-feat-elizabeth-metaxas/1535304909 · https://open.spotify.com/track/4aHzAI1PFj1L25A5WxDx8O · https://music.apple.com/us/album/together-but-apart-feat-elizabeth-metaxas-single/1535304908 · https://open.spotify.com/album/2N71nRs1oLsOwiPucbkGEy · https://www.youtube.com/watch?v=eGITixeLjUA
+- Opening Scene (Q4rcn2y) · https://music.apple.com/us/song/opening-scene/1500361972 · https://open.spotify.com/track/4L0ds5OAwCJ30WYAmIEDyi · https://music.apple.com/us/album/opening-scene-single/1500361971 · https://open.spotify.com/album/39qCWIhs6kj35dYUOhtIX5 · https://soundcloud.com/soulnidus/opening-scene · https://www.youtube.com/watch?v=ALz4XpI13bQ
+- Hand on Heart (Qhwwxhe) · https://music.apple.com/us/album/hand-on-heart-ep/1398980682 · https://open.spotify.com/album/7x0zzNSPSTbVDgEpE7xKGi
+- Sidewalk (Qpjyk3c) · https://music.apple.com/us/song/sidewalk/1398981090 · https://open.spotify.com/track/2kSgbUnAa3AwBVQKFd5Ya8 · https://www.youtube.com/watch?v=u7FTRIohnKo
+- Come Back Home (Q3w8emh) · https://music.apple.com/us/song/come-back-home/1398981091 · https://open.spotify.com/track/5hjvy1xHitPXhDvHclUhvt
+- There's Nowhere (Qmxbv6v) · https://music.apple.com/us/song/theres-nowhere/1398981092 · https://open.spotify.com/track/63yQDXXFYd6PuGT1JX1VYx · https://www.youtube.com/watch?v=2Ub2v_RK5Rk
+- Esperanza (Qbsmcbf) · https://music.apple.com/us/song/esperanza/1398981093 · https://open.spotify.com/track/2h8qihLlPZbkUiE7ZV6XlM
+- Godspeed (Qed2fe7) · https://music.apple.com/us/song/godspeed/1398981094 · https://open.spotify.com/track/4s4iP44BDatuHqJHawvtzi
+- Lonely Sessions, Vol. 02 (Qpaq8fr) · https://music.apple.com/us/album/lonely-sessions-vol-02-ep/673742097 · https://open.spotify.com/album/3eR6FcngGzI5j2kBD126L9
+- Come Back Home (Qh9e8fb) · https://music.apple.com/us/song/come-back-home/673742100 · https://open.spotify.com/track/5jvPb9S1PKTj8Vp1jWbigu · https://soundcloud.com/soulnidus/01-come-back-home-lonely
+- In My Head (Piano Version) (Qgt26w3) · https://music.apple.com/us/song/in-my-head-piano-version/673742101 · https://open.spotify.com/track/4cKu5rkFqhCuoQrMaeE2PC · https://soundcloud.com/soulnidus/02-in-my-head-piano-version
+- Rainy Morning (Qcsfbvn) · https://music.apple.com/us/song/rainy-morning/673742102 · https://open.spotify.com/track/3PTGf4HTiY0d3B3Hs1GSWV · https://soundcloud.com/soulnidus/03-rainy-morning-lonely · https://www.youtube.com/watch?v=Mm16dtCgg50
+- Wishful Thinking (Qrxjd9s) · https://music.apple.com/us/song/wishful-thinking/673742103 · https://open.spotify.com/track/5xHtahxGmV5vnxcuUhtSSG · https://soundcloud.com/soulnidus/04-wishful-thinking-lonely
+- I'm All Alone Tonight (Q4qhjfy) · https://music.apple.com/us/song/im-all-alone-tonight/673742104 · https://open.spotify.com/track/73HxguDfEQb43yramF4rR6 · https://soundcloud.com/soulnidus/05-im-all-alone-tonight-lonely
+- Lonely Sessions, Vol. 01 (Qpef2aw) · https://music.apple.com/us/album/song-of-hope-acoustic/577984438 · https://open.spotify.com/album/0OZnCkQpJEetunkaJplnDa
+- One Way Track (Acoustic) (Qtszrr6) · https://music.apple.com/us/song/one-way-track-acoustic/577984439 · https://open.spotify.com/track/1LNfUaVFMDycb09jfivD6c · https://soundcloud.com/soulnidus/one-way-track-lonely-session · https://www.youtube.com/watch?v=ooGkCE-cfTk
+- In the Name of Love (Acoustic) (Qrwz59s) · https://music.apple.com/us/song/in-the-name-of-love-acoustic/577984440 · https://open.spotify.com/track/3QBJ4u8ohAsTosW7GR9eMw · https://soundcloud.com/soulnidus/in-the-name-of-love-lonely · https://www.youtube.com/watch?v=t4YXR850LXI
+- I Shout Love (Acoustic) (Qejq88f) · https://music.apple.com/us/song/i-shout-love-acoustic/577984441 · https://open.spotify.com/track/6m0FvZ8zirAMrJOfs7N98K · https://soundcloud.com/soulnidus/i-shout-love-lonely-sessions · https://www.youtube.com/watch?v=Ts0C1FDaEto
+- I Can Only Sing for You (Acoustic) (Q6b7ad4) · https://music.apple.com/us/song/i-can-only-sing-for-you-acoustic/577984442 · https://open.spotify.com/track/5aC2W4OE7K3HMIDGObNVxp · https://soundcloud.com/soulnidus/i-can-only-sing-for-you-lonely · https://www.youtube.com/watch?v=72f5aJfGoak
+- Song of Hope (Acoustic) (Qr2p7xe) · https://music.apple.com/us/song/song-of-hope-acoustic/577984443 · https://open.spotify.com/track/64oofuQ2gShXXEBZY1eDYZ · https://soundcloud.com/soulnidus/song-of-hope-lonely-sessions · https://www.youtube.com/watch?v=lPKmfic0oUI
+- Looking Back Facing Forward (Q7aetdv) · https://music.apple.com/us/album/looking-back-facing-forward/395720185 · https://open.spotify.com/album/1jCmWnz66xIFVkQAkXsa2V
+- Clown On Strike (Q3nzrph) · https://music.apple.com/us/song/clown-on-strike/395720258 · https://open.spotify.com/track/6O4n3djRJWjoSphexdEg71 · https://www.youtube.com/watch?v=BYioe8L_xAM
+- Song of Hope (Qy5j97m) · https://music.apple.com/us/song/song-of-hope/395720263 · https://open.spotify.com/track/32IiYdT6jhoOMSEVhxUahh · https://soundcloud.com/soulnidus/song-of-hope-free-download · https://www.youtube.com/watch?v=qkL6wPCNjQM
+- I Can Only Sing For You (Qye2vjp) · https://music.apple.com/us/song/i-can-only-sing-for-you/395720265 · https://open.spotify.com/track/1ASAfraV5Z1swZJ7kLbDOY · https://soundcloud.com/soulnidus/03-i-can-only-sing-for-you · https://www.youtube.com/watch?v=kbQt1DRBtNE
+- Cigarettes and Butterflies (Qw2x89r) · https://music.apple.com/us/song/cigarettes-and-butterflies/395720279 · https://open.spotify.com/track/46Ypz0e7vB2doOn5pjCxab · https://soundcloud.com/soulnidus/soulnidus-cigarettes-and · https://www.youtube.com/watch?v=ui4dnDDWUgU
+- Till the End (Q2agrd6) · https://music.apple.com/us/song/till-the-end/395720281 · https://open.spotify.com/track/7caSaSo8SpE549gEJrzHvN · https://soundcloud.com/soulnidus/soulnidus-till-the-end-free · https://www.youtube.com/watch?v=TbxgahhGb6E
+- In the name of Love (Qapqakf) · https://music.apple.com/us/song/in-the-name-of-love/395720284 · https://open.spotify.com/track/1hePEfJUdBn0q7fq55x10e · https://soundcloud.com/soulnidus/soulnidus-in-the-name-of-love · https://www.youtube.com/watch?v=QV12PaNZdMs
+- I'm Sorry (Confessions of an Eremophobic) (Q82bkyg) · https://music.apple.com/us/song/im-sorry-confessions-of-an-eremophobic/395720288 · https://open.spotify.com/track/2QY897VBA9b9AaQO9sns1W · https://soundcloud.com/soulnidus/soulnidus-im-sorry-free · https://www.youtube.com/watch?v=uQCZ0XzwdDE
+- Feel No Pain (Qtm6gh6) · https://music.apple.com/us/song/feel-no-pain/395720331 · https://open.spotify.com/track/2aUPH25eQV0LObQtB5BNId · https://soundcloud.com/soulnidus/soul-nidus-feel-no-pain · https://www.youtube.com/watch?v=auJinG0WD8s
+- Black Balloon (Qv8bf3p) · https://music.apple.com/us/song/black-balloon/395720332 · https://open.spotify.com/track/1EMuWUfMHet3dhuQ6HhPs2 · https://soundcloud.com/soulnidus/black-balloon · https://www.youtube.com/watch?v=HGQHzYF8yTg
+- Blue Sky (Qswftzy) · https://music.apple.com/us/song/blue-sky/395720333 · https://open.spotify.com/track/6DmigNuQ6Wm8nmXhj8MLB3 · https://soundcloud.com/soulnidus/soulnidus-blue-sky-free · https://www.youtube.com/watch?v=OefrcVptcgo · https://www.youtube.com/watch?v=U3_yyg8ArTk
+- Last Letter (Qs294b9) · https://music.apple.com/us/song/last-letter/395720334 · https://open.spotify.com/track/1PBVCxAUzMJ5TnSBWQqQyW · https://soundcloud.com/soulnidus/soulnidus-last-letter-free · https://www.youtube.com/watch?v=Z9IWf50FCCA
+- Round N Round (Qkfamsb) · https://music.apple.com/us/song/round-n-round/395720339 · https://open.spotify.com/track/2yDwHSYEGZjH2a8s9cQWAG · https://soundcloud.com/soulnidus/soulnidus-round-n-round-free · https://www.youtube.com/watch?v=QqKUQYNAlpE
+- Right Before Your Eyes (Qzck5zb) · https://music.apple.com/us/song/right-before-your-eyes/395720343 · https://open.spotify.com/track/2l7yKWVfZ7Bv4cjyM1t2Jo · https://soundcloud.com/soulnidus/soulnidus-right-before-your · https://www.youtube.com/watch?v=iZ9y18nR5f8
+- Accident Or Design (Qvxhj4j) · https://music.apple.com/us/song/accident-or-design/395720344 · https://open.spotify.com/track/7yyTnWeMzoMYJV24fvN6uQ · https://soundcloud.com/soulnidus/soulnidus-accident-or-design · https://www.youtube.com/watch?v=oNB7i6JINiY · https://www.youtube.com/watch?v=NZCDduJ4uSE
+- STOIC (Q7hrrn7) · https://music.apple.com/us/album/stoic/81634471 · https://open.spotify.com/album/5s9a4o9hiGZwxPauKhogN3
+- Goodbye (Qev5at5) · https://music.apple.com/us/song/goodbye/81634444 · https://open.spotify.com/track/7CwkhbkNvCzgZ8C2eAqd3I
+- I Shout Love (Qk3pnf4) · https://music.apple.com/us/song/i-shout-love/81634449 · https://open.spotify.com/track/6jqnacE4YeX3bU0gyCD5Rh
+- Promise (Q2dr4za) · https://music.apple.com/us/song/promise/81634451 · https://open.spotify.com/track/14Kwc1z1woDhu156jTDMkv · https://soundcloud.com/soulnidus/promise-from-the-album-stoic
+- Beautiful (Q53h3ca) · https://music.apple.com/us/song/beautiful/81634453 · https://open.spotify.com/track/0XBqBwxkHQwAx8jEXjophv
+- Shine (Qp3572a) · https://music.apple.com/us/song/shine/81634455 · https://open.spotify.com/track/6Z0tGCehJefrn92VmQKZBB
+- One Way Track (Q2a76yt) · https://music.apple.com/us/song/one-way-track/81634457 · https://open.spotify.com/track/2cAhI8RaLLBR2tHmNSomds
+- Mayhem (Qcdtxs7) · https://music.apple.com/us/song/mayhem/81634459 · https://open.spotify.com/track/6WlgKqPlPva1FGVtLRuUCg
+- Angelina (Qagyy7f) · https://music.apple.com/us/song/angelina/81634461 · https://open.spotify.com/track/6bgGYcPefHIIXwJeADzpuY
+- Pyromaniac (Qjf9csn) · https://music.apple.com/us/song/pyromaniac/81634463 · https://open.spotify.com/track/267y5mUGXd9anj8EcnUvaZ
+- I Wonder Why? (Qkpt8nv) · https://music.apple.com/us/song/i-wonder-why/81634465 · https://open.spotify.com/track/4qBm2D3AbBG8hAoCwWakGt
+- Overrated (Q923747) · https://music.apple.com/us/song/overrated/81634467 · https://open.spotify.com/track/5C0KWsKB1GmRvy3z6m61z2
+- Temptation (Q85bcbk) · https://music.apple.com/us/song/temptation/81634469 · https://open.spotify.com/track/546pu5CNR2R0Gps1R5V0FF
+- Clown on Strike - (YAZZDA Remix) (Q3spxm5) · https://soundcloud.com/soulnidus/clown-on-strike-yazzda-remix
+- SOULNIDUS // HELLO UK! "Accident or Design" [BLACK CAB VERSION] (Q99sqh9) · https://www.youtube.com/watch?v=1ue88zWldjc
+- SOULNIDUS // Accident or Design [Live at The Drake Hotel] (Q9xdn5b) · https://www.youtube.com/watch?v=cybbvUENDss
+- SOULNIDUS // I SHOUT LOVE {REHEARSAL} (Qt47a5y) · https://www.youtube.com/watch?v=1cBq6JXSLqM
+- SOULNIDUS//ANGELINA {ACOUSTIC} (Q5adc72) · https://www.youtube.com/watch?v=7D8OxcRgUCw
+- SOULNIDUS - SONG OF HOPE LIVE AT OPERA HOUSE (Q5zy8yb) · https://www.youtube.com/watch?v=4liM5uk6bj8
+- SOULNIDUS - CLOWN ON STRIKE LIVE AT THE OPERA HOUSE (Qxdwy4y) · https://www.youtube.com/watch?v=M5JwckgydbQ
+- Wood & Wires Presents: SOULNIDUS//LOOKING BACK FACING FORWARD (Q56k5hq) · https://www.youtube.com/watch?v=V5SBr-LczYs
+- SOULNIDUS - I CAN ONLY SING FOR YOU // ON THE STREETS OF FLORENCE, ITALY (Qg2hr9g) · https://www.youtube.com/watch?v=iZcMG8QVjh8
+- "Hollywood Summer" for Milan! (Qwppmtg) · https://www.youtube.com/watch?v=BO7HwUlhsXI
+- SOUL NIDUS - "CLOWN ON STRIKE" (with Lyrics) (Qby9eca) · https://www.youtube.com/watch?v=200yZf9Bkm8
+- SOUL NIDUS - Accident or Design - LIVE (Qzsv6v5) · https://www.youtube.com/watch?v=5Wygol0cv74
+- SOUL NIDUS - I can't take it - LIVE (Qb2ym9y) · https://www.youtube.com/watch?v=0sOWnq58h3c
+- SOUL NIDUS at KERRANG! Radio (UK) (Qhhcsn7) · https://www.youtube.com/watch?v=siCvmWDSYzw
+- Godspeed (Q2m9sw8) · https://vimeo.com/385823085
+
+- Song of Hope (ColdplayCorner acoustic session) (Qnj86vm) · https://www.youtube.com/watch?v=0ykjvvWNEtc
+
+The interview host commissioned its own acoustic recording of “Song of Hope.” The soundtrack upload and app editions of “Round N Round” and “I’m Sorry” match in duration, titles and the group’s own descriptions. Both original SoundCloud credits specify Ehsan Ashrafi as composer and lyricist.
+
+The label-supplied Qobuz credits on the first Lonely Sessions volume name both brothers as composers of “In the Name of Love” and Ehsan alone on tracks 1, 3, 4 and 5.

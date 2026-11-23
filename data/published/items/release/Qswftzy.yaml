@@ -1,0 +1,69 @@
+id: Qswftzy
+type: release
+statements:
+  name:
+  - value:
+      text: Blue Sky
+      language: en
+    references:
+    - source: music.apple.com-us-album-looking-back-facing-forward-395720185
+      quote: Blue Sky
+      accessed: '2026-11-21'
+      locator: Original interview, programme or release metadata
+  performer:
+  - value: Qst5f86
+    references:
+    - source: music.apple.com-us-album-looking-back-facing-forward-395720185
+      quote: Soul Nidus
+      accessed: '2026-11-21'
+      locator: Original interview, programme or release metadata
+  release date:
+  - value:
+      date: '2010-10-10'
+    references:
+    - source: music.apple.com-us-album-looking-back-facing-forward-395720185
+      quote: '2010-10-10'
+      accessed: '2026-11-21'
+      locator: Original interview, programme or release metadata
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music/18/a1/12/mzi.wgbaajdf.jpg/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Soul Nidus digital edition via Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-looking-back-facing-forward-395720185
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music/18/a1/12/mzi.wgbaajdf.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Original interview, programme or release metadata
+  listen link:
+  - value: https://music.apple.com/us/song/blue-sky/395720333
+    references:
+    - source: music.apple.com-us-album-looking-back-facing-forward-395720185
+      quote: https://music.apple.com/us/song/blue-sky/395720333
+      accessed: '2026-11-21'
+      locator: Original interview, programme or release metadata
+  - value: https://open.spotify.com/track/6DmigNuQ6Wm8nmXhj8MLB3
+    references:
+    - source: open.spotify.com-embed-album-1jcmwnz66xifvkqakxsa2v
+      quote: spotify:track:6DmigNuQ6Wm8nmXhj8MLB3
+      accessed: '2026-11-21'
+      locator: Original interview, programme or release metadata
+  - value: https://soundcloud.com/soulnidus/soulnidus-blue-sky-free
+    references:
+    - source: soundcloud.com-soulnidus-soulnidus-blue-sky-free
+      quote: Stream SOULNIDUS - BLUE SKY by SOULNIDUS | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Original interview, programme or release metadata
+  - value: https://www.youtube.com/watch?v=OefrcVptcgo
+    references:
+    - source: www.youtube.com-watch-v-oefrcvptcgo
+      quote: SOULNIDUS - Blue Sky [Official Video]
+      accessed: '2026-11-21'
+      locator: Original group channel
+  - value: https://www.youtube.com/watch?v=U3_yyg8ArTk
+    references:
+    - source: www.youtube.com-watch-v-u3_yyg8artk
+      quote: SOULNIDUS - BLUE SKY
+      accessed: '2026-11-21'
+      locator: Original group channel

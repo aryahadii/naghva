@@ -1,0 +1,57 @@
+id: Qmxbv6v
+type: release
+statements:
+  name:
+  - value:
+      text: There's Nowhere
+      language: en
+    references:
+    - source: music.apple.com-us-album-hand-on-heart-ep-1398980682
+      quote: There's Nowhere
+      accessed: '2026-11-21'
+      locator: Original interview, programme or release metadata
+  performer:
+  - value: Qst5f86
+    references:
+    - source: music.apple.com-us-album-hand-on-heart-ep-1398980682
+      quote: Soul Nidus
+      accessed: '2026-11-21'
+      locator: Original interview, programme or release metadata
+  release date:
+  - value:
+      date: '2018-07-20'
+    references:
+    - source: music.apple.com-us-album-hand-on-heart-ep-1398980682
+      quote: '2018-07-20'
+      accessed: '2026-11-21'
+      locator: Original interview, programme or release metadata
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/3d/d0/10/3dd01018-caec-3664-6d61-45c4c266af94/191924572374.jpg/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Soul Nidus digital edition via Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-hand-on-heart-ep-1398980682
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/3d/d0/10/3dd01018-caec-3664-6d61-45c4c266af94/191924572374.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Original interview, programme or release metadata
+  listen link:
+  - value: https://music.apple.com/us/song/theres-nowhere/1398981092
+    references:
+    - source: music.apple.com-us-album-hand-on-heart-ep-1398980682
+      quote: https://music.apple.com/us/song/theres-nowhere/1398981092
+      accessed: '2026-11-21'
+      locator: Original interview, programme or release metadata
+  - value: https://open.spotify.com/track/63yQDXXFYd6PuGT1JX1VYx
+    references:
+    - source: open.spotify.com-embed-album-7x0zznspstbvdgepe7xkgi
+      quote: spotify:track:63yQDXXFYd6PuGT1JX1VYx
+      accessed: '2026-11-21'
+      locator: Original interview, programme or release metadata
+  - value: https://www.youtube.com/watch?v=2Ub2v_RK5Rk
+    references:
+    - source: www.youtube.com-watch-v-2ub2v_rk5rk
+      quote: SOULNIDUS - THERE'S NOWHERE (Official video)
+      accessed: '2026-11-21'
+      locator: Original group channel

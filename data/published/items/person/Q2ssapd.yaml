@@ -1,0 +1,21 @@
+id: Q2ssapd
+type: person
+statements:
+  name:
+  - value:
+      text: Salman Ashrafi
+      language: en
+    references:
+    - source: tirgan.ca-b-2008-events-music.html
+      quote: 'Salman Ashrafi: Guitars'
+      accessed: '2026-11-21'
+      locator: Original interview, programme or release metadata
+  member of:
+  - value: Qst5f86
+    qualifiers:
+      role: guitar
+    references:
+    - source: tirgan.ca-b-2008-events-music.html
+      quote: 'Salman Ashrafi: Guitars'
+      accessed: '2026-11-21'
+      locator: Original interview, programme or release metadata
