@@ -1,0 +1,76 @@
+id: Qkq53hh
+type: release
+statements:
+  name:
+  - value:
+      text: Anchor
+      language: en
+    references:
+    - source: maryamrahmani.bandcamp.com-track-anchor
+      quote: Anchor
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  performer:
+  - value: Qtwtxvd
+    references:
+    - source: maryamrahmani.bandcamp.com-track-anchor
+      quote: Anchor | Maryam Rahmani
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qfqjna5
+    references:
+    - source: maryamrahmani.bandcamp.com-album-kamand
+      quote: David Moran - cello on 3, 4, 5 and 8
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Qq95fvt
+    references:
+    - source: maryamrahmani.bandcamp.com-album-kamand
+      quote: Gustavo Quintino - double bass on 3 and 8
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://maryamrahmani.bandcamp.com/track/anchor
+    references:
+    - source: maryamrahmani.bandcamp.com-track-anchor
+      quote: Anchor | Maryam Rahmani
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/anchor/1832657056
+    references:
+    - source: music.apple.com-us-song-anchor-1832657056
+      quote: ‎Anchor - Song with Lyrics by Maryam Rahmani - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/3DK0ZjJzg4Momi9bSps4jj
+    references:
+    - source: open.spotify.com-track-3dk0zjjzg4momi9bsps4jj
+      quote: Anchor - song and lyrics by Maryam Rahmani | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2025-08-22'
+    references:
+    - source: maryamrahmani.bandcamp.com-album-kamand
+      quote: released August 22, 2025
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a1069223098_10.jpg
+    references:
+    - source: maryamrahmani.bandcamp.com-track-anchor
+      quote: https://f4.bcbits.com/img/a1069223098_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Kaspar Schmidt Mumm / Music in Exile
+        language: en
+  published by:
+  - value: Qarpnwr
+    references:
+    - source: maryamrahmani.bandcamp.com-album-kamand
+      quote: Music in Exile
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
