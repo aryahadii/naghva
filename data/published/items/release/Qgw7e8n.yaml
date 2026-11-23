@@ -1,0 +1,72 @@
+id: Qgw7e8n
+type: release
+statements:
+  name:
+  - value:
+      text: Stars at Eye-Height (2017)
+      language: en
+    references:
+    - source: tabeah.bandcamp.com-album-stars-at-eye-height-2017
+      quote: Stars at Eye-Height (2017)
+      locator: Album title
+      accessed: '2026-11-21'
+  performer:
+  - value: Q9aspca
+    references:
+    - source: tabeah.bandcamp.com-album-stars-at-eye-height-2017
+      quote: Shabnam Parvaresh (bass clarinet)
+      locator: Original personnel credit
+      accessed: '2026-11-21'
+    qualifiers:
+      role: bass clarinet
+  - value: Qcg7522
+    references:
+    - source: tabeah.bandcamp.com-album-stars-at-eye-height-2017
+      quote: Tabea Mangelsdorf (vocals, songwriting, arrangements, production)
+      locator: Artist is Tabeah
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2017-04-21'
+    references:
+    - source: tabeah.bandcamp.com-album-stars-at-eye-height-2017
+      quote: 21 Apr 2017 00:00:00 GMT
+      locator: Original publication date
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://f4.bcbits.com/img/a2718218947_10.jpg
+    references:
+    - source: tabeah.bandcamp.com-album-stars-at-eye-height-2017
+      quote: https://f4.bcbits.com/img/a2718218947_10.jpg
+      locator: Portrait or cover art on the artist or publisher page
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Tabeah · release artwork
+        language: en
+  listen link:
+  - value: https://tabeah.bandcamp.com/album/stars-at-eye-height-2017
+    references:
+    - source: tabeah.bandcamp.com-album-stars-at-eye-height-2017
+      quote: Stars at Eye-Height (2017)
+      locator: Album title
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/album/243Vn7JUu4WiD0VuQ7rXCh
+    references:
+    - source: open.spotify.com-album-243vn7juu4wid0vuq7rxch
+      quote: Stars at Eye-Height
+      locator: Streaming album
+      accessed: '2026-11-21'
+  - value: https://music.apple.com/us/album/1210767308
+    references:
+    - source: music.apple.com-us-album-1210767308
+      quote: Stars At Eye-Height
+      locator: Album title
+      accessed: '2026-11-21'
+  release type:
+  - value: album
+    references:
+    - source: tabeah.bandcamp.com-album-stars-at-eye-height-2017
+      quote: Stars at Eye-Height (2017)
+      locator: Album title
+      accessed: '2026-11-21'

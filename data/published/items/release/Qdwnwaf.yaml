@@ -1,0 +1,65 @@
+id: Qdwnwaf
+type: release
+statements:
+  name:
+  - value:
+      text: Neither Hot Nor Cold
+      language: en
+    references:
+    - source: henningneidhardt.bandcamp.com-album-memos-of-memory-ost-2
+      quote: Neither Hot Nor Cold
+      locator: Track 1
+      accessed: '2026-11-21'
+  performer:
+  - value: Q9aspca
+    references:
+    - source: henningneidhardt.bandcamp.com-album-memos-of-memory-ost-2
+      quote: Shabnam Parvaresh - clarinet
+      locator: Original personnel credit
+      accessed: '2026-11-21'
+    qualifiers:
+      role: clarinet
+  - value: Qh3aht4
+    references:
+    - source: henningneidhardt.bandcamp.com-album-memos-of-memory-ost-2
+      quote: Henning Neidhardt Trio
+      locator: Billed musician or ensemble
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2024-11-01'
+    references:
+    - source: henningneidhardt.bandcamp.com-album-memos-of-memory-ost-2
+      quote: 01 Nov 2024 00:00:00 GMT
+      locator: Original publication date
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://f4.bcbits.com/img/a3427808692_10.jpg
+    references:
+    - source: henningneidhardt.bandcamp.com-album-memos-of-memory-ost-2
+      quote: https://f4.bcbits.com/img/a3427808692_10.jpg
+      locator: Portrait or cover art on the artist or publisher page
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Henning Neidhardt · release artwork
+        language: en
+  listen link:
+  - value: https://henningneidhardt.bandcamp.com/track/neither-hot-nor-cold
+    references:
+    - source: henningneidhardt.bandcamp.com-album-memos-of-memory-ost-2
+      quote: Neither Hot Nor Cold
+      locator: Track 1
+      accessed: '2026-11-21'
+  - value: https://music.apple.com/us/song/neither-hot-nor-cold-feat-shabnam-parvaresh-qin-tang/1774426727
+    references:
+    - source: music.apple.com-us-album-1774426726
+      quote: Neither Hot nor Cold (feat. Shabnam Parvaresh & Qin Tang)
+      locator: Streaming track 1
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/6JB0HmDuAAYO0E69lIJyT0
+    references:
+    - source: open.spotify.com-album-4jymouikrlldrf7iwx3epl
+      quote: Neither Hot nor Cold
+      locator: Track on corresponding streaming edition
+      accessed: '2026-11-21'
