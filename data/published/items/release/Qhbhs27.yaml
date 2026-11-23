@@ -1,0 +1,73 @@
+id: Qhbhs27
+type: release
+statements:
+  name:
+  - value:
+      text: Sooyeh Aarezoohaa
+      language: en
+    references:
+    - source: music.apple.com-us-album-nemidaanand-1523604397
+      quote: Sooyeh Aarezoohaa
+      accessed: '2026-11-21'
+      locator: Digital edition track 8
+  release date:
+  - value:
+      date: '2008'
+    references:
+    - source: musishen.com
+      quote: '2008'
+      accessed: '2026-11-21'
+      locator: Artist discography, Nemidaanand
+  performer:
+  - value: Qavhs3y
+    references:
+    - source: music.apple.com-us-album-nemidaanand-1523604397
+      quote: Shen Band
+      accessed: '2026-11-21'
+      locator: Release billing
+  - value: Qec6smv
+    references:
+    - &id001
+      source: musishen.com
+      quote: write, compose, arrange, perform and produce seven collections
+      accessed: '2026-11-21'
+      locator: Artist biography, dated catalogue or interview
+  contributor:
+  - value: Qec6smv
+    references:
+    - *id001
+    qualifiers:
+      role:
+      - composer
+      - arranger
+      - producer
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e5/98/da/e598dab2-019a-87a2-ca8a-274f23585717/195079871627.jpg/1200x630wp-60.jpg
+    references:
+    - source: music.apple.com-us-album-nemidaanand-1523604397
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e5/98/da/e598dab2-019a-87a2-ca8a-274f23585717/195079871627.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Original release cover
+    qualifiers:
+      credit:
+        text: Shen Band, Apple Music edition artwork
+        language: en
+  listen link:
+  - value: https://music.apple.com/us/song/sooyeh-aarezoohaa/1523604405
+    references:
+    - source: music.apple.com-us-album-nemidaanand-1523604397
+      quote: https://music.apple.com/us/song/sooyeh-aarezoohaa/1523604405
+      accessed: '2026-11-21'
+      locator: Apple Music exact song
+  - value: https://open.spotify.com/track/4XQI1vBhGorLgRLHnKmCZa
+    references:
+    - source: open.spotify.com-embed-album-0bpzlzu5gdwsvskamvbhzc
+      quote: spotify:track:4XQI1vBhGorLgRLHnKmCZa
+      accessed: '2026-11-21'
+      locator: Spotify exact song
+  - value: https://www.youtube.com/watch?v=D9mCb8Mg3PE
+    references:
+    - source: www.youtube.com-playlist-list-olak5uy_l5ghlhmmb4phtf9g-yytgqb8tqlurxli0
+      quote: D9mCb8Mg3PE
+      accessed: '2026-11-21'
+      locator: Official album track 8

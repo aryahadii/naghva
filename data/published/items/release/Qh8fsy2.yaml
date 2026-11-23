@@ -1,0 +1,26 @@
+id: Qh8fsy2
+type: release
+statements:
+  name:
+  - value:
+      text: 'The Best of Shen 2006–2011: Songs of Love and Protest'
+      language: en
+    references:
+    - &id001
+      source: www.iranian.com-main-blog-bahmani-long-thought-lost-shen-resurfaces.html
+      quote: The Best of Shen 2006-2011 Songs of Love and Protest
+      accessed: '2026-11-21'
+      locator: Artist biography, dated catalogue or interview
+  release type:
+  - value: compilation
+    references:
+    - *id001
+  release date:
+  - value:
+      date: '2011'
+    references:
+    - *id001
+  performer:
+  - value: Qavhs3y
+    references:
+    - *id001

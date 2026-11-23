@@ -1,0 +1,73 @@
+id: Qtxgsqr
+type: release
+statements:
+  name:
+  - value:
+      text: Aahang-Ar
+      language: en
+    references:
+    - source: music.apple.com-us-album-im-here-1509703091
+      quote: Aahang-Ar
+      accessed: '2026-11-21'
+      locator: Digital edition track 6
+  release date:
+  - value:
+      date: '2019'
+    references:
+    - source: musishen.com
+      quote: '2019'
+      accessed: '2026-11-21'
+      locator: Artist discography, I'm Here
+  performer:
+  - value: Qavhs3y
+    references:
+    - source: music.apple.com-us-album-im-here-1509703091
+      quote: Shen Band
+      accessed: '2026-11-21'
+      locator: Release billing
+  - value: Qec6smv
+    references:
+    - &id001
+      source: musishen.com
+      quote: write, compose, arrange, perform and produce seven collections
+      accessed: '2026-11-21'
+      locator: Artist biography, dated catalogue or interview
+  contributor:
+  - value: Qec6smv
+    references:
+    - *id001
+    qualifiers:
+      role:
+      - composer
+      - arranger
+      - producer
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/14/fc/1c/14fc1c7f-ca57-b601-f88e-c871a1fa532f/195079241734.jpg/1200x630wp-60.jpg
+    references:
+    - source: music.apple.com-us-album-im-here-1509703091
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/14/fc/1c/14fc1c7f-ca57-b601-f88e-c871a1fa532f/195079241734.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Original release cover
+    qualifiers:
+      credit:
+        text: Shen Band, Apple Music edition artwork
+        language: en
+  listen link:
+  - value: https://music.apple.com/us/song/aahang-ar/1509703097
+    references:
+    - source: music.apple.com-us-album-im-here-1509703091
+      quote: https://music.apple.com/us/song/aahang-ar/1509703097
+      accessed: '2026-11-21'
+      locator: Apple Music exact song
+  - value: https://open.spotify.com/track/16DFEDXYKT1Q5uf7mhD6Lc
+    references:
+    - source: open.spotify.com-embed-album-3jwua6xwa5gijcrblg54j3
+      quote: spotify:track:16DFEDXYKT1Q5uf7mhD6Lc
+      accessed: '2026-11-21'
+      locator: Spotify exact song
+  - value: https://www.youtube.com/watch?v=0BL9RMxcokU
+    references:
+    - source: www.youtube.com-playlist-list-olak5uy_miswyjwciojco1g7fq7tfmbyf0gdkzfpi
+      quote: 0BL9RMxcokU
+      accessed: '2026-11-21'
+      locator: Official album track 6

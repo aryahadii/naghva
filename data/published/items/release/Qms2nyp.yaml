@@ -1,0 +1,44 @@
+id: Qms2nyp
+type: release
+statements:
+  name:
+  - value:
+      text: Recluse (Not a Terrorist)
+      language: en
+    references:
+    - &id001
+      source: iranian.com-2017-09-07-shen-true-iranian-rock-band
+      quote: He wrote “Recluse (not a terrorist)” a song he wrote in English.
+      accessed: '2026-11-21'
+      locator: Artist biography, dated catalogue or interview
+  performer:
+  - value: Qavhs3y
+    references:
+    - *id001
+  - value: Qec6smv
+    references:
+    - &id002
+      source: shen-band-archive-recluse-not-a-terrorist
+      quote: 'Kaveh Hashemi : vocals & guitars Kian Farshadi : bass JY Andre : drums'
+      accessed: '2026-11-21'
+      locator: Artist archive or eyewitness account
+    qualifiers:
+      role:
+      - vocals
+      - guitar
+  - value: Q7bhbsw
+    references:
+    - *id002
+    qualifiers:
+      role: bass
+  - value: Qd655zp
+    references:
+    - *id002
+    qualifiers:
+      role: drums
+  contributor:
+  - value: Qec6smv
+    references:
+    - *id001
+    qualifiers:
+      role: composer
