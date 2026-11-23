@@ -1,0 +1,53 @@
+id: Qhz2zat
+type: release
+statements:
+  name:
+  - value:
+      text: They Live by Night
+      language: en
+    references:
+    - source: ahoora.bandcamp.com-album-we-were-here-tehran-2011
+      quote: They Live by Night
+      accessed: 2026-11-21
+      locator: Track 1
+  release date:
+  - value:
+      date: '2026-06-10'
+    references:
+    - source: ahoora.bandcamp.com-album-we-were-here-tehran-2011
+      quote: released June 10, 2026
+      accessed: 2026-11-21
+      locator: Release date
+  performer:
+  - value: Qkb4887
+    references:
+    - source: ahoora.bandcamp.com-album-we-were-here-tehran-2011
+      quote: Ahoora
+      accessed: 2026-11-21
+      locator: Release artist
+  listen link:
+  - value: https://ahoora.bandcamp.com/track/they-live-by-night
+    references:
+    - source: ahoora.bandcamp.com-album-we-were-here-tehran-2011
+      quote: They Live by Night
+      accessed: 2026-11-21
+      locator: Track 1
+  - value: https://music.apple.com/us/song/they-live-by-night/6778950124
+    references:
+    - source: music.apple.com-us-album-we-were-here-tehran-2011-6778950119
+      quote: They Live by Night
+      accessed: '2026-11-21'
+      locator: Album track 1
+  - value: https://open.spotify.com/track/2UwQiQYHgitECiGTv6EVB0
+    references:
+    - source: open.spotify.com-embed-album-2ms80qqr4idhio5chencwe
+      quote: They Live by Night
+      accessed: '2026-11-21'
+      locator: Album track 1
+  cover art:
+  - value: https://f4.bcbits.com/img/a3880250788_2.jpg
+    references:
+    - source: ahoora.bandcamp.com-album-we-were-here-tehran-2011
+      quote: 'We Were Here: Tehran 2011'
+      accessed: 2026-11-21
+      locator: Release heading

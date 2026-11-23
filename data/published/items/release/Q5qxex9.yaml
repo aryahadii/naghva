@@ -1,0 +1,61 @@
+id: Q5qxex9
+type: release
+statements:
+  name:
+  - value:
+      text: Hunger Within
+      language: en
+    references:
+    - source: ahoora.bandcamp.com-album-all-in-blood-with-you
+      quote: Hunger Within
+      accessed: 2026-11-21
+      locator: Track 7
+  release date:
+  - value:
+      date: '2007-09-30'
+    references:
+    - source: ahoora.bandcamp.com-album-all-in-blood-with-you
+      quote: released September 30, 2007
+      accessed: 2026-11-21
+      locator: Release date
+  performer:
+  - value: Qkb4887
+    references:
+    - source: ahoora.bandcamp.com-album-all-in-blood-with-you
+      quote: Ahoora
+      accessed: 2026-11-21
+      locator: Release artist
+  listen link:
+  - value: https://ahoora.bandcamp.com/track/hunger-within
+    references:
+    - source: ahoora.bandcamp.com-album-all-in-blood-with-you
+      quote: Hunger Within
+      accessed: 2026-11-21
+      locator: Track 7
+  - value: https://music.apple.com/us/song/hunger-within/6800489042
+    references:
+    - source: music.apple.com-us-album-all-in-blood-with-you-6800488764
+      quote: Hunger Within
+      accessed: '2026-11-21'
+      locator: Album track 7
+  - value: https://open.spotify.com/track/2qfz0k4qJNdB4nKUOtvYRx
+    references:
+    - source: open.spotify.com-embed-album-04f7ydjdrsosxh0kgzayhn
+      quote: Hunger Within
+      accessed: '2026-11-21'
+      locator: Album track 7
+  cover art:
+  - value: https://f4.bcbits.com/img/a3394950586_2.jpg
+    references:
+    - source: ahoora.bandcamp.com-album-all-in-blood-with-you
+      quote: All In Blood With You
+      accessed: 2026-11-21
+      locator: Release heading
+    - source: ahoora.bandcamp.com-album-all-in-blood-with-you
+      quote: 'Artwork: Alireza Saeidan'
+      accessed: 2026-11-21
+      locator: Artwork credits
+    qualifiers:
+      credit:
+        text: Alireza Saeidan
+        language: en

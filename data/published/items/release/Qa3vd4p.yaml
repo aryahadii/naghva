@@ -1,0 +1,41 @@
+id: Qa3vd4p
+type: release
+statements:
+  name:
+  - value:
+      text: This Is Your Life
+      language: en
+    references:
+    - source: ahoora.bandcamp.com-track-this-is-your-life
+      quote: This Is Your Life
+      accessed: 2026-11-21
+      locator: Release heading
+  release date:
+  - value:
+      date: '2010-06-22'
+    references:
+    - source: ahoora.bandcamp.com-track-this-is-your-life
+      quote: released June 22, 2010
+      accessed: 2026-11-21
+      locator: Release date
+  performer:
+  - value: Qkb4887
+    references:
+    - source: ahoora.bandcamp.com-track-this-is-your-life
+      quote: Ahoora
+      accessed: 2026-11-21
+      locator: Release artist
+  listen link:
+  - value: https://ahoora.bandcamp.com/track/this-is-your-life
+    references:
+    - source: ahoora.bandcamp.com-track-this-is-your-life
+      quote: This Is Your Life
+      accessed: 2026-11-21
+      locator: Release heading
+  cover art:
+  - value: https://f4.bcbits.com/img/a4213260158_2.jpg
+    references:
+    - source: ahoora.bandcamp.com-track-this-is-your-life
+      quote: This Is Your Life
+      accessed: 2026-11-21
+      locator: Release heading
