@@ -4502,6 +4502,18 @@
       720
     ]
   },
+  "https://i.scdn.co/image/ab67616d0000b2738baada33ba746e24e7f52e90": {
+    "sha256": "9b6f646d12320dfd0ec2051e7658dfd54a640944b80d096fe3d255a3a062d60b",
+    "ext": "jpg",
+    "bytes": 110024,
+    "width": 640,
+    "height": 640,
+    "widths": [
+      180,
+      360,
+      720
+    ]
+  },
   "https://i.scdn.co/image/ab67616d0000b273906e146dd6f76fedf474fbc8": {
     "bytes": 45684,
     "ext": "jpg",
@@ -15561,6 +15573,20 @@
     "bytes": 389482,
     "width": 1440,
     "height": 2160,
+    "widths": [
+      240,
+      360,
+      640,
+      960,
+      1200
+    ]
+  },
+  "https://images.zoogletools.com/s:bzglfiles/u/1199765/3c73a08274ddd6ff711c3fa356cbdc530a3cf7c0/original/img-7691.jpg/!!/b%3AW1siZXh0cmFjdCIseyJsZWZ0IjowLCJ0b3AiOjE5OSwid2lkdGgiOjQzNDMsImhlaWdodCI6MzI1N31dLFsicmVzaXplIiwzMzBdLFsibWF4Il0sWyJ3ZSJdXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg": {
+    "sha256": "36ce798c151a769f5306fb101f8caf9b7d5f404832f4f02c6cd63850dc293e46",
+    "ext": "jpg",
+    "bytes": 12704,
+    "width": 330,
+    "height": 247,
     "widths": [
       240,
       360,
@@ -30198,6 +30224,19 @@
     "height": 1200,
     "sha256": "5679ba80f30822f8e0cbb3baac5f6df1ca53221a193583559b174a2d53c5a96f",
     "width": 1200,
+    "widths": [
+      180,
+      360,
+      720
+    ]
+  },
+  "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/54/da/92/54da92f0-5f3c-f861-c822-2b97e6636d60/198391761713.jpg/1200x630wp-60.jpg": {
+    "sha256": "3c446e243e067aa35c3d4fdbf480855dd57ec2d1a0732aa4f873e9de3d2d3bcb",
+    "ext": "jpg",
+    "bytes": 293135,
+    "width": 1200,
+    "height": 1200,
+    "from": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/54/da/92/54da92f0-5f3c-f861-c822-2b97e6636d60/198391761713.jpg/1200x1200bb.jpg",
     "widths": [
       180,
       360,

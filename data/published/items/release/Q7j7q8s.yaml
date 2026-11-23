@@ -1,0 +1,93 @@
+id: Q7j7q8s
+type: release
+statements:
+  name:
+  - value:
+      text: غریو
+      language: fa
+    references:
+    - source: beeptunes.com-album-3409505
+      quote: غریو
+      accessed: '2026-11-21'
+      locator: Domestic tracklist, position 6
+  - value:
+      text: Holler
+      language: en
+    references:
+    - source: music.apple.com-us-album-barad-1749089800
+      quote: Holler
+      accessed: '2026-11-21'
+      locator: Original album, track 6
+  performer:
+  - value: Qs2nwh3
+    references:
+    - source: music.apple.com-us-album-barad-1749089800
+      quote: Holler
+      accessed: '2026-11-21'
+      locator: Original album, track 6
+  - value: Qa6r74t
+    qualifiers:
+      role:
+      - bass
+    references:
+    - source: www.youtube.com-watch-v-askjodpiw9w
+      quote: Barad - Holler
+      accessed: '2026-11-21'
+      locator: Native YouTube recording
+  - value: Qjwhj2t
+    references:
+    - source: www.youtube.com-watch-v-askjodpiw9w
+      quote: Barad - Holler
+      accessed: '2026-11-21'
+      locator: Native YouTube recording
+  listen link:
+  - value: https://music.apple.com/us/song/holler/1749090375
+    references:
+    - source: music.apple.com-us-album-barad-1749089800
+      quote: https://music.apple.com/us/song/holler/1749090375
+      accessed: '2026-11-21'
+      locator: Exact Apple song URL
+  - value: https://open.spotify.com/track/5tCBNWQx5lDx14qBXwDo2H
+    references:
+    - source: open.spotify.com-embed-album-5qoqykgy9ot7ihvfz73emw
+      quote: spotify:track:5tCBNWQx5lDx14qBXwDo2H
+      accessed: '2026-11-21'
+      locator: Exact Spotify song ID
+  - value: https://www.youtube.com/watch?v=ASkjoDPiw9w
+    references:
+    - source: www.youtube.com-watch-v-askjodpiw9w
+      quote: Barad - Holler
+      accessed: '2026-11-21'
+      locator: Native YouTube recording
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/54/da/92/54da92f0-5f3c-f861-c822-2b97e6636d60/198391761713.jpg/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Hermes Records via Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-barad-1749089800
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/54/da/92/54da92f0-5f3c-f861-c822-2b97e6636d60/198391761713.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Original album cover in label feed
+  release date:
+  - value:
+      date: '2003'
+    references:
+    - source: hermes-barad-personnel-booklet
+      quote: Digitally recorded in Summer 2003, Tehran
+      accessed: '2026-11-21'
+      locator: Original recording credit
+    - source: music.apple.com-us-album-barad-1749089800
+      quote: '2003-01-01'
+      accessed: '2026-11-21'
+      locator: Apple assigns January 1 to issue year, original sleeve dates recording to summer
+  contributor:
+  - value: Q5q7jyj
+    qualifiers:
+      role: lyricist
+    references:
+    - source: hermes-barad-back-cover
+      quote: 'Poem: Fereydoun Moshiri'
+      accessed: '2026-11-21'
+      locator: Original back cover, track 6
