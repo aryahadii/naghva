@@ -1,0 +1,56 @@
+id: Qr7sft5
+type: act
+statements:
+  name:
+  - value:
+      text: Lowen
+      language: en
+    references:
+    - source: lowen.bandcamp.com-music
+      quote: Lowen
+      accessed: 2026-11-21
+      locator: Artist name
+  formation date:
+  - value:
+      date: '2017'
+    references:
+    - source: www.theguardian.com-music-2025-aug-21-lowen-metal-band-iran-authoritarianism
+      quote: they co-founded Lowen in 2017
+      accessed: 2026-11-21
+      locator: Formation in London
+  profile link:
+  - value: https://lowen.bandcamp.com/music
+    references:
+    - source: lowen.bandcamp.com-music
+      quote: Lowen
+      accessed: 2026-11-21
+      locator: Artist name
+  - value: https://music.apple.com/us/artist/lowen/1383909439
+    references:
+    - source: music.apple.com-us-artist-lowen-1383909439
+      quote: Najang Bah Divhayeh Mazandaran
+      accessed: 2026-11-21
+      locator: Recordings under this artist
+  - value: https://open.spotify.com/artist/2jJxBOcsVwHF0kYnnjsPu9
+    references:
+    - source: open.spotify.com-artist-2jjxbocsvwhf0kynnjspu9
+      quote: Do Not Go To War With The Demons Of Mazandaran
+      accessed: 2026-11-21
+      locator: Artist discography
+  - value: https://www.youtube.com/channel/UCJt8ikSrf_EqL2_skcHxcgw
+    references:
+    - source: www.youtube.com-channel-ucjt8iksrf_eql2_skchxcgw
+      quote: Lowen - Waging War Against God (Official Music Video)
+      accessed: 2026-11-21
+      locator: Original music videos
+  image:
+  - value: https://f4.bcbits.com/img/0035796622_10.jpg
+    qualifiers:
+      credit:
+        text: Lowen via Bandcamp
+        language: en
+    references:
+    - source: lowen.bandcamp.com-music
+      quote: https://f4.bcbits.com/img/0035796622_10.jpg
+      accessed: 2026-11-21
+      locator: Band profile photograph

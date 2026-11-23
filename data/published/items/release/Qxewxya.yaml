@@ -1,0 +1,70 @@
+id: Qxewxya
+type: release
+statements:
+  name:
+  - value:
+      text: Against Evil Done By The Serpent
+      language: en
+    references:
+    - source: lowen.bandcamp.com-album-unceasing-lamentations
+      quote: Against Evil Done By The Serpent
+      accessed: 2026-11-21
+      locator: Track sequence
+  performer:
+  - value: Qr7sft5
+    references:
+    - source: lowen.bandcamp.com-album-unceasing-lamentations
+      quote: Lowen
+      accessed: 2026-11-21
+      locator: Artist credit
+  - value: Qnsexjj
+    qualifiers:
+      role:
+      - vocals
+    references:
+    - source: youtu.be-v6i8lud64ki
+      quote: The lyrics for this were taken from Elizabeth Payne's transliteration of tablet YBC11381, a Neo-Babylonian
+        musical text in Akkadian on the tuning of a lyre in relation to the nature of the gods. It is sung in Akkadian
+        by Nina Saeidi of the band Lowen.
+      accessed: 2026-11-21
+      locator: Performer in the original film
+  release date:
+  - value:
+      date: '2021-06-04'
+    references:
+    - source: lowen.bandcamp.com-album-unceasing-lamentations
+      quote: released June 4, 2021
+      accessed: 2026-11-21
+      locator: Release details
+  cover art:
+  - value: https://f4.bcbits.com/img/a0572754247_10.jpg
+    references:
+    - source: lowen.bandcamp.com-album-unceasing-lamentations
+      quote: https://f4.bcbits.com/img/a0572754247_10.jpg
+      accessed: 2026-11-21
+      locator: Release artwork
+  listen link:
+  - value: https://lowen.bandcamp.com/track/against-evil-done-by-the-serpent
+    references:
+    - source: lowen.bandcamp.com-album-unceasing-lamentations
+      quote: Against Evil Done By The Serpent
+      accessed: 2026-11-21
+      locator: Track sequence
+  - value: https://music.apple.com/us/song/against-evil-done-by-the-serpent/1562173052
+    references:
+    - source: music.apple.com-us-album-unceasing-lamentations-ep-1562173050
+      quote: Against Evil Done By the Serpent
+      accessed: 2026-11-21
+      locator: Apple edition or track
+  - value: https://open.spotify.com/track/1lipGXl1O8al4F9kWBS8WS
+    references:
+    - source: open.spotify.com-album-6dx9aj24qasdt6x4lvtq6u
+      quote: Against Evil Done By the Serpent
+      accessed: 2026-11-21
+      locator: Track sequence
+  - value: https://www.youtube.com/watch?v=V6i8LuD64KI
+    references:
+    - source: youtu.be-v6i8lud64ki
+      quote: Lowen - Against Evil Done by the Serpent (Official Music Video)
+      accessed: 2026-11-21
+      locator: Artist channel title
