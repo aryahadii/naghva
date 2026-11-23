@@ -1,0 +1,34 @@
+id: Q66stzr
+type: release
+statements:
+  name:
+  - value:
+      text: Mosht
+      language: en
+    references:
+    - source: play.radiojavan.com-album-justina-mosht--ep
+      quote: Mosht (EP)
+      accessed: 2026-11-21
+      locator: Album heading
+  performer:
+  - value: Q2fdqjp
+    references:
+    - source: play.radiojavan.com-album-justina-mosht--ep
+      quote: Justina
+      accessed: 2026-11-21
+      locator: Billing
+  release date:
+  - value:
+      date: '2014-04-20'
+    references:
+    - source: play.radiojavan.com-album-justina-mosht--ep
+      quote: Apr 20, 2014
+      accessed: 2026-11-21
+      locator: Issue date
+  release type:
+  - value: ep
+    references:
+    - source: play.radiojavan.com-album-justina-mosht--ep
+      quote: Mosht (EP)
+      accessed: 2026-11-21
+      locator: Album heading

@@ -1,0 +1,74 @@
+id: Q4mfscw
+type: release
+statements:
+  name:
+  - value:
+      text: But
+      language: en
+    references:
+    - source: youtu.be-o0cafndje7u
+      quote: Justina - But | OFFICIAL MUSIC VIDEO جاستینا - اَمّا | موزیک ویدیو
+      accessed: 2026-11-21
+      locator: Artist channel video title
+  - value:
+      text: اَمّا
+      language: fa
+    references:
+    - source: youtu.be-o0cafndje7u
+      quote: Justina - But | OFFICIAL MUSIC VIDEO جاستینا - اَمّا | موزیک ویدیو
+      accessed: 2026-11-21
+      locator: Artist channel video title
+  performer:
+  - value: Q2fdqjp
+    references:
+    - source: youtu.be-o0cafndje7u
+      quote: Justina - But | OFFICIAL MUSIC VIDEO جاستینا - اَمّا | موزیک ویدیو
+      accessed: 2026-11-21
+      locator: Artist channel video title
+  listen link:
+  - value: https://youtu.be/O0cafndje7U
+    references:
+    - source: youtu.be-o0cafndje7u
+      quote: Justina - But | OFFICIAL MUSIC VIDEO جاستینا - اَمّا | موزیک ویدیو
+      accessed: 2026-11-21
+      locator: Artist channel video title
+  - value: https://youtu.be/SopJmomVklc
+    references:
+    - source: youtu.be-sopjmomvklc
+      quote: Justina - But | OFFICIAL TRACK جاستینا - اَمّا
+      accessed: 2026-11-21
+      locator: Artist channel video title
+  - value: https://music.apple.com/us/song/but/1691052656
+    references:
+    - source: music.apple.com-us-album-but-single-1691052650
+      quote: But
+      accessed: 2026-11-21
+      locator: Apple recording name and billing
+  - value: https://open.spotify.com/track/68LgVjsw1jLqHwOe8WOKJx
+    references:
+    - source: open.spotify.com-album-0rt9tuqqtilw8qabffmamx
+      quote: But
+      accessed: 2026-11-21
+      locator: Native recording title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/25/6b/1c/256b1c04-25e2-9360-b23b-0939faf5ccdd/cover.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-but-single-1691052650
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/25/6b/1c/256b1c04-25e2-9360-b23b-0939faf5ccdd/cover.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Apple edition artwork
+  release date:
+  - value:
+      date: '2018-02-08'
+    references:
+    - source: music.apple.com-us-album-but-single-1691052650
+      quote: '2018-02-08'
+      accessed: 2026-11-21
+      locator: Digital edition release date
+  - value:
+      date: '2024-11-12'
+    references:
+    - source: open.spotify.com-album-0rt9tuqqtilw8qabffmamx
+      quote: '2024-11-12'
+      accessed: 2026-11-21
+      locator: Edition date

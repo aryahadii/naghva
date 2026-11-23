@@ -1,0 +1,86 @@
+id: Q3t4t69
+type: release
+statements:
+  name:
+  - value:
+      text: Chashm
+      language: en
+    references:
+    - source: youtu.be-t0jtla_3ruk
+      quote: Justina - Chashm (Yes Sir!) | OFFICIAL MUSIC VIDEO جاستینا - چشم
+      accessed: 2026-11-21
+      locator: Artist channel video title
+  - value:
+      text: چشم
+      language: fa
+    references:
+    - source: youtu.be-t0jtla_3ruk
+      quote: Justina - Chashm (Yes Sir!) | OFFICIAL MUSIC VIDEO جاستینا - چشم
+      accessed: 2026-11-21
+      locator: Artist channel video title
+  performer:
+  - value: Q2fdqjp
+    references:
+    - source: youtu.be-t0jtla_3ruk
+      quote: Justina - Chashm (Yes Sir!) | OFFICIAL MUSIC VIDEO جاستینا - چشم
+      accessed: 2026-11-21
+      locator: Artist channel video title
+  listen link:
+  - value: https://youtu.be/t0jTLa_3rUk
+    references:
+    - source: youtu.be-t0jtla_3ruk
+      quote: Justina - Chashm (Yes Sir!) | OFFICIAL MUSIC VIDEO جاستینا - چشم
+      accessed: 2026-11-21
+      locator: Artist channel video title
+  - value: https://youtu.be/lygy9iNhXn4
+    references:
+    - source: youtu.be-lygy9inhxn4
+      quote: Justina - Chashm (Yes Sir!) | OFFICIAL TRACK جاستینا - چشم
+      accessed: 2026-11-21
+      locator: Artist channel video title
+  - value: https://music.apple.com/us/song/chashm/1706806818
+    references:
+    - source: music.apple.com-us-album-chashm-single-1706806574
+      quote: Chashm
+      accessed: 2026-11-21
+      locator: Apple recording name and billing
+  - value: https://open.spotify.com/track/7m9tqRXMeEb3jn2TFcsfeW
+    references:
+    - source: open.spotify.com-album-1iqk733lkqbwsqwr96e1qm
+      quote: Chashm
+      accessed: 2026-11-21
+      locator: Native recording title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/53/6e/12/536e12d5-bef8-fc88-23dc-9eec23bdbfd5/cover.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-chashm-single-1706806574
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/53/6e/12/536e12d5-bef8-fc88-23dc-9eec23bdbfd5/cover.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Apple edition artwork
+  release date:
+  - value:
+      date: '2023-09-10'
+    references:
+    - source: music.apple.com-us-album-chashm-single-1706806574
+      quote: '2023-09-10'
+      accessed: 2026-11-21
+      locator: Digital edition release date
+  contributor:
+  - value: Qevmv7f
+    qualifiers:
+      role:
+      - composer
+    references:
+    - source: www.bbc.com-persian-articles-c3gw3lppvevo
+      quote: ملودی این ترانه را جامین با برداشت آزادی از ترانه «بابا کرم» در چهارگاه موسیقی سنتی، ساخته است
+      accessed: 2026-11-21
+      locator: ساخت ملودی چشم
+  - value: Q2fdqjp
+    qualifiers:
+      role:
+      - lyricist
+    references:
+    - source: www.bbc.com-persian-articles-c3gw3lppvevo
+      quote: شعر «چشم»‌ را سروده
+      accessed: 2026-11-21
+      locator: سراینده
