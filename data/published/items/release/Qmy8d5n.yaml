@@ -1,0 +1,58 @@
+id: Qmy8d5n
+type: release
+statements:
+  name:
+  - value:
+      text: Tatari
+      language: en
+    references:
+    - &id001
+      source: hooshyarkhayam.com-discography
+      quote: 'Tatari
+
+        2007'
+      accessed: '2026-11-21'
+  performer:
+  - value: Qsr6hr2
+    references:
+    - source: music.apple.com-us-album-278060886
+      quote: Listen to Tatari by Hooshyar Khayam
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2007'
+    references:
+    - *id001
+  listen link:
+  - value: https://music.apple.com/us/album/tatari/278060886
+    references:
+    - source: music.apple.com-us-album-278060886
+      quote: Listen to Tatari by Hooshyar Khayam
+      accessed: '2026-11-21'
+    - source: music.apple.com-us-album-278060886
+      quote: '"datePublished":"2007-01-01"'
+      accessed: '2026-11-21'
+    - source: hooshyarkhayam.com-discography
+      quote: Hermes Records 2007, Tehran Records 2018
+      accessed: '2026-11-21'
+  - value: https://music.apple.com/us/album/tatari/1567836375
+    references:
+    - source: music.apple.com-us-album-1567836375
+      quote: Listen to Tatari by Hooshyar Khayam
+      accessed: '2026-11-21'
+    - source: music.apple.com-us-album-1567836375
+      quote: '"datePublished":"2018-06-12"'
+      accessed: '2026-11-21'
+    - source: hooshyarkhayam.com-discography
+      quote: Hermes Records 2007, Tehran Records 2018
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music/22/04/8d/mzi.ypilfrpw.jpg/632x632bb.webp
+    references:
+    - source: music.apple.com-us-album-278060886
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music/22/04/8d/mzi.ypilfrpw.jpg/632x632bb.webp
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en

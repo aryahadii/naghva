@@ -22,3 +22,8 @@ status: processed
 > Farnaz Amini Rad: Backup vocals
 
 > February 11, 2003
+
+> Band members and guest musicians
+> on the "Daar-e Qaali" album:
+
+Roster heading, read 2026-11-21.

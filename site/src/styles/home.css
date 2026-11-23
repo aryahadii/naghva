@@ -1,10 +1,10 @@
-/* The homepage: search in the night sky, the painted garden, latest releases and artists to explore. */
+/* The homepage: search, the star map (star-map.css), latest releases and artists to explore. */
 .home-hero { padding-top: clamp(20px, 4.4vw, 64px) }
 .home-copy { position: relative; z-index: 2; display: grid; justify-items: center; text-align: center }
 .home-title { max-width: 22em; font: 400 clamp(2.4rem, 4.3vw, 3.75rem)/1.04 var(--serif); letter-spacing: -.015em; text-wrap: balance }
 html[lang=fa] .home-title { font: 700 clamp(2.1rem, 3.6vw, 3.2rem)/1.5 'Farhang2', serif; letter-spacing: 0 }
 .home-copy .search { width: min(680px, 100%); margin-top: clamp(22px, 2.6vw, 34px); text-align: start }
-/* The garden shows through the box a little. The blur lifts the box onto its own layer, so the icon is lifted above it. */
+/* The box is a little see-through. The blur lifts it onto its own layer, so the icon is lifted above it. */
 .home-copy .search input { background: rgb(27 31 48 / .72); -webkit-backdrop-filter: blur(14px); backdrop-filter: blur(14px); box-shadow: 0 0 0 1px rgb(247 243 232 / .1), 0 24px 60px -24px rgb(0 0 0 / .9) }
 .home-copy .search-icon { z-index: 1 }
 .home-copy .search input:hover { background: rgb(33 38 58 / .78) }
@@ -12,12 +12,6 @@ html[lang=fa] .home-title { font: 700 clamp(2.1rem, 3.6vw, 3.2rem)/1.5 'Farhang2
 .search-hints { margin-top: 14px; font-size: 14px; color: var(--ivory-3) }
 .search-hints button { padding: 2px 0; color: var(--ivory-2); text-decoration: underline; text-decoration-thickness: 1px; text-decoration-color: rgb(247 243 232 / .3); text-underline-offset: .32em; transition: color .2s, text-decoration-color .2s }
 .search-hints button:hover { color: var(--coral-hi); text-decoration-color: currentColor }
-
-/* The painting is as wide as the window allows while its foot stays near the fold; its cut edges fade into the night. */
-.home-garden { position: relative; z-index: 1; width: min(100%, 1680px, calc((100svh - 360px) * 2.06)); min-width: min(100%, 980px); margin: clamp(18px, 2.4vw, 34px) auto 0; overflow: hidden; -webkit-mask-image: linear-gradient(to bottom, #000 76%, transparent), linear-gradient(90deg, transparent, #000 7%, #000 93%, transparent); -webkit-mask-composite: source-in; mask-image: linear-gradient(to bottom, #000 76%, transparent), linear-gradient(90deg, transparent, #000 7%, #000 93%, transparent); mask-composite: intersect }
-.home-garden img { width: 100% }
-/* On a Persian page the garden is mirrored to follow the reading direction. */
-html[dir=rtl] .home-garden img { transform: scaleX(-1) }
 
 .latest { margin-top: clamp(20px, 3vw, 44px) }
 .home :is(.latest, .explore, .home-about) h2 { font: 500 clamp(2rem, 2.8vw, 2.5rem)/1.15 var(--serif) }
@@ -59,8 +53,6 @@ html[dir=rtl] .onward:hover svg { transform: scaleX(-1) translateX(3px) }
   .home-title { font-size: clamp(2.05rem, 9vw, 2.6rem) }
   html[lang=fa] .home-title { font-size: clamp(1.9rem, 8vw, 2.3rem) }
   .search-hints { font-size: 13px }
-  /* On a phone the garden is cropped to its heart. */
-  .home-garden { width: 100%; min-width: 0; margin-top: 18px }
   .latest { margin-top: 12px }
   .explore-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 28px 16px }
   .onward { padding: 16px }

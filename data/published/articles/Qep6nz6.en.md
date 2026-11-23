@@ -95,7 +95,7 @@ references:
     accessed: '2026-10-19'
 ---
 
-Damahi is an Iranian band founded by bassist and bandleader [Dara Daraee](/en/dara-daraee-cm9/), [Hamzeh Yeganeh](/en/hamzeh-yeganeh-373/), Ebrahim Alavi, singer [Reza Koolaghani](/en/reza-koolaghani-kwr/) and Shayan Fathi.[^founders] The band’s official biography gives 2014 as its founding year, with 1393 in the Persian text; the introduction to Cadence’s interview with Koolaghani instead dates his formation of the group with Daraee to 1392 of the Solar Hijri calendar (2013–14).[^founders][^formation-official][^formation-cadence]
+Damahi is an Iranian band that took shape in 2013–14. Its founders included bassist and bandleader [Dara Daraee](/en/dara-daraee-cm9/), [Hamzeh Yeganeh](/en/hamzeh-yeganeh-373/), Ebrahim Alavi, singer [Reza Koolaghani](/en/reza-koolaghani-kwr/) and Shayan Fathi.[^founders][^formation-official][^formation-cadence] Trips to southern Iran brought the musicians together. On their first album, they combined music from the coast with jazz, rock and reggae.[^southern][^debut]
 
 ## Travels and a first album
 

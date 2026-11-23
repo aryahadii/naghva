@@ -213,37 +213,9 @@ references:
     source: soundcloud.com-jillizwillizofficial-profile
     quote: '2025-11-02T16:48:50Z'
     accessed: '2026-11-09'
-  iran-khube-date:
-    source: music.apple.com-track-iran
-    quote: '"datePublished":"2025-12-02"'
-    accessed: '2026-11-09'
-  taarif-date:
-    source: soundcloud.com-jillizwillizofficial-profile
-    quote: '2026-08-18T12:03:05Z'
-    accessed: '2026-11-09'
-  ou-date:
-    source: music.apple.com-us-album-ou-biayad-single-6825250259
-    quote: '"datePublished":"2026-10-26"'
-    accessed: '2026-11-09'
   jaye-credits:
     source: soundcloud.com-jillizwillizofficial-jaye-to-mimiram-2a8cd2921908
     quote: 'شعر، وکال و گیتار الکتریک: آرین شریعت گیتار بیس: نوید غالب ترومبون: سپهر عباسی ترومپت: ماهان محمدی درامز: صالح خان محمدی تنظیم: جیلیز ویلیز'
-    accessed: '2026-11-09'
-  ou-credits:
-    source: soundcloud.com-jillizwillizofficial-ou-biayad
-    quote: 'شعر، وکال، گیتار الکتریک: آرین شریعت'
-    accessed: '2026-11-09'
-  ou-bass:
-    source: soundcloud.com-jillizwillizofficial-ou-biayad
-    quote: 'گیتار بیس: نوید غالب'
-    accessed: '2026-11-09'
-  ou-trumpet:
-    source: soundcloud.com-jillizwillizofficial-ou-biayad
-    quote: 'ترومپت: ماهان محمدی'
-    accessed: '2026-11-09'
-  ou-drums:
-    source: soundcloud.com-jillizwillizofficial-ou-biayad
-    quote: 'درامز: صالح خان محمدی'
     accessed: '2026-11-09'
   no-singing:
     source: shows.acast.com-cozornershow-episodes-corner-43-mohammad-arian-shariat-0fcd4c30067f
@@ -312,14 +284,6 @@ references:
     source: soundcloud.com-danakol-oddi
     quote: Hip-hop & Rap
     accessed: '2026-11-03'
-  dedication:
-    source: soundcloud.com-arian-shariat-nemidoonan-engar-to-rafti-for-6a5c7e060cc6
-    quote: “In memory of Soroush Khazaei; a dear soul whom war took from us on March 2, 2026.”
-    accessed: '2026-11-03'
-  recent-date:
-    source: music.apple.com-us-album-nemidoonan-engar-to-rafti-single-6815705753-9d2c2639e98a
-    quote: September 25, 2026
-    accessed: '2026-11-03'
   recent:
     source: soundcloud.com-arian-shariat-nemidoonan-engar-to-rafti-for-6a5c7e060cc6
     quote: 'Lyrics & Vocals: Arian Shariat
@@ -332,17 +296,17 @@ references:
 
       Production: Arian Shariat, Mohammad Shariat'
     accessed: '2026-11-03'
-  baghale:
-    source: soundcloud.com-arian-shariat-baghale-man-ft-taha-mazaheri-c245f5dde144
-    quote: "Baghale Man (Rian Feat. Taha Mazaheri)\n\nProducer and Songwriter  : Taha Mazaheri \nVocals : Arian Shariat \n\nBacking Vocals : Golsa"
-    accessed: '2026-11-03'
-  baghale-date:
-    source: music.apple.com-us-album-baghale-man-single-6820913170-bcb65d002ad6
-    quote: October 11, 2026
+  edition-recent-date:
+    source: music.apple.com-us-album-nemidoonan-engar-to-rafti-single-6815705753-9d2c2639e98a
+    quote: September 25, 2026
+    accessed: '2026-11-21'
+  persian-years:
+    source: www.jillizwilliz.com-arian
+    quote: آرین شریعت، متولد ۱۳۷۷ در تهران، خواننده، ترانه‌سرا، تنظیم‌کننده و تهیه‌کننده موسیقی است. او فارغ‌التحصیل رشته مهندسی کامپیوتر از دانشگاه علم و صنعت ایران است و فعالیت حرفه‌ای خود را در موسیقی از سال ۱۳۹۶ با گروه «جتپک» آغاز کرد.
     accessed: '2026-11-03'
 ---
 
-Rian is the solo project of Arian Shariat (born 1998), a singer, songwriter and producer from Tehran. He began as the singer and songwriter of [Jetpack](/en/jetpack-py9/), the band he shared with his older brother Mohammad, and co-founded Jilliz Williz with the trombonist Sepehr Abbasi. On his debut EP, [*Pak’kon*](#pakkon-ceg), released in 2024, musicians from both bands joined him in songs drawing on jazz and hip-hop.[^identity][^birth][^beginnings][^outside][^jilliz][^debut][^pakkon][^pakkon-circle]
+Rian is the solo project of Arian Shariat (born 1998), a singer, songwriter and producer from Tehran. He began as the singer and songwriter of [Jetpack](/en/jetpack-py9/), the band he shared with his older brother Mohammad, and co-founded [Jilliz Williz](/en/jilliz-williz-6an/) with the trombonist Sepehr Abbasi. On his debut EP, [*Pak’kon*](#pakkon-ceg), released in 2024, he brought jazz and hip-hop into songs he made with his brother and Abbasi.[^identity][^birth][^beginnings][^persian-years][^outside][^jilliz][^debut][^pakkon][^pakkon-circle][^credits][^piano][^sound]
 
 ## Early life
 
@@ -352,22 +316,22 @@ He studied computer engineering at Iran University of Science and Technology and
 
 ## Jetpack and first songs
 
-Jetpack, founded in 2017, was the brothers’ first project together. Arian wrote his first English lyric for it in a shared taxi from Sanat Square to Resalat, and the band gave him an outlet for songwriting.[^beginnings][^brothers][^taxi][^outlet] In time he needed a project of his own. When he began developing production ideas that did not fit the band, he pursued them under the name Rian.[^own-project][^outside][^solo] His first solo tracks appeared on SoundCloud in early 2020: [“Be my love (Gorillaz LoFi Remix)”](#be-my-love-gorillaz-lofi-remix-dyb) in January, then [“Free churro”](#free-churro-xyz) and [“Humans are social animals”](#humans-are-social-animals-yr6) in February.[^sc-gorillaz][^sc-churro][^sc-humans]
+Jetpack, founded in 2017, was the brothers’ first project together. Arian wrote his first English lyric for it in a shared taxi from Sanat Square to Resalat, and the band gave him an outlet for songwriting.[^beginnings][^persian-years][^brothers][^taxi][^outlet] In time he needed a project of his own. When he began developing production ideas that did not fit the band, he pursued them under the name Rian.[^own-project][^outside][^solo] His first solo tracks appeared on SoundCloud in early 2020: [“Be my love (Gorillaz LoFi Remix)”](#be-my-love-gorillaz-lofi-remix-dyb) in January, then [“Free churro”](#free-churro-xyz) and [“Humans are social animals”](#humans-are-social-animals-yr6) in February.[^sc-gorillaz][^sc-churro][^sc-humans]
 
 Early in the pandemic, he has said, he went through severe depression and anxiety, and was first diagnosed with bipolar disorder, a diagnosis that later proved wrong. [“Bipolar”](#bipolar-c8k), released in November 2020, took shape in that time; he called it a farewell to the self he had been before the crisis.[^bipolar-story][^bipolar-farewell][^bipolar-date] [“Barf”](#barf-kv4) followed in June 2021, and that August he posted [a cover of The Dø's “Miracles”](#miracles-the-d-cover-ft-farshid-khalili-far-23z) with Farshid Khalili Far.[^barf][^miracles][^miracles-title] Some of his experiments were made at home: he recorded [“On A Fair Trade”](#on-a-fair-trade-vbd), posted in January 2023, with GarageBand on an iPhone.[^experiment][^fair-trade-date]
 
 ## Pak’kon
 
-In April 2023 he released [“Serat”](#serat-ft-sharyar-cqz) with the singer Sharyar, and in June [“Almost”](#almost-ft-mahan-mohammadi-nnv) with the trumpeter Mahan Mohammadi.[^serat][^serat-title][^almost] In July Rian released [“Noghteye Siah”](#noghteye-siah-62w) as a single. It became part of *Pak’kon*, the four-track EP released by Made in Iran in March 2024. He sang and produced it with musicians from both of his bands, including Abbasi on trombone and Mahan Mohammadi on trumpet; he asked Mohammad to play the piano.[^first-single][^pakkon][^pakkon-tracks][^pakkon-circle][^credits][^piano] Reviewing the EP for beehype, Ali Eshqi heard a move from Jetpack’s electropop and funk towards lo-fi jazz-hop, with prominent brass and microtonal trumpet solos.[^sound]
+In April 2023 he released [“Serat”](#serat-ft-sharyar-cqz) with the singer Sharyar, and in June [“Almost”](#almost-ft-mahan-mohammadi-nnv) with the trumpeter Mahan Mohammadi.[^serat][^serat-title][^almost] In July Rian released [“Noghteye Siah”](#noghteye-siah-62w) as a single. It became part of *Pak’kon*, the four-track EP released by Made in Iran in March 2024. He sang and produced it with Abbasi on trombone and Mahan Mohammadi on trumpet; he asked Mohammad to play the piano.[^first-single][^pakkon][^pakkon-tracks][^pakkon-circle][^credits][^piano] Reviewing the EP for beehype, Ali Eshqi heard a move from Jetpack’s electropop and funk towards lo-fi jazz-hop, with prominent brass and microtonal trumpet solos.[^sound]
 
 “Noghteye Siah” and the title song approach separation from different directions. The organizers of his filmed set for Dar Ma Negah, Dar Ma Shenu describe “Noghteye Siah” as a song about the fear of losing someone: its speaker would shrink to a black dot to stay with the person they love. In “Pak’kon”, that attachment gives way to letting go and learning to love oneself.[^black-spot-theme][^eraser-theme] He played both, with “Bipolar”, at Darmangah Studio in March 2025.[^darmanegah-songs][^darmanegah-date]
 
 ## Jilliz Williz
 
-In 2025 Arian founded Jilliz Williz with Abbasi. He sings and plays guitar in the band; its members arrange their songs together, and much of their music grows out of improvisation.[^jilliz-2025][^jilliz][^improv] Its singles began with [“Jaye To Mimiram”](#jaye-to-mimiram-nwr) in November 2025 and [“Iran Khube”](#iran-khube-y2t) that December, followed by [“Taarif Kon”](#taarif-kon-9ym) in August 2026 and [“Ou Biayad”](#ou-biayad-97x) that October. Arian wrote the words and sings, with Navid Ghaleb on bass, Abbasi on trombone, Mohammadi on trumpet and Saleh Khan Mohammadi on drums.[^jaye-date][^iran-khube-date][^taarif-date][^ou-date][^jaye-credits][^ou-credits][^ou-bass][^ou-trumpet][^ou-drums]
+In 2025 Arian founded Jilliz Williz with Abbasi. He sings and plays guitar in the band; its members arrange their songs together, and much of their music grows out of improvisation.[^jilliz-2025][^jilliz][^improv] On their 2025 single [“Jaye To Mimiram”](#jaye-to-mimiram-nwr), Shariat sang his own lyrics and played electric guitar against the brass and rhythm section.[^jaye-credits][^jaye-date]
 
 ## Later work
 
 Around 2023 a neurological condition left his throat in constant pain, his voice cracked when he sang, and for a time he could not sing. It made him rethink an identity built entirely on singing, and he said it helped him grow as a musician and producer.[^no-singing][^voice-change] With [Monicki](/en/monicki-jfb/) he sang [“Rakhte Tane Delbar”](#rakhte-tane-delbar-myg) in October 2024 and [“Maashoogh e Jan”](#maashoogh-e-jan-j55) in February 2025.[^rakhte][^rakhte-title][^maashoogh][^maashoogh-title] His production work includes [“Zireh Aab”](#zireh-aab-x36) for BabyDrawgon in February 2025 and [“Chizi Bede”](#chizi-bede-bkg) for Sara Heidari that August;[^zireh][^zireh-producer][^chizi][^chizi-writer][^chizi-producer] [“Dokhtar Qouchani”](#dokhtar-qouchani-feat-behzad-danesh-kaf), which he wrote with Bahar Ferdowsi and produced for her voice; and hip-hop recordings with Danakol, among them [“Oddi”](#oddi-mxk) and [“Eftezoza”](#eftezoza-29j).[^bahar][^danakol-oddi][^danakol-eftezoza][^danakol-genre]
 
-In 2026 he dedicated [“Nemidoonan Engar To Rafti”](#nemidoonan-engar-to-rafti-5km) to the memory of Soroush Khazaei. He wrote its lyrics, sang it and produced it with Mohammad; Abbasi and Mohammadi returned on brass, with Taha Mazaheri on guitar.[^dedication][^recent-date][^recent] On [“Baghale Man”](#baghale-man-npg), released that October, he sang a song by Mazaheri, with backing vocals by [Golsa](/en/golsa-h74/).[^baghale][^baghale-date]
+In 2026 he dedicated [“Nemidoonan Engar To Rafti”](#nemidoonan-engar-to-rafti-5km) to the memory of Soroush Khazaei. He wrote and sang the song and produced it with his brother Mohammad.[^recent][^edition-recent-date]

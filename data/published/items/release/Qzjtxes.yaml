@@ -1,0 +1,41 @@
+id: Qzjtxes
+type: release
+statements:
+  name:
+  - value:
+      text: 'Divination: Intention فال: نیّت'
+      language: en
+    references:
+    - &id001
+      source: tarxun.bandcamp.com-album-divination-intention
+      quote: 'Divination: Intention فال: نیّت'
+      accessed: '2026-11-21'
+  performer:
+  - value: Q55bvv7
+    references:
+    - &id002
+      source: tarxun.bandcamp.com-album-divination-intention
+      quote: tarxun
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2023-12-21'
+    references:
+    - source: tarxun.bandcamp.com-album-divination-intention
+      quote: 21 Dec 2023 00:00:00 GMT
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://tarxun.bandcamp.com/album/divination-intention
+    references:
+    - *id001
+    - *id002
+  cover art:
+  - value: https://f4.bcbits.com/img/a1982765472_10.jpg
+    references:
+    - source: tarxun.bandcamp.com-album-divination-intention
+      quote: https://f4.bcbits.com/img/a1982765472_10.jpg
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: tarxun, Bandcamp
+        language: en

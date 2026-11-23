@@ -1,0 +1,41 @@
+id: Qqaqnzs
+type: release
+statements:
+  name:
+  - value:
+      text: you won't die
+      language: en
+    references:
+    - &id001
+      source: tarxun.bandcamp.com-album-you-wont-die
+      quote: you won't die
+      accessed: '2026-11-21'
+  performer:
+  - value: Q55bvv7
+    references:
+    - &id002
+      source: tarxun.bandcamp.com-album-you-wont-die
+      quote: tarxun
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2023-09-13'
+    references:
+    - source: tarxun.bandcamp.com-album-you-wont-die
+      quote: 13 Sep 2023 00:00:00 GMT
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://tarxun.bandcamp.com/album/you-wont-die
+    references:
+    - *id001
+    - *id002
+  cover art:
+  - value: https://f4.bcbits.com/img/a3360369745_10.jpg
+    references:
+    - source: tarxun.bandcamp.com-album-you-wont-die
+      quote: https://f4.bcbits.com/img/a3360369745_10.jpg
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: tarxun, Bandcamp
+        language: en

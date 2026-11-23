@@ -35,3 +35,13 @@ Source page or its embedded metadata, read 2026-10-19.
 > Their lyrics are in Farsi, while their music is a mixture of Rock, Grunge and Electronics with a taste of Persian folklore.
 
 > Scattered around different parts of the world, B-band is a long-distance collaboration between a group of friends who once lived in Iran and migrated to other countries over the past few years.
+
+> Kasra Ebrahimi: Drums, Recordings, Mixing
+> Hamed Hamidzadeh: Bass
+> Behzad Khiavchi: Vocals,Guitars, Synths, Lyrics
+
+Musicians listed in the band biography. Read 2026-11-21.
+
+> they have been in close touch with their loyal fan base through social media, and have released their songs online using digital distribution platforms
+
+Band biography on working at a distance. Read 2026-11-21.

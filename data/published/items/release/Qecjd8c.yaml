@@ -28,14 +28,14 @@ statements:
   listen link:
   - value: https://music.apple.com/us/song/groanings/295269501
     references:
-    - source: music.apple.com-us-album-yell-295269459
+    - source: music.apple.com-us-album-yell-295269459-ce3a38e66373
       quote: Groanings
       accessed: 2026-11-21
       locator: Digital recording
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music/bc/ca/0b/mzi.xytwtrcd.jpg/1200x630bb.jpg
     references:
-    - source: music.apple.com-us-album-yell-295269459
+    - source: music.apple.com-us-album-yell-295269459-ce3a38e66373
       quote: https://is1-ssl.mzstatic.com/image/thumb/Music/bc/ca/0b/mzi.xytwtrcd.jpg/1200x630bb.jpg
       accessed: 2026-11-21
       locator: Original sleeve
@@ -43,7 +43,7 @@ statements:
   - value:
       date: '2008-10-27'
     references:
-    - source: music.apple.com-us-album-yell-295269459
+    - source: music.apple.com-us-album-yell-295269459-ce3a38e66373
       quote: '2008-10-27'
       accessed: 2026-11-21
       locator: Digital issue

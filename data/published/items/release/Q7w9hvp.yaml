@@ -1,0 +1,40 @@
+id: Q7w9hvp
+type: release
+statements:
+  name:
+  - value:
+      text: M
+      language: en
+    references:
+    - &id001
+      source: music.apple.com-us-album-6813733220
+      quote: Listen to M by Arash Rahbary & TarantisT
+      accessed: '2026-11-21'
+  performer:
+  - value: Q3xvvkd
+    references:
+    - *id001
+  - value: Q2waa4k
+    references:
+    - *id001
+  release date:
+  - value:
+      date: '2026-09-17'
+    references:
+    - source: music.apple.com-us-album-6813733220
+      quote: '"datePublished":"2026-09-17"'
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://music.apple.com/us/album/m/6813733220
+    references:
+    - *id001
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/0d/5f/690d5f12-bdcf-d498-68a5-5906b2347dce/artwork.jpg/632x632bb.webp
+    references:
+    - source: music.apple.com-us-album-6813733220
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/0d/5f/690d5f12-bdcf-d498-68a5-5906b2347dce/artwork.jpg/632x632bb.webp
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Apple Music
+        language: en

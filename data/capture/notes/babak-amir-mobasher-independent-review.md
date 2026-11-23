@@ -1,3 +1,0 @@
-# Babak Amir Mobasher independent review
-
-**9.2/10 on frozen build 139.** His own CV identifies his guitar and cello work, the 2008 concert with Nader Mashayekhi and the Tehran Chamber Orchestra, and three separately billed Manushan CDs. The articles now give an early concert and the relocation context. Birth year and original issue-date discrepancies remain documented. The Aïka and Manushan lineups have separate evidence. Both languages rendered 39 panels and 81 decoded images, with working internal fragments and desktop/mobile widths. Sources, bilingual writing, catalogue, imagery and reader questions score 1.9, 1.8, 2.7, 1.0, 1.8. Article and catalogue ready.

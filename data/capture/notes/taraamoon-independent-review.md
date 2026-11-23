@@ -1,3 +1,0 @@
-# Taraamoon independent review
-
-9.2/10. Sources 1.9, prose 1.9, catalogue 2.8, images 0.9, gaps 1.7. Emruz’s original festival biography independently dates the project; the group's interview describes how each vocalist’s delivery shaped the music on Bādbān. Checked the Low-Zi and Divar artist billing and the original Persian Telegram archive against the 19 recordings on the duo's SoundCloud. Radio rebroadcasts of the Low-Zi recordings and an interview are distinct from new group performances. Both rendered pages have 21 panels, 49 decoded images, unbroken article fragments and a width matching their viewport.

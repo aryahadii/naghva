@@ -24,14 +24,34 @@ references:
       Mix and Mastering : Arash Pakzad
       Cover: Jamal Dehghan poor
     accessed: '2026-10-19'
+  students:
+    source: ufdcimages.uflib.ufl.edu-uf-e0-04-75-68-00001-goli_s.pdf-f1a892b9e56d
+    quote: |-
+      The Ways’ members met during their undergraduate years at university.
+    accessed: '2026-11-21'
+  empire:
+    source: ufdcimages.uflib.ufl.edu-uf-e0-04-75-68-00001-goli_s.pdf-f1a892b9e56d
+    quote: |-
+      After Ershād rejected their request for an official permit, The Ways’ members began producing underground music under the name Empire, which was later changed to The Ways.
+    accessed: '2026-11-21'
+  split:
+    source: ufdcimages.uflib.ufl.edu-uf-e0-04-75-68-00001-goli_s.pdf-f1a892b9e56d
+    quote: |-
+      Kaveh Afagh left the band in 2013 to pursue his individual musical career and was replaced by Pedram Azad.
+    accessed: '2026-11-21'
+  remote:
+    source: ufdcimages.uflib.ufl.edu-uf-e0-04-75-68-00001-goli_s.pdf-f1a892b9e56d
+    quote: |-
+      Alireza Pourreza and Hamed Ghannad moved to North America and continue their musical cooperation with the band remotely.
+    accessed: '2026-11-21'
 ---
 
-The Ways is a rock band from Mashhad. Shabnam Goli's 2014 study identifies an original quartet of Alireza Pourreza on keyboards, Kaveh Afagh on guitar and vocals, Hamed Ghannad on bass and vocals, and drummer and lyricist Iman Mohammadi.[^study][^members]
+The Ways is a rock band formed in Mashhad in 2005. Its original four members met as university students. Denied an official permit, they began making music underground as Empire and later called themselves The Ways. In 2010 they shared their first album directly with listeners online.[^study][^students][^empire][^stress]
 
-## Stress
+## Recording in Mashhad
 
-Goli describes the first album, *[Stress](#stress-f3j)*, as an eleven-song collection released online through the band's own website and Facebook page in 2010.[^stress]
+Keyboard player Alireza Pourreza founded the band. [Kaveh Afagh](/en/kaveh-afagh-syb/) sang and played lead guitar, Hamed Ghannad sang and played bass, and drummer Iman Mohammadi wrote most of the lyrics. The group released the eleven songs of [*Stress*](#stress-f3j) on its website and Facebook page.[^members][^stress]
 
-## Parseh
+## Working from different countries
 
-The band's own upload of “[Parseh](#parseh-krm)” credits Ghannad with music and words, Pedram Azad with arrangement, Servin Radfar with guitar and Arash Pakzad with mixing and mastering.[^parseh]
+In 2013 Afagh left to work under his own name and Pedram Azad took his place. Pourreza and Ghannad continued making music with the group after moving to North America.[^split][^remote] Ghannad wrote the music and words of [“Parseh”](#parseh-krm), which Azad arranged.[^parseh]

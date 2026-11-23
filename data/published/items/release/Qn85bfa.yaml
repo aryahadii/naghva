@@ -1,0 +1,41 @@
+id: Qn85bfa
+type: release
+statements:
+  name:
+  - value:
+      text: 2.2.22
+      language: en
+    references:
+    - &id001
+      source: tarxun.bandcamp.com-album-2222
+      quote: 2.2.22
+      accessed: '2026-11-21'
+  performer:
+  - value: Q55bvv7
+    references:
+    - &id002
+      source: tarxun.bandcamp.com-album-2222
+      quote: tarxun
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2022-02-02'
+    references:
+    - source: tarxun.bandcamp.com-album-2222
+      quote: 02 Feb 2022 00:00:00 GMT
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://tarxun.bandcamp.com/album/2222
+    references:
+    - *id001
+    - *id002
+  cover art:
+  - value: https://f4.bcbits.com/img/a1409871046_10.jpg
+    references:
+    - source: tarxun.bandcamp.com-album-2222
+      quote: https://f4.bcbits.com/img/a1409871046_10.jpg
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: tarxun, Bandcamp
+        language: en

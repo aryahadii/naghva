@@ -1,10 +1,5 @@
 ---
 references:
-  identity:
-    source: t.me-jalboat
-    quote: |-
-      Jalboat جالبوت
-    accessed: '2026-10-19'
   origin:
     source: t.me-jalboat
     quote: |-
@@ -40,24 +35,40 @@ references:
     quote: |-
       December 20, 2015
     accessed: '2026-10-19'
-  album2:
-    source: music.apple.com-us-album-deltang-single-6813027847
+  port:
+    source: www.radiozamaneh.com-799880
     quote: |-
-      Deltang - Single - Album by Jalboat - Apple Music
-    accessed: '2026-10-19'
-  date2:
-    source: music.apple.com-us-album-deltang-single-6813027847
+      ریشه‌های این گروه در بندرعباس و جنوب ایران
+    accessed: '2026-11-21'
+  name:
+    source: www.radiozamaneh.com-799880
     quote: |-
-      September 19, 2026
-    accessed: '2026-10-19'
+      «جالبوت» یعنی کشتی بادبانی
+    accessed: '2026-11-21'
+  rhythm:
+    source: www.radiozamaneh.com-799880
+    quote: |-
+      داروگ با ریتمی آشنا از موسیقی بندری شروع می‌شود. ترکیب پرکاشن و درامز.
+    accessed: '2026-11-21'
+  poem:
+    source: www.youtube.com-watch-v-eahmiarfvwc
+    quote: |-
+      داروگ
+      موسیقی : جالبوت
+      شعر : نیما یوشیج
+    accessed: '2026-11-21'
+  track:
+    source: music.apple.com-us-song-darvag-1499612479
+    quote: |-
+      Darvag
+      Jalboat Jalboat February 3, 2020
+    accessed: '2026-11-21'
 ---
 
-Jalboat (جالبوت) is a fusion music band based in Hormozgan in southern Iran.[^identity][^origin]
+Jalboat is a fusion band from Bandar Abbas, a port in Iran’s southern province of Hormozgan. The name means “sailing ship”. The band was recording by 2015 and draws on the rhythms of the southern coast.[^origin][^port][^name][^album1][^date1][^rhythm]
 
-## Musicians
+## The first album
 
-The band’s announcement of its first official album names محمدعلی ذاکری قشمی on vocals, حامد حمیدزاده on bass guitar, محسن خاش on percussion, آیدین رادکیا on drums, آرش رئیسی on classical guitar, آرشام غفوری and هومان عمادی on electric guitar, and آرین ملکیان on keyboards and piano.[^debut][^roster]
+The band released [“Gal A No”](#gal-a-no-68d) in 2015. For its first official album, [*Jalboat*](#jalboat-k49), the group combined a singer, classical and electric guitars, keyboards, bass, drums and percussion. The album came out in 2020.[^album1][^date1][^debut][^roster][^album0][^date0]
 
-## Recordings
-
-The Apple Music catalogue dates the self-titled Jalboat to 3 February 2020. It also lists [Gal A No](#gal-a-no-68d), dated 20 December 2015, and [Deltang](#deltang-bxc), dated 19 September 2026.[^album0][^date0][^album1][^date1][^album2][^date2]
+On [“Darvag”](#darvag-ras), the musicians set a poem by Nima Yushij to music. The song begins with drums and percussion playing a rhythm from the port cities of southern Iran.[^poem][^rhythm][^track]

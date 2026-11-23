@@ -61,21 +61,6 @@ references:
     quote: The group performed in Dubai without their drummer, Yahya Alkhansa; a conscript in the Iranian army who couldnot
       leave the country because of the conditions of military service
     accessed: '2026-10-19'
-  khalpunkvocals1:
-    source: web.archive.org-web-20090827121100-http-www.127band.com-discography-14e18dac39be
-    quote: |-
-      Sardar Sarmast: Piano, Keyboards, Accordion, back vocals on Man Kiam and Khosro-e Khooban
-    accessed: '2026-10-23'
-  khalpunkvocals2:
-    source: web.archive.org-web-20090827121100-http-www.127band.com-discography-14e18dac39be
-    quote: |-
-      Shervin Shahamipour: Setad ob Doctor, back vocals on Mellat-e Sarfaraz and Charand Goft
-    accessed: '2026-10-23'
-  khalpunkchoir:
-    source: web.archive.org-web-20090827121100-http-www.127band.com-discography-14e18dac39be
-    quote: |-
-      Negar Arkani and Mina Khojasteh: Choir on Hamash Dood Bood and Mellat-e Sarfaraz
-    accessed: '2026-10-23'
   reunion:
     source: www.songlines.co.uk-content-features-essential-10-iranian-albums-9e71f2e76413
     quote: In January, they reunited for a performance at Rich Mix in Shoreditch, their first show together in 17 years.
@@ -88,9 +73,7 @@ references:
 
 Salmak Khaledi, a 127 trombonist, said the group had no fixed instrument plan: its long friendships shaped the instruments in the band.[^salmaklineup][^salmakinstrument] Khaledi also described songwriting as a group effort.[^co-composition]
 
-Yahya Alkhansa remembered Sohrab asking him to play a tombak rhythm on the drum kit. Sohrab sang while [Sardar Sarmast](/en/sardar-sarmast-gjg/) added piano, and the song came together in that moment.[^yahyaidentity][^rhythm][^songcreation][^moment] Yahya said they had not decided in advance to start working in Persian; he said the lyrics’ content did not change with the language.[^languageshift][^lyriccontent]
-
-The official album caption names Sardar Sarmast for backing vocals on “Man Kiam” and “Khosro-e Khooban”[^khalpunkvocals1], Shervin Shahamipour for backing vocals on “Mellat-e Sarfaraz” and “Charand Goft”[^khalpunkvocals2], and Negar Arkani and Mina Khojasteh for choir on “Hamash Dood Bood” and “Mellat-e Sarfaraz”[^khalpunkchoir].
+Drummer Yahya Alkhansa remembered singer Sohrab Mohebbi asking him to play a tombak rhythm on the drum kit. Sohrab sang while [Sardar Sarmast](/en/sardar-sarmast-gjg/) added piano, and the song came together in that moment.[^yahyaidentity][^salmaklineup][^rhythm][^songcreation][^moment] Yahya said they had not decided in advance to start working in Persian; he said the lyrics’ content did not change with the language.[^languageshift][^lyriccontent]
 
 ## From Dubai to the reunion
 

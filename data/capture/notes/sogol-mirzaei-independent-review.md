@@ -1,3 +1,0 @@
-# Sogol Mirzaei independent review
-
-**9.3/10 on frozen build 139.** The artist gives four core ensemble LPs in her own discography. The 2021 Orgue-paysage concert, issued in February 2022, credits her on tar and setar. The piece-specific credits support Lucia and Improvisation in F sharp, while Opening identifies a different player. The two ARTE instrument credits, radio performances, festival tapes and early instruments are distinguishable in the bilingual publication. Both languages rendered 62 panels and 121 decoded images, with working internal fragments and desktop/mobile widths. Sources, bilingual writing, catalogue, imagery and reader questions score 1.9, 1.9, 2.7, 1.0, 1.8. Article and catalogue ready.

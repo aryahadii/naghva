@@ -1,22 +1,22 @@
 ---
 references:
   birth:
-    source: www.zeitgenoessische-oper.de-produktionen-female-voice-iran
+    source: zeitgenoessische-oper.de-female-voice-iran-2017
     quote: Samin Ghorbani was born in 1985 in Tehran.
     locator: Artist, presenter, film or recording credits
     accessed: '2026-11-21'
   father:
-    source: www.zeitgenoessische-oper.de-produktionen-female-voice-iran
+    source: zeitgenoessische-oper.de-female-voice-iran-2017
     quote: learning Iranian classical music in the age of 8 by her father
     locator: Artist, presenter, film or recording credits
     accessed: '2026-11-21'
   roots:
-    source: www.zeitgenoessische-oper.de-produktionen-female-voice-iran
+    source: zeitgenoessische-oper.de-female-voice-iran-2017
     quote: Because of her family roots, she had the chance to learn the Azeri dialect of the city Ardebil
     locator: Artist, presenter, film or recording credits
     accessed: '2026-11-21'
   both:
-    source: www.zeitgenoessische-oper.de-produktionen-female-voice-iran
+    source: zeitgenoessische-oper.de-female-voice-iran-2017
     quote: she usually performs both in Farsi and Azeri languages
     locator: Artist, presenter, film or recording credits
     accessed: '2026-11-21'

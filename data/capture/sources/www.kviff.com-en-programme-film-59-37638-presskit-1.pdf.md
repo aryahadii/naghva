@@ -24,3 +24,7 @@ Artist interview, biography or performance credits, read 2026-11-21.
 > Recorded, Mixed and Mastered at MÖHIT STUDIO
 
 Artist interview, biography or performance credits, read 2026-11-21.
+
+> He is a member of the Iranian Progressive Jazz group "Quartet Diminished" since 2016.
+
+Soheil Peyghambari, Music, read 2026-11-21.

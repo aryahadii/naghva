@@ -244,7 +244,11 @@ references:
 
 Mahan Mirarab is an Iranian-Austrian guitarist, composer, arranger and producer based in Vienna and Berlin. Born and raised in Tehran, he began playing music at 15.[^identity][^tehran]
 
-In Tehran, Mirarab learned with a small jazz community that pooled money to make its own conservatory and invited Armenian teacher Vahagn Hayrapetian to teach improvisation.[^community][^teacher] Cassette tapes were his teachers: he listened closely, slowed recordings and transcribed jazz solos.[^cassette][^transcription]
+## Learning jazz in Tehran
+
+In Tehran, Mirarab learned with a small jazz community that pooled money to make its own conservatory and invited Armenian teacher Vahagn Hayrapetian to teach improvisation.[^community][^teacher] He slowed down cassette recordings and transcribed the jazz solos he heard.[^cassette][^transcription]
+
+## Recording in Vienna
 
 He moved to Europe in 2009. In Vienna, he sold his amplifier to fund a recording, then met bassist Robert Jukic and drummer Wolfi Rainer, who supported him and recorded his first album there. He later met [Golnar Shahyar](/en/golnar-shahyar-5j4/), and they began collaborating.[^europe][^amplifier][^vienna-contacts][^vienna-support][^first-album][^collaboration]
 

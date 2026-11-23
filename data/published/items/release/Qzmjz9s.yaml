@@ -1,0 +1,41 @@
+id: Qzmjz9s
+type: release
+statements:
+  name:
+  - value:
+      text: Step One
+      language: en
+    references:
+    - &id001
+      source: sepehr.bandcamp.com-album-step-one
+      quote: Step One
+      accessed: '2026-11-21'
+  performer:
+  - value: Q99by47
+    references:
+    - &id002
+      source: sepehr.bandcamp.com-album-step-one
+      quote: Sepehr
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2017-05-19'
+    references:
+    - source: sepehr.bandcamp.com-album-step-one
+      quote: 19 May 2017 00:00:00 GMT
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://sepehr.bandcamp.com/album/step-one
+    references:
+    - *id001
+    - *id002
+  cover art:
+  - value: https://f4.bcbits.com/img/a3350810292_10.jpg
+    references:
+    - source: sepehr.bandcamp.com-album-step-one
+      quote: https://f4.bcbits.com/img/a3350810292_10.jpg
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Sepehr, Bandcamp
+        language: en

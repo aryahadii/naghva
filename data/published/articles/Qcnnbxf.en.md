@@ -15,11 +15,6 @@ references:
     quote: |-
       Originally released on Somehow Recordings in January of 2012, this second edition of "Land" has been remastered and is co-released with "Land Remixes".
     accessed: '2026-10-19'
-  date:
-    source: inneroceanrecords.bandcamp.com-album-porya-hatami-land-47c8602b066c
-    quote: |-
-      released July 30, 2013
-    accessed: '2026-10-19'
   credit:
     source: inneroceanrecords.bandcamp.com-album-porya-hatami-land-47c8602b066c
     quote: |-
@@ -30,12 +25,42 @@ references:
     quote: |-
       In 2014, Hatami started working with Berlin-based Uwe Zahn (Arovane), and so far, they released 6 albums together.
     accessed: '2026-10-19'
+  patch:
+    source: lineimprint.bandcamp.com-album-monads
+    quote: |-
+      The pieces on monads are single layered synth patches manipulated and recorded in real time.
+    accessed: '2026-11-21'
+  sanandaj:
+    source: lineimprint.bandcamp.com-album-monads
+    quote: |-
+      all sounds created by Porya Hatami 2014-2015 in Sanandaj.
+    accessed: '2026-11-21'
+  monads-date:
+    source: lineimprint.bandcamp.com-album-monads
+    quote: |-
+      07 Apr 2017 00:00:00 GMT
+    accessed: '2026-11-21'
+  both:
+    source: timereleasedsound.bandcamp.com-album-kaziwa
+    quote: |-
+      All tracks written and produced by Porya Hatami and Uwe Zahn - Iran / Germany 2016
+    accessed: '2026-11-21'
+  kaziwa:
+    source: timereleasedsound.bandcamp.com-album-kaziwa
+    quote: |-
+      Kaziwa
+    accessed: '2026-11-21'
+  kaziwa-date:
+    source: timereleasedsound.bandcamp.com-album-kaziwa
+    quote: |-
+      31 Jul 2016 00:00:00 GMT
+    accessed: '2026-11-21'
 ---
 
-Porya Hatami, born in 1981, is an experimental sound artist based in Sanandaj, Iran. His compositions balance electronics and environmental sound, combining processed acoustic and electronic sources with field recordings.[^bio][^practice]
+Porya Hatami, born in 1981, is an experimental sound artist based in Sanandaj, Iran. For some pieces he combines recordings of his surroundings with sounds made or altered electronically. For others he uses a synthesizer alone, shaping its sound as he records.[^bio][^practice][^patch][^sanandaj]
 
-## Land and collaborations
+## From Land to Monads
 
-According to the notes for *Land*, Somehow Recordings first released it in January 2012. Inner Ocean’s remastered second edition, presented alongside *Land Remixes*, has a listed release date of July 30, 2013. Hatami produced the music.[^land][^date][^credit]
+Hatami produced his album [*Land*](#land-bzx), which Somehow Recordings released in January 2012.[^land][^credit] Two years later he began working with the Berlin-based musician Uwe Zahn, who records as Arovane. They wrote and produced all the pieces on their album [*Kaziwa*](#kaziwa-gtk), released in July 2016.[^collab][^both][^kaziwa][^kaziwa-date]
 
-His biography dates the beginning of his work with Uwe Zahn, known as Arovane, to 2014 and reports six joint albums at the time that account was written.[^collab]
+For [*Monads*](#monads-jhr), Hatami took a different approach. Working in Sanandaj in 2014 and 2015, he used one synthesizer patch for each piece, adjusting its sound in real time as he recorded it. The album came out in April 2017.[^patch][^sanandaj][^monads-date]

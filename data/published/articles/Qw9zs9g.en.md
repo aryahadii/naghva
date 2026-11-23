@@ -5,11 +5,6 @@ references:
     quote: Arash Mollakarimi
     accessed: '2026-11-21'
     locator: Artist interview, biography or performance credits
-  persian:
-    source: fajrmusic.ir-------------
-    quote: آرش ملاکریمی
-    accessed: '2026-11-21'
-    locator: Artist interview, biography or performance credits
   birth:
     source: daily.redbullmusicacademy.com-2018-03-rbma-2018-participants
     quote: Born and raised in Tehran

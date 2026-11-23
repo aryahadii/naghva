@@ -1,7 +1,0 @@
-# Independent review of Araz Salek
-
-The first render contains 27 recording panels and 57 successfully decoded images per language, without horizontal overflow on English desktop or Persian mobile. The article’s recording link on Chahārmezrāb is broken in each language. The original CD and its subsequent concert recording are distinguished. Liner credits support the decision to identify Salek’s role in Ghazal as compositional. The museum and Labyrinth jointly presented two recorded concert parts with Âriâ Mohâfez, including Salek’s featured tar solo. The live Madrid duet with Christos Barbas and the November 2024 concert with Maliheh Moradi also need reconciliation. Initial **8.4/10** (sources 1.8, article 1.7, catalogue 2.3, images 0.9, reader experience 1.7). Catalogue and recording anchor pending.
-
-[Mohâfez, first half](https://www.youtube.com/watch?v=GAvMacnMlw8) · [Second half](https://www.youtube.com/watch?v=0se9uGwrrMY) · [Madrid duo](https://www.youtube.com/watch?v=mDbVXM3wPKk) · [Moradi concert](https://www.youtube.com/watch?v=pP3xf0P26kY)
-
-The revised pages have 56 panels, including the Madrid duo and presenter-published concerts with Moradi and Mohâfez. Both texts link to the correct Chahārmezrāb panel and contextualize the Afshari solo. The original 2008 CD is only documented as a physical release. All fragments resolve; all 115 images decode in each language. Final score **9.2/10** (sources 1.9, article 1.8, catalogue 2.7, images 0.9, reader experience 1.9). Article and catalogue ready.

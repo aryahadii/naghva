@@ -61,21 +61,6 @@ references:
     quote: The group performed in Dubai without their drummer, Yahya Alkhansa; a conscript in the Iranian army who couldnot
       leave the country because of the conditions of military service
     accessed: '2026-10-19'
-  khalpunkvocals1:
-    source: web.archive.org-web-20090827121100-http-www.127band.com-discography-14e18dac39be
-    quote: |-
-      Sardar Sarmast: Piano, Keyboards, Accordion, back vocals on Man Kiam and Khosro-e Khooban
-    accessed: '2026-10-23'
-  khalpunkvocals2:
-    source: web.archive.org-web-20090827121100-http-www.127band.com-discography-14e18dac39be
-    quote: |-
-      Shervin Shahamipour: Setad ob Doctor, back vocals on Mellat-e Sarfaraz and Charand Goft
-    accessed: '2026-10-23'
-  khalpunkchoir:
-    source: web.archive.org-web-20090827121100-http-www.127band.com-discography-14e18dac39be
-    quote: |-
-      Negar Arkani and Mina Khojasteh: Choir on Hamash Dood Bood and Mellat-e Sarfaraz
-    accessed: '2026-10-23'
   reunion:
     source: www.songlines.co.uk-content-features-essential-10-iranian-albums-9e71f2e76413
     quote: In January, they reunited for a performance at Rich Mix in Shoreditch, their first show together in 17 years.
@@ -88,9 +73,7 @@ references:
 
 سلمک خالدی، ترومبونیست ۱۲۷، می‌گوید برای سازبندی تصمیمی از پیش نگرفته بودند؛ دوستی‌های قدیمی سازهایی را که در گروه کنار هم شنیده می‌شدند شکل داد.[^salmaklineup][^salmakinstrument] او آهنگسازی را کاری گروهی توصیف می‌کند.[^co-composition]
 
-یحیی الخنسا از یک نمونه یاد می‌کند: سهراب از او خواست ریتم تنبک را با درام بزند. سهراب خواند و [سردار سرمست](/fa/sardar-sarmast-gjg/) با پیانو به آن اضافه شد؛ آهنگ همان لحظه شکل گرفت.[^yahyaidentity][^rhythm][^songcreation][^moment] یحیی می‌گوید از پیش تصمیم نگرفته بودند فارسی کار کنند؛ به گفتهٔ او، با تغییر زبان محتوای شعرها عوض نشد.[^languageshift][^lyriccontent]
-
-توضیح رسمی آلبوم، سردار سرمست را برای آوازِ پس‌زمینهٔ «Man Kiam» و «Khosro-e Khooban»[^khalpunkvocals1]، Shervin Shahamipour را برای آوازِ پس‌زمینهٔ «Mellat-e Sarfaraz» و «Charand Goft»[^khalpunkvocals2]، و Negar Arkani و Mina Khojasteh را برای هم‌خوانی در «Hamash Dood Bood» و «Mellat-e Sarfaraz»[^khalpunkchoir] ثبت می‌کند.
+یحیی الخنسا، درامر گروه، از یک نمونه یاد می‌کند. سهراب محبی، خوانندهٔ گروه، از او خواست ریتم تنبک را با درام بزند. سهراب خواند و [سردار سرمست](/fa/sardar-sarmast-gjg/) با پیانو به آن اضافه شد؛ آهنگ همان لحظه شکل گرفت.[^yahyaidentity][^salmaklineup][^rhythm][^songcreation][^moment] یحیی می‌گوید از پیش تصمیم نگرفته بودند فارسی کار کنند؛ به گفتهٔ او، با تغییر زبان محتوای شعرها عوض نشد.[^languageshift][^lyriccontent]
 
 ## از دبی تا دیدار دوباره
 

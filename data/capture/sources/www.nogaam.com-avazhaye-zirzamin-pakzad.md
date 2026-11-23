@@ -1,12 +1,13 @@
 ---
 url: https://www.nogaam.com/sites/default/files/Avazhaye%20Zirzamin9781909641020.pdf
-title: 'آوازهای زیرزمین: هادی پاکزاد'
+title: 'آوازهای زیرزمین'
 kind: book
 language: fa
 tier: other
 publisher: Nogaam
 about:
 - Qjnkat7
+- Q8xpsnr
 status: processed
 archive: https://web.archive.org/web/20220506105108/https://www.nogaam.com/sites/default/files/Avazhaye%20Zirzamin9781909641020.pdf
 ---
@@ -44,3 +45,11 @@ Printedp510, PDFp526, visually checked. Read2026-11-13.
 Seyyed Ebrahim Nabavi’s book; full Pakzad chapter printedpp503–512 read from direct-downloaded PDF and selected pages visually checked2026-11-13. The download has713physical pages; printed numbering has an offset of16. Embedded PDF metadata names an unrelated title/author, so identification rests on actual book pages, not metadata. The chapter speaks from a2012 perspective; no publication date inferred from PDF timestamps. Text uses Arabic/Latin digit glyphs in places; excerpts transcribe visible Persian wording and digit values. This is a book excerpt, not a captured website interview. Further short passages support the requested native album chronology; its earlier LivingUnderground/Doctor dates are kept separate from the artist’s later corrections.
 
 Archive availability could not be verified at the time of capture.
+
+> رامین بهنا گروه راز شب را راه اندازی کرد. او موفق شد چند بار کنسرت برگزار کند. اولین آلبوم گروه دارقالی بود.
+
+Ramin Behna, «راز شب، دارقالی، زی بازی», printed pp. 426–427 (PDF pp. 442–443). The founding appears near the bottom of p. 426. The split appears in the first two lines of p. 427. Checked against both page images on 2026-11-21.
+
+> البته بعدها اعضای گروه راز شب هم از هم جدا شدند.
+
+Ramin Behna, «راز شب، دارقالی، زی بازی», printed pp. 426–427 (PDF pp. 442–443). The founding appears near the bottom of p. 426. The split appears in the first two lines of p. 427. Checked against both page images on 2026-11-21.

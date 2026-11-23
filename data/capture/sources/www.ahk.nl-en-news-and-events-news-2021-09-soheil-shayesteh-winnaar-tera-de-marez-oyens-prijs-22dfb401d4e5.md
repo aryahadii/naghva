@@ -7,3 +7,7 @@ tier: other
 ---
 
 > Alumnus Soheil Shayesteh has won the Tera de Marez Oyens Prize 2021 for his composition Žhâ .
+
+> Soheil is a graduate of the master programme in Live Electronics at the Conservatorium van Amsterdam.
+
+Artist biography following the concert announcement, read 2026-11-21.

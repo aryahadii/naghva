@@ -10,7 +10,27 @@ statements:
       quote: |-
         Abdi Behravanfar was born in 1975 in Mashhad, Khorasan, in northeastern Iran. By most standards, he began pursuing a career as a musician rather late in the day, but he quickly acquired an avid following among Iranian youth with a sound that melds popular Western styles -- rock, country, and blues -- with the rich heritage of Iranian folk music.
       accessed: '2026-10-19'
+  - value:
+      text: عبدی بهروانفر
+      language: fa
+    references:
+    - source: kayhan.london-1396-11-29-105479
+      quote: عبدی بهروانفر
+      accessed: '2026-11-21'
+  member of:
+  - value: Qcv3yzh
+    references:
+    - source: kayhan.london-1396-11-29-105479
+      quote: گروهی را با نام «ماد» در مشهد شکل داد.
+      accessed: '2026-11-21'
   birth date:
+  - value:
+      calendar: jalali
+      date: '1354-04'
+    references:
+    - source: kayhan.london-1396-11-29-105479
+      quote: او در تیرماه ١٣۵۴در مشهد به دنیا آمد
+      accessed: '2026-11-21'
   - value:
       date: '1975'
     references:

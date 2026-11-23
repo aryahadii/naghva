@@ -1,0 +1,85 @@
+id: Qxmzran
+type: release
+statements:
+  name:
+  - value:
+      text: Placebo
+      language: en
+    references:
+    - source: 9tantiope.bandcamp.com-album-placebo
+      quote: Placebo
+      accessed: '2026-11-21'
+    - source: 9tantiope.bandcamp.com-album-placebo
+      quote: Placebo | 9T Antiope
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qyv32ms
+    references:
+    - source: 9tantiope.bandcamp.com-album-placebo
+      quote: 9T Antiope
+      accessed: '2026-11-21'
+    - source: 9tantiope.bandcamp.com-album-placebo
+      quote: Placebo | 9T Antiope
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2021-05-07'
+    references:
+    - source: 9tantiope.bandcamp.com-album-placebo
+      quote: 07 May 2021 00:00:00 GMT
+      accessed: '2026-11-21'
+    - source: 9tantiope.bandcamp.com-album-placebo
+      quote: released May 7, 2021
+      accessed: '2026-11-21'
+      locator: Published date
+  listen link:
+  - value: https://9tantiope.bandcamp.com/album/placebo
+    references:
+    - source: 9tantiope.bandcamp.com-album-placebo
+      quote: Placebo
+      accessed: '2026-11-21'
+    - source: 9tantiope.bandcamp.com-album-placebo
+      quote: Placebo | 9T Antiope
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a2144467418_10.jpg
+    references:
+    - source: 9tantiope.bandcamp.com-album-placebo
+      quote: https://f4.bcbits.com/img/a2144467418_10.jpg
+      accessed: '2026-11-21'
+    - source: 9tantiope.bandcamp.com-album-placebo
+      quote: Cover Art/Cassette Design/Layout by Geng
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Geng
+        language: en
+  - value: https://f4.bcbits.com/img/a2144467418_10.jpg
+    references:
+    - source: 9tantiope.bandcamp.com-album-placebo
+      quote: https://f4.bcbits.com/img/a2144467418_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: 9T Antiope
+        language: en
+  contributor:
+  - value: Qgncp5r
+    references:
+    - source: 9tantiope.bandcamp.com-album-placebo
+      quote: Mastered by Nima Aghiani
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: mastering engineer
+  release type:
+  - value: album
+    references:
+    - source: 9tantiope.bandcamp.com-album-placebo
+      quote: Placebo | 9T Antiope
+      accessed: '2026-11-21'
+      locator: Page title

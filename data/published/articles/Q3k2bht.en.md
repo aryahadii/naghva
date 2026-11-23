@@ -15,24 +15,32 @@ references:
     quote: |-
       آرش که اسم «ضربی» رو برای فعالیت هنریش انتخاب کرده، از مسیر پر فراز و نشیبش از هنرستان موسیقی تا استودیوهای مستقل و شکل گیری گروه نینجاهای بدشانس میگه.
     accessed: '2026-10-19'
-  rad:
-    source: music.apple.com-us-album-rad-single-1688642600-5be622d83fb3
+  first:
+    source: madeiniranrecords.bandcamp.com-album-tehran-kabul-7a9d7b7530af
     quote: |-
-      Listen to Rad - Single by Arash Zarabi & Soundrom on Apple Music. 2023. 1 Song. Duration: 2 minutes.
+      The first studio album of Unlucky Ninjas is a tale of a journey, a musical journey between Iranian and Afghan cultures which has formed in collaboration with Soraya Husaini and her father Ibrahim Husaini.
+    accessed: '2026-10-19'
+  first-date:
+    source: madeiniranrecords.bandcamp.com-album-tehran-kabul-7a9d7b7530af
+    quote: |-
+      released November 22, 2021
     accessed: '2026-10-19'
   zendeh:
     source: music.apple.com-us-album-zendeh-khani-vol-1-ep-1654507912-2bd45ad181bb
     quote: |-
       Listen to Zendeh Khani Vol.1 - EP by Daygard, Motreb & Arash Zarabi on Apple Music. 2022. 4 Songs. Duration: 17 minutes.
     accessed: '2026-10-19'
+  rad:
+    source: music.apple.com-us-album-rad-single-1688642600-5be622d83fb3
+    quote: |-
+      Listen to Rad - Single by Arash Zarabi & Soundrom on Apple Music. 2023. 1 Song. Duration: 2 minutes.
+    accessed: '2026-10-19'
 ---
 
-Arash Zarabi is a composer, double bass player, performer and film-score composer. The Silk Road Songbook project traces his early work to classical ensembles including the Tehran Symphony Orchestra, Iran’s National Orchestra and the Iran-Austria orchestra.[^career]
+Arash Zarabi is a Tehran-based bassist and composer who writes music for film. He began as an orchestral double bass player and went on to found [Unlucky Ninjas](/en/unlucky-ninjas-9pp/). He also works under the name ضربی.[^career][^ninjas][^name]
 
-## Independent work
+## From the orchestra to Unlucky Ninjas
 
-That biography describes his subsequent exploration of jazz, folk, soul and alternative music.[^career] The Gooshgir interview programme identifies him as the founder of [Unlucky Ninjas](/en/unlucky-ninjas-9pp/) and notes that he performs under the Persian stage name «ضربی».[^ninjas][^name]
+Zarabi played double bass in the Tehran Symphony Orchestra and Iran’s National Orchestra. He later began incorporating jazz, folk and soul into his music.[^career] In 2021 Unlucky Ninjas made their first studio album, *[Tehran-Kabul](/en/unlucky-ninjas-9pp/#tehran-kabul-q6f)*, with Soraya Husaini and her father Ibrahim. The album draws on Iranian and Afghan cultures.[^first][^first-date]
 
-## Releases
-
-Zarabi collaborated with Soundrom on the single Rad and with Daygard and Motreb on the EP Zendeh Khani Vol.1. Apple Music dates the releases to 2023 and 2022 respectively.[^rad][^zendeh]
+Outside the band, Zarabi worked with Daygard and Motreb on the 2022 EP *[Zendeh Khani Vol.1](#zendeh-khani-vol-1-ep-vs4)* and with Soundrom on the 2023 single “[Rad](#rad-single-2n4).”[^zendeh][^rad]

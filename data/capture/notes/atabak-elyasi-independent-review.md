@@ -1,7 +1,0 @@
-# Atabak Elyasi independent review
-
-Score 9.2/10, with both articles and the catalogue ready. Reviewed on 22 November 2026. The checkpoint 59b English and Persian page hashes are a2cdd99fb9f07d and 5f6dd56142141f. The following article revisions were reviewed in both source files.
-
-Checked the named instrumental credits for the 2007 Tehran concert album, label accounts of I Am Eve, the 2009 London programme and 2014 Førde radio concert, the quartet’s own track-level arrangement and poetry credits on Placeless, and the commissioning programme for Vaya Vaya. The 2012 publisher’s album notes identify Elyasi on setar, and its detailed distribution record credits him specifically as composer of Come, My Beloved. The two 2024 presenter films are separate afternoon and evening concerts. Creator roles and playing credits stay distinct. The Alliance for California Traditional Arts documents his setar teaching and the apprenticeship sequence described in both articles. The latest prose adds the Tehran university career and the 2007 concert and makes the order of the 2019 and 2020 albums explicit.
-
-Sources 1.9/2, prose 1.9/2, recordings 2.6/3, image 1.0/1, and reader questions and gaps 1.8/2. The browser check showed 21 recording panels, 29 sources and a decoded portrait per language. The layouts fit the English desktop and Persian mobile viewports. All 18 source calls and all recording fragments in each revised article were also checked against the captured sources and the current panel anchors.

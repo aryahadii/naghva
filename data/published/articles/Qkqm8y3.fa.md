@@ -1,10 +1,5 @@
 ---
 references:
-  identity:
-    source: t.me-jalboat
-    quote: |-
-      Jalboat جالبوت
-    accessed: '2026-10-19'
   origin:
     source: t.me-jalboat
     quote: |-
@@ -40,24 +35,40 @@ references:
     quote: |-
       December 20, 2015
     accessed: '2026-10-19'
-  album2:
-    source: music.apple.com-us-album-deltang-single-6813027847
+  port:
+    source: www.radiozamaneh.com-799880
     quote: |-
-      Deltang - Single - Album by Jalboat - Apple Music
-    accessed: '2026-10-19'
-  date2:
-    source: music.apple.com-us-album-deltang-single-6813027847
+      ریشه‌های این گروه در بندرعباس و جنوب ایران
+    accessed: '2026-11-21'
+  name:
+    source: www.radiozamaneh.com-799880
     quote: |-
-      September 19, 2026
-    accessed: '2026-10-19'
+      «جالبوت» یعنی کشتی بادبانی
+    accessed: '2026-11-21'
+  rhythm:
+    source: www.radiozamaneh.com-799880
+    quote: |-
+      داروگ با ریتمی آشنا از موسیقی بندری شروع می‌شود. ترکیب پرکاشن و درامز.
+    accessed: '2026-11-21'
+  poem:
+    source: www.youtube.com-watch-v-eahmiarfvwc
+    quote: |-
+      داروگ
+      موسیقی : جالبوت
+      شعر : نیما یوشیج
+    accessed: '2026-11-21'
+  track:
+    source: music.apple.com-us-song-darvag-1499612479
+    quote: |-
+      Darvag
+      Jalboat Jalboat February 3, 2020
+    accessed: '2026-11-21'
 ---
 
-جالبوت گروه موسیقی تلفیقی مستقر در هرمزگان در جنوب ایران است. نام انگلیسی گروه در کانال خود آن Jalboat آمده است.[^identity][^origin]
+جالبوت گروه موسیقی تلفیقی اهل بندرعباس در استان هرمزگان است. نام گروه به معنی کشتی بادبانی است. جالبوت از میانهٔ دههٔ ۱۳۹۰ ترانه منتشر می‌کرد و در موسیقی‌اش از ریتم‌های بندری بهره می‌گرفت.[^origin][^port][^name][^album1][^date1][^rhythm]
 
-## نوازندگان
+## نخستین آلبوم
 
-در اعلان نخستین آلبوم رسمی، محمدعلی ذاکری قشمی به‌عنوان خواننده، حامد حمیدزاده نوازندهٔ گیتارباس، محسن خاش نوازندهٔ پرکاشن، آیدین رادکیا نوازندهٔ درامز، آرش رئیسی نوازندهٔ گیتار کلاسیک، آرشام غفوری و هومان عمادی نوازندگان گیتار الکتریک و آرین ملکیان نوازندهٔ کیبورد و پیانو معرفی شده‌اند.[^debut][^roster]
+گروه در آذر ۱۳۹۴ [«Gal A No»](#gal-a-no-68d) را منتشر کرد. در نخستین آلبوم رسمی‌اش، [«جالبوت»](#jalboat-k49)، صدای خواننده را گیتارهای کلاسیک و الکتریک، کیبورد، بیس، درامز و سازهای کوبه‌ای همراهی می‌کردند. آلبوم در بهمن ۱۳۹۸ منتشر شد.[^album1][^date1][^debut][^roster][^album0][^date0]
 
-## آثار
-
-فهرست اپل موزیک آلبوم هم‌نام گروه، Jalboat، را با تاریخ ۳ فوریهٔ ۲۰۲۰ ثبت کرده است. [Gal A No](#gal-a-no-68d) با تاریخ ۲۰ دسامبر ۲۰۱۵ و [Deltang](#deltang-bxc) با تاریخ ۱۹ سپتامبر ۲۰۲۶ نیز در همین فهرست آمده‌اند.[^album0][^date0][^album1][^date1][^album2][^date2]
+جالبوت در قطعهٔ [«داروگ»](#darvag-ras) برای شعر نیما یوشیج موسیقی ساخت. قطعه با ریتمی بندری آغاز می‌شود که نوازندگان درامز و سازهای کوبه‌ای با هم می‌نوازند.[^poem][^rhythm][^track]

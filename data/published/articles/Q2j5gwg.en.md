@@ -15,6 +15,26 @@ references:
     quote: |-
       His interest in exploring the sound of the Kamancheh with live electronics has led him to develop audio processing units which are unique to the instrument.
     accessed: '2026-10-19'
+  response:
+    source: soheilshayesteh.com-about-e6ecd296e240
+    quote: |-
+      control the live electronics and Kamancheh-driven audio-reactive visuals
+    accessed: '2026-11-21'
+  piece:
+    source: soheilshayesteh.com-about-e6ecd296e240
+    quote: |-
+      his audio-visual composition ‘Zha’ for kamancheh, live electronics and visuals.
+    accessed: '2026-11-21'
+  studies:
+    source: www.ahk.nl-en-news-and-events-news-2021-09-soheil-shayesteh-winnaar-tera-de-marez-oyens-prijs-22dfb401d4e5
+    quote: |-
+      Soheil is a graduate of the master programme in Live Electronics at the Conservatorium van Amsterdam.
+    accessed: '2026-11-21'
+  award:
+    source: www.ahk.nl-en-news-and-events-news-2021-09-soheil-shayesteh-winnaar-tera-de-marez-oyens-prijs-22dfb401d4e5
+    quote: |-
+      Alumnus Soheil Shayesteh has won the Tera de Marez Oyens Prize 2021 for his composition Žhâ .
+    accessed: '2026-10-19'
   album:
     source: soheilshayesteh.bandcamp.com-album-nha-85e7d9008a96
     quote: |-
@@ -35,17 +55,12 @@ references:
     quote: |-
       Kamancheh, violin and live electronics: Soheil Shayesteh
     accessed: '2026-10-19'
-  award:
-    source: www.ahk.nl-en-news-and-events-news-2021-09-soheil-shayesteh-winnaar-tera-de-marez-oyens-prijs-22dfb401d4e5
-    quote: |-
-      Alumnus Soheil Shayesteh has won the Tera de Marez Oyens Prize 2021 for his composition Žhâ .
-    accessed: '2026-10-19'
 ---
 
-Soheil Shayesteh is an Iranian composer based in the Netherlands. Working in Amsterdam as an audiovisual composer, violinist and kamancheh player, he has developed processing units to connect the kamancheh with live electronics.[^iran][^bio][^process]
+Soheil Shayesteh is an Iranian composer in Amsterdam who plays violin and kamancheh. He develops electronic processors for the kamancheh so he can change the sound and the projected images as he plays.[^iran][^bio][^process][^response][^piece]
 
-## nhA and Žhâ
+## The kamancheh and live electronics
 
-Shayesteh describes his album *nhA* as an electroacoustic exploration centred on improvisation and live acoustic instruments. Bandcamp gives its release date as March 1, 2023. Shayesteh is credited with kamancheh, violin and live electronics.[^album][^date][^idea][^credit]
+Shayesteh studied live electronics in the master’s programme at the Conservatorium van Amsterdam. In *Žhâ*, he played the kamancheh with live electronics and visuals. The piece won the Tera de Marez Oyens Prize in 2021.[^studies][^piece][^award]
 
-Amsterdam University of the Arts reports that his composition *Žhâ* won the 2021 Tera de Marez Oyens Prize.[^award]
+In 2023 he released *[nhA](#nha-2q6)*. On the album he improvised with kamancheh, violin and live electronics.[^album][^date][^idea][^credit]

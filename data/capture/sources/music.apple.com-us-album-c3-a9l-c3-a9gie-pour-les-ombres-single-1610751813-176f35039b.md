@@ -1,6 +1,10 @@
 ---
 url: https://music.apple.com/us/album/%C3%A9l%C3%A9gie-pour-les-ombres-single/1610751813
 title: Élégie pour les ombres - Single - Album by Soheil Peyghambari & Golfam Khayam - Apple Music
+kind: web page
+language: en
+about:
+- Soheil Peyghambari
 status: processed
 tier: discography
 ---
@@ -16,3 +20,11 @@ Album JSON-LD, datePublished, read 2026-11-13.
 > https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d3/fd/e4/d3fde4fd-47a6-19b8-d39a-0e11d063a859/752470404207_cover.jpg/1200x630bb.jpg
 
 Album JSON-LD, image, read 2026-11-13.
+
+> ‎Élégie pour les ombres - Single - Album by Soheil Peyghambari & Golfam Khayam - Apple Music
+
+Page title, read 2026-11-21.
+
+> Golfam Khayam
+
+Artist interview, biography or performance credits, read 2026-11-21.

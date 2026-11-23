@@ -124,7 +124,7 @@ references:
     locator: Lullaby - Golfam Khayam, opening
 ---
 
-Golfam Khayam is an Iranian composer, guitarist and improviser who grew up in Tehran. Her classical guitar studies led her to the United States and Switzerland, where she studied the music of Dušan Bogdanović. She later developed her own compositions from Iranian instrumental techniques and improvisation, working both as a soloist and with other musicians.[^bio][^origin][^study][^i-geneva][^s-setar][^s-tanbur]
+Golfam Khayam is an Iranian composer, guitarist and improviser who grew up in Tehran. Her classical guitar studies led her to the United States and then to Geneva, where she worked with the composer Dušan Bogdanović. She later developed her own compositions from Iranian instrumental techniques and improvisation, working both as a soloist and with other musicians.[^bio][^origin][^study][^i-geneva][^s-setar][^s-tanbur]
 
 ## Studying guitar
 

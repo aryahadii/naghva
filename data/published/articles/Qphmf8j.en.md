@@ -15,11 +15,6 @@ references:
     quote: |-
       «زیگیلند» اسم اولین آلبوم گروه بالگرد است که کمپانی (art beat group) در آمریکای شمالی آن را منتشر کرده و تا چند روز دیگر به بازار می‌آید.
     accessed: '2026-10-19'
-  zigiland:
-    source: music.apple.com-us-album-zigiland-281854890-1c77ee252fdd
-    quote: |-
-      Zigiland - Album by Ballgard - Apple Music
-    accessed: '2026-10-19'
   rajazzalin:
     source: music.apple.com-us-album-rajazzalin-491266056-a82255063c5d
     quote: |-
@@ -30,14 +25,20 @@ references:
     quote: |-
       So-Gand - EP - Album by Ballgard - Apple Music
     accessed: '2026-10-19'
+  sayings:
+    source: zamaaneh.com-azadeh-2008-05-post_106.html-e5d48d9e0fa2
+    quote: |-
+      الفاظ اجتماعی و تکیه‌ کلام‌هایی را که در طول روز شاید در تهران بارها به گوش می‌رسد، در کار ما هم می‌شنوید.
+    accessed: '2026-11-21'
+  debut-date:
+    source: music.apple.com-us-album-zigiland-281854890-1c77ee252fdd
+    quote: |-
+      "datePublished":"2008-05-21"
+    accessed: '2026-11-21'
 ---
 
-Ballgard, known in Persian as بالگرد, is a funk-rock band from Tehran. A Radio Zamaneh report described four members who had known one another since school and begun making music together.[^band][^origins]
+Ballgard is a Tehran funk-rock band started by four school friends. Their songs grew out of years of playing together. In 2008 Art Beat Group released their debut album, [*Zigiland*](#zigiland-jy6), in North America.[^band][^origins][^debut][^debut-date]
 
-## Working method and debut
+## Making Zigiland
 
-The musicians described songs emerging through rehearsals: a lyric would take shape, followed gradually by its music.[^origins] The same report identified [Zigiland](#zigiland-jy6) as the band’s debut and announced its North American release through Art Beat Group.[^debut]
-
-## Recorded work
-
-Apple Music offers *Zigiland*, *[Rajazzalin](#rajazzalin-af6)* and *[So-Gand - EP](#so-gand-ep-vrt)* under the band’s name, Ballgard.[^zigiland][^rajazzalin][^sogand]
+The four musicians improvised together in rehearsal. A line of lyrics would emerge and they would gradually find the music to go with it. Their bassist said some of the expressions that worked their way into the songs were ones people heard every day on the streets of Tehran.[^origins][^sayings] The band later released the album [*Rajazzalin*](#rajazzalin-af6) and the EP [*So-Gand*](#so-gand-ep-vrt).[^rajazzalin][^sogand]

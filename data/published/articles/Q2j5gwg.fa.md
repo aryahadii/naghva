@@ -15,6 +15,26 @@ references:
     quote: |-
       His interest in exploring the sound of the Kamancheh with live electronics has led him to develop audio processing units which are unique to the instrument.
     accessed: '2026-10-19'
+  response:
+    source: soheilshayesteh.com-about-e6ecd296e240
+    quote: |-
+      control the live electronics and Kamancheh-driven audio-reactive visuals
+    accessed: '2026-11-21'
+  piece:
+    source: soheilshayesteh.com-about-e6ecd296e240
+    quote: |-
+      his audio-visual composition ‘Zha’ for kamancheh, live electronics and visuals.
+    accessed: '2026-11-21'
+  studies:
+    source: www.ahk.nl-en-news-and-events-news-2021-09-soheil-shayesteh-winnaar-tera-de-marez-oyens-prijs-22dfb401d4e5
+    quote: |-
+      Soheil is a graduate of the master programme in Live Electronics at the Conservatorium van Amsterdam.
+    accessed: '2026-11-21'
+  award:
+    source: www.ahk.nl-en-news-and-events-news-2021-09-soheil-shayesteh-winnaar-tera-de-marez-oyens-prijs-22dfb401d4e5
+    quote: |-
+      Alumnus Soheil Shayesteh has won the Tera de Marez Oyens Prize 2021 for his composition Žhâ .
+    accessed: '2026-10-19'
   album:
     source: soheilshayesteh.bandcamp.com-album-nha-85e7d9008a96
     quote: |-
@@ -35,17 +55,12 @@ references:
     quote: |-
       Kamancheh, violin and live electronics: Soheil Shayesteh
     accessed: '2026-10-19'
-  award:
-    source: www.ahk.nl-en-news-and-events-news-2021-09-soheil-shayesteh-winnaar-tera-de-marez-oyens-prijs-22dfb401d4e5
-    quote: |-
-      Alumnus Soheil Shayesteh has won the Tera de Marez Oyens Prize 2021 for his composition Žhâ .
-    accessed: '2026-10-19'
 ---
 
-Soheil Shayesteh آهنگساز ایرانیِ ساکن هلند است. او در آمستردام به آهنگسازی دیداری و شنیداری و نوازندگی ویولن و کمانچه می‌پردازد و برای پیوند صدای کمانچه با الکترونیک زنده، واحدهای پردازش ویژهٔ این ساز ساخته است.[^iran][^bio][^process]
+سهیل شایسته، آهنگساز ایرانی ساکن آمستردام، ویولن و کمانچه می‌نوازد. او برای کمانچه دستگاه‌هایی ساخته است تا بتواند هنگام نواختن، صدا و تصویر را تغییر دهد.[^iran][^bio][^process][^response][^piece]
 
-## nhA و Žhâ
+## کمانچه و موسیقی الکترونیک زنده
 
-او آلبوم *nhA* را کاوشی الکتروآکوستیک با تمرکز بر بداهه‌پردازی و اجرای زندهٔ سازهای آکوستیک توصیف می‌کند. تاریخ انتشار آلبوم در بندکمپ ۱ مارس ۲۰۲۳ است. او در این اثر کمانچه و ویولن می‌نوازد و اجرای الکترونیک زنده را نیز بر عهده دارد.[^album][^date][^idea][^credit]
+شایسته در کنسرواتوار آمستردام در مقطع کارشناسی ارشد موسیقی الکترونیک زنده تحصیل کرد. او در قطعهٔ «Žhâ» کمانچه را همراه با صداهای الکترونیک و تصویر نواخت. این قطعه در سال ۲۰۲۱ جایزهٔ ترا دِ مارز اوینس را گرفت.[^studies][^piece][^award]
 
-دانشگاه هنر آمستردام اعلام کرده است که قطعهٔ *Žhâ* او جایزهٔ Tera de Marez Oyens سال ۲۰۲۱ را دریافت کرد.[^award]
+در سال ۲۰۲۳ آلبوم «[nhA](#nha-2q6)» را منتشر کرد. شایسته در این آلبوم با کمانچه، ویولن و صداهای الکترونیک زنده بداهه‌نوازی کرد.[^album][^date][^idea][^credit]

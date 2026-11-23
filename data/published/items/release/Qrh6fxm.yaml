@@ -1,0 +1,57 @@
+id: Qrh6fxm
+type: release
+statements:
+  name:
+  - value:
+      text: Kokheo & Kalakhet
+      language: en
+    references:
+    - &id001
+      source: music.apple.com-us-album-1515822257
+      quote: Listen to Kokheo & Kalakhet by Abdi Behravanfar
+      accessed: '2026-11-21'
+  performer:
+  - value: Qzgbsrs
+    references:
+    - *id001
+  - value: Qcv3yzh
+    references:
+    - &id002
+      source: music.apple.com-us-album-338796661
+      quote: Listen to Kokheo & Kalakhet by MUD Band
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2009-11-06'
+    references:
+    - source: music.apple.com-us-album-338796661
+      quote: '"datePublished":"2009-11-06"'
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://music.apple.com/us/album/kokheo-kalakhet/1515822257
+    references:
+    - *id001
+    - source: music.apple.com-us-album-1515822257
+      quote: '"datePublished":"2020-05-10"'
+      accessed: '2026-11-21'
+  - value: https://music.apple.com/us/album/kokheo-kalakhet/338796661
+    references:
+    - *id002
+  - value: https://abdibehravanfarmud.bandcamp.com/album/kokheo-kalakhet
+    references:
+    - source: abdibehravanfarmud.bandcamp.com-album-kokheo-kalakhet
+      quote: Kokheo & Kalakhet
+      accessed: '2026-11-21'
+    - source: abdibehravanfarmud.bandcamp.com-album-kokheo-kalakhet
+      quote: 01 Mar 2023 00:00:00 GMT
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://f4.bcbits.com/img/a3840067374_10.jpg
+    references:
+    - source: abdibehravanfarmud.bandcamp.com-album-kokheo-kalakhet
+      quote: https://f4.bcbits.com/img/a3840067374_10.jpg
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Abdi Behravanfar/MUD, Bandcamp
+        language: en

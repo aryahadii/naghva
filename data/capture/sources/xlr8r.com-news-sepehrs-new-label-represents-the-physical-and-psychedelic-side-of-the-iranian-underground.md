@@ -15,3 +15,11 @@ Read 2026-11-14.
 > November 19, 2020
 
 Read 2026-11-14.
+
+> will launch his own label, Shaytoon, with a new EP.
+
+Announcement of the first Shaytoon Records EP, read 2026-11-21.
+
+> Crown Jewel, Shaytoon’s inaugural release
+
+Announcement of the first Shaytoon Records EP, read 2026-11-21.

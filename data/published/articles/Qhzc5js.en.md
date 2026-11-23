@@ -110,11 +110,6 @@ references:
     quote: Concert with Borderless Band Vancouver 23 Apr. 2023
     accessed: 2026-11-21
     locator: Musician or presenter’s original account
-  fa:
-    source: tirgan2023.tirgan.ca-event-borderless-band
-    quote: گروه بدون مرز
-    accessed: 2026-11-21
-    locator: Musician or presenter’s original account
 ---
 
 When Ehsan Matoori began playing with the musicians who became Borderless Band in 2017, the plan was to bring new works based on the Iranian radif to audiences in North America. Kamancheh player Kourosh Babaei was in Canada, percussionist Homayoon Nasiri in Iran. Neither could enter the United States for the planned tour. Five American dates were cancelled. The musicians chose the name Borderless Band after the cancellations.[^act][^start][^idea][^names][^ban][^tour][^name]

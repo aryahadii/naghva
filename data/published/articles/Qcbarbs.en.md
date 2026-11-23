@@ -91,7 +91,7 @@ references:
     accessed: '2026-11-13'
 ---
 
-Kaveh Yaghmaei is an Iranian rock and pop-rock singer, guitarist and composer, and the son of the musician [Kourosh Yaghmaei](/en/kourosh-yaghmaei-kza/). He began releasing solo albums in the early 2000s, lived in Vancouver and later returned to Iran. His albums include [*Scarecrow*](#scarecrow-w6g), [*Sokoote Sard (Cold Silence)*](#sokoote-sard-cold-silence-myq) and [*Manshour*](#manshour-x6t).[^profile][^return][^first][^manshour]
+Kaveh Yaghmaei is an Iranian rock singer, guitarist and composer, and the son of the musician [Kourosh Yaghmaei](/en/kourosh-yaghmaei-kza/). He began releasing solo albums in the early 2000s. He lived in Vancouver and recorded songs for [*Manshour*](#manshour-x6t), playing guitar and keyboards himself. After his return to Iran, the album appeared in Tehran in 2016.[^profile][^return][^first][^recording][^manshour]
 
 ## Musical training
 

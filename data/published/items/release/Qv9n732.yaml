@@ -6,21 +6,21 @@ statements:
       text: Guillotine
       language: en
     references:
-    - source: music.apple.com-us-album-sovereign-261484709
+    - source: music.apple.com-us-album-sovereign-261484709-864607fe168e
       quote: Guillotine
       accessed: 2026-11-21
       locator: Published recording or album
   listen link:
   - value: https://music.apple.com/us/song/guillotine/261485304
     references:
-    - source: music.apple.com-us-album-sovereign-261484709
+    - source: music.apple.com-us-album-sovereign-261484709-864607fe168e
       quote: Guillotine
       accessed: 2026-11-21
       locator: Published recording or album
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music/9f/da/ac/dj.pnbclxhw.tif/1200x630bb.jpg
     references:
-    - source: music.apple.com-us-album-sovereign-261484709
+    - source: music.apple.com-us-album-sovereign-261484709-864607fe168e
       quote: https://is1-ssl.mzstatic.com/image/thumb/Music/9f/da/ac/dj.pnbclxhw.tif/1200x630bb.jpg
       accessed: 2026-11-21
       locator: Digital artwork
@@ -28,14 +28,14 @@ statements:
   - value:
       date: '2003-04-28'
     references:
-    - source: music.apple.com-us-album-sovereign-261484709
+    - source: music.apple.com-us-album-sovereign-261484709-864607fe168e
       quote: '2003-04-28'
       accessed: 2026-11-21
       locator: Digital edition date
   performer:
   - value: Q93d39e
     references:
-    - source: music.apple.com-us-album-sovereign-261484709
+    - source: music.apple.com-us-album-sovereign-261484709-864607fe168e
       quote: Arashk
       accessed: 2026-11-21
       locator: Billed band

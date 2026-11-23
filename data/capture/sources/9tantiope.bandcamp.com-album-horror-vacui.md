@@ -1,13 +1,42 @@
 ---
 url: https://9tantiope.bandcamp.com/album/horror-vacui
-title: Horror Vacui | 9T Antiope
+archive: "https://web.archive.org/web/20260217151421/https://9tantiope.bandcamp.com/album/horror-vacui"
+title: Horror Vacui by 9T Antiope
+tier: own
 kind: web page
 language: en
-tier: own
 about:
 - Nima Aghiani
 status: processed
 ---
+
+> Horror Vacui
+
+Album title, read 2026-11-21.
+
+> 9T Antiope
+
+Artist byline, read 2026-11-21.
+
+> 12 Apr 2024 00:00:00 GMT
+
+Release date in album metadata, read 2026-11-21.
+
+> https://f4.bcbits.com/img/a1845036927_10.jpg
+
+Album artwork URL, read 2026-11-21.
+
+> Music composed and produced by Nima Aghiani
+
+Album credits, read 2026-11-21.
+
+> Mixed and mastered by Nima Aghiani
+
+Album credits, read 2026-11-21.
+
+> Artwork by Ashkan Noroozkhani
+
+Album credits, read 2026-11-21.
 
 > Horror Vacui | 9T Antiope
 
@@ -17,22 +46,10 @@ Page title, read 2026-11-21.
 
 Artist interview, biography or performance credits, read 2026-11-21.
 
-> Music composed and produced by Nima Aghiani
-
-Artist interview, biography or performance credits, read 2026-11-21.
-
 > released April 12, 2024
 
 Published date, read 2026-11-21.
 
-> https://f4.bcbits.com/img/a1845036927_10.jpg
-
-Release artwork, read 2026-11-21.
-
 > Songs written and performed by Sara Bigdeli Shamloo
-
-Artist interview, biography or performance credits, read 2026-11-21.
-
-> 9T Antiope
 
 Artist interview, biography or performance credits, read 2026-11-21.

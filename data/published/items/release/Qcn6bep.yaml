@@ -1,0 +1,41 @@
+id: Qcn6bep
+type: release
+statements:
+  name:
+  - value:
+      text: Genesis Domain
+      language: en
+    references:
+    - &id001
+      source: sepehr.bandcamp.com-album-genesis-domain
+      quote: Genesis Domain
+      accessed: '2026-11-21'
+  performer:
+  - value: Q99by47
+    references:
+    - &id002
+      source: sepehr.bandcamp.com-album-genesis-domain
+      quote: Sepehr
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2024-05-10'
+    references:
+    - source: sepehr.bandcamp.com-album-genesis-domain
+      quote: 10 May 2024 00:00:00 GMT
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://sepehr.bandcamp.com/album/genesis-domain
+    references:
+    - *id001
+    - *id002
+  cover art:
+  - value: https://f4.bcbits.com/img/a3337657967_10.jpg
+    references:
+    - source: sepehr.bandcamp.com-album-genesis-domain
+      quote: https://f4.bcbits.com/img/a3337657967_10.jpg
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Sepehr, Bandcamp
+        language: en

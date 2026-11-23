@@ -1,3 +1,0 @@
-# Aïka Ensemble independent review
-
-**9.1/10 on frozen build 139.** Checked the nine original SoundCloud uploads, the three performance videos, the ensemble’s role alongside the Badjens reading and the 2023 journalism conference programme in Tours. Later solo EP takes are distinguished. The musicians’ agency identifies both founders and the Paris municipal speaker programme identifies Hura as a past member. Individual SoundCloud artworks were unavailable, and no separate group album edition was established. Both languages rendered 12 panels and 13 decoded images, with working internal fragments and desktop/mobile widths. Sources, bilingual writing, catalogue, imagery and reader questions score 1.9, 1.8, 2.7, 0.9, 1.8. Article and catalogue ready.

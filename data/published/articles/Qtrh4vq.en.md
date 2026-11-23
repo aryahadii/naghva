@@ -76,12 +76,12 @@ references:
     accessed: 2026-11-22
     locator: Marjan’s family influences
   kkvstart:
-    source: www.kkv.no-en-music-mahsa-og-marjan-vahdat-2
+    source: www.kkv.no-en-music-mahsa-og-marjan-vahdat-2-4492341dd92c
     quote: KKV first got to know Mahsa and Marjan Vahdat during the recording
     accessed: 2026-11-22
     locator: KKV recalls its first recording with the two sisters
   gardenfirst:
-    source: www.kkv.no-en-music-mahsa-og-marjan-vahdat-2
+    source: www.kkv.no-en-music-mahsa-og-marjan-vahdat-2-4492341dd92c
     quote: 13.08.2007
     accessed: 2026-11-22
     locator: Original label’s release date

@@ -95,14 +95,6 @@ references:
     source: www.youtube.com-watch-v-_jrbp7qrxd8
     quote: 'Music : Habib Meftah & Pouya Mahmoodi'
     accessed: '2026-10-22'
-  falfaali-apple:
-    source: music.apple.com-us-album-falfaali-feat-pouya-mahmoodi-single-1527126169
-    quote: '"datePublished":"2020-07-17"'
-    accessed: '2026-10-22'
-  falfaali-bandcamp:
-    source: habibmeftah.bandcamp.com-track-falfaali
-    quote: released October 10, 2020
-    accessed: '2026-10-22'
   ep:
     source: habibmeftah.bandcamp.com-album-unbalanced
     quote: NEW EP by Habib Meftah
@@ -139,6 +131,10 @@ references:
     source: soundcloud.com-habib-boushehri-habib-meftah-1000-farsang-ft-rouzbeh-esfand
     quote: 'Lyrics : Salam Riazy'
     accessed: '2026-10-22'
+  edition-falfaali-bandcamp:
+    source: habibmeftah.bandcamp.com-track-falfaali
+    quote: FALFAALI by HABIB MEFTAH - POUYA MAHMOODI
+    accessed: '2026-11-21'
 ---
 
 Habib Meftah is a percussionist from Bushehr who works with the traditional music of southern Iran in contemporary settings. He describes his music as handmade folk music, even when its altered sound suggests electronics.[^origin][^handmade] His full name is Habib Meftah Boushehri; in a 2019 interview, he explained that he had shortened his professional name while retaining Boushehri in his passport.[^name][^origin]
@@ -151,7 +147,7 @@ Meftah began making music at ten. His first instrument was the dammam, a drum wi
 
 At twenty-three, Meftah moved to France after the dance company Montalvo-Hervieu invited him and ney-anban player Saeid Shanbehzadeh to work on a dance project.[^france] He dates his first solo album, *Deyzangeroo*, to 2005.[^first]
 
-Alongside his solo work, he helped form [Gabgoo](/en/gabgoo-253/) in 2006 with Reza Abaee, Hamid Saeedi and Henrik Nagi.[^gabgoo] He was also in the founding lineup of [Darkoob](/en/darkoob-band-7aj/) in 1386 in the Solar Hijri calendar.[^darkoob]
+Alongside his solo work, he helped form [Gabgoo](/en/gabgoo-253/) in 2006 with Reza Abaee, [Hamid Saeedi](/en/hamid-saeedi-zen/) and Henrik Nagi.[^gabgoo] He was also in the founding lineup of [Darkoob](/en/darkoob-band-7aj/) in 2007–08.[^darkoob]
 
 ## Shibaali: memory and sound
 
@@ -161,6 +157,6 @@ The concert project *Shibaali* drew on memories from childhood through adulthood
 
 ## Songs and collaborators
 
-On [*FALFAALI*](#falfaali-vbh), Meftah and Pouya Mahmoodi worked from an old Bushehri folk melody, with lyrics by Mohammad Laryan and Mahmoodi’s microtonal electric guitar.[^falfaali] The official video credits both musicians for the music. Apple Music dates the single to July 2020, while Meftah’s Bandcamp edition is dated October.[^falfaali-music][^falfaali-apple][^falfaali-bandcamp]
+On [*FALFAALI*](#falfaali-vbh), Meftah and Pouya Mahmoodi worked from an old Bushehri folk melody, with lyrics by Mohammad Laryan and Mahmoodi’s microtonal electric guitar.[^falfaali][^falfaali-music][^edition-falfaali-bandcamp]
 
 The three-track EP [*Unbalanced*](#unbalanced-8ab) followed in October 2021, with music by Meftah, lyrics by Mohammad Laryan and production by Valentin Mussou.[^ep][^ep-date][^ep-credits] In January 2025, Meftah and Rouzbeh Esfand released [*1000 FARSANG*](#1000-farsang-qn2), with lyrics by Salam Riazy.[^1000][^1000-date][^1000-lyrics]

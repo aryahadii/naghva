@@ -110,11 +110,6 @@ references:
     quote: Concert with Borderless Band Vancouver 23 Apr. 2023
     accessed: 2026-11-21
     locator: Musician or presenter’s original account
-  fa:
-    source: tirgan2023.tirgan.ca-event-borderless-band
-    quote: گروه بدون مرز
-    accessed: 2026-11-21
-    locator: Musician or presenter’s original account
 ---
 
 وقتی احسان مطوری در سال ۲۰۱۷ کار با نوازندگانی را آغاز کرد که بعدها «Borderless Band» نام گرفتند، می‌خواستند قطعه‌های تازه‌ای بر پایهٔ ردیف ایرانی برای شنوندگان آمریکای شمالی اجرا کنند. کوروش بابایی، نوازندهٔ کمانچه، در کانادا زندگی می‌کرد و همایون نصیری، نوازندهٔ سازهای کوبه‌ای، در ایران. هیچ‌کدام نتوانستند برای تور وارد آمریکا شوند. پنج اجرا لغو شد و نوازندگان پس از آن نام «Borderless Band» را برای گروه انتخاب کردند.[^act][^start][^idea][^names][^ban][^tour][^name]

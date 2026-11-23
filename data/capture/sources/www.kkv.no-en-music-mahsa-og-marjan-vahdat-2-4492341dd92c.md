@@ -22,3 +22,15 @@ Same opening paragraph. Read2026-11-13.
 > 2007
 
 Year in the page header, read2026-11-13; the original release is13 August2007 according to the page, separate from Apple2008 edition. Full label text identifies Knut Reiersrud as musical arranger and names Atabak Elyasi, Amir Eslami, Audun Erlien, David Wallumrød and Rune Arnesen as players. Archive availability was checked on 2026-11-13.
+
+> KKV first got to know Mahsa and Marjan Vahdat during the recording
+
+KKV recalls its first recording with the two sisters, read 2026-11-21.
+
+> 13.08.2007
+
+Original label’s release date, read 2026-11-21.
+
+> Atabak Elyasi on setar
+
+KKV concert musicians, read 2026-11-21.
