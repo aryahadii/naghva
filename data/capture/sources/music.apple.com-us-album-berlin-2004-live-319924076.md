@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/berlin-2004-live/319924076
+archive: "https://web.archive.org/web/20261002103823/https://music.apple.com/us/album/berlin-2004-live/319924076"
 title: Berlin 2004 Live
 tier: discography
 language: en

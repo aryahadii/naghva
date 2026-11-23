@@ -1,5 +1,6 @@
 ---
 url: https://beat.com.au/the-resonant-heart-launch-online-mini-series-celebrating-melbournes-bipoc-and-cald-female-artists/
+archive: "https://web.archive.org/web/20220129021158/https://beat.com.au/the-resonant-heart-launch-online-mini-series-celebrating-melbournes-bipoc-and-cald-female-artists/"
 title: The Resonant Heart launch online mini-series celebrating Melbourne’s BIPOC and CALD female artists - Beat
   Magazine
 status: processed

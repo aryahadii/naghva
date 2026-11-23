@@ -1,5 +1,6 @@
 ---
 url: https://artamene-official.com/2021/11/23/artamene-iran-sign-with-wormholedeath-announce-ziggurat/
+archive: "https://web.archive.org/web/20260721140200/https://artamene-official.com/2021/11/23/artamene-iran-sign-with-wormholedeath-announce-ziggurat/"
 title: ARTAMENE (IRAN) SIGN WITH WORMHOLEDEATH & ANNOUNCE “ZIGGURAT” – ARTAMENE
 tier: own
 language: en

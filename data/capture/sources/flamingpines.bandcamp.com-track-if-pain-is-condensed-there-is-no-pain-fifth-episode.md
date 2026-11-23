@@ -1,5 +1,6 @@
 ---
 url: https://flamingpines.bandcamp.com/track/if-pain-is-condensed-there-is-no-pain-fifth-episode
+archive: "https://web.archive.org/web/20230430110601/https://flamingpines.bandcamp.com/track/if-pain-is-condensed-there-is-no-pain-fifth-episode"
 title: If pain is condensed there is no pain (fifth episode) | Pouya Pour-Amin | Flaming Pines
 kind: web page
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://judytotton.com/blurred-vision/
+archive: "https://web.archive.org/web/20260717202932/https://judytotton.com/blurred-vision/"
 title: Blurred Vision, Judy Totton Publicity
 tier: own
 language: en

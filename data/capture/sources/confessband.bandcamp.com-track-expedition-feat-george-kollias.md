@@ -1,5 +1,6 @@
 ---
 url: https://confessband.bandcamp.com/track/expedition-feat-george-kollias
+archive: "https://web.archive.org/web/20251012162445/https://confessband.bandcamp.com/track/expedition-feat-george-kollias"
 title: Expedition (feat. George Kollias) | Confess
 tier: own
 language: en

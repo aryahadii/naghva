@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/forever-chasing-the-sun-single/1547097707
+archive: "https://web.archive.org/web/20230301143256/https://music.apple.com/us/album/forever-chasing-the-sun-single/1547097707"
 title: Forever Chasing the Sun - Single
 tier: discography
 language: en

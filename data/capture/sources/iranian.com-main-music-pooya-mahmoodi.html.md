@@ -1,5 +1,6 @@
 ---
 url: https://iranian.com/main/music/pooya-mahmoodi.html
+archive: "https://web.archive.org/web/20260404161708/http://iranian.com/main/music/pooya-mahmoodi.html"
 title: Pooya Mahmoodi | Iranian.com
 kind: web page
 tier: journalism

@@ -1,5 +1,6 @@
 ---
 url: https://flamingpines.bandcamp.com/track/1808
+archive: "https://web.archive.org/web/20220708180252/https://flamingpines.bandcamp.com/track/1808"
 title: 1808 | Siavash Amini + Umchunga | Flaming Pines
 kind: web page
 language: en

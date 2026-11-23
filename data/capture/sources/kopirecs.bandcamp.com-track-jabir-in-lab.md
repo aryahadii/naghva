@@ -1,5 +1,6 @@
 ---
 url: https://kopirecs.bandcamp.com/track/jabir-in-lab
+archive: "https://web.archive.org/web/20241211184418/https://kopirecs.bandcamp.com/track/jabir-in-lab"
 title: Jabir In Lab | ArtSaves | Kopi Records
 kind: web page
 language: en

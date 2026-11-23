@@ -1,5 +1,6 @@
 ---
 url: https://avinahmadi.com/discography-avinahmadi/
+archive: "https://web.archive.org/web/20260720134037/https://avinahmadi.com/discography-avinahmadi/"
 title: Discography - Avin Ahmadi
 tier: own
 language: en

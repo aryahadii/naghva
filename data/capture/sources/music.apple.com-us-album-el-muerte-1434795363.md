@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/el-muerte/1434795363
+archive: "https://web.archive.org/web/20261115142449/https://music.apple.com/us/album/el-muerte/1434795363"
 title: ‎El Muerte - Album by Mahmood Schricker - Apple Music
 kind: web page
 language: en

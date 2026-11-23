@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/the-living-room/1719708550
+archive: "https://web.archive.org/web/20260608161903/https://music.apple.com/us/album/the-living-room/1719708550"
 title: ‎The Living Room - Album by Ava Rasti - Apple Music
 kind: web page
 language: en

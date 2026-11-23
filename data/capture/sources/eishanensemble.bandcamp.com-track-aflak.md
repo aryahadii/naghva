@@ -1,5 +1,6 @@
 ---
 url: https://eishanensemble.bandcamp.com/track/aflak
+archive: "https://web.archive.org/web/20260506075139/https://eishanensemble.bandcamp.com/track/aflak"
 title: Aflak | Eishan Ensemble
 kind: web page
 tier: own

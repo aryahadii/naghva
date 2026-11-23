@@ -1,5 +1,6 @@
 ---
 url: https://aidashahghasemi.bandcamp.com/album/chashmandaaze-rooydaad
+archive: "https://web.archive.org/web/20260114125252/https://aidashahghasemi.bandcamp.com/album/chashmandaaze-rooydaad"
 title: Chashmandaaze Rooydaad
 tier: discography
 language: en

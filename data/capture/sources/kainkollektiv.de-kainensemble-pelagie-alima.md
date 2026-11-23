@@ -1,5 +1,6 @@
 ---
 url: https://kainkollektiv.de/kainensemble/pelagie-alima/
+archive: "https://web.archive.org/web/20251015115648/https://kainkollektiv.de/kainensemble/pelagie-alima/"
 title: Alima
 kind: web page
 language: en

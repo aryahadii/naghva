@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/sufi-safir/218120725
+archive: "https://web.archive.org/web/20190721130703/https://music.apple.com/us/album/sufi-safir/218120725"
 title: Sufi Safir
 tier: discography
 language: en

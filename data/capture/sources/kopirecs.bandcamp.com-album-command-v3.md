@@ -1,5 +1,6 @@
 ---
 url: https://kopirecs.bandcamp.com/album/command-v3
+archive: "https://web.archive.org/web/20241216183126/https://kopirecs.bandcamp.com/album/command-v3"
 title: Command+V3 | Idlefon / Pher | Kopi Records
 kind: web page
 language: en

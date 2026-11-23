@@ -1,5 +1,6 @@
 ---
 url: https://dubai.mutek.org/en/artists/idlefon
+archive: "https://web.archive.org/web/20260614154651/https://dubai.mutek.org/en/artists/idlefon"
 title: Idlefon | MUTEK Dubai
 kind: web page
 language: en

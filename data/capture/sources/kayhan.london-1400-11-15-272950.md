@@ -1,5 +1,6 @@
 ---
 url: https://kayhan.london/1400/11/15/272950/
+archive: "https://web.archive.org/web/20260308044809/https://kayhan.london/1400/11/15/272950/"
 title: نیاز نواب، هنرمندی که شعر فارسی را با صدای غربی تلفیق می‌کند - KayhanLondon کیهان لندن
 kind: web page
 tier: journalism

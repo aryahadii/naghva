@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/lalayee-single/1066728089
+archive: "https://web.archive.org/web/20261002103823/https://music.apple.com/us/album/lalayee-single/1066728089"
 title: Lalayee
 tier: discography
 language: en

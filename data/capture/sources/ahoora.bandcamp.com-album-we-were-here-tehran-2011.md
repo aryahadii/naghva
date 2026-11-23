@@ -1,5 +1,6 @@
 ---
 url: https://ahoora.bandcamp.com/album/we-were-here-tehran-2011
+archive: "https://web.archive.org/web/20260611110401/https://ahoora.bandcamp.com/album/we-were-here-tehran-2011"
 title: 'We Were Here: Tehran 2011 | Ahoora'
 tier: own
 language: en

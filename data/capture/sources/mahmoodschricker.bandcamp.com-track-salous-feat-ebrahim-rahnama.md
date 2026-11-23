@@ -1,5 +1,6 @@
 ---
 url: https://mahmoodschricker.bandcamp.com/track/salous-feat-ebrahim-rahnama
+archive: "https://web.archive.org/web/20131103040816/http://mahmoodschricker.bandcamp.com/track/salous-feat-ebrahim-rahnama"
 title: Salous (feat. Ebrahim Rahnama) | Mahmood Schricker
 kind: web page
 language: en

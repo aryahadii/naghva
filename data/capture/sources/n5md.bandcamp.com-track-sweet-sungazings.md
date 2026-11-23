@@ -1,5 +1,6 @@
 ---
 url: https://n5md.bandcamp.com/track/sweet-sungazings
+archive: "https://web.archive.org/web/20260215141120/https://n5md.bandcamp.com/track/sweet-sungazings"
 title: Sweet Sungazings | Idlefon | n5MD
 kind: web page
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://latitudescontemporaines.com/en/latitudes-prod/%C2%B1-2/
+archive: "https://web.archive.org/web/20260512101607/https://latitudescontemporaines.com/en/latitudes-prod/%C2%B1-2/"
 title: ± - Latitudes Contemporaines
 kind: web page
 language: en

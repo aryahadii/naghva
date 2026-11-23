@@ -1,5 +1,6 @@
 ---
 url: https://confessband.bandcamp.com/album/in-pursuit-of-dreams
+archive: "https://web.archive.org/web/20250827221157/https://confessband.bandcamp.com/album/in-pursuit-of-dreams"
 title: In Pursuit Of Dreams | Confess
 tier: own
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://confessband.bandcamp.com/track/evin
+archive: "https://web.archive.org/web/20251012162449/https://confessband.bandcamp.com/track/evin"
 title: EVIN | Confess
 tier: own
 language: en

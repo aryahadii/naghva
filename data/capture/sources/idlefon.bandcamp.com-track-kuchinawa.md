@@ -1,5 +1,6 @@
 ---
 url: https://idlefon.bandcamp.com/track/kuchinawa
+archive: "https://web.archive.org/web/20240329163607/https://idlefon.bandcamp.com/track/kuchinawa"
 title: Kuchinawa | Idlefon
 kind: web page
 language: en

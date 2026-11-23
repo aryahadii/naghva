@@ -1,5 +1,6 @@
 ---
 url: https://lowen.bandcamp.com/music
+archive: "https://web.archive.org/web/20260324032229/https://lowen.bandcamp.com/music"
 title: Music | Lowen
 tier: own
 language: en

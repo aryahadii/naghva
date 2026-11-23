@@ -1,5 +1,6 @@
 ---
 url: https://bitrotrecords.bandcamp.com/track/in-the-midst
+archive: "https://web.archive.org/web/20230608133038/https://bitrotrecords.bandcamp.com/track/in-the-midst"
 title: In the Midst | Umchunga | BITROT
 kind: web page
 language: en

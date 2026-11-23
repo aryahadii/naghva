@@ -1,5 +1,6 @@
 ---
 url: https://eishanensemble.bandcamp.com/track/regret
+archive: "https://web.archive.org/web/20240125090059/https://eishanensemble.bandcamp.com/track/regret"
 title: Regret | Eishan Ensemble
 kind: web page
 tier: own

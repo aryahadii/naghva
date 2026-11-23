@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/artist/farshid-arabi/1189719205
+archive: "https://web.archive.org/web/20260809074456/https://music.apple.com/us/artist/farshid-arabi/1189719205"
 title: Farshid A'rabi on Apple Music
 tier: discography
 language: en

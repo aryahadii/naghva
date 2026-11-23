@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/avaz-e-bazgasht-feat-eendo-single/1844210135
+archive: "https://web.archive.org/web/20261010194203/https://music.apple.com/us/album/avaz-e-bazgasht-feat-eendo-single/1844210135"
 title: ‎Avaz e Bazgasht (feat. Eendo) - Single - Album by King Raam - Apple Music
 kind: web page
 tier: discography

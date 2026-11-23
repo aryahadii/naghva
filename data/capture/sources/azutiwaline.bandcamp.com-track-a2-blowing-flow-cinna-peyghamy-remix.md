@@ -1,5 +1,6 @@
 ---
 url: https://azutiwaline.bandcamp.com/track/a2-blowing-flow-cinna-peyghamy-remix
+archive: "https://web.archive.org/web/20260209111311/https://azutiwaline.bandcamp.com/track/a2-blowing-flow-cinna-peyghamy-remix"
 title: A2 - Blowing Flow (Cinna Peyghamy Remix) | Azu Tiwaline
 kind: web page
 language: en

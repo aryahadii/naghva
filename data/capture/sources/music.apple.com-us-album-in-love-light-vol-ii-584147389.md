@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/in-love-light-vol-ii/584147389
+archive: "https://web.archive.org/web/20260212051147/https://music.apple.com/us/album/in-love-light-vol-ii/584147389"
 title: In Love & Light, Vol. II
 tier: discography
 language: en

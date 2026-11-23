@@ -1,5 +1,6 @@
 ---
 url: https://avarasti.bandcamp.com/track/teardrop
+archive: "https://web.archive.org/web/20261017190245/https://avarasti.bandcamp.com/track/teardrop"
 title: Teardrop | Ava Rasti
 kind: web page
 language: en

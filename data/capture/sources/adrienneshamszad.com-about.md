@@ -1,5 +1,6 @@
 ---
 url: https://adrienneshamszad.com/about/
+archive: "https://web.archive.org/web/20260428131346/https://adrienneshamszad.com/about/"
 title: About - Adrienne Shamszad
 tier: own
 language: en

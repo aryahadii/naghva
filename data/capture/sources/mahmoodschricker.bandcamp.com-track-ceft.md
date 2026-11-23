@@ -1,5 +1,6 @@
 ---
 url: https://mahmoodschricker.bandcamp.com/track/ceft
+archive: "https://web.archive.org/web/20130304193549/http://mahmoodschricker.bandcamp.com:80/track/ceft"
 title: Ceft | Mahmood Schricker
 kind: web page
 language: en

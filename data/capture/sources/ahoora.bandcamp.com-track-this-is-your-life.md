@@ -1,5 +1,6 @@
 ---
 url: https://ahoora.bandcamp.com/track/this-is-your-life
+archive: "https://web.archive.org/web/20260611110401/https://ahoora.bandcamp.com/track/this-is-your-life"
 title: This Is Your Life | Ahoora
 tier: own
 language: en

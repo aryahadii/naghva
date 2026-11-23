@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/iranam-single/1875352413
+archive: "https://web.archive.org/web/20260302055557/https://music.apple.com/us/album/iranam-single/1875352413"
 title: Iranam - Single
 tier: discography
 language: en

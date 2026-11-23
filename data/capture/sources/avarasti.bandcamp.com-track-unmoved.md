@@ -1,5 +1,6 @@
 ---
 url: https://avarasti.bandcamp.com/track/unmoved
+archive: "https://web.archive.org/web/20261017201759/https://avarasti.bandcamp.com/track/unmoved"
 title: Unmoved | Ava Rasti
 kind: web page
 language: en

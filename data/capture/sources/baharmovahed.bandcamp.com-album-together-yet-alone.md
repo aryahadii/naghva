@@ -1,5 +1,6 @@
 ---
 url: https://baharmovahed.bandcamp.com/album/together-yet-alone
+archive: "https://web.archive.org/web/20260519090547/https://baharmovahed.bandcamp.com/album/together-yet-alone"
 title: Together Yet Alone | Bahar Movahed
 status: processed
 language: en

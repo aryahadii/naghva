@@ -1,5 +1,6 @@
 ---
 url: https://azadimusic.bandcamp.com/track/haale-the-voice
+archive: "https://web.archive.org/web/20230520113756/https://azadimusic.bandcamp.com/track/haale-the-voice"
 title: United for Iran | The Voice
 tier: own
 language: en

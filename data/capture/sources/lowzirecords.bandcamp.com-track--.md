@@ -1,5 +1,6 @@
 ---
 url: https://lowzirecords.bandcamp.com/track/-
+archive: "https://web.archive.org/web/20250110010316/https://lowzirecords.bandcamp.com/track/-"
 title: شیزان | Taraamoon | Low-Zi Records
 kind: web page
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://arazsalek.bandcamp.com/album/peripheries-of-nahavand
+archive: "https://web.archive.org/web/20261030151127/https://arazsalek.bandcamp.com/album/peripheries-of-nahavand"
 title: Peripheries of Nahavand | Araz Salek
 kind: web page
 tier: own

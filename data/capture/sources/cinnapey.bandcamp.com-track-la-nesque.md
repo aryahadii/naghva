@@ -1,5 +1,6 @@
 ---
 url: https://cinnapey.bandcamp.com/track/la-nesque
+archive: "https://web.archive.org/web/20261005051504/https://cinnapey.bandcamp.com/track/la-nesque"
 title: La Nesque | Cinna Peyghamy
 kind: web page
 language: en

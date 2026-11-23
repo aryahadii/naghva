@@ -1,5 +1,6 @@
 ---
 url: https://badieh.bandcamp.com/track/setar-intro
+archive: "https://web.archive.org/web/20260604001130/https://badieh.bandcamp.com/track/setar-intro"
 title: Setar Intro | Badieh
 kind: web page
 tier: own

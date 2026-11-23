@@ -1,5 +1,6 @@
 ---
 url: https://kaboulbamako.bandcamp.com/album/sowal-diabi
+archive: "https://web.archive.org/web/20230128024341/https://kaboulbamako.bandcamp.com/album/sowal-diabi"
 title: Sowal Diabi | De Kaboul A Bamako
 status: processed
 language: en

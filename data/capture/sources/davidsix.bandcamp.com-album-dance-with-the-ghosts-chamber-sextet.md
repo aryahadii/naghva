@@ -1,5 +1,6 @@
 ---
 url: https://davidsix.bandcamp.com/album/dance-with-the-ghosts-chamber-sextet
+archive: "https://web.archive.org/web/20251013013739/https://davidsix.bandcamp.com/album/dance-with-the-ghosts-chamber-sextet"
 title: Dance With The Ghosts Chamber Sextet | David Six
 tier: discography
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://contemporaryiranian.com/artists/music/pouya-mahmoudi/
+archive: "https://web.archive.org/web/20241112211316/https://contemporaryiranian.com/artists/music/pouya-mahmoudi/"
 title: Pouya Mahmoodi – Contemporary Iranian
 kind: web page
 tier: own

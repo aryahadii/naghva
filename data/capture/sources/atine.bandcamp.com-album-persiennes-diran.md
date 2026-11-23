@@ -1,5 +1,6 @@
 ---
 url: https://atine.bandcamp.com/album/persiennes-diran
+archive: "https://web.archive.org/web/20230514212044/https://atine.bandcamp.com/album/persiennes-diran"
 title: Persiennes d'Iran | Atine
 tier: own
 language: en

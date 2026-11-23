@@ -1,5 +1,6 @@
 ---
 url: https://cca.berlin/en/program/1518/nazanin-noori-the-echo-of-protest-is-distant-to-the-protest
+archive: "https://web.archive.org/web/20260609210928/https://cca.berlin/en/program/1518/nazanin-noori-the-echo-of-protest-is-distant-to-the-protest"
 title: Nazanin Noori / THE ECHO OF PROTEST IS DISTANT TO THE PROTEST – CCA Berlin
 status: processed
 language: en

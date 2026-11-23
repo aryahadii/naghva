@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/ghasedak-single/1820842376
+archive: "https://web.archive.org/web/20261002103825/https://music.apple.com/us/album/ghasedak-single/1820842376"
 title: Ghasedak
 tier: discography
 language: en

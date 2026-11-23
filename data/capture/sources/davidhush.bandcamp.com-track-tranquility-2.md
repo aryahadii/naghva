@@ -1,5 +1,6 @@
 ---
 url: https://davidhush.bandcamp.com/track/tranquility-2
+archive: "https://web.archive.org/web/20230607055658/https://davidhush.bandcamp.com/track/tranquility-2"
 title: Tranquility | David Hush & Hamed Sadeghi | David Hush
 kind: web page
 tier: own

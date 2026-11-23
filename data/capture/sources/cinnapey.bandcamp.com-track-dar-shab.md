@@ -1,5 +1,6 @@
 ---
 url: https://cinnapey.bandcamp.com/track/dar-shab
+archive: "https://web.archive.org/web/20261005051458/https://cinnapey.bandcamp.com/track/dar-shab"
 title: Dar Shab در شب | Cinna Peyghamy
 kind: web page
 language: en

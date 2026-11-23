@@ -1,5 +1,6 @@
 ---
 url: https://enovaerecords.com/tour-dates
+archive: "https://web.archive.org/web/20260609022709/https://enovaerecords.com/tour-dates"
 title: enovae records / tour dates
 tier: own
 kind: web page

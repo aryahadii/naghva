@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/upupup-remixes-ep/529742290
+archive: "https://web.archive.org/web/20251126071613/https://music.apple.com/us/album/upupup-remixes-ep/529742290"
 title: UpUpUp (Remixes) - EP
 tier: own
 language: en

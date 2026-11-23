@@ -1,5 +1,6 @@
 ---
 url: https://davidsait.bandcamp.com/album/sixty-interpretations-of-sixty-seconds
+archive: "https://web.archive.org/web/20250620155410/https://davidsait.bandcamp.com/album/sixty-interpretations-of-sixty-seconds"
 title: Sixty Interpretations of Sixty Seconds | Various Artists | David Sait
 kind: web page
 tier: own

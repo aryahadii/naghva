@@ -1,5 +1,6 @@
 ---
 url: https://morwaridlian.blogfa.com/
+archive: "https://web.archive.org/web/20250709101446/https://morwaridlian.blogfa.com/"
 title: وبلاگ خبری گروه موسیقی مروارید لیان
 tier: own
 language: fa

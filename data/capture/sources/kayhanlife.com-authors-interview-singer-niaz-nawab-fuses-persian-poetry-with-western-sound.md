@@ -1,5 +1,6 @@
 ---
 url: https://kayhanlife.com/authors/interview-singer-niaz-nawab-fuses-persian-poetry-with-western-sound/
+archive: "https://web.archive.org/web/20260513224246/https://kayhanlife.com/authors/interview-singer-niaz-nawab-fuses-persian-poetry-with-western-sound/"
 title: 'INTERVIEW: Singer Niaz Nawab Fuses Persian Poetry With Western Sound - KAYHAN LIFE'
 kind: web page
 tier: journalism

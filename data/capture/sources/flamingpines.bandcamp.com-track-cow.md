@@ -1,5 +1,6 @@
 ---
 url: https://flamingpines.bandcamp.com/track/cow
+archive: "https://web.archive.org/web/20250620125844/https://flamingpines.bandcamp.com/track/cow"
 title: Cow | Ava Rasti | Flaming Pines
 kind: web page
 language: en

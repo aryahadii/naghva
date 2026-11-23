@@ -1,5 +1,6 @@
 ---
 url: https://flamingpines.bandcamp.com/track/infinity
+archive: "https://web.archive.org/web/20250620125848/https://flamingpines.bandcamp.com/track/infinity"
 title: Infinity | Ava Rasti | Flaming Pines
 kind: web page
 language: en

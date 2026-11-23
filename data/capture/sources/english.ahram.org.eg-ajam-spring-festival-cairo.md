@@ -1,5 +1,6 @@
 ---
 url: https://english.ahram.org.eg/NewsContent/5/33/41691/Arts--Culture/Music/Ajam-band-fuses-Iranian-folk-music-and-urban-sound.aspx
+archive: "https://web.archive.org/web/20240718182105/https://english.ahram.org.eg/NewsContent/5/33/41691/Arts--Culture/Music/Ajam-band-fuses-Iranian-folk-music-and-urban-sound.aspx"
 title: Ajam band fuses Iranian folk music and urban sounds in the Spring Festival finale
 status: processed
 language: en

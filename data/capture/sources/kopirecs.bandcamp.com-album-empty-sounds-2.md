@@ -1,5 +1,6 @@
 ---
 url: https://kopirecs.bandcamp.com/album/empty-sounds-2
+archive: "https://web.archive.org/web/20201110085008/https://kopirecs.bandcamp.com/album/empty-sounds-2"
 title: Empty Sounds | ArtSaves | Kopi Records
 kind: web page
 language: en

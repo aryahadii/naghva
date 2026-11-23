@@ -1,5 +1,6 @@
 ---
 url: https://mahmoodschricker.bandcamp.com/track/stay-feat-ebrahim-rahnama
+archive: "https://web.archive.org/web/20131103040801/http://mahmoodschricker.bandcamp.com/track/stay-feat-ebrahim-rahnama"
 title: Stay (feat. Ebrahim Rahnama) | Mahmood Schricker
 kind: web page
 language: en

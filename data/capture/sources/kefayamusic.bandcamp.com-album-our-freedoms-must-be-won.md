@@ -1,5 +1,6 @@
 ---
 url: https://kefayamusic.bandcamp.com/album/our-freedoms-must-be-won
+archive: "https://web.archive.org/web/20261109074255/https://kefayamusic.bandcamp.com/album/our-freedoms-must-be-won"
 title: Our Freedoms Must Be Won | Kefaya
 status: processed
 language: en

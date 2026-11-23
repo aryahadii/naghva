@@ -1,5 +1,6 @@
 ---
 url: https://baharmovahed.com/biography/
+archive: "https://web.archive.org/web/20260715130129/https://baharmovahed.com/biography/"
 title: Biography – Bahar Movahed
 status: processed
 language: en

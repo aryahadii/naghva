@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/do-not-stay-alone/1619009699
+archive: "https://web.archive.org/web/20260920045947/https://music.apple.com/us/album/do-not-stay-alone/1619009699"
 title: ‎Do Not Stay Alone - Album by Soheil Hosnavi - Apple Music
 status: processed
 language: en

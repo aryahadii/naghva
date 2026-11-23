@@ -1,5 +1,6 @@
 ---
 url: https://eishanensemble.bandcamp.com/track/shiraz
+archive: "https://web.archive.org/web/20260506052532/https://eishanensemble.bandcamp.com/track/shiraz"
 title: Shiraz | Eishan Ensemble
 kind: web page
 tier: own

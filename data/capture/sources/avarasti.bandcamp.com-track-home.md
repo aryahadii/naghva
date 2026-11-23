@@ -1,5 +1,6 @@
 ---
 url: https://avarasti.bandcamp.com/track/home
+archive: "https://web.archive.org/web/20261017171557/https://avarasti.bandcamp.com/track/home"
 title: HOME | Ava Rasti
 kind: web page
 language: en

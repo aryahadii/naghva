@@ -1,5 +1,6 @@
 ---
 url: https://azutiwaline.bandcamp.com/track/tight-wind-ft-cinna-peyghamy
+archive: "https://web.archive.org/web/20251204201509/https://azutiwaline.bandcamp.com/track/tight-wind-ft-cinna-peyghamy"
 title: Tight Wind ft. Cinna Peyghamy | Azu Tiwaline
 kind: web page
 language: en

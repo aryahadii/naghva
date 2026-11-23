@@ -1,5 +1,6 @@
 ---
 url: https://confessband.bandcamp.com/album/in-pursuit-of-dreams-10th-anniversary-edition
+archive: "https://web.archive.org/web/20261002150247/https://confessband.bandcamp.com/album/in-pursuit-of-dreams-10th-anniversary-edition"
 title: In Pursuit of Dreams (10th Anniversary Edition) | Confess
 tier: own
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://idlefon.bandcamp.com/track/reminiscence
+archive: "https://web.archive.org/web/20240329111925/https://idlefon.bandcamp.com/track/reminiscence"
 title: Reminiscence | Idlefon
 kind: web page
 language: en

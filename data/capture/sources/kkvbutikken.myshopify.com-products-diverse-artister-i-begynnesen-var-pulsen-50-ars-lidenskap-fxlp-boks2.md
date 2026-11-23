@@ -1,5 +1,6 @@
 ---
 url: https://kkvbutikken.myshopify.com/products/diverse-artister-i-begynnesen-var-pulsen-50-ars-lidenskap-fxlp-boks2
+archive: "https://web.archive.org/web/20260411182446/https://kkvbutikken.myshopify.com/products/diverse-artister-i-begynnesen-var-pulsen-50-ars-lidenskap-fxlp-boks2"
 title: I begynnelsen var pulsen
 tier: own
 language: 'no'

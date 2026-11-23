@@ -1,5 +1,6 @@
 ---
 url: https://housecorerecords.bandcamp.com/album/war-of-the-gargantuas
+archive: "https://web.archive.org/web/20230515204917/https://housecorerecords.bandcamp.com/album/war-of-the-gargantuas"
 title: War Of The Gargantuas
 tier: own
 language: en

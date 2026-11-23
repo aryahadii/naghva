@@ -1,5 +1,6 @@
 ---
 url: https://badieh.bandcamp.com/track/asheq-bodom-leili-feat-jawad-tabesh-nasim-khushnawaz
+archive: "https://web.archive.org/web/20260604001130/https://badieh.bandcamp.com/track/asheq-bodom-leili-feat-jawad-tabesh-nasim-khushnawaz"
 title: Asheq Bodom Leili (feat. Jawad Tabesh & Nasim Khushnawaz) | Badieh
 kind: web page
 tier: own

@@ -1,5 +1,6 @@
 ---
 url: https://ajammusic.com/
+archive: "https://web.archive.org/web/20260812081520/http://ajammusic.com/"
 title: Ajam Music | Ajam Music Offical Website
 status: processed
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/payam-e-asheqan/1537422221
+archive: "https://web.archive.org/web/20251013204619/https://music.apple.com/us/album/payam-e-asheqan/1537422221"
 title: ‎Payam-e Asheqan - Album by Payam Azizi - Apple Music
 tier: discography
 language: en

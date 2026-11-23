@@ -1,5 +1,6 @@
 ---
 url: https://labellabuissonne.bandcamp.com/album/no-solo
+archive: "https://web.archive.org/web/20250718163551/https://labellabuissonne.bandcamp.com/album/no-solo"
 title: No Solo | Andy Emler | La Buissonne
 status: processed
 language: en

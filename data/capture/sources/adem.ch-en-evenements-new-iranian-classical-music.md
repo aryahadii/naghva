@@ -1,5 +1,6 @@
 ---
 url: https://adem.ch/en/evenements/new-iranian-classical-music
+archive: "https://web.archive.org/web/20260617125714/https://adem.ch/en/evenements/new-iranian-classical-music"
 title: Ateliers d'ethnomusicologie - World Music and Dance in Geneva
 tier: own
 language: en

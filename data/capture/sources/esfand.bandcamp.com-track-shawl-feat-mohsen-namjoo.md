@@ -1,5 +1,6 @@
 ---
 url: https://esfand.bandcamp.com/track/shawl-feat-mohsen-namjoo
+archive: "https://web.archive.org/web/20251223182611/https://esfand.bandcamp.com/track/shawl-feat-mohsen-namjoo"
 title: Shawl (feat. Mohsen Namjoo) | Esfand
 kind: web page
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://avarasti.bandcamp.com/album/no-one-knows-how-wild-the-wind-blows
+archive: "https://web.archive.org/web/20261018225211/https://avarasti.bandcamp.com/album/no-one-knows-how-wild-the-wind-blows"
 title: No One Knows How Wild The Wind Blows | Ava Rasti
 kind: web page
 language: en

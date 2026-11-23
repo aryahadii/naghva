@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/az-posht-e-in-ajorha-from-behind-these-bricks-single/1770510267
+archive: "https://web.archive.org/web/20260923140200/https://music.apple.com/us/album/az-posht-e-in-ajorha-from-behind-these-bricks-single/1770510267"
 title: ‎Az Posht - E in Ajorha (From Behind These Bricks) - Single - Album by Eendo - Apple Music
 kind: web page
 tier: discography

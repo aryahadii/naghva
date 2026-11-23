@@ -1,5 +1,6 @@
 ---
 url: https://confessband.bandcamp.com/album/destination-addiction
+archive: "https://web.archive.org/web/20260219110104/https://confessband.bandcamp.com/album/destination-addiction"
 title: Destination Addiction | Confess
 tier: own
 language: en

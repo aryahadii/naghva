@@ -1,5 +1,6 @@
 ---
 url: https://capelladeministrers.com/en/discography/el-collar-de-la-paloma/
+archive: "https://web.archive.org/web/20260716044854/https://capelladeministrers.com/en/discography/el-collar-de-la-paloma/"
 title: El collar de la paloma
 tier: own
 language: en

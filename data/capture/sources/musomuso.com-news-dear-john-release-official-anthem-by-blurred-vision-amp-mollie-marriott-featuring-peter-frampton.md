@@ -1,5 +1,6 @@
 ---
 url: https://musomuso.com/news/dear-john-release-official-anthem-by-blurred-vision-amp-mollie-marriott-featuring-peter-frampton
+archive: "https://web.archive.org/web/20211017092622/https://musomuso.com/news/dear-john-release-official-anthem-by-blurred-vision-amp-mollie-marriott-featuring-peter-frampton"
 title: '''DEAR JOHN'' release official anthem by Blurred Vision & Mollie Marriott featuring Peter Frampton — musomuso.com'
 tier: journalism
 language: en

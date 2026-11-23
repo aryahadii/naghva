@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/fatva-feat-justina-single/1516785833
+archive: "https://web.archive.org/web/20221127011744/https://music.apple.com/us/album/fatva-feat-justina-single/1516785833"
 title: Fatva (feat. Justina) - Single
 tier: discography
 language: en

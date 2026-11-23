@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/back-then-we-also-had-been-vol-5-single/1646495628
+archive: "https://web.archive.org/web/20260927001252/https://music.apple.com/us/album/back-then-we-also-had-been-vol-5-single/1646495628"
 title: ‎Back Then, We Also Had Been, Vol. 5 - Single - Album by Hesam Inanlou, Soheil Peyghambari & Ahmad Shamlu - Apple Music
 kind: web page
 language: en

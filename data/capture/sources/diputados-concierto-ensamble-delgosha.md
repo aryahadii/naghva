@@ -1,5 +1,6 @@
 ---
 url: https://comunicacion.diputados.gob.mx/sintesis/compendio/archivos/jul22/si140722.pdf
+archive: "https://web.archive.org/web/20230605175816/https://comunicacion.diputados.gob.mx/sintesis/compendio/archivos/jul22/si140722.pdf"
 title: Presentan en la Cámara de Diputados concierto del Ensamble Delgoshá
 tier: own
 kind: web page

@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/manhattan-manhattan-undying-original-motion-picture/1497457532
+archive: "https://web.archive.org/web/20261102135906/https://music.apple.com/us/album/manhattan-manhattan-undying-original-motion-picture/1497457532"
 title: Manhattan (Manhattan Undying Original Motion Picture Soundtrack)
 tier: discography
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://lowzirecords.bandcamp.com/track/mah-q
+archive: "https://web.archive.org/web/20260810083201/https://lowzirecords.bandcamp.com/track/mah-q"
 title: Mahāq | مَحاقْ | Taraamoon | Low-Zi Records
 kind: web page
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/goldie-single/1437789343
+archive: "https://web.archive.org/web/20240901120653/https://music.apple.com/us/album/goldie-single/1437789343"
 title: Goldie - Single
 tier: discography
 language: en

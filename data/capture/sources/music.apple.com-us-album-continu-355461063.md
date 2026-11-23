@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/continu/355461063
+archive: "https://web.archive.org/web/20251113184255/https://music.apple.com/us/album/continu/355461063"
 title: ‎Continu - Album by Negar Booban - Apple Music
 tier: discography
 language: en

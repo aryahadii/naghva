@@ -1,5 +1,6 @@
 ---
 url: https://faredshafinury.com/
+archive: "https://web.archive.org/web/20260629175838/https://faredshafinury.com/"
 title: Fared Shafinury
 tier: own
 language: en

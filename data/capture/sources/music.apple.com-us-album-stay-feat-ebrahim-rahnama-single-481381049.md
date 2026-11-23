@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/stay-feat-ebrahim-rahnama-single/481381049
+archive: "https://web.archive.org/web/20190718123326/https://music.apple.com/us/album/stay-feat-ebrahim-rahnama-single/481381049"
 title: ‎Stay (feat. Ebrahim Rahnama) - Single - Album by Mahmood Schricker - Apple Music
 kind: web page
 language: en

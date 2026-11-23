@@ -1,5 +1,6 @@
 ---
 url: https://echoesanddust.com/2024/10/lowen-the-black-heart/
+archive: "https://web.archive.org/web/20250126161958/https://echoesanddust.com/2024/10/lowen-the-black-heart/"
 title: Lowen at The Black Heart
 tier: journalism
 language: en

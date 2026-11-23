@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/artist/the-finches/1446393374
+archive: "https://web.archive.org/web/20250808055841/https://music.apple.com/us/artist/the-finches/1446393374"
 title: ‎The Finches - Apple Music
 kind: web page
 language: en

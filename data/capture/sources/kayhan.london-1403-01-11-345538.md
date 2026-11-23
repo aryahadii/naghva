@@ -1,5 +1,6 @@
 ---
 url: https://kayhan.london/1403/01/11/345538/
+archive: "https://web.archive.org/web/20260613024416/https://kayhan.london/1403/01/11/345538/"
 title: نخستین جمع‌نوازی هنرمندان ایرانی در پاریس - KayhanLondon کیهان لندن
 kind: web page
 language: en

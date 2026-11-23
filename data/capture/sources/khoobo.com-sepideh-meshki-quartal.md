@@ -1,5 +1,6 @@
 ---
 url: https://khoobo.com/sepideh-meshki-quartal/
+archive: "https://web.archive.org/web/20260113123646/https://khoobo.com/sepideh-meshki-quartal/"
 title: دانلود آلبوم چهار از سپیده مشکی - خوبو
 status: processed
 language: fa

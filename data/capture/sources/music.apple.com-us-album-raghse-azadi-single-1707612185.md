@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/raghse-azadi-single/1707612185
+archive: "https://web.archive.org/web/20261002103825/https://music.apple.com/us/album/raghse-azadi-single/1707612185"
 title: Raghse Azadi
 tier: discography
 language: en

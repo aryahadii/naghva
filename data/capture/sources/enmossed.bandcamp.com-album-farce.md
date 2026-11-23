@@ -1,5 +1,6 @@
 ---
 url: https://enmossed.bandcamp.com/album/farce
+archive: "https://web.archive.org/web/20250601151237/https://enmossed.bandcamp.com/album/farce"
 title: FARCE | Nazanin Noori | enmossed
 status: processed
 language: en

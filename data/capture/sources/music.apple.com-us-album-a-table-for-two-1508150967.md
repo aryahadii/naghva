@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/a-table-for-two/1508150967
+archive: "https://web.archive.org/web/20260902224106/https://music.apple.com/us/album/a-table-for-two/1508150967"
 title: A Table for Two
 tier: discography
 language: en

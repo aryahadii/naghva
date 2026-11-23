@@ -1,5 +1,6 @@
 ---
 url: https://cinnapey.bandcamp.com/album/armure-ii
+archive: "https://web.archive.org/web/20261005051504/https://cinnapey.bandcamp.com/album/armure-ii"
 title: Armure II | Cinna Peyghamy
 kind: web page
 language: en

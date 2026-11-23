@@ -1,5 +1,6 @@
 ---
 url: https://eileanrec.bandcamp.com/album/isthmus
+archive: "https://web.archive.org/web/20260523033801/https://eileanrec.bandcamp.com/album/isthmus"
 title: Isthmus | 9T Antiope | eilean rec.
 kind: web page
 language: en

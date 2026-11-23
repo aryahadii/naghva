@@ -1,5 +1,6 @@
 ---
 url: https://apranikrecords.bandcamp.com/album/va-intended-consequence
+archive: "https://web.archive.org/web/20261004120131/https://apranikrecords.bandcamp.com/album/va-intended-consequence"
 title: VA - Intended Consequence | Apranik Records
 kind: web page
 language: en

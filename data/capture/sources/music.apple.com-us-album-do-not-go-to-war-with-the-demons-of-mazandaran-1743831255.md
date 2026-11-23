@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/do-not-go-to-war-with-the-demons-of-mazandaran/1743831255
+archive: "https://web.archive.org/web/20250312063020/https://music.apple.com/us/album/do-not-go-to-war-with-the-demons-of-mazandaran/1743831255"
 title: Do Not Go To War With The Demons Of Mazandaran
 tier: discography
 language: en

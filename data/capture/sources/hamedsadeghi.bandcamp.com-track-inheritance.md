@@ -1,5 +1,6 @@
 ---
 url: https://hamedsadeghi.bandcamp.com/track/inheritance
+archive: "https://web.archive.org/web/20261115143129/https://hamedsadeghi.bandcamp.com/track/inheritance"
 title: Inheritance | Hamed Sadeghi
 kind: web page
 tier: own

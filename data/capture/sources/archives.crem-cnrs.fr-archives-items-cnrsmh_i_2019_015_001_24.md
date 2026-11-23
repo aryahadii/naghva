@@ -1,5 +1,6 @@
 ---
 url: https://archives.crem-cnrs.fr/archives/items/CNRSMH_I_2019_015_001_24/
+archive: "https://web.archive.org/web/20260614193935/https://archives.crem-cnrs.fr/archives/items/CNRSMH_I_2019_015_001_24/"
 title: 'Item : Airs damali par Omar Sori (sorud) + Abdulrahman (benjo) - CREM-CNRS - Sound archives of the CNRS and the Musee de l''Homme.
   Research Centre of Ethnomusicology (CREM), University of Paris 10'
 kind: web page

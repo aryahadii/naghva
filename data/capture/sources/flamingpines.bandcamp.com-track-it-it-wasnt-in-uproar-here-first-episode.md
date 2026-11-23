@@ -1,5 +1,6 @@
 ---
 url: https://flamingpines.bandcamp.com/track/it-it-wasnt-in-uproar-here-first-episode
+archive: "https://web.archive.org/web/20230429151519/https://flamingpines.bandcamp.com/track/it-it-wasnt-in-uproar-here-first-episode"
 title: It it wasn't in uproar here (first episode) | Pouya Pour-Amin | Flaming Pines
 kind: web page
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/the-rogue-prince-of-persia-original-game-soundtrack/1770265126
+archive: "https://web.archive.org/web/20250429105759/https://music.apple.com/us/album/the-rogue-prince-of-persia-original-game-soundtrack/1770265126"
 title: The Rogue Prince of Persia (Original Game Soundtrack)
 tier: discography
 language: en

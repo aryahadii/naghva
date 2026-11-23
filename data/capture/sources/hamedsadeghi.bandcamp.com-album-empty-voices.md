@@ -1,5 +1,6 @@
 ---
 url: https://hamedsadeghi.bandcamp.com/album/empty-voices
+archive: "https://web.archive.org/web/20251222194229/https://hamedsadeghi.bandcamp.com/album/empty-voices"
 title: Empty Voices | Hamed Sadeghi
 kind: web page
 tier: own

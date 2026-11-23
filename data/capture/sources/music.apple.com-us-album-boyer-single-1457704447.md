@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/boyer-single/1457704447
+archive: "https://web.archive.org/web/20240808023245/https://music.apple.com/us/album/boyer-single/1457704447"
 title: ‎Boyer - Single - Album by Mahya Hamedi - Apple Music
 status: processed
 language: en

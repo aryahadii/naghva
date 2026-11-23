@@ -1,5 +1,6 @@
 ---
 url: https://kopirecs.bandcamp.com/album/decay
+archive: "https://web.archive.org/web/20230207154327/https://kopirecs.bandcamp.com/album/decay"
 title: Decay | ArtSaves | Kopi Records
 kind: web page
 language: en

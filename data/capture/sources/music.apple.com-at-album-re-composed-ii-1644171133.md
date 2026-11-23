@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/at/album/re-composed-ii/1644171133
+archive: "https://web.archive.org/web/20250404130755/https://music.apple.com/at/album/re-composed-ii/1644171133"
 title: Re:composed II
 tier: discography
 language: en

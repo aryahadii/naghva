@@ -1,5 +1,6 @@
 ---
 url: https://idlefon.bandcamp.com/track/intensive-collectivity
+archive: "https://web.archive.org/web/20240329095009/https://idlefon.bandcamp.com/track/intensive-collectivity"
 title: Intensive Collectivity | Idlefon
 kind: web page
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/the-banquet-of-companions/1545849433
+archive: "https://web.archive.org/web/20260920045947/https://music.apple.com/us/album/the-banquet-of-companions/1545849433"
 title: ‎The Banquet of Companions - Album by Soheil Hosnavi & Shayan Riyahi - Apple Music
 status: processed
 language: en

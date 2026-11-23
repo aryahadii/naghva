@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/peripheries-of-nahavand-feat-efr%C3%A9n-l%C3%B3pez/1793087383
+archive: "https://web.archive.org/web/20260906173629/https://music.apple.com/us/album/peripheries-of-nahavand-feat-efr%C3%A9n-l%C3%B3pez/1793087383"
 title: ‎Peripheries of Nahavand (feat. Efrén López) - Album by Araz Salek - Apple Music
 kind: web page
 tier: discography

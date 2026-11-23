@@ -1,5 +1,6 @@
 ---
 url: https://localdish.bandcamp.com/track/hanuz-dar-darunam-zendast
+archive: "https://web.archive.org/web/20260208205906/https://localdish.bandcamp.com/track/hanuz-dar-darunam-zendast"
 title: Hanuz Dar Darunam Zendast | Cheshmak | Local Dish
 kind: web page
 language: en

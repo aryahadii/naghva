@@ -1,5 +1,6 @@
 ---
 url: https://cinnapey.bandcamp.com/album/the-skin-in-between
+archive: "https://web.archive.org/web/20261115151216/https://cinnapey.bandcamp.com/album/the-skin-in-between"
 title: The Skin In Between | Cinna Peyghamy
 kind: web page
 language: en

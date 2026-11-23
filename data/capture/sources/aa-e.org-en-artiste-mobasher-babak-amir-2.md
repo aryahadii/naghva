@@ -1,5 +1,6 @@
 ---
 url: https://aa-e.org/en/artiste/mobasher-babak-amir-2/
+archive: "https://web.archive.org/web/20260208222127/https://aa-e.org/en/artiste/mobasher-babak-amir-2/"
 title: Mobasher Babak Amir – agency of artists in exile
 tier: own
 language: en

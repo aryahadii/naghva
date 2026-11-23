@@ -1,5 +1,6 @@
 ---
 url: https://lowen.bandcamp.com/track/the-seventh-king-of-the-djinn
+archive: "https://web.archive.org/web/20260324032230/https://lowen.bandcamp.com/track/the-seventh-king-of-the-djinn"
 title: The Seventh King of the Djinn | Lowen
 tier: own
 language: en

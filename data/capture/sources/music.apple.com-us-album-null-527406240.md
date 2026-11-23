@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/null/527406240
+archive: "https://web.archive.org/web/20190722163922/https://music.apple.com/us/album/null/527406240"
 title: ‎Null - Album by Mahmood Schricker - Apple Music
 kind: web page
 language: en

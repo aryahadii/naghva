@@ -1,5 +1,6 @@
 ---
 url: https://eishanensemble.bandcamp.com/track/by-the-mountain
+archive: "https://web.archive.org/web/20250902080746/https://eishanensemble.bandcamp.com/track/by-the-mountain"
 title: By the Mountain | Eishan Ensemble
 kind: web page
 tier: own

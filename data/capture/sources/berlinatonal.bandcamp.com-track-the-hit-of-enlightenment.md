@@ -1,5 +1,6 @@
 ---
 url: https://berlinatonal.bandcamp.com/track/the-hit-of-enlightenment
+archive: "https://web.archive.org/web/20220708155237/https://berlinatonal.bandcamp.com/track/the-hit-of-enlightenment"
 title: The Hit Of Enlightenment | LABOUR | Berlin Atonal Recordings
 status: processed
 language: en

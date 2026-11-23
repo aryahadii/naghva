@@ -1,5 +1,6 @@
 ---
 url: https://badieh.bandcamp.com/track/nane-gol-mammad
+archive: "https://web.archive.org/web/20260604001130/https://badieh.bandcamp.com/track/nane-gol-mammad"
 title: Nane Gol Mammad | Badieh
 kind: web page
 tier: own

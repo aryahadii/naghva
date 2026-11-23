@@ -1,5 +1,6 @@
 ---
 url: https://heliosmusic.bandcamp.com/album/for-la-vol-2
+archive: "https://web.archive.org/web/20260803193717/https://heliosmusic.bandcamp.com/album/for-la-vol-2"
 title: For LA, Vol. 2 | Various | Keith Kenniff + Hollie Kenniff
 kind: web page
 language: en

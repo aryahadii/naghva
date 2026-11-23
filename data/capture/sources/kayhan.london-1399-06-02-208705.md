@@ -1,5 +1,6 @@
 ---
 url: https://kayhan.london/1399/06/02/208705/
+archive: "https://web.archive.org/web/20250714120458/https://kayhan.london/1399/06/02/208705/"
 title: موسیقی ایرانی در دوران کُرونا؛ فعالیت متوقف نمی‌شود... - KayhanLondon کیهان لندن
 tier: journalism
 language: fa

@@ -1,5 +1,6 @@
 ---
 url: https://arshiasamsaminia.bandcamp.com/album/confessions-vol-1
+archive: "https://web.archive.org/web/20251010100434/https://arshiasamsaminia.bandcamp.com/album/confessions-vol-1"
 title: Confessions Vol.1 | Arshia Samsaminia
 kind: web page
 language: en

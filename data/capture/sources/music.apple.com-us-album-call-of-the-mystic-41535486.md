@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/call-of-the-mystic/41535486
+archive: "https://web.archive.org/web/20260319052537/https://music.apple.com/us/album/call-of-the-mystic/41535486"
 title: Call of the Mystic
 tier: discography
 language: en

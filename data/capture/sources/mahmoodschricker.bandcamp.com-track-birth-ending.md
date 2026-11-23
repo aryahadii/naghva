@@ -1,5 +1,6 @@
 ---
 url: https://mahmoodschricker.bandcamp.com/track/birth-ending
+archive: "https://web.archive.org/web/20260205113400/https://mahmoodschricker.bandcamp.com/track/birth-ending"
 title: Birth (ending) | Mahmood Schricker
 kind: web page
 language: en

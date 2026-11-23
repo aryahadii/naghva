@@ -1,5 +1,6 @@
 ---
 url: https://eishanensemble.bandcamp.com/track/invisible-tarab
+archive: "https://web.archive.org/web/20260506045818/https://eishanensemble.bandcamp.com/track/invisible-tarab"
 title: Invisible Tarab | Eishan Ensemble
 kind: web page
 tier: own

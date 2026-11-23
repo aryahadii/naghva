@@ -1,5 +1,6 @@
 ---
 url: https://capelladeministrers.com/en/discography/ritual/
+archive: "https://web.archive.org/web/20260519122632/https://capelladeministrers.com/en/discography/ritual/"
 title: Ritual
 tier: own
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/arefaneha-live-feat-mahdieh-mohammadkhani/1863470656
+archive: "https://web.archive.org/web/20260829164459/https://music.apple.com/us/album/arefaneha-live-feat-mahdieh-mohammadkhani/1863470656"
 title: ‎Arefaneha (Live) [feat. Mahdieh Mohammadkhani] - Album by Arash Fouladvand - Apple Music
 kind: web page
 tier: discography

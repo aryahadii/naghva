@@ -1,5 +1,6 @@
 ---
 url: https://flamingpines.bandcamp.com/track/1896
+archive: "https://web.archive.org/web/20220801152711/https://flamingpines.bandcamp.com/track/1896"
 title: 1896 | Siavash Amini + Umchunga | Flaming Pines
 kind: web page
 language: en

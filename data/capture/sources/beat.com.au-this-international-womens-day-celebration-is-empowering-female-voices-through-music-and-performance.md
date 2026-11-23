@@ -1,5 +1,6 @@
 ---
 url: https://beat.com.au/this-international-womens-day-celebration-is-empowering-female-voices-through-music-and-performance/
+archive: "https://web.archive.org/web/20250802234223/https://beat.com.au/this-international-womens-day-celebration-is-empowering-female-voices-through-music-and-performance/"
 title: This International Women's Day celebration is empowering female voices through music and performance - Beat
   Magazine
 status: processed

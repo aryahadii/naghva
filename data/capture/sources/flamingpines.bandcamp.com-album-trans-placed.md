@@ -1,5 +1,6 @@
 ---
 url: https://flamingpines.bandcamp.com/album/trans-placed
+archive: "https://web.archive.org/web/20251225083130/https://flamingpines.bandcamp.com/album/trans-placed"
 title: trans.placed | Hadi Bastani and Maryam Sirvan | Flaming Pines
 kind: web page
 language: en

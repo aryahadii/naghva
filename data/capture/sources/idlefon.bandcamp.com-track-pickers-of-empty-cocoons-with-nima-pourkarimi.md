@@ -1,5 +1,6 @@
 ---
 url: https://idlefon.bandcamp.com/track/pickers-of-empty-cocoons-with-nima-pourkarimi
+archive: "https://web.archive.org/web/20240330092233/https://idlefon.bandcamp.com/track/pickers-of-empty-cocoons-with-nima-pourkarimi"
 title: Pickers Of Empty Cocoons (with Nima Pourkarimi) | Idlefon
 kind: web page
 language: en

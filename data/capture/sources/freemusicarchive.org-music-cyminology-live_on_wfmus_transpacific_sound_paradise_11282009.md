@@ -1,5 +1,6 @@
 ---
 url: https://freemusicarchive.org/music/Cyminology/Live_on_WFMUs_Transpacific_Sound_Paradise_11282009
+archive: "https://web.archive.org/web/20221003084722/https://freemusicarchive.org/music/Cyminology/Live_on_WFMUs_Transpacific_Sound_Paradise_11282009"
 title: Live on WFMU's Transpacific Sound Paradise 11/28/2009
 tier: own
 language: en

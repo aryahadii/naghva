@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/tolooe-maghrebi-feat-unknown-singer-aida-shahghasemi/1768520295
+archive: "https://web.archive.org/web/20241118010247/https://music.apple.com/us/album/tolooe-maghrebi-feat-unknown-singer-aida-shahghasemi/1768520295"
 title: Tolooe Maghrebi
 tier: discography
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://creativebrimbank.com.au/uploads/general/The-Audition-SHOW-PROGRAM.pdf
+archive: "https://web.archive.org/web/20241015060415/https://creativebrimbank.com.au/uploads/general/The-Audition-SHOW-PROGRAM.pdf"
 title: The Audition programme
 status: processed
 language: en

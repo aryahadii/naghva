@@ -1,5 +1,6 @@
 ---
 url: https://college.berklee.edu/events/summer/memoried-quartet
+archive: "https://web.archive.org/web/20260410155232/https://college.berklee.edu/events/summer/memoried-quartet"
 title: Memoried Quartet | Berklee College of Music
 status: processed
 language: en

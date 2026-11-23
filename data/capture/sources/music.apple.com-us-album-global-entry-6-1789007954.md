@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/global-entry-6/1789007954
+archive: "https://web.archive.org/web/20251207132759/https://music.apple.com/us/album/global-entry-6/1789007954"
 title: Global Entry 6
 tier: discography
 language: en

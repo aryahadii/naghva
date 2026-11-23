@@ -1,5 +1,6 @@
 ---
 url: https://mahmoodschricker.bandcamp.com/track/original-theme-rez-version
+archive: "https://web.archive.org/web/20260205113400/https://mahmoodschricker.bandcamp.com/track/original-theme-rez-version"
 title: Original Theme (Rez Version) | Mahmood Schricker
 kind: web page
 language: en

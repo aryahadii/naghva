@@ -1,5 +1,6 @@
 ---
 url: https://festival.vcmedia.org/2026/movies/1001-frames/
+archive: "https://web.archive.org/web/20260714160556/https://festival.vcmedia.org/2026/movies/1001-frames/"
 title: 1001 FRAMES – 2026 Los Angeles Asian Pacific Film Festival
 kind: web page
 language: en

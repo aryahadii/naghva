@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/iranian-tar-118-shiraz-single/1720546554
+archive: "https://web.archive.org/web/20240808005103/https://music.apple.com/us/album/iranian-tar-118-shiraz-single/1720546554"
 title: Iranian Tar-118 (Shiraz) - Single
 tier: discography
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/call-it-love-single/1100443913
+archive: "https://web.archive.org/web/20190719041529/https://music.apple.com/us/album/call-it-love-single/1100443913"
 title: ‎Call It Love - Single - Album by Mahmood Schricker - Apple Music
 kind: web page
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://gulbenkian.pt/musica/en/agenda/badieh-samin-ghorbani/
+archive: "https://web.archive.org/web/20250119140044/https://gulbenkian.pt/musica/en/agenda/badieh-samin-ghorbani/"
 title: Badieh – Gulbenkian Música
 kind: web page
 tier: own

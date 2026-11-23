@@ -1,5 +1,6 @@
 ---
 url: https://agakhanmuseum.org/bio/padideh-ahrarnejad-trio/
+archive: "https://web.archive.org/web/20260609181820/https://agakhanmuseum.org/bio/padideh-ahrarnejad-trio/"
 title: Mahni | Aga Khan Museum
 kind: web page
 language: en

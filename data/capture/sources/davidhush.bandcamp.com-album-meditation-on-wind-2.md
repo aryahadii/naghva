@@ -1,5 +1,6 @@
 ---
 url: https://davidhush.bandcamp.com/album/meditation-on-wind-2
+archive: "https://web.archive.org/web/20220625213350/https://davidhush.bandcamp.com/album/meditation-on-wind-2"
 title: Meditation on Wind | David Hush & Hamed Sadeghi | David Hush
 kind: web page
 tier: own

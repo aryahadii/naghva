@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/sufiyan/323661365
+archive: "https://web.archive.org/web/20240616175254/https://music.apple.com/us/album/sufiyan/323661365"
 title: Sufiyan
 tier: discography
 language: en

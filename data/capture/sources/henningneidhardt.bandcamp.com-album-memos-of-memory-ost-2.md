@@ -1,5 +1,6 @@
 ---
 url: https://henningneidhardt.bandcamp.com/album/memos-of-memory-ost-2
+archive: "https://web.archive.org/web/20250422114431/https://henningneidhardt.bandcamp.com/album/memos-of-memory-ost-2"
 title: Memos Of Memory (OST) | Henning Neidhardt Trio feat. Lea Pleines, Qin Tang, Shabnam Parvaresh | Henning Neidhardt
 status: processed
 language: en

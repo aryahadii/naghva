@@ -1,5 +1,6 @@
 ---
 url: https://avarasti.bandcamp.com/track/tehran
+archive: "https://web.archive.org/web/20261018225211/https://avarasti.bandcamp.com/track/tehran"
 title: Tehran | Ava Rasti
 kind: web page
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://hamedsadeghi.bandcamp.com/album/a-prelude-to-silence
+archive: "https://web.archive.org/web/20251002062958/https://hamedsadeghi.bandcamp.com/album/a-prelude-to-silence"
 title: A Prelude To Silence | Hamed Sadeghi
 kind: web page
 tier: own

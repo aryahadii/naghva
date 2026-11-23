@@ -1,5 +1,6 @@
 ---
 url: https://metalnation.com/heavy-as-texas-featuring-members-of-exhorder-drops-energetic-video-for-king-of-fools/
+archive: "https://web.archive.org/web/20260712185427/https://metalnation.com/heavy-as-texas-featuring-members-of-exhorder-drops-energetic-video-for-king-of-fools/"
 title: HEAVY AS TEXAS, Featuring Members of Exhorder, Drops Energetic Video for 'King of Fools' - Metal Nation
 tier: own
 language: en

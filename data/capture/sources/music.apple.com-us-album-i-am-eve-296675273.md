@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/i-am-eve/296675273
+archive: "https://web.archive.org/web/20261115163954/https://music.apple.com/us/album/i-am-eve/296675273"
 title: I Am Eve
 tier: discography
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://casualtyprocess.bandcamp.com/album/it-takes-time
+archive: "https://web.archive.org/web/20240418191619/https://casualtyprocess.bandcamp.com/album/it-takes-time"
 title: It Takes Time | Casualty Process
 kind: web page
 tier: own

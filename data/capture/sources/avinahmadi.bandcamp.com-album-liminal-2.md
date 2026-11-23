@@ -1,5 +1,6 @@
 ---
 url: https://avinahmadi.bandcamp.com/album/liminal-2
+archive: "https://web.archive.org/web/20251027144537/https://avinahmadi.bandcamp.com/album/liminal-2"
 title: Liminal | Avin Ahmadi
 tier: discography
 language: en

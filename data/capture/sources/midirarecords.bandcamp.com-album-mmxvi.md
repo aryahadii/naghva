@@ -1,5 +1,6 @@
 ---
 url: https://midirarecords.bandcamp.com/album/mmxvi
+archive: "https://web.archive.org/web/20221203053342/https://midirarecords.bandcamp.com/album/mmxvi"
 title: MMXVI | Midira Records
 status: processed
 language: en

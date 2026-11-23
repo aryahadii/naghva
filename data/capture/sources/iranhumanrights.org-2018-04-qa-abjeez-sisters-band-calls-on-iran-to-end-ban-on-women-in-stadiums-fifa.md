@@ -1,5 +1,6 @@
 ---
 url: https://iranhumanrights.org/2018/04/qa-abjeez-sisters-band-calls-on-iran-to-end-ban-on-women-in-stadiums-fifa/
+archive: "https://web.archive.org/web/20260808062128/https://iranhumanrights.org/2018/04/qa-abjeez-sisters-band-calls-on-iran-to-end-ban-on-women-in-stadiums-fifa/"
 title: 'Q&A: Abjeez Sisters Band Calls on Iran to End Ban on Women in Stadiums'
 tier: journalism
 language: en

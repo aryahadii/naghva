@@ -1,5 +1,6 @@
 ---
 url: https://marzimontazeri1.bandcamp.com/album/the-uprising
+archive: "https://web.archive.org/web/20250825044414/https://marzimontazeri1.bandcamp.com/album/the-uprising"
 title: The Uprising | Marzi Montazeri
 tier: own
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://mikeblock.bandcamp.com/album/guzo
+archive: "https://web.archive.org/web/20240523004302/https://mikeblock.bandcamp.com/album/guzo"
 title: GUZO | Mike Block
 tier: own
 language: en

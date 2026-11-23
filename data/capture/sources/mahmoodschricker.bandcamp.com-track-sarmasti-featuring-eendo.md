@@ -1,5 +1,6 @@
 ---
 url: https://mahmoodschricker.bandcamp.com/track/sarmasti-featuring-eendo
+archive: "https://web.archive.org/web/20220808043426/https://mahmoodschricker.bandcamp.com/track/sarmasti-featuring-eendo"
 title: Sarmasti featuring Eendo | Mahmood Schricker
 kind: web page
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://kopirecs.bandcamp.com/album/molehead
+archive: "https://web.archive.org/web/20250302160156/https://kopirecs.bandcamp.com/album/molehead"
 title: Molehead ملحد | ArtSaves | Kopi Records
 kind: web page
 language: en

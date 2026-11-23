@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/redemption/1728282095
+archive: "https://web.archive.org/web/20261102135906/https://music.apple.com/us/album/redemption/1728282095"
 title: Redemption
 tier: discography
 language: en

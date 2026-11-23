@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/artist/sepideh-meshki/915176615
+archive: "https://web.archive.org/web/20260711203600/https://music.apple.com/us/artist/sepideh-meshki/915176615"
 title: ‎Sepideh Meshki - Apple Music
 status: processed
 language: en

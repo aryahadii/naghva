@@ -1,5 +1,6 @@
 ---
 url: https://ajammusic.com/Ajam-discography/rag-o-risheh-roots-and-veins/
+archive: "https://web.archive.org/web/20260812090303/https://ajammusic.com/Ajam-discography/rag-o-risheh-roots-and-veins/"
 title: Ajam Music |   Rag o Risheh (Roots and Veins)
 status: processed
 language: en

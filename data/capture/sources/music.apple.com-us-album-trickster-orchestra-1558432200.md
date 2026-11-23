@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/trickster-orchestra/1558432200
+archive: "https://web.archive.org/web/20210530115518/https://music.apple.com/us/album/trickster-orchestra/1558432200"
 title: ‎Trickster Orchestra - Album by Cymin Samawatie, Ketan Bhatti & Trickster Orchestra - Apple Music
 tier: discography
 language: en

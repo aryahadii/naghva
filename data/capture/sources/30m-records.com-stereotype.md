@@ -1,5 +1,6 @@
 ---
 url: https://30m-records.com/stereotype/
+archive: "https://web.archive.org/web/20260513160307/https://30m-records.com/stereotype/"
 title: Stereotype on 30M! – 30M Records
 kind: web page
 language: en

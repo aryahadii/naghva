@@ -1,5 +1,6 @@
 ---
 url: https://eishanensemble.bandcamp.com/track/signs
+archive: "https://web.archive.org/web/20250827000811/https://eishanensemble.bandcamp.com/track/signs"
 title: Signs | Eishan Ensemble
 kind: web page
 tier: own

@@ -1,5 +1,6 @@
 ---
 url: https://archive.sampsoniaway.org/blog/2012/07/11/to-break-free-and-confront-the-world-the-casualty-process-interview/
+archive: "https://web.archive.org/web/20260615175700/http://archive.sampsoniaway.org/blog/2012/07/11/to-break-free-and-confront-the-world-the-casualty-process-interview/"
 title: '“To break free and confront the world”: The Casualty Process Interview'
 kind: interview
 tier: journalism

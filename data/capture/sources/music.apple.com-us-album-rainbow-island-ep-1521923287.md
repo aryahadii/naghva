@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/rainbow-island-ep/1521923287
+archive: "https://web.archive.org/web/20240910194816/https://music.apple.com/us/album/rainbow-island-ep/1521923287"
 title: Rainbow Island - EP
 tier: discography
 language: en

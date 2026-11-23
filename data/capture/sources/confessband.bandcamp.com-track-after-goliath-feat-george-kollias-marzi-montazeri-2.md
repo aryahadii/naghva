@@ -1,5 +1,6 @@
 ---
 url: https://confessband.bandcamp.com/track/after-goliath-feat-george-kollias-marzi-montazeri-2
+archive: "https://web.archive.org/web/20251012162332/https://confessband.bandcamp.com/track/after-goliath-feat-george-kollias-marzi-montazeri-2"
 title: After Goliath (feat. George Kollias, Marzi Montazeri) | Confess
 tier: own
 language: en

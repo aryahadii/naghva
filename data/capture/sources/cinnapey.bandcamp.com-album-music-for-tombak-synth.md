@@ -1,5 +1,6 @@
 ---
 url: https://cinnapey.bandcamp.com/album/music-for-tombak-synth
+archive: "https://web.archive.org/web/20261005230805/https://cinnapey.bandcamp.com/album/music-for-tombak-synth"
 title: Music For Tombak & Synth | Cinna Peyghamy
 kind: web page
 language: en

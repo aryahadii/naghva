@@ -1,5 +1,6 @@
 ---
 url: https://ir.voanews.com/a/iran-music/3135066.html
+archive: "https://web.archive.org/web/20260607164114/https://ir.voanews.com/a/iran-music/3135066.html"
 title: گفتگو با سرپرست گروه "کُر بهار" یکی از بزرگترین گروه های موسیقی ایرانی خارج از کشور
 kind: web page
 tier: journalism

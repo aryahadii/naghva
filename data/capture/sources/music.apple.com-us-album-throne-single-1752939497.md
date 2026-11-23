@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/throne-single/1752939497
+archive: "https://web.archive.org/web/20240910194816/https://music.apple.com/us/album/throne-single/1752939497"
 title: Throne - Single
 tier: discography
 language: en

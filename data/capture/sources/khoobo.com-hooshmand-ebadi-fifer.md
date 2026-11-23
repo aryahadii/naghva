@@ -1,5 +1,6 @@
 ---
 url: https://khoobo.com/hooshmand-ebadi-fifer/
+archive: "https://web.archive.org/web/20251110232022/https://khoobo.com/hooshmand-ebadi-fifer/"
 title: دانلود آلبوم نایی (احوالات شخصی ۱۲) از هوشمند عبادی - خوبو
 tier: journalism
 language: fa

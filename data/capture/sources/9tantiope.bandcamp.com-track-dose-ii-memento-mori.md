@@ -1,5 +1,6 @@
 ---
 url: https://9tantiope.bandcamp.com/track/dose-ii-memento-mori
+archive: "https://web.archive.org/web/20250823060115/https://9tantiope.bandcamp.com/track/dose-ii-memento-mori"
 title: Dose II (Memento Mori) | 9T Antiope
 kind: web page
 language: en

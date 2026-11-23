@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/walk-through-exits-only/657009127
+archive: "https://web.archive.org/web/20260904030903/https://music.apple.com/us/album/walk-through-exits-only/657009127"
 title: Walk Through Exits Only
 tier: discography
 language: en

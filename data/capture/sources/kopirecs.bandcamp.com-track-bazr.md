@@ -1,5 +1,6 @@
 ---
 url: https://kopirecs.bandcamp.com/track/bazr
+archive: "https://web.archive.org/web/20241211184424/https://kopirecs.bandcamp.com/track/bazr"
 title: Bazr | ArtSaves | Kopi Records
 kind: web page
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://finchesband.bandcamp.com/track/shame
+archive: "https://web.archive.org/web/20251025214337/https://finchesband.bandcamp.com/track/shame"
 title: Shame | The Finches
 kind: web page
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://lowen.bandcamp.com/album/a-crypt-in-the-stars
+archive: "https://web.archive.org/web/20260209213226/https://lowen.bandcamp.com/album/a-crypt-in-the-stars"
 title: A Crypt in the Stars | Lowen
 tier: own
 language: en

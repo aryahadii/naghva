@@ -1,5 +1,6 @@
 ---
 url: https://avarasti.bandcamp.com/track/eruption
+archive: "https://web.archive.org/web/20240927095959/https://avarasti.bandcamp.com/track/eruption"
 title: Eruption | Ava Rasti
 kind: web page
 language: en

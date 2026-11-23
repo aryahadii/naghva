@@ -1,5 +1,6 @@
 ---
 url: https://aidanosrat.com/about-me/
+archive: "https://web.archive.org/web/20260807112119/https://aidanosrat.com/about-me/"
 title: About me – Aida Nosrat
 tier: own
 language: en

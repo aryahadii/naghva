@@ -1,5 +1,6 @@
 ---
 url: https://khoobo.com/soheil-hosnavi-turbulence/
+archive: "https://web.archive.org/web/20250427221749/https://khoobo.com/soheil-hosnavi-turbulence/"
 title: دانلود آلبوم تلاطم از سهیل حسنوی - خوبو
 status: processed
 language: en

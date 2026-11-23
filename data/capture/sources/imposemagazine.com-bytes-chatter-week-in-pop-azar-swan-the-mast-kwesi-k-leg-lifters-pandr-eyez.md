@@ -1,5 +1,6 @@
 ---
 url: https://imposemagazine.com/bytes/chatter/week-in-pop-azar-swan-the-mast-kwesi-k-leg-lifters-pandr-eyez
+archive: "https://web.archive.org/web/20240719023043/https://www.imposemagazine.com/bytes/chatter/week-in-pop-azar-swan-the-mast-kwesi-k-leg-lifters-pandr-eyez"
 title: IMPOSE | Interview with The Mast
 tier: journalism
 language: en

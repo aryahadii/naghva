@@ -1,5 +1,6 @@
 ---
 url: https://cinnapey.bandcamp.com/track/sympathetic-fillings
+archive: "https://web.archive.org/web/20261115151217/https://cinnapey.bandcamp.com/track/sympathetic-fillings"
 title: Sympathetic Fillings | Cinna Peyghamy
 kind: web page
 language: en

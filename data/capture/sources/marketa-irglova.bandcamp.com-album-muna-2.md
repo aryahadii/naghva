@@ -1,5 +1,6 @@
 ---
 url: https://marketa-irglova.bandcamp.com/album/muna-2
+archive: "https://web.archive.org/web/20260208094241/https://marketa-irglova.bandcamp.com/album/muna-2"
 title: MUNA | Marketa Irglova
 tier: own
 language: en

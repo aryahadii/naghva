@@ -1,5 +1,6 @@
 ---
 url: https://confessband.bandcamp.com/album/revenge-at-all-costs
+archive: "https://web.archive.org/web/20260922194029/https://confessband.bandcamp.com/album/revenge-at-all-costs"
 title: Revenge At All Costs | Confess
 tier: own
 language: en

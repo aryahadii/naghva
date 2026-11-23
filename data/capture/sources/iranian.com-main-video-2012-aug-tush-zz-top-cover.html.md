@@ -1,5 +1,6 @@
 ---
 url: https://iranian.com/main/video/2012/aug/tush-zz-top-cover.html
+archive: "https://web.archive.org/web/20260522162804/http://iranian.com/main/video/2012/aug/tush-zz-top-cover.html"
 title: Tush (ZZ Top Cover)  | Iranian.com
 kind: web page
 tier: journalism

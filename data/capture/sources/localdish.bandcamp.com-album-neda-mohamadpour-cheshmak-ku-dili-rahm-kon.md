@@ -1,5 +1,6 @@
 ---
 url: https://localdish.bandcamp.com/album/neda-mohamadpour-cheshmak-ku-dili-rahm-kon
+archive: "https://web.archive.org/web/20250602005306/https://localdish.bandcamp.com/album/neda-mohamadpour-cheshmak-ku-dili-rahm-kon"
 title: NEDA MOHAMADPOUR & CHESHMAK - Kuş Dili // Rahm Kon | Neda Mohamadpour & Cheshmak | Local Dish
 kind: web page
 language: en

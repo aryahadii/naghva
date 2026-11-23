@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/station-two/1749103609
+archive: "https://web.archive.org/web/20261115142449/https://music.apple.com/us/album/station-two/1749103609"
 title: Station Two - Album by Quartet Diminished - Apple Music
 language: en
 tier: discography

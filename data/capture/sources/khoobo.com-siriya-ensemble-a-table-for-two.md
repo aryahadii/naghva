@@ -1,5 +1,6 @@
 ---
 url: https://khoobo.com/siriya-ensemble-a-table-for-two/
+archive: "https://web.archive.org/web/20251115022336/https://khoobo.com/siriya-ensemble-a-table-for-two/"
 title: دانلود آلبوم میز دوتایی از گروه سیریا - خوبو
 tier: discography
 language: fa

@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/engheza-single/1805232281
+archive: "https://web.archive.org/web/20260302054439/https://music.apple.com/us/album/engheza-single/1805232281"
 title: Engheza - Single
 tier: discography
 language: en

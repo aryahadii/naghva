@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/behind-a-mask/1095757201
+archive: "https://web.archive.org/web/20190715001141/https://music.apple.com/us/album/behind-a-mask/1095757201"
 title: ‎Behind a Mask - Album by Louna - Apple Music
 kind: web page
 tier: discography

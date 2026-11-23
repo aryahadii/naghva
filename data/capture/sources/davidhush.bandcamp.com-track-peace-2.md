@@ -1,5 +1,6 @@
 ---
 url: https://davidhush.bandcamp.com/track/peace-2
+archive: "https://web.archive.org/web/20220625213624/https://davidhush.bandcamp.com/track/peace-2"
 title: Peace | David Hush & Hamed Sadeghi | David Hush
 kind: web page
 tier: own

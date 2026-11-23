@@ -1,5 +1,6 @@
 ---
 url: https://exhorder.bandcamp.com/album/mourn-the-southern-skies
+archive: "https://web.archive.org/web/20250405023754/https://exhorder.bandcamp.com/album/mourn-the-southern-skies"
 title: Mourn The Southern Skies
 tier: own
 language: en

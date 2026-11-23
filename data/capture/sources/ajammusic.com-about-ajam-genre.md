@@ -1,5 +1,6 @@
 ---
 url: https://ajammusic.com/about-ajam/genre/
+archive: "https://web.archive.org/web/20260812082346/http://ajammusic.com/about-ajam/genre/"
 title: Ajam Music |   Genre
 status: processed
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://daily.redbullmusicacademy.com/2018/03/rbma-2018-participants/
+archive: "https://web.archive.org/web/20250917080628/https://daily.redbullmusicacademy.com/2018/03/rbma-2018-participants/"
 title: Meet the Participants of Red Bull Music Academy’s 20th Anniversary Edition | Red Bull Music Academy Daily
 kind: web page
 language: en

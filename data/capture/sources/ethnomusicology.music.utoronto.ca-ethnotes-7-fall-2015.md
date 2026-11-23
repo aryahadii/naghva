@@ -1,5 +1,6 @@
 ---
 url: https://ethnomusicology.music.utoronto.ca/wp-content/uploads/2019/10/Ethnotes07.pdf
+archive: "https://web.archive.org/web/20250810113429/http://ethnomusicology.music.utoronto.ca/wp-content/uploads/2019/10/Ethnotes07.pdf"
 title: Ethnotes, issue 7, fall 2015
 kind: web page
 tier: own

@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/assassins-creed-mirage-original-game-soundtrack/1706138098
+archive: "https://web.archive.org/web/20260921213205/https://music.apple.com/us/album/assassins-creed-mirage-original-game-soundtrack/1706138098"
 title: ‎Assassin's Creed Mirage (Original Game Soundtrack) - Album by Brendan Angelides - Apple Music
 status: processed
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://hysterrae.bandcamp.com/track/aziz-djun
+archive: "https://web.archive.org/web/20260221104551/https://hysterrae.bandcamp.com/track/aziz-djun"
 title: Aziz djun | Hysterrae
 kind: web page
 tier: own

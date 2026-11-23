@@ -1,5 +1,6 @@
 ---
 url: https://avinahmadi.bandcamp.com/track/dopelk
+archive: "https://web.archive.org/web/20240903081952/https://avinahmadi.bandcamp.com/track/dopelk"
 title: Dopelk | Avin Ahmadi
 tier: discography
 language: en

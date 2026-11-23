@@ -1,5 +1,6 @@
 ---
 url: https://montreal.mutek.org/en/artists/idlefon-amir-b-ash
+archive: "https://web.archive.org/web/20241207053203/https://montreal.mutek.org/en/artists/idlefon-amir-b-ash"
 title: Idlefon + Amir B. Ash | MUTEK Montréal
 kind: web page
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/bimeye-omr-single/1616857100
+archive: "https://web.archive.org/web/20260302040037/https://music.apple.com/us/album/bimeye-omr-single/1616857100"
 title: Bimeye Omr - Single
 tier: discography
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://33rpmvoices.bandcamp.com/album/33rpm-voices-of-the-revolution
+archive: "https://web.archive.org/web/20250108120349/https://33rpmvoices.bandcamp.com/album/33rpm-voices-of-the-revolution"
 title: 33RPM - Voices of the Revolution | 33RPM - Voices of the Revolution
 kind: web page
 tier: own

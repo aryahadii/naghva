@@ -1,5 +1,6 @@
 ---
 url: https://linkmusiclab.bandcamp.com/album/dastg-machine-b-zs-zi
+archive: "https://web.archive.org/web/20260202130716/https://linkmusiclab.bandcamp.com/album/dastg-machine-b-zs-zi"
 title: DASTGÂMACHINE — BÂZSÂZI | Mahmood Schricker, Caleb Klager, Jason Rule, Raf Reza | Link Music Lab Records
 kind: web page
 language: en

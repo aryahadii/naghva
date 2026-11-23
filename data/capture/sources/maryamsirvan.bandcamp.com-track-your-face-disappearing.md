@@ -1,5 +1,6 @@
 ---
 url: https://maryamsirvan.bandcamp.com/track/your-face-disappearing
+archive: "https://web.archive.org/web/20250608233809/https://maryamsirvan.bandcamp.com/track/your-face-disappearing"
 title: Your Face Disappearing | Maryam Sirvan
 kind: web page
 language: en

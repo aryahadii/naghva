@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/sing-freedom-club-mix-single/1729005210
+archive: "https://web.archive.org/web/20260119171847/https://music.apple.com/us/album/sing-freedom-club-mix-single/1729005210"
 title: Sing (Freedom Club Mix) - Single
 tier: discography
 language: en

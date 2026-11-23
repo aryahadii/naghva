@@ -1,5 +1,6 @@
 ---
 url: https://flagdayrecordings.bandcamp.com/track/mass-for-the-living
+archive: "https://web.archive.org/web/20260410073253/https://flagdayrecordings.bandcamp.com/track/mass-for-the-living"
 title: Mass for the Living | Maryam Sirvan | Flag Day Recordings
 kind: web page
 language: en

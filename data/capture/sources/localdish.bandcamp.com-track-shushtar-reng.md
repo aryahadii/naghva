@@ -1,5 +1,6 @@
 ---
 url: https://localdish.bandcamp.com/track/shushtar-reng
+archive: "https://web.archive.org/web/20260208205906/https://localdish.bandcamp.com/track/shushtar-reng"
 title: Shushtar Reng | Cheshmak | Local Dish
 kind: web page
 language: en

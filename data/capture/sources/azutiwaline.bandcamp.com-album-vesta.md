@@ -1,5 +1,6 @@
 ---
 url: https://azutiwaline.bandcamp.com/album/vesta
+archive: "https://web.archive.org/web/20260716040548/https://azutiwaline.bandcamp.com/album/vesta"
 title: Vesta | Azu Tiwaline
 kind: web page
 language: en

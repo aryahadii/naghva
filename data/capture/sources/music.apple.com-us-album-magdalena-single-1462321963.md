@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/magdalena-single/1462321963
+archive: "https://web.archive.org/web/20261102135906/https://music.apple.com/us/album/magdalena-single/1462321963"
 title: Magdalena - Single
 tier: discography
 language: en
