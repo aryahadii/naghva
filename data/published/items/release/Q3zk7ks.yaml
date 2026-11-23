@@ -1,0 +1,77 @@
+id: Q3zk7ks
+type: release
+statements:
+  name:
+  - value:
+      text: The New Normal
+      language: en
+    references:
+    - source: stereotypeduo.bandcamp.com-track-the-new-normal
+      quote: The New Normal | Stereotype
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Q6g9xwf
+    references:
+    - source: stereotypeduo.bandcamp.com-track-the-new-normal
+      quote: The New Normal | Stereotype
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qb5hnjh
+    references:
+    - source: 30m-records.com-stereotype
+      quote: Xeen, producing and playing the electronics
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: electronics
+  - value: Qh6s4f5
+    references:
+    - source: 30m-records.com-stereotype
+      quote: Meshcut, vocalist and synthesizer player
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://stereotypeduo.bandcamp.com/track/the-new-normal
+    references:
+    - source: stereotypeduo.bandcamp.com-track-the-new-normal
+      quote: The New Normal | Stereotype
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/album/7zbGa4EjRjMAYMZgyMF4Ly
+    references:
+    - source: open.spotify.com-album-7zbga4ejrjmaymzgymf4ly
+      quote: Listen to The New Normal - Single by Stereotype | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/4SwycZVpQrZaw1vRtloeC9
+    references:
+    - source: open.spotify.com-track-4swyczvpqrzaw1vrtloec9
+      quote: The New Normal - song and lyrics by Stereotype | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1525140394
+    references:
+    - source: music.apple.com-us-song-1525140394
+      quote: ‎The New Normal - Song with Lyrics by Stereotype - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a3250344963_10.jpg
+    references:
+    - source: stereotypeduo.bandcamp.com-track-the-new-normal
+      quote: https://f4.bcbits.com/img/a3250344963_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Publisher artwork
+        language: en
+  release date:
+  - value:
+      date: '2020-07-30'
+    references:
+    - source: stereotypeduo.bandcamp.com-track-the-new-normal
+      quote: released July 30, 2020
+      accessed: '2026-11-21'
+      locator: Published date
