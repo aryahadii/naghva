@@ -1,3 +1,4 @@
+import { localOrigin } from './server';
 import { gunzipSync } from 'node:zlib';
 import type { Page, Request } from '@playwright/test';
 
@@ -41,7 +42,7 @@ export async function observe(page: Page, enabled = true, replayEnabled = true, 
         masking: { maskAllInputs: false, maskTextSelector: null },
       } : false, capturePerformance: { network_timing: true, web_vitals: true } } });
     } else if ([site, 'https://naqva.com', 'https://preview.example'].includes(url.origin)) {
-      const response = await route.fetch({ url: `http://127.0.0.1:4322${url.pathname}${url.search}` }).catch((error) => {
+      const response = await route.fetch({ url: `${localOrigin}${url.pathname}${url.search}` }).catch((error) => {
         // A late static asset can still be in flight when Playwright ends a
         // completed test. Ignore only that cancellation; routing stays active
         // throughout teardown, so no analytics can escape to the real service.

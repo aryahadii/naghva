@@ -1,3 +1,4 @@
+import { localOrigin } from './server';
 import { expect, test, type Page, type Route } from '@playwright/test';
 
 // Interactions exercise the built site; external artwork availability must not
@@ -77,7 +78,7 @@ for (const lang of ['en', 'fa']) {
     const context = await browser.newContext({ javaScriptEnabled: false });
     await context.route('**/*', localOnly);
     const plain = await context.newPage();
-    await plain.goto(`http://127.0.0.1:4322/${lang}/artists/`);
+    await plain.goto(`${localOrigin}/${lang}/artists/`);
     await expect(plain.locator('#directory-list > li:visible')).toHaveCount(count);
     await plain.locator(`#directory-list a[href="${artist(lang)}"]`).click();
     await expect(plain).toHaveURL(new RegExp(artist(lang)));
@@ -172,11 +173,39 @@ test('quick search shows a few suggestions and a working all-results link', asyn
   await page.getByRole('combobox').fill('a');
   const options = page.locator('.search-panel [role=option]');
   await expect(options.first()).toBeVisible();
-  expect(await options.count()).toBeLessThanOrEqual(8);
+  const count = await options.count();
+  expect(count).toBeLessThanOrEqual(8);
   await page.locator('.search-all').click();
-  await expect(page).toHaveURL(/\/en\/search\/\?q=a&page=1/);
-  expect(await page.locator('#results-list > li').count()).toBeGreaterThanOrEqual(await options.count());
+  await expect(page).toHaveURL('/en/search/?q=a&page=1');
+  await expect(page.locator('#results-list > li').nth(count - 1)).toBeVisible();
 });
+
+for (const lang of ['en', 'fa']) {
+  test(`${lang}: quick search supports keyboard retry and all-results navigation`, async ({ page }) => {
+    await page.route('**/search.json', (route) => route.fulfill({ status: 503 }), { times: 1 });
+    await page.goto(`/${lang}/`);
+    await page.locator('astro-island:not([ssr])').waitFor();
+    const input = page.getByRole('combobox');
+    await input.fill('a');
+    const retry = page.locator('.search-panel button');
+    await expect(retry).toBeVisible();
+    await input.press('Tab');
+    await expect(retry).toBeFocused();
+    await retry.press('Enter');
+    await expect(input).toBeFocused();
+
+    const options = page.locator('.search-panel [role=option]');
+    await expect(options.first()).toBeVisible();
+    const count = await options.count();
+    expect(count).toBeLessThanOrEqual(8);
+    const all = page.locator('.search-all');
+    await input.press('Tab');
+    await expect(all).toBeFocused();
+    await all.press('Enter');
+    await expect(page).toHaveURL(`/${lang}/search/?q=a&page=1`);
+    await expect(page.locator('#results-list > li').nth(count - 1)).toBeVisible();
+  });
+}
 
 test('search loading and retry survive interrupted requests', async ({ page }) => {
   let fail = true;

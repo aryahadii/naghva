@@ -335,6 +335,20 @@ class TimelineIdentityTests(unittest.TestCase):
         repeated = derive.timeline(items)
         self.assertTrue(all(len(e["about"]) == len(set(e["about"])) for e in repeated))
 
+    def test_dated_special_values_do_not_create_timeline_events(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp) / "examples"
+            shutil.copytree(EXAMPLES, root)
+            for item_id, kind, prop, value in ((BAND, "act", "life event", "unknown value"),
+                                              (NIMA, "person", "member of", "no value")):
+                path = root / "published/items" / kind / (item_id + ".yaml")
+                item = ds.load_yaml(path)
+                item["statements"][prop][0]["value"] = value
+                path.write_text(yaml.safe_dump(item, allow_unicode=True))
+            record = derive.derive(root)
+            self.assertFalse(any(e["kind"] in ("life", "joined", "left") for e in record["timeline"]))
+            self.assertEqual(record["items"][BAND]["statements"]["life event"][0]["value"], "unknown value")
+
     def test_duplicate_membership_identity_is_rejected(self):
         items = copy.deepcopy(derive.derive(EXAMPLES)["items"])
         membership = items[NIMA]["statements"]["member of"]
@@ -372,6 +386,15 @@ class OutputTransactionTests(unittest.TestCase):
             item.write_text(item.read_text().replace("type: act", "type: invalid"))
             self.assertEqual(derive.main(args), 1)
             self.assertEqual((out.read_bytes(), ledger.read_bytes()), before)
+
+    def test_wrong_data_root_does_not_replace_the_record(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            out = Path(tmp) / "record.json"
+            out.write_text('{"existing":true}')
+            for root in (Path(tmp), Path(tmp) / "missing"):
+                with self.subTest(root=root):
+                    self.assertEqual(derive.main(["--root", str(root), "--out", str(out)]), 1)
+                    self.assertEqual(out.read_text(), '{"existing":true}')
 
     def test_concurrent_invocations_retain_both_address_reservations(self):
         # Different records share a ledger, just as two CLI output destinations
