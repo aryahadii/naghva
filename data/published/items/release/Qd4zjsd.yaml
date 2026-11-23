@@ -1,0 +1,56 @@
+id: Qd4zjsd
+type: release
+statements:
+  name:
+  - value:
+      text: Aroose Noghreh Poosh - Single
+      language: en
+    references:
+    - source: open.spotify.com-album-3ro9usf46ifaeukw0q64oq
+      quote: Aroose Noghreh Poosh
+      accessed: '2026-11-21'
+      locator: Single title
+    - source: open.spotify.com-album-3ro9usf46ifaeukw0q64oq
+      quote: Single
+      accessed: '2026-11-21'
+      locator: Release type
+  release type:
+  - value: single
+    references:
+    - source: open.spotify.com-album-3ro9usf46ifaeukw0q64oq
+      quote: Single
+      accessed: '2026-11-21'
+      locator: Release type
+  performer:
+  - value: Qj92kqa
+    references:
+    - source: open.spotify.com-album-3ro9usf46ifaeukw0q64oq
+      quote: Mitra Sumara
+      accessed: '2026-11-21'
+      locator: Primary artist
+  listen link:
+  - value: https://open.spotify.com/album/3Ro9USF46IfaEuKw0Q64oq
+    references:
+    - source: open.spotify.com-album-3ro9usf46ifaeukw0q64oq
+      quote: Aroose Noghreh Poosh
+      accessed: '2026-11-21'
+      locator: Single title
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d00001e02db429cd0b9fc0d07f67ef37c
+    references:
+    - source: open.spotify.com-album-3ro9usf46ifaeukw0q64oq
+      quote: https://i.scdn.co/image/ab67616d00001e02db429cd0b9fc0d07f67ef37c
+      accessed: '2026-11-21'
+      locator: Single artwork
+    qualifiers:
+      credit:
+        text: Persian Cardinal Recordings, via Spotify
+        language: en
+  release date:
+  - value:
+      date: '2023-09-29'
+    references:
+    - source: www.youtube.com-watchv-ko6wmctw4cy
+      quote: 'Released on: 2023-09-29'
+      accessed: '2026-11-21'
+      locator: Video description
