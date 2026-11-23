@@ -1,3 +1,4 @@
+import { localOrigin } from './server';
 import { expect, test, type Page } from '@playwright/test';
 import { observe, site, ingestion } from './analytics-fixture';
 
@@ -172,7 +173,7 @@ for (const scenario of ['missing configuration', 'preview', 'preview canonical',
     const { analyticsRequests } = await observe(page, scenario !== 'missing configuration', true, scenario === 'preview canonical' ? 'https://preview.example' : site);
     if (scenario === 'DNT') await page.addInitScript(() => Object.defineProperty(navigator, 'doNotTrack', { value: '1' }));
     if (scenario === 'GPC') await page.addInitScript(() => Object.defineProperty(navigator, 'globalPrivacyControl', { value: true }));
-    const origin = scenario === 'preview' ? 'https://preview.example' : scenario === 'localhost' ? 'http://127.0.0.1:4322' : site;
+    const origin = scenario === 'preview' ? 'https://preview.example' : scenario === 'localhost' ? localOrigin : site;
     await page.goto(`${origin}/en/`);
     await page.locator('astro-island:not([ssr])').first().waitFor();
     await page.getByRole('combobox').fill('sanam maroufkhani');

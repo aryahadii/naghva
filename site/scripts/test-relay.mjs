@@ -33,6 +33,17 @@ test('event posts reach PostHog EU with the visitor IP and without cookies or ot
   });
 }));
 
+test('privacy headers suppress the event before it reaches PostHog', () => withUpstream(async (calls) => {
+  for (const header of ['DNT', 'Sec-GPC']) {
+    const response = await relay(post('https://naghva.com/relay/e/', 'event', { [header]: '1' }));
+    assert.equal(response.status, 204);
+    assert.equal(response.headers.get('cache-control'), 'no-store');
+  }
+  assert.equal(calls.length, 0);
+  await relay(post('https://naghva.com/relay/e/', 'event', { DNT: '0' }));
+  assert.equal(calls.length, 1);
+}));
+
 test('the relay forwards nothing but event posts', () => withUpstream(async (calls) => {
   for (const [url, method, status] of [
     ['https://naghva.com/relay/flags/', 'POST', 404],

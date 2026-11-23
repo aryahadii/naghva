@@ -59,6 +59,12 @@ class RoleKindTests(unittest.TestCase):
         self.assertEqual(len(errors), 1, errors)
         self.assertIn("performer[1]: `producer` is a creation role; it belongs under contributor", errors[0])
 
+    def test_wrong_role_value_reports_its_kind(self):
+        self.edit("role: [composer, lyricist]", 'role: {text: composer, language: en}')
+        errors = self.errors()
+        self.assertEqual(len(errors), 1, errors)
+        self.assertIn("qualifier role: expected a term value, got text", errors[0])
+
     def test_member_roles_are_not_limited(self):
         person = self.root / "published" / "items" / "person" / "Q5fd2cn.yaml"
         text = person.read_text(encoding="utf-8")

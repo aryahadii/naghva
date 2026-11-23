@@ -47,6 +47,16 @@ class StatsTests(unittest.TestCase):
         self.assertEqual(dict(self.stats["listen"]["platforms"]), {"spotify": 1, "apple": 1, "bandcamp": 1})
         self.assertEqual(self.stats["listen"]["linked"], 2)
 
+    def test_explicit_absence_does_not_inflate_coverage(self):
+        self.items["QR1"]["statements"]["listen link"].append(statement("no value", "preferred"))
+        self.items["QR3"]["statements"]["published by"] = [statement("unknown value")]
+        self.items["QA"]["statements"]["image"] = [statement("no value")]
+        got = stats.stats(self.items, ["QA", "QB"], {}, {})
+        self.assertEqual(got["listen"]["linked"], 1)
+        self.assertEqual(got["listen"]["platforms"], [["bandcamp", 1]])
+        self.assertEqual(got["labels"]["known"], 1)
+        self.assertIn(["photo", 0, 2], got["completeness"]["artists"])
+
     def test_year_only_dates_count_in_the_middle_of_their_range(self):
         self.assertEqual(stats.first_day([statement({"date": "2020", "range": ["2020-01-01", "2020-12-31"]})]), "2020-07-01")
 

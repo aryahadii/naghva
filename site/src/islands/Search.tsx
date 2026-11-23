@@ -117,6 +117,9 @@ export default function Search({ lang, words, hero = false, hints }: Props) {
         role="search"
         class={hero ? 'search search-hero' : 'search'}
         action={`/${lang}/search/`}
+        onFocusOut={(event) => {
+          if (!event.currentTarget.contains(event.relatedTarget as Node | null)) setOpen(false);
+        }}
         onSubmit={(event) => { event.preventDefault(); if (results[active]) go(results[active]); else location.assign(allHref); }}
       >
         <label class="visually-hidden" for={`${id}-input`}>{words.label}</label>
@@ -139,7 +142,6 @@ export default function Search({ lang, words, hero = false, hints }: Props) {
           value={query}
           onInput={(event) => { setQuery((event.target as HTMLInputElement).value); setOpen(true); }}
           onFocus={warm}
-          onBlur={() => setOpen(false)}
           onKeyDown={onKeyDown}
         />
         <div ref={panel} class="search-panel" hidden={!expanded}>
@@ -165,7 +167,7 @@ export default function Search({ lang, words, hero = false, hints }: Props) {
           {expanded && !results.length && (
             <p class="search-empty">{failed ? words.unavailable : index ? words.empty.replace('{query}', query.trim()) : words.loading}</p>
           )}
-          {failed && <button type="button" class="pill" onMouseDown={(event) => event.preventDefault()} onClick={warm}>{words.retry}</button>}
+          {failed && <button type="button" class="pill" onMouseDown={(event) => event.preventDefault()} onClick={() => { input.current?.focus(); warm(); }}>{words.retry}</button>}
           {index && <a class="search-all text-link" href={allHref} onMouseDown={(event) => event.preventDefault()}>{words.allResults} · {count}</a>}
         </div>
         <p class="visually-hidden" aria-live="polite">{expanded && index ? count : ''}</p>

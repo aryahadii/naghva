@@ -1,3 +1,4 @@
+import { localOrigin } from './server';
 import { expect, test } from '@playwright/test';
 
 const artist = '/en/sanam-maroufkhani-a84/';
@@ -16,14 +17,14 @@ test('release panels follow Back/Forward and close with Escape or the close link
   const dialog = page.locator('#release-dialog');
   await card.click();
   await expect(dialog).toBeVisible();
-  await expect(page).toHaveURL(new URL(hash!, 'http://127.0.0.1:4322' + artist).href);
+  await expect(page).toHaveURL(new URL(hash!, localOrigin + artist).href);
   await page.goBack();
   await expect(dialog).not.toBeVisible();
   await page.goForward();
   await expect(dialog).toBeVisible();
   // Reproduce a previous close event arriving after the panel has reopened.
   await dialog.dispatchEvent('close');
-  await expect(page).toHaveURL(new URL(hash!, 'http://127.0.0.1:4322' + artist).href);
+  await expect(page).toHaveURL(new URL(hash!, localOrigin + artist).href);
   await page.keyboard.press('Escape');
   await expect(dialog).not.toBeVisible();
   await expect(page).toHaveURL(new RegExp(`${artist}$`));
