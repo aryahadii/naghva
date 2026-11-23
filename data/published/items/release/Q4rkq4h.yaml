@@ -1,0 +1,27 @@
+id: Q4rkq4h
+type: release
+statements:
+  name:
+  - value:
+      text: HAAL
+      language: en
+    references:
+    - source: www.hoerspielundfeature.de-haal-100.html
+      quote: HAAL
+      locator: Artist, publisher or presenter credits
+      accessed: '2026-11-21'
+  performer:
+  - value: Qk45pkn
+    references:
+    - source: www.hoerspielundfeature.de-haal-100.html
+      quote: Von Nazanin Noori
+      locator: Artist, publisher or presenter credits
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2022-12-23'
+    references:
+    - source: www.hoerspielundfeature.de-haal-100.html
+      quote: 23.12.2022
+      locator: Artist, publisher or presenter credits
+      accessed: '2026-11-21'

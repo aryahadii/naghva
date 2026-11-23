@@ -1,0 +1,67 @@
+id: Q9aspca
+type: person
+statements:
+  name:
+  - value:
+      text: Shabnam Parvaresh
+      language: en
+    references:
+    - source: www.youtube.com-oembed-4ihf4117dj8
+      quote: Wired with Azin Zahedi - Nazanin Noori - Farahnaz Hatam - Shabnam Parvaresh | Klangteppich IV 2022
+      locator: Klangteppich festival recording
+      accessed: '2026-11-21'
+  image:
+  - value: https://i.scdn.co/image/ab6761610000e5eb29a7ae3962cfff163c80dee9
+    references:
+    - source: open.spotify.com-artist-2lwbtmbzt40tbeboz9ethb
+      quote: https://i.scdn.co/image/ab6761610000e5eb29a7ae3962cfff163c80dee9
+      locator: Portrait or cover art on the artist or publisher page
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Shabnam Parvaresh · Spotify artist portrait
+        language: en
+  profile link:
+  - value: https://open.spotify.com/artist/2lwBtMBZT40tBEBoz9EthB
+    references:
+    - source: open.spotify.com-artist-2lwbtmbzt40tbeboz9ethb
+      quote: Shabnam Parvaresh
+      locator: Platform profile
+      accessed: '2026-11-21'
+  - value: https://music.apple.com/us/artist/shabnam-parvaresh/1713577808
+    references:
+    - source: music.apple.com-us-artist-shabnam-parvaresh-1713577808
+      quote: Shabnam Parvaresh
+      locator: Platform profile
+      accessed: '2026-11-21'
+  - value: https://www.youtube.com/channel/UC_382_eXxllkW12sM0tTc7w/videos
+    references:
+    - source: www.youtube.com-channel-uc_382_exxllkw12sm0ttc7w-videos
+      quote: Shabnam Parvaresh
+      locator: Platform profile
+      accessed: '2026-11-21'
+  member of:
+  - value: Qy7eg4c
+    references:
+    - source: sheentrio.bandcamp.com-album-gozar
+      quote: Shabnam Parvaresh - Bass Clarinet, Flute, FX
+      locator: Original trio lineup
+      accessed: '2026-11-21'
+    qualifiers:
+      role: bass clarinet
+  - value: Qs2xmxr
+    references:
+    - source: unland.bandcamp.com-album-betrachtungen
+      quote: Shabnam Parvaresh - Clarinet
+      locator: Original ensemble membership
+      accessed: '2026-11-21'
+    qualifiers:
+      role: clarinet
+  - value: Qnhpew3
+    references:
+    - source: inner-unity-ensemble.com-page_id-11621
+      quote: Shabnam Parvaresh
+      locator: Ensemble, venue, recording or project credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: clarinet

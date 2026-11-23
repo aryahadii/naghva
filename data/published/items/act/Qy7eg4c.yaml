@@ -1,0 +1,56 @@
+id: Qy7eg4c
+type: act
+statements:
+  name:
+  - value:
+      text: Sheen Trio
+      language: en
+    references:
+    - source: www.sheentrio.com-news
+      quote: Sheen Trio
+      locator: Ensemble name
+      accessed: '2026-11-21'
+  image:
+  - value: https://static.wixstatic.com/media/ffa7e3_22918e81ce5a4f9e8a3e6b63555b3882~mv2.jpg/v1/fill/w_2500,h_1667,al_c/ffa7e3_22918e81ce5a4f9e8a3e6b63555b3882~mv2.jpg
+    references:
+    - source: www.sheentrio.com
+      quote: https://static.wixstatic.com/media/ffa7e3_22918e81ce5a4f9e8a3e6b63555b3882~mv2.jpg/v1/fill/w_2500,h_1667,al_c/ffa7e3_22918e81ce5a4f9e8a3e6b63555b3882~mv2.jpg
+      locator: Portrait or cover art on the artist or publisher page
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Sheen Trio · official group portrait
+        language: en
+  formation date:
+  - value:
+      date: '2020'
+    references:
+    - source: www.shabnamparvaresh.com-home
+      quote: In 2020, she founded the Sheen Trio
+      locator: Ensemble founding
+      accessed: '2026-11-21'
+  profile link:
+  - value: https://open.spotify.com/artist/4qzSFKeSr2RDm8ECKWYTxs
+    references:
+    - source: open.spotify.com-artist-4qzsfkesr2rdm8eckwytxs
+      quote: Sheen Trio
+      locator: Platform profile
+      accessed: '2026-11-21'
+  - value: https://music.apple.com/us/artist/sheen-trio/1676065310
+    references:
+    - source: music.apple.com-us-artist-sheen-trio-1676065310
+      quote: Sheen Trio
+      locator: Platform profile
+      accessed: '2026-11-21'
+  - value: https://sheentrio.bandcamp.com/music
+    references:
+    - source: sheentrio.bandcamp.com-music
+      quote: Sheen Trio
+      locator: Platform profile
+      accessed: '2026-11-21'
+  - value: https://www.youtube.com/channel/UCkgyy47QArbNUQihrf1lLgQ/videos
+    references:
+    - source: www.youtube.com-channel-uckgyy47qarbnuqihrf1llgq-videos
+      quote: Sheen Trio
+      locator: Platform profile
+      accessed: '2026-11-21'
