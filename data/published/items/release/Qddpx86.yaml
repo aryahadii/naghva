@@ -15,6 +15,15 @@ statements:
     - source: apple-music-1550849076-edition
       quote: 'Listen to Dream Away With Me - Single by Pallett on Apple Music. 2021. 1 Song. Duration: 4 minutes.'
       accessed: '2026-11-13'
+  - value: Qa6r74t
+    qualifiers:
+      role:
+      - bass
+    references:
+    - source: www.youtube.com-watch-v-njhh9asgcbm
+      quote: 'Bass Guitar : Kasra Saboktakin'
+      accessed: '2026-11-21'
+      locator: Band’s original film personnel
   release date:
   - value:
       date: '2021-01-26'
@@ -28,6 +37,12 @@ statements:
     - source: apple-music-1550849076-edition
       quote: 'Listen to Dream Away With Me - Single by Pallett on Apple Music. 2021. 1 Song. Duration: 4 minutes.'
       accessed: '2026-11-13'
+  - value: https://www.youtube.com/watch?v=njhH9AsgCbM
+    references:
+    - source: www.youtube.com-watch-v-njhh9asgcbm
+      quote: Pallett - Dream Away with Me Music Video
+      accessed: '2026-11-21'
+      locator: Original artist film
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/77/5b/cb/775bcbe7-6879-eaad-c587-4cbdcd5b4f91/4011725563530_cover.jpg/600x600bf-60.jpg
     references:
