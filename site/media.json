@@ -480,6 +480,20 @@
       1200
     ]
   },
+  "https://f4.bcbits.com/img/0038690105_10.jpg": {
+    "sha256": "c4aa6ec21fdf4ac6ebfeadbbccacc231e98442ecc5182e9fd423b6550f23a6f8",
+    "ext": "jpg",
+    "bytes": 152205,
+    "width": 800,
+    "height": 1200,
+    "widths": [
+      240,
+      360,
+      640,
+      960,
+      1200
+    ]
+  },
   "https://f4.bcbits.com/img/0040303383_21.jpg": {
     "bytes": 157834,
     "ext": "jpg",
@@ -3075,6 +3089,20 @@
       1200
     ]
   },
+  "https://gulbenkian.pt/musica/wp-content/uploads/sites/3/2026/05/64_Sepidar-C-April-Renae_16x9-1.jpg": {
+    "sha256": "ec2ad00362f1f40a28a793c3d0ebba7c880335da19a5de61ed9076f1af63fa03",
+    "ext": "jpg",
+    "bytes": 347671,
+    "width": 1600,
+    "height": 900,
+    "widths": [
+      240,
+      360,
+      640,
+      960,
+      1200
+    ]
+  },
   "https://hamidsaeidi.com/wp-content/uploads/2023/03/Hamid-Saeidi-04.jpg": {
     "bytes": 163641,
     "ext": "jpg",
@@ -3786,6 +3814,19 @@
     "width": 1280,
     "height": 720,
     "from": "https://i.ytimg.com/vi/_pT5QY6555A/maxresdefault.jpg",
+    "widths": [
+      180,
+      360,
+      720
+    ]
+  },
+  "https://i.ytimg.com/vi/_TQ3mC3f5ns/hqdefault.jpg": {
+    "sha256": "dd23dea7328e169f0187a607e2012c8bac6f72aeb37db536b30a3566b7e09945",
+    "ext": "jpg",
+    "bytes": 52771,
+    "width": 1280,
+    "height": 720,
+    "from": "https://i.ytimg.com/vi/_TQ3mC3f5ns/maxresdefault.jpg",
     "widths": [
       180,
       360,
@@ -4585,6 +4626,19 @@
       720
     ]
   },
+  "https://i.ytimg.com/vi/AVSjU65XAEk/hqdefault.jpg": {
+    "sha256": "187a880164aef0df3b54a970d05d415f3caf90fca4e89c327ce0a3b72cd5fde2",
+    "ext": "jpg",
+    "bytes": 50759,
+    "width": 1280,
+    "height": 720,
+    "from": "https://i.ytimg.com/vi/AVSjU65XAEk/maxresdefault.jpg",
+    "widths": [
+      180,
+      360,
+      720
+    ]
+  },
   "https://i.ytimg.com/vi/awEBf_ZmIe8/hqdefault.jpg": {
     "sha256": "7756fa149f42d7154a787fa1abfee275c0dc7f0882bb61c8f41066578c4c8166",
     "ext": "jpg",
@@ -4742,6 +4796,19 @@
     "bytes": 27703,
     "width": 480,
     "height": 360,
+    "widths": [
+      180,
+      360,
+      720
+    ]
+  },
+  "https://i.ytimg.com/vi/C7u9X1Q1jfA/hqdefault.jpg": {
+    "sha256": "1d0d9d05880234223d8eb8f67668a1d27c60d875e8afbd787ce1d01aa7d395e9",
+    "ext": "jpg",
+    "bytes": 95960,
+    "width": 1280,
+    "height": 720,
+    "from": "https://i.ytimg.com/vi/C7u9X1Q1jfA/maxresdefault.jpg",
     "widths": [
       180,
       360,
@@ -5016,6 +5083,19 @@
     "width": 1280,
     "height": 720,
     "from": "https://i.ytimg.com/vi/emzWOhDQ_0g/maxresdefault.jpg",
+    "widths": [
+      180,
+      360,
+      720
+    ]
+  },
+  "https://i.ytimg.com/vi/eSV9hURP8fY/hqdefault.jpg": {
+    "sha256": "10ea475e1d61a6e3fe7ccb46dabb61774673c5ec41350a704b385ef9705ad766",
+    "ext": "jpg",
+    "bytes": 94628,
+    "width": 1280,
+    "height": 720,
+    "from": "https://i.ytimg.com/vi/eSV9hURP8fY/maxresdefault.jpg",
     "widths": [
       180,
       360,
@@ -6259,6 +6339,20 @@
       720
     ]
   },
+  "https://i.ytimg.com/vi/ny9fZUB6WGk/hqdefault.jpg": {
+    "sha256": "095a56f2554800e937c3c4efa5d88fc75738c3a9093d2d4b13630d9bb6b39640",
+    "ext": "jpg",
+    "bytes": 23851,
+    "width": 480,
+    "height": 360,
+    "widths": [
+      240,
+      360,
+      640,
+      960,
+      1200
+    ]
+  },
   "https://i.ytimg.com/vi/OAL74J5eqDM/hqdefault.jpg": {
     "sha256": "682f31086e77e806cd1c4933720f5498cffbd37cdb1c13b174ebf100f7ef2b4a",
     "ext": "jpg",
@@ -6277,6 +6371,19 @@
     "bytes": 43346,
     "width": 480,
     "height": 360,
+    "widths": [
+      180,
+      360,
+      720
+    ]
+  },
+  "https://i.ytimg.com/vi/OFYbWfNlrDU/hqdefault.jpg": {
+    "sha256": "3b91008dc6df2668eb39420bdd7e2156dbee81c77f6bafc404ddb76e1dfb82c6",
+    "ext": "jpg",
+    "bytes": 56647,
+    "width": 1280,
+    "height": 720,
+    "from": "https://i.ytimg.com/vi/OFYbWfNlrDU/maxresdefault.jpg",
     "widths": [
       180,
       360,
@@ -6504,6 +6611,19 @@
     "width": 1280,
     "height": 720,
     "from": "https://i.ytimg.com/vi/Q98Y5R_DccA/maxresdefault.jpg",
+    "widths": [
+      180,
+      360,
+      720
+    ]
+  },
+  "https://i.ytimg.com/vi/Q9BdWFhV0OQ/hqdefault.jpg": {
+    "sha256": "a6a8c8e8cca08f89f77e672ba9edd7f4ff2d2dc4a938c48043dded941bc33aa8",
+    "ext": "jpg",
+    "bytes": 36386,
+    "width": 1280,
+    "height": 720,
+    "from": "https://i.ytimg.com/vi/Q9BdWFhV0OQ/maxresdefault.jpg",
     "widths": [
       180,
       360,
@@ -7160,6 +7280,21 @@
       180,
       360,
       720
+    ]
+  },
+  "https://i.ytimg.com/vi/x6tFL0yvDvY/hqdefault.jpg": {
+    "sha256": "ea6be58c5a641d7d93d13b7da67a5104f80851aa375e7f1c30aca05310896c22",
+    "ext": "jpg",
+    "bytes": 119627,
+    "width": 1280,
+    "height": 720,
+    "from": "https://i.ytimg.com/vi/x6tFL0yvDvY/maxresdefault.jpg",
+    "widths": [
+      240,
+      360,
+      640,
+      960,
+      1200
     ]
   },
   "https://i.ytimg.com/vi/XbslxL3sbvU/hqdefault.jpg": {

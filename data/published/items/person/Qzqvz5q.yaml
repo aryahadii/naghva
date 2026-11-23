@@ -1,0 +1,91 @@
+id: Qzqvz5q
+type: person
+statements:
+  name:
+  - value:
+      text: Araz Salek
+      language: en
+    references:
+    - source: www.arazsalek.com
+      quote: About Araz Salek
+      accessed: '2026-11-21'
+      locator: Biography heading
+  - value:
+      text: آراز سالک
+      language: fa
+    references:
+    - source: titremag.com-shadow342e
+      quote: آراز سالک
+      accessed: '2026-11-21'
+      locator: Persian article and artist index
+  member of:
+  - value: Qrtfk67
+    qualifiers:
+      role: tar
+    references:
+    - source: www.youtube.com-watch-v-q9bdwfhv0oq
+      quote: Araz Salek
+      accessed: '2026-11-21'
+      locator: Performance description personnel
+    - source: ethnocloud.com-this_tale_of_ours
+      quote: two Toronto musicians, Araz Salek and Pedram Khavar-Zamini, and two from Crete, Ross Daly and Kelly Thoma
+      accessed: '2026-11-21'
+      locator: Group biography
+  birth date:
+  - value:
+      date: '1980'
+    references:
+    - source: www.arazsalek.com
+      quote: Born in 1980 in Tehran, Iran, Araz Salek immigrated to Canada in 2005 and now lives in Toronto.
+      accessed: '2026-11-21'
+      locator: Artist biography
+  birthplace:
+  - value: Qhm6fzw
+    references:
+    - source: www.arazsalek.com
+      quote: Born in 1980 in Tehran, Iran, Araz Salek immigrated to Canada in 2005 and now lives in Toronto.
+      accessed: '2026-11-21'
+      locator: Artist biography
+  based in:
+  - value: Q9yx7ys
+    references:
+    - source: www.arazsalek.com
+      quote: Born in 1980 in Tehran, Iran, Araz Salek immigrated to Canada in 2005 and now lives in Toronto.
+      accessed: '2026-11-21'
+      locator: Artist biography
+  image:
+  - value: https://f4.bcbits.com/img/0038690105_10.jpg
+    qualifiers:
+      credit:
+        text: Araz Salek on Bandcamp
+        language: en
+    references:
+    - source: arazsalek.bandcamp.com-music
+      quote: https://f4.bcbits.com/img/0038690105_10.jpg
+      accessed: '2026-11-21'
+      locator: Original Bandcamp artist portrait
+  profile link:
+  - value: https://arazsalek.bandcamp.com/music
+    references:
+    - source: arazsalek.bandcamp.com-music
+      quote: Peripheries of Nahavand | Araz Salek
+      accessed: '2026-11-21'
+      locator: Catalogue artist heading
+  - value: https://music.apple.com/us/artist/araz-salek/1578715671
+    references:
+    - source: music.apple.com-us-artist-araz-salek-1578715671
+      quote: ‎Araz Salek - Apple Music
+      accessed: '2026-11-21'
+      locator: Catalogue artist heading
+  - value: https://open.spotify.com/artist/2Hu7ungqYulxVWngtnlqrK
+    references:
+    - source: open.spotify.com-artist-2hu7ungqyulxvwngtnlqrk
+      quote: Listen to Araz Salek Songs | Spotify
+      accessed: '2026-11-21'
+      locator: Catalogue artist heading
+  - value: https://www.youtube.com/@arazsalek7237/videos
+    references:
+    - source: www.youtube.com-arazsalek7237-videos
+      quote: Araz Salek - YouTube
+      accessed: '2026-11-21'
+      locator: Catalogue artist heading
