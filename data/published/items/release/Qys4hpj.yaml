@@ -1,0 +1,65 @@
+id: Qys4hpj
+type: release
+statements:
+  name:
+  - value:
+      text: Minstrel
+      language: en
+    references:
+    - source: music.apple.com-us-album-together-yet-alone-feat-navid-dehghan-6805656230uo-4
+      quote: Minstrel (feat. Navid Dehghan)
+      locator: Artist discography, original sound recording or label
+      accessed: '2026-11-21'
+  performer:
+  - value: Qwxqpwd
+    references:
+    - source: baharmovahed.bandcamp.com-album-together-yet-alone
+      quote: Vocals Bahar Movahed
+      locator: Artist discography, original sound recording or label
+      accessed: '2026-11-21'
+    qualifiers:
+      role: vocals
+  release date:
+  - value:
+      date: '2026-05-29'
+    references:
+    - source: music.apple.com-us-album-together-yet-alone-feat-navid-dehghan-6805656230uo-4
+      quote: '2026-05-29'
+      locator: Artist discography, original sound recording or label
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://f4.bcbits.com/img/a4173758754_10.jpg
+    references:
+    - source: baharmovahed.bandcamp.com-album-together-yet-alone
+      quote: https://f4.bcbits.com/img/a4173758754_10.jpg
+      locator: Artist discography, original sound recording or label
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Bahar Movahed · release artwork
+        language: en
+  listen link:
+  - value: https://music.apple.com/us/song/minstrel-feat-navid-dehghan/6805656235
+    references:
+    - source: music.apple.com-us-album-together-yet-alone-feat-navid-dehghan-6805656230uo-4
+      quote: Minstrel (feat. Navid Dehghan)
+      locator: Artist discography, original sound recording or label
+      accessed: '2026-11-21'
+  - value: https://baharmovahed.bandcamp.com/track/minstrel
+    references:
+    - source: baharmovahed.bandcamp.com-track-minstrel
+      quote: Minstrel
+      locator: Artist discography, original sound recording or label
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/6q2l4zgAk3q9riBH0s4lsL
+    references:
+    - source: open.spotify.com-embed-album-1hpckvcabsk3i25wob05lg
+      quote: Minstrel
+      locator: Artist discography, original sound recording or label
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/0q27XtBHrna0JXkewpr7mW
+    references:
+    - source: open.spotify.com-embed-album-25rw5byute3ejuvk4v1xvx
+      quote: Minstrel
+      locator: Artist discography, original sound recording or label
+      accessed: '2026-11-21'

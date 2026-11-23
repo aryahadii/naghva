@@ -1,0 +1,65 @@
+id: Qf9gnje
+type: release
+statements:
+  name:
+  - value:
+      text: Autumn
+      language: en
+    references:
+    - source: music.apple.com-us-album-goblet-of-eternal-light-520711583uo-4
+      quote: Autumn
+      locator: Artist discography, original sound recording or label
+      accessed: '2026-11-21'
+  performer:
+  - value: Qwxqpwd
+    references:
+    - source: baharmovahed.com-musics
+      quote: 'Vocals: (Bahar Movahed, Maestro Ali Akbar Moradi)'
+      locator: Artist discography, original sound recording or label
+      accessed: '2026-11-21'
+    qualifiers:
+      role: vocals
+  release date:
+  - value:
+      date: '2012-04-02'
+    references:
+    - source: music.apple.com-us-album-goblet-of-eternal-light-520711583uo-4
+      quote: '2012-04-02'
+      locator: Artist discography, original sound recording or label
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/79/e6/29/79e62914-3e77-857b-9642-21b0f1439a0d/Cover.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-goblet-of-eternal-light-520711583uo-4
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/79/e6/29/79e62914-3e77-857b-9642-21b0f1439a0d/Cover.jpg/1200x630bb.jpg
+      locator: Artist discography, original sound recording or label
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Bahar Movahed · release artwork
+        language: en
+  listen link:
+  - value: https://music.apple.com/us/song/autumn/520711760
+    references:
+    - source: music.apple.com-us-album-goblet-of-eternal-light-520711583uo-4
+      quote: Autumn
+      locator: Artist discography, original sound recording or label
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/10QaDXcKihYHGJfTwicDGe
+    references:
+    - source: open.spotify.com-embed-album-6an26jevm6ii1da2w5jari
+      quote: Autumn
+      locator: Artist discography, original sound recording or label
+      accessed: '2026-11-21'
+  - value: https://soundcloud.com/bahar-movahed/2-autumn
+    references:
+    - source: soundcloud.com-bahar-movahed-2-autumn
+      quote: Autumn - پاییز
+      locator: Artist discography, original sound recording or label
+      accessed: '2026-11-21'
+  - value: https://www.youtube.com/watch?v=IlgKcal8o9A
+    references:
+    - source: www.youtube.com-oembed-ilgkcal8o9a
+      quote: Ali Akbar Moradi, Bahar Movahed_Goblet of Eternal Light
+      locator: Original recording, artist or presenter
+      accessed: '2026-11-21'

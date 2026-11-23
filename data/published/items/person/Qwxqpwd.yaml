@@ -1,0 +1,52 @@
+id: Qwxqpwd
+type: person
+statements:
+  name:
+  - value:
+      text: Bahar Movahed
+      language: en
+    references:
+    - source: baharmovahed.com-biography
+      quote: Bahar Movahed
+      locator: Artist discography, original sound recording or label
+      accessed: '2026-11-21'
+  - value:
+      text: بهار موحد
+      language: fa
+    references:
+    - source: soundcloud.com-bahar-movahed-moses-and-shepherd
+      quote: بهار موحد
+      locator: Artist discography, original sound recording or label
+      accessed: '2026-11-21'
+  - value:
+      text: بهار موحد بشیری
+      language: fa
+    references:
+    - source: adyan-iran.com-1399-12-02
+      quote: بهار موحد بشیری
+      locator: Artist discography, original sound recording or label
+      accessed: '2026-11-21'
+  image:
+  - value: https://images.squarespace-cdn.com/content/v1/607eca05701c1552ebe94815/f70efdb5-1eaa-4eeb-b319-da149497e01b/21.jpg
+    references:
+    - source: www.adhyaroparecords.com-baharmovahed
+      quote: https://images.squarespace-cdn.com/content/v1/607eca05701c1552ebe94815/f70efdb5-1eaa-4eeb-b319-da149497e01b/21.jpg
+      locator: Artist discography, original sound recording or label
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Adhyâropa Records · Bahar Movahed singing in concert
+        language: en
+  profile link:
+  - value: https://www.youtube.com/channel/UC9-0KPQoIMR6r1D12XiYOKw
+    references:
+    - source: baharmovahed.com
+      quote: https://www.youtube.com/channel/UC9-0KPQoIMR6r1D12XiYOKw
+      locator: Artist discography, original sound recording or label
+      accessed: '2026-11-21'
+  - value: https://soundcloud.com/bahar-movahed
+    references:
+    - source: baharmovahed.com
+      quote: https://soundcloud.com/bahar-movahed
+      locator: Artist discography, original sound recording or label
+      accessed: '2026-11-21'

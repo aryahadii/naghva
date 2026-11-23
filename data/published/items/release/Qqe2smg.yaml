@@ -1,0 +1,60 @@
+id: Qqe2smg
+type: release
+statements:
+  name:
+  - value:
+      text: In Gushe Ta Un Gushe
+      language: en
+    references:
+    - source: baharmovahed.com-musics
+      quote: In Gushe Ta Un Gushe
+      locator: Artist discography, original sound recording or label
+      accessed: '2026-11-21'
+  performer:
+  - value: Qwxqpwd
+    references:
+    - source: baharmovahed.com-musics
+      quote: Bahar Movahed
+      locator: Artist discography, original sound recording or label
+      accessed: '2026-11-21'
+    qualifiers:
+      role: vocals
+  release date:
+  - value:
+      date: '2008'
+    references:
+    - source: baharmovahed.com-musics
+      quote: In Gushe Ta Un Gushe, 2008
+      locator: Artist discography, original sound recording or label
+      accessed: '2026-11-21'
+  release type:
+  - value: album
+    references:
+    - source: baharmovahed.com-musics
+      quote: In Gushe Ta Un Gushe
+      locator: Artist discography, original sound recording or label
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://open.spotify.com/album/0PbYzLIiSId5MsuBxy7Zjg
+    references:
+    - source: open.spotify.com-embed-album-0pbyzliisid5msubxy7zjg
+      quote: In Gushe Ta Un Gushe (feat. Payam Jahanmani)
+      locator: Artist discography, original sound recording or label
+      accessed: '2026-11-21'
+  - value: https://music.apple.com/us/album/in-gushe-ta-un-gushe-feat-payam-jahanmani/1304959222?uo=4
+    references:
+    - source: itunes.apple.com-searchterm-in-gushe-ta-un-gushe-entity-album
+      quote: In Gushe Ta Un Gushe (feat. Payam Jahanmani)
+      locator: Artist discography, original sound recording or label
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/ff/f8/38/fff838a7-ec4e-4fd9-d872-ed0f0b4ab35c/6260608003023.jpg/1200x630wp-60.jpg
+    references:
+    - source: music.apple.com-us-album-in-gushe-ta-un-gushe-feat-payam-jahanmani-1304959222uo-4
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/ff/f8/38/fff838a7-ec4e-4fd9-d872-ed0f0b4ab35c/6260608003023.jpg/1200x630wp-60.jpg
+      locator: Original recording, artist or presenter
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Digital release artwork
+        language: en
