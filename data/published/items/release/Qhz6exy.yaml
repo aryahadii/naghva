@@ -1,0 +1,45 @@
+id: Qhz6exy
+type: release
+statements:
+  name:
+  - value:
+      text: '"Pro(memo)mourning"'
+      language: en
+    references:
+    - source: soundcloud.com-payam-yousef-promemomourning
+      quote: '"Pro(memo)mourning"'
+      accessed: '2026-11-21'
+      locator: Artist SoundCloud recording
+  performer:
+  - value: Q57cj49
+    references:
+    - source: soundcloud.com-payam-yousef-promemomourning
+      quote: '"Pro(memo)mourning"'
+      accessed: '2026-11-21'
+      locator: Artist SoundCloud recording
+  listen link:
+  - value: https://soundcloud.com/payam-yousef/promemomourning
+    references:
+    - source: soundcloud.com-payam-yousef-promemomourning
+      quote: '"Pro(memo)mourning"'
+      accessed: '2026-11-21'
+      locator: Artist SoundCloud recording
+  release date:
+  - value:
+      date: '2025-02-25'
+    references:
+    - source: soundcloud.com-payam-yousef-promemomourning
+      quote: '2025-02-25'
+      accessed: '2026-11-21'
+      locator: Track upload date
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-FrkqOrqyJRLcLV1s-M3pBLA-large.png
+    qualifiers:
+      credit:
+        text: Payam Yousefi on SoundCloud
+        language: en
+    references:
+    - source: soundcloud.com-payam-yousef-promemomourning
+      quote: https://i1.sndcdn.com/artworks-FrkqOrqyJRLcLV1s-M3pBLA-large.png
+      accessed: '2026-11-21'
+      locator: SoundCloud original artwork

@@ -1,0 +1,79 @@
+id: Qx5yjgk
+type: release
+statements:
+  name:
+  - value:
+      text: Songs of Hope
+      language: en
+    references:
+    - source: open.spotify.com-album-2sqpge90vi3aejqlcfvhui
+      quote: Songs of Hope
+      accessed: '2026-11-21'
+      locator: Spotify edition title
+  release type:
+  - value: album
+    references:
+    - source: open.spotify.com-album-2sqpge90vi3aejqlcfvhui
+      quote: Songs of Hope
+      accessed: '2026-11-21'
+      locator: Spotify edition title
+  listen link:
+  - value: https://payamyousefi.bandcamp.com/album/songs-of-hope
+    references:
+    - source: payamyousefi.bandcamp.com-album-songs-of-hope
+      quote: Songs of Hope | Payam Yousefi
+      accessed: '2026-11-21'
+      locator: Edition title
+  - value: https://music.apple.com/us/album/songs-of-hope/1788065937
+    references:
+    - source: music.apple.com-us-album-songs-of-hope-1788065937
+      quote: ‎Songs of Hope - Album by Payam Yousefi - Apple Music
+      accessed: '2026-11-21'
+      locator: Edition title
+  - value: https://open.spotify.com/album/2SqpGe90Vi3aEjQlcFvhui
+    references:
+    - source: open.spotify.com-album-2sqpge90vi3aejqlcfvhui
+      quote: Songs of Hope
+      accessed: '2026-11-21'
+      locator: Spotify edition title
+  performer:
+  - value: Q5rnjaz
+    qualifiers:
+      role: tombak
+    references:
+    - source: payamyousefi.bandcamp.com-album-songs-of-hope
+      quote: Pedram Khavarzamini - Tombak / Percussion
+      accessed: '2026-11-21'
+      locator: Original album credits
+  - value: Q57cj49
+    references:
+    - source: music.apple.com-us-album-songs-of-hope-1788065937
+      quote: Payam Yousefi
+      accessed: '2026-11-21'
+      locator: Album headline billing
+  release date:
+  - value:
+      date: '2024-12-31'
+    references:
+    - source: music.apple.com-us-album-songs-of-hope-1788065937
+      quote: '2024-12-31'
+      accessed: '2026-11-21'
+      locator: Apple Music edition issue date
+  cover art:
+  - value: https://f4.bcbits.com/img/a2669316892_10.jpg
+    qualifiers:
+      credit:
+        text: Bandcamp edition artwork
+        language: en
+    references:
+    - source: payamyousefi.bandcamp.com-album-songs-of-hope
+      quote: https://f4.bcbits.com/img/a2669316892_10.jpg
+      accessed: '2026-11-21'
+      locator: Bandcamp original artwork
+  published by:
+  - value: Q96s69s
+    references:
+    - source: payamyousefimusic.com-cv
+      quote: published by Javan Records, Tehran, Iran
+      accessed: '2026-11-21'
+      locator: Music and film credits
