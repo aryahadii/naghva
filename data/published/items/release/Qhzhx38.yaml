@@ -1,0 +1,47 @@
+id: Qhzhx38
+type: release
+statements:
+  name:
+  - value:
+      text: Amadeam
+      language: en
+    references:
+    - source: open.spotify.com-album-77tnxxpggfdtc676wsi7db
+      quote: Amadeam
+      accessed: 2026-11-21
+      locator: Track title
+  performer:
+  - value: Qk67gf5
+    references:
+    - source: open.spotify.com-album-77tnxxpggfdtc676wsi7db
+      quote: Farshid Arabi
+      accessed: 2026-11-21
+      locator: Album artist credit
+  listen link:
+  - value: https://open.spotify.com/track/16uo4670J7enDiOjJbwSrK
+    references:
+    - source: open.spotify.com-album-77tnxxpggfdtc676wsi7db
+      quote: Amadeam
+      accessed: 2026-11-21
+      locator: Track title
+  - value: https://music.apple.com/us/song/amadeam/1705287721
+    references:
+    - source: music.apple.com-us-album-in-the-colour-of-the-night-1705287322
+      quote: Amadeam
+      accessed: 2026-11-21
+      locator: Native title
+  release date:
+  - value:
+      date: '2012-01-01'
+    references:
+    - source: music.apple.com-us-album-in-the-colour-of-the-night-1705287322
+      quote: '2012-01-01'
+      accessed: 2026-11-21
+      locator: Storefront release date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/68/71/e6/6871e617-33d2-0ba8-a5bd-cdf314fd6a6c/cover.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-in-the-colour-of-the-night-1705287322
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/68/71/e6/6871e617-33d2-0ba8-a5bd-cdf314fd6a6c/cover.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Album artwork
