@@ -1,0 +1,43 @@
+id: Q7wabng
+type: release
+statements:
+  name:
+  - value:
+      text: Peshmerga
+      language: en
+    references:
+    - source: www.hanimojtahedy.com
+      quote: Peshmerga - Dalshad Said
+      locator: Recording name
+      accessed: '2026-11-21'
+  performer:
+  - value: Qnrm3kw
+    references:
+    - source: www.hanimojtahedy.com-biography
+      quote: for the Kurdish symphony “Peshmerga” composed by Dilshad Said.
+      locator: Singer’s catalogue
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://www.youtube.com/watch?v=sZxRH8ZSkkI
+    references:
+    - source: www.youtube.com-oembed-szxrh8zskki
+      quote: Peshmerga (feat. Sivan Perwer, Jamshid, Xero Abbas, Hesen Sherif, Hani & Ammar Al Koofe)
+      locator: Distributor recording
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/3R5MUn4IIFAAdKwPudtYV0
+    references:
+    - source: open.spotify.com-track-3r5mun4iifaadkwpudtyv0
+      quote: Peshmerga (feat. Sivan Perwer, Jamshid, Xero Abbas, Hesen Sherif, Hani & Ammar Al Koofe)
+      locator: Matched release and credited artists
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://i.ytimg.com/vi/sZxRH8ZSkkI/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-szxrh8zskki
+      quote: https://i.ytimg.com/vi/sZxRH8ZSkkI/hqdefault.jpg
+      locator: Original release cover
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Dalshad Said · YouTube
+        language: en

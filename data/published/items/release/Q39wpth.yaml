@@ -1,0 +1,51 @@
+id: Q39wpth
+type: release
+statements:
+  name:
+  - value:
+      text: Jinim Jinm
+      language: en
+    references:
+    - source: music.apple.com-us-album-geramawe-1598931350
+      quote: Jinim Jinm
+      locator: Track 3
+      accessed: '2026-11-21'
+  performer:
+  - value: Qnrm3kw
+    references:
+    - source: music.apple.com-us-album-geramawe-1598931350
+      quote: Hani Mojtahedy
+      locator: Track or album performer
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2010-01-01'
+    references:
+    - source: music.apple.com-us-album-geramawe-1598931350
+      quote: '2010-01-01'
+      locator: Original edition date
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/3d/ef/82/3def8213-28c9-f6d5-f39d-c5064da4d428/692531133663.png/632x632bb-60.jpg
+    references:
+    - source: music.apple.com-us-album-geramawe-1598931350
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/3d/ef/82/3def8213-28c9-f6d5-f39d-c5064da4d428/692531133663.png/632x632bb-60.jpg
+      locator: Release art
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Dayk · Apple Music
+        language: en
+  listen link:
+  - value: https://music.apple.com/us/song/jinim-jinm/1598931354
+    references:
+    - source: music.apple.com-us-album-geramawe-1598931350
+      quote: Jinim Jinm
+      locator: Track 3
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/1LysXP8FimdAduWDD19FpO
+    references:
+    - source: open.spotify.com-album-3siagp2brnxe3nnejx7nav
+      quote: Jinim Jinm
+      locator: Matched Spotify track
+      accessed: '2026-11-21'

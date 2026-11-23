@@ -1,0 +1,57 @@
+id: Qah4yhg
+type: release
+statements:
+  name:
+  - value:
+      text: Gardoon
+      language: en
+    references:
+    - source: music.apple.com-us-album-gardoon-1853119711
+      quote: Gardoon
+      locator: Track 1
+      accessed: '2026-11-21'
+  performer:
+  - value: Qnrm3kw
+    references:
+    - source: music.apple.com-us-album-gardoon-1853119711
+      quote: Hani Mojtahedy
+      locator: Track or album performer
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2025-11-14'
+    references:
+    - source: music.apple.com-us-album-gardoon-1853119711
+      quote: '2025-11-14'
+      locator: Original edition date
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0c/80/9e/0c809e42-b96b-910f-7037-d3e1878fb04e/057914077703.png/632x632bb-60.jpg
+    references:
+    - source: music.apple.com-us-album-gardoon-1853119711
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0c/80/9e/0c809e42-b96b-910f-7037-d3e1878fb04e/057914077703.png/632x632bb-60.jpg
+      locator: Release art
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Gardoon · Apple Music
+        language: en
+  listen link:
+  - value: https://music.apple.com/us/song/gardoon/1853119712
+    references:
+    - source: music.apple.com-us-album-gardoon-1853119711
+      quote: Gardoon
+      locator: Track 1
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/4IMoJkrENmmY5iXPBZQP0A
+    references:
+    - source: open.spotify.com-album-2ntosfw4adv7xier4qmtwd
+      quote: Gardoon
+      locator: Matched Spotify track
+      accessed: '2026-11-21'
+  - value: https://www.youtube.com/watch?v=OITjoepG7is
+    references:
+    - source: www.youtube.com-oembed-oitjoepg7is
+      quote: Hani Mojtahedy - Gardoon (prod. by @5iamand)
+      locator: Original upload or video selected by artist channel
+      accessed: '2026-11-21'

@@ -1,0 +1,63 @@
+id: Qyh4nm7
+type: release
+statements:
+  name:
+  - value:
+      text: Skala
+      language: en
+    references:
+    - source: music.apple.com-us-album-skala-1485757195
+      quote: Skala
+      locator: Track 1
+      accessed: '2026-11-21'
+  performer:
+  - value: Qnrm3kw
+    references:
+    - source: music.apple.com-us-album-skala-1485757195
+      quote: Hani Mojtahedy
+      locator: Track or album performer
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2019-10-31'
+    references:
+    - source: music.apple.com-us-album-skala-1485757195
+      quote: '2019-10-31'
+      locator: Original edition date
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/29/96/df/2996df00-f4c3-93dc-371d-211bb43fa5bf/628810820641.png/632x632bb-60.jpg
+    references:
+    - source: music.apple.com-us-album-skala-1485757195
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/29/96/df/2996df00-f4c3-93dc-371d-211bb43fa5bf/628810820641.png/632x632bb-60.jpg
+      locator: Release art
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Skala · Apple Music
+        language: en
+  listen link:
+  - value: https://music.apple.com/us/song/skala/1485757196
+    references:
+    - source: music.apple.com-us-album-skala-1485757195
+      quote: Skala
+      locator: Track 1
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/6unpFxHvTkpofZ83UDycbg
+    references:
+    - source: open.spotify.com-album-6cldgpdh8qmiowozwno4so
+      quote: Skala
+      locator: Matched Spotify track
+      accessed: '2026-11-21'
+  - value: https://www.youtube.com/watch?v=-DKw7Jn7Xe4
+    references:
+    - source: www.youtube.com-oembed--dkw7jn7xe4
+      quote: Hani Mojtahedy - SKALA
+      locator: Original upload or video selected by artist channel
+      accessed: '2026-11-21'
+  - value: https://t.me/hani_mojtahedi/134
+    references:
+    - source: t.me-s-hani_mojtahedibefore-156
+      quote: https://m.youtube.com/watch?v=-DKw7Jn7Xe4
+      locator: Channel post 134 links this performance
+      accessed: '2026-11-21'
