@@ -1,0 +1,73 @@
+id: Qx4zwhg
+type: release
+statements:
+  name:
+  - value:
+      text: Decay
+      language: en
+    references:
+    - source: kopirecs.bandcamp.com-album-decay
+      quote: Decay | ArtSaves | Kopi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qw9zs9g
+    references:
+    - source: kopirecs.bandcamp.com-album-decay
+      quote: ArtSaves
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  release type:
+  - value: ep
+    references:
+    - source: kopirecs.bandcamp.com-album-decay
+      quote: Decay | ArtSaves | Kopi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://kopirecs.bandcamp.com/album/decay
+    references:
+    - source: kopirecs.bandcamp.com-album-decay
+      quote: Decay | ArtSaves | Kopi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/decay-ep/1634135065
+    references:
+    - source: music.apple.com-us-album-decay-ep-1634135065
+      quote: ‎Decay - EP - Album by ArtSaves - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/album/16Y5UkdOh8nG46LjlaMXot
+    references:
+    - source: open.spotify.com-album-16y5ukdoh8ng46ljlamxot
+      quote: Listen to Decay - EP by ArtSaves | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a3351843825_10.jpg
+    references:
+    - source: kopirecs.bandcamp.com-album-decay
+      quote: https://f4.bcbits.com/img/a3351843825_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Sepehr Givtaj, geometric designs by Amirhosein Amini
+        language: en
+  release date:
+  - value:
+      date: '2022-08-26'
+    references:
+    - source: kopirecs.bandcamp.com-album-decay
+      quote: released August 26, 2022
+      accessed: '2026-11-21'
+      locator: Published date
+  contributor:
+  - value: Qgncp5r
+    references:
+    - source: kopirecs.bandcamp.com-album-decay
+      quote: Nima Aghiani
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: mastering engineer

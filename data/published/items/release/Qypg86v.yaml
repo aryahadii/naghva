@@ -1,0 +1,73 @@
+id: Qypg86v
+type: release
+statements:
+  name:
+  - value:
+      text: Chimera
+      language: en
+    references:
+    - source: kopirecs.bandcamp.com-album-chimera
+      quote: Chimera | ArtSaves | Kopi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qw9zs9g
+    references:
+    - source: kopirecs.bandcamp.com-album-chimera
+      quote: ArtSaves
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  release type:
+  - value: ep
+    references:
+    - source: kopirecs.bandcamp.com-album-chimera
+      quote: Chimera | ArtSaves | Kopi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://kopirecs.bandcamp.com/album/chimera
+    references:
+    - source: kopirecs.bandcamp.com-album-chimera
+      quote: Chimera | ArtSaves | Kopi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/chimera-ep/1560822408
+    references:
+    - source: music.apple.com-us-album-chimera-ep-1560822408
+      quote: ‎Chimera - EP - Album by ArtSaves - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/album/5iz84Ol0ZSpHC2Kk0XtOCP
+    references:
+    - source: open.spotify.com-album-5iz84ol0zsphc2kk0xtocp
+      quote: Listen to Chimera - EP by ArtSaves | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a0154390524_10.jpg
+    references:
+    - source: kopirecs.bandcamp.com-album-chimera
+      quote: https://f4.bcbits.com/img/a0154390524_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: obese.dogma777
+        language: en
+  release date:
+  - value:
+      date: '2021-04-01'
+    references:
+    - source: kopirecs.bandcamp.com-album-chimera
+      quote: released April 1, 2021
+      accessed: '2026-11-21'
+      locator: Published date
+  contributor:
+  - value: Qgncp5r
+    references:
+    - source: kopirecs.bandcamp.com-album-chimera
+      quote: Nima Aghiani
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: mastering engineer

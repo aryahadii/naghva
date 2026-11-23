@@ -1,0 +1,63 @@
+id: Qg8qmtn
+type: release
+statements:
+  name:
+  - value:
+      text: Porter
+      language: en
+    references:
+    - source: kopirecs.bandcamp.com-track-porter
+      quote: Porter | ArtSaves | Kopi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qw9zs9g
+    references:
+    - source: kopirecs.bandcamp.com-album-bore
+      quote: ArtSaves
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://kopirecs.bandcamp.com/track/porter
+    references:
+    - source: kopirecs.bandcamp.com-track-porter
+      quote: Porter | ArtSaves | Kopi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1493797190
+    references:
+    - source: music.apple.com-us-song-1493797190
+      quote: ‎Porter - Song with Lyrics by ArtSaves - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/4b8RxaD85Vo6Y9AKubpjUx
+    references:
+    - source: open.spotify.com-track-4b8rxad85vo6y9akubpjux
+      quote: Porter - song and lyrics by ArtSaves | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/artsvs/porter
+    references:
+    - source: soundcloud.com-artsvs-porter
+      quote: Stream Porter by ArtSaves | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a1603755952_10.jpg
+    references:
+    - source: kopirecs.bandcamp.com-track-porter
+      quote: https://f4.bcbits.com/img/a1603755952_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original publisher artwork
+        language: en
+  release date:
+  - value:
+      date: '2020-01-03'
+    references:
+    - source: kopirecs.bandcamp.com-track-porter
+      quote: released January 3, 2020
+      accessed: '2026-11-21'
+      locator: Published date

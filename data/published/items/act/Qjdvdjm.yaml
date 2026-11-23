@@ -1,0 +1,42 @@
+id: Qjdvdjm
+type: act
+statements:
+  name:
+  - value:
+      text: Herr Spectre
+      language: en
+    references:
+    - source: herrspectre.bandcamp.com-album-all-things-consoled
+      quote: Herr Spectre
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  image:
+  - value: https://f4.bcbits.com/img/0042297690_21.jpg
+    references:
+    - source: herrspectre.bandcamp.com
+      quote: https://f4.bcbits.com/img/0042297690_21.jpg
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: Herr Spectre, via Bandcamp
+        language: en
+  profile link:
+  - value: https://herrspectre.bandcamp.com/
+    references:
+    - source: herrspectre.bandcamp.com
+      quote: All Things Consoled | Herr Spectre
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://www.youtube.com/@herrspectre
+    references:
+    - source: www.youtube.com-herrspectre
+      quote: Herr Spectre - YouTube
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/herr-spectre
+    references:
+    - source: soundcloud.com-herr-spectre
+      quote: Stream HERR SPECTRE music | Listen to songs, albums, playlists for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title

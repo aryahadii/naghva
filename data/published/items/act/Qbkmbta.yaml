@@ -1,0 +1,53 @@
+id: Qbkmbta
+type: act
+statements:
+  name:
+  - value:
+      text: Migrain Sq.
+      language: en
+    references:
+    - source: soundcloud.com-migrain
+      quote: Migrain Sq.
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  image:
+  - value: https://i.scdn.co/image/ab6761610000e5eb17935ea01b86b1a3ccfcc990
+    references:
+    - source: open.spotify.com-artist-3nb76ccpxm0gp7ryunwhy8
+      quote: https://i.scdn.co/image/ab6761610000e5eb17935ea01b86b1a3ccfcc990
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    - source: experpento.com-migrain-square-el-indie-irani-existe
+      quote: Fotografías cortesía Promociones sin Fronteras
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: Promociones sin Fronteras, via Migrain Sq. on Spotify
+        language: en
+  based in:
+  - value: Qhm6fzw
+    references:
+    - source: www.youtube.com-watch-v-4zj178bftq4
+      quote: Migrain Studio in Tehran, Iran
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  profile link:
+  - value: https://open.spotify.com/artist/3nB76CcpXm0gP7Ryunwhy8
+    references:
+    - source: open.spotify.com-artist-3nb76ccpxm0gp7ryunwhy8
+      quote: Listen to Migrain Sq. Songs | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/artist/migrain-sq/527906724
+    references:
+    - source: music.apple.com-us-artist-migrain-sq-527906724
+      quote: ‎Migrain Sq. - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/migrain
+    references:
+    - source: soundcloud.com-migrain
+      quote: Stream Migrain Sq. music | Listen to songs, albums, playlists for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title

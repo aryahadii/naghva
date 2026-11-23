@@ -1,0 +1,66 @@
+id: Qts2j5a
+type: release
+statements:
+  name:
+  - value:
+      text: Clearing Cache
+      language: en
+    references:
+    - source: kopirecs.bandcamp.com-track-clearing-cache
+      quote: Clearing Cache | ArtSaves | Kopi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qw9zs9g
+    references:
+    - source: kopirecs.bandcamp.com-album-decay
+      quote: ArtSaves
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://kopirecs.bandcamp.com/track/clearing-cache
+    references:
+    - source: kopirecs.bandcamp.com-track-clearing-cache
+      quote: Clearing Cache | ArtSaves | Kopi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1634135068
+    references:
+    - source: music.apple.com-us-song-1634135068
+      quote: ‎Clearing Cache - Song with Lyrics by ArtSaves - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/4x83KMU3WjevkuqtWeaqBd
+    references:
+    - source: open.spotify.com-track-4x83kmu3wjevkuqtweaqbd
+      quote: Clearing cache - song and lyrics by ArtSaves | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a3351843825_10.jpg
+    references:
+    - source: kopirecs.bandcamp.com-track-clearing-cache
+      quote: https://f4.bcbits.com/img/a3351843825_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Sepehr Givtaj, geometric designs by Amirhosein Amini
+        language: en
+  release date:
+  - value:
+      date: '2022-08-26'
+    references:
+    - source: kopirecs.bandcamp.com-track-clearing-cache
+      quote: released August 26, 2022
+      accessed: '2026-11-21'
+      locator: Published date
+  contributor:
+  - value: Qgncp5r
+    references:
+    - source: kopirecs.bandcamp.com-album-decay
+      quote: Nima Aghiani
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: mastering engineer

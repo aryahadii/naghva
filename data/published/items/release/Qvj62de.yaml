@@ -1,0 +1,66 @@
+id: Qvj62de
+type: release
+statements:
+  name:
+  - value:
+      text: Bermeh برمه
+      language: en
+    references:
+    - source: kopirecs.bandcamp.com-track-bermeh
+      quote: Bermeh برمه | ArtSaves | Kopi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qw9zs9g
+    references:
+    - source: kopirecs.bandcamp.com-album-molehead
+      quote: ArtSaves
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://kopirecs.bandcamp.com/track/bermeh
+    references:
+    - source: kopirecs.bandcamp.com-track-bermeh
+      quote: Bermeh برمه | ArtSaves | Kopi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1804076771
+    references:
+    - source: music.apple.com-us-song-1804076771
+      quote: ‎Bermeh برمه - Song with Lyrics by ArtSaves - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/1ePk6xoFjyGkBbcqHLnrt6
+    references:
+    - source: open.spotify.com-track-1epk6xofjygkbbcqhlnrt6
+      quote: Bermeh برمه - song and lyrics by ArtSaves | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a3914570668_10.jpg
+    references:
+    - source: kopirecs.bandcamp.com-track-bermeh
+      quote: https://f4.bcbits.com/img/a3914570668_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original publisher artwork
+        language: en
+  release date:
+  - value:
+      date: '2025-03-14'
+    references:
+    - source: kopirecs.bandcamp.com-track-bermeh
+      quote: released March 14, 2025
+      accessed: '2026-11-21'
+      locator: Published date
+  contributor:
+  - value: Qtwwfrd
+    references:
+    - source: kopirecs.bandcamp.com-album-molehead
+      quote: Shahin Entezami
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: mastering engineer

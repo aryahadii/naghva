@@ -1,0 +1,66 @@
+id: Qezjf4e
+type: release
+statements:
+  name:
+  - value:
+      text: Sur
+      language: en
+    references:
+    - source: kopirecs.bandcamp.com-track-sur
+      quote: Sur | ArtSaves | Kopi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qw9zs9g
+    references:
+    - source: kopirecs.bandcamp.com-album-chimera
+      quote: ArtSaves
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://kopirecs.bandcamp.com/track/sur
+    references:
+    - source: kopirecs.bandcamp.com-track-sur
+      quote: Sur | ArtSaves | Kopi Records
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1560822412
+    references:
+    - source: music.apple.com-us-song-1560822412
+      quote: ‎Sur - Song with Lyrics by ArtSaves - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/1WYeoPu9Q4jAURREAvgwNz
+    references:
+    - source: open.spotify.com-track-1wyeopu9q4jaurreavgwnz
+      quote: Sur - song and lyrics by ArtSaves | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a0154390524_10.jpg
+    references:
+    - source: kopirecs.bandcamp.com-track-sur
+      quote: https://f4.bcbits.com/img/a0154390524_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: obese.dogma777
+        language: en
+  release date:
+  - value:
+      date: '2021-04-01'
+    references:
+    - source: kopirecs.bandcamp.com-track-sur
+      quote: released April 1, 2021
+      accessed: '2026-11-21'
+      locator: Published date
+  contributor:
+  - value: Qgncp5r
+    references:
+    - source: kopirecs.bandcamp.com-album-chimera
+      quote: Nima Aghiani
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: mastering engineer
