@@ -1,0 +1,61 @@
+id: Qdpskgq
+type: release
+statements:
+  name:
+  - value:
+      text: Cardamom Trio- Hopeful Mourning
+      language: en
+    references:
+    - source: www.youtube.com-watch-v-lpood2uxqbm
+      quote: Cardamom Trio- Hopeful Mourning
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://www.youtube.com/watch?v=lpood2uXQbM
+    references:
+    - source: www.youtube.com-watch-v-lpood2uxqbm
+      quote: Cardamom Trio- Hopeful Mourning
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i.ytimg.com/vi/lpood2uXQbM/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-lpood2uxqbm
+      quote: https://i.ytimg.com/vi/lpood2uXQbM/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: Hames Bitar
+        language: en
+  performer:
+  - value: Qw3ackf
+    references:
+    - source: www.youtube.com-watch-v-lpood2uxqbm
+      quote: Cardamom Trio- Hopeful Mourning
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qy69pg7
+    references:
+    - source: cardamomtrio.com-members
+      quote: Kaveh Sarvarian
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: ney
+  - value: Qtj7y5p
+    references:
+    - source: cardamomtrio.com-members
+      quote: Hames Bitar
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: oud
+  - value: Qw968tb
+    references:
+    - source: cardamomtrio.com-members
+      quote: Luis Taberna
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: percussion
