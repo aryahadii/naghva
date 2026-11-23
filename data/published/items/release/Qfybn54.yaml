@@ -1,0 +1,107 @@
+id: Qfybn54
+type: release
+statements:
+  name:
+  - value:
+      text: Baroon
+      language: en
+    references:
+    - source: music.apple.com-us-album-gozargah-1350948051
+      quote: Baroon
+      accessed: '2026-11-21'
+      locator: Track 5
+  performer:
+  - value: Qzjh64j
+    references:
+    - source: music.apple.com-us-album-gozargah-1350948051
+      quote: Karmandan
+      accessed: '2026-11-21'
+      locator: Billed project
+  - value: Qy88zyz
+    references:
+    - source: music.apple.com-us-album-gozargah-1350948051
+      quote: Erwin Khachikian
+      accessed: '2026-11-21'
+      locator: Artist credit
+  listen link:
+  - value: https://music.apple.com/us/song/baroon/1350948060
+    references:
+    - source: music.apple.com-us-album-gozargah-1350948051
+      quote: https://music.apple.com/us/song/baroon/1350948060
+      accessed: '2026-11-21'
+      locator: Exact track link
+  - value: https://open.spotify.com/track/4vUubFtPxaFmmtnmbTvO7P
+    references:
+    - source: open.spotify.com-embed-album-6h1glhj5q8w9xqlefhfm9z
+      quote: spotify:track:4vUubFtPxaFmmtnmbTvO7P
+      accessed: '2026-11-21'
+      locator: Exact Spotify track URI
+  - value: https://music.apple.com/us/song/baroon/1256790111
+    references:
+    - source: music.apple.com-us-album-baroon-single-1256790108
+      quote: https://music.apple.com/us/song/baroon/1256790111
+      accessed: '2026-11-21'
+      locator: Exact track link
+  - value: https://open.spotify.com/track/4InW2SKtIPyC2M1MGNYTTS
+    references:
+    - source: open.spotify.com-embed-album-4is5z5fpnvgwscoxxy35ru
+      quote: spotify:track:4InW2SKtIPyC2M1MGNYTTS
+      accessed: '2026-11-21'
+      locator: Exact Spotify track URI
+  - value: https://music.apple.com/us/album/baroon-single/1256790108
+    references:
+    - source: music.apple.com-us-album-baroon-single-1256790108
+      quote: Baroon - Single
+      accessed: '2026-11-21'
+      locator: Album title
+  - value: https://open.spotify.com/album/4is5z5FpnvGwsCoXXy35Ru
+    references:
+    - source: open.spotify.com-embed-album-4is5z5fpnvgwscoxxy35ru
+      quote: Baroon
+      accessed: '2026-11-21'
+      locator: Single title
+  - value: https://soundcloud.com/karmandan/baroon
+    references:
+    - source: soundcloud.com-karmandan-baroon
+      quote: Baroon
+      accessed: '2026-11-21'
+      locator: Artist upload
+  - value: https://www.youtube.com/watch?v=G8pL44SSsoI
+    references:
+    - source: www.youtube.com-watch-v-g8pl44sssoi
+      quote: Karmandan - Baroon (Official Video)
+      accessed: '2026-11-21'
+      locator: Original video
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/79/94/de/7994de2d-74cb-f7f6-4fd3-5bf66e72c3d0/191924932437.jpg/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Digital issue via Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-gozargah-1350948051
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/79/94/de/7994de2d-74cb-f7f6-4fd3-5bf66e72c3d0/191924932437.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Original digital artwork
+  release date:
+  - value:
+      date: '2018-02-20'
+    references:
+    - source: music.apple.com-us-album-gozargah-1350948051
+      quote: '2018-02-20'
+      accessed: '2026-11-21'
+      locator: Digital issue date
+  - value:
+      date: '2017-07-07'
+    references:
+    - source: music.apple.com-us-album-baroon-single-1256790108
+      quote: '2017-07-07'
+      accessed: '2026-11-21'
+      locator: Digital issue date
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-baroon-single-1256790108
+      quote: Baroon
+      accessed: '2026-11-21'
+      locator: Track 1

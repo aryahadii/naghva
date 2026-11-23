@@ -1,0 +1,63 @@
+id: Q7jptkd
+type: release
+statements:
+  name:
+  - value:
+      text: Nardeboon
+      language: en
+    references:
+    - source: music.apple.com-us-album-karmandan-401059007
+      quote: Nardeboon
+      accessed: '2026-11-21'
+      locator: Track 4
+  performer:
+  - value: Qzjh64j
+    references:
+    - source: music.apple.com-us-album-karmandan-401059007
+      quote: Karmandan
+      accessed: '2026-11-21'
+      locator: Billed project
+  listen link:
+  - value: https://music.apple.com/us/song/nardeboon/401059028
+    references:
+    - source: music.apple.com-us-album-karmandan-401059007
+      quote: https://music.apple.com/us/song/nardeboon/401059028
+      accessed: '2026-11-21'
+      locator: Exact track link
+  - value: https://open.spotify.com/track/2EbFrnDbWUFOCKJvQDc4h1
+    references:
+    - source: open.spotify.com-embed-album-4ndlxlknowugzlhbu55xzg
+      quote: spotify:track:2EbFrnDbWUFOCKJvQDc4h1
+      accessed: '2026-11-21'
+      locator: Exact Spotify track URI
+  - value: https://music.apple.com/us/song/nardeboon/404218392
+    references:
+    - source: music.apple.com-us-album-gheseye-zirzamin-feat-y-a-s-404218373
+      quote: https://music.apple.com/us/song/nardeboon/404218392
+      accessed: '2026-11-21'
+      locator: Exact Apple track
+  - value: https://open.spotify.com/track/37lDK2Gq7wQsR0BhqZ4p3B
+    references:
+    - source: open.spotify.com-embed-album-2szivdo7xrrojfghuusjq3
+      quote: spotify:track:37lDK2Gq7wQsR0BhqZ4p3B
+      accessed: '2026-11-21'
+      locator: Native track URI
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music/15/77/a0/mzi.wbcvfaqm.jpg/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Digital issue via Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-karmandan-401059007
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music/15/77/a0/mzi.wbcvfaqm.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Original digital artwork
+  release date:
+  - value:
+      date: '2010-11-01'
+    references:
+    - source: music.apple.com-us-album-karmandan-401059007
+      quote: '2010-11-01'
+      accessed: '2026-11-21'
+      locator: Digital issue date

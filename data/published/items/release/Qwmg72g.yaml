@@ -1,0 +1,72 @@
+id: Qwmg72g
+type: release
+statements:
+  name:
+  - value:
+      text: Gozargah
+      language: en
+    references:
+    - source: music.apple.com-us-album-gozargah-1350948051
+      quote: Gozargah
+      accessed: '2026-11-21'
+      locator: Track 1
+  performer:
+  - value: Qzjh64j
+    references:
+    - source: music.apple.com-us-album-gozargah-1350948051
+      quote: Karmandan
+      accessed: '2026-11-21'
+      locator: Billed project
+  - value: Qy88zyz
+    references:
+    - source: music.apple.com-us-album-gozargah-1350948051
+      quote: Erwin Khachikian
+      accessed: '2026-11-21'
+      locator: Artist credit
+  listen link:
+  - value: https://music.apple.com/us/song/gozargah/1350948056
+    references:
+    - source: music.apple.com-us-album-gozargah-1350948051
+      quote: https://music.apple.com/us/song/gozargah/1350948056
+      accessed: '2026-11-21'
+      locator: Exact track link
+  - value: https://open.spotify.com/track/5TYG4qGsfqqSM3sVJdQEWU
+    references:
+    - source: open.spotify.com-embed-album-6h1glhj5q8w9xqlefhfm9z
+      quote: spotify:track:5TYG4qGsfqqSM3sVJdQEWU
+      accessed: '2026-11-21'
+      locator: Exact Spotify track URI
+  - value: https://www.youtube.com/watch?v=jysLXDvnW1E
+    references:
+    - source: www.youtube.com-watch-v-jyslxdvnw1e
+      quote: '''Gozargah'' Karmandan | Erwin Khachikian | کارمندان | اروین خاچیکیان'
+      accessed: '2026-11-21'
+      locator: Original artist-channel video
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/79/94/de/7994de2d-74cb-f7f6-4fd3-5bf66e72c3d0/191924932437.jpg/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Digital issue via Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-gozargah-1350948051
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/79/94/de/7994de2d-74cb-f7f6-4fd3-5bf66e72c3d0/191924932437.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Original digital artwork
+  release date:
+  - value:
+      date: '2018-02-20'
+    references:
+    - source: music.apple.com-us-album-gozargah-1350948051
+      quote: '2018-02-20'
+      accessed: '2026-11-21'
+      locator: Digital issue date
+  contributor:
+  - value: Qy88zyz
+    qualifiers:
+      role: arranger
+    references:
+    - source: www.youtube.com-watch-v-jyslxdvnw1e
+      quote: Arranged by Erwin Khachikian
+      accessed: '2026-11-21'
+      locator: Artist-published credits
