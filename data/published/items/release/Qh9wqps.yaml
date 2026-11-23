@@ -1,0 +1,45 @@
+id: Qh9wqps
+type: release
+statements:
+  name:
+  - value:
+      text: 'Classic Persian Pop: Mitra Sumara'
+      language: en
+    references:
+    - source: www.youtube.com-watchv-vu9tm6h3rfc
+      quote: 'Classic Persian Pop: Mitra Sumara'
+      accessed: '2026-11-21'
+      locator: Official video title
+  performer:
+  - value: Qj92kqa
+    references:
+    - source: www.youtube.com-watchv-vu9tm6h3rfc
+      quote: 'Classic Persian Pop: Mitra Sumara'
+      accessed: '2026-11-21'
+      locator: Official video title
+  listen link:
+  - value: https://www.youtube.com/watch?v=vu9tm6H3RFc
+    references:
+    - source: www.youtube.com-watchv-vu9tm6h3rfc
+      quote: 'Classic Persian Pop: Mitra Sumara'
+      accessed: '2026-11-21'
+      locator: Official video title
+  release date:
+  - value:
+      date: '2015-07-22'
+    references:
+    - source: www.youtube.com-watchv-vu9tm6h3rfc
+      quote: '20150722'
+      accessed: '2026-11-21'
+      locator: YouTube publication date (YYYYMMDD)
+  cover art:
+  - value: https://i.ytimg.com/vi/vu9tm6H3RFc/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watchv-vu9tm6h3rfc
+      quote: https://i.ytimg.com/vi/vu9tm6H3RFc/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Video thumbnail metadata
+    qualifiers:
+      credit:
+        text: Smithsonian National Museum of Asian Art, via YouTube
+        language: en

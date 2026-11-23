@@ -1,0 +1,135 @@
+id: Qqevdqp
+type: release
+statements:
+  name:
+  - value:
+      text: Tahdig
+      language: en
+    references:
+    - source: music.apple.com-us-album-tahdig-1386951010
+      quote: Tahdig
+      accessed: '2026-11-21'
+      locator: Release heading
+  performer:
+  - value: Qj92kqa
+    references:
+    - source: music.apple.com-us-album-tahdig-1386951010
+      quote: Mitra Sumara
+      accessed: '2026-11-21'
+      locator: Album artist
+  - value: Qhemf8b
+    references:
+    - source: www.mitrasumara.com-bio
+      quote: Peter Zummo (trombone)
+      accessed: '2026-11-21'
+      locator: Tahdig personnel
+    qualifiers:
+      role:
+      - trombone
+  - value: Qwtsnps
+    references:
+    - source: www.mitrasumara.com-bio
+      quote: Julian Maile (guitar)
+      accessed: '2026-11-21'
+      locator: Tahdig personnel
+    qualifiers:
+      role:
+      - guitar
+  - value: Qvsjze3
+    references:
+    - source: www.mitrasumara.com-bio
+      quote: Jim Duffy (keyboard)
+      accessed: '2026-11-21'
+      locator: Tahdig personnel
+    qualifiers:
+      role:
+      - keyboards
+  - value: Q99h9pk
+    references:
+    - source: www.mitrasumara.com-bio
+      quote: Nikhil Yerawadekar (bass)
+      accessed: '2026-11-21'
+      locator: Tahdig personnel
+    qualifiers:
+      role:
+      - bass
+  - value: Qfy6pxj
+    references:
+    - source: www.mitrasumara.com-bio
+      quote: Michael Evans (percussion)
+      accessed: '2026-11-21'
+      locator: Tahdig personnel
+    qualifiers:
+      role:
+      - percussion
+  - value: Qsq4fyz
+    references:
+    - source: www.mitrasumara.com-bio
+      quote: Kaveh Haghtalab (drums)
+      accessed: '2026-11-21'
+      locator: Tahdig personnel
+    qualifiers:
+      role:
+      - drums
+  - value: Q47mygh
+    references:
+    - source: www.mitrasumara.com-bio
+      quote: Bill Ruyle (hammer dulcimer)
+      accessed: '2026-11-21'
+      locator: Tahdig personnel
+  published by:
+  - value: Qc2pf59
+    references:
+    - source: music.apple.com-us-album-tahdig-1386951010
+      quote: Persian Cardinal Recordings
+      accessed: '2026-11-21'
+      locator: Phonographic copyright line
+  release date:
+  - value:
+      date: '2018-06-08'
+    references:
+    - source: music.apple.com-us-album-tahdig-1386951010
+      quote: '2018-06-08'
+      accessed: '2026-11-21'
+      locator: Release metadata
+  release type:
+  - value: album
+    references:
+    - source: music.apple.com-us-album-tahdig-1386951010
+      quote: Album
+      accessed: '2026-11-21'
+      locator: Album information
+  listen link:
+  - value: https://music.apple.com/us/album/tahdig/1386951010
+    references:
+    - source: music.apple.com-us-album-tahdig-1386951010
+      quote: Tahdig
+      accessed: '2026-11-21'
+      locator: Release heading
+  - value: https://open.spotify.com/album/0KX975WwN6lVXzf9aSmtCG
+    references:
+    - source: open.spotify.com-album-0kx975wwn6lvxzf9asmtcg
+      quote: Tahdig
+      accessed: '2026-11-21'
+      locator: Release heading
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/3f/0b/a0/3f0ba064-ba5a-c2a1-9993-bb98cff9bb29/881626517369_cover.jpg/632x632bb-60.jpg
+    references:
+    - source: music.apple.com-us-album-tahdig-1386951010
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/3f/0b/a0/3f0ba064-ba5a-c2a1-9993-bb98cff9bb29/881626517369_cover.jpg/632x632bb-60.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork image
+    qualifiers:
+      credit:
+        text: Persian Cardinal Recordings, via Apple Music
+        language: en
+  contributor:
+  - value: Qf8xjsy
+    references:
+    - source: www.smith.edu-news-events-news-party-its-1971
+      quote: We worked with producer Salmak Khaledi
+      accessed: '2026-11-21'
+      locator: Biography
+    qualifiers:
+      role:
+      - producer

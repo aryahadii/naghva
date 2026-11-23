@@ -1,0 +1,49 @@
+id: Q98cth9
+type: release
+statements:
+  name:
+  - value:
+      text: Kofriam (live at Nublu)
+      language: en
+    references:
+    - source: www.youtube.com-watchv-1tcj79r5rqg
+      quote: Mitra Sumara "Kofriam" live
+      accessed: '2026-11-21'
+      locator: Official video title
+    - source: www.youtube.com-watchv-1tcj79r5rqg
+      quote: Nublu 151 Ave C, NYC
+      accessed: '2026-11-21'
+      locator: Video description, performance venue
+  performer:
+  - value: Qj92kqa
+    references:
+    - source: www.youtube.com-watchv-1tcj79r5rqg
+      quote: Mitra Sumara "Kofriam" live
+      accessed: '2026-11-21'
+      locator: Official video title
+  listen link:
+  - value: https://www.youtube.com/watch?v=1tcj79r5Rqg
+    references:
+    - source: www.youtube.com-watchv-1tcj79r5rqg
+      quote: Mitra Sumara "Kofriam" live
+      accessed: '2026-11-21'
+      locator: Official video title
+  release date:
+  - value:
+      date: '2018-07-08'
+    references:
+    - source: www.youtube.com-watchv-1tcj79r5rqg
+      quote: '20180708'
+      accessed: '2026-11-21'
+      locator: YouTube publication date (YYYYMMDD)
+  cover art:
+  - value: https://i.ytimg.com/vi_webp/1tcj79r5Rqg/maxresdefault.webp
+    references:
+    - source: www.youtube.com-watchv-1tcj79r5rqg
+      quote: https://i.ytimg.com/vi_webp/1tcj79r5Rqg/maxresdefault.webp
+      accessed: '2026-11-21'
+      locator: Video thumbnail metadata
+    qualifiers:
+      credit:
+        text: Mitra Sumara, via YouTube
+        language: en
