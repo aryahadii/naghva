@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/track/6s7fTxj9yN2V3lIxgfaR5O
+archive: "https://web.archive.org/web/20250224113051/https://open.spotify.com/track/6s7fTxj9yN2V3lIxgfaR5O"
 title: Blowing Flow - Cinna Peyghamy Rework - song and lyrics by Azu Tiwaline, Cinna Peyghamy | Spotify
 kind: web page
 language: en

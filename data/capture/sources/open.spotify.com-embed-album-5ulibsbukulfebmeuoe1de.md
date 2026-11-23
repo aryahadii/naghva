@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/embed/album/5ulibSBuKuLfEBMeuOe1De
+archive: "https://web.archive.org/web/20260427155859/https://open.spotify.com/embed/album/5ulibSBuKuLfEBMeuOe1De"
 title: 'Mehdi Rajabian: Middle Eastern - Various Artists | Spotify'
 tier: discography
 language: en

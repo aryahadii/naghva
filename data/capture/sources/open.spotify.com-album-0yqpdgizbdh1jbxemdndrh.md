@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/0yQPdgizbDH1JbxEmDNDrH
+archive: "https://web.archive.org/web/20250822132803/https://open.spotify.com/album/0yQPdgizbDH1JbxEmDNDrH"
 title: Berlin 2004 Live
 tier: discography
 language: en

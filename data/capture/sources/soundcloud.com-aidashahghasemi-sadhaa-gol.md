@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/aidashahghasemi/sadhaa-gol
+archive: "https://web.archive.org/web/20240714194832/https://soundcloud.com/aidashahghasemi/sadhaa-gol"
 title: Sadhaa Gol
 tier: discography
 language: en

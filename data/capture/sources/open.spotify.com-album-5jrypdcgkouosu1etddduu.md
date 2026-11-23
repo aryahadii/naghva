@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/5JrYPDCgkOuoSu1etddDUu
+archive: "https://web.archive.org/web/20261110143316/https://open.spotify.com/album/5JrYPDCgkOuoSu1etddDUu"
 title: Ambrosiah
 tier: discography
 language: en

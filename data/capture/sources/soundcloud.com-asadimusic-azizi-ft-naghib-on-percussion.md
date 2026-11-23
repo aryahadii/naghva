@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/asadimusic/azizi-ft-naghib-on-percussion
+archive: "https://web.archive.org/web/20250818115137/https://soundcloud.com/asadimusic/azizi-ft-naghib-on-percussion"
 title: AZIZI (ft. Naghib on Percussion)
 tier: own
 language: en

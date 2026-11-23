@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/artist/4shFTQb3R6sWPLnE0GQYTP
+archive: "https://web.archive.org/web/20190919224400/https://open.spotify.com/artist/4shFTQb3R6sWPLnE0GQYTP"
 title: Listen to Lian Music Band Songs | Spotify
 tier: own
 language: en

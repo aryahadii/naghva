@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/embed/track/74IG2Y6s7VwfV2VZBiygUb
+archive: "https://web.archive.org/web/20260307064530/https://open.spotify.com/embed/track/74IG2Y6s7VwfV2VZBiygUb"
 title: Fatva
 tier: discography
 language: en

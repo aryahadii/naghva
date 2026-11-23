@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=Hyu2axz7x3E
+archive: "https://web.archive.org/web/20261023203604/https://www.youtube.com/watch?v=Hyu2axz7x3E"
 title: Shahrzad Ensemble  - Shiraz Folk Song "Balal Balalam"
 tier: own
 kind: web page

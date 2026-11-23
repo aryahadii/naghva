@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/0NJhkGZtXGA4dqK0A4TPdM
+archive: "https://web.archive.org/web/20221217212812/https://open.spotify.com/album/0NJhkGZtXGA4dqK0A4TPdM"
 title: Age Bargardam
 tier: discography
 language: en

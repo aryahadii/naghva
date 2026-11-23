@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/6O8JUSvyiF9ofTQhbXAEtN
+archive: "https://web.archive.org/web/20190920033614/https://open.spotify.com/album/6O8JUSvyiF9ofTQhbXAEtN"
 title: Morid
 tier: discography
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://purpletapepedigree.bandcamp.com/track/bamyn
+archive: "https://web.archive.org/web/20260906155152/https://purpletapepedigree.bandcamp.com/track/bamyn"
 title: Bamyn | Nima Aghiani | PTP
 kind: web page
 language: en

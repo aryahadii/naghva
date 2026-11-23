@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/eendomusic/eendo-dobareh
+archive: "https://web.archive.org/web/20250307120657/https://soundcloud.com/eendomusic/eendo-dobareh"
 title: Stream Dobareh  |  دوباره by Eendo | Listen online for free on SoundCloud
 kind: web page
 tier: own

@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/artist/7bL7lSUuGeAaWCHYwbvtqz
+archive: "https://web.archive.org/web/20250711193459/https://open.spotify.com/artist/7bL7lSUuGeAaWCHYwbvtqz"
 title: Listen to Mahya Hamedi Songs | Spotify
 status: processed
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/track/1n3ldKUXPpxfNaITy9ddCI
+archive: "https://web.archive.org/web/20251010014430/https://open.spotify.com/track/1n3ldKUXPpxfNaITy9ddCI"
 title: The Old Citadel - song and lyrics by Mentrix | Spotify
 kind: web page
 language: en

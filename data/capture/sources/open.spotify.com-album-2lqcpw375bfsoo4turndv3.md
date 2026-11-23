@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/2lQcpw375BFsoO4TURndv3
+archive: "https://web.archive.org/web/20220518054857/https://open.spotify.com/album/2lQcpw375BFsoO4TURndv3"
 title: Beginning of Dominion
 tier: discography
 language: en

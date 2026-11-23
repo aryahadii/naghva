@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/mahmood-schricker/safety-instructions
+archive: "https://web.archive.org/web/20201113070558/https://soundcloud.com/mahmood-schricker/safety-instructions"
 title: Stream Safety Instructions by Mahmood Schricker | Listen online for free on SoundCloud
 kind: web page
 language: en

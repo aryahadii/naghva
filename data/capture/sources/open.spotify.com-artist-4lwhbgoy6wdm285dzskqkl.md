@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/artist/4lwhBgoy6wDm285dzskqkl
+archive: "https://web.archive.org/web/20240102033135/https://open.spotify.com/artist/4lwhBgoy6wDm285dzskqkl"
 title: Listen to Bahar Atish Songs | Spotify
 tier: discography
 language: en

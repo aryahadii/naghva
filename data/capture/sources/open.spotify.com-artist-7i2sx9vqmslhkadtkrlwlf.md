@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/artist/7i2SX9VqmSLhkADTkrLwLF
+archive: "https://web.archive.org/web/20200727104744/https://open.spotify.com/artist/7i2SX9VqmSLhkADTkrLwLF"
 title: Listen to Mona Matbou Riahi Songs | Spotify
 tier: own
 language: en

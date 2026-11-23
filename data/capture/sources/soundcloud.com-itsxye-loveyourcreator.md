@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/itsxye/loveyourcreator
+archive: "https://web.archive.org/web/20260211121627/https://soundcloud.com/itsxye/loveyourcreator"
 title: XYE, ASADI, & DAVE YADEN - LOVE YOUR CREATOR
 tier: own
 language: en

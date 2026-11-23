@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/eendomusic/gol-o-baghcheh
+archive: "https://web.archive.org/web/20230524232915/https://soundcloud.com/eendomusic/gol-o-baghcheh"
 title: Stream "Gol o Baghcheh" (Naser Montazeri ft. Eendo)  |  گل و باغچه by Eendo | Listen online for free on SoundCloud
 kind: web page
 tier: own

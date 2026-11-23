@@ -1,5 +1,6 @@
 ---
 url: https://numduo.bandcamp.com/album/vacant-shade
+archive: "https://web.archive.org/web/20230721014558/https://numduo.bandcamp.com/album/vacant-shade"
 title: Vacant Shade | NUM
 kind: web page
 language: en

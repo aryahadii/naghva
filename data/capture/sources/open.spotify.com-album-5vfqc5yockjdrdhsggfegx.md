@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/5VFqC5YOckJDrDhsGGFegX
+archive: "https://web.archive.org/web/20240624034217/https://open.spotify.com/album/5VFqC5YOckJDrDhsGGFegX"
 title: Empty Voices - Hamed Sadeghi | Spotify
 kind: web page
 tier: discography

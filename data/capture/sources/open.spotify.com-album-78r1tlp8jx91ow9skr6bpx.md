@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/78R1TLP8jX91OW9SKR6bpx
+archive: "https://web.archive.org/web/20250831231104/https://open.spotify.com/album/78R1TLP8jX91OW9SKR6bpx"
 title: Shooting Stars
 tier: discography
 language: en

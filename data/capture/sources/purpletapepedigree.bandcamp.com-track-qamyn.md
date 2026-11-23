@@ -1,5 +1,6 @@
 ---
 url: https://purpletapepedigree.bandcamp.com/track/qamyn
+archive: "https://web.archive.org/web/20260906155151/https://purpletapepedigree.bandcamp.com/track/qamyn"
 title: Qamyn | Nima Aghiani | PTP
 kind: web page
 language: en

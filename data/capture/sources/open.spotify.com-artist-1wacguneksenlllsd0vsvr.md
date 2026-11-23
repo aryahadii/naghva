@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/artist/1WaCguNeKSENLLlSd0vSVR
+archive: "https://web.archive.org/web/20250811232350/https://open.spotify.com/artist/1WaCguNeKSENLLlSd0vSVR"
 title: Listen to Justina Songs | Spotify
 tier: discography
 language: en

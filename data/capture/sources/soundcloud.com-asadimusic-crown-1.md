@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/asadimusic/crown-1
+archive: "https://web.archive.org/web/20240901123917/https://soundcloud.com/asadimusic/crown-1"
 title: CROWN
 tier: own
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://nuri.bandcamp.com/album/irun-remixes
+archive: "https://web.archive.org/web/20260208150931/https://nuri.bandcamp.com/album/irun-remixes"
 title: Irun - Remixes | Nuri
 kind: web page
 language: en

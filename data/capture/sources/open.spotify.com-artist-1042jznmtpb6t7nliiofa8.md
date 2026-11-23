@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/artist/1042JZnmTpB6t7NLIIOfa8
+archive: "https://web.archive.org/web/20240930221233/https://open.spotify.com/artist/1042JZnmTpB6t7NLIIOfa8"
 title: Listen to Ooldouz Pouri Songs | Spotify
 kind: web page
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/0rksJDivJoq6m5mgRn91s6
+archive: "https://web.archive.org/web/20250415061740/https://open.spotify.com/album/0rksJDivJoq6m5mgRn91s6"
 title: 'The Dastgahs of Persian Music: Avaz-e Abu Ata'
 tier: discography
 language: en

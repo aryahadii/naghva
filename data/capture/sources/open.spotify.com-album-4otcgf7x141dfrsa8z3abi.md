@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/4otCGF7X141DFRSA8z3ABI
+archive: "https://web.archive.org/web/20210523125454/https://open.spotify.com/album/4otCGF7X141DFRSA8z3ABI"
 title: Nightingales in Berlin
 tier: discography
 language: en

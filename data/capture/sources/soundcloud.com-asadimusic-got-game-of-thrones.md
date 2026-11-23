@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/asadimusic/got-game-of-thrones
+archive: "https://web.archive.org/web/20250816100542/https://soundcloud.com/asadimusic/got-game-of-thrones"
 title: GOT (Game Of Thrones)
 tier: own
 language: en

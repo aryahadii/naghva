@@ -1,5 +1,6 @@
 ---
 url: https://parsi-parla.art/our-team/sogol-mirzaei/
+archive: "https://web.archive.org/web/20250316005338/https://parsi-parla.art/our-team/sogol-mirzaei/"
 title: Sogol Mirzaei - Festival Parsi Parla - Excenevex (74)
 status: processed
 language: en

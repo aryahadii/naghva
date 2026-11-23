@@ -1,5 +1,6 @@
 ---
 url: https://schwarzesbayern.info/compilation-anthology-of-persian-experimental-music-usg/
+archive: "https://web.archive.org/web/20260719004510/https://schwarzesbayern.info/compilation-anthology-of-persian-experimental-music-usg/"
 title: 'Compilation: Anthology Of Persian Experimental Music (USG)'
 kind: web page
 language: de

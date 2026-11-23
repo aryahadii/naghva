@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/embed/track/1znV4rFXTwMsbFlWybon5t
+archive: "https://web.archive.org/web/20260307064432/https://open.spotify.com/embed/track/1znV4rFXTwMsbFlWybon5t"
 title: Soorate Majazi
 tier: discography
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/babackrajabi/slknjvfjestl
+archive: "https://web.archive.org/web/20230413052643/https://soundcloud.com/babackrajabi/slknjvfjestl"
 title: ترانه ی بد · Babak Rajabi
 status: processed
 language: fa

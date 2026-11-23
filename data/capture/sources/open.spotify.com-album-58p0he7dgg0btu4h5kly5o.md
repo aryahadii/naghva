@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/58p0He7dgG0btU4H5klY5o
+archive: "https://web.archive.org/web/20250822182343/https://open.spotify.com/album/58p0He7dgG0btU4H5klY5o"
 title: ASADI WORLDWIDE
 tier: discography
 language: en

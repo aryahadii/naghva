@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/aidashahghasemi/fgcqizdk3wjr
+archive: "https://web.archive.org/web/20220325191817/https://soundcloud.com/aidashahghasemi/fgcqizdk3wjr"
 title: گل پامچال
 tier: discography
 language: en

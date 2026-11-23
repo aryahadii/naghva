@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/track/0ZavuKEMQsPPvG5TZYBS8j
+archive: "https://web.archive.org/web/20220930180750/https://open.spotify.com/track/0ZavuKEMQsPPvG5TZYBS8j"
 title: Brood - Mind Against Remix - song and lyrics by Blausch, Meshcut, Mind Against | Spotify
 kind: web page
 language: en

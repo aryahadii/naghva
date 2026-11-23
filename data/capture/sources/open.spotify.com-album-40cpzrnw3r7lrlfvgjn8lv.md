@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/40CpzRnW3R7LRLfvGJn8Lv
+archive: "https://web.archive.org/web/20240930202725/https://open.spotify.com/album/40CpzRnW3R7LRLfvGJn8Lv"
 title: 'The Dastgahs of Persian Music: Dastgah-e Mahur'
 tier: discography
 language: en

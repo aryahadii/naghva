@@ -1,5 +1,6 @@
 ---
 url: https://navaak.com/album/mohsen-sharifian-Musighi-Navavi-Iran-Sharve-Khani-Dar-Bushehr-1
+archive: "https://web.archive.org/web/20211026031351/https://navaak.com/album/mohsen-sharifian-Musighi-Navavi-Iran-Sharve-Khani-Dar-Bushehr-1"
 title: آلبوم موسیقی نواحی ایران - شروه خوانی در بوشهر - لوح اول (31) از محسن شریفیان | نواک
 tier: discography
 language: fa

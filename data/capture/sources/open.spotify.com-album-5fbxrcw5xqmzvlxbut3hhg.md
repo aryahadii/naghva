@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/5fBxrcw5XQMzVLXBUT3HHG
+archive: "https://web.archive.org/web/20190824025731/https://open.spotify.com/album/5fBxrcw5XQMzVLXBUT3HHG"
 title: Sarmast (Intoxicated)
 tier: discography
 language: en

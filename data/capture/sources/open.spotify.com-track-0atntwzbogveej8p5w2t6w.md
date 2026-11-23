@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/track/0aTnTwzBOgveEJ8p5W2t6W
+archive: "https://web.archive.org/web/20241228161225/https://open.spotify.com/track/0aTnTwzBOgveEJ8p5W2t6W"
 title: Na Ashena - song and lyrics by Pillow | Spotify
 kind: web page
 tier: discography

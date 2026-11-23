@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/asadimusic/pari
+archive: "https://web.archive.org/web/20260728194318/https://soundcloud.com/asadimusic/pari"
 title: Pari
 tier: own
 language: en

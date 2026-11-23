@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/artist/644jAtbhNKKrDRijNSR84f
+archive: "https://web.archive.org/web/20250829194635/https://open.spotify.com/artist/644jAtbhNKKrDRijNSR84f"
 title: Ehsan Matoori
 tier: own
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/artist/7kzEfOaqiXkhhTh7qMPVLj
+archive: "https://web.archive.org/web/20261018144723/https://open.spotify.com/artist/7kzEfOaqiXkhhTh7qMPVLj"
 title: ASADI
 tier: own
 language: en

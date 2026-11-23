@@ -1,5 +1,6 @@
 ---
 url: https://newfocusrecordings.bandcamp.com/album/richard-carrick-l-alg-rie
+archive: "https://web.archive.org/web/20260108210717/https://newfocusrecordings.bandcamp.com/album/richard-carrick-l-alg-rie"
 title: 'Richard Carrick: l’Algérie | Either/Or | New Focus Recordings'
 status: processed
 language: en

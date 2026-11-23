@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/eendomusic/fekreshokarditaabehaal
+archive: "https://web.archive.org/web/20230924172531/https://soundcloud.com/eendomusic/fekreshokarditaabehaal"
 title: Stream Fekresho Kardi Taa Be Haal?  |  فکرشو کردی تا به حال؟ by Eendo | Listen online for free on SoundCloud
 kind: web page
 tier: own

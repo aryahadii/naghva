@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/karmandan/baroon
+archive: "https://web.archive.org/web/20221205074216/https://soundcloud.com/karmandan/baroon"
 title: Stream Baroon by Karmandan | Listen online for free on SoundCloud
 kind: web page
 tier: own

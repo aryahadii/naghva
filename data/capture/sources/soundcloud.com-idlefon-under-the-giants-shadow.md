@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/idlefon/under-the-giants-shadow
+archive: "https://web.archive.org/web/20160827144751/https://soundcloud.com/idlefon/under-the-giants-shadow"
 title: Stream Under The Giant's Shadow by Idlefon | Listen online for free on SoundCloud
 kind: web page
 language: en

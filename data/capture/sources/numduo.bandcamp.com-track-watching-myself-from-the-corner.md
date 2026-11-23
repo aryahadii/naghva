@@ -1,5 +1,6 @@
 ---
 url: https://numduo.bandcamp.com/track/watching-myself-from-the-corner
+archive: "https://web.archive.org/web/20230721014724/https://numduo.bandcamp.com/track/watching-myself-from-the-corner"
 title: Watching Myself from the Corner | NUM
 kind: web page
 language: en

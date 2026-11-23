@@ -1,5 +1,6 @@
 ---
 url: https://pitp.bandcamp.com/track/your-face-disappearing
+archive: "https://web.archive.org/web/20241006011103/https://pitp.bandcamp.com/track/your-face-disappearing"
 title: Your Face Disappearing | Maryam Sirvan | Past Inside the Present
 kind: web page
 language: en

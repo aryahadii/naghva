@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/2Fcz6pS1lB234jeHGZ4TH0
+archive: "https://web.archive.org/web/20251201084146/https://open.spotify.com/album/2Fcz6pS1lB234jeHGZ4TH0"
 title: The Poet's Chamber
 tier: discography
 language: en

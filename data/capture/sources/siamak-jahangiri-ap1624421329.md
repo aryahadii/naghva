@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/dont-go-far-away/1624421329
+archive: "https://web.archive.org/web/20250818135945/https://music.apple.com/us/album/dont-go-far-away/1624421329"
 title: ‎Don't Go Far Away - Album by Samin Ghorbani, Siamak Jahangiri & Farzad Fazli - Apple Music
 tier: discography
 kind: web page

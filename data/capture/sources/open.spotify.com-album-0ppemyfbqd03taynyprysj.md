@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/0PpeMyFBQd03taynypRySj
+archive: "https://web.archive.org/web/20250126124432/https://open.spotify.com/album/0PpeMyFBQd03taynypRySj"
 title: Be Yadam
 tier: discography
 language: en

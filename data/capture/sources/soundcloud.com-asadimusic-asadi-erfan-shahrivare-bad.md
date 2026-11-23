@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/asadimusic/asadi-erfan-shahrivare-bad
+archive: "https://web.archive.org/web/20260210213018/https://soundcloud.com/asadimusic/asadi-erfan-shahrivare-bad"
 title: ASADI & ERFAN - SHAHRIVARE BAD
 tier: own
 language: en

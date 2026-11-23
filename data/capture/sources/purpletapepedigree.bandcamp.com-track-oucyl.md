@@ -1,5 +1,6 @@
 ---
 url: https://purpletapepedigree.bandcamp.com/track/oucyl
+archive: "https://web.archive.org/web/20260906155150/https://purpletapepedigree.bandcamp.com/track/oucyl"
 title: Oucyl | Nima Aghiani | PTP
 kind: web page
 language: en

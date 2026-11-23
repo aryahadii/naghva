@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/4tgNWRpFBtgqLVpT6YVQXf
+archive: "https://web.archive.org/web/20200105043802/https://open.spotify.com/album/4tgNWRpFBtgqLVpT6YVQXf"
 title: Listen to Null - Album by Mahmood Schricker | Spotify
 kind: web page
 language: en

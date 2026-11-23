@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/1NANtzmSK2fdmYnKUCogLr
+archive: "https://web.archive.org/web/20250416064211/https://open.spotify.com/album/1NANtzmSK2fdmYnKUCogLr"
 title: Sta Op! (Live)
 tier: discography
 language: en

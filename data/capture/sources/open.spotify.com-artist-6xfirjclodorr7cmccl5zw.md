@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/artist/6XFIRJcLodORR7cmCCL5Zw
+archive: "https://web.archive.org/web/20250824150151/https://open.spotify.com/artist/6XFIRJcLodORR7cmCCL5Zw"
 title: Confess
 tier: own
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/7BIk3uHrFXzUHNVgifbr3j
+archive: "https://web.archive.org/web/20260211161653/https://open.spotify.com/album/7BIk3uHrFXzUHNVgifbr3j"
 title: Noosh
 tier: discography
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://rostammirlashari.com/about/
+archive: "https://web.archive.org/web/20260713222310/https://rostammirlashari.com/about/"
 title: About – Rostam Mirlashari
 tier: own
 language: en

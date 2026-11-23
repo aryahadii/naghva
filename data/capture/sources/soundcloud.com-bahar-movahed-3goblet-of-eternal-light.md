@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/bahar-movahed/3goblet-of-eternal-light
+archive: "https://web.archive.org/web/20260119101618/https://soundcloud.com/bahar-movahed/3goblet-of-eternal-light"
 title: Stream Goblet Of Eternal Light - نورِ باده by Bahar Movahed | Listen online for free on SoundCloud
 status: processed
 language: en

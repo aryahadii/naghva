@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/3PgI1ttEXZKxR07lPIzPt0
+archive: "https://web.archive.org/web/20260306050215/https://open.spotify.com/album/3PgI1ttEXZKxR07lPIzPt0"
 title: Fifer
 tier: discography
 language: en

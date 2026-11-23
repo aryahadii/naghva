@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/ajamband/gole-iran
+archive: "https://web.archive.org/web/20140805114752/http://soundcloud.com/ajamband/gole-iran"
 title: Stream Gole Iran (World Cup 2014) / عجم - گل ایران by Ajam Band | Listen online for free on SoundCloud
 status: processed
 language: en

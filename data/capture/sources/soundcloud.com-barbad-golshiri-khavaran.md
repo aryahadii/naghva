@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/barbad-golshiri/khavaran
+archive: "https://web.archive.org/web/20240914175343/https://soundcloud.com/barbad-golshiri/khavaran"
 title: Stream محاق مهر خاوران | Victory Over the Sun II by Barbad Golshiri | Listen online for free on SoundCloud
 kind: web page
 language: en

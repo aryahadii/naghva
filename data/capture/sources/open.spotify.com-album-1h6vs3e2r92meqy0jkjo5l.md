@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/1H6vs3E2R92MEQy0jkjo5L
+archive: "https://web.archive.org/web/20190918180042/https://open.spotify.com/album/1H6vs3E2R92MEQy0jkjo5L"
 title: Love You Without Fear
 tier: discography
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/track/6Tg7w3tUviKfxpjqdqDzlf
+archive: "https://web.archive.org/web/20220205014339/https://open.spotify.com/track/6Tg7w3tUviKfxpjqdqDzlf"
 title: Let's Play - song and lyrics by Hamzeh Yeganeh, Kaveh Sarvarian | Spotify
 kind: web page
 language: en

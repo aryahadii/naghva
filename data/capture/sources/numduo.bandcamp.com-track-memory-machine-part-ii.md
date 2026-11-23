@@ -1,5 +1,6 @@
 ---
 url: https://numduo.bandcamp.com/track/memory-machine-part-ii
+archive: "https://web.archive.org/web/20230721014706/https://numduo.bandcamp.com/track/memory-machine-part-ii"
 title: Memory Machine - Part II | NUM
 kind: web page
 language: en

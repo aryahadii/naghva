@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/4aMqnAY9M1qmkXtOb1XGic
+archive: "https://web.archive.org/web/20250407115836/https://open.spotify.com/album/4aMqnAY9M1qmkXtOb1XGic"
 title: Sarāb
 tier: discography
 language: en

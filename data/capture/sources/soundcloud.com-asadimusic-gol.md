@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/asadimusic/gol
+archive: "https://web.archive.org/web/20201112013122/https://soundcloud.com/asadimusic/gol"
 title: GOL
 tier: own
 language: en

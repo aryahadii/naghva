@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/meshcut/wasted
+archive: "https://web.archive.org/web/20250831234718/https://soundcloud.com/meshcut/wasted"
 title: Stream Ash Ft. Meshcut - Wasted by Meshcut | Listen online for free on SoundCloud
 kind: web page
 language: en

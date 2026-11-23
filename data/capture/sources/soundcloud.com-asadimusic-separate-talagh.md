@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/asadimusic/separate-talagh
+archive: "https://web.archive.org/web/20230311063153/https://soundcloud.com/asadimusic/separate-talagh"
 title: Separate (Talagh)
 tier: own
 language: en

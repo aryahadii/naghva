@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/eendomusic/like-the-sun-ben-vincent-ft-eendo
+archive: "https://web.archive.org/web/20211026040232/https://soundcloud.com/eendomusic/like-the-sun-ben-vincent-ft-eendo"
 title: Stream Like the Sun (Ben & Vincent ft. Eendo)  |  همچون خورشید by Eendo | Listen online for free on SoundCloud
 kind: web page
 tier: own

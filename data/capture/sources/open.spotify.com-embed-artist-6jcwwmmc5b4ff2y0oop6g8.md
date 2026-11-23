@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/embed/artist/6jCwWmmC5b4fF2y0OOP6g8
+archive: "https://web.archive.org/web/20180419135033/https://open.spotify.com/embed/artist/6jCwWmmC5b4fF2y0OOP6g8"
 title: Eendo - Top tracks | Spotify
 kind: web page
 tier: own

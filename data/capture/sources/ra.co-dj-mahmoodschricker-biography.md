@@ -1,5 +1,6 @@
 ---
 url: https://ra.co/dj/mahmoodschricker/biography
+archive: "https://web.archive.org/web/20231108212618/https://ra.co/dj/mahmoodschricker/biography"
 title: Mahmood Schricker · Biography
 kind: web page
 language: en

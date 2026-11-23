@@ -1,5 +1,6 @@
 ---
 url: https://smallworldmusic.com/wp-content/uploads/2024/08/SWM-Incubator-2023.pdf
+archive: "https://web.archive.org/web/20260330083512/https://smallworldmusic.com/wp-content/uploads/2024/08/SWM-Incubator-2023.pdf"
 title: Small World Music Incubator 2023
 kind: web page
 language: en

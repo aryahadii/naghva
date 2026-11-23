@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/embed/album/65szqpN5uHBpsCPdxZculv
+archive: "https://web.archive.org/web/20231030065721/https://open.spotify.com/embed/album/65szqpN5uHBpsCPdxZculv"
 title: Endeavor - The Muckers | Spotify
 kind: web page
 tier: discography

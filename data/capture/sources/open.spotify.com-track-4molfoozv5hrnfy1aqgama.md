@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/track/4MOlFOozv5Hrnfy1aqGama
+archive: "https://web.archive.org/web/20210720211641/https://open.spotify.com/track/4MOlFOozv5Hrnfy1aqGama"
 title: Godar - song and lyrics by Mahmood Schricker | Spotify
 kind: web page
 language: en

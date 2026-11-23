@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/negar-bouban/an-extract-from-ganj-e-hekmat-part-2
+archive: "https://web.archive.org/web/20240715041025/https://soundcloud.com/negar-bouban/an-extract-from-ganj-e-hekmat-part-2"
 title: Stream An Extract From -گنج حکمت-ایوان جان Ganj-e Hekmat - Part 2 by Negar Bouban | Listen online for free
   on SoundCloud
 tier: discography

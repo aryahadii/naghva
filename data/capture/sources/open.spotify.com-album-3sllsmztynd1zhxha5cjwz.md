@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/3sLlsMZTYNd1zhXHa5CJwz
+archive: "https://web.archive.org/web/20190716092530/https://open.spotify.com/album/3sLlsMZTYNd1zhXHa5CJwz"
 title: Listen to Baloutchistan (La tradition instrumentale / The Instrumental Tradition) [Archive Series] - Compilation by Various Artists
   | Spotify
 kind: web page

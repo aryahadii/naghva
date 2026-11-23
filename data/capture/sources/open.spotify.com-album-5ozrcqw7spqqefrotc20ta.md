@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/5oZRcQW7SpQqefRotC20tA
+archive: "https://web.archive.org/web/20250905035851/https://open.spotify.com/album/5oZRcQW7SpQqefRotC20tA"
 title: 'Listen to Berlin Atonal: More Light - Compilation by Various Artists | Spotify'
 status: processed
 language: en

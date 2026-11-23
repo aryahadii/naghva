@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/embed/album/70K52LbOkBEFQMBBsrx367
+archive: "https://web.archive.org/web/20251017200737/https://open.spotify.com/embed/album/70K52LbOkBEFQMBBsrx367"
 title: Asheghane Ha - Arash Fouladvand | Spotify
 kind: web page
 tier: discography

@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/artist/4qeOxfRiZSacaM2ZazrqP0
+archive: "https://web.archive.org/web/20241105094857/https://open.spotify.com/artist/4qeOxfRiZSacaM2ZazrqP0"
 title: Listen to Badieh Songs | Spotify
 kind: web page
 tier: discography

@@ -1,5 +1,6 @@
 ---
 url: https://newfocusrecordings.bandcamp.com/track/m-morial
+archive: "https://web.archive.org/web/20260204024437/https://newfocusrecordings.bandcamp.com/track/m-morial"
 title: Mémorial | Either/Or | New Focus Recordings
 status: processed
 language: en

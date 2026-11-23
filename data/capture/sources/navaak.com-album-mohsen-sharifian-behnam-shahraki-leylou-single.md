@@ -1,5 +1,6 @@
 ---
 url: https://navaak.com/album/mohsen-sharifian-behnam-shahraki-leylou-single
+archive: "https://web.archive.org/web/20251008134309/https://navaak.com/album/mohsen-sharifian-behnam-shahraki-leylou-single"
 title: تک آهنگ لِی لو از محسن شریفیان و بهنام شهرکی | نواک
 tier: discography
 language: fa

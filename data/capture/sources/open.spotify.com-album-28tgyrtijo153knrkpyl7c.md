@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/28TGYrTiJO153knrKpyl7c
+archive: "https://web.archive.org/web/20250125085429/https://open.spotify.com/album/28TGYrTiJO153knrKpyl7c"
 title: Naliyeh
 tier: discography
 language: en

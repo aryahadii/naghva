@@ -1,5 +1,6 @@
 ---
 url: https://purson.ir/fa/content/560201/آلبوم-متفاوت-یادها-را-بشنوید
+archive: "https://web.archive.org/web/20231129130719/https://purson.ir/fa/content/560201/%D8%A2%D9%84%D8%A8%D9%88%D9%85-%D9%85%D8%AA%D9%81%D8%A7%D9%88%D8%AA-%DB%8C%D8%A7%D8%AF%D9%87%D8%A7-%D8%B1%D8%A7-%D8%A8%D8%B4%D9%86%D9%88%DB%8C%D8%AF"
 title: آلبوم متفاوت «یادها» را بشنوید
 status: processed
 language: en

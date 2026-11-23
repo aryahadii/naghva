@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/babackrajabi/c2mcydbm65qe
+archive: "https://web.archive.org/web/20260203033430/https://soundcloud.com/babackrajabi/c2mcydbm65qe"
 title: رنگ قالی- Range ghali · Babak Rajabi
 status: processed
 language: fa

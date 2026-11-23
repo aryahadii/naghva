@@ -1,5 +1,6 @@
 ---
 url: https://sheentrio.bandcamp.com/album/gozar
+archive: "https://web.archive.org/web/20251202195302/https://sheentrio.bandcamp.com/album/gozar"
 title: Gozar | Sheen Trio
 status: processed
 language: en

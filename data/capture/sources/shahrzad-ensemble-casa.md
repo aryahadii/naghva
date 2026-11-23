@@ -1,5 +1,6 @@
 ---
 url: https://casadellaculturairaniana.com/video.php
+archive: "https://web.archive.org/web/20251013085529/http://casadellaculturairaniana.com/video.php"
 title: Video - Casa della Cultura Iraniana
 tier: own
 kind: web page

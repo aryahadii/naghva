@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/track/3ASzO1weK9Ld6GeEGs7IpN
+archive: "https://web.archive.org/web/20191229233954/https://open.spotify.com/track/3ASzO1weK9Ld6GeEGs7IpN"
 title: Bypass - song and lyrics by Siavash Amini, Hessam Ohadi, Nima Pourkarimi | Spotify
 kind: web page
 language: en

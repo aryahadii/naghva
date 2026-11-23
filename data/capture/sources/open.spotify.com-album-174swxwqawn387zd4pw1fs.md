@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/174swxWQAWn387Zd4pW1Fs
+archive: "https://web.archive.org/web/20200926211851/https://open.spotify.com/album/174swxWQAWn387Zd4pW1Fs"
 title: Setareh
 tier: discography
 language: en

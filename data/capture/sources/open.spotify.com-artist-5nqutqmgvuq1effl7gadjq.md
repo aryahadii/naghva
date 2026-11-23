@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/artist/5nqUtQMGVUQ1EfFl7gADJQ
+archive: "https://web.archive.org/web/20261115163914/https://open.spotify.com/artist/5nqUtQMGVUQ1EfFl7gADJQ"
 title: Marjan Vahdat
 tier: own
 language: en

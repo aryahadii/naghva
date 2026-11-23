@@ -1,5 +1,6 @@
 ---
 url: https://nachwuchs.pop-kultur.berlin/wp-content/uploads/2024/08/PKN24_Programmheft_web.pdf
+archive: "https://web.archive.org/web/20241125064204/https://nachwuchs.pop-kultur.berlin/wp-content/uploads/2024/08/PKN24_Programmheft_web.pdf"
 title: Pop-Kultur Nachwuchs 2024 programme
 kind: web page
 language: en

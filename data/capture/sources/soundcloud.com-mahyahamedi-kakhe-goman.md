@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/mahyahamedi/kakhe-goman
+archive: "https://web.archive.org/web/20241225015609/https://soundcloud.com/mahyahamedi/kakhe-goman"
 title: Stream Kakhe Goman by Mahya Hamedi | Listen online for free on SoundCloud
 status: processed
 language: en

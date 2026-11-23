@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/artist/20QfzHxNc5iuDBCSYXZ0AG
+archive: "https://web.archive.org/web/20261112123917/https://open.spotify.com/artist/20QfzHxNc5iuDBCSYXZ0AG"
 title: Listen to Naghib Shanbehzadeh Songs | Spotify
 tier: own
 language: en

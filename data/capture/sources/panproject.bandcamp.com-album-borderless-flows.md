@@ -1,5 +1,6 @@
 ---
 url: https://panproject.bandcamp.com/album/borderless-flows
+archive: "https://web.archive.org/web/20241126174834/https://panproject.bandcamp.com/album/borderless-flows"
 title: Borderless Flows | PAN Project
 status: processed
 language: en

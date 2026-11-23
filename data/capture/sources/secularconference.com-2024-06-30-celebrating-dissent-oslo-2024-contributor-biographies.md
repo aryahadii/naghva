@@ -1,5 +1,6 @@
 ---
 url: https://secularconference.com/2024/06/30/celebrating-dissent-oslo-2024-contributor-biographies/
+archive: "https://web.archive.org/web/20260712112744/https://secularconference.com/2024/06/30/celebrating-dissent-oslo-2024-contributor-biographies/"
 title: Celebrating Dissent Oslo 2024 Contributor Biographies – Secular Conference
 status: processed
 language: en

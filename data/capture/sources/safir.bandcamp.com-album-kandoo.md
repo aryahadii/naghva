@@ -1,5 +1,6 @@
 ---
 url: https://safir.bandcamp.com/album/kandoo
+archive: "https://web.archive.org/web/20240912120832/https://safir.bandcamp.com/album/kandoo"
 title: Kandoo | Safir, Nima Aghiani | Safir
 kind: web page
 language: en

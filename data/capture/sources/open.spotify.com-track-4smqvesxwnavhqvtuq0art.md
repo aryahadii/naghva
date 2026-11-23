@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/track/4SMqVESxWNAVhqvtuq0ArT
+archive: "https://web.archive.org/web/20250706074531/https://open.spotify.com/track/4SMqVESxWNAVhqvtuq0ArT"
 title: Steady Dive - song and lyrics by Photomat | Spotify
 kind: web page
 language: en

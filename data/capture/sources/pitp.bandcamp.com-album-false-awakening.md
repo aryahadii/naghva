@@ -1,5 +1,6 @@
 ---
 url: https://pitp.bandcamp.com/album/false-awakening
+archive: "https://web.archive.org/web/20250628090505/https://pitp.bandcamp.com/album/false-awakening"
 title: False Awakening | NUM | Past Inside the Present
 kind: web page
 language: en

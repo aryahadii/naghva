@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/artist/17Aqz54dYHPvkakEN0GOoW
+archive: "https://web.archive.org/web/20260201222341/https://open.spotify.com/artist/17Aqz54dYHPvkakEN0GOoW"
 title: Listen to Soheil Peyghambari Songs | Spotify
 kind: web page
 language: en

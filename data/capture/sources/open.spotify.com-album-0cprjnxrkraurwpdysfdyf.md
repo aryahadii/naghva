@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/0cPRjNXrkraURwPdYSFdyf
+archive: "https://web.archive.org/web/20250711192936/https://open.spotify.com/album/0cPRjNXrkraURwPdYSFdyf"
 title: Listen to Hamin Lahzeh - Album by Eendo | Spotify
 kind: web page
 tier: discography

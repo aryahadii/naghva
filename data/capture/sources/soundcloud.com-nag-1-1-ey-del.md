@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/nag-1-1/ey-del
+archive: "https://web.archive.org/web/20250901032030/https://soundcloud.com/nag-1-1/ey-del"
 title: Ey Del
 tier: own
 kind: web page

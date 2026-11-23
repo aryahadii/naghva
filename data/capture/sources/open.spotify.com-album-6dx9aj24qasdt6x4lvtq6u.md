@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/6dx9aj24qasDt6x4LvTQ6u
+archive: "https://web.archive.org/web/20210613173117/https://open.spotify.com/album/6dx9aj24qasDt6x4LvTQ6u"
 title: Unceasing Lamentations
 tier: discography
 language: en

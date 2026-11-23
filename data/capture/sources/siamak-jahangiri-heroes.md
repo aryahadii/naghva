@@ -1,5 +1,6 @@
 ---
 url: https://www.silkroad.org/heroes-program
+archive: "https://web.archive.org/web/20250524161837/https://www.silkroad.org/heroes-program"
 title: Heroes Program — Silkroad
 tier: own
 kind: web page

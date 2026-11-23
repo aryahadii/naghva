@@ -1,5 +1,6 @@
 ---
 url: https://oxingalemusic.com/2024/04/03/dawn/
+archive: "https://web.archive.org/web/20251028030024/https://oxingalemusic.com/2024/04/03/dawn/"
 title: Dawn | OXINGALE MUSIC
 status: processed
 language: en

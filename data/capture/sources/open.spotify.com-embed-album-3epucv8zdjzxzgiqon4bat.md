@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/embed/album/3epucv8zDJZxZGIqoN4BAT
+archive: "https://web.archive.org/web/20250411085356/https://open.spotify.com/embed/album/3epucv8zDJZxZGIqoN4BAT"
 title: Les vents brûlants - Ensemble Chakâm | Spotify
 status: processed
 language: en

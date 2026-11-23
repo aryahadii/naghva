@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/aidashahghasemi/day-balal
+archive: "https://web.archive.org/web/20240821013420/https://soundcloud.com/aidashahghasemi/day-balal"
 title: دی بلال-Day Balāl
 tier: discography
 language: en

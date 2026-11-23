@@ -1,5 +1,6 @@
 ---
 url: https://oper-frankfurt.de/media/pdf/WLF_Artists_Biographies_EN_DE.PDF
+archive: "https://web.archive.org/web/20240524051726/https://oper-frankfurt.de/media/pdf/WLF_Artists_Biographies_EN_DE.PDF"
 title: 'Oper Frankfurt: artist biographies'
 tier: own
 language: en

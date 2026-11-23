@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/eendomusic/waltz-e-darya
+archive: "https://web.archive.org/web/20210810215750/https://soundcloud.com/eendomusic/waltz-e-darya"
 title: Stream Waltz e Darya (Reza Mortazavi + Eendo)  |  والس دریا by Eendo | Listen online for free on SoundCloud
 kind: web page
 tier: own

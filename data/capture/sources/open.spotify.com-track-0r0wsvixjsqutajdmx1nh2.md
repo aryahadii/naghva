@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/track/0R0wsVIXjSQutAJDMX1Nh2
+archive: "https://web.archive.org/web/20250925064824/https://open.spotify.com/track/0R0wsVIXjSQutAJDMX1Nh2"
 title: Pepperoni - song and lyrics by Bomrani, Rouzbeh Esfandarmaz, Sardar Sarmast | Spotify
 kind: web page
 language: en

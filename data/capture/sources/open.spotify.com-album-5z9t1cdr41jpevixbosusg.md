@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/5z9T1CdR41jPeVixbOsUsG
+archive: "https://web.archive.org/web/20190820174249/https://open.spotify.com/album/5z9T1CdR41jPeVixbOsUsG"
 title: Per Se
 tier: discography
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/42KKldYAaCsnsDSPs9KrOG
+archive: "https://web.archive.org/web/20210316144314/https://open.spotify.com/album/42KKldYAaCsnsDSPs9KrOG"
 title: No Solo
 tier: discography
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/5n8Evkw6xL5tibvSxk3jGd
+archive: "https://web.archive.org/web/20210415232132/https://open.spotify.com/album/5n8Evkw6xL5tibvSxk3jGd"
 title: Ka'le
 tier: discography
 language: en

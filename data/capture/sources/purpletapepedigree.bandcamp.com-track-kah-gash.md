@@ -1,5 +1,6 @@
 ---
 url: https://purpletapepedigree.bandcamp.com/track/kah-gash
+archive: "https://web.archive.org/web/20260906155152/https://purpletapepedigree.bandcamp.com/track/kah-gash"
 title: Kah-Gash | Nima Aghiani | PTP
 kind: web page
 language: en

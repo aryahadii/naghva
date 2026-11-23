@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/1qVia4obm7j5JVPEl1oxoC
+archive: "https://web.archive.org/web/20210526211911/https://open.spotify.com/album/1qVia4obm7j5JVPEl1oxoC"
 title: Listen to Compilation (World - Traditional) - Compilation by Various Artists | Spotify
 kind: web page
 language: en

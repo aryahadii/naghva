@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/roham-sobhani/be-asiran-e-ghafas
+archive: "https://web.archive.org/web/20260213042950/https://soundcloud.com/roham-sobhani/be-asiran-e-ghafas"
 title: Stream To the Prisoners of the Cage.به اسیران قفس by Roham-Sobhani | Listen online for free on SoundCloud
 status: processed
 language: fa

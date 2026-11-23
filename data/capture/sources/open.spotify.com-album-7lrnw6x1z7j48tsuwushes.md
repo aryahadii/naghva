@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/7lRNw6X1z7j48tSuwuSHEs
+archive: "https://web.archive.org/web/20261114083935/https://open.spotify.com/album/7lRNw6X1z7j48tSuwuSHEs"
 title: MRA
 tier: discography
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/daryadadvar/koucha-lar
+archive: "https://web.archive.org/web/20250803084748/https://soundcloud.com/daryadadvar/koucha-lar"
 title: Kuchalara / کوچه لر
 tier: discography
 language: en

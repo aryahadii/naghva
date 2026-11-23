@@ -1,5 +1,6 @@
 ---
 url: https://serjtankian.com/pages/serj-tankian-the-f-c-c-live-in-leeds
+archive: "https://web.archive.org/web/20251018224851/https://serjtankian.com/pages/serj-tankian-the-f-c-c-live-in-leeds"
 title: Serj Tankian & The F.C.C. - Live At Leeds
 kind: web page
 tier: own

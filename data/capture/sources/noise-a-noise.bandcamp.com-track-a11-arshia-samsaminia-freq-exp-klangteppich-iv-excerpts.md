@@ -1,5 +1,6 @@
 ---
 url: https://noise-a-noise.bandcamp.com/track/a11-arshia-samsaminia-freq-exp-klangteppich-iv-excerpts
+archive: "https://web.archive.org/web/20261103023917/https://noise-a-noise.bandcamp.com/track/a11-arshia-samsaminia-freq-exp-klangteppich-iv-excerpts"
 title: A11 - Arshia Samsaminia - FREQ.EXP (Klangteppich IV Excerpts) | Various Artists | Noise à Noise
 kind: web page
 language: en

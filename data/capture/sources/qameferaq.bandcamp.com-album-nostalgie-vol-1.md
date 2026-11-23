@@ -1,5 +1,6 @@
 ---
 url: https://qameferaq.bandcamp.com/album/nostalgie-vol-1
+archive: "https://web.archive.org/web/20251230091708/https://qameferaq.bandcamp.com/album/nostalgie-vol-1"
 title: Nostalgie, Vol. 1 | Arif Mirbaghi, Kaveh Ghaffari, Farhad Asadi | Qame Feraq
 kind: web page
 language: en

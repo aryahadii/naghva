@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/track/0SM2hYm32erLiA2y0SG8Mc
+archive: "https://web.archive.org/web/20191231213255/https://open.spotify.com/track/0SM2hYm32erLiA2y0SG8Mc"
 title: Faraway دور از دیار - song and lyrics by Soheil Peyghambari | Spotify
 kind: web page
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://archive.rockpaperscissors.biz/index.cfm/fuseaction/current.press_release/project_id/352.cfm
+archive: "https://web.archive.org/web/20260910013912/https://archive.rockpaperscissors.biz/index.cfm/fuseaction/current.press_release/project_id/352.cfm"
 title: Pouya Mahmoodi, Mehr (Faryaad) — Press Release
 kind: web page
 tier: own

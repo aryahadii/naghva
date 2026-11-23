@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/artist/1WFQMPF5bxJNmx8BNVobYB
+archive: "https://web.archive.org/web/20260520162952/https://open.spotify.com/artist/1WFQMPF5bxJNmx8BNVobYB"
 title: Listen to Faravaz Songs | Spotify
 tier: discography
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/track/56ReSjYu7PBr3abKdvTZGe
+archive: "https://web.archive.org/web/20210822104653/https://open.spotify.com/track/56ReSjYu7PBr3abKdvTZGe"
 title: Gulbarin - song and lyrics by Amed, Hani Mojtahedy | Spotify
 status: processed
 language: en

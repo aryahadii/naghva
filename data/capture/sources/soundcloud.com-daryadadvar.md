@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/daryadadvar
+archive: "https://web.archive.org/web/20260728042541/https://soundcloud.com/daryadadvar"
 title: Stream DaryaDadvar music | Listen to songs, albums, playlists for free on SoundCloud
 tier: own
 language: en

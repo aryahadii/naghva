@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/artist/59AZap3x4QLxbc4onsqMam
+archive: "https://web.archive.org/web/20251010014431/https://open.spotify.com/artist/59AZap3x4QLxbc4onsqMam"
 title: Listen to Mentrix Songs | Spotify
 kind: web page
 language: en

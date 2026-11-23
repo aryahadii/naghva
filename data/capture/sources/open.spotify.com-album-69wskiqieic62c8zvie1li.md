@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/69wSKiQieIC62c8ZvIE1Li
+archive: "https://web.archive.org/web/20240108230912/https://open.spotify.com/album/69wSKiQieIC62c8ZvIE1Li"
 title: Badieh II - Badieh | Spotify
 kind: web page
 tier: discography

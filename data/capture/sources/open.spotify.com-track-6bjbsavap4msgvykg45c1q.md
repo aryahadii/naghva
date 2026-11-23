@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/track/6bJbsavAP4MSgvykG45C1q
+archive: "https://web.archive.org/web/20220826120028/https://open.spotify.com/track/6bJbsavAP4MSgvykG45C1q"
 title: Mori - song and lyrics by Mahan Mirarab, Martin Berauer, Amir Wahba, Kaveh Sarvarian | Spotify
 kind: web page
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/track/5AKyyX8fbReOs74zxY6E79
+archive: "https://web.archive.org/web/20220202193645/https://open.spotify.com/track/5AKyyX8fbReOs74zxY6E79"
 title: Parisa's Spring - song and lyrics by Mahmood Schricker, Michael Red | Spotify
 kind: web page
 language: en

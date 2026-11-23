@@ -1,5 +1,6 @@
 ---
 url: https://rythmes-croises.org/saeid-shanbehzadeh-de-lafrique-au-persique/
+archive: "https://web.archive.org/web/20260309185558/https://rythmes-croises.org/saeid-shanbehzadeh-de-lafrique-au-persique/"
 title: 'Saeid SHANBEHZADEH : De l’Afrique au Persique - RYTHMES CROISÉS'
 tier: journalism
 kind: web page
