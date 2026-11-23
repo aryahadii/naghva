@@ -1,0 +1,17 @@
+id: Qk3n3gv
+type: release
+statements:
+  name:
+  - value:
+      text: Samavar Almisham (live in Inverness)
+      language: en
+    references:
+    - &id001
+      source: farzanezamen.wixsite.com-music-videos
+      quote: Samavar Almisham (live in Inverness)
+      accessed: '2026-11-21'
+      locator: Inverness performance
+  performer:
+  - value: Q38h8s7
+    references:
+    - *id001

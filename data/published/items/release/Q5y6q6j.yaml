@@ -1,0 +1,53 @@
+id: Q5y6q6j
+type: release
+statements:
+  name:
+  - value:
+      text: Rooze Paeezi
+      language: en
+    references:
+    - source: soundcloud.com-farzanezamen-rooze-paeezi
+      quote: Rooze Paeezi
+      accessed: '2026-11-21'
+      locator: Track heading and account
+  - value:
+      text: روز پاییزی
+      language: fa
+    references:
+    - source: farzanezamen.wixsite.com-music-bio
+      quote: روز پاییزی
+      accessed: '2026-11-21'
+      locator: Discography and collaborations
+  performer:
+  - value: Q38h8s7
+    references:
+    - source: soundcloud.com-farzanezamen-rooze-paeezi
+      quote: Farzane Zamen
+      accessed: '2026-11-21'
+      locator: Track heading and account
+  listen link:
+  - value: https://soundcloud.com/farzanezamen/rooze-paeezi
+    references:
+    - source: soundcloud.com-farzanezamen-rooze-paeezi
+      quote: Rooze Paeezi
+      accessed: '2026-11-21'
+      locator: Track heading and account
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-000091924164-f2k737-t500x500.jpg
+    references:
+    - source: soundcloud.com-farzanezamen-rooze-paeezi
+      quote: https://i1.sndcdn.com/artworks-000091924164-f2k737-t500x500.jpg
+      accessed: '2026-11-21'
+      locator: Track artwork in Open Graph image metadata
+    qualifiers:
+      credit:
+        text: Farzane Zamen, via SoundCloud
+        language: en
+  release date:
+  - value:
+      date: '2012'
+    references:
+    - source: soundcloud.com-farzanezamen-rooze-paeezi
+      quote: '2012-10-09T18:47:47Z'
+      accessed: '2026-11-21'
+      locator: Publication timestamp on this upload

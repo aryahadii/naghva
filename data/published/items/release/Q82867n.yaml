@@ -1,0 +1,53 @@
+id: Q82867n
+type: release
+statements:
+  name:
+  - value:
+      text: Chand Ghadam Be Sobh
+      language: en
+    references:
+    - source: soundcloud.com-farzanezamen-sobh
+      quote: Chand Ghadam Be Sobh
+      accessed: '2026-11-21'
+      locator: Track heading and account
+  - value:
+      text: چند قدم به صبح
+      language: fa
+    references:
+    - source: farzanezamen.wixsite.com-music-bio
+      quote: چند قدم به صبح
+      accessed: '2026-11-21'
+      locator: Discography and collaborations
+  performer:
+  - value: Q38h8s7
+    references:
+    - source: soundcloud.com-farzanezamen-sobh
+      quote: Farzane Zamen
+      accessed: '2026-11-21'
+      locator: Track heading and account
+  listen link:
+  - value: https://soundcloud.com/farzanezamen/sobh
+    references:
+    - source: soundcloud.com-farzanezamen-sobh
+      quote: Chand Ghadam Be Sobh
+      accessed: '2026-11-21'
+      locator: Track heading and account
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-000128489961-qxfg8g-t500x500.jpg
+    references:
+    - source: soundcloud.com-farzanezamen-sobh
+      quote: https://i1.sndcdn.com/artworks-000128489961-qxfg8g-t500x500.jpg
+      accessed: '2026-11-21'
+      locator: Track artwork in Open Graph image metadata
+    qualifiers:
+      credit:
+        text: Farzane Zamen, via SoundCloud
+        language: en
+  release date:
+  - value:
+      date: '2015'
+    references:
+    - source: soundcloud.com-farzanezamen-sobh
+      quote: '2015-09-04T14:24:44Z'
+      accessed: '2026-11-21'
+      locator: Publication timestamp on this upload
