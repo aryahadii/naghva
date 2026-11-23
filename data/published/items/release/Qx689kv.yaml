@@ -1,0 +1,127 @@
+id: Qx689kv
+type: release
+statements:
+  name:
+  - value:
+      text: Empty Voices
+      language: en
+    references:
+    - source: hamedsadeghi.bandcamp.com-album-empty-voices
+      quote: Empty Voices
+      accessed: '2026-11-21'
+      locator: Album name
+  performer:
+  - value: Qmgbz4h
+    qualifiers:
+      role: tar
+    references:
+    - source: hamedsadeghi.bandcamp.com-album-empty-voices
+      quote: Hamed Sadeghi, Persian tar
+      accessed: '2026-11-21'
+      locator: Album personnel
+  - value: Qe46ya8
+    qualifiers:
+      role: saxophone
+    references:
+    - source: hamedsadeghi.bandcamp.com-album-empty-voices
+      quote: Sandy Evans, soprano and tenor saxophone
+      accessed: '2026-11-21'
+      locator: Album personnel
+  - value: Q4ktzgw
+    qualifiers:
+      role: bass clarinet
+    references:
+    - source: hamedsadeghi.bandcamp.com-album-empty-voices
+      quote: Paul Cutlan, Bass Clarinet
+      accessed: '2026-11-21'
+      locator: Album personnel
+  - value: Qfjxs3e
+    qualifiers:
+      role: double bass
+    references:
+    - source: hamedsadeghi.bandcamp.com-album-empty-voices
+      quote: Lloyd Swanton, double bass
+      accessed: '2026-11-21'
+      locator: Album personnel
+  - value: Qs3h77n
+    qualifiers:
+      role: saxophone
+    references:
+    - source: hamedsadeghi.bandcamp.com-album-empty-voices
+      quote: Michael Avgenicos, alto saxophone
+      accessed: '2026-11-21'
+      locator: Album personnel
+  - value: Qgh55n3
+    qualifiers:
+      role: trumpet
+    references:
+    - source: hamedsadeghi.bandcamp.com-album-empty-voices
+      quote: Thomas Avgenicos, trumpet
+      accessed: '2026-11-21'
+      locator: Album personnel
+  - value: Qr65ctk
+    qualifiers:
+      role: percussion
+    references:
+    - source: hamedsadeghi.bandcamp.com-album-empty-voices
+      quote: Adem Yilmaz, percussions
+      accessed: '2026-11-21'
+      locator: Album personnel
+  listen link:
+  - value: https://hamedsadeghi.bandcamp.com/album/empty-voices
+    references:
+    - source: hamedsadeghi.bandcamp.com-album-empty-voices
+      quote: Empty Voices | Hamed Sadeghi
+      accessed: '2026-11-21'
+      locator: Album heading
+  - value: https://open.spotify.com/album/5VFqC5YOckJDrDhsGGFegX
+    references:
+    - source: open.spotify.com-album-5vfqc5yockjdrdhsggfegx
+      quote: Empty Voices
+      accessed: '2026-11-21'
+      locator: Spotify edition title
+  - value: https://music.apple.com/us/album/empty-voices/1734752398
+    references:
+    - source: music.apple.com-us-album-empty-voices-1734752398
+      quote: Empty Voices
+      accessed: '2026-11-21'
+      locator: Apple Music edition title
+  release date:
+  - value:
+      date: '2024-06-14'
+    references:
+    - source: hamedsadeghi.bandcamp.com-album-empty-voices
+      quote: released June 14, 2024
+      accessed: '2026-11-21'
+      locator: Release credits
+  release type:
+  - value: album
+    references:
+    - source: hamedsadeghi.bandcamp.com-album-empty-voices
+      quote: Empty Voices | Hamed Sadeghi
+      accessed: '2026-11-21'
+      locator: Album heading
+  cover art:
+  - value: https://f4.bcbits.com/img/a0428035064_10.jpg
+    qualifiers:
+      credit:
+        text: Shima Sadeghi, photography
+        language: en
+    references:
+    - source: hamedsadeghi.bandcamp.com-album-empty-voices
+      quote: https://f4.bcbits.com/img/a0428035064_10.jpg
+      accessed: '2026-11-21'
+      locator: Bandcamp original album image
+    - source: hamedsadeghi.bandcamp.com-album-empty-voices
+      quote: Photo by Shima Sadeghi
+      accessed: '2026-11-21'
+      locator: Cover credit
+  contributor:
+  - value: Qmgbz4h
+    qualifiers:
+      role: composer
+    references:
+    - source: hamedsadeghi.bandcamp.com-album-empty-voices
+      quote: 'Composer: Hamed Sadeghi'
+      accessed: '2026-11-21'
+      locator: Writing credit

@@ -1,0 +1,45 @@
+id: Qkfvtzv
+type: release
+statements:
+  name:
+  - value:
+      text: Poems of Hafez by Mr Aghdam, Tar Hamed Sadeghi part3
+      language: en
+    references:
+    - source: soundcloud.com-hamed-sadeghi-2-poems-of-hafez-by-mr-aghdam-2
+      quote: Poems of Hafez by Mr Aghdam, Tar Hamed Sadeghi part3
+      accessed: '2026-11-21'
+      locator: Title of artist upload
+  performer:
+  - value: Qmgbz4h
+    references:
+    - source: soundcloud.com-hamed-sadeghi-2-poems-of-hafez-by-mr-aghdam-2
+      quote: Hamed Sadeghi
+      accessed: '2026-11-21'
+      locator: Artist-owned upload
+  release date:
+  - value:
+      date: '2013-12-25'
+    references:
+    - source: soundcloud.com-hamed-sadeghi-2-poems-of-hafez-by-mr-aghdam-2
+      quote: '2013-12-25T18:02:11Z'
+      accessed: '2026-11-21'
+      locator: SoundCloud public upload timestamp
+  listen link:
+  - value: https://soundcloud.com/hamed-sadeghi-2/poems-of-hafez-by-mr-aghdam-2
+    references:
+    - source: soundcloud.com-hamed-sadeghi-2-poems-of-hafez-by-mr-aghdam-2
+      quote: Poems of Hafez by Mr Aghdam, Tar Hamed Sadeghi part3
+      accessed: '2026-11-21'
+      locator: Title of artist upload
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-000507928665-7vvd96-large.jpg
+    qualifiers:
+      credit:
+        text: Artist upload artwork on SoundCloud
+        language: en
+    references:
+    - source: soundcloud.com-hamed-sadeghi-2-poems-of-hafez-by-mr-aghdam-2
+      quote: https://i1.sndcdn.com/artworks-000507928665-7vvd96-large.jpg
+      accessed: '2026-11-21'
+      locator: SoundCloud track artwork URL

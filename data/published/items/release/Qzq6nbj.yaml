@@ -1,0 +1,70 @@
+id: Qzq6nbj
+type: release
+statements:
+  name:
+  - value:
+      text: 'Yes'
+      language: en
+    references:
+    - source: open.spotify.com-album-5hcteebfm6gwm5bofxkrn0
+      quote: 'Yes'
+      accessed: '2026-11-21'
+      locator: Spotify edition title
+  performer:
+  - value: Qmgbz4h
+    references:
+    - source: open.spotify.com-album-5hcteebfm6gwm5bofxkrn0
+      quote: Hamed Sadeghi
+      accessed: '2026-11-21'
+      locator: Single performer
+  release type:
+  - value: single
+    references:
+    - source: open.spotify.com-album-5hcteebfm6gwm5bofxkrn0
+      quote: 'Yes'
+      accessed: '2026-11-21'
+      locator: Spotify edition title
+  release date:
+  - value:
+      date: '2019-04-02'
+    references:
+    - source: music.apple.com-us-album-yes-single-1457552594
+      quote: '2019-04-02'
+      accessed: '2026-11-21'
+      locator: Single release date
+  listen link:
+  - value: https://open.spotify.com/album/5hctEeBfM6gWM5BoFXkRn0
+    references:
+    - source: open.spotify.com-album-5hcteebfm6gwm5bofxkrn0
+      quote: 'Yes'
+      accessed: '2026-11-21'
+      locator: Spotify edition title
+  - value: https://music.apple.com/us/album/yes-single/1457552594
+    references:
+    - source: music.apple.com-us-album-yes-single-1457552594
+      quote: Yes - Single
+      accessed: '2026-11-21'
+      locator: Apple Music edition title
+  - value: https://open.spotify.com/track/5KDiVeGAsFZ6BuILW8NmPM
+    references:
+    - source: open.spotify.com-album-5hcteebfm6gwm5bofxkrn0
+      quote: 'Yes'
+      accessed: '2026-11-21'
+      locator: Spotify track 1
+  - value: https://music.apple.com/us/song/yes/1457552599
+    references:
+    - source: music.apple.com-us-album-yes-single-1457552594
+      quote: 'Yes'
+      accessed: '2026-11-21'
+      locator: Apple Music track 1
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/d4/36/a3/d436a319-b2e3-3544-2585-a74f903193cd/5053760049517.png/1200x630bb.jpg
+    qualifiers:
+      credit:
+        text: Digital single artwork
+        language: en
+    references:
+    - source: music.apple.com-us-album-yes-single-1457552594
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/d4/36/a3/d436a319-b2e3-3544-2585-a74f903193cd/5053760049517.png/1200x630bb.jpg
+      accessed: '2026-11-21'
+      locator: Single cover

@@ -1,0 +1,77 @@
+id: Qrw5938
+type: release
+statements:
+  name:
+  - value:
+      text: 'Yes'
+      language: en
+    references:
+    - source: davidhush.bandcamp.com-track-yes-2
+      quote: Yes | David Hush & Hamed Sadeghi | David Hush
+      accessed: '2026-11-21'
+      locator: Bandcamp song heading
+  performer:
+  - value: Qmgbz4h
+    qualifiers:
+      role: tar
+    references:
+    - source: davidhush.bandcamp.com-album-harmony-2
+      quote: Hamed Sadeghi - Tar
+      accessed: '2026-11-21'
+      locator: Album personnel
+  - value: Qyck96r
+    qualifiers:
+      role: piano
+    references:
+    - source: davidhush.bandcamp.com-album-harmony-2
+      quote: David Hush - Piano
+      accessed: '2026-11-21'
+      locator: Album personnel
+  listen link:
+  - value: https://davidhush.bandcamp.com/track/yes-2
+    references:
+    - source: davidhush.bandcamp.com-track-yes-2
+      quote: Yes | David Hush & Hamed Sadeghi | David Hush
+      accessed: '2026-11-21'
+      locator: Bandcamp song heading
+  - value: https://open.spotify.com/track/6hC5KF1lsfcq5zsc404T2d
+    references:
+    - source: open.spotify.com-album-0r8biwd1h2jzvmvp7dazwq
+      quote: 'Yes'
+      accessed: '2026-11-21'
+      locator: Spotify track 4
+  - value: https://music.apple.com/us/song/yes/1464504066
+    references:
+    - source: music.apple.com-us-album-harmony-feat-hamed-sadeghi-1464504062
+      quote: 'Yes'
+      accessed: '2026-11-21'
+      locator: Apple Music track 4
+  - value: https://www.youtube.com/watch?v=iNn6DotRa_U
+    references:
+    - source: www.youtube.com-watch-v-inn6dotra_u
+      quote: Yes from album "Harmony"
+      accessed: '2026-11-21'
+      locator: YouTube oEmbed title
+    - source: www.youtube.com-watch-v-inn6dotra_u
+      quote: Hamed Sadeghi
+      accessed: '2026-11-21'
+      locator: Publishing channel
+  release date:
+  - value:
+      date: '2019-05-17'
+    references:
+    - source: davidhush.bandcamp.com-album-harmony-2
+      quote: released May 17, 2019
+      accessed: '2026-11-21'
+      locator: Release credits
+  cover art:
+  - value: https://f4.bcbits.com/img/a4052136743_10.jpg
+    qualifiers:
+      credit:
+        text: Artwork published on the artist’s Bandcamp
+        language: en
+    references:
+    - source: davidhush.bandcamp.com-album-harmony-2
+      quote: https://f4.bcbits.com/img/a4052136743_10.jpg
+      accessed: '2026-11-21'
+      locator: Bandcamp original album image

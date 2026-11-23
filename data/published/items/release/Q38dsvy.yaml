@@ -1,0 +1,71 @@
+id: Q38dsvy
+type: release
+statements:
+  name:
+  - value:
+      text: Tantraayin
+      language: en
+    references:
+    - source: davidhush.bandcamp.com-track-tantraayin
+      quote: Tantraayin | David Hush & Hamed Sadeghi | David Hush
+      accessed: '2026-11-21'
+      locator: Bandcamp song heading
+  performer:
+  - value: Qmgbz4h
+    qualifiers:
+      role: tar
+    references:
+    - source: davidhush.bandcamp.com-album-meditation-on-wind-2
+      quote: Hamed Sadeghi - tar
+      accessed: '2026-11-21'
+      locator: Album personnel
+  - value: Qyck96r
+    qualifiers:
+      role: piano
+    references:
+    - source: davidhush.bandcamp.com-album-meditation-on-wind-2
+      quote: David Hush - piano
+      accessed: '2026-11-21'
+      locator: Album personnel
+  listen link:
+  - value: https://davidhush.bandcamp.com/track/tantraayin
+    references:
+    - source: davidhush.bandcamp.com-track-tantraayin
+      quote: Tantraayin | David Hush & Hamed Sadeghi | David Hush
+      accessed: '2026-11-21'
+      locator: Bandcamp song heading
+  - value: https://open.spotify.com/track/0qQe0aFSzBkvwo5EbmaixL
+    references:
+    - source: open.spotify.com-album-3bgeyvgg5fb1alutho0orm
+      quote: Tantraayin
+      accessed: '2026-11-21'
+      locator: Spotify track 1
+  - value: https://music.apple.com/us/song/tantraayin/1569382055
+    references:
+    - source: music.apple.com-us-album-meditation-on-wind-1569382054
+      quote: Tantraayin
+      accessed: '2026-11-21'
+      locator: Apple Music track 1
+  release date:
+  - value:
+      date: '2021-07-30'
+    references:
+    - source: davidhush.bandcamp.com-album-meditation-on-wind-2
+      quote: released July 30, 2021
+      accessed: '2026-11-21'
+      locator: Release credits
+  cover art:
+  - value: https://f4.bcbits.com/img/a4194787983_10.jpg
+    qualifiers:
+      credit:
+        text: Hugh Todd, artwork
+        language: en
+    references:
+    - source: davidhush.bandcamp.com-album-meditation-on-wind-2
+      quote: https://f4.bcbits.com/img/a4194787983_10.jpg
+      accessed: '2026-11-21'
+      locator: Bandcamp original album image
+    - source: davidhush.bandcamp.com-album-meditation-on-wind-2
+      quote: Artwork is courtesy of Hugh Todd.
+      accessed: '2026-11-21'
+      locator: Cover credit

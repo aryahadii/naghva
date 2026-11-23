@@ -1,0 +1,72 @@
+id: Qrvxm5n
+type: release
+statements:
+  name:
+  - value:
+      text: Sonorité
+      language: en
+    references:
+    - source: hamedsadeghi.bandcamp.com-track-sonorit
+      quote: Sonorité | Hamed Sadeghi
+      accessed: '2026-11-21'
+      locator: Bandcamp song heading
+  performer:
+  - value: Qmgbz4h
+    qualifiers:
+      role: tar
+    references:
+    - source: hamedsadeghi.bandcamp.com-album-empty-voices
+      quote: Hamed Sadeghi, Persian tar
+      accessed: '2026-11-21'
+      locator: Album personnel
+  listen link:
+  - value: https://hamedsadeghi.bandcamp.com/track/sonorit
+    references:
+    - source: hamedsadeghi.bandcamp.com-track-sonorit
+      quote: Sonorité | Hamed Sadeghi
+      accessed: '2026-11-21'
+      locator: Bandcamp song heading
+  - value: https://open.spotify.com/track/0IW5PqF01dkDAiDuxEKoFc
+    references:
+    - source: open.spotify.com-album-5vfqc5yockjdrdhsggfegx
+      quote: Sonorité
+      accessed: '2026-11-21'
+      locator: Spotify track 3
+  - value: https://music.apple.com/us/song/sonorite/1734752403
+    references:
+    - source: music.apple.com-us-album-empty-voices-1734752398
+      quote: Sonorité
+      accessed: '2026-11-21'
+      locator: Apple Music track 3
+  release date:
+  - value:
+      date: '2024-06-14'
+    references:
+    - source: hamedsadeghi.bandcamp.com-album-empty-voices
+      quote: released June 14, 2024
+      accessed: '2026-11-21'
+      locator: Release credits
+  cover art:
+  - value: https://f4.bcbits.com/img/a0428035064_10.jpg
+    qualifiers:
+      credit:
+        text: Shima Sadeghi, photography
+        language: en
+    references:
+    - source: hamedsadeghi.bandcamp.com-album-empty-voices
+      quote: https://f4.bcbits.com/img/a0428035064_10.jpg
+      accessed: '2026-11-21'
+      locator: Bandcamp original album image
+    - source: hamedsadeghi.bandcamp.com-album-empty-voices
+      quote: Photo by Shima Sadeghi
+      accessed: '2026-11-21'
+      locator: Cover credit
+  contributor:
+  - value: Qmgbz4h
+    qualifiers:
+      role: composer
+    references:
+    - source: hamedsadeghi.bandcamp.com-album-empty-voices
+      quote: 'Composer: Hamed Sadeghi'
+      accessed: '2026-11-21'
+      locator: Writing credit

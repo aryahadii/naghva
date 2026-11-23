@@ -1,0 +1,41 @@
+id: Q5rxma2
+type: release
+statements:
+  name:
+  - value:
+      text: Hamed Sadeghi - Pedram Layegh
+      language: en
+    references:
+    - source: www.youtube.com-watch-v-rwjeczbop5o
+      quote: Hamed Sadeghi - Pedram Layegh
+      accessed: '2026-11-21'
+      locator: YouTube oEmbed title
+  performer:
+  - value: Qmgbz4h
+    references:
+    - source: www.youtube.com-watch-v-rwjeczbop5o
+      quote: Hamed Sadeghi
+      accessed: '2026-11-21'
+      locator: Publishing channel
+    - source: www.youtube.com-watch-v-rwjeczbop5o
+      quote: Hamed Sadeghi - Pedram Layegh
+      accessed: '2026-11-21'
+      locator: YouTube oEmbed title
+  listen link:
+  - value: https://www.youtube.com/watch?v=rWjEcZBOp5o
+    references:
+    - source: www.youtube.com-watch-v-rwjeczbop5o
+      quote: Hamed Sadeghi - Pedram Layegh
+      accessed: '2026-11-21'
+      locator: YouTube oEmbed title
+  cover art:
+  - value: https://i.ytimg.com/vi/rWjEcZBOp5o/hqdefault.jpg
+    qualifiers:
+      credit:
+        text: Hamed Sadeghi on YouTube
+        language: en
+    references:
+    - source: www.youtube.com-watch-v-rwjeczbop5o
+      quote: https://i.ytimg.com/vi/rWjEcZBOp5o/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Native YouTube thumbnail

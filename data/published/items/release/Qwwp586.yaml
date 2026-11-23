@@ -1,0 +1,70 @@
+id: Qwwp586
+type: release
+statements:
+  name:
+  - value:
+      text: Slack Rope
+      language: en
+    references:
+    - source: open.spotify.com-album-1cdx8er8krri7sxq9pddbd
+      quote: Slack Rope
+      accessed: '2026-11-21'
+      locator: Spotify edition title
+  performer:
+  - value: Qmgbz4h
+    references:
+    - source: open.spotify.com-album-1cdx8er8krri7sxq9pddbd
+      quote: Hamed Sadeghi
+      accessed: '2026-11-21'
+      locator: Single performer
+  release type:
+  - value: single
+    references:
+    - source: open.spotify.com-album-1cdx8er8krri7sxq9pddbd
+      quote: Slack Rope
+      accessed: '2026-11-21'
+      locator: Spotify edition title
+  release date:
+  - value:
+      date: '2026-08-04'
+    references:
+    - source: music.apple.com-us-album-slack-rope-single-6797699623
+      quote: '2026-08-04'
+      accessed: '2026-11-21'
+      locator: Single release date
+  listen link:
+  - value: https://open.spotify.com/album/1CDX8ER8KrRI7SXQ9PddBD
+    references:
+    - source: open.spotify.com-album-1cdx8er8krri7sxq9pddbd
+      quote: Slack Rope
+      accessed: '2026-11-21'
+      locator: Spotify edition title
+  - value: https://music.apple.com/us/album/slack-rope-single/6797699623
+    references:
+    - source: music.apple.com-us-album-slack-rope-single-6797699623
+      quote: Slack Rope - Single
+      accessed: '2026-11-21'
+      locator: Apple Music edition title
+  - value: https://open.spotify.com/track/2kpAXMBePfjyqzEIgHA0VM
+    references:
+    - source: open.spotify.com-album-1cdx8er8krri7sxq9pddbd
+      quote: Slack Rope
+      accessed: '2026-11-21'
+      locator: Spotify track 1
+  - value: https://music.apple.com/us/song/slack-rope/6797699628
+    references:
+    - source: music.apple.com-us-album-slack-rope-single-6797699623
+      quote: Slack Rope
+      accessed: '2026-11-21'
+      locator: Apple Music track 1
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/4f/69/354f6968-217c-cf06-2ff2-17f84cc7cd66/885000133848.png/1200x630bb.jpg
+    qualifiers:
+      credit:
+        text: Digital single artwork
+        language: en
+    references:
+    - source: music.apple.com-us-album-slack-rope-single-6797699623
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/4f/69/354f6968-217c-cf06-2ff2-17f84cc7cd66/885000133848.png/1200x630bb.jpg
+      accessed: '2026-11-21'
+      locator: Single cover

@@ -1,0 +1,41 @@
+id: Qast8hh
+type: release
+statements:
+  name:
+  - value:
+      text: Zarbi Shur as part of Convergence Concert Series
+      language: en
+    references:
+    - source: www.youtube.com-watch-v-ivuctit0au0
+      quote: Zarbi Shur as part of Convergence Concert Series
+      accessed: '2026-11-21'
+      locator: YouTube oEmbed title
+  performer:
+  - value: Qmgbz4h
+    references:
+    - source: www.youtube.com-watch-v-ivuctit0au0
+      quote: Hamed Sadeghi
+      accessed: '2026-11-21'
+      locator: Publishing channel
+    - source: www.youtube.com-watch-v-ivuctit0au0
+      quote: Zarbi Shur as part of Convergence Concert Series
+      accessed: '2026-11-21'
+      locator: YouTube oEmbed title
+  listen link:
+  - value: https://www.youtube.com/watch?v=IVuCTIT0AU0
+    references:
+    - source: www.youtube.com-watch-v-ivuctit0au0
+      quote: Zarbi Shur as part of Convergence Concert Series
+      accessed: '2026-11-21'
+      locator: YouTube oEmbed title
+  cover art:
+  - value: https://i.ytimg.com/vi/IVuCTIT0AU0/hqdefault.jpg
+    qualifiers:
+      credit:
+        text: Hamed Sadeghi on YouTube
+        language: en
+    references:
+    - source: www.youtube.com-watch-v-ivuctit0au0
+      quote: https://i.ytimg.com/vi/IVuCTIT0AU0/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Native YouTube thumbnail
