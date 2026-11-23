@@ -1,0 +1,37 @@
+id: Qsap23r
+type: release
+statements:
+  name:
+  - value:
+      text: CONCERT + BEHIND THE SCENES | ANKARA | MARIE SAHBA
+      language: en
+    references:
+    - source: www.youtube.com-oembed-ew3azhlajru
+      quote: CONCERT + BEHIND THE SCENES | ANKARA | MARIE SAHBA
+      locator: Official artist upload
+      accessed: '2026-11-21'
+  performer:
+  - value: Qxmhx58
+    references:
+    - source: www.mariesahba.com-about
+      quote: Marie Sahba
+      locator: Artist name
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://i.ytimg.com/vi/EW3aZhLAJrU/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-ew3azhlajru
+      quote: https://i.ytimg.com/vi/EW3aZhLAJrU/hqdefault.jpg
+      locator: Original YouTube artwork
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Marie Sahba · YouTube
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=EW3aZhLAJrU
+    references:
+    - source: www.youtube.com-oembed-ew3azhlajru
+      quote: CONCERT + BEHIND THE SCENES | ANKARA | MARIE SAHBA
+      locator: Official artist upload
+      accessed: '2026-11-21'

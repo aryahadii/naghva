@@ -1,0 +1,57 @@
+id: Qq6ay9t
+type: release
+statements:
+  name:
+  - value:
+      text: Oh Love
+      language: en
+    references:
+    - source: music.apple.com-us-album-passage-ep-1888548090
+      quote: Oh Love
+      locator: Track 3
+      accessed: '2026-11-21'
+  performer:
+  - value: Q26x4j9
+    references:
+    - source: music.apple.com-us-album-passage-ep-1888548090
+      quote: Blakhol
+      locator: Primary release artist
+      accessed: '2026-11-21'
+  - value: Qxmhx58
+    references:
+    - source: music.apple.com-us-album-passage-ep-1888548090
+      quote: Marie Sahba
+      locator: Primary release artist
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2025-06-20'
+    references:
+    - source: music.apple.com-us-album-passage-ep-1888548090
+      quote: '2025-06-20'
+      locator: Edition date
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/a4/1f/96a41fde-4697-50df-86ec-fc809f8a108c/820200838483.jpg/632x632bb-60.jpg
+    references:
+    - source: music.apple.com-us-album-passage-ep-1888548090
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/a4/1f/96a41fde-4697-50df-86ec-fc809f8a108c/820200838483.jpg/632x632bb-60.jpg
+      locator: Apple Music release artwork
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Passage · Apple Music
+        language: en
+  listen link:
+  - value: https://music.apple.com/us/song/oh-love/1888548195
+    references:
+    - source: music.apple.com-us-album-passage-ep-1888548090
+      quote: Oh Love
+      locator: Track 3
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/7uBh2IG4vKVG1HiwP3Yzk8
+    references:
+    - source: open.spotify.com-album-5nognhly8hroosyj1vdxin
+      quote: Oh Love
+      locator: Track 3
+      accessed: '2026-11-21'

@@ -1,0 +1,87 @@
+id: Qs7mk79
+type: release
+statements:
+  name:
+  - value:
+      text: Give Me A Sign - Alternate Version
+      language: en
+    references:
+    - source: music.apple.com-us-album-give-me-a-sign-alternate-version-single-1751728560
+      quote: Give Me A Sign - Alternate Version
+      locator: Track 2
+      accessed: '2026-11-21'
+  performer:
+  - value: Qxmhx58
+    references:
+    - source: music.apple.com-us-album-give-me-a-sign-alternate-version-single-1751728560
+      quote: Marie Sahba
+      locator: Primary release artist
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2023-11-03'
+    references:
+    - source: music.apple.com-us-album-give-me-a-sign-alternate-version-single-1751728560
+      quote: '2023-11-03'
+      locator: Edition date
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e8/33/7e/e8337e28-aee7-f646-1033-c6337f54d142/197190563627.jpg/632x632bb-60.jpg
+    references:
+    - source: music.apple.com-us-album-give-me-a-sign-alternate-version-single-1751728560
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e8/33/7e/e8337e28-aee7-f646-1033-c6337f54d142/197190563627.jpg/632x632bb-60.jpg
+      locator: Apple Music release artwork
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Give Me A Sign (Alternate Version) · Apple Music
+        language: en
+  listen link:
+  - value: https://music.apple.com/us/song/give-me-a-sign-alternate-version/1751728944
+    references:
+    - source: music.apple.com-us-album-give-me-a-sign-alternate-version-single-1751728560
+      quote: Give Me A Sign - Alternate Version
+      locator: Track 2
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/19In9SIhQv8kD06o5eUYmG
+    references:
+    - source: open.spotify.com-album-5iqfdjei6wbxawuce11ypr
+      quote: Give Me A Sign - Alternate Version
+      locator: Track 2
+      accessed: '2026-11-21'
+  - value: https://music.apple.com/us/song/give-me-a-sign-alternate-version/1753127345
+    references:
+    - source: music.apple.com-us-album-a-billion-years-too-soon-deluxe-1753125704
+      quote: Give Me A Sign (Alternate Version)
+      locator: Track 11
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/2zPYYZ09etcAW9Zx9RgXJk
+    references:
+    - source: open.spotify.com-album-368omyrjn8cs2liqzyqpzv
+      quote: Give Me A Sign - Alternate Version
+      locator: Track 11
+      accessed: '2026-11-21'
+  - value: https://mariesahba.bandcamp.com/track/give-me-a-sign-alternate-version
+    references:
+    - source: mariesahba.bandcamp.com-album-a-billion-years-too-soon-deluxe
+      quote: Give Me A Sign - Alternate Version
+      locator: Bandcamp track
+      accessed: '2026-11-21'
+  - value: https://soundcloud.com/mariesahba/give-me-a-sign-alternate
+    references:
+    - source: soundcloud.com-mariesahba-give-me-a-sign-alternate
+      quote: Give Me A Sign - Alternate Version
+      locator: Original SoundCloud upload
+      accessed: '2026-11-21'
+  - value: https://soundcloud.com/mariesahba/give-me-a-sign-alternate-version
+    references:
+    - source: soundcloud.com-mariesahba-give-me-a-sign-alternate-version
+      quote: Give Me A Sign - Alternate Version
+      locator: Original SoundCloud upload
+      accessed: '2026-11-21'
+  - value: https://www.youtube.com/watch?v=9SSMDmcdI7g
+    references:
+    - source: www.youtube.com-oembed-9ssmdmcdi7g
+      quote: Marie Sahba - Give Me A Sign (Alternate Version)
+      locator: Official artist upload
+      accessed: '2026-11-21'

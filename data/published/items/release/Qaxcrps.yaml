@@ -1,0 +1,65 @@
+id: Qaxcrps
+type: release
+statements:
+  name:
+  - value:
+      text: Over & Over
+      language: en
+    references:
+    - source: music.apple.com-us-album-over-over-single-1728116022
+      quote: Over & Over - Single
+      locator: Release title
+      accessed: '2026-11-21'
+  performer:
+  - value: Qxmhx58
+    references:
+    - source: music.apple.com-us-album-over-over-single-1728116022
+      quote: Marie Sahba
+      locator: Primary release artist
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2023-09-22'
+    references:
+    - source: music.apple.com-us-album-over-over-single-1728116022
+      quote: '2023-09-22'
+      locator: Edition date
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/97/aa/02/97aa026f-5751-7689-86d6-05b09ceb2602/197190908084.jpg/632x632bb-60.jpg
+    references:
+    - source: music.apple.com-us-album-over-over-single-1728116022
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/97/aa/02/97aa026f-5751-7689-86d6-05b09ceb2602/197190908084.jpg/632x632bb-60.jpg
+      locator: Apple Music release artwork
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Over & Over · Apple Music
+        language: en
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-over-over-single-1728116022
+      quote: Over & Over - Single
+      locator: Release title
+      accessed: '2026-11-21'
+  published by:
+  - value: Q8fqcmz
+    references:
+    - source: music.apple.com-us-album-over-over-single-1728116022
+      quote: Sahba Records
+      locator: Record imprint
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://music.apple.com/us/album/over-over-single/1728116022
+    references:
+    - source: music.apple.com-us-album-over-over-single-1728116022
+      quote: Over & Over - Single
+      locator: Release title
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/album/5bUdQ2wwhYvMaNhN5Ri4Y2
+    references:
+    - source: open.spotify.com-album-5budq2wwhyvmanhn5ri4y2
+      quote: Over & Over
+      locator: Album title
+      accessed: '2026-11-21'

@@ -1,0 +1,37 @@
+id: Q8bpqj3
+type: release
+statements:
+  name:
+  - value:
+      text: Marie Sahba - A Billion Years Too Soon (Official Music Video)
+      language: en
+    references:
+    - source: www.youtube.com-oembed-jssn1bht_9u
+      quote: Marie Sahba - A Billion Years Too Soon (Official Music Video)
+      locator: Official artist upload
+      accessed: '2026-11-21'
+  performer:
+  - value: Qxmhx58
+    references:
+    - source: www.mariesahba.com-about
+      quote: Marie Sahba
+      locator: Artist name
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://i.ytimg.com/vi/JSsN1BHT_9U/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-jssn1bht_9u
+      quote: https://i.ytimg.com/vi/JSsN1BHT_9U/hqdefault.jpg
+      locator: Original YouTube artwork
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Marie Sahba · YouTube
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=JSsN1BHT_9U
+    references:
+    - source: www.youtube.com-oembed-jssn1bht_9u
+      quote: Marie Sahba - A Billion Years Too Soon (Official Music Video)
+      locator: Official artist upload
+      accessed: '2026-11-21'
