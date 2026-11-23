@@ -1,0 +1,61 @@
+id: Qw9jt9p
+type: release
+statements:
+  name:
+  - value:
+      text: Saab
+      language: en
+    references:
+    - source: temp-illusion.bandcamp.com-track-saab
+      quote: Saab
+      accessed: '2026-11-21'
+      locator: Track heading
+  performer:
+  - value: Q8tq6bc
+    references:
+    - source: temp-illusion.bandcamp.com-track-saab
+      quote: Saab | Temp-Illusion
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2026-09-15'
+    references:
+    - source: temp-illusion.bandcamp.com-track-saab
+      quote: released September 15, 2026
+      accessed: '2026-11-21'
+      locator: Release credits
+  listen link:
+  - value: https://temp-illusion.bandcamp.com/track/saab
+    references:
+    - source: temp-illusion.bandcamp.com-track-saab
+      quote: Saab | Temp-Illusion
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/saab/6812452318
+    references:
+    - source: music.apple.com-us-song-saab-6812452318
+      quote: ‎Saab - Song with Lyrics by Temp-Illusion - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/1ZrNTn9U1SJjaA8SzU2pjE
+    references:
+    - source: open.spotify.com-track-1zrntn9u1sjjaa8szu2pje
+      quote: Saab - song and lyrics by Temp-Illusion | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a2541378858_10.jpg
+    references:
+    - source: temp-illusion.bandcamp.com-track-saab
+      quote: https://f4.bcbits.com/img/a2541378858_10.jpg
+      accessed: '2026-11-21'
+      locator: Full artwork linked on the track page
+    - source: temp-illusion.bandcamp.com-album-vittrine
+      quote: lil.evian
+      accessed: '2026-11-21'
+      locator: Release credits
+    qualifiers:
+      credit:
+        text: lil.evian
+        language: en

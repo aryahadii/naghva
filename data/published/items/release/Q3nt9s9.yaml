@@ -1,0 +1,34 @@
+id: Q3nt9s9
+type: release
+statements:
+  name:
+  - value:
+      text: Space Waste
+      language: en
+    references:
+    - source: soundcloud.com-temp-illusion-space-waste
+      quote: Space Waste
+      accessed: '2026-11-21'
+      locator: Track title
+  performer:
+  - value: Q8tq6bc
+    references:
+    - source: soundcloud.com-temp-illusion-space-waste
+      quote: Stream Space Waste by Temp-Illusion | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2016-10-14'
+    references:
+    - source: soundcloud.com-temp-illusion-space-waste
+      quote: '2016-10-14T14:59:01Z'
+      accessed: '2026-11-21'
+      locator: SoundCloud track date
+  listen link:
+  - value: https://soundcloud.com/temp-illusion/space-waste
+    references:
+    - source: soundcloud.com-temp-illusion-space-waste
+      quote: Stream Space Waste by Temp-Illusion | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title

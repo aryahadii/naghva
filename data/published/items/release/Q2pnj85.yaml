@@ -1,0 +1,61 @@
+id: Q2pnj85
+type: release
+statements:
+  name:
+  - value:
+      text: 22nd Alley
+      language: en
+    references:
+    - source: temp-illusion.bandcamp.com-track-22nd-alley
+      quote: 22nd Alley
+      accessed: '2026-11-21'
+      locator: Track heading
+  performer:
+  - value: Q8tq6bc
+    references:
+    - source: temp-illusion.bandcamp.com-track-22nd-alley
+      quote: 22nd Alley | Temp-Illusion
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2020-03-06'
+    references:
+    - source: temp-illusion.bandcamp.com-track-22nd-alley
+      quote: released March 6, 2020
+      accessed: '2026-11-21'
+      locator: Release credits
+  listen link:
+  - value: https://temp-illusion.bandcamp.com/track/22nd-alley
+    references:
+    - source: temp-illusion.bandcamp.com-track-22nd-alley
+      quote: 22nd Alley | Temp-Illusion
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/22nd-alley/1499797075
+    references:
+    - source: music.apple.com-us-song-22nd-alley-1499797075
+      quote: ‎22nd Alley - Song with Lyrics by Temp-Illusion - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/7Hk9BYYT5CgUM3eyAwXRWS
+    references:
+    - source: open.spotify.com-track-7hk9byyt5cgum3eyawxrws
+      quote: 22nd Alley - song and lyrics by Temp-Illusion | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a0785385112_10.jpg
+    references:
+    - source: temp-illusion.bandcamp.com-track-22nd-alley
+      quote: https://f4.bcbits.com/img/a0785385112_10.jpg
+      accessed: '2026-11-21'
+      locator: Full artwork linked on the track page
+    - source: temp-illusion.bandcamp.com-album-pend
+      quote: Amir B. Ash
+      accessed: '2026-11-21'
+      locator: Release credits
+    qualifiers:
+      credit:
+        text: Amir B. Ash
+        language: en

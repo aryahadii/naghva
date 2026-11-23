@@ -1,0 +1,61 @@
+id: Qkz5w7y
+type: release
+statements:
+  name:
+  - value:
+      text: Ray Bloody Purchase
+      language: en
+    references:
+    - source: temp-illusion.bandcamp.com-track-ray-bloody-purchase
+      quote: Ray Bloody Purchase
+      accessed: '2026-11-21'
+      locator: Track heading
+  performer:
+  - value: Q8tq6bc
+    references:
+    - source: temp-illusion.bandcamp.com-track-ray-bloody-purchase
+      quote: Ray Bloody Purchase | Temp-Illusion
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2023-09-01'
+    references:
+    - source: temp-illusion.bandcamp.com-track-ray-bloody-purchase
+      quote: released September 1, 2023
+      accessed: '2026-11-21'
+      locator: Release credits
+  listen link:
+  - value: https://temp-illusion.bandcamp.com/track/ray-bloody-purchase
+    references:
+    - source: temp-illusion.bandcamp.com-track-ray-bloody-purchase
+      quote: Ray Bloody Purchase | Temp-Illusion
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/ray-bloody-purchase/1702236776
+    references:
+    - source: music.apple.com-us-song-ray-bloody-purchase-1702236776
+      quote: ‎Ray Bloody Purchase - Song with Lyrics by Temp-Illusion - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/2gLeBaC5GowfpNHu36y1aw
+    references:
+    - source: open.spotify.com-track-2glebac5gowfpnhu36y1aw
+      quote: Ray Bloody Purchase - song and lyrics by Temp-Illusion | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a0811811932_10.jpg
+    references:
+    - source: temp-illusion.bandcamp.com-track-ray-bloody-purchase
+      quote: https://f4.bcbits.com/img/a0811811932_10.jpg
+      accessed: '2026-11-21'
+      locator: Full artwork linked on the track page
+    - source: temp-illusion.bandcamp.com-album-failsafe
+      quote: GENG PTP
+      accessed: '2026-11-21'
+      locator: Release credits
+    qualifiers:
+      credit:
+        text: GENG PTP
+        language: en

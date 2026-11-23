@@ -1,0 +1,51 @@
+id: Qzrqntx
+type: release
+statements:
+  name:
+  - value:
+      text: Tauri - Temp-Illusion Remix
+      language: en
+    references:
+    - source: open.spotify.com-track-7ngzxne9s9un1ytavkvfmc
+      quote: Tauri - Temp-Illusion Remix - song and lyrics by Blausch, Temp-Illusion | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Q8tq6bc
+    references:
+    - source: open.spotify.com-track-7ngzxne9s9un1ytavkvfmc
+      quote: Tauri - Temp-Illusion Remix - song and lyrics by Blausch, Temp-Illusion | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qhp9jh4
+    references:
+    - source: open.spotify.com-track-7ngzxne9s9un1ytavkvfmc
+      quote: Tauri - Temp-Illusion Remix - song and lyrics by Blausch, Temp-Illusion | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2021'
+    references:
+    - source: open.spotify.com-track-7ngzxne9s9un1ytavkvfmc
+      quote: '2021'
+      accessed: '2026-11-21'
+      locator: Song page, Tauri EP
+  listen link:
+  - value: https://open.spotify.com/track/7nGzXNE9s9un1YtAvkVfmC
+    references:
+    - source: open.spotify.com-track-7ngzxne9s9un1ytavkvfmc
+      quote: Tauri - Temp-Illusion Remix - song and lyrics by Blausch, Temp-Illusion | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d0000b273d8fd652f09a65db46a59de5b
+    references:
+    - source: open.spotify.com-album-3jvdrcmzo0ubqugycbrj3t
+      quote: https://i.scdn.co/image/ab67616d0000b273d8fd652f09a65db46a59de5b
+      accessed: '2026-11-21'
+      locator: Album artwork metadata
+    qualifiers:
+      credit:
+        text: Spotify
+        language: en
