@@ -1,0 +1,56 @@
+id: Qtzs7p7
+type: release
+statements:
+  name:
+  - value:
+      text: And My Heart Aches Like 100 Aching Hearts
+      language: en
+    references:
+    - source: music.apple.com-us-album-a-satire-on-hell-384944971
+      quote: And My Heart Aches Like 100 Aching Hearts
+      accessed: 2026-11-21
+      locator: Published recording or album
+  listen link:
+  - value: https://music.apple.com/us/song/and-my-heart-aches-like-100-aching-hearts/384945023
+    references:
+    - source: music.apple.com-us-album-a-satire-on-hell-384944971
+      quote: And My Heart Aches Like 100 Aching Hearts
+      accessed: 2026-11-21
+      locator: Published recording or album
+  - value: https://open.spotify.com/track/0AJka77fBmAymJA1oIKlYg
+    references:
+    - source: open.spotify.com-album-49roeaqmjomxrhoahoznmr
+      quote: And My Heart Aches Like 100 Aching Hearts
+      accessed: 2026-11-21
+      locator: Spotify track listing
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music/8a/a3/27/mzi.vhtnbvsv.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-a-satire-on-hell-384944971
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music/8a/a3/27/mzi.vhtnbvsv.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Digital artwork
+  release date:
+  - value:
+      date: '2010-06-20'
+    references:
+    - source: music.apple.com-us-album-a-satire-on-hell-384944971
+      quote: '2010-06-20'
+      accessed: 2026-11-21
+      locator: Digital edition date
+  performer:
+  - value: Qp3beww
+    references:
+    - source: salimworld.com-music-iconophobic
+      quote: 'All Music Composed, Performed, Recorded & Mixed By: Salim Ghazi Saeedi'
+      accessed: 2026-11-21
+      locator: Composer and player’s published credits
+  contributor:
+  - value: Qp3beww
+    qualifiers:
+      role: composer
+    references:
+    - source: salimworld.com-music-iconophobic
+      quote: 'All Music Composed, Performed, Recorded & Mixed By: Salim Ghazi Saeedi'
+      accessed: 2026-11-21
+      locator: Composer and player’s published credits

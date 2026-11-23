@@ -7,57 +7,73 @@ statements:
       language: en
     references:
     - source: music.apple.com-us-album-ustuqus-al-uss-287132413-e7763ef4f5c2
-      quote: |-
-        Listen to Ustuqus-al-uss by Arashk on Apple Music. 2008. 9 Songs. Duration: 35 minutes.
+      quote: 'Listen to Ustuqus-al-uss by Arashk on Apple Music. 2008. 9 Songs. Duration: 35 minutes.'
       accessed: '2026-10-20'
   release type:
   - value: album
     references:
     - source: music.apple.com-us-album-ustuqus-al-uss-287132413-e7763ef4f5c2
-      quote: |-
-        Ustuqus-al-uss - Album by Arashk - Apple Music
+      quote: Ustuqus-al-uss - Album by Arashk - Apple Music
       accessed: '2026-10-20'
   performer:
   - value: Q93d39e
     references:
     - source: music.apple.com-us-album-ustuqus-al-uss-287132413-e7763ef4f5c2
-      quote: |-
-        Listen to Ustuqus-al-uss by Arashk on Apple Music. 2008. 9 Songs. Duration: 35 minutes.
+      quote: 'Listen to Ustuqus-al-uss by Arashk on Apple Music. 2008. 9 Songs. Duration: 35 minutes.'
       accessed: '2026-10-20'
     - source: music.apple.com-us-album-ustuqus-al-uss-287132413-e7763ef4f5c2
-      quote: |-
-        Arashk
+      quote: Arashk
       accessed: '2026-10-20'
+  - value: Qp3beww
+    references:
+    - source: salimworld.com-music-ustuqus-al-uss
+      quote: 'Composed/Performed: Salim Ghazi Saeedi'
+      accessed: 2026-11-21
+      locator: Composer and player’s published credits
   release date:
   - value:
       date: '2008-07-25'
     references:
     - source: music.apple.com-us-album-ustuqus-al-uss-287132413-e7763ef4f5c2
-      quote: |-
-        2008-07-25
+      quote: '2008-07-25'
       accessed: '2026-10-20'
   - value:
       date: '2008'
     references:
     - source: www.arashkband.com-bio.htm-dd210eb22a98
-      quote: |-
-        After Salim Ghazi Saeedi joined the band in 2004, Arashk band underwent two main projects: From 2006-2008 three "instrumental progressive rock/metal albums" released composed by Salim including Abrahadabra (2006), Sovereign (2007) and Ustuqus-al-Uss (2008) and in 2008 Arashk released the albumYELL (2008) as a "Persian hard rock with vocals album" composed by Pouyan and Shahram.
+      quote: 'After Salim Ghazi Saeedi joined the band in 2004, Arashk band underwent two main projects: From 2006-2008
+        three "instrumental progressive rock/metal albums" released composed by Salim including Abrahadabra (2006),
+        Sovereign (2007) and Ustuqus-al-Uss (2008) and in 2008 Arashk released the albumYELL (2008) as a "Persian
+        hard rock with vocals album" composed by Pouyan and Shahram.'
       accessed: '2026-10-20'
   listen link:
   - value: https://music.apple.com/us/album/ustuqus-al-uss/287132413
     references:
     - source: music.apple.com-us-album-ustuqus-al-uss-287132413-e7763ef4f5c2
-      quote: |-
-        Listen to Ustuqus-al-uss by Arashk on Apple Music. 2008. 9 Songs. Duration: 35 minutes.
+      quote: 'Listen to Ustuqus-al-uss by Arashk on Apple Music. 2008. 9 Songs. Duration: 35 minutes.'
       accessed: '2026-10-20'
+  - value: https://soundcloud.com/salimgs/sets/ustuqus-al-uss-2008
+    references:
+    - source: soundcloud.com-salimgs-sets-ustuqus-al-uss-2008
+      quote: Salim Ghazi Saeedi
+      accessed: 2026-11-21
+      locator: Album published by artist
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music/c9/b5/3e/mzi.dlkgcsga.tif/1200x630bb.jpg
     references:
     - source: music.apple.com-us-album-ustuqus-al-uss-287132413-e7763ef4f5c2
-      quote: |-
-        https://is1-ssl.mzstatic.com/image/thumb/Music/c9/b5/3e/mzi.dlkgcsga.tif/1200x630bb.jpg
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music/c9/b5/3e/mzi.dlkgcsga.tif/1200x630bb.jpg
       accessed: '2026-10-20'
     qualifiers:
       credit:
         text: Apple Music
         language: en
+  contributor:
+  - value: Qp3beww
+    qualifiers:
+      role: composer
+    references:
+    - source: salimworld.com-music-ustuqus-al-uss
+      quote: 'Composed/Performed: Salim Ghazi Saeedi'
+      accessed: 2026-11-21
+      locator: Composer and player’s published credits
