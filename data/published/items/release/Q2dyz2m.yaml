@@ -1,0 +1,80 @@
+id: Q2dyz2m
+type: release
+statements:
+  name:
+  - value:
+      text: the other side
+      language: en
+    references:
+    - source: rossdaly.bandcamp.com-album-the-other-side
+      quote: the other side | Ross Daly
+      accessed: '2026-11-21'
+      locator: Bandcamp release title
+  release type:
+  - value: album
+    references:
+    - source: rossdaly.bandcamp.com-album-the-other-side
+      quote: the other side | Ross Daly
+      accessed: '2026-11-21'
+      locator: Bandcamp release title
+  release date:
+  - value:
+      date: '2014-01-01'
+    references:
+    - source: rossdaly.bandcamp.com-album-the-other-side
+      quote: released January 1, 2014
+      accessed: '2026-11-21'
+      locator: Artist Bandcamp issue date
+  performer:
+  - value: Qd759z9
+    references:
+    - source: rossdaly.bandcamp.com-album-the-other-side
+      quote: the other side | Ross Daly
+      accessed: '2026-11-21'
+      locator: Bandcamp release title
+  - value: Q5rnjaz
+    qualifiers:
+      role: tombak
+    references:
+    - source: www.kellythoma.com-buy-the-other-side.php
+      quote: 'Pedram Khavarzamini: tombak'
+      accessed: '2026-11-21'
+      locator: Original CD personnel
+  - value: Qzqvz5q
+    qualifiers:
+      role: tar
+    references:
+    - source: www.kellythoma.com-buy-the-other-side.php
+      quote: 'Araz Salek: tar'
+      accessed: '2026-11-21'
+      locator: Original CD personnel
+  listen link:
+  - value: https://rossdaly.bandcamp.com/album/the-other-side
+    references:
+    - source: rossdaly.bandcamp.com-album-the-other-side
+      quote: the other side | Ross Daly
+      accessed: '2026-11-21'
+      locator: Bandcamp release title
+  - value: https://music.apple.com/us/album/the-other-side/923004864
+    references:
+    - source: music.apple.com-us-album-the-other-side-923004864
+      quote: ‎The Other Side - Album by Ross Daly - Apple Music
+      accessed: '2026-11-21'
+      locator: Apple Music edition
+  - value: https://open.spotify.com/album/0BELDQsar6LqiV3gHXnTU4
+    references:
+    - source: open.spotify.com-album-0beldqsar6lqiv3ghxntu4
+      quote: The Other Side - Ross Daly | Spotify
+      accessed: '2026-11-21'
+      locator: Spotify edition
+  cover art:
+  - value: https://f4.bcbits.com/img/a0607800668_10.jpg
+    qualifiers:
+      credit:
+        text: Ross Daly on Bandcamp
+        language: en
+    references:
+    - source: rossdaly.bandcamp.com-album-the-other-side
+      quote: https://f4.bcbits.com/img/a0607800668_10.jpg
+      accessed: '2026-11-21'
+      locator: Bandcamp edition artwork

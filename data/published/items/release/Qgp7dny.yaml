@@ -1,0 +1,81 @@
+id: Qgp7dny
+type: release
+statements:
+  name:
+  - value:
+      text: دور
+      language: fa
+    references:
+    - source: soundcloud.com-siavashimanitar-okylxrtlwj71
+      quote: دور
+      accessed: '2026-11-21'
+      locator: SoundCloud track title
+    - source: soundcloud.com-siavashimanitar-okylxrtlwj71
+      quote: دور
+      accessed: 2026-11-22
+      locator: Original SoundCloud title and recording credits
+  - value:
+      text: So far Away
+      language: en
+    references:
+    - source: soundcloud.com-siavashimanitar-okylxrtlwj71
+      quote: So far Away
+      accessed: '2026-11-21'
+      locator: Artist’s English title
+  performer:
+  - value: Q5rnjaz
+    qualifiers:
+      role: tombak
+    references:
+    - source: soundcloud.com-siavashimanitar-okylxrtlwj71
+      quote: 'Tar & Vocal: Siavash Imani - Tonbak: Pedram Khavarzamini'
+      accessed: '2026-11-21'
+      locator: Imani’s own track description
+    - source: soundcloud.com-siavashimanitar-okylxrtlwj71
+      quote: 'تار و آواز: سیاوش ایمانی - تنبک: پدرام خاورزمینی'
+      accessed: 2026-11-22
+      locator: SoundCloud performer credits
+  - value: Qmkhy5b
+    qualifiers:
+      role:
+      - tar
+      - vocals
+    references:
+    - source: soundcloud.com-siavashimanitar-okylxrtlwj71
+      quote: 'Tar & Vocal: Siavash Imani - Tonbak: Pedram Khavarzamini'
+      accessed: '2026-11-21'
+      locator: Imani’s own track description
+    - source: soundcloud.com-siavashimanitar-okylxrtlwj71
+      quote: 'تار و آواز: سیاوش ایمانی - تنبک: پدرام خاورزمینی'
+      accessed: 2026-11-22
+      locator: SoundCloud performer credits
+  release date:
+  - value:
+      date: '2017-03-01'
+    references:
+    - source: soundcloud.com-siavashimanitar-okylxrtlwj71
+      quote: '2017-03-01'
+      accessed: '2026-11-21'
+      locator: Upload date
+  listen link:
+  - value: https://soundcloud.com/siavashimanitar/okylxrtlwj71
+    references:
+    - source: soundcloud.com-siavashimanitar-okylxrtlwj71
+      quote: دور
+      accessed: '2026-11-21'
+      locator: SoundCloud track title
+    - source: soundcloud.com-siavashimanitar-okylxrtlwj71
+      quote: 'تار و آواز: سیاوش ایمانی - تنبک: پدرام خاورزمینی'
+      accessed: 2026-11-22
+      locator: SoundCloud performer credits
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-000210185911-pmck43-large.jpg
+    qualifiers:
+      credit:
+        text: Siavash Imani on SoundCloud
+        language: en
+    references:
+    - source: soundcloud.com-siavashimanitar-okylxrtlwj71
+      quote: https://i1.sndcdn.com/artworks-000210185911-pmck43-large.jpg
+      accessed: '2026-11-21'
+      locator: SoundCloud track-specific art

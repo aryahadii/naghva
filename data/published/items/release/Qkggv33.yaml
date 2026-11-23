@@ -1,0 +1,73 @@
+id: Qkggv33
+type: release
+statements:
+  name:
+  - value:
+      text: Jane Hazin
+      language: en
+    references:
+    - source: open.spotify.com-album-2rqdi8v4bmd12zczskbxfn
+      quote: Jane Hazin
+      accessed: '2026-11-21'
+      locator: Spotify edition title
+  release type:
+  - value: album
+    references:
+    - source: open.spotify.com-album-2rqdi8v4bmd12zczskbxfn
+      quote: Jane Hazin
+      accessed: '2026-11-21'
+      locator: Spotify edition title
+  listen link:
+  - value: https://music.apple.com/us/album/jane-hazin/1858465428
+    references:
+    - source: music.apple.com-us-album-jane-hazin-1858465428
+      quote: ‎Jane Hazin - Album by Kiyarash Davoudi & Pedram Khavarzamini - Apple Music
+      accessed: '2026-11-21'
+      locator: Edition title
+  - value: https://open.spotify.com/album/2RqDi8v4BMD12zCzSKbxFN
+    references:
+    - source: open.spotify.com-album-2rqdi8v4bmd12zczskbxfn
+      quote: Jane Hazin
+      accessed: '2026-11-21'
+      locator: Spotify edition title
+  performer:
+  - value: Q5rnjaz
+    qualifiers:
+      role: tombak
+    references:
+    - source: music.apple.com-us-album-jane-hazin-1858465428
+      quote: Pedram Khavarzamini
+      accessed: '2026-11-21'
+      locator: Artist or track-specific guest billing
+  - value: Qyrsg2f
+    references:
+    - source: music.apple.com-us-album-jane-hazin-1858465428
+      quote: Kiyarash Davoudi
+      accessed: '2026-11-21'
+      locator: Album headline billing
+  release date:
+  - value:
+      date: '2025-11-16'
+    references:
+    - source: t.me-kiyarashdavoudi-345
+      quote: آلبوم جان حزین در تاریخ ۲۵ آبان ماه ۱۴۰۴، به صورت رسمی در تالار رودکی رونمایی و منتشر شد.
+      accessed: '2026-11-21'
+      locator: Davoudi’s report following the Tehran launch
+  - value:
+      date: '2025-11-22'
+    references:
+    - source: music.apple.com-us-album-jane-hazin-1858465428
+      quote: '2025-11-22'
+      accessed: '2026-11-21'
+      locator: Apple Music edition issue date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/67/e4/60/67e460da-2ace-e179-27cb-e186b8fd6367/199806540077.jpg/1200x630bb.jpg
+    qualifiers:
+      credit:
+        text: Apple Music edition artwork
+        language: en
+    references:
+    - source: music.apple.com-us-album-jane-hazin-1858465428
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/67/e4/60/67e460da-2ace-e179-27cb-e186b8fd6367/199806540077.jpg/1200x630bb.jpg
+      accessed: '2026-11-21'
+      locator: Apple Music edition artwork

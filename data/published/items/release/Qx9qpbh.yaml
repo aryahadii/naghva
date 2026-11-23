@@ -1,0 +1,72 @@
+id: Qx9qpbh
+type: release
+statements:
+  name:
+  - value:
+      text: Anamkhara
+      language: en
+    references:
+    - source: kellythoma.bandcamp.com-album-anamkhara
+      quote: Anamkhara | Kelly Thoma
+      accessed: '2026-11-21'
+      locator: Bandcamp release title
+  release type:
+  - value: album
+    references:
+    - source: kellythoma.bandcamp.com-album-anamkhara
+      quote: Anamkhara | Kelly Thoma
+      accessed: '2026-11-21'
+      locator: Bandcamp release title
+  release date:
+  - value:
+      date: '2009-12-12'
+    references:
+    - source: kellythoma.bandcamp.com-album-anamkhara
+      quote: released December 12, 2009
+      accessed: '2026-11-21'
+      locator: Artist Bandcamp issue date
+  performer:
+  - value: Qc4jt2w
+    references:
+    - source: kellythoma.bandcamp.com-album-anamkhara
+      quote: Anamkhara | Kelly Thoma
+      accessed: '2026-11-21'
+      locator: Bandcamp release title
+  - value: Q5rnjaz
+    qualifiers:
+      role: tombak
+    references:
+    - source: www.kellythoma.com-discography.php
+      quote: Pedram Khavar Zamini on the Iranian tombak
+      accessed: '2026-11-21'
+      locator: Musician’s official discography
+  listen link:
+  - value: https://kellythoma.bandcamp.com/album/anamkhara
+    references:
+    - source: kellythoma.bandcamp.com-album-anamkhara
+      quote: Anamkhara | Kelly Thoma
+      accessed: '2026-11-21'
+      locator: Bandcamp release title
+  - value: https://music.apple.com/us/album/anamkhara/587749476
+    references:
+    - source: music.apple.com-us-album-anamkhara-587749476
+      quote: ‎Anamkhara - Album by Kelly Thoma - Apple Music
+      accessed: '2026-11-21'
+      locator: Apple Music edition
+  - value: https://open.spotify.com/album/0e7ct6CwNQsJvAXehRSQ5t
+    references:
+    - source: open.spotify.com-album-0e7ct6cwnqsjvaxehrsq5t
+      quote: Anamkhara - Kelly Thoma | Spotify
+      accessed: '2026-11-21'
+      locator: Spotify edition
+  cover art:
+  - value: https://f4.bcbits.com/img/a0038752731_10.jpg
+    qualifiers:
+      credit:
+        text: Kelly Thoma on Bandcamp
+        language: en
+    references:
+    - source: kellythoma.bandcamp.com-album-anamkhara
+      quote: https://f4.bcbits.com/img/a0038752731_10.jpg
+      accessed: '2026-11-21'
+      locator: Bandcamp edition artwork
