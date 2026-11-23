@@ -1,0 +1,61 @@
+id: Qcpwany
+type: release
+statements:
+  name:
+  - value:
+      text: Ashghal
+      language: en
+    references:
+    - source: music.apple.com-us-album-ashghal-single-1805232658
+      quote: Ashghal
+      accessed: 2026-11-21
+      locator: Edition or recording title
+  - value:
+      text: آشغال
+      language: fa
+    references:
+    - source: youtu.be-yt-t-odsjfo
+      quote: Shervin - Ashghal | شروین - آشغال
+      accessed: 2026-11-21
+      locator: Official channel, recording title
+  performer:
+  - value: Qjeb9e9
+    references:
+    - source: music.apple.com-us-album-ashghal-single-1805232658
+      quote: Shervin Hajipour
+      accessed: 2026-11-21
+      locator: Digital credits
+  listen link:
+  - value: https://music.apple.com/us/song/ashghal/1805232659
+    references:
+    - source: music.apple.com-us-album-ashghal-single-1805232658
+      quote: Ashghal
+      accessed: 2026-11-21
+      locator: Edition or recording title
+  - value: https://open.spotify.com/track/3WW2AeR5EBjiNtcryv14NF
+    references:
+    - source: open.spotify.com-album-6op2b9mue8hecbfckd5gkp
+      quote: Ashghal
+      accessed: 2026-11-21
+      locator: Published recording
+  - value: https://youtu.be/yt-T-odSJfo
+    references:
+    - source: youtu.be-yt-t-odsjfo
+      quote: Shervin - Ashghal | شروین - آشغال
+      accessed: 2026-11-21
+      locator: Official channel, recording title
+  release date:
+  - value:
+      date: '2024-01-12'
+    references:
+    - source: music.apple.com-us-album-ashghal-single-1805232658
+      quote: '2024-01-12'
+      accessed: 2026-11-21
+      locator: Digital edition date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5f/d5/39/5fd53947-fd60-de35-8aed-d8b425333c80/4056813664768.png/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-ashghal-single-1805232658
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5f/d5/39/5fd53947-fd60-de35-8aed-d8b425333c80/4056813664768.png/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Digital edition artwork

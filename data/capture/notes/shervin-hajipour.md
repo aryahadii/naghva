@@ -1,0 +1,9 @@
+# Shervin Hajipour
+
+The 2022 Spotify edition of *Baraye* credits the phonogram to Shervin Hajiaghapour; the Apple edition credits Shervin Hajipour for the 2025 issue. The original artist-issued recording establishes independence. The December 2025 announcement named a different distributor for the licensed project *Vaqei*. A sale announcement alone does not establish an issued track listing.
+
+The catalogue reconciles the artist’s public Apple and Spotify pages, guest performances under Sajadii and Nik Reich and Jaro Messerschmidt, recordings on his SoundCloud profile, and 97 entries on his official YouTube channel. Full freestyle performances and the unplugged recording are distinguished from the studio recordings. Promos, short extracts repeating a full recording, making-of videos and a compilation of existing songs do not count as separate releases. The portrait is the photograph displayed by the artist’s Spotify profile.
+
+[Original single](https://open.spotify.com/album/7qOus9QWohqZ5f6KlKxBtD) · [Apple Music edition](https://music.apple.com/us/album/baraye-single/1805219467) · [Artist’s video archive](https://www.youtube.com/@Shervinine/videos) · [SoundCloud](https://soundcloud.com/shervinine) · [Award announcement](https://www.grammy.com/news/2023-grammys-best-song-for-social-change-baraye-shervin-hajipour/) · [Album announcement](https://www.rferl.org/a/shervin-hajipour-iran-grammy-winner-album/33611837.html)
+
+Apple’s native catalogue query returned 59 track entries, including duplicate editions and collaborations under other artists. Radio Javan supplied separate song and video links. Dot Republic Media’s Persian drama channel carries the issued theme “I Have You,” distinct from the original Urdu recording. [Apple artist lookup](https://itunes.apple.com/lookup?id=1499146545&entity=song&limit=200&country=us) · [Radio Javan](https://play.radiojavan.com/artist/Shervin%20Hajipour) · [Persian theme](https://youtu.be/chsMGyZ_Vl8)

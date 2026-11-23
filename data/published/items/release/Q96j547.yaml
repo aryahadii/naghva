@@ -1,0 +1,45 @@
+id: Q96j547
+type: release
+statements:
+  name:
+  - value:
+      text: Bahar Oomad
+      language: en
+    references:
+    - source: music.apple.com-us-album-bahar-oomad-1805231053
+      quote: Bahar Oomad
+      accessed: 2026-11-21
+      locator: Apple digital catalogue, track title
+    - source: play.radiojavan.com-song-shervin-hajipour-bahar-oomad
+      quote: Bahar Oomad
+      accessed: 2026-11-21
+      locator: Native Radio Javan edition
+  performer:
+  - value: Qjeb9e9
+    references:
+    - source: music.apple.com-us-album-bahar-oomad-1805231053
+      quote: Bahar Oomad
+      accessed: 2026-11-21
+      locator: Apple digital catalogue, track title
+  listen link:
+  - value: https://music.apple.com/us/album/bahar-oomad/1805231053?i=1805231056
+    references:
+    - source: music.apple.com-us-album-bahar-oomad-1805231053
+      quote: Bahar Oomad
+      accessed: 2026-11-21
+      locator: Apple digital catalogue, track title
+  release date:
+  - value:
+      date: '2020-08-05'
+    references:
+    - source: music.apple.com-us-album-bahar-oomad-1805231053
+      quote: '2020-08-05'
+      accessed: 2026-11-21
+      locator: Digital issue date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/41/83/0a/41830a0f-34ed-c322-6d76-2e96a36169ec/4056813501605.png/100x100bb.jpg
+    references:
+    - source: music.apple.com-us-album-bahar-oomad-1805231053
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/41/83/0a/41830a0f-34ed-c322-6d76-2e96a36169ec/4056813501605.png/100x100bb.jpg
+      accessed: 2026-11-21
+      locator: Digital sleeve
