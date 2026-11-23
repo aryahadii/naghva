@@ -1,0 +1,57 @@
+id: Qjskfzg
+type: release
+statements:
+  name:
+  - value:
+      text: Be a Lover as They Are (feat. Shadi Fathi & Artyom Minasyan)
+      language: en
+    references:
+    - source: music.apple.com-us-album-dancing-in-orbital-circle-feat-shadi-fathi-1624571362
+      quote: Be a Lover as They Are (feat. Shadi Fathi & Artyom Minasyan)
+      accessed: '2026-11-21'
+      locator: Album track title and billing
+  performer:
+  - value: Qfxqgvv
+    references:
+    - source: music.apple.com-us-album-dancing-in-orbital-circle-feat-shadi-fathi-1624571362
+      quote: Be a Lover as They Are (feat. Shadi Fathi & Artyom Minasyan)
+      accessed: '2026-11-21'
+      locator: Album track title and billing
+  - value: Qdma8gz
+    references:
+    - source: music.apple.com-us-album-dancing-in-orbital-circle-feat-shadi-fathi-1624571362
+      quote: Madjid Khaladj
+      accessed: '2026-11-21'
+      locator: Album artist
+  release date:
+  - value:
+      date: '2017-05-01'
+    references:
+    - source: music.apple.com-us-album-dancing-in-orbital-circle-feat-shadi-fathi-1624571362
+      quote: '2017-05-01'
+      accessed: '2026-11-21'
+      locator: Release metadata
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/bc/d2/87/bcd28716-bebd-52e4-8733-dfeef88cbead/191061607663.jpg/632x632bb-60.jpg
+    references:
+    - source: music.apple.com-us-album-dancing-in-orbital-circle-feat-shadi-fathi-1624571362
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/bc/d2/87/bcd28716-bebd-52e4-8733-dfeef88cbead/191061607663.jpg/632x632bb-60.jpg
+      accessed: '2026-11-21'
+      locator: Album image
+    qualifiers:
+      credit:
+        text: 'Apple Music · Taneen-O-Tan Ensemble: Hasti'
+        language: en
+  listen link:
+  - value: https://music.apple.com/us/song/be-a-lover-as-they-are-feat-shadi-fathi-artyom-minasyan/1624571366
+    references:
+    - source: music.apple.com-us-album-dancing-in-orbital-circle-feat-shadi-fathi-1624571362
+      quote: Be a Lover as They Are (feat. Shadi Fathi & Artyom Minasyan)
+      accessed: '2026-11-21'
+      locator: Album track title and billing
+  - value: https://www.youtube.com/watch?v=dr9II3u3a3E
+    references:
+    - source: www.shadi-fathi.com-galerie-videos
+      quote: dr9II3u3a3E
+      accessed: '2026-11-21'
+      locator: Artist embeds this specific YouTube video

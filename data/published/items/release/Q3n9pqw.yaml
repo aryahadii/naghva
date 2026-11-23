@@ -1,0 +1,41 @@
+id: Q3n9pqw
+type: release
+statements:
+  name:
+  - value:
+      text: Fardin Abbasi & Shadi Fathi
+      language: fr
+    references:
+    - source: www.shadi-fathi.com-galerie-videos
+      quote: Fardin Abbasi & Shadi Fathi
+      accessed: '2026-11-21'
+      locator: Artist video gallery title
+  performer:
+  - value: Qfxqgvv
+    references:
+    - source: www.shadi-fathi.com-galerie-videos
+      quote: Fardin Abbasi & Shadi Fathi
+      accessed: '2026-11-21'
+      locator: Artist video gallery title
+    - source: www.odoensemble.com-en-shadi-fathi
+      quote: Shadi Fathi
+      accessed: '2026-11-21'
+      locator: Artist heading
+  listen link:
+  - value: https://www.youtube.com/watch?v=Wjg7g278f08
+    references:
+    - source: www.shadi-fathi.com-galerie-videos
+      quote: Wjg7g278f08
+      accessed: '2026-11-21'
+      locator: Artist embeds this specific YouTube video
+  cover art:
+  - value: https://i.ytimg.com/vi/Wjg7g278f08/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-wjg7g278f08
+      quote: https://i.ytimg.com/vi/Wjg7g278f08/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Official thumbnail returned by YouTube for this video
+    qualifiers:
+      credit:
+        text: Shadi Fathi · YouTube
+        language: en

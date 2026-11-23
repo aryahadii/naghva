@@ -1,0 +1,43 @@
+id: Qn292x3
+type: release
+statements:
+  name:
+  - value:
+      text: Aashenayi
+      language: en
+    references:
+    - source: arts-scene.be-en-asd-artistes-discographie-canticum-novum-120
+      quote: Aashenayi
+      accessed: '2026-11-21'
+      locator: Album heading
+  performer:
+  - value: Qfxqgvv
+    references:
+    - source: arts-scene.be-en-asd-artistes-discographie-canticum-novum-120
+      quote: Shadi Fathi tar shourangiz
+      accessed: '2026-11-21'
+      locator: Album credits
+    qualifiers:
+      role:
+      - tar
+  - value: Qqt8mz6
+    references:
+    - source: arts-scene.be-en-asd-artistes-discographie-canticum-novum-120
+      quote: Canticum Novum
+      accessed: '2026-11-21'
+      locator: Ensemble title
+  release date:
+  - value:
+      date: '2015'
+    references:
+    - source: arts-scene.be-en-asd-artistes-discographie-canticum-novum-120
+      quote: Ambronay, 2015
+      accessed: '2026-11-21'
+      locator: Imprint and year
+  release type:
+  - value: album
+    references:
+    - source: arts-scene.be-en-asd-artistes-discographie-canticum-novum-120
+      quote: Aashenayi
+      accessed: '2026-11-21'
+      locator: Album heading

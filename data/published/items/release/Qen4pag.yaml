@@ -1,0 +1,64 @@
+id: Qen4pag
+type: release
+statements:
+  name:
+  - value:
+      text: Sources
+      language: en
+    references:
+    - source: open.spotify.com-album-0otvvkj9ahkxoci7xlp9n1
+      quote: Sources
+      accessed: '2026-11-21'
+      locator: Album name
+  performer:
+  - value: Qfxqgvv
+    references:
+    - source: www.odoensemble.com-en-shadi-fathi
+      quote: Sources / Lévon Minassian
+      accessed: '2026-11-21'
+      locator: Discography
+  - value: Q5j548t
+    references:
+    - source: open.spotify.com-album-0otvvkj9ahkxoci7xlp9n1
+      quote: Levon Minassian
+      accessed: '2026-11-21'
+      locator: Album artist
+  release date:
+  - value:
+      date: '2016-05-24'
+    references:
+    - source: open.spotify.com-album-0otvvkj9ahkxoci7xlp9n1
+      quote: '2016-05-24'
+      accessed: '2026-11-21'
+      locator: Release metadata
+  listen link:
+  - value: https://open.spotify.com/album/0oTvvkj9ahKXOci7XLP9n1
+    references:
+    - source: open.spotify.com-album-0otvvkj9ahkxoci7xlp9n1
+      quote: Sources
+      accessed: '2026-11-21'
+      locator: Album name
+  - value: https://music.apple.com/us/album/sources-feat-armand-amar/1117079147
+    references:
+    - source: music.apple.com-us-album-sources-feat-armand-amar-1117079147
+      quote: Sources (feat. Armand Amar)
+      accessed: '2026-11-21'
+      locator: Album title
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d0000b27353463baffafedabc3836b556
+    references:
+    - source: open.spotify.com-album-0otvvkj9ahkxoci7xlp9n1
+      quote: https://i.scdn.co/image/ab67616d0000b27353463baffafedabc3836b556
+      accessed: '2026-11-21'
+      locator: Spotify album cover
+    qualifiers:
+      credit:
+        text: Levon Minassian · Spotify
+        language: en
+  release type:
+  - value: album
+    references:
+    - source: open.spotify.com-album-0otvvkj9ahkxoci7xlp9n1
+      quote: Sources
+      accessed: '2026-11-21'
+      locator: Album name
