@@ -1,0 +1,70 @@
+id: Qnw83g7
+type: act
+statements:
+  name:
+  - value:
+      text: The Finches
+      language: en
+    references:
+    - source: www.zhinardalan.com-the-finches
+      quote: The Finches
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value:
+      text: فنچ‌ها
+      language: fa
+    references:
+    - source: www.radiozamaneh.com-795550
+      quote: فنچ‌ها
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  formation date:
+  - value:
+      date: '2015'
+    references:
+    - source: www.zhinardalan.com-the-finches
+      quote: summer of 2015
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  profile link:
+  - value: https://open.spotify.com/artist/5622zsIiQH5rg8LGQKs1As?si=KsUJlAQyRtmucl7pbdhMPw
+    references:
+    - source: open.spotify.com-artist-5622zsiiqh5rg8lgqks1as-si-ksujlaqyrtmucl7pbdhmpw
+      quote: Listen to The Finches Songs | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/artist/the-finches/1446393374
+    references:
+    - source: music.apple.com-us-artist-the-finches-1446393374
+      quote: ‎The Finches - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/thefinchesband
+    references:
+    - source: soundcloud.com-thefinchesband
+      quote: Stream The Finches music | Listen to songs, albums, playlists for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://finchesband.bandcamp.com/
+    references:
+    - source: finchesband.bandcamp.com
+      quote: Music | The Finches
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://www.youtube.com/channel/UCLbY4uQrFevts47dl47S3WA
+    references:
+    - source: www.youtube.com-channel-uclby4uqrfevts47dl47s3wa
+      quote: The Finches - YouTube
+      accessed: '2026-11-21'
+      locator: Page title
+  image:
+  - value: https://i.scdn.co/image/ab6761610000e5eba190198571286ec9e7b4b2ed
+    references:
+    - source: open.spotify.com-artist-5622zsiiqh5rg8lgqks1as-si-ksujlaqyrtmucl7pbdhmpw
+      quote: https://i.scdn.co/image/ab6761610000e5eba190198571286ec9e7b4b2ed
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: The Finches, via Spotify
+        language: en

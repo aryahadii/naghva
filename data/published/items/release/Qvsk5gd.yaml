@@ -1,0 +1,66 @@
+id: Qvsk5gd
+type: release
+statements:
+  name:
+  - value:
+      text: A Butterfly Fly From Each Fingertip
+      language: en
+    references:
+    - source: avarasti.bandcamp.com-album-butterfly-saki
+      quote: A Butterfly Fly From Each Fingertip | Ava Rasti
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qks2dfk
+    references:
+    - source: avarasti.bandcamp.com-album-butterfly-saki
+      quote: A Butterfly Fly From Each Fingertip | Ava Rasti
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Q3gkrg3
+    references:
+    - source: avarasti.bandcamp.com-track-butterflies-saki
+      quote: 'Vocal: Mehdi Saki'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: vocals
+  release type:
+  - value: ep
+    references:
+    - source: avarasti.bandcamp.com-album-butterfly-saki
+      quote: A Butterfly Fly From Each Fingertip | Ava Rasti
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://avarasti.bandcamp.com/album/a-butterfly-fly-from-each-fingertip
+    references:
+    - source: avarasti.bandcamp.com-album-butterfly-saki
+      quote: A Butterfly Fly From Each Fingertip | Ava Rasti
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/a-butterfly-fly-from-each-fingertip-original-motion/1671721019
+    references:
+    - source: music.apple.com-us-album-a-butterfly-fly-from-each-fingertip-original-motion-1671721019
+      quote: ‎A Butterfly Fly From Each Fingertip (Original Motion Picture Soundtrack) - Single - Album by Ava Rasti - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a1526603123_10.jpg
+    references:
+    - source: avarasti.bandcamp.com-album-butterfly-saki
+      quote: https://f4.bcbits.com/img/a1526603123_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original recording publisher
+        language: en
+  release date:
+  - value:
+      date: '2023-05-16'
+    references:
+    - source: avarasti.bandcamp.com-album-butterfly-saki
+      quote: released May 16, 2023
+      accessed: '2026-11-21'
+      locator: Published date

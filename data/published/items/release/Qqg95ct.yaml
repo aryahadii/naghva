@@ -1,0 +1,57 @@
+id: Qqg95ct
+type: release
+statements:
+  name:
+  - value:
+      text: The Wind Will Take Us Away
+      language: en
+    references:
+    - source: avarasti.bandcamp.com-track-the-wind-will-take-us-away
+      quote: The Wind Will Take Us Away | Ava Rasti
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qks2dfk
+    references:
+    - source: avarasti.bandcamp.com-track-the-wind-will-take-us-away
+      quote: The Wind Will Take Us Away | Ava Rasti
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://avarasti.bandcamp.com/track/the-wind-will-take-us-away
+    references:
+    - source: avarasti.bandcamp.com-track-the-wind-will-take-us-away
+      quote: The Wind Will Take Us Away | Ava Rasti
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/6791581146
+    references:
+    - source: music.apple.com-us-song-6791581146
+      quote: ‎The Wind Will Take Us Away - Song with Lyrics by Ava Rasti - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/2oDEhP1SgWAyxjH9aLtL8M
+    references:
+    - source: open.spotify.com-track-2odehp1sgwayxjh9altl8m
+      quote: The Wind Will Take Us Away - song and lyrics by Ava Rasti | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a2343669254_10.jpg
+    references:
+    - source: avarasti.bandcamp.com-track-the-wind-will-take-us-away
+      quote: https://f4.bcbits.com/img/a2343669254_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original recording publisher
+        language: en
+  release date:
+  - value:
+      date: '2026-10-30'
+    references:
+    - source: avarasti.bandcamp.com-album-no-one-knows-how-wild-the-wind-blows
+      quote: released October 30, 2026
+      accessed: '2026-11-21'
+      locator: Published date

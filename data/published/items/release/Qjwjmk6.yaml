@@ -1,0 +1,51 @@
+id: Qjwjmk6
+type: release
+statements:
+  name:
+  - value:
+      text: Hiding Behind the Curtain
+      language: en
+    references:
+    - source: music.apple.com-us-song-1719708554
+      quote: ‎Hiding Behind the Curtain - Song with Lyrics by Ava Rasti - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qks2dfk
+    references:
+    - source: music.apple.com-us-song-1719708554
+      quote: ‎Hiding Behind the Curtain - Song with Lyrics by Ava Rasti - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://music.apple.com/us/song/1719708554
+    references:
+    - source: music.apple.com-us-song-1719708554
+      quote: ‎Hiding Behind the Curtain - Song with Lyrics by Ava Rasti - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/5M3HsHcOuzPJsza9FzQyh9
+    references:
+    - source: open.spotify.com-track-5m3hshcouzpjsza9fzqyh9
+      quote: Hiding Behind the Curtain - song and lyrics by Ava Rasti | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/24/a5/9b/24a59b66-7396-4d86-fdfb-8e94e90811d3/021261865245.jpg/600x600bb.webp
+    references:
+    - source: music.apple.com-us-song-1719708554
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/24/a5/9b/24a59b66-7396-4d86-fdfb-8e94e90811d3/021261865245.jpg/600x600bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original recording publisher
+        language: en
+  release date:
+  - value:
+      date: '2023-11-30'
+    references:
+    - source: music.apple.com-us-song-1719708554
+      quote: November 30, 2023
+      accessed: '2026-11-21'
+      locator: Published date
