@@ -233,6 +233,20 @@
       1200
     ]
   },
+  "https://cdn.honaronline.ir/thumbnail/UKnBiBVuQzwo/KsTH8qw1d0lLQ8n_UJeUBp5Rq59VgSVfnl0DmVSm3bO3jdyqDXWQypimH0J_jecO4nULs_OMEu8LYf3wZJ7Bu5PVDJAK2ITmDfoBwrV3gQTAHTy-Mn0kIdzEr2t8Z2DW8oHVq0Tux7EVCRum3vW0DgtPc3A8fWT1JyOpQIaE3s7Bjyg-Wan9d3fmHnxN48BR/%D9%BE%D8%A7%D8%B4%D8%A7+%D9%87%D9%86%D8%AC%D9%86%DB%8C.jpg": {
+    "sha256": "a6c92f598e1b3182f41bef5c67ea0f8b437825a76d40c9582c911babc3c2c1f7",
+    "ext": "webp",
+    "bytes": 7234,
+    "width": 400,
+    "height": 365,
+    "widths": [
+      240,
+      360,
+      640,
+      960,
+      1200
+    ]
+  },
   "https://cdn.sanity.io/images/94p6912w/production/771b7d0f6adee135745c44cef29df194e39b2c8c-498x1024.jpg": {
     "bytes": 129021,
     "ext": "jpg",
@@ -3428,6 +3442,20 @@
     "ext": "jpg",
     "bytes": 84408,
     "width": 538,
+    "height": 640,
+    "widths": [
+      240,
+      360,
+      640,
+      960,
+      1200
+    ]
+  },
+  "https://i.scdn.co/image/ab6761610000e5eb62200deecbdd99eef0afe336": {
+    "sha256": "3cbe8feb8a429f71a4b59d0b7c4963b3b5511054e955882463af3e7f74a516ca",
+    "ext": "jpg",
+    "bytes": 66917,
+    "width": 621,
     "height": 640,
     "widths": [
       240,
@@ -12361,6 +12389,20 @@
       1200
     ]
   },
+  "https://images.squarespace-cdn.com/content/v1/6967f78fe7c7f1589a9e90a1/4b974b66-fb7d-451f-908a-ba2b68994bb8/TED2024_20240414_2RL1012_TED+_+Ryan+Lash.jpg": {
+    "sha256": "c92d0e0d0e9f7f3edc41d1a1e79b5ddab8fe32555ac3b0c425b210c34e264a71",
+    "ext": "webp",
+    "bytes": 389482,
+    "width": 1440,
+    "height": 2160,
+    "widths": [
+      240,
+      360,
+      640,
+      960,
+      1200
+    ]
+  },
   "https://images.zoogletools.com/s:bzglfiles/u/60271/7d615b2187d16c21f7940140e53c4782a3e65d7d/original/photo-armond-red.jpg/!!/b%3AW1sicmVzaXplIiwxODAwXSxbIm1heCJdLFsid2UiXV0%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg": {
     "sha256": "b39c8ecc1ab6ee5318f658cad1c637da7e84203a293a3c26022e2d7e52f40a62",
     "ext": "jpg",
@@ -13157,6 +13199,19 @@
     "height": 600,
     "sha256": "f4cbfde0605019f31eb3d841599a315615f875a619222986d2975ab405c04280",
     "width": 600,
+    "widths": [
+      180,
+      360,
+      720
+    ]
+  },
+  "https://is1-ssl.mzstatic.com/image/thumb/Music/ee/b1/38/mzi.rmzoerrw.jpg/1200x630bb.jpg": {
+    "sha256": "3390c6cf16186c7d70e5dc6290460269e4f9da37c5352658a6297fb12f05cf69",
+    "ext": "jpg",
+    "bytes": 311872,
+    "width": 1200,
+    "height": 1200,
+    "from": "https://is1-ssl.mzstatic.com/image/thumb/Music/ee/b1/38/mzi.rmzoerrw.jpg/1200x1200bb.jpg",
     "widths": [
       180,
       360,
@@ -28246,6 +28301,20 @@
       180,
       360,
       720
+    ]
+  },
+  "https://www.sixdegreesrecords.com/wp-content/uploads/2022/03/1_Marjan-Vahdat_Foto-Mimi-Chakarova-scaled.jpg": {
+    "sha256": "34f309f50bd831511c3b4c22bbd07fa9f41530203a6e39b8e88e9b5046e24df7",
+    "ext": "jpg",
+    "bytes": 529076,
+    "width": 2560,
+    "height": 1707,
+    "widths": [
+      240,
+      360,
+      640,
+      960,
+      1200
     ]
   },
   "https://www.womex.com/virtual/image/artist/kamakan_iran_france_big_87562.jpg": {

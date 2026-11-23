@@ -21,3 +21,47 @@ Apple Music embedded release metadata, read 2026-11-13.
 > "datePublished":"2012-01-27"
 
 Apple Music embedded release metadata, read 2026-11-13.
+
+> Twinklings of Hope · Mahsa Vahdat, Marjan Vahdat · 2012-01-27
+
+Album artist and issue date, read 2026-11-21.
+
+> Elegy for a Garden
+
+Track 1, read 2026-11-21.
+
+> Garden of Visions
+
+Track 2, read 2026-11-21.
+
+> Lullaby
+
+Track 3, read 2026-11-21.
+
+> Golden Straws of Wheat
+
+Track 4, read 2026-11-21.
+
+> When the Curl of your Tress Appears
+
+Track 5, read 2026-11-21.
+
+> The Moon of Our Beloved's Face
+
+Track 6, read 2026-11-21.
+
+> Navai
+
+Track 7, read 2026-11-21.
+
+> A Promise to my Beloved
+
+Track 8, read 2026-11-21.
+
+> Crane
+
+Track 9, read 2026-11-21.
+
+> Come, My Beloved
+
+Track 10, read 2026-11-21.
