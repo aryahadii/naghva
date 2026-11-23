@@ -1,0 +1,35 @@
+id: Qjkknca
+type: release
+statements:
+  name:
+  - value:
+      text: El Zapateado; son de Veracruz. Al Golpe del Guatimé y Regard Persan.
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-gstlxf9j7a0
+      quote: El Zapateado; son de Veracruz. Al Golpe del Guatimé y Regard Persan.
+      accessed: '2026-11-21'
+      locator: Performer or presenter film title
+  performer:
+  - value: Q9cyea8
+    references:
+    - *id001
+  - value: Q5mzpnt
+    references:
+    - *id001
+  cover art:
+  - value: https://i.ytimg.com/vi/gstlxF9J7a0/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAoC49Vp2RhyEtVuW_rcHBuf_GrSw
+    references:
+    - source: www.youtube.com-watch-v-gstlxf9j7a0
+      quote: https://i.ytimg.com/vi/gstlxF9J7a0/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAoC49Vp2RhyEtVuW_rcHBuf_GrSw
+      accessed: '2026-11-21'
+      locator: Original video image
+    qualifiers:
+      credit:
+        text: José Ángel Gutiérrez
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=gstlxF9J7a0
+    references:
+    - *id001

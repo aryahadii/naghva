@@ -1,0 +1,27 @@
+id: Qys9tmf
+type: person
+statements:
+  name:
+  - value:
+      text: Ziya Tabassian
+      language: en
+    references:
+    - &id001
+      source: tirgan.ca-b-tirgan2017-event-regard-persan-rumi-canada
+      quote: 'Ziya Tabassian: Percussion'
+      accessed: '2026-11-21'
+      locator: Instrument and musician
+  - value:
+      text: ضیا طبسیان
+      language: fa
+    references:
+    - source: hafteh.ca-uploads-mag-issue-554-web.pdf
+      quote: ضیا طبسیان
+      accessed: '2026-11-21'
+      locator: Page 17, album programme
+  member of:
+  - value: Q9cyea8
+    references:
+    - *id001
+    qualifiers:
+      role: percussion
