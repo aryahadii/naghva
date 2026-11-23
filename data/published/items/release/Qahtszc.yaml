@@ -1,0 +1,47 @@
+id: Qahtszc
+type: release
+statements:
+  name:
+  - value:
+      text: Deng · Let Her Sing
+      language: en
+    references:
+    - source: www.youtube.com-oembed-j0yilahekda
+      quote: Mahya Hamedi at Let Her Sing 2022, Performing "Deng"
+      locator: Musician, broadcaster, artist or recording credits
+      accessed: '2026-11-21'
+  performer:
+  - value: Q3ytwxm
+    references:
+    - source: www.youtube.com-oembed-j0yilahekda
+      quote: Mahya Hamedi at Let Her Sing 2022, Performing "Deng"
+      locator: Musician, broadcaster, artist or recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: vocals
+  listen link:
+  - value: https://www.youtube.com/watch?v=j0yilaHEKDA
+    references:
+    - source: www.youtube.com-oembed-j0yilahekda
+      quote: Mahya Hamedi at Let Her Sing 2022, Performing "Deng"
+      locator: Musician, broadcaster, artist or recording credits
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://i.ytimg.com/vi/j0yilaHEKDA/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-j0yilahekda
+      quote: https://i.ytimg.com/vi/j0yilaHEKDA/hqdefault.jpg
+      locator: Musician, broadcaster, artist or recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Diaspora Arts Connection
+        language: en
+  release date:
+  - value:
+      date: '2023-07-02'
+    references:
+    - source: www.youtube.com-watchv-j0yilahekda
+      quote: '2023-07-02T16:09:48-07:00'
+      locator: Native performance, published credits, date or time code
+      accessed: '2026-11-21'

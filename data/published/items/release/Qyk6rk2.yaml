@@ -1,0 +1,53 @@
+id: Qyk6rk2
+type: release
+statements:
+  name:
+  - value:
+      text: Florentine · Berklee Two Track
+      language: en
+    references:
+    - source: www.youtube.com-oembed-lojcvu1rths
+      quote: Mahya Hamedi - Florentine (Berklee Two Track)
+      locator: Musician, broadcaster, artist or recording credits
+      accessed: '2026-11-21'
+  performer:
+  - value: Q3ytwxm
+    references:
+    - source: www.youtube.com-oembed-lojcvu1rths
+      quote: Mahya Hamedi - Florentine (Berklee Two Track)
+      locator: Musician, broadcaster, artist or recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: vocals
+  listen link:
+  - value: https://www.youtube.com/watch?v=LOjcvu1RThs
+    references:
+    - source: www.youtube.com-oembed-lojcvu1rths
+      quote: Mahya Hamedi - Florentine (Berklee Two Track)
+      locator: Musician, broadcaster, artist or recording credits
+      accessed: '2026-11-21'
+  - value: https://www.youtube.com/watch?v=oofaWtxGjl0&t=388s
+    references:
+    - source: www.youtube.com-watchv-oofawtxgjl0
+      quote: 06:28 Florentine
+      locator: Native performance, published credits, date or time code
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://i.ytimg.com/vi/oofaWtxGjl0/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-oofawtxgjl0
+      quote: https://i.ytimg.com/vi/oofaWtxGjl0/hqdefault.jpg
+      locator: Native performance, published credits, date or time code
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Berklee College of Music
+        language: en
+  release date:
+  - value:
+      date: '2022-10-26'
+    references:
+    - source: www.youtube.com-watchv-oofawtxgjl0
+      quote: '2022-10-26T17:00:07-07:00'
+      locator: Native performance, published credits, date or time code
+      accessed: '2026-11-21'
