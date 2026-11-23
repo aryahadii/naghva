@@ -1,0 +1,73 @@
+id: Qt5mvb4
+type: release
+statements:
+  name:
+  - value:
+      text: Azadi cafe
+      language: en
+    references:
+    - source: asgeirasgeirsson.bandcamp.com-track-azadi-cafe
+      quote: Azadi cafe
+      locator: Release, album credits or performance programme
+      accessed: '2026-11-21'
+  performer:
+  - value: Qncx8nb
+    references:
+    - source: asgeirasgeirsson.bandcamp.com-track-azadi-cafe
+      quote: 'Samin Ghorbani: Vocal'
+      locator: Release, album credits or performance programme
+      accessed: '2026-11-21'
+    qualifiers:
+      role: vocals
+  - value: Qf7chsn
+    references:
+    - source: asgeirasgeirsson.bandcamp.com-track-azadi-cafe
+      quote: 'Ásgeir Ásgeirsson: bouzouki'
+      locator: Release, album credits or performance programme
+      accessed: '2026-11-21'
+  - value: Qh5cn7h
+    references:
+    - source: asgeirasgeirsson.bandcamp.com-track-azadi-cafe
+      quote: 'Egill Ólafsson: vocal'
+      locator: Release, album credits or performance programme
+      accessed: '2026-11-21'
+    qualifiers:
+      role: vocals
+  release date:
+  - value:
+      date: '2020-09-01'
+    references:
+    - source: asgeirasgeirsson.bandcamp.com-track-azadi-cafe
+      quote: 01 Sep 2020 00:00:00 GMT
+      locator: Release, album credits or performance programme
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://asgeirasgeirsson.bandcamp.com/track/azadi-cafe
+    references:
+    - source: asgeirasgeirsson.bandcamp.com-track-azadi-cafe
+      quote: Azadi cafe
+      locator: Release, album credits or performance programme
+      accessed: '2026-11-21'
+  - value: https://music.apple.com/us/song/azadi-cafe/1536935210
+    references:
+    - source: music.apple.com-us-album-1536934738
+      quote: Azadi Cafe
+      locator: Release, album credits or performance programme
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/1CFZUrEcHn1GepyHAspXwq
+    references:
+    - source: open.spotify.com-embed-album-6yereedrdtumdw0id975gy
+      quote: Azadi Cafe
+      locator: Release, album credits or performance programme
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://f4.bcbits.com/img/a2894513155_10.jpg
+    references:
+    - source: asgeirasgeirsson.bandcamp.com-track-azadi-cafe
+      quote: https://f4.bcbits.com/img/a2894513155_10.jpg
+      locator: Release, album credits or performance programme
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Ásgeir Ásgeirsson · Persian Path
+        language: en

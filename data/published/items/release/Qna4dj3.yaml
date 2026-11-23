@@ -1,0 +1,72 @@
+id: Qna4dj3
+type: release
+statements:
+  name:
+  - value:
+      text: Pıçıldaşın Ləpələr
+      language: az
+    references:
+    - source: music.apple.com-us-album-1780787998
+      quote: Pıçıldaşın Ləpələr
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+  performer:
+  - value: Qncx8nb
+    references:
+    - source: music.apple.com-us-album-1780787998
+      quote: Samin Ghorbani
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: vocals
+  release date:
+  - value:
+      date: '2024-11-18'
+    references:
+    - source: music.apple.com-us-album-1780787998
+      quote: '2024-11-18'
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/91/e4/ce/91e4ce31-9ebb-7507-4672-0f1bd98ef7cf/cover.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-1780787998
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/91/e4/ce/91e4ce31-9ebb-7507-4672-0f1bd98ef7cf/cover.jpg/1200x630bb.jpg
+      locator: Edition artwork
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Apple Music · Pıçıldaşın Ləpələr
+        language: en
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-1780787998
+      quote: Pıçıldaşın Ləpələr - Single
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://music.apple.com/us/album/p%C4%B1%C3%A7%C4%B1lda%C5%9F%C4%B1n-l%C9%99p%C9%99l%C9%99r-single/1780787998
+    references:
+    - source: music.apple.com-us-album-1780787998
+      quote: Pıçıldaşın Ləpələr - Single
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/album/4Tg18Gg0WznGbk7SpL2Le1
+    references:
+    - source: open.spotify.com-embed-album-4tg18gg0wzngbk7spl2le1
+      quote: Pıçıldaşın Ləpələr
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+  - value: https://music.apple.com/us/song/p%C4%B1%C3%A7%C4%B1lda%C5%9F%C4%B1n-l%C9%99p%C9%99l%C9%99r/1780788001
+    references:
+    - source: music.apple.com-us-album-1780787998
+      quote: Pıçıldaşın Ləpələr
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/12cG57K2ofmMz9TPYNm6Lk
+    references:
+    - source: open.spotify.com-embed-album-4tg18gg0wzngbk7spl2le1
+      quote: Pıçıldaşın Ləpələr
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'

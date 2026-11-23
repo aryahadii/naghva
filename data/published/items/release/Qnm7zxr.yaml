@@ -1,0 +1,47 @@
+id: Qnm7zxr
+type: release
+statements:
+  name:
+  - value:
+      text: Samin Ghorbani · Konsert
+      language: en
+    references:
+    - source: www.youtube.com-watchv-jdzzmzc7oje
+      quote: Samin ghorbani
+      locator: Music or festival film credits
+      accessed: '2026-11-21'
+  performer:
+  - value: Qncx8nb
+    references:
+    - source: www.youtube.com-watchv-jdzzmzc7oje
+      quote: Samin ghorbani
+      locator: Music or festival film credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: vocals
+  release date:
+  - value:
+      date: '2020-04-08'
+    references:
+    - source: www.youtube.com-watchv-jdzzmzc7oje
+      quote: '2020-04-08T15:24:50-07:00'
+      locator: Music or festival film credits
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://www.youtube.com/watch?v=JdzzMZc7ojE
+    references:
+    - source: www.youtube.com-oembed-jdzzmzc7oje
+      quote: Samin ghorbani
+      locator: Music or festival film credits
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://i.ytimg.com/vi/JdzzMZc7ojE/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-jdzzmzc7oje
+      quote: https://i.ytimg.com/vi/JdzzMZc7ojE/hqdefault.jpg
+      locator: Film or video image
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: samin ghorbani
+        language: en

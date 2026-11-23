@@ -1,0 +1,83 @@
+id: Qefmh7w
+type: release
+statements:
+  name:
+  - value:
+      text: Hosseini (feat. Samin Ghorbani & Siamak Jahangiry) [Female]
+      language: az
+    references:
+    - source: music.apple.com-us-album-1868165829
+      quote: Hosseini (feat. Samin Ghorbani & Siamak Jahangiry) [Female]
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+  - value:
+      text: Hosseini (feat. Samin Ghorbani & Siamak Jahangiry) [Female]
+      language: en
+    references:
+    - source: siamak-jahangiri-ap1868165829
+      quote: Hosseini (feat. Samin Ghorbani & Siamak Jahangiry) [Female]
+      accessed: '2026-11-21'
+      locator: Track title and billing
+  performer:
+  - value: Qncx8nb
+    references:
+    - source: music.apple.com-us-album-1868165829
+      quote: Daramad (feat. Samin Ghorbani) [Female]
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: vocals
+  - value: Qbh7ggw
+    references:
+    - source: music.apple.com-us-album-1868165829
+      quote: Hossein Alizadeh
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+  - value: Qnz4xnz
+    references:
+    - source: music.apple.com-us-album-1868165829
+      quote: Hosseini (feat. Samin Ghorbani & Siamak Jahangiry) [Female]
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2026-01-08'
+    references:
+    - source: music.apple.com-us-album-1868165829
+      quote: '2026-01-08'
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1a/9f/b3/1a9fb350-5867-b3a2-a482-9e18e96df06f/artwork.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-1868165829
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1a/9f/b3/1a9fb350-5867-b3a2-a482-9e18e96df06f/artwork.jpg/1200x630bb.jpg
+      locator: Edition artwork
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: 'Apple Music · The Dastgahs of Persian Music: Dastgah-e Nava (Female)'
+        language: en
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1a/9f/b3/1a9fb350-5867-b3a2-a482-9e18e96df06f/artwork.jpg/1200x630wp-60.jpg
+    references:
+    - source: siamak-jahangiri-ap1868165829
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1a/9f/b3/1a9fb350-5867-b3a2-a482-9e18e96df06f/artwork.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Digital release artwork
+    qualifiers:
+      credit:
+        text: Apple Music, original edition artwork
+        language: en
+  listen link:
+  - value: https://music.apple.com/us/song/hosseini-feat-samin-ghorbani-siamak-jahangiry-female/1868166030
+    references:
+    - source: music.apple.com-us-album-1868165829
+      quote: Hosseini (feat. Samin Ghorbani & Siamak Jahangiry) [Female]
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/3aFdUMvXdmgqGXHKEH1Z6q
+    references:
+    - source: open.spotify.com-embed-album-5lmtiwon77iszzkuo0uzcp
+      quote: Hosseini - Female
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'

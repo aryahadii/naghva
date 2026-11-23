@@ -1,0 +1,47 @@
+id: Q7wdy5n
+type: release
+statements:
+  name:
+  - value:
+      text: کنسرت خصوصی · احمد شاملو
+      language: fa
+    references:
+    - source: www.youtube.com-watchv-shpf7o4rrpk
+      quote: Samin ghorbani
+      locator: Music or festival film credits
+      accessed: '2026-11-21'
+  performer:
+  - value: Qncx8nb
+    references:
+    - source: www.youtube.com-watchv-shpf7o4rrpk
+      quote: Samin ghorbani
+      locator: Music or festival film credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: vocals
+  release date:
+  - value:
+      date: '2020-04-08'
+    references:
+    - source: www.youtube.com-watchv-shpf7o4rrpk
+      quote: '2020-04-08T16:31:49-07:00'
+      locator: Music or festival film credits
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://www.youtube.com/watch?v=shpF7O4rRPk
+    references:
+    - source: www.youtube.com-oembed-shpf7o4rrpk
+      quote: Samin ghorbani
+      locator: Music or festival film credits
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://i.ytimg.com/vi/shpF7O4rRPk/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-shpf7o4rrpk
+      quote: https://i.ytimg.com/vi/shpF7O4rRPk/hqdefault.jpg
+      locator: Film or video image
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: samin ghorbani
+        language: en

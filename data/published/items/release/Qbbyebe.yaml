@@ -1,0 +1,72 @@
+id: Qbbyebe
+type: release
+statements:
+  name:
+  - value:
+      text: دیلبر
+      language: fa
+    references:
+    - source: music.apple.com-us-album-1780790727
+      quote: دیلبر
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+  performer:
+  - value: Qncx8nb
+    references:
+    - source: music.apple.com-us-album-1780790727
+      quote: Samin Ghorbani
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: vocals
+  release date:
+  - value:
+      date: '2024-11-18'
+    references:
+    - source: music.apple.com-us-album-1780790727
+      quote: '2024-11-18'
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/63/e4/d2/63e4d206-f759-c80d-913e-4fb2f8a2e986/cover.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-1780790727
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/63/e4/d2/63e4d206-f759-c80d-913e-4fb2f8a2e986/cover.jpg/1200x630bb.jpg
+      locator: Edition artwork
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Apple Music · دیلبر
+        language: en
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-1780790727
+      quote: دیلبر - Single
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://music.apple.com/us/album/%D8%AF%DB%8C%D9%84%D8%A8%D8%B1-single/1780790727
+    references:
+    - source: music.apple.com-us-album-1780790727
+      quote: دیلبر - Single
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/album/3Arw8GBwmr121gOMSee62E
+    references:
+    - source: open.spotify.com-embed-album-3arw8gbwmr121gomsee62e
+      quote: دیلبر
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+  - value: https://music.apple.com/us/song/%D8%AF%DB%8C%D9%84%D8%A8%D8%B1/1780790732
+    references:
+    - source: music.apple.com-us-album-1780790727
+      quote: دیلبر
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/5VuMcxtnf53JZ7qX2ba3cD
+    references:
+    - source: open.spotify.com-embed-album-3arw8gbwmr121gomsee62e
+      quote: دیلبر
+      locator: Published artist, title or credits
+      accessed: '2026-11-21'

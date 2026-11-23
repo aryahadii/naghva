@@ -1,0 +1,80 @@
+id: Qw2s6sy
+type: release
+statements:
+  name:
+  - value:
+      text: Persian path
+      language: en
+    references:
+    - source: asgeirasgeirsson.bandcamp.com-album-persian-path
+      quote: Persian path
+      locator: Release, album credits or performance programme
+      accessed: '2026-11-21'
+  performer:
+  - value: Qncx8nb
+    references:
+    - source: asgeirasgeirsson.bandcamp.com-track-azadi-cafe
+      quote: 'Samin Ghorbani: Vocal'
+      locator: Release, album credits or performance programme
+      accessed: '2026-11-21'
+    qualifiers:
+      role: vocals
+  - value: Qf7chsn
+    references:
+    - source: asgeirasgeirsson.bandcamp.com-track-azadi-cafe
+      quote: 'Ásgeir Ásgeirsson: bouzouki'
+      locator: Release, album credits or performance programme
+      accessed: '2026-11-21'
+  - value: Qh5cn7h
+    references:
+    - source: asgeirasgeirsson.bandcamp.com-track-azadi-cafe
+      quote: 'Egill Ólafsson: vocal'
+      locator: Release, album credits or performance programme
+      accessed: '2026-11-21'
+    qualifiers:
+      role: vocals
+  release date:
+  - value:
+      date: '2020-09-01'
+    references:
+    - source: asgeirasgeirsson.bandcamp.com-album-persian-path
+      quote: 01 Sep 2020 00:00:00 GMT
+      locator: Release, album credits or performance programme
+      accessed: '2026-11-21'
+  release type:
+  - value: album
+    references:
+    - source: asgeirasgeirsson.bandcamp.com-album-persian-path
+      quote: Persian path
+      locator: Release, album credits or performance programme
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://asgeirasgeirsson.bandcamp.com/album/persian-path
+    references:
+    - source: asgeirasgeirsson.bandcamp.com-album-persian-path
+      quote: Persian path
+      locator: Release, album credits or performance programme
+      accessed: '2026-11-21'
+  - value: https://music.apple.com/us/album/persian-path-icelandic-folksongs-vol-3/1536934738
+    references:
+    - source: music.apple.com-us-album-1536934738
+      quote: Persian Path - Icelandic Folksongs, Vol. 3
+      locator: Release, album credits or performance programme
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/album/6yeREedrDtUmdW0iD975gy
+    references:
+    - source: open.spotify.com-embed-album-6yereedrdtumdw0id975gy
+      quote: Persian Path (Icelandic Folksongs Vol. 3)
+      locator: Release, album credits or performance programme
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://f4.bcbits.com/img/a0352552635_10.jpg
+    references:
+    - source: asgeirasgeirsson.bandcamp.com-album-persian-path
+      quote: https://f4.bcbits.com/img/a0352552635_10.jpg
+      locator: Release, album credits or performance programme
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Ásgeir Ásgeirsson · Persian Path
+        language: en
