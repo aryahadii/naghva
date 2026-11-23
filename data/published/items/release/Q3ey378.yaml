@@ -1,0 +1,27 @@
+id: Q3ey378
+type: release
+statements:
+  name:
+  - value:
+      text: Ya Mama
+      language: en
+    references:
+    - &id001
+      source: soundcloud.com-nag-1-1-ensemble-shanbehzadeh-nakhoda
+      quote: Nakhoda Ahlan From Ya Mama Album
+      accessed: '2026-11-21'
+      locator: Original musician’s discography
+  performer:
+  - value: Qdtxp3v
+    references:
+    - *id001
+  - value: Qyd93n9
+    references:
+    - *id001
+  - value: Qvhrrm8
+    references:
+    - *id001
+  release type:
+  - value: album
+    references:
+    - *id001

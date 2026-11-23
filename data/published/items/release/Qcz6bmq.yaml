@@ -1,0 +1,68 @@
+id: Qcz6bmq
+type: release
+statements:
+  name:
+  - value:
+      text: Ensemble Shanbehzadeh - Ya mama
+      language: en
+    references:
+    - &id001
+      source: soundcloud.com-nag-1-1-ensemble-shanbehzadeh-ya-mama
+      quote: Ensemble Shanbehzadeh - Ya mama
+      accessed: '2026-11-21'
+      locator: Artist’s SoundCloud recording
+  performer:
+  - value: Qdtxp3v
+    references:
+    - *id001
+  - value: Qyd93n9
+    references:
+    - *id001
+  - value: Qvhrrm8
+    references:
+    - *id001
+  - value: Qqat63b
+    references:
+    - source: soundcloud.com-nag-1-1-ensemble-shanbehzadeh-ya-mama
+      quote: Manu Codjia
+      accessed: '2026-11-21'
+      locator: Named contributor to track
+  - value: Q49prrc
+    references:
+    - source: soundcloud.com-nag-1-1-ensemble-shanbehzadeh-ya-mama
+      quote: Habib Meftah
+      accessed: '2026-11-21'
+      locator: Named contributor to track
+  - value: Qxchk2x
+    references:
+    - source: soundcloud.com-nag-1-1-ensemble-shanbehzadeh-ya-mama
+      quote: joe Cuitzke
+      accessed: '2026-11-21'
+      locator: Named contributor to track
+  - value: Q8d4g2d
+    references:
+    - source: soundcloud.com-nag-1-1-ensemble-shanbehzadeh-ya-mama
+      quote: Francisco cordovil
+      accessed: '2026-11-21'
+      locator: Named contributor to track
+  listen link:
+  - value: https://soundcloud.com/nag-1-1/ensemble-shanbehzadeh-ya-mama
+    references:
+    - *id001
+  - value: https://www.youtube.com/watch?v=hRdxUxxYlrs
+    references:
+    - source: www.youtube.com-watch-v-hrdxuxxylrs
+      quote: Ensemble Shanbehzadeh - Ya mama
+      accessed: '2026-11-21'
+      locator: Artist-published performance film
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-000050896571-6h7zeh-large.jpg
+    references:
+    - source: soundcloud.com-nag-1-1-ensemble-shanbehzadeh-ya-mama
+      quote: https://i1.sndcdn.com/artworks-000050896571-6h7zeh-large.jpg
+      accessed: '2026-11-21'
+      locator: Artist file artwork
+    qualifiers:
+      credit:
+        text: Naghib Shanbehzadeh / SoundCloud
+        language: en

@@ -1,0 +1,85 @@
+id: Qpkkpph
+type: release
+statements:
+  name:
+  - value:
+      text: Raghs
+      language: en
+    references:
+    - &id001
+      source: music.apple.com-us-album-jazz-music-from-south-iran-465372011
+      quote: Raghs
+      accessed: '2026-11-21'
+      locator: Original track
+  performer:
+  - value: Qdtxp3v
+    references:
+    - *id001
+  - value: Qyd93n9
+    references:
+    - *id001
+  - value: Qvhrrm8
+    references:
+    - *id001
+  - value: Qarvpxn
+    references:
+    - *id001
+  - value: Qqat63b
+    references:
+    - source: soundcloud.com-nag-1-1-ensemble-shanbehzadeh-raghs
+      quote: Manu Codjia
+      accessed: '2026-11-21'
+      locator: Named contributor to track
+  - value: Q49prrc
+    references:
+    - source: soundcloud.com-saeid-shanbehzadeh-07-raghs
+      quote: Habib meftah
+      accessed: '2026-11-21'
+      locator: Named contributor to track
+  - value: Qxchk2x
+    references:
+    - source: soundcloud.com-saeid-shanbehzadeh-07-raghs
+      quote: Joe Quitzke
+      accessed: '2026-11-21'
+      locator: Named contributor to track
+  listen link:
+  - value: https://music.apple.com/us/song/raghs/465372097
+    references:
+    - *id001
+  - value: https://open.spotify.com/track/6d9nO3vfvkTKWp5lB8vicZ
+    references:
+    - source: open.spotify.com-embed-album-0ksatdo2no7zn9g0zxry6s
+      quote: Raghs
+      accessed: '2026-11-21'
+      locator: Matching Spotify edition
+  - value: https://soundcloud.com/nag-1-1/ensemble-shanbehzadeh-raghs
+    references:
+    - source: soundcloud.com-nag-1-1-ensemble-shanbehzadeh-raghs
+      quote: Ensemble Shanbehzadeh and Manu Codjia - Raghs
+      accessed: '2026-11-21'
+      locator: Artist’s SoundCloud recording
+  - value: https://soundcloud.com/saeid-shanbehzadeh/07-raghs
+    references:
+    - source: soundcloud.com-saeid-shanbehzadeh-07-raghs
+      quote: Raghs
+      accessed: '2026-11-21'
+      locator: Artist’s SoundCloud recording
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music/61/d9/97/mzi.zmmocoxh.jpg/1200x630wp-60.jpg
+    references:
+    - source: music.apple.com-us-album-jazz-music-from-south-iran-465372011
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music/61/d9/97/mzi.zmmocoxh.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Original issue artwork
+    qualifiers:
+      credit:
+        text: Apple Music, original edition artwork
+        language: en
+  release date:
+  - value:
+      date: '2011-06-20'
+    references:
+    - source: music.apple.com-us-album-jazz-music-from-south-iran-465372011
+      quote: '2011-06-20'
+      accessed: '2026-11-21'
+      locator: Digital edition date
