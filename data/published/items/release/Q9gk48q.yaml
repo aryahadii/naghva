@@ -1,0 +1,61 @@
+id: Q9gk48q
+type: release
+statements:
+  name:
+  - value:
+      text: L'addio di Anna
+      language: en
+    references:
+    - source: music.apple.com-us-album-1616859852
+      quote: L'addio di Anna (feat. Lukas Gasser, André Pousaz & Shabnam Parvaresh)
+      locator: Named featured musician
+      accessed: '2026-11-21'
+  performer:
+  - value: Q9aspca
+    references:
+    - source: music.apple.com-us-album-1616859852
+      quote: L'addio di Anna (feat. Lukas Gasser, André Pousaz & Shabnam Parvaresh)
+      locator: Named featured musician
+      accessed: '2026-11-21'
+    - source: www.beyondmusic.org-artist-797
+      quote: L'addio di Anna
+      locator: Artist recording portfolio
+      accessed: '2026-11-21'
+  - value: Qv5ncgj
+    references:
+    - source: music.apple.com-us-album-1616859852
+      quote: Sasha Shlain
+      locator: Billed artist
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2022-04-22'
+    references:
+    - source: music.apple.com-us-album-1616859852
+      quote: '2022-04-22'
+      locator: Release date
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/f8/3d/7a/f83d7a63-331a-993f-bde1-d9d8aa1e9655/cover_4064832934274.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-1616859852
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/f8/3d/7a/f83d7a63-331a-993f-bde1-d9d8aa1e9655/cover_4064832934274.jpg/1200x630bb.jpg
+      locator: Portrait or cover art on the artist or publisher page
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Devotion · release artwork
+        language: en
+  listen link:
+  - value: https://music.apple.com/us/song/laddio-di-anna-feat-lukas-gasser-andr%C3%A9-pousaz-shabnam/1616859857
+    references:
+    - source: music.apple.com-us-album-1616859852
+      quote: L'addio di Anna (feat. Lukas Gasser, André Pousaz & Shabnam Parvaresh)
+      locator: Named featured musician
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/5JBTnDyKQ8e8NkAyOmN61S
+    references:
+    - source: open.spotify.com-album-508vxoldv4x3wnts0ogmel
+      quote: L'addio di Anna
+      locator: Track on corresponding streaming edition
+      accessed: '2026-11-21'

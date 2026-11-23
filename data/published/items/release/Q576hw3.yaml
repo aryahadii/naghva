@@ -1,0 +1,65 @@
+id: Q576hw3
+type: release
+statements:
+  name:
+  - value:
+      text: Plainte Ayotl
+      language: en
+    references:
+    - source: shabnamparvaresh.bandcamp.com-album-rising-red
+      quote: Plainte Ayotl
+      locator: Track 1
+      accessed: '2026-11-21'
+  performer:
+  - value: Q9aspca
+    references:
+    - source: shabnamparvaresh.bandcamp.com-album-rising-red
+      quote: Shabnam Parvaresh - bass clarinet, effects
+      locator: Original personnel credit
+      accessed: '2026-11-21'
+    qualifiers:
+      role: bass clarinet
+  - value: Q3kbj26
+    references:
+    - source: shabnamparvaresh.bandcamp.com-album-rising-red
+      quote: Joachim Raffel
+      locator: Billed musician or ensemble
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2023-01-12'
+    references:
+    - source: shabnamparvaresh.bandcamp.com-album-rising-red
+      quote: 12 Jan 2023 00:00:00 GMT
+      locator: Original publication date
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://f4.bcbits.com/img/a3998616283_10.jpg
+    references:
+    - source: shabnamparvaresh.bandcamp.com-album-rising-red
+      quote: https://f4.bcbits.com/img/a3998616283_10.jpg
+      locator: Portrait or cover art on the artist or publisher page
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Shabnam Parvaresh · release artwork
+        language: en
+  listen link:
+  - value: https://shabnamparvaresh.bandcamp.com/track/plainte-ayotl
+    references:
+    - source: shabnamparvaresh.bandcamp.com-album-rising-red
+      quote: Plainte Ayotl
+      locator: Track 1
+      accessed: '2026-11-21'
+  - value: https://music.apple.com/us/song/plainte-ayotl/1713579716
+    references:
+    - source: music.apple.com-us-album-1713579712
+      quote: Plainte Ayotl
+      locator: Streaming track 1
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/0PKZ5SWpLOr1AiN7wEkzSJ
+    references:
+    - source: open.spotify.com-album-2euoqyhonsogpl3jxahdx6
+      quote: Plainte Ayotl
+      locator: Track on corresponding streaming edition
+      accessed: '2026-11-21'
