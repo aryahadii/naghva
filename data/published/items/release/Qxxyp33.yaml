@@ -1,0 +1,75 @@
+id: Qxxyp33
+type: release
+statements:
+  listen link:
+  - value: https://sinasalimi.bandcamp.com/track/the-girl-with-orange-hair
+    references:
+    - source: sinasalimi.bandcamp.com-track-the-girl-with-orange-hair
+      quote: The Girl with orange Hair | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/the-girl-with-orange-hair/1889276826
+    references:
+    - source: music.apple.com-us-song-the-girl-with-orange-hair-1889276826
+      quote: ‎The Girl with Orange Hair - Song with Lyrics by Sina Salimi - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/0O4vpszalxCN6bahmlgBsZ
+    references:
+    - source: open.spotify.com-track-0o4vpszalxcn6bahmlgbsz
+      quote: The Girl with Orange Hair - song and lyrics by Sina Salimi | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/sinasalimi/the-girl-with-orange-hair
+    references:
+    - source: soundcloud.com-sinasalimi-the-girl-with-orange-hair
+      quote: Stream The Girl with Orange Hair by Sina  Salimi | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  name:
+  - value:
+      text: The Girl with orange Hair
+      language: en
+    references:
+    - source: sinasalimi.bandcamp.com-track-the-girl-with-orange-hair
+      quote: The Girl with orange Hair
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  performer:
+  - value: Qt5sbqz
+    references:
+    - source: sinasalimi.bandcamp.com-track-the-girl-with-orange-hair
+      quote: The Girl with orange Hair | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qhr6fdz
+    references:
+    - source: sinasalimi.bandcamp.com-album-travellers-musicians-and-other-stories
+      quote: Isah Berlin……………………....cello [track 2, 3, 4, 9, 21]‎
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Qqpqs8x
+    references:
+    - source: sinasalimi.bandcamp.com-album-travellers-musicians-and-other-stories
+      quote: Diana Planche………………….vocables [tracks 3, 4]‎
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  release date:
+  - value:
+      date: '2026-03-20'
+    references:
+    - source: sinasalimi.bandcamp.com-album-travellers-musicians-and-other-stories
+      quote: released March 20, 2026
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a2498350153_10.jpg
+    references:
+    - source: sinasalimi.bandcamp.com-track-the-girl-with-orange-hair
+      quote: https://f4.bcbits.com/img/a2498350153_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Pegah Mian
+        language: en

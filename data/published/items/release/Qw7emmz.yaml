@@ -1,0 +1,41 @@
+id: Qw7emmz
+type: release
+statements:
+  name:
+  - value:
+      text: کنسرت گروه موسیقی صبا
+      language: fa
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-jixozyt6_uc
+      quote: 'کنسرت گروه موسیقی صبا: فرزاد امتثالی ، هومن معینی و سینا سلیمی'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value:
+      text: Saba group concert
+      language: en
+    references:
+    - *id001
+    editorial: true
+  performer:
+  - value: Qt5sbqz
+    references:
+    - *id001
+  listen link:
+  - value: https://www.youtube.com/watch?v=JixoZyT6_uc
+    references:
+    - source: www.youtube.com-watch-v-jixozyt6_uc
+      quote: تلویزیون شهرما تورنتو - YouTube
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i.ytimg.com/vi/JixoZyT6_uc/maxresdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-jixozyt6_uc
+      quote: https://i.ytimg.com/vi/JixoZyT6_uc/maxresdefault.jpg
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: Shahrema Archive
+        language: en

@@ -1,0 +1,120 @@
+id: Qv2vpdf
+type: release
+statements:
+  listen link:
+  - value: https://music.apple.com/us/album/shadows-single/1072192061
+    references:
+    - source: music.apple.com-us-album-shadows-single-1072192061
+      quote: ‎Shadows - Single - Album by Mahmood Schricker & Sina Salimi - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/shadows/1072192068
+    references:
+    - source: music.apple.com-us-song-shadows-1072192068
+      quote: ‎Shadows - Song with Lyrics by Mahmood Schricker & Sina Salimi - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://mahmoodschricker.bandcamp.com/track/shadows-featuring-sina-salimi
+    references:
+    - source: mahmoodschricker.bandcamp.com-track-shadows-featuring-sina-salimi
+      quote: Shadows featuring Sina Salimi | Mahmood Schricker
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/mahmood-schricker/shadows-featuring-sina-salimi
+    references:
+    - source: soundcloud.com-mahmood-schricker-shadows-featuring-sina-salimi
+      quote: Stream Shadows featuring Sina Salimi by Mahmood Schricker | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://www.youtube.com/watch?v=RLYp3wamHiA
+    references:
+    - source: www.youtube.com-watch-v-rlyp3wamhia
+      quote: Mahmood Schricker and Sina Salimi - Shadows
+      accessed: '2026-11-21'
+      locator: Page title
+  name:
+  - value:
+      text: Shadows
+      language: en
+    references:
+    - source: music.apple.com-us-album-shadows-single-1072192061
+      quote: Shadows
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  performer:
+  - value: Qt5sbqz
+    references:
+    - source: music.apple.com-us-album-shadows-single-1072192061
+      quote: ‎Shadows - Single - Album by Mahmood Schricker & Sina Salimi - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qxkh2tz
+    references:
+    - source: music.apple.com-us-album-shadows-single-1072192061
+      quote: Mahmood Schricker
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    - source: mahmoodschricker.bandcamp.com-track-shadows-featuring-sina-salimi
+      quote: Mahmood Schricker- Composition, Setar
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: setar
+  - value: Qfy6wcj
+    references:
+    - source: mahmoodschricker.bandcamp.com-track-shadows-featuring-sina-salimi
+      quote: Reza Moghaddas- Bass
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: bass
+  - value: Qgaw5k8
+    references:
+    - source: mahmoodschricker.bandcamp.com-track-shadows-featuring-sina-salimi
+      quote: Demetrios Petsalakis- Guitar
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: guitar
+  - value: Qdnawcx
+    references:
+    - source: mahmoodschricker.bandcamp.com-track-shadows-featuring-sina-salimi
+      quote: Morgan Doctor- Percussion
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: percussion
+  - value: Qhyea7e
+    references:
+    - source: mahmoodschricker.bandcamp.com-track-shadows-featuring-sina-salimi
+      quote: Nick Grottick- Beats
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  release date:
+  - value:
+      date: '2016-01-03'
+    references:
+    - source: mahmoodschricker.bandcamp.com-track-shadows-featuring-sina-salimi
+      quote: released January 3, 2016
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a4107597509_10.jpg
+    references:
+    - source: mahmoodschricker.bandcamp.com-track-shadows-featuring-sina-salimi
+      quote: https://f4.bcbits.com/img/a4107597509_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Mahmood Schricker on Bandcamp
+        language: en
+  contributor:
+  - value: Qt5sbqz
+    references:
+    - source: mahmoodschricker.bandcamp.com-track-shadows-featuring-sina-salimi
+      quote: Sina Salimi- Lyrics, Vocals, Santur
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: lyricist

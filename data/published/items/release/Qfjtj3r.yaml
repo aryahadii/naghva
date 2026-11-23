@@ -1,0 +1,67 @@
+id: Qfjtj3r
+type: release
+statements:
+  listen link:
+  - value: https://sinasalimi.bandcamp.com/track/next-time-we-meet
+    references:
+    - source: sinasalimi.bandcamp.com-track-next-time-we-meet
+      quote: Next Time We Meet | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/next-time-we-meet/1544199173
+    references:
+    - source: music.apple.com-us-song-next-time-we-meet-1544199173
+      quote: ‎Next Time We Meet - Song with Lyrics by Sina Salimi - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/10N85xFV8u24hkgEmyi5p4
+    references:
+    - source: open.spotify.com-track-10n85xfv8u24hkgemyi5p4
+      quote: Next Time We Meet - song and lyrics by Sina Salimi | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/sinasalimi/next-time-we-meet
+    references:
+    - source: soundcloud.com-sinasalimi-next-time-we-meet
+      quote: Stream Next Time We Meet - قرار بعدی ما by Sina  Salimi | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  name:
+  - value:
+      text: Next Time We Meet
+      language: en
+    references:
+    - source: sinasalimi.bandcamp.com-track-next-time-we-meet
+      quote: Next Time We Meet
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  performer:
+  - value: Qt5sbqz
+    references:
+    - source: sinasalimi.bandcamp.com-track-next-time-we-meet
+      quote: Next Time We Meet | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2020-12-21'
+    references:
+    - source: sinasalimi.bandcamp.com-album-all-of-our-tomorrows
+      quote: released December 21, 2020
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a0734454998_10.jpg
+    references:
+    - source: sinasalimi.bandcamp.com-track-next-time-we-meet
+      quote: https://f4.bcbits.com/img/a0734454998_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    - source: sinasalimi.bandcamp.com-album-all-of-our-tomorrows
+      quote: Design & Layout by Vahid Fazel
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: Vahid Fazel
+        language: en

@@ -1,0 +1,80 @@
+id: Qebhawc
+type: release
+statements:
+  listen link:
+  - value: https://music.apple.com/us/album/mount-dilaudid-ep/1605671273
+    references:
+    - source: music.apple.com-us-album-mount-dilaudid-ep-1605671273
+      quote: ‎Mount Dilaudid - EP - Album by Mahmood Schricker, Michael Red & Sina Salimi - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://mahmoodschricker.bandcamp.com/album/mount-dilaudid
+    references:
+    - source: mahmoodschricker.bandcamp.com-album-mount-dilaudid
+      quote: Mount Dilaudid | Mahmood Schricker and Michael Red | Mahmood Schricker
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://linkmusiclab.bandcamp.com/album/mount-dilaudid
+    references:
+    - source: linkmusiclab.bandcamp.com-album-mount-dilaudid
+      quote: Mount Dilaudid | Mahmood Schricker, Michael Red | Link Music Lab Records
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/album/0BqCV2oNCeAvFzGSXEIdBL
+    references:
+    - source: open.spotify.com-album-0bqcv2onceavfzgsxeidbl
+      quote: Listen to Mount Dilaudid - EP by Mahmood Schricker | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  name:
+  - value:
+      text: Mount Dilaudid
+      language: en
+    references:
+    - &id001
+      source: music.apple.com-us-album-mount-dilaudid-ep-1605671273
+      quote: Mount Dilaudid
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  performer:
+  - value: Qt5sbqz
+    references:
+    - source: music.apple.com-us-album-mount-dilaudid-ep-1605671273
+      quote: ‎Mount Dilaudid - EP - Album by Mahmood Schricker, Michael Red & Sina Salimi - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qxkh2tz
+    references:
+    - source: music.apple.com-us-album-mount-dilaudid-ep-1605671273
+      quote: Mahmood Schricker
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Qfqkyze
+    references:
+    - source: music.apple.com-us-album-mount-dilaudid-ep-1605671273
+      quote: Michael Red
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  release type:
+  - value: album
+    references:
+    - *id001
+  release date:
+  - value:
+      date: '2022-02-05'
+    references:
+    - source: music.apple.com-us-album-mount-dilaudid-ep-1605671273
+      quote: February 5, 2022
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8e/73/86/8e7386ec-e0c0-453d-ae0d-7d30ade9763e/00_Cover_Art.jpg/632x632bb.webp
+    references:
+    - source: music.apple.com-us-album-mount-dilaudid-ep-1605671273
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8e/73/86/8e7386ec-e0c0-453d-ae0d-7d30ade9763e/00_Cover_Art.jpg/632x632bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Sina Salimi on Apple Music
+        language: en

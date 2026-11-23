@@ -1,0 +1,75 @@
+id: Qg9wpqf
+type: release
+statements:
+  listen link:
+  - value: https://sinasalimi.bandcamp.com/track/how-did-we-reach-each-other
+    references:
+    - source: sinasalimi.bandcamp.com-track-how-did-we-reach-each-other
+      quote: How Did We Reach Each Other? | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/how-did-we-reach-each-other/1889276985
+    references:
+    - source: music.apple.com-us-song-how-did-we-reach-each-other-1889276985
+      quote: ‎How Did We Reach Each Other? - Song with Lyrics by Sina Salimi - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/4E7j1K113sLXG8m6unnh6F
+    references:
+    - source: open.spotify.com-track-4e7j1k113slxg8m6unnh6f
+      quote: How Did We Reach Each Other? - song and lyrics by Sina Salimi | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/sinasalimi/how-did-we-reach-each-other
+    references:
+    - source: soundcloud.com-sinasalimi-how-did-we-reach-each-other
+      quote: Stream How Did We Reach Each Other by Sina  Salimi | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  name:
+  - value:
+      text: How Did We Reach Each Other?
+      language: en
+    references:
+    - source: sinasalimi.bandcamp.com-track-how-did-we-reach-each-other
+      quote: How Did We Reach Each Other?
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  performer:
+  - value: Qt5sbqz
+    references:
+    - source: sinasalimi.bandcamp.com-track-how-did-we-reach-each-other
+      quote: How Did We Reach Each Other? | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qhr6fdz
+    references:
+    - source: sinasalimi.bandcamp.com-album-travellers-musicians-and-other-stories
+      quote: Isah Berlin……………………....cello [track 2, 3, 4, 9, 21]‎
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Qtqz8e8
+    references:
+    - source: sinasalimi.bandcamp.com-album-travellers-musicians-and-other-stories
+      quote: Nick Zubeck………………........electric guitar [tracks 2, 9, 11, 21]‎
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  release date:
+  - value:
+      date: '2026-03-20'
+    references:
+    - source: sinasalimi.bandcamp.com-album-travellers-musicians-and-other-stories
+      quote: released March 20, 2026
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a2498350153_10.jpg
+    references:
+    - source: sinasalimi.bandcamp.com-track-how-did-we-reach-each-other
+      quote: https://f4.bcbits.com/img/a2498350153_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Pegah Mian
+        language: en

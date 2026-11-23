@@ -1,0 +1,75 @@
+id: Qe95ddg
+type: release
+statements:
+  listen link:
+  - value: https://sinasalimi.bandcamp.com/track/invisible-moon
+    references:
+    - source: sinasalimi.bandcamp.com-track-invisible-moon
+      quote: Invisible Moon | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/invisible-moon/1889276829
+    references:
+    - source: music.apple.com-us-song-invisible-moon-1889276829
+      quote: ‎Invisible Moon - Song with Lyrics by Sina Salimi - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/0zmPqxnJQmGpDWHITFRn6b
+    references:
+    - source: open.spotify.com-track-0zmpqxnjqmgpdwhitfrn6b
+      quote: Invisible Moon - song and lyrics by Sina Salimi | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/sinasalimi/the-invisible-moon
+    references:
+    - source: soundcloud.com-sinasalimi-the-invisible-moon
+      quote: Stream Invisible Moon by Sina  Salimi | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  name:
+  - value:
+      text: Invisible Moon
+      language: en
+    references:
+    - source: sinasalimi.bandcamp.com-track-invisible-moon
+      quote: Invisible Moon
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  performer:
+  - value: Qt5sbqz
+    references:
+    - source: sinasalimi.bandcamp.com-track-invisible-moon
+      quote: Invisible Moon | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qhr6fdz
+    references:
+    - source: sinasalimi.bandcamp.com-album-travellers-musicians-and-other-stories
+      quote: Isah Berlin……………………....cello [track 2, 3, 4, 9, 21]‎
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Qtqz8e8
+    references:
+    - source: sinasalimi.bandcamp.com-album-travellers-musicians-and-other-stories
+      quote: Nick Zubeck………………........electric guitar [tracks 2, 9, 11, 21]‎
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  release date:
+  - value:
+      date: '2026-03-20'
+    references:
+    - source: sinasalimi.bandcamp.com-album-travellers-musicians-and-other-stories
+      quote: released March 20, 2026
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a2498350153_10.jpg
+    references:
+    - source: sinasalimi.bandcamp.com-track-invisible-moon
+      quote: https://f4.bcbits.com/img/a2498350153_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Pegah Mian
+        language: en

@@ -1,0 +1,75 @@
+id: Qthygvr
+type: release
+statements:
+  listen link:
+  - value: https://sinasalimi.bandcamp.com/track/endless-nowruz-remastered
+    references:
+    - source: sinasalimi.bandcamp.com-track-endless-nowruz-remastered
+      quote: Endless Nowruz - Remastered | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/endless-nowruz/1740289921
+    references:
+    - source: music.apple.com-us-song-endless-nowruz-1740289921
+      quote: ‎Endless Nowruz - Song with Lyrics by Sina Salimi - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/5VE02Ei66rqh6SePlhADx1
+    references:
+    - source: open.spotify.com-track-5ve02ei66rqh6seplhadx1
+      quote: Endless Nowruz - song and lyrics by Sina Salimi | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/sinasalimi/endless-nowruz-remastered
+    references:
+    - source: soundcloud.com-sinasalimi-endless-nowruz-remastered
+      quote: Stream Endless Nowruz - Remastered by Sina  Salimi | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  name:
+  - value:
+      text: Endless Nowruz - Remastered
+      language: en
+    references:
+    - source: sinasalimi.bandcamp.com-track-endless-nowruz-remastered
+      quote: Endless Nowruz - Remastered
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  performer:
+  - value: Qt5sbqz
+    references:
+    - source: sinasalimi.bandcamp.com-track-endless-nowruz-remastered
+      quote: Endless Nowruz - Remastered | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Q6y6d6b
+    references:
+    - source: sinasalimi.bandcamp.com-album-ten-songs-for-my-motherland
+      quote: 'Mahnaz Rad: vocals [1, 2, 5, 8, 9, 10]'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Qvyzytv
+    references:
+    - source: sinasalimi.bandcamp.com-album-ten-songs-for-my-motherland
+      quote: 'Darren Wall: upright bass [2, 8, 9]'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  release date:
+  - value:
+      date: '2024-01-15'
+    references:
+    - source: sinasalimi.bandcamp.com-album-ten-songs-for-my-motherland
+      quote: released January 15, 2024
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a1239151173_10.jpg
+    references:
+    - source: sinasalimi.bandcamp.com-track-endless-nowruz-remastered
+      quote: https://f4.bcbits.com/img/a1239151173_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Sina Salimi on Bandcamp
+        language: en

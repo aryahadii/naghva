@@ -1,0 +1,63 @@
+id: Qcdeayt
+type: release
+statements:
+  listen link:
+  - value: https://sinasalimi.bandcamp.com/track/legends-of-loneliness
+    references:
+    - source: sinasalimi.bandcamp.com-track-legends-of-loneliness
+      quote: Legends of Loneliness | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/legends-of-loneliness/1889276986
+    references:
+    - source: music.apple.com-us-song-legends-of-loneliness-1889276986
+      quote: ‎Legends of Loneliness - Song with Lyrics by Sina Salimi - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/6Ye348wd28wE7eFAgpA2fs
+    references:
+    - source: open.spotify.com-track-6ye348wd28we7efagpa2fs
+      quote: Legends of Loneliness - song and lyrics by Sina Salimi | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/sinasalimi/legends-of-loneliness
+    references:
+    - source: soundcloud.com-sinasalimi-legends-of-loneliness
+      quote: Stream Legends of Loneliness by Sina  Salimi | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  name:
+  - value:
+      text: Legends of Loneliness
+      language: en
+    references:
+    - source: sinasalimi.bandcamp.com-track-legends-of-loneliness
+      quote: Legends of Loneliness
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  performer:
+  - value: Qt5sbqz
+    references:
+    - source: sinasalimi.bandcamp.com-track-legends-of-loneliness
+      quote: Legends of Loneliness | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2026-03-20'
+    references:
+    - source: sinasalimi.bandcamp.com-album-travellers-musicians-and-other-stories
+      quote: released March 20, 2026
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a2498350153_10.jpg
+    references:
+    - source: sinasalimi.bandcamp.com-track-legends-of-loneliness
+      quote: https://f4.bcbits.com/img/a2498350153_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Pegah Mian
+        language: en

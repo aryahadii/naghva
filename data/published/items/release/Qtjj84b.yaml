@@ -1,0 +1,67 @@
+id: Qtjj84b
+type: release
+statements:
+  listen link:
+  - value: https://sinasalimi.bandcamp.com/track/where-do-dreams-go
+    references:
+    - source: sinasalimi.bandcamp.com-track-where-do-dreams-go
+      quote: Where Do Dreams Go | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/where-do-dreams-go/1544199166
+    references:
+    - source: music.apple.com-us-song-where-do-dreams-go-1544199166
+      quote: ‎Where Do Dreams Go - Song with Lyrics by Sina Salimi - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/3dgW7cPA7IoVf6pkINQ4ur
+    references:
+    - source: open.spotify.com-track-3dgw7cpa7iovf6pkinq4ur
+      quote: Where Do Dreams Go - song and lyrics by Sina Salimi | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/sinasalimi/sina-salimi-all-of-our-tomorrows-04-where-do-dreams-go
+    references:
+    - source: soundcloud.com-sinasalimi-sina-salimi-all-of-our-tomorrows-04-where-do-dreams-go
+      quote: Stream Where Do Dreams Go - رویاها کجا می‌روند by Sina  Salimi | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  name:
+  - value:
+      text: Where Do Dreams Go
+      language: en
+    references:
+    - source: sinasalimi.bandcamp.com-track-where-do-dreams-go
+      quote: Where Do Dreams Go
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  performer:
+  - value: Qt5sbqz
+    references:
+    - source: sinasalimi.bandcamp.com-track-where-do-dreams-go
+      quote: Where Do Dreams Go | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2020-12-21'
+    references:
+    - source: sinasalimi.bandcamp.com-album-all-of-our-tomorrows
+      quote: released December 21, 2020
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a0734454998_10.jpg
+    references:
+    - source: sinasalimi.bandcamp.com-track-where-do-dreams-go
+      quote: https://f4.bcbits.com/img/a0734454998_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    - source: sinasalimi.bandcamp.com-album-all-of-our-tomorrows
+      quote: Design & Layout by Vahid Fazel
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: Vahid Fazel
+        language: en

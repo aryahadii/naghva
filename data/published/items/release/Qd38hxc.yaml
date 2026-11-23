@@ -1,0 +1,81 @@
+id: Qd38hxc
+type: release
+statements:
+  listen link:
+  - value: https://sinasalimi.bandcamp.com/track/scorched-a-poem-by-saeid-nouri
+    references:
+    - source: sinasalimi.bandcamp.com-track-scorched-a-poem-by-saeid-nouri
+      quote: Scorched [A Poem by Saeid Nouri] | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/scorched-single/1827531214
+    references:
+    - source: music.apple.com-us-album-scorched-single-1827531214
+      quote: ‎Scorched - Single - Album by Sina Salimi - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/scorched/1827531215
+    references:
+    - source: music.apple.com-us-song-scorched-1827531215
+      quote: ‎Scorched - Song with Lyrics by Sina Salimi - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/album/4tEAA2zQRdWoUbqOLx9c0s
+    references:
+    - source: open.spotify.com-album-4teaa2zqrdwoubqolx9c0s
+      quote: Listen to Scorched - Single by Sina Salimi | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/5gEtcYUEiLCaUXqmOdooOH
+    references:
+    - source: open.spotify.com-track-5getcyueilcauxqmodoooh
+      quote: Scorched - song and lyrics by Sina Salimi | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://www.youtube.com/watch?v=8W_fnppAmgA
+    references:
+    - source: www.youtube.com-watch-v-8w_fnppamga
+      quote: '"Scorched" [A Poem by Saeid Nouri] -- سوخته"  [شعری از سعید نوری]"'
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/sinasalimi/scorched-a-poem-by-saeid-noori
+    references:
+    - source: soundcloud.com-sinasalimi-scorched-a-poem-by-saeid-noori
+      quote: Stream "Scorched" [A Poem by Saeid Nouri] -  [شعری از سعید نوری] "سوخته" by Sina  Salimi | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  name:
+  - value:
+      text: Scorched [A Poem by Saeid Nouri]
+      language: en
+    references:
+    - source: sinasalimi.bandcamp.com-track-scorched-a-poem-by-saeid-nouri
+      quote: Scorched [A Poem by Saeid Nouri]
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  performer:
+  - value: Qt5sbqz
+    references:
+    - source: sinasalimi.bandcamp.com-track-scorched-a-poem-by-saeid-nouri
+      quote: Scorched [A Poem by Saeid Nouri] | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2025-06-29'
+    references:
+    - source: sinasalimi.bandcamp.com-track-scorched-a-poem-by-saeid-nouri
+      quote: released June 29, 2025
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a0706118983_10.jpg
+    references:
+    - source: sinasalimi.bandcamp.com-track-scorched-a-poem-by-saeid-nouri
+      quote: https://f4.bcbits.com/img/a0706118983_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Sina Salimi
+        language: en

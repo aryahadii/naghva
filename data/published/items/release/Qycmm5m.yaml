@@ -1,0 +1,81 @@
+id: Qycmm5m
+type: release
+statements:
+  listen link:
+  - value: https://sinasalimi.bandcamp.com/track/children-of-the-sun-feat-mahnaz-rad-remastered
+    references:
+    - source: sinasalimi.bandcamp.com-track-children-of-the-sun-feat-mahnaz-rad-remastered
+      quote: Children of the Sun (feat. Mahnaz Rad) - Remastered | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/children-of-the-sun/1740289202
+    references:
+    - source: music.apple.com-us-song-children-of-the-sun-1740289202
+      quote: ‎Children of the Sun - Song with Lyrics by Sina Salimi - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/49OnP5dpMa0ZD4GHw5BGga
+    references:
+    - source: open.spotify.com-track-49onp5dpma0zd4ghw5bgga
+      quote: Children of the Sun - song and lyrics by Sina Salimi | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/sinasalimi/children-of-the-sun-feat
+    references:
+    - source: soundcloud.com-sinasalimi-children-of-the-sun-feat
+      quote: Stream Children of the Sun (feat. Mahnaz Rad) - Remastered by Sina  Salimi | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  name:
+  - value:
+      text: Children of the Sun (feat. Mahnaz Rad) - Remastered
+      language: en
+    references:
+    - source: sinasalimi.bandcamp.com-track-children-of-the-sun-feat-mahnaz-rad-remastered
+      quote: Children of the Sun (feat. Mahnaz Rad) - Remastered
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  performer:
+  - value: Qt5sbqz
+    references:
+    - source: sinasalimi.bandcamp.com-track-children-of-the-sun-feat-mahnaz-rad-remastered
+      quote: Children of the Sun (feat. Mahnaz Rad) - Remastered | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Q6y6d6b
+    references:
+    - source: sinasalimi.bandcamp.com-album-ten-songs-for-my-motherland
+      quote: 'Mahnaz Rad: vocals [1, 2, 5, 8, 9, 10]'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Qk5shyb
+    references:
+    - source: sinasalimi.bandcamp.com-album-ten-songs-for-my-motherland
+      quote: 'Andrew Kay: alto sax / bass clarinet [2, 6]'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value: Qvyzytv
+    references:
+    - source: sinasalimi.bandcamp.com-album-ten-songs-for-my-motherland
+      quote: 'Darren Wall: upright bass [2, 8, 9]'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  release date:
+  - value:
+      date: '2024-01-15'
+    references:
+    - source: sinasalimi.bandcamp.com-album-ten-songs-for-my-motherland
+      quote: released January 15, 2024
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a1239151173_10.jpg
+    references:
+    - source: sinasalimi.bandcamp.com-track-children-of-the-sun-feat-mahnaz-rad-remastered
+      quote: https://f4.bcbits.com/img/a1239151173_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Sina Salimi on Bandcamp
+        language: en

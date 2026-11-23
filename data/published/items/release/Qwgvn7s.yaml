@@ -1,0 +1,67 @@
+id: Qwgvn7s
+type: release
+statements:
+  listen link:
+  - value: https://sinasalimi.bandcamp.com/track/waltz-of-dust
+    references:
+    - source: sinasalimi.bandcamp.com-track-waltz-of-dust
+      quote: Waltz Of Dust | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/waltz-of-dust/751555757
+    references:
+    - source: music.apple.com-us-song-waltz-of-dust-751555757
+      quote: ‎Waltz of Dust - Song with Lyrics by Sina Salimi - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/6peogDE3f8UzZWr57oAh8t
+    references:
+    - source: open.spotify.com-track-6peogde3f8uzzwr57oah8t
+      quote: Waltz of Dust - song and lyrics by Sina Salimi | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/sinasalimi/waltz-of-dust-1
+    references:
+    - source: soundcloud.com-sinasalimi-waltz-of-dust-1
+      quote: Stream والتس خاک - Waltz of Dust by Sina  Salimi | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  name:
+  - value:
+      text: Waltz Of Dust
+      language: en
+    references:
+    - source: sinasalimi.bandcamp.com-track-waltz-of-dust
+      quote: Waltz Of Dust
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  performer:
+  - value: Qt5sbqz
+    references:
+    - source: sinasalimi.bandcamp.com-track-waltz-of-dust
+      quote: Waltz Of Dust | Sina Salimi
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2013-11-02'
+    references:
+    - source: sinasalimi.bandcamp.com-album-perhaps-there
+      quote: released November 2, 2013
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a0117575761_10.jpg
+    references:
+    - source: sinasalimi.bandcamp.com-track-waltz-of-dust
+      quote: https://f4.bcbits.com/img/a0117575761_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    - source: sinasalimi.bandcamp.com-album-perhaps-there
+      quote: 'Album Design: KAJART'
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: KAJART
+        language: en
