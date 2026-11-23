@@ -1,0 +1,96 @@
+id: Qjx7sw3
+type: release
+statements:
+  name:
+  - value:
+      text: Shur-Afshar
+      language: en
+    references:
+    - source: boyer.temple.edu-sites-boyer-files-2024.11.12-20cybersounds-5b46-5d.pdf
+      quote: Shur-Afshar by Sepehr Pirasteh
+      locator: Temple University concert programme, cover, programme and work notes
+      accessed: '2026-11-21'
+  - value:
+      text: Cybersound Concert - Shiraz Ensemble
+      language: en
+    references:
+    - source: www.youtube.com-oembed--lji8urydww
+      quote: Cybersound Concert - Shiraz Ensemble
+      locator: Original performer credits, programme or film
+      accessed: '2026-11-21'
+  performer:
+  - value: Q87wshb
+    references:
+    - source: www.youtube.com-oembed--lji8urydww
+      quote: Cybersound Concert - Shiraz Ensemble
+      locator: Original performer credits, programme or film
+      accessed: '2026-11-21'
+  - value: Qh3tm87
+    references:
+    - source: www.shirazensemble.com-videos
+      quote: Noushin Nowroozilarki, kamancheh
+      locator: Founders’ records, ensemble programme or broadcaster credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: kamancheh
+  - value: Qwpxxmv
+    references:
+    - source: www.shirazensemble.com-videos
+      quote: Sina Homaee, santour
+      locator: Founders’ records, ensemble programme or broadcaster credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: santur
+  - value: Qnj5nb7
+    references:
+    - source: www.shirazensemble.com-videos
+      quote: Parsa Ferdowsi, santour
+      locator: Founders’ records, ensemble programme or broadcaster credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: santur
+  - value: Qcv83x8
+    references:
+    - source: www.shirazensemble.com-videos
+      quote: Sepehr Pirasteh, alto kamancheh and electronics
+      locator: Founders’ records, ensemble programme or broadcaster credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role:
+      - kamancheh
+      - electronics
+  release date:
+  - value:
+      date: '2024-11-22'
+    references:
+    - source: www.youtube.com-watchv--lji8urydww
+      quote: '2024-11-22T14:17:08-08:00'
+      locator: Original performer credits, programme or film
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://i.ytimg.com/vi/-LjI8urYdWw/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed--lji8urydww
+      quote: https://i.ytimg.com/vi/-LjI8urYdWw/hqdefault.jpg
+      locator: Original performer credits, programme or film
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Shiraz Ensemble · official performance video
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=-LjI8urYdWw
+    references:
+    - source: www.youtube.com-oembed--lji8urydww
+      quote: Cybersound Concert - Shiraz Ensemble
+      locator: Original performer credits, programme or film
+      accessed: '2026-11-21'
+  contributor:
+  - value: Qcv83x8
+    references:
+    - source: boyer.temple.edu-sites-boyer-files-2024.11.12-20cybersounds-5b46-5d.pdf
+      quote: Shur-Afshar by Sepehr Pirasteh
+      locator: Temple University concert programme, cover, programme and work notes
+      accessed: '2026-11-21'
+    qualifiers:
+      role: composer
