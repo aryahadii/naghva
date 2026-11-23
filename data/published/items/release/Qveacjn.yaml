@@ -1,0 +1,43 @@
+id: Qveacjn
+type: release
+statements:
+  name:
+  - value:
+      text: EYE
+      language: en
+    references:
+    - source: soundcloud.com-thefinchesband-eye
+      quote: Stream EYE by The Finches | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qnw83g7
+    references:
+    - source: soundcloud.com-thefinchesband-eye
+      quote: Stream EYE by The Finches | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qb5hnjh
+    references:
+    - source: www.zhinardalan.com
+      quote: vocalist and rhythm guitarist of The Finches
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://soundcloud.com/thefinchesband/eye
+    references:
+    - source: soundcloud.com-thefinchesband-eye
+      quote: Stream EYE by The Finches | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-qFKp2y6tyHlwby8o-S1HEzw-t500x500.jpg
+    references:
+    - source: soundcloud.com-thefinchesband-eye
+      quote: https://i1.sndcdn.com/artworks-qFKp2y6tyHlwby8o-S1HEzw-t500x500.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Publisher artwork
+        language: en
