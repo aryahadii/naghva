@@ -1,0 +1,61 @@
+id: Q38sjxt
+type: release
+statements:
+  name:
+  - value:
+      text: Turbulence I
+      language: en
+    references:
+    - &id001
+      source: unexplainedsoundsgroup.bandcamp.com-track-umchunga-turbulence-i-2
+      quote: Umchunga - Turbulence I | Various Artists | Unexplained Sounds Group
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Q9rnctv
+    references:
+    - *id001
+  listen link:
+  - value: https://unexplainedsoundsgroup.bandcamp.com/track/umchunga-turbulence-i-2
+    references:
+    - source: unexplainedsoundsgroup.bandcamp.com-track-umchunga-turbulence-i-2
+      quote: Umchunga - Turbulence I | Various Artists | Unexplained Sounds Group
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://unexplainedsoundsgroup.bandcamp.com/track/umchunga-turbulence-i
+    references:
+    - source: unexplainedsoundsgroup.bandcamp.com-track-umchunga-turbulence-i
+      quote: Umchunga -Turbulence I | Various Artists | Unexplained Sounds Group
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/umchunga/turbulence-i
+    references:
+    - source: soundcloud.com-umchunga-turbulence-i
+      quote: Stream Turbulence I by Umchunga | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1491544580
+    references:
+    - source: music.apple.com-us-song-1491544580
+      quote: ‎Turbulence I - Song with Lyrics by Umchunga - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a2583696512_10.jpg
+    references:
+    - source: unexplainedsoundsgroup.bandcamp.com-track-umchunga-turbulence-i-2
+      quote: https://f4.bcbits.com/img/a2583696512_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original publisher artwork
+        language: en
+  release date:
+  - value:
+      date: '2019-11-30'
+    references:
+    - source: unexplainedsoundsgroup.bandcamp.com-track-umchunga-turbulence-i-2
+      quote: released November 30, 2019
+      accessed: '2026-11-21'
+      locator: Published date

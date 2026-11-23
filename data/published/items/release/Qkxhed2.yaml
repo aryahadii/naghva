@@ -1,0 +1,55 @@
+id: Qkxhed2
+type: release
+statements:
+  name:
+  - value:
+      text: Crossing (Umchunga Rekonstrukt)
+      language: en
+    references:
+    - &id001
+      source: tegh.bandcamp.com-track-crossing-umchunga-rekonstrukt
+      quote: Crossing (Umchunga Rekonstrukt) | Tegh
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Q9rnctv
+    references:
+    - *id001
+  - value: Qtwwfrd
+    references:
+    - source: tegh.bandcamp.com-track-crossing-umchunga-rekonstrukt
+      quote: Tegh
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  listen link:
+  - value: https://tegh.bandcamp.com/track/crossing-umchunga-rekonstrukt
+    references:
+    - source: tegh.bandcamp.com-track-crossing-umchunga-rekonstrukt
+      quote: Crossing (Umchunga Rekonstrukt) | Tegh
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://bitrotrecords.bandcamp.com/track/crossing-umchunga-rekonstrukt-2
+    references:
+    - source: bitrotrecords.bandcamp.com-track-crossing-umchunga-rekonstrukt-2
+      quote: Crossing (Umchunga Rekonstrukt) | Tegh | BITROT
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a3054061481_10.jpg
+    references:
+    - source: tegh.bandcamp.com-track-crossing-umchunga-rekonstrukt
+      quote: https://f4.bcbits.com/img/a3054061481_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original publisher artwork
+        language: en
+  release date:
+  - value:
+      date: '2015-09-21'
+    references:
+    - source: tegh.bandcamp.com-track-crossing-umchunga-rekonstrukt
+      quote: released September 21, 2015
+      accessed: '2026-11-21'
+      locator: Published date
