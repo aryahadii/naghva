@@ -1,0 +1,81 @@
+id: Qsjmr5a
+type: release
+statements:
+  name:
+  - value:
+      text: Sorna's Revival
+      language: en
+    references:
+    - source: sheentrio1.bandcamp.com-album-transitory
+      quote: Sorna's Revival
+      locator: Track 7
+      accessed: '2026-11-21'
+  performer:
+  - value: Qy7eg4c
+    references:
+    - source: sheentrio1.bandcamp.com-album-transitory
+      quote: Transitory
+      locator: Album title
+      accessed: '2026-11-21'
+  - value: Q9aspca
+    references:
+    - source: sheentrio.bandcamp.com-album-gozar
+      quote: Shabnam Parvaresh - Bass Clarinet, Flute, FX
+      locator: Original trio lineup
+      accessed: '2026-11-21'
+    qualifiers:
+      role: bass clarinet
+  - value: Qdwrvpn
+    references:
+    - source: sheentrio.bandcamp.com-album-gozar
+      quote: Ula Martyn-Ellis - Guitar
+      locator: Original trio lineup
+      accessed: '2026-11-21'
+    qualifiers:
+      role: guitar
+  - value: Qneswfb
+    references:
+    - source: sheentrio.bandcamp.com-album-gozar
+      quote: Philipp Buck - Drums
+      locator: Original trio lineup
+      accessed: '2026-11-21'
+    qualifiers:
+      role: drums
+  release date:
+  - value:
+      date: '2026-01-30'
+    references:
+    - source: sheentrio1.bandcamp.com-album-transitory
+      quote: 30 Jan 2026 00:00:00 GMT
+      locator: Original publication date
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://f4.bcbits.com/img/a3965670141_10.jpg
+    references:
+    - source: sheentrio1.bandcamp.com-album-transitory
+      quote: https://f4.bcbits.com/img/a3965670141_10.jpg
+      locator: Portrait or cover art on the artist or publisher page
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Sheen Trio · release artwork
+        language: en
+  listen link:
+  - value: https://sheentrio1.bandcamp.com/track/sornas-revival
+    references:
+    - source: sheentrio1.bandcamp.com-album-transitory
+      quote: Sorna's Revival
+      locator: Track 7
+      accessed: '2026-11-21'
+  - value: https://music.apple.com/us/song/sornas-revival/1847584517
+    references:
+    - source: music.apple.com-us-album-1847584426
+      quote: Sorna's Revival
+      locator: Streaming track 7
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/2t0hj6pbM1jIxY4kTX859R
+    references:
+    - source: open.spotify.com-album-0zdzsckp1h7rwo7m1taowx
+      quote: Sorna's Revival
+      locator: Track on corresponding streaming edition
+      accessed: '2026-11-21'
