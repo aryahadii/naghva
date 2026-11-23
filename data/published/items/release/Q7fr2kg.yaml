@@ -1,0 +1,45 @@
+id: Q7fr2kg
+type: release
+statements:
+  name:
+  - value:
+      text: Are Nasek
+      language: en
+    references:
+    - source: www.youtube.com-oembed-2x6g9qzaorc
+      quote: Are Nasek
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
+  performer:
+  - value: Qje5fct
+    references:
+    - source: www.youtube.com-watchv-2x6g9qzaorc
+      quote: This is a reinterpretation of a traditional Kurdish folk song, arranged and performed by Zanyar Hesami.
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2025-07-27'
+    references:
+    - source: www.youtube.com-watchv-2x6g9qzaorc
+      quote: '2025-07-27'
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://i.ytimg.com/vi/2X6g9QzAorc/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-2x6g9qzaorc
+      quote: https://i.ytimg.com/vi/2X6g9QzAorc/hqdefault.jpg
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Zanyar Hesami · performance film
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=2X6g9QzAorc
+    references:
+    - source: www.youtube.com-oembed-2x6g9qzaorc
+      quote: Are Nasek
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
