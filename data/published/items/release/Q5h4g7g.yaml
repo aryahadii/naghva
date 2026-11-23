@@ -1,0 +1,39 @@
+id: Q5h4g7g
+type: release
+statements:
+  name:
+  - value:
+      text: Concert in Stockholm
+      language: en
+    references:
+    - source: www.youtube.com-watch-v-pg9yqb6_tge
+      quote: Concert in Stockholm
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qkmhqgm
+    references:
+    - source: www.youtube.com-watch-v-pg9yqb6_tge
+      quote: Concert in Stockholm
+      accessed: '2026-11-21'
+      locator: Page title
+    qualifiers:
+      role: vocals
+  listen link:
+  - value: https://www.youtube.com/watch?v=PG9YQB6_tgE
+    references:
+    - source: www.youtube.com-watch-v-pg9yqb6_tge
+      quote: Concert in Stockholm
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i.ytimg.com/vi/PG9YQB6_tgE/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-pg9yqb6_tge
+      quote: https://i.ytimg.com/vi/PG9YQB6_tgE/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: ooldouz pouri
+        language: en

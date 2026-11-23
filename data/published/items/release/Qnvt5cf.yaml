@@ -1,0 +1,60 @@
+id: Qnvt5cf
+type: release
+statements:
+  name:
+  - value:
+      text: Hardasan Yar (Where are you, my love?)
+      language: en
+    references:
+    - source: music.apple.com-us-song-hardasan-yar-where-are-you-my-love-1441636474
+      quote: ‎Hardasan Yar (Where are you, my love?) - Song with Lyrics by Ooldouz Pouri - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qkmhqgm
+    references:
+    - source: music.apple.com-us-song-hardasan-yar-where-are-you-my-love-1441636474
+      quote: ‎Hardasan Yar (Where are you, my love?) - Song with Lyrics by Ooldouz Pouri - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+    qualifiers:
+      role: vocals
+  listen link:
+  - value: https://music.apple.com/us/song/hardasan-yar-where-are-you-my-love/1441636474
+    references:
+    - source: music.apple.com-us-song-hardasan-yar-where-are-you-my-love-1441636474
+      quote: ‎Hardasan Yar (Where are you, my love?) - Song with Lyrics by Ooldouz Pouri - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/3F6TEsS27LFqlGqzBJRXtm
+    references:
+    - source: open.spotify.com-track-3f6tess27lfqlgqzbjrxtm
+      quote: Hardasan Yar (Where are you, my love?) - song and lyrics by Ooldouz Pouri | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2018-11-23'
+    references:
+    - source: www.kkv.no-en-music-waiting-for-the-dawn-3
+      quote: 23.11.2018
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  published by:
+  - value: Qtcvdjj
+    references:
+    - source: www.kkv.no-en-music-waiting-for-the-dawn-3
+      quote: KKV label
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/97/f7/17/97f717d4-7924-50ff-19f7-e1b7953019a9/cover.jpg/600x600bb.webp
+    references:
+    - source: music.apple.com-us-song-hardasan-yar-where-are-you-my-love-1441636474
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/97/f7/17/97f717d4-7924-50ff-19f7-e1b7953019a9/cover.jpg/600x600bb.webp
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Kirkelig Kulturverksted, via Apple Music
+        language: en

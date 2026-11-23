@@ -1,0 +1,57 @@
+id: Qkmhqgm
+type: person
+statements:
+  name:
+  - value:
+      text: Ooldouz Pouri
+      language: en
+    references:
+    - source: tirgan2023.tirgan.ca-artist-guest-ooldouz-pouri
+      quote: Ooldouz Pouri
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  - value:
+      text: اولدوز پوری
+      language: fa
+    references:
+    - source: hafteh.ca-news-3287-------------
+      quote: اولدوز پوری
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  image:
+  - value: https://static.wixstatic.com/media/2f6c4f_4b02c9851fd44bab9e62875a5a63c7ae~mv2.png/v1/fill/w_350,h_294,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/2f6c4f_4b02c9851fd44bab9e62875a5a63c7ae~mv2.png
+    references:
+    - source: www.acrossoceans.org-post-ooldouz-pouri
+      quote: https://static.wixstatic.com/media/2f6c4f_4b02c9851fd44bab9e62875a5a63c7ae~mv2.png/v1/fill/w_350,h_294,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/2f6c4f_4b02c9851fd44bab9e62875a5a63c7ae~mv2.png
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: Across Oceans Arts
+        language: en
+  based in:
+  - value: Q9yx7ys
+    references:
+    - source: hafteh.ca-news-3287-------------
+      quote: ساکن تورنتو شده است
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  profile link:
+  - value: https://open.spotify.com/artist/1042JZnmTpB6t7NLIIOfa8
+    references:
+    - source: open.spotify.com-artist-1042jznmtpb6t7nliiofa8
+      quote: Listen to Ooldouz Pouri Songs | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/artist/ooldouz-pouri/1169729151
+    references:
+    - source: music.apple.com-us-artist-ooldouz-pouri-1169729151
+      quote: ‎Ooldouz Pouri - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://www.youtube.com/@ooldouzpouri9438/videos
+    references:
+    - source: www.youtube.com-ooldouzpouri9438-videos
+      quote: ooldouz pouri - YouTube
+      accessed: '2026-11-21'
+      locator: Page title
