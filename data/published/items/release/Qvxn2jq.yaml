@@ -1,0 +1,62 @@
+id: Qvxn2jq
+type: release
+statements:
+  name:
+  - value:
+      text: Armure II
+      language: en
+    references:
+    - &id001
+      source: cinnapey.bandcamp.com-album-armure-ii
+      quote: Armure II
+      accessed: '2026-11-21'
+      locator: Recording title or artist credit
+  performer:
+  - value: Q4q92dh
+    references:
+    - source: cinnapey.bandcamp.com-album-armure-ii
+      quote: Armure II | Cinna Peyghamy
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://cinnapey.bandcamp.com/album/armure-ii
+    references:
+    - source: cinnapey.bandcamp.com-album-armure-ii
+      quote: Armure II | Cinna Peyghamy
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/armure-single/1731200563
+    references:
+    - source: music.apple.com-us-album-armure-single-1731200563
+      quote: ‎Armure - Single - Album by Cinna Peyghamy - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/album/1psEZXVluA7Bg8Pb2hk3ZJ
+    references:
+    - source: open.spotify.com-album-1psezxvlua7bg8pb2hk3zj
+      quote: Listen to Armure - Single by Cinna Peyghamy | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  release type:
+  - value: album
+    references:
+    - *id001
+  cover art:
+  - value: https://f4.bcbits.com/img/a2883532302_10.jpg
+    references:
+    - source: cinnapey.bandcamp.com-album-armure-ii
+      quote: https://f4.bcbits.com/img/a2883532302_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Tongwei
+        language: en
+  release date:
+  - value:
+      date: '2020-01-01'
+    references:
+    - source: cinnapey.bandcamp.com-album-armure-ii
+      quote: released January 1, 2020
+      accessed: '2026-11-21'
+      locator: Published date

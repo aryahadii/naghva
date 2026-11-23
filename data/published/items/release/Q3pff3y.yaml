@@ -1,0 +1,62 @@
+id: Q3pff3y
+type: release
+statements:
+  name:
+  - value:
+      text: The Skin In Between
+      language: en
+    references:
+    - &id001
+      source: cinnapey.bandcamp.com-album-the-skin-in-between
+      quote: The Skin In Between
+      accessed: '2026-11-21'
+      locator: Recording title or artist credit
+  performer:
+  - value: Q4q92dh
+    references:
+    - source: cinnapey.bandcamp.com-album-the-skin-in-between
+      quote: The Skin In Between | Cinna Peyghamy
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://cinnapey.bandcamp.com/album/the-skin-in-between
+    references:
+    - source: cinnapey.bandcamp.com-album-the-skin-in-between
+      quote: The Skin In Between | Cinna Peyghamy
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/the-skin-in-between-ep/1732425864
+    references:
+    - source: music.apple.com-us-album-the-skin-in-between-ep-1732425864
+      quote: ‎The Skin in Between - EP - Album by Cinna Peyghamy - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/album/5kTgH0z8Q2ANkVYxvXDSAX
+    references:
+    - source: open.spotify.com-album-5ktgh0z8q2ankvyxvxdsax
+      quote: Listen to The Skin in Between - EP by Cinna Peyghamy | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  release type:
+  - value: album
+    references:
+    - *id001
+  cover art:
+  - value: https://f4.bcbits.com/img/a0820108881_10.jpg
+    references:
+    - source: cinnapey.bandcamp.com-album-the-skin-in-between
+      quote: https://f4.bcbits.com/img/a0820108881_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Tongwei
+        language: en
+  release date:
+  - value:
+      date: '2023-11-15'
+    references:
+    - source: cinnapey.bandcamp.com-album-the-skin-in-between
+      quote: released November 15, 2023
+      accessed: '2026-11-21'
+      locator: Published date

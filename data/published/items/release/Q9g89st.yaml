@@ -1,0 +1,37 @@
+id: Q9g89st
+type: release
+statements:
+  name:
+  - value:
+      text: Cikkun & Le Racleur
+      language: en
+    references:
+    - source: www.youtube.com-watch-v-hrah7eecz9i
+      quote: Cikkun & Le Racleur
+      accessed: '2026-11-21'
+      locator: Recording title or artist credit
+  performer:
+  - value: Q4q92dh
+    references:
+    - source: www.youtube.com-watch-v-hrah7eecz9i
+      quote: Cikkun & Le Racleur
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://www.youtube.com/watch?v=hRAh7eECz9I
+    references:
+    - source: www.youtube.com-watch-v-hrah7eecz9i
+      quote: Cikkun & Le Racleur
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i.ytimg.com/vi/hRAh7eECz9I/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-hrah7eecz9i
+      quote: https://i.ytimg.com/vi/hRAh7eECz9I/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: Cinna Peyghamy
+        language: en

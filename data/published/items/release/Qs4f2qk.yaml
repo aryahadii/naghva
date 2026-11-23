@@ -1,0 +1,35 @@
+id: Qs4f2qk
+type: release
+statements:
+  name:
+  - value:
+      text: Troisième peau
+      language: en
+    references:
+    - &id001
+      source: www.youtube.com-watch-v-vr_fudv1xdg
+      quote: TROISIEME PEAU
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Q4q92dh
+    references:
+    - *id001
+  listen link:
+  - value: https://www.youtube.com/watch?v=vR_FUdV1xDg
+    references:
+    - source: www.youtube.com-watch-v-vr_fudv1xdg
+      quote: TROISIEME PEAU
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i.ytimg.com/vi/vR_FUdV1xDg/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-vr_fudv1xdg
+      quote: https://i.ytimg.com/vi/vR_FUdV1xDg/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: Cinna Peyghamy
+        language: en

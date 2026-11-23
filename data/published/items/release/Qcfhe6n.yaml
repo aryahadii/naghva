@@ -1,0 +1,37 @@
+id: Qcfhe6n
+type: release
+statements:
+  name:
+  - value:
+      text: AVAZ ۱
+      language: en
+    references:
+    - source: www.youtube.com-watch-v-5falgzadd7c
+      quote: AVAZ ۱
+      accessed: '2026-11-21'
+      locator: Recording title or artist credit
+  performer:
+  - value: Q4q92dh
+    references:
+    - source: www.youtube.com-watch-v-5falgzadd7c
+      quote: Cinna Peyghamy - AVAZ ۱
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://www.youtube.com/watch?v=5fALGZadD7c
+    references:
+    - source: www.youtube.com-watch-v-5falgzadd7c
+      quote: Cinna Peyghamy - AVAZ ۱
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://i.ytimg.com/vi/5fALGZadD7c/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-5falgzadd7c
+      quote: https://i.ytimg.com/vi/5fALGZadD7c/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: Cinna Peyghamy
+        language: en

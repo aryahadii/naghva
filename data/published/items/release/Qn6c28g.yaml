@@ -1,0 +1,63 @@
+id: Qn6c28g
+type: release
+statements:
+  name:
+  - value:
+      text: Steril
+      language: en
+    references:
+    - source: cinnapey.bandcamp.com-track-steril
+      quote: Steril
+      accessed: '2026-11-21'
+      locator: Recording title or artist credit
+  performer:
+  - value: Q4q92dh
+    references:
+    - source: cinnapey.bandcamp.com-track-steril
+      quote: Steril | Cinna Peyghamy
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://cinnapey.bandcamp.com/track/steril
+    references:
+    - source: cinnapey.bandcamp.com-track-steril
+      quote: Steril | Cinna Peyghamy
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/steril/1719051762
+    references:
+    - source: music.apple.com-us-song-steril-1719051762
+      quote: ‎Steril - Song with Lyrics by Cinna Peyghamy - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/1oR6tmDZhQtTPdmrYQIFz2
+    references:
+    - source: open.spotify.com-track-1or6tmdzhqttpdmryqifz2
+      quote: Steril - song and lyrics by Cinna Peyghamy | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/cikkun/steril
+    references:
+    - source: soundcloud.com-cikkun-steril
+      quote: Stream Steril by Cinna Peyghamy | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a2621984663_10.jpg
+    references:
+    - source: cinnapey.bandcamp.com-track-steril
+      quote: https://f4.bcbits.com/img/a2621984663_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Cinna Peyghamy on Bandcamp
+        language: en
+  release date:
+  - value:
+      date: '2017-05-08'
+    references:
+    - source: cinnapey.bandcamp.com-album-gamut
+      quote: released May 8, 2017
+      accessed: '2026-11-21'
+      locator: Published date

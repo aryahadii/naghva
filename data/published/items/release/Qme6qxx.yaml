@@ -1,0 +1,57 @@
+id: Qme6qxx
+type: release
+statements:
+  name:
+  - value:
+      text: Speck Point
+      language: en
+    references:
+    - source: linkmusiclab.bandcamp.com-track-speck-point
+      quote: Speck Point
+      accessed: '2026-11-21'
+      locator: Recording title or artist credit
+  performer:
+  - value: Q4q92dh
+    references:
+    - source: linkmusiclab.bandcamp.com-track-speck-point
+      quote: Speck Point | Cinna Peyghamy | Link Music Lab Records
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://linkmusiclab.bandcamp.com/track/speck-point
+    references:
+    - source: linkmusiclab.bandcamp.com-track-speck-point
+      quote: Speck Point | Cinna Peyghamy | Link Music Lab Records
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/speck-point/6831738479
+    references:
+    - source: music.apple.com-us-song-speck-point-6831738479
+      quote: ‎Speck Point - Song with Lyrics by Cinna Peyghamy - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/6aEbvpL2susAK5KnKxLOIV
+    references:
+    - source: open.spotify.com-track-6aebvpl2susak5knkxloiv
+      quote: Speck Point - song and lyrics by Cinna Peyghamy | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a2744874959_10.jpg
+    references:
+    - source: linkmusiclab.bandcamp.com-track-speck-point
+      quote: https://f4.bcbits.com/img/a2744874959_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Link Music Lab Records
+        language: en
+  release date:
+  - value:
+      date: '2026-10-01'
+    references:
+    - source: linkmusiclab.bandcamp.com-album-the-past-is-particle-the-future-is-wave
+      quote: released October 1, 2026
+      accessed: '2026-11-21'
+      locator: Published date

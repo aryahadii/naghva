@@ -1,0 +1,62 @@
+id: Q62pjtd
+type: release
+statements:
+  name:
+  - value:
+      text: Injonctions
+      language: en
+    references:
+    - &id001
+      source: cinnapey.bandcamp.com-album-injonctions
+      quote: Injonctions
+      accessed: '2026-11-21'
+      locator: Recording title or artist credit
+  performer:
+  - value: Q4q92dh
+    references:
+    - source: cinnapey.bandcamp.com-album-injonctions
+      quote: Injonctions | Cinna Peyghamy
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://cinnapey.bandcamp.com/album/injonctions
+    references:
+    - source: cinnapey.bandcamp.com-album-injonctions
+      quote: Injonctions | Cinna Peyghamy
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/injonctions-single/1722331533
+    references:
+    - source: music.apple.com-us-album-injonctions-single-1722331533
+      quote: ‎Injonctions - Single - Album by Cinna Peyghamy - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://www.youtube.com/watch?v=k6CYGnlvczs
+    references:
+    - source: www.youtube.com-watch-v-k6cygnlvczs
+      quote: CIKKUN - INJONCTIONS (full EP)
+      accessed: '2026-11-21'
+      locator: Page title
+  release type:
+  - value: album
+    references:
+    - *id001
+  cover art:
+  - value: https://f4.bcbits.com/img/a2793340214_10.jpg
+    references:
+    - source: cinnapey.bandcamp.com-album-injonctions
+      quote: https://f4.bcbits.com/img/a2793340214_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Cinna Peyghamy on Bandcamp
+        language: en
+  release date:
+  - value:
+      date: '2017-11-22'
+    references:
+    - source: cinnapey.bandcamp.com-album-injonctions
+      quote: released November 22, 2017
+      accessed: '2026-11-21'
+      locator: Published date

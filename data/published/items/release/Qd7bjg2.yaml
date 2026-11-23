@@ -1,0 +1,63 @@
+id: Qd7bjg2
+type: release
+statements:
+  name:
+  - value:
+      text: Monkey Wisdom
+      language: en
+    references:
+    - source: cinnapey.bandcamp.com-track-monkey-wisdom
+      quote: Monkey Wisdom
+      accessed: '2026-11-21'
+      locator: Recording title or artist credit
+  performer:
+  - value: Q4q92dh
+    references:
+    - source: cinnapey.bandcamp.com-track-monkey-wisdom
+      quote: Monkey Wisdom | Cinna Peyghamy
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://cinnapey.bandcamp.com/track/monkey-wisdom
+    references:
+    - source: cinnapey.bandcamp.com-track-monkey-wisdom
+      quote: Monkey Wisdom | Cinna Peyghamy
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/monkey-wisdom/1719051752
+    references:
+    - source: music.apple.com-us-song-monkey-wisdom-1719051752
+      quote: ‎Monkey Wisdom - Song with Lyrics by Cinna Peyghamy - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/6OidXxeQW8BM3Ek7flz0o8
+    references:
+    - source: open.spotify.com-track-6oidxxeqw8bm3ek7flz0o8
+      quote: Monkey Wisdom - song and lyrics by Cinna Peyghamy | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/cikkun/monkey-wisdom
+    references:
+    - source: soundcloud.com-cikkun-monkey-wisdom
+      quote: Stream Monkey Wisdom by Cinna Peyghamy | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a2621984663_10.jpg
+    references:
+    - source: cinnapey.bandcamp.com-track-monkey-wisdom
+      quote: https://f4.bcbits.com/img/a2621984663_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Cinna Peyghamy on Bandcamp
+        language: en
+  release date:
+  - value:
+      date: '2017-05-08'
+    references:
+    - source: cinnapey.bandcamp.com-album-gamut
+      quote: released May 8, 2017
+      accessed: '2026-11-21'
+      locator: Published date

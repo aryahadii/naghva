@@ -1,0 +1,59 @@
+id: Qyjmvxy
+type: release
+statements:
+  name:
+  - value:
+      text: Eshgh عشق
+      language: en
+    references:
+    - source: cinnapey.bandcamp.com-track-eshgh
+      quote: Eshgh عشق
+      accessed: '2026-11-21'
+      locator: Recording title or artist credit
+  - value:
+      text: عشق
+      language: fa
+    references:
+    - source: cinnapey.bandcamp.com-track-eshgh
+      quote: عشق
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  performer:
+  - value: Q4q92dh
+    references:
+    - source: cinnapey.bandcamp.com-track-eshgh
+      quote: Eshgh عشق | Cinna Peyghamy
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://cinnapey.bandcamp.com/track/eshgh
+    references:
+    - source: cinnapey.bandcamp.com-track-eshgh
+      quote: Eshgh عشق | Cinna Peyghamy
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://www.youtube.com/watch?v=Aa6UwOw_6dQ
+    references:
+    - source: www.youtube.com-watch-v-aa6uwow_6dq
+      quote: ESHGH عشق
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a2445785842_10.jpg
+    references:
+    - source: cinnapey.bandcamp.com-track-eshgh
+      quote: https://f4.bcbits.com/img/a2445785842_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Cinna Peyghamy on Bandcamp
+        language: en
+  release date:
+  - value:
+      date: '2022-03-19'
+    references:
+    - source: cinnapey.bandcamp.com-track-eshgh
+      quote: released March 19, 2022
+      accessed: '2026-11-21'
+      locator: Published date
