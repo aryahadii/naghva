@@ -1,0 +1,53 @@
+id: Q369hej
+type: release
+statements:
+  name:
+  - value:
+      text: شب پایور | گفتگو (دونوازی سنتور و ویلن)
+      language: fa
+    references:
+    - source: www.youtube.com-oembed-iijs1po9yr4
+      quote: شب پایور | گفتگو (دونوازی سنتور و ویلن)
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2024-04-02'
+    references:
+    - source: www.youtube.com-watchv-iijs1po9yr4
+      quote: '2024-04-02'
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://i.ytimg.com/vi/Iijs1Po9yr4/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-iijs1po9yr4
+      quote: https://i.ytimg.com/vi/Iijs1Po9yr4/hqdefault.jpg
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Soheil Hosnavi · original performance
+        language: en
+  performer:
+  - value: Q76q9jz
+    references:
+    - source: www.youtube.com-oembed-iijs1po9yr4
+      quote: Soheil Hosnavi
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: santur
+  listen link:
+  - value: https://www.youtube.com/watch?v=Iijs1Po9yr4
+    references:
+    - source: www.youtube.com-oembed-iijs1po9yr4
+      quote: شب پایور | گفتگو (دونوازی سنتور و ویلن)
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  - value: https://t.me/soheilhosnavi/998
+    references:
+    - source: t.me-soheilhosnavi-998
+      quote: «گفتگو»
+      locator: Artist channel, original post 998
+      accessed: '2026-11-21'

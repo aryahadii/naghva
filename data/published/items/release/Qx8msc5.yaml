@@ -1,0 +1,53 @@
+id: Qx8msc5
+type: release
+statements:
+  name:
+  - value:
+      text: شب‌های روشن
+      language: fa
+    references:
+    - source: www.youtube.com-oembed-zmr_3sor1t4
+      quote: شب‌های روشن
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2024-12-27'
+    references:
+    - source: www.youtube.com-watchv-zmr_3sor1t4
+      quote: '2024-12-27'
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://i.ytimg.com/vi/zmR_3SOR1T4/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-zmr_3sor1t4
+      quote: https://i.ytimg.com/vi/zmR_3SOR1T4/hqdefault.jpg
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Soheil Hosnavi · original performance
+        language: en
+  performer:
+  - value: Q76q9jz
+    references:
+    - source: www.youtube.com-oembed-zmr_3sor1t4
+      quote: Soheil Hosnavi
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: santur
+  listen link:
+  - value: https://www.youtube.com/watch?v=zmR_3SOR1T4
+    references:
+    - source: www.youtube.com-oembed-zmr_3sor1t4
+      quote: شب‌های روشن
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  - value: https://t.me/soheilhosnavi/1038
+    references:
+    - source: t.me-soheilhosnavi-1038
+      quote: واریاسیونی بر تصنیف «زورق شکسته»
+      locator: Artist channel, original post 1038
+      accessed: '2026-11-21'

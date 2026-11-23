@@ -1,0 +1,53 @@
+id: Qz8skkz
+type: release
+statements:
+  name:
+  - value:
+      text: Santur & Bassoon
+      language: en
+    references:
+    - source: www.youtube.com-oembed-odl_gzri-ac
+      quote: Santur & Bassoon
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2026-07-31'
+    references:
+    - source: www.youtube.com-watchv-odl_gzri-ac
+      quote: '2026-07-31'
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://i.ytimg.com/vi/ODL_gZRI-Ac/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-odl_gzri-ac
+      quote: https://i.ytimg.com/vi/ODL_gZRI-Ac/hqdefault.jpg
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Soheil Hosnavi · original performance
+        language: en
+  performer:
+  - value: Q76q9jz
+    references:
+    - source: www.youtube.com-oembed-odl_gzri-ac
+      quote: Soheil Hosnavi
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: santur
+  listen link:
+  - value: https://www.youtube.com/watch?v=ODL_gZRI-Ac
+    references:
+    - source: www.youtube.com-oembed-odl_gzri-ac
+      quote: Santur & Bassoon
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  - value: https://t.me/soheilhosnavi/1149
+    references:
+    - source: t.me-soheilhosnavi-1149
+      quote: Virtual duet with a musician friend
+      locator: Artist channel, original post 1149
+      accessed: '2026-11-21'

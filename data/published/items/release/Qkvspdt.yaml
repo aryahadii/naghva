@@ -1,0 +1,79 @@
+id: Qkvspdt
+type: release
+statements:
+  name:
+  - value:
+      text: Distressed Crowd
+      language: en
+    references:
+    - source: music.apple.com-us-album-the-banquet-of-companions-1545849433
+      quote: Distressed Crowd
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  performer:
+  - value: Q76q9jz
+    references:
+    - source: music.apple.com-us-album-the-banquet-of-companions-1545849433
+      quote: Soheil Hosnavi
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: santur
+  - value: Q6g3eya
+    references:
+    - source: music.apple.com-us-album-the-banquet-of-companions-1545849433
+      quote: Shayan Riyahi
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: percussion
+  release date:
+  - value:
+      date: '2018-02-09'
+    references:
+    - source: music.apple.com-us-album-the-banquet-of-companions-1545849433
+      quote: '2018-02-09'
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/41/31/d7/4131d744-8487-6e7d-5964-85a7ffa6b08b/195999024349.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-the-banquet-of-companions-1545849433
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/41/31/d7/4131d744-8487-6e7d-5964-85a7ffa6b08b/195999024349.jpg/1200x630bb.jpg
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: The Banquet of Companions
+        language: en
+  listen link:
+  - value: https://music.apple.com/us/song/distressed-crowd/1545849441
+    references:
+    - source: music.apple.com-us-album-the-banquet-of-companions-1545849433
+      quote: Distressed Crowd
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/track/0uSiZjtpeZXjH8u4LMAUdD
+    references:
+    - source: open.spotify.com-embed-album-7o5fhk6j63wcrgimj9uphj
+      quote: Distressed Crowd
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  - value: https://t.me/soheilhosnavi/455
+    references:
+    - source: t.me-soheilhosnavi-455
+      quote: جمـــعِ پریشــــان
+      locator: Artist channel, original post 455
+      accessed: '2026-11-21'
+  - value: https://t.me/soheilhosnavi/456
+    references:
+    - source: t.me-soheilhosnavi-456
+      quote: جمـــع پریشـــان (کوارتت سنتــور)
+      locator: Artist channel, original post 456
+      accessed: '2026-11-21'
+  - value: https://t.me/soheilhosnavi/607
+    references:
+    - source: t.me-soheilhosnavi-607
+      quote: جمـــع پریــــشان (کوارتـت سنتـــور)
+      locator: Artist channel, original post 607
+      accessed: '2026-11-21'

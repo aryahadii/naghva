@@ -1,0 +1,53 @@
+id: Qczjkgc
+type: release
+statements:
+  name:
+  - value:
+      text: Santur, Clarinet & Vocal
+      language: en
+    references:
+    - source: www.youtube.com-oembed-0lt51waww8q
+      quote: Santur, Clarinet & Vocal
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2026-08-07'
+    references:
+    - source: www.youtube.com-watchv-0lt51waww8q
+      quote: '2026-08-07'
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://i.ytimg.com/vi/0Lt51WaWW8Q/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-0lt51waww8q
+      quote: https://i.ytimg.com/vi/0Lt51WaWW8Q/hqdefault.jpg
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Soheil Hosnavi · original performance
+        language: en
+  performer:
+  - value: Q76q9jz
+    references:
+    - source: www.youtube.com-oembed-0lt51waww8q
+      quote: Soheil Hosnavi
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: santur
+  listen link:
+  - value: https://www.youtube.com/watch?v=0Lt51WaWW8Q
+    references:
+    - source: www.youtube.com-oembed-0lt51waww8q
+      quote: Santur, Clarinet & Vocal
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  - value: https://t.me/soheilhosnavi/1151
+    references:
+    - source: t.me-soheilhosnavi-1151
+      quote: Virtual collaboration with albert norikyan
+      locator: Artist channel, original post 1151
+      accessed: '2026-11-21'

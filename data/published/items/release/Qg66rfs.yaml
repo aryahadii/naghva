@@ -1,0 +1,53 @@
+id: Qg66rfs
+type: release
+statements:
+  name:
+  - value:
+      text: Santur & Bass Guitar
+      language: en
+    references:
+    - source: www.youtube.com-oembed-zmcxnslt2oi
+      quote: 'Santur & Bass Guitar '
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2026-07-12'
+    references:
+    - source: www.youtube.com-watchv-zmcxnslt2oi
+      quote: '2026-07-12'
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://i.ytimg.com/vi/ZMcxnSlt2OI/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-zmcxnslt2oi
+      quote: https://i.ytimg.com/vi/ZMcxnSlt2OI/hqdefault.jpg
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Soheil Hosnavi · original performance
+        language: en
+  performer:
+  - value: Q76q9jz
+    references:
+    - source: www.youtube.com-oembed-zmcxnslt2oi
+      quote: Soheil Hosnavi
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: santur
+  listen link:
+  - value: https://www.youtube.com/watch?v=ZMcxnSlt2OI
+    references:
+    - source: www.youtube.com-oembed-zmcxnslt2oi
+      quote: 'Santur & Bass Guitar '
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  - value: https://t.me/soheilhosnavi/1145
+    references:
+    - source: t.me-soheilhosnavi-1145
+      quote: Virtual duet with my artist friend guybernfeldbass
+      locator: Artist channel, original post 1145
+      accessed: '2026-11-21'

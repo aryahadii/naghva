@@ -1,0 +1,47 @@
+id: Qvacfzt
+type: release
+statements:
+  name:
+  - value:
+      text: بداهه‌ای در آواز دشتی
+      language: fa
+    references:
+    - source: www.youtube.com-oembed-bbk_ok35cso
+      quote: بداهه‌ای در آواز دشتی
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2024-12-06'
+    references:
+    - source: www.youtube.com-watchv-bbk_ok35cso
+      quote: '2024-12-06'
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://i.ytimg.com/vi/bbk_oK35Cso/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-bbk_ok35cso
+      quote: https://i.ytimg.com/vi/bbk_oK35Cso/hqdefault.jpg
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Soheil Hosnavi · original performance
+        language: en
+  performer:
+  - value: Q76q9jz
+    references:
+    - source: www.youtube.com-oembed-bbk_ok35cso
+      quote: Soheil Hosnavi
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: santur
+  listen link:
+  - value: https://www.youtube.com/watch?v=bbk_oK35Cso
+    references:
+    - source: www.youtube.com-oembed-bbk_ok35cso
+      quote: بداهه‌ای در آواز دشتی
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'

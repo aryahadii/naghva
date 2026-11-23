@@ -1,0 +1,73 @@
+id: Qtzccqz
+type: release
+statements:
+  name:
+  - value:
+      text: Turbulence
+      language: en
+    references:
+    - source: music.apple.com-us-album-bacchic-feat-saman-ehteshami-zanyar-hesami-reza-darbandi-1527338642
+      quote: Turbulence
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
+  performer:
+  - value: Q76q9jz
+    references:
+    - source: music.apple.com-us-album-bacchic-feat-saman-ehteshami-zanyar-hesami-reza-darbandi-1527338642
+      quote: Soheil Hosnavi
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
+    qualifiers:
+      role: santur
+  - value: Qje5fct
+    references:
+    - source: music.apple.com-us-album-bacchic-feat-saman-ehteshami-zanyar-hesami-reza-darbandi-1527338642
+      quote: Zanyar Hesami
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
+    - source: khoobo.com-soheil-hosnavi-turbulence
+      quote: 'دیوان: زانیار حسامی'
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
+    qualifiers:
+      role: divan
+  release type:
+  - value: album
+    references:
+    - source: music.apple.com-us-album-turbulence-1527338642
+      quote: Turbulence
+      locator: Artist, publisher, concert programme or original recording credits
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2015-05-01'
+    references:
+    - source: music.apple.com-us-album-bacchic-feat-saman-ehteshami-zanyar-hesami-reza-darbandi-1527338642
+      quote: '2015-05-01'
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e1/f3/ac/e1f3ac82-fee6-088b-a692-48f748975386/195448185096.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-bacchic-feat-saman-ehteshami-zanyar-hesami-reza-darbandi-1527338642
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e1/f3/ac/e1f3ac82-fee6-088b-a692-48f748975386/195448185096.jpg/1200x630bb.jpg
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Turbulence
+        language: en
+  listen link:
+  - value: https://music.apple.com/us/album/turbulence/1527338642
+    references:
+    - source: music.apple.com-us-album-bacchic-feat-saman-ehteshami-zanyar-hesami-reza-darbandi-1527338642
+      quote: Destiny (feat. Saman Ehteshami, Zanyar Hesami, Reza Darbandi, Mesbah Ghamsari, Siavash Kamkar, Soheil
+        Mokhberi & Homayoun Nasiri)
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
+  - value: https://open.spotify.com/album/0TzCoeGKmnAY6IjOyg2IQE
+    references:
+    - source: open.spotify.com-embed-album-0tzcoegkmnay6ijoyg2iqe
+      quote: Turbulence
+      locator: Original recording, artist credit or presenter programme
+      accessed: '2026-11-21'
