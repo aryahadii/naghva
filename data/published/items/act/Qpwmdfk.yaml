@@ -1,0 +1,37 @@
+id: Qpwmdfk
+type: act
+statements:
+  name:
+  - value:
+      text: Aïka Ensemble
+      language: en
+    references:
+    - source: soundcloud.com-aika-ensemble-tracks
+      quote: Aïka ensemble
+      accessed: '2026-11-21'
+      locator: Original group name
+  based in:
+  - value: Qyhck8a
+    references:
+    - source: artpress-artistes-en-exil-aika-paris-2023
+      quote: has founded the Aïka group in Paris
+      accessed: '2026-11-21'
+      locator: Formation
+  image:
+  - value: https://i.ytimg.com/vi/LujuvEkZWsk/hqdefault.jpg
+    references:
+    - source: www.youtube.com-watch-v-lujuvekzwsk
+      quote: https://i.ytimg.com/vi/LujuvEkZWsk/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video artwork
+    qualifiers:
+      credit:
+        text: Elia Chalom
+        language: en
+  profile link:
+  - value: https://soundcloud.com/aika-ensemble
+    references:
+    - source: soundcloud.com-aika-ensemble-tracks
+      quote: Aïka ensemble
+      accessed: '2026-11-21'
+      locator: Artist-owned SoundCloud account

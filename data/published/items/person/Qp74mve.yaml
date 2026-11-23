@@ -1,0 +1,38 @@
+id: Qp74mve
+type: person
+statements:
+  name:
+  - value:
+      text: Babak Amir Mobasher
+      language: en
+    references:
+    - source: aa-e.org-en-artiste-mobasher-babak-amir-2
+      quote: Babak Amir Mobasher
+      accessed: 2026-11-21
+      locator: Artist or ensemble billing
+  - value:
+      text: بابک امیرمبشر
+      language: fa
+    references:
+    - source: kayhan.london-1395-01-11-38991
+      quote: آیدا نصرت و بابک امیرمبشر
+      accessed: 2026-11-21
+      locator: Original interview and artist spellings
+  image:
+  - value: https://aa-e.org/wp-content/uploads/2020/04/Babak-Amir-Mobasher_01-425x640.jpg
+    qualifiers:
+      credit:
+        text: Atelier des artistes en exil
+        language: en
+    references:
+    - source: aa-e.org-en-artiste-mobasher-babak-amir-2
+      quote: https://aa-e.org/wp-content/uploads/2020/04/Babak-Amir-Mobasher_01-425x640.jpg
+      accessed: 2026-11-21
+      locator: Original photograph and caption
+  member of:
+  - value: Qqfjk4z
+    references:
+    - source: aa-e.org-en-artiste-mobasher-babak-amir-2
+      quote: they founded the group Manushan
+      accessed: 2026-11-21
+      locator: Manushan co-founders
