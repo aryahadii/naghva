@@ -1,0 +1,45 @@
+id: Qhhxm8d
+type: release
+statements:
+  name:
+  - value:
+      text: Mentrix Mixtape 2020
+      language: en
+    references:
+    - source: soundcloud.com-mentrixsound-mentrix-mixtape-2020
+      quote: Mentrix Mixtape 2020
+      accessed: '2026-11-21'
+      locator: Track heading
+  performer:
+  - value: Qynmr3m
+    references:
+    - source: soundcloud.com-mentrixsound-mentrix-mixtape-2020
+      quote: Stream Mentrix Mixtape 2020 by M E N T R I X | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2020-05-14'
+    references:
+    - source: soundcloud.com-mentrixsound-mentrix-mixtape-2020
+      quote: '2020-05-14T11:28:33Z'
+      accessed: '2026-11-21'
+      locator: Track publication metadata
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-9kmiRzwAfHgfn4yO-bqdNZg-large.jpg
+    references:
+    - source: soundcloud.com-mentrixsound-mentrix-mixtape-2020
+      quote: https://i1.sndcdn.com/artworks-9kmiRzwAfHgfn4yO-bqdNZg-large.jpg
+      accessed: '2026-11-21'
+      locator: Track artwork
+    qualifiers:
+      credit:
+        text: Mentrix on SoundCloud
+        language: en
+  listen link:
+  - value: https://soundcloud.com/mentrixsound/mentrix-mixtape-2020
+    references:
+    - source: soundcloud.com-mentrixsound-mentrix-mixtape-2020
+      quote: Stream Mentrix Mixtape 2020 by M E N T R I X | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title

@@ -1,0 +1,106 @@
+id: Qdnsrrt
+type: release
+statements:
+  name:
+  - value:
+      text: Nature
+      language: en
+    references:
+    - source: mentrix.bandcamp.com-track-nature
+      quote: Nature
+      accessed: '2026-11-21'
+      locator: Recording heading
+  performer:
+  - value: Qynmr3m
+    references:
+    - source: mentrix.bandcamp.com-track-nature
+      quote: Nature | Mentrix
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://mentrix.bandcamp.com/track/nature
+    references:
+    - source: mentrix.bandcamp.com-track-nature
+      quote: Nature | Mentrix
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/nature-single/1571345277
+    references:
+    - source: music.apple.com-us-album-nature-single-1571345277
+      quote: ‎Nature - Single - Album by Mentrix - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/nature/1571345284
+    references:
+    - source: music.apple.com-us-song-nature-1571345284
+      quote: ‎Nature - Song with Lyrics by Mentrix - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/nature/1572275299
+    references:
+    - source: music.apple.com-us-song-nature-1572275299
+      quote: ‎Nature - Song with Lyrics by Mentrix - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/4wvxJIcBEbcVEsAt6bik0K
+    references:
+    - source: open.spotify.com-track-4wvxjicbebcvesat6bik0k
+      quote: Nature - song and lyrics by Mentrix | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/5YnnFCzgPG2CXK6a368iR8
+    references:
+    - source: open.spotify.com-track-5ynnfczgpg2cxk6a368ir8
+      quote: Nature - song and lyrics by Mentrix | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://www.youtube.com/watch?v=ynB_OszuH0k
+    references:
+    - source: www.youtube.com-watch-v-ynb_oszuh0k
+      quote: MENTRIX - NATURE - YouTube
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/album/6EU3NDUDtSzqx93TGByMuu
+    references:
+    - source: open.spotify.com-album-6eu3ndudtszqx93tgbymuu
+      quote: Listen to Nature - Single by Mentrix | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/mentrixsound/01-nature
+    references:
+    - source: soundcloud.com-mentrixsound-01-nature
+      quote: Stream 01 _Nature_ by M E N T R I X | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/mentrixsound/mentrix-nature
+    references:
+    - source: soundcloud.com-mentrixsound-mentrix-nature
+      quote: Stream Nature by M E N T R I X | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  published by:
+  - value: Qmz3gff
+    references:
+    - source: mentrix.bandcamp.com-track-nature
+      quote: House Of Strength Records
+      accessed: '2026-11-21'
+      locator: Artist label header
+  release date:
+  - value:
+      date: '2020-04-03'
+    references:
+    - source: mentrix.bandcamp.com-track-nature
+      quote: released April 3, 2020
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a0360057345_10.jpg
+    references:
+    - source: mentrix.bandcamp.com-track-nature
+      quote: https://f4.bcbits.com/img/a0360057345_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Mentrix on Bandcamp
+        language: en

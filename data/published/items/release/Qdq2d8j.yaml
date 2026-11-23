@@ -1,0 +1,61 @@
+id: Qdq2d8j
+type: release
+statements:
+  name:
+  - value:
+      text: Hard Believer
+      language: en
+    references:
+    - source: finkmusic.bandcamp.com-album-hard-believer
+      quote: Hard Believer
+      accessed: '2026-11-21'
+      locator: Release heading
+  performer:
+  - value: Q5af9kn
+    references:
+    - source: finkmusic.bandcamp.com-album-hard-believer
+      quote: Hard Believer | Fink
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qynmr3m
+    references:
+    - source: www.doorsopen.co-blog-the-glossary-mentrix-composer
+      quote: contributed guest vocals to the Fink album Hard Believer
+      accessed: '2026-11-21'
+      locator: Artist introduction
+    qualifiers:
+      role:
+      - vocals
+  listen link:
+  - value: https://finkmusic.bandcamp.com/album/hard-believer
+    references:
+    - source: finkmusic.bandcamp.com-album-hard-believer
+      quote: Hard Believer | Fink
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a3036525407_10.jpg
+    references:
+    - source: finkmusic.bandcamp.com-album-hard-believer
+      quote: https://f4.bcbits.com/img/a3036525407_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Fink on Bandcamp
+        language: en
+  release date:
+  - value:
+      date: '2014-07-14'
+    references:
+    - source: finkmusic.bandcamp.com-album-hard-believer
+      quote: released July 14, 2014
+      accessed: '2026-11-21'
+      locator: Published date
+  release type:
+  - value: album
+    references:
+    - source: ninjatune.net-release-fink-hard-believer
+      quote: Hard Believer is the eagerly-awaited new studio album from Fink
+      accessed: '2026-11-21'
+      locator: Label release notes

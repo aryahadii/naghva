@@ -1,0 +1,45 @@
+id: Qwmkz6j
+type: release
+statements:
+  name:
+  - value:
+      text: BE MAHSA BE NIKA
+      language: en
+    references:
+    - source: open.spotify.com-track-1sbsp1eustxwfxydyb4qff
+      quote: BE MAHSA BE NIKA
+      accessed: '2026-11-21'
+      locator: Recording heading
+  performer:
+  - value: Qynmr3m
+    references:
+    - source: open.spotify.com-track-1sbsp1eustxwfxydyb4qff
+      quote: BE MAHSA BE NIKA - song and lyrics by Mentrix | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://open.spotify.com/track/1SBsp1EuStXwFXydyB4QFF
+    references:
+    - source: open.spotify.com-track-1sbsp1eustxwfxydyb4qff
+      quote: BE MAHSA BE NIKA - song and lyrics by Mentrix | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2023'
+    references:
+    - source: open.spotify.com-track-1sbsp1eustxwfxydyb4qff
+      quote: '2023'
+      accessed: '2026-11-21'
+      locator: Song information
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d0000b273e9217b28a93420ceb1c60030
+    references:
+    - source: open.spotify.com-track-1sbsp1eustxwfxydyb4qff
+      quote: https://i.scdn.co/image/ab67616d0000b273e9217b28a93420ceb1c60030
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Spotify
+        language: en

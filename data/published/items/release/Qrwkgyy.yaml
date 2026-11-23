@@ -1,0 +1,45 @@
+id: Qrwkgyy
+type: release
+statements:
+  name:
+  - value:
+      text: Acid Thunder feat. Mentrix
+      language: en
+    references:
+    - source: open.spotify.com-track-7rnekhkzzayujir8mfdsjm
+      quote: Acid Thunder feat. Mentrix
+      accessed: '2026-11-21'
+      locator: Recording heading
+  performer:
+  - value: Qynmr3m
+    references:
+    - source: open.spotify.com-track-7rnekhkzzayujir8mfdsjm
+      quote: Acid Thunder feat. Mentrix - song and lyrics by Quantum Entanglement, Mentrix | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://open.spotify.com/track/7rnEKHkzZAYUjIr8mFDSJM
+    references:
+    - source: open.spotify.com-track-7rnekhkzzayujir8mfdsjm
+      quote: Acid Thunder feat. Mentrix - song and lyrics by Quantum Entanglement, Mentrix | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2014'
+    references:
+    - source: open.spotify.com-track-7rnekhkzzayujir8mfdsjm
+      quote: '2014'
+      accessed: '2026-11-21'
+      locator: Song information
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d0000b273e7fc7af9c53208eb8fef7e29
+    references:
+    - source: open.spotify.com-track-7rnekhkzzayujir8mfdsjm
+      quote: https://i.scdn.co/image/ab67616d0000b273e7fc7af9c53208eb8fef7e29
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Spotify
+        language: en

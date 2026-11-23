@@ -1,0 +1,7 @@
+# Mentrix catalogue
+
+Checked 21 November 2026, Qynmr3m. The catalogue separates the 2020 studio album, its individual songs, the 2021 remixes, subsequent singles, and game soundtracks from the separately credited tracks. The Ubisoft interview distinguishes the exploration music from the main theme on which Mentrix sings. Fink’s Hard Believer and “Green and the Blue” have separate entries for the album and the particular vocal effects credit.
+
+The SoundCloud native artist collection returned 34 tracks under mentrixsound. These include the Refuge Worldwide, 2020 and Abiyaneh mixes. The artist’s Bandcamp and the individual video uploads also preserve alternate distributor spellings of the same Nature remix by Pahlevan Seda. Both spellings lead to one recording, Qmnrn69, with a redirect from Qmg8b33. The artist’s official YouTube channel had four uploads. The documentary concerns the artist and supplies context rather than another release.
+
+Spotify and Apple catalogue matches use edition or track URLs. Ubisoft’s soundtrack includes credits for other composers, so album association does not suffice for an individual Mentrix credit. The artist's own Bandcamp dates are retained where storefront displays differ. Wider regional distribution and unrelated appearances under similar names remain uncertain. [Bandcamp](https://mentrix.bandcamp.com/) · [SoundCloud](https://soundcloud.com/mentrixsound) · [Early Fink credit](https://www.doorsopen.co/blog/the-glossary-mentrix-composer/)

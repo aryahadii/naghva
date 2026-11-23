@@ -1,0 +1,71 @@
+id: Q73pfqq
+type: release
+statements:
+  name:
+  - value:
+      text: Men Mix Mentrix
+      language: en
+    references:
+    - source: mentrix.bandcamp.com-album-men-mix-mentrix
+      quote: Men Mix Mentrix
+      accessed: '2026-11-21'
+      locator: Recording heading
+  performer:
+  - value: Qynmr3m
+    references:
+    - source: mentrix.bandcamp.com-album-men-mix-mentrix
+      quote: Men Mix Mentrix | Mentrix
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://mentrix.bandcamp.com/album/men-mix-mentrix
+    references:
+    - source: mentrix.bandcamp.com-album-men-mix-mentrix
+      quote: Men Mix Mentrix | Mentrix
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/album/men-mix-mentrix/1571345566
+    references:
+    - source: music.apple.com-us-album-men-mix-mentrix-1571345566
+      quote: ‎Men Mix Mentrix - Album by Mentrix - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/album/7oOaSbjfOVBhly6wMkyhOJ
+    references:
+    - source: open.spotify.com-album-7ooasbjfovbhly6wmkyhoj
+      quote: Listen to Men Mix Mentrix - EP by Mentrix | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  published by:
+  - value: Qmz3gff
+    references:
+    - source: mentrix.bandcamp.com-album-men-mix-mentrix
+      quote: House Of Strength Records
+      accessed: '2026-11-21'
+      locator: Artist label header
+  release date:
+  - value:
+      date: '2020-05-08'
+    references:
+    - source: mentrix.bandcamp.com-album-men-mix-mentrix
+      quote: released May 8, 2020
+      accessed: '2026-11-21'
+      locator: Published date
+  release type:
+  - value: album
+    references:
+    - source: music.apple.com-us-album-men-mix-mentrix-1571345566
+      quote: ‎Men Mix Mentrix - Album by Mentrix - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a0242249170_10.jpg
+    references:
+    - source: mentrix.bandcamp.com-album-men-mix-mentrix
+      quote: https://f4.bcbits.com/img/a0242249170_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Mentrix on Bandcamp
+        language: en

@@ -1,0 +1,45 @@
+id: Qacp2nh
+type: release
+statements:
+  name:
+  - value:
+      text: Certain Angles - Mentrix Remix
+      language: en
+    references:
+    - source: open.spotify.com-track-6iqcf1wt3s19ezi6uolwb4
+      quote: Certain Angles - Mentrix Remix
+      accessed: '2026-11-21'
+      locator: Recording heading
+  performer:
+  - value: Qynmr3m
+    references:
+    - source: open.spotify.com-track-6iqcf1wt3s19ezi6uolwb4
+      quote: Certain Angles - Mentrix Remix - song and lyrics by DJ Tennis, Fink, Mentrix | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://open.spotify.com/track/6IqCf1wT3S19ezI6UOlWb4
+    references:
+    - source: open.spotify.com-track-6iqcf1wt3s19ezi6uolwb4
+      quote: Certain Angles - Mentrix Remix - song and lyrics by DJ Tennis, Fink, Mentrix | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2017'
+    references:
+    - source: open.spotify.com-track-6iqcf1wt3s19ezi6uolwb4
+      quote: '2017'
+      accessed: '2026-11-21'
+      locator: Song information
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d0000b2736c1f2455d18053df2c5be3bc
+    references:
+    - source: open.spotify.com-track-6iqcf1wt3s19ezi6uolwb4
+      quote: https://i.scdn.co/image/ab67616d0000b2736c1f2455d18053df2c5be3bc
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Spotify
+        language: en
