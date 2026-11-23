@@ -1,0 +1,60 @@
+id: Q6tjtyr
+type: release
+statements:
+  name:
+  - value:
+      text: Asfer (Esfand remix)
+      language: en
+    references:
+    - source: nuri.bandcamp.com-track-asfer-esfand-remix
+      quote: Asfer (Esfand remix) | Nuri
+      accessed: '2026-11-21'
+      locator: Page title
+  contributor:
+  - value: Qt394nr
+    references:
+    - source: nuri.bandcamp.com-album-irun-remixes
+      quote: Asfer (Esfand remix)
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: producer
+  performer:
+  - value: Q7pajy2
+    references:
+    - source: nuri.bandcamp.com-track-asfer-esfand-remix
+      quote: Asfer (Esfand remix) | Nuri
+      accessed: '2026-11-21'
+      locator: Page title
+  listen link:
+  - value: https://nuri.bandcamp.com/track/asfer-esfand-remix
+    references:
+    - source: nuri.bandcamp.com-track-asfer-esfand-remix
+      quote: Asfer (Esfand remix) | Nuri
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/37zNVleSvLlLFlr7zWOeHQ
+    references:
+    - source: open.spotify.com-track-37znvlesvlllflr7zwoehq
+      quote: Asfer - Esfand Remix - song and lyrics by Nuri, Esfand | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  release date:
+  - value:
+      date: '2021-07-23'
+    references:
+    - source: nuri.bandcamp.com-album-irun-remixes
+      quote: released July 23, 2021
+      accessed: '2026-11-21'
+      locator: Published date
+  cover art:
+  - value: https://f4.bcbits.com/img/a0566197457_10.jpg
+    references:
+    - source: nuri.bandcamp.com-track-asfer-esfand-remix
+      quote: https://f4.bcbits.com/img/a0566197457_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original Nuri artwork
+        language: en

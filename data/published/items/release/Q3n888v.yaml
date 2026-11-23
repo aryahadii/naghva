@@ -1,0 +1,82 @@
+id: Q3n888v
+type: release
+statements:
+  name:
+  - value:
+      text: Shawl (feat. Mohsen Namjoo)
+      language: en
+    references:
+    - source: esfand.bandcamp.com-track-shawl-feat-mohsen-namjoo
+      quote: Shawl (feat. Mohsen Namjoo) | Esfand
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qt394nr
+    references:
+    - source: esfand.bandcamp.com-album-piltan
+      quote: Piltan | Esfand
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Qt6wjbg
+    references:
+    - source: esfand.bandcamp.com-album-piltan
+      quote: Mohsen Namjoo guest stars
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: vocals
+  contributor:
+  - value: Qzchcs8
+    references:
+    - source: esfand.bandcamp.com-album-piltan
+      quote: All tracks composed, produced and mixed by Esfand
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: producer
+  - value: Qs7pdbm
+    references:
+    - source: esfand.bandcamp.com-album-piltan
+      quote: All tracks composed, produced and mixed by Esfand
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: producer
+  listen link:
+  - value: https://esfand.bandcamp.com/track/shawl-feat-mohsen-namjoo
+    references:
+    - source: esfand.bandcamp.com-track-shawl-feat-mohsen-namjoo
+      quote: Shawl (feat. Mohsen Namjoo) | Esfand
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1742160852
+    references:
+    - source: music.apple.com-us-song-1742160852
+      quote: ‎Shawl (feat. Mohsen Namjoo) - Song with Lyrics by Esfand - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/1yoX6TBgSMQpuNXvuxNGFF
+    references:
+    - source: open.spotify.com-track-1yox6tbgsmqpunxvuxngff
+      quote: Shawl - song and lyrics by Esfand, Mohsen Namjoo | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a4217892434_10.jpg
+    references:
+    - source: esfand.bandcamp.com-album-piltan
+      quote: https://f4.bcbits.com/img/a4217892434_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original label artwork
+        language: en
+  release date:
+  - value:
+      date: '2024-06-14'
+    references:
+    - source: esfand.bandcamp.com-album-piltan
+      quote: released June 14, 2024
+      accessed: '2026-11-21'
+      locator: Published date

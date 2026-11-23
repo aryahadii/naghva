@@ -1,0 +1,90 @@
+id: Qdep4ab
+type: release
+statements:
+  name:
+  - value:
+      text: Bibi Sāghi (feat. Habib Meftah)
+      language: en
+    references:
+    - source: esfand.bandcamp.com-track-bibi-s-ghi-feat-habib-meftah
+      quote: Bibi Sāghi (feat. Habib Meftah) | Esfand
+      accessed: '2026-11-21'
+      locator: Page title
+  performer:
+  - value: Qt394nr
+    references:
+    - source: esfand.bandcamp.com-album-piltan
+      quote: Piltan | Esfand
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: Q49prrc
+    references:
+    - source: esfand.bandcamp.com-track-bibi-s-ghi-feat-habib-meftah
+      quote: Habib Meftah
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  contributor:
+  - value: Qzchcs8
+    references:
+    - source: esfand.bandcamp.com-album-piltan
+      quote: All tracks composed, produced and mixed by Esfand
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: producer
+  - value: Qs7pdbm
+    references:
+    - source: esfand.bandcamp.com-album-piltan
+      quote: All tracks composed, produced and mixed by Esfand
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      role: producer
+  listen link:
+  - value: https://esfand.bandcamp.com/track/bibi-s-ghi-feat-habib-meftah
+    references:
+    - source: esfand.bandcamp.com-track-bibi-s-ghi-feat-habib-meftah
+      quote: Bibi Sāghi (feat. Habib Meftah) | Esfand
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/song/1742160515
+    references:
+    - source: music.apple.com-us-song-1742160515
+      quote: ‎Bibi Sāghi (feat. Habib Meftah) - Song with Lyrics by Esfand - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/track/7u5RwYHR1E25WjDLuPIIQU
+    references:
+    - source: open.spotify.com-track-7u5rwyhr1e25wjdlupiiqu
+      quote: Bibi Sāghi - song and lyrics by Esfand, Habib Meftah | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://www.youtube.com/watch?v=4qh47EFdnhQ
+    references:
+    - source: www.youtube.com-watch-v-4qh47efdnhq
+      quote: ESFAND -  Bibi Sāghi - OFFICIAL VIDEO
+      accessed: '2026-11-21'
+      locator: Page title
+  cover art:
+  - value: https://f4.bcbits.com/img/a4217892434_10.jpg
+    references:
+    - source: esfand.bandcamp.com-album-piltan
+      quote: https://f4.bcbits.com/img/a4217892434_10.jpg
+      accessed: '2026-11-21'
+      locator: Release artwork
+    qualifiers:
+      credit:
+        text: Original label artwork
+        language: en
+  release date:
+  - value:
+      date: '2024-04-26'
+    references:
+    - source: 30m-records.bandcamp.com-community
+      quote: 26 Apr 2024 12:49:45 GMT
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    - source: 30m-records.bandcamp.com-community
+      quote: Bibi Sāghi (feat. Habib Meftah)
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
