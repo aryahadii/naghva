@@ -1,0 +1,45 @@
+id: Qvw4kvm
+type: release
+statements:
+  name:
+  - value:
+      text: Tehrantor
+      language: en
+    references:
+    - source: soundcloud.com-langtunes-tehrantor
+      quote: Stream Tehrantor by Langtunes | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Track page title
+  performer:
+  - value: Qg4z85j
+    references:
+    - source: soundcloud.com-langtunes-tehrantor
+      quote: Stream Tehrantor by Langtunes | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Track page title
+  release date:
+  - value:
+      date: '2013-07-01'
+    references:
+    - source: soundcloud.com-langtunes-tehrantor
+      quote: '2013-07-01T07:52:11Z'
+      accessed: '2026-11-21'
+      locator: Published timestamp
+  listen link:
+  - value: https://soundcloud.com/langtunes/tehrantor
+    references:
+    - source: soundcloud.com-langtunes-tehrantor
+      quote: Stream Tehrantor by Langtunes | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Track page title
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-000051896472-cljeig-t500x500.jpg
+    qualifiers:
+      credit:
+        text: Langtunes, via SoundCloud
+        language: en
+    references:
+    - source: soundcloud.com-langtunes-tehrantor
+      quote: https://i1.sndcdn.com/artworks-000051896472-cljeig-t500x500.jpg
+      accessed: '2026-11-21'
+      locator: Artist-supplied track artwork in page metadata

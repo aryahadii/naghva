@@ -1,0 +1,45 @@
+id: Q5sbwha
+type: release
+statements:
+  name:
+  - value:
+      text: Fragile Disguise
+      language: en
+    references:
+    - source: soundcloud.com-langtunes-langtunes-fragile-disguise
+      quote: Stream Fragile Disguise by Langtunes | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Track page title
+  performer:
+  - value: Qg4z85j
+    references:
+    - source: soundcloud.com-langtunes-langtunes-fragile-disguise
+      quote: Stream Fragile Disguise by Langtunes | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Track page title
+  release date:
+  - value:
+      date: '2010-11-02'
+    references:
+    - source: soundcloud.com-langtunes-langtunes-fragile-disguise
+      quote: '2010-11-02T00:44:16Z'
+      accessed: '2026-11-21'
+      locator: Published timestamp
+  listen link:
+  - value: https://soundcloud.com/langtunes/langtunes-fragile-disguise
+    references:
+    - source: soundcloud.com-langtunes-langtunes-fragile-disguise
+      quote: Stream Fragile Disguise by Langtunes | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Track page title
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-000002859339-acuqdh-t500x500.jpg
+    qualifiers:
+      credit:
+        text: Langtunes, via SoundCloud
+        language: en
+    references:
+    - source: soundcloud.com-langtunes-langtunes-fragile-disguise
+      quote: https://i1.sndcdn.com/artworks-000002859339-acuqdh-t500x500.jpg
+      accessed: '2026-11-21'
+      locator: Artist-supplied track artwork in page metadata

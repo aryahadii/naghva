@@ -1,0 +1,45 @@
+id: Qn4j2zt
+type: release
+statements:
+  name:
+  - value:
+      text: Inept Logic
+      language: en
+    references:
+    - source: soundcloud.com-langtunes-inept-logic
+      quote: Stream Inept Logic by Langtunes | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Track page title
+  performer:
+  - value: Qg4z85j
+    references:
+    - source: soundcloud.com-langtunes-inept-logic
+      quote: Stream Inept Logic by Langtunes | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Track page title
+  release date:
+  - value:
+      date: '2013-03-28'
+    references:
+    - source: soundcloud.com-langtunes-inept-logic
+      quote: '2013-03-28T15:25:34Z'
+      accessed: '2026-11-21'
+      locator: Published timestamp
+  listen link:
+  - value: https://soundcloud.com/langtunes/inept-logic
+    references:
+    - source: soundcloud.com-langtunes-inept-logic
+      quote: Stream Inept Logic by Langtunes | Listen online for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Track page title
+  cover art:
+  - value: https://i1.sndcdn.com/artworks-000044093701-rhhpdk-t500x500.jpg
+    qualifiers:
+      credit:
+        text: Langtunes, via SoundCloud
+        language: en
+    references:
+    - source: soundcloud.com-langtunes-inept-logic
+      quote: https://i1.sndcdn.com/artworks-000044093701-rhhpdk-t500x500.jpg
+      accessed: '2026-11-21'
+      locator: Artist-supplied track artwork in page metadata

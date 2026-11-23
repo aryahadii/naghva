@@ -1,0 +1,29 @@
+id: Qnvcyk4
+type: person
+statements:
+  name:
+  - value:
+      text: Garen Abnous
+      language: en
+    references:
+    - source: langtunes.bandcamp.com-music
+      quote: '2010: They came to a full line up with Garen Abnous and Behnam Biabangardi and Released 4 songs.'
+      accessed: '2026-11-21'
+      locator: Artist biography, 2010
+  member of:
+  - value: Qg4z85j
+    qualifiers:
+      role: bass
+    references:
+    - source: backstagepro.de-langtunes
+      quote: Behrooz Moosavi Sänger, Gitarrist garen abnous Bassist, Synthesizerspieler
+      accessed: '2026-11-21'
+      locator: Line-up
+  - value: Qg4z85j
+    qualifiers:
+      role: synthesizer
+    references:
+    - source: backstagepro.de-langtunes
+      quote: Behrooz Moosavi Sänger, Gitarrist garen abnous Bassist, Synthesizerspieler
+      accessed: '2026-11-21'
+      locator: Line-up
