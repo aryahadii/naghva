@@ -1,0 +1,29 @@
+id: Qwy682e
+type: person
+statements:
+  name:
+  - value:
+      text: Aydin Naeeni
+      language: en
+    references:
+    - source: hermes-barad-personnel-booklet
+      quote: Aydin Naeeni
+      accessed: '2026-11-21'
+      locator: List of musicians in the original Hermes booklet
+  - value:
+      text: آیدین نائینی
+      language: fa
+    references:
+    - source: hermes-barad-personnel-booklet
+      quote: آیدین نائینی
+      accessed: '2026-11-21'
+      locator: List of musicians in the original Hermes booklet
+  member of:
+  - value: Qs2nwh3
+    qualifiers:
+      role: guitar
+    references:
+    - source: hermes-barad-personnel-booklet
+      quote: Aydin Naeeni
+      accessed: '2026-11-21'
+      locator: List of musicians in the original Hermes booklet
