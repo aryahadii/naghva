@@ -1,0 +1,38 @@
+id: Qh6sdaj
+type: act
+statements:
+  name:
+  - value:
+      text: Zagros Daf Ensemble
+      language: en
+    references:
+    - source: www.hawramanmusicgroup.com-musicians-sara-fotros
+      quote: Zagros Daf Ensemble
+      locator: Original release, musician interview or performance credits
+      accessed: '2026-11-21'
+  - value:
+      text: دفنوازان زاگرس
+      language: fa
+    references:
+    - source: www.youtube.com-watchv-njrailmuavo
+      quote: دفنوازان زاگرس
+      locator: Original release, musician interview or performance credits
+      accessed: '2026-11-21'
+  based in:
+  - value: Q89tspa
+    references:
+    - source: www.beyondskin.net-yalda-2025
+      quote: Zagros Ensemble in London
+      locator: Original release, musician interview or performance credits
+      accessed: '2026-11-21'
+  image:
+  - value: https://i.ytimg.com/vi/_-YBrXl4_WQ/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-_-ybrxl4_wq
+      quote: https://i.ytimg.com/vi/_-YBrXl4_WQ/hqdefault.jpg
+      locator: Musician interview, original recording credits or presenter programme
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Sara Fotros · Zagros Daf Group, London performance
+        language: en
