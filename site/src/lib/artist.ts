@@ -6,7 +6,7 @@ import { COVER_WIDTHS, imageOf, PHOTO_WIDTHS, type LinkedImage } from './images'
 import { renderArticle } from './markdown';
 import { platform } from './platforms';
 import {
-  best, recordingArtists, datesDisagree, href, isDate, isText, nameOf, otherName, panelReleasesOf, releaseDates, releasesOf, url,
+  best, recordingArtists, datesDisagree, href, isDate, isText, nameOf, otherName, panelReleasesOf, releaseDates, catalogueReleasesOf, url,
   type Article, type DateValue, type Item, type Lang, type SiteRecord, type Statement, type Text, type Reference,
 } from './record';
 
@@ -109,8 +109,8 @@ export function artistView(
     return to === self ? null : to;
   };
   const name = (item: Item) => nameHtml(nameOf(item, lang), lang, link(item));
-  const releases = releasesOf(record, artist);
-  const panelReleases = panelReleasesOf(record, artist);
+  const releases = catalogueReleasesOf(record, artist);
+  const panelReleases = panelReleasesOf(record, artist, releases);
 
   // The photo comes first on the page, so its sources are numbered first.
   const photoImage = photoSize && imageOf(artist, 'image', PHOTO_WIDTHS);

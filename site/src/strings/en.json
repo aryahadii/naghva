@@ -195,13 +195,16 @@
     "jalaliMonths": ["Farvardin", "Ordibehesht", "Khordad", "Tir", "Mordad", "Shahrivar", "Mehr", "Aban", "Azar", "Dey", "Bahman", "Esfand"]
   },
   "roles": {
+    "musical director": "musical director",
+    "compiler": "compiler",
+    "researcher": "researcher",
     "recording engineer": "recording engineer",
     "mixing engineer": "mixing engineer",
     "mastering engineer": "mastering engineer",
     "accordion": "accordion", "soprano trombone": "soprano trombone", "tuba": "tuba", "choir": "choir", "oboe": "oboe", "saxophone": "saxophone", "tambura": "tambura",
     "vocals": "vocals", "backing vocals": "backing vocals", "guitar": "guitar", "fretless guitar": "fretless guitar", "bass": "bass", "drums": "drums", "percussion": "percussion",
     "keyboards": "keyboards", "synthesizer": "synthesizer", "violin": "violin", "viola": "viola", "cello": "cello", "flute": "flute", "clarinet": "clarinet", "bass clarinet": "bass clarinet", "harmonica": "harmonica", "trumpet": "trumpet",
-    "santur": "santur", "setar": "setar", "tar": "tar", "daf": "daf", "tombak": "tombak", "ney": "ney", "trombone": "trombone",
+    "qanun": "qanun", "divan": "divan", "viola da gamba": "viola da gamba", "electronics": "electronics", "santur": "santur", "setar": "setar", "tar": "tar", "daf": "daf", "tabla": "tabla", "tombak": "tombak", "ney": "ney", "trombone": "trombone",
     "kamancheh": "kamancheh", "producer": "producer", "composer": "composer", "lyricist": "lyricist", "songwriter": "songwriter",
     "arranger": "arranger", "strings": "strings", "piano": "piano", "oud": "oud", "double bass": "double bass", "original composer": "original composer", "original lyricist": "original lyricist"
   },
