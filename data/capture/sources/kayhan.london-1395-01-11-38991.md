@@ -1,5 +1,6 @@
 ---
 url: https://kayhan.london/1395/01/11/38991/
+archive: "https://web.archive.org/web/20260123083643/https://kayhan.london/1395/01/11/38991/"
 title: ساز و آواز در آزادی، تجربه‌ای که در ایران امروز ممکن نیست - KayhanLondon کیهان لندن
 tier: journalism
 language: fa

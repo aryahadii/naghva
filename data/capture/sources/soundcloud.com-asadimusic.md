@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/asadimusic
+archive: "https://web.archive.org/web/20260904054253/https://soundcloud.com/asadimusic"
 title: ASADI | SoundCloud
 tier: own
 language: en

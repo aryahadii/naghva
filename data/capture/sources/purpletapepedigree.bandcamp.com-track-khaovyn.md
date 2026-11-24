@@ -1,5 +1,6 @@
 ---
 url: https://purpletapepedigree.bandcamp.com/track/khaovyn
+archive: "https://web.archive.org/web/20260906155151/https://purpletapepedigree.bandcamp.com/track/khaovyn"
 title: Khaovyn | Nima Aghiani | PTP
 kind: web page
 language: en

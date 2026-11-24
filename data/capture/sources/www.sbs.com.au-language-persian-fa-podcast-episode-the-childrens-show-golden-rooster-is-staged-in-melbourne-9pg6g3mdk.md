@@ -1,5 +1,6 @@
 ---
 url: https://www.sbs.com.au/language/persian/fa/podcast-episode/the-childrens-show-golden-rooster-is-staged-in-melbourne/9pg6g3mdk
+archive: "https://web.archive.org/web/20250115014232/https://www.sbs.com.au/language/persian/fa/podcast-episode/the-childrens-show-golden-rooster-is-staged-in-melbourne/9pg6g3mdk"
 title: نمایش کودکانه «خروس زری پیرهن پری» در ملبورن به روی صحنه می‌رود
 tier: journalism
 language: fa

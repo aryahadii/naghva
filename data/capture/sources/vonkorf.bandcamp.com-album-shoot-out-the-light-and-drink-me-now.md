@@ -1,5 +1,6 @@
 ---
 url: https://vonkorf.bandcamp.com/album/shoot-out-the-light-and-drink-me-now
+archive: "https://web.archive.org/web/20251012080914/https://vonkorf.bandcamp.com/album/shoot-out-the-light-and-drink-me-now"
 title: Shoot Out the Light and Drink me Now | Werner Kavermann und Von Korf | Von Korf
 status: processed
 language: en

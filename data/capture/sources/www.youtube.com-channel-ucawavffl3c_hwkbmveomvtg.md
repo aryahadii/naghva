@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/channel/UCAwaVFFL3c_hwkbMvEoMVtg
+archive: "https://web.archive.org/web/20251013033554/https://www.youtube.com/channel/UCAwaVFFL3c_hwkbMvEoMVtg"
 title: Ajam Band - YouTube
 status: processed
 language: en

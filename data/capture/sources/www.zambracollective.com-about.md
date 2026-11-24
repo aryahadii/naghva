@@ -1,5 +1,6 @@
 ---
 url: https://www.zambracollective.com/about
+archive: "https://web.archive.org/web/20260410045634/https://www.zambracollective.com/about"
 title: Bio — zambracollective
 status: processed
 language: en

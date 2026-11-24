@@ -1,5 +1,6 @@
 ---
 url: https://temp-illusion.bandcamp.com/track/caustic-surface-aho-ssan-rework
+archive: "https://web.archive.org/web/20240601205058/https://temp-illusion.bandcamp.com/track/caustic-surface-aho-ssan-rework"
 title: Caustic Surface (Aho Ssan Rework) | Temp-Illusion
 kind: web page
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://t.me/Sahbamusic/953
+archive: "https://web.archive.org/web/20251222190223/https://t.me/Sahbamusic/953"
 title: اجرای کامل گوشه های  فرود آواز بیات ترک، ردیف استاد شهنازی، تار ساخته استاد پوریا
 status: processed
 language: fa

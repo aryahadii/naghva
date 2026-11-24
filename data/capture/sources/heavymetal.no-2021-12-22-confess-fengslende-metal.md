@@ -1,5 +1,6 @@
 ---
 url: https://heavymetal.no/2021/12/22/confess-fengslende-metal/
+archive: "https://web.archive.org/web/20260710135713/https://heavymetal.no/2021/12/22/confess-fengslende-metal/"
 title: Confess, fengslende metal – Heavymetal.no
 tier: journalism
 language: en

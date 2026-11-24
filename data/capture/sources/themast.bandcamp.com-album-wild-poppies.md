@@ -1,5 +1,6 @@
 ---
 url: https://themast.bandcamp.com/album/wild-poppies
+archive: "https://web.archive.org/web/20240128065628/https://themast.bandcamp.com/album/wild-poppies"
 title: Wild Poppies | The Mast
 tier: own
 language: en

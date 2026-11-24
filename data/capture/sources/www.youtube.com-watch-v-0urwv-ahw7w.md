@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=0uRWv-AHW7w
+archive: "https://web.archive.org/web/20210107004234/https://www.youtube.com/watch?v=0uRWv-AHW7w"
 title: میخواهم برم کوه - دریا دادور و آرش فولادوند (Official)
 kind: youtube video
 tier: own

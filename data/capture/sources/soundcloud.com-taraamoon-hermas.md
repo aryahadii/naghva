@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/taraamoon/hermas
+archive: "https://web.archive.org/web/20221114180022/https://soundcloud.com/taraamoon/hermas"
 title: Stream Hermās | هرماس by TARAAMOON • ْتَرامون | Listen online for free on SoundCloud
 kind: web page
 language: en

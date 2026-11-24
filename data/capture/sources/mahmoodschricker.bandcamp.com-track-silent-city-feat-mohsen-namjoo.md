@@ -1,5 +1,6 @@
 ---
 url: https://mahmoodschricker.bandcamp.com/track/silent-city-feat-mohsen-namjoo
+archive: "https://web.archive.org/web/20130304135748/http://mahmoodschricker.bandcamp.com:80/track/silent-city-feat-mohsen-namjoo"
 title: Silent City (feat. Mohsen Namjoo) | Mahmood Schricker
 kind: web page
 language: en

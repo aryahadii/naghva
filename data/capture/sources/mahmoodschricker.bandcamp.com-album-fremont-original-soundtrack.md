@@ -1,5 +1,6 @@
 ---
 url: https://mahmoodschricker.bandcamp.com/album/fremont-original-soundtrack
+archive: "https://web.archive.org/web/20260205113355/https://mahmoodschricker.bandcamp.com/album/fremont-original-soundtrack"
 title: Fremont - Original Soundtrack | Mahmood Schricker
 kind: web page
 language: en

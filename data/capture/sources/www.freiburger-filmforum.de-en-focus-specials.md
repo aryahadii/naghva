@@ -1,5 +1,6 @@
 ---
 url: https://www.freiburger-filmforum.de/en/focus/specials/?sdtid=9323
+archive: "https://web.archive.org/web/20260123163406/https://www.freiburger-filmforum.de/en/focus/specials/?sdtid=9323"
 title: 'Freiburger Filmforum: Heim.Statt'
 tier: own
 language: de

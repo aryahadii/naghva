@@ -1,5 +1,6 @@
 ---
 url: https://ncac.org/news/blog/music-freedom-day-in-new-york
+archive: "https://web.archive.org/web/20260512052635/https://ncac.org/news/blog/music-freedom-day-in-new-york"
 title: Music Freedom Day in New York
 kind: web page
 tier: own

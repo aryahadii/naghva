@@ -1,5 +1,6 @@
 ---
 url: https://flamingpines.bandcamp.com/album/the-brightest-winter-sun
+archive: "https://web.archive.org/web/20250530124505/https://flamingpines.bandcamp.com/album/the-brightest-winter-sun"
 title: The Brightest Winter Sun | Siavash Amini + Umchunga | Flaming Pines
 kind: web page
 language: en

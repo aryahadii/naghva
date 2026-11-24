@@ -1,5 +1,6 @@
 ---
 url: https://cardamomtrio.com/our-album/
+archive: "https://web.archive.org/web/20260811150858/https://cardamomtrio.com/our-album/"
 title: Album – CARDAMOM TRIO
 kind: web page
 language: en

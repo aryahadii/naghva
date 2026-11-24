@@ -1,5 +1,6 @@
 ---
 url: https://payamyousefi.bandcamp.com/album/songs-of-hope
+archive: "https://web.archive.org/web/20251021113926/https://payamyousefi.bandcamp.com/album/songs-of-hope"
 title: Songs of Hope | Payam Yousefi
 kind: web page
 tier: own

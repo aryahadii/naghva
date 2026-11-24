@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=OAL74J5eqDM
+archive: "https://web.archive.org/web/20250528100602/https://www.youtube.com/watch?v=OAL74J5eqDM"
 title: «امشب شب مهتابه / ماه غلام رخ زیبای توست - «آرش فولادوند و لویز توماس
 kind: youtube video
 tier: own

@@ -1,5 +1,6 @@
 ---
 url: https://confessband.bandcamp.com/track/phoenix-rises
+archive: "https://web.archive.org/web/20251012162410/https://confessband.bandcamp.com/track/phoenix-rises"
 title: Phoenix Rises | Confess
 tier: own
 language: en

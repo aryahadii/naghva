@@ -1,5 +1,6 @@
 ---
 url: https://www.accords-croises.com/en/label/aida-babak-manushan
+archive: "https://web.archive.org/web/20260719221117/https://www.accords-croises.com/en/label/aida-babak-manushan"
 title: Manushan | Accords Croisés
 tier: own
 language: en

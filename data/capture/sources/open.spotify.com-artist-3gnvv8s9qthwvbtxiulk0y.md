@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/artist/3gnvv8S9QthwVbtxiuLk0y
+archive: "https://web.archive.org/web/20251217223737/https://open.spotify.com/artist/3gnvv8S9QthwVbtxiuLk0y"
 title: Listen to Psychic Bloom Songs | Spotify
 tier: discography
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/4H9hWVmi0GLeaquCD0az7t
+archive: "https://web.archive.org/web/20260321042244/https://open.spotify.com/album/4H9hWVmi0GLeaquCD0az7t"
 title: Call of the Mystic
 tier: discography
 language: en

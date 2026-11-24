@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=9iMy092aW0o
+archive: "https://web.archive.org/web/20230528035647/https://www.youtube.com/watch?v=9iMy092aW0o"
 title: Erwin Khachikian and Friends 'Sometime' - YouTube
 kind: web page
 tier: own

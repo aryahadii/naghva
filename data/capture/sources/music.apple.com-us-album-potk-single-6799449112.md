@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/potk-single/6799449112
+archive: "https://web.archive.org/web/20261010183024/https://music.apple.com/us/album/potk-single/6799449112"
 title: Potk - Single
 tier: discography
 language: en

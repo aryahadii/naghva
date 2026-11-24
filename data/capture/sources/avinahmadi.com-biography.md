@@ -1,5 +1,6 @@
 ---
 url: https://avinahmadi.com/biography/
+archive: "https://web.archive.org/web/20260614230311/https://avinahmadi.com/biography/"
 title: Biography - Avin Ahmadi
 tier: own
 language: en

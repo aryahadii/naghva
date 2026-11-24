@@ -1,5 +1,6 @@
 ---
 url: https://eishanensemble.bandcamp.com/track/redfern
+archive: "https://web.archive.org/web/20250902080746/https://eishanensemble.bandcamp.com/track/redfern"
 title: Redfern | Eishan Ensemble
 kind: web page
 tier: own

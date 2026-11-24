@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/3ArCwDKAnCBCImqE6PoGFN
+archive: "https://web.archive.org/web/20200607201408/https://open.spotify.com/album/3ArCwDKAnCBCImqE6PoGFN"
 title: 'Yoga Mantras & Dance: Power Yoga Music & Ecstatic Dance Beats'
 tier: discography
 language: en

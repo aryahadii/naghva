@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/mahmood-schricker/silent-city-mahmood-schricker
+archive: "https://web.archive.org/web/20251004061011/https://soundcloud.com/mahmood-schricker/silent-city-mahmood-schricker"
 title: Stream Silent City- Mahmood Schricker feat. Mohsen Namjoo by Mahmood Schricker | Listen online for free on SoundCloud
 kind: web page
 language: en

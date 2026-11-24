@@ -1,5 +1,6 @@
 ---
 url: https://soheilpeyghambari.bandcamp.com/track/faraway
+archive: "https://web.archive.org/web/20250427143833/https://soheilpeyghambari.bandcamp.com/track/faraway"
 title: Faraway | Soheil Peyghambari
 kind: web page
 language: en

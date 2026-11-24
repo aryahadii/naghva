@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/asadimusic/xo-migo-lif3
+archive: "https://web.archive.org/web/20190105224410/https://soundcloud.com/asadimusic/xo-migo-lif3"
 title: XO MIGO LIF3
 tier: own
 language: en

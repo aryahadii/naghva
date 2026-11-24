@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/marriage-of-sound-feat-ardeshir-farah-faravaz-single/1495583850
+archive: "https://web.archive.org/web/20220119225855/https://music.apple.com/us/album/marriage-of-sound-feat-ardeshir-farah-faravaz-single/1495583850"
 title: Marriage of Sound (feat. Ardeshir Farah & Faravaz) - Single
 tier: discography
 language: en

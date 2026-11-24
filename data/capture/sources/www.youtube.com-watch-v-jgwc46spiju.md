@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=jgwC46SpijU
+archive: "https://web.archive.org/web/20250228093424/https://www.youtube.com/watch?v=jgwC46SpijU"
 title: Darya (Rock) - Niaz Nawab - YouTube
 kind: web page
 tier: own

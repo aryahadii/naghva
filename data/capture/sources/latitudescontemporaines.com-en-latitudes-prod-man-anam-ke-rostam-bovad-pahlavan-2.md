@@ -1,5 +1,6 @@
 ---
 url: https://latitudescontemporaines.com/en/latitudes-prod/man-anam-ke-rostam-bovad-pahlavan-2/
+archive: "https://web.archive.org/web/20260512093320/https://latitudescontemporaines.com/en/latitudes-prod/man-anam-ke-rostam-bovad-pahlavan-2/"
 title: Man anam ke rostam bovad pahlavan - Latitudes Contemporaines
 kind: web page
 language: en

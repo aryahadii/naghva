@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/1PEaOhGWrzHUMphYyci6ui
+archive: "https://web.archive.org/web/20230131133648/https://open.spotify.com/album/1PEaOhGWrzHUMphYyci6ui"
 title: Pour-Afrigha
 tier: discography
 language: en

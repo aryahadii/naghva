@@ -1,5 +1,6 @@
 ---
 url: https://aidanosrat.com/
+archive: "https://web.archive.org/web/20260807112142/https://aidanosrat.com/"
 title: Aida Nosrat
 tier: own
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/lights-and-shadows/1837455926
+archive: "https://web.archive.org/web/20260209004903/https://music.apple.com/us/album/lights-and-shadows/1837455926"
 title: Lights and Shadows
 tier: own
 language: en

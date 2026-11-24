@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/1-ep/983421090
+archive: "https://web.archive.org/web/20230202230246/https://music.apple.com/us/album/1-ep/983421090"
 title: 1 - EP
 tier: own
 language: en

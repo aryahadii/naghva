@@ -1,5 +1,6 @@
 ---
 url: https://tournsol.net/ensemble-chakam-eng/
+archive: "https://web.archive.org/web/20260616130845/https://tournsol.net/ensemble-chakam-eng/"
 title: 'ENSEMBLE CHAKÂM: Booking | Tour''n''sol Prod.'
 status: processed
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://t.me/Sahbamusic/738
+archive: "https://web.archive.org/web/20221206211137/https://t.me/Sahbamusic/738"
 title: قطعه "حرمان" صهبا مطلبي، در آواز بيات اصفهان- اين قطعه همزمان با بازي هاي كودكانه فرزندانمان ليلي و شيرين
   ساخته شده است.
 status: processed

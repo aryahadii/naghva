@@ -1,5 +1,6 @@
 ---
 url: https://projectrevolver.org/features/interviews/an-ancestral-call-the-bahramji-interview/
+archive: "https://web.archive.org/web/20260607172733/https://projectrevolver.org/features/interviews/an-ancestral-call-the-bahramji-interview/"
 title: 'An Ancestral Call: The Bahramji Interview – Project Revolver'
 tier: journalism
 language: en

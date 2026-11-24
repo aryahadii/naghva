@@ -1,5 +1,6 @@
 ---
 url: https://cinnapey.bandcamp.com/album/gamut
+archive: "https://web.archive.org/web/20261005051511/https://cinnapey.bandcamp.com/album/gamut"
 title: Gamut | Cinna Peyghamy
 kind: web page
 language: en

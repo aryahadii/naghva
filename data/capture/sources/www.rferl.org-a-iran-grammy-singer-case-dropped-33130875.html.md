@@ -1,5 +1,6 @@
 ---
 url: https://www.rferl.org/a/iran-grammy-singer-case-dropped/33130875.html
+archive: "https://web.archive.org/web/20260929080324/https://www.rferl.org/a/iran-grammy-singer-case-dropped/33130875.html"
 title: Iranian Grammy Winner Says Security Case Against Him Dropped
 tier: journalism
 language: en

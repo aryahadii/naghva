@@ -1,5 +1,6 @@
 ---
 url: https://kayhanlife.com/culture/stage/meet-iranian-swedish-pop-band-abjeez/
+archive: "https://web.archive.org/web/20260711145246/https://kayhanlife.com/culture/stage/meet-iranian-swedish-pop-band-abjeez/"
 title: Meet the Iranian-Swedish Pop Band Abjeez
 tier: journalism
 language: en

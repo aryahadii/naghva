@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/0X8fZCHYlRMQ83CN0c7SlK
+archive: "https://web.archive.org/web/20240316010706/https://open.spotify.com/album/0X8fZCHYlRMQ83CN0c7SlK"
 title: Az Maast Ke Bar Maast
 tier: discography
 language: en

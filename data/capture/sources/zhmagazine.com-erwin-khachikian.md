@@ -1,5 +1,6 @@
 ---
 url: https://zhmagazine.com/erwin-khachikian/
+archive: "https://web.archive.org/web/20260510180807/https://zhmagazine.com/erwin-khachikian/"
 title: Interview with Erwin Khachikian - ZH Magazine
 kind: web page
 tier: journalism

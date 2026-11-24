@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/sing-revolution-rock-mix-single/1736546586
+archive: "https://web.archive.org/web/20251115235622/https://music.apple.com/us/album/sing-revolution-rock-mix-single/1736546586"
 title: Sing (Revolution Rock Mix) - Single
 tier: discography
 language: en

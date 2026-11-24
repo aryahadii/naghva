@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/playlist?list=PLZkBK-s9qJ-FJxegPJQBAqbt0jaMzdEWt
+archive: "https://web.archive.org/web/20230414191202/https://www.youtube.com/playlist?list=PLZkBK-s9qJ-FJxegPJQBAqbt0jaMzdEWt"
 title: 'Basic Study Of Persian Music (8 videos)Total Minutes: 86:00'
 status: processed
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://bob-harris-2020.squarespace.com/bobs-events/3rd-annual-dear-john-concert-for-war-child-hosted-by-bob-harris
+archive: "https://web.archive.org/web/20261124065514/https://bob-harris-2020.squarespace.com/bobs-events/3rd-annual-dear-john-concert-for-war-child-hosted-by-bob-harris"
 title: 3rd Annual Dear John Concert for War Child hosted by Bob Harris — The Bob Harris Website
 tier: own
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://musikprotokoll.orf.at/en/bio/yalda-zamani
+archive: "https://web.archive.org/web/20260315205811/https://musikprotokoll.orf.at/en/bio/yalda-zamani"
 title: Yalda Zamani | musikprotokoll
 kind: web page
 language: en

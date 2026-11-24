@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/7e5CYk2hVZLV56u1F2fBKp
+archive: "https://web.archive.org/web/20260811081019/https://open.spotify.com/album/7e5CYk2hVZLV56u1F2fBKp"
 title: 'Listen to Prince of Persia: The Lost Crown (Original Game Soundtrack) - Album by Mentrix | Spotify'
 kind: web page
 language: en

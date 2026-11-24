@@ -1,5 +1,6 @@
 ---
 url: https://stereotypeduo.bandcamp.com/track/tehran
+archive: "https://web.archive.org/web/20240725142304/https://stereotypeduo.bandcamp.com/track/tehran"
 title: Tehran | Stereotype
 kind: web page
 language: en

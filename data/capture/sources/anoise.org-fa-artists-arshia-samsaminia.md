@@ -1,5 +1,6 @@
 ---
 url: https://anoise.org/fa/artists/arshia-samsaminia/
+archive: "https://web.archive.org/web/20261124062123/https://anoise.org/fa/artists/arshia-samsaminia/"
 title: آنویز - ارشیا صمصامی‌نیا – آهنگساز
 kind: web page
 language: fa

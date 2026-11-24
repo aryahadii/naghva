@@ -1,5 +1,6 @@
 ---
 url: https://stereotypeduo.bandcamp.com/track/intro
+archive: "https://web.archive.org/web/20250526081822/https://stereotypeduo.bandcamp.com/track/intro"
 title: Intro | Stereotype
 kind: web page
 language: en

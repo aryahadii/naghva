@@ -1,5 +1,6 @@
 ---
 url: https://www.nts.live/shows/labour/episodes/labour-31st-october-2022
+archive: "https://web.archive.org/web/20260715162029/https://www.nts.live/shows/labour/episodes/labour-31st-october-2022"
 title: LABOUR w/ Fatou Talla Ndiaye 31st October 2022 | Listen on NTS
 status: processed
 language: en

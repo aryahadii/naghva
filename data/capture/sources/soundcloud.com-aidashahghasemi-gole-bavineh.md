@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/aidashahghasemi/gole-bavineh
+archive: "https://web.archive.org/web/20201101015200/https://soundcloud.com/aidashahghasemi/gole-bavineh"
 title: Gole Bavineh
 tier: discography
 language: en

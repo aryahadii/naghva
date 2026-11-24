@@ -1,5 +1,6 @@
 ---
 url: https://numduo.bandcamp.com/track/the-gate
+archive: "https://web.archive.org/web/20260206090426/https://numduo.bandcamp.com/track/the-gate"
 title: The Gate | NUM
 kind: web page
 language: en

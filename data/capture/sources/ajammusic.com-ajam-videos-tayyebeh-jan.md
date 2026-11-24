@@ -1,5 +1,6 @@
 ---
 url: https://ajammusic.com/Ajam-Videos/tayyebeh-jan/
+archive: "https://web.archive.org/web/20260710230611/https://ajammusic.com/Ajam-Videos/tayyebeh-jan/"
 title: Ajam Music |   Tayyebeh Jan
 status: processed
 language: en

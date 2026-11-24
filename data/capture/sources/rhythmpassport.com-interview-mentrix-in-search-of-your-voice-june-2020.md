@@ -1,5 +1,6 @@
 ---
 url: https://rhythmpassport.com/interview-mentrix-in-search-of-your-voice-june-2020/
+archive: "https://web.archive.org/web/20260123010134/https://rhythmpassport.com/interview-mentrix-in-search-of-your-voice-june-2020/"
 title: 'Interview: Mentrix – In Search of Your Voice (June 2020) - Rhythm Passport'
 kind: web page
 language: en

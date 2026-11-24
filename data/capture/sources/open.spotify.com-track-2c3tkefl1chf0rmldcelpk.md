@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/track/2c3TkEFl1chF0RmldCelPK
+archive: "https://web.archive.org/web/20200112053828/https://open.spotify.com/track/2c3TkEFl1chF0RmldCelPK"
 title: Tec - song and lyrics by Siavash Amini, Hessam Ohadi, Nima Pourkarimi | Spotify
 kind: web page
 language: en

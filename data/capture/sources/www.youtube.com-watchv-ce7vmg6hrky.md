@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=Ce7VmG6hrkY
+archive: "https://web.archive.org/web/20250602002456/https://www.youtube.com/watch?v=Ce7VmG6hrkY"
 title: Ajam ft Mehdi Boostani & Tannaz Zand - Dare Vaz Kon / عجم  - در واز کن
 status: processed
 language: en

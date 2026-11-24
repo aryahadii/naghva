@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/ye-pariye-naz-single/1608487357
+archive: "https://web.archive.org/web/20260923140201/https://music.apple.com/us/album/ye-pariye-naz-single/1608487357"
 title: ‎Ye Pariye Naz - Single - Album by Niaz Nawab - Apple Music
 kind: web page
 tier: discography

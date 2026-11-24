@@ -1,5 +1,6 @@
 ---
 url: https://www.monamatbouriahi.com/discography/
+archive: "https://web.archive.org/web/20260715154310/https://www.monamatbouriahi.com/discography/"
 title: Mona Matbouriahi | Discography
 tier: discography
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://www.shabnamparvaresh.com/discography
+archive: "https://web.archive.org/web/20260714131805/https://www.shabnamparvaresh.com/discography"
 title: Discography | Shabnam Parvaresh
 status: processed
 language: en

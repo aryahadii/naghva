@@ -1,5 +1,6 @@
 ---
 url: https://refugeworldwide.com/artists/mentrix
+archive: "https://web.archive.org/web/20260124182458/https://refugeworldwide.com/artists/mentrix"
 title: Mentrix | Refuge Worldwide
 kind: web page
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://artbeat.seattle.gov/2026/11/19/artist-to-artist-mahsa-marjan-vahdat-with-shaudi-vahdat/
+archive: "https://web.archive.org/web/20261124062723/https://artbeat.seattle.gov/2026/11/19/artist-to-artist-mahsa-marjan-vahdat-with-shaudi-vahdat/"
 title: Marjan Vahdat on the origin of Twinklings of Hope
 tier: own
 language: en

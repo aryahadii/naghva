@@ -1,5 +1,6 @@
 ---
 url: https://phaillegals.bandcamp.com/album/walk-through-exits-only
+archive: "https://web.archive.org/web/20251231133903/https://phaillegals.bandcamp.com/album/walk-through-exits-only"
 title: Walk Through Exits Only
 tier: own
 language: en

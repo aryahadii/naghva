@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/channel/UCKDyuA_yZPcoj7ewohEyN9g
+archive: "https://web.archive.org/web/20260114055750/https://www.youtube.com/channel/UCKDyuA_yZPcoj7ewohEyN9g"
 title: Arash Fouladvand - YouTube
 kind: web page
 tier: own

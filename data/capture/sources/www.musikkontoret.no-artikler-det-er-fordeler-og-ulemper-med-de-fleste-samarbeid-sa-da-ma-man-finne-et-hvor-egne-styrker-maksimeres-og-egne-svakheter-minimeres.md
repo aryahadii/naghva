@@ -1,5 +1,6 @@
 ---
 url: https://www.musikkontoret.no/artikler/det-er-fordeler-og-ulemper-med-de-fleste-samarbeid-sa-da-ma-man-finne-et-hvor-egne-styrker-maksimeres-og-egne-svakheter-minimeres
+archive: "https://web.archive.org/web/20241206023201/https://www.musikkontoret.no/artikler/det-er-fordeler-og-ulemper-med-de-fleste-samarbeid-sa-da-ma-man-finne-et-hvor-egne-styrker-maksimeres-og-egne-svakheter-minimeres"
 title: Plateselskap og utenlandssatsing | Musikkontoret
 status: processed
 language: 'no'

@@ -1,5 +1,6 @@
 ---
 url: https://rostammirlashari.com/portfolio/morid/
+archive: "https://web.archive.org/web/20260713222111/https://rostammirlashari.com/portfolio/morid/"
 title: Morid – Rostam Mirlashari
 tier: own
 language: en

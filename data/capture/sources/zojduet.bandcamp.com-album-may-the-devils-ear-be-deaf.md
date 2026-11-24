@@ -1,5 +1,6 @@
 ---
 url: https://zojduet.bandcamp.com/album/may-the-devils-ear-be-deaf
+archive: "https://web.archive.org/web/20261017014742/https://zojduet.bandcamp.com/album/may-the-devils-ear-be-deaf"
 title: May The Devil's Ear Be Deaf | ZÖJ
 kind: web page
 tier: own

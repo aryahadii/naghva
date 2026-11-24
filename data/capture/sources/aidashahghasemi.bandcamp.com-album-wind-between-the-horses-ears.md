@@ -1,5 +1,6 @@
 ---
 url: https://aidashahghasemi.bandcamp.com/album/wind-between-the-horses-ears
+archive: "https://web.archive.org/web/20210524044440/https://aidashahghasemi.bandcamp.com/album/wind-between-the-horses-ears"
 title: Wind Between the Horse's Ears - نسیمی میان گوش های اسب
 tier: discography
 language: en

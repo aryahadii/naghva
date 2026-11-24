@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/track/1lVrLxXzbLakLeqKA4Z7In
+archive: "https://web.archive.org/web/20250903184836/https://open.spotify.com/track/1lVrLxXzbLakLeqKA4Z7In"
 title: Jange Akhar - song and lyrics by Kian Pourtorab | Spotify
 kind: web page
 tier: discography

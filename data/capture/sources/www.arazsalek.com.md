@@ -1,5 +1,6 @@
 ---
 url: https://www.arazsalek.com/
+archive: "https://web.archive.org/web/20260812235014/https://www.arazsalek.com/"
 title: Araz Salek,   Musician, Iranian Tar Player
 kind: web page
 tier: own

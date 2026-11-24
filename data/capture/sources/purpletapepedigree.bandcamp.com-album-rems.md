@@ -1,5 +1,6 @@
 ---
 url: https://purpletapepedigree.bandcamp.com/album/rems
+archive: "https://web.archive.org/web/20260906155148/https://purpletapepedigree.bandcamp.com/album/rems"
 title: REMS | Nima Aghiani | PTP
 kind: web page
 language: en

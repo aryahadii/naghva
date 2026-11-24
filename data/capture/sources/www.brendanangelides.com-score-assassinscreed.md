@@ -1,5 +1,6 @@
 ---
 url: https://www.brendanangelides.com/score/assassinscreed/
+archive: "https://web.archive.org/web/20241128223952/https://www.brendanangelides.com/score/assassinscreed/"
 title: Assassin's Creed Mirage — Brendan Angelides
 status: processed
 language: en

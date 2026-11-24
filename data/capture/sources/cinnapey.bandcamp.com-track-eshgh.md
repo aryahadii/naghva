@@ -1,5 +1,6 @@
 ---
 url: https://cinnapey.bandcamp.com/track/eshgh
+archive: "https://web.archive.org/web/20261005051510/https://cinnapey.bandcamp.com/track/eshgh"
 title: Eshgh عشق | Cinna Peyghamy
 kind: web page
 language: en

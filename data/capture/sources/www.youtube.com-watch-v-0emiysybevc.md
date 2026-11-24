@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=0EMIysybEVc
+archive: "https://web.archive.org/web/20221130180608/https://www.youtube.com/watch?v=0EMIysybEVc"
 title: آزادی - آرش فولادوند و گروه کر بهار (Official)
 kind: youtube video
 tier: own

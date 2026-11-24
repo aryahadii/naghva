@@ -1,5 +1,6 @@
 ---
 url: https://casadellaculturairaniana.com/showPage.php?id=0000000046&tipo=
+archive: "https://web.archive.org/web/20260213154901/http://www.casadellaculturairaniana.com/showPage.php?id=0000000046&tipo="
 title: Contenuto della notizia
 tier: own
 kind: web page

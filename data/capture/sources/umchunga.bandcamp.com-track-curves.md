@@ -1,5 +1,6 @@
 ---
 url: https://umchunga.bandcamp.com/track/curves
+archive: "https://web.archive.org/web/20150920051033/http://umchunga.bandcamp.com:80/track/curves"
 title: Curves | Umchunga
 kind: web page
 language: en

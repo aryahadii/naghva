@@ -1,5 +1,6 @@
 ---
 url: https://efrenlopez.bandcamp.com/track/gosh-yesh-11-15
+archive: "https://web.archive.org/web/20261124073529/https://efrenlopez.bandcamp.com/track/gosh-yesh-11-15"
 title: Goshāyesh 11 & 15 | Araz Salek | Efrén López
 kind: web page
 tier: own

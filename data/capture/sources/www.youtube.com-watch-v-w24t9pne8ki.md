@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=W24T9pne8kI
+archive: "https://web.archive.org/web/20190511225808/https://www.youtube.com/watch?v=W24T9pne8kI"
 title: Bahar Choir is recruiting now
 kind: youtube video
 tier: own

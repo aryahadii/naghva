@@ -1,5 +1,6 @@
 ---
 url: https://juliendemoulin.bandcamp.com/track/dissolving-in-silence
+archive: "https://web.archive.org/web/20251221162516/https://juliendemoulin.bandcamp.com/track/dissolving-in-silence"
 title: Dissolving in Silence | julien demoulin
 kind: web page
 language: en

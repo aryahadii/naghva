@@ -1,5 +1,6 @@
 ---
 url: https://kopirecs.bandcamp.com/album/chimera
+archive: "https://web.archive.org/web/20250702102230/https://kopirecs.bandcamp.com/album/chimera"
 title: Chimera | ArtSaves | Kopi Records
 kind: web page
 language: en

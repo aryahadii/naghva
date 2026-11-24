@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/themastmusic/empress-of-tristeza-the-mast
+archive: "https://web.archive.org/web/20250815093557/https://soundcloud.com/themastmusic/empress-of-tristeza-the-mast"
 title: Empress Of - Tristeza (The Mast remix)
 tier: own
 language: en

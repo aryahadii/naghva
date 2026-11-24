@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/1L5gPzszR8OI2rX3WchNBP
+archive: "https://web.archive.org/web/20240204052156/https://open.spotify.com/album/1L5gPzszR8OI2rX3WchNBP"
 title: Sarbaze Khoda
 tier: discography
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://www.radiofarda.com/a/f35_Akhondi_Brabad/2035858.html
+archive: "https://web.archive.org/web/20260309125805/https://www.radiofarda.com/a/f35_Akhondi_Brabad/2035858.html"
 title: «سرمست»؛ مریم آخوندی و گروه باربد با آلبومی نو
 tier: journalism
 language: fa

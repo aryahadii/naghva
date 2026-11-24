@@ -1,5 +1,6 @@
 ---
 url: https://zabtesote.bandcamp.com/track/attract-repulse
+archive: "https://web.archive.org/web/20220804001359/https://zabtesote.bandcamp.com/track/attract-repulse"
 title: Attract/Repulse | Nima Aghiani | Zabte Sote
 kind: web page
 language: en

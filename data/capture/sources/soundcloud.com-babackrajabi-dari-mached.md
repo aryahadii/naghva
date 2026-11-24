@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/babackrajabi/dari-mached
+archive: "https://web.archive.org/web/20240904050527/https://soundcloud.com/babackrajabi/dari-mached"
 title: Dari Mached دری مچد · Babak Rajabi
 status: processed
 language: fa

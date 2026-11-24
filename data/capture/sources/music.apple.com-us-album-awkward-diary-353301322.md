@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/awkward-diary/353301322
+archive: "https://web.archive.org/web/20250810030351/https://music.apple.com/us/album/awkward-diary/353301322"
 title: Awkward Diary - Album by Ahoora - Apple Music
 language: en
 tier: discography

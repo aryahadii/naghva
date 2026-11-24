@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/soulnidus/03-i-can-only-sing-for-you
+archive: "https://web.archive.org/web/20230205033159/http://soundcloud.com/soulnidus/03-i-can-only-sing-for-you"
 title: Stream SOULNIDUS - I CAN ONLY SING FOR YOU by SOULNIDUS | Listen online for free on SoundCloud
 kind: web page
 tier: own

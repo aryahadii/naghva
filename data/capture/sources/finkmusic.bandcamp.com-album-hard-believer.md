@@ -1,5 +1,6 @@
 ---
 url: https://finkmusic.bandcamp.com/album/hard-believer
+archive: "https://web.archive.org/web/20261104100857/https://finkmusic.bandcamp.com/album/hard-believer"
 title: Hard Believer | Fink
 kind: web page
 language: en

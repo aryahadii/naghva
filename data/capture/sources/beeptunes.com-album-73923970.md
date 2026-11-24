@@ -1,5 +1,6 @@
 ---
 url: https://beeptunes.com/album/73923970
+archive: "https://web.archive.org/web/20210723165302/https://beeptunes.com/album/73923970"
 title: دانلود آلبوم بخوان بابک بوبان  + کیفیت 128 و 320 - بیپ تونز
 tier: discography
 language: fa

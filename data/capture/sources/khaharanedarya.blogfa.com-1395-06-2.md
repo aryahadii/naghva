@@ -1,5 +1,6 @@
 ---
 url: https://khaharanedarya.blogfa.com/1395/06/2
+archive: "https://web.archive.org/web/20181224132938/http://khaharanedarya.blogfa.com:80/1395/06/2"
 title: داستانی نه تازه
 tier: journalism
 language: fa

@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/17jQDSRLhWYvrmAysYBou5
+archive: "https://web.archive.org/web/20201102052808/https://open.spotify.com/album/17jQDSRLhWYvrmAysYBou5"
 title: 'Manushan: Beyond the Vision'
 tier: discography
 language: en

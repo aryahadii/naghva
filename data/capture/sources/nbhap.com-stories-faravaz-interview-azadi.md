@@ -1,5 +1,6 @@
 ---
 url: https://nbhap.com/stories/faravaz-interview-azadi
+archive: "https://web.archive.org/web/20260713095902/https://nbhap.com/stories/faravaz-interview-azadi"
 title: Faravaz on Her Debut Album "Azadi" | OFFKEY Interview
 tier: own
 language: en

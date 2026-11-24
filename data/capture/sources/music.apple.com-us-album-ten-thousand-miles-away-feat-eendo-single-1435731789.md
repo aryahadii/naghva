@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/ten-thousand-miles-away-feat-eendo-single/1435731789
+archive: "https://web.archive.org/web/20250918060851/https://music.apple.com/us/album/ten-thousand-miles-away-feat-eendo-single/1435731789"
 title: ‎Ten Thousand Miles Away (feat. Eendo) - Single - Album by Peyman Salimi - Apple Music
 kind: web page
 tier: discography

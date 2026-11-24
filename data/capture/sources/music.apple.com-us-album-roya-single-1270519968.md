@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/roya-single/1270519968
+archive: "https://web.archive.org/web/20240901120653/https://music.apple.com/us/album/roya-single/1270519968"
 title: Roya - Single
 tier: discography
 language: en

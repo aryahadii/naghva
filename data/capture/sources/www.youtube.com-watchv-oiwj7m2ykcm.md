@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=oiwj7m2YkCM
+archive: "https://web.archive.org/web/20230525131258/https://www.youtube.com/watch?v=oiwj7m2YkCM"
 title: اورنگ
 status: processed
 language: en

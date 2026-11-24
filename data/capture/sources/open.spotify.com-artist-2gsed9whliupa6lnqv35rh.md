@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/artist/2GsED9wHLIUPa6LNqv35RH
+archive: "https://web.archive.org/web/20230605155254/https://open.spotify.com/artist/2GsED9wHLIUPa6LNqv35RH"
 title: Listen to Farshid Arabi Songs | Spotify
 tier: discography
 language: en

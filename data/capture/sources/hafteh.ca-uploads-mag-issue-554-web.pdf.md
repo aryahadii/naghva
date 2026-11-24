@@ -1,5 +1,6 @@
 ---
 url: https://hafteh.ca/uploads/mag/issue-554-web.pdf
+archive: "https://web.archive.org/web/20261124081737/https://hafteh.ca/uploads/mag/issue-554-web.pdf"
 title: هفته، شمارهٔ ۵۵۴، رونمایی از آلبوم ناپیدا
 tier: journalism
 kind: web page

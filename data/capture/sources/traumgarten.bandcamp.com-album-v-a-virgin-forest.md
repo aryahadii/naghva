@@ -1,5 +1,6 @@
 ---
 url: https://traumgarten.bandcamp.com/album/v-a-virgin-forest
+archive: "https://web.archive.org/web/20260206130942/https://traumgarten.bandcamp.com/album/v-a-virgin-forest"
 title: V/A — Virgin Forest | traumgarten
 status: processed
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://eileanrec.bandcamp.com/track/telophase
+archive: "https://web.archive.org/web/20250601053121/https://eileanrec.bandcamp.com/track/telophase"
 title: Telophase | 9T Antiope | eilean rec.
 kind: web page
 language: en

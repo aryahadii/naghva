@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/pour-afrigha/1261117763
+archive: "https://web.archive.org/web/20230630235056/https://music.apple.com/us/album/pour-afrigha/1261117763"
 title: Pour-Afrigha
 tier: discography
 language: en

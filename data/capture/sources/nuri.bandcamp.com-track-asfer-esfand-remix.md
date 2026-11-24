@@ -1,5 +1,6 @@
 ---
 url: https://nuri.bandcamp.com/track/asfer-esfand-remix
+archive: "https://web.archive.org/web/20260208150931/https://nuri.bandcamp.com/track/asfer-esfand-remix"
 title: Asfer (Esfand remix) | Nuri
 kind: web page
 language: en

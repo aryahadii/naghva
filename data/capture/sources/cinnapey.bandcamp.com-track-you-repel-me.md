@@ -1,5 +1,6 @@
 ---
 url: https://cinnapey.bandcamp.com/track/you-repel-me
+archive: "https://web.archive.org/web/20261005230759/https://cinnapey.bandcamp.com/track/you-repel-me"
 title: You Repel Me | Cinna Peyghamy
 kind: web page
 language: en

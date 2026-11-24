@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=d9xhr58gYN0
+archive: "https://web.archive.org/web/20251226175205/https://www.youtube.com/watch?v=d9xhr58gYN0"
 title: عجم - بزم تابستونی در شیراز (ق. ۱) | Ajam's Summer Shindig in Shiraz (P.1)
 status: processed
 language: en

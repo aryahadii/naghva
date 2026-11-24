@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=e4UiI7KKGAY
+archive: "https://web.archive.org/web/20250126042125/https://www.youtube.com/watch?v=e4UiI7KKGAY"
 title: 'کاری متفاوت در موسیقی ایرانی- لباسخوانی: (4) پیرهن خ.PIRHAN'
 status: processed
 language: fa

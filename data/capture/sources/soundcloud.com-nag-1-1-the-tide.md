@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/nag-1-1/the-tide
+archive: "https://web.archive.org/web/20220815100253/https://soundcloud.com/nag-1-1/the-tide"
 title: The Tide
 tier: own
 kind: web page

@@ -1,5 +1,6 @@
 ---
 url: https://persian.iranhumanrights.org/1397/02/qa-wi-abjeez-music-band-about-staduim-video-clip/
+archive: "https://web.archive.org/web/20260519222242/https://persian.iranhumanrights.org/1397/02/qa-wi-abjeez-music-band-about-staduim-video-clip/"
 title: پرسش و پاسخ با گروه آبجیز درباره ویدیو کلیپ «استادیوم»
 tier: journalism
 language: fa

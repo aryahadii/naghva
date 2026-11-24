@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/kurdish-song-feat-marjan-vahdat-single/1484416569
+archive: "https://web.archive.org/web/20260303122303/https://music.apple.com/us/album/kurdish-song-feat-marjan-vahdat-single/1484416569"
 title: Kurdish Song (feat. Marjan Vahdat) - Single
 tier: discography
 language: en

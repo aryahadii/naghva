@@ -1,5 +1,6 @@
 ---
 url: https://avarasti.bandcamp.com/music
+archive: "https://web.archive.org/web/20261018065615/https://avarasti.bandcamp.com/music"
 title: Music | Ava Rasti
 kind: web page
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=jd__9F-2YWY
+archive: "https://web.archive.org/web/20250912214138/https://www.youtube.com/watch?v=jd__9F-2YWY"
 title: گل گندم - سارا حمیدی و آرش فولادوند (Official)
 kind: youtube video
 tier: own

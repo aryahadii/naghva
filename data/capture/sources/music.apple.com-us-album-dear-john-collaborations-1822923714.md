@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/dear-john-collaborations/1822923714
+archive: "https://web.archive.org/web/20260119171818/https://music.apple.com/us/album/dear-john-collaborations/1822923714"
 title: Dear John (Collaborations)
 tier: discography
 language: en

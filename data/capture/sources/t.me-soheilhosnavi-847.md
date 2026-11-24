@@ -1,5 +1,6 @@
 ---
 url: https://t.me/soheilhosnavi/847
+archive: "https://web.archive.org/web/20220521091744/https://t.me/soheilhosnavi/847"
 title: تک‌نوازی سنتور سهیل حُسنوی
 status: processed
 tier: own

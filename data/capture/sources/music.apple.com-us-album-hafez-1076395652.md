@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/hafez/1076395652
+archive: "https://web.archive.org/web/20260409194345/https://music.apple.com/us/album/hafez/1076395652"
 title: ‎Hafez - Album by Niaz Nawab - Apple Music
 kind: web page
 tier: discography

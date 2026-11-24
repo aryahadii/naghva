@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/embed/track/2TC5aQN7RlFU9zMLsaCTPh
+archive: "https://web.archive.org/web/20260307064549/https://open.spotify.com/embed/track/2TC5aQN7RlFU9zMLsaCTPh"
 title: Baroun Baroune
 tier: discography
 language: en

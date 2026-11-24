@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=922s6ekqsys
+archive: "https://web.archive.org/web/20170603223807/https://www.youtube.com/watch?v=922s6ekqsys&list=FL88DwQlioQrM7msyjDB-b2w"
 title: 'Reza Mohsenipour: Progetto Masnavì con Shahrokh Moshkin Ghalam,"Nostalgie" دلتنگی Parte 2'
 status: processed
 language: en

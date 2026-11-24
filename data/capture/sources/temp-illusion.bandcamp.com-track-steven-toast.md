@@ -1,5 +1,6 @@
 ---
 url: https://temp-illusion.bandcamp.com/track/steven-toast
+archive: "https://web.archive.org/web/20251018122307/https://temp-illusion.bandcamp.com/track/steven-toast"
 title: Steven Toast | Temp-Illusion
 kind: web page
 language: en

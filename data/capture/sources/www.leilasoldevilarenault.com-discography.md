@@ -1,5 +1,6 @@
 ---
 url: https://www.leilasoldevilarenault.com/discography
+archive: "https://web.archive.org/web/20260415121830/https://www.leilasoldevilarenault.com/discography"
 title: Leïla Soldevila, Discography
 tier: own
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://zamaaneh.com/news/2009/02/print_post_7954.html
+archive: "https://web.archive.org/web/20090216030931/http://zamaaneh.com:80/news/2009/02/print_post_7954.html"
 title: رادیو زمانه | خارج از سیاست | موسیقی | کنسرت خوانندگان زن ایرانی در لندن
 tier: journalism
 language: fa

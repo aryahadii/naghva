@@ -1,5 +1,6 @@
 ---
 url: https://temp-illusion.bandcamp.com/track/longing-for-rain
+archive: "https://web.archive.org/web/20260516125409/https://temp-illusion.bandcamp.com/track/longing-for-rain"
 title: Longing For Rain | Temp-Illusion
 kind: web page
 language: en

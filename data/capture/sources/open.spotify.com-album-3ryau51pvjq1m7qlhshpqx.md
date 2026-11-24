@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/3RYaU51PVjq1M7qLhsHpQX
+archive: "https://web.archive.org/web/20240930100004/https://open.spotify.com/album/3RYaU51PVjq1M7qLhsHpQX"
 title: Waging War Against God
 tier: discography
 language: en

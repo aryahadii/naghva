@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/avazeh-khan-nah-avaz-single/1554640290
+archive: "https://web.archive.org/web/20260312000301/https://music.apple.com/us/album/avazeh-khan-nah-avaz-single/1554640290"
 title: ‎Avazeh Khan Nah Avaz - Single - Album by Niaz Nawab & Erwin Khachikian - Apple Music
 kind: web page
 tier: discography

@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=sbSCUOTLZBo
+archive: "https://web.archive.org/web/20260204232623/https://www.youtube.com/watch?si=HxFwVbabEs8uLDP6&v=sbSCUOTLZBo&feature=youtu.be"
 title: 1. Néy Nâmé -  نی نامه (Arash Fouladvand feat Nigina Amonqulova, Sara Naeini and Vahid Taj)
 kind: youtube video
 tier: own

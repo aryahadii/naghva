@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/artist/47I5djO1Ngs5MvQ2MXveSg
+archive: "https://web.archive.org/web/20210927125107/https://open.spotify.com/artist/47I5djO1Ngs5MvQ2MXveSg"
 title: Listen to Sina Salimi Songs | Spotify
 kind: web page
 language: en

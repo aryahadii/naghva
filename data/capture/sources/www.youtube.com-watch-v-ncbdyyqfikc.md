@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=nCbDyyQfIKc
+archive: "https://web.archive.org/web/20211028202510/https://www.youtube.com/watch?v=nCbDyyQfIKc"
 title: Eendo - “Paayaan-e To, Paayaan-e Man”  |  ایندو - پایان تو، پایان من - YouTube
 kind: web page
 tier: own

@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/embed/album/7Gvmyi06assVqRapptY9Tr
+archive: "https://web.archive.org/web/20251013133640/https://open.spotify.com/embed/album/7Gvmyi06assVqRapptY9Tr"
 title: Voice Of Peace, Voice Of Solidarity - Arash Fouladvand | Spotify
 kind: web page
 tier: discography

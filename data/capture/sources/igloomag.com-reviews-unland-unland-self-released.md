@@ -1,5 +1,6 @@
 ---
 url: https://igloomag.com/reviews/unland-unland-self-released
+archive: "https://web.archive.org/web/20250221175440/https://igloomag.com/reviews/unland-unland-self-released"
 title: 'Unland :: Unland (Self-Released)'
 status: processed
 language: en

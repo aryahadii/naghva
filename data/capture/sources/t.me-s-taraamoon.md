@@ -1,5 +1,6 @@
 ---
 url: https://t.me/s/Taraamoon
+archive: "https://web.archive.org/web/20221103040511/https://t.me/s/Taraamoon"
 title: TARAAMOON • تَرامون – Telegram
 kind: web page
 language: fa

@@ -1,5 +1,6 @@
 ---
 url: https://www.bbc.com/persian/articles/cn45yljzlz3o
+archive: "https://web.archive.org/web/20260107110034/https://www.bbc.com/persian/articles/cn45yljzlz3o"
 title: 'مستندی درباره شروین حاجی‌پور: «بزرگ‌ترین دردهایم به بهترین ترانه‌هایم تبدیل شدند»  - BBC News فارسی'
 tier: journalism
 language: fa

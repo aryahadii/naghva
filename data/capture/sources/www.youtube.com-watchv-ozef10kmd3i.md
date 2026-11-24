@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=ozef10KMd3I
+archive: "https://web.archive.org/web/20240210002023/https://www.youtube.com/watch?v=ozef10KMd3I"
 title: Ajam - Che konam? / عجم - چه کنم؟
 status: processed
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/assumption/916829001
+archive: "https://web.archive.org/web/20250806165012/https://music.apple.com/us/album/assumption/916829001"
 title: ‎Assumption - Album by Soheil Peyghambari - Apple Music
 kind: web page
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=zYlGcwEsakE
+archive: "https://web.archive.org/web/20260304111116/https://www.youtube.com/watch?v=zYlGcwEsakE"
 title: Absence - Niaz Nawab - نیاز نواب - YouTube
 kind: web page
 tier: own

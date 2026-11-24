@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/artist/4O8DQCEBU9I1wQ274THitE
+archive: "https://web.archive.org/web/20260701203216/https://open.spotify.com/artist/4O8DQCEBU9I1wQ274THitE"
 title: Listen to Shervin Hajipour Songs | Spotify
 tier: discography
 language: en

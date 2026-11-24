@@ -1,5 +1,6 @@
 ---
 url: https://iranian.com/Music/BlurredVision/
+archive: "https://web.archive.org/web/20170520074222/http://www.iranian.com:80/Music/BlurredVision/"
 title: East dances with West
 kind: web page
 tier: journalism

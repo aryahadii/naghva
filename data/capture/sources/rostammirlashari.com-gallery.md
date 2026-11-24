@@ -1,5 +1,6 @@
 ---
 url: https://rostammirlashari.com/gallery/
+archive: "https://web.archive.org/web/20260713220043/https://rostammirlashari.com/gallery/"
 title: Gallery – Rostam Mirlashari
 tier: own
 language: en

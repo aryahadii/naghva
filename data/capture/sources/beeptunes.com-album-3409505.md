@@ -1,5 +1,6 @@
 ---
 url: https://beeptunes.com/album/3409505/باراد
+archive: "https://web.archive.org/web/20260213141257/https://beeptunes.com/album/3409505/%D8%A8%D8%A7%D8%B1%D8%A7%D8%AF"
 title: دانلود آلبوم باراد گروه باراد  + کیفیت 128 و 320 - بیپ تونز
 kind: web page
 tier: discography

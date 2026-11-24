@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/nag-1-1/ensemble-shanbehzadeh
+archive: "https://web.archive.org/web/20260320162108/https://soundcloud.com/nag-1-1/ensemble-shanbehzadeh"
 title: Ensemble Shanbehzadeh - Machiavelli
 tier: own
 kind: web page

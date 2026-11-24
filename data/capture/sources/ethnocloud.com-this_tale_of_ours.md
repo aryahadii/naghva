@@ -1,5 +1,6 @@
 ---
 url: https://ethnocloud.com/This_tale_of_ours/
+archive: "https://web.archive.org/web/20220124054535/https://ethnocloud.com/This_tale_of_ours/"
 title: This Tale Of Ours
 kind: web page
 tier: own

@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=8ma24Glzk8c
+archive: "https://web.archive.org/web/20230514183921/https://www.youtube.com/watch?v=8ma24Glzk8c"
 title: کوچه - دریا دادور و مهرداد بران (Official)
 kind: youtube video
 tier: own

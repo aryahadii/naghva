@@ -1,5 +1,6 @@
 ---
 url: https://tirgan.ca/b/tirgan2017/event/regard-persan-rumi-canada/
+archive: "https://web.archive.org/web/20260712152352/https://tirgan.ca/b/tirgan2017/event/regard-persan-rumi-canada/"
 title: 'Inner Journey: Sufi Music and Dance (Opening Ceremony) – Tirgan'
 tier: own
 kind: web page

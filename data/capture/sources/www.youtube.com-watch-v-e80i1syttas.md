@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=E80I1sYTTas
+archive: "https://web.archive.org/web/20260409014037/https://www.youtube.com/watch?v=E80I1sYTTas"
 title: 2. Yousof Gom Gashteh - یوسف گم گشته - (Arash Fouladvand feat Mahdieh, Mehrnigori and Sina)
 kind: youtube video
 tier: own

@@ -1,5 +1,6 @@
 ---
 url: https://eishanensemble.bandcamp.com/track/street
+archive: "https://web.archive.org/web/20250827202227/https://eishanensemble.bandcamp.com/track/street"
 title: Street | Eishan Ensemble
 kind: web page
 tier: own

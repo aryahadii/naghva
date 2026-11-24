@@ -1,5 +1,6 @@
 ---
 url: https://glenhansard.bandcamp.com/album/this-wild-willing
+archive: "https://web.archive.org/web/20260906103225/https://glenhansard.bandcamp.com/album/this-wild-willing"
 title: This Wild Willing | Glen Hansard
 tier: own
 language: en

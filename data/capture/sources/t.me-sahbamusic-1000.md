@@ -1,5 +1,6 @@
 ---
 url: https://t.me/Sahbamusic/1000
+archive: "https://web.archive.org/web/20251229014537/https://t.me/Sahbamusic/1000"
 title: دستگاه سه گاه، اجرای کامل گوشه مغلوب از ردیف دوره عالی استاد شهنازی
 status: processed
 language: fa

@@ -1,5 +1,6 @@
 ---
 url: https://www.nuclearblast.com/pages/album/mourn-the-southern-skies
+archive: "https://web.archive.org/web/20260606033254/https://www.nuclearblast.com/pages/album/mourn-the-southern-skies"
 title: Exhorder - Mourn The Southern Skies
 tier: own
 language: en

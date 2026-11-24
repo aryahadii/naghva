@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/empty-voices/1734752398
+archive: "https://web.archive.org/web/20251222205726/https://music.apple.com/us/album/empty-voices/1734752398"
 title: ‎Empty Voices - Album by Hamed Sadeghi - Apple Music
 kind: web page
 tier: discography

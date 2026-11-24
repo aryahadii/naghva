@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/asadimusic/kingdom-of-the-lors-1
+archive: "https://web.archive.org/web/20221027163554/https://soundcloud.com/asadimusic/kingdom-of-the-lors-1"
 title: KINGDOM OF THE LORS
 tier: own
 language: en

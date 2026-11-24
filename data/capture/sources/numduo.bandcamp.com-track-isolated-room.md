@@ -1,5 +1,6 @@
 ---
 url: https://numduo.bandcamp.com/track/isolated-room
+archive: "https://web.archive.org/web/20220621172832/https://numduo.bandcamp.com/track/isolated-room"
 title: Isolated Room | NUM
 kind: web page
 language: en

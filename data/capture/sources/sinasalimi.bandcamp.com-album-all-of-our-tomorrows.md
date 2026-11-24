@@ -1,5 +1,6 @@
 ---
 url: https://sinasalimi.bandcamp.com/album/all-of-our-tomorrows
+archive: "https://web.archive.org/web/20210126185925/https://sinasalimi.bandcamp.com/album/all-of-our-tomorrows"
 title: All of Our Tomorrows / تمام فرداهای ما | Sina Salimi
 kind: web page
 language: en

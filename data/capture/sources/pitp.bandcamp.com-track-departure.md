@@ -1,5 +1,6 @@
 ---
 url: https://pitp.bandcamp.com/track/departure
+archive: "https://web.archive.org/web/20240928002512/https://pitp.bandcamp.com/track/departure"
 title: Departure | Maryam Sirvan | Past Inside the Present
 kind: web page
 language: en

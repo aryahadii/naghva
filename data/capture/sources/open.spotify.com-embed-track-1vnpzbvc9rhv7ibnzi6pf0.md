@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/embed/track/1VnpZbvC9rHV7IbNzI6Pf0
+archive: "https://web.archive.org/web/20260307065215/https://open.spotify.com/embed/track/1VnpZbvC9rHV7IbNzI6Pf0"
 title: Zendegi Shirineh
 tier: discography
 language: en

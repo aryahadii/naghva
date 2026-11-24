@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=PsDCi_EI9O0
+archive: "https://web.archive.org/web/20250621080831/https://www.youtube.com/watch?v=PsDCi_EI9O0&pp=0gcJCb4JAYcqIYzv"
 title: Samin Ghorbani  • پريشاني Perplexity, a song about spirituality
 status: processed
 language: en

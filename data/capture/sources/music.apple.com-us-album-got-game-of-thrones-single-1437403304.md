@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/got-game-of-thrones-single/1437403304
+archive: "https://web.archive.org/web/20240901120653/https://music.apple.com/us/album/got-game-of-thrones-single/1437403304"
 title: GOT (Game of Thrones) - Single
 tier: discography
 language: en

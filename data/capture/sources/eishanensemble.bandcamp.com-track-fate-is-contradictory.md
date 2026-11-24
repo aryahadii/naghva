@@ -1,5 +1,6 @@
 ---
 url: https://eishanensemble.bandcamp.com/track/fate-is-contradictory
+archive: "https://web.archive.org/web/20260506050013/https://eishanensemble.bandcamp.com/track/fate-is-contradictory"
 title: Fate is Contradictory | Eishan Ensemble
 kind: web page
 tier: own

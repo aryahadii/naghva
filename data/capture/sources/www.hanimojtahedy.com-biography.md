@@ -1,5 +1,6 @@
 ---
 url: https://www.hanimojtahedy.com/biography
+archive: "https://web.archive.org/web/20260715013511/https://www.hanimojtahedy.com/biography"
 title: BIOGRAPHY | Hani Mojtahedy
 status: processed
 language: en

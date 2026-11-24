@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/0Nz7OUwNCQ8sWD6ycIqOlp
+archive: "https://web.archive.org/web/20210220073549/https://open.spotify.com/album/0Nz7OUwNCQ8sWD6ycIqOlp"
 title: Irā
 tier: discography
 language: en

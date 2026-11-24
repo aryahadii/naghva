@@ -1,5 +1,6 @@
 ---
 url: https://t.me/soheilhosnavi/1024
+archive: "https://web.archive.org/web/20260120213240/https://t.me/soheilhosnavi/1024"
 title: The Banner of Tresses
 status: processed
 tier: own

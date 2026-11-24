@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/phoenix-rises-single/1440540440
+archive: "https://web.archive.org/web/20221206005934/https://music.apple.com/us/album/phoenix-rises-single/1440540440"
 title: Phoenix Rises - Single
 tier: discography
 language: en

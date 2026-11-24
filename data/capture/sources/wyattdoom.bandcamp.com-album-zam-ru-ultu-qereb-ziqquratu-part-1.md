@@ -1,5 +1,6 @@
 ---
 url: https://wyattdoom.bandcamp.com/album/zam-ru-ultu-qereb-ziqquratu-part-1
+archive: "https://web.archive.org/web/20260310094228/https://wyattdoom.bandcamp.com/album/zam-ru-ultu-qereb-ziqquratu-part-1"
 title: zamāru ultu qereb ziqquratu Part 1 | Wyatt E.
 tier: own
 language: en

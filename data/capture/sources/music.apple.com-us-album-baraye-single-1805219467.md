@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/baraye-single/1805219467
+archive: "https://web.archive.org/web/20261114080643/https://music.apple.com/us/album/baraye-single/1805219467"
 title: Baraye - Single
 tier: discography
 language: en

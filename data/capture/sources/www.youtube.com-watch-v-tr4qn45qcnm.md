@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=Tr4QN45QCNM
+archive: "https://web.archive.org/web/20260223041101/https://www.youtube.com/watch?v=Tr4QN45QCNM"
 title: 2. Golé Sorkh -  گل سرخ (Arash Fouladvand feat Nigina Amonqulova) at UNESCO
 kind: youtube video
 tier: own

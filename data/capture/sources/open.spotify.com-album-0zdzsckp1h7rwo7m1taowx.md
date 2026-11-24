@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/0zdZSCKp1H7RWO7m1TaowX
+archive: "https://web.archive.org/web/20260226110649/https://open.spotify.com/album/0zdZSCKp1H7RWO7m1TaowX"
 title: Listen to Transitory - Album by Sheen Trio | Spotify
 status: processed
 language: en

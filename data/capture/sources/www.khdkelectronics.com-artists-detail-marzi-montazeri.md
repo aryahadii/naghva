@@ -1,5 +1,6 @@
 ---
 url: https://www.khdkelectronics.com/artists/detail/marzi-montazeri/
+archive: "https://web.archive.org/web/20260618143819/https://www.khdkelectronics.com/artists/detail/marzi-montazeri/"
 title: Marzi Montazeri
 tier: own
 language: en

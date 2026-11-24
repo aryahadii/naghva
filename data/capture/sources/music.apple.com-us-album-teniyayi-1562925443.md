@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/teniyayi/1562925443
+archive: "https://web.archive.org/web/20210428013926/https://music.apple.com/us/album/teniyayi/1562925443"
 title: ‎Teniyayi - Single - Album by Hani Mojtahedy - Apple Music
 status: processed
 language: en

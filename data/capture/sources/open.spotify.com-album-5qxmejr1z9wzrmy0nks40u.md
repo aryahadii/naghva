@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/5QxMEjr1z9wzRmY0nks40U
+archive: "https://web.archive.org/web/20200518110440/https://open.spotify.com/album/5QxMEjr1z9wzRmY0nks40U"
 title: Tre vise menn
 tier: discography
 language: en

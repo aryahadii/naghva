@@ -1,5 +1,6 @@
 ---
 url: https://faravaz.bandcamp.com/track/fuck-me-in-the-ass
+archive: "https://web.archive.org/web/20261124075723/https://faravaz.bandcamp.com/track/fuck-me-in-the-ass"
 title: Fuck me in the Ass
 tier: discography
 language: en

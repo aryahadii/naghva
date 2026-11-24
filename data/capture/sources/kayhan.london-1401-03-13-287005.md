@@ -1,5 +1,6 @@
 ---
 url: https://kayhan.london/1401/03/13/287005/
+archive: "https://web.archive.org/web/20230429234054/https://kayhan.london/1401/03/13/287005/"
 title: 'بابک رجبی هنرمند ساکن فرانسه: پایه موسیقی ریاضی و فیزیک است و هنر می‌تواند هر صدایی را به موسیقی تبدیل کند -
   KayhanLondon کیهان لندن'
 status: processed

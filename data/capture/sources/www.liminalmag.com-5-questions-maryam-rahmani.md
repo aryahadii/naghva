@@ -1,5 +1,6 @@
 ---
 url: https://www.liminalmag.com/5-questions/maryam-rahmani
+archive: "https://web.archive.org/web/20260908023236/https://www.liminalmag.com/5-questions/maryam-rahmani"
 title: 5 Questions with Maryam Rahmani — LIMINAL
 kind: web page
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=ED-oN5gSBu0
+archive: "https://web.archive.org/web/20230314114132/https://www.youtube.com/watch?v=ED-oN5gSBu0"
 title: 'Christine Zayed : Riverside (Ensemble Chakâm)'
 status: processed
 language: en

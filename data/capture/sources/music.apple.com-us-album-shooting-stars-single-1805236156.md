@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/shooting-stars-single/1805236156
+archive: "https://web.archive.org/web/20250807060144/https://music.apple.com/us/album/shooting-stars-single/1805236156"
 title: Shooting Stars - Single
 tier: discography
 language: en

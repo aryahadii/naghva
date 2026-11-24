@@ -1,5 +1,6 @@
 ---
 url: https://www.loudersound.com/features/lowen-nina-saeidi-10-records-that-changed-my-life
+archive: "https://web.archive.org/web/20260308025749/https://www.loudersound.com/features/lowen-nina-saeidi-10-records-that-changed-my-life"
 title: 'Lowen''s Nina Saeidi: 10 records that changed my life | Louder'
 tier: journalism
 language: en

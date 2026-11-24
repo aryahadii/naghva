@@ -1,5 +1,6 @@
 ---
 url: https://faravaz.bandcamp.com/track/mullah
+archive: "https://web.archive.org/web/20261124075753/https://faravaz.bandcamp.com/track/mullah"
 title: Mullah
 tier: discography
 language: en

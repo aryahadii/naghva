@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=vHd4GTb7lSk
+archive: "https://web.archive.org/web/20230320210229/https://www.youtube.com/watch?v=vHd4GTb7lSk"
 title: Sina Salimi - Who by Fire (Leonard Cohen cover) - feat. Diana Planche
 kind: web page
 language: en

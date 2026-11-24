@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/artist/097Dd3JcsJUbipdNiQ5vXA
+archive: "https://web.archive.org/web/20260111071719/https://open.spotify.com/artist/097Dd3JcsJUbipdNiQ5vXA"
 title: Siriya Ensemble
 tier: own
 language: en

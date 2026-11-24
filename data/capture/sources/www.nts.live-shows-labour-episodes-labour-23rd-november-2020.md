@@ -1,5 +1,6 @@
 ---
 url: https://www.nts.live/shows/labour/episodes/labour-23rd-november-2020
+archive: "https://web.archive.org/web/20260117194822/https://www.nts.live/shows/labour/episodes/labour-23rd-november-2020"
 title: Labour w/ Hani Mojtahedy  23rd November 2020 | Listen on NTS
 status: processed
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://www.nts.live/shows/labour/episodes/labour-11th-april-2026
+archive: "https://web.archive.org/web/20260807114454/https://www.nts.live/shows/labour/episodes/labour-11th-april-2026"
 title: Labour w/ Pape Thiopet 11th April 2026 | Listen on NTS
 status: processed
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://faravaz.bandcamp.com/album/saffron-ep
+archive: "https://web.archive.org/web/20261124075259/https://faravaz.bandcamp.com/album/saffron-ep"
 title: Saffron EP | Faravaz
 tier: own
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://ir-women.com/19982
+archive: "https://web.archive.org/web/20250626095846/https://ir-women.com/19982"
 title: در ضرورت پیوند؛«بیرق گیسوان»اثر رُهام سبحانی برای «زن، زندگی، آزادی» | کانون زنان ایرانی
 status: processed
 language: fa

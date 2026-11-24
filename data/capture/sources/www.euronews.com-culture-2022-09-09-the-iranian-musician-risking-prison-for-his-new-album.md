@@ -1,5 +1,6 @@
 ---
 url: https://www.euronews.com/culture/2022/09/09/the-iranian-musician-risking-prison-for-his-new-album
+archive: "https://web.archive.org/web/20240615232718/https://www.euronews.com/culture/2022/09/09/the-iranian-musician-risking-prison-for-his-new-album"
 title: The Iranian musician risking prison for his new album | Euronews
 tier: journalism
 language: en

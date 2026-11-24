@@ -1,5 +1,6 @@
 ---
 url: https://www.groundcontrolparis.com/journee-mondiale-du-refugie/
+archive: "https://web.archive.org/web/20260720042810/https://www.groundcontrolparis.com/journee-mondiale-du-refugie/"
 title: Journée mondiale du réfugié - Ground Control
 tier: own
 language: fr

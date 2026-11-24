@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/7L6qcMyucXZmulFMLb87e9
+archive: "https://web.archive.org/web/20201201220642/https://open.spotify.com/album/7L6qcMyucXZmulFMLb87e9"
 title: Wind Between the Horse's Ears
 tier: discography
 language: en

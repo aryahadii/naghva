@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/divarrecords/parakanderooz
+archive: "https://web.archive.org/web/20230326013602/https://soundcloud.com/divarrecords/parakanderooz"
 title: Stream Atour X Taraamoon - Parākandeh-Rooz | پراکنده‌روز by Divar | Listen online for free on SoundCloud
 kind: web page
 language: en

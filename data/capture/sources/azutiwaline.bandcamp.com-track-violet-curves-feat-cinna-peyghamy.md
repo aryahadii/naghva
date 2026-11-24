@@ -1,5 +1,6 @@
 ---
 url: https://azutiwaline.bandcamp.com/track/violet-curves-feat-cinna-peyghamy
+archive: "https://web.archive.org/web/20250601082232/https://azutiwaline.bandcamp.com/track/violet-curves-feat-cinna-peyghamy"
 title: Violet Curves feat Cinna Peyghamy | Azu Tiwaline
 kind: web page
 language: en

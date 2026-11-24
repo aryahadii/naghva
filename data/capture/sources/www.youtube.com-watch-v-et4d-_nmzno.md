@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=ET4D-_Nmzno
+archive: "https://web.archive.org/web/20250817213532/https://www.youtube.com/watch?v=ET4D-_Nmzno"
 title: Hagh- Niaz Nawab حق - نیاز نواب - YouTube
 kind: web page
 tier: own

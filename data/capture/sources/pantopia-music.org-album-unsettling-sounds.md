@@ -1,5 +1,6 @@
 ---
 url: https://pantopia-music.org/album/unsettling-sounds/
+archive: "https://web.archive.org/web/20260810111442/https://www.pantopia-music.org/album/unsettling-sounds/"
 title: Unsettling Sounds von Trickster Orchestra / Cymin Samawatie / Ketan Bhatti | Pantopia Music
 tier: discography
 language: de

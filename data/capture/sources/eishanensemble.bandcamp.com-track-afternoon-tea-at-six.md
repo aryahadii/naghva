@@ -1,5 +1,6 @@
 ---
 url: https://eishanensemble.bandcamp.com/track/afternoon-tea-at-six
+archive: "https://web.archive.org/web/20220707115136/https://eishanensemble.bandcamp.com/track/afternoon-tea-at-six"
 title: Afternoon Tea at Six | Eishan Ensemble
 kind: web page
 tier: own

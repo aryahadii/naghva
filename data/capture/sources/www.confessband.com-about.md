@@ -1,5 +1,6 @@
 ---
 url: https://www.confessband.com/about
+archive: "https://web.archive.org/web/20260810165751/https://www.confessband.com/about"
 title: ABOUT | Confess Band
 tier: own
 language: en

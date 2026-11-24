@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/live-in-edmonton/1597063200
+archive: "https://web.archive.org/web/20260418083008/https://music.apple.com/us/album/live-in-edmonton/1597063200"
 title: ‎Live In Edmonton - Album by Serj Tankian - Apple Music
 kind: web page
 tier: discography

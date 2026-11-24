@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/hamin-lahzeh/1164397044
+archive: "https://web.archive.org/web/20250405055323/https://music.apple.com/us/album/hamin-lahzeh/1164397044"
 title: ‎Hamin Lahzeh - Album by Eendo - Apple Music
 kind: web page
 tier: discography

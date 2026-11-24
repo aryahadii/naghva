@@ -1,5 +1,6 @@
 ---
 url: https://t.me/mahoorinstitute/3253
+archive: "https://web.archive.org/web/20220529094442/https://t.me/mahoorinstitute/3253"
 title: آموزش نی‌انبان
 tier: own
 language: fa

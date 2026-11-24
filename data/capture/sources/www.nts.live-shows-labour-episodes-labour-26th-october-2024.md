@@ -1,5 +1,6 @@
 ---
 url: https://www.nts.live/shows/labour/episodes/labour-26th-october-2024
+archive: "https://web.archive.org/web/20260810053029/https://www.nts.live/shows/labour/episodes/labour-26th-october-2024"
 title: LABOUR w/ Touty Mbaye & Absa Samb 26th October 2024 | Listen on NTS
 status: processed
 language: en

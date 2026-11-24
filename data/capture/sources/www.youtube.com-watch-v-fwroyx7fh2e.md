@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=FWrOyx7fH2E
+archive: "https://web.archive.org/web/20260402163510/https://www.youtube.com/watch?v=FWrOyx7fH2E"
 title: 1. Chékidèh Eshgh - چکیده عشق - (Arash Fouladvand feat Mahdieh, Sitorai and Sina)
 kind: youtube video
 tier: own

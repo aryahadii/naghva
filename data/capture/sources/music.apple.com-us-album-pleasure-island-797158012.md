@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/pleasure-island/797158012
+archive: "https://web.archive.org/web/20251230074007/https://music.apple.com/us/album/pleasure-island/797158012"
 title: Pleasure Island
 tier: own
 language: en

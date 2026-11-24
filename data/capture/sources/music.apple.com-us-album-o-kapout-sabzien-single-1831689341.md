@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/o-kapout-sabzien-single/1831689341
+archive: "https://web.archive.org/web/20260308185438/https://music.apple.com/us/album/o-kapout-sabzien-single/1831689341"
 title: O Kapout Sabzien - Single
 tier: discography
 language: en

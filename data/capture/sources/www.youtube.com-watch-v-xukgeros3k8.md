@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=xuKGeROS3K8
+archive: "https://web.archive.org/web/20231215183121/https://www.youtube.com/watch?v=xuKGeROS3K8"
 title: Out of My Head (Cover)
 kind: web page
 language: en

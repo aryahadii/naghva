@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/7GOPVbVsmrQOVVFh5HBcoa
+archive: "https://web.archive.org/web/20241209075358/https://open.spotify.com/album/7GOPVbVsmrQOVVFh5HBcoa"
 title: A Table for Two
 tier: discography
 language: en

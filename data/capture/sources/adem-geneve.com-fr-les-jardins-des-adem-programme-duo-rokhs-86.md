@@ -1,5 +1,6 @@
 ---
 url: https://adem-geneve.com/fr/les-jardins-des-adem-programme/duo-rokhs-86
+archive: "https://web.archive.org/web/20251116094403/https://adem-geneve.com/fr/les-jardins-des-adem-programme/duo-rokhs-86"
 title: Ateliers d'ethnomusicologie - Musiques et Danses du Monde à Genève
 status: processed
 language: en

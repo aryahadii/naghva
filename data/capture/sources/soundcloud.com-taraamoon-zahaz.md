@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/taraamoon/zahaz
+archive: "https://web.archive.org/web/20221103040920/https://soundcloud.com/taraamoon/zahaz"
 title: Stream Zahāz | زَهازْ by TARAAMOON • ْتَرامون | Listen online for free on SoundCloud
 kind: web page
 language: en

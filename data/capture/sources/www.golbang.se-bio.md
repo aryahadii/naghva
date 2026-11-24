@@ -1,5 +1,6 @@
 ---
 url: https://www.golbang.se/bio
+archive: "https://web.archive.org/web/20251209041140/https://golbang.se/bio"
 title: Biography | Golbang
 tier: own
 language: en

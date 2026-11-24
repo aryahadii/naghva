@@ -1,5 +1,6 @@
 ---
 url: https://t.me/Sahbamusic/1081
+archive: "https://web.archive.org/web/20251229100718/https://t.me/Sahbamusic/1081"
 title: آواز بیات اصفهان، اجرای کامل درآمد یا کرشمه، ردیف دوره عالی استاد شهنازی
 status: processed
 language: fa

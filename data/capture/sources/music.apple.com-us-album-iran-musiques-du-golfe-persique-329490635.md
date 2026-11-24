@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/iran-musiques-du-golfe-persique/329490635
+archive: "https://web.archive.org/web/20250218120357/https://music.apple.com/us/album/iran-musiques-du-golfe-persique/329490635"
 title: 'Iran: Musiques du Golfe Persique'
 tier: discography
 language: en

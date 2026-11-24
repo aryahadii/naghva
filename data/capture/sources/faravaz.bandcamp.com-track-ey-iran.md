@@ -1,5 +1,6 @@
 ---
 url: https://faravaz.bandcamp.com/track/ey-iran
+archive: "https://web.archive.org/web/20261124075653/https://faravaz.bandcamp.com/track/ey-iran"
 title: Ey Iran
 tier: discography
 language: en

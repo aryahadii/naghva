@@ -1,5 +1,6 @@
 ---
 url: https://www.eishanensemble.com/albums
+archive: "https://web.archive.org/web/20240125090053/https://www.eishanensemble.com/albums"
 title: Albums — Eishan Ensemble
 kind: web page
 tier: own

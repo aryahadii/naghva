@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/62W3YukxIIGZFy6ESAalFO
+archive: "https://web.archive.org/web/20190113010600/https://open.spotify.com/album/62W3YukxIIGZFy6ESAalFO"
 title: Listen to Berlin 2015/16
 tier: discography
 language: en

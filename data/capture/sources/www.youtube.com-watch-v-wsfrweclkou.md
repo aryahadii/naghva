@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=WsFRwEcLkoU
+archive: "https://web.archive.org/web/20250109023458/https://www.youtube.com/watch?v=WsFRwEcLkoU"
 title: Eendo & Hossein Mansouri - Sharghi e Ghamgin (Cover)    ایندو و حسین منصوری - شرقی غمگین - YouTube
 kind: web page
 tier: own

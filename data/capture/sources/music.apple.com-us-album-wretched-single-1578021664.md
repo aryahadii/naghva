@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/wretched-single/1578021664
+archive: "https://web.archive.org/web/20261006091745/https://music.apple.com/us/album/wretched-single/1578021664"
 title: Wretched - Single
 tier: discography
 language: en

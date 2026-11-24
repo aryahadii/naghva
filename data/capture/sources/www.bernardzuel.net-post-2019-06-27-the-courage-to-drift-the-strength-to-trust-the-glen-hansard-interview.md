@@ -1,5 +1,6 @@
 ---
 url: https://www.bernardzuel.net/post/2019/06/27/the-courage-to-drift-the-strength-to-trust-the-glen-hansard-interview
+archive: "https://web.archive.org/web/20260605230025/https://www.bernardzuel.net/post/2019/06/27/the-courage-to-drift-the-strength-to-trust-the-glen-hansard-interview"
 title: 'THE COURAGE TO DRIFT, THE STRENGTH TO TRUST: THE GLEN HANSARD INTERVIEW'
 tier: journalism
 language: en

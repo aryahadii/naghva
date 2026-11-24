@@ -1,5 +1,6 @@
 ---
 url: https://themuckersband.bandcamp.com/track/thunderstorm
+archive: "https://web.archive.org/web/20250910002104/https://themuckersband.bandcamp.com/track/thunderstorm"
 title: Thunderstorm | The Muckers
 kind: web page
 tier: own

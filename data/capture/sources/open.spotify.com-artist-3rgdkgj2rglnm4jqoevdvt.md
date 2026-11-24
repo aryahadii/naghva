@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/artist/3RGDkgJ2rGLnm4JqoEvdVT
+archive: "https://web.archive.org/web/20260924024159/https://open.spotify.com/artist/3RGDkgJ2rGLnm4JqoEvdVT"
 title: Listen to Ali Ghamsari Songs | Spotify
 tier: own
 language: en

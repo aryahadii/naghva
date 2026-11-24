@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/4tMCw4YQsvJfQzwUnrYeuX
+archive: "https://web.archive.org/web/20241130115728/https://open.spotify.com/album/4tMCw4YQsvJfQzwUnrYeuX"
 title: Listen to Beyond Music Vol. 3 - Conflict - Album by Beyond Music | Spotify
 status: processed
 language: en

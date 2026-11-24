@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/thefinchesband/amme-live-version
+archive: "https://web.archive.org/web/20240711005555/https://soundcloud.com/thefinchesband/amme-live-version"
 title: Stream Amme (Live Version) by The Finches | Listen online for free on SoundCloud
 kind: web page
 language: en

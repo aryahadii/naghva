@@ -1,5 +1,6 @@
 ---
 url: https://hamedsadeghi.bandcamp.com/album/comfortable
+archive: "https://web.archive.org/web/20261115143129/https://hamedsadeghi.bandcamp.com/album/comfortable"
 title: Comfortable | Hamed Sadeghi
 kind: web page
 tier: own

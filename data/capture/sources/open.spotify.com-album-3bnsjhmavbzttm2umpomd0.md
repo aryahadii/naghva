@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/3bnsjhmAVBZTTm2umPomD0
+archive: "https://web.archive.org/web/20260119153307/https://open.spotify.com/album/3bnsjhmAVBZTTm2umPomD0"
 title: Essence (Original Motion Picture Soundtrack)
 tier: discography
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/artist/5aIWNyQhH7GELkGMLDOZ3k
+archive: "https://web.archive.org/web/20200118195916/https://open.spotify.com/artist/5aIWNyQhH7GELkGMLDOZ3k"
 title: Adrienne Shamszad
 tier: own
 language: en

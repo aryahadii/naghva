@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/3KwJf5P6K0qvthao9Z5DTW
+archive: "https://web.archive.org/web/20190821082458/https://open.spotify.com/album/3KwJf5P6K0qvthao9Z5DTW"
 title: Saburi
 tier: discography
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://mahmoodschricker.bandcamp.com/track/salma-feat-maryem-tollar
+archive: "https://web.archive.org/web/20150519011053/http://mahmoodschricker.bandcamp.com:80/track/salma-feat-maryem-tollar"
 title: Salma (feat. Maryem Tollar) | Mahmood Schricker
 kind: web page
 language: en

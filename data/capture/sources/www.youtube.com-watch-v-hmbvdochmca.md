@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=HmbvDOChMcA
+archive: "https://web.archive.org/web/20230401043159/https://www.youtube.com/watch?v=HmbvDOChMcA"
 title: شادی آزادی - Shâdié Âzadi (Arash Fouladvand, Vahid Taj, Keivan Saket & Houshang Ebtehaj)
 kind: youtube video
 tier: own

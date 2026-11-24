@@ -1,5 +1,6 @@
 ---
 url: https://afarinnazarijou.com/music/eternal-glimpse/
+archive: "https://web.archive.org/web/20261124005439/https://afarinnazarijou.com/music/eternal-glimpse/"
 title: Eternal Glimpse – Afarin Nazarijou
 status: processed
 language: en

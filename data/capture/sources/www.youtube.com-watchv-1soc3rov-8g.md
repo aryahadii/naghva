@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=1SoC3rOV-8g
+archive: "https://web.archive.org/web/20260228233328/https://www.youtube.com/watch?v=1SoC3rOV-8g"
 title: Ensemble Chakâm-Live @Culturebox l'émission-"Tant qu'il y aura des vagues"
 status: processed
 language: en

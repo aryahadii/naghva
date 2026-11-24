@@ -1,5 +1,6 @@
 ---
 url: https://finchesband.bandcamp.com/track/the-house-that-burned
+archive: "https://web.archive.org/web/20221015184611/https://finchesband.bandcamp.com/track/the-house-that-burned"
 title: The House That Burned | The Finches
 kind: web page
 language: en

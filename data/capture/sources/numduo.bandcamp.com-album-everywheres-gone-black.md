@@ -1,5 +1,6 @@
 ---
 url: https://numduo.bandcamp.com/album/everywheres-gone-black
+archive: "https://web.archive.org/web/20230721014504/https://numduo.bandcamp.com/album/everywheres-gone-black"
 title: Everywhere's Gone Black | Maryam Sirvan | NUM
 kind: web page
 language: en

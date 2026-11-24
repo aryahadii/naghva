@@ -1,5 +1,6 @@
 ---
 url: https://idlefon.bandcamp.com/album/intensive-collectivity-known-as-city
+archive: "https://web.archive.org/web/20240329025049/https://idlefon.bandcamp.com/album/intensive-collectivity-known-as-city"
 title: Intensive Collectivity Known As City | Idlefon
 kind: web page
 language: en

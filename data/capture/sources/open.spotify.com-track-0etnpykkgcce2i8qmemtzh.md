@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/track/0EtNpyKKGCCE2I8QMEMtzh
+archive: "https://web.archive.org/web/20260916143314/https://open.spotify.com/track/0EtNpyKKGCCE2I8QMEMtzh"
 title: Chrome Fever - song and lyrics by Azu Tiwaline, Cinna Peyghamy | Spotify
 kind: web page
 language: en

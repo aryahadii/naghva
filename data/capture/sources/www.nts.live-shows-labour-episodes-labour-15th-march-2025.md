@@ -1,5 +1,6 @@
 ---
 url: https://www.nts.live/shows/labour/episodes/labour-15th-march-2025
+archive: "https://web.archive.org/web/20260808130758/https://www.nts.live/shows/labour/episodes/labour-15th-march-2025"
 title: Labour w/ Maxou  15th March 2025 | Listen on NTS
 status: processed
 language: en

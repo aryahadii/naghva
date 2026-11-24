@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/7ijlHruJveSV4I3nNzpQmQ
+archive: "https://web.archive.org/web/20210118141520/https://open.spotify.com/album/7ijlHruJveSV4I3nNzpQmQ"
 title: Phoenix
 tier: discography
 language: en

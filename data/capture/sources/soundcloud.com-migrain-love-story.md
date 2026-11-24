@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/migrain/love-story
+archive: "https://web.archive.org/web/20210403123556/http://soundcloud.com/migrain/love-story"
 title: Stream Love Story by Migrain Sq. | Listen online for free on SoundCloud
 kind: web page
 language: en

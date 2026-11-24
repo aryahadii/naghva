@@ -1,5 +1,6 @@
 ---
 url: https://zabtesote.bandcamp.com/track/antmill-n
+archive: "https://web.archive.org/web/20240530010223/https://zabtesote.bandcamp.com/track/antmill-n"
 title: Antmill N | Idlefon | Zabte Sote
 kind: web page
 language: en

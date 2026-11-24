@@ -1,5 +1,6 @@
 ---
 url: https://themuckersband.bandcamp.com/track/suspended
+archive: "https://web.archive.org/web/20250910002104/https://themuckersband.bandcamp.com/track/suspended"
 title: Suspended | The Muckers
 kind: web page
 tier: own

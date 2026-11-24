@@ -1,5 +1,6 @@
 ---
 url: https://www.nts.live/shows/labour/episodes/labour-18th-january-2025
+archive: "https://web.archive.org/web/20260313165149/https://www.nts.live/shows/labour/episodes/labour-18th-january-2025"
 title: Labour w/ Abdou Guité Seck 18th January 2025 | Listen on NTS
 status: processed
 language: en

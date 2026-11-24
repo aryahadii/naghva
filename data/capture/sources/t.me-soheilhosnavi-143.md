@@ -1,5 +1,6 @@
 ---
 url: https://t.me/soheilhosnavi/143
+archive: "https://web.archive.org/web/20220521090826/https://t.me/soheilhosnavi/143"
 title: بداهه نوازی ابوعطا
 status: processed
 tier: own

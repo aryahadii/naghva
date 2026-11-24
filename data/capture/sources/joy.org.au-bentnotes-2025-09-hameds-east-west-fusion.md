@@ -1,5 +1,6 @@
 ---
 url: https://joy.org.au/bentnotes/2025/09/hameds-east-west-fusion/
+archive: "https://web.archive.org/web/20260313170552/https://joy.org.au/bentnotes/2025/09/hameds-east-west-fusion/"
 title: Hamed’s East-West Fusion | Bent Notes
 kind: web page
 tier: journalism

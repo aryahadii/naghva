@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/siya/1857608163
+archive: "https://web.archive.org/web/20260117205128/https://music.apple.com/us/album/siya/1857608163"
 title: Siya
 tier: discography
 language: en

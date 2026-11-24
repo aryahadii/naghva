@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/confess1
+archive: "https://web.archive.org/web/20250311235222/https://soundcloud.com/confess1"
 title: Confess
 tier: own
 language: en

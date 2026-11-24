@@ -1,5 +1,6 @@
 ---
 url: https://safemuse.org/2025/06/20/pouya-pour-amin-an-artists-journey-from-fear-to-freedom/
+archive: "https://web.archive.org/web/20251112171736/https://safemuse.org/2025/06/20/pouya-pour-amin-an-artists-journey-from-fear-to-freedom/"
 title: 'Pouya Pour-Amin: An artist’s journey from fear to freedom'
 kind: web page
 language: en

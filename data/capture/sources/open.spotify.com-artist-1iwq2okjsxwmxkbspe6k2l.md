@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/artist/1iwQ2OkjSXWMxKBsPE6k2L
+archive: "https://web.archive.org/web/20221119224723/https://open.spotify.com/artist/1iwQ2OkjSXWMxKBsPE6k2L"
 title: Listen to Soul Nidus Songs | Spotify
 kind: web page
 tier: own

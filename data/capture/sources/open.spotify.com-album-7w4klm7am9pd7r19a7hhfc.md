@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/7w4klM7AM9pd7R19A7hhFC
+archive: "https://web.archive.org/web/20201009015633/https://open.spotify.com/album/7w4klM7AM9pd7R19A7hhFC"
 title: Infatuation - Raul Ferrando | Spotify
 kind: web page
 tier: discography

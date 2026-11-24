@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=ZLst7fHZwBw
+archive: "https://web.archive.org/web/20251007041901/https://www.youtube.com/watch?v=ZLst7fHZwBw"
 title: CINNA PEYGHAMY @ Gaswerk Music Days | LIVE FROM BERLIN - YouTube
 kind: web page
 language: en

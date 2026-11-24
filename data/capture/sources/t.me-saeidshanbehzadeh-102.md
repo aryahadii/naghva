@@ -1,5 +1,6 @@
 ---
 url: https://t.me/saeidshanbehzadeh/102
+archive: "https://web.archive.org/web/20250415161837/https://t.me/saeidshanbehzadeh/102"
 title: قطعه "همه " از البوم زار - تنظيم سعيد شنبه زاده- تصاوير از فيلم أربعين  اقاي ناصر تقوايي
 tier: own
 kind: web page

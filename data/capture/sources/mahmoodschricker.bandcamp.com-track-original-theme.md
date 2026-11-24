@@ -1,5 +1,6 @@
 ---
 url: https://mahmoodschricker.bandcamp.com/track/original-theme
+archive: "https://web.archive.org/web/20260205113359/https://mahmoodschricker.bandcamp.com/track/original-theme"
 title: Original Theme | Mahmood Schricker
 kind: web page
 language: en

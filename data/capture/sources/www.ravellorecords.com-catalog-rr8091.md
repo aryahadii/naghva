@@ -1,5 +1,6 @@
 ---
 url: https://www.ravellorecords.com/catalog/rr8091/
+archive: "https://web.archive.org/web/20250320110447/https://www.ravellorecords.com/catalog/RR8091/"
 title: Mind & Machine, Volume Five
 tier: own
 language: en

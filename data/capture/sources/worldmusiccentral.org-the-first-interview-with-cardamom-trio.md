@@ -1,5 +1,6 @@
 ---
 url: https://worldmusiccentral.org/the-first-interview-with-cardamom-trio/
+archive: "https://web.archive.org/web/20251114171009/https://worldmusiccentral.org/the-first-interview-with-cardamom-trio/"
 title: The First Interview with Cardamom Trio – World Music Central
 kind: web page
 language: en

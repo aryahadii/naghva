@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/2ARzORqyQ7sX3YfMKUFiac
+archive: "https://web.archive.org/web/20251202002049/https://open.spotify.com/album/2ARzORqyQ7sX3YfMKUFiac"
 title: Nabze Khashm
 tier: discography
 language: en

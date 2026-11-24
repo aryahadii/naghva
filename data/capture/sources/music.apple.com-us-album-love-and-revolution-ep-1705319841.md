@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/love-and-revolution-ep/1705319841
+archive: "https://web.archive.org/web/20260119171849/https://music.apple.com/us/album/love-and-revolution-ep/1705319841"
 title: Love and Revolution - EP
 tier: discography
 language: en

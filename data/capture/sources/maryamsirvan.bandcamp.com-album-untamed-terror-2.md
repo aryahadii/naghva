@@ -1,5 +1,6 @@
 ---
 url: https://maryamsirvan.bandcamp.com/album/untamed-terror-2
+archive: "https://web.archive.org/web/20250606082803/https://maryamsirvan.bandcamp.com/album/untamed-terror-2"
 title: Untamed Terror | Maryam Sirvan
 kind: web page
 language: en

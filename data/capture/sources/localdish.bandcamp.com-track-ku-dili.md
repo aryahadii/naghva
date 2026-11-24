@@ -1,5 +1,6 @@
 ---
 url: https://localdish.bandcamp.com/track/ku-dili
+archive: "https://web.archive.org/web/20250602005311/https://localdish.bandcamp.com/track/ku-dili"
 title: Kuş Dili | Neda Mohamadpour & Cheshmak | Local Dish
 kind: web page
 language: en

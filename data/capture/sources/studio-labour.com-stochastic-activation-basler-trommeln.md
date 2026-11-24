@@ -1,5 +1,6 @@
 ---
 url: https://studio-labour.com/stochastic-activation-basler-trommeln
+archive: "https://web.archive.org/web/20251008195804/https://studio-labour.com/stochastic-activation-basler-trommeln/"
 title: studio LABOUR | Colin Hacklander & Farahnaz Hatam
 status: processed
 language: en

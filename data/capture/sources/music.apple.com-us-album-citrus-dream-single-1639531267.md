@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/citrus-dream-single/1639531267
+archive: "https://web.archive.org/web/20240901120653/https://music.apple.com/us/album/citrus-dream-single/1639531267"
 title: Citrus Dream - Single
 tier: discography
 language: en

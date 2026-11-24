@@ -1,5 +1,6 @@
 ---
 url: https://badieh.bandcamp.com/music
+archive: "https://web.archive.org/web/20260604001131/https://badieh.bandcamp.com/music"
 title: Music | Badieh
 kind: web page
 tier: own

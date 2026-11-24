@@ -1,5 +1,6 @@
 ---
 url: https://whispersincrimsonmetal.bandcamp.com/album/suicide-in-b-minor
+archive: "https://web.archive.org/web/20240819005527/https://whispersincrimsonmetal.bandcamp.com/album/suicide-in-b-minor"
 title: Suicide In B Minor | Whispers In Crimson
 kind: web page
 tier: own

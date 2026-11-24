@@ -1,5 +1,6 @@
 ---
 url: https://finchesband.bandcamp.com/track/amme-live-version
+archive: "https://web.archive.org/web/20261124080206/https://finchesband.bandcamp.com/track/amme-live-version"
 title: Amme (Live Version) | The Finches
 kind: web page
 language: en

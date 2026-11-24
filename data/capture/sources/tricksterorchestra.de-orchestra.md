@@ -1,5 +1,6 @@
 ---
 url: https://tricksterorchestra.de/orchestra/
+archive: "https://web.archive.org/web/20260610035138/https://tricksterorchestra.de/orchestra/"
 title: Trickster Orchestra
 tier: own
 language: de

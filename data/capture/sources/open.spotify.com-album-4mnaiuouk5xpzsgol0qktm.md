@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/4mnaIUoUk5XPzSgOl0qKtm
+archive: "https://web.archive.org/web/20241106050659/https://open.spotify.com/album/4mnaIUoUk5XPzSgOl0qKtm"
 title: The Pass (Live at Vahdat Hall, Tehran, 2015)
 tier: discography
 language: en

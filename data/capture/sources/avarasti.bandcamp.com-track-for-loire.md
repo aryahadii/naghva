@@ -1,5 +1,6 @@
 ---
 url: https://avarasti.bandcamp.com/track/for-loire
+archive: "https://web.archive.org/web/20261018033753/https://avarasti.bandcamp.com/track/for-loire"
 title: For Loire | Ava Rasti
 kind: web page
 language: en

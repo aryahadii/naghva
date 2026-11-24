@@ -1,5 +1,6 @@
 ---
 url: https://www.icorn.org/stories/yusuf-suleiman-justina-and-cris-gera-perform-at-festspelen-the-pitea-festival
+archive: "https://web.archive.org/web/20260808043451/https://www.icorn.org/stories/yusuf-suleiman-justina-and-cris-gera-perform-at-festspelen-the-pitea-festival"
 title: Yusuf Suleiman, Justina, and Cris Gera perform at Festspelen, The Piteå Festival - ICORN - International
   Cities of Refuge Network
 tier: own

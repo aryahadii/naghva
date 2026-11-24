@@ -1,5 +1,6 @@
 ---
 url: https://avarasti.bandcamp.com/track/double-life
+archive: "https://web.archive.org/web/20261018024559/https://avarasti.bandcamp.com/track/double-life"
 title: Double Life | Ava Rasti
 kind: web page
 language: en

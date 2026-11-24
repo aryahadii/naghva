@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=3jRAMYcnqfw
+archive: "https://web.archive.org/web/20260331082716/https://www.youtube.com/watch?v=3jRAMYcnqfw"
 title: 7. Shâdi -  شادی (Arash Fouladvand feat Sara Naeini) at TROXY
 kind: youtube video
 tier: own

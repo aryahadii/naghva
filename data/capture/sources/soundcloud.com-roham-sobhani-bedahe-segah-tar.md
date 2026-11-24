@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/roham-sobhani/bedahe-segah-tar
+archive: "https://web.archive.org/web/20260213045323/https://soundcloud.com/roham-sobhani/bedahe-segah-tar"
 title: Stream بداهه‌نوازی سه‌گاه by Roham-Sobhani | Listen online for free on SoundCloud
 status: processed
 language: fa

@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/tash/1731420593
+archive: "https://web.archive.org/web/20250122083146/https://music.apple.com/us/album/tash/1731420593"
 title: Tash
 tier: discography
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://kkvbutikken.myshopify.com/products/to-messer-mot-hjemloshet
+archive: "https://web.archive.org/web/20260411180754/https://kkvbutikken.myshopify.com/products/to-messer-mot-hjemloshet"
 title: To messer mot hjemløshet
 tier: own
 language: 'no'

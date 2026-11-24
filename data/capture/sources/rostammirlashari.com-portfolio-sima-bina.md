@@ -1,5 +1,6 @@
 ---
 url: https://rostammirlashari.com/portfolio/sima-bina/
+archive: "https://web.archive.org/web/20260417222639/https://rostammirlashari.com/portfolio/sima-bina/"
 title: Music from Baluchistan with Sima Bina feat. Rostam Mirlashari – Rostam Mirlashari
 tier: own
 language: en

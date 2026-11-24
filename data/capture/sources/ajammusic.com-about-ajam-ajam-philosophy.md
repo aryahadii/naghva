@@ -1,5 +1,6 @@
 ---
 url: https://ajammusic.com/about-ajam/ajam-philosophy/
+archive: "https://web.archive.org/web/20260812081547/http://ajammusic.com/about-ajam/ajam-philosophy/"
 title: Ajam Music |   Ajam philosophy
 status: processed
 language: en

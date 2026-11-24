@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=d5LTRT97bi0
+archive: "https://web.archive.org/web/20251110214331/https://www.youtube.com/watch?v=d5LTRT97bi0"
 title: Regard Persan - Turquoise | Sofar Montréal
 tier: own
 kind: web page

@@ -1,5 +1,6 @@
 ---
 url: https://www.nts.live/shows/labour/episodes/labour-7th-june-2025
+archive: "https://web.archive.org/web/20260617011527/https://www.nts.live/shows/labour/episodes/labour-7th-june-2025"
 title: Labour w/ Lemzo Diamono 7th June 2025 | Listen on NTS
 status: processed
 language: en

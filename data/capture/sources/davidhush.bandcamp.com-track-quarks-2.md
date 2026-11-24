@@ -1,5 +1,6 @@
 ---
 url: https://davidhush.bandcamp.com/track/quarks-2
+archive: "https://web.archive.org/web/20220116203052/https://davidhush.bandcamp.com/track/quarks-2"
 title: Quarks | David Hush & Hamed Sadeghi | David Hush
 kind: web page
 tier: own

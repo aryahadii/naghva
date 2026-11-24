@@ -1,5 +1,6 @@
 ---
 url: https://theaternuu.at/ottos-mops/
+archive: "https://web.archive.org/web/20260813045006/https://theaternuu.at/ottos-mops/"
 title: Ottos Mops
 tier: own
 language: en

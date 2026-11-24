@@ -1,5 +1,6 @@
 ---
 url: https://bamdadjonub.ir/news/12318
+archive: "https://web.archive.org/web/20261124064734/https://bamdadjonub.ir/news/12318"
 title: از نی‌انبان بوشهری تا گایتای گالیسیایی – بامداد جنوب
 tier: journalism
 language: fa

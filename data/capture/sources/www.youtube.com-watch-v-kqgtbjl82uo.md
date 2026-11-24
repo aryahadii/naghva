@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=KQGTbJl82uo
+archive: "https://web.archive.org/web/20250723004110/https://www.youtube.com/watch?si=yjrcyE3LObbljCyD&v=KQGTbJl82uo&feature=youtu.be"
 title: بت چین (زیبای چین) - آرش فولادوند، مجید درخشانی، حوروش خلیلی، شاهو عندلیبی و گروه کر بهار (Official)
 kind: youtube video
 tier: own

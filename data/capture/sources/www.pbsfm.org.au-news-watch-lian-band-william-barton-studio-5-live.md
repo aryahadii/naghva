@@ -1,5 +1,6 @@
 ---
 url: https://www.pbsfm.org.au/news/watch-lian-band-william-barton-studio-5-live
+archive: "https://web.archive.org/web/20260116054601/https://www.pbsfm.org.au/news/watch-lian-band-william-barton-studio-5-live"
 title: 'Watch: Lian Band with William Barton Studio 5 Live | PBS FM'
 tier: own
 language: en

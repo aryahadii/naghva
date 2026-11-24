@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/asadimusic/far-far-away
+archive: "https://web.archive.org/web/20220516014103/https://soundcloud.com/asadimusic/far-far-away"
 title: Far Far Away
 tier: own
 language: en

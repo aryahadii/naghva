@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=NZCDduJ4uSE
+archive: "https://web.archive.org/web/20230203054035/http://www.youtube.com/watch?v=NZCDduJ4uSE"
 title: SOUL NIDUS - "ACCIDENT OR DESIGN"
 kind: youtube video
 tier: own

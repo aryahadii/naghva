@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/charkhidim-feat-niaz-nawab-single/1445382855
+archive: "https://web.archive.org/web/20261115140028/https://music.apple.com/us/album/charkhidim-feat-niaz-nawab-single/1445382855"
 title: ‎Charkhidim (feat. Niaz Nawab) - Single - Album by Erwin Khachikian - Apple Music
 kind: web page
 tier: discography

@@ -1,5 +1,6 @@
 ---
 url: https://maryamsirvan.bandcamp.com/track/on-the-giants-belly
+archive: "https://web.archive.org/web/20250606082822/https://maryamsirvan.bandcamp.com/track/on-the-giants-belly"
 title: On the Giant's Belly | Maryam Sirvan
 kind: web page
 language: en

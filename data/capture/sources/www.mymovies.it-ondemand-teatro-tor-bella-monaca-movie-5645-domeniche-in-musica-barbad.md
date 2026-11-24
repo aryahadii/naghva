@@ -1,5 +1,6 @@
 ---
 url: https://www.mymovies.it/ondemand/teatro-tor-bella-monaca/movie/5645-domeniche-in-musica-barbad/
+archive: "https://web.archive.org/web/20260712083810/https://www.mymovies.it/ondemand/teatro-tor-bella-monaca/movie/5645-domeniche-in-musica-barbad/"
 title: DOMENICHE IN MUSICA Barbad () - Teatro Di San Carlo
 status: processed
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=2E7gF9o6UbI
+archive: "https://web.archive.org/web/20240509072359/https://www.youtube.com/watch?v=2E7gF9o6UbI"
 title: اجرای گلشیفته فراهانی و بابک رجبی           در کافه‌ای در پاریس ترانه میشل فوکو با لهجه اصفهانی
 status: processed
 language: fa

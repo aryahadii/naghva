@@ -1,5 +1,6 @@
 ---
 url: https://www.nts.live/shows/labour/episodes/labour-27th-september-2021
+archive: "https://web.archive.org/web/20220926021723/https://www.nts.live/shows/labour/episodes/labour-27th-september-2021"
 title: LABOUR w/ Molamine Ndiaye Rose 27th September 2021 | Listen on NTS
 status: processed
 language: en

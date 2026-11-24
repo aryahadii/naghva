@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/negar-bouban
+archive: "https://web.archive.org/web/20250724054807/https://soundcloud.com/negar-bouban"
 title: Stream Negar Bouban music | Listen to songs, albums, playlists for free on SoundCloud
 tier: own
 language: en

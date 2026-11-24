@@ -1,5 +1,6 @@
 ---
 url: https://lowzirecords.bandcamp.com/track/f-eh
+archive: "https://web.archive.org/web/20250110010313/https://lowzirecords.bandcamp.com/track/f-eh"
 title: Fāžeh | فاژه | Taraamoon | Low-Zi Records
 kind: web page
 language: en

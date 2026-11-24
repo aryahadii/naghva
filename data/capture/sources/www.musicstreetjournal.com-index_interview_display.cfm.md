@@ -1,5 +1,6 @@
 ---
 url: https://www.musicstreetjournal.com/index_interview_display.cfm?id=100486
+archive: "https://web.archive.org/web/20241011111115/http://www.musicstreetjournal.com/index_interview_display.cfm?id=100486"
 title: Music Street Journal - Music News & Reviews
 tier: own
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://lobbyartrecs.bandcamp.com/album/el-rostro-des-cubierto
+archive: "https://web.archive.org/web/20251114142215/https://lobbyartrecs.bandcamp.com/album/el-rostro-des-cubierto"
 title: el rostro (des)cubierto | Isabel Crespo Pardo | Lobby Art Editions
 status: processed
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/chetori-mishe-feat-reza-pishro-tomeh-bahar-atish-single/1649119643
+archive: "https://web.archive.org/web/20260113164459/https://music.apple.com/us/album/chetori-mishe-feat-reza-pishro-tomeh-bahar-atish-single/1649119643"
 title: Chetori Mishe (feat. Reza Pishro, Tomeh & Bahar Atish) - Single
 tier: discography
 language: en

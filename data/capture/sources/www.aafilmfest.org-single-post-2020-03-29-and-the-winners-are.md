@@ -1,5 +1,6 @@
 ---
 url: https://www.aafilmfest.org/single-post/2020/03/29/and-the-winners-are
+archive: "https://web.archive.org/web/20260614161640/https://www.aafilmfest.org/single-post/2020/03/29/and-the-winners-are"
 title: Additional Awards Programs & Winners Announcement
 tier: own
 kind: web page

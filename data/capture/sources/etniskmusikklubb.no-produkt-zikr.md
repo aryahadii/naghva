@@ -1,5 +1,6 @@
 ---
 url: https://etniskmusikklubb.no/produkt/zikr/
+archive: "https://web.archive.org/web/20260613121900/https://etniskmusikklubb.no/produkt/zikr/"
 title: Zikr – Etnisk Musikklubb
 kind: web page
 tier: own

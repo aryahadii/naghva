@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/embed/album/49PtslD3IM9ClyiNRjIhgD
+archive: "https://web.archive.org/web/20180403031125/https://open.spotify.com/embed/album/49PtslD3IM9ClyiNRjIhgD"
 title: Ezzat Ziad - Ali Azimi | Spotify
 status: processed
 language: en

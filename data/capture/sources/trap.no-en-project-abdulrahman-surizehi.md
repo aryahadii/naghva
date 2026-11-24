@@ -1,5 +1,6 @@
 ---
 url: https://trap.no/en/project/abdulrahman-surizehi
+archive: "https://web.archive.org/web/20260516081808/https://trap.no/en/project/abdulrahman-surizehi"
 title: ​Abdulrahman Surizehi | English
 kind: web page
 language: en

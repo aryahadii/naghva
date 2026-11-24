@@ -1,5 +1,6 @@
 ---
 url: https://www.prix-sharifi.org/hura-mirshekari/
+archive: "https://web.archive.org/web/20260612213627/https://www.prix-sharifi.org/hura-mirshekari/"
 title: Hura Mirshekari - Prix Habib Sharifi
 tier: own
 kind: web page

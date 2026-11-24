@@ -1,5 +1,6 @@
 ---
 url: https://www.samjavanrouh.com/motion
+archive: "https://web.archive.org/web/20191116065104/https://www.samjavanrouh.com/motion"
 title: Motion — Sam Javanrouh
 kind: web page
 tier: own

@@ -1,5 +1,6 @@
 ---
 url: https://www.ted.com/talks/you_are_not_there
+archive: "https://web.archive.org/web/20221127090704/https://www.ted.com/talks/you_are_not_there"
 title: You are not there! | TED Talk
 tier: own
 language: en

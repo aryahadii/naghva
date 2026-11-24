@@ -1,5 +1,6 @@
 ---
 url: https://www.numduo.com/wle
+archive: "https://web.archive.org/web/20260810020042/https://www.numduo.com/wle"
 title: WLE | NUM
 kind: web page
 language: en

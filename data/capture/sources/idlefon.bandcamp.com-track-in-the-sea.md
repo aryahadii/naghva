@@ -1,5 +1,6 @@
 ---
 url: https://idlefon.bandcamp.com/track/in-the-sea
+archive: "https://web.archive.org/web/20240329221604/https://idlefon.bandcamp.com/track/in-the-sea"
 title: In The Sea | Idlefon
 kind: web page
 language: en

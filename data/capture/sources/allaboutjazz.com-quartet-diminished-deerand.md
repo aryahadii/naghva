@@ -1,5 +1,6 @@
 ---
 url: https://www.allaboutjazz.com/quartet-diminished-deerand
+archive: "https://web.archive.org/web/20241215073552/https://www.allaboutjazz.com/quartet-diminished-deerand/"
 title: 'Quartet Diminished: Deerand'
 language: en
 tier: journalism

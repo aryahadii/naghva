@@ -1,5 +1,6 @@
 ---
 url: https://foxydigitalis.zone/2021/11/17/wretched-feasts-an-interview-with-maryam-sirvan/
+archive: "https://web.archive.org/web/20230929002451/https://foxydigitalis.zone/2021/11/17/wretched-feasts-an-interview-with-maryam-sirvan/"
 title: 'Wretched Feasts: An Interview With Maryam Sirvan – Foxy Digitalis'
 kind: web page
 language: en

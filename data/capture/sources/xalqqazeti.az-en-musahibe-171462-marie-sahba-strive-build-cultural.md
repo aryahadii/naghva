@@ -1,5 +1,6 @@
 ---
 url: https://xalqqazeti.az/en/musahibe/171462-marie-sahba-strive-build-cultural
+archive: "https://web.archive.org/web/20240620113856/https://xalqqazeti.az/en/musahibe/171462-marie-sahba-strive-build-cultural"
 title: 'Marie Sahba: I strive to build cultural bridges between our native peoples through my music and lyrics -'
 status: processed
 language: en

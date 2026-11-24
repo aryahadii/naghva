@@ -1,5 +1,6 @@
 ---
 url: https://aidashahghasemi.bandcamp.com/track/-
+archive: "https://web.archive.org/web/20230719094209/https://aidashahghasemi.bandcamp.com/track/-"
 title: همه چیز تقصیر باد است
 tier: discography
 language: en

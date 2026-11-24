@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/the-rogue-prince-of-persia-the-complete-soundtrack/1830448225
+archive: "https://web.archive.org/web/20261114112816/https://music.apple.com/us/album/the-rogue-prince-of-persia-the-complete-soundtrack/1830448225"
 title: The Rogue Prince of Persia (The Complete Soundtrack)
 tier: discography
 language: en

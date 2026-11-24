@@ -1,5 +1,6 @@
 ---
 url: https://vazesh.bandcamp.com/album/the-sacred-key
+archive: "https://web.archive.org/web/20260302231838/https://vazesh.bandcamp.com/album/the-sacred-key"
 title: The Sacred Key | Vazesh
 kind: web page
 tier: own

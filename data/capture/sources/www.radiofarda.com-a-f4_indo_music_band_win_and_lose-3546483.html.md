@@ -1,5 +1,6 @@
 ---
 url: https://www.radiofarda.com/a/f4_indo_music_band_win_and_lose/3546483.html
+archive: "https://web.archive.org/web/20250615000723/https://www.radiofarda.com/a/f4_indo_music_band_win_and_lose/3546483.html"
 title: آلبوم «برد و باخت» از گروه «ایندو»؛ ترکیبی از سبک‌های مختلف
 kind: web page
 tier: journalism

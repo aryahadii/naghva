@@ -1,5 +1,6 @@
 ---
 url: https://avarasti.bandcamp.com/track/swimming-with-him
+archive: "https://web.archive.org/web/20261017190245/https://avarasti.bandcamp.com/track/swimming-with-him"
 title: Swimming With Him | Ava Rasti
 kind: web page
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://asgeirasgeirsson.bandcamp.com/album/persian-path
+archive: "https://web.archive.org/web/20261124062940/https://asgeirasgeirsson.bandcamp.com/album/persian-path"
 title: Persian path | Asgeir Asgeirsson
 status: processed
 language: en

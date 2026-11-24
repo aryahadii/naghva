@@ -1,5 +1,6 @@
 ---
 url: https://benejahnel.de/en/discographie_en.html
+archive: "https://web.archive.org/web/20260718032439/http://benejahnel.de/en/discographie_en.html"
 title: Discography – Benedikt Jahnel
 tier: own
 language: en

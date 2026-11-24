@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/artist/6kcsyfB8WCQIVvKCTbVd6b
+archive: "https://web.archive.org/web/20250115174636/https://open.spotify.com/artist/6kcsyfB8WCQIVvKCTbVd6b"
 title: Listen to Arash Fouladvand Songs | Spotify
 kind: web page
 tier: own

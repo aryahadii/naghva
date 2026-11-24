@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/artist/7JKGENPLlNWqBwV1pKQA8v
+archive: "https://web.archive.org/web/20220516093514/https://open.spotify.com/artist/7JKGENPLlNWqBwV1pKQA8v"
 title: Listen to LABOUR Songs | Spotify
 status: processed
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://www.negarbouban.com/resources/PDF/Negar_Bouban_CV-May_2026.pdf
+archive: "https://web.archive.org/web/20260811051027/https://negarbouban.com/resources/PDF/Negar_Bouban_CV-May_2026.pdf"
 title: Negar Bouban, CV, May 2026
 tier: own
 language: en

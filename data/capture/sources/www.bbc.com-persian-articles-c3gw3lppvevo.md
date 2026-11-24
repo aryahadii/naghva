@@ -1,5 +1,6 @@
 ---
 url: https://www.bbc.com/persian/articles/c3gw3lppvevo
+archive: "https://web.archive.org/web/20260720080602/https://www.bbc.com/persian/articles/c3gw3lppvevo"
 title: "«بگو چَشم عباس آقا»؛ جاستینا با رپ «سنت و تبعیض» را به چالش می‌کشد\n - BBC News فارسی"
 tier: own
 language: fa

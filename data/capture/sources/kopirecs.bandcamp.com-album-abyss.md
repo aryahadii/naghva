@@ -1,5 +1,6 @@
 ---
 url: https://kopirecs.bandcamp.com/album/abyss
+archive: "https://web.archive.org/web/20250112230532/https://kopirecs.bandcamp.com/album/abyss"
 title: Abyss | ArtSaves, Hesam Ohadi | Kopi Records
 kind: web page
 language: en

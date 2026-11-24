@@ -1,5 +1,6 @@
 ---
 url: https://delicious-audio.com/the-masts-gear-and-creative-process/
+archive: "https://web.archive.org/web/20251208080921/https://delicious-audio.com/the-masts-gear-and-creative-process/"
 title: The Mast’s Gear and Creative Process
 tier: journalism
 language: en

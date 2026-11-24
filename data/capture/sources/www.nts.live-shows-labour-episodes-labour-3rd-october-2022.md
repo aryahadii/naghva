@@ -1,5 +1,6 @@
 ---
 url: https://www.nts.live/shows/labour/episodes/labour-3rd-october-2022
+archive: "https://web.archive.org/web/20260616022927/https://www.nts.live/shows/labour/episodes/labour-3rd-october-2022"
 title: Labour - Zan Zendegi Azadi 3rd October 2022 | Listen on NTS
 status: processed
 language: en

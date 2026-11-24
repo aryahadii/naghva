@@ -1,5 +1,6 @@
 ---
 url: https://www.halehliza.com/about
+archive: "https://web.archive.org/web/20260329155522/https://www.halehliza.com/about"
 title: Haleh Liza Gafori | About
 tier: own
 language: en

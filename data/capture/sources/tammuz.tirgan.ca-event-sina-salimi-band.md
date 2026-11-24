@@ -1,5 +1,6 @@
 ---
 url: https://tammuz.tirgan.ca/event/sina-salimi-band/
+archive: "https://web.archive.org/web/20260611134201/https://tammuz.tirgan.ca/event/sina-salimi-band/"
 title: Sina Salimi Band - Tammuz Summer Festival 2022
 kind: web page
 language: en

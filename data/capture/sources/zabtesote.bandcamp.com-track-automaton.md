@@ -1,5 +1,6 @@
 ---
 url: https://zabtesote.bandcamp.com/track/automaton
+archive: "https://web.archive.org/web/20220714013221/https://zabtesote.bandcamp.com/track/automaton"
 title: Automaton | Nima Aghiani | Zabte Sote
 kind: web page
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://www.daryadadvar.com/parvaz-homay-darya-and-soli/
+archive: "https://web.archive.org/web/20240420210623/https://www.daryadadvar.com/parvaz-homay-darya-and-soli/"
 title: Parvaz Homay, Darya and Soli
 tier: own
 language: fa

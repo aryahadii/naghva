@@ -1,5 +1,6 @@
 ---
 url: https://www.qobuz.com/fr-fr/album/iran-musique-de-lepoque-qajare-ensemble-delgosha/3760160751491
+archive: "https://web.archive.org/web/20160813200410/http://www.qobuz.com/fr-fr/album/iran-musique-de-lepoque-qajare-ensemble-delgosha/3760160751491"
 title: 'Iran : musique de l’époque Qajare'
 tier: discography
 kind: web page

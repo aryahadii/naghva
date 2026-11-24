@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/celestial-doorways/543669861
+archive: "https://web.archive.org/web/20260115190017/https://music.apple.com/us/album/celestial-doorways/543669861"
 title: Celestial Doorways
 tier: discography
 language: en

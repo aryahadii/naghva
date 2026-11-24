@@ -1,5 +1,6 @@
 ---
 url: https://kopirecs.bandcamp.com/album/bore
+archive: "https://web.archive.org/web/20200514072514/https://kopirecs.bandcamp.com/album/bore"
 title: Bore | ArtSaves | Kopi Records
 kind: web page
 language: en

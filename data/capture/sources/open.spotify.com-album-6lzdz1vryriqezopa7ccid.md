@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/6lZdz1VRyRIQezoPA7cciD
+archive: "https://web.archive.org/web/20210106145342/https://open.spotify.com/album/6lZdz1VRyRIQezoPA7cciD"
 title: Manushan
 tier: discography
 language: en

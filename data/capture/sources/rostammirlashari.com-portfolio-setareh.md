@@ -1,5 +1,6 @@
 ---
 url: https://rostammirlashari.com/portfolio/setareh/
+archive: "https://web.archive.org/web/20260417205503/https://rostammirlashari.com/portfolio/setareh/"
 title: Setareh – Rostam Mirlashari
 tier: own
 language: en

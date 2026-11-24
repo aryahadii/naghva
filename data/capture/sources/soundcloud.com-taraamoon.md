@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/taraamoon
+archive: "https://web.archive.org/web/20260810083201/https://soundcloud.com/taraamoon"
 title: Stream TARAAMOON • ْتَرامون music | Listen to songs, albums, playlists for free on SoundCloud
 kind: web page
 language: en

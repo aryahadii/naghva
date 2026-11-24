@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/thefinchesband/i-gave-up
+archive: "https://web.archive.org/web/20210417105032/https://soundcloud.com/thefinchesband/i-gave-up"
 title: Stream I Gave Up by The Finches | Listen online for free on SoundCloud
 kind: web page
 language: en

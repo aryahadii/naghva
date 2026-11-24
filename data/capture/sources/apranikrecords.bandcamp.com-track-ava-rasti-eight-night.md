@@ -1,5 +1,6 @@
 ---
 url: https://apranikrecords.bandcamp.com/track/ava-rasti-eight-night
+archive: "https://web.archive.org/web/20260104171514/https://apranikrecords.bandcamp.com/track/ava-rasti-eight-night"
 title: Ava Rasti - Eight Night | Apranik Records
 kind: web page
 language: en

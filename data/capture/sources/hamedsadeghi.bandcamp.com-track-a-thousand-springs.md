@@ -1,5 +1,6 @@
 ---
 url: https://hamedsadeghi.bandcamp.com/track/a-thousand-springs
+archive: "https://web.archive.org/web/20261124082606/https://hamedsadeghi.bandcamp.com/track/a-thousand-springs"
 title: A Thousand Springs | Hamed Sadeghi
 kind: web page
 tier: own

@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/artist/siriya-ensemble/1477185014
+archive: "https://web.archive.org/web/20260829182426/https://music.apple.com/us/artist/siriya-ensemble/1477185014"
 title: Siriya Ensemble
 tier: own
 language: en

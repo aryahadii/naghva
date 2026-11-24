@@ -1,5 +1,6 @@
 ---
 url: https://t.me/Sahbamusic/17
+archive: "https://web.archive.org/web/20221206155227/https://t.me/Sahbamusic/17"
 title: اشكي در گذرگاه تاريخ، صهبا مطلبي، آواز سينا سرلك
 status: processed
 language: fa

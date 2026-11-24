@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/shall-we-begin-single/1550301634
+archive: "https://web.archive.org/web/20240901120653/https://music.apple.com/us/album/shall-we-begin-single/1550301634"
 title: Shall We Begin - Single
 tier: discography
 language: en

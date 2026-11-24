@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/mano-donya-feat-rana-mansour-single/1035287387
+archive: "https://web.archive.org/web/20260312000301/https://music.apple.com/us/album/mano-donya-feat-rana-mansour-single/1035287387"
 title: ‎Mano Donya (feat. Rana Mansour) - Single - Album by Karmandan - Apple Music
 kind: web page
 tier: discography

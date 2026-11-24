@@ -1,5 +1,6 @@
 ---
 url: https://hibernate-archives.bandcamp.com/track/feint
+archive: "https://web.archive.org/web/20240610091543/https://hibernate-archives.bandcamp.com/track/feint"
 title: Feint | Umchunga | hibernate archives
 kind: web page
 language: en

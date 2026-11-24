@@ -1,5 +1,6 @@
 ---
 url: https://tombaknetwork.z19.web.core.windows.net/artists/khavar_zamani_pedram.htm
+archive: "https://web.archive.org/web/20231211022711/https://tombaknetwork.z19.web.core.windows.net/artists/khavar_zamani_pedram.htm"
 title: Pedram Khavar-Zamani
 kind: web page
 tier: other

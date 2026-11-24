@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/rouzbeh-esfandarmaz/sin
+archive: "https://web.archive.org/web/20220405231326/https://soundcloud.com/rouzbeh-esfandarmaz/sin"
 title: Stream Şîn (شین) by Rouzbeh Esfand | Listen online for free on SoundCloud
 kind: web page
 language: en

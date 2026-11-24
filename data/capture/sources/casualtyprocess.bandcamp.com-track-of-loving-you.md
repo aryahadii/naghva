@@ -1,5 +1,6 @@
 ---
 url: https://casualtyprocess.bandcamp.com/track/of-loving-you
+archive: "https://web.archive.org/web/20240418212740/https://casualtyprocess.bandcamp.com/track/of-loving-you"
 title: Of Loving You | Casualty Process
 kind: web page
 tier: own

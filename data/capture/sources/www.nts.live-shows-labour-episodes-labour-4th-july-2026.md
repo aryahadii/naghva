@@ -1,5 +1,6 @@
 ---
 url: https://www.nts.live/shows/labour/episodes/labour-4th-july-2026
+archive: "https://web.archive.org/web/20260807113939/https://www.nts.live/shows/labour/episodes/labour-4th-july-2026"
 title: LABOUR w/ Babacar Seck 4th July 2026 | Listen on NTS
 status: processed
 language: en

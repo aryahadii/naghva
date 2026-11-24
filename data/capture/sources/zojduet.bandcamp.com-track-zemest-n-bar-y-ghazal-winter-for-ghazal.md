@@ -1,5 +1,6 @@
 ---
 url: https://zojduet.bandcamp.com/track/zemest-n-bar-y-ghazal-winter-for-ghazal
+archive: "https://web.archive.org/web/20230906192907/https://zojduet.bandcamp.com/track/zemest-n-bar-y-ghazal-winter-for-ghazal"
 title: Zemestān barāyé Ghazal (Winter for Ghazal) | ZÖJ
 kind: web page
 tier: own

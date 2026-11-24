@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/sharike-jorm-feat-eendo/1625575397
+archive: "https://web.archive.org/web/20220525213228/https://music.apple.com/us/album/sharike-jorm-feat-eendo/1625575397"
 title: ‎Kahrobaye Arezou - Album by Ali Azimi - Apple Music
 kind: web page
 tier: discography

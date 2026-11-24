@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/asadimusic/solid-asadi-remix
+archive: "https://web.archive.org/web/20210718232718/https://soundcloud.com/asadimusic/solid-asadi-remix"
 title: SOLID (ASADI REMIX)
 tier: own
 language: en

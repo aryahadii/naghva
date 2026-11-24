@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/artist/4s2iBVE1aD9bbMN3M0ljKY
+archive: "https://web.archive.org/web/20210814204111/https://open.spotify.com/artist/4s2iBVE1aD9bbMN3M0ljKY"
 title: Listen to Ava Rasti Songs | Spotify
 kind: web page
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/ir%C4%81/1546043899
+archive: "https://web.archive.org/web/20241106180528/https://music.apple.com/us/album/ir%C4%81/1546043899"
 title: Irā
 tier: discography
 language: en

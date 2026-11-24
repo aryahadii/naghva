@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/track/6peogDE3f8UzZWr57oAh8t
+archive: "https://web.archive.org/web/20220317184559/https://open.spotify.com/track/6peogDE3f8UzZWr57oAh8t"
 title: Waltz of Dust - song and lyrics by Sina Salimi | Spotify
 kind: web page
 language: en

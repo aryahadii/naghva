@@ -1,5 +1,6 @@
 ---
 url: https://unland.bandcamp.com/album/betrachtungen
+archive: "https://web.archive.org/web/20240718183322/https://unland.bandcamp.com/album/betrachtungen"
 title: Betrachtungen | Unland
 status: processed
 language: en

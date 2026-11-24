@@ -1,5 +1,6 @@
 ---
 url: https://themuckersband.bandcamp.com/track/roll-the-dice
+archive: "https://web.archive.org/web/20230623084645/https://themuckersband.bandcamp.com/track/roll-the-dice"
 title: Roll The Dice | The Muckers
 kind: web page
 tier: own

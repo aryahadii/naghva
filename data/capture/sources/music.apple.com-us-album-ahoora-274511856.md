@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/ahoora/274511856
+archive: "https://web.archive.org/web/20251011211115/https://music.apple.com/us/album/ahoora/274511856"
 title: Ahoora - Album by Ahoora - Apple Music
 language: en
 tier: discography

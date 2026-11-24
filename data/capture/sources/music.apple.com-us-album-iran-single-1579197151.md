@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/iran-single/1579197151
+archive: "https://web.archive.org/web/20261002103823/https://music.apple.com/us/album/iran-single/1579197151"
 title: Iran
 tier: discography
 language: en

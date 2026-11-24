@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/artist/2jJxBOcsVwHF0kYnnjsPu9
+archive: "https://web.archive.org/web/20250827051245/https://open.spotify.com/artist/2jJxBOcsVwHF0kYnnjsPu9"
 title: Lowen
 tier: discography
 language: en

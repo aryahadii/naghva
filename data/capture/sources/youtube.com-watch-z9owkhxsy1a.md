@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=z9oWkhXSY1A
+archive: "https://web.archive.org/web/20251224173735/https://www.youtube.com/watch?si=tiuX6bGWFRiaqeZR&v=z9oWkhXSY1A&feature=youtu.be"
 title: Quartet Diminished & AISO Symphony Orchestra, "Suite Deerand (Movements I–IV)"
 language: en
 tier: own

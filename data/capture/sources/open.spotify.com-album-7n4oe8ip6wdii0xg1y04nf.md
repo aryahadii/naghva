@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/7n4oe8ip6wDii0Xg1Y04Nf
+archive: "https://web.archive.org/web/20221001102708/https://open.spotify.com/album/7n4oe8ip6wDii0Xg1Y04Nf"
 title: Singing in Shadow
 tier: discography
 language: en

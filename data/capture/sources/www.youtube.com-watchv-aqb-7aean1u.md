@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=AqB-7AeAN1U
+archive: "https://web.archive.org/web/20251020043959/https://www.youtube.com/watch?v=AqB-7AeAN1U"
 title: 'آهنگ آتش، سینا سلک، صهبا مطلبی، شعر:مولانا، Fire song- Sahba Motallebi, Sina Sarlak, Poem: Rumi'
 status: processed
 language: en

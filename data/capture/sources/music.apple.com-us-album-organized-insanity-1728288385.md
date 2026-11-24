@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/organized-insanity/1728288385
+archive: "https://web.archive.org/web/20261102135900/https://music.apple.com/us/album/organized-insanity/1728288385"
 title: Organized Insanity
 tier: discography
 language: en

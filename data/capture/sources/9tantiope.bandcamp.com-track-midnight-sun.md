@@ -1,5 +1,6 @@
 ---
 url: https://9tantiope.bandcamp.com/track/midnight-sun
+archive: "https://web.archive.org/web/20260217151422/https://9tantiope.bandcamp.com/track/midnight-sun"
 title: Midnight Sun | 9T Antiope
 kind: web page
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://lowzirecords.bandcamp.com/track/mal-ll
+archive: "https://web.archive.org/web/20261016231116/https://lowzirecords.bandcamp.com/track/mal-ll"
 title: Malāll | مَلال | Taraamoon | Low-Zi Records
 kind: web page
 language: en

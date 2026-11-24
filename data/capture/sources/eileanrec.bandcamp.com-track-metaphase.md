@@ -1,5 +1,6 @@
 ---
 url: https://eileanrec.bandcamp.com/track/metaphase
+archive: "https://web.archive.org/web/20250601053111/https://eileanrec.bandcamp.com/track/metaphase"
 title: Metaphase | 9T Antiope | eilean rec.
 kind: web page
 language: en

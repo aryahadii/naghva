@@ -1,5 +1,6 @@
 ---
 url: https://iranian.com/main/music/pouya-pour-amin.html
+archive: "https://web.archive.org/web/20260404164210/http://iranian.com/main/music/pouya-pour-amin.html"
 title: Pouya Pour-Amin | Iranian.com
 kind: web page
 language: en

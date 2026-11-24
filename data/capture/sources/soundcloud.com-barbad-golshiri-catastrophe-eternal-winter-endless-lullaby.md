@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/barbad-golshiri/catastrophe-eternal-winter-endless-lullaby
+archive: "https://web.archive.org/web/20230517030950/https://soundcloud.com/barbad-golshiri/catastrophe-eternal-winter-endless-lullaby"
 title: Stream Catastrophe - Eternal Winter - Endless Lullaby by Barbad Golshiri | Listen online for free on SoundCloud
 kind: web page
 language: en

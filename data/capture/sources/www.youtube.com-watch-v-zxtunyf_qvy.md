@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=zxtUNyF_qVY
+archive: "https://web.archive.org/web/20250824223103/https://www.youtube.com/watch?v=zxtUNyF_qVY"
 title: Gole Sorkh Rose - گل سرخ - (Arash Fouladvand feat Darya Dadvar)
 kind: youtube video
 tier: own

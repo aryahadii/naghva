@@ -1,5 +1,6 @@
 ---
 url: https://hysterrae.bandcamp.com/track/pizzicap
+archive: "https://web.archive.org/web/20260223063309/https://hysterrae.bandcamp.com/track/pizzicap"
 title: Pizzicapò | Hysterrae
 kind: web page
 tier: own

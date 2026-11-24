@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/user-62184333/labour-221121
+archive: "https://web.archive.org/web/20220708224749/https://soundcloud.com/user-62184333/labour-221121"
 title: Stream LABOUR w/ Dial Mbaye - 22nd November 2021 by NTS Monday | Listen online for free on SoundCloud
 status: processed
 language: en

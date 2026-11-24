@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/3OyFbJ01WwQw2lD31iytqC
+archive: "https://web.archive.org/web/20201107111020/https://open.spotify.com/album/3OyFbJ01WwQw2lD31iytqC"
 title: On Fire
 tier: discography
 language: en

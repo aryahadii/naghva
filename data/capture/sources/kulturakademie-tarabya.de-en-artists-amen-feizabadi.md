@@ -1,5 +1,6 @@
 ---
 url: https://kulturakademie-tarabya.de/en/artists/amen-feizabadi/
+archive: "https://web.archive.org/web/20260807213654/https://kulturakademie-tarabya.de/en/artists/amen-feizabadi/"
 title: Amen Feizabadi – Tarabya
 kind: web page
 language: en

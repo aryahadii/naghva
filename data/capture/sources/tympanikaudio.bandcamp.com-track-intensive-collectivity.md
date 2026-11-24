@@ -1,5 +1,6 @@
 ---
 url: https://tympanikaudio.bandcamp.com/track/intensive-collectivity
+archive: "https://web.archive.org/web/20250602183625/https://tympanikaudio.bandcamp.com/track/intensive-collectivity"
 title: Intensive Collectivity | Idlefon | Tympanik Audio
 kind: web page
 language: en

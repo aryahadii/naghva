@@ -1,5 +1,6 @@
 ---
 url: https://ebbmusic.eu/artists/samin-ghorbani-rembrandt-frerichs/
+archive: "https://web.archive.org/web/20260715071003/https://ebbmusic.eu/artists/samin-ghorbani-rembrandt-frerichs/"
 title: Ghorbani, Frerichs & Planjer - EBB Music
 status: processed
 language: en

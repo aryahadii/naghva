@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/kooye-rendan/1814967695
+archive: "https://web.archive.org/web/20260920045948/https://music.apple.com/us/album/kooye-rendan/1814967695"
 title: ‎Kooye Rendan - Album by Soheil Hosnavi - Apple Music
 status: processed
 language: en

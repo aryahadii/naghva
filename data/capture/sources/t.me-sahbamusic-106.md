@@ -1,5 +1,6 @@
 ---
 url: https://t.me/Sahbamusic/106
+archive: "https://web.archive.org/web/20221206194558/https://t.me/Sahbamusic/106"
 title: روز معلم مبارک. تقديم به استاد عزيزم فريبرز عزيزي
 status: processed
 language: fa

@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/ca/album/fever/555205510
+archive: "https://web.archive.org/web/20251208014224/https://music.apple.com/ca/album/fever/555205510"
 title: ‎Fever - Album by Babak Bouban - Apple Music
 tier: discography
 language: en

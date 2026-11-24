@@ -1,5 +1,6 @@
 ---
 url: https://mutek.org/en/speakers/sarabigdelishamloo
+archive: "https://web.archive.org/web/20260122220724/https://mutek.org/en/speakers/sarabigdelishamloo"
 title: Sara Bigdeli Shamloo | MUTEK
 kind: web page
 language: en

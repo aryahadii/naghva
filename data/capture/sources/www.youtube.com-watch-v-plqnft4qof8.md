@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=pLqNfT4qof8
+archive: "https://web.archive.org/web/20250822071329/https://www.youtube.com/watch?v=pLqNfT4qof8"
 title: Doubt - Live in Studio - YouTube
 kind: youtube video
 tier: own

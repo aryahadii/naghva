@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/artist/7kpHxIxPUK0PZKCVBTeEDT
+archive: "https://web.archive.org/web/20231215173616/https://open.spotify.com/artist/7kpHxIxPUK0PZKCVBTeEDT"
 title: Listen to Meshcut Songs | Spotify
 kind: web page
 language: en

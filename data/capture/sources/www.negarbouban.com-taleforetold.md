@@ -1,5 +1,6 @@
 ---
 url: https://www.negarbouban.com/TaleForetold/
+archive: "https://web.archive.org/web/20210622024017/https://negarbouban.com/TaleForetold/"
 title: Negar Bouban
 tier: own
 language: en

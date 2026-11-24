@@ -1,5 +1,6 @@
 ---
 url: https://nexusarts.org.au/events/nexus-live-presents-daftar-aval-duo/
+archive: "https://web.archive.org/web/20260711232329/https://nexusarts.org.au/events/nexus-live-presents-daftar-aval-duo/"
 title: Nexus Live Presents Daftar Aval Duo + Silk Strings Ensemble - Nexus Arts | Nexus Arts
 status: processed
 language: en

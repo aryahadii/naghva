@@ -1,5 +1,6 @@
 ---
 url: https://zojduet.bandcamp.com/track/winter-for-ghazal
+archive: "https://web.archive.org/web/20260530004733/https://zojduet.bandcamp.com/track/winter-for-ghazal"
 title: Winter for Ghazal | ZÖJ
 kind: web page
 tier: own

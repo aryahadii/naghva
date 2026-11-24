@@ -1,5 +1,6 @@
 ---
 url: https://t.me/soheilhosnavi/733
+archive: "https://web.archive.org/web/20220521091409/https://t.me/soheilhosnavi/733"
 title: '#یک_دقیقه_چهار_نت'
 status: processed
 tier: own

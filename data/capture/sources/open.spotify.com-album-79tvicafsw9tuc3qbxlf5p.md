@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/79tvicAFSw9tUc3qbxLf5P
+archive: "https://web.archive.org/web/20250312085451/https://open.spotify.com/album/79tvicAFSw9tUc3qbxLf5P"
 title: Do Not Go To War With The Demons Of Mazandaran
 tier: discography
 language: en

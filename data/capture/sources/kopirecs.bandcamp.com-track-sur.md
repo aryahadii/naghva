@@ -1,5 +1,6 @@
 ---
 url: https://kopirecs.bandcamp.com/track/sur
+archive: "https://web.archive.org/web/20241211184426/https://kopirecs.bandcamp.com/track/sur"
 title: Sur | ArtSaves | Kopi Records
 kind: web page
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://eishanensemble.bandcamp.com/track/bazar
+archive: "https://web.archive.org/web/20250902080746/https://eishanensemble.bandcamp.com/track/bazar"
 title: Bazar | Eishan Ensemble
 kind: web page
 tier: own

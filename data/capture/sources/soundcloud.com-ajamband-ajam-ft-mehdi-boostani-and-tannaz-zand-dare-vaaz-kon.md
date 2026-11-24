@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/ajamband/ajam-ft-mehdi-boostani-and-tannaz-zand-dare-vaaz-kon
+archive: "https://web.archive.org/web/20230625200122/https://soundcloud.com/ajamband/ajam-ft-mehdi-boostani-and-tannaz-zand-dare-vaaz-kon"
 title: Stream Ajam Ft. Mehdi Boostani And Tannaz Zand - Dare Vaaz Kon by Ajam Band | Listen online for free on SoundCloud
 status: processed
 language: en

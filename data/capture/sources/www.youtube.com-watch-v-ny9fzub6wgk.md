@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=ny9fZUB6WGk
+archive: "https://web.archive.org/web/20260114050042/https://www.youtube.com/watch?si=26Org2hQla6CBTQG&v=ny9fZUB6WGk"
 title: Pedram Khavarzamini - Iwan Fakhteh       پدرام خاورزمینی - ایوانک فاخته
 kind: youtube video
 tier: own

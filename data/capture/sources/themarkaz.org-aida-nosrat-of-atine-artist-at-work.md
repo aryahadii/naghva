@@ -1,5 +1,6 @@
 ---
 url: https://themarkaz.org/aida-nosrat-of-atine-artist-at-work/
+archive: "https://web.archive.org/web/20260710141100/https://themarkaz.org/aida-nosrat-of-atine-artist-at-work/"
 title: 'Aïda Nosrat of Atine: Artist at Work - The Markaz Review'
 tier: journalism
 language: en

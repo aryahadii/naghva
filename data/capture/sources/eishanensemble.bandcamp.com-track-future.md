@@ -1,5 +1,6 @@
 ---
 url: https://eishanensemble.bandcamp.com/track/future
+archive: "https://web.archive.org/web/20240125090054/https://eishanensemble.bandcamp.com/track/future"
 title: Future | Eishan Ensemble
 kind: web page
 tier: own

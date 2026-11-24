@@ -1,5 +1,6 @@
 ---
 url: https://faravaz-farvardin.com/biography/
+archive: "https://web.archive.org/web/20260308184425/https://faravaz-farvardin.com/biography/"
 title: faravaz-farvardin.com | Biography
 tier: own
 language: en

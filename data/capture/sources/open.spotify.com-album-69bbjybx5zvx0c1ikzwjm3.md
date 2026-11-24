@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/69bbJYBX5zVx0c1ikZWjM3
+archive: "https://web.archive.org/web/20251010081457/https://open.spotify.com/album/69bbJYBX5zVx0c1ikZWjM3"
 title: NUR
 tier: discography
 language: en

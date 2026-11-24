@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/15v4XW1qnaWQd5X9OJnDOo
+archive: "https://web.archive.org/web/20190826141431/https://open.spotify.com/album/15v4XW1qnaWQd5X9OJnDOo"
 title: Mouj (Wave) - Iran Regional Music of Bushehr
 tier: discography
 language: en

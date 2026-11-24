@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/babackrajabi/q9xwyojpi8m9
+archive: "https://web.archive.org/web/20251102175719/https://soundcloud.com/babackrajabi/q9xwyojpi8m9"
 title: کباده کشی · Babak Rajabi
 status: processed
 language: fa

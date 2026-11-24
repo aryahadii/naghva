@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/0gPOdfYmR9oyRiA0mLGgoL
+archive: "https://web.archive.org/web/20200116014316/https://open.spotify.com/album/0gPOdfYmR9oyRiA0mLGgoL"
 title: Balochi Gowati O Damali Zeymol - Rakhshani Love Songs and Trance Music from Balochistan
 tier: discography
 language: en

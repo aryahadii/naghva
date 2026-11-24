@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/31qnkN3v1zA3yk5yr1Hmfw
+archive: "https://web.archive.org/web/20210507032745/https://open.spotify.com/album/31qnkN3v1zA3yk5yr1Hmfw"
 title: Music from Balouchistan
 tier: discography
 language: en

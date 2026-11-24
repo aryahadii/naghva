@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=j3c-KKNkJSI
+archive: "https://web.archive.org/web/20220603133249/https://www.youtube.com/watch?v=j3c-KKNkJSI"
 title: Ajam - Gheyrat (Studio Jam) / عجم - غیرت
 status: processed
 language: en

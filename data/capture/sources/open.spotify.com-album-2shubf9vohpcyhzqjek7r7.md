@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/2shUbF9VOHpcyhzQJEk7R7
+archive: "https://web.archive.org/web/20230523093527/https://open.spotify.com/album/2shUbF9VOHpcyhzQJEk7R7"
 title: Love Songs and Trance Music from Balochistan
 tier: discography
 language: en

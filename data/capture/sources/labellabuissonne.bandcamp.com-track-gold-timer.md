@@ -1,5 +1,6 @@
 ---
 url: https://labellabuissonne.bandcamp.com/track/gold-timer
+archive: "https://web.archive.org/web/20220107003604/https://labellabuissonne.bandcamp.com/track/gold-timer"
 title: Gold timer | Andy Emler | La Buissonne
 status: processed
 language: en

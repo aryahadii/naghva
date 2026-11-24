@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=05Hg3Y43454
+archive: "https://web.archive.org/web/20251009235351/https://www.youtube.com/watch?v=05Hg3Y43454"
 title: Golé Sorkh -  گل سرخ (Arash Fouladvand feat Bahar Choir) at "Basilique Sainte-Clotilde de Paris"
 kind: youtube video
 tier: own

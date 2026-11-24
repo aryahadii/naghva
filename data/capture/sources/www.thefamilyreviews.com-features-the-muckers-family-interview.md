@@ -1,5 +1,6 @@
 ---
 url: https://www.thefamilyreviews.com/features/the-muckers-family-interview
+archive: "https://web.archive.org/web/20251122174315/https://www.thefamilyreviews.com/features/the-muckers-family-interview"
 title: The Muckers — The Family Reviews
 kind: web page
 tier: journalism

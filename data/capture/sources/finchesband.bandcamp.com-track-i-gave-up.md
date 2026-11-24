@@ -1,5 +1,6 @@
 ---
 url: https://finchesband.bandcamp.com/track/i-gave-up
+archive: "https://web.archive.org/web/20261124080501/https://finchesband.bandcamp.com/track/i-gave-up"
 title: I Gave Up | The Finches
 kind: web page
 language: en

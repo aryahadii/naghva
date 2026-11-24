@@ -1,5 +1,6 @@
 ---
 url: https://n5md.bandcamp.com/album/coldstream
+archive: "https://web.archive.org/web/20260215141120/https://n5md.bandcamp.com/album/coldstream"
 title: COLDSTREAM | Idlefon | n5MD
 kind: web page
 language: en

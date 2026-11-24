@@ -1,5 +1,6 @@
 ---
 url: https://badieh.bandcamp.com/album/badieh-ii
+archive: "https://web.archive.org/web/20260604001130/https://badieh.bandcamp.com/album/badieh-ii"
 title: Badieh II | Badieh
 kind: web page
 tier: own

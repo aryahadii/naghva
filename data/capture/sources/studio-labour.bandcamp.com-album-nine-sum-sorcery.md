@@ -1,5 +1,6 @@
 ---
 url: https://studio-labour.bandcamp.com/album/nine-sum-sorcery
+archive: "https://web.archive.org/web/20251008210119/https://studio-labour.bandcamp.com/album/nine-sum-sorcery"
 title: nine-sum sorcery | LABOUR feat. Hani Mojtahedy | studio LABOUR
 status: processed
 language: en

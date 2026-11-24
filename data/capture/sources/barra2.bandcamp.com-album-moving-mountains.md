@@ -1,5 +1,6 @@
 ---
 url: https://barra2.bandcamp.com/album/moving-mountains
+archive: "https://web.archive.org/web/20261124064807/https://barra2.bandcamp.com/album/moving-mountains"
 title: Moving Mountains | Barra
 tier: own
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://www.adhyaroparecords.com/baharmovahed
+archive: "https://web.archive.org/web/20260519182128/https://www.adhyaroparecords.com/baharmovahed"
 title: Bahar Movahed — Adhyâropa Records
 status: processed
 language: en

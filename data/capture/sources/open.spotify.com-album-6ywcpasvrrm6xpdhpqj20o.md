@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/6ywCpASvRrm6xPdHpqJ20O
+archive: "https://web.archive.org/web/20250725085327/https://open.spotify.com/album/6ywCpASvRrm6xPdHpqJ20O"
 title: Serene Hope
 tier: discography
 language: en

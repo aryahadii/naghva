@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/babackrajabi/kharsoo
+archive: "https://web.archive.org/web/20230626201443/https://soundcloud.com/babackrajabi/kharsoo"
 title: خارسو Kharsoo · Babak Rajabi
 status: processed
 language: fa

@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=osd8yPN2Ufc
+archive: "https://web.archive.org/web/20230305050823/https://www.youtube.com/watch?v=osd8yPN2Ufc"
 title: The Muckers at Paste Studio NYC live from The Manhattan Center
 kind: youtube video
 tier: journalism

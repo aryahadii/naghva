@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/mahmood-schricker/acoustic-setar-tribute-to-master-lotfi
+archive: "https://web.archive.org/web/20241106222507/https://soundcloud.com/mahmood-schricker/acoustic-setar-tribute-to-master-lotfi"
 title: Stream Acoustic Setar - Tribute to Master Lotfi by Mahmood Schricker | Listen online for free on SoundCloud
 kind: web page
 language: en

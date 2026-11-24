@@ -1,5 +1,6 @@
 ---
 url: https://abjeez.com/
+archive: "https://web.archive.org/web/20260215015302/https://abjeez.com/"
 title: Abjeez
 tier: own
 language: en

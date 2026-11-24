@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/track/1sqFJy5GnC7TClYtjTpyti
+archive: "https://web.archive.org/web/20250809081335/https://open.spotify.com/track/1sqFJy5GnC7TClYtjTpyti"
 title: Khak Shah - song and lyrics by Cinna Peyghamy | Spotify
 kind: web page
 language: en

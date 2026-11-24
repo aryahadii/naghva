@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/umchunga/chimera
+archive: "https://web.archive.org/web/20160826055938/https://soundcloud.com/umchunga/chimera"
 title: Stream Chimera by Umchunga | Listen online for free on SoundCloud
 kind: web page
 language: en

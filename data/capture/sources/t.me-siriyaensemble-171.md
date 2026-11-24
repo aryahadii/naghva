@@ -1,5 +1,6 @@
 ---
 url: https://t.me/siriyaensemble/171
+archive: "https://web.archive.org/web/20250421065601/https://t.me/siriyaensemble/171"
 title: سیریا
 tier: own
 language: fa

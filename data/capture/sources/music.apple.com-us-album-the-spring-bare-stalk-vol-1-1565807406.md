@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/the-spring-bare-stalk-vol-1/1565807406
+archive: "https://web.archive.org/web/20250720010418/https://music.apple.com/us/album/the-spring-bare-stalk-vol-1/1565807406"
 title: The Spring Bare Stalk, Vol. 1
 tier: discography
 language: en

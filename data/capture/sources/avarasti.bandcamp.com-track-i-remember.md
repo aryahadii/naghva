@@ -1,5 +1,6 @@
 ---
 url: https://avarasti.bandcamp.com/track/i-remember
+archive: "https://web.archive.org/web/20261017190250/https://avarasti.bandcamp.com/track/i-remember"
 title: I Remember | Ava Rasti
 kind: web page
 language: en

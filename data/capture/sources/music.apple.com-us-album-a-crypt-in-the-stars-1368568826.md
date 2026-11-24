@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/a-crypt-in-the-stars/1368568826
+archive: "https://web.archive.org/web/20230321140134/https://music.apple.com/us/album/a-crypt-in-the-stars/1368568826"
 title: A Crypt in the Stars
 tier: discography
 language: en

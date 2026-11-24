@@ -1,5 +1,6 @@
 ---
 url: https://mahmoodschricker.bandcamp.com/track/shadows-featuring-sina-salimi
+archive: "https://web.archive.org/web/20230302100828/https://mahmoodschricker.bandcamp.com/track/shadows-featuring-sina-salimi"
 title: Shadows featuring Sina Salimi | Mahmood Schricker
 kind: web page
 language: en

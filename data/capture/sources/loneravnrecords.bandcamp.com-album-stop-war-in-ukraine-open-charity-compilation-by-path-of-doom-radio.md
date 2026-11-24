@@ -1,5 +1,6 @@
 ---
 url: https://loneravnrecords.bandcamp.com/album/stop-war-in-ukraine-open-charity-compilation-by-path-of-doom-radio
+archive: "https://web.archive.org/web/20260212041617/https://loneravnrecords.bandcamp.com/album/stop-war-in-ukraine-open-charity-compilation-by-path-of-doom-radio"
 title: STOP WAR IN UKRAINE! (open charity compilation by Path Of Doom Radio)
 tier: own
 language: en

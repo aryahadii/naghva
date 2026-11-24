@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=jjD_TcwQoz8
+archive: "https://web.archive.org/web/20251026131754/https://www.youtube.com/watch?v=jjD_TcwQoz8"
 title: 'دلبر عیار - آهنگساز : رهام سبحانی'
 status: processed
 language: fa

@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/aidashahghasemi/10-eyes
+archive: "https://web.archive.org/web/20250409152859/https://soundcloud.com/aidashahghasemi/10-eyes"
 title: 10 - Eyes
 tier: discography
 language: en

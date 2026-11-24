@@ -1,5 +1,6 @@
 ---
 url: https://zojduet.bandcamp.com/track/manjil-windy-city
+archive: "https://web.archive.org/web/20230906192907/https://zojduet.bandcamp.com/track/manjil-windy-city"
 title: Manjil (Windy City) | ZÖJ
 kind: web page
 tier: own

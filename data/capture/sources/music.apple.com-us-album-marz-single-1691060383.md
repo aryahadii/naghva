@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/marz-single/1691060383
+archive: "https://web.archive.org/web/20250327045045/https://music.apple.com/us/album/marz-single/1691060383"
 title: Marz - Single
 tier: discography
 language: en

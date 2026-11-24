@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/artist/0EgcOzuCyQ2yeyiTfcbXtG
+archive: "https://web.archive.org/web/20200605165849/https://open.spotify.com/artist/0EgcOzuCyQ2yeyiTfcbXtG"
 title: Listen to Karmandan Songs | Spotify
 kind: web page
 tier: discography

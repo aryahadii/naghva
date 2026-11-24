@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/divaneh/439881535
+archive: "https://web.archive.org/web/20251116185303/https://music.apple.com/us/album/divaneh/439881535"
 title: Divaneh
 tier: discography
 language: en

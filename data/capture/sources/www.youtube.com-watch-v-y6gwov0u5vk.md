@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=y6gWov0u5Vk
+archive: "https://web.archive.org/web/20250901031055/https://www.youtube.com/watch?v=y6gWov0u5Vk"
 title: Niaz & Erwin - Adame Tanha (Official Video) نیاز نواب , اروین خاچیکیان - YouTube
 kind: web page
 tier: own

@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=FumcyYruqrg
+archive: "https://web.archive.org/web/20251013122023/https://www.youtube.com/watch?v=FumcyYruqrg"
 title: Didâr - Ensemble Chakâm
 status: processed
 language: en

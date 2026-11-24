@@ -1,5 +1,6 @@
 ---
 url: https://radiotrails.com/2019/09/06/qa-psychic-bloom/
+archive: "https://web.archive.org/web/20210724212438/https://radiotrails.com/2019/09/06/qa-psychic-bloom/"
 title: 'Q&A: Psychic Bloom – Radiotrails'
 tier: own
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/roham-sobhani/parvaz
+archive: "https://web.archive.org/web/20260213042421/https://soundcloud.com/roham-sobhani/parvaz"
 title: Stream نمادِ زندگی by Roham-Sobhani | Listen online for free on SoundCloud
 status: processed
 language: fa

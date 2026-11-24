@@ -1,5 +1,6 @@
 ---
 url: https://www.hamedsadeghi.com/about
+archive: "https://web.archive.org/web/20250927202917/https://www.hamedsadeghi.com/about"
 title: Biography — Hamed Sadeghi
 kind: web page
 tier: own

@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=wG1QNGM14pM
+archive: "https://web.archive.org/web/20250731225236/https://www.youtube.com/watch?v=wG1QNGM14pM"
 title: Bâvàr - باور (Arash Fouladvand feat Hanieh Ayat & Mehran Behzadmehr)
 kind: youtube video
 tier: own

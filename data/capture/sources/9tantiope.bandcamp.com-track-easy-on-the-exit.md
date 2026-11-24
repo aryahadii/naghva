@@ -1,5 +1,6 @@
 ---
 url: https://9tantiope.bandcamp.com/track/easy-on-the-exit
+archive: "https://web.archive.org/web/20260217151421/https://9tantiope.bandcamp.com/track/easy-on-the-exit"
 title: Easy on the Exit | 9T Antiope
 kind: web page
 language: en

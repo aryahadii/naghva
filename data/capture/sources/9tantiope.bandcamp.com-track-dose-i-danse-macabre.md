@@ -1,5 +1,6 @@
 ---
 url: https://9tantiope.bandcamp.com/track/dose-i-danse-macabre
+archive: "https://web.archive.org/web/20250823060115/https://9tantiope.bandcamp.com/track/dose-i-danse-macabre"
 title: Dose I (Danse Macabre) | 9T Antiope
 kind: web page
 language: en

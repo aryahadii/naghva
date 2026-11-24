@@ -1,5 +1,6 @@
 ---
 url: https://hibernate-archives.bandcamp.com/track/curves
+archive: "https://web.archive.org/web/20240610091337/https://hibernate-archives.bandcamp.com/track/curves"
 title: Curves | Umchunga | hibernate archives
 kind: web page
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://journalisme.com/assises-de-tours/comment-participer/
+archive: "https://web.archive.org/web/20260612181642/https://journalisme.com/assises-de-tours/comment-participer/"
 title: Comment participer ? - Journalisme.com
 tier: own
 kind: web page

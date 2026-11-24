@@ -1,5 +1,6 @@
 ---
 url: https://www.opera-lille.fr/spectacle/persiennes-diran/
+archive: "https://web.archive.org/web/20260416051111/https://www.opera-lille.fr/spectacle/persiennes-diran/"
 title: Opéra de Lille
 status: processed
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://lowzirecords.bandcamp.com/album/b-db-n
+archive: "https://web.archive.org/web/20250110010316/https://lowzirecords.bandcamp.com/album/b-db-n"
 title: Bādbān | Taraamoon | Low-Zi Records
 kind: web page
 language: en

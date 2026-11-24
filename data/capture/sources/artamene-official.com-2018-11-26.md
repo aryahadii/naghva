@@ -1,5 +1,6 @@
 ---
 url: https://artamene-official.com/2018/11/26/گرمای-آزادی-در-شب-سرد-پاییز/
+archive: "https://web.archive.org/web/20260225003602/https://artamene-official.com/2018/11/26/%DA%AF%D8%B1%D9%85%D8%A7%DB%8C-%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C-%D8%AF%D8%B1-%D8%B4%D8%A8-%D8%B3%D8%B1%D8%AF-%D9%BE%D8%A7%DB%8C%DB%8C%D8%B2/"
 title: گرمای آزادی در شب سرد پاییز – ARTAMENE
 tier: journalism
 language: fa

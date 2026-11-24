@@ -1,5 +1,6 @@
 ---
 url: https://temp-illusion.bandcamp.com/album/pend-reworks
+archive: "https://web.archive.org/web/20240601205023/https://temp-illusion.bandcamp.com/album/pend-reworks"
 title: PEND [Reworks] | Temp-Illusion
 kind: web page
 language: en

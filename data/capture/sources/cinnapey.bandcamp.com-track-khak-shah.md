@@ -1,5 +1,6 @@
 ---
 url: https://cinnapey.bandcamp.com/track/khak-shah
+archive: "https://web.archive.org/web/20261115151217/https://cinnapey.bandcamp.com/track/khak-shah"
 title: Khak Shah | Cinna Peyghamy
 kind: web page
 language: en

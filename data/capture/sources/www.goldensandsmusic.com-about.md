@@ -1,5 +1,6 @@
 ---
 url: https://www.goldensandsmusic.com/about/
+archive: "https://web.archive.org/web/20260812182417/https://www.goldensandsmusic.com/about/"
 title: About – Golden Sands
 status: processed
 language: en

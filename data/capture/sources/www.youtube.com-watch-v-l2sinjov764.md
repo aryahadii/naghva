@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=l2sINjOv764
+archive: "https://web.archive.org/web/20250525064532/https://www.youtube.com/watch?v=l2sINjOv764"
 title: Aghràbé Zolfé Kàj - عقرب زلف کج (Arash Fouladvand feat Bahar Choir)
 kind: youtube video
 tier: own

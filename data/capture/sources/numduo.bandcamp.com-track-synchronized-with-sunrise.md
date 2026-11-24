@@ -1,5 +1,6 @@
 ---
 url: https://numduo.bandcamp.com/track/synchronized-with-sunrise
+archive: "https://web.archive.org/web/20220621172734/https://numduo.bandcamp.com/track/synchronized-with-sunrise"
 title: Synchronized With Sunrise | NUM
 kind: web page
 language: en

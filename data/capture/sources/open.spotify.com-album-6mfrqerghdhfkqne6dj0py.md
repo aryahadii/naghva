@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/6mfrqErGHdHfkqnE6DJ0Py
+archive: "https://web.archive.org/web/20230307145937/https://open.spotify.com/album/6mfrqErGHdHfkqnE6DJ0Py"
 title: Kera Kera
 tier: discography
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://iranian.com/main/video/2012/aug/attitude.html
+archive: "https://web.archive.org/web/20260504123928/http://iranian.com/main/video/2012/aug/attitude.html"
 title: Attitude | Iranian.com
 kind: web page
 tier: journalism

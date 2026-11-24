@@ -1,5 +1,6 @@
 ---
 url: https://www.blueflame.com/artist/bahramji/
+archive: "https://web.archive.org/web/20260721044322/https://www.blueflame.com/artist/bahramji/"
 title: Bahramji – Blue Flame Records
 tier: own
 language: en

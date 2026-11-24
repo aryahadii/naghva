@@ -1,5 +1,6 @@
 ---
 url: https://agakhanmuseum.org/bio/kourosh-babaei/
+archive: "https://web.archive.org/web/20261124005635/https://agakhanmuseum.org/bio/kourosh-babaei/"
 title: Kourosh Babaei
 tier: own
 language: en

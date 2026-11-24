@@ -1,5 +1,6 @@
 ---
 url: https://duisburger-philharmoniker.de/duisburger-philharmoniker/unsere-gast-interpreten/inner-unity-ensemble/
+archive: "https://web.archive.org/web/20260715013326/https://duisburger-philharmoniker.de/duisburger-philharmoniker/unsere-gast-interpreten/inner-unity-ensemble/"
 title: Inner Unity Ensemble · Duisburger Philharmoniker · Spielzeit 2026/2027
 status: processed
 language: en

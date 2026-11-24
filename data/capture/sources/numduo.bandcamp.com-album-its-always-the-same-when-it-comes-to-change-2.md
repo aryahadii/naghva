@@ -1,5 +1,6 @@
 ---
 url: https://numduo.bandcamp.com/album/its-always-the-same-when-it-comes-to-change-2
+archive: "https://web.archive.org/web/20250830220156/https://numduo.bandcamp.com/album/its-always-the-same-when-it-comes-to-change-2"
 title: It's Always the Same When It Comes to Change | NUM
 kind: web page
 language: en

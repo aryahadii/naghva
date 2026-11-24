@@ -1,5 +1,6 @@
 ---
 url: https://commons.wikimedia.org/wiki/File:Safoura_Safavi.jpg
+archive: "https://web.archive.org/web/20261124071031/https://commons.wikimedia.org/wiki/File:Safoura_Safavi.jpg"
 title: Safoura Safavi.jpg
 tier: own
 language: en

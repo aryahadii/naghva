@@ -1,5 +1,6 @@
 ---
 url: https://junge-akademie.adk.de/en/people/nazanin-noori/
+archive: "https://web.archive.org/web/20260808070741/https://junge-akademie.adk.de/en/people/nazanin-noori/"
 title: Nazanin Noori - Junge Akademie, Akademie der Künste
 status: processed
 language: en

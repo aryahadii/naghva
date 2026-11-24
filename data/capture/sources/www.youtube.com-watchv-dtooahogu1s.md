@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=DTooAhoGU1s
+archive: "https://web.archive.org/web/20230417081136/https://www.youtube.com/watch?v=DTooAhoGU1s"
 title: پارودی موسیقی پاپ ایرانی Parody in persian pop music
 status: processed
 language: fa

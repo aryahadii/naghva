@@ -1,5 +1,6 @@
 ---
 url: https://www.javidafsarirad.com/press-photos
+archive: "https://web.archive.org/web/20250126220313/https://www.javidafsarirad.com/press-photos"
 title: press photos — Javid Afsari Rad
 status: processed
 language: en

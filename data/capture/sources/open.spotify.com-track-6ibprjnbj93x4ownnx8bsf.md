@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/track/6ibPRjnbJ93X4oWNNx8bSf
+archive: "https://web.archive.org/web/20251010014430/https://open.spotify.com/track/6ibPRjnbJ93X4oWNNx8bSf"
 title: The Darkest of Souls - song and lyrics by Mentrix | Spotify
 kind: web page
 language: en

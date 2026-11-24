@@ -1,5 +1,6 @@
 ---
 url: https://www.numduo.com/about
+archive: "https://web.archive.org/web/20260711231617/https://www.numduo.com/about"
 title: About | NUM
 kind: web page
 language: en

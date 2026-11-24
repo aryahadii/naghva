@@ -1,5 +1,6 @@
 ---
 url: https://arshiasamsaminia.bandcamp.com/album/4our
+archive: "https://web.archive.org/web/20261124062653/https://arshiasamsaminia.bandcamp.com/album/4our"
 title: 4our | Arshia Samsaminia
 kind: web page
 language: en

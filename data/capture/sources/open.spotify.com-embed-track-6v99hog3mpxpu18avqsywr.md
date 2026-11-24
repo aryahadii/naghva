@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/embed/track/6V99HOG3MpxPU18aVQSywr
+archive: "https://web.archive.org/web/20260307064415/https://open.spotify.com/embed/track/6V99HOG3MpxPU18aVQSywr"
 title: Ba Man Beraghs
 tier: discography
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://ahoora.bandcamp.com/album/awkward-diary
+archive: "https://web.archive.org/web/20261124005931/https://ahoora.bandcamp.com/album/awkward-diary"
 title: Awkward Diary | Ahoora
 tier: own
 language: en

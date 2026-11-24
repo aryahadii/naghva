@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/2bhkwkL4ZM095SUhlhcFOb
+archive: "https://web.archive.org/web/20210424171859/https://open.spotify.com/album/2bhkwkL4ZM095SUhlhcFOb"
 title: Trickster Orchestra
 tier: discography
 language: en

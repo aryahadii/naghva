@@ -1,5 +1,6 @@
 ---
 url: https://aga-khan-museum-assets.s3.amazonaws.com/uploads/2024/05/annual-report-2022-final-clean.pdf
+archive: "https://web.archive.org/web/20251119051224/https://aga-khan-museum-assets.s3.amazonaws.com/uploads/2024/05/annual-report-2022-final-clean.pdf"
 title: Aga Khan Museum Annual Report 2022
 kind: web page
 tier: own

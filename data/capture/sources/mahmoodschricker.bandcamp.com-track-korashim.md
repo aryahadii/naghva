@@ -1,5 +1,6 @@
 ---
 url: https://mahmoodschricker.bandcamp.com/track/korashim
+archive: "https://web.archive.org/web/20161111210508/http://mahmoodschricker.bandcamp.com:80/track/korashim"
 title: Korashim | Mahmood Schricker
 kind: web page
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/taraamoon/sets/badban
+archive: "https://web.archive.org/web/20210730015855/https://soundcloud.com/taraamoon/sets/badban"
 title: Stream TARAAMOON • ْتَرامون | Listen to Bādbān playlist online for free on SoundCloud
 kind: web page
 language: en

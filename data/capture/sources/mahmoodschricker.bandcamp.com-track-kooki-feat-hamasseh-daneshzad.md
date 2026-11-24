@@ -1,5 +1,6 @@
 ---
 url: https://mahmoodschricker.bandcamp.com/track/kooki-feat-hamasseh-daneshzad
+archive: "https://web.archive.org/web/20131122053740/http://mahmoodschricker.bandcamp.com:80/track/kooki-feat-hamasseh-daneshzad"
 title: Kooki (feat. Hamasseh Daneshzad) | Mahmood Schricker
 kind: web page
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://avarasti.bandcamp.com/album/the-river
+archive: "https://web.archive.org/web/20261017190245/https://avarasti.bandcamp.com/album/the-river"
 title: The River | Ava Rasti
 kind: web page
 language: en

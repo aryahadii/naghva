@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/bahramji/nobodys-soldier
+archive: "https://web.archive.org/web/20251231092517/https://soundcloud.com/bahramji/nobodys-soldier"
 title: Nobody's Soldier
 tier: own
 language: en

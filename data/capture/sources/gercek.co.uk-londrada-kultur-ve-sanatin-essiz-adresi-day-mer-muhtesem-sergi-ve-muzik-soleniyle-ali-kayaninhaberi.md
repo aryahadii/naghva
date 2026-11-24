@@ -1,5 +1,6 @@
 ---
 url: https://gercek.co.uk/londrada-kultur-ve-sanatin-essiz-adresi-day-mer-muhtesem-sergi-ve-muzik-soleniyle-ali-kayaninhaberi/
+archive: "https://web.archive.org/web/20261124081101/https://gercek.co.uk/londrada-kultur-ve-sanatin-essiz-adresi-day-mer-muhtesem-sergi-ve-muzik-soleniyle-ali-kayaninhaberi/"
 title: '37. Kültür ve Sanat Festivali Kapsamında Londra’da Kültür ve Sanatın Eşsiz Adresi DAY-MER: Muhteşem Sergi
   ve Müzik Şöleniyle Unutulmaz Bir Gün! - Gerçek Londra'
 status: processed

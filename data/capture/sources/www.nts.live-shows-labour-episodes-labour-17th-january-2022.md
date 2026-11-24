@@ -1,5 +1,6 @@
 ---
 url: https://www.nts.live/shows/labour/episodes/labour-17th-january-2022
+archive: "https://web.archive.org/web/20220118083132/https://www.nts.live/shows/labour/episodes/labour-17th-january-2022"
 title: Labour w/ El Hadji Faye 17th January 2022 | Listen on NTS
 status: processed
 language: en

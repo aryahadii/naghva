@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/swing-me-to-your-song/818616550
+archive: "https://web.archive.org/web/20210824004635/https://music.apple.com/us/album/swing-me-to-your-song/818616550"
 title: Swing Me to Your Song
 tier: discography
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://spore-initiative.org/en/programming/participate/wasserspiegel-water-bodies
+archive: "https://web.archive.org/web/20260710145356/https://spore-initiative.org/en/programming/participate/wasserspiegel-water-bodies"
 title: participate and visit | Spore Initiative
 status: processed
 language: en

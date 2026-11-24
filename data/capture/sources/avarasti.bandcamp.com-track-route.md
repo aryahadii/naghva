@@ -1,5 +1,6 @@
 ---
 url: https://avarasti.bandcamp.com/track/route
+archive: "https://web.archive.org/web/20261019041838/https://avarasti.bandcamp.com/track/route"
 title: Route | Ava Rasti
 kind: web page
 language: en

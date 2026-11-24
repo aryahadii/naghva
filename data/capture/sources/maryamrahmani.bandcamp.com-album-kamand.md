@@ -1,5 +1,6 @@
 ---
 url: https://maryamrahmani.bandcamp.com/album/kamand
+archive: "https://web.archive.org/web/20250823023020/https://maryamrahmani.bandcamp.com/album/kamand"
 title: Kamand | Maryam Rahmani
 kind: web page
 language: en

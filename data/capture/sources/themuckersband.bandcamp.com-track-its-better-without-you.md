@@ -1,5 +1,6 @@
 ---
 url: https://themuckersband.bandcamp.com/track/its-better-without-you
+archive: "https://web.archive.org/web/20230623084727/https://themuckersband.bandcamp.com/track/its-better-without-you"
 title: It's Better Without You | The Muckers
 kind: web page
 tier: own

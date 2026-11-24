@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=amnZjll-8Ok
+archive: "https://web.archive.org/web/20250913121558/https://www.youtube.com/watch?v=amnZjll-8Ok"
 title: کوچه لر - دریا دادور و آرش فولادوند (Official)
 kind: youtube video
 tier: own

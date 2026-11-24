@@ -1,5 +1,6 @@
 ---
 url: https://archive.asia.si.edu/podcasts/related/encounter/progNotes.asp
+archive: "https://web.archive.org/web/20240620154556/https://archive.asia.si.edu/podcasts/related/encounter/progNotes.asp"
 title: 'Sound: The Encounter: New Music from Iran and Syria | Podcasts | Freer and Sackler Galleries'
 tier: own
 language: en

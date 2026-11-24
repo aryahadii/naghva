@@ -1,5 +1,6 @@
 ---
 url: https://morgenland-festival.com/en/news/neue-kuenstlerische-leitung
+archive: "https://web.archive.org/web/20260812054151/https://morgenland-festival.com/en/news/neue-kuenstlerische-leitung"
 title: morgen
 status: processed
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://zojduet.bandcamp.com/track/my-empty-boat-part-3
+archive: "https://web.archive.org/web/20260530004728/https://zojduet.bandcamp.com/track/my-empty-boat-part-3"
 title: My Empty Boat (Part 3) | ZÖJ
 kind: web page
 tier: own

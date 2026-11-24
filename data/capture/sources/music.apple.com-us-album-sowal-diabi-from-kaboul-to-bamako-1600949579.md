@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/sowal-diabi-from-kaboul-to-bamako/1600949579
+archive: "https://web.archive.org/web/20240301012241/https://music.apple.com/us/album/sowal-diabi-from-kaboul-to-bamako/1600949579"
 title: Sowal Diabi (From Kaboul to Bamako)
 tier: discography
 language: en

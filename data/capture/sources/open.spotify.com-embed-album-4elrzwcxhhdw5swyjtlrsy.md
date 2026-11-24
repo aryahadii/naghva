@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/embed/album/4elRzwcxhHDW5swyjtlrsy
+archive: "https://web.archive.org/web/20251024195114/https://open.spotify.com/embed/album/4elRzwcxhHDW5swyjtlrsy"
 title: Deerand - Quartet Diminished | Spotify
 language: en
 tier: discography

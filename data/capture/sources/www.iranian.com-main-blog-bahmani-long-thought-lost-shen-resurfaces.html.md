@@ -1,5 +1,6 @@
 ---
 url: https://www.iranian.com/main/blog/bahmani/long-thought-lost-shen-resurfaces.html
+archive: "https://web.archive.org/web/20260423131402/http://iranian.com/main/blog/bahmani/long-thought-lost-shen-resurfaces.html"
 title: 'Long Thought Lost: Shen Resurfaces! | Iranian.com'
 tier: journalism
 kind: web page

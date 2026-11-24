@@ -1,5 +1,6 @@
 ---
 url: https://www.fondationfiminco.com/artist/zhina-ardalan.html
+archive: "https://web.archive.org/web/20260514005721/https://www.fondationfiminco.com/artist/zhina-ardalan.html"
 title: Artist - Details - fondationfiminco.com EN
 kind: web page
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://www.barbadproject.com/biography
+archive: "https://web.archive.org/web/20260610085355/https://www.barbadproject.com/biography"
 title: Biography
 status: processed
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=jLYepwbbuE4
+archive: "https://web.archive.org/web/20230620142348/https://www.youtube.com/watch?v=jLYepwbbuE4"
 title: Shahin Najafi - Lotf-Ali Khan (Album Jens Sevom) لطفعلی خان - آلبوم جنس سوم شاهین نجفی - YouTube
 kind: web page
 tier: own

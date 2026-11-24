@@ -1,5 +1,6 @@
 ---
 url: https://ars.electronica.art/panic/en/view/dancing-plague-23138ddb450c810887b4f4510d4dd9e5/
+archive: "https://web.archive.org/web/20261124062616/https://ars.electronica.art/panic/en/view/dancing-plague-23138ddb450c810887b4f4510d4dd9e5/"
 title: 'Dancing Plague | Ars Electronica Festival 2025: Panic'
 kind: web page
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://gisela-nauck.de/texte/2020_Dlf_Transkulturelles_Komponieren_Amen_Feizabadi.pdf
+archive: "https://web.archive.org/web/20240701061851/https://gisela-nauck.de/texte/2020_Dlf_Transkulturelles_Komponieren_Amen_Feizabadi.pdf"
 title: Transkulturelles Komponieren – Amen Feizabadi
 kind: web page
 language: de

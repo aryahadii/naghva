@@ -1,5 +1,6 @@
 ---
 url: https://pureadmin.qub.ac.uk/ws/portalfiles/portal/213591726/_Thesis_Hardbound_Jun2020_HB.pdf
+archive: "https://web.archive.org/web/20241207021900/https://pureadmin.qub.ac.uk/ws/portalfiles/portal/213591726/_Thesis_Hardbound_Jun2020_HB.pdf"
 title: Hadi Bastani, Recent Experimental Electronic Music Practices in Iran
 kind: web page
 language: en

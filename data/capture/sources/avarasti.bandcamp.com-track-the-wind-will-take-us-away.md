@@ -1,5 +1,6 @@
 ---
 url: https://avarasti.bandcamp.com/track/the-wind-will-take-us-away
+archive: "https://web.archive.org/web/20261124063650/https://avarasti.bandcamp.com/track/the-wind-will-take-us-away"
 title: The Wind Will Take Us Away | Ava Rasti
 kind: web page
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/user-62184333/labour-w-molamine-ndiaye-rose-270921
+archive: "https://web.archive.org/web/20220708224749/https://soundcloud.com/user-62184333/labour-w-molamine-ndiaye-rose-270921"
 title: Stream LABOUR w/ Molamine Ndiaye Rose 270921 by NTS Monday | Listen online for free on SoundCloud
 status: processed
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://ahoora.bandcamp.com/track/closure-2
+archive: "https://web.archive.org/web/20261124010001/https://ahoora.bandcamp.com/track/closure-2"
 title: Closure | Ahoora
 tier: own
 language: en

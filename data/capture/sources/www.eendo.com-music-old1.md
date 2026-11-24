@@ -1,5 +1,6 @@
 ---
 url: https://www.eendo.com/music-old1
+archive: "https://web.archive.org/web/20260518151954/https://www.eendo.com/music-old1"
 title: MUSIC-Old1 | eendo
 kind: web page
 tier: own

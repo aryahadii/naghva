@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=lpeJs1eT620
+archive: "https://web.archive.org/web/20251011221357/https://www.youtube.com/watch?v=lpeJs1eT620"
 title: شکوه اتحاد - آرش فولادوند و گروه کر بهار (Official)
 kind: youtube video
 tier: own

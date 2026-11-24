@@ -1,5 +1,6 @@
 ---
 url: https://mahmoodschricker.bandcamp.com/track/shahnaz-michael-red-remix
+archive: "https://web.archive.org/web/20220808043353/https://mahmoodschricker.bandcamp.com/track/shahnaz-michael-red-remix"
 title: Shahnaz (Michael Red Remix) | Mahmood Schricker
 kind: web page
 language: en

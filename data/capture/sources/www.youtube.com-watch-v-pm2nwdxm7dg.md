@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=pM2nwDXm7dg
+archive: "https://web.archive.org/web/20230408095944/https://www.youtube.com/watch?v=pM2nwDXm7dg"
 title: رود - مهرداد بران و گروه کر بهار (Official)
 kind: youtube video
 tier: own

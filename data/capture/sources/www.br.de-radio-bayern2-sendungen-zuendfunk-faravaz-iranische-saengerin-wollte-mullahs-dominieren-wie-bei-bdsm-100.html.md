@@ -1,5 +1,6 @@
 ---
 url: https://www.br.de/radio/bayern2/sendungen/zuendfunk/faravaz-iranische-saengerin-wollte-mullahs-dominieren-wie-bei-bdsm-100.html
+archive: "https://web.archive.org/web/20250808100238/https://www.br.de/radio/bayern2/sendungen/zuendfunk/faravaz-iranische-saengerin-wollte-mullahs-dominieren-wie-bei-bdsm-100.html"
 title: 'Sängerin Faravaz: "Ich wollte die Mullahs dominieren wie beim BDSM" | Zündfunk | Bayern 2 | Radio | BR.de'
 tier: own
 language: de

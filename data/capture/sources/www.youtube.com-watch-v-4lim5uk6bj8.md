@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=4liM5uk6bj8
+archive: "https://web.archive.org/web/20111130175815/http://www.youtube.com/watch?v=4liM5uk6bj8&gl=US&hl=en"
 title: SOULNIDUS - SONG OF HOPE LIVE AT OPERA HOUSE
 kind: youtube video
 tier: own

@@ -1,5 +1,6 @@
 ---
 url: https://kronosquartet.org/a-new-layer-of-joy-44-friends-join-kronos-to-perform-salam-aleykom/
+archive: "https://web.archive.org/web/20251008231933/https://kronosquartet.org/a-new-layer-of-joy-44-friends-join-kronos-to-perform-salam-aleykom/"
 title: 'A new layer of joy: 44 artists join Kronos to perform “Salam Aleykom” – Kronos Quartet'
 status: processed
 language: en

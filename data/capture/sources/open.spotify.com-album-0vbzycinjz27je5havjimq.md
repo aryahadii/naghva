@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/0vbZycINjZ27jE5havjIMQ
+archive: "https://web.archive.org/web/20230411182147/https://open.spotify.com/album/0vbZycINjZ27jE5havjIMQ"
 title: Persiennes D'Iran
 tier: discography
 language: en

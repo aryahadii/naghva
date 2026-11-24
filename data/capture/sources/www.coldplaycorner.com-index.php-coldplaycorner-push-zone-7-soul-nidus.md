@@ -1,5 +1,6 @@
 ---
 url: https://www.coldplaycorner.com/index.php/coldplaycorner/push-zone/7-soul-nidus
+archive: "https://web.archive.org/web/20210918124253/https://www.coldplaycorner.com/index.php/coldplaycorner/push-zone/7-soul-nidus"
 title: 'Push Zone #7 Soul Nidus'
 kind: web page
 tier: journalism

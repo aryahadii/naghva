@@ -1,5 +1,6 @@
 ---
 url: https://www.framed.berlin/event-details/framed-24-mentrix-exhibition-samira-hodaei
+archive: "https://web.archive.org/web/20260607053541/https://www.framed.berlin/event-details/framed-24-mentrix-exhibition-samira-hodaei"
 title: 'FRAMED #24 Mentrix / Exhibition Samira Hodaei  | Framed Berlin'
 kind: web page
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://remix.berklee.edu/graduate-studies-global-jazz/178/
+archive: "https://web.archive.org/web/20251117135545/https://remix.berklee.edu/graduate-studies-global-jazz/178/"
 title: '"Embraced by the Flowing Water: Oud as a Queer Ontology" by Bahar Badieitabar'
 status: processed
 language: en

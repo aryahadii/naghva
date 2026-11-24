@@ -1,5 +1,6 @@
 ---
 url: https://www.hoerspielundfeature.de/haal-100.html
+archive: "https://web.archive.org/web/20260810102230/https://www.hoerspielundfeature.de/haal-100.html"
 title: Klangkunst mit Sufi-Gesängen - HAAL
 status: processed
 language: en

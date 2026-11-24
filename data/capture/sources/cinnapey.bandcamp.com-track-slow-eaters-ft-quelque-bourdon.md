@@ -1,5 +1,6 @@
 ---
 url: https://cinnapey.bandcamp.com/track/slow-eaters-ft-quelque-bourdon
+archive: "https://web.archive.org/web/20261005051508/https://cinnapey.bandcamp.com/track/slow-eaters-ft-quelque-bourdon"
 title: Slow Eaters (ft Quelque Bourdon) | Cinna Peyghamy
 kind: web page
 language: en

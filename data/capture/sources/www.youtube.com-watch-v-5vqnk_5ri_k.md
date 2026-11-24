@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=5Vqnk_5Ri_k
+archive: "https://web.archive.org/web/20250527114908/https://www.youtube.com/watch?v=5Vqnk_5Ri_k"
 title: Music Video - Nim Dong - YouTube
 kind: youtube video
 tier: own

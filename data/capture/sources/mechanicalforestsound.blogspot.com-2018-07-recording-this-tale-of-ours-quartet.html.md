@@ -1,5 +1,6 @@
 ---
 url: https://mechanicalforestsound.blogspot.com/2018/07/recording-this-tale-of-ours-quartet.html
+archive: "https://web.archive.org/web/20231123210514/https://mechanicalforestsound.blogspot.com/2018/07/recording-this-tale-of-ours-quartet.html"
 title: 'Mechanical Forest Sound: Recording: This Tale of Ours Quartet'
 kind: web page
 tier: journalism

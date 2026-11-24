@@ -1,5 +1,6 @@
 ---
 url: https://cinnapey.bandcamp.com/track/truth-is-possible
+archive: "https://web.archive.org/web/20261005051443/https://cinnapey.bandcamp.com/track/truth-is-possible"
 title: Truth Is Possible | Cinna Peyghamy
 kind: web page
 language: en

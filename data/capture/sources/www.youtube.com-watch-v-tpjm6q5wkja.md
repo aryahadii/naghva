@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=TPJM6q5wkjA
+archive: "https://web.archive.org/web/20260410082128/https://www.youtube.com/watch?v=TPJM6q5wkjA"
 title: 7. Tâbé Bànàfshé - تاب بنفشه - (Arash Fouladvand feat Mahdieh and Sitorai)
 kind: youtube video
 tier: own

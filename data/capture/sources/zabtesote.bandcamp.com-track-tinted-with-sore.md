@@ -1,5 +1,6 @@
 ---
 url: https://zabtesote.bandcamp.com/track/tinted-with-sore
+archive: "https://web.archive.org/web/20230804015051/https://zabtesote.bandcamp.com/track/tinted-with-sore"
 title: Tinted With Sore | NUM | Zabte Sote
 kind: web page
 language: en

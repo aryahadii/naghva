@@ -1,5 +1,6 @@
 ---
 url: https://tirgan.ca/nowruz2019/artist-guest/pedram-khavarzamini/
+archive: "https://web.archive.org/web/20260614224544/https://tirgan.ca/nowruz2019/artist-guest/pedram-khavarzamini/"
 title: Pedram Khavarzamini Archives - Tirgan - Nowruz 2019
 kind: web page
 tier: own

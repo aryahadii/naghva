@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/29ALuD30VGo9VNjXsYYffq
+archive: "https://web.archive.org/web/20250725085327/https://open.spotify.com/album/29ALuD30VGo9VNjXsYYffq"
 title: Songs from a Persian Garden
 tier: discography
 language: en

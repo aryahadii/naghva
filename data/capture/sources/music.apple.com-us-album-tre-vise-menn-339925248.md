@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/tre-vise-menn/339925248
+archive: "https://web.archive.org/web/20220128054442/https://music.apple.com/us/album/tre-vise-menn/339925248"
 title: Tre Vise Menn
 tier: discography
 language: en

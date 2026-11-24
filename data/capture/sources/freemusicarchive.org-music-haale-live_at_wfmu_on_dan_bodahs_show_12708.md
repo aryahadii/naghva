@@ -1,5 +1,6 @@
 ---
 url: https://freemusicarchive.org/music/Haale/Live_at_WFMU_on_Dan_Bodahs_Show_12708
+archive: "https://web.archive.org/web/20240526215129/https://freemusicarchive.org/music/Haale/Live_at_WFMU_on_Dan_Bodahs_Show_12708"
 title: Live at WFMU on Dan Bodah’s Show
 tier: own
 language: en

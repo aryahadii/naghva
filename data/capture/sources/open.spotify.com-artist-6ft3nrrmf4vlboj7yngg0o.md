@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/artist/6fT3NRrmf4vlBOJ7ynGg0O
+archive: "https://web.archive.org/web/20260222040951/https://open.spotify.com/artist/6fT3NRrmf4vlBOJ7ynGg0O"
 title: Listen to Cinna Peyghamy Songs | Spotify
 kind: web page
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://ehsanmatoori.com/projects/rite-of-strings/
+archive: "https://web.archive.org/web/20261124073731/https://ehsanmatoori.com/projects/rite-of-strings/"
 title: Ehsan Matoori | Rite of Strings
 tier: own
 language: en

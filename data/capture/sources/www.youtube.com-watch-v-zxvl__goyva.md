@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=zXVL__GoYvA
+archive: "https://web.archive.org/web/20250205183640/https://www.youtube.com/watch?v=zXVL__GoYvA&gl=US&hl=en"
 title: Sharghiye Ghamgin - Niaz Nawab, Golazin, Gelareh Sheibani - Live - YouTube
 kind: web page
 tier: own

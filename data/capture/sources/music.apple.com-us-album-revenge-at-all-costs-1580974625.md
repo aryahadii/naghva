@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/revenge-at-all-costs/1580974625
+archive: "https://web.archive.org/web/20251115074003/https://music.apple.com/us/album/revenge-at-all-costs/1580974625"
 title: Revenge at All Costs
 tier: discography
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://cinnapey.bandcamp.com/track/fragile-2
+archive: "https://web.archive.org/web/20261005051504/https://cinnapey.bandcamp.com/track/fragile-2"
 title: Fragile | Cinna Peyghamy
 kind: web page
 language: en

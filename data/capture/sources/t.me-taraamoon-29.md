@@ -1,5 +1,6 @@
 ---
 url: https://t.me/Taraamoon/29
+archive: "https://web.archive.org/web/20221103041029/https://t.me/Taraamoon/29"
 title: 'Telegram: View @Taraamoon'
 kind: web page
 language: en

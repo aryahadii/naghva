@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/bade-ma-single/1805231450
+archive: "https://web.archive.org/web/20260303093650/https://music.apple.com/us/album/bade-ma-single/1805231450"
 title: Ba'de Ma - Single
 tier: discography
 language: en

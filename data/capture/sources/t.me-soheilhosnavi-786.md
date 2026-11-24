@@ -1,5 +1,6 @@
 ---
 url: https://t.me/soheilhosnavi/786
+archive: "https://web.archive.org/web/20220521091029/https://t.me/soheilhosnavi/786"
 title: دونوازی کوتاه سنتور و تمبک
 status: processed
 tier: own

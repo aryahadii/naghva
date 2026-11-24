@@ -1,5 +1,6 @@
 ---
 url: https://hailstones-band.bandcamp.com/track/treacherous-2
+archive: "https://web.archive.org/web/20261124082435/https://hailstones-band.bandcamp.com/track/treacherous-2"
 title: Treacherous | Hailstones
 kind: web page
 language: en

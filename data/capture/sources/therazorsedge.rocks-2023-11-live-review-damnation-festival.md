@@ -1,5 +1,6 @@
 ---
 url: https://therazorsedge.rocks/2023-11-live-review-damnation-festival/
+archive: "https://web.archive.org/web/20260118231858/https://therazorsedge.rocks/2023-11-live-review-damnation-festival/"
 title: Damnation Festival 2023
 tier: journalism
 language: en

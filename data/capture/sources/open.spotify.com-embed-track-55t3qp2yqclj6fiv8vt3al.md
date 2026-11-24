@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/embed/track/55T3qP2yqCLj6FiV8vT3Al
+archive: "https://web.archive.org/web/20260307064223/https://open.spotify.com/embed/track/55T3qP2yqCLj6FiV8vT3Al"
 title: Gisovan
 tier: discography
 language: en

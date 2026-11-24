@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/playlist?list=PLJ50PeczyzLPt4SDB7_eA-gLxhiOoebd4
+archive: "https://web.archive.org/web/20191113005631/https://www.youtube.com/playlist?list=PLJ50PeczyzLPt4SDB7_eA-gLxhiOoebd4"
 title: Voice of Peace 2017
 kind: web page
 tier: own

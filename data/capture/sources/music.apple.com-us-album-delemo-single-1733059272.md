@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/delemo-single/1733059272
+archive: "https://web.archive.org/web/20251027060734/https://music.apple.com/us/album/delemo-single/1733059272"
 title: Delemo - Single
 tier: discography
 language: en

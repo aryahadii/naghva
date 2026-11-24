@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/6QsCMIoSTVZnPTe5A5jKsQ
+archive: "https://web.archive.org/web/20220418173430/https://open.spotify.com/album/6QsCMIoSTVZnPTe5A5jKsQ"
 title: Our Garden is Alone
 tier: discography
 language: en

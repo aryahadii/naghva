@@ -1,5 +1,6 @@
 ---
 url: https://www.proton-berlin.de/kuenstler/Cyminology-Biography
+archive: "https://web.archive.org/web/20251123041433/https://www.proton-berlin.de/kuenstler/Cyminology-Biography"
 title: Cyminology – biography and lineup
 tier: own
 language: en

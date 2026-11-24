@@ -1,5 +1,6 @@
 ---
 url: https://aidashahghasemi.bandcamp.com/track/primrose
+archive: "https://web.archive.org/web/20220625093859/https://aidashahghasemi.bandcamp.com/track/primrose"
 title: Primrose
 tier: discography
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://tympanikaudio.bandcamp.com/track/sinking
+archive: "https://web.archive.org/web/20250608145440/https://tympanikaudio.bandcamp.com/track/sinking"
 title: Sinking | Idlefon | Tympanik Audio
 kind: web page
 language: en

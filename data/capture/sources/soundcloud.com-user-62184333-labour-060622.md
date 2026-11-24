@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/user-62184333/labour-060622
+archive: "https://web.archive.org/web/20230327200608/https://soundcloud.com/user-62184333/labour-060622"
 title: Stream Labour - Sufi Special 060622 by NTS Monday | Listen online for free on SoundCloud
 status: processed
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://kopirecs.bandcamp.com/track/tamer-of-the-horses
+archive: "https://web.archive.org/web/20260318132036/https://kopirecs.bandcamp.com/track/tamer-of-the-horses"
 title: Tamer Of The Horses | ArtSaves | Kopi Records
 kind: web page
 language: en

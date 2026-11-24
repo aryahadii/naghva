@@ -1,5 +1,6 @@
 ---
 url: https://purpletapepedigree.bandcamp.com/track/khatozar
+archive: "https://web.archive.org/web/20260906155149/https://purpletapepedigree.bandcamp.com/track/khatozar"
 title: Khatozar | Nima Aghiani | PTP
 kind: web page
 language: en

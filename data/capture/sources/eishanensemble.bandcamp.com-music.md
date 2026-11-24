@@ -1,5 +1,6 @@
 ---
 url: https://eishanensemble.bandcamp.com/music
+archive: "https://web.archive.org/web/20260514074502/https://eishanensemble.bandcamp.com/music"
 title: Music | Eishan Ensemble
 kind: web page
 tier: own

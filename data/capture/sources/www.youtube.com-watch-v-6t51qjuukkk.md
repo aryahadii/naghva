@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=6T51qjuUKKk
+archive: "https://web.archive.org/web/20251110212447/https://www.youtube.com/watch?v=6T51qjuUKKk"
 title: Pournazeri - Voyage (Mécénat Musica 64.1 Regard Persan) Classical Music Video
 tier: own
 kind: web page

@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=1xd8w4mJp9U
+archive: "https://web.archive.org/web/20260409201717/https://www.youtube.com/watch?v=1xd8w4mJp9U"
 title: 8. Dàr Ârézouyé To Bâshàm - در آرزوی تو باشم - (Arash Fouladvand feat Mahdieh and Sina)
 kind: youtube video
 tier: own

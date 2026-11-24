@@ -1,5 +1,6 @@
 ---
 url: https://mahmoodschricker.bandcamp.com/track/solo-baritone-horn
+archive: "https://web.archive.org/web/20260205113359/https://mahmoodschricker.bandcamp.com/track/solo-baritone-horn"
 title: Solo Baritone Horn | Mahmood Schricker
 kind: web page
 language: en

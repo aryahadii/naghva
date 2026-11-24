@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=BVqp5diVtl4
+archive: "https://web.archive.org/web/20250325201258/https://www.youtube.com/watch?si=7DEJu0j_xdxM2Wne&v=BVqp5diVtl4&feature=youtu.be"
 title: 8. Bémirid Bémirid - بمیرید بمیرید (Arash Fouladvand feat Sara Naeini and Vahid Taj) at TROXY
 kind: youtube video
 tier: own

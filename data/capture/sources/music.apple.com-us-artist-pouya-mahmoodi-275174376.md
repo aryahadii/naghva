@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/artist/pouya-mahmoodi/275174376
+archive: "https://web.archive.org/web/20251224221839/https://music.apple.com/us/artist/pouya-mahmoodi/275174376"
 title: ‎Pouya Mahmoodi - Apple Music
 kind: web page
 tier: discography

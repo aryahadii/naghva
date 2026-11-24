@@ -1,5 +1,6 @@
 ---
 url: https://eternal-winter.github.io/
+archive: "https://web.archive.org/web/20260710161644/https://eternal-winter.github.io/"
 title: 'Eternal Winter
 
   —

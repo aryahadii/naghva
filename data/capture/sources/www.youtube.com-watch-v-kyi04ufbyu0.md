@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=kyi04UFBYu0
+archive: "https://web.archive.org/web/20260331191821/https://www.youtube.com/watch?si=tfx6kvKHeglmb9sH&v=kyi04UFBYu0"
 title: 3. Omidé Vésâl - امید وصال - (Arash Fouladvand feat Mahdieh, Sitorai and Sina)
 kind: youtube video
 tier: own

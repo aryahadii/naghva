@@ -1,5 +1,6 @@
 ---
 url: https://t.me/Sahbamusic/1041
+archive: "https://web.archive.org/web/20260113111549/https://t.me/Sahbamusic/1041"
 title: دستگاه ماهور، اجرای کامل گوشه کرشمه، ردیف استاد شهنازی، تار ساخته استاد پوریا
 status: processed
 language: fa

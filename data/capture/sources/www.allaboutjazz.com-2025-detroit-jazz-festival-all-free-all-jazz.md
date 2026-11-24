@@ -1,5 +1,6 @@
 ---
 url: https://www.allaboutjazz.com/2025-detroit-jazz-festival-all-free-all-jazz/
+archive: "https://web.archive.org/web/20250924150743/https://www.allaboutjazz.com/2025-detroit-jazz-festival-all-free-all-jazz/"
 title: '2025 Detroit Jazz Festival: All Free, All Jazz'
 status: processed
 language: en

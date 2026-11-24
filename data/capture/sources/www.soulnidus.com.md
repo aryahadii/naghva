@@ -1,5 +1,6 @@
 ---
 url: https://www.soulnidus.com/
+archive: "https://web.archive.org/web/20260430210745/https://soulnidus.com/"
 title: soulnidus
 kind: web page
 tier: own

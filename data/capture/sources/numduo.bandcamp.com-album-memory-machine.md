@@ -1,5 +1,6 @@
 ---
 url: https://numduo.bandcamp.com/album/memory-machine
+archive: "https://web.archive.org/web/20230505075244/https://numduo.bandcamp.com/album/memory-machine"
 title: Memory Machine | NUM
 kind: web page
 language: en

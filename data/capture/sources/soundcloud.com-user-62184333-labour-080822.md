@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/user-62184333/labour-080822
+archive: "https://web.archive.org/web/20230327200607/https://soundcloud.com/user-62184333/labour-080822"
 title: Stream Labour w/ Fallou Dieng 080822 by NTS Monday | Listen online for free on SoundCloud
 status: processed
 language: en

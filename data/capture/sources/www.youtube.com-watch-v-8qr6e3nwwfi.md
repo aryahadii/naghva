@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=8qr6e3NwWfI
+archive: "https://web.archive.org/web/20260604050406/https://www.youtube.com/watch?si=7R52ploOKz8HiEkn&v=8qr6e3NwWfI"
 title: Pouya Mahmoodi - Sheikh Shangar - YouTube
 kind: web page
 tier: own

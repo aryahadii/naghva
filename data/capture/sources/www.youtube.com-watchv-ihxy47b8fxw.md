@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=ihxy47B8fxw
+archive: "https://web.archive.org/web/20220729132705/https://www.youtube.com/watch?v=ihxy47B8fxw"
 title: Ajam - Dare Vaz Kon (Cafe Jam) / عجم - در واز کن (کافه سه‌گاه)
 status: processed
 language: en

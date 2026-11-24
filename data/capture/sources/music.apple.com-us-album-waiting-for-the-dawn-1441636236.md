@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/waiting-for-the-dawn/1441636236
+archive: "https://web.archive.org/web/20190723052737/https://music.apple.com/us/album/waiting-for-the-dawn/1441636236"
 title: ‎Waiting For the Dawn - Album by Ooldouz Pouri - Apple Music
 kind: web page
 language: en

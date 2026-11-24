@@ -1,5 +1,6 @@
 ---
 url: https://t.me/soheilhosnavi/582
+archive: "https://web.archive.org/web/20220521090917/https://t.me/soheilhosnavi/582"
 title: دوضربی ابوعطا ساخته‌ی احسان کلهر
 status: processed
 tier: own

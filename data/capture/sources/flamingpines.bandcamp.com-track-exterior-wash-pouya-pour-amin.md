@@ -1,5 +1,6 @@
 ---
 url: https://flamingpines.bandcamp.com/track/exterior-wash-pouya-pour-amin
+archive: "https://web.archive.org/web/20261022200244/https://flamingpines.bandcamp.com/track/exterior-wash-pouya-pour-amin"
 title: Exterior Wash - Pouya Pour-Amin | Compilation of Iranian experimental music | Flaming Pines
 kind: web page
 language: en

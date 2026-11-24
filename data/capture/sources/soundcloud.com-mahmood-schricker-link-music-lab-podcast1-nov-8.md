@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/mahmood-schricker/link-music-lab-podcast1-nov-8
+archive: "https://web.archive.org/web/20121113085235/http://soundcloud.com:80/mahmood-schricker/link-music-lab-podcast1-nov-8"
 title: Stream LinkMusicLab Podcast 1- Nov 2012 Persian Electro by Mahmood Schricker | Listen online for free on SoundCloud
 kind: web page
 language: en

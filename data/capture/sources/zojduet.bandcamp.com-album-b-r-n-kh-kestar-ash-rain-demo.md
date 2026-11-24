@@ -1,5 +1,6 @@
 ---
 url: https://zojduet.bandcamp.com/album/b-r-n-kh-kestar-ash-rain-demo
+archive: "https://web.archive.org/web/20250621130418/https://zojduet.bandcamp.com/album/b-r-n-kh-kestar-ash-rain-demo"
 title: BĀRĀNÉ KHĀKESTAR - Ash Rain (DEMO) | ZÖJ
 kind: web page
 tier: own

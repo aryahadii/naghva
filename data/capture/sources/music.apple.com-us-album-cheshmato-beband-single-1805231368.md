@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/cheshmato-beband-single/1805231368
+archive: "https://web.archive.org/web/20260302080853/https://music.apple.com/us/album/cheshmato-beband-single/1805231368"
 title: Cheshmato Beband - Single
 tier: discography
 language: en

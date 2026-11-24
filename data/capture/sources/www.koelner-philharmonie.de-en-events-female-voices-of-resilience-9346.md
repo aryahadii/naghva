@@ -1,5 +1,6 @@
 ---
 url: https://www.koelner-philharmonie.de/en/events/female-voices-of-resilience/9346
+archive: "https://web.archive.org/web/20260712123135/https://www.koelner-philharmonie.de/en/events/female-voices-of-resilience/9346"
 title: Female Voices of Resilience | Kölner Philharmonie
 status: processed
 language: en

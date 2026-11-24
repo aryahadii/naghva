@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/eendomusic/mahmood-schricker-eendo-sarmasti-m24
+archive: "https://web.archive.org/web/20221020041611/https://soundcloud.com/eendomusic/mahmood-schricker-eendo-sarmasti-m24"
 title: Stream Sarmasti - Mahmood Schricker & Eendo by Eendo | Listen online for free on SoundCloud
 kind: web page
 tier: own

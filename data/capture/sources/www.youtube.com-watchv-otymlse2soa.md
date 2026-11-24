@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=OtyMlse2SoA
+archive: "https://web.archive.org/web/20250903012414/https://www.youtube.com/watch?v=OtyMlse2SoA"
 title: Ajam - Azizam (Cover) / عجم - عزیزم
 status: processed
 language: en

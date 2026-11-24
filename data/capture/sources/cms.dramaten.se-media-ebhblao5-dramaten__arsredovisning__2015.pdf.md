@@ -1,5 +1,6 @@
 ---
 url: https://cms.dramaten.se/Media/ebhblao5/dramaten__arsredovisning__2015.pdf
+archive: "https://web.archive.org/web/20260826140304/https://cms.dramaten.se/Media/ebhblao5/dramaten__arsredovisning__2015.pdf"
 title: Dramaten | Årsredovisning 2015
 tier: own
 language: sv

@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=f7vKHa1-BGg
+archive: "https://web.archive.org/web/20250527133609/https://www.youtube.com/watch?v=f7vKHa1-BGg"
 title: Live at Brisbane Festival - YouTube
 kind: youtube video
 tier: own

@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/1I0tCDMWFU6o2aYh9is9hw
+archive: "https://web.archive.org/web/20200116014315/https://open.spotify.com/album/1I0tCDMWFU6o2aYh9is9hw"
 title: Folk Songs and Contemporary Songs from Balochistan
 tier: discography
 language: en

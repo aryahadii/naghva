@@ -1,5 +1,6 @@
 ---
 url: https://thequietus.com/interviews/labour-interview/
+archive: "https://web.archive.org/web/20260313022037/https://thequietus.com/interviews/labour-interview/"
 title: 'Constructs Of Sanity: LABOUR Interviewed | The Quietus'
 status: processed
 language: en

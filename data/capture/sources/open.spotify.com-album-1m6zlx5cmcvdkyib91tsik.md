@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/1m6ZLx5cMCVDkYib91TSiK
+archive: "https://web.archive.org/web/20250724222428/https://open.spotify.com/album/1m6ZLx5cMCVDkYib91TSiK"
 title: The Rogue Prince of Persia (Original Game Soundtrack)
 tier: discography
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://subran.bandcamp.com/album/-
+archive: "https://web.archive.org/web/20260308165608/https://subran.bandcamp.com/album/-"
 title: Pascal Niggenkemper - Ensemble Tuvalu - d'une rive à l'autre
 tier: discography
 language: en

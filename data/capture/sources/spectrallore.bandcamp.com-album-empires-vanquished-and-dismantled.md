@@ -1,5 +1,6 @@
 ---
 url: https://spectrallore.bandcamp.com/album/empires-vanquished-and-dismantled
+archive: "https://web.archive.org/web/20260821055329/https://spectrallore.bandcamp.com/album/empires-vanquished-and-dismantled"
 title: Empires Vanquished And Dismantled | Mystras | Spectral Lore
 tier: own
 language: en

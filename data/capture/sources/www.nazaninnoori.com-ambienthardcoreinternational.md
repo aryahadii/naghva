@@ -1,5 +1,6 @@
 ---
 url: https://www.nazaninnoori.com/ambienthardcoreinternational
+archive: "https://web.archive.org/web/20260810021634/https://www.nazaninnoori.com/ambienthardcoreinternational"
 title: NAZANIN NAZANIN
 status: processed
 language: en

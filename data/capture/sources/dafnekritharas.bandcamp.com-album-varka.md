@@ -1,5 +1,6 @@
 ---
 url: https://dafnekritharas.bandcamp.com/album/varka
+archive: "https://web.archive.org/web/20250414161944/https://dafnekritharas.bandcamp.com/album/varka"
 title: Varka
 tier: own
 language: en

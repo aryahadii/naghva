@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/1REoLiBJbOHsf6XNLmDjBX
+archive: "https://web.archive.org/web/20190824223504/https://open.spotify.com/album/1REoLiBJbOHsf6XNLmDjBX"
 title: A Crypt in the Stars
 tier: discography
 language: en

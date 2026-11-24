@@ -1,5 +1,6 @@
 ---
 url: https://www.rfi.fr/fr/podcasts/musiques-du-monde/20250322-ensemble-chak%C3%A2m-sessionlive-entretien-joaquim-horsley
+archive: "https://web.archive.org/web/20250930065137/https://www.rfi.fr/fr/podcasts/musiques-du-monde/20250322-ensemble-chak%C3%A2m-sessionlive-entretien-joaquim-horsley"
 title: 'Ensemble Chakâm #SessionLive + entretien Joaquim Horsley - Musiques du monde - RFI'
 status: processed
 language: en

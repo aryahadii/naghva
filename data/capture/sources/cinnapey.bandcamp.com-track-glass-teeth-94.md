@@ -1,5 +1,6 @@
 ---
 url: https://cinnapey.bandcamp.com/track/glass-teeth-94
+archive: "https://web.archive.org/web/20261005051503/https://cinnapey.bandcamp.com/track/glass-teeth-94"
 title: Glass Teeth 94 | Cinna Peyghamy
 kind: web page
 language: en

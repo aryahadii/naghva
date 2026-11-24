@@ -1,5 +1,6 @@
 ---
 url: https://numduo.bandcamp.com/track/galoba-i
+archive: "https://web.archive.org/web/20230721014631/https://numduo.bandcamp.com/track/galoba-i"
 title: Galoba I | Milad Bagheri | NUM
 kind: web page
 language: en

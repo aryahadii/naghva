@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/soheil-peyghambari/le-reve-des-baleine-mortes-dead-whales-dream-soheil-peyghambari
+archive: "https://web.archive.org/web/20250806164806/https://soundcloud.com/soheil-peyghambari/le-reve-des-baleine-mortes-dead-whales-dream-soheil-peyghambari"
 title: Stream Le rêve des baleines mortes(From the album"Dysphoria") by Soheil Peyghambari | Listen online for free on SoundCloud
 kind: web page
 language: en

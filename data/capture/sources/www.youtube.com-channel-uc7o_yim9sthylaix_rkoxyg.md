@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/channel/UC7O_YiM9STHylaix_RKoXYg
+archive: "https://web.archive.org/web/20240318052811/https://www.youtube.com/channel/UC7O_YiM9STHylaix_RKoXYg"
 title: MELODE
 tier: own
 language: en

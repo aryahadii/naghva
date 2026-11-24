@@ -1,5 +1,6 @@
 ---
 url: https://darawish.bandcamp.com/track/bahare-delkash
+archive: "https://web.archive.org/web/20201107032147/https://darawish.bandcamp.com/track/bahare-delkash"
 title: Bahare delkash | Darawish
 kind: web page
 language: en

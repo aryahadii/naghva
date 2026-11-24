@@ -1,5 +1,6 @@
 ---
 url: https://cinnapey.bandcamp.com/track/mutosy
+archive: "https://web.archive.org/web/20261005051513/https://cinnapey.bandcamp.com/track/mutosy"
 title: Mutosy | Cinna Peyghamy
 kind: web page
 language: en

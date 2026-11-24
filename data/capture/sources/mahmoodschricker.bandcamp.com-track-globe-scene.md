@@ -1,5 +1,6 @@
 ---
 url: https://mahmoodschricker.bandcamp.com/track/globe-scene
+archive: "https://web.archive.org/web/20260205113415/https://mahmoodschricker.bandcamp.com/track/globe-scene"
 title: Globe Scene | Mahmood Schricker
 kind: web page
 language: en

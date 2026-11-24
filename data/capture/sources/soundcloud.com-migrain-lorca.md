@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/migrain/lorca
+archive: "https://web.archive.org/web/20220110202935/https://soundcloud.com/migrain/lorca"
 title: Stream ترانه ای که نخواهم سرود من هرگز (pre-master) by Migrain Sq. | Listen online for free on SoundCloud
 kind: web page
 language: en

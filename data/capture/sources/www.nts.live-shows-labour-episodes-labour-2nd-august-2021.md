@@ -1,5 +1,6 @@
 ---
 url: https://www.nts.live/shows/labour/episodes/labour-2nd-august-2021
+archive: "https://web.archive.org/web/20260519214339/https://www.nts.live/shows/labour/episodes/labour-2nd-august-2021"
 title: LABOUR w/ Mbaye Dieye Faye 2nd August 2021 | Listen on NTS
 status: processed
 language: en

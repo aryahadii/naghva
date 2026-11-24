@@ -1,5 +1,6 @@
 ---
 url: https://avarasti.bandcamp.com/album/the-moment-2
+archive: "https://web.archive.org/web/20240927095820/https://avarasti.bandcamp.com/album/the-moment-2"
 title: THE MOMENT | Ava Rasti
 kind: web page
 language: en

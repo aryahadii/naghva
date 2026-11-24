@@ -1,5 +1,6 @@
 ---
 url: https://darawish.bandcamp.com/track/huzam-ii-shargawi
+archive: "https://web.archive.org/web/20261124071827/https://darawish.bandcamp.com/track/huzam-ii-shargawi"
 title: 'Huzam II: Shargawi | Darawish'
 kind: web page
 language: en

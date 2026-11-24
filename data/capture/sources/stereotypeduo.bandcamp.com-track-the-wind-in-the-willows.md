@@ -1,5 +1,6 @@
 ---
 url: https://stereotypeduo.bandcamp.com/track/the-wind-in-the-willows
+archive: "https://web.archive.org/web/20240521122208/https://stereotypeduo.bandcamp.com/track/the-wind-in-the-willows"
 title: The wind in the willows | Stereotype
 kind: web page
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=t-v1E64EnVw
+archive: "https://web.archive.org/web/20220505221808/https://www.youtube.com/watch?v=t-v1E64EnVw"
 title: Shahin Najafi - Tabib (Album Jens Sevom) طبیب - آلبوم جنس سوم شاهین نجفی - YouTube
 kind: web page
 tier: own

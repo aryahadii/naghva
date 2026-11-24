@@ -1,5 +1,6 @@
 ---
 url: https://t.me/Sahbamusic/1083
+archive: "https://web.archive.org/web/20260202011246/https://t.me/Sahbamusic/1083"
 title: آواز بیات اصفهان، اجرای کامل چهارمضراب، ردیف دوره عالی استاد شهنازی
 status: processed
 language: fa

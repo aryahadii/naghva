@@ -1,5 +1,6 @@
 ---
 url: https://t.me/soheilhosnavi/450
+archive: "https://web.archive.org/web/20220612105459/https://t.me/soheilhosnavi/450"
 title: قسمت هایی از تکنوازی سنتور و قطعاتی که به عنوان آهنگساز و نوازنده‌ی میهمان در کنسرت گروه
 status: processed
 tier: own

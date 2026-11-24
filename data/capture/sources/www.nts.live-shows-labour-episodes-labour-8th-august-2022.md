@@ -1,5 +1,6 @@
 ---
 url: https://www.nts.live/shows/labour/episodes/labour-8th-august-2022
+archive: "https://web.archive.org/web/20250315202024/https://www.nts.live/shows/labour/episodes/labour-8th-august-2022"
 title: Labour w/ Fallou Dieng 8th August 2022 | Listen on NTS
 status: processed
 language: en

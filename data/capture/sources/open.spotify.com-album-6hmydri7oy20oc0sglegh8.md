@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/6HMyDri7Oy20Oc0SglEgH8
+archive: "https://web.archive.org/web/20261109060456/https://open.spotify.com/album/6HMyDri7Oy20Oc0SglEgH8"
 title: Djoyas De Mar
 tier: discography
 language: en

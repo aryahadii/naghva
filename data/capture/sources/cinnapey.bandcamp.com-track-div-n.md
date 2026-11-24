@@ -1,5 +1,6 @@
 ---
 url: https://cinnapey.bandcamp.com/track/div-n
+archive: "https://web.archive.org/web/20261005051452/https://cinnapey.bandcamp.com/track/div-n"
 title: Divân دیوان | Cinna Peyghamy
 kind: web page
 language: en

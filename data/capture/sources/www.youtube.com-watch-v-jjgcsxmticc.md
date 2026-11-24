@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=JjgCsXMTICc
+archive: "https://web.archive.org/web/20221028075641/https://www.youtube.com/watch?v=JjgCsXMTICc"
 title: Rafto Gozasht ManotoTV - YouTube
 kind: web page
 tier: own

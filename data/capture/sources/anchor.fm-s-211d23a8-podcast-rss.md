@@ -1,5 +1,6 @@
 ---
 url: https://anchor.fm/s/211d23a8/podcast/rss
+archive: "https://web.archive.org/web/20221130033919/https://anchor.fm/s/211d23a8/podcast/rss"
 title: Dast Cast دست کست
 kind: web page
 language: en

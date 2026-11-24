@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=dXCVdBDEpU0
+archive: "https://web.archive.org/web/20250817090221/https://www.youtube.com/watch?v=dXCVdBDEpU0"
 title: Ajam - Maryam gole mo / عجم - مریم گل مو
 status: processed
 language: en
