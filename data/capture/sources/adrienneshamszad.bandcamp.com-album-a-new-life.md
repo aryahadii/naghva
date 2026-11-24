@@ -1,5 +1,6 @@
 ---
 url: https://adrienneshamszad.bandcamp.com/album/a-new-life
+archive: "https://web.archive.org/web/20261124005203/https://adrienneshamszad.bandcamp.com/album/a-new-life"
 title: A New Life
 tier: own
 language: en

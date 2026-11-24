@@ -1,5 +1,6 @@
 ---
 url: https://aidashahghasemi.bandcamp.com/track/kind
+archive: "https://web.archive.org/web/20261124010135/https://aidashahghasemi.bandcamp.com/track/kind"
 title: Kind
 tier: discography
 language: en

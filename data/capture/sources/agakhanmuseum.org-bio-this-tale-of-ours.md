@@ -1,5 +1,6 @@
 ---
 url: https://agakhanmuseum.org/bio/this-tale-of-ours/
+archive: "https://web.archive.org/web/20261124005707/https://agakhanmuseum.org/bio/this-tale-of-ours/"
 title: This Tale of Ours | Aga Khan Museum
 kind: web page
 tier: other

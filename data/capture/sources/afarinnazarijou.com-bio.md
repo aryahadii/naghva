@@ -1,5 +1,6 @@
 ---
 url: https://afarinnazarijou.com/bio/
+archive: "https://web.archive.org/web/20261124005340/https://afarinnazarijou.com/bio/"
 title: Bio – Afarin Nazarijou
 status: processed
 language: en

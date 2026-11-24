@@ -1,5 +1,6 @@
 ---
 url: https://adrienneshamszad.bandcamp.com/album/wash-it-all-away
+archive: "https://web.archive.org/web/20261124005238/https://adrienneshamszad.bandcamp.com/album/wash-it-all-away"
 title: Wash It All Away
 tier: own
 language: en

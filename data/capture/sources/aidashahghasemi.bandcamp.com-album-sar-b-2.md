@@ -1,5 +1,6 @@
 ---
 url: https://aidashahghasemi.bandcamp.com/album/sar-b-2
+archive: "https://web.archive.org/web/20261124010032/https://aidashahghasemi.bandcamp.com/album/sar-b-2"
 title: Sarāb
 tier: discography
 language: en

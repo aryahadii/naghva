@@ -1,5 +1,6 @@
 ---
 url: https://abjeez.com/music-videos-2/
+archive: "https://web.archive.org/web/20261124004918/https://abjeez.com/music-videos-2/"
 title: Abjeez music videos
 tier: own
 language: en
