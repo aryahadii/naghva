@@ -1,5 +1,6 @@
 ---
 url: https://www.superpitch.co/?album=supiwm_6025
+archive: "https://web.archive.org/web/20260415101121/https://www.superpitch.co/?album=supiwm_6025"
 title: SUPIWM_6025 ‹ SuperPitch ©
 tier: own
 language: en

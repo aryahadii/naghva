@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/the-voices-and-bridges/1563830946
+archive: "https://web.archive.org/web/20250706170522/https://music.apple.com/us/album/the-voices-and-bridges/1563830946"
 title: The Voices and Bridges
 tier: own
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=k2WbfEWflxA
+archive: "https://web.archive.org/web/20240227174519/https://www.youtube.com/watch?v=k2WbfEWflxA"
 title: Setar, Reng Segah I رنگ سه‌گاه
 tier: own
 kind: web page

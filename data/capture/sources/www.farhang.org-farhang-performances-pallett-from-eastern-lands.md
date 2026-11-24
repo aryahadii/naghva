@@ -1,5 +1,6 @@
 ---
 url: https://www.farhang.org/farhang-performances/pallett-from-eastern-lands
+archive: "https://web.archive.org/web/20240816002717/https://farhang.org/farhang-performances/pallett-from-eastern-lands"
 title: Pallett - از سرزمین های شرقی (From Eastern Lands) | Farhang Performances | Programs
 kind: web page
 language: en

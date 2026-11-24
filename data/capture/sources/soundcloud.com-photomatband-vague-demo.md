@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/photomatband/vague-demo
+archive: "https://web.archive.org/web/20130414153537/http://soundcloud.com:80/photomatband/vague-demo"
 title: Stream Vague (Demo) by photomatband | Listen online for free on SoundCloud
 kind: web page
 language: en

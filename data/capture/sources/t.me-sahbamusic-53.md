@@ -1,5 +1,6 @@
 ---
 url: https://t.me/Sahbamusic/53
+archive: "https://web.archive.org/web/20221206214442/https://t.me/Sahbamusic/53"
 title: چهارمضراب بيات أصفهان. صهبا مطلبي و نغمه فرهمند
 status: processed
 language: fa

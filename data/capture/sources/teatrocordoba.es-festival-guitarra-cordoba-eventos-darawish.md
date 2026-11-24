@@ -1,5 +1,6 @@
 ---
 url: https://teatrocordoba.es/festival-guitarra-cordoba/eventos/darawish/
+archive: "https://web.archive.org/web/20260718031809/https://teatrocordoba.es/festival-guitarra-cordoba/eventos/darawish/"
 title: 'DARAWISH: «Madar»'
 tier: own
 language: es

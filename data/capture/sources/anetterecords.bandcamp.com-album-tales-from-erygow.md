@@ -1,5 +1,6 @@
 ---
 url: https://anetterecords.bandcamp.com/album/tales-from-erygow
+archive: "https://web.archive.org/web/20261112103204/https://anetterecords.bandcamp.com/album/tales-from-erygow"
 title: Tales From Erygow | DOT | ANETTE RECORDS
 kind: web page
 language: en

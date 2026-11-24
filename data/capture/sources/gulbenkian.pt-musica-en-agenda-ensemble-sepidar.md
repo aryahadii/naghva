@@ -1,5 +1,6 @@
 ---
 url: https://gulbenkian.pt/musica/en/agenda/ensemble-sepidar/
+archive: "https://web.archive.org/web/20261124081203/https://gulbenkian.pt/musica/en/agenda/ensemble-sepidar/"
 title: Ensemble Sepidar – Gulbenkian Música
 tier: own
 language: en

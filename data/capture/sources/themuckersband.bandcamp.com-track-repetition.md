@@ -1,5 +1,6 @@
 ---
 url: https://themuckersband.bandcamp.com/track/repetition
+archive: "https://web.archive.org/web/20250910002104/https://themuckersband.bandcamp.com/track/repetition"
 title: Repetition | The Muckers
 kind: web page
 tier: own

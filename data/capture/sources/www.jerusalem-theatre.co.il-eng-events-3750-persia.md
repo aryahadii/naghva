@@ -1,5 +1,6 @@
 ---
 url: https://www.jerusalem-theatre.co.il/eng/Events/3750/Persia
+archive: "https://web.archive.org/web/20250323091925/https://www.jerusalem-theatre.co.il/eng/Events/3750/Persia"
 title: Persia | Jerusalem Theatre
 status: processed
 language: en

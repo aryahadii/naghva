@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/2lyZuBtyoxKRli0R19Pu3g
+archive: "https://web.archive.org/web/20210626052025/https://open.spotify.com/album/2lyZuBtyoxKRli0R19Pu3g"
 title: Tash
 tier: discography
 language: en

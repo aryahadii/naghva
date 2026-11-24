@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/kelaas-shuru-shod-freedom-is-coming-single/1739126002
+archive: "https://web.archive.org/web/20260918034311/https://music.apple.com/us/album/kelaas-shuru-shod-freedom-is-coming-single/1739126002"
 title: Kelaas Shuru Shod (Freedom is Coming) - Single
 tier: discography
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://flamingpines.bandcamp.com/track/ginestra
+archive: "https://web.archive.org/web/20250620125852/https://flamingpines.bandcamp.com/track/ginestra"
 title: Ginestra | Ava Rasti | Flaming Pines
 kind: web page
 language: en

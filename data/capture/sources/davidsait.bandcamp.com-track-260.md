@@ -1,5 +1,6 @@
 ---
 url: https://davidsait.bandcamp.com/track/260
+archive: "https://web.archive.org/web/20250620155826/https://davidsait.bandcamp.com/track/260"
 title: 260 | Various Artists | David Sait
 kind: web page
 tier: own

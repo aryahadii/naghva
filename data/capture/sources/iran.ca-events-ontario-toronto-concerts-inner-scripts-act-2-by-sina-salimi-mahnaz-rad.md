@@ -1,5 +1,6 @@
 ---
 url: https://iran.ca/events/ontario/toronto/concerts/inner-scripts-act-2-by-sina-salimi-mahnaz-rad/
+archive: "https://web.archive.org/web/20250629103653/https://iran.ca/events/ontario/toronto/concerts/inner-scripts-act-2-by-sina-salimi-mahnaz-rad/"
 title: 'Inner Scripts - [Act #2] by Sina Salimi & Mahnaz Rad'
 kind: web page
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=2uOJrVGTzhk
+archive: "https://web.archive.org/web/20250912211041/https://www.youtube.com/watch?v=2uOJrVGTzhk"
 title: غوغای ستارگان - آرش فولادوند و گروه کر بهار (Official)
 kind: youtube video
 tier: own

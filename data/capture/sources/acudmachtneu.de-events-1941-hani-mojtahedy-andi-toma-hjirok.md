@@ -1,5 +1,6 @@
 ---
 url: https://acudmachtneu.de/events/1941/hani-mojtahedy-andi-toma-hjirok/
+archive: "https://web.archive.org/web/20260702204643/https://acudmachtneu.de/events/1941/hani-mojtahedy-andi-toma-hjirok/"
 title: 'HANI MOJTAHEDY & ANDI TOMA: HJIROK | ACUD MACHT NEU'
 status: processed
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/meshcut/02-i-dont-hear-a-voice-1
+archive: "https://web.archive.org/web/20220921053550/https://soundcloud.com/meshcut/02-i-dont-hear-a-voice-1"
 title: Stream 02 - I Don't Hear A Voice by Meshcut | Listen online for free on SoundCloud
 kind: web page
 language: en

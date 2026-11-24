@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/6ZVLOR6Xowrdww4ecyqM5E
+archive: "https://web.archive.org/web/20220225190245/https://open.spotify.com/album/6ZVLOR6Xowrdww4ecyqM5E"
 title: FERDOWS II
 tier: discography
 language: en

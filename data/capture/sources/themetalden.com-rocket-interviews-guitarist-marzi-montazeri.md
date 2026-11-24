@@ -1,5 +1,6 @@
 ---
 url: https://themetalden.com/rocket-interviews-guitarist-marzi-montazeri/
+archive: "https://web.archive.org/web/20260809042355/https://themetalden.com/rocket-interviews-guitarist-marzi-montazeri/"
 title: ROCKET Interviews Guitarist Marzi Montazeri
 tier: journalism
 language: en

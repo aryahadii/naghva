@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/0ILxzR5YTi2QeDdt83ObJg
+archive: "https://web.archive.org/web/20190819071002/https://open.spotify.com/album/0ILxzR5YTi2QeDdt83ObJg"
 title: Through
 tier: discography
 language: en

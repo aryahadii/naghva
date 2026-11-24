@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=aH-HK7H0N-I
+archive: "https://web.archive.org/web/20260313160820/https://www.youtube.com/watch?v=aH-HK7H0N-I"
 title: Ey Shàrghié Ghàmgin - ای شرقی غمگین (Arash Fouladvand feat Niaz Nawab)
 kind: youtube video
 tier: own

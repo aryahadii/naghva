@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=5qu-i3Knwco
+archive: "https://web.archive.org/web/20250323054808/https://www.youtube.com/watch?v=5qu-i3Knwco"
 title: 3. Résid Ân Shàh 1 - رسید آن شه ۱  (Arash Fouladvand feat  Sara Naeini and Vahid Taj) at TROXY
 kind: youtube video
 tier: own

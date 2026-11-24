@@ -1,5 +1,6 @@
 ---
 url: https://t.me/soheilhosnavi/619
+archive: "https://web.archive.org/web/20220521085333/https://t.me/soheilhosnavi/619"
 title: اتودی در شوشتری ؛
 status: processed
 tier: own

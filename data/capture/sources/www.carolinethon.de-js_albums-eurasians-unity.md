@@ -1,5 +1,6 @@
 ---
 url: https://www.carolinethon.de/js_albums/eurasians-unity/
+archive: "https://web.archive.org/web/20260715045750/https://www.carolinethon.de/js_albums/eurasians-unity/"
 title: Eurasians Unity, album notes
 tier: own
 language: en

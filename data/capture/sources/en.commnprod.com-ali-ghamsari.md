@@ -1,5 +1,6 @@
 ---
 url: https://en.commnprod.com/ali-ghamsari
+archive: "https://web.archive.org/web/20260810050109/https://en.commnprod.com/ali-ghamsari"
 title: Ali Ghamsari | commNprod
 tier: own
 language: en

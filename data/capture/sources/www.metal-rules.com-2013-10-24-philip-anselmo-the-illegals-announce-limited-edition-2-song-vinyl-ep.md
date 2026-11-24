@@ -1,5 +1,6 @@
 ---
 url: https://www.metal-rules.com/2013/10/24/philip-anselmo-the-illegals-announce-limited-edition-2-song-vinyl-ep/
+archive: "https://web.archive.org/web/20210410150527/https://www.metal-rules.com/2013/10/24/philip-anselmo-the-illegals-announce-limited-edition-2-song-vinyl-ep/"
 title: 'Scion A/V Presents: Housecore Horror Film Festival 2013 EP'
 tier: journalism
 language: en

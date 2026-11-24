@@ -1,5 +1,6 @@
 ---
 url: https://esfand.bandcamp.com/track/lalaee-lullaby
+archive: "https://web.archive.org/web/20251223182612/https://esfand.bandcamp.com/track/lalaee-lullaby"
 title: Lalaee (Lullaby) | Esfand
 kind: web page
 language: en

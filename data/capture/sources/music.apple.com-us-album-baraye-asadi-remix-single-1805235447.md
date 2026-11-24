@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/baraye-asadi-remix-single/1805235447
+archive: "https://web.archive.org/web/20260302102200/https://music.apple.com/us/album/baraye-asadi-remix-single/1805235447"
 title: Baraye ((Asadi Remix)) - Single
 tier: discography
 language: en

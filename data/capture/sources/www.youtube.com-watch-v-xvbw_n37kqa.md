@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=xvBw_N37KqA
+archive: "https://web.archive.org/web/20260125024124/https://www.youtube.com/watch?v=xvBw_N37KqA"
 title: کنسرت آوای صلح، آوای همبستگی
 kind: youtube video
 tier: own

@@ -1,5 +1,6 @@
 ---
 url: https://tcfsr.bandcamp.com/track/spiral-spin
+archive: "https://web.archive.org/web/20230622211239/https://tcfsr.bandcamp.com/track/spiral-spin"
 title: Spiral Spin | NUM | The Committee for Sonic Research
 kind: web page
 language: en

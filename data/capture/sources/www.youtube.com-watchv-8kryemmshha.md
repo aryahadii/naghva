@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=8kRyeMMshHA
+archive: "https://web.archive.org/web/20250904033046/https://www.youtube.com/watch?v=8kRyeMMshHA"
 title: Ajam - Eghvagar (Tarze Landan) / عجم - اغواگر
 status: processed
 language: en

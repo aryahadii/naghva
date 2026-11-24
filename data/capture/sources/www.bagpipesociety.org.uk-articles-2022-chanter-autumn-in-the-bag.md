@@ -1,5 +1,6 @@
 ---
 url: https://www.bagpipesociety.org.uk/articles/2022/chanter/autumn/in-the-bag/
+archive: "https://web.archive.org/web/20260521050636/https://www.bagpipesociety.org.uk/articles/2022/chanter/autumn/in-the-bag/"
 title: 'In the Bag: Liana Sharifian - The Bagpipe Society'
 tier: journalism
 language: en

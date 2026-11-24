@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/asadimusic/immortals
+archive: "https://web.archive.org/web/20250816090450/https://soundcloud.com/asadimusic/immortals"
 title: Immortals
 tier: own
 language: en

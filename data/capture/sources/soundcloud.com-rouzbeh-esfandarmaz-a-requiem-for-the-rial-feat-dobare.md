@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/rouzbeh-esfandarmaz/a-requiem-for-the-rial-feat-dobare
+archive: "https://web.archive.org/web/20230319175745/https://soundcloud.com/rouzbeh-esfandarmaz/a-requiem-for-the-rial-feat-dobare"
 title: Stream A Requiem For The Rial (feat. DoBaRe) by Rouzbeh Esfand | Listen online for free on SoundCloud
 kind: web page
 language: en

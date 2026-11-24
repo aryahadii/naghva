@@ -1,5 +1,6 @@
 ---
 url: https://www.lagenerale.fr/fr/projet/meshcut
+archive: "https://web.archive.org/web/20260118231022/https://www.lagenerale.fr/fr/projet/meshcut"
 title: Meshcut | La Générale | Laboratoire artistique politique et social
 kind: web page
 language: en

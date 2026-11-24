@@ -1,5 +1,6 @@
 ---
 url: https://autopilotmusic.com/nazanin-noori/
+archive: "https://web.archive.org/web/20260615020145/https://autopilotmusic.com/nazanin-noori/"
 title: Nazanin Noori – Autopilot Music Publishing
 status: processed
 language: en

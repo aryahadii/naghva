@@ -1,5 +1,6 @@
 ---
 url: https://www.irishnews.com/entertainment/experience-a-night-of-persian-kurdish-irish-music-sara-fotros-international-musicians-at-belfasts-duncairn-arts-centre-YCRVO37RT5BMTEE7KVQEMT2B6U/
+archive: "https://web.archive.org/web/20250724161439/https://www.irishnews.com/entertainment/experience-a-night-of-persian-kurdish-irish-music-sara-fotros-international-musicians-at-belfasts-duncairn-arts-centre-YCRVO37RT5BMTEE7KVQEMT2B6U/"
 title: 'Experience a night of Persian, Kurdish & Irish Music: Sara Fotros & international musicians at Belfast’s
   Duncairn Arts Centre – The Irish News'
 status: processed

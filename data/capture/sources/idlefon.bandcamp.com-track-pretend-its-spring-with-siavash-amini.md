@@ -1,5 +1,6 @@
 ---
 url: https://idlefon.bandcamp.com/track/pretend-its-spring-with-siavash-amini
+archive: "https://web.archive.org/web/20240401113754/https://idlefon.bandcamp.com/track/pretend-its-spring-with-siavash-amini"
 title: Pretend It's Spring (with Siavash Amini) | Idlefon
 kind: web page
 language: en

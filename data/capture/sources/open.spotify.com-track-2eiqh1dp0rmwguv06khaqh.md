@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/track/2eIQH1dP0RMwGUv06KHAqh
+archive: "https://web.archive.org/web/20221212005457/https://open.spotify.com/track/2eIQH1dP0RMwGUv06KHAqh"
 title: Elegy for Time - song and lyrics by Soheil Peyghambari | Spotify
 kind: web page
 language: en

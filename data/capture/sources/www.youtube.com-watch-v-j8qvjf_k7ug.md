@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=j8qvjF_K7ug
+archive: "https://web.archive.org/web/20260305201247/https://www.youtube.com/watch?v=j8qvjF_K7ug"
 title: Tabula Lacrimarum | لَوْحُ الدُّمُوع | سرشک‌نبشت
 kind: web page
 language: en

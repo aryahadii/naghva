@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/negar-bouban/rvwjxt2exqq6
+archive: "https://web.archive.org/web/20240715060114/https://soundcloud.com/negar-bouban/rvwjxt2exqq6"
 title: Stream شعر شب by Negar Bouban | Listen online for free on SoundCloud
 tier: discography
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://esfand.bandcamp.com/album/piltan
+archive: "https://web.archive.org/web/20251223182546/https://esfand.bandcamp.com/album/piltan"
 title: Piltan | Esfand
 kind: web page
 language: en

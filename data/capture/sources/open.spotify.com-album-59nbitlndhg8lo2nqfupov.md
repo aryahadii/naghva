@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/59nbitLNdhG8lo2NQFUPov
+archive: "https://web.archive.org/web/20230114202458/https://open.spotify.com/album/59nbitLNdhG8lo2NQFUPov"
 title: Chetori Mishe
 tier: discography
 language: en

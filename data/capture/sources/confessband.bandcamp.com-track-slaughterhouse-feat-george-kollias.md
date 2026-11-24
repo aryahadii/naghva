@@ -1,5 +1,6 @@
 ---
 url: https://confessband.bandcamp.com/track/slaughterhouse-feat-george-kollias
+archive: "https://web.archive.org/web/20251012162420/https://confessband.bandcamp.com/track/slaughterhouse-feat-george-kollias"
 title: Slaughterhouse (feat. George Kollias) | Confess
 tier: own
 language: en

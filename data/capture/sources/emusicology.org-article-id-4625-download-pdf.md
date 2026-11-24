@@ -1,5 +1,6 @@
 ---
 url: https://emusicology.org/article/id/4625/download/pdf/
+archive: "https://web.archive.org/web/20261124074316/https://emusicology.org/article/id/4625/download/pdf/"
 title: Perception of Structure in Collective Free Improvisation
 status: processed
 language: en

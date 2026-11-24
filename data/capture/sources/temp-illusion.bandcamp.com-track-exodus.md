@@ -1,5 +1,6 @@
 ---
 url: https://temp-illusion.bandcamp.com/track/exodus
+archive: "https://web.archive.org/web/20251230222356/https://temp-illusion.bandcamp.com/track/exodus"
 title: Exodus | Temp-Illusion
 kind: web page
 language: en

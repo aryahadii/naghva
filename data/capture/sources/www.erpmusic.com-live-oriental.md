@@ -1,5 +1,6 @@
 ---
 url: https://www.erpmusic.com/live-oriental/
+archive: "https://web.archive.org/web/20260710112545/https://www.erpmusic.com/live-oriental/"
 title: 'Live: Oriental | ERP'
 tier: own
 language: en

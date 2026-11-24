@@ -1,5 +1,6 @@
 ---
 url: https://vazesh.bandcamp.com/track/magic
+archive: "https://web.archive.org/web/20260619184216/https://vazesh.bandcamp.com/track/magic"
 title: Magic | Vazesh
 kind: web page
 tier: own

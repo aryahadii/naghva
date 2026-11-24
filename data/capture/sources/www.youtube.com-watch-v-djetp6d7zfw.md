@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=DJEtp6d7zfw
+archive: "https://web.archive.org/web/20251122180305/https://www.youtube.com/watch?v=DJEtp6d7zfw"
 title: The Muckers - Suspended (Official Live Video)
 kind: youtube video
 tier: own

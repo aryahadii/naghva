@@ -1,5 +1,6 @@
 ---
 url: https://hamedsadeghi.bandcamp.com/track/decisive
+archive: "https://web.archive.org/web/20261124082956/https://hamedsadeghi.bandcamp.com/track/decisive"
 title: Decisive | Hamed Sadeghi
 kind: web page
 tier: own

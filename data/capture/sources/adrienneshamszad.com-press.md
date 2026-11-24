@@ -1,5 +1,6 @@
 ---
 url: https://adrienneshamszad.com/press/
+archive: "https://web.archive.org/web/20260428141917/https://adrienneshamszad.com/press/"
 title: Press - Adrienne Shamszad
 tier: own
 language: en

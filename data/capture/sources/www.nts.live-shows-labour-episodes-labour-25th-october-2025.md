@@ -1,5 +1,6 @@
 ---
 url: https://www.nts.live/shows/labour/episodes/labour-25th-october-2025
+archive: "https://web.archive.org/web/20260207110530/https://www.nts.live/shows/labour/episodes/labour-25th-october-2025"
 title: Labour w/ Youssou Ndour 25th October 2025 | Listen on NTS
 status: processed
 language: en

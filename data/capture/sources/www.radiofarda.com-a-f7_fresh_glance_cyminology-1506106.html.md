@@ -1,5 +1,6 @@
 ---
 url: https://www.radiofarda.com/a/F7_fresh_glance_Cyminology/1506106.html
+archive: "https://web.archive.org/web/20170420153114/http://www.radiofarda.com:80/a/F7_fresh_glance_Cyminology/1506106.html"
 title: هم‌آواز با سیمینولوژی در جازکلاب‌های پراگ
 tier: journalism
 language: fa

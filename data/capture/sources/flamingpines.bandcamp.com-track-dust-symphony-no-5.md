@@ -1,5 +1,6 @@
 ---
 url: https://flamingpines.bandcamp.com/track/dust-symphony-no-5
+archive: "https://web.archive.org/web/20250620125834/https://flamingpines.bandcamp.com/track/dust-symphony-no-5"
 title: Dust Symphony No. 5 | Ava Rasti | Flaming Pines
 kind: web page
 language: en

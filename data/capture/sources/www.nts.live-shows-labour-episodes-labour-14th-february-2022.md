@@ -1,5 +1,6 @@
 ---
 url: https://www.nts.live/shows/labour/episodes/labour-14th-february-2022
+archive: "https://web.archive.org/web/20260123103259/https://www.nts.live/shows/labour/episodes/labour-14th-february-2022"
 title: LABOUR W/ Ndiaga Mbaye 14th February 2022 | Listen on NTS
 status: processed
 language: en

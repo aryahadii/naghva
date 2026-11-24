@@ -1,5 +1,6 @@
 ---
 url: https://www.nogaam.com/sites/default/files/Avazhaye%20Zirzamin9781909641020.pdf?fid=1752
+archive: "https://web.archive.org/web/20250514212314/https://www.nogaam.com/sites/default/files/Avazhaye%20Zirzamin9781909641020.pdf?fid=1752"
 title: آوازهای زیرزمین، سید ابراهیم نبوی
 kind: web page
 tier: journalism

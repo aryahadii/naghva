@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/roll-the-dice-single/1497604893
+archive: "https://web.archive.org/web/20250829191539/https://music.apple.com/us/album/roll-the-dice-single/1497604893"
 title: ‎Roll the Dice - Single - Album by The Muckers - Apple Music
 kind: web page
 tier: discography

@@ -1,5 +1,6 @@
 ---
 url: https://lowzirecords.bandcamp.com/track/atiq
+archive: "https://web.archive.org/web/20251206180916/https://lowzirecords.bandcamp.com/track/atiq"
 title: Atiq | عَتیقْ | Taraamoon | Low-Zi Records
 kind: web page
 language: en

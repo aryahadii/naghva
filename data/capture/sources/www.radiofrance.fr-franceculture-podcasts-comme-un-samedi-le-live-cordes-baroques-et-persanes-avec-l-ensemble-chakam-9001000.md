@@ -1,5 +1,6 @@
 ---
 url: https://www.radiofrance.fr/franceculture/podcasts/comme-un-samedi-le-live/cordes-baroques-et-persanes-avec-l-ensemble-chakam-9001000
+archive: "https://web.archive.org/web/20251010144654/https://www.radiofrance.fr/franceculture/podcasts/comme-un-samedi-le-live/cordes-baroques-et-persanes-avec-l-ensemble-chakam-9001000"
 title: Cordes baroques et persanes avec l'Ensemble Chakâm | France Culture
 status: processed
 language: en

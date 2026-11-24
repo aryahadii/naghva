@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/track/0NbbaMttV9EYNtyQ4CZQzg
+archive: "https://web.archive.org/web/20250904162259/https://open.spotify.com/track/0NbbaMttV9EYNtyQ4CZQzg"
 title: Sarmasti - song and lyrics by Mahmood Schricker, Eendo | Spotify
 kind: web page
 language: en

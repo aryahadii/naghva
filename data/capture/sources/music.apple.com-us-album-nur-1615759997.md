@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/nur/1615759997
+archive: "https://web.archive.org/web/20251219121957/https://music.apple.com/us/album/nur/1615759997"
 title: Nur
 tier: discography
 language: en

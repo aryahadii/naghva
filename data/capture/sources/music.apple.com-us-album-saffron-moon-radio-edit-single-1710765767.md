@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/saffron-moon-radio-edit-single/1710765767
+archive: "https://web.archive.org/web/20260427032249/https://music.apple.com/us/album/saffron-moon-radio-edit-single/1710765767"
 title: ‎Saffron Moon (Radio Edit) - Single - Album by Saffron Moon - Apple Music
 kind: web page
 tier: discography

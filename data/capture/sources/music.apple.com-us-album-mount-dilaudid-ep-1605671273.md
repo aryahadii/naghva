@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/mount-dilaudid-ep/1605671273
+archive: "https://web.archive.org/web/20251219194847/https://music.apple.com/us/album/mount-dilaudid-ep/1605671273"
 title: Mount Dilaudid - EP - Album by Mahmood Schricker, Michael Red & Sina Salimi - Apple Music
 kind: web page
 language: en

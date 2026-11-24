@@ -1,5 +1,6 @@
 ---
 url: https://t.me/soheilhosnavi/680
+archive: "https://web.archive.org/web/20220521090717/https://t.me/soheilhosnavi/680"
 title: تصنیف "اشک من هویدا شد"
 status: processed
 tier: own

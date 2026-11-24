@@ -1,5 +1,6 @@
 ---
 url: https://tricksterorchestra.de/media/
+archive: "https://web.archive.org/web/20260710103458/https://tricksterorchestra.de/media/"
 title: Musik und Videos
 tier: own
 language: de

@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=BirrxqsAE4M
+archive: "https://web.archive.org/web/20250804173217/https://www.youtube.com/watch?v=BirrxqsAE4M&feature=related"
 title: Shahrzad Ensemble - Gilan Folk Melody  "Kuhestani"
 tier: own
 kind: web page

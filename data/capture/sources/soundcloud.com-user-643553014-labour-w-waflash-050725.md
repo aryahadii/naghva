@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/user-643553014/labour-w-waflash-050725
+archive: "https://web.archive.org/web/20260804155010/https://soundcloud.com/user-643553014/labour-w-waflash-050725"
 title: Stream Labour w/ Waflash 050725 by NTS 2024-2025 | Listen online for free on SoundCloud
 status: processed
 language: en

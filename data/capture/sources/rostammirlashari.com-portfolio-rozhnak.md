@@ -1,5 +1,6 @@
 ---
 url: https://rostammirlashari.com/portfolio/rozhnak/
+archive: "https://web.archive.org/web/20260509195321/https://rostammirlashari.com/portfolio/rozhnak/"
 title: Rozhnak
 tier: own
 language: en

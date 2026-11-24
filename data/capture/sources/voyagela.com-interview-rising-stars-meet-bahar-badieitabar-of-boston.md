@@ -1,5 +1,6 @@
 ---
 url: https://voyagela.com/interview/rising-stars-meet-bahar-badieitabar-of-boston
+archive: "https://web.archive.org/web/20250815110300/https://voyagela.com/interview/rising-stars-meet-bahar-badieitabar-of-boston"
 title: 'Rising Stars: Meet Bahar Badieitabar of Boston – Voyage LA Magazine | LA City Guide'
 status: processed
 language: en

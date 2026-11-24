@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=N9hdhLp5jhw
+archive: "https://web.archive.org/web/20260408003807/https://www.youtube.com/watch?si=2JVkLYHkg0itTe4n&v=N9hdhLp5jhw"
 title: 12. Yousofé Gom Gàshteh, Bahar Children's Choir یوسف گم‌گشته (Arash Fouladvand feat Sina Sarlak)
 kind: youtube video
 tier: own

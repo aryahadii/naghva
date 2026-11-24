@@ -1,5 +1,6 @@
 ---
 url: https://detritirecords.bandcamp.com/album/psychic-bloom-s-t
+archive: "https://web.archive.org/web/20251122093917/https://detritirecords.bandcamp.com/album/psychic-bloom-s-t"
 title: Psychic Bloom - "S/T" | Detriti Records
 tier: discography
 language: en

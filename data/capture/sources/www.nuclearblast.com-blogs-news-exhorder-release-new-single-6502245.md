@@ -1,5 +1,6 @@
 ---
 url: https://www.nuclearblast.com/blogs/news/exhorder-release-new-single-6502245
+archive: "https://web.archive.org/web/20260606110154/https://www.nuclearblast.com/blogs/news/exhorder-release-new-single-6502245"
 title: Exhorder release new single
 tier: own
 language: en

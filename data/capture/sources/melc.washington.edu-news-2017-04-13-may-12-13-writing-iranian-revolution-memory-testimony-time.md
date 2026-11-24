@@ -1,5 +1,6 @@
 ---
 url: https://melc.washington.edu/news/2017/04/13/may-12-13-writing-iranian-revolution-memory-testimony-time
+archive: "https://web.archive.org/web/20260417211510/https://melc.washington.edu/news/2017/04/13/may-12-13-writing-iranian-revolution-memory-testimony-time"
 title: 'May 12-13: Writing the Iranian Revolution: Memory, Testimony, Time | Middle Eastern Languages and Cultures
   | University of Washington'
 status: processed

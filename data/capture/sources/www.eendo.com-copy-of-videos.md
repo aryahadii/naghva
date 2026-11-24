@@ -1,5 +1,6 @@
 ---
 url: https://www.eendo.com/copy-of-videos
+archive: "https://web.archive.org/web/20260606225450/https://www.eendo.com/copy-of-videos"
 title: MEDIA | eendo
 kind: web page
 tier: own

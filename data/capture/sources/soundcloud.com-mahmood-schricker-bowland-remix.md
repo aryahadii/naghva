@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/mahmood-schricker/bowland-remix
+archive: "https://web.archive.org/web/20210630093626/https://soundcloud.com/mahmood-schricker/bowland-remix"
 title: Stream Bowland - It's All Grey (Mahmood Schricker Remix) by Mahmood Schricker | Listen online for free on SoundCloud
 kind: web page
 language: en

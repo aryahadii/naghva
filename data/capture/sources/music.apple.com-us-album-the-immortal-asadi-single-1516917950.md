@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/the-immortal-asadi-single/1516917950
+archive: "https://web.archive.org/web/20250319155903/https://music.apple.com/us/album/the-immortal-asadi-single/1516917950"
 title: The Immortal Asadi - Single
 tier: discography
 language: en

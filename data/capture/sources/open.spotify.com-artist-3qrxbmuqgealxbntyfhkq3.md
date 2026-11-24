@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/artist/3qRxBmUqGEaLXBNtYFHkq3
+archive: "https://web.archive.org/web/20200626070801/https://open.spotify.com/artist/3qRxBmUqGEaLXBNtYFHkq3"
 title: Hushmand Ebadi
 tier: discography
 language: en

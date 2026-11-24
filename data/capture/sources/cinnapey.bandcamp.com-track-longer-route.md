@@ -1,5 +1,6 @@
 ---
 url: https://cinnapey.bandcamp.com/track/longer-route
+archive: "https://web.archive.org/web/20261115151217/https://cinnapey.bandcamp.com/track/longer-route"
 title: Longer Route | Cinna Peyghamy
 kind: web page
 language: en

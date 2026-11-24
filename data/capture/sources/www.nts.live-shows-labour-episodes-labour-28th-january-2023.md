@@ -1,5 +1,6 @@
 ---
 url: https://www.nts.live/shows/labour/episodes/labour-28th-january-2023
+archive: "https://web.archive.org/web/20260115183228/https://www.nts.live/shows/labour/episodes/labour-28th-january-2023"
 title: LABOUR w/ Bada Seck 28th January 2023 | Listen on NTS
 status: processed
 language: en

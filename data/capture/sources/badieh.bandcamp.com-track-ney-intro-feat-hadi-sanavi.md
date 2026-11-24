@@ -1,5 +1,6 @@
 ---
 url: https://badieh.bandcamp.com/track/ney-intro-feat-hadi-sanavi
+archive: "https://web.archive.org/web/20260604001131/https://badieh.bandcamp.com/track/ney-intro-feat-hadi-sanavi"
 title: Ney Intro (feat. Hadi Sanavi) | Badieh
 kind: web page
 tier: own

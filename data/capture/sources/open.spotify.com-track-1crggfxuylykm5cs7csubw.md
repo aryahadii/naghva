@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/track/1cRgGfxUYlyKm5cS7csubw
+archive: "https://web.archive.org/web/20220104230633/https://open.spotify.com/track/1cRgGfxUYlyKm5cS7csubw"
 title: Weed (feat. Ebrahim Rahnama) - song and lyrics by Mahmood Schricker | Spotify
 kind: web page
 language: en

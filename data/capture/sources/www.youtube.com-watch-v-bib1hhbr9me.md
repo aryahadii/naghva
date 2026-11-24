@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=BIB1hhbr9mE
+archive: "https://web.archive.org/web/20250827090845/https://www.youtube.com/watch?v=BIB1hhbr9mE"
 title: Eishan Ensemble Live at The Street Theatre Canberra - YouTube
 kind: youtube video
 tier: own

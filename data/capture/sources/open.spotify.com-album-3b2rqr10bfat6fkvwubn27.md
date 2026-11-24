@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/3b2rQR10bfAt6fKVwUBN27
+archive: "https://web.archive.org/web/20260601151424/https://open.spotify.com/album/3b2rQR10bfAt6fKVwUBN27"
 title: '2022 Midwest Clinic: Chicago Youth Symphony Orchestras (Live)'
 tier: discography
 language: en

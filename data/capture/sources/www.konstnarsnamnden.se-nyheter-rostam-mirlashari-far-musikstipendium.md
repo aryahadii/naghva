@@ -1,5 +1,6 @@
 ---
 url: https://www.konstnarsnamnden.se/nyheter/rostam-mirlashari-far-musikstipendium/
+archive: "https://web.archive.org/web/20260513103245/https://www.konstnarsnamnden.se/nyheter/rostam-mirlashari-far-musikstipendium/"
 title: Rostam Mirlashari får musikstipendium - Konstnärsnämnden
 tier: own
 language: sv

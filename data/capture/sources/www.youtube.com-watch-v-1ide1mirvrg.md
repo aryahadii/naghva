@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=1Ide1mirvRg
+archive: "https://web.archive.org/web/20260623145245/https://www.youtube.com/watch?v=1Ide1mirvRg"
 title: «عقرب زلف کجت - «آرش فولادوند و شارلوت بُتزی
 kind: youtube video
 tier: own

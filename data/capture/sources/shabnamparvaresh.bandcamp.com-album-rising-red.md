@@ -1,5 +1,6 @@
 ---
 url: https://shabnamparvaresh.bandcamp.com/album/rising-red
+archive: "https://web.archive.org/web/20260430124812/https://shabnamparvaresh.bandcamp.com/album/rising-red"
 title: Rising Red | Joachim Raffel , Shabnam Parvaresh | Shabnam Parvaresh
 status: processed
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://darawish.bandcamp.com/album/madar
+archive: "https://web.archive.org/web/20201104064113/https://darawish.bandcamp.com/album/madar"
 title: Madar | Darawish
 kind: web page
 language: en

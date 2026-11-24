@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/ta-key-single/1805235669
+archive: "https://web.archive.org/web/20261015094938/https://music.apple.com/us/album/ta-key-single/1805235669"
 title: Ta Key - Single
 tier: discography
 language: en

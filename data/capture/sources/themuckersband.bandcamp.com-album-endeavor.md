@@ -1,5 +1,6 @@
 ---
 url: https://themuckersband.bandcamp.com/album/endeavor
+archive: "https://web.archive.org/web/20251208065205/https://themuckersband.bandcamp.com/album/endeavor"
 title: Endeavor | The Muckers
 kind: web page
 tier: own

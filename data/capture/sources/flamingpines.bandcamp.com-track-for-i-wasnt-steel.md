@@ -1,5 +1,6 @@
 ---
 url: https://flamingpines.bandcamp.com/track/for-i-wasnt-steel
+archive: "https://web.archive.org/web/20260314010438/https://flamingpines.bandcamp.com/track/for-i-wasnt-steel"
 title: For I wasn't steel | Pouya Pour-Amin | Flaming Pines
 kind: web page
 language: en

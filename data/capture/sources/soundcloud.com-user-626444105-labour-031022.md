@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/user-626444105/labour-031022
+archive: "https://web.archive.org/web/20230327200606/https://soundcloud.com/user-626444105/labour-031022"
 title: Stream Labour - Zan Zendegi Azadi 031022 by NTS - Dance | Listen online for free on SoundCloud
 status: processed
 language: en

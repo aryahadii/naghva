@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=AB5tG4Bazsg
+archive: "https://web.archive.org/web/20250912205705/https://www.youtube.com/watch?v=AB5tG4Bazsg"
 title: می زده - آرش فولادوند و گروه کر بهار (Official)
 kind: youtube video
 tier: own

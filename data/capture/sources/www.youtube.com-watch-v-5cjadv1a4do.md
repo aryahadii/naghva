@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=5CjADv1A4do
+archive: "https://web.archive.org/web/20230315170757/https://www.youtube.com/watch?v=5CjADv1A4do"
 title: Shahin Najafi - Fath-Ali Shah (Album Jens Sevom) فتحعلیشاه - آلبوم جنس سوم شاهین نجفی - YouTube
 kind: web page
 tier: own

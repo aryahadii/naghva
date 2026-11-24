@@ -1,5 +1,6 @@
 ---
 url: https://badieh.bandcamp.com/track/paresh-e-jal
+archive: "https://web.archive.org/web/20251115230229/https://badieh.bandcamp.com/track/paresh-e-jal"
 title: Paresh-e Jal | Badieh
 kind: web page
 tier: own

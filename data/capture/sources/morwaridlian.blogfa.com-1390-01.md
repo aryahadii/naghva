@@ -1,5 +1,6 @@
 ---
 url: https://morwaridlian.blogfa.com/1390/01
+archive: "https://web.archive.org/web/20230710013826/http://morwaridlian.blogfa.com/1390/01"
 title: وبلاگ خبری گروه موسیقی مروارید لیان | فروردین ۱۳۹۰
 tier: own
 language: fa

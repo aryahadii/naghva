@@ -1,5 +1,6 @@
 ---
 url: https://www.uncsa.edu/kenan/art-restart/sahba-aminikia.aspx
+archive: "https://web.archive.org/web/20251210211315/https://www.uncsa.edu/kenan/art-restart/sahba-aminikia.aspx"
 title: Sahba Aminikia - UNCSA
 tier: own
 language: en

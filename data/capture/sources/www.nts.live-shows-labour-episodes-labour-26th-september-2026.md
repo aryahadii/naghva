@@ -1,5 +1,6 @@
 ---
 url: https://www.nts.live/shows/labour/episodes/labour-26th-september-2026
+archive: "https://web.archive.org/web/20260918232735/https://www.nts.live/shows/labour/episodes/labour-26th-september-2026"
 title: LABOUR w/ Baaba Maal 26th September 2026 | Listen on NTS
 status: processed
 language: en

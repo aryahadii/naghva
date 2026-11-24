@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=DLiXtqA0ed4
+archive: "https://web.archive.org/web/20230501223758/https://www.youtube.com/watch?list=TLGGWrJMs-_7jVkyOTA0MjAyMw&v=DLiXtqA0ed4"
 title: Tribute to Ennio Morricone "The Mission" - Gabriel’s Oboe, movie soundtrack
 status: processed
 language: en

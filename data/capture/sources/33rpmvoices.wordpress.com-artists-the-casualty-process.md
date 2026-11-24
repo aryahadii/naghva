@@ -1,5 +1,6 @@
 ---
 url: https://33rpmvoices.wordpress.com/artists/the-casualty-process/
+archive: "https://web.archive.org/web/20140214065352/http://33rpmvoices.wordpress.com/artists/the-casualty-process/"
 title: The Casualty Process | 33RPM - Voices of the Revolution
 kind: web page
 tier: own

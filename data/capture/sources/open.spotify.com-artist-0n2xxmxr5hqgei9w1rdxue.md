@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/artist/0n2XXmXR5hQgei9W1rdXue
+archive: "https://web.archive.org/web/20230512122928/https://open.spotify.com/artist/0n2XXmXR5hQgei9W1rdXue"
 title: Listen to Jamin Songs | Spotify
 tier: discography
 language: en

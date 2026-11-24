@@ -1,5 +1,6 @@
 ---
 url: https://www.boite.com.au/artist/vahideh-eisaei
+archive: "https://web.archive.org/web/20260515174614/https://www.boite.com.au/artist/vahideh-eisaei"
 title: Vahideh Eisaei | The Boite
 status: processed
 language: en

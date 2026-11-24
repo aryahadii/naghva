@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/another-brick-in-the-wall-pt-2-hey-ayatollah-leave/1719586011
+archive: "https://web.archive.org/web/20260119171929/https://music.apple.com/us/album/another-brick-in-the-wall-pt-2-hey-ayatollah-leave/1719586011"
 title: Another Brick In the Wall Pt. 2 (Hey Ayatollah Leave Those Kids Alone) - Single
 tier: discography
 language: en

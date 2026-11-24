@@ -1,5 +1,6 @@
 ---
 url: https://mahmoodschricker.bandcamp.com/music
+archive: "https://web.archive.org/web/20260205113420/https://mahmoodschricker.bandcamp.com/music"
 title: Music | Mahmood Schricker
 kind: web page
 language: en

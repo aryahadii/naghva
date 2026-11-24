@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/wind-between-the-horses-ears/989547905
+archive: "https://web.archive.org/web/20250913025404/https://music.apple.com/us/album/wind-between-the-horses-ears/989547905"
 title: Wind Between the Horse's Ears
 tier: discography
 language: en

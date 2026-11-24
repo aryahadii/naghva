@@ -1,5 +1,6 @@
 ---
 url: https://t.me/babakrajabii/955
+archive: "https://web.archive.org/web/20250329231829/https://t.me/babakrajabii/955"
 title: Babak Rajabi · Telegram 955
 status: processed
 language: fa

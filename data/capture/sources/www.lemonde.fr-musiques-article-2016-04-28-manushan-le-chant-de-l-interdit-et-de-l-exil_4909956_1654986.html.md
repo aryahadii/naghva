@@ -1,5 +1,6 @@
 ---
 url: https://www.lemonde.fr/musiques/article/2016/04/28/manushan-le-chant-de-l-interdit-et-de-l-exil_4909956_1654986.html
+archive: "https://web.archive.org/web/20220519163611/https://www.lemonde.fr/musiques/article/2016/04/28/manushan-le-chant-de-l-interdit-et-de-l-exil_4909956_1654986.html"
 title: Manushan, le chant de l’interdit et de l’exil
 status: processed
 language: en

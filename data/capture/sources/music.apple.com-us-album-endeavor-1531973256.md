@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/endeavor/1531973256
+archive: "https://web.archive.org/web/20210227103311/https://music.apple.com/us/album/endeavor/1531973256"
 title: ‎Endeavor - Album by The Muckers - Apple Music
 kind: web page
 tier: discography

@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=ZW3Q4dUxjSo
+archive: "https://web.archive.org/web/20260531172028/https://www.youtube.com/watch?v=ZW3Q4dUxjSo"
 title: Ey Iran - ای ایران (Arash Fouladvand feat Golnoush Khaleghi and Bahar Choir)
 kind: youtube video
 tier: own

@@ -1,5 +1,6 @@
 ---
 url: https://finchesband.bandcamp.com/
+archive: "https://web.archive.org/web/20260114205321/https://finchesband.bandcamp.com/"
 title: Music | The Finches
 kind: web page
 language: en

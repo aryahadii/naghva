@@ -1,5 +1,6 @@
 ---
 url: https://eishanensemble.bandcamp.com/track/wind
+archive: "https://web.archive.org/web/20261124074243/https://eishanensemble.bandcamp.com/track/wind"
 title: Wind | Eishan Ensemble
 kind: web page
 tier: own

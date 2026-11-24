@@ -1,5 +1,6 @@
 ---
 url: https://www.nts.live/shows/labour/episodes/labour-7th-june-2021
+archive: "https://web.archive.org/web/20211017230101/https://www.nts.live/shows/labour/episodes/labour-7th-june-2021"
 title: LABOUR w/ Fatou Laobé 7th June 2021 | Listen on NTS
 status: processed
 language: en

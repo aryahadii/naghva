@@ -1,5 +1,6 @@
 ---
 url: https://idlefon.bandcamp.com/track/benight
+archive: "https://web.archive.org/web/20240329133714/https://idlefon.bandcamp.com/track/benight"
 title: Benight | Idlefon
 kind: web page
 language: en

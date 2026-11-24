@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/singing-in-shadow/1076982397
+archive: "https://web.archive.org/web/20240501193755/https://music.apple.com/us/album/singing-in-shadow/1076982397"
 title: Singing in Shadow
 tier: discography
 language: en

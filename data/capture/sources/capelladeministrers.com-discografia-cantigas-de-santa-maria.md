@@ -1,5 +1,6 @@
 ---
 url: https://capelladeministrers.com/discografia/cantigas-de-santa-maria/
+archive: "https://web.archive.org/web/20260517023458/https://capelladeministrers.com/discografia/cantigas-de-santa-maria/"
 title: Cantigas de Santa María
 tier: own
 language: es

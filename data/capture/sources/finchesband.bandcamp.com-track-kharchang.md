@@ -1,5 +1,6 @@
 ---
 url: https://finchesband.bandcamp.com/track/kharchang
+archive: "https://web.archive.org/web/20261124080530/https://finchesband.bandcamp.com/track/kharchang"
 title: Kharchang | The Finches
 kind: web page
 language: en

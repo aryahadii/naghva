@@ -1,5 +1,6 @@
 ---
 url: https://anetterecords.bandcamp.com/track/entropy
+archive: "https://web.archive.org/web/20261112103206/https://anetterecords.bandcamp.com/track/entropy"
 title: Entropy | DOT | ANETTE RECORDS
 kind: web page
 language: en

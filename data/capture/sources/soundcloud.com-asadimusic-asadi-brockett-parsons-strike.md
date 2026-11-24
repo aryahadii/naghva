@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/asadimusic/asadi-brockett-parsons-strike
+archive: "https://web.archive.org/web/20260123123845/https://soundcloud.com/asadimusic/asadi-brockett-parsons-strike"
 title: ASADI & Brockett Parsons - Strike
 tier: own
 language: en

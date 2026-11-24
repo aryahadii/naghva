@@ -1,5 +1,6 @@
 ---
 url: https://www.radiofarda.com/a/274183.html
+archive: "https://web.archive.org/web/20260124121144/https://www.radiofarda.com/a/274183.html"
 title: 'هاله غفوری: راک صوفیانه در نیویورک'
 tier: journalism
 language: fa

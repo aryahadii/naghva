@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/4hQIbVDlrspIAcvMSXSubu
+archive: "https://web.archive.org/web/20241124164110/https://open.spotify.com/album/4hQIbVDlrspIAcvMSXSubu"
 title: Radical
 tier: discography
 language: en

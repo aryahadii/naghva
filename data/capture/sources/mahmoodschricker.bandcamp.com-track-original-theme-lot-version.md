@@ -1,5 +1,6 @@
 ---
 url: https://mahmoodschricker.bandcamp.com/track/original-theme-lot-version
+archive: "https://web.archive.org/web/20260205113415/https://mahmoodschricker.bandcamp.com/track/original-theme-lot-version"
 title: Original Theme (Lot Version) | Mahmood Schricker
 kind: web page
 language: en

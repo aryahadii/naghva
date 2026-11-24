@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/elemental-ep/1783736701
+archive: "https://web.archive.org/web/20260726134813/https://music.apple.com/us/album/elemental-ep/1783736701"
 title: ‎Elemental - EP - Album by Eileen Hazel - Apple Music
 tier: discography
 language: en

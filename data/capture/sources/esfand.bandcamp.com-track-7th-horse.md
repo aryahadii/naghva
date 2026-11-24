@@ -1,5 +1,6 @@
 ---
 url: https://esfand.bandcamp.com/track/7th-horse
+archive: "https://web.archive.org/web/20260102193220/https://esfand.bandcamp.com/track/7th-horse"
 title: 7th Horse | Esfand
 kind: web page
 language: en

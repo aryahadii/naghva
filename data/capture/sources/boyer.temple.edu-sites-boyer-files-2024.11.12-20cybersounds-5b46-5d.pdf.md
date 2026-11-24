@@ -1,5 +1,6 @@
 ---
 url: https://boyer.temple.edu/sites/boyer/files/2024.11.12%20Cybersounds%5B46%5D.pdf
+archive: "https://web.archive.org/web/20261124065542/https://boyer.temple.edu/sites/boyer/files/2024.11.12%20Cybersounds%5B46%5D.pdf"
 title: Cybersounds • November 12, 2024
 status: processed
 language: en

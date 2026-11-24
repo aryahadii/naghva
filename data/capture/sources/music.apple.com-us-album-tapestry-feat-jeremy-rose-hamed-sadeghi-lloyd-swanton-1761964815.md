@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/tapestry-feat-jeremy-rose-hamed-sadeghi-lloyd-swanton/1761964815
+archive: "https://web.archive.org/web/20250927070035/https://music.apple.com/us/album/tapestry-feat-jeremy-rose-hamed-sadeghi-lloyd-swanton/1761964815"
 title: ‎Tapestry (feat. Jeremy Rose, Hamed Sadeghi & Lloyd Swanton) - Album by Vazesh - Apple Music
 kind: web page
 tier: discography

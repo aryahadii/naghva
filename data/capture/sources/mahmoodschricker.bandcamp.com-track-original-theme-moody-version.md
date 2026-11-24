@@ -1,5 +1,6 @@
 ---
 url: https://mahmoodschricker.bandcamp.com/track/original-theme-moody-version
+archive: "https://web.archive.org/web/20260205113400/https://mahmoodschricker.bandcamp.com/track/original-theme-moody-version"
 title: Original Theme (Moody Version) | Mahmood Schricker
 kind: web page
 language: en

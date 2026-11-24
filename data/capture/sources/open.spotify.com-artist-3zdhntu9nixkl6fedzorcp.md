@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/artist/3zDHNTu9NiXKl6fedZOrcp
+archive: "https://web.archive.org/web/20250817043130/https://open.spotify.com/artist/3zDHNTu9NiXKl6fedZOrcp"
 title: Listen to The Allophones Songs | Spotify
 tier: own
 language: en

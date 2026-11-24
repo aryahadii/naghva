@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/track/3WpvJW6HrcfYzfPp4Y4c41
+archive: "https://web.archive.org/web/20191220082614/https://open.spotify.com/track/3WpvJW6HrcfYzfPp4Y4c41"
 title: Ugly Truth Still Hurts (Bescolour Remix) - song and lyrics by ArtSaves | Spotify
 kind: web page
 language: en

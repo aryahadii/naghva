@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/asadimusic/temptations
+archive: "https://web.archive.org/web/20250815142131/https://soundcloud.com/asadimusic/temptations"
 title: Temptations
 tier: own
 language: en

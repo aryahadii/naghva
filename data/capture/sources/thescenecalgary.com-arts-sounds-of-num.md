@@ -1,5 +1,6 @@
 ---
 url: https://thescenecalgary.com/arts/sounds-of-num/
+archive: "https://web.archive.org/web/20260122232122/https://thescenecalgary.com/arts/sounds-of-num/"
 title: Sounds of NUM - The Scene
 kind: web page
 language: en

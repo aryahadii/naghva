@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/blue-fields/634970976
+archive: "https://web.archive.org/web/20261115163947/https://music.apple.com/us/album/blue-fields/634970976"
 title: Blue Fields
 tier: discography
 language: en

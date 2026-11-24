@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/2ApNke6dGnIASVoIWrkleY
+archive: "https://web.archive.org/web/20190826210959/https://open.spotify.com/album/2ApNke6dGnIASVoIWrkleY"
 title: 'Homely Parish - Regional Music of Iran: Bushehr'
 tier: discography
 language: en

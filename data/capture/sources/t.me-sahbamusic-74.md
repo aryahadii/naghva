@@ -1,5 +1,6 @@
 ---
 url: https://t.me/Sahbamusic/74
+archive: "https://web.archive.org/web/20221206155050/https://t.me/Sahbamusic/74"
 title: مرگ آدميت، صهبا مطلبي، خواننده سينا سرلك
 status: processed
 language: fa

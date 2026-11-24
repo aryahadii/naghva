@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/aidashahghasemi/jgih1hsyxt2e
+archive: "https://web.archive.org/web/20240714212844/https://soundcloud.com/aidashahghasemi/jgih1hsyxt2e"
 title: چپاول
 tier: discography
 language: en

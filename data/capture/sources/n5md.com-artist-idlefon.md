@@ -1,5 +1,6 @@
 ---
 url: https://n5md.com/artist/Idlefon
+archive: "https://web.archive.org/web/20250905192727/https://n5md.com/artist/Idlefon"
 title: Idlefon | n5MD
 kind: web page
 language: en

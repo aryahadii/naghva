@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/artist/18gvYvU6NGe99abAuYr678
+archive: "https://web.archive.org/web/20230416100643/https://open.spotify.com/artist/18gvYvU6NGe99abAuYr678"
 title: Listen to Babak Rajabi Songs | Spotify
 status: processed
 language: en

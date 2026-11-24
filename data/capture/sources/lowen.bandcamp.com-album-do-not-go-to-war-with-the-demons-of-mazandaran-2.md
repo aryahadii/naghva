@@ -1,5 +1,6 @@
 ---
 url: https://lowen.bandcamp.com/album/do-not-go-to-war-with-the-demons-of-mazandaran-2
+archive: "https://web.archive.org/web/20260324032229/https://lowen.bandcamp.com/album/do-not-go-to-war-with-the-demons-of-mazandaran-2"
 title: Do Not Go To War With The Demons Of Mazandaran | Lowen
 tier: own
 language: en

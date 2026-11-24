@@ -1,5 +1,6 @@
 ---
 url: https://refugeworldwide.com/radio/ambient-hardcore-14th-june-2022
+archive: "https://web.archive.org/web/20260721170157/https://refugeworldwide.com/radio/ambient-hardcore-14th-june-2022"
 title: AMBIENT HARDCORE | 005
 status: processed
 language: en

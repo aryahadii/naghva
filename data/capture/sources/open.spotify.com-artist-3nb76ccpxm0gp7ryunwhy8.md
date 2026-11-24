@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/artist/3nB76CcpXm0gP7Ryunwhy8
+archive: "https://web.archive.org/web/20210622230110/https://open.spotify.com/artist/3nB76CcpXm0gP7Ryunwhy8"
 title: Listen to Migrain Sq. Songs | Spotify
 kind: web page
 language: en

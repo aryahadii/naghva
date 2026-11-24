@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=MW7yS1GW6-0
+archive: "https://web.archive.org/web/20250408205739/https://www.youtube.com/watch?v=MW7yS1GW6-0"
 title: Temp-Illusion - Two Lands [Idlefon Rework] - YouTube
 kind: youtube video
 language: en

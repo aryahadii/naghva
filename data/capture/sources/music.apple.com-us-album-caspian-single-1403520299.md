@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/caspian-single/1403520299
+archive: "https://web.archive.org/web/20240901093605/https://music.apple.com/us/album/caspian-single/1403520299"
 title: Caspian - Single
 tier: discography
 language: en

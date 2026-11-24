@@ -1,5 +1,6 @@
 ---
 url: https://www.15questions.net/interview/fifteen-questions-interview-idlefon/page-1/
+archive: "https://web.archive.org/web/20220116213026/https://15questions.net/interview/fifteen-questions-interview-idlefon/page-1/"
 title: 15 questions | Interview | Idlefon | Reaching for Depth
 kind: web page
 language: en

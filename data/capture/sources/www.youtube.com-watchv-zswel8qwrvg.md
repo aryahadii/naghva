@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=zswEL8QwrVg
+archive: "https://web.archive.org/web/20250423045103/https://www.youtube.com/watch?v=zswEL8QwrVg"
 title: Sheen Trio - Collapse - YouTube
 status: processed
 language: en

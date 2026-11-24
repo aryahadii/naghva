@@ -1,5 +1,6 @@
 ---
 url: https://www.aria.com.au/awards/past-winners/2021
+archive: "https://web.archive.org/web/20260818041102/https://www.aria.com.au/awards/past-winners/2021"
 title: 2021 ARIA Awards Winners
 kind: web page
 tier: other

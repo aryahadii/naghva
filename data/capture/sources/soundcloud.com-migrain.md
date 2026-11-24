@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/migrain
+archive: "https://web.archive.org/web/20241207200332/https://soundcloud.com/migrain"
 title: Stream Migrain Sq. music | Listen to songs, albums, playlists for free on SoundCloud
 kind: web page
 language: en

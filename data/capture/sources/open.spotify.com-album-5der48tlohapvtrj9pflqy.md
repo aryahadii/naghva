@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/5Der48tLOHaPvTRj9pFlqY
+archive: "https://web.archive.org/web/20250711192937/https://open.spotify.com/album/5Der48tLOHaPvTRj9pFlqY"
 title: Sher Yadom Ra (The Slipped Poem)
 tier: discography
 language: en

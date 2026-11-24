@@ -1,5 +1,6 @@
 ---
 url: https://rostammirlashari.com/portfolio/padik/
+archive: "https://web.archive.org/web/20260216104723/https://rostammirlashari.com/portfolio/padik/"
 title: Padik – Rostam Mirlashari
 tier: own
 language: en

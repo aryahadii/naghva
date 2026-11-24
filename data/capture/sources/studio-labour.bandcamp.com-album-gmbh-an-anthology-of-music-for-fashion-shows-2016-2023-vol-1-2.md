@@ -1,5 +1,6 @@
 ---
 url: https://studio-labour.bandcamp.com/album/gmbh-an-anthology-of-music-for-fashion-shows-2016-2023-vol-1-2
+archive: "https://web.archive.org/web/20251129152143/https://studio-labour.bandcamp.com/album/gmbh-an-anthology-of-music-for-fashion-shows-2016-2023-vol-1-2"
 title: 'GmbH: An Anthology of Music for Fashion Shows 2016-2023 Vol. 1 | Various Artists | studio LABOUR'
 status: processed
 language: en

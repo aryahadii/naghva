@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=20Nu14-mhhw
+archive: "https://web.archive.org/web/20240917152623/https://www.youtube.com/watch?v=20Nu14-mhhw&gl=US&hl=en"
 title: آزادی - آرش فولادوند و دریا دادور (Official)
 kind: youtube video
 tier: own

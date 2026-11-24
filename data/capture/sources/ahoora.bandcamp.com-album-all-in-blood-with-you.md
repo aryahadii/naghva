@@ -1,5 +1,6 @@
 ---
 url: https://ahoora.bandcamp.com/album/all-in-blood-with-you
+archive: "https://web.archive.org/web/20261124005858/https://ahoora.bandcamp.com/album/all-in-blood-with-you"
 title: All In Blood With You | Ahoora
 tier: own
 language: en

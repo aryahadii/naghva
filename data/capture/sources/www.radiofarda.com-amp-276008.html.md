@@ -1,5 +1,6 @@
 ---
 url: https://www.radiofarda.com/amp/276008.html
+archive: "https://web.archive.org/web/20250521175442/https://www.radiofarda.com/amp/276008.html"
 title: اخبار موسیقی پاپ، مصاحبه با خواننده و سرپرست گروه متال راک «اهورا»
 tier: journalism
 language: fa

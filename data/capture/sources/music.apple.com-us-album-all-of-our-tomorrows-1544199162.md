@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/all-of-our-tomorrows/1544199162
+archive: "https://web.archive.org/web/20230524072321/https://music.apple.com/us/album/all-of-our-tomorrows/1544199162"
 title: All of Our Tomorrows - Album by Sina Salimi - Apple Music
 kind: web page
 language: en

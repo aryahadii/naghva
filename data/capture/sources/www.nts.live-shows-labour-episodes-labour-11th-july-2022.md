@@ -1,5 +1,6 @@
 ---
 url: https://www.nts.live/shows/labour/episodes/labour-11th-july-2022
+archive: "https://web.archive.org/web/20240613072723/https://www.nts.live/shows/labour/episodes/labour-11th-july-2022"
 title: LABOUR w/ Ndeye Fatou Tine 11th July 2022 | Listen on NTS
 status: processed
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=5dhyJulkW5E
+archive: "https://web.archive.org/web/20200204125914/https://www.youtube.com/watch?v=5dhyJulkW5E"
 title: 'Chakam Trio: Live concert in Lausanne, April 2016'
 status: processed
 language: en

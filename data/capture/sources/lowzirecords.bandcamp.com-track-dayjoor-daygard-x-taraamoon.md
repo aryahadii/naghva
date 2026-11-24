@@ -1,5 +1,6 @@
 ---
 url: https://lowzirecords.bandcamp.com/track/dayjoor-daygard-x-taraamoon
+archive: "https://web.archive.org/web/20210924074426/https://lowzirecords.bandcamp.com/track/dayjoor-daygard-x-taraamoon"
 title: Dayjoor (Daygard x Taraamoon) | Taraamoon | Low-Zi Records
 kind: web page
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=ekD6_l4zi88
+archive: "https://web.archive.org/web/20250517112656/https://www.youtube.com/watch?v=ekD6_l4zi88"
 title: Darya - Niaz Nawab - دریا - نیاز نواب - YouTube
 kind: web page
 tier: own

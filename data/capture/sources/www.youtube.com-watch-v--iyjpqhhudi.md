@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=-IyJPqhHUDI
+archive: "https://web.archive.org/web/20251009235446/https://www.youtube.com/watch?v=-IyJPqhHUDI"
 title: Norouz Tu Râhé - نوروز تو راهه - (Arash Fouladvand feat Ali Azimi and Bahar Choir)
 kind: youtube video
 tier: own

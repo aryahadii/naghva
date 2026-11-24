@@ -1,5 +1,6 @@
 ---
 url: https://psychicbloom.bandcamp.com/album/psychic-bloom
+archive: "https://web.archive.org/web/20260608214734/https://psychicbloom.bandcamp.com/album/psychic-bloom"
 title: Psychic Bloom | Psychic Bloom
 tier: discography
 language: en

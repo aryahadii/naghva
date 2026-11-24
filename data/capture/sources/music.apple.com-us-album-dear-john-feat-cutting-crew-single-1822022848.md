@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/dear-john-feat-cutting-crew-single/1822022848
+archive: "https://web.archive.org/web/20260208201633/https://music.apple.com/us/album/dear-john-feat-cutting-crew-single/1822022848"
 title: Dear John (feat. Cutting Crew) - Single
 tier: discography
 language: en

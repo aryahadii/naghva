@@ -1,5 +1,6 @@
 ---
 url: https://www.tickettailor.com/events/connections/1887953
+archive: "https://web.archive.org/web/20251011233603/https://www.tickettailor.com/events/connections/1887953"
 title: 'Buy tickets – Traditions of The Frame Drum, first series: Kurdish Music – St Augustines Church Hall'
 status: processed
 language: en

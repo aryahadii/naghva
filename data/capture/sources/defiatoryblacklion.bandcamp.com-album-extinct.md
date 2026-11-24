@@ -1,5 +1,6 @@
 ---
 url: https://defiatoryblacklion.bandcamp.com/album/extinct
+archive: "https://web.archive.org/web/20251204031311/https://defiatoryblacklion.bandcamp.com/album/extinct"
 title: Extinct
 tier: own
 language: en

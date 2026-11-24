@@ -1,5 +1,6 @@
 ---
 url: https://edm.com/interviews/asadi-persian-trap-music-set-live-from-las-vegas-hilltop/
+archive: "https://web.archive.org/web/20240317170229/https://edm.com/interviews/asadi-persian-trap-music-set-live-from-las-vegas-hilltop"
 title: 2020 Cabin Fever festival
 tier: journalism
 language: en

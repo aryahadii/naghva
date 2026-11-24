@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/babackrajabi/ashegh-kosh
+archive: "https://web.archive.org/web/20240430103722/https://soundcloud.com/babackrajabi/ashegh-kosh"
 title: Lover Killer عاشق کش · Babak Rajabi
 status: processed
 language: fa

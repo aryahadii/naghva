@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=QQImv7pxeh8
+archive: "https://web.archive.org/web/20251011221346/https://www.youtube.com/watch?v=QQImv7pxeh8"
 title: دیدی ای دل - سارا. و آرش فولادوند (Official)
 kind: youtube video
 tier: own

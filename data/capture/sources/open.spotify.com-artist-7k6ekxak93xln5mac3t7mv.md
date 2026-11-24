@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/artist/7K6EkXAk93xLn5MAC3T7mv
+archive: "https://web.archive.org/web/20230106040932/https://open.spotify.com/artist/7K6EkXAk93xLn5MAC3T7mv"
 title: Kourosh Babaei on Spotify
 tier: own
 language: en

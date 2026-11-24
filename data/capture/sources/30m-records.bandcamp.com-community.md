@@ -1,5 +1,6 @@
 ---
 url: https://30m-records.bandcamp.com/community
+archive: "https://web.archive.org/web/20260108025208/https://30m-records.bandcamp.com/community"
 title: 30M Records' Community | 30M Records
 kind: web page
 language: en

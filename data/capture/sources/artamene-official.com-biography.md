@@ -1,5 +1,6 @@
 ---
 url: https://artamene-official.com/biography/
+archive: "https://web.archive.org/web/20260224233519/https://artamene-official.com/biography/"
 title: BAND – ARTAMENE
 tier: own
 language: en

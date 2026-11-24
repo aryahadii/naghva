@@ -1,5 +1,6 @@
 ---
 url: https://t.me/liana_sharifian/8
+archive: "https://web.archive.org/web/20220718191647/https://t.me/liana_sharifian/8"
 title: قطعه گاليسيايي
 tier: own
 language: fa

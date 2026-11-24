@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/1RdhHyhGXokP9lCexacKvY
+archive: "https://web.archive.org/web/20240917043219/https://open.spotify.com/album/1RdhHyhGXokP9lCexacKvY"
 title: Summer Sol IV
 tier: discography
 language: en

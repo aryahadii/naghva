@@ -1,5 +1,6 @@
 ---
 url: https://www.nts.live/shows/labour/episodes/labour-6th-july-2024
+archive: "https://web.archive.org/web/20260415064036/https://www.nts.live/shows/labour/episodes/labour-6th-july-2024"
 title: LABOUR w/ Maty Thiam Dogo 6th July 2024 | Listen on NTS
 status: processed
 language: en

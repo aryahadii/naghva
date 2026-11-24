@@ -1,5 +1,6 @@
 ---
 url: https://www.bluemountainstheatre.com.au/what-s-on/past-events/2020-events/eishan-ensemble/
+archive: "https://web.archive.org/web/20260811201619/https://www.bluemountainstheatre.com.au/what-s-on/past-events/2020-events/eishan-ensemble/"
 title: Blue Mountains Theatre - Eishan Ensemble
 kind: web page
 tier: other

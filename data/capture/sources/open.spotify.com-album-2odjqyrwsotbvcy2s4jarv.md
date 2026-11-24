@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/2oDjQyRWSOTbVcY2s4JarV
+archive: "https://web.archive.org/web/20210629125624/https://open.spotify.com/album/2oDjQyRWSOTbVcY2s4JarV"
 title: Malmö Live 2014
 tier: discography
 language: en

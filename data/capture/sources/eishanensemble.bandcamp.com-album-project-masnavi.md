@@ -1,5 +1,6 @@
 ---
 url: https://eishanensemble.bandcamp.com/album/project-masnavi
+archive: "https://web.archive.org/web/20240125090053/https://eishanensemble.bandcamp.com/album/project-masnavi"
 title: Project Masnavi | Eishan Ensemble
 kind: web page
 tier: own

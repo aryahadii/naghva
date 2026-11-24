@@ -1,5 +1,6 @@
 ---
 url: https://navaak.com/album/mohsen-sharifian-Neymeh(Avaze-Daryanavrdane-Parsi)
+archive: "https://web.archive.org/web/20200210111021/http://navaak.com:80/album/mohsen-sharifian-Neymeh(Avaze-Daryanavrdane-Parsi)"
 title: آلبوم نی مه (آواز دریانوردان پارسی) از محسن شریفیان | نواک
 tier: discography
 language: fa

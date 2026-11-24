@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/1ISSXHcLcv01Ud1awVBCml
+archive: "https://web.archive.org/web/20190820082858/https://open.spotify.com/album/1ISSXHcLcv01Ud1awVBCml"
 title: Paa Sho!
 tier: own
 language: en

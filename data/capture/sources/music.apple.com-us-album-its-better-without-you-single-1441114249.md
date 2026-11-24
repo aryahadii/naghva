@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/its-better-without-you-single/1441114249
+archive: "https://web.archive.org/web/20220127041048/https://music.apple.com/us/album/its-better-without-you-single/1441114249"
 title: ‎It's Better Without You - Single - Album by The Muckers - Apple Music
 kind: web page
 tier: discography

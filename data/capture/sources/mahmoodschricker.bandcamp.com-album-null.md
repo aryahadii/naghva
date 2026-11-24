@@ -1,5 +1,6 @@
 ---
 url: https://mahmoodschricker.bandcamp.com/album/null
+archive: "https://web.archive.org/web/20250907092157/https://mahmoodschricker.bandcamp.com/album/null"
 title: Null | Mahmood Schricker
 kind: web page
 language: en

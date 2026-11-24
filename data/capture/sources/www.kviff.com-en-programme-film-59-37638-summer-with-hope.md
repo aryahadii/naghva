@@ -1,5 +1,6 @@
 ---
 url: https://www.kviff.com/en/programme/film/59/37638-summer-with-hope
+archive: "https://web.archive.org/web/20260711025707/https://www.kviff.com/en/programme/film/59/37638-summer-with-hope"
 title: KVIFF | Summer with Hope
 kind: web page
 language: en

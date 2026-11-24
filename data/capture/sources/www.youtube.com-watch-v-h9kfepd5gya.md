@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=H9KfePD5GYA
+archive: "https://web.archive.org/web/20260410094830/https://www.youtube.com/watch?v=H9KfePD5GYA"
 title: 7. Tâbé Bànàfshé - تاب بنفشه - (Arash Fouladvand feat Mahdieh and Mehrnigori)
 kind: youtube video
 tier: own

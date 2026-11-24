@@ -1,5 +1,6 @@
 ---
 url: https://siloportem.bandcamp.com/album/samsaminia
+archive: "https://web.archive.org/web/20240726124925/https://siloportem.bandcamp.com/album/samsaminia"
 title: Samsaminia | silo portem
 kind: web page
 language: en

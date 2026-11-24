@@ -1,5 +1,6 @@
 ---
 url: https://www.arashkband.com/album-Yell.htm
+archive: "https://web.archive.org/web/20260317032403/http://arashkband.com/album-Yell.htm"
 title: Yell, Arashk original booklet
 tier: discography
 language: en

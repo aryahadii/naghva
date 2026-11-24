@@ -1,5 +1,6 @@
 ---
 url: https://unexplainedsoundsgroup.bandcamp.com/track/idlefon-after-the-quake
+archive: "https://web.archive.org/web/20261115140253/https://unexplainedsoundsgroup.bandcamp.com/track/idlefon-after-the-quake"
 title: Idlefon - After The Quake | Various Artists | Unexplained Sounds Group
 kind: web page
 language: en

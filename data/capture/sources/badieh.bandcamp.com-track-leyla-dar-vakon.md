@@ -1,5 +1,6 @@
 ---
 url: https://badieh.bandcamp.com/track/leyla-dar-vakon
+archive: "https://web.archive.org/web/20240901074152/https://badieh.bandcamp.com/track/leyla-dar-vakon"
 title: Leyla Dar Vakon | Badieh
 kind: web page
 tier: own

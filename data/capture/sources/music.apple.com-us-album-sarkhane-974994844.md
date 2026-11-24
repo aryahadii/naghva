@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/sarkhane/974994844
+archive: "https://web.archive.org/web/20260614235047/https://music.apple.com/us/album/sarkhane/974994844"
 title: ‎Sarkhane - Album by Various Artists - Apple Music
 tier: discography
 language: en

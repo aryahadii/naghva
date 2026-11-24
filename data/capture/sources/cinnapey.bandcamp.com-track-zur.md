@@ -1,5 +1,6 @@
 ---
 url: https://cinnapey.bandcamp.com/track/zur
+archive: "https://web.archive.org/web/20261005051515/https://cinnapey.bandcamp.com/track/zur"
 title: Zur زور | Cinna Peyghamy
 kind: web page
 language: en

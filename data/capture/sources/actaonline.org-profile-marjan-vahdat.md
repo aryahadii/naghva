@@ -1,5 +1,6 @@
 ---
 url: https://actaonline.org/profile/marjan-vahdat/
+archive: "https://web.archive.org/web/20260808164144/https://actaonline.org/profile/marjan-vahdat/"
 title: Marjan Vahdat | Alliance for California Traditional Arts
 tier: own
 language: en

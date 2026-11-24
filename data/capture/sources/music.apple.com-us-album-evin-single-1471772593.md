@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/evin-single/1471772593
+archive: "https://web.archive.org/web/20260915073625/https://music.apple.com/us/album/evin-single/1471772593"
 title: Evin - Single
 tier: discography
 language: en

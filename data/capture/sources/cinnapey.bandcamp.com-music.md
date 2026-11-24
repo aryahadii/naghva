@@ -1,5 +1,6 @@
 ---
 url: https://cinnapey.bandcamp.com/music
+archive: "https://web.archive.org/web/20261115151217/https://cinnapey.bandcamp.com/music"
 title: Music | Cinna Peyghamy
 kind: web page
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/a-day-in-the-life-2nd-half-single/1833278338
+archive: "https://web.archive.org/web/20251115235622/https://music.apple.com/us/album/a-day-in-the-life-2nd-half-single/1833278338"
 title: A Day In The Life (2nd Half) - Single
 tier: discography
 language: en

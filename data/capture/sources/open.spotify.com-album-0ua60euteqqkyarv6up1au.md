@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/0UA60EuTEqQkyARv6uP1aU
+archive: "https://web.archive.org/web/20250417161738/https://open.spotify.com/album/0UA60EuTEqQkyARv6uP1aU"
 title: Arabic Trap, Pt. 4
 tier: discography
 language: en

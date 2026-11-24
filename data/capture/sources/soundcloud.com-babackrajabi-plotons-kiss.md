@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/babackrajabi/plotons-kiss
+archive: "https://web.archive.org/web/20250228001137/https://soundcloud.com/babackrajabi/plotons-kiss"
 title: Ploton's Kiss ماچ افلاطونی · Babak Rajabi
 status: processed
 language: fa

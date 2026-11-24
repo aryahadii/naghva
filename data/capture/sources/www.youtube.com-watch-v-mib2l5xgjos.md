@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=mIB2l5xGjos
+archive: "https://web.archive.org/web/20251002122022/https://www.youtube.com/watch?v=mIB2l5xGjos"
 title: ZÖJ Full Concert | Give Water To Birds at Lot19 | Castlemaine - YouTube
 kind: youtube video
 tier: own

@@ -1,5 +1,6 @@
 ---
 url: https://t.me/saeidshanbehzadeh/533
+archive: "https://web.archive.org/web/20240828163822/https://t.me/saeidshanbehzadeh/533"
 title: خيام خواني
 tier: own
 kind: web page

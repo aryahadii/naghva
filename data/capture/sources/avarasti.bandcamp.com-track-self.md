@@ -1,5 +1,6 @@
 ---
 url: https://avarasti.bandcamp.com/track/self
+archive: "https://web.archive.org/web/20261017185623/https://avarasti.bandcamp.com/track/self"
 title: Self | Ava Rasti & Mona Matbou Riahi | Ava Rasti
 kind: web page
 language: en

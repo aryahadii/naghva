@@ -1,5 +1,6 @@
 ---
 url: https://kamancheh.com/about-kourosh-babaei/
+archive: "https://web.archive.org/web/20260711210822/https://kamancheh.com/about-kourosh-babaei/"
 title: Kourosh Babaei | Discography
 tier: own
 language: en

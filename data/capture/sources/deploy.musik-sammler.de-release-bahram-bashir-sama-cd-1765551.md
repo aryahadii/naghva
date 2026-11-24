@@ -1,5 +1,6 @@
 ---
 url: https://deploy.musik-sammler.de/release/bahram-bashir-sama-cd-1765551/
+archive: "https://web.archive.org/web/20261124072557/https://deploy.musik-sammler.de/release/bahram-bashir-sama-cd-1765551/"
 title: Sama
 tier: discography
 language: en

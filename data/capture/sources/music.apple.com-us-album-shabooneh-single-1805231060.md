@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/shabooneh-single/1805231060
+archive: "https://web.archive.org/web/20260302065744/https://music.apple.com/us/album/shabooneh-single/1805231060"
 title: Shabooneh - Single
 tier: discography
 language: en

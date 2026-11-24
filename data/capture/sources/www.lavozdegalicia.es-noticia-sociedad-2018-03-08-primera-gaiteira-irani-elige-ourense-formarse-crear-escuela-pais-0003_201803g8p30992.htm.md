@@ -1,5 +1,6 @@
 ---
 url: https://www.lavozdegalicia.es/noticia/sociedad/2018/03/08/primera-gaiteira-irani-elige-ourense-formarse-crear-escuela-pais/0003_201803G8P30992.htm
+archive: "https://web.archive.org/web/20250123132522/https://www.lavozdegalicia.es/noticia/sociedad/2018/03/08/primera-gaiteira-irani-elige-ourense-formarse-crear-escuela-pais/0003_201803G8P30992.htm"
 title: La primera gaiteira iraní elige Ourense para formarse y crear una escuela en su país
 tier: journalism
 language: es

@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/artist/0S1DFtmwuxjES6pRzXW8wy
+archive: "https://web.archive.org/web/20190826022323/https://open.spotify.com/artist/0S1DFtmwuxjES6pRzXW8wy"
 title: Listen to Hamed Sadeghi Songs | Spotify
 kind: web page
 tier: discography

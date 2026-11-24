@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=nwsoTyRnO5E
+archive: "https://web.archive.org/web/20230424112412/https://www.youtube.com/watch?v=nwsoTyRnO5E"
 title: بوی جوی مولیان - آرش فولادوند و کر بهار (Official)
 kind: youtube video
 tier: own

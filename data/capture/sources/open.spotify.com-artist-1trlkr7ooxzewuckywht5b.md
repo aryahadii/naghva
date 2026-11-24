@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/artist/1TRLkR7OoXzEwUckYwHt5B
+archive: "https://web.archive.org/web/20261110143316/https://open.spotify.com/artist/1TRLkR7OoXzEwUckYwHt5B"
 title: Listen to Bahramji Songs | Spotify
 tier: own
 language: en

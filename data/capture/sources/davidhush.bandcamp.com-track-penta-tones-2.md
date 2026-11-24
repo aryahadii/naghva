@@ -1,5 +1,6 @@
 ---
 url: https://davidhush.bandcamp.com/track/penta-tones-2
+archive: "https://web.archive.org/web/20230607055722/https://davidhush.bandcamp.com/track/penta-tones-2"
 title: Penta Tones | David Hush & Hamed Sadeghi | David Hush
 kind: web page
 tier: own

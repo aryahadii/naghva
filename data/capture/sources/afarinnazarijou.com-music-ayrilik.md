@@ -1,5 +1,6 @@
 ---
 url: https://afarinnazarijou.com/music/ayrilik/
+archive: "https://web.archive.org/web/20261124005410/https://afarinnazarijou.com/music/ayrilik/"
 title: Ayrılık – Afarin Nazarijou
 status: processed
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://casualtyprocess.bandcamp.com/album/un-even
+archive: "https://web.archive.org/web/20240418211310/https://casualtyprocess.bandcamp.com/album/un-even"
 title: '[UN]even | Casualty Process'
 kind: web page
 tier: own

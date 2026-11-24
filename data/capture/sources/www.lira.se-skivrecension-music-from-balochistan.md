@@ -1,5 +1,6 @@
 ---
 url: https://www.lira.se/skivrecension/music-from-balochistan/
+archive: "https://web.archive.org/web/20210122023213/https://www.lira.se/skivrecension/music-from-balochistan/"
 title: Music from Balochistan
 tier: journalism
 language: sv

@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/photomatband
+archive: "https://web.archive.org/web/20130414105508/http://soundcloud.com:80/photomatband"
 title: Stream photomatband music | Listen to songs, albums, playlists for free on SoundCloud
 kind: web page
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=yk9yEO5xJfU
+archive: "https://web.archive.org/web/20251009235424/https://www.youtube.com/watch?v=yk9yEO5xJfU"
 title: 9. Âshéghânéhâ -  عاشقانه‌ها (Arash Fouladvand feat Nigina Amonqulova, Sara Naeini and Vahid Taj)
 kind: youtube video
 tier: own

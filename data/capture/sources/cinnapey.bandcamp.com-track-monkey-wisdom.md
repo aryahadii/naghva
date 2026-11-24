@@ -1,5 +1,6 @@
 ---
 url: https://cinnapey.bandcamp.com/track/monkey-wisdom
+archive: "https://web.archive.org/web/20261005051514/https://cinnapey.bandcamp.com/track/monkey-wisdom"
 title: Monkey Wisdom | Cinna Peyghamy
 kind: web page
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/baraye-human-rias-radio-mix-single/1704145991
+archive: "https://web.archive.org/web/20241207012020/https://music.apple.com/us/album/baraye-human-rias-radio-mix-single/1704145991"
 title: Baraye (Human Rias Radio Mix) - Single
 tier: discography
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/13kgfN8QdKdQTBUUT0XzJU
+archive: "https://web.archive.org/web/20220817023115/https://open.spotify.com/album/13kgfN8QdKdQTBUUT0XzJU"
 title: Chashmandaaze Rooydaad
 tier: discography
 language: en

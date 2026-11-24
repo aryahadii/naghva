@@ -1,5 +1,6 @@
 ---
 url: https://t.me/niaznawab/137
+archive: "https://web.archive.org/web/20250219015019/https://t.me/niaznawab/137"
 title: Telegram Widget
 kind: web page
 tier: own

@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/7Gvmyi06assVqRapptY9Tr
+archive: "https://web.archive.org/web/20250822030557/https://open.spotify.com/album/7Gvmyi06assVqRapptY9Tr"
 title: Voice Of Peace, Voice Of Solidarity
 kind: web page
 tier: own

@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/jananeh-ep/1809536257
+archive: "https://web.archive.org/web/20260922013543/https://music.apple.com/us/album/jananeh-ep/1809536257"
 title: Jananeh - EP
 tier: discography
 language: en

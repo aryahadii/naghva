@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/sinasalimi
+archive: "https://web.archive.org/web/20251010035250/https://soundcloud.com/sinasalimi"
 title: Stream Sina  Salimi | Listen to music albums online for free on SoundCloud
 kind: web page
 language: en

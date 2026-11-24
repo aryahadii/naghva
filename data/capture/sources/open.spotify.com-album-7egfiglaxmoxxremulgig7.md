@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/7EgFiGlAxmOXxreMuLgiG7
+archive: "https://web.archive.org/web/20220326173524/https://open.spotify.com/album/7EgFiGlAxmOXxreMuLgiG7"
 title: 'Iran : Musiques du Golfe Persique (Music from the World)'
 tier: discography
 language: en

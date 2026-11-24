@@ -1,5 +1,6 @@
 ---
 url: https://aazarine.bandcamp.com/album/sing-me-a-song
+archive: "https://web.archive.org/web/20210515234922/https://aazarine.bandcamp.com/album/sing-me-a-song"
 title: Sing Me a Song | Arshid Azarine
 kind: web page
 tier: own

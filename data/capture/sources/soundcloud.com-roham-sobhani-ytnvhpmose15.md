@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/roham-sobhani/ytnvhpmose15
+archive: "https://web.archive.org/web/20260213041407/https://soundcloud.com/roham-sobhani/ytnvhpmose15"
 title: Stream دلبر عیار by Roham-Sobhani | Listen online for free on SoundCloud
 status: processed
 language: fa

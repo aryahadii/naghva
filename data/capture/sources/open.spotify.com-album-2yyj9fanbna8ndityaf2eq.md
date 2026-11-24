@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/2Yyj9FaNbNa8ndiTyaf2Eq
+archive: "https://web.archive.org/web/20250216014022/https://open.spotify.com/album/2Yyj9FaNbNa8ndiTyaf2Eq"
 title: Tapestry - Vazesh | Spotify
 kind: web page
 tier: discography

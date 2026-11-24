@@ -1,5 +1,6 @@
 ---
 url: https://www.detroitjazzfest.org/artist/zambra/
+archive: "https://web.archive.org/web/20260517051530/https://www.detroitjazzfest.org/artist/zambra/"
 title: Zambra – Detroit Jazz Fest
 status: processed
 language: en

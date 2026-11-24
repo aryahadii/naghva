@@ -1,5 +1,6 @@
 ---
 url: https://iranian.com/PhotoDay/2007/February/ashrafi.html
+archive: "https://web.archive.org/web/20260331085306/http://iranian.com/PhotoDay/2007/February/ashrafi.html"
 title: 'iranian.com: Iranians of the day'
 kind: web page
 tier: journalism

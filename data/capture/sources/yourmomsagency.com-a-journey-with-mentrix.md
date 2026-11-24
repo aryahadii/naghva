@@ -1,5 +1,6 @@
 ---
 url: https://yourmomsagency.com/a-journey-with-mentrix/
+archive: "https://web.archive.org/web/20260614232319/https://yourmomsagency.com/a-journey-with-mentrix/"
 title: A Journey with Mentrix - Your Moms Agency
 kind: web page
 language: en

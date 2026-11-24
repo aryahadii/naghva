@@ -1,5 +1,6 @@
 ---
 url: https://t.me/soheilhosnavi/616
+archive: "https://web.archive.org/web/20220521085231/https://t.me/soheilhosnavi/616"
 title: اتودی در بیات ترک
 status: processed
 tier: own

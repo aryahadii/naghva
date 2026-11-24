@@ -1,5 +1,6 @@
 ---
 url: https://flamingpines.bandcamp.com/track/if-time-wasnt-condensed-second-episode
+archive: "https://web.archive.org/web/20230622190727/https://flamingpines.bandcamp.com/track/if-time-wasnt-condensed-second-episode"
 title: If time wasn't condensed (second episode) | Pouya Pour-Amin | Flaming Pines
 kind: web page
 language: en

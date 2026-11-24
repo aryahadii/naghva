@@ -1,5 +1,6 @@
 ---
 url: https://navaak.com/album/mohsen-sharifian-mosighi-navaahi-iraan-25---khayaami-kayaam-khaani-dar-booshehr
+archive: "https://web.archive.org/web/20241204124153/https://navaak.com/album/mohsen-sharifian-mosighi-navaahi-iraan-25---khayaami-kayaam-khaani-dar-booshehr"
 title: آلبوم موسیقی نواحی ایران - خیامی (خیام خوانی در بوشهر) از محسن شریفیان | نواک
 tier: discography
 language: fa

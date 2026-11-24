@@ -1,5 +1,6 @@
 ---
 url: https://www.clearvisioncollective.com/post/psychic-bloom-ponders-on
+archive: "https://web.archive.org/web/20260121230216/https://www.clearvisioncollective.com/post/psychic-bloom-ponders-on"
 title: 'Exclusive Interview: Psychic Bloom Ponders On'
 tier: own
 language: en

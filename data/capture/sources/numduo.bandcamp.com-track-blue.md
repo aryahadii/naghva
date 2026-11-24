@@ -1,5 +1,6 @@
 ---
 url: https://numduo.bandcamp.com/track/blue
+archive: "https://web.archive.org/web/20220621172742/https://numduo.bandcamp.com/track/blue"
 title: Blue | NUM
 kind: web page
 language: en

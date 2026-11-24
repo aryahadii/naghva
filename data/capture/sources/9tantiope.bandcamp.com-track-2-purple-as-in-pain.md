@@ -1,5 +1,6 @@
 ---
 url: https://9tantiope.bandcamp.com/track/2-purple-as-in-pain
+archive: "https://web.archive.org/web/20260226124341/https://9tantiope.bandcamp.com/track/2-purple-as-in-pain"
 title: 2.Purple as in Pain | 9T Antiope and Siavash Amini | 9T Antiope
 kind: web page
 language: en

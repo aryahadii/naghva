@@ -1,5 +1,6 @@
 ---
 url: https://newfocusrecordings.bandcamp.com/track/gnawa-loops
+archive: "https://web.archive.org/web/20260204000357/https://newfocusrecordings.bandcamp.com/track/gnawa-loops"
 title: Gnawa Loops | Either/Or | New Focus Recordings
 status: processed
 language: en

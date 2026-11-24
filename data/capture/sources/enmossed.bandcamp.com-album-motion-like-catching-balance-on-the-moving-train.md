@@ -1,5 +1,6 @@
 ---
 url: https://enmossed.bandcamp.com/album/motion-like-catching-balance-on-the-moving-train
+archive: "https://web.archive.org/web/20251224180717/https://enmossed.bandcamp.com/album/motion-like-catching-balance-on-the-moving-train"
 title: motion like catching balance on the moving train | Chaperone feat. Nazanin Noori | enmossed
 status: processed
 language: en

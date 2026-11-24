@@ -1,5 +1,6 @@
 ---
 url: https://flamingpines.bandcamp.com/track/have-mercy-for-crying-out-loud-o-lord-of-the-world
+archive: "https://web.archive.org/web/20240728002634/https://flamingpines.bandcamp.com/track/have-mercy-for-crying-out-loud-o-lord-of-the-world"
 title: Have mercy, for crying out loud, O lord of the world! | Pouya Pour-Amin | Flaming Pines
 kind: web page
 language: en

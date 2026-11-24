@@ -1,5 +1,6 @@
 ---
 url: https://alexispaul.bandcamp.com/album/live-at-palais-de-la-porte-dor-e
+archive: "https://web.archive.org/web/20261124010404/https://alexispaul.bandcamp.com/album/live-at-palais-de-la-porte-dor-e"
 title: Live at Palais de la Porte Dorée | Orgue-paysage | Alexis Paul
 status: processed
 language: en

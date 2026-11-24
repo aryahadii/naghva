@@ -1,5 +1,6 @@
 ---
 url: https://idlefon.bandcamp.com/track/of-rust
+archive: "https://web.archive.org/web/20240401235144/https://idlefon.bandcamp.com/track/of-rust"
 title: Of Rust | Idlefon
 kind: web page
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/6mxR9rdf3iF7HzTF6tsrPe
+archive: "https://web.archive.org/web/20200730002254/https://open.spotify.com/album/6mxR9rdf3iF7HzTF6tsrPe"
 title: In Turn
 tier: discography
 language: en

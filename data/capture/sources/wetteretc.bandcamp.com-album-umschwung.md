@@ -1,5 +1,6 @@
 ---
 url: https://wetteretc.bandcamp.com/album/umschwung
+archive: "https://web.archive.org/web/20251118235907/https://wetteretc.bandcamp.com/album/umschwung"
 title: Umschwung | Wetter Etc.
 tier: discography
 language: en

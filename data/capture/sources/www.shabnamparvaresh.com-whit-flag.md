@@ -1,5 +1,6 @@
 ---
 url: https://www.shabnamparvaresh.com/whit-flag
+archive: "https://web.archive.org/web/20260714125522/https://www.shabnamparvaresh.com/whit-flag"
 title: White Flag | Shabnam Parvaresh
 status: processed
 language: en

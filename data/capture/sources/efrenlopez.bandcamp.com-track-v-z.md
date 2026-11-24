@@ -1,5 +1,6 @@
 ---
 url: https://efrenlopez.bandcamp.com/track/v-z
+archive: "https://web.archive.org/web/20261124073659/https://efrenlopez.bandcamp.com/track/v-z"
 title: Āvāz | Araz Salek | Efrén López
 kind: web page
 tier: own

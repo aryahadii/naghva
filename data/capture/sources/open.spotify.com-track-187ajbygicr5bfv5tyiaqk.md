@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/track/187AjbYGiCr5Bfv5TYiAQk
+archive: "https://web.archive.org/web/20250514122608/https://open.spotify.com/track/187AjbYGiCr5Bfv5TYiAQk"
 title: Bifarda - song and lyrics by Kian Pourtorab | Spotify
 kind: web page
 tier: discography

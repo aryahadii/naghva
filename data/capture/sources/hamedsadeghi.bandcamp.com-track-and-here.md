@@ -1,5 +1,6 @@
 ---
 url: https://hamedsadeghi.bandcamp.com/track/and-here
+archive: "https://web.archive.org/web/20261124082636/https://hamedsadeghi.bandcamp.com/track/and-here"
 title: And Here | Hamed Sadeghi
 kind: web page
 tier: own

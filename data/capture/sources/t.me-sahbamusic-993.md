@@ -1,5 +1,6 @@
 ---
 url: https://t.me/Sahbamusic/993
+archive: "https://web.archive.org/web/20251222202050/https://t.me/Sahbamusic/993"
 title: دستگاه سه گاه، اجرای کامل گوشه کرشمه، ردیف دوره عالی استاد علی اکبر خان شهنازی
 status: processed
 language: fa

@@ -1,5 +1,6 @@
 ---
 url: https://hafteh.ca/uploads/mag/nr380-web.pdf
+archive: "https://web.archive.org/web/20261124081541/https://hafteh.ca/uploads/mag/nr380-web.pdf"
 title: هفته، شماره 380
 kind: web page
 tier: journalism

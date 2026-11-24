@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/playlist?list=PLJ50PeczyzLO49nHtKWUwCTP8thiXYJ_S
+archive: "https://web.archive.org/web/20251009235528/https://www.youtube.com/playlist?list=PLJ50PeczyzLO49nHtKWUwCTP8thiXYJ_S"
 title: For Life
 kind: web page
 tier: own

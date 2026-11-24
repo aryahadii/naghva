@@ -1,5 +1,6 @@
 ---
 url: https://lowen.bandcamp.com/album/the-legend-of-kay-kavus
+archive: "https://web.archive.org/web/20260915110015/https://lowen.bandcamp.com/album/the-legend-of-kay-kavus"
 title: The Legend Of Kay Kavus | Lowen
 tier: own
 language: en

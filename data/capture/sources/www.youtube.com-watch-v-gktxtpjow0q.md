@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=GktXtPJoW0Q
+archive: "https://web.archive.org/web/20260308033951/https://www.youtube.com/watch?v=GktXtPJoW0Q"
 title: Mehrdad Azizi & Meshcut - Cheapskate (Acoustic Version)
 kind: web page
 language: en

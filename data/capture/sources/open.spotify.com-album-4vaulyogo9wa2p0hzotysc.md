@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/4VauLYoGO9WA2P0hzOtYsC
+archive: "https://web.archive.org/web/20250807054716/https://open.spotify.com/album/4VauLYoGO9WA2P0hzOtYsC"
 title: Peripheries of Nahavand - Araz Salek | Spotify
 kind: web page
 tier: discography

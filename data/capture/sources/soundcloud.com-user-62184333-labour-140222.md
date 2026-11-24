@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/user-62184333/labour-140222
+archive: "https://web.archive.org/web/20260307212628/https://soundcloud.com/user-62184333/labour-140222"
 title: Stream Labour w/ Ndiaga Mbaye 140222 by NTS Monday | Listen online for free on SoundCloud
 status: processed
 language: en

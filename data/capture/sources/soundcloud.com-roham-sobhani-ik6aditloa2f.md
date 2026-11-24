@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/roham-sobhani/ik6aditloa2f
+archive: "https://web.archive.org/web/20260213043405/https://soundcloud.com/roham-sobhani/ik6aditloa2f"
 title: Stream اندیشه پرواز by Roham-Sobhani | Listen online for free on SoundCloud
 status: processed
 language: fa

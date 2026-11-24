@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=Jb4k55T0AiY
+archive: "https://web.archive.org/web/20240822223702/https://www.youtube.com/watch?v=Jb4k55T0AiY"
 title: Hysterrae - “Aziz Djun”
 kind: youtube video
 tier: own

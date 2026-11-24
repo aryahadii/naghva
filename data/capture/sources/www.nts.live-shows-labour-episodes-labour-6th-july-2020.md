@@ -1,5 +1,6 @@
 ---
 url: https://www.nts.live/shows/labour/episodes/labour-6th-july-2020
+archive: "https://web.archive.org/web/20260813213036/https://www.nts.live/shows/labour/episodes/labour-6th-july-2020"
 title: Labour w/ Mbene Diatta Seck 6th July 2020 | Listen on NTS
 status: processed
 language: en

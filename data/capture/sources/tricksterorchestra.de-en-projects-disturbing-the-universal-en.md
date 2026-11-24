@@ -1,5 +1,6 @@
 ---
 url: https://tricksterorchestra.de/en/projects/disturbing-the-universal-en/
+archive: "https://web.archive.org/web/20260710113023/https://tricksterorchestra.de/en/projects/disturbing-the-universal-en/"
 title: Disturbing the Universal - Trickster Orchestra
 tier: own
 language: en

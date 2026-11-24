@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/6FpAxvF3ERFhTtECN2qDmC
+archive: "https://web.archive.org/web/20260305001608/https://open.spotify.com/album/6FpAxvF3ERFhTtECN2qDmC"
 title: Bitter Almonds
 tier: discography
 language: en

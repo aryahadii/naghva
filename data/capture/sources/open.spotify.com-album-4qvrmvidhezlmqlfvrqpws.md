@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/4qvrmVidheZLmqlfvRqpwS
+archive: "https://web.archive.org/web/20201110194026/https://open.spotify.com/album/4qvrmVidheZLmqlfvRqpwS"
 title: Cypress Of Abarkooh
 tier: discography
 language: en

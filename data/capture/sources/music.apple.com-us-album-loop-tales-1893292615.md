@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/loop-tales/1893292615
+archive: "https://web.archive.org/web/20261002142537/https://music.apple.com/us/album/loop-tales/1893292615"
 title: Loop Tales
 tier: discography
 language: en

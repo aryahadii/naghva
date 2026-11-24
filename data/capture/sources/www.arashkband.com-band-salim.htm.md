@@ -1,5 +1,6 @@
 ---
 url: https://www.arashkband.com/band-salim.htm
+archive: "https://web.archive.org/web/20260414034257/http://www.arashkband.com/band-salim.htm"
 title: Arashk, Salim Ghazi Saeedi
 tier: own
 language: en

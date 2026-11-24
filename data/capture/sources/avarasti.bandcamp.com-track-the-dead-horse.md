@@ -1,5 +1,6 @@
 ---
 url: https://avarasti.bandcamp.com/track/the-dead-horse
+archive: "https://web.archive.org/web/20261017190245/https://avarasti.bandcamp.com/track/the-dead-horse"
 title: The Dead Horse | Ava Rasti
 kind: web page
 language: en

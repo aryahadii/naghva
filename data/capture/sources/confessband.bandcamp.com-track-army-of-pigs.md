@@ -1,5 +1,6 @@
 ---
 url: https://confessband.bandcamp.com/track/army-of-pigs
+archive: "https://web.archive.org/web/20251012162338/https://confessband.bandcamp.com/track/army-of-pigs"
 title: Army Of Pigs! | Confess
 tier: own
 language: en

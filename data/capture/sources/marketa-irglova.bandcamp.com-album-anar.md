@@ -1,5 +1,6 @@
 ---
 url: https://marketa-irglova.bandcamp.com/album/anar
+archive: "https://web.archive.org/web/20260113014714/https://marketa-irglova.bandcamp.com/album/anar"
 title: ANAR | Marketa Irglova
 tier: own
 language: en

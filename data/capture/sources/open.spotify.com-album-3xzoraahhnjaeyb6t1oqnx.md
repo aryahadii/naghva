@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/3XzoRAaHhnjAeYB6T1oqnX
+archive: "https://web.archive.org/web/20190921042033/https://open.spotify.com/album/3XzoRAaHhnjAeYB6T1oqnX"
 title: Saali Nó
 tier: discography
 language: en

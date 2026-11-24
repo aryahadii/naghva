@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/delom-dar-asheghi-single/1738101053
+archive: "https://web.archive.org/web/20260906140729/https://music.apple.com/us/album/delom-dar-asheghi-single/1738101053"
 title: Delom Dar Asheghi - Single
 tier: own
 language: en

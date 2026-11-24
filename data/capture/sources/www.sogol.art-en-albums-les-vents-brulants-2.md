@@ -1,5 +1,6 @@
 ---
 url: https://www.sogol.art/en/albums/les-vents-brulants-2/
+archive: "https://web.archive.org/web/20260615052332/https://www.sogol.art/en/albums/les-vents-brulants-2/"
 title: Les vents brulants — Ensemble Chakâm | Sogol Mirzaei
 status: processed
 language: en

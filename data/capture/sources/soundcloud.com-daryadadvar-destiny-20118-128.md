@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/daryadadvar/destiny-20118-128
+archive: "https://web.archive.org/web/20251027123239/https://soundcloud.com/daryadadvar/destiny-20118-128"
 title: Destiny
 tier: discography
 language: en

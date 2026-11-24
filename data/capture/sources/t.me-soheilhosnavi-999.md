@@ -1,5 +1,6 @@
 ---
 url: https://t.me/soheilhosnavi/999
+archive: "https://web.archive.org/web/20251225100259/https://t.me/soheilhosnavi/999"
 title: «پژواک»
 status: processed
 tier: own

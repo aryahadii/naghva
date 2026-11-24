@@ -1,5 +1,6 @@
 ---
 url: https://t.me/soheilhosnavi/497
+archive: "https://web.archive.org/web/20220521090124/https://t.me/soheilhosnavi/497"
 title: تمرین با پدرام درخشانی عزیز
 status: processed
 tier: own

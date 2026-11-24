@@ -1,5 +1,6 @@
 ---
 url: https://chris-cochrane.squarespace.com/gigs2/2015/3/3/music-freedom-day-at-spectrum
+archive: "https://web.archive.org/web/20261124070524/https://chris-cochrane.squarespace.com/gigs2/2015/3/3/music-freedom-day-at-spectrum"
 title: Music Freedom Day at Spectrum  — Chris Cochrane
 kind: web page
 tier: own

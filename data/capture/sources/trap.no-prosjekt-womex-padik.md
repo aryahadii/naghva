@@ -1,5 +1,6 @@
 ---
 url: https://trap.no/prosjekt/womex-padik
+archive: "https://web.archive.org/web/20260617185026/https://trap.no/prosjekt/womex-padik"
 title: 'Womex: Padik | Norsk'
 tier: own
 language: en

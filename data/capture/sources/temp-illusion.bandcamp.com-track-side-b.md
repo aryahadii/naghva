@@ -1,5 +1,6 @@
 ---
 url: https://temp-illusion.bandcamp.com/track/side-b
+archive: "https://web.archive.org/web/20240601205151/https://temp-illusion.bandcamp.com/track/side-b"
 title: Side B | Temp-Illusion
 kind: web page
 language: en

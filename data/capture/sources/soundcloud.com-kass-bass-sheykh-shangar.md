@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/kass-bass/sheykh-shangar
+archive: "https://web.archive.org/web/20120120034356/http://soundcloud.com:80/kass-bass/sheykh-shangar"
 title: Stream Sheykh Shangar by Kasra Saboktakin | Listen online for free on SoundCloud
 kind: web page
 tier: own

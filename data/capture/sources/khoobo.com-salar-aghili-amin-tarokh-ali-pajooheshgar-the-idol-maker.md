@@ -1,5 +1,6 @@
 ---
 url: https://khoobo.com/salar-aghili-amin-tarokh-ali-pajooheshgar-the-idol-maker/
+archive: "https://web.archive.org/web/20260113124437/https://khoobo.com/salar-aghili-amin-tarokh-ali-pajooheshgar-the-idol-maker/"
 title: دانلود آلبوم صورتگر از سالار عقیلی، امین تارخ و علی پژوهشگر - خوبو
 status: processed
 language: en

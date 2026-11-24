@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/artist/568SWEIeS0xF7754uDvXPy
+archive: "https://web.archive.org/web/20220628222955/https://open.spotify.com/artist/568SWEIeS0xF7754uDvXPy"
 title: Artamene | Spotify
 tier: own
 language: en

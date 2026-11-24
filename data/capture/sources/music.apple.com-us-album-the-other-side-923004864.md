@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/the-other-side/923004864
+archive: "https://web.archive.org/web/20260612093302/https://music.apple.com/us/album/the-other-side/923004864"
 title: ‎The Other Side - Album by Ross Daly - Apple Music
 kind: web page
 tier: discography

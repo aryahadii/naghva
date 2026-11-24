@@ -1,5 +1,6 @@
 ---
 url: https://cinnapey.bandcamp.com/track/lewdeye
+archive: "https://web.archive.org/web/20261005230759/https://cinnapey.bandcamp.com/track/lewdeye"
 title: Lewdeye | Cinna Peyghamy
 kind: web page
 language: en

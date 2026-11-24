@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/1dLN95i22HNQIvYHhBGvns
+archive: "https://web.archive.org/web/20190821065944/https://open.spotify.com/album/1dLN95i22HNQIvYHhBGvns"
 title: As Ney
 tier: discography
 language: en

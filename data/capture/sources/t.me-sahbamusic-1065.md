@@ -1,5 +1,6 @@
 ---
 url: https://t.me/Sahbamusic/1065
+archive: "https://web.archive.org/web/20251229072934/https://t.me/Sahbamusic/1065"
 title: دستگاه همایون، اجرای کامل گوشه درآمد، ردیف استاد شهنازی
 status: processed
 language: fa

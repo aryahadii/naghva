@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=XyMW9SlE6V4
+archive: "https://web.archive.org/web/20260310151646/https://www.youtube.com/watch?v=XyMW9SlE6V4"
 title: Badieh - Yar Golakom (Official Video)
 kind: youtube video
 tier: own

@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/lie-lie-live-ep/1349400997
+archive: "https://web.archive.org/web/20251207011303/https://music.apple.com/us/album/lie-lie-live-ep/1349400997"
 title: ‎Lie Lie Live - EP - Album by Serj Tankian - Apple Music
 kind: web page
 tier: discography

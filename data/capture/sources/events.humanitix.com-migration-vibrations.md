@@ -1,5 +1,6 @@
 ---
 url: https://events.humanitix.com/migration-vibrations
+archive: "https://web.archive.org/web/20261124075123/https://events.humanitix.com/migration-vibrations"
 title: Migration Vibrations
 status: processed
 language: en

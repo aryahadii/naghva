@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/malm%C3%B6-live-2014/1134734634
+archive: "https://web.archive.org/web/20261002103823/https://music.apple.com/us/album/malm%C3%B6-live-2014/1134734634"
 title: Malmö Live 2014
 tier: discography
 language: en

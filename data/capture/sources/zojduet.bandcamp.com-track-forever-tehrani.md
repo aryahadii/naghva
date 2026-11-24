@@ -1,5 +1,6 @@
 ---
 url: https://zojduet.bandcamp.com/track/forever-tehrani
+archive: "https://web.archive.org/web/20261017044621/https://zojduet.bandcamp.com/track/forever-tehrani"
 title: Forever Tehrani | ZÖJ
 kind: web page
 tier: own

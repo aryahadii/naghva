@@ -1,5 +1,6 @@
 ---
 url: https://www.nts.live/shows/labour/episodes/labour-20th-december-2025
+archive: "https://web.archive.org/web/20260305123539/https://www.nts.live/shows/labour/episodes/labour-20th-december-2025"
 title: Labour w/ Ouzin Ndiaye 20th December 2025 | Listen on NTS
 status: processed
 language: en

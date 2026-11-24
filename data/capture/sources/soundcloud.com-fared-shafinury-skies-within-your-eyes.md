@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/fared-shafinury/skies-within-your-eyes
+archive: "https://web.archive.org/web/20241208090012/https://soundcloud.com/fared-shafinury/skies-within-your-eyes"
 title: Skies Within Your Eyes
 tier: own
 language: en

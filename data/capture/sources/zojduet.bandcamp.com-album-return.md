@@ -1,5 +1,6 @@
 ---
 url: https://zojduet.bandcamp.com/album/return
+archive: "https://web.archive.org/web/20250621130418/https://zojduet.bandcamp.com/album/return"
 title: Return | ZÖJ
 kind: web page
 tier: own

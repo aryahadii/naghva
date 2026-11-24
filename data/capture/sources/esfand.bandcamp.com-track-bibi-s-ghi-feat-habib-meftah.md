@@ -1,5 +1,6 @@
 ---
 url: https://esfand.bandcamp.com/track/bibi-s-ghi-feat-habib-meftah
+archive: "https://web.archive.org/web/20251223182549/https://esfand.bandcamp.com/track/bibi-s-ghi-feat-habib-meftah"
 title: Bibi Sāghi (feat. Habib Meftah) | Esfand
 kind: web page
 language: en

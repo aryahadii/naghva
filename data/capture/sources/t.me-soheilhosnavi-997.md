@@ -1,5 +1,6 @@
 ---
 url: https://t.me/soheilhosnavi/997
+archive: "https://web.archive.org/web/20260102194723/https://t.me/soheilhosnavi/997"
 title: «رهگذر»
 status: processed
 tier: own

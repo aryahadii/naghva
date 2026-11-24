@@ -1,5 +1,6 @@
 ---
 url: https://stereotypeduo.bandcamp.com/track/watch-it
+archive: "https://web.archive.org/web/20240725142306/https://stereotypeduo.bandcamp.com/track/watch-it"
 title: Watch it | Stereotype
 kind: web page
 language: en

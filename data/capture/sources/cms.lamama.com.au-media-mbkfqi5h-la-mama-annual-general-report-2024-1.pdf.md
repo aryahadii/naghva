@@ -1,5 +1,6 @@
 ---
 url: https://cms.lamama.com.au/media/mbkfqi5h/la-mama-annual-general-report-2024-1.pdf
+archive: "https://web.archive.org/web/20261117132701/https://cms.lamama.com.au/media/mbkfqi5h/la-mama-annual-general-report-2024-1.pdf"
 title: La Mama Annual General Report 2024
 tier: own
 language: en

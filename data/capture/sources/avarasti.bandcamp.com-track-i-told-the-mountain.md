@@ -1,5 +1,6 @@
 ---
 url: https://avarasti.bandcamp.com/track/i-told-the-mountain
+archive: "https://web.archive.org/web/20261124063509/https://avarasti.bandcamp.com/track/i-told-the-mountain"
 title: I Told The Mountain | Ava Rasti
 kind: web page
 language: en

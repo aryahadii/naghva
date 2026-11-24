@@ -1,5 +1,6 @@
 ---
 url: https://www.accent-presse.com/artiste/aida-nosrat/
+archive: "https://web.archive.org/web/20260609022220/https://www.accent-presse.com/artiste/aida-nosrat/"
 title: Aïda Nosrat - ACCENT PRESSE
 tier: own
 language: fr

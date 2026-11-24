@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/7EVygwy3LI1qcOTlpwRD32
+archive: "https://web.archive.org/web/20220423144423/https://open.spotify.com/album/7EVygwy3LI1qcOTlpwRD32"
 title: Project Masnavi - Eishan Ensemble | Spotify
 kind: web page
 tier: discography

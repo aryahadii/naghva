@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/aidashahghasemi/daay
+archive: "https://web.archive.org/web/20250415035612/https://soundcloud.com/aidashahghasemi/daay"
 title: Day
 tier: discography
 language: en

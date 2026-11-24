@@ -1,5 +1,6 @@
 ---
 url: https://cinnapey.bandcamp.com/track/i-a
+archive: "https://web.archive.org/web/20261005051512/https://cinnapey.bandcamp.com/track/i-a"
 title: Iùa | Cinna Peyghamy
 kind: web page
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://t.me/soheilhosnavi/694
+archive: "https://web.archive.org/web/20220521091724/https://t.me/soheilhosnavi/694"
 title: بداهه ای در دستگاه همایون
 status: processed
 tier: own

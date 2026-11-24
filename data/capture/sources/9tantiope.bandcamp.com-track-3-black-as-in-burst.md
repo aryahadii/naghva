@@ -1,5 +1,6 @@
 ---
 url: https://9tantiope.bandcamp.com/track/3-black-as-in-burst
+archive: "https://web.archive.org/web/20260226124341/https://9tantiope.bandcamp.com/track/3-black-as-in-burst"
 title: 3. Black as in Burst | 9T Antiope and Siavash Amini | 9T Antiope
 kind: web page
 language: en

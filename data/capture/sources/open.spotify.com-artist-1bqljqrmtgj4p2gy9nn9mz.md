@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/artist/1bQlJQRMtgj4p2gy9nN9Mz
+archive: "https://web.archive.org/web/20210622121346/https://open.spotify.com/artist/1bQlJQRMtgj4p2gy9nN9Mz"
 title: Listen to Aida Shahghasemi Songs | Spotify
 tier: own
 language: en

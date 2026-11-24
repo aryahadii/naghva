@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/6bWLG09OjOFbeCORlFJADk
+archive: "https://web.archive.org/web/20260330112249/https://open.spotify.com/album/6bWLG09OjOFbeCORlFJADk"
 title: Transcend
 tier: own
 language: en

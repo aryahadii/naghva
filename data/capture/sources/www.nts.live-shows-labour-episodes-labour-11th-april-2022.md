@@ -1,5 +1,6 @@
 ---
 url: https://www.nts.live/shows/labour/episodes/labour-11th-april-2022
+archive: "https://web.archive.org/web/20260418195821/https://www.nts.live/shows/labour/episodes/labour-11th-april-2022"
 title: LABOUR w/ Assane Mboup 11th April 2022 | Listen on NTS
 status: processed
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://eishanensemble.bandcamp.com/track/sins
+archive: "https://web.archive.org/web/20240125090059/https://eishanensemble.bandcamp.com/track/sins"
 title: Sins | Eishan Ensemble
 kind: web page
 tier: own

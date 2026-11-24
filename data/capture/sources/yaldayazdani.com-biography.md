@@ -1,5 +1,6 @@
 ---
 url: https://yaldayazdani.com/biography/
+archive: "https://web.archive.org/web/20260722195531/https://yaldayazdani.com/biography/"
 title: Biography – Yalda Yazdani
 status: processed
 language: en

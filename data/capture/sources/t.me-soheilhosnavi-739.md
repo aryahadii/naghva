@@ -1,5 +1,6 @@
 ---
 url: https://t.me/soheilhosnavi/739
+archive: "https://web.archive.org/web/20220521085229/https://t.me/soheilhosnavi/739"
 title: هم‌نوازی کوتاه از راه دور
 status: processed
 tier: own

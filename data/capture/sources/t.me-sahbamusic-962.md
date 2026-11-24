@@ -1,5 +1,6 @@
 ---
 url: https://t.me/Sahbamusic/962
+archive: "https://web.archive.org/web/20251228215124/https://t.me/Sahbamusic/962"
 title: دستگاه سه گاه، چهارمضراب اجرای کامل از ردیف دوره عالی استاد شهنازی
 status: processed
 language: fa

@@ -1,5 +1,6 @@
 ---
 url: https://davidhush.bandcamp.com/track/tantraayin
+archive: "https://web.archive.org/web/20230607055556/https://davidhush.bandcamp.com/track/tantraayin"
 title: Tantraayin | David Hush & Hamed Sadeghi | David Hush
 kind: web page
 tier: own

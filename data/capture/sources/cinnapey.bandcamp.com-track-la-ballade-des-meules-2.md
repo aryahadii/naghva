@@ -1,5 +1,6 @@
 ---
 url: https://cinnapey.bandcamp.com/track/la-ballade-des-meules-2
+archive: "https://web.archive.org/web/20261005051512/https://cinnapey.bandcamp.com/track/la-ballade-des-meules-2"
 title: La Ballade Des Meules | Cinna Peyghamy
 kind: web page
 language: en

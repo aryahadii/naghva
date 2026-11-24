@@ -1,5 +1,6 @@
 ---
 url: https://5mbs.com/badieh/
+archive: "https://web.archive.org/web/20260711211423/https://5mbs.com/badieh/"
 title: Badieh - Radio 5mbs 99.9FM
 kind: web page
 tier: journalism

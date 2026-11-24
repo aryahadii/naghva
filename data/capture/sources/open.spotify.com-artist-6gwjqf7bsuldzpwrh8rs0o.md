@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/artist/6GWjQF7BsUlDZpwrH8RS0O
+archive: "https://web.archive.org/web/20190918000639/https://open.spotify.com/artist/6GWjQF7BsUlDZpwrH8RS0O"
 title: Listen to Idlefon Songs | Spotify
 kind: web page
 language: en

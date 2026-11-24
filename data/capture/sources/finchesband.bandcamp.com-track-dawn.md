@@ -1,5 +1,6 @@
 ---
 url: https://finchesband.bandcamp.com/track/dawn
+archive: "https://web.archive.org/web/20261124080430/https://finchesband.bandcamp.com/track/dawn"
 title: Dawn | The Finches
 kind: web page
 language: en

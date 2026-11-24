@@ -1,5 +1,6 @@
 ---
 url: https://navaak.com/album/mohsen-sharifian-ahle-maatam
+archive: "https://web.archive.org/web/20241206210612/https://navaak.com/album/mohsen-sharifian-ahle-maatam"
 title: آلبوم اهل ماتم (آواهای سوگواری در بوشهر) از محسن شریفیان | نواک
 tier: discography
 language: fa

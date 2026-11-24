@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/asadimusic/sets/asadi-worldwide
+archive: "https://web.archive.org/web/20240910092113/https://soundcloud.com/asadimusic/sets/asadi-worldwide"
 title: ASADI WORLDWIDE
 tier: own
 language: en

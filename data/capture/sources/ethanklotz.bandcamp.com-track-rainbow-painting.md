@@ -1,5 +1,6 @@
 ---
 url: https://ethanklotz.bandcamp.com/track/rainbow-painting
+archive: "https://web.archive.org/web/20261124075023/https://ethanklotz.bandcamp.com/track/rainbow-painting"
 title: Rainbow Painting | Ethan Klotz
 status: processed
 language: en

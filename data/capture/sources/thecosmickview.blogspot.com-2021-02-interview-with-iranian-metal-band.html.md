@@ -1,5 +1,6 @@
 ---
 url: https://thecosmickview.blogspot.com/2021/02/interview-with-iranian-metal-band.html
+archive: "https://web.archive.org/web/20260416234415/https://thecosmickview.blogspot.com/2021/02/interview-with-iranian-metal-band.html"
 title: Interview with the Iranian Metal Band Artamene
 tier: journalism
 language: en

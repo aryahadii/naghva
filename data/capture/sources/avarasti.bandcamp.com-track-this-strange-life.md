@@ -1,5 +1,6 @@
 ---
 url: https://avarasti.bandcamp.com/track/this-strange-life
+archive: "https://web.archive.org/web/20261124063720/https://avarasti.bandcamp.com/track/this-strange-life"
 title: This Strange Life | Ava Rasti
 kind: web page
 language: en

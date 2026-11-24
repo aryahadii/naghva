@@ -1,5 +1,6 @@
 ---
 url: https://unperceivedrecords.bandcamp.com/track/red-trough
+archive: "https://web.archive.org/web/20241212100940/https://unperceivedrecords.bandcamp.com/track/red-trough"
 title: Red Trough | 9T Antiope | Unperceived Records
 kind: web page
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/04qNnZ9L14EtmNkad1sFEU
+archive: "https://web.archive.org/web/20240715103811/https://open.spotify.com/album/04qNnZ9L14EtmNkad1sFEU"
 title: The Sentinel
 tier: discography
 language: en

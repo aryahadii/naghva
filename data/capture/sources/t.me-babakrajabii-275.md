@@ -1,5 +1,6 @@
 ---
 url: https://t.me/babakrajabii/275
+archive: "https://web.archive.org/web/20230424041616/https://t.me/babakrajabii/275"
 title: Babak Rajabi · Telegram 275
 status: processed
 language: fa

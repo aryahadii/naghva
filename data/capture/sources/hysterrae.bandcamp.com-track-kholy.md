@@ -1,5 +1,6 @@
 ---
 url: https://hysterrae.bandcamp.com/track/kholy
+archive: "https://web.archive.org/web/20260221081833/https://hysterrae.bandcamp.com/track/kholy"
 title: Kholy | Hysterrae
 kind: web page
 tier: own

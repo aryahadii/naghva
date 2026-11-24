@@ -1,5 +1,6 @@
 ---
 url: https://belvoir.com.au/wp-content/uploads/2012/08/Sami-Program-PRINT-Ed-Resource.pdf
+archive: "https://web.archive.org/web/20190406182427/https://belvoir.com.au/wp-content/uploads/2012/08/Sami-Program-PRINT-Ed-Resource.pdf"
 title: Sami in Paradise programme
 kind: web page
 tier: own

@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=mw4MZxifVxg
+archive: "https://web.archive.org/web/20250117210419/https://www.youtube.com/watch?v=mw4MZxifVxg"
 title: Badieh - Paresh-e Jal (official video)
 kind: youtube video
 tier: own

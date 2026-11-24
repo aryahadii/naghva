@@ -1,5 +1,6 @@
 ---
 url: https://tympanikaudio.bandcamp.com/track/benight
+archive: "https://web.archive.org/web/20250602183632/https://tympanikaudio.bandcamp.com/track/benight"
 title: Benight | Idlefon | Tympanik Audio
 kind: web page
 language: en

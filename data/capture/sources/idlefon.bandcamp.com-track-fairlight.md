@@ -1,5 +1,6 @@
 ---
 url: https://idlefon.bandcamp.com/track/fairlight
+archive: "https://web.archive.org/web/20240401194924/https://idlefon.bandcamp.com/track/fairlight"
 title: FairLight | Idlefon
 kind: web page
 language: en

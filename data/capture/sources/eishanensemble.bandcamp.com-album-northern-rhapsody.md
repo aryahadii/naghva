@@ -1,5 +1,6 @@
 ---
 url: https://eishanensemble.bandcamp.com/album/northern-rhapsody
+archive: "https://web.archive.org/web/20260506053110/https://eishanensemble.bandcamp.com/album/northern-rhapsody"
 title: Northern Rhapsody | Eishan Ensemble
 kind: web page
 tier: own

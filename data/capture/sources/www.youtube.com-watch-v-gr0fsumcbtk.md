@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=GR0fSuMCBTk
+archive: "https://web.archive.org/web/20251123182810/https://www.youtube.com/watch?v=GR0fSuMCBTk"
 title: عاشقان - مهرداد بران و کر بهار (Official)
 kind: youtube video
 tier: own

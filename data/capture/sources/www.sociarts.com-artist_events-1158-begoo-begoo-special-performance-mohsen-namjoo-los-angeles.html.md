@@ -1,5 +1,6 @@
 ---
 url: https://www.sociarts.com/artist_events/1158/begoo-begoo-special-performance-mohsen-namjoo-los-angeles.html
+archive: "https://web.archive.org/web/20260608151128/https://www.sociarts.com/artist_events/1158/begoo-begoo-special-performance-mohsen-namjoo-los-angeles.html"
 title: Begoo Begoo A Special Performance by Mohsen Namjoo Featuring Greg Ellis and Kasra Saboktakin in Los Angeles | SoCiArts - Socially Conscious Arts
 kind: web page
 tier: own

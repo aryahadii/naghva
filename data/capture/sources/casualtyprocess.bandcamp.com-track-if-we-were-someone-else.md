@@ -1,5 +1,6 @@
 ---
 url: https://casualtyprocess.bandcamp.com/track/if-we-were-someone-else
+archive: "https://web.archive.org/web/20240418211733/https://casualtyprocess.bandcamp.com/track/if-we-were-someone-else"
 title: If We Were Someone Else | Casualty Process
 kind: web page
 tier: own

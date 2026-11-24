@@ -1,5 +1,6 @@
 ---
 url: https://n5md.bandcamp.com/track/deadbeat-stiffnumbdirtycold
+archive: "https://web.archive.org/web/20260215141121/https://n5md.bandcamp.com/track/deadbeat-stiffnumbdirtycold"
 title: Deadbeat (stiffnumbdirtycold) | Idlefon | n5MD
 kind: web page
 language: en

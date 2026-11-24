@@ -1,5 +1,6 @@
 ---
 url: https://t.me/malihehmoradi/16
+archive: "https://web.archive.org/web/20220519175101/https://t.me/malihehmoradi/16"
 title: تصنیف ایران
 tier: own
 language: fa

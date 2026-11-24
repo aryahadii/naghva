@@ -1,5 +1,6 @@
 ---
 url: https://hysterrae.bandcamp.com/music
+archive: "https://web.archive.org/web/20260221082312/https://hysterrae.bandcamp.com/music"
 title: Music | Hysterrae
 kind: web page
 tier: own

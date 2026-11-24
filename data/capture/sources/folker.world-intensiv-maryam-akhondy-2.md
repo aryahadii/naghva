@@ -1,5 +1,6 @@
 ---
 url: https://folker.world/intensiv/maryam-akhondy-2/
+archive: "https://web.archive.org/web/20260413164727/https://folker.world/intensiv/maryam-akhondy-2/"
 title: Maryam Akhondy | folker.world
 tier: journalism
 language: de

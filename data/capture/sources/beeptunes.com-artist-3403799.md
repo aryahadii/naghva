@@ -1,5 +1,6 @@
 ---
 url: https://beeptunes.com/artist/3403799
+archive: "https://web.archive.org/web/20210723165609/https://beeptunes.com/artist/3403799"
 title: بابک بوبان |‌ بیوگرافی + دانلود آهنگ ها و آلبوم ها | ‌بیپ تونز
 tier: discography
 language: fa

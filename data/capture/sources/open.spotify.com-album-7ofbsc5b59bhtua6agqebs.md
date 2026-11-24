@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/7oFbSc5B59BhTua6aGQEBs
+archive: "https://web.archive.org/web/20251201233809/https://open.spotify.com/album/7oFbSc5B59BhTua6aGQEBs"
 title: Mirrors Edge
 tier: discography
 language: en

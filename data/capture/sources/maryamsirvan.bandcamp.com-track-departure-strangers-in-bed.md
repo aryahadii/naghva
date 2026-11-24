@@ -1,5 +1,6 @@
 ---
 url: https://maryamsirvan.bandcamp.com/track/departure-strangers-in-bed
+archive: "https://web.archive.org/web/20250606082818/https://maryamsirvan.bandcamp.com/track/departure-strangers-in-bed"
 title: Departure (Strangers in Bed) | Maryam Sirvan
 kind: web page
 language: en

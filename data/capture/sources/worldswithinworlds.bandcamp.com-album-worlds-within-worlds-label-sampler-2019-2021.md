@@ -1,5 +1,6 @@
 ---
 url: https://worldswithinworlds.bandcamp.com/album/worlds-within-worlds-label-sampler-2019-2021
+archive: "https://web.archive.org/web/20240828183551/https://worldswithinworlds.bandcamp.com/album/worlds-within-worlds-label-sampler-2019-2021"
 title: Worlds Within Worlds Label Sampler 2019 - 2021 | Worlds Within Worlds
 kind: web page
 tier: own

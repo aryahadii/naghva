@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=VksYlqELwUU
+archive: "https://web.archive.org/web/20260408233228/https://www.youtube.com/watch?v=VksYlqELwUU"
 title: 10.  Yâr Mobâràk Bâd - یار مبارک بادا - (Arash Fouladvand feat Mahdieh, Sitorai and Shohrukh)
 kind: youtube video
 tier: own

@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/asadimusic/the-law-of-attraction
+archive: "https://web.archive.org/web/20231021002547/https://soundcloud.com/asadimusic/the-law-of-attraction"
 title: The Law of Attraction
 tier: own
 language: en

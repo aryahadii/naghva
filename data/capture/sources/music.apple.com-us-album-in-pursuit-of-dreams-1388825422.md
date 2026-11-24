@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/in-pursuit-of-dreams/1388825422
+archive: "https://web.archive.org/web/20221205120305/https://music.apple.com/us/album/in-pursuit-of-dreams/1388825422"
 title: In Pursuit of Dreams
 tier: discography
 language: en

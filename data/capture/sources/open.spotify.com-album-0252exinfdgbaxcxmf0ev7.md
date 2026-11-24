@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/0252EXINfDGBaXcxMF0ev7
+archive: "https://web.archive.org/web/20230503100603/https://open.spotify.com/album/0252EXINfDGBaXcxMF0ev7"
 title: Rozhnak
 tier: discography
 language: en

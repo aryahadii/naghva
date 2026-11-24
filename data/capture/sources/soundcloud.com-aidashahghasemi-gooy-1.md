@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/aidashahghasemi/gooy-1
+archive: "https://web.archive.org/web/20220804082513/https://soundcloud.com/aidashahghasemi/gooy-1"
 title: Gooy
 tier: discography
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/61Ar7FH43fpFUbEQVx8FlJ
+archive: "https://web.archive.org/web/20220710004949/https://open.spotify.com/album/61Ar7FH43fpFUbEQVx8FlJ"
 title: Playground
 tier: discography
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://aa-e.org/fr/artiste/mirshekari-hura/
+archive: "https://web.archive.org/web/20261124004727/https://aa-e.org/en/artiste/mirshekari-hura/"
 title: Mirshekari Hura – agency of artists in exile
 tier: own
 kind: web page

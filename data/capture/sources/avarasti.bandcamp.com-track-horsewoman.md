@@ -1,5 +1,6 @@
 ---
 url: https://avarasti.bandcamp.com/track/horsewoman
+archive: "https://web.archive.org/web/20261017172004/https://avarasti.bandcamp.com/track/horsewoman"
 title: Horsewoman | Ava Rasti
 kind: web page
 language: en

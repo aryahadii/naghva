@@ -1,5 +1,6 @@
 ---
 url: https://forecast-platform.com/presentations-july-6-7-at-radialsystem/
+archive: "https://web.archive.org/web/20260719153524/https://forecast-platform.com/presentations-july-6-7-at-radialsystem/"
 title: Forecast Forum 2019 at radialsystem – Forecast
 kind: web page
 language: en

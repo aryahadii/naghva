@@ -1,5 +1,6 @@
 ---
 url: https://confessband.bandcamp.com/music
+archive: "https://web.archive.org/web/20260922194034/https://confessband.bandcamp.com/music"
 title: Confess
 tier: own
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://zameenarthouse.com/event/cheshmak-ensemble-boro-keh-berim-triumph-failure-in-contemporary-iranian-independent-music/
+archive: "https://web.archive.org/web/20260412092420/https://zameenarthouse.com/event/cheshmak-ensemble-boro-keh-berim-triumph-failure-in-contemporary-iranian-independent-music/"
 title: Cheshmak Ensemble - Zameen Art House
 kind: web page
 language: en

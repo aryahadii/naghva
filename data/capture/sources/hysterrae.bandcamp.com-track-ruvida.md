@@ -1,5 +1,6 @@
 ---
 url: https://hysterrae.bandcamp.com/track/ruvida
+archive: "https://web.archive.org/web/20260221081615/https://hysterrae.bandcamp.com/track/ruvida"
 title: Ruvida | Hysterrae
 kind: web page
 tier: own

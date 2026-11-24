@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/1EtafTUH3nt33WbkNqfK7J
+archive: "https://web.archive.org/web/20250829003444/https://open.spotify.com/album/1EtafTUH3nt33WbkNqfK7J"
 title: The Rogue Prince of Persia (The Complete Soundtrack)
 tier: discography
 language: en

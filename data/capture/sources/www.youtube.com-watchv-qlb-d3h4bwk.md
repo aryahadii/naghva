@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=QLb-D3h4Bwk
+archive: "https://web.archive.org/web/20260704214012/https://www.youtube.com/watch?v=QLb-D3h4Bwk"
 title: اشکی در گذرگاه تاریخ، سینا سرلک، صهبا مطلبی،A Tear At The Crossroad Of Time،In Memory of Kami Kotobi
 status: processed
 language: en

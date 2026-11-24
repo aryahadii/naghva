@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/0omP3n9aNmTNcI09Z66QVd
+archive: "https://web.archive.org/web/20190125154737/https://open.spotify.com/album/0omP3n9aNmTNcI09Z66QVd"
 title: From the vaults vol 3 -Remixes and Collab's 2006-2010
 tier: own
 language: en

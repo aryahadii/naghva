@@ -1,5 +1,6 @@
 ---
 url: https://asianitinerary.com/mohsen-sharifian-and-the-lian-band/
+archive: "https://web.archive.org/web/20260810135218/https://asianitinerary.com/mohsen-sharifian-and-the-lian-band/"
 title: Mohsen Sharifian promotes Iran folk music
 tier: journalism
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://t.me/Sahbamusic/1005
+archive: "https://web.archive.org/web/20251229135329/https://t.me/Sahbamusic/1005"
 title: دستگاه سه گاه، اجرای کامل چهارمضراب مخالف از ردیف استاد شهنازی
 status: processed
 language: fa

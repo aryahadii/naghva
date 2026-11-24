@@ -1,5 +1,6 @@
 ---
 url: https://first-avenue.com/performer/aida-shahghasemi/
+archive: "https://web.archive.org/web/20241202115406/https://first-avenue.com/performer/aida-shahghasemi/"
 title: Aida Shahghasemi - First Avenue
 tier: own
 language: en

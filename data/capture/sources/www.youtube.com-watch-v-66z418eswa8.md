@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=66Z418ESwA8
+archive: "https://web.archive.org/web/20260211210329/https://www.youtube.com/watch?v=66Z418ESwA8"
 title: Shahin Najafi - Dordaneh (Album Jens Sevom) دردانه - آلبوم جنس سوم شاهین نجفی - YouTube
 kind: web page
 tier: own

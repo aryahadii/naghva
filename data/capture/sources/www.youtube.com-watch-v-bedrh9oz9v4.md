@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=BedRh9OZ9v4
+archive: "https://web.archive.org/web/20251226182742/https://www.youtube.com/watch?v=BedRh9OZ9v4"
 title: Insomnia (Music Video) - YouTube
 kind: web page
 tier: own

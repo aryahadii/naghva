@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/embed/track/2L1RamPtpM3bITnlLduRgf
+archive: "https://web.archive.org/web/20260307064648/https://open.spotify.com/embed/track/2L1RamPtpM3bITnlLduRgf"
 title: Morvarid
 tier: discography
 language: en

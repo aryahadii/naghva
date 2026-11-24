@@ -1,5 +1,6 @@
 ---
 url: https://tirgan2023.tirgan.ca/event/borderless-band/
+archive: "https://web.archive.org/web/20260607162520/https://tirgan2023.tirgan.ca/event/borderless-band/"
 title: Tirgan Festival | Borderless Band
 tier: own
 language: en

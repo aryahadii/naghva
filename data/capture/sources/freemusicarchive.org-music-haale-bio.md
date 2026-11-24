@@ -1,5 +1,6 @@
 ---
 url: https://freemusicarchive.org/music/Haale/bio
+archive: "https://web.archive.org/web/20261124080950/https://freemusicarchive.org/music/Haale/bio"
 title: Haale | Artist biography
 tier: own
 language: en

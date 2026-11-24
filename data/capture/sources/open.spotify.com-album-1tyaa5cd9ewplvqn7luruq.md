@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/1TYAA5cd9EwPLVQN7luRuQ
+archive: "https://web.archive.org/web/20240720011455/https://open.spotify.com/album/1TYAA5cd9EwPLVQN7luRuQ"
 title: Listen to Flicker - Album by Lukas Schwegmann Quintett | Spotify
 status: processed
 language: en

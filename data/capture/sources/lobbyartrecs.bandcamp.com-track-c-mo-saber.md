@@ -1,5 +1,6 @@
 ---
 url: https://lobbyartrecs.bandcamp.com/track/c-mo-saber
+archive: "https://web.archive.org/web/20250729062545/https://lobbyartrecs.bandcamp.com/track/c-mo-saber"
 title: cómo saber | Isabel Crespo Pardo | Lobby Art Editions
 status: processed
 language: en

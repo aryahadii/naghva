@@ -1,5 +1,6 @@
 ---
 url: https://noisecreep.com/louna-fight-club-exclusive-lyric-video-premiere/
+archive: "https://web.archive.org/web/20260316000008/https://noisecreep.com/louna-fight-club-exclusive-lyric-video-premiere/"
 title: Louna, 'Fight Club' - Exclusive Lyric Video Premiere
 kind: web page
 tier: journalism

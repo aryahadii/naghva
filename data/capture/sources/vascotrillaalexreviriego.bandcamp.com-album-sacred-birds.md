@@ -1,5 +1,6 @@
 ---
 url: https://vascotrillaalexreviriego.bandcamp.com/album/sacred-birds
+archive: "https://web.archive.org/web/20260221072425/https://vascotrillaalexreviriego.bandcamp.com/album/sacred-birds"
 title: Sacred Birds | Soheil Peyghambari, Àlex Reviriego & Vasco Trilla | Vasco Trilla & Àlex Reviriego
 kind: web page
 language: en

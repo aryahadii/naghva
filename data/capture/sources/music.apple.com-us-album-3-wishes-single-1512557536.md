@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/3-wishes-single/1512557536
+archive: "https://web.archive.org/web/20240901120653/https://music.apple.com/us/album/3-wishes-single/1512557536"
 title: 3 Wishes - Single
 tier: discography
 language: en

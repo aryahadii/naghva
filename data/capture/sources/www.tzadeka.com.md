@@ -1,5 +1,6 @@
 ---
 url: https://www.tzadeka.com/
+archive: "https://web.archive.org/web/20211225102208/http://tzadeka.com/"
 title: Tzadeka.com
 status: processed
 language: en

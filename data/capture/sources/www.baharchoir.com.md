@@ -1,5 +1,6 @@
 ---
 url: https://www.baharchoir.com/
+archive: "https://web.archive.org/web/20261009175346/https://www.baharchoir.com/"
 title: Bahar Choir | bahar
 kind: web page
 tier: own

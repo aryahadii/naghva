@@ -1,5 +1,6 @@
 ---
 url: https://completemusicupdate.com/approved-mentrix/
+archive: "https://web.archive.org/web/20261124071144/https://completemusicupdate.com/approved-mentrix/"
 title: 'Approved: Mentrix'
 kind: web page
 language: en

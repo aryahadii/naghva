@@ -1,5 +1,6 @@
 ---
 url: https://tricksterorchestra.de/en/projects/vom-bleiben-en/
+archive: "https://web.archive.org/web/20260518092447/https://tricksterorchestra.de/en/projects/vom-bleiben-en/"
 title: Vom Bleiben - Trickster Orchestra
 tier: own
 language: en

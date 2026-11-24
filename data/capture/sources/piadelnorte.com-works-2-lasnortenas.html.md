@@ -1,5 +1,6 @@
 ---
 url: https://piadelnorte.com/works-2/lasnortenas.html
+archive: "https://web.archive.org/web/20260420031012/https://www.piadelnorte.com/works-2/lasnortenas.html"
 title: Las Norteñas | Pia del Norte
 tier: own
 language: en

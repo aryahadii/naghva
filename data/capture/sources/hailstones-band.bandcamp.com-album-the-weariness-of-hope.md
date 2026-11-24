@@ -1,5 +1,6 @@
 ---
 url: https://hailstones-band.bandcamp.com/album/the-weariness-of-hope
+archive: "https://web.archive.org/web/20261124081827/https://hailstones-band.bandcamp.com/album/the-weariness-of-hope"
 title: The Weariness of Hope | Hailstones
 kind: web page
 language: en

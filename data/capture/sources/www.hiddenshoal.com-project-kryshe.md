@@ -1,5 +1,6 @@
 ---
 url: https://www.hiddenshoal.com/project/kryshe/
+archive: "https://web.archive.org/web/20260808041104/https://www.hiddenshoal.com/project/kryshe/"
 title: Kryshe - Hidden Shoal
 status: processed
 language: en

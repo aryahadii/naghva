@@ -1,5 +1,6 @@
 ---
 url: https://9tantiope.bandcamp.com/track/ready-player-one
+archive: "https://web.archive.org/web/20260217151421/https://9tantiope.bandcamp.com/track/ready-player-one"
 title: Ready Player One | 9T Antiope
 kind: web page
 language: en

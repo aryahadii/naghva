@@ -1,5 +1,6 @@
 ---
 url: https://www.kevinkastning.com/firstrealm5.htm
+archive: "https://web.archive.org/web/20260421135013/https://kevinkastning.com/firstrealm5.htm"
 title: 'Kevin Kastning :: The First Realm'
 kind: web page
 language: en

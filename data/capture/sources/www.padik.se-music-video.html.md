@@ -1,5 +1,6 @@
 ---
 url: https://www.padik.se/music-video.html
+archive: "https://web.archive.org/web/20260214103851/https://padik.se/music-video.html"
 title: Padik - Music From Balouchistan - Music & Video
 tier: own
 language: en

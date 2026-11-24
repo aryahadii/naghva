@@ -1,5 +1,6 @@
 ---
 url: https://zabtesote.bandcamp.com/track/submit-defy
+archive: "https://web.archive.org/web/20220804001554/https://zabtesote.bandcamp.com/track/submit-defy"
 title: Submit/Defy | Nima Aghiani | Zabte Sote
 kind: web page
 language: en

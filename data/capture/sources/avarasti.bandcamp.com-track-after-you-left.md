@@ -1,5 +1,6 @@
 ---
 url: https://avarasti.bandcamp.com/track/after-you-left
+archive: "https://web.archive.org/web/20261124063348/https://avarasti.bandcamp.com/track/after-you-left"
 title: After You Left | Ava Rasti
 kind: web page
 language: en

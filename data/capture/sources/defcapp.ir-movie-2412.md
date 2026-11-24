@@ -1,5 +1,6 @@
 ---
 url: https://defcapp.ir/Movie/2412/
+archive: "https://web.archive.org/web/20261124072500/https://defcapp.ir/Movie/2412/"
 title: بانک اطلاعات مرکز سینمای مستند و تجربی
 kind: web page
 language: en

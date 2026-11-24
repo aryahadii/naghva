@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/artist/1uS7M2kI62VRWBN4mH0Snt
+archive: "https://web.archive.org/web/20250819134825/https://open.spotify.com/artist/1uS7M2kI62VRWBN4mH0Snt"
 title: Saeid Shanbehzadeh
 tier: own
 language: en

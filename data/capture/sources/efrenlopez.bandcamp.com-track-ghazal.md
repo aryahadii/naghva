@@ -1,5 +1,6 @@
 ---
 url: https://efrenlopez.bandcamp.com/track/ghazal
+archive: "https://web.archive.org/web/20261124073405/https://efrenlopez.bandcamp.com/track/ghazal"
 title: Ghazal | Araz Salek | Efrén López
 kind: web page
 tier: own

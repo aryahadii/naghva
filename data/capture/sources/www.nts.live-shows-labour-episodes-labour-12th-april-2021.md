@@ -1,5 +1,6 @@
 ---
 url: https://www.nts.live/shows/labour/episodes/labour-12th-april-2021
+archive: "https://web.archive.org/web/20211024084908/https://www.nts.live/shows/labour/episodes/labour-12th-april-2021"
 title: LABOUR w/ Omar Pene 12th April 2021 | Listen on NTS
 status: processed
 language: en

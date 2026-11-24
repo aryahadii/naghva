@@ -1,5 +1,6 @@
 ---
 url: https://zabtesote.bandcamp.com/track/10-1396
+archive: "https://web.archive.org/web/20240601205420/https://zabtesote.bandcamp.com/track/10-1396"
 title: 10, 1396 | Umchunga | Zabte Sote
 kind: web page
 language: en

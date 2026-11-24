@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/cumb%C3%A9-ep/1538744116
+archive: "https://web.archive.org/web/20260226033153/https://music.apple.com/us/album/cumb%C3%A9-ep/1538744116"
 title: Cumbé EP
 tier: discography
 language: en

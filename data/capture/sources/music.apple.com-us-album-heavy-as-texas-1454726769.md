@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/heavy-as-texas/1454726769
+archive: "https://web.archive.org/web/20241119032952/https://music.apple.com/us/album/heavy-as-texas/1454726769"
 title: Heavy as Texas
 tier: discography
 language: en

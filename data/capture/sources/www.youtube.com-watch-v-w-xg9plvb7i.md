@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=w-XG9pLVb7I
+archive: "https://web.archive.org/web/20251219194117/https://www.youtube.com/watch?si=99sqqzJhaMwmPhnF&v=w-XG9pLVb7I"
 title: Résid Ân Shàh - رسید آن شه (Arash Fouladvand feat Niaz Nawab) at Saint Mary Magdalene, Paddington
 kind: youtube video
 tier: own

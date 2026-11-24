@@ -1,5 +1,6 @@
 ---
 url: https://musicworks.ca/araz-salek-inquisitive-traditionalist/
+archive: "https://web.archive.org/web/20261006015204/https://musicworks.ca/araz-salek-inquisitive-traditionalist/"
 title: Araz Salek, Inquisitive Traditionalist | Musicworks
 kind: web page
 tier: journalism

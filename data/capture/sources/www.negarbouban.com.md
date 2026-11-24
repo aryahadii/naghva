@@ -1,5 +1,6 @@
 ---
 url: https://www.negarbouban.com/
+archive: "https://web.archive.org/web/20261026085412/https://www.negarbouban.com/"
 title: Negar Bouban
 tier: own
 language: en

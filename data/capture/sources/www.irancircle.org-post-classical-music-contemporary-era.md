@@ -1,5 +1,6 @@
 ---
 url: https://www.irancircle.org/post/classical-music-contemporary-era
+archive: "https://web.archive.org/web/20260714000708/https://www.irancircle.org/post/classical-music-contemporary-era"
 title: موسیقی دستگاهی ایران در دوره معاصر
 kind: web page
 tier: journalism

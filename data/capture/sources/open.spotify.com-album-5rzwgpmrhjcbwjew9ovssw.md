@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/5RzWGpMrHjCBwjew9ovssW
+archive: "https://web.archive.org/web/20261112123917/https://open.spotify.com/album/5RzWGpMrHjCBwjew9ovssW"
 title: Tambour inopiné (Classical Persian Music)
 tier: discography
 language: en

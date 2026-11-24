@@ -1,5 +1,6 @@
 ---
 url: https://ahoora.bandcamp.com/album/ahoora
+archive: "https://web.archive.org/web/20261124005738/https://ahoora.bandcamp.com/album/ahoora"
 title: Ahoora | Ahoora
 tier: own
 language: en

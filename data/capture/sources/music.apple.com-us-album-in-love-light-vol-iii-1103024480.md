@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/in-love-light-vol-iii/1103024480
+archive: "https://web.archive.org/web/20250713183557/https://music.apple.com/us/album/in-love-light-vol-iii/1103024480"
 title: In Love & Light, Vol. III
 tier: discography
 language: en

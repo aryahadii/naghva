@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/track/3zArQEi8HEYMBgNZm60EZH
+archive: "https://web.archive.org/web/20240718025845/https://open.spotify.com/track/3zArQEi8HEYMBgNZm60EZH"
 title: Without Foot, Without Head - song and lyrics by Esfand, Misagh Moradi | Spotify
 kind: web page
 language: en

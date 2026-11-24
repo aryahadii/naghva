@@ -1,5 +1,6 @@
 ---
 url: https://localdish.bandcamp.com/album/cheshmak-ep
+archive: "https://web.archive.org/web/20260218004708/https://localdish.bandcamp.com/album/cheshmak-ep"
 title: CHESHMAK EP | Cheshmak | Local Dish
 kind: web page
 language: en

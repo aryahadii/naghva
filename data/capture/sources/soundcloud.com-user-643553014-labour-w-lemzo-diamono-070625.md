@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/user-643553014/labour-w-lemzo-diamono-070625
+archive: "https://web.archive.org/web/20260302124545/https://soundcloud.com/user-643553014/labour-w-lemzo-diamono-070625"
 title: Stream Labour w/ Lemzo Diamono 070625 by NTS 2024-2025 | Listen online for free on SoundCloud
 status: processed
 language: en

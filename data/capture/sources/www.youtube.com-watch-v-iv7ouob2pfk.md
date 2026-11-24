@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=iV7OUob2pFk
+archive: "https://web.archive.org/web/20260329045944/https://www.youtube.com/watch?v=iV7OUob2pFk"
 title: 9. Ey Pâdéshàhé Khoubân - ای پادشه خوبان - (Arash Fouladvand feat Mahdieh, Sitorai and Sina)
 kind: youtube video
 tier: own

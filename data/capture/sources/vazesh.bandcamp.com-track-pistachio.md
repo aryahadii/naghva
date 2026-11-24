@@ -1,5 +1,6 @@
 ---
 url: https://vazesh.bandcamp.com/track/pistachio
+archive: "https://web.archive.org/web/20260619184215/https://vazesh.bandcamp.com/track/pistachio"
 title: Pistachio | Vazesh
 kind: web page
 tier: own

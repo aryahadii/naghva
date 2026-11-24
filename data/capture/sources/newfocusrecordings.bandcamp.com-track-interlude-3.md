@@ -1,5 +1,6 @@
 ---
 url: https://newfocusrecordings.bandcamp.com/track/interlude-3
+archive: "https://web.archive.org/web/20260203225234/https://newfocusrecordings.bandcamp.com/track/interlude-3"
 title: Interlude | Either/Or | New Focus Recordings
 status: processed
 language: en

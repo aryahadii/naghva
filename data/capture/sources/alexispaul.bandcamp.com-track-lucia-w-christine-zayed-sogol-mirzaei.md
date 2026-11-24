@@ -1,5 +1,6 @@
 ---
 url: https://alexispaul.bandcamp.com/track/lucia-w-christine-zayed-sogol-mirzaei
+archive: "https://web.archive.org/web/20261124062017/https://alexispaul.bandcamp.com/track/lucia-w-christine-zayed-sogol-mirzaei"
 title: Lucia w/ Christine Zayed & Sogol Mirzaei | Orgue-paysage | Alexis Paul
 status: processed
 language: en

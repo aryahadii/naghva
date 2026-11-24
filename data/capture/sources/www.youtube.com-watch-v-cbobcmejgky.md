@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=cbobCMejGKY
+archive: "https://web.archive.org/web/20240227174519/https://www.youtube.com/watch?v=cbobCMejGKY"
 title: دوضربی بیات ترک صبا I Zarbi de Bayât Tork
 tier: own
 kind: web page

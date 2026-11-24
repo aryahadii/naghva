@@ -1,5 +1,6 @@
 ---
 url: https://www.radiozamaneh.com/845681/
+archive: "https://web.archive.org/web/20250420092215/https://www.radiozamaneh.com/845681/"
 title: 'سوگنامه‌ای برای زندگی: روزبه اسفندارمز و رویکرد مینی‌مالیستی او در موسیقی'
 kind: web page
 language: en

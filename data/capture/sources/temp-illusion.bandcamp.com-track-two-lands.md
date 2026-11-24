@@ -1,5 +1,6 @@
 ---
 url: https://temp-illusion.bandcamp.com/track/two-lands
+archive: "https://web.archive.org/web/20240601205125/https://temp-illusion.bandcamp.com/track/two-lands"
 title: Two Lands | Temp-Illusion
 kind: web page
 language: en

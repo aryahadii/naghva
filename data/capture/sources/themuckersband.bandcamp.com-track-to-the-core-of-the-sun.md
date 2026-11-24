@@ -1,5 +1,6 @@
 ---
 url: https://themuckersband.bandcamp.com/track/to-the-core-of-the-sun
+archive: "https://web.archive.org/web/20250910002105/https://themuckersband.bandcamp.com/track/to-the-core-of-the-sun"
 title: To The Core of the Sun | The Muckers
 kind: web page
 tier: own

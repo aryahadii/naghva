@@ -1,5 +1,6 @@
 ---
 url: https://www.lacedrecords.com/products/the-rogue-prince-of-persia-exclusive-edition-deluxe-double-vinyl
+archive: "https://web.archive.org/web/20260913085956/https://www.lacedrecords.com/products/the-rogue-prince-of-persia-exclusive-edition-deluxe-double-vinyl"
 title: The Rogue Prince of Persia (Exclusive Edition Deluxe Double Vinyl)
 tier: own
 language: en

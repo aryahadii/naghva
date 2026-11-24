@@ -1,5 +1,6 @@
 ---
 url: https://t.me/soheilhosnavi/744
+archive: "https://web.archive.org/web/20220521085059/https://t.me/soheilhosnavi/744"
 title: واریاسیون بر روی تِم آهنگ شهر شیراز
 status: processed
 tier: own

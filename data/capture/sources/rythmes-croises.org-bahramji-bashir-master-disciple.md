@@ -1,5 +1,6 @@
 ---
 url: https://rythmes-croises.org/bahramji-bashir-master-disciple/
+archive: "https://web.archive.org/web/20260516083205/https://rythmes-croises.org/bahramji-bashir-master-disciple/"
 title: Bahramji & Bashir
 tier: journalism
 language: fr

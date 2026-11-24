@@ -1,5 +1,6 @@
 ---
 url: https://www.rferl.org/a/shervin-hajipour-iran-grammy-winner-album/33611837.html
+archive: "https://web.archive.org/web/20260921111954/https://www.rferl.org/a/shervin-hajipour-iran-grammy-winner-album/33611837.html"
 title: Iranian Grammy Winner Hajipour Sparks Controversy With State-Sanctioned Album
 tier: journalism
 language: en

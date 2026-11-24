@@ -1,5 +1,6 @@
 ---
 url: https://www.farzadonline.com/category/uncategorized/
+archive: "https://web.archive.org/web/20260518150405/https://www.farzadonline.com/category/uncategorized/"
 title: Farzad Golpayegani’s Band concerts (2003–04)
 kind: web page
 tier: own

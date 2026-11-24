@@ -1,5 +1,6 @@
 ---
 url: https://www.transglobalwmc.com/charts/best-of-the-2023-2024-season/
+archive: "https://web.archive.org/web/20260905072619/https://www.transglobalwmc.com/charts/best-of-the-2023-2024-season/"
 title: Best of the 2023-2024 season – Transglobal World Music Chart
 kind: web page
 tier: other

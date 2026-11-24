@@ -1,5 +1,6 @@
 ---
 url: https://umchunga.bandcamp.com/track/fuckin-mental
+archive: "https://web.archive.org/web/20150920051037/http://umchunga.bandcamp.com:80/track/fuckin-mental"
 title: Fuckin' Mental | Umchunga
 kind: web page
 language: en

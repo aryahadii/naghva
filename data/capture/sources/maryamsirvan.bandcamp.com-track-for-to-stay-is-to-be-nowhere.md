@@ -1,5 +1,6 @@
 ---
 url: https://maryamsirvan.bandcamp.com/track/for-to-stay-is-to-be-nowhere
+archive: "https://web.archive.org/web/20250608234005/https://maryamsirvan.bandcamp.com/track/for-to-stay-is-to-be-nowhere"
 title: For To Stay Is To Be Nowhere | Maryam Sirvan
 kind: web page
 language: en

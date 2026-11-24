@@ -1,5 +1,6 @@
 ---
 url: https://9tantiope.bandcamp.com/track/horror-vacui
+archive: "https://web.archive.org/web/20260217151421/https://9tantiope.bandcamp.com/track/horror-vacui"
 title: Horror Vacui | 9T Antiope
 kind: web page
 language: en

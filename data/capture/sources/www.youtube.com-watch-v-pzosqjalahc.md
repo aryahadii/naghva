@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=pZosqjaLaHc
+archive: "https://web.archive.org/web/20100605023238/http://www.youtube.com/watch?v=pZosqjaLaHc"
 title: shanbehzadeh & jazz part 1
 tier: own
 kind: web page

@@ -1,5 +1,6 @@
 ---
 url: https://theresonantheart.bandcamp.com/album/the-heart-whispers-and-whirls-excerpts
+archive: "https://web.archive.org/web/20250715140754/https://theresonantheart.bandcamp.com/album/the-heart-whispers-and-whirls-excerpts"
 title: The Heart Whispers and Whirls (excerpts) | THE RESONANT HEART
 status: processed
 language: en

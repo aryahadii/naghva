@@ -1,5 +1,6 @@
 ---
 url: https://azadimusic.bandcamp.com/track/abjeez-biyaa-come-on
+archive: "https://web.archive.org/web/20260510232016/https://azadimusic.bandcamp.com/track/abjeez-biyaa-come-on"
 title: 'Azadi: Songs of Freedom for Iran | Abjeez - Biyaa/Come On'
 tier: own
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=6YpV7Yxj5Yo
+archive: "https://web.archive.org/web/20170725124444/https://www.youtube.com/watch?v=6YpV7Yxj5Yo&gl=US&hl=en"
 title: Regret - YouTube
 kind: youtube video
 tier: own

@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=j1U0aDI_klI
+archive: "https://web.archive.org/web/20230315170757/https://www.youtube.com/watch?v=j1U0aDI_klI"
 title: Shahin Najafi - Nooshoo Ray (Album Jens Sevom) نوشو ری - آلبوم جنس سوم شاهین نجفی - YouTube
 kind: web page
 tier: own

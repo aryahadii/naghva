@@ -1,5 +1,6 @@
 ---
 url: https://babakrajabi.bandcamp.com/track/az-vaghti-umadi
+archive: "https://web.archive.org/web/20261124064127/https://babakrajabi.bandcamp.com/track/az-vaghti-umadi"
 title: Az Vaghti Umadi | Babak Rajabi Official
 status: processed
 language: en

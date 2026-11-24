@@ -1,5 +1,6 @@
 ---
 url: https://vazesh.bandcamp.com/track/hypolimnion
+archive: "https://web.archive.org/web/20230813234810/https://vazesh.bandcamp.com/track/hypolimnion"
 title: Hypolimnion | Vazesh
 kind: web page
 tier: own

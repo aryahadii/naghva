@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/5i6hRTnYkByiNaO0Snk2Ep
+archive: "https://web.archive.org/web/20250723133712/https://open.spotify.com/album/5i6hRTnYkByiNaO0Snk2Ep"
 title: NIMA
 tier: discography
 language: en

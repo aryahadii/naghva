@@ -1,5 +1,6 @@
 ---
 url: https://www.radiofarda.com/a/284848.html
+archive: "https://web.archive.org/web/20250601084207/https://www.radiofarda.com/a/284848.html"
 title: مصاحبه با دریا دادور، خواننده مقیم پاریس
 tier: journalism
 language: fa

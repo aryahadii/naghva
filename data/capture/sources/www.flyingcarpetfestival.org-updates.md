@@ -1,5 +1,6 @@
 ---
 url: https://www.flyingcarpetfestival.org/updates
+archive: "https://web.archive.org/web/20241106180128/https://www.flyingcarpetfestival.org/updates"
 title: Flying Carpet Children Festival - Updates
 tier: own
 language: en

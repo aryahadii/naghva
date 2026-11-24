@@ -1,5 +1,6 @@
 ---
 url: https://aidashahghasemi.bandcamp.com/track/--2
+archive: "https://web.archive.org/web/20210916172915/https://aidashahghasemi.bandcamp.com/track/--2"
 title: سراب
 tier: discography
 language: en

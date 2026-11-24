@@ -1,5 +1,6 @@
 ---
 url: https://etniskmusikklubb.no/wp-content/uploads/2023/01/20.pdf
+archive: "https://web.archive.org/web/20250124110215/https://etniskmusikklubb.no/wp-content/uploads/2023/01/20.pdf"
 title: Etnisk Musikklubb — Karvan
 kind: web page
 language: en

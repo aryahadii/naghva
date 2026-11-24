@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/track/06ZWDzE4kQNkfvrnNVuzAk
+archive: "https://web.archive.org/web/20240716101044/https://open.spotify.com/track/06ZWDzE4kQNkfvrnNVuzAk"
 title: If All Wasn't Steel (Third Episode) - song and lyrics by Pouya Pour-Amin | Spotify
 kind: web page
 language: en

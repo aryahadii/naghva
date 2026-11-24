@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=0S_2Q09cN68
+archive: "https://web.archive.org/web/20260318055241/https://www.youtube.com/watch?si=L90WBJQ9M7RQqerM&v=0S_2Q09cN68&feature=youtu.be"
 title: Az Khouné Jàvânâné Vàtàn - از خون جوانان وطن (Arash Fouladvand feat Niaz Nawab) at Saint Mary
 kind: youtube video
 tier: own

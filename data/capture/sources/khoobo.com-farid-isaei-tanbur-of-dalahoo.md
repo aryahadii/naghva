@@ -1,5 +1,6 @@
 ---
 url: https://khoobo.com/farid-isaei-tanbur-of-dalahoo/
+archive: "https://web.archive.org/web/20260519190707/https://khoobo.com/farid-isaei-tanbur-of-dalahoo/"
 title: دانلود آلبوم تنبور دالاهو از فرید عیسائی - خوبو
 status: processed
 language: en

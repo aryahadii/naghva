@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=bNMMl7JE6Us
+archive: "https://web.archive.org/web/20130516111528/http://www.youtube.com/watch?v=bNMMl7JE6Us"
 title: Erwin Khachikian and Kasra Saboktakin on Kook - YouTube
 kind: web page
 tier: own

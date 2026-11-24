@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=iGW_JfdSIcY
+archive: "https://web.archive.org/web/20260101224142/https://www.youtube.com/watch?v=iGW_JfdSIcY"
 title: Yék Parié Nâz -  یک پری ناز (Arash Fouladvand feat Niaz Nawab) at Saint Mary Magdalene, Paddington
 kind: youtube video
 tier: own

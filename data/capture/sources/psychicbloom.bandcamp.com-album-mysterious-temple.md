@@ -1,5 +1,6 @@
 ---
 url: https://psychicbloom.bandcamp.com/album/mysterious-temple
+archive: "https://web.archive.org/web/20210316151455/https://psychicbloom.bandcamp.com/album/mysterious-temple"
 title: Mysterious Temple | Psychic Bloom
 tier: discography
 language: en

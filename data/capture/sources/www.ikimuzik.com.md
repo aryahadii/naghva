@@ -1,5 +1,6 @@
 ---
 url: https://www.ikimuzik.com/
+archive: "https://web.archive.org/web/20260713064709/https://www.ikimuzik.com/"
 title: iKi Muzik | Istanbul | Record Label
 tier: own
 language: en

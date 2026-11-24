@@ -1,5 +1,6 @@
 ---
 url: https://www.earshift.com/news/vazesh-tapestry
+archive: "https://web.archive.org/web/20250804144954/https://www.earshift.com/news/vazesh-tapestry"
 title: Vazesh - Tapestry — Earshift Music
 kind: web page
 tier: own

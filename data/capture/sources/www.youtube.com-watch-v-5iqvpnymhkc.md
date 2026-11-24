@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=5iQvPnYmHKc
+archive: "https://web.archive.org/web/20260604062534/https://www.youtube.com/watch?v=5iQvPnYmHKc"
 title: Palpalasi
 tier: own
 kind: web page

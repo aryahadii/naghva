@@ -1,5 +1,6 @@
 ---
 url: https://www.eendo.com/the-band
+archive: "https://web.archive.org/web/20260606232851/https://www.eendo.com/the-band"
 title: THE BAND | eendo
 kind: web page
 tier: own

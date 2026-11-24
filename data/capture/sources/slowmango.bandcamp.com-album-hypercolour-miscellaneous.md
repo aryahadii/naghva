@@ -1,5 +1,6 @@
 ---
 url: https://slowmango.bandcamp.com/album/hypercolour-miscellaneous
+archive: "https://web.archive.org/web/20260212104034/https://slowmango.bandcamp.com/album/hypercolour-miscellaneous"
 title: Hypercolour Miscellaneous | Slowmango
 kind: web page
 language: en

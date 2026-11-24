@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/5F8Zyxvc4FU0fjaPM32JCl
+archive: "https://web.archive.org/web/20251103180931/https://open.spotify.com/album/5F8Zyxvc4FU0fjaPM32JCl"
 title: Spined in Parallel Lines
 tier: discography
 language: en

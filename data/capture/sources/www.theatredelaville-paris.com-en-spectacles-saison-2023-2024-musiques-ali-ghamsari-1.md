@@ -1,5 +1,6 @@
 ---
 url: https://www.theatredelaville-paris.com/en/spectacles/saison-2023-2024/musiques/ali-ghamsari-1
+archive: "https://web.archive.org/web/20260305134136/https://www.theatredelaville-paris.com/en/spectacles/saison-2023-2024/musiques/ali-ghamsari-1"
 title: ALI GHAMSARI - Théâtre de la ville de Paris
 tier: own
 language: en

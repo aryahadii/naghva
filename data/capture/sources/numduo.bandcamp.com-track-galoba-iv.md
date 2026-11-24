@@ -1,5 +1,6 @@
 ---
 url: https://numduo.bandcamp.com/track/galoba-iv
+archive: "https://web.archive.org/web/20210613182609/https://numduo.bandcamp.com/track/galoba-iv"
 title: Galoba IV | Milad Bagheri | NUM
 kind: web page
 language: en

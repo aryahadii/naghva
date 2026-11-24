@@ -1,5 +1,6 @@
 ---
 url: https://www.berliner-ensemble.de/download/document/6740
+archive: "https://web.archive.org/web/20260411075242/https://www.berliner-ensemble.de/download/document/6740"
 title: PHAIDRAS LIEBE
 status: processed
 language: en

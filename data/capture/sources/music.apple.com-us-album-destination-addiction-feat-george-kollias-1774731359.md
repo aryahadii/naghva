@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/destination-addiction-feat-george-kollias/1774731359
+archive: "https://web.archive.org/web/20250330091204/https://music.apple.com/us/album/destination-addiction-feat-george-kollias/1774731359"
 title: Destination Addiction (feat. George Kollias)
 tier: discography
 language: en

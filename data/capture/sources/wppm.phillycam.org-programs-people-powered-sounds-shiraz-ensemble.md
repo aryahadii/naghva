@@ -1,5 +1,6 @@
 ---
 url: https://wppm.phillycam.org/programs/people-powered-sounds/shiraz-ensemble
+archive: "https://web.archive.org/web/20260721020106/https://wppm.phillycam.org/programs/people-powered-sounds/shiraz-ensemble"
 title: 'People Powered Sounds: Fire Museum Presents - Shiraz Ensemble | WPPM-LP Philadelphia 106.5FM'
 status: processed
 language: en

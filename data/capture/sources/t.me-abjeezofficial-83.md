@@ -1,5 +1,6 @@
 ---
 url: https://t.me/abjeezofficial/83
+archive: "https://web.archive.org/web/20251227201420/https://t.me/abjeezofficial/83"
 title: ABJEEZ official | Freedom Call
 tier: own
 language: en

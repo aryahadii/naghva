@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=LvqMT61aNzo
+archive: "https://web.archive.org/web/20210702032635/https://www.youtube.com/watch?v=LvqMT61aNzo"
 title: ایران تو بمان (ایران ایران) کر بهار و آرش فولادوند (Official)
 kind: youtube video
 tier: own

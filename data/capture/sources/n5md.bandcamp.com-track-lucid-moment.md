@@ -1,5 +1,6 @@
 ---
 url: https://n5md.bandcamp.com/track/lucid-moment
+archive: "https://web.archive.org/web/20260215141120/https://n5md.bandcamp.com/track/lucid-moment"
 title: Lucid Moment | Idlefon | n5MD
 kind: web page
 language: en

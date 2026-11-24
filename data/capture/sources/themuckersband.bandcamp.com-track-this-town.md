@@ -1,5 +1,6 @@
 ---
 url: https://themuckersband.bandcamp.com/track/this-town
+archive: "https://web.archive.org/web/20230623084717/https://themuckersband.bandcamp.com/track/this-town"
 title: This Town | The Muckers
 kind: web page
 tier: own

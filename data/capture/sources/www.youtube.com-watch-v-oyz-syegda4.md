@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=oyz-sYegDA4
+archive: "https://web.archive.org/web/20260623145247/https://www.youtube.com/watch?v=oyz-sYegDA4"
 title: دریا Darya - (نیاز نواب و آرش فولادوند)
 kind: youtube video
 tier: own

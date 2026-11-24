@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/artist/2VtRKKaZTvV5k3uLcawMsE
+archive: "https://web.archive.org/web/20190820042431/https://open.spotify.com/artist/2VtRKKaZTvV5k3uLcawMsE"
 title: Cymin Samawatie
 tier: discography
 language: en

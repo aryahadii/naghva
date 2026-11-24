@@ -1,5 +1,6 @@
 ---
 url: https://www.zeitgenoessische-oper.de/produktionen/female-voice-kurdistan
+archive: "https://web.archive.org/web/20260606203848/https://www.zeitgenoessische-oper.de/produktionen/female-voice-kurdistan"
 title: Female Voice of Kurdistan - Zeitgenössische Oper Berlin
 status: processed
 language: en

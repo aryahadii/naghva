@@ -1,5 +1,6 @@
 ---
 url: https://xeen.bandcamp.com/track/berliner-traum
+archive: "https://web.archive.org/web/20210305013650/https://xeen.bandcamp.com/track/berliner-traum"
 title: Berliner Traum | XEEN
 kind: web page
 language: en

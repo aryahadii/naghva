@@ -1,5 +1,6 @@
 ---
 url: https://navaak.com/album/mohsen-sharifian-tobe
+archive: "https://web.archive.org/web/20250522164214/https://navaak.com/album/mohsen-sharifian-tobe"
 title: تک آهنگ توبه از محسن شریفیان | نواک
 tier: discography
 language: fa

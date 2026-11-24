@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=-WLOZP9QJyw
+archive: "https://web.archive.org/web/20230408100202/https://www.youtube.com/watch?v=-WLOZP9QJyw"
 title: هوشیاری مدهوشی، ،بیات ترک،  صهبا مطلبی Awareness & Ecstasy، Bayate Tork By Sahba Motallebi
 status: processed
 language: en

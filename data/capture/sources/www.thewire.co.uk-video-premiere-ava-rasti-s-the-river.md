@@ -1,5 +1,6 @@
 ---
 url: https://www.thewire.co.uk/video/premiere-ava-rasti-s-the-river
+archive: "https://web.archive.org/web/20261118082627/https://www.thewire.co.uk/video/premiere-ava-rasti-s-the-river"
 title: "The Wire -\n            Premiere: Ava Rasti’s  The River"
 kind: web page
 language: en

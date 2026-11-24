@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=cAAM0kK5ttc
+archive: "https://web.archive.org/web/20240924184416/https://www.youtube.com/watch?v=cAAM0kK5ttc"
 title: Saffron Moon - Flame - YouTube
 kind: web page
 tier: own

@@ -1,5 +1,6 @@
 ---
 url: https://ethanklotz.bandcamp.com/track/panoramic-view
+archive: "https://web.archive.org/web/20261124074921/https://ethanklotz.bandcamp.com/track/panoramic-view"
 title: Panoramic View | Ethan Klotz
 status: processed
 language: en

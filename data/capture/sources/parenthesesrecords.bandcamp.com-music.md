@@ -1,5 +1,6 @@
 ---
 url: https://parenthesesrecords.bandcamp.com/music
+archive: "https://web.archive.org/web/20260218003309/https://parenthesesrecords.bandcamp.com/music"
 title: Music | Parenthèses Records
 kind: web page
 tier: own

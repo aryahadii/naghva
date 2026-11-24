@@ -1,5 +1,6 @@
 ---
 url: https://studio-labour.com/next-time-die-consciously
+archive: "https://web.archive.org/web/20250807024230/https://studio-labour.com/next-time-die-consciously/"
 title: studio LABOUR | Colin Hacklander & Farahnaz Hatam
 status: processed
 language: en

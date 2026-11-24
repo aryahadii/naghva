@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/taraamoon/tamah
+archive: "https://web.archive.org/web/20250410222505/https://soundcloud.com/taraamoon/tamah"
 title: Stream Tamāh | تَماه by TARAAMOON • ْتَرامون | Listen online for free on SoundCloud
 kind: web page
 language: en

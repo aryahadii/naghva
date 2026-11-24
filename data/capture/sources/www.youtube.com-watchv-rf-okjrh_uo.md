@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=rf-okjRh_Uo
+archive: "https://web.archive.org/web/20251205113732/https://www.youtube.com/watch?v=rf-okjRh_Uo"
 title: Ajam - Beshkan / عجم - بشكن
 status: processed
 language: en

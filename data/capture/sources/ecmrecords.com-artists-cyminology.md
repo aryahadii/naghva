@@ -1,5 +1,6 @@
 ---
 url: https://ecmrecords.com/artists/cyminology/
+archive: "https://web.archive.org/web/20260609025942/https://ecmrecords.com/artists/cyminology/"
 title: Cyminology - ECM Records
 tier: own
 language: en

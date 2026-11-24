@@ -1,5 +1,6 @@
 ---
 url: https://openaccess.city.ac.uk/id/eprint/4152/1/The%20Language%20of%20Rock.pdf
+archive: "https://web.archive.org/web/20260617193224/https://openaccess.city.ac.uk/id/eprint/4152/1/The%20Language%20of%20Rock.pdf"
 title: 'The Language of Rock: Iranian Youth, Popular Music, and National Identity'
 tier: academic
 language: en

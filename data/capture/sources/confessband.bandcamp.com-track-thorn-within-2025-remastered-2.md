@@ -1,5 +1,6 @@
 ---
 url: https://confessband.bandcamp.com/track/thorn-within-2025-remastered-2
+archive: "https://web.archive.org/web/20251012162435/https://confessband.bandcamp.com/track/thorn-within-2025-remastered-2"
 title: Thorn Within (2025 Remastered) | Confess
 tier: own
 language: en

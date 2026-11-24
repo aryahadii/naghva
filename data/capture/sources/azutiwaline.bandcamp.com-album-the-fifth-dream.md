@@ -1,5 +1,6 @@
 ---
 url: https://azutiwaline.bandcamp.com/album/the-fifth-dream
+archive: "https://web.archive.org/web/20260304000918/https://azutiwaline.bandcamp.com/album/the-fifth-dream"
 title: The Fifth Dream | Azu Tiwaline
 kind: web page
 language: en

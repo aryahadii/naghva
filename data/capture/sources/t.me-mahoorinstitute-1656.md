@@ -1,5 +1,6 @@
 ---
 url: https://t.me/mahoorinstitute/1656
+archive: "https://web.archive.org/web/20220529095015/https://t.me/mahoorinstitute/1656"
 title: موسیقی نوار ساحلی شیبکوه
 tier: own
 language: fa

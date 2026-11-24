@@ -1,5 +1,6 @@
 ---
 url: https://flamingpines.bandcamp.com/track/if-only-memories-fourth-episode
+archive: "https://web.archive.org/web/20230622191131/https://flamingpines.bandcamp.com/track/if-only-memories-fourth-episode"
 title: If only memories... (fourth episode) | Pouya Pour-Amin | Flaming Pines
 kind: web page
 language: en

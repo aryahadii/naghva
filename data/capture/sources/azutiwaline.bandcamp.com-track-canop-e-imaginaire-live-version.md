@@ -1,5 +1,6 @@
 ---
 url: https://azutiwaline.bandcamp.com/track/canop-e-imaginaire-live-version
+archive: "https://web.archive.org/web/20250913021725/https://azutiwaline.bandcamp.com/track/canop-e-imaginaire-live-version"
 title: Canopée Imaginaire (Live Version) | Azu Tiwaline & Cinna Peyghamy | Azu Tiwaline
 kind: web page
 language: en

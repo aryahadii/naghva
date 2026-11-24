@@ -1,5 +1,6 @@
 ---
 url: https://t.me/soheilhosnavi/688
+archive: "https://web.archive.org/web/20220521092831/https://t.me/soheilhosnavi/688"
 title: کوتاه در مخالف و فرود ضربی به سه‌گاه
 status: processed
 tier: own

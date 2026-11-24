@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/roham-sobhani/keyfar-e-bidad
+archive: "https://web.archive.org/web/20260213041524/https://soundcloud.com/roham-sobhani/keyfar-e-bidad"
 title: Stream Keyfar-e- Bidad کیفر بیداد by Roham-Sobhani | Listen online for free on SoundCloud
 status: processed
 language: fa

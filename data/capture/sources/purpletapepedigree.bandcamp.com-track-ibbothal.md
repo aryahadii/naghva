@@ -1,5 +1,6 @@
 ---
 url: https://purpletapepedigree.bandcamp.com/track/ibbothal
+archive: "https://web.archive.org/web/20260906155150/https://purpletapepedigree.bandcamp.com/track/ibbothal"
 title: Ibbothal | Nima Aghiani | PTP
 kind: web page
 language: en

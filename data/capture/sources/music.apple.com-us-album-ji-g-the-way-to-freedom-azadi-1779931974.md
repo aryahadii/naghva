@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/ji-g-the-way-to-freedom-azadi/1779931974
+archive: "https://web.archive.org/web/20260322215637/https://music.apple.com/us/album/ji-g-the-way-to-freedom-azadi/1779931974"
 title: Ji & G - The Way To Freedom (Azadi)
 tier: discography
 language: en

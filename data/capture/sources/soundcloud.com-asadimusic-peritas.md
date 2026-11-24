@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/asadimusic/peritas
+archive: "https://web.archive.org/web/20260108041407/https://soundcloud.com/asadimusic/peritas"
 title: Peritas
 tier: own
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://koerber-stiftung.de/projekte/ohr-zur-welt/sound-of-freedom/
+archive: "https://web.archive.org/web/20260513130904/https://koerber-stiftung.de/projekte/ohr-zur-welt/sound-of-freedom/"
 title: Sound of Freedom • Körber-Stiftung
 kind: web page
 language: en

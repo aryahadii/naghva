@@ -1,5 +1,6 @@
 ---
 url: https://khoobo.com/ajam-roots-and-veins/
+archive: "https://web.archive.org/web/20251009203510/https://khoobo.com/ajam-roots-and-veins/"
 title: دانلود آلبوم رگ و ریشه از عجم بند - خوبو
 status: processed
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=hM6AVM8BHFw
+archive: "https://web.archive.org/web/20240611221600/https://www.youtube.com/watch?v=hM6AVM8BHFw"
 title: Ajam - Che konam? [Live, Cafe Kharabat] / عجم - چه کنم؟ کافه خرابات
 status: processed
 language: en

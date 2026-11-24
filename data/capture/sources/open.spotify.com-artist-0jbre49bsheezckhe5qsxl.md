@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/artist/0jBRE49bshEEZCKHE5qsXl
+archive: "https://web.archive.org/web/20240428232932/https://open.spotify.com/artist/0jBRE49bshEEZCKHE5qsXl"
 title: Listen to Mahmood Schricker Songs | Spotify
 kind: web page
 language: en

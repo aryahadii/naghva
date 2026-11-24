@@ -1,5 +1,6 @@
 ---
 url: https://cinnapey.bandcamp.com/album/injonctions
+archive: "https://web.archive.org/web/20261005230759/https://cinnapey.bandcamp.com/album/injonctions"
 title: Injonctions | Cinna Peyghamy
 kind: web page
 language: en

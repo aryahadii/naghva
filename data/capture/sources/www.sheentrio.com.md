@@ -1,5 +1,6 @@
 ---
 url: https://www.sheentrio.com/
+archive: "https://web.archive.org/web/20261009021143/https://www.sheentrio.com/"
 title: Sheen Trio
 status: processed
 language: en

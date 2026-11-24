@@ -1,5 +1,6 @@
 ---
 url: https://www.grammy.com/news/2023-grammys-best-song-for-social-change-baraye-shervin-hajipour/
+archive: "https://web.archive.org/web/20260802082429/https://www.grammy.com/news/2023-grammys-best-song-for-social-change-baraye-shervin-hajipour/"
 title: “BARAYE” BY SHERVIN HAJIPOUR HONORED WITH FIRST-EVER BEST SONG FOR SOCIAL CHANGE SPECIAL MERIT AWARD | Grammy
 tier: own
 language: en

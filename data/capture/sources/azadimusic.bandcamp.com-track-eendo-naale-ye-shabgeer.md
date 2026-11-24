@@ -1,5 +1,6 @@
 ---
 url: https://azadimusic.bandcamp.com/track/eendo-naale-ye-shabgeer
+archive: "https://web.archive.org/web/20260510231831/https://azadimusic.bandcamp.com/track/eendo-naale-ye-shabgeer"
 title: Eendo - Naale ye Shabgeer | United for Iran
 kind: web page
 tier: own

@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/1NoOvgnnafeirYHdsmgLNJ
+archive: "https://web.archive.org/web/20220710032323/https://open.spotify.com/album/1NoOvgnnafeirYHdsmgLNJ"
 title: /kry
 tier: discography
 language: en

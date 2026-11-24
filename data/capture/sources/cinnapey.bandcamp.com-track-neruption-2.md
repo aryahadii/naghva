@@ -1,5 +1,6 @@
 ---
 url: https://cinnapey.bandcamp.com/track/neruption-2
+archive: "https://web.archive.org/web/20261005051514/https://cinnapey.bandcamp.com/track/neruption-2"
 title: Neruption | Cinna Peyghamy
 kind: web page
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://1beat.org/people/xeen/
+archive: "https://web.archive.org/web/20241110063459/https://1beat.org/people/xeen/"
 title: XEEN – OneBeat
 kind: web page
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://casualtyprocess.bandcamp.com/track/03-the-peace-process
+archive: "https://web.archive.org/web/20261124065834/https://casualtyprocess.bandcamp.com/track/03-the-peace-process"
 title: 03 - The Peace Process | Casualty Process
 kind: web page
 tier: own

@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/it-takes-time-ep/1035662555
+archive: "https://web.archive.org/web/20240815040531/https://music.apple.com/us/album/it-takes-time-ep/1035662555"
 title: ‎It Takes Time - EP - Album by The Casualty Process - Apple Music
 kind: web page
 tier: discography

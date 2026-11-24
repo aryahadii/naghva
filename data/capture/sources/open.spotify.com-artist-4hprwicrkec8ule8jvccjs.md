@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/artist/4hprwICrkEC8ule8JvCcJS
+archive: "https://web.archive.org/web/20250711193459/https://open.spotify.com/artist/4hprwICrkEC8ule8JvCcJS"
 title: Listen to Niaz Nawab Songs | Spotify
 kind: web page
 tier: own

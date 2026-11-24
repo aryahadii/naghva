@@ -1,5 +1,6 @@
 ---
 url: https://t.me/abjeezofficial/100
+archive: "https://web.archive.org/web/20260108044026/https://t.me/abjeezofficial/100"
 title: ABJEEZ official | To Va Man
 tier: own
 language: en

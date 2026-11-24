@@ -1,5 +1,6 @@
 ---
 url: https://numduo.bandcamp.com/album/galoba
+archive: "https://web.archive.org/web/20250216054932/https://numduo.bandcamp.com/album/galoba"
 title: Galoba / გალობა | Milad Bagheri | NUM
 kind: web page
 language: en

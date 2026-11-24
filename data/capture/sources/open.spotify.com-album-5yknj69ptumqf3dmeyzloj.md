@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/5Yknj69ptUMQF3dmeyzLOJ
+archive: "https://web.archive.org/web/20221102184625/https://open.spotify.com/album/5Yknj69ptUMQF3dmeyzLOJ"
 title: Dobareh
 tier: discography
 language: en

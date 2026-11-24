@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=QWSlJp60N9A
+archive: "https://web.archive.org/web/20250707104448/https://www.youtube.com/watch?v=QWSlJp60N9A"
 title: ای ایران - Ey Iran - آرش فولادوند، گروه کر بهار، وحید تاج، کیوان ساکت (Official)
 kind: youtube video
 tier: own

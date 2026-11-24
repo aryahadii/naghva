@@ -1,5 +1,6 @@
 ---
 url: https://kopirecs.bandcamp.com/track/nazar
+archive: "https://web.archive.org/web/20241211184425/https://kopirecs.bandcamp.com/track/nazar"
 title: Nazar | ArtSaves | Kopi Records
 kind: web page
 language: en

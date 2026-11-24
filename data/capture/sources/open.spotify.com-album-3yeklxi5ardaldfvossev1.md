@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/3yeklXi5ArdAldfvossev1
+archive: "https://web.archive.org/web/20240226102853/https://open.spotify.com/album/3yeklXi5ArdAldfvossev1"
 title: Sowal Diabi (From Kaboul to Bamako)
 tier: discography
 language: en

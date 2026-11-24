@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/0z7R9czBVgxunyjw8S7orv
+archive: "https://web.archive.org/web/20251027215714/https://open.spotify.com/album/0z7R9czBVgxunyjw8S7orv"
 title: Liminal
 tier: discography
 language: en

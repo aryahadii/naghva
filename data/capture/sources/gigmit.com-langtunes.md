@@ -1,5 +1,6 @@
 ---
 url: https://www.gigmit.com/langtunes?layout=corporate
+archive: "https://web.archive.org/web/20261124081133/https://www.gigmit.com/langtunes?layout=corporate"
 title: Langtunes | gigmit
 kind: web page
 tier: own

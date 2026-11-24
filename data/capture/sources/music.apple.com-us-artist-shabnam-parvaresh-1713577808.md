@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/artist/shabnam-parvaresh/1713577808
+archive: "https://web.archive.org/web/20260316222904/https://music.apple.com/us/artist/shabnam-parvaresh/1713577808"
 title: ‎Shabnam Parvaresh - Apple Music
 status: processed
 language: en

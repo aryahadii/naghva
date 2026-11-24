@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/playlist?list=PLJ50PeczyzLPzW_-iflK2wb9TOmqddWEX
+archive: "https://web.archive.org/web/20251009235712/https://www.youtube.com/playlist?list=PLJ50PeczyzLPzW_-iflK2wb9TOmqddWEX"
 title: Voice of solidarity 2022
 kind: web page
 tier: own

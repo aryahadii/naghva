@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/user-643553014/labour-w-khar-mbaye-madiaga
+archive: "https://web.archive.org/web/20250401130405/https://soundcloud.com/user-643553014/labour-w-khar-mbaye-madiaga"
 title: Stream Labour w/ Khar Mbaye Madiaga 310824 by NTS 2024-2025 | Listen online for free on SoundCloud
 status: processed
 language: en

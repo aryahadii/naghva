@@ -1,5 +1,6 @@
 ---
 url: https://badieh.bandcamp.com/track/sahargah
+archive: "https://web.archive.org/web/20240905061435/https://badieh.bandcamp.com/track/sahargah"
 title: Sahargah | Badieh
 kind: web page
 tier: own

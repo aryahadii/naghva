@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/de/artist/maryam-akhondy/160024592
+archive: "https://web.archive.org/web/20260518224408/https://music.apple.com/de/artist/maryam-akhondy/160024592"
 title: ‎Maryam Akhondy – Apple Music
 tier: own
 language: de

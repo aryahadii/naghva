@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/embed/album/6WNfe3wEbKS6JvBvss8lyf
+archive: "https://web.archive.org/web/20260120114342/https://open.spotify.com/embed/album/6WNfe3wEbKS6JvBvss8lyf"
 title: Assassin's Creed Mirage (Original Game Soundtrack) - Brendan Angelides | Spotify
 status: processed
 language: en

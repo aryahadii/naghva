@@ -1,5 +1,6 @@
 ---
 url: https://avarasti.bandcamp.com/track/wound
+archive: "https://web.archive.org/web/20261017190245/https://avarasti.bandcamp.com/track/wound"
 title: Wound | Ava Rasti
 kind: web page
 language: en

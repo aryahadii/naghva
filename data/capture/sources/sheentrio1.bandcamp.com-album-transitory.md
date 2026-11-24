@@ -1,5 +1,6 @@
 ---
 url: https://sheentrio1.bandcamp.com/album/transitory
+archive: "https://web.archive.org/web/20261101155859/https://sheentrio1.bandcamp.com/album/transitory"
 title: Transitory | Sheen Trio
 status: processed
 language: en

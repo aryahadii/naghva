@@ -1,5 +1,6 @@
 ---
 url: https://t.me/abjeezofficial/85
+archive: "https://web.archive.org/web/20260109061945/https://t.me/abjeezofficial/85"
 title: ABJEEZ official | Eyde
 tier: own
 language: en

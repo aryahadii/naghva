@@ -1,5 +1,6 @@
 ---
 url: https://flamingpines.bandcamp.com/album/prison-episodes
+archive: "https://web.archive.org/web/20250923002959/https://flamingpines.bandcamp.com/album/prison-episodes"
 title: Prison Episodes | Pouya Pour-Amin | Flaming Pines
 kind: web page
 language: en

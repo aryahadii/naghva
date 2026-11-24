@@ -1,5 +1,6 @@
 ---
 url: https://www.kellythoma.com/discography.php
+archive: "https://web.archive.org/web/20260306171302/https://www.kellythoma.com/discography.php"
 title: 'Kelly Thoma :: Discography'
 kind: web page
 tier: own

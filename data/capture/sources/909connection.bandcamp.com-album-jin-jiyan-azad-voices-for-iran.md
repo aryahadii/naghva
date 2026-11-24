@@ -1,5 +1,6 @@
 ---
 url: https://909connection.bandcamp.com/album/jin-jiyan-azad-voices-for-iran
+archive: "https://web.archive.org/web/20230610134853/https://909connection.bandcamp.com/album/jin-jiyan-azad-voices-for-iran"
 title: 'JIN JIYAN AZADÎ: Voices for Iran | 909 Connection'
 tier: own
 kind: web page

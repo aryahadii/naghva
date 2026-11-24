@@ -1,5 +1,6 @@
 ---
 url: https://maryamsirvan.bandcamp.com/album/songs-of-an-empty-room
+archive: "https://web.archive.org/web/20250606082759/https://maryamsirvan.bandcamp.com/album/songs-of-an-empty-room"
 title: Songs of an Empty Room | Maryam Sirvan
 kind: web page
 language: en

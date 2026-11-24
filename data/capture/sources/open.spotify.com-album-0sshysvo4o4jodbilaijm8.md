@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/0sshysvo4O4JodBiLAIJm8
+archive: "https://web.archive.org/web/20250811052614/https://open.spotify.com/album/0sshysvo4O4JodBiLAIJm8"
 title: Faded Calendar
 tier: discography
 language: en

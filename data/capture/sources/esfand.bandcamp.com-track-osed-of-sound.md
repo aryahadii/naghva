@@ -1,5 +1,6 @@
 ---
 url: https://esfand.bandcamp.com/track/osed-of-sound
+archive: "https://web.archive.org/web/20251223182550/https://esfand.bandcamp.com/track/osed-of-sound"
 title: O'sedā (Of Sound) | Esfand
 kind: web page
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://themuckersband.bandcamp.com/music
+archive: "https://web.archive.org/web/20250910002105/https://themuckersband.bandcamp.com/music"
 title: Music | The Muckers
 kind: web page
 tier: own

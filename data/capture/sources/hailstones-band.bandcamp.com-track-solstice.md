@@ -1,5 +1,6 @@
 ---
 url: https://hailstones-band.bandcamp.com/track/solstice
+archive: "https://web.archive.org/web/20261124082405/https://hailstones-band.bandcamp.com/track/solstice"
 title: Solstice | Hailstones
 kind: web page
 language: en

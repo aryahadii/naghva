@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/blurred-vision-all-i-wanted-single/1023592763
+archive: "https://web.archive.org/web/20261102135906/https://music.apple.com/us/album/blurred-vision-all-i-wanted-single/1023592763"
 title: Blurred Vision - All I Wanted - Single
 tier: discography
 language: en

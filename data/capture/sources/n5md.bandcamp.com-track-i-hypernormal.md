@@ -1,5 +1,6 @@
 ---
 url: https://n5md.bandcamp.com/track/i-hypernormal
+archive: "https://web.archive.org/web/20260215141121/https://n5md.bandcamp.com/track/i-hypernormal"
 title: I, Hypernormal | Idlefon | n5MD
 kind: web page
 language: en

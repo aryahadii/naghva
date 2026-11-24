@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=FVpEtU0u31U
+archive: "https://web.archive.org/web/20260917115321/https://www.youtube.com/watch?v=FVpEtU0u31U&list=RDFVpEtU0u31U&start_radio=1"
 title: Ey Sharghi Ghàmgin - ای شرقی غمگین (Arash Fouladvand feat Bahar Choir) at Saint Mary Magdalene
 kind: youtube video
 tier: own

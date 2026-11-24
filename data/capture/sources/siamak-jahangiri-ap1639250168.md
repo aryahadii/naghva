@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/manifest-love/1639250168
+archive: "https://web.archive.org/web/20250906234442/https://music.apple.com/us/album/manifest-love/1639250168"
 title: ‎Manifest Love - Album by Siamak Jahangiri - Apple Music
 tier: discography
 kind: web page

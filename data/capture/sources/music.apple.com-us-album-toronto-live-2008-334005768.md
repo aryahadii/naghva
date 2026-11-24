@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/toronto-live-2008/334005768
+archive: "https://web.archive.org/web/20261002103817/https://music.apple.com/us/album/toronto-live-2008/334005768"
 title: Toronto Live 2008
 tier: discography
 language: en

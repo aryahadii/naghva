@@ -1,5 +1,6 @@
 ---
 url: https://zojduet.bandcamp.com/music
+archive: "https://web.archive.org/web/20261017014743/https://zojduet.bandcamp.com/music"
 title: Music | ZÖJ
 kind: web page
 tier: own

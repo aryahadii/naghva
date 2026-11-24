@@ -1,5 +1,6 @@
 ---
 url: https://www.padik.se/about.html
+archive: "https://web.archive.org/web/20251215054714/https://padik.se/about.html"
 title: Padik - Music From Balouchistan - About
 tier: own
 language: en

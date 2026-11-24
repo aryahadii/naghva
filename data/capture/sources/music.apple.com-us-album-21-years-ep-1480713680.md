@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/21-years-ep/1480713680
+archive: "https://web.archive.org/web/20240901120653/https://music.apple.com/us/album/21-years-ep/1480713680"
 title: 21 Years - EP
 tier: discography
 language: en

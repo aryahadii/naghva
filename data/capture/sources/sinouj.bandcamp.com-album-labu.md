@@ -1,5 +1,6 @@
 ---
 url: https://sinouj.bandcamp.com/album/labu
+archive: "https://web.archive.org/web/20240529072329/https://sinouj.bandcamp.com/album/labu"
 title: Labu
 tier: own
 language: en

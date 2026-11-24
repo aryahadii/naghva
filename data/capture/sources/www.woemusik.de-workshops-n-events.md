@@ -1,5 +1,6 @@
 ---
 url: https://www.woemusik.de/workshops-n-events
+archive: "https://web.archive.org/web/20260607023321/https://www.woemusik.de/workshops-n-events"
 title: Workshops / Events | Institut für Musik
 status: processed
 language: en

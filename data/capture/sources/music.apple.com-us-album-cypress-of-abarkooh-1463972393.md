@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/cypress-of-abarkooh/1463972393
+archive: "https://web.archive.org/web/20230314205522/https://music.apple.com/us/album/cypress-of-abarkooh/1463972393"
 title: Cypress Of Abarkooh
 tier: discography
 language: en

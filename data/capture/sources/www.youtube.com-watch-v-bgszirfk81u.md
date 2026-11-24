@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=BgsZIRFk81U
+archive: "https://web.archive.org/web/20250406094638/https://www.youtube.com/watch?v=BgsZIRFk81U"
 title: Badieh - Leyla Dar Vakon (official video)
 kind: youtube video
 tier: own

@@ -1,5 +1,6 @@
 ---
 url: https://www.musicaustria.at/die-musik-schuetzt-meine-identitaet-avin-ahmadi-im-mica-interview/
+archive: "https://web.archive.org/web/20260713212731/https://www.musicaustria.at/die-musik-schuetzt-meine-identitaet-avin-ahmadi-im-mica-interview/"
 title: „Die Musik schützt meine Identität.“ – AVIN AHMADI im mica-Interview - mica - music austria
 tier: journalism
 language: de

@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/casualtyprocess/02-the-casualty-process-war-of
+archive: "https://web.archive.org/web/20260723072356/https://soundcloud.com/casualtyprocess/02-the-casualty-process-war-of"
 title: Stream 02 - War of the Others by Casualty Process | Listen online for free on SoundCloud
 kind: web page
 tier: own

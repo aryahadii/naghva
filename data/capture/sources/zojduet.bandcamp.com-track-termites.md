@@ -1,5 +1,6 @@
 ---
 url: https://zojduet.bandcamp.com/track/termites
+archive: "https://web.archive.org/web/20261017014742/https://zojduet.bandcamp.com/track/termites"
 title: Termites | ZÖJ
 kind: web page
 tier: own

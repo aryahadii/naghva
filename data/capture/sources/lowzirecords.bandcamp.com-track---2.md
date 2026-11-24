@@ -1,5 +1,6 @@
 ---
 url: https://lowzirecords.bandcamp.com/track/--2
+archive: "https://web.archive.org/web/20250110010320/https://lowzirecords.bandcamp.com/track/--2"
 title: زَهازْ | Taraamoon | Low-Zi Records
 kind: web page
 language: en

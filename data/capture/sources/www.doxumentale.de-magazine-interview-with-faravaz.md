@@ -1,5 +1,6 @@
 ---
 url: https://www.doxumentale.de/magazine/interview-with-faravaz
+archive: "https://web.archive.org/web/20251212223633/https://www.doxumentale.de/magazine/interview-with-faravaz"
 title: Interview with singer and feminist Faravaz Farvardin
 tier: own
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://themast.bandcamp.com/album/1
+archive: "https://web.archive.org/web/20210814091320/https://themast.bandcamp.com/album/1"
 title: 1 | The Mast
 tier: own
 language: en

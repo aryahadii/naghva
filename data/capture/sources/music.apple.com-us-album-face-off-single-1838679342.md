@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/face-off-single/1838679342
+archive: "https://web.archive.org/web/20251127174954/https://music.apple.com/us/album/face-off-single/1838679342"
 title: Face-Off - Single
 tier: discography
 language: en

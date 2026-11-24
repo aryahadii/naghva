@@ -1,5 +1,6 @@
 ---
 url: https://ehsanmatoori.bandcamp.com/album/the-voices-and-bridges
+archive: "https://web.archive.org/web/20210718074911/https://ehsanmatoori.bandcamp.com/album/the-voices-and-bridges"
 title: The Voices and Bridges
 tier: own
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://mahmoodschricker.bandcamp.com/track/weed-feat-ebrahim-rahnama
+archive: "https://web.archive.org/web/20130304135758/http://mahmoodschricker.bandcamp.com:80/track/weed-feat-ebrahim-rahnama"
 title: Weed (feat. Ebrahim Rahnama) | Mahmood Schricker
 kind: web page
 language: en

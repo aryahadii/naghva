@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=cW0P1Se3cBI
+archive: "https://web.archive.org/web/20230523152702/https://www.youtube.com/watch?v=cW0P1Se3cBI&list=FL6fHTXwo6rv-IfzTVLb6Mpg"
 title: Manolya by Yurdal Tokcan
 status: processed
 language: en

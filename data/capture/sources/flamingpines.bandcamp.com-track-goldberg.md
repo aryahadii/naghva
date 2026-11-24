@@ -1,5 +1,6 @@
 ---
 url: https://flamingpines.bandcamp.com/track/goldberg
+archive: "https://web.archive.org/web/20250620125839/https://flamingpines.bandcamp.com/track/goldberg"
 title: Goldberg | Ava Rasti | Flaming Pines
 kind: web page
 language: en

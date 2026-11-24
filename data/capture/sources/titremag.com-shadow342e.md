@@ -1,5 +1,6 @@
 ---
 url: https://titremag.com/shadow342e/
+archive: "https://web.archive.org/web/20260715014130/https://titremag.com/shadow342e/"
 title: ایران در آینه کانادایی - مجله تیتر - Titre Mag
 kind: web page
 tier: journalism

@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/3a1hqnSIiGzR2Bn1lolYV1
+archive: "https://web.archive.org/web/20190124092311/https://open.spotify.com/album/3a1hqnSIiGzR2Bn1lolYV1"
 title: Jazz & Blues Award Berlin 2004
 tier: discography
 language: en

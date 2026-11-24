@@ -1,5 +1,6 @@
 ---
 url: https://www.npr.org/2011/06/10/99888861/shanbehzadeh-ensemble-iranian-dance-music
+archive: "https://web.archive.org/web/20260513082507/https://www.npr.org/2011/06/10/99888861/shanbehzadeh-ensemble-iranian-dance-music"
 title: 'Shanbehzadeh Ensemble: Iranian Dance Music : NPR'
 tier: own
 language: en

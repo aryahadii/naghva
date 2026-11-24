@@ -1,5 +1,6 @@
 ---
 url: https://eishanensemble.bandcamp.com/track/return-to-shiraz
+archive: "https://web.archive.org/web/20250902080746/https://eishanensemble.bandcamp.com/track/return-to-shiraz"
 title: Return to Shiraz | Eishan Ensemble
 kind: web page
 tier: own

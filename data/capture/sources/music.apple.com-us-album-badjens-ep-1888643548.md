@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/badjens-ep/1888643548
+archive: "https://web.archive.org/web/20260515191642/https://music.apple.com/us/album/badjens-ep/1888643548"
 title: ‎Badjens - EP - Album by Hura Mirshekari & N9nE.L9veS - Apple Music
 tier: discography
 kind: web page

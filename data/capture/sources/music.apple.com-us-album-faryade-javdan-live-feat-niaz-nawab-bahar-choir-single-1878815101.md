@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/faryade-javdan-live-feat-niaz-nawab-bahar-choir-single/1878815101
+archive: "https://web.archive.org/web/20261003073840/https://music.apple.com/us/album/faryade-javdan-live-feat-niaz-nawab-bahar-choir-single/1878815101"
 title: ‎Faryade Javdan (Live) [feat. Niaz Nawab & Bahar Choir] - Single - Album by Arash Fouladvand - Apple Music
 kind: web page
 tier: discography

@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/6qCFabt2OWzR9Qg9zBfmGn
+archive: "https://web.archive.org/web/20190817075340/https://open.spotify.com/album/6qCFabt2OWzR9Qg9zBfmGn"
 title: In Love & Light, Vol. III
 tier: discography
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://badieh.bandcamp.com/track/rubab-intro
+archive: "https://web.archive.org/web/20260604001130/https://badieh.bandcamp.com/track/rubab-intro"
 title: Rubab Intro | Badieh
 kind: web page
 tier: own

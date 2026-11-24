@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/user-62184333/labour-281122
+archive: "https://web.archive.org/web/20230327200610/https://soundcloud.com/user-62184333/labour-281122"
 title: Stream LABOUR 281122 by NTS Monday | Listen online for free on SoundCloud
 status: processed
 language: en

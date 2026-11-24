@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/artist/lowen/1383909439
+archive: "https://web.archive.org/web/20250315232343/https://music.apple.com/us/artist/lowen/1383909439"
 title: Lowen | Apple Music
 tier: own
 language: en

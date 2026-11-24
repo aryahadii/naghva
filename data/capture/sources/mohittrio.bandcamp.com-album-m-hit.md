@@ -1,5 +1,6 @@
 ---
 url: https://mohittrio.bandcamp.com/album/m-hit
+archive: "https://web.archive.org/web/20201204115900/https://mohittrio.bandcamp.com/album/m-hit"
 title: Möhit | Reviriego / Peyghambari / Trilla
 kind: web page
 language: en

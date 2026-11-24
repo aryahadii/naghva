@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/age-ye-rooz-remix-single/1566007957
+archive: "https://web.archive.org/web/20251219121951/https://music.apple.com/us/album/age-ye-rooz-remix-single/1566007957"
 title: Age Ye Rooz (Remix) - Single
 tier: discography
 language: en

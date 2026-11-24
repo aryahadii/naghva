@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/4yhlMTa0elKksALGglmCds
+archive: "https://web.archive.org/web/20250619054758/https://open.spotify.com/album/4yhlMTa0elKksALGglmCds"
 title: SAVAGE
 tier: discography
 language: en

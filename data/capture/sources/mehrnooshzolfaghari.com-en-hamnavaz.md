@@ -1,5 +1,6 @@
 ---
 url: https://mehrnooshzolfaghari.com/EN/hamnavaz/
+archive: "https://web.archive.org/web/20260811142238/https://mehrnooshzolfaghari.com/EN/hamnavaz/"
 title: Hamnavaz – Mehrnoosh Zolfaghari
 status: processed
 language: en

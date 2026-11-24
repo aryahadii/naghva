@@ -1,5 +1,6 @@
 ---
 url: https://9tantiope.bandcamp.com/track/1-blue-as-in-bleeding
+archive: "https://web.archive.org/web/20260226124341/https://9tantiope.bandcamp.com/track/1-blue-as-in-bleeding"
 title: 1.Blue as in Bleeding | 9T Antiope and Siavash Amini | 9T Antiope
 kind: web page
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://vazesh.bandcamp.com/track/demitasse
+archive: "https://web.archive.org/web/20260619184221/https://vazesh.bandcamp.com/track/demitasse"
 title: Demitasse | Vazesh
 kind: web page
 tier: own

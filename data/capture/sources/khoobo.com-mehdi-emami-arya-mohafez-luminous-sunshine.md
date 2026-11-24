@@ -1,5 +1,6 @@
 ---
 url: https://khoobo.com/mehdi-emami-arya-mohafez-luminous-sunshine/
+archive: "https://web.archive.org/web/20260516202916/https://khoobo.com/mehdi-emami-arya-mohafez-luminous-sunshine/"
 title: دانلود آلبوم آفتاب روشن از مهدی امامی و آریا محافظ - خوبو
 status: processed
 language: fa

@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/sarmasti-single/1573126969
+archive: "https://web.archive.org/web/20250913084341/https://music.apple.com/us/album/sarmasti-single/1573126969"
 title: ‎Sarmasti - Single - Album by Mahmood Schricker & Eendo - Apple Music
 kind: web page
 language: en

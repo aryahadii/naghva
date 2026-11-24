@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/34qMEi2AKlTcYHIDLX5KQ4
+archive: "https://web.archive.org/web/20201126124112/https://open.spotify.com/album/34qMEi2AKlTcYHIDLX5KQ4"
 title: Listen to nine-sum sorcery - Single by LABOUR | Spotify
 status: processed
 language: en

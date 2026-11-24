@@ -1,5 +1,6 @@
 ---
 url: https://lucia.bandcamp.com/album/luz
+archive: "https://web.archive.org/web/20230406010532/https://lucia.bandcamp.com/album/luz"
 title: LUZ | Lucia Lilikoi
 tier: own
 language: en

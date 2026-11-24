@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/4WkhTUdN6rM1nlikE201ck
+archive: "https://web.archive.org/web/20210417102949/https://open.spotify.com/album/4WkhTUdN6rM1nlikE201ck"
 title: Listen to Shame - EP by The Finches | Spotify
 kind: web page
 language: en

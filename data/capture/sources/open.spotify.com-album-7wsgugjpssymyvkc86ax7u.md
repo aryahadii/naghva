@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/7wsgugJPSSYMyvKC86aX7u
+archive: "https://web.archive.org/web/20190819175011/https://open.spotify.com/album/7wsgugJPSSYMyvKC86aX7u"
 title: Celestial Doorways
 tier: discography
 language: en

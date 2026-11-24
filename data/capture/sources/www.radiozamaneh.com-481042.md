@@ -1,5 +1,6 @@
 ---
 url: https://www.radiozamaneh.com/481042/
+archive: "https://web.archive.org/web/20220526003400/https://www.radiozamaneh.com/481042/"
 title: 'رُهام سبحانی: رسالت هنرمند بیان سخن توده‌های جامعه است'
 status: processed
 language: fa

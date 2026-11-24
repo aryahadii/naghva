@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/209dDw6f8I1m9Ha5LXV3Du
+archive: "https://web.archive.org/web/20210927125233/https://open.spotify.com/album/209dDw6f8I1m9Ha5LXV3Du"
 title: Kvintessens!
 tier: discography
 language: en

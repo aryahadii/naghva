@@ -1,5 +1,6 @@
 ---
 url: https://www.aidashahghasemi.com/about
+archive: "https://web.archive.org/web/20260415110117/https://www.aidashahghasemi.com/about"
 title: About — Aida Shahghasemi
 tier: own
 language: en

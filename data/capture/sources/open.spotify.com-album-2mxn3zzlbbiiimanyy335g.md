@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/2mXN3zZLBbIIiMAnyY335G
+archive: "https://web.archive.org/web/20260316065900/https://open.spotify.com/album/2mXN3zZLBbIIiMAnyY335G"
 title: Luminous Sunshine
 tier: discography
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://arts-scene.be/en/asd-artistes-discographie-Canticum-Novum-120
+archive: "https://web.archive.org/web/20261124062855/https://arts-scene.be/en/asd-artistes-discographie-Canticum-Novum-120"
 title: ASD - Arts-Scène Diffusion
 status: processed
 language: fr

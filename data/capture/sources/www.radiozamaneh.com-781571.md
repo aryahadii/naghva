@@ -1,5 +1,6 @@
 ---
 url: https://www.radiozamaneh.com/781571/
+archive: "https://web.archive.org/web/20261004080136/https://www.radiozamaneh.com/781571/"
 title: 'ایندو و اثر تازه‌اش: فکرشو کردی تا به حال؟'
 kind: web page
 tier: journalism

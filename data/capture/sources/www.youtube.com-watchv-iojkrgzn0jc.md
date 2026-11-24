@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=IOJkrGZn0Jc
+archive: "https://web.archive.org/web/20240815125752/https://www.youtube.com/watch?v=IOJkrGZn0Jc"
 title: اوجا داغلار باشیندا، ثمین قربانی
 status: processed
 language: en

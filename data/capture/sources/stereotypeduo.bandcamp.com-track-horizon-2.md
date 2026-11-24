@@ -1,5 +1,6 @@
 ---
 url: https://stereotypeduo.bandcamp.com/track/horizon-2
+archive: "https://web.archive.org/web/20250526081809/https://stereotypeduo.bandcamp.com/track/horizon-2"
 title: Horizon | Stereotype
 kind: web page
 language: en

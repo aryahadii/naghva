@@ -1,5 +1,6 @@
 ---
 url: https://discreetarchive.bandcamp.com/track/glass-tower
+archive: "https://web.archive.org/web/20261124073022/https://discreetarchive.bandcamp.com/track/glass-tower"
 title: Glass Tower | Maryam Rahmani & David Esser | Discreet Archive
 kind: web page
 language: en

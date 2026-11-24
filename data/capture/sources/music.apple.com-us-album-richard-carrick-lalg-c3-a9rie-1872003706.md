@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/richard-carrick-lalg%C3%A9rie/1872003706
+archive: "https://web.archive.org/web/20260327015231/https://music.apple.com/us/album/richard-carrick-lalg%C3%A9rie/1872003706"
 title: '‎Richard Carrick: L''Algérie - Album by Either/Or & Richard Carrick - Apple Music'
 status: processed
 language: en

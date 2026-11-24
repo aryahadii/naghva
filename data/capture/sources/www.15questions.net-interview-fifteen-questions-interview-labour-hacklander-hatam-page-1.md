@@ -1,5 +1,6 @@
 ---
 url: https://www.15questions.net/interview/fifteen-questions-interview-labour-hacklander-hatam/page-1/
+archive: "https://web.archive.org/web/20221002225453/https://www.15questions.net/interview/fifteen-questions-interview-labour-hacklander-hatam/page-1/"
 title: 15 questions | Interview | Labour  | Intense Conspiration
 status: processed
 language: en

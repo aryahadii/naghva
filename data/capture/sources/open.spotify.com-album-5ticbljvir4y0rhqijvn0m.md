@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/5TICBLJvIr4Y0RhqIJVn0M
+archive: "https://web.archive.org/web/20190508000028/https://open.spotify.com/album/5TICBLJvIr4Y0RhqIJVn0M"
 title: final answer
 tier: discography
 language: en

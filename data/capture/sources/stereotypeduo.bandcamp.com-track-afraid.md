@@ -1,5 +1,6 @@
 ---
 url: https://stereotypeduo.bandcamp.com/track/afraid
+archive: "https://web.archive.org/web/20240725142258/https://stereotypeduo.bandcamp.com/track/afraid"
 title: Afraid | Stereotype
 kind: web page
 language: en

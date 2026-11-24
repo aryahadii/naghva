@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/vatan-feat-darya-dadvar-original-single/1654234066
+archive: "https://web.archive.org/web/20261002103824/https://music.apple.com/us/album/vatan-feat-darya-dadvar-original-single/1654234066"
 title: Vatan
 tier: discography
 language: en

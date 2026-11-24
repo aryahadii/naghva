@@ -1,5 +1,6 @@
 ---
 url: https://www.numduo.com/video-gallery
+archive: "https://web.archive.org/web/20260810021823/https://www.numduo.com/video-gallery"
 title: Video Gallery | NUM
 kind: web page
 language: en

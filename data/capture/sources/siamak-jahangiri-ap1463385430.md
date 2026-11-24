@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/an-unawaited-wayfarer/1463385430
+archive: "https://web.archive.org/web/20240915034203/https://music.apple.com/us/album/an-unawaited-wayfarer/1463385430"
 title: ‎An Unawaited Wayfarer - Album by Siamak Jahangiri & Farzad Fazli - Apple Music
 tier: discography
 kind: web page

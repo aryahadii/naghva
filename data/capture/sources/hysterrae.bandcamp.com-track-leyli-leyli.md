@@ -1,5 +1,6 @@
 ---
 url: https://hysterrae.bandcamp.com/track/leyli-leyli
+archive: "https://web.archive.org/web/20260221082110/https://hysterrae.bandcamp.com/track/leyli-leyli"
 title: Leyli Leyli | Hysterrae
 kind: web page
 tier: own

@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/30aYFAFLhJWqtSzdWpCD5a
+archive: "https://web.archive.org/web/20240614180459/https://open.spotify.com/album/30aYFAFLhJWqtSzdWpCD5a"
 title: Listen to Piltan - Album by Esfand | Spotify
 kind: web page
 language: en

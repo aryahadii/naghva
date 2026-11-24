@@ -1,5 +1,6 @@
 ---
 url: https://www.sbs.com.au/language/persian/fa/podcast-episode/hamed-sadeghi-performs-new-ensemble-work-inspired-by-sufi-mysticism/9jqwvk5mm
+archive: "https://web.archive.org/web/20240727125635/https://www.sbs.com.au/language/persian/fa/podcast-episode/hamed-sadeghi-performs-new-ensemble-work-inspired-by-sufi-mysticism/9jqwvk5mm"
 title: فارسی SBS | موسیقی ایرانی با الهام از عرفان صوفیانه
 kind: web page
 tier: journalism

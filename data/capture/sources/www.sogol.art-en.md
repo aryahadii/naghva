@@ -1,5 +1,6 @@
 ---
 url: https://www.sogol.art/en/
+archive: "https://web.archive.org/web/20260812055456/https://www.sogol.art/en/"
 title: Sogol Mirzaei — Musicienne, Târ & Sétâr | Musique iranienne
 status: processed
 language: en

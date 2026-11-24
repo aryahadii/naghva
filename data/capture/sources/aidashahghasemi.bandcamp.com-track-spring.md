@@ -1,5 +1,6 @@
 ---
 url: https://aidashahghasemi.bandcamp.com/track/spring
+archive: "https://web.archive.org/web/20261124010315/https://aidashahghasemi.bandcamp.com/track/spring"
 title: Spring
 tier: discography
 language: en

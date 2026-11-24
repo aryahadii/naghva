@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/6U0aKC9HpTAjC6zCvxSqfo
+archive: "https://web.archive.org/web/20221205081551/https://open.spotify.com/album/6U0aKC9HpTAjC6zCvxSqfo"
 title: Behind the Seas
 tier: own
 language: en

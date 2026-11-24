@@ -1,5 +1,6 @@
 ---
 url: https://ehsanmatoori.com/albums/darya-b-single-track/
+archive: "https://web.archive.org/web/20251014225949/https://ehsanmatoori.com/albums/darya-b-single-track/"
 title: Darya-b
 tier: own
 language: en

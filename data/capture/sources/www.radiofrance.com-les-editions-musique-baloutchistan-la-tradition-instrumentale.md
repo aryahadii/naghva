@@ -1,5 +1,6 @@
 ---
 url: https://www.radiofrance.com/les-editions/musique/baloutchistan-la-tradition-instrumentale
+archive: "https://web.archive.org/web/20260710074345/https://www.radiofrance.com/les-editions/musique/baloutchistan-la-tradition-instrumentale"
 title: Baloutchistan. La Tradition instrumentale. CD Ocora Radio France
 kind: web page
 language: en

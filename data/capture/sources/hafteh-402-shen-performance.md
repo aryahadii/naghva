@@ -1,5 +1,6 @@
 ---
 url: https://hafteh.ca/uploads/mag/nr402-web.pdf
+archive: "https://web.archive.org/web/20261124081652/https://hafteh.ca/uploads/mag/nr402-web.pdf"
 title: هفته، شماره 402
 kind: web page
 tier: journalism

@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/artist/the-muckers/1438423763
+archive: "https://web.archive.org/web/20210316153511/https://music.apple.com/us/artist/the-muckers/1438423763"
 title: ‎The Muckers - Apple Music
 kind: web page
 tier: discography

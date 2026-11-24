@@ -1,5 +1,6 @@
 ---
 url: https://iranian.com/2017/09/07/shen-true-iranian-rock-band/
+archive: "https://web.archive.org/web/20260130014341/https://iranian.com/2017/09/07/shen-true-iranian-rock-band/"
 title: 'Shen: A True Iranian Rock Band | The Iranian'
 tier: journalism
 kind: web page

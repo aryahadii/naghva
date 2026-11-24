@@ -1,5 +1,6 @@
 ---
 url: https://www.nts.live/shows/labour/episodes/labour-30th-august-2025
+archive: "https://web.archive.org/web/20260207165759/https://www.nts.live/shows/labour/episodes/labour-30th-august-2025"
 title: LABOUR w/ Pape Diouf 30th August 2025 | Listen on NTS
 status: processed
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/dear-john-feat-peter-frampton-mollie-marriott-album/1822012359
+archive: "https://web.archive.org/web/20260204084037/https://music.apple.com/us/album/dear-john-feat-peter-frampton-mollie-marriott-album/1822012359"
 title: Dear John (feat. Peter Frampton & Mollie Marriott) [Album Mix] - Single
 tier: discography
 language: en

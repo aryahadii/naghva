@@ -1,5 +1,6 @@
 ---
 url: https://zojduet.bandcamp.com/track/woe-to-the-ear
+archive: "https://web.archive.org/web/20261017014742/https://zojduet.bandcamp.com/track/woe-to-the-ear"
 title: Woe to the ear | ZÖJ
 kind: web page
 tier: own

@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/babackrajabi/danse-with-me
+archive: "https://web.archive.org/web/20250611073314/https://soundcloud.com/babackrajabi/danse-with-me"
 title: Dance with me موسیقی تیتراژ فیلم جهان با من برقص · Babak Rajabi
 status: processed
 language: fa

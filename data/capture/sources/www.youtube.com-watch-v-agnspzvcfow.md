@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=aGnsPzVcFOw
+archive: "https://web.archive.org/web/20251012093436/https://www.youtube.com/watch?v=aGnsPzVcFOw"
 title: زنان سرزمینم - کر بهار و آرش فولادوند (Official)
 kind: youtube video
 tier: own

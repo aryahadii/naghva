@@ -1,5 +1,6 @@
 ---
 url: https://xpn.org/world-cafe-playlist-10-24-2019-david-wax-museum/
+archive: "https://web.archive.org/web/20251018110614/https://xpn.org/world-cafe-playlist-10-24-2019-david-wax-museum/"
 title: World Cafe Playlist for 10/24/2019 – WXPN | Vinyl At Heart
 kind: web page
 tier: journalism

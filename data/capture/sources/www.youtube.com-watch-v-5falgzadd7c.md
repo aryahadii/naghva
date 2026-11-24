@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=5fALGZadD7c
+archive: "https://web.archive.org/web/20240620210537/https://www.youtube.com/watch?v=5fALGZadD7c"
 title: Cinna Peyghamy - AVAZ ۱
 kind: web page
 language: en

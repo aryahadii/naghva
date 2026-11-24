@@ -1,5 +1,6 @@
 ---
 url: https://archives.crem-cnrs.fr/archives/items/CNRSMH_I_2019_200_001_07/
+archive: "https://web.archive.org/web/20260609090644/https://archives.crem-cnrs.fr/archives/items/CNRSMH_I_2019_200_001_07/"
 title: 'Item : Chant épique par Mazar Ebrahim et Abdolrahman (banjo) - CREM-CNRS - Sound archives of the CNRS and the Musee de l''Homme.
   Research Centre of Ethnomusicology (CREM), University of Paris 10'
 kind: web page

@@ -1,5 +1,6 @@
 ---
 url: https://farhang.org/farhang-performances/rite-of-strings-dust-and-the-moon
+archive: "https://web.archive.org/web/20261124075926/https://farhang.org/farhang-performances/rite-of-strings-dust-and-the-moon"
 title: 'Rite of Strings: Dust and the Moon | Farhang Performances | Programs'
 tier: own
 language: en

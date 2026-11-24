@@ -1,5 +1,6 @@
 ---
 url: https://bitrotrecords.bandcamp.com/album/kollektive-1
+archive: "https://web.archive.org/web/20250815161333/https://bitrotrecords.bandcamp.com/album/kollektive-1"
 title: Kollektive 1 | Various Artists | BITROT
 status: processed
 language: en

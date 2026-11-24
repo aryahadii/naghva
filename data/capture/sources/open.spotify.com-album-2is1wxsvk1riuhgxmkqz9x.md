@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/2Is1WXsVk1riuhgXMkqz9X
+archive: "https://web.archive.org/web/20191205100900/https://open.spotify.com/album/2Is1WXsVk1riuhgXMkqz9X"
 title: Rooted in You
 tier: discography
 language: en

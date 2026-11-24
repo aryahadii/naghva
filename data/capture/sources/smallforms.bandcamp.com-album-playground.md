@@ -1,5 +1,6 @@
 ---
 url: https://smallforms.bandcamp.com/album/playground
+archive: "https://web.archive.org/web/20250821111343/https://smallforms.bandcamp.com/album/playground"
 title: Playground | Mona Matbou Riahi | Small Forms
 tier: discography
 language: en

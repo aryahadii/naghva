@@ -1,5 +1,6 @@
 ---
 url: https://finchesband.bandcamp.com/track/high
+archive: "https://web.archive.org/web/20260114205124/https://finchesband.bandcamp.com/track/high"
 title: High | The Finches
 kind: web page
 language: en

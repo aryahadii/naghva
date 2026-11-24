@@ -1,5 +1,6 @@
 ---
 url: https://open.spotify.com/album/3B0dPbs81XDuNJ9V82PWYG
+archive: "https://web.archive.org/web/20251229124659/https://open.spotify.com/album/3B0dPbs81XDuNJ9V82PWYG"
 title: Buddha Bar Elements
 tier: discography
 language: en

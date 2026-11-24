@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/babackrajabi/esme-kouchik
+archive: "https://web.archive.org/web/20230414164702/https://soundcloud.com/babackrajabi/esme-kouchik"
 title: Esme kouchik   اسم کوچیک · Babak Rajabi
 status: processed
 language: fa

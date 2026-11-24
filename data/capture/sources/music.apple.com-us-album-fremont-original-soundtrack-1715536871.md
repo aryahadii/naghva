@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/fremont-original-soundtrack/1715536871
+archive: "https://web.archive.org/web/20251206123146/https://music.apple.com/us/album/fremont-original-soundtrack/1715536871"
 title: ‎Fremont (Original Soundtrack) - Album by Mahmood Schricker, Leandro Joaquim & Scott Peterson - Apple Music
 kind: web page
 language: en

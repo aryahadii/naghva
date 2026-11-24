@@ -1,5 +1,6 @@
 ---
 url: https://9tantiope.bandcamp.com/track/down-the-rabbit-hole
+archive: "https://web.archive.org/web/20250910165703/https://9tantiope.bandcamp.com/track/down-the-rabbit-hole"
 title: Down The Rabbit Hole | 9T Antiope
 kind: web page
 language: en

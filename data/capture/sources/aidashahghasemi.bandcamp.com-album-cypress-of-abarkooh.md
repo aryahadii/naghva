@@ -1,5 +1,6 @@
 ---
 url: https://aidashahghasemi.bandcamp.com/album/cypress-of-abarkooh
+archive: "https://web.archive.org/web/20230719094308/https://aidashahghasemi.bandcamp.com/album/cypress-of-abarkooh"
 title: Cypress of Abarkooh
 tier: discography
 language: en

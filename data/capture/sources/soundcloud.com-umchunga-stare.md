@@ -1,5 +1,6 @@
 ---
 url: https://soundcloud.com/umchunga/stare
+archive: "https://web.archive.org/web/20160825184459/https://soundcloud.com/umchunga/stare"
 title: Stream Stare by Umchunga | Listen online for free on SoundCloud
 kind: web page
 language: en
