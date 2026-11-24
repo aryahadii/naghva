@@ -1,0 +1,30 @@
+id: Qrqshdh
+type: act
+statements:
+  name:
+  - value:
+      text: Padik
+      language: en
+    references:
+    - source: trap.no-prosjekt-womex-padik
+      quote: Padik
+      accessed: 2026-11-21
+      locator: Artist or ensemble billing
+  image:
+  - value: https://trap.no/uploads/_1200x630_crop_center-center_none/padik-copy.jpg
+    qualifiers:
+      credit:
+        text: Transnational Arts Production
+        language: en
+    references:
+    - source: trap.no-prosjekt-womex-padik
+      quote: https://trap.no/uploads/_1200x630_crop_center-center_none/padik-copy.jpg
+      accessed: 2026-11-21
+      locator: Original credited artist photograph
+  profile link:
+  - value: https://open.spotify.com/artist/68xVPEgk7PKbnVf8CnSQnF
+    references:
+    - source: open.spotify.com-artist-68xvpegk7pkbnvf8cnsqnf
+      quote: Listen to Padik Songs | Spotify
+      accessed: 2026-11-21
+      locator: Verified catalog identity

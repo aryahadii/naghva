@@ -1,0 +1,65 @@
+id: Qjavyzr
+type: release
+statements:
+  name:
+  - value:
+      text: Minab Golestane (Never Forget) [feat. Mazzi]
+      language: en
+    references:
+    - source: music.apple.com-us-album-minab-golestane-feat-mazzi-single-6785664154uo-4
+      quote: Minab Golestane (Never Forget) [feat. Mazzi]
+      locator: Original group issue, artist identity or exact streaming edition
+      accessed: '2026-11-21'
+  performer:
+  - value: Qstq3nj
+    references:
+    - source: music.apple.com-us-album-minab-golestane-feat-mazzi-single-6785664154uo-4
+      quote: Ajam
+      locator: Original group issue, artist identity or exact streaming edition
+      accessed: '2026-11-21'
+  - value: Qvp2b3f
+    references:
+    - source: www.youtube.com-watchv-kmn70fosgcw
+      quote: Sara Fotros
+      locator: Original band, named recording or film credit
+      accessed: '2026-11-21'
+    qualifiers:
+      role: percussion
+  release date:
+  - value:
+      date: '2026-06-20'
+    references:
+    - source: music.apple.com-us-album-minab-golestane-feat-mazzi-single-6785664154uo-4
+      quote: '2026-06-20'
+      locator: Original group issue, artist identity or exact streaming edition
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f2/f6/5e/f2f65efc-104c-c592-3d35-bd6a2d222087/823000816446.png/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-minab-golestane-feat-mazzi-single-6785664154uo-4
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f2/f6/5e/f2f65efc-104c-c592-3d35-bd6a2d222087/823000816446.png/1200x630bb.jpg
+      locator: Original group issue, artist identity or exact streaming edition
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Ajam · Minab Golestane (feat. Mazzi) - Single
+        language: en
+  listen link:
+  - value: https://open.spotify.com/track/03ehZfxIerBuuZaNjVd6kC
+    references:
+    - source: open.spotify.com-embed-album-1hsjbbdzren2eb75urynpe
+      quote: Minab Golestane (Never Forget)
+      locator: Original group issue, artist identity or exact streaming edition
+      accessed: '2026-11-21'
+  - value: https://music.apple.com/us/song/minab-golestane-never-forget-feat-mazzi/6785664155
+    references:
+    - source: music.apple.com-us-album-minab-golestane-feat-mazzi-single-6785664154uo-4
+      quote: Minab Golestane (Never Forget) [feat. Mazzi]
+      locator: Original group issue, artist identity or exact streaming edition
+      accessed: '2026-11-21'
+  - value: https://www.youtube.com/watch?v=kMN70fOsgCw
+    references:
+    - source: www.youtube.com-oembed-kmn70fosgcw
+      quote: Ajam ft Mazzi - Minab Golestane | عجم و مازی - میناب گلستانه
+      locator: Original band, named recording or film credit
+      accessed: '2026-11-21'

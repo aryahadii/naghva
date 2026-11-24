@@ -3,12 +3,13 @@ type: person
 statements:
   name:
   - value:
-      text: ROUZBEH ESFANDARMAZ
+      text: Rouzbeh Esfandarmaz
       language: en
     references:
-    - source: pallettmusic.com-7d0b6e14b735
-      quote: Pallett consists of OMID NEMATI (vocal), MAHYAR TAHMASBI (cello) & SHAGHAYEGH SADEGHIAN (flute), in which HESAM MOHAMMADIANPOUR, ROUZBEH ESFANDARMAZ, DARIUS AZAR & KAVEH SALEHI were former members.
-      accessed: '2026-10-19'
+    - source: www.rouzbehesfand.com-contact-1
+      quote: Rouzbeh Esfandarmaz
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
   - value:
       text: روزبه اسفندارمز
       language: fa
@@ -16,11 +17,65 @@ statements:
     - source: t.me-dariusazar-186-80d7f93781e1
       quote: 'میکس و مسترینگ: روزبه اسفندارمز'
       accessed: '2026-10-23'
+  - value:
+      text: Rouzbeh Esfand
+      language: en
+    references:
+    - source: open.spotify.com-artist-2knccokhv6dyvdoox87jdo
+      quote: Listen to Rouzbeh Esfand Songs | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+    - source: habibmeftah.bandcamp.com-track-1000-farsang
+      quote: 1000 FARSANG by HABIB MEFTAH AND ROUZBEH ESFAND
+      accessed: '2026-10-19'
   member of:
   - value: Qq5328q
     references:
     - source: pallettmusic.com-7d0b6e14b735
-      quote: Pallett consists of OMID NEMATI (vocal), MAHYAR TAHMASBI (cello) & SHAGHAYEGH SADEGHIAN (flute), in which HESAM MOHAMMADIANPOUR, ROUZBEH ESFANDARMAZ, DARIUS AZAR & KAVEH SALEHI were former members.
+      quote: Pallett consists of OMID NEMATI (vocal), MAHYAR TAHMASBI (cello) & SHAGHAYEGH SADEGHIAN (flute), in which HESAM MOHAMMADIANPOUR,
+        ROUZBEH ESFANDARMAZ, DARIUS AZAR & KAVEH SALEHI were former members.
       accessed: '2026-10-19'
     qualifiers:
       end time: unknown value
+  - value: Qt394nr
+    references:
+    - source: esfand.bandcamp.com-album-h-l
+      quote: All tracks produced by Rouzbeh Esfandarmaz and Patrick Stewart
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  image:
+  - value: https://i.scdn.co/image/ab6761610000e5eb86e0a6b1e507d0d17d6c9744
+    references:
+    - source: open.spotify.com-artist-2knccokhv6dyvdoox87jdo
+      quote: https://i.scdn.co/image/ab6761610000e5eb86e0a6b1e507d0d17d6c9744
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      credit:
+        text: Rouzbeh Esfand, via Spotify
+        language: en
+  profile link:
+  - value: https://open.spotify.com/artist/2kNccOkhv6DYVdoOx87Jdo
+    references:
+    - source: open.spotify.com-artist-2knccokhv6dyvdoox87jdo
+      quote: Listen to Rouzbeh Esfand Songs | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/artist/rouzbeh-esfand/1483617694?uo=4
+    references:
+    - source: music.apple.com-us-artist-rouzbeh-esfand-1483617694-uo-4
+      quote: ‎Rouzbeh Esfand - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://soundcloud.com/rouzbeh-esfandarmaz
+    references:
+    - source: soundcloud.com-rouzbeh-esfandarmaz
+      quote: Stream Rouzbeh Esfand music | Listen to songs, albums, playlists for free on SoundCloud
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://www.youtube.com/channel/UCwz1dPzVJPV7a7njQWVMI_w
+    references:
+    - source: www.youtube.com-channel-ucwz1dpzvjpv7a7njqwvmi_w
+      quote: Rouzbeh - YouTube
+      accessed: '2026-11-21'
+      locator: Page title

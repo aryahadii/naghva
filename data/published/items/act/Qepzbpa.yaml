@@ -1,0 +1,36 @@
+id: Qepzbpa
+type: act
+statements:
+  name:
+  - value:
+      text: Karvan
+      language: en
+    references:
+    - source: etniskmusikklubb.no-produkt-where-the-music-traditions-from-baluchistan-persia-and-india-meet
+      quote: Javid Afsari Rad – Santor
+      accessed: '2026-11-21'
+      locator: Recording personnel
+  profile link:
+  - value: https://open.spotify.com/artist/6iHdpMEBo8jlfOtXIwBHF4
+    references:
+    - source: open.spotify.com-artist-6ihdpmebo8jlfotxiwbhf4
+      quote: Listen to Karvan Songs | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://music.apple.com/us/artist/karvan/1776865354
+    references:
+    - source: music.apple.com-us-artist-karvan-1776865354
+      quote: ‎KARVAN - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  image:
+  - value: https://etniskmusikklubb.no/wp-content/uploads/2023/01/em05.jpg
+    qualifiers:
+      credit:
+        text: Concert photograph on Karvan’s 2001 sleeve, Etnisk Musikklubb
+        language: en
+    references:
+    - source: etniskmusikklubb.no-produkt-where-the-music-traditions-from-baluchistan-persia-and-india-meet
+      quote: Where the music traditions from Baluchistan, Persia and India meet
+      accessed: 2026-11-21
+      locator: Original label’s 2001 CD sleeve, with a concert photograph

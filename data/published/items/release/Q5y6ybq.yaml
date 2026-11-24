@@ -1,0 +1,53 @@
+id: Q5y6ybq
+type: release
+statements:
+  name:
+  - value:
+      text: Migration
+      language: en
+    references:
+    - source: music.apple.com-us-album-in-love-light-vol-iii-1103024480
+      quote: Migration (feat. Aida Shahghasemi)
+      accessed: 2026-11-21
+      locator: Track title and credits
+  listen link:
+  - value: https://music.apple.com/us/song/migration-feat-aida-shahghasemi/1103024545
+    references:
+    - source: music.apple.com-us-album-in-love-light-vol-iii-1103024480
+      quote: Migration (feat. Aida Shahghasemi)
+      accessed: 2026-11-21
+      locator: Track title and credits
+  - value: https://open.spotify.com/track/0eJrS4ProLmjCv7IKiWb1t
+    references:
+    - source: open.spotify.com-album-6qcfabt2owzr9qg9zbfmgn
+      quote: Holmes Ives, Aida Shahghasemi
+      accessed: 2026-11-21
+      locator: Spotify native track billing
+  release date:
+  - value:
+      date: '2016-04-05'
+    references:
+    - source: music.apple.com-us-album-in-love-light-vol-iii-1103024480
+      quote: '2016-04-05'
+      accessed: 2026-11-21
+      locator: Digital edition date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/e1/ca/1d/e1ca1da7-aba2-9635-8d11-6327ea06caec/874827382829.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-in-love-light-vol-iii-1103024480
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/e1/ca/1d/e1ca1da7-aba2-9635-8d11-6327ea06caec/874827382829.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Native release artwork
+  performer:
+  - value: Qknjd7f
+    references:
+    - source: music.apple.com-us-album-in-love-light-vol-iii-1103024480
+      quote: Migration (feat. Aida Shahghasemi)
+      accessed: 2026-11-21
+      locator: Track title and credits
+  - value: Qjh2zkc
+    references:
+    - source: music.apple.com-us-album-in-love-light-vol-iii-1103024480
+      quote: Migration (feat. Aida Shahghasemi)
+      accessed: 2026-11-21
+      locator: Track title and credits

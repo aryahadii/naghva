@@ -1,0 +1,82 @@
+id: Q8tyst8
+type: release
+statements:
+  name:
+  - value:
+      text: Avazeh Khan Nah Avaz
+      language: en
+    references:
+    - source: music.apple.com-us-album-avazeh-khan-nah-avaz-1554640290
+      quote: Avazeh Khan Nah Avaz
+      accessed: '2026-11-21'
+      locator: Track 1
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-avazeh-khan-nah-avaz-1554640290
+      quote: Avazeh Khan Nah Avaz
+      accessed: '2026-11-21'
+      locator: Track 1
+  listen link:
+  - value: https://music.apple.com/us/song/avazeh-khan-nah-avaz/1554640291
+    references:
+    - source: music.apple.com-us-album-avazeh-khan-nah-avaz-1554640290
+      quote: https://music.apple.com/us/song/avazeh-khan-nah-avaz/1554640291
+      accessed: '2026-11-21'
+      locator: Exact Apple track
+  - value: https://music.apple.com/us/album/avazeh-khan-nah-avaz/1554640290
+    references:
+    - source: music.apple.com-us-album-avazeh-khan-nah-avaz-1554640290
+      quote: Avazeh Khan Nah Avaz - Single
+      accessed: '2026-11-21'
+      locator: Digital edition
+  - value: https://music.apple.com/us/album/avazeh-khan-nah-avaz-single/1554640290
+    references:
+    - source: music.apple.com-us-album-avazeh-khan-nah-avaz-single-1554640290
+      quote: Avazeh Khan Nah Avaz - Single
+      accessed: '2026-11-21'
+      locator: Native edition title
+  - value: https://open.spotify.com/track/7DJhL1OYihZwGUchuuJe5A
+    references:
+    - source: open.spotify.com-embed-album-2xxuuuxvavhmereghbqmgr
+      quote: spotify:track:7DJhL1OYihZwGUchuuJe5A
+      accessed: '2026-11-21'
+      locator: Exact Spotify track
+  - value: https://open.spotify.com/album/2xxuuUXVAVHMErEgHBqMgR
+    references:
+    - source: open.spotify.com-embed-album-2xxuuuxvavhmereghbqmgr
+      quote: Avazeh Khan Nah Avaz
+      accessed: '2026-11-21'
+      locator: Single release
+  performer:
+  - value: Qb269ps
+    references:
+    - source: music.apple.com-us-album-avazeh-khan-nah-avaz-1554640290
+      quote: Avazeh Khan Nah Avaz - Single
+      accessed: '2026-11-21'
+      locator: Digital edition
+  - value: Qy88zyz
+    references:
+    - source: music.apple.com-us-album-avazeh-khan-nah-avaz-1554640290
+      quote: Erwin Khachikian
+      accessed: '2026-11-21'
+      locator: Artist credit
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/d8/b3/b2/d8b3b2c5-b17f-995d-63f4-dc2fd1bae007/195999581323.jpg/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Digital artwork via Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-avazeh-khan-nah-avaz-1554640290
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/d8/b3/b2/d8b3b2c5-b17f-995d-63f4-dc2fd1bae007/195999581323.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Edition artwork
+  release date:
+  - value:
+      date: '2021-03-01'
+    references:
+    - source: music.apple.com-us-album-avazeh-khan-nah-avaz-1554640290
+      quote: '2021-03-01'
+      accessed: '2026-11-21'
+      locator: Issue date

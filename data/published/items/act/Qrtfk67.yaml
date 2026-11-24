@@ -1,0 +1,27 @@
+id: Qrtfk67
+type: act
+statements:
+  name:
+  - value:
+      text: This Tale of Ours
+      language: en
+    references:
+    - source: agakhanmuseum.org-bio-this-tale-of-ours
+      quote: This Tale of Ours
+      accessed: '2026-11-21'
+      locator: Museum artist heading
+  image:
+  - value: https://i.ytimg.com/vi/x6tFL0yvDvY/hqdefault.jpg
+    qualifiers:
+      credit:
+        text: Labyrinth Musical Workshop Ontario on YouTube
+        language: en
+    references:
+    - source: www.youtube.com-watch-v-x6tfl0yvdvy
+      quote: https://i.ytimg.com/vi/x6tFL0yvDvY/hqdefault.jpg
+      accessed: '2026-11-21'
+      locator: YouTube oEmbed thumbnail
+    - source: www.youtube.com-watch-v-x6tfl0yvdvy
+      quote: Labyrinth Musical Workshop Ontario
+      accessed: '2026-11-21'
+      locator: YouTube oEmbed uploader

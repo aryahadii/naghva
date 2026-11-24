@@ -1,0 +1,61 @@
+id: Qchwjy9
+type: release
+statements:
+  name:
+  - value:
+      text: Ahoora
+      language: en
+    references:
+    - source: ahoora.bandcamp.com-album-ahoora
+      quote: Ahoora
+      accessed: 2026-11-21
+      locator: Track 6
+  release date:
+  - value:
+      date: '2006-02-13'
+    references:
+    - source: ahoora.bandcamp.com-album-ahoora
+      quote: released February 13, 2006
+      accessed: 2026-11-21
+      locator: Release date
+  performer:
+  - value: Qkb4887
+    references:
+    - source: ahoora.bandcamp.com-album-ahoora
+      quote: Ahoora
+      accessed: 2026-11-21
+      locator: Release artist
+  listen link:
+  - value: https://ahoora.bandcamp.com/track/ahoora
+    references:
+    - source: ahoora.bandcamp.com-album-ahoora
+      quote: Ahoora
+      accessed: 2026-11-21
+      locator: Track 6
+  - value: https://music.apple.com/us/song/ahoora-instrumental/274512051
+    references:
+    - source: music.apple.com-us-album-ahoora-274511856
+      quote: Ahoora (Instrumental)
+      accessed: '2026-11-21'
+      locator: Album track 6
+  - value: https://open.spotify.com/track/6em0eA4vfDalgDjc7c96n7
+    references:
+    - source: open.spotify.com-embed-album-6zjllqzjqkdpnpdopomtd8
+      quote: Ahoora (Instrumental)
+      accessed: '2026-11-21'
+      locator: Album track 6
+  cover art:
+  - value: https://f4.bcbits.com/img/a3952380516_2.jpg
+    references:
+    - source: ahoora.bandcamp.com-album-ahoora
+      quote: Ahoora
+      accessed: 2026-11-21
+      locator: Release heading
+    - source: ahoora.bandcamp.com-album-ahoora
+      quote: Album Cover - Zdzisław Beksiński
+      accessed: 2026-11-21
+      locator: Artwork credits
+    qualifiers:
+      credit:
+        text: Zdzisław Beksiński
+        language: en

@@ -1,0 +1,70 @@
+id: Qwn9jr9
+type: release
+statements:
+  name:
+  - value:
+      text: Khandeye Azadi
+      language: en
+    references:
+    - source: music.apple.com-us-album-khandeye-azadi-single-6795705692
+      quote: Khandeye Azadi
+      accessed: '2026-11-21'
+      locator: Track 1
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-khandeye-azadi-single-6795705692
+      quote: Khandeye Azadi
+      accessed: '2026-11-21'
+      locator: Track 1
+  listen link:
+  - value: https://music.apple.com/us/song/khandeye-azadi/6795705695
+    references:
+    - source: music.apple.com-us-album-khandeye-azadi-single-6795705692
+      quote: https://music.apple.com/us/song/khandeye-azadi/6795705695
+      accessed: '2026-11-21'
+      locator: Exact Apple track
+  - value: https://music.apple.com/us/album/khandeye-azadi-single/6795705692
+    references:
+    - source: music.apple.com-us-album-khandeye-azadi-single-6795705692
+      quote: Khandeye Azadi - Single
+      accessed: '2026-11-21'
+      locator: Digital edition
+  - value: https://open.spotify.com/track/1SAfFCvB8hfdmSv6IsEoTO
+    references:
+    - source: open.spotify.com-embed-album-5ociin9kzjvdvoszr6lids
+      quote: spotify:track:1SAfFCvB8hfdmSv6IsEoTO
+      accessed: '2026-11-21'
+      locator: Native track URI
+  - value: https://open.spotify.com/album/5oCIIN9kzjvdVOSzR6liDs
+    references:
+    - source: open.spotify.com-embed-album-5ociin9kzjvdvoszr6lids
+      quote: Khandeye Azadi
+      accessed: '2026-11-21'
+      locator: Spotify album
+  performer:
+  - value: Qy88zyz
+    references:
+    - source: music.apple.com-us-album-khandeye-azadi-single-6795705692
+      quote: Erwin Khachikian
+      accessed: '2026-11-21'
+      locator: Artist credit
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/59/ec/8a/59ec8a44-bf12-22e9-f6ca-9cb4cc5fd290/885000088629.png/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Digital artwork via Apple Music
+        language: en
+    references:
+    - source: music.apple.com-us-album-khandeye-azadi-single-6795705692
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/59/ec/8a/59ec8a44-bf12-22e9-f6ca-9cb4cc5fd290/885000088629.png/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Edition artwork
+  release date:
+  - value:
+      date: '2026-07-29'
+    references:
+    - source: music.apple.com-us-album-khandeye-azadi-single-6795705692
+      quote: '2026-07-29'
+      accessed: '2026-11-21'
+      locator: Issue date

@@ -1,0 +1,51 @@
+id: Qv5kw6y
+type: release
+statements:
+  name:
+  - value:
+      text: Darya (BBC Persian)
+      language: en
+    references:
+    - source: www.youtube.com-watch-v--a4mjvgq6i0
+      quote: Niaz Nawab - Darya - BBC News
+      accessed: '2026-11-21'
+      locator: Artist video
+  performer:
+  - value: Qb269ps
+    references:
+    - source: www.youtube.com-watch-v--a4mjvgq6i0
+      quote: Niaz Nawab - Darya - BBC News
+      accessed: '2026-11-21'
+      locator: Artist video
+  listen link:
+  - value: https://www.youtube.com/watch?v=-a4mJVgQ6I0
+    references:
+    - source: www.youtube.com-watch-v--a4mjvgq6i0
+      quote: Niaz Nawab - Darya - BBC News
+      accessed: '2026-11-21'
+      locator: Artist video
+  - value: https://t.me/niaznawab/227
+    references:
+    - source: t.me-niaznawab-227
+      quote: اجرای آهنگ «دریا» در بی بی سی فارسی « Darya » on BBC News Persian @NiazNawab
+      accessed: '2026-11-21'
+      locator: Artist’s original performance caption
+  cover art:
+  - value: https://i.ytimg.com/vi/-a4mJVgQ6I0/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgRChZMA8=&rs=AOn4CLARPukR3iFayszDSGHywFBgaRRg6Q
+    qualifiers:
+      credit:
+        text: Niaz Nawab
+        language: en
+    references:
+    - source: www.youtube.com-watch-v--a4mjvgq6i0
+      quote: https://i.ytimg.com/vi/-a4mJVgQ6I0/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgRChZMA8=&rs=AOn4CLARPukR3iFayszDSGHywFBgaRRg6Q
+      accessed: '2026-11-21'
+      locator: Original video artwork
+  release date:
+  - value:
+      date: '2024-03-27'
+    references:
+    - source: www.youtube.com-watch-v--a4mjvgq6i0
+      quote: '2024-03-27'
+      accessed: '2026-11-21'
+      locator: Video publication

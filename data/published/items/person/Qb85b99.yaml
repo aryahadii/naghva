@@ -9,3 +9,48 @@ statements:
     - source: music.apple.com-us-album-asheghane-ha-live-1778056291
       quote: Asheghane Ha (Live) - Album by Arash Fouladvand, Orchestre Philharmonique de Paris-Est & Bahar Choir Group - Apple Music
       accessed: '2026-11-08'
+  - value:
+      text: آرش فولادوند
+      language: fa
+    references:
+    - source: kayhan.london-1396-03-30-79397
+      quote: آرش فولادوند
+      accessed: '2026-11-21'
+      locator: Musician’s account, original issue or concert programme
+  member of:
+  - value: Qs4s44j
+    references:
+    - source: www.baharchoir.com-about-us
+      quote: Under the artistic direction of Arash Fouladvand
+      accessed: '2026-11-21'
+      locator: Group history, interview or original programme
+  image:
+  - value: https://static.wixstatic.com/media/58f521_cab8f23e0ace4728a9ad86e30554b8a2~mv2.jpg
+    qualifiers:
+      credit:
+        text: Bahar Choir, official biography photograph
+        language: en
+    references:
+    - source: www.baharchoir.com-about-us
+      quote: 58f521_cab8f23e0ace4728a9ad86e30554b8a2~mv2.jpg
+      accessed: '2026-11-21'
+      locator: Musician’s account, original issue or concert programme
+  profile link:
+  - value: https://music.apple.com/us/artist/arash-fouladvand/1691459980
+    references:
+    - source: music.apple.com-us-artist-arash-fouladvand-1691459980
+      quote: ‎Arash Fouladvand - Apple Music
+      accessed: '2026-11-21'
+      locator: Musician’s account, original issue or concert programme
+  - value: https://open.spotify.com/artist/6kcsyfB8WCQIVvKCTbVd6b
+    references:
+    - source: open.spotify.com-artist-6kcsyfb8wcqivvkctbvd6b
+      quote: Listen to Arash Fouladvand Songs | Spotify
+      accessed: '2026-11-21'
+      locator: Musician’s account, original issue or concert programme
+  - value: https://www.youtube.com/channel/UCKDyuA_yZPcoj7ewohEyN9g
+    references:
+    - source: www.youtube.com-channel-uckdyua_yzpcoj7ewoheyn9g
+      quote: Arash Fouladvand - YouTube
+      accessed: '2026-11-21'
+      locator: Musician’s account, original issue or concert programme

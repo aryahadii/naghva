@@ -1,0 +1,63 @@
+id: Qh5n5n6
+type: release
+statements:
+  name:
+  - value:
+      text: Zamâneh
+      language: en
+    references:
+    - source: music.apple.com-us-album-hafez-1076395652
+      quote: Zamâneh
+      accessed: '2026-11-21'
+      locator: Release track 9
+  listen link:
+  - value: https://music.apple.com/us/song/zam%C3%A2neh/1076396745
+    references:
+    - source: music.apple.com-us-album-hafez-1076395652
+      quote: https://music.apple.com/us/song/zam%C3%A2neh/1076396745
+      accessed: '2026-11-21'
+      locator: Exact Apple track
+  - value: https://open.spotify.com/track/2VX1mS0Gxjdep0XeisZ1NO
+    references:
+    - source: open.spotify.com-embed-album-34xcqlxnnugecfy0lcqqga
+      quote: spotify:track:2VX1mS0Gxjdep0XeisZ1NO
+      accessed: '2026-11-21'
+      locator: Exact Spotify track
+  - value: https://www.youtube.com/watch?v=LXB0VLTYdIE
+    references:
+    - source: www.youtube.com-watch-v-lxb0vltydie
+      quote: Zamaneh - Niaz Nawab - زمانه - نیاز نواب
+      accessed: '2026-11-21'
+      locator: Artist video
+  - value: https://t.me/niaznawab/174
+    references:
+    - source: t.me-niaznawab-174
+      quote: آهنگ «زمانه» از آلبوم حافظ « Zamaneh » @NiazNawab
+      accessed: '2026-11-21'
+      locator: Artist’s original performance caption
+  performer:
+  - value: Qb269ps
+    references:
+    - source: music.apple.com-us-album-hafez-1076395652
+      quote: Hafez
+      accessed: '2026-11-21'
+      locator: Native edition title
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9d/b8/03/9db80326-ecb9-a12b-5343-aa8f67428613/638865015947.jpg/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Apple Music release artwork
+        language: en
+    references:
+    - source: music.apple.com-us-album-hafez-1076395652
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9d/b8/03/9db80326-ecb9-a12b-5343-aa8f67428613/638865015947.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Release cover
+  release date:
+  - value:
+      date: '2016-01-17'
+    references:
+    - source: music.apple.com-us-album-hafez-1076395652
+      quote: '2016-01-17'
+      accessed: '2026-11-21'
+      locator: Release date

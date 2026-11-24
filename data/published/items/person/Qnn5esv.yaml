@@ -1,0 +1,43 @@
+id: Qnn5esv
+type: person
+statements:
+  name:
+  - value:
+      text: Abdulrahman Surizehi
+      language: en
+    references:
+    - source: www.padik.se-about.html
+      quote: Abdulrahman Surizehi
+      accessed: 2026-11-21
+      locator: Artist or ensemble billing
+  image:
+  - value: https://www.padik.se/abdul.jpg
+    qualifiers:
+      credit:
+        text: Padik, artist biography
+        language: en
+    references:
+    - source: www.padik.se-about.html
+      quote: https://www.padik.se/abdul.jpg
+      accessed: 2026-11-21
+      locator: Original credited artist photograph
+  profile link:
+  - value: https://open.spotify.com/artist/1bFSVHjCqtvcgJ7lcIs9Bg
+    references:
+    - source: open.spotify.com-artist-1bfsvhjcqtvcgj7lcis9bg
+      quote: Listen to Abdulrahman Surizehi Songs | Spotify
+      accessed: 2026-11-21
+      locator: Verified catalog identity
+  member of:
+  - value: Qrqshdh
+    references:
+    - source: rostammirlashari.com-portfolio-padik
+      quote: Abdulrahman Surizehi, Anne Hytta, Rostam Mirlashari
+      accessed: 2026-11-21
+      locator: Physical album roster
+  - value: Qepzbpa
+    references:
+    - source: etniskmusikklubb.no-produkt-where-the-music-traditions-from-baluchistan-persia-and-india-meet
+      quote: Abdulrahman Surizehi
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits

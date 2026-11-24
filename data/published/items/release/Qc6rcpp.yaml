@@ -1,0 +1,76 @@
+id: Qc6rcpp
+type: release
+statements:
+  name:
+  - value:
+      text: Mirage Theme
+      language: en
+    references:
+    - source: music.apple.com-us-album-assassins-creed-mirage-original-game-soundtrack-1706138098
+      quote: Mirage Theme
+      locator: Original score credits, ABC cue list or digital edition
+      accessed: '2026-11-21'
+  performer:
+  - value: Qg776ck
+    references:
+    - source: www.brendanangelides.com-score-assassinscreed
+      quote: 'Afarin Nazarijou: Qanun'
+      locator: Original score credits, ABC cue list or digital edition
+      accessed: '2026-11-21'
+    - source: www.abc.net.au-listen-programs-game-show-game-show-new-releases-assassins-creed-mirage-102921154
+      quote: Afarin Nazarijou (qanun)
+      locator: Original score credits, ABC cue list or digital edition
+      accessed: '2026-11-21'
+    - source: www.abc.net.au-listen-programs-game-show-game-show-new-releases-assassins-creed-mirage-102921154
+      quote: Mirage Theme
+      locator: Original score credits, ABC cue list or digital edition
+      accessed: '2026-11-21'
+    qualifiers:
+      role: qanun
+  release date:
+  - value:
+      date: '2023-10-06'
+    references:
+    - source: music.apple.com-us-album-assassins-creed-mirage-original-game-soundtrack-1706138098
+      quote: '2023-10-06'
+      locator: Original score credits, ABC cue list or digital edition
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/51/14/f4/5114f496-88cb-2904-2753-bd3f32966789/3663729271532_cover.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-assassins-creed-mirage-original-game-soundtrack-1706138098
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/51/14/f4/5114f496-88cb-2904-2753-bd3f32966789/3663729271532_cover.jpg/1200x630bb.jpg
+      locator: Original score credits, ABC cue list or digital edition
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Ubisoft Music · soundtrack artwork
+        language: en
+  listen link:
+  - value: https://open.spotify.com/track/0UAOiDaFyT39vHR1nvrpco
+    references:
+    - source: open.spotify.com-embed-album-6wnfe3webks6jvbvss8lyf
+      quote: Mirage Theme
+      locator: Original score credits, ABC cue list or digital edition
+      accessed: '2026-11-21'
+  - value: https://music.apple.com/us/song/mirage-theme/1706138432
+    references:
+    - source: music.apple.com-us-album-assassins-creed-mirage-original-game-soundtrack-1706138098
+      quote: Mirage Theme
+      locator: Original score credits, ABC cue list or digital edition
+      accessed: '2026-11-21'
+  - value: https://www.youtube.com/watch?v=jS-p7BvMRMg
+    references:
+    - source: www.youtube.com-oembed-js-p7bvmrmg
+      quote: Mirage Theme | Assassin's Creed Mirage Original Game Soundtrack | Brendan Angelides
+      locator: Original score credits, ABC cue list or digital edition
+      accessed: '2026-11-21'
+  contributor:
+  - value: Qdhyxkn
+    references:
+    - source: www.brendanangelides.com-score-assassinscreed
+      quote: Score by Brendan Angelides
+      locator: Original score credits, ABC cue list or digital edition
+      accessed: '2026-11-21'
+    qualifiers:
+      role: composer

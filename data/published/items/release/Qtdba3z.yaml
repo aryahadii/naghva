@@ -1,0 +1,51 @@
+id: Qtdba3z
+type: release
+statements:
+  name:
+  - value:
+      text: Absence
+      language: en
+    references:
+    - source: www.youtube.com-watch-v-zylgcwesake
+      quote: Absence - Niaz Nawab - نیاز نواب
+      accessed: '2026-11-21'
+      locator: Artist video
+  performer:
+  - value: Qb269ps
+    references:
+    - source: www.youtube.com-watch-v-zylgcwesake
+      quote: Absence - Niaz Nawab - نیاز نواب
+      accessed: '2026-11-21'
+      locator: Artist video
+  listen link:
+  - value: https://www.youtube.com/watch?v=zYlGcwEsakE
+    references:
+    - source: www.youtube.com-watch-v-zylgcwesake
+      quote: Absence - Niaz Nawab - نیاز نواب
+      accessed: '2026-11-21'
+      locator: Artist video
+  - value: https://t.me/niaznawab/238
+    references:
+    - source: t.me-niaznawab-238
+      quote: '« Absence » Music: Niaz Nawab Lyrics: F. Hashtroodi Full Video: https://youtu.be/zYlGcwEsakE @NiazNa'
+      accessed: '2026-11-21'
+      locator: Artist’s original performance caption
+  cover art:
+  - value: https://i.ytimg.com/vi/zYlGcwEsakE/maxresdefault.jpg
+    qualifiers:
+      credit:
+        text: Niaz Nawab
+        language: en
+    references:
+    - source: www.youtube.com-watch-v-zylgcwesake
+      quote: https://i.ytimg.com/vi/zYlGcwEsakE/maxresdefault.jpg
+      accessed: '2026-11-21'
+      locator: Original video artwork
+  release date:
+  - value:
+      date: '2026-01-12'
+    references:
+    - source: www.youtube.com-watch-v-zylgcwesake
+      quote: '2026-01-12'
+      accessed: '2026-11-21'
+      locator: Video publication

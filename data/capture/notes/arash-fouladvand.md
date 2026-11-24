@@ -1,0 +1,188 @@
+# Arash Fouladvand
+
+The Persian academy biography and his two first-person interviews establish his career as composer, performer and conductor. His present choir biography dates formal founding to 2011, while the academy puts the group one year after its 2009 association. In the composer’s own recollection, private lessons led to the informal group around 2007. The press interview gives age seven for his piano studies, the institution gives eight. His compact biography omits that conflicting age. The portrait appears with the biography and was visually verified from the native original (a photograph of Fouladvand lit from behind). The digital editions are matched by track, and the conductor’s titles and playlists identify guest-led concerts. The 185 films cover guest-focused performances as well as his own; concert trailers and shorter cuts of an existing programme do not get separate performance credit. The choir profile carries the recording-specific gallery and regional chronology.
+
+- 12. Yousofé Gom Gàshteh, Bahar Children's Choir یوسف گم‌گشته (Arash Fouladvand feat Sina Sarlak) (Q5rhwdq) · https://www.youtube.com/watch?v=N9hdhLp5jhw
+- Yék Parié Nâz -  یک پری ناز (Qtfm57t) · https://www.youtube.com/watch?v=iGW_JfdSIcY
+- شبم تاریک - دریا دادور و آرش فولادوند (Official) (Q8yzghq) · https://www.youtube.com/watch?v=6o23qQxZKrA
+- دریا Darya - (نیاز نواب و آرش فولادوند) (Qks5s3g) · https://www.youtube.com/watch?v=oyz-sYegDA4
+- 11. Tâbé Bànàfshé, Bahar Children's Choir تاب بنفشه (Arash Fouladvand feat Mahdieh and Mehrnigori) (Qt8sqd3) · https://www.youtube.com/watch?v=oBWdQa6gYOM
+- گل گندم - سارا حمیدی و آرش فولادوند (Official) (Qsgt2pt) · https://www.youtube.com/watch?v=jd__9F-2YWY
+- Bouyé Jouyé Moulian - بوی جوی مولیان - (London) (Qs49bvk) · https://www.youtube.com/watch?v=4cSVYG1_-wE
+- Chékidèh Eshgh - چکیده عشق - (Paris) (Q8qbp8c) · https://www.youtube.com/watch?v=FWrOyx7fH2E
+- ای ایران (Live) (Qc7a2d2) · https://music.apple.com/us/song/%D8%A7%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-live/1480349738
+- Neshané To - نشان تو (London) (Q3kbver) · https://www.youtube.com/watch?v=orGENIcitQE
+- 10. Sâz o Âvâz - گل زرد - ساز و آواز - (Sina SARLAK feat Mehrdad NASEHI and Mohsen FAZELI) (Qaqnze2) · https://www.youtube.com/watch?v=IhPAMWhy1QQ
+- Emshab Shabe Mahtabe (Live) (Qhm7xmk) · https://open.spotify.com/track/4XVuhvXojkkaPzpSGL2bmw · https://www.youtube.com/watch?v=6ERrRrXXt0o
+- آزادی - آرش فولادوند و گروه کر بهار (Official) (Qgfqdds) · https://www.youtube.com/watch?v=0EMIysybEVc
+- باران (Live) (Qxjnba6) · https://music.apple.com/us/song/%D8%A8%D8%A7%D8%B1%D8%A7%D9%86-live/1480349727
+- Gole Sorkh (Live) (Qjyg87v) · https://open.spotify.com/track/0sPf16C64Q77VceY0UDQEd · https://www.youtube.com/watch?v=zxtUNyF_qVY
+- Chékidèh Eshgh - چکیده عشق - (London) (Q98ycgr) · https://www.youtube.com/watch?v=ufgc7fnMxP4
+- دماوند - آرش فولادوند، مجید درخشانی، شاهو عندلیبی و گروه کر بهار (Official) (Qts7q9h) · https://www.youtube.com/watch?v=ozGRwb_3mGo
+- Az Khouné Jàvânâné Vàtàn - از خون جوانان وطن (Qw37mba) · https://www.youtube.com/watch?v=0S_2Q09cN68
+- Didi Ey Dél - دیدی ای دل - (Paris) (Qctd3k4) · https://www.youtube.com/watch?v=1ISO7bOmkzA
+- To Bémân Iran (Bella Ciao persian) - Arash Fouladvand & Bahar Choir (Qnh63nk) · https://www.youtube.com/watch?v=7uP5WPGqvDI
+- Résid Ân Shàh - رسید آن شه (Q38jy83) · https://www.youtube.com/watch?v=NkbCB5P4_xo
+- Résid Ân Shàh 1 - رسید آن شه ۱ (Paris) (Qs56s3k) · https://www.youtube.com/watch?v=CDQ1SwRvYY0
+- چهار مضراب (Live) (Qpx27ad) · https://music.apple.com/us/song/%DA%86%D9%87%D8%A7%D8%B1-%D9%85%D8%B6%D8%B1%D8%A7%D8%A8-live/1480349177
+- Bémirid Bémirid - بمیرید بمیرید (London) (Q37e5ae) · https://www.youtube.com/watch?v=BVqp5diVtl4
+- می زده - آرش فولادوند و گروه کر بهار (Official) (Q4crjh2) · https://www.youtube.com/watch?v=AB5tG4Bazsg
+- Tâbé Bànàfshé - تاب بنفشه - (Paris) (Qphh42k) · https://www.youtube.com/watch?v=TPJM6q5wkjA
+- Neshane To (Live) (Qs6vp7q) · https://music.apple.com/us/song/neshane-to-live/1778056296 · https://open.spotify.com/track/540kVWZNPD8NHIQzgbdhD4
+- طلوع - آرش فولادوند (Qehm9qg) · https://www.youtube.com/watch?v=I4aKX6cHH5M
+- Mah Pishano (Live) (Qng5m2h) · https://open.spotify.com/track/4AKoK7bQ41YEePj1QyOdYI · https://www.youtube.com/watch?v=hyf04JYLaLc
+- Bouyé Jouyé Moulian - بوی جوی مولیان - (Paris) (Q2esqrm) · https://www.youtube.com/watch?v=_7cCYQF4n2s
+- Bemirid Bemirid (Live) (Qghq9w9) · https://music.apple.com/us/song/bemirid-bemirid-live/1778056300 · https://open.spotify.com/track/6NRY5FO3lN46D2NkE7rvHT
+- Darya (Paris Philharmonic Orchestra) (Qys9tkr) · https://www.youtube.com/watch?v=Y7Odx3h11Ng · https://t.me/niaznawab/75 · https://t.me/niaznawab/122
+- ایران تو بمان (ایران ایران) کر بهار و آرش فولادوند (Official) (Qy69rgt) · https://www.youtube.com/watch?v=LvqMT61aNzo
+- Néshâné To -  نشان تو (Q4tztr7) · https://www.youtube.com/watch?v=19OZJfvT21c
+- آن یار می آید (Live) (Qcf7ste) · https://music.apple.com/us/song/%D8%A2%D9%86-%DB%8C%D8%A7%D8%B1-%D9%85%DB%8C-%D8%A2%DB%8C%D8%AF-live/1480349166
+- Tâbé Bànàfshé - تاب بنفشه - (London) (Q4vmggz) · https://www.youtube.com/watch?v=H9KfePD5GYA
+- Baraye Zendegi (Qn53gty) · https://music.apple.com/us/album/baraye-zendegi/1831324055 · https://open.spotify.com/album/6OVtLoY1cx3XlGnYpPwKdC
+- «میخواهم برم کوه - «آرش فولادوند و شارلوت بُتزی (Qeqn36r) · https://www.youtube.com/watch?v=0bpBFYBibiU
+- زنان سرزمینم - کر بهار و آرش فولادوند (Official) (Qy4x783) · https://www.youtube.com/watch?v=aGnsPzVcFOw
+- Hagh (Live) (Qxj2g54) · https://music.apple.com/us/song/hagh-live/1831324058 · https://open.spotify.com/track/5ZDxI453u34xwo8ILXypXD
+- تو بیو (Live) (Qbpp93t) · https://music.apple.com/us/song/%D8%AA%D9%88-%D8%A8%DB%8C%D9%88-live/1480349590
+- Khouné Jàvânané Vàtàn - از خون جوانان وطن لاله دمیده (Qyd39cn) · https://www.youtube.com/watch?v=-7o58ZExpbI
+- Âshéghânéhâ -  عاشقانه‌ها (London) (Q5ddxmd) · https://www.youtube.com/watch?v=yk9yEO5xJfU
+- Bia Bia - بیا بیا (Qbsbrn3) · https://www.youtube.com/watch?v=Y-wa2q_y8BM
+- شکوه اتحاد - آرش فولادوند و گروه کر بهار (Official) (Q8tqg5b) · https://www.youtube.com/watch?v=lpeJs1eT620
+- Jâné Màryàm -  جان مریم (Paris) (Qdpwbhf) · https://www.youtube.com/watch?v=oKoIErWfKSA
+- می زده - سارا حمیدی و آرش فولادوند (Official) (Qqsc9g3) · https://www.youtube.com/watch?v=5-NXwRzewgs
+- مرا ببوس (Live) (Qe36htr) · https://music.apple.com/us/song/%D9%85%D8%B1%D8%A7-%D8%A8%D8%A8%D9%88%D8%B3-live/1480349393
+- Yousof Gom Gashteh - یوسف گم گشته - (London) (Q93v2tz) · https://www.youtube.com/watch?v=E80I1sYTTas
+- Ey Shàrghié Ghàmgin - ای شرقی غمگین (Qqe8mbj) · https://www.youtube.com/watch?v=IbPy53FXNCE
+- Gol Daram Gol (Live) (Qkxy2p3) · https://open.spotify.com/track/2tdfHD5Iptipep3K2yHv6U · https://www.youtube.com/watch?v=uwLMz0B0Jx4
+- Khouné Jàvânané Vàtàn - از خون جوانان وطن لاله دمیده (Qvhby3v) · https://www.youtube.com/watch?v=XbslxL3sbvU
+- غوغای ستارگان - آرش فولادوند و گروه کر بهار (Official) (Q9kpm3c) · https://www.youtube.com/watch?v=2uOJrVGTzhk
+- Ey Iran (Live) (Qtw6e59) · https://open.spotify.com/track/1OrJSerQQocT0R86hh2PhX · https://www.youtube.com/watch?v=ZW3Q4dUxjSo
+- Bâvàr - باور (Qt8bt6s) · https://www.youtube.com/watch?v=auATo2O1xJo
+- جینگه جان - دریا دادور و آرش فولادوند (Official) (Qrhd375) · https://www.youtube.com/watch?v=IhnmpQacMi0
+- ⁠Bouyé Jouyé Moulian (Live) (Qa4e68x) · https://music.apple.com/us/song/bouy%C3%A9-jouy%C3%A9-moulian-live-feat-mahdieh-mohammadkhani/1863470664 · https://open.spotify.com/track/5sVAmBuQtRy5YsDC6xeRlY
+- مرغ سحر - سارا. و آرش فولادوند (Official) (Qwkyrsr) · https://www.youtube.com/watch?v=QAgeBXF-608
+- ⁠Chékidèh Eshgh (Live) (Qfkcae7) · https://music.apple.com/us/song/ch%C3%A9kid%C3%A8h-eshgh-live-feat-mahdieh-mohammadkhani-sina/1863470658 · https://open.spotify.com/track/6JDm8ndS3zYJiMK0gWGoLA
+- Hàgh - حق (Qts482e) · https://www.youtube.com/watch?v=XQkT9rDSO5E
+- Az Khouné Jàvânâné Vàtàn - Arash Fouladvand & Bahar Choir (Q4a8rer) · https://www.youtube.com/watch?v=qZNL6TM0U7g
+- Bémirid Bémirid - بمیرید بمیرید (Paris) (Q42vexc) · https://www.youtube.com/watch?v=0t4D1K_pj0s
+- Didi Ey Dél - دیدی ای دل - (London) (Qw9w5j7) · https://www.youtube.com/watch?v=jEDfOP0YGCk
+- Resid An Shah 2 (Live) (Q97sz5d) · https://music.apple.com/us/song/resid-an-shah-2-live/1778056295 · https://open.spotify.com/track/64jx9oCviNF5sOYwZyvOVH
+- شادی آزادی (Live) (Q8n32fh) · https://music.apple.com/us/song/%D8%B4%D8%A7%D8%AF%DB%8C-%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C-live/1480349586
+- ‏Maulana Balkhi’s Full Concert at UNESCO - Paris 2024 - کنسرت کامل مولانا در یونسکو (Paris) (Qwtgefr) · https://www.youtube.com/watch?v=s7HLIDw5U3A
+- ⁠Dàr Ârézouyé to Bâshàm (Live) (Qbm4gz6) · https://music.apple.com/us/song/d%C3%A0r-%C3%A2r%C3%A9zouy%C3%A9-to-b%C3%A2sh%C3%A0m-live-feat-mahdieh-mohammadkhani/1863470666 · https://open.spotify.com/track/3OOnnWbjXHzXg4D70g7lZG
+- Bavar (Live) (Qz627qc) · https://open.spotify.com/track/2HmMksI4IVtgKuY4WJZ25m · https://www.youtube.com/watch?v=PuKeeFyzfz4
+- Ey Shàrghié Ghàmgin 2 ای شرقی غمگین (Q9xns64) · https://www.youtube.com/watch?v=emzWOhDQ_0g
+- Ân Yâr Miâyàd -آن یار می‌آید (London) (Qc2wrn9) · https://www.youtube.com/watch?v=jLKpietoJ5o
+- Bâvàr - باور (Arash Fouladvand feat Hanieh Ayat & Mehran Behzadmehr) (Qmjx69t) · https://www.youtube.com/watch?v=wG1QNGM14pM
+- Aghrabé Zolfé Kàjét - عقرب زلف کجت - (London) (Qjfv4jg) · https://www.youtube.com/watch?v=oiVREcJBDPk
+- Yousof Gom Gashteh - یوسف گم گشته - (Paris) (Q7hanbt) · https://www.youtube.com/watch?v=gJ-saEebkOU
+- Norouz To Rahe (Live) (Qpv3kgx) · https://open.spotify.com/track/2bzGJnf63Q7Cl7F87fNpgr · https://www.youtube.com/watch?v=-IyJPqhHUDI
+- Golé Sorkh -  گل سرخ (Paris) (Qqsbsht) · https://www.youtube.com/watch?v=Tr4QN45QCNM
+- ای ایران - Ey Iran - آرش فولادوند، گروه کر بهار، وحید تاج، کیوان ساکت (Official) (Qvprrne) · https://www.youtube.com/watch?v=QWSlJp60N9A
+- در آرزوی تو باشم (Live) (Qeym2j7) · https://music.apple.com/us/song/%D8%AF%D8%B1-%D8%A2%D8%B1%D8%B2%D9%88%DB%8C-%D8%AA%D9%88-%D8%A8%D8%A7%D8%B4%D9%85-live/1480349385
+- Shâdi -  شادی (London) (Qep2yhq) · https://www.youtube.com/watch?v=3jRAMYcnqfw
+- Yousofé Gomgàshtéh (Live) (Q6v6zy5) · https://music.apple.com/us/song/yousof%C3%A9-gomg%C3%A0sht%C3%A9h-live-feat-mahdieh-mohammadkhani/1863470660 · https://open.spotify.com/track/2VHKefv6K1P4E9e20fNeEF
+- Simorgh - سیمرغ (Qkg6tz7) · https://www.youtube.com/watch?v=eEgUozwKNn4
+- Eshgh Mara Bar Hamegan Bargozid (Live) (Qy4ndcf) · https://music.apple.com/us/song/eshgh-mara-bar-hamegan-bargozid-live/1778056297 · https://open.spotify.com/track/7dS1gaehmcYRdZ1N7KMc22
+- Neshane To (Live) (Qwmd96n) · https://music.apple.com/us/song/neshane-to-live/1831324056 · https://open.spotify.com/track/5zTev3BpBrocgMenlPcNab
+- Golé Sorkh -  گل سرخ (London) (Qck5csz) · https://www.youtube.com/watch?v=urs7Wnf9Plk
+- Golé Sorkh -  گل سرخ (Q53zftm) · https://www.youtube.com/watch?v=05Hg3Y43454
+- Jane Maryam (Live) (Q7aj39k) · https://music.apple.com/us/song/jane-maryam-live/1778056306 · https://open.spotify.com/track/4UxEjkfGzKeCq7MpGVc3Cz
+- Résid Ân Shàh 1 - رسید آن شه ۱ (London) (Q8hjcv4) · https://www.youtube.com/watch?v=5qu-i3Knwco
+- Eshgh Màrâ Bàr Hàmégân Bàrgozid - عشق مرا بر همگان برگزید (London) (Qsw8ppn) · https://www.youtube.com/watch?v=LeX7H8m8fTs
+- Bia Bia (Live) (Qydvv2z) · https://music.apple.com/us/song/bia-bia-live/1831324060 · https://open.spotify.com/track/1JmunTDCviBIFr1b9Yj0OM
+- Ey Sharghie Ghamgin (Live) (Q7vvq5k) · https://music.apple.com/us/song/ey-sharghie-ghamgin-live/1831324057 · https://open.spotify.com/track/7MKFwcftXizQePUUR0Aa4e
+- Néshâné To - نشان تو (Qtptyxv) · https://www.youtube.com/watch?v=p0dCjn7WKWc
+- Faryade Javdan (Live) [feat. Niaz Nawab & Bahar Choir] (Qgk54aa) · https://music.apple.com/us/song/faryade-javdan-live-feat-niaz-nawab-bahar-choir/1878815102 · https://music.apple.com/us/album/faryade-javdan-live-feat-niaz-nawab-bahar-choir-single/1878815101 · https://open.spotify.com/track/64dXeflOw8FTl4rqHrvRFF · https://open.spotify.com/album/1EjCTEjCJJYeMg0R5JE31c
+- Hàgh - حق (Qf38k6r) · https://www.youtube.com/watch?v=M-Om81LY_x0
+- Bavar (Live) [feat. Hanieh Ayat & Mehran Behzadmehr] (Q6amvwt) · https://music.apple.com/us/song/bavar-live-feat-hanieh-ayat-mehran-behzadmehr/1831324062 · https://open.spotify.com/track/5Fnd7ojcOgNRijT5FqOR5F
+- دیدی ای دل - سارا. و آرش فولادوند (Official) (Qcztd7z) · https://www.youtube.com/watch?v=QQImv7pxeh8
+- Az Khoune Javanan Vatan - "Arash Fouladvand & Bahar Choir ONLINE" (Qzqj6dt) · https://www.youtube.com/watch?v=QaDSlTwfhwE
+- «امشب شب مهتابه / ماه غلام رخ زیبای توست - «آرش فولادوند و لویز توماس (Q58ahd8) · https://www.youtube.com/watch?v=OAL74J5eqDM
+- Tâbé Bànàfshé (Live) (Qr38vkw) · https://music.apple.com/us/song/t%C3%A2b%C3%A9-b%C3%A0n%C3%A0fsh%C3%A9-live-feat-mahdieh-mohammadkhani-mehrnigori/1863470665 · https://open.spotify.com/track/15LztIvyzLcUOmvGB1HpPN
+- Resid An Shah 1 (Live) (Qn9az5x) · https://music.apple.com/us/song/resid-an-shah-1-live/1778056294 · https://open.spotify.com/track/6c0DxAd8MjVhNi4sgoLUus
+- Ye Pariye Naz (Live) (Q6arkct) · https://music.apple.com/us/song/ye-pariye-naz-live/1831324063 · https://open.spotify.com/track/3oM6MT8FcwfgkT8Q8eQsrl
+- Simaye Jan (Live) (Qkt5w5b) · https://open.spotify.com/track/1T88zKCOrxX92fBkJkY6rA
+- آرزوی بزرگ (Live) (Q29sf3z) · https://music.apple.com/us/song/%D8%A2%D8%B1%D8%B2%D9%88%DB%8C-%D8%A8%D8%B2%D8%B1%DA%AF-live/1480349180
+- Omidé Vésâl - امید وصال - (Paris) (Q9cjeac) · https://www.youtube.com/watch?v=kyi04UFBYu0
+- Ey Shàrghié Ghàmgin - ای شرقی غمگین (Qrv5dzk) · https://www.youtube.com/watch?v=aH-HK7H0N-I
+- Omidé Vésâl - امید وصال - (London) (Qqe62jf) · https://www.youtube.com/watch?v=cCSr4O4Uy0s
+- Ey Sharghi Ghàmgin - ای شرقی غمگین (Qxc52s9) · https://www.youtube.com/watch?v=FVpEtU0u31U
+- Ey Pâdéshàhé Khoubân - ای پادشه خوبان - (Paris) (Q5efz4a) · https://www.youtube.com/watch?v=iV7OUob2pFk
+- ⁠Sâz o Âvâz  (Firdavs Hoshimov) (Paris) (Qhzwdg6) · https://www.youtube.com/watch?v=UH6AS-OkvfA
+- Gole Sorkh (Live) (Q4sz785) · https://music.apple.com/us/song/gole-sorkh-live/1778056293 · https://open.spotify.com/track/6q5RsJyYjXKjuEX5VxrBce
+- Aghrabe Zolfe Kaj (Live) (Q2axtem) · https://open.spotify.com/track/3NTuglL5OYV7HqSRfv0GDN · https://www.youtube.com/watch?v=l2sINjOv764
+- Ney Name (Live) (Q4gvxjs) · https://music.apple.com/us/song/ney-name-live/1778056292 · https://open.spotify.com/track/3xpDN87a1nU9yPMXQkelYo
+- Ey Pâdéshàhé Khoubân - ای پادشه خوبان - (London) (Q4b8ydh) · https://www.youtube.com/watch?v=tCZDO4Mp1gQ
+- Shadi - شادی (Qdrs6jp) · https://www.youtube.com/watch?v=LcU3UsJD-0Y
+- Yâr Mobâràk Bâd - یار مبارک بادا - (Paris) (Qgzdtn4) · https://www.youtube.com/watch?v=VksYlqELwUU
+- شکوه اتحاد - آرش فولادوند - The Glorious Unity (Qdbcr7p) · https://www.youtube.com/watch?v=UyqsfZiB-mk
+- شیوه نوشین لبان - آرش فولادوند و نیاز نواب (Official) (Q8fpbyr) · https://www.youtube.com/watch?v=aqTyQxSveiQ
+- Gole Sorkh (Live) (Qy2faa6) · https://music.apple.com/us/song/gole-sorkh-live/1831324061 · https://open.spotify.com/track/0GFlJ1jdHifaXF1G93z4eg
+- بنت الشلبیه (Live) (Qwbjayh) · https://music.apple.com/us/song/%D8%A8%D9%86%D8%AA-%D8%A7%D9%84%D8%B4%D9%84%D8%A8%DB%8C%D9%87-live/1480349386
+- Résid Ân Shàh 2 - رسید آن شه ۲ (London) (Q5nnxnr) · https://www.youtube.com/watch?v=yQjYF69hDGs
+- Golé Sorkh - گل سرخ (Qdg5vzm) · https://www.youtube.com/watch?v=nUm50bBDGW8
+- ⁠Sâz o Âvâz (Sina Sarlak) (Paris) (Qd3hkmc) · https://www.youtube.com/watch?v=aO5Z8SnzqFc
+- Shadi (Live) (Qz9xz4c) · https://music.apple.com/us/song/shadi-live/1778056298 · https://open.spotify.com/track/0AfyEaLIoFecAzEsm7lvVD
+- بهار دلنشین - آرش فولادوند و کر بهار (Official) (Qnfys4r) · https://www.youtube.com/watch?v=liSAHb4DhGY
+- Jâné Màryàm -  جان مریم (London) (Qd6k4g6) · https://www.youtube.com/watch?v=fsK9yZQ0SgI
+- Ey Sharghie Ghamgin (with Bahar Choir) (Q6mqz7s) · https://www.youtube.com/watch?v=-3f0iwEVppg
+- آن یار می آید - آرش فولادوند، وحید تاج و گروه کر بهار (Official) (Qmj9my8) · https://www.youtube.com/watch?v=XFutbwtMxS8
+- Pishdaramad (Live) (Qktpxd2) · https://open.spotify.com/track/6imSv1AShZgUzN1wOQoEKM · https://www.youtube.com/watch?v=cLeZfOCMQOM
+- کوچه لر - دریا دادور و آرش فولادوند (Official) (Q82bsdt) · https://www.youtube.com/watch?v=amnZjll-8Ok
+- Arefaneha (Live) [feat. Mahdieh Mohammadkhani] (Q2mhpx9) · https://music.apple.com/us/album/arefaneha-live-feat-mahdieh-mohammadkhani/1863470656 · https://open.spotify.com/album/1xZ3uLHO79tWaNey6OULq3
+- Résid Ân Shàh - رسید آن شه (Qg8vycv) · https://www.youtube.com/watch?v=w-XG9pLVb7I
+- Bia Bia - بیا بیا (Q6x3dp8) · https://www.youtube.com/watch?v=YVmRfaG8qOg
+- Ân Yâr Miâyàd -آن یار می‌آید (Paris) (Qsfhmjj) · https://www.youtube.com/watch?v=-axiHfaRZdE
+- شادی (Qwrn346) · https://music.apple.com/us/song/%D8%B4%D8%A7%D8%AF%DB%8C/1703870684 · https://music.apple.com/us/album/%D8%B4%D8%A7%D8%AF%DB%8C-single/1703870672 · https://open.spotify.com/track/1cWNmH2S6KRCjoIoDghE9Q · https://open.spotify.com/album/3NuKFhbhRtACxAQTGT8ymD
+- Resid An Shah (Live) (Qm6bqgx) · https://music.apple.com/us/song/resid-an-shah-live/1831324059 · https://open.spotify.com/track/6pYD07PluGZHMQ6XTHm7Aa
+- Eshgh Mara Bar Hamegan Bargozid (Live) (Qx47796) · https://open.spotify.com/track/67GBDFXs9z1y2O6uvFjtw3 · https://www.youtube.com/watch?v=XUT4UwJssW0
+- مادر (Live) (Q8g9d8p) · https://music.apple.com/us/song/%D9%85%D8%A7%D8%AF%D8%B1-live/1480349171
+- Naghshe To (Arash Fouladvand and Sina Tila) (Qn8sn86) · https://t.me/niaznawab/141
+- Aghrabé Zolfé Kàjét - عقرب زلف کجت - (Paris) (Qd9z3nr) · https://www.youtube.com/watch?v=0e2clCTXS5I
+- Omidé Vésâl (Live) (Qegat3x) · https://music.apple.com/us/song/omid%C3%A9-v%C3%A9s%C3%A2l-live-feat-mahdieh-mohammadkhani-mehrnigori/1863470661 · https://open.spotify.com/track/59aP7mr9HBmw8lUpkXO9mt
+- آزادی - آرش فولادوند و دریا دادور (Official) (Q5x5ctg) · https://www.youtube.com/watch?v=20Nu14-mhhw
+- Delyar (Live) (Q5p52fq) · https://music.apple.com/us/song/delyar-live/1778056305 · https://open.spotify.com/track/5YtPnZbOEYWyb0AlPjEfPa
+- آرش فولادوند - بهار دلنشین - ۲۰۱۴ (Qc4wz9e) · https://www.youtube.com/watch?v=2BRuF9F_fcg
+- Hagh (with Bahar Choir) (Qq2tg35) · https://www.youtube.com/watch?v=VgcQVB33iOw
+- افسوس (Live) (Q7qtmh2) · https://music.apple.com/us/song/%D8%A7%D9%81%D8%B3%D9%88%D8%B3-live/1480349580
+- Iran (Live) (Q2ep7vp) · https://open.spotify.com/track/4VzYJCJhJyLnGp24Q3rNBJ · https://www.youtube.com/watch?v=gjECiBxfkuA
+- Official -  باران  - آرش فولادوند، وحید تاج، کیوان ساکت و گروه کر بهار (Qxjknx7) · https://www.youtube.com/watch?v=LlgFuRKrt98
+- Résid Ân Shàh - رسید آن شه (Qpnzatp) · https://www.youtube.com/watch?v=MbjynKI-jKk
+- Voice Of Peace, Voice Of Solidarity (Qstsngc) · https://open.spotify.com/album/7Gvmyi06assVqRapptY9Tr
+- در آرزوی تو باشم - آرش فولادوند، وحید تاج، گروه کر بهار و کیوان ساکت (Official) (Qh77cxm) · https://www.youtube.com/watch?v=PixRWMlqFNo
+- Néy Nâmé -  نی نامه (London) (Qkergv7) · https://www.youtube.com/watch?v=VNLhs6k4KCQ
+- Aghràbé Zolé Kàjet (Live) (Q32mfpv) · https://music.apple.com/us/song/aghr%C3%A0b%C3%A9-zol%C3%A9-k%C3%A0jet-live-feat-mahdieh-mohammadkhani/1863470663 · https://open.spotify.com/track/638XyGnwGBuzDHkqReqhae
+- میخواهم برم کوه - دریا دادور و آرش فولادوند (Official) (Qf5f3p3) · https://www.youtube.com/watch?v=0uRWv-AHW7w
+- بت چین (زیبای چین) - آرش فولادوند، مجید درخشانی، حوروش خلیلی، شاهو عندلیبی و گروه کر بهار (Official) (Qqzce7m) · https://www.youtube.com/watch?v=KQGTbJl82uo
+- یک خانه پرزمستان (Live) (Q6995nx) · https://music.apple.com/us/song/%DB%8C%DA%A9-%D8%AE%D8%A7%D9%86%D9%87-%D9%BE%D8%B1%D8%B2%D9%85%D8%B3%D8%AA%D8%A7%D9%86-live/1480349389
+- «عقرب زلف کجت - «آرش فولادوند و شارلوت بُتزی (Q56yqpd) · https://www.youtube.com/watch?v=1Ide1mirvRg
+- Simorgh - سیمرغ (Qcyn8sd) · https://www.youtube.com/watch?v=Jq7IlAL7Ots
+- Néshâné To - نشان تو (Qfn5jk8) · https://www.youtube.com/watch?v=wvutCp7R2VI
+- بوی جوی مولیان - آرش فولادوند و کر بهار (Official) (Qsf6kzj) · https://www.youtube.com/watch?v=nwsoTyRnO5E
+- Néy Nâmé -  نی نامه (Paris) (Qahpaz4) · https://www.youtube.com/watch?v=sbSCUOTLZBo
+- Asheghane Ha (Live) (Q7xbctx) · https://music.apple.com/us/album/asheghane-ha-live/1778056291 · https://open.spotify.com/album/70K52LbOkBEFQMBBsrx367 · https://www.youtube.com/watch?v=9H5jDcN2cGQ · https://www.youtube.com/watch?v=QJACAfbp4io · https://www.youtube.com/watch?v=kbo_mQiie3s · https://www.youtube.com/watch?v=o5zSt1PczDA
+- Farda Soraghe Man Bia (Live) (Qrfq9cg) · https://open.spotify.com/track/4IjGVSHCPiHgYjK2Kxypei · https://www.youtube.com/watch?v=YDosrn4_64w
+- Official - تو بیو - آرش فولادوند، کیوان ساکت و گروه کر بهار (Qntk37c) · https://www.youtube.com/watch?v=B4ZTbjh70aE
+- Simorgh (Live) (Qarsr5y) · https://music.apple.com/us/song/simorgh-live/1831324064 · https://open.spotify.com/track/7t4eaUhyoiAb28KpukGruN
+- Délyâr -  دلیار (London) (Qqh728w) · https://www.youtube.com/watch?v=OoHO0DsmLEY
+- An Yar Miayad (Live) (Qn9ecyn) · https://music.apple.com/us/song/an-yar-miayad-live/1778056304 · https://open.spotify.com/track/1wfx7SSehjolntRCwgItuB
+- Didi Ey Dél (Live) (Qjkrsb7) · https://music.apple.com/us/song/didi-ey-d%C3%A9l-live-feat-mahdieh-mohammadkhani/1863470662 · https://open.spotify.com/track/7lM1FNfvI78Yvq8Qif956Z
+- سراومد زمستون - Saroumad Zemestoun (Qeq4743) · https://www.youtube.com/watch?v=yDbWPfibfxo
+- دختر بویر احمدی - کر بهار و آرش فولادوند - (Official) (Qj7eyyd) · https://www.youtube.com/watch?v=9OD3ONQVMt8
+- Dàr Ârézouyé To Bâshàm - در آرزوی تو باشم - (London) (Qztkmam) · https://www.youtube.com/watch?v=lveMXos9b0w
+- Odéon (by Arash Fouladvand) (Qgpmv86) · https://www.youtube.com/watch?v=_G8-4EJkcZs
+- Eshgh Màrâ Bàr Hàmégân Bàrgozid - عشق مرا بر همگان برگزید (Paris) (Q2qaked) · https://www.youtube.com/watch?v=gsCRpIjX1A4
+- Yék Parié Nâz -  یک پری ناز (Qhcary7) · https://www.youtube.com/watch?v=JUjN31QBDCw
+- شکوه اتحاد (قسمت دوم) - آرش فولادوند و گروه کر بهار (Official) (Qxzmtgk) · https://www.youtube.com/watch?v=KNwIEc2DTRE
+- Asheghane Ha (Live) (Qsdvmpd) · https://music.apple.com/us/song/asheghane-ha-live/1778056301 · https://open.spotify.com/track/1rmkEwZ7nfCag6tgNglTAW
+- Bahar Choir In London (Voices from a Spring Garden) (Q6jwegp)
+- Tulipes écarlates II: La voix de la paix (Live) (Qt3dgrq) · https://music.apple.com/us/album/%D8%AF%D8%B1-%D8%A2%D8%B1%D8%B2%D9%88%DB%8C-%D8%AA%D9%88-%D8%A8%D8%A7%D8%B4%D9%85-live/1480349161
+- Résid Ân Shàh 2 - رسید آن شه ۲ (Paris) (Qt5cfmb) · https://www.youtube.com/watch?v=9uIKNsXriQI
+- Dàr Ârézouyé To Bâshàm - در آرزوی تو باشم - (Paris) (Q25gsws) · https://www.youtube.com/watch?v=1xd8w4mJp9U
+- راپسودی در چهارگاه (Live) (Qkxy7t8) · https://music.apple.com/us/song/%D8%B1%D8%A7%D9%BE%D8%B3%D9%88%D8%AF%DB%8C-%D8%AF%D8%B1-%DA%86%D9%87%D8%A7%D8%B1%DA%AF%D8%A7%D9%87-live/1480349576
+- Pâdéshàhé Khoubân (Live) (Qvfpfdy) · https://music.apple.com/us/song/p%C3%A2d%C3%A9sh%C3%A0h%C3%A9-khoub%C3%A2n-live-feat-mahdieh-mohammadkhani-sina/1863470668 · https://open.spotify.com/track/6sEEuJdCtH4Wh0L2PmyLQb
+- شادی آزادی - Shâdié Âzadi (Arash Fouladvand, Vahid Taj, Keivan Saket & Houshang Ebtehaj) (Qbcpjrm) · https://www.youtube.com/watch?v=HmbvDOChMcA
+
+- لاله‌های سرخ (Qyb7jf3) is explicitly identified by the conductor in the original Iranian-language credits for Bot-e Chin. https://t.me/ArashFouladvand/540
+
+- راه ابریشم ۲ (Qez4zcx) is explicitly identified by the conductor in the original Iranian-language credits for Zanane Sarzaminam. https://t.me/ArashFouladvand/328

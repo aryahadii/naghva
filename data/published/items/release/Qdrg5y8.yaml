@@ -1,0 +1,82 @@
+id: Qdrg5y8
+type: release
+statements:
+  name:
+  - value:
+      text: Eve
+      language: en
+    references:
+    - source: music.apple.com-us-album-eve-feat-niaz-nawab-maziyar-khavajin-single-1165023298
+      quote: Eve (feat. Niaz Nawab & Maziyar Khavajin)
+      accessed: '2026-11-21'
+      locator: Release track 1
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-eve-feat-niaz-nawab-maziyar-khavajin-single-1165023298
+      quote: Eve (feat. Niaz Nawab & Maziyar Khavajin)
+      accessed: '2026-11-21'
+      locator: Release track 1
+  listen link:
+  - value: https://music.apple.com/us/song/eve-feat-niaz-nawab-maziyar-khavajin/1165023350
+    references:
+    - source: music.apple.com-us-album-eve-feat-niaz-nawab-maziyar-khavajin-single-1165023298
+      quote: https://music.apple.com/us/song/eve-feat-niaz-nawab-maziyar-khavajin/1165023350
+      accessed: '2026-11-21'
+      locator: Exact Apple track
+  - value: https://music.apple.com/us/album/eve-feat-niaz-nawab-maziyar-khavajin-single/1165023298
+    references:
+    - source: music.apple.com-us-album-eve-feat-niaz-nawab-maziyar-khavajin-single-1165023298
+      quote: Eve (feat. Niaz Nawab & Maziyar Khavajin) - Single
+      accessed: '2026-11-21'
+      locator: Native edition title
+  - value: https://open.spotify.com/track/2VnqUcrDCVRA6RFymyPLid
+    references:
+    - source: open.spotify.com-embed-album-3joeotzluhlbplqqagerkq
+      quote: spotify:track:2VnqUcrDCVRA6RFymyPLid
+      accessed: '2026-11-21'
+      locator: Exact Spotify track
+  - value: https://open.spotify.com/album/3joEotZlUHlBplqqAgeRkQ
+    references:
+    - source: open.spotify.com-embed-album-3joeotzluhlbplqqagerkq
+      quote: Eve
+      accessed: '2026-11-21'
+      locator: Single release
+  performer:
+  - value: Q7kapm3
+    references:
+    - source: music.apple.com-us-album-eve-feat-niaz-nawab-maziyar-khavajin-single-1165023298
+      quote: Eve (feat. Niaz Nawab & Maziyar Khavajin)
+      accessed: '2026-11-21'
+      locator: Release track 1
+  - value: Qt7jf3b
+    references:
+    - source: music.apple.com-us-album-eve-feat-niaz-nawab-maziyar-khavajin-single-1165023298
+      quote: Eve (feat. Niaz Nawab & Maziyar Khavajin) - Single
+      accessed: '2026-11-21'
+      locator: Native edition title
+  - value: Qb269ps
+    references:
+    - source: music.apple.com-us-album-eve-feat-niaz-nawab-maziyar-khavajin-single-1165023298
+      quote: Niaz Nawab
+      accessed: '2026-11-21'
+      locator: Artist or guest billing
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/3f/09/85/3f09858f-3afd-640c-ac77-243a776e4357/5057302432522_cover.jpg/1200x630wp-60.jpg
+    qualifiers:
+      credit:
+        text: Apple Music release artwork
+        language: en
+    references:
+    - source: music.apple.com-us-album-eve-feat-niaz-nawab-maziyar-khavajin-single-1165023298
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/3f/09/85/3f09858f-3afd-640c-ac77-243a776e4357/5057302432522_cover.jpg/1200x630wp-60.jpg
+      accessed: '2026-11-21'
+      locator: Release cover
+  release date:
+  - value:
+      date: '2018-02-02'
+    references:
+    - source: music.apple.com-us-album-eve-feat-niaz-nawab-maziyar-khavajin-single-1165023298
+      quote: '2018-02-02'
+      accessed: '2026-11-21'
+      locator: Release date

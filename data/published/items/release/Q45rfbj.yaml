@@ -1,0 +1,47 @@
+id: Q45rfbj
+type: release
+statements:
+  name:
+  - value:
+      text: Gole Sorkh (Live)
+      language: en
+    references:
+    - source: music.apple.com-us-album-malm-c3-b6-live-2014-1134734634
+      quote: Gole Sorkh (Live)
+      accessed: 2026-11-21
+      locator: Album or track heading
+  listen link:
+  - value: https://music.apple.com/us/song/gole-sorkh-live/1134734787
+    references:
+    - source: music.apple.com-us-album-malm-c3-b6-live-2014-1134734634
+      quote: Gole Sorkh (Live)
+      accessed: 2026-11-21
+      locator: Album or track heading
+  - value: https://open.spotify.com/track/2DJUvrVPASQDdIZHCtoJmA
+    references:
+    - source: open.spotify.com-album-2odjqyrwsotbvcy2s4jarv
+      quote: Gole Sorkh (Live)
+      accessed: 2026-11-21
+      locator: Native recording title
+  release date:
+  - value:
+      date: '2016-06-01'
+    references:
+    - source: music.apple.com-us-album-malm-c3-b6-live-2014-1134734634
+      quote: '2016-06-01'
+      accessed: 2026-11-21
+      locator: Digital publication date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music20/v4/f7/33/03/f73303c2-3b4e-1ece-1f5f-2d767c0fae5d/888295454377.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-malm-c3-b6-live-2014-1134734634
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music20/v4/f7/33/03/f73303c2-3b4e-1ece-1f5f-2d767c0fae5d/888295454377.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Native artwork
+  performer:
+  - value: Qxyr3j2
+    references:
+    - source: music.apple.com-us-album-malm-c3-b6-live-2014-1134734634
+      quote: Darya Dadvar
+      accessed: 2026-11-21
+      locator: Edition artist

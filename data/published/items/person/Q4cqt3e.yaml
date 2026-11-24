@@ -1,0 +1,57 @@
+id: Q4cqt3e
+type: person
+statements:
+  name:
+  - value:
+      text: Adrienne Shamszad
+      language: en
+    references:
+    - source: adrienneshamszad.com-about
+      quote: Adrienne Shamszad
+      accessed: 2026-11-21
+      locator: Artist name
+  - value:
+      text: آدرین شمس‌زاد
+      language: fa
+    references:
+    - source: adrienneshamszad.com-about
+      quote: Adrienne Shamszad
+      accessed: 2026-11-21
+      locator: Artist name
+    editorial: true
+  image:
+  - value: https://adrienneshamszad.com/wp-content/uploads/2022/05/dsc4494.jpeg
+    qualifiers:
+      credit:
+        text: Roshi Littlelight Photography
+        language: en
+    references:
+    - source: adrienneshamszad.com-about
+      quote: https://adrienneshamszad.com/wp-content/uploads/2022/05/dsc4494.jpeg
+      accessed: 2026-11-21
+      locator: Artist’s portrait
+  profile link:
+  - value: https://music.apple.com/us/artist/adrienne-shamszad/413023242
+    references:
+    - source: music.apple.com-us-artist-adrienne-shamszad-413023242
+      quote: Adrienne Shamszad
+      accessed: 2026-11-21
+      locator: Artist profile
+  - value: https://adrienneshamszad.bandcamp.com
+    references:
+    - source: adrienneshamszad.bandcamp.com-music
+      quote: Adrienne Shamszad
+      accessed: 2026-11-21
+      locator: Artist profile
+  - value: https://www.youtube.com/channel/UCHorvw4yIKaqUvBmwB-tC3A
+    references:
+    - source: www.youtube.com-channel-uchorvw4yikaquvbmwb-tc3a
+      quote: Adrienne Shamszad
+      accessed: 2026-11-21
+      locator: Official artist channel
+  - value: https://open.spotify.com/artist/5aIWNyQhH7GELkGMLDOZ3k
+    references:
+    - source: open.spotify.com-artist-5aiwnyqhh7gelkgmldoz3k
+      quote: Adrienne Shamszad
+      accessed: 2026-11-21
+      locator: Native profile

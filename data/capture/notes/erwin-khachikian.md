@@ -1,0 +1,121 @@
+# Erwin Khachikian
+
+The individual and Karmandan have separate identities. Matched the personal Apple and Spotify accounts, all 49 uploads on the co-billed YouTube channel, and both galleries on his own website. The early SoundCloud profile linked by the 2018 interviewer now returns 404. The two Ghomeshi albums carry album-level production and arranging credits. The original Slow Motion Reign retailer identifies the keyboardist. Album-level credits without track-level billing are kept on the albums. Louna’s Russian and English versions have separate records, as do the two identified North American concert settings and the Vancouver acoustic duet. Input from the actual video credits distinguished a visual-production role on Insomnia from its sound designers, and band touring from orchestral recording.
+
+- Afyoon (Qdkka45) · https://music.apple.com/us/song/afyoon/6829077134 · https://music.apple.com/us/album/afyoon-single/6829077133 · https://open.spotify.com/track/4dnRm9t87bcLRrLaKojkFb · https://open.spotify.com/album/5xKKoQdsrgzHltjBxunAL7
+- Ghesse E Zirzamin (Q9nhbcr) · https://music.apple.com/us/album/ghesse-e-zirzamin-feat-erwin-khachikian-arad-aria-arian/1605485928 · https://music.apple.com/us/song/ghesse-e-zirzamin-feat-erwin-khachikian-arad-aria-arian/1605485929 · https://open.spotify.com/track/5h7GoEbvQPgdu54ZDCLo7h · https://open.spotify.com/album/21pTG0HYOkXbRTU8qtbxzQ
+- Charkhidim (Qctt5wd) · https://music.apple.com/us/song/charkhidim-feat-niaz-nawab/1445382856 · https://music.apple.com/us/album/charkhidim-feat-niaz-nawab/1445382855 · https://music.apple.com/us/song/charkhidim/1455191042 · https://open.spotify.com/track/6yI3TUVaTVG1q7NgXhnRWh · https://open.spotify.com/album/5tnz8L54Z8hG6UAZGK9JeD · https://open.spotify.com/track/79TpV2iJ3hLjSkNrFbxNHx · https://www.youtube.com/watch?v=QCrg2DH13OA
+- Gozargah (Qvcc2gy) · https://music.apple.com/us/album/gozargah/1350948051 · https://open.spotify.com/album/6H1glHj5Q8W9XqLeFhfm9Z
+- Gozargah (Qwmg72g) · https://music.apple.com/us/song/gozargah/1350948056 · https://open.spotify.com/track/5TYG4qGsfqqSM3sVJdQEWU · https://www.youtube.com/watch?v=jysLXDvnW1E
+- Dobareh (Qjgrttt) · https://music.apple.com/us/song/dobareh/1350948057 · https://open.spotify.com/track/7LFcZwroRGEWXutCjbqg07 · https://www.youtube.com/watch?v=P7bAYJ-UJVs
+- Engar (Gozargah) (Qfmydwy) · https://music.apple.com/us/song/engar/1350948058 · https://open.spotify.com/track/36AsPpMlVP4q3ZZTsEqWav
+- Piano (Qmtebtq) · https://music.apple.com/us/song/piano/1350948059 · https://open.spotify.com/track/7B5srg6NGzmv7y0Y7WpqoW · https://www.youtube.com/watch?v=-jU4-izb2DM · https://www.youtube.com/watch?v=6HbPgjZsoKs
+- Baroon (Qfybn54) · https://music.apple.com/us/song/baroon/1350948060 · https://open.spotify.com/track/4vUubFtPxaFmmtnmbTvO7P · https://music.apple.com/us/song/baroon/1256790111 · https://open.spotify.com/track/4InW2SKtIPyC2M1MGNYTTS · https://music.apple.com/us/album/baroon-single/1256790108 · https://open.spotify.com/album/4is5z5FpnvGwsCoXXy35Ru · https://soundcloud.com/karmandan/baroon · https://www.youtube.com/watch?v=G8pL44SSsoI
+- Maghze Por Jib Khali (Q4ffgep) · https://music.apple.com/us/song/maghze-por-jib-khali/1350948061 · https://open.spotify.com/track/7lLorOH4zHecSkWLa34XRf
+- Baroon (Down Tempo) (Qrhz9s6) · https://music.apple.com/us/song/baroon-down-tempo/1350948062 · https://open.spotify.com/track/24QkIeiNvitFCzryAVj7CT
+- Razi Nemisham (Qj7kv97) · https://music.apple.com/us/song/razi-nemisham/1350948063 · https://open.spotify.com/track/6rski02DiaQmwOZDJUnUwG
+- Bridge (Qd5fvg5) · https://music.apple.com/us/song/bridge/1350948064 · https://open.spotify.com/track/5lQ2zDdGY3Z14rn7wlb1x1
+- Сделай громче! (Qre4beh) · https://music.apple.com/us/album/%D0%B2%D0%BE-%D0%BC%D0%BD%D0%B5-feat-erwin-khachikian/1683866905
+- Во мне (Q658f76) · https://music.apple.com/us/song/%D0%B2%D0%BE-%D0%BC%D0%BD%D0%B5-feat-erwin-khachikian/1683867962 · https://www.youtube.com/watch?v=DkRC1bGb134
+- Terminal 1 (Q7t6sct) · https://music.apple.com/us/album/badeh/1455191037 · https://open.spotify.com/album/5ULR2wOwSBDUTSEfYlYVBg
+- Rafto Gozasht (Q5dcc4e) · https://music.apple.com/us/song/rafto-gozasht/1455191038 · https://open.spotify.com/track/0rlFrgeIRhpdyw0Zt5YB1a
+- Darya (Qqxq477) · https://music.apple.com/us/song/darya/1455191039 · https://open.spotify.com/track/65tZWCBFLNDFzQi8rtgd3B
+- Maghze Por Jib Khali (Terminal 1) (Qgsqy49) · https://music.apple.com/us/song/maghze-por-jib-khali/1455191040 · https://open.spotify.com/track/6mVdi76mRrJbqM1Uu50TI6
+- Badeh (Qmbshan) · https://music.apple.com/us/song/badeh/1455191041 · https://open.spotify.com/track/13Di5P7zSFY575yO9NbGGJ
+- Adame Tanha (Qvmvk2z) · https://music.apple.com/us/song/adame-tanha/1603928221 · https://music.apple.com/us/album/adame-tanha/1603928220 · https://open.spotify.com/track/2NILVkYl5dtwxxr1DMmI1I · https://open.spotify.com/album/6GwvzXe1n9JtiJ1Q0c6INb · https://www.youtube.com/watch?v=y6gWov0u5Vk
+- Adamak (Qpb9xgc) · https://www.youtube.com/watch?v=SxPY8pDoPEs · https://music.apple.com/us/song/adamak/1726637901 · https://music.apple.com/us/album/adamak-single/1726637900 · https://open.spotify.com/track/3Pemr4ZnnqbRjwHh2hbkQo · https://open.spotify.com/album/0fZKaVVlSwD3SVaEl6ekd7
+- Avazeh Khan Nah Avaz (Q8tyst8) · https://music.apple.com/us/song/avazeh-khan-nah-avaz/1554640291 · https://music.apple.com/us/album/avazeh-khan-nah-avaz/1554640290
+- Khandeye Azadi (Qwn9jr9) · https://music.apple.com/us/song/khandeye-azadi/6795705695 · https://music.apple.com/us/album/khandeye-azadi-single/6795705692 · https://open.spotify.com/track/1SAfFCvB8hfdmSv6IsEoTO · https://open.spotify.com/album/5oCIIN9kzjvdVOSzR6liDs
+- Arezoo Daram (Qp95bta) · https://music.apple.com/us/song/arezoo-daram-feat-saro-khachikian/1850843577 · https://music.apple.com/us/album/arezoo-daram-feat-saro-khachikian-single/1850843575 · https://open.spotify.com/track/1acjOavH7OCj5udbySqZyA · https://open.spotify.com/album/6bP71cmhEAUeNsuQHzHgp2
+- Sang (Qx3ndkw) · https://music.apple.com/us/song/sang/1823208758 · https://music.apple.com/us/album/sang-single/1823208757 · https://open.spotify.com/track/2rHdTATq2JREsuXzY0qiWS · https://open.spotify.com/album/6z19FAsI6NT9rFJRTOD9ZD
+- Hezbe Bad (Q6qgmpm) · https://music.apple.com/us/song/hezbe-bad-feat-pouya-mahmoodi/1779378453 · https://music.apple.com/us/album/hezbe-bad-feat-pouya-mahmoodi-single/1779378452 · https://open.spotify.com/track/1lRDtcZSApOCE5OtG2PmSZ · https://open.spotify.com/album/7aha3P88gy1RNhIAJrIT7B
+- Delam Khast (Qep7ka9) · https://music.apple.com/us/song/delam-khast/1720459627 · https://music.apple.com/us/album/delam-khast-single/1720459626 · https://open.spotify.com/track/4wMY8z7zC7DbxNiW2kn1mM · https://open.spotify.com/album/28esVK7yt51kpbtgWzIMEg
+- Slow Motion Reign (Qkckezg) · https://music.apple.com/us/album/slow-motion-reign/166537925
+- Rock On (Original Motion Picture Soundtrack) (Qh4abrk) · https://music.apple.com/us/album/gheseye-zirzamin-feat-y-a-s/404218373 · https://open.spotify.com/album/2SzIVDO7xRRoJFghuusJq3
+- Gheseye Zirzamin (Qg2aw3x) · https://music.apple.com/us/song/gheseye-zirzamin-feat-y-a-s/404218387 · https://open.spotify.com/track/2IRWZz9wIOiHFvdGQFaC3k
+- Nardeboon (Q7jptkd) · https://music.apple.com/us/song/nardeboon/401059028 · https://open.spotify.com/track/2EbFrnDbWUFOCKJvQDc4h1 · https://music.apple.com/us/song/nardeboon/404218392 · https://open.spotify.com/track/37lDK2Gq7wQsR0BhqZ4p3B
+- Live In Edmonton (Qkh92vs) · https://music.apple.com/us/album/live-in-edmonton/1597063200
+- Tankian: Orca Symphony No. 1 (Qwv37p7) · https://music.apple.com/us/album/tankian-orca-symphony-no-1/636384628
+- Behind a Mask (Q3tpxs3) · https://music.apple.com/us/album/behind-a-mask/1095757201
+- Inside (Qynex7p) · https://music.apple.com/us/song/inside/1095757883
+- Range Farda (Qck2zae) · https://open.spotify.com/track/4TG5frOMaT7daBqAiTd8IC · https://open.spotify.com/album/0JJcMo3TVWSHSQP91yeNN6
+- Jahane Man (Qpe4pdd) · https://open.spotify.com/track/4iRCvaLkLHfiKx23JqXEb6 · https://open.spotify.com/album/5cR3z2zoeRNPJEfrA1xkNa · https://www.youtube.com/watch?v=dABQAQ7pIO8
+- Insomnia (Qnaj7h7) · https://www.youtube.com/watch?v=BedRh9OZ9v4
+- From Eastern Lands (Live in Los Angeles) (Q4whwsx) · https://www.youtube.com/watch?v=HP8z_ZXcRsQ
+- Jahane Man (Live in Vancouver) (Qr34bn7) · https://www.youtube.com/watch?v=5YWmJnG_fxs
+- Beethoven (Live at CSUN) (Qnzfz4r) · https://www.youtube.com/watch?v=bGXIKZYKF-4
+- Gate 21 (Live at CSUN) (Qqgdpm5) · https://www.youtube.com/watch?v=ptiuCFXkpds
+- Avazeh Khan (Live at Chaharshanbeh Souri) (Qk6dq4p) · https://www.youtube.com/watch?v=sQEB7Et1l4w
+- Rangahang (Live with Karmandan) (Qb62zxw) · https://www.youtube.com/watch?v=3HvdUnHwrXs
+- Baroon (Live, February 2019) (Qng8vtc) · https://www.youtube.com/watch?v=N69chePy6ds
+- Baraye (Qn3erx5) · https://www.youtube.com/watch?v=Snv3GSIGUYM
+- Dasht (Qdsecpq) · https://www.youtube.com/watch?v=fQ4aEkoUwU8
+- Mozart to Delkash (Q6znpsz) · https://www.youtube.com/watch?v=JHHILS6Pueg
+- Parvaz (Qr8zkft) · https://www.youtube.com/watch?v=8mhnKu7CuDA
+- Divoone Khoone (Qwdpvct) · https://www.youtube.com/watch?v=bRFufnM3cyo
+- Donbale Ye Rah (Q6t2npj) · https://www.youtube.com/watch?v=iQ6UFRI5z70
+- Vancouver Medley with Niaz Nawab and Rana Farhan (Q45ammw) · https://www.youtube.com/watch?v=eXXXY5odFXU
+- Dobareh (Live in Vancouver) (Q8wycpx) · https://www.youtube.com/watch?v=kvwMbkbfXf0
+- Eldfesten (Stockholm Highlights) (Q6ahym3) · https://www.youtube.com/watch?v=8YklqjL5hgo
+- Garun Garune (Live) (Q6ptesp) · https://www.youtube.com/watch?v=RPA6BkzaDgI
+- Rafto Gozasht (Live at Manoto) (Q2r84er) · https://www.youtube.com/watch?v=wAfYeUSCcMY
+- Darya (Rock) (Qvz736e) · https://www.youtube.com/watch?v=jgwC46SpijU
+- Badeh (Live Duet) (Q7bfhwk) · https://www.youtube.com/watch?v=teB2Z-JLmUk
+- Baroon (Ali Mohtashami Club Remix) (Qpmsjv9) · https://www.youtube.com/watch?v=6s_i4k4JeTE
+- Maghze Por Jib Khali (Live in Yerevan) (Q3fxn8n) · https://www.youtube.com/watch?v=FJRb4pXHZ1k
+- Maia (Do Re Mi), Live in Yerevan (Qpz4xjk) · https://www.youtube.com/watch?v=eM_BC1u1pqE
+- Baroon (Live in Armenia) (Qvpspdc) · https://www.youtube.com/watch?v=IM_BnEfV19k
+- Engar (Live in Armenia) (Qdx6fr7) · https://www.youtube.com/watch?v=W9u6V3l7t1Y
+- Yeraz (Live at the Puppet Theater) (Q9y8gdp) · https://www.youtube.com/watch?v=qchul9dFxgs
+- Mano Donya (Live at El Rey) (Qwkyc4g) · https://www.youtube.com/watch?v=nvZgESszPFs
+- Ghayegh o Nameh Acoustic in Tehran (Qder54z) · https://soundcloud.com/karmandan/ghayegh-o-nameh-acoustic-in-tehran · https://www.youtube.com/watch?v=8zu-ItgPzwc
+- Mano Donya (Live in Tehran) (Qfsxbt7) · https://www.youtube.com/watch?v=KQiZRHrCTPI
+- LAM O BE (Qr34zm9) · https://soundcloud.com/karmandan/lam-o-be · https://www.youtube.com/watch?v=uZuSn9JU-cE
+- Mano Donya (Qqhdynn) · https://music.apple.com/us/song/mano-donya-feat-rana-mansour/1035287391 · https://open.spotify.com/track/6MsMKCHL9koos7UF2ccX66 · https://music.apple.com/us/album/mano-donya-feat-rana-mansour-single/1035287387 · https://open.spotify.com/album/4rzIVzmDSMdhaIwvxDlEjt · https://soundcloud.com/karmandan/mano-donya-ft-rana-mansour · https://www.youtube.com/watch?v=5biFFaGr9Yk
+- Karmandan Live in Armenia Featuring Zara Gevorgyan (Qvaswym) · https://www.youtube.com/watch?v=86XY6Ln4Gug
+- Sometime (BBC Session) (Qn2zfct) · https://www.youtube.com/watch?v=9iMy092aW0o
+- Ghayegh o Nameh (Live on BBC Kook) (Qwch6zn) · https://www.youtube.com/watch?v=yY8JzzVaef8
+- Mozahem (Qdjq9jp) · https://music.apple.com/us/song/mozahem/401059025 · https://open.spotify.com/track/2OduejIh3zw6kPuCDnvG3U · https://www.youtube.com/watch?v=XMoSb8esDtQ
+- Money (BBC Kook Jam) (Q23px28) · https://www.youtube.com/watch?v=bNMMl7JE6Us
+- Khosh Hesab (Live at the Roxy) (Q8mrvwm) · https://www.youtube.com/watch?v=7s-jqrYUrvE
+- Pelastiki (Qx878se) · https://music.apple.com/us/song/pelastiki/401059039 · https://open.spotify.com/track/1cJx2XGDwgKkWfC5V9q95p · https://www.youtube.com/watch?v=OE8evzgTF08
+- Nardeboon (Live on BBC Kook) (Qpnnyp8) · https://www.youtube.com/watch?v=h_TSK3f68tI
+- Khosh Hesab (Qytmmkc) · https://music.apple.com/us/song/khosh-hesab/401059027 · https://open.spotify.com/track/7eFJQZ0oz1pSX6m1W9KVSp · https://soundcloud.com/karmandan/khosh-hesab · https://www.youtube.com/watch?v=yol5lPFsI9o
+- Ghayegh o Nameh (Qcjqnty) · https://music.apple.com/us/song/ghayegh-o-nameh/401059026 · https://open.spotify.com/track/5iSW9XYGSc9JdfllySyDdN · https://soundcloud.com/karmandan/ghayegh-o-nameh · https://www.youtube.com/watch?v=f69YeqFvBVs
+- Namayesh (Qxz62gw) · https://music.apple.com/us/song/namayesh/401059035 · https://open.spotify.com/track/5R4JdfGsPOWoPxmUjNlsbx · https://www.youtube.com/watch?v=MY1atoHW5Jw
+
+Range Farda · https://music.apple.com/us/song/range-farda/1702749259
+
+Jahane Man · https://music.apple.com/us/song/jahane-man/1517655858
+
+The contemporary group interview distinguishes the Slow Motion Reign EP from its July 2006 album. The archived 2008 Canadian and Leeds concert albums and the two MySpace List performances have separate links and editions. Farhang’s stage report credits the producer and musical director, and its song film credits him as producer.
+
+- Empty Walls (Live) (Leeds) · https://music.apple.com/us/song/empty-walls-live/1615495322
+- Feed Us (Live) (Leeds) · https://music.apple.com/us/song/feed-us-live/1615495323
+- Lie Lie Lie (feat. Kitty Whately) [Live] (Leeds) · https://music.apple.com/us/song/lie-lie-lie-feat-kitty-whately-live/1615495324
+- Saving Us (Live) (Leeds) · https://music.apple.com/us/song/saving-us-live/1615495325
+- Baby (Live) (Leeds) · https://music.apple.com/us/song/baby-live/1615495386
+- Sky Is Over (Live) (Leeds) · https://music.apple.com/us/song/sky-is-over-live/1615495387
+- Praise the Lord and Pass the Ammunition (Live) (Leeds) · https://music.apple.com/us/song/praise-the-lord-and-pass-the-ammunition-live/1615495388
+- Jam (Live) (Leeds) · https://music.apple.com/us/song/jam-live/1615495389
+- Honking Antelope (Live) (Leeds) · https://music.apple.com/us/song/honking-antelope-live/1615495390
+- Beethoven's C**t (Live) (Leeds) · https://music.apple.com/us/song/beethovens-c-t-live/1615495391
+- The Unthinking Majority (Live) (Leeds) · https://music.apple.com/us/song/the-unthinking-majority-live/1615495392
+- Sounds of War (Live) (Edmonton) · https://music.apple.com/us/song/sounds-of-war-live/1597063201
+- Empty Walls (Live) (Edmonton) · https://music.apple.com/us/song/empty-walls-live/1597063202
+- Feed Us (Live) (Edmonton) · https://music.apple.com/us/song/feed-us-live/1597063203
+- Lie Lie Lie (Live) (Edmonton) · https://music.apple.com/us/song/lie-lie-lie-live/1597063204
+- Saving Us (Live) (Edmonton) · https://music.apple.com/us/song/saving-us-live/1597063326
+- Baby (Live) (Edmonton) · https://music.apple.com/us/song/baby-live/1597063327
+- Sky Is Over (Live) (Edmonton) · https://music.apple.com/us/song/sky-is-over-live/1597063328
+- Praise the Lord and Pass the Ammunition (Live) (Edmonton) · https://music.apple.com/us/song/praise-the-lord-and-pass-the-ammunition-live/1597063329
+- Charades (Live) (Edmonton) · https://music.apple.com/us/song/charades-live/1597063330
+- Honking Antelope (Live) (Edmonton) · https://music.apple.com/us/song/honking-antelope-live/1597063331
+- Holiday In Cambodia (Live) (Edmonton) · https://music.apple.com/us/song/holiday-in-cambodia-live/1597063332
+- Beethoven's C**t (Live) (Edmonton) · https://music.apple.com/us/song/beethovens-c-t-live/1597063333
+- The Unthinking Majority (Live) (Edmonton) · https://music.apple.com/us/song/the-unthinking-majority-live/1597063335
+- Elect the Dead (Live) (Edmonton) · https://music.apple.com/us/song/elect-the-dead-live/1597063336
+- Lie Lie Lie (Live from Myspace's "the List") · https://music.apple.com/us/song/lie-lie-lie-live-from-myspaces-the-list/1349401481
+- The Unthinking Majority (Live from Myspace's "the List") · https://music.apple.com/us/song/the-unthinking-majority-live-from-myspaces-the-list/1349401485
+- Sharghiye Ghamgin (Live at the Alex Theatre) · https://www.youtube.com/watch?v=zXVL__GoYvA
+- Zan: Voices of Freedom (Concert Report) · https://www.youtube.com/watch?v=xfovXDJEa8M

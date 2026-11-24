@@ -1,0 +1,70 @@
+id: Qgfje4s
+type: release
+statements:
+  name:
+  - value:
+      text: Oomadam
+      language: en
+    references:
+    - source: music.apple.com-us-album-oomadam-single-1134514982uo-4
+      quote: Oomadam
+      locator: Original group issue, artist identity or exact streaming edition
+      accessed: '2026-11-21'
+  performer:
+  - value: Qstq3nj
+    references:
+    - source: music.apple.com-us-album-oomadam-single-1134514982uo-4
+      quote: Ajam
+      locator: Original group issue, artist identity or exact streaming edition
+      accessed: '2026-11-21'
+  release date:
+  - value:
+      date: '2013-02-22'
+    references:
+    - source: music.apple.com-us-album-oomadam-single-1134514982uo-4
+      quote: '2013-02-22'
+      locator: Original group issue, artist identity or exact streaming edition
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music18/v4/de/77/b4/de77b448-441f-95b6-6167-cffa08b66872/190394689902.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-oomadam-single-1134514982uo-4
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music18/v4/de/77/b4/de77b448-441f-95b6-6167-cffa08b66872/190394689902.jpg/1200x630bb.jpg
+      locator: Original group issue, artist identity or exact streaming edition
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Ajam · Oomadam - Single
+        language: en
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-oomadam-single-1134514982uo-4
+      quote: Oomadam
+      locator: Original group issue, artist identity or exact streaming edition
+      accessed: '2026-11-21'
+  listen link:
+  - value: https://open.spotify.com/track/4d4uwyGRGgtZwcvjhWpZV9
+    references:
+    - source: open.spotify.com-embed-album-3cafh3xldaaoyrlvqwfwxg
+      quote: Oomadam
+      locator: Original group issue, artist identity or exact streaming edition
+      accessed: '2026-11-21'
+  - value: https://music.apple.com/us/song/oomadam/1134514988
+    references:
+    - source: music.apple.com-us-album-oomadam-single-1134514982uo-4
+      quote: Oomadam
+      locator: Original group issue, artist identity or exact streaming edition
+      accessed: '2026-11-21'
+  - value: https://www.youtube.com/watch?v=JmdekB45wcc
+    references:
+    - source: www.youtube.com-oembed-jmdekb45wcc
+      quote: Ajam - Oomadam (Official Music Video) / عجم - اومدم
+      locator: Original band, named recording or film credit
+      accessed: '2026-11-21'
+  - value: https://soundcloud.com/ajamband/oomadam
+    references:
+    - source: soundcloud.com-ajamband-oomadam
+      quote: Ajam - Oomadam / عجم - اومدم
+      locator: Original band, named recording or film credit
+      accessed: '2026-11-21'

@@ -16,3 +16,27 @@ status: processed
 > Iranian Female Voice Festival - Berlin 2017 (1) [feat. Haleh Seyfizadeh] [Live]
 
 > https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ea/69/f6/ea69f6af-84c5-1731-095b-4e9b98e1477c/4062994982584_cover.jpg/296x296bb.webp
+
+> Iranian Female Voice Festival - Berlin 2017 · Ali Ghamsari · 2020-12-02
+
+Native issue credits, read 2026-11-21.
+
+> Iranian Female Voice Festival - Berlin 2017 (2) [feat. Haleh Seyfizadeh] [Live]
+
+Track 2, read 2026-11-21.
+
+> Iranian Female Voice Festival - Berlin 2017 (3) [feat. Haleh Seyfizadeh] [Live]
+
+Track 3, read 2026-11-21.
+
+> Iranian Female Voice Festival - Berlin 2017 (4) [feat. Haleh Seyfizadeh] [Live]
+
+Track 4, read 2026-11-21.
+
+> Iranian Female Voice Festival - Berlin 2017 (5) [Live]
+
+Track 5, read 2026-11-21.
+
+> Iranian Female Voice Festival - Berlin 2017 (Raghib) [feat. Haleh Seyfizadeh] [Live]
+
+Track 6, read 2026-11-21.

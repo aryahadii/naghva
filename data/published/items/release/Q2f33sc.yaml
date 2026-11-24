@@ -1,0 +1,54 @@
+id: Q2f33sc
+type: release
+statements:
+  name:
+  - value:
+      text: Hameh
+      language: en
+    references:
+    - source: music.apple.com-us-album-hameh-213543607
+      quote: Hameh · Abjeez
+      accessed: 2026-11-21
+      locator: Album title and artist on Apple Music
+  performer:
+  - value: Qny2s3x
+    references:
+    - source: music.apple.com-us-album-hameh-213543607
+      quote: Hameh · Abjeez
+      accessed: 2026-11-21
+      locator: Album title and artist on Apple Music
+  listen link:
+  - value: https://music.apple.com/us/album/hameh/213543607
+    references:
+    - source: music.apple.com-us-album-hameh-213543607
+      quote: Hameh · Abjeez
+      accessed: 2026-11-21
+      locator: Album title and artist on Apple Music
+  - value: https://open.spotify.com/album/4xLTiqyV39XGAGaWEdqTpi
+    references:
+    - source: open.spotify.com-album-4xltiqyv39xgagawedqtpi
+      quote: Hameh
+      accessed: 2026-11-21
+      locator: Album heading
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music/92/e7/38/mzi.qexlxaue.tif/600x600bb-60.jpg
+    references:
+    - source: music.apple.com-us-album-hameh-213543607
+      quote: Hameh · Abjeez
+      accessed: 2026-11-21
+      locator: Album title and artist on Apple Music
+  release date:
+  - value:
+      date: '2007-01-22'
+    references:
+    - source: music.apple.com-us-album-hameh-213543607
+      quote: '2007-01-22'
+      accessed: 2026-11-21
+      locator: MusicAlbum datePublished
+  release type:
+  - value: album
+    references:
+    - source: music.apple.com-us-album-hameh-213543607
+      quote: Hameh · Abjeez
+      accessed: 2026-11-21
+      locator: Album title and artist on Apple Music

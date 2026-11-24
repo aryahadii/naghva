@@ -1,0 +1,47 @@
+id: Qnaj7h7
+type: release
+statements:
+  name:
+  - value:
+      text: Insomnia
+      language: en
+    references:
+    - source: www.youtube.com-watch-v-bedrh9oz9v4
+      quote: Insomnia (Music Video)
+      accessed: '2026-11-21'
+      locator: Original video
+  listen link:
+  - value: https://www.youtube.com/watch?v=BedRh9OZ9v4
+    references:
+    - source: www.youtube.com-watch-v-bedrh9oz9v4
+      quote: Insomnia (Music Video)
+      accessed: '2026-11-21'
+      locator: Original video
+  contributor:
+  - value: Qy88zyz
+    qualifiers:
+      role: producer
+    references:
+    - source: www.youtube.com-watch-v-bedrh9oz9v4
+      quote: 'Collaborative Producer: Erwin Khachikian'
+      accessed: '2026-11-21'
+      locator: Artist and film credits
+  release date:
+  - value:
+      date: '2025-10-12'
+    references:
+    - source: www.youtube.com-watch-v-bedrh9oz9v4
+      quote: '2025-10-12'
+      accessed: '2026-11-21'
+      locator: Original video date
+  cover art:
+  - value: https://i.ytimg.com/vi/BedRh9OZ9v4/maxresdefault.jpg
+    qualifiers:
+      credit:
+        text: Safarani Sisters
+        language: en
+    references:
+    - source: www.youtube.com-watch-v-bedrh9oz9v4
+      quote: https://i.ytimg.com/vi/BedRh9OZ9v4/maxresdefault.jpg
+      accessed: '2026-11-21'
+      locator: Official or featured video image

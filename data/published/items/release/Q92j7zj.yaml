@@ -1,0 +1,75 @@
+id: Q92j7zj
+type: release
+statements:
+  name:
+  - value:
+      text: Shekast
+      language: en
+    references:
+    - source: music.apple.com-us-album-chashmandaaze-rooydaad-1638843801
+      quote: Shekast
+      accessed: 2026-11-21
+      locator: Track title and credits
+  listen link:
+  - value: https://music.apple.com/us/song/shekast/1638843807
+    references:
+    - source: music.apple.com-us-album-chashmandaaze-rooydaad-1638843801
+      quote: Shekast
+      accessed: 2026-11-21
+      locator: Track title and credits
+  - value: https://open.spotify.com/track/29zPtltbOcQOqtsX80s9lb
+    references:
+    - source: open.spotify.com-album-13kgfn8qdkdqtbuut0xzju
+      quote: Aida Shahghasemi
+      accessed: 2026-11-21
+      locator: Spotify native track billing
+  - value: https://aidashahghasemi.bandcamp.com/track/shekast
+    references:
+    - source: aidashahghasemi.bandcamp.com-album-chashmandaaze-rooydaad
+      quote: Shekast
+      accessed: 2026-11-21
+      locator: Original track list
+  - value: https://soundcloud.com/aidashahghasemi/shekast-1
+    references:
+    - source: soundcloud.com-aidashahghasemi-shekast-1
+      quote: Shekast
+      accessed: 2026-11-21
+      locator: Artist upload title
+  release date:
+  - value:
+      date: '2022-08-01'
+    references:
+    - source: music.apple.com-us-album-chashmandaaze-rooydaad-1638843801
+      quote: '2022-08-01'
+      accessed: 2026-11-21
+      locator: Digital edition date
+  cover art:
+  - value: https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/d9/b1/09/d9b109fa-2c1a-6501-7101-dca3124daf3a/198004169615.jpg/1200x630bb.jpg
+    references:
+    - source: music.apple.com-us-album-chashmandaaze-rooydaad-1638843801
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/d9/b1/09/d9b109fa-2c1a-6501-7101-dca3124daf3a/198004169615.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Native release artwork
+  - value: https://f4.bcbits.com/img/a2086936509_5.jpg
+    references:
+    - source: aidashahghasemi.bandcamp.com-album-chashmandaaze-rooydaad
+      quote: https://f4.bcbits.com/img/a2086936509_5.jpg
+      accessed: 2026-11-21
+      locator: Native release artwork
+  performer:
+  - value: Qjh2zkc
+    references:
+    - source: music.apple.com-us-album-chashmandaaze-rooydaad-1638843801
+      quote: Shekast
+      accessed: 2026-11-21
+      locator: Track title and credits
+  contributor:
+  - value: Q9v5vsf
+    qualifiers:
+      role:
+      - lyricist
+    references:
+    - source: aidashahghasemi.bandcamp.com-album-chashmandaaze-rooydaad
+      quote: 'Shekast’s poet: Hafez'
+      accessed: 2026-11-21
+      locator: Artist credits

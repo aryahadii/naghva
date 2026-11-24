@@ -7,6 +7,72 @@ statements:
       language: en
     references:
     - source: www.mdw.ac.at-magazin-2021-02-22-alumnaimfokusgolnarshahyar-lang-en
-      quote: |-
-        composer, and sound artist Rojin Sharafi and the conductor Yalda Zamani
+      quote: composer, and sound artist Rojin Sharafi and the conductor Yalda Zamani
       accessed: '2026-11-13'
+  - value:
+      text: یلدا زمانی
+      language: fa
+    references:
+    - source: anoise.org-fa-artists-yalda-zamani
+      quote: یلدا زمانی
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  based in:
+  - value: Qnpdnwq
+    references:
+    - source: yaldazamani.com
+      quote: I am an Iranian-German conductor based in Berlin.
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+  image:
+  - value: https://images.squarespace-cdn.com/content/v1/66f2bbf1615696756129a3e7/9cdcb5dc-2538-49c1-9118-c23c23fccd7e/Yalda+Zamani+III_%40NedaNavaee.jpg
+    references:
+    - source: yaldazamani.com
+      quote: https://images.squarespace-cdn.com/content/v1/66f2bbf1615696756129a3e7/9cdcb5dc-2538-49c1-9118-c23c23fccd7e/Yalda+Zamani+III_%40NedaNavaee.jpg
+      accessed: '2026-11-21'
+      locator: Named portrait file credited to Neda Navaee
+    qualifiers:
+      credit:
+        text: Neda Navaee, via Yalda Zamani
+        language: en
+  profile link:
+  - value: https://music.apple.com/us/artist/yalda-zamani/1661982083
+    references:
+    - source: music.apple.com-us-artist-yalda-zamani-1661982083
+      quote: ‎Yalda Zamani - Apple Music
+      accessed: '2026-11-21'
+      locator: Page title
+  - value: https://open.spotify.com/artist/3SoW6Q9JM0dc5hVviaYyIq
+    references:
+    - source: open.spotify.com-artist-3sow6q9jm0dc5hvviayyiq
+      quote: Listen to Yalda Zamani Songs | Spotify
+      accessed: '2026-11-21'
+      locator: Page title
+  life event:
+  - value:
+      text: made me stand in front of an orchestra for the very first time to conduct!
+      language: en
+    references:
+    - source: www.mbz.hr-en-stories-female-conductors-at-31st-mbz
+      quote: made me stand in front of an orchestra for the very first time to conduct!
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    - source: www.mbz.hr-en-stories-female-conductors-at-31st-mbz
+      quote: in 2010 that I met Vijay Upadhyaya
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      point in time:
+        date: '2010'
+      place: Qhm6fzw
+  - value:
+      text: In January 2024, I have been appointed as Assistant Conductor with the Ensemble Intercontemporain
+      language: en
+    references:
+    - source: yaldazamani.com
+      quote: In January 2024, I have been appointed as Assistant Conductor with the Ensemble Intercontemporain
+      accessed: '2026-11-21'
+      locator: Artist interview, biography or performance credits
+    qualifiers:
+      point in time:
+        date: 2024-01

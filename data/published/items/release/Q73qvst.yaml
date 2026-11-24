@@ -1,0 +1,47 @@
+id: Q73qvst
+type: release
+statements:
+  name:
+  - value:
+      text: Persian Daf Vibes
+      language: en
+    references:
+    - source: www.youtube.com-oembed-ijtvgfahkuu
+      quote: Persian Daf Vibes
+      locator: Original release, musician interview or performance credits
+      accessed: '2026-11-21'
+  performer:
+  - value: Qvp2b3f
+    references:
+    - source: www.youtube.com-oembed-ijtvgfahkuu
+      quote: Sara Fotros
+      locator: Original release, musician interview or performance credits
+      accessed: '2026-11-21'
+    qualifiers:
+      role: daf
+  release date:
+  - value:
+      date: '2025-08-12'
+    references:
+    - source: www.youtube.com-watchv-ijtvgfahkuu
+      quote: '2025-08-12T08:25:54-07:00'
+      locator: Original release, musician interview or performance credits
+      accessed: '2026-11-21'
+  cover art:
+  - value: https://i.ytimg.com/vi/IjTvGFaHkuU/hqdefault.jpg
+    references:
+    - source: www.youtube.com-oembed-ijtvgfahkuu
+      quote: https://i.ytimg.com/vi/IjTvGFaHkuU/hqdefault.jpg
+      locator: Original release, musician interview or performance credits
+      accessed: '2026-11-21'
+    qualifiers:
+      credit:
+        text: Sara Fotros · original performance
+        language: en
+  listen link:
+  - value: https://www.youtube.com/watch?v=IjTvGFaHkuU
+    references:
+    - source: www.youtube.com-oembed-ijtvgfahkuu
+      quote: Persian Daf Vibes
+      locator: Original release, musician interview or performance credits
+      accessed: '2026-11-21'
