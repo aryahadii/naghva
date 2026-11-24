@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=9uIKNsXriQI
+archive: "https://web.archive.org/web/20251009235438/https://www.youtube.com/watch?v=9uIKNsXriQI"
 title: 4. Résid Ân Shàh 2 - رسید آن شه ۲  (Arash Fouladvand feat  Bahar Choir) at UNESCO
 kind: youtube video
 tier: own

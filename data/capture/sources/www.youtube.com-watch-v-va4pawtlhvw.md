@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=vA4pAWtLhVw
+archive: "https://web.archive.org/web/20220912215757/https://www.youtube.com/watch?v=vA4pAWtLhVw"
 title: نحن ثملون   ما مستیم‏    ‏ nous sommes ivres we are drunk
 tier: own
 kind: web page

@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=uJEtql4YTEk
+archive: "https://web.archive.org/web/20220912092137/https://www.youtube.com/watch?v=uJEtql4YTEk&feature=youtu.be"
 title: 'سرو سنگر، مزار مجازی زنده‌یاد نوید افکاری. صدا: پویا پورامین'
 kind: web page
 language: en

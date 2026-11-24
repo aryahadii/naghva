@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=T7BWlroUj78
+archive: "https://web.archive.org/web/20250228093352/https://www.youtube.com/watch?v=T7BWlroUj78"
 title: نقش تو - نیاز نواب و سینا تیلا  (Official)
 kind: youtube video
 tier: own

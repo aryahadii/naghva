@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/channel/UCHorvw4yIKaqUvBmwB-tC3A
+archive: "https://web.archive.org/web/20220426014926/https://www.youtube.com/channel/UCHorvw4yIKaqUvBmwB-tC3A"
 title: Adrienne Shamszad
 tier: own
 language: en

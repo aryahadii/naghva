@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=BOaVKlCfC7g
+archive: "https://web.archive.org/web/20240303123620/https://www.youtube.com/watch?v=BOaVKlCfC7g"
 title: خون ارغوان ها - مهرداد بران و گروه کر بهار (Official)
 kind: youtube video
 tier: own

@@ -1,5 +1,6 @@
 ---
 url: https://zojduet.bandcamp.com/track/tasian
+archive: "https://web.archive.org/web/20261017044621/https://zojduet.bandcamp.com/track/tasian"
 title: Tasian | ZÖJ
 kind: web page
 tier: own

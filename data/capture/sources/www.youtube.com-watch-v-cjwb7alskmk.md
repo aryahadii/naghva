@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=cjwB7ALsKMk
+archive: "https://web.archive.org/web/20250407031014/https://www.youtube.com/watch?v=cjwB7ALsKMk"
 title: Badieh - Asheq Bodom Leili (feat. Jawad Tabesh & Nasim Khushnawaz)
 kind: youtube video
 tier: own

@@ -1,5 +1,6 @@
 ---
 url: https://www.nts.live/shows/labour/episodes/labour-9th-may-2022
+archive: "https://web.archive.org/web/20260519215402/https://www.nts.live/shows/labour/episodes/labour-9th-may-2022"
 title: Labour - Sufi Special 9th May 2022 | Listen on NTS
 status: processed
 language: en

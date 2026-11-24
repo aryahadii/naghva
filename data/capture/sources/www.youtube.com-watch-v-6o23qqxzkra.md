@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=6o23qQxZKrA
+archive: "https://web.archive.org/web/20220421201121/https://www.youtube.com/watch?v=6o23qQxZKrA"
 title: شبم تاریک - دریا دادور و آرش فولادوند (Official)
 kind: youtube video
 tier: own

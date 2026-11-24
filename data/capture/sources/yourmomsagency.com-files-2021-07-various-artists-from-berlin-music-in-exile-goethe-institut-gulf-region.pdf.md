@@ -1,5 +1,6 @@
 ---
 url: https://yourmomsagency.com/files/2021/07/Various-artists-from-Berlin-Music-in-Exile-Goethe-Institut-gulf-region.pdf
+archive: "https://web.archive.org/web/20260615120148/https://yourmomsagency.com/files/2021/07/Various-artists-from-Berlin-Music-in-Exile-Goethe-Institut-gulf-region.pdf"
 title: Music in Exile, Goethe-Institut Gulf Region
 kind: web page
 language: en

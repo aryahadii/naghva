@@ -1,5 +1,6 @@
 ---
 url: https://www.radiozamaneh.com/806519/
+archive: "https://web.archive.org/web/20260927194343/https://www.radiozamaneh.com/806519/"
 title: '«بهار آتیش»: یک صدای جوان و رسا برای برابری'
 tier: own
 language: fa

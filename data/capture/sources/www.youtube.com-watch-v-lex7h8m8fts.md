@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=LeX7H8m8fTs
+archive: "https://web.archive.org/web/20251009235735/https://www.youtube.com/watch?v=LeX7H8m8fTs"
 title: 6. Eshgh Màrâ Bàr Hàmégân Bàrgozid - عشق مرا بر همگان برگزید (Arash Fouladvand & Bahar Choir)- TROXY
 kind: youtube video
 tier: own

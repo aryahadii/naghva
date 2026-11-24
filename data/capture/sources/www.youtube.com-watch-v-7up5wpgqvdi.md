@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=7uP5WPGqvDI
+archive: "https://web.archive.org/web/20240402145305/https://www.youtube.com/watch?v=7uP5WPGqvDI"
 title: To Bémân Iran (Bella Ciao persian) - Arash Fouladvand & Bahar Choir
 kind: youtube video
 tier: own

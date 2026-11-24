@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=iZcMG8QVjh8
+archive: "https://web.archive.org/web/20111224061548/http://www.youtube.com/watch?v=iZcMG8QVjh8&gl=US&hl=en"
 title: SOULNIDUS - I CAN ONLY SING FOR YOU // ON THE STREETS OF FLORENCE, ITALY
 kind: youtube video
 tier: own

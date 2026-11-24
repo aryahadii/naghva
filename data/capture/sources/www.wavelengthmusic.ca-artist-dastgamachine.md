@@ -1,5 +1,6 @@
 ---
 url: https://www.wavelengthmusic.ca/artist/dastgamachine/
+archive: "https://web.archive.org/web/20251118042229/https://www.wavelengthmusic.ca/artist/dastgamachine/"
 title: Dastgâmachine – Wavelength Music – Toronto's Curated Concert Series
 kind: web page
 language: en

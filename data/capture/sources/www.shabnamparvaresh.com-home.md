@@ -1,5 +1,6 @@
 ---
 url: https://www.shabnamparvaresh.com/home
+archive: "https://web.archive.org/web/20260412122404/https://www.shabnamparvaresh.com/home"
 title: Shabnam Parvaresh
 status: processed
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=gjECiBxfkuA
+archive: "https://web.archive.org/web/20241210063807/https://www.youtube.com/watch?v=gjECiBxfkuA"
 title: IRÂN - ایران (Arash Fouladvand feat Darya Dadvar)
 kind: youtube video
 tier: own

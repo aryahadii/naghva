@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=FOh6vqJfV6o
+archive: "https://web.archive.org/web/20251109211743/https://www.youtube.com/watch?v=FOh6vqJfV6o"
 title: PALLETT | A Thousand Tales ( هزارتا قصه )
 kind: web page
 language: en

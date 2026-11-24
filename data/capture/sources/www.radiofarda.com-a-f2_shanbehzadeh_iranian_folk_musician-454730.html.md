@@ -1,5 +1,6 @@
 ---
 url: https://www.radiofarda.com/a/f2_Shanbehzadeh_Iranian_folk_musician/454730.html
+archive: "https://web.archive.org/web/20230324070046/https://www.radiofarda.com/a/f2_Shanbehzadeh_Iranian_folk_musician/454730.html"
 title: شنبه زاده، معرف موسیقی محلی بوشهر
 tier: journalism
 language: fa

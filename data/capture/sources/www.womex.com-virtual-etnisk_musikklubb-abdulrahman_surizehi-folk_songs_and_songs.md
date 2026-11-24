@@ -1,5 +1,6 @@
 ---
 url: https://www.womex.com/virtual/etnisk_musikklubb/abdulrahman_surizehi/folk_songs_and_songs
+archive: "https://web.archive.org/web/20260615171742/https://www.womex.com/virtual/etnisk_musikklubb/abdulrahman_surizehi/folk_songs_and_songs"
 title: Abdulrahman Surizehi - Folk Songs and Contemporary Songs from Balochistan - WOMEX
 tier: own
 language: en

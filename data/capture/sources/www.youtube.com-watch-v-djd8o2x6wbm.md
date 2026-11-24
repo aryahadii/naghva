@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=dJD8O2X6WbM
+archive: "https://web.archive.org/web/20220505222426/https://www.youtube.com/watch?v=dJD8O2X6WbM"
 title: Shahin Najafi - Ey Eshgh (Album Jens Sevom) ای عشق - آلبوم جنس سوم شاهین نجفی - YouTube
 kind: web page
 tier: own

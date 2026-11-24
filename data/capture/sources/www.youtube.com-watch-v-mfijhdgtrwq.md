@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=MFijhdgtRWQ
+archive: "https://web.archive.org/web/20240227174519/https://www.youtube.com/watch?v=MFijhdgtRWQ"
 title: TETLALLI, the place of stones | سنگستان
 tier: own
 kind: web page

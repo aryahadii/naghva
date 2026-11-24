@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=wAfYeUSCcMY
+archive: "https://web.archive.org/web/20221106133531/https://www.youtube.com/watch?v=wAfYeUSCcMY"
 title: '''Rafto Gozasht'' live by Niaz and Erwin with KARMANDAN - YouTube'
 kind: web page
 tier: own

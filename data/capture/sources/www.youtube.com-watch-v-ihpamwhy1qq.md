@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=IhPAMWhy1QQ
+archive: "https://web.archive.org/web/20260108204006/https://www.youtube.com/watch?v=IhPAMWhy1QQ"
 title: 10. Sâz o Âvâz - گل زرد - ساز و آواز - (Sina SARLAK feat Mehrdad NASEHI and Mohsen FAZELI)
 kind: youtube video
 tier: own

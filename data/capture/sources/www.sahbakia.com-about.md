@@ -1,5 +1,6 @@
 ---
 url: https://www.sahbakia.com/about
+archive: "https://web.archive.org/web/20260217150524/https://www.sahbakia.com/about"
 title: ABOUT | Bio — SAHBA AMINIKIA | صهبا امینی کیا
 tier: own
 language: en

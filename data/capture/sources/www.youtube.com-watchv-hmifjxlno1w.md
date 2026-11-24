@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=HmIFJXLnO1w
+archive: "https://web.archive.org/web/20251202050118/https://www.youtube.com/watch?v=HmIFJXLnO1w"
 title: عجم و محمد اطهری - حرفهای مردم (کالسکه) | Ajam ft Mohammad Athari - Harfhaye Mardom
 status: processed
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=lSJIzkGSwmE
+archive: "https://web.archive.org/web/20250730132431/https://www.youtube.com/watch?v=lSJIzkGSwmE"
 title: '"Gol o Baghcheh" (Naser Montazeri ft. Eendo)  |  گل و باغچه - YouTube'
 kind: web page
 tier: own

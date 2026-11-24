@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=0e2clCTXS5I
+archive: "https://web.archive.org/web/20260328075428/https://www.youtube.com/watch?v=0e2clCTXS5I"
 title: 5. Aghrabé Zolfé Kàjét - عقرب زلف کجت - (Arash Fouladvand feat Mahdieh and Sitorai)
 kind: youtube video
 tier: own

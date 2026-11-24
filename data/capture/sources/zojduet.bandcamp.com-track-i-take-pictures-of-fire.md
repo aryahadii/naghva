@@ -1,5 +1,6 @@
 ---
 url: https://zojduet.bandcamp.com/track/i-take-pictures-of-fire
+archive: "https://web.archive.org/web/20260530004728/https://zojduet.bandcamp.com/track/i-take-pictures-of-fire"
 title: I Take Pictures of Fire | ZÖJ
 kind: web page
 tier: own

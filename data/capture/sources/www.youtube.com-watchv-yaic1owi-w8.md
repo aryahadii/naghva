@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=yaIc1oWi-W8
+archive: "https://web.archive.org/web/20260626154823/https://www.youtube.com/watch?v=yaIc1oWi-W8&width=1020&height=768"
 title: 'Bahar Movahed, Ali Samadpour & Hamsaz Ensemble:  "Ba Man Sanama"'
 status: processed
 language: en

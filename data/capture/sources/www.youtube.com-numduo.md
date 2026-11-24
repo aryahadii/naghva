@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/@numduo
+archive: "https://web.archive.org/web/20250504071830/https://www.youtube.com/@numduo"
 title: NUM duo - YouTube
 kind: web page
 language: en

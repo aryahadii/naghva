@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=IhnmpQacMi0
+archive: "https://web.archive.org/web/20240920230223/https://www.youtube.com/watch?v=IhnmpQacMi0"
 title: جینگه جان - دریا دادور و آرش فولادوند (Official)
 kind: youtube video
 tier: own

@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=HP8z_ZXcRsQ
+archive: "https://web.archive.org/web/20250103203456/https://www.youtube.com/watch?v=HP8z_ZXcRsQ&list=RDHP8z_ZXcRsQ&index=1"
 title: PALLETT Live in Los Angeles - From Eastern Lands (از سرزمین های شرقی)  پالت - YouTube
 kind: web page
 tier: own

@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=I6H8sfFGltc
+archive: "https://web.archive.org/web/20170425121801/https://www.youtube.com/watch?v=I6H8sfFGltc"
 title: World Fusion - the Ancient Path
 kind: web page
 language: en

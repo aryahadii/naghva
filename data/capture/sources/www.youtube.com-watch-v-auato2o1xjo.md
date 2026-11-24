@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=auATo2O1xJo
+archive: "https://web.archive.org/web/20251117023802/https://www.youtube.com/watch?si=8iKqF9_5bUJIMGob&v=auATo2O1xJo&feature=youtu.be"
 title: Bâvàr - باور (Arash Fouladvand feat Bahar Choir) at Sainte-Clotilde de Paris
 kind: youtube video
 tier: own

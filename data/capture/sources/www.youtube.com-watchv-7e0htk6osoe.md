@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=7e0Htk6oSOE
+archive: "https://web.archive.org/web/20250828231256/https://www.youtube.com/watch?v=7e0Htk6oSOE"
 title: Ajam - Sanam Bia [Official Music Video] / عجم - صنم بیا
 status: processed
 language: en

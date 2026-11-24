@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=x0-gl1CQHPc
+archive: "https://web.archive.org/web/20251226002035/https://www.youtube.com/watch?v=x0-gl1CQHPc"
 title: 'Arshia Samsaminia: "Inside the twisted mind of the Mr. Sophistication" (2019)
   // K!ART Ensemble//HD'
 kind: web page

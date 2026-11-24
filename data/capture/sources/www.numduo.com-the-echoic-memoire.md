@@ -1,5 +1,6 @@
 ---
 url: https://www.numduo.com/the-echoic-memoire
+archive: "https://web.archive.org/web/20260711230212/https://www.numduo.com/the-echoic-memoire"
 title: The Echoic Memoire of the Two | NUM
 kind: web page
 language: en

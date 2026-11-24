@@ -1,5 +1,6 @@
 ---
 url: https://www.sverigesradio.se/artikel/6414284
+archive: "https://web.archive.org/web/20210924163545/https://sverigesradio.se/artikel/6414284"
 title: Sveriges Radio | Safoura Safavi, från Teheran till Krokom och Sunset Boulevard
 tier: journalism
 language: sv

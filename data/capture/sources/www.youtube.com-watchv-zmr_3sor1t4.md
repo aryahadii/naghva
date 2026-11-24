@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=zmR_3SOR1T4
+archive: "https://web.archive.org/web/20250507051537/https://www.youtube.com/watch?v=zmR_3SOR1T4"
 title: شب‌های روشن
 status: processed
 language: en

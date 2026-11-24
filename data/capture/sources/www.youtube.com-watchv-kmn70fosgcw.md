@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=kMN70fOsgCw
+archive: "https://web.archive.org/web/20260701120435/https://www.youtube.com/watch?si=wcUsqh8bibCW23R8&v=kMN70fOsgCw"
 title: Ajam ft Mazzi - Minab Golestane | عجم و مازی - میناب گلستانه
 status: processed
 language: en

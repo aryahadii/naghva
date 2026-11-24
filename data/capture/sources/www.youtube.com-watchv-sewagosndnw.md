@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=SeWAGOSnDnw
+archive: "https://web.archive.org/web/20251204135126/https://www.youtube.com/watch?v=SeWAGOSnDnw"
 title: تک‌نوازی سه‌گاه
 status: processed
 language: en

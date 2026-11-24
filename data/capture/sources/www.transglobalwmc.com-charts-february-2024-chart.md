@@ -1,5 +1,6 @@
 ---
 url: https://www.transglobalwmc.com/charts/february-2024-chart/
+archive: "https://web.archive.org/web/20260416083846/https://www.transglobalwmc.com/charts/february-2024-chart/"
 title: February 2024 Chart – Transglobal World Music Chart
 kind: web page
 tier: other

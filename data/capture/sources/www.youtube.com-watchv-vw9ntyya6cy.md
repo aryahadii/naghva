@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=vw9nTYya6CY
+archive: "https://web.archive.org/web/20210702014424/https://www.youtube.com/watch?v=vw9nTYya6CY"
 title: gelawej - گه لاوێژ - رهام سبحانی - حسین صفامنش
 status: processed
 language: fa

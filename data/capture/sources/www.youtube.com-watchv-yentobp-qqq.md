@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=yenTobP-QQQ
+archive: "https://web.archive.org/web/20260722034426/https://www.youtube.com/watch?v=yenTobP-QQQ&t=1412s"
 title: The Resonant Heart - Premier
 status: processed
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=kcYUKfThABU
+archive: "https://web.archive.org/web/20250820010302/https://www.youtube.com/watch?v=kcYUKfThABU"
 title: CIKKUN - ARMURE II (VISUALIZER)
 kind: web page
 language: en

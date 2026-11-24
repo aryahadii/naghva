@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=R3zHaPJYjZs
+archive: "https://web.archive.org/web/20250903014430/https://www.youtube.com/watch?v=R3zHaPJYjZs"
 title: Ajam - Bia Emsho (Studio) / عجم - بیا امشو (استودیو)
 status: processed
 language: en

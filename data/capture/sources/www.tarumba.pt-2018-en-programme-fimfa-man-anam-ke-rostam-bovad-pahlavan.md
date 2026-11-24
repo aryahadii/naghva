@@ -1,5 +1,6 @@
 ---
 url: https://www.tarumba.pt/2018/en/programme-fimfa/man-anam-ke-rostam-bovad-pahlavan/
+archive: "https://web.archive.org/web/20260714032808/http://www.tarumba.pt/2018/en/programme-fimfa/man-anam-ke-rostam-bovad-pahlavan/"
 title: Tarumba & FIMFA - Shows
 kind: web page
 language: en

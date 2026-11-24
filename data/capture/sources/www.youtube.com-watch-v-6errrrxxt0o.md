@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=6ERrRrXXt0o
+archive: "https://web.archive.org/web/20241213172932/https://www.youtube.com/watch?v=6ERrRrXXt0o"
 title: Emshàb Shàbé Màhtâbé -  امشب شب مهتابه (Arash Fouladvand feat Bahar Choir)
 kind: youtube video
 tier: own

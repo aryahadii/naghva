@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=XUT4UwJssW0
+archive: "https://web.archive.org/web/20241225110006/https://www.youtube.com/watch?v=XUT4UwJssW0"
 title: Eshgh Màrâ Bàr Hàmégân Bàrgozid عشق مرا بر همگان برگزید (Arash Fouladvand feat Bahar Choir)
 kind: youtube video
 tier: own

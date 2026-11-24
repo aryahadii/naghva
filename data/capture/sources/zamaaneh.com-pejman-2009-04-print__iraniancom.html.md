@@ -1,5 +1,6 @@
 ---
 url: https://zamaaneh.com/pejman/2009/04/print__iraniancom.html
+archive: "https://web.archive.org/web/20090428041148/http://zamaaneh.com:80/pejman/2009/04/print__iraniancom.html"
 title: رادیو زمانه | خارج از سیاست | ویژه برنامه ها | نخستین جشنواره موسیقی Iranian.com
 tier: journalism
 language: fa

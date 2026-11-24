@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=4cSVYG1_-wE
+archive: "https://web.archive.org/web/20260423192149/https://www.youtube.com/watch?v=4cSVYG1_-wE"
 title: 6. Bouyé Jouyé Moulian - بوی جوی مولیان - (Arash Fouladvand feat Mahdieh, Mehrnigori and Sina)
 kind: youtube video
 tier: own

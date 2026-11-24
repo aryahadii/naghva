@@ -1,5 +1,6 @@
 ---
 url: https://www.sledisland.com/2025/hailstones
+archive: "https://web.archive.org/web/20260414205548/https://www.sledisland.com/2025/hailstones"
 title: 'Hailstones: Sled Island'
 kind: web page
 language: en

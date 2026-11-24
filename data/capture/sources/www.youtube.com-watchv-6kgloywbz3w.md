@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=6KgLoYWBZ3w
+archive: "https://web.archive.org/web/20260111180236/https://www.youtube.com/watch?v=6KgLoYWBZ3w"
 title: 'Queralt Giralt Soler: Berklee Two Track I Origins'
 status: processed
 language: en

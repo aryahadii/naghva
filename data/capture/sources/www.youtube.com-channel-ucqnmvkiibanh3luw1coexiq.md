@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/channel/UCqnmvKIiBAnH3Luw1CoExiQ
+archive: "https://web.archive.org/web/20250420234802/https://www.youtube.com/channel/UCqnmvKIiBAnH3Luw1CoExiQ"
 title: Siriya Ensemble
 tier: own
 language: en

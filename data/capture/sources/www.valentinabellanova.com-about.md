@@ -1,5 +1,6 @@
 ---
 url: https://www.valentinabellanova.com/about
+archive: "https://web.archive.org/web/20260807175846/https://www.valentinabellanova.com/about"
 title: ABOUT | valentinabellanova
 status: processed
 language: en

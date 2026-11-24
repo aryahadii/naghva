@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=ywF5_9GXuZ8
+archive: "https://web.archive.org/web/20250120024322/https://www.youtube.com/watch?v=ywF5_9GXuZ8"
 title: عجم در برنامه كوك  - بخش اول
 status: processed
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=wx0MANtIy-0
+archive: "https://web.archive.org/web/20230301100915/https://www.youtube.com/watch?v=wx0MANtIy-0"
 title: ایندو - "با رفتنت"  |  "Eendo - "Ba Raftanet - YouTube
 kind: web page
 tier: own

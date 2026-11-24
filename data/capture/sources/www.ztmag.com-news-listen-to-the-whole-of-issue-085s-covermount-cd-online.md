@@ -1,5 +1,6 @@
 ---
 url: https://www.ztmag.com/news/listen-to-the-whole-of-issue-085s-covermount-cd-online/
+archive: "https://web.archive.org/web/20260720003526/https://www.ztmag.com/news/listen-to-the-whole-of-issue-085s-covermount-cd-online/"
 title: Zero Tolerance
 tier: own
 language: en

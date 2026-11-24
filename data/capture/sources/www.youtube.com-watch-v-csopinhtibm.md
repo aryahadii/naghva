@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=csoPinHtibM
+archive: "https://web.archive.org/web/20230528035648/https://www.youtube.com/watch?v=csoPinHtibM"
 title: '''Ye Pariye Naz'' by Niaz Nawab - (یک پری ناز) - YouTube'
 kind: web page
 tier: own

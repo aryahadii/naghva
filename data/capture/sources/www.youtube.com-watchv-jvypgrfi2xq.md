@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=JVYpgrfI2xQ
+archive: "https://web.archive.org/web/20221002194217/https://www.youtube.com/watch?v=JVYpgrfI2xQ"
 title: ilk məhəbət   ایلک محبت   Saminghorbani Faramarz Nivpur   ثمین قربانی   فرامرز نیو پور
 status: processed
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=jtBKpWJ9xG0
+archive: "https://web.archive.org/web/20260722161523/https://www.youtube.com/watch?v=jtBKpWJ9xG0"
 title: Azerbaijan v2 Mixtable audio
 status: processed
 language: en

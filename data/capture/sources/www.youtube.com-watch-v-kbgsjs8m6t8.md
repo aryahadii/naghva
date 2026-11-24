@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=KBGsjs8M6t8
+archive: "https://web.archive.org/web/20240630002843/https://www.youtube.com/watch?v=KBGsjs8M6t8"
 title: Magnetic Service - YouTube
 kind: web page
 language: en

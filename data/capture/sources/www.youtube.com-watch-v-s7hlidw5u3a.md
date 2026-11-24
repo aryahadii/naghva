@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=s7HLIDw5U3A
+archive: "https://web.archive.org/web/20250712110843/https://www.youtube.com/watch?si=YvMROv4I46xdaAuU%0A&v=s7HLIDw5U3A&feature=youtu.be"
 title: ‏Maulana Balkhi’s Full Concert at UNESCO - Paris 2024 - کنسرت کامل مولانا در یونسکو
 kind: youtube video
 tier: own

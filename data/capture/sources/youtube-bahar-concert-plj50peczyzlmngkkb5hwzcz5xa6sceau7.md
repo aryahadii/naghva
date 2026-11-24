@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/playlist?list=PLJ50PeczyzLMNGkkb5HwzCZ5xA6sCEAU7
+archive: "https://web.archive.org/web/20251009235359/https://www.youtube.com/playlist?list=PLJ50PeczyzLMNGkkb5HwzCZ5xA6sCEAU7"
 title: UNESCO - 2024 - Molana
 kind: web page
 tier: own

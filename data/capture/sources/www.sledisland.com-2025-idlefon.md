@@ -1,5 +1,6 @@
 ---
 url: https://www.sledisland.com/2025/idlefon
+archive: "https://web.archive.org/web/20260215175246/https://www.sledisland.com/2025/idlefon"
 title: 'Idlefon: Sled Island'
 kind: web page
 language: en

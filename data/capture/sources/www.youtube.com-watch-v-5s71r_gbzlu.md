@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=5S71R_GBzLU
+archive: "https://web.archive.org/web/20230408033635/https://www.youtube.com/watch?v=5S71R_GBzLU"
 title: Waltz-e Chaman  |  والس چمن - YouTube
 kind: web page
 tier: own

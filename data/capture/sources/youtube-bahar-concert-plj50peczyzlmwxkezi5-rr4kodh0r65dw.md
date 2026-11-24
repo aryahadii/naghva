@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/playlist?list=PLJ50PeczyzLMWxKezi5-RR4KoDh0r65DW
+archive: "https://web.archive.org/web/20251224000506/https://www.youtube.com/playlist?list=PLJ50PeczyzLMWxKezi5-RR4KoDh0r65DW"
 title: Central Hall Westminister - 2025 - Hafez
 kind: web page
 tier: own

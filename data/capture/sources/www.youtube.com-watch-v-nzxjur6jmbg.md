@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=nZXjUR6JmBg
+archive: "https://web.archive.org/web/20220811224708/https://www.youtube.com/watch?v=nZXjUR6JmBg"
 title: Mahmood Schricker feat. Hamasseh Daneshzad - Kooki فروغ فرخ زاد
 kind: web page
 language: en

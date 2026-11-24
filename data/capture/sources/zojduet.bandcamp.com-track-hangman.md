@@ -1,5 +1,6 @@
 ---
 url: https://zojduet.bandcamp.com/track/hangman
+archive: "https://web.archive.org/web/20260530004728/https://zojduet.bandcamp.com/track/hangman"
 title: Hangman | ZÖJ
 kind: web page
 tier: own

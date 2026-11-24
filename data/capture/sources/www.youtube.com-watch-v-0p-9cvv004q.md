@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=0P-9cvV004Q
+archive: "https://web.archive.org/web/20230507051418/https://www.youtube.com/watch?v=0P-9cvV004Q"
 title: Setaristas Mexicanos | سه تار نوازان مکزیک
 tier: own
 kind: web page

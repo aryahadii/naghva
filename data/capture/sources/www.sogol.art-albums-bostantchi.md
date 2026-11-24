@@ -1,5 +1,6 @@
 ---
 url: https://www.sogol.art/albums/bostantchi/
+archive: "https://web.archive.org/web/20260812054208/https://www.sogol.art/albums/bostantchi/"
 title: Bostântchi — Rokh quartet | Sogol Mirzaei
 status: processed
 language: en

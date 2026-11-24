@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=XFutbwtMxS8
+archive: "https://web.archive.org/web/20250522145630/https://www.youtube.com/watch?v=XFutbwtMxS8"
 title: آن یار می آید - آرش فولادوند، وحید تاج و گروه کر بهار (Official)
 kind: youtube video
 tier: own

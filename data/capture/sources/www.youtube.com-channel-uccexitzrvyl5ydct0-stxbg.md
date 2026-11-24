@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/channel/UCCEXITZRvYL5Ydct0-stXbg
+archive: "https://web.archive.org/web/20251005080234/https://www.youtube.com/channel/UCCEXITZRvYL5Ydct0-stXbg"
 title: Mentrix - YouTube
 kind: web page
 language: en

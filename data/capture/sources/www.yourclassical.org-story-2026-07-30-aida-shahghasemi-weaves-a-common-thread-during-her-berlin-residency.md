@@ -1,5 +1,6 @@
 ---
 url: https://www.yourclassical.org/story/2026/07/30/aida-shahghasemi-weaves-a-common-thread-during-her-berlin-residency
+archive: "https://web.archive.org/web/20260807223724/https://www.yourclassical.org/story/2026/07/30/aida-shahghasemi-weaves-a-common-thread-during-her-berlin-residency"
 title: Aida Shahghasemi 'weaves a common thread' during her residency at Minneapolis nightclub Berlin
 tier: journalism
 language: en

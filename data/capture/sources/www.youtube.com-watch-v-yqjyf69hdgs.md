@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=yQjYF69hDGs
+archive: "https://web.archive.org/web/20260411172834/https://www.youtube.com/watch?v=yQjYF69hDGs"
 title: 4. Résid Ân Shàh 2 - رسید آن شه ۲  (Arash Fouladvand feat  Bahar Choir) at TROXY
 kind: youtube video
 tier: own

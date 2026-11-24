@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=SOsh14k3snM
+archive: "https://web.archive.org/web/20251211084125/https://www.youtube.com/watch?v=SOsh14k3snM"
 title: roham sobhani kurdish music باڵا به رز
 status: processed
 language: fa

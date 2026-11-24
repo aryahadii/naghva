@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=AoY1sK_-tvU
+archive: "https://web.archive.org/web/20240302181601/https://www.youtube.com/watch?v=AoY1sK_-tvU"
 title: Hysterrae  - Ruvida
 kind: youtube video
 tier: own

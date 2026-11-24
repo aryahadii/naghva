@@ -1,5 +1,6 @@
 ---
 url: https://www.sixdegreesrecords.com/marjan-vahdat/
+archive: "https://web.archive.org/web/20260511184249/https://www.sixdegreesrecords.com/marjan-vahdat/"
 title: Marjan Vahdat — Six Degrees Records
 tier: own
 language: en

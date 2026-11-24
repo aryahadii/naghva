@@ -1,5 +1,6 @@
 ---
 url: https://www1.wdr.de/radio/cosmo/musik/global-pop-lexikon/schael_sick_brass_band104.html
+archive: "https://web.archive.org/web/20220524194100/https://www1.wdr.de/radio/cosmo/musik/global-pop-lexikon/schael_sick_brass_band104.html"
 title: Schäl Sick Brass Band, Brass Grooves aus Köln - Global Pop Lexikon - Musik - Radio
 tier: discography
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=LXB0VLTYdIE
+archive: "https://web.archive.org/web/20210124023452/https://www.youtube.com/watch?v=LXB0VLTYdIE"
 title: Zamaneh - Niaz Nawab - زمانه - نیاز نواب - YouTube
 kind: web page
 tier: own

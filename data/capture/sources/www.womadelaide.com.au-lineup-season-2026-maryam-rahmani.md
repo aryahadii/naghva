@@ -1,5 +1,6 @@
 ---
 url: https://www.womadelaide.com.au/lineup/season-2026/maryam-rahmani
+archive: "https://web.archive.org/web/20260309011347/https://www.womadelaide.com.au/lineup/season-2026/maryam-rahmani"
 title: WOMADelaide - Maryam Rahmani
 kind: web page
 language: en

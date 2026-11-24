@@ -1,5 +1,6 @@
 ---
 url: https://www1.wdr.de/mediathek/audio/wdr3/open/world/audio-radikale-vielfalt-trickster-orchestra-100.html
+archive: "https://web.archive.org/web/20260630010726/https://www1.wdr.de/mediathek/audio/wdr3/open/world/audio-radikale-vielfalt-trickster-orchestra-100.html"
 title: 'Radikale Vielfalt: Trickster Orchestra - WDR 3 - Podcasts und Audios - ARD Mediathek'
 tier: discography
 language: de

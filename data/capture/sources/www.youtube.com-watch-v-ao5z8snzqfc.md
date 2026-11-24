@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=aO5Z8SnzqFc
+archive: "https://web.archive.org/web/20260423194716/https://www.youtube.com/watch?v=aO5Z8SnzqFc"
 title: 11.  ⁠Sâz o Âvâz (Sina Sarlak)
 kind: youtube video
 tier: own

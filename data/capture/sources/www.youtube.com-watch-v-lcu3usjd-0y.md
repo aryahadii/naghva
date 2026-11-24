@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=LcU3UsJD-0Y
+archive: "https://web.archive.org/web/20241225110006/https://www.youtube.com/watch?v=LcU3UsJD-0Y"
 title: Shadi - شادی (Arash Fouladvand & Niaz Nawab) - Official
 kind: youtube video
 tier: own

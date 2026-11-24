@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=XbslxL3sbvU
+archive: "https://web.archive.org/web/20251009235504/https://www.youtube.com/watch?v=XbslxL3sbvU"
 title: Khouné Jàvânané Vàtàn - از خون جوانان وطن لاله دمیده (Arash Fouladvand feat  Bahar Choir)
 kind: youtube video
 tier: own

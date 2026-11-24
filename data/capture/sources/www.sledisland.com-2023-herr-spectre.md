@@ -1,5 +1,6 @@
 ---
 url: https://www.sledisland.com/2023/herr-spectre
+archive: "https://web.archive.org/web/20260412094117/https://www.sledisland.com/2023/herr-spectre"
 title: 'HERR SPECTRE: Sled Island'
 kind: web page
 language: en

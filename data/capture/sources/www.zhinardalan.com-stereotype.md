@@ -1,5 +1,6 @@
 ---
 url: https://www.zhinardalan.com/stereotype
+archive: "https://web.archive.org/web/20260717051009/https://www.zhinardalan.com/stereotype"
 title: Stereotype | Xeen
 kind: web page
 language: en

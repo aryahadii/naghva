@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=njhH9AsgCbM
+archive: "https://web.archive.org/web/20250415083652/https://www.youtube.com/watch?v=njhH9AsgCbM"
 title: پالت - موزیک ویدیو با من خیال کن | Pallett - Dream Away with Me Music Video - YouTube
 kind: web page
 tier: own

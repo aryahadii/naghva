@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=MbjynKI-jKk
+archive: "https://web.archive.org/web/20251009235612/https://www.youtube.com/watch?v=MbjynKI-jKk"
 title: Résid Ân Shàh - رسید آن شه  (Arash Fouladvand feat  Niaz Nawab)
 kind: youtube video
 tier: own

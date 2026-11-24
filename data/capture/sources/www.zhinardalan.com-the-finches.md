@@ -1,5 +1,6 @@
 ---
 url: https://www.zhinardalan.com/the-finches
+archive: "https://web.archive.org/web/20260717054018/https://www.zhinardalan.com/the-finches"
 title: The Finches | Xeen
 kind: web page
 language: en

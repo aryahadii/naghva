@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=uwLMz0B0Jx4
+archive: "https://web.archive.org/web/20251008031411/https://www.youtube.com/watch?v=uwLMz0B0Jx4"
 title: Gôl Dâràm Gôl - گل دارم گل (Arash Fouladvand feat Darya Dadvar)
 kind: youtube video
 tier: own

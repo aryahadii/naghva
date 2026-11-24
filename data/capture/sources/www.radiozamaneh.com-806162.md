@@ -1,5 +1,6 @@
 ---
 url: https://www.radiozamaneh.com/806162/
+archive: "https://web.archive.org/web/20261005074738/https://www.radiozamaneh.com/806162/"
 title: رپ اعتراضی زنان؛ مبارزه‌‌ای نادیده علیه حـجاب صدا
 tier: own
 language: fa

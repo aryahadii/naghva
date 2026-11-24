@@ -1,5 +1,6 @@
 ---
 url: https://zojduet.bandcamp.com/track/hours-of-ripened-grapes
+archive: "https://web.archive.org/web/20261017044622/https://zojduet.bandcamp.com/track/hours-of-ripened-grapes"
 title: Hours of ripened grapes | ZÖJ
 kind: web page
 tier: own

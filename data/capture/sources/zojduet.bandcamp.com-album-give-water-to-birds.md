@@ -1,5 +1,6 @@
 ---
 url: https://zojduet.bandcamp.com/album/give-water-to-birds
+archive: "https://web.archive.org/web/20261010111919/https://zojduet.bandcamp.com/album/give-water-to-birds"
 title: Give Water To Birds | ZÖJ
 kind: web page
 tier: own

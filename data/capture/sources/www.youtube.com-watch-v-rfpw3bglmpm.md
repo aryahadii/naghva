@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=RFPW3bGLMPM
+archive: "https://web.archive.org/web/20240825225851/https://www.youtube.com/watch?v=RFPW3bGLMPM"
 title: Eishan Ensemble - Afternoon Tea at Six live at Seymour Centre - Sydney Festival 2021 - YouTube
 kind: youtube video
 tier: own

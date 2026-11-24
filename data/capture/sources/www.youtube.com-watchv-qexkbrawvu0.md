@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=QEXkbraWVu0
+archive: "https://web.archive.org/web/20220516234725/https://www.youtube.com/watch?v=QEXkbraWVu0"
 title: احمد شاملو/ صدای زیبای ثمین قربانی
 status: processed
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://www.wavelengthmusic.ca/zine/dastgamachine-guest-playlist-4-wavelength/
+archive: "https://web.archive.org/web/20260414025820/https://www.wavelengthmusic.ca/zine/dastgamachine-guest-playlist-4-wavelength/"
 title: Dastgâmachine Guest Playlist 4 Wavelength – Wavelength Music – Toronto's Curated Concert Series
 kind: web page
 language: en

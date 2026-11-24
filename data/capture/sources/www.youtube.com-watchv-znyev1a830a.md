@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=Znyev1A830A
+archive: "https://web.archive.org/web/20260315221956/https://www.youtube.com/watch?v=Znyev1A830A"
 title: گپ‌وگفت با سپیده مشکی | اپیزود نود و یک پادکست تصویری کادانس
 status: processed
 language: fa

@@ -1,5 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=1ISO7bOmkzA
+archive: "https://web.archive.org/web/20260327183818/https://www.youtube.com/watch?si=FUWP8bE8KTMTaN9j&v=1ISO7bOmkzA&feature=youtu.be"
 title: 4. Didi Ey Dél - دیدی ای دل - (Arash Fouladvand feat Mahdieh Mohamamdkhani)
 kind: youtube video
 tier: own

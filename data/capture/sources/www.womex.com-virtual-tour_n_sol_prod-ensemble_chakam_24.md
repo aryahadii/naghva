@@ -1,5 +1,6 @@
 ---
 url: https://www.womex.com/virtual/tour_n_sol_prod/ensemble_chakam_24
+archive: "https://web.archive.org/web/20260317055348/https://www.womex.com/virtual/tour_n_sol_prod/ensemble_chakam_24"
 title: Ensemble Chakâm - WOMEX 24 SELECTION - WOMEX
 status: processed
 language: en
