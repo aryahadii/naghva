@@ -1,5 +1,6 @@
 ---
 url: https://franckdadure1.bandcamp.com/track/live-radio-france-franck-dadure-soheil-peyghambari-ikejime-duo
+archive: "https://web.archive.org/web/20261124080826/https://franckdadure1.bandcamp.com/track/live-radio-france-franck-dadure-soheil-peyghambari-ikejime-duo"
 title: Live @ Radio France - Franck Dadure & Soheil Peyghambari-Ikejime duo- | Ikejime duo-Franck Dadure & Soheil Peyghambari | Franck
   Dadure
 kind: web page

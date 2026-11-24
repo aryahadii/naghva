@@ -1,5 +1,6 @@
 ---
 url: https://alexispaul.bandcamp.com/track/improvisation-in-f-sharp-w-sogol-mirzaei
+archive: "https://web.archive.org/web/20261124061947/https://alexispaul.bandcamp.com/track/improvisation-in-f-sharp-w-sogol-mirzaei"
 title: Improvisation in F sharp w/ Sogol Mirzaei | Orgue-paysage | Alexis Paul
 status: processed
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://www.maisondesculturesdumonde.org/festival-de-limaginaire/programme/programme/pantea-alvandipour
+archive: "https://web.archive.org/web/20261124074612/https://www.maisondesculturesdumonde.org/festival-de-limaginaire/programme/programme/pantea-alvandipour"
 title: Le chant des Iraniennes - Programme - Maison des Cultures du Monde
 tier: own
 kind: web page

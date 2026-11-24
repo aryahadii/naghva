@@ -1,5 +1,6 @@
 ---
 url: https://avarasti.bandcamp.com/track/i-told-the-stones
+archive: "https://web.archive.org/web/20261124063543/https://avarasti.bandcamp.com/track/i-told-the-stones"
 title: I Told The Stones | Ava Rasti
 kind: web page
 language: en

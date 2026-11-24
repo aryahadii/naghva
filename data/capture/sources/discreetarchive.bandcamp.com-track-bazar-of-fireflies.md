@@ -1,5 +1,6 @@
 ---
 url: https://discreetarchive.bandcamp.com/track/bazar-of-fireflies
+archive: "https://web.archive.org/web/20261124072714/https://discreetarchive.bandcamp.com/track/bazar-of-fireflies"
 title: Bazar of Fireflies | Maryam Rahmani & David Esser | Discreet Archive
 kind: web page
 language: en

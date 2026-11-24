@@ -1,5 +1,6 @@
 ---
 url: https://asgeirasgeirsson.bandcamp.com/track/azadi-cafe
+archive: "https://web.archive.org/web/20261124063012/https://asgeirasgeirsson.bandcamp.com/track/azadi-cafe"
 title: Azadi cafe | Asgeir Asgeirsson
 status: processed
 language: en

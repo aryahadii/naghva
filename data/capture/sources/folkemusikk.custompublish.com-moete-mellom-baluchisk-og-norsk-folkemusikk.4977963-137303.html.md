@@ -1,5 +1,6 @@
 ---
 url: https://folkemusikk.custompublish.com/moete-mellom-baluchisk-og-norsk-folkemusikk.4977963-137303.html
+archive: "https://web.archive.org/web/20261124080745/https://folkemusikk.custompublish.com/moete-mellom-baluchisk-og-norsk-folkemusikk.4977963-137303.html"
 title: Møte mellom baluchisk og norsk folkemusikk
 tier: journalism
 language: 'no'

@@ -1,5 +1,6 @@
 ---
 url: https://faravaz.bandcamp.com/track/dessert
+archive: "https://web.archive.org/web/20261124075555/https://faravaz.bandcamp.com/track/dessert"
 title: Dessert
 tier: discography
 language: en

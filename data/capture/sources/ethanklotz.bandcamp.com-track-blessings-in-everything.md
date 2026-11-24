@@ -1,5 +1,6 @@
 ---
 url: https://ethanklotz.bandcamp.com/track/blessings-in-everything
+archive: "https://web.archive.org/web/20261124074821/https://ethanklotz.bandcamp.com/track/blessings-in-everything"
 title: Blessings, in Everything | Ethan Klotz
 status: processed
 language: en

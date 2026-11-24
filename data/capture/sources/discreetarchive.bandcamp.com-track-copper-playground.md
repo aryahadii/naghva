@@ -1,5 +1,6 @@
 ---
 url: https://discreetarchive.bandcamp.com/track/copper-playground
+archive: "https://web.archive.org/web/20261124072746/https://discreetarchive.bandcamp.com/track/copper-playground"
 title: Copper Playground | Maryam Rahmani & David Esser | Discreet Archive
 kind: web page
 language: en

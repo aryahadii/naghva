@@ -1,5 +1,6 @@
 ---
 url: https://efrenlopez.bandcamp.com/album/peripheries-of-nahavand-full-6-track-album-2025
+archive: "https://web.archive.org/web/20261124073241/https://efrenlopez.bandcamp.com/album/peripheries-of-nahavand-full-6-track-album-2025"
 title: Peripheries of Nahavand (full 6-​track album) [2025] | Araz Salek | Efrén López
 kind: web page
 tier: own

@@ -1,5 +1,6 @@
 ---
 url: https://ethanklotz.bandcamp.com/album/fragments-of-the-heart
+archive: "https://web.archive.org/web/20261124074751/https://ethanklotz.bandcamp.com/album/fragments-of-the-heart"
 title: Fragments of The Heart | Ethan Klotz
 status: processed
 language: en

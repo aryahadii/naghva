@@ -1,5 +1,6 @@
 ---
 url: https://circadianstringquartet.bandcamp.com/track/the-weight-of-the-world
+archive: "https://web.archive.org/web/20261124070854/https://circadianstringquartet.bandcamp.com/track/the-weight-of-the-world"
 title: The Weight of The World | Circadian String Quartet
 tier: own
 language: en

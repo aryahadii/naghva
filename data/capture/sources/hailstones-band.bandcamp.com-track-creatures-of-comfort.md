@@ -1,5 +1,6 @@
 ---
 url: https://hailstones-band.bandcamp.com/track/creatures-of-comfort
+archive: "https://web.archive.org/web/20261124082159/https://hailstones-band.bandcamp.com/track/creatures-of-comfort"
 title: Creatures of Comfort | Hailstones
 kind: web page
 language: en

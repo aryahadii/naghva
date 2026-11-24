@@ -1,5 +1,6 @@
 ---
 url: https://faravaz.bandcamp.com/album/azadi-album
+archive: "https://web.archive.org/web/20261124075222/https://faravaz.bandcamp.com/album/azadi-album"
 title: Azadi Album
 tier: discography
 language: en

@@ -1,5 +1,6 @@
 ---
 url: https://avarasti.bandcamp.com/track/the-wind-passes-by-the-willow-tree
+archive: "https://web.archive.org/web/20261124063614/https://avarasti.bandcamp.com/track/the-wind-passes-by-the-willow-tree"
 title: The Wind Passes By The Willow Tree | Ava Rasti
 kind: web page
 language: en

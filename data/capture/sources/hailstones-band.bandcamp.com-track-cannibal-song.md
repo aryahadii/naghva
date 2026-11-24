@@ -1,5 +1,6 @@
 ---
 url: https://hailstones-band.bandcamp.com/track/cannibal-song
+archive: "https://web.archive.org/web/20261124082058/https://hailstones-band.bandcamp.com/track/cannibal-song"
 title: Cannibal Song | Hailstones
 kind: web page
 language: en

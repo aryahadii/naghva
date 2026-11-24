@@ -1,5 +1,6 @@
 ---
 url: https://decibelreport.com/news/blurred-vision-release-soundtrack-to-manhattan-undying-film
+archive: "https://web.archive.org/web/20261124072413/https://decibelreport.com/news/blurred-vision-release-soundtrack-to-manhattan-undying-film"
 title: Blurred Vision release soundtrack to Manhattan Undying film — Decibel Report
 tier: journalism
 language: en

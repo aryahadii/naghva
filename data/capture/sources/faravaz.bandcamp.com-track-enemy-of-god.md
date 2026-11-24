@@ -1,5 +1,6 @@
 ---
 url: https://faravaz.bandcamp.com/track/enemy-of-god
+archive: "https://web.archive.org/web/20261124075623/https://faravaz.bandcamp.com/track/enemy-of-god"
 title: Enemy of God
 tier: discography
 language: en

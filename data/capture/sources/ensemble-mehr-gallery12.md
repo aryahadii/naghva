@@ -1,5 +1,6 @@
 ---
 url: https://casadellaculturairaniana.com/visualizzaGallery.php?idgall=12
+archive: "https://web.archive.org/web/20261124074648/https://casadellaculturairaniana.com/visualizzaGallery.php?idgall=12"
 title: Galleria di immagini
 tier: own
 kind: web page

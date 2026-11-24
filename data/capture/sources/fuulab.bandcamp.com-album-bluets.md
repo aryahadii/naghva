@@ -1,5 +1,6 @@
 ---
 url: https://fuulab.bandcamp.com/album/bluets
+archive: "https://web.archive.org/web/20261124081027/https://fuulab.bandcamp.com/album/bluets"
 title: Bluets | Ah! Kosmos & Büşra Kayıkçı | FUU
 status: processed
 language: en

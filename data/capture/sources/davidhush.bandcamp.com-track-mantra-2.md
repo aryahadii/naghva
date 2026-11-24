@@ -1,5 +1,6 @@
 ---
 url: https://davidhush.bandcamp.com/track/mantra-2
+archive: "https://web.archive.org/web/20261124072245/https://davidhush.bandcamp.com/track/mantra-2"
 title: Mantra | David Hush & Hamed Sadeghi | David Hush
 kind: web page
 tier: own

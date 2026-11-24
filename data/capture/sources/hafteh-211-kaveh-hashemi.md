@@ -1,5 +1,6 @@
 ---
 url: https://hafteh.ca/uploads/mag/nr211-web.pdf
+archive: "https://web.archive.org/web/20261124081527/https://hafteh.ca/uploads/mag/nr211-web.pdf"
 title: راک، غریبه‌ای در ایران
 kind: web page
 tier: journalism

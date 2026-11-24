@@ -1,5 +1,6 @@
 ---
 url: https://hamedsadeghi.bandcamp.com/track/dancing-shadows
+archive: "https://web.archive.org/web/20261124082916/https://hamedsadeghi.bandcamp.com/track/dancing-shadows"
 title: Dancing Shadows | Hamed Sadeghi
 kind: web page
 tier: own

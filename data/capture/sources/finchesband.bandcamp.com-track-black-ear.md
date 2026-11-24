@@ -1,5 +1,6 @@
 ---
 url: https://finchesband.bandcamp.com/track/black-ear
+archive: "https://web.archive.org/web/20261124080402/https://finchesband.bandcamp.com/track/black-ear"
 title: Black Ear | The Finches
 kind: web page
 language: en

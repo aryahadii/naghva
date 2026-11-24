@@ -1,5 +1,6 @@
 ---
 url: https://efrenlopez.bandcamp.com/track/chah-rmezr-b-adjem-nah-vand
+archive: "https://web.archive.org/web/20261124073329/https://efrenlopez.bandcamp.com/track/chah-rmezr-b-adjem-nah-vand"
 title: Chahârmezrâb & Adjem Nahâvand | Araz Salek | Efrén López
 kind: web page
 tier: own

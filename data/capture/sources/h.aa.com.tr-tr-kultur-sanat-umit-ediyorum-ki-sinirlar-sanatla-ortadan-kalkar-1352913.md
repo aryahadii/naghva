@@ -1,5 +1,6 @@
 ---
 url: https://h.aa.com.tr/tr/kultur-sanat/umit-ediyorum-ki-sinirlar-sanatla-ortadan-kalkar/1352913
+archive: "https://web.archive.org/web/20261124081234/https://h.aa.com.tr/tr/kultur-sanat/umit-ediyorum-ki-sinirlar-sanatla-ortadan-kalkar/1352913"
 title: Ali Ghamsari interview at Anadolu Agency
 tier: journalism
 language: tr

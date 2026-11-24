@@ -1,5 +1,6 @@
 ---
 url: https://hamedsadeghi.bandcamp.com/track/bittersweet
+archive: "https://web.archive.org/web/20261124082706/https://hamedsadeghi.bandcamp.com/track/bittersweet"
 title: Bittersweet | Hamed Sadeghi
 kind: web page
 tier: own

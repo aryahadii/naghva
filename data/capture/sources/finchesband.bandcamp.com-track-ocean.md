@@ -1,5 +1,6 @@
 ---
 url: https://finchesband.bandcamp.com/track/ocean
+archive: "https://web.archive.org/web/20261124080606/https://finchesband.bandcamp.com/track/ocean"
 title: Ocean | The Finches
 kind: web page
 language: en
