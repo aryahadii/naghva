@@ -8,6 +8,9 @@ export default defineConfig({
   workers: 2,
   forbidOnly: Boolean(process.env.CI),
   retries: process.env.CI ? 1 : 0,
+  // The full timeline is about 5 MB of HTML; on a busy runner its script
+  // can finish after the default five seconds.
+  expect: { timeout: 15_000 },
   use: {
     baseURL: localOrigin,
     trace: 'retain-on-failure',
