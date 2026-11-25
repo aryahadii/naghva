@@ -118,7 +118,7 @@ const week = (iso: string) => fmt({ day: 'numeric', month: 'short' }).format(new
 // Sections the record cannot answer for enough of what they count stay off the page.
 // Gender and labels join once the record holds them (see the spec); their counts are already in `stats`.
 const sections = [
-  { id: 'releases', label: T('Releases per year', 'انتشار در هر سال'), show: d.releases.days.length > 0 },
+  { id: 'releases', label: T('Release records by year', 'مدخل‌های آثار به تفکیک سال'), show: d.releases.days.length > 0 },
   { id: 'new-artists', label: T('When artists started', 'آغاز کار هنرمندان'), show: d.starts.total > 0 && d.starts.days.length / d.starts.total >= SHOW_AT },
   { id: 'based', label: T('Inside Iran or abroad', 'داخل یا خارج ایران'), show: bs.total > 0 && bs.known / bs.total >= SHOW_AT },
   { id: 'left', label: T('When they left Iran', 'سال رفتن از ایران'), show: bs.total > 0 && bs.known / bs.total >= SHOW_AT && bs.left.length > 0 },
@@ -144,7 +144,7 @@ const half = (id: string) => (PAIRS.some((pair) => pair.includes(id) && pair.eve
       <dl class="totals">
         {[
           [d.totals.artists, T('artists with a page', 'هنرمند دارای صفحه')],
-          [d.totals.releases, T('releases', 'اثر منتشرشده')],
+          [d.totals.releases, T('release records', 'مدخل آثار')],
           [d.totals.people, T('people credited', 'همکار و دست‌اندرکار')],
           [d.totals.events, T('events', 'رویداد')],
           [d.totals.sources, T('sources', 'منبع')],
@@ -155,10 +155,10 @@ const half = (id: string) => (PAIRS.some((pair) => pair.includes(id) && pair.eve
     {shown('releases') && (
     <section class="q q-wide" id="releases" aria-labelledby="releases-h">
       <div class="q-text">
-        <h2 id="releases-h">{T('How much comes out each year?', 'هر سال چند اثر منتشر می‌شود؟')}</h2>
+        <h2 id="releases-h">{T('Which years do these records cover?', 'مدخل‌های آرشیو مربوط به چه سال‌هایی هستند؟')}</h2>
       </div>
       <figure class="q-fig">
-        <YearColumns lang={lang} years={rel} max={relScale} first={FIRST} grid={[1, .5, 0]} color="var(--coral)" unit={['release', 'releases', 'اثر']} earlierLabel={earlierLabel} open={nowYear} />
+        <YearColumns lang={lang} years={rel} max={relScale} first={FIRST} grid={[1, .5, 0]} color="var(--coral)" unit={['entry', 'entries', 'مدخل']} earlierLabel={earlierLabel} open={nowYear} />
       </figure>
     </section>
     )}
@@ -271,7 +271,7 @@ const half = (id: string) => (PAIRS.some((pair) => pair.includes(id) && pair.eve
           <HBars bars={fieldBars(comp.artists)} />
         </figure>
         <figure>
-          <p class="fig-label">{T(`Releases · ${d.totals.releases}`, `آثار · ${n(d.totals.releases)}`)}</p>
+          <p class="fig-label">{T(`Release records · ${d.totals.releases}`, `مدخل‌های آثار · ${n(d.totals.releases)}`)}</p>
           <HBars bars={fieldBars(comp.releases)} />
         </figure>
         <figure>

@@ -138,6 +138,6 @@ Before the 2018 tour, Zhouan had announced Banipour as one of three singers for 
 
 With Sobhani, Banipour also recorded a more intimate performance at Bell Studio. The two began with singing and instrumental improvisation in Bayat-e Esfahan and included a composed song by Amir Jahed. For the ensemble’s “The Cage Which Traps You,” she sang Farrokhi Yazdi’s verse in Chahargah. The musicians dedicated the song to those killed in the November 2019 protests and the downing of the Ukrainian airliner in January 2020.[^flight752][^mode][^studio][^song][^prison][^hymn][^lyrics]
 
-During the protests of 1401, she sang Ali Asadollahi’s four-line poem “Parvaz.” On “The Banner of Tresses,” dedicated to Mahsa Amini, the words were Sobhani’s. Banipour later sang Saeed Soltanpour’s verse on “Red Flower,” a recording dedicated to Mina Rafiei.[^flight][^banner][^aman][^latest][^birth][^title]
+In 2022–23, she sang Ali Asadollahi’s four-line poem “Parvaz.” On “The Banner of Tresses,” dedicated to Mahsa Amini, the words were Sobhani’s. Banipour later sang Saeed Soltanpour’s verse on “Red Flower,” a recording dedicated to Mina Rafiei.[^flight][^banner][^aman][^latest][^birth][^title]
 
 In summer 2024 Banipour sang at the Iran Music Museum in a programme of Azerbaijani opera conducted by Sahar Anzali. She took the solo in a scene from Uzeyir Hajibeyov’s *Koroghlu* and joined the altos in the women’s chorus from his *Arshin Mal Alan*.[^opera][^museum][^choir][^alto][^voice]

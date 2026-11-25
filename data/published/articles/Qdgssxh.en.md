@@ -83,4 +83,4 @@ At the Rainforest World Music Festival in Kuching in 2013, the sound came from s
 
 The group recorded *Luka* with Sharifian. A later collaboration brought a different wind instrument into its concert programme. On the Australian tour *From Harbour to Harbour 2*, William Barton played didgeridoo and his mother, Aunty Delmae Barton, sang. They joined Lian at the opening and close of the Sydney performance.[^luka][^sydney][^sessions]
 
-Two of Lian’s concerts circulated on disc. The group advertised a DVD of its 1390 concert with Aka Safavi on vocals. A later concert film reached Iranian shops through Honar Aval in 1394.[^dvd][^concert][^honar]
+Two of Lian’s concerts circulated on disc. The group advertised a DVD of its 2011–12 concert with Aka Safavi on vocals. In 2015, Honar Aval released a later concert film in Iran.[^dvd][^concert][^honar]

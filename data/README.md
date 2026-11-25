@@ -488,6 +488,7 @@ Python 3 scripts under `tools/`, needing only `pyyaml` and `jsonschema`
 | `tools/newid.py` | print a fresh item ID |
 | `tools/archive.py` | add Wayback Machine `archive` links to processed web sources that lack one |
 | `tools/validate.py` | check `data/` against the schemas, the registry and the cross-file rules; exit 1 on any error |
+| `tools/catalog_quality.py --json` | list release-level review candidates without changing records |
 
 Each accepts `--root <dir>` to work on another root with the same layout,
 which is how `data/examples` is validated.
@@ -504,6 +505,13 @@ words found in their blockquotes; listen links and images use an allowed host;
 merged items are empty and unreferenced; articles are named after a person or
 act and a language, and their citations and references match; and the
 registry's names match the spec's tables.
+
+The catalog audit reports missing concrete values, shared platform IDs, possible
+album/track links, same-performer title matches and dates supported only by an
+explicit upload date. Missing data is not a false claim. Review the original
+evidence before changing anything: two storefront URLs can describe one album;
+two cuts of one concert can share a video URL; and a track may appear on
+separately issued single and album editions.
 
 ## Workflow
 

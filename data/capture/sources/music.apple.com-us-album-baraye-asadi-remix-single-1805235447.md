@@ -22,3 +22,7 @@ Digital edition date, read 2026-11-21.
 > https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/88/df/0a/88df0ae6-9782-58a0-ac2a-989c772c1061/196429109698.png/1200x630bb.jpg
 
 Digital edition artwork, read 2026-11-21.
+
+> Baraye ((Asadi Remix)) - Single
+
+Apple Music release heading, read 2026-11-25.

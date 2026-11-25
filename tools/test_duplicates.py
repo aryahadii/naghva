@@ -61,6 +61,17 @@ class DuplicateTests(unittest.TestCase):
         self.assertIn("Qzzzzz4.yaml: listen link https://badnama-example.bandcamp.com/album/nameless-street "
                       "is also on %s" % RELEASE, warnings[0])
 
+    def test_different_apple_storefronts_warn_for_the_same_product(self):
+        first = ds.load_yaml(self.items / "release" / (RELEASE + ".yaml"))
+        second = self.copy_as("release", RELEASE, "Qzzzzz4")
+        for region, data in (("us", first), ("at", second)):
+            statement = data["statements"]["listen link"][0]
+            statement["value"] = "https://music.apple.com/" + region + "/album/nameless-street/1576834213"
+            self.write("release", data)
+        warnings = self.warnings()
+        self.assertEqual(len(warnings), 1, warnings)
+        self.assertIn("apple album ID 1576834213 also appears on " + RELEASE, warnings[0])
+
     def test_same_statement_twice_warns(self):
         data = ds.load_yaml(self.items / "release" / (RELEASE + ".yaml"))
         data["statements"]["performer"].append(data["statements"]["performer"][0])
