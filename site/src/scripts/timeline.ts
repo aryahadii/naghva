@@ -17,6 +17,11 @@ if (form) {
   const year = form.elements.namedItem('year') as HTMLSelectElement;
   const params = new URLSearchParams(location.search);
   const wanted = params.get('kind')?.split(',');
+  // Older links can target an entry now classified as a platform post.
+  if (wanted?.includes('release') && !wanted.includes('posting')) {
+    const target = entries.find((e) => '#' + e.id === location.hash);
+    if (target?.dataset.kind === 'posting') wanted.push('posting');
+  }
   if (wanted) for (const chip of chips) chip.setAttribute('aria-pressed', String(wanted.includes(chip.dataset.kind!)));
   if ([...artist.options].some((o) => o.value === params.get('artist'))) artist.value = params.get('artist')!;
 

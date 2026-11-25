@@ -1,4 +1,5 @@
 import type { Sky } from './star-map';
+import { fill, strings } from './i18n';
 
 /** Places in `/sky.json` are whole numbers out of this (SCALE in star-map.ts). */
 const SCALE = 100_000;
@@ -53,6 +54,7 @@ export function readSky(sky: Sky, lang: Lang): SkyStar[] {
     const main = name(entry.n);
     const other = entry.n[1 - own];
     const years = entry.d?.slice(own * (entry.d.length / 2), (own + 1) * (entry.d.length / 2)) ?? [];
+    const span = [...new Set(years)].map((year) => digits(lang, year)).join('–');
     return {
       key: entry.h ? entry.h.replace(/^.*#|\//g, '') : entry.i!,
       kind: entry.k === 'r' ? 'recording' : 'artist',
@@ -66,7 +68,7 @@ export function readSky(sky: Sky, lang: Lang): SkyStar[] {
       links: links[index],
       image: entry.m ?? null,
       place: entry.p === undefined ? '' : name(sky.places[entry.p]),
-      years: [...new Set(years)].map((year) => digits(lang, year)).join('–'),
+      years: entry.u && span ? fill(strings(lang).release.postedDate, { date: span }) : span,
       by: list.format((entry.b ?? []).map((index) => name(sky.stars[index].n))),
     };
   });

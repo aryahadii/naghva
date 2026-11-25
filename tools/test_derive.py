@@ -127,6 +127,28 @@ class DeriveTests(unittest.TestCase):
         self.assertEqual(entries[0]["date"], dates[0]["value"])
         self.assertIn(alternate["value"], entries[0]["alternatives"])
 
+    def test_platform_posting_keeps_old_fragment_but_is_not_a_release(self):
+        items = copy.deepcopy(self.record["items"])
+        st = items[RELEASE]["statements"]
+        old = next(e for e in derive.timeline(items) if e["item"] == RELEASE)
+        st["platform posting date"] = st.pop("release date")
+        new_posting = next(e for e in derive.timeline(items, {}) if e["item"] == RELEASE)
+        self.assertNotEqual(new_posting["anchor"], old["anchor"])
+
+        date = old["date"]
+        key = date.get("calendar", "gregorian") + ":" + date["date"]
+        legacy = {RELEASE: {key: old["anchor"]}}
+        posting = next(e for e in derive.timeline(items, legacy) if e["item"] == RELEASE)
+        self.assertEqual(posting["kind"], "posting")
+        self.assertEqual(posting["anchor"], old["anchor"])
+        self.assertEqual(posting["date"], old["date"])
+
+        st["release date"] = copy.deepcopy(st["platform posting date"])
+        entries = {e["kind"]: e for e in derive.timeline(items, legacy) if e["item"] == RELEASE}
+        self.assertEqual(set(entries), {"release", "posting"})
+        self.assertEqual(entries["release"]["anchor"], old["anchor"])
+        self.assertNotEqual(entries["release"]["anchor"], entries["posting"]["anchor"])
+
     def test_announced_event_carries_its_billed_performer(self):
         items = copy.deepcopy(self.record["items"])
         items["Qzzzzz3"] = {

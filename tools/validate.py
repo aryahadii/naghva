@@ -14,7 +14,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import datastore as ds  # noqa: E402
-from catalog_quality import platform_identity  # noqa: E402
+from catalog_quality import platform_identity, posting_only_evidence  # noqa: E402
 
 VALUE_KINDS = ("item", "text", "date", "url", "term")
 SUSPICIOUS_YEAR = 1500  # a bare year below this with no calendar is probably Jalali
@@ -437,6 +437,15 @@ def validate(root, report):
             check_item(item, store, registry, report)
             live.append(item)
     check_duplicates(_LiveItems(store, live), report)
+    posting_review_count = sum(
+        any(s.get("rank") != "deprecated" and s["value"] not in ds.SPECIAL_VALUES
+            and posting_only_evidence(s)
+            for s in i.data.get("statements", {}).get("release date", []))
+        for i in live if "merged into" not in i.data)
+    if posting_review_count:
+        report.warn("published/items",
+                    "%d records have a release date backed only by posting metadata; "
+                    "review with tools/catalog_quality.py --json" % posting_review_count)
 
     for article in store.articles.values():
         if _schema_ok(article.path, article.meta, article_schema, store, report):

@@ -51,6 +51,9 @@ properties:
   release date:
     used on: [release]
     value: date
+  platform posting date:
+    used on: [release]
+    value: date
   release type:
     used on: [release]
     value: term

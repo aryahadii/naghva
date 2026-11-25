@@ -33,6 +33,7 @@ import stats  # noqa: E402
 
 DEFAULT_OUT = ds.REPO / "site" / "generated" / "record.json"
 DEFAULT_ADDRESSES = ds.REPO / "site" / "addresses.json"
+LEGACY_POSTINGS = Path(__file__).with_name("legacy-posting-anchors.json")
 LANGUAGES = ("en", "fa")
 ARTIST_TYPES = ("person", "act")
 TAG_LENGTH = 3  # characters of the ID after the Q that end an address
@@ -392,19 +393,32 @@ def derive(root, issued=None):
     }
 
 
-def timeline(items):
+def timeline(items, legacy_postings=None):
     """Every dated fact, earliest first: releases, formations, members joining and
     leaving, and life events dated by their point in time."""
     entries = []
     identities = set()
+    if legacy_postings is None:
+        legacy_postings = json.loads(LEGACY_POSTINGS.read_text(encoding="utf-8"))
 
     def add(kind, item_id, about, value, alternatives=None, text=None):
         if isinstance(value, dict) and "range" in value:
-            identity = json.dumps([kind, item_id, sorted(set(about)),
+            def key(category):
+                return json.dumps([category, item_id, sorted(set(about)),
                                    value.get("calendar", "gregorian"), value["date"]]
                                   + ([text["text"]] if text else []),
                                   ensure_ascii=False, separators=(",", ":"))
-            anchor = "entry-" + hashlib.sha256(identity.encode("utf-8")).hexdigest()[:20]
+            def anchor_of(identity):
+                return "entry-" + hashlib.sha256(identity.encode("utf-8")).hexdigest()[:20]
+
+            identity = key(kind)
+            anchor = anchor_of(identity)
+            if kind == "posting":
+                # Only the migration's original fragments are grandfathered.
+                date_key = value.get("calendar", "gregorian") + ":" + value["date"]
+                legacy = legacy_postings.get(item_id, {}).get(date_key)
+                if legacy and legacy not in identities:
+                    anchor = legacy
             if anchor in identities:
                 raise ds.DataError("duplicate timeline identity: %s" % identity)
             identities.add(anchor)
@@ -429,6 +443,8 @@ def timeline(items):
             values = dates(st.get("release date", []))
             if values:
                 add("release", item_id, performers, values[0], values[1:])
+            for posting in dates(st.get("platform posting date", [])):
+                add("posting", item_id, performers, posting)
         if item["type"] == "act":
             values = dates(st.get("formation date", []))
             if values:

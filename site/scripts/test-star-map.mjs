@@ -81,3 +81,16 @@ test('every star has its own place, wherever the record lists it', () => {
   assert.ok(sky.stars.every(({ x, y }) => Number.isInteger(x) && Number.isInteger(y) && x > 0 && x < 100_000 && y > 0 && y < 100_000));
   assert.deepEqual(buildSky({ items: {} }), { places: [], stars: [] });
 });
+
+test('a post-only recording keeps its year without posing as a release', () => {
+  const posted = day('2023-02-01');
+  const post = { ...demo, statements: { 'platform posting date': [statement(posted)] } };
+  const both = { ...song, statements: { ...song.statements, 'platform posting date': [statement(posted)] } };
+  const sky = buildSky({ ...record, items: { ...record.items, demo: post, song: both } });
+  const en = (key) => readSky(sky, 'en').find((star) => star.key === key);
+  const fa = (key) => readSky(sky, 'fa').find((star) => star.key === key);
+  assert.equal(en('demo').years, 'Posted 2023');
+  assert.equal(fa('demo').years, 'بارگذاری: ۱۴۰۱');
+  assert.equal(en('song').years, '2019');
+  assert.equal(en('band').years, '2019');
+});

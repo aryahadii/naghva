@@ -2,7 +2,7 @@
 from types import SimpleNamespace
 import unittest
 
-from catalog_quality import audit, platform_identity, track_parent
+from catalog_quality import audit, platform_identity, posting_only_evidence, track_parent
 
 
 class CatalogQualityTests(unittest.TestCase):
@@ -32,6 +32,13 @@ class CatalogQualityTests(unittest.TestCase):
         self.assertNotEqual(platform_identity(short), platform_identity(watch + "&t=90"))
         self.assertNotEqual(platform_identity(watch + "&t=20"), platform_identity(watch + "&t=90"))
         self.assertIsNone(platform_identity("https://music.youtube.com/playlist?list=PLabc"))
+
+    def test_posting_metadata_does_not_override_release_evidence(self):
+        refs = [{"locator": "Video publication date, YYYYMMDD"}]
+        self.assertTrue(posting_only_evidence({"references": refs}))
+        self.assertFalse(posting_only_evidence({"references": refs + [{"locator": "Label issue date"}]}))
+        self.assertFalse(posting_only_evidence({"references": [{"locator": "Original release or upload date"}]}))
+        self.assertFalse(posting_only_evidence({"references": []}))
 
     def test_audit_ignores_merge_stubs_and_deprecated_urls(self):
         album = "https://music.apple.com/us/album/title/123"

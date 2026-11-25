@@ -40,6 +40,14 @@ class StatsTests(unittest.TestCase):
         self.assertEqual(self.stats["totals"]["releases"], 3)
         self.assertEqual(self.stats["releases"]["days"], ["2020-05-01", "2022-01-01"])
 
+    def test_platform_posting_does_not_count_as_a_release_date(self):
+        st = self.items["QR1"]["statements"]
+        st["platform posting date"] = st.pop("release date")
+        got = stats.stats(self.items, ["QA", "QB"], {}, {})
+        self.assertEqual(got["totals"]["releases"], 3)
+        self.assertEqual(got["releases"]["days"], ["2022-01-01"])
+        self.assertEqual(got["starts"]["days"], ["2022-01-01"])
+
     def test_an_artist_starts_at_their_earliest_dated_release(self):
         self.assertEqual(self.stats["starts"]["days"], ["2020-05-01", "2020-05-01"])
 
