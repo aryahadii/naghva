@@ -4,7 +4,8 @@ archive: "https://web.archive.org/web/20260413231844/https://www.nts.live/artist
 title: Umchunga | Discover music on NTS
 kind: web page
 language: en
-tier: own
+tier: other
+publisher: NTS
 about:
 - Umchunga
 status: processed
@@ -25,3 +26,7 @@ Artist interview, biography or performance credits, read 2026-11-21.
 > one of two vocalists in the electronic/post-rock band Photomat
 
 Artist interview, biography or performance credits, read 2026-11-21.
+
+> Original source: Last.fm
+
+Attribution below the profile biography, read 2026-11-25.

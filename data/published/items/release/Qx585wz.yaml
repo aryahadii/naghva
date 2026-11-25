@@ -36,18 +36,6 @@ statements:
       quote: Baraye - (ASADI Remix)
       accessed: 2026-11-21
       locator: Published recording
-  - value: https://music.apple.com/us/album/baraye-asadi-remix/1649237186?i=1649237187
-    references:
-    - source: music.apple.com-us-album-baraye-asadi-remix-1649237186
-      quote: Baraye (ASADI Remix)
-      accessed: 2026-11-21
-      locator: Apple digital catalogue, track title
-  - value: https://music.apple.com/us/album/baraye-asadi-remix/1660572443?i=1660573776
-    references:
-    - source: music.apple.com-us-album-baraye-asadi-remix-1660572443
-      quote: Baraye (ASADI Remix)
-      accessed: 2026-11-21
-      locator: Apple digital catalogue, track title
   release date:
   - value:
       date: '2023-10-11'
@@ -63,3 +51,10 @@ statements:
       quote: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/88/df/0a/88df0ae6-9782-58a0-ac2a-989c772c1061/196429109698.png/1200x630bb.jpg
       accessed: 2026-11-21
       locator: Digital edition artwork
+  release type:
+  - value: single
+    references:
+    - source: music.apple.com-us-album-baraye-asadi-remix-single-1805235447
+      quote: Baraye ((Asadi Remix)) - Single
+      accessed: '2026-11-25'
+      locator: Apple Music release heading

@@ -10,6 +10,10 @@ statements:
       quote: Trickster Orchestra
       accessed: 2026-11-21
       locator: Album or recording title
+    - source: www.monamatbouriahi.com-discography
+      quote: 'Samawatie,C./Bhatti,K./Trickster Orchestra: Trickster Orchestra'
+      accessed: 2026-11-21
+      locator: Discography entry
   performer:
   - value: Qnessyd
     references:
@@ -17,18 +21,52 @@ statements:
       quote: Cymin Samawatie
       accessed: 2026-11-21
       locator: Artist credit
+    - source: music.apple.com-at-album-trickster-orchestra-1558432200
+      quote: Cymin Samawatie
+      accessed: 2026-11-21
+      locator: Edition artist
   - value: Q6jjfq6
     references:
     - source: music.apple.com-us-album-trickster-orchestra-1558432200
       quote: Trickster Orchestra
       accessed: 2026-11-21
       locator: Orchestra billing
+    - source: music.apple.com-at-album-trickster-orchestra-1558432200
+      quote: Trickster Orchestra
+      accessed: 2026-11-21
+      locator: Edition artist
   - value: Qtdg7e3
     references:
     - source: music.apple.com-us-album-trickster-orchestra-1558432200
       quote: Ketan Bhatti
       accessed: 2026-11-21
       locator: Artist billing
+    - source: music.apple.com-at-album-trickster-orchestra-1558432200
+      quote: Ketan Bhatti
+      accessed: 2026-11-21
+      locator: Edition artist
+  - value: Qyy9hf9
+    references:
+    - source: ecmrecords.com-product-trickster-orchestra-cymin-samawatie-ketan-bhatti
+      quote: Mona Matbou Riahi Clarinet
+      accessed: '2026-11-25'
+      locator: Featured Artists
+    - source: www.monamatbouriahi.com-discography
+      quote: 'Samawatie,C./Bhatti,K./Trickster Orchestra: Trickster Orchestra'
+      accessed: 2026-11-21
+      locator: Discography entry
+    qualifiers:
+      role: clarinet
+  - value: Q7hs4tn
+    references:
+    - source: ecmrecords.com-product-trickster-orchestra-cymin-samawatie-ketan-bhatti
+      quote: Mahan Mirarab Electric Guitar, Oud
+      accessed: '2026-11-25'
+      locator: Featured Artists
+    qualifiers:
+      role:
+      - guitar
+      - oud
   release date:
   - value:
       date: '2021-04-23'
@@ -37,6 +75,14 @@ statements:
       quote: '2021-04-23'
       accessed: 2026-11-21
       locator: Edition date
+    - source: music.apple.com-at-album-trickster-orchestra-1558432200
+      quote: '2021-04-23'
+      accessed: 2026-11-21
+      locator: Edition release date
+    - source: ecmrecords.com-product-trickster-orchestra-cymin-samawatie-ketan-bhatti
+      quote: 23.04.2021
+      accessed: '2026-11-25'
+      locator: Original Release Date
   listen link:
   - value: https://music.apple.com/us/album/trickster-orchestra/1558432200
     references:
@@ -50,6 +96,12 @@ statements:
       quote: Trickster Orchestra
       accessed: 2026-11-21
       locator: Edition or recording title
+  - value: https://music.apple.com/at/album/trickster-orchestra/1558432200
+    references:
+    - source: music.apple.com-at-album-trickster-orchestra-1558432200
+      quote: Trickster Orchestra
+      accessed: 2026-11-21
+      locator: Native edition title
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ca/a8/55/caa855b7-9ed2-ccd3-1219-053f84ec70ad/20UM1IM01954.rgb.jpg/1200x630bb.jpg
     references:
@@ -57,6 +109,10 @@ statements:
       quote: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ca/a8/55/caa855b7-9ed2-ccd3-1219-053f84ec70ad/20UM1IM01954.rgb.jpg/1200x630bb.jpg
       accessed: 2026-11-21
       locator: Release artwork
+    - source: music.apple.com-at-album-trickster-orchestra-1558432200
+      quote: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ca/a8/55/caa855b7-9ed2-ccd3-1219-053f84ec70ad/20UM1IM01954.rgb.jpg/1200x630bb.jpg
+      accessed: 2026-11-21
+      locator: Native album artwork
   published by:
   - value: Qvhg2w2
     references:
@@ -71,3 +127,7 @@ statements:
       quote: Trickster Orchestra
       accessed: 2026-11-21
       locator: Album or recording title
+    - source: www.monamatbouriahi.com-discography
+      quote: 'Samawatie,C./Bhatti,K./Trickster Orchestra: Trickster Orchestra'
+      accessed: 2026-11-21
+      locator: Discography entry

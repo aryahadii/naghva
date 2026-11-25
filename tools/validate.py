@@ -14,6 +14,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import datastore as ds  # noqa: E402
+from catalog_quality import platform_identity  # noqa: E402
 
 VALUE_KINDS = ("item", "text", "date", "url", "term")
 SUSPICIOUS_YEAR = 1500  # a bare year below this with no calendar is probably Jalali
@@ -320,7 +321,7 @@ def check_duplicates(store, report):
     listen link, and the same value twice under one property of one item.
     These are warnings: two different people can share a name.
     """
-    names, links = {}, {}
+    names, links, identities = {}, {}, {}
     for item in store.items.values():
         data = item.data
         if not isinstance(data.get("statements"), dict):
@@ -345,6 +346,9 @@ def check_duplicates(store, report):
             for url in {st["value"].rstrip("/") for st in data["statements"].get("listen link", [])
                         if ds.value_kind(st.get("value")) == "url"}:
                 links.setdefault(url, []).append(item)
+                identity = platform_identity(url)
+                if identity:
+                    identities.setdefault(identity, {}).setdefault(item.id, (item, set()))[1].add(url)
     for (kind, name), items in sorted(names.items()):
         for other in items[1:]:
             report.warn(store.rel(other.path),
@@ -356,6 +360,18 @@ def check_duplicates(store, report):
                 warned.add((items[0].id, other.id))
                 report.warn(store.rel(other.path),
                             "listen link %s is also on %s; merge them if they are one release" % (url, items[0].id))
+
+    for identity, group in sorted(identities.items(), key=lambda kv: repr(kv[0])):
+        candidates = list(group.values())
+        if len(candidates) < 2:
+            continue
+        first, first_urls = candidates[0]
+        for other, other_urls in candidates[1:]:
+            if other_urls & first_urls:  # Already reported by the exact-URL check.
+                continue
+            report.warn(store.rel(other.path),
+                        "%s %s ID %s also appears on %s under a different URL; check whether they are one issue"
+                        % (*identity[:3], first.id))
 
 
 # --- Articles -------------------------------------------------------------------------------
