@@ -15,7 +15,7 @@ import { addressOf, imageOf, PHOTO_WIDTHS, sizeOf } from '../../lib/images';
 import { other, parts, plural, strings } from '../../lib/i18n';
 import { suggestUrl } from '../../lib/suggest';
 import { artistJsonLd } from '../../lib/jsonld';
-import { artistPages, LANGS, loadRecord, nameOf, releaseDate, url, type Lang } from '../../lib/record';
+import { artistPages, LANGS, loadRecord, nameOf, recordingDate, url, type Lang } from '../../lib/record';
 import '../../styles/shelf.css';
 import { fold } from '../../lib/search';
 import { compareDates } from '../../lib/catalogue';
@@ -105,8 +105,8 @@ const contents = [
           </div>
           <p id="catalog-empty" hidden>{t.browse.empty}</p>
           <ol class="shelf" id="catalog">
-            {[...view.releases].sort((a, b) => compareDates({ id: a.item.id, date: releaseDate(a.item)?.range[0] }, { id: b.item.id, date: releaseDate(b.item)?.range[0] }, true)).map((r) => (
-              <li data-id={r.item.id} data-date={releaseDate(r.item)?.range[0]} data-names={fold([r.title.text, r.other?.text ?? ''].join(' '))}><ReleaseCard href={`#${r.anchor}`} lang={lang} title={r.title} date={r.date} sub={r.with} art={r.cover?.image} panel /></li>
+            {[...view.releases].sort((a, b) => compareDates({ id: a.item.id, date: recordingDate(a.item)?.range[0] }, { id: b.item.id, date: recordingDate(b.item)?.range[0] }, true)).map((r) => (
+              <li data-id={r.item.id} data-date={recordingDate(r.item)?.range[0]} data-names={fold([r.title.text, r.other?.text ?? ''].join(' '))}><ReleaseCard href={`#${r.anchor}`} lang={lang} title={r.title} date={r.date} sub={r.with} art={r.cover?.image} panel /></li>
             ))}
           </ol>
         </section>

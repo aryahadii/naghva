@@ -4,7 +4,7 @@ import { tmpdir } from 'node:os';
 import { join } from 'node:path';
 import { execFileSync } from 'node:child_process';
 import { test } from 'node:test';
-import { catalogueReleasesOf, recordingArtists } from '../src/lib/record.ts';
+import { byRecordingDate, catalogueReleasesOf, recordingArtists, recordingDates, releaseDates } from '../src/lib/record.ts';
 import { artistView } from '../src/lib/artist.ts';
 import { artistJsonLd, siteJsonLd } from '../src/lib/jsonld.ts';
 import { fold, ranked, searchPage } from '../src/lib/search.ts';
@@ -119,4 +119,18 @@ test('a contributor can browse a recording on their page with the original perfo
     assert.ok(album);
     assert.ok(album.byArtist.every((performer) => performer['@id'] !== graph[0]['@id']));
   }
+});
+
+test('recordings fall back to a labeled platform date without changing release dates', () => {
+  const date = (value) => ({ date: value, calendar: 'gregorian', precision: 'day', range: [value, value] });
+  const post = date('2018-04-27');
+  const issued = date('2017-05-01');
+  const by = (id, statements) => ({ id, statements });
+  const posted = by('posted', { 'platform posting date': [{ value: post, rank: 'normal' }] });
+  const released = by('released', { ...posted.statements, 'release date': [{ value: issued, rank: 'normal' }] });
+  const undated = by('undated', {});
+  assert.deepEqual(releaseDates(posted), []);
+  assert.deepEqual(recordingDates(posted), { values: [post], isPosting: true });
+  assert.deepEqual(recordingDates(released), { values: [issued], isPosting: false });
+  assert.deepEqual([undated, posted, released].sort(byRecordingDate).map(({ id }) => id), ['released', 'posted', 'undated']);
 });

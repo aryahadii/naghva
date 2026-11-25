@@ -101,8 +101,12 @@ shared track or video URL alone does not establish the same release.
 
 - Use `release date` for an evidenced issue of the item or edition, not the
   date that a video or audio file appeared on a platform. A platform can
-  support a release date if it explicitly identifies the issue and its date;
-  an upload timestamp by itself does not.
+  support a release date if it explicitly identifies the issue and its date.
+  A documented premiere or first issue of the recording on an artist's or
+  label's channel can be a release. The source must identify that act of
+  release; an "official video" label and a timestamp alone do not distinguish
+  a first issue from a later clip. If independent evidence supports both
+  facts, keep both dates, even when they coincide.
 - Use `platform posting date` for the publication or upload date stated on
   the recording's platform listing. Keep the platform and its wording in the
   reference. Different posts can have different dates. Posting dates have

@@ -192,7 +192,7 @@ export function recordingArtists(record: SiteRecord, release: Item): Item[] {
 
 /** The releases an artist performs on or whose panel its page hosts, oldest first. */
 export function releasesOf(record: SiteRecord, artist: Item): Item[] {
-  return (artist.releases ?? []).map((id) => record.items[id]).filter((x): x is Item => Boolean(x)).sort(byReleaseDate);
+  return (artist.releases ?? []).map((id) => record.items[id]).filter((x): x is Item => Boolean(x)).sort(byRecordingDate);
 }
 
 /** The catalogue includes work the artist wrote, arranged or produced. */
@@ -205,7 +205,7 @@ export function catalogueReleasesOf(record: SiteRecord, artist: Item): Item[] {
       ids.add(release.id);
     }
   }
-  return [...ids].map((id) => record.items[id]).filter((item): item is Item => Boolean(item)).sort(byReleaseDate);
+  return [...ids].map((id) => record.items[id]).filter((item): item is Item => Boolean(item)).sort(byRecordingDate);
 }
 
 /** Include historical panels without adding them to the artist's recordings. */
@@ -215,28 +215,40 @@ export function panelReleasesOf(record: SiteRecord, artist: Item, releases = cat
     const release = record.items[releaseId];
     if (artistId === artist.id && release?.type === 'release' && releaseHost(record, release)?.id === artist.id) ids.add(releaseId);
   }
-  return [...ids].map((id) => record.items[id]).sort(byReleaseDate);
-}
-
-export function releaseDate(release: Item): DateValue | undefined {
-  // A stable chronological sort key, not a choice between source claims.
-  return [...releaseDates(release)].sort((a, b) => a.range[0].localeCompare(b.range[0]))[0];
+  return [...ids].map((id) => record.items[id]).sort(byRecordingDate);
 }
 
 /** Keep active source alternatives; an array's order is not a date decision. */
 export function releaseDates(release: Item): DateValue[] {
-  return (release.statements['release date'] ?? []).filter((s) => s.rank !== 'deprecated')
+  return recordingDatesFor(release, 'release date');
+}
+
+function recordingDatesFor(release: Item, property: 'release date' | 'platform posting date'): DateValue[] {
+  return (release.statements[property] ?? []).filter((s) => s.rank !== 'deprecated')
     .sort((a, b) => Number(b.rank === 'preferred') - Number(a.rank === 'preferred'))
     .map((s) => s.value).filter(isDate)
     .filter((d, i, all) => all.findIndex((v) => v.date === d.date && v.calendar === d.calendar) === i)
+}
+
+/** Display and sort dates are not claims about release history. */
+export function recordingDates(release: Item): { values: DateValue[]; isPosting: boolean } {
+  const released = releaseDates(release);
+  return released.length
+    ? { values: released, isPosting: false }
+    : { values: recordingDatesFor(release, 'platform posting date'), isPosting: true };
+}
+
+export function recordingDate(release: Item): DateValue | undefined {
+  return recordingDates(release).values.reduce<DateValue | undefined>(
+    (earliest, date) => !earliest || date.range[0] < earliest.range[0] ? date : earliest, undefined);
 }
 
 export function datesDisagree(dates: DateValue[]): boolean {
   return dates.some((a) => dates.some((b) => a.range[1] < b.range[0] || b.range[1] < a.range[0]));
 }
 
-export function byReleaseDate(a: Item, b: Item): number {
-  return compareDates({ id: a.id, date: releaseDate(a)?.range[0] }, { id: b.id, date: releaseDate(b)?.range[0] });
+export function byRecordingDate(a: Item, b: Item): number {
+  return compareDates({ id: a.id, date: recordingDate(a)?.range[0] }, { id: b.id, date: recordingDate(b)?.range[0] });
 }
 
 export function artistPages(record: SiteRecord): Item[] {

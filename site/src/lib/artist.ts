@@ -6,7 +6,7 @@ import { COVER_WIDTHS, imageOf, PHOTO_WIDTHS, type LinkedImage } from './images'
 import { renderArticle } from './markdown';
 import { platform } from './platforms';
 import {
-  best, recordingArtists, datesDisagree, href, isDate, isText, nameOf, otherName, panelReleasesOf, releaseDates, catalogueReleasesOf, url,
+  best, recordingArtists, datesDisagree, href, isDate, isText, nameOf, otherName, panelReleasesOf, recordingDates, releaseDates, catalogueReleasesOf, url,
   type Article, type DateValue, type Item, type Lang, type SiteRecord, type Statement, type Text, type Reference,
 } from './record';
 
@@ -192,7 +192,10 @@ export function artistView(
     const cover = captioned(lang, imageOf(r, 'cover art', COVER_WIDTHS), 'cover', cites);
     const dates = live(r.statements['release date']).filter((s) => isDate(s.value));
     const values = releaseDates(r);
-    const date = values.length ? values.map((d) => dateHtml(d, lang)).join(' / ') : null;
+    const display = recordingDates(r);
+    const displayDate = display.values.map((d) => dateHtml(d, lang)).join(' / ');
+    const displayYear = [...new Set(display.values.map((d) => num(lang, yearOf(d, lang))))].join(' / ');
+    const date = displayDate ? display.isPosting ? fill(t.release.postedDate, { date: displayDate }) : displayDate : null;
     const performers = best(r.statements.performer);
     const billed = recordingArtists(record, r);
     const others = billed.filter((p) => p.id !== artist.id);
@@ -236,7 +239,7 @@ export function artistView(
       other: otherName(r, lang),
       cover,
       date,
-      year: values.length ? [...new Set(values.map((d) => num(lang, yearOf(d, lang))))].join(' / ') : null,
+      year: displayYear ? display.isPosting ? fill(t.release.postedDate, { date: displayYear }) : displayYear : null,
       with: others.length ? fill(billed.some((p) => p.id === artist.id) ? t.artist.with : t.artist.creditedTo,
         { names: list(lang, others.map((p) => nameHtml(nameOf(p, lang), lang))) }) : null,
       facts: factsOf,

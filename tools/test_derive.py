@@ -132,13 +132,19 @@ class DeriveTests(unittest.TestCase):
         st = items[RELEASE]["statements"]
         old = next(e for e in derive.timeline(items) if e["item"] == RELEASE)
         st["platform posting date"] = st.pop("release date")
-        posting = next(e for e in derive.timeline(items) if e["item"] == RELEASE)
+        new_posting = next(e for e in derive.timeline(items, {}) if e["item"] == RELEASE)
+        self.assertNotEqual(new_posting["anchor"], old["anchor"])
+
+        date = old["date"]
+        key = date.get("calendar", "gregorian") + ":" + date["date"]
+        legacy = {RELEASE: {key: old["anchor"]}}
+        posting = next(e for e in derive.timeline(items, legacy) if e["item"] == RELEASE)
         self.assertEqual(posting["kind"], "posting")
         self.assertEqual(posting["anchor"], old["anchor"])
         self.assertEqual(posting["date"], old["date"])
 
         st["release date"] = copy.deepcopy(st["platform posting date"])
-        entries = {e["kind"]: e for e in derive.timeline(items) if e["item"] == RELEASE}
+        entries = {e["kind"]: e for e in derive.timeline(items, legacy) if e["item"] == RELEASE}
         self.assertEqual(set(entries), {"release", "posting"})
         self.assertEqual(entries["release"]["anchor"], old["anchor"])
         self.assertNotEqual(entries["release"]["anchor"], entries["posting"]["anchor"])

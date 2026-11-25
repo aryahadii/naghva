@@ -1,6 +1,6 @@
 import { yearOf } from './dates';
 import {
-  best, contributors, href, LANGS, performers, recordingArtists, releaseDate, releaseDates, releasesOf,
+  best, contributors, href, LANGS, performers, recordingArtists, recordingDate, recordingDates, releaseDates, releasesOf,
   type Item, type SiteRecord,
 } from './record';
 
@@ -27,6 +27,8 @@ export interface SkyEntry {
   p?: number;
   /** Years on record, Gregorian then Jalali: first and last for an artist, one for a recording. */
   d?: number[];
+  /** The recording uses a platform posting date rather than a release date. */
+  u?: true;
   /** A recording's billed artists, by their place in the list. */
   b?: number[];
 }
@@ -204,8 +206,11 @@ export function buildSky(record: SiteRecord, thumb: (item: Item) => string | und
     const image = thumb(item);
     if (image) star.m = image;
     if (item.type === 'release') {
-      const date = releaseDate(item);
-      if (date) star.d = LANGS.map((lang) => yearOf(date, lang));
+      const date = recordingDate(item);
+      if (date) {
+        star.d = LANGS.map((lang) => yearOf(date, lang));
+        if (recordingDates(item).isPosting) star.u = true;
+      }
       const billed = recordingArtists(record, item).flatMap((artist) => at.get(artist.id) ?? []);
       if (billed.length) star.b = billed;
     } else if (item.page) {
