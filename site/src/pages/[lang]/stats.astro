@@ -156,10 +156,6 @@ const half = (id: string) => (PAIRS.some((pair) => pair.includes(id) && pair.eve
     <section class="q q-wide" id="releases" aria-labelledby="releases-h">
       <div class="q-text">
         <h2 id="releases-h">{T('Which years do these records cover?', 'مدخل‌های آرشیو مربوط به چه سال‌هایی هستند؟')}</h2>
-        <p>{T(
-          'These totals count catalog entries with a date, not distinct releases. An album and individual tracks or live recordings can have separate entries.',
-          'این آمار تعداد مدخل‌های تاریخ‌دار آرشیو است، نه تعداد انتشارهای مجزا. آلبوم، قطعه‌های آن و ضبط‌های زنده ممکن است مدخل‌های جداگانه داشته باشند.',
-        )}</p>
       </div>
       <figure class="q-fig">
         <YearColumns lang={lang} years={rel} max={relScale} first={FIRST} grid={[1, .5, 0]} color="var(--coral)" unit={['entry', 'entries', 'مدخل']} earlierLabel={earlierLabel} open={nowYear} />

@@ -370,7 +370,7 @@ def check_duplicates(store, report):
             if other_urls & first_urls:  # Already reported by the exact-URL check.
                 continue
             report.warn(store.rel(other.path),
-                        "%s %s ID %s also appears on %s under a different URL; check whether they are one issue"
+                        "%s %s ID %s also appears on %s under a different URL; check whether they are one edition"
                         % (*identity[:3], first.id))
 
 
