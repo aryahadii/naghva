@@ -55,6 +55,7 @@ To record a new kind of fact, add its property here first.
 | `based in` | person, act | place |
 | `life event` | person, act | text, with its language |
 | `release date` | release | date |
+| `platform posting date` | release | date |
 | `release type` | release | release type term |
 | `performer` | release, event | act or person |
 | `contributor` | release | act or person |
@@ -87,6 +88,28 @@ A role term is a short lowercase English word, such as `guitar` or
 A release type is one of a closed list: `album`, `ep`, `single`,
 `compilation`, `soundtrack` or `live album`. It is the release's form as
 its own platform page or label states it, never a guess from its length.
+
+### Release identity and dates
+
+Existing release IDs and addresses also hold cataloged tracks and videos.
+That is a storage convention, not a claim that every item is a musical release.
+A release is an issued product, such as an album or a single. A track can
+appear on more than one release; a track listing supports that track, not
+album-wide credits. A distinct edition can have its own issue date and credits.
+Different storefront URLs alone do not establish separate editions, and a
+shared track or video URL alone does not establish the same release.
+
+- Use `release date` for an evidenced issue of the item or edition, not the
+  date that a video or audio file appeared on a platform. A platform can
+  support a release date if it explicitly identifies the issue and its date;
+  an upload timestamp by itself does not.
+- Use `platform posting date` for the publication or upload date stated on
+  the recording's platform listing. Keep the platform and its wording in the
+  reference. Different posts can have different dates. Posting dates have
+  their own timeline entries and do not count toward release-year totals.
+- Do not use either date for when the performance took place or the recording
+  was made. Use `event date` on the documented event for the performance date.
+  Leave the release date absent when the source does not establish it.
 
 ### Life events
 

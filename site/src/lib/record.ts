@@ -65,7 +65,7 @@ export interface Source {
 
 export interface TimelineEntry {
   anchor: string;
-  kind: 'release' | 'formation' | 'event' | 'joined' | 'left' | 'life';
+  kind: 'release' | 'posting' | 'formation' | 'event' | 'joined' | 'left' | 'life';
   item: string;
   about: string[];
   date: DateValue;

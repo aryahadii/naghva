@@ -67,12 +67,26 @@ def values(item, field):
             if s["value"] not in ds.SPECIAL_VALUES]
 
 
+POSTING_LOCATORS = frozenset((
+    "video publication date", "upload date", "video upload date", "youtube upload date",
+))
+
+
+def posting_only_evidence(statement):
+    """Recognize explicit posting locators, never ambiguous release/ upload metadata."""
+    refs = statement.get("references", [])
+    return bool(refs) and all(
+        (r.get("locator") or "").casefold().strip().removesuffix(", yyyymmdd") in POSTING_LOCATORS
+        for r in refs
+    )
+
+
 def audit(store):
     releases = {k: i.data for k, i in store.items.items()
                 if i.data["type"] == "release" and "statements" in i.data}
     identities, tracks = defaultdict(set), defaultdict(set)
     missing = {k: [] for k in ("release date", "release type", "listen link", "performer", "published by")}
-    video_only, upload_dates = [], []
+    video_only, upload_dates, posting_dates = [], [], []
     same_artist_title = defaultdict(set)
     for item_id, item in releases.items():
         for field, queue in missing.items():
@@ -94,11 +108,10 @@ def audit(store):
             s for s in selected(item, "release date")
             if s["value"] not in ds.SPECIAL_VALUES
         ]
-        references = [ref for s in date_statements for ref in s.get("references", [])]
-        if references and all((ref.get("locator") or "").lower() in
-                              ("video publication date", "upload date", "video upload date", "youtube upload date")
-                              for ref in references):
+        if any(posting_only_evidence(s) for s in date_statements):
             upload_dates.append(item_id)
+        if values(item, "platform posting date"):
+            posting_dates.append(item_id)
         for url in urls:
             identity = platform_identity(url)
             if identity:
@@ -122,6 +135,7 @@ def audit(store):
         "missing": missing,
         "video_only": video_only,
         "upload_only_date_review": upload_dates,
+        "platform_posting_dates": posting_dates,
         "same_artist_title_review": [
             {"performer": key[0], "normalized_title": key[1], "items": list(items)}
             for key, items in sorted((key, tuple(sorted(ids))) for key, ids in same_artist_title.items()
@@ -151,7 +165,8 @@ def main():
         for field, ids in result["missing"].items():
             print(f"{field}: {len(ids)} without a concrete value")
         print(f"{len(result['video_only'])} video-platform-only rows (not necessarily clips)")
-        print(f"{len(result['upload_only_date_review'])} selected dates cite only an explicit upload date")
+        print(f"{len(result['upload_only_date_review'])} records have a selected release date backed only by posting metadata")
+        print(f"{len(result['platform_posting_dates'])} records have a distinct platform posting date")
         print(f"{len(result['same_artist_title_review'])} same-performer/title candidates (not necessarily duplicates)")
         groups = result["shared_platform_id_review"]
         print("Shared platform-ID groups, review before merging:", dict(Counter(g["identity"][0] for g in groups)))

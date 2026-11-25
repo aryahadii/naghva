@@ -398,13 +398,24 @@ def timeline(items):
     entries = []
     identities = set()
 
-    def add(kind, item_id, about, value, alternatives=None, text=None):
+    def add(kind, item_id, about, value, alternatives=None, text=None, preserve_release_anchor=False):
         if isinstance(value, dict) and "range" in value:
-            identity = json.dumps([kind, item_id, sorted(set(about)),
+            def key(category):
+                return json.dumps([category, item_id, sorted(set(about)),
                                    value.get("calendar", "gregorian"), value["date"]]
                                   + ([text["text"]] if text else []),
                                   ensure_ascii=False, separators=(",", ":"))
-            anchor = "entry-" + hashlib.sha256(identity.encode("utf-8")).hexdigest()[:20]
+            def anchor_of(identity):
+                return "entry-" + hashlib.sha256(identity.encode("utf-8")).hexdigest()[:20]
+
+            identity = key(kind)
+            anchor = anchor_of(identity)
+            if preserve_release_anchor:
+                # A reclassified entry keeps its previously issued fragment.
+                # A real release on the exact same date still owns its anchor.
+                legacy = anchor_of(key("release"))
+                if legacy not in identities:
+                    anchor = legacy
             if anchor in identities:
                 raise ds.DataError("duplicate timeline identity: %s" % identity)
             identities.add(anchor)
@@ -429,6 +440,8 @@ def timeline(items):
             values = dates(st.get("release date", []))
             if values:
                 add("release", item_id, performers, values[0], values[1:])
+            for posting in dates(st.get("platform posting date", [])):
+                add("posting", item_id, performers, posting, preserve_release_anchor=True)
         if item["type"] == "act":
             values = dates(st.get("formation date", []))
             if values:

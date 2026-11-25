@@ -201,6 +201,10 @@ export function artistView(
     if (dates.length) factsOf.push({ label: t.release.released, html: dates.map((s) =>
       dateHtml(s.value as DateValue, lang) + cites.run(s.references)
     ).join('<br>') + (datesDisagree(values) ? `<br><span class="note">${esc(t.release.dateDisagreement)}</span>` : '') });
+    const postings = live(r.statements['platform posting date']).filter((s) => isDate(s.value));
+    if (postings.length) factsOf.push({ label: t.release.posted, html: postings.map((s) =>
+      dateHtml(s.value as DateValue, lang) + cites.run(s.references)
+    ).join('<br>') });
     if (labels.length) factsOf.push({ label: t.release.label, html: list(lang, items(labels).map(name)) + cites.run(labels.flatMap((s) => s.references)) });
     // Performers and writing or production credits are separate claims, so they get separate rows.
     for (const [label, statements] of [[t.release.performers, performers], [t.release.contributors, best(r.statements.contributor)]] as const) {

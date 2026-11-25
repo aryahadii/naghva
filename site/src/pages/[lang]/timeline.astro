@@ -28,7 +28,7 @@ const entries = record.timeline.map((e: TimelineEntry) => {
   const about = e.about.map((id) => record.items[id]).filter((x): x is Item => Boolean(x));
   let text: string;
   let sub: string | null = null;
-  if (e.kind === 'release' || e.kind === 'event') {
+  if (e.kind === 'release' || e.kind === 'posting' || e.kind === 'event') {
     text = nameHtml(nameOf(item, lang), lang, href(record, lang, item));
     sub = about.length ? list(lang, about.map(link)) : null;
   } else if (e.kind === 'life' && e.text) {
@@ -58,7 +58,7 @@ const entries = record.timeline.map((e: TimelineEntry) => {
 const years = [...new Set(entries.flatMap((e) => e.years))].sort((a, b) => a - b);
 const groups = [...new Set(entries.map((e) => e.group))].sort((a, b) =>
   a === 'disputed' ? 1 : b === 'disputed' ? -1 : Number(a) - Number(b));
-const kinds = (['release', 'formation', 'event', 'joined', 'left', 'life'] as const).filter((k) => entries.some((e) => e.kind === k));
+const kinds = (['release', 'posting', 'formation', 'event', 'joined', 'left', 'life'] as const).filter((k) => entries.some((e) => e.kind === k));
 const count = (k: string) => entries.filter((e) => e.kind === k).length;
 ---
 

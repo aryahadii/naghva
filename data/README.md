@@ -508,7 +508,8 @@ registry's names match the spec's tables.
 
 The catalog audit reports missing concrete values, shared platform IDs, possible
 album/track links, same-performer title matches and dates supported only by an
-explicit upload date. Missing data is not a false claim. Review the original
+explicit upload date. A separately recorded platform posting date does not
+fill in a missing release date. Missing data is not a false claim. Review the original
 evidence before changing anything: two storefront URLs can describe one album;
 two cuts of one concert can share a video URL; and a track may appear on
 separately issued single and album editions.
