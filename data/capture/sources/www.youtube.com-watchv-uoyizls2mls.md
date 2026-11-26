@@ -18,3 +18,8 @@ Original programme, liner notes or performer credit, read 2026-11-21.
 Original programme, liner notes or performer credit, read 2026-11-21.
 
 > 2021-07-01
+
+> "publishDate":"2021-07-01T10:30:11-07:00"
+
+YouTube watch-page player metadata, publishDate (publication timestamp),
+read 2026-11-26.

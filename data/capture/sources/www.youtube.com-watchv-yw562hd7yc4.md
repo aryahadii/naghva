@@ -11,3 +11,8 @@ about:
 Original band, named recording or film credit, read 2026-11-21.
 
 > 2020-07-25T04:40:45-07:00
+
+> "publishDate":"2020-07-25T04:40:45-07:00"
+
+YouTube watch-page player metadata, publishDate (publication timestamp),
+read 2026-11-26.

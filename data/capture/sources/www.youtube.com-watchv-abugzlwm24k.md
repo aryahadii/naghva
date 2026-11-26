@@ -11,3 +11,8 @@ about:
 Original programme, artist or edition credits, read 2026-11-21.
 
 > 2014-11-13
+
+> "publishDate":"2014-11-13T19:08:48-08:00"
+
+YouTube watch-page player metadata, publishDate (publication timestamp),
+read 2026-11-26.

@@ -21,3 +21,8 @@ Original video date, read 2026-11-21.
 > https://i.ytimg.com/vi/3HvdUnHwrXs/maxresdefault.jpg
 
 Official or featured video image, read 2026-11-21.
+
+> "publishDate":"2026-10-01T08:00:00-07:00"
+
+YouTube watch-page player metadata, publishDate (publication timestamp),
+read 2026-11-26.

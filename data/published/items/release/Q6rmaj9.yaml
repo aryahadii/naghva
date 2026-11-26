@@ -17,14 +17,14 @@ statements:
       quote: 'Sogol Mirzaei | Musiciens d''ici, musiques d''ailleurs #4'
       locator: Original programme, liner notes or performer credit
       accessed: '2026-11-21'
-  release date:
+  platform posting date:
   - value:
       date: '2021-07-01'
     references:
     - source: www.youtube.com-watchv-uoyizls2mls
-      quote: '2021-07-01'
-      locator: Original programme, liner notes or performer credit
-      accessed: '2026-11-21'
+      quote: '"publishDate":"2021-07-01T10:30:11-07:00"'
+      locator: YouTube publishDate
+      accessed: '2026-11-26'
   cover art:
   - value: https://i.ytimg.com/vi/uoyizls2Mls/hqdefault.jpg
     references:

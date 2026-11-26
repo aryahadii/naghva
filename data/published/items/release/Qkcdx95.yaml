@@ -17,14 +17,14 @@ statements:
       quote: '#کمانچه #کورش_بابایی #موسیقی #آهنگساز #شعر #کمانچه_نوازی #پادكست #چاى_با_بنفشه #پادكست_چاى_با_'
       accessed: 2026-11-21
       locator: Instrumentalist identified in the artist’s film
-  release date:
+  platform posting date:
   - value:
       date: '2020-11-16'
     references:
     - source: youtu.be-hnbfjlu0o54
-      quote: '2020-11-16'
-      accessed: 2026-11-21
-      locator: Publication date
+      quote: '"publishDate":"2020-11-16T08:14:11-08:00"'
+      locator: YouTube publishDate
+      accessed: '2026-11-26'
   cover art:
   - value: https://i.ytimg.com/vi/HNBfJlu0o54/hqdefault.jpg
     references:

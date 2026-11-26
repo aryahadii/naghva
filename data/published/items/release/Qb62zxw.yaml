@@ -30,14 +30,14 @@ statements:
       quote: 'رنگآهنگ: اجرای اروین خاچیکیان و گروه کارمندان'
       accessed: '2026-11-21'
       locator: Original video
-  release date:
+  platform posting date:
   - value:
       date: '2026-10-01'
     references:
     - source: www.youtube.com-watch-v-3hvdunhwrxs
-      quote: '2026-10-01'
-      accessed: '2026-11-21'
-      locator: Original video date
+      quote: '"publishDate":"2026-10-01T08:00:00-07:00"'
+      locator: YouTube publishDate
+      accessed: '2026-11-26'
   cover art:
   - value: https://i.ytimg.com/vi/3HvdUnHwrXs/maxresdefault.jpg
     qualifiers:

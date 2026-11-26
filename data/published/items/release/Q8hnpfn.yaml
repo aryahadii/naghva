@@ -44,11 +44,11 @@ statements:
       credit:
         text: Farzane Zamen, via YouTube
         language: en
-  release date:
+  platform posting date:
   - value:
       date: '2019-09-10'
     references:
     - source: www.youtube.com-watchv-kh6el8ywrnu
-      quote: '20190910'
-      accessed: '2026-11-21'
-      locator: Video upload date (YouTube metadata, YYYYMMDD)
+      quote: '"publishDate":"2019-09-10T16:22:19-07:00"'
+      locator: YouTube publishDate
+      accessed: '2026-11-26'
