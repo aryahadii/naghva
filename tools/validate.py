@@ -174,6 +174,24 @@ def check_item(item, store, registry, report):
         for n, st in enumerate(statements, 1):
             _check_statement("%s[%d]" % (here, n), st, spec, prop, store, registry, report)
     _check_role_kinds(where, data, registry, report)
+    _check_components(where, data, store, report)
+
+
+def _check_components(where, data, store, report):
+    statements = data["statements"]
+    def active(entries):
+        return (s for s in entries if s.get("rank") != "deprecated"
+                and isinstance(s["value"], str) and s["value"] not in ds.SPECIAL_VALUES)
+    for prop in ds.COMPONENT_PROPERTIES:
+        for s in active(statements.get(prop, [])):
+            target_id = s["value"]
+            # The normal item check handles unknown IDs, special values and wrong types.
+            target = store.items.get(target_id)
+            if target_id == data["id"]:
+                report.error(where, f"`{prop}` cannot point to the same record")
+            elif target and any(next(active(target.data.get("statements", {}).get(parent, [])), None)
+                                for parent in ds.COMPONENT_PROPERTIES):
+                report.error(where, f"`{prop}` must point to a whole, not another component: {target_id}")
 
 
 # A release's performers perform; its contributors write or produce.

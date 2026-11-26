@@ -51,6 +51,34 @@ test('a shared release link opens its panel and citations lead to an expanded so
   await expect(page.locator(source!).locator('xpath=ancestor::details')).toHaveAttribute('open', '');
 });
 
+test('Sahba’s tracks and programme segments link to their whole records in both languages', async ({ page }) => {
+  const track = 'abouata-chaharmezrab-e-abouta-feat-pejman-hadadi-tse';
+  const album = 'ancient-heritage-feat-pejman-hadadi-bfz';
+  const segment = 'improvisation-in-mahur-freer-sackler-2017-s6v';
+  for (const [lang, trackLabel, segmentLabel] of [
+    ['en', 'Track of', 'Programme segment of'], ['fa', 'قطعه‌ای از', 'بخشی از برنامهٔ'],
+  ]) {
+    const path = `/${lang}/sahba-motallebi-yw4/`;
+    await page.goto(`${path}#${track}`);
+    const dialog = page.locator('#release-dialog');
+    await expect(dialog.getByText(trackLabel, { exact: true })).toBeVisible();
+    await dialog.locator(`a[href="${path}#${album}"]`).click();
+    await expect(dialog.getByRole('heading', { name: 'Ancient Heritage (feat. Pejman Hadadi)' })).toBeVisible();
+    await page.goto(`${path}#${segment}`);
+    await expect(dialog.getByText(segmentLabel, { exact: true })).toBeVisible();
+    await expect(dialog.locator(`a[href="${path}#persian-music-classical-and-new-sjw"]`)).toBeVisible();
+  }
+});
+
+test('an old filtered release timeline link still opens its reclassified track', async ({ page }) => {
+  const fragment = 'entry-07b62589c0b63df7cba3';
+  await page.goto(`/en/timeline/?artist=sahba-motallebi-yw4&kind=release#${fragment}`);
+  const track = page.locator(`#${fragment}`);
+  await expect(track).toHaveAttribute('data-kind', 'component');
+  await expect(track).toBeVisible();
+  await expect(track).toContainText('Chaharmezrab-e Abouta');
+});
+
 test('timeline year landings preserve the same entry across both calendars and filters', async ({ page }) => {
   await page.goto('/en/timeline/?artist=sanam-maroufkhani-a84&kind=release#2021');
   const first = page.locator('.year[id="2021"] .entry:not([hidden])').first();

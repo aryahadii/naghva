@@ -70,6 +70,25 @@ test('listening URLs combine distinct evidence and render independent citations 
     assert.ok(view.sources.some((s) => s.quotes.some((q) => q.quote === extra.quote)));
   }
 });
+test('a dated programme segment does not say Released in either language', () => {
+  const artist = published.items.Qyw49hh;
+  const segment = published.items.Qs6vktc;
+  const dated = {
+    ...segment,
+    statements: {
+      ...segment.statements,
+      'release date': published.items.Qtseyat.statements['release date'],
+    },
+  };
+  const record = { ...published, items: { ...published.items, [segment.id]: dated } };
+  for (const lang of ['en', 'fa']) {
+    const labels = JSON.parse(readFileSync(`src/strings/${lang}.json`, 'utf8')).release;
+    const panel = artistView(record, artist, lang).releasePanels.find((p) => p.item.id === segment.id);
+    assert.ok(panel.facts.some((f) => f.label === labels.segmentDate), lang);
+    assert.ok(!panel.facts.some((f) => f.label === labels.released), lang);
+  }
+});
+
 test('catalogue dates put undated last in both directions with stable ID ties', () => {
   const values = [{ id: 'z' }, { id: 'b', date: '2020' }, { id: 'a', date: '2020' }, { id: 'c', date: '1999' }];
   assert.deepEqual([...values].sort((a,b) => compareDates(a,b)).map((r) => r.id), ['c','a','b','z']);

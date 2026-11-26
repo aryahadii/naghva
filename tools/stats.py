@@ -222,6 +222,11 @@ def stats(items, artists, sources, tiers, articles=None):
 
     release_days = [first_day(r["statements"].get("release date", [])) for r in releases]
 
+    # Preserve the raw record count and date coverage. Count only whole issues
+    # in the year chart when a record has a documented parent.
+    issue_days = [day for r, day in zip(releases, release_days) if day and not any(
+        s["value"] in items for prop in ds.COMPONENT_PROPERTIES
+        for s in kept(r["statements"].get(prop, [])) if isinstance(s["value"], str))]
     performed = defaultdict(list)
     for r, day in zip(releases, release_days):
         if day:
@@ -282,7 +287,7 @@ def stats(items, artists, sources, tiers, articles=None):
             "sources": len(sources),
             "references": sum(references.values()),
         },
-        "releases": {"days": sorted(d for d in release_days if d), "total": len(releases)},
+        "releases": {"days": sorted(issue_days), "total": len(releases)},
         "starts": {"days": sorted(starts), "total": len(pages)},
         "based": {"known": sum(1 for a in pages if has(a, "based in")), "total": len(pages), **bases(items, artists)},
         "listen": {"total": len(releases), "linked": linked,

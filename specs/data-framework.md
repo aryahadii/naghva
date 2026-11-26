@@ -57,6 +57,8 @@ To record a new kind of fact, add its property here first.
 | `release date` | release | date |
 | `platform posting date` | release | date |
 | `release type` | release | release type term |
+| `track of` | release | release |
+| `programme segment of` | release | release |
 | `performer` | release, event | act or person |
 | `contributor` | release | act or person |
 | `published by` | release | organization |
@@ -98,6 +100,16 @@ appear on more than one release; a track listing supports that track, not
 album-wide credits. A distinct edition can have its own issue date and credits.
 Different storefront URLs alone do not establish separate editions, and a
 shared track or video URL alone does not establish the same release.
+
+Use `track of` when an edition's track list identifies the recording. Use
+`programme segment of` when a programme lists a distinct piece in a shared
+recording. Neither asserts that the component was issued separately. Both
+point to the whole, never to another component or back to the same record.
+Keep track and segment IDs, credits, and links. Put an edition's date on the
+edition; keep a separately evidenced track date on the track. Date charts
+do not count linked tracks or segments as separate issues. Edition variants
+and standalone singles are separate records only when their own issue is
+evidenced; a platform URL or title match alone is not enough.
 
 - Use `release date` for an evidenced issue of the item or edition, not the
   date that a video or audio file appeared on a platform. A platform can
