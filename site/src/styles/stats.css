@@ -309,7 +309,7 @@ html.nf-lock, html.nf-lock body { overflow: hidden; overscroll-behavior: none }
 .is-full .net-close { display: grid }
 .is-full .net-bar { flex: none; z-index: 4; padding: max(10px, env(safe-area-inset-top)) var(--gutter) 8px }
 .is-full .net-found { top: 100%; inset-inline: var(--gutter) }
-.is-full .net-wrap { flex: 1; min-height: 0; overflow: hidden; touch-action: none; cursor: grab }
+.is-full .net-wrap { flex: 1; align-self: stretch; min-height: 0; overflow: hidden; touch-action: none; cursor: grab }
 .is-full .net-svg { position: absolute; inset: 0; width: 100%; height: 100% }
 .is-full .net-panel { flex: none; padding: 12px var(--gutter) max(14px, env(safe-area-inset-bottom)); border-top: 1px solid var(--line); background: var(--ink) }
 .is-full:not(.has-sel) .net-cap { display: none }

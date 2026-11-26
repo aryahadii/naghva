@@ -280,7 +280,7 @@ function network(): void {
       move(new Map());
       if (isle) glide(isleView(isle)); else setView(base);
     }
-    out.hidden = !isOpen || !!sel || zoom() < 1.03;
+    out.hidden = !isOpen || zoom() < 1.03;
   };
   // One of the chosen person's circle singled out, by a first tap, a resting pointer or its row: its name shows,
   // its row is marked, and its own ties within the circle are drawn.
@@ -312,7 +312,10 @@ function network(): void {
   // Full screen: the visible part of the picture always has the stage's shape, so nothing is letterboxed.
   const MAX = 8;
   const fit = (): View => {
-    const r = stageBox(), a = r.width / (r.height || 1);
+    const r = stageBox();
+    // A stage with no size yet (mid-resize) keeps the view it had.
+    if (r.width < 1 || r.height < 1) return base;
+    const a = r.width / r.height;
     let w = W * 1.04, h = H * 1.04;
     if (w / h > a) h = w / a; else w = h * a;
     return [(W - w) / 2, (H - h) / 2, w, h];
@@ -328,7 +331,7 @@ function network(): void {
     view = v;
     svg.setAttribute('viewBox', v.map((x) => x.toFixed(2)).join(' '));
     sizeAll();
-    out.hidden = !isOpen || !!sel || zoom() < 1.03;
+    out.hidden = !isOpen || zoom() < 1.03;
     placeNames();
   };
   const glide = (to: View) => {
@@ -373,6 +376,7 @@ function network(): void {
     if (key === lastBox) return;
     lastBox = key;
     if (!isOpen) { if (sel) move(around(sel)); else placeNames(); return; }
+    if (r.width < 1 || r.height < 1) return;
     // A turned phone (the window, not the stage, which changes shape as rows come and go) turns the map with it, back to the whole map or around the chosen person.
     if ((innerHeight > innerWidth) !== upright) {
       upright = !upright;
@@ -469,7 +473,8 @@ function network(): void {
   // Escape lets go of the chosen person, from the network or from nowhere in particular, not from the page's
   // own search field.
   addEventListener('keydown', (e) => {
-    if (e.key !== 'Escape' || e.defaultPrevented) return;
+    // A held key repeats: one press is one step back, however long it is held.
+    if (e.key !== 'Escape' || e.defaultPrevented || e.repeat) return;
     if (!isOpen && e.target !== document.body && !(e.target instanceof Node && ui.contains(e.target))) return;
     if (sel) go(null);
     else if (isOpen) shut();
@@ -488,8 +493,9 @@ function network(): void {
     const b = e.target instanceof Element ? e.target.closest<HTMLElement>('[data-pick]') : null;
     if (!b) return;
     const d = byId.get(b.dataset.pick ?? '');
+    // Any pick puts the search away, so its list never covers the rows it was opened over.
     const searched = found.contains(b);
-    if (searched) ask('');
+    ask('');
     pick(d);
     if (searched && d) nameEl.focus({ preventScroll: true });
   });
@@ -538,6 +544,8 @@ function network(): void {
       ask('');
       pick(d);
       nameEl.focus({ preventScroll: true });
+    } else if (e.key === 'Tab') {
+      ask('');
     } else if (e.key === 'Escape' && input.value) {
       e.preventDefault();
       ask('');
