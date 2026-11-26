@@ -43,7 +43,16 @@ export interface Item {
   host?: string;
   /** An artist's releases: performed on or hosted (derive). */
   releases?: string[];
+  /** A track's or segment's place in each whole's listing, by whole (derive). */
+  positions?: { [whole: string]: Position };
 }
+
+/** Where a component sits in its whole: the number its source gives, else the
+ * order of its quote among the quotes captured from that source. */
+export interface Position { number?: number; source: string; at?: number }
+
+export const COMPONENT_PROPERTIES = ['track of', 'programme segment of'] as const;
+export type ComponentProperty = typeof COMPONENT_PROPERTIES[number];
 
 export interface Note extends Reference { key: string }
 export interface Article {
@@ -249,6 +258,26 @@ export function datesDisagree(dates: DateValue[]): boolean {
 
 export function byRecordingDate(a: Item, b: Item): number {
   return compareDates({ id: a.id, date: recordingDate(a)?.range[0] }, { id: b.id, date: recordingDate(b)?.range[0] });
+}
+
+/** The wholes a release is a component of, with the property that says so. */
+export function wholesOf(release: Item): { whole: string; property: ComponentProperty }[] {
+  return COMPONENT_PROPERTIES.flatMap((property) => best(release.statements[property])
+    .map((s) => ({ whole: s.value as string, property })));
+}
+
+/** Put a whole's components in listing order, in place: by their source's
+ * numbers when every component has one, else by quote order when they all
+ * come from one source, else numbered ones first by number, the rest as given
+ * (recording date). Says whether the order is the source's. */
+export function orderParts(parts: Item[], whole: string): boolean {
+  const at = new Map(parts.map((p) => [p, p.positions?.[whole]]));
+  const all = [...at.values()];
+  const by = (key: (p?: Position) => number) => parts.sort((a, b) => key(at.get(a)) - key(at.get(b)));
+  if (all.every((p) => p?.number !== undefined)) { by((p) => p!.number!); return true; }
+  if (all.every((p) => p?.at !== undefined && p.source === all[0]!.source)) { by((p) => p!.at!); return true; }
+  by((p) => p?.number ?? Number.MAX_SAFE_INTEGER);
+  return false;
 }
 
 /** Release types that make a whole record: what a newcomer can take in at a glance. */

@@ -6,7 +6,7 @@ import { COVER_WIDTHS, imageOf, PHOTO_WIDTHS, type LinkedImage } from './images'
 import { renderArticle } from './markdown';
 import { platform } from './platforms';
 import {
-  best, recordingArtists, datesDisagree, href, isDate, isText, nameOf, otherName, panelReleasesOf, recordingDates, releaseDates, catalogueReleasesOf, url,
+  best, orderParts, wholesOf, type ComponentProperty, recordingArtists, datesDisagree, href, isDate, isText, nameOf, otherName, panelReleasesOf, recordingDates, releaseDates, catalogueReleasesOf, url,
   type Article, type DateValue, type Item, type Lang, type SiteRecord, type Statement, type Text, type Reference,
 } from './record';
 
@@ -27,6 +27,8 @@ export interface ReleaseView {
   with: string | null;
   facts: Fact[];
   listen: ListenLink[];
+  /** Plain titles of the tracks folded into this card, for the shelf filter. */
+  trackNames: string[];
 }
 export interface SectionView { heading: string; anchor: string; html: string }
 export interface EventView { item: Item; date: string | null; evidence: string }
@@ -41,7 +43,10 @@ export interface ArtistView {
   sections: SectionView[];
   /** Set when the article is only written in the other language. */
   articleElsewhere: Lang | null;
+  /** The artist's recordings, tracks included; each has a panel. */
   releases: ReleaseView[];
+  /** The Recordings row: a track whose album is on this page folds into the album's card. */
+  shelf: ReleaseView[];
   releasePanels: ReleaseView[];
   events: EventView[];
   sources: CitedSource[];
@@ -111,6 +116,25 @@ export function artistView(
   const name = (item: Item) => nameHtml(nameOf(item, lang), lang, link(item));
   const releases = catalogueReleasesOf(record, artist);
   const panelReleases = panelReleasesOf(record, artist, releases);
+  const onPage = new Map(panelReleases.map((r) => [r.id, r]));
+  // A release with a panel on this page is linked to that panel, not to another page.
+  const releaseName = (item: Item) => onPage.has(item.id)
+    ? nameHtml(nameOf(item, lang), lang, `#${item.anchor ?? item.id}`)
+    : name(item);
+  // A track folds into its album only when the album is one of this artist's recordings.
+  const own = new Map(releases.map((r) => [r.id, r]));
+  const parentsOnPage = (r: Item) => wholesOf(r).filter(({ whole }) => own.has(whole) && whole !== r.id && !wholesOf(own.get(whole)!).length);
+  // An album's tracks and a programme's segments on this page, in the order their sources list them.
+  const partsOf = new Map<string, { [P in ComponentProperty]: Item[] }>();
+  const sourceOrder = new Set<Item[]>();
+  for (const r of releases) {
+    for (const { whole, property } of parentsOnPage(r)) {
+      const parts = partsOf.get(whole) ?? { 'track of': [], 'programme segment of': [] };
+      if (!parts[property].includes(r)) parts[property].push(r);
+      partsOf.set(whole, parts);
+    }
+  }
+  for (const [whole, parts] of partsOf) for (const list of Object.values(parts)) if (orderParts(list, whole)) sourceOrder.add(list);
 
   // The photo comes first on the page, so its sources are numbered first.
   const photoImage = photoSize && imageOf(artist, 'image', PHOTO_WIDTHS);
@@ -214,8 +238,17 @@ export function artistView(
       dateHtml(s.value as DateValue, lang) + cites.run(s.references)
     ).join('<br>') });
     for (const { label, records, statements } of parents) {
-      factsOf.push({ label, html: list(lang, records.map(name)) + cites.run(statements.flatMap((s) => s.references)) });
+      factsOf.push({ label, html: list(lang, records.map(releaseName)) + cites.run(statements.flatMap((s) => s.references)) });
     }
+    const parts = partsOf.get(r.id);
+    for (const [label, list] of [[t.release.tracks, parts?.['track of']], [t.release.segments, parts?.['programme segment of']]] as const) {
+      if (!list?.length) continue;
+      const tag = sourceOrder.has(list) ? 'ol' : 'ul';
+      const evidence = list.flatMap((part) => wholesOf(part).filter((w) => w.whole === r.id)
+        .flatMap(({ property }) => best(part.statements[property]).filter((s) => s.value === r.id)).flatMap((s) => s.references));
+      factsOf.push({ label, html: `<${tag} class="part-list">${list.map((part) => `<li>${releaseName(part)}</li>`).join('')}</${tag}>` + cites.run(evidence) });
+    }
+    const tracks = parts ? [...parts['track of'], ...parts['programme segment of']] : [];
     if (labels.length) factsOf.push({ label: t.release.label, html: list(lang, items(labels).map(name)) + cites.run(labels.flatMap((s) => s.references)) });
     // Performers and writing or production credits are separate claims, so they get separate rows.
     for (const [label, statements] of [[t.release.performers, performers], [t.release.contributors, best(r.statements.contributor)]] as const) {
@@ -252,6 +285,7 @@ export function artistView(
         { names: list(lang, others.map((p) => nameHtml(nameOf(p, lang), lang))) }) : null,
       facts: factsOf,
       listen,
+      trackNames: tracks.flatMap((track) => [nameOf(track, lang).text, otherName(track, lang)?.text ?? '']).filter(Boolean),
     };
   });
 
@@ -289,6 +323,7 @@ export function artistView(
     sections,
     articleElsewhere: elsewhere,
     releases: releaseViews.filter((view) => releases.some((release) => release.id === view.item.id)),
+    shelf: releaseViews.filter((view) => releases.some((release) => release.id === view.item.id) && !parentsOnPage(view.item).length),
     releasePanels: releaseViews,
     events,
     sources: cites.list(),

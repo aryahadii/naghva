@@ -49,3 +49,10 @@ statements:
       quote: Longing - Live in Studio
       locator: Matched Spotify track
       accessed: '2026-11-21'
+  track of:
+  - value: Q3qm2ce
+    references:
+    - source: music.apple.com-us-album-mother-ocean-live-in-studio-1660458473
+      quote: Longing - Live in Studio
+      accessed: 2026-11-21
+      locator: Track 2
