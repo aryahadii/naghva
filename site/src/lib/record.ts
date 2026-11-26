@@ -251,6 +251,40 @@ export function byRecordingDate(a: Item, b: Item): number {
   return compareDates({ id: a.id, date: recordingDate(a)?.range[0] }, { id: b.id, date: recordingDate(b)?.range[0] });
 }
 
+/** Release types that make a whole record: what a newcomer can take in at a glance. */
+const WHOLE_RECORDS = new Set(['album', 'ep', 'live album', 'soundtrack']);
+
+/** The homepage's new records: whole records with a release date and cover art, newest
+ * first, one per artist, named by the page each card opens. Tracks, singles, clips and
+ * uploads dated only by posting stay on artist pages and the Timeline. */
+export function newRecords(record: SiteRecord, limit: number): Item[] {
+  const candidates = Object.values(record.items).filter((i) => {
+    const types = best(i.statements['release type']).map((s) => s.value as string);
+    return i.type === 'release' && types.some((t) => WHOLE_RECORDS.has(t)) && !types.includes('single')
+      && releaseDates(i).length > 0 && Boolean(releaseHost(record, i))
+      // A release's link is the same in both languages, so either one answers whether it has one.
+      && Boolean(href(record, 'en', i))
+      && best(i.statements['cover art']).some((s) => typeof s.value === 'string' && /^https?:\/\//.test(s.value));
+  }).sort(byRecordingDate).reverse();
+  const shelf: Item[] = [];
+  const hosts = new Set<string>();
+  for (const release of candidates) {
+    if (shelf.length === limit) break;
+    const host = releaseHost(record, release)!.id;
+    if (hosts.has(host)) continue;
+    hosts.add(host);
+    shelf.push(release);
+  }
+  return shelf;
+}
+
+/** A title without a trailing EP marker, for a shelf that already presents whole records
+ * (in Persian, آلبوم covers EPs too). */
+export function withoutEpMarker(title: Text): Text {
+  const text = title.text.replace(/\s*(?:[-–—]\s*EP|\(EP\)|\[EP\])$/i, '');
+  return text ? { ...title, text } : title;
+}
+
 export function artistPages(record: SiteRecord): Item[] {
   return record.artists.map((id) => record.items[id]).filter((x): x is Item => Boolean(x?.page));
 }
