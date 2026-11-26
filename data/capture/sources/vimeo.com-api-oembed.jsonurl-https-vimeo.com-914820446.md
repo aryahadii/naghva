@@ -16,3 +16,7 @@ Artist or presenter video title, read 2026-11-21.
 Date the filmed excerpt was published, read 2026-11-21.
 
 > 2024-02-20 10:38:49
+
+> "upload_date":"2024-02-20 10:38:49"
+
+Vimeo oEmbed upload_date (publication timestamp), read 2026-11-26.

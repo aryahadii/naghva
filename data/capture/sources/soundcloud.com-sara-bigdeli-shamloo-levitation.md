@@ -20,3 +20,7 @@ Release artwork, read 2026-11-21.
 > 2013-08-24T21:38:49Z
 
 Artist interview, biography or performance credits, read 2026-11-21.
+
+> "created_at":"2013-08-24T21:38:49Z"
+
+SoundCloud track created_at (upload timestamp), read 2026-11-26.

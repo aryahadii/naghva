@@ -45,14 +45,14 @@ statements:
       quote: Yelgl2I-3ds
       accessed: '2026-11-21'
       locator: Original embedded concert video
-  release date:
+  platform posting date:
   - value:
-      date: '2023-04-16'
+      date: '2023-11-30'
     references:
-    - source: www.farhang.org-farhang-performances-hagh-right
-      quote: On April 16, 2023
-      accessed: '2026-11-21'
-      locator: Concert date
+    - source: youtube-hagh-farhang-live-2023
+      quote: '"publishDate":"2023-11-30T11:00:08-08:00"'
+      locator: YouTube watch-page publishDate (publication timestamp)
+      accessed: '2026-11-26'
   cover art:
   - value: https://i.ytimg.com/vi/Yelgl2I-3ds/hqdefault.jpg
     qualifiers:

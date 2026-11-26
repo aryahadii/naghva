@@ -35,11 +35,11 @@ statements:
       credit:
         text: SarrSew on SoundCloud
         language: en
-  release date:
+  platform posting date:
   - value:
       date: '2013-08-24'
     references:
     - source: soundcloud.com-sara-bigdeli-shamloo-levitation
-      quote: '2013-08-24T21:38:49Z'
-      accessed: '2026-11-21'
-      locator: Artist interview, biography or performance credits
+      quote: '"created_at":"2013-08-24T21:38:49Z"'
+      locator: SoundCloud track created_at (upload timestamp)
+      accessed: '2026-11-26'
