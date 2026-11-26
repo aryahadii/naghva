@@ -19,3 +19,6 @@ about:
 > name="music:release_date" content="2019-06-10"
 
 Page title, description and release date meta tag. Read 2026-11-08.
+
+Existing page-title excerpt rechecked against the original track page,
+read 2026-11-26.
