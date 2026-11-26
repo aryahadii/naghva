@@ -58,6 +58,30 @@ for (const lang of ['en', 'fa']) {
   });
 }
 
+test('picking a row puts the search list away', async ({ page }) => {
+  await page.goto('/en/stats/');
+  await page.locator('.net-q').fill('a');
+  await expect(page.locator('.net-found')).toBeVisible();
+  await page.locator('.net-rows [data-pick]').last().click({ force: true });
+  await expect(page.locator('.net-who')).toBeVisible();
+  await expect(page.locator('.net-found')).toBeHidden();
+  await expect(page.locator('.net-q')).toHaveValue('');
+});
+
+test.describe('on a wide phone turned on its side', () => {
+  test.use({ viewport: { width: 932, height: 430 }, hasTouch: true, isMobile: true });
+
+  test('the full-screen map keeps its size with a person chosen', async ({ page }) => {
+    await page.goto('/en/stats/');
+    await page.locator('.net-expand').click();
+    const full = page.locator('.net-full');
+    await full.locator('.net-rows [data-pick]').first().click();
+    await expect(full.locator('.net-who')).toBeVisible();
+    expect((await full.locator('.net-wrap').boundingBox())!.width).toBeGreaterThan(300);
+    expect(await full.locator('.net-svg').getAttribute('viewBox')).toMatch(/^[-\d. ]+$/);
+  });
+});
+
 test.describe('on a phone', () => {
   test.use({ viewport: { width: 390, height: 844 }, hasTouch: true, isMobile: true });
 
