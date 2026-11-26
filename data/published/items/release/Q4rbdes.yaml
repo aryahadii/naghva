@@ -55,3 +55,10 @@ statements:
       quote: spotify:track:3JerkLN695YWpfnONjnBfv
       accessed: '2026-11-21'
       locator: Spotify track 5
+  track of:
+  - value: Q5x2r69
+    references:
+    - source: music.apple.com-us-album-bote-jeghe-1586165677
+      quote: Nidia (Canción de Amor)
+      accessed: 2026-11-21
+      locator: Track 5

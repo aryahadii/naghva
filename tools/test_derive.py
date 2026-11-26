@@ -19,6 +19,29 @@ EXAMPLES = ds.REPO / "data" / "examples"
 BAND, NIMA, RELEASE, MERGED = "Q7k3m9x", "Q5fd2cn", "Qd8mk4r", "Q9pw4tm"
 
 
+class ComponentPositionTests(unittest.TestCase):
+    def position(self, locator, quote, quotes):
+        source = type("Source", (), {"quotes": [ds.normalize(q) for q in quotes]})()
+        item = {"statements": {"track of": [{"value": "Qalbum", "rank": "normal", "references": [
+            {"source": "album-page", "quote": quote, "locator": locator}]}]}}
+        return derive.component_positions(item, {"album-page": source})["Qalbum"]
+
+    def test_a_numbered_locator_and_the_quote_order_are_both_kept(self):
+        self.assertEqual(self.position("Spotify album track 7", "Sins", ["Afternoon Tea", "Sins"]),
+                         {"source": "album-page", "number": 7, "at": 1})
+
+    def test_a_title_track_is_placed_by_the_track_list_not_the_heading(self):
+        self.assertEqual(self.position("Track listing", "Ahoora", ["Ahoora", "Intro", "Ahoora"])["at"], 2)
+
+    def test_a_number_in_a_title_is_not_a_track_number(self):
+        self.assertNotIn("number", self.position("Track 456, artist credits", "456", ["456"]))
+        self.assertNotIn("number", self.position("Track listing", "Sins", ["Sins"]))
+
+    def test_a_quote_the_source_does_not_hold_has_no_order(self):
+        self.assertEqual(self.position("Track 2 in label delivery", "Gone", ["Sins"]),
+                         {"source": "album-page", "number": 2})
+
+
 class DeriveTests(unittest.TestCase):
     @classmethod
     def setUpClass(cls):

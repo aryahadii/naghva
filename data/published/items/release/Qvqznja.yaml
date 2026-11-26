@@ -49,3 +49,10 @@ statements:
       quote: Pelistank
       locator: Matched Spotify track
       accessed: '2026-11-21'
+  track of:
+  - value: Qsk6js4
+    references:
+    - source: music.apple.com-us-album-geramawe-1598931350
+      quote: Pelistank
+      accessed: 2026-11-21
+      locator: Track 8

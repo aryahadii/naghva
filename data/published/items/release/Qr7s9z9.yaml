@@ -49,3 +49,10 @@ statements:
       quote: Ashiyane - Live
       locator: Matched Spotify track
       accessed: '2026-11-21'
+  track of:
+  - value: Qd7dzdf
+    references:
+    - source: music.apple.com-us-album-pekawe-live-1847875375
+      quote: Ashiyane - Live
+      accessed: 2026-11-21
+      locator: Track 2
