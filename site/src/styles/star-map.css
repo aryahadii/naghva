@@ -7,9 +7,9 @@
 .sky-slot:active { transform: scale(.994) }
 
 .sky-stage { position: absolute; inset: 0; overflow: hidden; animation: sky-arrive .9s ease-out }
-/* In the page the painted night melts away well before the edges, and the stars and clouds reach past it. */
-.sky-ground { --melt: linear-gradient(to bottom, transparent, #000 30%, #000 70%, transparent), linear-gradient(90deg, transparent, #000 20%, #000 80%, transparent); position: absolute; inset: 0; background: 50% 50% / cover no-repeat }
-.sky-stage[data-mode=preview] .sky-ground { -webkit-mask-image: var(--melt); -webkit-mask-composite: source-in; mask-image: var(--melt); mask-composite: intersect }
+/* In the page the painted night thins out in soft patches towards the edges, and the stars and clouds reach past it. */
+.sky-ground { --melt: radial-gradient(54% 62% at 46% 48%, rgb(0 0 0 / .95), rgb(0 0 0 / .6) 42%, rgb(0 0 0 / .2) 74%, transparent), radial-gradient(40% 50% at 68% 56%, rgb(0 0 0 / .6), rgb(0 0 0 / .2) 60%, transparent), radial-gradient(34% 44% at 26% 58%, rgb(0 0 0 / .5), rgb(0 0 0 / .15) 60%, transparent); position: absolute; inset: 0; background: 50% 50% / cover no-repeat }
+.sky-stage[data-mode=preview] .sky-ground { -webkit-mask-image: var(--melt); mask-image: var(--melt) }
 .sky-field { position: absolute; top: 0; left: 0; transform-origin: 0 0; pointer-events: none }
 .sky-canvas { display: block; position: absolute; inset: 0; width: 100%; height: 100% }
 .sky-stage[data-mode=full] .sky-canvas { touch-action: none; cursor: grab }

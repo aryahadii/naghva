@@ -302,13 +302,13 @@ export function makeSky(stars: SkyStar[], options: SkyOptions): SkyView | null {
   /** Bring a star to where its card has room, close enough to tell its own links apart. */
   function flyTo(index: number, always: boolean) {
     const star = stars[index];
-    const room = spanY();
-    const focus = { x: w / 2, y: padTop() + room * (linksRise(index) ? .44 : .56) };
+    const span = spanY();
+    const focus = { x: w / 2, y: padTop() + span * (linksRise(index) ? .44 : .56) };
     const reach = neighbours[index]
       .map((other) => Math.hypot((stars[other].x - star.x) * spanX(), (stars[other].y - star.y) * spanY()))
       .sort((a, b) => a - b);
     const typical = reach[Math.floor(reach.length * .6)];
-    const wanted = typical ? clamp((.3 * Math.min(w, room)) / typical, 1, 8) : 2.5;
+    const wanted = typical ? clamp((.3 * Math.min(w, span)) / typical, 1, 8) : 2.5;
     const spot = project(star);
     const inView = spot.x > 24 && spot.x < w - 24 && spot.y > pads.top + 24 && spot.y < h - pads.bottom - 24;
     // A reader who has zoomed in further keeps their zoom; a star they tapped in a comfortable place stays there.
@@ -356,8 +356,11 @@ export function makeSky(stars: SkyStar[], options: SkyOptions): SkyView | null {
     options.onSelect(index);
   }
 
-  // Stable exposure gives the same stars their character in both languages.
-  const radiance = stars.map(star => {
+  // Stable exposure gives the same stars their character in both languages. An artist
+  // with a page is as bright as its links are many, so the sky's great stars are its great names.
+  const mostLinks = Math.log1p(Math.max(1, ...artistPages.map((i) => neighbours[i].length)));
+  const radiance = stars.map((star, i) => {
+    if (star.page) return (Math.log1p(neighbours[i].length) / mostLinks) ** 2.6;
     let hash = 2166136261;
     for (const char of star.key) hash = Math.imul(hash ^ char.charCodeAt(0), 16777619);
     return ((hash >>> 0) / 4294967296) ** 2;
@@ -508,6 +511,9 @@ export function makeSky(stars: SkyStar[], options: SkyOptions): SkyView | null {
   // A phone fits the same sky into far fewer pixels. Its fainter stars are
   // painted smaller, and grow as the reader zooms.
   let markScale = 1;
+  // How much room each star has on the screen. With little of it the sky is seen from far
+  // off: its great stars stand out, and the rest are dust that brightens as the reader comes closer.
+  let room = 1;
   /** One mark cut from the sheet of its pigment, from the smallest sheet that still holds it sharp. */
   function stamp(ctx: CanvasRenderingContext2D, hue: Hue, cut: number, row: number, x: number, y: number, size: number) {
     const sheets = art.sheets[hue];
@@ -529,20 +535,24 @@ export function makeSky(stars: SkyStar[], options: SkyOptions): SkyView | null {
     const star = stars[i];
     const artist = star.kind === 'artist';
     const bright = radiance[i];
-    const r = (artist ? (star.page ? 4.5 : 2.25) : 1.25) * markScale * (.74 + bright * 1.05);
+    const r = star.page ? 4.5 * (.48 + bright * 1.6) * Math.max(markScale, .46) : (artist ? 2 : 1.25) * (.74 + bright * 1.05) * markScale;
     const big = artist && (star.page || level === 2);
     // The chosen star and its ring are a little smaller where the whole sky is.
     const grand = w < 600 ? .8 : 1;
-    const size = big ? (level === 2 ? (pointed ? 24 : 38 * grand) : level ? 15 : Math.max(5, r * 3.5))
+    // A great star is never smaller lit than at rest.
+    const rest = clamp(r * 3.5, 5, 30);
+    const size = big ? (level === 2 ? Math.max(pointed ? 24 : 38 * grand, rest) : level ? Math.max(15, rest) : rest)
       : artist ? (level ? 12 : Math.max(4, r * 3.6))
-      : level === 2 ? (pointed ? 11 : 17) : level ? 7.5 : Math.max(2.1, r * 2.35);
+      : level === 2 ? (pointed ? 11 : 17) : level ? 7.5 : Math.max(clamp(room * 4.4, 1.8, 2.1), r * 2.35);
     // With a star chosen, the stars it is not linked to step well back.
     const quiet = !level && selected >= 0;
-    const strength = level ? alpha : (.6 + .4 * Math.sqrt(bright)) * (quiet ? .2 : 1);
+    const depth = star.page ? clamp(room * 1.2 + 1.6 * bright, .72, 1)
+      : artist ? clamp(room * .32 - .06 + .45 * bright, .16, 1) : clamp(room * .3 - .14 + .6 * bright, .14, 1);
+    const strength = level ? alpha : (.6 + .4 * Math.sqrt(bright)) * depth * (quiet ? .2 : 1);
     const reach = size * (big ? 1 : artist ? 1.2 : 1.7) * (level === 2 ? 1.2 : 1);
     if (level === 2) {
       ctx.strokeStyle = LEAF;
-      for (const [radius, width, part] of pointed ? [[15, 1.1, .55]] : [[24 * grand, 1.4, .8], [30 * grand, 1, .3]]) {
+      for (const [radius, width, part] of pointed ? [[Math.max(15, size * .62), 1.1, .55]] : [[24 * grand, 1.4, .8], [30 * grand, 1, .3]]) {
         ctx.globalAlpha = strength * part;
         ctx.lineWidth = width;
         ctx.beginPath();
@@ -562,10 +572,12 @@ export function makeSky(stars: SkyStar[], options: SkyOptions): SkyView | null {
     stamp(ctx, cream ? 'gold' : hues[i], cuts[i], row, x, y, size);
     ctx.globalAlpha = 1;
     // The part of its light that comes and goes is in a layer of its own.
-    if (ctx !== fieldContext || quiet || !(level || shines[i])) return;
+    // A lesser star's light comes up gradually as the reader comes closer.
+    const lit = level || star.page ? 1 : clamp((depth - .45) / .25, 0, 1);
+    if (ctx !== fieldContext || quiet || !(level || shines[i]) || !lit) return;
     const layer = pulse[i];
-    shed(layer, i, x, y, reach * (big ? 2.15 : artist ? 2.1 : 2.25), (level === 2 ? .3 : level ? .42 : .6) * strength);
-    if (level < 2) shed(layer, i, x, y, size * .8, .5 * strength);
+    shed(layer, i, x, y, reach * (big ? 2.15 : artist ? 2.1 : 2.25), (level === 2 ? .3 : level ? .42 : .6) * strength * lit);
+    if (level < 2) shed(layer, i, x, y, size * .8, .5 * strength * lit);
   }
 
   function paintField(ctx: CanvasRenderingContext2D, active: Set<number>) {
@@ -598,7 +610,8 @@ export function makeSky(stars: SkyStar[], options: SkyOptions): SkyView | null {
       ctx.lineTo(points[j].x, points[j].y);
     }
     ctx.beginPath();
-    ctx.strokeStyle = `rgba(226,190,120,${selected >= 0 ? .04 : .17})`;
+    const pen = .17 * clamp(room - .35, .25, 1);
+    ctx.strokeStyle = `rgba(226,190,120,${selected >= 0 ? Math.min(.04, pen / 2) : pen})`;
     ctx.lineWidth = 0.6;
     if (scale < 3.5) {
       for (const [i, j] of links) edge(i, j);
@@ -763,8 +776,9 @@ export function makeSky(stars: SkyStar[], options: SkyOptions): SkyView | null {
     if (!cache || hovered !== cache.hovered || selected !== cache.selected ||
         magnification < .88 || magnification > 1.14 || (scale === 1 && cache.scale !== 1) ||
         left > 0 || top > 0 || left + fieldWidth * magnification < w || top + fieldHeight * magnification < h) {
-      const densityScale = clamp(Math.sqrt((w * h) / Math.max(1, stars.length * 205)), 0.48, 1);
-      markScale = clamp(densityScale * Math.pow(scale, 0.34), 0.48, 1.4);
+      const density = Math.sqrt((w * h) / Math.max(1, stars.length * 205));
+      room = density * scale;
+      markScale = clamp(clamp(density * 1.3, .3, 1) * Math.pow(scale, 0.34), 0.3, 1.4);
       fieldContext.setTransform(ratio, 0, 0, ratio, overscan * ratio, overscan * ratio);
       fieldContext.clearRect(-overscan, -overscan, fieldWidth, fieldHeight);
       for (const layer of lights) {
