@@ -287,14 +287,6 @@ references:
     source: www.tickettailor.com-events-musicindiaspora1-1584709
     quote: Fri 21 Mar 2025 20:00 - 23:00 CET
     accessed: '2026-11-08'
-  paris-move:
-    source: www.alimentation-generale.net-events-kel-live-club-techno-jazz-house-uk-garage
-    quote: Chanteuse iranienne de jazz récemment installée à Paris
-    accessed: '2026-11-08'
-  paris-move-date:
-    source: www.alimentation-generale.net-events-kel-live-club-techno-jazz-house-uk-garage
-    quote: 18 oct. 2025, 20:00 – 19 oct. 2025, 05:00
-    accessed: '2026-11-08'
   paris:
     source: www.parisjazzclub.net-en-102828-concert-2025-11-01-gaelito-rubis-ramadan-et-golsa-rahimzamani-722fc9cde951
     quote: Golsa Rahimzamani / vocals
@@ -377,4 +369,4 @@ references:
 
 در ۱۴۰۳ نخستین کنسرت‌های گلسا در خارج از ایران اعلام شد: اردیبهشت، اجرایی دونفره با سردار سرمست، نوازندهٔ پیانو، در «۳۶۰ پاریس»، و خرداد، نخستین کنسرتش در برلین، در ناخت‌فوگل.[^paris-2024][^paris-2024-date][^paris-2024-venue][^berlin-2024][^berlin-2024-date][^berlin-2024-venue] اسفند ۱۴۰۳ صفحهٔ اینستاگرامش در موج مسدودسازی صفحه‌های هنرمندان در ایران بسته شد. رادیو اروپای آزاد گزارش داد دستور را پلیس فتا داده است؛ یورونیوز فارسی بعدتر نوشت پلیس امنیت اخلاقی صفحه را توقیف و همهٔ پست‌هایش را پاک کرده است.[^block-wave][^block-iranintl][^block-rferl][^block-rferl-date][^account] همان ماه در برلین روی صحنه رفت؛ کنسرتی نوروزی با حبیب مفتاح هم در همان شهر برایش اعلام شده بود.[^berlin-performance][^nowruz-2025][^nowruz-2025-date]
 
-مهر ۱۴۰۴ سالنی در پاریس او را خوانندهٔ جز ایرانی معرفی کرد که به‌تازگی ساکن این شهر شده است.[^paris-move][^paris-move-date] آبان در جس کلاب پاریس و آذر در کانتینهٔ برگهاین برلین برنامهٔ اجرا داشت.[^paris][^paris-date][^berlin][^berlin-en][^berlin-date] در ۱۴۰۵ از خوانندگان مهمان آلبوم زندهٔ «Trio + Guests» از آرشید آذرین، نوازندهٔ پیانوی فرانسوی-ایرانی، بود و قطعهٔ «[چلچله](#tcheltcheleh-live-e4g)» را خواند.[^azarine-live][^azarine-guests][^azarine-piano][^tcheltcheleh] همان سال با مظاهری، حامد حمیدزاده، مهرداد ام‌سی‌وای و فرید فرزیان‌پور آلبوم هفت‌قطعه‌ای «[رامشگر](#rameshgar-feat-hamed-hamidzadeh-mehrdad-mcy-farid-farzianpour-92e)» را منتشر کرد و تک‌آهنگ «[صفحهٔ بعد](#safheye-bad-286)» را بیرون داد که به گفتهٔ خودش ترانه‌ای دربارهٔ امید در روزهای سخت است.[^rameshgar][^safheye][^safheye-date][^safheye-hope]
+آبان ۱۴۰۴ در جس کلاب پاریس و آذر در کانتینهٔ برگهاین برلین برنامهٔ اجرا داشت.[^paris][^paris-date][^berlin][^berlin-en][^berlin-date] در ۱۴۰۵ از خوانندگان مهمان آلبوم زندهٔ «Trio + Guests» از آرشید آذرین، نوازندهٔ پیانوی فرانسوی-ایرانی، بود و قطعهٔ «[چلچله](#tcheltcheleh-live-e4g)» را خواند.[^azarine-live][^azarine-guests][^azarine-piano][^tcheltcheleh] همان سال با مظاهری، حامد حمیدزاده، مهرداد ام‌سی‌وای و فرید فرزیان‌پور آلبوم هفت‌قطعه‌ای «[رامشگر](#rameshgar-feat-hamed-hamidzadeh-mehrdad-mcy-farid-farzianpour-92e)» را منتشر کرد و تک‌آهنگ «[صفحهٔ بعد](#safheye-bad-286)» را بیرون داد که به گفتهٔ خودش ترانه‌ای دربارهٔ امید در روزهای سخت است.[^rameshgar][^safheye][^safheye-date][^safheye-hope]

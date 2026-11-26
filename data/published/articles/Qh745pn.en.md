@@ -287,14 +287,6 @@ references:
     source: www.tickettailor.com-events-musicindiaspora1-1584709
     quote: Fri 21 Mar 2025 20:00 - 23:00 CET
     accessed: '2026-11-08'
-  paris-move:
-    source: www.alimentation-generale.net-events-kel-live-club-techno-jazz-house-uk-garage
-    quote: Chanteuse iranienne de jazz récemment installée à Paris
-    accessed: '2026-11-08'
-  paris-move-date:
-    source: www.alimentation-generale.net-events-kel-live-club-techno-jazz-house-uk-garage
-    quote: 18 oct. 2025, 20:00 – 19 oct. 2025, 05:00
-    accessed: '2026-11-08'
   paris:
     source: www.parisjazzclub.net-en-102828-concert-2025-11-01-gaelito-rubis-ramadan-et-golsa-rahimzamani-722fc9cde951
     quote: Golsa Rahimzamani / vocals
@@ -377,4 +369,4 @@ In the same interview she described Iran's musicians as living in a bubble, wher
 
 In 2024 Golsa was booked for her first concerts abroad: a duo concert with the pianist Sardar Sarmast at Le 360 Paris Music Factory in May, and in June her first concert in Berlin, at Nachtvogel.[^paris-2024][^paris-2024-date][^paris-2024-venue][^berlin-2024][^berlin-2024-date][^berlin-2024-venue] In March 2025 her Instagram account was blocked in a wave of blocks on artists' accounts in Iran. Radio Free Europe reported that Iran's Cyber Police had ordered it; Euronews Persian later reported that the morality police had seized the account and deleted all its posts.[^block-wave][^block-iranintl][^block-rferl][^block-rferl-date][^account] That month she performed in Berlin, where she was also booked for a Nowruz concert with Habib Meftah.[^berlin-performance][^nowruz-2025][^nowruz-2025-date]
 
-In October 2025 a Paris venue described her as an Iranian jazz singer recently settled in Paris.[^paris-move][^paris-move-date] She was booked at the city's Jass Club in November and at the Kantine am Berghain in Berlin in December.[^paris][^paris-date][^berlin][^berlin-en][^berlin-date] In 2026 she was one of the guest singers on the Franco-Iranian pianist Arshid Azarine's live album *Trio + Guests*, singing on [“Tcheltcheleh”](#tcheltcheleh-live-e4g).[^azarine-live][^azarine-guests][^azarine-piano][^tcheltcheleh] That year she and Mazaheri released [*Rameshgar*](#rameshgar-feat-hamed-hamidzadeh-mehrdad-mcy-farid-farzianpour-92e), a seven-song album with Hamed Hamidzadeh, Mehrdad Mcy and Farid Farzianpour, and the single [“Safheye Ba'd”](#safheye-bad-286), which she called a song about hope in hard days.[^rameshgar][^safheye][^safheye-date][^safheye-hope]
+In November 2025 she was booked at the Jass Club in Paris, and in December at the Kantine am Berghain in Berlin.[^paris][^paris-date][^berlin][^berlin-en][^berlin-date] In 2026 she was one of the guest singers on the Franco-Iranian pianist Arshid Azarine's live album *Trio + Guests*, singing on [“Tcheltcheleh”](#tcheltcheleh-live-e4g).[^azarine-live][^azarine-guests][^azarine-piano][^tcheltcheleh] That year she and Mazaheri released [*Rameshgar*](#rameshgar-feat-hamed-hamidzadeh-mehrdad-mcy-farid-farzianpour-92e), a seven-song album with Hamed Hamidzadeh, Mehrdad Mcy and Farid Farzianpour, and the single [“Safheye Ba'd”](#safheye-bad-286), which she called a song about hope in hard days.[^rameshgar][^safheye][^safheye-date][^safheye-hope]
