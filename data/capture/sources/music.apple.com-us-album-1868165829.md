@@ -71,3 +71,13 @@ Published artist, title or credits, read 2026-11-21.
 Published artist, title or credits, read 2026-11-21.
 
 > Masnavi (feat. Samin Ghorbani, Ali Boustan & Ramtin Nazarijou) [Female]
+
+> {"id":"track-lockup - 1868165829 - 1868165834","title":"Gardaniyeh (feat. Samin Ghorbani & Parisa Pouladian) [Female]","trackNumber":5
+
+Apple Music server track listing, exact song 1868165834 and album
+1868165829 identifiers, read 2026-11-26.
+
+> "datePublished":"2026-01-08"
+
+Apple Music digital edition metadata, read 2026-11-26. This does not
+establish a physical edition's issue day.

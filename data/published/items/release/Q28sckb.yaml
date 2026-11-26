@@ -37,6 +37,10 @@ statements:
       quote: '2014-05-12'
       accessed: '2026-11-21'
       locator: First digital issue
+    - source: music.apple.com-us-album-iran-music-of-the-qajar-era-848988435
+      quote: "\"datePublished\":\"2014-05-12\""
+      locator: Apple digital edition date for the linked track
+      accessed: '2026-11-26'
   listen link:
   - value: https://music.apple.com/us/song/av%C3%A2z-e-dashti-pishdar%C3%A2mad/848988858
     references:
@@ -62,3 +66,10 @@ statements:
       accessed: '2026-11-21'
     qualifiers:
       role: composer
+  track of:
+  - value: Q4wyc6v
+    references:
+    - source: music.apple.com-us-album-iran-music-of-the-qajar-era-848988435
+      quote: "{\"id\":\"track-lockup - 848988435 - 848988858\",\"title\":\"Avâz-E Dashti: Pishdarâmad\",\"trackNumber\":11"
+      locator: Exact Apple song 848988858 in album 848988435
+      accessed: '2026-11-26'

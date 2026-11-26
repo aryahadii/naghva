@@ -38,6 +38,10 @@ statements:
       quote: September 20, 2024
       accessed: '2026-11-21'
       locator: Published date
+    - source: music.apple.com-us-song-love-and-betrayal-1770096127
+      quote: "\"datePublished\":\"2024-09-20\""
+      locator: Apple digital edition date for the linked track
+      accessed: '2026-11-26'
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7d/11/6c/7d116c21-34bd-644e-5db1-fc12156c4687/3663729336804_cover.jpg/600x600bb.webp
     references:
@@ -49,3 +53,10 @@ statements:
       credit:
         text: Apple Music
         language: en
+  track of:
+  - value: Qw23m8w
+    references:
+    - source: music.apple.com-us-song-love-and-betrayal-1770096127
+      quote: "\"storeAdamID\":\"1770096127\"},\"albumID\":\"1770095598\""
+      locator: Exact Apple song 1770096127 in album 1770095598
+      accessed: '2026-11-26'

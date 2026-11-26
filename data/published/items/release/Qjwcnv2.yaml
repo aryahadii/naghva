@@ -18,6 +18,10 @@ statements:
       quote: '2020-11-19'
       accessed: '2026-11-21'
       locator: Edition release date
+    - source: siamak-jahangiri-ap1541079949
+      quote: "\"datePublished\":\"2020-11-19\""
+      locator: Apple digital edition date for the linked track
+      accessed: '2026-11-26'
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ee/89/6d/ee896d18-3883-a277-cba8-6a9c2af68bc6/artwork.jpg/1200x630wp-60.jpg
     references:
@@ -49,3 +53,10 @@ statements:
       quote: spotify:track:38fhTstLkrG62piAlQzhW1
       accessed: '2026-11-21'
       locator: Spotify recording
+  track of:
+  - value: Q8cgycr
+    references:
+    - source: siamak-jahangiri-ap1541079949
+      quote: "{\"id\":\"track-lockup - 1541079949 - 1541079957\",\"title\":\"Reng-e Dashti\",\"trackNumber\":8"
+      locator: Exact Apple song 1541079957 in album 1541079949
+      accessed: '2026-11-26'

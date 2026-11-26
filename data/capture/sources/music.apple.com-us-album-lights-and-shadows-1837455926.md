@@ -78,3 +78,13 @@ Track listing, read 2026-11-21.
 > At the Edge of Light
 
 Track listing, read 2026-11-21.
+
+> {"id":"track-lockup - 1837455926 - 1837455927","title":"Shadows","trackNumber":1
+
+Apple Music server track listing, exact song 1837455927 and album
+1837455926 identifiers, read 2026-11-26.
+
+> "datePublished":"2025-09-19"
+
+Apple Music digital edition metadata, read 2026-11-26. This does not
+establish a physical edition's issue day.

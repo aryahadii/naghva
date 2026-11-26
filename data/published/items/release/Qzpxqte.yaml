@@ -25,6 +25,10 @@ statements:
       quote: '2017-08-31'
       accessed: '2026-11-21'
       locator: Digital edition release
+    - source: music.apple.com-us-album-lalehzar-1458051999
+      quote: "\"datePublished\":\"2017-08-31\""
+      locator: Apple digital edition date for the linked track
+      accessed: '2026-11-26'
   listen link:
   - value: https://music.apple.com/us/song/chaharpareh/1458052167
     references:
@@ -55,3 +59,10 @@ statements:
       credit:
         text: Lalehzar · Apple Music
         language: en
+  track of:
+  - value: Qyr8ags
+    references:
+    - source: music.apple.com-us-album-lalehzar-1458051999
+      quote: "{\"id\":\"track-lockup - 1458051999 - 1458052167\",\"title\":\"Chaharpareh\",\"trackNumber\":10"
+      locator: Exact Apple song 1458052167 in album 1458051999
+      accessed: '2026-11-26'

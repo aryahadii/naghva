@@ -49,6 +49,10 @@ statements:
       quote: '2019-04-27'
       accessed: 2026-11-21
       locator: Digital edition date
+    - source: music.apple.com-us-album-cypress-of-abarkooh-1463972393
+      quote: "\"datePublished\":\"2019-04-27\""
+      locator: Apple digital edition date for the linked track
+      accessed: '2026-11-26'
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/58/45/71/584571f5-088a-9f6d-4d5e-10e6fb0fa7a5/194171212413.jpg/1200x630bb.jpg
     references:
@@ -75,3 +79,10 @@ statements:
       quote: Day Balal (feat. Nima Hafezieh)
       accessed: 2026-11-21
       locator: Track title and credits
+  track of:
+  - value: Qb6zr4b
+    references:
+    - source: music.apple.com-us-album-cypress-of-abarkooh-1463972393
+      quote: "{\"id\":\"track-lockup - 1463972393 - 1463972606\",\"title\":\"Day Balal (feat. Nima Hafezieh)\",\"trackNumber\":3"
+      locator: Exact Apple song 1463972606 in album 1463972393
+      accessed: '2026-11-26'

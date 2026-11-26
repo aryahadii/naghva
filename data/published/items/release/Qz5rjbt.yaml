@@ -41,6 +41,10 @@ statements:
       quote: No Will to Fly (feat. Alireza Javaheri, Samad Barghi & Houshmand Ebadi)
       accessed: 2026-11-22
       locator: Track 10 in label delivery
+    - source: music.apple.com-us-album-leader-of-the-love-caravan-feat-alireza-javaheri-1567836682
+      quote: "\"datePublished\":\"2016-04-20\""
+      locator: Apple digital edition date for the linked track
+      accessed: '2026-11-26'
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/53/fa/e7/53fae714-fa0e-e991-3cca-02c828c72d83/196006735913.jpg/1200x630bb.jpg
     references:
@@ -48,3 +52,10 @@ statements:
       quote: No Will to Fly (feat. Alireza Javaheri, Samad Barghi & Houshmand Ebadi)
       accessed: 2026-11-22
       locator: Track 10 in label delivery
+  track of:
+  - value: Qvpx3qy
+    references:
+    - source: music.apple.com-us-album-leader-of-the-love-caravan-feat-alireza-javaheri-1567836682
+      quote: "{\"id\":\"track-lockup - 1567836682 - 1567837180\",\"title\":\"No Will to Fly (feat. Alireza Javaheri, Samad Barghi & Houshmand Ebadi)\",\"trackNumber\":10"
+      locator: Exact Apple song 1567837180 in album 1567836682
+      accessed: '2026-11-26'

@@ -20,3 +20,13 @@ Release artwork, read 2026-11-21.
 > March 18, 2026
 
 Published date, read 2026-11-21.
+
+> "storeAdamID":"6815697977"},"albumID":"6815697972"
+
+Apple Music server track listing, exact song 6815697977 and album
+6815697972 identifiers, read 2026-11-26.
+
+> "datePublished":"2026-03-18"
+
+Apple Music digital edition metadata, read 2026-11-26. This does not
+establish a physical edition's issue day.

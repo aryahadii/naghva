@@ -40,3 +40,8 @@ Apple Music track 5, read 2026-11-21.
 > Sahargah
 
 Apple Music track 6, read 2026-11-21.
+
+> {"id":"track-lockup - 1573736418 - 1573736427","title":"Navaei","trackNumber":4
+
+Apple Music server track listing, exact song 1573736427 and album
+1573736418 identifiers, read 2026-11-26.

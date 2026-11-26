@@ -68,3 +68,13 @@ status: processed
 > Avâz-E Dashti: Tasnif (Mashkan Dele Man) [feat. Pantea Alvandipour]
 
 > Avâz-E Dashti: Reng
+
+> {"id":"track-lockup - 848988435 - 848988858","title":"Avâz-E Dashti: Pishdarâmad","trackNumber":11
+
+Apple Music server track listing, exact song 848988858 and album
+848988435 identifiers, read 2026-11-26.
+
+> "datePublished":"2014-05-12"
+
+Apple Music digital edition metadata, read 2026-11-26. This does not
+establish a physical edition's issue day.

@@ -18,6 +18,10 @@ statements:
       quote: released September 30, 2007
       accessed: 2026-11-21
       locator: Release date
+    - source: music.apple.com-us-album-all-in-blood-with-you-6800488764
+      quote: "\"datePublished\":\"2007-09-30\""
+      locator: Apple digital edition date for the linked track
+      accessed: '2026-11-26'
   performer:
   - value: Qkb4887
     references:
@@ -59,3 +63,10 @@ statements:
       credit:
         text: Alireza Saeidan
         language: en
+  track of:
+  - value: Qfjfb36
+    references:
+    - source: music.apple.com-us-album-all-in-blood-with-you-6800488764
+      quote: "{\"id\":\"track-lockup - 6800488764 - 6800489041\",\"title\":\"The Journeyman\",\"trackNumber\":6"
+      locator: Exact Apple song 6800489041 in album 6800488764
+      accessed: '2026-11-26'

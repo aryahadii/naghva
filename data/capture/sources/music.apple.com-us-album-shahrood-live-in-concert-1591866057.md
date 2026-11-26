@@ -73,3 +73,13 @@ Track 15 in label delivery, read 2026-11-21.
 > Zarbi & Tasnif Bolbole Shoorideh (Live in Concert)
 
 Track 16 in label delivery, read 2026-11-21.
+
+> {"id":"track-lockup - 1591866057 - 1591866372","title":"Chaharmezrab Abouata (Live in Concert)","trackNumber":6
+
+Apple Music server track listing, exact song 1591866372 and album
+1591866057 identifiers, read 2026-11-26.
+
+> "datePublished":"2018-09-30"
+
+Apple Music digital edition metadata, read 2026-11-26. This does not
+establish a physical edition's issue day.

@@ -41,6 +41,10 @@ statements:
       quote: Chaharmezrab Abouata (Live in Concert)
       accessed: 2026-11-22
       locator: Track 6 in label delivery
+    - source: music.apple.com-us-album-shahrood-live-in-concert-1591866057
+      quote: "\"datePublished\":\"2018-09-30\""
+      locator: Apple digital edition date for the linked track
+      accessed: '2026-11-26'
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/31/bc/9b/31bc9b70-566e-8176-30cd-e3d1a4a57b7d/196292060409.jpg/1200x630bb.jpg
     references:
@@ -48,3 +52,10 @@ statements:
       quote: Chaharmezrab Abouata (Live in Concert)
       accessed: 2026-11-22
       locator: Track 6 in label delivery
+  track of:
+  - value: Qyygmhj
+    references:
+    - source: music.apple.com-us-album-shahrood-live-in-concert-1591866057
+      quote: "{\"id\":\"track-lockup - 1591866057 - 1591866372\",\"title\":\"Chaharmezrab Abouata (Live in Concert)\",\"trackNumber\":6"
+      locator: Exact Apple song 1591866372 in album 1591866057
+      accessed: '2026-11-26'

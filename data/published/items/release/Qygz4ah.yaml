@@ -39,6 +39,10 @@ statements:
       quote: '2026-01-08'
       locator: Published artist, title or credits
       accessed: '2026-11-21'
+    - source: music.apple.com-us-album-1868165829
+      quote: "\"datePublished\":\"2026-01-08\""
+      locator: Apple digital edition date for the linked track
+      accessed: '2026-11-26'
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1a/9f/b3/1a9fb350-5867-b3a2-a482-9e18e96df06f/artwork.jpg/1200x630bb.jpg
     references:
@@ -63,3 +67,10 @@ statements:
       quote: Gardaniyeh - Female
       locator: Published artist, title or credits
       accessed: '2026-11-21'
+  track of:
+  - value: Q25s6ha
+    references:
+    - source: music.apple.com-us-album-1868165829
+      quote: "{\"id\":\"track-lockup - 1868165829 - 1868165834\",\"title\":\"Gardaniyeh (feat. Samin Ghorbani & Parisa Pouladian) [Female]\",\"trackNumber\":5"
+      locator: Exact Apple song 1868165834 in album 1868165829
+      accessed: '2026-11-26'

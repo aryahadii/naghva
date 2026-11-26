@@ -49,3 +49,13 @@ Exact Apple track listing, read 2026-11-21.
 > https://music.apple.com/us/song/be-yaad-e-bahaar/1770510271
 
 Apple track link, read 2026-11-21.
+
+> {"id":"track-lockup - 1770510267 - 1770510271","title":"Be Yaad - E Bahaar","trackNumber":3
+
+Apple Music server track listing, exact song 1770510271 and album
+1770510267 identifiers, read 2026-11-26.
+
+> "datePublished":"2024-10-01"
+
+Apple Music digital edition metadata, read 2026-11-26. This does not
+establish a physical edition's issue day.

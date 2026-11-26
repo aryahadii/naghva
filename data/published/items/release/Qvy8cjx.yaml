@@ -92,3 +92,10 @@ statements:
       quote: 'Artwork: a painting by Iranian artist Samira Toosi'
       accessed: '2026-11-21'
       locator: Cover art credit
+  track of:
+  - value: Qvhf6ay
+    references:
+    - source: music.apple.com-us-album-badieh-ep-1573736418
+      quote: "{\"id\":\"track-lockup - 1573736418 - 1573736427\",\"title\":\"Navaei\",\"trackNumber\":4"
+      locator: Exact Apple song 1573736427 in album 1573736418
+      accessed: '2026-11-26'

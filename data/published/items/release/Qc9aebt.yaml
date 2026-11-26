@@ -57,3 +57,14 @@ statements:
       quote: '2022-04-08'
       accessed: '2026-11-21'
       locator: Digital release
+    - source: music.apple.com-us-album-live-at-leeds-1615495321
+      quote: "\"datePublished\":\"2022-04-08\""
+      locator: Apple digital edition date for the linked track
+      accessed: '2026-11-26'
+  track of:
+  - value: Qsxnaq9
+    references:
+    - source: music.apple.com-us-album-live-at-leeds-1615495321
+      quote: "{\"id\":\"track-lockup - 1615495321 - 1615495391\",\"title\":\"Beethoven's C**t (Live)\",\"trackNumber\":10"
+      locator: Exact Apple song 1615495391 in album 1615495321
+      accessed: '2026-11-26'

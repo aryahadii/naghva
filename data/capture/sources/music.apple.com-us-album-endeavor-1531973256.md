@@ -101,3 +101,13 @@ Original edition track 10, read 2026-11-21.
 > https://music.apple.com/us/song/to-the-core-of-the-sun/1531973281
 
 Unique Apple song URL, read 2026-11-21.
+
+> {"id":"track-lockup - 1531973256 - 1531973261","title":"Golden Summer","trackNumber":4
+
+Apple Music server track listing, exact song 1531973261 and album
+1531973256 identifiers, read 2026-11-26.
+
+> "datePublished":"2021-02-26"
+
+Apple Music digital edition metadata, read 2026-11-26. This does not
+establish a physical edition's issue day.
