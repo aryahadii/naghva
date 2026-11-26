@@ -2,7 +2,7 @@ import { isoDate } from './dates';
 import { strings } from './i18n';
 import { addressOf, COVER_WIDTHS, imageOf, type LinkedImage } from './images';
 import {
-  best, datesDisagree, isDate, isText, nameOf, recordingArtists, releaseDates, catalogueReleasesOf, REPOSITORY, url,
+  best, COMPONENT_PROPERTIES, datesDisagree, href, isDate, isText, nameOf, recordingArtists, releaseDates, catalogueReleasesOf, REPOSITORY, url,
   type Item, type Lang, type SiteRecord, type Text,
 } from './record';
 
@@ -72,13 +72,25 @@ export function artistJsonLd(
     if (members.length) node.member = [...new Map(members.map((m) => [m.id, m])).values()].map((m) => ({ '@type': 'Person', ...names(m, lang), ...at(m) }));
   }
   const catalogue = catalogueReleasesOf(record, artist);
-  const albums = catalogue.map((r) => {
+  const isComponent = (r: Item) => COMPONENT_PROPERTIES.some((property) =>
+    linked(record, r.statements[property]).some((parent) => parent.type === 'release'));
+  const albumTypes = new Set(['album', 'ep', 'compilation', 'soundtrack', 'live album']);
+  const releases = catalogue.map((r) => {
     const released = releaseDates(r);
     const date = released.length && !datesDisagree(released) ? isoDate(released[0]) : null;
     const listen = (r.statements['listen link'] ?? []).filter((s) => s.rank !== 'deprecated').map((s) => String(s.value));
     const cover = imageOf(r, 'cover art', COVER_WIDTHS);
+    const component = isComponent(r);
+    const inAlbum = linked(record, r.statements['track of'])
+      .filter((parent) => parent.type === 'release' && parent.id !== r.id
+        && best(parent.statements['release type']).some((s) => albumTypes.has(s.value as string))
+        && !COMPONENT_PROPERTIES.some((property) => best(parent.statements[property]).some((s) => s.value !== 'no value')))
+      .flatMap((parent) => {
+        const path = href(record, lang, parent);
+        return path ? [{ '@type': 'MusicAlbum', ...names(parent, lang), url: new URL(path, site).href }] : [];
+      });
     return {
-      '@type': 'MusicAlbum',
+      '@type': component ? 'MusicRecording' : 'MusicAlbum',
       ...names(r, lang),
       url: `${page}#${encodeURIComponent(r.anchor ?? r.id)}`,
       byArtist: recordingArtists(record, r).map((p) => p.id === artist.id ? { '@id': id } : {
@@ -86,16 +98,19 @@ export function artistJsonLd(
         ...names(p, lang),
         ...(p.page ? { '@id': `${new URL(url(lang, p.page), site).href}#artist`, ...at(p) } : {}),
       }),
+      ...(component && inAlbum.length ? { inAlbum } : {}),
       ...(date ? { datePublished: date } : {}),
       ...(cover ? { image: imageLd(cover, site) } : {}),
       ...(listen.length ? { sameAs: [...new Set(listen)] } : {}),
     };
   });
-  // A group lists its albums; a person's releases stand beside them with their recorded performers.
+  // Group catalogue links use the schema property for each kind of record.
   const groupReleases = new Set(artist.type === 'act' ? artist.releases : []);
-  const groupAlbums = albums.filter((_, index) => groupReleases.has(catalogue[index].id));
-  const standalone = albums.filter((_, index) => !groupReleases.has(catalogue[index].id));
+  const groupAlbums = releases.filter((r, index) => r['@type'] === 'MusicAlbum' && groupReleases.has(catalogue[index].id));
+  const groupTracks = releases.filter((r, index) => r['@type'] === 'MusicRecording' && groupReleases.has(catalogue[index].id));
+  const standalone = releases.filter((_, index) => !groupReleases.has(catalogue[index].id));
   if (groupAlbums.length) node.album = groupAlbums;
+  if (groupTracks.length) node.track = groupTracks;
 
   const breadcrumbs = {
     '@type': 'BreadcrumbList',

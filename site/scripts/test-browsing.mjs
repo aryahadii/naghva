@@ -236,3 +236,64 @@ test('a trailing EP marker leaves the shelf title, never the whole title', () =>
   assert.equal(withoutEpMarker(name('Deep EP')).text, 'Deep EP');
   assert.equal(withoutEpMarker(name('(EP)')).text, '(EP)');
 });
+
+
+test('component JSON-LD distinguishes tracks, historical compilation parents and programme segments in both languages', () => {
+  const site = new URL('https://example.org');
+  const artist = published.items.Qyw49hh;
+  const nodes = (record, lang) => artistJsonLd(record, artist, lang, site)['@graph']
+    .flatMap((node) => [node, ...(node.album ?? []), ...(node.track ?? [])]);
+  for (const lang of ['en', 'fa']) {
+    const graph = nodes(published, lang);
+    const entry = (id) => graph.find((node) => node.url?.endsWith('#' + published.items[id].anchor));
+    for (const [id, parent] of [['Qtseyat', 'Qbfzmwg'], ['Q2ea9bv', 'Qmx2hcr']]) {
+      const track = entry(id);
+      assert.equal(track['@type'], 'MusicRecording');
+      const host = published.items[published.panelHosts[parent]];
+      assert.deepEqual(track.inAlbum.map((album) => [album['@type'], album.url]), [
+        ['MusicAlbum', `https://example.org/${lang}/${host.page}/#${published.items[parent].anchor}`],
+      ]);
+    }
+    assert.equal(entry('Qmx2hcr'), undefined, 'historical compilation panel must not become an artist catalogue credit');
+    assert.equal(entry('Qs6vktc')['@type'], 'MusicRecording');
+    assert.equal(entry('Qs6vktc').inAlbum, undefined);
+    // A separately issued single stays an edition; a title is not album membership.
+    const single = Object.values(published.items).find((r) => r.type === 'release'
+      && best(r.statements['release type']).some((s) => s.value === 'single')
+      && !best(r.statements['track of']).length && !best(r.statements['programme segment of']).length
+      && recordingArtists(published, r).some((person) => person.page));
+    assert.ok(single);
+    const singleArtist = recordingArtists(published, single).find((person) => person.page);
+    const singleNode = artistJsonLd(published, singleArtist, lang, site)['@graph']
+      .flatMap((node) => [node, ...(node.album ?? []), ...(node.track ?? [])])
+      .find((node) => node.url?.endsWith('#' + single.anchor));
+    assert.equal(singleNode['@type'], 'MusicAlbum');
+    assert.equal(singleNode.inAlbum, undefined);
+
+    const otherHost = Object.values(published.items).find((item) => item.page && item.id !== artist.id);
+    const crossHost = { ...published, panelHosts: { ...published.panelHosts, Qmx2hcr: otherHost.id } };
+    const crossTrack = nodes(crossHost, lang).find((node) => node.url?.endsWith('#' + published.items.Q2ea9bv.anchor));
+    assert.equal(crossTrack.inAlbum[0].url, `https://example.org/${lang}/${otherHost.page}/#${published.items.Qmx2hcr.anchor}`);
+
+    // A typed album that is itself a component is not an evidenced whole album.
+    const parent = structuredClone(published.items.Qmx2hcr);
+    parent.statements['programme segment of'] = [{ rank: 'normal', value: 'Qsjwcjr', references: [] }];
+    const chained = { ...published, items: { ...published.items, Qmx2hcr: parent } };
+    assert.equal(nodes(chained, lang).find((node) => node.url?.endsWith('#' + published.items.Q2ea9bv.anchor)).inAlbum, undefined);
+    delete parent.statements['programme segment of'];
+    delete parent.statements['release type'];
+    assert.equal(nodes(chained, lang).find((node) => node.url?.endsWith('#' + published.items.Q2ea9bv.anchor)).inAlbum, undefined);
+  }
+});
+
+test('a group lists component recordings as tracks rather than albums', () => {
+  const group = Object.values(published.items).find((item) => item.type === 'act' && item.page
+    && catalogueReleasesOf(published, item).some((r) => best(r.statements['track of']).some((s) => published.items[s.value])));
+  assert.ok(group);
+  for (const lang of ['en', 'fa']) {
+    const graph = artistJsonLd(published, group, lang, new URL('https://example.org'))['@graph'];
+    assert.ok(graph[0].track.length);
+    assert.ok(graph[0].track.every((node) => node['@type'] === 'MusicRecording'));
+    assert.ok((graph[0].album ?? []).every((node) => node['@type'] === 'MusicAlbum'));
+  }
+});

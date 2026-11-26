@@ -165,7 +165,7 @@ for (const [path, html] of pages) {
   }
   // Search metadata keeps recording artists and uncertainty from the record.
   // Writing-only and producer-only credits stay in the panel, not byArtist.
-  const structuredAlbums = new Set();
+  const structuredReleases = new Set();
   for (const match of html.matchAll(/<script\b[^>]*type="application\/ld\+json"[^>]*>([\s\S]*?)<\/script>/g)) {
     const graph = JSON.parse(match[1])['@graph'] ?? [];
     if (pageArtist?.type === 'act') {
@@ -174,12 +174,34 @@ for (const [path, html] of pages) {
       if (disputed && graph.some((node) => node['@type'] === 'MusicGroup' && node.foundingDate))
         problems.push(`${where}: structured founding date hides a disagreement`);
     }
-    const albums = graph.flatMap((node) => node['@type'] === 'MusicAlbum' ? [node] : node.album ?? []);
-    for (const album of albums) {
+    const releases = graph.flatMap((node) => ['MusicAlbum', 'MusicRecording'].includes(node['@type'])
+      ? [node] : [...(node.album ?? []), ...(node.track ?? [])]);
+    for (const album of releases) {
       const anchor = decodeURIComponent(new URL(album.url).hash.slice(1));
-      structuredAlbums.add(anchor);
+      structuredReleases.add(anchor);
       const release = record.items[record.panels[anchor]];
       if (!release) { problems.push(`${where}: structured album has no source record: ${anchor}`); continue; }
+      const active = (statements = []) => {
+        const preferred = statements.filter((s) => s.rank === 'preferred');
+        return preferred.length ? preferred : statements.filter((s) => s.rank === 'normal');
+      };
+      const component = ['track of', 'programme segment of'].some((property) =>
+        active(release.statements[property]).some((s) => record.items[s.value]?.type === 'release'));
+      if (album['@type'] !== (component ? 'MusicRecording' : 'MusicAlbum'))
+        problems.push(`${where}: structured recording type disagrees for ${anchor}`);
+      const albumTypes = new Set(['album', 'ep', 'compilation', 'soundtrack', 'live album']);
+      const expectedParents = component ? active(release.statements['track of']).map((s) => record.items[s.value])
+        .filter((parent) => parent?.type === 'release' && parent.id !== release.id
+          && active(parent.statements['release type']).some((s) => albumTypes.has(s.value))
+          && !['track of', 'programme segment of'].some((property) => active(parent.statements[property]).some((s) => s.value !== 'no value')))
+        .map((parent) => {
+          const host = record.items[record.panelHosts[parent.id]];
+          return host?.page && parent.anchor ? address(`/${path.slice(1, 3)}/${host.page}/#${parent.anchor}`) : null;
+        }).filter(Boolean).sort() : [];
+      const parents = album.inAlbum ?? [];
+      if (!Array.isArray(parents) || parents.some((parent) => parent['@type'] !== 'MusicAlbum')
+        || JSON.stringify(parents.map((parent) => parent.url).sort()) !== JSON.stringify(expectedParents))
+        problems.push(`${where}: structured album membership disagrees for ${anchor}`);
       const credits = release.statements.performer ?? [];
       const preferred = credits.filter((s) => s.rank === 'preferred');
       const activeCredits = preferred.length ? preferred : credits.filter((s) => s.rank === 'normal');
@@ -202,13 +224,13 @@ for (const [path, html] of pages) {
   const historicalPanels = panelTags.filter((tag) => attr(tag, 'data-historical-panel') !== undefined);
   for (const tag of historicalPanels) {
     const anchor = attr(tag, 'id');
-    if (record.panelHosts?.[record.panels[anchor]] !== pageArtist?.id || structuredAlbums.has(anchor))
+    if (record.panelHosts?.[record.panels[anchor]] !== pageArtist?.id || structuredReleases.has(anchor))
       problems.push(`${where}: historical panel ${anchor} must retain its route without artist attribution`);
     if (search.entries.find((entry) => entry.i === record.panels[anchor])?.a)
       problems.push(`${where}: historical panel ${anchor} must not gain an artist credit in search`);
   }
   const panels = panelTags.filter((tag) => !historicalPanels.includes(tag)).map((tag) => attr(tag, 'id'));
-  if (panels.some((anchor) => !structuredAlbums.has(anchor)) || structuredAlbums.size !== panels.length)
+  if (panels.some((anchor) => !structuredReleases.has(anchor)) || structuredReleases.size !== panels.length)
     problems.push(`${where}: structured recording list disagrees with the visible panels`);
   // Internal links and the anchors they point at.
   for (const tag of [...tags(html, 'a'), ...tags(html, 'link'), ...tags(html, 'img'), ...tags(html, 'script'), ...tags(html, 'source')]) {
