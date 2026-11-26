@@ -13,18 +13,18 @@ statements:
   performer:
   - value: Qyw49hh
     references:
-    - source: itunes.apple.com-searchterm-sahba-motallebi-entity-song-limit-200
-      quote: Sahba Motallebi
-      locator: Original programme, artist or edition credits
-      accessed: '2026-11-21'
+    - source: www.qobuz.com-be-nl-album-introducing-young-performers-various-artists-a1u2w33fah0db
+      quote: Sahba Motallebi, Composer, MainArtist
+      locator: Track 4, Bayat Esfahan
+      accessed: '2026-11-26'
   release date:
   - value:
       date: '2001-08-18'
     references:
-    - source: music.apple.com-us-album-1151017710
-      quote: '2001-08-18'
-      locator: Original programme, artist or edition credits
-      accessed: '2026-11-21'
+    - source: itunes.apple.com-lookup-id-1151017710-entity-song
+      quote: '"releaseDate":"2001-08-18T12:00:00Z"'
+      locator: Song 1151017845 releaseDate in Apple digital catalog
+      accessed: '2026-11-26'
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/90/19/c6/9019c6b8-5edd-f6a1-26ec-d29309a33d98/6260608001906.jpg/1200x630bb.jpg
     references:
@@ -45,3 +45,10 @@ statements:
       quote: spotify:track:5coTrOiSk215dbauq25VCu
       locator: Original programme, artist or edition credits
       accessed: '2026-11-21'
+  track of:
+  - value: Qmx2hcr
+    references:
+    - source: itunes.apple.com-lookup-id-1151017710-entity-song
+      quote: "{\"wrapperType\":\"track\", \"kind\":\"song\", \"artistId\":304465294, \"collectionId\":1151017710, \"trackId\":1151017845, \"artistName\":\"Sahba Motallebi\", \"collectionName\":\"Introducing Young Performers\", \"trackName\":\"Bayat Esfahan\", \"collectionCensoredName\":\"Introducing Young Performers\", \"trackCensoredName\":\"Bayat Esfahan\", \"collectionArtistId\":4035426, \"collectionArtistName\":\"Various Artists\", \"artistViewUrl\":\"https://music.apple.com/us/artist/sahba-motallebi/304465294?uo=4\", \"collectionViewUrl\":\"https://music.apple.com/us/album/bayat-esfahan/1151017710?i=1151017845&uo=4\", \"trackViewUrl\":\"https://music.apple.com/us/album/bayat-esfahan/1151017710?i=1151017845&uo=4\","
+      locator: Song 1151017845, collectionId 1151017710; trackNumber 4
+      accessed: '2026-11-26'
