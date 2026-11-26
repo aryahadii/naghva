@@ -28,3 +28,8 @@ Video thumbnail URL, YouTube metadata. Read 2026-11-21.
 Video description, musicians. Read 2026-11-21.
 
 > Percussions: Erick Mauricia
+
+> "publishDate":"2019-09-10T16:22:19-07:00"
+
+YouTube watch-page player metadata, publishDate (publication timestamp),
+read 2026-11-26.

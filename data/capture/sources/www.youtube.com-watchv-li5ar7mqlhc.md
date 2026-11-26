@@ -24,3 +24,8 @@ Original programme, liner notes or performer credit, read 2026-11-21.
 Original programme, liner notes or performer credit, read 2026-11-21.
 
 > Rana Shieh: Kamanche
+
+> "publishDate":"2012-08-22T00:01:15-07:00"
+
+YouTube watch-page player metadata, publishDate (publication timestamp),
+read 2026-11-26.

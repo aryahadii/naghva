@@ -17,14 +17,14 @@ statements:
       quote: 'کمانچه و سرپرست گروه : کوروش بابایی'
       accessed: 2026-11-21
       locator: Instrumentalist identified in the artist’s film
-  release date:
+  platform posting date:
   - value:
       date: '2024-05-21'
     references:
     - source: youtu.be-6syqkp946um
-      quote: '2024-05-21'
-      accessed: 2026-11-21
-      locator: Publication date
+      quote: '"publishDate":"2024-05-20T20:00:00-07:00"'
+      locator: YouTube publishDate (UTC day)
+      accessed: '2026-11-26'
   cover art:
   - value: https://i.ytimg.com/vi/6SYqKp946uM/hqdefault.jpg
     references:

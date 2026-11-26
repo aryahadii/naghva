@@ -17,3 +17,8 @@ Festival film, programme, read 2026-11-21.
 > 20250425
 
 Publisher upload date, read 2026-11-21.
+
+> "publishDate":"2025-04-25T00:10:42-07:00"
+
+YouTube watch-page player metadata, publishDate (publication timestamp),
+read 2026-11-26.

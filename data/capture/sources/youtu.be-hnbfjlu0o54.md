@@ -17,3 +17,8 @@ Video title, read 2026-11-21.
 > 2020-11-16
 
 Publication date, read 2026-11-21.
+
+> "publishDate":"2020-11-16T08:14:11-08:00"
+
+YouTube watch-page player metadata, publishDate (publication timestamp),
+read 2026-11-26.

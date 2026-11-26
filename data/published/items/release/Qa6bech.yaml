@@ -31,11 +31,11 @@ statements:
       quote: بداهه نوازی بیات ترک - رهام سبحانی roham sobhani
       locator: Original release, programme or musician credits
       accessed: '2026-11-21'
-  release date:
+  platform posting date:
   - value:
       date: '2015-12-22'
     references:
     - source: www.youtube.com-watchv-qxa9xgzefrm
-      quote: '2015-12-22'
-      locator: Original release, programme or musician credits
-      accessed: '2026-11-21'
+      quote: '"publishDate":"2015-12-22T14:14:14-08:00"'
+      locator: YouTube publishDate
+      accessed: '2026-11-26'

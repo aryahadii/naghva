@@ -20,3 +20,8 @@ Original programme, liner notes or performer credit, read 2026-11-21.
 Original programme, liner notes or performer credit, read 2026-11-21.
 
 > Tombak: Hamid Mohsenipour
+
+> "publishDate":"2011-12-08T16:46:07-08:00"
+
+YouTube watch-page player metadata, publishDate (publication timestamp),
+read 2026-11-26.

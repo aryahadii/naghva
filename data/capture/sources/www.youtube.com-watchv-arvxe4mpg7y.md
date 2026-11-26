@@ -15,3 +15,8 @@ Music or festival film credits, read 2026-11-21.
 Music or festival film credits, read 2026-11-21.
 
 > 2020-04-08T15:58:34-07:00
+
+> "publishDate":"2020-04-08T15:58:34-07:00"
+
+YouTube watch-page player metadata, publishDate (publication timestamp),
+read 2026-11-26.

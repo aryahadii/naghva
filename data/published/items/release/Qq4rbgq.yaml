@@ -27,14 +27,14 @@ statements:
       quote: 'Negar Bouban: Oud, voice'
       accessed: 2026-11-21
       locator: Festival film, cast
-  release date:
+  platform posting date:
   - value:
       date: '2025-04-25'
     references:
     - source: youtu.be-icz3ugauwss
-      quote: '20250425'
-      accessed: 2026-11-21
-      locator: Publisher upload date
+      quote: '"publishDate":"2025-04-25T00:10:42-07:00"'
+      locator: YouTube publishDate
+      accessed: '2026-11-26'
   listen link:
   - value: https://youtu.be/IcZ3UGauWSs
     references:

@@ -19,14 +19,14 @@ statements:
       accessed: '2026-11-21'
     qualifiers:
       role: daf
-  release date:
+  platform posting date:
   - value:
       date: '2025-11-13'
     references:
     - source: www.youtube.com-watchv-_tsz3ko_jus
-      quote: '2025-11-13T08:24:02-08:00'
-      locator: Original release, musician interview or performance credits
-      accessed: '2026-11-21'
+      quote: '"publishDate":"2025-11-13T08:24:02-08:00"'
+      locator: YouTube publishDate
+      accessed: '2026-11-26'
   cover art:
   - value: https://i.ytimg.com/vi/_tSZ3KO_jus/hqdefault.jpg
     references:
