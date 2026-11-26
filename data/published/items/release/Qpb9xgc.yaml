@@ -56,19 +56,20 @@ statements:
       locator: Artist credit
   release date:
   - value:
-      date: '2024-02-19'
-    references:
-    - source: www.youtube.com-watch-v-sxpy8pdopes
-      quote: '2024-02-19'
-      accessed: '2026-11-21'
-      locator: Artist video publication date
-  - value:
       date: '2024-02-07'
     references:
     - source: music.apple.com-us-album-adamak-single-1726637900
       quote: '2024-02-07'
       accessed: '2026-11-21'
       locator: Issue date
+  platform posting date:
+  - value:
+      date: '2024-02-19'
+    references:
+    - source: www.youtube.com-watch-v-sxpy8pdopes
+      quote: '2024-02-19'
+      accessed: '2026-11-21'
+      locator: Artist video publication date
   cover art:
   - value: https://i.ytimg.com/vi/SxPY8pDoPEs/maxresdefault.jpg
     qualifiers:
