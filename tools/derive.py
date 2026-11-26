@@ -34,6 +34,7 @@ import stats  # noqa: E402
 DEFAULT_OUT = ds.REPO / "site" / "generated" / "record.json"
 DEFAULT_ADDRESSES = ds.REPO / "site" / "addresses.json"
 LEGACY_TIMELINE = Path(__file__).with_name("legacy-timeline-anchors.json")
+RETIRED_TIMELINE = Path(__file__).with_name("retired-timeline-fragments.json")
 LANGUAGES = ("en", "fa")
 ARTIST_TYPES = ("person", "act")
 TAG_LENGTH = 3  # characters of the ID after the Q that end an address
@@ -404,6 +405,8 @@ def derive(root, issued=None):
                 sources[note["source"]] = None
     sources = {name: derive_source(store.sources[name].meta) for name in sorted(sources)}
 
+    dated_entries = timeline(items)
+    retired = retired_timeline_fragments(items, dated_entries, strict=root.resolve() == ds.DEFAULT_ROOT.resolve())
     return {
         "examples": root.name == "examples",
         "languages": list(LANGUAGES),
@@ -411,7 +414,8 @@ def derive(root, issued=None):
         "items": items,
         "articles": articles,
         "sources": sources,
-        "timeline": timeline(items),
+        "timeline": dated_entries,
+        "timelineBookmarks": retired,
         "redirects": redirects,
         "panels": panels,
         "panelHosts": panel_hosts,
@@ -524,6 +528,31 @@ def timeline(items, legacy_anchors=None):
 
     entries.sort(key=lambda e: (e["date"]["range"][0], e["date"]["range"][1], e["kind"], e["item"]))
     return entries
+
+
+def retired_timeline_fragments(items, entries, registered=None, *, strict=True):
+    """Old addresses whose dated claim was withdrawn lead to the item, not a year."""
+    if registered is None:
+        registered = json.loads(RETIRED_TIMELINE.read_text(encoding="utf-8"))
+    if not isinstance(registered, dict):
+        raise ds.DataError("retired timeline fragments must be a map")
+    active = {e["anchor"] for e in entries} | {a for e in entries for a in e.get("aliases", [])}
+    result = {}
+    for fragment, item_id in registered.items():
+        if (not isinstance(fragment, str) or not re.fullmatch(r"entry-[0-9a-f]{20}", fragment)
+                or not isinstance(item_id, str) or not re.fullmatch(r"Q[2-9a-hj-km-np-tv-z]{6}", item_id)):
+            raise ds.DataError("invalid retired timeline fragment")
+        if fragment in active:
+            raise ds.DataError("retired timeline fragment is still a dated address: %s" % fragment)
+        if item_id not in items:
+            if strict:
+                raise ds.DataError("retired timeline fragment target is missing: %s" % item_id)
+            # Examples and deliberately filtered roots do not contain this catalog.
+            continue
+        if items[item_id]["type"] != "release":
+            raise ds.DataError("retired timeline fragment must target a release: %s" % fragment)
+        result[fragment] = item_id
+    return result
 
 
 @contextmanager

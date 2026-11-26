@@ -23,6 +23,15 @@ const link = (item: Item) => {
 const sentence = (template: string, values: { [key: string]: Item }) =>
   parts(template).map((p) => (typeof p === 'string' ? esc(p) : link(values[p.key]))).join('');
 
+const bookmarks = Object.entries(record.timelineBookmarks ?? {}).map(([fragment, id]) => {
+  const item = record.items[id];
+  const destination = item && href(record, lang, item);
+  if (destination && (!destination.startsWith(`/${lang}/`) || destination.startsWith(`/${lang}/#`))) {
+    throw new Error(`Retired timeline fragment ${fragment} has no panel destination`);
+  }
+  return { fragment, item, destination };
+});
+
 const entries = record.timeline.map((e: TimelineEntry) => {
   const item = record.items[e.item];
   const about = e.about.map((id) => record.items[id]).filter((x): x is Item => Boolean(x));
@@ -94,6 +103,11 @@ const count = (k: string) => entries.filter((e) => e.kind === k).length;
       </div>
     </form>
 
+    {bookmarks.map(({ fragment, item, destination }) => (
+      destination
+        ? <a class="timeline-bookmark" id={fragment} data-timeline-bookmark href={destination} set:html={nameHtml(nameOf(item, lang), lang)} />
+        : <span class="timeline-bookmark" id={fragment} set:html={nameHtml(nameOf(item, lang), lang)} />
+    ))}
     <p class="timeline-empty" hidden>{words.empty}</p>
     {groups.map((y) => (
       <section class="year" id={String(y)} aria-labelledby={`year-${y}`}>

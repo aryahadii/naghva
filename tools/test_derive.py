@@ -527,5 +527,34 @@ class InvalidDataTests(unittest.TestCase):
                 derive.derive(root)
 
 
+class RetiredTimelineFragmentTests(unittest.TestCase):
+    fragment = "entry-0123456789abcdef0123"
+    item = {"type": "release", "statements": {}}
+
+    def test_withdrawing_a_date_keeps_only_an_item_address(self):
+        items = {RELEASE: self.item}
+        entries = derive.timeline(items, {})
+        self.assertEqual(entries, [])
+        self.assertEqual(derive.retired_timeline_fragments(items, entries, {self.fragment: RELEASE}),
+                         {self.fragment: RELEASE})
+
+    def test_a_surviving_dated_address_or_alias_cannot_be_retired(self):
+        for entry in [{"anchor": self.fragment}, {"anchor": "other", "aliases": [self.fragment]}]:
+            with self.subTest(entry=entry), self.assertRaises(ds.DataError):
+                derive.retired_timeline_fragments({RELEASE: self.item}, [entry], {self.fragment: RELEASE})
+
+    def test_missing_catalog_targets_fail_but_filtered_roots_skip_them(self):
+        with self.assertRaises(ds.DataError):
+            derive.retired_timeline_fragments({}, [], {self.fragment: RELEASE})
+        self.assertEqual(derive.retired_timeline_fragments({}, [], {self.fragment: RELEASE}, strict=False), {})
+
+    def test_registry_rejects_invalid_fragments_and_nonrelease_targets(self):
+        for registered in [{"#old": RELEASE}, {self.fragment: "https://example.com"}]:
+            with self.subTest(registered=registered), self.assertRaises(ds.DataError):
+                derive.retired_timeline_fragments({RELEASE: self.item}, [], registered)
+        with self.assertRaises(ds.DataError):
+            derive.retired_timeline_fragments({RELEASE: {"type": "person"}}, [], {self.fragment: RELEASE})
+
+
 if __name__ == "__main__":
     unittest.main()

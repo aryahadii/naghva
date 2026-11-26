@@ -93,6 +93,8 @@ export interface SiteRecord {
   articles: { [id: string]: Partial<{ [lang in Lang]: Article }> };
   sources: { [name: string]: Source };
   timeline: TimelineEntry[];
+  /** Old timeline addresses after their unsupported dated claim was withdrawn. */
+  timelineBookmarks?: { [fragment: string]: string };
   redirects: { from: string; to: string }[];
   /** Every release panel address ever issued, and the release it belongs to. */
   panels: { [anchor: string]: string };
