@@ -59,6 +59,6 @@ statements:
   - value: Qyr8ags
     references:
     - source: music.apple.com-us-album-lalehzar-1458051999
-      quote: Kurdi
-      accessed: 2026-11-21
-      locator: Track 5
+      quote: '{"id":"track-lockup - 1458051999 - 1458052007","title":"Kurdi","trackNumber":5'
+      locator: Apple Music track 5 in album 1458051999; exact song 1458052007
+      accessed: '2026-11-26'

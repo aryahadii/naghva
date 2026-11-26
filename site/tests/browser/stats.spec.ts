@@ -62,8 +62,11 @@ test('picking a row puts the search list away', async ({ page }) => {
   await page.goto('/en/stats/');
   await page.locator('.net-q').fill('a');
   await expect(page.locator('.net-found')).toBeVisible();
-  await page.locator('.net-rows [data-pick]').last().click({ force: true });
+  const row = page.locator('.net-rows [data-pick]').last();
+  const name = (await row.locator('.nr-name').textContent())!.trim();
+  await row.click();
   await expect(page.locator('.net-who')).toBeVisible();
+  await expect(page.locator('.net-who .net-name')).toHaveText(name);
   await expect(page.locator('.net-found')).toBeHidden();
   await expect(page.locator('.net-q')).toHaveValue('');
 });

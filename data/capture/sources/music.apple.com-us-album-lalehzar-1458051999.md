@@ -69,3 +69,43 @@ Apple Music server track listing, exact song 1458052167 and album
 
 Apple Music digital edition metadata, read 2026-11-26. This does not
 establish a physical edition's issue day.
+
+> <title>‎Lalehzar - Album by Javid Afsari Rad - Apple Music</title>
+
+Apple Music collection 1458051999 page-title metadata, read 2026-11-26.
+
+> {"id":"track-lockup - 1458051999 - 1458052000","title":"Bahar","trackNumber":1
+
+Apple Music collection 1458051999, numbered track 1, exact song 1458052000, read 2026-11-26.
+
+> {"id":"track-lockup - 1458051999 - 1458052003","title":"Lalehzar","trackNumber":2
+
+Apple Music collection 1458051999, numbered track 2, exact song 1458052003, read 2026-11-26.
+
+> {"id":"track-lockup - 1458051999 - 1458052004","title":"Choopi","trackNumber":3
+
+Apple Music collection 1458051999, numbered track 3, exact song 1458052004, read 2026-11-26.
+
+> {"id":"track-lockup - 1458051999 - 1458052006","title":"Lama Bada Yatathana","trackNumber":4
+
+Apple Music collection 1458051999, numbered track 4, exact song 1458052006, read 2026-11-26.
+
+> {"id":"track-lockup - 1458051999 - 1458052007","title":"Kurdi","trackNumber":5
+
+Apple Music collection 1458051999, numbered track 5, exact song 1458052007, read 2026-11-26.
+
+> {"id":"track-lockup - 1458051999 - 1458052009","title":"Baran","trackNumber":6
+
+Apple Music collection 1458051999, numbered track 6, exact song 1458052009, read 2026-11-26.
+
+> {"id":"track-lockup - 1458051999 - 1458052010","title":"Baroque Fantasi","trackNumber":7
+
+Apple Music collection 1458051999, numbered track 7, exact song 1458052010, read 2026-11-26.
+
+> {"id":"track-lockup - 1458051999 - 1458052011","title":"Ahoo","trackNumber":8
+
+Apple Music collection 1458051999, numbered track 8, exact song 1458052011, read 2026-11-26.
+
+> {"id":"track-lockup - 1458051999 - 1458052015","title":"Banafsheh","trackNumber":9
+
+Apple Music collection 1458051999, numbered track 9, exact song 1458052015, read 2026-11-26.

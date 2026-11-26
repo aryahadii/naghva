@@ -59,3 +59,15 @@ Apple Music server track listing, exact song 1770510271 and album
 
 Apple Music digital edition metadata, read 2026-11-26. This does not
 establish a physical edition's issue day.
+
+> <title>‎Az Posht - E in Ajorha (From Behind These Bricks) - Single - Album by Eendo - Apple Music</title>
+
+Apple Music collection 1770510267 page-title metadata, read 2026-11-26.
+
+> {"id":"track-lockup - 1770510267 - 1770510268","title":"Az Posht - E in Aajorha","trackNumber":1
+
+Apple Music collection 1770510267, numbered track 1, exact song 1770510268, read 2026-11-26.
+
+> {"id":"track-lockup - 1770510267 - 1770510270","title":"Bahaar Aamad","trackNumber":2
+
+Apple Music collection 1770510267, numbered track 2, exact song 1770510270, read 2026-11-26.
