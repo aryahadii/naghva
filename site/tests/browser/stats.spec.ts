@@ -72,7 +72,14 @@ test.describe('on a phone', () => {
     await page.touchscreen.tap(stage.x + stage.width / 2, stage.y + stage.height / 2);
     await expect(full.locator('.net-out')).toBeVisible();
     await expect(full.locator('.net-who')).toBeHidden();
+    // The zoom is a step of its own: Back undoes it without closing the view, and Forward takes it again.
+    await page.goBack();
+    await expect(full).toBeVisible();
+    await expect(full.locator('.net-out')).toBeHidden();
+    await page.goForward();
+    await expect(full.locator('.net-out')).toBeVisible();
     await full.locator('.net-out').click();
+    await expect(full.locator('.net-out')).toBeHidden();
     await full.locator('.net-rows [data-pick]').first().click();
     await expect(full.locator('.net-who')).toBeVisible();
     // Back retraces the steps: from the person to the map, then out of the full-screen view.
@@ -83,5 +90,15 @@ test.describe('on a phone', () => {
     await expect(full).toBeHidden();
     await expect(page.locator('#network .net-wrap svg.net-svg')).toHaveCount(1);
     await expect(page.locator('circle.is-sel')).toHaveCount(0);
+  });
+
+  test('a space finds a name written with a half-space', async ({ page }) => {
+    await page.goto('/fa/stats/');
+    await page.locator('.net-expand').click();
+    const names = await page.locator('.net-svg circle[data-id]').evaluateAll((els) => els.map((el) => (el as HTMLElement).dataset.name ?? ''));
+    const name = names.find((n) => n.includes('\u200c'));
+    test.skip(!name, 'no name with a half-space in the network');
+    await page.locator('.net-q').fill(name!.replaceAll('\u200c', ' '));
+    await expect(page.locator('.net-found [data-pick]').filter({ hasText: name! }).first()).toBeVisible();
   });
 });

@@ -6,8 +6,9 @@
  * around them: they stand in the middle, the people they worked with ring them, closest first, and the rows list
  * the same people with the number of releases they share. Choosing one of those moves on to that person.
  *
- * On a phone the page holds a still preview; a tap opens it full screen, where a tap on an island zooms into it,
- * a pinch zooms, a drag moves and Back closes.
+ * On a phone or other touch screen the page holds a still preview; a tap opens it full screen, where a tap on an
+ * island zooms into it, a pinch zooms and a drag moves. Back retraces each step: a person, an island, and last the
+ * full-screen view itself.
  */
 type View = [number, number, number, number];
 type Point = { x: number; y: number };
@@ -21,9 +22,12 @@ type Dot = {
 type Link = { el: SVGLineElement; a: Dot; b: Dot; w: number };
 type Isle = { el: SVGCircleElement; lead?: Dot; hx: number; hy: number; x: number; y: number; r: number };
 
-/** A name as typed or stored, reduced for matching: lower case, no accents, one spelling of Persian letters. */
-const fold = (s: string) => s.normalize('NFKD').replace(/[̀-ًͯ-ٰٟ‌‍]/g, '')
-  .replace(/[يى]/g, 'ی').replace(/ك/g, 'ک').replace(/[ةۀ]/g, 'ه').replace(/[أإآ]/g, 'ا').toLowerCase().replace(/\s+/g, ' ').trim();
+/**
+ * A name as typed or stored, reduced for matching: lower case, no accents, one spelling of Persian letters, and a
+ * half-space counted as a space (phone keyboards mostly offer only the space).
+ */
+const fold = (s: string) => s.normalize('NFKD').replace(/[‌‍]/g, ' ').replace(/[̀-ًͯ-ٰٟ]/g, '')
+  .replace(/[يى]/g, 'ی').replace(/ك/g, 'ک').replace(/[ةۀە]/g, 'ه').replace(/[أإآ]/g, 'ا').toLowerCase().replace(/\s+/g, ' ').trim();
 
 function network(): void {
   const section = document.querySelector<HTMLElement>('#network');
@@ -39,7 +43,7 @@ function network(): void {
   const link = $<HTMLAnchorElement>('.net-open'), cap = $<HTMLElement>('.net-cap'), rows = $<HTMLElement>('.net-rows'), scroller = $<HTMLElement>('.net-scroll');
   const words = { with: section.dataset.with ?? '', releases: section.dataset.releases ?? '', none: section.dataset.none ?? '' };
   const fmt = new Intl.NumberFormat(section.dataset.digits === 'fa' ? 'fa-IR' : 'en');
-  const phone = matchMedia('(max-width: 640px)'), still = matchMedia('(prefers-reduced-motion: reduce)');
+  const phone = matchMedia('(max-width: 640px), (pointer: coarse)'), still = matchMedia('(prefers-reduced-motion: reduce)');
   const num = (el: Element, a: string) => +el.getAttribute(a)!;
 
   const dots: Dot[] = [...svg.querySelectorAll<SVGCircleElement>('circle[data-id]')].map((el) => {
@@ -144,7 +148,7 @@ function network(): void {
   // overlapping. Zooming in makes room for more.
   const ruler = document.createElement('canvas').getContext('2d');
   const widthOf = (d: Dot) => {
-    if (d.width === undefined && ruler) { ruler.font = getComputedStyle(names).font || '12px sans-serif'; d.width = ruler.measureText(d.name).width + 8; }
+    if (d.width === undefined && ruler) { ruler.font = `600 12px ${getComputedStyle(names).fontFamily || 'sans-serif'}`; d.width = ruler.measureText(d.name).width + 8; }
     return d.width ?? d.name.length * 6.6 + 8;
   };
   let queued = false;
@@ -160,14 +164,20 @@ function network(): void {
       const order = lit ? [lit, ...(hot ? [hot] : []), ...lit.near.map(([d]) => d)] : [...leads, ...(zoom() > 1.5 ? bySize : [])];
       const limit = sel ? 60 : peek ? 7 : leads.length + (zoom() > 1.5 ? Math.round(10 * Math.min(5, zoom())) : 0);
       const k = grow(), spans: HTMLSpanElement[] = [], seen = new Set<Dot>();
-      // A name may not sit on another name, nor on a dot that is lit.
+      // A name may not sit on another name, nor on a dot that is lit, nor under the buttons in the picture's corners.
       const boxes: [number, number, number, number][] = (lit ? [lit, ...lit.near.map(([d]) => d)] : zoom() > 1.5 ? dots : []).map((d) => {
         const p = new DOMPoint(d.x, d.y).matrixTransform(m), r = d.r * k * m.a;
         return [p.x - box.left - r, p.y - box.top - r, r * 2, r * 2];
       });
-      const hit = (x: number, y: number, w: number, h: number) => boxes.some((b) => x < b[0] + b[2] && b[0] < x + w && y < b[1] + b[3] && b[1] < y + h);
+      const taken: [number, number, number, number][] = [];
+      for (const b of [expand, out]) {
+        const r = b.getBoundingClientRect();
+        if (!b.hidden && r.width) taken.push([r.left - box.left - 4, r.top - box.top - 4, r.width + 8, r.height + 8]);
+      }
+      const over = (bs: typeof boxes, x: number, y: number, w: number, h: number) => bs.some((b) => x < b[0] + b[2] && b[0] < x + w && y < b[1] + b[3] && b[1] < y + h);
+      const hit = (x: number, y: number, w: number, h: number) => over(boxes, x, y, w, h) || over(taken, x, y, w, h);
       const write = (d: Dot, x: number, y: number, w: number, strong: boolean) => {
-        boxes.push([x, y, w, 16]);
+        taken.push([x, y, w, 16]);
         const span = document.createElement('span');
         span.textContent = d.name;
         span.style.left = `${x + w / 2}px`;
@@ -186,6 +196,10 @@ function network(): void {
         names.replaceChildren(...spans);
         return;
       }
+      // Some names matter more than a clear dot: the closest collaborators, or, zoomed into an island, its lead and
+      // its biggest dots. They may sit on a dot, never on another name.
+      const pinned = new Set<Dot>(lit ? lit.near.slice(0, 4).map(([d]) => d) : leads);
+      let big = lit ? 0 : 5;
       for (const d of order) {
         if (spans.length >= limit) break;
         if (seen.has(d)) continue;
@@ -193,12 +207,15 @@ function network(): void {
         const p = new DOMPoint(d.x, d.y).matrixTransform(m);
         const sx = p.x - box.left, sy = p.y - box.top, w = widthOf(d), h = 16, rr = d.r * k * m.a + 3;
         if (sx < 0 || sx > box.width || sy < 0 || sy > box.height) continue;
+        if (!lit && !pinned.has(d) && big > 0) { big--; pinned.add(d); }
         // Under the dot; when that is taken over it, then beside it. Kept inside the picture.
         const fits = (x: number, y: number) => x >= 2 && x + w <= box.width - 2 && y >= 2 && y + h <= box.height - 2;
         const mid = Math.min(Math.max(sx - w / 2, 2), box.width - w - 2);
         const sides: [number, number][] = [[mid, sy + rr], [mid, sy - rr - h], [sx + rr + 2, sy - h / 2], [sx - rr - 2 - w, sy - h / 2]];
         const forced = d === lit || d === hot;
-        const side = sides.find(([x, y]) => fits(x, y) && !hit(x, y, w, h)) ?? (forced ? sides.find(([x, y]) => fits(x, y)) ?? sides[0] : null);
+        const side = sides.find(([x, y]) => fits(x, y) && !hit(x, y, w, h))
+          ?? (forced || pinned.has(d) ? sides.find(([x, y]) => fits(x, y) && !over(taken, x, y, w, h)) : null)
+          ?? (forced ? sides.find(([x, y]) => fits(x, y)) ?? sides[0] : null);
         if (!side) continue;
         write(d, side[0], side[1], w, forced);
       }
@@ -277,7 +294,10 @@ function network(): void {
     for (const b of rows.querySelectorAll<HTMLElement>('[data-pick]')) {
       const on = b.dataset.pick === d?.id;
       b.classList.toggle('is-hot', on);
-      if (on && bring) b.scrollIntoView({ block: 'nearest', behavior: still.matches ? 'auto' : 'smooth' });
+      if (on && bring) {
+        const sr = scroller.getBoundingClientRect(), br = b.getBoundingClientRect();
+        scroller.scrollTo({ top: scroller.scrollTop + br.top - sr.top - (sr.height - br.height) / 2, behavior: still.matches ? 'auto' : 'smooth' });
+      }
     }
     placeNames();
   };
@@ -353,6 +373,17 @@ function network(): void {
     if (key === lastBox) return;
     lastBox = key;
     if (!isOpen) { if (sel) move(around(sel)); else placeNames(); return; }
+    // A turned phone (the window, not the stage, which changes shape as rows come and go) turns the map with it, back to the whole map or around the chosen person.
+    if ((innerHeight > innerWidth) !== upright) {
+      upright = !upright;
+      [W, H] = upright ? [H0, W0] : [W0, H0];
+      cancelAnimationFrame(anim); cancelAnimationFrame(tween);
+      snapHome();
+      base = fit();
+      setView(base);
+      if (sel) move(around(sel));
+      return;
+    }
     const cx = view[0] + view[2] / 2, cy = view[1] + view[3] / 2, k = view[2] / base[2];
     base = fit();
     if (sel) { setView(base); move(around(sel)); return; }
@@ -366,13 +397,16 @@ function network(): void {
   document.body.append(full);
   const spot = document.createComment('network');
   let opener: HTMLElement | null = null, stilled: HTMLElement[] = [], depth = 0;
-  // Choose, and in the full-screen view remember the step, so Back retraces it before it closes the view.
+  // In the full-screen view each step (a person, an island) is remembered, so Back retraces it before it closes
+  // the view and Forward takes it again. `depth` is how many steps the view has taken since it opened.
+  type Step = { netFull: true; step: number; id?: string; isle?: number };
+  const remember = (s: Omit<Step, 'netFull' | 'step'>) => { depth++; history.pushState({ netFull: true, step: depth, ...s } satisfies Step, ''); };
   const go = (d: Dot | null) => {
     if (d === sel) return;
     choose(d);
-    if (isOpen) { depth++; history.pushState({ netFull: true, id: d?.id }, ''); }
+    if (isOpen) remember({ id: d?.id });
   };
-  const open = (d: Dot | null) => {
+  const open = (d: Dot | null, push = true) => {
     if (isOpen) return;
     isOpen = true;
     opener = document.activeElement instanceof HTMLElement && document.activeElement !== document.body ? document.activeElement : expand;
@@ -385,16 +419,15 @@ function network(): void {
     document.documentElement.classList.add('nf-lock');
     stilled = [...document.body.children].filter((el): el is HTMLElement => el instanceof HTMLElement && el !== full && !el.inert);
     stilled.forEach((el) => { el.inert = true; });
-    const r = stageBox();
-    upright = r.height > r.width;
+    upright = innerHeight > innerWidth;
     if (upright) [W, H] = [H0, W0];
     snapHome();
     base = fit();
     lastBox = '';
     setView(base);
     choose(d);
-    depth = 1;
-    history.pushState({ netFull: true, id: d?.id }, '');
+    depth = 0;
+    if (push) remember({ id: d?.id });
     $<HTMLButtonElement>('.net-close').focus({ preventScroll: true });
   };
   const close = () => {
@@ -424,19 +457,26 @@ function network(): void {
   const shut = () => { if (history.state?.netFull && depth) history.go(-depth); else close(); };
   $<HTMLButtonElement>('.net-close').addEventListener('click', shut);
   addEventListener('popstate', () => {
-    if (!isOpen) return;
-    depth--;
-    const state = history.state;
-    if (!state?.netFull || depth < 1) { close(); return; }
-    choose(byId.get(state.id ?? '') ?? null);
+    const state = history.state as Step | null;
+    if (!state?.netFull) { close(); return; }
+    if (!isOpen) open(null, false);
+    depth = state.step;
+    const d = byId.get(state.id ?? '') ?? null, isle = state.isle === undefined ? null : isles[state.isle];
+    if (d) { choose(d); return; }
+    if (sel) choose(null);
+    glide(isle ? isleView(isle) : base);
   });
+  // Escape lets go of the chosen person, from the network or from nowhere in particular, not from the page's
+  // own search field.
   addEventListener('keydown', (e) => {
     if (e.key !== 'Escape' || e.defaultPrevented) return;
+    if (!isOpen && e.target !== document.body && !(e.target instanceof Node && ui.contains(e.target))) return;
     if (sel) go(null);
     else if (isOpen) shut();
   });
   $<HTMLButtonElement>('.net-shut').addEventListener('click', () => go(null));
-  out.addEventListener('click', () => glide(base));
+  // Zooming out of an island the reader tapped into is the same as going back from it.
+  out.addEventListener('click', () => { if ((history.state as Step | null)?.isle !== undefined) history.back(); else glide(base); });
   expand.addEventListener('click', () => open(null));
 
   // A row or a found name picks its person. On a phone that opens the full-screen view around them.
@@ -448,8 +488,10 @@ function network(): void {
     const b = e.target instanceof Element ? e.target.closest<HTMLElement>('[data-pick]') : null;
     if (!b) return;
     const d = byId.get(b.dataset.pick ?? '');
-    if (found.contains(b)) { ask(''); input.blur(); }
+    const searched = found.contains(b);
+    if (searched) ask('');
     pick(d);
+    if (searched && d) nameEl.focus({ preventScroll: true });
   });
 
   // ---- Search ------------------------------------------------------------------------------------------------
@@ -474,6 +516,7 @@ function network(): void {
       b.type = 'button'; b.id = `net-hit-${i}`; b.setAttribute('role', 'option'); b.dataset.pick = d.id; b.tabIndex = -1;
       if (d.page) b.className = 'has-page';
       b.textContent = d.name;
+      li.setAttribute('role', 'presentation');
       li.append(b);
       return li;
     }) : q ? [Object.assign(document.createElement('li'), { className: 'net-none', role: 'presentation', textContent: words.none })] : []));
@@ -492,8 +535,9 @@ function network(): void {
       e.preventDefault();
       const d = hits[active];
       if (!d) return;
-      ask(''); input.blur();
+      ask('');
       pick(d);
+      nameEl.focus({ preventScroll: true });
     } else if (e.key === 'Escape' && input.value) {
       e.preventDefault();
       ask('');
@@ -553,7 +597,7 @@ function network(): void {
     if (!p) return;
     let best: Isle | null = null, bestD = Infinity;
     for (const i of isles) { const far = Math.hypot(i.x - p.x, i.y - p.y) - i.r; if (far < bestD) { bestD = far; best = i; } }
-    if (best) glide(isleView(best));
+    if (best) { glide(isleView(best)); remember({ isle: isles.indexOf(best) }); }
   };
   const lift = (e: PointerEvent) => {
     if (!pts.has(e.pointerId)) return;
@@ -594,6 +638,8 @@ function network(): void {
     rows.addEventListener('mouseover', (e) => { if (sel && e.target instanceof Element) warm(byId.get(e.target.closest<HTMLElement>('[data-pick]')?.dataset.pick ?? '') ?? null); });
     rows.addEventListener('mouseleave', () => warm(null));
   }
+  rows.addEventListener('focusin', (e) => { if (sel && e.target instanceof Element) warm(byId.get(e.target.closest<HTMLElement>('[data-pick]')?.dataset.pick ?? '') ?? null); });
+  rows.addEventListener('focusout', (e) => { if (!(e.relatedTarget instanceof Node && rows.contains(e.relatedTarget))) warm(null); });
   ui.classList.add('is-live');
   placeNames();
 }

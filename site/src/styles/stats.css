@@ -295,8 +295,8 @@ html[dir=rtl] .nr-bar { background: linear-gradient(270deg, var(--guest) var(--w
   .net-rows button { min-height: 44px }
   .net-ui.has-sel:not(.is-full) .net-scroll { max-height: min(52vh, 420px); overflow-y: auto; overscroll-behavior: contain; padding-inline-end: 6px }
 }
-/* Phones: the map in the page is a still preview; a tap opens it full screen. */
-@media (max-width: 640px) {
+/* Phones and other touch screens: the map in the page is a still preview; a tap opens it full screen. */
+@media (max-width: 640px), (pointer: coarse) {
   .net-ui:not(.is-full) .net-svg { cursor: zoom-in }
   .net-ui:not(.is-full) .net-expand { display: grid }
 }
@@ -318,6 +318,13 @@ html.nf-lock, html.nf-lock body { overflow: hidden; overscroll-behavior: none }
 .is-full:not(.has-sel) .net-rows li { flex: none }
 .is-full:not(.has-sel) .net-scroll { flex: none; overflow: visible }
 .is-full.has-sel .net-panel { height: 44dvh }
+/* A phone on its side: the rows beside the map, not under it. */
+@media (orientation: landscape) and (max-height: 540px) {
+  .net-ui.is-full.has-sel { display: grid; grid-template: 'bar bar' auto 'map panel' minmax(0, 1fr) / minmax(0, 1fr) min(44%, 360px) }
+  .is-full.has-sel .net-bar { grid-area: bar }
+  .is-full.has-sel .net-wrap { grid-area: map }
+  .is-full.has-sel .net-panel { grid-area: panel; height: auto; border-top: 0; border-inline-start: 1px solid var(--line); padding-top: 8px }
+}
 .is-full .net-who { margin-bottom: 8px }
 .is-full .net-scroll { flex: 1 1 0; min-height: 0; overflow-y: auto; overscroll-behavior: contain }
 /* A list that runs on fades out at the bottom. */

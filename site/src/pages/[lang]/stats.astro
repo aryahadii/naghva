@@ -209,7 +209,7 @@ const half = (id: string) => (PAIRS.some((pair) => pair.includes(id) && pair.eve
     )}
 
     {shown('network') && (
-      <section class="q q-wide" id="network" aria-labelledby="network-h" data-with={T('Worked with {n}', 'همکاری با {n} نفر')} data-releases={T('Releases together', 'آثار مشترک')} data-none={T('No one by that name', 'کسی با این نام پیدا نشد')} data-digits={en ? 'en' : 'fa'}>
+      <section class="q q-wide" id="network" aria-labelledby="network-h" data-with={T('Worked with {n}', 'همکاری با {n} نفر')} data-releases={T('Releases together', 'آثار مشترک')} data-none={T('No one by that name in the network', 'کسی با این نام در شبکه نیست')} data-digits={en ? 'en' : 'fa'}>
         <div class="q-text">
           <h2 id="network-h">{T('Who works with whom?', 'چه کسانی با هم کار می‌کنند؟')}</h2>
           <ul class="legend">
