@@ -36,6 +36,16 @@ class StatsTests(unittest.TestCase):
         }
         self.stats = stats.stats(self.items, ["QA", "QB"], {"s": {"language": "fa"}}, {"s": "own"})
 
+    def test_known_components_do_not_inflate_issues_by_year(self):
+        self.items["QR2"]["statements"]["track of"] = [statement("QR1")]
+        self.items["QR3"]["statements"]["programme segment of"] = [statement("QR1")]
+        self.items["QR3"]["statements"]["release date"] = [statement(
+            {"date": "2023-01-01", "range": ["2023-01-01", "2023-01-01"]})]
+        result = stats.stats(self.items, ["QA", "QB"], {"s": {"language": "fa"}}, {"s": "own"})
+        self.assertEqual(result["releases"]["days"], ["2020-05-01"])
+        self.assertEqual(result["totals"]["releases"], 3)
+        self.assertEqual(result["completeness"]["releases"][0], ["date", 3, 3])
+
     def test_counts_releases_by_their_dates(self):
         self.assertEqual(self.stats["totals"]["releases"], 3)
         self.assertEqual(self.stats["releases"]["days"], ["2020-05-01", "2022-01-01"])

@@ -81,6 +81,16 @@ class ValidateTests(unittest.TestCase):
         self.add_performer(SARA, SARA_NAME)
         self.assertEqual(self.run_validator().errors, [])
 
+    def test_component_relations_reject_self_links_and_component_parents(self):
+        track = "Qzzzzz4"
+        segment = "Qzzzzz5"
+        self.write_item(track, "release", {"name": [SARA_NAME], "track of": [dict(SARA_NAME, value=RELEASE)]})
+        self.assertEqual(self.run_validator().errors, [])
+        self.write_item(segment, "release", {"name": [SARA_NAME], "programme segment of": [dict(SARA_NAME, value=track)]})
+        self.assertOnlyError(self.run_validator(), "must point to a whole")
+        self.write_item(segment, "release", {"name": [SARA_NAME], "programme segment of": [dict(SARA_NAME, value=segment)]})
+        self.assertOnlyError(self.run_validator(), "cannot point to the same record")
+
     def test_release_can_have_a_performer_without_an_article(self):
         self.edit("published/items/release/%s.yaml" % RELEASE, "  - value: %s\n" % BAND, "  - value: %s\n" % NIMA)
         self.assertEqual(self.run_validator().errors, [])

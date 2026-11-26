@@ -22,6 +22,7 @@ ID_LENGTH = 6
 ITEM_PREFIX = "Q"
 SOURCE_NAME = re.compile(r"^[a-z0-9][a-z0-9._-]*$")
 
+COMPONENT_PROPERTIES = ("track of", "programme segment of")
 SPECIAL_VALUES = ("unknown value", "no value")
 CALENDARS = ("gregorian", "jalali")
 DEFAULT_CALENDAR = "gregorian"

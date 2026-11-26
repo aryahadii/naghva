@@ -33,7 +33,7 @@ import stats  # noqa: E402
 
 DEFAULT_OUT = ds.REPO / "site" / "generated" / "record.json"
 DEFAULT_ADDRESSES = ds.REPO / "site" / "addresses.json"
-LEGACY_POSTINGS = Path(__file__).with_name("legacy-posting-anchors.json")
+LEGACY_TIMELINE = Path(__file__).with_name("legacy-timeline-anchors.json")
 LANGUAGES = ("en", "fa")
 ARTIST_TYPES = ("person", "act")
 TAG_LENGTH = 3  # characters of the ID after the Q that end an address
@@ -393,13 +393,13 @@ def derive(root, issued=None):
     }
 
 
-def timeline(items, legacy_postings=None):
+def timeline(items, legacy_anchors=None):
     """Every dated fact, earliest first: releases, formations, members joining and
     leaving, and life events dated by their point in time."""
     entries = []
     identities = set()
-    if legacy_postings is None:
-        legacy_postings = json.loads(LEGACY_POSTINGS.read_text(encoding="utf-8"))
+    if legacy_anchors is None:
+        legacy_anchors = json.loads(LEGACY_TIMELINE.read_text(encoding="utf-8"))
 
     def add(kind, item_id, about, value, alternatives=None, text=None):
         if isinstance(value, dict) and "range" in value:
@@ -413,12 +413,11 @@ def timeline(items, legacy_postings=None):
 
             identity = key(kind)
             anchor = anchor_of(identity)
-            if kind == "posting":
-                # Only the migration's original fragments are grandfathered.
-                date_key = value.get("calendar", "gregorian") + ":" + value["date"]
-                legacy = legacy_postings.get(item_id, {}).get(date_key)
-                if legacy and legacy not in identities:
-                    anchor = legacy
+            # Only explicit migration entries keep a former fragment.
+            date_key = value.get("calendar", "gregorian") + ":" + value["date"]
+            legacy = legacy_anchors.get(kind, {}).get(item_id, {}).get(date_key)
+            if legacy and legacy not in identities:
+                anchor = legacy
             if anchor in identities:
                 raise ds.DataError("duplicate timeline identity: %s" % identity)
             identities.add(anchor)
@@ -442,7 +441,9 @@ def timeline(items, legacy_postings=None):
             performers = [s["value"] for s in best(st.get("performer", [])) if s["value"] in items]
             values = dates(st.get("release date", []))
             if values:
-                add("release", item_id, performers, values[0], values[1:])
+                is_component = any(s["value"] in items for prop in ds.COMPONENT_PROPERTIES
+                                   for s in best(st.get(prop, [])))
+                add("component" if is_component else "release", item_id, performers, values[0], values[1:])
             for posting in dates(st.get("platform posting date", [])):
                 add("posting", item_id, performers, posting)
         if item["type"] == "act":

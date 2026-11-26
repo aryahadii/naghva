@@ -57,6 +57,14 @@ properties:
   release type:
     used on: [release]
     value: term
+  track of:
+    used on: [release]
+    value: item
+    item type: [release]
+  programme segment of:
+    used on: [release]
+    value: item
+    item type: [release]
   performer:
     used on: [release, event]
     value: item

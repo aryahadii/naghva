@@ -201,13 +201,21 @@ export function artistView(
     const others = billed.filter((p) => p.id !== artist.id);
     const labels = best(r.statements['published by']);
     const factsOf: Fact[] = [];
-    if (dates.length) factsOf.push({ label: t.release.released, html: dates.map((s) =>
+    const parents = [
+      { label: t.release.trackOf, dateLabel: t.release.trackDate, statements: best(r.statements['track of']) },
+      { label: t.release.segmentOf, dateLabel: t.release.segmentDate, statements: best(r.statements['programme segment of']) },
+    ].map((source) => ({ ...source, records: items(source.statements) }))
+      .filter(({ records }) => records.length);
+    if (dates.length) factsOf.push({ label: parents[0]?.dateLabel ?? t.release.released, html: dates.map((s) =>
       dateHtml(s.value as DateValue, lang) + cites.run(s.references)
     ).join('<br>') + (datesDisagree(values) ? `<br><span class="note">${esc(t.release.dateDisagreement)}</span>` : '') });
     const postings = live(r.statements['platform posting date']).filter((s) => isDate(s.value));
     if (postings.length) factsOf.push({ label: t.release.posted, html: postings.map((s) =>
       dateHtml(s.value as DateValue, lang) + cites.run(s.references)
     ).join('<br>') });
+    for (const { label, records, statements } of parents) {
+      factsOf.push({ label, html: list(lang, records.map(name)) + cites.run(statements.flatMap((s) => s.references)) });
+    }
     if (labels.length) factsOf.push({ label: t.release.label, html: list(lang, items(labels).map(name)) + cites.run(labels.flatMap((s) => s.references)) });
     // Performers and writing or production credits are separate claims, so they get separate rows.
     for (const [label, statements] of [[t.release.performers, performers], [t.release.contributors, best(r.statements.contributor)]] as const) {
