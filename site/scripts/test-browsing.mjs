@@ -4,7 +4,7 @@ import { tmpdir } from 'node:os';
 import { join } from 'node:path';
 import { execFileSync } from 'node:child_process';
 import { test } from 'node:test';
-import { best, byRecordingDate, catalogueReleasesOf, newRecords, recordingArtists, recordingDates, releaseDates, releaseHost, withoutEpMarker } from '../src/lib/record.ts';
+import { best, byRecordingDate, catalogueReleasesOf, creditedReleaseHost, newRecords, recordingArtists, recordingDates, releaseDates, withoutEpMarker } from '../src/lib/record.ts';
 import { artistView } from '../src/lib/artist.ts';
 import { artistJsonLd, siteJsonLd } from '../src/lib/jsonld.ts';
 import { fold, ranked, searchPage } from '../src/lib/search.ts';
@@ -157,12 +157,12 @@ test('recordings fall back to a labeled platform date without changing release d
 test('the homepage shelf holds whole records, newest first, one per artist', () => {
   const shelf = newRecords(published, 12);
   assert.equal(shelf.length, 12);
-  const hosts = shelf.map((r) => releaseHost(published, r)?.id);
+  const hosts = shelf.map((r) => creditedReleaseHost(published, r)?.id);
   assert.ok(hosts.every(Boolean));
   assert.equal(new Set(hosts).size, shelf.length);
   for (const r of shelf) {
     const types = best(r.statements['release type']).map((s) => s.value);
-    assert.ok(types.some((t) => ['album', 'ep', 'live album', 'soundtrack'].includes(t)) && !types.includes('single'), r.id);
+    assert.ok(types.some((t) => ['album', 'ep', 'live album', 'soundtrack'].includes(t)) && !types.includes('single') && !types.includes('compilation'), r.id);
     assert.ok(releaseDates(r).length > 0 && best(r.statements['cover art']).some((s) => /^https?:\/\//.test(s.value)), r.id);
   }
   assert.deepEqual(shelf, [...shelf].sort(byRecordingDate).reverse());
