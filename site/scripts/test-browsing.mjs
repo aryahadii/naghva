@@ -4,7 +4,7 @@ import { tmpdir } from 'node:os';
 import { join } from 'node:path';
 import { execFileSync } from 'node:child_process';
 import { test } from 'node:test';
-import { byRecordingDate, catalogueReleasesOf, recordingArtists, recordingDates, releaseDates } from '../src/lib/record.ts';
+import { best, byRecordingDate, catalogueReleasesOf, newRecords, recordingArtists, recordingDates, releaseDates, releaseHost, withoutEpMarker } from '../src/lib/record.ts';
 import { artistView } from '../src/lib/artist.ts';
 import { artistJsonLd, siteJsonLd } from '../src/lib/jsonld.ts';
 import { fold, ranked, searchPage } from '../src/lib/search.ts';
@@ -152,4 +152,25 @@ test('recordings fall back to a labeled platform date without changing release d
   assert.deepEqual(recordingDates(posted), { values: [post], isPosting: true });
   assert.deepEqual(recordingDates(released), { values: [issued], isPosting: false });
   assert.deepEqual([undated, posted, released].sort(byRecordingDate).map(({ id }) => id), ['released', 'posted', 'undated']);
+});
+
+test('the homepage shelf holds whole records, newest first, one per artist', () => {
+  const shelf = newRecords(published, 12);
+  assert.equal(shelf.length, 12);
+  const hosts = shelf.map((r) => releaseHost(published, r)?.id);
+  assert.ok(hosts.every(Boolean));
+  assert.equal(new Set(hosts).size, shelf.length);
+  for (const r of shelf) {
+    const types = best(r.statements['release type']).map((s) => s.value);
+    assert.ok(types.some((t) => ['album', 'ep', 'live album', 'soundtrack'].includes(t)) && !types.includes('single'), r.id);
+    assert.ok(releaseDates(r).length > 0 && best(r.statements['cover art']).some((s) => /^https?:\/\//.test(s.value)), r.id);
+  }
+  assert.deepEqual(shelf, [...shelf].sort(byRecordingDate).reverse());
+});
+test('a trailing EP marker leaves the shelf title, never the whole title', () => {
+  const name = (text) => ({ text, language: 'en' });
+  assert.equal(withoutEpMarker(name('Structura I - EP')).text, 'Structura I');
+  assert.equal(withoutEpMarker(name('Vittrine (EP)')).text, 'Vittrine');
+  assert.equal(withoutEpMarker(name('Deep EP')).text, 'Deep EP');
+  assert.equal(withoutEpMarker(name('(EP)')).text, '(EP)');
 });
