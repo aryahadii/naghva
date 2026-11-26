@@ -24,7 +24,7 @@
 import { execFileSync } from 'node:child_process';
 import { createHash } from 'node:crypto';
 import { copyFileSync, existsSync, mkdirSync, readdirSync, readFileSync, rmSync, writeFileSync } from 'node:fs';
-import { homedir } from 'node:os';
+import { availableParallelism, homedir } from 'node:os';
 import { join } from 'node:path';
 import sharp from 'sharp';
 
@@ -35,7 +35,7 @@ const OUT = 'public/media';
 // survives npm ci even when dependencies are installed after cache restoration.
 const BUILD_CACHE = join(process.env.npm_config_cache || join(homedir(), '.npm'), 'naghva-media');
 // Bump the recipe when resizing/encoding changes; sharp versions also affect bytes.
-const COPIES = `${BUILD_CACHE}/webp-v1-${sharp.versions.sharp}-${sharp.versions.vips}-${sharp.versions.webp}`;
+const COPIES = `${BUILD_CACHE}/webp-v2-${sharp.versions.sharp}-${sharp.versions.vips}-${sharp.versions.webp}`;
 const WIDTHS = { photo: [240, 360, 640, 960, 1200], cover: [180, 360, 720] };
 const KIND = { image: 'photo', poster: 'photo', logo: 'photo', 'cover art': 'cover' };
 const TYPES = { jpeg: 'jpg', png: 'png', webp: 'webp', avif: 'avif', gif: 'gif' };
@@ -289,35 +289,58 @@ async function build() {
   }
   mkdirSync(OUT, { recursive: true });
   mkdirSync(COPIES, { recursive: true });
+  // Coalesce aliases before scheduling work: different source URLs can
+  // reference the same original, including with different requested widths.
   const keep = new Set();
+  const images = new Map();
+  for (const [url, entry] of Object.entries(manifest)) {
+    const key = objectKey(entry);
+    if (!images.has(key)) images.set(key, { url, entry, names: new Map(), urlCount: 0 });
+    const group = images.get(key);
+    group.urlCount++;
+    const { names } = group;
+    for (const width of new Set(entry.widths.map((w) => Math.min(w, entry.width)))) {
+      const name = copyName(entry, width);
+      keep.add(name);
+      names.set(name, width);
+    }
+  }
+
   let made = 0;
   let reused = 0;
   let missing = 0;
-  for (const [url, entry] of Object.entries(manifest)) {
-    const names = [...new Set(entry.widths.map((w) => Math.min(w, entry.width)))].map((w) => [w, copyName(entry, w)]);
-    names.forEach(([, name]) => keep.add(name));
-    for (const [, name] of names) {
-      if (!existsSync(`${OUT}/${name}`) && existsSync(`${COPIES}/${name}`)) {
+  // Bound both queued images and libvips workers so a cold build doesn't
+  // trade the time limit for unbounded memory or CPU oversubscription.
+  const workers = Math.min(4, availableParallelism());
+  sharp.concurrency(1);
+  await parallel([...images.values()], workers, async ({ url, entry, names, urlCount }) => {
+    const pending = [];
+    for (const [name, width] of names) {
+      if (existsSync(`${OUT}/${name}`)) continue;
+      if (existsSync(`${COPIES}/${name}`)) {
         copyFileSync(`${COPIES}/${name}`, `${OUT}/${name}`);
         reused++;
+      } else {
+        pending.push([name, width]);
       }
     }
-    if (names.every(([, name]) => existsSync(`${OUT}/${name}`))) continue;
+    if (!pending.length) return;
     const bytes = original(entry);
     if (!bytes) {
       if (required) throw new Error(`media: no original for ${url}; run npm run media:fetch`);
-      missing++;
-      continue;
+      missing += urlCount;
+      return;
     }
     const image = sharp(bytes, { limitInputPixels: 40000000 }).rotate();
-    for (const [width, name] of names) {
-      if (existsSync(`${OUT}/${name}`)) continue;
-      // The whole image, never cropped or enlarged.
-      await image.clone().resize({ width, withoutEnlargement: true }).webp({ quality: 86, effort: 4 }).toFile(`${OUT}/${name}`);
+    for (const [name, width] of pending) {
+      // Same quality setting and whole-image resize, with a faster encoder
+      // search for the thousands of copies on a cold Workers build.
+      await image.clone().resize({ width, withoutEnlargement: true }).webp({ quality: 86, effort: 1 }).toFile(`${OUT}/${name}`);
       copyFileSync(`${OUT}/${name}`, `${COPIES}/${name}`);
       made++;
+      if (required && made % 1000 === 0) console.log(`media: encoded ${made} copies so far`);
     }
-  }
+  });
   for (const name of readdirSync(OUT)) if (!keep.has(name)) rmSync(`${OUT}/${name}`);
   console.log(`media: made ${made} copies, reused ${reused} cached copies${missing ? `; ${missing} images without an original show from their publishers` : ''}`);
 }

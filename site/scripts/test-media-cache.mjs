@@ -20,12 +20,13 @@ test('a restored npm cache reuses originals and copies on a fresh build', async 
   try {
     const bytes = await sharp({ create: { width: 100, height: 80, channels: 3, background: '#386342' } }).png().toBuffer();
     const sha256 = createHash('sha256').update(bytes).digest('hex');
-    const entry = { sha256, ext: 'png', width: 100, height: 80, widths: [60, 100, 240, 360] };
-    writeFileSync(join(dir, 'media.json'), JSON.stringify({ 'https://example.com/a.png': entry, 'https://example.com/b.png': entry }));
+    const entry = { sha256, ext: 'png', width: 100, height: 80, widths: [60] };
+    writeFileSync(join(dir, 'media.json'), JSON.stringify({ 'https://example.com/a.png': entry, 'https://example.com/b.png': { ...entry, widths: [60, 100, 240, 360] } }));
     mkdirSync(join(dir, 'media-cache/originals'), { recursive: true });
     writeFileSync(join(dir, `media-cache/originals/${sha256}.png`), bytes);
     assert.match(run(dir, 'build'), /made 2 copies, reused 0/);
     const outputs = Object.fromEntries(readdirSync(join(dir, 'public/media')).map((name) => [name, readFileSync(join(dir, 'public/media', name))]));
+    assert.deepEqual((await Promise.all(Object.values(outputs).map(async (data) => (await sharp(data).metadata()).width))).sort((a, b) => a - b), [60, 100]);
     rmSync(join(dir, 'public'), { recursive: true });
     rmSync(join(dir, 'media-cache'), { recursive: true });
     mkdirSync(join(dir, '.npm/naghva-media/originals'), { recursive: true });
@@ -33,18 +34,18 @@ test('a restored npm cache reuses originals and copies on a fresh build', async 
     assert.match(run(dir, 'fetch'), /originals are cached/);
     assert.match(run(dir, 'build'), /made 0 copies, reused 2/);
     for (const [name, data] of Object.entries(outputs)) assert.deepEqual(readFileSync(join(dir, 'public/media', name)), data);
-    const cachedCopies = readdirSync(join(dir, '.npm/naghva-media')).find((name) => name.startsWith('webp-v1-'));
+    const cachedCopies = readdirSync(join(dir, '.npm/naghva-media')).find((name) => name.startsWith('webp-v2-'));
     rmSync(join(dir, '.npm/naghva-media', cachedCopies, Object.keys(outputs)[0]));
     rmSync(join(dir, 'public'), { recursive: true });
     assert.match(run(dir, 'build'), /made 1 copies, reused 1/);
     const changedBytes = await sharp({ create: { width: 100, height: 80, channels: 3, background: '#aa6644' } }).png().toBuffer();
     const changedHash = createHash('sha256').update(changedBytes).digest('hex');
-    const changedEntry = { ...entry, sha256: changedHash };
+    const changedEntry = { ...entry, sha256: changedHash, widths: [60, 100] };
     writeFileSync(join(dir, 'media.json'), JSON.stringify({ 'https://example.com/a.png': changedEntry }));
     writeFileSync(join(dir, `.npm/naghva-media/originals/${changedHash}.png`), changedBytes);
     assert.match(run(dir, 'build'), /made 2 copies, reused 0/);
     assert.ok(readdirSync(join(dir, 'public/media')).every((name) => name.startsWith(changedHash.slice(0, 16))));
-    writeFileSync(join(dir, 'media.json'), JSON.stringify({ 'https://example.com/a.png': entry }));
+    writeFileSync(join(dir, 'media.json'), JSON.stringify({ 'https://example.com/a.png': { ...entry, widths: [60, 100] } }));
     run(dir, 'build');
     writeFileSync(join(dir, 'public/media/obsolete.webp'), 'old');
     run(dir, 'build');

@@ -173,6 +173,9 @@ Cloudflare builds also keep originals and resized copies in
 the `naghva-media/` folder inside npm's configured cache, which Workers
 Builds restores when Build Cache is enabled. It survives `npm ci`. A cold cache still downloads and resizes the images; later
 builds reuse them. Copies are keyed by image hash, width and encoder version.
+Cold builds resize up to four distinct originals at a time, with one
+libvips worker per image and a faster WebP encoding preset. The output
+widths and WebP quality setting are unchanged.
 
 Only Cloudflare's build holds the read-only key (its build variables
 `R2_ACCOUNT_ID`, `R2_ACCESS_KEY_ID` and `R2_SECRET_ACCESS_KEY`), with
