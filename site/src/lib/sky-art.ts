@@ -34,8 +34,8 @@ export const MARK = { cell: 96, variants: 6, star: 0, spark: 1, dot: 2, pearl: 3
 /** Where the landmarks stand, in the sky's own units (0 to 1 across it), so they move with the map. */
 export const CLOUDS = [
   { image: 0, x: .13, y: .17, wide: .26, flip: false },
-  { image: 1, x: .88, y: .3, wide: .13, flip: true },
-  { image: 2, x: .09, y: .7, wide: .13, flip: false },
+  { image: 1, x: .9, y: .27, wide: .13, flip: true },
+  { image: 2, x: .07, y: .76, wide: .13, flip: false },
   { image: 3, x: .93, y: .74, wide: .12, flip: true },
   { image: 4, x: .6, y: .95, wide: .28, flip: false },
   { image: 3, x: .47, y: .045, wide: .1, flip: false },

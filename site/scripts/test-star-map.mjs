@@ -94,3 +94,27 @@ test('a post-only recording keeps its year without posing as a release', () => {
   assert.equal(en('song').years, '2019');
   assert.equal(en('band').years, '2019');
 });
+
+test('a crowded cluster keeps its stars apart and inside the sky', () => {
+  const releases = Array.from({ length: 3000 }, (_, n) => item(`r${n}`, 'release', { statements: { performer: [statement('band')] } }));
+  const crowded = { ...record, items: { band, ...Object.fromEntries(releases.map((release) => [release.id, release])) } };
+  const { stars } = buildSky(crowded);
+  assert.equal(stars.length, 3001);
+  assert.ok(stars.every(({ x, y }) => x > 0 && x < 100_000 && y > 0 && y < 100_000));
+  // No two stars are closer than a zoomed-in finger can tell apart.
+  const cells = new Map();
+  for (const star of stars) {
+    const key = `${Math.floor(star.x / 40)},${Math.floor(star.y / 40)}`;
+    cells.set(key, [...(cells.get(key) ?? []), star]);
+  }
+  let nearest = Infinity;
+  for (const star of stars) {
+    const cx = Math.floor(star.x / 40), cy = Math.floor(star.y / 40);
+    for (let i = cx - 1; i <= cx + 1; i++) for (let j = cy - 1; j <= cy + 1; j++) {
+      for (const other of cells.get(`${i},${j}`) ?? []) {
+        if (other !== star) nearest = Math.min(nearest, Math.hypot(other.x - star.x, other.y - star.y));
+      }
+    }
+  }
+  assert.ok(nearest >= 40, `two stars are ${nearest} apart`);
+});

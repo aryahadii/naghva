@@ -51,17 +51,36 @@ export const SCALE = 100_000;
 const GOLDEN_ANGLE = Math.PI * (3 - Math.sqrt(5));
 type Bounds = { x: number; y: number; width: number; height: number };
 
+/** A fixed number from 0 to 1 for a star and a purpose: the same on every build. */
+function roll(id: string, salt: number): number {
+  let hash = 2166136261 ^ salt;
+  for (const char of id) hash = Math.imul(hash ^ char.charCodeAt(0), 16777619);
+  hash = Math.imul(hash ^ (hash >>> 13), 16777619);
+  return ((hash ^ (hash >>> 15)) >>> 0) / 4294967296;
+}
+/** A slow wave around a centre, from a few fixed turns of it. It gives an outline its lobes. */
+const wave = (angle: number, turns: [number, number, number][]) =>
+  turns.reduce((sum, [times, size, phase]) => sum + size * Math.sin(times * angle + 2 * Math.PI * phase), 0);
+
 /** Split the sky by population so large catalogues have space and small ones remain visible. */
 function placeGroups(groups: Node[][], bounds: Bounds): void {
   if (!groups.length) return;
   const { x, y, width, height } = bounds;
   if (groups.length === 1) {
     const stars = groups[0];
-    const rotation = [...stars[0].id].reduce((seed, char) => (seed * 31 + char.charCodeAt(0)) >>> 0, 0);
+    const seed = stars[0].id;
+    const rotation = 2 * Math.PI * roll(seed, 1);
+    // No two clusters have the same outline.
+    const lobes: [number, number, number][] = [[2, .2, roll(seed, 2)], [3, .13, roll(seed, 3)], [5, .07, roll(seed, 4)]];
     stars.forEach((star, index) => {
-      // The seed artist sits at the centre. A golden-angle spiral gives every neighbour its own place.
-      const radius = 0.47 * Math.sqrt(index / stars.length);
-      const angle = rotation + index * GOLDEN_ANGLE;
+      // The seed artist sits at the centre and its nearest links nearest to it. The golden
+      // angle spreads the stars evenly; each strays from its turn of the spiral, so no pattern
+      // shows. The cluster is thick at its heart and thins out past the edge of its own ground,
+      // into its neighbours'.
+      const turn = index && (index + roll(star.id, 5) - .5) / stars.length;
+      const angle = rotation + index * GOLDEN_ANGLE + (roll(star.id, 6) - .5) * 1.1;
+      const stray = roll(star.id, 7);
+      const radius = (.52 * turn ** .6 + (stray > .8 ? .3 * ((stray - .8) / .2) ** 2 * turn : 0)) * (1 + wave(angle, lobes));
       star.x = x + width * (0.5 + radius * Math.cos(angle));
       star.y = y + height * (0.5 + radius * Math.sin(angle));
     });
@@ -88,13 +107,18 @@ function placeGroups(groups: Node[][], bounds: Bounds): void {
   }
 }
 
+/** The lobes of the whole sky's outline. The first sets its heart off centre. Together they stay
+ * under a third, so the outline never folds back over itself. */
+const RIM: [number, number, number][] = [[1, .12, .2], [2, .06, .13], [3, .08, .61], [5, .04, .37]];
+
 /** Bend the packed catalogue into two sweeping arms. The concentric square-to-disc
  * projection keeps the corners separated; the angular warp is strictly increasing
- * at every radius, so the same neighbourhoods stay together without folding over. */
+ * at every radius, so the same neighbourhoods stay together without folding over.
+ * The disc has no edge: towards the rim its outline wanders and its stars scatter. */
 function projectGalaxy(star: Node): void {
   const x = 2 * star.x - 1;
   const y = 2 * star.y - 1;
-  const radius = Math.max(Math.abs(x), Math.abs(y));
+  let radius = Math.max(Math.abs(x), Math.abs(y));
   if (!radius) return;
   let angle: number;
   if (Math.abs(x) >= Math.abs(y)) {
@@ -103,13 +127,63 @@ function projectGalaxy(star: Node): void {
     angle = Math.PI / 2 - (Math.PI / 4) * (x / y) + (y < 0 ? Math.PI : 0);
   }
 
+  // A cluster at the edge of the square reaches past it; those stars go only a little past the rim.
+  if (radius > 1) radius = 1 + .25 * Math.tanh(2 * (radius - 1));
   // Narrow two regions of angle, then wind them outwards from the core.
   angle += 2.8 * (1 - radius ** 1.35) - 0.36 * Math.sin(2 * angle);
+  const rim = Math.min(radius, 1);
+  radius *= 1 + rim ** 2 * wave(angle, RIM) - .2 * (1 + .8 * Math.sin(angle + 1)) * rim ** 5 * Math.max(-2.5, Math.log(1 - roll(star.id, 8))) * roll(star.id, 9);
   const u = radius * Math.cos(angle);
-  const v = 0.76 * radius * Math.sin(angle);
+  const v = 0.95 * radius * Math.sin(angle);
   const tilt = -0.33;
-  star.x = Number((0.5 + 0.48 * (u * Math.cos(tilt) - v * Math.sin(tilt))).toFixed(5));
-  star.y = Number((0.5 + 0.48 * (u * Math.sin(tilt) + v * Math.cos(tilt))).toFixed(5));
+  // The furthest strays slow down before the edge of the sky, so none lie on it.
+  const place = (n: number) => {
+    const out = Math.abs(n - .5);
+    return Number((out > .42 ? .5 + Math.sign(n - .5) * (.42 + .07 * Math.tanh((out - .42) / .07)) : n).toFixed(5));
+  };
+  star.x = place(0.5 + 0.375 * (u * Math.cos(tilt) - v * Math.sin(tilt)));
+  star.y = place(0.5 + 0.375 * (u * Math.sin(tilt) + v * Math.cos(tilt)));
+}
+
+/** The least distance between two stars, so that a reader who zooms in can tell any two apart. */
+const GAP = .0006;
+/** Move stars that lie too close a little apart. A few passes settle all but the thickest knots. */
+function spread(stars: Node[]): void {
+  const cell = (n: number) => Math.floor(n / GAP);
+  for (let pass = 0; pass < 6; pass++) {
+    const grid = new Map<string, Node[]>();
+    for (const star of stars) {
+      const key = `${cell(star.x)},${cell(star.y)}`;
+      if (!grid.has(key)) grid.set(key, []);
+      grid.get(key)!.push(star);
+    }
+    for (const star of stars) {
+      const cx = cell(star.x), cy = cell(star.y);
+      for (let i = cx - 1; i <= cx + 1; i++) for (let j = cy - 1; j <= cy + 1; j++) {
+        for (const other of grid.get(`${i},${j}`) ?? []) {
+          if (other.id <= star.id) continue;
+          let dx = other.x - star.x, dy = other.y - star.y;
+          let apart = Math.hypot(dx, dy);
+          if (apart >= GAP) continue;
+          if (!apart) {
+            const angle = 2 * Math.PI * roll(star.id, 10);
+            dx = Math.cos(angle);
+            dy = Math.sin(angle);
+            apart = 1;
+          }
+          const push = (GAP - apart) / 2 / apart;
+          star.x -= dx * push;
+          star.y -= dy * push;
+          other.x += dx * push;
+          other.y += dy * push;
+        }
+      }
+    }
+  }
+  for (const star of stars) {
+    star.x = Number(star.x.toFixed(5));
+    star.y = Number(star.y.toFixed(5));
+  }
 }
 
 /** Multi-source breadth-first traversal assigns each star to its nearest published artist.
@@ -149,6 +223,7 @@ function layout(stars: Node[]): void {
   }
   placeGroups(groups, { x: 0, y: 0, width: 1, height: 1 });
   stars.forEach(projectGalaxy);
+  spread(stars);
 }
 
 /**
