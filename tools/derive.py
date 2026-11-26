@@ -499,6 +499,29 @@ def timeline(items, legacy_anchors=None):
             people = [v for v in qualifiers.get("with", []) if v in items]
             for value in qualifiers.get("point in time", [])[:1]:
                 add("life", item_id, people, value, text=s["value"])
+    # An interim deployment may have issued another fragment for the same fact.
+    # Keep it as an address alias, without adding a second dated entry.
+    registered_aliases = legacy_anchors.get("aliases", {})
+    if not isinstance(registered_aliases, dict):
+        raise ds.DataError("timeline aliases must be a map")
+    dated_by_anchor = {entry["anchor"]: entry for entry in entries}
+    for alias, destination in registered_aliases.items():
+        if (not isinstance(alias, str) or not re.fullmatch(r"entry-[0-9a-f]{20}", alias)
+                or not isinstance(destination, dict)
+                or not isinstance(destination.get("item"), str)
+                or not isinstance(destination.get("anchor"), str)):
+            raise ds.DataError("invalid timeline alias")
+        # The global registry also serves examples and filtered data roots.
+        if destination["item"] not in items:
+            continue
+        entry = dated_by_anchor.get(destination["anchor"])
+        if entry is None or entry["item"] != destination["item"]:
+            raise ds.DataError("timeline alias has no matching dated entry: %s" % alias)
+        if alias in identities:
+            raise ds.DataError("duplicate timeline fragment: %s" % alias)
+        identities.add(alias)
+        entry.setdefault("aliases", []).append(alias)
+
     entries.sort(key=lambda e: (e["date"]["range"][0], e["date"]["range"][1], e["kind"], e["item"]))
     return entries
 

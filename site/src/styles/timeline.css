@@ -32,6 +32,7 @@ html[lang=fa] .year-title { font: 700 clamp(1.8rem, 2.6vw, 2.3rem)/1.4 'Farhang2
 .entries { margin: 0; padding: 0 0 32px; padding-inline-start: 28px; list-style: none; background: linear-gradient(to bottom, var(--line), var(--line)) 0 0 / 1px 100% no-repeat }
 html[dir=rtl] .entries { background-position: 100% 0 }
 .entry { position: relative; padding-block: 12px 14px; scroll-margin-top: 68px }
+.entry-alias { position: absolute; inset-block-start: 0; inset-inline-start: 0; inline-size: 0; block-size: 0; scroll-margin-top: inherit }
 .entry::before { content: ''; position: absolute; top: 22px; inset-inline-start: -32px; width: 9px; height: 9px; border-radius: 50%; background: var(--mark); box-shadow: 0 0 0 4px var(--ink) }
 .entry-meta { display: flex; flex-wrap: wrap; gap: 0 10px; font-size: 13px; color: var(--ivory-3); font-variant-numeric: tabular-nums }
 .entry-meta > :first-child { color: var(--ivory-2) }
