@@ -94,13 +94,6 @@ html[dir=rtl] .hb-bar { background: linear-gradient(270deg, var(--c) var(--w), r
 html[lang=fa] .ranked .count { font-size: 14px }
 .ranked li span:first-child::before { content: counter(r, persian) '  ' }
 
-/* Network. */
-.net { position: relative; margin-top: 8px }
-.net-wrap { position: relative }
-.net svg { display: block; width: 100%; height: auto }
-.net-svg .edges line { stroke: rgb(247 243 232 / .13) }
-.net-svg .nodes circle { stroke: var(--ink); stroke-width: 1.5; transition: opacity .2s }
-.net-labels span { position: absolute; transform: translate(-50%, calc(var(--r) * 1px + 4px)); font-size: 12.5px; line-height: 1.2; color: var(--ivory); white-space: nowrap; text-shadow: 0 0 6px var(--ink), 0 0 3px var(--ink); pointer-events: none }
 
 .record-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: clamp(36px, 5vw, 72px) clamp(36px, 6vw, 96px); margin-top: 8px }
 
@@ -130,7 +123,6 @@ html[lang=fa] .ranked .count { font-size: 14px }
   .cols-short { height: 150px }
   .hbars li { grid-template-columns: minmax(0, 1fr) 3.2em; gap: 6px 10px }
   .hb-label { grid-column: 1 / -1 }
-  .net-labels span { font-size: 10.5px }
   .split i span { font-size: 12.5px }
   .split i { padding-inline: 6px }
 }
@@ -163,30 +155,10 @@ html[lang=fa] .ranked .count { font-size: 14px }
 .cols { margin-top: 40px }
 .col[data-tip]::after { direction: inherit; unicode-bidi: plaintext }
 
-/* The network answers a tap or hover: the chosen dot, its links and its neighbours stay lit. */
-.net-svg { -webkit-tap-highlight-color: transparent }
-.net-svg .edges line, .net-svg .nodes circle, .net-labels { transition: opacity .2s, stroke .2s }
-.net-svg.has-sel .edges line { opacity: .12 }
-.net-svg.has-sel .edges line.is-on { opacity: 1; stroke: rgb(247 243 232 / .7) }
-.net-svg.has-sel .nodes circle { opacity: .2 }
-.net-svg.has-sel .nodes circle:is(.is-sel, .is-near) { opacity: 1 }
-.net-svg .nodes circle.is-sel { stroke: var(--ivory); stroke-width: 3 }
-.net.has-sel .net-labels { opacity: .15 }
-.net-card { margin-top: 16px; padding: 14px 18px; border-radius: 12px; background: var(--wash); font-size: 14.5px; color: var(--ivory-2) }
-.net-name { font: 400 1.3rem/1.3 var(--serif); color: var(--ivory) }
-html[lang=fa] .net-name { font: 700 1.2rem/1.6 'Farhang2', serif }
-.net-with { margin-top: 4px; line-height: 1.6 }
-.net-open { display: inline-block; margin-top: 8px }
-
-/* Most connected: names to tap, each picks its dot. */
-.net-top { margin-top: 20px }
-.net-top .fig-label { margin: 0 0 10px }
-.net-chips { display: flex; flex-wrap: wrap; gap: 8px; margin: 0; padding: 0; list-style: none }
-.net-chips button { min-height: 36px; padding: 0 14px; border: 0; border-radius: 999px; background: var(--wash); color: var(--ivory-2); font: inherit; font-size: 14px; cursor: pointer; transition: background .2s, color .2s }
-.net-chips button.is-on { background: rgb(238 130 112 / .2); color: var(--ivory) }
 
 
-/* Phones: tighter rhythm, the whole network on screen, labels and values on one line above each bar. */
+
+/* Phones: tighter rhythm, labels and values on one line above each bar. */
 @media (max-width: 640px) {
   .q { gap: 20px; padding-block: 44px }
   .q h2 { margin-top: 10px }
@@ -206,12 +178,7 @@ html[lang=fa] .net-name { font: 700 1.2rem/1.6 'Farhang2', serif }
   .hb-label { grid-area: label; grid-column: auto }
   .hb-val { grid-area: val }
   .hb-bar { grid-area: bar }
-  .net { margin-inline: 0; overflow: visible }
-  .net svg, .net-labels, .net-wrap { width: 100% }
-  .net-labels span:nth-child(n + 6) { display: none }
-  .net-labels span { font-size: 10px }
 }
-@media (hover: hover) { .net-chips button:hover { background: rgb(238 130 112 / .2); color: var(--ivory) } }
 
 /* The page reads as one column of charts: narrower than the site's widest frame on big screens. */
 .numbers.wrap { width: min(1040px, 100% - 2 * var(--gutter)) }
@@ -223,53 +190,139 @@ html[lang=fa] .net-name { font: 700 1.2rem/1.6 'Farhang2', serif }
 .q-num::after { content: none }
 .q h2 { margin-top: 0 }
 
-/* Full-screen network (phones): a button back to the whole picture. */
-.net-out { position: absolute; top: 8px; inset-inline-end: 8px; z-index: 3; min-height: 36px; padding: 0 14px; border: 0; border-radius: 999px; background: rgb(24 25 30 / .85); box-shadow: 0 0 0 1px rgb(247 243 232 / .14); color: var(--ivory); font: inherit; font-size: 14px; cursor: pointer }
-.net-hop { padding: 2px 0; border: 0; background: none; color: var(--ivory); font: inherit; text-decoration: underline; text-decoration-color: rgb(247 243 232 / .3); text-underline-offset: .3em; cursor: pointer }
-.net-svg :is(line, circle) { vector-effect: non-scaling-stroke }
 
-/* Phones: the network in the page is a still preview; a tap opens it full screen. */
-.net-expand { display: none }
-.net .net-svg { cursor: pointer }
-@media (max-width: 640px) {
-  .net .net-svg { cursor: zoom-in }
-  .net-expand { position: absolute; bottom: 6px; inset-inline-end: 6px; z-index: 2; display: grid; place-items: center; width: 40px; height: 40px; border: 0; border-radius: 50%; background: rgb(24 25 30 / .85); box-shadow: 0 0 0 1px rgb(247 243 232 / .16); color: var(--ivory); cursor: pointer }
-  .net-expand svg { width: 18px; height: 18px; fill: none; stroke: currentColor; stroke-width: 1.8; stroke-linecap: round; stroke-linejoin: round }
-  .net-wrap > .net-card { display: none }
+
+
+/* The collaboration network: a map of islands, a search field, and rows that name whoever is on show. */
+.net-ui { --page: var(--coral); --guest: rgb(247 243 232 / .5); display: grid; gap: 16px; margin-top: 8px; min-width: 0 }
+.net-wrap { position: relative; margin: 0; min-width: 0 }
+.net-svg { display: block; width: 100%; height: auto; cursor: default; -webkit-tap-highlight-color: transparent }
+.net-svg.can-pick { cursor: pointer }
+.net-svg :is(line, .nodes circle) { vector-effect: non-scaling-stroke; transition: opacity .25s, stroke .25s }
+.net-svg .isles circle { transition: opacity .25s }
+.net-svg .edges line { stroke: rgb(247 243 232 / .16) }
+.net-svg .edges line.far { stroke: rgb(247 243 232 / .05) }
+.net-svg .nodes circle { fill: var(--guest); stroke: var(--ink); stroke-width: 1.5 }
+.net-svg .nodes circle.has-page { fill: var(--page) }
+/* Someone is lit: they, their ties and the people they worked with stay; the rest steps back. */
+.net-svg.has-sel .edges line { opacity: .1 }
+.net-svg.has-sel .edges line.is-on { opacity: 1; stroke: rgb(247 243 232 / .5) }
+.net-svg.has-sel .nodes circle { opacity: .3 }
+.net-svg.has-sel .nodes circle:is(.is-sel, .is-near) { opacity: 1 }
+.net-svg .nodes circle.is-sel { stroke: var(--ivory); stroke-width: 2.5 }
+.net-svg .nodes circle.is-hot { stroke: var(--ivory) }
+/* Someone is chosen: only they and their circle are drawn. */
+.net-svg.is-ego :is(.isles circle, .edges line) { opacity: 0 }
+.net-svg.is-ego .edges line.is-in { opacity: 1; stroke: rgb(247 243 232 / .22) }
+.net-svg.is-ego .edges line.is-on { opacity: 1; stroke: rgb(247 243 232 / .32) }
+.net-svg.is-ego .nodes circle { opacity: 0; pointer-events: none }
+.net-svg.is-ego .nodes circle:is(.is-sel, .is-near) { opacity: 1 }
+.net-names { position: absolute; inset: 0; z-index: 1; pointer-events: none }
+.net-names span { position: absolute; transform: translateX(-50%); font-size: 12px; line-height: 16px; color: var(--ivory-2); white-space: nowrap; text-shadow: 0 0 6px var(--ink), 0 0 3px var(--ink), 0 0 2px var(--ink) }
+.net-names span.is-sel { color: var(--ivory); font-weight: 600 }
+
+.net-btn { flex: none; display: grid; place-items: center; width: 44px; height: 44px; padding: 0; border: 0; border-radius: 50%; background: var(--wash); color: var(--ivory); cursor: pointer; transition: background .2s }
+.net-btn[hidden] { display: none }
+.net-btn svg { width: 18px; height: 18px; fill: none; stroke: currentColor; stroke-width: 1.8; stroke-linecap: round; stroke-linejoin: round }
+.net-wrap > .net-btn { position: absolute; z-index: 2; inset-inline-end: 8px; background: rgb(24 25 30 / .85); box-shadow: 0 0 0 1px rgb(247 243 232 / .16) }
+.net-expand { bottom: 8px }
+.net-out { top: 8px }
+.net-expand, .net-close { display: none }
+
+/* Search: a field, and the names it finds in a list under it. */
+.net-bar { position: relative; display: flex; align-items: center; gap: 10px; min-width: 0 }
+.net-bar[hidden] { display: none }
+.net-find { flex: 1; display: flex; align-items: center; gap: 10px; min-width: 0; height: 44px; padding-inline: 14px; border-radius: 999px; background: var(--wash); color: var(--ivory-3); cursor: text; transition: box-shadow .2s, background .2s }
+.net-find:focus-within { background: rgb(247 243 232 / .09); box-shadow: 0 0 0 2px rgb(247 243 232 / .6) }
+.net-find svg { flex: none; width: 18px; height: 18px; fill: none; stroke: currentColor; stroke-width: 1.8; stroke-linecap: round }
+.net-q { flex: 1; min-width: 0; height: 100%; padding: 0; border: 0; outline: 0; background: none; color: var(--ivory); font: inherit; font-size: 16px; appearance: none }
+.net-q::placeholder { color: var(--ivory-3); opacity: 1 }
+.net-q::-webkit-search-cancel-button { appearance: none }
+.net-found { position: absolute; top: calc(100% + 6px); inset-inline: 0; z-index: 5; margin: 0; padding: 6px; list-style: none; border-radius: 16px; background: var(--night); box-shadow: 0 0 0 1px rgb(247 243 232 / .12), 0 18px 40px -12px rgb(0 0 0 / .85) }
+.net-found[hidden] { display: none }
+.net-found button { display: flex; align-items: center; gap: 10px; width: 100%; min-height: 44px; padding: 6px 12px; border: 0; border-radius: 10px; background: none; color: var(--ivory); font: inherit; font-size: 15px; text-align: start; cursor: pointer }
+.net-found button::before, .nr-name::before { content: ''; flex: none; width: 8px; height: 8px; border-radius: 50%; background: var(--guest) }
+.net-found button.has-page::before, .has-page .nr-name::before { background: var(--page) }
+.net-found button[aria-selected=true] { background: var(--wash) }
+.net-none { padding: 12px; font-size: 14.5px; color: var(--ivory-3) }
+
+/* Beside the map: whoever is chosen, then a row for each person on show. */
+.net-panel { display: flex; flex-direction: column; min-width: 0; min-height: 0 }
+.net-who { display: flex; align-items: center; gap: 8px; margin-bottom: 14px }
+.net-who[hidden] { display: none }
+.net-name { flex: 1; min-width: 0; margin: 0; font: 400 1.45rem/1.25 var(--serif); color: var(--ivory); text-wrap: balance }
+html[lang=fa] .net-name { font: 700 1.3rem/1.6 'Farhang2', serif }
+.net-open { color: var(--coral); background: rgb(238 130 112 / .14) }
+.net-open.is-off { visibility: hidden }
+html[dir=rtl] :is(.net-open, .net-shut) svg { transform: scaleX(-1) }
+.net-name:focus { outline: 0 }
+.net-shut { margin-inline-start: -8px; background: none }
+.net-cap { display: flex; justify-content: space-between; gap: 12px; margin: 0 0 6px }
+.net-cap span:last-child { color: var(--ivory-3) }
+.net-rows { margin: 0; padding: 0; list-style: none }
+.net-rows button { display: grid; grid-template-columns: minmax(0, 1fr) minmax(48px, 30%) 2.2em; align-items: center; gap: 12px; width: 100%; min-height: 40px; padding: 4px 0; border: 0; background: none; color: var(--ivory-2); font: inherit; font-size: 14.5px; text-align: start; cursor: pointer; transition: color .2s }
+.nr-name { display: flex; align-items: center; gap: 10px; min-width: 0 }
+.nr-name::before { margin-block: auto }
+.nr-bar { height: 8px; border-radius: 6px; background: linear-gradient(90deg, var(--guest) var(--w), rgb(247 243 232 / .07) var(--w)) }
+html[dir=rtl] .nr-bar { background: linear-gradient(270deg, var(--guest) var(--w), rgb(247 243 232 / .07) var(--w)) }
+.has-page .nr-bar { --guest: var(--page) }
+.nr-val { font-variant-numeric: tabular-nums; color: var(--ivory-3); text-align: end }
+.net-rows button.is-hot { color: var(--ivory); background: var(--wash); box-shadow: -8px 0 0 var(--wash), 8px 0 0 var(--wash); border-radius: 6px }
+.net-rows button:focus-visible, .net-btn:focus-visible { outline: 2px solid var(--ivory); outline-offset: 2px }
+@media (hover: hover) {
+  .net-rows button:hover { color: var(--ivory) }
+  .net-rows button:hover .nr-bar { filter: brightness(1.2) }
+  .net-found button:hover { background: var(--wash) }
+  .net-btn:hover { background: rgb(247 243 232 / .12) }
+  .net-open:hover { background: rgb(238 130 112 / .24) }
 }
-.net-full[hidden] { display: none }
-.net-full { position: fixed; inset: 0; z-index: 100; display: flex; flex-direction: column; height: 100dvh; background: var(--ink); color: var(--ivory) }
-html.nf-lock, html.nf-lock body { overflow: hidden; overscroll-behavior: none }
-.nf-bar { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding: max(10px, env(safe-area-inset-top)) var(--gutter) 6px }
-.nf-title { margin: 0; font: 400 1.15rem/1.3 var(--serif); color: var(--ivory) }
-html[lang=fa] .nf-title { font: 700 1.1rem/1.6 'Farhang2', serif }
-.nf-close { flex: none; display: grid; place-items: center; width: 40px; height: 40px; border: 0; border-radius: 50%; background: var(--wash); color: var(--ivory); cursor: pointer }
-.nf-close svg { width: 16px; height: 16px; fill: none; stroke: currentColor; stroke-width: 2; stroke-linecap: round }
-.nf-stage { position: relative; flex: 1; min-height: 0; overflow: hidden; touch-action: none; cursor: grab }
-.nf-stage .net-svg { position: absolute; inset: 0; display: block; width: 100%; height: 100% }
-.nf-names { position: absolute; inset: 0; z-index: 1; pointer-events: none }
-.nf-names span { position: absolute; transform: translateX(-50%); font-size: 12px; line-height: 15px; color: var(--ivory-2); white-space: nowrap; text-shadow: 0 0 6px var(--ink), 0 0 3px var(--ink), 0 0 2px var(--ink) }
-.nf-names span.is-sel { color: var(--ivory); font-weight: 600 }
-.nf-sheet { flex: none; max-height: 42dvh; overflow-y: auto; padding: 0 var(--gutter) max(14px, env(safe-area-inset-bottom)); border-top: 1px solid var(--line) }
-.nf-sheet .net-top { margin-top: 12px }
-.nf-sheet .net-top .fig-label { display: none }
-.nf-sheet .net-chips { flex-wrap: nowrap; overflow-x: auto; margin-inline: calc(-1 * var(--gutter)); padding-inline: var(--gutter); scrollbar-width: none }
-.nf-sheet .net-chips::-webkit-scrollbar { display: none }
-.nf-sheet .net-chips li { flex: none }
-.nf-sheet .net-card { display: block; margin-top: 12px; padding: 12px 16px }
-.nf-sheet .net-card[hidden] { display: none }
-.net-full.has-sel .net-top { display: none }
 
-/* With a mouse, the card is a small panel beside the chosen dot, kept inside the picture. A hovered dot gets the
-   same card as a preview the pointer passes through; a click pins it, with a close button. */
-.net-wrap > .net-card { position: absolute; top: 0; left: 0; z-index: 3; width: max-content; max-width: min(320px, calc(100% - 16px)); margin: 0; padding: 12px 16px 14px; background: var(--night); box-shadow: 0 0 0 1px rgb(247 243 232 / .12), 0 18px 40px -12px rgb(0 0 0 / .85); animation: net-pop .16s ease-out }
-.net-wrap > .net-card:not(.is-peek) { padding-inline-end: 44px }
-.net-wrap > .net-card.is-peek { pointer-events: none }
-@keyframes net-pop { from { opacity: 0 } }
-.net-shut { position: absolute; top: 8px; inset-inline-end: 8px; display: grid; place-items: center; width: 30px; height: 30px; border: 0; border-radius: 50%; background: none; color: var(--ivory-3); cursor: pointer; transition: background .2s, color .2s }
-.net-shut:hover, .net-shut:focus-visible { background: var(--wash); color: var(--ivory) }
-.net-shut svg { width: 14px; height: 14px; fill: none; stroke: currentColor; stroke-width: 2; stroke-linecap: round }
-.net-card.is-peek .net-shut, .nf-sheet .net-shut { display: none }
+/* Wide screens: the map with the search and the rows beside it. The rows take the map's height and scroll. */
+@media (min-width: 901px) {
+  .net-ui { grid-template: 'map bar' auto 'map panel' 1fr / minmax(0, 1fr) 300px; gap: 16px 36px }
+  .net-wrap { grid-area: map; align-self: start }
+  .net-bar { grid-area: bar }
+  .net-panel { grid-area: panel; position: relative }
+  .net-scroll { flex: 1 1 0; min-height: 0; overflow-y: auto; overscroll-behavior: contain; scrollbar-width: thin; scrollbar-color: rgb(247 243 232 / .2) transparent; padding-inline-end: 6px }
+}
+/* Narrower, with nobody chosen, the most connected are names to tap rather than rows. */
+@media (max-width: 900px) {
+  .net-ui:not(.has-sel) .net-cap span:last-child { display: none }
+  .net-ui:not(.has-sel) .net-rows { display: flex; flex-wrap: wrap; gap: 8px }
+  .net-ui:not(.has-sel) .net-rows button { display: block; width: auto; min-height: 44px; padding: 0 14px; border-radius: 999px; background: var(--wash); font-size: 14px }
+  .net-ui:not(.has-sel) :is(.nr-bar, .nr-val) { display: none }
+  .net-ui:not(.has-sel) .nr-name::before { content: none }
+  .net-rows button { min-height: 44px }
+  .net-ui.has-sel:not(.is-full) .net-scroll { max-height: min(52vh, 420px); overflow-y: auto; overscroll-behavior: contain; padding-inline-end: 6px }
+}
+/* Phones: the map in the page is a still preview; a tap opens it full screen. */
+@media (max-width: 640px) {
+  .net-ui:not(.is-full) .net-svg { cursor: zoom-in }
+  .net-ui:not(.is-full) .net-expand { display: grid }
+}
+
+/* Full screen: the search on top, the map filling the middle, the rows in a sheet below. */
+.net-full[hidden] { display: none }
+.net-full { position: fixed; inset: 0; z-index: 100; height: 100dvh; background: var(--ink); color: var(--ivory) }
+html.nf-lock, html.nf-lock body { overflow: hidden; overscroll-behavior: none }
+.net-ui.is-full { display: flex; flex-direction: column; gap: 0; height: 100%; margin: 0 }
+.is-full .net-close { display: grid }
+.is-full .net-bar { flex: none; z-index: 4; padding: max(10px, env(safe-area-inset-top)) var(--gutter) 8px }
+.is-full .net-found { top: 100%; inset-inline: var(--gutter) }
+.is-full .net-wrap { flex: 1; min-height: 0; overflow: hidden; touch-action: none; cursor: grab }
+.is-full .net-svg { position: absolute; inset: 0; width: 100%; height: 100% }
+.is-full .net-panel { flex: none; padding: 12px var(--gutter) max(14px, env(safe-area-inset-bottom)); border-top: 1px solid var(--line); background: var(--ink) }
+.is-full:not(.has-sel) .net-cap { display: none }
+.is-full:not(.has-sel) .net-rows { flex-wrap: nowrap; overflow-x: auto; margin-inline: calc(-1 * var(--gutter)); padding-inline: var(--gutter); scrollbar-width: none }
+.is-full:not(.has-sel) .net-rows::-webkit-scrollbar { display: none }
+.is-full:not(.has-sel) .net-rows li { flex: none }
+.is-full:not(.has-sel) .net-scroll { flex: none; overflow: visible }
+.is-full.has-sel .net-panel { height: 44dvh }
+.is-full .net-who { margin-bottom: 8px }
+.is-full .net-scroll { flex: 1 1 0; min-height: 0; overflow-y: auto; overscroll-behavior: contain }
+/* A list that runs on fades out at the bottom. */
+.has-sel .net-scroll { mask-image: linear-gradient(#000 calc(100% - 36px), transparent); padding-bottom: 28px }
+@media (prefers-reduced-motion: reduce) { .net-svg :is(line, circle) { transition: none } }
 
 /* Wide screens: the shorter charts sit two to a row, the long year-by-year releases, the network and the archive
    check keep the full width. Each pair shares its rows, so both titles take one line height and both charts start

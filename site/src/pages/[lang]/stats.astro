@@ -65,20 +65,21 @@ const startMax = scale(Math.max(1, ...starts.map((s) => s.n)));
 // Listening.
 const ls = d.listen;
 
-// Network.
+// Network. The layout's unit is the picture's height.
 const net = d.network;
-const W = 1000, H = 560, pad = 28;
-const pos = Object.fromEntries(net.nodes.map((x: any) => [x.id, { x: pad + x.x * (W - 2 * pad), y: pad + x.y * (H - 2 * pad) }]));
-const rad = (deg: number) => 2.2 + Math.sqrt(deg) * 1.25;
+const H = 625, W = Math.round(H * (net.box ?? 1.6));
+const at = Object.fromEntries(net.nodes.map((x: any) => [x.id, { x: x.x * H, y: x.y * H }]));
+const pos = (id: string) => at[id];
 const label = (id: string) => nameOf(record.items[id], lang).text;
+const other = (id: string) => nameOf(record.items[id], en ? 'fa' : 'en').text;
 const ranked = [...net.nodes].sort((a: any, b: any) => b.deg - a.deg);
-const hubs = ranked.filter((x: any) => x.page).slice(0, 3);
-// Name the best-connected dots, skipping any whose label would sit on one already placed.
+const hubs = ranked.filter((x: any) => x.page).slice(0, 8);
+const groupOf = Object.fromEntries(net.nodes.map((x: any) => [x.id, x.g]));
+// Each island is named after its best-connected artist, skipping a name that would sit on one already placed.
 const labelled: any[] = [];
-for (const x of ranked) {
-  const q = pos[x.id];
-  if (labelled.every((o) => Math.abs(pos[o.id].x - q.x) > 130 || Math.abs(pos[o.id].y - q.y) > 30)) labelled.push(x);
-  if (labelled.length === 10) break;
+for (const g of net.groups ?? []) {
+  const y = (g.y + g.r) * H;
+  if (labelled.every((o) => Math.abs(o.x - g.x) * H > 120 || Math.abs((o.y + o.r) * H - y) > 22)) labelled.push(g);
 }
 
 // Where artists live now: Iran, then the countries abroad, the smallest folded into one row.
@@ -208,7 +209,7 @@ const half = (id: string) => (PAIRS.some((pair) => pair.includes(id) && pair.eve
     )}
 
     {shown('network') && (
-      <section class="q q-wide" id="network" aria-labelledby="network-h" data-with={T('Worked with', 'همکاری با')} data-more={T('more', 'نفر دیگر')} data-sep={en ? ', ' : '، '} data-digits={en ? 'en' : 'fa'}>
+      <section class="q q-wide" id="network" aria-labelledby="network-h" data-with={T('Worked with {n}', 'همکاری با {n} نفر')} data-releases={T('Releases together', 'آثار مشترک')} data-none={T('No one by that name', 'کسی با این نام پیدا نشد')} data-digits={en ? 'en' : 'fa'}>
         <div class="q-text">
           <h2 id="network-h">{T('Who works with whom?', 'چه کسانی با هم کار می‌کنند؟')}</h2>
           <ul class="legend">
@@ -216,48 +217,48 @@ const half = (id: string) => (PAIRS.some((pair) => pair.includes(id) && pair.eve
             <li style="--c:rgb(247 243 232 / .45)">{T('Credited beside them', 'همکار و دست‌اندرکار')}</li>
           </ul>
         </div>
-        <figure class="q-fig net">
-          <div class="net-wrap">
+        <div class="net-ui">
+          <div class="net-bar" hidden>
+            <button type="button" class="net-btn net-close" aria-label={T('Close', 'بستن')}><svg viewBox="0 0 20 20" aria-hidden="true"><path d="M4 4l12 12M16 4L4 16" /></svg></button>
+            <label class="net-find">
+              <svg viewBox="0 0 20 20" aria-hidden="true"><circle cx="8.5" cy="8.5" r="5.5" /><path d="M13 13l4.5 4.5" /></svg>
+              <input type="search" class="net-q" placeholder={T('Find a name', 'جست‌وجوی نام')} aria-label={T('Find a name in the network', 'جست‌وجوی نام در شبکهٔ همکاری‌ها')} autocomplete="off" autocapitalize="off" spellcheck="false" enterkeyhint="search" role="combobox" aria-expanded="false" aria-controls="net-found" aria-autocomplete="list" />
+            </label>
+            <ul class="net-found" id="net-found" role="listbox" hidden></ul>
+          </div>
+          <figure class="net-wrap">
             <svg class="net-svg" viewBox={`0 0 ${W} ${H}`} role="img" aria-label={T('Collaboration network', 'شبکهٔ همکاری‌ها')}>
               <defs>
-                <radialGradient id="net-glow"><stop offset="0" stop-color="#455bdb" stop-opacity=".16" /><stop offset="1" stop-color="#455bdb" stop-opacity="0" /></radialGradient>
+                <radialGradient id="net-glow"><stop offset="0" stop-color="#455bdb" stop-opacity=".2" /><stop offset=".7" stop-color="#455bdb" stop-opacity=".1" /><stop offset="1" stop-color="#455bdb" stop-opacity="0" /></radialGradient>
               </defs>
-              <ellipse cx={W / 2} cy={H / 2} rx={W / 2} ry={H / 2} fill="url(#net-glow)" />
-              <g class="edges">{net.edges.map((e: any) => <line data-s={e.s} data-t={e.t} data-w={e.w} x1={pos[e.s].x} y1={pos[e.s].y} x2={pos[e.t].x} y2={pos[e.t].y} stroke-width={Math.min(2.4, .5 + Math.log2(1 + e.w) * .35)} />)}</g>
+              <g class="isles">{(net.groups ?? []).map((g: any, i: number) => <circle data-g={i} data-lead={g.lead} cx={g.x * H} cy={g.y * H} r={g.r * H * 1.12} fill="url(#net-glow)" />)}</g>
+              <g class="edges">{net.edges.map((e: any) => <line class={groupOf[e.s] === groupOf[e.t] ? undefined : 'far'} data-s={e.s} data-t={e.t} data-w={e.w} x1={pos(e.s).x} y1={pos(e.s).y} x2={pos(e.t).x} y2={pos(e.t).y} stroke-width={Math.min(2.4, .5 + Math.log2(1 + e.w) * .35)} />)}</g>
               <g class="nodes">
                 {net.nodes.map((x: any) => {
                   const page = record.items[x.id]?.page;
-                  return <circle data-id={x.id} data-name={label(x.id)} data-href={page ? url(lang, page) : undefined} cx={pos[x.id].x} cy={pos[x.id].y} r={rad(x.deg)} fill={x.page ? 'var(--coral)' : 'rgb(247 243 232 / .5)'} />;
+                  return <circle class={x.page ? 'has-page' : undefined} data-id={x.id} data-g={x.g} data-name={label(x.id)} data-alt={other(x.id)} data-href={page ? url(lang, page) : undefined} cx={x.x * H} cy={x.y * H} r={x.r * H} />;
                 })}
               </g>
             </svg>
-            <button type="button" class="net-expand" aria-label={T('Open full screen', 'باز کردن در تمام صفحه')}><svg viewBox="0 0 20 20" aria-hidden="true"><path d="M12 3h5v5M8 17H3v-5M17 3l-5.5 5.5M3 17l5.5-5.5" /></svg></button>
-            <div class="net-labels" aria-hidden="true">
-              {labelled.map((x) => <span data-for={x.id} style={`left:${(pos[x.id].x / W) * 100}%;top:${(pos[x.id].y / H) * 100}%;--r:${rad(x.deg)}`}>{label(x.id)}</span>)}
+            <div class="net-names" aria-hidden="true">
+              {labelled.map((g) => <span style={`left:${(g.x * H / W) * 100}%;top:${(g.y + g.r) * 100}%`}>{label(g.lead)}</span>)}
             </div>
-            <div class="net-card" aria-live="polite" hidden>
-              <button type="button" class="net-shut" aria-label={T('Close', 'بستن')}><svg viewBox="0 0 20 20" aria-hidden="true"><path d="M5 5l10 10M15 5L5 15" /></svg></button>
-              <p class="net-name"></p>
-              <p class="net-with"></p>
-              <a class="text-link net-open" hidden>{T('Open their page', 'رفتن به صفحهٔ هنرمند')}</a>
+            <button type="button" class="net-btn net-expand" aria-label={T('Open full screen', 'باز کردن در تمام صفحه')}><svg viewBox="0 0 20 20" aria-hidden="true"><path d="M12 3h5v5M8 17H3v-5M17 3l-5.5 5.5M3 17l5.5-5.5" /></svg></button>
+            <button type="button" class="net-btn net-out" aria-label={T('Show the whole network', 'نمایش کل شبکه')} hidden><svg viewBox="0 0 20 20" aria-hidden="true"><path d="M17 3l-5 5m0-4v4h4M3 17l5-5m0 4v-4H4" /></svg></button>
+          </figure>
+          <div class="net-panel">
+            <div class="net-who" hidden>
+              <button type="button" class="net-btn net-shut" aria-label={T('Back to the whole network', 'بازگشت به کل شبکه')}><svg viewBox="0 0 20 20" aria-hidden="true"><path d="M12 4l-6 6 6 6" /></svg></button>
+              <p class="net-name" aria-live="polite" tabindex="-1"></p>
+              <a class="net-btn net-open" aria-label={T('Open their page', 'رفتن به صفحهٔ هنرمند')} title={T('Open their page', 'رفتن به صفحهٔ هنرمند')}><svg viewBox="0 0 20 20" aria-hidden="true"><path d="M7 5h8v8M15 5L5 15" /></svg></a>
+            </div>
+            <p class="fig-label net-cap"><span>{T('Most connected', 'بیشترین همکاری')}</span><span>{T('Collaborators', 'همکاران')}</span></p>
+            <div class="net-scroll">
+              <ul class="net-rows">{hubs.map((x: any) => <li><button type="button" class="has-page" data-pick={x.id}><span class="nr-name">{label(x.id)}</span><span class="nr-bar" style={`--w:${(x.deg / hubs[0].deg) * 100}%`}></span><span class="nr-val">{n(x.deg)}</span></button></li>)}</ul>
             </div>
           </div>
-        </figure>
-        <div class="net-top">
-          <p class="fig-label">{T('Most connected', 'بیشترین همکاری')}</p>
-          <ul class="net-chips">{ranked.filter((x: any) => x.page).slice(0, 8).map((x: any) => <li><button type="button" data-pick={x.id}>{label(x.id)}</button></li>)}</ul>
         </div>
-        <div class="net-full" role="dialog" aria-modal="true" aria-labelledby="nf-title" hidden>
-          <div class="nf-bar">
-            <p class="nf-title" id="nf-title">{T('Who works with whom?', 'چه کسانی با هم کار می‌کنند؟')}</p>
-            <button type="button" class="nf-close" aria-label={T('Close', 'بستن')}><svg viewBox="0 0 20 20" aria-hidden="true"><path d="M4 4l12 12M16 4L4 16" /></svg></button>
-          </div>
-          <div class="nf-stage">
-            <div class="nf-names" aria-hidden="true"></div>
-            <button type="button" class="net-out" hidden>{T('Show all', 'نمایش کل')}</button>
-          </div>
-          <div class="nf-sheet"></div>
-        </div>
+        <div class="net-full" role="dialog" aria-modal="true" aria-label={T('Who works with whom?', 'چه کسانی با هم کار می‌کنند؟')} hidden></div>
       </section>
     )}
 

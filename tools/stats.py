@@ -14,6 +14,8 @@ import datastore as ds
 # Source tiers, as the source schema lists them; a source with none counts as other.
 TIERS = ("own", "discography", "journalism", "academic", "wikipedia", "other")
 NETWORK_SEED = 1404
+# The network picture is this many times wider than tall.
+NETWORK_BOX = 1.4
 # The place item for Iran. A country is a place with no `country` of its own (see `country` in data/schema/properties.yaml).
 IRAN = "Qthab26"
 
@@ -58,45 +60,145 @@ def week_of(day):
     return (d - datetime.timedelta(days=d.weekday())).isoformat()
 
 
-def layout(nodes, edges, steps=300):
-    """A force layout with a fixed seed, so the picture is the same from build to build."""
-    if not nodes:
-        return
-    rng = random.Random(NETWORK_SEED)
-    ids = [n["id"] for n in nodes]
-    pos = {i: [rng.uniform(-1, 1), rng.uniform(-1, 1)] for i in ids}
-    k = math.sqrt(4.0 / max(len(ids), 1))
-    temp = 0.12
-    for _ in range(steps):
+def communities(ids, edges):
+    """Circles of people who work mostly with each other (the Louvain method), the largest first."""
+    graph = {i: {} for i in ids}
+    for e in edges:
+        graph[e["s"]][e["t"]] = graph[e["t"]][e["s"]] = e["w"]
+    members = {i: [i] for i in ids}
+    while True:
+        # Move each one to the neighbouring circle that raises modularity most, until nobody moves.
+        degree = {a: sum(near.values()) for a, near in graph.items()}
+        total = sum(degree.values()) or 1
+        home, weight = {a: a for a in graph}, dict(degree)
+        moved = True
+        while moved:
+            moved = False
+            for a in sorted(graph):
+                links = defaultdict(float)
+                for b, w in graph[a].items():
+                    if b != a:
+                        links[home[b]] += w
+                old = home[a]
+                weight[old] -= degree[a]
+                best, gain = old, links.get(old, 0) - weight[old] * degree[a] / total
+                for c in sorted(links):
+                    g = links[c] - weight[c] * degree[a] / total
+                    if g > gain + 1e-9:
+                        best, gain = c, g
+                weight[best] += degree[a]
+                home[a] = best
+                moved = moved or best != old
+        if len(set(home.values())) == len(graph):
+            break
+        # Then treat each circle as one member and go again.
+        merged, inside = defaultdict(lambda: defaultdict(float)), defaultdict(list)
+        for a, near in graph.items():
+            inside[home[a]] += members[a]
+            for b, w in near.items():
+                merged[home[a]][home[b]] += w
+        graph, members = merged, inside
+    return sorted((sorted(m) for m in members.values()), key=lambda m: (-len(m), m))
+
+
+def spread(ids, links, size, rng, steps=240):
+    """A force layout of one circle around (0, 0), no two dots overlapping. Returns the places and its radius."""
+    gap = 15.0
+    pos = {i: [rng.uniform(-1, 1) * gap * math.sqrt(len(ids)), rng.uniform(-1, 1) * gap * math.sqrt(len(ids))] for i in ids}
+    ties = Counter(i for s, t, _ in links for i in (s, t))
+    temp = gap * 2
+    for step in range(steps):
         move = {i: [0.0, 0.0] for i in ids}
         for a in range(len(ids)):
             pa = pos[ids[a]]
             for b in range(a + 1, len(ids)):
                 pb = pos[ids[b]]
                 dx, dy = pa[0] - pb[0], pa[1] - pb[1]
-                d2 = dx * dx + dy * dy or 1e-6
-                f = k * k / d2
-                move[ids[a]][0] += dx * f; move[ids[a]][1] += dy * f
-                move[ids[b]][0] -= dx * f; move[ids[b]][1] -= dy * f
-        for e in edges:
-            pa, pb = pos[e["s"]], pos[e["t"]]
+                d = math.sqrt(dx * dx + dy * dy) or 1e-6
+                reach = size[ids[a]] + size[ids[b]] + 3
+                f = gap * gap / d + (max(0.0, reach - d) * 6 if step > steps // 2 else 0)
+                move[ids[a]][0] += dx / d * f; move[ids[a]][1] += dy / d * f
+                move[ids[b]][0] -= dx / d * f; move[ids[b]][1] -= dy / d * f
+        for s, t, w in links:
+            pa, pb = pos[s], pos[t]
             dx, dy = pa[0] - pb[0], pa[1] - pb[1]
             d = math.sqrt(dx * dx + dy * dy) or 1e-6
-            f = d / k * (1 + math.log(e["w"])) * 0.5
-            move[e["s"]][0] -= dx * f; move[e["s"]][1] -= dy * f
-            move[e["t"]][0] += dx * f; move[e["t"]][1] += dy * f
+            # Weaker between two people with many ties, so a crowd credited on one release does not collapse into a knot.
+            f = d * d / gap * (1 + math.log(w)) * 0.5 / math.sqrt(min(ties[s], ties[t]))
+            move[s][0] -= dx / d * f; move[s][1] -= dy / d * f
+            move[t][0] += dx / d * f; move[t][1] += dy / d * f
         for i in ids:
             p, m = pos[i], move[i]
-            m[0] -= p[0] * 0.6; m[1] -= p[1] * 0.9  # gravity, flatter than tall
+            m[0] -= p[0] * 0.5; m[1] -= p[1] * 0.5
             d = math.sqrt(m[0] ** 2 + m[1] ** 2) or 1e-6
-            step = min(d, temp)
-            p[0] += m[0] / d * step; p[1] += m[1] / d * step
-        temp *= 0.992
-    xs = [p[0] for p in pos.values()]; ys = [p[1] for p in pos.values()]
-    x0, x1, y0, y1 = min(xs), max(xs), min(ys), max(ys)
-    for n in nodes:
-        n["x"] = round((pos[n["id"]][0] - x0) / ((x1 - x0) or 1), 4)
-        n["y"] = round((pos[n["id"]][1] - y0) / ((y1 - y0) or 1), 4)
+            step_by = min(d, temp)
+            p[0] += m[0] / d * step_by; p[1] += m[1] / d * step_by
+        temp = max(temp * 0.985, 0.4)
+    cx = sum(p[0] for p in pos.values()) / len(ids); cy = sum(p[1] for p in pos.values()) / len(ids)
+    for p in pos.values():
+        p[0] -= cx; p[1] -= cy
+    return pos, max(math.hypot(*pos[i]) + size[i] for i in ids) + 6
+
+
+def layout(nodes, edges):
+    """Places every dot in a box NETWORK_BOX wide and 1 tall: each circle of collaborators is its own island, and
+    islands that share work sit near each other. The seed is fixed, so the picture is the same from build to build."""
+    if not nodes:
+        return []
+    rng = random.Random(NETWORK_SEED)
+    size = {n["id"]: 2.2 + math.sqrt(n["deg"]) * 1.25 for n in nodes}
+    groups = communities([n["id"] for n in nodes], edges)
+    home = {i: g for g, ids in enumerate(groups) for i in ids}
+    inner, between = defaultdict(list), defaultdict(float)
+    for e in edges:
+        a, b = home[e["s"]], home[e["t"]]
+        if a == b:
+            inner[a].append((e["s"], e["t"], e["w"]))
+        else:
+            between[(min(a, b), max(a, b))] += e["w"]
+    local, radius = [], []
+    for g, ids in enumerate(groups):
+        pos, r = spread(ids, inner[g], size, rng)
+        local.append(pos); radius.append(r)
+    # Islands: start on a spiral, the largest in the middle, then pull together those that share work and push
+    # apart those that touch. Gravity is stronger up and down, so the whole is wider than tall.
+    at = [[math.sqrt(g) * 60 * math.cos(g * 2.4), math.sqrt(g) * 60 * math.sin(g * 2.4)] for g in range(len(groups))]
+    for step in range(600):
+        move = [[0.0, 0.0] for _ in groups]
+        for (a, b), w in between.items():
+            dx, dy = at[a][0] - at[b][0], at[a][1] - at[b][1]
+            d = math.hypot(dx, dy) or 1e-6
+            f = max(0.0, d - radius[a] - radius[b]) * min(1.0, w / 12) * 0.02
+            move[a][0] -= dx / d * f; move[a][1] -= dy / d * f
+            move[b][0] += dx / d * f; move[b][1] += dy / d * f
+        for a in range(len(groups)):
+            move[a][0] -= at[a][0] * 0.004; move[a][1] -= at[a][1] * 0.004 * 10
+        for a in range(len(groups)):
+            at[a][0] += move[a][0]; at[a][1] += move[a][1]
+        for _ in range(4):
+            for a in range(len(groups)):
+                for b in range(a + 1, len(groups)):
+                    dx, dy = at[a][0] - at[b][0], at[a][1] - at[b][1]
+                    d = math.hypot(dx, dy) or 1e-6
+                    over = radius[a] + radius[b] + 14 - d
+                    if over > 0:
+                        at[a][0] += dx / d * over / 2; at[a][1] += dy / d * over / 2
+                        at[b][0] -= dx / d * over / 2; at[b][1] -= dy / d * over / 2
+    x0 = min(p[0] - r for p, r in zip(at, radius)); x1 = max(p[0] + r for p, r in zip(at, radius))
+    y0 = min(p[1] - r for p, r in zip(at, radius)); y1 = max(p[1] + r for p, r in zip(at, radius))
+    k = min(NETWORK_BOX / (x1 - x0), 1 / (y1 - y0))
+    ox, oy = (NETWORK_BOX - (x1 - x0) * k) / 2 - x0 * k, (1 - (y1 - y0) * k) / 2 - y0 * k
+    by_id = {n["id"]: n for n in nodes}
+    for g, ids in enumerate(groups):
+        for i in ids:
+            n = by_id[i]
+            n["x"] = round((at[g][0] + local[g][i][0]) * k + ox, 4)
+            n["y"] = round((at[g][1] + local[g][i][1]) * k + oy, 4)
+            n["r"] = round(size[i] * k, 4)
+            n["g"] = g
+    lead = lambda ids: min(ids, key=lambda i: (not by_id[i]["page"], -by_id[i]["deg"], i))
+    return [{"lead": lead(ids), "n": len(ids), "x": round(at[g][0] * k + ox, 4), "y": round(at[g][1] * k + oy, 4),
+             "r": round(radius[g] * k, 4)} for g, ids in enumerate(groups)]
 
 
 def network(items, artists):
@@ -142,8 +244,8 @@ def network(items, artists):
     for e in edges:
         degree[e["s"]] += 1; degree[e["t"]] += 1
     nodes = [{"id": i, "page": i in pages, "deg": degree[i]} for i in sorted(best)]
-    layout(nodes, edges)
-    return {"nodes": nodes, "edges": edges, "connected": sum(1 for n in nodes if n["page"]),
+    groups = layout(nodes, edges)
+    return {"nodes": nodes, "edges": edges, "groups": groups, "box": NETWORK_BOX, "connected": sum(1 for n in nodes if n["page"]),
             "artists": len(pages), "linkedArtists": sum(1 for a in pages if a in adj)}
 
 
