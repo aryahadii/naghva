@@ -52,7 +52,8 @@ html[dir=rtl] .onward:hover svg { transform: scaleX(-1) translateX(3px) }
 @media (max-width: 760px) {
   .home-title { font-size: clamp(2.05rem, 9vw, 2.6rem) }
   html[lang=fa] .home-title { font-size: clamp(1.9rem, 8vw, 2.3rem) }
-  .search-hints { font-size: 13px }
+  /* Room for two lines, so a longer draw of names doesn't push the page down. */
+  .search-hints { font-size: 13px; min-height: 2lh }
   .latest { margin-top: 12px }
   .explore-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 28px 16px }
   .onward { padding: 16px }
