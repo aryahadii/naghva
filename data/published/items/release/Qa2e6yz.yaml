@@ -10,14 +10,14 @@ statements:
       quote: LABOUR x dieDAS 08
       locator: Artist or presenter video title
       accessed: '2026-11-21'
-  release date:
+  platform posting date:
   - value:
       date: '2024-02-20'
     references:
     - source: vimeo.com-api-oembed.jsonurl-https-vimeo.com-914820446
-      quote: '2024-02-20 10:38:49'
-      locator: Date the filmed excerpt was published
-      accessed: '2026-11-21'
+      quote: '"upload_date":"2024-02-20 10:38:49"'
+      locator: Vimeo oEmbed upload_date (publication timestamp)
+      accessed: '2026-11-26'
   performer:
   - value: Qwqf8en
     references:

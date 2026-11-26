@@ -62,11 +62,16 @@ test('Sahba’s tracks and programme segments link to their whole records in bot
     await page.goto(`${path}#${track}`);
     const dialog = page.locator('#release-dialog');
     await expect(dialog.getByText(trackLabel, { exact: true })).toBeVisible();
-    await dialog.locator(`a[href="${path}#${album}"]`).click();
+    const albumLink = dialog.locator(`a[href="#${album}"], a[href="${path}#${album}"]`);
+    await expect(albumLink).toHaveJSProperty('href', new URL(`${path}#${album}`, localOrigin).href);
+    await albumLink.click();
     await expect(dialog.getByRole('heading', { name: 'Ancient Heritage (feat. Pejman Hadadi)' })).toBeVisible();
     await page.goto(`${path}#${segment}`);
     await expect(dialog.getByText(segmentLabel, { exact: true })).toBeVisible();
-    await expect(dialog.locator(`a[href="${path}#persian-music-classical-and-new-sjw"]`)).toBeVisible();
+    const programme = 'persian-music-classical-and-new-sjw';
+    const programmeLink = dialog.locator(`a[href="#${programme}"], a[href="${path}#${programme}"]`);
+    await expect(programmeLink).toBeVisible();
+    await expect(programmeLink).toHaveJSProperty('href', new URL(`${path}#${programme}`, localOrigin).href);
   }
 });
 
