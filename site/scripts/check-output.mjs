@@ -64,6 +64,16 @@ for (const lang of ['en', 'fa']) {
 const attr = (tag, name) => tag.match(new RegExp(`\\s${name}="([^"]*)"`))?.[1];
 const tags = (html, name) => [...html.matchAll(new RegExp(`<${name}\\b[^>]*>`, 'g'))].map((m) => m[0]);
 const ids = (html) => new Set([...html.matchAll(/\sid="([^"]+)"/g)].map((m) => m[1]));
+// Compatibility fragments must survive every published-language build.
+for (const lang of ['en', 'fa']) {
+  const timelineIds = ids(pages.get(`/${lang}/timeline/`) ?? '');
+  for (const entry of record.timeline) {
+    for (const alias of entry.aliases ?? []) {
+      if (!timelineIds.has(alias)) problems.push(`${lang}: missing timeline alias ${alias}`);
+    }
+  }
+}
+
 const decode = (s) => s.replace(/&amp;/g, '&').replace(/&quot;/g, '"').replace(/&#39;/g, "'").replace(/&lt;/g, '<').replace(/&gt;/g, '>');
 const rootCanonical = tags(pages.get('/') ?? '', 'link').find((l) => attr(l, 'rel') === 'canonical');
 const site = process.env.SITE_URL ?? 'http://localhost:4321';
