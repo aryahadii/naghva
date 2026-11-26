@@ -27,9 +27,10 @@ interface Props {
   lang: Lang;
   words: Words;
   hero?: boolean;
-  /** A sentence of names to try, as text and names in order. */
-  hints?: (string | Text)[];
+  /** A sentence offering names to try: its words, with null where the names go, and the names to pick from. */
+  hints?: Hints;
 }
+interface Hints { sentence: (string | null)[]; names: Text[]; count: number; locale: string }
 
 let request: Promise<SearchIndex> | null = null;
 const load = () =>
@@ -41,6 +42,23 @@ const load = () =>
     }));
 
 const LIMIT = 8;
+
+/** A few of the names, in random order, joined as “a, b or c” in the page's language. */
+const drawHints = ({ sentence, names, count, locale }: Hints, random: boolean): (string | Text)[] => {
+  const pool = [...names];
+  if (random) {
+    for (let i = pool.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [pool[i], pool[j]] = [pool[j], pool[i]];
+    }
+  }
+  const chosen = pool.slice(0, count);
+  let n = 0;
+  const listed = new Intl.ListFormat(locale, { type: 'disjunction' })
+    .formatToParts(chosen.map((name) => name.text))
+    .map((p) => (p.type === 'element' ? chosen[n++] : p.value));
+  return sentence.flatMap((p) => (p === null ? listed : [p]));
+};
 
 const digits = (lang: Lang, n: number) => new Intl.NumberFormat(lang === 'fa' ? 'fa-IR' : 'en-GB').format(n);
 const shown = (n: SearchEntry['n'], lang: Lang): Text | null => n[lang] ?? n[lang === 'en' ? 'fa' : 'en'];
@@ -56,6 +74,14 @@ export default function Search({ lang, words, hero = false, hints }: Props) {
   const [open, setOpen] = useState(false);
   const input = useRef<HTMLInputElement>(null);
   const panel = useRef<HTMLDivElement>(null);
+  // The page is built once, so the names are drawn in the browser; until then the line keeps its room unseen.
+  const [tries, setTries] = useState(() => (hints ? drawHints(hints, false) : null));
+  const [drawn, setDrawn] = useState(false);
+  useEffect(() => {
+    if (!hints) return;
+    setTries(drawHints(hints, true));
+    setDrawn(true);
+  }, []);
 
   const warm = () => {
     setOpen(true);
@@ -172,9 +198,9 @@ export default function Search({ lang, words, hero = false, hints }: Props) {
         </div>
         <p class="visually-hidden" aria-live="polite">{expanded && index ? count : ''}</p>
       </form>
-      {hints && (
-        <p class="search-hints needs-js">
-          {hints.map((part) =>
+      {tries && (
+        <p class="search-hints needs-js" style={drawn ? undefined : { visibility: 'hidden' }}>
+          {tries.map((part) =>
             typeof part === 'string' ? part : (
               <button type="button" {...attrs(part, lang)} onClick={() => fill(part.text)}>{part.text}</button>
             ),
